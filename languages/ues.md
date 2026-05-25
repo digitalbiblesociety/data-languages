@@ -14,6 +14,9 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Celebic > Greater Eastern Celebic > Eastern Celebic > Southeastern Celebic > Muna-Buton > Nuclear Muna-Buton > Munan > Munic > Western Munic > Kioko"
 translations:
+  - translation_iso: jpn
+    name: キオコ語
+    auto: true
   - translation_iso: zho
     name: 基奥科语
     auto: true

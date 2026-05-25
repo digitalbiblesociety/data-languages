@@ -14,6 +14,9 @@ glottolog_family_name: Dravidian
 glottolog_classification: "Dravidian > South Dravidian > South Dravidian I > Tamil-Kannada > Tamil-Kota > Tamil-Toda > Tamil-Irula > Tamil-Kodagu > Tamil-Malayalam > Malayalamoid > Thachanadan"
 wikipedia_url: "https://en.wikipedia.org/wiki/Thachanadan_language"
 translations:
+  - translation_iso: jpn
+    name: タチャナダン語
+    auto: true
   - translation_iso: zho
     name: 塔恰纳丹语
     auto: true

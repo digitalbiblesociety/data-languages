@@ -14,6 +14,9 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Jarawan > Nigerian Jarawan > Jar > Jarawaic > Bada (Nigeria)"
 translations:
+  - translation_iso: jpn
+    name: バダ語
+    auto: true
   - translation_iso: zho
     name: 巴达语
     auto: true

@@ -14,6 +14,9 @@ glottolog_family_name: Mande
 glottolog_classification: "Mande > Western Mande > Manding-Kpelle > Central Mande > Manding-Jogo > Jogo-Jeri > Jogo > Tonjon"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tonjon_language"
 translations:
+  - translation_iso: jpn
+    name: トンジョン語
+    auto: true
   - translation_iso: zho
     name: 通琼语
     auto: true

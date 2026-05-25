@@ -15,6 +15,9 @@ glottolog_family_name: Surmic
 glottolog_classification: "Surmic > South Surmic > Southwest Surmic > Didinga-Murle > Didinga-Longarim > Didinga"
 wikipedia_url: "https://en.wikipedia.org/wiki/Didinga_language"
 translations:
+  - translation_iso: jpn
+    name: ディディンガ語
+    auto: true
   - translation_iso: zho
     name: 迪丁加语
     auto: true

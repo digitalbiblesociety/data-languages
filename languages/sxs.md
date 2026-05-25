@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Akpes-Edoid > Edoid > Northwestern Edoid > Igwic > Sasaru-Igwe > Sasaru"
 wikipedia_url: "https://en.wikipedia.org/wiki/Sasaru_language"
 translations:
+  - translation_iso: jpn
+    name: ササル語
+    auto: true
   - translation_iso: zho
     name: 萨萨鲁语
     auto: true

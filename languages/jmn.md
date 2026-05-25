@@ -15,6 +15,9 @@ glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Kuki-Chin-Naga > Angami-Ao > Central Naga > Yimchingric > Makuric > Makuri Naga"
 wikipedia_url: "https://en.wikipedia.org/wiki/Makury_language"
 translations:
+  - translation_iso: jpn
+    name: マクリ・ナガ語
+    auto: true
   - translation_iso: zho
     name: 玛库里纳迦语
     auto: true

@@ -15,6 +15,9 @@ glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > West Chadic > West Chadic B > West Chadic B.3 > South Bauchi East > Guruntumic > Tala-Sho-Zangwal > Tala-Zamwar > Zangwal"
 wikipedia_url: "https://en.wikipedia.org/wiki/Zangwal_language"
 translations:
+  - translation_iso: jpn
+    name: ザングワル語
+    auto: true
   - translation_iso: zho
     name: 赞瓦尔语
     auto: true

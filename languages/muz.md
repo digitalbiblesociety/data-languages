@@ -15,6 +15,9 @@ glottolog_family_name: Surmic
 glottolog_classification: "Surmic > South Surmic > Southeast Surmic > Pastoral Surmic > Tirma-Chai-Mursi > Mursi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mursi_language"
 translations:
+  - translation_iso: jpn
+    name: ムルシ語
+    auto: true
   - translation_iso: zho
     name: 穆尔西语
     auto: true

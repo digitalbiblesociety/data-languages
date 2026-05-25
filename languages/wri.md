@@ -14,6 +14,9 @@ glottolog_family_id: pama1250
 glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > South-West Pama-Nyungan > Pilbara > Mantharta > Wariyangga-Dhargari > Wariyangga"
 translations:
+  - translation_iso: jpn
+    name: ワリヤンガ語
+    auto: true
   - translation_iso: zho
     name: 瓦里扬加语
     auto: true

@@ -14,6 +14,9 @@ glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Bodic > Kaike-Ghale-Tamangic > Ghale-Tamangic > Ghale > Nuclear Ghale > Northern Ghale"
 translations:
+  - translation_iso: jpn
+    name: ノーザン・ガレ語
+    auto: true
   - translation_iso: zho
     name: 北加莱语
     auto: true

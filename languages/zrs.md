@@ -15,6 +15,9 @@ glottolog_family_name: Mairasic
 glottolog_classification: "Mairasic > Mairasi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mairasi_language"
 translations:
+  - translation_iso: jpn
+    name: マイラシ語
+    auto: true
   - translation_iso: zho
     name: 迈拉西语
     auto: true

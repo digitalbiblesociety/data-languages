@@ -17,6 +17,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Kinnauri_language"
 translations:
   - translation_iso: hin
     name: किन्नौरी भाषा
+  - translation_iso: jpn
+    name: キンナウリ語
+    auto: true
   - translation_iso: zho
     name: 金瑙里语
     auto: true

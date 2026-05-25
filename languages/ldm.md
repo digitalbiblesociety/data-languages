@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Mel > Northern Mel > Landoma"
 wikipedia_url: "https://en.wikipedia.org/wiki/Landoma_language"
 translations:
+  - translation_iso: jpn
+    name: ランドマ語
+    auto: true
   - translation_iso: zho
     name: 兰多玛语
     auto: true

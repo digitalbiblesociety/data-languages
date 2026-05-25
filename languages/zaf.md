@@ -15,6 +15,9 @@ glottolog_family_name: Otomanguean
 glottolog_classification: "Otomanguean > Eastern Otomanguean > Popoloca-Zapotecan > Zapotecan > Zapotec > Core Zapotec > Narrow Core Zapotec > Central Core Zapotec > Ayoquesco Zapotec"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ayoquezco_Zapotec"
 translations:
+  - translation_iso: jpn
+    name: アヨケスコ・サポテク語
+    auto: true
   - translation_iso: zho
     name: 阿约奎斯科-萨波特克语
     auto: true

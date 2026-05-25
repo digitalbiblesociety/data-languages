@@ -14,6 +14,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Celebic > Kaili-Wolio > Northern Kaili-Wolio > Uma-Sarudu > Sarudu"
 wikipedia_url: "https://en.wikipedia.org/wiki/Sarudu_language"
 translations:
+  - translation_iso: jpn
+    name: ドダ語
+    auto: true
   - translation_iso: zho
     name: 萨鲁杜语
     auto: true

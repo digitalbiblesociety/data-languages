@@ -15,6 +15,9 @@ glottolog_family_name: Sepik
 glottolog_classification: "Sepik > Sepik Hill > Western Sepik Hill > Hewa-April River > Hewa"
 wikipedia_url: "https://en.wikipedia.org/wiki/Hewa_language"
 translations:
+  - translation_iso: jpn
+    name: ヘワ語
+    auto: true
   - translation_iso: zho
     name: 赫瓦语
     auto: true

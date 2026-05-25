@@ -15,6 +15,9 @@ glottolog_family_name: Maningrida
 glottolog_classification: "Maningrida > Nakkara-Ndjebbana > Djeebbana"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ndj%C3%A9bbana_language"
 translations:
+  - translation_iso: jpn
+    name: ジェッバナ語
+    auto: true
   - translation_iso: zho
     name: 迪耶巴納語
 ---

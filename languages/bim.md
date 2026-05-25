@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Gur > Central Gur > Northern Central Gur > Bwamu-Oti-Volta > Oti-Volta > Nuclear Oti-Volta > Gurma-Yom-Oti-Volta Occidental > Gurma-Yom-Naudem > Gurma > Gurma B > Gourmantche-Moba > Moba-Bimoba > Bimoba"
 wikipedia_url: "https://en.wikipedia.org/wiki/Bimoba_language"
 translations:
+  - translation_iso: jpn
+    name: ビモバ語
+    auto: true
   - translation_iso: zho
     name: 比莫巴语
     auto: true

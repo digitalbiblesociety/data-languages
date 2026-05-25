@@ -15,6 +15,9 @@ glottolog_family_name: Mailuan
 glottolog_classification: "Mailuan > Binaharic > Binahari-Neme"
 wikipedia_url: "https://en.wikipedia.org/wiki/Binahari_language"
 translations:
+  - translation_iso: jpn
+    name: ビナハリ語
+    auto: true
   - translation_iso: zho
     name: 比纳哈里语
     auto: true

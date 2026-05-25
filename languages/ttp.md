@@ -14,6 +14,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Celebic > Kaili-Wolio > Northern Kaili-Wolio > Pamona-Tombelala > Tombelala"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mbelala_language"
 translations:
+  - translation_iso: jpn
+    name: トンベララ語
+    auto: true
   - translation_iso: zho
     name: 汤贝拉拉语
     auto: true

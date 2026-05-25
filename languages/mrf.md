@@ -12,6 +12,9 @@ longitude: 140.41769
 glottocode: else1239
 wikipedia_url: "https://en.wikipedia.org/wiki/Elseng_language"
 translations:
+  - translation_iso: jpn
+    name: エルセング語
+    auto: true
   - translation_iso: zho
     name: 埃尔森语
     auto: true

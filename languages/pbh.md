@@ -15,6 +15,9 @@ glottolog_family_name: Cariban
 glottolog_classification: "Cariban > Venezuelan Cariban > Pemong-Panare > Panare"
 wikipedia_url: "https://en.wikipedia.org/wiki/Panare_language"
 translations:
+  - translation_iso: jpn
+    name: エニャパ・ウォロマイプ語
+    auto: true
   - translation_iso: zho
     name: 埃尼亚帕沃罗迈普语
     auto: true

@@ -15,6 +15,9 @@ glottolog_family_name: Central Sudanic
 glottolog_classification: "Central Sudanic > Sara-Bongo-Bagirmi > Baka-Beli > Baka (South Sudan)"
 wikipedia_url: "https://en.wikipedia.org/wiki/Baka_language_(South_Sudan)"
 translations:
+  - translation_iso: jpn
+    name: バカ語
+    auto: true
   - translation_iso: zho
     name: 南苏丹巴卡语
     auto: true

@@ -15,6 +15,9 @@ glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > East Chadic > East Chadic B > East Chadic B.3 > Sokoroic > Miltuic > Miltu"
 wikipedia_url: "https://en.wikipedia.org/wiki/Miltu_language"
 translations:
+  - translation_iso: jpn
+    name: ミルトゥ語
+    auto: true
   - translation_iso: zho
     name: 米爾圖語
 ---

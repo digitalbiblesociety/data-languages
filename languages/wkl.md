@@ -14,6 +14,9 @@ glottolog_family_name: Dravidian
 glottolog_classification: "Dravidian > South Dravidian > South Dravidian I > Tamil-Kannada > Tamil-Kota > Tamil-Toda > Tamil-Irula > Tamil-Kodagu > Tamil-Malayalam > Malayalamoid > Kalanadic > Kalanadi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kalanadi_language"
 translations:
+  - translation_iso: jpn
+    name: カラナディ語
+    auto: true
   - translation_iso: zho
     name: 卡拉纳迪语
     auto: true

@@ -15,6 +15,9 @@ glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > Arandic-Thura-Yura > Thura-Yura > Core Thura Yura > Unclassified Core Thura-Yura > Nugunu (Australia)"
 wikipedia_url: "https://en.wikipedia.org/wiki/Nukunu_language"
 translations:
+  - translation_iso: jpn
+    name: ヌグヌ語
+    auto: true
   - translation_iso: zho
     name: 努古努语
     auto: true

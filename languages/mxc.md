@@ -16,6 +16,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > East Bantu > Southern Bantu > Shona (S.10) > Core Shona > Plateau Shona > Manyika"
 wikipedia_url: "https://en.wikipedia.org/wiki/Manyika_dialect"
 translations:
+  - translation_iso: jpn
+    name: マニカ語
+    auto: true
   - translation_iso: zho
     name: 马尼卡方言
 rolv_dialects:

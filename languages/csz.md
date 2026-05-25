@@ -17,6 +17,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Hanis_language"
 translations:
   - translation_iso: ara
     name: هانيس
+  - translation_iso: jpn
+    name: クース語
+    auto: true
   - translation_iso: zho
     name: 库斯语
     auto: true

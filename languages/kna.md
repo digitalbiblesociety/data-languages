@@ -15,6 +15,9 @@ glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > West Chadic > West Chadic A > West Chadic A.2-3 > West Chadic A.2 > Tangalic > Dera (Nigeria)"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kanakuru_language"
 translations:
+  - translation_iso: jpn
+    name: デラ語
+    auto: true
   - translation_iso: zho
     name: 德拉语
     auto: true

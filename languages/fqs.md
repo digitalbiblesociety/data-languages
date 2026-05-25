@@ -15,6 +15,9 @@ glottolog_family_name: Baibai-Fas
 glottolog_classification: "Baibai-Fas > Momu-Fas"
 wikipedia_url: "https://en.wikipedia.org/wiki/Fas_language"
 translations:
+  - translation_iso: jpn
+    name: ファス語
+    auto: true
   - translation_iso: zho
     name: 法斯语
 rolv_dialects:

@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Micronesian > Central Micronesian > Western Micronesian > Chuukic-Ponapeic > Trukic > Nuclear Trukic > Central Trukic > Satawalese-Carolinian > Macro-Carolinian > Murilo-Fanapanges > Tanapag"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tanapag_language"
 translations:
+  - translation_iso: jpn
+    name: 北カロリニアン語
+    auto: true
   - translation_iso: zho
     name: 塔纳帕格语
     auto: true

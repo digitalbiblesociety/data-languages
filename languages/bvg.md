@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > Bantu A-B10-B20-B30 > Lundu-Balong (A.10) > Bonkeng"
 wikipedia_url: "https://en.wikipedia.org/wiki/Bonkeng_language"
 translations:
+  - translation_iso: jpn
+    name: ボンケング語
+    auto: true
   - translation_iso: zho
     name: 邦肯语
     auto: true

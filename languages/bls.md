@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Celebic > Greater Eastern Celebic > Tominic > Southern Tomini > Balaesang"
 wikipedia_url: "https://en.wikipedia.org/wiki/Balaesang_language"
 translations:
+  - translation_iso: jpn
+    name: バラエサン語
+    auto: true
   - translation_iso: zho
     name: 巴拉桑语
     auto: true

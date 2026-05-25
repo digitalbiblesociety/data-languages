@@ -7,6 +7,9 @@ country_id: AU
 country_name: Australia
 status_id: 8b
 translations:
+  - translation_iso: jpn
+    name: ヤードリアワラ語
+    auto: true
   - translation_iso: zho
     name: 亚德利亚瓦拉语
     auto: true

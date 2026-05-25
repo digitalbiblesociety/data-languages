@@ -13,6 +13,9 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Defoid > Yoruboid > Edekiri > Ede > Western Ede > Southwestern Ede > Ede Ica"
 translations:
+  - translation_iso: jpn
+    name: エデ・イカ語
+    auto: true
   - translation_iso: zho
     name: 埃德伊卡语
     auto: true

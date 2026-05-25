@@ -16,6 +16,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Kundal_Shahi_language"
 translations:
   - translation_iso: hin
     name: कुंडल शाही की ज़ुबान
+  - translation_iso: jpn
+    name: クンダルシャー語
+    auto: true
   - translation_iso: zho
     name: 昆代尔沙希语
 ---

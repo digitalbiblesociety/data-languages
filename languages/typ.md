@@ -15,6 +15,9 @@ glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > Paman > Alaya-Athima > Thaypanic > Thaypan"
 wikipedia_url: "https://en.wikipedia.org/wiki/Gugu_Thaypan_language"
 translations:
+  - translation_iso: jpn
+    name: アウ・アラヤ語
+    auto: true
   - translation_iso: zho
     name: 泰潘语
     auto: true

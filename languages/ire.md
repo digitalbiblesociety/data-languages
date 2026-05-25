@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > South Halmahera-West New Guinea > Cenderawasih Bay > Southwest Cenderawasih Bay > Yaur-Yerisiam > Yerisiam"
 wikipedia_url: "https://en.wikipedia.org/wiki/Yerisiam_language"
 translations:
+  - translation_iso: jpn
+    name: イレシム語
+    auto: true
   - translation_iso: zho
     name: 伊雷西姆语
     auto: true

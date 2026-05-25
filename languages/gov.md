@@ -13,6 +13,9 @@ glottolog_family_name: Mande
 glottolog_classification: "Mande > Eastern Mande > Southeastern Mande > Mano-Dan > Guro-Dan > Dan-Toura > Toura-Goo > Goo"
 wikipedia_url: "https://en.wikipedia.org/wiki/Goo_language"
 translations:
+  - translation_iso: jpn
+    name: グー語
+    auto: true
   - translation_iso: zho
     name: 古语
     auto: true

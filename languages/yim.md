@@ -17,6 +17,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Yimkhiungr%C3%BC_language"
 translations:
   - translation_iso: hin
     name: यिमचुंगगुरु भाषा
+  - translation_iso: jpn
+    name: イムチュングル・ナガ語
+    auto: true
   - translation_iso: zho
     name: 伊姆春古鲁-纳格语
     auto: true

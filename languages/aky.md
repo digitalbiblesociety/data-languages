@@ -15,6 +15,9 @@ glottolog_family_name: Great Andamanese
 glottolog_classification: "Great Andamanese > Middle Great Andamanese > Okol-Opucikwar > Akakol"
 wikipedia_url: "https://en.wikipedia.org/wiki/Okol_language"
 translations:
+  - translation_iso: jpn
+    name: アカコル語
+    auto: true
   - translation_iso: kor
     name: 오콜어
   - translation_iso: zho

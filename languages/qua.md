@@ -15,6 +15,9 @@ glottolog_family_name: Siouan
 glottolog_classification: "Siouan > Mississippi Valley > Dhegiha > Quapaw"
 wikipedia_url: "https://en.wikipedia.org/wiki/Quapaw_language"
 translations:
+  - translation_iso: jpn
+    name: クアパー語
+    auto: true
   - translation_iso: zho
     name: 夸帕语
     auto: true

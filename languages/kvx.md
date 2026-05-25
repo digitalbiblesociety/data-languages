@@ -18,6 +18,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Parkari_Koli_language"
 translations:
   - translation_iso: ara
     name: باركري كولي
+  - translation_iso: jpn
+    name: パルカリ・コリ語
+    auto: true
   - translation_iso: zho
     name: 帕尔卡里科利语
     auto: true

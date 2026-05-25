@@ -15,6 +15,9 @@ glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Iranian-Nuristani > Iranian > Saka-Wakhi > Saka > Tumshuqese"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tumshuqese"
 translations:
+  - translation_iso: jpn
+    name: トゥムシュケーゼ語
+    auto: true
   - translation_iso: zho
     name: 图姆舒克语
     auto: true

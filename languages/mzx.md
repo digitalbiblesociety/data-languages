@@ -10,6 +10,9 @@ latitude: 1.98815
 longitude: -58.50461
 wikipedia_url: "https://en.wikipedia.org/wiki/Mawayana_language"
 translations:
+  - translation_iso: jpn
+    name: マワヤナ語
+    auto: true
   - translation_iso: zho
     name: 玛瓦亚纳语
     auto: true

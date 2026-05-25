@@ -15,6 +15,9 @@ glottolog_family_name: Austroasiatic
 glottolog_classification: "Austroasiatic > Bahnaric > North Bahnaric > Lamamic > Kaco'"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kaco%CA%BC_language"
 translations:
+  - translation_iso: jpn
+    name: カコ語
+    auto: true
   - translation_iso: zho
     name: 卡乔语
 ---

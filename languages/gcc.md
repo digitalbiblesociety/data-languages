@@ -15,6 +15,9 @@ glottolog_family_name: Baining
 glottolog_classification: "Baining > Southern Baining > Mali-Simbali > Mali"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mali_language"
 translations:
+  - translation_iso: jpn
+    name: マリ語
+    auto: true
   - translation_iso: zho
     name: 马里语
 rolv_dialects:

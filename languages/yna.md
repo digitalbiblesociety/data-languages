@@ -15,6 +15,9 @@ glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Burmo-Qiangic > Lolo-Burmese > Loloish > Ni-Li-Kazhouish > Southeastern Ngwi > Nisoid > Nuclear Nisoid > Unclassified Nuclear Nisoid > Aluo"
 wikipedia_url: "https://en.wikipedia.org/wiki/Aluo_language"
 translations:
+  - translation_iso: jpn
+    name: アルオ語
+    auto: true
   - translation_iso: zho
     name: 阿罗语
 ---

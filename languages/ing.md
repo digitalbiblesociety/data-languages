@@ -15,6 +15,9 @@ glottolog_family_name: Athabaskan-Eyak-Tlingit
 glottolog_classification: "Athabaskan-Eyak-Tlingit > Athabaskan-Eyak > Athabaskan > Central Alaska-Yukon Athabaskan > Koyukonic > Degexit'an"
 wikipedia_url: "https://en.wikipedia.org/wiki/Deg_Xinag_language"
 translations:
+  - translation_iso: jpn
+    name: デゲエキシタン語
+    auto: true
   - translation_iso: zho
     name: 德格斯納格語
 rolv_dialects:

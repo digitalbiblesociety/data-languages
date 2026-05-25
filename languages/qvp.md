@@ -15,6 +15,9 @@ glottolog_family_name: Quechuan
 glottolog_classification: "Quechuan > Quechua I > Pacaraos Quechua"
 wikipedia_url: "https://en.wikipedia.org/wiki/Pacaraos_Quechua"
 translations:
+  - translation_iso: jpn
+    name: パカラオスケチュア語
+    auto: true
   - translation_iso: zho
     name: 帕卡劳斯克丘亚语
     auto: true

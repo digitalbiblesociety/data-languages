@@ -14,6 +14,9 @@ glottolog_family_name: Yuat
 glottolog_classification: "Yuat > Miyak-Bun-Biwat > Bun-Mundukumo > Bun"
 wikipedia_url: "https://en.wikipedia.org/wiki/Bun_language"
 translations:
+  - translation_iso: jpn
+    name: ブン語
+    auto: true
   - translation_iso: zho
     name: 邦语
     auto: true

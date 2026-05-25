@@ -15,6 +15,9 @@ glottolog_family_name: Cariban
 glottolog_classification: "Cariban > Guianan > Taranoan > Tiriyoan > Trió"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tiriy%C3%B3_language"
 translations:
+  - translation_iso: jpn
+    name: タレーノ・イヨミ語
+    auto: true
   - translation_iso: zho
     name: 特里奥语
     auto: true

@@ -15,6 +15,9 @@ glottolog_family_name: Mande
 glottolog_classification: "Mande > Western Mande > Northwestern Mande > Duun-Bobo > Duun-Jo > Duun-Seenku > Seeku"
 wikipedia_url: "https://en.wikipedia.org/wiki/Sembla_language"
 translations:
+  - translation_iso: jpn
+    name: センブラ語
+    auto: true
   - translation_iso: zho
     name: 森布拉語
 rolv_dialects:

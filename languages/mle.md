@@ -14,6 +14,9 @@ glottolog_family_name: Ndu
 glottolog_classification: "Ndu > Nuclear Ndu > Manambu-Yalaku > Manambu"
 wikipedia_url: "https://en.wikipedia.org/wiki/Manambu_language"
 translations:
+  - translation_iso: jpn
+    name: マナンブ語
+    auto: true
   - translation_iso: kor
     name: 마남부어
   - translation_iso: zho

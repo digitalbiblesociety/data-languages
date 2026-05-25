@@ -16,6 +16,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Albarradas_Sign_Language"
 translations:
   - translation_iso: hin
     name: अल्बराडस सांकेतिक भाषा
+  - translation_iso: jpn
+    name: アルバラダ手話
+    auto: true
   - translation_iso: zho
     name: 阿尔巴拉达斯手语
     auto: true

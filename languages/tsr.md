@@ -14,6 +14,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > North and Central Vanuatu > Northern Vanuatu > Espiritu Santo > West Santo > Southwest Santo > Akei"
 wikipedia_url: "https://en.wikipedia.org/wiki/Akei_language"
 translations:
+  - translation_iso: jpn
+    name: タシリキ語
+    auto: true
   - translation_iso: zho
     name: 阿凯语
     auto: true

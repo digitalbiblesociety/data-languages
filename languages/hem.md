@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > Central-Western Bantu > Luban > Luba-Kaonde > Lubaic > Bangubangu-Kasai > Hemba-Yazi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Hemba_language"
 translations:
+  - translation_iso: jpn
+    name: ヘンバ語
+    auto: true
   - translation_iso: zho
     name: 海姆巴语
     auto: true

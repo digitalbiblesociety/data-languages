@@ -13,6 +13,9 @@ glottolog_family_name: Nilotic
 glottolog_classification: "Nilotic > Eastern Nilotic > Teso-Lotuxo-Maa > Lotuxo-Maa > Lotuxo > Lopit-Dongotono > Dongotonic > Okolie"
 wikipedia_url: "https://en.wikipedia.org/wiki/Okolie_language"
 translations:
+  - translation_iso: jpn
+    name: オコリエ語
+    auto: true
   - translation_iso: zho
     name: 奥科利语
     auto: true

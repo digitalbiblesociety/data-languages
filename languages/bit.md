@@ -15,6 +15,9 @@ glottolog_family_name: Sepik
 glottolog_classification: "Sepik > Sepik Hill > Central-Eastern Sepik Hill > Central Sepik Hill > Bahinemic > Berinomo"
 wikipedia_url: "https://en.wikipedia.org/wiki/Berinomo_language"
 translations:
+  - translation_iso: jpn
+    name: ベリノモ語
+    auto: true
   - translation_iso: zho
     name: 贝里诺莫语
     auto: true

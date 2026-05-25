@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > Bantu A-B10-B20-B30 > Makaa-Kako (A.80-90) > Makaa-Njem (A.80) > Mpoic > Mpongmpong"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mpumpong_language"
 translations:
+  - translation_iso: jpn
+    name: ムプムポン語
+    auto: true
   - translation_iso: zho
     name: 姆普姆邦语
     auto: true

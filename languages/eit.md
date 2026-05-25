@@ -15,6 +15,9 @@ glottolog_family_name: Nuclear Torricelli
 glottolog_classification: "Nuclear Torricelli > Kombio-Arapesh-Urat > Kombio-Yambes > Kombioic > Eitiep"
 wikipedia_url: "https://en.wikipedia.org/wiki/Eitiep_language"
 translations:
+  - translation_iso: jpn
+    name: エイティエプ語
+    auto: true
   - translation_iso: zho
     name: 埃缇普语
     auto: true

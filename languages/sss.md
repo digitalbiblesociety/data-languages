@@ -14,6 +14,9 @@ glottolog_family_id: aust1305
 glottolog_family_name: Austroasiatic
 glottolog_classification: "Austroasiatic > Katuic > West Katuic > Brou-So > Western Bru-So > Sô"
 translations:
+  - translation_iso: jpn
+    name: ブルー語
+    auto: true
   - translation_iso: zho
     name: 索语
     auto: true

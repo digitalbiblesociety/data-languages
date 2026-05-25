@@ -15,6 +15,9 @@ glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > South-West Pama-Nyungan > Kartu-Nhanda > Kartu > Wajarri"
 wikipedia_url: "https://en.wikipedia.org/wiki/Wajarri_language"
 translations:
+  - translation_iso: jpn
+    name: ワジャリ語
+    auto: true
   - translation_iso: zho
     name: 瓦贾里语
 ---

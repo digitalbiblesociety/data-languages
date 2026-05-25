@@ -15,6 +15,9 @@ glottolog_family_name: East Kutubu
 glottolog_classification: "East Kutubu > Foi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Foi_language"
 translations:
+  - translation_iso: jpn
+    name: フォイ語
+    auto: true
   - translation_iso: zho
     name: 福伊语
     auto: true

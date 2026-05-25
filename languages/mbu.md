@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Jarawan > Nigerian Jarawan > Numan > Mbula-Bwazza"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mbula-Bwazza_language"
 translations:
+  - translation_iso: jpn
+    name: ムブラ・ブワッザ語
+    auto: true
   - translation_iso: zho
     name: 姆布拉-布瓦扎语
     auto: true

@@ -15,6 +15,9 @@ glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > West Chadic > West Chadic A > West Chadic A.2-3 > West Chadic A.2 > Tangalic > Nuclear Tangalic > Tangale-Kwami-Kupto > Kwami-Kupto > Kwaami"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kwaami_language"
 translations:
+  - translation_iso: jpn
+    name: クワアミ語
+    auto: true
   - translation_iso: zho
     name: 克瓦阿米语
     auto: true

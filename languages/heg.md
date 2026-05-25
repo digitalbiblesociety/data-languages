@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Timor-Babar > Helong"
 wikipedia_url: "https://en.wikipedia.org/wiki/Helong_language"
 translations:
+  - translation_iso: jpn
+    name: ヘロング語
+    auto: true
   - translation_iso: zho
     name: 赫龙语
 rolv_dialects:

@@ -12,6 +12,9 @@ longitude: 136.13974
 glottocode: kehu1238
 wikipedia_url: "https://en.wikipedia.org/wiki/Keuw_language"
 translations:
+  - translation_iso: jpn
+    name: ケフ語
+    auto: true
   - translation_iso: zho
     name: 克胡语
     auto: true

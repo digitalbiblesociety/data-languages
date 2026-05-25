@@ -14,6 +14,9 @@ glottolog_family_name: Angan
 glottolog_classification: "Angan > Nuclear Angan > Wojokesic > Kawacha"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kawacha_language"
 translations:
+  - translation_iso: jpn
+    name: カワチャ語
+    auto: true
   - translation_iso: zho
     name: 卡瓦恰语
     auto: true

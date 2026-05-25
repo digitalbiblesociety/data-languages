@@ -15,6 +15,9 @@ glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Indo-Aryan > Middle-Modern Indo-Aryan > Continental Indo-Aryan > Midlands Indo-Aryan > Apabhramsic > Gujarati-Rajasthani > Rajasthani > Western Rajasthani > Goaria"
 wikipedia_url: "https://en.wikipedia.org/wiki/Goaria_language"
 translations:
+  - translation_iso: jpn
+    name: ゴアリア語
+    auto: true
   - translation_iso: zho
     name: 戈阿里亚语
     auto: true

@@ -14,6 +14,9 @@ glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Madang > Rai Coast > Kabenau > Lemio"
 wikipedia_url: "https://en.wikipedia.org/wiki/Lemio_language"
 translations:
+  - translation_iso: jpn
+    name: レミオ語
+    auto: true
   - translation_iso: zho
     name: 莱米奥语
     auto: true

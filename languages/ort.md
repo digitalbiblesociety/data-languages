@@ -16,6 +16,9 @@ glottolog_classification: "Indo-European > Classical Indo-European > Indo-Irania
 translations:
   - translation_iso: hin
     name: And
+  - translation_iso: jpn
+    name: アディバシ・オリヤ語
+    auto: true
   - translation_iso: zho
     name: 阿迪瓦西奥里亚语
     auto: true

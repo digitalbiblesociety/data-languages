@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > North and Central Vanuatu > Northern Vanuatu > Espiritu Santo > West Santo > Cape Cumberland > Valpei"
 wikipedia_url: "https://en.wikipedia.org/wiki/Valpei_language"
 translations:
+  - translation_iso: jpn
+    name: ヴァルペイ語
+    auto: true
   - translation_iso: zho
     name: 瓦尔佩语
     auto: true

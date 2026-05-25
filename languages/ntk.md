@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > East Bantu > Northeast Savanna Bantu > Great Lakes Bantu > East Nyanza > Nyanza Mara > South Mara > Western Serengeti > Southeast Mara > Ikoma-Nata"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ikoma_language"
 translations:
+  - translation_iso: jpn
+    name: イコマ・ナタ・イセンイェ語
+    auto: true
   - translation_iso: zho
     name: 伊科玛-纳塔-伊塞尼耶语
     auto: true

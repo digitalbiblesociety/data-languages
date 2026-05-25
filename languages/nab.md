@@ -15,6 +15,9 @@ glottolog_family_name: Nambiquaran
 glottolog_classification: "Nambiquaran > Nambikwara Complex > Southern Nambikuára"
 wikipedia_url: "https://en.wikipedia.org/wiki/Nambikwara_language"
 translations:
+  - translation_iso: jpn
+    name: 南ナンビクワラ語
+    auto: true
   - translation_iso: zho
     name: 南比夸拉語
 rolv_dialects:

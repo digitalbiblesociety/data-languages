@@ -11,6 +11,9 @@ longitude: 144.21446
 glottocode: wiru1244
 wikipedia_url: "https://en.wikipedia.org/wiki/Wiru_language"
 translations:
+  - translation_iso: jpn
+    name: ウィル語
+    auto: true
   - translation_iso: zho
     name: 威鲁语
     auto: true

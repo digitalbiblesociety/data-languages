@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Gur > Central Gur > Southern Central Gur > Grusi > East-West Grusi > Eastern Grusi > Kabiyeic > Lukpa"
 wikipedia_url: "https://en.wikipedia.org/wiki/Lukpa_language"
 translations:
+  - translation_iso: jpn
+    name: ルクパ語
+    auto: true
   - translation_iso: zho
     name: 卢克帕语
 rolv_dialects:

@@ -15,6 +15,9 @@ glottolog_family_name: Mirndi
 glottolog_classification: "Mirndi > Jingulu"
 wikipedia_url: "https://en.wikipedia.org/wiki/Jingulu_language"
 translations:
+  - translation_iso: jpn
+    name: ジングル語
+    auto: true
   - translation_iso: zho
     name: 金古魯語
 ---

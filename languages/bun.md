@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Mel > Southern Mel > Bullom > Sherbro"
 wikipedia_url: "https://en.wikipedia.org/wiki/Sherbro_language"
 translations:
+  - translation_iso: jpn
+    name: シェルブロ語
+    auto: true
   - translation_iso: zho
     name: 舍尔布罗语
     auto: true

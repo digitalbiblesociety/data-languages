@@ -14,6 +14,9 @@ glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Iranian-Nuristani > Iranian > Central Iranian PBS > Sogdic-Ossetic > Ossetic > Old Ossetic"
 translations:
+  - translation_iso: jpn
+    name: 古オセチア語
+    auto: true
   - translation_iso: zho
     name: 古奥塞梯语
     auto: true

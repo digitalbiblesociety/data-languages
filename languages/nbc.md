@@ -17,6 +17,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Chang_language"
 translations:
   - translation_iso: hin
     name: चांग भाषा
+  - translation_iso: jpn
+    name: チャン・ナガ語
+    auto: true
   - translation_iso: zho
     name: 昌纳加语
     auto: true

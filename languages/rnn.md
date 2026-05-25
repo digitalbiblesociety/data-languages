@@ -14,6 +14,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > South Halmahera-West New Guinea > Cenderawasih Bay > Biakic > Biak-Roon > Roon"
 wikipedia_url: "https://en.wikipedia.org/wiki/Roon_language"
 translations:
+  - translation_iso: jpn
+    name: ルーン語
+    auto: true
   - translation_iso: zho
     name: 罗恩语
     auto: true

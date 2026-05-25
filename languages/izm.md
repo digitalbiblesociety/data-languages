@@ -12,6 +12,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Kainji > Central Kainji > Basa-Eastern Kainji > Eastern Kainji > Jos > Kauru > Kizamani"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kizamani_language"
 translations:
+  - translation_iso: jpn
+    name: キザマニ語
+    auto: true
   - translation_iso: zho
     name: 基扎玛尼语
     auto: true

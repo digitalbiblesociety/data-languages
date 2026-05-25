@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > Bantu A-B10-B20-B30 > Basaa-Yaunde (A40-70) > Basaa (A.40) > Abo-Barombi > Barombi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Rombi_language"
 translations:
+  - translation_iso: jpn
+    name: バロムビ語
+    auto: true
   - translation_iso: zho
     name: 巴罗姆比语
     auto: true

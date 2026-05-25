@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > North-Central Atlantic > Central Atlantic > Bak > Joola-Manjaku > Jola > FH-Jola > PF-Jola > Her-Ejamat > Ejamat"
 wikipedia_url: "https://en.wikipedia.org/wiki/Jola-Felupe_language"
 translations:
+  - translation_iso: jpn
+    name: エジャマット語
+    auto: true
   - translation_iso: zho
     name: 埃贾马特语
     auto: true

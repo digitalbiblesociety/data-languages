@@ -13,6 +13,9 @@ translations:
     name: سنوهوميش
   - translation_iso: hin
     name: स्नोहोमिश
+  - translation_iso: jpn
+    name: スカジット・ニスクワリ語
+    auto: true
   - translation_iso: zho
     name: 斯诺霍米什语
     auto: true

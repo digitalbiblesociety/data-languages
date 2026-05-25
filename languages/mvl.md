@@ -15,6 +15,9 @@ glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > Paman > Mbara-Yanga"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mbara-Yanga_language"
 translations:
+  - translation_iso: jpn
+    name: ムバラ語
+    auto: true
   - translation_iso: zho
     name: 澳大利亚姆巴拉语
     auto: true

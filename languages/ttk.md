@@ -15,6 +15,9 @@ glottolog_family_name: Barbacoan
 glottolog_classification: "Barbacoan > Coconucan > Totoro"
 wikipedia_url: "https://en.wikipedia.org/wiki/Totoro_language"
 translations:
+  - translation_iso: jpn
+    name: ナムリック語
+    auto: true
   - translation_iso: zho
     name: 托托罗语
     auto: true

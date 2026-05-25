@@ -15,6 +15,9 @@ glottolog_family_name: South Bougainville
 glottolog_classification: "South Bougainville > Nasioiic > Sibe (Nasioi)"
 wikipedia_url: "https://en.wikipedia.org/wiki/Nagovisi_language"
 translations:
+  - translation_iso: jpn
+    name: シベ語
+    auto: true
   - translation_iso: zho
     name: 锡伯语
     auto: true

@@ -14,6 +14,9 @@ glottolog_family_id: nucl1709
 glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Dani > Ngalik-Nduga > Yalic > Angguruk Yali"
 translations:
+  - translation_iso: jpn
+    name: アングルク・ヤリ語
+    auto: true
   - translation_iso: zho
     name: 昂古鲁克-亚里语
     auto: true

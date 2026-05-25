@@ -14,6 +14,9 @@ glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > Paman > Norman Pama > Walangama"
 wikipedia_url: "https://en.wikipedia.org/wiki/Walangama_language"
 translations:
+  - translation_iso: jpn
+    name: ワランガマ語
+    auto: true
   - translation_iso: zho
     name: 瓦兰加马语
     auto: true

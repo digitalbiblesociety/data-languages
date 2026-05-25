@@ -9,6 +9,9 @@ status_id: 6a
 latitude: 15.49282
 longitude: 107.29597
 translations:
+  - translation_iso: jpn
+    name: タレン語
+    auto: true
   - translation_iso: zho
     name: 塔伦语
     auto: true

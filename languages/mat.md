@@ -14,6 +14,9 @@ glottolog_family_id: otom1299
 glottolog_family_name: Otomanguean
 glottolog_classification: "Otomanguean > Western Otomanguean > Otopame-Chinantecan > Otopamean > Matlatzincan > San Francisco Matlatzinca"
 translations:
+  - translation_iso: jpn
+    name: サン・フランシスコ・マトラツィンカ語
+    auto: true
   - translation_iso: zho
     name: 圣弗朗西斯科马特拉特平卡语
     auto: true

@@ -17,6 +17,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Halbi_language"
 translations:
   - translation_iso: hin
     name: हल्बी भाषा
+  - translation_iso: jpn
+    name: ハルビ語
+    auto: true
   - translation_iso: zho
     name: 哈尔比语
     auto: true

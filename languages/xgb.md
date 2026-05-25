@@ -14,6 +14,9 @@ glottolog_family_name: Mande
 glottolog_classification: "Mande > Eastern Mande > Southeastern Mande > Nwa-Ben > Unclassified Nwa-Ben > Gbin"
 wikipedia_url: "https://en.wikipedia.org/wiki/Gbin_language"
 translations:
+  - translation_iso: jpn
+    name: ギビン語
+    auto: true
   - translation_iso: zho
     name: 吉宾语
     auto: true

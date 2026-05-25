@@ -15,6 +15,9 @@ glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > Rockhampton-Gladstone > Bayali"
 wikipedia_url: "https://en.wikipedia.org/wiki/Bayali_language"
 translations:
+  - translation_iso: jpn
+    name: バヤリ語
+    auto: true
   - translation_iso: zho
     name: 巴亚利语
     auto: true

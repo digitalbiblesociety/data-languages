@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > Central-Western Bantu > North Zaire River > Rivers Bantu > Ngiri > Ngiri Terrien > Ngombe-Ababuan > Ababuan > Old Bomokandian > Komoic > Bilaic > Komo (Democratic Republic of Congo)"
 wikipedia_url: "https://en.wikipedia.org/wiki/Komo_language_(Bantu)"
 translations:
+  - translation_iso: jpn
+    name: コモ語
+    auto: true
   - translation_iso: zho
     name: 科莫语
     auto: true

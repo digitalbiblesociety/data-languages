@@ -15,6 +15,9 @@ glottolog_family_name: Pauwasi
 glottolog_classification: "Pauwasi > Eastern Pauwasi > Yafi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Yafi_language"
 translations:
+  - translation_iso: jpn
+    name: ヤフィ語
+    auto: true
   - translation_iso: zho
     name: 亚菲语
     auto: true

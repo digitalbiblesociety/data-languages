@@ -12,6 +12,9 @@ glottolog_family_name: Unclassifiable
 glottolog_classification: "Unclassifiable > Michigamea"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mitchigamea_language"
 translations:
+  - translation_iso: jpn
+    name: ミチガメア語
+    auto: true
   - translation_iso: zho
     name: 米奇根梅语
     auto: true

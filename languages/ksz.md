@@ -14,6 +14,9 @@ glottolog_family_id: aust1305
 glottolog_family_name: Austroasiatic
 glottolog_classification: "Austroasiatic > Mundaic > North Munda > Kherwarian > Mundaric > Kodaku-Korwa > Kodaku"
 translations:
+  - translation_iso: jpn
+    name: コダク語
+    auto: true
   - translation_iso: zho
     name: 科达库语
     auto: true

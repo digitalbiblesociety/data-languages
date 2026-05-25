@@ -15,6 +15,9 @@ glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Iranian-Nuristani > Iranian > Central Iranian PBS > Central Iranian PB > Northwestern Iranian > Adharic > Tatic > Central Tatic > Khalkhalic > Karanic"
 wikipedia_url: "https://en.wikipedia.org/wiki/Karan_language"
 translations:
+  - translation_iso: jpn
+    name: コレシュエ・ロスタム語
+    auto: true
   - translation_iso: zho
     name: 科雷什-罗斯塔姆语
     auto: true

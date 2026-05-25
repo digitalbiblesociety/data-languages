@@ -15,6 +15,9 @@ glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Finisterre-Huon > Finisterre-Saruwaged > Gusap-Mot > Gira-Neko-Nekgini > Madi (Papua New Guinea)"
 wikipedia_url: "https://en.wikipedia.org/wiki/Gira_language"
 translations:
+  - translation_iso: jpn
+    name: マディ語
+    auto: true
   - translation_iso: zho
     name: 马迪语
     auto: true

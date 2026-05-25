@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Cameroun-Ubangian > Central Adamawa > Mumuye-Yandang > Gengle-Kugama"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kugama_language"
 translations:
+  - translation_iso: jpn
+    name: クガマ語
+    auto: true
   - translation_iso: zho
     name: 库加马语
     auto: true

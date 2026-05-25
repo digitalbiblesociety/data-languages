@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > North and Central Vanuatu > Northern Vanuatu > Torres-Banks linkage > Lemerig-Veraa > Lemerig"
 wikipedia_url: "https://en.wikipedia.org/wiki/Lemerig_language"
 translations:
+  - translation_iso: jpn
+    name: レメリグ語
+    auto: true
   - translation_iso: zho
     name: 勒梅里格语
     auto: true

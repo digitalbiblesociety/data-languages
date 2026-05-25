@@ -15,6 +15,9 @@ glottolog_family_name: Uru-Chipaya
 glottolog_classification: "Uru-Chipaya > Uru"
 wikipedia_url: "https://en.wikipedia.org/wiki/Uru_language"
 translations:
+  - translation_iso: jpn
+    name: イル・イツ語
+    auto: true
   - translation_iso: kor
     name: 우루어
   - translation_iso: zho

@@ -14,6 +14,9 @@ glottolog_family_id: anim1240
 glottolog_family_name: Anim
 glottolog_classification: "Anim > Marind-Boazi-Yaqai > Marindic > Bian Marind"
 translations:
+  - translation_iso: jpn
+    name: ビアン・マリンド語
+    auto: true
   - translation_iso: zho
     name: 比安马林德语
     auto: true

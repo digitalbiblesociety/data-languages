@@ -14,6 +14,9 @@ glottolog_family_id: mixe1284
 glottolog_family_name: Mixe-Zoque
 glottolog_classification: "Mixe-Zoque > Zoque > Chiapas-Jitotolteco Zoque > Chiapas Zoque > Northern Chiapas Zoque"
 translations:
+  - translation_iso: jpn
+    name: フランシスコ・レオン・ゾケ語
+    auto: true
   - translation_iso: zho
     name: 弗朗西斯科莱昂索克语
     auto: true

@@ -14,6 +14,9 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Timor-Babar > Lakalei-Idate > Lakalei"
 translations:
+  - translation_iso: jpn
+    name: ラカレイ語
+    auto: true
   - translation_iso: zho
     name: 拉卡莱语
     auto: true

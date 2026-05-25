@@ -15,6 +15,9 @@ glottolog_family_name: Cariban
 glottolog_classification: "Cariban > Opon-Yukpan > Yukpan > Japrería"
 wikipedia_url: "https://en.wikipedia.org/wiki/Japreria_language"
 translations:
+  - translation_iso: jpn
+    name: ジャプレリア語
+    auto: true
   - translation_iso: zho
     name: 哈普雷里亚语
 ---

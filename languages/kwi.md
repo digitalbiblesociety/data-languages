@@ -15,6 +15,9 @@ glottolog_family_name: Barbacoan
 glottolog_classification: "Barbacoan > Awa-Southern Barbacoan > Awa-Cuaiquer"
 wikipedia_url: "https://en.wikipedia.org/wiki/Awa_Pit_language"
 translations:
+  - translation_iso: jpn
+    name: アワ・クアイケル語
+    auto: true
   - translation_iso: zho
     name: 阿瓦语
 ---

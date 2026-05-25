@@ -15,6 +15,9 @@ glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Madang > Croisilles > Greater Northern Adelbert > Northern Adelbert > Manep-Barem > Barem"
 wikipedia_url: "https://en.wikipedia.org/wiki/Barem_language"
 translations:
+  - translation_iso: jpn
+    name: ブレム語
+    auto: true
   - translation_iso: zho
     name: 布雷姆语
     auto: true

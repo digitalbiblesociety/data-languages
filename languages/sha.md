@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Benue-Congo Plateau > Beromic > Shall-Zwall"
 wikipedia_url: "https://en.wikipedia.org/wiki/Shall-Zwall_language"
 translations:
+  - translation_iso: jpn
+    name: シャルズワール語
+    auto: true
   - translation_iso: zho
     name: 沙尔-兹瓦尔语
     auto: true

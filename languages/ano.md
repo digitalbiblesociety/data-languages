@@ -12,6 +12,9 @@ longitude: -72.08686
 glottocode: ando1256
 wikipedia_url: "https://en.wikipedia.org/wiki/Andoque_language"
 translations:
+  - translation_iso: jpn
+    name: アンドケ語
+    auto: true
   - translation_iso: kor
     name: 안도케어
   - translation_iso: zho

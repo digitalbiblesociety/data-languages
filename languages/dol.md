@@ -14,6 +14,9 @@ glottolog_family_name: Doso-Turumsa
 glottolog_classification: "Doso-Turumsa > Doso"
 wikipedia_url: "https://en.wikipedia.org/wiki/Doso_language"
 translations:
+  - translation_iso: jpn
+    name: ドソ語
+    auto: true
   - translation_iso: zho
     name: 多索语
     auto: true

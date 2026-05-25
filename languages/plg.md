@@ -15,6 +15,9 @@ glottolog_family_name: Guaicuruan
 glottolog_classification: "Guaicuruan > Guaicuru del Sur > Qom > Pilaga-Toba > Pilagá"
 wikipedia_url: "https://en.wikipedia.org/wiki/Pilag%C3%A1_language"
 translations:
+  - translation_iso: jpn
+    name: ピラガ語
+    auto: true
   - translation_iso: zho
     name: 皮拉加语
     auto: true

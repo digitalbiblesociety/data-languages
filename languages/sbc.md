@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Admiralty Islands > Eastern Admiralty Islands > Manus > East Manus > Kurti-Kele-Ere > Kele (Papua New Guinea)"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kele_language_(New_Guinea)"
 translations:
+  - translation_iso: jpn
+    name: ゲレ語
+    auto: true
   - translation_iso: zho
     name: 克莱语（巴布亚新几内亚）
     auto: true

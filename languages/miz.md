@@ -15,6 +15,9 @@ glottolog_family_name: Otomanguean
 glottolog_classification: "Otomanguean > Eastern Otomanguean > Amuzgo-Mixtecan > Mixtecan > Mixtec-Cuicatec > Mixtec > Northern Alta Mixtec > Coatzospan Mixtec"
 wikipedia_url: "https://en.wikipedia.org/wiki/Coatzospan_Mixtec"
 translations:
+  - translation_iso: jpn
+    name: コアツォスパン・ミステク語
+    auto: true
   - translation_iso: zho
     name: 科阿特索潘混合语
     auto: true

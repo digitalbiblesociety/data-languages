@@ -15,6 +15,9 @@ glottolog_family_id: spee1234
 glottolog_family_name: Speech Register
 glottolog_classification: "Speech Register > Indo-European Speech Register > Scandinavian Romani > Tavringer Romani"
 translations:
+  - translation_iso: jpn
+    name: タブリンガーロマニ語
+    auto: true
   - translation_iso: zho
     name: 塔夫林格罗姆语
     auto: true

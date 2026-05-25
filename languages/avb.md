@@ -14,6 +14,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > North New Guinea linkage > Ngero-Vitiaz linkage > Vitiaz linkage > Southwest New Britain linkage > Arawe-Pasismanua > Arawe > East Arawe > Avau"
 wikipedia_url: "https://en.wikipedia.org/wiki/Avau_language"
 translations:
+  - translation_iso: jpn
+    name: アバウ語
+    auto: true
   - translation_iso: zho
     name: 阿瓦乌语
     auto: true

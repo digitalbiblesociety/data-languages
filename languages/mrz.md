@@ -15,6 +15,9 @@ glottolog_family_name: Anim
 glottolog_classification: "Anim > Marind-Boazi-Yaqai > Marindic > Marind"
 wikipedia_url: "https://en.wikipedia.org/wiki/Marind_language"
 translations:
+  - translation_iso: jpn
+    name: マリンド語
+    auto: true
   - translation_iso: zho
     name: 玛琳德语
     auto: true

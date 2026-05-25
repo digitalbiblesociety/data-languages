@@ -15,6 +15,9 @@ glottolog_family_name: Otomanguean
 glottolog_classification: "Otomanguean > Eastern Otomanguean > Popoloca-Zapotecan > Zapotecan > Zapotec > Core Zapotec > Narrow Core Zapotec > Northern Core Zapotec > Choapan Zapotec"
 wikipedia_url: "https://en.wikipedia.org/wiki/Cho%C3%A1pam_Zapotec"
 translations:
+  - translation_iso: jpn
+    name: チョアパン・サポテク語
+    auto: true
   - translation_iso: zho
     name: 乔阿潘萨波特克语
     auto: true

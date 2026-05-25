@@ -15,6 +15,9 @@ glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Germanic > Northwest Germanic > West Germanic > Macro-Dutch > Middle-Modern Dutch > Modern Dutch > Global Dutch > Afrikaansic > Oorlams"
 wikipedia_url: "https://en.wikipedia.org/wiki/Oorlams_Creole"
 translations:
+  - translation_iso: jpn
+    name: オーラムス語
+    auto: true
   - translation_iso: zho
     name: 奥尔拉姆斯语
     auto: true

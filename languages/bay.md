@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Aru > Batuley-Mariri > Batuley"
 wikipedia_url: "https://en.wikipedia.org/wiki/Batuley_language"
 translations:
+  - translation_iso: jpn
+    name: バトゥレイ語
+    auto: true
   - translation_iso: zho
     name: 巴图莱语
     auto: true

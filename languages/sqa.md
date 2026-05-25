@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Kainji > Central Kainji > Shiroro-Kamuku > Kamuku-Hungwarya > Kamuku > Rogo-Sagamuk-Sama-Sambuga > Sagamuk-Sama-Sambuga > Shama-Sambuga"
 wikipedia_url: "https://en.wikipedia.org/wiki/Shama_language"
 translations:
+  - translation_iso: jpn
+    name: トゥシャマ語
+    auto: true
   - translation_iso: zho
     name: 沙马-桑布加语
     auto: true

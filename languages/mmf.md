@@ -15,6 +15,9 @@ glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > West Chadic > West Chadic A > West Chadic A.4 > Ronic > Mundat-Karfa > Mindat"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mundat_language"
 translations:
+  - translation_iso: jpn
+    name: ムンダット語
+    auto: true
   - translation_iso: zho
     name: 蒙达特语
     auto: true

@@ -15,6 +15,9 @@ glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Iranian-Nuristani > Iranian > Pashto > Waneci"
 wikipedia_url: "https://en.wikipedia.org/wiki/Wanetsi"
 translations:
+  - translation_iso: jpn
+    name: ワネシ語
+    auto: true
   - translation_iso: kor
     name: 와네치어
   - translation_iso: zho

@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > North Borneo Malayo-Polynesian > Sabahan > Southwest Sabahan > Greater Dusunic > Bisaya-Lotud > Lotud"
 wikipedia_url: "https://en.wikipedia.org/wiki/Lotud_language"
 translations:
+  - translation_iso: jpn
+    name: ロトゥッド語
+    auto: true
   - translation_iso: zho
     name: 洛图德语
     auto: true

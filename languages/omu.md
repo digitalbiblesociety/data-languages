@@ -12,6 +12,9 @@ longitude: -75.915695
 glottocode: omur1241
 wikipedia_url: "https://en.wikipedia.org/wiki/Omurano_language"
 translations:
+  - translation_iso: jpn
+    name: オムラーノ語
+    auto: true
   - translation_iso: zho
     name: 奥穆拉诺语
     auto: true

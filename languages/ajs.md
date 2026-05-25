@@ -16,6 +16,9 @@ translations:
     name: لغة غرداية للإشارة
   - translation_iso: hin
     name: अल्जीरियाई यहूदी सांकेतिक भाषा
+  - translation_iso: jpn
+    name: アルジェリア・ユダヤ・サイン・ランゲージ語
+    auto: true
   - translation_iso: zho
     name: 阿尔及利亚犹太手语
     auto: true

@@ -16,6 +16,9 @@ glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Indo-Aryan > Middle-Modern Indo-Aryan > Continental Indo-Aryan > Indo-Aryan Northwestern zone > Sindhi-Lahnda > Greater Panjabic > Hindko-Siraiki > Hindko > Southern Hindko"
 wikipedia_url: "https://en.wikipedia.org/wiki/Southern_Hindko_language"
 translations:
+  - translation_iso: jpn
+    name: サザン・ヒンドコー語
+    auto: true
   - translation_iso: zho
     name: 南印度库语
     auto: true

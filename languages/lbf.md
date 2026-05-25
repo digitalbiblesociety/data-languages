@@ -17,6 +17,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Tinani_language"
 translations:
   - translation_iso: hin
     name: तिनान भाषा
+  - translation_iso: jpn
+    name: ティナニ語
+    auto: true
   - translation_iso: zho
     name: 提那語
 rolv_dialects:

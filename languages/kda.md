@@ -15,6 +15,9 @@ glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > Southeastern Pama-Nyungan > New South Wales Pama-Nyungan > Yuin-Kuri > Kuri > Hunter-Hastings > Worimi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Gathang_language"
 translations:
+  - translation_iso: jpn
+    name: ウォリミ語
+    auto: true
   - translation_iso: zho
     name: 沃里米语
     auto: true

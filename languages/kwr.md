@@ -15,6 +15,9 @@ glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Asmat-Awyu-Ok > Awyu-Ok > Ok-Oksapmin > Ok > Kwer-Kopkaka-Burumakok > Kwer-Burumakok > Kwer"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kwer_language"
 translations:
+  - translation_iso: jpn
+    name: クウェル語
+    auto: true
   - translation_iso: zho
     name: 克韦尔语
     auto: true

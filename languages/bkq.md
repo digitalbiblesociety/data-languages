@@ -15,6 +15,9 @@ glottolog_family_name: Cariban
 glottolog_classification: "Cariban > Pekodian > Bakairí"
 wikipedia_url: "https://en.wikipedia.org/wiki/Bakairi_language"
 translations:
+  - translation_iso: jpn
+    name: バカイリ語
+    auto: true
   - translation_iso: zho
     name: 巴凯里语
     auto: true

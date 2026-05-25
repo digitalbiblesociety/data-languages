@@ -15,6 +15,9 @@ glottolog_family_name: Otomanguean
 glottolog_classification: "Otomanguean > Western Otomanguean > Otopame-Chinantecan > Chinantecan > Central-Eastern Chinantec > Southeastern Chinantec > Chinantec Group III > Ozumacín Chinantec"
 wikipedia_url: "https://en.wikipedia.org/wiki/Chinantec_of_Ozumac%C3%ADn"
 translations:
+  - translation_iso: jpn
+    name: オズマシン・チナンテク語
+    auto: true
   - translation_iso: zho
     name: 奧蘇馬辛奇南特克語
 rolv_dialects:

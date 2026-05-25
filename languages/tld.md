@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Sangiric-Minahasan > Sangiric > Northern Sangiric > Talaud"
 wikipedia_url: "https://en.wikipedia.org/wiki/Talaud_language"
 translations:
+  - translation_iso: jpn
+    name: タラウド語
+    auto: true
   - translation_iso: zho
     name: 塔劳德语
     auto: true

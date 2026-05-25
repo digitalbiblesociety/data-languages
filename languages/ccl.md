@@ -14,6 +14,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > East Bantu > Northeast Savanna Bantu > Northeast Coastal Bantu > Coastal NEC Bantu > Sabaki-Swahili > Swahili (G.40) > Mombasa-Lamu-Inland Swahili > Cutchi-Swahili"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kutchi-Swahili"
 translations:
+  - translation_iso: jpn
+    name: クッチ・スワヒリ語
+    auto: true
   - translation_iso: zho
     name: 库奇-斯瓦希里语
     auto: true

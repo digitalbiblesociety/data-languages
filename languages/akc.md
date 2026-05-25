@@ -12,6 +12,9 @@ longitude: 133.16598
 glottocode: mpur1239
 wikipedia_url: "https://en.wikipedia.org/wiki/Mpur_language"
 translations:
+  - translation_iso: jpn
+    name: ムプル語
+    auto: true
   - translation_iso: zho
     name: 姆普尔语
     auto: true

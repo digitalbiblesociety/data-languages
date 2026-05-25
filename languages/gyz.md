@@ -14,6 +14,9 @@ glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > West Chadic > West Chadic B > West Chadic B.3 > South Bauchi West > Northwest South Bauchi > Gejic > Gyaazi"
 translations:
+  - translation_iso: jpn
+    name: ギャージ語
+    auto: true
   - translation_iso: zho
     name: 吉亚兹语
     auto: true

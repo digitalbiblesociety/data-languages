@@ -15,6 +15,9 @@ glottolog_family_name: Totonacan
 glottolog_classification: "Totonacan > Totonac > Central Totonacan > South-Central Totonacan > Lowland-Sierra Totonacan > Papantla Totonac"
 wikipedia_url: "https://en.wikipedia.org/wiki/Papantla_Totonac"
 translations:
+  - translation_iso: jpn
+    name: パパントラ・トトナック語
+    auto: true
   - translation_iso: zho
     name: 帕潘特拉托托纳克语
 ---

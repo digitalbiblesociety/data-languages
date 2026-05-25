@@ -15,6 +15,9 @@ glottolog_family_name: Songhay
 glottolog_classification: "Songhay > Northwest Songhay > Northern Songhay > Tagdal"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tagdal_language"
 translations:
+  - translation_iso: jpn
+    name: タグダル語
+    auto: true
   - translation_iso: zho
     name: 塔格达尔语
     auto: true

@@ -12,6 +12,9 @@ longitude: -121.70403
 glottocode: klam1254
 wikipedia_url: "https://en.wikipedia.org/wiki/Klamath_language"
 translations:
+  - translation_iso: jpn
+    name: クラマス・モドック語
+    auto: true
   - translation_iso: zho
     name: 克拉马斯-莫多克语
     auto: true

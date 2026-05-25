@@ -15,6 +15,9 @@ glottolog_family_name: East Strickland
 glottolog_classification: "East Strickland > Kubo-Samo-Bibo > Gobasi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Gobasi_language"
 translations:
+  - translation_iso: jpn
+    name: ゴバシ語
+    auto: true
   - translation_iso: zho
     name: 戈巴西语
     auto: true

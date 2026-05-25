@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Malayo-Chamic > Malayic > Western Malayic Dayak > Kendayan-Belangin"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kendayan_language"
 translations:
+  - translation_iso: jpn
+    name: ケンダヤン語
+    auto: true
   - translation_iso: zho
     name: 肯达扬语
     auto: true

@@ -14,6 +14,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > Papuan Tip linkage > Peripheral Papuan Tip linkage > Central Papuan Oceanic > Oumic > Magoric > Yoba"
 wikipedia_url: "https://en.wikipedia.org/wiki/Yoba_language"
 translations:
+  - translation_iso: jpn
+    name: ヨバ語
+    auto: true
   - translation_iso: zho
     name: 约巴语
     auto: true

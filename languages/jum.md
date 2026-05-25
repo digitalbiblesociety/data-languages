@@ -14,6 +14,9 @@ glottolog_family_id: nilo1247
 glottolog_family_name: Nilotic
 glottolog_classification: "Nilotic > Western Nilotic > Burun > Southern Burun > Jumjum"
 translations:
+  - translation_iso: jpn
+    name: ジュムジュム語
+    auto: true
   - translation_iso: zho
     name: 朱姆朱姆语
     auto: true

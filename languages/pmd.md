@@ -14,6 +14,9 @@ glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > Southeastern Pama-Nyungan > Victorian Pama-Nyungan > Eastern Victoria > Dhudhuroa-Pallanganmiddang > Pallanganmiddang"
 wikipedia_url: "https://en.wikipedia.org/wiki/Pallanganmiddang_language"
 translations:
+  - translation_iso: jpn
+    name: パランガンミッダン語
+    auto: true
   - translation_iso: zho
     name: 帕兰甘米丁语
     auto: true

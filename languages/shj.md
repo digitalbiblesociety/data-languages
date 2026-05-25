@@ -15,6 +15,9 @@ glottolog_family_name: Dajuic
 glottolog_classification: "Dajuic > Eastern Dajuic > Shatt"
 wikipedia_url: "https://en.wikipedia.org/wiki/Shatt_language"
 translations:
+  - translation_iso: jpn
+    name: カニング語
+    auto: true
   - translation_iso: zho
     name: 沙特语
     auto: true

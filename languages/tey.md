@@ -15,6 +15,9 @@ glottolog_family_name: Kadugli-Krongo
 glottolog_classification: "Kadugli-Krongo > Central-Western Kadugli-Krongo > Tulishi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tulishi_language"
 translations:
+  - translation_iso: jpn
+    name: トゥリシ語
+    auto: true
   - translation_iso: zho
     name: 图利希语
     auto: true

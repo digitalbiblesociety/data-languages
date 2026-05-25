@@ -15,6 +15,9 @@ glottolog_family_name: Dravidian
 glottolog_classification: "Dravidian > South Dravidian > South Dravidian I > Tamil-Kannada > Badaga-Kannada > Kannadoid > Jennu Kurumba"
 wikipedia_url: "https://en.wikipedia.org/wiki/Jenu_Kurumba_language"
 translations:
+  - translation_iso: jpn
+    name: ジェンヌ・クルンバ語
+    auto: true
   - translation_iso: zho
     name: 杰努-库鲁姆巴语
     auto: true

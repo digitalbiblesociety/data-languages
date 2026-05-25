@@ -15,6 +15,9 @@ glottolog_family_name: Otomanguean
 glottolog_classification: "Otomanguean > Western Otomanguean > Otopame-Chinantecan > Chinantecan > Central-Eastern Chinantec > Southeastern Chinantec > Chinantec Group IV > Lealao Chinantec"
 wikipedia_url: "https://en.wikipedia.org/wiki/Lealao_Chinantec"
 translations:
+  - translation_iso: jpn
+    name: レアラオ・チナンテク語
+    auto: true
   - translation_iso: zho
     name: 勒亚劳奇南特克语
     auto: true

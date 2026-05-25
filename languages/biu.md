@@ -17,6 +17,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Biate_language"
 translations:
   - translation_iso: hin
     name: बियाट भाषा
+  - translation_iso: jpn
+    name: ビエテ語
+    auto: true
   - translation_iso: zho
     name: 比埃特语
     auto: true

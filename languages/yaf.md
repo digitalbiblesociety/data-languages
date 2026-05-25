@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > Central-Western Bantu > West-Coastal Bantu > Nzadic > Lweric > Dingic > Loange-Atlantic > KLC Extended > Kikongo Language Cluster > Nuclear KLC > Yaka-Suku > Yaka-Pelende-Lonzo"
 wikipedia_url: "https://en.wikipedia.org/wiki/Yaka_language_(Congo%E2%80%93Angola)"
 translations:
+  - translation_iso: jpn
+    name: ヤカ語（コンゴ民主共和国）
+    auto: true
   - translation_iso: zho
     name: 亚卡语(刚果民主共和国)
     auto: true

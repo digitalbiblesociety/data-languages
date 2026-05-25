@@ -14,6 +14,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Kwa Volta-Congo > Nyo > Potou-Tano > Tano > Krobu"
 wikipedia_url: "https://en.wikipedia.org/wiki/Krobu_language"
 translations:
+  - translation_iso: jpn
+    name: クロブ語
+    auto: true
   - translation_iso: zho
     name: 克罗布语
     auto: true

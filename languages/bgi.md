@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Bilic > Giangan"
 wikipedia_url: "https://en.wikipedia.org/wiki/Klata_language"
 translations:
+  - translation_iso: jpn
+    name: ギアンガン語
+    auto: true
   - translation_iso: zho
     name: 吉安根语
     auto: true

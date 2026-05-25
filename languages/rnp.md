@@ -17,6 +17,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Rongpo_language"
 translations:
   - translation_iso: hin
     name: रोंग्पो भाषा
+  - translation_iso: jpn
+    name: ロンポ語
+    auto: true
   - translation_iso: zho
     name: 容波语
     auto: true

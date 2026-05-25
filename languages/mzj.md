@@ -14,6 +14,9 @@ glottolog_family_id: mand1469
 glottolog_family_name: Mande
 glottolog_classification: "Mande > Western Mande > Manding-Kpelle > Central Mande > Manding-Jogo > Manding-Vai > Manding-Mokole > Manding > East Manding > Manenkan > Konya-Manya > Manya"
 translations:
+  - translation_iso: jpn
+    name: マニャ語
+    auto: true
   - translation_iso: zho
     name: 曼雅语
     auto: true

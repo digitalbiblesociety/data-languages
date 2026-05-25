@@ -15,6 +15,9 @@ glottolog_family_name: Mande
 glottolog_classification: "Mande > Eastern Mande > Southeastern Mande > Mano-Dan > Guro-Dan > Guro-Yaoure > Yaouré"
 wikipedia_url: "https://en.wikipedia.org/wiki/Yaure_language"
 translations:
+  - translation_iso: jpn
+    name: ヤオウレ語
+    auto: true
   - translation_iso: zho
     name: 亚乌雷语
     auto: true

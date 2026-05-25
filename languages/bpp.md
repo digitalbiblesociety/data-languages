@@ -15,6 +15,9 @@ glottolog_family_name: Kaure-Kosare
 glottolog_classification: "Kaure-Kosare > Kaure-Narau"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kaure_language"
 translations:
+  - translation_iso: jpn
+    name: カウレ語
+    auto: true
   - translation_iso: zho
     name: 考雷语
     auto: true

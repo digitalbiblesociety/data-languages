@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Gur > Central Gur > Southern Central Gur > Grusi > East-West Grusi > Western Grusi > Winyé"
 wikipedia_url: "https://en.wikipedia.org/wiki/Winye_language"
 translations:
+  - translation_iso: jpn
+    name: ウィニェ語
+    auto: true
   - translation_iso: zho
     name: 温耶语
     auto: true

@@ -15,6 +15,9 @@ glottolog_family_name: South-Eastern Tasmanian
 glottolog_classification: "South-Eastern Tasmanian > Bruny Island"
 wikipedia_url: "https://en.wikipedia.org/wiki/Bruny_Island_Tasmanian_language"
 translations:
+  - translation_iso: jpn
+    name: ブルニー島タスマニア語
+    auto: true
   - translation_iso: zho
     name: 布鲁尼岛塔斯马尼亚语
     auto: true

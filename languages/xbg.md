@@ -15,6 +15,9 @@ glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > Southeastern Pama-Nyungan > Victorian Pama-Nyungan > Kulin-Bunganditj > Warrnambool-Bunganditj > Bunganditj"
 wikipedia_url: "https://en.wikipedia.org/wiki/Bungandidj_language"
 translations:
+  - translation_iso: jpn
+    name: ブンガンディッジ語
+    auto: true
   - translation_iso: zho
     name: 邦甘迪奇语
     auto: true

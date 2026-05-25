@@ -16,6 +16,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Majhi_language"
 translations:
   - translation_iso: ara
     name: لغة ماجهي
+  - translation_iso: jpn
+    name: マジ語
+    auto: true
   - translation_iso: zho
     name: 摩傑语
 rolv_dialects:

@@ -14,6 +14,9 @@ glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Burmo-Qiangic > Lolo-Burmese > Burmish > Southern Burmish > Mranmaic > Nuclear Mranmaic > Arakanese-Marma > Marma"
 wikipedia_url: "https://en.wikipedia.org/wiki/Marma_language"
 translations:
+  - translation_iso: jpn
+    name: マルマ語
+    auto: true
   - translation_iso: zho
     name: 马尔玛语
     auto: true

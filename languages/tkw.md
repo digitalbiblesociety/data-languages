@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Temotu > Utupua-Vanikoro > Teanu"
 wikipedia_url: "https://en.wikipedia.org/wiki/Teanu_language"
 translations:
+  - translation_iso: jpn
+    name: テアヌ語
+    auto: true
   - translation_iso: zho
     name: 蒂亚努语
     auto: true

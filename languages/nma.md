@@ -17,6 +17,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Maram_language"
 translations:
   - translation_iso: hin
     name: मरम भाषा
+  - translation_iso: jpn
+    name: マラム・ナガ語
+    auto: true
   - translation_iso: zho
     name: 玛拉姆纳加语
     auto: true

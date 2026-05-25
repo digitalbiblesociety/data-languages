@@ -14,6 +14,9 @@ glottolog_family_name: Ramu
 glottolog_classification: "Ramu > Aian > Aiome"
 wikipedia_url: "https://en.wikipedia.org/wiki/Aiome_language"
 translations:
+  - translation_iso: jpn
+    name: アイオメ語
+    auto: true
   - translation_iso: zho
     name: 艾欧梅语
     auto: true

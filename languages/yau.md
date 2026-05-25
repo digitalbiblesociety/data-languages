@@ -12,6 +12,9 @@ longitude: -65.4267
 glottocode: yuwa1244
 wikipedia_url: "https://en.wikipedia.org/wiki/Hod%C3%AF_language"
 translations:
+  - translation_iso: jpn
+    name: ユワナ語
+    auto: true
   - translation_iso: zho
     name: 尤瓦纳语
     auto: true

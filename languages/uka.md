@@ -15,6 +15,9 @@ glottolog_family_name: "South Bird's Head"
 glottolog_classification: "South Bird's Head > Nuclear South Bird's Head > Kaburic > Kaburi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kaburi_language"
 translations:
+  - translation_iso: jpn
+    name: アウェ・マウェヨ語
+    auto: true
   - translation_iso: zho
     name: 卡布里语
     auto: true

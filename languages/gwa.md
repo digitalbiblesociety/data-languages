@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Kwa Volta-Congo > Nyo > Potou-Tano > Potou > Mbato"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mbato_language"
 translations:
+  - translation_iso: jpn
+    name: ムバト語
+    auto: true
   - translation_iso: zho
     name: 姆巴托语
     auto: true

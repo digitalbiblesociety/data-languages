@@ -15,6 +15,9 @@ glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > Biu-Mandara > North Biu-Mandara > Margi-Mandara-Mofu > Mofuic > Tokombere > Madaic > Mada (Cameroon)"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ma%C9%97a_language"
 translations:
+  - translation_iso: jpn
+    name: マダ語
+    auto: true
   - translation_iso: zho
     name: 喀麦隆玛达语
     auto: true

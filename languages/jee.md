@@ -17,6 +17,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Jerung_language"
 translations:
   - translation_iso: hin
     name: जेरुङ
+  - translation_iso: jpn
+    name: ジェルング語
+    auto: true
   - translation_iso: zho
     name: 杰龙语
     auto: true

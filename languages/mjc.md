@@ -14,6 +14,9 @@ glottolog_family_id: otom1299
 glottolog_family_name: Otomanguean
 glottolog_classification: "Otomanguean > Eastern Otomanguean > Amuzgo-Mixtecan > Mixtecan > Mixtec-Cuicatec > Mixtec > Coast Mixtec > West Coast Mixtec > San Juan Colorado Mixtec"
 translations:
+  - translation_iso: jpn
+    name: サンフアン・コロラド・ミステク語
+    auto: true
   - translation_iso: zho
     name: 圣胡安科罗拉多混合语
     auto: true

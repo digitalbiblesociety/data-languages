@@ -10,6 +10,9 @@ latitude: -1.11711
 longitude: 23.36337
 wikipedia_url: "https://en.wikipedia.org/wiki/Lalia_language"
 translations:
+  - translation_iso: jpn
+    name: ラリア語
+    auto: true
   - translation_iso: zho
     name: 拉利亚语
     auto: true

@@ -15,6 +15,9 @@ glottolog_family_name: Unclassifiable
 glottolog_classification: "Unclassifiable > Uru-Pa-In"
 wikipedia_url: "https://en.wikipedia.org/wiki/Uru-Pa-In_language"
 translations:
+  - translation_iso: jpn
+    name: ウル・パ・イン語
+    auto: true
   - translation_iso: zho
     name: 乌鲁-帕-因语
     auto: true

@@ -14,6 +14,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Bima-Lembata > Flores > Flores-Lembata > Lamaholot Timur > Lamatuka"
 wikipedia_url: "https://en.wikipedia.org/wiki/Lamatuka_language"
 translations:
+  - translation_iso: jpn
+    name: ラマトゥカ語
+    auto: true
   - translation_iso: zho
     name: 拉玛图卡语
     auto: true

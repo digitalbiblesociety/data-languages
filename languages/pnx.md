@@ -15,6 +15,9 @@ glottolog_family_name: Austroasiatic
 glottolog_classification: "Austroasiatic > Khmuic > Phay-Pram > Pramic > Phong-Kniang"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kniang_language"
 translations:
+  - translation_iso: jpn
+    name: フォンクニアン語
+    auto: true
   - translation_iso: zho
     name: 克年语
 ---

@@ -16,6 +16,9 @@ glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Indo-Aryan > Middle-Modern Indo-Aryan > Continental Indo-Aryan > Midlands Indo-Aryan > Shaurasenic > Bihari > Tharuic > Eastern Tharu > Dangaura-Khuna-Sonaha > Dangaura Tharu"
 wikipedia_url: "https://en.wikipedia.org/wiki/Dangaura_Tharu"
 translations:
+  - translation_iso: jpn
+    name: ダンガウラ・タル語
+    auto: true
   - translation_iso: zho
     name: 当加乌拉塔鲁语
     auto: true

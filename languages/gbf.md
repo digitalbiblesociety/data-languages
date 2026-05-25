@@ -15,6 +15,9 @@ glottolog_family_name: Ndu
 glottolog_classification: "Ndu > Nuclear Ndu > Sawosic > Burui-Gaikundi > Gaikundi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Gaikundi_language"
 translations:
+  - translation_iso: jpn
+    name: ガイクンディ語
+    auto: true
   - translation_iso: zho
     name: 盖昆迪语
     auto: true

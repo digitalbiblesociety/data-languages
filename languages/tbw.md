@@ -16,6 +16,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Greater Central Philippine > Palawanic-Kalamian > Palawanic > Northern Palawanic > Aborlanic > Tagbanwa"
 wikipedia_url: "https://en.wikipedia.org/wiki/Aborlan_Tagbanwa_language"
 translations:
+  - translation_iso: jpn
+    name: タグバンワ語
+    auto: true
   - translation_iso: zho
     name: 塔格邦瓦语
     auto: true

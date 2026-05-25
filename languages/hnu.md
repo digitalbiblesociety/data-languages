@@ -15,6 +15,9 @@ glottolog_family_name: Austroasiatic
 glottolog_classification: "Austroasiatic > Vietic > Cuoi > Hung"
 wikipedia_url: "https://en.wikipedia.org/wiki/Phong_language"
 translations:
+  - translation_iso: jpn
+    name: ハング語
+    auto: true
   - translation_iso: zho
     name: 洪语
     auto: true

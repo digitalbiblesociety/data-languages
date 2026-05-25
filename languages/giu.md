@@ -15,6 +15,9 @@ glottolog_family_name: Tai-Kadai
 glottolog_classification: "Tai-Kadai > Kadaic > Southwestern Kra > Western Kra > Gauic > Gelaoic > Northern Gelao > Gelao Mulao"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mulao_language_(Kra)"
 translations:
+  - translation_iso: jpn
+    name: ムラオ語
+    auto: true
   - translation_iso: zho
     name: 木佬語
 ---

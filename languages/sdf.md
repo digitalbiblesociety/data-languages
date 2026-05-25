@@ -10,6 +10,9 @@ latitude: 36.021
 longitude: 43.644
 wikipedia_url: "https://en.wikipedia.org/wiki/Sarli_language"
 translations:
+  - translation_iso: jpn
+    name: ゴーラーニー語
+    auto: true
   - translation_iso: zho
     name: 萨尔利语
     auto: true

@@ -15,6 +15,9 @@ glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > Desert Nyungic > Marrngu > Karadjeri"
 wikipedia_url: "https://en.wikipedia.org/wiki/Garadjari_language"
 translations:
+  - translation_iso: jpn
+    name: カラジャリ語
+    auto: true
   - translation_iso: zho
     name: 卡拉杰瑞神话
 ---

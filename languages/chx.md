@@ -15,6 +15,9 @@ glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Bodic > Kaike-Ghale-Tamangic > Ghale-Tamangic > Tamangic > Gurungic > Thakali-Chantyal > Chantyal"
 wikipedia_url: "https://en.wikipedia.org/wiki/Chantyal_language"
 translations:
+  - translation_iso: jpn
+    name: チャンティアル語
+    auto: true
   - translation_iso: zho
     name: 尚蒂亚尔语
     auto: true

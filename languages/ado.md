@@ -15,6 +15,9 @@ glottolog_family_name: Ramu
 glottolog_classification: "Ramu > Agoan > Abu"
 wikipedia_url: "https://en.wikipedia.org/wiki/Adjora_language"
 translations:
+  - translation_iso: jpn
+    name: アブ語
+    auto: true
   - translation_iso: zho
     name: 阿布语
     auto: true

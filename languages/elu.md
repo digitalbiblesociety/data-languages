@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Admiralty Islands > Eastern Admiralty Islands > Manus > East Manus > Kurti-Kele-Ere > Kurti-Elu > Elu"
 wikipedia_url: "https://en.wikipedia.org/wiki/Elu_language_(Papua_New_Guinea)"
 translations:
+  - translation_iso: jpn
+    name: エル語
+    auto: true
   - translation_iso: zho
     name: 埃卢语
     auto: true

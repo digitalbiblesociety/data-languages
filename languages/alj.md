@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > North Mangyan > Alangan"
 wikipedia_url: "https://en.wikipedia.org/wiki/Alangan_language"
 translations:
+  - translation_iso: jpn
+    name: アランガン語
+    auto: true
   - translation_iso: zho
     name: 阿兰甘语
     auto: true

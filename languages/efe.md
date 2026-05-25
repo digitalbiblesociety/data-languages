@@ -14,6 +14,9 @@ glottolog_family_id: cent2225
 glottolog_family_name: Central Sudanic
 glottolog_classification: "Central Sudanic > Membi-Mangbutu-Efe > Mangbutu-Efe > Baleseic > Nuclear Baleseic > Efe"
 translations:
+  - translation_iso: jpn
+    name: エフェ語
+    auto: true
   - translation_iso: zho
     name: 埃费语
     auto: true

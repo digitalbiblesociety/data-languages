@@ -15,6 +15,9 @@ glottolog_family_name: Lengua-Mascoy
 glottolog_classification: "Lengua-Mascoy > Lengua > Enlhet Norte"
 wikipedia_url: "https://en.wikipedia.org/wiki/Enlhet_language"
 translations:
+  - translation_iso: jpn
+    name: エンレット語
+    auto: true
   - translation_iso: zho
     name: 英莱特语
     auto: true

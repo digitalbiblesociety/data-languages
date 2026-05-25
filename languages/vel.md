@@ -10,6 +10,9 @@ latitude: 52.27016
 longitude: 5.94408
 wikipedia_url: "https://en.wikipedia.org/wiki/Veluws_dialect"
 translations:
+  - translation_iso: jpn
+    name: ヴェルゥス語
+    auto: true
   - translation_iso: zho
     name: 韦卢斯语
     auto: true

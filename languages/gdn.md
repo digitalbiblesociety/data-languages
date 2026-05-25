@@ -15,6 +15,9 @@ glottolog_family_name: Dagan
 glottolog_classification: "Dagan > Umanakaina"
 wikipedia_url: "https://en.wikipedia.org/wiki/Umanakaina_language"
 translations:
+  - translation_iso: jpn
+    name: ウマナカイナ語
+    auto: true
   - translation_iso: zho
     name: 乌玛纳凯纳语
     auto: true

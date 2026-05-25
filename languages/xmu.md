@@ -15,6 +15,9 @@ glottolog_family_name: Eastern Daly
 glottolog_classification: "Eastern Daly > Kamu"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kamu_language"
 translations:
+  - translation_iso: jpn
+    name: カム語
+    auto: true
   - translation_iso: zho
     name: 卡姆语
     auto: true

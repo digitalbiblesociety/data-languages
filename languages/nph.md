@@ -17,6 +17,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Phom_language"
 translations:
   - translation_iso: hin
     name: फोम भाषा
+  - translation_iso: jpn
+    name: フォム・ナガ語
+    auto: true
   - translation_iso: zho
     name: 普姆纳加语
     auto: true

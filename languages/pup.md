@@ -14,6 +14,9 @@ glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Madang > Rai Coast > Kabenau > Pulabu"
 wikipedia_url: "https://en.wikipedia.org/wiki/Pulabu_language"
 translations:
+  - translation_iso: jpn
+    name: プラブ語
+    auto: true
   - translation_iso: zho
     name: 普拉布语
     auto: true

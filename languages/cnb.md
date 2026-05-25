@@ -14,6 +14,9 @@ glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Kuki-Chin-Naga > Kuki-Chin > Peripheral Kuki-Chin > South Peripheral Kuki-Chin > Choic > Chinbon Chin"
 translations:
+  - translation_iso: jpn
+    name: チンボン・チン語
+    auto: true
   - translation_iso: zho
     name: 钦邦钦语
     auto: true

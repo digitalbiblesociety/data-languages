@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > North and Central Vanuatu > Northern Vanuatu > Torres-Banks linkage > Hiw-Lo-Toga > Hiw"
 wikipedia_url: "https://en.wikipedia.org/wiki/Hiw_language"
 translations:
+  - translation_iso: jpn
+    name: ヒウ語
+    auto: true
   - translation_iso: zho
     name: 希烏語
 ---

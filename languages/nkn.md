@@ -14,6 +14,9 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > Central-Western Bantu > Njila > Southern Njila > Chokwe-Lunda > Chokwe-Ngangela-Nyemba (K.20) > Ngangela-Nyemba > Nkangala"
 translations:
+  - translation_iso: jpn
+    name: ンカンガラ語
+    auto: true
   - translation_iso: zho
     name: 恩康加拉语
     auto: true

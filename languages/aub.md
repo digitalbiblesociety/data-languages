@@ -13,6 +13,9 @@ glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Burmo-Qiangic > Lolo-Burmese > Loloish > Ni-Li-Kazhouish > Southeastern Ngwi > Riverine Phula > Downriver Riverine Phula > Phupha-Alugu > Alugu"
 translations:
+  - translation_iso: jpn
+    name: アルグ語
+    auto: true
   - translation_iso: zho
     name: 阿卢古语
     auto: true

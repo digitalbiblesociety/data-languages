@@ -14,6 +14,9 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Cameroun-Ubangian > Ubangi > Ubangi Ka > Mundu-Baka > Western Mundu-Baka > Baka-Gundi > Limassa"
 translations:
+  - translation_iso: jpn
+    name: リマッサ語
+    auto: true
   - translation_iso: zho
     name: 利马萨语
     auto: true

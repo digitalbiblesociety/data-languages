@@ -15,6 +15,9 @@ glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > West Chadic > West Chadic B > West Chadic B.3 > South Bauchi West > Southwest South Bauchi > Zakse-Saya > Zari"
 wikipedia_url: "https://en.wikipedia.org/wiki/Zari_language"
 translations:
+  - translation_iso: jpn
+    name: ザリ語
+    auto: true
   - translation_iso: zho
     name: 扎里语
     auto: true

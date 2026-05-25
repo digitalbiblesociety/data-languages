@@ -15,6 +15,9 @@ glottolog_family_name: Dravidian
 glottolog_classification: "Dravidian > South Dravidian > South Dravidian I > Tamil-Kannada > Badaga-Kannada > Kannadoid > Alu Kurumba"
 wikipedia_url: "https://en.wikipedia.org/wiki/Alu_Kurumba_language"
 translations:
+  - translation_iso: jpn
+    name: アル・クルンバ語
+    auto: true
   - translation_iso: zho
     name: 阿鲁-库鲁姆巴语
     auto: true

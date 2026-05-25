@@ -13,6 +13,9 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Malayo-Chamic > Aceh-Chamic > Chamic > Rade-Jarai > Bih"
 translations:
+  - translation_iso: jpn
+    name: ビ語
+    auto: true
   - translation_iso: zho
     name: 比赫语
     auto: true

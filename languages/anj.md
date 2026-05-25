@@ -14,6 +14,9 @@ glottolog_family_name: Ramu
 glottolog_classification: "Ramu > Aian > Anor"
 wikipedia_url: "https://en.wikipedia.org/wiki/Anor_language"
 translations:
+  - translation_iso: jpn
+    name: アノル語
+    auto: true
   - translation_iso: zho
     name: 阿诺尔语
     auto: true

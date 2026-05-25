@@ -14,6 +14,9 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Greater Central Philippine > Central Philippine > Mansakan > Western Mansakan > Tagakaulu Kalagan"
 translations:
+  - translation_iso: jpn
+    name: タガカウロ語
+    auto: true
   - translation_iso: zho
     name: 他加卡乌洛语
     auto: true

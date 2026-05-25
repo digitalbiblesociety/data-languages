@@ -15,6 +15,9 @@ glottolog_family_name: Pidgin
 glottolog_classification: "Pidgin > Malay-based pidgin > Broome Pearling Lugger Pidgin"
 wikipedia_url: "https://en.wikipedia.org/wiki/Broome_Pearling_Lugger_Pidgin"
 translations:
+  - translation_iso: jpn
+    name: ブルーム・パーリング・ラガー・ピジン語
+    auto: true
   - translation_iso: zho
     name: 布鲁姆採珠者皮欽马来语
 ---

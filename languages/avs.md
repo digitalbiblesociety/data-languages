@@ -15,6 +15,9 @@ glottolog_family_name: Zaparoan
 glottolog_classification: "Zaparoan > Zaparo-Abishira > Aushiri"
 wikipedia_url: "https://en.wikipedia.org/wiki/Aushiri_language"
 translations:
+  - translation_iso: jpn
+    name: アウシリ語
+    auto: true
   - translation_iso: zho
     name: 奥希里语
     auto: true

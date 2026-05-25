@@ -15,6 +15,9 @@ glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > East Chadic > East Chadic A > East Chadic A.3 > Kwang"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kwang_language"
 translations:
+  - translation_iso: jpn
+    name: クワン語
+    auto: true
   - translation_iso: zho
     name: 克旺语
     auto: true

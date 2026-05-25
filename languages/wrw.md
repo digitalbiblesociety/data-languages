@@ -15,6 +15,9 @@ glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > Unclassified Pama-Nyungan > Roth's Gugu Warra"
 wikipedia_url: "https://en.wikipedia.org/wiki/Gugu_Warra_language"
 translations:
+  - translation_iso: jpn
+    name: ググ・ワッラ語
+    auto: true
   - translation_iso: zho
     name: 古古瓦拉语
     auto: true

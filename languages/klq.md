@@ -15,6 +15,9 @@ glottolog_family_name: Turama-Kikori
 glottolog_classification: "Turama-Kikori > Rumu"
 wikipedia_url: "https://en.wikipedia.org/wiki/Rumu_language"
 translations:
+  - translation_iso: jpn
+    name: ルムー語
+    auto: true
   - translation_iso: zho
     name: 鲁木语
     auto: true

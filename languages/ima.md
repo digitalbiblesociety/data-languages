@@ -15,6 +15,9 @@ glottolog_family_name: Dravidian
 glottolog_classification: "Dravidian > South Dravidian > South Dravidian I > Tamil-Kannada > Tamil-Kota > Tamil-Toda > Tamil-Irula > Tamil-Kodagu > Tamil-Malayalam > Tamiloid > Mala Malasar"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mala_Malasar_language"
 translations:
+  - translation_iso: jpn
+    name: マラ・マラサル語
+    auto: true
   - translation_iso: zho
     name: 玛拉玛拉萨尔语
     auto: true

@@ -14,6 +14,9 @@ glottolog_family_id: west2434
 glottolog_family_name: Western Daly
 glottolog_classification: "Western Daly > Maranunggu-Ame-Manda > Ame-Manda > Manda (Australia)"
 translations:
+  - translation_iso: jpn
+    name: マンダ語（オーストラリア）
+    auto: true
   - translation_iso: zho
     name: 曼达语(澳大利亚)
     auto: true

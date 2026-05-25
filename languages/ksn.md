@@ -14,6 +14,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Greater Central Philippine > Central Philippine > Tagalogic > Kasiguranin"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kasiguranin"
 translations:
+  - translation_iso: jpn
+    name: カシグラニン語
+    auto: true
   - translation_iso: zho
     name: 卡西古拉宁语
     auto: true

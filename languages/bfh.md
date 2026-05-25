@@ -15,6 +15,9 @@ glottolog_family_name: Yam
 glottolog_classification: "Yam > Morehead-Maro > Tonda > Mblafe-Ránmo"
 wikipedia_url: "https://en.wikipedia.org/wiki/Blafe_language"
 translations:
+  - translation_iso: jpn
+    name: ブラフェ語
+    auto: true
   - translation_iso: zho
     name: 布拉夫语
     auto: true

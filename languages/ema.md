@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Akpes-Edoid > Edoid > North-Central Edoid > Central Plains Edoid > Emaic > Emai-Iuleha-Ora"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ivbiosakon_language"
 translations:
+  - translation_iso: jpn
+    name: エマイ・イウレハ・オラ語
+    auto: true
   - translation_iso: zho
     name: 埃迈-尤莱哈-奥拉语
     auto: true

@@ -15,6 +15,9 @@ glottolog_family_name: Nilotic
 glottolog_classification: "Nilotic > Eastern Nilotic > Barian > Mandari"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mandari_dialect"
 translations:
+  - translation_iso: jpn
+    name: マンダリ語
+    auto: true
   - translation_iso: zho
     name: 曼达里语
     auto: true

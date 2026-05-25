@@ -14,6 +14,9 @@ glottolog_family_id: nucl1709
 glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Greater Binanderean > Binanderean > Nuclear Binanderean > South Binanderean > Orokaivic > Hunjara-Kaina Ke"
 translations:
+  - translation_iso: jpn
+    name: フンジャラ・カイナ・ケ語
+    auto: true
   - translation_iso: zho
     name: 胡恩贾拉-凯纳克语
     auto: true

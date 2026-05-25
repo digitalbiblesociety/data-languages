@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Celebic > Kaili-Wolio > Northern Kaili-Wolio > Uma-Sarudu > Uma"
 wikipedia_url: "https://en.wikipedia.org/wiki/Uma_language"
 translations:
+  - translation_iso: jpn
+    name: ウマ語
+    auto: true
   - translation_iso: zho
     name: 乌玛语
     auto: true

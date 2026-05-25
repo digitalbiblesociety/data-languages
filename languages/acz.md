@@ -17,6 +17,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Acheron_language"
 translations:
   - translation_iso: ara
     name: لغة الاكرون
+  - translation_iso: jpn
+    name: アケロン語
+    auto: true
   - translation_iso: zho
     name: 阿凯伦语
     auto: true

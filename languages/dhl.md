@@ -15,6 +15,9 @@ glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > South-West Pama-Nyungan > Pilbara > Kanyara > Thalanyji-Burduna > Dhalandji"
 wikipedia_url: "https://en.wikipedia.org/wiki/Thalanyji_language"
 translations:
+  - translation_iso: jpn
+    name: ダランジ語
+    auto: true
   - translation_iso: zho
     name: 达兰吉语
     auto: true

@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > Meso Melanesian linkage > New Ireland-Northwest Solomonic linkage > St George linkage > Northwest Solomonic > North Bougainville Oceanic > Nuclear North Bougainville Oceanic > Buka > Petats"
 wikipedia_url: "https://en.wikipedia.org/wiki/Petats_language"
 translations:
+  - translation_iso: jpn
+    name: ペタツ語
+    auto: true
   - translation_iso: zho
     name: 佩塔茨语
     auto: true

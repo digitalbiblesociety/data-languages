@@ -15,6 +15,9 @@ glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Mek > Western Mek > Northwestern Mek > Nipsan"
 wikipedia_url: "https://en.wikipedia.org/wiki/Nipsan_language"
 translations:
+  - translation_iso: jpn
+    name: ニプサン語
+    auto: true
   - translation_iso: zho
     name: 尼普桑语
     auto: true

@@ -15,6 +15,9 @@ glottolog_family_name: Iwaidjan Proper
 glottolog_classification: "Iwaidjan Proper > Central Iwaidjic > Iwaidja"
 wikipedia_url: "https://en.wikipedia.org/wiki/Iwaidja_language"
 translations:
+  - translation_iso: jpn
+    name: イワイジャ語
+    auto: true
   - translation_iso: zho
     name: 伊瓦加語
 ---

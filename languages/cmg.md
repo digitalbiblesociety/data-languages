@@ -9,6 +9,9 @@ country_name: Macao
 status_id: "9"
 wikipedia_url: "https://en.wikipedia.org/wiki/Classical_Mongolian"
 translations:
+  - translation_iso: jpn
+    name: 古典モンゴル語
+    auto: true
   - translation_iso: kor
     name: 고전 몽골어
   - translation_iso: zho

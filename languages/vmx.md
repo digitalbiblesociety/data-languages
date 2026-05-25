@@ -14,6 +14,9 @@ glottolog_family_id: otom1299
 glottolog_family_name: Otomanguean
 glottolog_classification: "Otomanguean > Eastern Otomanguean > Amuzgo-Mixtecan > Mixtecan > Mixtec-Cuicatec > Mixtec > Eastern Alta Mixtec > Southeastern Alta Mixtec > Teozacoalco Mixtec > Tamazola Mixtec"
 translations:
+  - translation_iso: jpn
+    name: タマゾラ・ミシテク語
+    auto: true
   - translation_iso: zho
     name: 塔玛佐拉混特克语
     auto: true

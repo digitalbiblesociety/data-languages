@@ -15,6 +15,9 @@ glottolog_family_name: Chapacuran
 glottolog_classification: "Chapacuran > Moreic-Waric > Moreic > Torá"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tor%C3%A1_language"
 translations:
+  - translation_iso: jpn
+    name: トラズ語
+    auto: true
   - translation_iso: zho
     name: 托拉语
     auto: true

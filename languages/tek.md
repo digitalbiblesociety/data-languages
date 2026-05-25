@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > Central-Western Bantu > West-Coastal Bantu > Nzadic > Lweric > Dingic > Loange-Atlantic > Kwilu-Ngounie > Kasai-Ngounie > Plateau Kasai-Ngounie > Kwa South"
 wikipedia_url: "https://en.wikipedia.org/wiki/East_Teke_language"
 translations:
+  - translation_iso: jpn
+    name: イバリ・テケ語
+    auto: true
   - translation_iso: zho
     name: 伊巴利特克语
     auto: true

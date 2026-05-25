@@ -14,6 +14,9 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > East Bantu > Northeast Savanna Bantu > Great Lakes Bantu > Western Lakes Bantu > Kivu > Forest Kivu > Fuliiric > Nyindu"
 translations:
+  - translation_iso: jpn
+    name: ニインドゥ語
+    auto: true
   - translation_iso: zho
     name: 尼因杜语
     auto: true

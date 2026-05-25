@@ -17,6 +17,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Sherdukpen_language"
 translations:
   - translation_iso: hin
     name: शेरडुकपेन भाषा
+  - translation_iso: jpn
+    name: メイ語
+    auto: true
   - translation_iso: zho
     name: 舍朱奔语
 ---

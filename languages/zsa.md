@@ -13,6 +13,9 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > North New Guinea linkage > Huon Gulf > Markham > Upper Markham > Mountain Upper Markham > Sarasira"
 translations:
+  - translation_iso: jpn
+    name: サラシラ語
+    auto: true
   - translation_iso: zho
     name: 萨拉西拉语
     auto: true

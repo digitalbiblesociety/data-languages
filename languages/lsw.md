@@ -14,6 +14,9 @@ glottolog_family_name: Sign Language
 glottolog_classification: "Sign Language > L1 Sign Language > Seychelles Sign Language"
 wikipedia_url: "https://en.wikipedia.org/wiki/Seychelles_Sign_Language"
 translations:
+  - translation_iso: jpn
+    name: セイシェル手話
+    auto: true
   - translation_iso: zho
     name: 塞舌尔手语
     auto: true

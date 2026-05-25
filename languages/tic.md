@@ -15,6 +15,9 @@ glottolog_family_name: Heibanic
 glottolog_classification: "Heibanic > West-Central Heibanic > Western Heibanic > Tira"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tiro_language"
 translations:
+  - translation_iso: jpn
+    name: ティラ語
+    auto: true
   - translation_iso: zho
     name: 蒂拉语
     auto: true

@@ -14,6 +14,9 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Kainji > Central Kainji > Basa-Eastern Kainji > Eastern Kainji > Jos > Northern Jos > Sheni-Ziriya"
 translations:
+  - translation_iso: jpn
+    name: シェニ語
+    auto: true
   - translation_iso: zho
     name: 舍尼语
     auto: true

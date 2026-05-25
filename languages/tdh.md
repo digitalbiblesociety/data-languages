@@ -16,6 +16,9 @@ glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Himalayish > Mahakiranti > Kiranti > Thulung-Tilung-Koyi > Thulung"
 wikipedia_url: "https://en.wikipedia.org/wiki/Thulung_language"
 translations:
+  - translation_iso: jpn
+    name: スルン語
+    auto: true
   - translation_iso: zho
     name: 图鲁恩语
     auto: true

@@ -15,6 +15,9 @@ glottolog_family_name: Nimboranic
 glottolog_classification: "Nimboranic > Outer Nimboranic > Mlap-Gresi-Kemtuik > Mlap"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mlap_language"
 translations:
+  - translation_iso: jpn
+    name: ムラプ語
+    auto: true
   - translation_iso: zho
     name: 姆拉普语
     auto: true

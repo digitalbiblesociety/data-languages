@@ -14,6 +14,9 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Sangiric-Minahasan > Sangiric > Northern Sangiric > Sangil-Sangir > Sangil"
 translations:
+  - translation_iso: jpn
+    name: サンギル語
+    auto: true
   - translation_iso: zho
     name: 桑吉尔语
     auto: true

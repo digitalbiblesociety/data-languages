@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Bima-Lembata > Flores > West-Central Flores > Manggaraiic > Kepo'"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kepo%CA%BC_language"
 translations:
+  - translation_iso: jpn
+    name: ケポ語
+    auto: true
   - translation_iso: zho
     name: 克波语
     auto: true

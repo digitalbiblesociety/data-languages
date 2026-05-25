@@ -15,6 +15,9 @@ glottolog_family_name: Pano-Tacanan
 glottolog_classification: "Pano-Tacanan > Panoan > Mainline Pano > Kaxararí"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kasharari_language"
 translations:
+  - translation_iso: jpn
+    name: カシャラリ語
+    auto: true
   - translation_iso: zho
     name: 卡沙拉里语
     auto: true

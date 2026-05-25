@@ -14,6 +14,9 @@ glottolog_family_id: drav1251
 glottolog_family_name: Dravidian
 glottolog_classification: "Dravidian > North Dravidian > Kurux-Malto > Malto > Kumarbhag Paharia"
 translations:
+  - translation_iso: jpn
+    name: クマルバグ・パハリア語
+    auto: true
   - translation_iso: zho
     name: 库马尔巴格帕哈里亚语
 rolv_dialects:

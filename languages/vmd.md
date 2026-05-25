@@ -14,6 +14,9 @@ glottolog_family_id: drav1251
 glottolog_family_name: Dravidian
 glottolog_classification: "Dravidian > South Dravidian > South Dravidian I > South-Western Dravidian > Koraga > Mudu Koraga"
 translations:
+  - translation_iso: jpn
+    name: コラッグ語
+    auto: true
   - translation_iso: zho
     name: 穆度-科拉加语
     auto: true

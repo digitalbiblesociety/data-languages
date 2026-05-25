@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Cameroun-Ubangian > Ubangi > Ubangi Ka > Sereic > Sere-Indri > Ndogoic > Bai-Viri > Belanda Viri"
 wikipedia_url: "https://en.wikipedia.org/wiki/Belanda_Viri_language"
 translations:
+  - translation_iso: jpn
+    name: ベランダ・ビリ語
+    auto: true
   - translation_iso: zho
     name: 贝兰达维里语
     auto: true

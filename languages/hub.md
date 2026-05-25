@@ -15,6 +15,9 @@ glottolog_family_name: Chicham
 glottolog_classification: "Chicham > Shuaric > Huambisa-Shuar > Huambisa"
 wikipedia_url: "https://en.wikipedia.org/wiki/Huambisa_language"
 translations:
+  - translation_iso: jpn
+    name: フアンビサ語
+    auto: true
   - translation_iso: zho
     name: 瓦姆比萨语
     auto: true

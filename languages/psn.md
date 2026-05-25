@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Greater South Sulawesi > Rampi-Seko-Badaic > Seko > Panasuanic > Panasuan"
 wikipedia_url: "https://en.wikipedia.org/wiki/Panasuan_language"
 translations:
+  - translation_iso: jpn
+    name: パナスアン語
+    auto: true
   - translation_iso: zho
     name: 潘苏安语
     auto: true

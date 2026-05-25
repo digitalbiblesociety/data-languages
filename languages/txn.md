@@ -14,6 +14,9 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Aru > West Tarangan"
 translations:
+  - translation_iso: jpn
+    name: タランガン・バラト語
+    auto: true
   - translation_iso: zho
     name: 西塔兰甘语
     auto: true

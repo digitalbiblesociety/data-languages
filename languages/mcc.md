@@ -15,6 +15,9 @@ glottolog_family_name: Anim
 glottolog_classification: "Anim > Tirio > Nuclear Tirio > Bitur"
 wikipedia_url: "https://en.wikipedia.org/wiki/Bitur_language"
 translations:
+  - translation_iso: jpn
+    name: ビトゥル語
+    auto: true
   - translation_iso: zho
     name: 比图尔语
     auto: true

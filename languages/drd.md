@@ -17,6 +17,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Darmiya_language"
 translations:
   - translation_iso: hin
     name: दर्मा भाषा
+  - translation_iso: jpn
+    name: ダルミヤ語
+    auto: true
   - translation_iso: zho
     name: 达米亚语
     auto: true

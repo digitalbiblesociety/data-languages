@@ -15,6 +15,9 @@ glottolog_family_name: Otomanguean
 glottolog_classification: "Otomanguean > Eastern Otomanguean > Amuzgo-Mixtecan > Mixtecan > Mixtec-Cuicatec > Mixtec > Northern Baja Mixtec > Southern Puebla Mixtec"
 wikipedia_url: "https://en.wikipedia.org/wiki/Southern_Puebla_Mixtec"
 translations:
+  - translation_iso: jpn
+    name: 南プエブラ・ミステク語
+    auto: true
   - translation_iso: zho
     name: 南普埃布拉混合语
     auto: true

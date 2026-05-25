@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Greater South Sulawesi > South Sulawesi > Tamanic-Bugis > Bugis > Malimpung"
 wikipedia_url: "https://en.wikipedia.org/wiki/Malimpung_language"
 translations:
+  - translation_iso: jpn
+    name: マリムプング語
+    auto: true
   - translation_iso: zho
     name: 玛林庞语
     auto: true

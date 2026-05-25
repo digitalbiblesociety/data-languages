@@ -10,6 +10,9 @@ latitude: 0.88032
 longitude: 24.32023
 wikipedia_url: "https://en.wikipedia.org/wiki/Foma_language"
 translations:
+  - translation_iso: jpn
+    name: フォマ語
+    auto: true
   - translation_iso: zho
     name: 福玛语
     auto: true

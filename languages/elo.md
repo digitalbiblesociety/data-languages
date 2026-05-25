@@ -15,6 +15,9 @@ glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Cushitic > East Cushitic > Lowland East Cushitic > Southern Lowland East Cushitic > Mainstream Lowland East Cushitic > Omo-Tana > Western Omo-Tana > El Molo"
 wikipedia_url: "https://en.wikipedia.org/wiki/El_Molo_language"
 translations:
+  - translation_iso: jpn
+    name: エル・モロ語
+    auto: true
   - translation_iso: zho
     name: 埃尔莫洛语
     auto: true

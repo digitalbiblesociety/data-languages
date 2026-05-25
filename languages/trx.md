@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Land Dayak > Bidayuh-Southern Land Dayak > Bidayuh > Tringgus-Sembaan Bidayuh"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tringgus_language"
 translations:
+  - translation_iso: jpn
+    name: トリングス語
+    auto: true
   - translation_iso: zho
     name: 三吉斯-森巴安比达尤语
     auto: true

@@ -14,6 +14,9 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Celebic > Kaili-Wolio > Northern Kaili-Wolio > Greater Kaili > Common Kaili > Da'a Kaili"
 translations:
+  - translation_iso: jpn
+    name: ダア・カイリ語
+    auto: true
   - translation_iso: zho
     name: 达亚凯利语
     auto: true

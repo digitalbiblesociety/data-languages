@@ -15,6 +15,9 @@ glottolog_family_name: Timor-Alor-Pantar
 glottolog_classification: "Timor-Alor-Pantar > Alor-Pantar > Nuclear Alor-Pantar > West Alor-Straits-Pantar > West Alor > Adang"
 wikipedia_url: "https://en.wikipedia.org/wiki/Adang_language"
 translations:
+  - translation_iso: jpn
+    name: アダン語
+    auto: true
   - translation_iso: zho
     name: 阿当语
     auto: true

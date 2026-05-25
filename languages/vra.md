@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > North and Central Vanuatu > Northern Vanuatu > Torres-Banks linkage > Lemerig-Veraa > Vera'a"
 wikipedia_url: "https://en.wikipedia.org/wiki/Vera%CA%BCa_language"
 translations:
+  - translation_iso: jpn
+    name: ベラア語
+    auto: true
   - translation_iso: zho
     name: 韦拉阿语
     auto: true

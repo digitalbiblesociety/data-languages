@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Unclassified North Volta-Congo > Miyobe"
 wikipedia_url: "https://en.wikipedia.org/wiki/Yobe_language"
 translations:
+  - translation_iso: jpn
+    name: ソルバ語
+    auto: true
   - translation_iso: zho
     name: 米约贝语
     auto: true

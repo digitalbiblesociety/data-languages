@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Cameroun-Ubangian > Bikwin-Jen > Northern Bikwin-Jen > Mak-Tal > Mak (Nigeria)"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mak_language_(Adamawa)"
 translations:
+  - translation_iso: jpn
+    name: マク語
+    auto: true
   - translation_iso: zho
     name: 马克语
     auto: true

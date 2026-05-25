@@ -15,6 +15,9 @@ glottolog_family_name: Worrorran
 glottolog_classification: "Worrorran > Ngarinyin"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ngarinyin_language"
 translations:
+  - translation_iso: jpn
+    name: 東ウォロラン語
+    auto: true
   - translation_iso: zho
     name: 恩加里尼因语
     auto: true

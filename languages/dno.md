@@ -15,6 +15,9 @@ glottolog_family_name: Central Sudanic
 glottolog_classification: "Central Sudanic > Lenduic > Bale > Ndrulo"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ndrulo_language"
 translations:
+  - translation_iso: jpn
+    name: ンドゥルロ語
+    auto: true
   - translation_iso: zho
     name: 恩德鲁洛语
     auto: true

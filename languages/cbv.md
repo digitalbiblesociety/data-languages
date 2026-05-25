@@ -15,6 +15,9 @@ glottolog_family_name: Kakua-Nukak
 glottolog_classification: "Kakua-Nukak > Kakua"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kakwa_language_(Colombia)"
 translations:
+  - translation_iso: jpn
+    name: カクア語
+    auto: true
   - translation_iso: zho
     name: 卡库亚语
     auto: true

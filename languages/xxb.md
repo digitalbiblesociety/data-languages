@@ -14,6 +14,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Kwa Volta-Congo > Na-Togo > Boro"
 wikipedia_url: "https://en.wikipedia.org/wiki/Boro_language_(Ghana)"
 translations:
+  - translation_iso: jpn
+    name: ボロ語（ガーナ）
+    auto: true
   - translation_iso: zho
     name: 博罗语(加纳)
     auto: true

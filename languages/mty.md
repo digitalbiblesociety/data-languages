@@ -15,6 +15,9 @@ glottolog_family_name: Nuclear Torricelli
 glottolog_classification: "Nuclear Torricelli > Wapei-Palei > Central Torricelli > Wapeic > Nabi-Metan"
 wikipedia_url: "https://en.wikipedia.org/wiki/Nabi_language"
 translations:
+  - translation_iso: jpn
+    name: ナビ語
+    auto: true
   - translation_iso: zho
     name: 纳比语
     auto: true

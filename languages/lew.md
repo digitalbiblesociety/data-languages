@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Celebic > Kaili-Wolio > Northern Kaili-Wolio > Greater Kaili > Common Kaili > Ledo Kaili"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ledo_Kaili_language"
 translations:
+  - translation_iso: jpn
+    name: レド・カイリ語
+    auto: true
   - translation_iso: zho
     name: 莱多凯利语
     auto: true

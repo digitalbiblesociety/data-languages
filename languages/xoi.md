@@ -14,6 +14,9 @@ glottolog_family_name: Ramu
 glottolog_classification: "Ramu > Goam > Tamolan > Unclassified Tamolan > Kominimung"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kominimung_language"
 translations:
+  - translation_iso: jpn
+    name: コミニムング語
+    auto: true
   - translation_iso: zho
     name: 科米尼蒙语
     auto: true

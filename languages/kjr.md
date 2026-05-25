@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > South Halmahera-West New Guinea > Cenderawasih Bay > Yapen > Eastern Yapen > Kurudu"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kurudu_language"
 translations:
+  - translation_iso: jpn
+    name: クルドゥ語
+    auto: true
   - translation_iso: zho
     name: 库鲁杜语
     auto: true

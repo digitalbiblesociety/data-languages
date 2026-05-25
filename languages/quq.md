@@ -15,6 +15,9 @@ glottolog_family_name: Unclassifiable
 glottolog_classification: "Unclassifiable > Quinqui"
 wikipedia_url: "https://en.wikipedia.org/wiki/Quinqui_jargon"
 translations:
+  - translation_iso: jpn
+    name: キンキ語
+    auto: true
   - translation_iso: kor
     name: 킹키 자곤
   - translation_iso: zho

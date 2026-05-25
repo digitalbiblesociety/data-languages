@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Southern Melanesian > Southern Vanuatu > Tanna > Southern Tanna > Southwest Tanna"
 wikipedia_url: "https://en.wikipedia.org/wiki/Southwest_Tanna_language"
 translations:
+  - translation_iso: jpn
+    name: 南西タンナ語
+    auto: true
   - translation_iso: zho
     name: 西南塔納島語
 rolv_dialects:

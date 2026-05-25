@@ -8,6 +8,9 @@ country_name: Australia
 status_id: "10"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mpalitjanh_dialect"
 translations:
+  - translation_iso: jpn
+    name: ムパリチャンハ語
+    auto: true
   - translation_iso: zho
     name: 姆帕利特詹语
     auto: true

@@ -15,6 +15,9 @@ glottolog_family_name: "West Bird's Head"
 glottolog_classification: "West Bird's Head > South West Bird's Head > Tehit"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tehit_language"
 translations:
+  - translation_iso: jpn
+    name: テヒット語
+    auto: true
   - translation_iso: zho
     name: 特希特语
     auto: true

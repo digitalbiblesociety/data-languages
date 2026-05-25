@@ -15,6 +15,9 @@ glottolog_family_name: Songhay
 glottolog_classification: "Songhay > Eastern Songhay > Tondi Songway Kiini"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tondi_Songway_Kiini"
 translations:
+  - translation_iso: jpn
+    name: TSK語
+    auto: true
   - translation_iso: zho
     name: 通迪松格韦基伊尼语
     auto: true

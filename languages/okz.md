@@ -8,6 +8,9 @@ latitude: 13.4125
 longitude: 103.866667
 wikipedia_url: "https://en.wikipedia.org/wiki/Old_Khmer"
 translations:
+  - translation_iso: jpn
+    name: 古クメール語
+    auto: true
   - translation_iso: zho
     name: 古高棉语
 ---

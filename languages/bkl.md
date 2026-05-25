@@ -15,6 +15,9 @@ glottolog_family_name: Tor-Orya
 glottolog_classification: "Tor-Orya > Tor > Berik"
 wikipedia_url: "https://en.wikipedia.org/wiki/Berik_language"
 translations:
+  - translation_iso: jpn
+    name: ベリク語
+    auto: true
   - translation_iso: zho
     name: 貝力克語
 ---

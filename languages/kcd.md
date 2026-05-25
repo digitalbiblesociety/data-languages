@@ -14,6 +14,9 @@ glottolog_family_id: more1255
 glottolog_family_name: Yam
 glottolog_classification: "Yam > Kanum > Ngkrn-Ngkantr > Ngkantr > Ngkontar Ngkolmpu"
 translations:
+  - translation_iso: jpn
+    name: ングカルムプウ・カヌム語
+    auto: true
   - translation_iso: zho
     name: 恩格卡尔姆普卡努姆语
     auto: true

@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Bima-Lembata > Flores > Flores-Lembata > Sika"
 wikipedia_url: "https://en.wikipedia.org/wiki/Sikka_language"
 translations:
+  - translation_iso: jpn
+    name: クロウェ語
+    auto: true
   - translation_iso: zho
     name: 西卡語
 rolv_dialects:

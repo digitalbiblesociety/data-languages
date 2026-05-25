@@ -15,6 +15,9 @@ glottolog_family_name: "South Bird's Head"
 glottolog_classification: "South Bird's Head > Nuclear South Bird's Head > Kais"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kais_language"
 translations:
+  - translation_iso: jpn
+    name: カイス語
+    auto: true
   - translation_iso: zho
     name: 凯斯语
     auto: true

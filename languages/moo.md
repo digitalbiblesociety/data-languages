@@ -15,6 +15,9 @@ glottolog_family_name: Austroasiatic
 glottolog_classification: "Austroasiatic > Bahnaric > North Bahnaric > Hre-Sedang-Todrah-Monam > Monom"
 wikipedia_url: "https://en.wikipedia.org/wiki/Monom_language"
 translations:
+  - translation_iso: jpn
+    name: モノム語
+    auto: true
   - translation_iso: zho
     name: 莫侬语
 ---

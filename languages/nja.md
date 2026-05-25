@@ -15,6 +15,9 @@ glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > Biu-Mandara > South Biu-Mandara > Bataic > Gudeic > Nzanyic > Nzanyi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Nzanyi_language"
 translations:
+  - translation_iso: jpn
+    name: ンザニイ語
+    auto: true
   - translation_iso: zho
     name: 恩扎尼语
     auto: true

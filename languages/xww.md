@@ -8,6 +8,9 @@ country_name: Australia
 status_id: "10"
 wikipedia_url: "https://en.wikipedia.org/wiki/Wemba_Wemba_dialect"
 translations:
+  - translation_iso: jpn
+    name: ウェンバ・ウェンバ語
+    auto: true
   - translation_iso: zho
     name: 韦姆巴-韦姆巴语
     auto: true

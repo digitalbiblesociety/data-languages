@@ -14,6 +14,9 @@ glottolog_family_id: kere1287
 glottolog_family_name: Keresan
 glottolog_classification: "Keresan > Eastern Keres"
 translations:
+  - translation_iso: jpn
+    name: イースタン・ケレス語
+    auto: true
   - translation_iso: zho
     name: 东克雷斯语
     auto: true

@@ -15,6 +15,9 @@ glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Asmat-Awyu-Ok > Awyu-Ok > Greater Awyu > Awyu-Dumut > Awyu > Asue Awyu"
 wikipedia_url: "https://en.wikipedia.org/wiki/Pisa_language"
 translations:
+  - translation_iso: jpn
+    name: アスエアウユ語
+    auto: true
   - translation_iso: zho
     name: 阿苏埃阿瓦尤语
     auto: true

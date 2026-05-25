@@ -15,6 +15,9 @@ glottolog_family_name: Uto-Aztecan
 glottolog_classification: "Uto-Aztecan > Southern Uto-Aztecan > Corachol-Aztecan > Aztec > Western Nahuatl > Central Nahuatl > Morelos Nahuatl"
 wikipedia_url: "https://en.wikipedia.org/wiki/Morelos_Nahuatl"
 translations:
+  - translation_iso: jpn
+    name: モレロス・ナワトル語
+    auto: true
   - translation_iso: zho
     name: 莫雷洛斯纳瓦特尔语
     auto: true

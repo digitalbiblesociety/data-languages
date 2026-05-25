@@ -15,6 +15,9 @@ glottolog_family_name: Quechuan
 glottolog_classification: "Quechuan > Cajamarca-Lambayeque Quechua > Cajamarca Quechua"
 wikipedia_url: "https://en.wikipedia.org/wiki/Cajamarca_Quechua"
 translations:
+  - translation_iso: jpn
+    name: カハマルカケチュア語
+    auto: true
   - translation_iso: zho
     name: 卡玛卡克丘亚语
     auto: true

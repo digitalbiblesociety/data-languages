@@ -15,6 +15,9 @@ glottolog_family_name: Western Daly
 glottolog_classification: "Western Daly > Maranunggu-Ame-Manda > Ame-Manda > Ami"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ami_language_(Australia)"
 translations:
+  - translation_iso: jpn
+    name: アミ語
+    auto: true
   - translation_iso: zho
     name: 阿米语
     auto: true

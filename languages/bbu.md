@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Jarawan > Nigerian Jarawan > Kulung (Nigeria)"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kulung_language_(Jarawan)"
 translations:
+  - translation_iso: jpn
+    name: クルング語
+    auto: true
   - translation_iso: zho
     name: 库隆语
     auto: true

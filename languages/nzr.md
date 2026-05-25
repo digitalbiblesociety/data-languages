@@ -14,6 +14,9 @@ glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > West Chadic > West Chadic B > West Chadic B.3 > South Bauchi West > Northwest South Bauchi > Polci-Luri > Polcic > Zulic > Dir-Nyamzak-Mbarimi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Dir-Nyamzak-Mbarimi_language"
 translations:
+  - translation_iso: jpn
+    name: ディル・ニャムザク・ムバリミ語
+    auto: true
   - translation_iso: zho
     name: 迪尔-尼亚姆扎克-姆巴里米语
     auto: true

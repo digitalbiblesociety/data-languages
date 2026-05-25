@@ -15,6 +15,9 @@ glottolog_family_name: Ta-Ne-Omotic
 glottolog_classification: "Ta-Ne-Omotic > Ometo > East Ometo > Kachama-Ganjule-Haro"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kachama-Ganjule_language"
 translations:
+  - translation_iso: jpn
+    name: カチャマ・ガンジュレ語
+    auto: true
   - translation_iso: zho
     name: 卡恰马-甘朱勒语
     auto: true

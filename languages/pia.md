@@ -15,6 +15,9 @@ glottolog_family_name: Uto-Aztecan
 glottolog_classification: "Uto-Aztecan > Southern Uto-Aztecan > Tepiman > Piman > Pima Bajo"
 wikipedia_url: "https://en.wikipedia.org/wiki/Pima_Bajo_language"
 translations:
+  - translation_iso: jpn
+    name: ピマバホ語
+    auto: true
   - translation_iso: zho
     name: 皮玛巴荷语
     auto: true

@@ -8,6 +8,9 @@ country_name: Australia
 status_id: "10"
 wikipedia_url: "https://en.wikipedia.org/wiki/Janday_language"
 translations:
+  - translation_iso: jpn
+    name: ジャンダイ語
+    auto: true
   - translation_iso: zho
     name: 詹代语
     auto: true

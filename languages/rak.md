@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Admiralty Islands > Eastern Admiralty Islands > Manus > West Manus > West Manus II > Tulu-Bohuai"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tulu-Bohuai_language"
 translations:
+  - translation_iso: jpn
+    name: トゥルボフアイ語
+    auto: true
   - translation_iso: zho
     name: 图卢-博怀语
     auto: true

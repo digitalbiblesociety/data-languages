@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > North and Central Vanuatu > Central Vanuatu > Malakula > Eastern Malakula linkage > Central-Southeast Malakula > Southeastern Malakula linkage > Port Sandwich-Axamb-Avok > Port Sandwich"
 wikipedia_url: "https://en.wikipedia.org/wiki/Port_Sandwich_language"
 translations:
+  - translation_iso: jpn
+    name: ポートサンドウィッチ語
+    auto: true
   - translation_iso: zho
     name: 波特桑威奇语
     auto: true

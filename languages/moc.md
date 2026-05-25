@@ -15,6 +15,9 @@ glottolog_family_name: Guaicuruan
 glottolog_classification: "Guaicuruan > Guaicuru del Sur > Qom > Mocoví"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mocov%C3%AD_language"
 translations:
+  - translation_iso: jpn
+    name: モコビ語
+    auto: true
   - translation_iso: zho
     name: 莫科维语
 ---

@@ -15,6 +15,9 @@ glottolog_family_name: Unattested
 glottolog_classification: "Unattested > Wasu"
 wikipedia_url: "https://en.wikipedia.org/wiki/Wasu_language"
 translations:
+  - translation_iso: jpn
+    name: ワス語
+    auto: true
   - translation_iso: zho
     name: 瓦苏语
     auto: true

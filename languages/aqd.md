@@ -15,6 +15,9 @@ glottolog_family_name: Dogon
 glottolog_classification: "Dogon > West Dogon > Penangic > Ampari Dogon"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ampari_Dogon"
 translations:
+  - translation_iso: jpn
+    name: アンパリドゴン語
+    auto: true
   - translation_iso: zho
     name: 安帕里多贡语
     auto: true

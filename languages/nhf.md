@@ -15,6 +15,9 @@ glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > South-West Pama-Nyungan > Pilbara > Ngayarda > Nhuwala"
 wikipedia_url: "https://en.wikipedia.org/wiki/Nhuwala_language"
 translations:
+  - translation_iso: jpn
+    name: ンフワラ語
+    auto: true
   - translation_iso: kor
     name: 누왈라어
   - translation_iso: zho

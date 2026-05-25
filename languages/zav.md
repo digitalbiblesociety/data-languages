@@ -15,6 +15,9 @@ glottolog_family_name: Otomanguean
 glottolog_classification: "Otomanguean > Eastern Otomanguean > Popoloca-Zapotecan > Zapotecan > Zapotec > Core Zapotec > Narrow Core Zapotec > Northern Core Zapotec > Cajonosic > Yatzachi Zapotec"
 wikipedia_url: "https://en.wikipedia.org/wiki/Yatzachi_Zapotec"
 translations:
+  - translation_iso: jpn
+    name: ヤツァチ・サポテク語
+    auto: true
   - translation_iso: zho
     name: 亚茨阿奇-萨波特克语
     auto: true

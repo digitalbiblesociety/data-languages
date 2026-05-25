@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Basap-Greater Barito > Greater Barito linkage > Barito-Mahakam > Tunjung"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tunjung_language"
 translations:
+  - translation_iso: jpn
+    name: トゥンジュン語
+    auto: true
   - translation_iso: zho
     name: 通容语
     auto: true

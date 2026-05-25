@@ -17,6 +17,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Malgbe_language"
 translations:
   - translation_iso: ara
     name: مالغبي
+  - translation_iso: jpn
+    name: マルグベ語
+    auto: true
   - translation_iso: zho
     name: 玛尔格贝语
     auto: true

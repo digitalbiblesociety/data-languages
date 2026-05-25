@@ -13,6 +13,9 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > North New Guinea linkage > Huon Gulf > South Huon Gulf linkage > Buang linkage > Mumeng > Gorakor"
 translations:
+  - translation_iso: jpn
+    name: ゴラコル語
+    auto: true
   - translation_iso: zho
     name: 戈拉克语
     auto: true

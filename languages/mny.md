@@ -14,6 +14,9 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > East Bantu > North Mozambique Bantu > Manyawa"
 translations:
+  - translation_iso: jpn
+    name: マニャワ語
+    auto: true
   - translation_iso: zho
     name: 曼亚瓦语
     auto: true

@@ -15,6 +15,9 @@ glottolog_family_name: Sepik
 glottolog_classification: "Sepik > Sepik Tama > Mayo-Pasi > Yessan-Mayo"
 wikipedia_url: "https://en.wikipedia.org/wiki/Yessan-Mayo_language"
 translations:
+  - translation_iso: jpn
+    name: イェッサン-マヨ語
+    auto: true
   - translation_iso: zho
     name: 耶桑-玛约语
     auto: true

@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Senufo > Karaboro > Western Karaboro"
 wikipedia_url: "https://en.wikipedia.org/wiki/Syer-Tenyer_language"
 translations:
+  - translation_iso: jpn
+    name: 西カラボロ語
+    auto: true
   - translation_iso: zho
     name: 西卡拉博罗语
     auto: true

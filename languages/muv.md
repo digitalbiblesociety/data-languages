@@ -15,6 +15,9 @@ glottolog_family_name: Dravidian
 glottolog_classification: "Dravidian > South Dravidian > South Dravidian I > Tamil-Kannada > Tamil-Kota > Tamil-Toda > Tamil-Irula > Tamil-Kodagu > Tamil-Malayalam > Tamiloid > Muthuvan-Mannan > Muthuvan"
 wikipedia_url: "https://en.wikipedia.org/wiki/Muthuvan_language"
 translations:
+  - translation_iso: jpn
+    name: ムトゥヴァン語
+    auto: true
   - translation_iso: zho
     name: 穆图瓦语
     auto: true

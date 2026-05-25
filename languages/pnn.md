@@ -15,6 +15,9 @@ glottolog_family_name: Piawi
 glottolog_classification: "Piawi > Pinai-Hagahai"
 wikipedia_url: "https://en.wikipedia.org/wiki/Hagahai_language"
 translations:
+  - translation_iso: jpn
+    name: ピナイハガハイ語
+    auto: true
   - translation_iso: zho
     name: 皮奈哈加海伊语
     auto: true

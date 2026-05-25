@@ -10,6 +10,9 @@ latitude: -1.87941
 longitude: 125.82233
 wikipedia_url: "https://en.wikipedia.org/wiki/Mangole_language"
 translations:
+  - translation_iso: jpn
+    name: マンゴレ語
+    auto: true
   - translation_iso: zho
     name: 芒戈莱语
     auto: true

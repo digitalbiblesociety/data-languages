@@ -15,6 +15,9 @@ glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > East Chadic > East Chadic B > East Chadic B.1 > Dangla-Mabire-Birgit > Birgit-Mogum-Toram > Mogum"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mogum_language"
 translations:
+  - translation_iso: jpn
+    name: モグム語
+    auto: true
   - translation_iso: zho
     name: 莫古姆语
     auto: true

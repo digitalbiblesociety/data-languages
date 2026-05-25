@@ -14,6 +14,9 @@ glottolog_family_id: pama1250
 glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > Greater Maric > Guwa-Maric > Maric > Southern Maric > Mandandanyi"
 translations:
+  - translation_iso: jpn
+    name: マンダンダニ語
+    auto: true
   - translation_iso: zho
     name: 曼丹达尼语
     auto: true

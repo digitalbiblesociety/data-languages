@@ -15,6 +15,9 @@ glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Indo-Aryan > Middle-Modern Indo-Aryan > Continental Indo-Aryan > Indo-Aryan Eastern zone > Halbic > Kamar"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kamar_language"
 translations:
+  - translation_iso: jpn
+    name: カマル語
+    auto: true
   - translation_iso: kor
     name: 카마르어
   - translation_iso: zho

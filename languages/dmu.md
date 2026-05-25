@@ -17,6 +17,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Tebi_language"
 translations:
   - translation_iso: ara
     name: لغة تيبي
+  - translation_iso: jpn
+    name: ドゥブ語
+    auto: true
   - translation_iso: zho
     name: 杜布语
     auto: true

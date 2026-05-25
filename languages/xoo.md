@@ -12,6 +12,9 @@ longitude: -36.58332
 glottocode: xuku1239
 wikipedia_url: "https://en.wikipedia.org/wiki/Xukuru_language"
 translations:
+  - translation_iso: jpn
+    name: シュクル語
+    auto: true
   - translation_iso: zho
     name: 许库鲁语
     auto: true

@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Gur > Central Gur > Northern Central Gur > Bwamu-Oti-Volta > Bwamu > Nuclear Bwamu > Láá Láá Bwamu"
 wikipedia_url: "https://en.wikipedia.org/wiki/L%C3%A1%C3%A1_L%C3%A1%C3%A1_Bwamu_language"
 translations:
+  - translation_iso: jpn
+    name: ラー・ラー・ブワム語
+    auto: true
   - translation_iso: zho
     name: 拉拉布瓦木语
     auto: true

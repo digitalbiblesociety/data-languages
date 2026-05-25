@@ -15,6 +15,9 @@ glottolog_family_name: Otomanguean
 glottolog_classification: "Otomanguean > Eastern Otomanguean > Amuzgo-Mixtecan > Mixtecan > Mixtec-Cuicatec > Mixtec > Eastern Alta Mixtec > Southeastern Alta Mixtec > Teozacoalco Mixtec > Sindihuic > Sindihui Mixtec"
 wikipedia_url: "https://en.wikipedia.org/wiki/Sindihui_Mixtec"
 translations:
+  - translation_iso: jpn
+    name: シンディフイ・ミステク語
+    auto: true
   - translation_iso: zho
     name: 辛迪胡伊-米斯特克语
     auto: true

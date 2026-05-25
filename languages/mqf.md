@@ -12,6 +12,9 @@ longitude: 139.26022
 glottocode: momu1241
 wikipedia_url: "https://en.wikipedia.org/wiki/Momuna_language"
 translations:
+  - translation_iso: jpn
+    name: モムナ語
+    auto: true
   - translation_iso: zho
     name: 莫穆纳语
     auto: true

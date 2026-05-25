@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Northern Luzon > Cagayan Valley > Isnag"
 wikipedia_url: "https://en.wikipedia.org/wiki/Isnag_language"
 translations:
+  - translation_iso: jpn
+    name: イスナグ語
+    auto: true
   - translation_iso: zho
     name: 伊斯纳格语
     auto: true

@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > North Borneo Malayo-Polynesian > Sabahan > Southwest Sabahan > Greater Dusunic > Dusunic > Rungus-Mangkaak-Labuk > Dumpas-Sukang > Labuk-Kinabatangan Kadazan"
 wikipedia_url: "https://en.wikipedia.org/wiki/Eastern_Kadazan_language"
 translations:
+  - translation_iso: jpn
+    name: ラブク・キナバタンガン・カダザン語
+    auto: true
   - translation_iso: zho
     name: 拉布克-基那巴坦甘卡达让语
     auto: true

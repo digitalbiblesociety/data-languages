@@ -15,6 +15,9 @@ glottolog_family_name: Jarrakan
 glottolog_classification: "Jarrakan > Miriwunic > Gajirrabeng"
 wikipedia_url: "https://en.wikipedia.org/wiki/Gajirrawoong_dialect"
 translations:
+  - translation_iso: jpn
+    name: ガジェラワン語
+    auto: true
   - translation_iso: zho
     name: 加德杰拉旺语
     auto: true

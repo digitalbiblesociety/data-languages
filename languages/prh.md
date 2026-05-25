@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Greater Central Philippine > Central Philippine > Bisayan > Central Bisayan > Peripheral Central Bisayan > Porohanon"
 wikipedia_url: "https://en.wikipedia.org/wiki/Porohanon_language"
 translations:
+  - translation_iso: jpn
+    name: ポロハノン語
+    auto: true
   - translation_iso: zho
     name: 波罗哈农语
     auto: true

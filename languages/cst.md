@@ -14,6 +14,9 @@ glottolog_family_id: miwo1274
 glottolog_family_name: Miwok-Costanoan
 glottolog_classification: "Miwok-Costanoan > Costanoan > San Francisco Bay Ohlone"
 translations:
+  - translation_iso: jpn
+    name: ノーザン・オーロン語
+    auto: true
   - translation_iso: zho
     name: 北奥赫龙语
     auto: true

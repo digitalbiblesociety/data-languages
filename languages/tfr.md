@@ -15,6 +15,9 @@ glottolog_family_name: Chibchan
 glottolog_classification: "Chibchan > Core Chibchan > Isthmic Chibchan > Western Isthmic Chibchan > Teribe"
 wikipedia_url: "https://en.wikipedia.org/wiki/Teribe_language"
 translations:
+  - translation_iso: jpn
+    name: テリベ語
+    auto: true
   - translation_iso: zho
     name: 特里贝语
     auto: true

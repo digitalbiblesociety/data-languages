@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > North Borneo Malayo-Polynesian > Central Sarawak > Punan-Muller-Schwaner > Punan > Aput-Busang-Merah-Kohi > Punan Batu 1"
 wikipedia_url: "https://en.wikipedia.org/wiki/Punan_Batu_language"
 translations:
+  - translation_iso: jpn
+    name: プナンバトゥ1語
+    auto: true
   - translation_iso: zho
     name: 普南巴图1号语
     auto: true

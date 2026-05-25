@@ -15,6 +15,9 @@ glottolog_family_name: Otomanguean
 glottolog_classification: "Otomanguean > Western Otomanguean > Otopame-Chinantecan > Chinantecan > Chinantec Group V > Quiotepec Chinantec"
 wikipedia_url: "https://en.wikipedia.org/wiki/Highland_Chinantec_language"
 translations:
+  - translation_iso: jpn
+    name: キオテペク・チナンテク語
+    auto: true
   - translation_iso: zho
     name: 基奥特佩克奇南特克语
     auto: true

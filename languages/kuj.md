@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > East Bantu > Northeast Savanna Bantu > Great Lakes Bantu > East Nyanza > Nyanza Mara > North Mara > Kuriaic > Kuria"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kuria_language"
 translations:
+  - translation_iso: jpn
+    name: クリア語
+    auto: true
   - translation_iso: zho
     name: 庫里亞語
 ---

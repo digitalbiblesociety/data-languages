@@ -14,6 +14,9 @@ glottolog_family_name: Kolopom
 glottolog_classification: "Kolopom > Kimaama-Riantana > Riantana"
 wikipedia_url: "https://en.wikipedia.org/wiki/Riantana_language"
 translations:
+  - translation_iso: jpn
+    name: リアンタナ語
+    auto: true
   - translation_iso: zho
     name: 里安塔纳语
     auto: true

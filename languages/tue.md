@@ -15,6 +15,9 @@ glottolog_family_name: Tucanoan
 glottolog_classification: "Tucanoan > Eastern Tucanoan > Eastern Eastern Tucanoan > Eastern Eastern Tucanoan II > Pisamira-Yuruti > Tuyuca-Yuruti > Tuyuca"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tuyuca_language"
 translations:
+  - translation_iso: jpn
+    name: ドカプアラエ語
+    auto: true
   - translation_iso: zho
     name: 圖尤卡語
 rolv_dialects:

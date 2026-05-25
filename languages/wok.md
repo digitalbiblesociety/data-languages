@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Cameroun-Ubangian > Central Adamawa > Samba-Duru > Southern Samba-Duru > Longto"
 wikipedia_url: "https://en.wikipedia.org/wiki/Voko_language"
 translations:
+  - translation_iso: jpn
+    name: ロング語
+    auto: true
   - translation_iso: zho
     name: 隆托语
     auto: true

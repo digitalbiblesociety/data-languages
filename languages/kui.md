@@ -15,6 +15,9 @@ glottolog_family_name: Cariban
 glottolog_classification: "Cariban > Kuikuroan > Nuclear Kuikuroan > Kuikúro-Kalapálo"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kuik%C3%BAro_language"
 translations:
+  - translation_iso: jpn
+    name: クイクロ・カラパロ語
+    auto: true
   - translation_iso: zho
     name: 库伊库罗-卡拉帕洛语
     auto: true

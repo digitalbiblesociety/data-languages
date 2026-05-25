@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Akpes-Edoid > Edoid > Northwestern Edoid > Igwic > Ikpeshic > Ikpeshi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ikpeshi_language"
 translations:
+  - translation_iso: jpn
+    name: イクペシ語
+    auto: true
   - translation_iso: zho
     name: 伊克佩希语
     auto: true

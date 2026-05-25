@@ -15,6 +15,9 @@ glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Germanic > Northwest Germanic > West Germanic > North Sea Germanic > Anglo-Frisian > Anglic > Later Anglic > Middle-Modern English > Macro-English > Guinea Coast Creole English > Caribbean English Creole > Eastern Caribbean Creole > Vincent-Grenadian Creole > Vincentian Creole English"
 wikipedia_url: "https://en.wikipedia.org/wiki/Vincentian_Creole"
 translations:
+  - translation_iso: jpn
+    name: ビンセント・クレオール英語
+    auto: true
   - translation_iso: zho
     name: 文森特克里奥尔语
 ---

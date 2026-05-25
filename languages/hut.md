@@ -15,6 +15,9 @@ glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Bodic > Bodish > Early Old Tibetan > Middle Old Tibetan > Late Old Tibetan > Central Tibetan > South-Western Tibetic > Humla"
 wikipedia_url: "https://en.wikipedia.org/wiki/Humla_Tibetan_language"
 translations:
+  - translation_iso: jpn
+    name: フムラ語
+    auto: true
   - translation_iso: zho
     name: 胡姆拉语
     auto: true

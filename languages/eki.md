@@ -14,6 +14,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Delta Cross > Lower Cross > Nuclear Lower Cross > Central Lower Cross > Efikic > Unclassified Efikic > Eki"
 wikipedia_url: "https://en.wikipedia.org/wiki/Eki_language"
 translations:
+  - translation_iso: jpn
+    name: エキ語
+    auto: true
   - translation_iso: zho
     name: 厄基语
     auto: true

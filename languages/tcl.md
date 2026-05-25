@@ -15,6 +15,9 @@ glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Brahmaputran > Jingpho-Luish > Luish > Unclassified Luish > Taman (Myanmar)"
 wikipedia_url: "https://en.wikipedia.org/wiki/Taman_language_(Myanmar)"
 translations:
+  - translation_iso: jpn
+    name: タマン語
+    auto: true
   - translation_iso: zho
     name: 缅甸塔曼语
     auto: true

@@ -14,6 +14,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Basap-Greater Barito > Greater Barito linkage > Dusun Malang"
 wikipedia_url: "https://en.wikipedia.org/wiki/Dusun_Malang_language"
 translations:
+  - translation_iso: jpn
+    name: ドゥスン・マラン語
+    auto: true
   - translation_iso: zho
     name: 杜顺玛朗语
     auto: true

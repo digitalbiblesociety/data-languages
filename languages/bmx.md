@@ -14,6 +14,9 @@ glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Madang > Croisilles > Mabuso > Hanseman > Garuhic > Baimak"
 wikipedia_url: "https://en.wikipedia.org/wiki/Baimak_language"
 translations:
+  - translation_iso: jpn
+    name: バイマク語
+    auto: true
   - translation_iso: zho
     name: 拜马克语
     auto: true

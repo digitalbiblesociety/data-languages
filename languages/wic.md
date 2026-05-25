@@ -15,6 +15,9 @@ glottolog_family_name: Caddoan
 glottolog_classification: "Caddoan > Northern Caddoan > Wichita"
 wikipedia_url: "https://en.wikipedia.org/wiki/Wichita_language"
 translations:
+  - translation_iso: jpn
+    name: ウィチタ語
+    auto: true
   - translation_iso: zho
     name: 威奇塔語
 ---

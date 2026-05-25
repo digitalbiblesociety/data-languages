@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Greater Central Philippine > Central Philippine > Bisayan > Bantoanon"
 wikipedia_url: "https://en.wikipedia.org/wiki/Bantoanon_language"
 translations:
+  - translation_iso: jpn
+    name: バントアノン語
+    auto: true
   - translation_iso: zho
     name: 班托亚农语
     auto: true

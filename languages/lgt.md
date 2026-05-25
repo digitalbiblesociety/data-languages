@@ -15,6 +15,9 @@ glottolog_family_name: Sepik
 glottolog_classification: "Sepik > Sepik Tama > Mehek-Pahi > Pahi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Pahi_language"
 translations:
+  - translation_iso: jpn
+    name: パヒ語
+    auto: true
   - translation_iso: zho
     name: 帕希语
     auto: true

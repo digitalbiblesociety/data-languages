@@ -8,6 +8,9 @@ country_name: Brazil
 status_id: null
 wikipedia_url: "https://en.wikipedia.org/wiki/Ararandew%C3%A1ra_language"
 translations:
+  - translation_iso: jpn
+    name: アラランデワラ語
+    auto: true
   - translation_iso: zho
     name: 阿拉兰德瓦拉语
     auto: true

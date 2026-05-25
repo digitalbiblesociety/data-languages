@@ -15,6 +15,9 @@ glottolog_family_name: Angan
 glottolog_classification: "Angan > Nuclear Angan > Wojokesic > Safeyoka"
 wikipedia_url: "https://en.wikipedia.org/wiki/Safeyoka_language"
 translations:
+  - translation_iso: jpn
+    name: サフェヨカ語
+    auto: true
   - translation_iso: zho
     name: 萨费约卡语
     auto: true

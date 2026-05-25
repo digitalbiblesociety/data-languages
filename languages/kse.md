@@ -14,6 +14,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > Papuan Tip linkage > Peripheral Papuan Tip linkage > Central Papuan Oceanic > West Central Papuan linkage > Nuclear West Central Papuan linkage > Kuni"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kuni_language"
 translations:
+  - translation_iso: jpn
+    name: クニ語
+    auto: true
   - translation_iso: zho
     name: 库尼语
     auto: true

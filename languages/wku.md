@@ -14,6 +14,9 @@ glottolog_family_name: Dravidian
 glottolog_classification: "Dravidian > South Dravidian > South Dravidian I > Tamil-Kannada > Tamil-Kota > Tamil-Toda > Tamil-Irula > Tamil-Kodagu > Tamil-Malayalam > Malayalamoid > Kalanadic > Kunduvadi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kunduvadi_language"
 translations:
+  - translation_iso: jpn
+    name: クンドゥバディ語
+    auto: true
   - translation_iso: zho
     name: 库杜瓦迪语
     auto: true

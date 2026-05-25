@@ -15,6 +15,9 @@ glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > Southeastern Pama-Nyungan > New South Wales Pama-Nyungan > Greater Bandjalangic > Bandjalangic > Inland Bandjalang > Condamine-Upper Clarence Bandjalang"
 wikipedia_url: "https://en.wikipedia.org/wiki/Githabul_language"
 translations:
+  - translation_iso: jpn
+    name: ギタバル語
+    auto: true
   - translation_iso: zho
     name: 吉塔布尔语
     auto: true

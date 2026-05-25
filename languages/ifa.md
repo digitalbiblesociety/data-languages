@@ -14,6 +14,9 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Northern Luzon > Meso-Cordilleran > South-Central Cordilleran > Central Cordilleran > Nuclear Cordilleran > Ifugaw > Amganad Ifugao"
 translations:
+  - translation_iso: jpn
+    name: アムガナド・イフガオ語
+    auto: true
   - translation_iso: zho
     name: 阿姆甘纳德伊富高语
     auto: true

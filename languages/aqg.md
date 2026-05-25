@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Defoid > Arigidi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Akoko_language"
 translations:
+  - translation_iso: jpn
+    name: アリギディ語
+    auto: true
   - translation_iso: zho
     name: 阿里吉迪语
     auto: true

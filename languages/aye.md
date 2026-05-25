@@ -14,6 +14,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Defoid > Ayere-Ahan > Ayere"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ayere_language"
 translations:
+  - translation_iso: jpn
+    name: アイエレ語
+    auto: true
   - translation_iso: zho
     name: 艾耶雷语
     auto: true

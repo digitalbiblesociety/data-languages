@@ -14,6 +14,9 @@ glottolog_family_id: otom1299
 glottolog_family_name: Otomanguean
 glottolog_classification: "Otomanguean > Eastern Otomanguean > Amuzgo-Mixtecan > Mixtecan > Mixtec-Cuicatec > Mixtec > Western Alta Mixtec > Southwestern Alta Mixtec > Chalcatongic > Itundujia Mixtec"
 translations:
+  - translation_iso: jpn
+    name: イトゥンドゥヒア・ミステク語
+    auto: true
   - translation_iso: zho
     name: 伊图恩杜希亚混台语
     auto: true

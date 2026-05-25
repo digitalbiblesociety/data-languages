@@ -14,6 +14,9 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > East Bantu > Greater Lega > Mituku-Lega > Lega > Lega-Mwenga"
 translations:
+  - translation_iso: jpn
+    name: レガ・ムウェンガ語
+    auto: true
   - translation_iso: zho
     name: 勒加-姆韦恩加语
     auto: true

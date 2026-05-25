@@ -15,6 +15,9 @@ glottolog_family_name: Narrow Talodi
 glottolog_classification: "Narrow Talodi > Buram-Saraf > Nding-Tasomi > Tasomi-Tata"
 wikipedia_url: "https://en.wikipedia.org/wiki/Talodi_language"
 translations:
+  - translation_iso: jpn
+    name: タロディ語
+    auto: true
   - translation_iso: zho
     name: 塔洛迪语
     auto: true

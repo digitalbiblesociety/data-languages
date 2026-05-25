@@ -15,6 +15,9 @@ glottolog_family_name: Austroasiatic
 glottolog_classification: "Austroasiatic > Bahnaric > North Bahnaric > Kayong-Jeh-Halang > Jeh-Halang > Jeh"
 wikipedia_url: "https://en.wikipedia.org/wiki/Jeh_language"
 translations:
+  - translation_iso: jpn
+    name: ジェ語
+    auto: true
   - translation_iso: zho
     name: 叶语
 rolv_dialects:

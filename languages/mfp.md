@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Malayo-Chamic > Malayic > Nuclear Malayic > Vehicular Malay > Makassar Malay"
 wikipedia_url: "https://en.wikipedia.org/wiki/Makassar_Malay"
 translations:
+  - translation_iso: jpn
+    name: マカッサル・マレー語
+    auto: true
   - translation_iso: zho
     name: 望加锡马来语
     auto: true

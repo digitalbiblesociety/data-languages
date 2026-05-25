@@ -8,6 +8,9 @@ country_name: Australia
 status_id: "10"
 wikipedia_url: "https://en.wikipedia.org/wiki/Madhi_Madhi_dialect"
 translations:
+  - translation_iso: jpn
+    name: マディ・マディ語
+    auto: true
   - translation_iso: zho
     name: 玛迪玛迪语
     auto: true

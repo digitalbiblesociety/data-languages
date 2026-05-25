@@ -15,6 +15,9 @@ glottolog_family_name: Otomanguean
 glottolog_classification: "Otomanguean > Eastern Otomanguean > Amuzgo-Mixtecan > Mixtecan > Mixtec-Cuicatec > Mixtec > Northern Baja Mixtec > Chigmecatitlán Mixtec"
 wikipedia_url: "https://en.wikipedia.org/wiki/Chigmecatitl%C3%A1n_Mixtec"
 translations:
+  - translation_iso: jpn
+    name: チグメカティトラン・ミステク語
+    auto: true
   - translation_iso: zho
     name: 奇格梅卡蒂特兰混合语
     auto: true

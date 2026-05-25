@@ -15,6 +15,9 @@ glottolog_family_name: Naduhup
 glottolog_classification: "Naduhup > Eastern Naduhup > Hup-Yuhup > Hup"
 wikipedia_url: "https://en.wikipedia.org/wiki/Hup_language"
 translations:
+  - translation_iso: jpn
+    name: フプデ語
+    auto: true
   - translation_iso: zho
     name: 胡普德语
     auto: true

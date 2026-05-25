@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Tolitoli > Boano (Sulawesi)"
 wikipedia_url: "https://en.wikipedia.org/wiki/Boano_language_(Sulawesi)"
 translations:
+  - translation_iso: jpn
+    name: ボアノ語
+    auto: true
   - translation_iso: zho
     name: 博亚诺语
 ---

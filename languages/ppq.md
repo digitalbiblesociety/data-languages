@@ -14,6 +14,9 @@ glottolog_family_name: Walioic
 glottolog_classification: "Walioic > Pai-Sinen-Walio > Pei"
 wikipedia_url: "https://en.wikipedia.org/wiki/Pei_language"
 translations:
+  - translation_iso: jpn
+    name: ペイ語
+    auto: true
   - translation_iso: zho
     name: 佩伊语
     auto: true

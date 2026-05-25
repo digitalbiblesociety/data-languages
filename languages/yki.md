@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > South Halmahera-West New Guinea > Lower Mamberamo > Yoke-Pauwi > Yoke"
 wikipedia_url: "https://en.wikipedia.org/wiki/Yoke_language"
 translations:
+  - translation_iso: jpn
+    name: ヨケ語
+    auto: true
   - translation_iso: zho
     name: 约克语
     auto: true

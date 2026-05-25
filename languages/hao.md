@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > Meso Melanesian linkage > New Ireland-Northwest Solomonic linkage > St George linkage > Northwest Solomonic > North Bougainville Oceanic > Nuclear North Bougainville Oceanic > Buka > Haliaic > Hakö"
 wikipedia_url: "https://en.wikipedia.org/wiki/Hak%C3%B6_language"
 translations:
+  - translation_iso: jpn
+    name: ハコ語
+    auto: true
   - translation_iso: zho
     name: 哈库语
     auto: true

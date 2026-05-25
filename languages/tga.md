@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > East Bantu > Northeast Savanna Bantu > Kilimanjaro-Taita > Taita-Sagalla > Sagalla"
 wikipedia_url: "https://en.wikipedia.org/wiki/Sagalla_language"
 translations:
+  - translation_iso: jpn
+    name: サガラ語
+    auto: true
   - translation_iso: zho
     name: 萨加拉语
     auto: true

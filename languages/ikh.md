@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Akpes-Edoid > Edoid > North-Central Edoid > Central Plains Edoid > Emaic > Ikhin-Arokho"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ikhin_language"
 translations:
+  - translation_iso: jpn
+    name: イキン・アオホ語
+    auto: true
   - translation_iso: zho
     name: 伊金-奥克霍语
     auto: true

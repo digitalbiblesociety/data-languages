@@ -15,6 +15,9 @@ glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Bodic > Bodish > Early Old Tibetan > Middle Old Tibetan > Late Old Tibetan > Southern Tibetic > Unclassified Southern Tibetic > Khamba"
 wikipedia_url: "https://en.wikipedia.org/wiki/Khamba_language"
 translations:
+  - translation_iso: jpn
+    name: ハンバ語
+    auto: true
   - translation_iso: zho
     name: 卡姆巴语
 ---

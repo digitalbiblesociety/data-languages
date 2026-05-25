@@ -15,6 +15,9 @@ glottolog_family_name: Cariban
 glottolog_classification: "Cariban > Opon-Yukpan > Yukpan > Yukpa"
 wikipedia_url: "https://en.wikipedia.org/wiki/Yukpa_language"
 translations:
+  - translation_iso: jpn
+    name: ユクパ語
+    auto: true
   - translation_iso: zho
     name: 尤克帕语
 rolv_dialects:

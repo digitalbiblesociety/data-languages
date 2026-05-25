@@ -15,6 +15,9 @@ glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Mek > Western Mek > Northwestern Mek > Nalca"
 wikipedia_url: "https://en.wikipedia.org/wiki/Nalca_language"
 translations:
+  - translation_iso: jpn
+    name: ナルカ語
+    auto: true
   - translation_iso: zho
     name: 纳尔卡语
     auto: true

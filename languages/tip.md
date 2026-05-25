@@ -15,6 +15,9 @@ glottolog_family_name: Greater Kwerba
 glottolog_classification: "Greater Kwerba > Kwerba-Samarokena > Kwerbaic > Middle Mamberamo Kwerba > Kasonaic > Trimuris"
 wikipedia_url: "https://en.wikipedia.org/wiki/Trimuris_language"
 translations:
+  - translation_iso: jpn
+    name: トリムリス語
+    auto: true
   - translation_iso: zho
     name: 特里穆里斯语
     auto: true

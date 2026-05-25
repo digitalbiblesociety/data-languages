@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Timor-Babar > Southwest Maluku > Babar > South Babar > Masela-South Babar > Southeast Babar"
 wikipedia_url: "https://en.wikipedia.org/wiki/Southeast_Babar_language"
 translations:
+  - translation_iso: jpn
+    name: 南東ババル語
+    auto: true
   - translation_iso: zho
     name: 东巴巴尔语
     auto: true

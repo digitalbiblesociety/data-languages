@@ -15,6 +15,9 @@ glottolog_family_name: Austroasiatic
 glottolog_classification: "Austroasiatic > Bahnaric > West Bahnaric > Nuclear West Bahnaric > Nyaheun"
 wikipedia_url: "https://en.wikipedia.org/wiki/Nyaheun_language"
 translations:
+  - translation_iso: jpn
+    name: ニャヘウン語
+    auto: true
   - translation_iso: zho
     name: 洪语
 rolv_dialects:

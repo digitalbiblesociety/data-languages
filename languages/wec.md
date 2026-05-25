@@ -14,6 +14,9 @@ glottolog_family_id: krua1234
 glottolog_family_name: Kru
 glottolog_classification: "Kru > Greater Western Kru > Western Kru > Wee-Bassa-Klao > Wee > Nuclear Wee > Guere-Krahn > Wè Western"
 translations:
+  - translation_iso: jpn
+    name: ウェ・ウェスタン語
+    auto: true
   - translation_iso: zho
     name: 韦西部语
     auto: true

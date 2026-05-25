@@ -15,6 +15,9 @@ glottolog_family_name: Kxa
 glottolog_classification: "Kxa > Ju-Kung > Northern Ju"
 wikipedia_url: "https://en.wikipedia.org/wiki/Sekele_language"
 translations:
+  - translation_iso: jpn
+    name: 北クン語
+    auto: true
   - translation_iso: kor
     name: 세켈레어
   - translation_iso: zho

@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Cameroun-Ubangian > Central Adamawa > Mumuye-Yandang > Yandangic > Bali-Kpasam > Kpasam"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kpasam_language"
 translations:
+  - translation_iso: jpn
+    name: クパサム語
+    auto: true
   - translation_iso: zho
     name: 克帕萨姆语
     auto: true

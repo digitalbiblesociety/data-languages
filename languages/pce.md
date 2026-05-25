@@ -14,6 +14,9 @@ glottolog_family_id: aust1305
 glottolog_family_name: Austroasiatic
 glottolog_classification: "Austroasiatic > Khasi-Palaung > Palaungic > West Palaungic > Palaung > Ruching Palaung"
 translations:
+  - translation_iso: jpn
+    name: ルチング・パラウン語
+    auto: true
   - translation_iso: zho
     name: 瑞钦帕劳恩语
     auto: true

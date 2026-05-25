@@ -17,6 +17,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Akajeru"
 translations:
   - translation_iso: hin
     name: अका-जेरु भाषा
+  - translation_iso: jpn
+    name: アカジェル語
+    auto: true
   - translation_iso: kor
     name: 아카제루 방언
   - translation_iso: zho

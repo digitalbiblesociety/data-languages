@@ -17,6 +17,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Andaman_Creole_Hindi"
 translations:
   - translation_iso: hin
     name: अण्डमान क्रियोल हिन्दी
+  - translation_iso: jpn
+    name: アンダマン・クレオール・ヒンディー語
+    auto: true
   - translation_iso: zho
     name: 安达曼印地克里奥尔语
 ---

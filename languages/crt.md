@@ -15,6 +15,9 @@ glottolog_family_name: Mataguayan
 glottolog_classification: "Mataguayan > Mataguayo II > Chorote > Riverine Chorote"
 wikipedia_url: "https://en.wikipedia.org/wiki/Iyojwa%CA%BCja_Chorote"
 translations:
+  - translation_iso: jpn
+    name: イヨフワハ・チョロテ語
+    auto: true
   - translation_iso: zho
     name: 伊约吉瓦霍乔罗特语
     auto: true

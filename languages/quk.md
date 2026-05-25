@@ -15,6 +15,9 @@ glottolog_family_name: Quechuan
 glottolog_classification: "Quechuan > San Martin-Amazonas Quechua > Chachapoyas Quechua"
 wikipedia_url: "https://en.wikipedia.org/wiki/Chachapoyas_Quechua"
 translations:
+  - translation_iso: jpn
+    name: チャチャポヤスケチュア語
+    auto: true
   - translation_iso: zho
     name: 查查波亚斯克丘亚语
     auto: true

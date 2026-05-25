@@ -14,6 +14,9 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Celebic > Greater Eastern Celebic > Eastern Celebic > Southeastern Celebic > Muna-Buton > Tukangbesi-Bonerate > Tukang Besi > Tukang Besi South"
 translations:
+  - translation_iso: jpn
+    name: トゥカン・ベシ南語
+    auto: true
   - translation_iso: zho
     name: 南图康格贝西语
     auto: true

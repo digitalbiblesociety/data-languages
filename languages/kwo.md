@@ -14,6 +14,9 @@ glottolog_family_name: Kwomtari-Nai
 glottolog_classification: "Kwomtari-Nai > Kwomtari"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kwomtari_language"
 translations:
+  - translation_iso: jpn
+    name: クウォムタリ語
+    auto: true
   - translation_iso: zho
     name: 克沃姆塔里语
     auto: true

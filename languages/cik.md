@@ -17,6 +17,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Chitkuli_Kinnauri_language"
 translations:
   - translation_iso: hin
     name: चितकुली किन्नौरी भाषा
+  - translation_iso: jpn
+    name: チットクリ・キンナウリ語
+    auto: true
   - translation_iso: zho
     name: 基特库利基纳乌里语
     auto: true

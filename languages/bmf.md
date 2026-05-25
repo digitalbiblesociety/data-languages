@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Mel > Southern Mel > Bullom > Northern Bullom > Bom-Kim"
 wikipedia_url: "https://en.wikipedia.org/wiki/Bom_language"
 translations:
+  - translation_iso: jpn
+    name: ボム・キム語
+    auto: true
   - translation_iso: zho
     name: 博姆-金语
     auto: true

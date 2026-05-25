@@ -14,6 +14,9 @@ glottolog_family_id: nucl1709
 glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Chimbu-Wahgi > Hagen > Aua-Gawil > Imbongu"
 translations:
+  - translation_iso: jpn
+    name: イムボング語
+    auto: true
   - translation_iso: zho
     name: 伊蒙邦古语
     auto: true

@@ -15,6 +15,9 @@ glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > Karnic > Palku > Arabana-Wangganguru > Wangganguru"
 wikipedia_url: "https://en.wikipedia.org/wiki/Wangkangurru_dialect"
 translations:
+  - translation_iso: jpn
+    name: ワンガンガル語
+    auto: true
   - translation_iso: zho
     name: 瓦甘甘乌卢语
     auto: true

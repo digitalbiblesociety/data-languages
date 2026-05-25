@@ -15,6 +15,9 @@ glottolog_family_name: Nuclear-Macro-Je
 glottolog_classification: "Nuclear-Macro-Je > Ofayé"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ofay%C3%A9_language"
 translations:
+  - translation_iso: jpn
+    name: オファエ語
+    auto: true
   - translation_iso: zho
     name: 奥法耶语
     auto: true

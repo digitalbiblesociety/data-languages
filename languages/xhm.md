@@ -8,6 +8,9 @@ latitude: 12.0515
 longitude: 105.015
 wikipedia_url: "https://en.wikipedia.org/wiki/Middle_Khmer"
 translations:
+  - translation_iso: jpn
+    name: 中クメール語
+    auto: true
   - translation_iso: zho
     name: 中古高棉语
 ---

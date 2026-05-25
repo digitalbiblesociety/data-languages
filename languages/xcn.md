@@ -11,6 +11,9 @@ longitude: -97.39563
 glottocode: coto1248
 wikipedia_url: "https://en.wikipedia.org/wiki/Cotoname_language"
 translations:
+  - translation_iso: jpn
+    name: コトナメ語
+    auto: true
   - translation_iso: zho
     name: 科托纳梅语
     auto: true

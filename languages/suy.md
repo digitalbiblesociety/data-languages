@@ -15,6 +15,9 @@ glottolog_family_name: Nuclear-Macro-Je
 glottolog_classification: "Nuclear-Macro-Je > Je > Cerrado > Goyaz > Northern Je > Suyá"
 wikipedia_url: "https://en.wikipedia.org/wiki/K%C4%A9s%C3%AAdj%C3%AA_language"
 translations:
+  - translation_iso: jpn
+    name: スヤ語
+    auto: true
   - translation_iso: zho
     name: 苏亚语
     auto: true

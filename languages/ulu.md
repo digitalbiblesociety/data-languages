@@ -14,6 +14,9 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > North Borneo Malayo-Polynesian > North Sarawakan > Kenyahic > Highland Kenyah > Upper Pujungan > Uma' Lung"
 translations:
+  - translation_iso: jpn
+    name: オマ・ロング語
+    auto: true
   - translation_iso: zho
     name: 乌玛-隆语
     auto: true

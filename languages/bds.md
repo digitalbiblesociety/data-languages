@@ -15,6 +15,9 @@ glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Cushitic > South Cushitic > Greater West Rift South Cushitic > West Rift South Cushitic > Burunge"
 wikipedia_url: "https://en.wikipedia.org/wiki/Burunge_language"
 translations:
+  - translation_iso: jpn
+    name: ブルンゲ語
+    auto: true
   - translation_iso: zho
     name: 布伦格语
     auto: true

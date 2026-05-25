@@ -15,6 +15,9 @@ glottolog_family_name: Nuclear-Macro-Je
 glottolog_classification: "Nuclear-Macro-Je > Je > Southern Je > Kaingang-Xokleng > Xokleng"
 wikipedia_url: "https://en.wikipedia.org/wiki/Xokleng_language"
 translations:
+  - translation_iso: jpn
+    name: ショクレング語
+    auto: true
   - translation_iso: zho
     name: 绍克伦语
     auto: true

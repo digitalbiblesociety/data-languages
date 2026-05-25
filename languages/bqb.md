@@ -15,6 +15,9 @@ glottolog_family_name: Greater Kwerba
 glottolog_classification: "Greater Kwerba > Kwerba-Samarokena > Kwerbaic > Bagusa"
 wikipedia_url: "https://en.wikipedia.org/wiki/Bagusa_language"
 translations:
+  - translation_iso: jpn
+    name: バグサ語
+    auto: true
   - translation_iso: zho
     name: 巴古萨语
     auto: true

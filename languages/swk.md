@@ -14,6 +14,9 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > East Bantu > Tumbuka-Sena-Nyanja > Sena-Nyanja > Senaic > Malawi Sena"
 translations:
+  - translation_iso: jpn
+    name: マラウイ・セナ語
+    auto: true
   - translation_iso: zho
     name: 马拉维塞纳语
     auto: true

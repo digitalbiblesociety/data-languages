@@ -15,6 +15,9 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Benue-Congo Plateau > West-Central Benue-Congo Plateau > Northwestern Benue-Congo Plateau > Koroic > Tinoric > Begbere-Ejar"
 translations:
+  - translation_iso: jpn
+    name: コロ・ワチ語
+    auto: true
   - translation_iso: zho
     name: 科罗瓦基语
     auto: true

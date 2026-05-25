@@ -14,6 +14,9 @@ glottolog_family_id: pama1250
 glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > Greater Maric > Guwa-Maric > Maric > Northern Maric > Warungu-Gugu Badhun > Gugu Badhun"
 translations:
+  - translation_iso: jpn
+    name: ググ・バドゥン語
+    auto: true
   - translation_iso: zho
     name: 古古巴顿语
     auto: true

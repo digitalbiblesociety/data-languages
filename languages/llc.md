@@ -15,6 +15,9 @@ glottolog_family_name: Mande
 glottolog_classification: "Mande > Western Mande > Manding-Kpelle > Central Mande > Manding-Jogo > Manding-Vai > Manding-Mokole > Nuclear Mokole > Lele (Guinea)"
 wikipedia_url: "https://en.wikipedia.org/wiki/Lele_language_(Guinea)"
 translations:
+  - translation_iso: jpn
+    name: レレ語
+    auto: true
   - translation_iso: zho
     name: 勒勒语
 rolv_dialects:

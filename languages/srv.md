@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Greater Central Philippine > Central Philippine > Bisayan > Central Bisayan > Warayan > Waray Sorsogon"
 wikipedia_url: "https://en.wikipedia.org/wiki/Southern_Sorsogon_language"
 translations:
+  - translation_iso: jpn
+    name: ワライソルソゴン語
+    auto: true
   - translation_iso: zho
     name: 南索尔索加农语
     auto: true

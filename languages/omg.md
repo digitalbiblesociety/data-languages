@@ -15,6 +15,9 @@ glottolog_family_name: Tupian
 glottolog_classification: "Tupian > Eastern Tupian > Maweti-Guarani > Aweti-Guarani > Tupi-Guarani > Southern Tupi-Guarani > Tupi-Guarani Subgroup III > Omagua-Kokama > Omagua"
 wikipedia_url: "https://en.wikipedia.org/wiki/Omagua_language"
 translations:
+  - translation_iso: jpn
+    name: オマグア語
+    auto: true
   - translation_iso: zho
     name: 奥玛瓜语
     auto: true

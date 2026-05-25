@@ -15,6 +15,9 @@ glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > Biu-Mandara > South Biu-Mandara > Sukur"
 wikipedia_url: "https://en.wikipedia.org/wiki/Sukur_language"
 translations:
+  - translation_iso: jpn
+    name: スクル語
+    auto: true
   - translation_iso: zho
     name: 苏库尔语
     auto: true

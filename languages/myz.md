@@ -15,6 +15,9 @@ glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Semitic > West Semitic > Central Semitic > Northwest Semitic > Aramaic > Imperial-Middle-Modern Aramaic > Middle-Modern Aramaic > Eastern Aramaic > Macro-Mandaic > Classical Mandaic"
 translations:
+  - translation_iso: jpn
+    name: 古典マンダイク語
+    auto: true
   - translation_iso: zho
     name: 古代曼底语
     auto: true

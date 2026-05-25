@@ -14,6 +14,9 @@ glottolog_family_name: Yam
 glottolog_classification: "Yam > Morehead-Maro > Tonda > Warta Thuntai"
 wikipedia_url: "https://en.wikipedia.org/wiki/Guntai_language"
 translations:
+  - translation_iso: jpn
+    name: グンタイ語
+    auto: true
   - translation_iso: zho
     name: 古塔伊语
     auto: true

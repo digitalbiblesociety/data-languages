@@ -15,6 +15,9 @@ glottolog_family_name: Eleman
 glottolog_classification: "Eleman > Western Eleman > Orokolo"
 wikipedia_url: "https://en.wikipedia.org/wiki/Orokolo_language"
 translations:
+  - translation_iso: jpn
+    name: オロコロ語
+    auto: true
   - translation_iso: zho
     name: 奥罗科洛语
     auto: true

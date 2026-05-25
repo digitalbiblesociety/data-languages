@@ -14,6 +14,9 @@ glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Karenic > Southern Karen > Paku Karen"
 translations:
+  - translation_iso: jpn
+    name: パク・カレン語
+    auto: true
   - translation_iso: zho
     name: 帕库卡伦语
     auto: true

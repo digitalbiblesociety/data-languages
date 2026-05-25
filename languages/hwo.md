@@ -15,6 +15,9 @@ glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > Biu-Mandara > South Biu-Mandara > Teraic > Eastern Tera > Hwana"
 wikipedia_url: "https://en.wikipedia.org/wiki/Hwana_language"
 translations:
+  - translation_iso: jpn
+    name: フアナ語
+    auto: true
   - translation_iso: zho
     name: 华纳语
     auto: true

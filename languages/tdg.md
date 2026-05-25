@@ -16,6 +16,9 @@ glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Bodic > Kaike-Ghale-Tamangic > Ghale-Tamangic > Tamangic > Nuclear Tamang > Western Tamang"
 wikipedia_url: "https://en.wikipedia.org/wiki/Western_Tamang"
 translations:
+  - translation_iso: jpn
+    name: 西部タマン語
+    auto: true
   - translation_iso: zho
     name: 西達芒語
 rolv_dialects:

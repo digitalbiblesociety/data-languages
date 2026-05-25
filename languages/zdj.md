@@ -15,6 +15,9 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > East Bantu > Northeast Savanna Bantu > Northeast Coastal Bantu > Coastal NEC Bantu > Mijikenda-Pokomo-Comorian > Comorian Bantu > Ngazidja Comorian"
 translations:
+  - translation_iso: jpn
+    name: ンガジドゥジャ・コモロ語
+    auto: true
   - translation_iso: zho
     name: 恩加齐迪亚-科莫里亚语
     auto: true

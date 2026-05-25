@@ -14,6 +14,9 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > North Borneo Malayo-Polynesian > Sabahan > Southwest Sabahan > Greater Dusunic > Paitanic > Upper Kinabatangan-Lobu > Lanas Lobu"
 translations:
+  - translation_iso: jpn
+    name: ロブ語
+    auto: true
   - translation_iso: zho
     name: 拉纳斯洛布语
     auto: true

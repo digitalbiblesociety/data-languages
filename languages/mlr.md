@@ -15,6 +15,9 @@ glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > Biu-Mandara > Hurza > Vame"
 wikipedia_url: "https://en.wikipedia.org/wiki/Vame_language"
 translations:
+  - translation_iso: jpn
+    name: ヴァメ語
+    auto: true
   - translation_iso: zho
     name: 瓦梅语
     auto: true

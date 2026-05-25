@@ -15,6 +15,9 @@ glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Burmo-Qiangic > Lolo-Burmese > Loloish > Ni-Li-Kazhouish > Southeastern Ngwi > Riverine Phula > Upriver Riverine Phula > Pholic > Phola"
 wikipedia_url: "https://en.wikipedia.org/wiki/Phola_language"
 translations:
+  - translation_iso: jpn
+    name: フォラ語
+    auto: true
   - translation_iso: zho
     name: 普拉语
 ---

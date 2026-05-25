@@ -15,6 +15,9 @@ glottolog_family_name: Nuclear-Macro-Je
 glottolog_classification: "Nuclear-Macro-Je > Je > Cerrado > Central Je > Xakriabá"
 wikipedia_url: "https://en.wikipedia.org/wiki/Xakriab%C3%A1_language"
 translations:
+  - translation_iso: jpn
+    name: シャクリアバ語
+    auto: true
   - translation_iso: zho
     name: 沙克里亚巴语
     auto: true

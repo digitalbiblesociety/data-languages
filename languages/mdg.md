@@ -14,6 +14,9 @@ glottolog_family_id: maba1274
 glottolog_family_name: Maban
 glottolog_classification: "Maban > Mabang > Maba-Masalit > Macro-Masalit > Massalat"
 translations:
+  - translation_iso: jpn
+    name: マッサラット語
+    auto: true
   - translation_iso: zho
     name: 马萨拉特语
     auto: true

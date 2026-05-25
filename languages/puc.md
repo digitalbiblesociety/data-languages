@@ -10,6 +10,9 @@ latitude: 3.10143
 longitude: 116.25113
 wikipedia_url: "https://en.wikipedia.org/wiki/Merap_language"
 translations:
+  - translation_iso: jpn
+    name: プナンメラップ語
+    auto: true
   - translation_iso: zho
     name: 普南梅拉普语
     auto: true

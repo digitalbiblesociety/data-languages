@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > Papuan Tip linkage > Nuclear Papuan Tip linkage > Suauic > Oya'oya"
 wikipedia_url: "https://en.wikipedia.org/wiki/Oya%CA%BCoya_language"
 translations:
+  - translation_iso: jpn
+    name: オヤ・オヤ語
+    auto: true
   - translation_iso: zho
     name: 奥亚奥亚语
     auto: true

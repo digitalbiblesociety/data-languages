@@ -15,6 +15,9 @@ glottolog_family_name: Mande
 glottolog_classification: "Mande > Western Mande > Manding-Kpelle > Central Mande > Manding-Jogo > Manding-Vai > Manding-Mokole > Manding > East Manding > Bolon"
 wikipedia_url: "https://en.wikipedia.org/wiki/Bolon_language"
 translations:
+  - translation_iso: jpn
+    name: ボロン語
+    auto: true
   - translation_iso: zho
     name: 博隆语
     auto: true

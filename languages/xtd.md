@@ -15,6 +15,9 @@ glottolog_family_name: Otomanguean
 glottolog_classification: "Otomanguean > Eastern Otomanguean > Amuzgo-Mixtecan > Mixtecan > Mixtec-Cuicatec > Mixtec > Eastern Alta Mixtec > Diuxi-Tilantongo Mixtec"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tilantongo_Mixtec"
 translations:
+  - translation_iso: jpn
+    name: ディウシ・ティランベンゴ・ミステク語
+    auto: true
   - translation_iso: zho
     name: 迪乌克西-蒂兰通戈-米斯特克语
     auto: true

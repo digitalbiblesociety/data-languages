@@ -14,6 +14,9 @@ glottolog_family_name: Tai-Kadai
 glottolog_classification: "Tai-Kadai > Kam-Tai > Kam-Sui > Then-MMS > Maonan-Mak-Sui > Maonan-Chadong > Chadong"
 wikipedia_url: "https://en.wikipedia.org/wiki/Chadong_language"
 translations:
+  - translation_iso: jpn
+    name: チャドン語
+    auto: true
   - translation_iso: zho
     name: 茶洞語
 ---

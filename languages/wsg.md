@@ -15,6 +15,9 @@ glottolog_family_name: Dravidian
 glottolog_classification: "Dravidian > South Dravidian > South Dravidian II > Gondi > Northwest Gondi > Southwest Gondi > Southern Gondi > Adilabad Gondi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Adilabad_Gondi_language"
 translations:
+  - translation_iso: jpn
+    name: アディラバード・ゴンディ語
+    auto: true
   - translation_iso: zho
     name: 阿迪拉巴德贡德语
     auto: true

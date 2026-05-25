@@ -15,6 +15,9 @@ glottolog_family_name: Lower Sepik
 glottolog_classification: "Lower Sepik > Angoram"
 wikipedia_url: "https://en.wikipedia.org/wiki/Angoram_language"
 translations:
+  - translation_iso: jpn
+    name: アンゴラム語
+    auto: true
   - translation_iso: kor
     name: 앙고람어
   - translation_iso: zho

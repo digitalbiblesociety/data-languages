@@ -17,6 +17,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Awet%C3%AD_language"
 translations:
   - translation_iso: hin
     name: आवेति भाषा
+  - translation_iso: jpn
+    name: アウェティ語
+    auto: true
   - translation_iso: zho
     name: 阿韦蒂语
     auto: true

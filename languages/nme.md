@@ -17,6 +17,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Mzieme_language"
 translations:
   - translation_iso: hin
     name: ज़ाईमे भाषा
+  - translation_iso: jpn
+    name: ムジエメ・ナガ語
+    auto: true
   - translation_iso: zho
     name: 姆齐梅纳加语
     auto: true

@@ -14,6 +14,9 @@ glottolog_family_id: otom1299
 glottolog_family_name: Otomanguean
 glottolog_classification: "Otomanguean > Eastern Otomanguean > Amuzgo-Mixtecan > Mixtecan > Mixtec-Cuicatec > Mixtec > Juxtlahuaca Mixtec"
 translations:
+  - translation_iso: jpn
+    name: セントラル・フクスラウアカ・ミステク語
+    auto: true
   - translation_iso: zho
     name: 胡克斯特拉瓦卡混特克语
     auto: true

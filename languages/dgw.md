@@ -8,6 +8,9 @@ country_name: Australia
 status_id: 8b
 wikipedia_url: "https://en.wikipedia.org/wiki/Daungwurrung_language"
 translations:
+  - translation_iso: jpn
+    name: ダウングワルング語
+    auto: true
   - translation_iso: zho
     name: 东格武隆语
     auto: true

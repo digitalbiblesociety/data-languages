@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Benue-Congo Plateau > Southeastern Benue-Congo Plateau > Horom-Fyem > Fyam"
 wikipedia_url: "https://en.wikipedia.org/wiki/Pyem_language"
 translations:
+  - translation_iso: jpn
+    name: フヤム語
+    auto: true
   - translation_iso: zho
     name: 菲亚姆语
     auto: true

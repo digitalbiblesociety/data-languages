@@ -15,6 +15,9 @@ glottolog_family_name: Ramu
 glottolog_classification: "Ramu > Banaro"
 wikipedia_url: "https://en.wikipedia.org/wiki/Banaro_language"
 translations:
+  - translation_iso: jpn
+    name: バナロ語
+    auto: true
   - translation_iso: zho
     name: 巴纳罗语
     auto: true

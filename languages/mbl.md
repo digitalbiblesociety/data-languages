@@ -15,6 +15,9 @@ glottolog_family_name: Nuclear-Macro-Je
 glottolog_classification: "Nuclear-Macro-Je > Maxakali-Borum > Maxakalian > Nuclear Maxakalian > Maxakalí"
 wikipedia_url: "https://en.wikipedia.org/wiki/Maxakal%C3%AD_language"
 translations:
+  - translation_iso: jpn
+    name: マクサカリ語
+    auto: true
   - translation_iso: zho
     name: 马克萨卡利语
     auto: true

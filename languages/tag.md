@@ -15,6 +15,9 @@ glottolog_family_name: Rashad
 glottolog_classification: "Rashad > Tagoi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tagoi_language"
 translations:
+  - translation_iso: jpn
+    name: タゴイ語
+    auto: true
   - translation_iso: zho
     name: 塔戈伊语
     auto: true

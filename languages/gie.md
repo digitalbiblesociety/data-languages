@@ -15,6 +15,9 @@ glottolog_family_name: Kru
 glottolog_classification: "Kru > Eastern Kru > Neyo-Dida > Dida > Guebie-Lakota Dida > Gabogbo"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ga%C9%93ogbo_language"
 translations:
+  - translation_iso: jpn
+    name: ガボボ語
+    auto: true
   - translation_iso: zho
     name: 加博博语
     auto: true

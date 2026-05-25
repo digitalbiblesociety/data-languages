@@ -15,6 +15,9 @@ glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Madang > Rai Coast > Evapia > Nuclear Evapia > Kou"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kou_language"
 translations:
+  - translation_iso: jpn
+    name: シンサウル語
+    auto: true
   - translation_iso: zho
     name: 库语
     auto: true

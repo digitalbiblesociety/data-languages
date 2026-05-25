@@ -14,6 +14,9 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > East Bantu > Corridor Bantu > Mbozi > Nyika-Lambya > Nyika > Central and Southern Nyika > Mbozi-Malawi Nyika > Nyiha (Malawi)"
 translations:
+  - translation_iso: jpn
+    name: ニイハ語
+    auto: true
   - translation_iso: zho
     name: 尼哈语
     auto: true

@@ -8,6 +8,9 @@ country_name: Italy
 status_id: null
 wikipedia_url: "https://en.wikipedia.org/wiki/Paelignian_language"
 translations:
+  - translation_iso: jpn
+    name: パエリグニア語
+    auto: true
   - translation_iso: zho
     name: 帕埃利尼语
     auto: true

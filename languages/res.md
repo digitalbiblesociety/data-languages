@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Kainji > Kainji Lake > Reshe"
 wikipedia_url: "https://en.wikipedia.org/wiki/Reshe_language"
 translations:
+  - translation_iso: jpn
+    name: レシェ語
+    auto: true
   - translation_iso: zho
     name: 雷歇语
     auto: true

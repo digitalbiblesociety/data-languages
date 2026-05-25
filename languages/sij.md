@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > North New Guinea linkage > Huon Gulf > Numbami"
 wikipedia_url: "https://en.wikipedia.org/wiki/Numbami_language"
 translations:
+  - translation_iso: jpn
+    name: シボマ語
+    auto: true
   - translation_iso: zho
     name: 努姆巴米语
     auto: true

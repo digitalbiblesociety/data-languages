@@ -15,6 +15,9 @@ glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Finisterre-Huon > Finisterre-Saruwaged > Gusap-Mot > Ufim-Rawa-Nahu > Iyo"
 wikipedia_url: "https://en.wikipedia.org/wiki/Iyo_language"
 translations:
+  - translation_iso: jpn
+    name: イヨ語
+    auto: true
   - translation_iso: zho
     name: 伊约语
     auto: true

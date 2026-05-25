@@ -8,6 +8,9 @@ country_name: Australia
 status_id: "10"
 wikipedia_url: "https://en.wikipedia.org/wiki/Aghu_Tharrnggala_language"
 translations:
+  - translation_iso: jpn
+    name: アグ・タルングガラ語
+    auto: true
   - translation_iso: zho
     name: 阿古-塔尔恩加拉语
     auto: true

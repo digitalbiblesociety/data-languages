@@ -15,6 +15,9 @@ glottolog_family_name: Austroasiatic
 glottolog_classification: "Austroasiatic > Khasi-Palaung > Khasian > Khasi-Pnar-Lyngngam > Lyngngamic > India Lyngam"
 wikipedia_url: "https://en.wikipedia.org/wiki/Lyngngam_language"
 translations:
+  - translation_iso: jpn
+    name: リンガム語
+    auto: true
   - translation_iso: zho
     name: 林甘语
 ---

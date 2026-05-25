@@ -11,6 +11,9 @@ latitude: 29.643
 longitude: 52.925
 wikipedia_url: "https://en.wikipedia.org/wiki/Northwestern_Fars_language"
 translations:
+  - translation_iso: jpn
+    name: 北西ファルス語
+    auto: true
   - translation_iso: zho
     name: 西北法尔斯语
     auto: true

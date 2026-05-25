@@ -15,6 +15,9 @@ glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > East Chadic > East Chadic B > East Chadic B.1 > Dangla-Mabire-Birgit > Dangla > Migaama"
 wikipedia_url: "https://en.wikipedia.org/wiki/Migaama_language"
 translations:
+  - translation_iso: jpn
+    name: ミガアマ語
+    auto: true
   - translation_iso: zho
     name: 米加阿玛语
     auto: true

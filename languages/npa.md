@@ -15,6 +15,9 @@ glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Bodic > Kaike-Ghale-Tamangic > Ghale-Tamangic > Tamangic > Gurungic > Manangba-Nar-Phu > Nar Phu"
 wikipedia_url: "https://en.wikipedia.org/wiki/Nar_Phu_language"
 translations:
+  - translation_iso: jpn
+    name: ナル・プ語
+    auto: true
   - translation_iso: zho
     name: 纳尔普语
     auto: true

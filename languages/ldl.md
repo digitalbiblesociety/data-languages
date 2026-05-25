@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Cameroun-Ubangian > Bena-Mboi > Kaan"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kaan_language"
 translations:
+  - translation_iso: jpn
+    name: カアン語
+    auto: true
   - translation_iso: zho
     name: 卡安语
     auto: true

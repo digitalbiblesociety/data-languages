@@ -12,6 +12,9 @@ longitude: -57.28974
 glottocode: guat1253
 wikipedia_url: "https://en.wikipedia.org/wiki/Guat%C3%B3_language"
 translations:
+  - translation_iso: jpn
+    name: グアトー語
+    auto: true
   - translation_iso: zho
     name: 瓜托语
     auto: true

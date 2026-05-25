@@ -15,6 +15,9 @@ glottolog_family_name: Siouan
 glottolog_classification: "Siouan > Ohio Valley Siouan > Southeastern Siouan > Biloxi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Biloxi_language"
 translations:
+  - translation_iso: jpn
+    name: ビロキシ語
+    auto: true
   - translation_iso: zho
     name: 比洛克西语
     auto: true

@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > North Borneo Malayo-Polynesian > North Sarawakan > Dayic > Lundayeh"
 wikipedia_url: "https://en.wikipedia.org/wiki/Lun_Bawang_language"
 translations:
+  - translation_iso: jpn
+    name: ルンダイエ語
+    auto: true
   - translation_iso: zho
     name: 龙达耶语
     auto: true

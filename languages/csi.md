@@ -15,6 +15,9 @@ glottolog_family_name: Miwok-Costanoan
 glottolog_classification: "Miwok-Costanoan > Miwokan > Western Miwokan > Coast Miwok"
 wikipedia_url: "https://en.wikipedia.org/wiki/Coast_Miwok_language"
 translations:
+  - translation_iso: jpn
+    name: コースト・ミウォク語
+    auto: true
   - translation_iso: zho
     name: 海岸米沃克語
 rolv_dialects:

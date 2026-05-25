@@ -16,6 +16,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Tanchangya_language"
 translations:
   - translation_iso: hin
     name: तंचंग्या भाषा
+  - translation_iso: jpn
+    name: タンチャンギャ語
+    auto: true
   - translation_iso: zho
     name: 坦昌亚语
     auto: true

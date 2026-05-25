@@ -15,6 +15,9 @@ glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Finisterre-Huon > Finisterre-Saruwaged > Uruwa > Sakam-Som > Som"
 wikipedia_url: "https://en.wikipedia.org/wiki/Som_language"
 translations:
+  - translation_iso: jpn
+    name: ディナンゲット語
+    auto: true
   - translation_iso: zho
     name: 索姆语
     auto: true

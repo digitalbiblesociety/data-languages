@@ -15,6 +15,9 @@ glottolog_family_name: Sepik
 glottolog_classification: "Sepik > Sepik Hill > Central-Eastern Sepik Hill > Central Sepik Hill > Nuclear Central Sepik Hill > Kaprimanic > Kapriman-Waxei > Kapriman"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kapriman_language"
 translations:
+  - translation_iso: jpn
+    name: カプリマン語
+    auto: true
   - translation_iso: zho
     name: 卡普里曼语
     auto: true

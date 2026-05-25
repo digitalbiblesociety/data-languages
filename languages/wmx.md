@@ -14,6 +14,9 @@ glottolog_family_name: Sko
 glottolog_classification: "Sko > Skou-Serra-Piore > Serra Hills > Rawo-Main Serra > Womo-Sumararu"
 wikipedia_url: "https://en.wikipedia.org/wiki/Womo_language"
 translations:
+  - translation_iso: jpn
+    name: ウォモ語
+    auto: true
   - translation_iso: zho
     name: 沃莫语
     auto: true

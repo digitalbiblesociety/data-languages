@@ -14,6 +14,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Celebic > Greater Eastern Celebic > Tominic > Southern Tomini > Taje"
 wikipedia_url: "https://en.wikipedia.org/wiki/Taje_language"
 translations:
+  - translation_iso: jpn
+    name: タジェ語
+    auto: true
   - translation_iso: zho
     name: 塔杰语
     auto: true

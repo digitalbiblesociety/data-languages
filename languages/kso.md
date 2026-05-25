@@ -10,6 +10,9 @@ latitude: 9.76068
 longitude: 12.87572
 wikipedia_url: "https://en.wikipedia.org/wiki/Kofa_language"
 translations:
+  - translation_iso: jpn
+    name: コファ語
+    auto: true
   - translation_iso: zho
     name: 科法语
     auto: true

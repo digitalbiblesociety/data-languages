@@ -17,6 +17,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Dezfuli_dialect"
 translations:
   - translation_iso: ara
     name: لهجة دزفولية
+  - translation_iso: jpn
+    name: デズフリ語
+    auto: true
   - translation_iso: zho
     name: 德茲富勒方言
 rolv_dialects:

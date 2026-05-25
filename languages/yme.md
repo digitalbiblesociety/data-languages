@@ -15,6 +15,9 @@ glottolog_family_name: Peba-Yagua
 glottolog_classification: "Peba-Yagua > Peba-Yameo > Yameo"
 wikipedia_url: "https://en.wikipedia.org/wiki/Yameo_language"
 translations:
+  - translation_iso: jpn
+    name: ヤメオ語
+    auto: true
   - translation_iso: zho
     name: 亚梅奥语
     auto: true

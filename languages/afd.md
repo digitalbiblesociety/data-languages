@@ -15,6 +15,9 @@ glottolog_family_name: Arafundi
 glottolog_classification: "Arafundi > Andai"
 wikipedia_url: "https://en.wikipedia.org/wiki/Andai_language"
 translations:
+  - translation_iso: jpn
+    name: アンダイ語
+    auto: true
   - translation_iso: zho
     name: 安代语
     auto: true

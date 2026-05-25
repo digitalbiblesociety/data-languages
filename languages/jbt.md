@@ -15,6 +15,9 @@ glottolog_family_name: Nuclear-Macro-Je
 glottolog_classification: "Nuclear-Macro-Je > Jabuti > Djeoromitxí"
 wikipedia_url: "https://en.wikipedia.org/wiki/Djeoromitx%C3%AD_language"
 translations:
+  - translation_iso: jpn
+    name: ジャブティ語
+    auto: true
   - translation_iso: zho
     name: 雅布蒂语
     auto: true

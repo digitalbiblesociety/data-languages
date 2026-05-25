@@ -15,6 +15,9 @@ glottolog_family_name: Dravidian
 glottolog_classification: "Dravidian > South Dravidian > South Dravidian I > South-Western Dravidian > Tuluic > Kudiya"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kudiya_language"
 translations:
+  - translation_iso: jpn
+    name: クディヤ語
+    auto: true
   - translation_iso: zho
     name: 库迪亚语
     auto: true

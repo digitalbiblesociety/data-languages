@@ -15,6 +15,9 @@ glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Asmat-Awyu-Ok > Asmat-Kamrau Bay > Asmat-Kamoro > Asmat > Citak Asmat > Citak"
 wikipedia_url: "https://en.wikipedia.org/wiki/Citak_language"
 translations:
+  - translation_iso: jpn
+    name: アスマット・ダラット語
+    auto: true
   - translation_iso: zho
     name: 齐塔克语
     auto: true

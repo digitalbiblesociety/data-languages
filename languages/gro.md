@@ -17,6 +17,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Groma_language"
 translations:
   - translation_iso: hin
     name: ग्रोमा भाषा
+  - translation_iso: jpn
+    name: グロマ語
+    auto: true
   - translation_iso: zho
     name: 卓木语
 rolv_dialects:

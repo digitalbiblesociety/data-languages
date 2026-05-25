@@ -15,6 +15,9 @@ glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Finisterre-Huon > Huon > Western Huon > Cromwell > Kabwum > Selepet-Komba > Selepet"
 wikipedia_url: "https://en.wikipedia.org/wiki/Selepet_language"
 translations:
+  - translation_iso: jpn
+    name: セレペット語
+    auto: true
   - translation_iso: zho
     name: 塞莱佩特语
     auto: true

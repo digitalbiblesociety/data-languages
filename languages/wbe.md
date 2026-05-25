@@ -15,6 +15,9 @@ glottolog_family_name: Lakes Plain
 glottolog_classification: "Lakes Plain > Tariku > East Tariku > Doutai-Kai-Waritai > Waritai"
 wikipedia_url: "https://en.wikipedia.org/wiki/Waritai_language"
 translations:
+  - translation_iso: jpn
+    name: ワリタイ語
+    auto: true
   - translation_iso: zho
     name: 瓦里泰语
     auto: true

@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Kwa Volta-Congo > Nyo > Potou-Tano > Tano > Guang > North Guang > Gonja-Dompo > Dompo"
 wikipedia_url: "https://en.wikipedia.org/wiki/Dompo_language"
 translations:
+  - translation_iso: jpn
+    name: ドンポ語
+    auto: true
   - translation_iso: zho
     name: 多姆波语
     auto: true

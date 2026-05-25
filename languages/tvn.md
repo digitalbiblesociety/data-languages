@@ -15,6 +15,9 @@ glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Burmo-Qiangic > Lolo-Burmese > Burmish > Southern Burmish > Mranmaic > Nuclear Mranmaic > Tavoyan"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tavoyan_dialects"
 translations:
+  - translation_iso: jpn
+    name: ダウェイ語
+    auto: true
   - translation_iso: zho
     name: 土瓦方言
 ---

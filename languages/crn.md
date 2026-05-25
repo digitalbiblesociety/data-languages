@@ -14,6 +14,9 @@ glottolog_family_id: utoa1244
 glottolog_family_name: Uto-Aztecan
 glottolog_classification: "Uto-Aztecan > Southern Uto-Aztecan > Corachol-Aztecan > Corachol > Coran > El Nayar Cora"
 translations:
+  - translation_iso: jpn
+    name: エル・ナヤル・コラ語
+    auto: true
   - translation_iso: zho
     name: 埃尔纳亚尔科拉语
     auto: true

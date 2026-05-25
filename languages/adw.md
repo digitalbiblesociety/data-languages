@@ -15,6 +15,9 @@ glottolog_family_name: Tupian
 glottolog_classification: "Tupian > Eastern Tupian > Maweti-Guarani > Aweti-Guarani > Tupi-Guarani > Tupi-Guarani Subgroup VI > Kawahiva > Nuclear Kawahiva > Central Kawahiva > Amondava-Uru-Eu-Wau-Wau > Amundava"
 wikipedia_url: "https://en.wikipedia.org/wiki/Amondawa_dialect"
 translations:
+  - translation_iso: jpn
+    name: アムンダバ語
+    auto: true
   - translation_iso: zho
     name: 阿蒙达瓦语
     auto: true

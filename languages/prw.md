@@ -14,6 +14,9 @@ glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Madang > Croisilles > Greater Northern Adelbert > Northern Adelbert > Numugenan > Yarawata-Parawen-Ukuriguma > Parawen"
 wikipedia_url: "https://en.wikipedia.org/wiki/Parawen_language"
 translations:
+  - translation_iso: jpn
+    name: パラウェン語
+    auto: true
   - translation_iso: zho
     name: 帕拉温语
     auto: true

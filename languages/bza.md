@@ -15,6 +15,9 @@ glottolog_family_name: Mande
 glottolog_classification: "Mande > Western Mande > Manding-Kpelle > Southwest Mande > Mende-Loma > Mende-Bandi > Bandi-Zialo > Bandi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Gbandi_language"
 translations:
+  - translation_iso: jpn
+    name: バンディ語
+    auto: true
   - translation_iso: zho
     name: 班迪语
     auto: true

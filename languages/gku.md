@@ -14,6 +14,9 @@ glottolog_family_name: Tuu
 glottolog_classification: "Tuu > !Ui > Ghaap-Kalahari > Danster !Ui"
 wikipedia_url: "https://en.wikipedia.org/wiki/%C7%82Ungkue_language"
 translations:
+  - translation_iso: jpn
+    name: ウングク語
+    auto: true
   - translation_iso: zho
     name: 克恩语
     auto: true

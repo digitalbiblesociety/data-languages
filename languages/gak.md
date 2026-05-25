@@ -15,6 +15,9 @@ glottolog_family_name: North Halmahera
 glottolog_classification: "North Halmahera > Northern North Halmahera > Sahuan > Nuclear Sahuan > Gamkonora"
 wikipedia_url: "https://en.wikipedia.org/wiki/Gamkonora_language"
 translations:
+  - translation_iso: jpn
+    name: ガムコノラ語
+    auto: true
   - translation_iso: zho
     name: 甘科莫拉语
     auto: true

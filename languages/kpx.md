@@ -15,6 +15,9 @@ glottolog_family_name: Koiarian
 glottolog_classification: "Koiarian > Koiaric > Biage-Mountain Koiali > Mountain Koiali"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mountain_Koiali_language"
 translations:
+  - translation_iso: jpn
+    name: マウンテン・コイアリ語
+    auto: true
   - translation_iso: zho
     name: 山地科亚利语
     auto: true

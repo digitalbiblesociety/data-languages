@@ -15,6 +15,9 @@ glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Kuki-Chin-Naga > Kuki-Chin > Peripheral Kuki-Chin > Khomic > Mro Chin"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mro-Khimi_language"
 translations:
+  - translation_iso: jpn
+    name: ムロ・キミ・チン語
+    auto: true
   - translation_iso: zho
     name: 姆罗-希米钦语
     auto: true

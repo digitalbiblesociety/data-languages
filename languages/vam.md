@@ -15,6 +15,9 @@ glottolog_family_name: Sko
 glottolog_classification: "Sko > Skou-Serra-Piore > Skouic > Eastern Skouic > West Coast Skouic > Vanimo"
 wikipedia_url: "https://en.wikipedia.org/wiki/Vanimo_language"
 translations:
+  - translation_iso: jpn
+    name: ドゥソ語
+    auto: true
   - translation_iso: zho
     name: 瓦尼莫语
     auto: true

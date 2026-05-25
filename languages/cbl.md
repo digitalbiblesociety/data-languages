@@ -14,6 +14,9 @@ glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Kuki-Chin-Naga > Kuki-Chin > Central Kuki-Chin > Core Central Kuki-Chin > Lai Chin > Falamic > Bualkhaw Chin"
 translations:
+  - translation_iso: jpn
+    name: ブアルカウ・チン語
+    auto: true
   - translation_iso: zho
     name: 布阿尔卡欧钦语
     auto: true

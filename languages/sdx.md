@@ -14,6 +14,9 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > North Borneo Malayo-Polynesian > Central Sarawak > Melanau-Kajang > Melanau > Sibu-Kanowit-Tanjong > Sibu Melanau"
 translations:
+  - translation_iso: jpn
+    name: セントラル・メラナウ語
+    auto: true
   - translation_iso: zho
     name: 西布梅拉瑙语
     auto: true

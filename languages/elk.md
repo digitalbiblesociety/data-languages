@@ -14,6 +14,9 @@ glottolog_family_name: Nuclear Torricelli
 glottolog_classification: "Nuclear Torricelli > Wapei-Palei > Central Torricelli > Wapeic > Au-Olo-Elkei > Olo-Elkei > Elkei"
 wikipedia_url: "https://en.wikipedia.org/wiki/Elkei_language"
 translations:
+  - translation_iso: jpn
+    name: エルケイ語
+    auto: true
   - translation_iso: zho
     name: 埃尔凯语
     auto: true

@@ -12,6 +12,9 @@ longitude: 133.17979
 glottocode: tana1288
 wikipedia_url: "https://en.wikipedia.org/wiki/Sumuri_language"
 translations:
+  - translation_iso: jpn
+    name: タナメラ語
+    auto: true
   - translation_iso: zho
     name: 塔纳梅拉语
     auto: true

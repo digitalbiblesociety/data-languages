@@ -17,6 +17,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Khoirao_language"
 translations:
   - translation_iso: hin
     name: खोईराओ भाषा
+  - translation_iso: jpn
+    name: タンガル・ナガ語
+    auto: true
   - translation_iso: zho
     name: 坦加尔纳加语
     auto: true

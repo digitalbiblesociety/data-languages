@@ -15,6 +15,9 @@ glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > Paman > Compromise Middle Pama > Wik > Flinders-Barrow > Flinders Island"
 wikipedia_url: "https://en.wikipedia.org/wiki/Flinders_Island_language"
 translations:
+  - translation_iso: jpn
+    name: フリンダース島語
+    auto: true
   - translation_iso: zho
     name: 弗林德斯岛语
     auto: true

@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > North New Guinea linkage > Ngero-Vitiaz linkage > Vitiaz linkage > Bel-Roinji-Nenaya > Bel > Eastern Bel > Mindiri"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mindiri_language"
 translations:
+  - translation_iso: jpn
+    name: ミンディリ語
+    auto: true
   - translation_iso: zho
     name: 明迪里语
     auto: true

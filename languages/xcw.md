@@ -12,6 +12,9 @@ longitude: -97.890015
 glottocode: coah1252
 wikipedia_url: "https://en.wikipedia.org/wiki/Coahuilteco_language"
 translations:
+  - translation_iso: jpn
+    name: コアウイルテコ語
+    auto: true
   - translation_iso: zho
     name: 科阿韦尔特科语
     auto: true

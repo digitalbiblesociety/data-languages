@@ -15,6 +15,9 @@ glottolog_family_name: Dravidian
 glottolog_classification: "Dravidian > South Dravidian > South Dravidian II > Teluguic > Chenchu"
 wikipedia_url: "https://en.wikipedia.org/wiki/Chenchu_language"
 translations:
+  - translation_iso: jpn
+    name: チェンチュ語
+    auto: true
   - translation_iso: zho
     name: 琴丘语
 ---

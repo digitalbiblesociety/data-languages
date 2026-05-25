@@ -10,6 +10,9 @@ status_id: 6a
 latitude: 0.88872
 longitude: -76.65931
 translations:
+  - translation_iso: jpn
+    name: ジャングル・インガ語
+    auto: true
   - translation_iso: zho
     name: 丛林因加语
     auto: true

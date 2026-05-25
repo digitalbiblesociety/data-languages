@@ -15,6 +15,9 @@ glottolog_family_name: Austroasiatic
 glottolog_classification: "Austroasiatic > Mangic > Pakanic > Bolyu"
 wikipedia_url: "https://en.wikipedia.org/wiki/Bolyu_language"
 translations:
+  - translation_iso: jpn
+    name: ボルユ語
+    auto: true
   - translation_iso: zho
     name: 巴琉语
 ---

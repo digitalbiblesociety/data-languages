@@ -15,6 +15,9 @@ glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Himalayish > Mahakiranti > Kiranti > Eastern Kiranti > Upper Arun > Lohorung-Yamphu > Yamphuic > Yamphu"
 wikipedia_url: "https://en.wikipedia.org/wiki/Yamphu_language"
 translations:
+  - translation_iso: jpn
+    name: ヤンプ語
+    auto: true
   - translation_iso: zho
     name: 扬普语
     auto: true

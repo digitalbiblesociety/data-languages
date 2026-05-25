@@ -15,6 +15,9 @@ glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Brahmaputran > Patkaian > South Patkaian > Southeastern Patkaian > Lainongic > Khiamniungic > Khiamniungan Naga"
 wikipedia_url: "https://en.wikipedia.org/wiki/Khiamniungan_language"
 translations:
+  - translation_iso: jpn
+    name: ヒァムニウンガン・ナガ語
+    auto: true
   - translation_iso: zho
     name: 基亚姆尼翁甘那加语
     auto: true

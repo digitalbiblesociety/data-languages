@@ -14,6 +14,9 @@ glottolog_family_id: chib1249
 glottolog_family_name: Chibchan
 glottolog_classification: "Chibchan > Core Chibchan > Magdalenic > Southern Magdalenic > Tunebo > Angosturas Tunebo"
 translations:
+  - translation_iso: jpn
+    name: アンゴストゥラス・トゥネボ語
+    auto: true
   - translation_iso: zho
     name: 安戈斯图拉斯图内博语
     auto: true

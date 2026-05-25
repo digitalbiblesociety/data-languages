@@ -14,6 +14,9 @@ glottolog_family_id: aust1305
 glottolog_family_name: Austroasiatic
 glottolog_classification: "Austroasiatic > Bahnaric > West Bahnaric > South Bahnaric > Mnong-Stieng-Chrau > Mnong > Southern-Central Mnong > Central Mnong"
 translations:
+  - translation_iso: jpn
+    name: セントラル・ムノング語
+    auto: true
   - translation_iso: zho
     name: 中蒙语
     auto: true

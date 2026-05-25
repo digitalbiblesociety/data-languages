@@ -15,6 +15,9 @@ glottolog_family_name: Otomanguean
 glottolog_classification: "Otomanguean > Eastern Otomanguean > Amuzgo-Mixtecan > Mixtecan > Mixtec-Cuicatec > Mixtec > Northeastern Alta Mixtec > Soyaltepec Mixtec"
 wikipedia_url: "https://en.wikipedia.org/wiki/Soyaltepec_Mixtec"
 translations:
+  - translation_iso: jpn
+    name: ソヤルテペク・ミシテク語
+    auto: true
   - translation_iso: zho
     name: 索亚尔特佩克混特克语
     auto: true

@@ -14,6 +14,9 @@ glottolog_family_id: cent2225
 glottolog_family_name: Central Sudanic
 glottolog_classification: "Central Sudanic > Sara-Bongo-Bagirmi > Baka-Beli > Morokodo-Beli > Lori > Nyamusa-Molo"
 translations:
+  - translation_iso: jpn
+    name: ニャムサ・モロ語
+    auto: true
   - translation_iso: zho
     name: 尼亚穆萨-莫洛语
     auto: true

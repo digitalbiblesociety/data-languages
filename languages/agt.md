@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Northern Luzon > Cagayan Valley > Ibanagic > Gaddangic > Central Cagayan Agta"
 wikipedia_url: "https://en.wikipedia.org/wiki/Central_Cagayan_Agta_language"
 translations:
+  - translation_iso: jpn
+    name: 中央カガヤン・アグタ語
+    auto: true
   - translation_iso: zho
     name: 中卡加延艾塔语
     auto: true

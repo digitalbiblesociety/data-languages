@@ -15,6 +15,9 @@ glottolog_family_name: Border
 glottolog_classification: "Border > Warisic > Nuclear Warisic > Waris"
 wikipedia_url: "https://en.wikipedia.org/wiki/Waris_language"
 translations:
+  - translation_iso: jpn
+    name: ワリス語
+    auto: true
   - translation_iso: zho
     name: 瓦里斯语
     auto: true

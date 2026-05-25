@@ -14,6 +14,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > North New Guinea linkage > Ngero-Vitiaz linkage > Vitiaz linkage > Bel-Roinji-Nenaya > Bel > Western Bel > Takia"
 wikipedia_url: "https://en.wikipedia.org/wiki/Takia_language"
 translations:
+  - translation_iso: jpn
+    name: タキア語
+    auto: true
   - translation_iso: zho
     name: 塔基亚语
     auto: true

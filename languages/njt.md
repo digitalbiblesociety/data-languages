@@ -15,6 +15,9 @@ glottolog_family_name: Pidgin
 glottolog_classification: "Pidgin > Trio-based pidgin > Ndyuka-Trio Pidgin"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ndyuka-Tiriy%C3%B3_Pidgin"
 translations:
+  - translation_iso: jpn
+    name: ンディユカ・トリオ・ピジン語
+    auto: true
   - translation_iso: zho
     name: 恩迪尤卡-特里奥皮钦语
     auto: true

@@ -15,6 +15,9 @@ glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Kuki-Chin-Naga > Kuki-Chin > Northwestern Kuki-Chin > Western Northwestern Kuki-Chin > Sakachep-Chorei"
 wikipedia_url: "https://en.wikipedia.org/wiki/Sakachep_language"
 translations:
+  - translation_iso: jpn
+    name: ケルマ語
+    auto: true
   - translation_iso: zho
     name: 萨卡切普语
     auto: true

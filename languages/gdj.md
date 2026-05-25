@@ -15,6 +15,9 @@ glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > Paman > Norman Pama > Kuthant-Gurdjar > Rib-Gurdjar > Gurdjar"
 wikipedia_url: "https://en.wikipedia.org/wiki/Gurdjar_language"
 translations:
+  - translation_iso: jpn
+    name: グルッジャル語
+    auto: true
   - translation_iso: zho
     name: 古贾尔语
 ---

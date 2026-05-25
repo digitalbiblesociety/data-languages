@@ -17,6 +17,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Catawba_language"
 translations:
   - translation_iso: ara
     name: كاتاوبا
+  - translation_iso: jpn
+    name: カタウバ語
+    auto: true
   - translation_iso: zho
     name: 卡托巴語
 ---

@@ -15,6 +15,9 @@ glottolog_family_name: Iroquoian
 glottolog_classification: "Iroquoian > Northern Iroquoian > Lake Iroquoian > Greater Iroquois > Laurentian"
 wikipedia_url: "https://en.wikipedia.org/wiki/Laurentian_language"
 translations:
+  - translation_iso: jpn
+    name: ローレンシャン語
+    auto: true
   - translation_iso: kor
     name: 세인트로렌스 이로쿼이어
   - translation_iso: zho

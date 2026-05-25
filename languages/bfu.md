@@ -17,6 +17,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Bunan_language"
 translations:
   - translation_iso: hin
     name: बुनान भाषा
+  - translation_iso: jpn
+    name: ガフリ語
+    auto: true
   - translation_iso: zho
     name: 布南语
 ---

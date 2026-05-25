@@ -15,6 +15,9 @@ glottolog_family_name: Surmic
 glottolog_classification: "Surmic > South Surmic > Southwest Surmic > Baale-Olam > Kacipo-Balesi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Baale_language"
 translations:
+  - translation_iso: jpn
+    name: カチポ・バレシ語
+    auto: true
   - translation_iso: zho
     name: 卡奇波-巴雷西语
     auto: true

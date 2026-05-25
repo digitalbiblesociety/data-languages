@@ -9,6 +9,9 @@ latitude: 4.04948
 longitude: 33.0412
 wikipedia_url: "https://en.wikipedia.org/wiki/Imotong_language"
 translations:
+  - translation_iso: jpn
+    name: イモトング語
+    auto: true
   - translation_iso: zho
     name: 伊莫通语
     auto: true

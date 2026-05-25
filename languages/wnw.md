@@ -8,6 +8,9 @@ country_name: United States
 status_id: "9"
 wikipedia_url: "https://en.wikipedia.org/wiki/Wintu_language"
 translations:
+  - translation_iso: jpn
+    name: ウィントゥ語
+    auto: true
   - translation_iso: zho
     name: 溫騰語
 ---

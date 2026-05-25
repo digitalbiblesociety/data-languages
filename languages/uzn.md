@@ -15,6 +15,9 @@ glottolog_family_name: Turkic
 glottolog_classification: "Turkic > Common Turkic > Kipchak-Turkestan > Turkestan > Modern Turkestan > Uzbek > Northern Uzbek"
 wikipedia_url: "https://en.wikipedia.org/wiki/Northern_Uzbek_language"
 translations:
+  - translation_iso: jpn
+    name: 北ウズベク語
+    auto: true
   - translation_iso: zho
     name: 北乌兹别克语
 rolv_dialects:

@@ -15,6 +15,9 @@ glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > Biu-Mandara > North Biu-Mandara > Margi-Mandara-Mofu > Mofuic > Meri > Dugwor-Merey > Merey"
 wikipedia_url: "https://en.wikipedia.org/wiki/Merey_language"
 translations:
+  - translation_iso: jpn
+    name: メレイ語
+    auto: true
   - translation_iso: zho
     name: 梅雷语
     auto: true

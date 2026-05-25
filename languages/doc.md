@@ -14,6 +14,9 @@ glottolog_family_id: taik1256
 glottolog_family_name: Tai-Kadai
 glottolog_classification: "Tai-Kadai > Kam-Tai > Kam-Sui > Mulam-Kam > Kamic > Northern Kam > Northern Dong"
 translations:
+  - translation_iso: jpn
+    name: 北ドン語
+    auto: true
   - translation_iso: zho
     name: 北侗語
 ---

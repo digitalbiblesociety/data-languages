@@ -15,6 +15,9 @@ glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > Biu-Mandara > North Biu-Mandara > Margi-Mandara-Mofu > Mandaraic > Podoko > Matal"
 wikipedia_url: "https://en.wikipedia.org/wiki/Matal_language"
 translations:
+  - translation_iso: jpn
+    name: マタル語
+    auto: true
   - translation_iso: zho
     name: 玛塔尔语
     auto: true

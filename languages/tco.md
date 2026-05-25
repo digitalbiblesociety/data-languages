@@ -14,6 +14,9 @@ glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Burmo-Qiangic > Lolo-Burmese > Burmish > Southern Burmish > Mranmaic > Taungyo"
 translations:
+  - translation_iso: jpn
+    name: タウンギョ語
+    auto: true
   - translation_iso: zho
     name: 陶翁语
     auto: true

@@ -10,6 +10,9 @@ latitude: 18.2775
 longitude: 83.1908
 wikipedia_url: "https://en.wikipedia.org/wiki/Manna-Dora_language"
 translations:
+  - translation_iso: jpn
+    name: マンナ・ドラ語
+    auto: true
   - translation_iso: zho
     name: 曼纳-多拉语
     auto: true

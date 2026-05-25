@@ -14,6 +14,9 @@ glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > Masa > South Masa > Peveic > Hede-Ngide > Herde"
 translations:
+  - translation_iso: jpn
+    name: ヘルデ語
+    auto: true
   - translation_iso: zho
     name: 赫尔德语
     auto: true

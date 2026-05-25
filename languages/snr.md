@@ -14,6 +14,9 @@ glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Madang > Croisilles > Mabuso > Gum > Sihan (Gum)"
 wikipedia_url: "https://en.wikipedia.org/wiki/Sihan_language"
 translations:
+  - translation_iso: jpn
+    name: シハン語
+    auto: true
   - translation_iso: zho
     name: 西汉语
     auto: true

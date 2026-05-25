@@ -15,6 +15,9 @@ glottolog_family_name: Austroasiatic
 glottolog_classification: "Austroasiatic > Mundaic > North Munda > Kherwarian > Mundaric > Asuric > Bijori"
 wikipedia_url: "https://en.wikipedia.org/wiki/Birjia_language"
 translations:
+  - translation_iso: jpn
+    name: ビジョリ語
+    auto: true
   - translation_iso: zho
     name: 比尔贾语
 ---

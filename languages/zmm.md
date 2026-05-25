@@ -15,6 +15,9 @@ glottolog_family_name: Western Daly
 glottolog_classification: "Western Daly > Bringen > Marimanindji"
 wikipedia_url: "https://en.wikipedia.org/wiki/Marimanindji_language"
 translations:
+  - translation_iso: jpn
+    name: マリマニンディ語
+    auto: true
   - translation_iso: zho
     name: 马里马尼因地语
     auto: true

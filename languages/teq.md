@@ -15,6 +15,9 @@ glottolog_family_name: Temeinic
 glottolog_classification: "Temeinic > Temein"
 wikipedia_url: "https://en.wikipedia.org/wiki/Temein_language"
 translations:
+  - translation_iso: jpn
+    name: テメイン語
+    auto: true
   - translation_iso: zho
     name: 特梅因语
     auto: true

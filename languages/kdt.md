@@ -16,6 +16,9 @@ glottolog_family_name: Austroasiatic
 glottolog_classification: "Austroasiatic > Katuic > West Katuic > Kuy-Souei > Kuy"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kuy_language"
 translations:
+  - translation_iso: jpn
+    name: クイ語
+    auto: true
   - translation_iso: zho
     name: Suay人
 rolv_dialects:

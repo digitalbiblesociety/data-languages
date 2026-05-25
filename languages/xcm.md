@@ -12,6 +12,9 @@ longitude: -98.466667
 glottocode: come1251
 wikipedia_url: "https://en.wikipedia.org/wiki/Comecrudo_language"
 translations:
+  - translation_iso: jpn
+    name: コメクルド語
+    auto: true
   - translation_iso: zho
     name: 科梅克鲁多语
     auto: true

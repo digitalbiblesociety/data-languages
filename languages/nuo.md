@@ -15,6 +15,9 @@ glottolog_family_name: Austroasiatic
 glottolog_classification: "Austroasiatic > Vietic > Viet-Muong > Muongic > Nguôn"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ngu%E1%BB%93n_language"
 translations:
+  - translation_iso: jpn
+    name: ングウォン語
+    auto: true
   - translation_iso: zho
     name: 源语
 ---

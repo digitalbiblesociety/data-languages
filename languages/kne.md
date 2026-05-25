@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Northern Luzon > Meso-Cordilleran > South-Central Cordilleran > Central Cordilleran > Nuclear Cordilleran > Bontok-Kankanay > Kankanay > Kankanaey"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kankanaey_language"
 translations:
+  - translation_iso: jpn
+    name: カンカナエ語
+    auto: true
   - translation_iso: zho
     name: 坎卡内语
     auto: true

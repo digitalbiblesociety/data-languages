@@ -15,6 +15,9 @@ glottolog_family_name: Otomanguean
 glottolog_classification: "Otomanguean > Eastern Otomanguean > Popoloca-Zapotecan > Zapotecan > Zapotec > Core Zapotec > Narrow Core Zapotec > Central Core Zapotec > Western Valley Zapotec > Güilá Zapotec"
 wikipedia_url: "https://en.wikipedia.org/wiki/G%C3%BCil%C3%A1_Zapotec"
 translations:
+  - translation_iso: jpn
+    name: グイラ・サポテク語
+    auto: true
   - translation_iso: zho
     name: 圭拉萨波特克语
     auto: true

@@ -15,6 +15,9 @@ glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Indo-Aryan > Middle-Modern Indo-Aryan > Continental Indo-Aryan > Midlands Indo-Aryan > Bhil > Mawchi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mawchi_language"
 translations:
+  - translation_iso: jpn
+    name: マウチ語
+    auto: true
   - translation_iso: zho
     name: 莫奇语
     auto: true

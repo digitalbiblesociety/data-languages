@@ -14,6 +14,9 @@ glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Finisterre-Huon > Finisterre-Saruwaged > Yupna > Nankina"
 wikipedia_url: "https://en.wikipedia.org/wiki/Nankina_language"
 translations:
+  - translation_iso: jpn
+    name: ナンキナ語
+    auto: true
   - translation_iso: zho
     name: 南金纳语
     auto: true

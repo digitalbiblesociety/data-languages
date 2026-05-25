@@ -15,6 +15,9 @@ glottolog_family_name: Koman
 glottolog_classification: "Koman > Central Koman > Dana-Opo > Opo"
 wikipedia_url: "https://en.wikipedia.org/wiki/Opuo_language"
 translations:
+  - translation_iso: jpn
+    name: タポ語
+    auto: true
   - translation_iso: zho
     name: 塔波语
     auto: true

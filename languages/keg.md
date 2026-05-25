@@ -15,6 +15,9 @@ glottolog_family_name: Temeinic
 glottolog_classification: "Temeinic > Tese"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tese_language"
 translations:
+  - translation_iso: jpn
+    name: テセ語
+    auto: true
   - translation_iso: zho
     name: 特塞语
     auto: true

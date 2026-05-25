@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Cameroun-Ubangian > Ubangi > Ubangi Ka > Mundu-Baka > Western Mundu-Baka > River Western Mundu-Baka > Monzomboic > Monzombo"
 wikipedia_url: "https://en.wikipedia.org/wiki/Monzombo_language"
 translations:
+  - translation_iso: jpn
+    name: モンゾンボ語
+    auto: true
   - translation_iso: zho
     name: 蒙宗博语
     auto: true

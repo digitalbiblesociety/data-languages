@@ -15,6 +15,9 @@ glottolog_family_name: Athabaskan-Eyak-Tlingit
 glottolog_classification: "Athabaskan-Eyak-Tlingit > Athabaskan-Eyak > Athabaskan > Pacific Coast Athabaskan > Oregon Athabaskan > Rogue River > Galice"
 wikipedia_url: "https://en.wikipedia.org/wiki/Galice_language"
 translations:
+  - translation_iso: jpn
+    name: ガリセ語
+    auto: true
   - translation_iso: zho
     name: 加利塞语
     auto: true

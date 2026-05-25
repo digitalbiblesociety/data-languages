@@ -19,6 +19,9 @@ translations:
     name: لغة الحجيرات
   - translation_iso: hin
     name: एल हुगेरात
+  - translation_iso: jpn
+    name: エル・フゲイラット語
+    auto: true
   - translation_iso: zho
     name: 埃尔胡吉拉特语
     auto: true

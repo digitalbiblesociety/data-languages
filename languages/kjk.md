@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Greater South Sulawesi > South Sulawesi > Makassaric > Konjo > Highland Konjo"
 wikipedia_url: "https://en.wikipedia.org/wiki/Highland_Konjo_language"
 translations:
+  - translation_iso: jpn
+    name: ハイランド・コンジョ語
+    auto: true
   - translation_iso: zho
     name: 高地孔若语
     auto: true

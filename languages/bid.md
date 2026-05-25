@@ -15,6 +15,9 @@ glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > East Chadic > East Chadic B > East Chadic B.1 > Dangla-Mabire-Birgit > Dangla > Bidiyo"
 wikipedia_url: "https://en.wikipedia.org/wiki/Bidiyo_language"
 translations:
+  - translation_iso: jpn
+    name: ビディヨ語
+    auto: true
   - translation_iso: zho
     name: 比迪约语
     auto: true

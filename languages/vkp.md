@@ -15,6 +15,9 @@ glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Italic > Latino-Faliscan > Latinic > Imperial Latin > Romance > Italo-Western Romance > Western Romance > Shifted Western Romance > Southwestern Shifted Romance > West Ibero-Romance > Galician Romance > Macro-Portuguese > Indo-Portuguesic > Northern Indo-Portuguesic > Korlai Portuguese"
 wikipedia_url: "https://en.wikipedia.org/wiki/Korlai_Portuguese_Creole"
 translations:
+  - translation_iso: jpn
+    name: クリスティ語
+    auto: true
   - translation_iso: zho
     name: 科尔莱-克里奥尔葡萄牙语
     auto: true

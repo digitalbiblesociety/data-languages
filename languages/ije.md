@@ -15,6 +15,9 @@ glottolog_family_name: Ijoid
 glottolog_classification: "Ijoid > Ijo > Western Ijo > Inland Ijo > Biseni-Okordia > Biseni"
 wikipedia_url: "https://en.wikipedia.org/wiki/Biseni_language"
 translations:
+  - translation_iso: jpn
+    name: ビセニ語
+    auto: true
   - translation_iso: zho
     name: 比塞尼语
     auto: true

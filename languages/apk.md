@@ -15,6 +15,9 @@ glottolog_family_name: Athabaskan-Eyak-Tlingit
 glottolog_classification: "Athabaskan-Eyak-Tlingit > Athabaskan-Eyak > Athabaskan > Apachean > Kiowa Apache"
 wikipedia_url: "https://en.wikipedia.org/wiki/Plains_Apache_language"
 translations:
+  - translation_iso: jpn
+    name: キオワ・アパッチ語
+    auto: true
   - translation_iso: zho
     name: 基奥瓦阿帕奇语
     auto: true

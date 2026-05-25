@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Gur > Central Gur > Northern Central Gur > Bwamu-Oti-Volta > Oti-Volta > Nuclear Oti-Volta > Oti-Volta Oriental > Waama-Tayari-Ditammari > Tayari-Ditammari > Ditammaric > Mbelime"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mbelime_language"
 translations:
+  - translation_iso: jpn
+    name: ムベリメ語
+    auto: true
   - translation_iso: zho
     name: 姆贝利梅语
     auto: true

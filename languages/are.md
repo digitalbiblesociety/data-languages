@@ -14,6 +14,9 @@ glottolog_family_id: pama1250
 glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > Arandic-Thura-Yura > Arandic > South Arandic > Upper Arrernte > Western Arrarnta"
 translations:
+  - translation_iso: jpn
+    name: 西部アレント語
+    auto: true
   - translation_iso: zho
     name: 西阿瑞伦特语
     auto: true

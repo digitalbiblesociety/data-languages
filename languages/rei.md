@@ -14,6 +14,9 @@ glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Indo-Aryan > Middle-Modern Indo-Aryan > Continental Indo-Aryan > Indo-Aryan Eastern zone > Oriya-Gauda-Kamrupa > Macro-Oriya > Reli"
 wikipedia_url: "https://en.wikipedia.org/wiki/Reli_language"
 translations:
+  - translation_iso: jpn
+    name: レリ語
+    auto: true
   - translation_iso: zho
     name: 雷利语
     auto: true

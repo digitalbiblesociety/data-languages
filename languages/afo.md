@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Benue-Congo Plateau > Ajiri"
 wikipedia_url: "https://en.wikipedia.org/wiki/Eloyi_language"
 translations:
+  - translation_iso: jpn
+    name: エロイ語
+    auto: true
   - translation_iso: zho
     name: 埃洛伊语
     auto: true

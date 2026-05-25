@@ -15,6 +15,9 @@ glottolog_family_name: Angan
 glottolog_classification: "Angan > Nuclear Angan > Wojokesic > Kamasa-Susuami > Susuami"
 wikipedia_url: "https://en.wikipedia.org/wiki/Susuami_language"
 translations:
+  - translation_iso: jpn
+    name: ススアミ語
+    auto: true
   - translation_iso: zho
     name: 苏苏阿米语
     auto: true

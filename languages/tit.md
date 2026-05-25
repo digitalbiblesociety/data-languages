@@ -12,6 +12,9 @@ longitude: -73.768
 glottocode: tini1245
 wikipedia_url: "https://en.wikipedia.org/wiki/Tinigua_language"
 translations:
+  - translation_iso: jpn
+    name: ティニグア語
+    auto: true
   - translation_iso: zho
     name: 提尼瓜語
 ---

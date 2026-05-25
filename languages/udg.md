@@ -14,6 +14,9 @@ glottolog_family_name: Dravidian
 glottolog_classification: "Dravidian > South Dravidian > South Dravidian I > Tamil-Kannada > Tamil-Kota > Tamil-Toda > Tamil-Irula > Irula-Muduga > Muduga-Palu > Muduga"
 wikipedia_url: "https://en.wikipedia.org/wiki/Muduga_language"
 translations:
+  - translation_iso: jpn
+    name: ムドゥガル語
+    auto: true
   - translation_iso: zho
     name: 穆杜加语
     auto: true

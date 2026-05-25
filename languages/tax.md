@@ -15,6 +15,9 @@ glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > East Chadic > East Chadic B > East Chadic B.3 > Sokoroic > Saba-Sokoro-Tamki > Tamki"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tamki_language"
 translations:
+  - translation_iso: jpn
+    name: タムキ語
+    auto: true
   - translation_iso: zho
     name: 塔姆基语
     auto: true

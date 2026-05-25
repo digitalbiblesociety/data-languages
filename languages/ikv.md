@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Benue-Congo Plateau > Northern Benue-Congo Plateau > Iku-Gora-Ankwa"
 wikipedia_url: "https://en.wikipedia.org/wiki/Iku_language"
 translations:
+  - translation_iso: jpn
+    name: イク・ゴラ・アンクワ語
+    auto: true
   - translation_iso: zho
     name: 伊库-戈拉-安克瓦语
     auto: true

@@ -15,6 +15,9 @@ glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > Arandic-Thura-Yura > Thura-Yura > Wirangu"
 wikipedia_url: "https://en.wikipedia.org/wiki/Wirangu_language"
 translations:
+  - translation_iso: jpn
+    name: ウィラング語
+    auto: true
   - translation_iso: zho
     name: 威兰古语
     auto: true

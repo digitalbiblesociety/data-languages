@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Greater South Sulawesi > South Sulawesi > Northern South Sulawesi > Pitu Ulunna Salu > Matangnga-Aralle-Tabulahan > Bambam"
 wikipedia_url: "https://en.wikipedia.org/wiki/Bambam_language"
 translations:
+  - translation_iso: jpn
+    name: バンバム語
+    auto: true
   - translation_iso: zho
     name: 班班姆语
     auto: true

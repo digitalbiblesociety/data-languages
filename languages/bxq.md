@@ -15,6 +15,9 @@ glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > West Chadic > West Chadic A > West Chadic A.2-3 > West Chadic A.2 > Boleic > Nuclear Boleic > Galambu-Bele > Kirfi-Bele > Ngamo-Bele > Bolanci-Bele > Beele"
 wikipedia_url: "https://en.wikipedia.org/wiki/%C6%81eele_language"
 translations:
+  - translation_iso: jpn
+    name: ベエレ語
+    auto: true
   - translation_iso: zho
     name: 贝埃莱语
     auto: true

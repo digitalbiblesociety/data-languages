@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Jukunoid > Central Jukunoid > Jukun-Mbembe-Wurbo > Jukun > Kororofa > Kona > Hõne"
 wikipedia_url: "https://en.wikipedia.org/wiki/H%C3%B5ne_language"
 translations:
+  - translation_iso: jpn
+    name: ホーネ語
+    auto: true
   - translation_iso: zho
     name: 霍内语
     auto: true

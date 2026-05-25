@@ -14,6 +14,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Benue-Congo Plateau > Tarokoid > Bijimic-Sur-Shall > Kwangic > Vaghat > Kadung"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kadung_language"
 translations:
+  - translation_iso: jpn
+    name: カドゥング語
+    auto: true
   - translation_iso: zho
     name: 卡栋语
     auto: true

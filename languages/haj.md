@@ -19,6 +19,9 @@ translations:
     name: لغة_هاجونغية
   - translation_iso: hin
     name: हाजंग बोली
+  - translation_iso: jpn
+    name: ハジョン語
+    auto: true
   - translation_iso: zho
     name: 哈琼语
     auto: true

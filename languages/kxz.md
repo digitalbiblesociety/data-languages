@@ -15,6 +15,9 @@ glottolog_family_name: Kiwaian
 glottolog_classification: "Kiwaian > Turama-Kerewo > Kerewo"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kerewo_language"
 translations:
+  - translation_iso: jpn
+    name: ケレウォ語
+    auto: true
   - translation_iso: zho
     name: 克雷沃语
     auto: true

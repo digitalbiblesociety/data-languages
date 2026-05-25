@@ -16,6 +16,9 @@ glottolog_classification: "Kiwaian > Southern Kiwai"
 translations:
   - translation_iso: hin
     name: दक्षिणी किवाई
+  - translation_iso: jpn
+    name: サザン・キワイ語
+    auto: true
   - translation_iso: zho
     name: 南基瓦伊语
     auto: true

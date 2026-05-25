@@ -17,6 +17,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Aari_language"
 translations:
   - translation_iso: ara
     name: لغة آري
+  - translation_iso: jpn
+    name: アリ語
+    auto: true
   - translation_iso: kor
     name: 아리어
   - translation_iso: zho

@@ -14,6 +14,9 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Greater Central Philippine > Central Philippine > Mansakan > Western Mansakan > Kagan-Kalagan > Kagan Kalagan"
 translations:
+  - translation_iso: jpn
+    name: カガン・カラガン語
+    auto: true
   - translation_iso: zho
     name: 卡甘卡拉甘语
     auto: true

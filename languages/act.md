@@ -10,6 +10,9 @@ latitude: 52.02104
 longitude: 6.47521
 wikipedia_url: "https://en.wikipedia.org/wiki/Achterhooks"
 translations:
+  - translation_iso: jpn
+    name: アハーテルホークス語
+    auto: true
   - translation_iso: zho
     name: 阿赫特霍克斯语
     auto: true

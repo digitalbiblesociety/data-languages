@@ -9,6 +9,9 @@ country_name: Australia
 status_id: null
 wikipedia_url: "https://en.wikipedia.org/wiki/Lower_Burdekin_languages"
 translations:
+  - translation_iso: jpn
+    name: ロウアー・バーデキン語
+    auto: true
   - translation_iso: kor
     name: 하류 버드킨 제어
   - translation_iso: zho

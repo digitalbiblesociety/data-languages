@@ -15,6 +15,9 @@ glottolog_family_name: Huitotoan
 glottolog_classification: "Huitotoan > Nuclear Witotoan > Minica-Murui > Minica Huitoto"
 wikipedia_url: "https://en.wikipedia.org/wiki/Minica_Huitoto_language"
 translations:
+  - translation_iso: jpn
+    name: ミニカ・ウイトト語
+    auto: true
   - translation_iso: zho
     name: 米尼卡惠托托语
     auto: true

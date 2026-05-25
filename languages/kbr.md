@@ -17,6 +17,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Kafa_language"
 translations:
   - translation_iso: ara
     name: لغة كافا
+  - translation_iso: jpn
+    name: カファ語
+    auto: true
   - translation_iso: zho
     name: 卡法语
     auto: true

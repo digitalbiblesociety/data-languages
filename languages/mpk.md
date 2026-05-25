@@ -15,6 +15,9 @@ glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > Biu-Mandara > North Biu-Mandara > Musguic > Musgu-Mbara > Mbara (Chad)"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mbara_language_(Chad)"
 translations:
+  - translation_iso: jpn
+    name: ムバラ語
+    auto: true
   - translation_iso: zho
     name: 姆巴拉语（乍得）
     auto: true

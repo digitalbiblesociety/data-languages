@@ -8,6 +8,9 @@ country_name: Latvia
 status_id: null
 wikipedia_url: "https://en.wikipedia.org/wiki/Krevinian_dialect"
 translations:
+  - translation_iso: jpn
+    name: クレビニアン語
+    auto: true
   - translation_iso: zho
     name: 克雷温方言
 ---

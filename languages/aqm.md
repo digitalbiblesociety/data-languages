@@ -14,6 +14,9 @@ glottolog_family_name: Kayagaric
 glottolog_classification: "Kayagaric > Atohwaim"
 wikipedia_url: "https://en.wikipedia.org/wiki/Atohwaim_language"
 translations:
+  - translation_iso: jpn
+    name: アトワイム語
+    auto: true
   - translation_iso: zho
     name: 阿托瓦伊姆语
     auto: true

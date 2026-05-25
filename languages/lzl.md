@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > North and Central Vanuatu > Central Vanuatu > Malakula > Western Malakula linkage > Central-Western Malakula > Naman"
 wikipedia_url: "https://en.wikipedia.org/wiki/Litzlitz_language"
 translations:
+  - translation_iso: jpn
+    name: リツリッツ語
+    auto: true
   - translation_iso: zho
     name: 利茨利茨语
     auto: true

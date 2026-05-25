@@ -17,6 +17,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Jiiddu_language"
 translations:
   - translation_iso: ara
     name: لغة جيدو
+  - translation_iso: jpn
+    name: ジイドゥ語
+    auto: true
   - translation_iso: zho
     name: 吉伊德语
     auto: true

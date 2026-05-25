@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Kwa Volta-Congo > Ka-Togo > Kposo-Ahlo-Bowili > Ikposo"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kposo_language"
 translations:
+  - translation_iso: jpn
+    name: イクポソ語
+    auto: true
   - translation_iso: zho
     name: 伊克波索语
     auto: true

@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Gur > Central Gur > Southern Central Gur > Grusi > East-West Grusi > Western Grusi > Sisaala-Chakali > Chakalic > Chakali-Tamprusi-Vagala > Vagla"
 wikipedia_url: "https://en.wikipedia.org/wiki/Vagla_language"
 translations:
+  - translation_iso: jpn
+    name: コノサロラ語
+    auto: true
   - translation_iso: zho
     name: 瓦格拉语
     auto: true

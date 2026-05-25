@@ -15,6 +15,9 @@ glottolog_family_name: Yam
 glottolog_classification: "Yam > Morehead-Maro > Nambu > Nambo"
 wikipedia_url: "https://en.wikipedia.org/wiki/Nambo-Namna_language"
 translations:
+  - translation_iso: jpn
+    name: ナンボ語
+    auto: true
   - translation_iso: zho
     name: 纳姆博语
     auto: true

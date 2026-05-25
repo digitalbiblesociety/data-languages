@@ -16,6 +16,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Logol_language"
 translations:
   - translation_iso: ara
     name: لغة لوغول
+  - translation_iso: jpn
+    name: ロゴル語
+    auto: true
   - translation_iso: zho
     name: 洛戈尔语
     auto: true

@@ -17,6 +17,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Chambeali"
 translations:
   - translation_iso: hin
     name: चम्बयाली
+  - translation_iso: jpn
+    name: チャンベアリ語
+    auto: true
   - translation_iso: zho
     name: 尚贝阿利语
     auto: true

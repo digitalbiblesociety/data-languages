@@ -15,6 +15,9 @@ glottolog_family_name: Timor-Alor-Pantar
 glottolog_classification: "Timor-Alor-Pantar > Alor-Pantar > Nuclear Alor-Pantar > Kafoa"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kafoa_language"
 translations:
+  - translation_iso: jpn
+    name: カフォア語
+    auto: true
   - translation_iso: zho
     name: 卡福阿语
     auto: true

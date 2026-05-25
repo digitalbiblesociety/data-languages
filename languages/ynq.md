@@ -14,6 +14,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Cameroun-Ubangian > Central Adamawa > Mumuye-Yandang > Yandangic > Waka-Yendang-Teme > Waka-Yandang > Yendang"
 wikipedia_url: "https://en.wikipedia.org/wiki/Yendang_language"
 translations:
+  - translation_iso: jpn
+    name: イェンダング語
+    auto: true
   - translation_iso: zho
     name: 延当语
     auto: true

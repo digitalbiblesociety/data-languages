@@ -10,6 +10,9 @@ latitude: 52.44816
 longitude: 6.29104
 wikipedia_url: "https://en.wikipedia.org/wiki/Sallaans_dialect"
 translations:
+  - translation_iso: jpn
+    name: サッランス語
+    auto: true
   - translation_iso: zho
     name: 萨兰茨语
     auto: true

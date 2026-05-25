@@ -14,6 +14,9 @@ glottolog_family_id: unat1236
 glottolog_family_name: Unattested
 glottolog_classification: "Unattested > Rer Bare"
 translations:
+  - translation_iso: jpn
+    name: レルバレ語
+    auto: true
   - translation_iso: zho
     name: 雷尔巴雷语
     auto: true

@@ -14,6 +14,9 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Beboid > Eastern Beboid > Nsari-Nooni-Ncane > Nooni-Ncane > Ncane-Cung > Ncane-Mungong"
 translations:
+  - translation_iso: jpn
+    name: ンカネ語
+    auto: true
   - translation_iso: zho
     name: 恩卡内语
     auto: true

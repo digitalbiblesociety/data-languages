@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > Papuan Tip linkage > Nuclear Papuan Tip linkage > Suauic > Suau chain > Saliba"
 wikipedia_url: "https://en.wikipedia.org/wiki/Saliba_language_(Papua_New_Guinea)"
 translations:
+  - translation_iso: jpn
+    name: サリバ語
+    auto: true
   - translation_iso: zho
     name: 萨利巴语
     auto: true

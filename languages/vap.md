@@ -15,6 +15,9 @@ glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Kuki-Chin-Naga > Kuki-Chin > Peripheral Kuki-Chin > Northeastern Kuki-Chin > Sizangic > Gangte-Vaiphei > Vaiphei"
 wikipedia_url: "https://en.wikipedia.org/wiki/Vaiphei_language"
 translations:
+  - translation_iso: jpn
+    name: バイペイ語
+    auto: true
   - translation_iso: zho
     name: 瓦依菲语
     auto: true

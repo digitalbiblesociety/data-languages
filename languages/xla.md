@@ -14,6 +14,9 @@ glottolog_family_name: Kamula-Elevala
 glottolog_classification: "Kamula-Elevala > Kamula"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kamula_language"
 translations:
+  - translation_iso: jpn
+    name: カムラ語
+    auto: true
   - translation_iso: zho
     name: 卡穆拉语
     auto: true

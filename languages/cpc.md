@@ -15,6 +15,9 @@ glottolog_family_name: Arawakan
 glottolog_classification: "Arawakan > Southern Maipuran > Kampa-Amuesha > Pre-Andine Maipuran > Asha-Ashe-Kak-Matsi-Nan > Asha-Ashe-Kak > Ashe-Asha > Ashe-Asha Norte > Ajyíninka Apurucayali"
 wikipedia_url: "https://en.wikipedia.org/wiki/Axininca_language"
 translations:
+  - translation_iso: jpn
+    name: アジェニンカ・アプルカヤリ語
+    auto: true
   - translation_iso: zho
     name: 阿吉尼卡-阿普鲁卡亚利语
     auto: true

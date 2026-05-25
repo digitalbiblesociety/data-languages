@@ -14,6 +14,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Cangin > Palor-Ndut > Ndut"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ndut_language"
 translations:
+  - translation_iso: jpn
+    name: ンドゥト語
+    auto: true
   - translation_iso: zho
     name: 恩杜特语
     auto: true

@@ -15,6 +15,9 @@ glottolog_family_name: "West Bird's Head"
 glottolog_classification: "West Bird's Head > Seget-Moi > Seget"
 wikipedia_url: "https://en.wikipedia.org/wiki/Seget_language"
 translations:
+  - translation_iso: jpn
+    name: セゲット語
+    auto: true
   - translation_iso: zho
     name: 塞格特语
     auto: true

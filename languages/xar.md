@@ -12,6 +12,9 @@ longitude: 143.11666
 glottocode: kara1497
 wikipedia_url: "https://en.wikipedia.org/wiki/Karami_language"
 translations:
+  - translation_iso: jpn
+    name: カラミ語
+    auto: true
   - translation_iso: zho
     name: 卡拉米语
     auto: true

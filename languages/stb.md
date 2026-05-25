@@ -14,6 +14,9 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Greater Central Philippine > Subanen > Nuclear Subanen > East Nuclear Subanen > Northern Subanen"
 translations:
+  - translation_iso: jpn
+    name: スバノン語
+    auto: true
   - translation_iso: zho
     name: 北苏巴嫩语
     auto: true

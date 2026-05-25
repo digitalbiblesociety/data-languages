@@ -15,6 +15,9 @@ glottolog_family_name: Tupian
 glottolog_classification: "Tupian > Eastern Tupian > Maweti-Guarani > Aweti-Guarani > Tupi-Guarani > Tupi-Guarani Subgroup VIII > Guaja-Kaapor-Ava > Guaja-Aure-Aura > Aurê y Aurá"
 wikipedia_url: "https://en.wikipedia.org/wiki/Aur%C3%AA%E2%80%93Aur%C3%A1_language"
 translations:
+  - translation_iso: jpn
+    name: アウラ語
+    auto: true
   - translation_iso: zho
     name: 奥拉语
     auto: true

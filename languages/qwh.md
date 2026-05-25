@@ -15,6 +15,9 @@ glottolog_family_name: Quechuan
 glottolog_classification: "Quechuan > Quechua I > Central Quechua I > Huaylay > Huaylas Ancash Quechua"
 wikipedia_url: "https://en.wikipedia.org/wiki/Huaylas_Quechua"
 translations:
+  - translation_iso: jpn
+    name: ワイラスアンカシュケチュア語
+    auto: true
   - translation_iso: zho
     name: 瓦亚拉斯安卡什克丘亚语
     auto: true

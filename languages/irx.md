@@ -15,6 +15,9 @@ glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Asmat-Awyu-Ok > Asmat-Kamrau Bay > Sabakor > Kamberau > North Kamrau"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kamberau_language"
 translations:
+  - translation_iso: jpn
+    name: カムベラウ語
+    auto: true
   - translation_iso: zho
     name: 卡姆贝劳语
     auto: true

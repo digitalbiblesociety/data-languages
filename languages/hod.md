@@ -15,6 +15,9 @@ glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > Biu-Mandara > South Biu-Mandara > Bataic > Gudeic > Nzanyic > Holma"
 wikipedia_url: "https://en.wikipedia.org/wiki/Holma_language"
 translations:
+  - translation_iso: jpn
+    name: ホルマ語
+    auto: true
   - translation_iso: zho
     name: 霍尔玛语
     auto: true

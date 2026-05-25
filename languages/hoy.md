@@ -15,6 +15,9 @@ glottolog_family_name: Dravidian
 glottolog_classification: "Dravidian > South Dravidian > South Dravidian I > Tamil-Kannada > Badaga-Kannada > Kannadoid > Holiya"
 wikipedia_url: "https://en.wikipedia.org/wiki/Holiya_language"
 translations:
+  - translation_iso: jpn
+    name: ホリヤ語
+    auto: true
   - translation_iso: zho
     name: 霍利亚语
     auto: true

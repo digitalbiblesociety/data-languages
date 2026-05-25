@@ -15,6 +15,9 @@ glottolog_family_name: Guahiboan
 glottolog_classification: "Guahiboan > Guayabero"
 wikipedia_url: "https://en.wikipedia.org/wiki/Guayabero_language"
 translations:
+  - translation_iso: jpn
+    name: グアヤベロ語
+    auto: true
   - translation_iso: zho
     name: 瓜亚贝罗语
     auto: true

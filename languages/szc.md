@@ -15,6 +15,9 @@ glottolog_family_name: Austroasiatic
 glottolog_classification: "Austroasiatic > Aslian > South Aslian > Semelai-Semaq > Semaq Beri"
 wikipedia_url: "https://en.wikipedia.org/wiki/Semaq_Beri_language"
 translations:
+  - translation_iso: jpn
+    name: セマク・ベリ語
+    auto: true
   - translation_iso: zho
     name: 塞莫克贝里语
 ---

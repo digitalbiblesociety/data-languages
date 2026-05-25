@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Kainji > Central Kainji > Basa-Eastern Kainji > Eastern Kainji > Jos > Northern Jos > North-Central Jos > Chokobo-Lemoro-Sanga > Lemoro-Sanga > Lemoro"
 wikipedia_url: "https://en.wikipedia.org/wiki/Lemoro_language"
 translations:
+  - translation_iso: jpn
+    name: レモロ語
+    auto: true
   - translation_iso: zho
     name: 莱莫罗语
     auto: true

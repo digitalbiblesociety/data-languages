@@ -15,6 +15,9 @@ glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Cushitic > Agaw > Northern-Eastern-Western Agaw > Qimant"
 wikipedia_url: "https://en.wikipedia.org/wiki/Qimant_language"
 translations:
+  - translation_iso: jpn
+    name: キマント語
+    auto: true
   - translation_iso: zho
     name: 齐曼特语
     auto: true

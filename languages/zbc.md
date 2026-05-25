@@ -14,6 +14,9 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > North Borneo Malayo-Polynesian > North Sarawakan > Berawan-Lower Baram > Berawan > Central-East Berawan > Central Berawan"
 translations:
+  - translation_iso: jpn
+    name: セントラル・ベラワン語
+    auto: true
   - translation_iso: zho
     name: 中贝拉旺语
     auto: true

@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Admiralty Islands > Eastern Admiralty Islands > Manus > East Manus > Ponam"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ponam_language"
 translations:
+  - translation_iso: jpn
+    name: ポナム語
+    auto: true
   - translation_iso: zho
     name: 波南语
     auto: true

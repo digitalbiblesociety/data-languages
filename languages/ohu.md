@@ -14,6 +14,9 @@ glottolog_family_id: ural1272
 glottolog_family_name: Uralic
 glottolog_classification: "Uralic > Hungaric > Old Hungarian"
 translations:
+  - translation_iso: jpn
+    name: 古ハンガリー語
+    auto: true
   - translation_iso: zho
     name: 古匈牙利语
     auto: true

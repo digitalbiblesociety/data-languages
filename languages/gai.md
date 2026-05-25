@@ -15,6 +15,9 @@ glottolog_family_name: Ramu
 glottolog_classification: "Ramu > Lower Ramu > Ottilien > Borei"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mbore_language"
 translations:
+  - translation_iso: jpn
+    name: ボレイ語
+    auto: true
   - translation_iso: zho
     name: 博雷语
     auto: true

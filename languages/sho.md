@@ -15,6 +15,9 @@ glottolog_family_name: Mande
 glottolog_classification: "Mande > Eastern Mande > Bisa-Busa > Samo-Busa > Busan > Kyenga-Shanga > Shanga"
 wikipedia_url: "https://en.wikipedia.org/wiki/Shanga_language"
 translations:
+  - translation_iso: jpn
+    name: シャンガワ語
+    auto: true
   - translation_iso: zho
     name: 尚加语
     auto: true

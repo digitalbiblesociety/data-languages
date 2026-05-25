@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > North New Guinea linkage > Huon Gulf > Markham > Lower Markham > Busu > Duwet"
 wikipedia_url: "https://en.wikipedia.org/wiki/Duwet_language"
 translations:
+  - translation_iso: jpn
+    name: ドゥウェット語
+    auto: true
   - translation_iso: zho
     name: 杜韦特语
     auto: true

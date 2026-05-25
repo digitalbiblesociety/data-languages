@@ -16,6 +16,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Daman_and_Diu_Portuguese_Creole"
 translations:
   - translation_iso: hin
     name: हिन्द-पुर्तगाली क्रियोल
+  - translation_iso: jpn
+    name: インド・ポルトガル語
+    auto: true
   - translation_iso: zho
     name: 印度-葡萄牙語
 rolv_dialects:

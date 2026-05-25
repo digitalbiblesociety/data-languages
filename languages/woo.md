@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Aru > Central Aru > Manombai"
 wikipedia_url: "https://en.wikipedia.org/wiki/Manombai_language"
 translations:
+  - translation_iso: jpn
+    name: マノンバイ語
+    auto: true
   - translation_iso: zho
     name: 马诺姆拜语
     auto: true

@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Wide Grassfields > Narrow Grassfields > Ndemli"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ndemli_language"
 translations:
+  - translation_iso: jpn
+    name: ンデムリ語
+    auto: true
   - translation_iso: zho
     name: 恩登利语
     auto: true

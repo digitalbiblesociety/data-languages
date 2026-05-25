@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > North and Central Vanuatu > Northern Vanuatu > Maewo > Sunwadia"
 wikipedia_url: "https://en.wikipedia.org/wiki/Sungwadia_language"
 translations:
+  - translation_iso: jpn
+    name: マリーノ語
+    auto: true
   - translation_iso: zho
     name: 玛里诺语
     auto: true

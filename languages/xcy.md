@@ -12,6 +12,9 @@ longitude: -117.940064
 glottocode: cayu1241
 wikipedia_url: "https://en.wikipedia.org/wiki/Cayuse_language"
 translations:
+  - translation_iso: jpn
+    name: カユース語
+    auto: true
   - translation_iso: zho
     name: 凯尤斯语
     auto: true

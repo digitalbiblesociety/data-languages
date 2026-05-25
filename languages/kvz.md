@@ -15,6 +15,9 @@ glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Asmat-Awyu-Ok > Awyu-Ok > Greater Awyu > Becking-Dawi > Tsakwambo-Komyandaret > Tsaukambo"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tsaukambo_language"
 translations:
+  - translation_iso: jpn
+    name: ツァクワンボ語
+    auto: true
   - translation_iso: zho
     name: 察夸姆博语
     auto: true

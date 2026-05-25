@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Cameroun-Ubangian > Ubangi > Ubangi Ka > Mundu-Baka > Western Mundu-Baka > River Western Mundu-Baka > Gbanziri-Boraka"
 wikipedia_url: "https://en.wikipedia.org/wiki/Gbanzili_language"
 translations:
+  - translation_iso: jpn
+    name: ガバンジリ語
+    auto: true
   - translation_iso: zho
     name: 加邦齐里语
     auto: true

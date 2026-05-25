@@ -15,6 +15,9 @@ glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > Paman > Compromise Middle Pama > Northeastern Pama > Umbindhamuic > Yintyinka-Ayabadhu"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ayabadhu_language"
 translations:
+  - translation_iso: jpn
+    name: アヤバッド語
+    auto: true
   - translation_iso: zho
     name: 艾亚巴杜语
     auto: true

@@ -15,6 +15,9 @@ glottolog_family_name: Austroasiatic
 glottolog_classification: "Austroasiatic > Aslian > Central-Northern Aslian > Jah Hut"
 wikipedia_url: "https://en.wikipedia.org/wiki/Jah_Hut_language"
 translations:
+  - translation_iso: jpn
+    name: ジャ・ハット語
+    auto: true
   - translation_iso: zho
     name: 贾胡特语
 rolv_dialects:

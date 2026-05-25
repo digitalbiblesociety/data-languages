@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > North and Central Vanuatu > Northern Vanuatu > Espiritu Santo > West Santo > South-Central Santo > Amblong"
 wikipedia_url: "https://en.wikipedia.org/wiki/Amblong_language"
 translations:
+  - translation_iso: jpn
+    name: アンブロン語
+    auto: true
   - translation_iso: zho
     name: 安布隆语
     auto: true

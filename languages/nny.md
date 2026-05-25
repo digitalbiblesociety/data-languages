@@ -15,6 +15,9 @@ glottolog_family_name: Tangkic
 glottolog_classification: "Tangkic > Southern Tangkic > Kayardild-Yangkaal > Yangkaal"
 wikipedia_url: "https://en.wikipedia.org/wiki/Yangkaal_language"
 translations:
+  - translation_iso: jpn
+    name: ニャンガ語
+    auto: true
   - translation_iso: zho
     name: 尼扬加语
     auto: true

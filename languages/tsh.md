@@ -15,6 +15,9 @@ glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > Biu-Mandara > South Biu-Mandara > Bataic > Gudeic > Sharwa-Tsuvan > Tsuvan"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tsuvan_language"
 translations:
+  - translation_iso: jpn
+    name: マツヴァン語
+    auto: true
   - translation_iso: zho
     name: 楚万语
     auto: true

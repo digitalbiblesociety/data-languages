@@ -15,6 +15,9 @@ glottolog_family_name: Mande
 glottolog_classification: "Mande > Eastern Mande > Southeastern Mande > Nwa-Ben > Wan-Mwan > Mwan"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mwan_language"
 translations:
+  - translation_iso: jpn
+    name: ムワン語
+    auto: true
   - translation_iso: zho
     name: 姆万语
     auto: true

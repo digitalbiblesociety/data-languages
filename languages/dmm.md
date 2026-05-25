@@ -13,6 +13,9 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Cameroun-Ubangian > Mbumic > Northern Mbum > Dama-Galke > Dama (Cameroon)"
 translations:
+  - translation_iso: jpn
+    name: ダマ語
+    auto: true
   - translation_iso: zho
     name: 达玛语
     auto: true

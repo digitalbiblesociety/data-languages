@@ -14,6 +14,9 @@ glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Germanic > Northwest Germanic > West Germanic > North Sea Germanic > Anglo-Frisian > Anglic > Later Anglic > Middle-Modern English > Macro-English > Guinea Coast Creole English > Caribbean English Creole > Eastern Caribbean Creole > Barbados-Eustatius > Barbados-Trinidad > Bajan"
 wikipedia_url: "https://en.wikipedia.org/wiki/Bajan_Creole"
 translations:
+  - translation_iso: jpn
+    name: バジャン語
+    auto: true
   - translation_iso: zho
     name: 巴詹克里奧爾語
 ---

@@ -15,6 +15,9 @@ glottolog_family_name: Austroasiatic
 glottolog_classification: "Austroasiatic > Bahnaric > Cua"
 wikipedia_url: "https://en.wikipedia.org/wiki/Cua_language_(Austroasiatic)"
 translations:
+  - translation_iso: jpn
+    name: クア語
+    auto: true
   - translation_iso: kor
     name: 쿠아어
   - translation_iso: zho

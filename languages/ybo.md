@@ -14,6 +14,9 @@ glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Madang > Rai Coast > Greater Yaganon > Yaganon > Yabong"
 wikipedia_url: "https://en.wikipedia.org/wiki/Yabong_language"
 translations:
+  - translation_iso: jpn
+    name: ヤボング語
+    auto: true
   - translation_iso: zho
     name: 亚邦语
     auto: true

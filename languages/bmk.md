@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > Papuan Tip linkage > Nuclear Papuan Tip linkage > North Papuan Mainland-D'Entrecasteaux linkage > Are-Taupota linkage > Are linkage > Boanaki-Paiwa > Ghayavi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ghayavi_language"
 translations:
+  - translation_iso: jpn
+    name: ガヤヴィ語
+    auto: true
   - translation_iso: zho
     name: 盖亚维语
     auto: true

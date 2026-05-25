@@ -14,6 +14,9 @@ glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > West Chadic > West Chadic A > West Chadic A.2-3 > West Chadic A.2 > Boleic > Nuclear Boleic > Galambu-Bele > Kirfi-Bele > Giiwo-Daza > Daza"
 wikipedia_url: "https://en.wikipedia.org/wiki/Dazawa_language"
 translations:
+  - translation_iso: jpn
+    name: ダザ語
+    auto: true
   - translation_iso: zho
     name: 达扎语
     auto: true

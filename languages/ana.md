@@ -12,6 +12,9 @@ longitude: -75.99999
 glottocode: anda1286
 wikipedia_url: "https://en.wikipedia.org/wiki/Andaqui_language"
 translations:
+  - translation_iso: jpn
+    name: アンダキ語
+    auto: true
   - translation_iso: zho
     name: 安达基语
     auto: true

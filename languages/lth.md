@@ -7,6 +7,9 @@ country_id: UG
 country_name: Uganda
 status_id: null
 translations:
+  - translation_iso: jpn
+    name: トゥア語
+    auto: true
   - translation_iso: zho
     name: 图尔语
     auto: true

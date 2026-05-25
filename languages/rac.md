@@ -15,6 +15,9 @@ glottolog_family_name: Lakes Plain
 glottolog_classification: "Lakes Plain > Far West Lakes Plain > Rasawa-Saponi > Rasawa"
 wikipedia_url: "https://en.wikipedia.org/wiki/Rasawa_language"
 translations:
+  - translation_iso: jpn
+    name: ラサワ語
+    auto: true
   - translation_iso: zho
     name: 拉萨瓦语
     auto: true

@@ -15,6 +15,9 @@ glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > East Chadic > East Chadic B > East Chadic B.3 > Ubi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ubi_language"
 translations:
+  - translation_iso: jpn
+    name: ウビ語
+    auto: true
   - translation_iso: zho
     name: 乌比语
     auto: true

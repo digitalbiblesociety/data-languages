@@ -14,6 +14,9 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > North New Guinea linkage > Huon Gulf > Markham > Watut > South Watut"
 translations:
+  - translation_iso: jpn
+    name: サウス・ワツゥト語
+    auto: true
   - translation_iso: zho
     name: 南瓦图特语
     auto: true

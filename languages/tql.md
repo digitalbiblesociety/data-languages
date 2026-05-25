@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > North and Central Vanuatu > Northern Vanuatu > Torres-Banks linkage > Lehali"
 wikipedia_url: "https://en.wikipedia.org/wiki/Lehali_language"
 translations:
+  - translation_iso: jpn
+    name: ローリ語
+    auto: true
   - translation_iso: zho
     name: 勒哈利语
     auto: true

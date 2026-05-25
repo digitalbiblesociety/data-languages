@@ -14,6 +14,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Malayo-Chamic > Malayic > Nuclear Malayic > Greater Riau-Johoric > Orang Seletar"
 wikipedia_url: "https://en.wikipedia.org/wiki/Orang_Seletar_language"
 translations:
+  - translation_iso: jpn
+    name: オラン・スレタル語
+    auto: true
   - translation_iso: zho
     name: 实里达语
 ---

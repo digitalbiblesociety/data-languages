@@ -15,6 +15,9 @@ glottolog_family_name: "South Bird's Head"
 glottolog_classification: "South Bird's Head > Nuclear South Bird's Head > Puragi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Puragi_language"
 translations:
+  - translation_iso: jpn
+    name: プラギ語
+    auto: true
   - translation_iso: zho
     name: 普拉吉语
     auto: true

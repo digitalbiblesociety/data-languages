@@ -14,6 +14,9 @@ glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Madang > Croisilles > Greater Northern Adelbert > Northern Adelbert > Numugenan > Yarawata-Parawen-Ukuriguma > Ukuriguma"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ukuriguma_language"
 translations:
+  - translation_iso: jpn
+    name: ウクリグマ語
+    auto: true
   - translation_iso: zho
     name: 乌库里古马语
     auto: true

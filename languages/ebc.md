@@ -9,6 +9,9 @@ country_name: Unknown or Invalid Territory
 status_id: null
 wikipedia_url: "https://en.wikipedia.org/wiki/Beginci_language"
 translations:
+  - translation_iso: jpn
+    name: ベギンジ語
+    auto: true
   - translation_iso: zho
     name: 贝金西语
     auto: true

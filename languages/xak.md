@@ -12,6 +12,9 @@ longitude: -64.235892
 glottocode: maku1246
 wikipedia_url: "https://en.wikipedia.org/wiki/M%C3%A1ku_language_of_Auari"
 translations:
+  - translation_iso: jpn
+    name: マク語
+    auto: true
   - translation_iso: zho
     name: 马库语
     auto: true

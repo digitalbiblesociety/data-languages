@@ -15,6 +15,9 @@ glottolog_family_name: Athabaskan-Eyak-Tlingit
 glottolog_classification: "Athabaskan-Eyak-Tlingit > Athabaskan-Eyak > Athabaskan > Apachean > Southwestern Apachean > Eastern Southwestern Apachean > Lipan Apache"
 wikipedia_url: "https://en.wikipedia.org/wiki/Lipan_language"
 translations:
+  - translation_iso: jpn
+    name: リパン・アパッチ語
+    auto: true
   - translation_iso: zho
     name: 利潘阿帕奇语
     auto: true

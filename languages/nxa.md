@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Timor-Babar > Eastern Timor > Kawaimina > Nauete"
 wikipedia_url: "https://en.wikipedia.org/wiki/Naueti_language"
 translations:
+  - translation_iso: jpn
+    name: ナウエテ語
+    auto: true
   - translation_iso: zho
     name: 瑙埃特语
     auto: true

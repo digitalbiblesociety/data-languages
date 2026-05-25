@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > North and Central Vanuatu > Central Vanuatu > Malakula > Eastern Malakula linkage > Central-Southeast Malakula > Burmbar"
 wikipedia_url: "https://en.wikipedia.org/wiki/Burmbar_language"
 translations:
+  - translation_iso: jpn
+    name: バルムバル語
+    auto: true
   - translation_iso: zho
     name: 布姆巴尔语
     auto: true

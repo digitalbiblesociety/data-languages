@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Malayo-Chamic > Malayic > Nuclear Malayic > Central Sumatran Malay > Kubu"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kubu_language"
 translations:
+  - translation_iso: jpn
+    name: クブ語
+    auto: true
   - translation_iso: zho
     name: 库布语
     auto: true

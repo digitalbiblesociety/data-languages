@@ -10,6 +10,9 @@ latitude: 21.06837
 longitude: 101.21064
 wikipedia_url: "https://en.wikipedia.org/wiki/Kiorr_language"
 translations:
+  - translation_iso: jpn
+    name: キオール語
+    auto: true
   - translation_iso: zho
     name: 焦尔语
 ---

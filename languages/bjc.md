@@ -15,6 +15,9 @@ glottolog_family_name: Yareban
 glottolog_classification: "Yareban > Yareba-Bariji-Nawaru > Bariji"
 wikipedia_url: "https://en.wikipedia.org/wiki/Aga_Bereho_language"
 translations:
+  - translation_iso: jpn
+    name: バリジ語
+    auto: true
   - translation_iso: zho
     name: 巴里吉语
     auto: true

@@ -17,6 +17,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Mpade_language"
 translations:
   - translation_iso: ara
     name: مبادي
+  - translation_iso: jpn
+    name: ムパデ語
+    auto: true
   - translation_iso: zho
     name: 姆帕德语
     auto: true

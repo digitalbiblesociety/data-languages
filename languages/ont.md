@@ -10,6 +10,9 @@ latitude: -6.45912
 longitude: 145.76529
 wikipedia_url: "https://en.wikipedia.org/wiki/Ontenu_language"
 translations:
+  - translation_iso: jpn
+    name: オンテヌ語
+    auto: true
   - translation_iso: zho
     name: 翁特努语
     auto: true

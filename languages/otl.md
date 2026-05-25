@@ -15,6 +15,9 @@ glottolog_family_name: Otomanguean
 glottolog_classification: "Otomanguean > Western Otomanguean > Otopame-Chinantecan > Otopamean > Otomian > Otomi > Southern Otomi > Tilapa Otomi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tilapa_Otomi"
 translations:
+  - translation_iso: jpn
+    name: ティラパ・オトミ語
+    auto: true
   - translation_iso: zho
     name: 蒂拉帕奥托米语
     auto: true

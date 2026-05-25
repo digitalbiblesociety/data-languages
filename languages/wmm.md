@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Greater South Sulawesi > South Sulawesi > Northern South Sulawesi > Enrekang-Maiwa > Maiwa (Indonesia)"
 wikipedia_url: "https://en.wikipedia.org/wiki/Maiwa_language_(Sulawesi)"
 translations:
+  - translation_iso: jpn
+    name: マイワ語
+    auto: true
   - translation_iso: zho
     name: 迈瓦语
     auto: true

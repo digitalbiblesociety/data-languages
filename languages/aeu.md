@@ -15,6 +15,9 @@ glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Burmo-Qiangic > Lolo-Burmese > Loloish > Hani-Jino > Bisoid-Hanic > Hanic > Ha-Ya > Akhaic > Akeuic > Akeu"
 wikipedia_url: "https://en.wikipedia.org/wiki/Akeu_language"
 translations:
+  - translation_iso: jpn
+    name: アケウ語
+    auto: true
   - translation_iso: zho
     name: 阿克语
 ---

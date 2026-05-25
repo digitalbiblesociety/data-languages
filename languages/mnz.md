@@ -15,6 +15,9 @@ glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Paniai Lakes > Moni"
 wikipedia_url: "https://en.wikipedia.org/wiki/Moni_language"
 translations:
+  - translation_iso: jpn
+    name: モニ語
+    auto: true
   - translation_iso: zho
     name: 莫尼语
     auto: true

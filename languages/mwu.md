@@ -15,6 +15,9 @@ glottolog_family_name: Central Sudanic
 glottolog_classification: "Central Sudanic > Sara-Bongo-Bagirmi > Baka-Beli > Morokodo-Beli > Gberi-Morokodo-Mittu > Mittu"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mittu_language"
 translations:
+  - translation_iso: jpn
+    name: ミッツ語
+    auto: true
   - translation_iso: zho
     name: 米图语
     auto: true

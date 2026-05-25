@@ -15,6 +15,9 @@ glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > East Chadic > East Chadic B > East Chadic B.1 > Dangla-Mabire-Birgit > Birgit-Mogum-Toram > Toram"
 wikipedia_url: "https://en.wikipedia.org/wiki/Toram_language"
 translations:
+  - translation_iso: jpn
+    name: トロム語
+    auto: true
   - translation_iso: zho
     name: 托兰语
     auto: true

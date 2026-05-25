@@ -15,6 +15,9 @@ glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > Southeastern Pama-Nyungan > New South Wales Pama-Nyungan > Greater Bandjalangic > Bandjalangic > Coastal Bandjalang > Tweed-Albert"
 wikipedia_url: "https://en.wikipedia.org/wiki/Yugambeh_language"
 translations:
+  - translation_iso: jpn
+    name: ミンジングバル語
+    auto: true
   - translation_iso: zho
     name: 民金巴尔语
     auto: true

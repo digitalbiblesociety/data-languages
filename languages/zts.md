@@ -15,6 +15,9 @@ glottolog_family_name: Otomanguean
 glottolog_classification: "Otomanguean > Eastern Otomanguean > Popoloca-Zapotecan > Zapotecan > Zapotec > Core Zapotec > Narrow Core Zapotec > Central Core Zapotec > Western Valley Zapotec > Extended Ocotepec Zapotec > Tilquiapanic > Tilquiapan Zapotec"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tilquiapan_Zapotec"
 translations:
+  - translation_iso: jpn
+    name: ティルキアパン・サポテク語
+    auto: true
   - translation_iso: zho
     name: 蒂爾基亞潘薩波特克語
 ---

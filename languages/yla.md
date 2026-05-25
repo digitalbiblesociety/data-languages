@@ -14,6 +14,9 @@ glottolog_family_name: Keram
 glottolog_classification: "Keram > Ulmapo > Ulwa (Papua New Guinea)"
 wikipedia_url: "https://en.wikipedia.org/wiki/Yaul_language"
 translations:
+  - translation_iso: jpn
+    name: ヤウル語
+    auto: true
   - translation_iso: zho
     name: 亚乌尔语
     auto: true

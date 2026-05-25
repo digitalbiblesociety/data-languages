@@ -15,6 +15,9 @@ glottolog_family_name: Ramu
 glottolog_classification: "Ramu > Agoan > Gorovu"
 wikipedia_url: "https://en.wikipedia.org/wiki/Gorovu_language"
 translations:
+  - translation_iso: jpn
+    name: ゴロヴ語
+    auto: true
   - translation_iso: zho
     name: 戈罗武语
     auto: true

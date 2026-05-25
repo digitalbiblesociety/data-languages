@@ -14,6 +14,9 @@ glottolog_family_name: Bosavi
 glottolog_classification: "Bosavi > Bosavi Watershed > Kasua"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kasua_language"
 translations:
+  - translation_iso: jpn
+    name: カスア語
+    auto: true
   - translation_iso: zho
     name: 卡蘇阿語
 ---

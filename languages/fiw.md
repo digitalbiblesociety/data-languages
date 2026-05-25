@@ -15,6 +15,9 @@ glottolog_family_name: East Kutubu
 glottolog_classification: "East Kutubu > Fiwaga"
 wikipedia_url: "https://en.wikipedia.org/wiki/Fiwaga_language"
 translations:
+  - translation_iso: jpn
+    name: フィワガ語
+    auto: true
   - translation_iso: zho
     name: 菲瓦加语
     auto: true

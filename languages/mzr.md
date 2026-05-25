@@ -15,6 +15,9 @@ glottolog_family_name: Pano-Tacanan
 glottolog_classification: "Pano-Tacanan > Panoan > Mainline Pano > Pano Nawa > Marubo Subgroup > Marúbo"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mar%C3%BAbo_language"
 translations:
+  - translation_iso: jpn
+    name: マルーボ語
+    auto: true
   - translation_iso: zho
     name: 玛鲁博语
     auto: true

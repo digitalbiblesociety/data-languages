@@ -14,6 +14,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > Bantu A-B10-B20-B30 > Basaa-Yaunde (A40-70) > Yaunde-Fang (A.70) > Ewondo-Bebele > Bebele"
 wikipedia_url: "https://en.wikipedia.org/wiki/Bebele_language"
 translations:
+  - translation_iso: jpn
+    name: ベベレ語
+    auto: true
   - translation_iso: zho
     name: 贝贝勒语
     auto: true

@@ -14,6 +14,9 @@ glottolog_family_id: nucl1709
 glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Asmat-Awyu-Ok > Asmat-Kamrau Bay > Asmat-Kamoro > Asmat > Central-Yaosakor Asmat > Yaosakor Asmat"
 translations:
+  - translation_iso: jpn
+    name: ヤオサコル・アスマット語
+    auto: true
   - translation_iso: zho
     name: 亚奥萨科尔阿斯马特语
     auto: true

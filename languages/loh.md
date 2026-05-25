@@ -15,6 +15,9 @@ glottolog_family_name: Surmic
 glottolog_classification: "Surmic > South Surmic > Southwest Surmic > Didinga-Murle > Didinga-Longarim > Narim"
 wikipedia_url: "https://en.wikipedia.org/wiki/Laarim_language"
 translations:
+  - translation_iso: jpn
+    name: ナリム語
+    auto: true
   - translation_iso: zho
     name: 纳里姆语
     auto: true

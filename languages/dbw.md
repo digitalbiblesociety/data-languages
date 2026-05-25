@@ -15,6 +15,9 @@ glottolog_family_name: Dogon
 glottolog_classification: "Dogon > Nangan Dogon > Bankan Tey Dogon"
 wikipedia_url: "https://en.wikipedia.org/wiki/Bankan_Tey_Dogon"
 translations:
+  - translation_iso: jpn
+    name: バンカン・テイ・ドゴン語
+    auto: true
   - translation_iso: zho
     name: 班坎特伊多贡语
     auto: true

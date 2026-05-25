@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Benue-Congo Plateau > West-Central Benue-Congo Plateau > Zaric > Nuclear Zaric > Izeric > Firan"
 wikipedia_url: "https://en.wikipedia.org/wiki/Firan_language"
 translations:
+  - translation_iso: jpn
+    name: フィラン語
+    auto: true
   - translation_iso: zho
     name: 菲兰语
     auto: true

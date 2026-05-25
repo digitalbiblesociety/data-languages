@@ -14,6 +14,9 @@ glottolog_family_name: Lakes Plain
 glottolog_classification: "Lakes Plain > Far West Lakes Plain > Awera"
 wikipedia_url: "https://en.wikipedia.org/wiki/Awera_language"
 translations:
+  - translation_iso: jpn
+    name: アウェラ語
+    auto: true
   - translation_iso: zho
     name: 阿韦拉语
     auto: true

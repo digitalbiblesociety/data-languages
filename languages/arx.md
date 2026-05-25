@@ -15,6 +15,9 @@ glottolog_family_name: Tupian
 glottolog_classification: "Tupian > Monde > Gavianic > Nuclear Gavianic > Aruá (Rondonia State)"
 wikipedia_url: "https://en.wikipedia.org/wiki/Aru%C3%A1_language_(Rond%C3%B4nia)"
 translations:
+  - translation_iso: jpn
+    name: アルア語
+    auto: true
   - translation_iso: zho
     name: 鲁多尼亚州阿鲁亚语
     auto: true

@@ -14,6 +14,9 @@ glottolog_family_id: otom1299
 glottolog_family_name: Otomanguean
 glottolog_classification: "Otomanguean > Eastern Otomanguean > Amuzgo-Mixtecan > Mixtecan > Trique > Chicahuaxtla Triqui"
 translations:
+  - translation_iso: jpn
+    name: チカウアストラ・トリケ語
+    auto: true
   - translation_iso: zho
     name: 奇卡瓦斯特拉特里基语
     auto: true

@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Timor-Babar > Rote-Meto > Nuclear Rote > Central East Rote > Southeast Rote > Bilba"
 wikipedia_url: "https://en.wikipedia.org/wiki/Bilba_language"
 translations:
+  - translation_iso: jpn
+    name: ビルバ語
+    auto: true
   - translation_iso: zho
     name: 比尔巴语
     auto: true

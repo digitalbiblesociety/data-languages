@@ -17,6 +17,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Hrangkhol_language"
 translations:
   - translation_iso: hin
     name: हरंगखोल भाषा
+  - translation_iso: jpn
+    name: フランクホル語
+    auto: true
   - translation_iso: zho
     name: 赫朗科尔语
     auto: true

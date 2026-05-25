@@ -17,6 +17,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Southern_Nicobarese_language"
 translations:
   - translation_iso: hin
     name: दक्षिण निकोबारी भाषा
+  - translation_iso: jpn
+    name: 南ニコバル語
+    auto: true
   - translation_iso: zho
     name: 南尼科巴語
 rolv_dialects:

@@ -10,6 +10,9 @@ latitude: 20.78087
 longitude: 100.07886
 wikipedia_url: "https://en.wikipedia.org/wiki/Laopan_language"
 translations:
+  - translation_iso: jpn
+    name: ラオパン語
+    auto: true
   - translation_iso: zho
     name: 老潘语
 ---

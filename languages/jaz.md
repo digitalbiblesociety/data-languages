@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Southern Melanesian > New Caledonian > Mainland New Caledonian > Northern New Caledonian > Mid-Northern New Caledonian > Jawe"
 wikipedia_url: "https://en.wikipedia.org/wiki/Jawe_language"
 translations:
+  - translation_iso: jpn
+    name: ジャウェ語
+    auto: true
   - translation_iso: zho
     name: 贾韦语
     auto: true

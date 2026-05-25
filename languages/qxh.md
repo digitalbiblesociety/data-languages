@@ -14,6 +14,9 @@ glottolog_family_id: quec1387
 glottolog_family_name: Quechuan
 glottolog_classification: "Quechuan > Quechua I > Central Quechua I > AP-AM-AH > Panao-Union > Panao Huánuco Quechua"
 translations:
+  - translation_iso: jpn
+    name: パナオワヌコケチュア語
+    auto: true
   - translation_iso: zho
     name: 帕瑙瓦努科克丘亚语
     auto: true

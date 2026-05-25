@@ -14,6 +14,9 @@ glottolog_family_id: nort1547
 glottolog_family_name: Northern Daly
 glottolog_classification: "Northern Daly > Tyaraity"
 translations:
+  - translation_iso: jpn
+    name: クウェマ語
+    auto: true
   - translation_iso: zho
     name: 库韦马语
     auto: true

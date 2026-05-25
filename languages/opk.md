@@ -14,6 +14,9 @@ glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Asmat-Awyu-Ok > Awyu-Ok > Ok-Oksapmin > Ok > Kwer-Kopkaka-Burumakok > Kopkaka"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kopka_language"
 translations:
+  - translation_iso: jpn
+    name: コプカカ語
+    auto: true
   - translation_iso: zho
     name: 科普卡卡语
     auto: true

@@ -14,6 +14,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > North New Guinea linkage > Huon Gulf > Markham > Upper Markham > Mountain Upper Markham > Wampur"
 wikipedia_url: "https://en.wikipedia.org/wiki/Wampur_language"
 translations:
+  - translation_iso: jpn
+    name: ワンプル語
+    auto: true
   - translation_iso: zho
     name: 瓦姆普尔语
     auto: true

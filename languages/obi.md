@@ -15,6 +15,9 @@ glottolog_family_name: Chumashan
 glottolog_classification: "Chumashan > Obispeño"
 wikipedia_url: "https://en.wikipedia.org/wiki/Obispe%C3%B1o_language"
 translations:
+  - translation_iso: jpn
+    name: オビスペーニョ語
+    auto: true
   - translation_iso: zho
     name: 奥比斯佩尼奥语
     auto: true

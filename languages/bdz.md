@@ -14,6 +14,9 @@ glottolog_family_name: Unattested
 glottolog_classification: "Unattested > Indo-European (Unattested) > Badeshi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Badeshi"
 translations:
+  - translation_iso: jpn
+    name: バデシ語
+    auto: true
   - translation_iso: zho
     name: 巴德希語
 ---

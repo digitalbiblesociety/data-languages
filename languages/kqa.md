@@ -14,6 +14,9 @@ glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Madang > Kalamic-South Adelbert > South Adelbert > Sogeram > North Sogeram > Mum"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mum_language"
 translations:
+  - translation_iso: jpn
+    name: ムム語
+    auto: true
   - translation_iso: zho
     name: 穆姆语
     auto: true

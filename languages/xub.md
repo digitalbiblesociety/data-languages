@@ -15,6 +15,9 @@ glottolog_family_name: Dravidian
 glottolog_classification: "Dravidian > South Dravidian > South Dravidian I > Tamil-Kannada > Badaga-Kannada > Kannadoid > Betta Kurumba"
 wikipedia_url: "https://en.wikipedia.org/wiki/Betta_Kurumba_language"
 translations:
+  - translation_iso: jpn
+    name: ベッタ・クルンバ語
+    auto: true
   - translation_iso: zho
     name: 贝塔-库鲁姆巴语
     auto: true

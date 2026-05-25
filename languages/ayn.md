@@ -17,6 +17,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/San%CA%BDani_Arabic"
 translations:
   - translation_iso: ara
     name: لهجة صنعانية
+  - translation_iso: jpn
+    name: サナーニ・アラビア語
+    auto: true
   - translation_iso: zho
     name: 薩那阿拉伯語
 ---

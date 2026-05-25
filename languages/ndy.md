@@ -16,6 +16,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Lutos_language"
 translations:
   - translation_iso: ara
     name: ليتوس
+  - translation_iso: jpn
+    name: ルトス語
+    auto: true
   - translation_iso: zho
     name: 卢托斯语
     auto: true

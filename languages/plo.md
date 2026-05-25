@@ -15,6 +15,9 @@ glottolog_family_name: Mixe-Zoque
 glottolog_classification: "Mixe-Zoque > Mixe > Oluta Popoluca"
 wikipedia_url: "https://en.wikipedia.org/wiki/Oluta_Popoluca"
 translations:
+  - translation_iso: jpn
+    name: オルタポプロッカ語
+    auto: true
   - translation_iso: zho
     name: 奥卢塔波波卢卡语
     auto: true

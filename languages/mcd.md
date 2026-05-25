@@ -15,6 +15,9 @@ glottolog_family_name: Pano-Tacanan
 glottolog_classification: "Pano-Tacanan > Panoan > Mainline Pano > Pano Nawa > Headwaters Pano > Yaminawa Complex > Sharanahua"
 wikipedia_url: "https://en.wikipedia.org/wiki/Sharanawa_language"
 translations:
+  - translation_iso: jpn
+    name: シャラナウア語
+    auto: true
   - translation_iso: zho
     name: 沙拉那瓦语
     auto: true

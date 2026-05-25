@@ -13,6 +13,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Brunca_Sign_Language"
 translations:
   - translation_iso: hin
     name: ब्रुंका सांकेतिक भाषा
+  - translation_iso: jpn
+    name: ブルンカ手話
+    auto: true
   - translation_iso: zho
     name: 布鲁卡手语
     auto: true

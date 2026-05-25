@@ -10,6 +10,9 @@ latitude: 1.74782
 longitude: -56.5107
 wikipedia_url: "https://en.wikipedia.org/wiki/Salum%C3%A1_language"
 translations:
+  - translation_iso: jpn
+    name: タレーノイジョミ語
+    auto: true
   - translation_iso: zho
     name: 萨卢马语
     auto: true

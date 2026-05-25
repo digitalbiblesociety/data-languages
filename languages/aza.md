@@ -14,6 +14,9 @@ glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Burmo-Qiangic > Lolo-Burmese > Loloish > Ni-Li-Kazhouish > Southeastern Ngwi > Axioid > Azha"
 wikipedia_url: "https://en.wikipedia.org/wiki/Azha_language"
 translations:
+  - translation_iso: jpn
+    name: アズハ語
+    auto: true
   - translation_iso: zho
     name: 阿扎语
 ---

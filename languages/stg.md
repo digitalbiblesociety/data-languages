@@ -14,6 +14,9 @@ glottolog_family_id: aust1305
 glottolog_family_name: Austroasiatic
 glottolog_classification: "Austroasiatic > Bahnaric > West Bahnaric > Triengic > Trieng"
 translations:
+  - translation_iso: jpn
+    name: トリエン語
+    auto: true
   - translation_iso: zho
     name: 特林格语
     auto: true

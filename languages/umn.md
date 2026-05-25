@@ -15,6 +15,9 @@ glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Brahmaputran > Patkaian > South Patkaian > Southeastern Patkaian > Makyamic"
 wikipedia_url: "https://en.wikipedia.org/wiki/Makyam_language"
 translations:
+  - translation_iso: jpn
+    name: マキャン語
+    auto: true
   - translation_iso: zho
     name: 马卡扬那加语
     auto: true

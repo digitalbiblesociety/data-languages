@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > Papuan Tip linkage > Peripheral Papuan Tip linkage > Central Papuan Oceanic > West Central Papuan linkage > Abadi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Abadi_language"
 translations:
+  - translation_iso: jpn
+    name: アバディ語
+    auto: true
   - translation_iso: zho
     name: 阿巴迪语
     auto: true

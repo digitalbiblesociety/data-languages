@@ -14,6 +14,9 @@ glottolog_family_id: taik1256
 glottolog_family_name: Tai-Kadai
 glottolog_classification: "Tai-Kadai > Kadaic > Eastern Kra > Buyang > Yerong-Southern Buyang"
 translations:
+  - translation_iso: jpn
+    name: イェロング語
+    auto: true
   - translation_iso: zho
     name: 雅郎布央语
 ---

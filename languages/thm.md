@@ -15,6 +15,9 @@ glottolog_family_name: Austroasiatic
 glottolog_classification: "Austroasiatic > Vietic > Chutic > Thavung"
 wikipedia_url: "https://en.wikipedia.org/wiki/Thavung_language"
 translations:
+  - translation_iso: jpn
+    name: アヘウ語
+    auto: true
   - translation_iso: zho
     name: 他文语
 ---

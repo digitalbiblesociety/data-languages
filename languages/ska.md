@@ -11,6 +11,9 @@ longitude: -121.99099
 translations:
   - translation_iso: ara
     name: سكاكيت
+  - translation_iso: jpn
+    name: スカジット・ニスクワリ語
+    auto: true
   - translation_iso: zho
     name: 斯卡吉特语
     auto: true

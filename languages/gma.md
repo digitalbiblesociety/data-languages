@@ -14,6 +14,9 @@ glottolog_family_id: worr1236
 glottolog_family_name: Worrorran
 glottolog_classification: "Worrorran > Northern Worrorran > Forrest River > Gambera"
 translations:
+  - translation_iso: jpn
+    name: ガンベラ語
+    auto: true
   - translation_iso: zho
     name: 甘贝拉语
     auto: true

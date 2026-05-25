@@ -14,6 +14,9 @@ glottolog_family_name: Ramu
 glottolog_classification: "Ramu > Goam > Tamolan > Unclassified Tamolan > Igana"
 wikipedia_url: "https://en.wikipedia.org/wiki/Igana_language"
 translations:
+  - translation_iso: jpn
+    name: イガナ語
+    auto: true
   - translation_iso: zho
     name: 伊加纳语
     auto: true

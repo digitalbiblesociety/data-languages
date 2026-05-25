@@ -14,6 +14,9 @@ glottolog_family_id: aust1305
 glottolog_family_name: Austroasiatic
 glottolog_classification: "Austroasiatic > Bahnaric > West Bahnaric > Triengic > Talieng"
 translations:
+  - translation_iso: jpn
+    name: タリエン語
+    auto: true
   - translation_iso: zho
     name: 塔利恩语
     auto: true

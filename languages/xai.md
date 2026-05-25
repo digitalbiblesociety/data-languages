@@ -15,6 +15,9 @@ glottolog_family_name: Unclassifiable
 glottolog_classification: "Unclassifiable > Kaimbé"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kaimb%C3%A9_language"
 translations:
+  - translation_iso: jpn
+    name: カインベ語
+    auto: true
   - translation_iso: zho
     name: 凯姆贝语
     auto: true

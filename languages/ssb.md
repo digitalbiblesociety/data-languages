@@ -14,6 +14,9 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Basap-Greater Barito > Greater Barito linkage > Sama-Bajaw > Sulu-Borneo > Inner Sulu Sama > Southern Sama"
 translations:
+  - translation_iso: jpn
+    name: バジャウ語
+    auto: true
   - translation_iso: zho
     name: 南沙玛语
     auto: true

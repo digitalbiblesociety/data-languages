@@ -15,6 +15,9 @@ glottolog_family_name: Angan
 glottolog_classification: "Angan > Nuclear Angan > Ankave-Tainae-Akoye > Tainae-Akoye > Tainae"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tainae_language"
 translations:
+  - translation_iso: jpn
+    name: タイナエ語
+    auto: true
   - translation_iso: zho
     name: 塔伊奈语
     auto: true

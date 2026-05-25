@@ -14,6 +14,9 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > North Borneo Malayo-Polynesian > Central Sarawak > Melanau-Kajang > Melanau > Central Melanau"
 translations:
+  - translation_iso: jpn
+    name: 中央メラナウ語
+    auto: true
   - translation_iso: zho
     name: 中部美拉瑙语
     auto: true

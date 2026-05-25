@@ -15,6 +15,9 @@ glottolog_family_name: Lakes Plain
 glottolog_classification: "Lakes Plain > Tariku > East Tariku > Sikaritai"
 wikipedia_url: "https://en.wikipedia.org/wiki/Sikaritai_language"
 translations:
+  - translation_iso: jpn
+    name: トリ・アイクワカイ語
+    auto: true
   - translation_iso: zho
     name: 西卡里塔伊语
     auto: true

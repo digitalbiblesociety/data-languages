@@ -14,6 +14,9 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Cameroun-Ubangian > Ubangi > Ngbandi-Mongoba-Kazibati > Ngbandic > Nuclear Ngbandic > Sangoic > Riverain Sango"
 translations:
+  - translation_iso: jpn
+    name: ヤンガティサンゴ語
+    auto: true
   - translation_iso: zho
     name: 河滨桑戈语
     auto: true

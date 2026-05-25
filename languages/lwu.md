@@ -14,6 +14,9 @@ glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Burmo-Qiangic > Lolo-Burmese > Loloish > Ni-Li-Kazhouish > Lawoish > Lawu"
 wikipedia_url: "https://en.wikipedia.org/wiki/Lawu_language"
 translations:
+  - translation_iso: jpn
+    name: ラウ語
+    auto: true
   - translation_iso: zho
     name: 拉邬语
 ---

@@ -15,6 +15,9 @@ glottolog_family_name: Otomanguean
 glottolog_classification: "Otomanguean > Eastern Otomanguean > Popoloca-Zapotecan > Zapotecan > Zapotec > Core Zapotec > Papabuco > Zaniza Zapotec"
 wikipedia_url: "https://en.wikipedia.org/wiki/Zaniza_Zapotec"
 translations:
+  - translation_iso: jpn
+    name: ザニザ・サポテク語
+    auto: true
   - translation_iso: zho
     name: 扎尼萨萨波特克语
     auto: true

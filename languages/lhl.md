@@ -15,6 +15,9 @@ glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Indo-Aryan > Middle-Modern Indo-Aryan > Eastern Dardic > Himachali > Kangric-Chamealic-Bhattiyali > Chamealic > Bhadrawahi-Bhalesi-Curahi > Bhadarwahic > Chinali-Lahul Lohar > Lahul Lohar"
 wikipedia_url: "https://en.wikipedia.org/wiki/Lahul_Lohar_language"
 translations:
+  - translation_iso: jpn
+    name: ラフル・ロハル語
+    auto: true
   - translation_iso: zho
     name: 拉胡尔洛哈尔语
 ---

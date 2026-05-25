@@ -15,6 +15,9 @@ glottolog_family_name: Otomanguean
 glottolog_classification: "Otomanguean > Eastern Otomanguean > Amuzgo-Mixtecan > Mixtecan > Trique > Copala Triqui"
 wikipedia_url: "https://en.wikipedia.org/wiki/Copala_Triqui"
 translations:
+  - translation_iso: jpn
+    name: シナアンフ語
+    auto: true
   - translation_iso: zho
     name: 科帕拉特里基语
     auto: true

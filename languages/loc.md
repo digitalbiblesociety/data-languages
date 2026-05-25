@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Greater Central Philippine > Central Philippine > Bisayan > West Bisayan > Inonhan"
 wikipedia_url: "https://en.wikipedia.org/wiki/Onhan_language"
 translations:
+  - translation_iso: jpn
+    name: イノンハン語
+    auto: true
   - translation_iso: zho
     name: 伊农汉语
     auto: true

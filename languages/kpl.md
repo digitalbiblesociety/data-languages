@@ -14,6 +14,9 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Cameroun-Ubangian > Ubangi > Ubangi Ka > Mundu-Baka > Western Mundu-Baka > River Western Mundu-Baka > Monzomboic > Kpala-Bakpa > Kpala"
 translations:
+  - translation_iso: jpn
+    name: クパラ語
+    auto: true
   - translation_iso: zho
     name: 克帕拉语
     auto: true

@@ -15,6 +15,9 @@ glottolog_family_name: East Strickland
 glottolog_classification: "East Strickland > Fembe"
 wikipedia_url: "https://en.wikipedia.org/wiki/Fembe_language"
 translations:
+  - translation_iso: jpn
+    name: フェンベ語
+    auto: true
   - translation_iso: zho
     name: 芬贝语
     auto: true

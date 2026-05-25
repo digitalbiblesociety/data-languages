@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Delta Cross > Central Delta > Kugboic > Kugbo"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kugbo_language"
 translations:
+  - translation_iso: jpn
+    name: クグボ語
+    auto: true
   - translation_iso: zho
     name: 库格博语
     auto: true

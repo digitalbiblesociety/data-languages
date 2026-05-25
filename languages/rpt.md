@@ -14,6 +14,9 @@ glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Madang > Croisilles > Mabuso > Hanseman > Unclassified Hanseman > Rapting"
 wikipedia_url: "https://en.wikipedia.org/wiki/Rapting_language"
 translations:
+  - translation_iso: jpn
+    name: ラプティング語
+    auto: true
   - translation_iso: zho
     name: 拉普廷语
     auto: true

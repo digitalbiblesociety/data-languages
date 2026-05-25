@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Central Luzon > Sambalic > Mag-Ayta > Mag-Anchi Ayta"
 wikipedia_url: "https://en.wikipedia.org/wiki/Antsi_language"
 translations:
+  - translation_iso: jpn
+    name: マグアントシ語
+    auto: true
   - translation_iso: zho
     name: 马格-安茨艾亚语
     auto: true

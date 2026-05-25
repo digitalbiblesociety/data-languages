@@ -14,6 +14,9 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Northern Bantoid > Dakoid > Taram-Dirim-Nnakenyare > Sama Mum"
 translations:
+  - translation_iso: jpn
+    name: サンバ・ダカ語
+    auto: true
   - translation_iso: zho
     name: 桑巴达卡语
     auto: true

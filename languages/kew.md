@@ -14,6 +14,9 @@ glottolog_family_id: nucl1709
 glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Enga-Kewa-Huli > Kewa-Huli > Sau-Angal-Kewa > Angal-Kewa > Kewa > West Kewa"
 translations:
+  - translation_iso: jpn
+    name: ウェスト・ケワ語
+    auto: true
   - translation_iso: zho
     name: 西克瓦语
     auto: true

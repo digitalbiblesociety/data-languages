@@ -15,6 +15,9 @@ glottolog_family_name: Kru
 glottolog_classification: "Kru > Greater Western Kru > Western Kru > Grebo-Aizi > Aizi > Tiagbamrin Aizi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tiagba_language"
 translations:
+  - translation_iso: jpn
+    name: ティアグバムリン・アイジ語
+    auto: true
   - translation_iso: zho
     name: 蒂亚格巴姆林艾兹语
     auto: true

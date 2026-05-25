@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Akpes-Edoid > Edoid > Southwestern Edoid > Okpe (Southwestern Edo)"
 wikipedia_url: "https://en.wikipedia.org/wiki/Okpe_language_(Southwestern_Edo)"
 translations:
+  - translation_iso: jpn
+    name: オクペ語
+    auto: true
   - translation_iso: zho
     name: 奥克佩语
     auto: true

@@ -15,6 +15,9 @@ glottolog_family_name: Central Sudanic
 glottolog_classification: "Central Sudanic > Moru-Madi > Central Moru-Madi > Avokayic > Kalikoic > Omi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Omi_language"
 translations:
+  - translation_iso: jpn
+    name: オミ語
+    auto: true
   - translation_iso: zho
     name: 奥米语
     auto: true

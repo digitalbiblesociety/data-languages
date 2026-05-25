@@ -15,6 +15,9 @@ glottolog_family_name: Maiduan
 glottolog_classification: "Maiduan > Northwest Maidu"
 wikipedia_url: "https://en.wikipedia.org/wiki/Konkow_language"
 translations:
+  - translation_iso: jpn
+    name: ノースウェスト・マイドゥ語
+    auto: true
   - translation_iso: zho
     name: 西北毛伊都语
     auto: true

@@ -14,6 +14,9 @@ translations:
     name: لهجة نواخالوية
   - translation_iso: hin
     name: नवाखालीय बोली
+  - translation_iso: jpn
+    name: ノアカリ語
+    auto: true
   - translation_iso: zho
     name: 诺瓦克哈利语
     auto: true

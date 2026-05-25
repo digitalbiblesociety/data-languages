@@ -14,6 +14,9 @@ glottolog_family_id: otom1299
 glottolog_family_name: Otomanguean
 glottolog_classification: "Otomanguean > Western Otomanguean > Otopame-Chinantecan > Otopamean > Pamean > Southern Pame"
 translations:
+  - translation_iso: jpn
+    name: 南パメ語
+    auto: true
   - translation_iso: zho
     name: 南部帕梅语
     auto: true

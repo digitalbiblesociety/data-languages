@@ -17,6 +17,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Digaro_Mishmi_language"
 translations:
   - translation_iso: hin
     name: तरुआंग भाषा
+  - translation_iso: jpn
+    name: ディガロ・ミシミ語
+    auto: true
   - translation_iso: zho
     name: 达让语
 rolv_dialects:

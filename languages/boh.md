@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > Central-Western Bantu > West-Coastal Bantu > Nzadic > Lweric > Dingic > Loange-Atlantic > Kwilu-Ngounie > Kasai-Ngounie > Kwa-Kasai North > Boma Yumu"
 wikipedia_url: "https://en.wikipedia.org/wiki/Boma_language"
 translations:
+  - translation_iso: jpn
+    name: ボマ語
+    auto: true
   - translation_iso: zho
     name: 博马语
     auto: true

@@ -14,6 +14,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Celebic > Greater Eastern Celebic > Eastern Celebic > Saluan-Banggai > Taliaboic > Taliabu"
 wikipedia_url: "https://en.wikipedia.org/wiki/Taliabo_language"
 translations:
+  - translation_iso: jpn
+    name: タリアブ語
+    auto: true
   - translation_iso: zho
     name: 塔利亚布语
     auto: true

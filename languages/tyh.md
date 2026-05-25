@@ -15,6 +15,9 @@ glottolog_family_name: Austroasiatic
 glottolog_classification: "Austroasiatic > Khmuic > Phay-Pram > Pramic > O'du"
 wikipedia_url: "https://en.wikipedia.org/wiki/O%CA%BCdu_language"
 translations:
+  - translation_iso: jpn
+    name: オドゥ語
+    auto: true
   - translation_iso: zho
     name: 俄都语
 ---

@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Wide Grassfields > Narrow Grassfields > Ring > Center-West Ring > West Ring > Kuk"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kuk_language"
 translations:
+  - translation_iso: jpn
+    name: クク語
+    auto: true
   - translation_iso: zho
     name: 库克语
     auto: true

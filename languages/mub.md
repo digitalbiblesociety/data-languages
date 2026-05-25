@@ -15,6 +15,9 @@ glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > East Chadic > East Chadic B > East Chadic B.1 > Mubic > Mubi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mubi_language"
 translations:
+  - translation_iso: jpn
+    name: ムビ語
+    auto: true
   - translation_iso: zho
     name: 穆比语
     auto: true

@@ -14,6 +14,9 @@ glottolog_family_id: otom1299
 glottolog_family_name: Otomanguean
 glottolog_classification: "Otomanguean > Eastern Otomanguean > Popoloca-Zapotecan > Popolocan-Mazatecan > Ixcatec-Chocho-Popolocan > Chocho-Popolocan > Popolocan > San Luís Temalacayuca Popoloca"
 translations:
+  - translation_iso: jpn
+    name: サンルイステマラカユカポポロカ語
+    auto: true
   - translation_iso: zho
     name: 圣路易斯特玛拉卡尤卡波波卡语
     auto: true

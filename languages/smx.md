@@ -16,6 +16,9 @@ glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid 
 translations:
   - translation_iso: hin
     name: सांबा
+  - translation_iso: jpn
+    name: キホロ語
+    auto: true
   - translation_iso: zho
     name: 桑巴语
     auto: true

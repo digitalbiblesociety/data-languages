@@ -15,6 +15,9 @@ glottolog_family_name: Miwok-Costanoan
 glottolog_classification: "Miwok-Costanoan > Miwokan > Western Miwokan > Lake Miwok"
 wikipedia_url: "https://en.wikipedia.org/wiki/Lake_Miwok_language"
 translations:
+  - translation_iso: jpn
+    name: レイク・ミウォク語
+    auto: true
   - translation_iso: zho
     name: 湖米沃克语
     auto: true

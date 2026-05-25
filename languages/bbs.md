@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Delta Cross > Upper Cross > Agoi-Doko-Iyoniyong > Iyongiyong"
 wikipedia_url: "https://en.wikipedia.org/wiki/Bakpinka_language"
 translations:
+  - translation_iso: jpn
+    name: バクピンカ語
+    auto: true
   - translation_iso: zho
     name: 巴克平卡语
     auto: true

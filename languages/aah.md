@@ -15,6 +15,9 @@ glottolog_family_name: Nuclear Torricelli
 glottolog_classification: "Nuclear Torricelli > Kombio-Arapesh-Urat > Arapesh > Mufian-Bukiyip-Abu > Bukiyip-Abu > Abu' Arapesh"
 wikipedia_url: "https://en.wikipedia.org/wiki/Abu%CA%BC_Arapesh_language"
 translations:
+  - translation_iso: jpn
+    name: アブ・アラペシュ語
+    auto: true
   - translation_iso: zho
     name: 阿布阿拉佩什语
     auto: true

@@ -15,6 +15,9 @@ glottolog_family_name: Ndu
 glottolog_classification: "Ndu > Ngala"
 wikipedia_url: "https://en.wikipedia.org/wiki/Nggala_language"
 translations:
+  - translation_iso: jpn
+    name: ンガラ語
+    auto: true
   - translation_iso: zho
     name: 恩加拉语
     auto: true

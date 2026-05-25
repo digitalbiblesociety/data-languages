@@ -15,6 +15,9 @@ glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > Paman > Compromise Middle Pama > Wik > Ngatharra-Ngathana-Iinychanya > Wikalkan"
 wikipedia_url: "https://en.wikipedia.org/wiki/Wik-Ngatharr_dialect"
 translations:
+  - translation_iso: jpn
+    name: ウィカルカン語
+    auto: true
   - translation_iso: zho
     name: 威卡尔坎语
     auto: true

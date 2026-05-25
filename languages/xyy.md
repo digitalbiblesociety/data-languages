@@ -15,6 +15,9 @@ glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > Southeastern Pama-Nyungan > Victorian Pama-Nyungan > Eastern Victoria > Yorta Yorta"
 wikipedia_url: "https://en.wikipedia.org/wiki/Yorta_Yorta_language"
 translations:
+  - translation_iso: jpn
+    name: ヨルタ・ヨルタ語
+    auto: true
   - translation_iso: zho
     name: 约尔塔-约尔塔语
     auto: true

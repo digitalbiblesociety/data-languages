@@ -15,6 +15,9 @@ glottolog_family_name: Mangarrayi-Maran
 glottolog_classification: "Mangarrayi-Maran > Maran > Alawa"
 wikipedia_url: "https://en.wikipedia.org/wiki/Alawa_language"
 translations:
+  - translation_iso: jpn
+    name: アラワ語
+    auto: true
   - translation_iso: zho
     name: 阿拉瓦语
     auto: true

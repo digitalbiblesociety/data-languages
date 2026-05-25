@@ -13,6 +13,9 @@ glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > West Chadic > West Chadic B > West Chadic B.3 > South Bauchi West > Southwest South Bauchi > Zeemic > Dokshi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Dokshi_language"
 translations:
+  - translation_iso: jpn
+    name: ドクシ語
+    auto: true
   - translation_iso: zho
     name: 多克希语
     auto: true

@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Temotu > Reefs-Santa Cruz > Natugu-Nalogo > Nalögo"
 wikipedia_url: "https://en.wikipedia.org/wiki/Nal%C3%B6go_language"
 translations:
+  - translation_iso: jpn
+    name: ナロゴ語
+    auto: true
   - translation_iso: zho
     name: 纳洛戈语
     auto: true

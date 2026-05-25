@@ -14,6 +14,9 @@ glottolog_family_id: otom1299
 glottolog_family_name: Otomanguean
 glottolog_classification: "Otomanguean > Western Otomanguean > Otopame-Chinantecan > Otopamean > Otomian > Otomi > Eastern Otomi > Tenango Otomi"
 translations:
+  - translation_iso: jpn
+    name: テナンゴ・オトミ語
+    auto: true
   - translation_iso: zho
     name: 特南戈奥托米语
     auto: true

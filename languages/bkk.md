@@ -17,6 +17,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Brokskat_language"
 translations:
   - translation_iso: hin
     name: ब्रोकस्कत भाषा
+  - translation_iso: jpn
+    name: ブロクスカット語
+    auto: true
   - translation_iso: zho
     name: 布罗克斯卡特语
     auto: true

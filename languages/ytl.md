@@ -15,6 +15,9 @@ glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Burmo-Qiangic > Lolo-Burmese > Loloish > Ni-Li-Kazhouish > Lisoid > Nuclear Lisoid > Tanglang-Toloza"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tholo_language"
 translations:
+  - translation_iso: jpn
+    name: タングラング語
+    auto: true
   - translation_iso: zho
     name: 堂郎語
 ---

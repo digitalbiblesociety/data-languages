@@ -15,6 +15,9 @@ glottolog_family_name: Khoe-Kwadi
 glottolog_classification: "Khoe-Kwadi > Khoe > Khoekhoe > South Khoekhoe > Xiri"
 wikipedia_url: "https://en.wikipedia.org/wiki/Xiri_language"
 translations:
+  - translation_iso: jpn
+    name: シリ語
+    auto: true
   - translation_iso: zho
     name: 西里语
     auto: true

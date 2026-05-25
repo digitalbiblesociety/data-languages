@@ -13,6 +13,9 @@ glottolog_family_name: Uto-Aztecan
 glottolog_classification: "Uto-Aztecan > Southern Uto-Aztecan > Opata-Eudeve > Eudeve"
 wikipedia_url: "https://en.wikipedia.org/wiki/Eudeve_language"
 translations:
+  - translation_iso: jpn
+    name: オウデベ語
+    auto: true
   - translation_iso: zho
     name: 埃乌德韦语
     auto: true

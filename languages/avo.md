@@ -15,6 +15,9 @@ glottolog_family_name: Unattested
 glottolog_classification: "Unattested > Arawakan (Unattested) > Agavotaguerra"
 wikipedia_url: "https://en.wikipedia.org/wiki/Agavotaguerra_language"
 translations:
+  - translation_iso: jpn
+    name: アガヴォタグエッラ語
+    auto: true
   - translation_iso: zho
     name: 阿加沃塔格瓦语
     auto: true

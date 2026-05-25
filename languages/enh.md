@@ -15,6 +15,9 @@ glottolog_family_name: Uralic
 glottolog_classification: "Uralic > Samoyedic > Enets-Nenets > Enets > Tundra Enets"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tundra_Enets_language"
 translations:
+  - translation_iso: jpn
+    name: ツンドラエネツ語
+    auto: true
   - translation_iso: zho
     name: 苔原埃涅茨语
     auto: true

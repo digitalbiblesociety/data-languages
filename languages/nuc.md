@@ -15,6 +15,9 @@ glottolog_family_name: Pano-Tacanan
 glottolog_classification: "Pano-Tacanan > Panoan > Mainline Pano > Pano Nawa > Poyanawa Subgroup > Nukuini"
 wikipedia_url: "https://en.wikipedia.org/wiki/Nukini_language"
 translations:
+  - translation_iso: jpn
+    name: ヌクイニ語
+    auto: true
   - translation_iso: zho
     name: 努库伊尼语
     auto: true

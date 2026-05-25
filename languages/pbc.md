@@ -14,6 +14,9 @@ glottolog_family_id: cari1283
 glottolog_family_name: Cariban
 glottolog_classification: "Cariban > Venezuelan Cariban > Pemong-Panare > Pemongan > Kapong > Patamona"
 translations:
+  - translation_iso: jpn
+    name: パタモナ語
+    auto: true
   - translation_iso: zho
     name: 帕塔蒙纳语
     auto: true

@@ -9,6 +9,9 @@ status_id: 6a
 latitude: -1.39085
 longitude: 24.00506
 translations:
+  - translation_iso: jpn
+    name: ケラ語
+    auto: true
   - translation_iso: zho
     name: 凯拉语
     auto: true

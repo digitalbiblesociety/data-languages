@@ -10,6 +10,9 @@ status_id: null
 translations:
   - translation_iso: hin
     name: प्राचीन मणिपुरी भाषा
+  - translation_iso: jpn
+    name: 古マニプリ語
+    auto: true
   - translation_iso: zho
     name: 古曼尼普尔语
     auto: true

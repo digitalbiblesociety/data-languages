@@ -14,6 +14,9 @@ glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Burmo-Qiangic > Lolo-Burmese > Loloish > Lahoid > Lahu Shi"
 translations:
+  - translation_iso: jpn
+    name: ラフ・シ語
+    auto: true
   - translation_iso: zho
     name: 拉胡施语
     auto: true

@@ -14,6 +14,9 @@ glottolog_family_name: Sepik
 glottolog_classification: "Sepik > Sepik Tama > Mayo-Pasi > Yimin-Bel > Kalou"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kalou_language"
 translations:
+  - translation_iso: jpn
+    name: カロウ語
+    auto: true
   - translation_iso: zho
     name: 卡劳语
     auto: true

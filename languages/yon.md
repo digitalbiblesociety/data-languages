@@ -15,6 +15,9 @@ glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Asmat-Awyu-Ok > Awyu-Ok > Ok-Oksapmin > Ok > Lowland Ok > Division A Lowland Ok > Yonggom"
 wikipedia_url: "https://en.wikipedia.org/wiki/Yonggom_language"
 translations:
+  - translation_iso: jpn
+    name: ヨングコム語
+    auto: true
   - translation_iso: zho
     name: 永科姆语
     auto: true

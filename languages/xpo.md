@@ -15,6 +15,9 @@ glottolog_family_name: Uto-Aztecan
 glottolog_classification: "Uto-Aztecan > Southern Uto-Aztecan > Corachol-Aztecan > Aztec > Pochutec"
 wikipedia_url: "https://en.wikipedia.org/wiki/Pochutec_language"
 translations:
+  - translation_iso: jpn
+    name: ポチュテク語
+    auto: true
   - translation_iso: zho
     name: 波楚特克语
     auto: true

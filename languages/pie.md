@@ -17,6 +17,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Piro_Pueblo_language"
 translations:
   - translation_iso: hin
     name: पीरो भाषा
+  - translation_iso: jpn
+    name: ピロ語
+    auto: true
   - translation_iso: zho
     name: 皮罗语
     auto: true

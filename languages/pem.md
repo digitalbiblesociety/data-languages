@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > Central-Western Bantu > Njila > Northern Njila > Mbala-Holu-Sondi (K.10) > Holu (K.10) > Pheende-Kwezo > Phende"
 wikipedia_url: "https://en.wikipedia.org/wiki/Pende_language"
 translations:
+  - translation_iso: jpn
+    name: フェンデ語
+    auto: true
   - translation_iso: zho
     name: 芬德语
     auto: true

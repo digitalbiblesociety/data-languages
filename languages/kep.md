@@ -15,6 +15,9 @@ glottolog_family_name: Dravidian
 glottolog_classification: "Dravidian > South Dravidian > South Dravidian I > Tamil-Kannada > Tamil-Kota > Tamil-Toda > Tamil-Irula > Tamil-Kodagu > Tamil-Malayalam > Tamiloid > Yerukula-Korava-Kaikadi > Kaikadi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kaikadi_language"
 translations:
+  - translation_iso: jpn
+    name: カイカディ語
+    auto: true
   - translation_iso: zho
     name: 凯卡迪语
     auto: true

@@ -14,6 +14,9 @@ glottolog_family_name: Lakes Plain
 glottolog_classification: "Lakes Plain > Far West Lakes Plain > Rasawa-Saponi > Saponi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Saponi_language"
 translations:
+  - translation_iso: jpn
+    name: バハササポニ語
+    auto: true
   - translation_iso: zho
     name: 萨波尼语
     auto: true

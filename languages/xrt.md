@@ -14,6 +14,9 @@ glottolog_family_name: Unclassifiable
 glottolog_classification: "Unclassifiable > Aranama"
 wikipedia_url: "https://en.wikipedia.org/wiki/Aranama_language"
 translations:
+  - translation_iso: jpn
+    name: アラナマ・タミーク語
+    auto: true
   - translation_iso: zho
     name: 阿拉纳马-塔米克语
     auto: true

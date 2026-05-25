@@ -15,6 +15,9 @@ glottolog_family_name: Otomanguean
 glottolog_classification: "Otomanguean > Eastern Otomanguean > Amuzgo-Mixtecan > Mixtecan > Mixtec-Cuicatec > Mixtec > Western Alta Mixtec > Tlaxiacic > Tacahua-Yolotepec Mixtec"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tacahua_Mixtec"
 translations:
+  - translation_iso: jpn
+    name: タカフア・ミステク語
+    auto: true
   - translation_iso: zho
     name: 塔卡瓦-米斯特克语
     auto: true

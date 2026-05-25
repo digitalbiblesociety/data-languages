@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Nunusaku > Three Rivers > Amalumute > Northwest Seram > Lisabata-Nuniali"
 wikipedia_url: "https://en.wikipedia.org/wiki/Lisabata_language"
 translations:
+  - translation_iso: jpn
+    name: リサバタ・ヌニアリ語
+    auto: true
   - translation_iso: zho
     name: 利萨巴塔-努尼亚利语
     auto: true

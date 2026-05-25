@@ -14,6 +14,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Akpes-Edoid > Edoid > Northwestern Edoid > Igwic > Ikpeshic > Ivbie North-Okpela-Arhe"
 wikipedia_url: "https://en.wikipedia.org/wiki/Okpela_language"
 translations:
+  - translation_iso: jpn
+    name: イヴビエ北オクペラアーエ語
+    auto: true
   - translation_iso: zho
     name: 伊夫比北-奥克佩拉-阿尔赫语
     auto: true

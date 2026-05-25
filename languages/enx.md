@@ -15,6 +15,9 @@ glottolog_family_name: Lengua-Mascoy
 glottolog_classification: "Lengua-Mascoy > Lengua > Enxet Sur"
 wikipedia_url: "https://en.wikipedia.org/wiki/Enxet_language"
 translations:
+  - translation_iso: jpn
+    name: エンシェット語
+    auto: true
   - translation_iso: zho
     name: 恩克塞特语
     auto: true

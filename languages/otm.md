@@ -15,6 +15,9 @@ glottolog_family_name: Otomanguean
 glottolog_classification: "Otomanguean > Western Otomanguean > Otopame-Chinantecan > Otopamean > Otomian > Otomi > Eastern Otomi > Eastern Highland Otomi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Sierra_Otomi"
 translations:
+  - translation_iso: jpn
+    name: 東部高地オトミ語
+    auto: true
   - translation_iso: zho
     name: 东高地奥托米语
     auto: true

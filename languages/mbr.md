@@ -15,6 +15,9 @@ glottolog_family_name: Kakua-Nukak
 glottolog_classification: "Kakua-Nukak > Nukak Makú"
 wikipedia_url: "https://en.wikipedia.org/wiki/Nukak_language"
 translations:
+  - translation_iso: jpn
+    name: ヌクアク・マク語
+    auto: true
   - translation_iso: zho
     name: 努卡克马库语
     auto: true

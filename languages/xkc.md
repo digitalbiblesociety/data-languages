@@ -17,6 +17,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Kho%27ini_dialect"
 translations:
   - translation_iso: hin
     name: kho kho objeet
+  - translation_iso: jpn
+    name: ホイーニ語
+    auto: true
   - translation_iso: zho
     name: 克霍伊尼语
     auto: true

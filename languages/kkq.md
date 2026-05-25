@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > Central-Western Bantu > North Zaire River > Rivers Bantu > Ngiri > Ngiri Terrien > Ngombe-Ababuan > Ababuan > Old Bomokandian > Komoic > Bilaic > Bila-Kaiku > Kaiku"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kaiku_language"
 translations:
+  - translation_iso: jpn
+    name: カイク語
+    auto: true
   - translation_iso: zho
     name: 凯库语
     auto: true

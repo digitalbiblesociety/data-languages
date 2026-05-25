@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Northern Bantoid > Mambiloid > Nizaa-Mambila-Vute > Konja-Mambila-Vute > Mambila-Vute > Mambila-Mbongno > Mbongno-Mvano > Mbongno"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kamkam_language"
 translations:
+  - translation_iso: jpn
+    name: ムボンノ語
+    auto: true
   - translation_iso: zho
     name: 姆邦格诺语
     auto: true

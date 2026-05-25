@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Central Luzon > Sambalic > Ambala Ayta"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ambala_language"
 translations:
+  - translation_iso: jpn
+    name: アンバラアイタ語
+    auto: true
   - translation_iso: zho
     name: 安巴拉艾塔语
     auto: true

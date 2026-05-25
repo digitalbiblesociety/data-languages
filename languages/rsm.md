@@ -14,6 +14,9 @@ glottolog_family_name: Sign Language
 glottolog_classification: "Sign Language > L1 Sign Language > Miriwoong Sign Language"
 wikipedia_url: "https://en.wikipedia.org/wiki/Miriwoong_Sign_Language"
 translations:
+  - translation_iso: jpn
+    name: ミリウォング手話
+    auto: true
   - translation_iso: zho
     name: 米里乌恩格手语
     auto: true

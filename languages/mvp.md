@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Greater South Sulawesi > South Sulawesi > Northern South Sulawesi > Toraja-Duri > Duri"
 wikipedia_url: "https://en.wikipedia.org/wiki/Duri_language"
 translations:
+  - translation_iso: jpn
+    name: ドゥリ語
+    auto: true
   - translation_iso: zho
     name: 杜里语
 ---

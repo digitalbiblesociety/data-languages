@@ -15,6 +15,9 @@ glottolog_family_name: Tupian
 glottolog_classification: "Tupian > Eastern Tupian > Maweti-Guarani > Sateré-Mawé"
 wikipedia_url: "https://en.wikipedia.org/wiki/Maw%C3%A9_language"
 translations:
+  - translation_iso: jpn
+    name: サテレ・マウェ語
+    auto: true
   - translation_iso: zho
     name: 萨特雷-马韦语
     auto: true

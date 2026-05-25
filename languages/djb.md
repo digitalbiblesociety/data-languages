@@ -15,6 +15,9 @@ glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > Yuulngu > Western-Inland Yolngu > Djinba"
 wikipedia_url: "https://en.wikipedia.org/wiki/Djinba_language"
 translations:
+  - translation_iso: jpn
+    name: ジインバ語
+    auto: true
   - translation_iso: zho
     name: 詹巴语
     auto: true

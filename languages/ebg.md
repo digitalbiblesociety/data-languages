@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Delta Cross > Lower Cross > Nuclear Lower Cross > West Lower Cross > Oroic > Ebughu-Oro > Ebughu"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ebughu_language"
 translations:
+  - translation_iso: jpn
+    name: エブグ語
+    auto: true
   - translation_iso: zho
     name: 埃布古语
     auto: true

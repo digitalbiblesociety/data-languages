@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > North Mangyan > Tadyawan"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tadyawan_language"
 translations:
+  - translation_iso: jpn
+    name: タディャワン語
+    auto: true
   - translation_iso: zho
     name: 塔迪亚万语
     auto: true

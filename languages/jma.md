@@ -15,6 +15,9 @@ glottolog_family_name: Dagan
 glottolog_classification: "Dagan > Central Dagan > Dima"
 wikipedia_url: "https://en.wikipedia.org/wiki/Dima_language"
 translations:
+  - translation_iso: jpn
+    name: ディマ語
+    auto: true
   - translation_iso: zho
     name: 迪玛语
     auto: true

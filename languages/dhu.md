@@ -15,6 +15,9 @@ glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > Southeastern Pama-Nyungan > New South Wales Pama-Nyungan > Yuin-Kuri > Yuin > Northern Costal Yuin > Dhurga"
 wikipedia_url: "https://en.wikipedia.org/wiki/Dhurga_language"
 translations:
+  - translation_iso: jpn
+    name: ドゥルガ語
+    auto: true
   - translation_iso: zho
     name: 杜尔加语
     auto: true

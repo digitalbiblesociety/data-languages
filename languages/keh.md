@@ -15,6 +15,9 @@ glottolog_family_name: Ndu
 glottolog_classification: "Ndu > Nuclear Ndu > Sawosic > Iatmulic > Keak"
 wikipedia_url: "https://en.wikipedia.org/wiki/Keak_language"
 translations:
+  - translation_iso: jpn
+    name: キーク語
+    auto: true
   - translation_iso: zho
     name: 克亚克语
     auto: true

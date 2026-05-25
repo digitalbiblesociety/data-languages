@@ -14,6 +14,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > North and Central Vanuatu > Northern Vanuatu > Espiritu Santo > Nuclear Santo > South Santo > Aore"
 wikipedia_url: "https://en.wikipedia.org/wiki/Aore_language"
 translations:
+  - translation_iso: jpn
+    name: アオレ語
+    auto: true
   - translation_iso: zho
     name: 阿奥瑞语
     auto: true

@@ -15,6 +15,9 @@ glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Germanic > Northwest Germanic > West Germanic > North Sea Germanic > Anglo-Frisian > Anglic > Later Anglic > Middle-Modern English > Macro-English > Guinea Coast Creole English > Caribbean English Creole > Western Caribbean Creole > Miskitoic Creole English > Belize-Miskito Creole English > Nicaragua Creole English"
 wikipedia_url: "https://en.wikipedia.org/wiki/Miskito_Coast_Creole"
 translations:
+  - translation_iso: jpn
+    name: ニカラグア・クレオール・イングリッシュ語
+    auto: true
   - translation_iso: zho
     name: 蚊子海岸克里奧爾語
 rolv_dialects:

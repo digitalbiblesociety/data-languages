@@ -15,6 +15,9 @@ glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Brahmaputran > Bodo-Garo > Boroic > Dimasa-Kokborok > Tipperic > Usui"
 wikipedia_url: "https://en.wikipedia.org/wiki/Usui_language"
 translations:
+  - translation_iso: jpn
+    name: トリプラ語
+    auto: true
   - translation_iso: zho
     name: 乌苏伊语
     auto: true

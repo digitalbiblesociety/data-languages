@@ -14,6 +14,9 @@ glottolog_family_id: worr1236
 glottolog_family_name: Worrorran
 glottolog_classification: "Worrorran > Northern Worrorran > Wilawila"
 translations:
+  - translation_iso: jpn
+    name: ウィラウィラ語
+    auto: true
   - translation_iso: zho
     name: 威拉威拉语
     auto: true

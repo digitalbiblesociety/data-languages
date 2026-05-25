@@ -14,6 +14,9 @@ glottolog_family_id: utoa1244
 glottolog_family_name: Uto-Aztecan
 glottolog_classification: "Uto-Aztecan > Southern Uto-Aztecan > Corachol-Aztecan > Aztec > Eastern Nahuatl > Sierra de Puebla Nahuatl > Sierra Negra Nahuatl"
 translations:
+  - translation_iso: jpn
+    name: シエラネグラ・ナワトル語
+    auto: true
   - translation_iso: zho
     name: 内格拉山纳瓦特尔语
     auto: true

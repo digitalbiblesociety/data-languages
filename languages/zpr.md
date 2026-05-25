@@ -15,6 +15,9 @@ glottolog_family_name: Otomanguean
 glottolog_classification: "Otomanguean > Eastern Otomanguean > Popoloca-Zapotecan > Zapotecan > Zapotec > Core Zapotec > Narrow Core Zapotec > Central Core Zapotec > Cisyautepequeño > Santiago Xanica Zapotec"
 wikipedia_url: "https://en.wikipedia.org/wiki/X%C3%A1nica_Zapotec"
 translations:
+  - translation_iso: jpn
+    name: サンティアゴ・サニカ・サポテク語
+    auto: true
   - translation_iso: zho
     name: 圣地亚哥哈尼卡萨波特克语
     auto: true

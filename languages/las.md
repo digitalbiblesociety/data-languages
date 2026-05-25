@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Gur > Central Gur > Southern Central Gur > Grusi > East-West Grusi > Eastern Grusi > Kabiyeic > Lama (Togo)"
 wikipedia_url: "https://en.wikipedia.org/wiki/Lama_language"
 translations:
+  - translation_iso: jpn
+    name: ラマ語
+    auto: true
   - translation_iso: zho
     name: 拉玛语(多哥)
     auto: true

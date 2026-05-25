@@ -16,6 +16,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Defoid > Yoruboid > Edekiri > Ede > Western Ede > Southwestern Ede > Ifè"
 wikipedia_url: "https://en.wikipedia.org/wiki/If%C3%A8_language"
 translations:
+  - translation_iso: jpn
+    name: イフェ語
+    auto: true
   - translation_iso: zho
     name: 伊费语
     auto: true

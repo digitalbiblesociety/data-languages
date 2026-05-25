@@ -14,6 +14,9 @@ glottolog_family_id: otom1299
 glottolog_family_name: Otomanguean
 glottolog_classification: "Otomanguean > Western Otomanguean > Otopame-Chinantecan > Otopamean > Otomian > Mazahua > Michoacán Mazahua"
 translations:
+  - translation_iso: jpn
+    name: ミチョアカン・マサウア語
+    auto: true
   - translation_iso: zho
     name: 米却阿肯玛萨瓦语
     auto: true

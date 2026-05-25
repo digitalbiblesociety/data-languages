@@ -14,6 +14,9 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Aru > Ujir-Kola-Kompane > Kola-Kompane > Kompane"
 translations:
+  - translation_iso: jpn
+    name: コンパネ語
+    auto: true
   - translation_iso: zho
     name: 孔帕内语
     auto: true

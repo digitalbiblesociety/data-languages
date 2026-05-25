@@ -14,6 +14,9 @@ glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > Arandic-Thura-Yura > Thura-Yura > Core Thura Yura > Unclassified Core Thura-Yura > Nauo"
 wikipedia_url: "https://en.wikipedia.org/wiki/Nauo_language"
 translations:
+  - translation_iso: jpn
+    name: ナウオ語
+    auto: true
   - translation_iso: zho
     name: 瑙奥语
     auto: true

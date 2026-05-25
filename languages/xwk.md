@@ -8,6 +8,9 @@ country_name: Australia
 status_id: 8a
 wikipedia_url: "https://en.wikipedia.org/wiki/Wilson_River_language"
 translations:
+  - translation_iso: jpn
+    name: ワングクマラ語
+    auto: true
   - translation_iso: zho
     name: Wangkumara语
 ---

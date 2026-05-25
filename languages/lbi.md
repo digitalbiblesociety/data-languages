@@ -15,6 +15,9 @@ glottolog_family_name: Speech Register
 glottolog_classification: "Speech Register > Atlantic-Congo Speech Register > La'bi"
 wikipedia_url: "https://en.wikipedia.org/wiki/La%CA%BCbi_language"
 translations:
+  - translation_iso: jpn
+    name: ラビ語
+    auto: true
   - translation_iso: zho
     name: 拉比语
     auto: true

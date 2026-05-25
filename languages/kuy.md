@@ -14,6 +14,9 @@ glottolog_family_id: pama1250
 glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > Paman > Compromise Middle Pama > Northeastern Pama > Umpilaic > Kuuku-Ya'u"
 translations:
+  - translation_iso: jpn
+    name: クク・ヤウ語
+    auto: true
   - translation_iso: zho
     name: 库库-亚乌语
     auto: true

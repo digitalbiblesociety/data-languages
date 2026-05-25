@@ -15,6 +15,9 @@ glottolog_family_name: Nuclear Torricelli
 glottolog_classification: "Nuclear Torricelli > Wapei-Palei > West Palai > Agi-Yeri > Yeri"
 wikipedia_url: "https://en.wikipedia.org/wiki/Yapunda_language"
 translations:
+  - translation_iso: jpn
+    name: ヤプンダ語
+    auto: true
   - translation_iso: zho
     name: 亚普达语
     auto: true

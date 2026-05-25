@@ -15,6 +15,9 @@ glottolog_family_name: Hibito-Cholon
 glottolog_classification: "Hibito-Cholon > Hibito"
 wikipedia_url: "https://en.wikipedia.org/wiki/H%C3%ADbito_language"
 translations:
+  - translation_iso: jpn
+    name: ヒビト語
+    auto: true
   - translation_iso: zho
     name: 希维托语
 ---

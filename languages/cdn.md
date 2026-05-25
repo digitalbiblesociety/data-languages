@@ -17,6 +17,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Chaudangsi_language"
 translations:
   - translation_iso: hin
     name: चौडांगसी भाषा
+  - translation_iso: jpn
+    name: チャウダングシ語
+    auto: true
   - translation_iso: zho
     name: 乔当西语
     auto: true

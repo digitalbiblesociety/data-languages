@@ -13,6 +13,9 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Cameroun-Ubangian > Central Adamawa > Mumuye-Yandang > Yandangic > Bali-Kpasam > Yotti"
 translations:
+  - translation_iso: jpn
+    name: ヨッティ語
+    auto: true
   - translation_iso: zho
     name: 约蒂语
     auto: true

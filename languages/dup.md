@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Malayo-Chamic > Malayic > Duano"
 wikipedia_url: "https://en.wikipedia.org/wiki/Duano%CA%BC_language"
 translations:
+  - translation_iso: jpn
+    name: ドゥアノ語
+    auto: true
   - translation_iso: zho
     name: 杜阿诺语
     auto: true

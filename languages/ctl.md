@@ -14,6 +14,9 @@ glottolog_family_id: otom1299
 glottolog_family_name: Otomanguean
 glottolog_classification: "Otomanguean > Western Otomanguean > Otopame-Chinantecan > Chinantecan > Central-Eastern Chinantec > Northwestern Chinantec > Chinantec Group I > Tlacoatzintepec-Chiltepec > Tlacoatzintepec Chinantec"
 translations:
+  - translation_iso: jpn
+    name: トラコアツィンテペク・チナンテク語
+    auto: true
   - translation_iso: zho
     name: 特拉科阿特林特佩克奇南特克语
     auto: true

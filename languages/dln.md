@@ -16,6 +16,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Darlong_language"
 translations:
   - translation_iso: hin
     name: दार्लोंग भाषा
+  - translation_iso: jpn
+    name: ダルロング語
+    auto: true
   - translation_iso: zho
     name: 达隆语
     auto: true

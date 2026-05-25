@@ -17,6 +17,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Nubri_language"
 translations:
   - translation_iso: hin
     name: नुबरी भाषा
+  - translation_iso: jpn
+    name: ヌブリ語
+    auto: true
   - translation_iso: zho
     name: 努布里语
     auto: true

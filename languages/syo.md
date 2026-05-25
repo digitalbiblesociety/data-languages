@@ -15,6 +15,9 @@ glottolog_family_name: Austroasiatic
 glottolog_classification: "Austroasiatic > Pearic > Western Pearic > Southern Chong > Suoy"
 wikipedia_url: "https://en.wikipedia.org/wiki/Suoy_language"
 translations:
+  - translation_iso: jpn
+    name: スオイ語
+    auto: true
   - translation_iso: zho
     name: 绥语
 ---

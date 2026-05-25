@@ -14,6 +14,9 @@ glottolog_family_name: Sepik
 glottolog_classification: "Sepik > Sepik Hill > Central-Eastern Sepik Hill > Central Sepik Hill > Nuclear Central Sepik Hill > Mari-Bisis > Bisis"
 wikipedia_url: "https://en.wikipedia.org/wiki/Bisis_language"
 translations:
+  - translation_iso: jpn
+    name: ビシス語
+    auto: true
   - translation_iso: zho
     name: 比西斯语
     auto: true

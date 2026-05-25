@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Malayo-Chamic > Malayic > Nuclear Malayic > Northern Sumatra Malay > Kerinci-Minangkabau > Minangkabauic > Lubu"
 wikipedia_url: "https://en.wikipedia.org/wiki/Lubu_language"
 translations:
+  - translation_iso: jpn
+    name: ルブ語
+    auto: true
   - translation_iso: zho
     name: 卢布语
 ---

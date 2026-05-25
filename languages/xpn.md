@@ -15,6 +15,9 @@ glottolog_family_name: Unclassifiable
 glottolog_classification: "Unclassifiable > Kapinawá"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kapinaw%C3%A1_language"
 translations:
+  - translation_iso: jpn
+    name: カピナワ語
+    auto: true
   - translation_iso: zho
     name: 卡皮纳瓦语
     auto: true

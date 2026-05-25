@@ -15,6 +15,9 @@ glottolog_family_name: Unattested
 glottolog_classification: "Unattested > Atlantic-Congo (Unattested) > Ruma"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ruma_language"
 translations:
+  - translation_iso: jpn
+    name: ツルマ語
+    auto: true
   - translation_iso: zho
     name: 鲁玛语
     auto: true

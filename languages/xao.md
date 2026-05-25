@@ -10,6 +10,9 @@ latitude: 21.45432
 longitude: 103.46701
 wikipedia_url: "https://en.wikipedia.org/wiki/Khao_language"
 translations:
+  - translation_iso: jpn
+    name: カオ語
+    auto: true
   - translation_iso: zho
     name: 卡奥语
     auto: true

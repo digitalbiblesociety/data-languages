@@ -14,6 +14,9 @@ glottolog_family_id: timo1261
 glottolog_family_name: Timor-Alor-Pantar
 glottolog_classification: "Timor-Alor-Pantar > Alor-Pantar > Nuclear Alor-Pantar > West Alor-Straits-Pantar > West Alor > Kabola"
 translations:
+  - translation_iso: jpn
+    name: カボラ語
+    auto: true
   - translation_iso: zho
     name: 卡博拉语
     auto: true

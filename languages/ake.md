@@ -14,6 +14,9 @@ glottolog_family_id: cari1283
 glottolog_family_name: Cariban
 glottolog_classification: "Cariban > Venezuelan Cariban > Pemong-Panare > Pemongan > Kapong > Akawaio-Ingariko"
 translations:
+  - translation_iso: jpn
+    name: アカワイオ語
+    auto: true
   - translation_iso: zho
     name: 阿卡瓦约语
     auto: true

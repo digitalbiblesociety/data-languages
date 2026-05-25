@@ -15,6 +15,9 @@ glottolog_family_name: Ramu
 glottolog_classification: "Ramu > Lower Ramu > Ruboni > Kire"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kire_language"
 translations:
+  - translation_iso: jpn
+    name: キレ語
+    auto: true
   - translation_iso: zho
     name: 基雷语
     auto: true

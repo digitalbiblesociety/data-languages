@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Gur > Central Gur > Northern Central Gur > Bwamu-Oti-Volta > Oti-Volta > Nuclear Oti-Volta > Oti-Volta Oriental > Biali"
 wikipedia_url: "https://en.wikipedia.org/wiki/Berba_language"
 translations:
+  - translation_iso: jpn
+    name: ビアリ語
+    auto: true
   - translation_iso: zho
     name: 比亚利语
     auto: true

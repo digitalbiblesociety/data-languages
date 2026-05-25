@@ -15,6 +15,9 @@ glottolog_family_name: Tai-Kadai
 glottolog_classification: "Tai-Kadai > Kadaic > Southwestern Kra > Western Kra > Gauic > Gelaoic > Southwestern Gelao > Duoluo Gelao"
 wikipedia_url: "https://en.wikipedia.org/wiki/Telue_language"
 translations:
+  - translation_iso: jpn
+    name: ホワイト・ゲラオ語
+    auto: true
   - translation_iso: zho
     name: 白仡佬语
 rolv_dialects:

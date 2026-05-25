@@ -15,6 +15,9 @@ glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Cushitic > Agaw > Northern-Eastern-Western Agaw > Northeastern Agaw > Xamtanga"
 wikipedia_url: "https://en.wikipedia.org/wiki/Xamtanga_language"
 translations:
+  - translation_iso: jpn
+    name: シャムタンガ語
+    auto: true
   - translation_iso: zho
     name: 沙姆坦加语
     auto: true

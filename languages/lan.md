@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Kainji > Kainji Lake > Upper Niger Kainji > Laru (Nigeria)"
 wikipedia_url: "https://en.wikipedia.org/wiki/Laru_language"
 translations:
+  - translation_iso: jpn
+    name: ラル語
+    auto: true
   - translation_iso: zho
     name: 拉鲁语
     auto: true

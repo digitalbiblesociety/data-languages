@@ -15,6 +15,9 @@ glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > East Chadic > East Chadic A > East Chadic A.1 > Sumrayic > Ndam-Tumak > Mire"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mire_language"
 translations:
+  - translation_iso: jpn
+    name: ムルギ語
+    auto: true
   - translation_iso: zho
     name: 穆尔吉语
     auto: true

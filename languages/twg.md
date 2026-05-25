@@ -15,6 +15,9 @@ glottolog_family_name: Timor-Alor-Pantar
 glottolog_classification: "Timor-Alor-Pantar > Alor-Pantar > Nuclear Alor-Pantar > West Alor-Straits-Pantar > Kaera-Straits > Blagaric > Tereweng"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tereweng_language"
 translations:
+  - translation_iso: jpn
+    name: テレウェング語
+    auto: true
   - translation_iso: zho
     name: 特雷温语
     auto: true

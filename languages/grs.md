@@ -15,6 +15,9 @@ glottolog_family_name: Nimboranic
 glottolog_classification: "Nimboranic > Outer Nimboranic > Mlap-Gresi-Kemtuik > Gresi-Kemtuik > Gresi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Gresi_language"
 translations:
+  - translation_iso: jpn
+    name: グレシ語
+    auto: true
   - translation_iso: zho
     name: 格雷西语
     auto: true

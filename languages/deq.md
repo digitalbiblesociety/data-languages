@@ -14,6 +14,9 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Cameroun-Ubangian > Ubangi > Ngbandi-Mongoba-Kazibati > Ngbandic > Nuclear Ngbandic > Dendi (Central African Republic)"
 translations:
+  - translation_iso: jpn
+    name: デンディ語
+    auto: true
   - translation_iso: zho
     name: 邓迪语
     auto: true

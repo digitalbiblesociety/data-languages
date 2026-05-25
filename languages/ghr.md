@@ -15,6 +15,9 @@ glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Indo-Aryan > Middle-Modern Indo-Aryan > Continental Indo-Aryan > Midlands Indo-Aryan > Shaurasenic > Indo-Aryan Central zone > Western Hindi > Unclassified Western Hindi > Ghera-Gurgula > Ghera"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ghera_language"
 translations:
+  - translation_iso: jpn
+    name: ゲラ語
+    auto: true
   - translation_iso: zho
     name: 格拉语
     auto: true

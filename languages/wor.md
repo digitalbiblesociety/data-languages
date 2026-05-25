@@ -15,6 +15,9 @@ glottolog_family_name: Geelvink Bay
 glottolog_classification: "Geelvink Bay > Woria"
 wikipedia_url: "https://en.wikipedia.org/wiki/Woria_language"
 translations:
+  - translation_iso: jpn
+    name: ウォリア語
+    auto: true
   - translation_iso: zho
     name: 沃里亚语
     auto: true

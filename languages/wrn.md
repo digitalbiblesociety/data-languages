@@ -17,6 +17,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Warnang_language"
 translations:
   - translation_iso: ara
     name: لغة ويرني
+  - translation_iso: jpn
+    name: ワルナン語
+    auto: true
   - translation_iso: zho
     name: 瓦尔南语
     auto: true

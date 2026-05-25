@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Malayo-Chamic > Malayic > Nuclear Malayic > Greater Riau-Johoric > Balinese Malay"
 wikipedia_url: "https://en.wikipedia.org/wiki/Balinese_Malay"
 translations:
+  - translation_iso: jpn
+    name: バリ・マレー語
+    auto: true
   - translation_iso: zho
     name: 巴厘马来语
     auto: true

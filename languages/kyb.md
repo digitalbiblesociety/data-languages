@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Northern Luzon > Meso-Cordilleran > South-Central Cordilleran > Central Cordilleran > Kalinga-Itneg > Kalinga > Central and South Kalinga > South Kalinga > Butbut Kalinga"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kalinga_Butbut_language"
 translations:
+  - translation_iso: jpn
+    name: ブットブット・カリンガ語
+    auto: true
   - translation_iso: zho
     name: 布特布特卡林加语
     auto: true

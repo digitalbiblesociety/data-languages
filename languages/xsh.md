@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Benue-Congo Plateau > West-Central Benue-Congo Plateau > Northwestern Benue-Congo Plateau > Hyamic > Shamang"
 wikipedia_url: "https://en.wikipedia.org/wiki/Shamang_language"
 translations:
+  - translation_iso: jpn
+    name: シャマング語
+    auto: true
   - translation_iso: zho
     name: 沙芒语
     auto: true

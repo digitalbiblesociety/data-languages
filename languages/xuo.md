@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Cameroun-Ubangian > Mbumic > Central Mbum > Kuo"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kuo_language"
 translations:
+  - translation_iso: jpn
+    name: クオ語
+    auto: true
   - translation_iso: zho
     name: 库奥语
     auto: true

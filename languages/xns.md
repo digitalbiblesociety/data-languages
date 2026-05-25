@@ -17,6 +17,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Kanashi_language"
 translations:
   - translation_iso: hin
     name: कनाशी भाषा
+  - translation_iso: jpn
+    name: カナシ語
+    auto: true
   - translation_iso: zho
     name: 卡納西語
 ---

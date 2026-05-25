@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > Papuan Tip linkage > Nuclear Papuan Tip linkage > North Papuan Mainland-D'Entrecasteaux linkage > Bwaidoga linkage > Bwaidoka-Iduna > Iduna"
 wikipedia_url: "https://en.wikipedia.org/wiki/Iduna_language"
 translations:
+  - translation_iso: jpn
+    name: ヴィヴィガニ語
+    auto: true
   - translation_iso: zho
     name: 伊都纳语
     auto: true

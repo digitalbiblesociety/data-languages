@@ -14,6 +14,9 @@ glottolog_family_name: Walioic
 glottolog_classification: "Walioic > Yawiyo"
 wikipedia_url: "https://en.wikipedia.org/wiki/Yawiyo_language"
 translations:
+  - translation_iso: jpn
+    name: ヤウィヨ語
+    auto: true
   - translation_iso: zho
     name: 亚威约语
     auto: true

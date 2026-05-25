@@ -17,6 +17,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Raji_language"
 translations:
   - translation_iso: hin
     name: राजी भाषा
+  - translation_iso: jpn
+    name: ラジ語
+    auto: true
   - translation_iso: zho
     name: 拉吉语
     auto: true

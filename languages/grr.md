@@ -15,6 +15,9 @@ glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Berber > Greater Zenatic > Zenatic > Northern Saharan Oasis Berber > Sud Oranais-Gourara"
 translations:
+  - translation_iso: jpn
+    name: タズナティト語
+    auto: true
   - translation_iso: zho
     name: 塔兹纳蒂特语
     auto: true

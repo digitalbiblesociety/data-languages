@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Cangin > Saafi-Noon-Lehar > Saafi-Saafi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Safen_language"
 translations:
+  - translation_iso: jpn
+    name: サアフィサアフィ語
+    auto: true
   - translation_iso: zho
     name: 萨菲-萨菲语
     auto: true

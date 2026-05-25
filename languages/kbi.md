@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > North New Guinea linkage > Sarmi-Jayapura Bay > Sarmi > Kaptiau-Tarpia > Kaptiau"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kaptiau_language"
 translations:
+  - translation_iso: jpn
+    name: カプティアウ語
+    auto: true
   - translation_iso: zho
     name: 卡普蒂奥语
     auto: true

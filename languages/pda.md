@@ -14,6 +14,9 @@ glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Madang > Kalamic-South Adelbert > South Adelbert > Osum-Wadaginam-Pomoikan > Pomoikan > Anam"
 wikipedia_url: "https://en.wikipedia.org/wiki/Anam_language"
 translations:
+  - translation_iso: jpn
+    name: アナム語
+    auto: true
   - translation_iso: zho
     name: 阿纳姆语
     auto: true

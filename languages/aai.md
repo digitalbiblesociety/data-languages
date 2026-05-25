@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > Papuan Tip linkage > Nuclear Papuan Tip linkage > North Papuan Mainland-D'Entrecasteaux linkage > Are-Taupota linkage > Are linkage > Arifama-Miniafia"
 wikipedia_url: "https://en.wikipedia.org/wiki/Arifama-Miniafia_language"
 translations:
+  - translation_iso: jpn
+    name: アリファマミニアフィア語
+    auto: true
   - translation_iso: zho
     name: 阿里法玛-米尼亚菲亚语
     auto: true

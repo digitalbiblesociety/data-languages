@@ -15,6 +15,9 @@ glottolog_family_name: Pahoturi
 glottolog_classification: "Pahoturi > Idi-Taeme"
 wikipedia_url: "https://en.wikipedia.org/wiki/Idi_language"
 translations:
+  - translation_iso: jpn
+    name: イディ語
+    auto: true
   - translation_iso: zho
     name: 伊地语
     auto: true

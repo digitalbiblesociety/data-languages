@@ -15,6 +15,9 @@ glottolog_family_name: Ndu
 glottolog_classification: "Ndu > Nuclear Ndu > Manambu-Yalaku > Yalaku"
 wikipedia_url: "https://en.wikipedia.org/wiki/Yelogu_language"
 translations:
+  - translation_iso: jpn
+    name: イェログ語
+    auto: true
   - translation_iso: zho
     name: 耶洛古语
     auto: true

@@ -15,6 +15,9 @@ glottolog_family_name: Pidgin
 glottolog_classification: "Pidgin > Onin-based pidgin > Onin Pidgin"
 wikipedia_url: "https://en.wikipedia.org/wiki/Onin_Based_Pidgin"
 translations:
+  - translation_iso: jpn
+    name: オニン系ピジン語
+    auto: true
   - translation_iso: zho
     name: 翁因衍基皮钦语
     auto: true

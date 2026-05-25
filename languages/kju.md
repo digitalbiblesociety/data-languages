@@ -15,6 +15,9 @@ glottolog_family_name: Pomoan
 glottolog_classification: "Pomoan > Russian River and Eastern > Russian River > Southern Pomoan-Kashaya > Kashaya"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kashaya_language"
 translations:
+  - translation_iso: jpn
+    name: カシャヤ語
+    auto: true
   - translation_iso: zho
     name: 卡沙牙波莫语
 ---

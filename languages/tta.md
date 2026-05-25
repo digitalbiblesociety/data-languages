@@ -15,6 +15,9 @@ glottolog_family_name: Siouan
 glottolog_classification: "Siouan > Ohio Valley Siouan > Tutelo"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tutelo_language"
 translations:
+  - translation_iso: jpn
+    name: イェサーサハ語
+    auto: true
   - translation_iso: zho
     name: 圖特盧語
 ---

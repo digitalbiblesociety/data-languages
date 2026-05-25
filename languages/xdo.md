@@ -13,6 +13,9 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > Central-Western Bantu > Njila > Southern Njila > Kunene > Cimbebasia > Kwandu"
 translations:
+  - translation_iso: jpn
+    name: クワンドゥ語
+    auto: true
   - translation_iso: zho
     name: 克万都语
     auto: true

@@ -14,6 +14,9 @@ glottolog_family_id: mand1469
 glottolog_family_name: Mande
 glottolog_classification: "Mande > Western Mande > Northwestern Mande > Soninke-Bozo > Bozo > Nuclear Bozo > Ti-Bozo > Tiéyaxo Bozo"
 translations:
+  - translation_iso: jpn
+    name: ティエヤキソ・ボゾ語
+    auto: true
   - translation_iso: zho
     name: 蒂埃亚克索博佐语
     auto: true

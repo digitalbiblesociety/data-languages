@@ -14,6 +14,9 @@ glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Iranian-Nuristani > Iranian > Central Iranian PBS > Central Iranian PB > Northwestern Iranian > Adharic > Tatic > Southern Tatic > Ramand-Karaj > Eshtehardi"
 translations:
+  - translation_iso: jpn
+    name: エシュテハルディ語
+    auto: true
   - translation_iso: zho
     name: 埃什特哈尔迪语
     auto: true

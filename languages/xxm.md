@@ -11,6 +11,9 @@ longitude: 139.541931
 glottocode: mink1237
 wikipedia_url: "https://en.wikipedia.org/wiki/Minkin_language"
 translations:
+  - translation_iso: jpn
+    name: ミンキン語
+    auto: true
   - translation_iso: zho
     name: 闽金语
     auto: true

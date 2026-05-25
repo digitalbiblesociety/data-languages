@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Central Luzon > Sambalic > Abellen-Botolan > Abenlen Ayta"
 wikipedia_url: "https://en.wikipedia.org/wiki/Abellen_language"
 translations:
+  - translation_iso: jpn
+    name: アベレンアイタ語
+    auto: true
   - translation_iso: zho
     name: 阿贝伦艾塔语
     auto: true

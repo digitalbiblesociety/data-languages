@@ -14,6 +14,9 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Timor-Babar > Lakalei-Idate > Idaté"
 translations:
+  - translation_iso: jpn
+    name: イダテ語
+    auto: true
   - translation_iso: zho
     name: 伊达特语
     auto: true

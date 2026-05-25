@@ -9,6 +9,9 @@ status_id: 6a
 latitude: -5.94252
 longitude: -46.75038
 translations:
+  - translation_iso: jpn
+    name: クリカティ・ティムビラ語
+    auto: true
   - translation_iso: zho
     name: 克里卡蒂-廷比拉语
     auto: true

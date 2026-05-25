@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Kwa Volta-Congo > Gbe > Eastern Gbe > Western Phla-Phera > Xwela Gbe"
 wikipedia_url: "https://en.wikipedia.org/wiki/Pher%C3%A1_language"
 translations:
+  - translation_iso: jpn
+    name: クウェラ・ゲベ語
+    auto: true
   - translation_iso: zho
     name: 克韦拉-格贝语
     auto: true

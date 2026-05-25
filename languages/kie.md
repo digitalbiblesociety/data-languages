@@ -14,6 +14,9 @@ glottolog_family_id: maba1274
 glottolog_family_name: Maban
 glottolog_classification: "Maban > Mabang > Runga-Kibet > Kibet"
 translations:
+  - translation_iso: jpn
+    name: キベット語
+    auto: true
   - translation_iso: zho
     name: 基贝特语
     auto: true

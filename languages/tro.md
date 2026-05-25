@@ -17,6 +17,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Tarao_language"
 translations:
   - translation_iso: hin
     name: तराओ भाषा
+  - translation_iso: jpn
+    name: タラオ・ナガ語
+    auto: true
   - translation_iso: zho
     name: 塔劳纳加语
     auto: true

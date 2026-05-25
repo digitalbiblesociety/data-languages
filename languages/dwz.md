@@ -14,6 +14,9 @@ glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Indo-Aryan > Middle-Modern Indo-Aryan > Continental Indo-Aryan > Midlands Indo-Aryan > Shaurasenic > Bihari > Unclassified Bihari > Kuswaric > Dewas-Done Danuwar"
 translations:
+  - translation_iso: jpn
+    name: デワス・ライ語
+    auto: true
   - translation_iso: zho
     name: 德瓦斯赖语
     auto: true

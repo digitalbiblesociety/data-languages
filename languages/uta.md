@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Tivoid > Central Tivoid > Central Tivoid A > Tiv-Evand > Tiv-Iyive-Otanga > Otank"
 wikipedia_url: "https://en.wikipedia.org/wiki/Otank_language"
 translations:
+  - translation_iso: jpn
+    name: イタング語
+    auto: true
   - translation_iso: zho
     name: 奥坦克语
     auto: true

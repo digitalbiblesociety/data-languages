@@ -15,6 +15,9 @@ glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > Biu-Mandara > South Biu-Mandara > Dabaic > Daba-Mazagway-Kola > Daba"
 wikipedia_url: "https://en.wikipedia.org/wiki/Daba_language"
 translations:
+  - translation_iso: jpn
+    name: ダバ語
+    auto: true
   - translation_iso: zho
     name: 达巴语
     auto: true

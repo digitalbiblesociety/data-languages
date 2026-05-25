@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Greater Central Philippine > Central Philippine > Alabat-Manide Agta > Camarines Norte Agta"
 wikipedia_url: "https://en.wikipedia.org/wiki/Manide_language"
 translations:
+  - translation_iso: jpn
+    name: マニデ語
+    auto: true
   - translation_iso: zho
     name: 曼尼德語
 ---

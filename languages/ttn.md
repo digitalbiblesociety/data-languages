@@ -14,6 +14,9 @@ glottolog_family_name: Pauwasi
 glottolog_classification: "Pauwasi > Western Pauwasi > Towei"
 wikipedia_url: "https://en.wikipedia.org/wiki/Towei_language"
 translations:
+  - translation_iso: jpn
+    name: トウェ語
+    auto: true
   - translation_iso: zho
     name: 托威语
     auto: true

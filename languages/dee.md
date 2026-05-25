@@ -15,6 +15,9 @@ glottolog_family_name: Kru
 glottolog_classification: "Kru > Greater Western Kru > Western Kru > Wee-Bassa-Klao > Bassa-Klao > Bassaic > Dewoin"
 wikipedia_url: "https://en.wikipedia.org/wiki/Dewoin_language"
 translations:
+  - translation_iso: jpn
+    name: デウォイン語
+    auto: true
   - translation_iso: zho
     name: 代沃因语
 ---

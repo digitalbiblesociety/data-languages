@@ -15,6 +15,9 @@ glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Kuki-Chin-Naga > Angami-Ao > Central Naga > Yimchingric > Makuric > Long Phuri Naga"
 wikipedia_url: "https://en.wikipedia.org/wiki/Long_Phuri_language"
 translations:
+  - translation_iso: jpn
+    name: ロング・フーリ・ナガ語
+    auto: true
   - translation_iso: zho
     name: 龙普里纳加语
     auto: true

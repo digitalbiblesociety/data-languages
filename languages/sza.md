@@ -15,6 +15,9 @@ glottolog_family_name: Austroasiatic
 glottolog_classification: "Austroasiatic > Aslian > South Aslian > Semelai-Semaq > Semelai"
 wikipedia_url: "https://en.wikipedia.org/wiki/Semelai_language"
 translations:
+  - translation_iso: jpn
+    name: セメライ語
+    auto: true
   - translation_iso: zho
     name: 塞米莱语
 ---

@@ -15,6 +15,9 @@ glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Cushitic > East Cushitic > Highland East Cushitic > Burji"
 wikipedia_url: "https://en.wikipedia.org/wiki/Burji_language"
 translations:
+  - translation_iso: jpn
+    name: ブルジ語
+    auto: true
   - translation_iso: zho
     name: 布尔吉语
     auto: true

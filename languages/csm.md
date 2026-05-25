@@ -15,6 +15,9 @@ glottolog_family_name: Miwok-Costanoan
 glottolog_classification: "Miwok-Costanoan > Miwokan > Eastern Miwokan > Sierra Miwokan > Central Sierra Miwok"
 wikipedia_url: "https://en.wikipedia.org/wiki/Central_Sierra_Miwok"
 translations:
+  - translation_iso: jpn
+    name: セントラル・シエラ・ミウォク語
+    auto: true
   - translation_iso: zho
     name: 中利埃拉米沃克语
     auto: true

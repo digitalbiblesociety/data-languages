@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Northern Bantoid > Mambiloid > Nizaa-Mambila-Vute > Konja-Mambila-Vute > Mambila-Vute > Vutic > Somyev"
 wikipedia_url: "https://en.wikipedia.org/wiki/Somyev_language"
 translations:
+  - translation_iso: jpn
+    name: ソミエフ語
+    auto: true
   - translation_iso: zho
     name: 索米耶夫语
     auto: true

@@ -15,6 +15,9 @@ glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > Paman > Compromise Middle Pama > Wik > Ngatharra-Ngathana-Iinychanya > Wik-Ngathana"
 wikipedia_url: "https://en.wikipedia.org/wiki/Wik-Ngathan_language"
 translations:
+  - translation_iso: jpn
+    name: ウィク・ンガータン語
+    auto: true
   - translation_iso: zho
     name: 威克-恩加赞语
     auto: true

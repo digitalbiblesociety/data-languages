@@ -14,6 +14,9 @@ glottolog_family_name: Nuclear Torricelli
 glottolog_classification: "Nuclear Torricelli > Wapei-Palei > Central Torricelli > Nuclear Palai > Yangum-Ambrak > Ambrak"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ambrak_language"
 translations:
+  - translation_iso: jpn
+    name: アンブラク語
+    auto: true
   - translation_iso: zho
     name: 安布拉克语
     auto: true

@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Defoid > Ayere-Ahan > Àhàn"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ahan_language"
 translations:
+  - translation_iso: jpn
+    name: アハン語
+    auto: true
   - translation_iso: zho
     name: 阿汉语
     auto: true

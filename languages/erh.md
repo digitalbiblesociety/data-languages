@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Akpes-Edoid > Edoid > Southwestern Edoid > Eruwa"
 wikipedia_url: "https://en.wikipedia.org/wiki/Eruwa_language"
 translations:
+  - translation_iso: jpn
+    name: エルワ語
+    auto: true
   - translation_iso: zho
     name: 埃鲁瓦语
     auto: true

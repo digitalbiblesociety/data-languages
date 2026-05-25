@@ -15,6 +15,9 @@ glottolog_family_name: Barbacoan
 glottolog_classification: "Barbacoan > Coconucan > Guambiano"
 wikipedia_url: "https://en.wikipedia.org/wiki/Guambiano_language"
 translations:
+  - translation_iso: jpn
+    name: グアンビアーノ語
+    auto: true
   - translation_iso: zho
     name: 瓜姆比亚诺语
     auto: true

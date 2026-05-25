@@ -15,6 +15,9 @@ glottolog_family_name: Eastern Jebel
 glottolog_classification: "Eastern Jebel > Aka-Kelo-Molo > Molo"
 wikipedia_url: "https://en.wikipedia.org/wiki/Molo_language"
 translations:
+  - translation_iso: jpn
+    name: モロ語
+    auto: true
   - translation_iso: zho
     name: 莫洛语
     auto: true

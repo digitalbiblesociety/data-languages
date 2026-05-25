@@ -17,6 +17,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Mandan_language"
 translations:
   - translation_iso: ara
     name: ماندان
+  - translation_iso: jpn
+    name: マンダン語
+    auto: true
   - translation_iso: zho
     name: 曼丹语
 ---

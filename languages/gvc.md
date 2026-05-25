@@ -15,6 +15,9 @@ glottolog_family_name: Tucanoan
 glottolog_classification: "Tucanoan > Eastern Tucanoan > Eastern Eastern Tucanoan > Eastern Eastern Tucanoan II > Kotiria-Piratapuyo > Kotiria"
 wikipedia_url: "https://en.wikipedia.org/wiki/Wanano_language"
 translations:
+  - translation_iso: jpn
+    name: グアナーノ語
+    auto: true
   - translation_iso: zho
     name: 瓦纳诺语
 ---

@@ -17,6 +17,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Southern_Tiwa_language"
 translations:
   - translation_iso: hin
     name: दक्षिणी तिवा भाषा
+  - translation_iso: jpn
+    name: 南部ティワ語
+    auto: true
   - translation_iso: zho
     name: 南蒂瓦语
     auto: true

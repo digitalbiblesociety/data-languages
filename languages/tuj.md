@@ -15,6 +15,9 @@ glottolog_family_name: North Halmahera
 glottolog_classification: "North Halmahera > Northern North Halmahera > Mainland North Halmaheran > Tobelo-Tugutil > Tugutil"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tugutil_language"
 translations:
+  - translation_iso: jpn
+    name: トゥグティル語
+    auto: true
   - translation_iso: zho
     name: 图古蒂尔语
     auto: true

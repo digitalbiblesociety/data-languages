@@ -15,6 +15,9 @@ glottolog_family_name: Otomanguean
 glottolog_classification: "Otomanguean > Eastern Otomanguean > Popoloca-Zapotecan > Zapotecan > Zapotec > Core Zapotec > Narrow Core Zapotec > Northern Core Zapotec > Sierra Juarezic > Aloápam Zapotec"
 wikipedia_url: "https://en.wikipedia.org/wiki/Alo%C3%A1pam_Zapotec"
 translations:
+  - translation_iso: jpn
+    name: アロアパム・サポテク語
+    auto: true
   - translation_iso: zho
     name: 阿洛阿帕姆-萨波特克语
     auto: true

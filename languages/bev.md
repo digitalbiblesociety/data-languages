@@ -14,6 +14,9 @@ glottolog_family_id: krua1234
 glottolog_family_name: Kru
 glottolog_classification: "Kru > Eastern Kru > Beteic > Western Bete > Daloa Bété"
 translations:
+  - translation_iso: jpn
+    name: ダロア・ベテ語
+    auto: true
   - translation_iso: zho
     name: 达洛阿贝特语
     auto: true

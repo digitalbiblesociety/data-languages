@@ -15,6 +15,9 @@ glottolog_family_name: Border
 glottolog_classification: "Border > Bewani > Pagi-Kilmeri > Pagi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Pagi_language"
 translations:
+  - translation_iso: jpn
+    name: パギ語
+    auto: true
   - translation_iso: zho
     name: 帕吉语
     auto: true

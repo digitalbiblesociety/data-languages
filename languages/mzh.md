@@ -15,6 +15,9 @@ glottolog_family_name: Mataguayan
 glottolog_classification: "Mataguayan > Mataguayo II > Wichi > Güisnay"
 wikipedia_url: "https://en.wikipedia.org/wiki/Wich%C3%AD_Lhamt%C3%A9s_G%C3%BCisnay"
 translations:
+  - translation_iso: jpn
+    name: ウィチー・ラムテス・グイスナイ語
+    auto: true
   - translation_iso: zho
     name: 维奇·拉姆特斯·吉斯瑙语
     auto: true

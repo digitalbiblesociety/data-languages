@@ -14,6 +14,9 @@ glottolog_family_name: Bosavi
 glottolog_classification: "Bosavi > Bosavi Watershed > Onobasulu"
 wikipedia_url: "https://en.wikipedia.org/wiki/Onobasulu_language"
 translations:
+  - translation_iso: jpn
+    name: オノバスル語
+    auto: true
   - translation_iso: zho
     name: 奥诺巴苏鲁语
     auto: true

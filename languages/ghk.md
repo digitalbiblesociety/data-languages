@@ -17,6 +17,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Geko_Karen_language"
 translations:
   - translation_iso: ara
     name: لغة غيكو كارين
+  - translation_iso: jpn
+    name: ゲコ・カレン語
+    auto: true
   - translation_iso: zho
     name: 格科凯伦语
     auto: true

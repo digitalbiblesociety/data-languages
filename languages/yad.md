@@ -17,6 +17,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Yagua_language"
 translations:
   - translation_iso: ara
     name: اللغة اليقوية
+  - translation_iso: jpn
+    name: ヤグア語
+    auto: true
   - translation_iso: zho
     name: 亚瓜语
 ---

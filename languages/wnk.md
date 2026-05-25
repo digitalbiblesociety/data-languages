@@ -16,6 +16,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Wanukaka_language"
 translations:
   - translation_iso: hin
     name: वानुकाका भाषा
+  - translation_iso: jpn
+    name: ワヌカカ語
+    auto: true
   - translation_iso: zho
     name: 瓦努卡卡语
     auto: true

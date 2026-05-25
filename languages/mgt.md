@@ -15,6 +15,9 @@ glottolog_family_name: Keram
 glottolog_classification: "Keram > Ulmapo > Mwakai-Pondi > Mwakai"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mwakai_language"
 translations:
+  - translation_iso: jpn
+    name: モンゴル語
+    auto: true
   - translation_iso: zho
     name: 蒙古語（新幾內亞）
 ---

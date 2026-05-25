@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Benue-Congo Plateau > Jilic-Eggonic > Jilic > Lijili"
 wikipedia_url: "https://en.wikipedia.org/wiki/Jili_language"
 translations:
+  - translation_iso: jpn
+    name: リジリ語
+    auto: true
   - translation_iso: zho
     name: 利吉利语
     auto: true

@@ -15,6 +15,9 @@ glottolog_family_name: Kru
 glottolog_classification: "Kru > Greater Western Kru > Western Kru > Grebo-Aizi > Aizi > Mobumrin Aizi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mobu_language"
 translations:
+  - translation_iso: jpn
+    name: モブムリン・アイジ語
+    auto: true
   - translation_iso: zho
     name: 莫布姆林艾兹语
     auto: true

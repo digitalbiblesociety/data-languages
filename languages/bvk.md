@@ -14,6 +14,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > North Borneo Malayo-Polynesian > Central Sarawak > Punan-Muller-Schwaner > Punan > Bukat-Ukit-Beketan-Lugat-Lisum > Bukat"
 wikipedia_url: "https://en.wikipedia.org/wiki/Bukat_language"
 translations:
+  - translation_iso: jpn
+    name: ブカット語
+    auto: true
   - translation_iso: zho
     name: 布卡特语
     auto: true

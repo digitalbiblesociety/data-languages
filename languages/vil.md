@@ -12,6 +12,9 @@ longitude: -58.96612
 glottocode: vile1241
 wikipedia_url: "https://en.wikipedia.org/wiki/Vilela_language"
 translations:
+  - translation_iso: jpn
+    name: ワカ語
+    auto: true
   - translation_iso: zho
     name: 比莱拉语
 ---

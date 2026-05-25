@@ -14,6 +14,9 @@ glottolog_family_id: dogo1299
 glottolog_family_name: Dogon
 glottolog_classification: "Dogon > Plains Dogon > Western Plains Dogon > Tengou-Togo Dogon"
 translations:
+  - translation_iso: jpn
+    name: テネ・カン・ドゴン語
+    auto: true
   - translation_iso: zho
     name: 特内坎多贡语
     auto: true

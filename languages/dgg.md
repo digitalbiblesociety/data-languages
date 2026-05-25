@@ -16,6 +16,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Doga_language"
 translations:
   - translation_iso: ara
     name: لغة دوجا
+  - translation_iso: jpn
+    name: ドガ語
+    auto: true
   - translation_iso: zho
     name: 多加语
     auto: true

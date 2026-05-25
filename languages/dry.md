@@ -13,6 +13,9 @@ glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Indo-Aryan > Middle-Modern Indo-Aryan > Continental Indo-Aryan > Midlands Indo-Aryan > Shaurasenic > Bihari > Unclassified Bihari > Kuswaric > Darai"
 translations:
+  - translation_iso: jpn
+    name: ダライ語
+    auto: true
   - translation_iso: zho
     name: 达瑞语
     auto: true

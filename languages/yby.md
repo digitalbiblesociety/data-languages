@@ -15,6 +15,9 @@ glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Kainantu-Goroka > Goroka > Nuclear Goroka > Siane-Yagaria > Yaweyuha"
 wikipedia_url: "https://en.wikipedia.org/wiki/Yaweyuha_language"
 translations:
+  - translation_iso: jpn
+    name: ヤウェユハ語
+    auto: true
   - translation_iso: zho
     name: 亚韦尤哈语
     auto: true

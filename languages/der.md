@@ -17,6 +17,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Deori_language"
 translations:
   - translation_iso: hin
     name: डियोरी भाषा
+  - translation_iso: jpn
+    name: デオリ語
+    auto: true
   - translation_iso: zho
     name: 德奥里语
     auto: true

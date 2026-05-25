@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Delta Cross > Upper Cross > Central Upper Cross > North-South Central Delta Cross > Koring-Kukele > Kukele-Uzekwe > Uzekwe"
 wikipedia_url: "https://en.wikipedia.org/wiki/Zekwe_language"
 translations:
+  - translation_iso: jpn
+    name: ウゼクウェ語
+    auto: true
   - translation_iso: zho
     name: 乌泽夸语
     auto: true

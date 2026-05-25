@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Wide Grassfields > Narrow Grassfields > Ring > Center-West Ring > Center Ring > Mmen-Bum > Mmen"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mmen_language"
 translations:
+  - translation_iso: jpn
+    name: ンメン語
+    auto: true
   - translation_iso: zho
     name: 姆门语
     auto: true

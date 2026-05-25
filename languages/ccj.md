@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > North-Central Atlantic > Wolof-BKK > Nyun > Buy > Kasanga"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kasanga_language"
 translations:
+  - translation_iso: jpn
+    name: カサンガ語
+    auto: true
   - translation_iso: kor
     name: 카상가어
   - translation_iso: zho

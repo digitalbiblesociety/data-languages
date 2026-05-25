@@ -13,6 +13,9 @@ glottolog_family_name: Sko
 glottolog_classification: "Sko > Skou-Serra-Piore > Barupu Lagoon > Uni"
 wikipedia_url: "https://en.wikipedia.org/wiki/Uni_language"
 translations:
+  - translation_iso: jpn
+    name: ラモ語
+    auto: true
   - translation_iso: zho
     name: 乌尼语
     auto: true

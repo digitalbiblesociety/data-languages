@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Greater South Sulawesi > Rampi-Seko-Badaic > Seko > Seko Tengah"
 wikipedia_url: "https://en.wikipedia.org/wiki/Seko_Tengah_language"
 translations:
+  - translation_iso: jpn
+    name: ペワネアン語
+    auto: true
   - translation_iso: zho
     name: 塞科滕加语
     auto: true

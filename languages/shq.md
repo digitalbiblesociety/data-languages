@@ -14,6 +14,9 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > East Bantu > Botatwe > Greater Eastern Botatwe > Central Eastern Botatwe > Kafue > Sala"
 translations:
+  - translation_iso: jpn
+    name: ルンドウェ語
+    auto: true
   - translation_iso: zho
     name: 萨拉语
     auto: true

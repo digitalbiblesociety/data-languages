@@ -15,6 +15,9 @@ glottolog_family_name: Unattested
 glottolog_classification: "Unattested > Truká"
 wikipedia_url: "https://en.wikipedia.org/wiki/Truk%C3%A1_language"
 translations:
+  - translation_iso: jpn
+    name: トゥルカ語
+    auto: true
   - translation_iso: zho
     name: 特鲁卡语
     auto: true

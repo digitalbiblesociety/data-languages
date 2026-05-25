@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Timor-Babar > Southwest Maluku > Teun-Nila-Serua > Te'un"
 wikipedia_url: "https://en.wikipedia.org/wiki/Teun_language"
 translations:
+  - translation_iso: jpn
+    name: テウン語
+    auto: true
   - translation_iso: zho
     name: 特温语
     auto: true

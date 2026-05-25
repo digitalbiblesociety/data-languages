@@ -14,6 +14,9 @@ glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Finisterre-Huon > Finisterre-Saruwaged > Gusap-Mot > Gira-Neko-Nekgini > Nekgini"
 wikipedia_url: "https://en.wikipedia.org/wiki/Nekgini_language"
 translations:
+  - translation_iso: jpn
+    name: ネクギニ語
+    auto: true
   - translation_iso: zho
     name: 内格基尼语
     auto: true

@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > North Borneo Malayo-Polynesian > Sabahan > Southwest Sabahan > Greater Dusunic > Dusunic > Kuijau"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kuijau_language"
 translations:
+  - translation_iso: jpn
+    name: クイジャウ語
+    auto: true
   - translation_iso: zho
     name: 库伊尧语
     auto: true

@@ -14,6 +14,9 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Northern Luzon > Cagayan Valley > Ibanagic > Adasen"
 translations:
+  - translation_iso: jpn
+    name: アダセン語
+    auto: true
   - translation_iso: zho
     name: 阿达森语
     auto: true

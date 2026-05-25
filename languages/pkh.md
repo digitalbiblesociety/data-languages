@@ -15,6 +15,9 @@ glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Kuki-Chin-Naga > Kuki-Chin > Central Kuki-Chin > Core Central Kuki-Chin > Pangkhua"
 wikipedia_url: "https://en.wikipedia.org/wiki/Pangkhu_language"
 translations:
+  - translation_iso: jpn
+    name: パンク語
+    auto: true
   - translation_iso: zho
     name: 潘库语
     auto: true

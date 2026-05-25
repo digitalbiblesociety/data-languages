@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Kainji > Central Kainji > Shiroro-Kamuku > Kamuku-Hungwarya > Kamuku > Yara"
 wikipedia_url: "https://en.wikipedia.org/wiki/Cinda-Regi_language"
 translations:
+  - translation_iso: jpn
+    name: チンダ・レギ・ティヤル語
+    auto: true
   - translation_iso: zho
     name: 辛达-雷吉-蒂亚尔语
     auto: true

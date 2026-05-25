@@ -8,6 +8,9 @@ country_name: Italy
 status_id: null
 wikipedia_url: "https://en.wikipedia.org/wiki/Sabine_language"
 translations:
+  - translation_iso: jpn
+    name: サビーネ語
+    auto: true
   - translation_iso: zho
     name: 萨宾语
     auto: true

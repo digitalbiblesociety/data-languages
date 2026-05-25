@@ -15,6 +15,9 @@ glottolog_family_name: Rashad
 glottolog_classification: "Rashad > Tegali"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tegali_language"
 translations:
+  - translation_iso: jpn
+    name: テガリ語
+    auto: true
   - translation_iso: zho
     name: 特加利语
     auto: true

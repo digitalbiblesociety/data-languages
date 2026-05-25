@@ -15,6 +15,9 @@ glottolog_family_name: Garrwan
 glottolog_classification: "Garrwan > Wanyi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Waanyi_language"
 translations:
+  - translation_iso: jpn
+    name: ワニイ語
+    auto: true
   - translation_iso: zho
     name: 万伊语
     auto: true

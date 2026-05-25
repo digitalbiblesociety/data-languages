@@ -14,6 +14,9 @@ glottolog_family_name: Anim
 glottolog_classification: "Anim > Inland Gulf of Papua > West Inland Gulf of Papua > Hoyaic > Hoyahoya-Matakaia"
 wikipedia_url: "https://en.wikipedia.org/wiki/Hoyahoya_language"
 translations:
+  - translation_iso: jpn
+    name: ホヤホヤ語
+    auto: true
   - translation_iso: zho
     name: 霍亚霍亚语
     auto: true

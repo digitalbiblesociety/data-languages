@@ -15,6 +15,9 @@ glottolog_family_name: Otomanguean
 glottolog_classification: "Otomanguean > Eastern Otomanguean > Popoloca-Zapotecan > Zapotecan > Zapotec > Core Zapotec > Macrocoatecano > Amatecano > Amatlán Zapotec"
 wikipedia_url: "https://en.wikipedia.org/wiki/Amatl%C3%A1n_Zapotec"
 translations:
+  - translation_iso: jpn
+    name: アマトラン・サポテク語
+    auto: true
   - translation_iso: zho
     name: 阿马特兰萨波特克语
     auto: true

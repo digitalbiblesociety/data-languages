@@ -8,6 +8,9 @@ country_name: Myanmar
 status_id: 6a
 wikipedia_url: "https://en.wikipedia.org/wiki/Danu_language"
 translations:
+  - translation_iso: jpn
+    name: ダヌ語
+    auto: true
   - translation_iso: zho
     name: 达努语
     auto: true

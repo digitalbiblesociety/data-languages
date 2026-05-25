@@ -14,6 +14,9 @@ glottolog_family_name: Dagan
 glottolog_classification: "Dagan > Central Dagan > Maiwa (Papua New Guinea)"
 wikipedia_url: "https://en.wikipedia.org/wiki/Maiwa_language_(Papuan)"
 translations:
+  - translation_iso: jpn
+    name: マイワ語
+    auto: true
   - translation_iso: zho
     name: 玛依瓦语
     auto: true

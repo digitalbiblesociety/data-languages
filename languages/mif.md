@@ -17,6 +17,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Mofu-Gudur_language"
 translations:
   - translation_iso: hin
     name: मोफू-गुडुर
+  - translation_iso: jpn
+    name: モフ・グドゥル語
+    auto: true
   - translation_iso: zho
     name: 莫夫-古都尔语
     auto: true

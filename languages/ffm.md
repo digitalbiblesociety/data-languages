@@ -18,6 +18,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Maasina_Fulfulde"
 translations:
   - translation_iso: ara
     name: اللغة الماسينية
+  - translation_iso: jpn
+    name: マーシナ・フルフルデ語
+    auto: true
   - translation_iso: zho
     name: 马阿西纳富尔富尔德语
     auto: true

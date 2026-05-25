@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Jukunoid > Central Jukunoid > Jukun-Mbembe-Wurbo > Wurbo-Wannu > Wannu"
 wikipedia_url: "https://en.wikipedia.org/wiki/Wannu_language"
 translations:
+  - translation_iso: jpn
+    name: ワンヌ語
+    auto: true
   - translation_iso: zho
     name: 瓦努语
     auto: true

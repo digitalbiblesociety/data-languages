@@ -14,6 +14,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > North New Guinea linkage > Schouten linkage > Siau > Sissano-Tumleo > Sera-Sissano > Sissanoic > Arop"
 wikipedia_url: "https://en.wikipedia.org/wiki/Arop_language"
 translations:
+  - translation_iso: jpn
+    name: アロップシッサーノ語
+    auto: true
   - translation_iso: zho
     name: 阿罗普-西萨诺语
     auto: true

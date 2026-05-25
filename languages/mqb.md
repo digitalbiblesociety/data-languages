@@ -15,6 +15,9 @@ glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > Biu-Mandara > Hurza > Mbuko"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mbuko_language"
 translations:
+  - translation_iso: jpn
+    name: ムブコ語
+    auto: true
   - translation_iso: zho
     name: 姆布科语
     auto: true

@@ -15,6 +15,9 @@ glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > Karnic > Palku > Pitta-Pitta > Pitta Pitta"
 wikipedia_url: "https://en.wikipedia.org/wiki/Pitta_Pitta_language"
 translations:
+  - translation_iso: jpn
+    name: ピッタピッタ語
+    auto: true
   - translation_iso: zho
     name: 皮塔皮塔语
     auto: true

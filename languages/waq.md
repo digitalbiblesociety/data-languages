@@ -12,6 +12,9 @@ longitude: 131.89332
 glottocode: wage1238
 wikipedia_url: "https://en.wikipedia.org/wiki/Wagiman_language"
 translations:
+  - translation_iso: jpn
+    name: ワギマン語
+    auto: true
   - translation_iso: zho
     name: 瓦基曼语
 ---

@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Celebic > Greater Eastern Celebic > Tominic > Southern Tomini > Tajio"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tajio_language"
 translations:
+  - translation_iso: jpn
+    name: タジオ語
+    auto: true
   - translation_iso: zho
     name: 塔吉奥语
     auto: true

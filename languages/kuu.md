@@ -15,6 +15,9 @@ glottolog_family_name: Athabaskan-Eyak-Tlingit
 glottolog_classification: "Athabaskan-Eyak-Tlingit > Athabaskan-Eyak > Athabaskan > Central Alaska-Yukon Athabaskan > Tanana-Tutchone > Tananaic > Upper Kuskokwim"
 wikipedia_url: "https://en.wikipedia.org/wiki/Upper_Kuskokwim_language"
 translations:
+  - translation_iso: jpn
+    name: アッパー・クスコクウィム語
+    auto: true
   - translation_iso: zho
     name: 上卡斯科奎姆語
 ---

@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > North Borneo Malayo-Polynesian > Sabahan > Southwest Sabahan > Greater Murutic > Murutic > Eastern Murutic > Kalabakan"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kalabakan_language"
 translations:
+  - translation_iso: jpn
+    name: カラバカン語
+    auto: true
   - translation_iso: zho
     name: 卡拉巴坎语
     auto: true

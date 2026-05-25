@@ -14,6 +14,9 @@ glottolog_family_id: khoe1240
 glottolog_family_name: Khoe-Kwadi
 glottolog_classification: "Khoe-Kwadi > Khoe > Non-Khoekhoe > Ost-Kxoe > Tshwa Khoe > Southern Tshwa"
 translations:
+  - translation_iso: jpn
+    name: クア語
+    auto: true
   - translation_iso: zho
     name: 夸语
     auto: true

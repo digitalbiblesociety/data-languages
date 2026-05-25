@@ -8,6 +8,9 @@ country_name: DR Congo
 status_id: null
 wikipedia_url: "https://en.wikipedia.org/wiki/Kobo_language"
 translations:
+  - translation_iso: jpn
+    name: コボ語
+    auto: true
   - translation_iso: zho
     name: 科博语
     auto: true

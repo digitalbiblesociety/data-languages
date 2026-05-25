@@ -17,6 +17,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Wancho_language"
 translations:
   - translation_iso: hin
     name: वैन्चो भाषा
+  - translation_iso: jpn
+    name: ワンチョ・ナガ語
+    auto: true
   - translation_iso: kor
     name: 완초어
   - translation_iso: zho

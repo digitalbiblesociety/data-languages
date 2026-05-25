@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > North and Central Vanuatu > Central Vanuatu > Epi-Efate > Epi > Lamenu-Lewo > Lamenu"
 wikipedia_url: "https://en.wikipedia.org/wiki/Lamen_language"
 translations:
+  - translation_iso: jpn
+    name: ラメヌ語
+    auto: true
   - translation_iso: zho
     name: 拉梅努语
     auto: true

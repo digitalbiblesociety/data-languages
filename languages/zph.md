@@ -15,6 +15,9 @@ glottolog_family_name: Otomanguean
 glottolog_classification: "Otomanguean > Eastern Otomanguean > Popoloca-Zapotecan > Zapotecan > Zapotec > West Zapotec > Totomachapan Zapotec"
 wikipedia_url: "https://en.wikipedia.org/wiki/Totomachapan_Zapotec"
 translations:
+  - translation_iso: jpn
+    name: トトマチャパン・サポテク語
+    auto: true
   - translation_iso: zho
     name: 托托马恰潘萨波特克语
     auto: true

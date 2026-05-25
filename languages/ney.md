@@ -15,6 +15,9 @@ glottolog_family_name: Kru
 glottolog_classification: "Kru > Eastern Kru > Neyo-Dida > Neyo"
 wikipedia_url: "https://en.wikipedia.org/wiki/Neyo_language"
 translations:
+  - translation_iso: jpn
+    name: ネヨ語
+    auto: true
   - translation_iso: zho
     name: 内约语
     auto: true

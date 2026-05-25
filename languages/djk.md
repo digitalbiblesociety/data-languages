@@ -14,6 +14,9 @@ glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Germanic > Northwest Germanic > West Germanic > North Sea Germanic > Anglo-Frisian > Anglic > Later Anglic > Middle-Modern English > Macro-English > Guinea Coast Creole English > Surinamese Creole English > Eastern Maroons > Ndyuka > Aukan"
 translations:
+  - translation_iso: jpn
+    name: イースタン・マルーン・クレオール語
+    auto: true
   - translation_iso: zho
     name: 东马荣克里奥尔语
     auto: true

@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Land Dayak > Bidayuh-Southern Land Dayak > Southern Land Dayak > Sanggau"
 wikipedia_url: "https://en.wikipedia.org/wiki/Sanggau_language"
 translations:
+  - translation_iso: jpn
+    name: バハササンガウ語
+    auto: true
   - translation_iso: zho
     name: 桑高语
     auto: true

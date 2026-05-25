@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Aru > Karey-Barakai > Barakai"
 wikipedia_url: "https://en.wikipedia.org/wiki/Barakai_language"
 translations:
+  - translation_iso: jpn
+    name: バラカイ語
+    auto: true
   - translation_iso: zho
     name: 巴拉凯语
     auto: true

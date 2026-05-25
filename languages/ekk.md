@@ -14,6 +14,9 @@ glottolog_family_id: ural1272
 glottolog_family_name: Uralic
 glottolog_classification: "Uralic > Finnic > Coastal Finnic > Neva > Central Finnic > Estonian"
 translations:
+  - translation_iso: jpn
+    name: エストニア語
+    auto: true
   - translation_iso: zho
     name: 爱沙尼亚语
     auto: true

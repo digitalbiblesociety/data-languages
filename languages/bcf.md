@@ -15,6 +15,9 @@ glottolog_family_name: Kiwaian
 glottolog_classification: "Kiwaian > Bamu"
 wikipedia_url: "https://en.wikipedia.org/wiki/Bamu_language"
 translations:
+  - translation_iso: jpn
+    name: バムー語
+    auto: true
   - translation_iso: zho
     name: 巴穆语
     auto: true

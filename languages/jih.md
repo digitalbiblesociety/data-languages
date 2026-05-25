@@ -14,6 +14,9 @@ glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Burmo-Qiangic > Na-Qiangic > Qiangic > Gyalrongic > West Gyalrongic > Nuclear West Gyalrongic > Horpa > Stodsde"
 translations:
+  - translation_iso: jpn
+    name: スティオツデ語
+    auto: true
   - translation_iso: zho
     name: 商寨语
 ---

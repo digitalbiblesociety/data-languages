@@ -12,6 +12,9 @@ longitude: 143.30513
 glottocode: tabo1241
 wikipedia_url: "https://en.wikipedia.org/wiki/Tabo_language"
 translations:
+  - translation_iso: jpn
+    name: タボ語
+    auto: true
   - translation_iso: zho
     name: 塔博语
     auto: true

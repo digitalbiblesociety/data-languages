@@ -15,6 +15,9 @@ glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > Paman > Compromise Middle Pama > Northeastern Pama > Umpilaic > Umpila"
 wikipedia_url: "https://en.wikipedia.org/wiki/Umpila_language"
 translations:
+  - translation_iso: jpn
+    name: 北東パマン語
+    auto: true
   - translation_iso: zho
     name: 乌姆皮拉语
     auto: true

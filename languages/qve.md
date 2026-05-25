@@ -16,6 +16,9 @@ glottolog_classification: "Quechuan > Southern Quechua > Cuscan Quechua > Easter
 translations:
   - translation_iso: hin
     name: ईस्टर्न अपुरीमैक क्वेचुआ
+  - translation_iso: jpn
+    name: 東アプリーマックケチュア語
+    auto: true
   - translation_iso: zho
     name: 东部阿普里马克克丘亚语
     auto: true

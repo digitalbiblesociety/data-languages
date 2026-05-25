@@ -14,6 +14,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Tanimbar-Bomberai > Nuta > Yarikman"
 wikipedia_url: "https://en.wikipedia.org/wiki/Erokwanas_language"
 translations:
+  - translation_iso: jpn
+    name: エロクワナス語
+    auto: true
   - translation_iso: zho
     name: 埃罗克瓦纳斯语
     auto: true

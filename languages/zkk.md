@@ -11,6 +11,9 @@ longitude: -96.485596
 glottocode: kara1289
 wikipedia_url: "https://en.wikipedia.org/wiki/Karankawa_language"
 translations:
+  - translation_iso: jpn
+    name: カランカワ語
+    auto: true
   - translation_iso: zho
     name: 卡兰卡瓦语
     auto: true

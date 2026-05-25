@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Malayo-Chamic > Malayic > Nuclear Malayic > Central Sumatran Malay > Music > Col"
 wikipedia_url: "https://en.wikipedia.org/wiki/Col_language"
 translations:
+  - translation_iso: jpn
+    name: コル語
+    auto: true
   - translation_iso: zho
     name: 科尔语
     auto: true

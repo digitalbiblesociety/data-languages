@@ -15,6 +15,9 @@ glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > Karnic > Pirriya-Kungkari > Pirriya"
 wikipedia_url: "https://en.wikipedia.org/wiki/Pirriya_language"
 translations:
+  - translation_iso: jpn
+    name: ピッリヤ語
+    auto: true
   - translation_iso: zho
     name: 皮里亚语
     auto: true

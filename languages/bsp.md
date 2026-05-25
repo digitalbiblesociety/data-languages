@@ -14,6 +14,9 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Mel > Northern Mel > Baga Sitemu"
 translations:
+  - translation_iso: jpn
+    name: バガ・シテム語
+    auto: true
   - translation_iso: zho
     name: 巴加西特穆语
     auto: true

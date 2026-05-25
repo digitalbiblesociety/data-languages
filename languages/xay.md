@@ -14,6 +14,9 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > North Borneo Malayo-Polynesian > Kayan-Murik-Modang > Kayan-Murik > Kayanic > Rejang-Makaham Kayan > Kayan Mahakam"
 translations:
+  - translation_iso: jpn
+    name: カヤン・マハカム語
+    auto: true
   - translation_iso: zho
     name: 卡延马哈卡姆语
     auto: true

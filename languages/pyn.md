@@ -15,6 +15,9 @@ glottolog_family_name: Pano-Tacanan
 glottolog_classification: "Pano-Tacanan > Panoan > Mainline Pano > Pano Nawa > Poyanawa Subgroup > Poyanáwa"
 wikipedia_url: "https://en.wikipedia.org/wiki/Poyanawa_language"
 translations:
+  - translation_iso: jpn
+    name: ポヤナワ語
+    auto: true
   - translation_iso: zho
     name: 波亚纳瓦语
     auto: true

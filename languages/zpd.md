@@ -15,6 +15,9 @@ glottolog_family_name: Otomanguean
 glottolog_classification: "Otomanguean > Eastern Otomanguean > Popoloca-Zapotecan > Zapotecan > Zapotec > Core Zapotec > Narrow Core Zapotec > Northern Core Zapotec > Sierra Juarezic > Southeastern Ixtlán Zapotec"
 wikipedia_url: "https://en.wikipedia.org/wiki/Yaves%C3%ADa_Zapotec"
 translations:
+  - translation_iso: jpn
+    name: サウスイースタン・イクスラン・サポテク語
+    auto: true
   - translation_iso: zho
     name: 东南伊克斯特兰萨波特克语
     auto: true

@@ -14,6 +14,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Celebic > Greater Eastern Celebic > Eastern Celebic > Southeastern Celebic > Bungku-Tolaki > Eastern Bungku-Tolaki > Moronene"
 wikipedia_url: "https://en.wikipedia.org/wiki/Moronene_language"
 translations:
+  - translation_iso: jpn
+    name: モロネネ語
+    auto: true
   - translation_iso: zho
     name: 莫罗内内语
     auto: true

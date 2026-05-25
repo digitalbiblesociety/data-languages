@@ -15,6 +15,9 @@ glottolog_family_name: Border
 glottolog_classification: "Border > Warisic > Nuclear Warisic > Manem"
 wikipedia_url: "https://en.wikipedia.org/wiki/Manem_language"
 translations:
+  - translation_iso: jpn
+    name: マネム語
+    auto: true
   - translation_iso: zho
     name: 玛内姆语
     auto: true

@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Malayo-Chamic > Malayic > Nuclear Malayic > Greater Riau-Johoric > Central Malay"
 wikipedia_url: "https://en.wikipedia.org/wiki/Colloquial_Malay_language"
 translations:
+  - translation_iso: jpn
+    name: マレー語
+    auto: true
   - translation_iso: kor
     name: 조호르-리아우 말레이어
   - translation_iso: zho

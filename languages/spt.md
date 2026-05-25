@@ -17,6 +17,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Spiti_Bhoti"
 translations:
   - translation_iso: hin
     name: स्पीति भाषा
+  - translation_iso: jpn
+    name: スピティ語
+    auto: true
   - translation_iso: zho
     name: 藏语斯比迪方言
 ---

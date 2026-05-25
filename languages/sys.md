@@ -15,6 +15,9 @@ glottolog_family_name: Central Sudanic
 glottolog_classification: "Central Sudanic > Sara-Bongo-Bagirmi > Sinyar"
 wikipedia_url: "https://en.wikipedia.org/wiki/Sinyar_language"
 translations:
+  - translation_iso: jpn
+    name: シニャル語
+    auto: true
   - translation_iso: zho
     name: 西尼亚尔语
 ---

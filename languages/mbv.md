@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > North-Central Atlantic > Naluic > Mbulungish"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mbulungish_language"
 translations:
+  - translation_iso: jpn
+    name: ムブルンギシュ語
+    auto: true
   - translation_iso: zho
     name: 姆布隆吉什语
     auto: true

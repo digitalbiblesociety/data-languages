@@ -15,6 +15,9 @@ glottolog_family_name: Unattested
 glottolog_classification: "Unattested > Moksela"
 wikipedia_url: "https://en.wikipedia.org/wiki/Moksela_language"
 translations:
+  - translation_iso: jpn
+    name: モクセラ語
+    auto: true
   - translation_iso: zho
     name: 莫克塞拉语
     auto: true

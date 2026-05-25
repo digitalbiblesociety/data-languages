@@ -14,6 +14,9 @@ glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Finisterre-Huon > Finisterre-Saruwaged > Wantoatic > Wantoat-Awara > Awara"
 wikipedia_url: "https://en.wikipedia.org/wiki/Awara_language"
 translations:
+  - translation_iso: jpn
+    name: アワラ語
+    auto: true
   - translation_iso: zho
     name: 阿瓦拉语
     auto: true

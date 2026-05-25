@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > North and Central Vanuatu > Central Vanuatu > Ambrym > Southeast Ambrym"
 wikipedia_url: "https://en.wikipedia.org/wiki/Southeast_Ambrym_language"
 translations:
+  - translation_iso: jpn
+    name: タヴェアク語
+    auto: true
   - translation_iso: zho
     name: 东安布里姆语
     auto: true

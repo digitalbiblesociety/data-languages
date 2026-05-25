@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Cameroun-Ubangian > Mbumic > Northern Mbum > Tupuri-Mundang-Mambai > Mambai"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mambay_language"
 translations:
+  - translation_iso: jpn
+    name: マンバイ語
+    auto: true
   - translation_iso: zho
     name: 姆巴迈语
     auto: true

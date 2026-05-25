@@ -15,6 +15,9 @@ glottolog_family_name: Central Sudanic
 glottolog_classification: "Central Sudanic > Sara-Bongo-Bagirmi > SBB Occidental > Nuclear SBB Occidental > Saraic > Bagirmic > Morom-Jaya-Naba > Bayo-Morom > Gula (Chad)"
 wikipedia_url: "https://en.wikipedia.org/wiki/Gula_language_(Chad)"
 translations:
+  - translation_iso: jpn
+    name: グラ語
+    auto: true
   - translation_iso: zho
     name: 古拉语（乍得）
     auto: true

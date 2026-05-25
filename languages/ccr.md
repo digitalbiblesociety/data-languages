@@ -16,6 +16,9 @@ glottolog_family_name: Misumalpan
 glottolog_classification: "Misumalpan > Sumalpan > Matagalpan > Cacaopera"
 wikipedia_url: "https://en.wikipedia.org/wiki/Cacaopera_language"
 translations:
+  - translation_iso: jpn
+    name: カカオペラ語
+    auto: true
   - translation_iso: zho
     name: 卡卡奥佩拉语
     auto: true

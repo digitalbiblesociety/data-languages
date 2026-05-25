@@ -15,6 +15,9 @@ glottolog_family_name: Ramu
 glottolog_classification: "Ramu > Lower Ramu > Ottilien > Watam-Kaian > Watam"
 wikipedia_url: "https://en.wikipedia.org/wiki/Marangis_language"
 translations:
+  - translation_iso: jpn
+    name: ワタム語
+    auto: true
   - translation_iso: zho
     name: 瓦塔姆语
     auto: true

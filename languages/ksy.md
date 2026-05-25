@@ -15,6 +15,9 @@ glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Indo-Aryan > Middle-Modern Indo-Aryan > Continental Indo-Aryan > Indo-Aryan Eastern zone > Oriya-Gauda-Kamrupa > Gauda-Kamrupa > Gauda-Banga > Kharia Thar"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kharia_Thar_language"
 translations:
+  - translation_iso: jpn
+    name: カリア・タール語
+    auto: true
   - translation_iso: zho
     name: 哈里亚塔尔语
     auto: true

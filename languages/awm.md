@@ -14,6 +14,9 @@ glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Madang > Rai Coast > Kabenau > Arawum"
 wikipedia_url: "https://en.wikipedia.org/wiki/Arawum_language"
 translations:
+  - translation_iso: jpn
+    name: アラウム語
+    auto: true
   - translation_iso: zho
     name: 阿瓦鲁姆语
     auto: true

@@ -11,6 +11,9 @@ latitude: 10.48673
 longitude: -6.37129
 wikipedia_url: "https://en.wikipedia.org/wiki/Shempire_language"
 translations:
+  - translation_iso: jpn
+    name: シェンピレ語
+    auto: true
   - translation_iso: zho
     name: 谢姆皮雷塞努福语
     auto: true

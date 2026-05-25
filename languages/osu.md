@@ -14,6 +14,9 @@ glottolog_family_id: nucl1708
 glottolog_family_name: Nuclear Torricelli
 glottolog_classification: "Nuclear Torricelli > West Wapei > One > Southern One"
 translations:
+  - translation_iso: jpn
+    name: 南ワン語
+    auto: true
   - translation_iso: zho
     name: 南翁语
     auto: true

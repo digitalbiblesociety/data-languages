@@ -15,6 +15,9 @@ glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Burmo-Qiangic > Lolo-Burmese > Loloish > Ni-Li-Kazhouish > Southeastern Ngwi > Nisoid > Nuclear Nisoid > Nasu-Nosu > Nesu-Nasu > Nasu-Gepu > Unclassified Nasu-Gepu > Chesu"
 wikipedia_url: "https://en.wikipedia.org/wiki/Chesu_language"
 translations:
+  - translation_iso: jpn
+    name: チェス語
+    auto: true
   - translation_iso: zho
     name: 車蘇語
 ---

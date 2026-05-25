@@ -14,6 +14,9 @@ glottolog_family_id: coch1271
 glottolog_family_name: Cochimi-Yuman
 glottolog_classification: "Cochimi-Yuman > Yuman > General Yuman > Delta-Californian Yuman > Diegueno > Tipai-Kumeyaay-Huerteno"
 translations:
+  - translation_iso: jpn
+    name: クミアイ語
+    auto: true
   - translation_iso: zho
     name: 库迈语
     auto: true

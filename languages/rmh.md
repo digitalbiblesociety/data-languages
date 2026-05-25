@@ -15,6 +15,9 @@ glottolog_family_name: Lepki-Murkim-Kembra
 glottolog_classification: "Lepki-Murkim-Kembra > Murkim"
 wikipedia_url: "https://en.wikipedia.org/wiki/Murkim_language"
 translations:
+  - translation_iso: jpn
+    name: ムルキム語
+    auto: true
   - translation_iso: zho
     name: 默尔基姆语
     auto: true

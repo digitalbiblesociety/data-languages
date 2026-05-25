@@ -14,6 +14,9 @@ glottolog_family_id: uncl1493
 glottolog_family_name: Unclassifiable
 glottolog_classification: "Unclassifiable > Karirí-Xocó"
 translations:
+  - translation_iso: jpn
+    name: カリリ・シオコ語
+    auto: true
   - translation_iso: zho
     name: 卡里里-索科语
     auto: true

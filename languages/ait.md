@@ -15,6 +15,9 @@ glottolog_family_name: Tupian
 glottolog_classification: "Tupian > Arikem-Tupari > Arikemic > Arikem"
 wikipedia_url: "https://en.wikipedia.org/wiki/Arikem_language"
 translations:
+  - translation_iso: jpn
+    name: アリケム語
+    auto: true
   - translation_iso: zho
     name: 阿里克姆语
     auto: true

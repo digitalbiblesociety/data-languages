@@ -17,6 +17,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Liangmai_language"
 translations:
   - translation_iso: hin
     name: लिआंगमई भाषा
+  - translation_iso: jpn
+    name: リアングマイ・ナガ語
+    auto: true
   - translation_iso: zho
     name: 梁迈纳加语
     auto: true

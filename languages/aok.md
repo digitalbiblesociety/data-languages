@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Southern Melanesian > New Caledonian > Mainland New Caledonian > Southern New Caledonian > Mid-Southern New Caledonian > Houailou > Arhö"
 wikipedia_url: "https://en.wikipedia.org/wiki/Arh%C3%B6_language"
 translations:
+  - translation_iso: jpn
+    name: アルホ語
+    auto: true
   - translation_iso: zho
     name: 阿尔霍语
     auto: true

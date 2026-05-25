@@ -16,6 +16,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Ampanang_language"
 translations:
   - translation_iso: ara
     name: لغة أمبانانغ
+  - translation_iso: jpn
+    name: アンパナン語
+    auto: true
   - translation_iso: zho
     name: 安帕南语
     auto: true

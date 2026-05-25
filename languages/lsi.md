@@ -15,6 +15,9 @@ glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Burmo-Qiangic > Lolo-Burmese > Burmish > Northern Burmish > Maruic > Leqic > Lashi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Lashi_language"
 translations:
+  - translation_iso: jpn
+    name: ラシ語
+    auto: true
   - translation_iso: zho
     name: 勒期语
 rolv_dialects:

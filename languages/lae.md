@@ -17,6 +17,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Pattani_language"
 translations:
   - translation_iso: hin
     name: मंचन्द भाषा
+  - translation_iso: jpn
+    name: パッターニ語
+    auto: true
   - translation_iso: zho
     name: 帕塔南语
 rolv_dialects:

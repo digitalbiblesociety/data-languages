@@ -10,6 +10,9 @@ latitude: 27.23201
 longitude: 87.31455
 wikipedia_url: "https://en.wikipedia.org/wiki/Lumba-Yakkha_language"
 translations:
+  - translation_iso: jpn
+    name: ルンバ・ヤッカ語
+    auto: true
   - translation_iso: zho
     name: 龙巴-雅卡语
     auto: true

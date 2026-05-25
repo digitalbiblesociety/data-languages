@@ -15,6 +15,9 @@ glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Finisterre-Huon > Huon > Western Huon > Rawlinson > Pindiu > Kosorong-Burum-Mindik > Burum-Mindik"
 wikipedia_url: "https://en.wikipedia.org/wiki/Burum_language"
 translations:
+  - translation_iso: jpn
+    name: ソンバ・シアワリ語
+    auto: true
   - translation_iso: zho
     name: 松巴-西亚瓦里语
     auto: true

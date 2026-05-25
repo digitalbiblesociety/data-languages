@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Delta Cross > Ogonoid > West Ogonoid > Eleme"
 wikipedia_url: "https://en.wikipedia.org/wiki/Eleme_language"
 translations:
+  - translation_iso: jpn
+    name: エレメ語
+    auto: true
   - translation_iso: zho
     name: 埃莱梅语
     auto: true

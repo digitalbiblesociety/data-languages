@@ -14,6 +14,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > Papuan Tip linkage > Nuclear Papuan Tip linkage > North Papuan Mainland-D'Entrecasteaux linkage > Dobu-Duau linkage > Bunama-Mwatebu > Bunama"
 wikipedia_url: "https://en.wikipedia.org/wiki/Bunama_language"
 translations:
+  - translation_iso: jpn
+    name: ブナマ語
+    auto: true
   - translation_iso: zho
     name: 布纳玛语
     auto: true

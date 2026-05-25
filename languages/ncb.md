@@ -17,6 +17,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Central_Nicobarese_languages"
 translations:
   - translation_iso: hin
     name: मध्य निकोबारी भाषाएँ
+  - translation_iso: jpn
+    name: 中央ニコバル語
+    auto: true
   - translation_iso: zho
     name: 中尼科巴语支
 rolv_dialects:

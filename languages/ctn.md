@@ -17,6 +17,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Chintang_language"
 translations:
   - translation_iso: hin
     name: छिन्ताङ
+  - translation_iso: jpn
+    name: チンタンゲ語
+    auto: true
   - translation_iso: zho
     name: 钦塔恩格语
     auto: true

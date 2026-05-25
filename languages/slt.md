@@ -15,6 +15,9 @@ glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Burmo-Qiangic > Lolo-Burmese > Loloish > Hani-Jino > Bisoid-Hanic > Sila-Wanya-Cosao-Pana > Sila"
 wikipedia_url: "https://en.wikipedia.org/wiki/Sila_language_(Sino-Tibetan)"
 translations:
+  - translation_iso: jpn
+    name: シダ語
+    auto: true
   - translation_iso: zho
     name: 西拉语
     auto: true

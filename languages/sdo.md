@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Land Dayak > Bidayuh-Southern Land Dayak > Bidayuh > Bukar-Sadung Bidayuh"
 wikipedia_url: "https://en.wikipedia.org/wiki/Bukar%E2%80%93Sadong_language"
 translations:
+  - translation_iso: jpn
+    name: ブカ語
+    auto: true
   - translation_iso: zho
     name: 布卡-萨东比达尤语
     auto: true

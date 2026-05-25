@@ -15,6 +15,9 @@ glottolog_family_name: Tupian
 glottolog_classification: "Tupian > Eastern Tupian > Maweti-Guarani > Aweti-Guarani > Tupi-Guarani > Southern Tupi-Guarani > Tupi-Guarani Subgroup III > Omagua-Kokama > Cocama-Cocamilla"
 wikipedia_url: "https://en.wikipedia.org/wiki/Cocama_language"
 translations:
+  - translation_iso: jpn
+    name: コカマ語
+    auto: true
   - translation_iso: zho
     name: 科卡玛-科卡米利亚语
     auto: true

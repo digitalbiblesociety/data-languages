@@ -12,6 +12,9 @@ longitude: 141.59654
 glottocode: guri1248
 wikipedia_url: "https://en.wikipedia.org/wiki/Guriaso_language"
 translations:
+  - translation_iso: jpn
+    name: グリアソ語
+    auto: true
   - translation_iso: zho
     name: 古里亚索语
     auto: true

@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > Papuan Tip linkage > Peripheral Papuan Tip linkage > Central Papuan Oceanic > Oumic > Magoric > Bina (Papua New Guinea)"
 wikipedia_url: "https://en.wikipedia.org/wiki/Bina_language_(Papua_New_Guinea)"
 translations:
+  - translation_iso: jpn
+    name: ビナ語
+    auto: true
   - translation_iso: zho
     name: 比纳语
     auto: true

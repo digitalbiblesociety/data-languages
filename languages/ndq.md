@@ -14,6 +14,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > Central-Western Bantu > Njila > Southern Njila > Kunene > Unclassified Kunene > Ndombe"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ndombe_language"
 translations:
+  - translation_iso: jpn
+    name: ンドンベ語
+    auto: true
   - translation_iso: zho
     name: 恩东贝语
     auto: true

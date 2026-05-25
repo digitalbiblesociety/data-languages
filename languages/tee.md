@@ -15,6 +15,9 @@ glottolog_family_name: Totonacan
 glottolog_classification: "Totonacan > Tepehua > Huehuetla Tepehua"
 wikipedia_url: "https://en.wikipedia.org/wiki/Huehuetla_Tepehua"
 translations:
+  - translation_iso: jpn
+    name: ウエウエトラ・テペフア語
+    auto: true
   - translation_iso: zho
     name: 韦韦特拉特佩瓦语
     auto: true

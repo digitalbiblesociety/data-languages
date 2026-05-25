@@ -14,6 +14,9 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Malayo-Chamic > Aceh-Chamic > Chamic > Chru-Northern Cham > Northern Cham > Northern Roglai"
 translations:
+  - translation_iso: jpn
+    name: 北ログライ語
+    auto: true
   - translation_iso: zho
     name: 北方罗格莱语
     auto: true

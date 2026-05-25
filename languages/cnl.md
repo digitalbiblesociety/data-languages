@@ -14,6 +14,9 @@ glottolog_family_id: otom1299
 glottolog_family_name: Otomanguean
 glottolog_classification: "Otomanguean > Western Otomanguean > Otopame-Chinantecan > Chinantecan > Central-Eastern Chinantec > Southeastern Chinantec > Chinantec Group IV > Lalana Chinantec"
 translations:
+  - translation_iso: jpn
+    name: ララナ・チナンテク語
+    auto: true
   - translation_iso: zho
     name: 拉拉纳奇南特克语
     auto: true

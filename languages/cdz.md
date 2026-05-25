@@ -17,6 +17,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Koda_language"
 translations:
   - translation_iso: hin
     name: कोडा
+  - translation_iso: jpn
+    name: コダ語
+    auto: true
   - translation_iso: zho
     name: 科达语
 ---

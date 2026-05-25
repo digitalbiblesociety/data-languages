@@ -17,6 +17,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Ganza_language"
 translations:
   - translation_iso: ara
     name: لغة جانزا
+  - translation_iso: jpn
+    name: ガンザ語
+    auto: true
   - translation_iso: zho
     name: 甘扎語
 ---

@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Timor-Babar > Rote-Meto > Nuclear Rote > Central East Rote > Southeast Rote > Ringgou"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ringgou_language"
 translations:
+  - translation_iso: jpn
+    name: リングゴウ語
+    auto: true
   - translation_iso: zho
     name: 林古语
     auto: true

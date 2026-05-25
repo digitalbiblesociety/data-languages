@@ -14,6 +14,9 @@ glottolog_family_name: Kaure-Kosare
 glottolog_classification: "Kaure-Kosare > Kosadle"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kosare_language"
 translations:
+  - translation_iso: jpn
+    name: コサドレ語
+    auto: true
   - translation_iso: zho
     name: 科萨德勒语
     auto: true

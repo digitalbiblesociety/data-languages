@@ -15,6 +15,9 @@ glottolog_family_name: Heibanic
 glottolog_classification: "Heibanic > West-Central Heibanic > Central Heibanic > Ebang-Logol > Ebang-Laru > Laru (North Sudan)"
 wikipedia_url: "https://en.wikipedia.org/wiki/Laro_language"
 translations:
+  - translation_iso: jpn
+    name: ラロ語
+    auto: true
   - translation_iso: zho
     name: 拉罗语
     auto: true

@@ -14,6 +14,9 @@ glottolog_family_id: ijoi1239
 glottolog_family_name: Ijoid
 glottolog_classification: "Ijoid > Ijo > Eastern Ijo > Nikio > Kio Ijo > Kirike"
 translations:
+  - translation_iso: jpn
+    name: キリケ語
+    auto: true
   - translation_iso: zho
     name: 基里克语
     auto: true

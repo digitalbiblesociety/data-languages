@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Cameroun-Ubangian > Central Adamawa > Samba-Duru > Southern Samba-Duru > Peere"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kutin_language"
 translations:
+  - translation_iso: jpn
+    name: ペーレ語
+    auto: true
   - translation_iso: zho
     name: 佩雷语
     auto: true

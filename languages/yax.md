@@ -9,6 +9,9 @@ status_id: 6a
 latitude: -15.821495
 longitude: 21.881345
 translations:
+  - translation_iso: jpn
+    name: ヤウマ語
+    auto: true
   - translation_iso: zho
     name: 亚乌玛语
     auto: true

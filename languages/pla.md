@@ -14,6 +14,9 @@ glottolog_family_id: nucl1709
 glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Madang > Croisilles > Greater Northern Adelbert > Northern Adelbert > Kaukombaran > Miani"
 translations:
+  - translation_iso: jpn
+    name: ミアニ語
+    auto: true
   - translation_iso: zho
     name: 米亚尼语
     auto: true

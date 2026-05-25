@@ -15,6 +15,9 @@ glottolog_family_name: Tupian
 glottolog_classification: "Tupian > Monde > Gavianic > Nuclear Gavianic > Gavião Do Jiparaná"
 wikipedia_url: "https://en.wikipedia.org/wiki/Gavi%C3%A3o_of_Jiparan%C3%A1"
 translations:
+  - translation_iso: jpn
+    name: ガヴィアン・ド・ジパラナ語
+    auto: true
   - translation_iso: zho
     name: 吉帕拉纳加维奥语
     auto: true

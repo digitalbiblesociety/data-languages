@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Bua-Kim-Day > Adamawa Bua > Riverine Bua > Bua-Lua > Ba-Korom > Bua"
 wikipedia_url: "https://en.wikipedia.org/wiki/Bua_language"
 translations:
+  - translation_iso: jpn
+    name: ブア語
+    auto: true
   - translation_iso: zho
     name: 布阿语
     auto: true

@@ -15,6 +15,9 @@ glottolog_family_name: Tai-Kadai
 glottolog_classification: "Tai-Kadai > Kam-Tai > Kam-Sui > Then-MMS > Maonan-Mak-Sui > Mak-Ai-Cham > Mak (China)"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mak_language"
 translations:
+  - translation_iso: jpn
+    name: マク語
+    auto: true
   - translation_iso: zho
     name: 莫语
 rolv_dialects:

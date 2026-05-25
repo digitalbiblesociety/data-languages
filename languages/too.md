@@ -15,6 +15,9 @@ glottolog_family_name: Totonacan
 glottolog_classification: "Totonacan > Totonac > Central Totonacan > Northern Totonacan > Xicotepec De Juárez Totonac"
 wikipedia_url: "https://en.wikipedia.org/wiki/Xicotepec_Totonac"
 translations:
+  - translation_iso: jpn
+    name: シコテペク・デ・フアレス・トトナック語
+    auto: true
   - translation_iso: zho
     name: 希科特佩克德胡亚雷斯托托纳克语
     auto: true

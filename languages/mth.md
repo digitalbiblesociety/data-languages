@@ -14,6 +14,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > South Halmahera-West New Guinea > Cenderawasih Bay > Yapen > Central-Western Yapen > Central Yapen > Munggui"
 wikipedia_url: "https://en.wikipedia.org/wiki/Munggui_language"
 translations:
+  - translation_iso: jpn
+    name: ムングイ語
+    auto: true
   - translation_iso: zho
     name: 蒙古圭语
     auto: true

@@ -15,6 +15,9 @@ glottolog_family_name: Great Andamanese
 glottolog_classification: "Great Andamanese > South Great Andamanese > Akarbale"
 wikipedia_url: "https://en.wikipedia.org/wiki/Akarbale"
 translations:
+  - translation_iso: jpn
+    name: アカルバレ語
+    auto: true
   - translation_iso: kor
     name: 아카발레어
   - translation_iso: zho

@@ -12,6 +12,9 @@ longitude: 132.84543
 glottocode: morb1239
 wikipedia_url: "https://en.wikipedia.org/wiki/Mor_language_(Papuan)"
 translations:
+  - translation_iso: jpn
+    name: モル語
+    auto: true
   - translation_iso: zho
     name: 莫尔语（邦贝赖半岛）
     auto: true

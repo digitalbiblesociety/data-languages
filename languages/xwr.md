@@ -15,6 +15,9 @@ glottolog_family_name: Greater Kwerba
 glottolog_classification: "Greater Kwerba > Kwerba-Samarokena > Kwerbaic > Middle Mamberamo Kwerba > Kwerba Mamberamo"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kwerba_Mamberamo_language"
 translations:
+  - translation_iso: jpn
+    name: ケルバ・マンベラモ語
+    auto: true
   - translation_iso: zho
     name: 克韦尔巴-曼贝拉莫语
     auto: true

@@ -15,6 +15,9 @@ glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > Southeastern Pama-Nyungan > Victorian Pama-Nyungan > Kulin-Bunganditj > Warrnambool-Bunganditj > Warrnambool"
 wikipedia_url: "https://en.wikipedia.org/wiki/Dhauwurd_Wurrung_language"
 translations:
+  - translation_iso: jpn
+    name: ガンディッジマラ語
+    auto: true
   - translation_iso: zho
     name: 古迪特吉马拉语
     auto: true

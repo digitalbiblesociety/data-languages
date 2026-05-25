@@ -15,6 +15,9 @@ glottolog_family_name: Mande
 glottolog_classification: "Mande > Eastern Mande > Southeastern Mande > Nwa-Ben > Ben-Gban > Bengic > Beng"
 wikipedia_url: "https://en.wikipedia.org/wiki/Beng_language"
 translations:
+  - translation_iso: jpn
+    name: ベン語
+    auto: true
   - translation_iso: zho
     name: 本语
     auto: true

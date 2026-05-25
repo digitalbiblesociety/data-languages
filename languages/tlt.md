@@ -14,6 +14,9 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Nunusaku > Piru Bay > East Piru Bay > Eastern Littoral Piru Bay > Teluti"
 translations:
+  - translation_iso: jpn
+    name: ソウ・ナマ語
+    auto: true
   - translation_iso: zho
     name: 索乌纳马语
     auto: true

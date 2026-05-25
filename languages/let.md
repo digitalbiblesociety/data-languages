@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > North New Guinea linkage > Ngero-Vitiaz linkage > Vitiaz linkage > Southwest New Britain linkage > Arawe-Pasismanua > Arawe > East Arawe > Lesing-Gelimi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Lesing-Gelimi_language"
 translations:
+  - translation_iso: jpn
+    name: レシン・ゲリミ語
+    auto: true
   - translation_iso: zho
     name: 莱辛-格利米语
     auto: true

@@ -15,6 +15,9 @@ glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > Desert Nyungic > Marrngu > Nyangumarta"
 wikipedia_url: "https://en.wikipedia.org/wiki/Nyangumarta_language"
 translations:
+  - translation_iso: jpn
+    name: ニャングマルタ語
+    auto: true
   - translation_iso: zho
     name: Nyangumarta语
 ---

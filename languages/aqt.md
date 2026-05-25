@@ -15,6 +15,9 @@ glottolog_family_name: Lengua-Mascoy
 glottolog_classification: "Lengua-Mascoy > Eastern Enlhet-Enenlhet > Angaité"
 wikipedia_url: "https://en.wikipedia.org/wiki/Angait%C3%A9_language"
 translations:
+  - translation_iso: jpn
+    name: アンガイテ語
+    auto: true
   - translation_iso: zho
     name: 安盖泰语
     auto: true

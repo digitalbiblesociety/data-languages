@@ -15,6 +15,9 @@ glottolog_family_name: Otomanguean
 glottolog_classification: "Otomanguean > Eastern Otomanguean > Popoloca-Zapotecan > Zapotecan > Zapotec > Core Zapotec > Narrow Core Zapotec > Central Core Zapotec > Asunción Mixtepec Zapotec"
 wikipedia_url: "https://en.wikipedia.org/wiki/Asunci%C3%B3n_Mixtepec_Zapotec"
 translations:
+  - translation_iso: jpn
+    name: アスンシオン・ミステペック・サポテク語
+    auto: true
   - translation_iso: zho
     name: 阿松西翁混特佩克萨波特克语
     auto: true

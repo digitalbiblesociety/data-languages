@@ -14,6 +14,9 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Northern Luzon > Meso-Cordilleran > South-Central Cordilleran > Central Cordilleran > Nuclear Cordilleran > Ifugaw > Batad-Mayoyao > Mayoyao Ifugao"
 translations:
+  - translation_iso: jpn
+    name: マヨヤオ・イフガオ語
+    auto: true
   - translation_iso: zho
     name: 马约亚伊富高语
     auto: true

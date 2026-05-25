@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Southern Melanesian > Southern Vanuatu > Tanna > Northern Tanna linkage > Whitesands-North Tanna linkage > Whitesands"
 wikipedia_url: "https://en.wikipedia.org/wiki/Whitesands_language"
 translations:
+  - translation_iso: jpn
+    name: ホワイトサンズ語
+    auto: true
   - translation_iso: zho
     name: 怀特桑兹语
     auto: true

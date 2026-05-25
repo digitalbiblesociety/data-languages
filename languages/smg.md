@@ -15,6 +15,9 @@ glottolog_family_name: Baining
 glottolog_classification: "Baining > Southern Baining > Mali-Simbali > Simbali"
 wikipedia_url: "https://en.wikipedia.org/wiki/Simbali_language"
 translations:
+  - translation_iso: jpn
+    name: アシンバリ語
+    auto: true
   - translation_iso: zho
     name: 西姆巴利语
     auto: true

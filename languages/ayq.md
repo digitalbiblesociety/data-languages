@@ -15,6 +15,9 @@ glottolog_family_name: Sepik
 glottolog_classification: "Sepik > Sepik Tama > Mayo-Pasi > Yimin-Bel > Ayi (Papua New Guinea)"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ayi_language"
 translations:
+  - translation_iso: jpn
+    name: アイ語
+    auto: true
   - translation_iso: zho
     name: 艾语
     auto: true

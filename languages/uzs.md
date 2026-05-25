@@ -17,6 +17,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Southern_Uzbek_language"
 translations:
   - translation_iso: ara
     name: الأوزبكية الجنوبية
+  - translation_iso: jpn
+    name: 南ウズベク語
+    auto: true
   - translation_iso: kor
     name: 남 우즈베크
   - translation_iso: zho

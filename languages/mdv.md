@@ -14,6 +14,9 @@ glottolog_family_id: otom1299
 glottolog_family_name: Otomanguean
 glottolog_classification: "Otomanguean > Eastern Otomanguean > Amuzgo-Mixtecan > Mixtecan > Mixtec-Cuicatec > Mixtec > Western Alta Mixtec > Southwestern Alta Mixtec > Chalcatongic > Atatlahuca-Monteverde > Santa Lucía Monteverde Mixtec"
 translations:
+  - translation_iso: jpn
+    name: サンタ・ルシア・モンテベルデ・ミステク語
+    auto: true
   - translation_iso: zho
     name: 圣露西亚蒙特韦德混合语
     auto: true

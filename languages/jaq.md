@@ -15,6 +15,9 @@ glottolog_family_name: Anim
 glottolog_classification: "Anim > Marind-Boazi-Yaqai > Yaqayic > Yaqay"
 wikipedia_url: "https://en.wikipedia.org/wiki/Yaqay_language"
 translations:
+  - translation_iso: jpn
+    name: ヤカイ語
+    auto: true
   - translation_iso: zho
     name: 雅盖语
     auto: true

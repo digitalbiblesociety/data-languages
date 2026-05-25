@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Northern Luzon > Meso-Cordilleran > South-Central Cordilleran > Central Cordilleran > Nuclear Cordilleran > Balangao"
 wikipedia_url: "https://en.wikipedia.org/wiki/Balangao_language"
 translations:
+  - translation_iso: jpn
+    name: バランガオ語
+    auto: true
   - translation_iso: zho
     name: 巴兰高语
     auto: true

@@ -9,6 +9,9 @@ status_id: 6a
 latitude: 7.065
 longitude: 10.47
 translations:
+  - translation_iso: jpn
+    name: ンデ・グビテ語
+    auto: true
   - translation_iso: zho
     name: 恩德-格比特语
     auto: true

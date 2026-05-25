@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > North New Guinea linkage > Ngero-Vitiaz linkage > Vitiaz linkage > Bel-Roinji-Nenaya > Mato"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mato_language"
 translations:
+  - translation_iso: jpn
+    name: マト語
+    auto: true
   - translation_iso: zho
     name: 玛托语
     auto: true

@@ -9,6 +9,9 @@ status_id: 6a
 latitude: 21.77263
 longitude: 77.37332
 translations:
+  - translation_iso: jpn
+    name: ゴウリ語
+    auto: true
   - translation_iso: zho
     name: 高夫利语
     auto: true

@@ -10,6 +10,9 @@ latitude: -18.99999
 longitude: -40.41666
 wikipedia_url: "https://en.wikipedia.org/wiki/Tupiniquim_dialect"
 translations:
+  - translation_iso: jpn
+    name: トゥピナンバ語
+    auto: true
   - translation_iso: zho
     name: 图皮尼金语
     auto: true

@@ -15,6 +15,9 @@ glottolog_family_name: Guaicuruan
 glottolog_classification: "Guaicuruan > Kadiwéu"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kadiw%C3%A9u_language"
 translations:
+  - translation_iso: jpn
+    name: カディウェウ語
+    auto: true
   - translation_iso: zho
     name: 卡都維歐語
 ---

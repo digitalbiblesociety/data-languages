@@ -17,6 +17,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Paite_language"
 translations:
   - translation_iso: hin
     name: पिटे भाषा
+  - translation_iso: jpn
+    name: パイテ・チン語
+    auto: true
   - translation_iso: zho
     name: 派特钦语
     auto: true

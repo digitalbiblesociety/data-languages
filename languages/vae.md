@@ -15,6 +15,9 @@ glottolog_family_name: Central Sudanic
 glottolog_classification: "Central Sudanic > Sara-Bongo-Bagirmi > SBB Occidental > Nuclear SBB Occidental > Nduga-Luto > Vale"
 wikipedia_url: "https://en.wikipedia.org/wiki/Vale_language"
 translations:
+  - translation_iso: jpn
+    name: ヴァレ語
+    auto: true
   - translation_iso: zho
     name: 瓦莱语
     auto: true

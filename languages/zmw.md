@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > Central-Western Bantu > North Zaire River > Inner Basin Bantu > Keleic > Kele-Poke > So-Poke > So-Lebonya > Lebonya > Bantu D33 > Budu-Ndaka-Mbo > Ndaka-Mbo > Mbo (Democratic Republic of Congo)"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mbo_language_(Congo)"
 translations:
+  - translation_iso: jpn
+    name: ムボ語（コンゴ民主共和国）
+    auto: true
   - translation_iso: zho
     name: 姆博语(刚果民主共和国)
     auto: true

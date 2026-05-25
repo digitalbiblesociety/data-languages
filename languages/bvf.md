@@ -15,6 +15,9 @@ glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > East Chadic > East Chadic B > East Chadic B.3 > Sokoroic > Miltuic > Boor"
 wikipedia_url: "https://en.wikipedia.org/wiki/Boor_language"
 translations:
+  - translation_iso: jpn
+    name: ボール語
+    auto: true
   - translation_iso: zho
     name: 博尔语
     auto: true

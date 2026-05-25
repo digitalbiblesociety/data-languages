@@ -11,6 +11,9 @@ longitude: 142.47498
 glottocode: duna1248
 wikipedia_url: "https://en.wikipedia.org/wiki/Duna_language"
 translations:
+  - translation_iso: jpn
+    name: ドゥナ語
+    auto: true
   - translation_iso: zho
     name: 杜纳语
     auto: true

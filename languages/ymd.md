@@ -15,6 +15,9 @@ glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Burmo-Qiangic > Lolo-Burmese > Loloish > Hani-Jino > Bisoid-Hanic > Hanic > Ha-Ya > Akhaic > Muda"
 wikipedia_url: "https://en.wikipedia.org/wiki/Muda_language"
 translations:
+  - translation_iso: jpn
+    name: ムダ語
+    auto: true
   - translation_iso: zho
     name: 木达语
 ---

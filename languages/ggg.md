@@ -14,6 +14,9 @@ glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Indo-Aryan > Middle-Modern Indo-Aryan > Continental Indo-Aryan > Midlands Indo-Aryan > Shaurasenic > Indo-Aryan Central zone > Western Hindi > Unclassified Western Hindi > Ghera-Gurgula > Gurgula"
 wikipedia_url: "https://en.wikipedia.org/wiki/Gurgula_language"
 translations:
+  - translation_iso: jpn
+    name: グルグラ語
+    auto: true
   - translation_iso: zho
     name: 古尔古拉语
     auto: true

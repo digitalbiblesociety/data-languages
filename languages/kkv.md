@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Maduresic > Kangean"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kangean_language"
 translations:
+  - translation_iso: jpn
+    name: カンギアン語
+    auto: true
   - translation_iso: zho
     name: 康甘语
     auto: true

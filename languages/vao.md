@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > North and Central Vanuatu > Central Vanuatu > Malakula > Northern Malakula > North Coast Malakula > Botovro-Vovo-Vao > Vao-Vovo"
 wikipedia_url: "https://en.wikipedia.org/wiki/Vao_language"
 translations:
+  - translation_iso: jpn
+    name: ヴァオ語
+    auto: true
   - translation_iso: zho
     name: Vao語
 rolv_dialects:

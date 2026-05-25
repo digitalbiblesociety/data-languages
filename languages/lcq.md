@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Nunusaku > Piru Bay > West Piru Bay > Hoamoal > West Hoamoal > Luhu-Piru"
 wikipedia_url: "https://en.wikipedia.org/wiki/Luhu_language"
 translations:
+  - translation_iso: jpn
+    name: ルフ語
+    auto: true
   - translation_iso: zho
     name: 鲁胡语
 rolv_dialects:

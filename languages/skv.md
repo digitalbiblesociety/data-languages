@@ -15,6 +15,9 @@ glottolog_family_name: Sko
 glottolog_classification: "Sko > Skou-Serra-Piore > Skouic > Skou"
 wikipedia_url: "https://en.wikipedia.org/wiki/Skou_language"
 translations:
+  - translation_iso: jpn
+    name: トゥマウォ語
+    auto: true
   - translation_iso: zho
     name: 斯库语
     auto: true

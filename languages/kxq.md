@@ -15,6 +15,9 @@ glottolog_family_name: Yam
 glottolog_classification: "Yam > Kanum > Smärky Kanum"
 wikipedia_url: "https://en.wikipedia.org/wiki/Smerki_language"
 translations:
+  - translation_iso: jpn
+    name: スメルキー・カヌム語
+    auto: true
   - translation_iso: zho
     name: 斯玛基卡努姆语
     auto: true

@@ -8,6 +8,9 @@ latitude: -4.77103
 longitude: 145.5701
 wikipedia_url: "https://en.wikipedia.org/wiki/Yamben_language"
 translations:
+  - translation_iso: jpn
+    name: ヤンベン語
+    auto: true
   - translation_iso: zho
     name: 扬本语
     auto: true

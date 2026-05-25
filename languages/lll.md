@@ -14,6 +14,9 @@ glottolog_family_name: Bogia
 glottolog_classification: "Bogia > Lilau"
 wikipedia_url: "https://en.wikipedia.org/wiki/Lilau_language"
 translations:
+  - translation_iso: jpn
+    name: リラウ語
+    auto: true
   - translation_iso: zho
     name: 利劳语
     auto: true

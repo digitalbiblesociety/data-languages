@@ -14,6 +14,9 @@ glottolog_family_id: nucl1709
 glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Asmat-Awyu-Ok > Asmat-Kamrau Bay > Asmat-Kamoro > Asmat > Citak Asmat > Tamnim Citak"
 translations:
+  - translation_iso: jpn
+    name: タムニン・チタク語
+    auto: true
   - translation_iso: zho
     name: 塔明尼姆齐塔克语
     auto: true

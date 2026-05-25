@@ -15,6 +15,9 @@ glottolog_family_name: Maban
 glottolog_classification: "Maban > Mabang > Maba-Masalit > Macro-Maba > Kendeje"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kendeje_language"
 translations:
+  - translation_iso: jpn
+    name: ケンデジェ語
+    auto: true
   - translation_iso: zho
     name: 肯德杰语
     auto: true

@@ -14,6 +14,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Bima-Lembata > Sumba-Hawu > Sumba > Central-East Sumbanese > Central Sumbanese > Anakalang"
 wikipedia_url: "https://en.wikipedia.org/wiki/Anakalangu_language"
 translations:
+  - translation_iso: jpn
+    name: アナカラング語
+    auto: true
   - translation_iso: zho
     name: 阿纳卡兰古语
     auto: true

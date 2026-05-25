@@ -15,6 +15,9 @@ glottolog_family_name: Suki-Gogodala
 glottolog_classification: "Suki-Gogodala > Gogodalic > Ari-Waruna > Ari"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ari_language_(New_Guinea)"
 translations:
+  - translation_iso: jpn
+    name: アリ語
+    auto: true
   - translation_iso: kor
     name: 아리어
   - translation_iso: zho

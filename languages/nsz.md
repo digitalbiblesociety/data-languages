@@ -15,6 +15,9 @@ glottolog_family_name: Maiduan
 glottolog_classification: "Maiduan > Nisenan"
 wikipedia_url: "https://en.wikipedia.org/wiki/Nisenan_language"
 translations:
+  - translation_iso: jpn
+    name: ニセナン語
+    auto: true
   - translation_iso: zho
     name: 尼塞南语
     auto: true

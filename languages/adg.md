@@ -15,6 +15,9 @@ glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > Arandic-Thura-Yura > Arandic > South Arandic > Upper Arrernte > Central-Eastern Arrernte > Andegerebinha"
 wikipedia_url: "https://en.wikipedia.org/wiki/Andegerebinha_dialect"
 translations:
+  - translation_iso: jpn
+    name: アンデゲレビンハ語
+    auto: true
   - translation_iso: zho
     name: 安德格雷比尼亚语
     auto: true

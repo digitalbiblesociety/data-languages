@@ -14,6 +14,9 @@ glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Finisterre-Huon > Finisterre-Saruwaged > Warup > Nuclear Warup > Unclassified Nuclear Warup > Bulgebi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Bulgebi_language"
 translations:
+  - translation_iso: jpn
+    name: ブルゲビ語
+    auto: true
   - translation_iso: zho
     name: 布尔盖比语
     auto: true

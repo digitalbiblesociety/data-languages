@@ -10,6 +10,9 @@ latitude: 8.8956
 longitude: 11.95269
 wikipedia_url: "https://en.wikipedia.org/wiki/Gengle_language"
 translations:
+  - translation_iso: jpn
+    name: ゲングル語
+    auto: true
   - translation_iso: zho
     name: 根格勒语
     auto: true

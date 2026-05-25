@@ -12,6 +12,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Ebira-Nupoid > Macro-Nupoid > Nupoid > Koro Zuba"
 wikipedia_url: "https://en.wikipedia.org/wiki/Koro_Zuba_language"
 translations:
+  - translation_iso: jpn
+    name: コロ・ズバ語
+    auto: true
   - translation_iso: zho
     name: 科罗-祖巴语
     auto: true

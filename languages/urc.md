@@ -14,6 +14,9 @@ glottolog_family_id: giim1238
 glottolog_family_name: Giimbiyu
 glottolog_classification: "Giimbiyu > Urninganggic > Urningangg"
 translations:
+  - translation_iso: jpn
+    name: マンゲール語
+    auto: true
   - translation_iso: zho
     name: 乌尔宁甘格语
     auto: true

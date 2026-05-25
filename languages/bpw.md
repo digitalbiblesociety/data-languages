@@ -15,6 +15,9 @@ glottolog_family_name: Left May
 glottolog_classification: "Left May > Western Left May > Iteri-Bo > Bo (Papua New Guinea)"
 wikipedia_url: "https://en.wikipedia.org/wiki/Bo_language_(New_Guinea)"
 translations:
+  - translation_iso: jpn
+    name: ボ語
+    auto: true
   - translation_iso: zho
     name: 博语（巴布亚新几内亚）
     auto: true

@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Nunusaku > Piru Bay > East Piru Bay > Solehua > Seram Straits > Ambonic > Central Ambon > Laha (Indonesia)"
 wikipedia_url: "https://en.wikipedia.org/wiki/Laha_language_(Indonesia)"
 translations:
+  - translation_iso: jpn
+    name: ラハ語
+    auto: true
   - translation_iso: zho
     name: 拉哈语
     auto: true

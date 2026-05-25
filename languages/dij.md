@@ -14,6 +14,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Timor-Babar > Southwest Maluku > Babar > North Babaric > Dai"
 wikipedia_url: "https://en.wikipedia.org/wiki/Dai_language_(Austronesian)"
 translations:
+  - translation_iso: jpn
+    name: ダイ語
+    auto: true
   - translation_iso: zho
     name: 戴语
 rolv_dialects:

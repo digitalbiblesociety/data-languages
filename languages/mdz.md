@@ -15,6 +15,9 @@ glottolog_family_name: Tupian
 glottolog_classification: "Tupian > Eastern Tupian > Maweti-Guarani > Aweti-Guarani > Tupi-Guarani > Tupi-Guarani Subgroup IV > Tupi-Guarani Subgroup IV.A > Suruí Do Pará"
 wikipedia_url: "https://en.wikipedia.org/wiki/Suru%C3%AD_do_Par%C3%A1_language"
 translations:
+  - translation_iso: jpn
+    name: スルイ・ド・パラ語
+    auto: true
   - translation_iso: zho
     name: 苏鲁伊－帕拉语
     auto: true

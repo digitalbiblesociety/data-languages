@@ -15,6 +15,9 @@ glottolog_family_name: Nuclear-Macro-Je
 glottolog_classification: "Nuclear-Macro-Je > Karajá"
 wikipedia_url: "https://en.wikipedia.org/wiki/Karaj%C3%A1_language"
 translations:
+  - translation_iso: jpn
+    name: カラジャ語
+    auto: true
   - translation_iso: zho
     name: 卡拉贾语
     auto: true

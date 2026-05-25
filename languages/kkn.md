@@ -10,6 +10,9 @@ latitude: 21.63694
 longitude: 100.27835
 wikipedia_url: "https://en.wikipedia.org/wiki/Kon_Keu_language"
 translations:
+  - translation_iso: jpn
+    name: コン・クー語
+    auto: true
   - translation_iso: zho
     name: 昆克乌语
     auto: true

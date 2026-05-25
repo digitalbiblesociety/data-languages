@@ -15,6 +15,9 @@ glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Indo-Aryan > Middle-Modern Indo-Aryan > Continental Indo-Aryan > Indo-Aryan Eastern zone > Oriya-Gauda-Kamrupa > Gauda-Kamrupa > Gauda-Banga > Unclassified Gauda-Banga > Kurmukar"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kurmukar_language"
 translations:
+  - translation_iso: jpn
+    name: クルムカル語
+    auto: true
   - translation_iso: zho
     name: 库尔穆卡尔语
     auto: true

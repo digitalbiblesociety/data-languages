@@ -15,6 +15,9 @@ glottolog_family_name: Gunwinyguan
 glottolog_classification: "Gunwinyguan > Western Gunwinyguan > Warrayic > Warray"
 wikipedia_url: "https://en.wikipedia.org/wiki/Warray_language"
 translations:
+  - translation_iso: jpn
+    name: ワレイ語（オーストラリア）
+    auto: true
   - translation_iso: zho
     name: 澳大利亚瓦瑞语
     auto: true

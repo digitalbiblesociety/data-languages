@@ -14,6 +14,9 @@ glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > West Chadic > West Chadic B > West Chadic B.3 > South Bauchi West > Northwest South Bauchi > Polci-Luri > Polcic > Pesse"
 wikipedia_url: "https://en.wikipedia.org/wiki/Pesse_language"
 translations:
+  - translation_iso: jpn
+    name: ペッセ語
+    auto: true
   - translation_iso: zho
     name: 佩塞语
     auto: true

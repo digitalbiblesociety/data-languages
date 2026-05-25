@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Central Luzon > Sambalic > Abellen-Botolan > Botolan Sambal"
 wikipedia_url: "https://en.wikipedia.org/wiki/Botolan_language"
 translations:
+  - translation_iso: jpn
+    name: ボトラン・サンバル語
+    auto: true
   - translation_iso: zho
     name: 博托兰桑巴尔语
     auto: true

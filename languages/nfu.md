@@ -14,6 +14,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Wide Grassfields > Narrow Grassfields > Mbam-Nkam > Nkambe > Mfumteic > Central-Southern Mfumte > Southern Mfumte"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mfumte_language"
 translations:
+  - translation_iso: jpn
+    name: ムフムテ語
+    auto: true
   - translation_iso: zho
     name: 姆方特语
     auto: true

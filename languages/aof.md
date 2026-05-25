@@ -15,6 +15,9 @@ glottolog_family_name: Nuclear Torricelli
 glottolog_classification: "Nuclear Torricelli > Wapei-Palei > Central Torricelli > Nuclear Palai > Bragat-Aruop-Amol > Bragat"
 wikipedia_url: "https://en.wikipedia.org/wiki/Bragat_language"
 translations:
+  - translation_iso: jpn
+    name: ブラガット語
+    auto: true
   - translation_iso: zho
     name: 布拉加特语
     auto: true

@@ -15,6 +15,9 @@ glottolog_family_name: Dajuic
 glottolog_classification: "Dajuic > Western Dajuic > Nyala Dajuic > Dar Fur Daju"
 wikipedia_url: "https://en.wikipedia.org/wiki/Nyala_language_(Sudan)"
 translations:
+  - translation_iso: jpn
+    name: ダルフール・ダジュ語
+    auto: true
   - translation_iso: zho
     name: 达尔富尔达朱语
     auto: true

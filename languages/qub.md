@@ -15,6 +15,9 @@ glottolog_family_name: Quechuan
 glottolog_classification: "Quechuan > Quechua I > Central Quechua I > AP-AM-AH > Huallaga Huánuco Quechua"
 wikipedia_url: "https://en.wikipedia.org/wiki/Huallaga_Quechua"
 translations:
+  - translation_iso: jpn
+    name: ワラガウアヌコケチュア語
+    auto: true
   - translation_iso: zho
     name: 瓦亚加瓦努科克丘亚语
     auto: true

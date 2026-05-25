@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Kainji > Central Kainji > Shiroro-Kamuku > Shiroro > Bauchi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Bauchi_language"
 translations:
+  - translation_iso: jpn
+    name: バウチ語
+    auto: true
   - translation_iso: zho
     name: 包奇语
     auto: true

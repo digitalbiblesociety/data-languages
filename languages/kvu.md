@@ -14,6 +14,9 @@ glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Karenic > Northern Karen > Yinbaw Karen"
 translations:
+  - translation_iso: jpn
+    name: イインバウ・カレン語
+    auto: true
   - translation_iso: zho
     name: 因巴旺卡伦语
     auto: true

@@ -15,6 +15,9 @@ glottolog_family_name: Tucanoan
 glottolog_classification: "Tucanoan > Eastern Tucanoan > Eastern Eastern Tucanoan > Eastern Eastern Tucanoan I > Bara-Tatuyo > Tatuyo"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tatuyo_language"
 translations:
+  - translation_iso: jpn
+    name: タトゥヨ語
+    auto: true
   - translation_iso: zho
     name: 塔图约语
     auto: true

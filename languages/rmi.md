@@ -15,6 +15,9 @@ glottolog_family_name: Speech Register
 glottolog_classification: "Speech Register > Indo-European Speech Register > Lomavren"
 wikipedia_url: "https://en.wikipedia.org/wiki/Lomavren_language"
 translations:
+  - translation_iso: jpn
+    name: ロマブレン語
+    auto: true
   - translation_iso: zho
     name: 羅美語
 ---

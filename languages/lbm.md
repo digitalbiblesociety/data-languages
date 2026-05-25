@@ -17,6 +17,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Lodhi_language"
 translations:
   - translation_iso: hin
     name: lodhi
+  - translation_iso: jpn
+    name: ロディ語
+    auto: true
   - translation_iso: zho
     name: 罗地语
 rolv_dialects:

@@ -15,6 +15,9 @@ glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > West Chadic > West Chadic A > West Chadic A.4 > Fyer-Tambas > Fyer"
 wikipedia_url: "https://en.wikipedia.org/wiki/Fyer_language"
 translations:
+  - translation_iso: jpn
+    name: フィエル語
+    auto: true
   - translation_iso: zho
     name: 费耶尔语
     auto: true

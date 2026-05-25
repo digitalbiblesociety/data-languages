@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > North New Guinea linkage > Ngero-Vitiaz linkage > Vitiaz linkage > Korap linkage > Malasanga"
 wikipedia_url: "https://en.wikipedia.org/wiki/Malasanga_language"
 translations:
+  - translation_iso: jpn
+    name: パノ語
+    auto: true
   - translation_iso: zho
     name: 帕诺语
     auto: true

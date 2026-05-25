@@ -15,6 +15,9 @@ glottolog_family_name: Mande
 glottolog_classification: "Mande > Eastern Mande > Southeastern Mande > Mano-Dan > Guro-Dan > Dan-Toura > Toura-Goo > Toura (Côte d'Ivoire)"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tura_language"
 translations:
+  - translation_iso: jpn
+    name: トゥーラ語
+    auto: true
   - translation_iso: zho
     name: 托拉语
     auto: true

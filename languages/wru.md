@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Celebic > Greater Eastern Celebic > Eastern Celebic > Southeastern Celebic > Bungku-Tolaki > Western Bungku-Tolaki > West Coast Bungku-Tolaki > Waru"
 wikipedia_url: "https://en.wikipedia.org/wiki/Waru_language"
 translations:
+  - translation_iso: jpn
+    name: ワル語
+    auto: true
   - translation_iso: zho
     name: 瓦鲁语
     auto: true

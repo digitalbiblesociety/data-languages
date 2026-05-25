@@ -9,6 +9,9 @@ status_id: 8a
 latitude: 27.35802
 longitude: 86.98242
 translations:
+  - translation_iso: jpn
+    name: チュクワ語
+    auto: true
   - translation_iso: zho
     name: 楚库瓦语
     auto: true

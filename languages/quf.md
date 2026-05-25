@@ -15,6 +15,9 @@ glottolog_family_name: Quechuan
 glottolog_classification: "Quechuan > Cajamarca-Lambayeque Quechua > Lambayeque Quechua"
 wikipedia_url: "https://en.wikipedia.org/wiki/Lambayeque_Quechua"
 translations:
+  - translation_iso: jpn
+    name: ランバイェケケチュア語
+    auto: true
   - translation_iso: zho
     name: 兰巴耶克克丘亚语
     auto: true

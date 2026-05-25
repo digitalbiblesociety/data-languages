@@ -15,6 +15,9 @@ glottolog_family_name: Chinookan
 glottolog_classification: "Chinookan > Lower Chinookan > Clatsop-Shoalwater Chinook"
 wikipedia_url: "https://en.wikipedia.org/wiki/Lower_Chinook"
 translations:
+  - translation_iso: jpn
+    name: チヌーク語
+    auto: true
   - translation_iso: zho
     name: 奇努克语
     auto: true

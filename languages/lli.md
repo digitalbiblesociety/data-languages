@@ -13,6 +13,9 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > Central-Western Bantu > West-Coastal Bantu > Nzadic > Lweric > Dingic > Loange-Atlantic > Kwilu-Ngounie > Kasai-Ngounie > Moyen Kasai-Ngounie > Interior Kasai-Ngounie > West Kasai-Ngounie > Northwest Kasai-Ngounie > Nzebi-Laali-Yaa > Laali-Yaa > Teke-Laali"
 translations:
+  - translation_iso: jpn
+    name: テケ・ラアリ語
+    auto: true
   - translation_iso: zho
     name: 特克-拉阿利语
     auto: true

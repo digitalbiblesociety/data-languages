@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Kainji > Central Kainji > Shiroro-Kamuku > Kamuku-Hungwarya > Kamuku > Rogo-Sagamuk-Sama-Sambuga > Rogo"
 wikipedia_url: "https://en.wikipedia.org/wiki/Rogo_language"
 translations:
+  - translation_iso: jpn
+    name: ロゴ語
+    auto: true
   - translation_iso: zho
     name: 罗戈语
     auto: true

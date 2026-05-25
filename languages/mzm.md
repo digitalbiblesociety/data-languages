@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Cameroun-Ubangian > Central Adamawa > Mumuye-Yandang > Mumuyic > Mumuye"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mumuye_language"
 translations:
+  - translation_iso: jpn
+    name: ムムイェ語
+    auto: true
   - translation_iso: zho
     name: 穆姆耶语
     auto: true

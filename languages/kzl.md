@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Nunusaku > Kayeli"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kayeli_language"
 translations:
+  - translation_iso: jpn
+    name: カヤリ語
+    auto: true
   - translation_iso: zho
     name: 卡耶利语
     auto: true

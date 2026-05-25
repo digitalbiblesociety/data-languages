@@ -14,6 +14,9 @@ glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Karenic > Central Karen > Kayaw-Manu > Manumanaw Karen"
 translations:
+  - translation_iso: jpn
+    name: マヌマナウ・カレン語
+    auto: true
   - translation_iso: zho
     name: 玛努玛瑙卡伦语
     auto: true

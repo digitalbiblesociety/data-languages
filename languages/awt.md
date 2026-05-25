@@ -15,6 +15,9 @@ glottolog_family_name: Tupian
 glottolog_classification: "Tupian > Eastern Tupian > Maweti-Guarani > Aweti-Guarani > Tupi-Guarani > Tupi-Guarani Subgroup V > Arawetic > Araweté"
 wikipedia_url: "https://en.wikipedia.org/wiki/Arawet%C3%A9_language"
 translations:
+  - translation_iso: jpn
+    name: アラウェテ語
+    auto: true
   - translation_iso: zho
     name: 阿拉韦特语
     auto: true

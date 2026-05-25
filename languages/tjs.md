@@ -14,6 +14,9 @@ glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Burmo-Qiangic > Tujia > Southern Tujia"
 translations:
+  - translation_iso: jpn
+    name: 南部トゥジア語
+    auto: true
   - translation_iso: zho
     name: 孟兹语
 ---

@@ -17,6 +17,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Pnar_language"
 translations:
   - translation_iso: hin
     name: प्नार भाषा
+  - translation_iso: jpn
+    name: プナル語
+    auto: true
   - translation_iso: zho
     name: 布那语
 rolv_dialects:

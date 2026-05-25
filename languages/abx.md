@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Basap-Greater Barito > Greater Barito linkage > Sama-Bajaw > Inabaknon"
 wikipedia_url: "https://en.wikipedia.org/wiki/Abaknon_language"
 translations:
+  - translation_iso: jpn
+    name: イナバクノン語
+    auto: true
   - translation_iso: zho
     name: 伊那巴克农语
     auto: true

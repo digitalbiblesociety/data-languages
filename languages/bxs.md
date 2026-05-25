@@ -14,6 +14,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Wide Grassfields > Narrow Grassfields > Southwest Grassfields > Busam"
 wikipedia_url: "https://en.wikipedia.org/wiki/Busam_language"
 translations:
+  - translation_iso: jpn
+    name: ブサム語
+    auto: true
   - translation_iso: zho
     name: 布萨姆语
     auto: true

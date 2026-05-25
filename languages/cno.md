@@ -10,6 +10,9 @@ latitude: 20.64417
 longitude: 100.90354
 wikipedia_url: "https://en.wikipedia.org/wiki/Con_language"
 translations:
+  - translation_iso: jpn
+    name: コン語
+    auto: true
   - translation_iso: zho
     name: 康语
     auto: true

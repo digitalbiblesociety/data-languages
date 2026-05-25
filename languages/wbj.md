@@ -15,6 +15,9 @@ glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Cushitic > South Cushitic > Greater West Rift South Cushitic > West Rift South Cushitic > Northern West Rift South Cushitic > Alagwa"
 wikipedia_url: "https://en.wikipedia.org/wiki/Alagwa_language"
 translations:
+  - translation_iso: jpn
+    name: アラグワ語
+    auto: true
   - translation_iso: zho
     name: 阿拉瓜語
 ---

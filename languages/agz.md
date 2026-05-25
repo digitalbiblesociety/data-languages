@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Greater Central Philippine > Central Philippine > Bikol > Inagta Bikol > Mt. Iriga Agta"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mount_Iriga_Agta_language"
 translations:
+  - translation_iso: jpn
+    name: Mt.イリガ・アグタ語
+    auto: true
   - translation_iso: zho
     name: 伊里加山艾塔语
     auto: true

@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Mansoanka"
 wikipedia_url: "https://en.wikipedia.org/wiki/Sua_language"
 translations:
+  - translation_iso: jpn
+    name: マンソアンカ語
+    auto: true
   - translation_iso: zho
     name: 曼索安卡语
     auto: true

@@ -14,6 +14,9 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Gur > Central Gur > Southern Central Gur > Grusi > Northern Grusi > Nuna-Kasem > Nuni > Northern Nuni"
 translations:
+  - translation_iso: jpn
+    name: 北ヌニ語
+    auto: true
   - translation_iso: zho
     name: 北努尼语
     auto: true

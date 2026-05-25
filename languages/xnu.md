@@ -8,6 +8,9 @@ country_name: Australia
 status_id: "10"
 wikipedia_url: "https://en.wikipedia.org/wiki/Nunukul_language"
 translations:
+  - translation_iso: jpn
+    name: ヌクヌル語
+    auto: true
   - translation_iso: zho
     name: 努库努尔语
     auto: true

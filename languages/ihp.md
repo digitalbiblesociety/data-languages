@@ -14,6 +14,9 @@ glottolog_family_name: West Bomberai
 glottolog_classification: "West Bomberai > Nuclear West Bomberai > Iha"
 wikipedia_url: "https://en.wikipedia.org/wiki/Iha_language"
 translations:
+  - translation_iso: jpn
+    name: イハ語
+    auto: true
   - translation_iso: zho
     name: 伊哈语
     auto: true

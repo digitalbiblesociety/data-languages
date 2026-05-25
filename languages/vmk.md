@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > East Bantu > North Mozambique Bantu > Makua-Lomwe > Makhuwa-Shirima"
 wikipedia_url: "https://en.wikipedia.org/wiki/Makhuwa-Shirima_language"
 translations:
+  - translation_iso: jpn
+    name: マクワ・シリマ語
+    auto: true
   - translation_iso: zho
     name: 马库瓦-希里玛语
     auto: true

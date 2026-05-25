@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Sumatran > Central Barrier Islands > Sikule"
 wikipedia_url: "https://en.wikipedia.org/wiki/Sigulai_language"
 translations:
+  - translation_iso: jpn
+    name: ワリバヌア語
+    auto: true
   - translation_iso: zho
     name: 希库列语
 rolv_dialects:

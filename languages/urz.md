@@ -15,6 +15,9 @@ glottolog_family_name: Tupian
 glottolog_classification: "Tupian > Eastern Tupian > Maweti-Guarani > Aweti-Guarani > Tupi-Guarani > Tupi-Guarani Subgroup VI > Kawahiva > Nuclear Kawahiva > Central Kawahiva > Amondava-Uru-Eu-Wau-Wau > Uru-Eu-Wau-Wau"
 wikipedia_url: "https://en.wikipedia.org/wiki/Uru-Eu-Wau-Wau_dialect"
 translations:
+  - translation_iso: jpn
+    name: カワヒブ語
+    auto: true
   - translation_iso: zho
     name: 乌鲁-埃乌-瓦乌-瓦乌语
     auto: true

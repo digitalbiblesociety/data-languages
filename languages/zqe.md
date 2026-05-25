@@ -14,6 +14,9 @@ glottolog_family_id: taik1256
 glottolog_family_name: Tai-Kadai
 glottolog_classification: "Tai-Kadai > Kam-Tai > Daic-Beic > Daic > Northern Daic-Sek > Northern Daic > Northern Tai > Yei Zhuang > Qiubei Zhuang"
 translations:
+  - translation_iso: jpn
+    name: チウベイ・ズアン語
+    auto: true
   - translation_iso: zho
     name: 丘北壮语
     auto: true

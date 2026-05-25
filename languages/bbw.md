@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Wide Grassfields > Narrow Grassfields > Mbam-Nkam > Southern Mbam-Nkam > Mbam-Nkam Nun > Baba"
 wikipedia_url: "https://en.wikipedia.org/wiki/Baba_language"
 translations:
+  - translation_iso: jpn
+    name: ババ語
+    auto: true
   - translation_iso: zho
     name: 巴巴语
     auto: true

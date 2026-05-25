@@ -15,6 +15,9 @@ glottolog_family_name: Otomanguean
 glottolog_classification: "Otomanguean > Eastern Otomanguean > Amuzgo-Mixtecan > Mixtecan > Mixtec-Cuicatec > Mixtec > Western Alta Mixtec > Tlaxiacic > Magdalena Peñasco Mixtec"
 wikipedia_url: "https://en.wikipedia.org/wiki/Pe%C3%B1asco_Mixtec"
 translations:
+  - translation_iso: jpn
+    name: マグダレナ・ペニャスコ・ミステク語
+    auto: true
   - translation_iso: zho
     name: 马格达莱纳-佩纳斯科-米斯特克语
     auto: true

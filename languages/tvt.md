@@ -15,6 +15,9 @@ glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Brahmaputran > Patkaian > North Patkaian > Noctean > Tutsic > Tutsa Naga"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tutsa_language"
 translations:
+  - translation_iso: jpn
+    name: トトチャ語
+    auto: true
   - translation_iso: zho
     name: 图萨纳加语
     auto: true

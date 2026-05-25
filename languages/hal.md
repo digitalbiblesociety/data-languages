@@ -15,6 +15,9 @@ glottolog_family_name: Austroasiatic
 glottolog_classification: "Austroasiatic > Bahnaric > North Bahnaric > Kayong-Jeh-Halang > Jeh-Halang > Halang"
 wikipedia_url: "https://en.wikipedia.org/wiki/Halang_language"
 translations:
+  - translation_iso: jpn
+    name: ハラング語
+    auto: true
   - translation_iso: zho
     name: 哈朗语
 ---

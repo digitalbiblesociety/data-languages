@@ -15,6 +15,9 @@ glottolog_family_name: Ta-Ne-Omotic
 glottolog_classification: "Ta-Ne-Omotic > Ometo > North-West Ometo > Central Ometo > Dawro-Gofa-Gamo > Dawro"
 wikipedia_url: "https://en.wikipedia.org/wiki/Dawro"
 translations:
+  - translation_iso: jpn
+    name: ダウロ語
+    auto: true
   - translation_iso: zho
     name: 达乌罗语
     auto: true

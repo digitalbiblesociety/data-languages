@@ -14,6 +14,9 @@ glottolog_family_id: quec1387
 glottolog_family_name: Quechuan
 glottolog_classification: "Quechuan > Quechua I > Central Quechua I > Huaylay > Huamalíes-Dos de Mayo Huánuco Quechua"
 translations:
+  - translation_iso: jpn
+    name: ワマリエスドスデマヨワヌコケチュア語
+    auto: true
   - translation_iso: zho
     name: 瓦马利埃斯-多斯德梅约瓦努科克丘亚语
     auto: true

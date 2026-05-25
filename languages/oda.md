@@ -10,6 +10,9 @@ latitude: 5.20317
 longitude: 8.27253
 wikipedia_url: "https://en.wikipedia.org/wiki/Odut_language"
 translations:
+  - translation_iso: jpn
+    name: オドゥト語
+    auto: true
   - translation_iso: zho
     name: 奥杜特语
     auto: true

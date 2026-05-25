@@ -14,6 +14,9 @@ glottolog_family_id: aust1305
 glottolog_family_name: Austroasiatic
 glottolog_classification: "Austroasiatic > Katuic > Ta'oihic > Ong-Ta'oih > Lower Ta'oih"
 translations:
+  - translation_iso: jpn
+    name: タオイ語
+    auto: true
   - translation_iso: zho
     name: 下塔欧伊语
     auto: true

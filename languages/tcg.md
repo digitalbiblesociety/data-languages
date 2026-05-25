@@ -15,6 +15,9 @@ glottolog_family_name: Kayagaric
 glottolog_classification: "Kayagaric > Kaygir-Tamagario > Tamagario"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tamagario_language"
 translations:
+  - translation_iso: jpn
+    name: タマガリオ語
+    auto: true
   - translation_iso: zho
     name: 塔玛加里奥语
     auto: true

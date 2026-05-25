@@ -9,6 +9,9 @@ status_id: 6a
 latitude: 4.42283
 longitude: 20.71609
 translations:
+  - translation_iso: jpn
+    name: ブラカ語
+    auto: true
   - translation_iso: zho
     name: 布拉卡语
     auto: true

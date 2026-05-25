@@ -16,6 +16,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Turi_language"
 translations:
   - translation_iso: hin
     name: तुरी भाषा
+  - translation_iso: jpn
+    name: トゥーリー語
+    auto: true
   - translation_iso: zho
     name: 图里语
 ---

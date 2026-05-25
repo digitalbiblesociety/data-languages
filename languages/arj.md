@@ -15,6 +15,9 @@ glottolog_family_name: Tucanoan
 glottolog_classification: "Tucanoan > Eastern Tucanoan > Eastern Eastern Tucanoan > Eastern Eastern Tucanoan II > Kotiria-Piratapuyo > Piratapuyic > Arapaso-Miriti > Arapaso"
 wikipedia_url: "https://en.wikipedia.org/wiki/Arapaso_language"
 translations:
+  - translation_iso: jpn
+    name: アラパソ語
+    auto: true
   - translation_iso: zho
     name: 阿拉帕索语
     auto: true

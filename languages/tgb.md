@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > North Borneo Malayo-Polynesian > Sabahan > Southwest Sabahan > Greater Dusunic > Dusunic > Tobilung"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tobilung_language"
 translations:
+  - translation_iso: jpn
+    name: トビルン語
+    auto: true
   - translation_iso: zho
     name: 托比隆语
     auto: true

@@ -15,6 +15,9 @@ glottolog_family_name: Nyimang
 glottolog_classification: "Nyimang > Ama (Sudan)"
 wikipedia_url: "https://en.wikipedia.org/wiki/Nyimang_language"
 translations:
+  - translation_iso: jpn
+    name: アマ語（スーダン）
+    auto: true
   - translation_iso: zho
     name: 阿玛语
     auto: true

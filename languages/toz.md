@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Cameroun-Ubangian > Mbumic > Unclassified Mbum > To"
 wikipedia_url: "https://en.wikipedia.org/wiki/To_language"
 translations:
+  - translation_iso: jpn
+    name: トー語
+    auto: true
   - translation_iso: zho
     name: 托语
     auto: true

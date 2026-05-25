@@ -14,6 +14,9 @@ glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > Southeastern Pama-Nyungan > Victorian Pama-Nyungan > Eastern Victoria > Dhudhuroa-Pallanganmiddang > Dhudhuroa"
 wikipedia_url: "https://en.wikipedia.org/wiki/Dhudhuroa_language"
 translations:
+  - translation_iso: jpn
+    name: ドゥドゥロア語
+    auto: true
   - translation_iso: zho
     name: 杜杜罗亚语
     auto: true

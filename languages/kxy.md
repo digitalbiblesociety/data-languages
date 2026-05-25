@@ -15,6 +15,9 @@ glottolog_family_name: Austroasiatic
 glottolog_classification: "Austroasiatic > Bahnaric > North Bahnaric > Kayong-Jeh-Halang > Kayong"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kayong_language_(Vietnam)"
 translations:
+  - translation_iso: jpn
+    name: カヨン語
+    auto: true
   - translation_iso: zho
     name: 歌庸语
 rolv_dialects:

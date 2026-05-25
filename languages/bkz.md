@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Celebic > Greater Eastern Celebic > Eastern Celebic > Southeastern Celebic > Bungku-Tolaki > Eastern Bungku-Tolaki > East Coast Bungku-Tolaki > Bungku"
 wikipedia_url: "https://en.wikipedia.org/wiki/Bungku_language"
 translations:
+  - translation_iso: jpn
+    name: ブングク語
+    auto: true
   - translation_iso: zho
     name: 邦库语
     auto: true

@@ -14,6 +14,9 @@ glottolog_family_name: Keram
 glottolog_classification: "Keram > Ulmapo > Mwakai-Pondi > Pondi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Pondi_language"
 translations:
+  - translation_iso: jpn
+    name: ランガム語
+    auto: true
   - translation_iso: zho
     name: 兰加姆语
     auto: true

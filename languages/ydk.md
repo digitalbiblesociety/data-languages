@@ -14,6 +14,9 @@ glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Madang > Croisilles > Mabuso > Hanseman > Rempic > Yoidik"
 wikipedia_url: "https://en.wikipedia.org/wiki/Yoidik_language"
 translations:
+  - translation_iso: jpn
+    name: ヨイディク語
+    auto: true
   - translation_iso: zho
     name: 约伊迪克语
     auto: true

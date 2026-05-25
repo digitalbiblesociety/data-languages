@@ -15,6 +15,9 @@ glottolog_family_name: Senagi
 glottolog_classification: "Senagi > Dera (Indonesia)"
 wikipedia_url: "https://en.wikipedia.org/wiki/Dera_language"
 translations:
+  - translation_iso: jpn
+    name: デラ語
+    auto: true
   - translation_iso: zho
     name: 德拉語
 rolv_dialects:

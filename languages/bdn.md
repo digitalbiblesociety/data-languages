@@ -15,6 +15,9 @@ glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > Biu-Mandara > North Biu-Mandara > Maroua > Baldamu"
 wikipedia_url: "https://en.wikipedia.org/wiki/Baldemu_language"
 translations:
+  - translation_iso: jpn
+    name: バルデム語
+    auto: true
   - translation_iso: zho
     name: 巴尔德姆语
     auto: true

@@ -15,6 +15,9 @@ glottolog_family_name: Austroasiatic
 glottolog_classification: "Austroasiatic > Khmuic > Phay-Pram > Tinic > Tin > Prai"
 wikipedia_url: "https://en.wikipedia.org/wiki/Prai_language"
 translations:
+  - translation_iso: jpn
+    name: ファイ語
+    auto: true
   - translation_iso: zho
     name: 派语
 rolv_dialects:

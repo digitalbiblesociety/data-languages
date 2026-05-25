@@ -15,6 +15,9 @@ glottolog_family_name: Athabaskan-Eyak-Tlingit
 glottolog_classification: "Athabaskan-Eyak-Tlingit > Athabaskan-Eyak > Athabaskan > Pacific Coast Athabaskan > Oregon Athabaskan > Rogue River > Tututni"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tututni_language"
 translations:
+  - translation_iso: jpn
+    name: 下ローグ川語
+    auto: true
   - translation_iso: zho
     name: 图图特尼语
     auto: true

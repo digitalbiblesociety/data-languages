@@ -14,6 +14,9 @@ glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Burmo-Qiangic > Lolo-Burmese > Loloish > Ni-Li-Kazhouish > Lisoid > Nuclear Lisoid > Lisu-Laluba-Lavu > Laluba-Lavu > Kuansi-Kuamasi-Sonaga > Sonaga"
 wikipedia_url: "https://en.wikipedia.org/wiki/Sonaga_language"
 translations:
+  - translation_iso: jpn
+    name: ソナガ語
+    auto: true
   - translation_iso: zho
     name: 锁内嘎话
 ---

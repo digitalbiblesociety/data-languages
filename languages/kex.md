@@ -10,6 +10,9 @@ latitude: 20.5657
 longitude: 73.57127
 wikipedia_url: "https://en.wikipedia.org/wiki/Southern_Saraswat_Konkani"
 translations:
+  - translation_iso: jpn
+    name: ククナ語
+    auto: true
   - translation_iso: zho
     name: 卡纳里孔卡尼语
 rolv_dialects:

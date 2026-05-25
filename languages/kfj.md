@@ -9,6 +9,9 @@ status_id: 6a
 latitude: 22.06028
 longitude: 101.14386
 translations:
+  - translation_iso: jpn
+    name: ケミエフア語
+    auto: true
   - translation_iso: zho
     name: 克米埃华语
     auto: true

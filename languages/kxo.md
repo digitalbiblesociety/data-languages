@@ -12,6 +12,9 @@ longitude: -64.58121
 glottocode: kano1245
 wikipedia_url: "https://en.wikipedia.org/wiki/Kano%C3%AA_language"
 translations:
+  - translation_iso: jpn
+    name: カノエ語
+    auto: true
   - translation_iso: zho
     name: 卡诺埃语
     auto: true

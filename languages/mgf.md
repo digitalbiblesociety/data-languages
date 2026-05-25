@@ -15,6 +15,9 @@ glottolog_family_name: Bulaka River
 glottolog_classification: "Bulaka River > Maklew"
 wikipedia_url: "https://en.wikipedia.org/wiki/Maklew_language"
 translations:
+  - translation_iso: jpn
+    name: マクレウ語
+    auto: true
   - translation_iso: zho
     name: 玛克鲁语
     auto: true

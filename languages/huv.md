@@ -14,6 +14,9 @@ glottolog_family_id: huav1256
 glottolog_family_name: Huavean
 glottolog_classification: "Huavean > San Dionisio-San Mateo Huave > San Mateo del Mar Huave"
 translations:
+  - translation_iso: jpn
+    name: サン・マテオ・デル・マル・ウアベ語
+    auto: true
   - translation_iso: zho
     name: 圣马特奥德尔玛尔瓦夫语
     auto: true

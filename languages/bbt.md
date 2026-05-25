@@ -15,6 +15,9 @@ glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > West Chadic > West Chadic B > West Chadic B.2 > Nuclear West Chadic B.2 > Mburku"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mburku_language"
 translations:
+  - translation_iso: jpn
+    name: ムブルク語
+    auto: true
   - translation_iso: zho
     name: 姆布尔库语
     auto: true

@@ -17,6 +17,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Chug_language"
 translations:
   - translation_iso: hin
     name: चुग भाषा
+  - translation_iso: jpn
+    name: チュグ語
+    auto: true
   - translation_iso: zho
     name: 楚格语
 ---

@@ -17,6 +17,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Koroshi_dialect"
 translations:
   - translation_iso: ara
     name: اللهجة الكوروشية
+  - translation_iso: jpn
+    name: コロシ語
+    auto: true
   - translation_iso: zho
     name: 科罗希语
     auto: true

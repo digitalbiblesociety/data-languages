@@ -15,6 +15,9 @@ glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Mruic > Anu-Hkongso"
 wikipedia_url: "https://en.wikipedia.org/wiki/Anu-Hkongso_language"
 translations:
+  - translation_iso: jpn
+    name: アヌフコンソ・チン語
+    auto: true
   - translation_iso: zho
     name: 安努-恒贡索秦语
     auto: true

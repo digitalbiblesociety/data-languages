@@ -14,6 +14,9 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Greater Central Philippine > Subanen > Nuclear Subanen > Lapuyan Subanun"
 translations:
+  - translation_iso: jpn
+    name: 南スバネン語
+    auto: true
   - translation_iso: zho
     name: 南苏班嫩语
     auto: true

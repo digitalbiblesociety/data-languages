@@ -15,6 +15,9 @@ glottolog_family_name: Nuclear-Macro-Je
 glottolog_classification: "Nuclear-Macro-Je > Maxakali-Borum > Maxakalian > Nuclear Maxakalian > Pataxó Hã-Ha-Hãe"
 wikipedia_url: "https://en.wikipedia.org/wiki/Patax%C3%B3_language"
 translations:
+  - translation_iso: jpn
+    name: パタショーハーハーハーエ語
+    auto: true
   - translation_iso: zho
     name: 帕塔肖哈哈哈埃语
     auto: true

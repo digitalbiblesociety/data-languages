@@ -15,6 +15,9 @@ glottolog_family_name: Great Andamanese
 glottolog_classification: "Great Andamanese > North Andamanese-Akakede > Northern Great Andamanese > Bo-Cari > Akabo"
 wikipedia_url: "https://en.wikipedia.org/wiki/Akabo_dialect"
 translations:
+  - translation_iso: jpn
+    name: アカボ語
+    auto: true
   - translation_iso: kor
     name: 아카보어
   - translation_iso: zho

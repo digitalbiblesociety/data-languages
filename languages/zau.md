@@ -17,6 +17,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Zangskari_language"
 translations:
   - translation_iso: hin
     name: ज़ंग्सकरी भाषा
+  - translation_iso: jpn
+    name: ザングスカリ語
+    auto: true
   - translation_iso: zho
     name: 桑斯嘎语
 ---

@@ -14,6 +14,9 @@ glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Kuki-Chin-Naga > Angami-Ao > Angami-Pochuri > Angami-Mao > Naga Maoic > Mao Naga"
 translations:
+  - translation_iso: jpn
+    name: マオ・ナガ語
+    auto: true
   - translation_iso: zho
     name: 毛纳加语
     auto: true

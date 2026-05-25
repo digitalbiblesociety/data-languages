@@ -15,6 +15,9 @@ glottolog_family_name: Mande
 glottolog_classification: "Mande > Western Mande > Manding-Kpelle > Central Mande > Manding-Jogo > Jogo-Jeri > Jogo > Ligbi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ligbi_language"
 translations:
+  - translation_iso: jpn
+    name: リグビ語
+    auto: true
   - translation_iso: zho
     name: 利格比语
     auto: true

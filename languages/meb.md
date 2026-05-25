@@ -17,6 +17,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Ikobi_language"
 translations:
   - translation_iso: ara
     name: لغة إيكوبي
+  - translation_iso: jpn
+    name: イコビ語
+    auto: true
   - translation_iso: zho
     name: 伊科比语
     auto: true

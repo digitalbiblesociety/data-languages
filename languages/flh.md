@@ -14,6 +14,9 @@ glottolog_family_name: Lakes Plain
 glottolog_classification: "Lakes Plain > East Lakes Plain > Abawiri"
 wikipedia_url: "https://en.wikipedia.org/wiki/Abawiri"
 translations:
+  - translation_iso: jpn
+    name: フォアウ語
+    auto: true
   - translation_iso: zho
     name: 福奥语
     auto: true

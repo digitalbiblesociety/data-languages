@@ -15,6 +15,9 @@ glottolog_family_name: Left May
 glottolog_classification: "Left May > Western Left May > Nimo-Nakwi > Nimo"
 wikipedia_url: "https://en.wikipedia.org/wiki/Nimo_language"
 translations:
+  - translation_iso: jpn
+    name: ニモ語
+    auto: true
   - translation_iso: zho
     name: 尼莫语
     auto: true

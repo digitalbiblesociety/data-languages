@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > North and Central Vanuatu > Central Vanuatu > Epi-Efate > Epi > Bieria-Maii > Maii"
 wikipedia_url: "https://en.wikipedia.org/wiki/Maii_language"
 translations:
+  - translation_iso: jpn
+    name: マイイ語
+    auto: true
   - translation_iso: zho
     name: 玛伊语
     auto: true

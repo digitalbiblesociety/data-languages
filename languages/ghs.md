@@ -15,6 +15,9 @@ glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Greater Binanderean > Guhu-Samane"
 wikipedia_url: "https://en.wikipedia.org/wiki/Guhu-Samane_language"
 translations:
+  - translation_iso: jpn
+    name: グフ・サマネ語
+    auto: true
   - translation_iso: zho
     name: 古湖-珊曼语
 rolv_dialects:

@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Igboid > Ekpeye"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ekpeye_language"
 translations:
+  - translation_iso: jpn
+    name: エクペイェ語
+    auto: true
   - translation_iso: zho
     name: 埃克佩耶语
     auto: true

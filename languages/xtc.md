@@ -15,6 +15,9 @@ glottolog_family_name: Kadugli-Krongo
 glottolog_classification: "Kadugli-Krongo > Central-Western Kadugli-Krongo > Katcha-Kadugli-Miri-Kanga > Katcha-Kadugli-Miri"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kadugli_language"
 translations:
+  - translation_iso: jpn
+    name: カチャ・カドゥグリ・ミリ語
+    auto: true
   - translation_iso: zho
     name: 卡特查-卡杜格利-米里语
     auto: true

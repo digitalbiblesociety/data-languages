@@ -15,6 +15,9 @@ glottolog_family_name: Athabaskan-Eyak-Tlingit
 glottolog_classification: "Athabaskan-Eyak-Tlingit > Athabaskan-Eyak > Athabaskan > Central Alaska-Yukon Athabaskan > Koyukonic > Holikachuk"
 wikipedia_url: "https://en.wikipedia.org/wiki/Holikachuk_language"
 translations:
+  - translation_iso: jpn
+    name: ホリカチャク語
+    auto: true
   - translation_iso: zho
     name: 霍利卡楚克語
 ---

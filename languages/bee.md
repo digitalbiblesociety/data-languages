@@ -17,6 +17,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Byangsi_language"
 translations:
   - translation_iso: hin
     name: ब्यांग्सी भाषा
+  - translation_iso: jpn
+    name: ビャンシ語
+    auto: true
   - translation_iso: zho
     name: 比扬西语
     auto: true

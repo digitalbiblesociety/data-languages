@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Celebic > Greater Eastern Celebic > Eastern Celebic > Saluan-Banggai > Eastern Saluan-Banggai > Banggai"
 wikipedia_url: "https://en.wikipedia.org/wiki/Banggai_language"
 translations:
+  - translation_iso: jpn
+    name: バンガイ語
+    auto: true
   - translation_iso: zho
     name: 邦盖语
 rolv_dialects:

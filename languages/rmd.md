@@ -15,6 +15,9 @@ glottolog_family_name: Speech Register
 glottolog_classification: "Speech Register > Indo-European Speech Register > Scandinavian Romani > Traveller Danish"
 wikipedia_url: "https://en.wikipedia.org/wiki/Danish_Rodi"
 translations:
+  - translation_iso: jpn
+    name: トラベラーデンマーク語
+    auto: true
   - translation_iso: zho
     name: 丹麦旅行者语
     auto: true

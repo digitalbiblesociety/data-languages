@@ -15,6 +15,9 @@ glottolog_family_name: Arawakan
 glottolog_classification: "Arawakan > Southern Maipuran > Purus-Chamicuro > Purus > Yineic > Machinere"
 wikipedia_url: "https://en.wikipedia.org/wiki/Machinere_language"
 translations:
+  - translation_iso: jpn
+    name: マシネレ語
+    auto: true
   - translation_iso: zho
     name: 马奇内雷语
     auto: true

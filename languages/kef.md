@@ -14,6 +14,9 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Kwa Volta-Congo > Gbe > Western Gbe > Kpesi-Waci > Kpessi"
 translations:
+  - translation_iso: jpn
+    name: クペシ語
+    auto: true
   - translation_iso: zho
     name: 克佩西语
     auto: true

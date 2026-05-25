@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > North New Guinea linkage > Huon Gulf > North Huon Gulf linkage > Kela (Papua New Guinea)"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kala_language"
 translations:
+  - translation_iso: jpn
+    name: ケラ語
+    auto: true
   - translation_iso: zho
     name: 凯拉语（巴布亚新几内亚）
     auto: true

@@ -15,6 +15,9 @@ glottolog_family_name: Iwaidjan Proper
 glottolog_classification: "Iwaidjan Proper > Amurdak"
 wikipedia_url: "https://en.wikipedia.org/wiki/Amurdak_language"
 translations:
+  - translation_iso: jpn
+    name: アムルダック語
+    auto: true
   - translation_iso: zho
     name: 阿穆尔达克语
     auto: true

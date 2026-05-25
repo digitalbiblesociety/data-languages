@@ -17,6 +17,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Trinidadian_Creole"
 translations:
   - translation_iso: ara
     name: كريولية ترينيدية
+  - translation_iso: jpn
+    name: トリニダード・クレオール英語
+    auto: true
   - translation_iso: zho
     name: 特立尼达混合语
 ---

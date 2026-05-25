@@ -15,6 +15,9 @@ glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Himalayish > Mahakiranti > Kiranti > Eastern Kiranti > Khambu > Kulungic > Kulung (Nepal)"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kulung_language_(Nepal)"
 translations:
+  - translation_iso: jpn
+    name: クルン語
+    auto: true
   - translation_iso: zho
     name: 库隆语
     auto: true

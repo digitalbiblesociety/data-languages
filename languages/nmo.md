@@ -17,6 +17,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Moyon_language"
 translations:
   - translation_iso: hin
     name: मोयोन भाषा
+  - translation_iso: jpn
+    name: モヨン・ナガ語
+    auto: true
   - translation_iso: zho
     name: 莫永纳加语
     auto: true

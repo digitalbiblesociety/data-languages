@@ -17,6 +17,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Tima_language"
 translations:
   - translation_iso: ara
     name: لغة دوموريك
+  - translation_iso: jpn
+    name: ティマ語
+    auto: true
   - translation_iso: zho
     name: 蒂玛语
     auto: true

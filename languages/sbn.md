@@ -17,6 +17,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Sindhi_Bhili"
 translations:
   - translation_iso: hin
     name: सिंधी भील
+  - translation_iso: jpn
+    name: シンディ・ビル語
+    auto: true
   - translation_iso: zho
     name: 辛德希-比尔语
     auto: true

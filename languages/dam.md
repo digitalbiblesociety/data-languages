@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Kainji > Central Kainji > Northwestern Kainji > Clela-Damakawa > Damakawa"
 wikipedia_url: "https://en.wikipedia.org/wiki/Damakawa_language"
 translations:
+  - translation_iso: jpn
+    name: ダマカワ語
+    auto: true
   - translation_iso: zho
     name: 达玛卡瓦语
     auto: true

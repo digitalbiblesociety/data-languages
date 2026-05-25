@@ -14,6 +14,9 @@ glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Dani > Central Dani > Grand Valley Dani > Southeast Grand Valley Dani > Hupla"
 wikipedia_url: "https://en.wikipedia.org/wiki/Hupla_language"
 translations:
+  - translation_iso: jpn
+    name: フプラ語
+    auto: true
   - translation_iso: zho
     name: 胡普拉语
     auto: true

@@ -17,6 +17,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Jad_language"
 translations:
   - translation_iso: hin
     name: जाद भाषा
+  - translation_iso: jpn
+    name: ジャド語
+    auto: true
   - translation_iso: zho
     name: 贾德语
     auto: true

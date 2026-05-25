@@ -10,6 +10,9 @@ latitude: 26.61787
 longitude: 87.60416
 wikipedia_url: "https://en.wikipedia.org/wiki/Kewat_language"
 translations:
+  - translation_iso: jpn
+    name: カヨルット語
+    auto: true
   - translation_iso: zho
     name: 卡约尔特语
     auto: true

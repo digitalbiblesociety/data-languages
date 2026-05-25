@@ -15,6 +15,9 @@ glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Chimbu-Wahgi > Hagen > Melpa-Tembagla > Bo-Ung"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tembagla_language"
 translations:
+  - translation_iso: jpn
+    name: ボ・ウン語
+    auto: true
   - translation_iso: zho
     name: 博翁语
     auto: true

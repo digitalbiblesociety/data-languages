@@ -15,6 +15,9 @@ glottolog_family_name: Dajuic
 glottolog_classification: "Dajuic > Eastern Dajuic > Logorik"
 wikipedia_url: "https://en.wikipedia.org/wiki/Logorik_language"
 translations:
+  - translation_iso: jpn
+    name: ロゴリク語
+    auto: true
   - translation_iso: zho
     name: 洛戈里克语
     auto: true

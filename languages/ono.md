@@ -15,6 +15,9 @@ glottolog_family_name: Iroquoian
 glottolog_classification: "Iroquoian > Northern Iroquoian > Lake Iroquoian > Greater Iroquois > Iroquois > Onondaga"
 wikipedia_url: "https://en.wikipedia.org/wiki/Onondaga_language"
 translations:
+  - translation_iso: jpn
+    name: オノンダガ語
+    auto: true
   - translation_iso: kor
     name: 오논다가어
   - translation_iso: zho

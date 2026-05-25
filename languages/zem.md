@@ -13,6 +13,9 @@ glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > West Chadic > West Chadic B > West Chadic B.3 > South Bauchi West > Southwest South Bauchi > Zeemic > Nuclear Zeemic > Zeem"
 wikipedia_url: "https://en.wikipedia.org/wiki/Zeem_language"
 translations:
+  - translation_iso: jpn
+    name: ジーム語
+    auto: true
   - translation_iso: zho
     name: 泽姆语
     auto: true

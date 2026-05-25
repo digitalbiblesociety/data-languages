@@ -15,6 +15,9 @@ glottolog_family_name: Naduhup
 glottolog_classification: "Naduhup > Eastern Naduhup > Dâw"
 wikipedia_url: "https://en.wikipedia.org/wiki/D%C3%A2w_language"
 translations:
+  - translation_iso: jpn
+    name: ダウ語
+    auto: true
   - translation_iso: kor
     name: 다우어
   - translation_iso: zho

@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Bua-Kim-Day > Adamawa Bua > Inland Bua > Goulaic > Zan-Kulaalic > Kulaalic > Gula Iro"
 wikipedia_url: "https://en.wikipedia.org/wiki/Gula_Iro_language"
 translations:
+  - translation_iso: jpn
+    name: グラ・イロ語
+    auto: true
   - translation_iso: zho
     name: 古拉伊罗语
     auto: true

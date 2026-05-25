@@ -15,6 +15,9 @@ glottolog_family_name: Anim
 glottolog_classification: "Anim > Inland Gulf of Papua > West Inland Gulf of Papua > Mubami"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mubami_language"
 translations:
+  - translation_iso: jpn
+    name: タオ語
+    auto: true
   - translation_iso: zho
     name: 穆巴米语
     auto: true

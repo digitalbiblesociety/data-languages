@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > North Borneo Malayo-Polynesian > North Sarawakan > Kenyahic > Lowland Kenyah > Western Lowland Kenyah-Penan > Penan > Western Penan-Sebop > Sebop"
 wikipedia_url: "https://en.wikipedia.org/wiki/Sebop_language"
 translations:
+  - translation_iso: jpn
+    name: セボップ語
+    auto: true
   - translation_iso: zho
     name: 塞博普语
     auto: true

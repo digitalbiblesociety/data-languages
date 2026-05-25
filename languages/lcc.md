@@ -13,6 +13,9 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > South Halmahera-West New Guinea > Raja Ampat-South Halmahera > Maya-Salawati-Matbat > Maya-Salawati > Raja Ampat Maya > Waigeo Maya > Legenyem"
 translations:
+  - translation_iso: jpn
+    name: レゲニェム語
+    auto: true
   - translation_iso: zho
     name: 莱根耶姆语
     auto: true

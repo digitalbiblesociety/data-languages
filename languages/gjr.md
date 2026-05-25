@@ -14,6 +14,9 @@ glottolog_family_name: Mixed Language
 glottolog_classification: "Mixed Language > Gurindji-Kriol > Gurindji Kriol"
 wikipedia_url: "https://en.wikipedia.org/wiki/Gurindji_Kriol_language"
 translations:
+  - translation_iso: jpn
+    name: グリンジ・クリオル語
+    auto: true
   - translation_iso: zho
     name: 古林吉克里奥尔语
 ---

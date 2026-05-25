@@ -15,6 +15,9 @@ glottolog_family_name: Dajuic
 glottolog_classification: "Dajuic > Western Dajuic > Njalgulgule"
 wikipedia_url: "https://en.wikipedia.org/wiki/Nyolge_language"
 translations:
+  - translation_iso: jpn
+    name: ンジャルグルグレ語
+    auto: true
   - translation_iso: zho
     name: 恩贾尔古古勒语
     auto: true

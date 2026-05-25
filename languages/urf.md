@@ -10,6 +10,9 @@ latitude: -12.06792
 longitude: 142.13487
 wikipedia_url: "https://en.wikipedia.org/wiki/Uradhi_language"
 translations:
+  - translation_iso: jpn
+    name: インジノー語
+    auto: true
   - translation_iso: zho
     name: 乌拉迪语
     auto: true

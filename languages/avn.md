@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Kwa Volta-Congo > Ka-Togo > Avatime-Nyangbo > Avatime"
 wikipedia_url: "https://en.wikipedia.org/wiki/Avatime_language"
 translations:
+  - translation_iso: jpn
+    name: アヴァティメ語
+    auto: true
   - translation_iso: zho
     name: 阿瓦蒂梅語
 ---

@@ -14,6 +14,9 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Cameroun-Ubangian > Central Adamawa > Samba-Duru > Southern Samba-Duru > Diic > Duupa"
 translations:
+  - translation_iso: jpn
+    name: ドゥーパ語
+    auto: true
   - translation_iso: zho
     name: 杜乌帕语
     auto: true

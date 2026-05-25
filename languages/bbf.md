@@ -14,6 +14,9 @@ glottolog_family_name: Baibai-Fas
 glottolog_classification: "Baibai-Fas > Baibai"
 wikipedia_url: "https://en.wikipedia.org/wiki/Baibai_language"
 translations:
+  - translation_iso: jpn
+    name: バイバイ語
+    auto: true
   - translation_iso: zho
     name: 拜拜语
     auto: true

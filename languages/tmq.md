@@ -14,6 +14,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > North New Guinea linkage > Schouten linkage > Siau > Sissano-Tumleo > Ali-Tumleo > Tumleo"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tumleo_language"
 translations:
+  - translation_iso: jpn
+    name: トゥムレオ語
+    auto: true
   - translation_iso: zho
     name: 图姆莱奥语
     auto: true

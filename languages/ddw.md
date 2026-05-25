@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Timor-Babar > Southwest Maluku > Babar > North Babaric > Dawera-Daweloor"
 wikipedia_url: "https://en.wikipedia.org/wiki/Dawera-Daweloor_language"
 translations:
+  - translation_iso: jpn
+    name: ダウェラ・ダウェロール語
+    auto: true
   - translation_iso: zho
     name: 达韦拉-达韦洛尔语
 ---

@@ -14,6 +14,9 @@ glottolog_family_name: Angan
 glottolog_classification: "Angan > Nuclear Angan > Wojokesic > Kamasa-Susuami > Kamasa"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kamasa_language"
 translations:
+  - translation_iso: jpn
+    name: カマサ語
+    auto: true
   - translation_iso: zho
     name: 卡马萨语
     auto: true

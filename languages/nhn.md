@@ -15,6 +15,9 @@ glottolog_family_name: Uto-Aztecan
 glottolog_classification: "Uto-Aztecan > Southern Uto-Aztecan > Corachol-Aztecan > Aztec > Western Nahuatl > Central Nahuatl > Tlaxcala-Southeastern Puebla Nahuatl > Tlaxcala-Puebla-Pastoral Nahuatl > Tlaxcala-Puebla-Central Nahuatl"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tlaxcala%E2%80%93Puebla_Nahuatl"
 translations:
+  - translation_iso: jpn
+    name: 中央ナワトル語
+    auto: true
   - translation_iso: zho
     name: 中部纳瓦特尔语
     auto: true

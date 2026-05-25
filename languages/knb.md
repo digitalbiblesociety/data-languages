@@ -14,6 +14,9 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Northern Luzon > Meso-Cordilleran > South-Central Cordilleran > Central Cordilleran > Kalinga-Itneg > Kalinga > Central and South Kalinga > Lubuagan Kalinga"
 translations:
+  - translation_iso: jpn
+    name: ルブアガン・カリンガ語
+    auto: true
   - translation_iso: zho
     name: 卢布阿甘卡林加语
     auto: true

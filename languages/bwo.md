@@ -15,6 +15,9 @@ glottolog_family_name: Ta-Ne-Omotic
 glottolog_classification: "Ta-Ne-Omotic > Kefoid > Boro (Ethiopia)"
 wikipedia_url: "https://en.wikipedia.org/wiki/Shinasha_language"
 translations:
+  - translation_iso: jpn
+    name: ボロ語
+    auto: true
   - translation_iso: zho
     name: 博罗语
     auto: true

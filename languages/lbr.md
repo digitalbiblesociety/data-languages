@@ -15,6 +15,9 @@ glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Himalayish > Mahakiranti > Kiranti > Eastern Kiranti > Upper Arun > Lohorung-Yamphu > Lohorung"
 wikipedia_url: "https://en.wikipedia.org/wiki/Lohorung_language"
 translations:
+  - translation_iso: jpn
+    name: ロホルン語
+    auto: true
   - translation_iso: zho
     name: 洛霍龙语
     auto: true

@@ -15,6 +15,9 @@ glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > Karnic > Badjiri-Eastern Karnic > Badjirri"
 wikipedia_url: "https://en.wikipedia.org/wiki/Badjiri_language"
 translations:
+  - translation_iso: jpn
+    name: バジリ語
+    auto: true
   - translation_iso: zho
     name: 巴季里语
     auto: true

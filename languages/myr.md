@@ -12,6 +12,9 @@ longitude: -76.28113
 glottocode: muni1258
 wikipedia_url: "https://en.wikipedia.org/wiki/Muniche_language"
 translations:
+  - translation_iso: jpn
+    name: ムニチェ語
+    auto: true
   - translation_iso: zho
     name: 穆尼切语
     auto: true

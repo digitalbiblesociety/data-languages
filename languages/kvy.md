@@ -14,6 +14,9 @@ glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Karenic > Central Karen > Kayah-Yintale > Yintale Karen"
 translations:
+  - translation_iso: jpn
+    name: イインターレ・カレン語
+    auto: true
   - translation_iso: zho
     name: 因塔雷卡伦语
     auto: true

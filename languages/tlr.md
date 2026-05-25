@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Southeast Solomonic > Guadalcanal-Nggelic > Southeast Guadalcanal > Talise"
 wikipedia_url: "https://en.wikipedia.org/wiki/Talise_language"
 translations:
+  - translation_iso: jpn
+    name: タリセ語
+    auto: true
   - translation_iso: zho
     name: 塔利塞语
     auto: true

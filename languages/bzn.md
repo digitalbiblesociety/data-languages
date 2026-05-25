@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Nunusaku > Piru Bay > West Piru Bay > Hoamoal > East Hoamoal > Boano (Maluku)"
 wikipedia_url: "https://en.wikipedia.org/wiki/Boano_language_(Maluku)"
 translations:
+  - translation_iso: jpn
+    name: ボアノ・マルク語
+    auto: true
   - translation_iso: zho
     name: 博阿诺语
 ---

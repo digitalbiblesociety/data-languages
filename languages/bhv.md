@@ -14,6 +14,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > North Borneo Malayo-Polynesian > Kayan-Murik-Modang > Kayan-Murik > Kayanic > Bahau"
 wikipedia_url: "https://en.wikipedia.org/wiki/Bahau_language"
 translations:
+  - translation_iso: jpn
+    name: バハウ語
+    auto: true
   - translation_iso: zho
     name: 巴豪语
     auto: true

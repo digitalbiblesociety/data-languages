@@ -15,6 +15,9 @@ glottolog_family_name: Pidgin
 glottolog_classification: "Pidgin > French-based pidgin > Tay Boi"
 wikipedia_url: "https://en.wikipedia.org/wiki/T%C3%A2y_B%E1%BB%93i_Pidgin_French"
 translations:
+  - translation_iso: jpn
+    name: タイ・ボイ語
+    auto: true
   - translation_iso: zho
     name: 越南法语
 ---

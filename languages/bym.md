@@ -14,6 +14,9 @@ glottolog_family_id: pama1250
 glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > Greater Maric > Guwa-Maric > Maric > Southern Maric > Bidyaric > Bidyara"
 translations:
+  - translation_iso: jpn
+    name: ビジャラ語
+    auto: true
   - translation_iso: zho
     name: 比吉亚拉语
     auto: true

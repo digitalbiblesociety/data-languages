@@ -14,6 +14,9 @@ glottolog_family_name: Sepik
 glottolog_classification: "Sepik > Ram > Pouye-Karawa > Karawa"
 wikipedia_url: "https://en.wikipedia.org/wiki/Karawa_language"
 translations:
+  - translation_iso: jpn
+    name: カラワ語
+    auto: true
   - translation_iso: zho
     name: 卡拉瓦语
     auto: true

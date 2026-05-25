@@ -14,6 +14,9 @@ glottolog_family_name: Unattested
 glottolog_classification: "Unattested > Iwaidjan Proper (Unattested) > Manangkari"
 wikipedia_url: "https://en.wikipedia.org/wiki/Manangkari_language"
 translations:
+  - translation_iso: jpn
+    name: マナングカリ語
+    auto: true
   - translation_iso: zho
     name: 曼南卡里语
     auto: true

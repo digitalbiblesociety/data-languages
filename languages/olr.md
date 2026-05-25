@@ -10,6 +10,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Olrat_language"
 translations:
   - translation_iso: hin
     name: ओलरात भाषा
+  - translation_iso: jpn
+    name: オルラット語
+    auto: true
   - translation_iso: zho
     name: 奥尔拉特语
     auto: true

@@ -14,6 +14,9 @@ glottolog_family_id: kiwa1251
 glottolog_family_name: Kiwaian
 glottolog_classification: "Kiwaian > Northeast Kiwai"
 translations:
+  - translation_iso: jpn
+    name: ノースイースト・キワイ語
+    auto: true
   - translation_iso: zho
     name: 东北基瓦伊语
     auto: true

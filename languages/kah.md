@@ -17,6 +17,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Fer_language"
 translations:
   - translation_iso: ara
     name: فير
+  - translation_iso: jpn
+    name: カラ語
+    auto: true
   - translation_iso: zho
     name: 卡拉语（中非共和国）
     auto: true

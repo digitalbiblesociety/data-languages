@@ -15,6 +15,9 @@ glottolog_family_name: Tuu
 glottolog_classification: "Tuu > Hua > Lower-Nosop"
 wikipedia_url: "https://en.wikipedia.org/wiki/Lower_Nossob_language"
 translations:
+  - translation_iso: jpn
+    name: ロウアー・ノッソブ語
+    auto: true
   - translation_iso: kor
     name: 저지 노소브어
   - translation_iso: zho

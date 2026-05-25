@@ -15,6 +15,9 @@ glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Germanic > Northwest Germanic > West Germanic > North Sea Germanic > Anglo-Frisian > Anglic > Later Anglic > Middle-Modern English > Macro-English > Guinea Coast Creole English > West African Creole English > Pichi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Pichinglis"
 translations:
+  - translation_iso: jpn
+    name: フェルナンド・ポー・クレオール英語
+    auto: true
   - translation_iso: zho
     name: 费南多波手语英语
     auto: true

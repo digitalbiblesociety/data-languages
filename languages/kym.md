@@ -10,6 +10,9 @@ latitude: 5.17203
 longitude: 21.85945
 wikipedia_url: "https://en.wikipedia.org/wiki/Kpatili_language"
 translations:
+  - translation_iso: jpn
+    name: クパティリ語
+    auto: true
   - translation_iso: zho
     name: 克帕蒂利语
     auto: true

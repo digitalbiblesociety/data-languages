@@ -17,6 +17,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Kenga_language"
 translations:
   - translation_iso: ara
     name: كينغا
+  - translation_iso: jpn
+    name: ケンガ語
+    auto: true
   - translation_iso: zho
     name: 肯加语
     auto: true

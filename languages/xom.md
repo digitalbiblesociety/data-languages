@@ -15,6 +15,9 @@ glottolog_family_name: Koman
 glottolog_classification: "Koman > Central Koman > Komo-Uduk > Komo (Sudan-Ethiopia)"
 wikipedia_url: "https://en.wikipedia.org/wiki/Komo_language"
 translations:
+  - translation_iso: jpn
+    name: コモ語（スーダン）
+    auto: true
   - translation_iso: zho
     name: 苏丹科莫语
     auto: true

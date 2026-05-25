@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > North Borneo Malayo-Polynesian > Kayan-Murik-Modang > Kayan-Murik > Murik (Malaysia)"
 wikipedia_url: "https://en.wikipedia.org/wiki/Murik_Kayan_language"
 translations:
+  - translation_iso: jpn
+    name: ムリク語
+    auto: true
   - translation_iso: zho
     name: 马来西亚穆里克语
     auto: true

@@ -10,6 +10,9 @@ latitude: 7.34629
 longitude: 6.2929
 wikipedia_url: "https://en.wikipedia.org/wiki/Idesa_language"
 translations:
+  - translation_iso: jpn
+    name: イデサ語
+    auto: true
   - translation_iso: zho
     name: 伊德萨语
     auto: true

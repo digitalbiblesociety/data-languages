@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Unclassified Volta-Congo > Aproumu Aizi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Apro_language"
 translations:
+  - translation_iso: jpn
+    name: アプロウム・アイジ語
+    auto: true
   - translation_iso: zho
     name: 阿普罗乌穆艾兹语
     auto: true

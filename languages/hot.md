@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > North New Guinea linkage > Huon Gulf > South Huon Gulf linkage > Misim-Yamap > Hote"
 wikipedia_url: "https://en.wikipedia.org/wiki/Hote_language"
 translations:
+  - translation_iso: jpn
+    name: ホテ語
+    auto: true
   - translation_iso: zho
     name: 霍特语
     auto: true

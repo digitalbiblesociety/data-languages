@@ -14,6 +14,9 @@ glottolog_family_id: pama1250
 glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > Paman > Compromise Middle Pama > Northeastern Pama > Umpilaic > Kanju"
 translations:
+  - translation_iso: jpn
+    name: カンジュ語
+    auto: true
   - translation_iso: zho
     name: 卡祖语
     auto: true

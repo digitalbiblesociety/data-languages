@@ -15,6 +15,9 @@ glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Karenic > Peripheral Karen > Pwo > Northern Pwo Karen > Pwo Northern Karen"
 wikipedia_url: "https://en.wikipedia.org/wiki/Northern_Pwo_language"
 translations:
+  - translation_iso: jpn
+    name: プウォ北カレン語
+    auto: true
   - translation_iso: zho
     name: 普沃北部卡伦语
     auto: true

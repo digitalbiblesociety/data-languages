@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Greater Central Philippine > Palawanic-Kalamian > Palawanic > Northern Palawanic > Aborlanic > Batak"
 wikipedia_url: "https://en.wikipedia.org/wiki/Batak_language_(Philippines)"
 translations:
+  - translation_iso: jpn
+    name: バタック語
+    auto: true
   - translation_iso: zho
     name: 巴塔克语
     auto: true

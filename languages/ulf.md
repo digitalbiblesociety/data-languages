@@ -12,6 +12,9 @@ longitude: 140.50189
 glottocode: usku1243
 wikipedia_url: "https://en.wikipedia.org/wiki/Usku_language"
 translations:
+  - translation_iso: jpn
+    name: アフラ語
+    auto: true
   - translation_iso: zho
     name: 乌斯库语
     auto: true

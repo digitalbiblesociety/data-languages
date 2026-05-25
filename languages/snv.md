@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > North Borneo Malayo-Polynesian > North Sarawakan > Dayic > Sa'ban"
 wikipedia_url: "https://en.wikipedia.org/wiki/Sa%CA%BCban_language"
 translations:
+  - translation_iso: jpn
+    name: メラウ語
+    auto: true
   - translation_iso: zho
     name: 萨班语
     auto: true

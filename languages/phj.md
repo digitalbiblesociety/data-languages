@@ -12,6 +12,9 @@ glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Himalayish > Mahakiranti > Newaric > Newar > Pahari Newari"
 wikipedia_url: "https://en.wikipedia.org/wiki/Pahari_language_(Sino-Tibetan)"
 translations:
+  - translation_iso: jpn
+    name: パハリ語
+    auto: true
   - translation_iso: zho
     name: 帕哈里语
     auto: true

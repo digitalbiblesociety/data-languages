@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Kwa Volta-Congo > Gbe > Eastern Gbe > Eastern Phla-Phera > Tofin Gbe"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tofin_language"
 translations:
+  - translation_iso: jpn
+    name: トフィン・ゲベ語
+    auto: true
   - translation_iso: zho
     name: 托芬格贝语
     auto: true

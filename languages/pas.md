@@ -15,6 +15,9 @@ glottolog_family_name: Lakes Plain
 glottolog_classification: "Lakes Plain > Tariku > East Tariku > Doutai-Kai-Waritai > Papasena"
 wikipedia_url: "https://en.wikipedia.org/wiki/Papasena_language"
 translations:
+  - translation_iso: jpn
+    name: パパセナ語
+    auto: true
   - translation_iso: zho
     name: 帕帕塞纳语
     auto: true

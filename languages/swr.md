@@ -15,6 +15,9 @@ glottolog_family_name: Yawa-Saweru
 glottolog_classification: "Yawa-Saweru > Saweru"
 wikipedia_url: "https://en.wikipedia.org/wiki/Saweru_language"
 translations:
+  - translation_iso: jpn
+    name: サウェル語
+    auto: true
   - translation_iso: zho
     name: 萨韦鲁语
     auto: true

@@ -17,6 +17,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Kom_language_(India)"
 translations:
   - translation_iso: hin
     name: कोम भाषा
+  - translation_iso: jpn
+    name: コム語
+    auto: true
   - translation_iso: zho
     name: 科姆语
     auto: true

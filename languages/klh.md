@@ -15,6 +15,9 @@ glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Finisterre-Huon > Finisterre-Saruwaged > Uruwa > Unclassified Uruwa > Weliki"
 wikipedia_url: "https://en.wikipedia.org/wiki/Weliki_language"
 translations:
+  - translation_iso: jpn
+    name: ウェリキ語
+    auto: true
   - translation_iso: zho
     name: 韦利基语
     auto: true

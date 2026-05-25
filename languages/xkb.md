@@ -14,6 +14,9 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Defoid > Yoruboid > Edekiri > Ede > Western Ede > Southwestern Ede > Manigri-Kambolé Ede Nago"
 translations:
+  - translation_iso: jpn
+    name: 北ナゴ語
+    auto: true
   - translation_iso: zho
     name: 北纳戈语
     auto: true

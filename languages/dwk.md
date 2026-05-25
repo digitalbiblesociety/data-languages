@@ -9,6 +9,9 @@ country_name: India
 status_id: null
 wikipedia_url: "https://en.wikipedia.org/wiki/Dawik_Kui_language"
 translations:
+  - translation_iso: jpn
+    name: ダウィック・クイ語
+    auto: true
   - translation_iso: zho
     name: 达威库依语
     auto: true

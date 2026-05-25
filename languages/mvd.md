@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Bima-Lembata > Sumba-Hawu > Sumba > Central-East Sumbanese > Mamboru"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mamboru_language"
 translations:
+  - translation_iso: jpn
+    name: マンボル語
+    auto: true
   - translation_iso: zho
     name: 玛姆博鲁语
     auto: true

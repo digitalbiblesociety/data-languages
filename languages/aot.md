@@ -17,6 +17,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Atong_language_(Sino-Tibetan)"
 translations:
   - translation_iso: hin
     name: अटोंग भाषा
+  - translation_iso: jpn
+    name: アトン語(インド)
+    auto: true
   - translation_iso: zho
     name: 阿东语
     auto: true

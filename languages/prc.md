@@ -15,6 +15,9 @@ glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Iranian-Nuristani > Iranian > Ormuri-Parachi > Parachi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Parachi_language"
 translations:
+  - translation_iso: jpn
+    name: パラチ語
+    auto: true
   - translation_iso: zho
     name: 帕拉奇語
 rolv_dialects:

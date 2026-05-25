@@ -12,6 +12,9 @@ longitude: 137.49561
 glottocode: dama1272
 wikipedia_url: "https://en.wikipedia.org/wiki/Uhunduni_languages"
 translations:
+  - translation_iso: jpn
+    name: ダマル語
+    auto: true
   - translation_iso: zho
     name: 达玛尔语
     auto: true

@@ -15,6 +15,9 @@ glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Burmo-Qiangic > Lolo-Burmese > Loloish > Hani-Jino > Bisoid-Hanic > Bisoid > Singsali-Bisu > Bisu-Pyen-Laomian > Laomian"
 wikipedia_url: "https://en.wikipedia.org/wiki/Laomian_language"
 translations:
+  - translation_iso: jpn
+    name: ラオミアン語
+    auto: true
   - translation_iso: zho
     name: 老緬語
 rolv_dialects:

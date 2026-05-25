@@ -14,6 +14,9 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > East Bantu > Northeast Savanna Bantu > Central Kenya Bantu > Eastern Kirinyaga > Northern Kirinyaga > Nithi-Meru > Mwimbi-Muthambi"
 translations:
+  - translation_iso: jpn
+    name: ムウィンビ・ムタンビ語
+    auto: true
   - translation_iso: zho
     name: 姆温比-穆塔姆比语
     auto: true

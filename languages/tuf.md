@@ -14,6 +14,9 @@ glottolog_family_id: chib1249
 glottolog_family_name: Chibchan
 glottolog_classification: "Chibchan > Core Chibchan > Magdalenic > Southern Magdalenic > Tunebo > Central Tunebo"
 translations:
+  - translation_iso: jpn
+    name: トゥネボ語
+    auto: true
   - translation_iso: zho
     name: 中烏瓦語
 ---

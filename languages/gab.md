@@ -15,6 +15,9 @@ glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > East Chadic > East Chadic A > East Chadic A.2 > East Chadic A.2 2 > Gabri-Kimre > Gabri"
 wikipedia_url: "https://en.wikipedia.org/wiki/Southern_Gabri_language"
 translations:
+  - translation_iso: jpn
+    name: ガブリ語
+    auto: true
   - translation_iso: zho
     name: 加夫里语
     auto: true

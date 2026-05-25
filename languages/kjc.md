@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Greater South Sulawesi > South Sulawesi > Makassaric > Konjo > Coastal Konjo"
 wikipedia_url: "https://en.wikipedia.org/wiki/Coastal_Konjo_language"
 translations:
+  - translation_iso: jpn
+    name: コースタル・コンジョ語
+    auto: true
   - translation_iso: zho
     name: 沿海孔若语
     auto: true

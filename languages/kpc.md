@@ -15,6 +15,9 @@ glottolog_family_name: Arawakan
 glottolog_classification: "Arawakan > Japura-Colombia > Nuclear Japura-Colombia > Northeast Japura-Colombia > Baniwa-Curripaco-Tariano > Baniwa-Curripaco > Curripaco"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kurripako_language"
 translations:
+  - translation_iso: jpn
+    name: クリパコ語
+    auto: true
   - translation_iso: zho
     name: 库里帕科语
     auto: true

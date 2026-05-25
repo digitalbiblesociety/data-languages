@@ -15,6 +15,9 @@ glottolog_family_name: Athabaskan-Eyak-Tlingit
 glottolog_classification: "Athabaskan-Eyak-Tlingit > Athabaskan-Eyak > Athabaskan > Sarsi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tsuut%CA%BCina_language"
 translations:
+  - translation_iso: jpn
+    name: サルシー語
+    auto: true
   - translation_iso: zho
     name: 楚蒂纳语
 ---

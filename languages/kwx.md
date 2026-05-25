@@ -15,6 +15,9 @@ glottolog_family_name: Dravidian
 glottolog_classification: "Dravidian > Unclassified Dravidian > Khirwar"
 wikipedia_url: "https://en.wikipedia.org/wiki/Khirwar_language"
 translations:
+  - translation_iso: jpn
+    name: キルワル語
+    auto: true
   - translation_iso: zho
     name: 希尔瓦尔语
     auto: true

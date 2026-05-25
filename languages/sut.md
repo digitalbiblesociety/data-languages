@@ -15,6 +15,9 @@ glottolog_family_name: Otomanguean
 glottolog_classification: "Otomanguean > Western Otomanguean > Subtiaba-Tlapanec > Subtiaba"
 wikipedia_url: "https://en.wikipedia.org/wiki/Subtiaba_language"
 translations:
+  - translation_iso: jpn
+    name: サブティアバ語
+    auto: true
   - translation_iso: zho
     name: 萨布蒂阿巴语
     auto: true

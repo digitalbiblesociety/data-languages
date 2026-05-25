@@ -15,6 +15,9 @@ glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > Rockhampton-Gladstone > Dharumbal"
 wikipedia_url: "https://en.wikipedia.org/wiki/Darumbal_language"
 translations:
+  - translation_iso: jpn
+    name: ダルムバル語
+    auto: true
   - translation_iso: zho
     name: 达鲁姆巴尔语
     auto: true

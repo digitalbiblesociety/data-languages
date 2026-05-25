@@ -14,6 +14,9 @@ glottolog_family_id: quec1387
 glottolog_family_name: Quechuan
 glottolog_classification: "Quechuan > Colombia-Ecuador Quechua > Ecuadorian Quechua A > Calderón Highland Quichua"
 translations:
+  - translation_iso: jpn
+    name: カルデロンハイランドキチュア語
+    auto: true
   - translation_iso: zho
     name: 卡尔德隆高地基楚亚语
     auto: true

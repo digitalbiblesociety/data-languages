@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Gur > Central Gur > Southern Central Gur > Grusi > Northern Grusi > Kalamsé"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kalams%C3%A9_language"
 translations:
+  - translation_iso: jpn
+    name: カラムセ語
+    auto: true
   - translation_iso: zho
     name: 卡拉梅语
     auto: true

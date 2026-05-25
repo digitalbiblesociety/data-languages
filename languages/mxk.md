@@ -15,6 +15,9 @@ glottolog_family_name: Bogia
 glottolog_classification: "Bogia > Monumbo"
 wikipedia_url: "https://en.wikipedia.org/wiki/Monumbo_language"
 translations:
+  - translation_iso: jpn
+    name: モヌンボ語
+    auto: true
   - translation_iso: zho
     name: 莫努姆博语
     auto: true

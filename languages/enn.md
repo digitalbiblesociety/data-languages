@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Akpes-Edoid > Edoid > Delta Edoid > Degema-Engenni > Egene"
 wikipedia_url: "https://en.wikipedia.org/wiki/Engenni_language"
 translations:
+  - translation_iso: jpn
+    name: エンゲニ語
+    auto: true
   - translation_iso: zho
     name: 恩根尼语
     auto: true

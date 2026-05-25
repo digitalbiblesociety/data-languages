@@ -17,6 +17,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Nahari_language"
 translations:
   - translation_iso: hin
     name: नाहारी
+  - translation_iso: jpn
+    name: ナハリ語
+    auto: true
   - translation_iso: zho
     name: 纳哈里语
     auto: true

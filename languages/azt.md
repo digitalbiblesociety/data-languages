@@ -14,6 +14,9 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Northern Luzon > Cagayan Valley > Ibanagic > Atta > Faire Atta"
 translations:
+  - translation_iso: jpn
+    name: フェアレ・アッタ語
+    auto: true
   - translation_iso: zho
     name: 费尔阿塔语
     auto: true

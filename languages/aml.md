@@ -17,6 +17,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/War_language"
 translations:
   - translation_iso: hin
     name: वार भाषा
+  - translation_iso: jpn
+    name: ワルジャインティア語
+    auto: true
   - translation_iso: zho
     name: 瓦尔语
 ---

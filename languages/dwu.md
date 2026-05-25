@@ -7,6 +7,9 @@ country_id: AU
 country_name: Australia
 status_id: null
 translations:
+  - translation_iso: jpn
+    name: ドゥワル語
+    auto: true
   - translation_iso: zho
     name: 杜瓦尔语
     auto: true

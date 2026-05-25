@@ -15,6 +15,9 @@ glottolog_family_name: North-Eastern Tasmanian
 glottolog_classification: "North-Eastern Tasmanian > North Midlands Tasmanian"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tyerrernotepanner_language"
 translations:
+  - translation_iso: jpn
+    name: 北ミッドランド・タスマニア語
+    auto: true
   - translation_iso: zho
     name: 北中部塔斯马尼亚语
     auto: true

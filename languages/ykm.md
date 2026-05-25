@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > North New Guinea linkage > Schouten linkage > Siau > Sissano-Tumleo > Ali-Tumleo > Kap"
 wikipedia_url: "https://en.wikipedia.org/wiki/Yakamul_language"
 translations:
+  - translation_iso: jpn
+    name: カップ語
+    auto: true
   - translation_iso: zho
     name: 卡普语
     auto: true

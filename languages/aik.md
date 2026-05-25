@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Benue-Congo Plateau > Jilic-Eggonic > Eggon-Ake > Akye"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ake_language"
 translations:
+  - translation_iso: jpn
+    name: アケ語
+    auto: true
   - translation_iso: zho
     name: 阿克语
     auto: true

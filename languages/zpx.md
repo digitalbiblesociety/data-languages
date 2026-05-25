@@ -15,6 +15,9 @@ glottolog_family_name: Otomanguean
 glottolog_classification: "Otomanguean > Eastern Otomanguean > Popoloca-Zapotecan > Zapotecan > Zapotec > Core Zapotec > Macrocoatecano > Coatecano > Coatlan-Loxicha Zapotec > San Baltazar Loxicha Zapotec"
 wikipedia_url: "https://en.wikipedia.org/wiki/San_Balt%C3%A1zar_Loxicha_Zapotec"
 translations:
+  - translation_iso: jpn
+    name: サン・バルタザル・ロキチャ・サポテク語
+    auto: true
   - translation_iso: zho
     name: 圣巴尔塔萨洛希查萨波特克语
     auto: true

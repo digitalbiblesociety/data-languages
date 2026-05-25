@@ -15,6 +15,9 @@ glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Raji-Raute > Raute-Rawat > Rawat"
 wikipedia_url: "https://en.wikipedia.org/wiki/Rawat_language"
 translations:
+  - translation_iso: jpn
+    name: ラワット語
+    auto: true
   - translation_iso: zho
     name: 拉瓦特语
     auto: true

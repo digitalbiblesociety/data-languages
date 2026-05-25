@@ -15,6 +15,9 @@ glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Kuki-Chin-Naga > Kuki-Chin > Peripheral Kuki-Chin > South Peripheral Kuki-Chin > Ashoic > Sumtu-Laoktu > Sumtu Chin"
 wikipedia_url: "https://en.wikipedia.org/wiki/Sumtu_language"
 translations:
+  - translation_iso: jpn
+    name: スムツ・チン語
+    auto: true
   - translation_iso: zho
     name: 苏木图钦语
     auto: true

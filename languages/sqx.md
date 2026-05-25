@@ -14,6 +14,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Kafr_Qasem_Sign_Language"
 translations:
   - translation_iso: hin
     name: काफ़र कासेम सांकेतिक भाषा
+  - translation_iso: jpn
+    name: クフルカッセムサイン言語
+    auto: true
   - translation_iso: zho
     name: 库弗尔卡西姆手语
     auto: true

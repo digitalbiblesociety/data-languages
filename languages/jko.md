@@ -14,6 +14,9 @@ glottolog_family_name: East Strickland
 glottolog_classification: "East Strickland > Kubo-Samo-Bibo > Kubo"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kubo_language"
 translations:
+  - translation_iso: jpn
+    name: クボ語
+    auto: true
   - translation_iso: zho
     name: 库博语
     auto: true

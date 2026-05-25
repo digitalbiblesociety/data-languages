@@ -17,6 +17,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Dehwari_language"
 translations:
   - translation_iso: hin
     name: देहवारी भाषा
+  - translation_iso: jpn
+    name: デフワリ語
+    auto: true
   - translation_iso: zho
     name: 德瓦里語
 ---

@@ -15,6 +15,9 @@ glottolog_family_name: Mataguayan
 glottolog_classification: "Mataguayan > Mataguayo II > Chorote > Forest Chorote"
 wikipedia_url: "https://en.wikipedia.org/wiki/Iyo%CA%BCwujwa_Chorote"
 translations:
+  - translation_iso: jpn
+    name: イヨウフワ・チョロテ語
+    auto: true
   - translation_iso: zho
     name: 伊约乌吉瓦乔罗特语
     auto: true

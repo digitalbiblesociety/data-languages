@@ -15,6 +15,9 @@ glottolog_family_name: Tor-Orya
 glottolog_classification: "Tor-Orya > Tor > Coastal Tor > Dabe"
 wikipedia_url: "https://en.wikipedia.org/wiki/Dabe_language"
 translations:
+  - translation_iso: jpn
+    name: ダベ語
+    auto: true
   - translation_iso: zho
     name: 达贝语
     auto: true

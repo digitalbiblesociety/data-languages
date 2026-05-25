@@ -15,6 +15,9 @@ glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Burmo-Qiangic > Lolo-Burmese > Loloish > Hani-Jino > Bisoid-Hanic > Bisoid > Singsali-Bisu > Bisu-Pyen-Laomian > Bisu"
 wikipedia_url: "https://en.wikipedia.org/wiki/Bisu_language"
 translations:
+  - translation_iso: jpn
+    name: ビス語
+    auto: true
   - translation_iso: zho
     name: 毕苏语
 rolv_dialects:

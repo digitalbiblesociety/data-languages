@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Land Dayak > Bidayuh-Southern Land Dayak > Bidayuh > Central-Western Bidayuh > Biatah Bidayuh"
 wikipedia_url: "https://en.wikipedia.org/wiki/Biatah_language"
 translations:
+  - translation_iso: jpn
+    name: ビアタ・ビダユ語
+    auto: true
   - translation_iso: zho
     name: 比亚他比达尤语
     auto: true

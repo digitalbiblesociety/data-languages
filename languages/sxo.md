@@ -8,6 +8,9 @@ country_name: Italy
 status_id: null
 wikipedia_url: "https://en.wikipedia.org/wiki/Sorothaptic_language"
 translations:
+  - translation_iso: jpn
+    name: ソロテプティック語
+    auto: true
   - translation_iso: zho
     name: 索罗萨普蒂克语
     auto: true

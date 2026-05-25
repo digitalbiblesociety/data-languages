@@ -15,6 +15,9 @@ glottolog_family_name: Austroasiatic
 glottolog_classification: "Austroasiatic > Bahnaric > North Bahnaric > Hre-Sedang-Todrah-Monam > Hre-Sedang > Rengao"
 wikipedia_url: "https://en.wikipedia.org/wiki/Rengao_language"
 translations:
+  - translation_iso: jpn
+    name: レンガオ語
+    auto: true
   - translation_iso: zho
     name: 卢敖语
 ---

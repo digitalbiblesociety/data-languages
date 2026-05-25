@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Aru > Ujir-Kola-Kompane > Kola-Kompane > Kola"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kola_language"
 translations:
+  - translation_iso: jpn
+    name: コラ語
+    auto: true
   - translation_iso: zho
     name: 科拉语
     auto: true

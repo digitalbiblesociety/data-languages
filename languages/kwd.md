@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Southeast Solomonic > Longgu-Malaita-Makira > Malaita-Makira > Malaita > Central-Northern Malaita > Kwaio"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kwaio_language"
 translations:
+  - translation_iso: jpn
+    name: クワイオ語
+    auto: true
   - translation_iso: zho
     name: 夸伊奥语
     auto: true

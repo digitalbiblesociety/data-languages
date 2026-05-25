@@ -16,6 +16,9 @@ glottolog_family_name: Otomanguean
 glottolog_classification: "Otomanguean > Western Otomanguean > Otopame-Chinantecan > Otopamean > Otomian > Mazahua > Central Mazahua"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mazahua_language"
 translations:
+  - translation_iso: jpn
+    name: 中央マサウア語
+    auto: true
   - translation_iso: zho
     name: 馬薩瓦語
 rolv_dialects:

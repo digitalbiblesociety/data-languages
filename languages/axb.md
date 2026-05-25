@@ -15,6 +15,9 @@ glottolog_family_name: Guaicuruan
 glottolog_classification: "Guaicuruan > Guaicuru del Sur > Abipon"
 wikipedia_url: "https://en.wikipedia.org/wiki/Abip%C3%B3n_language"
 translations:
+  - translation_iso: jpn
+    name: アビポン語
+    auto: true
   - translation_iso: zho
     name: 阿比蓬语
     auto: true

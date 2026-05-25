@@ -15,6 +15,9 @@ glottolog_family_name: Greater Kwerba
 glottolog_classification: "Greater Kwerba > Kwerba-Samarokena > Samarokena-Airoran > Airoran"
 wikipedia_url: "https://en.wikipedia.org/wiki/Airoran_language"
 translations:
+  - translation_iso: jpn
+    name: アイロラン語
+    auto: true
   - translation_iso: zho
     name: 艾罗兰语
     auto: true

@@ -15,6 +15,9 @@ glottolog_family_name: Worrorran
 glottolog_classification: "Worrorran > Northern Worrorran > Wunambal"
 wikipedia_url: "https://en.wikipedia.org/wiki/Wunambal_language"
 translations:
+  - translation_iso: jpn
+    name: ウナンバル語
+    auto: true
   - translation_iso: zho
     name: 乌纳姆巴尔语
     auto: true

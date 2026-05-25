@@ -15,6 +15,9 @@ glottolog_family_name: Otomanguean
 glottolog_classification: "Otomanguean > Eastern Otomanguean > Amuzgo-Mixtecan > Mixtecan > Mixtec-Cuicatec > Mixtec > Northern Baja Mixtec > Chazumba Mixtec"
 wikipedia_url: "https://en.wikipedia.org/wiki/Chazumba_Mixtec"
 translations:
+  - translation_iso: jpn
+    name: チャズンバ・ミステク語
+    auto: true
   - translation_iso: zho
     name: 查祖姆巴-米斯特克语
     auto: true

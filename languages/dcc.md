@@ -11,6 +11,9 @@ longitude: 75.71697
 scripts: [Arab]
 wikipedia_url: "https://en.wikipedia.org/wiki/Berar-Deccan_Marathi"
 translations:
+  - translation_iso: jpn
+    name: デッカン語
+    auto: true
   - translation_iso: zho
     name: 德干语
     auto: true

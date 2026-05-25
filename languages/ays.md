@@ -15,6 +15,9 @@ glottolog_family_name: Unattested
 glottolog_classification: "Unattested > Austronesian (Unattested) > Sorsogon Ayta"
 wikipedia_url: "https://en.wikipedia.org/wiki/Sorsogon_Ayta_language"
 translations:
+  - translation_iso: jpn
+    name: ソルソゴン・アイタ語
+    auto: true
   - translation_iso: zho
     name: 索尔索贡艾塔语
     auto: true

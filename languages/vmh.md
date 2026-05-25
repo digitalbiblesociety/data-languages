@@ -15,6 +15,9 @@ glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Iranian-Nuristani > Iranian > Central Iranian PBS > Central Iranian PB > Northwestern Iranian > Adharic > Tatic > Central Tatic > Maraghei"
 wikipedia_url: "https://en.wikipedia.org/wiki/Maraghei_dialect"
 translations:
+  - translation_iso: jpn
+    name: ムラッゲ・ペゴレッボ語
+    auto: true
   - translation_iso: zho
     name: 玛拉盖语
     auto: true

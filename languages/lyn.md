@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > Central-Western Bantu > Greater Luyana > Eastern Greater Luyana > Luyi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Luyana_language"
 translations:
+  - translation_iso: jpn
+    name: ルヤナ語
+    auto: true
   - translation_iso: zho
     name: 卢亚纳语
 rolv_dialects:

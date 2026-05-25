@@ -15,6 +15,9 @@ glottolog_family_name: Sepik
 glottolog_classification: "Sepik > Sepik Hill > Western Sepik Hill > Hewa-April River > Niksek"
 wikipedia_url: "https://en.wikipedia.org/wiki/Niksek_language"
 translations:
+  - translation_iso: jpn
+    name: ニクセク語
+    auto: true
   - translation_iso: zho
     name: 尼克塞克语
     auto: true

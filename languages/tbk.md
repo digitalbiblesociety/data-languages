@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Greater Central Philippine > Palawanic-Kalamian > Kalamian > Calamian Tagbanwa"
 wikipedia_url: "https://en.wikipedia.org/wiki/Calamian_Tagbanwa_language"
 translations:
+  - translation_iso: jpn
+    name: カラミアン・タグバンワ語
+    auto: true
   - translation_iso: zho
     name: 卡拉米安塔格邦瓦语
     auto: true

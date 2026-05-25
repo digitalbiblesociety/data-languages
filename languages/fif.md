@@ -17,6 +17,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Faifi_language"
 translations:
   - translation_iso: ara
     name: لهجة خولانية سعودية
+  - translation_iso: jpn
+    name: ファイフィ語
+    auto: true
   - translation_iso: zho
     name: 費法語
 ---

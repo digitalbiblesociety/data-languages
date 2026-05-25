@@ -17,6 +17,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Opucikwar"
 translations:
   - translation_iso: hin
     name: ओपूचीक्वार भाषा
+  - translation_iso: jpn
+    name: アプチクワル語
+    auto: true
   - translation_iso: kor
     name: 오푸치콰르어
   - translation_iso: zho

@@ -17,6 +17,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Nunggubuyu_language"
 translations:
   - translation_iso: hin
     name: वुबुय भाषा
+  - translation_iso: jpn
+    name: ヌンググブユ語
+    auto: true
   - translation_iso: zho
     name: 农格布尤语
     auto: true

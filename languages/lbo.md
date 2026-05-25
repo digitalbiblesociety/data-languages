@@ -15,6 +15,9 @@ glottolog_family_name: Austroasiatic
 glottolog_classification: "Austroasiatic > Bahnaric > West Bahnaric > Nuclear West Bahnaric > Loven-Suq > Laven"
 wikipedia_url: "https://en.wikipedia.org/wiki/Jru%27_language"
 translations:
+  - translation_iso: jpn
+    name: ラヴェン語
+    auto: true
   - translation_iso: zho
     name: 吉盧語
 rolv_dialects:

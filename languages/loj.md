@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Admiralty Islands > Eastern Admiralty Islands > South-East Admiralty > Lou-Paluai > Lou"
 wikipedia_url: "https://en.wikipedia.org/wiki/Lou_language_(Austronesian)"
 translations:
+  - translation_iso: jpn
+    name: ロウ語
+    auto: true
   - translation_iso: zho
     name: 洛乌语
     auto: true

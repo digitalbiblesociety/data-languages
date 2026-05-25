@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Timor-Babar > Southwest Maluku > South Tanimbar > Seluwasan"
 wikipedia_url: "https://en.wikipedia.org/wiki/Seluwasan_language"
 translations:
+  - translation_iso: jpn
+    name: セルワサン語
+    auto: true
   - translation_iso: zho
     name: 塞卢瓦桑语
     auto: true

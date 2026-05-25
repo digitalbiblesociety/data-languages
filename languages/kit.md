@@ -15,6 +15,9 @@ glottolog_family_name: Pahoturi
 glottolog_classification: "Pahoturi > Agob-Ende-Kawam"
 wikipedia_url: "https://en.wikipedia.org/wiki/Agob_languages"
 translations:
+  - translation_iso: jpn
+    name: アゴブ語
+    auto: true
   - translation_iso: zho
     name: 阿戈布语
     auto: true

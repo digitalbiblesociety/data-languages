@@ -15,6 +15,9 @@ glottolog_family_name: Dogon
 glottolog_classification: "Dogon > Nangan Dogon > Nanga"
 wikipedia_url: "https://en.wikipedia.org/wiki/Nanga_Dogon"
 translations:
+  - translation_iso: jpn
+    name: ナンガ・ダマ・ドゴン語
+    auto: true
   - translation_iso: zho
     name: 南加达玛多贡语
     auto: true

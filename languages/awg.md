@@ -14,6 +14,9 @@ glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > Paman > Northern Pama > Albatross Bay > Anguthimri-Yangathimri-Yuputhimri > Anguthimri-Yangathimri > Anguthimri"
 wikipedia_url: "https://en.wikipedia.org/wiki/Anguthimri_language"
 translations:
+  - translation_iso: jpn
+    name: アングティムリ語
+    auto: true
   - translation_iso: zho
     name: 安古西姆里语
 rolv_dialects:

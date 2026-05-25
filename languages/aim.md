@@ -17,6 +17,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Aimol_language"
 translations:
   - translation_iso: hin
     name: आइमोल भाषा
+  - translation_iso: jpn
+    name: アイモル語
+    auto: true
   - translation_iso: zho
     name: 艾莫尔语
     auto: true

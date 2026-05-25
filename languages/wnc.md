@@ -15,6 +15,9 @@ glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Finisterre-Huon > Finisterre-Saruwaged > Wantoatic > Wantoat-Awara > Wantoat"
 wikipedia_url: "https://en.wikipedia.org/wiki/Wantoat_language"
 translations:
+  - translation_iso: jpn
+    name: ワントアト語
+    auto: true
   - translation_iso: zho
     name: 万托亚特语
     auto: true

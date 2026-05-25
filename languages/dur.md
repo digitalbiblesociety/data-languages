@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Cameroun-Ubangian > Central Adamawa > Samba-Duru > Southern Samba-Duru > Diic > Dii"
 wikipedia_url: "https://en.wikipedia.org/wiki/Dii_languages"
 translations:
+  - translation_iso: jpn
+    name: ディイ語
+    auto: true
   - translation_iso: zho
     name: 迪伊语
     auto: true

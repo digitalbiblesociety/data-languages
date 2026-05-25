@@ -14,6 +14,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > North Borneo Malayo-Polynesian > Sabahan > Southwest Sabahan > Greater Murutic > Murutic > Northern Murutic > Sumambu-Tagal > Tidung-Bulusu > Burusu"
 wikipedia_url: "https://en.wikipedia.org/wiki/Burusu_language"
 translations:
+  - translation_iso: jpn
+    name: ブルスゥ語
+    auto: true
   - translation_iso: zho
     name: 布鲁苏语
     auto: true

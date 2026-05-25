@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > North New Guinea linkage > Ngero-Vitiaz linkage > Vitiaz linkage > Southwest New Britain linkage > Arawe-Pasismanua > Pasismanua > Karore"
 wikipedia_url: "https://en.wikipedia.org/wiki/Karore_language"
 translations:
+  - translation_iso: jpn
+    name: カロレ語
+    auto: true
   - translation_iso: zho
     name: 卡罗雷语
     auto: true

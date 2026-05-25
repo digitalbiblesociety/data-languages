@@ -13,6 +13,9 @@ glottolog_family_id: algi1248
 glottolog_family_name: Algic
 glottolog_classification: "Algic > Algonquian-Blackfoot > Algonquian > Eastern Algonquian > Delawaran > Mahican-Woronoco-Pojassick > Loup B"
 translations:
+  - translation_iso: jpn
+    name: ルーポB語
+    auto: true
   - translation_iso: zho
     name: 路普B语
     auto: true

@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Celebic > Greater Eastern Celebic > Eastern Celebic > Southeastern Celebic > Bungku-Tolaki > Eastern Bungku-Tolaki > East Coast Bungku-Tolaki > Wawonii"
 wikipedia_url: "https://en.wikipedia.org/wiki/Wawonii_language"
 translations:
+  - translation_iso: jpn
+    name: ワウォニイ語
+    auto: true
   - translation_iso: zho
     name: 瓦沃尼语
     auto: true

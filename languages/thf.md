@@ -15,6 +15,9 @@ glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Himalayish > Mahakiranti > Newaric > Thangmi-Baram > Thangmi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Thangmi_language"
 translations:
+  - translation_iso: jpn
+    name: タングミ語
+    auto: true
   - translation_iso: zho
     name: 唐米語
 rolv_dialects:

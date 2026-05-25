@@ -15,6 +15,9 @@ glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > Paman > Northern Pama > Linngithigh-Alngith > Alngith"
 wikipedia_url: "https://en.wikipedia.org/wiki/Alngith_dialect"
 translations:
+  - translation_iso: jpn
+    name: アルンギス語
+    auto: true
   - translation_iso: zho
     name: 艾尔尼吉特语
     auto: true

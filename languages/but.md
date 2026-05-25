@@ -14,6 +14,9 @@ glottolog_family_name: Nuclear Torricelli
 glottolog_classification: "Nuclear Torricelli > Marienberg > Bungain"
 wikipedia_url: "https://en.wikipedia.org/wiki/Bungain_language"
 translations:
+  - translation_iso: jpn
+    name: ブンガイン語
+    auto: true
   - translation_iso: zho
     name: 邦盖因语
     auto: true

@@ -12,6 +12,9 @@ longitude: -62.94127
 glottocode: puel1244
 wikipedia_url: "https://en.wikipedia.org/wiki/G%C3%BCn%C3%BCna_K%C3%BCne_language"
 translations:
+  - translation_iso: jpn
+    name: プエルチェ語
+    auto: true
   - translation_iso: zho
     name: 布埃切语
 ---

@@ -15,6 +15,9 @@ glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Asmat-Awyu-Ok > Asmat-Kamrau Bay > Asmat-Kamoro > Asmat > Casuarina Coast Asmat"
 wikipedia_url: "https://en.wikipedia.org/wiki/Casuarina_Coast_Asmat_language"
 translations:
+  - translation_iso: jpn
+    name: カスアリーナ・コースト・アスマット語
+    auto: true
   - translation_iso: zho
     name: 红树林海岸阿斯玛特语
     auto: true

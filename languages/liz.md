@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > Central-Western Bantu > North Zaire River > Rivers Bantu > Ngiri > Ngiri Riverain Ubangi > Ngiri Riverain Ubangi-Ripuaire > Libinzic > Libinza Ngiri > Libinza"
 wikipedia_url: "https://en.wikipedia.org/wiki/Binza_language"
 translations:
+  - translation_iso: jpn
+    name: リビンザ語
+    auto: true
   - translation_iso: zho
     name: 利宾扎语
     auto: true

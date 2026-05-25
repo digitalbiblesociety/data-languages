@@ -15,6 +15,9 @@ glottolog_family_name: Arawan
 glottolog_classification: "Arawan > Paumari"
 wikipedia_url: "https://en.wikipedia.org/wiki/Paumar%C3%AD_language"
 translations:
+  - translation_iso: jpn
+    name: パウマリ語
+    auto: true
   - translation_iso: zho
     name: 帕烏瑪利語
 rolv_dialects:

@@ -17,6 +17,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Dabarre_language"
 translations:
   - translation_iso: ara
     name: لغة الداباري
+  - translation_iso: jpn
+    name: ダバレ語
+    auto: true
   - translation_iso: zho
     name: 达巴雷语
     auto: true

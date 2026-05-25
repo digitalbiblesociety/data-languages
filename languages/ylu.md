@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > North New Guinea linkage > Huon Gulf > Markham > Lower Markham > Busu > Aribwaung"
 wikipedia_url: "https://en.wikipedia.org/wiki/Aribwaung_language"
 translations:
+  - translation_iso: jpn
+    name: アリブワウング語
+    auto: true
   - translation_iso: zho
     name: 阿里布瓦翁语
     auto: true

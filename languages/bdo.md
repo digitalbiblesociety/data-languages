@@ -17,6 +17,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Morom_language"
 translations:
   - translation_iso: ara
     name: موروم
+  - translation_iso: jpn
+    name: モロム語
+    auto: true
   - translation_iso: zho
     name: 莫罗姆语
     auto: true

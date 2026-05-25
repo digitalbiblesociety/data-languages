@@ -15,6 +15,9 @@ glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Burmo-Qiangic > Lolo-Burmese > Loloish > Ni-Li-Kazhouish > Kazhouish > Katso"
 wikipedia_url: "https://en.wikipedia.org/wiki/Katso_language"
 translations:
+  - translation_iso: jpn
+    name: カッソ語
+    auto: true
   - translation_iso: zho
     name: 卡卓語
 ---

@@ -14,6 +14,9 @@ glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Asmat-Awyu-Ok > Awyu-Ok > Ok-Oksapmin > Ok > Ngalum"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ngalum_language"
 translations:
+  - translation_iso: jpn
+    name: ンガルム語
+    auto: true
   - translation_iso: zho
     name: 恩加卢姆语
     auto: true

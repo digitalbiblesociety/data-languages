@@ -15,6 +15,9 @@ glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Germanic > Northwest Germanic > West Germanic > Macro-Dutch > Middle-Modern Dutch > Modern Dutch > Global Dutch > Petjo"
 wikipedia_url: "https://en.wikipedia.org/wiki/Petjo"
 translations:
+  - translation_iso: jpn
+    name: ペティオ語
+    auto: true
   - translation_iso: zho
     name: 佩特乔语
     auto: true

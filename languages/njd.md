@@ -10,6 +10,9 @@ latitude: -10.55838
 longitude: 38.12529
 wikipedia_url: "https://en.wikipedia.org/wiki/Ndonde_language"
 translations:
+  - translation_iso: jpn
+    name: ンドンデ・ハンバ語
+    auto: true
   - translation_iso: zho
     name: 恩东德汉巴语
     auto: true

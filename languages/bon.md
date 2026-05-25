@@ -15,6 +15,9 @@ glottolog_family_name: Eastern Trans-Fly
 glottolog_classification: "Eastern Trans-Fly > Bine"
 wikipedia_url: "https://en.wikipedia.org/wiki/Bine_language"
 translations:
+  - translation_iso: jpn
+    name: バイン語
+    auto: true
   - translation_iso: zho
     name: 比内语
     auto: true

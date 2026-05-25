@@ -14,6 +14,9 @@ glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Indo-Aryan > Middle-Modern Indo-Aryan > Continental Indo-Aryan > Midlands Indo-Aryan > Shaurasenic > Bihari > Magadhan > Sadanic > Sadri-Panchpargania > Panchpargania"
 translations:
+  - translation_iso: jpn
+    name: パンチパルガニア語
+    auto: true
   - translation_iso: zho
     name: 潘奇帕尔甘尼亚语
     auto: true

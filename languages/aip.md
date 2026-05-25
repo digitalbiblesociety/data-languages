@@ -14,6 +14,9 @@ glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Asmat-Awyu-Ok > Awyu-Ok > Ok-Oksapmin > Ok > Kwer-Kopkaka-Burumakok > Kwer-Burumakok > Burumakok"
 wikipedia_url: "https://en.wikipedia.org/wiki/Burumakok_language"
 translations:
+  - translation_iso: jpn
+    name: ブルマコク語
+    auto: true
   - translation_iso: zho
     name: 布鲁马科克语
     auto: true

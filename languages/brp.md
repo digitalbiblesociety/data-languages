@@ -14,6 +14,9 @@ glottolog_family_name: Geelvink Bay
 glottolog_classification: "Geelvink Bay > Barapasi-Sauri-Kofei > Barapasi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Baropasi_language"
 translations:
+  - translation_iso: jpn
+    name: バラパシ語
+    auto: true
   - translation_iso: zho
     name: 巴拉帕西语
     auto: true

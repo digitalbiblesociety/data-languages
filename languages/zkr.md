@@ -17,6 +17,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Zakhring_language"
 translations:
   - translation_iso: hin
     name: जैवा भाषा
+  - translation_iso: jpn
+    name: ザクリング語
+    auto: true
   - translation_iso: zho
     name: 扎话
 ---

@@ -17,6 +17,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Lish_language"
 translations:
   - translation_iso: hin
     name: लिश भाषा
+  - translation_iso: jpn
+    name: リシュ語
+    auto: true
   - translation_iso: zho
     name: 利西语
 ---

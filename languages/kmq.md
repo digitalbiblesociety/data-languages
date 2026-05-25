@@ -15,6 +15,9 @@ glottolog_family_name: Koman
 glottolog_classification: "Koman > Gwama"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kwama_language"
 translations:
+  - translation_iso: jpn
+    name: クワマ語
+    auto: true
   - translation_iso: zho
     name: 夸马语
     auto: true

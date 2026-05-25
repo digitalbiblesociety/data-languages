@@ -14,6 +14,9 @@ glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Madang > Kalamic-South Adelbert > South Adelbert > Osum-Wadaginam-Pomoikan > Wadaginam"
 wikipedia_url: "https://en.wikipedia.org/wiki/Wadaginam_language"
 translations:
+  - translation_iso: jpn
+    name: ワダギナム語
+    auto: true
   - translation_iso: zho
     name: 瓦达基纳姆语
     auto: true

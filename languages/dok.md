@@ -14,6 +14,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Celebic > Greater Eastern Celebic > Tominic > Northern Tomini > Dondo"
 wikipedia_url: "https://en.wikipedia.org/wiki/Dondo_language_(Austronesian)"
 translations:
+  - translation_iso: jpn
+    name: ドンド語
+    auto: true
   - translation_iso: zho
     name: 多恩多语
     auto: true

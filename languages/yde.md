@@ -13,6 +13,9 @@ glottolog_family_id: nucl1708
 glottolog_family_name: Nuclear Torricelli
 glottolog_classification: "Nuclear Torricelli > Wapei-Palei > Central Torricelli > Nuclear Palai > Yangum-Ambrak > Yangum > Yangum Dey"
 translations:
+  - translation_iso: jpn
+    name: ヤングム・デイ語
+    auto: true
   - translation_iso: zho
     name: 扬古姆-德伊语
     auto: true

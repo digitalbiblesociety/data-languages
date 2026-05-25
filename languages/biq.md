@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Admiralty Islands > Eastern Admiralty Islands > Manus > West Manus > West Manus I > Bipi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Bipi_language"
 translations:
+  - translation_iso: jpn
+    name: ビピ語
+    auto: true
   - translation_iso: zho
     name: 比皮语
     auto: true

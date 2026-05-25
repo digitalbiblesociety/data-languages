@@ -15,6 +15,9 @@ glottolog_family_name: Bosavi
 glottolog_classification: "Bosavi > Etoro-Bedamini > Edolo"
 wikipedia_url: "https://en.wikipedia.org/wiki/Edolo_language"
 translations:
+  - translation_iso: jpn
+    name: エドロ語
+    auto: true
   - translation_iso: zho
     name: 艾托羅語
 rolv_dialects:

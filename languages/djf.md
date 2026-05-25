@@ -14,6 +14,9 @@ glottolog_family_id: pama1250
 glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > Yimidhirr-Yalanji-Yidinic > Yalandyic > Djangun"
 translations:
+  - translation_iso: jpn
+    name: ジャングン語
+    auto: true
   - translation_iso: zho
     name: 詹古恩语
     auto: true

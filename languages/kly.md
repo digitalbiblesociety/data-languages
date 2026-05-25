@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Celebic > Kaili-Wolio > Southern Kaili-Wolio > Island Kaili-Wolio > Kalao-Laiyolo > Kalao"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kalao_language"
 translations:
+  - translation_iso: jpn
+    name: カラオ語
+    auto: true
   - translation_iso: zho
     name: 卡劳语
     auto: true

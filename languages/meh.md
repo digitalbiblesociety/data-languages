@@ -15,6 +15,9 @@ glottolog_family_name: Otomanguean
 glottolog_classification: "Otomanguean > Eastern Otomanguean > Amuzgo-Mixtecan > Mixtecan > Mixtec-Cuicatec > Mixtec > Western Alta Mixtec > Southwestern Alta Mixtec > Southwestern Tlaxiaco Mixtec"
 wikipedia_url: "https://en.wikipedia.org/wiki/Nuyoo_Mixtec"
 translations:
+  - translation_iso: jpn
+    name: 南西トラシアコ・ミステク語
+    auto: true
   - translation_iso: zho
     name: 西南特拉克西亚混合语
     auto: true

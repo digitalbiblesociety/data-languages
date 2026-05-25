@@ -12,6 +12,9 @@ longitude: -122.857
 glottocode: mola1238
 wikipedia_url: "https://en.wikipedia.org/wiki/Molala_language"
 translations:
+  - translation_iso: jpn
+    name: モラレ語
+    auto: true
   - translation_iso: zho
     name: 莫拉莱语
     auto: true

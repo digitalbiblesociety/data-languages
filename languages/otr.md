@@ -15,6 +15,9 @@ glottolog_family_name: Heibanic
 glottolog_classification: "Heibanic > West-Central Heibanic > Central Heibanic > Ebang-Logol > Otoro"
 wikipedia_url: "https://en.wikipedia.org/wiki/Otoro_language"
 translations:
+  - translation_iso: jpn
+    name: オトロ語
+    auto: true
   - translation_iso: zho
     name: 奥托罗语
     auto: true

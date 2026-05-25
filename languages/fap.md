@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Cangin > Palor-Ndut > Palor"
 wikipedia_url: "https://en.wikipedia.org/wiki/Palor_language"
 translations:
+  - translation_iso: jpn
+    name: パロール語
+    auto: true
   - translation_iso: zho
     name: 帕洛尔语
     auto: true

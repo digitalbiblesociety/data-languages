@@ -15,6 +15,9 @@ glottolog_family_name: Tucanoan
 glottolog_classification: "Tucanoan > Western Tucanoan > Koreguaje-Tama > Koreguaje"
 wikipedia_url: "https://en.wikipedia.org/wiki/Koreguaje_language"
 translations:
+  - translation_iso: jpn
+    name: コレグアヘ語
+    auto: true
   - translation_iso: zho
     name: 科雷瓜赫语
     auto: true

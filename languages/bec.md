@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Tivoid > Central Tivoid > Central Tivoid A > Iceve-Maci"
 wikipedia_url: "https://en.wikipedia.org/wiki/Iceve-Maci_language"
 translations:
+  - translation_iso: jpn
+    name: イセヴェ・マシ語
+    auto: true
   - translation_iso: zho
     name: 冰塞夫-马西语
     auto: true

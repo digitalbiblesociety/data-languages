@@ -15,6 +15,9 @@ glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Iranian-Nuristani > Iranian > Central Iranian PBS > Central Iranian PB > Northwestern Iranian > Adharic > Tatic > Alamuti"
 wikipedia_url: "https://en.wikipedia.org/wiki/Gozarkhani_language"
 translations:
+  - translation_iso: jpn
+    name: ゴザルハニ語
+    auto: true
   - translation_iso: zho
     name: 戈扎尔汗语
     auto: true

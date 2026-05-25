@@ -17,6 +17,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Gaddi_language"
 translations:
   - translation_iso: hin
     name: गदी
+  - translation_iso: jpn
+    name: ガッディ語
+    auto: true
   - translation_iso: zho
     name: 加迪语
     auto: true

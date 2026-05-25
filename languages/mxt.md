@@ -14,6 +14,9 @@ glottolog_family_id: otom1299
 glottolog_family_name: Otomanguean
 glottolog_classification: "Otomanguean > Eastern Otomanguean > Amuzgo-Mixtecan > Mixtecan > Mixtec-Cuicatec > Mixtec > Coast Mixtec > East Coast Mixtec > Jamiltepec Mixtec"
 translations:
+  - translation_iso: jpn
+    name: ジャミルテペック・ミステク語
+    auto: true
   - translation_iso: zho
     name: 贾米尔特佩克米克斯特克语
     auto: true

@@ -14,6 +14,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > North New Guinea linkage > Huon Gulf > South Huon Gulf linkage > Misim-Yamap > Yamap"
 wikipedia_url: "https://en.wikipedia.org/wiki/Yamap_language"
 translations:
+  - translation_iso: jpn
+    name: ヤマップ語
+    auto: true
   - translation_iso: zho
     name: 亚玛普语
     auto: true

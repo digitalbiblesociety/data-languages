@@ -14,6 +14,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Timor-Babar > Southwest Maluku > Babar > South Babar > Southwest Babar > Imroing"
 wikipedia_url: "https://en.wikipedia.org/wiki/Imroing_language"
 translations:
+  - translation_iso: jpn
+    name: イムロイング語
+    auto: true
   - translation_iso: zho
     name: 伊姆罗因语
     auto: true

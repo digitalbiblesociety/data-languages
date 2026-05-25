@@ -14,6 +14,9 @@ glottolog_family_id: cent2225
 glottolog_family_name: Central Sudanic
 glottolog_classification: "Central Sudanic > Sara-Bongo-Bagirmi > SBB Occidental > Nuclear SBB Occidental > Saraic > Sara Central > Sara Central Logone-Chari > Bediondo > Gor"
 translations:
+  - translation_iso: jpn
+    name: ゴル語
+    auto: true
   - translation_iso: zho
     name: 戈尔语
     auto: true

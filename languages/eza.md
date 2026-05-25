@@ -8,6 +8,9 @@ country_name: Nigeria
 status_id: "5"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ezaa_language"
 translations:
+  - translation_iso: jpn
+    name: エザア語
+    auto: true
   - translation_iso: zho
     name: 埃扎语
     auto: true

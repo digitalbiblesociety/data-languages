@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Yemne-Kimbi > Ji > Mundabli-Mufu"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mundabli-Mufu_language"
 translations:
+  - translation_iso: jpn
+    name: ムンダブリ語
+    auto: true
   - translation_iso: zho
     name: 蒙达布利语
     auto: true

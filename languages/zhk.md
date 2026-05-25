@@ -11,6 +11,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Kurdish_Sign_Language"
 translations:
   - translation_iso: hin
     name: कुर्द सांकेतिक भाषा
+  - translation_iso: jpn
+    name: クルド手話言語
+    auto: true
   - translation_iso: zho
     name: 库尔德手语
     auto: true

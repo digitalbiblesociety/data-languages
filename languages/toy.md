@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Celebic > Kaili-Wolio > Northern Kaili-Wolio > Topoiyo"
 wikipedia_url: "https://en.wikipedia.org/wiki/Topoiyo_language"
 translations:
+  - translation_iso: jpn
+    name: トポイヨ語
+    auto: true
   - translation_iso: zho
     name: 托波伊约语
     auto: true

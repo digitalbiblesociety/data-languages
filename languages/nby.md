@@ -17,6 +17,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Ningera_language"
 translations:
   - translation_iso: hin
     name: निंगेरा
+  - translation_iso: jpn
+    name: ニンゲラ語
+    auto: true
   - translation_iso: zho
     name: 宁格拉语
     auto: true

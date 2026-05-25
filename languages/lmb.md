@@ -14,6 +14,9 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > North and Central Vanuatu > Northern Vanuatu > Espiritu Santo > West Santo > Central Santo > Merei"
 translations:
+  - translation_iso: jpn
+    name: メレイ語
+    auto: true
   - translation_iso: zho
     name: 梅雷伊语
     auto: true

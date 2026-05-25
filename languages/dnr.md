@@ -14,6 +14,9 @@ glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Madang > Rai Coast > Peka > Urigina-Danaru > Danaru"
 wikipedia_url: "https://en.wikipedia.org/wiki/Danaru_language"
 translations:
+  - translation_iso: jpn
+    name: ダナル語
+    auto: true
   - translation_iso: zho
     name: 达那鲁语
     auto: true

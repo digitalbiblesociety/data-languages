@@ -15,6 +15,9 @@ glottolog_family_name: Otomanguean
 glottolog_classification: "Otomanguean > Eastern Otomanguean > Amuzgo-Mixtecan > Mixtecan > Mixtec-Cuicatec > Mixtec > Northern Alta Mixtec > Cuyamecalco Mixtec"
 wikipedia_url: "https://en.wikipedia.org/wiki/Cuyamecalco_Mixtec"
 translations:
+  - translation_iso: jpn
+    name: クヤメカルコ・ミステク語
+    auto: true
   - translation_iso: zho
     name: 库亚梅卡尔科-米斯特克语
     auto: true

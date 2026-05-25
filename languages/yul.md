@@ -17,6 +17,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Yulu_language"
 translations:
   - translation_iso: ara
     name: لغة اليولو
+  - translation_iso: jpn
+    name: ユル語
+    auto: true
   - translation_iso: zho
     name: 尤卢语
     auto: true

@@ -15,6 +15,9 @@ glottolog_family_name: Amto-Musan
 glottolog_classification: "Amto-Musan > Amto"
 wikipedia_url: "https://en.wikipedia.org/wiki/Amto_language"
 translations:
+  - translation_iso: jpn
+    name: アムト語
+    auto: true
   - translation_iso: zho
     name: 阿姆托语
     auto: true

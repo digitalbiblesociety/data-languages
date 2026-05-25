@@ -15,6 +15,9 @@ glottolog_family_name: Arawan
 glottolog_classification: "Arawan > Madi-Madiha > Madiha > Deni"
 wikipedia_url: "https://en.wikipedia.org/wiki/Deni_language"
 translations:
+  - translation_iso: jpn
+    name: デニ語
+    auto: true
   - translation_iso: zho
     name: 丹尼語
 ---

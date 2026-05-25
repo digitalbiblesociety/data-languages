@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > Bantu A-B10-B20-B30 > Makaa-Kako (A.80-90) > Makaa-Njem (A.80) > Western A80 > Makaaic > North-Central Makaaic > Byep-Besep"
 wikipedia_url: "https://en.wikipedia.org/wiki/Byep_language"
 translations:
+  - translation_iso: jpn
+    name: ビエプ語
+    auto: true
   - translation_iso: zho
     name: 拜普语
     auto: true

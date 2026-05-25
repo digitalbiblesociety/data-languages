@@ -14,6 +14,9 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Northern Luzon > Meso-Cordilleran > South-Central Cordilleran > Central Cordilleran > Kalinga-Itneg > Itneg > Binongan Itneg"
 translations:
+  - translation_iso: jpn
+    name: ビノンガン・イトネグ語
+    auto: true
   - translation_iso: zho
     name: 比农根伊特内格语
     auto: true

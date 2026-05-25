@@ -14,6 +14,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Celebic > Kaili-Wolio > Southern Kaili-Wolio > Wotu"
 wikipedia_url: "https://en.wikipedia.org/wiki/Wotu_language"
 translations:
+  - translation_iso: jpn
+    name: ウォトゥ語
+    auto: true
   - translation_iso: zho
     name: 沃图语
     auto: true

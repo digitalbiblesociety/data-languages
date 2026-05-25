@@ -14,6 +14,9 @@ glottolog_family_id: otom1299
 glottolog_family_name: Otomanguean
 glottolog_classification: "Otomanguean > Eastern Otomanguean > Popoloca-Zapotecan > Popolocan-Mazatecan > Ixcatec-Chocho-Popolocan > Chocho-Popolocan > Popolocan > Southwestern Popolocan > Tepexi-Zapotitlan > Santa Inés Ahuatempan Popoloca"
 translations:
+  - translation_iso: jpn
+    name: サンタ・イネス・アワテンパン・ポポロカ語
+    auto: true
   - translation_iso: zho
     name: 圣内斯阿瓦坦潘波波洛卡语
     auto: true

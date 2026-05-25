@@ -15,6 +15,9 @@ glottolog_family_name: Yam
 glottolog_classification: "Yam > Morehead-Maro > Tonda > Eastern Tonda > Kánchá"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kunja_language_(Papuan)"
 translations:
+  - translation_iso: jpn
+    name: クンジャ語
+    auto: true
   - translation_iso: zho
     name: 昆雅语
     auto: true

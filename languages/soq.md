@@ -14,6 +14,9 @@ glottolog_family_name: Dagan
 glottolog_classification: "Dagan > Southeast Dagan > Kanasi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kanasi_language"
 translations:
+  - translation_iso: jpn
+    name: ソナ語
+    auto: true
   - translation_iso: zho
     name: 卡纳西语
     auto: true

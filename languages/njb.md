@@ -17,6 +17,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Nocte_language"
 translations:
   - translation_iso: hin
     name: नोक्टे भाषा
+  - translation_iso: jpn
+    name: ノクテ・ナガ語
+    auto: true
   - translation_iso: zho
     name: 诺克特纳加语
     auto: true

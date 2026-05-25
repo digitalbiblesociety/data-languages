@@ -15,6 +15,9 @@ glottolog_family_name: Nuclear Torricelli
 glottolog_classification: "Nuclear Torricelli > Marienberg > Mandi-Muniwara > Wiarumus"
 wikipedia_url: "https://en.wikipedia.org/wiki/Wiarumus_language"
 translations:
+  - translation_iso: jpn
+    name: マンディ語
+    auto: true
   - translation_iso: zho
     name: 威亚鲁木斯语
     auto: true

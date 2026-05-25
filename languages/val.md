@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > North New Guinea linkage > Huon Gulf > South Huon Gulf linkage > Buang linkage > Vehes"
 wikipedia_url: "https://en.wikipedia.org/wiki/Vehes_language"
 translations:
+  - translation_iso: jpn
+    name: ブアシ語
+    auto: true
   - translation_iso: zho
     name: 韦赫斯语
     auto: true

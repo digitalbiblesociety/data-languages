@@ -14,6 +14,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Greater South Sulawesi > South Sulawesi > Northern South Sulawesi > Pitu Ulunna Salu > Matangnga-Aralle-Tabulahan > Aralle-Tabulahan"
 wikipedia_url: "https://en.wikipedia.org/wiki/Aralle-Tabulahan_language"
 translations:
+  - translation_iso: jpn
+    name: アラレタブラハン語
+    auto: true
   - translation_iso: zho
     name: 阿拉莱-塔布拉汉语
     auto: true

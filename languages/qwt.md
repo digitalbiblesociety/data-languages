@@ -14,6 +14,9 @@ glottolog_family_name: Athabaskan-Eyak-Tlingit
 glottolog_classification: "Athabaskan-Eyak-Tlingit > Athabaskan-Eyak > Athabaskan > Pacific Coast Athabaskan > Kwalhioqua-Clatskanie"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kwalhioqua%E2%80%93Clatskanie_language"
 translations:
+  - translation_iso: jpn
+    name: クワルヒオクワトラツカナイ語
+    auto: true
   - translation_iso: zho
     name: 克瓦尔希奥昆-特拉茨卡奈语
     auto: true

@@ -15,6 +15,9 @@ glottolog_family_name: Western Daly
 glottolog_classification: "Western Daly > Bringen > Marithielic > Maridjabin"
 wikipedia_url: "https://en.wikipedia.org/wiki/Marri_Tjevin"
 translations:
+  - translation_iso: jpn
+    name: マリジャビン語
+    auto: true
   - translation_iso: zho
     name: 马里甲宾语
     auto: true

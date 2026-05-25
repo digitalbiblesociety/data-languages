@@ -15,6 +15,9 @@ glottolog_family_name: Uto-Aztecan
 glottolog_classification: "Uto-Aztecan > Southern Uto-Aztecan > Corachol-Aztecan > Aztec > Western Nahuatl > Central Nahuatl > Central Guerrero Nahuatl"
 wikipedia_url: "https://en.wikipedia.org/wiki/Guerrero_Nahuatl"
 translations:
+  - translation_iso: jpn
+    name: ゲレロ・ナワトル語
+    auto: true
   - translation_iso: zho
     name: 格雷罗纳瓦特尔语
     auto: true

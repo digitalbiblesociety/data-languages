@@ -14,6 +14,9 @@ glottolog_family_name: Sepik
 glottolog_classification: "Sepik > Sepik Hill > Central-Eastern Sepik Hill > Eastern Sepik Hill > Kaningra"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kaningra_language"
 translations:
+  - translation_iso: jpn
+    name: カニングラ語
+    auto: true
   - translation_iso: zho
     name: 卡宁格拉语
     auto: true

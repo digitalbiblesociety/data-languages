@@ -17,6 +17,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Afitti_language"
 translations:
   - translation_iso: ara
     name: شعب افيتي
+  - translation_iso: jpn
+    name: アフィティ語
+    auto: true
   - translation_iso: zho
     name: 阿菲蒂语
     auto: true

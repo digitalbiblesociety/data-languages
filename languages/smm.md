@@ -17,6 +17,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Musasa_language"
 translations:
   - translation_iso: ara
     name: لغة موساساوية
+  - translation_iso: jpn
+    name: ムサハル語
+    auto: true
   - translation_iso: zho
     name: 穆萨萨语
     auto: true

@@ -15,6 +15,9 @@ glottolog_family_name: East Strickland
 glottolog_classification: "East Strickland > Kubo-Samo-Bibo > Samo"
 wikipedia_url: "https://en.wikipedia.org/wiki/Samo_language_(New_Guinea)"
 translations:
+  - translation_iso: jpn
+    name: ダバ語
+    auto: true
   - translation_iso: zho
     name: 萨莫语
     auto: true

@@ -8,6 +8,9 @@ country_name: Nigeria
 status_id: "5"
 wikipedia_url: "https://en.wikipedia.org/wiki/Izi_language"
 translations:
+  - translation_iso: jpn
+    name: イジー語
+    auto: true
   - translation_iso: zho
     name: 伊兹伊语
     auto: true

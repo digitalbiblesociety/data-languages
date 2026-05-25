@@ -8,6 +8,9 @@ latitude: -0.648259
 longitude: 103.353479
 wikipedia_url: "https://en.wikipedia.org/wiki/Old_Malay_language"
 translations:
+  - translation_iso: jpn
+    name: 古マレー語
+    auto: true
   - translation_iso: zho
     name: 古马来语
 ---

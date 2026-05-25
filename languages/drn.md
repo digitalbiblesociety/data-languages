@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Timor-Babar > Southwest Maluku > Babar > West Damar"
 wikipedia_url: "https://en.wikipedia.org/wiki/West_Damar_language"
 translations:
+  - translation_iso: jpn
+    name: 西ダマル語
+    auto: true
   - translation_iso: zho
     name: 西达马尔语
     auto: true

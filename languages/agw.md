@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Southeast Solomonic > Longgu-Malaita-Makira > Malaita-Makira > Makira > Kahua"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kahua_language"
 translations:
+  - translation_iso: jpn
+    name: カフア語
+    auto: true
   - translation_iso: zho
     name: 卡华语
     auto: true

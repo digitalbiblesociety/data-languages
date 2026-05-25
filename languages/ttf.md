@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > Mbam-Bubi > Mbam > Nuclear Mbam > Sanaga-West Mbam (A.40) > West Mbam (A.40) > Tuotomb"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tuotomb_language"
 translations:
+  - translation_iso: jpn
+    name: ボネク語
+    auto: true
   - translation_iso: zho
     name: 图奥图姆语
     auto: true

@@ -9,6 +9,9 @@ status_id: 6b
 latitude: 13.56989
 longitude: 106.76134
 translations:
+  - translation_iso: jpn
+    name: クルン語
+    auto: true
   - translation_iso: zho
     name: 克龙语
     auto: true

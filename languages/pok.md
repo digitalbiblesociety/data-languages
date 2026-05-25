@@ -9,6 +9,9 @@ status_id: "7"
 latitude: 0.35794
 longitude: -69.56072
 translations:
+  - translation_iso: jpn
+    name: ポカンガ語
+    auto: true
   - translation_iso: zho
     name: 波康加语
     auto: true

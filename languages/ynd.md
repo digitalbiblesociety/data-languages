@@ -15,6 +15,9 @@ glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > Karnic > Central Karnic > Western Central Karnic > Yandruwandhic > Yandruwandha"
 wikipedia_url: "https://en.wikipedia.org/wiki/Yandruwandha_language"
 translations:
+  - translation_iso: jpn
+    name: ヤンドルワンダ語
+    auto: true
   - translation_iso: zho
     name: 扬德鲁万达语
     auto: true

@@ -14,6 +14,9 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Northern Luzon > Cagayan Valley > Ibanagic > Atta > Pamplona Atta"
 translations:
+  - translation_iso: jpn
+    name: パンプロナ・アッタ語
+    auto: true
   - translation_iso: zho
     name: 潘普洛纳阿塔语
     auto: true

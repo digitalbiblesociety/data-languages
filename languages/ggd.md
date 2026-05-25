@@ -15,6 +15,9 @@ glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > Paman > Gugadj"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kukatj_language"
 translations:
+  - translation_iso: jpn
+    name: グガジ語
+    auto: true
   - translation_iso: zho
     name: 古加德语
     auto: true

@@ -15,6 +15,9 @@ glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Burmo-Qiangic > Lolo-Burmese > Loloish > Ni-Li-Kazhouish > Lisoid > Lipo-Lolopo > Unclassified Lipo-Lolopo > Southwestern Lolo > Mili"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mili_language"
 translations:
+  - translation_iso: jpn
+    name: ミリ語
+    auto: true
   - translation_iso: zho
     name: 咪俚语
 ---

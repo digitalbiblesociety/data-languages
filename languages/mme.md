@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > North and Central Vanuatu > Central Vanuatu > Malakula > Western Malakula linkage > Peripheral Western Malakula > Northwestern Malakula > Tirax"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tirax_language"
 translations:
+  - translation_iso: jpn
+    name: マエ語
+    auto: true
   - translation_iso: zho
     name: 玛埃语
     auto: true

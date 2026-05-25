@@ -15,6 +15,9 @@ glottolog_family_name: Pano-Tacanan
 glottolog_classification: "Pano-Tacanan > Panoan > Mainline Pano > Pano Nawa > Headwaters Pano > Remo of the Moa river"
 wikipedia_url: "https://en.wikipedia.org/wiki/M%C3%B4a_Remo_language"
 translations:
+  - translation_iso: jpn
+    name: レモ語
+    auto: true
   - translation_iso: zho
     name: 雷莫语
     auto: true

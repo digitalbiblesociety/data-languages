@@ -17,6 +17,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Powari_language"
 translations:
   - translation_iso: hin
     name: पोवारी भाषा
+  - translation_iso: jpn
+    name: ポワリ語
+    auto: true
   - translation_iso: zho
     name: 波瓦里语
     auto: true

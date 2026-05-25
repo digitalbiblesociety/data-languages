@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > Central-Western Bantu > West-Coastal Bantu > Nzadic > Lweric > Dingic > Loange-Atlantic > Kwilu-Ngounie > Kasai-Ngounie > Moyen Kasai-Ngounie > Interior Kasai-Ngounie > West Kasai-Ngounie > Northwest Kasai-Ngounie > Mbere (B.60) > Tsitsekeic > Lekaningic > Ndumu"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ndumu_language"
 translations:
+  - translation_iso: jpn
+    name: ンドゥム語
+    auto: true
   - translation_iso: zho
     name: 恩杜姆语
     auto: true

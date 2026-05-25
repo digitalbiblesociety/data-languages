@@ -14,6 +14,9 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Timor-Babar > Wetar-Atauro > Wetar > Perai-Tugun-Aputai > Tugun"
 translations:
+  - translation_iso: jpn
+    name: ウェタル語
+    auto: true
   - translation_iso: zho
     name: 图贡语
     auto: true

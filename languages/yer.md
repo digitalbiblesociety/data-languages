@@ -17,6 +17,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Tarok_language"
 translations:
   - translation_iso: ara
     name: تاروك
+  - translation_iso: jpn
+    name: タロク語
+    auto: true
   - translation_iso: zho
     name: 塔罗克语
     auto: true

@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Bendic > Nuclear Bendic > Bukpic > Ubang"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ubang_language"
 translations:
+  - translation_iso: jpn
+    name: ウバンゴ語
+    auto: true
   - translation_iso: zho
     name: 乌邦语
     auto: true

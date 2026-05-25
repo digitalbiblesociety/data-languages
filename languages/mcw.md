@@ -15,6 +15,9 @@ glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > East Chadic > East Chadic B > East Chadic B.3 > Mawa (Chad)"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mawa_language_(Chad)"
 translations:
+  - translation_iso: jpn
+    name: マワ語
+    auto: true
   - translation_iso: zho
     name: 马瓦语
     auto: true

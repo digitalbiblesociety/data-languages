@@ -8,6 +8,9 @@ country_name: Solomon Islands
 status_id: null
 wikipedia_url: "https://en.wikipedia.org/wiki/Noip%C3%A4_language"
 translations:
+  - translation_iso: jpn
+    name: ノイプックス語
+    auto: true
   - translation_iso: zho
     name: 诺伊普克斯语
     auto: true

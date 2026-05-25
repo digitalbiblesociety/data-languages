@@ -15,6 +15,9 @@ glottolog_family_name: Kru
 glottolog_classification: "Kru > Greater Western Kru > Western Kru > Wee-Bassa-Klao > Bassa-Klao > Klao-Tajuasohn > Klao"
 wikipedia_url: "https://en.wikipedia.org/wiki/Klao_language"
 translations:
+  - translation_iso: jpn
+    name: クラオ語
+    auto: true
   - translation_iso: zho
     name: 克劳语
     auto: true

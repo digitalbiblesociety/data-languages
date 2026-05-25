@@ -17,6 +17,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Maring_language"
 translations:
   - translation_iso: hin
     name: मरीआंग भाषा
+  - translation_iso: jpn
+    name: マリング語
+    auto: true
   - translation_iso: zho
     name: 马林语
     auto: true

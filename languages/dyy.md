@@ -15,6 +15,9 @@ glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > Yimidhirr-Yalanji-Yidinic > Yidinic > Dyaabugay"
 wikipedia_url: "https://en.wikipedia.org/wiki/Djabugay_language"
 translations:
+  - translation_iso: jpn
+    name: ジャブガイ語
+    auto: true
   - translation_iso: zho
     name: 詹布盖语
     auto: true

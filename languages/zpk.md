@@ -15,6 +15,9 @@ glottolog_family_name: Otomanguean
 glottolog_classification: "Otomanguean > Eastern Otomanguean > Popoloca-Zapotecan > Zapotecan > Zapotec > Core Zapotec > Macrocoatecano > Amatecano > Tlacolulita Zapotec"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tlacolulita_Zapotec"
 translations:
+  - translation_iso: jpn
+    name: トラコルリタ・サポテク語
+    auto: true
   - translation_iso: zho
     name: 特拉科卢利塔萨波特克语
     auto: true

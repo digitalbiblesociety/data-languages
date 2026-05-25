@@ -14,6 +14,9 @@ glottolog_family_id: cent2225
 glottolog_family_name: Central Sudanic
 glottolog_classification: "Central Sudanic > Mangbetu-Asua > Lombi"
 translations:
+  - translation_iso: jpn
+    name: ロンビ語
+    auto: true
   - translation_iso: zho
     name: 龙比语
     auto: true

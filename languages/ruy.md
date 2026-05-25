@@ -15,6 +15,9 @@ glottolog_family_name: Unattested
 glottolog_classification: "Unattested > Atlantic-Congo (Unattested) > Mala (Nigeria)"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mala_language_(Nigeria)"
 translations:
+  - translation_iso: jpn
+    name: ルマヤ語
+    auto: true
   - translation_iso: zho
     name: 马拉语（尼日利亚）
     auto: true

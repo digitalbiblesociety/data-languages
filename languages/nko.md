@@ -14,6 +14,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Kwa Volta-Congo > Nyo > Potou-Tano > Tano > Guang > North Guang > Nkonya-Nkami > Nkonya"
 wikipedia_url: "https://en.wikipedia.org/wiki/Nkonya_language"
 translations:
+  - translation_iso: jpn
+    name: ンコニャ語
+    auto: true
   - translation_iso: zho
     name: 恩科尼亚语
     auto: true

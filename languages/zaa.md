@@ -14,6 +14,9 @@ glottolog_family_id: otom1299
 glottolog_family_name: Otomanguean
 glottolog_classification: "Otomanguean > Eastern Otomanguean > Popoloca-Zapotecan > Zapotecan > Zapotec > Core Zapotec > Narrow Core Zapotec > Northern Core Zapotec > Sierra Juarezic > Sierra de Juárez Zapotec"
 translations:
+  - translation_iso: jpn
+    name: シエラ・デ・フアレス・サポテク語
+    auto: true
   - translation_iso: zho
     name: 胡亚雷斯山脉-萨波特克语
     auto: true

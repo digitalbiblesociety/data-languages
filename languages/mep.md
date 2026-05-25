@@ -15,6 +15,9 @@ glottolog_family_name: Jarrakan
 glottolog_classification: "Jarrakan > Miriwunic > Miriwung"
 wikipedia_url: "https://en.wikipedia.org/wiki/Miriwoong_language"
 translations:
+  - translation_iso: jpn
+    name: ミリウォング語
+    auto: true
   - translation_iso: kor
     name: 미리웅어
   - translation_iso: zho

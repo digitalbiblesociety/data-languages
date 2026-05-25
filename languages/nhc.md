@@ -15,6 +15,9 @@ glottolog_family_name: Uto-Aztecan
 glottolog_classification: "Uto-Aztecan > Southern Uto-Aztecan > Corachol-Aztecan > Aztec > Eastern Nahuatl > Isthmus-Pipil Nahuatl > Isthmus Nahuatl > Tabasco Nahuatl"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tabasco_Nahuatl"
 translations:
+  - translation_iso: jpn
+    name: タバスコ・ナワトル語
+    auto: true
   - translation_iso: zho
     name: 塔巴斯科纳瓦特尔语
     auto: true

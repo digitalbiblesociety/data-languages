@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Gur > Kulango-Lorom > Teenic > Téén"
 wikipedia_url: "https://en.wikipedia.org/wiki/Lorhon_language"
 translations:
+  - translation_iso: jpn
+    name: テーン語
+    auto: true
   - translation_iso: zho
     name: 特恩语
     auto: true

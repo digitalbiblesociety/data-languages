@@ -15,6 +15,9 @@ glottolog_family_name: Nuclear Torricelli
 glottolog_classification: "Nuclear Torricelli > Marienberg > Elepi-Kamasau-Marienberg > Elepi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Elepi_language"
 translations:
+  - translation_iso: jpn
+    name: エレピ語
+    auto: true
   - translation_iso: zho
     name: 埃莱皮语
     auto: true

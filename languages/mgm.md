@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Central Timor > Mambae"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mambae_language"
 translations:
+  - translation_iso: jpn
+    name: マンバエ語
+    auto: true
   - translation_iso: zho
     name: 玛姆巴埃语
     auto: true

@@ -14,6 +14,9 @@ glottolog_family_id: nucl1709
 glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Chimbu-Wahgi > Wahgic > North Wahgi"
 translations:
+  - translation_iso: jpn
+    name: 北ワギ語
+    auto: true
   - translation_iso: zho
     name: 北瓦希语
     auto: true

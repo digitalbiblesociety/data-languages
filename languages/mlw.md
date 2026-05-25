@@ -15,6 +15,9 @@ glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > Biu-Mandara > North Biu-Mandara > Margi-Mandara-Mofu > Mofuic > Tokombere > Moloko"
 wikipedia_url: "https://en.wikipedia.org/wiki/Moloko_language"
 translations:
+  - translation_iso: jpn
+    name: モロコ語
+    auto: true
   - translation_iso: zho
     name: 莫洛科语
     auto: true

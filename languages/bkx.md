@@ -14,6 +14,9 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Timor-Babar > Rote-Meto > West Rote > Dengka-Meto > Meto > Central Meto > Baikeno"
 translations:
+  - translation_iso: jpn
+    name: バイケノ語
+    auto: true
   - translation_iso: zho
     name: 拜克诺语
     auto: true

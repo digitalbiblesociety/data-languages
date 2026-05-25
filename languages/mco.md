@@ -14,6 +14,9 @@ glottolog_family_id: mixe1284
 glottolog_family_name: Mixe-Zoque
 glottolog_classification: "Mixe-Zoque > Mixe > Oaxaca Mixe > Lowland-Midland-South Highland Mixe > Lowland-Midland Mixe > Lowland Mixe > Coatlán Mixe"
 translations:
+  - translation_iso: jpn
+    name: コアトラン・ミヘ語
+    auto: true
   - translation_iso: zho
     name: 科特兰米克斯语
     auto: true

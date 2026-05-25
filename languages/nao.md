@@ -17,6 +17,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Naapa_language"
 translations:
   - translation_iso: hin
     name: नापा भाषा
+  - translation_iso: jpn
+    name: ナアバ語
+    auto: true
   - translation_iso: zho
     name: 纳巴语
     auto: true

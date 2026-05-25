@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Celebic > Greater Eastern Celebic > Tominic > Southern Tomini > Dampelas"
 wikipedia_url: "https://en.wikipedia.org/wiki/Dampelas_language"
 translations:
+  - translation_iso: jpn
+    name: ダンペラス語
+    auto: true
   - translation_iso: zho
     name: 丹佩拉斯语
     auto: true

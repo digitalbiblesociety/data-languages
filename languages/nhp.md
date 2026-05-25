@@ -14,6 +14,9 @@ glottolog_family_id: utoa1244
 glottolog_family_name: Uto-Aztecan
 glottolog_classification: "Uto-Aztecan > Southern Uto-Aztecan > Corachol-Aztecan > Aztec > Eastern Nahuatl > Isthmus-Pipil Nahuatl > Isthmus Nahuatl > Isthmus-Pajapan Nahuatl"
 translations:
+  - translation_iso: jpn
+    name: 峡湾部・パハパン・ナワトル語
+    auto: true
   - translation_iso: zho
     name: 地峡帕贾潘纳瓦特尔语
     auto: true

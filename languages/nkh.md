@@ -17,6 +17,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Kuzhami_language"
 translations:
   - translation_iso: hin
     name: खेज़ा भाषा
+  - translation_iso: jpn
+    name: ケーザ・ナガ語
+    auto: true
   - translation_iso: zho
     name: 凯扎纳加语
     auto: true

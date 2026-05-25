@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Timor-Babar > Southwest Maluku > East Damar"
 wikipedia_url: "https://en.wikipedia.org/wiki/East_Damar_language"
 translations:
+  - translation_iso: jpn
+    name: イースト・ダマル語
+    auto: true
   - translation_iso: zho
     name: 东达马尔语
     auto: true

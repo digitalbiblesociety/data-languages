@@ -15,6 +15,9 @@ glottolog_family_name: Western Daly
 glottolog_classification: "Western Daly > Maranunggu-Ame-Manda > Maranunggu"
 wikipedia_url: "https://en.wikipedia.org/wiki/Marranj_language"
 translations:
+  - translation_iso: jpn
+    name: マランンググ語
+    auto: true
   - translation_iso: zho
     name: 马兰翁古语
     auto: true

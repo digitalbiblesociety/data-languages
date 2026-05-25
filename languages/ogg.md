@@ -14,6 +14,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Delta Cross > Central Delta > Unclassified Central Delta > Ogbogolo"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ogbogolo_language"
 translations:
+  - translation_iso: jpn
+    name: オグボゴロ語
+    auto: true
   - translation_iso: zho
     name: 奥格博戈洛语
     auto: true

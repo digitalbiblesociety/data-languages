@@ -10,6 +10,9 @@ latitude: -16.32646
 longitude: 167.61883
 wikipedia_url: "https://en.wikipedia.org/wiki/Repanbitip_language"
 translations:
+  - translation_iso: jpn
+    name: レパンビティップ語
+    auto: true
   - translation_iso: zho
     name: 雷潘比蒂普语
     auto: true

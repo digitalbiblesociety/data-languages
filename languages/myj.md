@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Cameroun-Ubangian > Ubangi > Ubangi Ka > Sereic > Feroge-Mangaya > Mangayat"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mangaya_language"
 translations:
+  - translation_iso: jpn
+    name: マンガヤット語
+    auto: true
   - translation_iso: zho
     name: 曼加亚特语
     auto: true

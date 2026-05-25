@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > Central-Western Bantu > North Zaire River > Inner Basin Bantu > Cuvette > Mongoic > Lomongo > Ngando-Lalia"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ngando_language"
 translations:
+  - translation_iso: jpn
+    name: ンガンド語
+    auto: true
   - translation_iso: zho
     name: 恩甘多语
     auto: true

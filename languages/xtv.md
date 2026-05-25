@@ -14,6 +14,9 @@ glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > Southeastern Pama-Nyungan > New South Wales Pama-Nyungan > Yuin-Kuri > Yuin > Southern Coastal Yuin"
 wikipedia_url: "https://en.wikipedia.org/wiki/Thawa_language"
 translations:
+  - translation_iso: jpn
+    name: タワ語
+    auto: true
   - translation_iso: zho
     name: 塔瓦语
     auto: true

@@ -15,6 +15,9 @@ glottolog_family_name: Tupian
 glottolog_classification: "Tupian > Eastern Tupian > Maweti-Guarani > Aweti-Guarani > Tupi-Guarani > Tupi-Guarani Subgroup V > Arawetic > Anambé"
 wikipedia_url: "https://en.wikipedia.org/wiki/Anamb%C3%A9_language"
 translations:
+  - translation_iso: jpn
+    name: カイラリのアナンベ語
+    auto: true
   - translation_iso: zho
     name: 卡伊拉里的阿纳姆贝语
     auto: true

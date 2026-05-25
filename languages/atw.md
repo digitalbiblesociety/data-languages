@@ -15,6 +15,9 @@ glottolog_family_name: Palaihnihan
 glottolog_classification: "Palaihnihan > Atsugewi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Atsugewi_language"
 translations:
+  - translation_iso: jpn
+    name: アツゲウィ語
+    auto: true
   - translation_iso: zho
     name: 阿特苏格维语
     auto: true

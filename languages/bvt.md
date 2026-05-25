@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Greater Seram Laut > Banda-Geser > Seran Laut > Geser-Gorom-Bati > Bati (Indonesia)"
 wikipedia_url: "https://en.wikipedia.org/wiki/Bati_language_(Indonesia)"
 translations:
+  - translation_iso: jpn
+    name: バティ語
+    auto: true
   - translation_iso: zho
     name: 巴蒂语（印度尼西亚）
     auto: true

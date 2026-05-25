@@ -17,6 +17,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Massa_language"
 translations:
   - translation_iso: ara
     name: اللغة الماسية
+  - translation_iso: jpn
+    name: マサナ語
+    auto: true
   - translation_iso: zho
     name: 马萨纳语
     auto: true

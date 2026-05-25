@@ -15,6 +15,9 @@ glottolog_family_name: Dogon
 glottolog_classification: "Dogon > North Plateau Dogon > Dogul Dom Dogon"
 wikipedia_url: "https://en.wikipedia.org/wiki/Dogul_Dogon"
 translations:
+  - translation_iso: jpn
+    name: ドグル・ドム・ドゴン語
+    auto: true
   - translation_iso: zho
     name: 多古尔多姆多贡语
     auto: true

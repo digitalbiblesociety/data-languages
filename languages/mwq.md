@@ -15,6 +15,9 @@ glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Kuki-Chin-Naga > Kuki-Chin > Peripheral Kuki-Chin > South Peripheral Kuki-Chin > Choic > Daai-Nghmoye-Muun-Kaang > Mün Chin"
 wikipedia_url: "https://en.wikipedia.org/wiki/K%CA%BCch%C3%B2_language"
 translations:
+  - translation_iso: jpn
+    name: ムン・チン語
+    auto: true
   - translation_iso: zho
     name: 蒙钦语
     auto: true

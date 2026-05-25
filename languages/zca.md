@@ -15,6 +15,9 @@ glottolog_family_name: Otomanguean
 glottolog_classification: "Otomanguean > Eastern Otomanguean > Popoloca-Zapotecan > Zapotecan > Zapotec > Core Zapotec > Macrocoatecano > Coatecas Altas Zapotec"
 wikipedia_url: "https://en.wikipedia.org/wiki/Coatecas_Altas_Zapotec"
 translations:
+  - translation_iso: jpn
+    name: コアテカス・アルタス・サポテク語
+    auto: true
   - translation_iso: zho
     name: 科阿特卡斯-阿尔塔斯-萨波特克语
     auto: true

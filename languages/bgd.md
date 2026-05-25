@@ -15,6 +15,9 @@ glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Indo-Aryan > Middle-Modern Indo-Aryan > Continental Indo-Aryan > Midlands Indo-Aryan > Bhil > Pauri-Nahali > Rathwi Bareli"
 wikipedia_url: "https://en.wikipedia.org/wiki/Rathwi_Bareli_language"
 translations:
+  - translation_iso: jpn
+    name: ラスウィ・バレリ語
+    auto: true
   - translation_iso: zho
     name: 拉思维巴雷利语
     auto: true

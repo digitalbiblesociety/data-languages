@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > Papuan Tip linkage > Nuclear Papuan Tip linkage > North Papuan Mainland-D'Entrecasteaux linkage > Bwaidoga linkage > Iamalelic > Iamalele"
 wikipedia_url: "https://en.wikipedia.org/wiki/Yamalele_language"
 translations:
+  - translation_iso: jpn
+    name: イアマレレ語
+    auto: true
   - translation_iso: zho
     name: 伊亚马莱莱语
     auto: true

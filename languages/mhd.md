@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > East Bantu > Northeast Savanna Bantu > Northeast Coastal Bantu > Pare-Taveta > Pareic > Mbugu"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mbugu_language"
 translations:
+  - translation_iso: jpn
+    name: ムブグ語
+    auto: true
   - translation_iso: zho
     name: 姆布古语
     auto: true

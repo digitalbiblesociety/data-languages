@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Cangin > Saafi-Noon-Lehar > Noon-Lehar > Lehar"
 wikipedia_url: "https://en.wikipedia.org/wiki/Laalaa_language"
 translations:
+  - translation_iso: jpn
+    name: レハル語
+    auto: true
   - translation_iso: zho
     name: 勒哈尔语
     auto: true

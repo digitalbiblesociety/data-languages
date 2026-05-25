@@ -15,6 +15,9 @@ glottolog_family_name: Austroasiatic
 glottolog_classification: "Austroasiatic > Aslian > Central-Northern Aslian > Senoic > Lanoh-Semnam-Temiar > Temiar"
 wikipedia_url: "https://en.wikipedia.org/wiki/Temiar_language"
 translations:
+  - translation_iso: jpn
+    name: テミアル語
+    auto: true
   - translation_iso: zho
     name: 特米亚尔语
 rolv_dialects:

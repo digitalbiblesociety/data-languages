@@ -14,6 +14,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Tanimbar-Bomberai > Nuclear Tanimbar-Bomberai > Yamdena-Onin > Oninic > Sekar"
 wikipedia_url: "https://en.wikipedia.org/wiki/Sekar_language"
 translations:
+  - translation_iso: jpn
+    name: セカ語
+    auto: true
   - translation_iso: zho
     name: 塞卡尔语
     auto: true

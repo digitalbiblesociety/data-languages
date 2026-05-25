@@ -15,6 +15,9 @@ glottolog_family_name: Pano-Tacanan
 glottolog_classification: "Pano-Tacanan > Panoan > Mainline Pano > Pano Nawa > Headwaters Pano > Yaminawa Complex > Yora"
 wikipedia_url: "https://en.wikipedia.org/wiki/Yora_language"
 translations:
+  - translation_iso: jpn
+    name: ヨラ語
+    auto: true
   - translation_iso: zho
     name: 约拉语
     auto: true

@@ -15,6 +15,9 @@ glottolog_family_name: Mataguayan
 glottolog_classification: "Mataguayan > Mataguayo II > Wichi > Weenhayek"
 wikipedia_url: "https://en.wikipedia.org/wiki/Wich%C3%AD_Lhamt%C3%A9s_Nocten"
 translations:
+  - translation_iso: jpn
+    name: ウィチ・ルハムテス・ノクテン語
+    auto: true
   - translation_iso: zho
     name: Nocten维跽语
 ---

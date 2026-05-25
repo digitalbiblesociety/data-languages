@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Delta Cross > Ogonoid > East Ogonoid > Tai-Kana > Khana"
 wikipedia_url: "https://en.wikipedia.org/wiki/Khana_language"
 translations:
+  - translation_iso: jpn
+    name: カナ語
+    auto: true
   - translation_iso: zho
     name: 哈纳语
     auto: true

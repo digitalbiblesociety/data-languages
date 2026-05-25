@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Southern Melanesian > New Caledonian > Mainland New Caledonian > Southern New Caledonian > Mid-Southern New Caledonian > Xaragure"
 wikipedia_url: "https://en.wikipedia.org/wiki/X%C3%A2r%C3%A2gur%C3%A8_language"
 translations:
+  - translation_iso: jpn
+    name: シャラグレ語
+    auto: true
   - translation_iso: kor
     name: 항랑구레어
   - translation_iso: zho

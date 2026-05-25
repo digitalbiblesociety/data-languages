@@ -14,6 +14,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Nunusaku > Piru Bay > East Piru Bay > Solehua > Seram Straits > Uliase > Hatuhaha > Saparuan > Saparua-Latu > Saparua"
 wikipedia_url: "https://en.wikipedia.org/wiki/Saparua_language"
 translations:
+  - translation_iso: jpn
+    name: イハ語
+    auto: true
   - translation_iso: zho
     name: 萨帕鲁阿语
     auto: true

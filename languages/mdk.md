@@ -15,6 +15,9 @@ glottolog_family_name: Central Sudanic
 glottolog_classification: "Central Sudanic > Membi-Mangbutu-Efe > Mangbutu-Efe > Baleseic > Mangbutu"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mangbutu_language"
 translations:
+  - translation_iso: jpn
+    name: マングトゥ語
+    auto: true
   - translation_iso: zho
     name: 曼古布图语
     auto: true

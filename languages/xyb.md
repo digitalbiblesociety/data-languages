@@ -13,6 +13,9 @@ glottolog_family_id: pama1250
 glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > Greater Maric > Guwa-Maric > Maric > Southern Maric > Bidyaric > Yandjibara"
 translations:
+  - translation_iso: jpn
+    name: ヤンジバラ語
+    auto: true
   - translation_iso: zho
     name: 扬季巴拉语
     auto: true

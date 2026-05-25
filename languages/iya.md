@@ -14,6 +14,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Akpes-Edoid > Edoid > Northwestern Edoid > Osse > Iyayu"
 wikipedia_url: "https://en.wikipedia.org/wiki/Iyayu_language"
 translations:
+  - translation_iso: jpn
+    name: イヤユ語
+    auto: true
   - translation_iso: zho
     name: 伊亚尤语
     auto: true

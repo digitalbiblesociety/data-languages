@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > North New Guinea linkage > Sarmi-Jayapura Bay > Jayapura Bay > Eastern Jayapura Bay > Kayupulau"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kayupulau_language"
 translations:
+  - translation_iso: jpn
+    name: カユプラウ語
+    auto: true
   - translation_iso: zho
     name: 卡尤普劳语
     auto: true

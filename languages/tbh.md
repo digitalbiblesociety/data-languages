@@ -15,6 +15,9 @@ glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > Southeastern Pama-Nyungan > New South Wales Pama-Nyungan > Yuin-Kuri > Yuin > Northern Costal Yuin > Thurawal"
 wikipedia_url: "https://en.wikipedia.org/wiki/Dharawal_language"
 translations:
+  - translation_iso: jpn
+    name: ダラワル語
+    auto: true
   - translation_iso: zho
     name: 达拉瓦尔语
     auto: true

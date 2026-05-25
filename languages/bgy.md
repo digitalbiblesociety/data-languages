@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Greater Seram Laut > East Seram > Setic > Benggoi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Benggoi_language"
 translations:
+  - translation_iso: jpn
+    name: ベンゴイ語
+    auto: true
   - translation_iso: zho
     name: 本戈语
     auto: true

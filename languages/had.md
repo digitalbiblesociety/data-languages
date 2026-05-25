@@ -15,6 +15,9 @@ glottolog_family_name: Hatam-Mansim
 glottolog_classification: "Hatam-Mansim > Hatam"
 wikipedia_url: "https://en.wikipedia.org/wiki/Hatam_language"
 translations:
+  - translation_iso: jpn
+    name: ハタム語
+    auto: true
   - translation_iso: zho
     name: 哈塔姆语
     auto: true

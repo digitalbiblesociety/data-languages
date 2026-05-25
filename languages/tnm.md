@@ -15,6 +15,9 @@ glottolog_family_name: Sentanic
 glottolog_classification: "Sentanic > Nuclear Sentanic > Tabla"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tabla_language"
 translations:
+  - translation_iso: jpn
+    name: タブラ語
+    auto: true
   - translation_iso: zho
     name: 塔布拉语
     auto: true

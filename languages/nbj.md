@@ -14,6 +14,9 @@ glottolog_family_id: pama1250
 glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > Desert Nyungic > Ngumpin-Yapa > Ngumpin > Eastern Ngumpin > Ngumpit > Ngarinman"
 translations:
+  - translation_iso: jpn
+    name: ングアリニマン語
+    auto: true
   - translation_iso: zho
     name: 恩加里尼曼语
     auto: true

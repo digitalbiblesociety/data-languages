@@ -15,6 +15,9 @@ glottolog_family_name: Lakes Plain
 glottolog_classification: "Lakes Plain > Tariku > West Tariku > Fayu-Kirikiri > Kirikiri"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kirikiri_language"
 translations:
+  - translation_iso: jpn
+    name: キリキリ語
+    auto: true
   - translation_iso: zho
     name: 基里基里语
     auto: true

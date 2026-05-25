@@ -14,6 +14,9 @@ glottolog_family_id: unat1236
 glottolog_family_name: Unattested
 glottolog_classification: "Unattested > Nambiquaran (Unattested) > Yalakalore"
 translations:
+  - translation_iso: jpn
+    name: ヤラカロレ語
+    auto: true
   - translation_iso: zho
     name: 亚拉卡洛雷语
     auto: true

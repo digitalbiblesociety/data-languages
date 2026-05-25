@@ -15,6 +15,9 @@ glottolog_family_name: Tucanoan
 glottolog_classification: "Tucanoan > Eastern Tucanoan > South Eastern Tucanoan > Yahuna"
 wikipedia_url: "https://en.wikipedia.org/wiki/Yahuna_language"
 translations:
+  - translation_iso: jpn
+    name: ヤフナ語
+    auto: true
   - translation_iso: zho
     name: 亚胡纳语
     auto: true

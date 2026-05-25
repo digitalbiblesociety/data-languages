@@ -15,6 +15,9 @@ glottolog_family_name: Unattested
 glottolog_classification: "Unattested > Arawan (Unattested) > Himarimã"
 wikipedia_url: "https://en.wikipedia.org/wiki/Himarim%C3%A3_language"
 translations:
+  - translation_iso: jpn
+    name: ヒマリマ語
+    auto: true
   - translation_iso: zho
     name: 希马里玛语
     auto: true

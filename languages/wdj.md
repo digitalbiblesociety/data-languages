@@ -12,6 +12,9 @@ longitude: 130.73661
 glottocode: wadj1254
 wikipedia_url: "https://en.wikipedia.org/wiki/Wadjiginy_language"
 translations:
+  - translation_iso: jpn
+    name: ワジギニ語
+    auto: true
   - translation_iso: zho
     name: 瓦吉吉尼语
     auto: true

@@ -14,6 +14,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Moken-Moklen > Moklen"
 wikipedia_url: "https://en.wikipedia.org/wiki/Moklen_language"
 translations:
+  - translation_iso: jpn
+    name: モクレン語
+    auto: true
   - translation_iso: kor
     name: 모클렌어
   - translation_iso: zho

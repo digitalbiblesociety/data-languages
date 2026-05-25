@@ -15,6 +15,9 @@ glottolog_family_name: Guahiboan
 glottolog_classification: "Guahiboan > Nuclear Guahiboan > Hitnu"
 wikipedia_url: "https://en.wikipedia.org/wiki/Macagu%C3%A1n_language"
 translations:
+  - translation_iso: jpn
+    name: マカグアン語
+    auto: true
   - translation_iso: zho
     name: 马卡瓜恩语
     auto: true

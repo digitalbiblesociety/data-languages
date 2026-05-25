@@ -17,6 +17,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Inpui_language"
 translations:
   - translation_iso: hin
     name: कबुई भाषा
+  - translation_iso: jpn
+    name: インプイ・ナガ語
+    auto: true
   - translation_iso: zho
     name: 因普依纳加语
     auto: true

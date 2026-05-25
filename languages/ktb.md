@@ -15,6 +15,9 @@ glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Cushitic > East Cushitic > Highland East Cushitic > Sidaama-Hadiyya-Kambaata > Hadiyya-Kambaata > Kambaataic > Kambaata"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kambaata_language"
 translations:
+  - translation_iso: jpn
+    name: カンバータ語
+    auto: true
   - translation_iso: zho
     name: 坎巴塔语
     auto: true

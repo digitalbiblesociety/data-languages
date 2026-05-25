@@ -14,6 +14,9 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Cameroun-Ubangian > Ubangi > Ubangi Ka > Bandaic > Nuclear Bandaic > Southwest Bandaic > Ngbugu-Langbasi > South Central Banda"
 translations:
+  - translation_iso: jpn
+    name: サウス・セントラル・バンダ語
+    auto: true
   - translation_iso: zho
     name: 南中班达语
     auto: true

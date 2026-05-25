@@ -15,6 +15,9 @@ glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Kuki-Chin-Naga > Kuki-Chin > Peripheral Kuki-Chin > South Peripheral Kuki-Chin > Choic > Daai-Nghmoye-Muun-Kaang > Daai Chin"
 wikipedia_url: "https://en.wikipedia.org/wiki/Daai_language"
 translations:
+  - translation_iso: jpn
+    name: ダアイ・チン語
+    auto: true
   - translation_iso: zho
     name: 代钦语
     auto: true

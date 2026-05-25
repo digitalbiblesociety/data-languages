@@ -15,6 +15,9 @@ glottolog_family_name: Nuclear-Macro-Je
 glottolog_classification: "Nuclear-Macro-Je > Maxakali-Borum > Maxakalian > Nuclear Maxakalian > Unclassified Nuclear Maxakalian > Koropó"
 wikipedia_url: "https://en.wikipedia.org/wiki/Korop%C3%B3_language"
 translations:
+  - translation_iso: jpn
+    name: コロポ語
+    auto: true
   - translation_iso: zho
     name: 科罗波语
     auto: true

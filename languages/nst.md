@@ -17,6 +17,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Tangsa_language"
 translations:
   - translation_iso: hin
     name: तंग्सा भाषा
+  - translation_iso: jpn
+    name: タセ・ナガ語
+    auto: true
   - translation_iso: zho
     name: 唐薩語
 rolv_dialects:

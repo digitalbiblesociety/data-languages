@@ -14,6 +14,9 @@ glottolog_family_id: cent2225
 glottolog_family_name: Central Sudanic
 glottolog_classification: "Central Sudanic > Sara-Bongo-Bagirmi > SBB Occidental > Nuclear SBB Occidental > Saraic > Sara Peripherique > Barh Keita > Sara-Kaba > Sara Kaba"
 translations:
+  - translation_iso: jpn
+    name: サラカバ語
+    auto: true
   - translation_iso: zho
     name: 萨拉卡巴语
     auto: true

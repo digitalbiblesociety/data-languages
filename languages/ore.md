@@ -15,6 +15,9 @@ glottolog_family_name: Tucanoan
 glottolog_classification: "Tucanoan > Western Tucanoan > Napo Tucanoan > Maijiki"
 wikipedia_url: "https://en.wikipedia.org/wiki/Maijiki_language"
 translations:
+  - translation_iso: jpn
+    name: オレホン語
+    auto: true
   - translation_iso: zho
     name: 奥雷洪语
     auto: true

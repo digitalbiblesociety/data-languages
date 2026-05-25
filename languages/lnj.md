@@ -15,6 +15,9 @@ glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > Paman > Northern Pama > Linngithigh-Alngith > Linngithigh"
 wikipedia_url: "https://en.wikipedia.org/wiki/Linngithigh_dialect"
 translations:
+  - translation_iso: jpn
+    name: レニンギティジ語
+    auto: true
   - translation_iso: zho
     name: 勒尼吉蒂语
     auto: true

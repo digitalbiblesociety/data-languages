@@ -15,6 +15,9 @@ glottolog_family_name: Dravidian
 glottolog_classification: "Dravidian > South Dravidian > South Dravidian I > Tamil-Kannada > Badaga-Kannada > Kannadoid > Sholaga"
 wikipedia_url: "https://en.wikipedia.org/wiki/Sholaga_language"
 translations:
+  - translation_iso: jpn
+    name: ソリガ語
+    auto: true
   - translation_iso: zho
     name: 绍拉贾语
 rolv_dialects:

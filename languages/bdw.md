@@ -14,6 +14,9 @@ glottolog_family_name: West Bomberai
 glottolog_classification: "West Bomberai > Nuclear West Bomberai > Baham"
 wikipedia_url: "https://en.wikipedia.org/wiki/Baham_language"
 translations:
+  - translation_iso: jpn
+    name: バハム語
+    auto: true
   - translation_iso: zho
     name: 巴哈姆语
     auto: true

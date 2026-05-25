@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Southern Melanesian > Southern Vanuatu > Tanna > Southern Tanna > Kwamera"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kwamera_language"
 translations:
+  - translation_iso: jpn
+    name: クワメラ語
+    auto: true
   - translation_iso: zho
     name: 夸梅拉语
     auto: true

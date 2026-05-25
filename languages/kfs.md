@@ -15,6 +15,9 @@ glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Indo-Aryan > Middle-Modern Indo-Aryan > Eastern Dardic > Himachali > Kangric-Chamealic-Bhattiyali > Chamealic > Bilaspuri"
 wikipedia_url: "https://en.wikipedia.org/wiki/Bilaspuri"
 translations:
+  - translation_iso: jpn
+    name: ビラースプリ語
+    auto: true
   - translation_iso: zho
     name: 比拉斯普尔语
 ---

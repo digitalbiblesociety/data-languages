@@ -15,6 +15,9 @@ glottolog_family_name: Cariban
 glottolog_classification: "Cariban > Venezuelan Cariban > Mapoyo-Tamanaku > Tamanaku"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tamanaku_language"
 translations:
+  - translation_iso: jpn
+    name: タマナク語
+    auto: true
   - translation_iso: zho
     name: 塔马纳库语
     auto: true

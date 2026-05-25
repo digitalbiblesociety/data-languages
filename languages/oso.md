@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Akpes-Edoid > Edoid > Northwestern Edoid > Igwic > Ososo"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ososo_language"
 translations:
+  - translation_iso: jpn
+    name: オソソ語
+    auto: true
   - translation_iso: zho
     name: 奥索索语
     auto: true

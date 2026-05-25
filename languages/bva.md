@@ -15,6 +15,9 @@ glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > East Chadic > East Chadic B > Barainic > Barain"
 wikipedia_url: "https://en.wikipedia.org/wiki/Barein_language"
 translations:
+  - translation_iso: jpn
+    name: バレイン語
+    auto: true
   - translation_iso: zho
     name: 巴雷因语
     auto: true

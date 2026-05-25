@@ -15,6 +15,9 @@ glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Burmo-Qiangic > Lolo-Burmese > Loloish > Hani-Jino > Bisoid-Hanic > Hanic > Bi-Ka > Mpi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mpi_language"
 translations:
+  - translation_iso: jpn
+    name: ムピ語
+    auto: true
   - translation_iso: zho
     name: 姆毕语
 rolv_dialects:

@@ -15,6 +15,9 @@ glottolog_family_name: Dogon
 glottolog_classification: "Dogon > Escarpment Dogon > Tommo So Dogon"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tommo_So"
 translations:
+  - translation_iso: jpn
+    name: トンモ・ソ・ドゴン語
+    auto: true
   - translation_iso: zho
     name: 托莫索多贡语
     auto: true

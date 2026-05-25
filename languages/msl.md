@@ -12,6 +12,9 @@ longitude: 140.55683
 glottocode: molo1262
 wikipedia_url: "https://en.wikipedia.org/wiki/Molof_language"
 translations:
+  - translation_iso: jpn
+    name: モロフ語
+    auto: true
   - translation_iso: zho
     name: 莫洛夫语
     auto: true

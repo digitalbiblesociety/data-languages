@@ -15,6 +15,9 @@ glottolog_family_name: Uralic
 glottolog_classification: "Uralic > Samoyedic > Enets-Nenets > Enets > Forest Enets"
 wikipedia_url: "https://en.wikipedia.org/wiki/Forest_Enets_language"
 translations:
+  - translation_iso: jpn
+    name: 森林エネツ語
+    auto: true
   - translation_iso: zho
     name: 森林埃涅茨语
     auto: true

@@ -15,6 +15,9 @@ glottolog_family_name: Heibanic
 glottolog_classification: "Heibanic > Eastern Heibanic > Ko"
 wikipedia_url: "https://en.wikipedia.org/wiki/Fungor_language"
 translations:
+  - translation_iso: jpn
+    name: コ語
+    auto: true
   - translation_iso: zho
     name: 科语
     auto: true

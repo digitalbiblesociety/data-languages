@@ -15,6 +15,9 @@ glottolog_family_name: Otomanguean
 glottolog_classification: "Otomanguean > Western Otomanguean > Otopame-Chinantecan > Otopamean > Otomian > Southwestern Otomi > Estado de México Otomi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Central_Otomi"
 translations:
+  - translation_iso: jpn
+    name: メキシコ州オトミ語
+    auto: true
   - translation_iso: zho
     name: 墨西哥州奥托米语
     auto: true

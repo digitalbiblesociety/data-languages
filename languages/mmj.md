@@ -15,6 +15,9 @@ glottolog_family_name: Austroasiatic
 glottolog_classification: "Austroasiatic > Mundaic > North Munda > Kherwarian > Mundaric > Majhwar"
 wikipedia_url: "https://en.wikipedia.org/wiki/Majhwar_language"
 translations:
+  - translation_iso: jpn
+    name: マジュワル語
+    auto: true
   - translation_iso: zho
     name: 马吉瓦尔语
 ---

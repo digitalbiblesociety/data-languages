@@ -15,6 +15,9 @@ glottolog_family_name: Nuclear Torricelli
 glottolog_classification: "Nuclear Torricelli > West Wapei > Seta"
 wikipedia_url: "https://en.wikipedia.org/wiki/Seta_language"
 translations:
+  - translation_iso: jpn
+    name: セタ語
+    auto: true
   - translation_iso: zho
     name: 塞塔语
     auto: true

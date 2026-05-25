@@ -14,6 +14,9 @@ glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Madang > Croisilles > Mabuso > Hanseman > Unclassified Hanseman > Matepi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Matepi_language"
 translations:
+  - translation_iso: jpn
+    name: マテピ語
+    auto: true
   - translation_iso: zho
     name: 玛特皮语
     auto: true

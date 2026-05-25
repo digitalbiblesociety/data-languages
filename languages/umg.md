@@ -15,6 +15,9 @@ glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > Paman > Lamalamic > Coastal Lamalamic > Umbuygamu"
 wikipedia_url: "https://en.wikipedia.org/wiki/Morrobolam_language"
 translations:
+  - translation_iso: jpn
+    name: モロバラマ語
+    auto: true
   - translation_iso: zho
     name: 莫罗巴拉马语
     auto: true

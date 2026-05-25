@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > North Borneo Malayo-Polynesian > North Sarawakan > Kenyahic > Lowland Kenyah > Eastern Lowland Kenyah"
 wikipedia_url: "https://en.wikipedia.org/wiki/Wahau_Kenyah_language"
 translations:
+  - translation_iso: jpn
+    name: ワハウ・ケニャー語
+    auto: true
   - translation_iso: zho
     name: 瓦豪肯雅语
     auto: true

@@ -17,6 +17,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Luwati_language"
 translations:
   - translation_iso: ara
     name: لغة لواتية
+  - translation_iso: jpn
+    name: ルワティ語
+    auto: true
   - translation_iso: zho
     name: 卢瓦蒂语
     auto: true

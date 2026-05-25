@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Central Luzon > Sambalic > Mag-Ayta > Mag-Indi Ayta"
 wikipedia_url: "https://en.wikipedia.org/wiki/Indi_language"
 translations:
+  - translation_iso: jpn
+    name: マグ・インディ・アイタ語
+    auto: true
   - translation_iso: zho
     name: 麦-因蒂艾亚语
     auto: true

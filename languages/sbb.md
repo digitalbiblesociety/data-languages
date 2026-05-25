@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > Meso Melanesian linkage > New Ireland-Northwest Solomonic linkage > St George linkage > Northwest Solomonic > New Georgia > West New Georgia > Simboic > Simbo"
 wikipedia_url: "https://en.wikipedia.org/wiki/Simbo_language"
 translations:
+  - translation_iso: jpn
+    name: マデグス語
+    auto: true
   - translation_iso: zho
     name: 西姆博语
     auto: true

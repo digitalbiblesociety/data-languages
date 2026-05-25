@@ -15,6 +15,9 @@ glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > Macleay-New England > Dyangadi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Dhanggati_language"
 translations:
+  - translation_iso: jpn
+    name: ディャンガディ語
+    auto: true
   - translation_iso: zho
     name: 甸加迪语
     auto: true

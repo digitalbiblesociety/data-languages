@@ -15,6 +15,9 @@ glottolog_family_name: Unclassifiable
 glottolog_classification: "Unclassifiable > Katabaga"
 wikipedia_url: "https://en.wikipedia.org/wiki/Katabangan_language"
 translations:
+  - translation_iso: jpn
+    name: カタバガ語
+    auto: true
   - translation_iso: zho
     name: 卡塔巴加语
     auto: true

@@ -14,6 +14,9 @@ glottolog_family_name: South Bougainville
 glottolog_classification: "South Bougainville > Buinic > Buin > Uisai"
 wikipedia_url: "https://en.wikipedia.org/wiki/Uisai_language"
 translations:
+  - translation_iso: jpn
+    name: ウィサイ語
+    auto: true
   - translation_iso: zho
     name: 乌伊赛语
     auto: true

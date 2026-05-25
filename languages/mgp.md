@@ -15,6 +15,9 @@ glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Himalayish > Mahakiranti > Kham-Magar-Chepang > Magar > Eastern Magar"
 translations:
+  - translation_iso: jpn
+    name: 東マガル語
+    auto: true
   - translation_iso: zho
     name: 东迈格语
     auto: true

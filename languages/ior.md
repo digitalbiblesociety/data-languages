@@ -17,6 +17,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Inor_language"
 translations:
   - translation_iso: ara
     name: إنور (لغة)
+  - translation_iso: jpn
+    name: イノル語
+    auto: true
   - translation_iso: zho
     name: 伊诺尔语
     auto: true

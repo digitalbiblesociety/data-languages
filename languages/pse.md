@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Malayo-Chamic > Malayic > Nuclear Malayic > South Sumatra Malay > South Barisan Malay"
 wikipedia_url: "https://en.wikipedia.org/wiki/South_Barisan_Malay"
 translations:
+  - translation_iso: jpn
+    name: 中央マレー語
+    auto: true
   - translation_iso: zho
     name: 中马来语
 rolv_dialects:

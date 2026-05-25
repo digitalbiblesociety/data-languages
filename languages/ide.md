@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Delta Cross > Lower Cross > Nuclear Lower Cross > Central Lower Cross > Efikic > Unclassified Efikic > Idere"
 wikipedia_url: "https://en.wikipedia.org/wiki/Idere_language"
 translations:
+  - translation_iso: jpn
+    name: イデレ語
+    auto: true
   - translation_iso: zho
     name: 伊德雷语
     auto: true

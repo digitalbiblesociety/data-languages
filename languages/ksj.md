@@ -15,6 +15,9 @@ glottolog_family_name: Kwalean
 glottolog_classification: "Kwalean > Humene-Kwale > Uare"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kwale_language"
 translations:
+  - translation_iso: jpn
+    name: ウアレ語
+    auto: true
   - translation_iso: zho
     name: 乌亚雷语
     auto: true

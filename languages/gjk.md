@@ -16,6 +16,9 @@ glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Indo-Aryan > Middle-Modern Indo-Aryan > Continental Indo-Aryan > Midlands Indo-Aryan > Apabhramsic > Gujarati-Rajasthani > Gujaratic > Western Gujaratic > Kachi Koli"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kachi_Koli_language"
 translations:
+  - translation_iso: jpn
+    name: カチ・コリ語
+    auto: true
   - translation_iso: zho
     name: 卡奇科利语
     auto: true

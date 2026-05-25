@@ -12,6 +12,9 @@ longitude: -75.5603
 glottocode: taus1253
 wikipedia_url: "https://en.wikipedia.org/wiki/Taushiro_language"
 translations:
+  - translation_iso: jpn
+    name: ピンチェ語
+    auto: true
   - translation_iso: zho
     name: 陶希洛語
 ---

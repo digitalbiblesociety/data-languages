@@ -14,6 +14,9 @@ glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Burmo-Qiangic > Na-Qiangic > Qiangic > Pumi > Southern Pumi"
 translations:
+  - translation_iso: jpn
+    name: 南プミ語
+    auto: true
   - translation_iso: zho
     name: 南部普米语
     auto: true

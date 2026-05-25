@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Northern Bantoid > Dakoid > Tiba-Dong > Dong"
 wikipedia_url: "https://en.wikipedia.org/wiki/Dong_language_(Nigeria)"
 translations:
+  - translation_iso: jpn
+    name: ドン語
+    auto: true
   - translation_iso: zho
     name: 侗语
     auto: true

@@ -15,6 +15,9 @@ glottolog_family_name: Nuclear Torricelli
 glottolog_classification: "Nuclear Torricelli > Marienberg > Mandi-Muniwara > Juwal"
 wikipedia_url: "https://en.wikipedia.org/wiki/Juwal_language"
 translations:
+  - translation_iso: jpn
+    name: ジュワル語
+    auto: true
   - translation_iso: zho
     name: 朱瓦尔语
     auto: true

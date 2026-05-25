@@ -14,6 +14,9 @@ glottolog_family_name: Border
 glottolog_classification: "Border > Warisic > Nuclear Warisic > Imonda"
 wikipedia_url: "https://en.wikipedia.org/wiki/Imonda_language"
 translations:
+  - translation_iso: jpn
+    name: イモンダ語
+    auto: true
   - translation_iso: zho
     name: 伊蒙达语
     auto: true

@@ -15,6 +15,9 @@ glottolog_family_name: South Omotic
 glottolog_classification: "South Omotic > Dime"
 wikipedia_url: "https://en.wikipedia.org/wiki/Dime_language"
 translations:
+  - translation_iso: jpn
+    name: ディメ語
+    auto: true
   - translation_iso: zho
     name: 迪梅语
     auto: true

@@ -15,6 +15,9 @@ glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > Desert Nyungic > Wati > Martuwangkic > Warnman-Wangka > Martu Wangka"
 wikipedia_url: "https://en.wikipedia.org/wiki/Martu_Wangka_dialect"
 translations:
+  - translation_iso: jpn
+    name: マルトゥ・ワンカ語
+    auto: true
   - translation_iso: zho
     name: 玛图瓦恩卡语
     auto: true

@@ -15,6 +15,9 @@ glottolog_family_name: Otomanguean
 glottolog_classification: "Otomanguean > Eastern Otomanguean > Popoloca-Zapotecan > Zapotecan > Zapotec > West Zapotec > West-Central West Zapotec > El Alto Zapotec"
 wikipedia_url: "https://en.wikipedia.org/wiki/El_Alto_Zapotec"
 translations:
+  - translation_iso: jpn
+    name: エル・アルト・サポテク語
+    auto: true
   - translation_iso: zho
     name: 埃尔阿尔托萨波特克语
     auto: true

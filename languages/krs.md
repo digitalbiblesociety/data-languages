@@ -17,6 +17,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Kresh_language"
 translations:
   - translation_iso: ara
     name: كريش
+  - translation_iso: jpn
+    name: ガバヤ語
+    auto: true
   - translation_iso: zho
     name: 布亚语(苏丹)
     auto: true

@@ -16,6 +16,9 @@ glottolog_classification: "Athabaskan-Eyak-Tlingit > Athabaskan-Eyak > Athabaska
 translations:
   - translation_iso: hin
     name: शंख
+  - translation_iso: jpn
+    name: コキール語
+    auto: true
   - translation_iso: zho
     name: 科基尔语
     auto: true

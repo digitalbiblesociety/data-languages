@@ -12,6 +12,9 @@ longitude: -67.6886
 glottocode: puin1248
 wikipedia_url: "https://en.wikipedia.org/wiki/Puinave_language"
 translations:
+  - translation_iso: jpn
+    name: プイナベ語
+    auto: true
   - translation_iso: zho
     name: Puinave語
 ---

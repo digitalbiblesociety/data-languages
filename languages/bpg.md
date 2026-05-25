@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > North New Guinea linkage > Sarmi-Jayapura Bay > Sarmi > Bonggo"
 wikipedia_url: "https://en.wikipedia.org/wiki/Bonggo_language"
 translations:
+  - translation_iso: jpn
+    name: ボンッゴ語
+    auto: true
   - translation_iso: zho
     name: 邦戈语
     auto: true

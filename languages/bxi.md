@@ -15,6 +15,9 @@ glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > Karnic > Central Karnic > Western Central Karnic > Pirlatapa-Dieric > Pirlatapa"
 wikipedia_url: "https://en.wikipedia.org/wiki/Pirlatapa_language"
 translations:
+  - translation_iso: jpn
+    name: ピルラタパ語
+    auto: true
   - translation_iso: zho
     name: 皮尔拉塔帕语
     auto: true

@@ -15,6 +15,9 @@ glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Cushitic > East Cushitic > Lowland East Cushitic > Southern Lowland East Cushitic > Mainstream Lowland East Cushitic > Oromoid > Nuclear Oromo > Central-Eastern Oromo > Central-Tana Oromo > Borana-Arsi-Guji Oromo"
 wikipedia_url: "https://en.wikipedia.org/wiki/Southern_Oromo_language"
 translations:
+  - translation_iso: jpn
+    name: ボラナ・アルシ・グジ・オロモ語
+    auto: true
   - translation_iso: zho
     name: 波拉納語
 rolv_dialects:

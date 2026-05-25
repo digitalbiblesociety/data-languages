@@ -15,6 +15,9 @@ glottolog_family_name: Marrku-Wurrugu
 glottolog_classification: "Marrku-Wurrugu > Wurrugu"
 wikipedia_url: "https://en.wikipedia.org/wiki/Wurrugu_language"
 translations:
+  - translation_iso: jpn
+    name: ウルルグ語
+    auto: true
   - translation_iso: zho
     name: 乌鲁古语
     auto: true

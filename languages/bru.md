@@ -14,6 +14,9 @@ glottolog_family_id: aust1305
 glottolog_family_name: Austroasiatic
 glottolog_classification: "Austroasiatic > Katuic > West Katuic > Brou-So > Eastern Bru-Katang > Eastern Bru"
 translations:
+  - translation_iso: jpn
+    name: 東ブル語
+    auto: true
   - translation_iso: zho
     name: 东布鲁语
     auto: true

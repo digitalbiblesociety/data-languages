@@ -15,6 +15,9 @@ glottolog_family_name: "East Bird's Head"
 glottolog_classification: "East Bird's Head > Meax > Moskona"
 wikipedia_url: "https://en.wikipedia.org/wiki/Moskona_language"
 translations:
+  - translation_iso: jpn
+    name: モスコナ語
+    auto: true
   - translation_iso: zho
     name: 莫斯科纳语
     auto: true

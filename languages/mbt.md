@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Greater Central Philippine > Manobo > Central and Southern Manobo > East-West-Central Manobo > East and Central Manobo > Central Manobo > Matigsalug Manobo"
 wikipedia_url: "https://en.wikipedia.org/wiki/Matigsalug_language"
 translations:
+  - translation_iso: jpn
+    name: マティグサルグ・マノボ語
+    auto: true
   - translation_iso: zho
     name: 马蒂格萨卢格曼诺博语
     auto: true

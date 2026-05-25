@@ -15,6 +15,9 @@ glottolog_family_name: Tupian
 glottolog_classification: "Tupian > Eastern Tupian > Maweti-Guarani > Aweti-Guarani > Tupi-Guarani > Tupi-Guarani Subgroup IV > Tapirapé"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tapirap%C3%A9_language"
 translations:
+  - translation_iso: jpn
+    name: タピラペ語
+    auto: true
   - translation_iso: zho
     name: 塔皮拉佩语
     auto: true

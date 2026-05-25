@@ -15,6 +15,9 @@ glottolog_family_name: Quechuan
 glottolog_classification: "Quechuan > Southern Quechua > Bolivian-Argentinian Quechua > South Bolivian-Argentinian Quechua > Santiago del Estero Quichua"
 wikipedia_url: "https://en.wikipedia.org/wiki/Santiague%C3%B1o_Quechua"
 translations:
+  - translation_iso: jpn
+    name: サンティアゴデルエステロキチュア語
+    auto: true
   - translation_iso: zho
     name: 圣地亚哥德尔埃斯特罗基楚亚语
     auto: true

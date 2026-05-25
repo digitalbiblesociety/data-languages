@@ -16,6 +16,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Sivia_Sign_Language"
 translations:
   - translation_iso: hin
     name: शिविया सांकेतिक भाषा
+  - translation_iso: jpn
+    name: シビア手話
+    auto: true
   - translation_iso: zho
     name: 西维亚手语
     auto: true

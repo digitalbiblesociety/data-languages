@@ -15,6 +15,9 @@ glottolog_family_name: Otomanguean
 glottolog_classification: "Otomanguean > Eastern Otomanguean > Popoloca-Zapotecan > Zapotecan > Zapotec > Core Zapotec > Narrow Core Zapotec > Central Core Zapotec > San Pedro Quiatoni Zapotec"
 wikipedia_url: "https://en.wikipedia.org/wiki/Quiatoni_Zapotec"
 translations:
+  - translation_iso: jpn
+    name: サン・ペドロ・キアトニ・サポテク語
+    auto: true
   - translation_iso: zho
     name: 圣佩德罗基亚托尼萨波特克语
     auto: true

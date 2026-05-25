@@ -13,6 +13,9 @@ glottolog_family_id: misu1242
 glottolog_family_name: Misumalpan
 glottolog_classification: "Misumalpan > Sumalpan > Sumuic > Ulwa"
 translations:
+  - translation_iso: jpn
+    name: スム語
+    auto: true
   - translation_iso: zho
     name: 乌尔瓦语
     auto: true

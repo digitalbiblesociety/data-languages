@@ -9,6 +9,9 @@ status_id: "10"
 latitude: 9.951
 longitude: -12.887
 translations:
+  - translation_iso: jpn
+    name: バガ・カルム語
+    auto: true
   - translation_iso: zho
     name: 巴加卡卢姆语
     auto: true

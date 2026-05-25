@@ -15,6 +15,9 @@ glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > Paman > Alaya-Athima > Central Alaya-Athima > Ikaranggal"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ikarranggal_language"
 translations:
+  - translation_iso: jpn
+    name: イカランガル語
+    auto: true
   - translation_iso: zho
     name: 伊卡兰加尔语
     auto: true

@@ -14,6 +14,9 @@ glottolog_family_id: quec1387
 glottolog_family_name: Quechuan
 glottolog_classification: "Quechuan > Quechua I > Central Quechua I > Huaylay > Conchucos > Northern Conchucos Ancash Quechua"
 translations:
+  - translation_iso: jpn
+    name: 北コンチュコスアンカシュケチュア語
+    auto: true
   - translation_iso: zho
     name: 北孔丘斯安卡什克丘亚语
     auto: true

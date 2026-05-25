@@ -14,6 +14,9 @@ glottolog_family_id: saha1239
 glottolog_family_name: Sahaptian
 glottolog_classification: "Sahaptian > Sahaptin > Southern Sahaptin > Tenino"
 translations:
+  - translation_iso: jpn
+    name: ウォームスプリングス語
+    auto: true
   - translation_iso: zho
     name: 特尼诺语
     auto: true

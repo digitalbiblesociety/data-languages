@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Greater Central Philippine > Central Philippine > Minamanwa"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mamanwa_language"
 translations:
+  - translation_iso: jpn
+    name: ママンワ語
+    auto: true
   - translation_iso: zho
     name: 玛曼瓦语
     auto: true

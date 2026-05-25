@@ -15,6 +15,9 @@ glottolog_family_name: West Bomberai
 glottolog_classification: "West Bomberai > Kalamang"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kalamang_language"
 translations:
+  - translation_iso: jpn
+    name: カラス語
+    auto: true
   - translation_iso: zho
     name: 卡拉斯语
     auto: true

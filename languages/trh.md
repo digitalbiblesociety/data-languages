@@ -14,6 +14,9 @@ glottolog_family_name: Dagan
 glottolog_classification: "Dagan > Turaka"
 wikipedia_url: "https://en.wikipedia.org/wiki/Turaka_language"
 translations:
+  - translation_iso: jpn
+    name: トゥラカ語
+    auto: true
   - translation_iso: zho
     name: 图拉卡语
     auto: true

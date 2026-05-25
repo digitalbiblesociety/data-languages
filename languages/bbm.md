@@ -14,6 +14,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > Central-Western Bantu > North Zaire River > Rivers Bantu > Ngiri > Ngiri Riverain Mongala > Motemboic > Bujaic > Budja (C.37) > Babango"
 wikipedia_url: "https://en.wikipedia.org/wiki/Bango_language"
 translations:
+  - translation_iso: jpn
+    name: ババンゴ語
+    auto: true
   - translation_iso: zho
     name: 巴班戈语
     auto: true

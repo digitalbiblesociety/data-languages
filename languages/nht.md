@@ -15,6 +15,9 @@ glottolog_family_name: Uto-Aztecan
 glottolog_classification: "Uto-Aztecan > Southern Uto-Aztecan > Corachol-Aztecan > Aztec > Eastern Nahuatl > Ometepec Nahuatl"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ometepec_N%C3%A1huatl"
 translations:
+  - translation_iso: jpn
+    name: オメテペク・ナワトル語
+    auto: true
   - translation_iso: zho
     name: 奥梅特佩克纳瓦特尔语
     auto: true

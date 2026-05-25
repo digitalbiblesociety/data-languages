@@ -14,6 +14,9 @@ glottolog_family_id: otom1299
 glottolog_family_name: Otomanguean
 glottolog_classification: "Otomanguean > Eastern Otomanguean > Popoloca-Zapotecan > Popolocan-Mazatecan > Ixcatec-Chocho-Popolocan > Chocho-Popolocan > Popolocan > Southwestern Popolocan > Tepexi-Zapotitlan > San Felipe Otlaltepec Popoloca"
 translations:
+  - translation_iso: jpn
+    name: サンフェリペオトラルテペックポポロカ語
+    auto: true
   - translation_iso: zho
     name: 圣费利佩奥特拉特佩克波波卡语
     auto: true

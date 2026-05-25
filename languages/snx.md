@@ -15,6 +15,9 @@ glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Madang > Rai Coast > Mindjim > Lower Minjim > Inland Minjim > Sam"
 wikipedia_url: "https://en.wikipedia.org/wiki/Sam_language"
 translations:
+  - translation_iso: jpn
+    name: ソングン語
+    auto: true
   - translation_iso: zho
     name: 萨姆语
     auto: true

@@ -15,6 +15,9 @@ glottolog_family_name: Nuclear Torricelli
 glottolog_classification: "Nuclear Torricelli > Kombio-Arapesh-Urat > Arapesh > Bumbita Arapesh"
 wikipedia_url: "https://en.wikipedia.org/wiki/Bumbita_language"
 translations:
+  - translation_iso: jpn
+    name: ブンビタ・アラペシュ語
+    auto: true
   - translation_iso: zho
     name: 邦比塔阿拉佩什语
     auto: true

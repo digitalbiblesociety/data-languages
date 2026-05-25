@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > North Borneo Malayo-Polynesian > Sabahan > Southwest Sabahan > Greater Dusunic > Dusunic > Klias River Kadazan"
 wikipedia_url: "https://en.wikipedia.org/wiki/Klias_River_Kadazan_language"
 translations:
+  - translation_iso: jpn
+    name: クリアス・リバー・カダザン語
+    auto: true
   - translation_iso: zho
     name: 克利亚河卡达赞语
     auto: true

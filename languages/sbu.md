@@ -17,6 +17,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Stod_Bhoti"
 translations:
   - translation_iso: hin
     name: लाहौली भाषा
+  - translation_iso: jpn
+    name: スッドボティ語
+    auto: true
   - translation_iso: zho
     name: 藏语上蕃方言
 rolv_dialects:

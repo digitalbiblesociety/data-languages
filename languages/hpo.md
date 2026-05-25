@@ -15,6 +15,9 @@ glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Burmo-Qiangic > Lolo-Burmese > Burmish > Northern Burmish > Hpon"
 wikipedia_url: "https://en.wikipedia.org/wiki/Hpon_language"
 translations:
+  - translation_iso: jpn
+    name: フポン語
+    auto: true
   - translation_iso: zho
     name: 蓬语
 rolv_dialects:

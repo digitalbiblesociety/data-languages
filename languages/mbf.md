@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Malayo-Chamic > Malayic > Nuclear Malayic > Vehicular Malay > Baba Malay"
 wikipedia_url: "https://en.wikipedia.org/wiki/Baba_Malay"
 translations:
+  - translation_iso: jpn
+    name: ババ・マレー語
+    auto: true
   - translation_iso: zho
     name: 峇峇語
 ---

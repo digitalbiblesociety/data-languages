@@ -14,6 +14,9 @@ glottolog_family_name: Kadugli-Krongo
 glottolog_classification: "Kadugli-Krongo > Central-Western Kadugli-Krongo > Krongo-Tumtum > Tumtum"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tumtum_language"
 translations:
+  - translation_iso: jpn
+    name: トゥムトゥム語
+    auto: true
   - translation_iso: zho
     name: 图图姆语
     auto: true

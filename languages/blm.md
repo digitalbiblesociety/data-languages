@@ -15,6 +15,9 @@ glottolog_family_name: Central Sudanic
 glottolog_classification: "Central Sudanic > Sara-Bongo-Bagirmi > Baka-Beli > Morokodo-Beli > Beli (South Sudan)"
 wikipedia_url: "https://en.wikipedia.org/wiki/Beli_language_(South_Sudan)"
 translations:
+  - translation_iso: jpn
+    name: ベリ語
+    auto: true
   - translation_iso: zho
     name: 贝利语（南苏丹）
     auto: true

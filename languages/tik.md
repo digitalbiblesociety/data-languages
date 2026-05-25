@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Northern Bantoid > Tikar"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tikar_language"
 translations:
+  - translation_iso: jpn
+    name: ティカル語
+    auto: true
   - translation_iso: zho
     name: 蒂卡尔语
     auto: true

@@ -15,6 +15,9 @@ glottolog_family_name: Tai-Kadai
 glottolog_classification: "Tai-Kadai > Kam-Tai > Daic-Beic > Daic > Central-Southwestern Tai > Wenma-Southwestern Tai > Sapa-Southwestern Tai > Southwestern Tai > Southwestern Tai P > Chiang Saeng > Red Tai > Tai Muong > Tai Do-Mene-Yo"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tai_Do_language"
 translations:
+  - translation_iso: jpn
+    name: タイ・ドー語
+    auto: true
   - translation_iso: zho
     name: 泰多语
     auto: true

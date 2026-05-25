@@ -15,6 +15,9 @@ glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > Paman > Northern Pama > Arritinngithigh"
 wikipedia_url: "https://en.wikipedia.org/wiki/Arritinngithigh_language"
 translations:
+  - translation_iso: jpn
+    name: アリティングギティ語
+    auto: true
   - translation_iso: zho
     name: 阿瑞廷吉蒂格语
     auto: true

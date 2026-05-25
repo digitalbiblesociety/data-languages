@@ -15,6 +15,9 @@ glottolog_family_name: Nimboranic
 glottolog_classification: "Nimboranic > Nimboran"
 wikipedia_url: "https://en.wikipedia.org/wiki/Nimboran_language"
 translations:
+  - translation_iso: jpn
+    name: ニンボラン語
+    auto: true
   - translation_iso: zho
     name: 尼姆博兰语
     auto: true

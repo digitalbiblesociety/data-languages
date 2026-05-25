@@ -15,6 +15,9 @@ glottolog_family_name: Austroasiatic
 glottolog_classification: "Austroasiatic > Khasi-Palaung > Palaungic > West Palaungic > Riang > Riang (Myanmar)"
 wikipedia_url: "https://en.wikipedia.org/wiki/Riang_language"
 translations:
+  - translation_iso: jpn
+    name: リアンラン語
+    auto: true
   - translation_iso: zho
     name: 日昂语
 ---

@@ -14,6 +14,9 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Cameroun-Ubangian > Ubangi > Ubangi Ka > Mundu-Baka > Western Mundu-Baka > River Western Mundu-Baka > Bwaka > Gilima"
 translations:
+  - translation_iso: jpn
+    name: ギリマ語
+    auto: true
   - translation_iso: zho
     name: 吉利玛语
     auto: true

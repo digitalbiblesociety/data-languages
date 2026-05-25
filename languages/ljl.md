@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Bima-Lembata > Flores > West-Central Flores > Central Flores-Paluqe > Central Flores > Eastern Central Flores > Ende-Lio > Li'o"
 wikipedia_url: "https://en.wikipedia.org/wiki/Lio_language"
 translations:
+  - translation_iso: jpn
+    name: リオ語
+    auto: true
   - translation_iso: zho
     name: 立歐語
 ---

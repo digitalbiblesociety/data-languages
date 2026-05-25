@@ -14,6 +14,9 @@ glottolog_family_id: drav1251
 glottolog_family_name: Dravidian
 glottolog_classification: "Dravidian > South Dravidian > South Dravidian II > Gondi > Northwest Gondi > Southwest Gondi > Southern Gondi > Eastern Gondi > Far Western Muria"
 translations:
+  - translation_iso: jpn
+    name: 遠西ムリア語
+    auto: true
   - translation_iso: zho
     name: 远西穆里亚语
     auto: true

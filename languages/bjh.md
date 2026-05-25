@@ -15,6 +15,9 @@ glottolog_family_name: Sepik
 glottolog_classification: "Sepik > Sepik Hill > Central-Eastern Sepik Hill > Central Sepik Hill > Bahinemic > Bahinemo"
 wikipedia_url: "https://en.wikipedia.org/wiki/Bahinemo_language"
 translations:
+  - translation_iso: jpn
+    name: バヒネモ語
+    auto: true
   - translation_iso: zho
     name: 巴希内莫语
     auto: true

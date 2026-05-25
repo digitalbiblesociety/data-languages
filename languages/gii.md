@@ -15,6 +15,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Girirra_language"
 translations:
   - translation_iso: ara
     name: لغة جيريرا
+  - translation_iso: jpn
+    name: ギリラ語
+    auto: true
   - translation_iso: zho
     name: 吉里拉语
     auto: true

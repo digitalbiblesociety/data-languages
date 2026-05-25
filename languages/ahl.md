@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Kwa Volta-Congo > Ka-Togo > Kposo-Ahlo-Bowili > Igo"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ahlon_language"
 translations:
+  - translation_iso: jpn
+    name: イゴ語
+    auto: true
   - translation_iso: zho
     name: 伊戈语
     auto: true

@@ -15,6 +15,9 @@ glottolog_family_name: Austroasiatic
 glottolog_classification: "Austroasiatic > Katuic > Pacoh"
 wikipedia_url: "https://en.wikipedia.org/wiki/Pacoh_language"
 translations:
+  - translation_iso: jpn
+    name: パコー語
+    auto: true
   - translation_iso: zho
     name: 帕戈语
 rolv_dialects:

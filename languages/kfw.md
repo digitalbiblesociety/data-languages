@@ -15,6 +15,9 @@ glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Kuki-Chin-Naga > Kuki-Chin > Northwestern Kuki-Chin > Central Old Kuki > Kharam Naga"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kharam_language"
 translations:
+  - translation_iso: jpn
+    name: ハラム・ナガ語
+    auto: true
   - translation_iso: zho
     name: 哈拉姆那加语
     auto: true

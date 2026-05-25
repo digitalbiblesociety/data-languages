@@ -15,6 +15,9 @@ glottolog_family_name: Athabaskan-Eyak-Tlingit
 glottolog_classification: "Athabaskan-Eyak-Tlingit > Athabaskan-Eyak > Athabaskan > Pacific Coast Athabaskan > Oregon Athabaskan > Upper Umpqua"
 wikipedia_url: "https://en.wikipedia.org/wiki/Upper_Umpqua_language"
 translations:
+  - translation_iso: jpn
+    name: アッパー・ウムプクア語
+    auto: true
   - translation_iso: zho
     name: 上翁普夸语
     auto: true

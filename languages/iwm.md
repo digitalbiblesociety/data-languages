@@ -15,6 +15,9 @@ glottolog_family_name: Sepik
 glottolog_classification: "Sepik > Iwam-Wogamus > Iwamic > Iwam"
 wikipedia_url: "https://en.wikipedia.org/wiki/Iwam_language"
 translations:
+  - translation_iso: jpn
+    name: イワム語
+    auto: true
   - translation_iso: zho
     name: 伊瓦姆语
     auto: true

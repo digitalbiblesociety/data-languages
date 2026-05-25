@@ -15,6 +15,9 @@ glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Iranian-Nuristani > Iranian > Central Iranian PBS > Central Iranian PB > Northwestern Iranian > Adharic > Tatic > Southern Tatic > Alviri-Vidari"
 wikipedia_url: "https://en.wikipedia.org/wiki/Alviri-Vidari_dialect"
 translations:
+  - translation_iso: jpn
+    name: アルビリビダリ語
+    auto: true
   - translation_iso: zho
     name: 阿爾維里-維達里語
 rolv_dialects:

@@ -12,6 +12,9 @@ longitude: -61.183333
 glottocode: kwaz1243
 wikipedia_url: "https://en.wikipedia.org/wiki/Kwaza_language"
 translations:
+  - translation_iso: jpn
+    name: クワザ語
+    auto: true
   - translation_iso: zho
     name: 夸扎语
     auto: true

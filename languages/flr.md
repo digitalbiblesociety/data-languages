@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > East Bantu > Northeast Savanna Bantu > Great Lakes Bantu > Western Lakes Bantu > Kivu > Forest Kivu > Fuliiric > Fuliiru-Vira > Fuliiru"
 wikipedia_url: "https://en.wikipedia.org/wiki/Fuliiru_language"
 translations:
+  - translation_iso: jpn
+    name: フリイル語
+    auto: true
   - translation_iso: zho
     name: 富利鲁语
     auto: true

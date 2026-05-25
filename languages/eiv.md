@@ -14,6 +14,9 @@ glottolog_family_name: North Bougainville
 glottolog_classification: "North Bougainville > Rotokas-Askopan > Askopan"
 wikipedia_url: "https://en.wikipedia.org/wiki/Askopan_language"
 translations:
+  - translation_iso: jpn
+    name: アスコパン語
+    auto: true
   - translation_iso: zho
     name: 阿斯科潘语
     auto: true

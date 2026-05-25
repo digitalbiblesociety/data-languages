@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Delta Cross > Upper Cross > Central Upper Cross > East-West Central Delta Cross > Lokoic > Lubila-Lokaa > Lubila"
 wikipedia_url: "https://en.wikipedia.org/wiki/Lubila_language"
 translations:
+  - translation_iso: jpn
+    name: ルビラ語
+    auto: true
   - translation_iso: zho
     name: 卢比拉语
     auto: true

@@ -15,6 +15,9 @@ glottolog_family_name: Pano-Tacanan
 glottolog_classification: "Pano-Tacanan > Panoan > Mainline Pano > Pano Nawa > Headwaters Pano > Yaminawa Complex > Yaminahua"
 wikipedia_url: "https://en.wikipedia.org/wiki/Yaminawa_language"
 translations:
+  - translation_iso: jpn
+    name: ヤミナウア語
+    auto: true
   - translation_iso: zho
     name: 亚米那瓦语
     auto: true

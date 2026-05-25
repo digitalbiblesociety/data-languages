@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Cameroun-Ubangian > Central Adamawa > Mumuye-Yandang > Yandangic > Bali-Kpasam > Bali (Nigeria)"
 wikipedia_url: "https://en.wikipedia.org/wiki/Bali_language_(Adamawa)"
 translations:
+  - translation_iso: jpn
+    name: バリ語
+    auto: true
   - translation_iso: zho
     name: 巴利语
     auto: true

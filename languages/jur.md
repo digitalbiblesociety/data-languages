@@ -15,6 +15,9 @@ glottolog_family_name: Tupian
 glottolog_classification: "Tupian > Eastern Tupian > Jurunic > Yudja"
 wikipedia_url: "https://en.wikipedia.org/wiki/Juruna_language"
 translations:
+  - translation_iso: jpn
+    name: ジュルナ語
+    auto: true
   - translation_iso: zho
     name: 朱鲁纳语
     auto: true

@@ -15,6 +15,9 @@ glottolog_family_name: Koiarian
 glottolog_classification: "Koiarian > Baraic > Barai-Namiae > Namiae"
 wikipedia_url: "https://en.wikipedia.org/wiki/Namiae_language"
 translations:
+  - translation_iso: jpn
+    name: ナミアエ語
+    auto: true
   - translation_iso: zho
     name: 纳米亚语
     auto: true

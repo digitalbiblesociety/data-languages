@@ -15,6 +15,9 @@ glottolog_family_name: Nimboranic
 glottolog_classification: "Nimboranic > Outer Nimboranic > Mlap-Gresi-Kemtuik > Gresi-Kemtuik > Kemtuik"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kemtuik_language"
 translations:
+  - translation_iso: jpn
+    name: ケムトゥイク語
+    auto: true
   - translation_iso: zho
     name: 克姆图伊克语
     auto: true

@@ -10,6 +10,9 @@ latitude: 23.43055
 longitude: 81.33599
 wikipedia_url: "https://en.wikipedia.org/wiki/Bhunjia_language_(Halbic)"
 translations:
+  - translation_iso: jpn
+    name: ミルガン語
+    auto: true
   - translation_iso: zho
     name: 米尔甘语
     auto: true

@@ -15,6 +15,9 @@ glottolog_family_name: Pano-Tacanan
 glottolog_classification: "Pano-Tacanan > Panoan > Mainline Pano > Pano Nawa > Madre de Dios Pano > Atsahuaca"
 wikipedia_url: "https://en.wikipedia.org/wiki/Atsawaka_language"
 translations:
+  - translation_iso: jpn
+    name: アツァワカ語
+    auto: true
   - translation_iso: zho
     name: 阿特萨瓦卡语
     auto: true

@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Tivoid > Esimbi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Esimbi_language"
 translations:
+  - translation_iso: jpn
+    name: エシンビ語
+    auto: true
   - translation_iso: zho
     name: 埃辛比语
 rolv_dialects:

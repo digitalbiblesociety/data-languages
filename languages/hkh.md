@@ -12,6 +12,9 @@ glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Indo-Aryan > Middle-Modern Indo-Aryan > Eastern Dardic > Kashmiric > Khah"
 wikipedia_url: "https://en.wikipedia.org/wiki/Pogali"
 translations:
+  - translation_iso: jpn
+    name: カー語
+    auto: true
   - translation_iso: zho
     name: 卡语
     auto: true

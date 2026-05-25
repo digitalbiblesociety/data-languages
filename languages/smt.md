@@ -15,6 +15,9 @@ glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Kuki-Chin-Naga > Kuki-Chin > Peripheral Kuki-Chin > Northeastern Kuki-Chin > Sizangic > Simte"
 wikipedia_url: "https://en.wikipedia.org/wiki/Simte_language"
 translations:
+  - translation_iso: jpn
+    name: ゾミ語
+    auto: true
   - translation_iso: zho
     name: 西姆特语
     auto: true

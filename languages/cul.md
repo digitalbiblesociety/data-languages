@@ -15,6 +15,9 @@ glottolog_family_name: Arawan
 glottolog_classification: "Arawan > Madi-Madiha > Madiha > Culina"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kulina_language"
 translations:
+  - translation_iso: jpn
+    name: クリナ語
+    auto: true
   - translation_iso: zho
     name: 庫利納語
 ---

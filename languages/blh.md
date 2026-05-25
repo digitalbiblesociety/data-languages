@@ -15,6 +15,9 @@ glottolog_family_name: Kru
 glottolog_classification: "Kru > Greater Western Kru > Kuwaa"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kuwaa_language"
 translations:
+  - translation_iso: jpn
+    name: クワア語
+    auto: true
   - translation_iso: zho
     name: 库瓦语
     auto: true

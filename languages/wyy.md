@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Central Pacific linkage > Western Fijian > Western Viti Levu-Yasawas Fijian"
 wikipedia_url: "https://en.wikipedia.org/wiki/Western_Fijian_language"
 translations:
+  - translation_iso: jpn
+    name: 西フィジー語
+    auto: true
   - translation_iso: zho
     name: 西斐济语
     auto: true

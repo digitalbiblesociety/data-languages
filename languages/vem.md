@@ -15,6 +15,9 @@ glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > Biu-Mandara > North Biu-Mandara > Lamang-Hdi > Vemgo-Mabas"
 wikipedia_url: "https://en.wikipedia.org/wiki/Vemgo-Mabas_language"
 translations:
+  - translation_iso: jpn
+    name: ヴェムゴ・マバス語
+    auto: true
   - translation_iso: zho
     name: 韦姆戈-玛巴斯语
     auto: true

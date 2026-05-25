@@ -15,6 +15,9 @@ glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > Karnic > Badjiri-Eastern Karnic > Eastern Karnic > Bulloo River"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kalali_language"
 translations:
+  - translation_iso: jpn
+    name: ガルラリ語
+    auto: true
   - translation_iso: zho
     name: 加尔拉利语
     auto: true

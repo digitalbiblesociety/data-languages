@@ -14,6 +14,9 @@ glottolog_family_id: aust1305
 glottolog_family_name: Austroasiatic
 glottolog_classification: "Austroasiatic > Khasi-Palaung > Palaungic > East Palaungic > Waic > Wa-Lawa > Nuclear Waic > South Wa"
 translations:
+  - translation_iso: jpn
+    name: パラウク語
+    auto: true
   - translation_iso: zho
     name: 巴饶克方言
 rolv_dialects:

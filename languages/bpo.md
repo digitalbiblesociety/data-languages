@@ -9,6 +9,9 @@ status_id: 6a
 latitude: -1.73908
 longitude: 137.71617
 translations:
+  - translation_iso: jpn
+    name: アナシ語
+    auto: true
   - translation_iso: zho
     name: 阿纳西语
     auto: true

@@ -15,6 +15,9 @@ glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > Southeastern Pama-Nyungan > North Coast Pama-Nyungan > Waka-Kabic > Western Waka-Kabic > Wuliwuli"
 wikipedia_url: "https://en.wikipedia.org/wiki/Wulli_Wulli_dialect"
 translations:
+  - translation_iso: jpn
+    name: ウーリウーリ語
+    auto: true
   - translation_iso: zho
     name: 武利武利语
     auto: true

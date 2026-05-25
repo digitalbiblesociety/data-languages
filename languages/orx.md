@@ -14,6 +14,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Delta Cross > Lower Cross > Nuclear Lower Cross > West Lower Cross > Oroic > Ebughu-Oro > Oro"
 wikipedia_url: "https://en.wikipedia.org/wiki/Oro_language"
 translations:
+  - translation_iso: jpn
+    name: オロ語
+    auto: true
   - translation_iso: zho
     name: 奥罗语
 ---

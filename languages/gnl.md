@@ -14,6 +14,9 @@ glottolog_family_id: pama1250
 glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > Greater Maric > Guwa-Maric > Maric > Eastern Maric > Gangulu"
 translations:
+  - translation_iso: jpn
+    name: ガングル語
+    auto: true
   - translation_iso: zho
     name: 冈古卢语
     auto: true

@@ -10,6 +10,9 @@ latitude: -8.5411
 longitude: 35.6751
 wikipedia_url: "https://en.wikipedia.org/wiki/Kisankasa_language"
 translations:
+  - translation_iso: jpn
+    name: キサンカサ語
+    auto: true
   - translation_iso: zho
     name: 基桑卡萨语
     auto: true

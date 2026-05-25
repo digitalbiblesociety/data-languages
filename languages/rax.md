@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Cameroun-Ubangian > Central Adamawa > Mumuye-Yandang > Mumuyic > Rang"
 wikipedia_url: "https://en.wikipedia.org/wiki/Rang_language"
 translations:
+  - translation_iso: jpn
+    name: ラン語
+    auto: true
   - translation_iso: zho
     name: 让语
     auto: true

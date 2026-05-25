@@ -14,6 +14,9 @@ glottolog_family_id: aust1305
 glottolog_family_name: Austroasiatic
 glottolog_classification: "Austroasiatic > Katuic > Ta'oihic > Ong-Ta'oih > Ong-Ir"
 translations:
+  - translation_iso: jpn
+    name: オング語
+    auto: true
   - translation_iso: zho
     name: 翁语
     auto: true

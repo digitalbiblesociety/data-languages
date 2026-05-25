@@ -15,6 +15,9 @@ glottolog_family_name: Ijoid
 glottolog_classification: "Ijoid > Ijo > Eastern Ijo > Nikio > Nkoroo"
 wikipedia_url: "https://en.wikipedia.org/wiki/Nkoroo_language"
 translations:
+  - translation_iso: jpn
+    name: ンコロ語
+    auto: true
   - translation_iso: zho
     name: 恩科罗语
     auto: true

@@ -15,6 +15,9 @@ glottolog_family_name: Maybratic
 glottolog_classification: "Maybratic > Maybrat"
 wikipedia_url: "https://en.wikipedia.org/wiki/Maybrat_language"
 translations:
+  - translation_iso: jpn
+    name: マイ・ブラット語
+    auto: true
   - translation_iso: zho
     name: 迈布拉特语
     auto: true

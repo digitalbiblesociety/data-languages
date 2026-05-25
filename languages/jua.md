@@ -15,6 +15,9 @@ glottolog_family_name: Tupian
 glottolog_classification: "Tupian > Eastern Tupian > Maweti-Guarani > Aweti-Guarani > Tupi-Guarani > Tupi-Guarani Subgroup VI > Kawahiva > Nuclear Kawahiva > Júma"
 wikipedia_url: "https://en.wikipedia.org/wiki/Juma_dialect"
 translations:
+  - translation_iso: jpn
+    name: ジュマ語
+    auto: true
   - translation_iso: zho
     name: 朱玛语
     auto: true

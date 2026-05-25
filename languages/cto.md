@@ -15,6 +15,9 @@ glottolog_family_name: Chocoan
 glottolog_classification: "Chocoan > Embera > Atrato > Emberá-Catío"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ember%C3%A1_Cat%C3%ADo"
 translations:
+  - translation_iso: jpn
+    name: エンベラ・カティオ語
+    auto: true
   - translation_iso: zho
     name: 埃姆贝拉-卡蒂奥语
     auto: true

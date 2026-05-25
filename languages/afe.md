@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Bendic > Nuclear Bendic > Utugwang-Irungene-Afrike"
 wikipedia_url: "https://en.wikipedia.org/wiki/Putukwam_language"
 translations:
+  - translation_iso: jpn
+    name: プトゥクワム語
+    auto: true
   - translation_iso: zho
     name: 普图科姆语
     auto: true

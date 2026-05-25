@@ -7,6 +7,9 @@ country_id: PG
 country_name: Papua New Guinea
 status_id: 6a
 translations:
+  - translation_iso: jpn
+    name: ヤレバ語
+    auto: true
   - translation_iso: zho
     name: 亚莱巴语
     auto: true

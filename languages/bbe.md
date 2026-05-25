@@ -14,6 +14,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Cameroun-Ubangian > Ubangi > Ubangi Ka > Mundu-Baka > Eastern Mundu-Baka > Mayogo-Bangba > Bangba"
 wikipedia_url: "https://en.wikipedia.org/wiki/Bangba_language"
 translations:
+  - translation_iso: jpn
+    name: バングバ語
+    auto: true
   - translation_iso: zho
     name: 邦巴语
     auto: true

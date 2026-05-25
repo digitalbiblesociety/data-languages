@@ -17,6 +17,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Zeme_language"
 translations:
   - translation_iso: hin
     name: ज़ेमे भाषा
+  - translation_iso: jpn
+    name: ゼメ・ナガ語
+    auto: true
   - translation_iso: zho
     name: 泽美纳加语
     auto: true

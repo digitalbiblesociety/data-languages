@@ -17,6 +17,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Birri_language"
 translations:
   - translation_iso: ara
     name: بيري
+  - translation_iso: jpn
+    name: ビッリ語
+    auto: true
   - translation_iso: zho
     name: 比里语
     auto: true

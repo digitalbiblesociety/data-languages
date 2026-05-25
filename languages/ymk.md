@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > East Bantu > Rufiji-Ruvuma > Ruvuma > Makondic > Makwe"
 wikipedia_url: "https://en.wikipedia.org/wiki/Makwe_language"
 translations:
+  - translation_iso: jpn
+    name: マクウェ語
+    auto: true
   - translation_iso: zho
     name: 马克韦语
     auto: true

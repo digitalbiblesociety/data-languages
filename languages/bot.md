@@ -17,6 +17,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Bongo_language"
 translations:
   - translation_iso: ara
     name: لغة البونجو
+  - translation_iso: jpn
+    name: ボンゴ語
+    auto: true
   - translation_iso: zho
     name: 博恩戈语
     auto: true

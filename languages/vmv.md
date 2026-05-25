@@ -15,6 +15,9 @@ glottolog_family_name: Maiduan
 glottolog_classification: "Maiduan > Valley Maidu"
 wikipedia_url: "https://en.wikipedia.org/wiki/Chico_language"
 translations:
+  - translation_iso: jpn
+    name: バレー・マイドゥ語
+    auto: true
   - translation_iso: zho
     name: 山谷美都语
     auto: true

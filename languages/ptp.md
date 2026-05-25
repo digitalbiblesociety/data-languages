@@ -14,6 +14,9 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > North New Guinea linkage > Huon Gulf > South Huon Gulf linkage > Buang linkage > Mumeng > Zenag-Patep > Patep"
 translations:
+  - translation_iso: jpn
+    name: パテプ語
+    auto: true
   - translation_iso: zho
     name: 帕特普语
     auto: true

@@ -15,6 +15,9 @@ glottolog_family_name: Ndu
 glottolog_classification: "Ndu > Nuclear Ndu > Sawosic > Sengo"
 wikipedia_url: "https://en.wikipedia.org/wiki/Sengo_language"
 translations:
+  - translation_iso: jpn
+    name: センゴ語
+    auto: true
   - translation_iso: zho
     name: 森戈语
     auto: true

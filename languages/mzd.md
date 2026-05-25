@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > Bantu A-B10-B20-B30 > Sawabantu > Dualaic > Duala-Malimba > Malimba"
 wikipedia_url: "https://en.wikipedia.org/wiki/Limba_language_(Cameroon)"
 translations:
+  - translation_iso: jpn
+    name: マリンバ語
+    auto: true
   - translation_iso: zho
     name: 玛林巴语
     auto: true

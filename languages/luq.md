@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Defoid > Yoruboid > Edekiri > Ede > Eastern Ede > Southeastern Ede > Nuclear Yoruba > Lucumi-Yoruba > Lucumi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Lucum%C3%AD_language"
 translations:
+  - translation_iso: jpn
+    name: ルクミ語
+    auto: true
   - translation_iso: zho
     name: 卢库米语
     auto: true

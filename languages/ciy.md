@@ -15,6 +15,9 @@ glottolog_family_name: Cariban
 glottolog_classification: "Cariban > Venezuelan Cariban > Mapoyo-Tamanaku > Cumana > Chaima"
 wikipedia_url: "https://en.wikipedia.org/wiki/Chaima_language"
 translations:
+  - translation_iso: jpn
+    name: チャイマ語
+    auto: true
   - translation_iso: zho
     name: 查伊马语
     auto: true

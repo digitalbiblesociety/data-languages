@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Benue-Congo Plateau > Southeastern Benue-Congo Plateau > Horom-Fyem > Horom"
 wikipedia_url: "https://en.wikipedia.org/wiki/Horom_language"
 translations:
+  - translation_iso: jpn
+    name: ホロム語
+    auto: true
   - translation_iso: zho
     name: 霍罗姆语
     auto: true

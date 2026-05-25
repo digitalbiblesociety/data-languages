@@ -14,6 +14,9 @@ glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Iranian-Nuristani > Iranian > Central Iranian PBS > Central Iranian PB > Northwestern Iranian > Caspian > Gilaki-Rudbari > Rudbari"
 translations:
+  - translation_iso: jpn
+    name: ルドバリ語
+    auto: true
   - translation_iso: zho
     name: 鲁德巴里语
     auto: true

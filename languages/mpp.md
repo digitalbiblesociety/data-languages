@@ -15,6 +15,9 @@ glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Finisterre-Huon > Huon > Eastern Huon > Trans Vitiaz > Huon Tip > Sopac > Migabac"
 wikipedia_url: "https://en.wikipedia.org/wiki/Migabac_language"
 translations:
+  - translation_iso: jpn
+    name: ミガバック語
+    auto: true
   - translation_iso: zho
     name: 米加巴克语
     auto: true

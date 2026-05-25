@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > North and Central Vanuatu > Northern Vanuatu > Torres-Banks linkage > Lehalurup"
 wikipedia_url: "https://en.wikipedia.org/wiki/L%C3%B6y%C3%B6p_language"
 translations:
+  - translation_iso: jpn
+    name: ダイバース・ベイ語
+    auto: true
   - translation_iso: zho
     name: 勒哈卢鲁普语
     auto: true

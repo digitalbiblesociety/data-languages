@@ -14,6 +14,9 @@ glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Chimbu-Wahgi > Simbu > Chuave-Nomane > Nomane"
 wikipedia_url: "https://en.wikipedia.org/wiki/Nomane_language"
 translations:
+  - translation_iso: jpn
+    name: ノマネ語
+    auto: true
   - translation_iso: zho
     name: 诺曼语
     auto: true

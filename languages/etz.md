@@ -15,6 +15,9 @@ glottolog_family_name: Mairasic
 glottolog_classification: "Mairasic > Semimi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Semimi_language"
 translations:
+  - translation_iso: jpn
+    name: セミミ語
+    auto: true
   - translation_iso: zho
     name: 塞米米语
     auto: true

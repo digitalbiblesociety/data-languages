@@ -17,6 +17,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Changthang_language"
 translations:
   - translation_iso: hin
     name: चांगथंग भाषा
+  - translation_iso: jpn
+    name: チャンタン語
+    auto: true
   - translation_iso: zho
     name: 羌塘语
 ---

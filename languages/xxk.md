@@ -17,6 +17,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/K%C3%A9o_language"
 translations:
   - translation_iso: ara
     name: لغة كيو
+  - translation_iso: jpn
+    name: ケオ語
+    auto: true
   - translation_iso: zho
     name: 奇爾語
 ---

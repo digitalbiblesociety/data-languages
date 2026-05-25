@@ -15,6 +15,9 @@ glottolog_family_name: Gumuz
 glottolog_classification: "Gumuz > Nuclear Gumuz > Northern Gumuz"
 wikipedia_url: "https://en.wikipedia.org/wiki/Gumuz_language"
 translations:
+  - translation_iso: jpn
+    name: グムズ語
+    auto: true
   - translation_iso: zho
     name: 古穆茲語
 rolv_dialects:

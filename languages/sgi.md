@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Northern Bantoid > Mambiloid > Nizaa-Mambila-Vute > Nizaa"
 wikipedia_url: "https://en.wikipedia.org/wiki/Nizaa_language"
 translations:
+  - translation_iso: jpn
+    name: ニザー語
+    auto: true
   - translation_iso: zho
     name: 苏加语
     auto: true

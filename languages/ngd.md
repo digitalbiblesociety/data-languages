@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > Central-Western Bantu > North Zaire River > Rivers Bantu > Likouala-Sangha > Mokiba-Ngando > Ngando (Central African Republic)"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ngando_language_(Central_African_Republic)"
 translations:
+  - translation_iso: jpn
+    name: ングアンド語
+    auto: true
   - translation_iso: zho
     name: Kota语
 rolv_dialects:

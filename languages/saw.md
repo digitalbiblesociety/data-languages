@@ -15,6 +15,9 @@ glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Asmat-Awyu-Ok > Awyu-Ok > Greater Awyu > Awyu-Dumut > Unclassified Awyu-Dumut > Sawi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Sawi_language_(Papuan)"
 translations:
+  - translation_iso: jpn
+    name: サウィ語
+    auto: true
   - translation_iso: kor
     name: 사위어
   - translation_iso: zho

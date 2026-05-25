@@ -15,6 +15,9 @@ glottolog_family_name: Great Andamanese
 glottolog_classification: "Great Andamanese > North Andamanese-Akakede > Northern Great Andamanese > Bo-Cari > Akacari"
 wikipedia_url: "https://en.wikipedia.org/wiki/Akacari"
 translations:
+  - translation_iso: jpn
+    name: アカカリ語
+    auto: true
   - translation_iso: kor
     name: 아카차리 방언
   - translation_iso: zho

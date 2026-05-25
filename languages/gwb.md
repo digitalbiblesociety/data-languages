@@ -10,6 +10,9 @@ latitude: 10.30688
 longitude: 9.11434
 wikipedia_url: "https://en.wikipedia.org/wiki/Gwa_language"
 translations:
+  - translation_iso: jpn
+    name: グワ語
+    auto: true
   - translation_iso: zho
     name: 瓜语
     auto: true

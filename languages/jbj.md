@@ -15,6 +15,9 @@ glottolog_family_name: "South Bird's Head"
 glottolog_classification: "South Bird's Head > Nuclear South Bird's Head > Kaburic > East South Bird's Head > Kemberanic > Dombano"
 wikipedia_url: "https://en.wikipedia.org/wiki/Dombano_language"
 translations:
+  - translation_iso: jpn
+    name: アランダイ語
+    auto: true
   - translation_iso: zho
     name: 阿兰代语
     auto: true

@@ -12,6 +12,9 @@ longitude: 142.01084
 glottocode: papi1255
 wikipedia_url: "https://en.wikipedia.org/wiki/Papi_language"
 translations:
+  - translation_iso: jpn
+    name: パピ語
+    auto: true
   - translation_iso: zho
     name: 帕皮语
     auto: true

@@ -14,6 +14,9 @@ glottolog_family_id: miwo1274
 glottolog_family_name: Miwok-Costanoan
 glottolog_classification: "Miwok-Costanoan > Costanoan > Southern Costanoan > Mutsun"
 translations:
+  - translation_iso: jpn
+    name: サザン・オーロン語
+    auto: true
   - translation_iso: zho
     name: 南奥赫龙语
     auto: true

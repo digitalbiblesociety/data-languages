@@ -11,6 +11,9 @@ latitude: 27.04569
 longitude: 98.3197
 wikipedia_url: "https://en.wikipedia.org/wiki/Welaung_language"
 translations:
+  - translation_iso: jpn
+    name: ラウング・チン語
+    auto: true
   - translation_iso: zho
     name: 朗图-钦语
     auto: true

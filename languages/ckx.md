@@ -14,6 +14,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Tivoid > Central Tivoid > Central Tivoid B > Caka"
 wikipedia_url: "https://en.wikipedia.org/wiki/Caka_language"
 translations:
+  - translation_iso: jpn
+    name: カカ語
+    auto: true
   - translation_iso: zho
     name: 卡卡语
     auto: true

@@ -17,6 +17,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Bah-Biau_Punan_language"
 translations:
   - translation_iso: ara
     name: لغة باه بياو بونان
+  - translation_iso: jpn
+    name: プナンバハビアウ語
+    auto: true
   - translation_iso: zho
     name: 普南巴巴乌语
     auto: true

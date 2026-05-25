@@ -8,6 +8,9 @@ country_name: Australia
 status_id: "10"
 wikipedia_url: "https://en.wikipedia.org/wiki/Goreng_language"
 translations:
+  - translation_iso: jpn
+    name: ゴレン語
+    auto: true
   - translation_iso: zho
     name: 戈伦语
     auto: true

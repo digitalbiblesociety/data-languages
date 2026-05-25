@@ -17,6 +17,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Yerukala_language"
 translations:
   - translation_iso: hin
     name: कुर्रु भाषा
+  - translation_iso: jpn
+    name: イェルクラ語
+    auto: true
   - translation_iso: zho
     name: 耶鲁库拉语
     auto: true

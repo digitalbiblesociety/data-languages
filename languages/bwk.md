@@ -15,6 +15,9 @@ glottolog_family_name: Mailuan
 glottolog_classification: "Mailuan > Bauwakic > Bauwaki"
 wikipedia_url: "https://en.wikipedia.org/wiki/Bauwaki_language"
 translations:
+  - translation_iso: jpn
+    name: バウワキ語
+    auto: true
   - translation_iso: zho
     name: 鲍瓦基语
     auto: true

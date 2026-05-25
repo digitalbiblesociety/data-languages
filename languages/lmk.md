@@ -17,6 +17,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Lamkang_language"
 translations:
   - translation_iso: hin
     name: लामगांग भाषा
+  - translation_iso: jpn
+    name: ラムカン語
+    auto: true
   - translation_iso: zho
     name: 兰卡语
     auto: true

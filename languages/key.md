@@ -15,6 +15,9 @@ glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Indo-Aryan > Middle-Modern Indo-Aryan > Continental Indo-Aryan > Indo-Aryan Eastern zone > Oriya-Gauda-Kamrupa > Macro-Oriya > Kupia"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kupia_language"
 translations:
+  - translation_iso: jpn
+    name: クピア語
+    auto: true
   - translation_iso: zho
     name: 库皮亚语
     auto: true

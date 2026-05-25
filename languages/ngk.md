@@ -15,6 +15,9 @@ glottolog_family_name: Gunwinyguan
 glottolog_classification: "Gunwinyguan > Ngalkbun"
 wikipedia_url: "https://en.wikipedia.org/wiki/Dalabon_language"
 translations:
+  - translation_iso: jpn
+    name: ダラボン語
+    auto: true
   - translation_iso: zho
     name: 达拉本语
     auto: true

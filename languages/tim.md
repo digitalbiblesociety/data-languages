@@ -14,6 +14,9 @@ glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Finisterre-Huon > Huon > Western Huon > Cromwell > Kabwum > Timbe"
 wikipedia_url: "https://en.wikipedia.org/wiki/Timbe_language"
 translations:
+  - translation_iso: jpn
+    name: ティンベ語
+    auto: true
   - translation_iso: zho
     name: 蒂姆贝语
     auto: true

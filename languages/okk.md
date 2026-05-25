@@ -14,6 +14,9 @@ glottolog_family_id: nucl1708
 glottolog_family_name: Nuclear Torricelli
 glottolog_classification: "Nuclear Torricelli > West Wapei > One > Kwamtim One"
 translations:
+  - translation_iso: jpn
+    name: クワムティム・ワン語
+    auto: true
   - translation_iso: zho
     name: 夸姆蒂姆翁语
     auto: true

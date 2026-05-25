@@ -15,6 +15,9 @@ glottolog_family_name: Ndu
 glottolog_classification: "Ndu > Boikin"
 wikipedia_url: "https://en.wikipedia.org/wiki/Boiken_language"
 translations:
+  - translation_iso: jpn
+    name: ボイキン語
+    auto: true
   - translation_iso: zho
     name: 博伊金语
     auto: true

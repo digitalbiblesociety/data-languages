@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > North Borneo Malayo-Polynesian > Sabahan > Southwest Sabahan > Greater Dusunic > Bisaya-Lotud > Brunei Bisaya-Dusun"
 wikipedia_url: "https://en.wikipedia.org/wiki/Brunei_Bisaya_language"
 translations:
+  - translation_iso: jpn
+    name: ブルネイ・ビサヤ語
+    auto: true
   - translation_iso: zho
     name: 文莱比萨亚语
     auto: true

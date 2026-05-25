@@ -15,6 +15,9 @@ glottolog_family_name: Wakashan
 glottolog_classification: "Wakashan > Southern Wakashan > Makah-Nitinat > Ditidaht"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ditidaht_language"
 translations:
+  - translation_iso: jpn
+    name: ディティダフト語
+    auto: true
   - translation_iso: zho
     name: 迪蒂达特语
 ---

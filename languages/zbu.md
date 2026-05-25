@@ -13,6 +13,9 @@ glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > West Chadic > West Chadic B > West Chadic B.3 > South Bauchi West > Northwest South Bauchi > Gejic > Bu (Zaranda)"
 wikipedia_url: "https://en.wikipedia.org/wiki/Bu_language_(Bauchi_State)"
 translations:
+  - translation_iso: jpn
+    name: ブ語（バウチ州）
+    auto: true
   - translation_iso: zho
     name: 布语(包奇州)
     auto: true

@@ -15,6 +15,9 @@ glottolog_family_name: Ramu
 glottolog_classification: "Ramu > Goam > Tamolan > Chini"
 wikipedia_url: "https://en.wikipedia.org/wiki/Akrukay_language"
 translations:
+  - translation_iso: jpn
+    name: アクルカイ語
+    auto: true
   - translation_iso: zho
     name: 阿克鲁凯语
     auto: true

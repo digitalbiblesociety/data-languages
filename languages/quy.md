@@ -15,6 +15,9 @@ glottolog_family_name: Quechuan
 glottolog_classification: "Quechuan > Southern Quechua > Ayacuchan Quechua > Ayacucho Quechua"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ayacucho_Quechua"
 translations:
+  - translation_iso: jpn
+    name: アヤクーチョケチュア語
+    auto: true
   - translation_iso: zho
     name: 阿亚库乔克丘亚语
     auto: true

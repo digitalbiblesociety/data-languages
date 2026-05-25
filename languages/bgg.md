@@ -17,6 +17,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Bugun_language"
 translations:
   - translation_iso: hin
     name: बुगुन भाषा
+  - translation_iso: jpn
+    name: ブグン語
+    auto: true
   - translation_iso: zho
     name: 布贡语
 rolv_dialects:

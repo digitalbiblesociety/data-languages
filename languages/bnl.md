@@ -17,6 +17,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Boon_language"
 translations:
   - translation_iso: ara
     name: بون
+  - translation_iso: jpn
+    name: ブーン語
+    auto: true
   - translation_iso: zho
     name: 布恩语
     auto: true

@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Igboid > Nuclear Igboid > Central-Northern Igbo > Ukwuani-Aboh-Ndoni"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ukwuani-Aboh-Ndoni_language"
 translations:
+  - translation_iso: jpn
+    name: アボ語
+    auto: true
   - translation_iso: zho
     name: 乌克瓦尼-阿博-恩多尼语
     auto: true

@@ -15,6 +15,9 @@ glottolog_family_name: Koiarian
 glottolog_classification: "Koiarian > Baraic > Ese"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ese_language"
 translations:
+  - translation_iso: jpn
+    name: エセ語
+    auto: true
   - translation_iso: zho
     name: 埃塞语
     auto: true

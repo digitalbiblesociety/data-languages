@@ -15,6 +15,9 @@ glottolog_family_name: Central Sudanic
 glottolog_classification: "Central Sudanic > Sara-Bongo-Bagirmi > SBB Occidental > Nuclear SBB Occidental > Saraic > Sara Peripherique > Barh Keita > Furu"
 wikipedia_url: "https://en.wikipedia.org/wiki/Furu_language"
 translations:
+  - translation_iso: jpn
+    name: フル語
+    auto: true
   - translation_iso: zho
     name: 富鲁语
     auto: true

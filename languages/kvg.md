@@ -15,6 +15,9 @@ glottolog_family_name: Anim
 glottolog_classification: "Anim > Marind-Boazi-Yaqai > Boazi > Kuni-Boazi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Boazi_language"
 translations:
+  - translation_iso: jpn
+    name: クニ・ボアジ語
+    auto: true
   - translation_iso: zho
     name: 库尼-博阿齐语
     auto: true

@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > Central-Western Bantu > North Zaire River > Rivers Bantu > Likouala-Sangha > Bwamba-Ngondi-Pande-Mbati-Aka > Pande"
 wikipedia_url: "https://en.wikipedia.org/wiki/Pande_language"
 translations:
+  - translation_iso: jpn
+    name: パンデ語
+    auto: true
   - translation_iso: zho
     name: 潘德语
     auto: true

@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Southeast Solomonic > Longgu-Malaita-Makira > Malaita-Makira > Malaita > Central-Northern Malaita > Gula'alaa"
 wikipedia_url: "https://en.wikipedia.org/wiki/Gula%CA%BCalaa_language"
 translations:
+  - translation_iso: jpn
+    name: グラアラア語
+    auto: true
   - translation_iso: zho
     name: 古拉阿拉语
     auto: true

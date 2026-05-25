@@ -14,6 +14,9 @@ glottolog_family_id: unat1236
 glottolog_family_name: Unattested
 glottolog_classification: "Unattested > Pama-Nyungan (Unattested) > Wik-Keyangan"
 translations:
+  - translation_iso: jpn
+    name: ウィク・キヤンガン語
+    auto: true
   - translation_iso: zho
     name: 威克-凯扬根语
     auto: true

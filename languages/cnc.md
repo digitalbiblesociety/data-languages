@@ -15,6 +15,9 @@ glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Burmo-Qiangic > Lolo-Burmese > Loloish > Hani-Jino > Bisoid-Hanic > Bisoid > Côông"
 wikipedia_url: "https://en.wikipedia.org/wiki/C%C3%B4%E1%BB%91ng_language"
 translations:
+  - translation_iso: jpn
+    name: コオン語
+    auto: true
   - translation_iso: zho
     name: 贡语 (越南)
 ---

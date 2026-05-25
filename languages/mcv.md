@@ -15,6 +15,9 @@ glottolog_family_name: Anim
 glottolog_classification: "Anim > Inland Gulf of Papua > West Inland Gulf of Papua > Minanibai-Foia Foia"
 wikipedia_url: "https://en.wikipedia.org/wiki/Minanibai_language"
 translations:
+  - translation_iso: jpn
+    name: ミナニバイ語
+    auto: true
   - translation_iso: zho
     name: 米纳尼拜语
     auto: true

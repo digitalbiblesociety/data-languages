@@ -12,6 +12,9 @@ longitude: 140.68788
 glottocode: moro1289
 wikipedia_url: "https://en.wikipedia.org/wiki/Morori_language"
 translations:
+  - translation_iso: jpn
+    name: モロリ語
+    auto: true
   - translation_iso: zho
     name: 摩洛利语
 ---

@@ -15,6 +15,9 @@ glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Italic > Latino-Faliscan > Latinic > Imperial Latin > Romance > Italo-Western Romance > Western Romance > Shifted Western Romance > Southwestern Shifted Romance > West Ibero-Romance > Castilic > South Castilic > Peruvian Amazonian Spanish"
 wikipedia_url: "https://en.wikipedia.org/wiki/Amazonic_Spanish"
 translations:
+  - translation_iso: jpn
+    name: ロレート・ウカヤリスペイン語
+    auto: true
   - translation_iso: zho
     name: 洛雷托-烏卡亞利西班牙語
 ---

@@ -17,6 +17,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Rongmei_language"
 translations:
   - translation_iso: hin
     name: नरूंगमई भाषा
+  - translation_iso: jpn
+    name: ロングメイ・ナガ語
+    auto: true
   - translation_iso: zho
     name: 容梅伊纳加语
     auto: true

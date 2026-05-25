@@ -14,6 +14,9 @@ glottolog_family_id: unat1236
 glottolog_family_name: Unattested
 glottolog_classification: "Unattested > Tupian (Unattested) > Morerebi"
 translations:
+  - translation_iso: jpn
+    name: モレレビ語
+    auto: true
   - translation_iso: zho
     name: 莫雷雷比语
     auto: true

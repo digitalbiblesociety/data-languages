@@ -14,6 +14,9 @@ glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Madang > Kalamic-South Adelbert > South Adelbert > Sogeram > East Sogeram > Aisian > Magi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mag%C9%A8_language"
 translations:
+  - translation_iso: jpn
+    name: マギ語
+    auto: true
   - translation_iso: zho
     name: 玛吉语（马当省）
     auto: true

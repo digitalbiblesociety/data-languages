@@ -15,6 +15,9 @@ glottolog_family_name: Left May
 glottolog_classification: "Left May > Western Left May > Iteri-Bo > Iteri"
 wikipedia_url: "https://en.wikipedia.org/wiki/Iteri_language"
 translations:
+  - translation_iso: jpn
+    name: イテリ語
+    auto: true
   - translation_iso: zho
     name: 伊特里语
     auto: true

@@ -15,6 +15,9 @@ glottolog_family_name: Totonacan
 glottolog_classification: "Totonacan > Tepehua > Tlachichilco Tepehua"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tlachichilco_Tepehua"
 translations:
+  - translation_iso: jpn
+    name: 西テペウア語
+    auto: true
   - translation_iso: zho
     name: 特拉奇奇尔科特佩瓦语
     auto: true

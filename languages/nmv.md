@@ -15,6 +15,9 @@ glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > Karnic > Central Karnic > Western Central Karnic > Pirlatapa-Dieric > Dieric > Ngamini-Yarluyandi-Karangura"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ngamini_language"
 translations:
+  - translation_iso: jpn
+    name: ングアミニ語
+    auto: true
   - translation_iso: zho
     name: 恩加米尼语
     auto: true

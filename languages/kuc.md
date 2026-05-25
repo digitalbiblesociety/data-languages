@@ -14,6 +14,9 @@ glottolog_family_name: Tor-Orya
 glottolog_classification: "Tor-Orya > Tor > Coastal Tor > Kwinsu"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kwinsu_language"
 translations:
+  - translation_iso: jpn
+    name: クウィンスゥ語
+    auto: true
   - translation_iso: zho
     name: 夸因苏语
     auto: true

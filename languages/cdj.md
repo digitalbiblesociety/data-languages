@@ -17,6 +17,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Churahi"
 translations:
   - translation_iso: hin
     name: चुराही
+  - translation_iso: jpn
+    name: チュラヒ語
+    auto: true
   - translation_iso: zho
     name: 丘拉希语
     auto: true

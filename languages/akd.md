@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Delta Cross > Upper Cross > Ukpet-Ehom"
 wikipedia_url: "https://en.wikipedia.org/wiki/Akpet_language"
 translations:
+  - translation_iso: jpn
+    name: ウクペットエホム語
+    auto: true
   - translation_iso: zho
     name: 乌克佩特-埃霍姆语
     auto: true

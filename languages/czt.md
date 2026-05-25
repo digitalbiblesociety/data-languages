@@ -15,6 +15,9 @@ glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Kuki-Chin-Naga > Kuki-Chin > Central Kuki-Chin > Maraic > Zotung Chin"
 wikipedia_url: "https://en.wikipedia.org/wiki/Zotung_language"
 translations:
+  - translation_iso: jpn
+    name: ゾツング・チン語
+    auto: true
   - translation_iso: zho
     name: 左通钦语
     auto: true

@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Kainji > Central Kainji > Basa-Eastern Kainji > Eastern Kainji > Jos > Northern Jos > Ningic > Kudu-Camo"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kudu-Camo_language"
 translations:
+  - translation_iso: jpn
+    name: クドゥ・カモ語
+    auto: true
   - translation_iso: zho
     name: 库杜-卡莫语
     auto: true

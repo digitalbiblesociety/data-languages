@@ -16,6 +16,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Ruga_language"
 translations:
   - translation_iso: hin
     name: रुगा भाषा
+  - translation_iso: jpn
+    name: ルガ語
+    auto: true
   - translation_iso: zho
     name: 鲁加语
     auto: true

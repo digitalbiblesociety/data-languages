@@ -15,6 +15,9 @@ glottolog_family_name: Sepik
 glottolog_classification: "Sepik > Nukuma > Kwoma"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kwoma_language"
 translations:
+  - translation_iso: jpn
+    name: クウォマ語
+    auto: true
   - translation_iso: zho
     name: 夸玛语
     auto: true

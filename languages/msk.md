@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Greater Central Philippine > Central Philippine > Mansakan > Eastern Mansakan > Mansaka"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mansaka_language"
 translations:
+  - translation_iso: jpn
+    name: マンサカ語
+    auto: true
   - translation_iso: zho
     name: 曼萨卡语
     auto: true

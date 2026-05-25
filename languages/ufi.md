@@ -14,6 +14,9 @@ glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Finisterre-Huon > Finisterre-Saruwaged > Gusap-Mot > Ufim-Rawa-Nahu > Ufim"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ufim_language"
 translations:
+  - translation_iso: jpn
+    name: ウフィム語
+    auto: true
   - translation_iso: zho
     name: 乌芬语
     auto: true

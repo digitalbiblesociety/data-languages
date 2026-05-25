@@ -17,6 +17,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Dhatki_language"
 translations:
   - translation_iso: hin
     name: धक्ती भाषा
+  - translation_iso: jpn
+    name: ダツキ語
+    auto: true
   - translation_iso: zho
     name: 达特基语
     auto: true

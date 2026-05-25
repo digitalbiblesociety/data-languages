@@ -14,6 +14,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > North New Guinea linkage > Schouten linkage > Kairiru-Manam > Manamic linkage > Kis-Wogeo > Kis"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kis_language"
 translations:
+  - translation_iso: jpn
+    name: キス語
+    auto: true
   - translation_iso: zho
     name: 基斯语
     auto: true

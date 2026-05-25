@@ -14,6 +14,9 @@ glottolog_family_id: dogo1299
 glottolog_family_name: Dogon
 glottolog_classification: "Dogon > Escarpment Dogon > Donno So Dogon"
 translations:
+  - translation_iso: jpn
+    name: ドンノ・ソ・ドゴン語
+    auto: true
   - translation_iso: zho
     name: 多诺索多贡语
     auto: true

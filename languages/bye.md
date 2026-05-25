@@ -15,6 +15,9 @@ glottolog_family_name: Sepik
 glottolog_classification: "Sepik > Ram > Pouye-Karawa > Pouye"
 wikipedia_url: "https://en.wikipedia.org/wiki/Pouye_language"
 translations:
+  - translation_iso: jpn
+    name: プーイエ語
+    auto: true
   - translation_iso: zho
     name: 普耶语
     auto: true

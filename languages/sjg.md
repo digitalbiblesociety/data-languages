@@ -15,6 +15,9 @@ glottolog_family_name: Tamaic
 glottolog_classification: "Tamaic > Tama-Sungor-Miisiirii > Tama-Sungor > Assangori"
 wikipedia_url: "https://en.wikipedia.org/wiki/Sungor_language"
 translations:
+  - translation_iso: jpn
+    name: アサンゴリ語
+    auto: true
   - translation_iso: zho
     name: 阿桑戈里语
     auto: true

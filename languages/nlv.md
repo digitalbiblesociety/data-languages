@@ -15,6 +15,9 @@ glottolog_family_name: Uto-Aztecan
 glottolog_classification: "Uto-Aztecan > Southern Uto-Aztecan > Corachol-Aztecan > Aztec > Eastern Nahuatl > Orizaba Nahuatl"
 wikipedia_url: "https://en.wikipedia.org/wiki/Orizaba_Nahuatl"
 translations:
+  - translation_iso: jpn
+    name: オリザバ・ナワトル語
+    auto: true
   - translation_iso: zho
     name: 奥里萨巴纳瓦特尔语
     auto: true

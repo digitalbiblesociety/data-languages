@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > Central-Western Bantu > Greater Luyana > Western Greater Luyana > Simaaic > Simaa"
 wikipedia_url: "https://en.wikipedia.org/wiki/Simaa_language"
 translations:
+  - translation_iso: jpn
+    name: シマー語
+    auto: true
   - translation_iso: zho
     name: 西玛亚语
     auto: true

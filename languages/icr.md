@@ -15,6 +15,9 @@ glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Germanic > Northwest Germanic > West Germanic > North Sea Germanic > Anglo-Frisian > Anglic > Later Anglic > Middle-Modern English > Macro-English > Guinea Coast Creole English > Caribbean English Creole > Western Caribbean Creole > Miskitoic Creole English > San Andres Creole English"
 wikipedia_url: "https://en.wikipedia.org/wiki/San_Andr%C3%A9s%E2%80%93Providencia_Creole"
 translations:
+  - translation_iso: jpn
+    name: アイランダー・クレオール・イングリッシュ語
+    auto: true
   - translation_iso: zho
     name: 聖安德烈斯-普羅維登西亞克里奧爾語
 ---

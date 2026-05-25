@@ -15,6 +15,9 @@ glottolog_family_name: Maningrida
 glottolog_classification: "Maningrida > Bureran > Guragone"
 wikipedia_url: "https://en.wikipedia.org/wiki/Gurr-Goni_language"
 translations:
+  - translation_iso: jpn
+    name: ガル・ゴニ語
+    auto: true
   - translation_iso: zho
     name: 古尔-戈尼语
     auto: true

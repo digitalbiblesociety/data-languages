@@ -15,6 +15,9 @@ glottolog_family_id: aust1305
 glottolog_family_name: Austroasiatic
 glottolog_classification: "Austroasiatic > Khasi-Palaung > Palaungic > East Palaungic > Waic > Bulangic > Samtao"
 translations:
+  - translation_iso: jpn
+    name: サムタオ語
+    auto: true
   - translation_iso: zho
     name: 萨姆陶语
     auto: true

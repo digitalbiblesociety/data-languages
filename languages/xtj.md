@@ -14,6 +14,9 @@ glottolog_family_id: otom1299
 glottolog_family_name: Otomanguean
 glottolog_classification: "Otomanguean > Eastern Otomanguean > Amuzgo-Mixtecan > Mixtecan > Mixtec-Cuicatec > Mixtec > Western Alta Mixtec > Tlaxiacic > Yucuane-Teita > Teita-Tataltepec Mixtec"
 translations:
+  - translation_iso: jpn
+    name: サンファン・テイタ・ミステク語
+    auto: true
   - translation_iso: zho
     name: 圣胡安-特伊塔-米斯特克语
     auto: true

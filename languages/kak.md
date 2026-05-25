@@ -14,6 +14,9 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Northern Luzon > Meso-Cordilleran > South-Central Cordilleran > Southern Cordilleran > West Southern Cordilleran > Nuclear Southern Cordilleran > Kalanguya > Ahin-Kayapa Kalanguya"
 translations:
+  - translation_iso: jpn
+    name: カランギャ語
+    auto: true
   - translation_iso: zho
     name: 卡兰古亚语
     auto: true

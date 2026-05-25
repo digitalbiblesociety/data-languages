@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > North New Guinea linkage > Schouten linkage > Kairiru-Manam > Manamic linkage > Kis-Wogeo > Wogeo"
 wikipedia_url: "https://en.wikipedia.org/wiki/Wogeo_language"
 translations:
+  - translation_iso: jpn
+    name: ウォゲオ語
+    auto: true
   - translation_iso: zho
     name: 沃格欧语
     auto: true

@@ -10,6 +10,9 @@ status_id: 6b
 latitude: 23.058
 longitude: 101.412
 translations:
+  - translation_iso: jpn
+    name: 南西ニス語
+    auto: true
   - translation_iso: zho
     name: 西南尼苏语
     auto: true

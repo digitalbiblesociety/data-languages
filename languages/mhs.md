@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > West Central Maluku > Sula-Buru > Buruic > Buru (Indonesia)"
 wikipedia_url: "https://en.wikipedia.org/wiki/Buru_language"
 translations:
+  - translation_iso: jpn
+    name: ブル語
+    auto: true
   - translation_iso: zho
     name: 布鲁语（印度尼西亚）
     auto: true

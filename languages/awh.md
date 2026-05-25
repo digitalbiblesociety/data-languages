@@ -14,6 +14,9 @@ glottolog_family_name: Bayono-Awbono
 glottolog_classification: "Bayono-Awbono > Awbono"
 wikipedia_url: "https://en.wikipedia.org/wiki/Awbono_language"
 translations:
+  - translation_iso: jpn
+    name: アウボノ語
+    auto: true
   - translation_iso: zho
     name: 奥博诺语
     auto: true

@@ -15,6 +15,9 @@ glottolog_family_name: Chibchan
 glottolog_classification: "Chibchan > Core Chibchan > Isthmic Chibchan > Western Isthmic Chibchan > Viceitic > Cabécar"
 wikipedia_url: "https://en.wikipedia.org/wiki/Cab%C3%A9car_language"
 translations:
+  - translation_iso: jpn
+    name: カベカル語
+    auto: true
   - translation_iso: zho
     name: 卡贝卡尔语
     auto: true

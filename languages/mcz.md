@@ -16,6 +16,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Mawan_language"
 translations:
   - translation_iso: hin
     name: मवान
+  - translation_iso: jpn
+    name: マワン語
+    auto: true
   - translation_iso: zho
     name: 马万语
     auto: true

@@ -14,6 +14,9 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Mel > Southern Mel > Kissi > Northern Kissi"
 translations:
+  - translation_iso: jpn
+    name: ノーザン・キッシ語
+    auto: true
   - translation_iso: zho
     name: 北基西语
     auto: true

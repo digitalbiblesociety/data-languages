@@ -15,6 +15,9 @@ glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > Paman > Finasleigh Pama > Mbabaram"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mbabaram_language"
 translations:
+  - translation_iso: jpn
+    name: バルバラム語
+    auto: true
   - translation_iso: zho
     name: 巴巴拉姆语
     auto: true

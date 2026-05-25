@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Javanesic > Modern Javanese > Tengger"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tenggerese_dialect"
 translations:
+  - translation_iso: jpn
+    name: テンガー語
+    auto: true
   - translation_iso: zho
     name: 騰格爾族語
 rolv_dialects:

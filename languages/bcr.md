@@ -15,6 +15,9 @@ glottolog_family_name: Athabaskan-Eyak-Tlingit
 glottolog_classification: "Athabaskan-Eyak-Tlingit > Athabaskan-Eyak > Athabaskan > Central British Columbia Athabaskan > Carrieric > Witsuwit'en-Babine"
 wikipedia_url: "https://en.wikipedia.org/wiki/Babine-Witsuwit%CA%BCen_language"
 translations:
+  - translation_iso: jpn
+    name: バビーネ語
+    auto: true
   - translation_iso: zho
     name: 巴比尼语
     auto: true

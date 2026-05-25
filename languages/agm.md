@@ -15,6 +15,9 @@ glottolog_family_name: Angan
 glottolog_classification: "Angan > Angaataha"
 wikipedia_url: "https://en.wikipedia.org/wiki/Angaataha_language"
 translations:
+  - translation_iso: jpn
+    name: アンガアタハ語
+    auto: true
   - translation_iso: zho
     name: 安加塔哈语
     auto: true

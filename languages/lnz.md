@@ -9,6 +9,9 @@ status_id: 6a
 latitude: -4.61444
 longitude: 16.72588
 translations:
+  - translation_iso: jpn
+    name: ロンゾ語
+    auto: true
   - translation_iso: zho
     name: 龙佐语
     auto: true

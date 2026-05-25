@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Central Pacific linkage > Tokalau Fijian > Eastern Fijian > Lauan"
 wikipedia_url: "https://en.wikipedia.org/wiki/Lauan_language"
 translations:
+  - translation_iso: jpn
+    name: ラウアン語
+    auto: true
   - translation_iso: zho
     name: 劳安语
     auto: true

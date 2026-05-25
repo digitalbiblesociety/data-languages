@@ -14,6 +14,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > Central-Western Bantu > North Zaire River > Rivers Bantu > Ngiri > Ngiri Riverain Mongala > Motemboic > Bolondo"
 wikipedia_url: "https://en.wikipedia.org/wiki/Londo_language"
 translations:
+  - translation_iso: jpn
+    name: ボロンド語
+    auto: true
   - translation_iso: zho
     name: 博隆多语
     auto: true

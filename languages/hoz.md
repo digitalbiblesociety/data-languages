@@ -15,6 +15,9 @@ glottolog_family_name: Blue Nile Mao
 glottolog_classification: "Blue Nile Mao > West Mao > Hozo-Seze > Hozo"
 wikipedia_url: "https://en.wikipedia.org/wiki/Hozo_language"
 translations:
+  - translation_iso: jpn
+    name: ホゾ語
+    auto: true
   - translation_iso: zho
     name: 霍佐语
     auto: true

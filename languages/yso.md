@@ -15,6 +15,9 @@ glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Burmo-Qiangic > Lolo-Burmese > Loloish > Ni-Li-Kazhouish > Southeastern Ngwi > Unclassified Southeastern Ngwi > Nisi (China)"
 wikipedia_url: "https://en.wikipedia.org/wiki/Nisi_language_(China)"
 translations:
+  - translation_iso: jpn
+    name: ニシ語（中国）
+    auto: true
   - translation_iso: zho
     name: 尼斯彝语
 ---

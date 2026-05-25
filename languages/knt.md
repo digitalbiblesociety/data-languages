@@ -15,6 +15,9 @@ glottolog_family_name: Pano-Tacanan
 glottolog_classification: "Pano-Tacanan > Panoan > Mainline Pano > Pano Nawa > Marubo Subgroup > Panoan Katukína"
 wikipedia_url: "https://en.wikipedia.org/wiki/Waninawa_language"
 translations:
+  - translation_iso: jpn
+    name: パノアン・カトゥキナ語
+    auto: true
   - translation_iso: zho
     name: 帕诺安卡图基纳语
     auto: true

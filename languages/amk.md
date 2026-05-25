@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > South Halmahera-West New Guinea > Cenderawasih Bay > Yapen > Central-Western Yapen > Ansus-Ambai > Ambai"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ambai_language"
 translations:
+  - translation_iso: jpn
+    name: アンバイ語
+    auto: true
   - translation_iso: zho
     name: 安拜语
     auto: true

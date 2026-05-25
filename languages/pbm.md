@@ -14,6 +14,9 @@ glottolog_family_id: otom1299
 glottolog_family_name: Otomanguean
 glottolog_classification: "Otomanguean > Eastern Otomanguean > Popoloca-Zapotecan > Popolocan-Mazatecan > Mazatecan > Northwest Alta Mazatec > Puebla and Northeastern Mazatec"
 translations:
+  - translation_iso: jpn
+    name: プエブラ・マザテク語
+    auto: true
   - translation_iso: zho
     name: 普埃布拉马萨特克语
     auto: true

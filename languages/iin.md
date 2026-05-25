@@ -15,6 +15,9 @@ glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > South-West Pama-Nyungan > Pilbara > Mantharta > Djiwarli-Thiin > Thiin"
 wikipedia_url: "https://en.wikipedia.org/wiki/Thiin_language"
 translations:
+  - translation_iso: jpn
+    name: ティーン語
+    auto: true
   - translation_iso: zho
     name: 蒂因语
     auto: true

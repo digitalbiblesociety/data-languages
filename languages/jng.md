@@ -14,6 +14,9 @@ glottolog_family_id: yang1287
 glottolog_family_name: Yangmanic
 glottolog_classification: "Yangmanic > Yangman"
 translations:
+  - translation_iso: jpn
+    name: ヤングマン語
+    auto: true
   - translation_iso: zho
     name: 杨曼语
     auto: true

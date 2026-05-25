@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Benue-Congo Plateau > Tarokoid > Bijimic-Sur-Shall > Kwangic > Vaghat > Bijim"
 wikipedia_url: "https://en.wikipedia.org/wiki/Bijim_language"
 translations:
+  - translation_iso: jpn
+    name: クワンカ語
+    auto: true
   - translation_iso: zho
     name: 匡卡语
     auto: true

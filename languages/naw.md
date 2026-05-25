@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Kwa Volta-Congo > Nyo > Potou-Tano > Tano > Guang > North Guang > Oti North Guang > Mountain Oti North Guang > Nawuri"
 wikipedia_url: "https://en.wikipedia.org/wiki/Nawuri_language"
 translations:
+  - translation_iso: jpn
+    name: ナウリ語
+    auto: true
   - translation_iso: zho
     name: 纳武里语
     auto: true

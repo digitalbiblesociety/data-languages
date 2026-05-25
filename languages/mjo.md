@@ -15,6 +15,9 @@ glottolog_family_name: Dravidian
 glottolog_classification: "Dravidian > South Dravidian > South Dravidian I > Tamil-Kannada > Tamil-Kota > Tamil-Toda > Tamil-Irula > Tamil-Kodagu > Tamil-Malayalam > Malayalamoid > Malankuravan"
 wikipedia_url: "https://en.wikipedia.org/wiki/Malankuravan_language"
 translations:
+  - translation_iso: jpn
+    name: マランクラヴァン語
+    auto: true
   - translation_iso: zho
     name: 玛兰库拉万语
     auto: true

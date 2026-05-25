@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Ekoid-Mbe > Ekoid > Ndoe"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ndoe_language"
 translations:
+  - translation_iso: jpn
+    name: ンドエ語
+    auto: true
   - translation_iso: zho
     name: 恩多埃语
     auto: true

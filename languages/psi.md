@@ -14,6 +14,9 @@ glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Indo-Aryan > Pashayi > Eastern Pashayi > Southeast Pashayi"
 translations:
+  - translation_iso: jpn
+    name: 南東パシャイ語
+    auto: true
   - translation_iso: zho
     name: 东南帕沙伊语
 rolv_dialects:

@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > North Borneo Malayo-Polynesian > Sabahan > Southwest Sabahan > Greater Murutic > Murutic > Eastern Murutic > Selungai-Sembakung Murut > Sembakung Murut"
 wikipedia_url: "https://en.wikipedia.org/wiki/Sembakung_language"
 translations:
+  - translation_iso: jpn
+    name: ティドング語
+    auto: true
   - translation_iso: zho
     name: 森巴昆格穆鲁特语
     auto: true

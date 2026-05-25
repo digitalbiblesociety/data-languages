@@ -14,6 +14,9 @@ glottolog_family_id: utoa1244
 glottolog_family_name: Uto-Aztecan
 glottolog_classification: "Uto-Aztecan > Southern Uto-Aztecan > Corachol-Aztecan > Corachol > Coran > Santa Teresa Cora"
 translations:
+  - translation_iso: jpn
+    name: コラ語
+    auto: true
   - translation_iso: zho
     name: 圣特蕾莎科拉语
     auto: true

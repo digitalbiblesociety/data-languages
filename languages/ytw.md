@@ -13,6 +13,9 @@ glottolog_family_id: nucl1709
 glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Finisterre-Huon > Finisterre-Saruwaged > Yupna > Unclassified Yupna > Yout Wam"
 translations:
+  - translation_iso: jpn
+    name: ユウト・ワム語
+    auto: true
   - translation_iso: zho
     name: 尤特-瓦姆语
     auto: true

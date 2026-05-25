@@ -15,6 +15,9 @@ glottolog_family_name: Chicham
 glottolog_classification: "Chicham > Aguaruna"
 wikipedia_url: "https://en.wikipedia.org/wiki/Aguaruna_language"
 translations:
+  - translation_iso: jpn
+    name: アグアルナ語
+    auto: true
   - translation_iso: zho
     name: 阿瓜鲁纳语
 ---

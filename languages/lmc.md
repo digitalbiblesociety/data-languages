@@ -15,6 +15,9 @@ glottolog_family_name: Limilngan-Wulna
 glottolog_classification: "Limilngan-Wulna > Limilngan"
 wikipedia_url: "https://en.wikipedia.org/wiki/Limilngan_language"
 translations:
+  - translation_iso: jpn
+    name: リミルンガン語
+    auto: true
   - translation_iso: zho
     name: 利米尔根语
     auto: true

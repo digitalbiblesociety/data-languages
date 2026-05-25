@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > Meso Melanesian linkage > New Ireland-Northwest Solomonic linkage > St George linkage > Northwest Solomonic > New Georgia > East New Georgia > Rovianic > Hoava-Kusaghe > Kusaghe-Njela"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kusaghe_dialect"
 translations:
+  - translation_iso: jpn
+    name: クサゲ語
+    auto: true
   - translation_iso: zho
     name: 库萨格语
     auto: true

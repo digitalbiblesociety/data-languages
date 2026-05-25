@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Benue-Congo Plateau > West-Central Benue-Congo Plateau > Zaric > Irigwe"
 wikipedia_url: "https://en.wikipedia.org/wiki/Rigwe_language"
 translations:
+  - translation_iso: jpn
+    name: リグウェ語
+    auto: true
   - translation_iso: zho
     name: 里格韦语
     auto: true

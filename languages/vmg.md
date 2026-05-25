@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > Meso Melanesian linkage > New Ireland-Northwest Solomonic linkage > St George linkage > Patpatar-Minigir-Tolai > Minigir-Tolai > Minigir"
 wikipedia_url: "https://en.wikipedia.org/wiki/Lungalunga_language"
 translations:
+  - translation_iso: jpn
+    name: ミニギール語
+    auto: true
   - translation_iso: zho
     name: 隆加隆加语
     auto: true

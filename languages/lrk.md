@@ -10,6 +10,9 @@ latitude: 26.095
 longitude: 68.715
 wikipedia_url: "https://en.wikipedia.org/wiki/Loarki_language"
 translations:
+  - translation_iso: jpn
+    name: ロアルキ語
+    auto: true
   - translation_iso: zho
     name: 洛阿尔基语
     auto: true

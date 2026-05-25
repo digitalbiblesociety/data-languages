@@ -14,6 +14,9 @@ glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Indo-Aryan > Middle-Modern Indo-Aryan > Continental Indo-Aryan > Midlands Indo-Aryan > Bhil > Rathawi-Palya > Rathawi"
 translations:
+  - translation_iso: jpn
+    name: ラタウィ語
+    auto: true
   - translation_iso: zho
     name: 拉塔威语
     auto: true

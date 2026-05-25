@@ -14,6 +14,9 @@ glottolog_family_name: Geelvink Bay
 glottolog_classification: "Geelvink Bay > Tefaro"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tefaro_language"
 translations:
+  - translation_iso: jpn
+    name: テファロ語
+    auto: true
   - translation_iso: zho
     name: 特法罗语
     auto: true

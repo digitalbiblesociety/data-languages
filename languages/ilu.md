@@ -14,6 +14,9 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Timor-Babar > Wetar-Atauro > Wetar > Ili'uun"
 translations:
+  - translation_iso: jpn
+    name: イリウン語
+    auto: true
   - translation_iso: zho
     name: 伊利乌恩语
     auto: true

@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > North and Central Vanuatu > Central Vanuatu > Malakula > Eastern Malakula linkage > Central-Southeast Malakula > Unua-Pangkumu > Rerep"
 wikipedia_url: "https://en.wikipedia.org/wiki/Rerep_language"
 translations:
+  - translation_iso: jpn
+    name: レレップ語
+    auto: true
   - translation_iso: zho
     name: 瑞瑞普语
 rolv_dialects:

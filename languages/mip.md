@@ -15,6 +15,9 @@ glottolog_family_name: Otomanguean
 glottolog_classification: "Otomanguean > Eastern Otomanguean > Amuzgo-Mixtecan > Mixtecan > Mixtec-Cuicatec > Mixtec > Northeastern Alta Mixtec > Apasco-Apoala Mixtec"
 wikipedia_url: "https://en.wikipedia.org/wiki/Apoala_Mixtec"
 translations:
+  - translation_iso: jpn
+    name: アパスコ・アポアラ・ミステク語
+    auto: true
   - translation_iso: zho
     name: 阿帕斯科-阿波阿拉混合语
     auto: true

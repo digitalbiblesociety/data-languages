@@ -14,6 +14,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Mamfe > Kendem-Denya > Kendem"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kendem_language"
 translations:
+  - translation_iso: jpn
+    name: ケンデム語
+    auto: true
   - translation_iso: zho
     name: 肯德姆语
     auto: true

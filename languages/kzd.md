@@ -13,6 +13,9 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Celebic > Greater Eastern Celebic > Eastern Celebic > Saluan-Banggai > Taliaboic > Kadai"
 translations:
+  - translation_iso: jpn
+    name: カダイ語
+    auto: true
   - translation_iso: zho
     name: 卡代语
     auto: true

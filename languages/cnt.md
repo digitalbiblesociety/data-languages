@@ -15,6 +15,9 @@ glottolog_family_name: Otomanguean
 glottolog_classification: "Otomanguean > Western Otomanguean > Otopame-Chinantecan > Chinantecan > Central-Eastern Chinantec > Northwestern Chinantec > Chinantec Group II > Tepetotutla Chinantec"
 wikipedia_url: "https://en.wikipedia.org/wiki/Chinantec_of_Tepetotutla"
 translations:
+  - translation_iso: jpn
+    name: テペトトゥトラ・チナンテク語
+    auto: true
   - translation_iso: zho
     name: 特佩托图特拉奇南特克语
     auto: true

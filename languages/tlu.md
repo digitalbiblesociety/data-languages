@@ -14,6 +14,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Nunusaku > Piru Bay > East Piru Bay > Solehua > Seram Straits > Ambonic > Northeast Ambon > Tulehu"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tulehu_language"
 translations:
+  - translation_iso: jpn
+    name: トゥレフ語
+    auto: true
   - translation_iso: zho
     name: 图勒胡语
     auto: true

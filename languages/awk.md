@@ -15,6 +15,9 @@ glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > Southeastern Pama-Nyungan > New South Wales Pama-Nyungan > Yuin-Kuri > Kuri > Hunter-Hastings > Awabakal"
 wikipedia_url: "https://en.wikipedia.org/wiki/Awabakal_language"
 translations:
+  - translation_iso: jpn
+    name: アワバカル語
+    auto: true
   - translation_iso: zho
     name: 阿瓦巴卡尔语
     auto: true

@@ -17,6 +17,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Gta%CA%BC_language"
 translations:
   - translation_iso: hin
     name: गेता भाषा
+  - translation_iso: jpn
+    name: ガタ語
+    auto: true
   - translation_iso: zho
     name: 格塔语
 rolv_dialects:

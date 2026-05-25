@@ -15,6 +15,9 @@ glottolog_family_name: Dagan
 glottolog_classification: "Dagan > Central Dagan > Southwest Dagan > Daga"
 wikipedia_url: "https://en.wikipedia.org/wiki/Daga_language"
 translations:
+  - translation_iso: jpn
+    name: ダガ語
+    auto: true
   - translation_iso: zho
     name: 达加语
     auto: true

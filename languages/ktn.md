@@ -15,6 +15,9 @@ glottolog_family_name: Tupian
 glottolog_classification: "Tupian > Arikem-Tupari > Arikemic > Karitiâna"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kariti%C3%A2na_language"
 translations:
+  - translation_iso: jpn
+    name: カリティアナ語
+    auto: true
   - translation_iso: zho
     name: 卡利吉亚纳语
 ---

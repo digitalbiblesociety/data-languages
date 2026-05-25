@@ -14,6 +14,9 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Kwa Volta-Congo > Gbe > Eastern Gbe > Fongbeic > Weme Gbe"
 translations:
+  - translation_iso: jpn
+    name: ウェメ・ゲベ語
+    auto: true
   - translation_iso: zho
     name: 韦梅-格贝语
     auto: true

@@ -15,6 +15,9 @@ glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > Biu-Mandara > North Biu-Mandara > Margi-Mandara-Mofu > Bura-Marghi > Marghic > Kilba-South Margi > Marghi South"
 wikipedia_url: "https://en.wikipedia.org/wiki/Margi_South_language"
 translations:
+  - translation_iso: jpn
+    name: マルギ南語
+    auto: true
   - translation_iso: zho
     name: 玛格希南语
     auto: true

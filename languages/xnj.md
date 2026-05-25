@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > East Bantu > Northeast Savanna Bantu > Southern Tanzania Highlands Bantu > Manda-Ngoni > Tanzania-Mozambique Ngoni > Tanzanian Ngoni"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tanzanian_Ngoni_language"
 translations:
+  - translation_iso: jpn
+    name: チンゴニ語
+    auto: true
   - translation_iso: zho
     name: 钦贡尼语
     auto: true

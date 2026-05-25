@@ -15,6 +15,9 @@ glottolog_family_name: Surmic
 glottolog_classification: "Surmic > South Surmic > Southeast Surmic > Pastoral Surmic > Tirma-Chai-Mursi > Tirma-Chai"
 wikipedia_url: "https://en.wikipedia.org/wiki/Suri_language"
 translations:
+  - translation_iso: jpn
+    name: スリ語
+    auto: true
   - translation_iso: zho
     name: 苏里语
     auto: true

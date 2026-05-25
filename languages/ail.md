@@ -15,6 +15,9 @@ glottolog_family_name: Bosavi
 glottolog_classification: "Bosavi > Bosavi Watershed > Aimele"
 wikipedia_url: "https://en.wikipedia.org/wiki/Aimele_language"
 translations:
+  - translation_iso: jpn
+    name: アイメレ語
+    auto: true
   - translation_iso: zho
     name: 艾梅莱语
     auto: true

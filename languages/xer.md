@@ -15,6 +15,9 @@ glottolog_family_name: Nuclear-Macro-Je
 glottolog_classification: "Nuclear-Macro-Je > Je > Cerrado > Central Je > Xerénte"
 wikipedia_url: "https://en.wikipedia.org/wiki/Xer%C3%A9nte_language"
 translations:
+  - translation_iso: jpn
+    name: シェレンテ語
+    auto: true
   - translation_iso: zho
     name: 塞伦特语
     auto: true

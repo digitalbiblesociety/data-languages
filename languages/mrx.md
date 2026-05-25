@@ -15,6 +15,9 @@ glottolog_family_name: Tor-Orya
 glottolog_classification: "Tor-Orya > Tor > Maremgi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Dineor_language"
 translations:
+  - translation_iso: jpn
+    name: マレムギ語
+    auto: true
   - translation_iso: zho
     name: 玛瑞格语
     auto: true

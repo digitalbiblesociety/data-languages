@@ -15,6 +15,9 @@ glottolog_family_name: Dogon
 glottolog_classification: "Dogon > West Dogon > Tiranige Diga Dogon"
 wikipedia_url: "https://en.wikipedia.org/wiki/Duleri_Dogon"
 translations:
+  - translation_iso: jpn
+    name: ティラニゲ・ディガ・ドゴン語
+    auto: true
   - translation_iso: zho
     name: 蒂拉尼格迪加多贡语
     auto: true

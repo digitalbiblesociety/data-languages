@@ -15,6 +15,9 @@ glottolog_family_name: Pano-Tacanan
 glottolog_classification: "Pano-Tacanan > Panoan > Mainline Pano > Pano Nawa > Tuxináwa"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tuxinawa_language"
 translations:
+  - translation_iso: jpn
+    name: トゥチナウア語
+    auto: true
   - translation_iso: zho
     name: 图希纳瓦语
     auto: true

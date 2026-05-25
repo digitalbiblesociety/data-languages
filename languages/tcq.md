@@ -15,6 +15,9 @@ glottolog_family_name: Lakes Plain
 glottolog_classification: "Lakes Plain > Tariku > East Tariku > Doutai-Kai-Waritai > Kaiy"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kaiy_language"
 translations:
+  - translation_iso: jpn
+    name: カイイ語
+    auto: true
   - translation_iso: zho
     name: 凯伊语
     auto: true

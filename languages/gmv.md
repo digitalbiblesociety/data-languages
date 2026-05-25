@@ -14,6 +14,9 @@ glottolog_family_id: gong1255
 glottolog_family_name: Ta-Ne-Omotic
 glottolog_classification: "Ta-Ne-Omotic > Ometo > North-West Ometo > Central Ometo > Dawro-Gofa-Gamo > Gamo"
 translations:
+  - translation_iso: jpn
+    name: ガモ語
+    auto: true
   - translation_iso: zho
     name: 加莫语
     auto: true

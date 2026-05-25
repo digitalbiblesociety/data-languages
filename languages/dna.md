@@ -14,6 +14,9 @@ glottolog_family_id: nucl1709
 glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Dani > Central Dani > Grand Valley Dani > Walakic > Upper Grand Valley Dani"
 translations:
+  - translation_iso: jpn
+    name: アッパー・グランド・ヴァレー・ダニ語
+    auto: true
   - translation_iso: zho
     name: 上大瓦利达尼语
     auto: true

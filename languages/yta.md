@@ -15,6 +15,9 @@ glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Burmo-Qiangic > Lolo-Burmese > Loloish > Ni-Li-Kazhouish > Lisoid > Nuclear Lisoid > Lisu-Laluba-Lavu > Laluba-Lavu > Lavu-Yongsheng-Talu"
 wikipedia_url: "https://en.wikipedia.org/wiki/Talu_language"
 translations:
+  - translation_iso: jpn
+    name: タル語
+    auto: true
   - translation_iso: zho
     name: 他鲁语
 ---

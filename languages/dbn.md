@@ -15,6 +15,9 @@ glottolog_family_name: "South Bird's Head"
 glottolog_classification: "South Bird's Head > Inanwatanic > Duriankere"
 wikipedia_url: "https://en.wikipedia.org/wiki/Duriankari_language"
 translations:
+  - translation_iso: jpn
+    name: ドゥリアンケレ語
+    auto: true
   - translation_iso: zho
     name: 杜里安克雷语
     auto: true

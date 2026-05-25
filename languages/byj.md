@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Kainji > Central Kainji > Basa-Eastern Kainji > Eastern Kainji > Jos > Kauru > Bina (Nigeria)"
 wikipedia_url: "https://en.wikipedia.org/wiki/Bina_language"
 translations:
+  - translation_iso: jpn
+    name: ビナ語
+    auto: true
   - translation_iso: zho
     name: 比纳语
     auto: true

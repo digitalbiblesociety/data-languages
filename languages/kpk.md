@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Jukunoid > Central Jukunoid > Kpan-Icen > Kpan"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kpan_language"
 translations:
+  - translation_iso: jpn
+    name: クパン語
+    auto: true
   - translation_iso: zho
     name: 克潘语
     auto: true

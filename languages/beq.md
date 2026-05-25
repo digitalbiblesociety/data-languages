@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > Central-Western Bantu > West-Coastal Bantu > Nzadic > Lweric > Dingic > Loange-Atlantic > KLC Extended > Kikongo Language Cluster > Nuclear KLC > Kikongoic > Beembe"
 wikipedia_url: "https://en.wikipedia.org/wiki/Bembe_language_(Kibembe)"
 translations:
+  - translation_iso: jpn
+    name: ベエムベ語
+    auto: true
   - translation_iso: zho
     name: 贝恩贝语
     auto: true

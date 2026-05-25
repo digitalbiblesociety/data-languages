@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > South Halmahera-West New Guinea > Mor (Mor Islands)"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mor_language_(Austronesian)"
 translations:
+  - translation_iso: jpn
+    name: モア語
+    auto: true
   - translation_iso: zho
     name: 莫尔语（莫尔群岛）
     auto: true

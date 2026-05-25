@@ -14,6 +14,9 @@ glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Bodic > Bodish > Early Old Tibetan > Middle Old Tibetan > Late Old Tibetan > Central Tibetan > South-Western Tibetic > Lhomi"
 translations:
+  - translation_iso: jpn
+    name: ルホミ語
+    auto: true
   - translation_iso: zho
     name: 卢米语
     auto: true

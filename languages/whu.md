@@ -10,6 +10,9 @@ status_id: 6b
 latitude: 1.42088
 longitude: 116.6795
 translations:
+  - translation_iso: jpn
+    name: ワハウ・カヤン語
+    auto: true
   - translation_iso: zho
     name: 瓦豪卡扬语
     auto: true

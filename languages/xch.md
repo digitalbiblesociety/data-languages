@@ -15,6 +15,9 @@ glottolog_family_name: Chimakuan
 glottolog_classification: "Chimakuan > Chimakum"
 wikipedia_url: "https://en.wikipedia.org/wiki/Chemakum_language"
 translations:
+  - translation_iso: jpn
+    name: チェマクム語
+    auto: true
   - translation_iso: zho
     name: 切马库姆语
     auto: true

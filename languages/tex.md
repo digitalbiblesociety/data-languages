@@ -14,6 +14,9 @@ glottolog_family_name: Surmic
 glottolog_classification: "Surmic > South Surmic > Southwest Surmic > Didinga-Murle > Tennet"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tennet_language"
 translations:
+  - translation_iso: jpn
+    name: テンネット語
+    auto: true
   - translation_iso: zho
     name: 特内特语
     auto: true

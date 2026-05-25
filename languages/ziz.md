@@ -15,6 +15,9 @@ glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > Biu-Mandara > South Biu-Mandara > Bataic > Gudeic > Gude-Jimi-Zizilivakan > Zizilivakan"
 wikipedia_url: "https://en.wikipedia.org/wiki/Zizilivakan_language"
 translations:
+  - translation_iso: jpn
+    name: ジジリヴァカン語
+    auto: true
   - translation_iso: zho
     name: 齐齐利瓦干语
     auto: true

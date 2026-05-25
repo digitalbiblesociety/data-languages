@@ -15,6 +15,9 @@ glottolog_family_name: Nuclear-Macro-Je
 glottolog_classification: "Nuclear-Macro-Je > Je > Cerrado > Goyaz > Northern Je > Mebengokre"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kayapo_language"
 translations:
+  - translation_iso: jpn
+    name: メベング・オクレ・カベン語
+    auto: true
   - translation_iso: zho
     name: 卡亚波语
     auto: true

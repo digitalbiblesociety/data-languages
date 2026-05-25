@@ -15,6 +15,9 @@ glottolog_family_name: Maybratic
 glottolog_classification: "Maybratic > Karon Dori"
 wikipedia_url: "https://en.wikipedia.org/wiki/Karon_Dori_language"
 translations:
+  - translation_iso: jpn
+    name: カロン・ドリ語
+    auto: true
   - translation_iso: zho
     name: 卡龙·多里语
     auto: true

@@ -15,6 +15,9 @@ glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Burmo-Qiangic > Lolo-Burmese > Loloish > Ni-Li-Kazhouish > Southeastern Ngwi > Highland Phula > Muji > Laghuu-Core Muji > Laghuu"
 wikipedia_url: "https://en.wikipedia.org/wiki/Laghuu_language"
 translations:
+  - translation_iso: jpn
+    name: ラグフー語
+    auto: true
   - translation_iso: zho
     name: 拉餘語
 ---

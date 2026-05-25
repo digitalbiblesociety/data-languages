@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Northern Bantoid > Dakoid > Tiba-Dong > Gaa"
 wikipedia_url: "https://en.wikipedia.org/wiki/G%C3%A3%C3%A3_language"
 translations:
+  - translation_iso: jpn
+    name: ティバ語
+    auto: true
   - translation_iso: zho
     name: 加语
     auto: true

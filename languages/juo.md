@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Jukunoid > Central Jukunoid > Jukun-Mbembe-Wurbo > Jukun > Kororofa > Kona > Jiba"
 wikipedia_url: "https://en.wikipedia.org/wiki/Jiba_language"
 translations:
+  - translation_iso: jpn
+    name: ジバ語
+    auto: true
   - translation_iso: zho
     name: 吉巴语
 rolv_dialects:

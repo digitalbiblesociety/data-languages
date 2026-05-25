@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Basap-Greater Barito > Greater Barito linkage > Sama-Bajaw > Sulu-Borneo > Pangutaran Sama"
 wikipedia_url: "https://en.wikipedia.org/wiki/Pangutaran_Sama_language"
 translations:
+  - translation_iso: jpn
+    name: シヤマ語
+    auto: true
   - translation_iso: zho
     name: 潘古塔兰萨玛语
     auto: true

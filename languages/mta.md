@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Greater Central Philippine > Manobo > Central and Southern Manobo > South Manobo > Sarangani-Tasaday-Cotabato > Cotabato Manobo"
 wikipedia_url: "https://en.wikipedia.org/wiki/Cotabato_Manobo_language"
 translations:
+  - translation_iso: jpn
+    name: コタバト・マノボ語
+    auto: true
   - translation_iso: zho
     name: 科塔瓦托曼诺博语
     auto: true

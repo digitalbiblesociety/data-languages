@@ -17,6 +17,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Bhatri_language"
 translations:
   - translation_iso: hin
     name: भातरी भाषा
+  - translation_iso: jpn
+    name: バトリ語
+    auto: true
   - translation_iso: zho
     name: 巴特里语
     auto: true

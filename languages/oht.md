@@ -8,6 +8,9 @@ country_id: TR
 country_name: Turkey
 status_id: null
 translations:
+  - translation_iso: jpn
+    name: 古ヒッタイト語
+    auto: true
   - translation_iso: zho
     name: 古赫梯语
     auto: true

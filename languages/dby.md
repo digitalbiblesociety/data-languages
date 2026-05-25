@@ -12,6 +12,9 @@ longitude: 142.77883
 glottocode: dibi1240
 wikipedia_url: "https://en.wikipedia.org/wiki/Dibiyaso_language"
 translations:
+  - translation_iso: jpn
+    name: ディビヤソ語
+    auto: true
   - translation_iso: zho
     name: 迪比亚索语
     auto: true

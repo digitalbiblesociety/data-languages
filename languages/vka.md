@@ -14,6 +14,9 @@ glottolog_family_id: pama1250
 glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > South-West Pama-Nyungan > Pilbara > Ngayarda > Central Ngayarda > Ngarluma-Kariyarra > Kariyarra"
 translations:
+  - translation_iso: jpn
+    name: カリャーラ語
+    auto: true
   - translation_iso: zho
     name: 卡里亚拉语
     auto: true

@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > West Central Maluku > Sula-Buru > Buruic > Lisela"
 wikipedia_url: "https://en.wikipedia.org/wiki/Lisela_language"
 translations:
+  - translation_iso: jpn
+    name: リセラ語
+    auto: true
   - translation_iso: zho
     name: 利塞拉语
     auto: true

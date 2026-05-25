@@ -17,6 +17,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Rangas_language"
 translations:
   - translation_iso: hin
     name: रंगस भाषा
+  - translation_iso: jpn
+    name: ラングカス語
+    auto: true
   - translation_iso: zho
     name: 让卡斯语
     auto: true

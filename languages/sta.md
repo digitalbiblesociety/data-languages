@@ -15,6 +15,9 @@ glottolog_family_name: Pidgin
 glottolog_classification: "Pidgin > Swahili-based pidgin > Upcountry Swahili > KiSetla"
 wikipedia_url: "https://en.wikipedia.org/wiki/Settler_Swahili"
 translations:
+  - translation_iso: jpn
+    name: セットラ語
+    auto: true
   - translation_iso: zho
     name: 塞特拉语
     auto: true

@@ -15,6 +15,9 @@ glottolog_family_name: Gunwinyguan
 glottolog_classification: "Gunwinyguan > Jala > Rembarrnga"
 wikipedia_url: "https://en.wikipedia.org/wiki/Rembarrnga_language"
 translations:
+  - translation_iso: jpn
+    name: レンバルンガ語
+    auto: true
   - translation_iso: zho
     name: 仁巴伦加语
     auto: true

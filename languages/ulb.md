@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Defoid > Yoruboid > Edekiri > Ede > Eastern Ede > Southeastern Ede > Nuclear Yoruba > Ulukwumi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ulukwumi_language"
 translations:
+  - translation_iso: jpn
+    name: オルクミ語
+    auto: true
   - translation_iso: zho
     name: 乌卢库米语
     auto: true

@@ -15,6 +15,9 @@ glottolog_family_name: Tupian
 glottolog_classification: "Tupian > Eastern Tupian > Maweti-Guarani > Aweti-Guarani > Tupi-Guarani > Southern Tupi-Guarani > Tupi-Guarani Subgroup I > Tupi-Guarani Subgroup I.A > Paraguay-Brazil Guarani > Kaiowa > Pai Tavytera"
 wikipedia_url: "https://en.wikipedia.org/wiki/Pai_Tavytera_language"
 translations:
+  - translation_iso: jpn
+    name: パイタビェテラ語
+    auto: true
   - translation_iso: zho
     name: 帕伊塔维特拉语
     auto: true

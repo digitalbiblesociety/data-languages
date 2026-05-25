@@ -17,6 +17,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Nottoway_language"
 translations:
   - translation_iso: ara
     name: نوتوويي
+  - translation_iso: jpn
+    name: ノッタウェイ語
+    auto: true
   - translation_iso: zho
     name: 诺托韦语
     auto: true

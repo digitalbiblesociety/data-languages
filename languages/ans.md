@@ -14,6 +14,9 @@ glottolog_family_name: Chocoan
 glottolog_classification: "Chocoan > Unclassified Chocoan > Anserma"
 wikipedia_url: "https://en.wikipedia.org/wiki/Anserma_language"
 translations:
+  - translation_iso: jpn
+    name: アンセルマ語
+    auto: true
   - translation_iso: zho
     name: 安塞玛语
     auto: true

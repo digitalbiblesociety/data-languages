@@ -15,6 +15,9 @@ glottolog_family_name: Austroasiatic
 glottolog_classification: "Austroasiatic > Aslian > Central-Northern Aslian > North Aslian > Maniq-Menraq-Batek > Menraq-Batek > Minriq"
 wikipedia_url: "https://en.wikipedia.org/wiki/Minriq_language"
 translations:
+  - translation_iso: jpn
+    name: ミンリク語
+    auto: true
   - translation_iso: zho
     name: 明里克语
 ---

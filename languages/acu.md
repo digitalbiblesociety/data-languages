@@ -15,6 +15,9 @@ glottolog_family_name: Chicham
 glottolog_classification: "Chicham > Shuaric > Achuar-Shiwiar"
 wikipedia_url: "https://en.wikipedia.org/wiki/Achuar-Shiwiar_language"
 translations:
+  - translation_iso: jpn
+    name: アチュアルシウィアル語
+    auto: true
   - translation_iso: zho
     name: 阿楚阿尔-希维亚尔语
     auto: true

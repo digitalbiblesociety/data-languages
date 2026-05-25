@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > North New Guinea linkage > Huon Gulf > South Huon Gulf linkage > Buang linkage > Mapos-Mangga-Wagau > Mangga Buang"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mangga_Buang_language"
 translations:
+  - translation_iso: jpn
+    name: マンガ・ブアン語
+    auto: true
   - translation_iso: zho
     name: 曼加布昂语
     auto: true

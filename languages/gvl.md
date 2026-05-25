@@ -17,6 +17,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Gulay_language"
 translations:
   - translation_iso: ara
     name: قولاي
+  - translation_iso: jpn
+    name: グレイ語
+    auto: true
   - translation_iso: zho
     name: 古莱语
     auto: true

@@ -8,6 +8,9 @@ country_name: Australia
 status_id: "10"
 wikipedia_url: "https://en.wikipedia.org/wiki/Yabula-Yabula_language"
 translations:
+  - translation_iso: jpn
+    name: ヤブラ・ヤブラ語
+    auto: true
   - translation_iso: zho
     name: 亚布拉-亚布拉语
     auto: true

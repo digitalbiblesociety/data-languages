@@ -15,6 +15,9 @@ glottolog_family_name: Kamula-Elevala
 glottolog_classification: "Kamula-Elevala > Elevala > Aekyom"
 wikipedia_url: "https://en.wikipedia.org/wiki/Awin_language"
 translations:
+  - translation_iso: jpn
+    name: アエキヨム語
+    auto: true
   - translation_iso: zho
     name: 埃基约姆语
     auto: true

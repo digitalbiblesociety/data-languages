@@ -12,6 +12,9 @@ longitude: -64.35748
 glottocode: iton1250
 wikipedia_url: "https://en.wikipedia.org/wiki/Itonama_language"
 translations:
+  - translation_iso: jpn
+    name: イトナマ語
+    auto: true
   - translation_iso: kor
     name: 이토나마어
   - translation_iso: zho

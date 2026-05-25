@@ -18,6 +18,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Mewati_language"
 translations:
   - translation_iso: hin
     name: मेवाती
+  - translation_iso: jpn
+    name: メワティ語
+    auto: true
   - translation_iso: zho
     name: 梅瓦蒂语
     auto: true

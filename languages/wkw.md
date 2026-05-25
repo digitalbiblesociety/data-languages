@@ -15,6 +15,9 @@ glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > Southeastern Pama-Nyungan > North Coast Pama-Nyungan > Waka-Kabic > Western Waka-Kabic > Wakawaka"
 wikipedia_url: "https://en.wikipedia.org/wiki/Wakka_Wakka_language"
 translations:
+  - translation_iso: jpn
+    name: ワカワカ語
+    auto: true
   - translation_iso: zho
     name: 瓦卡瓦卡语
     auto: true

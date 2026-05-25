@@ -15,6 +15,9 @@ glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Bodic > Bodish > Early Old Tibetan > Middle Old Tibetan > Late Old Tibetan > Central Tibetan > South-Western Tibetic > Kyirong-Kagate > Yolmo-Kagate > Lamjung-Melamchi Yolmo"
 wikipedia_url: "https://en.wikipedia.org/wiki/Yolmo_language"
 translations:
+  - translation_iso: jpn
+    name: ヘラムブシェルパ語
+    auto: true
   - translation_iso: zho
     name: 约尔莫语
 rolv_dialects:

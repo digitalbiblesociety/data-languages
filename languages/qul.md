@@ -15,6 +15,9 @@ glottolog_family_name: Quechuan
 glottolog_classification: "Quechuan > Southern Quechua > Bolivian-Argentinian Quechua > North Bolivian Quechua"
 wikipedia_url: "https://en.wikipedia.org/wiki/North_Bolivian_Quechua"
 translations:
+  - translation_iso: jpn
+    name: 北ボリビアンケチュア語
+    auto: true
   - translation_iso: zho
     name: 北玻利维亚克丘亚语
     auto: true

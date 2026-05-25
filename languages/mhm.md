@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > East Bantu > North Mozambique Bantu > Makua-Lomwe > Makhuwa-Moniga"
 wikipedia_url: "https://en.wikipedia.org/wiki/Moniga_language"
 translations:
+  - translation_iso: jpn
+    name: マクワ・モニガ語
+    auto: true
   - translation_iso: zho
     name: 马库瓦-莫尼加语
     auto: true

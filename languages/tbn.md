@@ -14,6 +14,9 @@ glottolog_family_id: chib1249
 glottolog_family_name: Chibchan
 glottolog_classification: "Chibchan > Core Chibchan > Magdalenic > Southern Magdalenic > Tunebo > Barro Negro Tunebo"
 translations:
+  - translation_iso: jpn
+    name: バロネグロ・トゥネボ語
+    auto: true
   - translation_iso: zho
     name: 巴罗内格罗图内博语
     auto: true

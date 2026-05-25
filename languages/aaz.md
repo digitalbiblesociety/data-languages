@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Timor-Babar > Rote-Meto > West Rote > Dengka-Meto > Meto > Amarasi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Amarasi_language"
 translations:
+  - translation_iso: jpn
+    name: アマラシ語
+    auto: true
   - translation_iso: zho
     name: 阿马拉西语
     auto: true

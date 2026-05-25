@@ -15,6 +15,9 @@ glottolog_family_name: Iwaidjan Proper
 glottolog_classification: "Iwaidjan Proper > Mawng"
 wikipedia_url: "https://en.wikipedia.org/wiki/Maung_language"
 translations:
+  - translation_iso: jpn
+    name: マウン語
+    auto: true
   - translation_iso: kor
     name: 마웅어
   - translation_iso: zho

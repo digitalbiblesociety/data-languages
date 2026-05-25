@@ -15,6 +15,9 @@ glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Bodic > West Himalayish > Western West Himalayish > Kinnauric > Thebor > Jangshung"
 wikipedia_url: "https://en.wikipedia.org/wiki/Jangshung_language"
 translations:
+  - translation_iso: jpn
+    name: ジャングシュン語
+    auto: true
   - translation_iso: zho
     name: 降松语
     auto: true

@@ -13,6 +13,9 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > North New Guinea linkage > Huon Gulf > Markham > Upper Markham > Mountain Upper Markham > Sukurum"
 translations:
+  - translation_iso: jpn
+    name: スクルム語
+    auto: true
   - translation_iso: zho
     name: 苏库鲁姆语
     auto: true

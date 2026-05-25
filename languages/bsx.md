@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Benue-Congo Plateau > Tarokoid > Yangkam-Tarok-Pe > Yangkam"
 wikipedia_url: "https://en.wikipedia.org/wiki/Yangkam_language"
 translations:
+  - translation_iso: jpn
+    name: ヤングカム語
+    auto: true
   - translation_iso: zho
     name: 扬卡姆语
     auto: true

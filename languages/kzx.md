@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Nunusaku > Piru Bay > East Piru Bay > Solehua > Seram Straits > Uliase > Kamarian"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kamarian_language"
 translations:
+  - translation_iso: jpn
+    name: カマリアン語
+    auto: true
   - translation_iso: zho
     name: 卡马里亚语
     auto: true

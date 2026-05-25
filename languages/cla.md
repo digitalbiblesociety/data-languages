@@ -15,6 +15,9 @@ glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > West Chadic > West Chadic A > West Chadic A.4 > Ronic > Ron"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ron_language"
 translations:
+  - translation_iso: jpn
+    name: ロン語
+    auto: true
   - translation_iso: kor
     name: 론어
   - translation_iso: zho

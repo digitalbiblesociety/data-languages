@@ -14,6 +14,9 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > North-Central Atlantic > Central Atlantic > Bak > Joola-Manjaku > Jola > FH-Jola > PF-Jola > Her-Ejamat > Keerak"
 translations:
+  - translation_iso: jpn
+    name: ケラク語
+    auto: true
   - translation_iso: zho
     name: 克拉克语
     auto: true

@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Kwa Volta-Congo > Ka-Togo > Kebu-Animere > Animere"
 wikipedia_url: "https://en.wikipedia.org/wiki/Animere_language"
 translations:
+  - translation_iso: jpn
+    name: アニメレ語
+    auto: true
   - translation_iso: zho
     name: 阿尼梅雷语
     auto: true

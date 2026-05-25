@@ -14,6 +14,9 @@ glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Burmo-Qiangic > Lolo-Burmese > Loloish > Ni-Li-Kazhouish > Lisoid > Lipo-Lolopo > Unclassified Lipo-Lolopo > Southwestern Lolo > Southern Lolopo"
 translations:
+  - translation_iso: jpn
+    name: サザンロロポ語
+    auto: true
   - translation_iso: zho
     name: 南洛罗波语
     auto: true

@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > North New Guinea linkage > Sarmi-Jayapura Bay > Sarmi > Sobeic > Sobei-Liki > Liki"
 wikipedia_url: "https://en.wikipedia.org/wiki/Liki_language"
 translations:
+  - translation_iso: jpn
+    name: リキ語
+    auto: true
   - translation_iso: zho
     name: 利基语
     auto: true

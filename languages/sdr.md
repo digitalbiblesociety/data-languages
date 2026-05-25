@@ -14,6 +14,9 @@ glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Indo-Aryan > Middle-Modern Indo-Aryan > Continental Indo-Aryan > Midlands Indo-Aryan > Shaurasenic > Bihari > Magadhan > Sadanic > Sadri-Panchpargania > India-Nepal-Bangladesh Sadri > Oraon Sadri"
 translations:
+  - translation_iso: jpn
+    name: ナグプリ語
+    auto: true
   - translation_iso: zho
     name: 奥腊翁萨德里语
     auto: true

@@ -15,6 +15,9 @@ glottolog_family_name: Unclassifiable
 glottolog_classification: "Unclassifiable > Kambiwá"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kambiw%C3%A1_language"
 translations:
+  - translation_iso: jpn
+    name: カンビワ語
+    auto: true
   - translation_iso: zho
     name: 坎比瓦语
     auto: true

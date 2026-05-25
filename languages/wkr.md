@@ -7,6 +7,9 @@ country_id: AU
 country_name: Australia
 status_id: null
 translations:
+  - translation_iso: jpn
+    name: キーレイ・ウーロング語
+    auto: true
   - translation_iso: zho
     name: 基尔雷-乌隆语
     auto: true

@@ -15,6 +15,9 @@ glottolog_family_name: Lepki-Murkim-Kembra
 glottolog_classification: "Lepki-Murkim-Kembra > Kembra"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kembra_language"
 translations:
+  - translation_iso: jpn
+    name: ケンブラ語
+    auto: true
   - translation_iso: zho
     name: 肯布拉语
     auto: true
