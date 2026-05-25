@@ -1,8 +1,6 @@
 ---
 iso: cga
 name: Changriwa
-name_zh: 昌日瓦语
-name_zh_auto: true
 autonym: null
 population: 690
 country_id: PG
@@ -15,5 +13,9 @@ glottolog_family_id: yuat1252
 glottolog_family_name: Yuat
 glottolog_classification: "Yuat > Changriwa"
 wikipedia_url: "https://en.wikipedia.org/wiki/Changriwa_language"
+translations:
+  - translation_iso: zho
+    name: 昌日瓦语
+    auto: true
 ---
 Changriwa is a Yuat language of Papua New Guinea. It is spoken in Changriwa village, Angoram/Middle Sepik Rural LLG, East Sepik Province.

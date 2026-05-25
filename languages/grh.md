@@ -1,8 +1,6 @@
 ---
 iso: grh
 name: "Gbiri-Niragu"
-name_zh: 吉比里-尼拉古语
-name_zh_auto: true
 autonym: "Gure-Kahugu"
 population: 25000
 country_id: NG
@@ -15,6 +13,10 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Kainji > Central Kainji > Basa-Eastern Kainji > Eastern Kainji > Jos > Kauru > Gbiri-Niragu"
 wikipedia_url: "https://en.wikipedia.org/wiki/Gbiri-Niragu_language"
+translations:
+  - translation_iso: zho
+    name: 吉比里-尼拉古语
+    auto: true
 rolv_dialects:
   - rolv_code: 2537
     language_tag: grh-x-HIS02537

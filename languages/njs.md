@@ -1,8 +1,6 @@
 ---
 iso: njs
 name: Nisa
-name_zh: 尼萨语
-name_zh_auto: true
 autonym: "Nisa-Anasi"
 alt_names: [Bonefa, Kerema]
 population: 500
@@ -16,6 +14,10 @@ glottolog_family_id: geel1240
 glottolog_family_name: Geelvink Bay
 glottolog_classification: "Geelvink Bay > Nisa-Anasi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Nisa_language"
+translations:
+  - translation_iso: zho
+    name: 尼萨语
+    auto: true
 rolv_dialects:
   - rolv_code: 657
     language_tag: njs-x-HIS00657

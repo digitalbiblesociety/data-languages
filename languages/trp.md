@@ -1,7 +1,6 @@
 ---
 iso: trp
 name: Kok Borok
-name_zh: 科克博罗克语
 autonym: Tripuri
 alt_names: [Język kokborok, Kakbarak, Kokbarak, Kokborok, Kokborok language, Lenga Kok Borok, Lingua Kokborok, Tipura, Tripura, Usipi, Usipi Mrung, ককবরক ভাষা, ภาษากอกบอรอก]
 population: 958000
@@ -15,6 +14,17 @@ glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Brahmaputran > Bodo-Garo > Boroic > Dimasa-Kokborok > Tipperic > Kok Borok"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kokborok"
+translations:
+  - translation_iso: ara
+    name: كوكبوروك
+  - translation_iso: hin
+    name: कोक बोरोक भाषा
+  - translation_iso: jpn
+    name: コクバラ語
+  - translation_iso: kor
+    name: 콕보록어
+  - translation_iso: zho
+    name: 科克博罗克语
 rolv_dialects:
   - rolv_code: 760
     language_tag: trp-x-HIS00760

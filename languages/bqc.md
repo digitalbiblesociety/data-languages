@@ -1,8 +1,6 @@
 ---
 iso: bqc
 name: Boko (Benin)
-name_zh: 博科语（贝宁）
-name_zh_auto: true
 autonym: Bokonya
 alt_names: [Bokko, Boko, Boo, Busa, Busa-Boko]
 population: 150000
@@ -16,6 +14,12 @@ glottolog_family_id: mand1469
 glottolog_family_name: Mande
 glottolog_classification: "Mande > Eastern Mande > Bisa-Busa > Samo-Busa > Busan > Boko-Busa > Boko (Benin)"
 wikipedia_url: "https://en.wikipedia.org/wiki/Boko_language"
+translations:
+  - translation_iso: jpn
+    name: ボコ
+  - translation_iso: zho
+    name: 博科语（贝宁）
+    auto: true
 rolv_dialects:
   - rolv_code: 2058
     language_tag: bqc-x-HIS02058

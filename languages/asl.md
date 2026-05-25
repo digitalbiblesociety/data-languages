@@ -1,8 +1,6 @@
 ---
 iso: asl
 name: Asilulu
-name_zh: 阿西卢卢语
-name_zh_auto: true
 autonym: null
 population: 8760
 country_id: ID
@@ -15,6 +13,10 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Nunusaku > Piru Bay > West Piru Bay > Asilulu"
 wikipedia_url: "https://en.wikipedia.org/wiki/Asilulu_language"
+translations:
+  - translation_iso: zho
+    name: 阿西卢卢语
+    auto: true
 rolv_dialects:
   - rolv_code: 7280
     language_tag: asl-x-HIS07280

@@ -1,8 +1,6 @@
 ---
 iso: loh
 name: Narim
-name_zh: 纳里姆语
-name_zh_auto: true
 autonym: Narim
 alt_names: [Laarim, Lariim, Larim, Lariminit, Larimo, Longarim, Nariim]
 population: 3620
@@ -16,5 +14,9 @@ glottolog_family_id: surm1244
 glottolog_family_name: Surmic
 glottolog_classification: "Surmic > South Surmic > Southwest Surmic > Didinga-Murle > Didinga-Longarim > Narim"
 wikipedia_url: "https://en.wikipedia.org/wiki/Laarim_language"
+translations:
+  - translation_iso: zho
+    name: 纳里姆语
+    auto: true
 ---
 Laarim or Narim is a Surmic language spoken by the Laarim people of the Laarim Hills of South Sudan.

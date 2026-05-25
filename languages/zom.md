@@ -1,8 +1,6 @@
 ---
 iso: zom
 name: Zou
-name_zh: 祖语
-name_zh_auto: true
 autonym: " Zomi"
 alt_names: [Jo, Kuki Chin, Zo, Zome, Zomeg, Zorni, ဇိုမီး]
 population: 87500
@@ -16,5 +14,11 @@ glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Kuki-Chin-Naga > Kuki-Chin > Peripheral Kuki-Chin > Northeastern Kuki-Chin > Sizangic > Zou"
 wikipedia_url: "https://en.wikipedia.org/wiki/Zou_language"
+translations:
+  - translation_iso: jpn
+    name: ゾウ語
+  - translation_iso: zho
+    name: 祖语
+    auto: true
 ---
 Zou is a language of the Northeastern branch of Kuki-Chin languages originating in western Burma and spoken also in Mizoram and Manipur in northeastern India.

@@ -1,7 +1,6 @@
 ---
 iso: mpz
 name: Mpi
-name_zh: 姆毕语
 autonym: Kaw
 alt_names: [Mpi-Mi]
 population: 1500
@@ -15,6 +14,9 @@ glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Burmo-Qiangic > Lolo-Burmese > Loloish > Hani-Jino > Bisoid-Hanic > Hanic > Bi-Ka > Mpi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mpi_language"
+translations:
+  - translation_iso: zho
+    name: 姆毕语
 rolv_dialects:
   - rolv_code: 25235
     language_tag: mpz-x-HIS25235

@@ -1,7 +1,6 @@
 ---
 iso: heb
 name: Hebrew
-name_zh: 希伯来语
 autonym: Israeli Hebrew
 alt_names: [Hebrew (Modern Ashenazic), Hebrew (Modern), Hebrew (modern Ashkenazic), Ivrit, Modern Hebrew, hébreu]
 population: 5000000
@@ -16,6 +15,17 @@ glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Semitic > West Semitic > Central Semitic > Northwest Semitic > Canaanite > Hebrewic > Modern Hebrew"
 wikipedia_url: "https://en.wikipedia.org/wiki/Modern_Hebrew"
+translations:
+  - translation_iso: ara
+    name: العبرية الحديثة
+  - translation_iso: hin
+    name: इब्रानी भाषा
+  - translation_iso: jpn
+    name: 現代ヘブライ語
+  - translation_iso: kor
+    name: 현대 이스라엘 히브리어
+  - translation_iso: zho
+    name: 希伯来语
 rolv_dialects:
   - rolv_code: 10609
     language_tag: he-x-HIS10609

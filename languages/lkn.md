@@ -1,8 +1,6 @@
 ---
 iso: lkn
 name: Lakon
-name_zh: 拉孔语
-name_zh_auto: true
 autonym: Vure
 alt_names: [Banks-Inseln, Gaua, Gog, Lakona, Vurē]
 population: 700
@@ -16,6 +14,10 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > North and Central Vanuatu > Northern Vanuatu > Torres-Banks linkage > Koto-Olrat-Lakon > Lakon"
 wikipedia_url: "https://en.wikipedia.org/wiki/Lakon_language"
+translations:
+  - translation_iso: zho
+    name: 拉孔语
+    auto: true
 rolv_dialects:
   - rolv_code: 27209
     language_tag: lkn-x-HIS27209

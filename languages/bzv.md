@@ -1,8 +1,6 @@
 ---
 iso: bzv
 name: Naami
-name_zh: 纳阿米语
-name_zh_auto: true
 autonym: Naami
 alt_names: [Bebe, Yi Be Wu]
 population: 2500
@@ -16,6 +14,10 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Beboid > Eastern Beboid > Bebe-Kemezung > Bebe"
 wikipedia_url: "https://en.wikipedia.org/wiki/Bebe_language"
+translations:
+  - translation_iso: zho
+    name: 纳阿米语
+    auto: true
 rolv_dialects:
   - rolv_code: 24587
     language_tag: bzv-x-HIS24587

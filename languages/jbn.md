@@ -1,7 +1,6 @@
 ---
 iso: jbn
 name: Nafusi
-name_zh: 納夫西語
 autonym: Ažbali Mazoɣ
 alt_names: [Berber, Djerbi, Jabal Nafusi, Jabal Nafūsa, Jabal nafusah, Jbel Nafusi, Jebel Nefusi, Lenga Nafusi, Lingua nefusi, Nafouseg, Nafusi jezik, Nefousi, Nefusi, Shilha, Tamazight, Taujjut, Tunisian Berber]
 population: 283000
@@ -15,6 +14,13 @@ glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Berber > Nafusi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Nafusi_language"
+translations:
+  - translation_iso: ara
+    name: لغة نفوسي
+  - translation_iso: jpn
+    name: ナフサ語
+  - translation_iso: zho
+    name: 納夫西語
 rolv_dialects:
   - rolv_code: 14504
     language_tag: jbn-x-HIS14504

@@ -1,8 +1,6 @@
 ---
 iso: piw
 name: Pimbwe
-name_zh: 平布韦语
-name_zh_auto: true
 autonym: Cipimbwe
 alt_names: [Ichipimbwe, Kipimbwe]
 population: 12000
@@ -16,6 +14,10 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > East Bantu > Corridor Bantu > Mbozi > Mwika > Pimbwe"
 wikipedia_url: "https://en.wikipedia.org/wiki/Pimbwe_language"
+translations:
+  - translation_iso: zho
+    name: 平布韦语
+    auto: true
 rolv_dialects:
   - rolv_code: 30621
     language_tag: piw-x-HIS30621

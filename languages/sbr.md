@@ -1,8 +1,6 @@
 ---
 iso: sbr
 name: Sembakung Murut
-name_zh: 森巴昆格穆鲁特语
-name_zh_auto: true
 autonym: Tidong
 alt_names: [Sembakoeng, Sembakong, Simbakong, Tidoeng, Tidung, Tingalun, Tinggalan, Tinggalum]
 population: 3200
@@ -16,5 +14,9 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > North Borneo Malayo-Polynesian > Sabahan > Southwest Sabahan > Greater Murutic > Murutic > Eastern Murutic > Selungai-Sembakung Murut > Sembakung Murut"
 wikipedia_url: "https://en.wikipedia.org/wiki/Sembakung_language"
+translations:
+  - translation_iso: zho
+    name: 森巴昆格穆鲁特语
+    auto: true
 ---
 Sembakung Murut, or Sembakung, and also known as Tinggalan, is one of several Sabahan languages of Borneo spoken by the Tidong people.

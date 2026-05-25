@@ -1,8 +1,6 @@
 ---
 iso: hoa
 name: Hoava
-name_zh: 霍阿瓦语
-name_zh_auto: true
 autonym: null
 alt_names: [Hoava-Kusaghe]
 population: 460
@@ -16,5 +14,9 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > Meso Melanesian linkage > New Ireland-Northwest Solomonic linkage > St George linkage > Northwest Solomonic > New Georgia > East New Georgia > Rovianic > Hoava-Kusaghe > Hoava"
 wikipedia_url: "https://en.wikipedia.org/wiki/Hoava_language"
+translations:
+  - translation_iso: zho
+    name: 霍阿瓦语
+    auto: true
 ---
 Hoava is an Oceanic language spoken by 1000–1500 people on New Georgia Island, Solomon Islands. Speakers of Hoava are multilingual and usually also speak Roviana, Marovo, Solomon Islands Pijin, English.

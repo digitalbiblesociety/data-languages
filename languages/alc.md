@@ -1,8 +1,6 @@
 ---
 iso: alc
 name: Qawasqar
-name_zh: 卡瓦斯卡尔语
-name_zh_auto: true
 autonym: Alacaluf
 alt_names: [Aksánas, Alacalufe, Alakaluf, Central Alacaluf, Halakwalip, Halakwalup, Halakwulup, Hekaine, Idioma kawésqar, Kahuéskar, Kawashkar, Kawaskar, Kawaskareg, Kaweskar, Kaweskar language area, Kawesqar, Kawéskar, Kawésqar, Kawésqar language, Lenga qawasqar, Língua kawésqar, Northern Alacaluf, Pecheré, Qawashqar, Qawasqar jezik, Southern Alacaluf]
 population: 2622
@@ -16,5 +14,11 @@ glottolog_family_id: kawe1237
 glottolog_family_name: Kawesqar
 glottolog_classification: "Kawesqar > North Central Alacufan > Qawasqar"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kaw%C3%A9sqar_language"
+translations:
+  - translation_iso: jpn
+    name: カウェスカル語
+  - translation_iso: zho
+    name: 卡瓦斯卡尔语
+    auto: true
 ---
 Kawésqar (Qawasqar), also known as Alacaluf, is a critically endangered Alacalufan language spoken in southern Chile by the Kawésqar people. Originally part of a small family, only the northern language remains. In 2009, only a handful of elderly people spoke the language, most of whom lived on Wellington Island off the southwest coast of Chile.

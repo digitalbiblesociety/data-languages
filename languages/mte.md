@@ -1,7 +1,6 @@
 ---
 iso: mte
 name: Mono (Solomon Islands)
-name_zh: 大洋洲莫諾語
 autonym: "Mono-Alu"
 alt_names: [Alu, Mono, Mono Alu]
 population: 2266
@@ -15,6 +14,9 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > Meso Melanesian linkage > New Ireland-Northwest Solomonic linkage > St George linkage > Northwest Solomonic > Mono-Uruavan > Mono-Alu"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mono-Alu_language"
+translations:
+  - translation_iso: zho
+    name: 大洋洲莫諾語
 rolv_dialects:
   - rolv_code: 3616
     language_tag: mte-x-HIS03616

@@ -1,7 +1,6 @@
 ---
 iso: bis
 name: Bislama
-name_zh: 比斯拉马语
 autonym: Bichelamar
 population: 12570
 country_id: VU
@@ -15,6 +14,17 @@ glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Germanic > Northwest Germanic > West Germanic > North Sea Germanic > Anglo-Frisian > Anglic > Later Anglic > Middle-Modern English > Macro-English > Pacific Creole English > Early Melanesian Pidgin > Bislama"
 wikipedia_url: "https://en.wikipedia.org/wiki/Bislama"
+translations:
+  - translation_iso: ara
+    name: لغة بسلاما
+  - translation_iso: hin
+    name: बिस्लामा
+  - translation_iso: jpn
+    name: ビスラマ語
+  - translation_iso: kor
+    name: 비슬라마어
+  - translation_iso: zho
+    name: 比斯拉马语
 rolv_dialects:
   - rolv_code: 30395
     language_tag: bi-x-HIS30395

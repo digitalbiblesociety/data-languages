@@ -1,8 +1,6 @@
 ---
 iso: udu
 name: Uduk
-name_zh: 乌杜克语
-name_zh_auto: true
 autonym: "T'wampa"
 alt_names: [Burun, Kebeirka, Korara, Kumus, Kwanim Pa, Othan, Twampa]
 population: 22000
@@ -16,6 +14,10 @@ glottolog_family_id: koma1264
 glottolog_family_name: Koman
 glottolog_classification: "Koman > Central Koman > Komo-Uduk > Uduk"
 wikipedia_url: "https://en.wikipedia.org/wiki/Uduk_language"
+translations:
+  - translation_iso: zho
+    name: 乌杜克语
+    auto: true
 rolv_dialects:
   - rolv_code: 29488
     language_tag: udu-x-HIS29488

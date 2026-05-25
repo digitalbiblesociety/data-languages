@@ -1,7 +1,6 @@
 ---
 iso: abd
 name: Manide
-name_zh: 曼尼德語
 autonym: Camarines Norte Agta
 alt_names: [Agiyan, Agta, Agta de Camarines Norte, Agta de Camarines-nord, "Agta, Camarines Norte", Camarines Norte]
 population: 150
@@ -15,5 +14,8 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Greater Central Philippine > Central Philippine > Alabat-Manide Agta > Camarines Norte Agta"
 wikipedia_url: "https://en.wikipedia.org/wiki/Manide_language"
+translations:
+  - translation_iso: zho
+    name: 曼尼德語
 ---
 Manide is a Philippine language spoken throughout the province of Camarines Norte in Bicol region and near the eastern edge of Quezon in Southern Tagalog of southern Luzon in the Philippines. Manide is spoken by nearly 4,000 Negrito people, most of whom reside in the towns of Labo, Jose Panganiban, and Paracale.

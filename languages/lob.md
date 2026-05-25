@@ -1,8 +1,6 @@
 ---
 iso: lob
 name: Lobi
-name_zh: 洛比语
-name_zh_auto: true
 autonym: Lobiri
 alt_names: [Miwa]
 population: 490000
@@ -16,6 +14,12 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Gur > Central Gur > Southern Central Gur > Lobiri-Jaane > Lobi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Lobi_language"
+translations:
+  - translation_iso: jpn
+    name: ロビ語
+  - translation_iso: zho
+    name: 洛比语
+    auto: true
 rolv_dialects:
   - rolv_code: 13022
     language_tag: lob-x-HIS13022

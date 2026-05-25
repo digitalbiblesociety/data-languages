@@ -1,8 +1,6 @@
 ---
 iso: kaq
 name: Capanahua
-name_zh: 卡潘瓦乌阿语
-name_zh_auto: true
 autonym: Noquen hihbaan joi
 alt_names: [Kapanawa]
 population: 380
@@ -16,6 +14,10 @@ glottolog_family_id: pano1259
 glottolog_family_name: Pano-Tacanan
 glottolog_classification: "Pano-Tacanan > Panoan > Mainline Pano > Pano Nawa > Chama subgroup > Shipibo-Konibo-Kapanawa > Capanahua"
 wikipedia_url: "https://en.wikipedia.org/wiki/Capanahua_language"
+translations:
+  - translation_iso: zho
+    name: 卡潘瓦乌阿语
+    auto: true
 rolv_dialects:
   - rolv_code: 8632
     language_tag: kaq-x-HIS08632

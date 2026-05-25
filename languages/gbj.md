@@ -1,7 +1,6 @@
 ---
 iso: gbj
 name: Bodo Gadaba
-name_zh: 古托布语
 autonym: Bodo Gadaba
 alt_names: [Bodo, Bodo-Gadaba, Boi Gadaba, Gadaba, "Gadaba, Bodo", Gadabeg, Gadba, Gadwa, Godwa, Goutob, Gudwa, Gutob, Gutob language, Gutop, Sodia]
 population: 8000
@@ -15,6 +14,13 @@ glottolog_family_id: aust1305
 glottolog_family_name: Austroasiatic
 glottolog_classification: "Austroasiatic > Mundaic > Gutob-Remo > Bodo Gadaba"
 wikipedia_url: "https://en.wikipedia.org/wiki/Gutob_language"
+translations:
+  - translation_iso: hin
+    name: गुटोब भाषा
+  - translation_iso: jpn
+    name: ガダバ語
+  - translation_iso: zho
+    name: 古托布语
 rolv_dialects:
   - rolv_code: 24940
     language_tag: gbj-x-HIS24940

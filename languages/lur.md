@@ -1,8 +1,6 @@
 ---
 iso: lur
 name: Laura
-name_zh: 劳拉语
-name_zh_auto: true
 autonym: West Sumbanese
 population: 10000
 country_id: ID
@@ -10,6 +8,10 @@ country_name: Indonesia
 status_id: 6a
 latitude: -9.4296
 longitude: 119.19031
+translations:
+  - translation_iso: zho
+    name: 劳拉语
+    auto: true
 rolv_dialects:
   - rolv_code: 12790
     language_tag: lur-x-HIS12790

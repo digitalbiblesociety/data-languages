@@ -1,8 +1,6 @@
 ---
 iso: nvh
 name: Nasarian
-name_zh: 纳萨里亚语
-name_zh_auto: true
 autonym: null
 alt_names: [Mallicolo, Nasariano]
 population: null
@@ -16,6 +14,10 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > North and Central Vanuatu > Central Vanuatu > Malakula > Western Malakula linkage > Peripheral Western Malakula > Southwestern Malakula > Nasarian"
 wikipedia_url: "https://en.wikipedia.org/wiki/Nasarian_language"
+translations:
+  - translation_iso: zho
+    name: 纳萨里亚语
+    auto: true
 rolv_dialects:
   - rolv_code: 30826
     language_tag: nvh-x-HIS30826

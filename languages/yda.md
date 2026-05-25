@@ -1,8 +1,6 @@
 ---
 iso: yda
 name: Yanda
-name_zh: 扬达语
-name_zh_auto: true
 autonym: Janda
 alt_names: [Yunda]
 population: null
@@ -16,5 +14,9 @@ glottolog_family_id: pama1250
 glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > Greater Maric > Guwa-Maric > Guwa-Yanda > Yanda"
 wikipedia_url: "https://en.wikipedia.org/wiki/Yanda_language"
+translations:
+  - translation_iso: zho
+    name: 扬达语
+    auto: true
 ---
 Yanda is an extinct and poorly attested Australian Aboriginal language of Queensland, known from a single wordlist from 1886. It was apparently close to Guwa.

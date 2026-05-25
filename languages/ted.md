@@ -1,8 +1,6 @@
 ---
 iso: ted
 name: Tepo Krumen
-name_zh: 特波克鲁门语
-name_zh_auto: true
 autonym: Kroumen
 alt_names: [Kru, Krumen, "Krumen, Tepo", Southern Krumen, Southwestern Kroumen]
 population: 33910
@@ -15,6 +13,10 @@ glottocode: tepo1239
 glottolog_family_id: krua1234
 glottolog_family_name: Kru
 glottolog_classification: "Kru > Greater Western Kru > Western Kru > Grebo-Aizi > Grebo > Ivorian Grebo > Tepo-Plapo > Tepo Krumen"
+translations:
+  - translation_iso: zho
+    name: 特波克鲁门语
+    auto: true
 rolv_dialects:
   - rolv_code: 12365
     language_tag: ted-x-HIS12365

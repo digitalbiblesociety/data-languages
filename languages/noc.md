@@ -1,8 +1,6 @@
 ---
 iso: noc
 name: Nuk
-name_zh: 努克语
-name_zh_auto: true
 autonym: null
 population: 1010
 country_id: PG
@@ -15,6 +13,10 @@ glottolog_family_id: nucl1709
 glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Finisterre-Huon > Finisterre-Saruwaged > Erap > Boana > Nek-Nuk > Nuk"
 wikipedia_url: "https://en.wikipedia.org/wiki/Nuk_language"
+translations:
+  - translation_iso: zho
+    name: 努克语
+    auto: true
 rolv_dialects:
   - rolv_code: 15099
     language_tag: noc-x-HIS15099

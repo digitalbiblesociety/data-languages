@@ -1,8 +1,6 @@
 ---
 iso: xte
 name: Ketengban
-name_zh: 克腾班语
-name_zh_auto: true
 autonym: Oktengban
 alt_names: [Kupel]
 population: 9970
@@ -16,6 +14,10 @@ glottolog_family_id: nucl1709
 glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Mek > Eastern Mek > Ketengban"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ketengban_language"
+translations:
+  - translation_iso: zho
+    name: 克腾班语
+    auto: true
 rolv_dialects:
   - rolv_code: 11891
     language_tag: xte-x-HIS11891

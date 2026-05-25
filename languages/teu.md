@@ -1,8 +1,6 @@
 ---
 iso: teu
 name: Soo
-name_zh: 索奥语
-name_zh_auto: true
 autonym: Tepes
 alt_names: [So, Tepeth]
 population: 21534
@@ -16,6 +14,12 @@ glottolog_family_id: kuli1252
 glottolog_family_name: Kuliak
 glottolog_classification: "Kuliak > Ngangea-So > Soo"
 wikipedia_url: "https://en.wikipedia.org/wiki/Soo_language"
+translations:
+  - translation_iso: jpn
+    name: ソ語
+  - translation_iso: zho
+    name: 索奥语
+    auto: true
 rolv_dialects:
   - rolv_code: 25524
     language_tag: teu-x-HIS25524

@@ -1,8 +1,6 @@
 ---
 iso: pux
 name: Puare
-name_zh: 普阿雷语
-name_zh_auto: true
 autonym: Bkwala
 alt_names: [Puari]
 population: 35
@@ -16,5 +14,9 @@ glottolog_family_id: skoo1245
 glottolog_family_name: Sko
 glottolog_classification: "Sko > Skou-Serra-Piore > Serra Hills > Puare"
 wikipedia_url: "https://en.wikipedia.org/wiki/Puari_language"
+translations:
+  - translation_iso: zho
+    name: 普阿雷语
+    auto: true
 ---
 Puare (Puari) is a nearly extinct Papuan language of Papua New Guinea.

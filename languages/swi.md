@@ -1,7 +1,6 @@
 ---
 iso: swi
 name: Sui
-name_zh: 水语
 autonym: Suī
 alt_names: [Ai Sui, Shui, Sui Li, Suipo, ภาษาสุ่ย, 水語]
 population: 300120
@@ -15,6 +14,13 @@ glottolog_family_id: taik1256
 glottolog_family_name: Tai-Kadai
 glottolog_classification: "Tai-Kadai > Kam-Tai > Kam-Sui > Then-MMS > Maonan-Mak-Sui > Sui"
 wikipedia_url: "https://en.wikipedia.org/wiki/Sui_language"
+translations:
+  - translation_iso: jpn
+    name: スイ語
+  - translation_iso: kor
+    name: 수이어
+  - translation_iso: zho
+    name: 水语
 rolv_dialects:
   - rolv_code: 6251
     language_tag: swi-x-HIS06251

@@ -1,8 +1,6 @@
 ---
 iso: not
 name: Nomatsiguenga
-name_zh: 诺玛齐古恩加语
-name_zh_auto: true
 autonym: inato
 alt_names: ["\"Nomatsiguenga Campa\"", Atiri, Campa, Machinguenga, "Nomachiguenga: Atiri", Nomatsigenga, Nomatsiguenga Campa]
 population: 8020
@@ -16,5 +14,11 @@ glottolog_family_id: araw1281
 glottolog_family_name: Arawakan
 glottolog_classification: "Arawakan > Southern Maipuran > Kampa-Amuesha > Pre-Andine Maipuran > Nomatsiguenga"
 wikipedia_url: "https://en.wikipedia.org/wiki/Nomatsiguenga_language"
+translations:
+  - translation_iso: jpn
+    name: ノマツィゲンガ語
+  - translation_iso: zho
+    name: 诺玛齐古恩加语
+    auto: true
 ---
 Nomatsiguenga (Matsigenka) is an Arawakan language of Peru. It is close enough to Machiguenga to sometimes be considered dialects of a single language, especially given that both are spoken by the Machiguenga people. Most speakers are monolingual.

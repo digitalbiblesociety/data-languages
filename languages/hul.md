@@ -1,8 +1,6 @@
 ---
 iso: hul
 name: Hula
-name_zh: 胡拉语
-name_zh_auto: true
 autonym: "Vula'a"
 alt_names: [Vulaa]
 population: 3240
@@ -16,6 +14,10 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > Papuan Tip linkage > Peripheral Papuan Tip linkage > Central Papuan Oceanic > Sinagoro-Keapara > Hula-Keapara > Hula"
 wikipedia_url: "https://en.wikipedia.org/wiki/Hula_language"
+translations:
+  - translation_iso: zho
+    name: 胡拉语
+    auto: true
 rolv_dialects:
   - rolv_code: 4410
     language_tag: hul-x-HIS04410

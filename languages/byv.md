@@ -1,7 +1,6 @@
 ---
 iso: byv
 name: Medumba
-name_zh: 梅敦巴语
 autonym: Bangangte
 alt_names: [Bagangte, Bamileke-Medumba]
 population: 210000
@@ -16,6 +15,15 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Wide Grassfields > Narrow Grassfields > Mbam-Nkam > Southern Mbam-Nkam > Bamileke > East Bamileke > Medumba"
 wikipedia_url: "https://en.wikipedia.org/wiki/Medumba_language"
+translations:
+  - translation_iso: ara
+    name: لغة الميدومبا
+  - translation_iso: jpn
+    name: メドゥンバ語
+  - translation_iso: kor
+    name: 메둠바어
+  - translation_iso: zho
+    name: 梅敦巴语
 rolv_dialects:
   - rolv_code: 13953
     language_tag: byv-x-HIS13953

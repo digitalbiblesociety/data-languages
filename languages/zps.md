@@ -1,7 +1,6 @@
 ---
 iso: zps
 name: Coatlán Zapotec
-name_zh: Coatlán Zapotec語
 autonym: (Santo Domingo Coatlán)
 alt_names: [Coatec Zapotec, Coatlan Zapotec, Coatlán-Loxicha Zapotec (non-preferred), Miahuatec, Miahuatlan, San Miguel Zapotec, Southern Mountain Zapotec, Southern Sapoteko, Western Miahuatlán Zapotec, Zapotec, "Zapotec, Coatlán", Zapoteco de Asunción Tlacolulita, Zapoteco de Santa María Coatlán, "Zapotèque d'Asunción Tlacolulita"]
 population: 500
@@ -15,5 +14,8 @@ glottolog_family_id: otom1299
 glottolog_family_name: Otomanguean
 glottolog_classification: "Otomanguean > Eastern Otomanguean > Popoloca-Zapotecan > Zapotecan > Zapotec > Core Zapotec > Macrocoatecano > Coatecano > Coatlan-Loxicha Zapotec > Coatlán Zapotec"
 wikipedia_url: "https://en.wikipedia.org/wiki/Santo_Domingo_Coatl%C3%A1n_Zapotec"
+translations:
+  - translation_iso: zho
+    name: Coatlán Zapotec語
 ---
 Coatlán Zapotec is a Zapotec language spoken in southern Oaxaca, Mexico. It uses linguolabial sounds as onomatopoeia.

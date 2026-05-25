@@ -1,8 +1,6 @@
 ---
 iso: fuy
 name: Fuyug
-name_zh: 富尤格语
-name_zh_auto: true
 autonym: Fuyuge
 alt_names: [Fuyughe, Mafufu, Mafulu]
 population: 14000
@@ -13,6 +11,10 @@ latitude: -8.6371
 longitude: 147.31162
 glottocode: fuyu1242
 wikipedia_url: "https://en.wikipedia.org/wiki/Fuyug_language"
+translations:
+  - translation_iso: zho
+    name: 富尤格语
+    auto: true
 rolv_dialects:
   - rolv_code: 539
     language_tag: fuy-x-HIS00539

@@ -1,8 +1,6 @@
 ---
 iso: rab
 name: Camling
-name_zh: 卡姆林语
-name_zh_auto: true
 autonym: Rodong
 alt_names: [Camling jezik, Camlingish, Chamling, Chamlinge Rai, Chamlingo, Chāmbling, Kiranti, Rai, Rōdōng]
 population: 12100
@@ -16,5 +14,9 @@ glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Himalayish > Mahakiranti > Kiranti > Eastern Kiranti > Southern Kiranti > Camling"
 wikipedia_url: "https://en.wikipedia.org/wiki/Chamling_language"
+translations:
+  - translation_iso: zho
+    name: 卡姆林语
+    auto: true
 ---
 Chamling is one of the Kirati languages spoken by the Chamling people, a subgroup of the Kirat of Nepal, India and Bhutan. Alternate renderings and names include Chamling, Chamlinge and Rodong. It is closely related to the Bantawa and Puma languages of the Kiranti language family in eastern Nepal, and it belongs to the broader Sino-Tibetan language family. Chamling has SOV word order.

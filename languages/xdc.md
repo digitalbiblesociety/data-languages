@@ -1,7 +1,6 @@
 ---
 iso: xdc
 name: Dacian
-name_zh: 达契亚语
 autonym: null
 population: null
 country_id: RO
@@ -14,5 +13,12 @@ glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Unclassified Indo-European > Dacian"
 wikipedia_url: "https://en.wikipedia.org/wiki/Dacian_language"
+translations:
+  - translation_iso: jpn
+    name: ダキア語
+  - translation_iso: kor
+    name: 다키아어
+  - translation_iso: zho
+    name: 达契亚语
 ---
 Dacian is an extinct language generally believed to be a member of the Indo-European language family that was spoken in the ancient region of Dacia.

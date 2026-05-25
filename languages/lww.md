@@ -1,8 +1,6 @@
 ---
 iso: lww
 name: Lewo
-name_zh: 勒沃语
-name_zh_auto: true
 autonym: Varsu
 population: 2200
 country_id: VU
@@ -15,6 +13,12 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > North and Central Vanuatu > Central Vanuatu > Epi-Efate > Epi > Lamenu-Lewo > Lewo"
 wikipedia_url: "https://en.wikipedia.org/wiki/Lewo_language"
+translations:
+  - translation_iso: jpn
+    name: レウォ語
+  - translation_iso: zho
+    name: 勒沃语
+    auto: true
 rolv_dialects:
   - rolv_code: 12911
     language_tag: lww-x-HIS12911

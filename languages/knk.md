@@ -1,7 +1,6 @@
 ---
 iso: knk
 name: Kuranko
-name_zh: 库兰科语
 autonym: null
 alt_names: [Koranko]
 population: 594000
@@ -15,6 +14,9 @@ glottolog_family_id: mand1469
 glottolog_family_name: Mande
 glottolog_classification: "Mande > Western Mande > Manding-Kpelle > Central Mande > Manding-Jogo > Manding-Vai > Manding-Mokole > Nuclear Mokole > Kuranko"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kuranko_language"
+translations:
+  - translation_iso: zho
+    name: 库兰科语
 rolv_dialects:
   - rolv_code: 12522
     language_tag: knk-x-HIS12522

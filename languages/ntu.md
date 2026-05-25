@@ -1,8 +1,6 @@
 ---
 iso: ntu
 name: Natügu
-name_zh: 纳图古语
-name_zh_auto: true
 autonym: Natügu
 alt_names: [Lödäi, Nambakaengö, Natqgu, Natugu, Northern Santa Cruz, Santa Cruz]
 population: 4280
@@ -16,6 +14,10 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Temotu > Reefs-Santa Cruz > Natugu-Nalogo > Natügu"
 wikipedia_url: "https://en.wikipedia.org/wiki/Nat%C3%BCgu_language"
+translations:
+  - translation_iso: zho
+    name: 纳图古语
+    auto: true
 rolv_dialects:
   - rolv_code: 3650
     language_tag: ntu-x-HIS03650

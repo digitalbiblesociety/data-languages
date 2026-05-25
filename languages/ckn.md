@@ -1,8 +1,6 @@
 ---
 iso: ckn
 name: Kaang Chin
-name_zh: 卡昂钦语
-name_zh_auto: true
 autonym: Kang
 alt_names: ["Chin, Kaang"]
 population: 35000
@@ -16,5 +14,9 @@ glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Kuki-Chin-Naga > Kuki-Chin > Peripheral Kuki-Chin > South Peripheral Kuki-Chin > Choic > Daai-Nghmoye-Muun-Kaang > Kaang Chin"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kaang_language"
+translations:
+  - translation_iso: zho
+    name: 卡昂钦语
+    auto: true
 ---
 Kaang is a Kuki-Chin language spoken by about 35,000 people in Mindat Township and Matupi Township, Chin State, Myanmar. There are three sub-groups under Kaang, namely Zo Kaang, Puei Kaang, and Cum Kaang. Kaang has 73% to 80% lexical similarity with Welaung, 77% to 79% similarity with Müün Chin, and 67% to 80% with Daai Chin.

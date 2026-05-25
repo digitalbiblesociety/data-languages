@@ -1,8 +1,6 @@
 ---
 iso: wle
 name: Wolane
-name_zh: 沃拉内语
-name_zh_auto: true
 autonym: ስልጥኘ
 alt_names: [Olane, Walane, Welene, Weleni, Wäläne]
 population: null
@@ -15,4 +13,8 @@ glottocode: wola1253
 glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Semitic > West Semitic > Ethiosemitic > South Ethiopic > Harari-East Gurage > Silte-Wolane > Wolane"
+translations:
+  - translation_iso: zho
+    name: 沃拉内语
+    auto: true
 ---

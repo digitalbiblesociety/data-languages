@@ -1,8 +1,6 @@
 ---
 iso: yuw
 name: Yau (Morobe Province)
-name_zh: 尤语(莫罗贝省)
-name_zh_auto: true
 autonym: Uruwa
 alt_names: [Yau]
 population: 2380
@@ -16,6 +14,10 @@ glottolog_family_id: nucl1709
 glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Finisterre-Huon > Finisterre-Saruwaged > Uruwa > Yau-Nungon"
 wikipedia_url: "https://en.wikipedia.org/wiki/Yau_language_(Trans%E2%80%93New_Guinea)"
+translations:
+  - translation_iso: zho
+    name: 尤语(莫罗贝省)
+    auto: true
 rolv_dialects:
   - rolv_code: 26372
     language_tag: yuw-x-HIS26372

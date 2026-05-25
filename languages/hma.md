@@ -1,7 +1,6 @@
 ---
 iso: hma
 name: Southern Mashan Hmong
-name_zh: 南部土语
 autonym: Mashan Miao
 alt_names: [Hmo, Hmong, "Hmong, Southern Mashan", Hmung, Hsiung, Hunan Miao, Miao, "Miao, Southern Mashan", Southern Mashan Miao]
 population: 10000
@@ -14,4 +13,9 @@ glottocode: sout1556
 glottolog_family_id: hmon1336
 glottolog_family_name: Hmong-Mien
 glottolog_classification: "Hmong-Mien > Hmongic > Nuclear Hmongic-Ho Ne > Nuclear Hmongic > West Hmongic > Greater Chuanqiandian > Mashan > Southern Mashan Hmong"
+translations:
+  - translation_iso: jpn
+    name: 南部麻山フモン語
+  - translation_iso: zho
+    name: 南部土语
 ---

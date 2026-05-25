@@ -1,8 +1,6 @@
 ---
 iso: cur
 name: Chhulung
-name_zh: 楚隆语
-name_zh_auto: true
 autonym: Chhilling
 alt_names: ["Ch?l?ng", Chholung, ChhÃ»lÃ»ng RÃ»ng, Chhûlûng Rûng, Chilling, Chulung, Chulún, ChÃ¼lÃ¼ng, Chülüng, Chɨlɨng]
 population: 1310
@@ -16,5 +14,9 @@ glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Himalayish > Mahakiranti > Kiranti > Eastern Kiranti > Tamar > Chhulung"
 wikipedia_url: "https://en.wikipedia.org/wiki/Chulung_language"
+translations:
+  - translation_iso: zho
+    name: 楚隆语
+    auto: true
 ---
 Chulung (Chɨlɨng) is a Kiranti language spoken in Ankhisalla VDC, Dhankuta District, Koshi Zone, Nepal.

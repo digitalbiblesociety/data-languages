@@ -1,8 +1,6 @@
 ---
 iso: anj
 name: Anor
-name_zh: 阿诺尔语
-name_zh_auto: true
 autonym: Atemble
 population: 980
 country_id: PG
@@ -15,6 +13,10 @@ glottolog_family_id: ramu1234
 glottolog_family_name: Ramu
 glottolog_classification: "Ramu > Aian > Anor"
 wikipedia_url: "https://en.wikipedia.org/wiki/Anor_language"
+translations:
+  - translation_iso: zho
+    name: 阿诺尔语
+    auto: true
 rolv_dialects:
   - rolv_code: 4012
     language_tag: anj-x-HIS04012

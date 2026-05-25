@@ -1,7 +1,6 @@
 ---
 iso: kfq
 name: Korku
-name_zh: 科尔库语
 autonym: Bondeya
 alt_names: [Bopchi, Koraku, Korki, Kuri, Kurku, Kurku-Ruma, Muasi, Muwasi, Ramekhera, West-Untergruppe, Корку, கொற்கு மொழி]
 population: 727000
@@ -15,6 +14,15 @@ glottolog_family_id: aust1305
 glottolog_family_name: Austroasiatic
 glottolog_classification: "Austroasiatic > Mundaic > North Munda > Korku"
 wikipedia_url: "https://en.wikipedia.org/wiki/Korku_language"
+translations:
+  - translation_iso: hin
+    name: कोरकू भाषा
+  - translation_iso: jpn
+    name: コルク語
+  - translation_iso: kor
+    name: 코르쿠어
+  - translation_iso: zho
+    name: 科尔库语
 rolv_dialects:
   - rolv_code: 660
     language_tag: kfq-x-HIS00660

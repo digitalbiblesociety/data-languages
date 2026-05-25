@@ -1,8 +1,6 @@
 ---
 iso: sby
 name: Soli
-name_zh: 索利语
-name_zh_auto: true
 autonym: Chisoli
 population: 34100
 country_id: ZM
@@ -15,5 +13,9 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > East Bantu > Botatwe > Greater Eastern Botatwe > Soli"
 wikipedia_url: "https://en.wikipedia.org/wiki/Soli_language"
+translations:
+  - translation_iso: zho
+    name: 索利语
+    auto: true
 ---
 Soli is a Bantu language of Zambia. It is part of the Botatwe group, who live mainly in Lusaka province and Central Province together with the Tonga and Lenje people

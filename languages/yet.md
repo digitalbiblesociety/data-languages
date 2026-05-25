@@ -1,8 +1,6 @@
 ---
 iso: yet
 name: Yetfa
-name_zh: 耶特法语
-name_zh_auto: true
 autonym: Biksi
 alt_names: [Biaksi, Inisine, Yetfa-Biksi]
 population: 1000
@@ -13,6 +11,12 @@ latitude: -4.05884
 longitude: 140.65319
 glottocode: yetf1238
 wikipedia_url: "https://en.wikipedia.org/wiki/Biksi-Yetfa_language"
+translations:
+  - translation_iso: ara
+    name: لغة بيكسي
+  - translation_iso: zho
+    name: 耶特法语
+    auto: true
 rolv_dialects:
   - rolv_code: 3428
     language_tag: yet-x-HIS03428

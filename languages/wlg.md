@@ -1,8 +1,6 @@
 ---
 iso: wlg
 name: Kunbarlang
-name_zh: 昆巴兰语
-name_zh_auto: true
 autonym: Warlang
 alt_names: [Gambalang, Gambalanga, Geimbio, Gimbarlang, "Gunba:lan", "Gunba:lang", Gunbalag, Gunbalang, Gunbalong, Gunbarlang, Gunbulan, Gungalang, Gurmadja madja, Muralidban, Walang]
 population: null
@@ -16,5 +14,9 @@ glottolog_family_id: gunw1250
 glottolog_family_name: Gunwinyguan
 glottolog_classification: "Gunwinyguan > Kunbarlang"
 wikipedia_url: "https://en.wikipedia.org/wiki/Gunbarlang_language"
+translations:
+  - translation_iso: zho
+    name: 昆巴兰语
+    auto: true
 ---
 Gunbarlang, or Kunbarlang, is an Australian Aboriginal language in northern Australia with multiple dialects. Other names are Gungalang and Warlang. Speakers are multilingual in Kunwinjku and Mawng. Most of the Gunbarlang people now speak Kunwinjku.

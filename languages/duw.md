@@ -1,8 +1,6 @@
 ---
 iso: duw
 name: Dusun Witu
-name_zh: 杜顺维图语
-name_zh_auto: true
 autonym: Dusun Witu
 population: 5000
 country_id: ID
@@ -15,6 +13,10 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Basap-Greater Barito > Greater Barito linkage > Southeast Barito > Dusun Witu"
 wikipedia_url: "https://en.wikipedia.org/wiki/Dusun_Witu_language"
+translations:
+  - translation_iso: zho
+    name: 杜顺维图语
+    auto: true
 rolv_dialects:
   - rolv_code: 24875
     language_tag: duw-x-HIS24875

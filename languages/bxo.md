@@ -1,8 +1,6 @@
 ---
 iso: bxo
 name: Barikanchi
-name_zh: 巴里坎奇语
-name_zh_auto: true
 autonym: null
 population: null
 country_id: NG
@@ -15,5 +13,9 @@ glottolog_family_id: pidg1258
 glottolog_family_name: Pidgin
 glottolog_classification: "Pidgin > Hausa-based pidgin > Barikanchi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Barikanchi_pidgin"
+translations:
+  - translation_iso: zho
+    name: 巴里坎奇语
+    auto: true
 ---
 Barikanchi pidgin, Barikanci, or Bastard Hausa is a pidgin of the Hausa language spoken in Nigeria. Barikanci is used by the Nigerian Armed Forces to ensure clear communication between the linguistically diverse members of the military.

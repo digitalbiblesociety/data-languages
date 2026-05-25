@@ -1,7 +1,6 @@
 ---
 iso: bsc
 name: Bassari
-name_zh: 巴萨里语
 autonym: Oniyan
 alt_names: [Ayan, Basari, Basarí, Biyan, Onian, Onëyan, Tenda Basari, Wo]
 population: 31200
@@ -16,6 +15,13 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > North-Central Atlantic > Tenda > Bassari-Bedik-Bapen > Bassari-Tanda"
 wikipedia_url: "https://en.wikipedia.org/wiki/Bassari_language"
+translations:
+  - translation_iso: jpn
+    name: バサリ語
+  - translation_iso: kor
+    name: 바사리어
+  - translation_iso: zho
+    name: 巴萨里语
 rolv_dialects:
   - rolv_code: 24528
     language_tag: bsc-x-HIS24528

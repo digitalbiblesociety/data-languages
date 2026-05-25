@@ -1,8 +1,6 @@
 ---
 iso: pit
 name: Pitta Pitta
-name_zh: 皮塔皮塔语
-name_zh_auto: true
 autonym: "Bida-Bida"
 alt_names: [Bida Bida, Bidabida, Bidha Bidha, Bidha-Bidha, Bidhabidha, Bidhbidha, Bitta Bitta, BittaBitta, Bittha Bittha, Karanja, Kungkalenja, Lanima, Lhanima, Narrinyeri, Paruru, Pita Pita, Pita-Pita, Pitapita, Pitha Pitha, Pitha-Pitha, Pitta-Pitta, PittaPitta, Rakkaia, Ramindjerar, Ramindjeri, Ramingara, Raminjeri, Raminyeri, Ramong, Ringaringa, Rormear, Tarbanawalun, Ulaolinya, Wanggadjara, Wanggayudyuru, Wangka-Yutjuru, Wangkahicho, Wangkahichs, "Wangkapit:a", Wangkayutjuru, Wangkayutyuru, Wirramu mejo, Yurlayurlanya]
 population: null
@@ -16,5 +14,9 @@ glottolog_family_id: pama1250
 glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > Karnic > Palku > Pitta-Pitta > Pitta Pitta"
 wikipedia_url: "https://en.wikipedia.org/wiki/Pitta_Pitta_language"
+translations:
+  - translation_iso: zho
+    name: 皮塔皮塔语
+    auto: true
 ---
 Pitta Pitta is an extinct Australian Aboriginal language. It was spoken around Boulia, Queensland.

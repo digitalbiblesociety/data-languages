@@ -1,7 +1,6 @@
 ---
 iso: bas
 name: Basa (Cameroon)
-name_zh: 巴萨语
 autonym: Mbene
 alt_names: [Basa, Basa-um, Basaa, Basaa language, Basaeg, Basaá, Bassa, Idioma basaa, Język basaa]
 population: 300000
@@ -16,6 +15,17 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > Bantu A-B10-B20-B30 > Basaa-Yaunde (A40-70) > Basaa (A.40) > Basaa-Bakoko > Basaa-Hijuk > Basa (Cameroon)"
 wikipedia_url: "https://en.wikipedia.org/wiki/Basaa_language"
+translations:
+  - translation_iso: ara
+    name: الباسا
+  - translation_iso: hin
+    name: बसा
+  - translation_iso: jpn
+    name: バサ語
+  - translation_iso: kor
+    name: 바사어
+  - translation_iso: zho
+    name: 巴萨语
 rolv_dialects:
   - rolv_code: 4436
     language_tag: bas-x-HIS04436

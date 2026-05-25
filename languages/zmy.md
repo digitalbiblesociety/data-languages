@@ -1,8 +1,6 @@
 ---
 iso: zmy
 name: Mariyedi
-name_zh: 马里耶迪语
-name_zh_auto: true
 autonym: Berringen
 alt_names: [Marijadi, Marijedi, Murijadi]
 population: null
@@ -15,4 +13,8 @@ glottocode: mari1423
 glottolog_family_id: west2434
 glottolog_family_name: Western Daly
 glottolog_classification: "Western Daly > Bringen > Marithielic > Mariyedi"
+translations:
+  - translation_iso: zho
+    name: 马里耶迪语
+    auto: true
 ---

@@ -1,8 +1,6 @@
 ---
 iso: adl
 name: Galo
-name_zh: 加洛语
-name_zh_auto: true
 autonym: "Galo '"
 alt_names: [Abor, Adi, "Adi, Galo", "Adi,Galo", Adi-Gallong, Adi-Galo, Gallong, Galong]
 population: 29200
@@ -16,6 +14,14 @@ glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Macro-Tani > Tani > Pre-Western Tani > Western Tani > Subansiri > Galo"
 wikipedia_url: "https://en.wikipedia.org/wiki/Gallong_language"
+translations:
+  - translation_iso: hin
+    name: गालो भाषा
+  - translation_iso: jpn
+    name: Galo語
+  - translation_iso: zho
+    name: 加洛语
+    auto: true
 rolv_dialects:
   - rolv_code: 18925
     language_tag: adl-x-HIS18925

@@ -1,8 +1,6 @@
 ---
 iso: ypz
 name: Phuza
-name_zh: 普扎语
-name_zh_auto: true
 autonym: Phuza
 population: 6000
 country_id: CN
@@ -14,6 +12,10 @@ glottocode: phuz1235
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Burmo-Qiangic > Lolo-Burmese > Loloish > Ni-Li-Kazhouish > Southeastern Ngwi > Riverine Phula > Downriver Riverine Phula > Phupa-Phuza > Phuza"
+translations:
+  - translation_iso: zho
+    name: 普扎语
+    auto: true
 rolv_dialects:
   - rolv_code: 27070
     language_tag: ypz-x-HIS27070

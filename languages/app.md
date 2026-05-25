@@ -1,8 +1,6 @@
 ---
 iso: app
 name: Apma
-name_zh: 阿普玛语
-name_zh_auto: true
 autonym: Central Raga
 alt_names: [Abma]
 population: 7800
@@ -16,6 +14,12 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > North and Central Vanuatu > Central Vanuatu > South Pentecost > Apma"
 wikipedia_url: "https://en.wikipedia.org/wiki/Apma_language"
+translations:
+  - translation_iso: jpn
+    name: アプマ語
+  - translation_iso: zho
+    name: 阿普玛语
+    auto: true
 rolv_dialects:
   - rolv_code: 7061
     language_tag: app-x-HIS07061

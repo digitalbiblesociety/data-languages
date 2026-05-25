@@ -1,8 +1,6 @@
 ---
 iso: dos
 name: Dogosé
-name_zh: 多戈塞语
-name_zh_auto: true
 autonym: Doghose
 alt_names: [Doghosie, Doghosié, Doghosye, Dogose, Dokhobe, Dokhosié, Dorhossié, Dorhosye, Doro Doghosié, Dorobé, Dorosie, Dorossé, Dɔɣɔse]
 population: 20000
@@ -16,6 +14,10 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Gur > Central Gur > Southern Central Gur > Kaansa-Dogose > Dogose-Khisa > Dogosé"
 wikipedia_url: "https://en.wikipedia.org/wiki/Doghose_language"
+translations:
+  - translation_iso: zho
+    name: 多戈塞语
+    auto: true
 rolv_dialects:
   - rolv_code: 9346
     language_tag: dos-x-HIS09346

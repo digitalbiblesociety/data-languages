@@ -1,7 +1,6 @@
 ---
 iso: nup
 name: "Nupe-Nupe-Tako"
-name_zh: 努佩语
 autonym: Nupe
 alt_names: [Nufawa, Nupe (Central), Nupeci, Nupecidji, Nupenchi, Nupencizi]
 population: 1730000
@@ -15,6 +14,13 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Ebira-Nupoid > Macro-Nupoid > Nupoid > Nupe-Nupe-Tako"
 wikipedia_url: "https://en.wikipedia.org/wiki/Nupe_language"
+translations:
+  - translation_iso: ara
+    name: نوب
+  - translation_iso: jpn
+    name: ヌペ語
+  - translation_iso: zho
+    name: 努佩语
 rolv_dialects:
   - rolv_code: 344
     language_tag: nup-x-HIS00344

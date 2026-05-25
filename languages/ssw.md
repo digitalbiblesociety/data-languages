@@ -1,7 +1,6 @@
 ---
 iso: ssw
 name: Swati
-name_zh: 斯瓦蒂语
 autonym: siSwati
 alt_names: [Bahasa Swati, Idioma suazi, Isiswazi, Język suazi, Lengua SiSwati, Lingua swati, Língua suázi, Phuthi, Siswazi, Suací, Svazia lingvo, Swasi simi, Swatieg, Swatum, Swazi, Swazi (Swati), Swazin kieli, Tekela, Tekeza, Thithiza, Yeyeza, Свази, Свати, スワジ語, 스와티어]
 population: 2314500
@@ -16,6 +15,17 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > East Bantu > Southern Bantu > Nuclear Southern Bantu > Dimsuffix Southern Bantu > Nguni-Tsonga-Copi > Nguni (S.40) > Nuclear Nguni > Southern Ndebele-Lowland > Swatic > Swati"
 wikipedia_url: "https://en.wikipedia.org/wiki/Swazi_language"
+translations:
+  - translation_iso: ara
+    name: السوازية
+  - translation_iso: hin
+    name: स्वाज़ी भाषा
+  - translation_iso: jpn
+    name: スワジ語
+  - translation_iso: kor
+    name: 스와티어
+  - translation_iso: zho
+    name: 斯瓦蒂语
 rolv_dialects:
   - rolv_code: 4603
     language_tag: ss-x-HIS04603

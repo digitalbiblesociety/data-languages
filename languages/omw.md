@@ -1,8 +1,6 @@
 ---
 iso: omw
 name: South Tairora
-name_zh: 南泰伊罗拉语
-name_zh_auto: true
 autonym: Omwunra Toqura (Aatasara)
 alt_names: [Omwunra-Toqura, Southern Tairora, Tairora, "Tairora, South"]
 population: 8000
@@ -15,6 +13,10 @@ glottocode: sout2943
 glottolog_family_id: nucl1709
 glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Kainantu-Goroka > Kainantu > Tairora > South Tairora"
+translations:
+  - translation_iso: zho
+    name: 南泰伊罗拉语
+    auto: true
 rolv_dialects:
   - rolv_code: 17072
     language_tag: omw-x-HIS17072

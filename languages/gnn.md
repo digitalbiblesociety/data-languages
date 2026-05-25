@@ -1,8 +1,6 @@
 ---
 iso: gnn
 name: Gumatj
-name_zh: 古玛吉语
-name_zh_auto: true
 autonym: "Dhay'yi"
 alt_names: [Dhuwal, Dhuwala, Go-maid, Gomadj, Gomaidj, Gumadj, Gumadji, Gumaidj, Gumait, Gumaitj, Gumaj, Komait]
 population: 120
@@ -15,6 +13,10 @@ glottocode: guma1253
 glottolog_family_id: pama1250
 glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > Yuulngu > Southern Yolngu > Southern-Eastern Yolngu > Dhuwal-Dhuwala > Western Dhuwal-Dhuwala > Gumatj"
+translations:
+  - translation_iso: zho
+    name: 古玛吉语
+    auto: true
 rolv_dialects:
   - rolv_code: 10424
     language_tag: gnn-x-HIS10424

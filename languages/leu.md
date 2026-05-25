@@ -1,8 +1,6 @@
 ---
 iso: leu
 name: Kara (Papua New Guinea)
-name_zh: 卡拉语(巴布亚新几内亚)
-name_zh_auto: true
 autonym: Kara
 alt_names: [Kara (in Papua New Guinea), Lemakot, Lemusmus, Neu-Mecklenburg]
 population: 5000
@@ -16,6 +14,14 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > Meso Melanesian linkage > New Ireland-Northwest Solomonic linkage > Tungak-Nalik > Kara (Papua New Guinea)"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kara_language_(Papua_New_Guinea)"
+translations:
+  - translation_iso: jpn
+    name: カラ語
+  - translation_iso: kor
+    name: 카라어
+  - translation_iso: zho
+    name: 卡拉语(巴布亚新几内亚)
+    auto: true
 rolv_dialects:
   - rolv_code: 11571
     language_tag: leu-x-HIS11571

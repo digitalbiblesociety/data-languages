@@ -1,8 +1,6 @@
 ---
 iso: reg
 name: Kara (Tanzania)
-name_zh: 卡拉语(坦桑尼亚)
-name_zh_auto: true
 autonym: Regi
 alt_names: [Kara]
 population: 115000
@@ -16,5 +14,11 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > East Bantu > Northeast Savanna Bantu > Great Lakes Bantu > East Nyanza > Suguti > Kara (Tanzania)"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kara_language_(Tanzania)"
+translations:
+  - translation_iso: jpn
+    name: カラ語
+  - translation_iso: zho
+    name: 卡拉语(坦桑尼亚)
+    auto: true
 ---
 Kara, or Regi, is a Bantu language of Tanzania, spoken off Ukerewe Island in Lake Victoria. Jita–Kara–Kwaya are close to being dialects.

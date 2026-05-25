@@ -1,8 +1,6 @@
 ---
 iso: xau
 name: Kauwera
-name_zh: 考韦拉语
-name_zh_auto: true
 autonym: Kabera
 alt_names: [Kaowerawedj, Kauwerawec, Kauwerawet, Kauwerawetj, Kawera, Koassa, Tekutameso]
 population: 400
@@ -16,5 +14,9 @@ glottolog_family_id: kwer1242
 glottolog_family_name: Greater Kwerba
 glottolog_classification: "Greater Kwerba > Kwerba-Samarokena > Kwerbaic > Middle Mamberamo Kwerba > Kasonaic > Kauwera"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kauwera_language"
+translations:
+  - translation_iso: zho
+    name: 考韦拉语
+    auto: true
 ---
 Kauwera is a Papuan language of Indonesia.

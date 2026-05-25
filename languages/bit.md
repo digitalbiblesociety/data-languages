@@ -1,8 +1,6 @@
 ---
 iso: bit
 name: Berinomo
-name_zh: 贝里诺莫语
-name_zh_auto: true
 autonym: Berinomo
 alt_names: [Apowasi, Bitara, Perbi]
 population: 350
@@ -16,5 +14,9 @@ glottolog_family_id: sepi1257
 glottolog_family_name: Sepik
 glottolog_classification: "Sepik > Sepik Hill > Central-Eastern Sepik Hill > Central Sepik Hill > Bahinemic > Berinomo"
 wikipedia_url: "https://en.wikipedia.org/wiki/Berinomo_language"
+translations:
+  - translation_iso: zho
+    name: 贝里诺莫语
+    auto: true
 ---
 Bitara, or Berinomo, is a Sepik language spoken in East Sepik Province, Papua-New Guinea.

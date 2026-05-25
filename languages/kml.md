@@ -1,8 +1,6 @@
 ---
 iso: kml
 name: Tanudan Kalinga
-name_zh: 塔努丹卡林加语
-name_zh_auto: true
 autonym: Lower Tanudan
 alt_names: ["Kalinga, Lower Tanudan", "Kalinga, Tanudan", Lower Tanudan Kalinga]
 population: 11200
@@ -15,6 +13,10 @@ glottocode: lowe1412
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Northern Luzon > Meso-Cordilleran > South-Central Cordilleran > Central Cordilleran > Kalinga-Itneg > Kalinga > Central and South Kalinga > South Kalinga > Southeastern Kalinga > Tanudan Kalinga"
+translations:
+  - translation_iso: zho
+    name: 塔努丹卡林加语
+    auto: true
 rolv_dialects:
   - rolv_code: 11402
     language_tag: kml-x-HIS11402

@@ -1,8 +1,6 @@
 ---
 iso: tuj
 name: Tugutil
-name_zh: 图古蒂尔语
-name_zh_auto: true
 autonym: bahasa Tugutil
 alt_names: [Indonesia]
 population: 2590
@@ -16,6 +14,10 @@ glottolog_family_id: nort2923
 glottolog_family_name: North Halmahera
 glottolog_classification: "North Halmahera > Northern North Halmahera > Mainland North Halmaheran > Tobelo-Tugutil > Tugutil"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tugutil_language"
+translations:
+  - translation_iso: zho
+    name: 图古蒂尔语
+    auto: true
 rolv_dialects:
   - rolv_code: 17726
     language_tag: tuj-x-HIS17726

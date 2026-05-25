@@ -1,7 +1,6 @@
 ---
 iso: psr
 name: Portuguese Sign Language
-name_zh: 葡萄牙语手语
 autonym: " Língua gestual portuguesa"
 alt_names: [Lingua Gestual Portuguesa]
 population: 8000
@@ -15,6 +14,11 @@ glottolog_family_id: sign1238
 glottolog_family_name: Sign Language
 glottolog_classification: "Sign Language > L1 Sign Language > Portuguese Sign Language"
 wikipedia_url: "https://en.wikipedia.org/wiki/Portuguese_Sign_Language"
+translations:
+  - translation_iso: jpn
+    name: ポルトガル手話
+  - translation_iso: zho
+    name: 葡萄牙语手语
 rolv_dialects:
   - rolv_code: 20625
     language_tag: psr-x-HIS20625

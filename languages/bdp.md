@@ -1,8 +1,6 @@
 ---
 iso: bdp
 name: Bende
-name_zh: 本德语
-name_zh_auto: true
 autonym: Bende
 alt_names: [Kibende, "Si'bende", Sibhende]
 population: 27000
@@ -15,4 +13,8 @@ glottocode: bend1258
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > East Bantu > Northeast Savanna Bantu > Unclassified Northeast Savanna Bantu > Bende-Tongwe > Bende"
+translations:
+  - translation_iso: zho
+    name: 本德语
+    auto: true
 ---

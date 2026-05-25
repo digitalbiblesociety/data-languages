@@ -1,8 +1,6 @@
 ---
 iso: bvv
 name: Baniva
-name_zh: 巴尼瓦语
-name_zh_auto: true
 autonym: Baniwa
 population: null
 country_id: VE
@@ -11,6 +9,12 @@ status_id: "10"
 latitude: 5.26123
 longitude: -67.56327
 wikipedia_url: "https://en.wikipedia.org/wiki/Avane_language"
+translations:
+  - translation_iso: jpn
+    name: バニバ語
+  - translation_iso: zho
+    name: 巴尼瓦语
+    auto: true
 rolv_dialects:
   - rolv_code: 7735
     language_tag: bvv-x-HIS07735

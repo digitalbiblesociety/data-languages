@@ -1,8 +1,6 @@
 ---
 iso: bqr
 name: Burusu
-name_zh: 布鲁苏语
-name_zh_auto: true
 autonym: Berusuh
 population: 4350
 country_id: ID
@@ -15,6 +13,10 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > North Borneo Malayo-Polynesian > Sabahan > Southwest Sabahan > Greater Murutic > Murutic > Northern Murutic > Sumambu-Tagal > Tidung-Bulusu > Burusu"
 wikipedia_url: "https://en.wikipedia.org/wiki/Burusu_language"
+translations:
+  - translation_iso: zho
+    name: 布鲁苏语
+    auto: true
 rolv_dialects:
   - rolv_code: 4114
     language_tag: bqr-x-HIS04114

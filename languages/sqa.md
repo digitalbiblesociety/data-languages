@@ -1,8 +1,6 @@
 ---
 iso: sqa
 name: "Shama-Sambuga"
-name_zh: 沙马-桑布加语
-name_zh_auto: true
 autonym: Tushama
 alt_names: [Bushama]
 population: 5000
@@ -16,6 +14,10 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Kainji > Central Kainji > Shiroro-Kamuku > Kamuku-Hungwarya > Kamuku > Rogo-Sagamuk-Sama-Sambuga > Sagamuk-Sama-Sambuga > Shama-Sambuga"
 wikipedia_url: "https://en.wikipedia.org/wiki/Shama_language"
+translations:
+  - translation_iso: zho
+    name: 沙马-桑布加语
+    auto: true
 rolv_dialects:
   - rolv_code: 16586
     language_tag: sqa-x-HIS16586

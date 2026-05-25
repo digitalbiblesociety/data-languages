@@ -1,8 +1,6 @@
 ---
 iso: ade
 name: Adele
-name_zh: 阿德莱语
-name_zh_auto: true
 autonym: Gidire
 alt_names: [Adelen kieli, Adelska, Bedere, Bidire, Gadre, Idioma adele, Lenga Adele, Lingau adele, Língua adele]
 population: 37400
@@ -16,6 +14,12 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Kwa Volta-Congo > Na-Togo > Basila-Adele > Adele"
 wikipedia_url: "https://en.wikipedia.org/wiki/Adele_language"
+translations:
+  - translation_iso: jpn
+    name: アデレ語
+  - translation_iso: zho
+    name: 阿德莱语
+    auto: true
 rolv_dialects:
   - rolv_code: 2996
     language_tag: ade-x-HIS02996

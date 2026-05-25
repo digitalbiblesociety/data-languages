@@ -1,7 +1,6 @@
 ---
 iso: dhi
 name: Dhimal
-name_zh: 狄摩語
 autonym: Dhemal
 alt_names: [DELETE IF NOT USED, Dhīmāl]
 population: 19750
@@ -15,6 +14,11 @@ glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Dhimal-Lhokpu-Toto > Dhimal"
 wikipedia_url: "https://en.wikipedia.org/wiki/Dhimal_language"
+translations:
+  - translation_iso: jpn
+    name: ディマール語
+  - translation_iso: zho
+    name: 狄摩語
 rolv_dialects:
   - rolv_code: 9239
     language_tag: dhi-x-HIS09239

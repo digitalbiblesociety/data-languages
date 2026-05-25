@@ -1,7 +1,6 @@
 ---
 iso: yai
 name: Yagnobi
-name_zh: 亞爾諾比語
 autonym: " йағнобӣ зивок"
 alt_names: [Jaghnobi, Jaghnóbština, Jagnoba lingvo, Jagnobin kieli, Lingua iagnobí, Yaghnabi, Yaghnob, Yaghnobi, Yaghnobi language, Yagnob, Yagnobí, yaγnobīˊ zivók, Ягнобски език, Ягнобский язык, Ягънобаг æвзаг, زبان یغنابی, ภาษายักโนบี]
 population: 12000
@@ -15,6 +14,13 @@ glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Iranian-Nuristani > Iranian > Central Iranian PBS > Sogdic-Ossetic > Sogdic > Sogdian-Yagnobi > Yagnobi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Yaghnobi_language"
+translations:
+  - translation_iso: jpn
+    name: ヤグノビ語
+  - translation_iso: kor
+    name: 야그노비어
+  - translation_iso: zho
+    name: 亞爾諾比語
 rolv_dialects:
   - rolv_code: 18399
     language_tag: yai-x-HIS18399

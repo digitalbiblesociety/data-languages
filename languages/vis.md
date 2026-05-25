@@ -1,8 +1,6 @@
 ---
 iso: vis
 name: Vishavan
-name_zh: 维萨瓦语
-name_zh_auto: true
 autonym: Malankudi
 alt_names: [Malarkuti]
 population: 150
@@ -16,5 +14,9 @@ glottolog_family_id: drav1251
 glottolog_family_name: Dravidian
 glottolog_classification: "Dravidian > South Dravidian > South Dravidian I > Tamil-Kannada > Tamil-Kota > Tamil-Toda > Tamil-Irula > Tamil-Kodagu > Tamil-Malayalam > Malayalamoid > Vishavan"
 wikipedia_url: "https://en.wikipedia.org/wiki/Vishavan_language"
+translations:
+  - translation_iso: zho
+    name: 维萨瓦语
+    auto: true
 ---
 Vishavan is a Dravidian language spoken by a tribal people of central Kerala in India.

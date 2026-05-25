@@ -1,8 +1,6 @@
 ---
 iso: mei
 name: Midob
-name_zh: 米多布语
-name_zh_auto: true
 autonym: Meidob
 alt_names: [Darfur-Nubian, Meidob Nubian, Midob (Darfur Nubian), Midob Nubian, Midobi, Nubian (Meidob), Tid, Tid-N-Aal, Tidda]
 population: 85000
@@ -16,6 +14,12 @@ glottolog_family_id: nubi1251
 glottolog_family_name: Nubian
 glottolog_classification: "Nubian > Midob"
 wikipedia_url: "https://en.wikipedia.org/wiki/Midob_language"
+translations:
+  - translation_iso: jpn
+    name: ミドブ語
+  - translation_iso: zho
+    name: 米多布语
+    auto: true
 rolv_dialects:
   - rolv_code: 14064
     language_tag: mei-x-HIS14064

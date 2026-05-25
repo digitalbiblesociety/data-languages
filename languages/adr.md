@@ -1,7 +1,6 @@
 ---
 iso: adr
 name: Adonara
-name_zh: 阿多纳拉语
 autonym: Adonara
 alt_names: [Nusa Tadon, Sagu, Vaiverang, Waiwerang]
 population: 17000
@@ -15,6 +14,9 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Bima-Lembata > Flores > Flores-Lembata > Lamaholot Barat > North Lembata-Adonara > Adonara"
 wikipedia_url: "https://en.wikipedia.org/wiki/Adonara_language"
+translations:
+  - translation_iso: zho
+    name: 阿多纳拉语
 rolv_dialects:
   - rolv_code: 6683
     language_tag: adr-x-HIS06683

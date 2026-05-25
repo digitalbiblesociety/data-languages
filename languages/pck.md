@@ -1,8 +1,6 @@
 ---
 iso: pck
 name: Paite Chin
-name_zh: 派特钦语
-name_zh_auto: true
 autonym: Zomi
 alt_names: [Chin, Chin (Paite), Chin paite, "Chin, Paite", "Chin,Paite", Haithe, Oarte, Paite, Paithe, Parte, Vuite, Zoukam]
 population: 79500
@@ -16,6 +14,12 @@ glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Kuki-Chin-Naga > Kuki-Chin > Peripheral Kuki-Chin > Northeastern Kuki-Chin > Thadoic > Paiteic > Paite Chin"
 wikipedia_url: "https://en.wikipedia.org/wiki/Paite_language"
+translations:
+  - translation_iso: hin
+    name: पिटे भाषा
+  - translation_iso: zho
+    name: 派特钦语
+    auto: true
 rolv_dialects:
   - rolv_code: 25324
     language_tag: pck-x-HIS25324

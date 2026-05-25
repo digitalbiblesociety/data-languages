@@ -1,8 +1,6 @@
 ---
 iso: lji
 name: Laiyolo
-name_zh: 莱约洛语
-name_zh_auto: true
 autonym: "Barang-Barang"
 alt_names: ["Da'ang"]
 population: 250
@@ -16,6 +14,10 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Celebic > Kaili-Wolio > Southern Kaili-Wolio > Island Kaili-Wolio > Kalao-Laiyolo > Laiyolo"
 wikipedia_url: "https://en.wikipedia.org/wiki/Laiyolo_language"
+translations:
+  - translation_iso: zho
+    name: 莱约洛语
+    auto: true
 rolv_dialects:
   - rolv_code: 12687
     language_tag: lji-x-HIS12687

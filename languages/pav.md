@@ -1,7 +1,6 @@
 ---
 iso: pav
 name: Pakaásnovos
-name_zh: 瓦里語
 autonym: Jaru
 alt_names: [Ituarupa, Jarú, Oro Wari, Oro Win, Orovín, Orowari, Pacaas-Novos, Pacaha-novo, Pacahanovo, Pacas Novas, Pacasnovas, Pakaanova, Pakaanovas, Pakaasnovos, Pakasnovos, Pakaás-novos, Tubarão/ huarí, Txapacura, Txapakura, Uariwayo, Uomo, Urup, Urupá, Urupá-Jarú, Wari, "Wari'", "Wari' (Chapacuva)", Wari’ language, Yaru]
 population: 1930
@@ -15,6 +14,11 @@ glottolog_family_id: chap1271
 glottolog_family_name: Chapacuran
 glottolog_classification: "Chapacuran > Moreic-Waric > Waric > Wanham-Wari-Oro Win > Wari-Oro Win > Wari'"
 wikipedia_url: "https://en.wikipedia.org/wiki/Wari%CA%BC_language"
+translations:
+  - translation_iso: jpn
+    name: ワリ語
+  - translation_iso: zho
+    name: 瓦里語
 rolv_dialects:
   - rolv_code: 27503
     language_tag: pav-x-HIS27503

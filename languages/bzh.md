@@ -1,8 +1,6 @@
 ---
 iso: bzh
 name: Mapos Buang
-name_zh: 马波斯布昂语
-name_zh_auto: true
 autonym: Central Buang
 alt_names: ["Buang, Mapos", Mapos]
 population: 7000
@@ -16,6 +14,10 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > North New Guinea linkage > Huon Gulf > South Huon Gulf linkage > Buang linkage > Mapos-Mangga-Wagau > Mapos Buang"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mapos_Buang_language"
+translations:
+  - translation_iso: zho
+    name: 马波斯布昂语
+    auto: true
 rolv_dialects:
   - rolv_code: 8392
     language_tag: bzh-x-HIS08392

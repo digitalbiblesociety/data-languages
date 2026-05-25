@@ -1,8 +1,6 @@
 ---
 iso: dhl
 name: Dhalandji
-name_zh: 达兰吉语
-name_zh_auto: true
 autonym: Dalandji
 alt_names: [Dalaindji, Dalanchi, Dalangi, Dalanjdji, Dalendi, Djalandi, Djalandji, Djalendi, Inikurdira, Jarungura, Jinigudera, Jinigudira, Jinigura, Jiniguri, Mulgarnu, Other Australian Indigenous Languages, Tal lainga, Tal-lainga, Talaindji, Talainji, Talandi, Talandji, Talandji-Buduna, Talangee, Talanjee, Talanji, Taliandji, Talinje, Tallainga, Tallainji, Taloinga, Thalanji, Thalantji, Thalanyji, Tharkarri, Yinikurtira]
 population: null
@@ -16,5 +14,9 @@ glottolog_family_id: pama1250
 glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > South-West Pama-Nyungan > Pilbara > Kanyara > Thalanyji-Burduna > Dhalandji"
 wikipedia_url: "https://en.wikipedia.org/wiki/Thalanyji_language"
+translations:
+  - translation_iso: zho
+    name: 达兰吉语
+    auto: true
 ---
 Thalanyji is an Australian Aboriginal language from the Pilbara region of Western Australia. It is part of the Kanyara subgroup of the Pama–Nyungan language family.

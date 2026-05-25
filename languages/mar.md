@@ -1,7 +1,6 @@
 ---
 iso: mar
 name: Marathi
-name_zh: 马拉提语
 autonym: मराठी
 alt_names: [Bahasa Marathi, Idioma maratí, Język marathi, Lengua marathi, Limba marathi, Lingua Marathica, Lingua marathi, Língua marata, Maharashtra, Maharathi, Malhatee, Marata lingvo, Marateg, Marathi bhasa, Marathi jezik, Marathi simi, Marathi-gí, Marathin kieli, Marathî, Marati, Marati jezik, Marthi, Maráthština, Marâthî, Muruthu, Máráthčina, marathe, Маратхи, Маратхи језик, Маратхі, מרטהי, زبان مراتی, لغة ماراثية, ماراتىچە, مراٹھی, މަރާޓީ, मराठी भाषा, মারাঠি ঠার, মারাঠি ভাষা, મરાઠી, மராத்தி, మరాఠీ భాష, ಮರಾಠಿ, മറാഠി, ภาษามราฐี, მარათჰი, マラーティー語, 马拉地语, 마라티어]
 population: 83100000
@@ -16,6 +15,17 @@ glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Indo-Aryan > Middle-Modern Indo-Aryan > Continental Indo-Aryan > Indo-Aryan Southern zone > Marathic > Marathi-Konkani > Old-Modern Marathi > Modern Marathi > Marathi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Marathi_language"
+translations:
+  - translation_iso: ara
+    name: المراثية
+  - translation_iso: hin
+    name: मराठी
+  - translation_iso: jpn
+    name: マラーティー語
+  - translation_iso: kor
+    name: 마라티어
+  - translation_iso: zho
+    name: 马拉提语
 rolv_dialects:
   - rolv_code: 3578
     language_tag: mr-x-HIS03578

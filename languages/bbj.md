@@ -1,7 +1,6 @@
 ---
 iso: bbj
 name: "Ghomálá'"
-name_zh: 戈马拉语
 autonym: Ghɔmálá’
 alt_names: [Baloum, Bamileke-Bandjoun, Bandjoun, Banjoun-Baham, Banjun, Batie, "Ghomala'", Ghomálá, Mahum, Mandju]
 population: 350000
@@ -16,6 +15,15 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Wide Grassfields > Narrow Grassfields > Mbam-Nkam > Southern Mbam-Nkam > Bamileke > East Bamileke > Ghomálá'"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ghomala%CA%BC_language"
+translations:
+  - translation_iso: ara
+    name: لغة الغومالا
+  - translation_iso: jpn
+    name: ゴーマラ語
+  - translation_iso: kor
+    name: 고말라어
+  - translation_iso: zho
+    name: 戈马拉语
 rolv_dialects:
   - rolv_code: 10210
     language_tag: bbj-x-HIS10210

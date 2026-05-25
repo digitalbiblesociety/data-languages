@@ -1,8 +1,6 @@
 ---
 iso: wav
 name: Waka
-name_zh: 瓦卡语
-name_zh_auto: true
 autonym: null
 alt_names: [Nigeria]
 population: 5000
@@ -16,5 +14,9 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Cameroun-Ubangian > Central Adamawa > Mumuye-Yandang > Yandangic > Waka-Yendang-Teme > Waka-Yandang > Waka"
 wikipedia_url: "https://en.wikipedia.org/wiki/Waka_language"
+translations:
+  - translation_iso: zho
+    name: 瓦卡语
+    auto: true
 ---
 Waka is an Adamawa language of Nigeria.

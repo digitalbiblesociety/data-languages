@@ -1,8 +1,6 @@
 ---
 iso: mzq
 name: Mori Atas
-name_zh: 莫里阿塔斯语
-name_zh_auto: true
 autonym: Aikoa
 alt_names: [Upper Mori, West Mori]
 population: 14000
@@ -16,6 +14,10 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Celebic > Greater Eastern Celebic > Eastern Celebic > Southeastern Celebic > Bungku-Tolaki > Western Bungku-Tolaki > Interior Bungku-Tolaki > Mori Atas"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mori_Atas_language"
+translations:
+  - translation_iso: zho
+    name: 莫里阿塔斯语
+    auto: true
 rolv_dialects:
   - rolv_code: 707
     language_tag: mzq-x-HIS00707

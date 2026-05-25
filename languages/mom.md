@@ -1,8 +1,6 @@
 ---
 iso: mom
 name: Mangue
-name_zh: 曼格语
-name_zh_auto: true
 autonym: Chorotega
 alt_names: [Choluteca, Dirian, Mange, Monimbo, Nagranda, Orotiña]
 population: null
@@ -15,4 +13,8 @@ glottocode: moni1237
 glottolog_family_id: otom1299
 glottolog_family_name: Otomanguean
 glottolog_classification: "Otomanguean > Eastern Otomanguean > Manguean > Mangue"
+translations:
+  - translation_iso: zho
+    name: 曼格语
+    auto: true
 ---

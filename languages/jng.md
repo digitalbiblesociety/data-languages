@@ -1,8 +1,6 @@
 ---
 iso: jng
 name: Yangman
-name_zh: 杨曼语
-name_zh_auto: true
 autonym: Yangmanic
 alt_names: [Dagoman, Jangman, Jongman, Jungman, Yung munni, Yungman, Yungmanni, Yungmun, Yungmunee, Yungmunnee, Yungmunni]
 population: null
@@ -15,4 +13,8 @@ glottocode: yang1288
 glottolog_family_id: yang1287
 glottolog_family_name: Yangmanic
 glottolog_classification: "Yangmanic > Yangman"
+translations:
+  - translation_iso: zho
+    name: 杨曼语
+    auto: true
 ---

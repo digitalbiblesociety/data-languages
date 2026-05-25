@@ -1,8 +1,6 @@
 ---
 iso: yva
 name: Yawa
-name_zh: 亚瓦语
-name_zh_auto: true
 autonym: Yava
 alt_names: [Iau, Mantembu, Mora, Turu, Yapanani]
 population: 10000
@@ -16,6 +14,12 @@ glottolog_family_id: yawa1259
 glottolog_family_name: Yawa-Saweru
 glottolog_classification: "Yawa-Saweru > Yawa"
 wikipedia_url: "https://en.wikipedia.org/wiki/Yawa_language"
+translations:
+  - translation_iso: jpn
+    name: ヤワ語
+  - translation_iso: zho
+    name: 亚瓦语
+    auto: true
 rolv_dialects:
   - rolv_code: 1202
     language_tag: yva-x-HIS01202

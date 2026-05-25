@@ -1,8 +1,6 @@
 ---
 iso: dsq
 name: Tadaksahak
-name_zh: 塔达克萨哈克语
-name_zh_auto: true
 autonym: Tadáksahak
 alt_names: [Daosahaq, Daoussahaq, Daoussak, Dausahaq, Dawsahaq]
 population: 159800
@@ -16,5 +14,11 @@ glottolog_family_id: song1307
 glottolog_family_name: Songhay
 glottolog_classification: "Songhay > Northwest Songhay > Northern Songhay > Tadaksahak"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tadaksahak"
+translations:
+  - translation_iso: kor
+    name: 타닥사학어
+  - translation_iso: zho
+    name: 塔达克萨哈克语
+    auto: true
 ---
 Tadaksahak is a Songhay language spoken by the pastoralist Idaksahak of the Ménaka Region and Gao Region of Mali. Its phonology, verb morphology and vocabulary has been strongly influenced by the neighbouring Tuareg languages, Tamasheq and Tamajaq.

@@ -1,7 +1,6 @@
 ---
 iso: pad
 name: Paumarí
-name_zh: 帕烏瑪利語
 autonym: Pamoari
 alt_names: [Curucuru, Idioma paumarí, Kurukuru, Palmarí, Pamari, Pamarí, Pammari, Pammarí, Paumari, Paumarieg, Purupuru, Purupurú, Паумариски јазик]
 population: 290
@@ -15,6 +14,9 @@ glottolog_family_id: araw1282
 glottolog_family_name: Arawan
 glottolog_classification: "Arawan > Paumari"
 wikipedia_url: "https://en.wikipedia.org/wiki/Paumar%C3%AD_language"
+translations:
+  - translation_iso: zho
+    name: 帕烏瑪利語
 rolv_dialects:
   - rolv_code: 15560
     language_tag: pad-x-HIS15560

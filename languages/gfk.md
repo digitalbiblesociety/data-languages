@@ -1,7 +1,6 @@
 ---
 iso: gfk
 name: Patpatar
-name_zh: 帕特帕塔爾語
 autonym: Gelik
 alt_names: [Pala, Pala (Papua NG), Patpari]
 population: 10000
@@ -15,6 +14,11 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > Meso Melanesian linkage > New Ireland-Northwest Solomonic linkage > St George linkage > Patpatar-Minigir-Tolai > Patpatar"
 wikipedia_url: "https://en.wikipedia.org/wiki/Patpatar_language"
+translations:
+  - translation_iso: jpn
+    name: パトパタル語
+  - translation_iso: zho
+    name: 帕特帕塔爾語
 rolv_dialects:
   - rolv_code: 15554
     language_tag: gfk-x-HIS15554

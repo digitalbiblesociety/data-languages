@@ -1,8 +1,6 @@
 ---
 iso: diw
 name: Northwestern Dinka
-name_zh: 西北丁卡语
-name_zh_auto: true
 autonym: Thuɔŋjäŋ
 alt_names: [Dinka, "Dinka, Northwestern", Nord-Dinka, Ruweng]
 population: 93000
@@ -15,6 +13,12 @@ glottocode: nort2816
 glottolog_family_id: nilo1247
 glottolog_family_name: Nilotic
 glottolog_classification: "Nilotic > Western Nilotic > Dinka-Nuer > Dinka > Northwestern Dinka"
+translations:
+  - translation_iso: jpn
+    name: 北西ディンカ語
+  - translation_iso: zho
+    name: 西北丁卡语
+    auto: true
 rolv_dialects:
   - rolv_code: 6381
     language_tag: diw-x-HIS06381

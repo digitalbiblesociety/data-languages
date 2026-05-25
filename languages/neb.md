@@ -1,8 +1,6 @@
 ---
 iso: neb
 name: "Toura (Côte d'Ivoire)"
-name_zh: 托拉语
-name_zh_auto: true
 autonym: Ween
 alt_names: [Toura, "Toura (Cote d'Ivoire)", Tura]
 population: 67000
@@ -16,6 +14,10 @@ glottolog_family_id: mand1469
 glottolog_family_name: Mande
 glottolog_classification: "Mande > Eastern Mande > Southeastern Mande > Mano-Dan > Guro-Dan > Dan-Toura > Toura-Goo > Toura (Côte d'Ivoire)"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tura_language"
+translations:
+  - translation_iso: zho
+    name: 托拉语
+    auto: true
 rolv_dialects:
   - rolv_code: 17621
     language_tag: neb-x-HIS17621

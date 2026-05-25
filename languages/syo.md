@@ -1,7 +1,6 @@
 ---
 iso: syo
 name: Suoy
-name_zh: 绥语
 autonym: "Su'ung"
 alt_names: [Kasong, Pear]
 population: 930
@@ -15,5 +14,8 @@ glottolog_family_id: aust1305
 glottolog_family_name: Austroasiatic
 glottolog_classification: "Austroasiatic > Pearic > Western Pearic > Southern Chong > Suoy"
 wikipedia_url: "https://en.wikipedia.org/wiki/Suoy_language"
+translations:
+  - translation_iso: zho
+    name: 绥语
 ---
 Suoy is an endangered Pearic language of Cambodia spoken by a decreasing number of people, mainly older adults. It is spoken in Kampong Speu Province and Pursat Province, in the Phumi Krang Trachak area (Ethnologue).

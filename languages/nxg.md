@@ -1,7 +1,6 @@
 ---
 iso: nxg
 name: "Ngad'a"
-name_zh: 恩加达语
 autonym: Bahasa Ngada
 alt_names: [Badjava, Bajava, Bajawa, "Nad'a", "Nga'da", Ngada, Ngadha, Ngadha language, Rokka]
 population: 60000
@@ -15,6 +14,9 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Bima-Lembata > Flores > West-Central Flores > Central Flores-Paluqe > Central Flores > Ngada > Ngad'a"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ngadha_language"
+translations:
+  - translation_iso: zho
+    name: 恩加达语
 rolv_dialects:
   - rolv_code: 3811
     language_tag: nxg-x-HIS03811

@@ -1,8 +1,6 @@
 ---
 iso: dbr
 name: Dabarre
-name_zh: 达巴雷语
-name_zh_auto: true
 autonym: "Af-Dabarre"
 alt_names: [Dabarre hizkuntza]
 population: 23000
@@ -16,6 +14,12 @@ glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Cushitic > East Cushitic > Lowland East Cushitic > Southern Lowland East Cushitic > Mainstream Lowland East Cushitic > Omo-Tana > Eastern Omo-Tana > Dabarre-Tunni > Dabarre"
 wikipedia_url: "https://en.wikipedia.org/wiki/Dabarre_language"
+translations:
+  - translation_iso: ara
+    name: لغة الداباري
+  - translation_iso: zho
+    name: 达巴雷语
+    auto: true
 rolv_dialects:
   - rolv_code: 9063
     language_tag: dbr-x-HIS09063

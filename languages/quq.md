@@ -1,8 +1,6 @@
 ---
 iso: quq
 name: Quinqui
-name_zh: 昆基语
-name_zh_auto: true
 autonym: null
 alt_names: [Spain]
 population: null
@@ -16,5 +14,11 @@ glottolog_family_id: uncl1493
 glottolog_family_name: Unclassifiable
 glottolog_classification: "Unclassifiable > Quinqui"
 wikipedia_url: "https://en.wikipedia.org/wiki/Quinqui_jargon"
+translations:
+  - translation_iso: kor
+    name: 킹키 자곤
+  - translation_iso: zho
+    name: 昆基语
+    auto: true
 ---
 Quinqui jargon is associated with quincalleros. They are a semi-nomadic people who live mainly in the northern half of Spain. They prefer to be called mercheros. They have declined in number from earlier reports and are possibly vanishing as a distinct ethnic group.

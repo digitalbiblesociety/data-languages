@@ -1,7 +1,6 @@
 ---
 iso: wep
 name: Westphalien
-name_zh: 威斯特法伦方言
 autonym: Wäästfaalisch
 alt_names: [Dialecte westphalien, German, German (Westphalian), Neuniederdeutsch, Westfaals, Westfaelisch, Westfaliska, Westfälisch, Westfälische Dialekte, Westfäälsch Platt, Westphalian, Westphalian language]
 population: null
@@ -15,6 +14,11 @@ glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Germanic > Northwest Germanic > West Germanic > North Sea Germanic > Altsächsisch > Middle-Modern Low German > Low German > West Low German > Westphalic"
 wikipedia_url: "https://en.wikipedia.org/wiki/Westphalian_language"
+translations:
+  - translation_iso: jpn
+    name: ヴェストファーレン語
+  - translation_iso: zho
+    name: 威斯特法伦方言
 rolv_dialects:
   - rolv_code: 27814
     language_tag: wep-x-HIS27814

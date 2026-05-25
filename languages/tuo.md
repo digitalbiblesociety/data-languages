@@ -1,7 +1,6 @@
 ---
 iso: tuo
 name: Tucano
-name_zh: 巨嘴鳥語
 autonym: Dahseyé
 alt_names: [Dasea, Daxsea, Pisamira, Takuna, Tucano (Brésil), Tucano (Colombia), Tucano (Colombie), Tukana, Tukano, Tukána, "Ye'pâ-masa"]
 population: 11620
@@ -15,6 +14,11 @@ glottolog_family_id: tuca1253
 glottolog_family_name: Tucanoan
 glottolog_classification: "Tucanoan > Eastern Tucanoan > Eastern Eastern Tucanoan > Eastern Eastern Tucanoan I > Tucano"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tucano_language"
+translations:
+  - translation_iso: jpn
+    name: トゥカノ語
+  - translation_iso: zho
+    name: 巨嘴鳥語
 rolv_dialects:
   - rolv_code: 17720
     language_tag: tuo-x-HIS17720

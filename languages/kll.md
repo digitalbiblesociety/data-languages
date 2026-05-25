@@ -1,8 +1,6 @@
 ---
 iso: kll
 name: Kagan Kalagan
-name_zh: 卡甘卡拉甘语
-name_zh_auto: true
 autonym: Kaagan
 alt_names: ["Kalagan, Kagan"]
 population: 6000
@@ -15,4 +13,8 @@ glottocode: kaga1255
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Greater Central Philippine > Central Philippine > Mansakan > Western Mansakan > Kagan-Kalagan > Kagan Kalagan"
+translations:
+  - translation_iso: zho
+    name: 卡甘卡拉甘语
+    auto: true
 ---

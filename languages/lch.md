@@ -1,7 +1,6 @@
 ---
 iso: lch
 name: Luchazi
-name_zh: 卢查齐语
 autonym: Ngangela
 alt_names: [Chiluchazi, Cujazi, Lucazi, Lujash, Lujasi, Lujazi, Lutchaz, Lutshase, Luxage, Ponda]
 population: 431000
@@ -15,6 +14,9 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > Central-Western Bantu > Njila > Southern Njila > Chokwe-Lunda > Chokwe-Ngangela-Nyemba (K.20) > Ngangela-Nyemba > Luchazi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Luchazi"
+translations:
+  - translation_iso: zho
+    name: 卢查齐语
 rolv_dialects:
   - rolv_code: 31522
     language_tag: lch-x-HIS31522

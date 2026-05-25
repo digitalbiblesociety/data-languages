@@ -1,8 +1,6 @@
 ---
 iso: iso
 name: Isoko
-name_zh: 伊索科语
-name_zh_auto: true
 autonym: Biotu
 alt_names: ["\"Biotu\"", "\"Igabo\"", "\"Sobo\"", Sobo, Uzere dialect]
 population: 647000
@@ -16,6 +14,12 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Akpes-Edoid > Edoid > Southwestern Edoid > Isoko"
 wikipedia_url: "https://en.wikipedia.org/wiki/Isoko_language"
+translations:
+  - translation_iso: jpn
+    name: イソコ語
+  - translation_iso: zho
+    name: 伊索科语
+    auto: true
 rolv_dialects:
   - rolv_code: 10964
     language_tag: iso-x-HIS10964

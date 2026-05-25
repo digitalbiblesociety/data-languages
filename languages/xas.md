@@ -1,7 +1,6 @@
 ---
 iso: xas
 name: Kamas
-name_zh: 卡馬斯語
 autonym: калмажи шəкə
 alt_names: [Język kamasyjski, Kamaseg, Kamasinų kalba, Kamass, Kamassagiella, Kamasse, Kamassian, Kamassian language, Kamassin, Kamassinic, Kamassinisch, Kamassisch, Kamassische Sprache, Kamassish, Kamassisk språk, Kamassiska, Kamassz nyelv, Koibal, Lingua kamassina, Sayan, Sayan Samoyed, Sayan Samoyedic, Sayan-Samoyedic, kamassin kieli, ʒaǯ̕ kall, Камасински јазик, камасинский язык, カマス語]
 population: null
@@ -15,6 +14,13 @@ glottolog_family_id: ural1272
 glottolog_family_name: Uralic
 glottolog_classification: "Uralic > Samoyedic > Kamas-Selkup > Kamas-Koibal"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kamas_language"
+translations:
+  - translation_iso: jpn
+    name: カマス語
+  - translation_iso: kor
+    name: 카마스어
+  - translation_iso: zho
+    name: 卡馬斯語
 rolv_dialects:
   - rolv_code: 11452
     language_tag: xas-x-HIS11452

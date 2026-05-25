@@ -1,8 +1,6 @@
 ---
 iso: cnu
 name: Chenoua
-name_zh: 切努阿语
-name_zh_auto: true
 autonym: Chenoua
 alt_names: [Chenoua jezik, Chenoueg, Chenoui, Idioma chenoua, Sheliff Basin, Shenowa, Shènoï, Tacenwit]
 population: 15250
@@ -16,6 +14,14 @@ glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Berber > Greater Zenatic > Zenatic > Western Algerian Berber"
 wikipedia_url: "https://en.wikipedia.org/wiki/Shenwa_language"
+translations:
+  - translation_iso: ara
+    name: لغة شناوية
+  - translation_iso: jpn
+    name: シェヌア語
+  - translation_iso: zho
+    name: 切努阿语
+    auto: true
 rolv_dialects:
   - rolv_code: 24678
     language_tag: cnu-x-HIS24678

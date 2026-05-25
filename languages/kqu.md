@@ -1,8 +1,6 @@
 ---
 iso: kqu
 name: Seroa
-name_zh: 塞罗亚语
-name_zh_auto: true
 autonym: Seroa
 population: null
 country_id: ZA
@@ -15,6 +13,10 @@ glottolog_family_id: tuuu1241
 glottolog_family_name: Tuu
 glottolog_classification: "Tuu > !Ui > Eastern !Ui > Vaal-Orange"
 wikipedia_url: "https://en.wikipedia.org/wiki/Seroa"
+translations:
+  - translation_iso: zho
+    name: 塞罗亚语
+    auto: true
 rolv_dialects:
   - rolv_code: 16562
     language_tag: kqu-x-HIS16562

@@ -1,8 +1,6 @@
 ---
 iso: tbh
 name: Dharawal
-name_zh: 达拉瓦尔语
-name_zh_auto: true
 autonym: Dharawal
 alt_names: [2013), Bahasa Tharawal, Bidjigal, Carawal, "Darawa:l", Darawal, Dariwal, Dharawa, Dharawaal, Dharrawal (Besold, Five Islands tribe, Gujangal, Guyangal, Lenga thurawal, Mathews, Ta ga ry, Ta-ga-ry, Tharawal, Tharawal language, Thurawal, Thurrawal, Thurrawall, Turawal, Turrubul, Turu wal, Turuwal, Turuwul, Turuwull, Tutuwull, Wodiwodi, தரவால் மொழி]
 population: 27
@@ -16,6 +14,10 @@ glottolog_family_id: pama1250
 glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > Southeastern Pama-Nyungan > New South Wales Pama-Nyungan > Yuin-Kuri > Yuin > Northern Costal Yuin > Thurawal"
 wikipedia_url: "https://en.wikipedia.org/wiki/Dharawal_language"
+translations:
+  - translation_iso: zho
+    name: 达拉瓦尔语
+    auto: true
 rolv_dialects:
   - rolv_code: 17456
     language_tag: tbh-x-HIS17456

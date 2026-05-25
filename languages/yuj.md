@@ -1,8 +1,6 @@
 ---
 iso: yuj
 name: "Karkar-Yuri"
-name_zh: 卡尔卡尔-尤里语
-name_zh_auto: true
 autonym: Yuri
 alt_names: [Idioma Yuri, Karkar, Karkar-Yuri jezik, Yuri (Karkar)]
 population: 1140
@@ -16,6 +14,10 @@ glottolog_family_id: pauw1244
 glottolog_family_name: Pauwasi
 glottolog_classification: "Pauwasi > Eastern Pauwasi > Karkar-Yuri"
 wikipedia_url: "https://en.wikipedia.org/wiki/Karkar_language"
+translations:
+  - translation_iso: zho
+    name: 卡尔卡尔-尤里语
+    auto: true
 rolv_dialects:
   - rolv_code: 11648
     language_tag: yuj-x-HIS11648

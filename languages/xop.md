@@ -1,8 +1,6 @@
 ---
 iso: xop
 name: Kopar
-name_zh: 科帕尔语
-name_zh_auto: true
 autonym: null
 population: 540
 country_id: PG
@@ -15,5 +13,9 @@ glottolog_family_id: lowe1423
 glottolog_family_name: Lower Sepik
 glottolog_classification: "Lower Sepik > Nor > Kopar"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kopar_language"
+translations:
+  - translation_iso: zho
+    name: 科帕尔语
+    auto: true
 ---
 Kopar is a Lower Sepik language of Marienberg Rural LLG, East Sepik Province, Papua New Guinea.

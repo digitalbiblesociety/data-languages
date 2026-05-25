@@ -1,8 +1,6 @@
 ---
 iso: cpn
 name: Cherepon
-name_zh: 切雷蓬语
-name_zh_auto: true
 autonym: Chiripon
 alt_names: [Chiripong, Guang, Kyerepong, Okere]
 population: 132000
@@ -16,5 +14,9 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Kwa Volta-Congo > Nyo > Potou-Tano > Tano > Guang > South Guang > Hill South Guang > Gua-Cherepon > Cherepon"
 wikipedia_url: "https://en.wikipedia.org/wiki/Cherepon_language"
+translations:
+  - translation_iso: zho
+    name: 切雷蓬语
+    auto: true
 ---
 Cherepon, also known as Okere or Ɔkere, is a Guang language spoken by 111,000 in Ghana.

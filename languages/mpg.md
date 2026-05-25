@@ -1,8 +1,6 @@
 ---
 iso: mpg
 name: Marba
-name_zh: 玛尔巴语
-name_zh_auto: true
 autonym: Marba / Azumeina
 alt_names: ["'Azumeina", Azumeina, Kolong, Kulong, Kulung, Maraba, Marba hizkuntza, Marba jezik, Marbaeg]
 population: 271000
@@ -16,6 +14,10 @@ glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > Masa > North Masa > Marba-Musey > Marba"
 wikipedia_url: "https://en.wikipedia.org/wiki/Marba_language"
+translations:
+  - translation_iso: zho
+    name: 玛尔巴语
+    auto: true
 rolv_dialects:
   - rolv_code: 2932
     language_tag: mpg-x-HIS02932

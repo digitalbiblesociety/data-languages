@@ -1,7 +1,6 @@
 ---
 iso: ise
 name: Italian Sign Language
-name_zh: 義大利手語
 autonym: Lingua dei Segni Italiana
 alt_names: [Lingua Italiana Dei Segni, Lis]
 population: 40000
@@ -15,6 +14,13 @@ glottolog_family_id: sign1238
 glottolog_family_name: Sign Language
 glottolog_classification: "Sign Language > L1 Sign Language > LSFic > Italian Sign > Italian Sign Language"
 wikipedia_url: "https://en.wikipedia.org/wiki/Italian_Sign_Language"
+translations:
+  - translation_iso: jpn
+    name: イタリア手話
+  - translation_iso: kor
+    name: 이탈리아 수화
+  - translation_iso: zho
+    name: 義大利手語
 rolv_dialects:
   - rolv_code: 27910
     language_tag: ise-x-HIS27910

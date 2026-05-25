@@ -1,8 +1,6 @@
 ---
 iso: dmw
 name: Mudburra
-name_zh: 穆德布拉语
-name_zh_auto: true
 autonym: Madbara
 alt_names: [Karranga, Moodburra, Mootburra, Mudbara, Mudbarra, Mudbera, Mudbra, Mudbura, Mulpira, Mutburra, Mutpura, Mutpurra, Pinkangama]
 population: 92
@@ -16,6 +14,10 @@ glottolog_family_id: pama1250
 glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > Desert Nyungic > Ngumpin-Yapa > Ngumpin > Eastern Ngumpin > Mudburra"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mudburra_language"
+translations:
+  - translation_iso: zho
+    name: 穆德布拉语
+    auto: true
 rolv_dialects:
   - rolv_code: 24819
     language_tag: dmw-x-HIS24819

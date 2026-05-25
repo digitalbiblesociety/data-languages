@@ -1,8 +1,6 @@
 ---
 iso: kqr
 name: Kimaragang
-name_zh: 基马拉甘语
-name_zh_auto: true
 autonym: Kimaragan
 alt_names: [Kimaragangan, Maragang, Marigang]
 population: 25000
@@ -16,6 +14,10 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > North Borneo Malayo-Polynesian > Sabahan > Southwest Sabahan > Greater Dusunic > Dusunic > Kimaragang"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kimaragang_language"
+translations:
+  - translation_iso: zho
+    name: 基马拉甘语
+    auto: true
 rolv_dialects:
   - rolv_code: 12006
     language_tag: kqr-x-HIS12006

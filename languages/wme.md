@@ -1,8 +1,6 @@
 ---
 iso: wme
 name: Wambule
-name_zh: 瓦布莱语
-name_zh_auto: true
 autonym: Chourase
 alt_names: [Ambule, Chaurasia, Chaurasya, Chaurāsya, "Chouras'ya'", Chourasia, Ombule, Tsaurasya, Tśaurasya, Umbule, Wambouleg, Wambulish, ภาษาวัมบูเล]
 population: 1000
@@ -16,6 +14,10 @@ glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Himalayish > Mahakiranti > Kiranti > Chaurasiya > Wambule"
 wikipedia_url: "https://en.wikipedia.org/wiki/Wambule_language"
+translations:
+  - translation_iso: zho
+    name: 瓦布莱语
+    auto: true
 rolv_dialects:
   - rolv_code: 8918
     language_tag: wme-x-HIS08918

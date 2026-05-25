@@ -1,7 +1,6 @@
 ---
 iso: sjw
 name: Shawnee
-name_zh: 肖尼語
 autonym: Sawanwa
 alt_names: [Chavanés, Lingua shawnee, Шони]
 population: 260
@@ -15,5 +14,10 @@ glottolog_family_id: algi1248
 glottolog_family_name: Algic
 glottolog_classification: "Algic > Algonquian-Blackfoot > Algonquian > Eastern Great Lakes Algonquian > Shawnee"
 wikipedia_url: "https://en.wikipedia.org/wiki/Shawnee_language"
+translations:
+  - translation_iso: jpn
+    name: ショーニー語
+  - translation_iso: zho
+    name: 肖尼語
 ---
 Shawnee is a Central Algonquian language spoken in parts of central and northeastern Oklahoma by the Shawnee people. Historically, it was spoken across a wide region of the Eastern United States, primarily north of the Ohio River. This territory included areas within present-day Ohio, West Virginia, Kentucky, and Pennsylvania.

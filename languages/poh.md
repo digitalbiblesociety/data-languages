@@ -1,8 +1,6 @@
 ---
 iso: poh
 name: "Poqomchi'"
-name_zh: 波寇姆奇语
-name_zh_auto: true
 autonym: "Poqomchi, Occidental"
 alt_names: [Eastern Pokomchí, Idioma poqomchi, Língua pocomchi, Pocomchí, Poconchí, Pokomchi, Pokomchí, Pokonchí, Poqomchi, "Poqomchi', Eastern", Poqomchí, Tactic Pokomchí, Покомчиски јазик]
 population: 177000
@@ -16,6 +14,14 @@ glottolog_family_id: maya1287
 glottolog_family_name: Mayan
 glottolog_classification: "Mayan > Core Mayan > Quichean-Mamean > Greater Quichean > Poqom > Poqomchi'"
 wikipedia_url: "https://en.wikipedia.org/wiki/Poqomchi%CA%BC_language"
+translations:
+  - translation_iso: jpn
+    name: ポコムチ語
+  - translation_iso: kor
+    name: 포콤치어
+  - translation_iso: zho
+    name: 波寇姆奇语
+    auto: true
 rolv_dialects:
   - rolv_code: 407
     language_tag: poh-x-HIS00407

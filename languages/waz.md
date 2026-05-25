@@ -1,8 +1,6 @@
 ---
 iso: waz
 name: Wampur
-name_zh: 瓦姆普尔语
-name_zh_auto: true
 autonym: Wampul
 population: 320
 country_id: PG
@@ -15,6 +13,10 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > North New Guinea linkage > Huon Gulf > Markham > Upper Markham > Mountain Upper Markham > Wampur"
 wikipedia_url: "https://en.wikipedia.org/wiki/Wampur_language"
+translations:
+  - translation_iso: zho
+    name: 瓦姆普尔语
+    auto: true
 rolv_dialects:
   - rolv_code: 3150
     language_tag: waz-x-HIS03150

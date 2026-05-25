@@ -1,8 +1,6 @@
 ---
 iso: sgp
 name: Singpho
-name_zh: 辛光语
-name_zh_auto: true
 autonym: Jingphaw
 alt_names: [Kachin, Sing-Fo, Yingpho]
 population: 2500
@@ -16,6 +14,14 @@ glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Brahmaputran > Jingpho-Luish > Jingpho > Northern Jinghpaw"
 wikipedia_url: "https://en.wikipedia.org/wiki/Singpho_dialect"
+translations:
+  - translation_iso: hin
+    name: सिंगफ़ो भाषा
+  - translation_iso: jpn
+    name: シンポー語
+  - translation_iso: zho
+    name: 辛光语
+    auto: true
 rolv_dialects:
   - rolv_code: 20175
     language_tag: sgp-x-HIS20175

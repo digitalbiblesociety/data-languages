@@ -1,8 +1,6 @@
 ---
 iso: trj
 name: Toram
-name_zh: 托兰语
-name_zh_auto: true
 autonym: Torom
 alt_names: [Torum]
 population: 8460
@@ -16,5 +14,9 @@ glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > East Chadic > East Chadic B > East Chadic B.1 > Dangla-Mabire-Birgit > Birgit-Mogum-Toram > Toram"
 wikipedia_url: "https://en.wikipedia.org/wiki/Toram_language"
+translations:
+  - translation_iso: zho
+    name: 托兰语
+    auto: true
 ---
 Toram is an Afro-Asiatic language spoken in central Chad. Speakers have shifted to Chadian Arabic.

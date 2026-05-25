@@ -1,8 +1,6 @@
 ---
 iso: esg
 name: Aheri Gondi
-name_zh: 阿赫里贡迪语
-name_zh_auto: true
 autonym: "गोण्डि, గోణ్డి, ଗୋଣ୍ଡି, 𑵶𑶓𑶕𑶂𑶋, 𑴎𑴽𑵀𑴘𑴳,"
 alt_names: [Aheri, "Gondi, Aheri"]
 population: 2980000
@@ -16,6 +14,14 @@ glottolog_family_id: drav1251
 glottolog_family_name: Dravidian
 glottolog_classification: "Dravidian > South Dravidian > South Dravidian II > Gondi > Northwest Gondi > Southwest Gondi > Southern Gondi > Eastern Gondi > Aheri Gondi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Aheri_Gondi_language"
+translations:
+  - translation_iso: hin
+    name: अहेरी गोंडी
+  - translation_iso: jpn
+    name: アヘリ・ゴンディ
+  - translation_iso: zho
+    name: 阿赫里贡迪语
+    auto: true
 rolv_dialects:
   - rolv_code: 10297
     language_tag: esg-x-HIS10297

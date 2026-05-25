@@ -1,8 +1,6 @@
 ---
 iso: xkf
 name: Khengkha
-name_zh: 克恒卡语
-name_zh_auto: true
 autonym: " ྨཕགལཔམཕ"
 alt_names: [Ken, Keng, Kenkha, Khen, Kheng, Khenkha, Kyengkha]
 population: 31500
@@ -16,6 +14,12 @@ glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Bodic > Bodish > Phobjib-Chali-Bumthangic > Chali-Bumthangic > Bumthangic > Khengkha"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kheng_language"
+translations:
+  - translation_iso: jpn
+    name: ケン語
+  - translation_iso: zho
+    name: 克恒卡语
+    auto: true
 rolv_dialects:
   - rolv_code: 26662
     language_tag: xkf-x-HIS26662

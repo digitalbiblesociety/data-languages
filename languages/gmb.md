@@ -1,8 +1,6 @@
 ---
 iso: gmb
 name: "Gula'alaa"
-name_zh: 古拉阿拉语
-name_zh_auto: true
 autonym: Kwai
 alt_names: [Ngongosila, Südliche Salomons-Inseln]
 population: 1570
@@ -16,6 +14,10 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Southeast Solomonic > Longgu-Malaita-Makira > Malaita-Makira > Malaita > Central-Northern Malaita > Gula'alaa"
 wikipedia_url: "https://en.wikipedia.org/wiki/Gula%CA%BCalaa_language"
+translations:
+  - translation_iso: zho
+    name: 古拉阿拉语
+    auto: true
 rolv_dialects:
   - rolv_code: 3623
     language_tag: gmb-x-HIS03623

@@ -1,8 +1,6 @@
 ---
 iso: cbg
 name: Chimila
-name_zh: 奇米拉语
-name_zh_auto: true
 autonym: Caca Weranos
 alt_names: [Chamila, Chimile, Ette Ennaka, Ette Taara, San Jorge, Shimizya, Simiza]
 population: 2000
@@ -16,5 +14,9 @@ glottolog_family_id: chib1249
 glottolog_family_name: Chibchan
 glottolog_classification: "Chibchan > Core Chibchan > Magdalenic > Northern Magdalenic > Chimila"
 wikipedia_url: "https://en.wikipedia.org/wiki/Chimila_language"
+translations:
+  - translation_iso: zho
+    name: 奇米拉语
+    auto: true
 ---
 Chimila, also known as Ette Taara, is a Chibchan language of Colombia, spoken by the Chimila people, who live between the lower Magdalena River, the Sierra Nevada de Santa Maria and the Cesar River. Chimila was historically grouped with the Malibu languages, but then it was classified as a Chibchan language.

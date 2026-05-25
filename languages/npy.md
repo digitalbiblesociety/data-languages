@@ -1,8 +1,6 @@
 ---
 iso: npy
 name: Napu
-name_zh: 纳普语
-name_zh_auto: true
 autonym: Pekurehua
 population: 6240
 country_id: ID
@@ -15,5 +13,9 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Greater South Sulawesi > Rampi-Seko-Badaic > Badaic-Limola > Badaic > Napu"
 wikipedia_url: "https://en.wikipedia.org/wiki/Napu_language"
+translations:
+  - translation_iso: zho
+    name: 纳普语
+    auto: true
 ---
 Napu is an Austronesian language spoken in the North Lore district of Central Sulawesi, Indonesia. Together with Bada and Behoa, it belongs to the Badaic subgroup.

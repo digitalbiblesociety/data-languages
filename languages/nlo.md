@@ -1,8 +1,6 @@
 ---
 iso: nlo
 name: Ngul
-name_zh: 恩古尔语
-name_zh_auto: true
 autonym: Di
 alt_names: [Ingul, Ngoli, Nguli, Ngulu]
 population: 8400
@@ -16,6 +14,10 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > Central-Western Bantu > West-Coastal Bantu > Ngwii"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ngwii_language"
+translations:
+  - translation_iso: zho
+    name: 恩古尔语
+    auto: true
 rolv_dialects:
   - rolv_code: 1551
     language_tag: nlo-x-HIS01551

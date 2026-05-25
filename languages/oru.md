@@ -1,8 +1,6 @@
 ---
 iso: oru
 name: Ormuri
-name_zh: 奥尔穆里语
-name_zh_auto: true
 autonym: " Bargista"
 alt_names: [Baraki, Baraks, Burki, Logari dialect, Oormuri, Ormari, Ormui, Ormur, Ormurí, Urmuri, Warmaro]
 population: 1000
@@ -16,6 +14,14 @@ glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Iranian-Nuristani > Iranian > Ormuri-Parachi > Ormuri"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ormuri"
+translations:
+  - translation_iso: ara
+    name: أرمري
+  - translation_iso: jpn
+    name: オルムル語
+  - translation_iso: zho
+    name: 奥尔穆里语
+    auto: true
 rolv_dialects:
   - rolv_code: 15327
     language_tag: oru-x-HIS15327

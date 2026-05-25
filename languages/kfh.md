@@ -1,8 +1,6 @@
 ---
 iso: kfh
 name: Kurichiya
-name_zh: 库里奇亚语
-name_zh_auto: true
 autonym: Kowohans
 alt_names: [Kurichchia, Kurichia, Kurichiyars, Kuruchans]
 population: 29400
@@ -16,6 +14,10 @@ glottolog_family_id: drav1251
 glottolog_family_name: Dravidian
 glottolog_classification: "Dravidian > South Dravidian > South Dravidian I > Tamil-Kannada > Tamil-Kota > Tamil-Toda > Tamil-Irula > Tamil-Kodagu > Tamil-Malayalam > Malayalamoid > Kurichiya"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kurichiya_language"
+translations:
+  - translation_iso: zho
+    name: 库里奇亚语
+    auto: true
 rolv_dialects:
   - rolv_code: 25752
     language_tag: kfh-x-HIS25752

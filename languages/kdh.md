@@ -1,8 +1,6 @@
 ---
 iso: kdh
 name: Tem
-name_zh: 特姆语
-name_zh_auto: true
 autonym: Kotokoli
 alt_names: [Cotocoli, Temba, Tim, Timu]
 population: 390200
@@ -16,6 +14,12 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Gur > Central Gur > Southern Central Gur > Grusi > East-West Grusi > Eastern Grusi > Tem-Chala > Tem"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tem_language"
+translations:
+  - translation_iso: jpn
+    name: テム語
+  - translation_iso: zho
+    name: 特姆语
+    auto: true
 rolv_dialects:
   - rolv_code: 22304
     language_tag: kdh-x-HIS22304

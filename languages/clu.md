@@ -1,8 +1,6 @@
 ---
 iso: clu
 name: Caluyanun
-name_zh: 卡卢亚农语
-name_zh_auto: true
 autonym: null
 alt_names: [Bisaya, Caluyanen, Caluyanhon, Caluyanon language, Caluyanon nga yinaknan, ภาษากาลูยานอน]
 population: 30000
@@ -16,6 +14,10 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Greater Central Philippine > Central Philippine > Bisayan > West Bisayan > Kuyan > Datagnon-Santa Teresa-Semirara > Caluyanun"
 wikipedia_url: "https://en.wikipedia.org/wiki/Caluyanon_language"
+translations:
+  - translation_iso: zho
+    name: 卡卢亚农语
+    auto: true
 rolv_dialects:
   - rolv_code: 8623
     language_tag: clu-x-HIS08623

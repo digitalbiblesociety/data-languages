@@ -1,7 +1,6 @@
 ---
 iso: cce
 name: Chopi
-name_zh: 丘皮語
 autonym: Chichopi
 alt_names: [Cicopi, Copi, Shichopi, Shicopi, Tschopi, Txitxopi, Txopi]
 population: 1100000
@@ -15,6 +14,11 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > East Bantu > Southern Bantu > Nuclear Southern Bantu > Dimsuffix Southern Bantu > Nguni-Tsonga-Copi > Tsonga-Copi > Chopi (S.60) > Chopi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Chopi_language"
+translations:
+  - translation_iso: jpn
+    name: チョピ語
+  - translation_iso: zho
+    name: 丘皮語
 rolv_dialects:
   - rolv_code: 8906
     language_tag: cce-x-HIS08906

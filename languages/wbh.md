@@ -1,8 +1,6 @@
 ---
 iso: wbh
 name: Wanda
-name_zh: 万达语
-name_zh_auto: true
 autonym: Iciwanda
 alt_names: [Ichiwanda, Kiwanda, Vanda, Wandia]
 population: 24000
@@ -16,6 +14,10 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > East Bantu > Corridor Bantu > Mbozi > Mwika > Fipaic > Maluwawaru > Wanda"
 wikipedia_url: "https://en.wikipedia.org/wiki/Wanda_language"
+translations:
+  - translation_iso: zho
+    name: 万达语
+    auto: true
 rolv_dialects:
   - rolv_code: 27983
     language_tag: wbh-x-HIS27983

@@ -1,7 +1,6 @@
 ---
 iso: ile
 name: Interlingue
-name_zh: 西方国际语
 autonym: Interlingue
 alt_names: [Occidental]
 population: 50
@@ -14,5 +13,16 @@ glottolog_family_id: arti1236
 glottolog_family_name: Artificial Language
 glottolog_classification: "Artificial Language > Interlingue (Occidental)"
 wikipedia_url: "https://en.wikipedia.org/wiki/Interlingue"
+translations:
+  - translation_iso: ara
+    name: الغربية (لغة)
+  - translation_iso: hin
+    name: इंटरलिंगुई
+  - translation_iso: jpn
+    name: インターリング
+  - translation_iso: kor
+    name: 인테르링구에
+  - translation_iso: zho
+    name: 西方国际语
 ---
 Interlingue, originally Occidental ( ), is an international auxiliary language created in 1922 and renamed in 1949. Its creator, Edgar de Wahl, sought to achieve maximal grammatical regularity and natural character. The vocabulary is based on pre-existing words from various languages and a derivational system which uses recognized prefixes and suffixes.

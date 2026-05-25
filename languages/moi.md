@@ -1,8 +1,6 @@
 ---
 iso: moi
 name: Mboi
-name_zh: 姆博伊语
-name_zh_auto: true
 autonym: Gena
 alt_names: [Mboire, Mboyi]
 population: 19000
@@ -16,6 +14,10 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Cameroun-Ubangian > Bena-Mboi > Mboi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mboi_language"
+translations:
+  - translation_iso: zho
+    name: 姆博伊语
+    auto: true
 rolv_dialects:
   - rolv_code: 4747
     language_tag: moi-x-HIS04747

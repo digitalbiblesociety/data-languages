@@ -1,8 +1,6 @@
 ---
 iso: gdu
 name: Gudu
-name_zh: 古杜语
-name_zh_auto: true
 autonym: Gudo
 alt_names: [Gombi, Gutu]
 population: 5000
@@ -16,6 +14,12 @@ glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > Biu-Mandara > South Biu-Mandara > Bataic > Gudu"
 wikipedia_url: "https://en.wikipedia.org/wiki/Gudu_language"
+translations:
+  - translation_iso: kor
+    name: 구두어
+  - translation_iso: zho
+    name: 古杜语
+    auto: true
 rolv_dialects:
   - rolv_code: 10384
     language_tag: gdu-x-HIS10384

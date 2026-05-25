@@ -1,8 +1,6 @@
 ---
 iso: kvx
 name: Parkari Koli
-name_zh: 帕尔卡里科利语
-name_zh_auto: true
 autonym: Parkari
 alt_names: ["Koli, Parkari", Lenga koli parkari, باركري كولي]
 population: 358000
@@ -17,6 +15,12 @@ glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Indo-Aryan > Middle-Modern Indo-Aryan > Continental Indo-Aryan > Midlands Indo-Aryan > Apabhramsic > Gujarati-Rajasthani > Rajasthani > Western Rajasthani > Indus Rajasthani > Parkari Koli"
 wikipedia_url: "https://en.wikipedia.org/wiki/Parkari_Koli_language"
+translations:
+  - translation_iso: ara
+    name: باركري كولي
+  - translation_iso: zho
+    name: 帕尔卡里科利语
+    auto: true
 rolv_dialects:
   - rolv_code: 22731
     language_tag: kvx-x-HIS22731

@@ -1,8 +1,6 @@
 ---
 iso: tmq
 name: Tumleo
-name_zh: 图姆莱奥语
-name_zh_auto: true
 autonym: null
 population: 790
 country_id: PG
@@ -15,6 +13,10 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > North New Guinea linkage > Schouten linkage > Siau > Sissano-Tumleo > Ali-Tumleo > Tumleo"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tumleo_language"
+translations:
+  - translation_iso: zho
+    name: 图姆莱奥语
+    auto: true
 rolv_dialects:
   - rolv_code: 516
     language_tag: tmq-x-HIS00516

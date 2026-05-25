@@ -1,8 +1,6 @@
 ---
 iso: xtc
 name: "Katcha-Kadugli-Miri"
-name_zh: 卡特查-卡杜格利-米里语
-name_zh_auto: true
 autonym: Central Kadu
 alt_names: [Kadugli, Katcha]
 population: 75000
@@ -16,6 +14,10 @@ glottolog_family_id: kadu1256
 glottolog_family_name: Kadugli-Krongo
 glottolog_classification: "Kadugli-Krongo > Central-Western Kadugli-Krongo > Katcha-Kadugli-Miri-Kanga > Katcha-Kadugli-Miri"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kadugli_language"
+translations:
+  - translation_iso: zho
+    name: 卡特查-卡杜格利-米里语
+    auto: true
 rolv_dialects:
   - rolv_code: 1861
     language_tag: xtc-x-HIS01861

@@ -1,8 +1,6 @@
 ---
 iso: kys
 name: Baram Kayan
-name_zh: 巴拉姆卡扬语
-name_zh_auto: true
 autonym: Kajan
 alt_names: [Baram Kajan, Kayan (Baram), "Kayan, Baram"]
 population: 4150
@@ -15,6 +13,10 @@ glottocode: bara1370
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > North Borneo Malayo-Polynesian > Kayan-Murik-Modang > Kayan-Murik > Kayanic > Baram Kayan"
+translations:
+  - translation_iso: zho
+    name: 巴拉姆卡扬语
+    auto: true
 rolv_dialects:
   - rolv_code: 11720
     language_tag: kys-x-HIS11720

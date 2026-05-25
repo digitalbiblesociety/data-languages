@@ -1,8 +1,6 @@
 ---
 iso: mjp
 name: Malapandaram
-name_zh: 玛拉潘达拉姆语
-name_zh_auto: true
 autonym: Hill Pantaram
 alt_names: [Malapantaram, Malepantaram, Pandaram Basha]
 population: 5850
@@ -16,5 +14,9 @@ glottolog_family_id: drav1251
 glottolog_family_name: Dravidian
 glottolog_classification: "Dravidian > South Dravidian > South Dravidian I > Tamil-Kannada > Tamil-Kota > Tamil-Toda > Tamil-Irula > Tamil-Kodagu > Tamil-Malayalam > Tamiloid > Malapandaram"
 wikipedia_url: "https://en.wikipedia.org/wiki/Malapandaram_language"
+translations:
+  - translation_iso: zho
+    name: 玛拉潘达拉姆语
+    auto: true
 ---
 Malapandaram is a Dravidian language of Kerala and Tamil Nadu that is closely related to Tamil. This is the language of the Malappandaram tribe, who live in the forest areas of Tamil Nadu and Kerala.

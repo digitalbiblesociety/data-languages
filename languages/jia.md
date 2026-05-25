@@ -1,8 +1,6 @@
 ---
 iso: jia
 name: Jina
-name_zh: 吉纳语
-name_zh_auto: true
 autonym: Zina
 alt_names: [Zine]
 population: 1500
@@ -16,6 +14,10 @@ glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > Biu-Mandara > North Biu-Mandara > Kotoko-Buduma > Kotoko Meridional > Jina"
 wikipedia_url: "https://en.wikipedia.org/wiki/Jina_language"
+translations:
+  - translation_iso: zho
+    name: 吉纳语
+    auto: true
 rolv_dialects:
   - rolv_code: 11167
     language_tag: jia-x-HIS11167

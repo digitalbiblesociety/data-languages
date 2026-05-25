@@ -1,7 +1,6 @@
 ---
 iso: oka
 name: Okanagan
-name_zh: 奧卡諾根語
 autonym: Colville
 alt_names: [Colville-Okanagan, Nsilxcín, Nsyilxcen, Nsyilxcn, Nsyilxcən, Nsəlxcin, Okanagan-Colville, Okanagon, Okanagon Cluster, Okanogan, Okanogán, Okinagan, n̓səl̓̓xčin̓]
 population: 400
@@ -16,6 +15,17 @@ glottolog_family_id: sali1255
 glottolog_family_name: Salishan
 glottolog_classification: "Salishan > Interior Salish > Southern Interior Salish > Okanaganic > Okanagan"
 wikipedia_url: "https://en.wikipedia.org/wiki/Okanagan_language"
+translations:
+  - translation_iso: ara
+    name: الأوكاناغانية
+  - translation_iso: hin
+    name: ओकानागन भाषा
+  - translation_iso: jpn
+    name: オカナゴン語
+  - translation_iso: kor
+    name: 오카나간어
+  - translation_iso: zho
+    name: 奧卡諾根語
 rolv_dialects:
   - rolv_code: 15254
     language_tag: oka-x-HIS15254

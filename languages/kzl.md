@@ -1,8 +1,6 @@
 ---
 iso: kzl
 name: Kayeli
-name_zh: 卡耶利语
-name_zh_auto: true
 autonym: Bahasa Kayeli
 alt_names: [Caeli, Cajeli, Gaeli, Kajeli, Liliali]
 population: 800
@@ -16,6 +14,10 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Nunusaku > Kayeli"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kayeli_language"
+translations:
+  - translation_iso: zho
+    name: 卡耶利语
+    auto: true
 rolv_dialects:
   - rolv_code: 11748
     language_tag: kzl-x-HIS11748

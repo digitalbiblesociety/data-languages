@@ -1,8 +1,6 @@
 ---
 iso: kxz
 name: Kerewo
-name_zh: 克雷沃语
-name_zh_auto: true
 autonym: Kerewa
 alt_names: [Kerewa-Goari]
 population: 2200
@@ -16,6 +14,10 @@ glottolog_family_id: kiwa1251
 glottolog_family_name: Kiwaian
 glottolog_classification: "Kiwaian > Turama-Kerewo > Kerewo"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kerewo_language"
+translations:
+  - translation_iso: zho
+    name: 克雷沃语
+    auto: true
 rolv_dialects:
   - rolv_code: 505
     language_tag: kxz-x-HIS00505

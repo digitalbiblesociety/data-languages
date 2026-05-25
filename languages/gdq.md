@@ -1,7 +1,6 @@
 ---
 iso: gdq
 name: Mehri
-name_zh: 迈赫拉语
 autonym: Mahri
 alt_names: [Bahasa Mehri, Idioma mehrí, Mahri hizkuntza, Mehreg, Mehrī, Meḥri, Meḥri, Méhri, South Arabian, Sydarabiska språk, لغة مهرية, ภาษาเมห์รี]
 population: 225900
@@ -15,6 +14,13 @@ glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Semitic > West Semitic > Modern South Arabian > Hobyot-Western MSA > Western MSA > Mehri"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mehri_language"
+translations:
+  - translation_iso: ara
+    name: اللغة المهرية
+  - translation_iso: jpn
+    name: マフラ語
+  - translation_iso: zho
+    name: 迈赫拉语
 rolv_dialects:
   - rolv_code: 13961
     language_tag: gdq-x-HIS13961

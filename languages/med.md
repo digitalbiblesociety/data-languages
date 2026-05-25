@@ -1,7 +1,6 @@
 ---
 iso: med
 name: Melpa
-name_zh: 美尔帕语
 autonym: null
 alt_names: [Hagen, Medlpa]
 population: 100000
@@ -15,6 +14,11 @@ glottolog_family_id: nucl1709
 glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Chimbu-Wahgi > Hagen > Melpa-Tembagla > Melpa"
 wikipedia_url: "https://en.wikipedia.org/wiki/Melpa_language"
+translations:
+  - translation_iso: jpn
+    name: メルパ語
+  - translation_iso: zho
+    name: 美尔帕语
 rolv_dialects:
   - rolv_code: 362
     language_tag: med-x-HIS00362

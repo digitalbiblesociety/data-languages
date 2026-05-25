@@ -1,8 +1,6 @@
 ---
 iso: tme
 name: Tremembé
-name_zh: 特雷姆贝语
-name_zh_auto: true
 autonym: Teremembé
 alt_names: [Brazil, Tremembe]
 population: null
@@ -16,5 +14,9 @@ glottolog_family_id: unat1236
 glottolog_family_name: Unattested
 glottolog_classification: "Unattested > Tremembé"
 wikipedia_url: "https://en.wikipedia.org/wiki/Trememb%C3%A9_language"
+translations:
+  - translation_iso: zho
+    name: 特雷姆贝语
+    auto: true
 ---
 Tremembé, Teremembé or Taramembe is an extinct and unattested language of Brazil. It was originally spoken by the Tremembé people, who once inhabited the northern Brazilian coasts from Pará to Ceará. The Tremembé were described as a "Tapuia" tribe - that is, not one of the dominant Tupi–Guarani peoples of the coasts. It was thought "very likely" to belong to the Macro-Jê languages by John Alden Mason. Only a few personal names of this language were recorded before it became extinct in the early 19th century.

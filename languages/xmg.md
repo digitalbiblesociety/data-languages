@@ -1,8 +1,6 @@
 ---
 iso: xmg
 name: Mengaka
-name_zh: 门加卡语
-name_zh_auto: true
 autonym: " Bagam"
 alt_names: [Bamileke-Mengaka, Benzing, Ghap, Megaka]
 population: 38500
@@ -16,6 +14,10 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Wide Grassfields > Narrow Grassfields > Mbam-Nkam > Southern Mbam-Nkam > Bamileke > West Bamileke > Mengaka"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mengaka_language"
+translations:
+  - translation_iso: zho
+    name: 门加卡语
+    auto: true
 rolv_dialects:
   - rolv_code: 4361
     language_tag: xmg-x-HIS04361

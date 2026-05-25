@@ -1,8 +1,6 @@
 ---
 iso: kni
 name: Kanufi
-name_zh: 卡努菲语
-name_zh_auto: true
 autonym: Anib
 alt_names: [Karshi]
 population: 10400
@@ -16,5 +14,9 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Benue-Congo Plateau > Ninzic > Kanufi-Ninkyob-Angan > Kanufi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kanufi_language"
+translations:
+  - translation_iso: zho
+    name: 卡努菲语
+    auto: true
 ---
 Kanufi (Anib) is a Plateau language of Nigeria.

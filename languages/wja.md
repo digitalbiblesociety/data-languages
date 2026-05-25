@@ -1,8 +1,6 @@
 ---
 iso: wja
 name: Waja
-name_zh: 瓦贾语
-name_zh_auto: true
 autonym: Wɪyáà
 alt_names: [Nyan Wiyau, Wadja, Wiyaa, Wuya]
 population: 60000
@@ -16,6 +14,10 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Gur > Central Gur > Tula-Longuda > Tula-Waja > Waja"
 wikipedia_url: "https://en.wikipedia.org/wiki/Waja_language"
+translations:
+  - translation_iso: zho
+    name: 瓦贾语
+    auto: true
 rolv_dialects:
   - rolv_code: 1788
     language_tag: wja-x-HIS01788

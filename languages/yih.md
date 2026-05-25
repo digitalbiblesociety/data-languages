@@ -1,8 +1,6 @@
 ---
 iso: yih
 name: Western Yiddish
-name_zh: 西意第绪语
-name_zh_auto: true
 autonym: ייִדיש
 alt_names: [Central Yiddish, Judeo-German, Western, Yiddish, "Yiddish, Western", Yidish]
 population: 600000
@@ -16,6 +14,12 @@ glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Germanic > Northwest Germanic > West Germanic > High German > Upper German > Middle-Modern High German > Modern High German > Upper Franconian > Greater East Franconian > Western Yiddish"
 wikipedia_url: "https://en.wikipedia.org/wiki/Western_Yiddish_language"
+translations:
+  - translation_iso: jpn
+    name: 西イディッシュ語
+  - translation_iso: zho
+    name: 西意第绪语
+    auto: true
 rolv_dialects:
   - rolv_code: 18575
     language_tag: yih-x-HIS18575

@@ -1,8 +1,6 @@
 ---
 iso: hud
 name: Huaulu
-name_zh: 华乌卢语
-name_zh_auto: true
 autonym: Alakamat
 alt_names: [Bahasa Asli]
 population: 300
@@ -16,5 +14,9 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Nunusaku > Patakai-Manusela > Manusela-Huaulu > Huaulu"
 wikipedia_url: "https://en.wikipedia.org/wiki/Huaulu_language"
+translations:
+  - translation_iso: zho
+    name: 华乌卢语
+    auto: true
 ---
 Huaulu is a language of Seram, Indonesia.

@@ -1,7 +1,6 @@
 ---
 iso: chf
 name: Tabasco Chontal
-name_zh: 钱塔尔玛雅语
 autonym: Yokotʼan
 alt_names: [Chontal, Chontal (Mayan), Chontal (Tabasco), Chontal Maya, Chontal Maya language, Chontal de Tabasco, Chontal du Tabasco, "Chontal, Tabasco", Chontal-maya, Chontalin kieli, Idioma chontal de Tabasco, Língua chontal maia, Tabasco, "Yocot'an", "Yokot'an", Yokotán, Чонталски мајански јазик]
 population: 27700
@@ -15,6 +14,13 @@ glottolog_family_id: maya1287
 glottolog_family_name: Mayan
 glottolog_classification: "Mayan > Core Mayan > Western Mayan > Cholan-Tzeltalan > Cholan > Chol-Chontal > Tabasco Chontal"
 wikipedia_url: "https://en.wikipedia.org/wiki/Chontal_Maya_language"
+translations:
+  - translation_iso: jpn
+    name: チョンタル語
+  - translation_iso: kor
+    name: 촌탈 마야어
+  - translation_iso: zho
+    name: 钱塔尔玛雅语
 rolv_dialects:
   - rolv_code: 17
     language_tag: chf-x-HIS00017

@@ -1,7 +1,6 @@
 ---
 iso: mgr
 name: "Mambwe-Lungu"
-name_zh: 曼布韋
 autonym: Lungu
 alt_names: [Cimambwe, Mambwe]
 population: 213680
@@ -15,6 +14,11 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > East Bantu > Corridor Bantu > Mbozi > Mwika > Fipaic > Maluwawaru > Mambwe-Lungu"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mambwe-Lungu_language"
+translations:
+  - translation_iso: jpn
+    name: マンブウェ語
+  - translation_iso: zho
+    name: 曼布韋
 rolv_dialects:
   - rolv_code: 22816
     language_tag: mgr-x-HIS22816

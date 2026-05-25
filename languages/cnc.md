@@ -1,7 +1,6 @@
 ---
 iso: cnc
 name: Côông
-name_zh: 贡语 (越南)
 autonym: Khoong
 alt_names: ["\"Xa Coong\"", "\"Xa Xam\"", "\"Xa Xeng\"", Coong, Cung, Công]
 population: 2000
@@ -15,5 +14,8 @@ glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Burmo-Qiangic > Lolo-Burmese > Loloish > Hani-Jino > Bisoid-Hanic > Bisoid > Côông"
 wikipedia_url: "https://en.wikipedia.org/wiki/C%C3%B4%E1%BB%91ng_language"
+translations:
+  - translation_iso: zho
+    name: 贡语 (越南)
 ---
 Côống is a Loloish language of Vietnam. It is spoken by approximately 1,500 speakers in Mường Tè District, Lai Châu Province, Vietnam. It is related to but quite distinct from Phunoi.

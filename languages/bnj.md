@@ -1,8 +1,6 @@
 ---
 iso: bnj
 name: Eastern Tawbuid
-name_zh: 东陶布乌伊德语
-name_zh_auto: true
 autonym: "Tawbuid, Eastern"
 alt_names: [Bangon, Barangan, Batangan, Binatangan, Fanawbuid, Suri, Tabuid, Taubuid, Tiron]
 population: 7190
@@ -15,4 +13,8 @@ glottocode: east2482
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Greater Central Philippine > South Mangyan > Buhid-Taubuid > Batangan > Eastern Tawbuid"
+translations:
+  - translation_iso: zho
+    name: 东陶布乌伊德语
+    auto: true
 ---

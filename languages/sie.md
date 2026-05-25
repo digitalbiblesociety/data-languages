@@ -1,8 +1,6 @@
 ---
 iso: sie
 name: Simaa
-name_zh: 西玛亚语
-name_zh_auto: true
 autonym: null
 alt_names: [Zambia]
 population: 19700
@@ -16,6 +14,10 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > Central-Western Bantu > Greater Luyana > Western Greater Luyana > Simaaic > Simaa"
 wikipedia_url: "https://en.wikipedia.org/wiki/Simaa_language"
+translations:
+  - translation_iso: zho
+    name: 西玛亚语
+    auto: true
 rolv_dialects:
   - rolv_code: 16709
     language_tag: sie-x-HIS16709

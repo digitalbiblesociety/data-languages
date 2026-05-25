@@ -1,8 +1,6 @@
 ---
 iso: mcu
 name: Cameroon Mambila
-name_zh: 喀麦隆曼比拉语
-name_zh_auto: true
 autonym: Mambila
 alt_names: [Bang, Bea, Ble, Juli, Lagubi, Mambere, "Mambila, Cameroon", Mambilla, Nor, Tagbo, Tongbo, Torbi]
 population: 30000
@@ -15,6 +13,10 @@ glottocode: came1252
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Northern Bantoid > Mambiloid > Nizaa-Mambila-Vute > Konja-Mambila-Vute > Mambila-Vute > Mambila-Mbongno > Mambila > Eastern Mambila > Donga Mambila"
+translations:
+  - translation_iso: zho
+    name: 喀麦隆曼比拉语
+    auto: true
 rolv_dialects:
   - rolv_code: 6197
     language_tag: mcu-x-HIS06197

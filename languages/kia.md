@@ -1,8 +1,6 @@
 ---
 iso: kia
 name: Kim
-name_zh: 金语
-name_zh_auto: true
 autonym: Kim (Garab)
 alt_names: [Group 14, Kosop, Kuasap, Kwasap, Masa]
 population: 15400
@@ -16,6 +14,10 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Bua-Kim-Day > Kim-Besme-Goundo > Kim"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kim_language"
+translations:
+  - translation_iso: zho
+    name: 金语
+    auto: true
 rolv_dialects:
   - rolv_code: 1641
     language_tag: kia-x-HIS01641

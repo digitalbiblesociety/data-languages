@@ -1,7 +1,6 @@
 ---
 iso: smr
 name: Simeulue
-name_zh: 锡默卢语
 autonym: Long Bano
 alt_names: [Bahasa Devayan, Simalur, Simeuloë, Simulul]
 population: 30000
@@ -15,6 +14,11 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Sumatran > Simeulue"
 wikipedia_url: "https://en.wikipedia.org/wiki/Simeulue_language"
+translations:
+  - translation_iso: jpn
+    name: シムル語
+  - translation_iso: zho
+    name: 锡默卢语
 rolv_dialects:
   - rolv_code: 28556
     language_tag: smr-x-HIS28556

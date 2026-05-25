@@ -1,8 +1,6 @@
 ---
 iso: naw
 name: Nawuri
-name_zh: 纳武里语
-name_zh_auto: true
 autonym: null
 alt_names: [Guang]
 population: 9300
@@ -16,5 +14,9 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Kwa Volta-Congo > Nyo > Potou-Tano > Tano > Guang > North Guang > Oti North Guang > Mountain Oti North Guang > Nawuri"
 wikipedia_url: "https://en.wikipedia.org/wiki/Nawuri_language"
+translations:
+  - translation_iso: zho
+    name: 纳武里语
+    auto: true
 ---
 Nawuri is a Guang language of Ghana. It is nearly intelligible with Kyode.

@@ -1,8 +1,6 @@
 ---
 iso: vkm
 name: Kamakan
-name_zh: 卡马坎语
-name_zh_auto: true
 autonym: Ezeshio
 alt_names: [Camacán, Kamakán, Kamakán language area/complex]
 population: null
@@ -16,5 +14,9 @@ glottolog_family_id: kama1371
 glottolog_family_name: Kamakanan
 glottolog_classification: "Kamakanan > Nuclear Kamakanan > Kamakan"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kamak%C3%A3_language"
+translations:
+  - translation_iso: zho
+    name: 卡马坎语
+    auto: true
 ---
 The Kamakã language (Kamakan), or Ezeshio, is an extinct language of a small family, belonging to the Macro-Jê languages of Brazil. Kotoxó and Mongoyó/Mangaló are sometimes included as dialects.

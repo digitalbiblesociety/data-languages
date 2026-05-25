@@ -1,8 +1,6 @@
 ---
 iso: zph
 name: Totomachapan Zapotec
-name_zh: 托托马恰潘萨波特克语
-name_zh_auto: true
 autonym: (San Pedro Totomachápam)
 alt_names: [Central Sapoteko, Totomachapam, Totomachapan, Western Zimatlán Zapotec, Zapotec, "Zapotec, Totomachapan", Zapoteco de San Felipe Tejalápam, Zapoteco de San Pedro Totomachapan, Zapotèque de San Felipe Tejalapan]
 population: 1009
@@ -16,5 +14,9 @@ glottolog_family_id: otom1299
 glottolog_family_name: Otomanguean
 glottolog_classification: "Otomanguean > Eastern Otomanguean > Popoloca-Zapotecan > Zapotecan > Zapotec > West Zapotec > Totomachapan Zapotec"
 wikipedia_url: "https://en.wikipedia.org/wiki/Totomachapan_Zapotec"
+translations:
+  - translation_iso: zho
+    name: 托托马恰潘萨波特克语
+    auto: true
 ---
 Totomachapan Zapotec is a Zapotec language of Oaxaca, Mexico. There is no mutual intelligibility with other Zapotec languages.

@@ -1,8 +1,6 @@
 ---
 iso: aax
 name: Mandobo Atas
-name_zh: 曼多博阿塔斯语
-name_zh_auto: true
 autonym: Dumut
 alt_names: ["\"Kaeti\"", Kaeti, Kambon, Kwem, Mandobbo, Nub, Wambon]
 population: 1000
@@ -15,4 +13,8 @@ glottocode: mand1444
 glottolog_family_id: nucl1709
 glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Asmat-Awyu-Ok > Awyu-Ok > Greater Awyu > Awyu-Dumut > Dumut > Mandobo > Mandobo Atas"
+translations:
+  - translation_iso: zho
+    name: 曼多博阿塔斯语
+    auto: true
 ---

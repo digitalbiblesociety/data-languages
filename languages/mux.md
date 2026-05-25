@@ -1,8 +1,6 @@
 ---
 iso: mux
 name: "Bo-Ung"
-name_zh: 博翁语
-name_zh_auto: true
 autonym: Tembagla
 alt_names: [Mbo-Ung]
 population: 30000
@@ -16,6 +14,10 @@ glottolog_family_id: nucl1709
 glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Chimbu-Wahgi > Hagen > Melpa-Tembagla > Bo-Ung"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tembagla_language"
+translations:
+  - translation_iso: zho
+    name: 博翁语
+    auto: true
 rolv_dialects:
   - rolv_code: 13928
     language_tag: mux-x-HIS13928

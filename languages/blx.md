@@ -1,8 +1,6 @@
 ---
 iso: blx
 name: "Mag-Indi Ayta"
-name_zh: 麦-因蒂艾亚语
-name_zh_auto: true
 autonym: "Mag-indi"
 alt_names: ["Ayta, Mag-Indi", Baloga, Biloxi, Indi Ayta, Mag-Indi Sambal, ภาษามักอินดี]
 population: 5000
@@ -16,5 +14,9 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Central Luzon > Sambalic > Mag-Ayta > Mag-Indi Ayta"
 wikipedia_url: "https://en.wikipedia.org/wiki/Indi_language"
+translations:
+  - translation_iso: zho
+    name: 麦-因蒂艾亚语
+    auto: true
 ---
 The Indi language or Mag-indi is a Sambalic language with around 5,000 speakers. It is spoken within Philippine Aeta communities in San Marcelino, Zambales, and in the Pampango municipalities of Floridablanca and Porac. There are also speakers in Lumibao and Maague-ague.

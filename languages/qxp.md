@@ -1,8 +1,6 @@
 ---
 iso: qxp
 name: Puno Quechua
-name_zh: 普诺克丘亚语
-name_zh_auto: true
 autonym: Quechua Collao
 alt_names: [Colla, Collao, Cuzco-Collao, Quechua Qollaw, Quechua cuzqueño, Quechua de Cuzco, "Quechua, Puno", Southern Kechua]
 population: 500000
@@ -16,6 +14,12 @@ glottolog_family_id: quec1387
 glottolog_family_name: Quechuan
 glottolog_classification: "Quechuan > Southern Quechua > Cuscan Quechua > Puno Quechua"
 wikipedia_url: "https://en.wikipedia.org/wiki/Puno_Quechua"
+translations:
+  - translation_iso: jpn
+    name: プノ・ケチュア語
+  - translation_iso: zho
+    name: 普诺克丘亚语
+    auto: true
 rolv_dialects:
   - rolv_code: 27106
     language_tag: qxp-x-HIS27106

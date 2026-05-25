@@ -1,7 +1,6 @@
 ---
 iso: dhd
 name: Dhundari
-name_zh: 敦达尔语
 autonym: ढूंढाड़ी
 alt_names: [Dhundari-Marwari, Jaipuri, Lenga dundari, Lingua Dhundhari]
 population: 1480000
@@ -15,6 +14,13 @@ glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Indo-Aryan > Middle-Modern Indo-Aryan > Continental Indo-Aryan > Midlands Indo-Aryan > Apabhramsic > Gujarati-Rajasthani > Rajasthani > Eastern Rajasthani > Dhundari"
 wikipedia_url: "https://en.wikipedia.org/wiki/Dhundari_language"
+translations:
+  - translation_iso: hin
+    name: ढूंढारी
+  - translation_iso: jpn
+    name: ドゥーンダリ語
+  - translation_iso: zho
+    name: 敦达尔语
 rolv_dialects:
   - rolv_code: 13793
     language_tag: dhd-x-HIS13793

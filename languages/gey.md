@@ -1,8 +1,6 @@
 ---
 iso: gey
 name: Enya
-name_zh: 埃尼亚语
-name_zh_auto: true
 autonym: Genya
 alt_names: [Ena, Tsheenya]
 population: 15000
@@ -16,5 +14,9 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > East Bantu > Greater Lega > Mituku-Lega > Mitukuic > Enya-Kisangani"
 wikipedia_url: "https://en.wikipedia.org/wiki/Enya_language"
+translations:
+  - translation_iso: zho
+    name: 埃尼亚语
+    auto: true
 ---
 Enya is a Bantu language of the Democratic Republic of the Congo.

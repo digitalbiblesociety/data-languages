@@ -1,8 +1,6 @@
 ---
 iso: lgl
 name: Wala
-name_zh: 瓦拉语
-name_zh_auto: true
 autonym: Langalanga
 alt_names: [Lengua Wala, Südliche Salomons-Inseln]
 population: 6980
@@ -16,5 +14,9 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Southeast Solomonic > Longgu-Malaita-Makira > Malaita-Makira > Malaita > Central-Northern Malaita > Wala"
 wikipedia_url: "https://en.wikipedia.org/wiki/Langalanga_language"
+translations:
+  - translation_iso: zho
+    name: 瓦拉语
+    auto: true
 ---
 Wala, or Langalanga, is an Oceanic language spoken on Malaita, in the Solomon Islands.

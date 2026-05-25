@@ -1,8 +1,6 @@
 ---
 iso: nuh
 name: Ndunda
-name_zh: 恩敦达语
-name_zh_auto: true
 autonym: null
 population: 350
 country_id: NG
@@ -15,6 +13,10 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Northern Bantoid > Mambiloid > Nizaa-Mambila-Vute > Konja-Mambila-Vute > Mambila-Vute > Mambila-Mbongno > Mbongno-Mvano > Mvano-Ndunda > Ndunda"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ndunda_language"
+translations:
+  - translation_iso: zho
+    name: 恩敦达语
+    auto: true
 rolv_dialects:
   - rolv_code: 29997
     language_tag: nuh-x-HIS29997

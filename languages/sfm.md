@@ -1,7 +1,6 @@
 ---
 iso: sfm
 name: Small Flowery Miao
-name_zh: 小花苗语
 autonym: "Gha-Mu"
 alt_names: [Atse, Ghab-Mvb Ghab-Svd, Ghuab-Hmongb Ghuab-Soud, Hsiao Hwa Miao, "Miao, Small Flowery", Xiao Hua Miao]
 population: 84000
@@ -15,6 +14,11 @@ glottolog_family_id: hmon1336
 glottolog_family_name: Hmong-Mien
 glottolog_classification: "Hmong-Mien > Hmongic > Nuclear Hmongic-Ho Ne > Nuclear Hmongic > West Hmongic > Greater Chuanqiandian > Chuanqiandian > Gha-mu"
 wikipedia_url: "https://en.wikipedia.org/wiki/Gha-Mu_language"
+translations:
+  - translation_iso: jpn
+    name: 小花苗語
+  - translation_iso: zho
+    name: 小花苗语
 rolv_dialects:
   - rolv_code: 6187
     language_tag: sfm-x-HIS06187

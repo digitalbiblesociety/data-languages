@@ -1,7 +1,6 @@
 ---
 iso: kcg
 name: Tyap
-name_zh: 蒂亞普語
 autonym: Katab
 alt_names: [Agolok, Aguro, Agwolok, Agwot, Atyap, Gworok, Kagoro, Kataf]
 population: 242000
@@ -16,6 +15,17 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Benue-Congo Plateau > West-Central Benue-Congo Plateau > Zaric > Nuclear Zaric > Katabic > Tyap"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tyap"
+translations:
+  - translation_iso: ara
+    name: لغة تياب
+  - translation_iso: hin
+    name: त्याप
+  - translation_iso: jpn
+    name: カタブ語
+  - translation_iso: kor
+    name: 티얍어
+  - translation_iso: zho
+    name: 蒂亞普語
 rolv_dialects:
   - rolv_code: 1863
     language_tag: kcg-x-HIS01863

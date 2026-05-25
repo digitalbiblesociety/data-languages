@@ -1,8 +1,6 @@
 ---
 iso: tpe
 name: Tippera
-name_zh: 蒂佩拉语
-name_zh_auto: true
 autonym: Tripuri
 alt_names: [Tippera-Bengali, Tipperah, Tippurah, Tipra, Tipura, Triperah, Tripura]
 population: 85000
@@ -16,6 +14,10 @@ glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Brahmaputran > Bodo-Garo > Boroic > Dimasa-Kokborok > Tipperic > Tippera"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tippera_language"
+translations:
+  - translation_iso: zho
+    name: 蒂佩拉语
+    auto: true
 rolv_dialects:
   - rolv_code: 25634
     language_tag: tpe-x-HIS25634

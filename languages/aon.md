@@ -1,8 +1,6 @@
 ---
 iso: aon
 name: Bumbita Arapesh
-name_zh: 邦比塔阿拉佩什语
-name_zh_auto: true
 autonym: Arapesh
 alt_names: ["Arapesh, Bumbita", Arapeso bumbita, Bambita Arapesh, Bumbita, But Arapesh, Weri]
 population: 4340
@@ -16,6 +14,10 @@ glottolog_family_id: nucl1708
 glottolog_family_name: Nuclear Torricelli
 glottolog_classification: "Nuclear Torricelli > Kombio-Arapesh-Urat > Arapesh > Bumbita Arapesh"
 wikipedia_url: "https://en.wikipedia.org/wiki/Bumbita_language"
+translations:
+  - translation_iso: zho
+    name: 邦比塔阿拉佩什语
+    auto: true
 rolv_dialects:
   - rolv_code: 1173
     language_tag: aon-x-HIS01173

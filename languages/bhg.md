@@ -1,8 +1,6 @@
 ---
 iso: bhg
 name: Binandere
-name_zh: 比南德雷语
-name_zh_auto: true
 autonym: null
 alt_names: [Aiga, Ambasi, Binanderan, Binanderean Proper, Ioma Binandere, Tain-Daware, Upper Musa]
 population: 7000
@@ -16,6 +14,10 @@ glottolog_family_id: nucl1709
 glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Greater Binanderean > Binanderean > Nuclear Binanderean > Binandere"
 wikipedia_url: "https://en.wikipedia.org/wiki/Binandere_language"
+translations:
+  - translation_iso: zho
+    name: 比南德雷语
+    auto: true
 rolv_dialects:
   - rolv_code: 20770
     language_tag: bhg-x-HIS20770

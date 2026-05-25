@@ -1,8 +1,6 @@
 ---
 iso: ldm
 name: Landoma
-name_zh: 兰多玛语
-name_zh_auto: true
 autonym: Cocoli
 alt_names: [Landouman, Landuma, Temne, Tiapi, Tyapi, Tyop, Tyopi]
 population: 14400
@@ -16,6 +14,10 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Mel > Northern Mel > Landoma"
 wikipedia_url: "https://en.wikipedia.org/wiki/Landoma_language"
+translations:
+  - translation_iso: zho
+    name: 兰多玛语
+    auto: true
 rolv_dialects:
   - rolv_code: 20873
     language_tag: ldm-x-HIS20873

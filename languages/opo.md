@@ -1,8 +1,6 @@
 ---
 iso: opo
 name: Opao
-name_zh: 奥帕奥语
-name_zh_auto: true
 autonym: null
 population: 1120
 country_id: PG
@@ -15,5 +13,11 @@ glottolog_family_id: nucl1580
 glottolog_family_name: Eleman
 glottolog_classification: "Eleman > Western Eleman > Opao"
 wikipedia_url: "https://en.wikipedia.org/wiki/Opao_language"
+translations:
+  - translation_iso: jpn
+    name: オパオ語
+  - translation_iso: zho
+    name: 奥帕奥语
+    auto: true
 ---
 Opao is a Trans–New Guinea language of Papua New Guinea.

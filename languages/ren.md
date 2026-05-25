@@ -1,7 +1,6 @@
 ---
 iso: ren
 name: Rengao
-name_zh: 卢敖语
 autonym: "Ro-Ngao"
 alt_names: [Hamong, Rangao, Rongao, Rəngao]
 population: 16000
@@ -15,5 +14,8 @@ glottolog_family_id: aust1305
 glottolog_family_name: Austroasiatic
 glottolog_classification: "Austroasiatic > Bahnaric > North Bahnaric > Hre-Sedang-Todrah-Monam > Hre-Sedang > Rengao"
 wikipedia_url: "https://en.wikipedia.org/wiki/Rengao_language"
+translations:
+  - translation_iso: zho
+    name: 卢敖语
 ---
 Rengao is a North Bahnaric language. It is spoken in parts of south and central Vietnam.

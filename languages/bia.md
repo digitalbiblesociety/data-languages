@@ -1,7 +1,6 @@
 ---
 iso: bia
 name: Badimaya
-name_zh: 巴迪马亚语
 autonym: "Parti-Maya"
 alt_names: [Baadeemaia, Badimaia, Badimala, Badimara, Badimay, Badimia, Bardimaia, Bardimaya, Bardimaya Baadeemaia Badimaia Badimala Badimara Bardimaia Barimaia Bidungu Padimaia Padinaia Parimaia Patimara Patimay Waadal Wardal Badi-maia Wallawe Yamadgee Yamaji, Barimaia, Bidungu, Lenga badimaya, Nanakari, Padimaia, Padinaia, Parimaia, Parti maya, Patimara, Patimay, Patimaya, Waadal, Wallawe, Wardal, WardalBadi maia, Widimaya, Yamadgee, Yamadyis, Yamaji, Yamatji]
 population: 20
@@ -15,5 +14,8 @@ glottolog_family_id: pama1250
 glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > South-West Pama-Nyungan > Kartu-Nhanda > Kartu > Badimaya"
 wikipedia_url: "https://en.wikipedia.org/wiki/Badimaya_language"
+translations:
+  - translation_iso: zho
+    name: 巴迪马亚语
 ---
 Badimaya is an Australian Aboriginal language. It is a member of the Kartu subgroup of the Pama–Nyungan family, spoken by the Badimaya people of the Mid West region of Western Australia.

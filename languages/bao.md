@@ -1,8 +1,6 @@
 ---
 iso: bao
 name: Waimaha
-name_zh: 瓦伊马哈语
-name_zh_auto: true
 autonym: Bará
 alt_names: [Barasano, Barasano (Northern), Bará-Tuyuka, Northern Barasano, Waimaja, Waípinõmakã]
 population: 131
@@ -16,6 +14,10 @@ glottolog_family_id: tuca1253
 glottolog_family_name: Tucanoan
 glottolog_classification: "Tucanoan > Eastern Tucanoan > Eastern Eastern Tucanoan > Eastern Eastern Tucanoan I > Bara-Tatuyo > Waimaha"
 wikipedia_url: "https://en.wikipedia.org/wiki/Waimaj%C3%A3_language"
+translations:
+  - translation_iso: zho
+    name: 瓦伊马哈语
+    auto: true
 rolv_dialects:
   - rolv_code: 24320
     language_tag: bao-x-HIS24320

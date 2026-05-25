@@ -1,8 +1,6 @@
 ---
 iso: atd
 name: Ata Manobo
-name_zh: 阿塔曼诺博语
-name_zh_auto: true
 autonym: Ata Manobo
 alt_names: [Ata of Davao, Atao Manobo, Langilan, "Manobo, Ata"]
 population: 22700
@@ -16,6 +14,12 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Greater Central Philippine > Manobo > Central and Southern Manobo > East-West-Central Manobo > East and Central Manobo > Central Manobo > Ata Manobo"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ata_Manobo_language"
+translations:
+  - translation_iso: jpn
+    name: アタ・マノボ語
+  - translation_iso: zho
+    name: 阿塔曼诺博语
+    auto: true
 rolv_dialects:
   - rolv_code: 27285
     language_tag: atd-x-HIS27285

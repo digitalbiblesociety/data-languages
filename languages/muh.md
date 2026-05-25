@@ -1,8 +1,6 @@
 ---
 iso: muh
 name: Mündü
-name_zh: 蒙杜语
-name_zh_auto: true
 autonym: Mondo
 alt_names: [Gbanzili 4th division, Mondu, Mountou, Mundo, Mundu]
 population: 25800
@@ -16,6 +14,10 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Cameroun-Ubangian > Ubangi > Ubangi Ka > Mundu-Baka > Eastern Mundu-Baka > Mündü"
 wikipedia_url: "https://en.wikipedia.org/wiki/M%C3%BCnd%C3%BC_language"
+translations:
+  - translation_iso: zho
+    name: 蒙杜语
+    auto: true
 rolv_dialects:
   - rolv_code: 1346
     language_tag: muh-x-HIS01346

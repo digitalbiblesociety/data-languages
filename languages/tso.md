@@ -1,7 +1,6 @@
 ---
 iso: tso
 name: Tsonga
-name_zh: 聪加语
 autonym: Xitsonga
 alt_names: [Bahasa Tsonga, Changana, Conga lingvo, Gjuha tsonga, Gwamba, Idioma tsonga, Język tsonga, Lingua tsonga, Língua tsonga, Shangaan, Shangana, Shitsonga, Thonga, Tonga, Tsongan kieli, Tsongeg, Tsongum, Xichangana, Èdè Tsonga, Тсонга, Цонга, ツォンガ語]
 population: 6603500
@@ -16,6 +15,17 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > East Bantu > Southern Bantu > Nuclear Southern Bantu > Dimsuffix Southern Bantu > Nguni-Tsonga-Copi > Tsonga-Copi > Tswa-Ronga (S.50) > Tsongan > Tsonga"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tsonga_language"
+translations:
+  - translation_iso: ara
+    name: لغة تسونجا
+  - translation_iso: hin
+    name: सोंगा भाषा
+  - translation_iso: jpn
+    name: ツォンガ語
+  - translation_iso: kor
+    name: 총가어
+  - translation_iso: zho
+    name: 聪加语
 rolv_dialects:
   - rolv_code: 1310
     language_tag: ts-x-HIS01310

@@ -1,8 +1,6 @@
 ---
 iso: aha
 name: Ahanta
-name_zh: 阿汉塔语
-name_zh_auto: true
 autonym: Ayɩnda
 population: 175000
 country_id: GH
@@ -15,5 +13,9 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Kwa Volta-Congo > Nyo > Potou-Tano > Tano > Central Tano > Bia > Southern Bia > Ahanta"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ahanta_language"
+translations:
+  - translation_iso: zho
+    name: 阿汉塔语
+    auto: true
 ---
 Ahanta is an Akan language, spoken along the southwest coast of Ghana between the cities of Takoradi and Kasoa.

@@ -1,8 +1,6 @@
 ---
 iso: lss
 name: Lasi
-name_zh: 拉西语
-name_zh_auto: true
 autonym: "سنڌي&"
 alt_names: [Lassi]
 population: 15000
@@ -16,5 +14,11 @@ glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Indo-Aryan > Middle-Modern Indo-Aryan > Continental Indo-Aryan > Indo-Aryan Northwestern zone > Sindhi-Lahnda > Sindhic > Lasi-Jadgali > Lasi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Lasi_dialect"
+translations:
+  - translation_iso: hin
+    name: लासी
+  - translation_iso: zho
+    name: 拉西语
+    auto: true
 ---
 Lasi, or Lassi, also called Kohistani is a dialect of the Sindhi language spoken on the western frontier of Sindh and Balochistan in Pakistan. It is spoken by the Sindhi Lasi people of Lasbela, Hub and Gwadar in Balochistan, and Lasi is also spoken in the Kohistan region of Karachi, Thatta and Jamshoro districts of Sindh.

@@ -1,7 +1,6 @@
 ---
 iso: bdb
 name: Basap
-name_zh: 巴薩普語
 autonym: Bosap
 population: 15000
 country_id: ID
@@ -14,6 +13,11 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Basap-Greater Barito > Basap"
 wikipedia_url: "https://en.wikipedia.org/wiki/Basap_language"
+translations:
+  - translation_iso: ara
+    name: لغة الباساب
+  - translation_iso: zho
+    name: 巴薩普語
 rolv_dialects:
   - rolv_code: 7815
     language_tag: bdb-x-HIS07815

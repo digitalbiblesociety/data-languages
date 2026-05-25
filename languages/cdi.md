@@ -1,8 +1,6 @@
 ---
 iso: cdi
 name: Chodri
-name_zh: 乔德里语
-name_zh_auto: true
 autonym: Chowdhary
 alt_names: [Chaudhari, Chaudri, Chodhari, Choudhara, Choudhary]
 population: 111000
@@ -16,5 +14,9 @@ glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Indo-Aryan > Middle-Modern Indo-Aryan > Continental Indo-Aryan > Midlands Indo-Aryan > Bhil > Chodri"
 wikipedia_url: "https://en.wikipedia.org/wiki/Chodri_language"
+translations:
+  - translation_iso: zho
+    name: 乔德里语
+    auto: true
 ---
 Chaudhari (Chowdhary) is a tribal language of Gujarat and neighboring states.

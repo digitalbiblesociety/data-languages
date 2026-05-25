@@ -1,7 +1,6 @@
 ---
 iso: kpe
 name: Kpelle
-name_zh: 克佩列语
 autonym: "'Kpɛlɛwoo"
 population: null
 country_id: LR
@@ -9,5 +8,16 @@ country_name: Liberia
 status_id: null
 scripts: [Latn]
 wikipedia_url: "https://en.wikipedia.org/wiki/Kpelle_language"
+translations:
+  - translation_iso: ara
+    name: الكبيل
+  - translation_iso: hin
+    name: क्पेल
+  - translation_iso: jpn
+    name: クペレ語
+  - translation_iso: kor
+    name: 크펠레어
+  - translation_iso: zho
+    name: 克佩列语
 ---
 The Kpelle language is spoken by the Kpelle people of Liberia, Guinea and Ivory Coast and is part of the Mande language family. Guinean Kpelle, spoken by half a million people, is concentrated primarily, but not exclusively, in the southeastern forest regions of Guinea bordering Liberia, Ivory Coast, and Sierra Leone. Half a million Liberians speak Liberian Kpelle, which is taught in Liberian schools.

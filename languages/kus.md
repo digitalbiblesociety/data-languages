@@ -1,7 +1,6 @@
 ---
 iso: kus
 name: Kusaal
-name_zh: 库萨尔语
 autonym: Kusasi
 alt_names: [Koussassé, Kusale, Kussassi]
 population: 549000
@@ -15,6 +14,13 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Gur > Central Gur > Northern Central Gur > Bwamu-Oti-Volta > Oti-Volta > Nuclear Oti-Volta > Gurma-Yom-Oti-Volta Occidental > Oti-Volta Occidental > Nuclear Oti-Volta Occidental > Southeast Western Oti-Volta > Kusaal"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kusaal_language"
+translations:
+  - translation_iso: ara
+    name: كوسال
+  - translation_iso: jpn
+    name: クサール語
+  - translation_iso: zho
+    name: 库萨尔语
 rolv_dialects:
   - rolv_code: 12573
     language_tag: kus-x-HIS12573

@@ -1,8 +1,6 @@
 ---
 iso: khh
 name: Kehu
-name_zh: 克胡语
-name_zh_auto: true
 autonym: Kehu
 alt_names: [Indonesia]
 population: 200
@@ -13,5 +11,9 @@ latitude: -3.19328
 longitude: 136.13974
 glottocode: kehu1238
 wikipedia_url: "https://en.wikipedia.org/wiki/Keuw_language"
+translations:
+  - translation_iso: zho
+    name: 克胡语
+    auto: true
 ---
 Keuw is an unclassified language of New Guinea.

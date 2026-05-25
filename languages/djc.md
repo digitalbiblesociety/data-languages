@@ -1,8 +1,6 @@
 ---
 iso: djc
 name: Dar Daju Daju
-name_zh: 达尔达朱达朱语
-name_zh_auto: true
 autonym: Daju
 alt_names: [Dadjo, Dadju, Dagu of Dar Dagu, Dajo, Dajou, Daju Mongo, Daju Oum Hadjer, "Daju, Dar Daju", Mongo, Saaronge, Wadai]
 population: 60000
@@ -16,6 +14,10 @@ glottolog_family_id: daju1249
 glottolog_family_name: Dajuic
 glottolog_classification: "Dajuic > Western Dajuic > Dar Daju Daju"
 wikipedia_url: "https://en.wikipedia.org/wiki/Daju_Mongo_language"
+translations:
+  - translation_iso: zho
+    name: 达尔达朱达朱语
+    auto: true
 rolv_dialects:
   - rolv_code: 24802
     language_tag: djc-x-HIS24802

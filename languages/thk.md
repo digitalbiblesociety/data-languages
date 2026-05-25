@@ -1,8 +1,6 @@
 ---
 iso: thk
 name: Tharaka
-name_zh: 塔拉卡语
-name_zh_auto: true
 autonym: Kimîîru
 alt_names: [Kitharaka, Saraka, Sharoka]
 population: 220000
@@ -15,6 +13,10 @@ glottocode: thar1283
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > East Bantu > Northeast Savanna Bantu > Central Kenya Bantu > Eastern Kirinyaga > Northern Kirinyaga > Tharaka"
+translations:
+  - translation_iso: zho
+    name: 塔拉卡语
+    auto: true
 rolv_dialects:
   - rolv_code: 17434
     language_tag: thk-x-HIS17434

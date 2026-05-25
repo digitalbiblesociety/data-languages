@@ -1,8 +1,6 @@
 ---
 iso: brt
 name: Bitare
-name_zh: 比塔雷语
-name_zh_auto: true
 autonym: Njwande
 alt_names: [Yukutare]
 population: 52300
@@ -16,5 +14,9 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Tivoid > North Tivoid > Bitare"
 wikipedia_url: "https://en.wikipedia.org/wiki/Bitare_language"
+translations:
+  - translation_iso: zho
+    name: 比塔雷语
+    auto: true
 ---
 Bitare is a Tivoid language of Nigeria and Cameroon.

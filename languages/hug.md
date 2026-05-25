@@ -1,8 +1,6 @@
 ---
 iso: hug
 name: Huachipaeri
-name_zh: 瓦奇帕埃里语
-name_zh_auto: true
 autonym: Huachipaire
 alt_names: ["\"Mashco\"", Amarakaire, Greachipari, Harakmbet, Harakmbut, Harákmbut, Hate, Huachipairi, Mashco, Toyeri, Toyoneri, Tuyoneri, Wachipairi, Wachipayri, Wachipaéri, Wacipaire]
 population: 310
@@ -16,5 +14,9 @@ glottolog_family_id: hara1260
 glottolog_family_name: Harakmbut
 glottolog_classification: "Harakmbut > Huachipaeri"
 wikipedia_url: "https://en.wikipedia.org/wiki/Watipaeri_language"
+translations:
+  - translation_iso: zho
+    name: 瓦奇帕埃里语
+    auto: true
 ---
 Harákmbut or Harakmbet is the native language of the Harakmbut people of Peru. It is spoken along the Madre de Dios and Colorado Rivers, in the pre-contact country of the people. There are two dialects that remain vital: Amarakaeri (Arakmbut) and Watipaeri (Huachipaeri), which are reported to be mutually intelligible. The relationship between speakers of the two dialects is hostile.

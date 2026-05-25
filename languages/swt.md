@@ -1,8 +1,6 @@
 ---
 iso: swt
 name: Sawila
-name_zh: 萨威拉语
-name_zh_auto: true
 autonym: Tanglapui
 alt_names: ["\"Tanglapui\"", Manata, Sawali, Tanlapui, Wullili]
 population: 3000
@@ -16,6 +14,10 @@ glottolog_family_id: timo1261
 glottolog_family_name: Timor-Alor-Pantar
 glottolog_classification: "Timor-Alor-Pantar > Alor-Pantar > East Alor > Sawila-Wersing > Sawila"
 wikipedia_url: "https://en.wikipedia.org/wiki/Sawila_language"
+translations:
+  - translation_iso: zho
+    name: 萨威拉语
+    auto: true
 rolv_dialects:
   - rolv_code: 16390
     language_tag: swt-x-HIS16390

@@ -1,8 +1,6 @@
 ---
 iso: kad
 name: Adara
-name_zh: 阿达拉语
-name_zh_auto: true
 autonym: Eda
 alt_names: [Kadara]
 population: 300000
@@ -16,6 +14,10 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Benue-Congo Plateau > Northern Benue-Congo Plateau > Nuclear Northern Benue-Congo Plateau > Kadara"
 wikipedia_url: "https://en.wikipedia.org/wiki/Adara_language"
+translations:
+  - translation_iso: zho
+    name: 阿达拉语
+    auto: true
 rolv_dialects:
   - rolv_code: 2026
     language_tag: kad-x-HIS02026

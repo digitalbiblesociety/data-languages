@@ -1,8 +1,6 @@
 ---
 iso: zoc
 name: Copainalá Zoque
-name_zh: 科潘纳拉索克语
-name_zh_auto: true
 autonym: Zoque de Copainalá
 alt_names: [Central Zoque, Chiapas Soke, Copainala Zoque, Copainalá, Ostuacan Zoque, Ostuacán, Soke, Sokean, Tecpatán, Zoque, Zoque (Copainalá), Zoque (Ostuacan), Zoque de Copainalí, "Zoque, Copainalá", "Zoque, Copainalí"]
 population: 10000
@@ -15,6 +13,10 @@ glottocode: copa1236
 glottolog_family_id: mixe1284
 glottolog_family_name: Mixe-Zoque
 glottolog_classification: "Mixe-Zoque > Zoque > Chiapas-Jitotolteco Zoque > Chiapas Zoque > Central-South Chiapas Zoque"
+translations:
+  - translation_iso: zho
+    name: 科潘纳拉索克语
+    auto: true
 rolv_dialects:
   - rolv_code: 18724
     language_tag: zoc-x-HIS18724

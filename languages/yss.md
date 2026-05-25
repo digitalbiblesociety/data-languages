@@ -1,8 +1,6 @@
 ---
 iso: yss
 name: "Yessan-Mayo"
-name_zh: 耶桑-玛约语
-name_zh_auto: true
 autonym: "Yessan-Mayo"
 alt_names: [Maio-Yesan, Mayo, Mayo-Yesan, Yamano, Yasi, Yasyin, Yesan]
 population: 1990
@@ -16,6 +14,10 @@ glottolog_family_id: sepi1257
 glottolog_family_name: Sepik
 glottolog_classification: "Sepik > Sepik Tama > Mayo-Pasi > Yessan-Mayo"
 wikipedia_url: "https://en.wikipedia.org/wiki/Yessan-Mayo_language"
+translations:
+  - translation_iso: zho
+    name: 耶桑-玛约语
+    auto: true
 rolv_dialects:
   - rolv_code: 20086
     language_tag: yss-x-HIS20086

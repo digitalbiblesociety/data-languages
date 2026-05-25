@@ -1,8 +1,6 @@
 ---
 iso: cry
 name: Cori
-name_zh: 科里语
-name_zh_auto: true
 autonym: Chori
 alt_names: [Cori language]
 population: 1000
@@ -16,6 +14,10 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Benue-Congo Plateau > West-Central Benue-Congo Plateau > Northwestern Benue-Congo Plateau > Hyamic > Kyoli"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kyoli_language"
+translations:
+  - translation_iso: zho
+    name: 科里语
+    auto: true
 rolv_dialects:
   - rolv_code: 23936
     language_tag: cry-x-HIS23936

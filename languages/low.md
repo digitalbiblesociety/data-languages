@@ -1,8 +1,6 @@
 ---
 iso: low
 name: Tampias Lobu
-name_zh: 坦皮亚斯洛布语
-name_zh_auto: true
 autonym: Lobu
 alt_names: ["Lobu, Tampias", Malaysia]
 population: 1800
@@ -15,4 +13,8 @@ glottocode: tamp1254
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > North Borneo Malayo-Polynesian > Sabahan > Southwest Sabahan > Greater Dusunic > Paitanic > Upper Kinabatangan-Lobu > Tampias Lobu"
+translations:
+  - translation_iso: zho
+    name: 坦皮亚斯洛布语
+    auto: true
 ---

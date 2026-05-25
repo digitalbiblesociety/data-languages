@@ -1,8 +1,6 @@
 ---
 iso: myw
 name: Muyuw
-name_zh: 穆尤语
-name_zh_auto: true
 autonym: null
 alt_names: [Murua, Muruwa, Muyu, Muyua, Muyuwa]
 population: 4000
@@ -16,6 +14,12 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > Papuan Tip linkage > Peripheral Papuan Tip linkage > Kilivila-Misima > Kilivilic > Kilivila-Muyuw > Muyuw"
 wikipedia_url: "https://en.wikipedia.org/wiki/Muyuw_language"
+translations:
+  - translation_iso: jpn
+    name: ムユウ語
+  - translation_iso: zho
+    name: 穆尤语
+    auto: true
 rolv_dialects:
   - rolv_code: 2119
     language_tag: myw-x-HIS02119

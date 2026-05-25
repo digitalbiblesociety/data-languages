@@ -1,8 +1,6 @@
 ---
 iso: lig
 name: Ligbi
-name_zh: 利格比语
-name_zh_auto: true
 autonym: Banda
 alt_names: [Dzowo, Huela, Hwela-Numu, Jogo, Ligwi, Namasa, Nigbi, Nigwi, Numu, Tsie, Tuba, Weela, Weila, Wiila]
 population: 15000
@@ -16,6 +14,10 @@ glottolog_family_id: mand1469
 glottolog_family_name: Mande
 glottolog_classification: "Mande > Western Mande > Manding-Kpelle > Central Mande > Manding-Jogo > Jogo-Jeri > Jogo > Ligbi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ligbi_language"
+translations:
+  - translation_iso: zho
+    name: 利格比语
+    auto: true
 rolv_dialects:
   - rolv_code: 6012
     language_tag: lig-x-HIS06012

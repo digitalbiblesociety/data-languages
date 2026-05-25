@@ -1,8 +1,6 @@
 ---
 iso: wet
 name: Perai
-name_zh: 佩莱语
-name_zh_auto: true
 autonym: Wetar
 alt_names: [Adabe jezik, Tutunohan, Wetarese languages, ภาษาเวตาร์]
 population: 280
@@ -15,6 +13,10 @@ glottocode: pera1257
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Timor-Babar > Wetar-Atauro > Wetar > Perai-Tugun-Aputai > Perai-Aputai > Perai"
+translations:
+  - translation_iso: zho
+    name: 佩莱语
+    auto: true
 rolv_dialects:
   - rolv_code: 25972
     language_tag: wet-x-HIS25972

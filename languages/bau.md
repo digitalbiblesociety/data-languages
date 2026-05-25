@@ -1,8 +1,6 @@
 ---
 iso: bau
 name: Bada (Nigeria)
-name_zh: 巴达语
-name_zh_auto: true
 autonym: "Bada'"
 alt_names: [Bada, Badanchi, Badawa, Bat, Garaka, Jar, Jarawan Kogi, Kanna, Mbada, Mbadawa, Mbat, Plains Jarawa, River Jarawa]
 population: 10000
@@ -15,6 +13,10 @@ glottocode: bada1258
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Jarawan > Nigerian Jarawan > Jar > Jarawaic > Bada (Nigeria)"
+translations:
+  - translation_iso: zho
+    name: 巴达语
+    auto: true
 rolv_dialects:
   - rolv_code: 2510
     language_tag: bau-x-HIS02510

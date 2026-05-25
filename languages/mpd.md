@@ -1,8 +1,6 @@
 ---
 iso: mpd
 name: Machinere
-name_zh: 马奇内雷语
-name_zh_auto: true
 autonym: Piro
 alt_names: [Machinere (Brasil), Manchinere, Manchineri, Manitenere, Manitenerí, Manitenére, Mashineri, Maxineri, Maxineri (Brésil), Maxineri (État plurinational de Bolivie), Maxinéri]
 population: 953
@@ -16,5 +14,9 @@ glottolog_family_id: araw1281
 glottolog_family_name: Arawakan
 glottolog_classification: "Arawakan > Southern Maipuran > Purus-Chamicuro > Purus > Yineic > Machinere"
 wikipedia_url: "https://en.wikipedia.org/wiki/Machinere_language"
+translations:
+  - translation_iso: zho
+    name: 马奇内雷语
+    auto: true
 ---
 The Machinere language is an Arawakan language spoken by over 1,000 of the Machinere people. It is a Piro language and part of the Southern Maipuran language family. The language is highly similar to the Yine language. However, mutual intelligibility is low between the two groups. It is one of the official languages of Bolivia.

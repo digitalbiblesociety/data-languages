@@ -1,7 +1,6 @@
 ---
 iso: gwi
 name: Gwichʼin
-name_zh: 哥威迅语
 autonym: Dinjii Zhuʼ Ginjik
 alt_names: [Dagoo, "Dinjii Zhuh K'yaa", Gviĉina lingvo, "Gwich'in", Gwichin (Canada), Gwich’in, "Gwich’in (États-Unis d'Amérique)", Gwich’in language, Güichín (Estados Unidos), "Idioma gwich'in", Kuchin, Kutchin, Loucheux, Língua gwich’in, Takudh, Tukudh, Гвичин, 哥威迅语]
 population: 560
@@ -16,6 +15,17 @@ glottolog_family_id: atha1245
 glottolog_family_name: Athabaskan-Eyak-Tlingit
 glottolog_classification: "Athabaskan-Eyak-Tlingit > Athabaskan-Eyak > Athabaskan > Central Alaska-Yukon Athabaskan > Gwichin-Han > Gwich'in"
 wikipedia_url: "https://en.wikipedia.org/wiki/Gwich%CA%BCin_language"
+translations:
+  - translation_iso: ara
+    name: غوتشن
+  - translation_iso: hin
+    name: ग्विचइन
+  - translation_iso: jpn
+    name: グウィッチン語
+  - translation_iso: kor
+    name: 그위친어
+  - translation_iso: zho
+    name: 哥威迅语
 rolv_dialects:
   - rolv_code: 122
     language_tag: gwi-x-HIS00122

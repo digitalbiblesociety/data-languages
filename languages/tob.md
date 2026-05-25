@@ -1,7 +1,6 @@
 ---
 iso: tob
 name: Toba
-name_zh: 科姆语
 autonym: Chaco Sur
 alt_names: [Namqom, Qom, Qumlik simi, Toba Qom, Toba Qom language, Toba Sur, Tobų kalba]
 population: 31580
@@ -15,6 +14,11 @@ glottolog_family_id: guai1249
 glottolog_family_name: Guaicuruan
 glottolog_classification: "Guaicuruan > Guaicuru del Sur > Qom > Pilaga-Toba > Toba"
 wikipedia_url: "https://en.wikipedia.org/wiki/Toba_Qom_language"
+translations:
+  - translation_iso: jpn
+    name: トバ語 (アルゼンチン)
+  - translation_iso: zho
+    name: 科姆语
 rolv_dialects:
   - rolv_code: 6196
     language_tag: tob-x-HIS06196

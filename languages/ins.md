@@ -1,7 +1,6 @@
 ---
 iso: ins
 name: Indian Sign Language
-name_zh: 印度手语
 autonym: "Indo-Pakistani Sign Language"
 alt_names: [Indo-Pakistani Sign Language (Indian dialects), Língua de Sinais Indiana, Urban Indian Sign Language]
 population: 6815000
@@ -14,6 +13,13 @@ glottocode: indi1237
 glottolog_family_id: sign1238
 glottolog_family_name: Sign Language
 glottolog_classification: "Sign Language > L1 Sign Language > Indo-Pakistani-Nepalese Sign > Indo-Pakistani Sign > Indian Sign Language"
+translations:
+  - translation_iso: hin
+    name: भारतीय सांकेतिक भाषा
+  - translation_iso: jpn
+    name: インド手話
+  - translation_iso: zho
+    name: 印度手语
 rolv_dialects:
   - rolv_code: 20848
     language_tag: ins-x-HIS20848

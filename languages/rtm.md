@@ -1,8 +1,6 @@
 ---
 iso: rtm
 name: Rotuman
-name_zh: 罗图曼语
-name_zh_auto: true
 autonym: Fäeag Rotuma
 alt_names: [Fidji-Inseln, Język rotumański, Rotuman bhasa, Rotuman kieli, Rotuman-Fijian, Rotumanische Sprache, Rotumano, Rotuna, Rutuman, Ротуманский язык]
 population: 2500
@@ -17,5 +15,13 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Central Pacific linkage > Rotuman"
 wikipedia_url: "https://en.wikipedia.org/wiki/Rotuman_language"
+translations:
+  - translation_iso: jpn
+    name: ロツマ語
+  - translation_iso: kor
+    name: 로투마어
+  - translation_iso: zho
+    name: 罗图曼语
+    auto: true
 ---
 Rotuman, also referred to as Rotunan, Rutuman or Fäeag Rotuạm, is an Austronesian language spoken by the Indigenous Rotuman people in the South Pacific. Linguistically, as well as culturally, Rotuma has had a Polynesian influence in its culture and was incorporated as a dependency into the Colony of Fiji in 1881. Contemporary Rotuman is a result of significant Polynesian borrowing, following Samoan and Tongan migrations into Rotuma.

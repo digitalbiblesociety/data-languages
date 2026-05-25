@@ -1,7 +1,6 @@
 ---
 iso: ysy
 name: Sanie
-name_zh: 撒涅语
 autonym: Bai Lolo
 population: 8000
 country_id: CN
@@ -14,6 +13,11 @@ glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Burmo-Qiangic > Lolo-Burmese > Loloish > Ni-Li-Kazhouish > Southeastern Ngwi > Nisoid > Nuclear Nisoid > Nasu-Nosu > Nesu-Nasu > Nasu-Gepu > Sanie"
 wikipedia_url: "https://en.wikipedia.org/wiki/Sanie_language"
+translations:
+  - translation_iso: jpn
+    name: サニー語
+  - translation_iso: zho
+    name: 撒涅语
 rolv_dialects:
   - rolv_code: 25579
     language_tag: ysy-x-HIS25579

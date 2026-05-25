@@ -1,7 +1,6 @@
 ---
 iso: tes
 name: Tengger
-name_zh: 騰格爾族語
 autonym: Basa Tenggerꦧꦱ​ꦠꦼꦁꦒꦼꦂ
 alt_names: [Tenggerese]
 population: 80000
@@ -15,6 +14,9 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Javanesic > Modern Javanese > Tengger"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tenggerese_dialect"
+translations:
+  - translation_iso: zho
+    name: 騰格爾族語
 rolv_dialects:
   - rolv_code: 4123
     language_tag: tes-x-HIS04123

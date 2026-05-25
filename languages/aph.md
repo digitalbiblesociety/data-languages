@@ -1,8 +1,6 @@
 ---
 iso: aph
 name: Athpariya
-name_zh: 阿特帕里亚语
-name_zh_auto: true
 autonym: Arthare
 alt_names: [Arthare-Khesang, Ath Paharia Rai, Athapre, Athpahariya, Athpare, Athpare language, Athpariya jezik, Athpariyish, Athpre, Atpariya, Jamindar Rai, Jindā, Rai]
 population: 5530
@@ -16,5 +14,9 @@ glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Himalayish > Mahakiranti > Kiranti > Eastern Kiranti > Tamar > Yakkha-Athpariyic > Athpariyic > Athpariya"
 wikipedia_url: "https://en.wikipedia.org/wiki/Athpare_language"
+translations:
+  - translation_iso: zho
+    name: 阿特帕里亚语
+    auto: true
 ---
 Athpare, also known as Athapre, Athpariya, Athpre, Arthare, Arthare-Khesang, or Jamindar, spelled Athpariya I to be distinguished from Belhariya, is an eastern Kiranti language.

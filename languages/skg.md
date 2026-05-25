@@ -1,8 +1,6 @@
 ---
 iso: skg
 name: Sakalava Malagasy
-name_zh: 萨卡拉瓦马拉加斯语
-name_zh_auto: true
 autonym: malagasy
 alt_names: ["Malagasy, Sakalava"]
 population: 1210000
@@ -15,6 +13,12 @@ glottocode: saka1291
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Basap-Greater Barito > Greater Barito linkage > Southeast Barito > Malagasic > Southwestern Malagasic > South West-Central Malagasic > Nuclear South West-Central Malagasic > Inland-Western Malagasic > Western Malagasic > West Malagasy Sakalava"
+translations:
+  - translation_iso: jpn
+    name: サカラヴァ・マダガスカル語
+  - translation_iso: zho
+    name: 萨卡拉瓦马拉加斯语
+    auto: true
 rolv_dialects:
   - rolv_code: 3534
     language_tag: skg-x-HIS03534

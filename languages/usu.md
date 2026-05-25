@@ -1,8 +1,6 @@
 ---
 iso: usu
 name: Uya
-name_zh: 乌亚语
-name_zh_auto: true
 autonym: Usu
 population: 270
 country_id: PG
@@ -15,5 +13,9 @@ glottolog_family_id: nucl1709
 glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Madang > Rai Coast > Nuru > Erimaic > Uya"
 wikipedia_url: "https://en.wikipedia.org/wiki/Uya_language"
+translations:
+  - translation_iso: zho
+    name: 乌亚语
+    auto: true
 ---
 Uya, also known as Usu, is a Rai Coast language spoken in Madang Province, Papua New Guinea.

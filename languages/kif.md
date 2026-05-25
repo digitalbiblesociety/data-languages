@@ -1,8 +1,6 @@
 ---
 iso: kif
 name: Eastern Parbate Kham
-name_zh: 东帕巴特卡姆语
-name_zh_auto: true
 autonym: Kham language
 alt_names: [Eastern Parbate, Kham, "Kham, Eastern Parbate", "Kham,EasternParbate", Khamkura, Khams, Nisel, Nishel Kham, Nisi, Nisi Kham, Parbate, "Parbate, Eastern", Proto-Kham]
 population: 7500
@@ -15,6 +13,10 @@ glottocode: east2354
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Himalayish > Mahakiranti > Kham-Magar-Chepang > Kham > Gamale-Parbate > Parbate Kham > Eastern Parbate Kham"
+translations:
+  - translation_iso: zho
+    name: 东帕巴特卡姆语
+    auto: true
 rolv_dialects:
   - rolv_code: 11916
     language_tag: kif-x-HIS11916

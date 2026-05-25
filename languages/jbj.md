@@ -1,8 +1,6 @@
 ---
 iso: jbj
 name: Arandai
-name_zh: 阿兰代语
-name_zh_auto: true
 autonym: Tomu
 alt_names: [Dombano, Jaban, Kampong Baru, Sebyar, Yaban]
 population: 1000
@@ -16,6 +14,10 @@ glottolog_family_id: sout3418
 glottolog_family_name: "South Bird's Head"
 glottolog_classification: "South Bird's Head > Nuclear South Bird's Head > Kaburic > East South Bird's Head > Kemberanic > Dombano"
 wikipedia_url: "https://en.wikipedia.org/wiki/Dombano_language"
+translations:
+  - translation_iso: zho
+    name: 阿兰代语
+    auto: true
 rolv_dialects:
   - rolv_code: 7177
     language_tag: jbj-x-HIS07177

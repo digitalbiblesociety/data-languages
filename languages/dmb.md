@@ -1,8 +1,6 @@
 ---
 iso: dmb
 name: Mombo Dogon
-name_zh: 蒙博多贡语
-name_zh_auto: true
 autonym: Ejenge Dõ
 alt_names: ["Dogon, Mombo", Kolu, Kolu So, Kolu-so, Kolum So, Kolum-so, Mombo, Pignari]
 population: 19000
@@ -16,5 +14,9 @@ glottolog_family_id: dogo1299
 glottolog_family_name: Dogon
 glottolog_classification: "Dogon > West Dogon > Penangic > Mombo Dogon"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mombo_Dogon"
+translations:
+  - translation_iso: zho
+    name: 蒙博多贡语
+    auto: true
 ---
 Mombo Dogon is a Dogon language spoken in Mali. Helabo and Miambo are dialects.

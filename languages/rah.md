@@ -1,7 +1,6 @@
 ---
 iso: rah
 name: Rabha
-name_zh: 拉巴语
 autonym: Rába katha
 alt_names: [Rava]
 population: 374000
@@ -15,6 +14,13 @@ glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Brahmaputran > Bodo-Garo > Kochic > Rabha"
 wikipedia_url: "https://en.wikipedia.org/wiki/Rabha_language"
+translations:
+  - translation_iso: hin
+    name: रभा भाषा
+  - translation_iso: jpn
+    name: ラバ語
+  - translation_iso: zho
+    name: 拉巴语
 rolv_dialects:
   - rolv_code: 15906
     language_tag: rah-x-HIS15906

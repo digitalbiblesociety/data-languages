@@ -1,7 +1,6 @@
 ---
 iso: jhi
 name: Jehai
-name_zh: 嘉海語
 autonym: Jahai
 alt_names: [Jehehr, Pangan, Pangan-Dialekte]
 population: 1000
@@ -15,6 +14,9 @@ glottolog_family_id: aust1305
 glottolog_family_name: Austroasiatic
 glottolog_classification: "Austroasiatic > Aslian > Central-Northern Aslian > North Aslian > Maniq-Menraq-Batek > Menraq-Batek > Jehai"
 wikipedia_url: "https://en.wikipedia.org/wiki/Jahai_language"
+translations:
+  - translation_iso: zho
+    name: 嘉海語
 rolv_dialects:
   - rolv_code: 11136
     language_tag: jhi-x-HIS11136

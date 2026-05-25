@@ -1,8 +1,6 @@
 ---
 iso: mej
 name: Meyah
-name_zh: 梅雅语
-name_zh_auto: true
 autonym: Arfak
 alt_names: [Mansibaber, Meah, Meax, Mejach, Mejah, Meyach]
 population: 14800
@@ -16,6 +14,10 @@ glottolog_family_id: east1459
 glottolog_family_name: "East Bird's Head"
 glottolog_classification: "East Bird's Head > Meax > Meyah"
 wikipedia_url: "https://en.wikipedia.org/wiki/Meyah_language"
+translations:
+  - translation_iso: zho
+    name: 梅雅语
+    auto: true
 rolv_dialects:
   - rolv_code: 1256
     language_tag: mej-x-HIS01256

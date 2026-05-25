@@ -1,8 +1,6 @@
 ---
 iso: ybx
 name: Yawiyo
-name_zh: 亚威约语
-name_zh_auto: true
 autonym: Yabio
 population: 66
 country_id: PG
@@ -15,5 +13,9 @@ glottolog_family_id: wali1264
 glottolog_family_name: Walioic
 glottolog_classification: "Walioic > Yawiyo"
 wikipedia_url: "https://en.wikipedia.org/wiki/Yawiyo_language"
+translations:
+  - translation_iso: zho
+    name: 亚威约语
+    auto: true
 ---
 Yawiyo (Yabio) is a Sepik language spoken in East Sepik Province, Papua-New Guinea.

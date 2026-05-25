@@ -1,8 +1,6 @@
 ---
 iso: mrd
 name: Western Magar
-name_zh: 西部迈格语
-name_zh_auto: true
 autonym: " मगर भाषा"
 alt_names: [Magar, Magar (Syangja), Magar (Western), Magar Nuwakot, "Magar, Western", "Magar,Western", Magari, Magarī, Manggar, Mãgari, Syangja Magar]
 population: 789000
@@ -16,6 +14,10 @@ glottocode: west2418
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Himalayish > Mahakiranti > Kham-Magar-Chepang > Magar > Western Magar"
+translations:
+  - translation_iso: zho
+    name: 西部迈格语
+    auto: true
 rolv_dialects:
   - rolv_code: 3221
     language_tag: mrd-x-HIS03221

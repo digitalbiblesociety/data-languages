@@ -1,8 +1,6 @@
 ---
 iso: snz
 name: Kou
-name_zh: 库语
-name_zh_auto: true
 autonym: Sinsauru
 alt_names: [Kow]
 population: 500
@@ -16,6 +14,10 @@ glottolog_family_id: nucl1709
 glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Madang > Rai Coast > Evapia > Nuclear Evapia > Kou"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kou_language"
+translations:
+  - translation_iso: zho
+    name: 库语
+    auto: true
 rolv_dialects:
   - rolv_code: 7267
     language_tag: snz-x-HIS07267

@@ -1,8 +1,6 @@
 ---
 iso: mwo
 name: Central Maewo
-name_zh: 中马埃沃语
-name_zh_auto: true
 autonym: " Peterara"
 alt_names: [Maevo, "Maewo, Central", Tanoriki]
 population: 1400
@@ -16,6 +14,10 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > North and Central Vanuatu > Northern Vanuatu > Maewo > Central Maewo"
 wikipedia_url: "https://en.wikipedia.org/wiki/Sungwadaga_language"
+translations:
+  - translation_iso: zho
+    name: 中马埃沃语
+    auto: true
 rolv_dialects:
   - rolv_code: 13263
     language_tag: mwo-x-HIS13263

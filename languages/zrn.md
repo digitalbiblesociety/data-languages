@@ -1,8 +1,6 @@
 ---
 iso: zrn
 name: Zerenkel
-name_zh: 泽伦克尔语
-name_zh_auto: true
 autonym: Zirenkel
 alt_names: [Zirenkel language]
 population: 2240
@@ -16,5 +14,9 @@ glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > East Chadic > East Chadic B > East Chadic B.1 > Mubic > Zirenkel"
 wikipedia_url: "https://en.wikipedia.org/wiki/Zirenkel_language"
+translations:
+  - translation_iso: zho
+    name: 泽伦克尔语
+    auto: true
 ---
 Zirenkel is an Afro-Asiatic language spoken in Chad.

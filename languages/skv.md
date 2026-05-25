@@ -1,8 +1,6 @@
 ---
 iso: skv
 name: Skou
-name_zh: 斯库语
-name_zh_auto: true
 autonym: Tumawo
 alt_names: [Nuclear Skou, Seko, Sekol, Sekou, Sko, Skouw, Skow, Sukou, Səkou, Te Mawo, Te Máwo pílang nè ne]
 population: 700
@@ -16,5 +14,9 @@ glottolog_family_id: skoo1245
 glottolog_family_name: Sko
 glottolog_classification: "Sko > Skou-Serra-Piore > Skouic > Skou"
 wikipedia_url: "https://en.wikipedia.org/wiki/Skou_language"
+translations:
+  - translation_iso: zho
+    name: 斯库语
+    auto: true
 ---
 Skou, or Tumawo, is a Papuan language of Indonesia.

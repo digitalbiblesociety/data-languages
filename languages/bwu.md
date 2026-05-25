@@ -1,8 +1,6 @@
 ---
 iso: bwu
 name: Buli (Ghana)
-name_zh: 布利语
-name_zh_auto: true
 autonym: Kanjaga
 alt_names: [Builsa, Bulea, Buli, Buli (in Ghana), Bulisa, Guresha, Kandjaga]
 population: 168000
@@ -16,5 +14,11 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Gur > Central Gur > Northern Central Gur > Bwamu-Oti-Volta > Oti-Volta > Buli-Koma > Buli (Ghana)"
 wikipedia_url: "https://en.wikipedia.org/wiki/Buli_language_(Ghana)"
+translations:
+  - translation_iso: jpn
+    name: ブリ語
+  - translation_iso: zho
+    name: 布利语
+    auto: true
 ---
 Buli, or Kanjaga, is a Gur language of Ghana primarily spoken in the Builsa North District and Builsa South District, located in the Upper East Region of the country. It is an SVO language and has 200,000 speakers.

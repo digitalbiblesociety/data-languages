@@ -16,8 +16,6 @@ import (
 var CanonicalOrder = []string{
 	"iso",
 	"name",
-	"name_zh",
-	"name_zh_auto",
 	"autonym",
 	"alt_names",
 	"population",
@@ -32,6 +30,7 @@ var CanonicalOrder = []string{
 	"glottolog_family_name",
 	"glottolog_classification",
 	"wikipedia_url",
+	"translations",
 	"rolv_dialects",
 }
 
@@ -60,6 +59,10 @@ var (
 		"rolv_dialects": {
 			required: []string{"rolv_code", "name"},
 			allowed:  setOf("rolv_code", "language_tag", "name", "country_id", "location"),
+		},
+		"translations": {
+			required: []string{"translation_iso", "name"},
+			allowed:  setOf("translation_iso", "name", "auto"),
 		},
 	}
 )
@@ -203,11 +206,6 @@ func validateValue(e Entry) string {
 	case "wikipedia_url":
 		if !strings.HasPrefix(v, "https://en.wikipedia.org/wiki/") {
 			return fmt.Sprintf("value %q must be an English Wikipedia article URL", v)
-		}
-	case "name_zh_auto":
-		// Only `true` is allowed; the field's presence is the marker.
-		if v != "true" {
-			return fmt.Sprintf("value %q must be `true` (the field is only set when name_zh is auto-generated)", v)
 		}
 	case "status_id":
 		for _, s := range statusValues {

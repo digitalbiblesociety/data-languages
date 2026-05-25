@@ -1,7 +1,6 @@
 ---
 iso: wuu
 name: Wu Chinese
-name_zh: 吳語
 autonym: 吳語/吴语
 alt_names: [Bahasa Wu, Changzhou, Chinese, "Chinese, Wu", "Chinese,Wu", Chino wu, Chinu vu, Język wu, Lingua wu, Língua wu, Ngô͘-gí, Ngù-ngṳ̄, Tiếng Ngô, Woueg, Wu, Wu (Changzhou), Wu Dialect Family, Wu-kiina, Wu-kínverska, Wuish, Wú, У, وو, ۋۇ تىلى, ภาษาจีนอู๋, ዉ ቻይንኛ, 吳語, 吴语, 呉語, 우어]
 population: 81400000
@@ -16,6 +15,17 @@ glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Sinitic > Classical-Middle-Modern Sinitic > Middle-Modern Sinitic > Wu-Hui Chinese > Wuic > Wu Chinese"
 wikipedia_url: "https://en.wikipedia.org/wiki/Wu_Chinese"
+translations:
+  - translation_iso: ara
+    name: وو
+  - translation_iso: hin
+    name: वू चीनी भाषाएँ
+  - translation_iso: jpn
+    name: 呉語
+  - translation_iso: kor
+    name: 우어
+  - translation_iso: zho
+    name: 吳語
 rolv_dialects:
   - rolv_code: 396
     language_tag: wuu-x-HIS00396

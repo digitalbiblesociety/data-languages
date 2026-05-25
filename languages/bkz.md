@@ -1,8 +1,6 @@
 ---
 iso: bkz
 name: Bungku
-name_zh: 邦库语
-name_zh_auto: true
 autonym: Ikinyikiusa
 alt_names: [Nahine]
 population: 1000
@@ -16,6 +14,10 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Celebic > Greater Eastern Celebic > Eastern Celebic > Southeastern Celebic > Bungku-Tolaki > Eastern Bungku-Tolaki > East Coast Bungku-Tolaki > Bungku"
 wikipedia_url: "https://en.wikipedia.org/wiki/Bungku_language"
+translations:
+  - translation_iso: zho
+    name: 邦库语
+    auto: true
 rolv_dialects:
   - rolv_code: 8494
     language_tag: bkz-x-HIS08494

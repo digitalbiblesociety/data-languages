@@ -1,8 +1,6 @@
 ---
 iso: gop
 name: Yeretuar
-name_zh: 耶雷图阿尔语
-name_zh_auto: true
 autonym: Umar
 alt_names: [Goni, Umari]
 population: 350
@@ -16,6 +14,10 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > South Halmahera-West New Guinea > Cenderawasih Bay > Southwest Cenderawasih Bay > Yeretuar"
 wikipedia_url: "https://en.wikipedia.org/wiki/Yeretuar_language"
+translations:
+  - translation_iso: zho
+    name: 耶雷图阿尔语
+    auto: true
 rolv_dialects:
   - rolv_code: 1252
     language_tag: gop-x-HIS01252

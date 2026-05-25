@@ -1,8 +1,6 @@
 ---
 iso: bvx
 name: Dibole
-name_zh: 迪博莱语
-name_zh_auto: true
 autonym: Dibole
 alt_names: [Babole, Southern Bomitaba]
 population: 4000
@@ -16,6 +14,10 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > Central-Western Bantu > North Zaire River > Rivers Bantu > Likouala-Sangha > Dibole"
 wikipedia_url: "https://en.wikipedia.org/wiki/Bole_language_(Bantu)"
+translations:
+  - translation_iso: zho
+    name: 迪博莱语
+    auto: true
 rolv_dialects:
   - rolv_code: 7481
     language_tag: bvx-x-HIS07481

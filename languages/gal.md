@@ -1,8 +1,6 @@
 ---
 iso: gal
 name: Galolen
-name_zh: 加洛伦语
-name_zh_auto: true
 autonym: Galolen
 alt_names: [Galole, Galoli]
 population: 20080
@@ -16,6 +14,12 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Timor-Babar > Wetar-Atauro > Galoli-Talur"
 wikipedia_url: "https://en.wikipedia.org/wiki/Galoli_language"
+translations:
+  - translation_iso: jpn
+    name: ガロリ語
+  - translation_iso: zho
+    name: 加洛伦语
+    auto: true
 rolv_dialects:
   - rolv_code: 10000
     language_tag: gal-x-HIS10000

@@ -1,7 +1,6 @@
 ---
 iso: koi
 name: "Komi-Permyak"
-name_zh: 彼尔姆科米语
 autonym: перем коми кыв
 alt_names: [Comi, Język komi-permiacki, Kama Permyak, Komi, Komi permio, "Komi yaz'va", Komi yazva, Komi-Perm, Komi-Permjaaks, Komi-Permjakisch, Komi-Permyat, Komi-permiac, Komieg-permyakeg, Komipermjaka lingvo, Komipermjakgiella, Komipermjakin kieli, Komipermjakisk, Komipermjakisk språk, Komipermjakki, Komių permių kalba, Lingua permiaca, Língua Komi-permyak, Permecki, Permiak, Permian, Permin komi, Permjakisch, Permyak, Sudacki, Syrjänisch, Ziryene, Zyrian, Zyryan, komi-permjackij jazyk, komi-permjakischer Dialekt, Коми-Перым кыв, Коми-пермјачки јазик, "Комі-перм'яцька мова", коми-пермяцкий язык, 코미페르먀크어]
 population: 64200
@@ -16,6 +15,17 @@ glottolog_family_id: ural1272
 glottolog_family_name: Uralic
 glottolog_classification: "Uralic > Permian > Komi > Komi-Permyak"
 wikipedia_url: "https://en.wikipedia.org/wiki/Komi-Permyak_language"
+translations:
+  - translation_iso: ara
+    name: بيرمياك
+  - translation_iso: hin
+    name: कोमी-पर्मयाक
+  - translation_iso: jpn
+    name: コミ・ペルミャク語
+  - translation_iso: kor
+    name: 코미페르먀크어
+  - translation_iso: zho
+    name: 彼尔姆科米语
 rolv_dialects:
   - rolv_code: 12187
     language_tag: koi-x-HIS12187

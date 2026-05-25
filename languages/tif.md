@@ -1,8 +1,6 @@
 ---
 iso: tif
 name: Tifal
-name_zh: 蒂法尔语
-name_zh_auto: true
 autonym: Tifalmin
 alt_names: [Tifal language]
 population: 3600
@@ -16,6 +14,10 @@ glottolog_family_id: nucl1709
 glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Asmat-Awyu-Ok > Awyu-Ok > Ok-Oksapmin > Ok > Mountain Ok > Division A Mountain Ok > Tifal-Telefol > Tifalic > Tifal"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tifal_language"
+translations:
+  - translation_iso: zho
+    name: 蒂法尔语
+    auto: true
 rolv_dialects:
   - rolv_code: 3778
     language_tag: tif-x-HIS03778

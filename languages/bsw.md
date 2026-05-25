@@ -1,7 +1,6 @@
 ---
 iso: bsw
 name: Baiso
-name_zh: 巴伊索語
 autonym: Giddicho
 alt_names: [Alkali, Baiso hizkuntza, Bayso, Gedicho, Gidicho, Lenga Baiso]
 population: 1010
@@ -15,5 +14,8 @@ glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Cushitic > East Cushitic > Lowland East Cushitic > Southern Lowland East Cushitic > Mainstream Lowland East Cushitic > Omo-Tana > Eastern Omo-Tana > Baiso-Jiiddu > Baiso"
 wikipedia_url: "https://en.wikipedia.org/wiki/Baiso_language"
+translations:
+  - translation_iso: zho
+    name: 巴伊索語
 ---
 Baiso or Bayso is an East Cushitic language belonging to the Omo–Tana subgroup, and is spoken in Ethiopia, in the region around Lake Abaya.

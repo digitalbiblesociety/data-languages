@@ -1,7 +1,6 @@
 ---
 iso: lpo
 name: Lipo
-name_zh: 里泼土语
 autonym: Lolopo
 alt_names: [Black Lisu, Dayao, Dayao Lipo, Eastern Lisu, He Lisu, Lipho, Lisu, Lolo, Taku, Taku Lisu, Yi]
 population: 250000
@@ -15,6 +14,11 @@ glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Burmo-Qiangic > Lolo-Burmese > Loloish > Ni-Li-Kazhouish > Lisoid > Lipo-Lolopo > Lipo-Micha > Lipo"
 wikipedia_url: "https://en.wikipedia.org/wiki/Lipo_language"
+translations:
+  - translation_iso: jpn
+    name: リポ語
+  - translation_iso: zho
+    name: 里泼土语
 rolv_dialects:
   - rolv_code: 18555
     language_tag: lpo-x-HIS18555

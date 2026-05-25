@@ -1,7 +1,6 @@
 ---
 iso: suz
 name: Sunwar
-name_zh: 松瓦尔语
 autonym: "सुनुवार, कोइँच, किराँती-कोइँच, मुखिया"
 alt_names: [Kirānti-Kõints, Koĩc, Kwoico Lo, Mukhiya, Sonowal, Sonowar, Sounwareg, Sunbar, Sunuvār, Sunuwar, Sunuwār, Sunwari, Sunwarish, Сунвар]
 population: 38200
@@ -16,6 +15,11 @@ glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Himalayish > Mahakiranti > Kiranti > Northwestern Kiranti > Bahing-Sunwar > Sunwar"
 wikipedia_url: "https://en.wikipedia.org/wiki/Sunwar_language"
+translations:
+  - translation_iso: jpn
+    name: スヌワール語
+  - translation_iso: zho
+    name: 松瓦尔语
 rolv_dialects:
   - rolv_code: 16951
     language_tag: suz-x-HIS16951

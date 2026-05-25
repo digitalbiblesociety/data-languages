@@ -1,8 +1,6 @@
 ---
 iso: kfw
 name: Kharam Naga
-name_zh: 哈拉姆那加语
-name_zh_auto: true
 autonym: Duisalongmei
 alt_names: ["Naga, Kharam", "Naga,Kharam", Thinglong]
 population: 1400
@@ -16,6 +14,10 @@ glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Kuki-Chin-Naga > Kuki-Chin > Northwestern Kuki-Chin > Central Old Kuki > Kharam Naga"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kharam_language"
+translations:
+  - translation_iso: zho
+    name: 哈拉姆那加语
+    auto: true
 ---
 Kharam is a Kuki-Chin language, belonging to the Northwestern or "Old Kuki" subfamily.
 According Ethnologue, Kharam shares a high degree of mutual intelligibility with Purum.

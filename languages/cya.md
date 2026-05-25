@@ -1,8 +1,6 @@
 ---
 iso: cya
 name: Nopala Chatino
-name_zh: 诺帕拉查蒂诺语
-name_zh_auto: true
 autonym: Sierra Chatino
 alt_names: [Chatino, Chatino (Nopala), Chatino de Zacatepec, Chatino de Zacatepeco, Chatino de la zona baja occidental, Chatino des basses-terres occidentales, "Chatino, Nopala"]
 population: 8940
@@ -15,4 +13,8 @@ glottocode: nopa1235
 glottolog_family_id: otom1299
 glottolog_family_name: Otomanguean
 glottolog_classification: "Otomanguean > Eastern Otomanguean > Popoloca-Zapotecan > Zapotecan > Chatino > Core Chatino > Coastal Chatino > Eastern Chatino > Nopala Chatino"
+translations:
+  - translation_iso: zho
+    name: 诺帕拉查蒂诺语
+    auto: true
 ---

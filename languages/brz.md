@@ -1,8 +1,6 @@
 ---
 iso: brz
 name: Bilbil
-name_zh: 比尔比尔语
-name_zh_auto: true
 autonym: Bilibil
 alt_names: [Bil Bil language, Bilbil jezik]
 population: 1250
@@ -16,5 +14,9 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > North New Guinea linkage > Ngero-Vitiaz linkage > Vitiaz linkage > Bel-Roinji-Nenaya > Bel > Western Bel > Bilibil"
 wikipedia_url: "https://en.wikipedia.org/wiki/Bilibil_language"
+translations:
+  - translation_iso: zho
+    name: 比尔比尔语
+    auto: true
 ---
 Bil Bil is an Austronesian language spoken by about 1,200 people near Madang town, Madang Province, Papua New Guinea.

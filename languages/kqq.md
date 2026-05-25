@@ -1,8 +1,6 @@
 ---
 iso: kqq
 name: Krenak
-name_zh: 克瑞纳克语
-name_zh_auto: true
 autonym: Borum
 alt_names: [Aimoré, Aranã, Bakuén, Batachoa, Botocudo, Botokudo, Crenaque, Etwet, Krekmún, Krenák, Minyãyirún, Naknyanúk, Nakpié, Nakrehé, Pojitxá, Potén, Yiporók]
 population: 150
@@ -16,5 +14,9 @@ glottolog_family_id: nucl1710
 glottolog_family_name: Nuclear-Macro-Je
 glottolog_classification: "Nuclear-Macro-Je > Maxakali-Borum > Borum"
 wikipedia_url: "https://en.wikipedia.org/wiki/Krenak_language"
+translations:
+  - translation_iso: zho
+    name: 克瑞纳克语
+    auto: true
 ---
 The Krenak language, also Borum or Botocudo, is the sole surviving language of a small family believed to be part of the Macro-Gê languages. It was once spoken by the Botocudo people in Minas Gerais, but is known primarily by older women today.

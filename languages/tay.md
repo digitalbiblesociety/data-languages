@@ -1,7 +1,6 @@
 ---
 iso: tay
 name: Atayal
-name_zh: 泰雅语
 autonym: Tayal
 alt_names: [Ataiyal, Attayal, Bonotsek, Lingua Atayal, Sediq, Shabogala, Sprache von Formosa, Taijyal, Taiyal, Takonan, Tangao, Thai-ngâ-ngî, Tyal, Yukan, Атаяльский язык, ภาษาอตายัล, タイヤル語, 泰雅語]
 population: 92100
@@ -15,6 +14,15 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Atayalic > Atayal"
 wikipedia_url: "https://en.wikipedia.org/wiki/Atayal_language"
+translations:
+  - translation_iso: ara
+    name: لغة أتايال
+  - translation_iso: jpn
+    name: タイヤル語
+  - translation_iso: kor
+    name: 타이얄어
+  - translation_iso: zho
+    name: 泰雅语
 rolv_dialects:
   - rolv_code: 7313
     language_tag: tay-x-HIS07313

@@ -1,8 +1,6 @@
 ---
 iso: bhr
 name: Bara Malagasy
-name_zh: 巴拉马拉加斯语
-name_zh_auto: true
 autonym: malagasy
 alt_names: [Malagassy, "Malagasy, Bara"]
 population: 724000
@@ -16,5 +14,11 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Basap-Greater Barito > Greater Barito linkage > Southeast Barito > Malagasic > Southwestern Malagasic > South West-Central Malagasic > Nuclear South West-Central Malagasic > Inland-Western Malagasic > Bara-Tanosy > Bara Malagasy"
 wikipedia_url: "https://en.wikipedia.org/wiki/Bara_Malagasy"
+translations:
+  - translation_iso: jpn
+    name: バラ・マダガスカル語
+  - translation_iso: zho
+    name: 巴拉马拉加斯语
+    auto: true
 ---
 Malagasy is an Austronesian language and dialect continuum spoken in Madagascar. The standard variety, called Official Malagasy, is one of the official languages of Madagascar, alongside French.

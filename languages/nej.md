@@ -1,8 +1,6 @@
 ---
 iso: nej
 name: Neko
-name_zh: 内科语
-name_zh_auto: true
 autonym: Yarete
 alt_names: [Bedawi, Beja]
 population: 320
@@ -16,6 +14,12 @@ glottolog_family_id: nucl1709
 glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Finisterre-Huon > Finisterre-Saruwaged > Gusap-Mot > Gira-Neko-Nekgini > Neko"
 wikipedia_url: "https://en.wikipedia.org/wiki/Neko_language"
+translations:
+  - translation_iso: jpn
+    name: ネコ語
+  - translation_iso: zho
+    name: 内科语
+    auto: true
 rolv_dialects:
   - rolv_code: 30349
     language_tag: nej-x-HIS30349

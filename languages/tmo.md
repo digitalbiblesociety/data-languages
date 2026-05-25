@@ -1,7 +1,6 @@
 ---
 iso: tmo
 name: Temoq
-name_zh: 特莫克语
 autonym: null
 alt_names: [Ulu Indau]
 population: null
@@ -15,5 +14,8 @@ glottolog_family_id: aust1305
 glottolog_family_name: Austroasiatic
 glottolog_classification: "Austroasiatic > Aslian > South Aslian > Semelai-Semaq > Temoq"
 wikipedia_url: "https://en.wikipedia.org/wiki/Temoq_language"
+translations:
+  - translation_iso: zho
+    name: 特莫克语
 ---
 Temoq is a severely endangered Austroasiatic language spoken in the state of Pahang in the Malay Peninsula. Temoq belongs to the Southern branch of the Aslian languages, along with Semelai, Semaq Beri, and Mah Meri.

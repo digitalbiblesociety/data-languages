@@ -1,8 +1,6 @@
 ---
 iso: lhh
 name: Laha (Indonesia)
-name_zh: 拉哈语
-name_zh_auto: true
 autonym: Central Ambon
 alt_names: [Laha]
 population: 3890
@@ -16,5 +14,9 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Nunusaku > Piru Bay > East Piru Bay > Solehua > Seram Straits > Ambonic > Central Ambon > Laha (Indonesia)"
 wikipedia_url: "https://en.wikipedia.org/wiki/Laha_language_(Indonesia)"
+translations:
+  - translation_iso: zho
+    name: 拉哈语
+    auto: true
 ---
 Laha is an Austronesian language spoken on Ambon Island in eastern Indonesia.

@@ -1,8 +1,6 @@
 ---
 iso: mqj
 name: Mamasa
-name_zh: 玛玛萨语
-name_zh_auto: true
 autonym: null
 alt_names: [Nordost-Celebes]
 population: 89100
@@ -16,6 +14,10 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Greater South Sulawesi > South Sulawesi > Northern South Sulawesi > Toraja-Duri > Torajic > Mamasa"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mamasa_language"
+translations:
+  - translation_iso: zho
+    name: 玛玛萨语
+    auto: true
 rolv_dialects:
   - rolv_code: 4693
     language_tag: mqj-x-HIS04693

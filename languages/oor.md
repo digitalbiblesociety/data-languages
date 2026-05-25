@@ -1,8 +1,6 @@
 ---
 iso: oor
 name: Oorlams
-name_zh: 奥尔拉姆斯语
-name_zh_auto: true
 autonym: null
 alt_names: [Língua oorlans, Oorlangs, Oorlans, Oorlansa lingvo]
 population: 32000
@@ -16,5 +14,9 @@ glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Germanic > Northwest Germanic > West Germanic > Macro-Dutch > Middle-Modern Dutch > Modern Dutch > Global Dutch > Afrikaansic > Oorlams"
 wikipedia_url: "https://en.wikipedia.org/wiki/Oorlams_Creole"
+translations:
+  - translation_iso: zho
+    name: 奥尔拉姆斯语
+    auto: true
 ---
 Oorlams is a dialect of Afrikaans spoken in the Republic of South Africa and Namibia, by the Oorlam people.

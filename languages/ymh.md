@@ -1,7 +1,6 @@
 ---
 iso: ymh
 name: Mili
-name_zh: 咪俚语
 autonym: null
 alt_names: ["Yi, Mili"]
 population: 23000
@@ -15,5 +14,8 @@ glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Burmo-Qiangic > Lolo-Burmese > Loloish > Ni-Li-Kazhouish > Lisoid > Lipo-Lolopo > Unclassified Lipo-Lolopo > Southwestern Lolo > Mili"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mili_language"
+translations:
+  - translation_iso: zho
+    name: 咪俚语
 ---
 Mili is a Loloish language spoken in Jingdong County, Yun, Zhenyuan, and Xinping counties of Yunnan province, China. Mili is a variety of Lolopo.

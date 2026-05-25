@@ -1,8 +1,6 @@
 ---
 iso: bpw
 name: Bo (Papua New Guinea)
-name_zh: 博语（巴布亚新几内亚）
-name_zh_auto: true
 autonym: Sorimi
 alt_names: [Bo, Po]
 population: 85
@@ -16,6 +14,10 @@ glottolog_family_id: left1242
 glottolog_family_name: Left May
 glottolog_classification: "Left May > Western Left May > Iteri-Bo > Bo (Papua New Guinea)"
 wikipedia_url: "https://en.wikipedia.org/wiki/Bo_language_(New_Guinea)"
+translations:
+  - translation_iso: zho
+    name: 博语（巴布亚新几内亚）
+    auto: true
 rolv_dialects:
   - rolv_code: 8201
     language_tag: bpw-x-HIS08201

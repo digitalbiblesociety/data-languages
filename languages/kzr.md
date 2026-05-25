@@ -1,8 +1,6 @@
 ---
 iso: kzr
 name: Karang
-name_zh: 卡朗语
-name_zh_auto: true
 autonym: Mbum
 alt_names: [Eastern Mbum, Kareng, Laka, Lakka, Lakka Mbum, Mbum Bakal, Mbum-East, Nzák Kàráng]
 population: 17000
@@ -16,6 +14,10 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Cameroun-Ubangian > Mbumic > Central Mbum > Karangic > Karang"
 wikipedia_url: "https://en.wikipedia.org/wiki/Karang_language"
+translations:
+  - translation_iso: zho
+    name: 卡朗语
+    auto: true
 rolv_dialects:
   - rolv_code: 11593
     language_tag: kzr-x-HIS11593

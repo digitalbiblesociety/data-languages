@@ -1,8 +1,6 @@
 ---
 iso: ziw
 name: Zigula
-name_zh: 齐古拉语
-name_zh_auto: true
 autonym: Mushunguli
 alt_names: [Zigulaic]
 population: 442000
@@ -16,5 +14,11 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > East Bantu > Northeast Savanna Bantu > Northeast Coastal Bantu > Ruvu > West Ruvu > Seuta > Zigua-Nguu > Zigula-Mushungulu"
 wikipedia_url: "https://en.wikipedia.org/wiki/Zigula_language"
+translations:
+  - translation_iso: jpn
+    name: ジグア語
+  - translation_iso: zho
+    name: 齐古拉语
+    auto: true
 ---
 The Zigula or Zigua language, Chizigua, is a Bantu language of Tanzania and Somalia, where the Mushunguli dialect is spoken.

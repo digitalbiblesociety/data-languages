@@ -1,8 +1,6 @@
 ---
 iso: klc
 name: Kolbila
-name_zh: 科尔比拉语
-name_zh_auto: true
 autonym: Kolbilari
 alt_names: [Kolbili, Kolbilla, Kolena, Zoono]
 population: 2500
@@ -16,5 +14,9 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Cameroun-Ubangian > Central Adamawa > Samba-Duru > Southern Samba-Duru > Sambaic > Kolbila"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kolbila_language"
+translations:
+  - translation_iso: zho
+    name: 科尔比拉语
+    auto: true
 ---
 Kolbila is an Adamawa language used in Cameroon and Nigeria.

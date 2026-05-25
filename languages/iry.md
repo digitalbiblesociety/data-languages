@@ -1,8 +1,6 @@
 ---
 iso: iry
 name: Iraya
-name_zh: 伊拉亚语
-name_zh_auto: true
 autonym: null
 alt_names: [Philippines]
 population: 10000
@@ -16,6 +14,10 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > North Mangyan > Iraya"
 wikipedia_url: "https://en.wikipedia.org/wiki/Iraya_language"
+translations:
+  - translation_iso: zho
+    name: 伊拉亚语
+    auto: true
 rolv_dialects:
   - rolv_code: 2137
     language_tag: iry-x-HIS02137

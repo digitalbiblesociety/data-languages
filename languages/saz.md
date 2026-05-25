@@ -1,7 +1,6 @@
 ---
 iso: saz
 name: Saurashtra
-name_zh: 萨乌拉施特拉语
 autonym: ꢱꣃꢬꢵꢰ꣄ꢜ꣄ꢬ ꢩꢵꢰꢵ
 alt_names: [Język saurasztryjski, Patnuli, Saurashtri, Sourashtra, Sowrashtra, सौराष्ट्र भाषा, સૌરાષ્ટ્ર ભાષા, சௌராட்டிர மொழி, ภาษาเสาราษฏร์]
 population: 248000
@@ -16,6 +15,13 @@ glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Indo-Aryan > Middle-Modern Indo-Aryan > Continental Indo-Aryan > Midlands Indo-Aryan > Apabhramsic > Gujarati-Rajasthani > Gujaratic > Saurashtra"
 wikipedia_url: "https://en.wikipedia.org/wiki/Saurashtra_language"
+translations:
+  - translation_iso: hin
+    name: सौराष्ट्र भाषा
+  - translation_iso: jpn
+    name: サウラーシュトラ語
+  - translation_iso: zho
+    name: 萨乌拉施特拉语
 rolv_dialects:
   - rolv_code: 16374
     language_tag: saz-x-HIS16374

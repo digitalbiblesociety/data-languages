@@ -1,8 +1,6 @@
 ---
 iso: kkv
 name: Kangean
-name_zh: 康甘语
-name_zh_auto: true
 autonym: Bĕsa Kangėan
 alt_names: [Indonesia]
 population: 110000
@@ -16,5 +14,9 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Maduresic > Kangean"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kangean_language"
+translations:
+  - translation_iso: zho
+    name: 康甘语
+    auto: true
 ---
 Kangean is a Austronesian language spoken by the Kangean people, which is an ethnic group native to Kangean Islands region, north of the Bali Sea. It is native to Kangean and the surrounding islands. The Kangean language is closely related to Madurese and partly mutually intelligible with it, and is often considered a dialect of Madurese.

@@ -1,8 +1,6 @@
 ---
 iso: kjq
 name: Western Keres
-name_zh: 西克雷斯语
-name_zh_auto: true
 autonym: Western Keres Pueblo
 alt_names: [Acoma, Acoma-Laguna, Keres, Keres (Western), "Keres, Western", Keresan, Keresan (Western), Queresano occidental, Western Keresan]
 population: 1695
@@ -15,6 +13,10 @@ glottocode: west2632
 glottolog_family_id: kere1287
 glottolog_family_name: Keresan
 glottolog_classification: "Keresan > Western Keres"
+translations:
+  - translation_iso: zho
+    name: 西克雷斯语
+    auto: true
 rolv_dialects:
   - rolv_code: 2873
     language_tag: kjq-x-HIS02873

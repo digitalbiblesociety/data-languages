@@ -1,8 +1,6 @@
 ---
 iso: mqo
 name: Modole
-name_zh: 莫多莱语
-name_zh_auto: true
 autonym: Madole
 population: 2000
 country_id: ID
@@ -15,6 +13,12 @@ glottolog_family_id: nort2923
 glottolog_family_name: North Halmahera
 glottolog_classification: "North Halmahera > Northern North Halmahera > Mainland North Halmaheran > Kao River > Modole"
 wikipedia_url: "https://en.wikipedia.org/wiki/Modole_language"
+translations:
+  - translation_iso: jpn
+    name: モドレ語
+  - translation_iso: zho
+    name: 莫多莱语
+    auto: true
 rolv_dialects:
   - rolv_code: 14173
     language_tag: mqo-x-HIS14173

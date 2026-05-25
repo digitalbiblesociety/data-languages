@@ -1,8 +1,6 @@
 ---
 iso: gel
 name: "ut-Ma'in"
-name_zh: 乌特-玛因语
-name_zh_auto: true
 autonym: Fakanchi
 alt_names: [Fakanci, Fakkanci, Kag-Fer-Jiir-Koor-Ror-Us-Zuksun, Puku-Geeri-Keri-Wipsi]
 population: 36000
@@ -16,6 +14,10 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Kainji > Central Kainji > Northwestern Kainji > Dukaic > Main-Gwamhi > Ut-Main"
 wikipedia_url: "https://en.wikipedia.org/wiki/U%CC%A0t-Ma%27in_language"
+translations:
+  - translation_iso: zho
+    name: 乌特-玛因语
+    auto: true
 rolv_dialects:
   - rolv_code: 2047
     language_tag: gel-x-HIS02047

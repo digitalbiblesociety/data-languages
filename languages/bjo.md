@@ -1,8 +1,6 @@
 ---
 iso: bjo
 name: "Mid-Southern Banda"
-name_zh: 中南班达语
-name_zh_auto: true
 autonym: Banda Central Sud
 alt_names: [Banda, "Banda, Mid-Southern"]
 population: 102000
@@ -15,6 +13,10 @@ glottocode: mids1243
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Cameroun-Ubangian > Ubangi > Ubangi Ka > Bandaic > Nuclear Bandaic > Central Bandaic > Core Central Bandaic > Lindaic > Mid-Southern Banda"
+translations:
+  - translation_iso: zho
+    name: 中南班达语
+    auto: true
 rolv_dialects:
   - rolv_code: 1495
     language_tag: bjo-x-HIS01495

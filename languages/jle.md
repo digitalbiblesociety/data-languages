@@ -1,8 +1,6 @@
 ---
 iso: jle
 name: Ngile
-name_zh: 恩吉雷语
-name_zh_auto: true
 autonym: Daloka
 alt_names: [Darra, Masakin, Mesakin, Taloca, Taloka]
 population: 11700
@@ -16,6 +14,10 @@ glottolog_family_id: narr1279
 glottolog_family_name: Narrow Talodi
 glottolog_classification: "Narrow Talodi > Buram-Saraf > Buram Hill Chain > Ngile"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ngile_language"
+translations:
+  - translation_iso: zho
+    name: 恩吉雷语
+    auto: true
 rolv_dialects:
   - rolv_code: 949
     language_tag: jle-x-HIS00949

@@ -1,8 +1,6 @@
 ---
 iso: aez
 name: Aeka
-name_zh: 艾卡语
-name_zh_auto: true
 autonym: Ajeka
 alt_names: [Aeka (orokaivic)]
 population: 3400
@@ -15,6 +13,10 @@ glottocode: aeka1244
 glottolog_family_id: nucl1709
 glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Greater Binanderean > Binanderean > Nuclear Binanderean > South Binanderean > Orokaivic > Aeka"
+translations:
+  - translation_iso: zho
+    name: 艾卡语
+    auto: true
 rolv_dialects:
   - rolv_code: 606
     language_tag: aez-x-HIS00606

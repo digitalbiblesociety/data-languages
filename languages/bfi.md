@@ -1,7 +1,6 @@
 ---
 iso: bfi
 name: British Sign Language
-name_zh: 英国手语
 autonym: Breetish Sign LeidIaith Arwyddion Prydain
 alt_names: [BSL, Bahasa Isyarat British, Brita mansigna lingvo, Britanski znakovni jezik, Brittiläinen viittomakieli, Langue des signes britannique, Língua de Sinais Britânica]
 population: 87090
@@ -15,6 +14,17 @@ glottolog_family_id: sign1238
 glottolog_family_name: Sign Language
 glottolog_classification: "Sign Language > L1 Sign Language > BSLic > BANZSL > British Sign Language"
 wikipedia_url: "https://en.wikipedia.org/wiki/British_Sign_Language"
+translations:
+  - translation_iso: ara
+    name: لغة الإشارة البريطانية
+  - translation_iso: hin
+    name: ब्रिटिश सांकेतिक भाषा
+  - translation_iso: jpn
+    name: イギリス手話
+  - translation_iso: kor
+    name: 영국 수화
+  - translation_iso: zho
+    name: 英国手语
 rolv_dialects:
   - rolv_code: 24391
     language_tag: bfi-x-HIS24391

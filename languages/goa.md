@@ -1,7 +1,6 @@
 ---
 iso: goa
 name: Guro
-name_zh: 古罗语
 autonym: Kweni
 alt_names: [Gouro, Kwéndré, Lo]
 population: 500000
@@ -15,6 +14,11 @@ glottolog_family_id: mand1469
 glottolog_family_name: Mande
 glottolog_classification: "Mande > Eastern Mande > Southeastern Mande > Mano-Dan > Guro-Dan > Guro-Yaoure > Guro"
 wikipedia_url: "https://en.wikipedia.org/wiki/Guro_language"
+translations:
+  - translation_iso: jpn
+    name: グロ語
+  - translation_iso: zho
+    name: 古罗语
 rolv_dialects:
   - rolv_code: 3018
     language_tag: goa-x-HIS03018

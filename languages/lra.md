@@ -1,8 +1,6 @@
 ---
 iso: lra
 name: "Rara Bakati'"
-name_zh: 拉拉-巴卡蒂语
-name_zh_auto: true
 autonym: Luru
 alt_names: [Lara language, "Lara'"]
 population: 11300
@@ -16,6 +14,10 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Land Dayak > Benyadu-Bekati > Bakati' > Rara-Sara Bakati' > Rara Bakati'"
 wikipedia_url: "https://en.wikipedia.org/wiki/Lara%CA%BC_language"
+translations:
+  - translation_iso: zho
+    name: 拉拉-巴卡蒂语
+    auto: true
 rolv_dialects:
   - rolv_code: 744
     language_tag: lra-x-HIS00744

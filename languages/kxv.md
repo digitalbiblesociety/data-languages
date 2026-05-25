@@ -1,7 +1,6 @@
 ---
 iso: kxv
 name: Kuvi
-name_zh: 库维
 autonym: Kuwi
 alt_names: [Jatapu, Khondh, Khondi, Kond, Kouvi, Kuvi Kond, Kuvinga]
 population: 176000
@@ -16,6 +15,17 @@ glottolog_family_id: drav1251
 glottolog_family_name: Dravidian
 glottolog_classification: "Dravidian > South Dravidian > South Dravidian II > Konda-Kui > Manda-Kui > Kui-Kuvi > Kuvi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kuvi_language"
+translations:
+  - translation_iso: ara
+    name: الكوفية
+  - translation_iso: hin
+    name: कूवि भाषा
+  - translation_iso: jpn
+    name: クーヴィンガ語
+  - translation_iso: kor
+    name: 쿠비어
+  - translation_iso: zho
+    name: 库维
 rolv_dialects:
   - rolv_code: 25778
     language_tag: kxv-x-HIS25778

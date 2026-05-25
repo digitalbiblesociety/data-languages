@@ -1,8 +1,6 @@
 ---
 iso: wem
 name: Weme Gbe
-name_zh: 韦梅-格贝语
-name_zh_auto: true
 autonym: fɔ̀ngbè/fõbè
 alt_names: [Gbe, "Gbe, Weme", Weme, Wéménugbé]
 population: 284000
@@ -15,4 +13,8 @@ glottocode: weme1239
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Kwa Volta-Congo > Gbe > Eastern Gbe > Fongbeic > Weme Gbe"
+translations:
+  - translation_iso: zho
+    name: 韦梅-格贝语
+    auto: true
 ---

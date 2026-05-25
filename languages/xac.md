@@ -1,8 +1,6 @@
 ---
 iso: xac
 name: Kachari
-name_zh: 卡查里语
-name_zh_auto: true
 autonym: Cachari
 alt_names: [Bara, Boro, Bårå, Hill Kachari, Kachāri, Plains Kachari]
 population: 16000
@@ -16,6 +14,14 @@ glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Brahmaputran > Bodo-Garo > Boroic > Tiwa-Boro > Bodo-Mech-Kachari > Kachari"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kachari_language"
+translations:
+  - translation_iso: hin
+    name: कछारी भाषा
+  - translation_iso: jpn
+    name: カチャリ語
+  - translation_iso: zho
+    name: 卡查里语
+    auto: true
 rolv_dialects:
   - rolv_code: 619
     language_tag: xac-x-HIS00619

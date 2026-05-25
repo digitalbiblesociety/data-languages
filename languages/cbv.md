@@ -1,8 +1,6 @@
 ---
 iso: cbv
 name: Cacua
-name_zh: 卡库亚语
-name_zh_auto: true
 autonym: Kakua
 alt_names: [Bada, Bará, Báda, Cakua, Kakwa, Kakwa language, Kákwa, Macu de Cubeo, Macu de Desano, Macu de Guanano, Macú-Paraná, Wacara]
 population: 220
@@ -16,6 +14,10 @@ glottolog_family_id: kaku1242
 glottolog_family_name: Kakua-Nukak
 glottolog_classification: "Kakua-Nukak > Kakua"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kakwa_language_(Colombia)"
+translations:
+  - translation_iso: zho
+    name: 卡库亚语
+    auto: true
 rolv_dialects:
   - rolv_code: 8604
     language_tag: cbv-x-HIS08604

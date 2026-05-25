@@ -1,7 +1,6 @@
 ---
 iso: aak
 name: Ankave
-name_zh: 安卡维
 autonym: Angave
 alt_names: [Ankave jezik]
 population: 1600
@@ -15,6 +14,9 @@ glottolog_family_id: anga1289
 glottolog_family_name: Angan
 glottolog_classification: "Angan > Nuclear Angan > Ankave-Tainae-Akoye > Ankave"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ankave_language"
+translations:
+  - translation_iso: zho
+    name: 安卡维
 rolv_dialects:
   - rolv_code: 7020
     language_tag: aak-x-HIS07020

@@ -1,8 +1,6 @@
 ---
 iso: rka
 name: Kraol
-name_zh: 克劳语
-name_zh_auto: true
 autonym: Bunong (ឞូន៝ង)
 alt_names: [Chrau, Crau, Southern-Central Mnong, Trao]
 population: 1960
@@ -15,4 +13,8 @@ glottocode: krao1238
 glottolog_family_id: aust1305
 glottolog_family_name: Austroasiatic
 glottolog_classification: "Austroasiatic > Bahnaric > West Bahnaric > South Bahnaric > Mnong-Stieng-Chrau > Mnong > Southern-Central Mnong > Kraol"
+translations:
+  - translation_iso: zho
+    name: 克劳语
+    auto: true
 ---

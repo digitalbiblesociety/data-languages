@@ -1,7 +1,6 @@
 ---
 iso: kfy
 name: Kumaoni
-name_zh: 古毛恩语
 autonym: कुमाँऊनी
 alt_names: [Askoti, Bhabari of Rampur, Chaugarkhiya, Cumauní, Danpuriya, Gangola, Johari, Język kumauni, Kamaoni, Khasparjiya, Kumaiya Pachhai, Kumaon, Kumau, Kumaun, Kumauni, Kumawani, Kumgoni, Kumman, Kunayaoni, Lingua Kumauni, Pashchimi, Phaldakotiya, Rau-Chaubhaisi, Sirali, Soriyali, Кумаоні, कुमाँऊनी भाषा, クマーオニー語]
 population: 2080000
@@ -16,6 +15,13 @@ glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Indo-Aryan > Middle-Modern Indo-Aryan > Continental Indo-Aryan > Midlands Indo-Aryan > Indo-Aryan Northern zone > Central Pahari > Kumaoni"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kumaoni_language"
+translations:
+  - translation_iso: hin
+    name: कुमाऊँनी
+  - translation_iso: jpn
+    name: クマーオニー語
+  - translation_iso: zho
+    name: 古毛恩语
 rolv_dialects:
   - rolv_code: 12461
     language_tag: kfy-x-HIS12461

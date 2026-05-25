@@ -1,8 +1,6 @@
 ---
 iso: nnr
 name: Narungga
-name_zh: 纳龙加语
-name_zh_auto: true
 autonym: Nanunga
 alt_names: [Adjabdurah, Adjadura, Adjahdurah, Adjahdural, Moor in nunjie, Moor-in-nunjie, Murinandji, Nar anga, Nar-anga, Naranga, Narangga, Narangga language, Narangka, Narrang gu, Narrang u, Narrang-gu, Narrang-u, Narranga, Narrangga, Narranggu, Narrangu, Narrunga, Narunga, Narungga/Nharangga, Nharangga, Turra, Wallaroo tribe]
 population: null
@@ -16,6 +14,10 @@ glottolog_family_id: pama1250
 glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > Arandic-Thura-Yura > Thura-Yura > Core Thura Yura > Southern Thura-Yura > Narungga"
 wikipedia_url: "https://en.wikipedia.org/wiki/Narungga_language"
+translations:
+  - translation_iso: zho
+    name: 纳龙加语
+    auto: true
 rolv_dialects:
   - rolv_code: 14734
     language_tag: nnr-x-HIS14734

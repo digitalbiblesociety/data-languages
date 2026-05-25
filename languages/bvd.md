@@ -1,8 +1,6 @@
 ---
 iso: bvd
 name: Baeggu
-name_zh: 拜古语
-name_zh_auto: true
 autonym: Mbaenggu
 alt_names: [Baegu, Südliche Salomons-Inseln]
 population: 5900
@@ -16,6 +14,10 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Southeast Solomonic > Longgu-Malaita-Makira > Malaita-Makira > Malaita > Central-Northern Malaita > North Malaitan > Baeggu"
 wikipedia_url: "https://en.wikipedia.org/wiki/Baeggu_language"
+translations:
+  - translation_iso: zho
+    name: 拜古语
+    auto: true
 rolv_dialects:
   - rolv_code: 3601
     language_tag: bvd-x-HIS03601

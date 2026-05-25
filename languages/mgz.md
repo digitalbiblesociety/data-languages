@@ -1,8 +1,6 @@
 ---
 iso: mgz
 name: Mbugwe
-name_zh: 姆布格韦语
-name_zh_auto: true
 autonym: Kimbugwe
 alt_names: [Mbuwe]
 population: 24000
@@ -16,5 +14,9 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > East Bantu > Mbugwe-Langi > Mbugwe"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mbugwe_language"
+translations:
+  - translation_iso: zho
+    name: 姆布格韦语
+    auto: true
 ---
 Mbugwe or Mbuwe (Kimbugwe) is a Bantu language spoken by the Mbugwe people of Lake Manyara in the Manyara Region of Central Tanzania. Mbugwe is estimated to be spoken by some 34,000 people.

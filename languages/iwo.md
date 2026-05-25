@@ -1,8 +1,6 @@
 ---
 iso: iwo
 name: Iwur
-name_zh: 伊武尔语
-name_zh_auto: true
 autonym: Morop
 alt_names: [Dintere, Iwoer, Iworo]
 population: 6900
@@ -16,6 +14,10 @@ glottolog_family_id: nucl1709
 glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Asmat-Awyu-Ok > Awyu-Ok > Ok-Oksapmin > Ok > Morop-Dintere"
 wikipedia_url: "https://en.wikipedia.org/wiki/Iwur_language"
+translations:
+  - translation_iso: zho
+    name: 伊武尔语
+    auto: true
 rolv_dialects:
   - rolv_code: 25855
     language_tag: iwo-x-HIS25855

@@ -1,8 +1,6 @@
 ---
 iso: xuj
 name: Jennu Kurumba
-name_zh: 杰努-库鲁姆巴语
-name_zh_auto: true
 autonym: "Kurumba, Jennu"
 alt_names: [Jen Kurumba, Jennu Kurumba Nonstandard Kannada, Jennu Nudi, Kattu Nayaka, Naik Kurumba, Naikan, Ten Kurumba]
 population: 101000
@@ -16,6 +14,10 @@ glottolog_family_id: drav1251
 glottolog_family_name: Dravidian
 glottolog_classification: "Dravidian > South Dravidian > South Dravidian I > Tamil-Kannada > Badaga-Kannada > Kannadoid > Jennu Kurumba"
 wikipedia_url: "https://en.wikipedia.org/wiki/Jenu_Kurumba_language"
+translations:
+  - translation_iso: zho
+    name: 杰努-库鲁姆巴语
+    auto: true
 rolv_dialects:
   - rolv_code: 3506
     language_tag: xuj-x-HIS03506

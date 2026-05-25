@@ -1,7 +1,6 @@
 ---
 iso: hea
 name: Northern Qiandong Miao
-name_zh: 北部土语
 autonym: Qiandong Miao
 alt_names: [Black Miao, Central Miao, Chientung Miao, East Guizhou Miao, East-Guizhou Miao, Heh Miao, Hei, Hei Miao, "Hmong, Northern Qiandong", Hmu, Miao, "Miao, Northern Qiandong", Northern, Northern East-Guizhou Miao]
 population: 1250000
@@ -14,6 +13,11 @@ glottocode: nort2747
 glottolog_family_id: hmon1336
 glottolog_family_name: Hmong-Mien
 glottolog_classification: "Hmong-Mien > Hmongic > Nuclear Hmongic-Ho Ne > Nuclear Hmongic > East Hmongic > Northeastern Qiandongic Miao > Northern Qiandong Miao"
+translations:
+  - translation_iso: jpn
+    name: 北部黔東苗語
+  - translation_iso: zho
+    name: 北部土语
 rolv_dialects:
   - rolv_code: 4948
     language_tag: hea-x-HIS04948

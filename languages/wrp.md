@@ -1,8 +1,6 @@
 ---
 iso: wrp
 name: Waropen
-name_zh: 瓦罗本语
-name_zh_auto: true
 autonym: Aropen
 alt_names: [Wonti, Worpen]
 population: 6000
@@ -16,6 +14,10 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > South Halmahera-West New Guinea > Waropen"
 wikipedia_url: "https://en.wikipedia.org/wiki/Waropen_language"
+translations:
+  - translation_iso: zho
+    name: 瓦罗本语
+    auto: true
 rolv_dialects:
   - rolv_code: 1230
     language_tag: wrp-x-HIS01230

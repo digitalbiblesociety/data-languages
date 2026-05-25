@@ -1,8 +1,6 @@
 ---
 iso: mbh
 name: Mangseng
-name_zh: 曼格森语
-name_zh_auto: true
 autonym: null
 alt_names: [Mangsing, Masegi, Maseki]
 population: 2500
@@ -16,6 +14,12 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > North New Guinea linkage > Ngero-Vitiaz linkage > Vitiaz linkage > Southwest New Britain linkage > Arawe-Pasismanua > Bebeli-Mangseng > Mangseng"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mangseng_language"
+translations:
+  - translation_iso: jpn
+    name: マンセン語
+  - translation_iso: zho
+    name: 曼格森语
+    auto: true
 rolv_dialects:
   - rolv_code: 1496
     language_tag: mbh-x-HIS01496

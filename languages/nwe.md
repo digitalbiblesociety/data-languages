@@ -1,7 +1,6 @@
 ---
 iso: nwe
 name: Ngwe
-name_zh: Ngwe語
 autonym: "Bamileke-Ngwe"
 alt_names: [Fomopea, Fontem, Nwe]
 population: 73200
@@ -15,6 +14,11 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Wide Grassfields > Narrow Grassfields > Mbam-Nkam > Southern Mbam-Nkam > Bamileke > West Bamileke > Bamboutos > Ngwe"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ngwe_language"
+translations:
+  - translation_iso: jpn
+    name: ングウェ語
+  - translation_iso: zho
+    name: Ngwe語
 rolv_dialects:
   - rolv_code: 28368
     language_tag: nwe-x-HIS28365

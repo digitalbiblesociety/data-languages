@@ -1,8 +1,6 @@
 ---
 iso: mqb
 name: Mbuko
-name_zh: 姆布科语
-name_zh_auto: true
 autonym: null
 alt_names: [Mboko, Mbokou, Mboku, Mbuku]
 population: 15000
@@ -16,5 +14,9 @@ glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > Biu-Mandara > Hurza > Mbuko"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mbuko_language"
+translations:
+  - translation_iso: zho
+    name: 姆布科语
+    auto: true
 ---
 Mbuko is an Afro-Asiatic language spoken in the canton of Doulek, Méri subdivision, department of Diamaré, and also in parts of the canton of Serawa, Tokombéré subdivision, department of Mayo-Sava, in the Far North Region of Cameroon.

@@ -1,8 +1,6 @@
 ---
 iso: nil
 name: Nila
-name_zh: 尼拉语
-name_zh_auto: true
 autonym: bahasa Nila
 alt_names: [Dharug, Nila (isla Seram), Nila (île de Nila), Nila (île de Seram)]
 population: 1800
@@ -16,5 +14,9 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Timor-Babar > Southwest Maluku > Teun-Nila-Serua > Nila-Serua > Nila"
 wikipedia_url: "https://en.wikipedia.org/wiki/Nila_language"
+translations:
+  - translation_iso: zho
+    name: 尼拉语
+    auto: true
 ---
 Nila is an extinct Austronesian language originally spoken on Nila Island in Maluku, Indonesia. Speakers were relocated to Seram due to volcanic activity on Nila.

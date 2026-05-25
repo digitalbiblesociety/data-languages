@@ -1,8 +1,6 @@
 ---
 iso: tqp
 name: Tomoip
-name_zh: 托莫伊普语
-name_zh_auto: true
 autonym: Tomoive
 alt_names: [Tomoyp, Tumie, Tumuip]
 population: 700
@@ -16,5 +14,11 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > Meso Melanesian linkage > New Ireland-Northwest Solomonic linkage > Tomoip"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tomoip_language"
+translations:
+  - translation_iso: jpn
+    name: トゥムイプ語
+  - translation_iso: zho
+    name: 托莫伊普语
+    auto: true
 ---
 Tomoip is an Oceanic language of New Britain in Papua New Guinea.

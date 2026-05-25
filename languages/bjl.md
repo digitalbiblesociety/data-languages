@@ -1,8 +1,6 @@
 ---
 iso: bjl
 name: Bulu (Papua New Guinea)
-name_zh: 布卢语（巴布亚新几内亚）
-name_zh_auto: true
 autonym: null
 alt_names: [Bulu]
 population: 910
@@ -16,5 +14,11 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > Meso Melanesian linkage > Willaumez linkage > Bola-Bulu > Bulu (Papua New Guinea)"
 wikipedia_url: "https://en.wikipedia.org/wiki/Bulu_language_(Oceanic)"
+translations:
+  - translation_iso: jpn
+    name: ブル語
+  - translation_iso: zho
+    name: 布卢语（巴布亚新几内亚）
+    auto: true
 ---
 Bulu is an Oceanic language of West New Britain in Papua New Guinea.

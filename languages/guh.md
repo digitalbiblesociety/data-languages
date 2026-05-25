@@ -1,8 +1,6 @@
 ---
 iso: guh
 name: Guahibo
-name_zh: 瓜希博语
-name_zh_auto: true
 autonym: Jiwi
 alt_names: [Goahibo, Goahiva, Guaigua, Guajibo, Guayba, Guaybo, Gvahiba lingvo, Hiwi, Sicuane, Sicuani, Sicuari, Sikuani, Wahibo, Wahibo simi, Wahivo]
 population: 35000
@@ -16,6 +14,10 @@ glottolog_family_id: guah1252
 glottolog_family_name: Guahiboan
 glottolog_classification: "Guahiboan > Nuclear Guahiboan > Central Guahibo > Guahibo-Playero > Sikuani"
 wikipedia_url: "https://en.wikipedia.org/wiki/Guahibo_language"
+translations:
+  - translation_iso: zho
+    name: 瓜希博语
+    auto: true
 rolv_dialects:
   - rolv_code: 10360
     language_tag: guh-x-HIS10360

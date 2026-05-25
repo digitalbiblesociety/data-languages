@@ -1,7 +1,6 @@
 ---
 iso: zrp
 name: Zarphatic
-name_zh: 查法蒂语
 autonym: Zarphatic
 population: null
 country_id: FR
@@ -10,5 +9,10 @@ status_id: "10"
 latitude: 45.56274
 longitude: 4.38771
 wikipedia_url: "https://en.wikipedia.org/wiki/Zarphatic_language"
+translations:
+  - translation_iso: jpn
+    name: ツァルファティート
+  - translation_iso: zho
+    name: 查法蒂语
 ---
 Zarphatic, also called Judeo-French or Western Loez, is a language that was spoken by the French Jews of northern France and in parts of western Germany, such as Mainz, Frankfurt am Main and Aix-la-Chapelle. It was also spoken by French Jews who moved to Norman England. Some have conjectured that the language influenced the development of Yiddish.

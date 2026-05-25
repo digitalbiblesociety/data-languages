@@ -1,8 +1,6 @@
 ---
 iso: okh
 name: "Koresh-e Rostam"
-name_zh: 科雷什-罗斯塔姆语
-name_zh_auto: true
 autonym: Koresh-e Rostam
 alt_names: [Iran, Khoresh-e Rostam]
 population: null
@@ -16,5 +14,9 @@ glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Iranian-Nuristani > Iranian > Central Iranian PBS > Central Iranian PB > Northwestern Iranian > Adharic > Tatic > Central Tatic > Khalkhalic > Karanic"
 wikipedia_url: "https://en.wikipedia.org/wiki/Karan_language"
+translations:
+  - translation_iso: zho
+    name: 科雷什-罗斯塔姆语
+    auto: true
 ---
 Karani, including the Koresh-e Rostam dialect, is a dialect of the Tati language. It is a moribund Northwestern Iranian language.

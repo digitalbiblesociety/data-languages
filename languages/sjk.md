@@ -1,7 +1,6 @@
 ---
 iso: sjk
 name: Kemi Sami
-name_zh: 凱米薩米語
 autonym: null
 alt_names: ["\"Lapp\"", Eastern, Eastern Saami, Lapp, Lappic, Lappisch, Lappish, Saami, "Saami, Kemi", Sami, "Sami, Kemi", Sámi, east dialect, lapin kieli, lapon, lappisk, lopary, saamen kieli, saamskij jazyk, sabme, same-, sāme-giellâ]
 population: null
@@ -15,5 +14,12 @@ glottolog_family_id: ural1272
 glottolog_family_name: Uralic
 glottolog_classification: "Uralic > Saami > Eastern Saami > Mainland Eastern Saami > Kemi Saami"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kemi_S%C3%A1mi"
+translations:
+  - translation_iso: jpn
+    name: ケミ・サーミ語
+  - translation_iso: kor
+    name: 케미 사미어
+  - translation_iso: zho
+    name: 凱米薩米語
 ---
 Kemi Sámi was a Sámi language that was originally spoken in the southernmost district of Finnish Lapland as far south as the Sámi siidas around Kuusamo.

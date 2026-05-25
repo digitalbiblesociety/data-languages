@@ -1,8 +1,6 @@
 ---
 iso: bpd
 name: "Banda-Banda"
-name_zh: 班达-班达语
-name_zh_auto: true
 autonym: null
 alt_names: [Banda]
 population: 102000
@@ -15,6 +13,10 @@ glottocode: band1343
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Cameroun-Ubangian > Ubangi > Ubangi Ka > Bandaic > Nuclear Bandaic > Central Bandaic > Core Central Bandaic > Lindaic > Banda-Banda"
+translations:
+  - translation_iso: zho
+    name: 班达-班达语
+    auto: true
 rolv_dialects:
   - rolv_code: 7683
     language_tag: bpd-x-HIS07683

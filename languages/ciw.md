@@ -1,8 +1,6 @@
 ---
 iso: ciw
 name: Chippewa
-name_zh: 奇普瓦语
-name_zh_auto: true
 autonym: Ojibwa
 alt_names: [Anishinabe, Chipewa, Chipeway, Chippewa (Red Lake and Pillager), Chippeway, Minnesota Ojibwe, Ojibwa (South-western), Ojibwa (Southwestern), Ojibway, Ojibwe, Ojibwe (Minnesota), Ojibwe (Southwestern), Oyibua, Southwestern Ojibwa]
 population: 104000
@@ -16,6 +14,14 @@ glottolog_family_id: algi1248
 glottolog_family_name: Algic
 glottolog_classification: "Algic > Algonquian-Blackfoot > Algonquian > Eastern Great Lakes Algonquian > Ojibwa-Potawatomi > Ojibwa > Nuclear Ojibwe > Central-Eastern-Southwestern Ojibwa > Chippewa"
 wikipedia_url: "https://en.wikipedia.org/wiki/Chippewa_language"
+translations:
+  - translation_iso: ara
+    name: شيبيوا
+  - translation_iso: jpn
+    name: 南西部オジブワ語
+  - translation_iso: zho
+    name: 奇普瓦语
+    auto: true
 rolv_dialects:
   - rolv_code: 8887
     language_tag: ciw-x-HIS08887

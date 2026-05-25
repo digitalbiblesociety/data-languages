@@ -1,8 +1,6 @@
 ---
 iso: ppt
 name: Pare
-name_zh: 帕雷语
-name_zh_auto: true
 autonym: Pare
 alt_names: [Akium-Pare, Pa]
 population: 6500
@@ -16,5 +14,9 @@ glottolog_family_id: kamu1264
 glottolog_family_name: Kamula-Elevala
 glottolog_classification: "Kamula-Elevala > Elevala > Pare"
 wikipedia_url: "https://en.wikipedia.org/wiki/Pa_language"
+translations:
+  - translation_iso: zho
+    name: 帕雷语
+    auto: true
 ---
 Pa, also known as Pare or Akium-Pare, is a Papuan language of Western (Fly) Province, Papua New Guinea.

@@ -1,8 +1,6 @@
 ---
 iso: bzx
 name: Kɛlɛngaxo Bozo
-name_zh: 克莱恩加霍博佐语
-name_zh_auto: true
 autonym: Boso
 alt_names: ["Bozo, Hainyaxo", "Bozo, Kɛlɛngaxo", Hain, Hainyaxo, Hainyaxo Bozo, Hanyaxo, Kelenga, Kélinga, Kéllingua, Xan, Xanyaxo]
 population: 30000
@@ -16,4 +14,8 @@ glottocode: hain1253
 glottolog_family_id: mand1469
 glottolog_family_name: Mande
 glottolog_classification: "Mande > Western Mande > Northwestern Mande > Soninke-Bozo > Bozo > Hainyaxo Bozo"
+translations:
+  - translation_iso: zho
+    name: 克莱恩加霍博佐语
+    auto: true
 ---

@@ -1,8 +1,6 @@
 ---
 iso: bpu
 name: Bongu
-name_zh: 邦古语
-name_zh_auto: true
 autonym: null
 population: 854
 country_id: PG
@@ -15,6 +13,10 @@ glottolog_family_id: nucl1709
 glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Madang > Rai Coast > Mindjim > Lower Minjim > Coastal Minjim > Bongu"
 wikipedia_url: "https://en.wikipedia.org/wiki/Bongu_language"
+translations:
+  - translation_iso: zho
+    name: 邦古语
+    auto: true
 rolv_dialects:
   - rolv_code: 634
     language_tag: bpu-x-HIS00634

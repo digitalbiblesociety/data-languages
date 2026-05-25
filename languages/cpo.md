@@ -1,8 +1,6 @@
 ---
 iso: cpo
 name: Kpeego
-name_zh: 克皮戈语
-name_zh_auto: true
 autonym: Numu
 population: 2000
 country_id: BF
@@ -15,5 +13,9 @@ glottolog_family_id: mand1469
 glottolog_family_name: Mande
 glottolog_classification: "Mande > Western Mande > Northwestern Mande > Duun-Bobo > Duun-Jo > Duun-Seenku > Duun > Samogogouanic > Kpeego"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kpee_language"
+translations:
+  - translation_iso: zho
+    name: 克皮戈语
+    auto: true
 ---
 The Kpee language, Kpeego, commonly called Numu (Noumoukan), is a Mande language spoken by blacksmiths (numu) in Burkina Faso. It is thought to be similar to Ligbi in Ghana, but no comparison has been done.

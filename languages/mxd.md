@@ -1,8 +1,6 @@
 ---
 iso: mxd
 name: Modang
-name_zh: 莫当语
-name_zh_auto: true
 autonym: bahasa Modang
 alt_names: [Indonesia]
 population: 15300
@@ -16,6 +14,10 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > North Borneo Malayo-Polynesian > Kayan-Murik-Modang > Modang-Segai > Modang"
 wikipedia_url: "https://en.wikipedia.org/wiki/Modang_language"
+translations:
+  - translation_iso: zho
+    name: 莫当语
+    auto: true
 rolv_dialects:
   - rolv_code: 14166
     language_tag: mxd-x-HIS14166

@@ -1,7 +1,6 @@
 ---
 iso: agg
 name: Angor
-name_zh: 安哥爾語
 autonym: Senagi
 alt_names: [Anggor, Watapor]
 population: 1500
@@ -15,6 +14,9 @@ glottolog_family_id: sena1264
 glottolog_family_name: Senagi
 glottolog_classification: "Senagi > Angor"
 wikipedia_url: "https://en.wikipedia.org/wiki/Angor_language"
+translations:
+  - translation_iso: zho
+    name: 安哥爾語
 rolv_dialects:
   - rolv_code: 1242
     language_tag: agg-x-HIS01242

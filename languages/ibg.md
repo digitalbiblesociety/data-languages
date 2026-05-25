@@ -1,7 +1,6 @@
 ---
 iso: ibg
 name: Ibanag
-name_zh: 伊巴納格語
 autonym: Ybanag
 alt_names: [Ibanag-ngî, Pagsasao nga Ibanag, Wikang Ibanag, ภาษาอีบานัก]
 population: 403000
@@ -15,6 +14,13 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Northern Luzon > Cagayan Valley > Ibanagic > Ibanag"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ibanag_language"
+translations:
+  - translation_iso: jpn
+    name: イバナグ語
+  - translation_iso: kor
+    name: 이바나그어
+  - translation_iso: zho
+    name: 伊巴納格語
 rolv_dialects:
   - rolv_code: 10768
     language_tag: ibg-x-HIS10768

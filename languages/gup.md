@@ -1,8 +1,6 @@
 ---
 iso: gup
 name: Gunwinggu
-name_zh: 甘温古语
-name_zh_auto: true
 autonym: Bininj Kunwok
 alt_names: [Bininj Gun wok, Bininj Gun-Wok, Gumawurag, Gunawitji, Gundeidjeme, Gundeijeme, Gundja jeimi, Gundja-jeimi, Gundjajeimi, Gundjeibmi, Gundjeipmi, Gunei, Gunrerg, Gunwiggu, Gunwinghu, Gunwingo, Gunwingu, Gunwinjgu, Gunwinngu, Gunwinygu, Gunwunei, Gurmadja madja, Koorunge, Koorungo, Kulunglutchi, Kulunglutji, Kulungutchi, Kundangyohmi, Kuninjku, Kunwinjku, Kunwinku, Maielli, Majali, Mangaridji, Mangeri, Margulitban, Mayali, Mayali (Gun-Djeihmi), Mengerrdji, Menngarr, Muralidan, Neing gu, Neinggu, Neinngu, Proto Bininj Gun-wok, Unigangk, Urnigangg, Wengei, Wengej, Wengi, Witji, Wunei]
 population: 2130
@@ -16,6 +14,12 @@ glottolog_family_id: gunw1250
 glottolog_family_name: Gunwinyguan
 glottolog_classification: "Gunwinyguan > Bininj Kun-Wok"
 wikipedia_url: "https://en.wikipedia.org/wiki/Bininj_Kunwok"
+translations:
+  - translation_iso: jpn
+    name: グンウィング語
+  - translation_iso: zho
+    name: 甘温古语
+    auto: true
 rolv_dialects:
   - rolv_code: 3696
     language_tag: gup-x-HIS03696

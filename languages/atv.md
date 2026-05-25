@@ -1,7 +1,6 @@
 ---
 iso: atv
 name: Northern Altai
-name_zh: 北阿尔泰语
 autonym: тÿндÿк алтай тили
 alt_names: ["Altai, Northern", Altaï septentrional, Altái septentrional, Kumandin, Nordaltaja lingvo, Telengit, Telengut, Teleut, Teleutisch, алтай тили, кумандинско-челканский язык, северноалтайский язык]
 population: 1570
@@ -15,6 +14,13 @@ glottolog_family_id: turk1311
 glottolog_family_name: Turkic
 glottolog_classification: "Turkic > Common Turkic > South Siberian Turkic > Northern Altai-Lower Chulym > Northern Altai"
 wikipedia_url: "https://en.wikipedia.org/wiki/Northern_Altai_language"
+translations:
+  - translation_iso: jpn
+    name: 北アルタイ語
+  - translation_iso: kor
+    name: 북부 알타이어
+  - translation_iso: zho
+    name: 北阿尔泰语
 rolv_dialects:
   - rolv_code: 24293
     language_tag: atv-x-HIS24293

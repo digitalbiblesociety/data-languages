@@ -1,8 +1,6 @@
 ---
 iso: amk
 name: Ambai
-name_zh: 安拜语
-name_zh_auto: true
 autonym: bahasa Ambai
 alt_names: [Ambai-Menawi]
 population: 10100
@@ -16,6 +14,10 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > South Halmahera-West New Guinea > Cenderawasih Bay > Yapen > Central-Western Yapen > Ansus-Ambai > Ambai"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ambai_language"
+translations:
+  - translation_iso: zho
+    name: 安拜语
+    auto: true
 rolv_dialects:
   - rolv_code: 1200
     language_tag: amk-x-HIS01200

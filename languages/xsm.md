@@ -1,7 +1,6 @@
 ---
 iso: xsm
 name: Kasem
-name_zh: 卡塞納語
 autonym: Kassena
 alt_names: [Kasena, Kasim, Kassem, Kassene]
 population: 232600
@@ -15,6 +14,11 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Gur > Central Gur > Southern Central Gur > Grusi > Northern Grusi > Nuna-Kasem > Kasem"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kasena_language"
+translations:
+  - translation_iso: jpn
+    name: カセム語
+  - translation_iso: zho
+    name: 卡塞納語
 rolv_dialects:
   - rolv_code: 11656
     language_tag: xsm-x-HIS11656

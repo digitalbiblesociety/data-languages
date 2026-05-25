@@ -1,8 +1,6 @@
 ---
 iso: huf
 name: Humene
-name_zh: 胡梅内语
-name_zh_auto: true
 autonym: null
 alt_names: [Lakume, Manukolu]
 population: 940
@@ -16,6 +14,10 @@ glottolog_family_id: kwal1257
 glottolog_family_name: Kwalean
 glottolog_classification: "Kwalean > Humene-Kwale > Humene"
 wikipedia_url: "https://en.wikipedia.org/wiki/Humene_language"
+translations:
+  - translation_iso: zho
+    name: 胡梅内语
+    auto: true
 rolv_dialects:
   - rolv_code: 2993
     language_tag: huf-x-HIS02993

@@ -1,7 +1,6 @@
 ---
 iso: led
 name: Lendu
-name_zh: 蘭度語
 autonym: Balendru
 alt_names: [Bale, Baledha, Baletha, Batha, Bbadha, Bbaledha, Hema-Nord, Kihema-Nord, Kilendu, Lendu (North), N Lendu, N. Lendu, North Lendu]
 population: 750000
@@ -15,6 +14,11 @@ glottolog_family_id: cent2225
 glottolog_family_name: Central Sudanic
 glottolog_classification: "Central Sudanic > Lenduic > Bale > Lendu"
 wikipedia_url: "https://en.wikipedia.org/wiki/Lendu_language"
+translations:
+  - translation_iso: jpn
+    name: レンドュ語
+  - translation_iso: zho
+    name: 蘭度語
 rolv_dialects:
   - rolv_code: 1299
     language_tag: led-x-HIS01299

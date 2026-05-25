@@ -1,8 +1,6 @@
 ---
 iso: xtq
 name: Tumshuqese
-name_zh: 图姆舒克语
-name_zh_auto: true
 autonym: 𑀕𑁆𑀬𑀸𑀰𑁆𑀤𑀺
 alt_names: [Tumshuqese Sakan]
 population: null
@@ -16,5 +14,9 @@ glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Iranian-Nuristani > Iranian > Saka-Wakhi > Saka > Tumshuqese"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tumshuqese"
+translations:
+  - translation_iso: zho
+    name: 图姆舒克语
+    auto: true
 ---
 Saka, or Sakan, was a variety of Eastern Iranian languages, attested from the ancient Buddhist kingdoms of Khotan, Kashgar and Tumshuq in the Tarim Basin, in what is now southern Xinjiang, China. It is a Middle Iranian language. The two kingdoms differed in dialect, their speech known as Khotanese and Tumshuqese.

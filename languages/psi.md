@@ -1,7 +1,6 @@
 ---
 iso: psi
 name: Southeast Pashai
-name_zh: 东南帕沙伊语
 autonym: Pashai
 alt_names: [Dardu, "Pashai, Southeast", "Pashayi, Southeast", Southeast Pashayi, Southeastern Pašaī]
 population: 180000
@@ -14,6 +13,9 @@ glottocode: sout2672
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Indo-Aryan > Pashayi > Eastern Pashayi > Southeast Pashayi"
+translations:
+  - translation_iso: zho
+    name: 东南帕沙伊语
 rolv_dialects:
   - rolv_code: 3326
     language_tag: psi-x-HIS03326

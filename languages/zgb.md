@@ -1,7 +1,6 @@
 ---
 iso: zgb
 name: Guibei Zhuang
-name_zh: 桂北壯語
 autonym: Hoedyaej
 alt_names: [Chuang, Guibei, Zhuang, "Zhuang, Guibei"]
 population: 1500000
@@ -14,6 +13,11 @@ glottocode: guib1245
 glottolog_family_id: taik1256
 glottolog_family_name: Tai-Kadai
 glottolog_classification: "Tai-Kadai > Kam-Tai > Daic-Beic > Daic > Northern Daic-Sek > Northern Daic > Northern Tai > Guibei Zhuang"
+translations:
+  - translation_iso: jpn
+    name: 桂北チワン語
+  - translation_iso: zho
+    name: 桂北壯語
 rolv_dialects:
   - rolv_code: 4980
     language_tag: zgb-x-HIS04980

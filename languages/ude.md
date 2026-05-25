@@ -1,7 +1,6 @@
 ---
 iso: ude
 name: Udihe
-name_zh: 乌德盖语
 autonym: Удиэ
 alt_names: [Oudihe, Oudiheg, Sprache der Udehe, Udega lingvo, Udege, Udege language, Udegeis, Udegejsk, Udeghe, Udehe, Udeheische, Udehen kieli, Udekhe, Удеге јазик, Удегейська мова, удэгейский язык, удэйский язык, ภาษาอูเดเก, 우데게이어]
 population: 1657
@@ -16,6 +15,13 @@ glottolog_family_id: tung1282
 glottolog_family_name: Tungusic
 glottolog_classification: "Tungusic > Northeastern Tungusic > Central-Eastern Tungusic > Oroch-Udihe > Udihe"
 wikipedia_url: "https://en.wikipedia.org/wiki/Udege_language"
+translations:
+  - translation_iso: jpn
+    name: ウデゲ語
+  - translation_iso: kor
+    name: 우데게이어
+  - translation_iso: zho
+    name: 乌德盖语
 rolv_dialects:
   - rolv_code: 17890
     language_tag: ude-x-HIS17890

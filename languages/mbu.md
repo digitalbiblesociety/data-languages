@@ -1,8 +1,6 @@
 ---
 iso: mbu
 name: "Mbula-Bwazza"
-name_zh: 姆布拉-布瓦扎语
-name_zh_auto: true
 autonym: Ɓwázà
 alt_names: [Nigeria]
 population: 100000
@@ -16,6 +14,10 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Jarawan > Nigerian Jarawan > Numan > Mbula-Bwazza"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mbula-Bwazza_language"
+translations:
+  - translation_iso: zho
+    name: 姆布拉-布瓦扎语
+    auto: true
 rolv_dialects:
   - rolv_code: 1871
     language_tag: mbu-x-HIS01871

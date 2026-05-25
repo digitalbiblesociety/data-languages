@@ -1,8 +1,6 @@
 ---
 iso: mru
 name: Mono (Cameroon)
-name_zh: 喀麦隆莫诺语
-name_zh_auto: true
 autonym: "Mon-Non"
 alt_names: [Maru, Mono]
 population: 300
@@ -16,5 +14,9 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Cameroun-Ubangian > Mbumic > Northern Mbum > Tupuri-Mundang-Mambai > Mundangic > Mono (Cameroon)"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mono_language_(Cameroon)"
+translations:
+  - translation_iso: zho
+    name: 喀麦隆莫诺语
+    auto: true
 ---
 Mono is a moribund Mbum language spoken by older adults in northern Cameroon.

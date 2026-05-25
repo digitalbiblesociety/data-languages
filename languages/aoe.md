@@ -1,8 +1,6 @@
 ---
 iso: aoe
 name: Angal Enen
-name_zh: 安加尔埃嫩语
-name_zh_auto: true
 autonym: Mendi
 alt_names: [Nembi, South Angal Heneng, South Mendi]
 population: 34420
@@ -15,6 +13,10 @@ glottocode: anga1294
 glottolog_family_id: nucl1709
 glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Enga-Kewa-Huli > Kewa-Huli > Sau-Angal-Kewa > Angal-Kewa > Angal Mendi > Angal Enen"
+translations:
+  - translation_iso: zho
+    name: 安加尔埃嫩语
+    auto: true
 rolv_dialects:
   - rolv_code: 4020
     language_tag: aoe-x-HIS04020

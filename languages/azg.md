@@ -1,7 +1,6 @@
 ---
 iso: azg
 name: San Pedro Amuzgos Amuzgo
-name_zh: 聖彼德羅阿穆茲戈語
 autonym: Amuzgoan
 alt_names: [Amusgo, Amuzgo, Amuzgo de San Pedro Amuzgos, "Amuzgo, San Pedro Amuzgos", Azmugo, Oaxaca Amuzgo]
 population: 5200
@@ -14,4 +13,7 @@ glottocode: sanp1260
 glottolog_family_id: otom1299
 glottolog_family_name: Otomanguean
 glottolog_classification: "Otomanguean > Eastern Otomanguean > Amuzgo-Mixtecan > Amuzgoan > San Pedro Amuzgos Amuzgo"
+translations:
+  - translation_iso: zho
+    name: 聖彼德羅阿穆茲戈語
 ---

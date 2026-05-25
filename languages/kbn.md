@@ -1,8 +1,6 @@
 ---
 iso: kbn
 name: Kare (Central African Republic)
-name_zh: 卡雷语（中非共和国）
-name_zh_auto: true
 autonym: nzáà kã́rĩ́
 alt_names: [Kali, Kare, Kari, Karré, Kerɛ]
 population: 97460
@@ -16,6 +14,10 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Cameroun-Ubangian > Mbumic > Central Mbum > Karangic > Kare-Pana > Kare (Central African Republic)"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kare_language_(Adamawa)"
+translations:
+  - translation_iso: zho
+    name: 卡雷语（中非共和国）
+    auto: true
 rolv_dialects:
   - rolv_code: 11606
     language_tag: kbn-x-HIS11606

@@ -1,8 +1,6 @@
 ---
 iso: mlk
 name: Ilwana
-name_zh: 伊尔瓦纳语
-name_zh_auto: true
 autonym: Malakote
 alt_names: [Kiwilwana, “Malakote”]
 population: 8000
@@ -16,6 +14,10 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > East Bantu > Northeast Savanna Bantu > Northeast Coastal Bantu > Coastal NEC Bantu > Sabaki-Swahili > Ilwana"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ilwana_language"
+translations:
+  - translation_iso: zho
+    name: 伊尔瓦纳语
+    auto: true
 rolv_dialects:
   - rolv_code: 27823
     language_tag: mlk-x-HIS27823

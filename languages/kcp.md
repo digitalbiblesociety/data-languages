@@ -1,8 +1,6 @@
 ---
 iso: kcp
 name: Kanga
-name_zh: 康加语
-name_zh_auto: true
 autonym: null
 alt_names: [Abu Sinun, Canga, Chiroro-Kursi, Krongo Abdalla, Kufa, Kufa-Lima, Kufo]
 population: 8000
@@ -16,6 +14,10 @@ glottolog_family_id: kadu1256
 glottolog_family_name: Kadugli-Krongo
 glottolog_classification: "Kadugli-Krongo > Central-Western Kadugli-Krongo > Katcha-Kadugli-Miri-Kanga > Kanga"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kanga_language"
+translations:
+  - translation_iso: zho
+    name: 康加语
+    auto: true
 rolv_dialects:
   - rolv_code: 11511
     language_tag: kcp-x-HIS11511

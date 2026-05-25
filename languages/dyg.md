@@ -1,8 +1,6 @@
 ---
 iso: dyg
 name: Villa Viciosa Agta
-name_zh: 别别别山亚格塔语
-name_zh_auto: true
 autonym: null
 alt_names: ["Agta, Villa Viciosa"]
 population: null
@@ -15,4 +13,8 @@ glottocode: vill1242
 glottolog_family_id: unat1236
 glottolog_family_name: Unattested
 glottolog_classification: "Unattested > Austronesian (Unattested) > Villa Viciosa Agta"
+translations:
+  - translation_iso: zho
+    name: 别别别山亚格塔语
+    auto: true
 ---

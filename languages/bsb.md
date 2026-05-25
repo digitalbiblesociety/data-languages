@@ -1,8 +1,6 @@
 ---
 iso: bsb
 name: Brunei Bisaya
-name_zh: 文莱比萨亚语
-name_zh_auto: true
 autonym: Tutong 1
 alt_names: [Basaya, Bekiau, Besaya, Bisaia, Bisaya, Bisaya Bukit, "Bisaya, Brunei", Bisayah, Dusun, Jilama Bawang, Jilama Sungai, Lorang Bukit, Southern Bisaya, Visayak]
 population: 57600
@@ -16,6 +14,10 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > North Borneo Malayo-Polynesian > Sabahan > Southwest Sabahan > Greater Dusunic > Bisaya-Lotud > Brunei Bisaya-Dusun"
 wikipedia_url: "https://en.wikipedia.org/wiki/Brunei_Bisaya_language"
+translations:
+  - translation_iso: zho
+    name: 文莱比萨亚语
+    auto: true
 rolv_dialects:
   - rolv_code: 17855
     language_tag: bsb-x-HIS17855

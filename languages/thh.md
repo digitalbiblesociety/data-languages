@@ -1,8 +1,6 @@
 ---
 iso: thh
 name: Northern Tarahumara
-name_zh: 北塔拉乌马拉语
-name_zh_auto: true
 autonym: "Rarámuri ra'ícha"
 alt_names: [Ariseachi, Ariseachi Tarahumara, Northern, Rocoroibo, South-western, Southwestern, Tarahumara, Tarahumara del Norte, Tarahumara del Suroeste, "Tarahumara, Northern", Taraumara, Tubare, Vorohio]
 population: 1500
@@ -15,4 +13,8 @@ glottocode: nort2956
 glottolog_family_id: utoa1244
 glottolog_family_name: Uto-Aztecan
 glottolog_classification: "Uto-Aztecan > Southern Uto-Aztecan > Tarahumara-Guarijio > Tarahumaran > Unclassified Tarahumaran > Northern Tarahumara"
+translations:
+  - translation_iso: zho
+    name: 北塔拉乌马拉语
+    auto: true
 ---

@@ -1,8 +1,6 @@
 ---
 iso: mlv
 name: Motlav
-name_zh: 莫特拉夫语
-name_zh_auto: true
 autonym: Motlav
 alt_names: [Banks-Inseln, Motalava, Mwotlap, Valuwa, Volow, Мвотлап]
 population: 2200
@@ -16,6 +14,10 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > North and Central Vanuatu > Northern Vanuatu > Torres-Banks linkage > Mwotlap"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mwotlap_language"
+translations:
+  - translation_iso: zho
+    name: 莫特拉夫语
+    auto: true
 rolv_dialects:
   - rolv_code: 14315
     language_tag: mlv-x-HIS14315

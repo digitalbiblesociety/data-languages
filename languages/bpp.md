@@ -1,8 +1,6 @@
 ---
 iso: bpp
 name: Kaure
-name_zh: 考雷语
-name_zh_auto: true
 autonym: Kaureh
 alt_names: [Kaure Proper, Kaurne]
 population: 450
@@ -16,5 +14,9 @@ glottolog_family_id: kaur1274
 glottolog_family_name: Kaure-Kosare
 glottolog_classification: "Kaure-Kosare > Kaure-Narau"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kaure_language"
+translations:
+  - translation_iso: zho
+    name: 考雷语
+    auto: true
 ---
 Kaure is a Papuan language of West Papua. It is spoken in the villages of Lereh, Harna, Wes, Masta, and Aurina.

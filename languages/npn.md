@@ -1,8 +1,6 @@
 ---
 iso: npn
 name: Mondropolon
-name_zh: 蒙德罗波隆语
-name_zh_auto: true
 autonym: null
 alt_names: [Admiralitäts-inseln]
 population: 300
@@ -16,5 +14,9 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Admiralty Islands > Eastern Admiralty Islands > Manus > West Manus > West Manus II > Mondropolon"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mondropolon_language"
+translations:
+  - translation_iso: zho
+    name: 蒙德罗波隆语
+    auto: true
 ---
 The Mondropolon language is a West Manus language spoken by approximately 300 people on north-central Manus Island, Manus Province of Papua New Guinea. Its speakers also use Kurti. It has SVO word order.

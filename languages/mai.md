@@ -1,7 +1,6 @@
 ---
 iso: mai
 name: Maithili
-name_zh: 迈蒂利语
 autonym: मैथिली / মৈথিনী
 alt_names: [Apabhramsa, Bahasa Maithili, Bihari, Język maithili, Lingua Maithili, Maithili jezik, Maitila lingvo, Maitileg, Maitili, Maitli, Maïthili, Methli, Tirahutia, Tirhuti, Tirhutia, Маитхили језик, Майтхили, Майтхілі, मैथिली, मैथिली भाषा, মৈথিলী ভাষা, મૈથિલી ભાષા, மைதிலி மொழி, ಮೈಥಿಲಿ, മൈഥിലി, ภาษาไมถิลี, მაიტილი, マイティリー語, 迈蒂利语, 마이틸리어]
 population: 31900000
@@ -16,6 +15,17 @@ glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Indo-Aryan > Middle-Modern Indo-Aryan > Continental Indo-Aryan > Midlands Indo-Aryan > Shaurasenic > Bihari > Magadhan > Maithili"
 wikipedia_url: "https://en.wikipedia.org/wiki/Maithili_language"
+translations:
+  - translation_iso: ara
+    name: اللغة المايثيلية
+  - translation_iso: hin
+    name: मैथिली
+  - translation_iso: jpn
+    name: マイティリー語
+  - translation_iso: kor
+    name: 마이틸어
+  - translation_iso: zho
+    name: 迈蒂利语
 rolv_dialects:
   - rolv_code: 4932
     language_tag: mai-x-HIS04932

@@ -1,7 +1,6 @@
 ---
 iso: duu
 name: Drung
-name_zh: 独龙语
 autonym: Dulong
 alt_names: [Derung language, Droungeg, Kiao, Kiu, Kiupa, Kiutze, Melam, Metu, Nu-tzŭ, Nung, Qiu, Qiuzi, Qui, Rawang, "T'rung", Tamalu, Taron, Trung, Tukiumu, Tulung, 独龙语, 獨龍語]
 population: 14000
@@ -15,6 +14,13 @@ glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Nungish > Gunong > Drung"
 wikipedia_url: "https://en.wikipedia.org/wiki/Derung_language"
+translations:
+  - translation_iso: jpn
+    name: トーロン語
+  - translation_iso: kor
+    name: 두룽어
+  - translation_iso: zho
+    name: 独龙语
 rolv_dialects:
   - rolv_code: 9417
     language_tag: duu-x-HIS09417

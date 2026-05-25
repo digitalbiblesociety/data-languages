@@ -1,8 +1,6 @@
 ---
 iso: ikp
 name: Ikpeshi
-name_zh: 伊克佩希语
-name_zh_auto: true
 autonym: Ekpeshe
 alt_names: [Ikpeshe]
 population: 5320
@@ -16,5 +14,9 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Akpes-Edoid > Edoid > Northwestern Edoid > Igwic > Ikpeshic > Ikpeshi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ikpeshi_language"
+translations:
+  - translation_iso: zho
+    name: 伊克佩希语
+    auto: true
 ---
 Ikpeshi is an Edoid language of Edo State, Nigeria.

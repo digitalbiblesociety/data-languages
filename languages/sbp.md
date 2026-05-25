@@ -1,7 +1,6 @@
 ---
 iso: sbp
 name: Sangu (Tanzania)
-name_zh: 桑古语
 autonym: Kisangu
 alt_names: [Eshisango, Rori, Sango, Sangu]
 population: 119000
@@ -16,6 +15,17 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > East Bantu > Northeast Savanna Bantu > Southern Tanzania Highlands Bantu > Wanji-Sangu > Sangu (Tanzania)"
 wikipedia_url: "https://en.wikipedia.org/wiki/Sangu_language_(Tanzania)"
+translations:
+  - translation_iso: ara
+    name: سانغو
+  - translation_iso: hin
+    name: सैंगु
+  - translation_iso: jpn
+    name: サング語
+  - translation_iso: kor
+    name: 상구어
+  - translation_iso: zho
+    name: 桑古语
 rolv_dialects:
   - rolv_code: 25442
     language_tag: sbp-x-HIS25442

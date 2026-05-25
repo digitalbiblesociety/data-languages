@@ -1,7 +1,6 @@
 ---
 iso: yor
 name: Yoruba
-name_zh: 约鲁巴语
 autonym: Èdè Yorùbá
 alt_names: [Bahasa Yoruba, Ede-Yoruba, Idioma yoruba, Ioruba, Joruba, Joruba lingvo, Joruban kieli, Jorubų kalba, Język joruba, Lenga Yoruba, Lingua yoruba, Língua iorubá, Yariba, Yooba, Yorouba, Yoroubeg, Yoruba simi, Јоруба, Йоруба, لغة يوربا, يورۇباچە, ইয়োরুবা ভাষা, யொரூபா மொழி, იორუბა, ヨルバ語, 约鲁巴语]
 population: 37800000
@@ -16,6 +15,17 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Defoid > Yoruboid > Edekiri > Ede > Eastern Ede > Southeastern Ede > Nuclear Yoruba > Lucumi-Yoruba > Yoruba"
 wikipedia_url: "https://en.wikipedia.org/wiki/Yoruba_language"
+translations:
+  - translation_iso: ara
+    name: اليوروبية
+  - translation_iso: hin
+    name: योरुबा
+  - translation_iso: jpn
+    name: ヨルバ語
+  - translation_iso: kor
+    name: 요루바어
+  - translation_iso: zho
+    name: 约鲁巴语
 rolv_dialects:
   - rolv_code: 1768
     language_tag: yo-x-HIS01768

@@ -1,8 +1,6 @@
 ---
 iso: job
 name: Joba
-name_zh: 乔巴语
-name_zh_auto: true
 autonym: Kijoba
 alt_names: [Kivira, Loba, Vira]
 population: 10000
@@ -15,6 +13,10 @@ glottocode: joba1238
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > East Bantu > Northeast Savanna Bantu > Great Lakes Bantu > Western Lakes Bantu > Kivu > Forest Kivu > Fuliiric > Fuliiru-Vira > Joba"
+translations:
+  - translation_iso: zho
+    name: 乔巴语
+    auto: true
 rolv_dialects:
   - rolv_code: 28768
     language_tag: job-x-HIS28768

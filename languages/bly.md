@@ -1,8 +1,6 @@
 ---
 iso: bly
 name: Notre
-name_zh: 诺特雷语
-name_zh_auto: true
 autonym: Boulba
 alt_names: [Bulba, Burusa, Nootre, Nõtre]
 population: 1500
@@ -16,5 +14,9 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Gur > Central Gur > Northern Central Gur > Bwamu-Oti-Volta > Oti-Volta > Nuclear Oti-Volta > Gurma-Yom-Oti-Volta Occidental > Oti-Volta Occidental > Notre"
 wikipedia_url: "https://en.wikipedia.org/wiki/Notre_language"
+translations:
+  - translation_iso: zho
+    name: 诺特雷语
+    auto: true
 ---
 Nootre, also known as Boulba, is a Gur language of Benin.

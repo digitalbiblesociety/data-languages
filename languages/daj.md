@@ -1,8 +1,6 @@
 ---
 iso: daj
 name: Dar Fur Daju
-name_zh: 达尔富尔达朱语
-name_zh_auto: true
 autonym: Darfur Daju
 alt_names: [Beke, Dagu, Dagu of Darfur, Daju, Daju (Dar Fur), Daju Ferne, "Daju, Dar Fur", Dar Fur dialect, Dār-Fūr, Fininga, Kondschara, Kongara, Lagawa, "Lagawa, Nyala", Nyala, Nyala-Lagowa]
 population: 98000
@@ -16,6 +14,10 @@ glottolog_family_id: daju1249
 glottolog_family_name: Dajuic
 glottolog_classification: "Dajuic > Western Dajuic > Nyala Dajuic > Dar Fur Daju"
 wikipedia_url: "https://en.wikipedia.org/wiki/Nyala_language_(Sudan)"
+translations:
+  - translation_iso: zho
+    name: 达尔富尔达朱语
+    auto: true
 rolv_dialects:
   - rolv_code: 9077
     language_tag: daj-x-HIS09077

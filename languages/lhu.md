@@ -1,7 +1,6 @@
 ---
 iso: lhu
 name: Lahu
-name_zh: 拉祜語
 autonym: Ladhof
 alt_names: [Kaixien, Lahuna, Lahų kalba, Laku, Launa, Lohei, Mooso, Moso, Muhso, Muhsur, Museu, Mussar, Musser, Musso, Mussuh, Nakhi, Namen, Nyi, Yezhoù lahouek, Лаху, ภาษาลาฮู, 拉祜語, 라후어]
 population: 540850
@@ -15,6 +14,13 @@ glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Burmo-Qiangic > Lolo-Burmese > Loloish > Lahoid > Lahu"
 wikipedia_url: "https://en.wikipedia.org/wiki/Lahu_language"
+translations:
+  - translation_iso: jpn
+    name: ラフ語
+  - translation_iso: kor
+    name: 라후어
+  - translation_iso: zho
+    name: 拉祜語
 rolv_dialects:
   - rolv_code: 85
     language_tag: lhu-x-black

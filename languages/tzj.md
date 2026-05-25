@@ -1,8 +1,6 @@
 ---
 iso: tzj
 name: "Tz'utujil"
-name_zh: 茨乌图希尔语
-name_zh_auto: true
 autonym: Tzʼutujiil
 alt_names: [Santiago AtitlÃ¡n Tzutujil, "Tz'utujil, Eastern", Tzutuhil, Tzutujil, Tzutujil Oriental, Tz’utujil, Zutuguilés]
 population: 106000
@@ -16,6 +14,14 @@ glottolog_family_id: maya1287
 glottolog_family_name: Mayan
 glottolog_classification: "Mayan > Core Mayan > Quichean-Mamean > Greater Quichean > Core Quichean > Cakchiquel-Tzutujil > Tz'utujil"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tz%CA%BCutujil_language"
+translations:
+  - translation_iso: jpn
+    name: ツトゥヒル語
+  - translation_iso: kor
+    name: 추투힐어
+  - translation_iso: zho
+    name: 茨乌图希尔语
+    auto: true
 rolv_dialects:
   - rolv_code: 374
     language_tag: tzj-x-HIS00374

@@ -1,7 +1,6 @@
 ---
 iso: ntj
 name: Ngaanyatjarra
-name_zh: 雅尼亞賈拉方言
 autonym: Ngaanjatjarra
 alt_names: [Engañacharra, "I:nabadanggural", Jabungadja, Jumudjara, Kalgonei, Kalgoneidjara, Kalguni, "Ku:rara", "Ku:rara Nadadjara", Kurara, Kuwaratjara, Nadadjara, Nana, Nangandjara, Nangaridjara, Nangatadjara, Nangatatjara, "Nga:da", "Nga:dapitjardi", Ngaanjadjara, Ngaanyatjara, Ngad adara, Ngad-adara, Ngadadjara, Ngadatara, Ngadatjara, Ngadawongga, Ngadhawonga, Ngadjatara, "Ngan:adjara", Ngana, Nganadjara, Ngarawonga, Ngatari, Ngatatara, Ngatatjara, Nona, Nyanganyatjara, Rumudjara, Teitudjara, "Wan:udjara", Warara, Warburton Ranges, Warburton Ranges Dialect, Western Desert, Western Desert Language, Wirtjandja, Witjandja]
 population: 1110
@@ -15,6 +14,11 @@ glottolog_family_id: pama1250
 glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > Desert Nyungic > Wati > Pintupic > Nuclear Pintupic > Wangkatja-Tjarra > Tjarra > Ngaanyatjarra"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ngaanyatjarra_dialect"
+translations:
+  - translation_iso: jpn
+    name: ンガーニャチャラ語
+  - translation_iso: zho
+    name: 雅尼亞賈拉方言
 rolv_dialects:
   - rolv_code: 3900
     language_tag: ntj-x-HIS03900

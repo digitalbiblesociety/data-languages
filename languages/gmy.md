@@ -1,7 +1,6 @@
 ---
 iso: gmy
 name: Mycenaean Greek
-name_zh: 迈锡尼希腊语
 autonym: Μυκηναϊκή ελληνική
 alt_names: ["Greek, Mycenaean"]
 population: null
@@ -16,5 +15,14 @@ glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Graeco-Phrygian > Greek > South Greek > Achaean Greek"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mycenaean_Greek"
+translations:
+  - translation_iso: hin
+    name: माइसीनियाई यूनानी
+  - translation_iso: jpn
+    name: ミケーネ・ギリシャ語
+  - translation_iso: kor
+    name: 미케네 그리스어
+  - translation_iso: zho
+    name: 迈锡尼希腊语
 ---
 Mycenaean Greek is the earliest attested form of the Greek language. It was spoken on the Greek mainland and Crete in Mycenaean Greece. The language is preserved in inscriptions in Linear B, a script first attested on Crete before the 14th century BC. Most inscriptions are on clay tablets found in Knossos, in central Crete, as well as in Pylos, in the southwest of the Peloponnese. Other tablets have been found at Mycenae itself, Tiryns and Thebes and at Chania, in Western Crete. The language is named after Mycenae, one of the major centres of Mycenaean Greece.

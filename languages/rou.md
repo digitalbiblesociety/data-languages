@@ -1,8 +1,6 @@
 ---
 iso: rou
 name: Runga
-name_zh: 鲁恩加语
-name_zh_auto: true
 autonym: Runga
 alt_names: [Aiki, Aiki (Runga), Ayki, Aykindang, Rounga, Roungo, Runga de Ndele]
 population: 21500
@@ -15,4 +13,8 @@ glottocode: rung1258
 glottolog_family_id: maba1274
 glottolog_family_name: Maban
 glottolog_classification: "Maban > Mabang > Runga-Kibet > Runga"
+translations:
+  - translation_iso: zho
+    name: 鲁恩加语
+    auto: true
 ---

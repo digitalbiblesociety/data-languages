@@ -1,8 +1,6 @@
 ---
 iso: kdk
 name: Numèè
-name_zh: 努梅语
-name_zh_auto: true
 autonym: Kwényi
 alt_names: [Duauru, Kapone, Kunie, Kwenyii, Naa Numee, Naa-Wee, Neukaledonien, Numee, Nââ Numèè, Ouen, Touaouru, Tuauru, Uen, Wen]
 population: 1810
@@ -16,6 +14,12 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Southern Melanesian > New Caledonian > Mainland New Caledonian > Southern New Caledonian > Extreme Southern New Caledonian > Numee"
 wikipedia_url: "https://en.wikipedia.org/wiki/Num%C3%A8%C3%A8_language"
+translations:
+  - translation_iso: jpn
+    name: クニェ語
+  - translation_iso: zho
+    name: 努梅语
+    auto: true
 rolv_dialects:
   - rolv_code: 15112
     language_tag: kdk-x-HIS15112

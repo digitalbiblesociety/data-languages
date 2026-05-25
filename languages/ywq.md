@@ -1,7 +1,6 @@
 ---
 iso: ywq
 name: "Wuding-Luquan Yi"
-name_zh: 武定-禄劝方言
 autonym: Eastern Yi
 alt_names: [Dian Dongbei Yi, Lolo, Wu-Lu Yi, Yi, "Yi, Wuding-Luquan"]
 population: 250000
@@ -14,6 +13,9 @@ glottocode: wudi1238
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Burmo-Qiangic > Lolo-Burmese > Loloish > Ni-Li-Kazhouish > Southeastern Ngwi > Nisoid > Nuclear Nisoid > Nasu-Nosu > Nesu-Nasu > Nasu-Gepu > Wuding-Luquan Yi"
+translations:
+  - translation_iso: zho
+    name: 武定-禄劝方言
 rolv_dialects:
   - rolv_code: 4836
     language_tag: ywq-x-HIS04836

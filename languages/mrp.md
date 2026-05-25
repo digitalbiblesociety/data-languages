@@ -1,8 +1,6 @@
 ---
 iso: mrp
 name: Morouas
-name_zh: 莫鲁阿斯语
-name_zh_auto: true
 autonym: Morouas
 alt_names: [Ko, Mores, Moruas]
 population: 150
@@ -16,5 +14,9 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > North and Central Vanuatu > Northern Vanuatu > Espiritu Santo > West Santo > South-Central Santo > Ande"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ande_language"
+translations:
+  - translation_iso: zho
+    name: 莫鲁阿斯语
+    auto: true
 ---
 Ande or Morouas (Moruas) is an Oceanic language spoken in central Espiritu Santo Island in Vanuatu.

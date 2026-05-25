@@ -1,8 +1,6 @@
 ---
 iso: tuh
 name: Taulil
-name_zh: 陶利尔语
-name_zh_auto: true
 autonym: Tulil
 alt_names: [Butam, Neu-Pommern, Taulil-butam]
 population: 800
@@ -16,5 +14,11 @@ glottolog_family_id: taul1250
 glottolog_family_name: Taulil-Butam
 glottolog_classification: "Taulil-Butam > Taulil"
 wikipedia_url: "https://en.wikipedia.org/wiki/Taulil_language"
+translations:
+  - translation_iso: jpn
+    name: タウリル語
+  - translation_iso: zho
+    name: 陶利尔语
+    auto: true
 ---
 Taulil is a Papuan language spoken in East New Britain Province on the island of New Britain, Papua New Guinea.

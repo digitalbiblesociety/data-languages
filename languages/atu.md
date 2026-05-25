@@ -1,8 +1,6 @@
 ---
 iso: atu
 name: Reel
-name_zh: 里尔语
-name_zh_auto: true
 autonym: Atwot
 alt_names: [Atuot, Thok Cieng Reel, Thok Reel]
 population: 116000
@@ -16,6 +14,12 @@ glottolog_family_id: nilo1247
 glottolog_family_name: Nilotic
 glottolog_classification: "Nilotic > Western Nilotic > Dinka-Nuer > Nuer-Reel > Reel"
 wikipedia_url: "https://en.wikipedia.org/wiki/Reel_language"
+translations:
+  - translation_iso: jpn
+    name: Reel語
+  - translation_iso: zho
+    name: 里尔语
+    auto: true
 rolv_dialects:
   - rolv_code: 24291
     language_tag: atu-x-HIS24291

@@ -1,7 +1,6 @@
 ---
 iso: vgt
 name: Vlaamse Gebarentaal
-name_zh: 弗拉芒手语
 autonym: Vlaamse Gebarentaal (VGT)
 alt_names: [Flemish Sign Language, North Belgium Sign Language, South Belgium Sign Language, VGT]
 population: 6000
@@ -15,6 +14,11 @@ glottolog_family_id: sign1238
 glottolog_family_name: Sign Language
 glottolog_classification: "Sign Language > L1 Sign Language > LSFic > Dutch-Belgian Sign > Belgian Sign > Vlaamse Gebarentaal"
 wikipedia_url: "https://en.wikipedia.org/wiki/Flemish_Sign_Language"
+translations:
+  - translation_iso: jpn
+    name: フラマン手話
+  - translation_iso: zho
+    name: 弗拉芒手语
 rolv_dialects:
   - rolv_code: 26509
     language_tag: vgt-x-HIS26509

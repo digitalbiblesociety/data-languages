@@ -1,8 +1,6 @@
 ---
 iso: sab
 name: Buglere
-name_zh: 布格莱雷语
-name_zh_auto: true
 autonym: Murire
 alt_names: [Bobota, Bocota, Bocotá, Bofota, Bogota, Bogotá, Bokota, Bokotá, Boncota, Bukueta, Muoy, Nortenyo, Sabanero, Veraguas Sabanero]
 population: 18000
@@ -16,6 +14,10 @@ glottolog_family_id: chib1249
 glottolog_family_name: Chibchan
 glottolog_classification: "Chibchan > Core Chibchan > Isthmic Chibchan > Eastern Isthmic Chibchan > Guaymiic > Buglere"
 wikipedia_url: "https://en.wikipedia.org/wiki/Buglere"
+translations:
+  - translation_iso: zho
+    name: 布格莱雷语
+    auto: true
 rolv_dialects:
   - rolv_code: 8433
     language_tag: sab-x-HIS08433

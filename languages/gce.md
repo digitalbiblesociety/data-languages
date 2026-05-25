@@ -1,8 +1,6 @@
 ---
 iso: gce
 name: Galice
-name_zh: 加利塞语
-name_zh_auto: true
 autonym: Upper Rogue River
 alt_names: [Applegate-Galice, Galice-Applegate]
 population: null
@@ -16,5 +14,9 @@ glottolog_family_id: atha1245
 glottolog_family_name: Athabaskan-Eyak-Tlingit
 glottolog_classification: "Athabaskan-Eyak-Tlingit > Athabaskan-Eyak > Athabaskan > Pacific Coast Athabaskan > Oregon Athabaskan > Rogue River > Galice"
 wikipedia_url: "https://en.wikipedia.org/wiki/Galice_language"
+translations:
+  - translation_iso: zho
+    name: 加利塞语
+    auto: true
 ---
 Galice, or Galice-Applegate or Upper Rogue River, is an extinct Athabaskan language once spoken by the two Upper Rogue River Athabaskan tribes, the Galice and Applegate tribes of southwestern Oregon.

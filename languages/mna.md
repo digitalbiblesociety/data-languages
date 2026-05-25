@@ -1,8 +1,6 @@
 ---
 iso: mna
 name: Mbula
-name_zh: 姆布拉语
-name_zh_auto: true
 autonym: null
 alt_names: [Mangaaba, Mangaava, Mangaawa, Mangap, Mangap Mbula, Mangap-Mbula, Mangap. Kaimanga]
 population: 4500
@@ -16,6 +14,12 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > North New Guinea linkage > Ngero-Vitiaz linkage > Vitiaz linkage > Mbula"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mbula_language"
+translations:
+  - translation_iso: jpn
+    name: マンガップ語
+  - translation_iso: zho
+    name: 姆布拉语
+    auto: true
 rolv_dialects:
   - rolv_code: 13935
     language_tag: mna-x-HIS13935

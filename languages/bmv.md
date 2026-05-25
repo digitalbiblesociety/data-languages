@@ -1,8 +1,6 @@
 ---
 iso: bmv
 name: Bum
-name_zh: 布姆语
-name_zh_auto: true
 autonym: Bom
 population: 21400
 country_id: CM
@@ -15,6 +13,10 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Wide Grassfields > Narrow Grassfields > Ring > Center-West Ring > Center Ring > Mmen-Bum > Bum"
 wikipedia_url: "https://en.wikipedia.org/wiki/Bum_language"
+translations:
+  - translation_iso: zho
+    name: 布姆语
+    auto: true
 rolv_dialects:
   - rolv_code: 4400
     language_tag: bmv-x-HIS04400

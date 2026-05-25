@@ -1,7 +1,6 @@
 ---
 iso: okn
 name: "Oki-No-Erabu"
-name_zh: 沖永良部語
 autonym: 島ムニ / Shimamuni
 alt_names: [Kunigami, Okierabu, Okinoerabu, Ryukyuan]
 population: 3200
@@ -15,6 +14,13 @@ glottolog_family_id: japo1237
 glottolog_family_name: Japonic
 glottolog_classification: "Japonic > Ryukyuan > Northern Ryukyuan > Amami > Nuclear Amami > Okinoerabu-Tokunoshima > Oki-No-Erabu"
 wikipedia_url: "https://en.wikipedia.org/wiki/Okinoerabu_dialect_cluster"
+translations:
+  - translation_iso: jpn
+    name: 沖永良部島方言
+  - translation_iso: kor
+    name: 오키노에라부 방언
+  - translation_iso: zho
+    name: 沖永良部語
 rolv_dialects:
   - rolv_code: 15263
     language_tag: okn-x-HIS15263

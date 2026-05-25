@@ -1,8 +1,6 @@
 ---
 iso: kak
 name: Kalanguya
-name_zh: 卡兰古亚语
-name_zh_auto: true
 autonym: Kallahan
 alt_names: ["Kallahan, Kayapa", Kayapa Kallahan]
 population: 15000
@@ -15,6 +13,10 @@ glottocode: ahin1234
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Northern Luzon > Meso-Cordilleran > South-Central Cordilleran > Southern Cordilleran > West Southern Cordilleran > Nuclear Southern Cordilleran > Kalanguya > Ahin-Kayapa Kalanguya"
+translations:
+  - translation_iso: zho
+    name: 卡兰古亚语
+    auto: true
 rolv_dialects:
   - rolv_code: 11418
     language_tag: kak-x-HIS11418

@@ -1,8 +1,6 @@
 ---
 iso: mwu
 name: Mittu
-name_zh: 米图语
-name_zh_auto: true
 autonym: null
 alt_names: [Sudan]
 population: 50000
@@ -16,5 +14,9 @@ glottolog_family_id: cent2225
 glottolog_family_name: Central Sudanic
 glottolog_classification: "Central Sudanic > Sara-Bongo-Bagirmi > Baka-Beli > Morokodo-Beli > Gberi-Morokodo-Mittu > Mittu"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mittu_language"
+translations:
+  - translation_iso: zho
+    name: 米图语
+    auto: true
 ---
 Morokodo is a dialect continuum of Central Sudanic languages spoken in South Sudan.

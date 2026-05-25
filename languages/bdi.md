@@ -1,8 +1,6 @@
 ---
 iso: bdi
 name: Burun
-name_zh: 布伦语
-name_zh_auto: true
 autonym: Northern Burun
 alt_names: [Barun, Borun, Cai, Lange, Nord-Burun]
 population: 18000
@@ -16,6 +14,12 @@ glottolog_family_id: nilo1247
 glottolog_family_name: Nilotic
 glottolog_classification: "Nilotic > Western Nilotic > Burun > Northern Burun"
 wikipedia_url: "https://en.wikipedia.org/wiki/Burun_language"
+translations:
+  - translation_iso: jpn
+    name: ブルン語
+  - translation_iso: zho
+    name: 布伦语
+    auto: true
 rolv_dialects:
   - rolv_code: 8551
     language_tag: bdi-x-HIS08551

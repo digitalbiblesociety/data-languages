@@ -1,7 +1,6 @@
 ---
 iso: mww
 name: Hmong Daw
-name_zh: 白苗语
 autonym: lus Hmoob / lug Moob / lol Hmongb
 alt_names: [Bai Miao, Blue Miao, Chuan Miao, Green Miao, Hmong (White), Hmong Dao, Meo Kao, Miao, Mán Tráng, Pe Miao, Peh Miao, Red Miao, White Lum, White Meo, White Miao]
 population: 1700400
@@ -15,6 +14,11 @@ glottocode: hmon1333
 glottolog_family_id: hmon1336
 glottolog_family_name: Hmong-Mien
 glottolog_classification: "Hmong-Mien > Hmongic > Nuclear Hmongic-Ho Ne > Nuclear Hmongic > West Hmongic > Greater Chuanqiandian > Chuanqiandian > First Vernacular Hmong > Far Western Miao > Hmong Daw"
+translations:
+  - translation_iso: jpn
+    name: 白苗語
+  - translation_iso: zho
+    name: 白苗语
 rolv_dialects:
   - rolv_code: 491
     language_tag: mww-x-HIS00491

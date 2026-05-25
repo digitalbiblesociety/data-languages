@@ -1,8 +1,6 @@
 ---
 iso: unu
 name: Unubahe
-name_zh: 乌努巴赫语
-name_zh_auto: true
 autonym: "Unoba'i"
 population: null
 country_id: PG
@@ -15,5 +13,9 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > Papuan Tip linkage > Nuclear Papuan Tip linkage > Suauic > Unubahe"
 wikipedia_url: "https://en.wikipedia.org/wiki/Unubahe_language"
+translations:
+  - translation_iso: zho
+    name: 乌努巴赫语
+    auto: true
 ---
 Unubahe (Unuba'e) is a nearly extinct Oceanic language spoken at the southeastern tip of Papua New Guinea. Although a few children speak it, in 2001 there was only one married couple who both spoke the language.

@@ -1,7 +1,6 @@
 ---
 iso: dse
 name: Dutch Sign Language
-name_zh: 荷兰手语
 autonym: Nederlandse Gebarentaal (NGT)
 alt_names: [NGT, Nederlandse Gebarentaal, SLN, Sign Language of the Netherlands]
 population: 17300
@@ -15,6 +14,11 @@ glottolog_family_id: sign1238
 glottolog_family_name: Sign Language
 glottolog_classification: "Sign Language > L1 Sign Language > LSFic > Dutch-Belgian Sign > Dutch Sign Language"
 wikipedia_url: "https://en.wikipedia.org/wiki/Dutch_Sign_Language"
+translations:
+  - translation_iso: jpn
+    name: オランダ手話
+  - translation_iso: zho
+    name: 荷兰手语
 rolv_dialects:
   - rolv_code: 24843
     language_tag: dse-x-HIS24843

@@ -1,8 +1,6 @@
 ---
 iso: avt
 name: Au
-name_zh: 奥语
-name_zh_auto: true
 autonym: null
 alt_names: [Język au]
 population: 8000
@@ -16,6 +14,10 @@ glottolog_family_id: nucl1708
 glottolog_family_name: Nuclear Torricelli
 glottolog_classification: "Nuclear Torricelli > Wapei-Palei > Central Torricelli > Wapeic > Au-Olo-Elkei > Au"
 wikipedia_url: "https://en.wikipedia.org/wiki/Au_language"
+translations:
+  - translation_iso: zho
+    name: 奥语
+    auto: true
 rolv_dialects:
   - rolv_code: 3739
     language_tag: avt-x-HIS03739

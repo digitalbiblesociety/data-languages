@@ -1,7 +1,6 @@
 ---
 iso: pbv
 name: Pnar
-name_zh: 布那语
 autonym: Jaiñtia
 alt_names: [Mnar, Synteng, Sənteng]
 population: 323000
@@ -15,6 +14,11 @@ glottolog_family_id: aust1305
 glottolog_family_name: Austroasiatic
 glottolog_classification: "Austroasiatic > Khasi-Palaung > Khasian > Khasi-Pnar-Lyngngam > Khasi-Pnar > Pnar"
 wikipedia_url: "https://en.wikipedia.org/wiki/Pnar_language"
+translations:
+  - translation_iso: hin
+    name: प्नार भाषा
+  - translation_iso: zho
+    name: 布那语
 rolv_dialects:
   - rolv_code: 15687
     language_tag: pbv-x-HIS15687

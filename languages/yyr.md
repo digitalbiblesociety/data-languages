@@ -1,13 +1,15 @@
 ---
 iso: yyr
 name: Yir Yoront
-name_zh: 伊尔-约龙特语
-name_zh_auto: true
 autonym: null
 population: null
 country_id: AU
 country_name: Australia
 status_id: null
+translations:
+  - translation_iso: zho
+    name: 伊尔-约龙特语
+    auto: true
 rolv_dialects:
   - rolv_code: 18587
     language_tag: yyr-x-HIS18587

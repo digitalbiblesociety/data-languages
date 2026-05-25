@@ -1,7 +1,6 @@
 ---
 iso: lir
 name: Liberian English
-name_zh: 利比里亚克里奥尔语
 autonym: Liberian Pidgin English
 alt_names: ["English, Liberian"]
 population: 113000
@@ -15,6 +14,9 @@ glottolog_family_id: pidg1258
 glottolog_family_name: Pidgin
 glottolog_classification: "Pidgin > English-based pidgin > Kru Pidgin English"
 wikipedia_url: "https://en.wikipedia.org/wiki/Liberian_Kreyol"
+translations:
+  - translation_iso: zho
+    name: 利比里亚克里奥尔语
 rolv_dialects:
   - rolv_code: 12928
     language_tag: lir-x-HIS12928

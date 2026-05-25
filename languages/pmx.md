@@ -1,8 +1,6 @@
 ---
 iso: pmx
 name: Poumei Naga
-name_zh: 玻梅伊那加语
-name_zh_auto: true
 autonym: Sopvoma
 alt_names: ["Naga, Poumei", "Naga,Poumei", Paumei, Pomai, Pome, Poumei]
 population: 143000
@@ -16,5 +14,11 @@ glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Kuki-Chin-Naga > Angami-Ao > Angami-Pochuri > Angami-Mao > Naga Maoic > Poumaic > Poumei Naga"
 wikipedia_url: "https://en.wikipedia.org/wiki/Poula_language"
+translations:
+  - translation_iso: hin
+    name: पोउला भाषा
+  - translation_iso: zho
+    name: 玻梅伊那加语
+    auto: true
 ---
 Poula is an Angami-Pochuri language that is predominantly spoken by the Poumai Naga people in Senapati district in Manipur and Phek district in Nagaland, India. The language of Chingjaroi is also closely related to Poula but is distinct. A descriptive grammar of Poula is available.

@@ -1,8 +1,6 @@
 ---
 iso: ggt
 name: Gitua
-name_zh: 吉图亚语
-name_zh_auto: true
 autonym: Gitoa
 alt_names: [Kelana]
 population: 1085
@@ -16,5 +14,9 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > North New Guinea linkage > Ngero-Vitiaz linkage > Ngero > Western Ngero > Tuam > Gitua"
 wikipedia_url: "https://en.wikipedia.org/wiki/Gitua_language"
+translations:
+  - translation_iso: zho
+    name: 吉图亚语
+    auto: true
 ---
 Gitua is an Austronesian language of Morobe Province, Papua New Guinea.

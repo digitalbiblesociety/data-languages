@@ -1,8 +1,6 @@
 ---
 iso: bth
 name: Biatah Bidayuh
-name_zh: 比亚他比达尤语
-name_zh_auto: true
 autonym: Bikuab
 alt_names: [Biatah, "Bidayuh, Biatah", Kuap, Quop, Sentah]
 population: 72380
@@ -16,6 +14,10 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Land Dayak > Bidayuh-Southern Land Dayak > Bidayuh > Central-Western Bidayuh > Biatah Bidayuh"
 wikipedia_url: "https://en.wikipedia.org/wiki/Biatah_language"
+translations:
+  - translation_iso: zho
+    name: 比亚他比达尤语
+    auto: true
 rolv_dialects:
   - rolv_code: 8110
     language_tag: bth-x-HIS08110

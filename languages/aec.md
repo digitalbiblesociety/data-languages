@@ -1,7 +1,6 @@
 ---
 iso: aec
 name: Saidi Arabic
-name_zh: 薩伊德阿拉伯語
 autonym: صعيدى
 alt_names: [Arabic, "Arabic, Sa`idi Spoken", "Arabic, Saidi", "Sa'idi Arabic", "Sa`idi", Saidi arapski, Upper Egypt Arabic, Саудиски арапски јазик, لهجة صعيدية]
 population: 22400000
@@ -15,6 +14,15 @@ glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Semitic > West Semitic > Central Semitic > Arabian > Arabic > Egyptic Arabic > Egypto-Sudanic Arabic > Saidi Arabic"
 wikipedia_url: "https://en.wikipedia.org/wiki/Sa%CA%BDidi_Arabic"
+translations:
+  - translation_iso: ara
+    name: لهجة صعيدية
+  - translation_iso: jpn
+    name: アラビア語サイード方言
+  - translation_iso: kor
+    name: 사이드 아랍어
+  - translation_iso: zho
+    name: 薩伊德阿拉伯語
 rolv_dialects:
   - rolv_code: 7144
     language_tag: aec-x-HIS07144

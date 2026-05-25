@@ -1,8 +1,6 @@
 ---
 iso: pnw
 name: Banyjima
-name_zh: 班吉玛语
-name_zh_auto: true
 autonym: Bandjima
 alt_names: [Bailko-Pandjima, Banjima, Banydyima, Lenga panytyima, Mandanjongo, Mandara, Paanjima, Panchima, "Pand'ima", Pandima, Pandjima, Panjima, Panjtjima, Panyima, Panyjima, Panyjima language, Panytyima, Papupadu]
 population: null
@@ -16,5 +14,9 @@ glottolog_family_id: pama1250
 glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > South-West Pama-Nyungan > Pilbara > Ngayarda > Central Ngayarda > Panytyima-Yinhawangka > Panytyima"
 wikipedia_url: "https://en.wikipedia.org/wiki/Panyjima_language"
+translations:
+  - translation_iso: zho
+    name: 班吉玛语
+    auto: true
 ---
 Panyjima is an Australian Aboriginal language spoken in the Hamersley Range, in the Pilbara region of Western Australia. It is the traditional language of the Panyjima people. The name has also been spelled Bandjima, Banjima, Banyjima, Paanjima, Pandjima, Panjima, Panjtjima, and Panytyima.

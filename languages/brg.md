@@ -1,8 +1,6 @@
 ---
 iso: brg
 name: Baure
-name_zh: 鲍雷语
-name_zh_auto: true
 autonym: Baure
 alt_names: [Bauré, Chiquimiti, Idioma bauré]
 population: 631
@@ -16,6 +14,12 @@ glottolog_family_id: araw1281
 glottolog_family_name: Arawakan
 glottolog_classification: "Arawakan > Southern Maipuran > Bolivian Arawakan > Baure"
 wikipedia_url: "https://en.wikipedia.org/wiki/Baure_language"
+translations:
+  - translation_iso: jpn
+    name: バウレ語
+  - translation_iso: zho
+    name: 鲍雷语
+    auto: true
 rolv_dialects:
   - rolv_code: 1676
     language_tag: brg-x-HIS01676

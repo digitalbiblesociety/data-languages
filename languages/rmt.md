@@ -1,7 +1,6 @@
 ---
 iso: rmt
 name: Domari
-name_zh: 多姆語
 autonym: دٛومَرِي
 alt_names: [Barake, Dom, Domarí, Gipsies, Gypsy, Język domari, Kurbat, Luti, Mehtar, Middle Eastern Romani, Nawar, Nawari, Near-Eastern Gypsy, Nuri, Romani, Tsigene, Zutt, Домари, டோமாரி மொழி]
 population: 28500
@@ -16,6 +15,15 @@ glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Indo-Aryan > Middle-Modern Indo-Aryan > Continental Indo-Aryan > Midlands Indo-Aryan > Shaurasenic > Indo-Aryan Central zone > Domari"
 wikipedia_url: "https://en.wikipedia.org/wiki/Domari_language"
+translations:
+  - translation_iso: ara
+    name: الدومرية
+  - translation_iso: jpn
+    name: ドマリ語
+  - translation_iso: kor
+    name: 도마리어
+  - translation_iso: zho
+    name: 多姆語
 rolv_dialects:
   - rolv_code: 9373
     language_tag: rmt-x-HIS09373

@@ -1,7 +1,6 @@
 ---
 iso: jiv
 name: Shuar
-name_zh: 舒爾語
 autonym: Šiwar čičam
 alt_names: ["\"Jívaro\"", Achual, Achuale, Achuall, Achuar chicham, Achuar-Shiwiar, Achuara, Chicham, Chiwaro, Hivaro, Hivaro language area, Huambisa, Huambisa (wampis), Hívaro, Jibaro, Jivaro, Jíbaro, Jívaro, Maina, Shiwiar chicham, Shuar chicham, Shuara, Siurra, Siwora, Xivaro, Xívaro]
 population: 42300
@@ -15,5 +14,12 @@ glottolog_family_id: jiva1245
 glottolog_family_name: Chicham
 glottolog_classification: "Chicham > Shuaric > Huambisa-Shuar > Shuar"
 wikipedia_url: "https://en.wikipedia.org/wiki/Shuar_language"
+translations:
+  - translation_iso: ara
+    name: شوار
+  - translation_iso: jpn
+    name: シュアール語
+  - translation_iso: zho
+    name: 舒爾語
 ---
 Shuar is an indigenous language spoken by the Shuar people of Morona Santiago Province and Pastaza Province in the Ecuadorian Amazon basin.

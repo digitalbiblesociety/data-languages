@@ -1,8 +1,6 @@
 ---
 iso: ymm
 name: Maay
-name_zh: 玛伊语
-name_zh_auto: true
 autonym: "Af- Mai-Mai"
 alt_names: [Af-Maay, Af-Maay Tiri, Af-May, Af-Maymay, May, Rahanween, Rahanweyn]
 population: 2608000
@@ -16,6 +14,16 @@ glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Cushitic > East Cushitic > Lowland East Cushitic > Southern Lowland East Cushitic > Mainstream Lowland East Cushitic > Omo-Tana > Eastern Omo-Tana > Maay"
 wikipedia_url: "https://en.wikipedia.org/wiki/Maay_Maay"
+translations:
+  - translation_iso: ara
+    name: ماي-ماي
+  - translation_iso: jpn
+    name: マーイ方言
+  - translation_iso: kor
+    name: 마이마이
+  - translation_iso: zho
+    name: 玛伊语
+    auto: true
 rolv_dialects:
   - rolv_code: 13214
     language_tag: ymm-x-HIS13214

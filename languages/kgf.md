@@ -1,8 +1,6 @@
 ---
 iso: kgf
 name: Kube
-name_zh: 库贝语
-name_zh_auto: true
 autonym: Mongi
 alt_names: [Hube]
 population: 6000
@@ -16,6 +14,10 @@ glottolog_family_id: nucl1709
 glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Finisterre-Huon > Huon > Western Huon > Rawlinson > Pindiu > Kulungtfu-Yuanggeng-Tobo"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tobo-Kube_language"
+translations:
+  - translation_iso: zho
+    name: 库贝语
+    auto: true
 rolv_dialects:
   - rolv_code: 12395
     language_tag: kgf-x-HIS12395

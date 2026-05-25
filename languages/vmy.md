@@ -1,8 +1,6 @@
 ---
 iso: vmy
 name: Ayautla Mazatec
-name_zh: 阿亚乌特拉马萨特克语
-name_zh_auto: true
 autonym: (San Bartolomé Ayautla)
 alt_names: [Ayautla Soyaltepec Masateko, Masateko, Mazatec, "Mazatec, Ayautla", Mazateco, Mazateco de Ayautla, Mazateco de Ixcatlán, Mazateco de Soyaltepec, "Mazatèque d'Ayautla", "Mazatèque d'Ixcatlán", Mazatèque de Soyaltepec]
 population: 2800
@@ -16,5 +14,9 @@ glottolog_family_id: otom1299
 glottolog_family_name: Otomanguean
 glottolog_classification: "Otomanguean > Eastern Otomanguean > Popoloca-Zapotecan > Popolocan-Mazatecan > Mazatecan > Valley Mazatec > Ayautlic > Ayautla Mazatec"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ayautla_Mazatec"
+translations:
+  - translation_iso: zho
+    name: 阿亚乌特拉马萨特克语
+    auto: true
 ---
 Ayautla Mazatec is a Mazatecan language spoken in the Mexican state of Oaxaca, in the town of San Bartolomé Ayautla. Egland (1978) found 80% intelligibility with Huautla, the prestige variety of Mazatec.

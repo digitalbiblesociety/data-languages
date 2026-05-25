@@ -1,7 +1,6 @@
 ---
 iso: pmf
 name: Pamona
-name_zh: 帕莫纳语
 autonym: Bare’e
 alt_names: ["Bare'e", Baree, Poso]
 population: 77900
@@ -15,6 +14,9 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Celebic > Kaili-Wolio > Northern Kaili-Wolio > Pamona-Tombelala > Pamona"
 wikipedia_url: "https://en.wikipedia.org/wiki/Pamona_language"
+translations:
+  - translation_iso: zho
+    name: 帕莫纳语
 rolv_dialects:
   - rolv_code: 3805
     language_tag: pmf-x-HIS03805

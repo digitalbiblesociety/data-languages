@@ -1,7 +1,6 @@
 ---
 iso: ceb
 name: Cebuano
-name_zh: 宿务语
 autonym: Sebwano
 alt_names: [Bahasa Cebuano, Binisaya, Bisaya, Bisaya Cebuano, Bisayan, Cebua lingvo, Cebuano Visayan, Cebuera, Cebun kieli, Cebuà, Idioma cebuano, Język cebuański, Lengua cebuann-a, Lingua Caebuana, Lingua cebuana, Língua cebuana, Pagsasao a Cebuano, Salitan Cebuano, Sebuano, Sebuanų kalba, Sebúanó, Sinugboanon, Siwuyanu simi, Sougbouaneg, Sugbuanon, Sugbuhanon, Tataramon na Cebuano, Visayan, Wikang Sebwano, Себуано језик, Себуанский язык, سيبونى, सेबुआनो भाषा, সেবুয়ানো ভাষা, ภาษาซีบัวโน, სებუანური ენა, セブアノ語, 宿霧語, 세부아노어]
 population: 15900000
@@ -16,6 +15,17 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Greater Central Philippine > Central Philippine > Bisayan > Cebuano"
 wikipedia_url: "https://en.wikipedia.org/wiki/Cebuano_language"
+translations:
+  - translation_iso: ara
+    name: السيبوانية
+  - translation_iso: hin
+    name: सेबुआनो
+  - translation_iso: jpn
+    name: セブアノ語
+  - translation_iso: kor
+    name: 세부아노어
+  - translation_iso: zho
+    name: 宿务语
 rolv_dialects:
   - rolv_code: 8665
     language_tag: ceb-x-HIS08665

@@ -1,14 +1,18 @@
 ---
 iso: obk
 name: Southern Bontok
-name_zh: 南博托克语
-name_zh_auto: true
 autonym: Finallig
 alt_names: ["Bontok, Southern"]
 population: null
 country_id: PH
 country_name: Philippines
 status_id: 6a
+translations:
+  - translation_iso: jpn
+    name: 南ボントク語
+  - translation_iso: zho
+    name: 南博托克语
+    auto: true
 rolv_dialects:
   - rolv_code: 26137
     language_tag: obk-x-HIS26137

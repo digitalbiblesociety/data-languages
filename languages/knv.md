@@ -1,8 +1,6 @@
 ---
 iso: knv
 name: Tabo
-name_zh: 塔博语
-name_zh_auto: true
 autonym: Tabo
 alt_names: [Hibaradai, Hiwi, Waia, Waya]
 population: 3000
@@ -13,6 +11,10 @@ latitude: -8.09387
 longitude: 143.30513
 glottocode: tabo1241
 wikipedia_url: "https://en.wikipedia.org/wiki/Tabo_language"
+translations:
+  - translation_iso: zho
+    name: 塔博语
+    auto: true
 rolv_dialects:
   - rolv_code: 541
     language_tag: knv-x-HIS00541

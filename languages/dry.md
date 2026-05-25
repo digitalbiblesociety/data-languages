@@ -1,8 +1,6 @@
 ---
 iso: dry
 name: Darai
-name_zh: 达瑞语
-name_zh_auto: true
 autonym: null
 population: 10200
 country_id: NP
@@ -14,6 +12,10 @@ glottocode: dara1250
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Indo-Aryan > Middle-Modern Indo-Aryan > Continental Indo-Aryan > Midlands Indo-Aryan > Shaurasenic > Bihari > Unclassified Bihari > Kuswaric > Darai"
+translations:
+  - translation_iso: zho
+    name: 达瑞语
+    auto: true
 rolv_dialects:
   - rolv_code: 29685
     language_tag: dry-x-HIS29685

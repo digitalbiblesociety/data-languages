@@ -1,8 +1,6 @@
 ---
 iso: gyf
 name: Gungabula
-name_zh: 甘加布拉语
-name_zh_auto: true
 autonym: Southern Maric
 alt_names: [Gongabula, Khungabula, Khungabulal, Kongabula, Kungabula, Kungalburra, Ongabula]
 population: null
@@ -15,4 +13,8 @@ glottocode: gung1248
 glottolog_family_id: pama1250
 glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > Greater Maric > Guwa-Maric > Maric > Southern Maric > Gungabula"
+translations:
+  - translation_iso: zho
+    name: 甘加布拉语
+    auto: true
 ---

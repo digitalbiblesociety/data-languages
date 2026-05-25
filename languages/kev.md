@@ -1,7 +1,6 @@
 ---
 iso: kev
 name: Kanikkaran
-name_zh: 卡尼卡兰语
 autonym: கணிக்காரன்
 alt_names: [Kanikkar, Kannikan, Kannikaran, Kannikharan, Malampashi]
 population: 19000
@@ -15,6 +14,9 @@ glottolog_family_id: drav1251
 glottolog_family_name: Dravidian
 glottolog_classification: "Dravidian > South Dravidian > South Dravidian I > Tamil-Kannada > Tamil-Kota > Tamil-Toda > Tamil-Irula > Tamil-Kodagu > Tamil-Malayalam > Malayalamoid > Kanikkaran"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kanikkaran_language"
+translations:
+  - translation_iso: zho
+    name: 卡尼卡兰语
 rolv_dialects:
   - rolv_code: 4046
     language_tag: kev-x-HIS04046

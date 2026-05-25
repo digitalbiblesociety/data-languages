@@ -1,8 +1,6 @@
 ---
 iso: gll
 name: Garlali
-name_zh: 加尔拉利语
-name_zh_auto: true
 autonym: Garlali
 alt_names: [Galali, Gaḷali, Kalali, Kullali, Kullally, Kullila]
 population: null
@@ -16,5 +14,9 @@ glottolog_family_id: pama1250
 glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > Karnic > Badjiri-Eastern Karnic > Eastern Karnic > Bulloo River"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kalali_language"
+translations:
+  - translation_iso: zho
+    name: 加尔拉利语
+    auto: true
 ---
 Kalali, also written Kullili, Galali, Garlali, Kullilla and other variants, is an Australian Aboriginal language, of Queensland, Australia.

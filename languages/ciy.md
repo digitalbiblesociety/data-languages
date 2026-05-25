@@ -1,8 +1,6 @@
 ---
 iso: ciy
 name: Chaima
-name_zh: 查伊马语
-name_zh_auto: true
 autonym: Kumana
 alt_names: ["Chaima: Chayma", Chayma, Cumanagoto, Cumaná, Guaga-Tagare, Kumaná, Sayma, Warapiche]
 population: null
@@ -16,5 +14,9 @@ glottolog_family_id: cari1283
 glottolog_family_name: Cariban
 glottolog_classification: "Cariban > Venezuelan Cariban > Mapoyo-Tamanaku > Cumana > Chaima"
 wikipedia_url: "https://en.wikipedia.org/wiki/Chaima_language"
+translations:
+  - translation_iso: zho
+    name: 查伊马语
+    auto: true
 ---
 Chaima is an extinct Cariban language of Venezuela.

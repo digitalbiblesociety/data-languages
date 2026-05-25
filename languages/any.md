@@ -1,8 +1,6 @@
 ---
 iso: any
 name: Anyin
-name_zh: 安伊语
-name_zh_auto: true
 autonym: Anyi
 alt_names: [Agni, "Agni'", Anyieg, Língua anyin, அன்யின் மொழி]
 population: 1506400
@@ -16,6 +14,12 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Kwa Volta-Congo > Nyo > Potou-Tano > Tano > Central Tano > Bia > Northern Bia > Anyinic > Anyin"
 wikipedia_url: "https://en.wikipedia.org/wiki/Anyin_language"
+translations:
+  - translation_iso: jpn
+    name: アニ語
+  - translation_iso: zho
+    name: 安伊语
+    auto: true
 rolv_dialects:
   - rolv_code: 2674
     language_tag: any-x-HIS02674

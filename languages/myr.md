@@ -1,8 +1,6 @@
 ---
 iso: myr
 name: Muniche
-name_zh: 穆尼切语
-name_zh_auto: true
 autonym: Muniche
 alt_names: [Munichi, Munichino, Otanabe, Otanave, Otonabe, Paranapura]
 population: 2023
@@ -13,5 +11,9 @@ latitude: -5.80546
 longitude: -76.28113
 glottocode: muni1258
 wikipedia_url: "https://en.wikipedia.org/wiki/Muniche_language"
+translations:
+  - translation_iso: zho
+    name: 穆尼切语
+    auto: true
 ---
 Muniche is an extinct language which was spoken in the village of Munichis, about 10 miles (16 km) west of Yurimaguas, Loreto Region, Peru. The last known fluent speaker, Victoria Huancho Icahuate, died in the late 1990s, but the language was already moribund by the 1930s. As of 2009, there were several semi-speakers who retained significant lexical, and partial grammatical, knowledge of the language.

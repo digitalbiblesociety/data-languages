@@ -1,8 +1,6 @@
 ---
 iso: yij
 name: Yindjibarndi
-name_zh: 伊因季巴尔迪语
-name_zh_auto: true
 autonym: Burnugundi
 alt_names: [Binjiebandie, Een ge pan ty, Indjiban, Indjibandi, Indjibandje, Indjibandji, Ingi bandi, Ingi-bandi, Ingibandi, Injibandi, "Jana:ri", Jaurnmalu, "Jind'iparndi", Jindiparndi, Jindjaparndi, Jindjibandi, Jindjibandji, Jindjibanji, Jindjibarndi, Jindjiparndi, Kakardi, Kurama, Kurama-Jindjibandi, Mandanjingu, Mandanjong, Mandanjongo, Mardanjungu, Yanari, Yingiebandie, Yinjibarndi, Yinjtjiparnrti, Yinjtjipartnti, Yinytjiparnti]
 population: 380
@@ -16,5 +14,9 @@ glottolog_family_id: pama1250
 glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > South-West Pama-Nyungan > Pilbara > Ngayarda > Central Ngayarda > Yindjibarndi-Kurrama > Yindjibarndi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Yinjibarndi_language"
+translations:
+  - translation_iso: zho
+    name: 伊因季巴尔迪语
+    auto: true
 ---
 Yinjibarndi is a Pama–Nyungan language spoken by the Yindjibarndi people of the Pilbara region in north-western Australia.

@@ -1,7 +1,6 @@
 ---
 iso: hye
 name: Armenian
-name_zh: 亚美尼亚语
 autonym: հայերէն/հայերեն
 alt_names: [Armani, Armenian (East), Armenian (Eastern), Armenian (Iranian), Armenian (West), Armenian (Western), Armenio occidental (Turquía), Armenisch, Armjanski, Armjanski Yazyk, Arménien occidental (Moyen-Orient), Arménien occidental (Turquie), E Armenian, E. Armenian, Eastern Armenian, Ermeni Dili, Ermenice, Erâmani, Haieren, Homshetsma (Caucase), Homshetsma (Turquie), Nuclear Armenian, Somekhuri, Somkhuri, W Armenian, W. Armenian, West Armenian, Western Armenian, arménien]
 population: 3849000
@@ -16,6 +15,17 @@ glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Armenic > Eastern-Western Armenian > Eastern Armenian"
 wikipedia_url: "https://en.wikipedia.org/wiki/Armenian_language"
+translations:
+  - translation_iso: ara
+    name: الأرمنية
+  - translation_iso: hin
+    name: आर्मीनियाई भाषा
+  - translation_iso: jpn
+    name: アルメニア語
+  - translation_iso: kor
+    name: 아르메니아어
+  - translation_iso: zho
+    name: 亚美尼亚语
 rolv_dialects:
   - rolv_code: 3298
     language_tag: hy-x-HIS03298

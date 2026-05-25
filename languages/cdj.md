@@ -1,8 +1,6 @@
 ---
 iso: cdj
 name: Churahi
-name_zh: 丘拉希语
-name_zh_auto: true
 autonym: भद्रवाही بھدرواہی
 alt_names: [Chaurahi, Churahi Pahari, Churai Pahari]
 population: 75600
@@ -16,5 +14,11 @@ glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Indo-Aryan > Middle-Modern Indo-Aryan > Eastern Dardic > Himachali > Kangric-Chamealic-Bhattiyali > Chamealic > Bhadrawahi-Bhalesi-Curahi > Churahi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Churahi"
+translations:
+  - translation_iso: hin
+    name: चुराही
+  - translation_iso: zho
+    name: 丘拉希语
+    auto: true
 ---
 Churahi is a Western Pahari language of Himachal Pradesh, India. It is spoken in the Chaurah and Saluni tehsils of Chamba district, and is considered endangered.

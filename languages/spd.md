@@ -1,8 +1,6 @@
 ---
 iso: spd
 name: Saep
-name_zh: 萨艾普语
-name_zh_auto: true
 autonym: null
 population: 550
 country_id: PG
@@ -15,6 +13,10 @@ glottolog_family_id: nucl1709
 glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Madang > Rai Coast > Greater Yaganon > Yaganon > Ganglau-Saep > Saep"
 wikipedia_url: "https://en.wikipedia.org/wiki/Saep_language"
+translations:
+  - translation_iso: zho
+    name: 萨艾普语
+    auto: true
 rolv_dialects:
   - rolv_code: 30374
     language_tag: spd-x-HIS30374

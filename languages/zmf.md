@@ -1,8 +1,6 @@
 ---
 iso: zmf
 name: Mfinu
-name_zh: 姆费努语
-name_zh_auto: true
 autonym: Emfinu
 alt_names: [Funika, Mfununga]
 population: 8400
@@ -16,6 +14,10 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > Central-Western Bantu > West-Coastal Bantu > Nzadic > Lweric > Dingic > Loange-Atlantic > Kwilu-Ngounie > Kasai-Ngounie > Plateau Kasai-Ngounie > Mfinu"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mfinu_language"
+translations:
+  - translation_iso: zho
+    name: 姆费努语
+    auto: true
 rolv_dialects:
   - rolv_code: 14045
     language_tag: zmf-x-HIS14045

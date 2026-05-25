@@ -1,7 +1,6 @@
 ---
 iso: mad
 name: Madurese
-name_zh: 馬都拉語
 autonym: " بَهاسَ مَدورا"
 alt_names: [Bahasa Madura, Basa Madura, Basa Mathura, Język madurski, Lengua madureise, Língua maduresa, Madhura, Madoerees, Madura, Madura-Bali, Madurais, Maduran kieli, Maduresisch, Maduresiska, madourais, মাদুরীয় ভাষা, ภาษามาดูรา, マドゥラ語, 馬都拉語]
 population: 13600000
@@ -16,6 +15,17 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Maduresic > Madurese"
 wikipedia_url: "https://en.wikipedia.org/wiki/Madurese_language"
+translations:
+  - translation_iso: ara
+    name: مادورية
+  - translation_iso: hin
+    name: मादुरी
+  - translation_iso: jpn
+    name: マドゥラ語
+  - translation_iso: kor
+    name: 마두라어
+  - translation_iso: zho
+    name: 馬都拉語
 rolv_dialects:
   - rolv_code: 4623
     language_tag: mad-x-HIS04623

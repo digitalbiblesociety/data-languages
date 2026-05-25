@@ -1,8 +1,6 @@
 ---
 iso: sds
 name: Sened
-name_zh: 塞内德语
-name_zh_auto: true
 autonym: null
 alt_names: [Lingua sendi, Sened jezik, Senedeg, لغة سند]
 population: null
@@ -16,6 +14,14 @@ glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Berber > Greater Zenatic > Zenatic > Zuara-Sened > Sened"
 wikipedia_url: "https://en.wikipedia.org/wiki/Sened_language"
+translations:
+  - translation_iso: ara
+    name: لغة سند
+  - translation_iso: jpn
+    name: セネド語
+  - translation_iso: zho
+    name: 塞内德语
+    auto: true
 rolv_dialects:
   - rolv_code: 16493
     language_tag: sds-x-HIS16493

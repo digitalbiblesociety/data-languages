@@ -1,8 +1,6 @@
 ---
 iso: zas
 name: Santo Domingo Albarradas Zapotec
-name_zh: 圣多明各-阿尔瓦拉达斯-萨波特克语
-name_zh_auto: true
 autonym: Santo Domingo Albarradas Zapotec
 alt_names: [Albarradas, Albarradas Zapotec, Northern Sapoteko, Zapotec, "Zapotec, Santo Domingo Albarradas", Zapoteco de Santo Domingo Albarradas]
 population: 5500
@@ -16,6 +14,10 @@ glottolog_family_id: otom1299
 glottolog_family_name: Otomanguean
 glottolog_classification: "Otomanguean > Eastern Otomanguean > Popoloca-Zapotecan > Zapotecan > Zapotec > Core Zapotec > Narrow Core Zapotec > Central Core Zapotec > Santo Domingo Albarradas Zapotec"
 wikipedia_url: "https://en.wikipedia.org/wiki/Albarradas_Zapotec"
+translations:
+  - translation_iso: zho
+    name: 圣多明各-阿尔瓦拉达斯-萨波特克语
+    auto: true
 rolv_dialects:
   - rolv_code: 27190
     language_tag: zas-x-HIS27190

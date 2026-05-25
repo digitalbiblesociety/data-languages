@@ -1,8 +1,6 @@
 ---
 iso: usi
 name: Usui
-name_zh: 乌苏伊语
-name_zh_auto: true
 autonym: Tripuri
 alt_names: [Unshoi, Unsuiy, Ushoi, Usoi]
 population: 22400
@@ -16,6 +14,10 @@ glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Brahmaputran > Bodo-Garo > Boroic > Dimasa-Kokborok > Tipperic > Usui"
 wikipedia_url: "https://en.wikipedia.org/wiki/Usui_language"
+translations:
+  - translation_iso: zho
+    name: 乌苏伊语
+    auto: true
 rolv_dialects:
   - rolv_code: 3255
     language_tag: usi-x-HIS03255

@@ -1,7 +1,6 @@
 ---
 iso: skh
 name: Sikule
-name_zh: 希库列语
 autonym: Wali Banuah
 alt_names: [Bahasa Sigulai, Sichule, Sikhule]
 population: 20000
@@ -15,6 +14,9 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Sumatran > Central Barrier Islands > Sikule"
 wikipedia_url: "https://en.wikipedia.org/wiki/Sigulai_language"
+translations:
+  - translation_iso: zho
+    name: 希库列语
 rolv_dialects:
   - rolv_code: 16699
     language_tag: skh-x-HIS16699

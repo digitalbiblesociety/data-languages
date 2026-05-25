@@ -1,7 +1,6 @@
 ---
 iso: dai
 name: Day
-name_zh: 代语
 autonym: Dai
 alt_names: [Dayeg]
 population: 49900
@@ -15,6 +14,11 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Bua-Kim-Day > Day"
 wikipedia_url: "https://en.wikipedia.org/wiki/Day_language"
+translations:
+  - translation_iso: ara
+    name: داي
+  - translation_iso: zho
+    name: 代语
 rolv_dialects:
   - rolv_code: 9160
     language_tag: dai-x-HIS09160

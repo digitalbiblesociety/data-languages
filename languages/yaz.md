@@ -1,8 +1,6 @@
 ---
 iso: yaz
 name: Lokaa
-name_zh: 洛卡语
-name_zh_auto: true
 autonym: Lokaa
 alt_names: [Loke, Loko, Luko, Yako, Yakurr, Yakö]
 population: 270000
@@ -16,6 +14,10 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Delta Cross > Upper Cross > Central Upper Cross > East-West Central Delta Cross > Lokoic > Lokaa"
 wikipedia_url: "https://en.wikipedia.org/wiki/Yak%C3%B6_language"
+translations:
+  - translation_iso: zho
+    name: 洛卡语
+    auto: true
 rolv_dialects:
   - rolv_code: 13037
     language_tag: yaz-x-HIS13037

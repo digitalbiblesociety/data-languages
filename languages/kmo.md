@@ -1,8 +1,6 @@
 ---
 iso: kmo
 name: Kwoma
-name_zh: 夸玛语
-name_zh_auto: true
 autonym: Washkuk
 alt_names: [Kuome, Kwoma Proper]
 population: 3000
@@ -16,6 +14,10 @@ glottolog_family_id: sepi1257
 glottolog_family_name: Sepik
 glottolog_classification: "Sepik > Nukuma > Kwoma"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kwoma_language"
+translations:
+  - translation_iso: zho
+    name: 夸玛语
+    auto: true
 rolv_dialects:
   - rolv_code: 12632
     language_tag: kmo-x-HIS12632

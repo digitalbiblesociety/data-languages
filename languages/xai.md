@@ -1,8 +1,6 @@
 ---
 iso: xai
 name: Kaimbé
-name_zh: 凯姆贝语
-name_zh_auto: true
 autonym: null
 alt_names: [Brazil, Kaimbe]
 population: null
@@ -16,5 +14,9 @@ glottolog_family_id: uncl1493
 glottolog_family_name: Unclassifiable
 glottolog_classification: "Unclassifiable > Kaimbé"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kaimb%C3%A9_language"
+translations:
+  - translation_iso: zho
+    name: 凯姆贝语
+    auto: true
 ---
 Kaimbé is an extinct unclassified language of eastern Brazil. The ethnic population numbered an estimated 1,100 to 1,400 in 1986. The language is scarcely attested; in 1961 one elder was able to remember a few single words mixed with Kiriri.

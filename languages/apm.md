@@ -1,8 +1,6 @@
 ---
 iso: apm
 name: "Mescalero-Chiricahua Apache"
-name_zh: 梅斯卡莱罗-奇里卡瓦阿帕奇语
-name_zh_auto: true
 autonym: Ndee bizaa
 alt_names: [Apache, Apache (Chiricahua), Apache (Eastern), Apache (Mescalero-Chiricahua), Apache mescalero-chiricahua (Nouveau-Mexique), Apache mescalero-chiricahua (Oklahoma), "Apache, Mescalero-Chiricahua", Chiricahau, Chiricahua, Chiricahua Apache, Chiricahua language, Chiricahua-Mescalero, Eastern Apache, Mescalero, Mescalero Cluster, Mescalero-Chiricahau, Mescalero-Chiricahua]
 population: 1800
@@ -16,6 +14,12 @@ glottolog_family_id: atha1245
 glottolog_family_name: Athabaskan-Eyak-Tlingit
 glottolog_classification: "Athabaskan-Eyak-Tlingit > Athabaskan-Eyak > Athabaskan > Apachean > Southwestern Apachean > Western Southwestern Apachean > Mescalero-Chiricahua Apache"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mescalero-Chiricahua_language"
+translations:
+  - translation_iso: jpn
+    name: チリカワ語
+  - translation_iso: zho
+    name: 梅斯卡莱罗-奇里卡瓦阿帕奇语
+    auto: true
 rolv_dialects:
   - rolv_code: 20960
     language_tag: apm-x-HIS20960

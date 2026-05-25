@@ -1,7 +1,6 @@
 ---
 iso: swh
 name: Swahili (Coastal)
-name_zh: 斯瓦希里语
 autonym: Kiswahili
 alt_names: [Arab-Swahili, Bravanese dialect, Kisuaheli, Kisuahili, Kiswaheli, Suahili, Swahili, Swahili (individual language)]
 population: 16335000
@@ -15,6 +14,13 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > East Bantu > Northeast Savanna Bantu > Northeast Coastal Bantu > Coastal NEC Bantu > Sabaki-Swahili > Swahili (G.40) > Mombasa-Lamu-Inland Swahili > Swahili"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kiswahili"
+translations:
+  - translation_iso: ara
+    name: السواحيلية
+  - translation_iso: jpn
+    name: スワヒリ語
+  - translation_iso: zho
+    name: 斯瓦希里语
 rolv_dialects:
   - rolv_code: 16975
     language_tag: sw-x-HIS16975

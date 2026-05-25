@@ -1,8 +1,6 @@
 ---
 iso: rml
 name: Baltic Romani
-name_zh: 波罗的海罗姆语
-name_zh_auto: true
 autonym: "Romani, Baltic"
 alt_names: [Baltic, European Romany, Romani, Romani (North Russian), Romany, Zigeuner]
 population: 34010
@@ -16,6 +14,12 @@ glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Indo-Aryan > Middle-Modern Indo-Aryan > Continental Indo-Aryan > Midlands Indo-Aryan > Shaurasenic > Indo-Aryan Central zone > Romani > Baltic Romani"
 wikipedia_url: "https://en.wikipedia.org/wiki/Baltic_Romani"
+translations:
+  - translation_iso: jpn
+    name: バルト・ロマ語
+  - translation_iso: zho
+    name: 波罗的海罗姆语
+    auto: true
 rolv_dialects:
   - rolv_code: 16007
     language_tag: rml-x-HIS16007

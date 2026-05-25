@@ -1,8 +1,6 @@
 ---
 iso: mmt
 name: Malalamai
-name_zh: 玛拉拉迈语
-name_zh_auto: true
 autonym: Bonga
 population: 550
 country_id: PG
@@ -15,5 +13,9 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > North New Guinea linkage > Ngero-Vitiaz linkage > Ngero > Western Ngero > Malalamai"
 wikipedia_url: "https://en.wikipedia.org/wiki/Malalamai_language"
+translations:
+  - translation_iso: zho
+    name: 玛拉拉迈语
+    auto: true
 ---
 Malalamai, or Bonga, is an Austronesian language of Madang Province, Papua New Guinea.

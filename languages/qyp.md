@@ -1,7 +1,6 @@
 ---
 iso: qyp
 name: Quiripi
-name_zh: 奎利皮語
 autonym: null
 population: null
 country_id: US
@@ -14,5 +13,12 @@ glottolog_family_id: algi1248
 glottolog_family_name: Algic
 glottolog_classification: "Algic > Algonquian-Blackfoot > Algonquian > Eastern Algonquian > Maritimes-Southern New England Algonquian > Southern New England Algonquian > Western Southern New England Algonquian > Wampano"
 wikipedia_url: "https://en.wikipedia.org/wiki/Quiripi_language"
+translations:
+  - translation_iso: jpn
+    name: キリピ
+  - translation_iso: kor
+    name: 퀴리피어
+  - translation_iso: zho
+    name: 奎利皮語
 ---
 Quiripi was an Algonquian language formerly spoken by the Quinnipiac, an Indigenous nation of southwestern Connecticut and central Long Island, It has been extinct since the end of the 19th century, although Frank Siebert was able to record a few Unquachog words from an elderly woman in 1932.

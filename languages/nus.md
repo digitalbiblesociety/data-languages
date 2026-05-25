@@ -1,7 +1,6 @@
 ---
 iso: nus
 name: Nuer
-name_zh: 努尔语
 autonym: Thok Naath
 alt_names: [Język nuer, Lengua Nuer, Língua nuer, Naadh, Naath, Naath (Nuer), Nouereg, West-Nuer, Нуэр]
 population: 1705160
@@ -16,6 +15,17 @@ glottolog_family_id: nilo1247
 glottolog_family_name: Nilotic
 glottolog_classification: "Nilotic > Western Nilotic > Dinka-Nuer > Nuer-Reel > Nuer"
 wikipedia_url: "https://en.wikipedia.org/wiki/Nuer_language"
+translations:
+  - translation_iso: ara
+    name: النوير
+  - translation_iso: hin
+    name: नुएर
+  - translation_iso: jpn
+    name: ヌエル語
+  - translation_iso: kor
+    name: 누에르어
+  - translation_iso: zho
+    name: 努尔语
 rolv_dialects:
   - rolv_code: 904
     language_tag: nus-x-HIS00904

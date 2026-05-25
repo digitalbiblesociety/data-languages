@@ -1,8 +1,6 @@
 ---
 iso: kqj
 name: Koromira
-name_zh: 科罗米拉语
-name_zh_auto: true
 autonym: null
 alt_names: [Koianu]
 population: 2300
@@ -16,6 +14,10 @@ glottolog_family_id: sout2948
 glottolog_family_name: South Bougainville
 glottolog_classification: "South Bougainville > Nasioiic > Nasioi > South-Central Nasioi > South Nasioi > Koromira"
 wikipedia_url: "https://en.wikipedia.org/wiki/Koromira_language"
+translations:
+  - translation_iso: zho
+    name: 科罗米拉语
+    auto: true
 rolv_dialects:
   - rolv_code: 4295
     language_tag: kqj-x-HIS04295

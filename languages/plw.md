@@ -1,8 +1,6 @@
 ---
 iso: plw
 name: "Brooke's Point Palawano"
-name_zh: 布鲁克斯波因特帕劳瓦诺语
-name_zh_auto: true
 autonym: null
 alt_names: ["Brooke's Point Palawan", Palawan, "Palawano, Brooke's Point", Palawanun, Palaweño]
 population: 14400
@@ -15,6 +13,10 @@ glottocode: broo1239
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Greater Central Philippine > Palawanic-Kalamian > Palawanic > Southern Palawanic > Molbog-Palawan > Nuclear Palawan > Brooke-Canipaan Palawan > Brooke's Point Palawano"
+translations:
+  - translation_iso: zho
+    name: 布鲁克斯波因特帕劳瓦诺语
+    auto: true
 rolv_dialects:
   - rolv_code: 15423
     language_tag: plw-x-HIS15423

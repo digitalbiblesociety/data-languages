@@ -1,7 +1,6 @@
 ---
 iso: pbg
 name: Paraujano
-name_zh: 阿努語
 autonym: Añun
 alt_names: [Anun, Anyú, Añú, Añún, Parahujano, Parauhano, Parujano]
 population: 1
@@ -15,6 +14,11 @@ glottolog_family_id: araw1281
 glottolog_family_name: Arawakan
 glottolog_classification: "Arawakan > Caribbean Arawakan > Guajiro-Paraujano > Paraujano"
 wikipedia_url: "https://en.wikipedia.org/wiki/Paraujano_language"
+translations:
+  - translation_iso: jpn
+    name: パラウハノ語
+  - translation_iso: zho
+    name: 阿努語
 rolv_dialects:
   - rolv_code: 15502
     language_tag: pbg-x-HIS15502

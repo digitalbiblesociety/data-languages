@@ -1,8 +1,6 @@
 ---
 iso: ywr
 name: Yawuru
-name_zh: 亚乌鲁语
-name_zh_auto: true
 autonym: null
 alt_names: [Djauor, Dyugun, Gawor, Jaoro, Jaudjibara, Jauor, Jauro, Jauur, Jawadjag, Jawdjibaia, Jawdjibara, Jawuru, Jukun, Kakudu Kakudu, Kakudu-Kakudu, Nawudu, Winjawindjagu, Yaora, Yaoro, Yaoru, Yaroro, Yaudijbaia, Yaudjibara, Yauera, Yauor, Yauro, Yawjibara, Yawoorroo, Yawur, Yawuri, Yawurr]
 population: 30
@@ -16,6 +14,12 @@ glottolog_family_id: nyul1248
 glottolog_family_name: Nyulnyulan
 glottolog_classification: "Nyulnyulan > Eastern Nyulnyulan > Yawuric > Yawuru"
 wikipedia_url: "https://en.wikipedia.org/wiki/Yawuru_language"
+translations:
+  - translation_iso: jpn
+    name: ヤウル語
+  - translation_iso: zho
+    name: 亚乌鲁语
+    auto: true
 rolv_dialects:
   - rolv_code: 25763
     language_tag: ywr-x-HIS25763

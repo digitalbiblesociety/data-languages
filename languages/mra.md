@@ -1,7 +1,6 @@
 ---
 iso: mra
 name: Mlabri
-name_zh: 姆拉布里语
 autonym: Luang
 alt_names: [Ma Ku, Mabri, Malabri (Minor), Mla, Mla Bri, Mla-Bri, Mlabri (Minor), Mrabri, Phi Thong Luang, "Phi Thong Luang (\"Spirits of yellow leaves\")", Yellow Leaf, Yumbri, ผีตองหลือง, ภาษามลาบรี, มละบริ, เผ่าตองหลือง]
 population: 300
@@ -15,5 +14,10 @@ glottolog_family_id: aust1305
 glottolog_family_name: Austroasiatic
 glottolog_classification: "Austroasiatic > Khmuic > Phay-Pram > Tinic > Mlabri"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mlabri_language"
+translations:
+  - translation_iso: kor
+    name: 므라브리어
+  - translation_iso: zho
+    name: 姆拉布里语
 ---
 Mlabri is a language spoken by the Mlabri people in the border area between Thailand and Laos.

@@ -1,7 +1,6 @@
 ---
 iso: cse
 name: Czech Sign Language
-name_zh: 捷克手语
 autonym: Český znakový jazyk
 population: 10000
 country_id: CZ
@@ -14,5 +13,10 @@ glottolog_family_id: sign1238
 glottolog_family_name: Sign Language
 glottolog_classification: "Sign Language > L1 Sign Language > LSFic > Central European Sign > Nuclear Central European Sign > Czech Sign Language"
 wikipedia_url: "https://en.wikipedia.org/wiki/Czech_Sign_Language"
+translations:
+  - translation_iso: jpn
+    name: チェコ手話
+  - translation_iso: zho
+    name: 捷克手语
 ---
 Czech Sign Language is the sign language of the deaf community in the Czech Republic. It presumably emerged around the time of the first deaf school in Bohemia (1786). It belongs to the French sign-language family and is partially intelligible with French sign language. Despite the similarity of oral Czech and Slovak, it is not particularly close to Slovak Sign Language.

@@ -1,8 +1,6 @@
 ---
 iso: ruu
 name: Lanas Lobu
-name_zh: 拉纳斯洛布语
-name_zh_auto: true
 autonym: Lobu
 alt_names: ["Lobu, Lanas", Malaysia]
 population: 2000
@@ -15,6 +13,10 @@ glottocode: lana1236
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > North Borneo Malayo-Polynesian > Sabahan > Southwest Sabahan > Greater Dusunic > Paitanic > Upper Kinabatangan-Lobu > Lanas Lobu"
+translations:
+  - translation_iso: zho
+    name: 拉纳斯洛布语
+    auto: true
 rolv_dialects:
   - rolv_code: 13024
     language_tag: ruu-x-HIS13024

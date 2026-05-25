@@ -1,8 +1,6 @@
 ---
 iso: gri
 name: Ghari
-name_zh: 加哈里语
-name_zh_auto: true
 autonym: Gari
 alt_names: [Guadalcanar, Sughu, Südliche Salomons-Inseln, Tangarare, West Guadalcanal]
 population: 12100
@@ -16,6 +14,10 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Southeast Solomonic > Guadalcanal-Nggelic > Nuclear Guadalcanal-Nggelic > North and West Guadalcanal > Ghari"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ghari_language"
+translations:
+  - translation_iso: zho
+    name: 加哈里语
+    auto: true
 rolv_dialects:
   - rolv_code: 3676
     language_tag: gri-x-HIS03676

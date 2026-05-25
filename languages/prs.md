@@ -1,7 +1,6 @@
 ---
 iso: prs
 name: Dari
-name_zh: 达里语
 autonym: دری
 alt_names: [Afghan Persian, Badakhshi, Dari (in Afghanistan), Darwazi, Farsi, "Farsi, Eastern", Madaglashti, Neupersisch, Parsi, Persian, "Persian, Afghan", Tajik]
 population: 9446200
@@ -15,6 +14,17 @@ glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Iranian-Nuristani > Iranian > Southwestern Iranian > Middle-Modern Persian > Modern Southwestern Iranian > Farsic-Caucasian Tat > Farsic > Eastern Farsic > Dari"
 wikipedia_url: "https://en.wikipedia.org/wiki/Dari"
+translations:
+  - translation_iso: ara
+    name: الدرية
+  - translation_iso: hin
+    name: दरी फ़ारसी
+  - translation_iso: jpn
+    name: ダリー語
+  - translation_iso: kor
+    name: 다리어
+  - translation_iso: zho
+    name: 达里语
 rolv_dialects:
   - rolv_code: 3379
     language_tag: prs-x-HIS03379

@@ -1,7 +1,6 @@
 ---
 iso: ply
 name: Bolyu
-name_zh: 巴琉语
 autonym: Baliu
 alt_names: [Lai, Paliu, Palju, Palyu, Polyu, 倈語]
 population: 10000
@@ -15,5 +14,8 @@ glottolog_family_id: aust1305
 glottolog_family_name: Austroasiatic
 glottolog_classification: "Austroasiatic > Mangic > Pakanic > Bolyu"
 wikipedia_url: "https://en.wikipedia.org/wiki/Bolyu_language"
+translations:
+  - translation_iso: zho
+    name: 巴琉语
 ---
 The Bolyu language is an Austroasiatic language of the Pakanic branch.

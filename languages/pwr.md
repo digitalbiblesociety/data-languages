@@ -1,8 +1,6 @@
 ---
 iso: pwr
 name: Powari
-name_zh: 波瓦里语
-name_zh_auto: true
 autonym: बघेली
 alt_names: [India]
 population: 2000000
@@ -16,6 +14,12 @@ glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Indo-Aryan > Middle-Modern Indo-Aryan > Continental Indo-Aryan > Midlands Indo-Aryan > Shaurasenic > Eastern Hindi > Powari"
 wikipedia_url: "https://en.wikipedia.org/wiki/Powari_language"
+translations:
+  - translation_iso: hin
+    name: पोवारी भाषा
+  - translation_iso: zho
+    name: 波瓦里语
+    auto: true
 rolv_dialects:
   - rolv_code: 25352
     language_tag: pwr-x-HIS25352

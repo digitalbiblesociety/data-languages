@@ -1,8 +1,6 @@
 ---
 iso: nhx
 name: "Isthmus-Mecayapan Nahuatl"
-name_zh: 地峡梅卡亚潘纳瓦特尔语
-name_zh_auto: true
 autonym: "mela'tájto̲l"
 alt_names: [Isthmus, Isthmus Aztec-Mecayapan, Isthumus Nahuatl, Mecayapan, Mecayapan Isthumus Nahuatl, Mexicano, Nahua de Tabasco, Nahuatl, Nahuatl (Isthmus), Nahuatl (Istmo-Mecayapan), Nahuatl (Mecayapan Isthmus), Nahuatl (Mecayapan), "Nahuatl, Isthmus-Mecayapan", Nawa, Náhuat de Mecayapan, Náhuatl de Tabasco, "Náhuatl de l'Isthme"]
 population: 26600
@@ -15,6 +13,12 @@ glottocode: isth1242
 glottolog_family_id: utoa1244
 glottolog_family_name: Uto-Aztecan
 glottolog_classification: "Uto-Aztecan > Southern Uto-Aztecan > Corachol-Aztecan > Aztec > Eastern Nahuatl > Isthmus-Pipil Nahuatl > Isthmus Nahuatl > Isthmus-Mecayapan Nahuatl"
+translations:
+  - translation_iso: jpn
+    name: 地峡メカヤパン・ナワトル語
+  - translation_iso: zho
+    name: 地峡梅卡亚潘纳瓦特尔语
+    auto: true
 rolv_dialects:
   - rolv_code: 22736
     language_tag: nhx-x-HIS22736

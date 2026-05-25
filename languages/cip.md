@@ -1,8 +1,6 @@
 ---
 iso: cip
 name: Chiapanec
-name_zh: 恰帕内克语
-name_zh_auto: true
 autonym: Chiapaneco
 alt_names: [Chaipanec, Chiapaneko]
 population: null
@@ -16,6 +14,12 @@ glottolog_family_id: otom1299
 glottolog_family_name: Otomanguean
 glottolog_classification: "Otomanguean > Eastern Otomanguean > Manguean > Chiapanec"
 wikipedia_url: "https://en.wikipedia.org/wiki/Chiapanec_language"
+translations:
+  - translation_iso: jpn
+    name: チアパネック語
+  - translation_iso: zho
+    name: 恰帕内克语
+    auto: true
 rolv_dialects:
   - rolv_code: 24625
     language_tag: cip-x-HIS24625

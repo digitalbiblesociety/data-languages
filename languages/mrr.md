@@ -1,8 +1,6 @@
 ---
 iso: mrr
 name: Maria (India)
-name_zh: 玛丽亚语
-name_zh_auto: true
 autonym: Madiya
 alt_names: [Abujmaria, Gondi (Muria), Gonḍi, Gōṇḍī, Hill Maria, Lingua abujmaria, Madi, Madia, Maria, Maria language, Modh, Modi]
 population: 165000
@@ -16,6 +14,12 @@ glottolog_family_id: drav1251
 glottolog_family_name: Dravidian
 glottolog_classification: "Dravidian > South Dravidian > South Dravidian II > Gondi > Southeast Gondi > Maria (India)"
 wikipedia_url: "https://en.wikipedia.org/wiki/Madiya_language"
+translations:
+  - translation_iso: jpn
+    name: マリア語
+  - translation_iso: zho
+    name: 玛丽亚语
+    auto: true
 rolv_dialects:
   - rolv_code: 3576
     language_tag: mrr-x-HIS03576

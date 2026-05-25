@@ -1,8 +1,6 @@
 ---
 iso: mfh
 name: Matal
-name_zh: 玛塔尔语
-name_zh_auto: true
 autonym: Muktele
 alt_names: [Badda, Balda, Mouktele, Muktile]
 population: 18000
@@ -16,5 +14,9 @@ glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > Biu-Mandara > North Biu-Mandara > Margi-Mandara-Mofu > Mandaraic > Podoko > Matal"
 wikipedia_url: "https://en.wikipedia.org/wiki/Matal_language"
+translations:
+  - translation_iso: zho
+    name: 玛塔尔语
+    auto: true
 ---
 Matal, also known as Muktele and Balda, is an Afro-Asiatic language spoken in northern Cameroon.

@@ -1,8 +1,6 @@
 ---
 iso: lks
 name: Kisa
-name_zh: 基萨语
-name_zh_auto: true
 autonym: Luyia
 alt_names: [Lushisa, Olushisa, Shisa]
 population: null
@@ -15,4 +13,8 @@ glottocode: kisa1263
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > East Bantu > Northeast Savanna Bantu > Great Lakes Bantu > Greater Luyia > Luyia > Saamia-Wanga-Bukusu > Saamia-Wanga > Central-Eastern Luyia > Kisa-Marama-Tsotso > Kisa"
+translations:
+  - translation_iso: zho
+    name: 基萨语
+    auto: true
 ---

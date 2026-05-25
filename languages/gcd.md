@@ -1,8 +1,6 @@
 ---
 iso: gcd
 name: Ganggalida
-name_zh: 甘格利达语
-name_zh_auto: true
 autonym: Ganggalida
 alt_names: [Engarilla, Eugoola, Ganggalidda, Ganggalita, Iukala, Jakula, Jogula, Jokal, Jokala, Jokul, Jokula, Jugul, Jugula, Jugulda, Jungulda, Kanggaleida, Kangkalita, Mainland, Mainland Tangkic, Southern Tangkic, Yakula, Yangarella, Yokula, Yookala, Yugulda, Yukala, Yukula, Yukulta, Yukulta-Nguburindi]
 population: null
@@ -16,6 +14,10 @@ glottolog_family_id: tang1340
 glottolog_family_name: Tangkic
 glottolog_classification: "Tangkic > Southern Tangkic > Ganggalida"
 wikipedia_url: "https://en.wikipedia.org/wiki/Yukulta_language"
+translations:
+  - translation_iso: zho
+    name: 甘格利达语
+    auto: true
 rolv_dialects:
   - rolv_code: 24960
     language_tag: gcd-x-HIS24960

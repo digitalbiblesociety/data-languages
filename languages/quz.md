@@ -1,8 +1,6 @@
 ---
 iso: quz
 name: Cusco Quechua
-name_zh: 库斯科克丘亚语
-name_zh_auto: true
 autonym: Qosqo runasimi
 alt_names: [Aco, Chilque, Colla, Collao, Cusco-Collao, Cusco-Quechua, Cuyo, Cuzc, Cuzco, Cuzco Quechua, Cuzco-Collao, Papre, Puno Quechua, Qheswa, Quechua (Cuzco), Quechua Collao, Quechua Cusco, Quechua Qollaw, Quechua Qosqo-Qollaw, Quechua cuzqueño, Quechua de Cusco-Collao, Quechua de Cuzco, "Quechua, Cusco", "Quechua, Puno", Qusqu qhichwa simi, Runasimi Qusqu Qullaw, Souther Kechua language area, Southern Kechua, Southern Quechua, Tahuantisuyo, Кусканский кечуа]
 population: 1500000
@@ -16,6 +14,12 @@ glottolog_family_id: quec1387
 glottolog_family_name: Quechuan
 glottolog_classification: "Quechuan > Southern Quechua > Cuscan Quechua > Cusco Quechua"
 wikipedia_url: "https://en.wikipedia.org/wiki/Cusco_Quechua"
+translations:
+  - translation_iso: jpn
+    name: クスコ語
+  - translation_iso: zho
+    name: 库斯科克丘亚语
+    auto: true
 rolv_dialects:
   - rolv_code: 15856
     language_tag: quz-x-HIS15856

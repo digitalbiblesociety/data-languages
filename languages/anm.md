@@ -1,8 +1,6 @@
 ---
 iso: anm
 name: Anal
-name_zh: 阿纳尔语
-name_zh_auto: true
 autonym: Namfau
 population: 27250
 country_id: IN
@@ -15,6 +13,14 @@ glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Kuki-Chin-Naga > Kuki-Chin > Northwestern Kuki-Chin > Analic > Anal-Lamgang > Anal"
 wikipedia_url: "https://en.wikipedia.org/wiki/An%C4%81l_language"
+translations:
+  - translation_iso: hin
+    name: अनाल भाषा
+  - translation_iso: jpn
+    name: アナル語
+  - translation_iso: zho
+    name: 阿纳尔语
+    auto: true
 rolv_dialects:
   - rolv_code: 842
     language_tag: anm-x-HIS00842

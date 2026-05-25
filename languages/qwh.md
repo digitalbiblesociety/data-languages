@@ -1,8 +1,6 @@
 ---
 iso: qwh
 name: Huaylas Ancash Quechua
-name_zh: 瓦亚拉斯安卡什克丘亚语
-name_zh_auto: true
 autonym: "Nunashimi "
 alt_names: [Ancas, Ancash, Ancash Kechua, Ancash Quechua, Caraz, Chinchaysuyo, Conchucos, Huaraz Quechua, Huaylas, Huaylas Quechua, Northern Quechua, Quechua ancashino, "Quechua, Huaylas  Ancash"]
 population: 173000
@@ -16,6 +14,10 @@ glottolog_family_id: quec1387
 glottolog_family_name: Quechuan
 glottolog_classification: "Quechuan > Quechua I > Central Quechua I > Huaylay > Huaylas Ancash Quechua"
 wikipedia_url: "https://en.wikipedia.org/wiki/Huaylas_Quechua"
+translations:
+  - translation_iso: zho
+    name: 瓦亚拉斯安卡什克丘亚语
+    auto: true
 rolv_dialects:
   - rolv_code: 1537
     language_tag: qwh-x-HIS01537

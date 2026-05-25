@@ -1,8 +1,6 @@
 ---
 iso: cmt
 name: Camtho
-name_zh: 卡姆托语
-name_zh_auto: true
 autonym: Flaaitaal
 alt_names: [Iscamtho, Isicamtho]
 population: null
@@ -15,4 +13,8 @@ glottocode: camt1236
 glottolog_family_id: spee1234
 glottolog_family_name: Speech Register
 glottolog_classification: "Speech Register > Zulu-Sotho > Camtho"
+translations:
+  - translation_iso: zho
+    name: 卡姆托语
+    auto: true
 ---

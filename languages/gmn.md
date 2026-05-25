@@ -1,8 +1,6 @@
 ---
 iso: gmn
 name: Gimnime
-name_zh: 吉姆尼梅语
-name_zh_auto: true
 autonym: Gimbe
 alt_names: [Kadam, Koma Kadam, Komlama, Laame, Yotubo]
 population: 3000
@@ -15,6 +13,10 @@ glottocode: gimn1238
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Cameroun-Ubangian > Central Adamawa > Samba-Duru > Northern Samba-Duru > Vere-Gimme > Koma Alantika > Gimnime"
+translations:
+  - translation_iso: zho
+    name: 吉姆尼梅语
+    auto: true
 rolv_dialects:
   - rolv_code: 10247
     language_tag: gmn-x-HIS10247

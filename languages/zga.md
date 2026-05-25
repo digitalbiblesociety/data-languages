@@ -1,8 +1,6 @@
 ---
 iso: zga
 name: Kinga
-name_zh: 金加语
-name_zh_auto: true
 autonym: Ekikinga
 alt_names: [Kikinga]
 population: 217000
@@ -15,6 +13,10 @@ glottocode: nucl1379
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > East Bantu > Northeast Savanna Bantu > Southern Tanzania Highlands Bantu > Kinga-Magoma > Kinga"
+translations:
+  - translation_iso: zho
+    name: 金加语
+    auto: true
 rolv_dialects:
   - rolv_code: 25587
     language_tag: zga-x-HIS25587

@@ -1,7 +1,6 @@
 ---
 iso: kmb
 name: Kimbundu
-name_zh: 姆本杜语
 autonym: North Mbundu
 alt_names: [Dongo, Idioma kimbundu, Kimbundo, Kindongo, Loanda Mbundu, Loande, Luanda, Lunda, Língua quimbundo, Mbundu, "N'bundo", Nbundu, Ndongo, キンブンド語, 金邦杜语]
 population: 1700160
@@ -16,6 +15,17 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > Central-Western Bantu > Njila > Northern Njila > Mbundu (H.20) > Kimbundu"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kimbundu"
+translations:
+  - translation_iso: ara
+    name: الكيمبندو
+  - translation_iso: hin
+    name: किम्बन्दु
+  - translation_iso: jpn
+    name: キンブンド語
+  - translation_iso: kor
+    name: 킴분두어
+  - translation_iso: zho
+    name: 姆本杜语
 rolv_dialects:
   - rolv_code: 1381
     language_tag: kmb-x-HIS01381

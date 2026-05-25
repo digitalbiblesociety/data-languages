@@ -1,8 +1,6 @@
 ---
 iso: vig
 name: Viemo
-name_zh: 维莫语
-name_zh_auto: true
 autonym: Vige
 alt_names: [Vigué, Vigye]
 population: 8000
@@ -16,5 +14,9 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Gur > Viemo"
 wikipedia_url: "https://en.wikipedia.org/wiki/Viemo_language"
+translations:
+  - translation_iso: zho
+    name: 维莫语
+    auto: true
 ---
 Viemo, also known as Vige, Vigué, Vigye, is a language of Burkina Faso. Vigué is the term for the ethniciity while Viemo is the name of the language. It may be related at a higher level to the Gur language family, but its exact affiliation within Niger–Congo languages is not yet established. It is spoken in Karangasso-Vigué Department and in neighbouring provinces.

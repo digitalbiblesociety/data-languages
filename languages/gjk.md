@@ -1,8 +1,6 @@
 ---
 iso: gjk
 name: Kachi Koli
-name_zh: 卡奇科利语
-name_zh_auto: true
 autonym: Kachi
 alt_names: [Bajania, Kachi Gujarati, Katchi, Kohli, Kolhi, Koli, "Koli, Kachi", Kori, Kuchi, Kuchikoli, Vagari, Vagaria, Vaghri]
 population: 530000
@@ -17,6 +15,10 @@ glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Indo-Aryan > Middle-Modern Indo-Aryan > Continental Indo-Aryan > Midlands Indo-Aryan > Apabhramsic > Gujarati-Rajasthani > Gujaratic > Western Gujaratic > Kachi Koli"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kachi_Koli_language"
+translations:
+  - translation_iso: zho
+    name: 卡奇科利语
+    auto: true
 rolv_dialects:
   - rolv_code: 841
     language_tag: gjk-x-HIS00841

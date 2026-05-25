@@ -1,8 +1,6 @@
 ---
 iso: sbb
 name: Simbo
-name_zh: 西姆博语
-name_zh_auto: true
 autonym: Madeggusu
 alt_names: [Mandeghughusu, Sibo]
 population: 2700
@@ -16,5 +14,9 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > Meso Melanesian linkage > New Ireland-Northwest Solomonic linkage > St George linkage > Northwest Solomonic > New Georgia > West New Georgia > Simboic > Simbo"
 wikipedia_url: "https://en.wikipedia.org/wiki/Simbo_language"
+translations:
+  - translation_iso: zho
+    name: 西姆博语
+    auto: true
 ---
 Simbo is an Oceanic language spoken by about 2,700 people on Simbo, Solomon Islands.

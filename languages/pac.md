@@ -1,7 +1,6 @@
 ---
 iso: pac
 name: Pacoh
-name_zh: 帕戈语
 autonym: Bo River Van Kieu
 alt_names: [Bo, Paco, Pokoh, River Vân Kiêu]
 population: 16000
@@ -15,6 +14,9 @@ glottolog_family_id: aust1305
 glottolog_family_name: Austroasiatic
 glottolog_classification: "Austroasiatic > Katuic > Pacoh"
 wikipedia_url: "https://en.wikipedia.org/wiki/Pacoh_language"
+translations:
+  - translation_iso: zho
+    name: 帕戈语
 rolv_dialects:
   - rolv_code: 15392
     language_tag: pac-x-HIS15392

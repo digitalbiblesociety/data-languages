@@ -1,8 +1,6 @@
 ---
 iso: mzk
 name: Nigeria Mambila
-name_zh: 尼日利亚曼比拉语
-name_zh_auto: true
 autonym: Bang
 alt_names: [Lagubi, Mabila, Mambere, Mambila, "Mambila, Nigeria", Mambilla, Nor, Nor Tagbo, Tongbo]
 population: 55600
@@ -15,6 +13,10 @@ glottocode: nige1255
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Northern Bantoid > Mambiloid > Nizaa-Mambila-Vute > Konja-Mambila-Vute > Mambila-Vute > Mambila-Mbongno > Mambila > Western Mambila"
+translations:
+  - translation_iso: zho
+    name: 尼日利亚曼比拉语
+    auto: true
 rolv_dialects:
   - rolv_code: 13547
     language_tag: mzk-x-HIS13547

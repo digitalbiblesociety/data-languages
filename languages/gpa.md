@@ -1,8 +1,6 @@
 ---
 iso: gpa
 name: "Gupa-Abawa"
-name_zh: 古帕-阿巴瓦语
-name_zh_auto: true
 autonym: null
 alt_names: [Nigeria]
 population: 10000
@@ -16,6 +14,10 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Ebira-Nupoid > Macro-Nupoid > Nupoid > Dibo-Kupa > Abawa > Kami-Gupa > Gupa"
 wikipedia_url: "https://en.wikipedia.org/wiki/Gupa-Abawa_language"
+translations:
+  - translation_iso: zho
+    name: 古帕-阿巴瓦语
+    auto: true
 rolv_dialects:
   - rolv_code: 2127
     language_tag: gpa-x-HIS02127

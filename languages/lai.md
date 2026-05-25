@@ -1,8 +1,6 @@
 ---
 iso: lai
 name: Lambya
-name_zh: 兰比亚语
-name_zh_auto: true
 autonym: Ichilambya
 alt_names: [Ici-Rambia, Icilambya, Iramba, Lambia, Lambwa, Rambia]
 population: 106900
@@ -16,6 +14,12 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > East Bantu > Corridor Bantu > Mbozi > Nyika-Lambya > Lambya"
 wikipedia_url: "https://en.wikipedia.org/wiki/Lambya_language"
+translations:
+  - translation_iso: jpn
+    name: ランブヤ語
+  - translation_iso: zho
+    name: 兰比亚语
+    auto: true
 rolv_dialects:
   - rolv_code: 27163
     language_tag: lai-x-HIS27163

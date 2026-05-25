@@ -1,8 +1,6 @@
 ---
 iso: nyt
 name: Nyawaygi
-name_zh: 尼亚韦吉语
-name_zh_auto: true
 autonym: Nawagi
 alt_names: [Geugagi., Lolo, Nyawigi, Yi]
 population: null
@@ -16,5 +14,9 @@ glottolog_family_id: pama1250
 glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > Nyawaygic > Nyawaygi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Nyawaygi_language"
+translations:
+  - translation_iso: zho
+    name: 尼亚韦吉语
+    auto: true
 ---
 The Nyawaygi language, also spelt Nywaigi, Geugagi, Njawigi, Nyawigi or Nawagi, is an extinct Australian Aboriginal language that was spoken by the Nyawaygi people in North Queensland, on the east coast of Australia. The Nyawaygi language region includes the landscape within the Hinchinbrook Regional Council, Halifax Bay, and Rollingstone.

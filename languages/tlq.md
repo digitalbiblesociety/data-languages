@@ -1,7 +1,6 @@
 ---
 iso: tlq
 name: Tai Loi
-name_zh: 蒙雷语
 autonym: Mong Lue
 alt_names: ["\"mok (Myanmar, Thaïlande)\"", Angku, Loi, Mok (Chine), Mok (République démocratique populaire lao), Mong-Lwe, Monglwe, Muak Sa-aak, Tai-Loi, Tailoi, Tailoi von Möng-Lwe, Tailói, Thaï loi, Wa-Küt, Wakut, Āng-kú]
 population: 4460
@@ -15,6 +14,9 @@ glottolog_family_id: aust1305
 glottolog_family_name: Austroasiatic
 glottolog_classification: "Austroasiatic > Khasi-Palaung > Palaungic > East Palaungic > Angkuic > Southern Angkuic > Muak"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tai_Loi_language"
+translations:
+  - translation_iso: zho
+    name: 蒙雷语
 rolv_dialects:
   - rolv_code: 17058
     language_tag: tlq-x-HIS17058

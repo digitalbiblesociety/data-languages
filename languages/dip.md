@@ -1,8 +1,6 @@
 ---
 iso: dip
 name: Northeastern Dinka
-name_zh: 东北丁卡语
-name_zh_auto: true
 autonym: Thuɔŋjäŋ
 alt_names: [Agar, Dinka, "Dinka, Northeastern", Jieng (Dinka), Nord-Dinka, Padang, White Nile Dinka]
 population: 923000
@@ -15,6 +13,12 @@ glottocode: nort2815
 glottolog_family_id: nilo1247
 glottolog_family_name: Nilotic
 glottolog_classification: "Nilotic > Western Nilotic > Dinka-Nuer > Dinka > Northeastern Dinka"
+translations:
+  - translation_iso: jpn
+    name: 北東ディンカ語
+  - translation_iso: zho
+    name: 东北丁卡语
+    auto: true
 rolv_dialects:
   - rolv_code: 143
     language_tag: dip-x-HIS00143

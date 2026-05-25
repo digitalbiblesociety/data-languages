@@ -1,8 +1,6 @@
 ---
 iso: yat
 name: Yambeta
-name_zh: 扬贝塔语
-name_zh_auto: true
 autonym: Njambeta
 alt_names: [Yambetta]
 population: 3700
@@ -16,6 +14,12 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > Mbam-Bubi > Mbam > Nuclear Mbam > Sanaga-West Mbam (A.40) > West Mbam (A.40) > Yambeta"
 wikipedia_url: "https://en.wikipedia.org/wiki/Yambeta_language"
+translations:
+  - translation_iso: jpn
+    name: ヤンベタ語
+  - translation_iso: zho
+    name: 扬贝塔语
+    auto: true
 rolv_dialects:
   - rolv_code: 18443
     language_tag: yat-x-HIS18443

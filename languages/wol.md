@@ -1,7 +1,6 @@
 ---
 iso: wol
 name: Wolof
-name_zh: 沃洛夫語
 autonym: Wolof
 alt_names: [Dyolof, Ouolof, Volof, Walaf, Waro-Waro, Wolof (Dakar), Yallof]
 population: 5926290
@@ -16,6 +15,17 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > North-Central Atlantic > Wolof-BKK > Wolofic > Wolof"
 wikipedia_url: "https://en.wikipedia.org/wiki/Wolof_language"
+translations:
+  - translation_iso: ara
+    name: الولوفية
+  - translation_iso: hin
+    name: वोलोफ़
+  - translation_iso: jpn
+    name: ウォロフ語
+  - translation_iso: kor
+    name: 월로프어
+  - translation_iso: zho
+    name: 沃洛夫語
 rolv_dialects:
   - rolv_code: 18324
     language_tag: wo-x-HIS18324

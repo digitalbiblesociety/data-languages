@@ -1,8 +1,6 @@
 ---
 iso: agy
 name: Southern Alta
-name_zh: 南阿尔塔语
-name_zh_auto: true
 autonym: Kabulowan
 alt_names: ["\"Baluga\"", "\"Kabalat\"", "Alta, Southern", Baluga, Ita, Kaboloan, Kabuluen, Kabuluwan, Kabuluwen, Pugot]
 population: 1000
@@ -16,5 +14,9 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Northern Luzon > Meso-Cordilleran > Southern Alta"
 wikipedia_url: "https://en.wikipedia.org/wiki/Southern_Alta_language"
+translations:
+  - translation_iso: zho
+    name: 南阿尔塔语
+    auto: true
 ---
 Southern Alta, is a distinctive Aeta language of the mountains of northern Philippines. Southern Alta is one of many endangered languages that risks being lost if it is not passed on by current speakers. Most speakers of Southern Alta also speak Tagalog.

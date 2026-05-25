@@ -1,8 +1,6 @@
 ---
 iso: brj
 name: Bieria
-name_zh: 比埃里亚语
-name_zh_auto: true
 autonym: Vovo
 alt_names: [Bieri, Wowo]
 population: 70
@@ -16,6 +14,10 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > North and Central Vanuatu > Central Vanuatu > Epi-Efate > Epi > Bieria-Maii > Bieria"
 wikipedia_url: "https://en.wikipedia.org/wiki/Bieria_language"
+translations:
+  - translation_iso: zho
+    name: 比埃里亚语
+    auto: true
 rolv_dialects:
   - rolv_code: 8135
     language_tag: brj-x-HIS08135

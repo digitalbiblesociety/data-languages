@@ -1,7 +1,6 @@
 ---
 iso: mgu
 name: Mailu
-name_zh: 邁魯
 autonym: Magɨ
 alt_names: [Domara, Magi]
 population: 8500
@@ -15,6 +14,9 @@ glottolog_family_id: mail1249
 glottolog_family_name: Mailuan
 glottolog_classification: "Mailuan > Mailu"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mailu_language"
+translations:
+  - translation_iso: zho
+    name: 邁魯
 rolv_dialects:
   - rolv_code: 604
     language_tag: mgu-x-HIS00604

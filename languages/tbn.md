@@ -1,8 +1,6 @@
 ---
 iso: tbn
 name: Barro Negro Tunebo
-name_zh: 巴罗内格罗图内博语
-name_zh_auto: true
 autonym: Tunebo
 alt_names: [Barro Negro, Cobaría, Eastern Tunebo, Pedraza, Sínsiga, Tame, Tegría, "Tunebo, Barro Negro", "U'w Cuwa", "U'w Kuwa", "U'wa", Uwa]
 population: 300
@@ -15,4 +13,8 @@ glottocode: barr1251
 glottolog_family_id: chib1249
 glottolog_family_name: Chibchan
 glottolog_classification: "Chibchan > Core Chibchan > Magdalenic > Southern Magdalenic > Tunebo > Barro Negro Tunebo"
+translations:
+  - translation_iso: zho
+    name: 巴罗内格罗图内博语
+    auto: true
 ---

@@ -1,8 +1,6 @@
 ---
 iso: kti
 name: North Muyu
-name_zh: 北穆尤语
-name_zh_auto: true
 autonym: Kati
 alt_names: [Kataut, Kati Ninanti, Kati-Ninanti, Muyu, "Muyu, North", Niinati, Ninatie, North Kati, North Moejoe, Northern Kati, Upper Muju, Yonggom, Yongkom, Yongom]
 population: 8000
@@ -15,6 +13,10 @@ glottocode: nort2916
 glottolog_family_id: nucl1709
 glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Asmat-Awyu-Ok > Awyu-Ok > Ok-Oksapmin > Ok > Lowland Ok > Division A Lowland Ok > North Muyu"
+translations:
+  - translation_iso: zho
+    name: 北穆尤语
+    auto: true
 rolv_dialects:
   - rolv_code: 25868
     language_tag: kti-x-HIS25868

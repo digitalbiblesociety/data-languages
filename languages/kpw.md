@@ -1,7 +1,6 @@
 ---
 iso: kpw
 name: Kobon
-name_zh: 柯本語
 autonym: null
 alt_names: [Język kobon]
 population: 10000
@@ -15,6 +14,11 @@ glottolog_family_id: nucl1709
 glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Madang > Kalamic-South Adelbert > Kalam-Kobon > Kobon"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kobon_language"
+translations:
+  - translation_iso: jpn
+    name: コボン語
+  - translation_iso: zho
+    name: 柯本語
 rolv_dialects:
   - rolv_code: 21176
     language_tag: kpw-x-HIS21176

@@ -1,8 +1,6 @@
 ---
 iso: dgi
 name: Northern Dagara
-name_zh: 北达加拉语
-name_zh_auto: true
 autonym: "Dagara, Wule"
 alt_names: [Dagaare, Dagaari, Dagara, "Dagara, Northern", Dagari, Dagati, Dagatri, Dagatsi, Degati, Dogaari, Northern Dagaare]
 population: 247000
@@ -16,6 +14,10 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Gur > Central Gur > Northern Central Gur > Bwamu-Oti-Volta > Oti-Volta > Nuclear Oti-Volta > Gurma-Yom-Oti-Volta Occidental > Oti-Volta Occidental > Nuclear Oti-Volta Occidental > Northwest Oti-Volta > Safaliba-Dagaare > Dagaaric > North-West Dagaric > Northern Dagara"
 wikipedia_url: "https://en.wikipedia.org/wiki/Northern_Dagara_language"
+translations:
+  - translation_iso: zho
+    name: 北达加拉语
+    auto: true
 rolv_dialects:
   - rolv_code: 2252
     language_tag: dgi-x-HIS02252

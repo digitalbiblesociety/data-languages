@@ -1,13 +1,17 @@
 ---
 iso: xpq
 name: "Mohegan-Pequot"
-name_zh: 莫西干-佩克特語
 autonym: Mohiks-Piqut Uyôtowáwôk
 population: null
 country_id: US
 country_name: United States
 status_id: "9"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mohegan-Pequot_language"
+translations:
+  - translation_iso: jpn
+    name: モヘガン・ペクォート語
+  - translation_iso: zho
+    name: 莫西干-佩克特語
 rolv_dialects:
   - rolv_code: 26475
     language_tag: xpq-x-HIS26475

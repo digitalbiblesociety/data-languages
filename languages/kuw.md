@@ -1,8 +1,6 @@
 ---
 iso: kuw
 name: Kpagua
-name_zh: 克帕瓜语
-name_zh_auto: true
 autonym: Kpagwa
 population: 3830
 country_id: CF
@@ -14,4 +12,8 @@ glottocode: kpag1238
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Cameroun-Ubangian > Ubangi > Ubangi Ka > Bandaic > Nuclear Bandaic > Central Bandaic > Core Central Bandaic > Ngundu-Kpagua > Kpagua"
+translations:
+  - translation_iso: zho
+    name: 克帕瓜语
+    auto: true
 ---

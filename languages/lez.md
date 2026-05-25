@@ -1,7 +1,6 @@
 ---
 iso: lez
 name: Lezghian
-name_zh: 列兹金语
 autonym: "лезги чӏал lezgi č'al"
 alt_names: [Curali, Język lezgiński, Kiurinsty, Kiurinty, Lesgische Sprache, Lesguià, Lezga lingvo, Lezghi, Lezgi, Lezgian, Lezgian language, Lezgice, Lezgieg, Lezgin, Lezgin kieli, Lezgisch, Lezguien, Lezguio, Língua lezgui, lezghien, Лезгинский язык, Лезгиски јазик, Лезгінська мова, زبان لزگی, ภาษาเลซกี, 레즈긴어]
 population: 623700
@@ -16,6 +15,17 @@ glottolog_family_id: nakh1245
 glottolog_family_name: Nakh-Daghestanian
 glottolog_classification: "Nakh-Daghestanian > Daghestanian > Lezgic > Samur > Eastern Samur > Tabasaran-Aghul-Lezgi > Aghul-Lezgi > Lezgian"
 wikipedia_url: "https://en.wikipedia.org/wiki/Lezgian_language"
+translations:
+  - translation_iso: ara
+    name: لغة ليزغينية
+  - translation_iso: hin
+    name: लेज़गियान भाषा
+  - translation_iso: jpn
+    name: レズギ語
+  - translation_iso: kor
+    name: 레즈긴어
+  - translation_iso: zho
+    name: 列兹金语
 rolv_dialects:
   - rolv_code: 12914
     language_tag: lez-x-HIS12914

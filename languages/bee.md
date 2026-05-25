@@ -1,8 +1,6 @@
 ---
 iso: bee
 name: Byangsi
-name_zh: 比扬西语
-name_zh_auto: true
 autonym: Byangkho Lwo
 alt_names: [Bhotia, Byangkhopa, Byanshi, Byansi, Byasi, Byāngsī, Jaba, Rang, Saukas, Shaukas]
 population: 2830
@@ -16,6 +14,12 @@ glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Bodic > West Himalayish > Eastern West Himalayish > Pithauragarh > Darma-Byangsi-Chaudangsi > Darma-Byangsi > Byangsi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Byangsi_language"
+translations:
+  - translation_iso: hin
+    name: ब्यांग्सी भाषा
+  - translation_iso: zho
+    name: 比扬西语
+    auto: true
 rolv_dialects:
   - rolv_code: 19394
     language_tag: bee-x-HIS19394

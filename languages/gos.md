@@ -1,7 +1,6 @@
 ---
 iso: gos
 name: Gronings
-name_zh: 格罗宁根方言
 autonym: Grunnegs
 alt_names: [Frisian, Greuniengs, Grinslânsk, Gronengesch, Groningen, Groningois, Groningsk, Groninguès, Grunnings, Grôniengs, Idioma groningués, Jronėngsch, Język groningski, Neuniederdeutsch, フローニン語]
 population: 262000
@@ -16,6 +15,11 @@ glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Germanic > Northwest Germanic > West Germanic > North Sea Germanic > Altsächsisch > Middle-Modern Low German > Low German > West Low German > North Low Saxon > Gronings"
 wikipedia_url: "https://en.wikipedia.org/wiki/Gronings_dialect"
+translations:
+  - translation_iso: jpn
+    name: フローニン語
+  - translation_iso: zho
+    name: 格罗宁根方言
 rolv_dialects:
   - rolv_code: 10355
     language_tag: gos-x-HIS10355

@@ -1,8 +1,6 @@
 ---
 iso: ndp
 name: Ndo
-name_zh: 恩多语
-name_zh_auto: true
 autonym: Ke’bu
 alt_names: ["Ke'bu", Kebu, Kebutu, Ndu, "Oke'bu"]
 population: 154100
@@ -16,6 +14,10 @@ glottolog_family_id: cent2225
 glottolog_family_name: Central Sudanic
 glottolog_classification: "Central Sudanic > Membi-Mangbutu-Efe > Ndo"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ndo_language"
+translations:
+  - translation_iso: zho
+    name: 恩多语
+    auto: true
 rolv_dialects:
   - rolv_code: 1280
     language_tag: ndp-x-HIS01280

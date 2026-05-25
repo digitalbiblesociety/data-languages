@@ -1,8 +1,6 @@
 ---
 iso: kiq
 name: Kosadle
-name_zh: 科萨德勒语
-name_zh_auto: true
 autonym: Kosare
 population: 250
 country_id: ID
@@ -15,5 +13,9 @@ glottolog_family_id: kaur1274
 glottolog_family_name: Kaure-Kosare
 glottolog_classification: "Kaure-Kosare > Kosadle"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kosare_language"
+translations:
+  - translation_iso: zho
+    name: 科萨德勒语
+    auto: true
 ---
 Kosadle (Kosare) is a Papuan language of West Papua.

@@ -1,7 +1,6 @@
 ---
 iso: tgl
 name: Tagalog
-name_zh: 他加禄语
 autonym: ᜏᜒᜃᜅ᜔ ᜆᜄᜎᜓᜄ᜔
 alt_names: [Bahasa Tagalog, Filipino, Fiteny Tagalog, Idioma tagalo, Język tagalog, Lengua tagalog, Lingua tagalog, Língua tagalo, Pagsasao a Tagalog, Tagal, Tagala, Tagala Gruppe, Tagalog nyelv, Tagaloga lingvo, Tagalogeg, Tagaloški jezik, Tagalu, Tagalu simi, Tagalòg, Tagalų kalba, Takalotça, Tataramon na Tagalog, Tinag-alog, Tinagalog, Tiếng Tagalog, Wikang Tagalog, Zimanê tagalogî, Тагалог, Тагаль чĕлхи, Тагальский язык, Тагальська мова, تاگالوگ تىلى, تغالوغ, زبان تاگالوگ, टागालोग भाषा, তাগালোগ ভাষা, டகாலொக் மொழி, ടാഗലോഗ്, ภาษาตากาล็อก, ფილიპინური ენა, タガログ語, 他加祿語, 타갈로그어]
 population: 23600000
@@ -15,6 +14,17 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Greater Central Philippine > Central Philippine > Tagalogic > Tagalog-Filipino > Tagalog"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tagalog_language"
+translations:
+  - translation_iso: ara
+    name: التاغالوغية
+  - translation_iso: hin
+    name: तागालोग
+  - translation_iso: jpn
+    name: タガログ語
+  - translation_iso: kor
+    name: 타갈로그어
+  - translation_iso: zho
+    name: 他加禄语
 rolv_dialects:
   - rolv_code: 17030
     language_tag: tl-x-HIS17030

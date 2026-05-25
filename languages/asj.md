@@ -1,8 +1,6 @@
 ---
 iso: asj
 name: Sari
-name_zh: 萨里语
-name_zh_auto: true
 autonym: Nsari
 alt_names: [Akweto, Pesaa, Sali]
 population: 7000
@@ -16,5 +14,11 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Beboid > Eastern Beboid > Nsari-Nooni-Ncane > Nsari"
 wikipedia_url: "https://en.wikipedia.org/wiki/Saari_language"
+translations:
+  - translation_iso: jpn
+    name: Saari語
+  - translation_iso: zho
+    name: 萨里语
+    auto: true
 ---
 Saari, or Nsari, is an Eastern Beboid language of Cameroon. According to Ethnologue, it's 84% lexically similar to Ncane, making it very close to the Noni cluster. It is spoken in the Misaje Sub-Division, Donga-Mantung Division, North West Region. The Ethnologue has Sari as the language name, and lists the following as alternate language names: Akweto, Nsari, Pesaa, Saari, Sali.

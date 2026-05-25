@@ -1,8 +1,6 @@
 ---
 iso: dob
 name: Dobu
-name_zh: 多布语
-name_zh_auto: true
 autonym: Dobuan
 population: 10000
 country_id: PG
@@ -15,6 +13,12 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > Papuan Tip linkage > Nuclear Papuan Tip linkage > North Papuan Mainland-D'Entrecasteaux linkage > Dobu-Duau linkage > Dobu"
 wikipedia_url: "https://en.wikipedia.org/wiki/Dobu_language"
+translations:
+  - translation_iso: jpn
+    name: ドブ語
+  - translation_iso: zho
+    name: 多布语
+    auto: true
 rolv_dialects:
   - rolv_code: 2168
     language_tag: dob-x-HIS02168

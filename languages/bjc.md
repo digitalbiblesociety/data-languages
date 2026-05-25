@@ -1,8 +1,6 @@
 ---
 iso: bjc
 name: Bariji
-name_zh: 巴里吉语
-name_zh_auto: true
 autonym: Bariji
 alt_names: [Aga Bereho]
 population: 460
@@ -16,5 +14,9 @@ glottolog_family_id: yare1250
 glottolog_family_name: Yareban
 glottolog_classification: "Yareban > Yareba-Bariji-Nawaru > Bariji"
 wikipedia_url: "https://en.wikipedia.org/wiki/Aga_Bereho_language"
+translations:
+  - translation_iso: zho
+    name: 巴里吉语
+    auto: true
 ---
 Aga Bereho, or ambiguously Bareji (Bariji), is a Papuan language spoken in Oro Province, in the "tail" of Papua New Guinea.

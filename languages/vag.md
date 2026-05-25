@@ -1,8 +1,6 @@
 ---
 iso: vag
 name: Vagla
-name_zh: 瓦格拉语
-name_zh_auto: true
 autonym: Konosarola
 alt_names: [Kira, Paxala, Siti, Sitigo, Vagala]
 population: 13900
@@ -16,6 +14,10 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Gur > Central Gur > Southern Central Gur > Grusi > East-West Grusi > Western Grusi > Sisaala-Chakali > Chakalic > Chakali-Tamprusi-Vagala > Vagla"
 wikipedia_url: "https://en.wikipedia.org/wiki/Vagla_language"
+translations:
+  - translation_iso: zho
+    name: 瓦格拉语
+    auto: true
 rolv_dialects:
   - rolv_code: 17999
     language_tag: vag-x-HIS17999

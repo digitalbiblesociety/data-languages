@@ -1,8 +1,6 @@
 ---
 iso: mkf
 name: Miya
-name_zh: 米亚语
-name_zh_auto: true
 autonym: Miyawa
 alt_names: [Muya]
 population: 30000
@@ -16,6 +14,10 @@ glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > West Chadic > West Chadic B > West Chadic B.2 > Nuclear West Chadic B.2 > Central West Chadic B.2 > Miya"
 wikipedia_url: "https://en.wikipedia.org/wiki/Miya_language"
+translations:
+  - translation_iso: zho
+    name: 米亚语
+    auto: true
 rolv_dialects:
   - rolv_code: 14131
     language_tag: mkf-x-HIS14131

@@ -1,8 +1,6 @@
 ---
 iso: srx
 name: Sirmauri
-name_zh: 希尔毛里语
-name_zh_auto: true
 autonym: Himachali
 alt_names: [Sirmouri, Sirmuri]
 population: 400000
@@ -17,6 +15,14 @@ glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Indo-Aryan > Middle-Modern Indo-Aryan > Eastern Dardic > Himachali > Nuclear Himachali > Sirmauri"
 wikipedia_url: "https://en.wikipedia.org/wiki/Sirmauri_language"
+translations:
+  - translation_iso: hin
+    name: सिरमौरी
+  - translation_iso: jpn
+    name: スルマウリ語
+  - translation_iso: zho
+    name: 希尔毛里语
+    auto: true
 rolv_dialects:
   - rolv_code: 2422
     language_tag: srx-x-HIS02422

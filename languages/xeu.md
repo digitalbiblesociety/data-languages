@@ -1,8 +1,6 @@
 ---
 iso: xeu
 name: "Keoru-Ahia"
-name_zh: 克欧鲁-阿希亚语
-name_zh_auto: true
 autonym: "Lower Ahia - Kouri"
 alt_names: [Belepa, Haura, Haura Haela, Keuro, Keuru]
 population: 194
@@ -16,6 +14,10 @@ glottolog_family_id: nucl1580
 glottolog_family_name: Eleman
 glottolog_classification: "Eleman > Western Eleman > Keoru-Ahia"
 wikipedia_url: "https://en.wikipedia.org/wiki/Keoru_language"
+translations:
+  - translation_iso: zho
+    name: 克欧鲁-阿希亚语
+    auto: true
 rolv_dialects:
   - rolv_code: 11895
     language_tag: xeu-x-HIS11895

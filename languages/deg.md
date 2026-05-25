@@ -1,8 +1,6 @@
 ---
 iso: deg
 name: Degema
-name_zh: 德格玛语
-name_zh_auto: true
 autonym: Dekema
 alt_names: [Udekama]
 population: 10000
@@ -16,6 +14,10 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Akpes-Edoid > Edoid > Delta Edoid > Degema-Engenni > Degema"
 wikipedia_url: "https://en.wikipedia.org/wiki/Degema_language"
+translations:
+  - translation_iso: zho
+    name: 德格玛语
+    auto: true
 rolv_dialects:
   - rolv_code: 9204
     language_tag: deg-x-HIS09204

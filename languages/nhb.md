@@ -1,8 +1,6 @@
 ---
 iso: nhb
 name: Beng
-name_zh: 本语
-name_zh_auto: true
 autonym: Ngain
 alt_names: [Ben, Ben (Gan), Gan, Ngan, Ngen, Ngin, Nguin]
 population: 17000
@@ -16,6 +14,10 @@ glottolog_family_id: mand1469
 glottolog_family_name: Mande
 glottolog_classification: "Mande > Eastern Mande > Southeastern Mande > Nwa-Ben > Ben-Gban > Bengic > Beng"
 wikipedia_url: "https://en.wikipedia.org/wiki/Beng_language"
+translations:
+  - translation_iso: zho
+    name: 本语
+    auto: true
 rolv_dialects:
   - rolv_code: 6305
     language_tag: nhb-x-HIS06305

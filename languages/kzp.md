@@ -1,8 +1,6 @@
 ---
 iso: kzp
 name: Kaidipang
-name_zh: 凯迪班语
-name_zh_auto: true
 autonym: Dio
 alt_names: [Kaidipan]
 population: 6660
@@ -16,6 +14,12 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Greater Central Philippine > Gorontalo-Mongondow > Gorontalic > Kaidipang"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kaidipang_language"
+translations:
+  - translation_iso: jpn
+    name: カイディパン語
+  - translation_iso: zho
+    name: 凯迪班语
+    auto: true
 rolv_dialects:
   - rolv_code: 11317
     language_tag: kzp-x-HIS11317

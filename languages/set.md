@@ -1,8 +1,6 @@
 ---
 iso: set
 name: Sentani
-name_zh: 塞塔尼语
-name_zh_auto: true
 autonym: Buyaka
 alt_names: [Sentani language]
 population: 30000
@@ -16,6 +14,10 @@ glottolog_family_id: sent1261
 glottolog_family_name: Sentanic
 glottolog_classification: "Sentanic > Nuclear Sentanic > Sentani-Nafri > Sentani"
 wikipedia_url: "https://en.wikipedia.org/wiki/Sentani_language"
+translations:
+  - translation_iso: zho
+    name: 塞塔尼语
+    auto: true
 rolv_dialects:
   - rolv_code: 1624
     language_tag: set-x-HIS01624

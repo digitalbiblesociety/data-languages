@@ -1,8 +1,6 @@
 ---
 iso: ggu
 name: Gagu
-name_zh: 加古语
-name_zh_auto: true
 autonym: Gagou
 alt_names: [Gban, Kago, Kagu]
 population: 60000
@@ -16,6 +14,12 @@ glottolog_family_id: mand1469
 glottolog_family_name: Mande
 glottolog_classification: "Mande > Eastern Mande > Southeastern Mande > Nwa-Ben > Ben-Gban > Gban"
 wikipedia_url: "https://en.wikipedia.org/wiki/Gban_language"
+translations:
+  - translation_iso: jpn
+    name: グバン語
+  - translation_iso: zho
+    name: 加古语
+    auto: true
 rolv_dialects:
   - rolv_code: 9984
     language_tag: ggu-x-HIS09984

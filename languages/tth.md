@@ -1,8 +1,6 @@
 ---
 iso: tth
 name: "Upper Ta'oih"
-name_zh: 上塔欧伊语
-name_zh_auto: true
 autonym: Ta Oi
 alt_names: [(Kha)Tahoi, Kantua, Kha Tahoï, Kon-Tu, Kontu, Ta Hoi, "Ta'oih", "Ta'oih, Upper", Ta-Oi, Ta-Oy, Ta-ôih, Tau Oi, Toi-Oi, Tà-Oi, Tă-hoi]
 population: 49900
@@ -15,6 +13,10 @@ glottocode: uppe1406
 glottolog_family_id: aust1305
 glottolog_family_name: Austroasiatic
 glottolog_classification: "Austroasiatic > Katuic > Ta'oihic > Ong-Ta'oih > Upper Ta'oih"
+translations:
+  - translation_iso: zho
+    name: 上塔欧伊语
+    auto: true
 rolv_dialects:
   - rolv_code: 1802
     language_tag: tth-x-HIS01802

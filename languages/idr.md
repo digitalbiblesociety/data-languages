@@ -1,8 +1,6 @@
 ---
 iso: idr
 name: Indri
-name_zh: 印德里语
-name_zh_auto: true
 autonym: Yanderika
 alt_names: [Yandirika]
 population: 700
@@ -16,5 +14,9 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Cameroun-Ubangian > Ubangi > Ubangi Ka > Sereic > Sere-Indri > Indri-Togoyo > Indri"
 wikipedia_url: "https://en.wikipedia.org/wiki/Indri_language"
+translations:
+  - translation_iso: zho
+    name: 印德里语
+    auto: true
 ---
 Indri is a Ubangian language of South Sudan.

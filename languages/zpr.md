@@ -1,8 +1,6 @@
 ---
 iso: zpr
 name: Santiago Xanica Zapotec
-name_zh: 圣地亚哥哈尼卡萨波特克语
-name_zh_auto: true
 autonym: (zapoteco de Santiago Xánica)
 alt_names: [Southern Sapoteko, Xanica Zapotec, Zapotec, "Zapotec, Santiago Xanica", Zapoteco de Asunción Tlacolulita, "Zapotèque d'Asunción Tlacolulita"]
 population: 2500
@@ -16,5 +14,9 @@ glottolog_family_id: otom1299
 glottolog_family_name: Otomanguean
 glottolog_classification: "Otomanguean > Eastern Otomanguean > Popoloca-Zapotecan > Zapotecan > Zapotec > Core Zapotec > Narrow Core Zapotec > Central Core Zapotec > Cisyautepequeño > Santiago Xanica Zapotec"
 wikipedia_url: "https://en.wikipedia.org/wiki/X%C3%A1nica_Zapotec"
+translations:
+  - translation_iso: zho
+    name: 圣地亚哥哈尼卡萨波特克语
+    auto: true
 ---
 Santiago Xanica Zapotec is a Zapotec language of Oaxaca, Mexico.

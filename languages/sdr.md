@@ -1,8 +1,6 @@
 ---
 iso: sdr
 name: Oraon Sadri
-name_zh: 奥腊翁萨德里语
-name_zh_auto: true
 autonym: Nagpuri
 alt_names: [Chotar Nagpuri, Dikkukaji, Sadani, Sadri, "Sadri, Oraon"]
 population: 166000
@@ -15,6 +13,10 @@ glottocode: orao1237
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Indo-Aryan > Middle-Modern Indo-Aryan > Continental Indo-Aryan > Midlands Indo-Aryan > Shaurasenic > Bihari > Magadhan > Sadanic > Sadri-Panchpargania > India-Nepal-Bangladesh Sadri > Oraon Sadri"
+translations:
+  - translation_iso: zho
+    name: 奥腊翁萨德里语
+    auto: true
 rolv_dialects:
   - rolv_code: 4418
     language_tag: sdr-x-HIS04418

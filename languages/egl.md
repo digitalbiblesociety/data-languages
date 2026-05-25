@@ -1,7 +1,6 @@
 ---
 iso: egl
 name: Emilian
-name_zh: 艾米利亚语
 autonym: emigliàn
 population: 1300000
 country_id: IT
@@ -15,6 +14,15 @@ glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Italic > Latino-Faliscan > Latinic > Imperial Latin > Romance > Italo-Western Romance > Western Romance > Shifted Western Romance > Northwestern Shifted Romance > Gallo-Italian > Emiliano-Romagnolo > Emiliano"
 wikipedia_url: "https://en.wikipedia.org/wiki/Emilian_language"
+translations:
+  - translation_iso: ara
+    name: لغة إميليانو
+  - translation_iso: jpn
+    name: エミリア語
+  - translation_iso: kor
+    name: 에밀리아어
+  - translation_iso: zho
+    name: 艾米利亚语
 rolv_dialects:
   - rolv_code: 9552
     language_tag: egl-x-HIS09552

@@ -1,8 +1,6 @@
 ---
 iso: mev
 name: Mano
-name_zh: 玛诺语
-name_zh_auto: true
 autonym: Maa
 alt_names: [Mah, Mann, Manö, Mawe]
 population: 427900
@@ -16,6 +14,12 @@ glottolog_family_id: mand1469
 glottolog_family_name: Mande
 glottolog_classification: "Mande > Eastern Mande > Southeastern Mande > Mano-Dan > Mann"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mano_language"
+translations:
+  - translation_iso: jpn
+    name: マノ語
+  - translation_iso: zho
+    name: 玛诺语
+    auto: true
 rolv_dialects:
   - rolv_code: 25004
     language_tag: mev-x-HIS25004

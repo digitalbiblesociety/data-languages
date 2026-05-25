@@ -1,8 +1,6 @@
 ---
 iso: nph
 name: Phom Naga
-name_zh: 普姆纳加语
-name_zh_auto: true
 autonym: Assiringia
 alt_names: [Chingmengnu, Chingmengu, Naga, "Naga, Phom", "Naga,Phom", Phom, Phon, Tamlu, Tamlu Naga, Tśingmegnu]
 population: 54400
@@ -16,6 +14,12 @@ glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Brahmaputran > Patkaian > South Patkaian > Southwestern Patkaian > Chang-Phom-Konyak > Konyak-Phom > Phom Naga"
 wikipedia_url: "https://en.wikipedia.org/wiki/Phom_language"
+translations:
+  - translation_iso: hin
+    name: फोम भाषा
+  - translation_iso: zho
+    name: 普姆纳加语
+    auto: true
 rolv_dialects:
   - rolv_code: 14573
     language_tag: nph-x-HIS14573

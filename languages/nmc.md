@@ -1,8 +1,6 @@
 ---
 iso: nmc
 name: Ngam
-name_zh: 恩甘语
-name_zh_auto: true
 autonym: Sara Ngam
 alt_names: [Ngahm, Ngama, Ngamh, Sarngam]
 population: 61400
@@ -16,6 +14,10 @@ glottolog_family_id: cent2225
 glottolog_family_name: Central Sudanic
 glottolog_classification: "Central Sudanic > Sara-Bongo-Bagirmi > SBB Occidental > Nuclear SBB Occidental > Saraic > Sara Central > Sara Central Logone-Chari > Sido > Ngam"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ngam_language"
+translations:
+  - translation_iso: zho
+    name: 恩甘语
+    auto: true
 rolv_dialects:
   - rolv_code: 14853
     language_tag: nmc-x-HIS14853

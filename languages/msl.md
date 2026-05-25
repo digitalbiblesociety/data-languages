@@ -1,8 +1,6 @@
 ---
 iso: msl
 name: Molof
-name_zh: 莫洛夫语
-name_zh_auto: true
 autonym: Poule
 alt_names: [Ampas, Powle-Ma]
 population: 200
@@ -13,5 +11,9 @@ latitude: -3.41946
 longitude: 140.55683
 glottocode: molo1262
 wikipedia_url: "https://en.wikipedia.org/wiki/Molof_language"
+translations:
+  - translation_iso: zho
+    name: 莫洛夫语
+    auto: true
 ---
 Molof is a poorly documented Papuan language spoken by about 200 people in Molof village, Senggi District, Keerom Regency.

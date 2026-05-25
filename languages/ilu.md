@@ -1,8 +1,6 @@
 ---
 iso: ilu
 name: "Ili'uun"
-name_zh: 伊利乌恩语
-name_zh_auto: true
 autonym: Wetar
 alt_names: [Erai, Hahutan, Hahutau, Iliun, Ilmaumau, Limera]
 population: 1400
@@ -15,6 +13,10 @@ glottocode: iliu1237
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Timor-Babar > Wetar-Atauro > Wetar > Ili'uun"
+translations:
+  - translation_iso: zho
+    name: 伊利乌恩语
+    auto: true
 rolv_dialects:
   - rolv_code: 717
     language_tag: ilu-x-HIS00717

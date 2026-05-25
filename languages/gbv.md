@@ -1,8 +1,6 @@
 ---
 iso: gbv
 name: Gbanu
-name_zh: 加巴努语
-name_zh_auto: true
 autonym: Banu
 alt_names: ["'Bokoto", Gbanou, Gbaya, Gbeya, Kara, Southern Gbaya, Suma]
 population: 95000
@@ -16,6 +14,10 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Gbaya-Manza-Ngbaka > Gbaya Oriental > Gbanu-Manza-Ngbaka > Gbanu"
 wikipedia_url: "https://en.wikipedia.org/wiki/Gbanu_language"
+translations:
+  - translation_iso: zho
+    name: 加巴努语
+    auto: true
 rolv_dialects:
   - rolv_code: 10088
     language_tag: gbv-x-HIS10088

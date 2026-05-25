@@ -1,8 +1,6 @@
 ---
 iso: nyq
 name: Nayini
-name_zh: 纳伊尼语
-name_zh_auto: true
 autonym: Biyabanak
 alt_names: [Nayiní]
 population: 7030
@@ -16,6 +14,14 @@ glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Iranian-Nuristani > Iranian > Central Iranian PBS > Central Iranian PB > Northwestern Iranian > Central Iran Kermanic > Nuclear Central Iran Kermanic > Yazdi-Kermani-Nayini > Nayinic"
 wikipedia_url: "https://en.wikipedia.org/wiki/Nayini_language"
+translations:
+  - translation_iso: ara
+    name: لغة ناييني
+  - translation_iso: jpn
+    name: ナーイーン語
+  - translation_iso: zho
+    name: 纳伊尼语
+    auto: true
 rolv_dialects:
   - rolv_code: 27147
     language_tag: nyq-x-HIS27147

@@ -1,14 +1,18 @@
 ---
 iso: rbk
 name: Northern Bontok
-name_zh: 北邦托克语
-name_zh_auto: true
 autonym: Finallig
 alt_names: ["Bontok, Northern"]
 population: null
 country_id: PH
 country_name: Philippines
 status_id: 8a
+translations:
+  - translation_iso: jpn
+    name: 北ボントク語
+  - translation_iso: zho
+    name: 北邦托克语
+    auto: true
 rolv_dialects:
   - rolv_code: 29666
     language_tag: rbk-x-HIS29666

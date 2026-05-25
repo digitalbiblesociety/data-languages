@@ -1,8 +1,6 @@
 ---
 iso: aah
 name: "Abu' Arapesh"
-name_zh: 阿布阿拉佩什语
-name_zh_auto: true
 autonym: Ua
 alt_names: ["Abu'", Abu’ Arapesh, "Arapesh, Abu'"]
 population: 2560
@@ -16,5 +14,9 @@ glottolog_family_id: nucl1708
 glottolog_family_name: Nuclear Torricelli
 glottolog_classification: "Nuclear Torricelli > Kombio-Arapesh-Urat > Arapesh > Mufian-Bukiyip-Abu > Bukiyip-Abu > Abu' Arapesh"
 wikipedia_url: "https://en.wikipedia.org/wiki/Abu%CA%BC_Arapesh_language"
+translations:
+  - translation_iso: zho
+    name: 阿布阿拉佩什语
+    auto: true
 ---
 Abuʼ, also known as Ua, is an Arapesh language of Papua New Guinea. It is dying, as speakers are shifting to Tok Pisin.

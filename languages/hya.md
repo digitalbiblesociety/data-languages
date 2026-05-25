@@ -1,8 +1,6 @@
 ---
 iso: hya
 name: Hya
-name_zh: 海亚语
-name_zh_auto: true
 autonym: Ghye
 alt_names: [Hya jezik, Hyaeg, Za]
 population: 940
@@ -16,5 +14,9 @@ glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > Biu-Mandara > North Biu-Mandara > Higic > Hya"
 wikipedia_url: "https://en.wikipedia.org/wiki/Hya_language"
+translations:
+  - translation_iso: zho
+    name: 海亚语
+    auto: true
 ---
 Hya is an Afro-Asiatic language spoken in northern Cameroon and neighboring regions of Nigeria.

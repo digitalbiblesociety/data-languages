@@ -1,8 +1,6 @@
 ---
 iso: ssb
 name: Southern Sama
-name_zh: 南沙玛语
-name_zh_auto: true
 autonym: Bajau
 alt_names: [Bajau (Semporna), Bajau Asli, Kubang, Sama (South), Sama (Southern), "Sama Sibutu'", Sama Tawi-Tawi, "Sama, Southern", Semporna Bajau, Sinama, Sinama Tawi-Tawi]
 population: 260000
@@ -15,6 +13,10 @@ glottocode: sout2918
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Basap-Greater Barito > Greater Barito linkage > Sama-Bajaw > Sulu-Borneo > Inner Sulu Sama > Southern Sama"
+translations:
+  - translation_iso: zho
+    name: 南沙玛语
+    auto: true
 rolv_dialects:
   - rolv_code: 3487
     language_tag: ssb-x-HIS03487

@@ -1,8 +1,6 @@
 ---
 iso: smz
 name: Simeku
-name_zh: 西梅库语
-name_zh_auto: true
 autonym: null
 population: 1000
 country_id: PG
@@ -15,6 +13,10 @@ glottolog_family_id: sout2948
 glottolog_family_name: South Bougainville
 glottolog_classification: "South Bougainville > Nasioiic > Nasioi > Simekuic > Simeku"
 wikipedia_url: "https://en.wikipedia.org/wiki/Simeku_language"
+translations:
+  - translation_iso: zho
+    name: 西梅库语
+    auto: true
 rolv_dialects:
   - rolv_code: 16719
     language_tag: smz-x-HIS16719

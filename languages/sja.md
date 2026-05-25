@@ -1,8 +1,6 @@
 ---
 iso: sja
 name: Epena
-name_zh: 埃佩纳语
-name_zh_auto: true
 autonym: Saija
 alt_names: [Catío, Chamí, Chocó, Cholo, Ember-Saija, Embera, Embera-Saija, Emberá, Emberá (South), Emberá Group, Emberá-Saija, Emperá, Epena Pedee, Epená Saija, Epéna Pedée, Napipí River, Saixa, Saixa-Baudo, Sambú, Sia pedee, Southern Embera, Southern Emberá, Southern Empera, Southern Ępęra]
 population: 3500
@@ -16,6 +14,10 @@ glottolog_family_id: choc1280
 glottolog_family_name: Chocoan
 glottolog_classification: "Chocoan > Embera > San Juan > Epena"
 wikipedia_url: "https://en.wikipedia.org/wiki/Eperara_language"
+translations:
+  - translation_iso: zho
+    name: 埃佩纳语
+    auto: true
 rolv_dialects:
   - rolv_code: 9549
     language_tag: sja-x-HIS09549

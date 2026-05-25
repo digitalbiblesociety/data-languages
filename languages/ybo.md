@@ -1,8 +1,6 @@
 ---
 iso: ybo
 name: Yabong
-name_zh: 亚邦语
-name_zh_auto: true
 autonym: null
 population: 370
 country_id: PG
@@ -15,6 +13,10 @@ glottolog_family_id: nucl1709
 glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Madang > Rai Coast > Greater Yaganon > Yaganon > Yabong"
 wikipedia_url: "https://en.wikipedia.org/wiki/Yabong_language"
+translations:
+  - translation_iso: zho
+    name: 亚邦语
+    auto: true
 rolv_dialects:
   - rolv_code: 27641
     language_tag: ybo-x-HIS27641

@@ -1,7 +1,6 @@
 ---
 iso: hei
 name: Heiltsuk
-name_zh: 海尔楚克-奥韦基亚拉语
 autonym: null
 alt_names: [Belbellah, Bella Bella, Háiɫzaqvḷa (Heiltsuk), Heilchuco, Heiltsuk-Oowekyala, "Heiltsuk-Oweek'ala"]
 population: 1200
@@ -15,6 +14,11 @@ glottolog_family_id: waka1280
 glottolog_family_name: Wakashan
 glottolog_classification: "Wakashan > Northern Wakashan > Kwakiutlan > Heiltsuk-Oowekyala"
 wikipedia_url: "https://en.wikipedia.org/wiki/Heiltsuk%E2%80%93Oowekyala_language"
+translations:
+  - translation_iso: jpn
+    name: ヘイルツク語
+  - translation_iso: zho
+    name: 海尔楚克-奥韦基亚拉语
 rolv_dialects:
   - rolv_code: 10610
     language_tag: hei-x-HIS10610

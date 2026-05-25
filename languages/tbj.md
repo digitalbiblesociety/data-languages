@@ -1,8 +1,6 @@
 ---
 iso: tbj
 name: Tiang
-name_zh: 蒂昂语
-name_zh_auto: true
 autonym: Djaul
 alt_names: [Neu-Mecklenburg]
 population: 790
@@ -16,6 +14,12 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > Meso Melanesian linkage > New Ireland-Northwest Solomonic linkage > Tungak-Nalik > Tiang"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tiang_language"
+translations:
+  - translation_iso: jpn
+    name: ティアン語
+  - translation_iso: zho
+    name: 蒂昂语
+    auto: true
 rolv_dialects:
   - rolv_code: 1476
     language_tag: tbj-x-HIS01476

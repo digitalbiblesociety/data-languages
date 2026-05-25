@@ -1,8 +1,6 @@
 ---
 iso: lcl
 name: Lisela
-name_zh: 利塞拉语
-name_zh_auto: true
 autonym: bahasa Lisela
 alt_names: [Buru, Li Enyorot, Liet Enjorot, North Buru, Wayapo]
 population: 11900
@@ -16,6 +14,10 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > West Central Maluku > Sula-Buru > Buruic > Lisela"
 wikipedia_url: "https://en.wikipedia.org/wiki/Lisela_language"
+translations:
+  - translation_iso: zho
+    name: 利塞拉语
+    auto: true
 rolv_dialects:
   - rolv_code: 12985
     language_tag: lcl-x-HIS12985

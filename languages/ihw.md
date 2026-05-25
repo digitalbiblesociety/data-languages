@@ -1,8 +1,6 @@
 ---
 iso: ihw
 name: Bidhawal
-name_zh: 比达瓦尔语
-name_zh_auto: true
 autonym: null
 population: null
 country_id: AU
@@ -14,4 +12,8 @@ glottocode: gana1268
 glottolog_family_id: pama1250
 glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > Ganaic > Birrdhawal"
+translations:
+  - translation_iso: zho
+    name: 比达瓦尔语
+    auto: true
 ---

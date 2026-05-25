@@ -1,7 +1,6 @@
 ---
 iso: dag
 name: Dagbani
-name_zh: 达巴尼语
 autonym: Dagbanli
 alt_names: [Dagbamba, Dagbane, Dagbaneg, Dagomba, Língua dagbani, தாக்பானி மொழி]
 population: 1160000
@@ -15,6 +14,15 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Gur > Central Gur > Northern Central Gur > Bwamu-Oti-Volta > Oti-Volta > Nuclear Oti-Volta > Gurma-Yom-Oti-Volta Occidental > Oti-Volta Occidental > Nuclear Oti-Volta Occidental > Southeast Western Oti-Volta > Mampruli-Dagbani > Dagbani"
 wikipedia_url: "https://en.wikipedia.org/wiki/Dagbani_language"
+translations:
+  - translation_iso: ara
+    name: دغبانية
+  - translation_iso: jpn
+    name: ダバニ語
+  - translation_iso: kor
+    name: 다그바니어
+  - translation_iso: zho
+    name: 达巴尼语
 rolv_dialects:
   - rolv_code: 9071
     language_tag: dag-x-HIS09071

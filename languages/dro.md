@@ -1,8 +1,6 @@
 ---
 iso: dro
 name: "Daro-Matu Melanau"
-name_zh: 达罗-玛图梅拉瑙语
-name_zh_auto: true
 autonym: null
 alt_names: ["Melanau, Daro-Matu"]
 population: 2800
@@ -16,6 +14,10 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > North Borneo Malayo-Polynesian > Central Sarawak > Melanau-Kajang > Melanau > Daro-Matu Melanau"
 wikipedia_url: "https://en.wikipedia.org/wiki/Daro-Matu_language"
+translations:
+  - translation_iso: zho
+    name: 达罗-玛图梅拉瑙语
+    auto: true
 rolv_dialects:
   - rolv_code: 9145
     language_tag: dro-x-HIS09145

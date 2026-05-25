@@ -1,8 +1,6 @@
 ---
 iso: ywl
 name: Western Lalu
-name_zh: 西拉卢语
-name_zh_auto: true
 autonym: Western Yi
 alt_names: ["Lalu, Western", "Lalu,Western", Lolo, Yi, "Yi, Western Lalu"]
 population: 38000
@@ -15,6 +13,10 @@ glottocode: west1506
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Burmo-Qiangic > Lolo-Burmese > Loloish > Ni-Li-Kazhouish > Lisoid > Nuclear Lisoid > Lisu-Laluba-Lavu > Laluba-Lavu > Lalo > Greater Lalo > Core Lalo > Central-Western Lalo > Western Lalu"
+translations:
+  - translation_iso: zho
+    name: 西拉卢语
+    auto: true
 rolv_dialects:
   - rolv_code: 21197
     language_tag: ywl-x-HIS21197

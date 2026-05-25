@@ -1,7 +1,6 @@
 ---
 iso: mwl
 name: Mirandese
-name_zh: 米兰德斯语
 autonym: Mirandés
 alt_names: [Bahasa Miranda, Idioma mirandés, Język mirandyjski, Lenga mirandèisa, Lhéngua mirandesa, Limba mirandeză, Lingua Mirandica, Lingua mirandesa, Lingua mirandese, Luenga mirandesa, Língua mirandesa, Miranda do Douro, Miranda lingvo, Mirandais, Mirandees, Mirandeesi, Mirandeg, Mirandera, Mirandesa, Mirandesisk, Mirandesiska, Mirandski jezik, Mirandès, Mirandés-ngî, Mirandês, Миранд йылме, Мирандский язык, מירנדזית, لغة ميراندية, ミランダ語, 미란다어]
 population: 15000
@@ -16,6 +15,17 @@ glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Italic > Latino-Faliscan > Latinic > Imperial Latin > Romance > Italo-Western Romance > Western Romance > Shifted Western Romance > Southwestern Shifted Romance > West Ibero-Romance > Asturo-Leonese > Mirandese"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mirandese_language"
+translations:
+  - translation_iso: ara
+    name: الميراندية
+  - translation_iso: hin
+    name: मिरांडी
+  - translation_iso: jpn
+    name: ミランダ語
+  - translation_iso: kor
+    name: 미란다어
+  - translation_iso: zho
+    name: 米兰德斯语
 rolv_dialects:
   - rolv_code: 25246
     language_tag: mwl-x-HIS25246

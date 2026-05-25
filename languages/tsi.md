@@ -1,7 +1,6 @@
 ---
 iso: tsi
 name: Tsimshian
-name_zh: 钦西安语
 autonym: "Sm'algyax"
 alt_names: [Chimmezyan, Coast, Coast Tsimshian, Hartley Bay dialect, Lower Tsimshianic, Maritime, Sm̓algya̱x ( Coast Tsimshian), "Ts'emsia'n", Tsimpshean, Tsimshean, Tsimshian (Coast), Tsimshian de la côte, Zimshian]
 population: 150
@@ -16,6 +15,17 @@ glottolog_family_id: tsim1258
 glottolog_family_name: Tsimshian
 glottolog_classification: "Tsimshian > Southern-Coastal Tsimshian"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tsimshian_language"
+translations:
+  - translation_iso: ara
+    name: التسيمشيان
+  - translation_iso: hin
+    name: त्सिमीशियन
+  - translation_iso: jpn
+    name: ツィムシアン語
+  - translation_iso: kor
+    name: 트심시안어
+  - translation_iso: zho
+    name: 钦西安语
 rolv_dialects:
   - rolv_code: 123
     language_tag: tsi-x-HIS00123

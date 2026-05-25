@@ -1,8 +1,6 @@
 ---
 iso: huk
 name: Hulung
-name_zh: 胡隆语
-name_zh_auto: true
 autonym: null
 population: 10
 country_id: ID
@@ -15,5 +13,9 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Nunusaku > Three Rivers > Amalumute > Northwest Seram > Hulung"
 wikipedia_url: "https://en.wikipedia.org/wiki/Hulung_language"
+translations:
+  - translation_iso: zho
+    name: 胡隆语
+    auto: true
 ---
 Hulung is an extinct Austronesian language of Seram in the Maluku archipelago of Indonesia.

@@ -1,7 +1,6 @@
 ---
 iso: btx
 name: Batak Karo
-name_zh: 卡羅語
 autonym: Cakap Karo
 alt_names: [Bahasa Batak Karo, Batak (Karo), Karo Batak, Karo-Batak, バタク・カロ語]
 population: 600000
@@ -15,6 +14,13 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Sumatran > Batakic > Northern Batak > Batak Karo"
 wikipedia_url: "https://en.wikipedia.org/wiki/Batak_Karo_language"
+translations:
+  - translation_iso: ara
+    name: كارو باتاك
+  - translation_iso: jpn
+    name: カロ語
+  - translation_iso: zho
+    name: 卡羅語
 rolv_dialects:
   - rolv_code: 7858
     language_tag: btx-x-HIS07858

@@ -1,8 +1,6 @@
 ---
 iso: mhk
 name: Mungaka
-name_zh: 芒加卡语
-name_zh_auto: true
 autonym: Bali
 alt_names: [Li, "Munga'ka", "Nga'ka", Ngaaka]
 population: 50100
@@ -16,6 +14,10 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Wide Grassfields > Narrow Grassfields > Mbam-Nkam > Southern Mbam-Nkam > Mbam-Nkam Nun > Mungaka"
 wikipedia_url: "https://en.wikipedia.org/wiki/Nga%CA%BCka_language"
+translations:
+  - translation_iso: zho
+    name: 芒加卡语
+    auto: true
 rolv_dialects:
   - rolv_code: 14406
     language_tag: mhk-x-HIS14406

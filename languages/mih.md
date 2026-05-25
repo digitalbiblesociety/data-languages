@@ -1,8 +1,6 @@
 ---
 iso: mih
 name: Chayuco Mixtec
-name_zh: 查尤科混合语
-name_zh_auto: true
 autonym: "Cristobál-Chayuco"
 alt_names: [Eastern Jamiltepec-Chayuco Mixtec, Misteko, Mixtec, Mixtec (Chayuco), "Mixtec, Chayuco", Mixteco (Chayuco), Mixteco de Chayucu, Southern Misteko, Southern Mixteco]
 population: 10000
@@ -16,6 +14,10 @@ glottolog_family_id: otom1299
 glottolog_family_name: Otomanguean
 glottolog_classification: "Otomanguean > Eastern Otomanguean > Amuzgo-Mixtecan > Mixtecan > Mixtec-Cuicatec > Mixtec > Coast Mixtec > East Coast Mixtec > Chayuco Mixtec"
 wikipedia_url: "https://en.wikipedia.org/wiki/Chayuco-Jamiltepec_Mixtec"
+translations:
+  - translation_iso: zho
+    name: 查尤科混合语
+    auto: true
 rolv_dialects:
   - rolv_code: 26047
     language_tag: mih-x-HIS26047

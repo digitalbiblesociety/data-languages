@@ -1,7 +1,6 @@
 ---
 iso: dan
 name: Danish
-name_zh: 丹麦语
 autonym: dansk
 alt_names: [An Danmhairgis, Bahasa Denmark, Central Danish, Dan simi, Dan tili, Dana lingvo, Danca, Daneg, Danek, Daniana linguo, Daniera, Danimarka dili, Danois, Danouès, Dansk språk, Danska, Danski jezik, Danskt mál, Danu kalba, Danvargish, Danès, Danés, Danšćina, Danščina, Danų kalba, Deens, Deensk, Denisc sprǣc, Dens leid, Dán nyelv, Dánskkagiella, Dánčina, Dánština, Dänisch, Dänische Sprache, Dänisk, Däänsche Spraak, Dāņu valoda, Gjuha daneze, Idioma danés, IsiDenishi, Język duński, Kidenmark, Lenga danèisa, Limba daneză, Lingua Danica, Lingua danese, Lingua dinamarquesa, Lèngoa daneïse, Língua dinamarquesa, Qallunaatut, Sjaelland, Taani keel, Tanskan kieli, Tiếng Đan Mạch, Tok Denmak, Zimanê danîmarkî, Łéngua danéxe, Δανική γλώσσα, Даниаг æвзаг, Данмудн келн, Данонь кяль, Дански јазик, Дански језик, Данська мова, Датски език, Датский язык, Датчан йылме, Дацкая мова, Забони даниягӣ, Դանիերեն, דנית, دانىش تىلى, زبان دانمارکی, لغة دنماركية, डॅनिश भाषा, डेनिश भाषा, ডেনীয় ভাষা, டேனிய மொழி, ภาษาเดนมาร์ก, დანიური ენა, デンマーク語, 丹麦语, 덴마크어]
 population: 5618130
@@ -16,6 +15,17 @@ glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Germanic > Northwest Germanic > North Germanic > South Scandinavian > Danish"
 wikipedia_url: "https://en.wikipedia.org/wiki/Danish_language"
+translations:
+  - translation_iso: ara
+    name: الدنماركية
+  - translation_iso: hin
+    name: डेनिश भाषा
+  - translation_iso: jpn
+    name: デンマーク語
+  - translation_iso: kor
+    name: 덴마크어
+  - translation_iso: zho
+    name: 丹麦语
 rolv_dialects:
   - rolv_code: 24736
     language_tag: da-x-HIS24736

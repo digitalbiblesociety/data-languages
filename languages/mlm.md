@@ -1,7 +1,6 @@
 ---
 iso: mlm
 name: Mulam
-name_zh: 仫佬语
 autonym: Abo
 alt_names: [Ayo, Molao, Mulamo, Mulao, Mulao Miao, Muliao, Mulou, 仫佬語]
 population: 10000
@@ -15,6 +14,11 @@ glottolog_family_id: taik1256
 glottolog_family_name: Tai-Kadai
 glottolog_classification: "Tai-Kadai > Kam-Tai > Kam-Sui > Mulam-Kam > Mulam"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mulam_language"
+translations:
+  - translation_iso: jpn
+    name: ムーラオ語
+  - translation_iso: zho
+    name: 仫佬语
 rolv_dialects:
   - rolv_code: 6038
     language_tag: mlm-x-HIS06038

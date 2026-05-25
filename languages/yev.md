@@ -1,8 +1,6 @@
 ---
 iso: yev
 name: Yapunda
-name_zh: 亚普达语
-name_zh_auto: true
 autonym: Yeri
 alt_names: [Giro, Hiro, Reiwo]
 population: 60
@@ -16,5 +14,9 @@ glottolog_family_id: nucl1708
 glottolog_family_name: Nuclear Torricelli
 glottolog_classification: "Nuclear Torricelli > Wapei-Palei > West Palai > Agi-Yeri > Yeri"
 wikipedia_url: "https://en.wikipedia.org/wiki/Yapunda_language"
+translations:
+  - translation_iso: zho
+    name: 亚普达语
+    auto: true
 ---
 Yapunda, or Yeri, is a Torricelli language of Papua New Guinea.

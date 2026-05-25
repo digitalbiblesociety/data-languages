@@ -1,8 +1,6 @@
 ---
 iso: sss
 name: Sô
-name_zh: 索语
-name_zh_auto: true
 autonym: Bruu
 alt_names: [Bru, Kah So, Kha, Kha So, Makong, Mang Cong, Mang-Koong, Mangkong, Mankoong, So, So Makon, Thro]
 population: 233000
@@ -15,6 +13,10 @@ glottocode: sooo1254
 glottolog_family_id: aust1305
 glottolog_family_name: Austroasiatic
 glottolog_classification: "Austroasiatic > Katuic > West Katuic > Brou-So > Western Bru-So > Sô"
+translations:
+  - translation_iso: zho
+    name: 索语
+    auto: true
 rolv_dialects:
   - rolv_code: 531
     language_tag: sss-x-HIS00531

@@ -1,8 +1,6 @@
 ---
 iso: kis
 name: Kis
-name_zh: 基斯语
-name_zh_auto: true
 autonym: null
 population: 220
 country_id: PG
@@ -15,5 +13,9 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > North New Guinea linkage > Schouten linkage > Kairiru-Manam > Manamic linkage > Kis-Wogeo > Kis"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kis_language"
+translations:
+  - translation_iso: zho
+    name: 基斯语
+    auto: true
 ---
 Kis is an Oceanic language of East Sepik Province in Papua New Guinea. It is spoken to the southeast of Samap village in Turubu Rural LLG, East Sepik Province.

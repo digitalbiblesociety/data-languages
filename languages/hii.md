@@ -1,8 +1,6 @@
 ---
 iso: hii
 name: Hinduri
-name_zh: 欣杜里语
-name_zh_auto: true
 autonym: Handuri
 population: 47800
 country_id: IN
@@ -15,5 +13,13 @@ glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Indo-Aryan > Middle-Modern Indo-Aryan > Eastern Dardic > Himachali > Nuclear Himachali > Hinduri"
 wikipedia_url: "https://en.wikipedia.org/wiki/Hinduri_dialect"
+translations:
+  - translation_iso: hin
+    name: हन्दुरी भाषा
+  - translation_iso: jpn
+    name: ヒンドゥリ語
+  - translation_iso: zho
+    name: 欣杜里语
+    auto: true
 ---
 Hinduri is a Western Pahari language of northern India. It is spoken in southern Solan district in southern parts of Ramshehar Tehsil and in eastern Nalagarh. It was classified as a dialect under the Mahasui Keonthali Group.

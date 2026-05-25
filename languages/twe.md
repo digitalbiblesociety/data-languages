@@ -1,8 +1,6 @@
 ---
 iso: twe
 name: Tewa (Indonesia)
-name_zh: 印度尼西亚特瓦语
-name_zh_auto: true
 autonym: Tewa
 alt_names: [Indonesia, Teiwa]
 population: 5000
@@ -16,6 +14,10 @@ glottolog_family_id: timo1261
 glottolog_family_name: Timor-Alor-Pantar
 glottolog_classification: "Timor-Alor-Pantar > Alor-Pantar > Nuclear Alor-Pantar > West Alor-Straits-Pantar > Pantar > Teiwa-Sar > Teiwa"
 wikipedia_url: "https://en.wikipedia.org/wiki/Teiwa_language"
+translations:
+  - translation_iso: zho
+    name: 印度尼西亚特瓦语
+    auto: true
 rolv_dialects:
   - rolv_code: 3810
     language_tag: twe-x-HIS03810

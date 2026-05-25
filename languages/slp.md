@@ -1,8 +1,6 @@
 ---
 iso: slp
 name: Lamaholot
-name_zh: 拉玛霍洛特语
-name_zh_auto: true
 autonym: Solorese
 alt_names: [Solor]
 population: 225000
@@ -16,5 +14,11 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Bima-Lembata > Flores > Flores-Lembata > Lamaholot Barat > Flores Lamaholot > Lamaholot"
 wikipedia_url: "https://en.wikipedia.org/wiki/Lamaholot_language"
+translations:
+  - translation_iso: jpn
+    name: ラマホロット語
+  - translation_iso: zho
+    name: 拉玛霍洛特语
+    auto: true
 ---
 Lamaholot, also known as Solor or Solorese, is a Central Malayo-Polynesian dialect cluster of Flores, Indonesia. The varieties may not be all mutually intelligible; Keraf (1978) reports that there are 18 languages under the name.

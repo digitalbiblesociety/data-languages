@@ -1,8 +1,6 @@
 ---
 iso: lue
 name: Luvale
-name_zh: 卢瓦莱语
-name_zh_auto: true
 autonym: Chiluvale
 alt_names: [Lovale, Lubale, Luena, Lwena, Lwena (Luvale)]
 population: 475000
@@ -16,6 +14,12 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > Central-Western Bantu > Njila > Southern Njila > Chokwe-Lunda > Chokwe-Ngangela-Nyemba (K.20) > Chokwe-Lwena > Luvale"
 wikipedia_url: "https://en.wikipedia.org/wiki/Luvale_language"
+translations:
+  - translation_iso: jpn
+    name: ルヴァレ語
+  - translation_iso: zho
+    name: 卢瓦莱语
+    auto: true
 rolv_dialects:
   - rolv_code: 1545
     language_tag: lue-x-HIS01545

@@ -1,7 +1,6 @@
 ---
 iso: bsn
 name: "Barasana-Eduria"
-name_zh: 巴拉萨那语
 autonym: Taiwano
 alt_names: [Banera yae, Barasana, Barasana (Brésil), Barasana (Colombia), Barasana (Colombie), Barasana language, Barasano, Barasano (Southern), Bará (Brésil), Bará (Colombia), Bará (Colombie), Bará-Tuyuka, Come masa, Comematsa, Edulia, Eduria, Hanera oka, Janera, Makuna-Erulia, Paneroa, S Barasano, S. Barasano, Southern Barasano, Taibano, Taiwaeno, Tuyaca (Brésil), Tuyuca, Tuyuca (Colombia), Tuyuca (Colombie), Yebamasa]
 population: 1890
@@ -15,6 +14,9 @@ glottolog_family_id: tuca1253
 glottolog_family_name: Tucanoan
 glottolog_classification: "Tucanoan > Eastern Tucanoan > Western Eastern Tucanoan > Barasano-Eduria-Macuna > Barasana-Eduria"
 wikipedia_url: "https://en.wikipedia.org/wiki/Barasana-Eduria_language"
+translations:
+  - translation_iso: zho
+    name: 巴拉萨那语
 rolv_dialects:
   - rolv_code: 7768
     language_tag: bsn-x-HIS07768

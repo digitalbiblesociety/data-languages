@@ -1,8 +1,6 @@
 ---
 iso: agu
 name: Aguacateco
-name_zh: 阿瓜卡特克语
-name_zh_auto: true
 autonym: "Qa'yol"
 alt_names: [Aguacatec, Aguacateeks, Aguacatekisk, Aguatec Maya, Aguateca, Awakatek, Awakatek language, Awakateko, Idioma aguacateco, Lingua aguacateca, Língua aguacateca, Авакатечки јазик]
 population: 12500
@@ -16,6 +14,14 @@ glottolog_family_id: maya1287
 glottolog_family_name: Mayan
 glottolog_classification: "Mayan > Core Mayan > Quichean-Mamean > Greater Mamean > Ixilan > Aguacateco"
 wikipedia_url: "https://en.wikipedia.org/wiki/Awakatek_language"
+translations:
+  - translation_iso: jpn
+    name: アワカテコ語
+  - translation_iso: kor
+    name: 아와카텍어
+  - translation_iso: zho
+    name: 阿瓜卡特克语
+    auto: true
 rolv_dialects:
   - rolv_code: 24218
     language_tag: agu-x-HIS24218

@@ -1,8 +1,6 @@
 ---
 iso: bpr
 name: Blaan
-name_zh: 布兰语
-name_zh_auto: true
 autonym: Bilaan
 alt_names: [Baraan, Bilanes, Biraan, "Blaan, Koronadal", Koronadal Bilaan, Koronadal Blaan, Tagalagad]
 population: 150000
@@ -15,4 +13,8 @@ glottocode: koro1310
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Bilic > Tboli-Blaan > Blaan > Koronadal Blaan"
+translations:
+  - translation_iso: zho
+    name: 布兰语
+    auto: true
 ---

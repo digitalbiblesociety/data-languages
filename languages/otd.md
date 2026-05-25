@@ -1,7 +1,6 @@
 ---
 iso: otd
 name: Ot Danum
-name_zh: 奧圖·大能語
 autonym: Ot Danum
 alt_names: [Dohoi, Malahoi, Uud Danum, Uut Danum]
 population: 78800
@@ -15,6 +14,9 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Basap-Greater Barito > Greater Barito linkage > North West Greater Barito > Ot Danum"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ot_Danum_language"
+translations:
+  - translation_iso: zho
+    name: 奧圖·大能語
 rolv_dialects:
   - rolv_code: 4279
     language_tag: otd-x-HIS04279

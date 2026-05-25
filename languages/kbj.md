@@ -1,8 +1,6 @@
 ---
 iso: kbj
 name: Kari
-name_zh: 卡里语
-name_zh_auto: true
 autonym: "Li-Kari-Li"
 alt_names: [Carí, Kare]
 population: 1000
@@ -16,6 +14,10 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > Central-Western Bantu > North Zaire River > Rivers Bantu > Ngiri > Ngiri Terrien > Ngombe-Ababuan > Ababuan > Old Bomokandian > Ngbele-Ngenda > Extreme North Vestigial Suffixes Bantu > Kari"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kari_language"
+translations:
+  - translation_iso: zho
+    name: 卡里语
+    auto: true
 rolv_dialects:
   - rolv_code: 1211
     language_tag: kbj-x-HIS01211

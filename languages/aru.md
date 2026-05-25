@@ -1,7 +1,6 @@
 ---
 iso: aru
 name: Aruá
-name_zh: 阿拉瓦語
 autonym: Arawá
 alt_names: [Arauan, Arauá, Arawa, Aroã, Arua, Arua (Amazonas State), Aruá (Amazonas State), Aruán, Arúan, Madi]
 population: null
@@ -15,5 +14,10 @@ glottolog_family_id: araw1282
 glottolog_family_name: Arawan
 glottolog_classification: "Arawan > Arawá (Amazonas State)"
 wikipedia_url: "https://en.wikipedia.org/wiki/Araw%C3%A1_language"
+translations:
+  - translation_iso: jpn
+    name: アラワ語
+  - translation_iso: zho
+    name: 阿拉瓦語
 ---
 Arawá or Aruá was a language of Brazil. Its last speaker died in 1877, before any significant documentation of the language could be completed. The only surviving documentation of the language is an 1869 word list.

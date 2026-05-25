@@ -1,8 +1,6 @@
 ---
 iso: ksq
 name: Kwaami
-name_zh: 克瓦阿米语
-name_zh_auto: true
 autonym: Komawa
 alt_names: [Kwam, Kwamanchi, Kwami, Kwom]
 population: 10000
@@ -16,5 +14,9 @@ glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > West Chadic > West Chadic A > West Chadic A.2-3 > West Chadic A.2 > Tangalic > Nuclear Tangalic > Tangale-Kwami-Kupto > Kwami-Kupto > Kwaami"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kwaami_language"
+translations:
+  - translation_iso: zho
+    name: 克瓦阿米语
+    auto: true
 ---
 The Kwaami language, also known as Komawa, Kwam, Kwamanchi, Kwami, or Kwom, is a West Chadic language spoken in Bauchi State, Nigeria, near the city of Gombe.

@@ -1,7 +1,6 @@
 ---
 iso: scb
 name: Chut
-name_zh: 哲語
 autonym: "Ruc-Sach"
 alt_names: [Kha, May, Ruc, Sach, Salang, ภาษาชุต]
 population: 3830
@@ -15,6 +14,13 @@ glottolog_family_id: aust1305
 glottolog_family_name: Austroasiatic
 glottolog_classification: "Austroasiatic > Vietic > Chutic > East Chutic > Chut"
 wikipedia_url: "https://en.wikipedia.org/wiki/Chut_languages"
+translations:
+  - translation_iso: jpn
+    name: チュット語
+  - translation_iso: kor
+    name: 쯧어
+  - translation_iso: zho
+    name: 哲語
 rolv_dialects:
   - rolv_code: 8953
     language_tag: scb-x-HIS08953

@@ -1,7 +1,6 @@
 ---
 iso: kwk
 name: Kwakiutl
-name_zh: 夸夸嘉夸語
 autonym: Kwagiutl
 alt_names: ["Kwak'wala", "Kwakw'ala", "Kwakwaka'wakw", Kwakwala, Kwak̓wala, Southern Kwakiutl, Квакиутль]
 population: 190
@@ -16,6 +15,17 @@ glottolog_family_id: waka1280
 glottolog_family_name: Wakashan
 glottolog_classification: "Wakashan > Northern Wakashan > Kwakiutlan > Kwak'wala"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kwak%CA%BCwala"
+translations:
+  - translation_iso: ara
+    name: الكواكوالا
+  - translation_iso: hin
+    name: क्वॉकवाला
+  - translation_iso: jpn
+    name: クヮキゥートル語
+  - translation_iso: kor
+    name: 콰콸라어
+  - translation_iso: zho
+    name: 夸夸嘉夸語
 rolv_dialects:
   - rolv_code: 3482
     language_tag: kwk-x-HIS03482

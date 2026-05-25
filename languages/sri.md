@@ -1,8 +1,6 @@
 ---
 iso: sri
 name: Siriano
-name_zh: 西里亚诺语
-name_zh_auto: true
 autonym: Sʉraya
 alt_names: [Chiranga, Cirnga, Desana-Siriana, Desano (Brésil), Desano (Colombia), Desano (Colombie), Desano-Siriano, Sarirá, Si-Ra, Siria-Masã, Siriana, Siriane, Siriano (Brésil), Siriano (Colombia), Siriano (Colombie), Sirianó, Sura Masa, Surianá, Surirá, Suryana]
 population: 217
@@ -16,5 +14,9 @@ glottolog_family_id: tuca1253
 glottolog_family_name: Tucanoan
 glottolog_classification: "Tucanoan > Eastern Tucanoan > Western Eastern Tucanoan > Cubeo-Desano > Yupua-Siriano-Desano > Siriano-Desano > Siriano"
 wikipedia_url: "https://en.wikipedia.org/wiki/Siriano_language"
+translations:
+  - translation_iso: zho
+    name: 西里亚诺语
+    auto: true
 ---
 Siriano is a Tucanoan language of Colombia, with a few speakers in Brazil.

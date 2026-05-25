@@ -1,7 +1,6 @@
 ---
 iso: wbl
 name: Wakhi
-name_zh: 瓦罕语
 autonym: x̌ik zik / Х̌ ик зик
 alt_names: [Guhjali, Khik, Lingua vakhí, Língua wakhi, Vahanin kieli, Vahhi keel, Vakhan, Vakí, Wakhani, Wakheg, Wakhigi, Вахайнаг æвзаг, Вахански език, Ваханский язык, ภาษาวาคี]
 population: 52200
@@ -15,6 +14,15 @@ glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Iranian-Nuristani > Iranian > Saka-Wakhi > Wakhi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Wakhi_language"
+translations:
+  - translation_iso: hin
+    name: वख़ी
+  - translation_iso: jpn
+    name: ワヒ語
+  - translation_iso: kor
+    name: 와히어
+  - translation_iso: zho
+    name: 瓦罕语
 rolv_dialects:
   - rolv_code: 18119
     language_tag: wbl-x-HIS18119

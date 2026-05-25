@@ -1,7 +1,6 @@
 ---
 iso: ncb
 name: Central Nicobarese
-name_zh: 中尼科巴语支
 autonym: Nicobar
 alt_names: [Central, Muot, Muöt, Nancoury, Nancowry, Nicobarese, Nicobarese (Nancowry), "Nicobarese, Central", Nicobarés central, Zentraler Dialekt]
 population: 1400
@@ -15,6 +14,11 @@ glottolog_family_id: aust1305
 glottolog_family_name: Austroasiatic
 glottolog_classification: "Austroasiatic > Nicobaric > Nuclear Nicobaric > Central Nicobar > Central Nicobarese"
 wikipedia_url: "https://en.wikipedia.org/wiki/Central_Nicobarese_languages"
+translations:
+  - translation_iso: hin
+    name: मध्य निकोबारी भाषाएँ
+  - translation_iso: zho
+    name: 中尼科巴语支
 rolv_dialects:
   - rolv_code: 6416
     language_tag: ncb-x-HIS06416

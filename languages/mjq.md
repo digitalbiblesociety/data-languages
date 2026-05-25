@@ -1,8 +1,6 @@
 ---
 iso: mjq
 name: Malaryan
-name_zh: 玛拉让语
-name_zh_auto: true
 autonym: മലർയൻ
 alt_names: [Arayans, Karingal, Malai Arayan, Malayarayan, Malayarayar, Male Arayans, Maley Arayan, Vazhiyammar]
 population: null
@@ -16,5 +14,9 @@ glottolog_family_id: drav1251
 glottolog_family_name: Dravidian
 glottolog_classification: "Dravidian > South Dravidian > South Dravidian I > Tamil-Kannada > Tamil-Kota > Tamil-Toda > Tamil-Irula > Tamil-Kodagu > Tamil-Malayalam > Malayalamoid > Malaryan"
 wikipedia_url: "https://en.wikipedia.org/wiki/Malaryan_language"
+translations:
+  - translation_iso: zho
+    name: 玛拉让语
+    auto: true
 ---
 Malaryan is an extinct Dravidian language of Kerala and Tamil Nadu that was closely related to Malayalam.

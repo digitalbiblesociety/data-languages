@@ -1,8 +1,6 @@
 ---
 iso: kzs
 name: Sugut Dusun
-name_zh: 苏古特杜顺语
-name_zh_auto: true
 autonym: Dusun
 alt_names: ["Dusun, Sugut", Kadayan, Sugut, Sugut Kadazan, Tanggal, Tilau-Ilau]
 population: 12200
@@ -15,6 +13,10 @@ glottocode: sugu1243
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > North Borneo Malayo-Polynesian > Sabahan > Southwest Sabahan > Greater Dusunic > Dusunic > Kadazan-Sugut-Minokok > Sugut-Minokok Kadazan > Sugut Dusun"
+translations:
+  - translation_iso: zho
+    name: 苏古特杜顺语
+    auto: true
 rolv_dialects:
   - rolv_code: 9468
     language_tag: kzs-x-HIS09468

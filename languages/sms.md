@@ -1,7 +1,6 @@
 ---
 iso: sms
 name: Skolt Sami
-name_zh: 斯科尔特萨米语
 autonym: nuõrttsääʹmǩiõll
 alt_names: ["\"Lapp\"", Eastern, Eastern Saami, Kola, Kola Saami, Kolta, Kolta számi nyelv, Koltansaame, Koltta, Lappic, Lappisch, Lappish, Lingua sami skolt, Lopar, Língua sami de Skolt, Nuortalašgiella, Ostlappisch, Russian Lapp, Russisch-Lappisch, Saam, Saame, Saami skolt, "Saami, Skolt", Saamí de Skolt, Same, Sami skolt, "Sami, Skolt", Samieg Skolt, Skolt, Skolt Lapp, Skolt Lappish, Skolt Saami, Skolt dialect, Skolt-Lappisch, Skolt-Samisch, Skolt-samea lingvo, Skoltesamisk, Skoltesamisk språk, Skoltesamiska, Skoltlappisch, Skolto samių kalba, Skoltsamische Sprache, Skoltsamiska, east dialect, lapin kieli, lapon, lappisk, lopary, lpSkolt, ostlappischer Dialekt, russisch-lappische Gruppe, saamen kieli, saamskij jazyk, sabme, same-, sääʹmǩiõll, sāme-giellâ, Сколт-саамски език, Сколтски самиски јазик, колтта-саамский язык]
 population: 320
@@ -16,6 +15,17 @@ glottolog_family_id: ural1272
 glottolog_family_name: Uralic
 glottolog_classification: "Uralic > Saami > Eastern Saami > Mainland Eastern Saami > Skolt Saami"
 wikipedia_url: "https://en.wikipedia.org/wiki/Skolt_S%C3%A1mi"
+translations:
+  - translation_iso: ara
+    name: السكولت سامي
+  - translation_iso: hin
+    name: स्कोल्ट सामी
+  - translation_iso: jpn
+    name: スコルト・サーミ語
+  - translation_iso: kor
+    name: 스콜트 사미어
+  - translation_iso: zho
+    name: 斯科尔特萨米语
 rolv_dialects:
   - rolv_code: 16146
     language_tag: sms-x-HIS16146

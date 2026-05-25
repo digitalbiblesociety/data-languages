@@ -1,7 +1,6 @@
 ---
 iso: pej
 name: Northern Pomo
-name_zh: 北波莫语
 autonym: null
 alt_names: [Lenga pomo setentrional, N Pomo, N. Pomo, North Pomo, Pomo (Northern), Pomo du Nord, Pomo septentrional, "Pomo, Northern", Pomoan, Redwood Cañon]
 population: 1
@@ -15,6 +14,9 @@ glottolog_family_id: pomo1273
 glottolog_family_name: Pomoan
 glottolog_classification: "Pomoan > Russian River and Eastern > Russian River > Northern-Central Pomoan > Northern Pomo"
 wikipedia_url: "https://en.wikipedia.org/wiki/Northern_Pomo_language"
+translations:
+  - translation_iso: zho
+    name: 北波莫语
 rolv_dialects:
   - rolv_code: 26448
     language_tag: pej-x-HIS26448

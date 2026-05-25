@@ -1,8 +1,6 @@
 ---
 iso: gva
 name: Guana (Paraguay)
-name_zh: 瓜纳语(巴拉圭)
-name_zh_auto: true
 autonym: Guaná
 alt_names: [Cashquiha, Enlhet, Guana, Kashiha, Kashika, Kaskiha, Kaskihá, Vana peema]
 population: 280
@@ -16,6 +14,10 @@ glottolog_family_id: leng1261
 glottolog_family_name: Lengua-Mascoy
 glottolog_classification: "Lengua-Mascoy > Eastern Enlhet-Enenlhet > Guaná (Paraguay)"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kaskih%C3%A1_language"
+translations:
+  - translation_iso: zho
+    name: 瓜纳语(巴拉圭)
+    auto: true
 rolv_dialects:
   - rolv_code: 10368
     language_tag: gva-x-HIS10368

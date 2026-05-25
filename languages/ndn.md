@@ -1,8 +1,6 @@
 ---
 iso: ndn
 name: Ngundi
-name_zh: 恩贡迪语
-name_zh_auto: true
 autonym: Ingundi
 alt_names: [Ngondi]
 population: 3000
@@ -16,5 +14,9 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > Central-Western Bantu > North Zaire River > Rivers Bantu > Likouala-Sangha > Bwamba-Ngondi-Pande-Mbati-Aka > Ngundi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ngondi_language"
+translations:
+  - translation_iso: zho
+    name: 恩贡迪语
+    auto: true
 ---
 Ngondi (Ingundi) is a Bantu language of the Republic of Congo.

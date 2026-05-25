@@ -1,7 +1,6 @@
 ---
 iso: mgt
 name: Mongol
-name_zh: 蒙古語（新幾內亞）
 autonym: Mwakai
 alt_names: [Mongol-Kaimba]
 population: 340
@@ -15,5 +14,8 @@ glottolog_family_id: kera1258
 glottolog_family_name: Keram
 glottolog_classification: "Keram > Ulmapo > Mwakai-Pondi > Mwakai"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mwakai_language"
+translations:
+  - translation_iso: zho
+    name: 蒙古語（新幾內亞）
 ---
 Mwakai, also known as Mongol, is a Keram language of Papua New Guinea.

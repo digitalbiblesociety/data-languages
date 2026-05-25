@@ -1,8 +1,6 @@
 ---
 iso: cek
 name: Eastern Khumi Chin
-name_zh: 东库米钦语
-name_zh_auto: true
 autonym: Khumi Chin
 alt_names: ["Chin, Eastern Khumi"]
 population: 12000
@@ -15,6 +13,10 @@ glottocode: east2779
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Kuki-Chin-Naga > Kuki-Chin > Peripheral Kuki-Chin > Khomic > Eastern Khumi Chin"
+translations:
+  - translation_iso: zho
+    name: 东库米钦语
+    auto: true
 rolv_dialects:
   - rolv_code: 5182
     language_tag: cek-x-HIS05182

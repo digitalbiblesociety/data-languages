@@ -1,8 +1,6 @@
 ---
 iso: bnu
 name: Bentong
-name_zh: 本通语
-name_zh_auto: true
 autonym: "Bentong-Dentong"
 alt_names: [Dentong]
 population: 25000
@@ -16,5 +14,9 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Greater South Sulawesi > South Sulawesi > Makassaric > Nuclear Makassaric > Bentong"
 wikipedia_url: "https://en.wikipedia.org/wiki/Bentong_language"
+translations:
+  - translation_iso: zho
+    name: 本通语
+    auto: true
 ---
 Bentong is an Austronesian language of Sulawesi, Indonesia, that is closely related to Makassarese. This language is spoken on the border between the regencies of Barru and Bone, South Sulawesi.

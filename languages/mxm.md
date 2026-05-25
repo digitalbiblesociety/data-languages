@@ -1,8 +1,6 @@
 ---
 iso: mxm
 name: Meramera
-name_zh: 梅拉梅拉语
-name_zh_auto: true
 autonym: Melamela
 alt_names: [Ubili]
 population: 2000
@@ -16,6 +14,12 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > Meso Melanesian linkage > Willaumez linkage > Nakanai-Meramera > Meramera"
 wikipedia_url: "https://en.wikipedia.org/wiki/Meramera_language"
+translations:
+  - translation_iso: jpn
+    name: メラメラ語
+  - translation_iso: zho
+    name: 梅拉梅拉语
+    auto: true
 rolv_dialects:
   - rolv_code: 14013
     language_tag: mxm-x-HIS14013

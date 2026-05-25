@@ -1,8 +1,6 @@
 ---
 iso: gao
 name: Gants
-name_zh: 甘茨语
-name_zh_auto: true
 autonym: Gaj
 population: 1880
 country_id: PG
@@ -15,5 +13,9 @@ glottolog_family_id: nucl1709
 glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Madang > Kalamic-South Adelbert > South Adelbert > Sogeram > East Sogeram > Gants"
 wikipedia_url: "https://en.wikipedia.org/wiki/Gants_language"
+translations:
+  - translation_iso: zho
+    name: 甘茨语
+    auto: true
 ---
 Gants, or in native orthography Gaj, is a Madang language of Papua New Guinea.

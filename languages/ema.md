@@ -1,8 +1,6 @@
 ---
 iso: ema
 name: "Emai-Iuleha-Ora"
-name_zh: 埃迈-尤莱哈-奥拉语
-name_zh_auto: true
 autonym: Aoma
 alt_names: [Emai, Ivbiosakon, Kunibum, Ora (in Nigeria)]
 population: 220000
@@ -16,6 +14,10 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Akpes-Edoid > Edoid > North-Central Edoid > Central Plains Edoid > Emaic > Emai-Iuleha-Ora"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ivbiosakon_language"
+translations:
+  - translation_iso: zho
+    name: 埃迈-尤莱哈-奥拉语
+    auto: true
 rolv_dialects:
   - rolv_code: 2194
     language_tag: ema-x-HIS02194

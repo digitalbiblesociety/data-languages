@@ -1,7 +1,6 @@
 ---
 iso: quc
 name: "K'iche'"
-name_zh: 基切語
 autonym: Quiché
 alt_names: [Cachabel, Central, Central Quiché, Chiquel, Idioma quiché, Język kicze, "K'iche' (Mexique)", "K'iche', Central", "K'iché simi", Kiché, "K’iche' (Guatemala)", Língua quiché, Quiche, Quiché (México), Quiché-Sprache, Tiếng Quiche, Киче, Кически јазик, キチェ語, 基切語]
 population: 1680000
@@ -16,6 +15,17 @@ glottolog_family_id: maya1287
 glottolog_family_name: Mayan
 glottolog_classification: "Mayan > Core Mayan > Quichean-Mamean > Greater Quichean > Core Quichean > Quiche-Achi > K'iche'"
 wikipedia_url: "https://en.wikipedia.org/wiki/K%CA%BCiche%CA%BC_language"
+translations:
+  - translation_iso: ara
+    name: الكيشية
+  - translation_iso: hin
+    name: किश
+  - translation_iso: jpn
+    name: キチェ語
+  - translation_iso: kor
+    name: 키체어
+  - translation_iso: zho
+    name: 基切語
 rolv_dialects:
   - rolv_code: 3471
     language_tag: quc-x-HIS03471

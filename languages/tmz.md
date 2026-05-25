@@ -1,8 +1,6 @@
 ---
 iso: tmz
 name: Tamanaku
-name_zh: 塔马纳库语
-name_zh_auto: true
 autonym: Tamañkú
 alt_names: [Tamanaco]
 population: null
@@ -16,5 +14,9 @@ glottolog_family_id: cari1283
 glottolog_family_name: Cariban
 glottolog_classification: "Cariban > Venezuelan Cariban > Mapoyo-Tamanaku > Tamanaku"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tamanaku_language"
+translations:
+  - translation_iso: zho
+    name: 塔马纳库语
+    auto: true
 ---
 Tamanaku is an extinct Cariban language of Venezuela.

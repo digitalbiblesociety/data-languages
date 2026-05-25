@@ -1,7 +1,6 @@
 ---
 iso: jye
 name: "Judeo-Yemeni Arabic"
-name_zh: 猶太-葉門阿拉伯語
 autonym: "Judeo-Yemeni"
 alt_names: [Arabeg yuzev-yemenek, Arabic, "Arabic, Judeo-Yemeni", Judeo-Yemenite, Judeojemenski arapski, Jødejemenittisk arabisk, Yahudi Yemen Arapçası, Yemenite Judeo-Arabic, Јудео-јеменски арапски јазик, ภาษาอาหรับยิวเยเมน]
 population: 36300
@@ -15,6 +14,13 @@ glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Semitic > West Semitic > Central Semitic > Arabian > Arabic > Arabian Peninsula Arabic > Judeo-Muslim Sanaani Arabic > Judeo-Yemeni Arabic"
 wikipedia_url: "https://en.wikipedia.org/wiki/Judeo-Yemeni_Arabic"
+translations:
+  - translation_iso: ara
+    name: لهجة يهودية يمنية عربية
+  - translation_iso: jpn
+    name: ユダヤ・イエメン・アラビア語
+  - translation_iso: zho
+    name: 猶太-葉門阿拉伯語
 rolv_dialects:
   - rolv_code: 7110
     language_tag: jye-x-HIS07110

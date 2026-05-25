@@ -1,7 +1,6 @@
 ---
 iso: nii
 name: Nii
-name_zh: 尼語
 autonym: Ek Nii
 population: 12000
 country_id: PG
@@ -14,6 +13,9 @@ glottolog_family_id: nucl1709
 glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Chimbu-Wahgi > Wahgic > Nii"
 wikipedia_url: "https://en.wikipedia.org/wiki/Nii_language"
+translations:
+  - translation_iso: zho
+    name: 尼語
 rolv_dialects:
   - rolv_code: 3209
     language_tag: nii-x-HIS03209

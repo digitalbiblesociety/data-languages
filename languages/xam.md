@@ -1,7 +1,6 @@
 ---
 iso: xam
 name: ǀXam
-name_zh: 卡姆语
 autonym: "|Kamka!e"
 alt_names: ["!Kham", /Xam, "Língua !Xam", ǀXam jezik]
 population: null
@@ -15,6 +14,13 @@ glottolog_family_id: tuuu1241
 glottolog_family_name: Tuu
 glottolog_classification: "Tuu > !Ui > /Xam"
 wikipedia_url: "https://en.wikipedia.org/wiki/%C7%80Xam_language"
+translations:
+  - translation_iso: jpn
+    name: カム語
+  - translation_iso: kor
+    name: ǀ캄어
+  - translation_iso: zho
+    name: 卡姆语
 rolv_dialects:
   - rolv_code: 26232
     language_tag: xam-x-HIS26232

@@ -1,8 +1,6 @@
 ---
 iso: pai
 name: Pe
-name_zh: 佩语
-name_zh_auto: true
 autonym: Pai
 alt_names: [Dalong]
 population: 4000
@@ -16,5 +14,11 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Benue-Congo Plateau > Tarokoid > Yangkam-Tarok-Pe > Tarok-Pe > Pye"
 wikipedia_url: "https://en.wikipedia.org/wiki/Pe_language"
+translations:
+  - translation_iso: jpn
+    name: ピ語
+  - translation_iso: zho
+    name: 佩语
+    auto: true
 ---
 Pe, also spelled Pai or Pye, is a minor Plateau language of southeastern Plateau State, Nigeria. It is classified as a Tarokoid language by Roger Blench (2023).

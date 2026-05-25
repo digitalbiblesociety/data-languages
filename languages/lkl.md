@@ -1,8 +1,6 @@
 ---
 iso: lkl
 name: "Laeko-Libuat"
-name_zh: 拉埃科-利布阿特语
-name_zh_auto: true
 autonym: "Laeko-Libuat"
 alt_names: [Laeko, Laeko-Limbuat, Waitalu, Watalu, Watulu]
 population: 518
@@ -16,5 +14,9 @@ glottolog_family_id: nucl1708
 glottolog_family_name: Nuclear Torricelli
 glottolog_classification: "Nuclear Torricelli > Laeko-Libuat"
 wikipedia_url: "https://en.wikipedia.org/wiki/Laeko_language"
+translations:
+  - translation_iso: zho
+    name: 拉埃科-利布阿特语
+    auto: true
 ---
 Laeko, or Laeko-Libuat, is a Torricelli language of Papua New Guinea.

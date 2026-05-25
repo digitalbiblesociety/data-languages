@@ -1,7 +1,6 @@
 ---
 iso: pks
 name: Pakistan Sign Language
-name_zh: 巴基斯坦手语
 autonym: Isharon Ki Zubann
 alt_names: [Indo-Pakistani Sign Language (Karachi dialect)]
 population: 1080000
@@ -14,4 +13,11 @@ glottocode: paki1242
 glottolog_family_id: sign1238
 glottolog_family_name: Sign Language
 glottolog_classification: "Sign Language > L1 Sign Language > Indo-Pakistani-Nepalese Sign > Indo-Pakistani Sign > Pakistan Sign Language"
+translations:
+  - translation_iso: hin
+    name: पाकिसतान इशारा
+  - translation_iso: jpn
+    name: パキスタン手話
+  - translation_iso: zho
+    name: 巴基斯坦手语
 ---

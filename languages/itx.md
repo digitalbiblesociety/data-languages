@@ -1,8 +1,6 @@
 ---
 iso: itx
 name: Itik
-name_zh: 伊蒂克语
-name_zh_auto: true
 autonym: Betef
 alt_names: [Borto, Ittik, Ittik-Tor]
 population: 200
@@ -16,5 +14,9 @@ glottolog_family_id: toro1256
 glottolog_family_name: Tor-Orya
 glottolog_classification: "Tor-Orya > Tor > Itik"
 wikipedia_url: "https://en.wikipedia.org/wiki/Itik_language"
+translations:
+  - translation_iso: zho
+    name: 伊蒂克语
+    auto: true
 ---
 Itik is a Papuan language of Indonesia. It was not found in a 2005 language survey; it is not clear if this means it is no longer spoken or if the speakers have moved.

@@ -1,7 +1,6 @@
 ---
 iso: mfs
 name: Mexican Sign Language
-name_zh: 墨西哥手语
 autonym: lengua de señas mexicana
 alt_names: [LSM, Lenguaje Manual Mexicana, Lenguaje de Signos Mexicano, Lenguaje de las Manos, Lenguaje de las Manos    LSM, Língua de Sinais Mexicana]
 population: 130000
@@ -15,5 +14,14 @@ glottolog_family_id: sign1238
 glottolog_family_name: Sign Language
 glottolog_classification: "Sign Language > L1 Sign Language > LSFic > Mexican Sign Language"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mexican_Sign_Language"
+translations:
+  - translation_iso: ara
+    name: لغة الإشارة المكسيكية
+  - translation_iso: hin
+    name: मैक्सिकन सांकेतिक भाषा
+  - translation_iso: jpn
+    name: メキシコ手話
+  - translation_iso: zho
+    name: 墨西哥手语
 ---
 Mexican Sign Language is the predominant language of the Deaf community in Mexico. LSM is a complete and organized visual language, which is expressed with the hands, face, and body, with its own distinct history, community, and culture. There are several dialects based on regional variation and LSM may be learned as a second language by hearing and Deaf signers. LSM is closely related to French Sign Language (LSF) and American Sign Language (ASL), although it is mutually unintelligible.

@@ -1,8 +1,6 @@
 ---
 iso: mhd
 name: Mbugu
-name_zh: 姆布古语
-name_zh_auto: true
 autonym: Maʼa
 alt_names: ["Inner Ma'á", Kibwyo, Kimbugu, "Ma'a", "Ma'á", Mbougou, Mbugu Inner Mbugu, "Mixed Ma'a/Mbugu", Wa Maathi, "Wama'a"]
 population: 32000
@@ -16,6 +14,10 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > East Bantu > Northeast Savanna Bantu > Northeast Coastal Bantu > Pare-Taveta > Pareic > Mbugu"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mbugu_language"
+translations:
+  - translation_iso: zho
+    name: 姆布古语
+    auto: true
 rolv_dialects:
   - rolv_code: 27950
     language_tag: mhd-x-HIS27950

@@ -1,8 +1,6 @@
 ---
 iso: kka
 name: Kakanda
-name_zh: 卡坎达语
-name_zh_auto: true
 autonym: Hyabe
 alt_names: [Adyaktye, Akanda]
 population: 20000
@@ -16,6 +14,10 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Ebira-Nupoid > Macro-Nupoid > Nupoid > Dibo-Kupa > Kakanda"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kakanda_language"
+translations:
+  - translation_iso: zho
+    name: 卡坎达语
+    auto: true
 rolv_dialects:
   - rolv_code: 11359
     language_tag: kka-x-HIS11359

@@ -1,8 +1,6 @@
 ---
 iso: sny
 name: "Saniyo-Hiyewe"
-name_zh: 萨尼约-希耶韦语
-name_zh_auto: true
 autonym: Hiowe
 alt_names: [Sanio, Sanio-Hiowe]
 population: 1300
@@ -16,6 +14,10 @@ glottolog_family_id: sepi1257
 glottolog_family_name: Sepik
 glottolog_classification: "Sepik > Sepik Hill > Western Sepik Hill > Saniyo-Hiyewe"
 wikipedia_url: "https://en.wikipedia.org/wiki/Sanio_language"
+translations:
+  - translation_iso: zho
+    name: 萨尼约-希耶韦语
+    auto: true
 rolv_dialects:
   - rolv_code: 16303
     language_tag: sny-x-HIS16303

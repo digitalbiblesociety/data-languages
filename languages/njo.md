@@ -1,7 +1,6 @@
 ---
 iso: njo
 name: Ao Naga
-name_zh: 奧語
 autonym: Central Naga
 alt_names: [Ao, Ao Group, Aoeg, Aorr, Aó, Cholimi, Dupdoria, Hatiggorīa, Hatigoria, Język ao, Mongsen, Mongsen Ao language, Naga, "Naga, Ao", "Naga,Ao", Northern Naga, Nowgong, Paimi, Uri, ภาษาเอา]
 population: 260000
@@ -16,6 +15,13 @@ glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Kuki-Chin-Naga > Angami-Ao > Central Naga > Ao Naga"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ao_language"
+translations:
+  - translation_iso: hin
+    name: आओ भाषा
+  - translation_iso: jpn
+    name: アオ・ナガ語
+  - translation_iso: zho
+    name: 奧語
 rolv_dialects:
   - rolv_code: 14517
     language_tag: njo-x-HIS14517

@@ -1,7 +1,6 @@
 ---
 iso: psy
 name: Piscataway
-name_zh: 皮斯卡特維語
 autonym: Conoy
 alt_names: [Nanticoke-Conoy, Nanticoke-Piscataway]
 population: null
@@ -15,5 +14,10 @@ glottolog_family_id: algi1248
 glottolog_family_name: Algic
 glottolog_classification: "Algic > Algonquian-Blackfoot > Algonquian > Eastern Algonquian > Nanticoke-Conoy > Piscataway"
 wikipedia_url: "https://en.wikipedia.org/wiki/Piscataway_language"
+translations:
+  - translation_iso: ara
+    name: بيسكاتاواي
+  - translation_iso: zho
+    name: 皮斯卡特維語
 ---
 Piscataway is an extinct Algonquian language formerly spoken by the Piscataway, a dominant chiefdom in southern Maryland on the Western Shore of the Chesapeake Bay at time of contact with English settlers. Piscataway, also known as Conoy, is considered a dialect of Nanticoke.

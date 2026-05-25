@@ -1,7 +1,6 @@
 ---
 iso: pim
 name: Powhatan
-name_zh: 波瓦坦語
 autonym: Virginia Algonkian
 alt_names: [Powhatan-språket, Virginia Algonquian, Virginia Algonquianealg, Virginia Algonquin]
 population: null
@@ -15,5 +14,12 @@ glottolog_family_id: algi1248
 glottolog_family_name: Algic
 glottolog_classification: "Algic > Algonquian-Blackfoot > Algonquian > Eastern Algonquian > Powhatan"
 wikipedia_url: "https://en.wikipedia.org/wiki/Powhatan_language"
+translations:
+  - translation_iso: ara
+    name: بوهاتان
+  - translation_iso: jpn
+    name: ポウハタン語
+  - translation_iso: zho
+    name: 波瓦坦語
 ---
 Powhatan or Virginia Algonquian is an Eastern Algonquian subgroup of the Algonquian languages. It was formerly spoken by the Powhatan people of tidewater Virginia.

@@ -1,7 +1,6 @@
 ---
 iso: ecr
 name: Eteocretan
-name_zh: 埃泰爾克里特語
 autonym: null
 alt_names: [Eteo-Cretan]
 population: null
@@ -13,5 +12,10 @@ glottolog_family_id: uncl1493
 glottolog_family_name: Unclassifiable
 glottolog_classification: "Unclassifiable > Eteocretan"
 wikipedia_url: "https://en.wikipedia.org/wiki/Eteocretan_language"
+translations:
+  - translation_iso: jpn
+    name: 純正クレタ語
+  - translation_iso: zho
+    name: 埃泰爾克里特語
 ---
 Eteocretan is the pre-Greek language attested in a few alphabetic inscriptions of ancient Crete.

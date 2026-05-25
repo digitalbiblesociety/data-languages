@@ -1,8 +1,6 @@
 ---
 iso: ham
 name: Hewa
-name_zh: 赫瓦语
-name_zh_auto: true
 autonym: Sisimin
 alt_names: [Umairof, Yoliapi]
 population: 1600
@@ -16,6 +14,10 @@ glottolog_family_id: sepi1257
 glottolog_family_name: Sepik
 glottolog_classification: "Sepik > Sepik Hill > Western Sepik Hill > Hewa-April River > Hewa"
 wikipedia_url: "https://en.wikipedia.org/wiki/Hewa_language"
+translations:
+  - translation_iso: zho
+    name: 赫瓦语
+    auto: true
 rolv_dialects:
   - rolv_code: 10623
     language_tag: ham-x-HIS10623

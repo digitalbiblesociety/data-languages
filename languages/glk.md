@@ -1,7 +1,6 @@
 ---
 iso: glk
 name: Gilaki
-name_zh: 吉拉基語
 autonym: "گیلکی "
 alt_names: [Gelaki, Gila lingvo, Gilakeg, Gilani, Gilanice, Gileki, Guilaki, Guilani, Lingua gilaki, Гилянский язык, لغة كيلكية, گیلکی زوان, ภาษาคิเลกิ, ギラキ語, 吉拉基语]
 population: 2490000
@@ -16,6 +15,15 @@ glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Iranian-Nuristani > Iranian > Central Iranian PBS > Central Iranian PB > Northwestern Iranian > Caspian > Gilaki-Rudbari > Gilaki"
 wikipedia_url: "https://en.wikipedia.org/wiki/Gilaki_language"
+translations:
+  - translation_iso: ara
+    name: الكيلكية
+  - translation_iso: jpn
+    name: ギラキ語
+  - translation_iso: kor
+    name: 길란어
+  - translation_iso: zho
+    name: 吉拉基語
 rolv_dialects:
   - rolv_code: 10237
     language_tag: glk-x-HIS10237

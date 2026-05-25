@@ -1,7 +1,6 @@
 ---
 iso: prk
 name: Parauk
-name_zh: 巴饶克方言
 autonym: Va
 alt_names: [Baraog, Baroke, Paraok, Paruk Wa, Phalok, Praok, Wa]
 population: 805700
@@ -14,6 +13,9 @@ glottocode: para1301
 glottolog_family_id: aust1305
 glottolog_family_name: Austroasiatic
 glottolog_classification: "Austroasiatic > Khasi-Palaung > Palaungic > East Palaungic > Waic > Wa-Lawa > Nuclear Waic > South Wa"
+translations:
+  - translation_iso: zho
+    name: 巴饶克方言
 rolv_dialects:
   - rolv_code: 25349
     language_tag: prk-x-HIS25349

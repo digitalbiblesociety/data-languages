@@ -1,8 +1,6 @@
 ---
 iso: oki
 name: Okiek
-name_zh: 奥基克语
-name_zh_auto: true
 autonym: Akie
 alt_names: ["\"Ndorobo\"", Akiek, Kinare, Ogiek, Ogiek language, Okiekeg, Sogoo]
 population: 250
@@ -16,6 +14,12 @@ glottolog_family_id: nilo1247
 glottolog_family_name: Nilotic
 glottolog_classification: "Nilotic > Southern Nilotic > Kalenjin > Okiek-Akie > Okiek"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ogiek_language"
+translations:
+  - translation_iso: jpn
+    name: オキエク語
+  - translation_iso: zho
+    name: 奥基克语
+    auto: true
 rolv_dialects:
   - rolv_code: 15256
     language_tag: oki-x-HIS15256

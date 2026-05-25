@@ -1,8 +1,6 @@
 ---
 iso: kvh
 name: Komodo
-name_zh: 科莫多语
-name_zh_auto: true
 autonym: bahasa Komodo
 alt_names: [Indonesia]
 population: 700
@@ -16,5 +14,11 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Bima-Lembata > Flores > West-Central Flores > Manggaraiic > Komodo"
 wikipedia_url: "https://en.wikipedia.org/wiki/Komodo_language"
+translations:
+  - translation_iso: jpn
+    name: コモド語
+  - translation_iso: zho
+    name: 科莫多语
+    auto: true
 ---
 The Komodo language is a language spoken by the present-day inhabitants of Komodo Island, with a small population of speakers on mainland Flores, as well as by the extinct Komodo people.

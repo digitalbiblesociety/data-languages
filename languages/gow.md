@@ -1,8 +1,6 @@
 ---
 iso: gow
 name: Gorowa
-name_zh: 戈罗瓦语
-name_zh_auto: true
 autonym: Fiome
 alt_names: [Fiomi, Goroa, Gorwaa, Kimbulu, Ufiomi, Ufromi]
 population: 113000
@@ -16,5 +14,11 @@ glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Cushitic > South Cushitic > Greater West Rift South Cushitic > West Rift South Cushitic > Northern West Rift South Cushitic > Iraqwoid > Gorowa"
 wikipedia_url: "https://en.wikipedia.org/wiki/Gorowa_language"
+translations:
+  - translation_iso: jpn
+    name: ゴロア語
+  - translation_iso: zho
+    name: 戈罗瓦语
+    auto: true
 ---
 Gorowa is a Cushitic language spoken in Tanzania in the Dodoma and Manyara Regions.

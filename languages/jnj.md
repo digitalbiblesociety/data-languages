@@ -1,8 +1,6 @@
 ---
 iso: jnj
 name: Yemsa
-name_zh: 耶姆萨语
-name_zh_auto: true
 autonym: Yemsa
 alt_names: ["\"Janjerinya\"", "\"Janjero\"", "\"Janjor\"", "\"Yangaro\"", "\"Zinjero\"", Janjerinya, Janjero, Janjor, Yangaro, Yem, Yemma, Zinjero]
 population: 160000
@@ -16,6 +14,12 @@ glottolog_family_id: gong1255
 glottolog_family_name: Ta-Ne-Omotic
 glottolog_classification: "Ta-Ne-Omotic > Yemsa"
 wikipedia_url: "https://en.wikipedia.org/wiki/Yemsa_language"
+translations:
+  - translation_iso: jpn
+    name: イェム語
+  - translation_iso: zho
+    name: 耶姆萨语
+    auto: true
 rolv_dialects:
   - rolv_code: 18539
     language_tag: jnj-x-HIS18539

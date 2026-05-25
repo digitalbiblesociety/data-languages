@@ -1,8 +1,6 @@
 ---
 iso: aas
 name: Aasáx
-name_zh: 阿萨克斯语
-name_zh_auto: true
 autonym: Aasá
 alt_names: ["\"Dorobo\"", "\"Ndorobo\"", Aasax, Aasax hizkuntza, Aasáx jezik, Asa, Asak, Asakeg, Asax, Assa, Asá, Il Konono, Lamanik]
 population: 350
@@ -16,5 +14,9 @@ glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Cushitic > South Cushitic > Aasax"
 wikipedia_url: "https://en.wikipedia.org/wiki/Asa_language"
+translations:
+  - translation_iso: zho
+    name: 阿萨克斯语
+    auto: true
 ---
 The Asa (Aasá) language, commonly rendered Aasax, is an Afroasiatic language formerly spoken by the Asa people of Tanzania. The language is extinct; ethnic Assa in northern Tanzania remember only a few words they overheard their elders use, and none ever used it themselves. Little is known of the language; what is recorded was probably Aasa lexical words used in a register of Maasai, similar to the mixed language Mbugu.

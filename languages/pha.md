@@ -1,7 +1,6 @@
 ---
 iso: pha
 name: "Pa-Hng"
-name_zh: 巴哼语
 autonym: Pateng
 alt_names: [Baheng, Baheng (Chine), Baheng (Viet Nam), Baheng (Vietnam), Bahengmai, Man Pa Seng, Meo Lai, Pa Hng, Pa Ngng, Pa Then, Pa-heng, Pa-wu, Paheng, Pà Hung, Pà Then, Tóng]
 population: 10000
@@ -15,6 +14,11 @@ glottolog_family_id: hmon1336
 glottolog_family_name: Hmong-Mien
 glottolog_classification: "Hmong-Mien > Hmongic > Paheng-Younuo > Paheng > Pa-Hng"
 wikipedia_url: "https://en.wikipedia.org/wiki/Pa-Hng_language"
+translations:
+  - translation_iso: jpn
+    name: Pa-Hng語
+  - translation_iso: zho
+    name: 巴哼语
 rolv_dialects:
   - rolv_code: 27020
     language_tag: pha-x-HIS27020

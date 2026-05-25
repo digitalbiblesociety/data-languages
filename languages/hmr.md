@@ -1,7 +1,6 @@
 ---
 iso: hmr
 name: Hmar
-name_zh: 和马语
 autonym: Manmasi
 alt_names: [Hamar, Hmari, Mhar, ภาษาฮมาร์]
 population: 99000
@@ -15,6 +14,13 @@ glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Kuki-Chin-Naga > Kuki-Chin > Central Kuki-Chin > Core Central Kuki-Chin > Mizoic > Hmaric > Hmar"
 wikipedia_url: "https://en.wikipedia.org/wiki/Hmar_language"
+translations:
+  - translation_iso: hin
+    name: म्हार भाषा
+  - translation_iso: jpn
+    name: フマール語
+  - translation_iso: zho
+    name: 和马语
 rolv_dialects:
   - rolv_code: 6174
     language_tag: hmr-x-HIS06174

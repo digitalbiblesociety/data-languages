@@ -1,8 +1,6 @@
 ---
 iso: jac
 name: "Popti'"
-name_zh: 波普蒂语
-name_zh_auto: true
 autonym: Poptiʼ
 alt_names: [Eastern, Idioma jacalteco, Jacaltec, Jacalteco, Jacalteeks, Jakalteco, Jakaltek, Jakaltek language, Jakaltekisk, Jakalteko, "Jakalteko, Eastern", Língua jacalteca, Poptí, Хакалтекски јазик, 하칼테크어]
 population: 33130
@@ -16,6 +14,14 @@ glottolog_family_id: maya1287
 glottolog_family_name: Mayan
 glottolog_classification: "Mayan > Core Mayan > Western Mayan > Kanjobalan-Chujean > Kanjobalan > Kanjobal-Jacaltec > Popti'"
 wikipedia_url: "https://en.wikipedia.org/wiki/Jakaltek_language"
+translations:
+  - translation_iso: jpn
+    name: ハカルテク語
+  - translation_iso: kor
+    name: 하칼테크어
+  - translation_iso: zho
+    name: 波普蒂语
+    auto: true
 rolv_dialects:
   - rolv_code: 542
     language_tag: jac-x-HIS00542

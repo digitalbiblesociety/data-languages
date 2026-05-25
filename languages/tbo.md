@@ -1,8 +1,6 @@
 ---
 iso: tbo
 name: Tawala
-name_zh: 塔瓦拉语
-name_zh_auto: true
 autonym: Kehelala
 alt_names: [Tavara, Tawara]
 population: 10000
@@ -16,6 +14,12 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > Papuan Tip linkage > Nuclear Papuan Tip linkage > North Papuan Mainland-D'Entrecasteaux linkage > Are-Taupota linkage > Taupota linkage > Nuclear Taupota linkage > Tawala"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tawala_language"
+translations:
+  - translation_iso: jpn
+    name: タワラ語
+  - translation_iso: zho
+    name: 塔瓦拉语
+    auto: true
 rolv_dialects:
   - rolv_code: 500
     language_tag: tbo-x-HIS00500

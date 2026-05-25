@@ -1,8 +1,6 @@
 ---
 iso: ahg
 name: Qimant
-name_zh: 齐曼特语
-name_zh_auto: true
 autonym: Kemantney
 alt_names: [Agaw, Chemant, Falasha, Falaša, "K'emant", Kamant, Kemanat, Kemant, Kimant, Kimanteney, Kwara, Lenga Qimant, Qemant, Qimant hizkuntza, Qimant jezik, Western Agaw]
 population: 1650
@@ -16,6 +14,10 @@ glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Cushitic > Agaw > Northern-Eastern-Western Agaw > Qimant"
 wikipedia_url: "https://en.wikipedia.org/wiki/Qimant_language"
+translations:
+  - translation_iso: zho
+    name: 齐曼特语
+    auto: true
 rolv_dialects:
   - rolv_code: 6725
     language_tag: ahg-x-HIS06725

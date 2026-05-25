@@ -1,8 +1,6 @@
 ---
 iso: apl
 name: Lipan Apache
-name_zh: 利潘阿帕奇语
-name_zh_auto: true
 autonym: Lipan
 alt_names: [Apache, "Apache, Lipan", Eastern Apache, Lipán, Липан]
 population: 100
@@ -16,5 +14,9 @@ glottolog_family_id: atha1245
 glottolog_family_name: Athabaskan-Eyak-Tlingit
 glottolog_classification: "Athabaskan-Eyak-Tlingit > Athabaskan-Eyak > Athabaskan > Apachean > Southwestern Apachean > Eastern Southwestern Apachean > Lipan Apache"
 wikipedia_url: "https://en.wikipedia.org/wiki/Lipan_language"
+translations:
+  - translation_iso: zho
+    name: 利潘阿帕奇语
+    auto: true
 ---
 Lipan is an Eastern Southern Athabaskan language spoken by the Lipan Apache in the states of Coahuila and Chihuahua in northern Mexico, some reservations of New Mexico and parts of southern Texas. Lipan belongs to the Na-Dene languages family and it is closely related to the Jicarilla language, which is also part of the Eastern Southern Athabaskan languages.

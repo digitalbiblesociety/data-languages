@@ -1,8 +1,6 @@
 ---
 iso: woa
 name: Kuwema
-name_zh: 库韦马语
-name_zh_auto: true
 autonym: Mullukmulluk
 alt_names: [Cherait, Cherite, Cherites, Dak Tjerratj, Daktjerat, Daktyerat, Daktyeraty, Dek Tjerratj, Dek Tjirratj, Djeradj, Djerag, Djeraidj, Djeraidy, Djerait, Djeraity, Djiratj, Dyeraidy, Guwe, Guwema, Jeerite, Kuwama, Nguluk Angguwe, Northern Daly language, Paperbark natives, Ponga Ponga, Ponga-ponga, Pungupungu, Scherits, Sherait, Tjerait, Tjerratj, Tjiras, Tyaraity, Tyeraity, Tyerratj, Tyerraty]
 population: null
@@ -15,4 +13,8 @@ glottocode: tyar1236
 glottolog_family_id: nort1547
 glottolog_family_name: Northern Daly
 glottolog_classification: "Northern Daly > Tyaraity"
+translations:
+  - translation_iso: zho
+    name: 库韦马语
+    auto: true
 ---

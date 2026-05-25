@@ -1,8 +1,6 @@
 ---
 iso: hsh
 name: Hungarian Sign Language
-name_zh: 匈牙利手语
-name_zh_auto: true
 autonym: Magyar Jelnyelv
 alt_names: [Jelnyelv, Magyar]
 population: 11200
@@ -16,6 +14,12 @@ glottolog_family_id: sign1238
 glottolog_family_name: Sign Language
 glottolog_classification: "Sign Language > L1 Sign Language > LSFic > Central European Sign > Nuclear Central European Sign > Hungarian Sign Language"
 wikipedia_url: "https://en.wikipedia.org/wiki/Hungarian_Sign_Language"
+translations:
+  - translation_iso: jpn
+    name: ハンガリー手話
+  - translation_iso: zho
+    name: 匈牙利手语
+    auto: true
 rolv_dialects:
   - rolv_code: 20837
     language_tag: hsh-x-HIS20837

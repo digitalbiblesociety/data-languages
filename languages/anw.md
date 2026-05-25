@@ -1,7 +1,6 @@
 ---
 iso: anw
 name: Anaang
-name_zh: 阿南语
 autonym: Anang
 alt_names: [Annang]
 population: 2740000
@@ -15,6 +14,11 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Delta Cross > Lower Cross > Nuclear Lower Cross > Central Lower Cross > Efikic > Okop Usem > Anaang"
 wikipedia_url: "https://en.wikipedia.org/wiki/Anaang_language"
+translations:
+  - translation_iso: jpn
+    name: アナン語
+  - translation_iso: zho
+    name: 阿南语
 rolv_dialects:
   - rolv_code: 6976
     language_tag: anw-x-HIS06976

@@ -1,7 +1,6 @@
 ---
 iso: mak
 name: Makasar
-name_zh: 望加锡语
 autonym: Bahasa Makassar
 alt_names: [Goa, Macassar, Macassarese, Makassa, Makassaarsche, Makassar, Makassar-Bugis, Makassar-Sprache, Makassarese, Makassarese language, Makassarin kieli, Makassarisch, Makassariska, Mangasara, Mengkasara, Taena, Tena, ภาษามากัสซาร์]
 population: 1710000
@@ -16,6 +15,17 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Greater South Sulawesi > South Sulawesi > Makassaric > Nuclear Makassaric > Makasar"
 wikipedia_url: "https://en.wikipedia.org/wiki/Makassarese_language"
+translations:
+  - translation_iso: ara
+    name: الماكاسار
+  - translation_iso: hin
+    name: मकासर
+  - translation_iso: jpn
+    name: マカッサル語
+  - translation_iso: kor
+    name: 마카사르어
+  - translation_iso: zho
+    name: 望加锡语
 rolv_dialects:
   - rolv_code: 13351
     language_tag: mak-x-HIS13351

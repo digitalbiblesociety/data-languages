@@ -1,7 +1,6 @@
 ---
 iso: seh
 name: Sena
-name_zh: 塞纳语
 autonym: null
 alt_names: [Chisena, Cisena, Język sena]
 population: 2030000
@@ -16,6 +15,17 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > East Bantu > Tumbuka-Sena-Nyanja > Sena-Nyanja > Senaic > Sena"
 wikipedia_url: "https://en.wikipedia.org/wiki/Sena_language"
+translations:
+  - translation_iso: ara
+    name: سينا
+  - translation_iso: hin
+    name: सेना
+  - translation_iso: jpn
+    name: セナ語
+  - translation_iso: kor
+    name: 세나어
+  - translation_iso: zho
+    name: 塞纳语
 rolv_dialects:
   - rolv_code: 1143
     language_tag: seh-x-HIS01143

@@ -1,8 +1,6 @@
 ---
 iso: mix
 name: Mixtepec Mixtec
-name_zh: 混特佩克混合语
-name_zh_auto: true
 autonym: (San Juan Mixtepec)
 alt_names: [Eastern Juxtlahuaca Mixtec, "Mixtec, Mixtepec", Mixteco de Oeste Central, Mixteco de San Juan Mixtepec, Northern Misteko, Northern Mixteco]
 population: 2500
@@ -16,6 +14,10 @@ glottolog_family_id: otom1299
 glottolog_family_name: Otomanguean
 glottolog_classification: "Otomanguean > Eastern Otomanguean > Amuzgo-Mixtecan > Mixtecan > Mixtec-Cuicatec > Mixtec > Mixtepec-Yucunicoco Mixtec > Mixtepec Mixtec"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mixtepec_Mixtec"
+translations:
+  - translation_iso: zho
+    name: 混特佩克混合语
+    auto: true
 rolv_dialects:
   - rolv_code: 4052
     language_tag: mix-x-HIS04052

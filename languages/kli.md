@@ -1,8 +1,6 @@
 ---
 iso: kli
 name: Kalumpang
-name_zh: 卡隆帕语
-name_zh_auto: true
 autonym: Galumpang
 alt_names: [Azarbaydjanian, "Ma'ki", Maki, Makki, Mangki, Mangkir, Nordost-Celebes]
 population: 12000
@@ -16,6 +14,10 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Greater South Sulawesi > South Sulawesi > Northern South Sulawesi > Toraja-Duri > Torajic > Kalumpangic > Kalumpang"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kalumpang_language"
+translations:
+  - translation_iso: zho
+    name: 卡隆帕语
+    auto: true
 rolv_dialects:
   - rolv_code: 11435
     language_tag: kli-x-HIS11435

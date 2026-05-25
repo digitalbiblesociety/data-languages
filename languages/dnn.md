@@ -1,8 +1,6 @@
 ---
 iso: dnn
 name: Dzùùngoo
-name_zh: 祖恩戈语
-name_zh_auto: true
 autonym: Eastern Duun
 alt_names: [Dzuungoo, Kpango, Samogho, Samogo, Samoro]
 population: 13400
@@ -15,6 +13,10 @@ glottocode: dzuu1241
 glottolog_family_id: mand1469
 glottolog_family_name: Mande
 glottolog_classification: "Mande > Western Mande > Northwestern Mande > Duun-Bobo > Duun-Jo > Duun-Seenku > Duun > Samogogouanic > Dzùùngoo"
+translations:
+  - translation_iso: zho
+    name: 祖恩戈语
+    auto: true
 rolv_dialects:
   - rolv_code: 3080
     language_tag: dnn-x-HIS03080

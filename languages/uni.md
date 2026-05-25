@@ -1,8 +1,6 @@
 ---
 iso: uni
 name: Uni
-name_zh: 乌尼语
-name_zh_auto: true
 autonym: Ramo
 population: 670
 country_id: PG
@@ -14,6 +12,10 @@ glottolog_family_id: skoo1245
 glottolog_family_name: Sko
 glottolog_classification: "Sko > Skou-Serra-Piore > Barupu Lagoon > Uni"
 wikipedia_url: "https://en.wikipedia.org/wiki/Uni_language"
+translations:
+  - translation_iso: zho
+    name: 乌尼语
+    auto: true
 rolv_dialects:
   - rolv_code: 26185
     language_tag: uni-x-HIS26185

@@ -1,8 +1,6 @@
 ---
 iso: xtp
 name: San Miguel Piedras Mixtec
-name_zh: 圣米格尔-皮埃德拉斯-米斯特克语
-name_zh_auto: true
 autonym: Mixteco de San Miguel Piedras
 alt_names: [Central Misteko, Central Nochistlán Mixtec, Centreal Mixteco, Diuxi-Tilantongo Mixtec, Eastern Alta Mixtec, Eastern Mixtec, Huitepec Mixtec, Mitlatongo Mixtec, "Mixtec, San Miguel Piedras", Mixteco bajo de Valles, Mixteco de Diuxi-Tilantongo, Mixteco de Huitepec, Mixteco de Mitlatongo, Mixteco de San Antonio Huitepec, Mixteco de San Juan Tamazola, Mixteco de San Pedro Tidaá, Mixteco de Santa María Peñoles, Mixteco de Santiago Tlazoyaltepec, Mixteco de Santo Domingo Nuxaá, Mixteco de Tidaá, Mixteco de Yutanduchi, Mixteco de Yutanduchi de Guerrero, Mixteco de Zaachila, Mixteco del Sureste de Nochixtlán, Mixteco del este central, North Central Nochixtlán Mixtec, Peñoles Mixtec, Sindihui Mixtec, Southeastern Nochixtlán Mixtec, Southern Nochixtlan Mixtec, Tamazola Mixtec, Tidaá Mixtec, Tlazoyaltepec Mixtec, Yutanduchi Mixtec]
 population: 1123
@@ -16,5 +14,9 @@ glottolog_family_id: otom1299
 glottolog_family_name: Otomanguean
 glottolog_classification: "Otomanguean > Eastern Otomanguean > Amuzgo-Mixtecan > Mixtecan > Mixtec-Cuicatec > Mixtec > Eastern Alta Mixtec > Southeastern Alta Mixtec > Teozacoalco Mixtec > Sindihuic > San Miguel Piedras Mixtec"
 wikipedia_url: "https://en.wikipedia.org/wiki/San_Miguel_Piedras_Mixtec"
+translations:
+  - translation_iso: zho
+    name: 圣米格尔-皮埃德拉斯-米斯特克语
+    auto: true
 ---
 San Miguel Piedras Mixtec is a moribund Mixtec language of Oaxaca. It is not close to other varieties of Mixtec.

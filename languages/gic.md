@@ -1,8 +1,6 @@
 ---
 iso: gic
 name: Gail
-name_zh: 盖尔语
-name_zh_auto: true
 autonym: Gail
 alt_names: [Gail jezik, Gaileg, Gayle language, Língua gail, South Africa]
 population: null
@@ -16,5 +14,13 @@ glottolog_family_id: uncl1493
 glottolog_family_name: Unclassifiable
 glottolog_classification: "Unclassifiable > Gail"
 wikipedia_url: "https://en.wikipedia.org/wiki/Gayle_language"
+translations:
+  - translation_iso: jpn
+    name: ゲイル言語
+  - translation_iso: kor
+    name: 가일어
+  - translation_iso: zho
+    name: 盖尔语
+    auto: true
 ---
 Gayle, or Gail, is an English- and Afrikaans-based gay argot or slang used primarily by English and Afrikaans-speaking homosexual men in urban communities of South Africa, and is similar in some respects to Polari in the United Kingdom, from which some lexical items have been borrowed. The equivalent language used by gay South African men who speak Bantu languages is called IsiNgqumo, and is based on a Nguni lexicon.

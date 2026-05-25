@@ -1,8 +1,6 @@
 ---
 iso: muc
 name: Ajumbu
-name_zh: 阿朱姆布语
-name_zh_auto: true
 autonym: Ajumbu
 alt_names: [Cameroon, "Mbu'"]
 population: 1000
@@ -16,5 +14,9 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Yemne-Kimbi > Ajumbu"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mbu%CA%BC_language"
+translations:
+  - translation_iso: zho
+    name: 阿朱姆布语
+    auto: true
 ---
 Mbuʼ, or Ajumbu, is a Southern Bantoid language of Cameroon. It is traditionally classified as a Western Beboid language, but that has not been demonstrated to be a valid family. Inasmuch as Western Beboid may be valid, Mbuʼ would appear to be the most divergent of its languages.

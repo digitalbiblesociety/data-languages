@@ -1,7 +1,6 @@
 ---
 iso: aml
 name: "War-Jaintia"
-name_zh: 瓦尔语
 autonym: वार भाषा
 alt_names: [Amwi, Lakadong, Waar, War, War language, War-Jaintia jezik, Wareg, Waːr]
 population: 68000
@@ -15,5 +14,10 @@ glottolog_family_id: aust1305
 glottolog_family_name: Austroasiatic
 glottolog_classification: "Austroasiatic > Khasi-Palaung > Khasian > War-Jaintia"
 wikipedia_url: "https://en.wikipedia.org/wiki/War_language"
+translations:
+  - translation_iso: hin
+    name: वार भाषा
+  - translation_iso: zho
+    name: 瓦尔语
 ---
 War is an Austroasiatic language in the Khasic branch spoken in Meghalaya in India and Bangladesh. It is spoken by about 51,000 people in India and 16,000 people in Bangladesh.

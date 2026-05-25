@@ -1,13 +1,23 @@
 ---
 iso: twi
 name: Twi
-name_zh: 契維語
 autonym: Akwapem Twi
 population: 24000
 country_id: GH
 country_name: Ghana
 status_id: null
 wikipedia_url: "https://en.wikipedia.org/wiki/Twi"
+translations:
+  - translation_iso: ara
+    name: توي
+  - translation_iso: hin
+    name: ट्वी
+  - translation_iso: jpn
+    name: トウィ語
+  - translation_iso: kor
+    name: 트위어
+  - translation_iso: zho
+    name: 契維語
 rolv_dialects:
   - rolv_code: 360
     language_tag: tw-x-HIS00360

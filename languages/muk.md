@@ -1,8 +1,6 @@
 ---
 iso: muk
 name: Mugom
-name_zh: 穆戈姆语
-name_zh_auto: true
 autonym: Mugali
 alt_names: [Mugu, Mugum]
 population: 6500
@@ -16,6 +14,10 @@ glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Bodic > Bodish > Early Old Tibetan > Middle Old Tibetan > Late Old Tibetan > Central Tibetan > South-Western Tibetic > Mustangic > Mugom"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mugom_dialect"
+translations:
+  - translation_iso: zho
+    name: 穆戈姆语
+    auto: true
 rolv_dialects:
   - rolv_code: 22437
     language_tag: muk-x-HIS22437

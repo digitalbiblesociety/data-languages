@@ -1,7 +1,6 @@
 ---
 iso: dga
 name: Southern Dagaare
-name_zh: 達加雷語
 autonym: Dagaare
 alt_names: ["Dagaare, Southern", Dagaari, Dagara, Dagare, Dagari, Dagati, Dagatri, Dagatsi, Degati, Dogaari, Southern Dagari]
 population: 924000
@@ -15,6 +14,13 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Gur > Central Gur > Northern Central Gur > Bwamu-Oti-Volta > Oti-Volta > Nuclear Oti-Volta > Gurma-Yom-Oti-Volta Occidental > Oti-Volta Occidental > Nuclear Oti-Volta Occidental > Northwest Oti-Volta > Safaliba-Dagaare > Dagaaric > Central-South Dagaric > Central Dagaare"
 wikipedia_url: "https://en.wikipedia.org/wiki/Dagaare_language"
+translations:
+  - translation_iso: ara
+    name: لغة داجاري
+  - translation_iso: jpn
+    name: ダガリ語
+  - translation_iso: zho
+    name: 達加雷語
 rolv_dialects:
   - rolv_code: 19445
     language_tag: dga-x-HIS19445

@@ -1,8 +1,6 @@
 ---
 iso: kkm
 name: Kiong
-name_zh: 基翁语
-name_zh_auto: true
 autonym: Kayon
 alt_names: [Akayon, Akoiyang, Iyoniyong, Okonyong, Okoyong]
 population: 100
@@ -16,5 +14,9 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Delta Cross > Upper Cross > Kiong-Korop > Kiong"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kiong_language"
+translations:
+  - translation_iso: zho
+    name: 基翁语
+    auto: true
 ---
 Kiong, or Kayon, is a nearly extinct Upper Cross River language of Nigeria. Okoyong speakers of the Kiong language are geographically located in the Odukpani, Akamkpa and Biase local government areas of Cross River State. This language was documented in 1990s, and it have 25 speakers counted in 1998. But in 2010, only 8 elders were able to speak Kiong, leaving the language critically endangered/nearly extinct.

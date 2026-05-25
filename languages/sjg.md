@@ -1,8 +1,6 @@
 ---
 iso: sjg
 name: Assangori
-name_zh: 阿桑戈里语
-name_zh_auto: true
 autonym: Assangori
 alt_names: [Asong, Asongori, Assagori, Assoungor, Asungore, Azangori, Azanguri, Bognak-Asungorung, Erenga, Madungore, Shaale, Soungor, Sungor, Sungor language]
 population: 23500
@@ -16,6 +14,10 @@ glottolog_family_id: tama1329
 glottolog_family_name: Tamaic
 glottolog_classification: "Tamaic > Tama-Sungor-Miisiirii > Tama-Sungor > Assangori"
 wikipedia_url: "https://en.wikipedia.org/wiki/Sungor_language"
+translations:
+  - translation_iso: zho
+    name: 阿桑戈里语
+    auto: true
 rolv_dialects:
   - rolv_code: 7298
     language_tag: sjg-x-HIS07298

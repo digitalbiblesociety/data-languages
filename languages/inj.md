@@ -1,8 +1,6 @@
 ---
 iso: inj
 name: Jungle Inga
-name_zh: 丛林因加语
-name_zh_auto: true
 autonym: Ingano
 alt_names: ["Inga, Jungle"]
 population: 11200
@@ -11,6 +9,10 @@ country_name: Colombia
 status_id: 6a
 latitude: 0.88872
 longitude: -76.65931
+translations:
+  - translation_iso: zho
+    name: 丛林因加语
+    auto: true
 rolv_dialects:
   - rolv_code: 10890
     language_tag: inj-x-HIS10890

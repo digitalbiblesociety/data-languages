@@ -1,7 +1,6 @@
 ---
 iso: ssr
 name: "Swiss-French Sign Language"
-name_zh: 瑞士法语手语
 autonym: Langue des Signes Française
 alt_names: [LSF-SR, Langage Gestuelle, Langue des Signes Suisse romande]
 population: 1000
@@ -14,4 +13,9 @@ glottocode: swis1241
 glottolog_family_id: sign1238
 glottolog_family_name: Sign Language
 glottolog_classification: "Sign Language > L1 Sign Language > LSFic > Swiss-French Sign Language"
+translations:
+  - translation_iso: jpn
+    name: スイス・フランス手話
+  - translation_iso: zho
+    name: 瑞士法语手语
 ---

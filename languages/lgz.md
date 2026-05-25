@@ -1,8 +1,6 @@
 ---
 iso: lgz
 name: Ligenza
-name_zh: 利根扎语
-name_zh_auto: true
 autonym: Ligendza
 alt_names: [Digenja, Gendja, Gendza-Bali]
 population: 43000
@@ -16,6 +14,10 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > Central-Western Bantu > North Zaire River > Rivers Bantu > Ngiri > Ngiri Terrien > Ngombe-Ababuan > Ngombe-Genja > Ligenza"
 wikipedia_url: "https://en.wikipedia.org/wiki/Gendza_language"
+translations:
+  - translation_iso: zho
+    name: 利根扎语
+    auto: true
 rolv_dialects:
   - rolv_code: 12940
     language_tag: lgz-x-HIS12940

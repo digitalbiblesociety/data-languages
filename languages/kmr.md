@@ -1,7 +1,6 @@
 ---
 iso: kmr
 name: "Northern Kurdish - Kurmanji"
-name_zh: 北部库尔德语
 autonym: Northern Kurdish
 alt_names: [Badinani, Bahdini, Behdini, Eastern Kurmanji, Kermancî, Khorasani, Khorasani Kurmanji, Kirmanciya Jori, Kirmancî, Kirmanji, Kordi, Kurdi, Kurdisch, Kurdish, Kurdish (Central), Kurdish (Kurmanji), Kurdish (Northern), "Kurdish, Northern", Kurdî, Kurmancî, Kurmanji, Western Kurdish, Zaza, Êzdîkî]
 population: 14600000
@@ -15,6 +14,15 @@ glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Iranian-Nuristani > Iranian > Central Iranian PBS > Central Iranian PB > Northwestern Iranian > Laki-Kurdish > Kurdish > Northern Kurdish"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kurmanji"
+translations:
+  - translation_iso: ara
+    name: كرمانجي
+  - translation_iso: jpn
+    name: クルマンジー
+  - translation_iso: kor
+    name: 쿠르만지어
+  - translation_iso: zho
+    name: 北部库尔德语
 rolv_dialects:
   - rolv_code: 3305
     language_tag: kmr-x-HIS03305

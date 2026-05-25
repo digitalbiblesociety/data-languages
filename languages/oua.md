@@ -1,8 +1,6 @@
 ---
 iso: oua
 name: Tagargrent
-name_zh: 塔加格伦特语
-name_zh_auto: true
 autonym: Twargrit
 alt_names: [Berber (Ouargla), Berber (Wargla), Ouargla, Ouargli, Teggargrent, Wargla]
 population: 5000
@@ -16,6 +14,14 @@ glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Berber > Greater Zenatic > Zenatic > Northern Saharan Oasis Berber > Ouargli-Oued Righ > Ouargli"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ouargli_language"
+translations:
+  - translation_iso: ara
+    name: اللهجة الأمازيغية الورقلية
+  - translation_iso: jpn
+    name: ワルグラ語
+  - translation_iso: zho
+    name: 塔加格伦特语
+    auto: true
 rolv_dialects:
   - rolv_code: 17039
     language_tag: oua-x-HIS17039

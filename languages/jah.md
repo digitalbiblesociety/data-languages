@@ -1,7 +1,6 @@
 ---
 iso: jah
 name: Jah Hut
-name_zh: 贾胡特语
 autonym: Jah Het
 alt_names: [Eastern Sakai, Ost-Sakai]
 population: 2442
@@ -15,6 +14,9 @@ glottolog_family_id: aust1305
 glottolog_family_name: Austroasiatic
 glottolog_classification: "Austroasiatic > Aslian > Central-Northern Aslian > Jah Hut"
 wikipedia_url: "https://en.wikipedia.org/wiki/Jah_Hut_language"
+translations:
+  - translation_iso: zho
+    name: 贾胡特语
 rolv_dialects:
   - rolv_code: 11078
     language_tag: jah-x-HIS11078

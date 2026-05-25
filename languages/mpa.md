@@ -1,8 +1,6 @@
 ---
 iso: mpa
 name: Mpoto
-name_zh: 姆波托语
-name_zh_auto: true
 autonym: Chimpoto
 alt_names: [Kinyasa, Nyasa]
 population: 72800
@@ -16,5 +14,9 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > East Bantu > Rufiji-Ruvuma > Rufijic > Matengo-Rufiji > South Mbinda > Mpoto"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mpoto_language"
+translations:
+  - translation_iso: zho
+    name: 姆波托语
+    auto: true
 ---
 Mpoto is a Bantu language of Tanzania related and similar to Chitumbuka language.

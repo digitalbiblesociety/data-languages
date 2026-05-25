@@ -1,8 +1,6 @@
 ---
 iso: vkz
 name: Koro Zuba
-name_zh: 科罗-祖巴语
-name_zh_auto: true
 population: 10000
 country_id: NG
 country_name: Nigeria
@@ -13,5 +11,9 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Ebira-Nupoid > Macro-Nupoid > Nupoid > Koro Zuba"
 wikipedia_url: "https://en.wikipedia.org/wiki/Koro_Zuba_language"
+translations:
+  - translation_iso: zho
+    name: 科罗-祖巴语
+    auto: true
 ---
 Koro Zuba is a Nupoid language of Nigeria. It is one of several languages which go by the ethnic name Koro. However, it has very low lexical similarity with Koro Nulu, which speakers consider to be a variant of the same language due to ethnic identity, and instead is closest to Dibo.

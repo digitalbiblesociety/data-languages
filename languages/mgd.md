@@ -1,8 +1,6 @@
 ---
 iso: mgd
 name: Moru
-name_zh: 莫鲁语
-name_zh_auto: true
 autonym: Kala Moru
 population: 230000
 country_id: SS
@@ -15,6 +13,10 @@ glottolog_family_id: cent2225
 glottolog_family_name: Central Sudanic
 glottolog_classification: "Central Sudanic > Moru-Madi > Moru"
 wikipedia_url: "https://en.wikipedia.org/wiki/Moru_language"
+translations:
+  - translation_iso: zho
+    name: 莫鲁语
+    auto: true
 rolv_dialects:
   - rolv_code: 923
     language_tag: mgd-x-HIS00923

@@ -1,8 +1,6 @@
 ---
 iso: dio
 name: Dibo
-name_zh: 迪波语
-name_zh_auto: true
 autonym: Ganagana
 alt_names: [Ganagawa, Shitako, Zhitako. Ganagana, Zitako]
 population: 204000
@@ -16,6 +14,10 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Ebira-Nupoid > Macro-Nupoid > Nupoid > Dibo-Kupa > Abawa > Dibo"
 wikipedia_url: "https://en.wikipedia.org/wiki/Dibo_language"
+translations:
+  - translation_iso: zho
+    name: 迪波语
+    auto: true
 rolv_dialects:
   - rolv_code: 2044
     language_tag: dio-x-HIS02044

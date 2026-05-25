@@ -1,8 +1,6 @@
 ---
 iso: cji
 name: Chamalal
-name_zh: 查马拉尔语
-name_zh_auto: true
 autonym: чамалалдуб мичIчI (çamalaldub miçʿçʿ)
 alt_names: [Camalal, Chamali  чамалинский язык, Chamalin, Język czamalalski, Tchamalaleg, Tšamalalin kieli, çamalaldub miçʿçʿ, Чамалинский язык, Чамалинська мова, чамалалдуб мичIчI, ჭამალალური ენა]
 population: 5000
@@ -16,6 +14,14 @@ glottolog_family_id: nakh1245
 glottolog_family_name: Nakh-Daghestanian
 glottolog_classification: "Nakh-Daghestanian > Daghestanian > Avar-Andic-Tsezic > Andic > Chamalal"
 wikipedia_url: "https://en.wikipedia.org/wiki/Chamalal_language"
+translations:
+  - translation_iso: jpn
+    name: チャマラル語
+  - translation_iso: kor
+    name: 차말랄어
+  - translation_iso: zho
+    name: 查马拉尔语
+    auto: true
 rolv_dialects:
   - rolv_code: 8697
     language_tag: cji-x-HIS08697

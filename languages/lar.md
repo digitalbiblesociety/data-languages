@@ -1,8 +1,6 @@
 ---
 iso: lar
 name: Larteh
-name_zh: 拉尔特语
-name_zh_auto: true
 autonym: Gua
 alt_names: [Guang, Late, Lete]
 population: 107000
@@ -16,6 +14,10 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Kwa Volta-Congo > Nyo > Potou-Tano > Tano > Guang > South Guang > Hill South Guang > Larteh"
 wikipedia_url: "https://en.wikipedia.org/wiki/Larteh_language"
+translations:
+  - translation_iso: zho
+    name: 拉尔特语
+    auto: true
 rolv_dialects:
   - rolv_code: 2254
     language_tag: lar-x-HIS02254

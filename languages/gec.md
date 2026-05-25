@@ -1,8 +1,6 @@
 ---
 iso: gec
 name: Gboloo Grebo
-name_zh: 博洛格雷博语
-name_zh_auto: true
 autonym: Kréébo
 alt_names: [Gblou Grebo, Gboloo, Grebo, "Grebo, Gboloo"]
 population: 119000
@@ -15,6 +13,10 @@ glottocode: gbol1235
 glottolog_family_id: krua1234
 glottolog_family_name: Kru
 glottolog_classification: "Kru > Greater Western Kru > Western Kru > Grebo-Aizi > Grebo > Liberian Grebo > North-Central Liberian Grebo > Barclayville-Gboloo-Central Liberian Grebo > Gboloo-Central Grebo > Gboloo Grebo"
+translations:
+  - translation_iso: zho
+    name: 博洛格雷博语
+    auto: true
 rolv_dialects:
   - rolv_code: 6151
     language_tag: gec-x-HIS06151

@@ -1,8 +1,6 @@
 ---
 iso: idc
 name: Idon
-name_zh: 伊东语
-name_zh_auto: true
 autonym: Ajiya
 alt_names: [Idong]
 population: 5000
@@ -16,6 +14,10 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Benue-Congo Plateau > Northern Benue-Congo Plateau > Nuclear Northern Benue-Congo Plateau > Kuturmi-Ajiya > Idon"
 wikipedia_url: "https://en.wikipedia.org/wiki/Idon_language"
+translations:
+  - translation_iso: zho
+    name: 伊东语
+    auto: true
 rolv_dialects:
   - rolv_code: 28998
     language_tag: idc-x-HIS28998

@@ -1,8 +1,6 @@
 ---
 iso: pme
 name: Pwaamei
-name_zh: 普瓦梅伊语
-name_zh_auto: true
 autonym: Poamei
 alt_names: [Neukaledonien, Pwaamèi]
 population: 220
@@ -16,5 +14,9 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Southern Melanesian > New Caledonian > Mainland New Caledonian > Northern New Caledonian > Mid-Northern New Caledonian > Nmi-Pij-Fwa-Pam-Pap > Pwaamei"
 wikipedia_url: "https://en.wikipedia.org/wiki/Pwaam%C3%A8i_language"
+translations:
+  - translation_iso: zho
+    name: 普瓦梅伊语
+    auto: true
 ---
 Pwaamèi (Poamei) is a Kanak language of New Caledonia, in the commune of Voh.

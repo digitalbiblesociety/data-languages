@@ -1,8 +1,6 @@
 ---
 iso: ola
 name: Walungge
-name_zh: 瓦伦格语
-name_zh_auto: true
 autonym: Ü-Tsang
 alt_names: [Halung, Halung tibetano, Olangchung Gola, Walung, Walungchung Gola, Walunggi Keccya]
 population: 15600
@@ -16,6 +14,10 @@ glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Bodic > Bodish > Early Old Tibetan > Middle Old Tibetan > Late Old Tibetan > Central Tibetan > South-Western Tibetic > Walungge"
 wikipedia_url: "https://en.wikipedia.org/wiki/Walungge_language"
+translations:
+  - translation_iso: zho
+    name: 瓦伦格语
+    auto: true
 rolv_dialects:
   - rolv_code: 17453
     language_tag: ola-x-HIS17453

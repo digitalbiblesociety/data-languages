@@ -1,8 +1,6 @@
 ---
 iso: gwr
 name: Gwere
-name_zh: 格韦雷语
-name_zh_auto: true
 autonym: (O)lugwere
 alt_names: [Lugwere, Olugwere]
 population: 621000
@@ -16,6 +14,12 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > East Bantu > Northeast Savanna Bantu > Great Lakes Bantu > West Nyanza > North Nyanza > South Kyoga > East Kyoga > Gwere"
 wikipedia_url: "https://en.wikipedia.org/wiki/Gwere_language"
+translations:
+  - translation_iso: jpn
+    name: グウェレ語
+  - translation_iso: zho
+    name: 格韦雷语
+    auto: true
 rolv_dialects:
   - rolv_code: 25060
     language_tag: gwr-x-HIS25060

@@ -1,8 +1,6 @@
 ---
 iso: pss
 name: Kaulong
-name_zh: 卡乌隆语
-name_zh_auto: true
 autonym: Pasismanua
 alt_names: [Kowlong]
 population: 4000
@@ -16,6 +14,12 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > North New Guinea linkage > Ngero-Vitiaz linkage > Vitiaz linkage > Southwest New Britain linkage > Arawe-Pasismanua > Pasismanua > Kaulong"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kaulong_language"
+translations:
+  - translation_iso: jpn
+    name: パシスマヌア語
+  - translation_iso: zho
+    name: 卡乌隆语
+    auto: true
 rolv_dialects:
   - rolv_code: 11705
     language_tag: pss-x-HIS11705

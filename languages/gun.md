@@ -1,7 +1,6 @@
 ---
 iso: gun
 name: Mbyá Guaraní
-name_zh: 姆比亞瓜拉尼語
 autonym: " nhandeayvu"
 alt_names: ["\"mbyá guarani (Argentine, Uruguay)\"", Apytare, Bugre, Caingua, Chiripá, Chiripá-Nyandeva, Dialeto mbiá, Guarani, Guaraní, Guaraní language area, Guaraní mbyá (Paraguay), "Guaraní, Mbyá", Gvaranių mbijų kalba, Kaiwá/Kayová, Mbiá, Mbiá/Mbya/Mbua, Mbua, Mbya Guarani, Mbyá, Mbyá guarani (Brésil), Mbyá guarani (Paraguay), "Mbü'a", "Mbü'a Guaraní", Nhandeva, Tsiripá, Txiripá, Ñandeva]
 population: 19960
@@ -15,6 +14,13 @@ glottolog_family_id: tupi1275
 glottolog_family_name: Tupian
 glottolog_classification: "Tupian > Eastern Tupian > Maweti-Guarani > Aweti-Guarani > Tupi-Guarani > Southern Tupi-Guarani > Tupi-Guarani Subgroup I > Tupi-Guarani Subgroup I.A > Mbyá Guaraní"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mby%C3%A1_Guaran%C3%AD_language"
+translations:
+  - translation_iso: jpn
+    name: ムビア・グアラニー語
+  - translation_iso: kor
+    name: nujnnjuytg
+  - translation_iso: zho
+    name: 姆比亞瓜拉尼語
 rolv_dialects:
   - rolv_code: 10378
     language_tag: gun-x-HIS10378

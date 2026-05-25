@@ -1,8 +1,6 @@
 ---
 iso: trh
 name: Turaka
-name_zh: 图拉卡语
-name_zh_auto: true
 autonym: null
 population: 25
 country_id: PG
@@ -15,5 +13,9 @@ glottolog_family_id: daga1274
 glottolog_family_name: Dagan
 glottolog_classification: "Dagan > Turaka"
 wikipedia_url: "https://en.wikipedia.org/wiki/Turaka_language"
+translations:
+  - translation_iso: zho
+    name: 图拉卡语
+    auto: true
 ---
 Turaka is a possibly extinct Papuan language of New Guinea.

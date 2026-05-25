@@ -1,8 +1,6 @@
 ---
 iso: aot
 name: Atong (India)
-name_zh: 阿东语
-name_zh_auto: true
 autonym: A.tong
 alt_names: ["A'Tong language", "A'tong", Atong, A’tong, "Lingua A'Tong"]
 population: 10000
@@ -16,6 +14,12 @@ glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Brahmaputran > Bodo-Garo > Kochic > Atong (India)"
 wikipedia_url: "https://en.wikipedia.org/wiki/Atong_language_(Sino-Tibetan)"
+translations:
+  - translation_iso: hin
+    name: अटोंग भाषा
+  - translation_iso: zho
+    name: 阿东语
+    auto: true
 rolv_dialects:
   - rolv_code: 27848
     language_tag: aot-x-HIS27848

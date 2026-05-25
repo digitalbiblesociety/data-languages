@@ -1,7 +1,6 @@
 ---
 iso: ktz
 name: Juǀʼhoan
-name_zh: 穹瓦西語
 autonym: South(eastern) ǃXun/Ju
 alt_names: ["!Xo", "!Xu", "!Xu (Ju/'hoan)", Agau, Dobe Kung, "Dzu'oasi", "Ju'hoan", "Ju'oasi", "Ju/'hoan", "Ju/'hoansi", "Ju|'hoan", Juǀʼhoansi, "Język jul'hoan", Kung, Kung-Tsumkwe, Qxû, Tsumkwe, Xaixai, Xu, Xun, "Zhu'oasi", Zhu-/Hoa (Si), "Žhu|hõasi"]
 population: 45500
@@ -15,6 +14,11 @@ glottolog_family_id: kxaa1236
 glottolog_family_name: Kxa
 glottolog_classification: "Kxa > Ju-Kung > South-Eastern Ju"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ju%C7%80%CA%BChoan_language"
+translations:
+  - translation_iso: jpn
+    name: ジューホアン方言
+  - translation_iso: zho
+    name: 穹瓦西語
 rolv_dialects:
   - rolv_code: 1948
     language_tag: ktz-x-HIS01948

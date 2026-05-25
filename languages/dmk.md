@@ -1,8 +1,6 @@
 ---
 iso: dmk
 name: Domaaki
-name_zh: 多玛基语
-name_zh_auto: true
 autonym: Doma
 alt_names: ["\"Doma\"", Dardu, Dawudi, Domakí, Dumaki, Dumākī, Shina, ภาษาโดมาอากี]
 population: 500
@@ -16,5 +14,13 @@ glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Indo-Aryan > Middle-Modern Indo-Aryan > Continental Indo-Aryan > Midlands Indo-Aryan > Shaurasenic > Indo-Aryan Central zone > Domaaki"
 wikipedia_url: "https://en.wikipedia.org/wiki/Dawoodi_language"
+translations:
+  - translation_iso: hin
+    name: डोमाकी भाषा
+  - translation_iso: jpn
+    name: ドマーキー語
+  - translation_iso: zho
+    name: 多玛基语
+    auto: true
 ---
 Dawoodi, also known as Domaakí, Ḍumāki, or Domaá, is an endangered Indo-Aryan language spoken by a few hundred people living in the Gilgit-Baltistan territory in northern Pakistan. It is historically related to the Central Indo-Aryan languages of the Indian Midlands, though it has been significantly influenced by its neighbours.

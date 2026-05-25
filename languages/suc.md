@@ -1,8 +1,6 @@
 ---
 iso: suc
 name: Western Subanon
-name_zh: 西苏巴嫩语
-name_zh_auto: true
 autonym: Subanon
 alt_names: [Siocon, "Subanon, Western"]
 population: 125000
@@ -16,6 +14,10 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Greater Central Philippine > Subanen > Western Subanen > Western Subanon"
 wikipedia_url: "https://en.wikipedia.org/wiki/Western_Subanon_language"
+translations:
+  - translation_iso: zho
+    name: 西苏巴嫩语
+    auto: true
 rolv_dialects:
   - rolv_code: 16915
     language_tag: suc-x-HIS16915

@@ -1,8 +1,6 @@
 ---
 iso: ggw
 name: Gogodala
-name_zh: 戈戈达拉语
-name_zh_auto: true
 autonym: Gogodara
 alt_names: [Gogodala language]
 population: 26000
@@ -16,5 +14,9 @@ glottolog_family_id: suki1244
 glottolog_family_name: Suki-Gogodala
 glottolog_classification: "Suki-Gogodala > Gogodalic > Gogodala"
 wikipedia_url: "https://en.wikipedia.org/wiki/Gogodala_language"
+translations:
+  - translation_iso: zho
+    name: 戈戈达拉语
+    auto: true
 ---
 Gogodala is a Papuan language of Papua New Guinea. Its closest relative is the Ari language.

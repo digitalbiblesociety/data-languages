@@ -1,7 +1,6 @@
 ---
 iso: hkn
 name: "Mel-Khaonh"
-name_zh: 梅勒-卡翁语
 autonym: null
 population: null
 country_id: KH
@@ -14,6 +13,9 @@ glottolog_family_id: aust1305
 glottolog_family_name: Austroasiatic
 glottolog_classification: "Austroasiatic > Bahnaric > West Bahnaric > South Bahnaric > Mnong-Stieng-Chrau > Stieng > Mel-Khaonh"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mel-Khaonh_language"
+translations:
+  - translation_iso: zho
+    name: 梅勒-卡翁语
 rolv_dialects:
   - rolv_code: 22903
     language_tag: hkn-x-HIS22903

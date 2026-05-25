@@ -1,8 +1,6 @@
 ---
 iso: gna
 name: Kaansa
-name_zh: 卡恩萨语
-name_zh_auto: true
 autonym: Gan
 alt_names: [Gane, Gã, Kaan, Kaanse, Kan, Kpɔdɔɣo, Kãasa, Padorho]
 population: 6000
@@ -16,6 +14,10 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Gur > Central Gur > Southern Central Gur > Kaansa-Dogose > Kaansa"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kaansa_language"
+translations:
+  - translation_iso: zho
+    name: 卡恩萨语
+    auto: true
 rolv_dialects:
   - rolv_code: 6319
     language_tag: gna-x-HIS06319

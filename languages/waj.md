@@ -1,8 +1,6 @@
 ---
 iso: waj
 name: Waffa
-name_zh: 瓦法语
-name_zh_auto: true
 autonym: null
 population: 1300
 country_id: PG
@@ -15,5 +13,9 @@ glottolog_family_id: nucl1709
 glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Kainantu-Goroka > Kainantu > Tairora > Waffa"
 wikipedia_url: "https://en.wikipedia.org/wiki/Waffa_language"
+translations:
+  - translation_iso: zho
+    name: 瓦法语
+    auto: true
 ---
 Waffa is a Kainantu language of Papua New Guinea.

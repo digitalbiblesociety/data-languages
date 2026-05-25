@@ -1,7 +1,6 @@
 ---
 iso: glg
 name: Galician
-name_zh: 加利西亞語
 autonym: galego
 alt_names: [An Ghailísis, Bahasa Galicia, Galeegi keel, Galeeshish, Galega lingvo, Galegogiella, Galiciai nyelv, Galician (only written direcly on the map), Galicien, Galicies, Galicijski jezik, Galicijština, Galicijščina, Galicisch, Galicische Sprache, Galicisk, Galiciska, Galijek, Galisieg, Galisiešu valoda, Galisisk, Galisisk språk, Galisu kalba, Galisų kalba, Galizeg, Galizian, Galiziera, Galiçyaca, Gallec, Gallegan, Gallego, Gallegu, Galligu simi, Galèc, Galícijčina, Gjuha galiciane, Idioma gallego, Język galicyjski, Kigalicia, Kâ-lî-sî-â-ngî, Lenga galissian-a, Lengua galissiann-a, Lengua gałiziana, Lia-galegu, Limba galiciană, Lingua Gallaica, Lingua galega, Lingua galiziana, Lingua gallecian, Luenga gallega, Língua galega, Northern Portuguese, Reo Galicia, Wikang Galisyano, Zimanê galîsyayî, Γαλικιανή γλώσσα, Галисиаг æвзаг, Галисийски език, Галисийский язык, Галициски јазик, Галицијски језик, Галісійська мова, Գալիցերեն, גליסית, لغة جليقية, گالىسىيەچە, गॅलिशियन भाषा, गैलिशियन भाषा, ภาษากาลิเซีย, გალისიური ენა, ガリシア語, 加里西亞語, 갈리시아어]
 population: 3127900
@@ -16,5 +15,16 @@ glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Italic > Latino-Faliscan > Latinic > Imperial Latin > Romance > Italo-Western Romance > Western Romance > Shifted Western Romance > Southwestern Shifted Romance > West Ibero-Romance > Galician Romance > Galician"
 wikipedia_url: "https://en.wikipedia.org/wiki/Galician_language"
+translations:
+  - translation_iso: ara
+    name: الجليقية
+  - translation_iso: hin
+    name: गैलिशियन
+  - translation_iso: jpn
+    name: ガリシア語
+  - translation_iso: kor
+    name: 갈리시아어
+  - translation_iso: zho
+    name: 加利西亞語
 ---
 Galician, also known as Galego, is a Western Ibero-Romance language. Around 2.4 million people have at least some degree of competence in the language, mainly in Galicia, an autonomous community located in northwestern Spain, where it has official status along with Spanish. The language is also spoken in some border zones of the neighbouring Spanish regions of Asturias and Castile and León, as well as by Galician migrant communities in the rest of Spain; in Latin America, including Argentina and Uruguay; and in Puerto Rico, the United States, Switzerland and elsewhere in Europe.

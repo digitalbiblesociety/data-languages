@@ -1,8 +1,6 @@
 ---
 iso: ttu
 name: Torau
-name_zh: 托劳语
-name_zh_auto: true
 autonym: Rorovana
 population: 605
 country_id: PG
@@ -15,5 +13,11 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > Meso Melanesian linkage > New Ireland-Northwest Solomonic linkage > St George linkage > Northwest Solomonic > Mono-Uruavan > Torau"
 wikipedia_url: "https://en.wikipedia.org/wiki/Torau_language"
+translations:
+  - translation_iso: jpn
+    name: トラウ語
+  - translation_iso: zho
+    name: 托劳语
+    auto: true
 ---
 Torau is an Austronesian language spoken on the east coast of Bougainville, Papua New Guinea.

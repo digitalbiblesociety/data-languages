@@ -1,8 +1,6 @@
 ---
 iso: yix
 name: Axi Yi
-name_zh: 阿夕-伊语
-name_zh_auto: true
 autonym: Axipo
 alt_names: [Ahi, Axi, Axibo, Lolo, Yi, "Yi, Axi"]
 population: 170000
@@ -16,5 +14,9 @@ glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Burmo-Qiangic > Lolo-Burmese > Loloish > Ni-Li-Kazhouish > Southeastern Ngwi > Axioid > Sani-Axi-Azhe > Sani-Axi > Axi Yi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Axi_language"
+translations:
+  - translation_iso: zho
+    name: 阿夕-伊语
+    auto: true
 ---
 Axi is one of the Loloish languages spoken by the Yi people of China. The Axi are one of the main linguistic sub-branches of Yi, and the Axi tiaoyue is a dance of the Axi speaking Yi people accompanied by the sanhu.

@@ -1,8 +1,6 @@
 ---
 iso: lgg
 name: Lugbara
-name_zh: 卢格巴拉语
-name_zh_auto: true
 autonym: null
 alt_names: [High Lugbara, Logbara, Língua lugbara, Western, Лугбара јазик]
 population: 1940000
@@ -16,6 +14,12 @@ glottolog_family_id: cent2225
 glottolog_family_name: Central Sudanic
 glottolog_classification: "Central Sudanic > Moru-Madi > Central Moru-Madi > Lugbaric > Lugbara"
 wikipedia_url: "https://en.wikipedia.org/wiki/Lugbara_language"
+translations:
+  - translation_iso: jpn
+    name: ルグバラ語
+  - translation_iso: zho
+    name: 卢格巴拉语
+    auto: true
 rolv_dialects:
   - rolv_code: 1334
     language_tag: lgg-x-HIS01334

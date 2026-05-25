@@ -1,7 +1,6 @@
 ---
 iso: fng
 name: Fanagalo
-name_zh: 凡那伽罗
 autonym: Pidgin Zulu
 alt_names: ["\"Fanakalo\"", "\"Fanekolo\"", "\"Isikula\"", "\"Kitchen Kaffir\"", "\"Mine Kaffir\"", Basic Zulu, Fanakalo, Isilololo, Isipiki, Lololo, Língua fanagalo, Pidgin Bantu, Piki, Silunguboi, Silunguboi., Фанагало]
 population: 5100
@@ -15,6 +14,11 @@ glottolog_family_id: pidg1258
 glottolog_family_name: Pidgin
 glottolog_classification: "Pidgin > Zulu-based pidgin > Fanagalo"
 wikipedia_url: "https://en.wikipedia.org/wiki/Fanagalo"
+translations:
+  - translation_iso: jpn
+    name: ファナガロ語
+  - translation_iso: zho
+    name: 凡那伽罗
 rolv_dialects:
   - rolv_code: 9758
     language_tag: fng-x-HIS09758

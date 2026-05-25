@@ -1,7 +1,6 @@
 ---
 iso: ase
 name: American Sign Language
-name_zh: 美國手語
 autonym: Langue des signes américaine
 alt_names: [ASL, Amerikaanse Gebarentaal, Amerikansk tegnspråk, Amerikkalainen viittomakieli, Američki znakovni jezik, Ameslan, Lengua de signos americana, Língua de Sinais Americana, Usona signolingvo, Амслен, アメリカ手話, 美國手語, 미국 수화]
 population: 729605
@@ -15,6 +14,17 @@ glottolog_family_id: sign1238
 glottolog_family_name: Sign Language
 glottolog_classification: "Sign Language > L1 Sign Language > LSFic > ASLic > American Sign > American Sign Language"
 wikipedia_url: "https://en.wikipedia.org/wiki/American_Sign_Language"
+translations:
+  - translation_iso: ara
+    name: لغة الإشارة الأمريكية
+  - translation_iso: hin
+    name: अमेरिकी सांकेतिक भाषा
+  - translation_iso: jpn
+    name: アメリカ手話
+  - translation_iso: kor
+    name: 미국 수어
+  - translation_iso: zho
+    name: 美國手語
 rolv_dialects:
   - rolv_code: 20762
     language_tag: ase-x-HIS20762

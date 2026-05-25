@@ -1,7 +1,6 @@
 ---
 iso: azb
 name: South Azerbaijani
-name_zh: 南阿塞拜疆语
 autonym: " آذربایجان دیلی"
 alt_names: [Aderbeidjanisch, Afghanistan Oghuz, Azarbaydjanian, Azari (Iranian), Azerbaijani, Azerbaijani (South), "Azerbaijani, South", Azeri, Južnoazerbajdžanski jezik, South Azeri language, Southern Iranian, Torki, لغة أذرية جنوبية]
 population: 13800000
@@ -15,6 +14,15 @@ glottolog_family_id: turk1311
 glottolog_family_name: Turkic
 glottolog_classification: "Turkic > Common Turkic > Oghuz > Nuclear Oghuz > Central Oghuz > South Azerbaijani"
 wikipedia_url: "https://en.wikipedia.org/wiki/South_Azerbaijani_language"
+translations:
+  - translation_iso: ara
+    name: الأذرية الجنوبية
+  - translation_iso: jpn
+    name: 南アゼルバイジャン語
+  - translation_iso: kor
+    name: 남아제르바이잔어
+  - translation_iso: zho
+    name: 南阿塞拜疆语
 rolv_dialects:
   - rolv_code: 3308
     language_tag: azb-x-HIS03308

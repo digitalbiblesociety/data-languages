@@ -1,8 +1,6 @@
 ---
 iso: bus
 name: Bokobaru
-name_zh: 博科巴鲁语
-name_zh_auto: true
 autonym: Bisã
 alt_names: [Busa-Bokobaru, Zongben, Zõgbe]
 population: 62000
@@ -15,6 +13,10 @@ glottocode: boko1267
 glottolog_family_id: mand1469
 glottolog_family_name: Mande
 glottolog_classification: "Mande > Eastern Mande > Bisa-Busa > Samo-Busa > Busan > Boko-Busa > Bokobaru"
+translations:
+  - translation_iso: zho
+    name: 博科巴鲁语
+    auto: true
 rolv_dialects:
   - rolv_code: 8242
     language_tag: bus-x-HIS08242

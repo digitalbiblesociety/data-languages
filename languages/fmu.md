@@ -1,8 +1,6 @@
 ---
 iso: fmu
 name: Far Western Muria
-name_zh: 远西穆里亚语
-name_zh_auto: true
 autonym: Gondi
 alt_names: [Gonḍi, Gōṇḍī, "Muria, Far Western"]
 population: 400000
@@ -15,6 +13,10 @@ glottocode: farw1235
 glottolog_family_id: drav1251
 glottolog_family_name: Dravidian
 glottolog_classification: "Dravidian > South Dravidian > South Dravidian II > Gondi > Northwest Gondi > Southwest Gondi > Southern Gondi > Eastern Gondi > Far Western Muria"
+translations:
+  - translation_iso: zho
+    name: 远西穆里亚语
+    auto: true
 rolv_dialects:
   - rolv_code: 30081
     language_tag: fmu-x-HIS30081

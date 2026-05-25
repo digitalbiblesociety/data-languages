@@ -1,7 +1,6 @@
 ---
 iso: tqw
 name: Tonkawa
-name_zh: 通卡瓦語
 autonym: null
 alt_names: [Idioma tonkawa, Lingua tonkawa, Tonkawa hizkuntza, Tonkawan, USA, Тонкава]
 population: null
@@ -12,5 +11,8 @@ latitude: 30.25
 longitude: -96.75
 glottocode: tonk1249
 wikipedia_url: "https://en.wikipedia.org/wiki/Tonkawa_language"
+translations:
+  - translation_iso: zho
+    name: 通卡瓦語
 ---
 The Tonkawa language was a language spoken in Oklahoma, Texas, and New Mexico by the Tonkawa people. A language isolate, with no known related languages, Tonkawa has not had L1 speakers since the mid 20th century. Few Tonkawa people speak the language, but revitalization is underway.

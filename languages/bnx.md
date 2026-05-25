@@ -1,8 +1,6 @@
 ---
 iso: bnx
 name: Bangubangu
-name_zh: 班古班古语
-name_zh_auto: true
 autonym: Bangobango
 alt_names: [Kibangobango, Kibangubangu]
 population: 246000
@@ -16,6 +14,12 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > Central-Western Bantu > Luban > Luba-Kaonde > Lubaic > Bangubangu-Kasai > Bangubangu"
 wikipedia_url: "https://en.wikipedia.org/wiki/Bangubangu_language"
+translations:
+  - translation_iso: jpn
+    name: バングバング語
+  - translation_iso: zho
+    name: 班古班古语
+    auto: true
 rolv_dialects:
   - rolv_code: 1264
     language_tag: bnx-x-HIS01264

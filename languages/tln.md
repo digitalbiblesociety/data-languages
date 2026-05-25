@@ -1,8 +1,6 @@
 ---
 iso: tln
 name: "Talondo'"
-name_zh: 塔隆多语
-name_zh_auto: true
 autonym: Talondo Kondo
 alt_names: [Nordost-Celebes, Talondo]
 population: 400
@@ -16,5 +14,9 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Greater South Sulawesi > South Sulawesi > Northern South Sulawesi > Toraja-Duri > Torajic > Kalumpangic > Talondo'"
 wikipedia_url: "https://en.wikipedia.org/wiki/Talondo%CA%BC_language"
+translations:
+  - translation_iso: zho
+    name: 塔隆多语
+    auto: true
 ---
 Talondoʼ is an endangered Austronesian language spoken in West Sulawesi, Indonesia. Its speakers live in Talondo Kondo village in Mamuju Regency and are ethnically referred to as the Talondo’ people.

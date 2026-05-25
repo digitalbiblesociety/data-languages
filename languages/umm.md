@@ -1,8 +1,6 @@
 ---
 iso: umm
 name: Umon
-name_zh: 乌蒙语
-name_zh_auto: true
 autonym: Amon
 population: 20000
 country_id: NG
@@ -15,5 +13,9 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Delta Cross > Upper Cross > Central Upper Cross > North-South Central Delta Cross > Ubaghara-Kohumono > Kohumonoic > Umon"
 wikipedia_url: "https://en.wikipedia.org/wiki/Umon_language"
+translations:
+  - translation_iso: zho
+    name: 乌蒙语
+    auto: true
 ---
 Umon (Amon) is an Upper Cross River language of Nigeria.

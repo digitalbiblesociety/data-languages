@@ -1,7 +1,6 @@
 ---
 iso: aol
 name: Alor
-name_zh: 阿洛语
 autonym: Alorese
 alt_names: [Alorski jezik]
 population: 25000
@@ -15,6 +14,11 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Bima-Lembata > Flores > Flores-Lembata > Lamaholot Barat > Alorese"
 wikipedia_url: "https://en.wikipedia.org/wiki/Alorese_language"
+translations:
+  - translation_iso: jpn
+    name: アロール語
+  - translation_iso: zho
+    name: 阿洛语
 rolv_dialects:
   - rolv_code: 4110
     language_tag: aol-x-HIS04110

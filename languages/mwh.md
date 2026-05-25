@@ -1,8 +1,6 @@
 ---
 iso: mwh
 name: "Mouk-Aria"
-name_zh: 莫克阿里亚语
-name_zh_auto: true
 autonym: "Aria-Mouk"
 alt_names: [Mouk-Aria language]
 population: 630
@@ -16,6 +14,12 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > North New Guinea linkage > Ngero-Vitiaz linkage > Vitiaz linkage > Southwest New Britain linkage > Bibling > Mouk-Aria"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mouk-Aria_language"
+translations:
+  - translation_iso: jpn
+    name: モク・アリア語
+  - translation_iso: zho
+    name: 莫克阿里亚语
+    auto: true
 rolv_dialects:
   - rolv_code: 14320
     language_tag: mwh-x-HIS14320

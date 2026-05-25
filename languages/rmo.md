@@ -1,7 +1,6 @@
 ---
 iso: rmo
 name: Sinte Romani
-name_zh: 聖羅馬尼语
 autonym: Sintengheri / Romanes
 alt_names: [European Romany, Manouche, Manuche, Romani, Romani (Burgenland), "Romani, Sinte", Romany, Rommanes, Sinte, Sinti, Sintí, Tsigane, Zigeuner, Ziguener]
 population: 201300
@@ -16,6 +15,11 @@ glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Indo-Aryan > Middle-Modern Indo-Aryan > Continental Indo-Aryan > Midlands Indo-Aryan > Shaurasenic > Indo-Aryan Central zone > Romani > Anglo-Northwestern Romani > Northwestern Romani > Sinte-Manus Romani"
 wikipedia_url: "https://en.wikipedia.org/wiki/Sinte_Romani"
+translations:
+  - translation_iso: jpn
+    name: シンティー＝ロマ語
+  - translation_iso: zho
+    name: 聖羅馬尼语
 rolv_dialects:
   - rolv_code: 2653
     language_tag: rmo-x-HIS02653

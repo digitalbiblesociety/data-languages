@@ -1,8 +1,6 @@
 ---
 iso: bqp
 name: Busa
-name_zh: 布萨语
-name_zh_auto: true
 autonym: Bisã
 alt_names: [Bisayã, Busa (in Nigeria), Busa-Bisa, Busa-Bisã, Busano, Bussanchi]
 population: 15000
@@ -16,6 +14,10 @@ glottolog_family_id: mand1469
 glottolog_family_name: Mande
 glottolog_classification: "Mande > Eastern Mande > Bisa-Busa > Samo-Busa > Busan > Boko-Busa > Busa"
 wikipedia_url: "https://en.wikipedia.org/wiki/Busa_language_(Mande)"
+translations:
+  - translation_iso: zho
+    name: 布萨语
+    auto: true
 rolv_dialects:
   - rolv_code: 8564
     language_tag: bqp-x-HIS08564

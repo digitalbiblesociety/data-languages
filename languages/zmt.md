@@ -1,8 +1,6 @@
 ---
 iso: zmt
 name: Maringarr
-name_zh: 马里恩格语
-name_zh_auto: true
 autonym: Matige
 alt_names: [Marengar, Marenggar, "Mari'ngar", Maringa, Maringar, Marri Ngarr, Marringarr, Merringar, Moil, Moyle, Muringa, Muringar, Murrinnga, Ngangikadre, Yaghanin]
 population: null
@@ -15,4 +13,8 @@ glottocode: mari1419
 glottolog_family_id: west2434
 glottolog_family_name: Western Daly
 glottolog_classification: "Western Daly > Bringen > Maringarr-Matige > Maringarr"
+translations:
+  - translation_iso: zho
+    name: 马里恩格语
+    auto: true
 ---

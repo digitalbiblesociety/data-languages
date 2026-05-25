@@ -1,8 +1,6 @@
 ---
 iso: cnl
 name: Lalana Chinantec
-name_zh: 拉拉纳奇南特克语
-name_zh_auto: true
 autonym: "Chinantec, Lalana"
 alt_names: [Chinantec, Chinanteco, Chinanteco de San Juan Lalana, Chinanteco del sureste bajo, Chinanteko, Lalana, Lalana Chinanteko, Lower Southeastern Chinantec, "jujmi dsa m+ta'o", "jujmi dsa maji'i"]
 population: 10700
@@ -15,4 +13,8 @@ glottocode: lala1270
 glottolog_family_id: otom1299
 glottolog_family_name: Otomanguean
 glottolog_classification: "Otomanguean > Western Otomanguean > Otopame-Chinantecan > Chinantecan > Central-Eastern Chinantec > Southeastern Chinantec > Chinantec Group IV > Lalana Chinantec"
+translations:
+  - translation_iso: zho
+    name: 拉拉纳奇南特克语
+    auto: true
 ---

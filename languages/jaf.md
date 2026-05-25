@@ -1,8 +1,6 @@
 ---
 iso: jaf
 name: Jara
-name_zh: 贾拉语
-name_zh_auto: true
 autonym: Jera
 alt_names: [Djaraeg, Jara jezik]
 population: 46300
@@ -16,5 +14,9 @@ glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > Biu-Mandara > South Biu-Mandara > Teraic > Western Tera > Jara"
 wikipedia_url: "https://en.wikipedia.org/wiki/Jara_language"
+translations:
+  - translation_iso: zho
+    name: 贾拉语
+    auto: true
 ---
 Jara, also known as Jera, is a Nigerian language reported to be spoken by 46,000 people in 2000. It is spoken in Borno and Gombe States, in the Biu, Kwaya-Kusar, Akko, and Yamaltu-Deba LGAs. It is an Afro-Asiatic language, in the Biu–Mandara branch of Chadic family. Use of Jara is declining; it is being displaced by Fulfulde and Hausa.

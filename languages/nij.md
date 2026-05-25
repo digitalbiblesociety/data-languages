@@ -1,7 +1,6 @@
 ---
 iso: nij
 name: Ngaju
-name_zh: 雅朱語
 autonym: Biadju
 alt_names: [Bahasa Ngaju, Dayak, Dayak (Ngaju), Dayak Ngaju, Kahayan Kapuas, Kapuas, Ngadju, Ngaja, Ngaju dayak, Oloh Mangtangai, Pulopetak, Southwest Barito]
 population: 890000
@@ -16,6 +15,11 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Basap-Greater Barito > Greater Barito linkage > South West Greater Barito > Ngaju"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ngaju_language"
+translations:
+  - translation_iso: jpn
+    name: ガジュ語
+  - translation_iso: zho
+    name: 雅朱語
 rolv_dialects:
   - rolv_code: 1081
     language_tag: nij-x-HIS01081

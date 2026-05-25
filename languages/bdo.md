@@ -1,8 +1,6 @@
 ---
 iso: bdo
 name: Morom
-name_zh: 莫罗姆语
-name_zh_auto: true
 autonym: Bernde
 alt_names: [Tar Murba]
 population: 4500
@@ -16,6 +14,12 @@ glottolog_family_id: cent2225
 glottolog_family_name: Central Sudanic
 glottolog_classification: "Central Sudanic > Sara-Bongo-Bagirmi > SBB Occidental > Nuclear SBB Occidental > Saraic > Bagirmic > Morom-Jaya-Naba > Bayo-Morom > Morom"
 wikipedia_url: "https://en.wikipedia.org/wiki/Morom_language"
+translations:
+  - translation_iso: ara
+    name: موروم
+  - translation_iso: zho
+    name: 莫罗姆语
+    auto: true
 rolv_dialects:
   - rolv_code: 7988
     language_tag: bdo-x-HIS07988

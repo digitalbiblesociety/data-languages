@@ -1,8 +1,6 @@
 ---
 iso: yum
 name: Quechan
-name_zh: 克查语
-name_zh_auto: true
 autonym: Yuma
 alt_names: [Cuchan, Kechan, Kwtsaan, Kwtsan, Quecl, Yuma (Yuman), Yuma Proper]
 population: 150
@@ -16,5 +14,11 @@ glottolog_family_id: coch1271
 glottolog_family_name: Cochimi-Yuman
 glottolog_classification: "Cochimi-Yuman > Yuman > General Yuman > River Yuman > Quechan"
 wikipedia_url: "https://en.wikipedia.org/wiki/Quechan_language"
+translations:
+  - translation_iso: jpn
+    name: ケチャン語
+  - translation_iso: zho
+    name: 克查语
+    auto: true
 ---
 Quechan or Kwtsaan, also known as Yuma, is the native language of the Quechan people of southeastern California and southwestern Arizona in the Lower Colorado River Valley and Sonoran Desert. Despite its name, it is not related to the Quechua language of the Andes.

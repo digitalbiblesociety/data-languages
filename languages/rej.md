@@ -1,7 +1,6 @@
 ---
 iso: rej
 name: Rejang
-name_zh: 勒姜语
 autonym: Baso Jang  Baso Hejang
 alt_names: [Bahasa Rejang, Djang, Djang Bele Tebo, Jang, Redjang, Rejang-Lebong]
 population: 350000
@@ -16,6 +15,13 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Rejang"
 wikipedia_url: "https://en.wikipedia.org/wiki/Rejang_language"
+translations:
+  - translation_iso: jpn
+    name: レジャン語
+  - translation_iso: kor
+    name: 레장어
+  - translation_iso: zho
+    name: 勒姜语
 rolv_dialects:
   - rolv_code: 1119
     language_tag: rej-x-HIS01119

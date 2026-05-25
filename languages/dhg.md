@@ -1,8 +1,6 @@
 ---
 iso: dhg
 name: "Dhangu-Djangu"
-name_zh: 丹古-詹古语
-name_zh_auto: true
 autonym: Djangu
 alt_names: [Dangu, Dhaangu, Dhangu, "Dhangu'mi", Dhaŋu, Gaalpu, Warameri, Waramiri, Yirgala, Yuulngu]
 population: 230
@@ -16,6 +14,10 @@ glottolog_family_id: pama1250
 glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > Yuulngu > Southern Yolngu > Southern-Eastern Yolngu > Dhangu"
 wikipedia_url: "https://en.wikipedia.org/wiki/Dhangu-Djangu_language"
+translations:
+  - translation_iso: zho
+    name: 丹古-詹古语
+    auto: true
 rolv_dialects:
   - rolv_code: 3715
     language_tag: dhg-x-HIS03715

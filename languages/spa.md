@@ -1,7 +1,6 @@
 ---
 iso: spa
 name: Spanish
-name_zh: 西班牙语
 autonym: Castilian
 alt_names: [An Spáinnis, Bahasa Sepanyol, Bahasa Spanyol, Bahsa Seupanyo, Basa Spanyol, Castellano, Castellanu, Castellà, Castila, Castiliaans, Castilyan, Espagnol, Espanhòu, Espanjan kieli, Español, Fiteny espaniola, Gagana spaniolo, Gaztelania, Gjuha spanjolle, Hispaania keel, Hispana lingvo, Hispaniana linguo, Idioma castellán, Idioma español, IsiSpanish, Ispanų kalba, Język hiszpański, "Karaiñe'ẽ", Kastilla aru, Kastilla simi, Kihispania, Kinatsila, Lenga spagneula, Lenghe spagnole, Lengua spagnòlla, Lia-español, Limba ispagnola, Limba spaniolă, Lingua Hispanica, Lingua castelá, Lingua castilyana, Lingua espaniol, Lingua spagnola, Lingwa Spanjola, Lispanyoli, Luenga española, Língua castelhana, Naakaii bizaad, Pagsasao nga Espaniol, Panyòl, Reo Paniora, Reo Pāniora, Sbaeneg, Schbanisch, Se-pan-gâ-gí, Sipanishi, Spaainish, Spaans, Spaansche Spraak, Spaansk, Spagnoleg, Spagnö, Spainyie leid, Spangbe, Spanisch, Spanische Sprache, Spanish (Canary Islands), Spanish (Peninsular Castilian), Spanish bhasa, Spansk, Spansk språk, Spanska, Spanskt mál, Spanum, Spanyol nyelv, Spaynek, Spoans, Spuenesch, Spàinntis, Spánskagiella, Spænska, Spāņu valoda, Spēonisc sprǣc, Szpańelsko godka, Sî-pân-ngà-ngî, Tataramon na Espanyol, Tiếng Tây Ban Nha, Tok Spen, Wikang Kastila, Zimanê spanî, castillan, sanbau, Èdè Spéìn, Ėspanu kalba, İspan dili, İspan tili, İspanyolca, Łéngoa spagnoła, Španielčina, Španišćina, Španjolski jezik, Španski jezik, Španělština, Španščina, Ισπανική γλώσσα, Іспанская мова, Іспанська мова, Гішпанская мова, Забони испанӣ, Испайнаг æвзаг, Испан йылме, Испан теле, Испан тыла, Испан чĕлхи, Испани хэл, Испански език, Испанский язык, Шпански јазик, Шпански језик, Իսպաներեն, ספרדית, שפאניש, ئىسپان تىلى, اسبانى, زبان اسپانیایی, لغة إسبانية, ܠܫܢܐ ܐܣܦܢܝܐ, އިސްޕެނިޝް, स्पॅनिश भाषा, स्पेनिश भाषा, स्पेनी भाषा, স্পেনীয় ভাষা, எசுப்பானியம், స్పానిష్ భాష, ಸ್ಪ್ಯಾನಿಷ್ ಭಾಷೆ, സ്പാനിഷ്‌ ഭാഷ, ภาษาสเปน, སེ་པན་སྐད།, ესპანური ენა, ᏍᏆᏂ, ᓯᐸᐃᓂᑎᑐᑦ/sipainititut, ‘Ōlelo Sepania, スペイン語, 西班牙話, 西班牙語, 西班牙语, 스페인어, 𐌷𐌴𐌹𐍃𐍀𐌰𐌽𐍃𐌺𐍃]
 population: 480000000
@@ -16,6 +15,17 @@ glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Italic > Latino-Faliscan > Latinic > Imperial Latin > Romance > Italo-Western Romance > Western Romance > Shifted Western Romance > Southwestern Shifted Romance > West Ibero-Romance > Castilic > Spanish"
 wikipedia_url: "https://en.wikipedia.org/wiki/Spanish_language"
+translations:
+  - translation_iso: ara
+    name: الإسبانية
+  - translation_iso: hin
+    name: स्पेनी भाषा
+  - translation_iso: jpn
+    name: スペイン語
+  - translation_iso: kor
+    name: 스페인어
+  - translation_iso: zho
+    name: 西班牙语
 rolv_dialects:
   - rolv_code: 52
     language_tag: es-MX

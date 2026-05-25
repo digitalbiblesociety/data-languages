@@ -1,7 +1,6 @@
 ---
 iso: bzl
 name: Boano (Sulawesi)
-name_zh: 博亚诺语
 autonym: Bolano
 alt_names: [Boano, "Boano (Sulawesi, Indonesia)", Djidja]
 population: 2700
@@ -15,5 +14,8 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Tolitoli > Boano (Sulawesi)"
 wikipedia_url: "https://en.wikipedia.org/wiki/Boano_language_(Sulawesi)"
+translations:
+  - translation_iso: zho
+    name: 博亚诺语
 ---
 Boano is a Sulawesi language of the Austronesian family.

@@ -1,8 +1,6 @@
 ---
 iso: prf
 name: Paranan
-name_zh: 帕拉南语
-name_zh_auto: true
 autonym: Palanan
 population: 15000
 country_id: PH
@@ -15,5 +13,11 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Northern Luzon > Northeastern Luzon > Nuclear Northeastern Luzon > Paranan-Pahanan > Paranan"
 wikipedia_url: "https://en.wikipedia.org/wiki/Paranan_language"
+translations:
+  - translation_iso: jpn
+    name: パラナン
+  - translation_iso: zho
+    name: 帕拉南语
+    auto: true
 ---
 Paranan, also called Palanan, is a Philippine language belonging to the Northern Luzon languages. It is spoken in the northeastern coastal areas of Isabela, Philippines.

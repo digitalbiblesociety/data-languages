@@ -1,8 +1,6 @@
 ---
 iso: kyc
 name: Kyaka
-name_zh: 基亚卡语
-name_zh_auto: true
 autonym: null
 alt_names: [Baiyer, Enga, Enga (Kyaka), Enga-Kyaka, Kyaka Enga]
 population: 12000
@@ -16,6 +14,10 @@ glottolog_family_id: nucl1709
 glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Enga-Kewa-Huli > Engan > Kyaka"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kyaka_language"
+translations:
+  - translation_iso: zho
+    name: 基亚卡语
+    auto: true
 rolv_dialects:
   - rolv_code: 424
     language_tag: kyc-x-HIS00424

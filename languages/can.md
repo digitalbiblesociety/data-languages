@@ -1,8 +1,6 @@
 ---
 iso: can
 name: Chambri
-name_zh: 尚布里语
-name_zh_auto: true
 autonym: Tchambuli
 alt_names: [Achang, Tshamberi]
 population: 1700
@@ -16,5 +14,9 @@ glottolog_family_id: lowe1423
 glottolog_family_name: Lower Sepik
 glottolog_classification: "Lower Sepik > Chambri"
 wikipedia_url: "https://en.wikipedia.org/wiki/Chambri_language"
+translations:
+  - translation_iso: zho
+    name: 尚布里语
+    auto: true
 ---
 The Chambri language is spoken by the Chambri people of the Chambri Lakes region in the Sepik basin of northern Papua New Guinea. Spellings in the older anthropological literature include Tchambuli, Tshamberi. Being completely surrounded by the Sepik languages, it is geographically separated from the rest of the Ramu–Lower Sepik language family, of which Chambri is a member.

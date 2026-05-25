@@ -1,7 +1,6 @@
 ---
 iso: lsi
 name: Lashi
-name_zh: 勒期语
 autonym: လရှီ / လချစ်
 alt_names: ["Ac'ye", Acye, Chashan, Chashanhua, Lachi, Lachik, Lachikwaw, Lacid, Lacik, Lashi-Maru, Lasi, "Lech'i", Lechi, Leqi, "Lets'i", Letsi, Maru, "Ngac'ang"]
 population: 31800
@@ -15,6 +14,9 @@ glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Burmo-Qiangic > Lolo-Burmese > Burmish > Northern Burmish > Maruic > Leqic > Lashi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Lashi_language"
+translations:
+  - translation_iso: zho
+    name: 勒期语
 rolv_dialects:
   - rolv_code: 1044
     language_tag: lsi-x-HIS01044

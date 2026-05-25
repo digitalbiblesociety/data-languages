@@ -1,8 +1,6 @@
 ---
 iso: mqg
 name: Kota Bangun Kutai Malay
-name_zh: 库泰马来语（科塔邦贡）
-name_zh_auto: true
 autonym: null
 alt_names: ["Malay, Kota Bangun Kutai"]
 population: 80000
@@ -15,6 +13,12 @@ glottocode: kota1275
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Malayo-Chamic > Malayic > Nuclear Malayic > East Borneo Malay > Kota Bangun Kutai Malay"
+translations:
+  - translation_iso: jpn
+    name: コタ・バングン・クタイ・マレー語
+  - translation_iso: zho
+    name: 库泰马来语（科塔邦贡）
+    auto: true
 rolv_dialects:
   - rolv_code: 28325
     language_tag: mqg-x-HIS28325

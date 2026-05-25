@@ -1,8 +1,6 @@
 ---
 iso: ral
 name: Ralte
-name_zh: 拉尔特语
-name_zh_auto: true
 autonym: null
 alt_names: ["India, Myanmar"]
 population: 24800
@@ -16,5 +14,11 @@ glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Kuki-Chin-Naga > Kuki-Chin > Peripheral Kuki-Chin > Northeastern Kuki-Chin > Thadoic > Paiteic > Ralte"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ralte_language"
+translations:
+  - translation_iso: jpn
+    name: ラルテー語
+  - translation_iso: zho
+    name: 拉尔特语
+    auto: true
 ---
 Ralte is a Kuki-Chin language of India. Fewer than a thousand Ralte people speak the language.

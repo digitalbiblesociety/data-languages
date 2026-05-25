@@ -1,8 +1,6 @@
 ---
 iso: tuy
 name: Tugen
-name_zh: 图根语
-name_zh_auto: true
 autonym: North Tugen
 alt_names: [Kamasya, Nandi, North Tuken, South Tugen, "Tugen, North", Tuken]
 population: 198000
@@ -16,5 +14,11 @@ glottolog_family_id: nilo1247
 glottolog_family_name: Nilotic
 glottolog_classification: "Nilotic > Southern Nilotic > Kalenjin > Central Kalenjin > Plateau Central Kalenjin > Tugen"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tugen_language"
+translations:
+  - translation_iso: jpn
+    name: トゥゲン語
+  - translation_iso: zho
+    name: 图根语
+    auto: true
 ---
 Tugen is the language spoken by 197,556 Tugen people of the broader Kalenjin group in Kenya. As a part of the Kalenjin dialect cluster, it is most closely related to such varieties as Kipsigis and Nandi.

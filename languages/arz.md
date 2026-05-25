@@ -1,7 +1,6 @@
 ---
 iso: arz
 name: Egyptian Arabic
-name_zh: 埃及阿拉伯语
 autonym: اللهجه المصريه
 alt_names: [Araba egipteană, Arabe echipcio, Arabe égyptien, Arabeg Egipt, Arabic, Arabic (Cairene Egyptian Colloquial), Arabic (Cairene), Arabic (Colloquial Egyptian), Arabic (Eastern), Arabic (Egyptian), "Arabic, Egyptian", "Arabic, Egyptian Spoken", Bahasa Arab Mesir, Basa Arab Mesir, Dialekt egipski języka arabskiego, Egipatski arapski, Egipto arabų kalba, Egyptian, Egyptian Colloquial Arabic, Egyptian Spoken, Egyptisk arabiska, Lower Egypt Arabic, Massry, Normal Egyptian Arabic, Árabe egipcio, Árabe egípcio, Ägyptisch-Arabisch, Египетски арабски език, Египетски арапски јазик, ערבית מצרית, اللغه المصريه الحديثه, لهجة مصرية, アラビア語エジプト方言, 이집트 구어체 아랍어]
 population: 68000000
@@ -16,6 +15,17 @@ glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Semitic > West Semitic > Central Semitic > Arabian > Arabic > Egyptic Arabic > Egypto-Sudanic Arabic > Egyptian Arabic"
 wikipedia_url: "https://en.wikipedia.org/wiki/Egyptian_Arabic"
+translations:
+  - translation_iso: ara
+    name: العامية المصرية
+  - translation_iso: hin
+    name: मिसरी अरबी
+  - translation_iso: jpn
+    name: アラビア語エジプト方言
+  - translation_iso: kor
+    name: 이집트 아랍어
+  - translation_iso: zho
+    name: 埃及阿拉伯语
 rolv_dialects:
   - rolv_code: 7086
     language_tag: ar-EG-x-HIS07086

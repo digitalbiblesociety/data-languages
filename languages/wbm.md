@@ -1,8 +1,6 @@
 ---
 iso: wbm
 name: Wa
-name_zh: 瓦语
-name_zh_auto: true
 autonym: Va
 alt_names: [Awa, Baraog, "K'awa", Kawa, Paraok, Parauk, Praok, Vo, Vü, Wa Pwi, Wa-Vü, Wakut, ဝ, 佤語]
 population: 40700
@@ -15,6 +13,10 @@ glottocode: nucl1290
 glottolog_family_id: aust1305
 glottolog_family_name: Austroasiatic
 glottolog_classification: "Austroasiatic > Khasi-Palaung > Palaungic > East Palaungic > Waic > Wa-Lawa > Nuclear Waic > Zhenkang Wa"
+translations:
+  - translation_iso: zho
+    name: 瓦语
+    auto: true
 rolv_dialects:
   - rolv_code: 18066
     language_tag: wbm-x-HIS18066

@@ -1,8 +1,6 @@
 ---
 iso: klv
 name: Maskelynes
-name_zh: 马斯克莱尼斯语
-name_zh_auto: true
 autonym: " Uliveo"
 alt_names: [Kuliviu, Mallicolo, Maskelyne Islands]
 population: 1350
@@ -16,5 +14,9 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > North and Central Vanuatu > Central Vanuatu > Malakula > Eastern Malakula linkage > Central-Southeast Malakula > Southeastern Malakula linkage > Maskelynes"
 wikipedia_url: "https://en.wikipedia.org/wiki/Maskelynes_language"
+translations:
+  - translation_iso: zho
+    name: 马斯克莱尼斯语
+    auto: true
 ---
 Maskelynes, or Kuliviu (Uliveo), is an Oceanic language spoken on the Maskelyne Islands off south Malekula, Vanuatu.

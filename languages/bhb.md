@@ -1,7 +1,6 @@
 ---
 iso: bhb
 name: Bhili
-name_zh: 比尔语
 autonym: भीली
 alt_names: [Bhagoria, Bhil, Bhilbari, Bhilboli, Bhilla, Bhilodi, Bileg, Idioma bhili, Język bhili, Lenga bhili, Lengotia, Lingua Bhili, Vil, Бхили, भील भाषा, ভিলি ভাষা, ภาษาภิล, ビリー語]
 population: 10400000
@@ -16,6 +15,15 @@ glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Indo-Aryan > Middle-Modern Indo-Aryan > Continental Indo-Aryan > Midlands Indo-Aryan > Bhil > Bhili"
 wikipedia_url: "https://en.wikipedia.org/wiki/Bhili_language"
+translations:
+  - translation_iso: hin
+    name: भील भाषा
+  - translation_iso: jpn
+    name: ビリー語
+  - translation_iso: kor
+    name: 빌리어
+  - translation_iso: zho
+    name: 比尔语
 rolv_dialects:
   - rolv_code: 242
     language_tag: bhb-x-HIS00242

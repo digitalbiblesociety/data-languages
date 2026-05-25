@@ -1,8 +1,6 @@
 ---
 iso: dmc
 name: Gavak
-name_zh: 加瓦克语
-name_zh_auto: true
 autonym: Gavak
 alt_names: [Bosiken, Boskien, Dimir]
 population: 3820
@@ -16,5 +14,9 @@ glottolog_family_id: nucl1709
 glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Madang > Croisilles > Greater Northern Adelbert > Northern Adelbert > Gavak"
 wikipedia_url: "https://en.wikipedia.org/wiki/Gavak_language"
+translations:
+  - translation_iso: zho
+    name: 加瓦克语
+    auto: true
 ---
 Gavak, also known as Bosiken (Boskien) and Dimir, is a Papuan language of Madang Province, Papua New Guinea. It is spoken in the Dimir River area.

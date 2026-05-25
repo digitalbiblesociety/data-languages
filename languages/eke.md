@@ -1,7 +1,6 @@
 ---
 iso: eke
 name: Ekit
-name_zh: 埃克特语
 autonym: Eket
 alt_names: [Ekid]
 population: 412000
@@ -15,5 +14,8 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Delta Cross > Lower Cross > Nuclear Lower Cross > Central Lower Cross > Ekit-Etebi > Ekit"
 wikipedia_url: "https://en.wikipedia.org/wiki/Eket_language"
+translations:
+  - translation_iso: zho
+    name: 埃克特语
 ---
 Ekid (Esit Eket and Eket) is sub Ibibio-Efik language of Nigeria.

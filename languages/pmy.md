@@ -1,7 +1,6 @@
 ---
 iso: pmy
 name: Papuan Malay
-name_zh: 巴布亞馬來語
 autonym: Irian Malay
 alt_names: [Irianese, Malaiisch, Malay, "Malay, Papuan", Malayisch]
 population: 500000
@@ -15,6 +14,11 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Malayo-Chamic > Malayic > Nuclear Malayic > Vehicular Malay > Eastern Indonesia Trade Malay > Papuan Malay"
 wikipedia_url: "https://en.wikipedia.org/wiki/Papuan_Malay"
+translations:
+  - translation_iso: jpn
+    name: パプア・マレー語
+  - translation_iso: zho
+    name: 巴布亞馬來語
 rolv_dialects:
   - rolv_code: 1647
     language_tag: pmy-x-HIS01647

@@ -1,8 +1,6 @@
 ---
 iso: jhs
 name: Jhankot Sign Language
-name_zh: 詹科特手语
-name_zh_auto: true
 autonym: झान्कोट साङ्केतिक भाषा
 population: null
 country_id: NP
@@ -15,5 +13,13 @@ glottolog_family_id: sign1238
 glottolog_family_name: Sign Language
 glottolog_classification: "Sign Language > L1 Sign Language > Jhyankot Sign Language"
 wikipedia_url: "https://en.wikipedia.org/wiki/Jhankot_Sign_Language"
+translations:
+  - translation_iso: hin
+    name: झनकोट सांकेतिक भाषा
+  - translation_iso: jpn
+    name: ジャンコット手話
+  - translation_iso: zho
+    name: 詹科特手语
+    auto: true
 ---
 Jhankot Sign Language is a village sign language of the village of Jhankot in western Nepal. The Deaf make up 10% of the village, and Jhankot SL is widely known by the hearing community.

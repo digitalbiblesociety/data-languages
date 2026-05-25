@@ -1,7 +1,6 @@
 ---
 iso: knc
 name: Central Kanuri
-name_zh: 中卡努里语
 autonym: Kànùrí
 alt_names: ["\"Baribari\"", "\"Beriberi\"", Aga, Beriberi, Bornouan, Bornouans, Bornu, Kanembu, Kanouri, Kanoury, Kanuri, "Kanuri, Central", Kole, Kolere, Sirata, Yerwa Kanuri]
 population: 7925500
@@ -15,6 +14,15 @@ glottolog_family_id: saha1256
 glottolog_family_name: Saharan
 glottolog_classification: "Saharan > Western Saharan > Kanuri-Kanembu > Kanuric > East Kanuri > Central Kanuri"
 wikipedia_url: "https://en.wikipedia.org/wiki/Central_Kanuri"
+translations:
+  - translation_iso: ara
+    name: وسط كانوري
+  - translation_iso: jpn
+    name: 中央カヌリ語
+  - translation_iso: kor
+    name: 중부 카누리어
+  - translation_iso: zho
+    name: 中卡努里语
 rolv_dialects:
   - rolv_code: 3544
     language_tag: knc-x-HIS03544

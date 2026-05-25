@@ -1,8 +1,6 @@
 ---
 iso: nng
 name: Maring Naga
-name_zh: 玛林纳加语
-name_zh_auto: true
 autonym: Maring
 alt_names: [Naga, Naga maring, "Naga, Maring", "Naga,Maring"]
 population: 25800
@@ -16,5 +14,9 @@ glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Kuki-Chin-Naga > Tangkhul-Maring > Maringic > Maring Naga"
 wikipedia_url: "https://en.wikipedia.org/wiki/Maringic_languages"
+translations:
+  - translation_iso: zho
+    name: 玛林纳加语
+    auto: true
 ---
 The Maringic languages is a small group of Sino-Tibetan languages consisting of Maring and Uipo, two closely related languages spoken by the Maring and Khoibu people in Manipur, India. Linguistically, they may be closest to the Tangkhulic languages.

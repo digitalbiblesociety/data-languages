@@ -1,8 +1,6 @@
 ---
 iso: blm
 name: Beli (South Sudan)
-name_zh: 贝利语（南苏丹）
-name_zh_auto: true
 autonym: Jur ’Bëlï
 alt_names: ["'Beli", Behli, Beili, Beli, Beli (Sudan), Jur Beli]
 population: 65000
@@ -16,6 +14,10 @@ glottolog_family_id: cent2225
 glottolog_family_name: Central Sudanic
 glottolog_classification: "Central Sudanic > Sara-Bongo-Bagirmi > Baka-Beli > Morokodo-Beli > Beli (South Sudan)"
 wikipedia_url: "https://en.wikipedia.org/wiki/Beli_language_(South_Sudan)"
+translations:
+  - translation_iso: zho
+    name: 贝利语（南苏丹）
+    auto: true
 rolv_dialects:
   - rolv_code: 3849
     language_tag: blm-x-HIS03849

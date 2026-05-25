@@ -1,8 +1,6 @@
 ---
 iso: xri
 name: "Krikati-Timbira"
-name_zh: 克里卡蒂-廷比拉语
-name_zh_auto: true
 autonym: "Canela-Krahô"
 population: 420
 country_id: BR
@@ -10,6 +8,10 @@ country_name: Brazil
 status_id: 6a
 latitude: -5.94252
 longitude: -46.75038
+translations:
+  - translation_iso: zho
+    name: 克里卡蒂-廷比拉语
+    auto: true
 rolv_dialects:
   - rolv_code: 2321
     language_tag: xri-x-HIS02321

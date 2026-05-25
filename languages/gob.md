@@ -1,8 +1,6 @@
 ---
 iso: gob
 name: Playero
-name_zh: 玩耍罗语
-name_zh_auto: true
 autonym: Jiwi
 alt_names: [Pepojivi, Rio Arauca Guahibo, Yamarero]
 population: 240
@@ -16,5 +14,9 @@ glottolog_family_id: guah1252
 glottolog_family_name: Guahiboan
 glottolog_classification: "Guahiboan > Nuclear Guahiboan > Central Guahibo > Guahibo-Playero > Playero"
 wikipedia_url: "https://en.wikipedia.org/wiki/Playero_language"
+translations:
+  - translation_iso: zho
+    name: 玩耍罗语
+    auto: true
 ---
 Playero is a Guahiban language spoken by about 244 people in Colombia and Venezuela. Speakers are somewhat acculterated and bilingual in Spanish. Playero adults use the language commonly, but it is not taught in schools.

@@ -1,7 +1,6 @@
 ---
 iso: tsn
 name: Tswana
-name_zh: 茨瓦纳语
 autonym: Setswana
 alt_names: [Bahasa Setswana, Bahasa Tswana, Beetjuans, Chuana, Chwana, Coana, Cuana, Cvana lingvo, Gjuha tsvana, Język tswana, Lingua tswana, Língua tsuana, Rolon, Sechuana, Sestwana, Setsuana, Tiếng Tswana, Tshwana, Tsiwaha, Tsuana, Tsvana keel, Tsvanų kalba, Tswana dili, Tswana simi, Tswanan kieli, Tswaneg, Tswanum, Èdè Tswana, Тсвана, ツワナ語, 茨瓦纳语, 츠와나어]
 population: 5815730
@@ -16,6 +15,17 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > East Bantu > Southern Bantu > Nuclear Southern Bantu > Dimsuffix Southern Bantu > Sotho-Tswana (S.30) > Western Sotho-Tswana > Central Sotho-Tswana > Tswana"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tswana_language"
+translations:
+  - translation_iso: ara
+    name: التسوانية
+  - translation_iso: hin
+    name: त्सवना भाषा
+  - translation_iso: jpn
+    name: ツワナ語
+  - translation_iso: kor
+    name: 츠와나어
+  - translation_iso: zho
+    name: 茨瓦纳语
 rolv_dialects:
   - rolv_code: 17691
     language_tag: tn-x-HIS17691

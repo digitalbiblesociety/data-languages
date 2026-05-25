@@ -1,8 +1,6 @@
 ---
 iso: gnm
 name: Ginuman
-name_zh: 吉努曼语
-name_zh_auto: true
 autonym: Dime
 population: 1442
 country_id: PG
@@ -15,6 +13,10 @@ glottolog_family_id: daga1274
 glottolog_family_name: Dagan
 glottolog_classification: "Dagan > Southeast Dagan > Ginuman"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ginuman_language"
+translations:
+  - translation_iso: zho
+    name: 吉努曼语
+    auto: true
 rolv_dialects:
   - rolv_code: 2351
     language_tag: gnm-x-HIS02351

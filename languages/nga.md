@@ -1,8 +1,6 @@
 ---
 iso: nga
 name: Ngbaka
-name_zh: 恩巴卡语
-name_zh_auto: true
 autonym: Ngbaka Minagende
 alt_names: ["'Bofi", Ali, Mbaka, Ngbaka Gbaya, Ngbaka Minangende, Ngbaka-Manza, Ngbaka-Minagende, Ngbaka-Minangende]
 population: 1016650
@@ -16,5 +14,11 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Gbaya-Manza-Ngbaka > Gbaya Oriental > Gbanu-Manza-Ngbaka > Manza-Ngbaka > Ngbaka Minagende"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ngbaka_Minagende_language"
+translations:
+  - translation_iso: jpn
+    name: ングバカ・バヤ語
+  - translation_iso: zho
+    name: 恩巴卡语
+    auto: true
 ---
 Ngbaka (Ngbàkà) is a Gbaya language spoken by just over a million people in the Democratic Republic of the Congo. It is a regionally important language, used by the Gilima, Ngbundu, Mbandja and Mono peoples, and is taught in primary schools; 10% are literate in Ngbaka.

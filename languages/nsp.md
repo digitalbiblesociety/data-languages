@@ -1,8 +1,6 @@
 ---
 iso: nsp
 name: Nepalese Sign Language
-name_zh: 尼泊尔手语
-name_zh_auto: true
 autonym: Nepali Sign Language
 population: 5743
 country_id: NP
@@ -15,6 +13,14 @@ glottolog_family_id: sign1238
 glottolog_family_name: Sign Language
 glottolog_classification: "Sign Language > L1 Sign Language > Indo-Pakistani-Nepalese Sign > Nepalese Sign Language"
 wikipedia_url: "https://en.wikipedia.org/wiki/Nepali_Sign_Language"
+translations:
+  - translation_iso: hin
+    name: नेपाली सांकेतिक भाषा
+  - translation_iso: jpn
+    name: ネパール手話
+  - translation_iso: zho
+    name: 尼泊尔手语
+    auto: true
 rolv_dialects:
   - rolv_code: 26416
     language_tag: nsp-x-HIS26416

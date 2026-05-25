@@ -1,8 +1,6 @@
 ---
 iso: ste
 name: "Liana-Seti"
-name_zh: 利亚纳-塞蒂语
-name_zh_auto: true
 autonym: "Liana-Seti"
 alt_names: [Liambata-Kobi, Liana, Lianan, Teula, Uhei Kachlakan, Uhei Kaclakin, Uhei Kahlakim]
 population: 3000
@@ -16,6 +14,10 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Greater Seram Laut > East Seram > Setic > Liana-Seti"
 wikipedia_url: "https://en.wikipedia.org/wiki/Liana_language"
+translations:
+  - translation_iso: zho
+    name: 利亚纳-塞蒂语
+    auto: true
 rolv_dialects:
   - rolv_code: 12925
     language_tag: ste-x-HIS12925

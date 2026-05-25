@@ -1,8 +1,6 @@
 ---
 iso: cuv
 name: Cuvok
-name_zh: 库沃克语
-name_zh_auto: true
 autonym: Tchouvok
 alt_names: [Chuvok]
 population: 5000
@@ -16,5 +14,9 @@ glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > Biu-Mandara > South Biu-Mandara > Matakam > Mefele-Cuvok > Cuvok"
 wikipedia_url: "https://en.wikipedia.org/wiki/Cuvok_language"
+translations:
+  - translation_iso: zho
+    name: 库沃克语
+    auto: true
 ---
 Cuvok is an Afro-Asiatic language spoken in northern Cameroon.

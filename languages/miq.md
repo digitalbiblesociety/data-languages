@@ -1,7 +1,6 @@
 ---
 iso: miq
 name: Mískito
-name_zh: 米斯基托语
 autonym: Mískitu
 alt_names: [Idioma mísquito, Marquito, Miskito, Miskito language, Miskitu, Miskitu simi, Misquito, Mosco, Mosquito, Mísquito]
 population: 143000
@@ -15,6 +14,13 @@ glottolog_family_id: misu1242
 glottolog_family_name: Misumalpan
 glottolog_classification: "Misumalpan > Mískito"
 wikipedia_url: "https://en.wikipedia.org/wiki/Miskito_language"
+translations:
+  - translation_iso: jpn
+    name: ミスキート語
+  - translation_iso: kor
+    name: 미스키토어
+  - translation_iso: zho
+    name: 米斯基托语
 rolv_dialects:
   - rolv_code: 14106
     language_tag: miq-x-HIS14106

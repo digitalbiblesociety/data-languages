@@ -1,8 +1,6 @@
 ---
 iso: qwc
 name: Classical Quechua
-name_zh: 古典克丘亚语
-name_zh_auto: true
 autonym: "Quechua II-C"
 alt_names: [Imperial Kechua, "Quechua, Classical"]
 population: null
@@ -16,5 +14,11 @@ glottolog_family_id: quec1387
 glottolog_family_name: Quechuan
 glottolog_classification: "Quechuan > Classical Quechua"
 wikipedia_url: "https://en.wikipedia.org/wiki/Classical_Quechua"
+translations:
+  - translation_iso: jpn
+    name: 古ケチュア語
+  - translation_iso: zho
+    name: 古典克丘亚语
+    auto: true
 ---
 Classical Quechua or lengua general del inga may refer to two historical forms of Quechua, the exact relationship and degree of closeness between which is controversial, and which have sometimes been identified with each other.

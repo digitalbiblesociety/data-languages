@@ -1,8 +1,6 @@
 ---
 iso: kki
 name: Kagulu
-name_zh: 卡古卢语
-name_zh_auto: true
 autonym: Chikagulu
 alt_names: [Kaguru, Kigaguru, Kigalulu, Kiningo, Northern Sagara, Solwa]
 population: 337000
@@ -16,6 +14,10 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > East Bantu > Northeast Savanna Bantu > Northeast Coastal Bantu > Ruvu > Kagulu"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kagulu_language"
+translations:
+  - translation_iso: zho
+    name: 卡古卢语
+    auto: true
 rolv_dialects:
   - rolv_code: 27938
     language_tag: kki-x-HIS27938

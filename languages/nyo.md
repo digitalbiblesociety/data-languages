@@ -1,7 +1,6 @@
 ---
 iso: nyo
 name: Nyoro
-name_zh: 尼奥罗语
 autonym: Runyoro
 alt_names: [Runyoro-Rutooro]
 population: 967000
@@ -16,6 +15,17 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > East Bantu > Northeast Savanna Bantu > Great Lakes Bantu > West Nyanza > Rutara > North Rutara > Nkore-Kiga-Nyoro-Tooro > Nyoro-Tooro > Nyoro"
 wikipedia_url: "https://en.wikipedia.org/wiki/Nyoro_language"
+translations:
+  - translation_iso: ara
+    name: النيورو
+  - translation_iso: hin
+    name: न्योरो
+  - translation_iso: jpn
+    name: ニョロ語
+  - translation_iso: kor
+    name: 뉴로어
+  - translation_iso: zho
+    name: 尼奥罗语
 rolv_dialects:
   - rolv_code: 15199
     language_tag: nyo-x-HIS15199

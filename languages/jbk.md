@@ -1,8 +1,6 @@
 ---
 iso: jbk
 name: Barikewa
-name_zh: 巴里克瓦语
-name_zh_auto: true
 autonym: Iba
 population: null
 country_id: PG
@@ -14,4 +12,8 @@ glottocode: bari1298
 glottolog_family_id: tura1263
 glottolog_family_name: Turama-Kikori
 glottolog_classification: "Turama-Kikori > Turama-Omatian > Barikewa"
+translations:
+  - translation_iso: zho
+    name: 巴里克瓦语
+    auto: true
 ---

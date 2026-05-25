@@ -1,8 +1,6 @@
 ---
 iso: zmu
 name: Muruwari
-name_zh: 穆鲁瓦里语
-name_zh_auto: true
 autonym: Murawari
 alt_names: [Marawari, MarraaWarree, Maruwari, Moorawarree, Moorawarrie, Morewari, Morowari, Murawarri, Murra warri, Murra-warri, Murrawari, Murrawarri, Murri, Murruwurri, Murueri, Muruwarri, Muruworri, Muruwurri, Yacko Yacko]
 population: null
@@ -16,5 +14,11 @@ glottolog_family_id: pama1250
 glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > Southeastern Pama-Nyungan > New South Wales Pama-Nyungan > Muruwaric > Muruwari"
 wikipedia_url: "https://en.wikipedia.org/wiki/Muruwari_language"
+translations:
+  - translation_iso: jpn
+    name: ムルワリ語
+  - translation_iso: zho
+    name: 穆鲁瓦里语
+    auto: true
 ---
 Muruwari is an extinct Australian Aboriginal language of the Muruwari people, an isolate within the Pama–Nyungan family. Poorly attested Barranbinja may have been a dialect. Muruwari means 'to fall (warri) with a fighting club (murru) in one's hand'. The Muruwari language region includes the areas around the Paroo Shire in Queensland and Brewarrina Shire in New South Wales.

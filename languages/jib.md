@@ -1,8 +1,6 @@
 ---
 iso: jib
 name: Jibu
-name_zh: 吉布语
-name_zh_auto: true
 autonym: Jibanci
 alt_names: [Jibawa]
 population: 30000
@@ -16,6 +14,12 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Jukunoid > Central Jukunoid > Jukun-Mbembe-Wurbo > Jukun > Jibu-Wase > Jibuic > Jibu"
 wikipedia_url: "https://en.wikipedia.org/wiki/Jibu_language"
+translations:
+  - translation_iso: jpn
+    name: ジブ語
+  - translation_iso: zho
+    name: 吉布语
+    auto: true
 rolv_dialects:
   - rolv_code: 11151
     language_tag: jib-x-HIS11151

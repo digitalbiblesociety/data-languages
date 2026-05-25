@@ -1,8 +1,6 @@
 ---
 iso: mcn
 name: Masana
-name_zh: 马萨纳语
-name_zh_auto: true
 autonym: Masana
 alt_names: ["\"Banana\"", Banana, Llengua massa, Masa, Masana hizkuntza, Masana jezik, Masaneg, Massa, Massa language, Walia, Масаски език]
 population: 342000
@@ -16,6 +14,12 @@ glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > Masa > North Masa > Masa-Gizey-Ham > Masana"
 wikipedia_url: "https://en.wikipedia.org/wiki/Massa_language"
+translations:
+  - translation_iso: ara
+    name: اللغة الماسية
+  - translation_iso: zho
+    name: 马萨纳语
+    auto: true
 rolv_dialects:
   - rolv_code: 137
     language_tag: mcn-x-HIS00137

@@ -1,7 +1,6 @@
 ---
 iso: eri
 name: Ogea
-name_zh: 奥盖阿语
 autonym: Erima
 alt_names: [Nuru]
 population: 2210
@@ -15,5 +14,8 @@ glottolog_family_id: nucl1709
 glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Madang > Rai Coast > Nuru > Erimaic > Ogea"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ogea_language"
+translations:
+  - translation_iso: zho
+    name: 奥盖阿语
 ---
 Ogea or Erima is a Papuan language spoken by approximately 2210 people living in an area 18 kilometers south of the town of Madang, in the Madang Province of Papua New Guinea.

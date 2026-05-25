@@ -1,8 +1,6 @@
 ---
 iso: ubi
 name: Ubi
-name_zh: 乌比语
-name_zh_auto: true
 autonym: Oubi
 alt_names: [Ubi language]
 population: 1100
@@ -16,5 +14,9 @@ glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > East Chadic > East Chadic B > East Chadic B.3 > Ubi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ubi_language"
+translations:
+  - translation_iso: zho
+    name: 乌比语
+    auto: true
 ---
 Ubi is an Afro-Asiatic language spoken in Guéra region, Chad.

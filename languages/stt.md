@@ -1,8 +1,6 @@
 ---
 iso: stt
 name: Budeh Stieng
-name_zh: 布德斯蒂恩格语
-name_zh_auto: true
 autonym: Lower Stieng
 alt_names: [Budeh, Southern Stieng, Stieng, Stieng Budeh, "Stieng, Budeh"]
 population: null
@@ -15,6 +13,10 @@ glottocode: bude1236
 glottolog_family_id: aust1305
 glottolog_family_name: Austroasiatic
 glottolog_classification: "Austroasiatic > Bahnaric > West Bahnaric > South Bahnaric > Mnong-Stieng-Chrau > Stieng > Budeh Stieng"
+translations:
+  - translation_iso: zho
+    name: 布德斯蒂恩格语
+    auto: true
 rolv_dialects:
   - rolv_code: 3172
     language_tag: stt-x-HIS03172

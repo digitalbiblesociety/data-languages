@@ -1,8 +1,6 @@
 ---
 iso: bby
 name: Befang
-name_zh: 贝芳语
-name_zh_auto: true
 autonym: Befang
 alt_names: [Beba-Befang, Biba-Bifang, Bifang, Menchum]
 population: 2980
@@ -16,6 +14,10 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Wide Grassfields > Menchum"
 wikipedia_url: "https://en.wikipedia.org/wiki/Menchum_language"
+translations:
+  - translation_iso: zho
+    name: 贝芳语
+    auto: true
 rolv_dialects:
   - rolv_code: 7921
     language_tag: bby-x-HIS07921

@@ -1,8 +1,6 @@
 ---
 iso: rav
 name: Sampang
-name_zh: 桑邦语
-name_zh_auto: true
 autonym: Sampang Gun
 alt_names: [Jindā, Rai, Sampange Rai, Sampangish, Sangpang, Sangpang Gun, Sangpang Gîn, Sangpang Kha]
 population: 18300
@@ -16,6 +14,10 @@ glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Himalayish > Mahakiranti > Kiranti > Eastern Kiranti > Khambu > Sampang"
 wikipedia_url: "https://en.wikipedia.org/wiki/Sampang_language"
+translations:
+  - translation_iso: zho
+    name: 桑邦语
+    auto: true
 rolv_dialects:
   - rolv_code: 16298
     language_tag: rav-x-HIS16298

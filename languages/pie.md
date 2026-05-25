@@ -1,8 +1,6 @@
 ---
 iso: pie
 name: Piro
-name_zh: 皮罗语
-name_zh_auto: true
 autonym: null
 alt_names: [Senecu, Tompiro]
 population: null
@@ -16,5 +14,11 @@ glottolog_family_id: kiow1265
 glottolog_family_name: Kiowa-Tanoan
 glottolog_classification: "Kiowa-Tanoan > Tiwa-Piro > Piro"
 wikipedia_url: "https://en.wikipedia.org/wiki/Piro_Pueblo_language"
+translations:
+  - translation_iso: hin
+    name: पीरो भाषा
+  - translation_iso: zho
+    name: 皮罗语
+    auto: true
 ---
 Piro is a poorly attested, extinct Tanoan language once spoken in the more than twenty Piro Pueblos near Socorro, New Mexico. It has generally been classified as one of the Tiwa languages, though Leap (1971) contested whether or not Piro is truly a Tanoan language at all. The last known speaker, an elderly woman, was interviewed by Mooney in 1897, and by 1909 all Piro members had Mexican Spanish as their native language.

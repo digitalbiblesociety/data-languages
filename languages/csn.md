@@ -1,8 +1,6 @@
 ---
 iso: csn
 name: Colombian Sign Language
-name_zh: 哥伦比亚手语
-name_zh_auto: true
 autonym: Lengua de Señas Colombiana
 population: 151000
 country_id: CO
@@ -15,6 +13,14 @@ glottolog_family_id: sign1238
 glottolog_family_name: Sign Language
 glottolog_classification: "Sign Language > L1 Sign Language > LSFic > ASLic > West-Central South American Sign > Colombian Sign Language"
 wikipedia_url: "https://en.wikipedia.org/wiki/Colombian_Sign_Language"
+translations:
+  - translation_iso: hin
+    name: कोलंबियाई सांकेतिक भाषा
+  - translation_iso: jpn
+    name: コロンビア手話
+  - translation_iso: zho
+    name: 哥伦比亚手语
+    auto: true
 rolv_dialects:
   - rolv_code: 24717
     language_tag: csn-x-HIS24717

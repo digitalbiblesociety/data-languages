@@ -1,8 +1,6 @@
 ---
 iso: iqu
 name: Iquito
-name_zh: 伊基托语
-name_zh_auto: true
 autonym: Amacacore
 alt_names: [Akanoini, Hamacore, Idioma iquito, Ikiteg, Ikito, Ikito-Kawarano, Ikitu, Iquita, Iquito-Cahuarano, Puca-Uma, Quiturran]
 population: 500
@@ -16,6 +14,12 @@ glottolog_family_id: zapa1251
 glottolog_family_name: Zaparoan
 glottolog_classification: "Zaparoan > Iquito-Arabela > Cahuarano-Iquito > Iquito"
 wikipedia_url: "https://en.wikipedia.org/wiki/Iquito_language"
+translations:
+  - translation_iso: jpn
+    name: イキト語
+  - translation_iso: zho
+    name: 伊基托语
+    auto: true
 rolv_dialects:
   - rolv_code: 27097
     language_tag: iqu-x-HIS27097

@@ -1,8 +1,6 @@
 ---
 iso: ass
 name: Ipulo
-name_zh: 阿松博语
-name_zh_auto: true
 autonym: Assumbo
 alt_names: [Asumbo, Badzumbo]
 population: 2500
@@ -16,6 +14,10 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Tivoid > Central Tivoid > Central Tivoid B > Ipulo-Olulu"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ipulo_language"
+translations:
+  - translation_iso: zho
+    name: 阿松博语
+    auto: true
 rolv_dialects:
   - rolv_code: 6228
     language_tag: ass-x-HIS06228

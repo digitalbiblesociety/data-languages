@@ -1,7 +1,6 @@
 ---
 iso: tgx
 name: Tagish
-name_zh: 塔吉什语
 autonym: Tā̀gish
 alt_names: [Tagís]
 population: 400
@@ -15,5 +14,16 @@ glottolog_family_id: atha1245
 glottolog_family_name: Athabaskan-Eyak-Tlingit
 glottolog_classification: "Athabaskan-Eyak-Tlingit > Athabaskan-Eyak > Athabaskan > Northwestern Canada Athabaskan > Cordillera Athabaskan > Nahanni > Tagish"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tagish_language"
+translations:
+  - translation_iso: ara
+    name: التاغيش
+  - translation_iso: hin
+    name: टैगिश
+  - translation_iso: jpn
+    name: タギシュ語
+  - translation_iso: kor
+    name: 타기시어
+  - translation_iso: zho
+    name: 塔吉什语
 ---
 Tagish is an extinct Athabaskan language spoken by the Tagish or Carcross-Tagish, a First Nations people that historically lived in the Northwest Territories and Yukon in Canada. The Tagish people refer to themselves as, literally "Tagish people", where is a place name meaning "it is breaking up".

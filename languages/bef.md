@@ -1,8 +1,6 @@
 ---
 iso: bef
 name: Benabena
-name_zh: 贝纳贝纳语
-name_zh_auto: true
 autonym: "Bena-bena"
 alt_names: [Bena]
 population: 45000
@@ -16,6 +14,12 @@ glottolog_family_id: nucl1709
 glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Kainantu-Goroka > Goroka > Nuclear Goroka > Siane-Yagaria > Benabena"
 wikipedia_url: "https://en.wikipedia.org/wiki/Benabena_language"
+translations:
+  - translation_iso: jpn
+    name: ベナベナ語
+  - translation_iso: zho
+    name: 贝纳贝纳语
+    auto: true
 rolv_dialects:
   - rolv_code: 24348
     language_tag: bef-x-HIS24348

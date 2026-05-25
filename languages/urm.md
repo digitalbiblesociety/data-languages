@@ -1,8 +1,6 @@
 ---
 iso: urm
 name: Urapmin
-name_zh: 乌拉普民语
-name_zh_auto: true
 autonym: Tifalmin
 alt_names: [Urapmin jezik]
 population: 370
@@ -16,5 +14,9 @@ glottolog_family_id: nucl1709
 glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Asmat-Awyu-Ok > Awyu-Ok > Ok-Oksapmin > Ok > Mountain Ok > Division A Mountain Ok > Tifal-Telefol > Tifalic > Urapmin"
 wikipedia_url: "https://en.wikipedia.org/wiki/Urap_language"
+translations:
+  - translation_iso: zho
+    name: 乌拉普民语
+    auto: true
 ---
 Tifal is an Ok language spoken in Papua New Guinea. Dialects are Tifal (Tifalmin), Urap (Urapmin) and Atbal (Atbalmin).

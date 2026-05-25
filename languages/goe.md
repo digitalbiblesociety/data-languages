@@ -1,7 +1,6 @@
 ---
 iso: goe
 name: Gongduk
-name_zh: 工德语
 autonym: Gongdukpa Angདགོང་འདུས་
 alt_names: [Gongdubikha, Gongdue Kha]
 population: 2100
@@ -15,5 +14,10 @@ glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Gongduk"
 wikipedia_url: "https://en.wikipedia.org/wiki/Gongduk_language"
+translations:
+  - translation_iso: jpn
+    name: ゴングドゥク語
+  - translation_iso: zho
+    name: 工德语
 ---
 Gongduk or Gongdu is an endangered Sino-Tibetan language spoken by about 1,000 people in a few inaccessible villages located near the Kuri Chhu river in the Gongdue Gewog of Mongar District in eastern Bhutan. The names of the villages are Bala, Dagsa, Damkhar, Pam, Pangthang, and Yangbari (Ethnologue).

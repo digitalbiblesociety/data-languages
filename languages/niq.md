@@ -1,8 +1,6 @@
 ---
 iso: niq
 name: Nandi
-name_zh: 南迪语
-name_zh_auto: true
 autonym: Naandi
 population: 938000
 country_id: KE
@@ -15,5 +13,11 @@ glottolog_family_id: nilo1247
 glottolog_family_name: Nilotic
 glottolog_classification: "Nilotic > Southern Nilotic > Kalenjin > Central Kalenjin > Plateau Central Kalenjin > Western Plateau Central Kalenjin > Nandi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Naandi_language"
+translations:
+  - translation_iso: jpn
+    name: ナンディ語
+  - translation_iso: zho
+    name: 南迪语
+    auto: true
 ---
 Nandi, also known as Cemual, is a Kalenjin language spoken in the highlands of western Kenya, in the districts of Nandi, Uasin Gishu and Trans-Nzoia.

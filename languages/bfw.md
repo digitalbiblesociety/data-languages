@@ -1,7 +1,6 @@
 ---
 iso: bfw
 name: Bondo
-name_zh: 雷莫语
 autonym: Remo
 alt_names: [Bhonda Bhasha, Bonda, Bonda Poroja, Bonda language, Bonda lingvo, Bondo Poroja, Bondo-Poraja, Bunda, Nanga Poroja, Nanqa Poroja, Poraja Katha, Remosum, Remsan, Бондо]
 population: 3500
@@ -15,6 +14,13 @@ glottolog_family_id: aust1305
 glottolog_family_name: Austroasiatic
 glottolog_classification: "Austroasiatic > Mundaic > Gutob-Remo > Bondo"
 wikipedia_url: "https://en.wikipedia.org/wiki/Bonda_language"
+translations:
+  - translation_iso: hin
+    name: रेमो भाषा
+  - translation_iso: jpn
+    name: ボンド語
+  - translation_iso: zho
+    name: 雷莫语
 rolv_dialects:
   - rolv_code: 8294
     language_tag: bfw-x-HIS08294

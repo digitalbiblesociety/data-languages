@@ -1,8 +1,6 @@
 ---
 iso: djr
 name: Djambarrpuyngu
-name_zh: 詹巴普因古语
-name_zh_auto: true
 autonym: "Dhay'yi"
 alt_names: [Djambar-pinga, Djambarbingo, Djambarbino, Djambarbwingo, Djambarbwingu, Djambarpingu, Djambarrpuyng, Djambarwingu, Gujula, Gwiyula, Jambapuing, Jambapuingo, Jambarboinga, Jum-bapoingo, Naladaer, Ngaladharr, Ngalado, Tchambarupi, Tjambarpoing, Tjambarupingu]
 population: 4280
@@ -15,4 +13,8 @@ glottocode: djam1256
 glottolog_family_id: pama1250
 glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > Yuulngu > Southern Yolngu > Southern-Eastern Yolngu > Dhuwal-Dhuwala > Eastern Dhuwal-Dhuwala > Djambarrpuyngu"
+translations:
+  - translation_iso: zho
+    name: 詹巴普因古语
+    auto: true
 ---

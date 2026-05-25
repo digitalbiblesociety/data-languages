@@ -1,8 +1,6 @@
 ---
 iso: iko
 name: "Olulumo-Ikom"
-name_zh: 卢卢莫-伊科姆语
-name_zh_auto: true
 autonym: Lulumo
 population: 25000
 country_id: NG
@@ -15,6 +13,10 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Delta Cross > Upper Cross > Central Upper Cross > East-West Central Delta Cross > Olulumo-Ikom"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ikom_language"
+translations:
+  - translation_iso: zho
+    name: 卢卢莫-伊科姆语
+    auto: true
 rolv_dialects:
   - rolv_code: 2193
     language_tag: iko-x-HIS02193

@@ -1,7 +1,6 @@
 ---
 iso: xct
 name: Classical Tibetan
-name_zh: 古典藏語
 autonym: null
 alt_names: ["Tibetan, Classical"]
 population: null
@@ -15,5 +14,12 @@ glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Bodic > Bodish > Early Old Tibetan > Classical Tibetan"
 wikipedia_url: "https://en.wikipedia.org/wiki/Classical_Tibetan"
+translations:
+  - translation_iso: jpn
+    name: 古典チベット語
+  - translation_iso: kor
+    name: 고전 티베트어
+  - translation_iso: zho
+    name: 古典藏語
 ---
 Classical Tibetan, sometimes called Chöke in Bhutan, is a liturgical language of Tibetan Buddhism that dates from the 9th century. It particularly refers to the language of early canonical texts translated from other languages, especially Sanskrit. It is one of the handful of 'living' classical languages along with Arabic, Ge'ez, and New Persian, though it meaningfully differs from Modern Standard Tibetan.

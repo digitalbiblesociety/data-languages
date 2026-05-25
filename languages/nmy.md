@@ -1,7 +1,6 @@
 ---
 iso: nmy
 name: Namuyi
-name_zh: 納木依語
 autonym: Namuyi
 alt_names: [Namuzi, 納木依, 納木義, 納木茲]
 population: 200
@@ -15,6 +14,11 @@ glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Burmo-Qiangic > Na-Qiangic > Naic > Namuyi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Namuyi_language"
+translations:
+  - translation_iso: jpn
+    name: ナムイ語
+  - translation_iso: zho
+    name: 納木依語
 rolv_dialects:
   - rolv_code: 26931
     language_tag: nmy-x-HIS26931

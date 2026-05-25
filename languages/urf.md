@@ -1,8 +1,6 @@
 ---
 iso: urf
 name: Uradhi
-name_zh: 乌拉迪语
-name_zh_auto: true
 autonym: Injinoo
 population: null
 country_id: AU
@@ -11,6 +9,10 @@ status_id: "10"
 latitude: -12.06792
 longitude: 142.13487
 wikipedia_url: "https://en.wikipedia.org/wiki/Uradhi_language"
+translations:
+  - translation_iso: zho
+    name: 乌拉迪语
+    auto: true
 rolv_dialects:
   - rolv_code: 25767
     language_tag: urf-x-HIS25767

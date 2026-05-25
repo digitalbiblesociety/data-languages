@@ -1,7 +1,6 @@
 ---
 iso: nmf
 name: Tangkhul Naga (India)
-name_zh: 唐窟語
 autonym: Luhupa
 alt_names: [Central Luhupa, Champhung, Kupome, Luhuppa, Luppa, Naga, Naga (Tangkhul), "Naga, Tangkhul", "Naga, Tangkhul (India)", "Naga,Tangkhul", Northern Luhupa, Somra, Tagkhul, Tangkhul, Tangkhul Group, Tangkhul Naga, Tangkul, Thangkhulm, Tśamphung]
 population: 187000
@@ -15,6 +14,13 @@ glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Kuki-Chin-Naga > Tangkhul-Maring > Tangkhulic > Nuclear Tangkhulic > East-Central Tangkhul Naga"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tangkhul_language"
+translations:
+  - translation_iso: hin
+    name: तांगखुल भाषा
+  - translation_iso: jpn
+    name: タンクル語
+  - translation_iso: zho
+    name: 唐窟語
 rolv_dialects:
   - rolv_code: 3855
     language_tag: nmf-x-HIS03855

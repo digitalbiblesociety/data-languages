@@ -1,8 +1,6 @@
 ---
 iso: nsz
 name: Nisenan
-name_zh: 尼塞南语
-name_zh_auto: true
 autonym: Southern Maidu
 alt_names: [Maidu (Southern), Neeshenam, Nisenan (Central Hill), Nishinam, Pujuni, S Maidu, S. Maidu, South Maidu, Wapumni]
 population: null
@@ -16,5 +14,9 @@ glottolog_family_id: maid1262
 glottolog_family_name: Maiduan
 glottolog_classification: "Maiduan > Nisenan"
 wikipedia_url: "https://en.wikipedia.org/wiki/Nisenan_language"
+translations:
+  - translation_iso: zho
+    name: 尼塞南语
+    auto: true
 ---
 Nisenan is a nearly extinct Maiduan language spoken by the Nisenan people of central California in the foothills of the Sierras, in the whole of the American, Bear and Yuba river drainages.

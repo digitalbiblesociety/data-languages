@@ -1,8 +1,6 @@
 ---
 iso: brw
 name: Bellari
-name_zh: 贝拉里语
-name_zh_auto: true
 autonym: ಬೆಳ್ಳಾರಿ ബെല്ലാരി
 alt_names: [Belarí]
 population: 1350
@@ -16,5 +14,13 @@ glottolog_family_id: drav1251
 glottolog_family_name: Dravidian
 glottolog_classification: "Dravidian > South Dravidian > South Dravidian I > South-Western Dravidian > Bellari"
 wikipedia_url: "https://en.wikipedia.org/wiki/Bellari_language"
+translations:
+  - translation_iso: hin
+    name: बेल्लारी भाषा
+  - translation_iso: jpn
+    name: ベラリ語
+  - translation_iso: zho
+    name: 贝拉里语
+    auto: true
 ---
 Bellari is a Dravidian variety of India spoken by about 1,000 Bellara, a Scheduled Caste of Karnataka and Kerala. It is reportedly close to Tulu and Koraga, but it is not known if it is a separate language or a dialect of Tulu. A community of fifty families of basket-weavers lives in Kundapura Taluk in coastal Karnataka.

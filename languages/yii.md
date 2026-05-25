@@ -1,7 +1,6 @@
 ---
 iso: yii
 name: Yidiny
-name_zh: 依蒂尼语
 autonym: Boolboora
 alt_names: [Bolambi, Charroogin, Deba, Djumbandji, Eneby, Gerrah, Gijow, Gillah, Guwamal, "Idi:", Idin, Idin Idindji, Idin-Wudjar, Idindji, Idinji, Ilba, Indindji, Itti, Jidindji, Jumbandjie, Kitba, Lenga yidiny, Maiara, Maimbi, Maimbie, Mulgrave River dialect, Mungera, Mungera Ohalo, Mungerra, Myarah, Pegullo-Bura, Pegullobura, Peulloburra, Warra-Warra, Warryboora, Woggil, Wudjar, Yellingie, Yetinji, Yettingie, Yiddinji, Yidin, Yidindji, Yidindyi, Yidini, Yidinj, Yiti-ntyi, Yitintyi, Yukkaburra]
 population: 52
@@ -15,6 +14,9 @@ glottolog_family_id: pama1250
 glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > Yimidhirr-Yalanji-Yidinic > Yidinic > Yidiñ"
 wikipedia_url: "https://en.wikipedia.org/wiki/Yidiny_language"
+translations:
+  - translation_iso: zho
+    name: 依蒂尼语
 rolv_dialects:
   - rolv_code: 18580
     language_tag: yii-x-HIS18580

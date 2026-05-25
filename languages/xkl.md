@@ -1,8 +1,6 @@
 ---
 iso: xkl
 name: Mainstream Kenyah
-name_zh: 主流肯雅语
-name_zh_auto: true
 autonym: Lepo’
 alt_names: [Bakong, Bakung, Bakung Kenya, Bakung Kenyah, Highland Kenyah, Kehja, Kelinjau, Kelinyau, Kenja, Kenya, Kenyah, "Kenyah, Kelinyau", Kindjin, Kinjin, Madang, Usun Apau Kenyah]
 population: 52000
@@ -16,6 +14,12 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > North Borneo Malayo-Polynesian > North Sarawakan > Kenyahic > Highland Kenyah > Usun Apau Kenyah"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mainstream_Kenyah_language"
+translations:
+  - translation_iso: ara
+    name: لغة الكينياه السائدة
+  - translation_iso: zho
+    name: 主流肯雅语
+    auto: true
 rolv_dialects:
   - rolv_code: 574
     language_tag: xkl-x-HIS00574

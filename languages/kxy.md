@@ -1,7 +1,6 @@
 ---
 iso: kxy
 name: Kayong
-name_zh: 歌庸语
 autonym: Ca Giong
 alt_names: [Cagiuong, Kagiuong, Katang]
 population: 2000
@@ -15,6 +14,9 @@ glottolog_family_id: aust1305
 glottolog_family_name: Austroasiatic
 glottolog_classification: "Austroasiatic > Bahnaric > North Bahnaric > Kayong-Jeh-Halang > Kayong"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kayong_language_(Vietnam)"
+translations:
+  - translation_iso: zho
+    name: 歌庸语
 rolv_dialects:
   - rolv_code: 29580
     language_tag: kxy-x-HIS29580

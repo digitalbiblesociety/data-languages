@@ -1,7 +1,6 @@
 ---
 iso: dtd
 name: Ditidaht
-name_zh: 迪蒂达特语
 autonym: Nitinaht
 alt_names: [Diitiidʔaatx̣ (Nitinat), Nitinat]
 population: null
@@ -15,5 +14,8 @@ glottolog_family_id: waka1280
 glottolog_family_name: Wakashan
 glottolog_classification: "Wakashan > Southern Wakashan > Makah-Nitinat > Ditidaht"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ditidaht_language"
+translations:
+  - translation_iso: zho
+    name: 迪蒂达特语
 ---
 Ditidaht [dee-tee-dot] or diitiidʔaaʔtx̣ is a South Wakashan (Nootkan) language spoken on the southern part of Vancouver Island. Nitinaht is related to the other South Wakashan languages, Makah and the neighboring Nuu-chah-nulth.

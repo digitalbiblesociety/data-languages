@@ -1,8 +1,6 @@
 ---
 iso: rea
 name: Rerau
-name_zh: 雷劳语
-name_zh_auto: true
 autonym: null
 population: 590
 country_id: PG
@@ -15,6 +13,10 @@ glottolog_family_id: nucl1709
 glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Madang > Rai Coast > Mindjim > Upper Minjim > Rerau"
 wikipedia_url: "https://en.wikipedia.org/wiki/Rerau_language"
+translations:
+  - translation_iso: zho
+    name: 雷劳语
+    auto: true
 rolv_dialects:
   - rolv_code: 30313
     language_tag: rea-x-HIS30313

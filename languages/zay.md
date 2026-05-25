@@ -1,8 +1,6 @@
 ---
 iso: zay
 name: "Zayse-Zergulla"
-name_zh: 扎伊塞-泽尔古拉语
-name_zh_auto: true
 autonym: Zaisse
 alt_names: [Zayse, Zaysete, Zaysse, Zaysé, Zaysé-Zergulla, Zeyse]
 population: 18500
@@ -16,6 +14,10 @@ glottolog_family_id: gong1255
 glottolog_family_name: Ta-Ne-Omotic
 glottolog_classification: "Ta-Ne-Omotic > Ometo > East Ometo > Zayse-Zergulla"
 wikipedia_url: "https://en.wikipedia.org/wiki/Zayse-Zergulla_language"
+translations:
+  - translation_iso: zho
+    name: 扎伊塞-泽尔古拉语
+    auto: true
 rolv_dialects:
   - rolv_code: 18699
     language_tag: zay-x-HIS18699

@@ -1,8 +1,6 @@
 ---
 iso: djm
 name: Jamsay Dogon
-name_zh: 詹赛多贡语
-name_zh_auto: true
 autonym: Jamsay
 alt_names: [Dogon, "Dogon, Jamsay", Dyamsay Tegu]
 population: 130000
@@ -16,6 +14,12 @@ glottolog_family_id: dogo1299
 glottolog_family_name: Dogon
 glottolog_classification: "Dogon > Plains Dogon > Jamsay Dogon"
 wikipedia_url: "https://en.wikipedia.org/wiki/Jamsai_Dogon"
+translations:
+  - translation_iso: jpn
+    name: ジャマサイ方言
+  - translation_iso: zho
+    name: 詹赛多贡语
+    auto: true
 rolv_dialects:
   - rolv_code: 24806
     language_tag: djm-x-HIS24806

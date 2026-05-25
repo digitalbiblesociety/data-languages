@@ -1,7 +1,6 @@
 ---
 iso: mkd
 name: Macedonian
-name_zh: 马其顿语
 autonym: македонскиmakedonski
 alt_names: [An Mhacadóinis, Bahasa Macedonia, Bahasa Makedonia, Gjuha sllavomaqedone, Idioma macedonio, Język macedoński, Lengua maçedone, Limba macedoneană, Lingua Macedonica moderna, Lingua macedone, Lingua macedonia, Lingua macèdoni, Língua macedônia, Macedonian Slavic, Macedoniana linguo, Macedonie leid, Macedonies, Macedonisch, Macedoniu, Macedònic, Macedón nyelv, Macedónčina, Macedůńsko godka, Macédonien, Makedon dili, Makedona lingvo, Makedonca, Makedonek, Makedoniagiella, Makedonian kieli, Makedonsk, Makedonska, Makedonski, Makedonski jezik, Makedonština, Makedonšćina, Makedonščina, Makedonų kalba, Makedoonia keel, Makedońska rěc, Makedónska, Makidunya simi, Mazedoniera, Mazedonische Sprache, Maķedoniešu valoda, Slavic, Σλαβομακεδονική γλώσσα, Забони мақдунӣ, Македонская мова, Македонски език, Македонски јазик, Македонски језик, Македонский язык, Македонська мова, Макєдо́ньскъ ѩꙁꙑ́къ, מקדונית, لغة مقدونية, ماكېدون تىلى, मेसिडोनियन भाषा, ภาษามาซิโดเนีย, მაკედონური ენა, マケドニア語, 马其顿语, 마케도니아어]
 population: 1713880
@@ -16,6 +15,17 @@ glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Balto-Slavic > Slavic > South Slavic > Eastern South Slavic > Macedo-Bulgarian > Macedonian"
 wikipedia_url: "https://en.wikipedia.org/wiki/Macedonian_language"
+translations:
+  - translation_iso: ara
+    name: المقدونية
+  - translation_iso: hin
+    name: मेसिडोनियन भाषा
+  - translation_iso: jpn
+    name: マケドニア語
+  - translation_iso: kor
+    name: 마케도니아어
+  - translation_iso: zho
+    name: 马其顿语
 rolv_dialects:
   - rolv_code: 13235
     language_tag: mk-x-HIS13235

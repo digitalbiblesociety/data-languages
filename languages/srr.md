@@ -1,7 +1,6 @@
 ---
 iso: srr
 name: Serer
-name_zh: 塞雷尔语
 autonym: Seereer
 alt_names: [Język serer, Língua serer, Seex, Sereer, Serer-Sin, Serer-Sine, Serera lingvo, Serereg, Serrer, Sine-Saloum, Sine-Sine, Sérère, Sérère-Sine, Серер]
 population: 1712300
@@ -16,6 +15,17 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > North-Central Atlantic > Fula-Sereer > Sereer"
 wikipedia_url: "https://en.wikipedia.org/wiki/Serer_language"
+translations:
+  - translation_iso: ara
+    name: لغة سيريرية
+  - translation_iso: hin
+    name: सेरेर
+  - translation_iso: jpn
+    name: セレール語
+  - translation_iso: kor
+    name: 세레르어
+  - translation_iso: zho
+    name: 塞雷尔语
 rolv_dialects:
   - rolv_code: 4957
     language_tag: srr-x-HIS04957

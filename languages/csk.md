@@ -1,8 +1,6 @@
 ---
 iso: csk
 name: "Jola-Kasa"
-name_zh: 约拉-卡萨语
-name_zh_auto: true
 autonym: "Jóola-Kaasa"
 alt_names: [Casa, Diola-Kasa, Jola-kassa, Jóola-Kasa, Kasa]
 population: 45100
@@ -16,6 +14,12 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > North-Central Atlantic > Central Atlantic > Bak > Joola-Manjaku > Jola > FH-Jola > Jola-Esulalu"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kasa_language"
+translations:
+  - translation_iso: jpn
+    name: ジョラ＝カサ語
+  - translation_iso: zho
+    name: 约拉-卡萨语
+    auto: true
 rolv_dialects:
   - rolv_code: 1884
     language_tag: csk-x-HIS01884

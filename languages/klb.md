@@ -1,8 +1,6 @@
 ---
 iso: klb
 name: Kiliwa
-name_zh: 基利瓦语
-name_zh_auto: true
 autonym: Koléew Ñaja
 alt_names: [Kiliwan Subfamily, Kiliwi, Quiligua]
 population: null
@@ -16,5 +14,11 @@ glottolog_family_id: coch1271
 glottolog_family_name: Cochimi-Yuman
 glottolog_classification: "Cochimi-Yuman > Yuman > Kiliwa"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kiliwa_language"
+translations:
+  - translation_iso: jpn
+    name: キリワ語
+  - translation_iso: zho
+    name: 基利瓦语
+    auto: true
 ---
 Kiliwa is a Yuman language spoken in Baja California, in the far northwest of Mexico, by the Kiliwa people.

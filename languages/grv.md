@@ -1,8 +1,6 @@
 ---
 iso: grv
 name: Central Grebo
-name_zh: 中格雷博语
-name_zh_auto: true
 autonym: Kréébo
 alt_names: [Grebo, "Grebo, Central"]
 population: 56100
@@ -15,6 +13,10 @@ glottocode: cent2041
 glottolog_family_id: krua1234
 glottolog_family_name: Kru
 glottolog_classification: "Kru > Greater Western Kru > Western Kru > Grebo-Aizi > Grebo > Liberian Grebo > North-Central Liberian Grebo > Barclayville-Gboloo-Central Liberian Grebo > Gboloo-Central Grebo > Central Grebo"
+translations:
+  - translation_iso: zho
+    name: 中格雷博语
+    auto: true
 rolv_dialects:
   - rolv_code: 782
     language_tag: grv-x-HIS00782

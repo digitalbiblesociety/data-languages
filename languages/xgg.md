@@ -1,13 +1,15 @@
 ---
 iso: xgg
 name: Goreng
-name_zh: 戈伦语
-name_zh_auto: true
 autonym: Noongar
 population: 240
 country_id: AU
 country_name: Australia
 status_id: "10"
 wikipedia_url: "https://en.wikipedia.org/wiki/Goreng_language"
+translations:
+  - translation_iso: zho
+    name: 戈伦语
+    auto: true
 ---
 Noongar, also Nyungar, is an Australian Aboriginal language or dialect continuum, spoken by some members of the Noongar community and others. It is taught actively in Australia, including at schools, universities and through public broadcasting. The country of the Noongar people is the southwest corner of Western Australia. Within that region, many Noongar words have been adopted into Australian English, particularly names of plants and animals.

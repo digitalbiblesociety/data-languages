@@ -1,7 +1,6 @@
 ---
 iso: arq
 name: Algerian Arabic
-name_zh: 阿爾及利亞阿拉伯語
 autonym: دارجة
 alt_names: [Algerian, Algerian Colloquial, Algerisk arabiska, Alžirski arapski, Arabe algérien, Arabeg Aljeria, Arabic, "Arabic, Algerian", "Arabic, Algerian Spoken", Árabe argelino, Алжирски арапски јазик, Алжирский диалект арабского языка, لهجة جزائرية]
 population: 29400000
@@ -16,6 +15,15 @@ glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Semitic > West Semitic > Central Semitic > Arabian > Arabic > North African Arabic > Western Middle Arabic > Maghrebi > Algerian Arabic"
 wikipedia_url: "https://en.wikipedia.org/wiki/Algerian_Arabic"
+translations:
+  - translation_iso: ara
+    name: اللهجة الجزائرية
+  - translation_iso: jpn
+    name: アラビア語アルジェリア方言
+  - translation_iso: kor
+    name: 알제리 아랍어
+  - translation_iso: zho
+    name: 阿爾及利亞阿拉伯語
 rolv_dialects:
   - rolv_code: 6373
     language_tag: ar-DZ-x-HIS06373

@@ -1,8 +1,6 @@
 ---
 iso: cux
 name: Tepeuxila Cuicatec
-name_zh: 特佩乌克西拉奎卡特克语
-name_zh_auto: true
 autonym: "Cuicatec, Tepeuxila"
 alt_names: [Cuica, Cuicatec, Cuicateco, Kwikateko, Teutila]
 population: 8680
@@ -16,6 +14,10 @@ glottolog_family_id: otom1299
 glottolog_family_name: Otomanguean
 glottolog_classification: "Otomanguean > Eastern Otomanguean > Amuzgo-Mixtecan > Mixtecan > Mixtec-Cuicatec > Cuicatec > Tepeuxila Cuicatec"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tepeuxila_Cuicatec_language"
+translations:
+  - translation_iso: zho
+    name: 特佩乌克西拉奎卡特克语
+    auto: true
 rolv_dialects:
   - rolv_code: 19380
     language_tag: cux-x-HIS19380

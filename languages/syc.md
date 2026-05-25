@@ -1,7 +1,6 @@
 ---
 iso: syc
 name: Classical Syriac
-name_zh: 叙利亚语
 autonym: ܠܫܢܐ ܣܘܪܝܝܐ
 alt_names: [Ancient Syriac, Bahasa Suryani, Gammelsyrisk, Język syryjski, Lingua Syriaca, Lingua siriaca, Lishana Atiga, Língua siríaca, Siria lingvo, Siricis, Sirieg, Sirijski jezik, Sirjački jezik, Siríaco, Sirščina, Suryaya, Suryoyo, Syriac, Syriac language, "Syriac, Classical", Syriaque, Syrisch, Syrische Sprache, Syriska, Syrština, Syyrian kieli, Süryanice, Süüria keel, Sýrčina, syriaque classique, Сирийский язык, Сириски јазик, סורית, زبان سریانی, سيريانى, لغة سريانية, സുറിയാനി, ภาษาซีเรียค, シリア語, 敘利亞語, 시리아어]
 population: 575000
@@ -15,6 +14,17 @@ glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Semitic > West Semitic > Central Semitic > Northwest Semitic > Aramaic > Imperial-Middle-Modern Aramaic > Middle-Modern Aramaic > Eastern Aramaic > Classical Syriac"
 wikipedia_url: "https://en.wikipedia.org/wiki/Syriac_language"
+translations:
+  - translation_iso: ara
+    name: السريانية
+  - translation_iso: hin
+    name: सीरियाई भाषा
+  - translation_iso: jpn
+    name: シリア語
+  - translation_iso: kor
+    name: 시리아어
+  - translation_iso: zho
+    name: 叙利亚语
 rolv_dialects:
   - rolv_code: 17000
     language_tag: syc-x-HIS17000

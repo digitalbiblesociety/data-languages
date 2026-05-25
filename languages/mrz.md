@@ -1,8 +1,6 @@
 ---
 iso: mrz
 name: Marind
-name_zh: 玛琳德语
-name_zh_auto: true
 autonym: Gawir
 alt_names: [Holifoersch, Marind (Eastern), Southeast Marind, Tugeri]
 population: 7000
@@ -16,6 +14,10 @@ glottolog_family_id: anim1240
 glottolog_family_name: Anim
 glottolog_classification: "Anim > Marind-Boazi-Yaqai > Marindic > Marind"
 wikipedia_url: "https://en.wikipedia.org/wiki/Marind_language"
+translations:
+  - translation_iso: zho
+    name: 玛琳德语
+    auto: true
 rolv_dialects:
   - rolv_code: 13750
     language_tag: mrz-x-HIS13750

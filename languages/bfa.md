@@ -1,7 +1,6 @@
 ---
 iso: bfa
 name: Bari
-name_zh: 巴里語
 autonym: Karo
 alt_names: [Beri, Kuku, Kuku (Bari), Kukú, Kukú (d. of Bari), Nil-Bari]
 population: 766000
@@ -15,6 +14,13 @@ glottolog_family_id: nilo1247
 glottolog_family_name: Nilotic
 glottolog_classification: "Nilotic > Eastern Nilotic > Barian > Nuclear Barian > Bari"
 wikipedia_url: "https://en.wikipedia.org/wiki/Bari_language"
+translations:
+  - translation_iso: ara
+    name: لغة باري
+  - translation_iso: jpn
+    name: バリ語
+  - translation_iso: zho
+    name: 巴里語
 rolv_dialects:
   - rolv_code: 953
     language_tag: bfa-x-HIS00953

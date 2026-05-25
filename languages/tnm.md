@@ -1,8 +1,6 @@
 ---
 iso: tnm
 name: Tabla
-name_zh: 塔布拉语
-name_zh_auto: true
 autonym: Tanah Merah
 alt_names: [Jakari, Tabi, Tanah Merah(2), Tanahmerah, Tanahmerah 2, Tanahmerah II, Tepera]
 population: 3750
@@ -16,6 +14,10 @@ glottolog_family_id: sent1261
 glottolog_family_name: Sentanic
 glottolog_classification: "Sentanic > Nuclear Sentanic > Tabla"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tabla_language"
+translations:
+  - translation_iso: zho
+    name: 塔布拉语
+    auto: true
 rolv_dialects:
   - rolv_code: 1011
     language_tag: tnm-x-HIS01011

@@ -1,8 +1,6 @@
 ---
 iso: tcp
 name: Tawr Chin
-name_zh: 陶尔钦语
-name_zh_auto: true
 autonym: Tawr Chin
 alt_names: ["Chin, Tawr", "Chin,Tawr", Tawr, Torr]
 population: 700
@@ -16,5 +14,9 @@ glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Kuki-Chin-Naga > Kuki-Chin > Central Kuki-Chin > Core Central Kuki-Chin > Laamtuk Thet"
 wikipedia_url: "https://en.wikipedia.org/wiki/Thor_language"
+translations:
+  - translation_iso: zho
+    name: 陶尔钦语
+    auto: true
 ---
 Thor, also known as Tawr, Laamtuk Thet, or Ruavan Thet, is a Kuki-Chin language spoken in two villages of Hakha Township, Chin State, Myanmar.

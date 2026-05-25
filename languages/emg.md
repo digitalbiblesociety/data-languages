@@ -1,8 +1,6 @@
 ---
 iso: emg
 name: Eastern Meohang
-name_zh: 东梅欧汉语
-name_zh_auto: true
 autonym: Mewahang
 alt_names: [Eastern, Jindā, Meohang, "Meohang, Eastern", "Meohang,Eastern", Newahang, Newahang Jimi, Newang, Newange Rai, Rai]
 population: 3000
@@ -15,6 +13,10 @@ glottocode: east2357
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Himalayish > Mahakiranti > Kiranti > Eastern Kiranti > Upper Arun > Mewahang > Eastern Mewahang"
+translations:
+  - translation_iso: zho
+    name: 东梅欧汉语
+    auto: true
 rolv_dialects:
   - rolv_code: 14007
     language_tag: emg-x-HIS14007

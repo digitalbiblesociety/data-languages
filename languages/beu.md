@@ -1,8 +1,6 @@
 ---
 iso: beu
 name: Blagar
-name_zh: 布拉加尔语
-name_zh_auto: true
 autonym: Tereweng
 alt_names: [Balagur, Belagar, Kaera, Pi Abaŋ Hur, Pura, Tarang]
 population: 11000
@@ -16,6 +14,10 @@ glottolog_family_id: timo1261
 glottolog_family_name: Timor-Alor-Pantar
 glottolog_classification: "Timor-Alor-Pantar > Alor-Pantar > Nuclear Alor-Pantar > West Alor-Straits-Pantar > Kaera-Straits > Blagaric > Blagar"
 wikipedia_url: "https://en.wikipedia.org/wiki/Blagar_language"
+translations:
+  - translation_iso: zho
+    name: 布拉加尔语
+    auto: true
 rolv_dialects:
   - rolv_code: 4132
     language_tag: beu-x-HIS04132

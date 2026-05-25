@@ -1,8 +1,6 @@
 ---
 iso: lax
 name: Tiwa
-name_zh: 蒂瓦语
-name_zh_auto: true
 autonym: Lalung
 alt_names: [Dowyan, Tigua]
 population: 171000
@@ -16,6 +14,14 @@ glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Brahmaputran > Bodo-Garo > Boroic > Tiwa-Boro > Tiwa (India)"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tiwa_language_(India)"
+translations:
+  - translation_iso: hin
+    name: टिवा भाषा
+  - translation_iso: jpn
+    name: ティワ語
+  - translation_iso: zho
+    name: 蒂瓦语
+    auto: true
 rolv_dialects:
   - rolv_code: 20934
     language_tag: lax-x-HIS20934

@@ -1,7 +1,6 @@
 ---
 iso: phr
 name: "Pahari-Potwari"
-name_zh: 帕哈里-波特瓦里语
 autonym: Potwari
 alt_names: [Chibhali, Dhundi-Kairali, Lingua Pothohari, Pothohari, Potohari, Potwareg, Western Pahari, بوتهواري, پوٹھواری, پوٹھوہاری زبان]
 population: 3541900
@@ -14,6 +13,11 @@ glottocode: paha1251
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Indo-Aryan > Middle-Modern Indo-Aryan > Continental Indo-Aryan > Indo-Aryan Northwestern zone > Sindhi-Lahnda > Greater Panjabic > Paharic > Pahari Potwari"
+translations:
+  - translation_iso: jpn
+    name: パハリ語
+  - translation_iso: zho
+    name: 帕哈里-波特瓦里语
 rolv_dialects:
   - rolv_code: 768
     language_tag: phr-x-HIS00768

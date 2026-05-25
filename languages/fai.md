@@ -1,7 +1,6 @@
 ---
 iso: fai
 name: Faiwol
-name_zh: 范沃語
 autonym: null
 alt_names: [Angkiyakmin, Faiwolmin, Fegolmin, Kandam, Kauwol, Unkia, Wokeimin]
 population: 4500
@@ -15,6 +14,9 @@ glottolog_family_id: nucl1709
 glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Asmat-Awyu-Ok > Awyu-Ok > Ok-Oksapmin > Ok > Mountain Ok > Division A Mountain Ok > Tifal-Telefol > Tifalic > Faiwol-Seltaman > Faiwol"
 wikipedia_url: "https://en.wikipedia.org/wiki/Faiwol_language"
+translations:
+  - translation_iso: zho
+    name: 范沃語
 rolv_dialects:
   - rolv_code: 9740
     language_tag: fai-x-HIS09740

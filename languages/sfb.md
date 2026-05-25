@@ -1,8 +1,6 @@
 ---
 iso: sfb
 name: Langue des signes de Belgique Francophone
-name_zh: 比利时法语手语
-name_zh_auto: true
 autonym: Langue des signes de Belgique francophone (LSFB)
 alt_names: [French Belgian Sign Language, LSFB, Langue des Signes Belge Francophone, North Belgium Sign Language, South Belgium Sign Language]
 population: 4000
@@ -16,5 +14,11 @@ glottolog_family_id: sign1238
 glottolog_family_name: Sign Language
 glottolog_classification: "Sign Language > L1 Sign Language > LSFic > Dutch-Belgian Sign > Belgian Sign > Langue des signes de Belgique Francophone"
 wikipedia_url: "https://en.wikipedia.org/wiki/French_Belgian_Sign_Language"
+translations:
+  - translation_iso: jpn
+    name: ワロン手話
+  - translation_iso: zho
+    name: 比利时法语手语
+    auto: true
 ---
 The French Belgian Sign Language is the deaf sign language of the French language Community of Belgium, a country in Western Europe.

@@ -1,8 +1,6 @@
 ---
 iso: cpc
 name: Ajyíninka Apurucayali
-name_zh: 阿吉尼卡-阿普鲁卡亚利语
-name_zh_auto: true
 autonym: Ajyéninka
 alt_names: ["\"Apurucayali Campa\"", "\"Axininka Campa\"", "\"Campa\"", Ajyininka Apurucayali, Apurucayali, Ashaninca, Ashaninca (Brésil), Ashaninka (Pérou), Asháninca, Ashéninca Apurucayali, Ashéninga, Atiri, Axininca language, Campa, Cogapacorí, Lenga ajyíninka apurucayali, Lingua ajyíninka apurucayali, Nanti]
 population: 4000
@@ -16,5 +14,9 @@ glottolog_family_id: araw1281
 glottolog_family_name: Arawakan
 glottolog_classification: "Arawakan > Southern Maipuran > Kampa-Amuesha > Pre-Andine Maipuran > Asha-Ashe-Kak-Matsi-Nan > Asha-Ashe-Kak > Ashe-Asha > Ashe-Asha Norte > Ajyíninka Apurucayali"
 wikipedia_url: "https://en.wikipedia.org/wiki/Axininca_language"
+translations:
+  - translation_iso: zho
+    name: 阿吉尼卡-阿普鲁卡亚利语
+    auto: true
 ---
 Axininca is an Arawakan language of the Ashéninka dialect group spoken along the Apurucayali tributary of the Pachitea River in Peru.

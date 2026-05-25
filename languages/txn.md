@@ -1,8 +1,6 @@
 ---
 iso: txn
 name: West Tarangan
-name_zh: 西塔兰甘语
-name_zh_auto: true
 autonym: Tarangan Barat
 alt_names: [Aroesch, Aru, Tarangan, Tarangan (West), "Tarangan, West", West Trangan]
 population: 6480
@@ -15,6 +13,10 @@ glottocode: west2538
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Aru > West Tarangan"
+translations:
+  - translation_iso: zho
+    name: 西塔兰甘语
+    auto: true
 rolv_dialects:
   - rolv_code: 17214
     language_tag: txn-x-HIS17214

@@ -1,7 +1,6 @@
 ---
 iso: tir
 name: Tigrinya
-name_zh: 提格雷尼亚语
 autonym: ትግርኛ tigriññā
 alt_names: [Bahasa Tigrinya, Idioma tigrinya, Język tigrinia, Kitigrinya, Lengua tigrinn-a, Limba tigrinya, Lingua tigrina, Língua tigrínia, Tigraja lingvo, Tigrajščina, Tigray, Tigrigneg, Tigrinja, Tigrinja jezik, Tigrinska, Tigrinya dili, Tigrinya nyelv, Tigrinyera, Tigriña, Tigriňa, Tiri, Tîrî, Zimanê tigrînya, tigrigna, Тигринья, Тигриня, Тигриња, Тїгрі́ньскъ ѩꙁꙑ́къ, תיגרינית, تىگرىنىيەچە, زبان تیگرینیا, لغة تيغرينية, तिग्रिन्या भाषा, তিগ্রিনিয়া ভাষা, ภาษาทีกรินยา, ትግርኛ, ትግርኛ ፊደል, ティグリニャ語, 提格利尼亞語, 티그리냐어]
 population: 9878000
@@ -16,6 +15,17 @@ glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Semitic > West Semitic > Ethiosemitic > Tigrinya"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tigrinya_language"
+translations:
+  - translation_iso: ara
+    name: التغرينية
+  - translation_iso: hin
+    name: तिग्रीन्या भाषा
+  - translation_iso: jpn
+    name: ティグリニャ語
+  - translation_iso: kor
+    name: 티그리냐어
+  - translation_iso: zho
+    name: 提格雷尼亚语
 rolv_dialects:
   - rolv_code: 29581
     language_tag: ti-x-HIS29581

@@ -1,8 +1,6 @@
 ---
 iso: sew
 name: Sewa Bay
-name_zh: 塞瓦湾语
-name_zh_auto: true
 autonym: Duau Pwata
 population: 1520
 country_id: PG
@@ -15,6 +13,10 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > Papuan Tip linkage > Nuclear Papuan Tip linkage > North Papuan Mainland-D'Entrecasteaux linkage > Dobu-Duau linkage > Sewa Bay"
 wikipedia_url: "https://en.wikipedia.org/wiki/Sewa_Bay_language"
+translations:
+  - translation_iso: zho
+    name: 塞瓦湾语
+    auto: true
 rolv_dialects:
   - rolv_code: 16573
     language_tag: sew-x-HIS16573

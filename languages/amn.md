@@ -1,8 +1,6 @@
 ---
 iso: amn
 name: Amanab
-name_zh: 阿马纳布语
-name_zh_auto: true
 autonym: null
 alt_names: [Amanab jezik, Język amanab, Lingua amanab]
 population: 4420
@@ -16,6 +14,10 @@ glottolog_family_id: bord1247
 glottolog_family_name: Border
 glottolog_classification: "Border > Warisic > Amanab"
 wikipedia_url: "https://en.wikipedia.org/wiki/Amanab_language"
+translations:
+  - translation_iso: zho
+    name: 阿马纳布语
+    auto: true
 rolv_dialects:
   - rolv_code: 27991
     language_tag: amn-x-HIS27991

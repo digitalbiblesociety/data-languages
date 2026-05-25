@@ -1,8 +1,6 @@
 ---
 iso: cmi
 name: "Emberá-Chamí"
-name_zh: 埃姆贝拉-查米语
-name_zh_auto: true
 autonym: Chamí Emberá
 alt_names: [Catrú), Chami, Chami-Embera language, Chamí, Cholo, Ember-Cham, Embera Chami, Embera-Chami, Emberá chamí, Emberá- Baudó (Baudó, Emberá-Chamí (Chami), Epena (Emberá-Saija, Epená Saija, Epéna Pedée, Saija, Sia pedee, Southern Embera, Southern Emberá, Southern Empera]
 population: 5510
@@ -16,5 +14,9 @@ glottolog_family_id: choc1280
 glottolog_family_name: Chocoan
 glottolog_classification: "Chocoan > Embera > San Juan > Upper San Juan > Emberá-Chamí"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ember%C3%A1_Cham%C3%AD"
+translations:
+  - translation_iso: zho
+    name: 埃姆贝拉-查米语
+    auto: true
 ---
 Chamí Emberá a.k.a. Chami is an Embera language of Colombia.

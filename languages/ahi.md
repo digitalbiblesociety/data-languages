@@ -1,8 +1,6 @@
 ---
 iso: ahi
 name: Tiagbamrin Aizi
-name_zh: 蒂亚格巴姆林艾兹语
-name_zh_auto: true
 autonym: Lélé
 alt_names: [Ahizi, Aizi, "Aizi, Tiagbamrin", Lélémrin, Tiagba]
 population: 9000
@@ -16,5 +14,9 @@ glottolog_family_id: krua1234
 glottolog_family_name: Kru
 glottolog_classification: "Kru > Greater Western Kru > Western Kru > Grebo-Aizi > Aizi > Tiagbamrin Aizi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tiagba_language"
+translations:
+  - translation_iso: zho
+    name: 蒂亚格巴姆林艾兹语
+    auto: true
 ---
 The Lélé language, Lélémrin, also known as Tiagba (Tiagbamrin) after its principal town, is a Kru language spoken by ethnic Aizi (Ahizi) on the shores of Ébrié Lagoon in Ivory Coast. It is not intelligible with Mobu, also spoken by Aizi at the lagoon.

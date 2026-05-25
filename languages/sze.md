@@ -1,8 +1,6 @@
 ---
 iso: sze
 name: Seze
-name_zh: 塞泽语
-name_zh_auto: true
 autonym: Sezo
 population: 3000
 country_id: ET
@@ -15,5 +13,9 @@ glottolog_family_id: maoo1243
 glottolog_family_name: Blue Nile Mao
 glottolog_classification: "Blue Nile Mao > West Mao > Hozo-Seze > Seze"
 wikipedia_url: "https://en.wikipedia.org/wiki/Seze_language"
+translations:
+  - translation_iso: zho
+    name: 塞泽语
+    auto: true
 ---
 Seze is an Afro-Asiatic Omotic language, spoken in the western part of Ethiopia, near the town of Begi and just north of the Hozo-speaking community.

@@ -1,7 +1,6 @@
 ---
 iso: iai
 name: Iaai
-name_zh: Iaai语
 autonym: hwen iaai
 alt_names: [Iai, Yai]
 population: 4080
@@ -15,5 +14,10 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Southern Melanesian > New Caledonian > Loyalty Islands > Iaai"
 wikipedia_url: "https://en.wikipedia.org/wiki/Iaai_language"
+translations:
+  - translation_iso: jpn
+    name: イアイ語
+  - translation_iso: zho
+    name: Iaai语
 ---
 Iaai is a language of Ouvéa Island. It shares the island of Ouvéa with Fagauvea, a Polynesian outlier language.

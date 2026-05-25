@@ -1,8 +1,6 @@
 ---
 iso: zka
 name: Kaimbulawa
-name_zh: 凯姆布拉瓦语
-name_zh_auto: true
 autonym: null
 alt_names: [Indonesia]
 population: 2200
@@ -16,6 +14,10 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Celebic > Greater Eastern Celebic > Eastern Celebic > Southeastern Celebic > Muna-Buton > Nuclear Muna-Buton > Munan > Munic > Kaimbulawa"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kaimbulawa_language"
+translations:
+  - translation_iso: zho
+    name: 凯姆布拉瓦语
+    auto: true
 rolv_dialects:
   - rolv_code: 11338
     language_tag: zka-x-HIS11338

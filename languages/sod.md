@@ -1,8 +1,6 @@
 ---
 iso: sod
 name: Songoora
-name_zh: 松戈拉语
-name_zh_auto: true
 autonym: North Binja
 alt_names: [Binja, Kesongola, Songola, Sonγai]
 population: 1300
@@ -16,6 +14,12 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > East Bantu > Greater Lega > Mituku-Lega > Songola-Binja > Songoora"
 wikipedia_url: "https://en.wikipedia.org/wiki/Songola_language"
+translations:
+  - translation_iso: jpn
+    name: Songoora語
+  - translation_iso: zho
+    name: 松戈拉语
+    auto: true
 rolv_dialects:
   - rolv_code: 16831
     language_tag: sod-x-HIS16831

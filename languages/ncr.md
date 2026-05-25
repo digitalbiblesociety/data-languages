@@ -1,8 +1,6 @@
 ---
 iso: ncr
 name: Ncane
-name_zh: 恩卡内语
-name_zh_auto: true
 autonym: Cane
 alt_names: [Nchanti, Ntshanti]
 population: 15500
@@ -15,6 +13,10 @@ glottocode: ncan1245
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Beboid > Eastern Beboid > Nsari-Nooni-Ncane > Nooni-Ncane > Ncane-Cung > Ncane-Mungong"
+translations:
+  - translation_iso: zho
+    name: 恩卡内语
+    auto: true
 rolv_dialects:
   - rolv_code: 14410
     language_tag: ncr-x-HIS14410

@@ -1,7 +1,6 @@
 ---
 iso: bak
 name: Bashkir
-name_zh: 巴什基尔语
 autonym: Башҡортса
 alt_names: [Bachkir, Bachkireg, Bahasa Bashkir, Baixkir, Baschkirisch, Baschkirische Sprache, Bashkir (Bashqort), Bashkiric, Bashkort, Bashqort, Basjkiers, Basjkiriska, Basjkirsk, Basjkirsk språk, Baskir, Baskír nyelv, Basquort, Baŝkira lingvo, Başkurtça, Başqort tele, Başqurt tili, Başqırd dili, Baškiirin kieli, Baškirština, Baškirščina, Baškirų kalba, Baškīru valoda, Idioma baskir, Język baszkirski, Limba başchiră, Lingua baschira, Lingua baskir, Língua bashkir, Proto-Baschkirisch, Sprache einer Gruppe der Baschkiren, ungarische Sprache, Бажигид хэлэн, Башкираг æвзаг, Башкирски език, Башкирски јазик, Башкирский язык, Башкирська мова, Башкирэнь кель, Башко́ртьскъ ѩꙁꙑ́къ, Башкірская мова, Башқұрт тілі, Башҡорт теле, Пушкăрт чĕлхи, باشقۇرتچە, زبان باشقیر, لغة باشقير, बाश्किर भाषा, ภาษาบัชคีร์, バシキール語, 巴什基尔语, 바시키르어]
 population: 1235040
@@ -16,6 +15,17 @@ glottolog_family_id: turk1311
 glottolog_family_name: Turkic
 glottolog_classification: "Turkic > Common Turkic > Kipchak-Turkestan > Kipchak > Northwest Kipchak > North Kipchak > Bashkiric > Bashkir"
 wikipedia_url: "https://en.wikipedia.org/wiki/Bashkir_language"
+translations:
+  - translation_iso: ara
+    name: الباشقيرية
+  - translation_iso: hin
+    name: बाश्किर भाषा
+  - translation_iso: jpn
+    name: バシキール語
+  - translation_iso: kor
+    name: 바시키르어
+  - translation_iso: zho
+    name: 巴什基尔语
 rolv_dialects:
   - rolv_code: 7825
     language_tag: ba-x-HIS07825

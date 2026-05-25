@@ -1,8 +1,6 @@
 ---
 iso: mry
 name: Mandaya
-name_zh: 曼达亚语
-name_zh_auto: true
 autonym: Caraga
 alt_names: [Carraga Mandaya, Karaga Mandaya, Manay Mandayan, "Mandaya, Karaga", Mangaragan Mandaya]
 population: 3000
@@ -16,5 +14,11 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Greater Central Philippine > Central Philippine > Mansakan > Eastern Mansakan > Mandaya"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mandaya_language"
+translations:
+  - translation_iso: jpn
+    name: マンダヤ語
+  - translation_iso: zho
+    name: 曼达亚语
+    auto: true
 ---
 Mandaya is an Austronesian language of Mindanao in the Philippines. It may be intelligible with Mansaka. Mandaya is a language native to some parts of Davao Oriental, Mindanao.

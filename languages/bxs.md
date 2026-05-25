@@ -1,8 +1,6 @@
 ---
 iso: bxs
 name: Busam
-name_zh: 布萨姆语
-name_zh_auto: true
 autonym: null
 population: 1490
 country_id: CM
@@ -15,5 +13,9 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Wide Grassfields > Narrow Grassfields > Southwest Grassfields > Busam"
 wikipedia_url: "https://en.wikipedia.org/wiki/Busam_language"
+translations:
+  - translation_iso: zho
+    name: 布萨姆语
+    auto: true
 ---
 Busam is a Grassfields language of Cameroon.

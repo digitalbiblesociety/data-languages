@@ -1,8 +1,6 @@
 ---
 iso: ojv
 name: Ontong Java
-name_zh: 昂通-爪哇语
-name_zh_auto: true
 autonym: Luangiua
 alt_names: [Leuangiua, Lord Howe, Ongtong Java]
 population: 2370
@@ -16,6 +14,12 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Central Pacific linkage > Tokalau Fijian > Polynesian > Nuclear Polynesian > Northern Outlier Polynesian-East Polynesian > Solomons Northern Outlier Polynesian-East Polynesian > Central Northern Outlier Polynesian-East Polynesian > Central Northern Outlier Polynesian > Luangiua"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ontong_Java_language"
+translations:
+  - translation_iso: jpn
+    name: オントンジャワ語
+  - translation_iso: zho
+    name: 昂通-爪哇语
+    auto: true
 rolv_dialects:
   - rolv_code: 3654
     language_tag: ojv-x-HIS03654

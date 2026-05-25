@@ -1,8 +1,6 @@
 ---
 iso: spl
 name: Selepet
-name_zh: 塞莱佩特语
-name_zh_auto: true
 autonym: null
 alt_names: [Selepe]
 population: 7240
@@ -16,6 +14,10 @@ glottolog_family_id: nucl1709
 glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Finisterre-Huon > Huon > Western Huon > Cromwell > Kabwum > Selepet-Komba > Selepet"
 wikipedia_url: "https://en.wikipedia.org/wiki/Selepet_language"
+translations:
+  - translation_iso: zho
+    name: 塞莱佩特语
+    auto: true
 rolv_dialects:
   - rolv_code: 16445
     language_tag: spl-x-HIS16445

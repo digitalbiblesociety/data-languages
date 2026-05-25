@@ -1,8 +1,6 @@
 ---
 iso: ybj
 name: Hasha
-name_zh: 哈沙语
-name_zh_auto: true
 autonym: Yashi
 population: 3000
 country_id: NG
@@ -15,5 +13,9 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Benue-Congo Plateau > Alumic > Hasha-Sambe > Hasha"
 wikipedia_url: "https://en.wikipedia.org/wiki/Hasha_language"
+translations:
+  - translation_iso: zho
+    name: 哈沙语
+    auto: true
 ---
 Hasha, also known as Yashi, is a Plateau language of Nasarawa State Nigeria. It has an idiosyncratic system of reduplicating the first syllable of noun stems, apparently under the influence of the Chadic language Sha.

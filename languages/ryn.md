@@ -1,7 +1,6 @@
 ---
 iso: ryn
 name: "Northern Amami-Oshima"
-name_zh: 北奄美大島語
 autonym: Amami Ōshima
 alt_names: ["Amami-Oshima, Northern", Amami-Osima, Northern Amami-Osima, Northern Ryukyuan, Oosima, Oshima, Osima, Ryukyuan]
 population: 10000
@@ -15,6 +14,13 @@ glottolog_family_id: japo1237
 glottolog_family_name: Japonic
 glottolog_classification: "Japonic > Ryukyuan > Northern Ryukyuan > Amami > Nuclear Amami > Oshima > Northern Amami-Oshima"
 wikipedia_url: "https://en.wikipedia.org/wiki/Northern_Amami_%C5%8Cshima_language"
+translations:
+  - translation_iso: jpn
+    name: 北奄美大島方言
+  - translation_iso: kor
+    name: 아마미오시마 북부 방언
+  - translation_iso: zho
+    name: 北奄美大島語
 rolv_dialects:
   - rolv_code: 6923
     language_tag: ryn-x-HIS06923

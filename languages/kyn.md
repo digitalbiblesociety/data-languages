@@ -1,8 +1,6 @@
 ---
 iso: kyn
 name: Northern Binukidnon
-name_zh: 北比努基德农语
-name_zh_auto: true
 autonym: Northern Binukidnon
 alt_names: ["Binukidnon, Northern", Karolanos, Philippines]
 population: 15100
@@ -16,5 +14,9 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Greater Central Philippine > Central Philippine > Bisayan > Negrosanon > Northern Binukidnon"
 wikipedia_url: "https://en.wikipedia.org/wiki/Karolanos_language"
+translations:
+  - translation_iso: zho
+    name: 北比努基德农语
+    auto: true
 ---
 Karolanos, also known as Carolan (Karul·an) or Northern Binukidnon, is a Bisayan language spoken in Kabankalan, Negros Occidental by the Negrense descendants of the indigenous Carolan people.

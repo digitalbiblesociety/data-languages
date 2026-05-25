@@ -1,7 +1,6 @@
 ---
 iso: gwt
 name: "Gawar-Bati"
-name_zh: 加瓦尔-巴蒂语
 autonym: Narsati
 alt_names: [Arandui, Dardu, Gavar-batí, Gawar-bātī, Gowar-Bati, Gowari, Narisati, Narisātī, Narsātī, Satre]
 population: 8000
@@ -15,6 +14,13 @@ glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Indo-Aryan > Gawarbatic > Gawar-Bati"
 wikipedia_url: "https://en.wikipedia.org/wiki/Gawar-Bati_language"
+translations:
+  - translation_iso: hin
+    name: ग्वार-बती भाषा
+  - translation_iso: jpn
+    name: ガワール・バティ語
+  - translation_iso: zho
+    name: 加瓦尔-巴蒂语
 rolv_dialects:
   - rolv_code: 3348
     language_tag: gwt-x-HIS03348

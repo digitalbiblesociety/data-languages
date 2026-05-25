@@ -1,8 +1,6 @@
 ---
 iso: nkm
 name: Namat
-name_zh: 纳马特语
-name_zh_auto: true
 autonym: null
 population: 180
 country_id: PG
@@ -15,5 +13,9 @@ glottolog_family_id: more1255
 glottolog_family_name: Yam
 glottolog_classification: "Yam > Morehead-Maro > Nambu > Namat"
 wikipedia_url: "https://en.wikipedia.org/wiki/Namat_language"
+translations:
+  - translation_iso: zho
+    name: 纳马特语
+    auto: true
 ---
 Namat is a Yam language spoken in Western Province, Papua New Guinea.

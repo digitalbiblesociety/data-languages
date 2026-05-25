@@ -1,7 +1,6 @@
 ---
 iso: ayn
 name: Sanaani Arabic
-name_zh: 薩那阿拉伯語
 autonym: Northern Yemeni Arabic
 alt_names: [Arabic, Arabic (Eastern), Arabic (North Yemen), Arabic (Northern Yemeni), "Arabic (San'ani)", Arabic (Sanaani Spoken), "Arabic, Sanaani", "Arabic, Sanaani Spoken", Sanaani Spoken, Sjevernojemenski arapski]
 population: 11400000
@@ -15,5 +14,10 @@ glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Semitic > West Semitic > Central Semitic > Arabian > Arabic > Arabian Peninsula Arabic > Judeo-Muslim Sanaani Arabic > Sanaani Arabic"
 wikipedia_url: "https://en.wikipedia.org/wiki/San%CA%BDani_Arabic"
+translations:
+  - translation_iso: ara
+    name: لهجة صنعانية
+  - translation_iso: zho
+    name: 薩那阿拉伯語
 ---
 Sanʽani Arabic is an Arabic dialect spoken in northern Yemen in the city of Sanaa.

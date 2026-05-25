@@ -1,7 +1,6 @@
 ---
 iso: tau
 name: Upper Tanana
-name_zh: 上塔納納語言
 autonym: Neeʼaandeegnʼ
 alt_names: [Haut-tanana (Canada), "Haut-tanana (États-Unis d'Amérique)", Nabesna, "Nee'aanegn", Tanana alto (Estados Unidos), "Tanana, Upper"]
 population: 300
@@ -15,6 +14,9 @@ glottolog_family_id: atha1245
 glottolog_family_name: Athabaskan-Eyak-Tlingit
 glottolog_classification: "Athabaskan-Eyak-Tlingit > Athabaskan-Eyak > Athabaskan > Central Alaska-Yukon Athabaskan > Tanana-Tutchone > Tananaic > Upper Tananaic > Upper Tanana"
 wikipedia_url: "https://en.wikipedia.org/wiki/Upper_Tanana_language"
+translations:
+  - translation_iso: zho
+    name: 上塔納納語言
 rolv_dialects:
   - rolv_code: 26454
     language_tag: tau-x-HIS26454

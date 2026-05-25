@@ -1,8 +1,6 @@
 ---
 iso: atr
 name: "Waimiri-Atroari"
-name_zh: 瓦伊米里-阿特罗阿里语
-name_zh_auto: true
 autonym: "Waimiri-Atroarí"
 alt_names: [Atroahy, Atroahí, Atroarí, Atroaí, Atrowari, Atruahi, Atruahí, "Ki'nya", Krishaná, Waimirí, Waimirí-Atroarí, Yawaperí]
 population: 930
@@ -16,6 +14,10 @@ glottolog_family_id: cari1283
 glottolog_family_name: Cariban
 glottolog_classification: "Cariban > Yawaperi > Waimiri-Atroari"
 wikipedia_url: "https://en.wikipedia.org/wiki/Waimiri-Atroar%C3%AD_language"
+translations:
+  - translation_iso: zho
+    name: 瓦伊米里-阿特罗阿里语
+    auto: true
 rolv_dialects:
   - rolv_code: 7330
     language_tag: atr-x-HIS07330

@@ -1,7 +1,6 @@
 ---
 iso: hif
 name: Fiji Hindi
-name_zh: 斐濟印地語
 autonym: फ़िजी बातFiji Baat
 alt_names: [Fidżyjsko godka hindi, Fidži hindi, Fidžių hindi kalba, Fijian Hindi, Fijian Hindustani, Fijiansk hindi, Fijisch Hindoestani, Hindi des Fidji, Hindi fidżyjskie, "Hindi, Fiji", "Hindustani, Fijian", Língua hindi fidjiana, Фиджийский хинди, फ़ीजी हिन्दी, फिजी हिन्दी, フィジー・ヒンディー語, 피지 힌디어]
 population: 198380
@@ -16,6 +15,17 @@ glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Indo-Aryan > Middle-Modern Indo-Aryan > Continental Indo-Aryan > Midlands Indo-Aryan > Shaurasenic > Indo-Aryan Central zone > Western Hindi > Hindustani > Fiji Hindi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Fiji_Hindi"
+translations:
+  - translation_iso: ara
+    name: هندية فيجي
+  - translation_iso: hin
+    name: फ़ीजी हिन्दी
+  - translation_iso: jpn
+    name: フィジー・ヒンディー語
+  - translation_iso: kor
+    name: 피지 힌디어
+  - translation_iso: zho
+    name: 斐濟印地語
 rolv_dialects:
   - rolv_code: 26732
     language_tag: hif-x-HIS26732

@@ -1,8 +1,6 @@
 ---
 iso: hna
 name: Mina (Cameroon)
-name_zh: 米纳语(喀麦隆)
-name_zh_auto: true
 autonym: Hina
 alt_names: [Besleri, Mina, Mina language, Minaeg]
 population: 11000
@@ -16,6 +14,10 @@ glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > Biu-Mandara > South Biu-Mandara > Dabaic > Mina (Cameroon)"
 wikipedia_url: "https://en.wikipedia.org/wiki/Hina_language"
+translations:
+  - translation_iso: zho
+    name: 米纳语(喀麦隆)
+    auto: true
 rolv_dialects:
   - rolv_code: 14082
     language_tag: hna-x-HIS14082

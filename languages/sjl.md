@@ -1,8 +1,6 @@
 ---
 iso: sjl
 name: Sajalong
-name_zh: 萨亚隆语
-name_zh_auto: true
 autonym: Dhammai
 alt_names: [Dammai, Hruso A, Miji]
 population: 6500
@@ -15,4 +13,10 @@ glottocode: saja1240
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Miji > Sajolang"
+translations:
+  - translation_iso: jpn
+    name: ミジ諸語
+  - translation_iso: zho
+    name: 萨亚隆语
+    auto: true
 ---

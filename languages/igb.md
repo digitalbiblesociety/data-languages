@@ -1,8 +1,6 @@
 ---
 iso: igb
 name: Ebira
-name_zh: 埃比拉语
-name_zh_auto: true
 autonym: Egbira
 alt_names: [Egbura, Ibara, Igbarra, Igbira, Igbirra, Katawa, Kotokori, Kwotto]
 population: 2000000
@@ -16,6 +14,12 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Ebira-Nupoid > Ebira"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ebira_language"
+translations:
+  - translation_iso: jpn
+    name: エビラ語
+  - translation_iso: zho
+    name: 埃比拉语
+    auto: true
 rolv_dialects:
   - rolv_code: 343
     language_tag: igb-x-HIS00343

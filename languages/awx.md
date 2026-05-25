@@ -1,8 +1,6 @@
 ---
 iso: awx
 name: Awara
-name_zh: 阿瓦拉语
-name_zh_auto: true
 autonym: null
 population: 1800
 country_id: PG
@@ -15,5 +13,9 @@ glottolog_family_id: nucl1709
 glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Finisterre-Huon > Finisterre-Saruwaged > Wantoatic > Wantoat-Awara > Awara"
 wikipedia_url: "https://en.wikipedia.org/wiki/Awara_language"
+translations:
+  - translation_iso: zho
+    name: 阿瓦拉语
+    auto: true
 ---
 Awara is one of the Finisterre languages of Papua New Guinea. It is part of a dialect chain with Wantoat, but in only 60–70% lexically similar. There are around 1900 Awara speakers that live on the southern slopes of the Finisterre Range, they live along the east and west sides of Leron River basin.

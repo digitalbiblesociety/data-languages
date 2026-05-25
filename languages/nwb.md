@@ -1,8 +1,6 @@
 ---
 iso: nwb
 name: Nyabwa
-name_zh: 尼亚布瓦语
-name_zh_auto: true
 autonym: Nyaboa
 alt_names: [Niaboua, Nyabwa-Nyédébwa]
 population: 72000
@@ -16,6 +14,12 @@ glottolog_family_id: krua1234
 glottolog_family_name: Kru
 glottolog_classification: "Kru > Greater Western Kru > Western Kru > Wee-Bassa-Klao > Wee > Nuclear Wee > Nyabwa"
 wikipedia_url: "https://en.wikipedia.org/wiki/Nyabwa_language"
+translations:
+  - translation_iso: jpn
+    name: ニャブワ語
+  - translation_iso: zho
+    name: 尼亚布瓦语
+    auto: true
 rolv_dialects:
   - rolv_code: 3493
     language_tag: nwb-x-HIS03493

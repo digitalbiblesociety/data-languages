@@ -1,8 +1,6 @@
 ---
 iso: mel
 name: Central Melanau
-name_zh: 中部美拉瑙语
-name_zh_auto: true
 autonym: Central Melanau
 alt_names: ["Belana'u", Melanau, Melanau language, "Melanau, Central", Milanau, Milano]
 population: 113280
@@ -15,6 +13,10 @@ glottocode: cent2101
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > North Borneo Malayo-Polynesian > Central Sarawak > Melanau-Kajang > Melanau > Central Melanau"
+translations:
+  - translation_iso: zho
+    name: 中部美拉瑙语
+    auto: true
 rolv_dialects:
   - rolv_code: 13972
     language_tag: mel-x-HIS13972

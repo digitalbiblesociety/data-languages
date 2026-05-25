@@ -1,8 +1,6 @@
 ---
 iso: rmm
 name: Roma
-name_zh: 罗玛语
-name_zh_auto: true
 autonym: Roma
 alt_names: [Romang, Romang language]
 population: 1700
@@ -16,5 +14,9 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Timor-Babar > Southwest Maluku > Luangic-Kisaric > Kisaric > Roma"
 wikipedia_url: "https://en.wikipedia.org/wiki/Romang_language"
+translations:
+  - translation_iso: zho
+    name: 罗玛语
+    auto: true
 ---
 Roma or Romang is a Malayo-Polynesian language spoken by about 1,700 people in Jersusu village on Romang island in Maluku, Indonesia.

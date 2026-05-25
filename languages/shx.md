@@ -1,7 +1,6 @@
 ---
 iso: shx
 name: She
-name_zh: 畲语
 autonym: Ho Ne
 alt_names: [Che, Ho nte, Huo Nte, Шэ, シェ語, 山哈, 畬語, 畲语]
 population: 709000
@@ -15,6 +14,13 @@ glottolog_family_id: hmon1336
 glottolog_family_name: Hmong-Mien
 glottolog_classification: "Hmong-Mien > Hmongic > Nuclear Hmongic-Ho Ne > Jiongnai-Ho Ne > Ho Neic > She"
 wikipedia_url: "https://en.wikipedia.org/wiki/She_language"
+translations:
+  - translation_iso: jpn
+    name: シェ語
+  - translation_iso: kor
+    name: 서어
+  - translation_iso: zho
+    name: 畲语
 rolv_dialects:
   - rolv_code: 16602
     language_tag: shx-x-HIS16602

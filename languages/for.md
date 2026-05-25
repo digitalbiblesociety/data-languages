@@ -1,8 +1,6 @@
 ---
 iso: for
 name: Fore
-name_zh: 福雷语
-name_zh_auto: true
 autonym: null
 population: 30190
 country_id: PG
@@ -15,6 +13,12 @@ glottolog_family_id: nucl1709
 glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Kainantu-Goroka > Goroka > Nuclear Goroka > Fore-Gimi > Fore"
 wikipedia_url: "https://en.wikipedia.org/wiki/Fore_language"
+translations:
+  - translation_iso: jpn
+    name: フォレ語
+  - translation_iso: zho
+    name: 福雷语
+    auto: true
 rolv_dialects:
   - rolv_code: 9862
     language_tag: for-x-HIS09862

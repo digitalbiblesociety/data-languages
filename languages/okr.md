@@ -1,8 +1,6 @@
 ---
 iso: okr
 name: Kirike
-name_zh: 基里克语
-name_zh_auto: true
 autonym: Ibani–Kalabari–Kirike
 alt_names: [Okrika, Ịjọ]
 population: 440000
@@ -15,4 +13,8 @@ glottocode: kiri1254
 glottolog_family_id: ijoi1239
 glottolog_family_name: Ijoid
 glottolog_classification: "Ijoid > Ijo > Eastern Ijo > Nikio > Kio Ijo > Kirike"
+translations:
+  - translation_iso: zho
+    name: 基里克语
+    auto: true
 ---

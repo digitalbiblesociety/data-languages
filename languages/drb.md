@@ -1,8 +1,6 @@
 ---
 iso: drb
 name: Dair
-name_zh: 黛尔语
-name_zh_auto: true
 autonym: Thaminyi
 alt_names: [Daier, Nubian (Hill)]
 population: 1000
@@ -16,5 +14,13 @@ glottolog_family_id: nubi1251
 glottolog_family_name: Nubian
 glottolog_classification: "Nubian > Central Nubian > Kordofan Nubian > Eastern Kordofan Nubian > Dair"
 wikipedia_url: "https://en.wikipedia.org/wiki/Dair_language"
+translations:
+  - translation_iso: ara
+    name: لغة دير
+  - translation_iso: jpn
+    name: ダイル語
+  - translation_iso: zho
+    name: 黛尔语
+    auto: true
 ---
 Dair is a moribund Hill Nubian language spoken in the northern Nuba Mountains in the south of Sudan. It was spoken by around 1,000 people in 1978 in the Jibaal as-Sitta hills, between Dilling and Delami.

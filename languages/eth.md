@@ -1,8 +1,6 @@
 ---
 iso: eth
 name: Ethiopian Sign Language
-name_zh: 埃塞俄比亚手语
-name_zh_auto: true
 autonym: null
 population: 250000
 country_id: ET
@@ -15,6 +13,12 @@ glottolog_family_id: sign1238
 glottolog_family_name: Sign Language
 glottolog_classification: "Sign Language > L1 Sign Language > LSFic > ASLic > Ethiopian Sign Language"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ethiopian_sign_languages"
+translations:
+  - translation_iso: jpn
+    name: エチオピア手話
+  - translation_iso: zho
+    name: 埃塞俄比亚手语
+    auto: true
 rolv_dialects:
   - rolv_code: 24140
     language_tag: eth-x-HIS24140

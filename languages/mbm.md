@@ -1,8 +1,6 @@
 ---
 iso: mbm
 name: Ombamba
-name_zh: 翁巴姆巴语
-name_zh_auto: true
 autonym: Ombamba
 population: 15100
 country_id: CG
@@ -11,6 +9,12 @@ status_id: 6a
 latitude: -2.75341
 longitude: 13.61701
 wikipedia_url: "https://en.wikipedia.org/wiki/Mbama_language"
+translations:
+  - translation_iso: jpn
+    name: ンバンバ語
+  - translation_iso: zho
+    name: 翁巴姆巴语
+    auto: true
 rolv_dialects:
   - rolv_code: 2867
     language_tag: mbm-x-HIS02867

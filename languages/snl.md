@@ -1,8 +1,6 @@
 ---
 iso: snl
 name: Sangil
-name_zh: 桑吉尔语
-name_zh_auto: true
 autonym: Sanggil
 alt_names: [Sangiré]
 population: 15000
@@ -15,6 +13,10 @@ glottocode: sang1337
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Sangiric-Minahasan > Sangiric > Northern Sangiric > Sangil-Sangir > Sangil"
+translations:
+  - translation_iso: zho
+    name: 桑吉尔语
+    auto: true
 rolv_dialects:
   - rolv_code: 5132
     language_tag: snl-x-HIS05132

@@ -1,8 +1,6 @@
 ---
 iso: swf
 name: Sere
-name_zh: 塞雷语
-name_zh_auto: true
 autonym: Basili
 alt_names: [Basiri, Chere, Serre, Shaire, Shere, Sheri, Sili, Siri]
 population: 2500
@@ -16,5 +14,9 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Cameroun-Ubangian > Ubangi > Ubangi Ka > Sereic > Sere-Indri > Ndogoic > Tagbu-Sere > Sere"
 wikipedia_url: "https://en.wikipedia.org/wiki/Sere_language"
+translations:
+  - translation_iso: zho
+    name: 塞雷语
+    auto: true
 ---
 Sere is a minor Ubangian language of the northeastern Democratic Republic of the Congo. The name is variously spelled Serre, Shaire, Shere, Sheri, Sili, Siri, French Chere or prefixed as Basili, Basiri.

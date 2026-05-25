@@ -1,7 +1,6 @@
 ---
 iso: tin
 name: Tindi
-name_zh: 廷地語
 autonym: Идараб мицци Idarab mittsi
 alt_names: [Idarab mittsi, Język tindyjski, Língua tindi, Tindal, Tindieg, Tindin, Tindin kieli, Тиндинский язык, Тиндинська мова, Тиндски јазик, идараб мицци, идаринский язык, идеринский язык, тиндальский язык, тиндийский язык]
 population: 5000
@@ -15,6 +14,13 @@ glottolog_family_id: nakh1245
 glottolog_family_name: Nakh-Daghestanian
 glottolog_classification: "Nakh-Daghestanian > Daghestanian > Avar-Andic-Tsezic > Andic > Bagvalal-Tindi > Tindi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tindi_language"
+translations:
+  - translation_iso: jpn
+    name: ティンディ語
+  - translation_iso: kor
+    name: 틴디어
+  - translation_iso: zho
+    name: 廷地語
 rolv_dialects:
   - rolv_code: 29340
     language_tag: tin-x-HIS29340

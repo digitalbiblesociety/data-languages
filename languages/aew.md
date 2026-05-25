@@ -1,8 +1,6 @@
 ---
 iso: aew
 name: Ambakich
-name_zh: 安巴基其语
-name_zh_auto: true
 autonym: Ambakich
 alt_names: [Aion, Porapora]
 population: 1964
@@ -16,6 +14,10 @@ glottolog_family_id: kera1258
 glottolog_family_name: Keram
 glottolog_classification: "Keram > East Keram > Ambakich"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ambakich_language"
+translations:
+  - translation_iso: zho
+    name: 安巴基其语
+    auto: true
 rolv_dialects:
   - rolv_code: 24206
     language_tag: aew-x-HIS24206

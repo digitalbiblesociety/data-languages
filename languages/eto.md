@@ -1,8 +1,6 @@
 ---
 iso: eto
 name: Eton
-name_zh: 伊顿语
-name_zh_auto: true
 autonym: Ìtón
 alt_names: [Eton (Cameroon), Iton]
 population: 250000
@@ -16,6 +14,12 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > Bantu A-B10-B20-B30 > Basaa-Yaunde (A40-70) > Yaunde-Fang (A.70) > Eton-Mengisa"
 wikipedia_url: "https://en.wikipedia.org/wiki/Eton_language"
+translations:
+  - translation_iso: jpn
+    name: エトン語
+  - translation_iso: zho
+    name: 伊顿语
+    auto: true
 rolv_dialects:
   - rolv_code: 9665
     language_tag: eto-x-HIS09665

@@ -1,8 +1,6 @@
 ---
 iso: kih
 name: Kilmeri
-name_zh: 基尔梅里语
-name_zh_auto: true
 autonym: Kilmera
 population: 1970
 country_id: PG
@@ -15,6 +13,10 @@ glottolog_family_id: bord1247
 glottolog_family_name: Border
 glottolog_classification: "Border > Bewani > Pagi-Kilmeri > Kilmeri"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kilmeri_language"
+translations:
+  - translation_iso: zho
+    name: 基尔梅里语
+    auto: true
 rolv_dialects:
   - rolv_code: 12000
     language_tag: kih-x-HIS12000

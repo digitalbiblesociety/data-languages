@@ -1,8 +1,6 @@
 ---
 iso: reb
 name: Rembong
-name_zh: 仁邦语
-name_zh_auto: true
 autonym: bahasa Rembong
 alt_names: [Indonesia]
 population: 2120
@@ -16,6 +14,12 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Bima-Lembata > Flores > West-Central Flores > Manggaraiic > Rembong-Wangka"
 wikipedia_url: "https://en.wikipedia.org/wiki/Rembong_language"
+translations:
+  - translation_iso: jpn
+    name: レムボング語
+  - translation_iso: zho
+    name: 仁邦语
+    auto: true
 rolv_dialects:
   - rolv_code: 15968
     language_tag: reb-x-HIS15968

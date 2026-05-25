@@ -1,7 +1,6 @@
 ---
 iso: kyw
 name: Kudmali
-name_zh: 库马利语
 autonym: Panchpargania
 alt_names: [Bedia, Dharua, Kurmali, Kurmali Thar, Kurumali]
 population: 370230
@@ -15,6 +14,15 @@ glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Indo-Aryan > Middle-Modern Indo-Aryan > Continental Indo-Aryan > Midlands Indo-Aryan > Shaurasenic > Bihari > Magadhan > Sadanic > Kudmali"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kurmali_language"
+translations:
+  - translation_iso: ara
+    name: لغة كورمالية
+  - translation_iso: hin
+    name: कुङमालि भाखि
+  - translation_iso: jpn
+    name: クドマリ語
+  - translation_iso: zho
+    name: 库马利语
 rolv_dialects:
   - rolv_code: 31515
     language_tag: kyw-x-HIS31515

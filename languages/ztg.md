@@ -1,8 +1,6 @@
 ---
 iso: ztg
 name: Xanaguía Zapotec
-name_zh: 哈那古亚萨波特克语
-name_zh_auto: true
 autonym: (Santa Catarina Xanaguía)
 alt_names: [Southern Sapoteko, Xanaguia Zapotec, Zapotec, "Zapotec, Xanaguía", Zapoteco de Asunción Tlacolulita, "Zapotèque d'Asunción Tlacolulita"]
 population: 2500
@@ -16,5 +14,9 @@ glottolog_family_id: otom1299
 glottolog_family_name: Otomanguean
 glottolog_classification: "Otomanguean > Eastern Otomanguean > Popoloca-Zapotecan > Zapotecan > Zapotec > Core Zapotec > Narrow Core Zapotec > Central Core Zapotec > Cisyautepequeño > Xanaguía Zapotec"
 wikipedia_url: "https://en.wikipedia.org/wiki/Xanagu%C3%ADa_Zapotec"
+translations:
+  - translation_iso: zho
+    name: 哈那古亚萨波特克语
+    auto: true
 ---
 Xanaguía Zapotec (Diidz Zë) is a Zapotec language of Oaxaca, Mexico.

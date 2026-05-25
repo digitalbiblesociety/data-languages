@@ -1,7 +1,6 @@
 ---
 iso: phu
 name: Phuan
-name_zh: 潘语
 autonym: Lao Phuan
 alt_names: [Phu Un]
 population: 307000
@@ -15,6 +14,11 @@ glottolog_family_id: taik1256
 glottolog_family_name: Tai-Kadai
 glottolog_classification: "Tai-Kadai > Kam-Tai > Daic-Beic > Daic > Central-Southwestern Tai > Wenma-Southwestern Tai > Sapa-Southwestern Tai > Southwestern Tai > Southwestern Thai PH > Siamese > Phuan"
 wikipedia_url: "https://en.wikipedia.org/wiki/Phuan_language"
+translations:
+  - translation_iso: jpn
+    name: プアン語
+  - translation_iso: zho
+    name: 潘语
 rolv_dialects:
   - rolv_code: 27709
     language_tag: phu-x-HIS27709

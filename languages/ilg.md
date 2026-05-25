@@ -1,7 +1,6 @@
 ---
 iso: ilg
 name: "Garig-Ilgar"
-name_zh: 伊勒嘎爾語
 autonym: Garig
 alt_names: [Garig/Garig-Ilgar, Ilgar]
 population: null
@@ -15,5 +14,8 @@ glottolog_family_id: iwai1246
 glottolog_family_name: Iwaidjan Proper
 glottolog_classification: "Iwaidjan Proper > Central Iwaidjic > Garig-Ilgar"
 wikipedia_url: "https://en.wikipedia.org/wiki/Garig-Ilgar_language"
+translations:
+  - translation_iso: zho
+    name: 伊勒嘎爾語
 ---
 Garig-Ilgar, after its two dialects, is an extinct Iwaidjan language spoken in the mainland of Cobourg Peninsula, around Port Essington, Northern Territory.

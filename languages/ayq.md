@@ -1,8 +1,6 @@
 ---
 iso: ayq
 name: Ayi (Papua New Guinea)
-name_zh: 艾语
-name_zh_auto: true
 autonym: null
 alt_names: [Ayi, Ayi language]
 population: 430
@@ -16,5 +14,9 @@ glottolog_family_id: sepi1257
 glottolog_family_name: Sepik
 glottolog_classification: "Sepik > Sepik Tama > Mayo-Pasi > Yimin-Bel > Ayi (Papua New Guinea)"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ayi_language"
+translations:
+  - translation_iso: zho
+    name: 艾语
+    auto: true
 ---
 Ayi is a language spoken by approximately 400 people in the southeast of Sandaun Province, Papua-New Guinea.

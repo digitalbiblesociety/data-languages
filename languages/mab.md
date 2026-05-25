@@ -1,8 +1,6 @@
 ---
 iso: mab
 name: Yutanduchi Mixtec
-name_zh: 尤坦杜奇混台语
-name_zh_auto: true
 autonym: Mixteco de Yutanduchi
 alt_names: [Central Nochistlán Mixtec, Diuxi-Tilantongo Mixtec, Eastern Alta Mixtec, Eastern Mixtec, Huitepec Mixtec, Mitlatongo Mixtec, "Mixtec, Yutanduchi", Mixteco bajo de Valles, Mixteco de Diuxi-Tilantongo, Mixteco de Huitepec, Mixteco de Mitlatongo, Mixteco de San Antonio Huitepec, Mixteco de San Juan Tamazola, Mixteco de San Miguel Piedras, Mixteco de San Pedro Tidaá, Mixteco de Santa María Peñoles, Mixteco de Santiago Tlazoyaltepec, Mixteco de Santo Domingo Nuxaá, Mixteco de Tidaá, Mixteco de Yutanduchi de Guerrero, Mixteco de Zaachila, Mixteco del Sureste de Nochixtlán, Mixteco del este central, North Central Nochixtlán Mixtec, Peñoles Mixtec, San Miguel Piedras Mixtec, Sindihui Mixtec, Southeastern Nochixtlán Mixtec, Southern Misteko, Southern Mixteco, Southern Nochixtlan Mixtec, Tamazola Mixtec, Tidaá Mixtec, Tlazoyaltepec Mixtec]
 population: 1800
@@ -15,4 +13,8 @@ glottocode: yuta1240
 glottolog_family_id: otom1299
 glottolog_family_name: Otomanguean
 glottolog_classification: "Otomanguean > Eastern Otomanguean > Amuzgo-Mixtecan > Mixtecan > Mixtec-Cuicatec > Mixtec > Eastern Alta Mixtec > Southeastern Alta Mixtec > Teozacoalco Mixtec > Yutanduchi Mixtec"
+translations:
+  - translation_iso: zho
+    name: 尤坦杜奇混台语
+    auto: true
 ---

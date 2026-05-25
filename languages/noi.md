@@ -1,8 +1,6 @@
 ---
 iso: noi
 name: Noiri
-name_zh: 诺伊里语
-name_zh_auto: true
 autonym: null
 alt_names: [Bhilori, Mathwadi]
 population: 100000
@@ -15,6 +13,10 @@ glottocode: noir1238
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Indo-Aryan > Middle-Modern Indo-Aryan > Continental Indo-Aryan > Midlands Indo-Aryan > Bhil > Vasave-Noiri > Noiri"
+translations:
+  - translation_iso: zho
+    name: 诺伊里语
+    auto: true
 rolv_dialects:
   - rolv_code: 25802
     language_tag: noi-x-HIS25802

@@ -1,8 +1,6 @@
 ---
 iso: jel
 name: Yelmek
-name_zh: 耶尔梅克语
-name_zh_auto: true
 autonym: Jab
 alt_names: [Jabsch, Jelmek, Jelmik]
 population: 400
@@ -16,5 +14,11 @@ glottolog_family_id: bula1259
 glottolog_family_name: Bulaka River
 glottolog_classification: "Bulaka River > Jelmek > Southern Yelmek"
 wikipedia_url: "https://en.wikipedia.org/wiki/Yelmek_language"
+translations:
+  - translation_iso: jpn
+    name: イェルメク語
+  - translation_iso: zho
+    name: 耶尔梅克语
+    auto: true
 ---
 Yelmek, also rendered Jelmek or Jelmik, is a language of the proposed Trans-Fly – Bulaka River family in West Papua.

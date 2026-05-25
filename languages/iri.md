@@ -1,8 +1,6 @@
 ---
 iso: iri
 name: Rigwe
-name_zh: 里格韦语
-name_zh_auto: true
 autonym: Irigwe
 alt_names: [Aregwe, Idafan, Iregwe, Kwal, Kwan, Kwoll, Kwolla, Miango, Nkarigwe, Nnerigwe, Nyango]
 population: 40000
@@ -16,5 +14,9 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Benue-Congo Plateau > West-Central Benue-Congo Plateau > Zaric > Irigwe"
 wikipedia_url: "https://en.wikipedia.org/wiki/Rigwe_language"
+translations:
+  - translation_iso: zho
+    name: 里格韦语
+    auto: true
 ---
 The Rigwe language, Nkarigwe, is a Plateau language of Nigeria spoken by the Irigwe people mainly found in Bassa Local Government Area of Plateau State.

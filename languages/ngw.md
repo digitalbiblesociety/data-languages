@@ -1,8 +1,6 @@
 ---
 iso: ngw
 name: Ngwaba
-name_zh: 恩瓜巴语
-name_zh_auto: true
 autonym: Goba
 alt_names: [Enguaba, Gombi]
 population: 10000
@@ -16,5 +14,9 @@ glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > Biu-Mandara > South Biu-Mandara > Bataic > Ngwaba"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ngwaba_language"
+translations:
+  - translation_iso: zho
+    name: 恩瓜巴语
+    auto: true
 ---
 Ngwaba is an Afro-Asiatic language spoken in Nigeria in Adamawa State in the Gombi and Hong LGAs.

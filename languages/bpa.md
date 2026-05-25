@@ -1,8 +1,6 @@
 ---
 iso: bpa
 name: Daakaka
-name_zh: 达卡卡语
-name_zh_auto: true
 autonym: Baiap
 alt_names: [Dakaka, South Ambrym]
 population: 1200
@@ -16,6 +14,12 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > North and Central Vanuatu > Central Vanuatu > Ambrym > Orkon-West Ambrym > West Ambrym > Southwest Ambrym > Dakaka"
 wikipedia_url: "https://en.wikipedia.org/wiki/Daakaka_language"
+translations:
+  - translation_iso: jpn
+    name: ダカカ語
+  - translation_iso: zho
+    name: 达卡卡语
+    auto: true
 rolv_dialects:
   - rolv_code: 9081
     language_tag: bpa-x-HIS09081

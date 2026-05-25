@@ -1,7 +1,6 @@
 ---
 iso: cat
 name: Catalan
-name_zh: 加泰罗尼亚语
 autonym: català/valencià
 alt_names: [Alguerés, Bacavès, Balear, Balearai, Balearic, Balearisch, Baléare, Catalan alguerais, Catalan-Valencian-Balear, Catalonian, Català, Català balear, Catalán, Eastern, Valencian, valencien]
 population: 4077300
@@ -16,6 +15,17 @@ glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Italic > Latino-Faliscan > Latinic > Imperial Latin > Romance > Italo-Western Romance > Western Romance > Shifted Western Romance > Southwestern Shifted Romance > Catalan"
 wikipedia_url: "https://en.wikipedia.org/wiki/Catalan_language"
+translations:
+  - translation_iso: ara
+    name: الكتالونية
+  - translation_iso: hin
+    name: कैटलन भाषा
+  - translation_iso: jpn
+    name: カタルーニャ語
+  - translation_iso: kor
+    name: 카탈루냐어
+  - translation_iso: zho
+    name: 加泰罗尼亚语
 rolv_dialects:
   - rolv_code: 3162
     language_tag: ca-x-HIS03162

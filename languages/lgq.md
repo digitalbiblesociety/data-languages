@@ -1,7 +1,6 @@
 ---
 iso: lgq
 name: Logba
-name_zh: 洛格巴語
 autonym: Ikpana
 alt_names: [Ghana, Logbaeg]
 population: 7500
@@ -15,5 +14,8 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Kwa Volta-Congo > Na-Togo > Ikpana"
 wikipedia_url: "https://en.wikipedia.org/wiki/Logba_language"
+translations:
+  - translation_iso: zho
+    name: 洛格巴語
 ---
 Logba is a Kwa language spoken in the south-eastern Ghana by approximately 7,500 people. The Logba people call themselves and their language Ikpana, which means ‘defenders of truth’. Logba is different from Lukpa of Togo and Benin, which is also sometimes referred to as Logba.

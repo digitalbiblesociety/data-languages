@@ -1,8 +1,6 @@
 ---
 iso: xay
 name: Kayan Mahakam
-name_zh: 卡延马哈卡姆语
-name_zh_auto: true
 autonym: Kajan
 alt_names: [Indonesia]
 population: 1300
@@ -15,4 +13,8 @@ glottocode: kaya1324
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > North Borneo Malayo-Polynesian > Kayan-Murik-Modang > Kayan-Murik > Kayanic > Rejang-Makaham Kayan > Kayan Mahakam"
+translations:
+  - translation_iso: zho
+    name: 卡延马哈卡姆语
+    auto: true
 ---

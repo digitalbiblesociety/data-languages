@@ -1,8 +1,6 @@
 ---
 iso: sil
 name: Tumulung Sisaala
-name_zh: 图穆隆西萨拉语
-name_zh_auto: true
 autonym: Sissala
 alt_names: [Hissala, Isaalung, Isala, Issala, Shom peng, Shompen, "Sisaala, Tumulung", Sisai, Sisala, Sisala Tumu]
 population: 105000
@@ -15,6 +13,10 @@ glottocode: tumu1242
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Gur > Central Gur > Southern Central Gur > Grusi > East-West Grusi > Western Grusi > Sisaala-Chakali > Sisaala > Tumulung Sisaala"
+translations:
+  - translation_iso: zho
+    name: 图穆隆西萨拉语
+    auto: true
 rolv_dialects:
   - rolv_code: 2268
     language_tag: sil-x-HIS02268

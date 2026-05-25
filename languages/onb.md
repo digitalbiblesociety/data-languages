@@ -1,7 +1,6 @@
 ---
 iso: onb
 name: Lingao
-name_zh: 臨高語
 autonym: Lingao
 alt_names: [(Ong-)Be, Be, Limkow, Linkow, Ong-Be, Ong-Be language, Ongbe, Tiếng Ông Bối, Vo Limkou, 臨高語]
 population: 600000
@@ -15,6 +14,13 @@ glottolog_family_id: taik1256
 glottolog_family_name: Tai-Kadai
 glottolog_classification: "Tai-Kadai > Kam-Tai > Daic-Beic > Beic > Lingao > Western Ong-Be"
 wikipedia_url: "https://en.wikipedia.org/wiki/Be_languages"
+translations:
+  - translation_iso: jpn
+    name: オンベ語
+  - translation_iso: kor
+    name: 옹베어
+  - translation_iso: zho
+    name: 臨高語
 rolv_dialects:
   - rolv_code: 12972
     language_tag: onb-x-HIS12972

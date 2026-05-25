@@ -1,8 +1,6 @@
 ---
 iso: mxf
 name: Malgbe
-name_zh: 玛尔格贝语
-name_zh_auto: true
 autonym: Gulfey
 alt_names: [Goulfei, Goulfey, Gulfe, Gulfei, Kotoko-Gulfei, Malbe, Malgwe, Mandage, Ngwalkwe, Sanbalbe]
 population: 6000
@@ -16,6 +14,12 @@ glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > Biu-Mandara > North Biu-Mandara > Kotoko-Buduma > Kotoko Septentrional > Kotoko Septentrional 2 > Malgbe"
 wikipedia_url: "https://en.wikipedia.org/wiki/Malgbe_language"
+translations:
+  - translation_iso: ara
+    name: مالغبي
+  - translation_iso: zho
+    name: 玛尔格贝语
+    auto: true
 rolv_dialects:
   - rolv_code: 13499
     language_tag: mxf-x-HIS13499

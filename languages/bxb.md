@@ -1,8 +1,6 @@
 ---
 iso: bxb
 name: Belanda Bor
-name_zh: 贝兰达博尔语
-name_zh_auto: true
 autonym: Belanda Bor
 alt_names: [Bor, "Bor, Belanda", Bor-Belanda, De Bor]
 population: 8000
@@ -16,5 +14,11 @@ glottolog_family_id: nilo1247
 glottolog_family_name: Nilotic
 glottolog_classification: "Nilotic > Western Nilotic > Lwoo > Northern Lwoo > Belanda Bor"
 wikipedia_url: "https://en.wikipedia.org/wiki/Belanda_Bor_language"
+translations:
+  - translation_iso: jpn
+    name: ベランダ・ボル語
+  - translation_iso: zho
+    name: 贝兰达博尔语
+    auto: true
 ---
 Belanda Bor, or Bor, is a Luo language of South Sudan. Most speakers also use Belanda Viri, which is an unrelated Ubangian language.

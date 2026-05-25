@@ -1,7 +1,6 @@
 ---
 iso: iii
 name: Sichuan Yi
-name_zh: 彝語北部方言
 autonym: Northern Yi
 alt_names: [Idioma yi, Język nuosu, Liangshan Nosu, Liangshan Yi, Lolo, Nosu, Nuosu, Nuosu language, Siĉŭana jia lingvo, Yi, "Yi, Sichuan", Yi-språken, Yieg, yi de Sichuan, Носу, यी (लोलो) भाषा, ภาษาอี้, 彝語, 彝语]
 population: 2000000
@@ -16,6 +15,17 @@ glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Burmo-Qiangic > Lolo-Burmese > Loloish > Ni-Li-Kazhouish > Southeastern Ngwi > Nisoid > Nuclear Nisoid > Nasu-Nosu > Sichuan Yi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Nuosu_language"
+translations:
+  - translation_iso: ara
+    name: السيتشيون يي
+  - translation_iso: hin
+    name: नोसू भाषा
+  - translation_iso: jpn
+    name: 四川彝語
+  - translation_iso: kor
+    name: 눠쑤어
+  - translation_iso: zho
+    name: 彝語北部方言
 rolv_dialects:
   - rolv_code: 4830
     language_tag: ii-x-HIS04830

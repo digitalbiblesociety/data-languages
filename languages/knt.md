@@ -1,8 +1,6 @@
 ---
 iso: knt
 name: Panoan Katukína
-name_zh: 帕诺安卡图基纳语
-name_zh_auto: true
 autonym: Katukína
 alt_names: [Arara-shawanawa, Catuquina, Catuquina del Acre, Kamanawa, Kamannaua, Katukina, "Katukina de l'Acre", Katukina do Acre, Katukina do Juruá, "Katukína, Panoan", Panoan, Panoan Katukina, Waninnawa, Wanninawa]
 population: 315
@@ -16,6 +14,10 @@ glottolog_family_id: pano1259
 glottolog_family_name: Pano-Tacanan
 glottolog_classification: "Pano-Tacanan > Panoan > Mainline Pano > Pano Nawa > Marubo Subgroup > Panoan Katukína"
 wikipedia_url: "https://en.wikipedia.org/wiki/Waninawa_language"
+translations:
+  - translation_iso: zho
+    name: 帕诺安卡图基纳语
+    auto: true
 rolv_dialects:
   - rolv_code: 11700
     language_tag: knt-x-HIS11700

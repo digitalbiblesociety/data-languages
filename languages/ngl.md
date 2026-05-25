@@ -1,8 +1,6 @@
 ---
 iso: ngl
 name: Lomwe
-name_zh: 洛梅语
-name_zh_auto: true
 autonym: Western Makhuwa
 alt_names: [Acilowe, Alomwe, Chilowe, Cilowe, Elomwe, Ilomwe, Ingulu, Lomue, Mihavane, Mihavani, Mihawani, Ngulu, Nguru, Walomwe, Western Makua]
 population: 2520000
@@ -17,6 +15,12 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > East Bantu > North Mozambique Bantu > Makua-Lomwe > Lomweic > Mozambique Lomwe"
 wikipedia_url: "https://en.wikipedia.org/wiki/Lomwe_language"
+translations:
+  - translation_iso: jpn
+    name: ロムウェ語
+  - translation_iso: zho
+    name: 洛梅语
+    auto: true
 rolv_dialects:
   - rolv_code: 1106
     language_tag: ngl-x-HIS01106

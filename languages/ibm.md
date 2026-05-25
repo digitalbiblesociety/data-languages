@@ -1,8 +1,6 @@
 ---
 iso: ibm
 name: Agoi
-name_zh: 阿戈伊语
-name_zh_auto: true
 autonym: Ibami
 alt_names: [Ro Bambami, Wa Bambani, Wagoi]
 population: 12000
@@ -16,6 +14,10 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Delta Cross > Upper Cross > Agoi-Doko-Iyoniyong > Robambami"
 wikipedia_url: "https://en.wikipedia.org/wiki/Agoi_language"
+translations:
+  - translation_iso: zho
+    name: 阿戈伊语
+    auto: true
 rolv_dialects:
   - rolv_code: 6736
     language_tag: ibm-x-HIS06736

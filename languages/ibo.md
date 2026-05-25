@@ -1,7 +1,6 @@
 ---
 iso: ibo
 name: Igbo
-name_zh: 伊博语
 autonym: Asụsụ Igbo
 alt_names: [Bahasa Igbo, Ibo, Ibo-linguo, Idioma igbo, Igba lingvo, Igbo simi, Igboeg, Igbon kieli, Igboština, Igbų kalba, Język ibo, Lenga Igbo, Lingua ibo, Lingua igbo, Língua igbo, Èdè Ígbò, Игбо, ইগবো ভাষা, இக்போ மொழி, イボ語, 伊博語]
 population: 27000000
@@ -16,6 +15,17 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Igboid > Nuclear Igboid > Central-Northern Igbo > Igbo"
 wikipedia_url: "https://en.wikipedia.org/wiki/Igbo_language"
+translations:
+  - translation_iso: ara
+    name: الإيجبوية
+  - translation_iso: hin
+    name: इगबो
+  - translation_iso: jpn
+    name: イボ語
+  - translation_iso: kor
+    name: 이그보어
+  - translation_iso: zho
+    name: 伊博语
 rolv_dialects:
   - rolv_code: 364
     language_tag: ig-x-HIS00364

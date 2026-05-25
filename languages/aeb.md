@@ -1,7 +1,6 @@
 ---
 iso: aeb
 name: Tunisian Arabic
-name_zh: 突尼斯阿拉伯语
 autonym: "تونسي "
 alt_names: [Arabe tunisiano, Arabe tunisien, Arabeg Tunizia, Arabic, Arabic (Tunis), Arabic (Tunisian), Arabic (Western), "Arabic, Tunisian", "Arabic, Tunisian Spoken", Tunesisch-Arabisch, Tunisian, Tunisian Darija, Tunisian Spoken, Tunisisk arabiska, Tuniski arapski, Árabe tunecino, Тунизиски арапски јазик, Туніська арабська, لهجة تونسية, アラビア語チュニジア方言]
 population: 11600000
@@ -16,6 +15,15 @@ glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Semitic > West Semitic > Central Semitic > Arabian > Arabic > North African Arabic > Western Middle Arabic > Maghrebi > Malta-Tunisian Arabic > Tunisian Arabic"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tunisian_Arabic"
+translations:
+  - translation_iso: ara
+    name: اللهجة التونسية
+  - translation_iso: jpn
+    name: アラビア語チュニジア方言
+  - translation_iso: kor
+    name: 튀니지 아랍어
+  - translation_iso: zho
+    name: 突尼斯阿拉伯语
 rolv_dialects:
   - rolv_code: 7106
     language_tag: ajt

@@ -1,8 +1,6 @@
 ---
 iso: bpq
 name: Banda Malay
-name_zh: 班达马来语
-name_zh_auto: true
 autonym: "Bahasa-Bahasa Melayu Dagang dan Kreol"
 alt_names: ["Malay, Banda"]
 population: 3690
@@ -15,4 +13,8 @@ glottocode: band1353
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Malayo-Chamic > Malayic > Nuclear Malayic > Vehicular Malay > Eastern Indonesia Trade Malay > Ambonic Malay > Banda Malay"
+translations:
+  - translation_iso: zho
+    name: 班达马来语
+    auto: true
 ---

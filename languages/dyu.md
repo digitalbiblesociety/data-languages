@@ -1,7 +1,6 @@
 ---
 iso: dyu
 name: Dyula
-name_zh: 迪尤拉语
 autonym: Julakan
 alt_names: [Dioula, Dioula language, Diouleg, Diula, Djula, Dyoula, Jula, Język diula, Lingua dioula, Língua dioula, Ĝula lingvo, Диула, Дьюла]
 population: 2226000
@@ -16,6 +15,17 @@ glottolog_family_id: mand1469
 glottolog_family_name: Mande
 glottolog_classification: "Mande > Western Mande > Manding-Kpelle > Central Mande > Manding-Jogo > Manding-Vai > Manding-Mokole > Manding > East Manding > Dyula"
 wikipedia_url: "https://en.wikipedia.org/wiki/Dyula_language"
+translations:
+  - translation_iso: ara
+    name: لغة ديولية
+  - translation_iso: hin
+    name: द्यूला भाषा
+  - translation_iso: jpn
+    name: ジュラ語
+  - translation_iso: kor
+    name: 줄라어
+  - translation_iso: zho
+    name: 迪尤拉语
 rolv_dialects:
   - rolv_code: 2696
     language_tag: dyu-x-HIS02696

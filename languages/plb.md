@@ -1,8 +1,6 @@
 ---
 iso: plb
 name: Polonombauk
-name_zh: 波隆玛瑙克语
-name_zh_auto: true
 autonym: Meris
 alt_names: [Narmoris]
 population: 220
@@ -16,5 +14,9 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > North and Central Vanuatu > Northern Vanuatu > Espiritu Santo > Nuclear Santo > East Santo > Southeast Santo > Polonombauk"
 wikipedia_url: "https://en.wikipedia.org/wiki/Polonombauk_language"
+translations:
+  - translation_iso: zho
+    name: 波隆玛瑙克语
+    auto: true
 ---
 Polonombauk is a language of the interior of the southeast of Santo Island in Vanuatu.

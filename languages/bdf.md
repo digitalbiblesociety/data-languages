@@ -1,8 +1,6 @@
 ---
 iso: bdf
 name: Biage
-name_zh: 比亚格语
-name_zh_auto: true
 autonym: null
 population: null
 country_id: PG
@@ -14,6 +12,10 @@ glottocode: biag1234
 glottolog_family_id: koia1260
 glottolog_family_name: Koiarian
 glottolog_classification: "Koiarian > Koiaric > Biage-Mountain Koiali > Biage"
+translations:
+  - translation_iso: zho
+    name: 比亚格语
+    auto: true
 rolv_dialects:
   - rolv_code: 24343
     language_tag: bdf-x-HIS24343

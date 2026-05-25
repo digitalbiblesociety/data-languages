@@ -1,8 +1,6 @@
 ---
 iso: wla
 name: Walio
-name_zh: 瓦利奥语
-name_zh_auto: true
 autonym: null
 population: 227
 country_id: PG
@@ -15,5 +13,9 @@ glottolog_family_id: wali1264
 glottolog_family_name: Walioic
 glottolog_classification: "Walioic > Pai-Sinen-Walio > Walio"
 wikipedia_url: "https://en.wikipedia.org/wiki/Walio_language"
+translations:
+  - translation_iso: zho
+    name: 瓦利奥语
+    auto: true
 ---
 Walio is a Sepik language spoken in East Sepik Province, Papua-New Guinea. It is spoken in Walio village of Tunap/Hunstein Rural LLG in East Sepik Province.

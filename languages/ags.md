@@ -1,7 +1,6 @@
 ---
 iso: ags
 name: Esimbi
-name_zh: 埃辛比语
 autonym: Aage
 alt_names: [Age, Bogue, Essimbi, Isimbi, Mburugam, Simpi]
 population: 20000
@@ -15,6 +14,9 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Tivoid > Esimbi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Esimbi_language"
+translations:
+  - translation_iso: zho
+    name: 埃辛比语
 rolv_dialects:
   - rolv_code: 24216
     language_tag: ags-x-HIS24216

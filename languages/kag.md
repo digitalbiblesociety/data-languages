@@ -1,8 +1,6 @@
 ---
 iso: kag
 name: Kajaman
-name_zh: 卡贾曼语
-name_zh_auto: true
 autonym: Kayaman
 alt_names: [Kajaman-Sekapan, Kejaman]
 population: 500
@@ -16,5 +14,9 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > North Borneo Malayo-Polynesian > Central Sarawak > Melanau-Kajang > Kajang > Kajaman-Lahanan > Kajaman"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kajaman_language"
+translations:
+  - translation_iso: zho
+    name: 卡贾曼语
+    auto: true
 ---
 Kajaman (Kayaman) is a Kajang language of Sarawak, Malaysia.

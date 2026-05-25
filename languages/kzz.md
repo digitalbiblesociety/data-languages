@@ -1,8 +1,6 @@
 ---
 iso: kzz
 name: Kalabra
-name_zh: 卡拉布拉语
-name_zh_auto: true
 autonym: Beraur
 alt_names: [Klabra]
 population: 3290
@@ -16,5 +14,9 @@ glottolog_family_id: west1493
 glottolog_family_name: "West Bird's Head"
 glottolog_classification: "West Bird's Head > South West Bird's Head > Kalabra"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kalabra_language"
+translations:
+  - translation_iso: zho
+    name: 卡拉布拉语
+    auto: true
 ---
 Kalabra (Beraur) is a Papuan language of the Moi Klabra tribe in Bird's Head Peninsula of New Guinea. It is closest to Tehit. Kalabra is spoken in Beraur District, Sorong Regency, Southwest Papua.

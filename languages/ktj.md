@@ -1,8 +1,6 @@
 ---
 iso: ktj
 name: Plapo Krumen
-name_zh: 普拉波克鲁门语
-name_zh_auto: true
 autonym: Plapo
 alt_names: [Krumen, "Krumen, Plapo"]
 population: 100
@@ -15,4 +13,8 @@ glottocode: plap1239
 glottolog_family_id: krua1234
 glottolog_family_name: Kru
 glottolog_classification: "Kru > Greater Western Kru > Western Kru > Grebo-Aizi > Grebo > Ivorian Grebo > Tepo-Plapo > Plapo Krumen"
+translations:
+  - translation_iso: zho
+    name: 普拉波克鲁门语
+    auto: true
 ---

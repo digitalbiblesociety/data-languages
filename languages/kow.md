@@ -1,8 +1,6 @@
 ---
 iso: kow
 name: Kugama
-name_zh: 库加马语
-name_zh_auto: true
 autonym: Kugamma
 alt_names: [Wegam, Yamale, Yamalo]
 population: 5000
@@ -16,6 +14,10 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Cameroun-Ubangian > Central Adamawa > Mumuye-Yandang > Gengle-Kugama"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kugama_language"
+translations:
+  - translation_iso: zho
+    name: 库加马语
+    auto: true
 rolv_dialects:
   - rolv_code: 2367
     language_tag: kow-x-HIS02367

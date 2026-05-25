@@ -1,7 +1,6 @@
 ---
 iso: ero
 name: Horpa
-name_zh: 尔龚语
 autonym: Bawang
 alt_names: [Danba, Daofu, Ergong, Hor, Horpa-Shangzhai, Hórsók, Pawang, Western Jiarong, 爾龔語, 道孚語, 霍爾語]
 population: 15000
@@ -15,6 +14,11 @@ glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Burmo-Qiangic > Na-Qiangic > Qiangic > Gyalrongic > West Gyalrongic > Nuclear West Gyalrongic > Horpa > Stau-Dgebshes"
 wikipedia_url: "https://en.wikipedia.org/wiki/Horpa_language"
+translations:
+  - translation_iso: jpn
+    name: ホルパ語
+  - translation_iso: zho
+    name: 尔龚语
 rolv_dialects:
   - rolv_code: 10687
     language_tag: ero-x-HIS10687

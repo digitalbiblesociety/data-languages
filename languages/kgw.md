@@ -1,8 +1,6 @@
 ---
 iso: kgw
 name: Karon Dori
-name_zh: 卡龙·多里语
-name_zh_auto: true
 autonym: Maiyach
 alt_names: [Mari, Meon]
 population: 5000
@@ -16,5 +14,9 @@ glottolog_family_id: mayb1237
 glottolog_family_name: Maybratic
 glottolog_classification: "Maybratic > Karon Dori"
 wikipedia_url: "https://en.wikipedia.org/wiki/Karon_Dori_language"
+translations:
+  - translation_iso: zho
+    name: 卡龙·多里语
+    auto: true
 ---
 Maybrat is a Papuan language spoken in the central parts of the Bird's Head Peninsula in the Indonesian province of Southwest Papua.

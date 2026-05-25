@@ -1,8 +1,6 @@
 ---
 iso: nyl
 name: Nyeu
-name_zh: 尼欧语
-name_zh_auto: true
 autonym: Kui
 alt_names: [Yeu, Yoe]
 population: 200
@@ -15,4 +13,8 @@ glottocode: nyeu1238
 glottolog_family_id: aust1305
 glottolog_family_name: Austroasiatic
 glottolog_classification: "Austroasiatic > Katuic > West Katuic > Kuy-Souei > Nyeu"
+translations:
+  - translation_iso: zho
+    name: 尼欧语
+    auto: true
 ---

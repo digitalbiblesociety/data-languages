@@ -1,8 +1,6 @@
 ---
 iso: msn
 name: Vurës
-name_zh: 武雷斯语
-name_zh_auto: true
 autonym: Vureas
 alt_names: [Banks-Inseln, Mosin, Mosina, Mwesen, Vures]
 population: 1050
@@ -16,6 +14,10 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > North and Central Vanuatu > Northern Vanuatu > Torres-Banks linkage > Vurës"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mwesen_language"
+translations:
+  - translation_iso: zho
+    name: 武雷斯语
+    auto: true
 rolv_dialects:
   - rolv_code: 14312
     language_tag: msn-x-HIS14312

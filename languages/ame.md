@@ -1,8 +1,6 @@
 ---
 iso: ame
 name: "Yanesha'"
-name_zh: 亚内沙语
-name_zh_auto: true
 autonym: Yaneshac̈h
 alt_names: [Amage, Amagues, Amaje, Amajo, Amoesha, Amoishe, Amueixa, Amuese, Amuesha, Amuetamo, Amuexa, Lorenzo, Omage, Yanesha]
 population: 7520
@@ -16,5 +14,11 @@ glottolog_family_id: araw1281
 glottolog_family_name: Arawakan
 glottolog_classification: "Arawakan > Southern Maipuran > Kampa-Amuesha > Yanesha'"
 wikipedia_url: "https://en.wikipedia.org/wiki/Yanesha%CA%BC_language"
+translations:
+  - translation_iso: jpn
+    name: アムエシャ語
+  - translation_iso: zho
+    name: 亚内沙语
+    auto: true
 ---
 Yaneshaʼ, also called Amuesha or Amoesha, is a language spoken by the Amuesha people of Peru in central and eastern Pasco Region.

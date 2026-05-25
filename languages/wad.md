@@ -1,8 +1,6 @@
 ---
 iso: wad
 name: Wandamen
-name_zh: 万达门语
-name_zh_auto: true
 autonym: Wamesa
 alt_names: [Bentoeni, Bentuni, Bintuni, Wandamen-Windesi, Windesi, Windessi, Wondama]
 population: 5000
@@ -16,6 +14,10 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > South Halmahera-West New Guinea > Cenderawasih Bay > Yapen > Central-Western Yapen > Ansus-Ambai > Wandamen"
 wikipedia_url: "https://en.wikipedia.org/wiki/Wamesa_language"
+translations:
+  - translation_iso: zho
+    name: 万达门语
+    auto: true
 rolv_dialects:
   - rolv_code: 1259
     language_tag: wad-x-HIS01259

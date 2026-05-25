@@ -1,7 +1,6 @@
 ---
 iso: txb
 name: Tokharian B
-name_zh: 龟兹语
 autonym: Kuśiññe
 alt_names: [Kuchean, Tocharian B, Western Tocharian, Western Tokharian]
 population: null
@@ -15,5 +14,10 @@ glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Tokharian > Tokharian B"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tocharian_B"
+translations:
+  - translation_iso: jpn
+    name: クチャ語
+  - translation_iso: zho
+    name: 龟兹语
 ---
 Tocharian B, also known as Kuchean or West Tocharian, was a Western member of the Tocharian branch of Indo-European languages, extinct from the ninth century. Once spoken in the Tarim Basin in Central Asia, Tocharian B shows an internal chronological development; three linguistic stages have been detected. The oldest stage is attested only in Kucha. There is also the middle ('classicalʼ), and the late stage.

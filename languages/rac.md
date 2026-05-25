@@ -1,8 +1,6 @@
 ---
 iso: rac
 name: Rasawa
-name_zh: 拉萨瓦语
-name_zh_auto: true
 autonym: bahasa Rasawa
 alt_names: [Indonesia]
 population: 200
@@ -16,5 +14,9 @@ glottolog_family_id: lake1255
 glottolog_family_name: Lakes Plain
 glottolog_classification: "Lakes Plain > Far West Lakes Plain > Rasawa-Saponi > Rasawa"
 wikipedia_url: "https://en.wikipedia.org/wiki/Rasawa_language"
+translations:
+  - translation_iso: zho
+    name: 拉萨瓦语
+    auto: true
 ---
 Rasawa is a Papuan language of Indonesia. It is spoken in Rasawa village in Oudate District, Waropen Regency.

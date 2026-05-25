@@ -1,8 +1,6 @@
 ---
 iso: ras
 name: Tegali
-name_zh: 特加利语
-name_zh_auto: true
 autonym: Tagale
 alt_names: [Orig, Rashad, Tegele, Tekele, Togole, Turjok]
 population: 99000
@@ -16,6 +14,10 @@ glottolog_family_id: rash1249
 glottolog_family_name: Rashad
 glottolog_classification: "Rashad > Tegali"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tegali_language"
+translations:
+  - translation_iso: zho
+    name: 特加利语
+    auto: true
 rolv_dialects:
   - rolv_code: 17290
     language_tag: ras-x-HIS17290

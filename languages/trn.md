@@ -1,8 +1,6 @@
 ---
 iso: trn
 name: Trinitario
-name_zh: 三一达里奥语
-name_zh_auto: true
 autonym: Mojos
 alt_names: [Moxo, Moxos, Trimitarios]
 population: 30000
@@ -16,6 +14,10 @@ glottolog_family_id: araw1281
 glottolog_family_name: Arawakan
 glottolog_classification: "Arawakan > Southern Maipuran > Bolivian Arawakan > Mojeno-Paunaca > Mojeño > Trinitario-Javeriano-Loretano"
 wikipedia_url: "https://en.wikipedia.org/wiki/Trinitario_language"
+translations:
+  - translation_iso: zho
+    name: 三一达里奥语
+    auto: true
 rolv_dialects:
   - rolv_code: 17642
     language_tag: trn-x-HIS17642

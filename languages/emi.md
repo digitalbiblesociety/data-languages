@@ -1,7 +1,6 @@
 ---
 iso: emi
 name: "Mussau-Emira"
-name_zh: 穆绍-埃米拉语
 autonym: null
 alt_names: [Emira, Emira-Mussau, Musao, Musau-Emira, Mussau]
 population: 3500
@@ -15,6 +14,11 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > St. Matthias > Mussau-Emira"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mussau-Emira_language"
+translations:
+  - translation_iso: jpn
+    name: ムサウ・エミラ語
+  - translation_iso: zho
+    name: 穆绍-埃米拉语
 rolv_dialects:
   - rolv_code: 14460
     language_tag: emi-x-HIS14460

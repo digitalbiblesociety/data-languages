@@ -1,8 +1,6 @@
 ---
 iso: kng
 name: Koongo
-name_zh: 孔戈语
-name_zh_auto: true
 autonym: Kikongo
 alt_names: [Cabinda, Congo, Fiote, Kikoongo, Kongo, South-Central Kikongo, West Kongo]
 population: 6236500
@@ -15,6 +13,12 @@ glottocode: koon1244
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > Central-Western Bantu > West-Coastal Bantu > Nzadic > Lweric > Dingic > Loange-Atlantic > KLC Extended > Kikongo Language Cluster > Nuclear KLC > Kikongoic > Kambakunyic Kikongo > Kilaadic Kikongo > Central-Southern Kikongo > Southeastern Kikongo > Southern Kikongo > Koongo-Kituba > South-Central Koongo"
+translations:
+  - translation_iso: jpn
+    name: コオンゴ語
+  - translation_iso: zho
+    name: 孔戈语
+    auto: true
 rolv_dialects:
   - rolv_code: 168
     language_tag: kng-x-HIS00168

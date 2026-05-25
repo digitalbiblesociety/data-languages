@@ -1,8 +1,6 @@
 ---
 iso: mzy
 name: Mozambican Sign Language
-name_zh: 莫桑比克手语
-name_zh_auto: true
 autonym: null
 population: 150000
 country_id: MZ
@@ -15,5 +13,11 @@ glottolog_family_id: sign1238
 glottolog_family_name: Sign Language
 glottolog_classification: "Sign Language > L1 Sign Language > Mozambican Sign Language"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mozambican_Sign_Language"
+translations:
+  - translation_iso: jpn
+    name: モザンビーク手話
+  - translation_iso: zho
+    name: 莫桑比克手语
+    auto: true
 ---
 Mozambican Sign Language is the principal language of the deaf community of Mozambique. It is reported to have "some dialectal variation", and to be spoken in at least the three largest cities of Maputo, Beira, and Nampula. As of 1999, there were efforts at standardization. MSL is not based on Portuguese Sign Language—or for that matter on American Sign Language—but other than that, its origin is not recorded.

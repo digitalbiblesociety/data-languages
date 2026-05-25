@@ -1,8 +1,6 @@
 ---
 iso: shg
 name: Shua
-name_zh: 舒瓦语
-name_zh_auto: true
 autonym: Mashuakwe
 alt_names: [Deti, Shua-Khwe, Shwa language, Tshumakwe]
 population: 100
@@ -16,6 +14,12 @@ glottolog_family_id: khoe1240
 glottolog_family_name: Khoe-Kwadi
 glottolog_classification: "Khoe-Kwadi > Khoe > Non-Khoekhoe > Ost-Kxoe > Shua"
 wikipedia_url: "https://en.wikipedia.org/wiki/Shua_language"
+translations:
+  - translation_iso: jpn
+    name: シュア語
+  - translation_iso: zho
+    name: 舒瓦语
+    auto: true
 rolv_dialects:
   - rolv_code: 1832
     language_tag: shg-x-HIS01832

@@ -1,8 +1,6 @@
 ---
 iso: xny
 name: Nyiyaparli
-name_zh: 尼伊亚帕里语
-name_zh_auto: true
 autonym: "\"Nijadali\""
 alt_names: [Bailgu, Bailko, Bailko-Pandjima, Balgoo, Balgu, Balygu, Boolgoo, Iabali, Jana, Janari, Jauna, Niabali, Nijadali, Njiabadi, Njiabali, Njijabadi, Njijabali, Njijapali, Nyiyabali, Nyiyapali, Nyiypali, Paljgu, Palyku, Pulgoe]
 population: null
@@ -16,5 +14,9 @@ glottolog_family_id: pama1250
 glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > South-West Pama-Nyungan > Pilbara > Ngayarda > Central Ngayarda > Nyiyaparli-Palyku"
 wikipedia_url: "https://en.wikipedia.org/wiki/Nyiyaparli_language"
+translations:
+  - translation_iso: zho
+    name: 尼伊亚帕里语
+    auto: true
 ---
 Nyiyaparli is a nearly extinct Pama–Nyungan language spoken by the Palyku (Bailko) and Niabali (Jana) people of Western Australia. There is also a formal language register known as padupadu.

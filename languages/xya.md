@@ -1,8 +1,6 @@
 ---
 iso: xya
 name: Yaygir
-name_zh: 亚伊吉尔语
-name_zh_auto: true
 autonym: Jeigir
 alt_names: [Jungai, Yaygirr, Yegera, Yegir, Yiegera, Youngai]
 population: 5
@@ -16,5 +14,9 @@ glottolog_family_id: pama1250
 glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > Southeastern Pama-Nyungan > North Coast Pama-Nyungan > Gumbaynggiric > Yaygir"
 wikipedia_url: "https://en.wikipedia.org/wiki/Yaygir_language"
+translations:
+  - translation_iso: zho
+    name: 亚伊吉尔语
+    auto: true
 ---
 Yaygir, also spelt Yaygirr or Yegir, is an Australian Aboriginal language. It was spoken by the Yaygir people in the Northern Rivers region of New South Wales.

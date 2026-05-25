@@ -1,8 +1,6 @@
 ---
 iso: bkj
 name: Pande
-name_zh: 潘德语
-name_zh_auto: true
 autonym: "Pande-Gongo"
 alt_names: [Ipande]
 population: 9700
@@ -16,6 +14,10 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > Central-Western Bantu > North Zaire River > Rivers Bantu > Likouala-Sangha > Bwamba-Ngondi-Pande-Mbati-Aka > Pande"
 wikipedia_url: "https://en.wikipedia.org/wiki/Pande_language"
+translations:
+  - translation_iso: zho
+    name: 潘德语
+    auto: true
 rolv_dialects:
   - rolv_code: 15467
     language_tag: bkj-x-HIS15467

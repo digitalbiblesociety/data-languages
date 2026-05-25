@@ -1,8 +1,6 @@
 ---
 iso: lgn
 name: "T'apo"
-name_zh: 塔波语
-name_zh_auto: true
 autonym: Tʼapo
 alt_names: ["\"Langa\"", Ansita, Ciita, Cita, Kina, Kwina, Opo, Opo-Shita, Opuo, Opuuo, Opuuo language, Opúo, Shiita, Shita, Shitta, Upo]
 population: 1000
@@ -16,6 +14,10 @@ glottolog_family_id: koma1264
 glottolog_family_name: Koman
 glottolog_classification: "Koman > Central Koman > Dana-Opo > Opo"
 wikipedia_url: "https://en.wikipedia.org/wiki/Opuo_language"
+translations:
+  - translation_iso: zho
+    name: 塔波语
+    auto: true
 rolv_dialects:
   - rolv_code: 26722
     language_tag: lgn-x-HIS26722

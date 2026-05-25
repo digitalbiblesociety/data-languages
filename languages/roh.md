@@ -1,7 +1,6 @@
 ---
 iso: roh
 name: Romansh
-name_zh: 罗曼什语
 autonym: rumantsch
 alt_names: [Bahasa Romansh, Erromantxera, Grishun, Język romansz, Kirumanj, Lenghe romanze, Limba retoromană, Lingua retorrománica, Lingua rhetoroman, Lingua romancia, Língua romanche, Reto-Roemaans, Reto-Romaans, Retoromaani, Retoromansk, Retoromanų kalba, Retoromāņu valoda, Rhaeto-Romance, Rhaeto-Romansch, Rhaeto-Romansch (Scharans), Rheto-Romance, Rhäto-Romanisch, Romanch, Romanche, Romancica lingua, Romanisch, Romans nyelv, Romansch, Romansch (Scharans), Romansch (Surmeiran), Romansch (Sursilvan), Romanx, Romanĉa lingvo, Romanşça, Romanš, Romaunsch, Romañcheg, Roumancho, Roumantche, Roumantsh, Rumancc, Rumanch, Rumantsch dal Grischun, Rumauntsch, Rätoromanesch, Rätoromanisch, Rätoromanische Sprache, Rätoromanska, Rætoromansk, Rétorománština, Scharans dialect, Švajčiarska rétorománčina, Ρομανσική γλώσσα, Ретороманонь кяль, Ретороманська мова, Романш, Романшский язык, Рэтараманская мова, רומאנש, لغة رومانشية, உரோமாஞ்சு மொழி, რეტორომანული ენა, ሮማንሽ, ロマンシュ語, 罗曼什语, 로만슈어]
 population: 40000
@@ -16,6 +15,17 @@ glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Italic > Latino-Faliscan > Latinic > Imperial Latin > Romance > Italo-Western Romance > Western Romance > Shifted Western Romance > Northwestern Shifted Romance > Gallo-Rhaetian > Romansh"
 wikipedia_url: "https://en.wikipedia.org/wiki/Romansh_language"
+translations:
+  - translation_iso: ara
+    name: الرومانشية
+  - translation_iso: hin
+    name: रूमान्त्च भाषा
+  - translation_iso: jpn
+    name: ロマンシュ語
+  - translation_iso: kor
+    name: 로만슈어
+  - translation_iso: zho
+    name: 罗曼什语
 rolv_dialects:
   - rolv_code: 2906
     language_tag: rm-x-HIS02906

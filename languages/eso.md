@@ -1,8 +1,6 @@
 ---
 iso: eso
 name: Estonian Sign Language
-name_zh: 爱沙尼亚手语
-name_zh_auto: true
 autonym: Eesti viipekeel (EVK)
 alt_names: [Língua de Sinais da Estónia, Viipekeel]
 population: 6300
@@ -16,5 +14,11 @@ glottolog_family_id: sign1238
 glottolog_family_name: Sign Language
 glottolog_classification: "Sign Language > L1 Sign Language > RSLic > Estonian Sign Language"
 wikipedia_url: "https://en.wikipedia.org/wiki/Estonian_Sign_Language"
+translations:
+  - translation_iso: jpn
+    name: エストニア手話
+  - translation_iso: zho
+    name: 爱沙尼亚手语
+    auto: true
 ---
 Estonian Sign Language is the national sign language of Estonia.

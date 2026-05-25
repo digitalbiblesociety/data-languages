@@ -1,8 +1,6 @@
 ---
 iso: mgf
 name: Maklew
-name_zh: 玛克鲁语
-name_zh_auto: true
 autonym: Makleunga
 alt_names: [Makleu]
 population: 120
@@ -16,6 +14,10 @@ glottolog_family_id: bula1259
 glottolog_family_name: Bulaka River
 glottolog_classification: "Bulaka River > Maklew"
 wikipedia_url: "https://en.wikipedia.org/wiki/Maklew_language"
+translations:
+  - translation_iso: zho
+    name: 玛克鲁语
+    auto: true
 rolv_dialects:
   - rolv_code: 1907
     language_tag: mgf-x-HIS01907

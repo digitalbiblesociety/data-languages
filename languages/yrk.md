@@ -1,7 +1,6 @@
 ---
 iso: yrk
 name: Nenets
-name_zh: 涅涅茨语
 autonym: "ненэцяʼ вадаnenécja' vada"
 alt_names: ["Bol'shezemel'sk Nenets", Dialekt der Tundrajuraken, Forest Nenets language, Jurak, Jurakisch, Juraksamojedisch, Nenec, Nenets (Tundra), Nenets (Yurak Samoyed), Nenetsy, Nentse, Nenzisch, Northern Samoyed, Néncico de la tundra, Nénètse de la toundra, Nénètse des forêts, Samojedi, Samojedimanzela, Samoyed, Tundra Nenets, Tundra Yurak, Yurak, Yurak Samoyed, Yurak Samoyedic, hasawa, nency, "nyenetsya' vada", samojadj, tundranenetsi, yourak, Ńeńeć, ненэцяʼ вада, нешанский язык, нещанский язык, тундровый ненецкий язык]
 population: 21900
@@ -16,6 +15,15 @@ glottolog_family_id: ural1272
 glottolog_family_name: Uralic
 glottolog_classification: "Uralic > Samoyedic > Enets-Nenets > Nenets > Tundra Nenets"
 wikipedia_url: "https://en.wikipedia.org/wiki/Nenets_languages"
+translations:
+  - translation_iso: ara
+    name: لغات النينيتس
+  - translation_iso: jpn
+    name: ネネツ語
+  - translation_iso: kor
+    name: 네네츠어
+  - translation_iso: zho
+    name: 涅涅茨语
 rolv_dialects:
   - rolv_code: 14824
     language_tag: yrk-x-HIS14824

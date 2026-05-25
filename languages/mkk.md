@@ -1,8 +1,6 @@
 ---
 iso: mkk
 name: Byep
-name_zh: 拜普语
-name_zh_auto: true
 autonym: Maka
 alt_names: [Makya, Meka, Mekae, Mekay, Mekey, Mekye, Mika, Moka, North Makaa]
 population: 9500
@@ -16,6 +14,10 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > Bantu A-B10-B20-B30 > Makaa-Kako (A.80-90) > Makaa-Njem (A.80) > Western A80 > Makaaic > North-Central Makaaic > Byep-Besep"
 wikipedia_url: "https://en.wikipedia.org/wiki/Byep_language"
+translations:
+  - translation_iso: zho
+    name: 拜普语
+    auto: true
 rolv_dialects:
   - rolv_code: 8594
     language_tag: mkk-x-HIS08594

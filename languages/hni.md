@@ -1,7 +1,6 @@
 ---
 iso: hni
 name: Hani
-name_zh: 哈尼语
 autonym: Haqniqdoq
 alt_names: [Hanhi, Hani Proper, Haw, Hànhì, U Ní, Uni, Xauni, Xá U Ní, ภาษาฮานี, 哈尼语]
 population: 751740
@@ -15,6 +14,13 @@ glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Burmo-Qiangic > Lolo-Burmese > Loloish > Hani-Jino > Bisoid-Hanic > Hanic > Ha-Ya > Hani"
 wikipedia_url: "https://en.wikipedia.org/wiki/Hani_language"
+translations:
+  - translation_iso: jpn
+    name: ハニ語
+  - translation_iso: kor
+    name: 하니어
+  - translation_iso: zho
+    name: 哈尼语
 rolv_dialects:
   - rolv_code: 4942
     language_tag: hni-x-HIS04942

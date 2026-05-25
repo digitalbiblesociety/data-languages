@@ -1,7 +1,6 @@
 ---
 iso: fit
 name: Tornedalen Finnish
-name_zh: 梅安语
 autonym: meänkieli
 alt_names: ["Finnish, Tornedalen", Língua meänkieli, Meankieleg, Meä keel, Meä kiil, Meän Suomi, Meängbe, Meänkieli nyelv, North Finnish, Torne Valley Finnish, Tornedalen, Tornedalsfinsk, Tornedalsfinska, Tornionlaakson Suomi, Tornival-finna lingvo, Меанкиели, Меенкьели, Меянкиели, Мејанкиели јазик]
 population: 60000
@@ -16,6 +15,15 @@ glottolog_family_id: ural1272
 glottolog_family_name: Uralic
 glottolog_classification: "Uralic > Finnic > Coastal Finnic > Neva > North Finnic > Nuclear Finnish > Meänkieli"
 wikipedia_url: "https://en.wikipedia.org/wiki/Me%C3%A4nkieli"
+translations:
+  - translation_iso: ara
+    name: منكيلي
+  - translation_iso: jpn
+    name: メアンキエリ
+  - translation_iso: kor
+    name: 메앤키엘리
+  - translation_iso: zho
+    name: 梅安语
 rolv_dialects:
   - rolv_code: 9816
     language_tag: fit-x-HIS09816

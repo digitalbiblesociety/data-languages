@@ -1,7 +1,6 @@
 ---
 iso: kxd
 name: Brunei
-name_zh: 汶萊馬來語
 autonym: Kedayan
 alt_names: [Brunei-Kadaian, Orang Bukit]
 population: 321000
@@ -15,6 +14,13 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Malayo-Chamic > Malayic > Nuclear Malayic > East Borneo Malay > Banjar-Berau-Brunei Malay > Berau-Brunei Malay > Bruneic Malay > Brunei-Bacan Malay > Brunei"
 wikipedia_url: "https://en.wikipedia.org/wiki/Brunei_Malay"
+translations:
+  - translation_iso: ara
+    name: ملايو بروناي
+  - translation_iso: jpn
+    name: ブルネイ・マレー語
+  - translation_iso: zho
+    name: 汶萊馬來語
 rolv_dialects:
   - rolv_code: 8382
     language_tag: kxd-x-HIS08382

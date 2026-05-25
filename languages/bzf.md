@@ -1,8 +1,6 @@
 ---
 iso: bzf
 name: Boikin
-name_zh: 博伊金语
-name_zh_auto: true
 autonym: Boiken
 alt_names: [Nucum, Yangoru, Yengoru]
 population: 35000
@@ -16,6 +14,10 @@ glottolog_family_id: nduu1242
 glottolog_family_name: Ndu
 glottolog_classification: "Ndu > Boikin"
 wikipedia_url: "https://en.wikipedia.org/wiki/Boiken_language"
+translations:
+  - translation_iso: zho
+    name: 博伊金语
+    auto: true
 rolv_dialects:
   - rolv_code: 569
     language_tag: bzf-x-HIS00569

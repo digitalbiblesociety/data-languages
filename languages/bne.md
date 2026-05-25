@@ -1,8 +1,6 @@
 ---
 iso: bne
 name: Bintauna
-name_zh: 宾陶纳语
-name_zh_auto: true
 autonym: Bintaoena
 population: 12000
 country_id: ID
@@ -15,5 +13,11 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Greater Central Philippine > Gorontalo-Mongondow > Gorontalic > Bintauna"
 wikipedia_url: "https://en.wikipedia.org/wiki/Bintauna_language"
+translations:
+  - translation_iso: jpn
+    name: ビンタウナ語
+  - translation_iso: zho
+    name: 宾陶纳语
+    auto: true
 ---
 Bintauna is a Philippine language spoken in North Sulawesi (Celebes), Indonesia.

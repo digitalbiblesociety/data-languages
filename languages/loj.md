@@ -1,8 +1,6 @@
 ---
 iso: loj
 name: Lou
-name_zh: 洛乌语
-name_zh_auto: true
 autonym: null
 alt_names: [Admiralitäts-inseln, Baluan-Lou-Pam]
 population: 1000
@@ -16,6 +14,10 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Admiralty Islands > Eastern Admiralty Islands > South-East Admiralty > Lou-Paluai > Lou"
 wikipedia_url: "https://en.wikipedia.org/wiki/Lou_language_(Austronesian)"
+translations:
+  - translation_iso: zho
+    name: 洛乌语
+    auto: true
 rolv_dialects:
   - rolv_code: 13093
     language_tag: loj-x-HIS13093

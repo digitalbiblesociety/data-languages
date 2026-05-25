@@ -1,8 +1,6 @@
 ---
 iso: mse
 name: Musey
-name_zh: 穆塞语
-name_zh_auto: true
 autonym: Bananna
 alt_names: [Bananna Ho Ho, Mosi, Moussei, Moussey, Musaya, Musei, Museyna, Musiina, Musoi, Mussoi, Mussoy]
 population: 433000
@@ -16,6 +14,10 @@ glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > Masa > North Masa > Marba-Musey > Musey"
 wikipedia_url: "https://en.wikipedia.org/wiki/Musey_language"
+translations:
+  - translation_iso: zho
+    name: 穆塞语
+    auto: true
 rolv_dialects:
   - rolv_code: 14442
     language_tag: mse-x-HIS14442

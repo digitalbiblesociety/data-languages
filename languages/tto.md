@@ -1,8 +1,6 @@
 ---
 iso: tto
 name: "Lower Ta'oih"
-name_zh: 下塔欧伊语
-name_zh_auto: true
 autonym: Ta Oi
 alt_names: ["Ta'oih, Lower", Tong]
 population: 15800
@@ -15,6 +13,10 @@ glottocode: lowe1395
 glottolog_family_id: aust1305
 glottolog_family_name: Austroasiatic
 glottolog_classification: "Austroasiatic > Katuic > Ta'oihic > Ong-Ta'oih > Lower Ta'oih"
+translations:
+  - translation_iso: zho
+    name: 下塔欧伊语
+    auto: true
 rolv_dialects:
   - rolv_code: 1825
     language_tag: tto-x-HIS01825

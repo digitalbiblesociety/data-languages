@@ -1,8 +1,6 @@
 ---
 iso: bsl
 name: "Basa-Gumna"
-name_zh: 巴萨-古姆纳语
-name_zh_auto: true
 autonym: Basa Kuta
 alt_names: [Basa, Basa-Kaduna, Bassa-Kaduna, Gwadara Basa]
 population: null
@@ -16,5 +14,11 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Kainji > Central Kainji > Basa-Eastern Kainji > Basa > Kontagora-Gumna-Koromba > Gumna-Kontagora > Basa-Gumna"
 wikipedia_url: "https://en.wikipedia.org/wiki/Basa-Gumna_language"
+translations:
+  - translation_iso: jpn
+    name: バサ・グムナ語
+  - translation_iso: zho
+    name: 巴萨-古姆纳语
+    auto: true
 ---
 Basa-Gumna is an extinct Kainji language of Nigeria. It was spoken in Chanchaga, Niger state, and Nasarawa, near the Basa homeland. Speakers have shifted to Hausa.

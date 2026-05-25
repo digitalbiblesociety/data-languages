@@ -1,8 +1,6 @@
 ---
 iso: dds
 name: Donno So Dogon
-name_zh: 多诺索多贡语
-name_zh_auto: true
 autonym: Kamba So
 alt_names: ["Dogon, Donno So", Donno So]
 population: 45300
@@ -15,4 +13,8 @@ glottocode: donn1239
 glottolog_family_id: dogo1299
 glottolog_family_name: Dogon
 glottolog_classification: "Dogon > Escarpment Dogon > Donno So Dogon"
+translations:
+  - translation_iso: zho
+    name: 多诺索多贡语
+    auto: true
 ---

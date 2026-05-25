@@ -1,8 +1,6 @@
 ---
 iso: abi
 name: Abidji
-name_zh: 阿比吉语
-name_zh_auto: true
 autonym: Abiji
 population: 85000
 country_id: CI
@@ -15,6 +13,10 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Kwa Volta-Congo > Nyo > Agneby > Abidji"
 wikipedia_url: "https://en.wikipedia.org/wiki/Abidji_language"
+translations:
+  - translation_iso: zho
+    name: 阿比吉语
+    auto: true
 rolv_dialects:
   - rolv_code: 6623
     language_tag: abi-x-HIS06623

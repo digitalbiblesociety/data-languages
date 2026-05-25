@@ -1,7 +1,6 @@
 ---
 iso: sda
 name: "Toraja-Sa'dan"
-name_zh: 托拉查-萨达语
 autonym: Sa’dan
 alt_names: [Nordost-Celebes, Rantepao, "Sa'dan", "Sa'dansche", Sadan, Sadang, South Toraja, "Ta'e", "Tae'", Toradja, Toraja, "Toraja Sa'dan"]
 population: 588000
@@ -15,6 +14,11 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Greater South Sulawesi > South Sulawesi > Northern South Sulawesi > Toraja-Duri > Torajic > Toraja-Sa'dan"
 wikipedia_url: "https://en.wikipedia.org/wiki/Toraja-Sa%CA%BCdan_language"
+translations:
+  - translation_iso: jpn
+    name: トラジャ＝サダン語
+  - translation_iso: zho
+    name: 托拉查-萨达语
 rolv_dialects:
   - rolv_code: 6363
     language_tag: sda-x-HIS06363

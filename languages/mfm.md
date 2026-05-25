@@ -1,8 +1,6 @@
 ---
 iso: mfm
 name: Marghi South
-name_zh: 玛格希南语
-name_zh_auto: true
 autonym: null
 alt_names: [Chobba, Hildi, KChobba, Margi]
 population: 166000
@@ -16,5 +14,9 @@ glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > Biu-Mandara > North Biu-Mandara > Margi-Mandara-Mofu > Bura-Marghi > Marghic > Kilba-South Margi > Marghi South"
 wikipedia_url: "https://en.wikipedia.org/wiki/Margi_South_language"
+translations:
+  - translation_iso: zho
+    name: 玛格希南语
+    auto: true
 ---
 Marghi South is a Chadic language of Nigeria. It is perhaps closer to Huba than it is to Margi.

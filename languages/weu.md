@@ -1,8 +1,6 @@
 ---
 iso: weu
 name: Rawngtu Chin
-name_zh: 朗图-钦语
-name_zh_auto: true
 autonym: Rawngtu Chin
 alt_names: ["Chin, Rawngtu"]
 population: 9550
@@ -12,6 +10,10 @@ status_id: 6a
 latitude: 27.04569
 longitude: 98.3197
 wikipedia_url: "https://en.wikipedia.org/wiki/Welaung_language"
+translations:
+  - translation_iso: zho
+    name: 朗图-钦语
+    auto: true
 rolv_dialects:
   - rolv_code: 27803
     language_tag: weu-x-HIS27803

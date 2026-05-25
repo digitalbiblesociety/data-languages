@@ -1,8 +1,6 @@
 ---
 iso: zmz
 name: Mbandja
-name_zh: 姆班贾语
-name_zh_auto: true
 autonym: Mbandza
 alt_names: [Banja, Mbanja, Mbanza]
 population: 367400
@@ -16,6 +14,12 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Cameroun-Ubangian > Ubangi > Ubangi Ka > Bandaic > Nuclear Bandaic > Southwest Bandaic > Central North West Bandaic > Mbandja"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mbandja_language"
+translations:
+  - translation_iso: jpn
+    name: ンバンジャ語
+  - translation_iso: zho
+    name: 姆班贾语
+    auto: true
 rolv_dialects:
   - rolv_code: 1375
     language_tag: zmz-x-HIS01375

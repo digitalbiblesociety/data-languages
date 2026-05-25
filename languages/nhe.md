@@ -1,8 +1,6 @@
 ---
 iso: nhe
 name: Eastern Huasteca Nahuatl
-name_zh: 东瓦斯特卡纳瓦特尔语
-name_zh_auto: true
 autonym: "Náhuatl, Huasteca Oriental"
 alt_names: [Eastern Nahua, Eastern Nawa, Lingua nahuatl huaxteca orientale, Mexicano, Nahua de la Huasteca, Nahuatl, Nahuatl (Huasteca), "Nahuatl, Eastern Huasteca", Náhuatl du Huasteca]
 population: 1730000
@@ -16,6 +14,10 @@ glottocode: east2538
 glottolog_family_id: utoa1244
 glottolog_family_name: Uto-Aztecan
 glottolog_classification: "Uto-Aztecan > Southern Uto-Aztecan > Corachol-Aztecan > Aztec > Eastern Nahuatl > Huasteca Nahuatl > Eastern Huasteca Nahuatl"
+translations:
+  - translation_iso: zho
+    name: 东瓦斯特卡纳瓦特尔语
+    auto: true
 rolv_dialects:
   - rolv_code: 25384
     language_tag: nhe-x-HIS25384

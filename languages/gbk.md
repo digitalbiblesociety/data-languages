@@ -1,8 +1,6 @@
 ---
 iso: gbk
 name: Gaddi
-name_zh: 加迪语
-name_zh_auto: true
 autonym: 𑚌𑚛𑚊𑚯
 alt_names: [Bharmauri, Bharmauri Bhadi, Gaddyali, Gadi, Gadiali, Pahari Bharmauri, Panchi Brahmauri Rajput]
 population: 181000
@@ -16,6 +14,12 @@ glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Indo-Aryan > Middle-Modern Indo-Aryan > Eastern Dardic > Himachali > Kangric-Chamealic-Bhattiyali > Chamealic > Gaddi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Gaddi_language"
+translations:
+  - translation_iso: hin
+    name: गदी
+  - translation_iso: zho
+    name: 加迪语
+    auto: true
 rolv_dialects:
   - rolv_code: 18783
     language_tag: gbk-x-HIS18783

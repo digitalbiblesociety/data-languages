@@ -1,8 +1,6 @@
 ---
 iso: wrn
 name: Warnang
-name_zh: 瓦尔南语
-name_zh_auto: true
 autonym: Warnang
 alt_names: [Warnango, Werni]
 population: 1100
@@ -16,5 +14,11 @@ glottolog_family_id: heib1242
 glottolog_family_name: Heibanic
 glottolog_classification: "Heibanic > Eastern Heibanic > Warnang"
 wikipedia_url: "https://en.wikipedia.org/wiki/Warnang_language"
+translations:
+  - translation_iso: ara
+    name: لغة ويرني
+  - translation_iso: zho
+    name: 瓦尔南语
+    auto: true
 ---
 The Werni language, also known as Warnang, is a small Niger–Congo language of the Heiban family spoken in South Kordofan, Sudan.

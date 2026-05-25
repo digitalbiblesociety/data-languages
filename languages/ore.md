@@ -1,8 +1,6 @@
 ---
 iso: ore
 name: Orejón
-name_zh: 奥雷洪语
-name_zh_auto: true
 autonym: Koto
 alt_names: [Coto, Koihoma, Mai Huna, Mai Ja, Maihiki, Maihuna, Maijuna, Orechon, Oregon, Orejon, Orejone, Orejó, Payagua, Payaguá, Payguaje, Payoguaje, Tutapi]
 population: 190
@@ -16,6 +14,10 @@ glottolog_family_id: tuca1253
 glottolog_family_name: Tucanoan
 glottolog_classification: "Tucanoan > Western Tucanoan > Napo Tucanoan > Maijiki"
 wikipedia_url: "https://en.wikipedia.org/wiki/Maijiki_language"
+translations:
+  - translation_iso: zho
+    name: 奥雷洪语
+    auto: true
 rolv_dialects:
   - rolv_code: 15314
     language_tag: ore-x-HIS15314

@@ -1,8 +1,6 @@
 ---
 iso: kgu
 name: Kobol
-name_zh: 科博尔语
-name_zh_auto: true
 autonym: Koguman
 alt_names: [Kogumar]
 population: 720
@@ -16,5 +14,9 @@ glottolog_family_id: nucl1709
 glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Madang > Croisilles > Omosan > Kobol"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kobol_language"
+translations:
+  - translation_iso: zho
+    name: 科博尔语
+    auto: true
 ---
 Kobol, or Koguman, is a Papuan language of Madang Province, Papua New Guinea.

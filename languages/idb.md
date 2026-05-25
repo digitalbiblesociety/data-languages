@@ -1,7 +1,6 @@
 ---
 iso: idb
 name: "Indo-Portuguese"
-name_zh: 印度-葡萄牙語
 autonym: Língua da Casa
 population: 4940
 country_id: IN
@@ -14,6 +13,11 @@ glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Italic > Latino-Faliscan > Latinic > Imperial Latin > Romance > Italo-Western Romance > Western Romance > Shifted Western Romance > Southwestern Shifted Romance > West Ibero-Romance > Galician Romance > Macro-Portuguese > Indo-Portuguesic > Northern Indo-Portuguesic > Daman-Diu Portuguese"
 wikipedia_url: "https://en.wikipedia.org/wiki/Daman_and_Diu_Portuguese_Creole"
+translations:
+  - translation_iso: hin
+    name: हिन्द-पुर्तगाली क्रियोल
+  - translation_iso: zho
+    name: 印度-葡萄牙語
 rolv_dialects:
   - rolv_code: 25094
     language_tag: idb-x-HIS25094

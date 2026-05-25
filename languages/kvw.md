@@ -1,8 +1,6 @@
 ---
 iso: kvw
 name: Wersing
-name_zh: 韦塞语
-name_zh_auto: true
 autonym: Kolana
 alt_names: [Kolana-Wersin, Warsina, Wersin]
 population: 3700
@@ -16,6 +14,10 @@ glottolog_family_id: timo1261
 glottolog_family_name: Timor-Alor-Pantar
 glottolog_classification: "Timor-Alor-Pantar > Alor-Pantar > East Alor > Sawila-Wersing > Wersing"
 wikipedia_url: "https://en.wikipedia.org/wiki/Wersing_language"
+translations:
+  - translation_iso: zho
+    name: 韦塞语
+    auto: true
 rolv_dialects:
   - rolv_code: 705
     language_tag: kvw-x-HIS00705

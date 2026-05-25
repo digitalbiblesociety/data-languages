@@ -1,8 +1,6 @@
 ---
 iso: alx
 name: Amol
-name_zh: 阿莫尔语
-name_zh_auto: true
 autonym: Alatil
 alt_names: [Alang, Aru, Eru]
 population: 270
@@ -16,6 +14,10 @@ glottolog_family_id: nucl1708
 glottolog_family_name: Nuclear Torricelli
 glottolog_classification: "Nuclear Torricelli > Wapei-Palei > Central Torricelli > Nuclear Palai > Bragat-Aruop-Amol > Mol"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mol_language"
+translations:
+  - translation_iso: zho
+    name: 阿莫尔语
+    auto: true
 rolv_dialects:
   - rolv_code: 3269
     language_tag: alx-x-HIS03269

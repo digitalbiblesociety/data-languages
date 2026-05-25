@@ -1,8 +1,6 @@
 ---
 iso: bqv
 name: Koro Wachi
-name_zh: 科罗瓦基语
-name_zh_auto: true
 autonym: Tinɔr
 alt_names: [Agere, Begbere-Ejar, Koro, Koro Agwe, Koro Makama, Koro Myamya, Miamia, Miamiya]
 population: 106000
@@ -16,6 +14,10 @@ glottocode: begb1241
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Benue-Congo Plateau > West-Central Benue-Congo Plateau > Northwestern Benue-Congo Plateau > Koroic > Tinoric > Begbere-Ejar"
+translations:
+  - translation_iso: zho
+    name: 科罗瓦基语
+    auto: true
 rolv_dialects:
   - rolv_code: 1967
     language_tag: bqv-x-HIS01967

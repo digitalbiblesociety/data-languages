@@ -1,8 +1,6 @@
 ---
 iso: tkt
 name: Kathoriya Tharu
-name_zh: 卡瑟里亚塔鲁语
-name_zh_auto: true
 autonym: (polyphyletic)
 alt_names: [Kathariya, "Tharu, Kathoriya"]
 population: 106000
@@ -17,6 +15,10 @@ glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Indo-Aryan > Middle-Modern Indo-Aryan > Continental Indo-Aryan > Midlands Indo-Aryan > Shaurasenic > Bihari > Tharuic > Eastern Tharu > Kathoriya Tharu"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kathariya_Tharu"
+translations:
+  - translation_iso: zho
+    name: 卡瑟里亚塔鲁语
+    auto: true
 rolv_dialects:
   - rolv_code: 2968
     language_tag: tkt-x-HIS02968

@@ -1,8 +1,6 @@
 ---
 iso: rin
 name: Nungu
-name_zh: 农古语
-name_zh_auto: true
 autonym: Rindiri
 alt_names: [Lindiri, Rendre, Rindre]
 population: 50000
@@ -16,6 +14,12 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Benue-Congo Plateau > Ninzic > Nungu"
 wikipedia_url: "https://en.wikipedia.org/wiki/Nungu_language"
+translations:
+  - translation_iso: kor
+    name: 눙구어
+  - translation_iso: zho
+    name: 农古语
+    auto: true
 rolv_dialects:
   - rolv_code: 15127
     language_tag: rin-x-HIS15127

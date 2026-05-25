@@ -1,8 +1,6 @@
 ---
 iso: nsq
 name: Northern Sierra Miwok
-name_zh: 北内华达山米沃克语
-name_zh_auto: true
 autonym: Saclan
 alt_names: [Central Sierra Miwok, "Central Sierra Miwok: Tuolumne", Eastern Division, Me-Wuk, Meewoc, Mewoc, Miwoc, Miwok (Northern Sierra), Miwok de la Sierra du nord, "Miwok, Northern Sierra", Miwokano serrano septentrional, Mokélumne, Moquelumnan, N Sierra Miwok, "Northern Sierra Miwok: Seroushamne", San Raphael, Sawos, Seroushamne, Sierra Miwok, "Southern Sierra Miwok: Southern Sierra Miwok", Talatui, Talutui, Yosemite]
 population: null
@@ -16,5 +14,9 @@ glottolog_family_id: miwo1274
 glottolog_family_name: Miwok-Costanoan
 glottolog_classification: "Miwok-Costanoan > Miwokan > Eastern Miwokan > Sierra Miwokan > Northern Sierra Miwok"
 wikipedia_url: "https://en.wikipedia.org/wiki/Northern_Sierra_Miwok"
+translations:
+  - translation_iso: zho
+    name: 北内华达山米沃克语
+    auto: true
 ---
 Northern Sierra Miwok is a Miwok language spoken in California, in the upper Mokelumne and Calaveras valleys.

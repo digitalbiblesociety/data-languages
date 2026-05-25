@@ -1,8 +1,6 @@
 ---
 iso: aaz
 name: Amarasi
-name_zh: 阿马拉西语
-name_zh_auto: true
 autonym: Bahasa Amarasi
 alt_names: [Timor Amarasi]
 population: 70000
@@ -16,6 +14,10 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Timor-Babar > Rote-Meto > West Rote > Dengka-Meto > Meto > Amarasi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Amarasi_language"
+translations:
+  - translation_iso: zho
+    name: 阿马拉西语
+    auto: true
 rolv_dialects:
   - rolv_code: 6932
     language_tag: aaz-x-HIS06932

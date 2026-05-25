@@ -1,8 +1,6 @@
 ---
 iso: jii
 name: Jiiddu
-name_zh: 吉伊德语
-name_zh_auto: true
 autonym: "Af-Jiiddu"
 alt_names: [Jiddu, Jiiddu hizkuntza, Lenga Jiiddu]
 population: 23000
@@ -16,5 +14,11 @@ glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Cushitic > East Cushitic > Lowland East Cushitic > Southern Lowland East Cushitic > Mainstream Lowland East Cushitic > Omo-Tana > Eastern Omo-Tana > Baiso-Jiiddu > Jiiddu"
 wikipedia_url: "https://en.wikipedia.org/wiki/Jiiddu_language"
+translations:
+  - translation_iso: ara
+    name: لغة جيدو
+  - translation_iso: zho
+    name: 吉伊德语
+    auto: true
 ---
 Jiiddu is a Somali language spoken by the Jiiddu sub-clan of the Dir, a Somali clan inhabiting southern Somalia. It currently has an estimated 34,000 speakers, concentrated in the Lower Shabeelle, Bay and Middle Juba regions.

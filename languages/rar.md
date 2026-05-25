@@ -1,7 +1,6 @@
 ---
 iso: rar
 name: Rarotongan
-name_zh: 庫克群島毛利語
 autonym: " Maori Kuki Airani"
 alt_names: [Cook Island, Cook Islands Maori, Kuki Airani, Maori, "Maori, Cook Islands", Māori, Rarotongan-Mangaian, Rarotongano, Rarotongien, Southern Cook Islands Māori, Te Reo Māori o te Pae Tonga o te Kuki Airani, maori des îles Cook, rarotonga]
 population: 27200
@@ -16,6 +15,17 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Central Pacific linkage > Tokalau Fijian > Polynesian > Nuclear Polynesian > Northern Outlier Polynesian-East Polynesian > Solomons Northern Outlier Polynesian-East Polynesian > Central Northern Outlier Polynesian-East Polynesian > East Polynesian > East Polynesian Proximal > Southern East Polynesian Proximal > Southern Cook Island Maori"
 wikipedia_url: "https://en.wikipedia.org/wiki/Cook_Islands_M%C4%81ori"
+translations:
+  - translation_iso: ara
+    name: الراروتونجاني
+  - translation_iso: hin
+    name: रारोतोंगन
+  - translation_iso: jpn
+    name: ラロトンガ語
+  - translation_iso: kor
+    name: 라로통가어
+  - translation_iso: zho
+    name: 庫克群島毛利語
 rolv_dialects:
   - rolv_code: 15934
     language_tag: rar-x-HIS15934

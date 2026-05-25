@@ -1,8 +1,6 @@
 ---
 iso: mtc
 name: Munit
-name_zh: 穆尼特语
-name_zh_auto: true
 autonym: null
 alt_names: [Mataco, Matako, Wichí]
 population: 910
@@ -16,5 +14,9 @@ glottolog_family_id: nucl1709
 glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Madang > Croisilles > Mabuso > Kokon > Munit"
 wikipedia_url: "https://en.wikipedia.org/wiki/Munit_language"
+translations:
+  - translation_iso: zho
+    name: 穆尼特语
+    auto: true
 ---
 Munit is a Papuan language of Papua New Guinea.

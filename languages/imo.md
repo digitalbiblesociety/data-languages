@@ -1,8 +1,6 @@
 ---
 iso: imo
 name: Imbongu
-name_zh: 伊蒙邦古语
-name_zh_auto: true
 autonym: Kakoli
 alt_names: [Imbo Ungu]
 population: 30000
@@ -15,4 +13,8 @@ glottocode: imbo1238
 glottolog_family_id: nucl1709
 glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Chimbu-Wahgi > Hagen > Aua-Gawil > Imbongu"
+translations:
+  - translation_iso: zho
+    name: 伊蒙邦古语
+    auto: true
 ---

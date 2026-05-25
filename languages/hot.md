@@ -1,8 +1,6 @@
 ---
 iso: hot
 name: Hote
-name_zh: 霍特语
-name_zh_auto: true
 autonym: Malê
 alt_names: ["Ho'tei", Hotec, Malei]
 population: 4500
@@ -16,6 +14,10 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > North New Guinea linkage > Huon Gulf > South Huon Gulf linkage > Misim-Yamap > Hote"
 wikipedia_url: "https://en.wikipedia.org/wiki/Hote_language"
+translations:
+  - translation_iso: zho
+    name: 霍特语
+    auto: true
 rolv_dialects:
   - rolv_code: 10690
     language_tag: hot-x-HIS10690

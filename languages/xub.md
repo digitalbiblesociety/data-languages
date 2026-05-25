@@ -1,8 +1,6 @@
 ---
 iso: xub
 name: Betta Kurumba
-name_zh: 贝塔-库鲁姆巴语
-name_zh_auto: true
 autonym: Beṭṭa Kurumba (பெட்டா குறும்ப)
 alt_names: [Betta, Betta Kurumba Nonstandard Tamil, Kadu Kurumba, Kurumba, "Kurumba, Betta", Urali Kurumba, பெட்டக் குறும்பர் மொழி]
 population: 32000
@@ -16,6 +14,10 @@ glottolog_family_id: drav1251
 glottolog_family_name: Dravidian
 glottolog_classification: "Dravidian > South Dravidian > South Dravidian I > Tamil-Kannada > Badaga-Kannada > Kannadoid > Betta Kurumba"
 wikipedia_url: "https://en.wikipedia.org/wiki/Betta_Kurumba_language"
+translations:
+  - translation_iso: zho
+    name: 贝塔-库鲁姆巴语
+    auto: true
 rolv_dialects:
   - rolv_code: 20053
     language_tag: xub-x-HIS20053

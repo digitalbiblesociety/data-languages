@@ -1,7 +1,6 @@
 ---
 iso: zag
 name: Zaghawa
-name_zh: 札加瓦语
 autonym: Beria (Beriaa)
 alt_names: [Beri, Beri-Aa, Beria, Berri, Język zaghawa, Kebadi, Kuyuk, Merida, Soghaua, Zagaoua, Zagawa, Zauge, Zeggaoua, Zeghawa, Zorhaua, Загава, Загаваски јазик]
 population: 347900
@@ -16,6 +15,13 @@ glottolog_family_id: saha1256
 glottolog_family_name: Saharan
 glottolog_classification: "Saharan > Eastern Saharan > Beria"
 wikipedia_url: "https://en.wikipedia.org/wiki/Zaghawa_language"
+translations:
+  - translation_iso: ara
+    name: الزغاوية
+  - translation_iso: jpn
+    name: ザガワ語
+  - translation_iso: zho
+    name: 札加瓦语
 rolv_dialects:
   - rolv_code: 8124
     language_tag: zag-x-HIS08124

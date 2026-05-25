@@ -1,7 +1,6 @@
 ---
 iso: kmc
 name: Southern Dong
-name_zh: 侗语
 autonym: Gaeml
 alt_names: [Dong, "Dong, Southern", Gam, Kam, Tong, Tung, Tung-Chia]
 population: 1000000
@@ -15,6 +14,13 @@ glottolog_family_id: taik1256
 glottolog_family_name: Tai-Kadai
 glottolog_classification: "Tai-Kadai > Kam-Tai > Kam-Sui > Mulam-Kam > Kamic > Southern Dong"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kam_language"
+translations:
+  - translation_iso: jpn
+    name: トン語
+  - translation_iso: kor
+    name: 동어
+  - translation_iso: zho
+    name: 侗语
 rolv_dialects:
   - rolv_code: 6036
     language_tag: kmc-x-HIS06036

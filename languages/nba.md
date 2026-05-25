@@ -1,8 +1,6 @@
 ---
 iso: nba
 name: Nyemba
-name_zh: 尼延巴语
-name_zh_auto: true
 autonym: Ngangela
 alt_names: [Gangela, Ganguela, Ganguella, Nhemba]
 population: 950540
@@ -16,5 +14,9 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > Central-Western Bantu > Njila > Southern Njila > Chokwe-Lunda > Chokwe-Ngangela-Nyemba (K.20) > Ngangela-Nyemba > Nyemba"
 wikipedia_url: "https://en.wikipedia.org/wiki/Nyemba_language"
+translations:
+  - translation_iso: zho
+    name: 尼延巴语
+    auto: true
 ---
 Luchazi is a Bantu language of Angola and Zambia. Luchazi is the principal language of the Ngangela people. Ngangela is a term coined by the Vimbundu traders and missionaries in 18th century to describe the tribes occupying the area of eastern-central Angola.

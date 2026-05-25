@@ -1,8 +1,6 @@
 ---
 iso: xmb
 name: Mbonga
-name_zh: 姆邦加语
-name_zh_auto: true
 autonym: Mbonga
 alt_names: [Mboa, Mboŋa]
 population: 1490
@@ -16,5 +14,9 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Jarawan > Mbonga"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mboa_language"
+translations:
+  - translation_iso: zho
+    name: 姆邦加语
+    auto: true
 ---
 Mboa, also known as Mbonga, is an apparently extinct language of Cameroon. Ethnologue reports 1,490 speakers cited to 2000, possibly the ethnic population.

@@ -1,8 +1,6 @@
 ---
 iso: nnj
 name: Nyangatom
-name_zh: 尼扬加托姆语
-name_zh_auto: true
 autonym: Dongiro
 alt_names: [Donyiro, Idongiro, Inyangatom, Ngiangatom]
 population: 24300
@@ -16,5 +14,11 @@ glottolog_family_id: nilo1247
 glottolog_family_name: Nilotic
 glottolog_classification: "Nilotic > Eastern Nilotic > Teso-Lotuxo-Maa > Teso-Turkana > Turkanic > Nyangatom"
 wikipedia_url: "https://en.wikipedia.org/wiki/Nyangatom_language"
+translations:
+  - translation_iso: jpn
+    name: ニアンガトム語
+  - translation_iso: zho
+    name: 尼扬加托姆语
+    auto: true
 ---
 Nyangatom is a Nilotic language spoken in Ethiopia by the Nyangatom people. It is an oral language only, having no working orthography at present. Related languages include Toposa and Turkana, both of which have a level of mutual intelligibility; Blench (2012) counts it as a dialect of Turkana.

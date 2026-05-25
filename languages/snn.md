@@ -1,7 +1,6 @@
 ---
 iso: snn
 name: Siona
-name_zh: 西奥纳语
 autonym: Gantëya coca
 alt_names: [Kakawahe, Macaguaje, Pioche, Pioche-Sioni, Piohé, Pioje, Pioje-Sioni, Piojé, Piojé-Sioni, Pioxe, Secoya, Sioni]
 population: 300
@@ -15,5 +14,8 @@ glottolog_family_id: tuca1253
 glottolog_family_name: Tucanoan
 glottolog_classification: "Tucanoan > Western Tucanoan > Napo Tucanoan > Siona-Secoya > Sionan > Siona-Tetete"
 wikipedia_url: "https://en.wikipedia.org/wiki/Siona_language"
+translations:
+  - translation_iso: zho
+    name: 西奥纳语
 ---
 Siona is a Tucanoan language of Colombia and Ecuador. Ecuadorian Siona and Colombian Siona, as well as Secoya, have a high level of mutual intelligibility, but have some lexical, morphological, and phonological differences between them.

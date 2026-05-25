@@ -1,8 +1,6 @@
 ---
 iso: dzl
 name: Dzalakha
-name_zh: 扎拉卡语
-name_zh_auto: true
 autonym: "Dzala 'Mat"
 alt_names: [Dzalamat, Yangtsebikha]
 population: 22000
@@ -16,6 +14,12 @@ glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Bodic > Bodish > Dakpa-Dzala > Dzalakha"
 wikipedia_url: "https://en.wikipedia.org/wiki/Dzala_language"
+translations:
+  - translation_iso: jpn
+    name: ザラ語
+  - translation_iso: zho
+    name: 扎拉卡语
+    auto: true
 rolv_dialects:
   - rolv_code: 9496
     language_tag: dzl-x-HIS09496

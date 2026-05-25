@@ -1,8 +1,6 @@
 ---
 iso: olu
 name: Kuvale
-name_zh: 库瓦莱语
-name_zh_auto: true
 autonym: null
 population: null
 country_id: AO
@@ -15,6 +13,10 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > Central-Western Bantu > Njila > Southern Njila > Kunene > Cimbebasia > Kuvale"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kuvale_language"
+translations:
+  - translation_iso: zho
+    name: 库瓦莱语
+    auto: true
 rolv_dialects:
   - rolv_code: 30502
     language_tag: olu-x-HIS30502

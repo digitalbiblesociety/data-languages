@@ -1,8 +1,6 @@
 ---
 iso: tug
 name: Tunia
-name_zh: 图尼亚语
-name_zh_auto: true
 autonym: Tounia
 alt_names: [Tun, Tunya]
 population: 2260
@@ -16,6 +14,10 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Bua-Kim-Day > Adamawa Bua > Riverine Bua > Tunia"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tunia_language"
+translations:
+  - translation_iso: zho
+    name: 图尼亚语
+    auto: true
 rolv_dialects:
   - rolv_code: 17794
     language_tag: tug-x-HIS17794

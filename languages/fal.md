@@ -1,8 +1,6 @@
 ---
 iso: fal
 name: South Fali
-name_zh: 南法利语
-name_zh_auto: true
 autonym: null
 alt_names: [Fali, "Fali, South"]
 population: 20000
@@ -15,6 +13,10 @@ glottocode: sout2782
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Unclassified Volta-Congo > Adamawa Fali > South Fali"
+translations:
+  - translation_iso: zho
+    name: 南法利语
+    auto: true
 rolv_dialects:
   - rolv_code: 2879
     language_tag: fal-x-HIS02879

@@ -1,8 +1,6 @@
 ---
 iso: nnd
 name: West Ambae
-name_zh: 西安巴埃语
-name_zh_auto: true
 autonym: Duidui
 alt_names: ["Ambae, West", Opa]
 population: 8700
@@ -16,6 +14,10 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > North and Central Vanuatu > Northern Vanuatu > Ambae > West Ambae"
 wikipedia_url: "https://en.wikipedia.org/wiki/West_Ambae_language"
+translations:
+  - translation_iso: zho
+    name: 西安巴埃语
+    auto: true
 rolv_dialects:
   - rolv_code: 4489
     language_tag: nnd-x-HIS04489

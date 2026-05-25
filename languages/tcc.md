@@ -1,8 +1,6 @@
 ---
 iso: tcc
 name: Datooga
-name_zh: 达陶加语
-name_zh_auto: true
 autonym: Datog
 alt_names: ["\"Mangati\"", Datoga, Tatog, Tatoga, Taturu]
 population: 161000
@@ -16,6 +14,12 @@ glottolog_family_id: nilo1247
 glottolog_family_name: Nilotic
 glottolog_classification: "Nilotic > Southern Nilotic > Tatoga-Omotik > Gemein Datooga > North-Central Datooga > Barabayiiga-Gisamjanga"
 wikipedia_url: "https://en.wikipedia.org/wiki/Datooga_language"
+translations:
+  - translation_iso: jpn
+    name: ダトガ語
+  - translation_iso: zho
+    name: 达陶加语
+    auto: true
 rolv_dialects:
   - rolv_code: 1036
     language_tag: tcc-x-HIS01036

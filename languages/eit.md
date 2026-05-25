@@ -1,8 +1,6 @@
 ---
 iso: eit
 name: Eitiep
-name_zh: 埃缇普语
-name_zh_auto: true
 autonym: null
 alt_names: [Endangen, Indiang]
 population: 500
@@ -16,5 +14,9 @@ glottolog_family_id: nucl1708
 glottolog_family_name: Nuclear Torricelli
 glottolog_classification: "Nuclear Torricelli > Kombio-Arapesh-Urat > Kombio-Yambes > Kombioic > Eitiep"
 wikipedia_url: "https://en.wikipedia.org/wiki/Eitiep_language"
+translations:
+  - translation_iso: zho
+    name: 埃缇普语
+    auto: true
 ---
 Etiep is a Torricelli language of Papua New Guinea. There is little data to classify it, and it is therefore left unclassified within Torricelli by Ross (2005).

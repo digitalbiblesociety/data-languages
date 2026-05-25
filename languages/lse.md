@@ -1,8 +1,6 @@
 ---
 iso: lse
 name: Lusengo
-name_zh: 卢森戈语
-name_zh_auto: true
 autonym: Losengo
 population: 42000
 country_id: CD
@@ -15,6 +13,10 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > Central-Western Bantu > North Zaire River > Rivers Bantu > Ngiri > Lusengo"
 wikipedia_url: "https://en.wikipedia.org/wiki/Losengo_language"
+translations:
+  - translation_iso: zho
+    name: 卢森戈语
+    auto: true
 rolv_dialects:
   - rolv_code: 1395
     language_tag: lse-x-HIS01395

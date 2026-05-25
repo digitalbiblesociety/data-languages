@@ -1,7 +1,6 @@
 ---
 iso: txo
 name: Toto
-name_zh: 投投語
 autonym: "𞊒𞊪𞊒𞊪, টোটো"
 alt_names: [Totoish, Tōtō]
 population: 20000
@@ -15,5 +14,12 @@ glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Dhimal-Lhokpu-Toto > Toto"
 wikipedia_url: "https://en.wikipedia.org/wiki/Toto_language"
+translations:
+  - translation_iso: hin
+    name: टोटो भाषा
+  - translation_iso: jpn
+    name: トト語
+  - translation_iso: zho
+    name: 投投語
 ---
 Toto is a Sino-Tibetan language spoken on the border of India and Bhutan by the Toto people. The Toto are an Indigenous community originating from Totopara, West Bengal along the border with Bhutan. It is also spoken in Subhapara, Dhunchipara, and Panchayatpara hillocks in Jalpaiguri district, West Bengal.

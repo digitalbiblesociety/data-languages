@@ -1,7 +1,6 @@
 ---
 iso: mlp
 name: Bargam
-name_zh: 巴爾加姆語
 autonym: Mugil
 alt_names: [Saker]
 population: 4000
@@ -15,6 +14,9 @@ glottolog_family_id: nucl1709
 glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Madang > Croisilles > Bargam"
 wikipedia_url: "https://en.wikipedia.org/wiki/Bargam_language"
+translations:
+  - translation_iso: zho
+    name: 巴爾加姆語
 rolv_dialects:
   - rolv_code: 30383
     language_tag: mlp-x-HIS30383

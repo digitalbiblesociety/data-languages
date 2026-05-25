@@ -1,8 +1,6 @@
 ---
 iso: mwb
 name: Juwal
-name_zh: 朱瓦尔语
-name_zh_auto: true
 autonym: Muniwara
 alt_names: [Mambe, Tumara, Tumaru]
 population: 1440
@@ -16,5 +14,9 @@ glottolog_family_id: nucl1708
 glottolog_family_name: Nuclear Torricelli
 glottolog_classification: "Nuclear Torricelli > Marienberg > Mandi-Muniwara > Juwal"
 wikipedia_url: "https://en.wikipedia.org/wiki/Juwal_language"
+translations:
+  - translation_iso: zho
+    name: 朱瓦尔语
+    auto: true
 ---
 Juwal a.k.a. Muniwara is a Torricelli language of Papua New Guinea. Other names are Mambe and Tumara ~ Tumaru. It is spoken in Mambe and Tumeru villages of Turubu Rural LLG, East Sepik Province.

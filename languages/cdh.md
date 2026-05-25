@@ -1,8 +1,6 @@
 ---
 iso: cdh
 name: Chambeali
-name_zh: 尚贝阿利语
-name_zh_auto: true
 autonym: 𑚏𑚢𑚶𑚠𑚣𑚭𑚥𑚯
 alt_names: [Cameali, Chamaya, Chambiali, Chambiyali, Chameali, Chamiyali Pahari, Chamya]
 population: 126000
@@ -16,6 +14,12 @@ glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Indo-Aryan > Middle-Modern Indo-Aryan > Eastern Dardic > Himachali > Kangric-Chamealic-Bhattiyali > Chamealic > Chambeali"
 wikipedia_url: "https://en.wikipedia.org/wiki/Chambeali"
+translations:
+  - translation_iso: hin
+    name: चम्बयाली
+  - translation_iso: zho
+    name: 尚贝阿利语
+    auto: true
 rolv_dialects:
   - rolv_code: 8701
     language_tag: cdh-x-HIS08701

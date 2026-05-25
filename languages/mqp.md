@@ -1,7 +1,6 @@
 ---
 iso: mqp
 name: Manipa
-name_zh: 马尼帕语
 autonym: Soow Huhelia
 population: 1500
 country_id: ID
@@ -14,5 +13,8 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Nunusaku > Piru Bay > West Piru Bay > Hoamoal > West Hoamoal > Manipa"
 wikipedia_url: "https://en.wikipedia.org/wiki/Manipa_language"
+translations:
+  - translation_iso: zho
+    name: 马尼帕语
 ---
 Manipa is an Austronesian language of eastern Indonesia. It is primarily spoken in the island of Manipa, which is located between Buru island and Seram island in the province of Maluku.

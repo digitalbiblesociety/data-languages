@@ -1,8 +1,6 @@
 ---
 iso: nre
 name: Southern Rengma Naga
-name_zh: 南伦格玛纳加语
-name_zh_auto: true
 autonym: Southern Rengma
 alt_names: [Central Rengma, Injang, Moiyui, Mon, Mozhumi, "Naga, Southern Rengma", "Naga,SouthernRengma", Nzong, Nzonyu, Rengma, Rengma Naga, Rengma Proper, Terüpvunyu, Unza, Western Rengma]
 population: 21000
@@ -16,6 +14,14 @@ glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Kuki-Chin-Naga > Angami-Ao > Angami-Pochuri > Rengma-Simi > Southern Rengma Naga"
 wikipedia_url: "https://en.wikipedia.org/wiki/Rengma_language"
+translations:
+  - translation_iso: hin
+    name: रेंगमा भाषा
+  - translation_iso: jpn
+    name: 南レングマ・ナガ語
+  - translation_iso: zho
+    name: 南伦格玛纳加语
+    auto: true
 rolv_dialects:
   - rolv_code: 14575
     language_tag: nre-x-HIS14575

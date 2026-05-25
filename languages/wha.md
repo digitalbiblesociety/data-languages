@@ -1,8 +1,6 @@
 ---
 iso: wha
 name: Sou Upaa
-name_zh: 索乌-乌帕语
-name_zh_auto: true
 autonym: Wahinama
 alt_names: [Manusela, Wahai]
 population: 7000
@@ -16,6 +14,10 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Nunusaku > Patakai-Manusela > Manusela-Huaulu > Manusela"
 wikipedia_url: "https://en.wikipedia.org/wiki/Manusela_language"
+translations:
+  - translation_iso: zho
+    name: 索乌-乌帕语
+    auto: true
 rolv_dialects:
   - rolv_code: 13663
     language_tag: wha-x-HIS13663

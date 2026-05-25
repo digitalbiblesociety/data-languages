@@ -1,8 +1,6 @@
 ---
 iso: hol
 name: Holu
-name_zh: 霍卢语
-name_zh_auto: true
 autonym: Kiholo
 alt_names: [Holo, Kiholu]
 population: 28200
@@ -16,5 +14,9 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > Central-Western Bantu > Njila > Northern Njila > Mbala-Holu-Sondi (K.10) > Holu (K.10) > Holu"
 wikipedia_url: "https://en.wikipedia.org/wiki/Holu_language"
+translations:
+  - translation_iso: zho
+    name: 霍卢语
+    auto: true
 ---
 Holo is a Bantu language of Angola and the Democratic Republic of Congo. Yeci, Samba or Hungu may be separate languages.

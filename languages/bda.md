@@ -1,8 +1,6 @@
 ---
 iso: bda
 name: Bayot
-name_zh: 巴约特语
-name_zh_auto: true
 autonym: Baiot
 alt_names: [Baiote, Bayote, Bayotte]
 population: 28340
@@ -16,6 +14,12 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > North-Central Atlantic > Central Atlantic > Bak > Joola-Manjaku > Jola > Bayot > Kugere-Kuxinge"
 wikipedia_url: "https://en.wikipedia.org/wiki/Bayot_language"
+translations:
+  - translation_iso: jpn
+    name: バヨット語
+  - translation_iso: zho
+    name: 巴约特语
+    auto: true
 rolv_dialects:
   - rolv_code: 7896
     language_tag: bda-x-HIS07896

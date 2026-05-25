@@ -1,7 +1,6 @@
 ---
 iso: aoz
 name: Uab Meto
-name_zh: 瓦布梅托语
 autonym: Uab Metô
 alt_names: ["\"Dawan\"", "\"Rawan\"", "\"Timor Dawan\"", Atoni, Dawan (pejorative), Meto, Orang Gunung, Rawan, Timol, Timor, Timor Dawan, Timoreesch, Timoreezen, Timorese, Uab Atoni Pah Meto, Uab Pah Meto]
 population: 700000
@@ -16,6 +15,13 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Timor-Babar > Rote-Meto > West Rote > Dengka-Meto > Meto > Central Meto > Uab Meto"
 wikipedia_url: "https://en.wikipedia.org/wiki/Uab_Meto_language"
+translations:
+  - translation_iso: jpn
+    name: ウアブ・メト語
+  - translation_iso: kor
+    name: 우압메토어
+  - translation_iso: zho
+    name: 瓦布梅托语
 rolv_dialects:
   - rolv_code: 4653
     language_tag: aoz-x-HIS04653

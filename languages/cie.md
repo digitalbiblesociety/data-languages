@@ -1,8 +1,6 @@
 ---
 iso: cie
 name: Cineni
-name_zh: 钦尼语
-name_zh_auto: true
 autonym: null
 alt_names: [Cineni jezik, Sinenieg]
 population: 3000
@@ -16,5 +14,9 @@ glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > Biu-Mandara > North Biu-Mandara > Margi-Mandara-Mofu > Mandaraic > Dghwedeic > Gudufic > Cineni"
 wikipedia_url: "https://en.wikipedia.org/wiki/Cineni_language"
+translations:
+  - translation_iso: zho
+    name: 钦尼语
+    auto: true
 ---
 Cineni is an Afro-Asiatic language spoken in Borno State, Nigeria in the single village of Cineni. In a 2006 paper, Roger Blench classified it as a dialect of Guduf-Gava.

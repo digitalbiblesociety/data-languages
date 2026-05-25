@@ -1,8 +1,6 @@
 ---
 iso: sbc
 name: Kele (Papua New Guinea)
-name_zh: 克莱语（巴布亚新几内亚）
-name_zh_auto: true
 autonym: "Gele'"
 alt_names: [Admiralitäts-inseln, Gele, Gele (Ere-Lele-Gele-Kuruti), Kele, Kele (in Papua New Guinea), Kele language]
 population: 600
@@ -16,5 +14,9 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Admiralty Islands > Eastern Admiralty Islands > Manus > East Manus > Kurti-Kele-Ere > Kele (Papua New Guinea)"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kele_language_(New_Guinea)"
+translations:
+  - translation_iso: zho
+    name: 克莱语（巴布亚新几内亚）
+    auto: true
 ---
 Kele or Gele’ is a language spoken in the easterly section of inland Manus Island, New Guinea. Its name comes from the Kele word for "there".

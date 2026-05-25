@@ -1,8 +1,6 @@
 ---
 iso: xer
 name: Xerénte
-name_zh: 塞伦特语
-name_zh_auto: true
 autonym: Sherenté
 alt_names: [Sherente, Xerente, Xerenti]
 population: 2570
@@ -16,5 +14,9 @@ glottolog_family_id: nucl1710
 glottolog_family_name: Nuclear-Macro-Je
 glottolog_classification: "Nuclear-Macro-Je > Je > Cerrado > Central Je > Xerénte"
 wikipedia_url: "https://en.wikipedia.org/wiki/Xer%C3%A9nte_language"
+translations:
+  - translation_iso: zho
+    name: 塞伦特语
+    auto: true
 ---
 The Xerénte or Akwẽ-Xerénte language is an Akuwẽ language of Brazil. It is spoken by the Xerente people in the Tocantins state between Rio do Sono and Rio Tocantins.

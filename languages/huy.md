@@ -1,7 +1,6 @@
 ---
 iso: huy
 name: Hulaulá
-name_zh: 胡老拉語
 autonym: "יהודיותא Hûla'ûlā"
 alt_names: ["'Aramit", Galiglu, Hula Hula, Hulaula, Hulaula (Israël), "Hulaula (République islamique d'Iran)", Hulaulá (Israel), Hulaulá jezik, Jabali, Judeo-Aramaic, Kurdit, Lishana Axni, Lishana Noshan, Nochaneg, ภาษาฮูลัวลา]
 population: 350
@@ -15,6 +14,11 @@ glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Semitic > West Semitic > Central Semitic > Northwest Semitic > Aramaic > Imperial-Middle-Modern Aramaic > Middle-Modern Aramaic > Eastern Aramaic > Central Eastern Aramaic > North-Eastern Neo-Aramaic > Trans-Zab > Hulaulá"
 wikipedia_url: "https://en.wikipedia.org/wiki/Trans-Zab_Jewish_Neo-Aramaic"
+translations:
+  - translation_iso: jpn
+    name: ハラウラ語
+  - translation_iso: zho
+    name: 胡老拉語
 rolv_dialects:
   - rolv_code: 10719
     language_tag: huy-x-HIS10719

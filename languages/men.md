@@ -1,7 +1,6 @@
 ---
 iso: men
 name: Mende (Sierra Leone)
-name_zh: 门德语
 autonym: "Mɛnde yia "
 alt_names: [Boumpe, Hulo, Idioma mende, Kossa, Kosso, Língua mende, Mande, Mende, Mende language, Mende-Bandi, Mendé, Менде]
 population: 2111600
@@ -16,6 +15,17 @@ glottolog_family_id: mand1469
 glottolog_family_name: Mande
 glottolog_classification: "Mande > Western Mande > Manding-Kpelle > Southwest Mande > Mende-Loma > Mende-Bandi > Mende-Loko > Mende (Sierra Leone)"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mende_language"
+translations:
+  - translation_iso: ara
+    name: الميند
+  - translation_iso: hin
+    name: मेंडे भाषा
+  - translation_iso: jpn
+    name: メンデ語
+  - translation_iso: kor
+    name: 멘데어
+  - translation_iso: zho
+    name: 门德语
 rolv_dialects:
   - rolv_code: 13987
     language_tag: men-x-HIS13987

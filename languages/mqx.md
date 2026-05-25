@@ -1,8 +1,6 @@
 ---
 iso: mqx
 name: Mamuju
-name_zh: 玛穆朱语
-name_zh_auto: true
 autonym: Mamoedjoe
 alt_names: [Mamoedjoesch, Mamudju, Nordost-Celebes, Udai]
 population: 62900
@@ -16,6 +14,10 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Greater South Sulawesi > South Sulawesi > Northern South Sulawesi > Mamuju"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mamuju_language"
+translations:
+  - translation_iso: zho
+    name: 玛穆朱语
+    auto: true
 rolv_dialects:
   - rolv_code: 13555
     language_tag: mqx-x-HIS13555

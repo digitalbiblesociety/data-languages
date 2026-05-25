@@ -1,7 +1,6 @@
 ---
 iso: dav
 name: Taita
-name_zh: 台塔语
 autonym: Dabida
 alt_names: [Davida, Dawida, Kidabida, Kitaita, Teita]
 population: 344000
@@ -16,6 +15,17 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > East Bantu > Northeast Savanna Bantu > Kilimanjaro-Taita > Taita-Sagalla > Taita"
 wikipedia_url: "https://en.wikipedia.org/wiki/Taita_language"
+translations:
+  - translation_iso: ara
+    name: تيتا
+  - translation_iso: hin
+    name: तैता
+  - translation_iso: jpn
+    name: タイタ語
+  - translation_iso: kor
+    name: 타이타어
+  - translation_iso: zho
+    name: 台塔语
 rolv_dialects:
   - rolv_code: 17076
     language_tag: dav-x-HIS17076

@@ -1,8 +1,6 @@
 ---
 iso: afu
 name: Awutu
-name_zh: 阿武图语
-name_zh_auto: true
 autonym: Efutu
 alt_names: [Guang]
 population: 129000
@@ -16,6 +14,10 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Kwa Volta-Congo > Nyo > Potou-Tano > Tano > Guang > South Guang > Awutu"
 wikipedia_url: "https://en.wikipedia.org/wiki/Awutu_language"
+translations:
+  - translation_iso: zho
+    name: 阿武图语
+    auto: true
 rolv_dialects:
   - rolv_code: 6098
     language_tag: afu-x-HIS06098

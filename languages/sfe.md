@@ -1,8 +1,6 @@
 ---
 iso: sfe
 name: Eastern Subanen
-name_zh: 东方苏巴嫩语
-name_zh_auto: true
 autonym: Subanon
 alt_names: ["Subanen, Eastern"]
 population: null
@@ -15,4 +13,8 @@ glottocode: east2694
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Greater Central Philippine > Subanen > Nuclear Subanen > East Nuclear Subanen > Eastern Subanen"
+translations:
+  - translation_iso: zho
+    name: 东方苏巴嫩语
+    auto: true
 ---

@@ -1,8 +1,6 @@
 ---
 iso: bnd
 name: Banda Maluku
-name_zh: 班达马鲁库语
-name_zh_auto: true
 autonym: null
 alt_names: [Banda, Banda (Indonesia)]
 population: 3000
@@ -16,6 +14,10 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Greater Seram Laut > Banda-Geser > Banda (Indonesia)"
 wikipedia_url: "https://en.wikipedia.org/wiki/Banda_language_(Maluku)"
+translations:
+  - translation_iso: zho
+    name: 班达马鲁库语
+    auto: true
 rolv_dialects:
   - rolv_code: 7675
     language_tag: bnd-x-HIS07675

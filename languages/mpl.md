@@ -1,8 +1,6 @@
 ---
 iso: mpl
 name: Middle Watut
-name_zh: 中沃特特语
-name_zh_auto: true
 autonym: Maraliinan
 alt_names: [Maralinan, Silisili, Watut, "Watut, Middle"]
 population: 1350
@@ -15,6 +13,10 @@ glottocode: midd1327
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > North New Guinea linkage > Huon Gulf > Markham > Watut > Middle Watut"
+translations:
+  - translation_iso: zho
+    name: 中沃特特语
+    auto: true
 rolv_dialects:
   - rolv_code: 25231
     language_tag: mpl-x-HIS25231

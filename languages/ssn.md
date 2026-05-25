@@ -1,8 +1,6 @@
 ---
 iso: ssn
 name: Waata
-name_zh: 瓦塔语
-name_zh_auto: true
 autonym: Sanye
 alt_names: [Ariangulu, Langulo, Oromo, Oromo (Waata), Sanya, Waat, Waata Oromo, Wasanye]
 population: 17400
@@ -16,5 +14,11 @@ glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Cushitic > East Cushitic > Lowland East Cushitic > Southern Lowland East Cushitic > Mainstream Lowland East Cushitic > Oromoid > Nuclear Oromo > Central-Eastern Oromo > Central-Tana Oromo > Tana River Oromo > Waata"
 wikipedia_url: "https://en.wikipedia.org/wiki/Waata_language"
+translations:
+  - translation_iso: jpn
+    name: ワアタ語
+  - translation_iso: zho
+    name: 瓦塔语
+    auto: true
 ---
 The Waata language is a dialect of Orma or otherwise Southern Oromo spoken by the Waata people of Kenya.

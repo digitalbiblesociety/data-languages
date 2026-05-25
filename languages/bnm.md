@@ -1,8 +1,6 @@
 ---
 iso: bnm
 name: Batanga
-name_zh: 巴唐加语
-name_zh_auto: true
 autonym: Noho
 alt_names: ["Bano'o", Banoho, Banoo, Nohu, Noku]
 population: 15000
@@ -16,6 +14,10 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > Bantu A-B10-B20-B30 > Sawabantu > Bengaic > Batanga"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tanga_language"
+translations:
+  - translation_iso: zho
+    name: 巴唐加语
+    auto: true
 rolv_dialects:
   - rolv_code: 7863
     language_tag: bnm-x-HIS07863

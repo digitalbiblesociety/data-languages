@@ -1,8 +1,6 @@
 ---
 iso: lgu
 name: Longgu
-name_zh: 龙古语
-name_zh_auto: true
 autonym: Logu
 alt_names: [Südliche Salomons-Inseln]
 population: 1890
@@ -16,5 +14,9 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Southeast Solomonic > Longgu-Malaita-Makira > Longgu"
 wikipedia_url: "https://en.wikipedia.org/wiki/Longgu_language"
+translations:
+  - translation_iso: zho
+    name: 龙古语
+    auto: true
 ---
 Longgu (Logu) is a Southeast Solomonic language of Guadalcanal, but originally from Malaita.

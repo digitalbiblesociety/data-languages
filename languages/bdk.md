@@ -1,8 +1,6 @@
 ---
 iso: bdk
 name: Budukh
-name_zh: 布杜克语
-name_zh_auto: true
 autonym: Будад мез budad mez
 alt_names: [Boudoukh, Buduchische Sprache, Budug, Budugh, Budugi, Buduhin kieli, Buduj, Buduk, Buduq dili, Budux, Bukukhi, Język buduchyjski, budad mez, Будуська мова, будад мез, будугский язык, будухский язык]
 population: 1000
@@ -16,6 +14,14 @@ glottolog_family_id: nakh1245
 glottolog_family_name: Nakh-Daghestanian
 glottolog_classification: "Nakh-Daghestanian > Daghestanian > Lezgic > Samur > Southern Samur > Budukh"
 wikipedia_url: "https://en.wikipedia.org/wiki/Budukh_language"
+translations:
+  - translation_iso: jpn
+    name: ブドゥフ語
+  - translation_iso: kor
+    name: 부두흐어
+  - translation_iso: zho
+    name: 布杜克语
+    auto: true
 rolv_dialects:
   - rolv_code: 8413
     language_tag: bdk-x-HIS08413

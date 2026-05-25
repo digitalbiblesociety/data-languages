@@ -1,8 +1,6 @@
 ---
 iso: met
 name: Mato
-name_zh: 玛托语
-name_zh_auto: true
 autonym: Nenaya
 alt_names: [Nengaya, Nineia]
 population: 700
@@ -16,6 +14,10 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > North New Guinea linkage > Ngero-Vitiaz linkage > Vitiaz linkage > Bel-Roinji-Nenaya > Mato"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mato_language"
+translations:
+  - translation_iso: zho
+    name: 玛托语
+    auto: true
 rolv_dialects:
   - rolv_code: 26290
     language_tag: met-x-HIS26290

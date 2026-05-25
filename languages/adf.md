@@ -1,7 +1,6 @@
 ---
 iso: adf
 name: Dhofari Arabic
-name_zh: 佐法爾阿拉伯語
 autonym: Dhofari
 alt_names: [Arabic, "Arabic, Dhofari", "Arabic, Dhofari Spoken", Dhofari arapski, Zofari, Дофариски арапски јазик, ภาษาอาหรับโดฟารี]
 population: 125000
@@ -15,5 +14,12 @@ glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Semitic > West Semitic > Central Semitic > Arabian > Arabic > Arabian Peninsula Arabic > North Arabian Beduin Arabic > Dhofaric > Dhofari Arabic"
 wikipedia_url: "https://en.wikipedia.org/wiki/Dhofari_Arabic"
+translations:
+  - translation_iso: ara
+    name: لهجة ظفارية
+  - translation_iso: jpn
+    name: アラビア語ドファール方言
+  - translation_iso: zho
+    name: 佐法爾阿拉伯語
 ---
 Dhofari Arabic, also known as Dhofari or Zofari, is a variety of Arabic spoken around Salalah in Oman's Dhofar Governorate. It has the ISO 639-3 language code "adf".

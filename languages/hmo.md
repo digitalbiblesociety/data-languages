@@ -1,7 +1,6 @@
 ---
 iso: hmo
 name: Hiri Motu
-name_zh: 希里摩圖語
 autonym: Police Motu
 alt_names: [Bahasa Hiri Motu, Hiri, Hiri motu kalba, Hiri motu nyelv, Hirimotoueg, Hirimotua lingvo, "Motu, Hiri", Pidgin Motu, Хири моту, Хири-моту, ヒリモツ語, 希里摩圖語, 히리 모투]
 population: 120000
@@ -16,6 +15,17 @@ glottolog_family_id: pidg1258
 glottolog_family_name: Pidgin
 glottolog_classification: "Pidgin > Motu-based pidgin > Hiri Motu"
 wikipedia_url: "https://en.wikipedia.org/wiki/Hiri_Motu"
+translations:
+  - translation_iso: ara
+    name: هيري موتو
+  - translation_iso: hin
+    name: हिरी मोतू
+  - translation_iso: jpn
+    name: ヒリモツ語
+  - translation_iso: kor
+    name: 히리 모투어
+  - translation_iso: zho
+    name: 希里摩圖語
 rolv_dialects:
   - rolv_code: 14316
     language_tag: ho-x-HIS14316

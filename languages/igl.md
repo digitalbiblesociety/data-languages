@@ -1,7 +1,6 @@
 ---
 iso: igl
 name: Igala
-name_zh: 伊加拉语
 autonym: Igara
 population: 1540000
 country_id: NG
@@ -14,6 +13,13 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Defoid > Yoruboid > Igala"
 wikipedia_url: "https://en.wikipedia.org/wiki/Igala_language"
+translations:
+  - translation_iso: ara
+    name: إجالا
+  - translation_iso: jpn
+    name: イガラ語
+  - translation_iso: zho
+    name: 伊加拉语
 rolv_dialects:
   - rolv_code: 10804
     language_tag: igl-x-HIS10804

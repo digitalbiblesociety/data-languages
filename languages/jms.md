@@ -1,8 +1,6 @@
 ---
 iso: jms
 name: Mashi (Nigeria)
-name_zh: 玛希语（尼日利亚）
-name_zh_auto: true
 autonym: Munkaf
 alt_names: [Mashi, Nigeria]
 population: 1000
@@ -15,4 +13,8 @@ glottocode: mash1269
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Beboid > Eastern Beboid > Bebe-Kemezung > Naki-Kemezung > Nakic > Mashi (Nigeria)"
+translations:
+  - translation_iso: zho
+    name: 玛希语（尼日利亚）
+    auto: true
 ---

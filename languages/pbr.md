@@ -1,8 +1,6 @@
 ---
 iso: pbr
 name: Pangwa
-name_zh: 潘瓜语
-name_zh_auto: true
 autonym: Ekipangwa
 alt_names: [Kipangwa]
 population: 95100
@@ -16,6 +14,10 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > East Bantu > Northeast Savanna Bantu > Southern Tanzania Highlands Bantu > Kisi-Pangwa > Pangwa"
 wikipedia_url: "https://en.wikipedia.org/wiki/Pangwa_language"
+translations:
+  - translation_iso: zho
+    name: 潘瓜语
+    auto: true
 rolv_dialects:
   - rolv_code: 27965
     language_tag: pbr-x-HIS27965

@@ -1,8 +1,6 @@
 ---
 iso: kga
 name: Koyaga
-name_zh: 科亚加语
-name_zh_auto: true
 autonym: Malinke
 alt_names: [Koya, Koyaa, Koyaga Jula, Koyagakan, Koyaka, Koyara]
 population: 84000
@@ -15,6 +13,10 @@ glottocode: koya1253
 glottolog_family_id: mand1469
 glottolog_family_name: Mande
 glottolog_classification: "Mande > Western Mande > Manding-Kpelle > Central Mande > Manding-Jogo > Manding-Vai > Manding-Mokole > Manding > East Manding > Maninka-Mori > Koro-Koyaga > Koyaga"
+translations:
+  - translation_iso: zho
+    name: 科亚加语
+    auto: true
 rolv_dialects:
   - rolv_code: 11210
     language_tag: kga-x-HIS11210

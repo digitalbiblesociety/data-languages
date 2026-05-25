@@ -1,7 +1,6 @@
 ---
 iso: kap
 name: Bezhta
-name_zh: 贝吉塔语
 autonym: бежкьалас миц
 alt_names: [Bechitin, Bejila, Bejteg, Bexita, Bezheta, Bezhita, Bezhti, Bežtan kieli, Język kapuczyński, Kapuch, Kapucha, Kapuchin, Kupuca, Língua Bezhta, bežƛʼalas mic, Бежта јазик, Бежтинский язык, Бежтинська мова, бежитинский язык, капучинский язык]
 population: 6200
@@ -15,6 +14,13 @@ glottolog_family_id: nakh1245
 glottolog_family_name: Nakh-Daghestanian
 glottolog_classification: "Nakh-Daghestanian > Daghestanian > Avar-Andic-Tsezic > Tsezic > East Tsezic > Bezhta"
 wikipedia_url: "https://en.wikipedia.org/wiki/Bezhta_language"
+translations:
+  - translation_iso: jpn
+    name: ベジタ語
+  - translation_iso: kor
+    name: 베즈타어
+  - translation_iso: zho
+    name: 贝吉塔语
 rolv_dialects:
   - rolv_code: 8026
     language_tag: kap-x-HIS08026

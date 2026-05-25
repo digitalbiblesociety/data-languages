@@ -1,8 +1,6 @@
 ---
 iso: snm
 name: "Southern Ma'di"
-name_zh: 南方马迪语
-name_zh_auto: true
 autonym: null
 alt_names: ["Ma'di, Southern"]
 population: 60000
@@ -15,6 +13,10 @@ glottocode: sout2828
 glottolog_family_id: cent2225
 glottolog_family_name: Central Sudanic
 glottolog_classification: "Central Sudanic > Moru-Madi > Southern Moru-Madi > Southern Ma'di"
+translations:
+  - translation_iso: zho
+    name: 南方马迪语
+    auto: true
 rolv_dialects:
   - rolv_code: 13246
     language_tag: snm-x-HIS13246

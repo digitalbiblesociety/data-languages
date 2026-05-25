@@ -1,7 +1,6 @@
 ---
 iso: gvr
 name: Gurung
-name_zh: 古隆语
 autonym: Tamu Kyi
 alt_names: [Gurnung, Western, Western Gurung]
 population: 359000
@@ -16,6 +15,15 @@ glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Bodic > Kaike-Ghale-Tamangic > Ghale-Tamangic > Tamangic > Gurungic > Gurung"
 wikipedia_url: "https://en.wikipedia.org/wiki/Gurung_language"
+translations:
+  - translation_iso: hin
+    name: गुरुंग भाषा
+  - translation_iso: jpn
+    name: グルン語
+  - translation_iso: kor
+    name: 구룽어
+  - translation_iso: zho
+    name: 古隆语
 rolv_dialects:
   - rolv_code: 2284
     language_tag: gvr-x-HIS02284

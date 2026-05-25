@@ -1,8 +1,6 @@
 ---
 iso: bps
 name: Sarangani Blaan
-name_zh: 萨兰加尼布兰语
-name_zh_auto: true
 autonym: null
 alt_names: [Balud, Bilaan, Blaan, "Blaan, Sarangani", Tumanao]
 population: 90800
@@ -15,4 +13,8 @@ glottocode: sara1326
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Bilic > Tboli-Blaan > Blaan > Sarangani Blaan"
+translations:
+  - translation_iso: zho
+    name: 萨兰加尼布兰语
+    auto: true
 ---

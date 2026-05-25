@@ -1,8 +1,6 @@
 ---
 iso: suy
 name: Suyá
-name_zh: 苏亚语
-name_zh_auto: true
 autonym: Kĩsêdjê
 alt_names: [Kisêdjê, Suiá, Suya]
 population: 330
@@ -16,5 +14,9 @@ glottolog_family_id: nucl1710
 glottolog_family_name: Nuclear-Macro-Je
 glottolog_classification: "Nuclear-Macro-Je > Je > Cerrado > Goyaz > Northern Je > Suyá"
 wikipedia_url: "https://en.wikipedia.org/wiki/K%C4%A9s%C3%AAdj%C3%AA_language"
+translations:
+  - translation_iso: zho
+    name: 苏亚语
+    auto: true
 ---
 Kĩsêdjê is a Northern Jê language spoken in Mato Grosso, Brazil. It is closely related to Tapayúna; together, they form the Tapajós branch of Northern Jê.

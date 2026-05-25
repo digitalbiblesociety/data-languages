@@ -1,7 +1,6 @@
 ---
 iso: hru
 name: Hruso
-name_zh: 鲁苏语
 autonym: " Gusso"
 alt_names: [Aka, Aka-Hruso, Angka, Angka(e), Angkae, Hrus(s)o, Hruso B, Hrusso, Tenae, Ĝusso]
 population: 4000
@@ -12,6 +11,13 @@ latitude: 27.27
 longitude: 92.63
 glottocode: hrus1242
 wikipedia_url: "https://en.wikipedia.org/wiki/Hruso_language"
+translations:
+  - translation_iso: hin
+    name: अका भाषा
+  - translation_iso: jpn
+    name: フルソ語
+  - translation_iso: zho
+    name: 鲁苏语
 rolv_dialects:
   - rolv_code: 10702
     language_tag: hru-x-HIS10702

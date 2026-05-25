@@ -1,8 +1,6 @@
 ---
 iso: szp
 name: Suabo
-name_zh: 苏阿博语
-name_zh_auto: true
 autonym: Iagu
 alt_names: [Bira, Inanwatan, Itigo, Mirabo, Solowat, Suabau]
 population: 1100
@@ -16,6 +14,12 @@ glottolog_family_id: sout3418
 glottolog_family_name: "South Bird's Head"
 glottolog_classification: "South Bird's Head > Inanwatanic > Suabo"
 wikipedia_url: "https://en.wikipedia.org/wiki/Suabo_language"
+translations:
+  - translation_iso: jpn
+    name: イナンワタン語
+  - translation_iso: zho
+    name: 苏阿博语
+    auto: true
 rolv_dialects:
   - rolv_code: 1722
     language_tag: szp-x-HIS01722

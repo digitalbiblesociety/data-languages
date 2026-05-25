@@ -1,8 +1,6 @@
 ---
 iso: dig
 name: Digo
-name_zh: 迪戈语
-name_zh_auto: true
 autonym: Chidigo
 alt_names: [Język digo, Kidigo]
 population: 576000
@@ -16,6 +14,12 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > East Bantu > Northeast Savanna Bantu > Northeast Coastal Bantu > Coastal NEC Bantu > Mijikenda-Pokomo-Comorian > Mijikenda > Southern Mijikenda > Digo"
 wikipedia_url: "https://en.wikipedia.org/wiki/Digo_language"
+translations:
+  - translation_iso: jpn
+    name: ディゴ語
+  - translation_iso: zho
+    name: 迪戈语
+    auto: true
 rolv_dialects:
   - rolv_code: 24790
     language_tag: dig-x-HIS24790

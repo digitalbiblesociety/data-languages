@@ -1,8 +1,6 @@
 ---
 iso: bcd
 name: North Babar
-name_zh: 北巴巴尔语
-name_zh_auto: true
 autonym: null
 alt_names: ["Babar, North"]
 population: 1000
@@ -16,5 +14,9 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Timor-Babar > Southwest Maluku > Babar > North Babaric > North Babar"
 wikipedia_url: "https://en.wikipedia.org/wiki/North_Babar_language"
+translations:
+  - translation_iso: zho
+    name: 北巴巴尔语
+    auto: true
 ---
 North Babar is an Austronesian language spoken on the north coast of Babar Island in South Maluku, Indonesia.

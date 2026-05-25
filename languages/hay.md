@@ -1,8 +1,6 @@
 ---
 iso: hay
 name: Haya
-name_zh: 哈亚语
-name_zh_auto: true
 autonym: Ziba
 alt_names: [Ekihaya, Hayum, Język haya, Kihaya, Língua haya, Ruhaya]
 population: 1940000
@@ -16,6 +14,12 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > East Bantu > Northeast Savanna Bantu > Great Lakes Bantu > West Nyanza > Rutara > South Rutara > Haya"
 wikipedia_url: "https://en.wikipedia.org/wiki/Haya_language"
+translations:
+  - translation_iso: jpn
+    name: ハヤ語
+  - translation_iso: zho
+    name: 哈亚语
+    auto: true
 rolv_dialects:
   - rolv_code: 10599
     language_tag: hay-x-HIS10599

@@ -1,8 +1,6 @@
 ---
 iso: lon
 name: Malawi Lomwe
-name_zh: 马拉维隆韦语
-name_zh_auto: true
 autonym: Anguru
 alt_names: ["Lomwe, Malawi", Nguru]
 population: 3990000
@@ -16,6 +14,12 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > East Bantu > North Mozambique Bantu > Makua-Lomwe > Lomweic > Malawi Lomwe"
 wikipedia_url: "https://en.wikipedia.org/wiki/Malawi_Lomwe_language"
+translations:
+  - translation_iso: jpn
+    name: マラウイ・ロムウェ語
+  - translation_iso: zho
+    name: 马拉维隆韦语
+    auto: true
 rolv_dialects:
   - rolv_code: 27164
     language_tag: lon-x-HIS27164

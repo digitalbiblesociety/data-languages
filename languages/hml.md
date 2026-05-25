@@ -1,7 +1,6 @@
 ---
 iso: hml
 name: Luopohe Hmong
-name_zh: 苗语罗泊河次方言
 autonym: "A-Hmyo"
 alt_names: ["Hmong, Luopohe", Luobohe Miao, Luopohe Miao, "Miao, Luopohe", Xijia Miao, Ximahe Miao]
 population: 61000
@@ -15,6 +14,11 @@ glottolog_family_id: hmon1336
 glottolog_family_name: Hmong-Mien
 glottolog_classification: "Hmong-Mien > Hmongic > Nuclear Hmongic-Ho Ne > Nuclear Hmongic > West Hmongic > Greater Chuanqiandian > Luopohe Hmong"
 wikipedia_url: "https://en.wikipedia.org/wiki/Luobohe_Miao_language"
+translations:
+  - translation_iso: jpn
+    name: 羅泊河フモン語
+  - translation_iso: zho
+    name: 苗语罗泊河次方言
 rolv_dialects:
   - rolv_code: 6246
     language_tag: hml-x-HIS06246

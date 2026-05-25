@@ -1,7 +1,6 @@
 ---
 iso: xkv
 name: Kgalagadi
-name_zh: 卡拉哈迪語
 autonym: Kalahari
 alt_names: [Kgalagari, Khalagari, Khalakadi, Kxalaxari, Kxhalaxadi, Kxhxlaxadi, Qalaqarzi, Qhalaxadi, Qhalaxarzi, Sekgalagadi, Shekgalagadi]
 population: 65400
@@ -15,6 +14,9 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > East Bantu > Southern Bantu > Nuclear Southern Bantu > Dimsuffix Southern Bantu > Sotho-Tswana (S.30) > Western Sotho-Tswana > Kgalagadi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kgalagadi_language"
+translations:
+  - translation_iso: zho
+    name: 卡拉哈迪語
 rolv_dialects:
   - rolv_code: 11898
     language_tag: xkv-x-HIS11898

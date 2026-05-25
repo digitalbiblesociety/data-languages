@@ -1,8 +1,6 @@
 ---
 iso: siq
 name: Sonia
-name_zh: 索尼亚语
-name_zh_auto: true
 autonym: null
 population: 300
 country_id: PG
@@ -15,5 +13,9 @@ glottolog_family_id: bosa1245
 glottolog_family_name: Bosavi
 glottolog_classification: "Bosavi > Bosavi Watershed > Kaluli-Sunia > Sonia"
 wikipedia_url: "https://en.wikipedia.org/wiki/Sonia_language"
+translations:
+  - translation_iso: zho
+    name: 索尼亚语
+    auto: true
 ---
 Sonia is a Papuan language of Papua New Guinea.

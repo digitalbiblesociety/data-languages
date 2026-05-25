@@ -1,8 +1,6 @@
 ---
 iso: kps
 name: Tehit
-name_zh: 特希特语
-name_zh_auto: true
 autonym: Kaibus
 alt_names: [Tahit, Tehid, Teminabuan]
 population: 10000
@@ -16,6 +14,10 @@ glottolog_family_id: west1493
 glottolog_family_name: "West Bird's Head"
 glottolog_classification: "West Bird's Head > South West Bird's Head > Tehit"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tehit_language"
+translations:
+  - translation_iso: zho
+    name: 特希特语
+    auto: true
 rolv_dialects:
   - rolv_code: 5158
     language_tag: kps-x-HIS05158

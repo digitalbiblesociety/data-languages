@@ -1,8 +1,6 @@
 ---
 iso: aab
 name: "Alumu-Tesu"
-name_zh: 阿卢木-特苏语
-name_zh_auto: true
 autonym: Təsu
 alt_names: [Alumu, Arum-Cesu, Arum-Chessu, Arum-Tesu]
 population: 1000
@@ -16,6 +14,12 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Benue-Congo Plateau > Alumic > Alumu-Akpondu > Arum"
 wikipedia_url: "https://en.wikipedia.org/wiki/Alumu_language"
+translations:
+  - translation_iso: kor
+    name: 알루무테수어
+  - translation_iso: zho
+    name: 阿卢木-特苏语
+    auto: true
 rolv_dialects:
   - rolv_code: 7262
     language_tag: aab-x-HIS07262

@@ -1,7 +1,6 @@
 ---
 iso: mky
 name: East Makian
-name_zh: 塔巴语
 autonym: Makian Dalam
 alt_names: [E Makian, E. Makian, Makian (East), Makian Timur, "Makian, East", Taba, Taba language, Waikyon dialect]
 population: 18000
@@ -15,5 +14,10 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > South Halmahera-West New Guinea > Raja Ampat-South Halmahera > South Halmahera > East Makian-Gane > East Makian"
 wikipedia_url: "https://en.wikipedia.org/wiki/Taba_language"
+translations:
+  - translation_iso: jpn
+    name: 東マキアン語
+  - translation_iso: zho
+    name: 塔巴语
 ---
 Taba is a Malayo-Polynesian language of the South Halmahera–West New Guinea group. It is spoken mostly on the islands of Makian, Kayoa and southern Halmahera in North Maluku province of Indonesia by about 20,000 people.

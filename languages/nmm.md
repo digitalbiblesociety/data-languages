@@ -1,8 +1,6 @@
 ---
 iso: nmm
 name: Manangba
-name_zh: 玛南巴语
-name_zh_auto: true
 autonym: Nyishang
 alt_names: [Gurung, Manang, Manangbhot, Manangbolt, Manange, Manangi, Ngyeshang, Northern Gurung, Nyeshang, Nyeshangba]
 population: 3740
@@ -16,6 +14,12 @@ glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Bodic > Kaike-Ghale-Tamangic > Ghale-Tamangic > Tamangic > Gurungic > Manangba-Nar-Phu > Manange"
 wikipedia_url: "https://en.wikipedia.org/wiki/Manang_language"
+translations:
+  - translation_iso: jpn
+    name: マナン語
+  - translation_iso: zho
+    name: 玛南巴语
+    auto: true
 rolv_dialects:
   - rolv_code: 26414
     language_tag: nmm-x-HIS26414

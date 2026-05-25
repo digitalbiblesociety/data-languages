@@ -1,8 +1,6 @@
 ---
 iso: bbb
 name: Barai
-name_zh: 巴拉伊语
-name_zh_auto: true
 autonym: null
 population: 3500
 country_id: PG
@@ -15,6 +13,10 @@ glottolog_family_id: koia1260
 glottolog_family_name: Koiarian
 glottolog_classification: "Koiarian > Baraic > Barai-Namiae > Barai"
 wikipedia_url: "https://en.wikipedia.org/wiki/Barai_language"
+translations:
+  - translation_iso: zho
+    name: 巴拉伊语
+    auto: true
 rolv_dialects:
   - rolv_code: 7757
     language_tag: bbb-x-HIS07757

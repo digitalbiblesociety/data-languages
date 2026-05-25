@@ -1,7 +1,6 @@
 ---
 iso: tlb
 name: Tobelo
-name_zh: 托貝洛語
 autonym: bahasa Tobelo
 alt_names: [Indonesia, ภาษาโตเบโล, 토벨로어]
 population: 27700
@@ -15,6 +14,13 @@ glottolog_family_id: nort2923
 glottolog_family_name: North Halmahera
 glottolog_classification: "North Halmahera > Northern North Halmahera > Mainland North Halmaheran > Tobelo-Tugutil > Tobelo"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tobelo_language"
+translations:
+  - translation_iso: jpn
+    name: トベロ語
+  - translation_iso: kor
+    name: 토벨로어
+  - translation_iso: zho
+    name: 托貝洛語
 rolv_dialects:
   - rolv_code: 17538
     language_tag: tlb-x-HIS17538

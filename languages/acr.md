@@ -1,8 +1,6 @@
 ---
 iso: acr
 name: Achi
-name_zh: 阿奇语
-name_zh_auto: true
 autonym: Achiʼ
 alt_names: ["Achi'", "Achi', Rabinal", Achí, Idioma achí, Língua achi, "Rabinal K'iche'", Ачиски јазик]
 population: 124000
@@ -16,6 +14,14 @@ glottolog_family_id: maya1287
 glottolog_family_name: Mayan
 glottolog_classification: "Mayan > Core Mayan > Quichean-Mamean > Greater Quichean > Core Quichean > Quiche-Achi > Achi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Achi_language"
+translations:
+  - translation_iso: jpn
+    name: アチ語
+  - translation_iso: kor
+    name: 아치어
+  - translation_iso: zho
+    name: 阿奇语
+    auto: true
 rolv_dialects:
   - rolv_code: 448
     language_tag: acr-x-HIS00448

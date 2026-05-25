@@ -1,8 +1,6 @@
 ---
 iso: hut
 name: Humla
-name_zh: 胡姆拉语
-name_zh_auto: true
 autonym: "Ü-Tsang"
 alt_names: [Dangali, "Humla \"Bhotia\"", Phoke]
 population: 4000
@@ -16,6 +14,10 @@ glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Bodic > Bodish > Early Old Tibetan > Middle Old Tibetan > Late Old Tibetan > Central Tibetan > South-Western Tibetic > Humla"
 wikipedia_url: "https://en.wikipedia.org/wiki/Humla_Tibetan_language"
+translations:
+  - translation_iso: zho
+    name: 胡姆拉语
+    auto: true
 rolv_dialects:
   - rolv_code: 23910
     language_tag: hut-x-HIS23910

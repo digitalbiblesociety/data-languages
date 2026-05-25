@@ -1,8 +1,6 @@
 ---
 iso: tuz
 name: Turka
-name_zh: 图尔卡语
-name_zh_auto: true
 autonym: Tyurama
 alt_names: [Curama, Tourka, Turuka]
 population: 37000
@@ -16,6 +14,10 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Gur > Central Gur > Southern Central Gur > Kirma-Tyurama > Turka"
 wikipedia_url: "https://en.wikipedia.org/wiki/Turka_language"
+translations:
+  - translation_iso: zho
+    name: 图尔卡语
+    auto: true
 rolv_dialects:
   - rolv_code: 17812
     language_tag: tuz-x-HIS17812

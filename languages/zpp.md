@@ -1,8 +1,6 @@
 ---
 iso: zpp
 name: El Alto Zapotec
-name_zh: 埃尔阿尔托萨波特克语
-name_zh_auto: true
 autonym: (San Pedro el Alto)
 alt_names: [Central Sapoteko, Coyachilla, Coyachilla dialect continuum, South Central Zimatlan Zapotec, Southern Sapoteko, Western Zapotec (non-preferred), Zapotec, "Zapotec, El Alto", Zapoteco de Asunción Tlacolulita, Zapoteco de San Pedro el Alto, "Zapotèque d'Asunción Tlacolulita", Zimatlán, Zimatlán Zapotec]
 population: 900
@@ -16,5 +14,9 @@ glottolog_family_id: otom1299
 glottolog_family_name: Otomanguean
 glottolog_classification: "Otomanguean > Eastern Otomanguean > Popoloca-Zapotecan > Zapotecan > Zapotec > West Zapotec > West-Central West Zapotec > El Alto Zapotec"
 wikipedia_url: "https://en.wikipedia.org/wiki/El_Alto_Zapotec"
+translations:
+  - translation_iso: zho
+    name: 埃尔阿尔托萨波特克语
+    auto: true
 ---
 El Alto Zapotec, also known as South Central Zimatlan Zapotec, is a Zapotec language of Oaxaca, Mexico, spoken in the towns of San Pedro el Alto, San Antonino el Alto, and San Andrés el Alto.

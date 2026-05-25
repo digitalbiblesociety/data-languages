@@ -1,7 +1,6 @@
 ---
 iso: kaa
 name: "Kara-Kalpak"
-name_zh: 卡拉卡尔帕克语
 autonym: " قاراقالپاق تىلى"
 alt_names: [Bahasa Karakalpak, Idioma karakalpako, Język karakałpacki, Karakalpak, Karakalpak language, Karakalpakeg, Karakalpakesch, Karakalpakin kieli, Karakalpakische Sprache, Karakalpakische Språch, Karakalpakiska, Karakalpaks, Karakalpakça, Karakalpakų kalba, Karakalpačtina, Karaklobuk, Klobouki, Lingua karakalpaka, Qarapulpaqs, Qaraq-Qarapalpaq, Qaraqalpaq tili, Sprache der Kalakalpaken, Tchorny, Каракалпак чĕлхи, Каракалпакский язык, Каракалпачки јазик, Қарақалпақ тілі, Ҡараҡалпаҡ теле, زبان قره‌قالپاقی, قارا قالپاق تىلى, ภาษาการากัลปัก, カラカルパク語]
 population: 748070
@@ -16,6 +15,17 @@ glottolog_family_id: turk1311
 glottolog_family_name: Turkic
 glottolog_classification: "Turkic > Common Turkic > Kipchak-Turkestan > Kipchak > Southeast Kipchak > South Kipchak > Kara-Kalpak"
 wikipedia_url: "https://en.wikipedia.org/wiki/Karakalpak_language"
+translations:
+  - translation_iso: ara
+    name: القرقلباغية
+  - translation_iso: hin
+    name: कारा-कल्पक
+  - translation_iso: jpn
+    name: カラカルパク語
+  - translation_iso: kor
+    name: 카라칼파크어
+  - translation_iso: zho
+    name: 卡拉卡尔帕克语
 rolv_dialects:
   - rolv_code: 11586
     language_tag: kaa-x-HIS11586

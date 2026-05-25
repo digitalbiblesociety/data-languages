@@ -1,8 +1,6 @@
 ---
 iso: tgn
 name: Tandaganon
-name_zh: 坦达甘农语
-name_zh_auto: true
 autonym: Tandaganon
 population: null
 country_id: PH
@@ -14,6 +12,10 @@ glottocode: tand1258
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Greater Central Philippine > Central Philippine > Bisayan > South Bisayan > Surigao > Tandaganon"
+translations:
+  - translation_iso: zho
+    name: 坦达甘农语
+    auto: true
 rolv_dialects:
   - rolv_code: 27870
     language_tag: tgn-x-HIS27870

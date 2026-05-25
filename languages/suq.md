@@ -1,8 +1,6 @@
 ---
 iso: suq
 name: Suri
-name_zh: 苏里语
-name_zh_auto: true
 autonym: Surma
 alt_names: [Chai, Churi, Cirma, Dhuri, Dirma, Eastern Suri, Shuri, Shuro, "Suri, Tirmaga-Chai", Terema, Terna, Tid, Tirima, Tirma, Tirmaga, Tirmaga-Chai Suri, Tirmagi]
 population: 18640
@@ -16,6 +14,10 @@ glottolog_family_id: surm1244
 glottolog_family_name: Surmic
 glottolog_classification: "Surmic > South Surmic > Southeast Surmic > Pastoral Surmic > Tirma-Chai-Mursi > Tirma-Chai"
 wikipedia_url: "https://en.wikipedia.org/wiki/Suri_language"
+translations:
+  - translation_iso: zho
+    name: 苏里语
+    auto: true
 rolv_dialects:
   - rolv_code: 16955
     language_tag: suq-x-HIS16955

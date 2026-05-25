@@ -1,8 +1,6 @@
 ---
 iso: rim
 name: Nyaturu
-name_zh: 尼亚图鲁语
-name_zh_auto: true
 autonym: Nyaturu
 alt_names: [Keremi, Kinyaturu, Kiremi, Kirimi, Limi, Remi, Rimi, Turu]
 population: 892000
@@ -16,6 +14,10 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > East Bantu > Nyaturu-Nilamba > Nyaturu"
 wikipedia_url: "https://en.wikipedia.org/wiki/Turu_language"
+translations:
+  - translation_iso: zho
+    name: 尼亚图鲁语
+    auto: true
 rolv_dialects:
   - rolv_code: 15180
     language_tag: rim-x-HIS15180

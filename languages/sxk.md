@@ -1,8 +1,6 @@
 ---
 iso: sxk
 name: Southern Kalapuya
-name_zh: 南卡拉普亚语
-name_zh_auto: true
 autonym: Southern Kalapuya
 alt_names: ["Kalapuya, Southern"]
 population: null
@@ -16,5 +14,11 @@ glottolog_family_id: kala1402
 glottolog_family_name: Kalapuyan
 glottolog_classification: "Kalapuyan > Yoncalla"
 wikipedia_url: "https://en.wikipedia.org/wiki/Yoncalla_language"
+translations:
+  - translation_iso: jpn
+    name: ヨンカラ語
+  - translation_iso: zho
+    name: 南卡拉普亚语
+    auto: true
 ---
 Yoncalla is an extinct Kalapuyan language once spoken in southwest Oregon in the United States. In the 19th century it was spoken by the Yoncalla band of the Kalapuya people in the Umpqua River valley. It is closely related to Central Kalapuya and Northern Kalapuya, spoken in the Willamette Valley to the north.

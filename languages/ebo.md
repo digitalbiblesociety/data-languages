@@ -1,7 +1,6 @@
 ---
 iso: ebo
 name: "Teke-Ebo"
-name_zh: 中部特克語
 autonym: Eboo
 alt_names: [Bamboma, Boma, Boo, Boõ, Central Teke, Eboo Teke, Eboom, Iboo, Teke-Boma, Teke-Eboo]
 population: 20400
@@ -15,6 +14,11 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > Central-Western Bantu > West-Coastal Bantu > Nzadic > Lweric > Dingic > Loange-Atlantic > Kwilu-Ngounie > Kasai-Ngounie > Moyen Kasai-Ngounie > Ngungwel-Eboo > Teke-Eboo-Nzikou"
 wikipedia_url: "https://en.wikipedia.org/wiki/Central_Teke_language"
+translations:
+  - translation_iso: jpn
+    name: 中央テケ語
+  - translation_iso: zho
+    name: 中部特克語
 rolv_dialects:
   - rolv_code: 1554
     language_tag: ebo-x-HIS01554

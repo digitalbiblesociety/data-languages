@@ -1,8 +1,6 @@
 ---
 iso: irn
 name: Irántxe
-name_zh: 伊兰特克语
-name_zh_auto: true
 autonym: "Irántxe-Münkü"
 alt_names: [Iranche, Iranshe, Irantxe, Irantxe language, Irantxe-mynky, Iranxe, Irntxe, Lenga irantxe, Manoki, Menki, Myky, Mynky, Münkü]
 population: 190
@@ -13,6 +11,12 @@ latitude: -12.71782
 longitude: -57.98063
 glottocode: iran1263
 wikipedia_url: "https://en.wikipedia.org/wiki/Irantxe_language"
+translations:
+  - translation_iso: jpn
+    name: イランシェ語
+  - translation_iso: zho
+    name: 伊兰特克语
+    auto: true
 rolv_dialects:
   - rolv_code: 10934
     language_tag: irn-x-HIS10934

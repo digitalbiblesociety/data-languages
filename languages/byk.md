@@ -1,7 +1,6 @@
 ---
 iso: byk
 name: Biao
-name_zh: 标话
 autonym: Gang Bau
 population: 10000
 country_id: CN
@@ -14,5 +13,10 @@ glottolog_family_id: taik1256
 glottolog_family_name: Tai-Kadai
 glottolog_classification: "Tai-Kadai > Kam-Tai > Lakkia-Biao > Biaoic > Shidong Biao"
 wikipedia_url: "https://en.wikipedia.org/wiki/Biao_language"
+translations:
+  - translation_iso: jpn
+    name: 標語
+  - translation_iso: zho
+    name: 标话
 ---
 The Biao language is a Kra–Dai language spoken in southwestern Huaiji County and Fengkai County, Zhaoqing, Guangdong. Autonyms are and.

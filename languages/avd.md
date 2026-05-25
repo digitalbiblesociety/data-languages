@@ -1,7 +1,6 @@
 ---
 iso: avd
 name: "Alviri-Vidari"
-name_zh: 阿爾維里-維達里語
 autonym: "الویری-ویدری"
 alt_names: [Tati, Tatí]
 population: null
@@ -15,6 +14,9 @@ glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Iranian-Nuristani > Iranian > Central Iranian PBS > Central Iranian PB > Northwestern Iranian > Adharic > Tatic > Southern Tatic > Alviri-Vidari"
 wikipedia_url: "https://en.wikipedia.org/wiki/Alviri-Vidari_dialect"
+translations:
+  - translation_iso: zho
+    name: 阿爾維里-維達里語
 rolv_dialects:
   - rolv_code: 6913
     language_tag: avd-x-HIS06913

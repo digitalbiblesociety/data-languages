@@ -1,7 +1,6 @@
 ---
 iso: lij
 name: Ligurian
-name_zh: 利古里亚语
 autonym: " zeneize"
 alt_names: [Dialett intemeli, Dialetto intemelio, Dialetto ventimiglioso, Genovese, Intemelio, Intémélien, Italian, Italian (Genoa), Ligur, Ligure, Ligurien, Lìgure, Zenéize]
 population: 148210
@@ -16,6 +15,17 @@ glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Italic > Latino-Faliscan > Latinic > Imperial Latin > Romance > Italo-Western Romance > Western Romance > Shifted Western Romance > Northwestern Shifted Romance > Gallo-Italian > Ligurian"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ligurian_language"
+translations:
+  - translation_iso: ara
+    name: الليغورية
+  - translation_iso: hin
+    name: लिगुरियन
+  - translation_iso: jpn
+    name: リグリア語
+  - translation_iso: kor
+    name: 리구리아어
+  - translation_iso: zho
+    name: 利古里亚语
 rolv_dialects:
   - rolv_code: 12945
     language_tag: lij-x-HIS12945

@@ -1,8 +1,6 @@
 ---
 iso: txt
 name: Citak
-name_zh: 齐塔克语
-name_zh_auto: true
 autonym: Asmat Darat
 alt_names: [Asmat, Cicak, Citak Asmat, Kaunak, Tjitak, Tjitjak]
 population: 8000
@@ -16,6 +14,10 @@ glottolog_family_id: nucl1709
 glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Asmat-Awyu-Ok > Asmat-Kamrau Bay > Asmat-Kamoro > Asmat > Citak Asmat > Citak"
 wikipedia_url: "https://en.wikipedia.org/wiki/Citak_language"
+translations:
+  - translation_iso: zho
+    name: 齐塔克语
+    auto: true
 rolv_dialects:
   - rolv_code: 8982
     language_tag: txt-x-HIS08982

@@ -1,8 +1,6 @@
 ---
 iso: zuh
 name: Tokano
-name_zh: 托卡诺语
-name_zh_auto: true
 autonym: Gamuso
 alt_names: [Tokama, Yufiyufa, Zaka, Zuhozuho, Zuhuzuho]
 population: 6000
@@ -16,6 +14,10 @@ glottolog_family_id: nucl1709
 glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Kainantu-Goroka > Goroka > Nuclear Goroka > Gahuku > Tokano"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tokano_language"
+translations:
+  - translation_iso: zho
+    name: 托卡诺语
+    auto: true
 rolv_dialects:
   - rolv_code: 17547
     language_tag: zuh-x-HIS17547

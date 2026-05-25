@@ -1,8 +1,6 @@
 ---
 iso: mdc
 name: Male (Papua New Guinea)
-name_zh: 马莱语
-name_zh_auto: true
 autonym: Koliku
 alt_names: [Kolika, Male, Soq]
 population: 970
@@ -16,6 +14,10 @@ glottolog_family_id: nucl1709
 glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Madang > Rai Coast > Mindjim > Lower Minjim > Inland Minjim > Male (Papua New Guinea)"
 wikipedia_url: "https://en.wikipedia.org/wiki/Soq_language"
+translations:
+  - translation_iso: zho
+    name: 马莱语
+    auto: true
 rolv_dialects:
   - rolv_code: 27638
     language_tag: mdc-x-HIS27638

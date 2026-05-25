@@ -1,8 +1,6 @@
 ---
 iso: xoi
 name: Kominimung
-name_zh: 科米尼蒙语
-name_zh_auto: true
 autonym: null
 population: 320
 country_id: PG
@@ -15,5 +13,9 @@ glottolog_family_id: ramu1234
 glottolog_family_name: Ramu
 glottolog_classification: "Ramu > Goam > Tamolan > Unclassified Tamolan > Kominimung"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kominimung_language"
+translations:
+  - translation_iso: zho
+    name: 科米尼蒙语
+    auto: true
 ---
 Kominimung is a poorly known Ramu language of Papua New Guinea.

@@ -1,7 +1,6 @@
 ---
 iso: kun
 name: Kunama
-name_zh: 库纳马语
 autonym: Baada
 alt_names: [Baaden, Baaza, Baazayn, Baazen, Bada, Baden, Baza, Bazen, Cunama, Diila, Język kunama, Kunama jezik, Lingua kunama, Кунама тили, Кунама јазик]
 population: 244430
@@ -12,6 +11,11 @@ latitude: 14.58789
 longitude: 37.529195
 glottocode: kuna1268
 wikipedia_url: "https://en.wikipedia.org/wiki/Kunama_language"
+translations:
+  - translation_iso: jpn
+    name: クナマ語
+  - translation_iso: zho
+    name: 库纳马语
 rolv_dialects:
   - rolv_code: 12488
     language_tag: kun-x-HIS12488

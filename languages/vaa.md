@@ -1,8 +1,6 @@
 ---
 iso: vaa
 name: Vaagri Booli
-name_zh: 瓦格里-布利语
-name_zh_auto: true
 autonym: Hakkipikki
 alt_names: [Guvvalollu, Haki Piki, Hakkipikkaru, Karikkorava, Kuruvikkaran, Marattiyan, Narakureavar, Narikkorava, Rattiyan, Shikarijanam, Wogri Boli]
 population: 12000
@@ -16,6 +14,10 @@ glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Indo-Aryan > Middle-Modern Indo-Aryan > Continental Indo-Aryan > Midlands Indo-Aryan > Bhil > Vaagri Booli"
 wikipedia_url: "https://en.wikipedia.org/wiki/Vaagri_Booli_language"
+translations:
+  - translation_iso: zho
+    name: 瓦格里-布利语
+    auto: true
 rolv_dialects:
   - rolv_code: 4185
     language_tag: vaa-x-HIS04185

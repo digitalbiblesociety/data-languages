@@ -1,8 +1,6 @@
 ---
 iso: xmv
 name: Antankarana Malagasy
-name_zh: 安坦卡拉马尔加什语
-name_zh_auto: true
 autonym: malagasy
 alt_names: ["Malagasy, Antankarana", "Malagasy, Tankarana", Tankarana, Tankarana Malagasy]
 population: 156000
@@ -16,5 +14,11 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Basap-Greater Barito > Greater Barito linkage > Southeast Barito > Malagasic > North-Central Malagasic > Northern Malagasic > Antankarana Malagasy"
 wikipedia_url: "https://en.wikipedia.org/wiki/Antakarana_dialect"
+translations:
+  - translation_iso: jpn
+    name: アンタンカラナ・マダガスカル語
+  - translation_iso: zho
+    name: 安坦卡拉马尔加什语
+    auto: true
 ---
 Antakarana is a northern dialect of Malagasy spoken by Antakarana people in the province of Antsiranana.

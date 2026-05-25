@@ -1,8 +1,6 @@
 ---
 iso: dmg
 name: Upper Kinabatangan
-name_zh: 上基那巴坦甘语
-name_zh_auto: true
 autonym: Lobu
 alt_names: ["Kinabatangan, Upper"]
 population: 5000
@@ -15,6 +13,10 @@ glottocode: uppe1427
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > North Borneo Malayo-Polynesian > Sabahan > Southwest Sabahan > Greater Dusunic > Paitanic > Upper Kinabatangan-Lobu > Upper Kinabatangan"
+translations:
+  - translation_iso: zho
+    name: 上基那巴坦甘语
+    auto: true
 rolv_dialects:
   - rolv_code: 4285
     language_tag: dmg-x-HIS04285

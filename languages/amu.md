@@ -1,8 +1,6 @@
 ---
 iso: amu
 name: Guerrero Amuzgo
-name_zh: 格雷罗阿木戈语
-name_zh_auto: true
 autonym: Ñomndaa
 alt_names: [Amusgo, Amuzgo, "Amuzgo, Guerrero", Azmugo, Guerrero, Nomndaa]
 population: 45900
@@ -16,6 +14,10 @@ glottolog_family_id: otom1299
 glottolog_family_name: Otomanguean
 glottolog_classification: "Otomanguean > Eastern Otomanguean > Amuzgo-Mixtecan > Amuzgoan > Guerrero Amuzgo"
 wikipedia_url: "https://en.wikipedia.org/wiki/Guerrero_Amuzgo_language"
+translations:
+  - translation_iso: zho
+    name: 格雷罗阿木戈语
+    auto: true
 rolv_dialects:
   - rolv_code: 24266
     language_tag: amu-x-HIS24266

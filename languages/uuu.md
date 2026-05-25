@@ -1,7 +1,6 @@
 ---
 iso: uuu
 name: U
-name_zh: 乌语
 autonym: Pouma
 alt_names: [Angku, "P'uman", Puman, Āng-kú, 烏語]
 population: 30000
@@ -15,6 +14,9 @@ glottolog_family_id: aust1305
 glottolog_family_name: Austroasiatic
 glottolog_classification: "Austroasiatic > Khasi-Palaung > Palaungic > East Palaungic > Angkuic > U"
 wikipedia_url: "https://en.wikipedia.org/wiki/U_language"
+translations:
+  - translation_iso: zho
+    name: 乌语
 rolv_dialects:
   - rolv_code: 6061
     language_tag: uuu-x-HIS06061

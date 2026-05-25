@@ -1,8 +1,6 @@
 ---
 iso: pup
 name: Pulabu
-name_zh: 普拉布语
-name_zh_auto: true
 autonym: null
 population: 120
 country_id: PG
@@ -15,5 +13,9 @@ glottolog_family_id: nucl1709
 glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Madang > Rai Coast > Kabenau > Pulabu"
 wikipedia_url: "https://en.wikipedia.org/wiki/Pulabu_language"
+translations:
+  - translation_iso: zho
+    name: 普拉布语
+    auto: true
 ---
 Pulabu is a Rai Coast language spoken in Madang Province, Papua New Guinea.

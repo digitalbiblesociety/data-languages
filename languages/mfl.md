@@ -1,8 +1,6 @@
 ---
 iso: mfl
 name: Putai
-name_zh: 普泰语
-name_zh_auto: true
 autonym: Marghi West
 alt_names: [Poutaieg, Putai jezik, West Marg]
 population: 50
@@ -16,5 +14,9 @@ glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > Biu-Mandara > North Biu-Mandara > Margi-Mandara-Mofu > Bura-Marghi > Buraic > Putai"
 wikipedia_url: "https://en.wikipedia.org/wiki/Putai_language"
+translations:
+  - translation_iso: zho
+    name: 普泰语
+    auto: true
 ---
 Putai also known as Marghi West is a nearly extinct Afro-Asiatic language spoken in northeastern Nigeria. The language is dying out and being replaced by Kanuri.

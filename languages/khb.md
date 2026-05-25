@@ -1,7 +1,6 @@
 ---
 iso: khb
 name: Lü
-name_zh: 傣仂語
 autonym: ᦅᧄᦺᦑ
 alt_names: [Dai, Dai Le, Duon, Lu, Lue, "Lue, Ly", Ly, Người Lự, "Pai'i'", Pai-I, Shui-Pai-I, Sipsongpanna Dai, Tai Lu, Tai Lü, Tai Lü language, Xishuangbanna Dai, ภาษาไทลื้อ, ພາສາໄທລື້, 傣仂語]
 population: 554600
@@ -16,6 +15,15 @@ glottolog_family_id: taik1256
 glottolog_family_name: Tai-Kadai
 glottolog_classification: "Tai-Kadai > Kam-Tai > Daic-Beic > Daic > Central-Southwestern Tai > Wenma-Southwestern Tai > Sapa-Southwestern Tai > Southwestern Tai > Southwestern Tai P > Shanic > Sukaphic > Northern Shanic > Sipsongpannic > Lü"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tai_Lue_language"
+translations:
+  - translation_iso: hin
+    name: ताई लुए भाषा
+  - translation_iso: jpn
+    name: タイ・ルー語
+  - translation_iso: kor
+    name: 타이루어
+  - translation_iso: zho
+    name: 傣仂語
 rolv_dialects:
   - rolv_code: 2286
     language_tag: khb-x-HIS02286

@@ -1,8 +1,6 @@
 ---
 iso: spr
 name: Saparua
-name_zh: 萨帕鲁阿语
-name_zh_auto: true
 autonym: Iha
 population: 10200
 country_id: ID
@@ -15,6 +13,10 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Nunusaku > Piru Bay > East Piru Bay > Solehua > Seram Straits > Uliase > Hatuhaha > Saparuan > Saparua-Latu > Saparua"
 wikipedia_url: "https://en.wikipedia.org/wiki/Saparua_language"
+translations:
+  - translation_iso: zho
+    name: 萨帕鲁阿语
+    auto: true
 rolv_dialects:
   - rolv_code: 16324
     language_tag: spr-x-HIS16324

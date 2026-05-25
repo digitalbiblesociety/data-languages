@@ -1,7 +1,6 @@
 ---
 iso: dgr
 name: Dogrib
-name_zh: 多格里布语
 autonym: Tlicho
 alt_names: [Dogrí, Flanc-de-chien, Língua dogrib, Thlingchadine, Tłı̨chǫ, Догриб]
 population: 1650
@@ -16,6 +15,17 @@ glottolog_family_id: atha1245
 glottolog_family_name: Athabaskan-Eyak-Tlingit
 glottolog_classification: "Athabaskan-Eyak-Tlingit > Athabaskan-Eyak > Athabaskan > Northwestern Canada Athabaskan > Slaveyic > Dogrib"
 wikipedia_url: "https://en.wikipedia.org/wiki/Dogrib_language"
+translations:
+  - translation_iso: ara
+    name: الدوجريب
+  - translation_iso: hin
+    name: डोग्रिब
+  - translation_iso: jpn
+    name: ドグリブ語
+  - translation_iso: kor
+    name: 도그리브어
+  - translation_iso: zho
+    name: 多格里布语
 rolv_dialects:
   - rolv_code: 9353
     language_tag: dgr-x-HIS09353

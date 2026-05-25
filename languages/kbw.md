@@ -1,8 +1,6 @@
 ---
 iso: kbw
 name: Kaiep
-name_zh: 卡伊普语
-name_zh_auto: true
 autonym: Samap
 alt_names: [Sumup, Terebu, Terepu, Turupu]
 population: 300
@@ -16,5 +14,9 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > North New Guinea linkage > Schouten linkage > Kairiru-Manam > Kairiruic linkage > Kaiep-Terebu > Kaiep"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kaiep_language"
+translations:
+  - translation_iso: zho
+    name: 卡伊普语
+    auto: true
 ---
 Kaiep is one of three Kairiru languages of Turubu Rural LLG, East Sepik Province, Papua New Guinea. It is spoken in the Kep, Taul, and Samap village area in Turubu Rural LLG.

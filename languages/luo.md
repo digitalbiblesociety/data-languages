@@ -1,7 +1,6 @@
 ---
 iso: luo
 name: Luo (Kenya and Tanzania)
-name_zh: 盧歐語
 autonym: Dholuo
 alt_names: [Dolouoeg, Język luo, Kavirondo, Kavirondo Luo, Kiluo, Lengua Luo, Luo, Luo-Kavirondo, Língua luo, Nilotic Kavirondo, luo (Kenya et Tanzanie), Долуо, लुओ भाषा]
 population: 5255000
@@ -16,6 +15,17 @@ glottolog_family_id: nilo1247
 glottolog_family_name: Nilotic
 glottolog_classification: "Nilotic > Western Nilotic > Lwoo > Southern Lwoo > Adhola-Alur-Luo > Adhola-Luo > Luo (Kenya and Tanzania)"
 wikipedia_url: "https://en.wikipedia.org/wiki/Dholuo"
+translations:
+  - translation_iso: ara
+    name: الدهولوية
+  - translation_iso: hin
+    name: लुओ भाषा
+  - translation_iso: jpn
+    name: ルオ語
+  - translation_iso: kor
+    name: 루오어
+  - translation_iso: zho
+    name: 盧歐語
 rolv_dialects:
   - rolv_code: 964
     language_tag: luo-x-HIS00964

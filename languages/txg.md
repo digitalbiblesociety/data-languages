@@ -1,7 +1,6 @@
 ---
 iso: txg
 name: Tangut
-name_zh: 西夏语
 autonym: 𗼇𗟲
 alt_names: [Hsi-hsia, Idioma tangut, Język tangucki, Tangoute, Tanguhti, Xixia, ภาษาตันกัต, 西夏文, 서하 문자]
 population: null
@@ -15,5 +14,16 @@ glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Burmo-Qiangic > Na-Qiangic > Qiangic > Gyalrongic > West Gyalrongic > Tangut-Chamdoic > Tangut"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tangut_language"
+translations:
+  - translation_iso: ara
+    name: لغة تانغوت
+  - translation_iso: hin
+    name: तान्गूत भाषा
+  - translation_iso: jpn
+    name: 西夏語
+  - translation_iso: kor
+    name: 서하어
+  - translation_iso: zho
+    name: 西夏语
 ---
 Tangut is an extinct Sino‑Tibetan language, now argued to belong within the Horpa subgroup of West Gyalrongic.

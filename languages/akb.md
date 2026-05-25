@@ -1,7 +1,6 @@
 ---
 iso: akb
 name: Batak Angkola
-name_zh: 昂科拉语
 autonym: Anakola
 alt_names: [Angkola]
 population: 750000
@@ -15,5 +14,10 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Sumatran > Batakic > Central-Southern Batak > Southern Batak > Angkola-Mandailing > Batak Angkola"
 wikipedia_url: "https://en.wikipedia.org/wiki/Angkola_language"
+translations:
+  - translation_iso: jpn
+    name: バタク・アンコーラ語
+  - translation_iso: zho
+    name: 昂科拉语
 ---
 Angkola, or Batak Angkola, is an Austronesian language of Sumatra. It is spoken in South Tapanuli Regency and Padang Sidempuan.

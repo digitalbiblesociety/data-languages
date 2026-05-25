@@ -1,7 +1,6 @@
 ---
 iso: mro
 name: Mru
-name_zh: 默文
 autonym: Mrung
 alt_names: [Maru, Mro, Mro-Mru, Mroo, Murung, Niopreng, မရူ]
 population: 50200
@@ -16,6 +15,11 @@ glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Mruic > Mru"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mru_language"
+translations:
+  - translation_iso: jpn
+    name: ムル語
+  - translation_iso: zho
+    name: 默文
 rolv_dialects:
   - rolv_code: 3254
     language_tag: mro-x-HIS03254

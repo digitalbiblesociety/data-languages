@@ -1,7 +1,6 @@
 ---
 iso: phh
 name: Phukha
-name_zh: 夫卡语
 autonym: Phula
 alt_names: [Fu Khla, Phu Kha, Phu Khla, Phu La, Phù Lá, Phù Lá Hán]
 population: 10000
@@ -15,5 +14,8 @@ glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Burmo-Qiangic > Lolo-Burmese > Loloish > Ni-Li-Kazhouish > Southeastern Ngwi > Highland Phula > Phowa > Hlepho-Phukha > Phukha"
 wikipedia_url: "https://en.wikipedia.org/wiki/Phukha_language"
+translations:
+  - translation_iso: zho
+    name: 夫卡语
 ---
 Phukha is a Loloish language spoken by the Phula people of Vietnam and Southern China.

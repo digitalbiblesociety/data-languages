@@ -1,8 +1,6 @@
 ---
 iso: bec
 name: "Iceve-Maci"
-name_zh: 冰塞夫-马西语
-name_zh_auto: true
 autonym: Oliti
 alt_names: [Bacheve, Bechere, Becheve, Icheve, Ocebe, Oceve, Ochebe, Ocheve, Utse, Utser, Utseu]
 population: 12000
@@ -16,6 +14,10 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Tivoid > Central Tivoid > Central Tivoid A > Iceve-Maci"
 wikipedia_url: "https://en.wikipedia.org/wiki/Iceve-Maci_language"
+translations:
+  - translation_iso: zho
+    name: 冰塞夫-马西语
+    auto: true
 rolv_dialects:
   - rolv_code: 4356
     language_tag: bec-x-HIS04356

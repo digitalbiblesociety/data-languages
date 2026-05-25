@@ -1,7 +1,6 @@
 ---
 iso: tjs
 name: Southern Tujia
-name_zh: 孟兹语
 autonym: Tuchia
 alt_names: [Mozi, Southern, Tujia, Tujia du sud, Tujia meridional, "Tujia, Southern", "Tujia,Southern", 南部土家語, 土家語]
 population: 1500
@@ -14,4 +13,7 @@ glottocode: sout2739
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Burmo-Qiangic > Tujia > Southern Tujia"
+translations:
+  - translation_iso: zho
+    name: 孟兹语
 ---

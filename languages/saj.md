@@ -1,8 +1,6 @@
 ---
 iso: saj
 name: Sahu
-name_zh: 萨胡语
-name_zh_auto: true
 autonym: "Sahu'u"
 alt_names: ["Pa'disua", Palisua, "Sa'u", Sau, Waioli]
 population: 7500
@@ -16,6 +14,12 @@ glottolog_family_id: nort2923
 glottolog_family_name: North Halmahera
 glottolog_classification: "North Halmahera > Northern North Halmahera > Sahuan > Nuclear Sahuan > Sahu-Waioli > Sahu"
 wikipedia_url: "https://en.wikipedia.org/wiki/Sahu_language"
+translations:
+  - translation_iso: jpn
+    name: サフ語
+  - translation_iso: zho
+    name: 萨胡语
+    auto: true
 rolv_dialects:
   - rolv_code: 16186
     language_tag: saj-x-HIS16186

@@ -1,8 +1,6 @@
 ---
 iso: mks
 name: Silacayoapan Mixtec
-name_zh: 西拉卡约阿潘混合语
-name_zh_auto: true
 autonym: "Mixtec, Silacayoapan"
 alt_names: [Central Baja Mixtec, Mixtec (Silacayoapan), Mixteco (Silacayoapan), Mixteco de Yucuná, Mixteco del Noroeste de Oaxaca, Mixteco del noroeste, Northern Misteko, Northern Mixteco, Northwest Oaxaca Mixtec]
 population: 18700
@@ -16,6 +14,10 @@ glottolog_family_id: otom1299
 glottolog_family_name: Otomanguean
 glottolog_classification: "Otomanguean > Eastern Otomanguean > Amuzgo-Mixtecan > Mixtecan > Mixtec-Cuicatec > Mixtec > Central-Western Baja Mixtec > Silacayoapan Mixtec"
 wikipedia_url: "https://en.wikipedia.org/wiki/Silacayoapan_Mixtec"
+translations:
+  - translation_iso: zho
+    name: 西拉卡约阿潘混合语
+    auto: true
 rolv_dialects:
   - rolv_code: 4182
     language_tag: mks-x-HIS04182

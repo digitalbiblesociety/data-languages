@@ -1,8 +1,6 @@
 ---
 iso: nlz
 name: Nalögo
-name_zh: 纳洛戈语
-name_zh_auto: true
 autonym: Natügu
 alt_names: [Nalogo, Nalrgo, Nea, Santa Cruz, South-Western Santa Cruz, Southern Santa Cruz]
 population: 1500
@@ -16,6 +14,10 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Temotu > Reefs-Santa Cruz > Natugu-Nalogo > Nalögo"
 wikipedia_url: "https://en.wikipedia.org/wiki/Nal%C3%B6go_language"
+translations:
+  - translation_iso: zho
+    name: 纳洛戈语
+    auto: true
 rolv_dialects:
   - rolv_code: 3649
     language_tag: nlz-x-HIS03649

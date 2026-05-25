@@ -1,7 +1,6 @@
 ---
 iso: cdo
 name: Min Dong Chinese
-name_zh: 闽东语
 autonym: Min Dong (閩東語)Fuchowian (福州話)
 alt_names: [Chinese, "Chinese, Min Dong", "Chinese,MinDong", Dialecto fuzhou, Dialek Fuzhou, Eastern Min, Foochow, Fuchow, Fuzhou, Fuzhou dialect, Fuzhou-Dialekt, Hok-chiu-oē, Hók-ciŭ-uâ, Min, Min (Eastern) dialect (Mindong), Min Dialect Family, 福州話, 福州語]
 population: 10300000
@@ -15,6 +14,17 @@ glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Sinitic > Min > Coastal Min > Min Dong Chinese"
 wikipedia_url: "https://en.wikipedia.org/wiki/Eastern_Min"
+translations:
+  - translation_iso: ara
+    name: مين الشرقية
+  - translation_iso: hin
+    name: मीन दोंग भाषा
+  - translation_iso: jpn
+    name: 閩東語
+  - translation_iso: kor
+    name: 민둥어
+  - translation_iso: zho
+    name: 闽东语
 rolv_dialects:
   - rolv_code: 113
     language_tag: cdo-x-HIS00113

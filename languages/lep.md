@@ -1,7 +1,6 @@
 ---
 iso: lep
 name: Lepcha
-name_zh: 绒巴语
 autonym: ᰛᰩᰵᰛᰧᰵᰶ
 alt_names: [Język lepcza, Lapcha, Lapche, Lepchaish, Lepoha, Leptśa, Lingua Lepcha, Nümpa, Nünpa, Rong, Rongke, Rongpa, Róng, Лепча, ภาษาเลปชา, レプチャ語]
 population: 57700
@@ -16,6 +15,15 @@ glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Himalayish > Lepcha"
 wikipedia_url: "https://en.wikipedia.org/wiki/Lepcha_language"
+translations:
+  - translation_iso: hin
+    name: लेप्चा
+  - translation_iso: jpn
+    name: レプチャ語
+  - translation_iso: kor
+    name: 렙차어
+  - translation_iso: zho
+    name: 绒巴语
 rolv_dialects:
   - rolv_code: 12880
     language_tag: lep-x-HIS12880

@@ -1,7 +1,6 @@
 ---
 iso: lbo
 name: Laven
-name_zh: 吉盧語
 autonym: " ຈຼ໌ຣູະ"
 alt_names: [Boloven, Boriwen, Jaru, Jru, "Jru'", Jruq, Jəru-Sprachen, Laweenjru, Lawen, Loven]
 population: 56400
@@ -15,6 +14,9 @@ glottolog_family_id: aust1305
 glottolog_family_name: Austroasiatic
 glottolog_classification: "Austroasiatic > Bahnaric > West Bahnaric > Nuclear West Bahnaric > Loven-Suq > Laven"
 wikipedia_url: "https://en.wikipedia.org/wiki/Jru%27_language"
+translations:
+  - translation_iso: zho
+    name: 吉盧語
 rolv_dialects:
   - rolv_code: 1807
     language_tag: lbo-x-HIS01807

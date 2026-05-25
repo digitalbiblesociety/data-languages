@@ -1,8 +1,6 @@
 ---
 iso: pbu
 name: Northern Pashto
-name_zh: 北普什图语
-name_zh_auto: true
 autonym: Yusufzai
 alt_names: [Afghan, Eastern Afghan, "Pakh'to", Pakhto, Pakhtoo, Pakhtu, Paktu, Pashto, "Pashto, Northern", Pashtu, Passtoo, Pushto, Pusto, Yusufzai Pashto]
 population: 20900000
@@ -16,6 +14,12 @@ glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Iranian-Nuristani > Iranian > Pashto > Nuclear Pashto > Northern Pashto"
 wikipedia_url: "https://en.wikipedia.org/wiki/Northern_Pashto"
+translations:
+  - translation_iso: jpn
+    name: 北部パシュトー語
+  - translation_iso: zho
+    name: 北普什图语
+    auto: true
 rolv_dialects:
   - rolv_code: 834
     language_tag: pbu-x-HIS00834

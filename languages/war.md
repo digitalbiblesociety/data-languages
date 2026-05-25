@@ -1,7 +1,6 @@
 ---
 iso: war
 name: Waray (Philippines)
-name_zh: 瓦瑞語
 autonym: " Samar-Leyte Visayan"
 alt_names: [Bahasa Waray-waray, Binisaya, Bisaya, Idioma samareño, Język warajski, Pagsasao a Waray, Samar-Leyte, Samaran, Samareño, Sorsogon (Waray), Waray, Waray (Meso-Phillipines), Waray Waray, Waray-Waray, Wikang Waray-Waray, Winaray, Winarayeg, Wáray-Wáray, Wáray-Wáray-ngî, Варайский язык, ภาษาวาราย-วาราย, ዊናራይኛ, ワライ語]
 population: 2611110
@@ -16,6 +15,17 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Greater Central Philippine > Central Philippine > Bisayan > Central Bisayan > Warayan > Samar-Waray > Waray (Philippines)"
 wikipedia_url: "https://en.wikipedia.org/wiki/Waray_language"
+translations:
+  - translation_iso: ara
+    name: لغة الواراى الواراى
+  - translation_iso: hin
+    name: विनारे भाषा
+  - translation_iso: jpn
+    name: ワライ語
+  - translation_iso: kor
+    name: 와라이어
+  - translation_iso: zho
+    name: 瓦瑞語
 rolv_dialects:
   - rolv_code: 18196
     language_tag: war-x-HIS18196

@@ -1,8 +1,6 @@
 ---
 iso: nac
 name: Narak
-name_zh: 纳拉克语
-name_zh_auto: true
 autonym: Ganja
 population: 6220
 country_id: PG
@@ -15,5 +13,11 @@ glottolog_family_id: nucl1709
 glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Chimbu-Wahgi > Jimi > Kandawo-Narak > Narak"
 wikipedia_url: "https://en.wikipedia.org/wiki/Narak_language"
+translations:
+  - translation_iso: jpn
+    name: ナラク語
+  - translation_iso: zho
+    name: 纳拉克语
+    auto: true
 ---
 Narak is a Trans–New Guinea language of Western Highlands Province, Papua New Guinea.

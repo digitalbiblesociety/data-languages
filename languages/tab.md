@@ -1,7 +1,6 @@
 ---
 iso: tab
 name: Tabassaran
-name_zh: 塔巴萨兰语
 autonym: табасаран чIал tabasaran ҫ̇al
 alt_names: [Ghumghum, Język tabasarański, Língua tabassarã, Tabasaraans, Tabasaran, Tabasaran dili, Tabasaran language, Tabasaranera, Tabasaranin kieli, Tabasarano, Tabasarantsy, Tabasareg, Tabassaranische Sprache, tabasaran č’al, Табасарайнаг æвзаг, Табасарански јазик, Табасаранська мова, табасаран чIал, табасаранский язык, Թաբասարաներեն, თაბასარანული ენა]
 population: 126980
@@ -16,6 +15,15 @@ glottolog_family_id: nakh1245
 glottolog_family_name: Nakh-Daghestanian
 glottolog_classification: "Nakh-Daghestanian > Daghestanian > Lezgic > Samur > Eastern Samur > Tabasaran-Aghul-Lezgi > Tabasaran"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tabasaran_language"
+translations:
+  - translation_iso: ara
+    name: التباسرانية
+  - translation_iso: jpn
+    name: タバサラン語
+  - translation_iso: kor
+    name: 타바사란어
+  - translation_iso: zho
+    name: 塔巴萨兰语
 rolv_dialects:
   - rolv_code: 17006
     language_tag: tab-x-HIS17006

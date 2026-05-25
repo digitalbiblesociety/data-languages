@@ -1,7 +1,6 @@
 ---
 iso: chp
 name: Chipewyan
-name_zh: 奇帕维安语
 autonym: Denesuline
 alt_names: [Dene, "Dene Soun'line", Dene Suline, Dene Suline language, Dene Suline simi, Dené, Dëne Súline, Dënesųłiné, Idioma chipewyan, Lingua chipewyan, Montagnais, Sluacus-tinneh, Ĉipevajana lingvo, Чипевиан]
 population: 10700
@@ -16,6 +15,17 @@ glottolog_family_id: atha1245
 glottolog_family_name: Athabaskan-Eyak-Tlingit
 glottolog_classification: "Athabaskan-Eyak-Tlingit > Athabaskan-Eyak > Athabaskan > Northwestern Canada Athabaskan > Chipewyan"
 wikipedia_url: "https://en.wikipedia.org/wiki/Chipewyan_language"
+translations:
+  - translation_iso: ara
+    name: الشيباوايان
+  - translation_iso: hin
+    name: शिपेव्यान
+  - translation_iso: jpn
+    name: チペワイアン語
+  - translation_iso: kor
+    name: 치퍼와이언어
+  - translation_iso: zho
+    name: 奇帕维安语
 rolv_dialects:
   - rolv_code: 8885
     language_tag: chp-x-HIS08885

@@ -1,7 +1,6 @@
 ---
 iso: rob
 name: "Tae'"
-name_zh: 塔伊语
 autonym: "Basa Tae'"
 alt_names: [East Toraja, Luwu, Nordost-Celebes, Rongkong, Rongkong Kanandede, Sada, "Sangangalla'", "Tae' Tae'", Taeq, To Rongkong, Toala, Toala-Palili, Toraja Timur, Toware]
 population: 272000
@@ -16,6 +15,11 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Greater South Sulawesi > South Sulawesi > Northern South Sulawesi > Toraja-Duri > Torajic > Tae'"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tae%CA%BC_language"
+translations:
+  - translation_iso: jpn
+    name: タエ語
+  - translation_iso: zho
+    name: 塔伊语
 rolv_dialects:
   - rolv_code: 17018
     language_tag: rob-x-HIS17018

@@ -1,8 +1,6 @@
 ---
 iso: kwc
 name: Likwala
-name_zh: 利夸拉语
-name_zh_auto: true
 autonym: Likwala
 alt_names: [Ekwala, Kwala, Likouala]
 population: 79000
@@ -16,6 +14,10 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > Central-Western Bantu > North Zaire River > Rivers Bantu > Ngiri > Ngiri Riverain Ubangi > Ngiri Riverain Ubangi-Ripuaire > Bobangic > Bobangic Riverain > Likwala-Likuba > Likwala"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kwala_language"
+translations:
+  - translation_iso: zho
+    name: 利夸拉语
+    auto: true
 rolv_dialects:
   - rolv_code: 6204
     language_tag: kwc-x-HIS06204

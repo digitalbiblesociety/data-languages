@@ -1,7 +1,6 @@
 ---
 iso: abs
 name: Ambonese Malay
-name_zh: 安汶马来语
 autonym: Ambonese
 alt_names: [Ambong, "Malay, Ambonese", Malayu Ambon]
 population: 250900
@@ -15,6 +14,11 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Malayo-Chamic > Malayic > Nuclear Malayic > Vehicular Malay > Eastern Indonesia Trade Malay > Ambonic Malay > Ambonese Malay"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ambonese_Malay"
+translations:
+  - translation_iso: jpn
+    name: アンボン・マライ語
+  - translation_iso: zho
+    name: 安汶马来语
 rolv_dialects:
   - rolv_code: 19373
     language_tag: abs-x-HIS19373

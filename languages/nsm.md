@@ -1,7 +1,6 @@
 ---
 iso: nsm
 name: Sumi Naga
-name_zh: Sema语
 autonym: Sümi (Naga)
 alt_names: [Naga, Naga (Sumi), "Naga, Sumi", "Naga,Sumi", Sema, Simi, Simí, Sumi, Zumomi]
 population: 10800
@@ -15,6 +14,13 @@ glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Kuki-Chin-Naga > Angami-Ao > Angami-Pochuri > Rengma-Simi > Sumi Naga"
 wikipedia_url: "https://en.wikipedia.org/wiki/S%C3%BCmi_language"
+translations:
+  - translation_iso: hin
+    name: सुमी भाषा
+  - translation_iso: jpn
+    name: スミ語
+  - translation_iso: zho
+    name: Sema语
 rolv_dialects:
   - rolv_code: 868
     language_tag: nsm-x-HIS00868

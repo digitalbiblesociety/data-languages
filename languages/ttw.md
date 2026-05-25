@@ -1,8 +1,6 @@
 ---
 iso: ttw
 name: Long Wat
-name_zh: 龙瓦特语
-name_zh_auto: true
 autonym: Long Wat
 alt_names: [Kenyah, "Kenyah, Tutoh", "Lebo' Vo' Kenyah", Long San Kenyah, Tutoh Kenya]
 population: 600
@@ -16,6 +14,10 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > North Borneo Malayo-Polynesian > North Sarawakan > Kenyahic > Lowland Kenyah > Western Lowland Kenyah-Penan > Western Lowland Kenyah"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tutoh_language"
+translations:
+  - translation_iso: zho
+    name: 龙瓦特语
+    auto: true
 ---
 Tutoh, also known as Long Wat, is a Kenyah language of Sarawak, Malaysia, spoken along the Tutoh River.
 It is spoken in the villages of Long Wat and in the Bornean city of Miri, where however most are shifting to Malay.

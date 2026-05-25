@@ -1,8 +1,6 @@
 ---
 iso: gud
 name: Yocoboué Dida
-name_zh: 约科博韦迪达语
-name_zh_auto: true
 autonym: null
 alt_names: ["Côte d'Ivoire", "Dida, Yocoboué", Yocoboue Dida]
 population: 102000
@@ -15,6 +13,10 @@ glottocode: yoco1235
 glottolog_family_id: krua1234
 glottolog_family_name: Kru
 glottolog_classification: "Kru > Eastern Kru > Neyo-Dida > Dida > Yocoboué Dida"
+translations:
+  - translation_iso: zho
+    name: 约科博韦迪达语
+    auto: true
 rolv_dialects:
   - rolv_code: 9253
     language_tag: gud-x-HIS09253

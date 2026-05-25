@@ -1,8 +1,6 @@
 ---
 iso: mpj
 name: Martu Wangka
-name_zh: 玛图瓦恩卡语
-name_zh_auto: true
 autonym: Wati
 alt_names: [Budijarra, Gardujarra, Giyajarra, Jigalong, Jindi, Julbaritja, Kabul, Kartudjara, Keiadjara, Maduwangga, Maduwonga, Maduwongga, Mandjildjara, Manjtjiltjara, Mantjiltjara, Manyjilyjarra, Mardo, Mardu, Mardudjara, Mardujara, Marduwangga, Martu, Martu-Wangka, Martuwangka, Potidjara, Targoodi, Targudi, Wangka, Wangkajunga, Wangkajunka, Wanman, Yindi, Yulbaridja, Yulboridja, Yulparija]
 population: 1080
@@ -16,6 +14,10 @@ glottolog_family_id: pama1250
 glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > Desert Nyungic > Wati > Martuwangkic > Warnman-Wangka > Martu Wangka"
 wikipedia_url: "https://en.wikipedia.org/wiki/Martu_Wangka_dialect"
+translations:
+  - translation_iso: zho
+    name: 玛图瓦恩卡语
+    auto: true
 rolv_dialects:
   - rolv_code: 13777
     language_tag: mpj-x-HIS13777

@@ -1,8 +1,6 @@
 ---
 iso: wim
 name: "Wik-Mungkan"
-name_zh: 威克-芒坎语
-name_zh_auto: true
 autonym: "Wik-Mungknh"
 alt_names: [Anja, Ayan, Badjimu, Lenga wik-mungkan, Mimungkum, Mimungkum/Wik Mungkana, Monkanu, Mugola, Munggan, Munggan (Wik-), Munggano, Mungkan, Mungkanhu, Mungkañ, Munkan, Munkanj, Munkanu, Wik, Wik Epa, Wik Kalkan, Wik Meanha, Wik Mimungkum, Wik Mongkan, Wik Mongken, Wik Monkan, Wik Munggan, Wik Mungkan, Wik Mungkana, Wik Mungkanh, Wik Mungken, Wik Mungknh, Wik Mungknh hill, Wik Munkan, Wik Ngathara, Wik Ompom, Wik-Mongken, Wik-Mungkana, Wik-Mungkanha, Wik-Mungken, Wik-Mungkhn, Wik-Munkan, WikHungkan, Wika Munkan, Wikampama, Wikatinda, Wikepa, Wikmean, Wikmungkan, Wikmungken, Wikmunkan, Wiknantjara, Wiknatanja, Woran am]
 population: 1050
@@ -16,6 +14,12 @@ glottolog_family_id: pama1250
 glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > Paman > Compromise Middle Pama > Wik > Kuku-Wik-Ep > Kuku-Wik > Mungkanic > Mungkan-Mungkanhu > Wik-Mungkan"
 wikipedia_url: "https://en.wikipedia.org/wiki/Wik_Mungkan_language"
+translations:
+  - translation_iso: jpn
+    name: ウィク・ムンカン語
+  - translation_iso: zho
+    name: 威克-芒坎语
+    auto: true
 rolv_dialects:
   - rolv_code: 3773
     language_tag: wim-x-HIS03773

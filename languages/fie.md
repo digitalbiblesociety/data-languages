@@ -1,8 +1,6 @@
 ---
 iso: fie
 name: Fyer
-name_zh: 费耶尔语
-name_zh_auto: true
 autonym: Fier
 alt_names: [Fyer jezik, Ron Group B]
 population: 26100
@@ -16,5 +14,9 @@ glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > West Chadic > West Chadic A > West Chadic A.4 > Fyer-Tambas > Fyer"
 wikipedia_url: "https://en.wikipedia.org/wiki/Fyer_language"
+translations:
+  - translation_iso: zho
+    name: 费耶尔语
+    auto: true
 ---
 Fyer is a West Chadic language spoken in Plateau State, Nigeria.

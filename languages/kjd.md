@@ -1,8 +1,6 @@
 ---
 iso: kjd
 name: Southern Kiwai
-name_zh: 南基瓦伊语
-name_zh_auto: true
 autonym: Kiwai
 alt_names: ["Kiwai, Southern"]
 population: 1000
@@ -15,6 +13,12 @@ glottocode: sout2949
 glottolog_family_id: kiwa1251
 glottolog_family_name: Kiwaian
 glottolog_classification: "Kiwaian > Southern Kiwai"
+translations:
+  - translation_iso: hin
+    name: दक्षिणी किवाई
+  - translation_iso: zho
+    name: 南基瓦伊语
+    auto: true
 rolv_dialects:
   - rolv_code: 641
     language_tag: kjd-x-HIS00641

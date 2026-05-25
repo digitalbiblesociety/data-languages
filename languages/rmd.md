@@ -1,8 +1,6 @@
 ---
 iso: rmd
 name: Traveller Danish
-name_zh: 丹麦旅行者语
-name_zh_auto: true
 autonym: Tater Language
 alt_names: ["Danish, Traveller", Rodi, Rotwelsch]
 population: 100
@@ -16,5 +14,9 @@ glottolog_family_id: spee1234
 glottolog_family_name: Speech Register
 glottolog_classification: "Speech Register > Indo-European Speech Register > Scandinavian Romani > Traveller Danish"
 wikipedia_url: "https://en.wikipedia.org/wiki/Danish_Rodi"
+translations:
+  - translation_iso: zho
+    name: 丹麦旅行者语
+    auto: true
 ---
 Scandoromani is a Para-Romani dialect spoken by the Romanisael, a subgroup of the Romani people in Norway, and Sweden.

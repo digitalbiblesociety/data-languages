@@ -1,8 +1,6 @@
 ---
 iso: kmn
 name: Awtuw
-name_zh: 奥图乌语
-name_zh_auto: true
 autonym: Autu
 alt_names: [Kamnum]
 population: 510
@@ -16,6 +14,10 @@ glottolog_family_id: sepi1257
 glottolog_family_name: Sepik
 glottolog_classification: "Sepik > Ram > Awtuw"
 wikipedia_url: "https://en.wikipedia.org/wiki/Awtuw_language"
+translations:
+  - translation_iso: zho
+    name: 奥图乌语
+    auto: true
 rolv_dialects:
   - rolv_code: 1234
     language_tag: kmn-x-HIS01234

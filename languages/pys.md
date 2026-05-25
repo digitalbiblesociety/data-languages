@@ -1,8 +1,6 @@
 ---
 iso: pys
 name: Paraguayan Sign Language
-name_zh: 巴拉圭手语
-name_zh_auto: true
 autonym: Lengua de Señas del Paraguay
 population: 15000
 country_id: PY
@@ -15,5 +13,11 @@ glottolog_family_id: sign1238
 glottolog_family_name: Sign Language
 glottolog_classification: "Sign Language > L1 Sign Language > Paraguayan Sign Language"
 wikipedia_url: "https://en.wikipedia.org/wiki/Paraguayan_Sign_Language"
+translations:
+  - translation_iso: jpn
+    name: パラグアイ手話
+  - translation_iso: zho
+    name: 巴拉圭手语
+    auto: true
 ---
 Paraguayan Sign Language, is the deaf sign language of Paraguay. It is not intelligible with neighboring languages, nor with American Sign Language, but speakers report that it has historical connections with Uruguayan Sign Language. It developed outside the schools, and was only used in education in 2009.

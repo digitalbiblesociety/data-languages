@@ -1,8 +1,6 @@
 ---
 iso: bwe
 name: Bwe Karen
-name_zh: 布韦克伦语
-name_zh_auto: true
 autonym: Bghai
 alt_names: [Baghi, Bghai Karen, Brec, Bræ, Brè, Bwe, Karen (Bwe), "Karen, Bwe", "Karen,Bwe"]
 population: 15700
@@ -16,6 +14,10 @@ glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Karenic > Central Karen > Geba-Bwe > Bwe Karen"
 wikipedia_url: "https://en.wikipedia.org/wiki/Bwe_Karen_language"
+translations:
+  - translation_iso: zho
+    name: 布韦克伦语
+    auto: true
 rolv_dialects:
   - rolv_code: 24563
     language_tag: bwe-x-HIS24563

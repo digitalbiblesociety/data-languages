@@ -1,7 +1,6 @@
 ---
 iso: gro
 name: Groma
-name_zh: 卓木语
 autonym: Tromo
 alt_names: [Gromeg, Tromawa, Tromowa, Ґрома]
 population: 12800
@@ -15,6 +14,11 @@ glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Bodic > Bodish > Early Old Tibetan > Middle Old Tibetan > Late Old Tibetan > Southern Tibetic > Dzongkhic > Groma"
 wikipedia_url: "https://en.wikipedia.org/wiki/Groma_language"
+translations:
+  - translation_iso: hin
+    name: ग्रोमा भाषा
+  - translation_iso: zho
+    name: 卓木语
 rolv_dialects:
   - rolv_code: 10352
     language_tag: gro-x-HIS10352

@@ -1,8 +1,6 @@
 ---
 iso: xpa
 name: Pirriya
-name_zh: 皮里亚语
-name_zh_auto: true
 autonym: Birria
 alt_names: [Bidia, Biria, Piria]
 population: null
@@ -16,5 +14,9 @@ glottolog_family_id: pama1250
 glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > Karnic > Pirriya-Kungkari > Pirriya"
 wikipedia_url: "https://en.wikipedia.org/wiki/Pirriya_language"
+translations:
+  - translation_iso: zho
+    name: 皮里亚语
+    auto: true
 ---
 Pirriya is an extinct and unclassified Australian Aboriginal language. It was spoken by the Bidia people of the western and central western Queensland, including Barcoo Shire, Whitula Creek, Cooper Creek, and Jundah.

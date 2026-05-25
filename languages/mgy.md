@@ -1,8 +1,6 @@
 ---
 iso: mgy
 name: Mbunga
-name_zh: 姆布翁加语
-name_zh_auto: true
 autonym: Kimbunga
 alt_names: [Tanzania]
 population: 11600
@@ -17,5 +15,9 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > East Bantu > Kilombero > West Kilombero > Mbunga"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mbunga_language"
+translations:
+  - translation_iso: zho
+    name: 姆布翁加语
+    auto: true
 ---
 Mbunga is a Bantu language of Tanzania.

@@ -1,8 +1,6 @@
 ---
 iso: lio
 name: Liki
-name_zh: 利基语
-name_zh_auto: true
 autonym: Moar
 alt_names: [Sobei]
 population: 320
@@ -16,5 +14,9 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > North New Guinea linkage > Sarmi-Jayapura Bay > Sarmi > Sobeic > Sobei-Liki > Liki"
 wikipedia_url: "https://en.wikipedia.org/wiki/Liki_language"
+translations:
+  - translation_iso: zho
+    name: 利基语
+    auto: true
 ---
 Liki, also known as Moar, is a nearly extinct Austronesian language spoken on offshore islands of Papua province, Indonesia.

@@ -1,7 +1,6 @@
 ---
 iso: pno
 name: Panobo
-name_zh: 帕諾語
 autonym: Pano
 alt_names: [Huariapano, Manoa, Pana, Pano language area, Pelado, Pánobo, Wariapano]
 population: null
@@ -15,5 +14,8 @@ glottolog_family_id: pano1259
 glottolog_family_name: Pano-Tacanan
 glottolog_classification: "Pano-Tacanan > Panoan > Mainline Pano > Pano Nawa > Chama subgroup > Panobo"
 wikipedia_url: "https://en.wikipedia.org/wiki/Wariapano_language"
+translations:
+  - translation_iso: zho
+    name: 帕諾語
 ---
 Wariapano (Huariapano), also known as Pano, Panavarro, and Pánobo, is a nearly extinct Panoan language of Peru. The last known speaker of the Pano dialect died in the spring of 1991.

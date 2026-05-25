@@ -1,8 +1,6 @@
 ---
 iso: dva
 name: Duau
-name_zh: 杜劳语
-name_zh_auto: true
 autonym: null
 population: 3550
 country_id: PG
@@ -15,6 +13,12 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > Papuan Tip linkage > Nuclear Papuan Tip linkage > North Papuan Mainland-D'Entrecasteaux linkage > Dobu-Duau linkage > Duau"
 wikipedia_url: "https://en.wikipedia.org/wiki/Duau_language"
+translations:
+  - translation_iso: jpn
+    name: ドゥアウ語
+  - translation_iso: zho
+    name: 杜劳语
+    auto: true
 rolv_dialects:
   - rolv_code: 2180
     language_tag: dva-x-HIS02180

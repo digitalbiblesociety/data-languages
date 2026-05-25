@@ -1,8 +1,6 @@
 ---
 iso: krn
 name: Sapo
-name_zh: 萨波语
-name_zh_auto: true
 autonym: Sarpo
 alt_names: [Southern Krahn]
 population: 66700
@@ -16,6 +14,10 @@ glottolog_family_id: krua1234
 glottolog_family_name: Kru
 glottolog_classification: "Kru > Greater Western Kru > Western Kru > Wee-Bassa-Klao > Wee > Nuclear Wee > Guere-Krahn > Sapo"
 wikipedia_url: "https://en.wikipedia.org/wiki/Sapo_language"
+translations:
+  - translation_iso: zho
+    name: 萨波语
+    auto: true
 rolv_dialects:
   - rolv_code: 177
     language_tag: krn-x-HIS00177

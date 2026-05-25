@@ -1,8 +1,6 @@
 ---
 iso: plt
 name: Plateau Malagasy
-name_zh: 高地马达加斯加语
-name_zh_auto: true
 autonym: malagasy
 alt_names: [Malagasi, "Malagasy, Plateau"]
 population: 7646100
@@ -15,6 +13,12 @@ glottocode: plat1254
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Basap-Greater Barito > Greater Barito linkage > Southeast Barito > Malagasic > North-Central Malagasic > Central-Eastern Malagasic > Plateau Malagasy"
+translations:
+  - translation_iso: jpn
+    name: プラトー・マダガスカル語
+  - translation_iso: zho
+    name: 高地马达加斯加语
+    auto: true
 rolv_dialects:
   - rolv_code: 3530
     language_tag: plt-x-HIS03530

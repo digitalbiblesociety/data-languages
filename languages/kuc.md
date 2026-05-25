@@ -1,8 +1,6 @@
 ---
 iso: kuc
 name: Kwinsu
-name_zh: 夸因苏语
-name_zh_auto: true
 autonym: Ansudu
 population: 500
 country_id: ID
@@ -15,5 +13,9 @@ glottolog_family_id: toro1256
 glottolog_family_name: Tor-Orya
 glottolog_classification: "Tor-Orya > Tor > Coastal Tor > Kwinsu"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kwinsu_language"
+translations:
+  - translation_iso: zho
+    name: 夸因苏语
+    auto: true
 ---
 Kwinsu is a Papuan language of Indonesia. It is spoken in Ansudu village in Pantai Timur subdistrict, Sarmi Regency.

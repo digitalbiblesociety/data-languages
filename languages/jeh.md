@@ -1,7 +1,6 @@
 ---
 iso: jeh
 name: Jeh
-name_zh: 叶语
 autonym: Gie
 alt_names: [Die, Yaeh, Yeh, ภาษาเจะห์]
 population: 26700
@@ -15,6 +14,9 @@ glottolog_family_id: aust1305
 glottolog_family_name: Austroasiatic
 glottolog_classification: "Austroasiatic > Bahnaric > North Bahnaric > Kayong-Jeh-Halang > Jeh-Halang > Jeh"
 wikipedia_url: "https://en.wikipedia.org/wiki/Jeh_language"
+translations:
+  - translation_iso: zho
+    name: 叶语
 rolv_dialects:
   - rolv_code: 793
     language_tag: jeh-x-HIS00793

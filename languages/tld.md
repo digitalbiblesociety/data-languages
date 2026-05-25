@@ -1,8 +1,6 @@
 ---
 iso: tld
 name: Talaud
-name_zh: 塔劳德语
-name_zh_auto: true
 autonym: Talaur
 alt_names: [Talaut, Talodda]
 population: 52100
@@ -16,6 +14,10 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Sangiric-Minahasan > Sangiric > Northern Sangiric > Talaud"
 wikipedia_url: "https://en.wikipedia.org/wiki/Talaud_language"
+translations:
+  - translation_iso: zho
+    name: 塔劳德语
+    auto: true
 rolv_dialects:
   - rolv_code: 17096
     language_tag: tld-x-HIS17096

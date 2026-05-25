@@ -1,8 +1,6 @@
 ---
 iso: asz
 name: As
-name_zh: 阿什语
-name_zh_auto: true
 autonym: null
 population: 230
 country_id: ID
@@ -15,5 +13,9 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > South Halmahera-West New Guinea > Raja Ampat-South Halmahera > As"
 wikipedia_url: "https://en.wikipedia.org/wiki/As_language"
+translations:
+  - translation_iso: zho
+    name: 阿什语
+    auto: true
 ---
 As is an Austronesian language spoken in the village of Asbaken, on the north coast of the Doberai Peninsula, on the Indonesian portion of the island of New Guinea. It was possibly originally spoken on Gag Island.

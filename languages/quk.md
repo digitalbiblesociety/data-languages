@@ -1,8 +1,6 @@
 ---
 iso: quk
 name: Chachapoyas Quechua
-name_zh: 查查波亚斯克丘亚语
-name_zh_auto: true
 autonym: Amazonas Quechua
 alt_names: [Chachapoya, Chachapoyas, Chachapoyas-Quechua, Chachapuya runashimi, Quechua chachapoyano, "Quechua, Chachapoyas", Чачапоясский кечуа]
 population: 100
@@ -16,6 +14,10 @@ glottolog_family_id: quec1387
 glottolog_family_name: Quechuan
 glottolog_classification: "Quechuan > San Martin-Amazonas Quechua > Chachapoyas Quechua"
 wikipedia_url: "https://en.wikipedia.org/wiki/Chachapoyas_Quechua"
+translations:
+  - translation_iso: zho
+    name: 查查波亚斯克丘亚语
+    auto: true
 rolv_dialects:
   - rolv_code: 15851
     language_tag: quk-x-HIS15851

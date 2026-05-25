@@ -1,8 +1,6 @@
 ---
 iso: bpm
 name: Biyom
-name_zh: 比约姆语
-name_zh_auto: true
 autonym: Sasime
 population: 380
 country_id: PG
@@ -15,6 +13,10 @@ glottolog_family_id: nucl1709
 glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Madang > Rai Coast > Unclassified Rai Coast > Biyom"
 wikipedia_url: "https://en.wikipedia.org/wiki/Biyom_language"
+translations:
+  - translation_iso: zho
+    name: 比约姆语
+    auto: true
 rolv_dialects:
   - rolv_code: 30378
     language_tag: bpm-x-HIS30378

@@ -1,8 +1,6 @@
 ---
 iso: tkd
 name: Tukudede
-name_zh: 图库德德语
-name_zh_auto: true
 autonym: Tocod
 alt_names: [Tokodede, Tokodé, Tukude]
 population: 55400
@@ -16,6 +14,12 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Central Timor > Kemak-Tukudede > Tukudede"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tokodede_language"
+translations:
+  - translation_iso: jpn
+    name: トコデデ語
+  - translation_iso: zho
+    name: 图库德德语
+    auto: true
 rolv_dialects:
   - rolv_code: 17748
     language_tag: tkd-x-HIS17748

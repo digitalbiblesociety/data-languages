@@ -1,7 +1,6 @@
 ---
 iso: bfd
 name: Bafut
-name_zh: 巴非特语
 autonym: Fut
 alt_names: [Befe, Bufe, Fu]
 population: 100000
@@ -16,6 +15,15 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Wide Grassfields > Narrow Grassfields > Mbam-Nkam > Southern Mbam-Nkam > Ngembaic > Mankonic > Bafut"
 wikipedia_url: "https://en.wikipedia.org/wiki/Fut_language"
+translations:
+  - translation_iso: ara
+    name: لغة البافوت
+  - translation_iso: jpn
+    name: バフット語
+  - translation_iso: kor
+    name: 바푸트어
+  - translation_iso: zho
+    name: 巴非特语
 rolv_dialects:
   - rolv_code: 2646
     language_tag: bfd-x-HIS02646

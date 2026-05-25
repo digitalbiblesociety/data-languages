@@ -1,8 +1,6 @@
 ---
 iso: kuq
 name: Karipuna
-name_zh: 卡里普纳语
-name_zh_auto: true
 autonym: "Ah'e"
 alt_names: [Caripuna, "Diahoi [Jiahui", "Diarroi]", Djahui, Jau-Navo, Juanauo, Kagwahiva, Kari, Karipuna do Guapore, Karipuná de Rondônia, Karipúna do Guaporé, Kawahib/Paranawat/Pawaté-Wirafed, Parintintín/Tenharim/Juma, Tukumanfed]
 population: null
@@ -15,6 +13,10 @@ glottocode: kari1317
 glottolog_family_id: tupi1275
 glottolog_family_name: Tupian
 glottolog_classification: "Tupian > Eastern Tupian > Maweti-Guarani > Aweti-Guarani > Tupi-Guarani > Tupi-Guarani Subgroup VI > Kawahiva > Nuclear Kawahiva > Central Kawahiva > Karipúna"
+translations:
+  - translation_iso: zho
+    name: 卡里普纳语
+    auto: true
 rolv_dialects:
   - rolv_code: 11645
     language_tag: kuq-x-HIS11645

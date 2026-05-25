@@ -1,7 +1,6 @@
 ---
 iso: bin
 name: Bini
-name_zh: 埃多语
 autonym: Bini
 alt_names: [Addo, Benin, "Bini, Edo", Edo, Edo language, Edoeg, Idioma edo, Lingua edo, Língua edo, Oviedo, Ovioba, Édo]
 population: 1931670
@@ -16,6 +15,17 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Akpes-Edoid > Edoid > North-Central Edoid > Central Plains Edoid > Bini"
 wikipedia_url: "https://en.wikipedia.org/wiki/Edo_language"
+translations:
+  - translation_iso: ara
+    name: البينية
+  - translation_iso: hin
+    name: बिनी
+  - translation_iso: jpn
+    name: エド語
+  - translation_iso: kor
+    name: 비니어
+  - translation_iso: zho
+    name: 埃多语
 rolv_dialects:
   - rolv_code: 28005
     language_tag: bin-x-HIS28005

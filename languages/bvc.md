@@ -1,8 +1,6 @@
 ---
 iso: bvc
 name: Baelelea
-name_zh: 拜莱莱阿语
-name_zh_auto: true
 autonym: Mbaelelea
 alt_names: [Südliche Salomons-Inseln]
 population: 8800
@@ -16,5 +14,9 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Southeast Solomonic > Longgu-Malaita-Makira > Malaita-Makira > Malaita > Central-Northern Malaita > North Malaitan > Baelelea"
 wikipedia_url: "https://en.wikipedia.org/wiki/Baelelea_language"
+translations:
+  - translation_iso: zho
+    name: 拜莱莱阿语
+    auto: true
 ---
 Baelelea (Mbaelelea) is a Southeast Solomonic language of Malaita.

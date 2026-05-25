@@ -1,8 +1,6 @@
 ---
 iso: ner
 name: Yahadian
-name_zh: 亚哈迪亚语
-name_zh_auto: true
 autonym: Nerigo
 alt_names: [Jahadian, Yabin Yahadian]
 population: 500
@@ -16,6 +14,10 @@ glottolog_family_id: kond1302
 glottolog_family_name: Konda-Yahadian
 glottolog_classification: "Konda-Yahadian > Yahadian"
 wikipedia_url: "https://en.wikipedia.org/wiki/Yahadian_language"
+translations:
+  - translation_iso: zho
+    name: 亚哈迪亚语
+    auto: true
 rolv_dialects:
   - rolv_code: 1726
     language_tag: ner-x-HIS01726

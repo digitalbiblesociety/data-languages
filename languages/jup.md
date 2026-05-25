@@ -1,8 +1,6 @@
 ---
 iso: jup
 name: Hupdë
-name_zh: 胡普德语
-name_zh_auto: true
 autonym: Hupdë
 alt_names: [Hubde, Hup, Hup language, Hupd, Hupda, Hupda (Brésil), Hupda (Colombie), Hupde, Hupdá Makú, Hupdé macú (Colombia), Jupda, Jupdá Macú, Macú, Macú de Tucano, Makú, Makú-Hupdá, Ubde-Nehern, Ubdé]
 population: 1210
@@ -16,6 +14,10 @@ glottolog_family_id: nada1235
 glottolog_family_name: Naduhup
 glottolog_classification: "Naduhup > Eastern Naduhup > Hup-Yuhup > Hup"
 wikipedia_url: "https://en.wikipedia.org/wiki/Hup_language"
+translations:
+  - translation_iso: zho
+    name: 胡普德语
+    auto: true
 rolv_dialects:
   - rolv_code: 10742
     language_tag: jup-x-HIS10742

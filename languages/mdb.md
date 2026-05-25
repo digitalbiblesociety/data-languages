@@ -1,8 +1,6 @@
 ---
 iso: mdb
 name: Morigi
-name_zh: 莫里吉语
-name_zh_auto: true
 autonym: Dabura
 alt_names: [Morigi Island, Turama, Turama River Kiwai, Wariadai]
 population: 700
@@ -16,6 +14,10 @@ glottolog_family_id: kiwa1251
 glottolog_family_name: Kiwaian
 glottolog_classification: "Kiwaian > Turama-Kerewo > Morigi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Morigi_language"
+translations:
+  - translation_iso: zho
+    name: 莫里吉语
+    auto: true
 rolv_dialects:
   - rolv_code: 1207
     language_tag: mdb-x-HIS01207

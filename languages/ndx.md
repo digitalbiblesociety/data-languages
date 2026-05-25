@@ -1,8 +1,6 @@
 ---
 iso: ndx
 name: Nduga
-name_zh: 恩杜加语
-name_zh_auto: true
 autonym: Dauwa
 alt_names: [Dawa, Ndauwa, Ndugwa, Pesecham, Pesechem, Pesegem, Peseghem]
 population: 10000
@@ -16,6 +14,10 @@ glottolog_family_id: nucl1709
 glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Dani > Ngalik-Nduga > Nduga"
 wikipedia_url: "https://en.wikipedia.org/wiki/Nduga_language"
+translations:
+  - translation_iso: zho
+    name: 恩杜加语
+    auto: true
 rolv_dialects:
   - rolv_code: 14798
     language_tag: ndx-x-HIS14798

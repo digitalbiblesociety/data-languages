@@ -1,7 +1,6 @@
 ---
 iso: kxm
 name: Northern Khmer
-name_zh: 北高棉話
 autonym: Surin Khmer
 alt_names: [Cambodian, Kambojanisch, Khmaer, Khmer, Khmer Lue, "Khmer, Northern", Khmɛr, Thailand Khmer]
 population: 90000
@@ -16,6 +15,11 @@ glottolog_family_id: aust1305
 glottolog_family_name: Austroasiatic
 glottolog_classification: "Austroasiatic > Khmeric > Northern Khmer"
 wikipedia_url: "https://en.wikipedia.org/wiki/Northern_Khmer_dialect"
+translations:
+  - translation_iso: jpn
+    name: スリン・クメール語
+  - translation_iso: zho
+    name: 北高棉話
 rolv_dialects:
   - rolv_code: 11966
     language_tag: km-TH-x-HIS11966

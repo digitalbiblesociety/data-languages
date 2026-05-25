@@ -1,8 +1,6 @@
 ---
 iso: oro
 name: Orokolo
-name_zh: 奥罗科洛语
-name_zh_auto: true
 autonym: Bailala
 alt_names: [Elema, Haira, Kaipi, Kairi-Kaura, Kairu-Kaura, Muro, Muru, Vailala, West Elema]
 population: 7500
@@ -16,6 +14,10 @@ glottolog_family_id: nucl1580
 glottolog_family_name: Eleman
 glottolog_classification: "Eleman > Western Eleman > Orokolo"
 wikipedia_url: "https://en.wikipedia.org/wiki/Orokolo_language"
+translations:
+  - translation_iso: zho
+    name: 奥罗科洛语
+    auto: true
 rolv_dialects:
   - rolv_code: 5003
     language_tag: oro-x-HIS05003

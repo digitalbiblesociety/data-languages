@@ -1,8 +1,6 @@
 ---
 iso: drl
 name: Paakantyi
-name_zh: 帕卡蒂语
-name_zh_auto: true
 autonym: Paakantyi
 alt_names: ["Ba:gandji", "Ba:gundji", Baagandji, Baagandji (Southern), Baagandyi, Bagandji, Bagundji, Bahkunji, Bahkunjy, Bahroongee, Bahroonjee, Baigundji, Bakandi, Bakandji, Bakanji, Bandjagal, Bandjangali, Bargunji, Barindji, Barinji, Barkandj, Barkandji, Barkindji, Barkinghi, Barkinjee, Barkinji, Barkungee, Barkunjee, Barongee, Baroongee, Barrengee, Barrongee, Barundji, Barundyi, Barunga, Barungi, Beriait, Berri ait, Berriait, Bpaagkon jee, Bpaaroo, Bpaaroon jee, Bungyarlee, Burunga, Cornu, Darling, Darling River Language, Guerno, Kaiela, Koono, Kornoo, Kornu, Kula, Kuno, Kurnu, Mailpurglu, Mil pulko, Ngunnhalgri, PAAKANTYI / PAAKANTJI / BARKINDJI, "Pa:kindzi", Paakanji, Paakantji, Paakanytji, Pakindji, Parkengee, Parkingee, Parkungi, Parkunji, Paroinge, Paroo, Parooinge, Paru, Paruindi, Paruindji, Paruinji, Parundji, S, Southern Baagandji, Unelgo, Wimbaja]
 population: 110
@@ -16,6 +14,12 @@ glottolog_family_id: pama1250
 glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > Yarli-Baagandji > Paakantyi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Paakantyi_language"
+translations:
+  - translation_iso: jpn
+    name: バーガンジ語
+  - translation_iso: zho
+    name: 帕卡蒂语
+    auto: true
 rolv_dialects:
   - rolv_code: 7720
     language_tag: drl-x-HIS07720

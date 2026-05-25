@@ -1,7 +1,6 @@
 ---
 iso: kfb
 name: Northwestern Kolami
-name_zh: 科拉米语
 autonym: Kolam
 alt_names: [Colami, Kolamboli, Kolameg, Kolami, Kolami language, "Kolami, Northwestern", Kolamy, Kolmi, Kolámí, Kulme, Kōlāmì, Kōlāmī, Lenga Kolami nord-ossidental, Lingua Kolami, Колами, கோலமி]
 population: 128000
@@ -15,6 +14,15 @@ glottolog_family_id: drav1251
 glottolog_family_name: Dravidian
 glottolog_classification: "Dravidian > Central Dravidian > Kolami-Naiki > Northwestern Kolami"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kolami"
+translations:
+  - translation_iso: hin
+    name: कोलामि भाषा
+  - translation_iso: jpn
+    name: コーラーミー語
+  - translation_iso: kor
+    name: 콜라미어
+  - translation_iso: zho
+    name: 科拉米语
 rolv_dialects:
   - rolv_code: 12140
     language_tag: kfb-x-HIS12140

@@ -1,8 +1,6 @@
 ---
 iso: thy
 name: Tha
-name_zh: 塔语
-name_zh_auto: true
 autonym: θá
 alt_names: [Joole Manga, Joole Marga, Kapawa]
 population: 1000
@@ -16,5 +14,9 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Cameroun-Ubangian > Bikwin-Jen > Southern Bikwin-Jen > Jen > Tha"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tha_language"
+translations:
+  - translation_iso: zho
+    name: 塔语
+    auto: true
 ---
 Tha (θá) is an Adamawa language of Nigeria.

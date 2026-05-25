@@ -1,8 +1,6 @@
 ---
 iso: gou
 name: Gavar
-name_zh: 盖瓦尔语
-name_zh_auto: true
 autonym: Kortchi
 alt_names: [Gauar, Gawar, Gouwar, Ma-Gavar, Rtchi]
 population: 7000
@@ -16,5 +14,9 @@ glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > Biu-Mandara > South Biu-Mandara > Dabaic > Buwal-Gavar > Gavar"
 wikipedia_url: "https://en.wikipedia.org/wiki/Gawar_language"
+translations:
+  - translation_iso: zho
+    name: 盖瓦尔语
+    auto: true
 ---
 Gavar is an Afro-Asiatic language spoken in Cameroon in the Far North Region.

@@ -1,7 +1,6 @@
 ---
 iso: bif
 name: Biafada
-name_zh: 比亚法达语
 autonym: Beafada
 alt_names: [Bedfola, Biafar, Bidyola, Fada, Ganjoola, Joolaa, Njoola, Yola]
 population: 54500
@@ -15,5 +14,10 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > North-Central Atlantic > Jaad > Biafada"
 wikipedia_url: "https://en.wikipedia.org/wiki/Biafada_language"
+translations:
+  - translation_iso: kor
+    name: 비아파다어
+  - translation_iso: zho
+    name: 比亚法达语
 ---
 Biafada (ga-njoola) is a Senegambian language of Guinea-Bissau.

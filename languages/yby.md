@@ -1,8 +1,6 @@
 ---
 iso: yby
 name: Yaweyuha
-name_zh: 亚韦尤哈语
-name_zh_auto: true
 autonym: null
 alt_names: [Yabiyufa, Yawiyuha]
 population: 2340
@@ -16,5 +14,9 @@ glottolog_family_id: nucl1709
 glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Kainantu-Goroka > Goroka > Nuclear Goroka > Siane-Yagaria > Yaweyuha"
 wikipedia_url: "https://en.wikipedia.org/wiki/Yaweyuha_language"
+translations:
+  - translation_iso: zho
+    name: 亚韦尤哈语
+    auto: true
 ---
 Yaweyuha (Yabiyufa) is a Papuan language spoken in the eastern highlands of Papua New Guinea, and it is spoken by around 4,600 people.

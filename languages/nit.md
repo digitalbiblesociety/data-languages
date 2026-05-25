@@ -1,7 +1,6 @@
 ---
 iso: nit
 name: Southeastern Kolami
-name_zh: 耐基语
 autonym: Southeastern Kolami
 alt_names: [Kolami, "Kolami, Southeastern", Kōlāmì, Naiki, Naikī, Naiquí, Southeastern]
 population: 10000
@@ -15,6 +14,13 @@ glottolog_family_id: drav1251
 glottolog_family_name: Dravidian
 glottolog_classification: "Dravidian > Central Dravidian > Kolami-Naiki > Southeastern Kolami"
 wikipedia_url: "https://en.wikipedia.org/wiki/Naiki_language"
+translations:
+  - translation_iso: hin
+    name: नेईकी भाषा
+  - translation_iso: jpn
+    name: ナイキー語
+  - translation_iso: zho
+    name: 耐基语
 rolv_dialects:
   - rolv_code: 12145
     language_tag: nit-x-HIS12145

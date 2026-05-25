@@ -1,8 +1,6 @@
 ---
 iso: aog
 name: Angoram
-name_zh: 安戈拉姆语
-name_zh_auto: true
 autonym: Pondo
 alt_names: [Kanda, Maramba, Olem, Sepik No. 1, Tjimundo]
 population: 8220
@@ -16,6 +14,12 @@ glottolog_family_id: lowe1423
 glottolog_family_name: Lower Sepik
 glottolog_classification: "Lower Sepik > Angoram"
 wikipedia_url: "https://en.wikipedia.org/wiki/Angoram_language"
+translations:
+  - translation_iso: kor
+    name: 앙고람어
+  - translation_iso: zho
+    name: 安戈拉姆语
+    auto: true
 rolv_dialects:
   - rolv_code: 13706
     language_tag: aog-x-HIS13706

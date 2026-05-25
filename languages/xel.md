@@ -1,8 +1,6 @@
 ---
 iso: xel
 name: Kelo
-name_zh: 克洛语
-name_zh_auto: true
 autonym: "Kelo-Beni Sheko"
 alt_names: [Ndu-Faa-Keelo, Tornasi]
 population: 200
@@ -16,6 +14,10 @@ glottolog_family_id: east2386
 glottolog_family_name: Eastern Jebel
 glottolog_classification: "Eastern Jebel > Aka-Kelo-Molo > Kelo"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kelo_language"
+translations:
+  - translation_iso: zho
+    name: 克洛语
+    auto: true
 rolv_dialects:
   - rolv_code: 11780
     language_tag: xel-x-HIS11780

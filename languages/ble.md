@@ -1,8 +1,6 @@
 ---
 iso: ble
 name: "Balanta-Kentohe"
-name_zh: 巴兰塔-肯托赫语
-name_zh_auto: true
 autonym: Alante
 alt_names: [Balanda, Balant, Balanta, Balante, Ballante, Belante, Brassa, Bulanda, Frase]
 population: 369000
@@ -15,6 +13,10 @@ glottocode: bala1301
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > North-Central Atlantic > Central Atlantic > Bak > Balanta > Balanta-Kentohe"
+translations:
+  - translation_iso: zho
+    name: 巴兰塔-肯托赫语
+    auto: true
 rolv_dialects:
   - rolv_code: 1677
     language_tag: ble-x-HIS01677

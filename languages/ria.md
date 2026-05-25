@@ -1,8 +1,6 @@
 ---
 iso: ria
 name: Riang (India)
-name_zh: 里昂语(印度)
-name_zh_auto: true
 autonym: Tripuri
 alt_names: [Kau Bru, Reang, Riang, Tipra]
 population: 59000
@@ -17,5 +15,9 @@ glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Brahmaputran > Bodo-Garo > Boroic > Dimasa-Kokborok > Tipperic > Riang (India)"
 wikipedia_url: "https://en.wikipedia.org/wiki/Riang_language_(India)"
+translations:
+  - translation_iso: zho
+    name: 里昂语(印度)
+    auto: true
 ---
 Kokborok (or Tripuri) is a Tibeto-Burman language of the Indian state of Tripura and neighbouring areas of Bangladesh. Its name comes from kók meaning "verbal" or "language" and borok meaning "people" or "human". It is one of the ancient languages of Northeast India.

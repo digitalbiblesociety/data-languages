@@ -1,7 +1,6 @@
 ---
 iso: thd
 name: Kuuk Thaayorre
-name_zh: 庫克薩優里語
 autonym: Behran
 alt_names: [Bohran, "Da:jor", Daiyuri, Dajor, Dayorr, "Dha:yore", "Dha:yorre", Gugudayor, Gugujak, Kokkotaijari, Koko, Koko Daiyuri, Koko Taiyor, Koko Tayorre, Koko Thayorr, Koko yak, Koko-Daiyuri, Koko-Taiyor, Kokotaiyari, Kokotayor, Ku k Thayori, Ku-k Thayori, Kuktayor, Kukudayore, Kuuk Thaayoore, Kuuk Thayorre, Kuuk-Thaayorre, Ku·k Thayori, Taiol, Taior, Taiyor, Tayor, Tayore, Tayorr, Thaayore, Thaayorr, Thaayorre, Thayarre, Thayore, Thayorre]
 population: 210
@@ -15,6 +14,11 @@ glottolog_family_id: pama1250
 glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > Paman > Southwest Pama > Upper Southwest Paman > Thayore"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kuuk_Thaayorre_language"
+translations:
+  - translation_iso: jpn
+    name: クークターヨレ語
+  - translation_iso: zho
+    name: 庫克薩優里語
 rolv_dialects:
   - rolv_code: 25759
     language_tag: thd-x-HIS25759

@@ -1,8 +1,6 @@
 ---
 iso: mng
 name: Eastern Mnong
-name_zh: 东蒙翁语
-name_zh_auto: true
 autonym: Bunong (ឞូន៝ង)
 alt_names: [E Mnong, E. Mnong, Mnong (Eastern), "Mnong, Eastern", Nong, Penong, Rolom]
 population: 30000
@@ -16,6 +14,10 @@ glottolog_family_id: aust1305
 glottolog_family_name: Austroasiatic
 glottolog_classification: "Austroasiatic > Bahnaric > West Bahnaric > South Bahnaric > Mnong-Stieng-Chrau > Mnong > Eastern Mnong"
 wikipedia_url: "https://en.wikipedia.org/wiki/Eastern_Mnong"
+translations:
+  - translation_iso: zho
+    name: 东蒙翁语
+    auto: true
 rolv_dialects:
   - rolv_code: 767
     language_tag: mng-x-HIS00767

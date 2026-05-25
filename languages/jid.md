@@ -1,8 +1,6 @@
 ---
 iso: jid
 name: Bu
-name_zh: 布语
-name_zh_auto: true
 autonym: "Jida-Abu"
 alt_names: [Bu (Kaduna State), Ibut, Jida, Jidda-Abu, Nakare]
 population: 20000
@@ -16,6 +14,10 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Benue-Congo Plateau > Ninzic > Bu"
 wikipedia_url: "https://en.wikipedia.org/wiki/Bu_language"
+translations:
+  - translation_iso: zho
+    name: 布语
+    auto: true
 rolv_dialects:
   - rolv_code: 8388
     language_tag: jid-x-HIS08388

@@ -1,8 +1,6 @@
 ---
 iso: svb
 name: "Ulau-Suain"
-name_zh: 乌劳-苏艾语
-name_zh_auto: true
 autonym: Suain
 population: 2800
 country_id: PG
@@ -15,6 +13,10 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > North New Guinea linkage > Schouten linkage > Siau > Ulau-Suain"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ulau-Suain_language"
+translations:
+  - translation_iso: zho
+    name: 乌劳-苏艾语
+    auto: true
 rolv_dialects:
   - rolv_code: 587
     language_tag: svb-x-HIS00587

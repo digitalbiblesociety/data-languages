@@ -1,8 +1,6 @@
 ---
 iso: xkp
 name: Kabatei
-name_zh: 卡巴特伊语
-name_zh_auto: true
 autonym: Tâti تاتی زبون
 alt_names: [Iran]
 population: null
@@ -15,4 +13,8 @@ glottocode: kaba1276
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Iranian-Nuristani > Iranian > Central Iranian PBS > Central Iranian PB > Northwestern Iranian > Adharic > Tatic > Central Tatic > Taromic > Kabatei"
+translations:
+  - translation_iso: zho
+    name: 卡巴特伊语
+    auto: true
 ---

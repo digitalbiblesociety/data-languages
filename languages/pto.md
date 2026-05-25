@@ -1,8 +1,6 @@
 ---
 iso: pto
 name: "Zo'é"
-name_zh: 佐埃语
-name_zh_auto: true
 autonym: Poturu
 alt_names: [Buré, "Jo'é", Poturujara, Poturú, Putur, Tupí of Cuminapanema, "Zo'e", Zoé, Zoés, zoe]
 population: 150
@@ -16,5 +14,11 @@ glottolog_family_id: tupi1275
 glottolog_family_name: Tupian
 glottolog_classification: "Tupian > Eastern Tupian > Maweti-Guarani > Aweti-Guarani > Tupi-Guarani > Tupi-Guarani Subgroup VIII > Wayampi-Zoe-Emerillon > Zoe-Emerillon > Zo'é"
 wikipedia_url: "https://en.wikipedia.org/wiki/Zo%CA%BC%C3%A9_language"
+translations:
+  - translation_iso: jpn
+    name: ゾエ語
+  - translation_iso: zho
+    name: 佐埃语
+    auto: true
 ---
 Zoʼé (Joʼé) is a Tupian language spoken by the indigenous Zoʼé people of Pará, Brazil. It is close to the Emerillon language.

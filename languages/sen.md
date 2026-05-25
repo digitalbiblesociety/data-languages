@@ -1,8 +1,6 @@
 ---
 iso: sen
 name: Nanerigé Sénoufo
-name_zh: 纳内里格塞努福语
-name_zh_auto: true
 autonym: Naani
 alt_names: [Nandereke, Nandergé, Nanergué, Nanergé, Nanerige Senoufo, "Sénoufo, Nanerigé"]
 population: 50000
@@ -16,5 +14,9 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Senufo > North Senufo > Nanerigé Sénoufo"
 wikipedia_url: "https://en.wikipedia.org/wiki/Nanerig%C3%A9_language"
+translations:
+  - translation_iso: zho
+    name: 纳内里格塞努福语
+    auto: true
 ---
 Nanerigé is a Senufo language spoken in south-western Burkina Faso.

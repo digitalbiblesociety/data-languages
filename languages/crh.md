@@ -1,7 +1,6 @@
 ---
 iso: crh
 name: Crimean Tatar
-name_zh: 克里米亚鞑靼语
 autonym: Crimean
 alt_names: [Crimean Turkish, CrimeanTurkish, Język krymskotatarski, Krim-Tataars, Krime-tatara lingvo, Krimintataarin kieli, Krimtatarische Sprache, Krimtatariska, Krymo totorių kalba, Krymskotatarsko godka, Krymská tatarština, Krımtatar dili, Kırım Tatarcası, Limba tătară crimeeană, Lingua tatara di Crimea, Língua tártara da Crimeia, Qırımtatar tele, Tatar (Crimean), Tatar de Crimée, Tatar de Crimée (Crimée), Tatar de Crimée (Dobroudja), "Tatar, Crimean", Tatareg Crimea, Tatareg Krimea, "Turkish, Crimean", Tàtar de Crimea, Tártaro Crimeano, Tártaro crimeano (Dobruja), Tártaro de Crimea, Tártaru de Crimea, qırım tili, qırımtatar tili, tatar de Crimé, Κριμαϊκή γλώσσα, Кримски јазик, Кримскотатарски език, Кримськотатарська мова, Крым тутарĕсен чĕлхи, Крымская мова, Крымскотатарский язык, крымскотатарский, къырым тили, къырымтатар тили, Ҡырымтатар теле, טטרית של קרים, زبان تاتاری کریمه, قرىم تاتار تىلى, ภาษาตาตาร์ไครเมีย, クリミア・タタール語, 크림 타타르어]
 population: 552740
@@ -16,6 +15,17 @@ glottolog_family_id: turk1311
 glottolog_family_name: Turkic
 glottolog_classification: "Turkic > Common Turkic > Kipchak-Turkestan > Kipchak > Northwest Kipchak > West Kipchak > Crimean Tatar-Urum > Crimeaic > Crimean Tatar"
 wikipedia_url: "https://en.wikipedia.org/wiki/Crimean_Tatar_language"
+translations:
+  - translation_iso: ara
+    name: تتارية القرم
+  - translation_iso: hin
+    name: क्रीमीन तुर्की
+  - translation_iso: jpn
+    name: クリミア・タタール語
+  - translation_iso: kor
+    name: 크림 타타르어
+  - translation_iso: zho
+    name: 克里米亚鞑靼语
 rolv_dialects:
   - rolv_code: 3399
     language_tag: crh-x-HIS03399

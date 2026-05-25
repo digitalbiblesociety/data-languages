@@ -1,7 +1,6 @@
 ---
 iso: frk
 name: Frankish
-name_zh: 古法兰克语
 autonym: Old Franconian
 population: null
 country_id: DE
@@ -10,5 +9,14 @@ status_id: "10"
 latitude: 52.89596
 longitude: 9.98388
 wikipedia_url: "https://en.wikipedia.org/wiki/Frankish_language"
+translations:
+  - translation_iso: ara
+    name: الفرنكية القديمة
+  - translation_iso: jpn
+    name: 古フランク語
+  - translation_iso: kor
+    name: 프랑크어
+  - translation_iso: zho
+    name: 古法兰克语
 ---
 Frankish, also known as Old Franconian or Old Frankish, was the West Germanic language spoken by the Franks between the 4th and 8th century.

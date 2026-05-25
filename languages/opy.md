@@ -1,8 +1,6 @@
 ---
 iso: opy
 name: Ofayé
-name_zh: 奥法耶语
-name_zh_auto: true
 autonym: "Ofaié-Xavante"
 alt_names: [Guachi, Ofaié, Ofaye, Ofayé-Xavante, Opaie, Opaié-Shavante, Opaye, Opaye-Chavante, Opayé]
 population: null
@@ -16,5 +14,9 @@ glottolog_family_id: nucl1710
 glottolog_family_name: Nuclear-Macro-Je
 glottolog_classification: "Nuclear-Macro-Je > Ofayé"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ofay%C3%A9_language"
+translations:
+  - translation_iso: zho
+    name: 奥法耶语
+    auto: true
 ---
 The Ofayé or Opaye language, also Ofaié-Xavante, Opaié-Shavante, is a Macro-Jê language spoken in Mato Grosso do Sul, Brazil, forming an independent branch of the language family. It is spoken by only three of the Ofayé people, though language revitalization efforts are underway.

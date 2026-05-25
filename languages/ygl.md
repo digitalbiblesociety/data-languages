@@ -1,8 +1,6 @@
 ---
 iso: ygl
 name: Yangum Gel
-name_zh: 扬古姆-格尔语
-name_zh_auto: true
 autonym: Aiku
 population: null
 country_id: PG
@@ -14,4 +12,8 @@ glottocode: yang1295
 glottolog_family_id: nucl1708
 glottolog_family_name: Nuclear Torricelli
 glottolog_classification: "Nuclear Torricelli > Wapei-Palei > Central Torricelli > Nuclear Palai > Yangum-Ambrak > Yangum > Yangum Gel"
+translations:
+  - translation_iso: zho
+    name: 扬古姆-格尔语
+    auto: true
 ---

@@ -1,7 +1,6 @@
 ---
 iso: oui
 name: Old Uighur
-name_zh: 回鹘语
 autonym: null
 alt_names: [Old Turkic, Uighur, "Uighur, Old", Uigurisch]
 population: null
@@ -15,5 +14,14 @@ glottolog_family_id: turk1311
 glottolog_family_name: Turkic
 glottolog_classification: "Turkic > Common Turkic > Old Turkic"
 wikipedia_url: "https://en.wikipedia.org/wiki/Old_Uyghur"
+translations:
+  - translation_iso: ara
+    name: اللغة الإيغورية القديمة
+  - translation_iso: jpn
+    name: 古ウイグル語
+  - translation_iso: kor
+    name: 고대 위구르어
+  - translation_iso: zho
+    name: 回鹘语
 ---
 Old Uyghur was a Turkic language spoken in Qocho from the 9th–14th centuries as well as in Gansu.

@@ -1,8 +1,6 @@
 ---
 iso: boo
 name: Tiemacèwè Bozo
-name_zh: 提埃马塞韦博佐语
-name_zh_auto: true
 autonym: Boso
 alt_names: ["Bozo, Tiemacèwè", "Bozo, Tièma Cièwè", Tiemacewe Bozo, Tièma Cièwè, Tié]
 population: 1315
@@ -15,4 +13,8 @@ glottocode: tiem1235
 glottolog_family_id: mand1469
 glottolog_family_name: Mande
 glottolog_classification: "Mande > Western Mande > Northwestern Mande > Soninke-Bozo > Bozo > Nuclear Bozo > Ti-Bozo > Tiemacèwè Bozo"
+translations:
+  - translation_iso: zho
+    name: 提埃马塞韦博佐语
+    auto: true
 ---

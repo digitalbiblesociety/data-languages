@@ -1,8 +1,6 @@
 ---
 iso: gbp
 name: "Gbaya-Bossangoa"
-name_zh: 加巴亚-博桑戈阿语
-name_zh_auto: true
 autonym: Gbaya de Bosangoa
 alt_names: [Gbaya, Gbaya of Borro, Gbaya of Bossangoa, Gbaya-Borro, Gbea, Gbeya, Gbeya Bossangoa, Gbeya-Bossangoa]
 population: 200000
@@ -15,6 +13,12 @@ glottocode: gbay1287
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Gbaya-Manza-Ngbaka > Gbaya Meridional-Occidental > Bokoto-Gbeya > Gbeya > Gbeya-Suma > Gbaya-Bossangoa"
+translations:
+  - translation_iso: jpn
+    name: グバヤ＝ボサンゴア語
+  - translation_iso: zho
+    name: 加巴亚-博桑戈阿语
+    auto: true
 rolv_dialects:
   - rolv_code: 10133
     language_tag: gbp-x-HIS10133

@@ -1,8 +1,6 @@
 ---
 iso: kzo
 name: Kaningi
-name_zh: 卡宁基语
-name_zh_auto: true
 autonym: Lekaningi
 alt_names: [Bakanike]
 population: 6000
@@ -16,5 +14,9 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > Central-Western Bantu > West-Coastal Bantu > Nzadic > Lweric > Dingic > Loange-Atlantic > Kwilu-Ngounie > Kasai-Ngounie > Moyen Kasai-Ngounie > Interior Kasai-Ngounie > West Kasai-Ngounie > Northwest Kasai-Ngounie > Mbere (B.60) > Tsitsekeic > Lekaningic > Kaningi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kaning%27i_language"
+translations:
+  - translation_iso: zho
+    name: 卡宁基语
+    auto: true
 ---
 Kaningi (Kaning'i) is a Bantu language spoken in Gabon. Speakers live in villages scattered among other peoples; the Bongo pygmies speak a distinct dialect.

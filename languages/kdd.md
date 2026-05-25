@@ -1,7 +1,6 @@
 ---
 iso: kdd
 name: Yankunytjatjara
-name_zh: 揚庫因賈賈拉語
 autonym: Jangkundjara
 alt_names: ["'Everard Range Tribe'", "'Everard Range Tribe’", Alinjera, Ankundjara, Everard Range Tribe, "Everard Range Tribe'", Jan gundjara, Jan kundjadjara, Jan kundjindjara, Jan-kundjadjara, Jan-kundjindjara, Janggunadjara, Janggundjara, Jangkudjara, Jangkundjadjara, Jangkuntjarra, Jangundjara, Jangwundjara, Jankundjadjara, Jankundjara, Jankundjindjara, Jankuntjatara, Jankuntjatjara, Jankunzazara, Jankunzazzara, Kaltjilandjara, Kulpantja, Nan kundjara, Nan-kundjara, Nankundjara, Wirtjapakandja, Wirtjapokandja, Yangkundjara, Yangkuntjatjara, Yangundjadjara, Yangundjara, Yangundyadyara, Yankundyari, Yankunjara, Yankunjtjatjarra, Yankuntachara, Yankuntatjara, Yankuntjara, Yankuntjatjara, Yankuntjatjarra]
 population: 600
@@ -15,5 +14,10 @@ glottolog_family_id: pama1250
 glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > Desert Nyungic > Wati > Pintupic > Nuclear Pintupic > Wangkatja-Tjarra > Tjarra > Yankunytjatjara"
 wikipedia_url: "https://en.wikipedia.org/wiki/Yankunytjatjara_dialect"
+translations:
+  - translation_iso: jpn
+    name: ヤンクニチャチャラ語
+  - translation_iso: zho
+    name: 揚庫因賈賈拉語
 ---
 Yankunytjatjara is an Australian Aboriginal language. It is one of the Wati languages, belonging to the large Pama–Nyungan family. It is one of the many varieties of the Western Desert Language, all of which are mutually intelligible.

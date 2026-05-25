@@ -1,8 +1,6 @@
 ---
 iso: mcy
 name: South Watut
-name_zh: 南瓦图特语
-name_zh_auto: true
 autonym: null
 alt_names: ["Watut, South"]
 population: 890
@@ -15,6 +13,10 @@ glottocode: sout2877
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > North New Guinea linkage > Huon Gulf > Markham > Watut > South Watut"
+translations:
+  - translation_iso: zho
+    name: 南瓦图特语
+    auto: true
 rolv_dialects:
   - rolv_code: 18232
     language_tag: mcy-x-HIS18232

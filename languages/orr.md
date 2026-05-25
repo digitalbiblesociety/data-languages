@@ -1,8 +1,6 @@
 ---
 iso: orr
 name: Oruma
-name_zh: 奥鲁玛语
-name_zh_auto: true
 autonym: null
 alt_names: [Ịjọ]
 population: 5000
@@ -16,5 +14,9 @@ glottolog_family_id: ijoi1239
 glottolog_family_name: Ijoid
 glottolog_classification: "Ijoid > Ijo > Western Ijo > Inland Ijo > Oruma"
 wikipedia_url: "https://en.wikipedia.org/wiki/Oruma_language"
+translations:
+  - translation_iso: zho
+    name: 奥鲁玛语
+    auto: true
 ---
 Oruma is one of three small Inland Ijaw languages of Nigeria. According to Ethnologue, it is not fully intelligible with other varieties of Inland Ijaw.

@@ -1,8 +1,6 @@
 ---
 iso: uiv
 name: Iyive
-name_zh: 依维维语
-name_zh_auto: true
 autonym: Uive
 alt_names: [Asumbo, Ndir, Yiive]
 population: 1000
@@ -16,6 +14,10 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Tivoid > Central Tivoid > Central Tivoid A > Tiv-Evand > Tiv-Iyive-Otanga > Iyive"
 wikipedia_url: "https://en.wikipedia.org/wiki/Iyive_language"
+translations:
+  - translation_iso: zho
+    name: 依维维语
+    auto: true
 rolv_dialects:
   - rolv_code: 2105
     language_tag: uiv-x-HIS02105

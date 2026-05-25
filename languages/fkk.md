@@ -1,8 +1,6 @@
 ---
 iso: fkk
 name: "Kirya-Konzəl"
-name_zh: 基尔亚-康泽语
-name_zh_auto: true
 autonym: Fali
 population: 5800
 country_id: NG
@@ -15,6 +13,10 @@ glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > Biu-Mandara > North Biu-Mandara > Higic > Nkafa-Kirya-Bana > Nkafa-Kirya > Kirya-Konzel"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kirya-Konz%C9%99l_language"
+translations:
+  - translation_iso: zho
+    name: 基尔亚-康泽语
+    auto: true
 rolv_dialects:
   - rolv_code: 27440
     language_tag: fkk-x-HIS27440

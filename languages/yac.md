@@ -1,8 +1,6 @@
 ---
 iso: yac
 name: Pass Valley Yali
-name_zh: 帕斯-瓦利-亚里语
-name_zh_auto: true
 autonym: Yalimo
 alt_names: [Abendago, North Ngalik, Pass Valley, Western Yali, Yali, "Yali, Pass Valley", Yaly]
 population: 5000
@@ -15,6 +13,10 @@ glottocode: pass1247
 glottolog_family_id: nucl1709
 glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Dani > Ngalik-Nduga > Yalic > Pass Valley Yali"
+translations:
+  - translation_iso: zho
+    name: 帕斯-瓦利-亚里语
+    auto: true
 rolv_dialects:
   - rolv_code: 18429
     language_tag: yac-x-HIS18429

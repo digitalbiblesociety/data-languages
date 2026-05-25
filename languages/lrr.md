@@ -1,8 +1,6 @@
 ---
 iso: lrr
 name: Southern Yamphu
-name_zh: 南扬普语
-name_zh_auto: true
 autonym: Loharung
 alt_names: [Balai, Lohorong, Lohrung, Lohrung Khap, Lohrung Khate, Lorung, "Lorung, Southern", "Lorung,Southern", Lōhōrōng, Southern, Southern Lorung, Yakkhaba Lorung, "Yamphu, Southern"]
 population: 1250
@@ -15,4 +13,8 @@ glottocode: sout2734
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Himalayish > Mahakiranti > Kiranti > Eastern Kiranti > Upper Arun > Lohorung-Yamphu > Yamphuic > Southern Yamphu"
+translations:
+  - translation_iso: zho
+    name: 南扬普语
+    auto: true
 ---

@@ -1,7 +1,6 @@
 ---
 iso: mvi
 name: Miyako
-name_zh: 宮古語
 autonym: 宮古口/ミャークフツ Myākufutsu
 alt_names: [Idioma miyako, Ikimatsu, Miyako-Sprache, Miyakoeg, Ryukyuan, Saskishima, Saskisima, Southern Ryukyuan, ภาษามิยาโกะ, ミャークフツ, 宮古方言, 宮古語]
 population: 67000
@@ -15,6 +14,13 @@ glottolog_family_id: japo1237
 glottolog_family_name: Japonic
 glottolog_classification: "Japonic > Ryukyuan > Southern Ryukyu > Miyako"
 wikipedia_url: "https://en.wikipedia.org/wiki/Miyakoan_language"
+translations:
+  - translation_iso: jpn
+    name: 宮古語
+  - translation_iso: kor
+    name: 미야코어
+  - translation_iso: zho
+    name: 宮古語
 rolv_dialects:
   - rolv_code: 14137
     language_tag: mvi-x-HIS14137

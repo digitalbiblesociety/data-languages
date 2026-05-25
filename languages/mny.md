@@ -1,8 +1,6 @@
 ---
 iso: mny
 name: Manyawa
-name_zh: 曼亚瓦语
-name_zh_auto: true
 autonym: Emakuana
 alt_names: [Mozambique]
 population: 219000
@@ -15,4 +13,8 @@ glottocode: many1259
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > East Bantu > North Mozambique Bantu > Manyawa"
+translations:
+  - translation_iso: zho
+    name: 曼亚瓦语
+    auto: true
 ---

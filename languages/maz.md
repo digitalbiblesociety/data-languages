@@ -1,7 +1,6 @@
 ---
 iso: maz
 name: Central Mazahua
-name_zh: 馬薩瓦語
 autonym: Jñatjo (mmc)Jñatrjo (maz)
 alt_names: [Masawa, Mazahua, Mazahua Central, "Mazahua, Central"]
 population: 147000
@@ -16,6 +15,9 @@ glottolog_family_id: otom1299
 glottolog_family_name: Otomanguean
 glottolog_classification: "Otomanguean > Western Otomanguean > Otopame-Chinantecan > Otopamean > Otomian > Mazahua > Central Mazahua"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mazahua_language"
+translations:
+  - translation_iso: zho
+    name: 馬薩瓦語
 rolv_dialects:
   - rolv_code: 13868
     language_tag: maz-x-HIS13868

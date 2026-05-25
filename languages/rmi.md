@@ -1,7 +1,6 @@
 ---
 iso: rmi
 name: Lomavren
-name_zh: 羅美語
 autonym: Armenian Bosa
 alt_names: [Areminian Romany, Armenian Bosha, Arnebuab Bisa, Bosa, Bosha, Lomavrenski, Ломаврен, Լոմավրեն, ლომავრენი]
 population: 50
@@ -15,5 +14,8 @@ glottolog_family_id: spee1234
 glottolog_family_name: Speech Register
 glottolog_classification: "Speech Register > Indo-European Speech Register > Lomavren"
 wikipedia_url: "https://en.wikipedia.org/wiki/Lomavren_language"
+translations:
+  - translation_iso: zho
+    name: 羅美語
 ---
 Lomavren is a nearly extinct mixed language spoken by the Lom people, that arose from language contact between a language related to Romani and Domari and the Armenian language. The language is also known as Bosa and Bosha.

@@ -1,8 +1,6 @@
 ---
 iso: nxx
 name: Nafri
-name_zh: 纳夫里语
-name_zh_auto: true
 autonym: bahasa Nafri
 alt_names: [Indonesia]
 population: 1630
@@ -16,5 +14,9 @@ glottolog_family_id: sent1261
 glottolog_family_name: Sentanic
 glottolog_classification: "Sentanic > Nuclear Sentanic > Sentani-Nafri > Nafri"
 wikipedia_url: "https://en.wikipedia.org/wiki/Nafri_language"
+translations:
+  - translation_iso: zho
+    name: 纳夫里语
+    auto: true
 ---
 Nafri is a Papuan language of Papua, Indonesia. It is spoken in Nafri village on southeast Yotafa Bay in Abepura District, Jayapura Regency.

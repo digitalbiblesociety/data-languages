@@ -1,7 +1,6 @@
 ---
 iso: ddo
 name: Dido
-name_zh: 切兹语
 autonym: цезйас мец (cezyas mec)
 alt_names: [Cez, Ceza lingvo, Cezišćina, Dido (Tsez), Didoera, Didoi, Didon kieli, Idioma tsez, Língua tsez, Tsesische Sprache, Tsez, Tsez dili, Tsez language, Tsezeg, Tsezy, Tsuntin, cez mec, cezyas mec, Цезички јазик, Цезки език, Цезька мова, цез мец, цезйас мец, цезский язык, დიდოური ენა]
 population: 20000
@@ -15,6 +14,13 @@ glottolog_family_id: nakh1245
 glottolog_family_name: Nakh-Daghestanian
 glottolog_classification: "Nakh-Daghestanian > Daghestanian > Avar-Andic-Tsezic > Tsezic > West Tsezic > Tsez"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tsez_language"
+translations:
+  - translation_iso: jpn
+    name: ツェズ語
+  - translation_iso: kor
+    name: 체즈어
+  - translation_iso: zho
+    name: 切兹语
 rolv_dialects:
   - rolv_code: 9256
     language_tag: ddo-x-HIS09256

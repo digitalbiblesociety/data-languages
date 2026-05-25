@@ -1,7 +1,6 @@
 ---
 iso: afb
 name: Gulf Arabic
-name_zh: 海湾阿拉伯语
 autonym: خليجي
 alt_names: [Arabe du Golfe, Arabeg ar Pleg-mor, Arabic, Arabic (Eastern), Arabic (Gulf), "Arabic, Gulf", "Arabic, Gulf Spoken", Bedawi, Eastern Arabian, Gulf Spoken, Język arabski rejonu Zatoki Perskiej, Khaliji, Omani Bedawi Arabic, Qatari, Zaljevski arapski, Заливски арапски јазик, لهجة خليجية, வளைகுடா அரபு மொழி, ภาษาอาหรับอ่าว]
 population: 10515000
@@ -15,6 +14,15 @@ glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Semitic > West Semitic > Central Semitic > Arabian > Arabic > Arabian Peninsula Arabic > North Arabian Beduin Arabic > Gulf Arabic"
 wikipedia_url: "https://en.wikipedia.org/wiki/Gulf_Arabic"
+translations:
+  - translation_iso: ara
+    name: لهجة خليجية
+  - translation_iso: jpn
+    name: アラビア語湾岸方言
+  - translation_iso: kor
+    name: 걸프 아랍어
+  - translation_iso: zho
+    name: 海湾阿拉伯语
 rolv_dialects:
   - rolv_code: 7090
     language_tag: afb-x-HIS07090

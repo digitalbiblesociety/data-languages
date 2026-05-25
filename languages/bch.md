@@ -1,8 +1,6 @@
 ---
 iso: bch
 name: Bariai
-name_zh: 巴里艾语
-name_zh_auto: true
 autonym: Kabana
 alt_names: ["\"Kabana\"", Barriai]
 population: 1400
@@ -16,5 +14,11 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > North New Guinea linkage > Ngero-Vitiaz linkage > Ngero > Eastern Ngero > Bariai"
 wikipedia_url: "https://en.wikipedia.org/wiki/Bariai_language"
+translations:
+  - translation_iso: jpn
+    name: バリアイ語
+  - translation_iso: zho
+    name: 巴里艾语
+    auto: true
 ---
 Bariai is an Austronesian language of New Britain.

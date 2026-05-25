@@ -1,8 +1,6 @@
 ---
 iso: tbi
 name: Gaam
-name_zh: 盖亚姆语
-name_zh_auto: true
 autonym: Ingessana
 alt_names: ["Gaam, Tabi", Ingassana, Kamanidi, Mamedja, Mamidza, Metabi, Muntabi, Tabi, Tabi (Ingessana)]
 population: 104000
@@ -16,6 +14,10 @@ glottolog_family_id: east2386
 glottolog_family_name: Eastern Jebel
 glottolog_classification: "Eastern Jebel > Gaam"
 wikipedia_url: "https://en.wikipedia.org/wiki/Gaam_language"
+translations:
+  - translation_iso: zho
+    name: 盖亚姆语
+    auto: true
 rolv_dialects:
   - rolv_code: 28580
     language_tag: tbi-x-HIS28580

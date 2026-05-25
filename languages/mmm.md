@@ -1,8 +1,6 @@
 ---
 iso: mmm
 name: Maii
-name_zh: 玛伊语
-name_zh_auto: true
 autonym: Mkir
 alt_names: [Mae-Morae, Mafilau]
 population: 180
@@ -16,5 +14,9 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > North and Central Vanuatu > Central Vanuatu > Epi-Efate > Epi > Bieria-Maii > Maii"
 wikipedia_url: "https://en.wikipedia.org/wiki/Maii_language"
+translations:
+  - translation_iso: zho
+    name: 玛伊语
+    auto: true
 ---
 Maii (Mae) is an Oceanic language spoken on Epi Island, in Vanuatu.

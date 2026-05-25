@@ -1,8 +1,6 @@
 ---
 iso: clj
 name: Laitu Chin
-name_zh: 来图钦语
-name_zh_auto: true
 autonym: Daitu
 alt_names: ["Chin, Laitu"]
 population: 15000
@@ -10,6 +8,10 @@ country_id: MM
 country_name: Myanmar
 status_id: 6a
 wikipedia_url: "https://en.wikipedia.org/wiki/Laitu_language"
+translations:
+  - translation_iso: zho
+    name: 来图钦语
+    auto: true
 rolv_dialects:
   - rolv_code: 24651
     language_tag: clj-x-HIS24651

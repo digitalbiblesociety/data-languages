@@ -1,7 +1,6 @@
 ---
 iso: btd
 name: Batak Dairi
-name_zh: 巴塔克戴笠语
 autonym: Kata Pakpak
 alt_names: [Dairi, Pakpak, Pakpak Dairi]
 population: 1200000
@@ -15,6 +14,11 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Sumatran > Batakic > Northern Batak > Batak Dairi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Pakpak_language"
+translations:
+  - translation_iso: jpn
+    name: バタク・ダイリ語
+  - translation_iso: zho
+    name: 巴塔克戴笠语
 rolv_dialects:
   - rolv_code: 4692
     language_tag: btd-x-HIS04692

@@ -1,8 +1,6 @@
 ---
 iso: qud
 name: Calderón Highland Quichua
-name_zh: 卡尔德隆高地基楚亚语
-name_zh_auto: true
 autonym: Kichwa Shimi
 alt_names: ["\"quichua (Cotopaxi, Tungurahua et Chimborazo)\"", Calderon, Calderon Highland Quichua, Calderón, Calderón Quichua, Cayambe Quichua, Cañar Highland Quichua, Chimborazo, Cotopaxi Quichua., Ecuador, Ecuador Quechua, Highland Ecuadorian Quichua, Highland Kichua, Imbabura Quichua, Kichua, Loja, Napo Quichua, Northern Pastaza Quichua, Pichincha Quichua, Quichua, Quichua (Cañar et Azuay), Quichua (Imbabura), Quichua (Loja), Quichua (Napo), Quichua (Pastaza), Quichua (Salasaca), "Quichua, Calderón Highland", Salasca, Tena Quichua]
 population: 25000
@@ -15,6 +13,10 @@ glottocode: cald1236
 glottolog_family_id: quec1387
 glottolog_family_name: Quechuan
 glottolog_classification: "Quechuan > Colombia-Ecuador Quechua > Ecuadorian Quechua A > Calderón Highland Quichua"
+translations:
+  - translation_iso: zho
+    name: 卡尔德隆高地基楚亚语
+    auto: true
 rolv_dialects:
   - rolv_code: 21208
     language_tag: qud-x-HIS21208

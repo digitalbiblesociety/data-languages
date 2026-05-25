@@ -1,8 +1,6 @@
 ---
 iso: sxw
 name: Saxwe Gbe
-name_zh: 萨克韦格贝语
-name_zh_auto: true
 autonym: Tsáphɛ
 alt_names: ["Gbe, Saxwe", Saxwe, Saxwe-Gbe]
 population: 284000
@@ -16,6 +14,10 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Kwa Volta-Congo > Gbe > Eastern Gbe > Western Phla-Phera > Saxwe Gbe"
 wikipedia_url: "https://en.wikipedia.org/wiki/Saxwe_language"
+translations:
+  - translation_iso: zho
+    name: 萨克韦格贝语
+    auto: true
 rolv_dialects:
   - rolv_code: 26490
     language_tag: sxw-x-HIS26490

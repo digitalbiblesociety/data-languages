@@ -1,8 +1,6 @@
 ---
 iso: gly
 name: Gule
-name_zh: 古莱语
-name_zh_auto: true
 autonym: Anej
 alt_names: [Fecakomodiyo, Hamej]
 population: null
@@ -13,5 +11,13 @@ latitude: 11.83364
 longitude: 33.69291
 glottocode: gule1241
 wikipedia_url: "https://en.wikipedia.org/wiki/Gule_language"
+translations:
+  - translation_iso: ara
+    name: لغة جولي
+  - translation_iso: jpn
+    name: グレ語
+  - translation_iso: zho
+    name: 古莱语
+    auto: true
 ---
 Gule, also known as Anej, Fecakomodiyo, and Hamej, is an extinct language of Sudan. Although it has been classified as one of the Koman languages, Zamponi (2026) unambiguously identifies Gule as a language isolate. It is poorly attested, and Hammarström judges the evidence to be insufficient for classification as Koman. Others however accept it as Koman, though too poorly attested to be much help in reconstructing that family.

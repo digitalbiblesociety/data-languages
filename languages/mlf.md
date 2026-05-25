@@ -1,7 +1,6 @@
 ---
 iso: mlf
 name: Mal
-name_zh: 马勒语
 autonym: Thin
 alt_names: ["Ht'in", Htin, Khatin, Madl, "T'in", Tin]
 population: 26700
@@ -15,6 +14,11 @@ glottolog_family_id: aust1305
 glottolog_family_name: Austroasiatic
 glottolog_classification: "Austroasiatic > Khmuic > Phay-Pram > Tinic > Tin > Mal"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mal_language"
+translations:
+  - translation_iso: jpn
+    name: マル語
+  - translation_iso: zho
+    name: 马勒语
 rolv_dialects:
   - rolv_code: 2041
     language_tag: mlf-x-HIS02041

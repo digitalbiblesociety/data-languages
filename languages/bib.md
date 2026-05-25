@@ -1,8 +1,6 @@
 ---
 iso: bib
 name: Bissa
-name_zh: 比萨语
-name_zh_auto: true
 autonym: Bisan
 alt_names: [Bisa]
 population: 781000
@@ -16,6 +14,12 @@ glottolog_family_id: mand1469
 glottolog_family_name: Mande
 glottolog_classification: "Mande > Eastern Mande > Bisa-Busa > Bissa"
 wikipedia_url: "https://en.wikipedia.org/wiki/Bissa_language"
+translations:
+  - translation_iso: kor
+    name: 비사어
+  - translation_iso: zho
+    name: 比萨语
+    auto: true
 rolv_dialects:
   - rolv_code: 4891
     language_tag: bib-x-HIS04891

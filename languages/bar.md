@@ -1,7 +1,6 @@
 ---
 iso: bar
 name: Bavarian
-name_zh: 奥地利-巴伐利亚德语
 autonym: Boarisch
 alt_names: [Austro-Bavarian language, Baiersch, Bairisch, Bairische Dialekte, Bairisk, Bavara lingvo, Bavares, Bavarian Austrian, Bavariera, Bavarois, Bavarès, Bayerisch, Bayerska, Beiers, Beiers-Oosterieks, Beierse taal, Bávaro, German, German (Bavarian), German (Upper Austrian), German (Viennese), Idioma austro-bávaro, Język bawarski, Lingua Bavarica, Lingua bavarese, Lingua bávara, Lèngoa bavareise, Língua bávara, O-thi-li Pâ-vî-li-â-ngî, Ost-Oberdeutsch, Yezhoù aostriek-bavarek, Австро-баварски езици, Баварский диалект, バイエルン・オーストリア語, 奥地利-巴伐利亚语]
 population: 14100000
@@ -16,6 +15,17 @@ glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Germanic > Northwest Germanic > West Germanic > High German > Upper German > Middle-Modern High German > Modern High German > Bairisch > Bavarian"
 wikipedia_url: "https://en.wikipedia.org/wiki/Bavarian_language"
+translations:
+  - translation_iso: ara
+    name: البوارية
+  - translation_iso: hin
+    name: बोआरिश्च भाषा
+  - translation_iso: jpn
+    name: バイエルン・オーストリア語
+  - translation_iso: kor
+    name: 오스트로바이에른어
+  - translation_iso: zho
+    name: 奥地利-巴伐利亚德语
 rolv_dialects:
   - rolv_code: 3202
     language_tag: bar-x-HIS03202

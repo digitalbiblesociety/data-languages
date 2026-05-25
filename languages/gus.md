@@ -1,8 +1,6 @@
 ---
 iso: gus
 name: Guinean Sign Language
-name_zh: 几内亚手语
-name_zh_auto: true
 autonym: Lenguaje de Señas Bolivianas LSB
 population: 64000
 country_id: GN
@@ -14,4 +12,10 @@ glottocode: guin1250
 glottolog_family_id: sign1238
 glottolog_family_name: Sign Language
 glottolog_classification: "Sign Language > L1 Sign Language > LSFic > ASLic > Guinean Sign Language"
+translations:
+  - translation_iso: jpn
+    name: ギニア手話
+  - translation_iso: zho
+    name: 几内亚手语
+    auto: true
 ---

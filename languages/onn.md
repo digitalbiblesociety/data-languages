@@ -1,8 +1,6 @@
 ---
 iso: onn
 name: Onobasulu
-name_zh: 奥诺巴苏鲁语
-name_zh_auto: true
 autonym: Onabasulu
 population: 700
 country_id: PG
@@ -15,5 +13,9 @@ glottolog_family_id: bosa1245
 glottolog_family_name: Bosavi
 glottolog_classification: "Bosavi > Bosavi Watershed > Onobasulu"
 wikipedia_url: "https://en.wikipedia.org/wiki/Onobasulu_language"
+translations:
+  - translation_iso: zho
+    name: 奥诺巴苏鲁语
+    auto: true
 ---
 Onobasulu is a Papuan language of Papua New Guinea, primarily spoken in the province of Southern Highlands Half of its speakers are monolingual.

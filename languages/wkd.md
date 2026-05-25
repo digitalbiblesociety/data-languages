@@ -1,8 +1,6 @@
 ---
 iso: wkd
 name: Wakde
-name_zh: 瓦克德语
-name_zh_auto: true
 autonym: Mo
 alt_names: [Indonesia]
 population: 550
@@ -16,6 +14,10 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > North New Guinea linkage > Sarmi-Jayapura Bay > Sarmi > Sobeic > Wakde"
 wikipedia_url: "https://en.wikipedia.org/wiki/Wakde_language"
+translations:
+  - translation_iso: zho
+    name: 瓦克德语
+    auto: true
 rolv_dialects:
   - rolv_code: 1123
     language_tag: wkd-x-HIS01123

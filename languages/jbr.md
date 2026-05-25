@@ -1,8 +1,6 @@
 ---
 iso: jbr
 name: "Jofotek-Bromnya"
-name_zh: 乔弗特克-布罗姆尼亚语
-name_zh_auto: true
 autonym: bahasa Jofotek-Bromnya
 population: 200
 country_id: ID
@@ -15,6 +13,10 @@ glottolog_family_id: toro1256
 glottolog_family_name: Tor-Orya
 glottolog_classification: "Tor-Orya > Tor > Coastal Tor > Jofotek-Bromnya"
 wikipedia_url: "https://en.wikipedia.org/wiki/Jofotek-Bromnya_language"
+translations:
+  - translation_iso: zho
+    name: 乔弗特克-布罗姆尼亚语
+    auto: true
 rolv_dialects:
   - rolv_code: 25861
     language_tag: jbr-x-HIS25861

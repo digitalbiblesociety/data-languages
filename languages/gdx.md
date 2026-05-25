@@ -1,8 +1,6 @@
 ---
 iso: gdx
 name: Godwari
-name_zh: 戈德瓦利语
-name_zh_auto: true
 autonym: गोद्वाली
 alt_names: [India]
 population: 3000000
@@ -16,6 +14,12 @@ glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Indo-Aryan > Middle-Modern Indo-Aryan > Continental Indo-Aryan > Midlands Indo-Aryan > Apabhramsic > Gujarati-Rajasthani > Rajasthani > Mewati-Gojri > Godwari"
 wikipedia_url: "https://en.wikipedia.org/wiki/Godwari_dialect"
+translations:
+  - translation_iso: jpn
+    name: ゴドワリ語
+  - translation_iso: zho
+    name: 戈德瓦利语
+    auto: true
 rolv_dialects:
   - rolv_code: 4802
     language_tag: gdx-x-HIS04802

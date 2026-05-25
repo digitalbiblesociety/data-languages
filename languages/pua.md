@@ -1,8 +1,6 @@
 ---
 iso: pua
 name: Western Highland Purepecha
-name_zh: 西部高地普雷佩查语
-name_zh_auto: true
 autonym: Tarascan
 alt_names: [Idioma purépecha, "P'urhépecha language", Purepecha, "Purepecha, Western Highland", Purépecha, Purépecha del Oeste de las Sierras, Sierra Occidental Purépecha, Tarasco, Taraska simi, Tarasko, Western Highland Purépecha, Пурепеча]
 population: 180000
@@ -15,6 +13,10 @@ glottocode: west2631
 glottolog_family_id: tara1323
 glottolog_family_name: Tarascan
 glottolog_classification: "Tarascan > Western Highland Purepecha"
+translations:
+  - translation_iso: zho
+    name: 西部高地普雷佩查语
+    auto: true
 rolv_dialects:
   - rolv_code: 25387
     language_tag: pua-x-HIS25387

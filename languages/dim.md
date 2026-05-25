@@ -1,8 +1,6 @@
 ---
 iso: dim
 name: Dime
-name_zh: 迪梅语
-name_zh_auto: true
 autonym: Dima
 alt_names: [Dime jezik, Dimme, Dimé, Lenga Dime]
 population: 4785
@@ -16,6 +14,10 @@ glottolog_family_id: sout2845
 glottolog_family_name: South Omotic
 glottolog_classification: "South Omotic > Dime"
 wikipedia_url: "https://en.wikipedia.org/wiki/Dime_language"
+translations:
+  - translation_iso: zho
+    name: 迪梅语
+    auto: true
 rolv_dialects:
   - rolv_code: 3159
     language_tag: dim-x-HIS03159

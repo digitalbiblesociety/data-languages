@@ -1,8 +1,6 @@
 ---
 iso: tpa
 name: Taupota
-name_zh: 陶波塔语
-name_zh_auto: true
 autonym: null
 population: 1280
 country_id: PG
@@ -15,6 +13,12 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > Papuan Tip linkage > Nuclear Papuan Tip linkage > North Papuan Mainland-D'Entrecasteaux linkage > Are-Taupota linkage > Taupota linkage > Nuclear Taupota linkage > Eastern Taupota > Taupota-Waiema > Taupota"
 wikipedia_url: "https://en.wikipedia.org/wiki/Taupota_language"
+translations:
+  - translation_iso: jpn
+    name: タウポタ語
+  - translation_iso: zho
+    name: 陶波塔语
+    auto: true
 rolv_dialects:
   - rolv_code: 2013
     language_tag: tpa-x-HIS02013

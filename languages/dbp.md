@@ -1,8 +1,6 @@
 ---
 iso: dbp
 name: Duwai
-name_zh: 杜瓦伊语
-name_zh_auto: true
 autonym: Eastern Bade
 alt_names: [Evji]
 population: 11400
@@ -16,5 +14,9 @@ glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > West Chadic > West Chadic B > West Chadic B.1 > Duwai"
 wikipedia_url: "https://en.wikipedia.org/wiki/%C6%8Auwai_language"
+translations:
+  - translation_iso: zho
+    name: 杜瓦伊语
+    auto: true
 ---
 Ɗuwai (Dó:aí) is an Afro-Asiatic language spoken in Jigawa and Kano States, Nigeria.

@@ -1,7 +1,6 @@
 ---
 iso: kjv
 name: Kaikavian Literary Language
-name_zh: 卡伊方言
 autonym: kajkavščina / kajkavština / kajkavica
 population: null
 country_id: HR
@@ -14,5 +13,10 @@ glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Balto-Slavic > Slavic > South Slavic > Western South Slavic > Kajkavian"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kajkavian"
+translations:
+  - translation_iso: jpn
+    name: カイ方言
+  - translation_iso: zho
+    name: 卡伊方言
 ---
 Kajkavian is a South Slavic supradialect or language spoken primarily by Croats in much of Central Croatia and Gorski Kotar.

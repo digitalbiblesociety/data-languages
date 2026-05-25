@@ -1,7 +1,6 @@
 ---
 iso: tkn
 name: "Toku-No-Shima"
-name_zh: 德之島語
 autonym: シマユミィタShimayumiita
 alt_names: [Ryukyuan, Tokunosima]
 population: 5100
@@ -15,6 +14,13 @@ glottolog_family_id: japo1237
 glottolog_family_name: Japonic
 glottolog_classification: "Japonic > Ryukyuan > Northern Ryukyuan > Amami > Nuclear Amami > Okinoerabu-Tokunoshima > Toku-No-Shima"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tokunoshima_language"
+translations:
+  - translation_iso: jpn
+    name: 徳之島方言
+  - translation_iso: kor
+    name: 도쿠노시마 방언
+  - translation_iso: zho
+    name: 德之島語
 rolv_dialects:
   - rolv_code: 17552
     language_tag: tkn-x-HIS17552

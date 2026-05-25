@@ -1,8 +1,6 @@
 ---
 iso: kpj
 name: Karajá
-name_zh: 卡拉贾语
-name_zh_auto: true
 autonym: Iny rybè
 alt_names: [Caraja, Carajá, Carajás, Chamboa, Javaé, Kaparajá, Karaho, Karaja, Karaja-Shambioá, Karajá language area, Karajá-Xambioá, Xambioá, Ynã]
 population: 3060
@@ -16,6 +14,10 @@ glottolog_family_id: nucl1710
 glottolog_family_name: Nuclear-Macro-Je
 glottolog_classification: "Nuclear-Macro-Je > Karajá"
 wikipedia_url: "https://en.wikipedia.org/wiki/Karaj%C3%A1_language"
+translations:
+  - translation_iso: zho
+    name: 卡拉贾语
+    auto: true
 rolv_dialects:
   - rolv_code: 26045
     language_tag: kpj-x-HIS26045

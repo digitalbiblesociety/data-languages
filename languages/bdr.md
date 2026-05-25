@@ -1,7 +1,6 @@
 ---
 iso: bdr
 name: West Coast Bajau
-name_zh: 西海岸巴瑶语
 autonym: Bajo
 alt_names: ["Bajau, West Coast", Land Bajaw, West Coast Bajao]
 population: 10700
@@ -15,6 +14,13 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Basap-Greater Barito > Greater Barito linkage > Sama-Bajaw > Sulu-Borneo > Borneo Coast Bajaw > West Coast Bajau"
 wikipedia_url: "https://en.wikipedia.org/wiki/West_Coast_Bajau_language"
+translations:
+  - translation_iso: ara
+    name: الساحل الغربي باجاو
+  - translation_iso: jpn
+    name: サマ・バジャウ諸語
+  - translation_iso: zho
+    name: 西海岸巴瑶语
 rolv_dialects:
   - rolv_code: 7564
     language_tag: bdr-x-HIS07564

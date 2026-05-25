@@ -1,8 +1,6 @@
 ---
 iso: kbo
 name: Keliko
-name_zh: 凯利科语
-name_zh_auto: true
 autonym: Kaliko
 alt_names: ["Kaliko-Ma'di", "Ma'di", Maditi]
 population: 42500
@@ -16,6 +14,10 @@ glottolog_family_id: cent2225
 glottolog_family_name: Central Sudanic
 glottolog_classification: "Central Sudanic > Moru-Madi > Central Moru-Madi > Avokayic > Kalikoic > Keliko"
 wikipedia_url: "https://en.wikipedia.org/wiki/Keliko_language"
+translations:
+  - translation_iso: zho
+    name: 凯利科语
+    auto: true
 rolv_dialects:
   - rolv_code: 11398
     language_tag: kbo-x-HIS11398

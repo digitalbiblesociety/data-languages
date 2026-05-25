@@ -1,8 +1,6 @@
 ---
 iso: lmj
 name: West Lembata
-name_zh: 西伦巴塔语
-name_zh_auto: true
 autonym: West Lembata
 alt_names: [Labalekan, "Lembata, West", Mingar]
 population: 8000
@@ -16,5 +14,11 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Bima-Lembata > Flores > Flores-Lembata > Lamaholot Tengah > West Lembata"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mingar_language"
+translations:
+  - translation_iso: jpn
+    name: 西レンバタ語
+  - translation_iso: zho
+    name: 西伦巴塔语
+    auto: true
 ---
 West Lembata, also known as Mingar, is a Central Malayo-Polynesian language of the island of Lembata, east of Flores in Indonesia.

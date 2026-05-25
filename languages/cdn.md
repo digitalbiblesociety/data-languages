@@ -1,8 +1,6 @@
 ---
 iso: cdn
 name: Chaudangsi
-name_zh: 乔当西语
-name_zh_auto: true
 autonym: Bangba Lo
 alt_names: [Bangba Lwo, Bangbani, Chandāngsī, Chanpa Lo, Chaudans Lo, Chaudāngsī, Sauka, Saukas, Shauka, Shaukas, Tsaudangsi, Tśaudangsi]
 population: 1830
@@ -16,5 +14,11 @@ glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Bodic > West Himalayish > Eastern West Himalayish > Pithauragarh > Darma-Byangsi-Chaudangsi > Chaudangsi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Chaudangsi_language"
+translations:
+  - translation_iso: hin
+    name: चौडांगसी भाषा
+  - translation_iso: zho
+    name: 乔当西语
+    auto: true
 ---
 Chaudangsi is a Sino-Tibetan language spoken in the Indian state of Uttarakhand.

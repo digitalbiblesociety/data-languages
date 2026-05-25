@@ -1,8 +1,6 @@
 ---
 iso: bze
 name: Jenaama Bozo
-name_zh: 热纳玛博佐语
-name_zh_auto: true
 autonym: Boso
 alt_names: ["\"Boso\" Bozo", "Bozo, Jenaama", Corogaama, Corogama, Djenaama, Gbunde, Jenama, Nononke, Sarkanci, Sarkawa, Sorko, Sorogaama, Sorogama]
 population: 197000
@@ -16,6 +14,10 @@ glottocode: jena1242
 glottolog_family_id: mand1469
 glottolog_family_name: Mande
 glottolog_classification: "Mande > Western Mande > Northwestern Mande > Soninke-Bozo > Bozo > Nuclear Bozo > Jenaama Bozo"
+translations:
+  - translation_iso: zho
+    name: 热纳玛博佐语
+    auto: true
 rolv_dialects:
   - rolv_code: 8345
     language_tag: bze-x-HIS08345

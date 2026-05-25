@@ -1,8 +1,6 @@
 ---
 iso: myx
 name: Masaaba
-name_zh: 玛萨巴语
-name_zh_auto: true
 autonym: Lumasaba
 alt_names: [Gisu, Język masaba, Lugisu, Língua masaba, Masaba, Masaba language]
 population: 1650000
@@ -17,6 +15,12 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > East Bantu > Northeast Savanna Bantu > Great Lakes Bantu > Greater Luyia > Luyia > Saamia-Wanga-Bukusu > Northern Luyia > Masaaba"
 wikipedia_url: "https://en.wikipedia.org/wiki/Masaba_language"
+translations:
+  - translation_iso: jpn
+    name: マサバ語
+  - translation_iso: zho
+    name: 玛萨巴语
+    auto: true
 rolv_dialects:
   - rolv_code: 997
     language_tag: myx-x-HIS00997

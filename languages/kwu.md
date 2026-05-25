@@ -1,8 +1,6 @@
 ---
 iso: kwu
 name: Kwakum
-name_zh: 克瓦库姆语
-name_zh_auto: true
 autonym: Abakoum
 alt_names: [Abakum, Akpwakum, Bakum, Kpakum, Pakum]
 population: 10000
@@ -16,6 +14,10 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > Bantu A-B10-B20-B30 > Makaa-Kako (A.80-90) > Kwakum"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kwakum_language"
+translations:
+  - translation_iso: zho
+    name: 克瓦库姆语
+    auto: true
 rolv_dialects:
   - rolv_code: 27513
     language_tag: kwu-x-HIS27513

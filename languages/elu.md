@@ -1,8 +1,6 @@
 ---
 iso: elu
 name: Elu
-name_zh: 埃卢语
-name_zh_auto: true
 autonym: null
 alt_names: [Admiralitäts-inseln]
 population: 220
@@ -16,5 +14,9 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Admiralty Islands > Eastern Admiralty Islands > Manus > East Manus > Kurti-Kele-Ere > Kurti-Elu > Elu"
 wikipedia_url: "https://en.wikipedia.org/wiki/Elu_language_(Papua_New_Guinea)"
+translations:
+  - translation_iso: zho
+    name: 埃卢语
+    auto: true
 ---
 Elu is an Austronesian language spoken on the northern coast of Manus Island, New Guinea. The usage of the language has been in decline in recent years.

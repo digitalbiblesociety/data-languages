@@ -1,8 +1,6 @@
 ---
 iso: ghn
 name: Ghanongga
-name_zh: 加农加语
-name_zh_auto: true
 autonym: Ganongga
 alt_names: [Kubokota, Kumbokota]
 population: 2510
@@ -16,5 +14,11 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > Meso Melanesian linkage > New Ireland-Northwest Solomonic linkage > St George linkage > Northwest Solomonic > New Georgia > West New Georgia > Simboic > Ghanongga-Lungga > Ghanongga"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ghanongga_language"
+translations:
+  - translation_iso: jpn
+    name: ガノンガ語
+  - translation_iso: zho
+    name: 加农加语
+    auto: true
 ---
 Ghanongga, or Ganoqa, is an Oceanic language spoken by about 2,500 people on the northern half of Ranongga Island, Solomon Islands.

@@ -1,8 +1,6 @@
 ---
 iso: mbv
 name: Mbulungish
-name_zh: 姆布隆吉什语
-name_zh_auto: true
 autonym: Baga Foré
 alt_names: [Baga Monson, Black Baga, Bulunits, Longich, Monchon, Monshon]
 population: 5000
@@ -16,5 +14,9 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > North-Central Atlantic > Naluic > Mbulungish"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mbulungish_language"
+translations:
+  - translation_iso: zho
+    name: 姆布隆吉什语
+    auto: true
 ---
 Mbulungish is a Rio Nunez language of Guinea. Its various names include Baga Foré, Baga Monson, Black Baga, Bulunits, Longich, Monchon, Monshon. Wilson (2007) also lists the names Baga Moncõ. The language is called Ciloŋic (ci-lɔŋic) by its speakers, who refer to themselves as the Buloŋic (bu-lɔŋic).

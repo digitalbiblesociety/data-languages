@@ -1,7 +1,6 @@
 ---
 iso: zyg
 name: Yang Zhuang
-name_zh: 德靖壯語
 autonym: Dejing
 alt_names: [De-Jing, De-Jing Vernacular of the Southern Dialect of the Zhuang Language, Dejing Zhuang, Gen Yang, Jingxi Zhuang, Nung Giang, Teching, Thu Lao, Tianbao, Tu, Tuhua, Tuliao, Tuzu, Wen-Ma, Wen-Ma Southern Zhuang, Wenma, Yangyu, "Yung-ch'un", Yung-shun, Zhuang, "Zhuang, Yang", Zhuangyu Nanbu fangyan Dejing tuyu]
 population: 765000
@@ -15,6 +14,11 @@ glottolog_family_id: taik1256
 glottolog_family_name: Tai-Kadai
 glottolog_classification: "Tai-Kadai > Kam-Tai > Daic-Beic > Daic > Central-Southwestern Tai > Debao-Jingxi-Nung > Yang Zhuang"
 wikipedia_url: "https://en.wikipedia.org/wiki/Yang_Zhuang_language"
+translations:
+  - translation_iso: jpn
+    name: 徳靖チワン語
+  - translation_iso: zho
+    name: 德靖壯語
 rolv_dialects:
   - rolv_code: 6247
     language_tag: zyg-x-HIS06247

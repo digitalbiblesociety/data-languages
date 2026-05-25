@@ -1,8 +1,6 @@
 ---
 iso: mjc
 name: San Juan Colorado Mixtec
-name_zh: 圣胡安科罗拉多混合语
-name_zh_auto: true
 autonym: Jicaltepec Mixtec
 alt_names: [Misteko, Mixtec, Mixtec (San Juan Colorado), "Mixtec, San Juan Colorado", Mixteco (San Juan Colorado), Mixteco de San Juan Colorado, San Juan Colorado, Southern Misteko, Southern Mixteco]
 population: 5580
@@ -15,4 +13,8 @@ glottocode: sanj1281
 glottolog_family_id: otom1299
 glottolog_family_name: Otomanguean
 glottolog_classification: "Otomanguean > Eastern Otomanguean > Amuzgo-Mixtecan > Mixtecan > Mixtec-Cuicatec > Mixtec > Coast Mixtec > West Coast Mixtec > San Juan Colorado Mixtec"
+translations:
+  - translation_iso: zho
+    name: 圣胡安科罗拉多混合语
+    auto: true
 ---

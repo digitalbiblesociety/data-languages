@@ -1,8 +1,6 @@
 ---
 iso: zrg
 name: Mirgan
-name_zh: 米尔甘语
-name_zh_auto: true
 autonym: Panika
 population: 60000
 country_id: IN
@@ -11,6 +9,10 @@ status_id: 6a
 latitude: 23.43055
 longitude: 81.33599
 wikipedia_url: "https://en.wikipedia.org/wiki/Bhunjia_language_(Halbic)"
+translations:
+  - translation_iso: zho
+    name: 米尔甘语
+    auto: true
 rolv_dialects:
   - rolv_code: 3215
     language_tag: zrg-x-HIS03215

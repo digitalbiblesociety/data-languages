@@ -1,7 +1,6 @@
 ---
 iso: xon
 name: Konkomba
-name_zh: 孔空芭语
 autonym: Likpakpaln
 alt_names: [Kom Komba, Kpankpam, Kpəkpam]
 population: 915700
@@ -15,6 +14,9 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Gur > Central Gur > Northern Central Gur > Bwamu-Oti-Volta > Oti-Volta > Nuclear Oti-Volta > Gurma-Yom-Oti-Volta Occidental > Gurma-Yom-Naudem > Gurma > Gurma B > Konkomba-Gangam > Konkomba"
 wikipedia_url: "https://en.wikipedia.org/wiki/Konkomba_language"
+translations:
+  - translation_iso: zho
+    name: 孔空芭语
 rolv_dialects:
   - rolv_code: 12243
     language_tag: xon-x-HIS12243

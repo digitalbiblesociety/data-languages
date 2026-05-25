@@ -1,8 +1,6 @@
 ---
 iso: kvl
 name: Kayaw
-name_zh: 卡亚语
-name_zh_auto: true
 autonym: Brek
 alt_names: [Bre, Brec, Brek Karen, Brè, Bwe, "Karen, Brek", "Karen,Brek", Laku, Pramano, Pre]
 population: 16600
@@ -16,6 +14,12 @@ glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Karenic > Central Karen > Kayaw-Manu > Brek Karen"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kayaw_language"
+translations:
+  - translation_iso: jpn
+    name: カヤウ語
+  - translation_iso: zho
+    name: 卡亚语
+    auto: true
 rolv_dialects:
   - rolv_code: 5173
     language_tag: kvl-x-HIS05173

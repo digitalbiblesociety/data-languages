@@ -1,8 +1,6 @@
 ---
 iso: kjl
 name: Western Parbate Kham
-name_zh: 西帕巴特卡姆语
-name_zh_auto: true
 autonym: Kham language
 alt_names: [Kham, "Kham, Western Parbate", "Kham,WesternParbate", Kham-Magar, Khamkura, Khams, Magar, Maikoti Kham, Parbate, "Parbate, Western", Proto-Kham, Takale, Takale Kham, Western Parbate]
 population: 24500
@@ -15,6 +13,10 @@ glottocode: west2420
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Himalayish > Mahakiranti > Kham-Magar-Chepang > Kham > Gamale-Parbate > Parbate Kham > Western Parbate Kham"
+translations:
+  - translation_iso: zho
+    name: 西帕巴特卡姆语
+    auto: true
 rolv_dialects:
   - rolv_code: 11919
     language_tag: kjl-x-HIS11919

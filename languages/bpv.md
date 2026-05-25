@@ -1,8 +1,6 @@
 ---
 iso: bpv
 name: Bian Marind
-name_zh: 比安马林德语
-name_zh_auto: true
 autonym: Bian
 alt_names: [Boven Mbian, Boven-Mbian, "Marind, Bian", Northwest Marind]
 population: 2900
@@ -15,4 +13,8 @@ glottocode: bian1251
 glottolog_family_id: anim1240
 glottolog_family_name: Anim
 glottolog_classification: "Anim > Marind-Boazi-Yaqai > Marindic > Bian Marind"
+translations:
+  - translation_iso: zho
+    name: 比安马林德语
+    auto: true
 ---

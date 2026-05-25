@@ -1,8 +1,6 @@
 ---
 iso: jyy
 name: Jaya
-name_zh: 雅亚语
-name_zh_auto: true
 autonym: null
 alt_names: [Yaya]
 population: 2200
@@ -16,5 +14,9 @@ glottolog_family_id: cent2225
 glottolog_family_name: Central Sudanic
 glottolog_classification: "Central Sudanic > Sara-Bongo-Bagirmi > SBB Occidental > Nuclear SBB Occidental > Saraic > Bagirmic > Morom-Jaya-Naba > Jaya"
 wikipedia_url: "https://en.wikipedia.org/wiki/Jaya_language"
+translations:
+  - translation_iso: zho
+    name: 雅亚语
+    auto: true
 ---
 Jaya is a Bongo–Bagirmi language of Chad.

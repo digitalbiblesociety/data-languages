@@ -1,8 +1,6 @@
 ---
 iso: kyy
 name: Kambaira
-name_zh: 坎拜拉语
-name_zh_auto: true
 autonym: null
 population: 140
 country_id: PG
@@ -15,5 +13,9 @@ glottolog_family_id: nucl1709
 glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Kainantu-Goroka > Kainantu > Unclassified Kainantu > Kambaira"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kambaira_language"
+translations:
+  - translation_iso: zho
+    name: 坎拜拉语
+    auto: true
 ---
 Kambaira is a Kainantu language of Papua New Guinea.

@@ -1,7 +1,6 @@
 ---
 iso: ing
 name: "Degexit'an"
-name_zh: 德格斯納格語
 autonym: "Deg Hit'an"
 alt_names: ["\"Ingalik\"", "\"Ingalit\"", Deg Xinag, "Deg Xit'an", Ingalik, Kaiyuh-khotana]
 population: 280
@@ -15,6 +14,9 @@ glottolog_family_id: atha1245
 glottolog_family_name: Athabaskan-Eyak-Tlingit
 glottolog_classification: "Athabaskan-Eyak-Tlingit > Athabaskan-Eyak > Athabaskan > Central Alaska-Yukon Athabaskan > Koyukonic > Degexit'an"
 wikipedia_url: "https://en.wikipedia.org/wiki/Deg_Xinag_language"
+translations:
+  - translation_iso: zho
+    name: 德格斯納格語
 rolv_dialects:
   - rolv_code: 27580
     language_tag: ing-x-HIS27580

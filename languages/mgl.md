@@ -1,8 +1,6 @@
 ---
 iso: mgl
 name: "Maleu-Kilenge"
-name_zh: 玛勒-基伦热语
-name_zh_auto: true
 autonym: "Maleu-Kilenge"
 alt_names: [Idne, Kilenge, Maleu]
 population: 1561
@@ -16,6 +14,12 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > North New Guinea linkage > Ngero-Vitiaz linkage > Vitiaz linkage > Maleu-Kilenge"
 wikipedia_url: "https://en.wikipedia.org/wiki/Maleu-Kilenge_language"
+translations:
+  - translation_iso: jpn
+    name: イドゥネ語
+  - translation_iso: zho
+    name: 玛勒-基伦热语
+    auto: true
 rolv_dialects:
   - rolv_code: 2795
     language_tag: mgl-x-HIS02795

@@ -1,8 +1,6 @@
 ---
 iso: wai
 name: Wares
-name_zh: 瓦雷斯语
-name_zh_auto: true
 autonym: null
 population: 200
 country_id: ID
@@ -15,5 +13,9 @@ glottolog_family_id: unat1236
 glottolog_family_name: Unattested
 glottolog_classification: "Unattested > Tor-Orya (Unattested) > Wares"
 wikipedia_url: "https://en.wikipedia.org/wiki/Wares_language"
+translations:
+  - translation_iso: zho
+    name: 瓦雷斯语
+    auto: true
 ---
 Mawes is a recently extinct Papuan language of Indonesia.

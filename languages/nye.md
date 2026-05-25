@@ -1,8 +1,6 @@
 ---
 iso: nye
 name: Nyengo
-name_zh: 尼恩戈语
-name_zh_auto: true
 autonym: Nhengo
 population: 9380
 country_id: AO
@@ -15,5 +13,9 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > Central-Western Bantu > Greater Luyana > Western Greater Luyana > Simaaic > Nyengo"
 wikipedia_url: "https://en.wikipedia.org/wiki/Nyengo_language"
+translations:
+  - translation_iso: zho
+    name: 尼恩戈语
+    auto: true
 ---
 Nyengo (Nhengo) is a minor Bantu language of Angola.

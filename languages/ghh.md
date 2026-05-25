@@ -1,8 +1,6 @@
 ---
 iso: ghh
 name: Northern Ghale
-name_zh: 北加莱语
-name_zh_auto: true
 autonym: Lila
 alt_names: [Ghale, "Ghale, Northern", "Ghale,Northern"]
 population: 4440
@@ -15,6 +13,10 @@ glottocode: nort2709
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Bodic > Kaike-Ghale-Tamangic > Ghale-Tamangic > Ghale > Nuclear Ghale > Northern Ghale"
+translations:
+  - translation_iso: zho
+    name: 北加莱语
+    auto: true
 rolv_dialects:
   - rolv_code: 10196
     language_tag: ghh-x-HIS10196

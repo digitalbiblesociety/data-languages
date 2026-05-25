@@ -1,7 +1,6 @@
 ---
 iso: bgn
 name: Western Balochi
-name_zh: 西俾路支语
 autonym: بلۏچی  Balòci
 alt_names: ["Balochi, Western", Baloci, Baluchi, Baluci, Balutschi]
 population: 2249850
@@ -16,6 +15,17 @@ glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Iranian-Nuristani > Iranian > Central Iranian PBS > Central Iranian PB > Northwestern Iranian > Balochic > Southern-Western Balochi > Western Balochi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Rakhshani_dialect"
+translations:
+  - translation_iso: ara
+    name: البلوشية الغربية
+  - translation_iso: hin
+    name: पश्चिमी बलोची
+  - translation_iso: jpn
+    name: 西バローチー語
+  - translation_iso: kor
+    name: 서부 발로치어
+  - translation_iso: zho
+    name: 西俾路支语
 rolv_dialects:
   - rolv_code: 855
     language_tag: bgn-x-HIS00855

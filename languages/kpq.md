@@ -1,8 +1,6 @@
 ---
 iso: kpq
 name: "Korupun-Sela"
-name_zh: 科鲁普恩-塞拉语
-name_zh_auto: true
 autonym: Sela
 alt_names: [Kimyal of Korupun, Korapun]
 population: 8000
@@ -16,6 +14,10 @@ glottolog_family_id: nucl1709
 glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Mek > Western Mek > Korupun-Sela"
 wikipedia_url: "https://en.wikipedia.org/wiki/Korupun_language"
+translations:
+  - translation_iso: zho
+    name: 科鲁普恩-塞拉语
+    auto: true
 rolv_dialects:
   - rolv_code: 12292
     language_tag: kpq-x-HIS12292

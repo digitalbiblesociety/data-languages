@@ -1,7 +1,6 @@
 ---
 iso: luz
 name: Southern Luri
-name_zh: 南卢尔语
 autonym: زۊن لٛوْری
 alt_names: [Lor, Lori, Lori-ye Jonubi, Lur, Luri, "Luri, Southern", Ruliy]
 population: 1140000
@@ -16,6 +15,11 @@ glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Iranian-Nuristani > Iranian > Southwestern Iranian > Middle-Modern Persian > Modern Southwestern Iranian > Luric-Dezfulic > Luric > Bakhtiari-Southern Lori > Southern Luri"
 wikipedia_url: "https://en.wikipedia.org/wiki/Southern_Luri_language"
+translations:
+  - translation_iso: jpn
+    name: 南ロル語
+  - translation_iso: zho
+    name: 南卢尔语
 rolv_dialects:
   - rolv_code: 6480
     language_tag: luz-x-HIS06480

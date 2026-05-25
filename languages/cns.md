@@ -1,8 +1,6 @@
 ---
 iso: cns
 name: Central Asmat
-name_zh: 中阿斯玛特语
-name_zh_auto: true
 autonym: Jas
 alt_names: [Asmat, "Asmat, Central", Manowee, Yas]
 population: 7000
@@ -16,6 +14,10 @@ glottolog_family_id: nucl1709
 glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Asmat-Awyu-Ok > Asmat-Kamrau Bay > Asmat-Kamoro > Asmat > Central-Yaosakor Asmat > Central Asmat"
 wikipedia_url: "https://en.wikipedia.org/wiki/Central_Asmat_language"
+translations:
+  - translation_iso: zho
+    name: 中阿斯玛特语
+    auto: true
 rolv_dialects:
   - rolv_code: 1515
     language_tag: cns-x-HIS01515

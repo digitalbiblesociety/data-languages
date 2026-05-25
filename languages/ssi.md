@@ -1,8 +1,6 @@
 ---
 iso: ssi
 name: Sansi
-name_zh: 桑西语
-name_zh_auto: true
 autonym: Sansiboli
 alt_names: [Bhilki]
 population: 80000
@@ -16,6 +14,10 @@ glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Indo-Aryan > Middle-Modern Indo-Aryan > Continental Indo-Aryan > Indo-Aryan Northwestern zone > Sindhi-Lahnda > Greater Panjabic > Eastern Panjabic > Sansi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Sansi_language"
+translations:
+  - translation_iso: zho
+    name: 桑西语
+    auto: true
 rolv_dialects:
   - rolv_code: 16305
     language_tag: ssi-x-HIS16305

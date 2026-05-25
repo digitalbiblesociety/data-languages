@@ -1,8 +1,6 @@
 ---
 iso: krz
 name: Sota Kanum
-name_zh: 索塔卡努姆语
-name_zh_auto: true
 autonym: Sota
 alt_names: [Enkelembu, Kanum, "Kanum, Sota", Kenume, Knwne]
 population: 100
@@ -16,6 +14,10 @@ glottolog_family_id: more1255
 glottolog_family_name: Yam
 glottolog_classification: "Yam > Kanum > Ngkrn-Ngkantr > Sota Kanum"
 wikipedia_url: "https://en.wikipedia.org/wiki/Nggarna_language"
+translations:
+  - translation_iso: zho
+    name: 索塔卡努姆语
+    auto: true
 rolv_dialects:
   - rolv_code: 11540
     language_tag: krz-x-HIS11540

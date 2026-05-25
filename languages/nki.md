@@ -1,8 +1,6 @@
 ---
 iso: nki
 name: Thangal Naga
-name_zh: 坦加尔纳加语
-name_zh_auto: true
 autonym: Thangal Naga
 alt_names: [Khoirao, Khoirao Naga, Koirao, Kolya, Liyāng, Mayangkhang, Miyang-Khang, Miyāng Khāng, Naga, "Naga, Thangal", "Naga,Thangal", Ngari, Thangal, Thanggal, Tukaimi]
 population: 23600
@@ -16,5 +14,11 @@ glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Kuki-Chin-Naga > Zemeic > Thangal Naga"
 wikipedia_url: "https://en.wikipedia.org/wiki/Khoirao_language"
+translations:
+  - translation_iso: hin
+    name: खोईराओ भाषा
+  - translation_iso: zho
+    name: 坦加尔纳加语
+    auto: true
 ---
 Khoirao, also known as Thangal, is a Sino-Tibetan language spoken in Manipur, India. It belongs to the Zemeic branch.

@@ -1,8 +1,6 @@
 ---
 iso: skw
 name: Skepi Creole Dutch
-name_zh: 斯克皮克里奥尔荷兰语
-name_zh_auto: true
 autonym: null
 alt_names: ["Creole Dutch, Skepi", Skepi]
 population: null
@@ -16,6 +14,10 @@ glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Germanic > Northwest Germanic > West Germanic > Macro-Dutch > Middle-Modern Dutch > Modern Dutch > Southwestern Dutch > Zeeuwic > Skepi Creole Dutch"
 wikipedia_url: "https://en.wikipedia.org/wiki/Skepi_Creole_Dutch"
+translations:
+  - translation_iso: zho
+    name: 斯克皮克里奥尔荷兰语
+    auto: true
 rolv_dialects:
   - rolv_code: 16784
     language_tag: skw-x-HIS16784

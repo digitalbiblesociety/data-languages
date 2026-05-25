@@ -1,8 +1,6 @@
 ---
 iso: djf
 name: Djangun
-name_zh: 詹古恩语
-name_zh_auto: true
 autonym: "Adho-Adhom"
 alt_names: [Butju, Changunberries, Chungki, Chunkumberries, Chunkunberry, Chunkunburra, Djandnandi, Djankun, Djungan, Dyangun, Dyangunbari, Gugu Djangun, Gugu Dyangun, Jangun Djanggun, Koko-Mudju, Koko-Tyankun, Kokomutju, Kokotjangun, Kuu Jangkun, Mutju, Mutyu, Ngaigungo, Ngaikungo, Ngaikungo-I, Ngaikungu, Shanganburra]
 population: null
@@ -15,4 +13,8 @@ glottocode: djan1238
 glottolog_family_id: pama1250
 glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > Yimidhirr-Yalanji-Yidinic > Yalandyic > Djangun"
+translations:
+  - translation_iso: zho
+    name: 詹古恩语
+    auto: true
 ---

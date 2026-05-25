@@ -1,8 +1,6 @@
 ---
 iso: cfg
 name: Como Karim
-name_zh: 科莫卡里姆语
-name_zh_auto: true
 autonym: Asom
 alt_names: [Chomo, Kinzimba, Kirim, Kiyu, Nuadhu, Shomo Karim, Shomoh, Shomong]
 population: 11400
@@ -16,5 +14,9 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Jukunoid > Central Jukunoid > Jukun-Mbembe-Wurbo > Wurbo-Wannu > Wurbo > Como Karim"
 wikipedia_url: "https://en.wikipedia.org/wiki/Como_Karim_language"
+translations:
+  - translation_iso: zho
+    name: 科莫卡里姆语
+    auto: true
 ---
 Como Karim is a Jukunoid language of Nigeria.

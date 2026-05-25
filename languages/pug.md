@@ -1,8 +1,6 @@
 ---
 iso: pug
 name: Phuie
-name_zh: 普伊语
-name_zh_auto: true
 autonym: Phuie
 alt_names: [Buguli, Buguri, Phuien, Pougouli, Puguli, Pwa, Pwe, Pwie, Pwien, Pwo]
 population: 14300
@@ -16,5 +14,9 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Gur > Central Gur > Southern Central Gur > Grusi > East-West Grusi > Western Grusi > Phuie"
 wikipedia_url: "https://en.wikipedia.org/wiki/Puguli_language"
+translations:
+  - translation_iso: zho
+    name: 普伊语
+    auto: true
 ---
 Puguli or Phuie (Pwĩẽ) is the language of the Phuo people. It is spoken in Burkina Faso.

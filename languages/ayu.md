@@ -1,8 +1,6 @@
 ---
 iso: ayu
 name: Ayu
-name_zh: 艾语
-name_zh_auto: true
 autonym: Aya
 population: 800
 country_id: NG
@@ -15,5 +13,9 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Benue-Congo Plateau > Ninzic > Ayu"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ayu_language"
+translations:
+  - translation_iso: zho
+    name: 艾语
+    auto: true
 ---
 Ayu is a minor and endangered Plateau language of southern Kaduna State, Middle Belt Nigeria. Its subsequent classification is uncertain, but it may be one of the Ninzic languages. It is not being passed on to many children.

@@ -1,7 +1,6 @@
 ---
 iso: tiy
 name: Tiruray
-name_zh: 蒂鲁雷语
 autonym: Teduray
 alt_names: [Tirurai]
 population: 60500
@@ -15,5 +14,8 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Bilic > Tiruray"
 wikipedia_url: "https://en.wikipedia.org/wiki/Teduray_language"
+translations:
+  - translation_iso: zho
+    name: 蒂鲁雷语
 ---
 Teduray or Tiruray is an Austronesian language of the southern Philippines spoken by the Teduray people, in the Datu Blah T. Sinsuat and Upi municipalities, South Upi municipality, and Lebak municipality.

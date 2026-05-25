@@ -1,8 +1,6 @@
 ---
 iso: lsv
 name: Sivia Sign Language
-name_zh: 西维亚手语
-name_zh_auto: true
 autonym: null
 population: 62
 country_id: PE
@@ -15,5 +13,11 @@ glottolog_family_id: sign1238
 glottolog_family_name: Sign Language
 glottolog_classification: "Sign Language > L1 Sign Language > Sivia Sign Language"
 wikipedia_url: "https://en.wikipedia.org/wiki/Sivia_Sign_Language"
+translations:
+  - translation_iso: hin
+    name: शिविया सांकेतिक भाषा
+  - translation_iso: zho
+    name: 西维亚手语
+    auto: true
 ---
 Sivia Sign Language is the deaf sign language of the Quechua town of Sivia in Peru. It is not related to Peruvian Sign Language.

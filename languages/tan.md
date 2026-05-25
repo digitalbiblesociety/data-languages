@@ -1,8 +1,6 @@
 ---
 iso: tan
 name: Tangale
-name_zh: 坦加莱语
-name_zh_auto: true
 autonym: Tangle
 alt_names: [Tanagale]
 population: 258000
@@ -16,6 +14,10 @@ glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > West Chadic > West Chadic A > West Chadic A.2-3 > West Chadic A.2 > Tangalic > Nuclear Tangalic > Tangale-Kwami-Kupto > Tangale"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tangale_language"
+translations:
+  - translation_iso: zho
+    name: 坦加莱语
+    auto: true
 rolv_dialects:
   - rolv_code: 17189
     language_tag: tan-x-HIS17189

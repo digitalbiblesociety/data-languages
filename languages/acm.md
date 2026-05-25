@@ -1,7 +1,6 @@
 ---
 iso: acm
 name: Mesopotamian Arabic
-name_zh: 美索不達米亞阿拉伯語
 autonym: Iraqi Arabic
 alt_names: [Arabeg Mezopotamia, Arabi, Arabic, Arabic (Eastern), Arabic (Iraqi), "Arabic, Mesopotamian", "Arabic, Mesopotamian Spoken", Bagdahdi Arabic, Baghdadi Arabic, Dialekty mezopotamskie języka arabskiego, Furati, Irakisch-Arabisch, Irakisk arabiska, Mesopotamian, Mesopotamian Gelet Arabic, Mesopotamian Qeltu Arabic, Mesopotamian Spoken, Mezopotamski arapski, "`Arabi", Árabe Iraquí, Árabe iraquiano, Ирачки арапски јазик, لهجة عراقية, ภาษาอาหรับอิรัก, アラビア語イラク方言]
 population: 15700000
@@ -15,6 +14,15 @@ glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Semitic > West Semitic > Central Semitic > Arabian > Arabic > Eastern Arabic > Gilit Mesopotamian Arabic"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mesopotamian_Arabic"
+translations:
+  - translation_iso: ara
+    name: لهجة عراقية
+  - translation_iso: jpn
+    name: アラビア語イラク方言
+  - translation_iso: kor
+    name: 이라크 아랍어
+  - translation_iso: zho
+    name: 美索不達米亞阿拉伯語
 rolv_dialects:
   - rolv_code: 6288
     language_tag: acm-x-HIS06288

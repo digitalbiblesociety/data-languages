@@ -1,8 +1,6 @@
 ---
 iso: atl
 name: Mt. Iraya Agta
-name_zh: 伊拉亚阿格塔山语
-name_zh_auto: true
 autonym: Buhi Agta
 alt_names: [Agta, Agta del Monte Iraya, Agta du Mont Iraya, "Agta, Mt. Iraya", Bikol, Inagta of Mt. Iraya, Itbeg Rugnot, Lake Buhi East, Mount Iraya Agta, Mt. Iraya, Rugnot of Lake Buhi East]
 population: 150
@@ -16,5 +14,9 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Greater Central Philippine > Central Philippine > Bikol > Inagta Bikol > Mt. Iraya Agta"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mount_Iraya_Agta_language"
+translations:
+  - translation_iso: zho
+    name: 伊拉亚阿格塔山语
+    auto: true
 ---
 Mount Iraya Agta is a Bikol language spoken by a semi-nomadic hunter-gatherer Agta (Negrito) people of the Philippines, east of Lake Buhi in Luzon. It is mutually intelligible with Mount Iriga Agta on the other side of the lake.

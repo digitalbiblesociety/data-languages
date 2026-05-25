@@ -1,7 +1,6 @@
 ---
 iso: pcd
 name: Picard
-name_zh: 皮卡第语
 autonym: picard
 alt_names: [Chtimi, Idioma picardo, Język pikardyjski, Lingua picarda, Lingua piccarda, Língua picarda, Pecârd, Picardisch, Picardische Sprache, Picardish, Picardo, Picardsch, Picård, Pikarda franca dialekto, Pikardeg, Pikardesch, Pikardiera, Pikardies, Pikardijski jezik, Pikardische Sprache, Pikardisk, Pikardiska, Rouchi, Пикардски език, Пикардский язык, Пікардійська мова, ピカルディ語]
 population: 700000
@@ -16,6 +15,15 @@ glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Italic > Latino-Faliscan > Latinic > Imperial Latin > Romance > Italo-Western Romance > Western Romance > Shifted Western Romance > Northwestern Shifted Romance > Gallo-Rhaetian > Oil > Central Oil > Picard"
 wikipedia_url: "https://en.wikipedia.org/wiki/Picard_language"
+translations:
+  - translation_iso: ara
+    name: اللغة البيكاردية
+  - translation_iso: jpn
+    name: ピカルディ語
+  - translation_iso: kor
+    name: 피카르디어
+  - translation_iso: zho
+    name: 皮卡第语
 rolv_dialects:
   - rolv_code: 15641
     language_tag: pcd-x-HIS15641

@@ -1,7 +1,6 @@
 ---
 iso: jqr
 name: Jaqaru
-name_zh: 加嘎魯語
 autonym: Tupe
 alt_names: [Aru, Hakaru-Kauki, "Haq'aru", Haqaru, Haqearu, Jaqarú]
 population: 2000
@@ -15,6 +14,11 @@ glottolog_family_id: ayma1253
 glottolog_family_name: Aymaran
 glottolog_classification: "Aymaran > Tupe > Jaqaru"
 wikipedia_url: "https://en.wikipedia.org/wiki/Jaqaru_language"
+translations:
+  - translation_iso: kor
+    name: 하카루어
+  - translation_iso: zho
+    name: 加嘎魯語
 rolv_dialects:
   - rolv_code: 6289
     language_tag: jqr-x-HIS06289

@@ -1,7 +1,6 @@
 ---
 iso: tyv
 name: Tuvinian
-name_zh: 图瓦语
 autonym: тыва дыл
 alt_names: [Bahasa Tuva, Bahasa Tuvan, Diba, Idioma tuvano, Język tuwiński, Karagas, Kök Mungak, Lingua tuva, Lingua tuvana, Língua tuviniana, Sayan Samoyedic, Sojonisch, Sojotisch, South Siberian Turkic, Soyod, Soyon, Soyot, Tannu-Tuva, Toevaans, Tofa, Tokha, Touvain, Tuba, Tuva, Tuva lingvo, Tuva-Uriankhai, Tuvaca, Tuvaeg, Tuvan, Tuvan kieli, Tuvan language, Tuvanski jezik, Tuvia, Tuvin, Tuvinisch, Tuvinià, Tuvinsk, Tuvinsk språk, Tuvinska, Tuvių kalba, Tuwa, Tuwa-Uriankhai, Tuwinische Sprache, Tyva, Tyvan, Túvais, Uriangkhai, Uriankhai, Uriankhai-Monchak, Urjanchaisch, Uryankhai, Uryankhai-Monchak, touva, tyva dyl, Тува хэл, Тувански јазик, Тувински език, Тувинська мова, тувинский язык, טובאנית, ภาษาตูวัน, トゥバ語, 图瓦语, 투바어]
 population: 297000
@@ -16,6 +15,17 @@ glottolog_family_id: turk1311
 glottolog_family_name: Turkic
 glottolog_classification: "Turkic > Common Turkic > South Siberian Turkic > Sayan-Yenisei Turkic > Sayan > Tuvinian"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tuvan_language"
+translations:
+  - translation_iso: ara
+    name: اللغة التوفانية
+  - translation_iso: hin
+    name: तूवी भाषा
+  - translation_iso: jpn
+    name: トゥヴァ語
+  - translation_iso: kor
+    name: 투바어
+  - translation_iso: zho
+    name: 图瓦语
 rolv_dialects:
   - rolv_code: 17861
     language_tag: tyv-x-HIS17861

@@ -1,8 +1,6 @@
 ---
 iso: csm
 name: Central Sierra Miwok
-name_zh: 中利埃拉米沃克语
-name_zh_auto: true
 autonym: Saclan
 alt_names: [C Sierra Miwok, "Central Sierra Miwok: Tuolumne", Eastern Division, Me-Wuk, Meewoc, Mewoc, Miwoc, Miwok (Central Sierra), Miwok de la Sierra centrale, "Miwok, Central Sierra", Miwokano serrano central, Mokélumne, Moquelumnan, Northern Sierra Miwok, "Northern Sierra Miwok: Seroushamne", San Raphael, Sawos, Sierra Miwok, "Southern Sierra Miwok: Southern Sierra Miwok", Talatui, Talutui, Tuolumne, Yosemite]
 population: 5000
@@ -16,6 +14,10 @@ glottolog_family_id: miwo1274
 glottolog_family_name: Miwok-Costanoan
 glottolog_classification: "Miwok-Costanoan > Miwokan > Eastern Miwokan > Sierra Miwokan > Central Sierra Miwok"
 wikipedia_url: "https://en.wikipedia.org/wiki/Central_Sierra_Miwok"
+translations:
+  - translation_iso: zho
+    name: 中利埃拉米沃克语
+    auto: true
 rolv_dialects:
   - rolv_code: 24715
     language_tag: csm-x-HIS24715

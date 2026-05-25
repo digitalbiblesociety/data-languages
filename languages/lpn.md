@@ -1,8 +1,6 @@
 ---
 iso: lpn
 name: Long Phuri Naga
-name_zh: 龙普里纳加语
-name_zh_auto: true
 autonym: Long Phuri Naga
 alt_names: ["Naga, Long Phuri"]
 population: 2000
@@ -16,5 +14,9 @@ glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Kuki-Chin-Naga > Angami-Ao > Central Naga > Yimchingric > Makuric > Long Phuri Naga"
 wikipedia_url: "https://en.wikipedia.org/wiki/Long_Phuri_language"
+translations:
+  - translation_iso: zho
+    name: 龙普里纳加语
+    auto: true
 ---
 Long Phuri, or Long Phuri Naga, is an unclassified Naga language of Burma. Long Phuri is spoken in 6 villages of Leshi Township, Hkamti District, Sagaing Region, Myanmar.

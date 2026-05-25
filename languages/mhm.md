@@ -1,8 +1,6 @@
 ---
 iso: mhm
 name: "Makhuwa-Moniga"
-name_zh: 马库瓦-莫尼加语
-name_zh_auto: true
 autonym: "Makhuwa-Moniga"
 alt_names: [Emakhuwa-Emoniga, Emoniga, Moniga]
 population: 440000
@@ -16,5 +14,9 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > East Bantu > North Mozambique Bantu > Makua-Lomwe > Makhuwa-Moniga"
 wikipedia_url: "https://en.wikipedia.org/wiki/Moniga_language"
+translations:
+  - translation_iso: zho
+    name: 马库瓦-莫尼加语
+    auto: true
 ---
 Moniga, or Makhuwa-Moniga, is a Bantu language spoken by a quarter million Makua people in Mozambique. It is closely related to Cuabo.

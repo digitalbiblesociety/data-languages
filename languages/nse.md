@@ -1,8 +1,6 @@
 ---
 iso: nse
 name: Nsenga
-name_zh: 恩塞恩加语
-name_zh_auto: true
 autonym: Chinsenga
 alt_names: [Cinsenga, Senga]
 population: 627100
@@ -16,6 +14,12 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > East Bantu > Sabi > Nsenga"
 wikipedia_url: "https://en.wikipedia.org/wiki/Nsenga_language"
+translations:
+  - translation_iso: jpn
+    name: ンセンガ語
+  - translation_iso: zho
+    name: 恩塞恩加语
+    auto: true
 rolv_dialects:
   - rolv_code: 15059
     language_tag: nse-x-HIS15059

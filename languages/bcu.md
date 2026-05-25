@@ -1,8 +1,6 @@
 ---
 iso: bcu
 name: Awad Bing
-name_zh: 阿瓦德宾语
-name_zh_auto: true
 autonym: Biliau
 alt_names: [Awad Gey, Bing, Samang, Semang, Sengam]
 population: 1450
@@ -16,6 +14,10 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > North New Guinea linkage > Ngero-Vitiaz linkage > Vitiaz linkage > Bel-Roinji-Nenaya > Bel > Eastern Bel > Awad Bing"
 wikipedia_url: "https://en.wikipedia.org/wiki/Awad_Bing_language"
+translations:
+  - translation_iso: zho
+    name: 阿瓦德宾语
+    auto: true
 rolv_dialects:
   - rolv_code: 615
     language_tag: bcu-x-HIS00615

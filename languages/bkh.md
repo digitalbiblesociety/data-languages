@@ -1,8 +1,6 @@
 ---
 iso: bkh
 name: Bakoko
-name_zh: 巴科科语
-name_zh_auto: true
 autonym: Bakoko
 alt_names: [Basoo]
 population: 50000
@@ -16,6 +14,12 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > Bantu A-B10-B20-B30 > Basaa-Yaunde (A40-70) > Basaa (A.40) > Basaa-Bakoko > Bakoko"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kogo_language"
+translations:
+  - translation_iso: jpn
+    name: バココ語
+  - translation_iso: zho
+    name: 巴科科语
+    auto: true
 rolv_dialects:
   - rolv_code: 7579
     language_tag: bkh-x-HIS07579

@@ -1,8 +1,6 @@
 ---
 iso: eli
 name: Nding
-name_zh: 恩丁语
-name_zh_auto: true
 autonym: Eliri
 population: 400
 country_id: SD
@@ -15,6 +13,10 @@ glottolog_family_id: narr1279
 glottolog_family_name: Narrow Talodi
 glottolog_classification: "Narrow Talodi > Buram-Saraf > Nding-Tasomi > Nding"
 wikipedia_url: "https://en.wikipedia.org/wiki/Nding_language"
+translations:
+  - translation_iso: zho
+    name: 恩丁语
+    auto: true
 rolv_dialects:
   - rolv_code: 920
     language_tag: eli-x-HIS00920

@@ -1,8 +1,6 @@
 ---
 iso: moa
 name: Mwan
-name_zh: 姆万语
-name_zh_auto: true
 autonym: Mona
 alt_names: [Mouan, Muan, Muana, Mwa]
 population: 20000
@@ -16,5 +14,9 @@ glottolog_family_id: mand1469
 glottolog_family_name: Mande
 glottolog_classification: "Mande > Eastern Mande > Southeastern Mande > Nwa-Ben > Wan-Mwan > Mwan"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mwan_language"
+translations:
+  - translation_iso: zho
+    name: 姆万语
+    auto: true
 ---
 Mwan is a Mande language of Ivory Coast.

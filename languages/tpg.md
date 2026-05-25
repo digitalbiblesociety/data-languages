@@ -1,8 +1,6 @@
 ---
 iso: tpg
 name: Kula
-name_zh: 库拉语
-name_zh_auto: true
 autonym: Tanglapui
 alt_names: ["\"Tanglapui\"", Kola, Lamtoka, Lantoka]
 population: 5000
@@ -16,6 +14,10 @@ glottolog_family_id: timo1261
 glottolog_family_name: Timor-Alor-Pantar
 glottolog_classification: "Timor-Alor-Pantar > Alor-Pantar > East Alor > Kula (Indonesia)"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kula_language"
+translations:
+  - translation_iso: zho
+    name: 库拉语
+    auto: true
 rolv_dialects:
   - rolv_code: 12431
     language_tag: tpg-x-HIS12431

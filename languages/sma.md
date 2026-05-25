@@ -1,7 +1,6 @@
 ---
 iso: sma
 name: Southern Sami
-name_zh: 南萨米语
 autonym: åarjelsaemien gïele
 alt_names: ["\"Lapin kieli\"", "\"Lapon\"", "\"Lapp\"", "\"Lappic\"", "\"Lappish\"", "\"Lappisk\"", "\"Lopary\"", "\"Northern Lappish\"", "\"Norwegian Lapp\"", "\"Røroslappisk\"", "\"Südlappisch\"", Central, Eteläsaame, Lapp, Lapp (Southern), Lappic, Lappisch, Lappish, Lappish-Norwegian, Lappish-Swedish, Lenga Saami meridional, Lingua Samica Meridionalis, Lingua sami meridionale, Lullisámegiella, Língua sami meridional, Lõunasaami keel, North Lapp, Northern, Northern dialect area, Norwegian, Norwegisch-Lappisch, Pietų samių kalba, Saamen kieli, Saami, Saami (Central-South), Saami (Southern), Saami méridional, "Saami, South", Saamish Yiass, Saamskij jazyk, Saamí meridional, Sabme, Same, Same du Sud, Sami meridional, "Sami, Southern", Samic, Samieg ar su, South Saami, Southern Lapp, Suda samea lingvo, Suðursámiskt, Sydsamiska, Sørsamisk, Sørsamisk språk, Südlappisch, Südsamische Sprache, Sāme-giellâ, Vefsn, Western, Western dialect area, Westlappisch, Zuid-Samisch, lapin kieli, lapon, lappisk, lopary, same-, sami du Sud, schwedisch-lappische Dialektgruppe, southwest dialect, Јужен самиски јазик, Южносаамски език, Южносаамский язык]
 population: 600
@@ -16,5 +15,16 @@ glottolog_family_id: ural1272
 glottolog_family_name: Uralic
 glottolog_classification: "Uralic > Saami > Western Saami > Southwestern Saami > South Saami"
 wikipedia_url: "https://en.wikipedia.org/wiki/Southern_S%C3%A1mi"
+translations:
+  - translation_iso: ara
+    name: لغة سامي الجنوبية
+  - translation_iso: hin
+    name: दक्षिणी सामी
+  - translation_iso: jpn
+    name: 南部サーミ語
+  - translation_iso: kor
+    name: 남부 사미어
+  - translation_iso: zho
+    name: 南萨米语
 ---
 Southern Sámi or South Sámi is the southwesternmost of the Sámi languages, and is spoken in Norway and Sweden. It is an endangered language. The designated main village of the language in Norway is Snåasen Municipality (Snåsa) where the country's sole museum about Southern Sámi and a long-running Southern Sámi primary school for Years 1 through 7. Other places of Southern Sámi culture in Norway are Aarborten Municipality (Hattfjelldal) in Nordlaante County (Nordland) and also in Raarvihken Municipality (Røyrvik), and Rossen Municipality (Røros), all of which are in Trööndelage County (Trøndelag). Out of an ethnic population of approximately 2,000, only about 500 still speak the language fluently. Southern Sámi belongs to the Saamic group within the Uralic language family.

@@ -1,7 +1,6 @@
 ---
 iso: hyw
 name: Western Armenian
-name_zh: 西部亚美尼亚语
 autonym: արեւմտահայերէն
 alt_names: ["Armenian, Western"]
 population: 1395240
@@ -15,6 +14,15 @@ glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Armenic > Eastern-Western Armenian > Western Armenian"
 wikipedia_url: "https://en.wikipedia.org/wiki/Western_Armenian"
+translations:
+  - translation_iso: ara
+    name: الأرمنية الغربية
+  - translation_iso: jpn
+    name: 西アルメニア語
+  - translation_iso: kor
+    name: 서아르메니아어
+  - translation_iso: zho
+    name: 西部亚美尼亚语
 rolv_dialects:
   - rolv_code: 26622
     language_tag: hy-AM-x-HIS26622

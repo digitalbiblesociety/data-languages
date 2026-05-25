@@ -1,8 +1,6 @@
 ---
 iso: mdk
 name: Mangbutu
-name_zh: 曼古布图语
-name_zh_auto: true
 autonym: "Mangu-Ngutu"
 alt_names: [Mombuttu, Wambutu]
 population: 1200
@@ -16,6 +14,10 @@ glottolog_family_id: cent2225
 glottolog_family_name: Central Sudanic
 glottolog_classification: "Central Sudanic > Membi-Mangbutu-Efe > Mangbutu-Efe > Baleseic > Mangbutu"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mangbutu_language"
+translations:
+  - translation_iso: zho
+    name: 曼古布图语
+    auto: true
 rolv_dialects:
   - rolv_code: 1318
     language_tag: mdk-x-HIS01318

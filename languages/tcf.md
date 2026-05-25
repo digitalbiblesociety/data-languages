@@ -1,8 +1,6 @@
 ---
 iso: tcf
 name: "Malinaltepec Me'phaa"
-name_zh: 马利纳尔特佩克梅夫亚语
-name_zh_auto: true
 autonym: Me̱ꞌpha̱a̱
 alt_names: [Eastern Tlapanec, Guerrero, Malinaltepec, Malinaltepec Tlapanec, Malinaltepec Tlapaneko, Mañuwíìn, "Me'pa", "Me'phaa", "Me'phaa, Malinaltepec", "Mi'pha", Tlapanec, "Tlapanec, Malinaltepec", Tlapaneco, Tlapaneco de Malinaltepec, Tlapaneco oriental, Tlapaneco-Sutiaba, Tlapaneko, Tlapanèque oriental, Tlappanec]
 population: 37500
@@ -15,6 +13,10 @@ glottocode: mali1285
 glottolog_family_id: otom1299
 glottolog_family_name: Otomanguean
 glottolog_classification: "Otomanguean > Western Otomanguean > Subtiaba-Tlapanec > Mephaa > North-Central Mephaa > Malinaltepec Me'phaa"
+translations:
+  - translation_iso: zho
+    name: 马利纳尔特佩克梅夫亚语
+    auto: true
 rolv_dialects:
   - rolv_code: 4384
     language_tag: tcf-x-HIS04384

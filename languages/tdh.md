@@ -1,8 +1,6 @@
 ---
 iso: tdh
 name: Thulung
-name_zh: 图鲁恩语
-name_zh_auto: true
 autonym: Tholong Lo
 alt_names: [Rai, Thulu Luwa, Thululoa, Thulung Jemu, Thulung La, Thulunge Rai, Thulungish, Thulungo, Toaku Lwa, Touloungeg, Тхулунґ, ภาษาทูลุง]
 population: 20700
@@ -17,6 +15,10 @@ glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Himalayish > Mahakiranti > Kiranti > Thulung-Tilung-Koyi > Thulung"
 wikipedia_url: "https://en.wikipedia.org/wiki/Thulung_language"
+translations:
+  - translation_iso: zho
+    name: 图鲁恩语
+    auto: true
 rolv_dialects:
   - rolv_code: 3231
     language_tag: tdh-x-HIS03231

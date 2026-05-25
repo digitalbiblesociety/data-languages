@@ -1,8 +1,6 @@
 ---
 iso: isi
 name: "Nkem-Nkum"
-name_zh: 恩克姆-恩库姆语
-name_zh_auto: true
 autonym: Isibiri
 alt_names: [Nigeria, Nkem]
 population: 16500
@@ -16,6 +14,10 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Ekoid-Mbe > Ekoid > Bakor-Ejagham > Bakor > Northern Bakor > Abanyom-Nkem-Nkum > Nkem-Nkum"
 wikipedia_url: "https://en.wikipedia.org/wiki/Nkem-Nkum_language"
+translations:
+  - translation_iso: zho
+    name: 恩克姆-恩库姆语
+    auto: true
 rolv_dialects:
   - rolv_code: 2204
     language_tag: isi-x-HIS02204

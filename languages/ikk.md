@@ -1,8 +1,6 @@
 ---
 iso: ikk
 name: Ika
-name_zh: 伊卡语
-name_zh_auto: true
 autonym: null
 alt_names: [Nigeria]
 population: 22800
@@ -16,6 +14,10 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Igboid > Nuclear Igboid > Central-Northern Igbo > Ika"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ika_language_(Nigeria)"
+translations:
+  - translation_iso: zho
+    name: 伊卡语
+    auto: true
 rolv_dialects:
   - rolv_code: 2668
     language_tag: ikk-x-HIS02668

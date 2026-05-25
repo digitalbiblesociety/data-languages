@@ -1,8 +1,6 @@
 ---
 iso: piv
 name: Pileni
-name_zh: 皮伦尼语
-name_zh_auto: true
 autonym: Pileni
 alt_names: [Bahasa Pileni, Pilheni, Taumako, Vaeakau-Taumako]
 population: 1660
@@ -16,6 +14,12 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Central Pacific linkage > Tokalau Fijian > Polynesian > Nuclear Polynesian > Vaeakau-Taumako"
 wikipedia_url: "https://en.wikipedia.org/wiki/Vaeakau-Taumako_language"
+translations:
+  - translation_iso: jpn
+    name: ビカウ・タウマコ語
+  - translation_iso: zho
+    name: 皮伦尼语
+    auto: true
 rolv_dialects:
   - rolv_code: 15668
     language_tag: piv-x-HIS15668

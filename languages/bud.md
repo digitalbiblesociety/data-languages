@@ -1,8 +1,6 @@
 ---
 iso: bud
 name: Ntcham
-name_zh: 恩查姆语
-name_zh_auto: true
 autonym: Basari
 alt_names: [Basaal, Basar, Basare, Bassar, Bassari, Natchamba, Ncham, Tobote]
 population: 329000
@@ -16,6 +14,10 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Gur > Central Gur > Northern Central Gur > Bwamu-Oti-Volta > Oti-Volta > Nuclear Oti-Volta > Gurma-Yom-Oti-Volta Occidental > Gurma-Yom-Naudem > Gurma > Gurma A > Ntcham"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ntcham_language"
+translations:
+  - translation_iso: zho
+    name: 恩查姆语
+    auto: true
 rolv_dialects:
   - rolv_code: 15063
     language_tag: bud-x-HIS15063

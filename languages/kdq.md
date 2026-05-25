@@ -1,8 +1,6 @@
 ---
 iso: kdq
 name: Koch
-name_zh: 科赫语
-name_zh_auto: true
 autonym: Koc
 alt_names: [Kocch, Koce, Kochboli, Konch, কোচ ভাষা]
 population: 42400
@@ -16,6 +14,14 @@ glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Brahmaputran > Bodo-Garo > Kochic > Koch"
 wikipedia_url: "https://en.wikipedia.org/wiki/Koch_language"
+translations:
+  - translation_iso: hin
+    name: कोच भाषा
+  - translation_iso: jpn
+    name: コーチ語
+  - translation_iso: zho
+    name: 科赫语
+    auto: true
 rolv_dialects:
   - rolv_code: 12084
     language_tag: kdq-x-HIS12084

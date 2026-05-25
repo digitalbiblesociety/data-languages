@@ -1,7 +1,6 @@
 ---
 iso: tue
 name: Tuyuca
-name_zh: 圖尤卡語
 autonym: Docapúaraye
 alt_names: [Barasana (Brésil), Barasana (Colombia), Barasana (Colombie), Barasano, Bará (Brésil), Bará (Colombia), Bará (Colombie), Bará-Tuyuka, Borá-Tuyuka, Dochkafuara, Tejuca, Tuiúcas, Tuyaca (Brésil), Tuyuca (Colombia), Tuyuca (Colombie), Tuyuka, Tuyúka]
 population: 1440
@@ -15,6 +14,9 @@ glottolog_family_id: tuca1253
 glottolog_family_name: Tucanoan
 glottolog_classification: "Tucanoan > Eastern Tucanoan > Eastern Eastern Tucanoan > Eastern Eastern Tucanoan II > Pisamira-Yuruti > Tuyuca-Yuruti > Tuyuca"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tuyuca_language"
+translations:
+  - translation_iso: zho
+    name: 圖尤卡語
 rolv_dialects:
   - rolv_code: 17868
     language_tag: tue-x-HIS17868

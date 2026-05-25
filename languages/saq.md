@@ -1,7 +1,6 @@
 ---
 iso: saq
 name: Samburu
-name_zh: 桑布鲁语
 autonym: " ɔl Maa"
 alt_names: [Burkeneji, E Lokop, Lokop, Nkutuk, Sambouroueg, Sambur, Samburun kieli, Sampur]
 population: 366000
@@ -16,6 +15,17 @@ glottolog_family_id: nilo1247
 glottolog_family_name: Nilotic
 glottolog_classification: "Nilotic > Eastern Nilotic > Teso-Lotuxo-Maa > Lotuxo-Maa > Ongamo-Maa > Nuclear Maa > Samburu"
 wikipedia_url: "https://en.wikipedia.org/wiki/Samburu_language"
+translations:
+  - translation_iso: ara
+    name: سامبورو
+  - translation_iso: hin
+    name: सैम्बुरु
+  - translation_iso: jpn
+    name: サンブル語
+  - translation_iso: kor
+    name: 삼부루어
+  - translation_iso: zho
+    name: 桑布鲁语
 rolv_dialects:
   - rolv_code: 3026
     language_tag: saq-x-HIS03026

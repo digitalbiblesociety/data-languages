@@ -1,8 +1,6 @@
 ---
 iso: stp
 name: Southeastern Tepehuan
-name_zh: 东南特佩万语
-name_zh_auto: true
 autonym: "O'otham"
 alt_names: [SE Tepehuan, South Tepehuane, South-east Tepewan, Southeast Tepehuan, Southern Tepehuan, Southern Tepewan, Tepahue (Southeastern), Tepeguana, Tepehuan (Southeast), Tepehuan (Southeastern), Tepehuan du Sud-Est, "Tepehuan, Southeastern", Tepehuano, Tepehuán (Sureste), Tepehuán del Sureste, Tepehuán language, Tepewan simi, Tepiman]
 population: 10600
@@ -15,4 +13,8 @@ glottocode: sout2976
 glottolog_family_id: utoa1244
 glottolog_family_name: Uto-Aztecan
 glottolog_classification: "Uto-Aztecan > Southern Uto-Aztecan > Tepiman > Tepehuan > Southern Tepehuan > Southeastern Tepehuan"
+translations:
+  - translation_iso: zho
+    name: 东南特佩万语
+    auto: true
 ---

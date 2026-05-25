@@ -1,8 +1,6 @@
 ---
 iso: gab
 name: Gabri
-name_zh: 加夫里语
-name_zh_auto: true
 autonym: Southern Gabri
 alt_names: [Gabere, Gaberi, Gabri-Nord, Ngabre, Northern Gabri]
 population: 34400
@@ -16,6 +14,10 @@ glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > East Chadic > East Chadic A > East Chadic A.2 > East Chadic A.2 2 > Gabri-Kimre > Gabri"
 wikipedia_url: "https://en.wikipedia.org/wiki/Southern_Gabri_language"
+translations:
+  - translation_iso: zho
+    name: 加夫里语
+    auto: true
 rolv_dialects:
   - rolv_code: 4920
     language_tag: gab-x-HIS04920

@@ -1,8 +1,6 @@
 ---
 iso: pce
 name: Ruching Palaung
-name_zh: 瑞钦帕劳恩语
-name_zh_auto: true
 autonym: "De'ang"
 alt_names: [Bulai, Bulei, Darang, Di-Ang, Dlang, Ngwe Palaung, Palaung, "Palaung, Pale", "Palaung, Ruching", Palaungo pale, Palay, Pale, Pale Palaung, Pulei, Rumai, Silver Palaung, "Southern Ta'ang", Southern Ta-Ang]
 population: 273300
@@ -15,6 +13,10 @@ glottocode: ruch1235
 glottolog_family_id: aust1305
 glottolog_family_name: Austroasiatic
 glottolog_classification: "Austroasiatic > Khasi-Palaung > Palaungic > West Palaungic > Palaung > Ruching Palaung"
+translations:
+  - translation_iso: zho
+    name: 瑞钦帕劳恩语
+    auto: true
 rolv_dialects:
   - rolv_code: 1179
     language_tag: pce-x-HIS01179

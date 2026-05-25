@@ -1,8 +1,6 @@
 ---
 iso: dax
 name: Dayi
-name_zh: 达依语
-name_zh_auto: true
 autonym: "Dhay'yi"
 alt_names: [Daii, Dalwango, Dalwongu, Darlwongo, "Dha'i", "Dha'yi", "Dha?i", Dhalwangu, Dhayyi, "Djarlwa:g", Djawark, Taii Tai]
 population: null
@@ -15,6 +13,10 @@ glottocode: dayi1244
 glottolog_family_id: pama1250
 glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > Yuulngu > Southern Yolngu > Southern-Eastern Yolngu > Dayi"
+translations:
+  - translation_iso: zho
+    name: 达依语
+    auto: true
 rolv_dialects:
   - rolv_code: 9188
     language_tag: dax-x-HIS09188

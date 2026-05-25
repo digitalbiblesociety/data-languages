@@ -1,8 +1,6 @@
 ---
 iso: faa
 name: Fasu
-name_zh: 法苏语
-name_zh_auto: true
 autonym: West Kutubuan
 alt_names: [Fasu (Namo Me), Namome, Namumi, Some]
 population: 1100
@@ -13,6 +11,10 @@ latitude: -6.62687
 longitude: 143.28359
 glottocode: fasu1242
 wikipedia_url: "https://en.wikipedia.org/wiki/Fasu_language"
+translations:
+  - translation_iso: zho
+    name: 法苏语
+    auto: true
 rolv_dialects:
   - rolv_code: 9788
     language_tag: faa-x-HIS09788

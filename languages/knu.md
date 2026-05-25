@@ -1,8 +1,6 @@
 ---
 iso: knu
 name: Kono (Guinea)
-name_zh: 科诺语
-name_zh_auto: true
 autonym: Kpɛlɛwoo
 alt_names: [Kono, Kpelle]
 population: 99300
@@ -15,4 +13,8 @@ glottocode: kono1267
 glottolog_family_id: mand1469
 glottolog_family_name: Mande
 glottolog_classification: "Mande > Western Mande > Manding-Kpelle > Southwest Mande > Kpelle > Kono (Guinea)"
+translations:
+  - translation_iso: zho
+    name: 科诺语
+    auto: true
 ---

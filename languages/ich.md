@@ -1,8 +1,6 @@
 ---
 iso: ich
 name: Etkywan
-name_zh: 埃特基万语
-name_zh_auto: true
 autonym: Icen
 alt_names: [Etekwe, Ichen, Itchen, Kentu, Kyanton, Kyato, Nyidu]
 population: 50200
@@ -16,6 +14,10 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Jukunoid > Central Jukunoid > Kpan-Icen > Etkywan"
 wikipedia_url: "https://en.wikipedia.org/wiki/Etkywan_language"
+translations:
+  - translation_iso: zho
+    name: 埃特基万语
+    auto: true
 rolv_dialects:
   - rolv_code: 30008
     language_tag: ich-x-HIS30008

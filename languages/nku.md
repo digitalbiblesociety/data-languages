@@ -1,8 +1,6 @@
 ---
 iso: nku
 name: Bouna Kulango
-name_zh: 博纳库拉戈语
-name_zh_auto: true
 autonym: Nkuraeng
 alt_names: [Bouna Koulango, Buna Kulango, Koulango, Kulange, Kulango, "Kulango, Bouna", Nkurange]
 population: 29900
@@ -15,6 +13,10 @@ glottocode: boun1243
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Gur > Kulango-Lorom > Kulango > Bouna Kulango"
+translations:
+  - translation_iso: zho
+    name: 博纳库拉戈语
+    auto: true
 rolv_dialects:
   - rolv_code: 6299
     language_tag: nku-x-HIS06299

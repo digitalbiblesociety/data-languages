@@ -1,8 +1,6 @@
 ---
 iso: itd
 name: Southern Tidung
-name_zh: 南蒂冬语
-name_zh_auto: true
 autonym: Southern Tidung
 alt_names: ["Tidung, Southern"]
 population: 27000
@@ -16,6 +14,10 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > North Borneo Malayo-Polynesian > Sabahan > Southwest Sabahan > Greater Murutic > Murutic > Northern Murutic > Sumambu-Tagal > Tidung-Bulusu > Tidung > Southern Tidung"
 wikipedia_url: "https://en.wikipedia.org/wiki/Nunukan_Tidung"
+translations:
+  - translation_iso: zho
+    name: 南蒂冬语
+    auto: true
 rolv_dialects:
   - rolv_code: 17474
     language_tag: itd-x-HIS17474

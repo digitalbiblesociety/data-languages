@@ -1,8 +1,6 @@
 ---
 iso: ity
 name: Moyadan Itneg
-name_zh: 莫亚丹伊特内格语
-name_zh_auto: true
 autonym: Tinggian
 alt_names: ["Itneg, Moyadan", Tinguian]
 population: 12000
@@ -15,4 +13,8 @@ glottocode: moya1235
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Northern Luzon > Meso-Cordilleran > South-Central Cordilleran > Central Cordilleran > Kalinga-Itneg > Kalinga > Masadiit > Moyadan Itneg"
+translations:
+  - translation_iso: zho
+    name: 莫亚丹伊特内格语
+    auto: true
 ---

@@ -1,7 +1,6 @@
 ---
 iso: lou
 name: Louisiana Creole
-name_zh: 路易斯安那克里奥尔法语
 autonym: " kouri-vini"
 alt_names: ["Creole, Louisiana", Créole louisianais, Franse, Kourí-viní, Kreyòl, Louisiana, Louisiana Creole French, Louisianan kreoli, Negro French, ルイジアナ・クレオール語]
 population: 4800
@@ -15,6 +14,17 @@ glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Italic > Latino-Faliscan > Latinic > Imperial Latin > Romance > Italo-Western Romance > Western Romance > Shifted Western Romance > Northwestern Shifted Romance > Gallo-Rhaetian > Oil > Central Oil > Macro-French > Circum-Caribbean French > Louisiana Creole French"
 wikipedia_url: "https://en.wikipedia.org/wiki/Louisiana_Creole"
+translations:
+  - translation_iso: ara
+    name: كريول لويزيانا
+  - translation_iso: hin
+    name: लुईज़ियाना क्रियोल
+  - translation_iso: jpn
+    name: ルイジアナ・クレオール語
+  - translation_iso: kor
+    name: 루이지애나 크리올
+  - translation_iso: zho
+    name: 路易斯安那克里奥尔法语
 rolv_dialects:
   - rolv_code: 25185
     language_tag: lou-x-HIS25185

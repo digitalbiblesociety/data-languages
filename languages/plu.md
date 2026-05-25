@@ -1,8 +1,6 @@
 ---
 iso: plu
 name: Palikúr
-name_zh: 帕利库尔语
-name_zh_auto: true
 autonym: Karipuna
 alt_names: [Paikwene, Palicur, Palijur, Palikour, Palikr, Palikur, Palikur (Brésil), Palikur (Guayana Francesa), Palikur (Guyane Française), Palincur, Paricores, Paricuria, Parikurene, Parinkur-lene]
 population: 1540
@@ -16,5 +14,11 @@ glottolog_family_id: araw1281
 glottolog_family_name: Arawakan
 glottolog_classification: "Arawakan > Central-Eastern Maipuran > Palikúr"
 wikipedia_url: "https://en.wikipedia.org/wiki/Palik%C3%BAr_language"
+translations:
+  - translation_iso: jpn
+    name: パリクール語
+  - translation_iso: zho
+    name: 帕利库尔语
+    auto: true
 ---
 Palikúr is an Arawakan language of Brazil and French Guiana, spoken by the Palikur and formerly the Karipuna do Amapá. Knowledge of French and Portuguese is common among the Palikur, and French Guianese Creole is used as the common language among the tribes in the area and with the local population. Palikúr is considered endangered in French Guiana and vulnerable in Brazil.

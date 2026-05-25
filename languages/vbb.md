@@ -1,8 +1,6 @@
 ---
 iso: vbb
 name: Southeast Babar
-name_zh: 东巴巴尔语
-name_zh_auto: true
 autonym: null
 alt_names: ["Babar, Southeast", Indonesia]
 population: 4460
@@ -16,5 +14,9 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Timor-Babar > Southwest Maluku > Babar > South Babar > Masela-South Babar > Southeast Babar"
 wikipedia_url: "https://en.wikipedia.org/wiki/Southeast_Babar_language"
+translations:
+  - translation_iso: zho
+    name: 东巴巴尔语
+    auto: true
 ---
 Southeast Babar is an Austronesian language spoken on Babar Island in South Maluku, Indonesia.

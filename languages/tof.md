@@ -1,8 +1,6 @@
 ---
 iso: tof
 name: Gizrra
-name_zh: 吉兹拉语
-name_zh_auto: true
 autonym: Gizra
 alt_names: [Toga]
 population: 1050
@@ -16,6 +14,10 @@ glottolog_family_id: east2503
 glottolog_family_name: Eastern Trans-Fly
 glottolog_classification: "Eastern Trans-Fly > Binaturi > Kura > Gizrra"
 wikipedia_url: "https://en.wikipedia.org/wiki/Gizrra_language"
+translations:
+  - translation_iso: zho
+    name: 吉兹拉语
+    auto: true
 rolv_dialects:
   - rolv_code: 10259
     language_tag: tof-x-HIS10259

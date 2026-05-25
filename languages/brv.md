@@ -1,8 +1,6 @@
 ---
 iso: brv
 name: Western Bru
-name_zh: 西布鲁语
-name_zh_auto: true
 autonym: Bruu
 alt_names: ["B'ru", Baroo, Baru, Brou, Bru, Bru (Western), "Bru, Western", Leu, Leung, Muong Leong, Quàngtri Vân Kiêu, Tri, Western]
 population: 20000
@@ -15,6 +13,10 @@ glottocode: west2397
 glottolog_family_id: aust1305
 glottolog_family_name: Austroasiatic
 glottolog_classification: "Austroasiatic > Katuic > West Katuic > Brou-So > Western Bru-So > Western Bru"
+translations:
+  - translation_iso: zho
+    name: 西布鲁语
+    auto: true
 rolv_dialects:
   - rolv_code: 8379
     language_tag: brv-x-HIS08379

@@ -1,8 +1,6 @@
 ---
 iso: tii
 name: Tiene
-name_zh: 蒂埃内语
-name_zh_auto: true
 autonym: Tende
 alt_names: [Kitiene, Kitiini]
 population: 24500
@@ -16,5 +14,11 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > Central-Western Bantu > West-Coastal Bantu > Nzadic > Lweric > Dingic > Loange-Atlantic > Kwilu-Ngounie > Kasai-Ngounie > Kwa-Kasai North > Sakata-Tiinic > Tiinic > Tiene"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tiene_language"
+translations:
+  - translation_iso: jpn
+    name: Tiene語
+  - translation_iso: zho
+    name: 蒂埃内语
+    auto: true
 ---
 Tiene (Tiini), or Tende, is a Bantu language of the Democratic Republic of Congo.

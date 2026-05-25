@@ -1,7 +1,6 @@
 ---
 iso: mym
 name: "Me'en"
-name_zh: 梅恩语
 autonym: Mɛʼɛn
 alt_names: [Meen, Mekan, Men, Meqan, "Mie'en", Mieken, Менски јазик]
 population: 151000
@@ -15,6 +14,9 @@ glottolog_family_id: surm1244
 glottolog_family_name: Surmic
 glottolog_classification: "Surmic > South Surmic > Southeast Surmic > Pastoral Surmic > Me'en"
 wikipedia_url: "https://en.wikipedia.org/wiki/Me%CA%BCen_language"
+translations:
+  - translation_iso: zho
+    name: 梅恩语
 rolv_dialects:
   - rolv_code: 13954
     language_tag: mym-x-HIS13954

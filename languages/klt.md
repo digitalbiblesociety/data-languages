@@ -1,8 +1,6 @@
 ---
 iso: klt
 name: Nukna
-name_zh: 努克纳语
-name_zh_auto: true
 autonym: Komutu
 population: 1000
 country_id: PG
@@ -15,5 +13,9 @@ glottolog_family_id: nucl1709
 glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Finisterre-Huon > Finisterre-Saruwaged > Uruwa > Nukna"
 wikipedia_url: "https://en.wikipedia.org/wiki/Nukna_language"
+translations:
+  - translation_iso: zho
+    name: 努克纳语
+    auto: true
 ---
 Nukna, or Komutu, is one of the Finisterre languages of Papua New Guinea.

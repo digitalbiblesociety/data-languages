@@ -1,8 +1,6 @@
 ---
 iso: ite
 name: Itene
-name_zh: 伊特内语
-name_zh_auto: true
 autonym: Moré
 alt_names: [Central Chapacuran, Central Chapakuran, Central Chapakúran, Guapore, Guapore Group, Guarayo, Iten, Iteneo, Itenez, Iténez, Maré, More]
 population: 90
@@ -16,6 +14,10 @@ glottolog_family_id: chap1271
 glottolog_family_name: Chapacuran
 glottolog_classification: "Chapacuran > Moreic-Waric > Moreic > Kujubim-More > Itene"
 wikipedia_url: "https://en.wikipedia.org/wiki/Itene_language"
+translations:
+  - translation_iso: zho
+    name: 伊特内语
+    auto: true
 rolv_dialects:
   - rolv_code: 6438
     language_tag: ite-x-HIS06438

@@ -1,8 +1,6 @@
 ---
 iso: mtv
 name: "Asaro'o"
-name_zh: 阿萨罗语
-name_zh_auto: true
 autonym: Morafa
 population: 1250
 country_id: PG
@@ -15,6 +13,10 @@ glottolog_family_id: nucl1709
 glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Finisterre-Huon > Finisterre-Saruwaged > Warup > Nuclear Warup > Molet-Asaroo > Asaro'o"
 wikipedia_url: "https://en.wikipedia.org/wiki/Asaro%27o_language"
+translations:
+  - translation_iso: zho
+    name: 阿萨罗语
+    auto: true
 rolv_dialects:
   - rolv_code: 26298
     language_tag: mtv-x-HIS26298

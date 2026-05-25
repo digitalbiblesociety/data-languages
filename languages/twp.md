@@ -1,8 +1,6 @@
 ---
 iso: twp
 name: Ere
-name_zh: 埃雷语
-name_zh_auto: true
 autonym: Nane
 alt_names: [Admiralitäts-inseln, E]
 population: 1030
@@ -16,5 +14,9 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Admiralty Islands > Eastern Admiralty Islands > Manus > East Manus > Kurti-Kele-Ere > Ere"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ere_language"
+translations:
+  - translation_iso: zho
+    name: 埃雷语
+    auto: true
 ---
 Ere is an Austronesian language spoken on the south coast of Manus Island in Papua New Guinea.

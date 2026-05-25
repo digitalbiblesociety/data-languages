@@ -1,8 +1,6 @@
 ---
 iso: nyg
 name: Nyindu
-name_zh: 尼因杜语
-name_zh_auto: true
 autonym: Kishi
 alt_names: [Democratic Republic of the Congo]
 population: 8400
@@ -15,4 +13,8 @@ glottocode: nyin1248
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > East Bantu > Northeast Savanna Bantu > Great Lakes Bantu > Western Lakes Bantu > Kivu > Forest Kivu > Fuliiric > Nyindu"
+translations:
+  - translation_iso: zho
+    name: 尼因杜语
+    auto: true
 ---

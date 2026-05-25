@@ -1,7 +1,6 @@
 ---
 iso: ces
 name: Czech
-name_zh: 捷克语
 autonym: čeština
 alt_names: [An tSeicis, Bahasa Ceska, Bahasa Czech, Basa Céko, Bæmisc sprǣc, Cestina, Checu, Chekek, Chekiana linguo, Chex tili, Chiku simi, Chèc, Cseh nyelv, Czech leid, Czesczi jãzëk, Czesko godka, Gjuha çeke, Idioma checo, Język czeski, Kekkiskt mál, Kicheki, Lenga ceca, Lenghe ceche, Lengua ceca, Limba cehă, Lingua Bohemica, Lingua ceca, Lingua chec, Lingua checa, Lingua tscheca, Língua tcheca, Seacais, Sheckish, Tcheke, Tchekeg, Tch·èco, Tchèque, Tiếng Séc, Tjeckiska, Tjekkisk, Tschechisch-Slovakisch, Tschechische Sprache, Tschechische Språch, Tsieceg, Tsjechies, Tsjechisch, Tsjechysk, Tsjeggies, Tsjekkisk, Tsjekkisk språk, Txec, Txekiera, Tékkneska, Tšehhi keel, Tšekin kieli, Zimanê çekî, Çekçe, Çex dili, Èdè Tsẹ́kì, Ĉeĥa lingvo, Čeahkagiella, Čehu valoda, Čeku kalba, Čekų kalba, Česka rěc, Česko-gí, Češki jezik, Češčina, Čěšćina, Τσεχική γλώσσα, Забони чехӣ, Чеська мова, Чех йылме, Чех чĕлхи, Чехаг æвзаг, Чехонь кяль, Чешки език, Чешки јазик, Чешки језик, Чешский язык, Чэская мова, Чэшская мова, Чє́шьскъ ѩꙁꙑ́къ, Չեխերեն, טשעכיש, "צ'כית", تشيكى, زبان چکی, لغة تشيكية, چېخ تىلى, चेक भाषा, চেক ভাষা, செக் மொழி, ಚೆಕ್ ಭಾಷೆ, ภาษาเช็ก, ჩეხური ენა, チェコ語, 捷克语, 체코어]
 population: 10700000
@@ -16,6 +15,17 @@ glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Balto-Slavic > Slavic > West Slavic > Czech-Slovak > Czech"
 wikipedia_url: "https://en.wikipedia.org/wiki/Czech_language"
+translations:
+  - translation_iso: ara
+    name: التشيكية
+  - translation_iso: hin
+    name: चॅक भाषा
+  - translation_iso: jpn
+    name: チェコ語
+  - translation_iso: kor
+    name: 체코어
+  - translation_iso: zho
+    name: 捷克语
 rolv_dialects:
   - rolv_code: 9053
     language_tag: cs-x-HIS09053

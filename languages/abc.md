@@ -1,8 +1,6 @@
 ---
 iso: abc
 name: Ambala Ayta
-name_zh: 安巴拉艾塔语
-name_zh_auto: true
 autonym: Ambala Ayta
 alt_names: [Ambala Agta, Ambala Sambal, Ambala language, "Ayta, Ambala", ภาษาอัมบาลา]
 population: null
@@ -16,5 +14,9 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Central Luzon > Sambalic > Ambala Ayta"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ambala_language"
+translations:
+  - translation_iso: zho
+    name: 安巴拉艾塔语
+    auto: true
 ---
 Ambala is a Sambalic language spoken in the Philippines. It has more than 2,000 speakers and is spoken within Aeta communities in the Zambal municipalities of Subic, San Marcelino, and Castillejos; in the city of Olongapo; and in Dinalupihan, Bataan.

@@ -1,8 +1,6 @@
 ---
 iso: mdd
 name: Mbum
-name_zh: 姆蒙语
-name_zh_auto: true
 autonym: West Mbum
 alt_names: [Buna, Mboum, Mboumtiba, "Mbum (East), Mbum (West)", Wuna]
 population: 511000
@@ -16,6 +14,10 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Cameroun-Ubangian > Mbumic > Mbum"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mbum_language"
+translations:
+  - translation_iso: zho
+    name: 姆蒙语
+    auto: true
 rolv_dialects:
   - rolv_code: 2904
     language_tag: mdd-x-HIS02904

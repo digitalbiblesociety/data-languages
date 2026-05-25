@@ -1,7 +1,6 @@
 ---
 iso: car
 name: Galibi Carib
-name_zh: 卡利纳語
 autonym: "Kari'nja"
 alt_names: ["\"galibi (Guyane, Suriname)\"", Carib, Carib (Suriname), Carib language, "Carib, Galibi", Caribe, Cariña, Galibi, Galibi (Brésil), Galibi (Guyane Française), Galibi (République bolivarienne du Venezuela), Galibi (Venezuela), Galibi-marworno, Galibí, "Kali'na", Kaliana, Kalihna, Kalinya, "Kari'nya", Kariba lingvo, Karibeg, Kariña simi, Karínya, Maraworno, Marworno, karib]
 population: 8558
@@ -16,6 +15,17 @@ glottolog_family_id: cari1283
 glottolog_family_name: Cariban
 glottolog_classification: "Cariban > Guianan > Galibi Carib"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kalina_language"
+translations:
+  - translation_iso: ara
+    name: الكاريبية
+  - translation_iso: hin
+    name: कैरिब
+  - translation_iso: jpn
+    name: カリブ語
+  - translation_iso: kor
+    name: 카리브어
+  - translation_iso: zho
+    name: 卡利纳語
 rolv_dialects:
   - rolv_code: 8644
     language_tag: car-x-HIS08644

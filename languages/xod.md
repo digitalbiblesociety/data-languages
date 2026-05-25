@@ -1,8 +1,6 @@
 ---
 iso: xod
 name: Kokoda
-name_zh: 科科达语
-name_zh_auto: true
 autonym: Kasuweri
 alt_names: [Komudago, Nebes, Oderago, Samalek, Tarof]
 population: 3700
@@ -16,6 +14,10 @@ glottolog_family_id: sout3418
 glottolog_family_name: "South Bird's Head"
 glottolog_classification: "South Bird's Head > Nuclear South Bird's Head > Kaburic > East South Bird's Head > Kokoda"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kokoda_language"
+translations:
+  - translation_iso: zho
+    name: 科科达语
+    auto: true
 rolv_dialects:
   - rolv_code: 12128
     language_tag: xod-x-HIS12128

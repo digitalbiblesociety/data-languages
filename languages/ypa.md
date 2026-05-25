@@ -1,8 +1,6 @@
 ---
 iso: ypa
 name: Phala
-name_zh: 法拉语
-name_zh_auto: true
 autonym: Pula
 alt_names: [Black Phula, Bola, Hei Phula, Khapho, Phula, Phula (Chine), Phula (Viet Nam), Phulepho, Pula (Vietnam)]
 population: 12000
@@ -15,4 +13,8 @@ glottocode: phal1256
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Burmo-Qiangic > Lolo-Burmese > Loloish > Ni-Li-Kazhouish > Southeastern Ngwi > Riverine Phula > Upriver Riverine Phula > Phala"
+translations:
+  - translation_iso: zho
+    name: 法拉语
+    auto: true
 ---

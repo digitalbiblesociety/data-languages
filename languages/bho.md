@@ -1,7 +1,6 @@
 ---
 iso: bho
 name: Bhojpuri
-name_zh: 博杰普尔语
 autonym: भोजपुरी
 alt_names: [Bahasa Bhojpur, Bahasa Bhojpuri, Bajpuri, Bhodjpouri, Bhodjpuri, Bhodžpuri keel, Bhojapuri, Bhojpuriya, Bhojpurština, Bhozpuri, Bihari, Bodjpoureg, Deswali, Hindusthani, Idioma bopurí, Język bhodźpuri, Khotla, Lingua Bhojpuri, Língua bhojpuri, Piscimas, Бходжпури, Бходжпурі, بوجبوري, भोजपुरी भाषा, ભોજપુરી ભાષા, போச்புரி, ಭೋಜಪುರಿ, ภาษาโภชปุรี, ბოჯპური, ボージュプリー語, 博杰普尔语]
 population: 52200000
@@ -16,6 +15,17 @@ glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Indo-Aryan > Middle-Modern Indo-Aryan > Continental Indo-Aryan > Midlands Indo-Aryan > Shaurasenic > Bihari > Magadhan > Bhojpuric > Bhojpuri"
 wikipedia_url: "https://en.wikipedia.org/wiki/Bhojpuri_language"
+translations:
+  - translation_iso: ara
+    name: البوجبورية
+  - translation_iso: hin
+    name: भोजपुरी भाषा
+  - translation_iso: jpn
+    name: ボージュプリー語
+  - translation_iso: kor
+    name: 보즈푸리어
+  - translation_iso: zho
+    name: 博杰普尔语
 rolv_dialects:
   - rolv_code: 830
     language_tag: bho-x-HIS00830

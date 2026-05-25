@@ -1,8 +1,6 @@
 ---
 iso: bid
 name: Bidiyo
-name_zh: 比迪约语
-name_zh_auto: true
 autonym: Bidio
 alt_names: ["'Bidio", "'Bidiyo", Bidiya, Bidiyo-Waana, Bidyo]
 population: 14000
@@ -16,6 +14,10 @@ glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > East Chadic > East Chadic B > East Chadic B.1 > Dangla-Mabire-Birgit > Dangla > Bidiyo"
 wikipedia_url: "https://en.wikipedia.org/wiki/Bidiyo_language"
+translations:
+  - translation_iso: zho
+    name: 比迪约语
+    auto: true
 rolv_dialects:
   - rolv_code: 8125
     language_tag: bid-x-HIS08125

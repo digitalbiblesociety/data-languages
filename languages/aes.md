@@ -1,8 +1,6 @@
 ---
 iso: aes
 name: Alsea
-name_zh: 阿尔塞亚语
-name_zh_auto: true
 autonym: Yakonan
 alt_names: [Alsean, Alséya, Aslean, Iakon, Yakona, Yakwina, Yaquina]
 population: null
@@ -13,6 +11,12 @@ latitude: 44.408
 longitude: -123.94
 glottocode: alse1251
 wikipedia_url: "https://en.wikipedia.org/wiki/Alsea_language"
+translations:
+  - translation_iso: jpn
+    name: アルシー語
+  - translation_iso: zho
+    name: 阿尔塞亚语
+    auto: true
 rolv_dialects:
   - rolv_code: 6895
     language_tag: aes-x-HIS06895

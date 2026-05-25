@@ -1,8 +1,6 @@
 ---
 iso: kyv
 name: Kayort
-name_zh: 卡约尔特语
-name_zh_auto: true
 autonym: "केवट, कयोर्ट"
 population: 22000
 country_id: NP
@@ -11,5 +9,9 @@ status_id: 6a
 latitude: 26.61787
 longitude: 87.60416
 wikipedia_url: "https://en.wikipedia.org/wiki/Kewat_language"
+translations:
+  - translation_iso: zho
+    name: 卡约尔特语
+    auto: true
 ---
 Kewat, also known as Kayort is a Bengali-Assamese language spoken in the Terai and adjacent lowlands of southern Nepal. It is considered endangered, with only a small number of speakers reported in linguistic surveys and language resource listings.

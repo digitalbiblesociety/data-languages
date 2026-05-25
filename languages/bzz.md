@@ -1,8 +1,6 @@
 ---
 iso: bzz
 name: Evant
-name_zh: 埃万特语
-name_zh_auto: true
 autonym: Avand
 alt_names: [Avande, Balegete, Belegete, Evand, Ovand, Ovande, Ovando]
 population: 10000
@@ -16,6 +14,10 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Tivoid > Central Tivoid > Central Tivoid A > Tiv-Evand > Evant"
 wikipedia_url: "https://en.wikipedia.org/wiki/Evant_language"
+translations:
+  - translation_iso: zho
+    name: 埃万特语
+    auto: true
 rolv_dialects:
   - rolv_code: 2245
     language_tag: bzz-x-HIS02245

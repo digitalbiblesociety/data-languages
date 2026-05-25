@@ -1,8 +1,6 @@
 ---
 iso: krp
 name: Korop
-name_zh: 科罗普语
-name_zh_auto: true
 autonym: Korop
 alt_names: [Durop, Dyurop, Erorup, Kurop, Ododop]
 population: 10200
@@ -16,6 +14,10 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Delta Cross > Upper Cross > Kiong-Korop > Korop"
 wikipedia_url: "https://en.wikipedia.org/wiki/Korop_language"
+translations:
+  - translation_iso: zho
+    name: 科罗普语
+    auto: true
 rolv_dialects:
   - rolv_code: 12286
     language_tag: krp-x-HIS12286

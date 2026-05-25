@@ -1,7 +1,6 @@
 ---
 iso: bzk
 name: Nicaragua Creole English
-name_zh: 蚊子海岸克里奧爾語
 autonym: Mískito Coast Creole English
 alt_names: ["Creole English, Nicaragua", Miskito Coast Creole (MCC), Nicaraguan Creole English]
 population: 18400
@@ -15,6 +14,9 @@ glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Germanic > Northwest Germanic > West Germanic > North Sea Germanic > Anglo-Frisian > Anglic > Later Anglic > Middle-Modern English > Macro-English > Guinea Coast Creole English > Caribbean English Creole > Western Caribbean Creole > Miskitoic Creole English > Belize-Miskito Creole English > Nicaragua Creole English"
 wikipedia_url: "https://en.wikipedia.org/wiki/Miskito_Coast_Creole"
+translations:
+  - translation_iso: zho
+    name: 蚊子海岸克里奧爾語
 rolv_dialects:
   - rolv_code: 15050
     language_tag: bzk-x-HIS15050

@@ -1,8 +1,6 @@
 ---
 iso: msw
 name: Mansoanka
-name_zh: 曼索安卡语
-name_zh_auto: true
 autonym: Mansoanka
 alt_names: [Kunant, Kunante, Mansoanca, Maswanka, Sua]
 population: 20730
@@ -16,5 +14,9 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Mansoanka"
 wikipedia_url: "https://en.wikipedia.org/wiki/Sua_language"
+translations:
+  - translation_iso: zho
+    name: 曼索安卡语
+    auto: true
 ---
 Sua, also known by other ethnic groups as Mansoanka or Kunante, is a divergent Niger–Congo language spoken in the Mansôa area of Guinea-Bissau.

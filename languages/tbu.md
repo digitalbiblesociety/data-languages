@@ -1,8 +1,6 @@
 ---
 iso: tbu
 name: Tubar
-name_zh: 图巴尔语
-name_zh_auto: true
 autonym: Tubare
 alt_names: [Idioma tubar]
 population: null
@@ -16,5 +14,9 @@ glottolog_family_id: utoa1244
 glottolog_family_name: Uto-Aztecan
 glottolog_classification: "Uto-Aztecan > Southern Uto-Aztecan > Tubar"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tubar_language"
+translations:
+  - translation_iso: zho
+    name: 图巴尔语
+    auto: true
 ---
 Tubar or Tubare is an extinct language of southern Chihuahua, Mexico that belonged to the Uto-Aztecan language family.

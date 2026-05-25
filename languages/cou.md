@@ -1,8 +1,6 @@
 ---
 iso: cou
 name: Wamey
-name_zh: 瓦梅语
-name_zh_auto: true
 autonym: Konyagi
 alt_names: [Cogniagui, Conhague, Coniagui, Koniagi, Koniagui, Tenda, Wamay, Wamei]
 population: 50200
@@ -16,5 +14,13 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > North-Central Atlantic > Tenda > Wamey"
 wikipedia_url: "https://en.wikipedia.org/wiki/Wamey"
+translations:
+  - translation_iso: jpn
+    name: コニアギ語
+  - translation_iso: kor
+    name: 와메이어
+  - translation_iso: zho
+    name: 瓦梅语
+    auto: true
 ---
 Wamey, or Konyagi, is a Senegambian language of Senegal and Guinea spoken by the Konyagui people.

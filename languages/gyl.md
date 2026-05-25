@@ -1,8 +1,6 @@
 ---
 iso: gyl
 name: Gayil
-name_zh: 盖伊尔语
-name_zh_auto: true
 autonym: Galila
 alt_names: [Ari-Galila, Boko]
 population: 55700
@@ -16,5 +14,9 @@ glottolog_family_id: sout2845
 glottolog_family_name: South Omotic
 glottolog_classification: "South Omotic > AHK > Aari-Gayil > Gayil"
 wikipedia_url: "https://en.wikipedia.org/wiki/Gayil_language"
+translations:
+  - translation_iso: zho
+    name: 盖伊尔语
+    auto: true
 ---
 Gayil is an Omotic language of Ethiopia. According to the 2007 census, 55,700 people speak Gayil as a mother tongue.

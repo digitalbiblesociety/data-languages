@@ -1,7 +1,6 @@
 ---
 iso: ory
 name: Odia
-name_zh: 奥里亚语
 autonym: ଓଡ଼ିଆ
 alt_names: [Oriya (individual language)]
 population: 34500000
@@ -15,6 +14,17 @@ glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Indo-Aryan > Middle-Modern Indo-Aryan > Continental Indo-Aryan > Indo-Aryan Eastern zone > Oriya-Gauda-Kamrupa > Macro-Oriya > Odia"
 wikipedia_url: "https://en.wikipedia.org/wiki/Odia_language"
+translations:
+  - translation_iso: ara
+    name: لغة الأوريا
+  - translation_iso: hin
+    name: ओड़िआ भाषा
+  - translation_iso: jpn
+    name: オリヤー語
+  - translation_iso: kor
+    name: 오리야어
+  - translation_iso: zho
+    name: 奥里亚语
 rolv_dialects:
   - rolv_code: 3407
     language_tag: ory-x-HIS03407

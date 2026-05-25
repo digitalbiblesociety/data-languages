@@ -1,8 +1,6 @@
 ---
 iso: bnw
 name: Bisis
-name_zh: 比西斯语
-name_zh_auto: true
 autonym: Yambiyambi
 population: 500
 country_id: PG
@@ -15,5 +13,9 @@ glottolog_family_id: sepi1257
 glottolog_family_name: Sepik
 glottolog_classification: "Sepik > Sepik Hill > Central-Eastern Sepik Hill > Central Sepik Hill > Nuclear Central Sepik Hill > Mari-Bisis > Bisis"
 wikipedia_url: "https://en.wikipedia.org/wiki/Bisis_language"
+translations:
+  - translation_iso: zho
+    name: 比西斯语
+    auto: true
 ---
 Bisis is a Sepik language spoken in East Sepik Province, Papua-New Guinea. It is spoken in three villages, including Yembiyembi of Gawi Rural LLG in East Sepik Province.

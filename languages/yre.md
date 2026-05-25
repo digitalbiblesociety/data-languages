@@ -1,8 +1,6 @@
 ---
 iso: yre
 name: Yaouré
-name_zh: 亚乌雷语
-name_zh_auto: true
 autonym: null
 alt_names: [Yaoure, Yaure, Yohowré, Youré]
 population: 40000
@@ -16,6 +14,10 @@ glottolog_family_id: mand1469
 glottolog_family_name: Mande
 glottolog_classification: "Mande > Eastern Mande > Southeastern Mande > Mano-Dan > Guro-Dan > Guro-Yaoure > Yaouré"
 wikipedia_url: "https://en.wikipedia.org/wiki/Yaure_language"
+translations:
+  - translation_iso: zho
+    name: 亚乌雷语
+    auto: true
 rolv_dialects:
   - rolv_code: 18475
     language_tag: yre-x-HIS18475

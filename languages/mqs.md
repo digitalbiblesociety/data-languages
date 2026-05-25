@@ -1,7 +1,6 @@
 ---
 iso: mqs
 name: West Makian
-name_zh: 西马基安语
 autonym: Moi
 alt_names: [Makian (West), Makian Barat, Makian Luar, "Makian, West", "Moi (Maluku, Indonesia)", W Makian, W. Makian]
 population: 12000
@@ -15,5 +14,10 @@ glottolog_family_id: nort2923
 glottolog_family_name: North Halmahera
 glottolog_classification: "North Halmahera > West Makian"
 wikipedia_url: "https://en.wikipedia.org/wiki/West_Makian_language"
+translations:
+  - translation_iso: jpn
+    name: 西マキアン語
+  - translation_iso: zho
+    name: 西马基安语
 ---
 West Makian is a divergent North Halmahera language of Indonesia. It is spoken on the coast near Makian Island, and on the western half of that island.

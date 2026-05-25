@@ -1,8 +1,6 @@
 ---
 iso: nfd
 name: Ahwai
-name_zh: 艾瓦依语
-name_zh_auto: true
 autonym: Ndunic
 alt_names: [Hanyeng, Indun, Isakara, Nandu, Ndun, Ningon, Nyeng, Shakara, Tari]
 population: 3000
@@ -16,6 +14,10 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Benue-Congo Plateau > Ndunic"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ahwai_language"
+translations:
+  - translation_iso: zho
+    name: 艾瓦依语
+    auto: true
 rolv_dialects:
   - rolv_code: 2249
     language_tag: nfd-x-HIS02249

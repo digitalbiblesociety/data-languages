@@ -1,7 +1,6 @@
 ---
 iso: ysn
 name: Sani
-name_zh: 撒尼语
 autonym: Southeastern Yi
 alt_names: [Lolo, Yi, "Yi, Sani"]
 population: 100000
@@ -15,6 +14,11 @@ glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Burmo-Qiangic > Lolo-Burmese > Loloish > Ni-Li-Kazhouish > Southeastern Ngwi > Axioid > Sani-Axi-Azhe > Sani"
 wikipedia_url: "https://en.wikipedia.org/wiki/Sani_language"
+translations:
+  - translation_iso: jpn
+    name: 撒尼語
+  - translation_iso: zho
+    name: 撒尼语
 rolv_dialects:
   - rolv_code: 4775
     language_tag: ysn-x-HIS04775

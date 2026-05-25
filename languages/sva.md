@@ -1,7 +1,6 @@
 ---
 iso: sva
 name: Svan
-name_zh: 斯凡语
 autonym: ლუშნუ ნინ Lušnu nin
 alt_names: [Idioma esvano, Język swański, Lingua svan, Língua svan, Svanca, Svane, Svaneg, Svanetiska, Svanetià, Svanin kieli, Svanisk, Svančina, Swaansche Spraak, Swanische Sprache, Szván nyelv, lušnu nin, svanuri ena, Сван чĕлхи, Свански јазик, Сванська мова, лушну нин, сванский язык, סוואנית, ภาษาสวาน, ლუშნუ ნინ, სვანური ენა, スヴァン語]
 population: 15000
@@ -15,6 +14,15 @@ glottolog_family_id: kart1248
 glottolog_family_name: Kartvelian
 glottolog_classification: "Kartvelian > Svan"
 wikipedia_url: "https://en.wikipedia.org/wiki/Svan_language"
+translations:
+  - translation_iso: ara
+    name: لغة سفان
+  - translation_iso: jpn
+    name: スヴァン語
+  - translation_iso: kor
+    name: 스반어
+  - translation_iso: zho
+    name: 斯凡语
 rolv_dialects:
   - rolv_code: 16968
     language_tag: sva-x-HIS16968

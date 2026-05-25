@@ -1,8 +1,6 @@
 ---
 iso: doh
 name: Dong
-name_zh: 侗语
-name_zh_auto: true
 autonym: Donga
 alt_names: [Dɔ]
 population: 5000
@@ -16,5 +14,9 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Northern Bantoid > Dakoid > Tiba-Dong > Dong"
 wikipedia_url: "https://en.wikipedia.org/wiki/Dong_language_(Nigeria)"
+translations:
+  - translation_iso: zho
+    name: 侗语
+    auto: true
 ---
 Dong, or Donga, is a poorly documented language in Nigeria. Though clearly Niger–Congo, it is difficult to classify; British linguist Roger Blench proposes that it is one of the Dakoid languages, the closest to Gaa.

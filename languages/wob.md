@@ -1,8 +1,6 @@
 ---
 iso: wob
 name: Wè Northern
-name_zh: 北韦语
-name_zh_auto: true
 autonym: Northern Wèè
 alt_names: [Ouobe, Wobe, Wobé, Wèè]
 population: 265000
@@ -16,6 +14,10 @@ glottolog_family_id: krua1234
 glottolog_family_name: Kru
 glottolog_classification: "Kru > Greater Western Kru > Western Kru > Wee-Bassa-Klao > Wee > Nuclear Wee > Guere-Krahn > Wobe-Wè Northern"
 wikipedia_url: "https://en.wikipedia.org/wiki/Wob%C3%A9_language"
+translations:
+  - translation_iso: zho
+    name: 北韦语
+    auto: true
 rolv_dialects:
   - rolv_code: 18245
     language_tag: wob-x-HIS18245

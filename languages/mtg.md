@@ -1,8 +1,6 @@
 ---
 iso: mtg
 name: Una
-name_zh: 乌纳语
-name_zh_auto: true
 autonym: Goliath
 alt_names: [Langda, Langtub, Mt. Goliath, Oranje-Gebergte]
 population: 4000
@@ -16,5 +14,9 @@ glottolog_family_id: nucl1709
 glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Mek > Eastern Mek > Una"
 wikipedia_url: "https://en.wikipedia.org/wiki/Goliath_language"
+translations:
+  - translation_iso: zho
+    name: 乌纳语
+    auto: true
 ---
 Una, better known as Goliath, is a Papuan language spoken in Yahukimo Regency, Highland Papua.

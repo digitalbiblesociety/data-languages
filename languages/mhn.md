@@ -1,8 +1,6 @@
 ---
 iso: mhn
 name: Mócheno
-name_zh: 莫凯诺语
-name_zh_auto: true
 autonym: Bersntoler sproch
 alt_names: [Mocheno, Mòcheno]
 population: 1000
@@ -17,6 +15,12 @@ glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Germanic > Northwest Germanic > West Germanic > High German > Upper German > Middle-Modern High German > Modern High German > Bairisch > Global South Bavarian > Mòcheno"
 wikipedia_url: "https://en.wikipedia.org/wiki/M%C3%B2cheno_language"
+translations:
+  - translation_iso: jpn
+    name: モケーニ語
+  - translation_iso: zho
+    name: 莫凯诺语
+    auto: true
 rolv_dialects:
   - rolv_code: 14161
     language_tag: mhn-x-HIS14161

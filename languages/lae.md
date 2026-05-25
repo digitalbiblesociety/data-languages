@@ -1,7 +1,6 @@
 ---
 iso: lae
 name: Pattani
-name_zh: 帕塔南语
 autonym: Chamba
 alt_names: [Chamba Lahuli, Chamba Lāhulī, Changsapa Boli, Kanauri, Lahul, Lahuli, Lahuli de Chamba, Manchad, Manchati, Manchāti, Mantśati, Monchāti, Patan, Patni, Swangla]
 population: 11000
@@ -15,6 +14,11 @@ glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Bodic > West Himalayish > Western West Himalayish > Lahaulic > Pattani"
 wikipedia_url: "https://en.wikipedia.org/wiki/Pattani_language"
+translations:
+  - translation_iso: hin
+    name: मंचन्द भाषा
+  - translation_iso: zho
+    name: 帕塔南语
 rolv_dialects:
   - rolv_code: 2426
     language_tag: lae-x-HIS02426

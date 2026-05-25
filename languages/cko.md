@@ -1,8 +1,6 @@
 ---
 iso: cko
 name: Anufo
-name_zh: 阿努夫语
-name_zh_auto: true
 autonym: Anufo
 alt_names: [Chakosi, Chokosi, Chokossi, Kyokosi, Tchokossi, Tiokossi]
 population: 177200
@@ -16,6 +14,10 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Kwa Volta-Congo > Nyo > Potou-Tano > Tano > Central Tano > Bia > Northern Bia > Anufo"
 wikipedia_url: "https://en.wikipedia.org/wiki/Anufo_language"
+translations:
+  - translation_iso: zho
+    name: 阿努夫语
+    auto: true
 rolv_dialects:
   - rolv_code: 27233
     language_tag: cko-x-HIS27233

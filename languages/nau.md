@@ -1,7 +1,6 @@
 ---
 iso: nau
 name: Nauru
-name_zh: 瑙鲁语
 autonym: Nauru
 alt_names: [Bahasa Nauru, Dorerin Naoero, Idioma nauruano, Język nauruański, Lengua naureise, Lingua nauruaisa, Lingua nauruana, Língua nauruana, Naoeroeg, Naura lingvo, Naurisk, Nauriska, Nauru keel, Nauruaans, Nauruan, Nauruan language, Nauruano, Nauruca, Nauruiečių kalba, Nauruiešu valoda, Nauruische Sprache, Naurun kieli, Nauruština, Ναουρού, Науруански език, Науруанский язык, נאורית, لغة ناورونية, ภาษานาอูรู, ናውሩኛ, ナウル語, 瑙鲁语, 나우루어]
 population: 9300
@@ -16,5 +15,16 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Micronesian > Kosraean-Nauruan > Nauru"
 wikipedia_url: "https://en.wikipedia.org/wiki/Nauruan_language"
+translations:
+  - translation_iso: ara
+    name: الناوروية
+  - translation_iso: hin
+    name: नाउरुई भाषा
+  - translation_iso: jpn
+    name: ナウル語
+  - translation_iso: kor
+    name: 나우루어
+  - translation_iso: zho
+    name: 瑙鲁语
 ---
 Nauruan or Nauru is an Austronesian language, spoken natively in the island country of Nauru.

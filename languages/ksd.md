@@ -1,7 +1,6 @@
 ---
 iso: ksd
 name: Kuanua
-name_zh: 庫阿努阿語
 autonym: Kuanua
 alt_names: [Blanche Bay, Gunantuna, Neu-Pommern, New Britain Language, Ober-Mengen, Tinata Tuna, Tolai, Tuna, Куануа, クアヌア語]
 population: 120000
@@ -15,6 +14,11 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > Meso Melanesian linkage > New Ireland-Northwest Solomonic linkage > St George linkage > Patpatar-Minigir-Tolai > Minigir-Tolai > Kuanua"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tolai_language"
+translations:
+  - translation_iso: jpn
+    name: クアヌア語
+  - translation_iso: zho
+    name: 庫阿努阿語
 rolv_dialects:
   - rolv_code: 1463
     language_tag: ksd-x-HIS01463

@@ -1,8 +1,6 @@
 ---
 iso: bex
 name: Jur Modo
-name_zh: 朱尔莫多语
-name_zh_auto: true
 autonym: Jur
 alt_names: [Jur Mödö, Modo, Morokodo, Mödö]
 population: 180000
@@ -16,6 +14,10 @@ glottolog_family_id: cent2225
 glottolog_family_name: Central Sudanic
 glottolog_classification: "Central Sudanic > Sara-Bongo-Bagirmi > Baka-Beli > Morokodo-Beli > Lori > Jur Modo"
 wikipedia_url: "https://en.wikipedia.org/wiki/Jur_Modo_language"
+translations:
+  - translation_iso: zho
+    name: 朱尔莫多语
+    auto: true
 rolv_dialects:
   - rolv_code: 929
     language_tag: bex-x-HIS00929

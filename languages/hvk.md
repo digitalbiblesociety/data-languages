@@ -1,8 +1,6 @@
 ---
 iso: hvk
 name: Haveke
-name_zh: 哈韦克语
-name_zh_auto: true
 autonym: Aveke
 alt_names: ["'Aveke", Haeke, Hmwaveke, Neukaledonien]
 population: 300
@@ -16,5 +14,13 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Southern Melanesian > New Caledonian > Mainland New Caledonian > Northern New Caledonian > Mid-Northern New Caledonian > Voh-Kone-Cem-Pac > Voh-Kone > Bwatooic > Haveke"
 wikipedia_url: "https://en.wikipedia.org/wiki/Haveke_language"
+translations:
+  - translation_iso: ara
+    name: لغة هافيكي
+  - translation_iso: jpn
+    name: ハヴェケ語
+  - translation_iso: zho
+    name: 哈韦克语
+    auto: true
 ---
 Haveke is a Kanak language of New Caledonia, in the commune of Voh. Bwatoo dialect is distinct.

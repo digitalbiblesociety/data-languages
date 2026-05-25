@@ -1,8 +1,6 @@
 ---
 iso: irx
 name: Kamberau
-name_zh: 卡姆贝劳语
-name_zh_auto: true
 autonym: Asienara
 alt_names: [Iria, Kamrau]
 population: 1570
@@ -16,6 +14,10 @@ glottolog_family_id: nucl1709
 glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Asmat-Awyu-Ok > Asmat-Kamrau Bay > Sabakor > Kamberau > North Kamrau"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kamberau_language"
+translations:
+  - translation_iso: zho
+    name: 卡姆贝劳语
+    auto: true
 rolv_dialects:
   - rolv_code: 1247
     language_tag: irx-x-HIS01247

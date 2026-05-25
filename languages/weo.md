@@ -1,8 +1,6 @@
 ---
 iso: weo
 name: Wemale
-name_zh: 韦玛莱语
-name_zh_auto: true
 autonym: Honitetu
 alt_names: [Indonesia, North Wemale, "Wemale, North"]
 population: 3091
@@ -16,6 +14,10 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Nunusaku > Three Rivers > Wemale"
 wikipedia_url: "https://en.wikipedia.org/wiki/Wemale_language"
+translations:
+  - translation_iso: zho
+    name: 韦玛莱语
+    auto: true
 rolv_dialects:
   - rolv_code: 18272
     language_tag: weo-x-HIS18272

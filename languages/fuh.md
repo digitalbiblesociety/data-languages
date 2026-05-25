@@ -1,8 +1,6 @@
 ---
 iso: fuh
 name: Western Niger Fulfulde
-name_zh: 西尼日富拉语
-name_zh_auto: true
 autonym: " Fulah"
 alt_names: [Ful (Liptako), Ful(ani), Fula, Fula (Burkina Faso), Fulah-Idiome, Fulani, Fulbe, Fulfulde, Fulfulde (Burkina Faso), Fulfulde (Northeastern Burkina Faso), "Fulfulde, Western Niger", Gorgal, Liptaako-Dori Fula, Liptako Ful, Northeastern Burkina Faso Fulfulde, Peul, Peulh]
 population: 2320000
@@ -16,6 +14,12 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > North-Central Atlantic > Fula-Sereer > Fula > Western Niger Fulfulde"
 wikipedia_url: "https://en.wikipedia.org/wiki/Western_Niger_Fulfulde"
+translations:
+  - translation_iso: jpn
+    name: 西部ニジェール・フルフルディ語
+  - translation_iso: zho
+    name: 西尼日富拉语
+    auto: true
 rolv_dialects:
   - rolv_code: 1790
     language_tag: fuh-x-HIS01790

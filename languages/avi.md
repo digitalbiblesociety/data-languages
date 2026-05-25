@@ -1,8 +1,6 @@
 ---
 iso: avi
 name: Avikam
-name_zh: 阿维卡姆语
-name_zh_auto: true
 autonym: Avekom
 alt_names: [Brignan, Brinya, Gbanda, Kwakwa, Lahu, Lenga Avikam]
 population: 21000
@@ -16,5 +14,13 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Kwa Volta-Congo > Nyo > Avikam-Alladian > Avikam"
 wikipedia_url: "https://en.wikipedia.org/wiki/Avikam_language"
+translations:
+  - translation_iso: hin
+    name: अविकम भाषा
+  - translation_iso: jpn
+    name: アヴィカム語
+  - translation_iso: zho
+    name: 阿维卡姆语
+    auto: true
 ---
 Avikam is one of the Lagoon languages of Ivory Coast, spoken in Grand Lahou Département, Avikam Canton, South Department. It is a Kwa language, closely related to Alladian, but other than that its position is unclear.

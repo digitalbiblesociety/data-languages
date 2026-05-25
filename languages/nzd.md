@@ -1,8 +1,6 @@
 ---
 iso: nzd
 name: Nzadi
-name_zh: 恩扎迪语
-name_zh_auto: true
 autonym: Indzéé
 population: null
 country_id: CD
@@ -15,5 +13,9 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > Central-Western Bantu > West-Coastal Bantu > Nzadic > Nzadi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Nzadi_language"
+translations:
+  - translation_iso: zho
+    name: 恩扎迪语
+    auto: true
 ---
 Nzadi is a Bantu language spoken in the Democratic Republic of the Congo, "from Kwamuntu to Ilebo along the north side of the Kasai River in Bandundu Province." The number of speakers of Nzadi is not known, but is estimated to be in the thousands. The Nzadi language has three dialects, Ngiemba, Lensibun, and Ndzé Ntaa.

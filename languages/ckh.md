@@ -1,8 +1,6 @@
 ---
 iso: ckh
 name: Chak
-name_zh: 恰克语
-name_zh_auto: true
 autonym: Cak
 alt_names: [Sak, Sak (Bangladesh), Sak (Myanmar)]
 population: 20000
@@ -16,5 +14,11 @@ glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Brahmaputran > Jingpho-Luish > Luish > Chak"
 wikipedia_url: "https://en.wikipedia.org/wiki/Sak_language"
+translations:
+  - translation_iso: jpn
+    name: サク諸語
+  - translation_iso: zho
+    name: 恰克语
+    auto: true
 ---
 Sak is a Sino-Tibetan language of the Sal branch spoken in Bangladesh and Myanmar by the Chak people.

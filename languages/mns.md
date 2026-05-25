@@ -1,7 +1,6 @@
 ---
 iso: mns
 name: Mansi
-name_zh: 曼西语
 autonym: ма̄ньси ла̄тыӈ
 alt_names: [Idioma mansi, Język mansyjski, Lingua vogula, Mansa lingvo, Mansi (Vogul), Mansi du Nord, Mansi du Sud, Mansi occidental, Mansi oriental, Mansice, Mansieg, Mansin kieli, Mansis, Mansische Sprache, Mansisk språk, Mansiska, Mansiy, Mansių kalba, Mantschi, Manysi nyelv, Mańsi, "Northern Man'si", Northern Mansi, Northern Vogul, "Sos'va", Vogul, Vogulian, Vogulich, Vogulisch, Voguly, Wogluwitzi, Wogoels, Wogulisch, jugra, manshi, mansijskij jazyk, man΄si latyng, mãnśi, vogoule, Вӧгул кыв, Манси кыл, Мансийски език, Мансийский язык, Мансинь кель, Мансиски јазик, вогульский, маньси, моаньсь, северно-мансийский язык, マンシ語]
 population: 12300
@@ -16,6 +15,15 @@ glottolog_family_id: ural1272
 glottolog_family_name: Uralic
 glottolog_classification: "Uralic > Mansic > North-Central Mansi > Northern Mansi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mansi_languages"
+translations:
+  - translation_iso: ara
+    name: المانسية
+  - translation_iso: jpn
+    name: マンシ語
+  - translation_iso: kor
+    name: 만시어
+  - translation_iso: zho
+    name: 曼西语
 rolv_dialects:
   - rolv_code: 13656
     language_tag: mns-x-HIS13656

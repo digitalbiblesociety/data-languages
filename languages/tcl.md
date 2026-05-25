@@ -1,8 +1,6 @@
 ---
 iso: tcl
 name: Taman (Myanmar)
-name_zh: 缅甸塔曼语
-name_zh_auto: true
 autonym: null
 alt_names: [Taman]
 population: 2015
@@ -16,6 +14,10 @@ glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Brahmaputran > Jingpho-Luish > Luish > Unclassified Luish > Taman (Myanmar)"
 wikipedia_url: "https://en.wikipedia.org/wiki/Taman_language_(Myanmar)"
+translations:
+  - translation_iso: zho
+    name: 缅甸塔曼语
+    auto: true
 rolv_dialects:
   - rolv_code: 17136
     language_tag: tcl-x-HIS17136

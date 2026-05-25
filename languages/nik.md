@@ -1,7 +1,6 @@
 ---
 iso: nik
 name: Southern Nicobarese
-name_zh: 南尼科巴語
 autonym: Sambelong
 alt_names: [Condul, Great Nicobar, Lamongse, Lamongshe, Little Nicobar, "Lo'ong", Lo-ɔng, Milo, Nicobara, Nicobarese, "Nicobarese, Southern", Ong, South Nicobarese, Southern, Süddialekt, Takahanyilang]
 population: 348
@@ -15,6 +14,11 @@ glottolog_family_id: aust1305
 glottolog_family_name: Austroasiatic
 glottolog_classification: "Austroasiatic > Nicobaric > Nuclear Nicobaric > Central Nicobar > Southern Nicobarese"
 wikipedia_url: "https://en.wikipedia.org/wiki/Southern_Nicobarese_language"
+translations:
+  - translation_iso: hin
+    name: दक्षिण निकोबारी भाषा
+  - translation_iso: zho
+    name: 南尼科巴語
 rolv_dialects:
   - rolv_code: 14975
     language_tag: nik-x-HIS14975

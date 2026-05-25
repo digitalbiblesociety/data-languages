@@ -1,7 +1,6 @@
 ---
 iso: cak
 name: Kaqchikel
-name_zh: 喀克其奎語
 autonym: Kaqchikel Chʼabʼäl
 alt_names: [Cakchiquel, Central, Idioma kakchikel, Język kakczikel, Kachiquel, Kakchiquel, Kaqchikel simi, "Kaqchikel, Central", Kaqchiquel, Língua caqchiquel, Какчикелски јазик, 喀克其奎語]
 population: 1070000
@@ -15,6 +14,13 @@ glottolog_family_id: maya1287
 glottolog_family_name: Mayan
 glottolog_classification: "Mayan > Core Mayan > Quichean-Mamean > Greater Quichean > Core Quichean > Cakchiquel-Tzutujil > Kaqchikelic > Kaqchikel"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kaqchikel_language"
+translations:
+  - translation_iso: jpn
+    name: カクチケル語
+  - translation_iso: kor
+    name: 칵치켈어
+  - translation_iso: zho
+    name: 喀克其奎語
 rolv_dialects:
   - rolv_code: 12
     language_tag: cak-x-HIS00012

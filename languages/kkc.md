@@ -1,8 +1,6 @@
 ---
 iso: kkc
 name: Odoodee
-name_zh: 奥多迪语
-name_zh_auto: true
 autonym: Nomad
 alt_names: [Kalamo, Ododei, Tomu, Tomu River]
 population: 430
@@ -16,5 +14,9 @@ glottolog_family_id: east2433
 glottolog_family_name: East Strickland
 glottolog_classification: "East Strickland > Odoodee"
 wikipedia_url: "https://en.wikipedia.org/wiki/Odoodee_language"
+translations:
+  - translation_iso: zho
+    name: 奥多迪语
+    auto: true
 ---
 Odoodee (Ododei) is a Trans–New Guinea language of New Guinea, spoken in the plains east of the Strickland River. It is also called Tomu, after the river along which it is found, and Nomad. It has two dialects, the Hesif dialect and the Kalamo dialect.

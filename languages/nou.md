@@ -1,8 +1,6 @@
 ---
 iso: nou
 name: "Ewage-Notu"
-name_zh: 埃瓦热-诺图语
-name_zh_auto: true
 autonym: Notu
 alt_names: [Ewage, Yega]
 population: 12000
@@ -16,6 +14,10 @@ glottolog_family_id: nucl1709
 glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Greater Binanderean > Binanderean > Nuclear Binanderean > South Binanderean > Coastal Binanderean > Ewage-Notu"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ewage_language"
+translations:
+  - translation_iso: zho
+    name: 埃瓦热-诺图语
+    auto: true
 rolv_dialects:
   - rolv_code: 502
     language_tag: nou-x-HIS00502

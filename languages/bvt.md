@@ -1,8 +1,6 @@
 ---
 iso: bvt
 name: Bati (Indonesia)
-name_zh: 巴蒂语（印度尼西亚）
-name_zh_auto: true
 autonym: Gah
 alt_names: [Bati]
 population: 3500
@@ -16,5 +14,9 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Greater Seram Laut > Banda-Geser > Seran Laut > Geser-Gorom-Bati > Bati (Indonesia)"
 wikipedia_url: "https://en.wikipedia.org/wiki/Bati_language_(Indonesia)"
+translations:
+  - translation_iso: zho
+    name: 巴蒂语（印度尼西亚）
+    auto: true
 ---
 Bati is an Austronesian language of eastern Seram Island, Indonesia. It is closely related to Geser and Watubela.

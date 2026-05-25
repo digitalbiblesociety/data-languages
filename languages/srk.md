@@ -1,8 +1,6 @@
 ---
 iso: srk
 name: Serudung Murut
-name_zh: 塞鲁顿木鲁特语
-name_zh_auto: true
 autonym: Tidong
 alt_names: [Serudong, Tawau Murut, Tidung]
 population: 350
@@ -16,5 +14,9 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > North Borneo Malayo-Polynesian > Sabahan > Southwest Sabahan > Greater Dusunic > Paitanic > Serudung Murut"
 wikipedia_url: "https://en.wikipedia.org/wiki/Serudung_language"
+translations:
+  - translation_iso: zho
+    name: 塞鲁顿木鲁特语
+    auto: true
 ---
 Serudung Murut, or Serudung, is a Sabahan language spoken by members of the Tidong ethnic group in Kalabakan District, Sabah, Malaysia.

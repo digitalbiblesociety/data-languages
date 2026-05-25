@@ -1,8 +1,6 @@
 ---
 iso: pdo
 name: Padoe
-name_zh: 帕多埃语
-name_zh_auto: true
 autonym: Alalao
 alt_names: [Mori, Padoé, South Mori]
 population: 6000
@@ -16,6 +14,10 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Celebic > Greater Eastern Celebic > Eastern Celebic > Southeastern Celebic > Bungku-Tolaki > Western Bungku-Tolaki > Interior Bungku-Tolaki > Padoe"
 wikipedia_url: "https://en.wikipedia.org/wiki/Padoe_language"
+translations:
+  - translation_iso: zho
+    name: 帕多埃语
+    auto: true
 rolv_dialects:
   - rolv_code: 25928
     language_tag: pdo-x-HIS25928

@@ -1,8 +1,6 @@
 ---
 iso: kel
 name: Kela (Democratic Republic of Congo)
-name_zh: 凯拉语
-name_zh_auto: true
 autonym: Yela
 population: 180000
 country_id: CD
@@ -10,6 +8,10 @@ country_name: DR Congo
 status_id: 6a
 latitude: -1.39085
 longitude: 24.00506
+translations:
+  - translation_iso: zho
+    name: 凯拉语
+    auto: true
 rolv_dialects:
   - rolv_code: 1400
     language_tag: kel-x-HIS01400

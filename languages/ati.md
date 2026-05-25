@@ -1,8 +1,6 @@
 ---
 iso: ati
 name: Attié
-name_zh: 阿蒂耶语
-name_zh_auto: true
 autonym: Akie
 alt_names: [Akye, Atche, Atie, Atshe, Attie]
 population: 642000
@@ -16,6 +14,12 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Kwa Volta-Congo > Nyo > Attié"
 wikipedia_url: "https://en.wikipedia.org/wiki/Atti%C3%A9_language"
+translations:
+  - translation_iso: jpn
+    name: アチェ語
+  - translation_iso: zho
+    name: 阿蒂耶语
+    auto: true
 rolv_dialects:
   - rolv_code: 7336
     language_tag: ati-x-HIS07336

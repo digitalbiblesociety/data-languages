@@ -1,7 +1,6 @@
 ---
 iso: vls
 name: Vlaams
-name_zh: 西佛兰德语
 autonym: "West-Vlaams"
 alt_names: [Flamand, Flamand occidental, Flamandu kalba, Flamandų kalba, Flamanski jezik, Flamenco occidental, Flamländska, Flamsk, Flandra lingvo, Flandrezeg, Flandriera, Flemisc sprǣc, Flemish, Flemish language, Flämische Dialekte, Flæmska, Idioma flamenco, Język flamandzki, Limba flamandă, Lingua Flandrica, Lingua fiamminga, Lèngoa fiamminga, Língua flamenga, Vlaams-ngî, Vlaemsch, Φλαμανδική γλώσσα, Фламандиаг æвзаг, Фламандски диалекти, Фламандский язык, Фламански јазик, Фламански језик, ফ্লেমিশ ভাষা, ภาษาเฟลมิช, ᐱᓚᒥᔅ/pilamis, フラマン語, 佛兰芒语]
 population: 6029500
@@ -16,6 +15,15 @@ glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Germanic > Northwest Germanic > West Germanic > Macro-Dutch > Middle-Modern Dutch > Modern Dutch > Southwestern Dutch > Western Flemish"
 wikipedia_url: "https://en.wikipedia.org/wiki/West_Flemish"
+translations:
+  - translation_iso: ara
+    name: الفلمنكية الغربية
+  - translation_iso: jpn
+    name: 西フラマン語
+  - translation_iso: kor
+    name: 서플랑드르어
+  - translation_iso: zho
+    name: 西佛兰德语
 rolv_dialects:
   - rolv_code: 18063
     language_tag: nl-NL-x-HIS18063

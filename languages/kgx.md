@@ -1,8 +1,6 @@
 ---
 iso: kgx
 name: Kamaru
-name_zh: 卡马鲁语
-name_zh_auto: true
 autonym: bahasa Kamaru
 alt_names: [Indonesia]
 population: 3500
@@ -16,5 +14,9 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Celebic > Kaili-Wolio > Southern Kaili-Wolio > Island Kaili-Wolio > Wolio-Kamaru > Kamaru"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kamaru_language"
+translations:
+  - translation_iso: zho
+    name: 卡马鲁语
+    auto: true
 ---
 Kamaru is an Austronesian language spoken on Buton Island, Southeast Sulawesi, Indonesia. It belongs to the Wotu–Wolio branch of the Celebic subgroup.

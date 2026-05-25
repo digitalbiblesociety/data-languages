@@ -1,8 +1,6 @@
 ---
 iso: kno
 name: Kono (Sierra Leone)
-name_zh: 科诺语
-name_zh_auto: true
 autonym: Kono
 alt_names: [Konnoh, Коно]
 population: 272000
@@ -16,6 +14,12 @@ glottolog_family_id: mand1469
 glottolog_family_name: Mande
 glottolog_classification: "Mande > Western Mande > Manding-Kpelle > Central Mande > Manding-Jogo > Manding-Vai > Vai-Kono > Kono (Sierra Leone)"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kono_language_(Sierra_Leone)"
+translations:
+  - translation_iso: jpn
+    name: コノ語
+  - translation_iso: zho
+    name: 科诺语
+    auto: true
 rolv_dialects:
   - rolv_code: 12248
     language_tag: kno-x-HIS12248

@@ -1,8 +1,6 @@
 ---
 iso: dwa
 name: Diri
-name_zh: 迪里语
-name_zh_auto: true
 autonym: Diriya
 alt_names: [Dirya, Diryawa]
 population: 7200
@@ -16,5 +14,9 @@ glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > West Chadic > West Chadic B > West Chadic B.2 > Diri"
 wikipedia_url: "https://en.wikipedia.org/wiki/Diri_language"
+translations:
+  - translation_iso: zho
+    name: 迪里语
+    auto: true
 ---
 Diri (Diryawa) is an Afro-Asiatic language spoken in Bauchi State, Nigeria.

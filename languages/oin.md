@@ -1,8 +1,6 @@
 ---
 iso: oin
 name: Inebu One
-name_zh: 因内布翁语
-name_zh_auto: true
 autonym: Aunalei
 alt_names: [Inebu, Kabore One, Kuamtim, Kwamtim One, Molmo One, Northern One, One, "One, Inebu", Onele, Oni, Southern One]
 population: 1300
@@ -15,4 +13,8 @@ glottocode: ineb1235
 glottolog_family_id: nucl1708
 glottolog_family_name: Nuclear Torricelli
 glottolog_classification: "Nuclear Torricelli > West Wapei > One > Central-Northern One > Inebu One"
+translations:
+  - translation_iso: zho
+    name: 因内布翁语
+    auto: true
 ---

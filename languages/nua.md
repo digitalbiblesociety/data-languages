@@ -1,8 +1,6 @@
 ---
 iso: nua
 name: Yuanga
-name_zh: 尤昂加语
-name_zh_auto: true
 autonym: Bondé
 alt_names: [Juanga, Neukaledonien, Nua, Nyua, Thuanga, Yuaga]
 population: 1990
@@ -16,6 +14,10 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Southern Melanesian > New Caledonian > Mainland New Caledonian > Northern New Caledonian > Extreme Northern New Caledonian > Kum-Nel-Yua-Cac > Kum-Nel-Yua > Yuaga"
 wikipedia_url: "https://en.wikipedia.org/wiki/Yuanga_language"
+translations:
+  - translation_iso: zho
+    name: 尤昂加语
+    auto: true
 rolv_dialects:
   - rolv_code: 18628
     language_tag: nua-x-HIS18628

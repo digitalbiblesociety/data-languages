@@ -1,7 +1,6 @@
 ---
 iso: snd
 name: Sindhi
-name_zh: 信德语
 autonym: سنڌي
 alt_names: [Bahasa Sindh, Bahasa Sindhi, Idioma sindhi, Lingua Sindhi, Lingua Sindhuica, Língua sindi, Sinda lingvo, Sindeg, Sindera, Sindhi bhasa, Sindhî, Sindhština, Sindi simi, Èdè Sindhi, Синдхи, Сіндхі, סינדהי, سندھی, سندھی زبان, سنڌي ٻولي, سىندى تىلى, سيندى, لغة سندية, सिंधी भाषा, সিন্ধি ভাষা, சிந்தி மொழி, സിന്ധി ഭാഷ, ภาษาสินธี, სინდჰური ენა, シンド語, 信德语, 신디어]
 population: 24600000
@@ -16,6 +15,17 @@ glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Indo-Aryan > Middle-Modern Indo-Aryan > Continental Indo-Aryan > Indo-Aryan Northwestern zone > Sindhi-Lahnda > Sindhic > Sindhi-Kachchi > Sindhi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Sindhi_language"
+translations:
+  - translation_iso: ara
+    name: السندية
+  - translation_iso: hin
+    name: सिन्धी
+  - translation_iso: jpn
+    name: シンド語
+  - translation_iso: kor
+    name: 신디어
+  - translation_iso: zho
+    name: 信德语
 rolv_dialects:
   - rolv_code: 691
     language_tag: sd-x-HIS00691

@@ -1,8 +1,6 @@
 ---
 iso: vto
 name: Vitou
-name_zh: 维图语
-name_zh_auto: true
 autonym: Takar
 population: 630
 country_id: ID
@@ -15,5 +13,9 @@ glottolog_family_id: toro1256
 glottolog_family_name: Tor-Orya
 glottolog_classification: "Tor-Orya > Tor > Coastal Tor > Betaf-Vitou > Vitou"
 wikipedia_url: "https://en.wikipedia.org/wiki/Vitou_language"
+translations:
+  - translation_iso: zho
+    name: 维图语
+    auto: true
 ---
 Vitou is a Papuan language of Indonesia used mainly by older adults. It is spoken in Takar village, Sarmi Regency, and is one of two languages known as "Manirem", the other being Betaf.

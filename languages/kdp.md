@@ -1,8 +1,6 @@
 ---
 iso: kdp
 name: "Kaningdon-Nindem"
-name_zh: 卡宁东-宁德姆语
-name_zh_auto: true
 autonym: "Kaningkom-Nindem"
 alt_names: [Nigeria]
 population: 12000
@@ -16,6 +14,10 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Benue-Congo Plateau > Ninzic > Kanufi-Ninkyob-Angan > Kaningdon-Nindem"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ninkyob-Nindem_language"
+translations:
+  - translation_iso: zho
+    name: 卡宁东-宁德姆语
+    auto: true
 rolv_dialects:
   - rolv_code: 4255
     language_tag: kdp-x-HIS04255

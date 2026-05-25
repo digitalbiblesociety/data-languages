@@ -1,8 +1,6 @@
 ---
 iso: pnz
 name: Pana (Central African Republic)
-name_zh: 帕纳语(中非共和国)
-name_zh_auto: true
 autonym: Pani
 alt_names: [Pana]
 population: 10000
@@ -16,6 +14,12 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Cameroun-Ubangian > Mbumic > Central Mbum > Karangic > Kare-Pana > Pana (Central African Republic)"
 wikipedia_url: "https://en.wikipedia.org/wiki/Pana_language"
+translations:
+  - translation_iso: jpn
+    name: パナ語
+  - translation_iso: zho
+    name: 帕纳语(中非共和国)
+    auto: true
 rolv_dialects:
   - rolv_code: 15453
     language_tag: pnz-x-HIS15453

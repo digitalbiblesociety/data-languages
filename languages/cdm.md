@@ -1,7 +1,6 @@
 ---
 iso: cdm
 name: Chepang
-name_zh: 切彭语
 autonym: "Chyo-bang"
 alt_names: [Chēpāng, Tsepang, Tśepang]
 population: 48500
@@ -15,6 +14,13 @@ glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Himalayish > Mahakiranti > Kham-Magar-Chepang > Chepangic > Chepang"
 wikipedia_url: "https://en.wikipedia.org/wiki/Chepang_language"
+translations:
+  - translation_iso: hin
+    name: चेपाङ भाषा
+  - translation_iso: jpn
+    name: チェパン語
+  - translation_iso: zho
+    name: 切彭语
 rolv_dialects:
   - rolv_code: 4097
     language_tag: cdm-x-HIS04097

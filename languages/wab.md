@@ -1,8 +1,6 @@
 ---
 iso: wab
 name: Wab
-name_zh: 瓦布语
-name_zh_auto: true
 autonym: Som
 alt_names: [Yote]
 population: 120
@@ -16,5 +14,9 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > North New Guinea linkage > Ngero-Vitiaz linkage > Vitiaz linkage > Bel-Roinji-Nenaya > Bel > Eastern Bel > Wab"
 wikipedia_url: "https://en.wikipedia.org/wiki/Yote_language"
+translations:
+  - translation_iso: zho
+    name: 瓦布语
+    auto: true
 ---
 Yote or Wab is an Austronesian language spoken by about 120 people in the coastal villages of Wab and Saui, Madang Province, Papua New Guinea.

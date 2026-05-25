@@ -1,8 +1,6 @@
 ---
 iso: juk
 name: Wapan
-name_zh: 瓦潘语
-name_zh_auto: true
 autonym: Jukun
 alt_names: [Jinkum, Jukon, Juku, Juku Junkun, Jukum, Jukun Wapan, Jukun Wukari, Wakari, Wapã, Wukari, Wukari Jukun]
 population: 100000
@@ -16,6 +14,10 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Jukunoid > Central Jukunoid > Jukun-Mbembe-Wurbo > Jukun > Kororofa > Wapan"
 wikipedia_url: "https://en.wikipedia.org/wiki/Wapan_language"
+translations:
+  - translation_iso: zho
+    name: 瓦潘语
+    auto: true
 rolv_dialects:
   - rolv_code: 18187
     language_tag: juk-x-HIS18187

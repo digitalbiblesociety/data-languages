@@ -1,8 +1,6 @@
 ---
 iso: bzp
 name: Kemberano
-name_zh: 肯贝拉诺语
-name_zh_auto: true
 autonym: Weriagar
 alt_names: [Arandai, Barau, Kalitami, Wariagar]
 population: 1500
@@ -16,6 +14,10 @@ glottolog_family_id: sout3418
 glottolog_family_name: "South Bird's Head"
 glottolog_classification: "South Bird's Head > Nuclear South Bird's Head > Kaburic > East South Bird's Head > Kemberanic > Kemberano"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kemberano_language"
+translations:
+  - translation_iso: zho
+    name: 肯贝拉诺语
+    auto: true
 rolv_dialects:
   - rolv_code: 11789
     language_tag: bzp-x-HIS11789

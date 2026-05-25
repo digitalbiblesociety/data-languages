@@ -1,8 +1,6 @@
 ---
 iso: coc
 name: Cocopa
-name_zh: 科科帕语
-name_zh_auto: true
 autonym: Kwikapa
 alt_names: [Cocapa, Cocopa (Arizona), Cocopa (México), Cocopah, Cocopah language, Cocopá, Cucapa, Cucapá, Cucapá (Mexique), Cucupá, Delta River Yuman, Idioma cucapá, Kikima, Kikimá, Kwikapá, Yuman (Delta River)]
 population: 200
@@ -16,5 +14,11 @@ glottolog_family_id: coch1271
 glottolog_family_name: Cochimi-Yuman
 glottolog_classification: "Cochimi-Yuman > Yuman > General Yuman > Delta-Californian Yuman > Cocopa"
 wikipedia_url: "https://en.wikipedia.org/wiki/Cocopah_language"
+translations:
+  - translation_iso: jpn
+    name: ココパ語
+  - translation_iso: zho
+    name: 科科帕语
+    auto: true
 ---
 Cocopah is a Delta language of the Yuman language family spoken by the Cocopah. Cocopah is believed to have derived from the Hokan language, and it is related to the other Native American languages of Mojave and Kumeyaay. Cocopah is considered an endangered language, with fewer than 400 speakers at the turn of the 21st century. However, in an effort to keep the language alive, Yuma County's Cocopah Museum began offering classes teaching Cocopah to children in 1998.

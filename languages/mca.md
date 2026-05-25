@@ -1,8 +1,6 @@
 ---
 iso: mca
 name: Maca
-name_zh: 马卡语
-name_zh_auto: true
 autonym: Maká
 alt_names: [Enimaca, Enimaga, Macca, Macá, "Mak'á", Maka, Makų kalba, Nynaka, Toothle, Towolhi, Towothli]
 population: 1500
@@ -16,5 +14,9 @@ glottolog_family_id: mata1289
 glottolog_family_name: Mataguayan
 glottolog_classification: "Mataguayan > Mataguayo I > Maká"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mak%C3%A1_language"
+translations:
+  - translation_iso: zho
+    name: 马卡语
+    auto: true
 ---
 Maká is a Matacoan language spoken in Argentina and Paraguay by the Maká people. Its 1,500 speakers live primarily in Presidente Hayes Department near the Río Negro, as well as in and around Asunción.

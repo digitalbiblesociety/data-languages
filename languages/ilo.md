@@ -1,7 +1,6 @@
 ---
 iso: ilo
 name: Iloko
-name_zh: 伊洛卡诺语
 autonym: Ilokano
 alt_names: [Bahasa Iloko, Idioma ilocano, Ilocana, Ilocano, Iloka lingvo, Ilokan, Ilokano nga yinaknan, Ilokanoeg, Ilokanu, Język iloko, Lengua ilokann-a, Pagsasao nga Iloko, Pinulongang Iloko, Tataramon na Ilokano, Wikang Iloko, Илоканский язык, ইলোকানো ভাষা, ภาษาอีโลกาโน, ኢሎካኖ, イロカノ語]
 population: 6482100
@@ -16,6 +15,17 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Northern Luzon > Iloko"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ilocano_language"
+translations:
+  - translation_iso: ara
+    name: الإيلوكانوية
+  - translation_iso: hin
+    name: इलोकानो भाषा
+  - translation_iso: jpn
+    name: イロカノ語
+  - translation_iso: kor
+    name: 일로카노어
+  - translation_iso: zho
+    name: 伊洛卡诺语
 rolv_dialects:
   - rolv_code: 2325
     language_tag: ilo-x-HIS02325

@@ -1,7 +1,6 @@
 ---
 iso: gur
 name: Farefare
-name_zh: 弗拉弗拉语
 autonym: Gurenɛ
 alt_names: [Frafra, Gurenne, Gurne, Gurune, Nankane, Nankani, Ninkare]
 population: 663100
@@ -16,6 +15,11 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Gur > Central Gur > Northern Central Gur > Bwamu-Oti-Volta > Oti-Volta > Nuclear Oti-Volta > Gurma-Yom-Oti-Volta Occidental > Oti-Volta Occidental > Nuclear Oti-Volta Occidental > Northwest Oti-Volta > Mossi-Farefare > Farefareic > Farefare"
 wikipedia_url: "https://en.wikipedia.org/wiki/Farefare_language"
+translations:
+  - translation_iso: jpn
+    name: フラフラ語
+  - translation_iso: zho
+    name: 弗拉弗拉语
 rolv_dialects:
   - rolv_code: 4406
     language_tag: gur-x-HIS04406

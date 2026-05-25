@@ -1,7 +1,6 @@
 ---
 iso: orh
 name: Oroqen
-name_zh: 鄂伦春语
 autonym: Elunchun
 alt_names: [Olunchun, Orochen, Orochon, Orokeneg, Orokenų kalba, Oronchon, Oročon, Ulunchun, Орогенски јазик, 鄂伦春语, 鄂倫春語]
 population: 1200
@@ -15,6 +14,13 @@ glottolog_family_id: tung1282
 glottolog_family_name: Tungusic
 glottolog_classification: "Tungusic > Northeastern Tungusic > Northern Tungusic > Oroqen"
 wikipedia_url: "https://en.wikipedia.org/wiki/Oroqen_language"
+translations:
+  - translation_iso: jpn
+    name: オロチョン語
+  - translation_iso: kor
+    name: 어룬춘어
+  - translation_iso: zho
+    name: 鄂伦春语
 rolv_dialects:
   - rolv_code: 27017
     language_tag: orh-x-HIS27017

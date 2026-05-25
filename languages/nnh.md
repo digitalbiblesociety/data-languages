@@ -1,7 +1,6 @@
 ---
 iso: nnh
 name: Ngiemboon
-name_zh: 恩甘澎语
 autonym: Ngyɛmbɔɔŋ
 alt_names: [Bamileke-Ngiemboon, Bamileke-Ngyemboon, Nguemba, Ngyemboon]
 population: 250000
@@ -16,6 +15,17 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Wide Grassfields > Narrow Grassfields > Mbam-Nkam > Southern Mbam-Nkam > Bamileke > West Bamileke > Bamboutos > Ngiemboon"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ngiemboon_language"
+translations:
+  - translation_iso: ara
+    name: لغة النجيمبون
+  - translation_iso: hin
+    name: गैम्बू
+  - translation_iso: jpn
+    name: ンジエムブーン語
+  - translation_iso: kor
+    name: 느기엠본어
+  - translation_iso: zho
+    name: 恩甘澎语
 rolv_dialects:
   - rolv_code: 14909
     language_tag: nnh-x-HIS14909

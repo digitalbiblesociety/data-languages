@@ -1,8 +1,6 @@
 ---
 iso: kue
 name: Kuman (Papua New Guinea)
-name_zh: 库曼语(巴布亚新几内亚)
-name_zh_auto: true
 autonym: Kuman
 alt_names: [Chimbu, Simbu]
 population: 115000
@@ -16,6 +14,12 @@ glottolog_family_id: nucl1709
 glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Chimbu-Wahgi > Simbu > Nuclear Simbu > Kuman-Dom-Gunaa > Kuman"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kuman_language_(New_Guinea)"
+translations:
+  - translation_iso: jpn
+    name: クマン語
+  - translation_iso: zho
+    name: 库曼语(巴布亚新几内亚)
+    auto: true
 rolv_dialects:
   - rolv_code: 548
     language_tag: kue-x-HIS00548

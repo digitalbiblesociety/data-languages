@@ -1,8 +1,6 @@
 ---
 iso: lot
 name: Otuho
-name_zh: 奥图霍语
-name_zh_auto: true
 autonym: Lotuko
 alt_names: [Latooka, Lattuka, Latuka, Latuko, Lotoukoeg, Lotuho, Lotuka, Lotuxo, Lowudo, Olotorit, Otuxo]
 population: 312000
@@ -16,6 +14,12 @@ glottolog_family_id: nilo1247
 glottolog_family_name: Nilotic
 glottolog_classification: "Nilotic > Eastern Nilotic > Teso-Lotuxo-Maa > Lotuxo-Maa > Lotuxo > Lotuko-Lokoya > Otuho"
 wikipedia_url: "https://en.wikipedia.org/wiki/Otuho_language"
+translations:
+  - translation_iso: jpn
+    name: ロトゥゴ語
+  - translation_iso: zho
+    name: 奥图霍语
+    auto: true
 rolv_dialects:
   - rolv_code: 957
     language_tag: lot-x-HIS00957

@@ -1,7 +1,6 @@
 ---
 iso: buc
 name: Bushi
-name_zh: 布希语
 autonym: Shibushi
 alt_names: [Antalaotra, Fiteny Antalaotra, Kibuki, Kibushi, Sakalava, Shibushi Shimaore]
 population: 57100
@@ -16,6 +15,11 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Basap-Greater Barito > Greater Barito linkage > Southeast Barito > Malagasic > North-Central Malagasic > Kibosy Kiantalaotsy-Majunga"
 wikipedia_url: "https://en.wikipedia.org/wiki/Bushi_language"
+translations:
+  - translation_iso: jpn
+    name: ブシ語
+  - translation_iso: zho
+    name: 布希语
 rolv_dialects:
   - rolv_code: 20969
     language_tag: buc-x-HIS20969

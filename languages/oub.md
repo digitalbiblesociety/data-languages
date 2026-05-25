@@ -1,8 +1,6 @@
 ---
 iso: oub
 name: "Glio-Oubi"
-name_zh: 格利奥-乌比语
-name_zh_auto: true
 autonym: Glio
 alt_names: [Oubi, Ubi]
 population: 3500
@@ -16,6 +14,12 @@ glottolog_family_id: krua1234
 glottolog_family_name: Kru
 glottolog_classification: "Kru > Greater Western Kru > Western Kru > Grebo-Aizi > Grebo > Ivorian Grebo > Glio-Oubi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Glio-Ubi_language"
+translations:
+  - translation_iso: jpn
+    name: ウビ語
+  - translation_iso: zho
+    name: 格利奥-乌比语
+    auto: true
 rolv_dialects:
   - rolv_code: 1602
     language_tag: oub-x-HIS01602

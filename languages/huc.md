@@ -1,8 +1,6 @@
 ---
 iso: huc
 name: ǂHua
-name_zh: "!华语"
-name_zh_auto: true
 autonym: Formerly ǂHoan
 alt_names: ["=|Hoa", "=|Hoan", "=|Hua", "=|Hua-Owani", Eastern ǂHuan, "|Hua", "|Hû", "ǂ'Amkhoe", ǂHoa, ǂHoan, ǂHua-Owani, ǂHuan, ǂHõã, ǂHũã, ǂQhôã, ≠Hû]
 population: 200
@@ -16,6 +14,14 @@ glottolog_family_id: kxaa1236
 glottolog_family_name: Kxa
 glottolog_classification: "Kxa > Amkoe"
 wikipedia_url: "https://en.wikipedia.org/wiki/%C7%82%CA%BCAmkoe_language"
+translations:
+  - translation_iso: jpn
+    name: ホアン語
+  - translation_iso: kor
+    name: ǂʼ암코이어
+  - translation_iso: zho
+    name: "!华语"
+    auto: true
 rolv_dialects:
   - rolv_code: 10704
     language_tag: huc-x-HIS10704

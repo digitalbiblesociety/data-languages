@@ -1,7 +1,6 @@
 ---
 iso: saw
 name: Sawi
-name_zh: 萨维语
 autonym: Aejauroh
 alt_names: [Język sawuy, Sawuy]
 population: 3500
@@ -15,6 +14,11 @@ glottolog_family_id: nucl1709
 glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Asmat-Awyu-Ok > Awyu-Ok > Greater Awyu > Awyu-Dumut > Unclassified Awyu-Dumut > Sawi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Sawi_language_(Papuan)"
+translations:
+  - translation_iso: kor
+    name: 사위어
+  - translation_iso: zho
+    name: 萨维语
 rolv_dialects:
   - rolv_code: 4237
     language_tag: saw-x-HIS04237

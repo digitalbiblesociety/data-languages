@@ -1,8 +1,6 @@
 ---
 iso: bie
 name: Bepour
-name_zh: 贝普尔语
-name_zh_auto: true
 autonym: null
 population: 125
 country_id: PG
@@ -15,5 +13,9 @@ glottolog_family_id: nucl1709
 glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Madang > Croisilles > Greater Northern Adelbert > Northern Adelbert > Kumil-Tibor > Kumil > Bepour"
 wikipedia_url: "https://en.wikipedia.org/wiki/Bepour_language"
+translations:
+  - translation_iso: zho
+    name: 贝普尔语
+    auto: true
 ---
 Bepour is a nearly extinct Papuan language of Madang Province, Papua New Guinea.

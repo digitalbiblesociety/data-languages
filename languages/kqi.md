@@ -1,8 +1,6 @@
 ---
 iso: kqi
 name: Koitabu
-name_zh: 科伊塔布语
-name_zh_auto: true
 autonym: Koita
 alt_names: [Coita]
 population: 2700
@@ -16,6 +14,12 @@ glottolog_family_id: koia1260
 glottolog_family_name: Koiarian
 glottolog_classification: "Koiarian > Koiaric > Koita-Koiari > Koitabu"
 wikipedia_url: "https://en.wikipedia.org/wiki/Koita_language"
+translations:
+  - translation_iso: jpn
+    name: コイタ語
+  - translation_iso: zho
+    name: 科伊塔布语
+    auto: true
 rolv_dialects:
   - rolv_code: 12117
     language_tag: kqi-x-HIS12117

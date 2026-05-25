@@ -1,8 +1,6 @@
 ---
 iso: ywu
 name: Wumeng Nasu
-name_zh: 乌门语-纳苏语
-name_zh_auto: true
 autonym: Eastern Yi
 alt_names: ["Nasu, Wumeng", "Nasu,Wumeng", Weining, Wumeng Yi, Wusa, Wusa Yi, Yi, "Yi, Wusa", Yuan-Mo Yi]
 population: 200000
@@ -15,6 +13,10 @@ glottocode: wume1235
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Burmo-Qiangic > Lolo-Burmese > Loloish > Ni-Li-Kazhouish > Southeastern Ngwi > Nisoid > Nuclear Nisoid > Nasu-Nosu > Nesu-Nasu > Nesu > Wumeng Nasu"
+translations:
+  - translation_iso: zho
+    name: 乌门语-纳苏语
+    auto: true
 rolv_dialects:
   - rolv_code: 27074
     language_tag: ywu-x-HIS27074

@@ -1,8 +1,6 @@
 ---
 iso: npa
 name: Nar Phu
-name_zh: 纳尔普语
-name_zh_auto: true
 autonym: "Nar-Phu"
 alt_names: [Nar-Phuish, NarPhu, Narpa, Narpú, ภาษานัรพู]
 population: 800
@@ -16,6 +14,10 @@ glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Bodic > Kaike-Ghale-Tamangic > Ghale-Tamangic > Tamangic > Gurungic > Manangba-Nar-Phu > Nar Phu"
 wikipedia_url: "https://en.wikipedia.org/wiki/Nar_Phu_language"
+translations:
+  - translation_iso: zho
+    name: 纳尔普语
+    auto: true
 rolv_dialects:
   - rolv_code: 14717
     language_tag: npa-x-HIS14717

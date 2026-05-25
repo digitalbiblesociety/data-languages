@@ -1,7 +1,6 @@
 ---
 iso: unr
 name: Mundari
-name_zh: 蒙达里语
 autonym: ମୁଣ୍ଡା
 alt_names: [Colh, Horo, Hɔrɔ-ɟagar, Mandari, Mandari language, Mondari, Munari, Munda, Mundari-Ho, Muṇḍārī, Muɳɖari]
 population: 1170280
@@ -16,6 +15,15 @@ glottolog_family_id: aust1305
 glottolog_family_name: Austroasiatic
 glottolog_classification: "Austroasiatic > Mundaic > North Munda > Kherwarian > Mundaric > Ho-Mundari > Mundari"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mundari_language"
+translations:
+  - translation_iso: hin
+    name: मुंडारी भाषा
+  - translation_iso: jpn
+    name: ムンダリ語
+  - translation_iso: kor
+    name: 문다리어
+  - translation_iso: zho
+    name: 蒙达里语
 rolv_dialects:
   - rolv_code: 3302
     language_tag: unr-x-HIS03302

@@ -1,8 +1,6 @@
 ---
 iso: kit
 name: Agob
-name_zh: 阿戈布语
-name_zh_auto: true
 autonym: Dabu
 alt_names: [Agöb]
 population: 1437
@@ -16,6 +14,10 @@ glottolog_family_id: paho1240
 glottolog_family_name: Pahoturi
 glottolog_classification: "Pahoturi > Agob-Ende-Kawam"
 wikipedia_url: "https://en.wikipedia.org/wiki/Agob_languages"
+translations:
+  - translation_iso: zho
+    name: 阿戈布语
+    auto: true
 rolv_dialects:
   - rolv_code: 4106
     language_tag: kit-x-HIS04106

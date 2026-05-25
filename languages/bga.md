@@ -1,8 +1,6 @@
 ---
 iso: bga
 name: "Gwamhi-Wuri"
-name_zh: 瓜姆希-乌里语
-name_zh_auto: true
 autonym: Lyase
 alt_names: ["\"Banganci\"", Gwamfi, Gwamhyə-Wuri-Mba, Lyase-Ne, Tchumbuli]
 population: 16000
@@ -16,6 +14,10 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Kainji > Central Kainji > Northwestern Kainji > Dukaic > Main-Gwamhi > Gwamhi-Wuri"
 wikipedia_url: "https://en.wikipedia.org/wiki/Gwamhi-Wuri_language"
+translations:
+  - translation_iso: zho
+    name: 瓜姆希-乌里语
+    auto: true
 rolv_dialects:
   - rolv_code: 2061
     language_tag: bga-x-HIS02061

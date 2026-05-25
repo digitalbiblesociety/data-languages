@@ -1,8 +1,6 @@
 ---
 iso: gat
 name: Kenati
-name_zh: 凯纳蒂语
-name_zh_auto: true
 autonym: Aziana
 alt_names: [Ganati, Kenathi]
 population: 950
@@ -16,5 +14,9 @@ glottolog_family_id: nucl1709
 glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Kainantu-Goroka > Unclassified Kainantu-Goroka > Kenati"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kenati_language"
+translations:
+  - translation_iso: zho
+    name: 凯纳蒂语
+    auto: true
 ---
 Kenati is a poorly documented Papuan language spoken by only about 950 people in Papua New Guinea. It is also known as Aziana, Ganati, Kenathi. Specifically, it is spoken in 3 villages located in Eastern Highlands Province, in Obura-Wonenara District of Papua New Guinea.

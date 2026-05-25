@@ -1,8 +1,6 @@
 ---
 iso: nmx
 name: Nama (Papua New Guinea)
-name_zh: 纳马语
-name_zh_auto: true
 autonym: null
 alt_names: [Nama]
 population: 1200
@@ -16,5 +14,9 @@ glottolog_family_id: more1255
 glottolog_family_name: Yam
 glottolog_classification: "Yam > Morehead-Maro > Nambu > Nama-Dre > Nama (Papua New Guinea)"
 wikipedia_url: "https://en.wikipedia.org/wiki/Nama_language_(Papuan)"
+translations:
+  - translation_iso: zho
+    name: 纳马语
+    auto: true
 ---
 Nama is a Yam language spoken in Western Province, Papua New Guinea.

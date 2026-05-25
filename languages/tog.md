@@ -1,7 +1,6 @@
 ---
 iso: tog
 name: Tonga (Nyasa)
-name_zh: 尼亚萨汤加语
 autonym: Malawi Tonga
 alt_names: [Chitonga, Kitonga, Siska, Sisya, Tonga, Western Nyasa]
 population: 382000
@@ -16,6 +15,17 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > East Bantu > Tumbuka-Sena-Nyanja > Tumbukic > Tonga (Nyasa)"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tonga_language_(Malawi)"
+translations:
+  - translation_iso: ara
+    name: تونجا - نياسا
+  - translation_iso: hin
+    name: न्यासा टोन्गा
+  - translation_iso: jpn
+    name: トンガ語 (ニアサ)
+  - translation_iso: kor
+    name: 니아사 통가어
+  - translation_iso: zho
+    name: 尼亚萨汤加语
 rolv_dialects:
   - rolv_code: 29661
     language_tag: tog-x-HIS29661

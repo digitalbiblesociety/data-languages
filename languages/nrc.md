@@ -1,7 +1,6 @@
 ---
 iso: nrc
 name: Noric
-name_zh: 諾里語
 autonym: null
 alt_names: [Idioma nórico, Lingua nórica, Língua nórica, Norisch, Norische Sprache, Норикский язык, Норички јазик]
 population: null
@@ -15,5 +14,8 @@ glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Celtic > Nuclear Celtic > Core Celtic > Continental Transalpine Celtic > Unclassified Continental Transalpine Celtic > Noric"
 wikipedia_url: "https://en.wikipedia.org/wiki/Noric_language"
+translations:
+  - translation_iso: zho
+    name: 諾里語
 ---
 Two inscriptions in Grafenstein, Carinthia, Austria and Ptuj, Slovenia, are written in a Celtic language referred to as Noric, potentially spoken in the Roman province of Noricum in early centuries AD. Due to the lack of sources the existence of a separate language is uncertain.

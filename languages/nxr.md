@@ -1,8 +1,6 @@
 ---
 iso: nxr
 name: Ninggerum
-name_zh: 宁格鲁姆语
-name_zh_auto: true
 autonym: Muyu
 alt_names: [Eastern Tedi, Kasiwa, Kativa, Muju, Ningerum, Ninggeroem, Ninggirum, Ninggrum, Niyium, Obgwo, Orgwo, Tedi, Tidi, Upper Tedi]
 population: 5150
@@ -16,6 +14,10 @@ glottolog_family_id: nucl1709
 glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Asmat-Awyu-Ok > Awyu-Ok > Ok-Oksapmin > Ok > Lowland Ok > Ninggerum"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ninggerum_language"
+translations:
+  - translation_iso: zho
+    name: 宁格鲁姆语
+    auto: true
 rolv_dialects:
   - rolv_code: 3938
     language_tag: nxr-x-HIS03938

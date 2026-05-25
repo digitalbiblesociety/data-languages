@@ -1,7 +1,6 @@
 ---
 iso: lwm
 name: Laomian
-name_zh: 老緬語
 autonym: Bisu
 alt_names: [Guba, Laomian (Chine), Laomian (Myanmar), Laomien (Myanmar), Lawmeh, 老緬語]
 population: 1600
@@ -15,6 +14,9 @@ glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Burmo-Qiangic > Lolo-Burmese > Loloish > Hani-Jino > Bisoid-Hanic > Bisoid > Singsali-Bisu > Bisu-Pyen-Laomian > Laomian"
 wikipedia_url: "https://en.wikipedia.org/wiki/Laomian_language"
+translations:
+  - translation_iso: zho
+    name: 老緬語
 rolv_dialects:
   - rolv_code: 26920
     language_tag: lwm-x-HIS26920

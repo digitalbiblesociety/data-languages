@@ -1,8 +1,6 @@
 ---
 iso: nsn
 name: Nehan
-name_zh: 内汉语
-name_zh_auto: true
 autonym: Nissan
 alt_names: [Nihan]
 population: 6500
@@ -16,6 +14,10 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > Meso Melanesian linkage > New Ireland-Northwest Solomonic linkage > St George linkage > Northwest Solomonic > North Bougainville Oceanic > Nuclear North Bougainville Oceanic > Nehan"
 wikipedia_url: "https://en.wikipedia.org/wiki/Nehan_language"
+translations:
+  - translation_iso: zho
+    name: 内汉语
+    auto: true
 rolv_dialects:
   - rolv_code: 14814
     language_tag: nsn-x-HIS14814

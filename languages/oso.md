@@ -1,8 +1,6 @@
 ---
 iso: oso
 name: Ososo
-name_zh: 奥索索语
-name_zh_auto: true
 autonym: Ọ̀sọ́sọ̀
 alt_names: [Nigeria]
 population: 19000
@@ -16,5 +14,9 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Akpes-Edoid > Edoid > Northwestern Edoid > Igwic > Ososo"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ososo_language"
+translations:
+  - translation_iso: zho
+    name: 奥索索语
+    auto: true
 ---
 Ososo is an Edoid language of Nigeria.

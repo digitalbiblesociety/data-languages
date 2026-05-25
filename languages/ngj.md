@@ -1,8 +1,6 @@
 ---
 iso: ngj
 name: Ngie
-name_zh: 恩吉语
-name_zh_auto: true
 autonym: Angie
 alt_names: [Baminge, Baninge, Mingi, Ngi, Ugie, Ungie]
 population: 37000
@@ -16,6 +14,10 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Wide Grassfields > Narrow Grassfields > Momo > Ngie-Oshie > Ngie"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ngie_language"
+translations:
+  - translation_iso: zho
+    name: 恩吉语
+    auto: true
 rolv_dialects:
   - rolv_code: 25661
     language_tag: ngj-x-HIS25661

@@ -1,8 +1,6 @@
 ---
 iso: mkz
 name: Makasae
-name_zh: 玛卡塞语
-name_zh_auto: true
 autonym: "Ma'asae"
 alt_names: [Idioma makasae, Macassai, Makasai, Makassai, ภาษามากาแซ, 마카사이어]
 population: 145000
@@ -16,6 +14,14 @@ glottolog_family_id: timo1261
 glottolog_family_name: Timor-Alor-Pantar
 glottolog_classification: "Timor-Alor-Pantar > East Timor > Makasae-Makalero"
 wikipedia_url: "https://en.wikipedia.org/wiki/Makasae_language"
+translations:
+  - translation_iso: jpn
+    name: マカサエ語
+  - translation_iso: kor
+    name: 마카사이어
+  - translation_iso: zho
+    name: 玛卡塞语
+    auto: true
 rolv_dialects:
   - rolv_code: 4126
     language_tag: mkz-x-HIS04126

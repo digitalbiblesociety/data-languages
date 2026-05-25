@@ -1,8 +1,6 @@
 ---
 iso: cwe
 name: Kwere
-name_zh: 克维雷语
-name_zh_auto: true
 autonym: Kwere
 alt_names: [Kakwere, Kikwere, Kinghwele, Kwele, "Ng'were", Nghwele, Ngwele, Tsinghwele]
 population: 152000
@@ -16,5 +14,9 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > East Bantu > Northeast Savanna Bantu > Northeast Coastal Bantu > Ruvu > East Ruvu > Central East Ruvu > Kwere"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kwere_language"
+translations:
+  - translation_iso: zho
+    name: 克维雷语
+    auto: true
 ---
 Ngh’wele, or Kwere, is a Bantu language of the Morogoro and Dodoma regions of Tanzania.

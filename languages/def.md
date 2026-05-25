@@ -1,7 +1,6 @@
 ---
 iso: def
 name: Dezfuli
-name_zh: 德茲富勒方言
 autonym: "Dezfuli-Shushtari"
 alt_names: [Dezhfili, Dizfuli]
 population: 340000
@@ -15,6 +14,11 @@ glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Iranian-Nuristani > Iranian > Southwestern Iranian > Middle-Modern Persian > Modern Southwestern Iranian > Luric-Dezfulic > Dezfuli-Shushtari"
 wikipedia_url: "https://en.wikipedia.org/wiki/Dezfuli_dialect"
+translations:
+  - translation_iso: ara
+    name: لهجة دزفولية
+  - translation_iso: zho
+    name: 德茲富勒方言
 rolv_dialects:
   - rolv_code: 24803
     language_tag: def-x-HIS24803

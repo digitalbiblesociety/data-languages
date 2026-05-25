@@ -1,7 +1,6 @@
 ---
 iso: lil
 name: Lillooet
-name_zh: 利卢埃特语
 autonym: St̓át̓imcets / Sƛ’aƛ’imxǝc
 alt_names: [Język st’át’imcets, Liluet, Slatlemuk, "St'at'imcets", "St'at'imcets language", Statimc, Statimcets, "Stl'atl'imc", "Stl'atl'imx", Stlatliumh, St̓át̓imc, St̓át̓imcets (Lillooet), "Sƛ'aƛ'imxǝc", "sƛ'ɛƛ'əmxcín", sƛʼɛƛʼəmxcín]
 population: 200
@@ -16,6 +15,17 @@ glottolog_family_id: sali1255
 glottolog_family_name: Salishan
 glottolog_classification: "Salishan > Interior Salish > Northern Interior Salish > Lillooet"
 wikipedia_url: "https://en.wikipedia.org/wiki/Lillooet_language"
+translations:
+  - translation_iso: ara
+    name: الليلويتية
+  - translation_iso: hin
+    name: लिलोएट
+  - translation_iso: jpn
+    name: リルエット語
+  - translation_iso: kor
+    name: 릴루엣어
+  - translation_iso: zho
+    name: 利卢埃特语
 rolv_dialects:
   - rolv_code: 25176
     language_tag: lil-x-HIS25176

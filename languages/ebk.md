@@ -1,8 +1,6 @@
 ---
 iso: ebk
 name: Eastern Bontok
-name_zh: 东邦托克语
-name_zh_auto: true
 autonym: Finallig
 alt_names: ["Bontok, Eastern"]
 population: 6170
@@ -10,6 +8,12 @@ country_id: PH
 country_name: Philippines
 status_id: "5"
 wikipedia_url: "https://en.wikipedia.org/wiki/Eastern_Bontok_language"
+translations:
+  - translation_iso: jpn
+    name: 東ボントク語
+  - translation_iso: zho
+    name: 东邦托克语
+    auto: true
 rolv_dialects:
   - rolv_code: 24124
     language_tag: ebk-x-HIS24124

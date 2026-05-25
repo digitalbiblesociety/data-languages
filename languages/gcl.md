@@ -1,7 +1,6 @@
 ---
 iso: gcl
 name: Grenadian Creole English
-name_zh: 格林納達克里奧爾語英語
 autonym: patois
 alt_names: ["Creole English, Grenadian"]
 population: 102000
@@ -15,6 +14,13 @@ glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Germanic > Northwest Germanic > West Germanic > North Sea Germanic > Anglo-Frisian > Anglic > Later Anglic > Middle-Modern English > Macro-English > Guinea Coast Creole English > Caribbean English Creole > Eastern Caribbean Creole > Vincent-Grenadian Creole > Grenada-Tobago Creole > Grenadian Creole English"
 wikipedia_url: "https://en.wikipedia.org/wiki/Grenadian_Creole_English"
+translations:
+  - translation_iso: ara
+    name: إنكليزية غرنادة المولدة
+  - translation_iso: jpn
+    name: グレナダ・クレオール語
+  - translation_iso: zho
+    name: 格林納達克里奧爾語英語
 rolv_dialects:
   - rolv_code: 24961
     language_tag: gcl-x-HIS24961

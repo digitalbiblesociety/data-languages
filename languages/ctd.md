@@ -1,7 +1,6 @@
 ---
 iso: ctd
 name: Tedim Chin
-name_zh: 梯顶语
 autonym: Zokam
 alt_names: [Chin, Chin (North), Chin (Tedim), Chin (Tiddim), "Chin, Tedim", "Chin,Tedim", Kamhau, Tedim, Tiddim, Tiddim Chin, တီးတိန်ချင်း]
 population: 411000
@@ -16,6 +15,11 @@ glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Kuki-Chin-Naga > Kuki-Chin > Peripheral Kuki-Chin > Northeastern Kuki-Chin > Thadoic > Tedim Chin"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tedim_language"
+translations:
+  - translation_iso: jpn
+    name: ティディム・チン語
+  - translation_iso: zho
+    name: 梯顶语
 rolv_dialects:
   - rolv_code: 8793
     language_tag: ctd-x-HIS08793

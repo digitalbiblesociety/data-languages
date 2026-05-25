@@ -1,8 +1,6 @@
 ---
 iso: kil
 name: Kariya
-name_zh: 卡里亚语
-name_zh_auto: true
 autonym: Vìnà Hə̀
 alt_names: [Kariyu, Kauyawa, Lipkawa, Vinahe, Wihe]
 population: 2000
@@ -16,6 +14,10 @@ glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > West Chadic > West Chadic B > West Chadic B.2 > Nuclear West Chadic B.2 > Central West Chadic B.2 > Warji-Gala-Kariya > Kariya"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kariya_language"
+translations:
+  - translation_iso: zho
+    name: 卡里亚语
+    auto: true
 rolv_dialects:
   - rolv_code: 6488
     language_tag: kil-x-HIS06488

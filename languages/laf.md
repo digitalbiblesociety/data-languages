@@ -1,8 +1,6 @@
 ---
 iso: laf
 name: Lafofa
-name_zh: 拉福法语
-name_zh_auto: true
 autonym: Tegem–Amira
 alt_names: [Kidie, Tegem]
 population: 600
@@ -16,6 +14,14 @@ glottolog_family_id: tege1244
 glottolog_family_name: Tegem
 glottolog_classification: "Tegem > Lafofa"
 wikipedia_url: "https://en.wikipedia.org/wiki/Lafofa_languages"
+translations:
+  - translation_iso: ara
+    name: لغات لافوفا
+  - translation_iso: jpn
+    name: ラフォファ諸語
+  - translation_iso: zho
+    name: 拉福法语
+    auto: true
 rolv_dialects:
   - rolv_code: 12674
     language_tag: laf-x-HIS12674

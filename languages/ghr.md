@@ -1,8 +1,6 @@
 ---
 iso: ghr
 name: Ghera
-name_zh: 格拉语
-name_zh_auto: true
 autonym: Bara
 alt_names: [Sindhi Ghera]
 population: 10000
@@ -16,5 +14,9 @@ glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Indo-Aryan > Middle-Modern Indo-Aryan > Continental Indo-Aryan > Midlands Indo-Aryan > Shaurasenic > Indo-Aryan Central zone > Western Hindi > Unclassified Western Hindi > Ghera-Gurgula > Ghera"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ghera_language"
+translations:
+  - translation_iso: zho
+    name: 格拉语
+    auto: true
 ---
 Ghera, also known as Bara, is an Indo-Aryan language of Pakistan. It is spoken by around 10,000 people in a single area within the city of Hyderabad. It belongs to the Western Hindi language group. It shares 87% of its basic vocabulary with the Gurgula language, but in its grammar it is substantially different.

@@ -1,7 +1,6 @@
 ---
 iso: nuk
 name: "Nuu-chah-nulth"
-name_zh: 努查努阿特语
 autonym: Nootka
 alt_names: [Aht, Nootkans, Nutka, Nuuchahnulth, Nuuchahnulth (Nootka), Nuučaan̓uɫ, "Quuquu'aca", "T'aat'aaqsapa", West Coast]
 population: 280
@@ -15,6 +14,11 @@ glottolog_family_id: waka1280
 glottolog_family_name: Wakashan
 glottolog_classification: "Wakashan > Southern Wakashan > Nuu-chah-nulth"
 wikipedia_url: "https://en.wikipedia.org/wiki/Nuu-chah-nulth_language"
+translations:
+  - translation_iso: jpn
+    name: ヌーチャヌルス語
+  - translation_iso: zho
+    name: 努查努阿特语
 rolv_dialects:
   - rolv_code: 4821
     language_tag: nuk-x-HIS04821

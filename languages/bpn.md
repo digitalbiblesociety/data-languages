@@ -1,7 +1,6 @@
 ---
 iso: bpn
 name: Dzao Min
-name_zh: 藻敏方言
 autonym: Ba Pai
 alt_names: [Ba Pai Yao, Tsao-min, Yao Min, Yau Min, Zaomin]
 population: 60000
@@ -15,5 +14,8 @@ glottolog_family_id: hmon1336
 glottolog_family_name: Hmong-Mien
 glottolog_classification: "Hmong-Mien > Mienic > Zaominic > Dzao Min"
 wikipedia_url: "https://en.wikipedia.org/wiki/Dzao_Min_language"
+translations:
+  - translation_iso: zho
+    name: 藻敏方言
 ---
 Dzao Min is a Hmong–Mien language of China. Mao (2004:306) reports a total of more than 60,000 speakers in Liannan County and Yangshan County of Guangdong, and in Yizhang County of Hunan. The speakers from Bapai, Guangdong are also called Bapai Yao (八排瑶族).

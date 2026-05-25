@@ -1,8 +1,6 @@
 ---
 iso: hus
 name: Huastec
-name_zh: 瓦斯特克语
-name_zh_auto: true
 autonym: Huasteco
 alt_names: ["Huastec, Veracruz", Huasteci, Huasteco de Tantoyuca, Huastecos, Huastecs, Huasteekit, Huaxtechi, Huaxteeks, Idioma huasteco, "Te:nek", Teenek, Tenek, Veracruz, Wastek, Wastek language, Wasteko, Вастек јазик, 瓦斯蒂克族]
 population: 174000
@@ -16,6 +14,14 @@ glottolog_family_id: maya1287
 glottolog_family_name: Mayan
 glottolog_classification: "Mayan > Huastecan Mayan > Huastec"
 wikipedia_url: "https://en.wikipedia.org/wiki/Huastec_language"
+translations:
+  - translation_iso: jpn
+    name: ワステク語
+  - translation_iso: kor
+    name: 와스텍어
+  - translation_iso: zho
+    name: 瓦斯特克语
+    auto: true
 rolv_dialects:
   - rolv_code: 4381
     language_tag: hus-x-HIS04381

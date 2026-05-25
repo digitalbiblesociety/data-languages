@@ -1,8 +1,6 @@
 ---
 iso: yli
 name: Angguruk Yali
-name_zh: 昂古鲁克-亚里语
-name_zh_auto: true
 autonym: Yalimo
 alt_names: [Angguruk, Ngalik, Northern Yali, Yali, "Yali, Angguruk"]
 population: 15000
@@ -15,4 +13,8 @@ glottocode: angg1239
 glottolog_family_id: nucl1709
 glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Dani > Ngalik-Nduga > Yalic > Angguruk Yali"
+translations:
+  - translation_iso: zho
+    name: 昂古鲁克-亚里语
+    auto: true
 ---

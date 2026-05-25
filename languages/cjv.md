@@ -1,8 +1,6 @@
 ---
 iso: cjv
 name: Chuave
-name_zh: 丘瓦维语
-name_zh_auto: true
 autonym: null
 alt_names: [Tjuave]
 population: 25980
@@ -16,6 +14,12 @@ glottolog_family_id: nucl1709
 glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Chimbu-Wahgi > Simbu > Chuave-Nomane > Chuave"
 wikipedia_url: "https://en.wikipedia.org/wiki/Chuave_language"
+translations:
+  - translation_iso: jpn
+    name: チュアヴェ語
+  - translation_iso: zho
+    name: 丘瓦维语
+    auto: true
 rolv_dialects:
   - rolv_code: 8930
     language_tag: cjv-x-HIS08930

@@ -1,8 +1,6 @@
 ---
 iso: bky
 name: Bokyi
-name_zh: 博基语
-name_zh_auto: true
 autonym: Boki
 alt_names: [Byoki, Nfua, Nki, Okii, Osikom, Osukam, Uki, Vaaneroki]
 population: 268900
@@ -16,6 +14,12 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Bendic > Nuclear Bendic > Bokyi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Bokyi_language"
+translations:
+  - translation_iso: jpn
+    name: ボキ語
+  - translation_iso: zho
+    name: 博基语
+    auto: true
 rolv_dialects:
   - rolv_code: 1744
     language_tag: bky-x-HIS01744

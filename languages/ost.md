@@ -1,8 +1,6 @@
 ---
 iso: ost
 name: Osatu
-name_zh: 奥萨图语
-name_zh_auto: true
 autonym: Ihatum
 alt_names: [Ossatu]
 population: 400
@@ -16,5 +14,9 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Wide Grassfields > Narrow Grassfields > Southwest Grassfields > Osatu"
 wikipedia_url: "https://en.wikipedia.org/wiki/Osatu_language"
+translations:
+  - translation_iso: zho
+    name: 奥萨图语
+    auto: true
 ---
 Osatu (Ihatum) is a Grassfields language of Cameroon.

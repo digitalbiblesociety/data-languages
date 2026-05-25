@@ -1,8 +1,6 @@
 ---
 iso: bva
 name: Barein
-name_zh: 巴雷因语
-name_zh_auto: true
 autonym: Baraïn
 alt_names: [Barain, Guilia, Jalkia]
 population: 4100
@@ -16,6 +14,10 @@ glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > East Chadic > East Chadic B > Barainic > Barain"
 wikipedia_url: "https://en.wikipedia.org/wiki/Barein_language"
+translations:
+  - translation_iso: zho
+    name: 巴雷因语
+    auto: true
 rolv_dialects:
   - rolv_code: 7775
     language_tag: bva-x-HIS07775

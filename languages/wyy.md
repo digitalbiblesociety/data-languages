@@ -1,8 +1,6 @@
 ---
 iso: wyy
 name: Western Fijian
-name_zh: 西斐济语
-name_zh_auto: true
 autonym: Fiji
 alt_names: [Fidji-Inseln, Fijian, Fijian (Wayan), "Fijian, Western", Magodro, Nadroga, Nadronga, Nakoroboya, Namosi-Naitasiri-Serua, Noikoro, Viti, Waya]
 population: 18500
@@ -16,6 +14,10 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Central Pacific linkage > Western Fijian > Western Viti Levu-Yasawas Fijian"
 wikipedia_url: "https://en.wikipedia.org/wiki/Western_Fijian_language"
+translations:
+  - translation_iso: zho
+    name: 西斐济语
+    auto: true
 rolv_dialects:
   - rolv_code: 4459
     language_tag: wyy-x-HIS04459

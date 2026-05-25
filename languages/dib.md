@@ -1,8 +1,6 @@
 ---
 iso: dib
 name: South Central Dinka
-name_zh: 南中丁卡语
-name_zh_auto: true
 autonym: Thuɔŋjäŋ
 alt_names: [Agar, Central Dinka, Dinka, "Dinka, South Central", Mittel-Dinka]
 population: 851000
@@ -15,6 +13,12 @@ glottocode: sout2833
 glottolog_family_id: nilo1247
 glottolog_family_name: Nilotic
 glottolog_classification: "Nilotic > Western Nilotic > Dinka-Nuer > Dinka > South Central Dinka"
+translations:
+  - translation_iso: jpn
+    name: 中南ディンカ語
+  - translation_iso: zho
+    name: 南中丁卡语
+    auto: true
 rolv_dialects:
   - rolv_code: 911
     language_tag: dib-x-HIS00911

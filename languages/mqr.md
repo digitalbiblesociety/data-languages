@@ -1,8 +1,6 @@
 ---
 iso: mqr
 name: Mander
-name_zh: 曼德语
-name_zh_auto: true
 autonym: bahasa Mander
 population: 200
 country_id: ID
@@ -15,5 +13,9 @@ glottolog_family_id: toro1256
 glottolog_family_name: Tor-Orya
 glottolog_classification: "Tor-Orya > Tor > Mander"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mander_language"
+translations:
+  - translation_iso: zho
+    name: 曼德语
+    auto: true
 ---
 Jofotek-Bromnya is a Papuan language of Sarmi Regency, Papua, Indonesia.

@@ -1,8 +1,6 @@
 ---
 iso: kcb
 name: Kawacha
-name_zh: 卡瓦恰语
-name_zh_auto: true
 autonym: Kawatsa
 population: 12
 country_id: PG
@@ -15,5 +13,9 @@ glottolog_family_id: anga1289
 glottolog_family_name: Angan
 glottolog_classification: "Angan > Nuclear Angan > Wojokesic > Kawacha"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kawacha_language"
+translations:
+  - translation_iso: zho
+    name: 卡瓦恰语
+    auto: true
 ---
 Kawatsa is a nearly extinct Angan language of Papua New Guinea. According to one source, an estimated 12 people are believed to speak the language. It is spoken in Katsiong village, Tsewi ward, Kome Rural LLG.

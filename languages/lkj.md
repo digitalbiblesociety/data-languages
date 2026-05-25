@@ -1,8 +1,6 @@
 ---
 iso: lkj
 name: Remun
-name_zh: 雷蒙语
-name_zh_auto: true
 autonym: Milikin
 alt_names: [Millikin]
 population: 3500
@@ -16,5 +14,9 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Malayo-Chamic > Malayic > Ibanic > Iban-Mualang-Seberuang > Iban-Seberuang > Northern Iban > Remun"
 wikipedia_url: "https://en.wikipedia.org/wiki/Remun_language"
+translations:
+  - translation_iso: zho
+    name: 雷蒙语
+    auto: true
 ---
 Remun, or Milikin, is an Ibanic Dayak language of Borneo.

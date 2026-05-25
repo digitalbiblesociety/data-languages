@@ -1,8 +1,6 @@
 ---
 iso: mmh
 name: Mehináku
-name_zh: 梅希纳库语
-name_zh_auto: true
 autonym: Mahinaku
 alt_names: [Aura, Mahinacu, Mehinaco, Mehinacu, Mehinacú, Mehinaku, Mehinakú, Meinaku, Minaco, Uara, Wauja, Waurá-Meinaku]
 population: 200
@@ -16,6 +14,12 @@ glottolog_family_id: araw1281
 glottolog_family_name: Arawakan
 glottolog_classification: "Arawakan > Central-Eastern Maipuran > Central Maipuran > Xinguan Arawak > Waura-Mehinaku-Kustenau > Waura-Mehinaku > Mehináku"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mehinaku_language"
+translations:
+  - translation_iso: jpn
+    name: メイナク語
+  - translation_iso: zho
+    name: 梅希纳库语
+    auto: true
 rolv_dialects:
   - rolv_code: 25607
     language_tag: mmh-x-HIS25607

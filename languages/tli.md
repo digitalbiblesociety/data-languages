@@ -1,7 +1,6 @@
 ---
 iso: tli
 name: Tlingit
-name_zh: 特林吉特語
 autonym: Lingít
 alt_names: [Coluchano (Estados Unidos), Idioma tlingit, Inland Tlingit, Język tlingit, Kolosch, Kolosh, Koluschan, Lingit, Língua Tlingit, Thlinget, Tlingit (Canada), "Tlingit (États-Unis d'Amérique)", Tlingitan Isolate, Tlingiteg, Tlinkit, Tlinkitų kalba, Łingít (Tlingit), Тлингитский язык, 特林吉特語, 辛基得语]
 population: 1242
@@ -16,6 +15,17 @@ glottolog_family_id: atha1245
 glottolog_family_name: Athabaskan-Eyak-Tlingit
 glottolog_classification: "Athabaskan-Eyak-Tlingit > Tlingit"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tlingit_language"
+translations:
+  - translation_iso: ara
+    name: التلينغيتية
+  - translation_iso: hin
+    name: त्लिंगित
+  - translation_iso: jpn
+    name: トリンギット語
+  - translation_iso: kor
+    name: 틀링깃어
+  - translation_iso: zho
+    name: 特林吉特語
 rolv_dialects:
   - rolv_code: 26459
     language_tag: tli-x-HIS26459

@@ -1,8 +1,6 @@
 ---
 iso: emu
 name: Eastern Muria
-name_zh: 东穆里亚语
-name_zh_auto: true
 autonym: null
 alt_names: [Gonḍi, Gōṇḍī, "Muria, Eastern"]
 population: 200000
@@ -15,6 +13,10 @@ glottocode: east2340
 glottolog_family_id: drav1251
 glottolog_family_name: Dravidian
 glottolog_classification: "Dravidian > South Dravidian > South Dravidian II > Gondi > Northwest Gondi > Southwest Gondi > Muria > Eastern Muria"
+translations:
+  - translation_iso: zho
+    name: 东穆里亚语
+    auto: true
 rolv_dialects:
   - rolv_code: 14427
     language_tag: emu-x-HIS14427

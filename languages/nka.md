@@ -1,8 +1,6 @@
 ---
 iso: nka
 name: Nkoya
-name_zh: 恩科亚语
-name_zh_auto: true
 autonym: Shinkoya
 population: 36200
 country_id: ZM
@@ -15,6 +13,10 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > Central-Western Bantu > Luban > Nkoya"
 wikipedia_url: "https://en.wikipedia.org/wiki/Nkoya_language"
+translations:
+  - translation_iso: zho
+    name: 恩科亚语
+    auto: true
 rolv_dialects:
   - rolv_code: 15014
     language_tag: nka-x-HIS15014

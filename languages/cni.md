@@ -1,7 +1,6 @@
 ---
 iso: cni
 name: Asháninka
-name_zh: 阿什寧卡語
 autonym: Campa
 alt_names: ["\"Campa\"", Ashaninca, Ashaninka, Ashaninka simi, Asheninca (Campa), Ashninca, Asháninca, Asháninga, Asáninga, Atiri, Axininca Campa, Ašaninkų kalba, Campa (Asheninca), Campa (Axininca), Campa Ashaninca, Idioma asháninca, Kampa, Pre-Andine, Pre-Andine Arawakan Subfamily]
 population: 35200
@@ -15,6 +14,11 @@ glottolog_family_id: araw1281
 glottolog_family_name: Arawakan
 glottolog_classification: "Arawakan > Southern Maipuran > Kampa-Amuesha > Pre-Andine Maipuran > Asha-Ashe-Kak-Matsi-Nan > Asha-Ashe-Kak > Ashe-Asha > Asháninka"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ash%C3%A1ninka_language"
+translations:
+  - translation_iso: jpn
+    name: アシェニンカ語
+  - translation_iso: zho
+    name: 阿什寧卡語
 rolv_dialects:
   - rolv_code: 1653
     language_tag: cni-x-HIS01653

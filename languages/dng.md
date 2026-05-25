@@ -1,7 +1,6 @@
 ---
 iso: dng
 name: Dungan
-name_zh: 东干语
 autonym: " 回族語言"
 alt_names: [Doungane, Dounganeg, Dungaanin kieli, Dungana lingvo, Dunganische Sprache, Dunganish, Dungano, Dzhunyan, Huizu, Język dungański, Kwuizwu, Tungan, "Zwn'jan", Дунганский язык, Дунганська мова, דונגאן, تۇڭگان تىلى, ภาษาดันกัน, ドンガン語, 回回话, 東干語, 둥간어]
 population: 108400
@@ -16,6 +15,15 @@ glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Sinitic > Classical-Middle-Modern Sinitic > Middle-Modern Sinitic > Northern Chinese > Mandarinic > Zhongyuan > Dungan"
 wikipedia_url: "https://en.wikipedia.org/wiki/Dungan_language"
+translations:
+  - translation_iso: ara
+    name: لغة_الدونغان
+  - translation_iso: jpn
+    name: ドンガン語
+  - translation_iso: kor
+    name: 둥간어
+  - translation_iso: zho
+    name: 东干语
 rolv_dialects:
   - rolv_code: 9444
     language_tag: dng-x-HIS09444

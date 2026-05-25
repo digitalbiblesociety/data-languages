@@ -1,8 +1,6 @@
 ---
 iso: zpq
 name: Zoogocho Zapotec
-name_zh: 佐奥戈乔萨波特克语
-name_zh_auto: true
 autonym: (San Bartolomé Zoogocho)
 alt_names: [Cajonos Zapotec, Northern Sapoteko, Papabuco, Sapoteko, Villalta (non-preferred), Zapotec, Zapotec (Zoogocho), "Zapotec, Zoogocho", dill xhon]
 population: 1000
@@ -16,6 +14,10 @@ glottolog_family_id: otom1299
 glottolog_family_name: Otomanguean
 glottolog_classification: "Otomanguean > Eastern Otomanguean > Popoloca-Zapotecan > Zapotecan > Zapotec > Core Zapotec > Narrow Core Zapotec > Northern Core Zapotec > Cajonosic > Zoogocho Zapotec"
 wikipedia_url: "https://en.wikipedia.org/wiki/Zoogocho_Zapotec"
+translations:
+  - translation_iso: zho
+    name: 佐奥戈乔萨波特克语
+    auto: true
 rolv_dialects:
   - rolv_code: 2721
     language_tag: zpq-x-HIS02721

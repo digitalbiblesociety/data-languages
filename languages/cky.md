@@ -1,8 +1,6 @@
 ---
 iso: cky
 name: "Cakfem-Mushere"
-name_zh: 卡克费姆-穆舍雷语
-name_zh_auto: true
 autonym: Chakfem
 alt_names: [Cakfem-Mushere-Jibyal, Chakfem-Mushere, Chokfem, Jajura, Kadim-Kaban, Mupun, Mwaghavul, Sura]
 population: 5000
@@ -16,6 +14,10 @@ glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > West Chadic > West Chadic A > West Chadic A.2-3 > West Chadic A.3 > Kofyar-Mushere-Chip > Cakfem-Mushere"
 wikipedia_url: "https://en.wikipedia.org/wiki/Cakfem-Mushere_language"
+translations:
+  - translation_iso: zho
+    name: 卡克费姆-穆舍雷语
+    auto: true
 rolv_dialects:
   - rolv_code: 2467
     language_tag: cky-x-HIS02467

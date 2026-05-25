@@ -1,8 +1,6 @@
 ---
 iso: hoy
 name: Holiya
-name_zh: 霍利亚语
-name_zh_auto: true
 autonym: Gohllaru
 alt_names: [Golari-Kannada, Holar, Holari, Hole, Holian, Holu]
 population: 500
@@ -16,5 +14,9 @@ glottolog_family_id: drav1251
 glottolog_family_name: Dravidian
 glottolog_classification: "Dravidian > South Dravidian > South Dravidian I > Tamil-Kannada > Badaga-Kannada > Kannadoid > Holiya"
 wikipedia_url: "https://en.wikipedia.org/wiki/Holiya_language"
+translations:
+  - translation_iso: zho
+    name: 霍利亚语
+    auto: true
 ---
 Holiya is a southern Dravidian language closely related to Kannada.

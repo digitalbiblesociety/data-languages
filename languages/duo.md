@@ -1,8 +1,6 @@
 ---
 iso: duo
 name: Dupaninan Agta
-name_zh: 杜帕尼南阿格塔语
-name_zh_auto: true
 autonym: Eastern Cagayan Agta
 alt_names: [Agta, Agta de Cagayan oriental, Agta de Cagayán oriental, "Agta, Dupaninan", Dupaninan, Dupaningan Agta]
 population: 1400
@@ -16,6 +14,10 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Northern Luzon > Northeastern Luzon > Dupaninan Agta"
 wikipedia_url: "https://en.wikipedia.org/wiki/Dupaningan_Agta"
+translations:
+  - translation_iso: zho
+    name: 杜帕尼南阿格塔语
+    auto: true
 rolv_dialects:
   - rolv_code: 6741
     language_tag: duo-x-HIS06741

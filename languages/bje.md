@@ -1,7 +1,6 @@
 ---
 iso: bje
 name: "Biao-Jiao Mien"
-name_zh: 标敏方言
 autonym: "Biao-Jiao Mien"
 alt_names: [Biao Chao, Byau Min, Man, Mien, "Mien, Biao-Jiao", Pai-min, Yao]
 population: 43000
@@ -15,6 +14,9 @@ glottolog_family_id: hmon1336
 glottolog_family_name: Hmong-Mien
 glottolog_classification: "Hmong-Mien > Mienic > Biao-Jiao Mien"
 wikipedia_url: "https://en.wikipedia.org/wiki/Biao_Min_language"
+translations:
+  - translation_iso: zho
+    name: 标敏方言
 rolv_dialects:
   - rolv_code: 4975
     language_tag: bje-x-HIS04975

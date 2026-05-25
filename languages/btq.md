@@ -1,7 +1,6 @@
 ---
 iso: btq
 name: Batek
-name_zh: 巴特克语
 autonym: Bateg
 alt_names: [Bateq, Batok, Kleb, Lebir, Nong, Tomo]
 population: 1000
@@ -15,6 +14,9 @@ glottolog_family_id: aust1305
 glottolog_family_name: Austroasiatic
 glottolog_classification: "Austroasiatic > Aslian > Central-Northern Aslian > North Aslian > Maniq-Menraq-Batek > Menraq-Batek > Batekic > Batek"
 wikipedia_url: "https://en.wikipedia.org/wiki/Batek_language"
+translations:
+  - translation_iso: zho
+    name: 巴特克语
 rolv_dialects:
   - rolv_code: 7866
     language_tag: btq-x-HIS07866

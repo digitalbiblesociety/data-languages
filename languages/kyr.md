@@ -1,8 +1,6 @@
 ---
 iso: kyr
 name: Kuruáya
-name_zh: 库鲁亚语
-name_zh_auto: true
 autonym: Caravare
 alt_names: [Curuaia, Kuruaia, Kuruaya]
 population: 115
@@ -16,5 +14,9 @@ glottolog_family_id: tupi1275
 glottolog_family_name: Tupian
 glottolog_classification: "Tupian > Eastern Tupian > Mundurukuic > Kuruáya"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kuruaya_language"
+translations:
+  - translation_iso: zho
+    name: 库鲁亚语
+    auto: true
 ---
 Kuruáya is a nearly extinct Tupian language of the state of Pará, in the Amazon region of Brazil. There is only one fluent speaker of Kuruáya, Odete Iawa, who is in her eighties or nineties or older. She was alive as of August 2020.

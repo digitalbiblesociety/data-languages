@@ -1,8 +1,6 @@
 ---
 iso: bwl
 name: Bwela
-name_zh: 布韦拉语
-name_zh_auto: true
 autonym: Buela
 alt_names: [Lingi]
 population: 8400
@@ -16,5 +14,9 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > Central-Western Bantu > North Zaire River > Rivers Bantu > Ngiri > Ngiri Riverain Mongala > Bwela"
 wikipedia_url: "https://en.wikipedia.org/wiki/Bwela_language"
+translations:
+  - translation_iso: zho
+    name: 布韦拉语
+    auto: true
 ---
 Bwela, or Lingi, is a poorly known Congolese Bantu language of uncertain affiliation. It may be close to Tembo.

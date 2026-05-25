@@ -1,8 +1,6 @@
 ---
 iso: nch
 name: Central Huasteca Nahuatl
-name_zh: 中瓦斯特卡纳瓦特尔语
-name_zh_auto: true
 autonym: "Náhuatl, Huasteca Central"
 alt_names: [Central Nawa, Lingua nahuatl huaxteca centrale, Mexicano, Nahua central, Nahuatl, "Nahuatl, Central Huasteca", Náhuatl central]
 population: 196000
@@ -16,4 +14,8 @@ glottocode: cent2134
 glottolog_family_id: utoa1244
 glottolog_family_name: Uto-Aztecan
 glottolog_classification: "Uto-Aztecan > Southern Uto-Aztecan > Corachol-Aztecan > Aztec > Eastern Nahuatl > Huasteca Nahuatl > Central Huasteca Nahuatl"
+translations:
+  - translation_iso: zho
+    name: 中瓦斯特卡纳瓦特尔语
+    auto: true
 ---

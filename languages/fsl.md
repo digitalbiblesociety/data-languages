@@ -1,7 +1,6 @@
 ---
 iso: fsl
 name: French Sign Language
-name_zh: 法国手语
 autonym: Langue des Signes Française
 alt_names: [FSL, Franca mansigna lingvo, LSF, Lengua de señas francesa, フランス手話]
 population: 103405
@@ -15,6 +14,17 @@ glottolog_family_id: sign1238
 glottolog_family_name: Sign Language
 glottolog_classification: "Sign Language > L1 Sign Language > LSFic > French Sign Language"
 wikipedia_url: "https://en.wikipedia.org/wiki/French_Sign_Language"
+translations:
+  - translation_iso: ara
+    name: لغة الإشارة الفرنسية
+  - translation_iso: hin
+    name: फ्रेंच साइन लैंग्वेज
+  - translation_iso: jpn
+    name: フランス手話
+  - translation_iso: kor
+    name: 프랑스 수화
+  - translation_iso: zho
+    name: 法国手语
 rolv_dialects:
   - rolv_code: 20807
     language_tag: fsl-x-HIS20807

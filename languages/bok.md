@@ -1,8 +1,6 @@
 ---
 iso: bok
 name: Bonjo
-name_zh: 邦约语
-name_zh_auto: true
 autonym: Impfondo
 population: 3000
 country_id: CG
@@ -15,5 +13,11 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > Central-Western Bantu > North Zaire River > Rivers Bantu > Likouala-Sangha > Impfondoic > Impfondo"
 wikipedia_url: "https://en.wikipedia.org/wiki/Bonjo_language"
+translations:
+  - translation_iso: jpn
+    name: ボンジョ語
+  - translation_iso: zho
+    name: 邦约语
+    auto: true
 ---
 Bonjo, also known as Mbonzo or Impfondo, is a Bantu language spoken by around 3,000 people in northern Republic of Congo, particularly the Likouala Department near the town of Impfondo. Speakers are gradually shifting to Lingala.

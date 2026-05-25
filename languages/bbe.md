@@ -1,8 +1,6 @@
 ---
 iso: bbe
 name: Bangba
-name_zh: 邦巴语
-name_zh_auto: true
 autonym: Abangba
 population: 11000
 country_id: CD
@@ -15,6 +13,10 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Cameroun-Ubangian > Ubangi > Ubangi Ka > Mundu-Baka > Eastern Mundu-Baka > Mayogo-Bangba > Bangba"
 wikipedia_url: "https://en.wikipedia.org/wiki/Bangba_language"
+translations:
+  - translation_iso: zho
+    name: 邦巴语
+    auto: true
 rolv_dialects:
   - rolv_code: 7724
     language_tag: bbe-x-HIS07724

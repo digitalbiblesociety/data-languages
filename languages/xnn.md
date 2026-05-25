@@ -1,8 +1,6 @@
 ---
 iso: xnn
 name: Northern Kankanay
-name_zh: 北坎卡纳语
-name_zh_auto: true
 autonym: "Kankana-ey"
 alt_names: ["Kankanay, Northern", Sagada Igorot, Western Bontoc]
 population: 94100
@@ -15,4 +13,8 @@ glottocode: nort2877
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Northern Luzon > Meso-Cordilleran > South-Central Cordilleran > Central Cordilleran > Nuclear Cordilleran > Bontok-Kankanay > Kankanay > Maeng-Northern Kankanay > Northern Kankanay"
+translations:
+  - translation_iso: zho
+    name: 北坎卡纳语
+    auto: true
 ---

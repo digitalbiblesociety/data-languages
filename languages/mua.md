@@ -1,7 +1,6 @@
 ---
 iso: mua
 name: Mundang
-name_zh: 蒙当语
 autonym: MUNDAŊ
 alt_names: [Kaele, Marhay, Moundan, Moundang, Musemban, Nda]
 population: 395700
@@ -16,6 +15,17 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Cameroun-Ubangian > Mbumic > Northern Mbum > Tupuri-Mundang-Mambai > Mundangic > Mundang"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mundang_language"
+translations:
+  - translation_iso: ara
+    name: مندنج
+  - translation_iso: hin
+    name: मुंडैंग
+  - translation_iso: jpn
+    name: ムンダン語
+  - translation_iso: kor
+    name: 문당어
+  - translation_iso: zho
+    name: 蒙当语
 rolv_dialects:
   - rolv_code: 1639
     language_tag: mua-x-HIS01639

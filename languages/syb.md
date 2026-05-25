@@ -1,8 +1,6 @@
 ---
 iso: syb
 name: Central Subanen
-name_zh: 中苏巴嫩语
-name_zh_auto: true
 autonym: Subanon
 alt_names: [Sindangan Subanun, "Subanen, Central"]
 population: 140000
@@ -15,6 +13,10 @@ glottocode: cent2089
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Greater Central Philippine > Subanen > Nuclear Subanen > East Nuclear Subanen > Central Subanen"
+translations:
+  - translation_iso: zho
+    name: 中苏巴嫩语
+    auto: true
 rolv_dialects:
   - rolv_code: 16909
     language_tag: syb-x-HIS16909

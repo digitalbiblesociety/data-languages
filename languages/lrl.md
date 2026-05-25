@@ -1,7 +1,6 @@
 ---
 iso: lrl
 name: Lari
-name_zh: 阿喬米語
 autonym: Khodmoni
 alt_names: ["*Achomi", Achomi, Fars, Lareg, Larestani, Larestani dialects, گویش لارستانی]
 population: 118000
@@ -15,6 +14,17 @@ glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Iranian-Nuristani > Iranian > Southwestern Iranian > Middle-Modern Persian > Modern Southwestern Iranian > Larestani"
 wikipedia_url: "https://en.wikipedia.org/wiki/Achomi_language"
+translations:
+  - translation_iso: ara
+    name: الأتشومية
+  - translation_iso: hin
+    name: अचुमी भाषा
+  - translation_iso: jpn
+    name: ラル語
+  - translation_iso: kor
+    name: 아촘어
+  - translation_iso: zho
+    name: 阿喬米語
 rolv_dialects:
   - rolv_code: 27134
     language_tag: lrl-x-HIS27134

@@ -1,7 +1,6 @@
 ---
 iso: mnh
 name: Mono (Democratic Republic of Congo)
-name_zh: 刚果莫諾语
 autonym: Amono
 alt_names: [Mono, Mono (Democratic Republic of the Congo), Mono language]
 population: 65000
@@ -15,6 +14,11 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Cameroun-Ubangian > Ubangi > Ubangi Ka > Bandaic > Nuclear Bandaic > Central Bandaic > Core Central Bandaic > Mono (Democratic Republic of Congo)"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mono_language_(Congo)"
+translations:
+  - translation_iso: jpn
+    name: モノ語
+  - translation_iso: zho
+    name: 刚果莫諾语
 rolv_dialects:
   - rolv_code: 1380
     language_tag: mnh-x-HIS01380

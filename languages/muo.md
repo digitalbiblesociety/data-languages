@@ -1,8 +1,6 @@
 ---
 iso: muo
 name: Nyong
-name_zh: 尼翁语
-name_zh_auto: true
 autonym: Mumbake
 alt_names: [Chukkol, Daganonga, Daganyonga, Mubako, Ndagam, Nyoking, Nyongnepa, Peti, Samba Bali, Teteka, Yapeli]
 population: 39500
@@ -16,6 +14,10 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Cameroun-Ubangian > Central Adamawa > Samba-Duru > Southern Samba-Duru > Sambaic > Samba-Leko-Perema-Mumbake > Perema-Mumbake > Nyong"
 wikipedia_url: "https://en.wikipedia.org/wiki/Nyong_language"
+translations:
+  - translation_iso: zho
+    name: 尼翁语
+    auto: true
 rolv_dialects:
   - rolv_code: 4424
     language_tag: muo-x-HIS04424

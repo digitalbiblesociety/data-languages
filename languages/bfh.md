@@ -1,8 +1,6 @@
 ---
 iso: bfh
 name: Blafe
-name_zh: 布拉夫语
-name_zh_auto: true
 autonym: Tonda
 alt_names: [Indorodoro]
 population: 670
@@ -16,6 +14,10 @@ glottolog_family_id: more1255
 glottolog_family_name: Yam
 glottolog_classification: "Yam > Morehead-Maro > Tonda > Mblafe-Ránmo"
 wikipedia_url: "https://en.wikipedia.org/wiki/Blafe_language"
+translations:
+  - translation_iso: zho
+    name: 布拉夫语
+    auto: true
 rolv_dialects:
   - rolv_code: 24389
     language_tag: bfh-x-HIS24389

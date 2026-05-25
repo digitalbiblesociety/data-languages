@@ -1,8 +1,6 @@
 ---
 iso: wkw
 name: Wakawaka
-name_zh: 瓦卡瓦卡语
-name_zh_auto: true
 autonym: Wakawaka
 alt_names: [Bujiebara, Dungibara, Dungidau, Duungidjawu, Enibura, Garumga, Garumngar, Gowrburra, Kaiabara, Koolaburra, Mungar, Nukunukubara, Wa, "Wa:bar", Waa, Wabar, Wacca Wacca, Wacca-Wacca, Wackar, Waga, Waga Waga, Waga-Waga, Wagawaga, Waka, Waka Waka, Waka WakaEnibura, Waka-Waka, Wakar, Wakar/Wackar, Wakka, Wakka Wakka, Wakka-Wakka, Wakkar, Wakkawakka, Waku wuka, Waku-wuka, Wapa, Wilili, Wililililee, Willillee, Woga, Wogga, Woka, Woka Woka, Woka-Woka, Wokka, Wokkari, Wuka Wuka, Wuli wuli, Wulili, Wuliwuli]
 population: null
@@ -16,6 +14,10 @@ glottolog_family_id: pama1250
 glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > Southeastern Pama-Nyungan > North Coast Pama-Nyungan > Waka-Kabic > Western Waka-Kabic > Wakawaka"
 wikipedia_url: "https://en.wikipedia.org/wiki/Wakka_Wakka_language"
+translations:
+  - translation_iso: zho
+    name: 瓦卡瓦卡语
+    auto: true
 rolv_dialects:
   - rolv_code: 18116
     language_tag: wkw-x-HIS18116

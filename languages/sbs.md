@@ -1,8 +1,6 @@
 ---
 iso: sbs
 name: Subiya
-name_zh: 苏比亚语
-name_zh_auto: true
 autonym: Subiya
 alt_names: [Chikuahane, Chikuhane, Chikwahane, Ciikuhane, Cisubiya, Echisubia, Kuahane, Kuhane, Kwahane, Mbalangwe, Sesubea, Sesubiya, Subia, Supia, Tjikuhane]
 population: 39570
@@ -16,5 +14,9 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > East Bantu > Botatwe > Western Botatwe > Machili > Subiya"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kuhane_language"
+translations:
+  - translation_iso: zho
+    name: 苏比亚语
+    auto: true
 ---
 The Kuhane language is a Bantu language spoken in Southern Africa. Also known as Ikuhane, Subia or Subiya, it is spoken by the Ikuhane people in Namibia, Botswana and Zambia.

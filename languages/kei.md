@@ -1,8 +1,6 @@
 ---
 iso: kei
 name: Kei
-name_zh: 凯语
-name_zh_auto: true
 autonym: Kai
 alt_names: [Kei-Fordata, Keiese, Veveu Evav]
 population: 4500
@@ -16,6 +14,14 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Tanimbar-Bomberai > Nuclear Tanimbar-Bomberai > Kei-Fordata > Kei"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kei_language"
+translations:
+  - translation_iso: jpn
+    name: ケイ語
+  - translation_iso: kor
+    name: 케이어
+  - translation_iso: zho
+    name: 凯语
+    auto: true
 rolv_dialects:
   - rolv_code: 11763
     language_tag: kei-x-HIS11763

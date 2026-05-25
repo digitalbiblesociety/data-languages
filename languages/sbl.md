@@ -1,8 +1,6 @@
 ---
 iso: sbl
 name: Botolan Sambal
-name_zh: 博托兰桑巴尔语
-name_zh_auto: true
 autonym: Botolan Sambal
 alt_names: [Aeta Negrito, Ayta Hambali, Botolan Zambal, "Sambal, Botolan"]
 population: 32900
@@ -16,6 +14,10 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Central Luzon > Sambalic > Abellen-Botolan > Botolan Sambal"
 wikipedia_url: "https://en.wikipedia.org/wiki/Botolan_language"
+translations:
+  - translation_iso: zho
+    name: 博托兰桑巴尔语
+    auto: true
 rolv_dialects:
   - rolv_code: 26145
     language_tag: sbl-x-HIS26145

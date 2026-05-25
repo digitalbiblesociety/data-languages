@@ -1,8 +1,6 @@
 ---
 iso: gdk
 name: Gadang
-name_zh: 加当语
-name_zh_auto: true
 autonym: null
 alt_names: [Gadangeg, Gadango]
 population: 2500
@@ -16,5 +14,9 @@ glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > East Chadic > East Chadic A > East Chadic A.1 > Gadang"
 wikipedia_url: "https://en.wikipedia.org/wiki/Gadang_language"
+translations:
+  - translation_iso: zho
+    name: 加当语
+    auto: true
 ---
 Gadang is an Afro-Asiatic language spoken in southwestern Chad.

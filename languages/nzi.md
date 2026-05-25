@@ -1,7 +1,6 @@
 ---
 iso: nzi
 name: Nzima
-name_zh: 恩济马语
 autonym: Nzema
 alt_names: [Appolo]
 population: 412000
@@ -16,6 +15,17 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Kwa Volta-Congo > Nyo > Potou-Tano > Tano > Central Tano > Bia > Southern Bia > Jwira-Nzima > Nzima"
 wikipedia_url: "https://en.wikipedia.org/wiki/Nzema_language"
+translations:
+  - translation_iso: ara
+    name: النزيما
+  - translation_iso: hin
+    name: न्ज़ीमा
+  - translation_iso: jpn
+    name: ンゼマ語
+  - translation_iso: kor
+    name: 느지마어
+  - translation_iso: zho
+    name: 恩济马语
 rolv_dialects:
   - rolv_code: 26574
     language_tag: nzi-x-HIS26574

@@ -1,8 +1,6 @@
 ---
 iso: dih
 name: Kumiai
-name_zh: 库迈语
-name_zh_auto: true
 autonym: Southern Diegueño
 alt_names: [Baja California Yuman, California, Campo, Central-Eastern, Cochimí, Comeya, Cuchimí, Diegueno, Diegueño, Diegueño (Jamul), Diegueño (Mesa Grande), "Diegueño (États-Unis d'Amérique)", Diegueño du Nord, Idioma diegueño, Ipai, Ipai language, Jamul Diegueño, Jamul Tiipay, Kamia, Kamiai, Kamiyahi, Kamiyai, Ki-Miai, "Ko'al", "Ku'ahl", Kumeyaai, Kumeyaay, Kumia, "Kw'aal", Mesa Grande dialect, Quemayá, Tiipay (Jamul), Tipai, Tipai (Estados Unidos), Tipai (Mexique), "Tipai'", Tipái, Tipéi]
 population: null
@@ -15,6 +13,10 @@ glottocode: kumi1248
 glottolog_family_id: coch1271
 glottolog_family_name: Cochimi-Yuman
 glottolog_classification: "Cochimi-Yuman > Yuman > General Yuman > Delta-Californian Yuman > Diegueno > Tipai-Kumeyaay-Huerteno"
+translations:
+  - translation_iso: zho
+    name: 库迈语
+    auto: true
 rolv_dialects:
   - rolv_code: 24793
     language_tag: dih-x-HIS24793

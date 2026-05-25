@@ -1,8 +1,6 @@
 ---
 iso: sky
 name: Sikaiana
-name_zh: 西卡亚纳语
-name_zh_auto: true
 autonym: Sikayana
 population: 730
 country_id: SB
@@ -15,5 +13,11 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Central Pacific linkage > Tokalau Fijian > Polynesian > Nuclear Polynesian > Northern Outlier Polynesian-East Polynesian > Solomons Northern Outlier Polynesian-East Polynesian > Sikaiana"
 wikipedia_url: "https://en.wikipedia.org/wiki/Sikaiana_language"
+translations:
+  - translation_iso: jpn
+    name: シカイアナ語
+  - translation_iso: zho
+    name: 西卡亚纳语
+    auto: true
 ---
 Sikaiana is a Polynesian language, spoken by about 730 people on Sikaiana in the Solomon Islands.

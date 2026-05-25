@@ -1,7 +1,6 @@
 ---
 iso: mni
 name: Manipuri
-name_zh: 曼尼普尔语
 autonym: " Meitheilon"
 alt_names: [Bahasa Manipuri, Bishnupriya, Idioma meitei, Język manipuri, Kathe, Kathi, Kaṯhe, Lingua Meitei, Mailhai, Manipura lingvo, Manipuri jezik, Meitei, Meitei language, Meiteieg, Meiteilon, Meiteiron, Meithe, Meithei, Meithlei, Menipuri, Mitei, Mithe, Mēkhalī, Mēklē, Ponna, Pōṇṇā, Манипури, Манипури језик, मणिपुरी भाषा, মেইতেই ঠার, মৈতৈ ভাষা, મણિપુરી ભાષા, മണിപ്പൂരി ഭാഷ, ภาษามณีปุรี, マニプリ語, 曼尼普尔语, 마니푸르어]
 population: 1775000
@@ -16,6 +15,17 @@ glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Kuki-Chin-Naga > Manipuri"
 wikipedia_url: "https://en.wikipedia.org/wiki/Meitei_language"
+translations:
+  - translation_iso: ara
+    name: الميتية
+  - translation_iso: hin
+    name: मणिपुरी भाषा
+  - translation_iso: jpn
+    name: マニプリ語
+  - translation_iso: kor
+    name: 마니푸르어
+  - translation_iso: zho
+    name: 曼尼普尔语
 rolv_dialects:
   - rolv_code: 594
     language_tag: mni-x-HIS00594

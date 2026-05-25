@@ -1,8 +1,6 @@
 ---
 iso: mdp
 name: Mbala
-name_zh: 姆巴拉语
-name_zh_auto: true
 autonym: Gimbala
 alt_names: [Rumbala]
 population: 374500
@@ -16,5 +14,9 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > Central-Western Bantu > Njila > Northern Njila > Mbala-Holu-Sondi (K.10) > Mbala-Sondi > Mbala"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mbala_language"
+translations:
+  - translation_iso: zho
+    name: 姆巴拉语
+    auto: true
 ---
 Mbala is a Bantu language of the Congo. It is widely spoken in the area around the town of Kikwit.

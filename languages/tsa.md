@@ -1,8 +1,6 @@
 ---
 iso: tsa
 name: Tsaangi
-name_zh: 察昂吉语
-name_zh_auto: true
 autonym: Icaangi
 alt_names: [Batsangui, Icaangui, Itsaangi, Itsangi, Tcengui, Tchangui, Tsangi]
 population: 13600
@@ -16,5 +14,11 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > Central-Western Bantu > West-Coastal Bantu > Nzadic > Lweric > Dingic > Loange-Atlantic > Kwilu-Ngounie > Kasai-Ngounie > Moyen Kasai-Ngounie > Interior Kasai-Ngounie > West Kasai-Ngounie > Northwest Kasai-Ngounie > Nzebi-Laali-Yaa > Njebi (B.50) > Ndjavi A > Tsaangi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tsaangi_language"
+translations:
+  - translation_iso: jpn
+    name: ツァーンギ語
+  - translation_iso: zho
+    name: 察昂吉语
+    auto: true
 ---
 Tsaangi (Tsangui) is a Bantu language spoken in Gabon and the Republic of Congo.

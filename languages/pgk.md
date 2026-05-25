@@ -1,7 +1,6 @@
 ---
 iso: pgk
 name: Rerep
-name_zh: 瑞瑞普语
 autonym: Pangkumu
 alt_names: [Mallicolo, Pangkumu Bay, Tisman]
 population: 380
@@ -15,6 +14,9 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > North and Central Vanuatu > Central Vanuatu > Malakula > Eastern Malakula linkage > Central-Southeast Malakula > Unua-Pangkumu > Rerep"
 wikipedia_url: "https://en.wikipedia.org/wiki/Rerep_language"
+translations:
+  - translation_iso: zho
+    name: 瑞瑞普语
 rolv_dialects:
   - rolv_code: 15982
     language_tag: pgk-x-HIS15982

@@ -1,8 +1,6 @@
 ---
 iso: mtk
 name: "Mbe'"
-name_zh: 姆贝语
-name_zh_auto: true
 autonym: Mbe’
 alt_names: [Mbaw, Mbe, Mbo]
 population: 1490
@@ -16,5 +14,9 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Wide Grassfields > Narrow Grassfields > Mbam-Nkam > Nkambe > Mbe'"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mb%C9%99%CA%BC_language"
+translations:
+  - translation_iso: zho
+    name: 姆贝语
+    auto: true
 ---
 Mbəʼ is a Grassfields language of Cameroon.

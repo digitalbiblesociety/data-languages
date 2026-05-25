@@ -1,8 +1,6 @@
 ---
 iso: skp
 name: Sekapan
-name_zh: 塞卡潘语
-name_zh_auto: true
 autonym: Sekepan
 population: 750
 country_id: MY
@@ -15,5 +13,9 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > North Borneo Malayo-Polynesian > Central Sarawak > Melanau-Kajang > Kajang > Sekapan"
 wikipedia_url: "https://en.wikipedia.org/wiki/Sekapan_language"
+translations:
+  - translation_iso: zho
+    name: 塞卡潘语
+    auto: true
 ---
 Sekapan is a Kajang language of Sarawak, Malaysia.

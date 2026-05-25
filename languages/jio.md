@@ -1,7 +1,6 @@
 ---
 iso: jio
 name: Jiamao
-name_zh: 加茂語
 autonym: Sai 塞
 alt_names: [Kamau, Tai]
 population: 52300
@@ -15,6 +14,11 @@ glottolog_family_id: taik1256
 glottolog_family_name: Tai-Kadai
 glottolog_classification: "Tai-Kadai > Hlaic > Jiamao"
 wikipedia_url: "https://en.wikipedia.org/wiki/Jiamao_language"
+translations:
+  - translation_iso: jpn
+    name: チャマオ語
+  - translation_iso: zho
+    name: 加茂語
 rolv_dialects:
   - rolv_code: 6047
     language_tag: jio-x-HIS06047

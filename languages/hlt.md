@@ -1,8 +1,6 @@
 ---
 iso: hlt
 name: Matu Chin
-name_zh: 马图钦语
-name_zh_auto: true
 autonym: Matupi Chin
 alt_names: ["Chin, Matu", Lawthve, Matupi, Nga La, NgaLa, Thlan Tan]
 population: 40000
@@ -16,6 +14,10 @@ glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Kuki-Chin-Naga > Kuki-Chin > Peripheral Kuki-Chin > South Peripheral Kuki-Chin > Choic > Nga La"
 wikipedia_url: "https://en.wikipedia.org/wiki/Nga_La_language"
+translations:
+  - translation_iso: zho
+    name: 马图钦语
+    auto: true
 rolv_dialects:
   - rolv_code: 21288
     language_tag: hlt-x-HIS21288

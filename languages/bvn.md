@@ -1,8 +1,6 @@
 ---
 iso: bvn
 name: Buna
-name_zh: 布纳语
-name_zh_auto: true
 autonym: null
 population: 750
 country_id: PG
@@ -15,6 +13,10 @@ glottolog_family_id: nucl1708
 glottolog_family_name: Nuclear Torricelli
 glottolog_classification: "Nuclear Torricelli > Marienberg > Buna"
 wikipedia_url: "https://en.wikipedia.org/wiki/Buna_language"
+translations:
+  - translation_iso: zho
+    name: 布纳语
+    auto: true
 rolv_dialects:
   - rolv_code: 8466
     language_tag: bvn-x-HIS08466

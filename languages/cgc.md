@@ -1,7 +1,6 @@
 ---
 iso: cgc
 name: Kagayanen
-name_zh: 巴拉望语
 autonym: null
 alt_names: [Cagayancillo, Cagayano Cillo]
 population: 30000
@@ -15,5 +14,10 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Greater Central Philippine > Manobo > North Manobo > Kagayanen"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kagayanen_language"
+translations:
+  - translation_iso: jpn
+    name: カガヤネン語
+  - translation_iso: zho
+    name: 巴拉望语
 ---
 The Kagayanen language is spoken in the province of Palawan in the Philippines. It belongs to the Manobo subgroup of the Austronesian language family and is the only member of this subgroup that is not spoken on Mindanao or nearby islands.

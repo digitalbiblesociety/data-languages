@@ -1,7 +1,6 @@
 ---
 iso: mhj
 name: Mogholi
-name_zh: 蒙戈勒語
 autonym: Moghol
 alt_names: [Język mogolski, Mogol, "Mogol'", Mogolieg, Mogul, Mongolen, Mongul, Моголски јазик, Могольский язык, ภาษาโมโคล]
 population: 200
@@ -15,6 +14,15 @@ glottolog_family_id: mong1349
 glottolog_family_name: Mongolic-Khitan
 glottolog_classification: "Mongolic-Khitan > Mongolic > Mogholi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Moghol_language"
+translations:
+  - translation_iso: ara
+    name: المغولية
+  - translation_iso: jpn
+    name: モゴール語
+  - translation_iso: kor
+    name: 모골어
+  - translation_iso: zho
+    name: 蒙戈勒語
 rolv_dialects:
   - rolv_code: 14185
     language_tag: mhj-x-HIS14185

@@ -1,8 +1,6 @@
 ---
 iso: zsk
 name: Kaskean
-name_zh: 卡斯克语
-name_zh_auto: true
 autonym: Kaška
 population: null
 country_id: TR
@@ -13,5 +11,11 @@ glottolog_family_id: uncl1493
 glottolog_family_name: Unclassifiable
 glottolog_classification: "Unclassifiable > Kaskean"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kaskian_language"
+translations:
+  - translation_iso: jpn
+    name: カスキアン語
+  - translation_iso: zho
+    name: 卡斯克语
+    auto: true
 ---
 Kaskian (Kaskean) was the language of the Kaskians (Kaska) of northeastern Bronze Age Anatolia in the mountains along the Black Sea coast. The Encyclopedia of Indo-European Culture lists the Kaskians as non–Indo-European. There are a number of theories regarding the language family to which it belonged.

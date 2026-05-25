@@ -1,8 +1,6 @@
 ---
 iso: bcp
 name: Bali (Democratic Republic of Congo)
-name_zh: 刚果民主共和国巴利语
-name_zh_auto: true
 autonym: Dhibali
 alt_names: [Baali, Bali, Kibaali, Kibala, Kibali, Libaali]
 population: 42000
@@ -16,6 +14,12 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > Central-Western Bantu > North Zaire River > Rivers Bantu > Ngiri > Ngiri Terrien > Ngombe-Ababuan > Ababuan > Bali-Beeke > Bali (Democratic Republic of Congo)"
 wikipedia_url: "https://en.wikipedia.org/wiki/Bali_language_(DRC)"
+translations:
+  - translation_iso: jpn
+    name: バリ語
+  - translation_iso: zho
+    name: 刚果民主共和国巴利语
+    auto: true
 rolv_dialects:
   - rolv_code: 4505
     language_tag: bcp-x-HIS04505

@@ -1,7 +1,6 @@
 ---
 iso: lme
 name: Pévé
-name_zh: 裴韋語
 autonym: Lamé
 alt_names: ["\"Kado\"", "Ka'do", "Ka'do Pevé", Lame, Peve, Zime]
 population: 35720
@@ -15,6 +14,9 @@ glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > Masa > South Masa > Peveic > Peve"
 wikipedia_url: "https://en.wikipedia.org/wiki/Peve_language"
+translations:
+  - translation_iso: zho
+    name: 裴韋語
 rolv_dialects:
   - rolv_code: 15618
     language_tag: lme-x-HIS15618

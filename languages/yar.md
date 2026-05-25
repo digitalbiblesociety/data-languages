@@ -1,8 +1,6 @@
 ---
 iso: yar
 name: Yabarana
-name_zh: 亚巴拉纳语
-name_zh_auto: true
 autonym: Mapoyo–Yavarana
 alt_names: [Jabarana lingvo, Mapoyo-Yavarana, Yabaraneg, Yauarana, Yavarana, Yawarana]
 population: null
@@ -15,6 +13,12 @@ glottocode: yaba1248
 glottolog_family_id: cari1283
 glottolog_family_name: Cariban
 glottolog_classification: "Cariban > Venezuelan Cariban > Mapoyo-Tamanaku > Mapoyo-Yawarana > Yabarana"
+translations:
+  - translation_iso: jpn
+    name: ヤワラナ語
+  - translation_iso: zho
+    name: 亚巴拉纳语
+    auto: true
 rolv_dialects:
   - rolv_code: 18374
     language_tag: yar-x-HIS18374

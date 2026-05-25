@@ -1,7 +1,6 @@
 ---
 iso: toi
 name: Tonga (Zambia)
-name_zh: 汤加语
 autonym: Zambezi
 alt_names: [Chitonga, Plateau Tonga, Tonga, Tonga (in Zambia)]
 population: 1530000
@@ -15,6 +14,15 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > East Bantu > Botatwe > Greater Eastern Botatwe > Central Eastern Botatwe > Kafue > Tonga (Zambia)"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tonga_language_(Zambia_and_Zimbabwe)"
+translations:
+  - translation_iso: ara
+    name: تونغا
+  - translation_iso: jpn
+    name: トンガ語
+  - translation_iso: kor
+    name: 통가어
+  - translation_iso: zho
+    name: 汤加语
 rolv_dialects:
   - rolv_code: 1842
     language_tag: toi-x-HIS01842

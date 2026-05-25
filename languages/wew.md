@@ -1,8 +1,6 @@
 ---
 iso: wew
 name: Wejewa
-name_zh: 韦杰瓦语
-name_zh_auto: true
 autonym: West Sumbanese
 alt_names: [Veveva, Waidjewa, Waijewa, Wajewa, West-Soembasch, Wewewa, Wewjewa, Weyewa]
 population: 55000
@@ -16,6 +14,10 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Bima-Lembata > Sumba-Hawu > Sumba > Wewewa-Laboya > Wewewa"
 wikipedia_url: "https://en.wikipedia.org/wiki/Wejewa_language"
+translations:
+  - translation_iso: zho
+    name: 韦杰瓦语
+    auto: true
 rolv_dialects:
   - rolv_code: 693
     language_tag: wew-x-HIS00693

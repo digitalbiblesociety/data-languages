@@ -1,8 +1,6 @@
 ---
 iso: rnb
 name: Brunca Sign Language
-name_zh: 布鲁卡手语
-name_zh_auto: true
 country_id: CR
 country_name: Costa Rica
 latitude: 9.978549
@@ -12,5 +10,11 @@ glottolog_family_id: sign1238
 glottolog_family_name: Sign Language
 glottolog_classification: "Sign Language > L1 Sign Language > Brunca Sign Language"
 wikipedia_url: "https://en.wikipedia.org/wiki/Brunca_Sign_Language"
+translations:
+  - translation_iso: hin
+    name: ब्रुंका सांकेतिक भाषा
+  - translation_iso: zho
+    name: 布鲁卡手语
+    auto: true
 ---
 Brunca Sign Language is a village sign language of an indigenous Brunca community in southern Costa Rica. It is unrelated to Costa Rican Sign Language.

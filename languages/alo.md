@@ -1,7 +1,6 @@
 ---
 iso: alo
 name: "Larike-Wakasihu"
-name_zh: 瓦卡西胡语
 autonym: "Larike-Wakasihu"
 alt_names: [Larike, Wakasihu]
 population: 12600
@@ -15,6 +14,9 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Nunusaku > Piru Bay > West Piru Bay > Hoamoal > East Hoamoal > Larike-Wakasihu"
 wikipedia_url: "https://en.wikipedia.org/wiki/Wakasihu_language"
+translations:
+  - translation_iso: zho
+    name: 瓦卡西胡语
 rolv_dialects:
   - rolv_code: 12772
     language_tag: alo-x-HIS12772

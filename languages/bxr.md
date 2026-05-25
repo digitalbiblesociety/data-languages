@@ -1,7 +1,6 @@
 ---
 iso: bxr
 name: Russia Buriat
-name_zh: 俄罗斯布里亚特语
 autonym: Buriat
 alt_names: ["Buriat, Russia", Buriat-Mongolian, Burjatisch, Buryat, Northern Mongolian, Russian Buriat, Western Buryat, buriaad xelen, buryaad xelen, буриад аялгуу, буряад хэлэн, бурят-монгольский язык]
 population: 461000
@@ -14,6 +13,11 @@ glottocode: russ1264
 glottolog_family_id: mong1349
 glottolog_family_name: Mongolic-Khitan
 glottolog_classification: "Mongolic-Khitan > Mongolic > Eastern Mongolic > Khalkha-Buriat > Buriat > Russia Buriat"
+translations:
+  - translation_iso: jpn
+    name: ロシアブリヤート語
+  - translation_iso: zho
+    name: 俄罗斯布里亚特语
 rolv_dialects:
   - rolv_code: 4600
     language_tag: bxr-x-HIS04600

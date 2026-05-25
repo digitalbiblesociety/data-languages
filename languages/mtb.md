@@ -1,8 +1,6 @@
 ---
 iso: mtb
 name: Anyin Morofo
-name_zh: 安依莫罗弗语
-name_zh_auto: true
 autonym: Anyi
 alt_names: [Morofo]
 population: 300000
@@ -16,6 +14,10 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Kwa Volta-Congo > Nyo > Potou-Tano > Tano > Central Tano > Bia > Northern Bia > Anyinic > Anyin Morofo"
 wikipedia_url: "https://en.wikipedia.org/wiki/Morofo_language"
+translations:
+  - translation_iso: zho
+    name: 安依莫罗弗语
+    auto: true
 rolv_dialects:
   - rolv_code: 25239
     language_tag: mtb-x-HIS25239

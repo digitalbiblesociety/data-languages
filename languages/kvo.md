@@ -1,8 +1,6 @@
 ---
 iso: kvo
 name: Dobel
-name_zh: 多贝尔语
-name_zh_auto: true
 autonym: Kobro’or
 alt_names: [Aru, Doibel, "Kobro'or", Kobroor, Sersifar Tannin]
 population: 1000
@@ -16,6 +14,10 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Aru > Central Aru > Dobel-Koba > Dobel"
 wikipedia_url: "https://en.wikipedia.org/wiki/Dobel_language"
+translations:
+  - translation_iso: zho
+    name: 多贝尔语
+    auto: true
 rolv_dialects:
   - rolv_code: 9335
     language_tag: kvo-x-HIS09335

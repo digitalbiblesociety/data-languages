@@ -1,8 +1,6 @@
 ---
 iso: kem
 name: Kemak
-name_zh: 克马克语
-name_zh_auto: true
 autonym: Ema
 alt_names: [ภาษาเกมัก]
 population: 90000
@@ -16,6 +14,12 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Central Timor > Kemak-Tukudede > Kemak"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kemak_language"
+translations:
+  - translation_iso: jpn
+    name: ケマク語
+  - translation_iso: zho
+    name: 克马克语
+    auto: true
 rolv_dialects:
   - rolv_code: 11786
     language_tag: kem-x-HIS11786

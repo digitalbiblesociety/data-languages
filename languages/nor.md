@@ -1,7 +1,6 @@
 ---
 iso: nor
 name: Norwegian
-name_zh: 挪威语
 autonym: norsk
 alt_names: [norvégien]
 population: 5305910
@@ -16,6 +15,17 @@ glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Germanic > Northwest Germanic > North Germanic > West Scandinavian > Norwegian"
 wikipedia_url: "https://en.wikipedia.org/wiki/Norwegian_language"
+translations:
+  - translation_iso: ara
+    name: النرويجية
+  - translation_iso: hin
+    name: नॉर्वेजियाई भाषा
+  - translation_iso: jpn
+    name: ノルウェー語
+  - translation_iso: kor
+    name: 노르웨이어
+  - translation_iso: zho
+    name: 挪威语
 rolv_dialects:
   - rolv_code: 29885
     language_tag: no-x-HIS29885

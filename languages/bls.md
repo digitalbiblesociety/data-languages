@@ -1,8 +1,6 @@
 ---
 iso: bls
 name: Balaesang
-name_zh: 巴拉桑语
-name_zh_auto: true
 autonym: Balaesan
 alt_names: [Balaesano, Balaisang, Baleasang, Pajo]
 population: 3200
@@ -16,5 +14,9 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Celebic > Greater Eastern Celebic > Tominic > Southern Tomini > Balaesang"
 wikipedia_url: "https://en.wikipedia.org/wiki/Balaesang_language"
+translations:
+  - translation_iso: zho
+    name: 巴拉桑语
+    auto: true
 ---
 Balaesang is a Celebic language of Sulawesi in Indonesia.

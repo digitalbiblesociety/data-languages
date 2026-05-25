@@ -1,8 +1,6 @@
 ---
 iso: bnr
 name: "Butmas-Tur"
-name_zh: 布特马斯-图尔语
-name_zh_auto: true
 autonym: "Butmas-Tur"
 alt_names: [Ati, Farafi]
 population: 520
@@ -16,5 +14,9 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > North and Central Vanuatu > Northern Vanuatu > Espiritu Santo > Nuclear Santo > East Santo > Southeast Santo > Farafi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Butmas_language"
+translations:
+  - translation_iso: zho
+    name: 布特马斯-图尔语
+    auto: true
 ---
 Butmas is a language of the interior of Santo Island in Vanuatu.

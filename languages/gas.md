@@ -1,8 +1,6 @@
 ---
 iso: gas
 name: Adiwasi Garasia
-name_zh: 阿迪瓦西加拉西亚语
-name_zh_auto: true
 autonym: भीली
 alt_names: [Adiwasi Girasia, Adiwasi Gujarati, "Garasia, Adiwasi", Girasia]
 population: 100000
@@ -15,6 +13,10 @@ glottocode: adiw1235
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Indo-Aryan > Middle-Modern Indo-Aryan > Continental Indo-Aryan > Midlands Indo-Aryan > Bhil > Garasia Bhil > Adiwasi Garasia"
+translations:
+  - translation_iso: zho
+    name: 阿迪瓦西加拉西亚语
+    auto: true
 rolv_dialects:
   - rolv_code: 4803
     language_tag: gas-x-HIS04803

@@ -1,7 +1,6 @@
 ---
 iso: tkf
 name: Tukumanféd
-name_zh: 卡瓦系瓦語
 autonym: Kawahib
 alt_names: [Diahoi, Diahói, Diarroi, Djahui, Jiahui, Juma, Karipuna, Kawahib/Paranawat/Pawaté-Wirafed, Parintintín, Parintintín/Tenharim/Juma, Tenharim, Tenharím, Tukumanfed, Uru-eu-uau-uau, Yuma]
 population: null
@@ -15,5 +14,10 @@ glottolog_family_id: unat1236
 glottolog_family_name: Unattested
 glottolog_classification: "Unattested > Tupian (Unattested) > Tukumanféd"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kagwahiva_language"
+translations:
+  - translation_iso: jpn
+    name: カワイブ語
+  - translation_iso: zho
+    name: 卡瓦系瓦語
 ---
 Kawahíva is a Tupi–Guarani dialect cluster of Brazil.

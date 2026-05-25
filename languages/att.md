@@ -1,8 +1,6 @@
 ---
 iso: att
 name: Pamplona Atta
-name_zh: 潘普洛纳阿塔语
-name_zh_auto: true
 autonym: null
 alt_names: ["Atta, Pamplona", Northern Cagayan Negrito]
 population: 1000
@@ -15,4 +13,8 @@ glottocode: pamp1244
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Northern Luzon > Cagayan Valley > Ibanagic > Atta > Pamplona Atta"
+translations:
+  - translation_iso: zho
+    name: 潘普洛纳阿塔语
+    auto: true
 ---

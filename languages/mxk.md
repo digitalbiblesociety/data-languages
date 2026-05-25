@@ -1,8 +1,6 @@
 ---
 iso: mxk
 name: Monumbo
-name_zh: 莫努姆博语
-name_zh_auto: true
 autonym: null
 alt_names: [Mambuwan]
 population: 410
@@ -16,5 +14,9 @@ glottolog_family_id: monu1249
 glottolog_family_name: Bogia
 glottolog_classification: "Bogia > Monumbo"
 wikipedia_url: "https://en.wikipedia.org/wiki/Monumbo_language"
+translations:
+  - translation_iso: zho
+    name: 莫努姆博语
+    auto: true
 ---
 Monumbo is a Papuan language of Papua New Guinea. There is an early description in German. It is closely related to Lilau.

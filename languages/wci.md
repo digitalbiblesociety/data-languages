@@ -1,8 +1,6 @@
 ---
 iso: wci
 name: Waci Gbe
-name_zh: 瓦西-格贝语
-name_zh_auto: true
 autonym: Ouatchi
 alt_names: ["Gbe, Waci", Wachi, Waci, Waci-Gbe, Watyi, Watyu]
 population: 884300
@@ -16,6 +14,10 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Kwa Volta-Congo > Gbe > Western Gbe > Kpesi-Waci > Waci Gbe"
 wikipedia_url: "https://en.wikipedia.org/wiki/Waci_language"
+translations:
+  - translation_iso: zho
+    name: 瓦西-格贝语
+    auto: true
 rolv_dialects:
   - rolv_code: 2808
     language_tag: wci-x-HIS02808

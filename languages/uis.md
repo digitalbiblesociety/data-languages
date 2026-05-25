@@ -1,8 +1,6 @@
 ---
 iso: uis
 name: Uisai
-name_zh: 乌伊赛语
-name_zh_auto: true
 autonym: null
 population: 2500
 country_id: PG
@@ -15,5 +13,9 @@ glottolog_family_id: sout2948
 glottolog_family_name: South Bougainville
 glottolog_classification: "South Bougainville > Buinic > Buin > Uisai"
 wikipedia_url: "https://en.wikipedia.org/wiki/Uisai_language"
+translations:
+  - translation_iso: zho
+    name: 乌伊赛语
+    auto: true
 ---
 Uisai is a South Bougainville language of Bougainville Province, Papua New Guinea. It is in the Buin language subfamily. The language uses Latin script.

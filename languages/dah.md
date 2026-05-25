@@ -1,8 +1,6 @@
 ---
 iso: dah
 name: Gwahatike
-name_zh: 瓜哈蒂克语
-name_zh_auto: true
 autonym: Dahating
 alt_names: [Gwatike]
 population: 1570
@@ -16,6 +14,10 @@ glottolog_family_id: nucl1709
 glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Finisterre-Huon > Finisterre-Saruwaged > Warup > Gwahatike"
 wikipedia_url: "https://en.wikipedia.org/wiki/Gwahatike_language"
+translations:
+  - translation_iso: zho
+    name: 瓜哈蒂克语
+    auto: true
 rolv_dialects:
   - rolv_code: 10495
     language_tag: dah-x-HIS10495

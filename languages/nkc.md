@@ -1,8 +1,6 @@
 ---
 iso: nkc
 name: Nkongho
-name_zh: 恩贡戈语
-name_zh_auto: true
 autonym: Kinkwa
 alt_names: [Lekongo, Upper Mbo]
 population: 2230
@@ -16,5 +14,9 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > Bantu A-B10-B20-B30 > Lundu-Balong (A.10) > Greater Manenguba > Nkongho"
 wikipedia_url: "https://en.wikipedia.org/wiki/Nkongho_language"
+translations:
+  - translation_iso: zho
+    name: 恩贡戈语
+    auto: true
 ---
 Nkongho, or Upper Mbo, is a poorly known Bantu language of Cameroon. Apart from being Bantu, it is not demonstrably related to the Mbo language.

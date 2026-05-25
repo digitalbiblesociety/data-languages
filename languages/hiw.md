@@ -1,7 +1,6 @@
 ---
 iso: hiw
 name: Hiw
-name_zh: 希烏語
 autonym: Hiu
 alt_names: [Torres, Torres Island]
 population: 150
@@ -15,5 +14,8 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > North and Central Vanuatu > Northern Vanuatu > Torres-Banks linkage > Hiw-Lo-Toga > Hiw"
 wikipedia_url: "https://en.wikipedia.org/wiki/Hiw_language"
+translations:
+  - translation_iso: zho
+    name: 希烏語
 ---
 Hiw is an Oceanic language spoken on the island of Hiw, in the Torres Islands of Vanuatu. With about 280 speakers, Hiw is considered endangered.

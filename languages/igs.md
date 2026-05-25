@@ -1,8 +1,6 @@
 ---
 iso: igs
 name: Interglossa
-name_zh: 国际语言语
-name_zh_auto: true
 autonym: null
 population: null
 country_id: ZZ
@@ -13,5 +11,11 @@ glottolog_family_id: arti1236
 glottolog_family_name: Artificial Language
 glottolog_classification: "Artificial Language > Interglossa"
 wikipedia_url: "https://en.wikipedia.org/wiki/Interglossa"
+translations:
+  - translation_iso: jpn
+    name: インターグロッサ
+  - translation_iso: zho
+    name: 国际语言语
+    auto: true
 ---
 Interglossa is a constructed language devised by biologist Lancelot Hogben during World War II, as an attempt to put the international lexicon of science and technology, mainly of Greek and Latin origin, into a language with a purely isolating grammar. Interglossa was published in 1943 as just a draft of an auxiliary. Hogben applied semantic principles to provide a reduced vocabulary of just over 880 words which might suffice for basic conversation among peoples of different nationality.

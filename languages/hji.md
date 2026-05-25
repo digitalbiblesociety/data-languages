@@ -1,7 +1,6 @@
 ---
 iso: hji
 name: Haji
-name_zh: 哈吉语
 autonym: Aji
 alt_names: [Malayisch]
 population: 17500
@@ -15,5 +14,8 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Malayo-Chamic > Malayic > Haji"
 wikipedia_url: "https://en.wikipedia.org/wiki/Haji_language"
+translations:
+  - translation_iso: zho
+    name: 哈吉语
 ---
 Haji (Aji) is a Malayic language spoken on the island of Sumatra in Indonesia. A third of the vocabulary is derived from Lampung.

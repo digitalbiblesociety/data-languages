@@ -1,8 +1,6 @@
 ---
 iso: vnp
 name: Vunapu
-name_zh: 武纳普语
-name_zh_auto: true
 autonym: null
 alt_names: [Vanuatu]
 population: 380
@@ -16,6 +14,10 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > North and Central Vanuatu > Northern Vanuatu > Espiritu Santo > West Santo > Cape Cumberland > Vunapu"
 wikipedia_url: "https://en.wikipedia.org/wiki/Vunapu_language"
+translations:
+  - translation_iso: zho
+    name: 武纳普语
+    auto: true
 rolv_dialects:
   - rolv_code: 30792
     language_tag: vnp-x-HIS30792

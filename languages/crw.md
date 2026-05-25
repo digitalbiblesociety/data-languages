@@ -1,7 +1,6 @@
 ---
 iso: crw
 name: Chrau
-name_zh: 遮罗语
 autonym: Chauro
 alt_names: [Choro, Chíoro, Gro, Jro, Ro, Tamun]
 population: 26900
@@ -15,6 +14,9 @@ glottolog_family_id: aust1305
 glottolog_family_name: Austroasiatic
 glottolog_classification: "Austroasiatic > Bahnaric > West Bahnaric > South Bahnaric > Mnong-Stieng-Chrau > Chrau"
 wikipedia_url: "https://en.wikipedia.org/wiki/Chrau_language"
+translations:
+  - translation_iso: zho
+    name: 遮罗语
 rolv_dialects:
   - rolv_code: 729
     language_tag: crw-x-HIS00729

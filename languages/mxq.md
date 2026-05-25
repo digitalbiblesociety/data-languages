@@ -1,8 +1,6 @@
 ---
 iso: mxq
 name: Juquila Mixe
-name_zh: 胡基拉米克斯语
-name_zh_auto: true
 autonym: Central Mixe
 alt_names: [Cacalotepec, Juquila, Midland Mije, Mije, Mixe, "Mixe, Juquila", Oaxaca Mije, South Central Mixe, South Midland Mixe]
 population: 8000
@@ -15,6 +13,10 @@ glottocode: juqu1238
 glottolog_family_id: mixe1284
 glottolog_family_name: Mixe-Zoque
 glottolog_classification: "Mixe-Zoque > Mixe > Oaxaca Mixe > Lowland-Midland-South Highland Mixe > Lowland-Midland Mixe > Midland Mixe > Juquila Mixe"
+translations:
+  - translation_iso: zho
+    name: 胡基拉米克斯语
+    auto: true
 rolv_dialects:
   - rolv_code: 2823
     language_tag: mxq-x-HIS02823

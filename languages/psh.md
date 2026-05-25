@@ -1,7 +1,6 @@
 ---
 iso: psh
 name: Southwest Pashai
-name_zh: 西南帕沙伊语
 autonym: Pashai
 alt_names: [Dardu, "Pashai, Southwest", "Pashayi, Southwest", Southwest Pashayi, Southwestern Pašaī]
 population: 100000
@@ -14,6 +13,9 @@ glottocode: sout2671
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Indo-Aryan > Pashayi > Western Pashayi > Southwest Pashayi"
+translations:
+  - translation_iso: zho
+    name: 西南帕沙伊语
 rolv_dialects:
   - rolv_code: 3317
     language_tag: psh-x-HIS03317

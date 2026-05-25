@@ -1,8 +1,6 @@
 ---
 iso: lix
 name: Liabuku
-name_zh: 利亚布库语
-name_zh_auto: true
 autonym: bahasa Liabuku
 alt_names: [Liabuka]
 population: 75
@@ -16,5 +14,9 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Celebic > Greater Eastern Celebic > Eastern Celebic > Southeastern Celebic > Muna-Buton > Nuclear Muna-Buton > Munan > Munic > Western Munic > Liabuku"
 wikipedia_url: "https://en.wikipedia.org/wiki/Liabuku_language"
+translations:
+  - translation_iso: zho
+    name: 利亚布库语
+    auto: true
 ---
 Liabuku is an Austronesian language of Buton Island, off the southeast coast of Sulawesi in Indonesia. Considered a dialect of Muna, it is more divergent than other Muna dialects.

@@ -1,8 +1,6 @@
 ---
 iso: akg
 name: Anakalangu
-name_zh: 阿纳卡兰古语
-name_zh_auto: true
 autonym: Anakalang
 population: 14000
 country_id: ID
@@ -15,5 +13,9 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Bima-Lembata > Sumba-Hawu > Sumba > Central-East Sumbanese > Central Sumbanese > Anakalang"
 wikipedia_url: "https://en.wikipedia.org/wiki/Anakalangu_language"
+translations:
+  - translation_iso: zho
+    name: 阿纳卡兰古语
+    auto: true
 ---
 Anakalangu is an Austronesian language spoken on Sumba, Indonesia.

@@ -1,8 +1,6 @@
 ---
 iso: yng
 name: Yango
-name_zh: 扬戈语
-name_zh_auto: true
 autonym: Gbendere
 population: 3000
 country_id: CD
@@ -14,4 +12,8 @@ glottocode: yang1289
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Cameroun-Ubangian > Ubangi > Ubangi Ka > Mundu-Baka > Western Mundu-Baka > River Western Mundu-Baka > Monzomboic > Kpala-Bakpa > Yango"
+translations:
+  - translation_iso: zho
+    name: 扬戈语
+    auto: true
 ---

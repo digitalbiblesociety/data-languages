@@ -1,8 +1,6 @@
 ---
 iso: erg
 name: Sie
-name_zh: 西埃语
-name_zh_auto: true
 autonym: Erromangan
 alt_names: [Eromanga, Erramanga, Erromanga, Erromango, Sye]
 population: 1900
@@ -16,6 +14,12 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Southern Melanesian > Southern Vanuatu > Erromanga > Sie"
 wikipedia_url: "https://en.wikipedia.org/wiki/Erromanga_language"
+translations:
+  - translation_iso: jpn
+    name: シエ語
+  - translation_iso: zho
+    name: 西埃语
+    auto: true
 rolv_dialects:
   - rolv_code: 16688
     language_tag: erg-x-HIS16688

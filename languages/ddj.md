@@ -1,8 +1,6 @@
 ---
 iso: ddj
 name: Jaru
-name_zh: 亚鲁语
-name_zh_auto: true
 autonym: Djaru
 alt_names: [Charrau, Deharu, Djara, Djaro, Dyaru, Jaroo, Jarrau, Jarroo, Jarrou, Jaruo, Jaruru, "Ka:biri", Karbery, Kodjangana, Meening, Neening, Nining, Njinin, Njining, Nyinin, Ruby Creek, Tjaru, Waiangara, Waringari, Wawari]
 population: 340
@@ -16,6 +14,12 @@ glottolog_family_id: pama1250
 glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > Desert Nyungic > Ngumpin-Yapa > Ngumpin > Western Ngumpin > Jaru"
 wikipedia_url: "https://en.wikipedia.org/wiki/Djaru_language"
+translations:
+  - translation_iso: jpn
+    name: ジャル語
+  - translation_iso: zho
+    name: 亚鲁语
+    auto: true
 rolv_dialects:
   - rolv_code: 11117
     language_tag: ddj-x-HIS11117

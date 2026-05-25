@@ -1,7 +1,6 @@
 ---
 iso: mid
 name: Mandaic
-name_zh: 現代曼達安語
 autonym: Mandɔyí
 alt_names: ["Manda:yi", Mandaean, Mandaic (Modern), Mandeo, Mandi, Mandéen, Modern Mandaic, Neo-Mandaic, "Sabe'in", Sabean, Subbi, زبان مندائی نو]
 population: 23000
@@ -15,6 +14,11 @@ glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Semitic > West Semitic > Central Semitic > Northwest Semitic > Aramaic > Imperial-Middle-Modern Aramaic > Middle-Modern Aramaic > Eastern Aramaic > Macro-Mandaic > Neo-Mandaic"
 wikipedia_url: "https://en.wikipedia.org/wiki/Neo-Mandaic"
+translations:
+  - translation_iso: jpn
+    name: 現代マンダ語
+  - translation_iso: zho
+    name: 現代曼達安語
 rolv_dialects:
   - rolv_code: 13580
     language_tag: mid-x-HIS13580

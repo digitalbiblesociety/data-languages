@@ -1,7 +1,6 @@
 ---
 iso: snk
 name: Soninke
-name_zh: 索宁克语
 autonym: Sooninkanxanne
 alt_names: [Aswanik, Bahasa Soninke, Diawara, Gadyaga, Idioma soninké, Język soninke, Língua soninquê, Maraka, Marka, Sarahole, Sarahuli, Sarakole, Sarakule, Sarawule, Serahuli, Silabe, Soninka lingvo, Soninkeg, Soninké, Toubakai, Wakore, Walpre, Сонинке, لغة سوننكية]
 population: 2189250
@@ -16,6 +15,17 @@ glottolog_family_id: mand1469
 glottolog_family_name: Mande
 glottolog_classification: "Mande > Western Mande > Northwestern Mande > Soninke-Bozo > Soninkean > Soninke"
 wikipedia_url: "https://en.wikipedia.org/wiki/Soninke_language"
+translations:
+  - translation_iso: ara
+    name: لغة سوننكية
+  - translation_iso: hin
+    name: सोनिन्के
+  - translation_iso: jpn
+    name: ソニンケ語
+  - translation_iso: kor
+    name: 소닌케어
+  - translation_iso: zho
+    name: 索宁克语
 rolv_dialects:
   - rolv_code: 2560
     language_tag: snk-x-HIS02560

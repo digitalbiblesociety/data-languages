@@ -1,8 +1,6 @@
 ---
 iso: mec
 name: Marra
-name_zh: 玛拉语
-name_zh_auto: true
 autonym: Marranbala
 alt_names: [Leelalwarra, Leelawarra, Maarra, Mala, Mara]
 population: 5
@@ -16,5 +14,13 @@ glottolog_family_id: mang1423
 glottolog_family_name: Mangarrayi-Maran
 glottolog_classification: "Mangarrayi-Maran > Maran > Marra"
 wikipedia_url: "https://en.wikipedia.org/wiki/Marra_language"
+translations:
+  - translation_iso: jpn
+    name: マッラ語
+  - translation_iso: kor
+    name: 마라어
+  - translation_iso: zho
+    name: 玛拉语
+    auto: true
 ---
 Marra, sometimes formerly spelt Mara, is an Australian Aboriginal language, traditionally spoken on an area of the Gulf of Carpentaria coast in the Northern Territory around the Roper, Towns and Limmen Bight Rivers. Marra is now an endangered language. The most recent survey was in 1991; at that time, there were only 15 speakers, all elderly. Most Marra people now speak Kriol as their main language. The remaining elderly Marra speakers live in the Aboriginal communities of Ngukurr, Numbulwar, Borroloola and Minyerri.

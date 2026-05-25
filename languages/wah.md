@@ -1,8 +1,6 @@
 ---
 iso: wah
 name: Watubela
-name_zh: 瓦图贝拉语
-name_zh_auto: true
 autonym: Esiriun
 alt_names: [Kasiui, Kasui, Kesui, Matabello, Snabi Watubela, Wesi]
 population: 4000
@@ -16,6 +14,10 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Greater Seram Laut > Banda-Geser > Seran Laut > Watubela"
 wikipedia_url: "https://en.wikipedia.org/wiki/Watubela_language"
+translations:
+  - translation_iso: zho
+    name: 瓦图贝拉语
+    auto: true
 rolv_dialects:
   - rolv_code: 18227
     language_tag: wah-x-HIS18227

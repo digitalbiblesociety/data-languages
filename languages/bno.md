@@ -1,8 +1,6 @@
 ---
 iso: bno
 name: Bantoanon
-name_zh: 班托亚农语
-name_zh_auto: true
 autonym: Asi
 alt_names: [Asiq, Asímál, Bisaya, ภาษาอาซี]
 population: 75000
@@ -16,6 +14,10 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Greater Central Philippine > Central Philippine > Bisayan > Bantoanon"
 wikipedia_url: "https://en.wikipedia.org/wiki/Bantoanon_language"
+translations:
+  - translation_iso: zho
+    name: 班托亚农语
+    auto: true
 rolv_dialects:
   - rolv_code: 1320
     language_tag: bno-x-HIS01320

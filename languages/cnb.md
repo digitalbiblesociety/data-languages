@@ -1,8 +1,6 @@
 ---
 iso: cnb
 name: Chinbon Chin
-name_zh: 钦邦钦语
-name_zh_auto: true
 autonym: Chindwin Chin
 alt_names: ["Chin, Chinbon", "Chin,Chinbon", Chinbon, Sho, Shö, Ütbü]
 population: 19600
@@ -15,6 +13,10 @@ glottocode: chin1478
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Kuki-Chin-Naga > Kuki-Chin > Peripheral Kuki-Chin > South Peripheral Kuki-Chin > Choic > Chinbon Chin"
+translations:
+  - translation_iso: zho
+    name: 钦邦钦语
+    auto: true
 rolv_dialects:
   - rolv_code: 8758
     language_tag: cnb-x-HIS08758

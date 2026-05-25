@@ -1,7 +1,6 @@
 ---
 iso: kbd
 name: Kabardian
-name_zh: 卡巴尔达语
 autonym: "Kabardino-CherkessEast Circassian"
 alt_names: [Beslenei, Circassian (East), East Circassian, Idioma cabardiano, Kabarde, Kabarde-tcherkesse, Kabardeyce, Kabardi-tšerkessi keel, Kabardin kieli, Kabardinische Sprache, Kabardino-Cherkes, Kabardinski jezik, Kabardinų kalba, Kabardisch, Kabardo-Cherkes, Kabardo-Cherkessian, Kabardái, Kabardí, Kabardčina, Lingua cabarda, Upper Circassian, Zimanên çerkezî, kabardien, Кæсгон-черкесаг æвзаг, Кабардино-черкесский язык, Кабардински јазик, Кабардинська мова, קברדינית, ภาษาคาบาร์เดีย, カバルド語, 卡巴尔达语, 카바르디어]
 population: 1890000
@@ -16,6 +15,17 @@ glottolog_family_id: abkh1242
 glottolog_family_name: Abkhaz-Adyge
 glottolog_classification: "Abkhaz-Adyge > Circassian > Kabardian"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kabardian_language"
+translations:
+  - translation_iso: ara
+    name: القبردينية
+  - translation_iso: hin
+    name: चरकसी भाषा
+  - translation_iso: jpn
+    name: カバルド語
+  - translation_iso: kor
+    name: 카바르디어
+  - translation_iso: zho
+    name: 卡巴尔达语
 rolv_dialects:
   - rolv_code: 11237
     language_tag: kbd-x-HIS11237

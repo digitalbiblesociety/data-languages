@@ -1,8 +1,6 @@
 ---
 iso: kyb
 name: Butbut Kalinga
-name_zh: 布特布特卡林加语
-name_zh_auto: true
 autonym: Butbut
 alt_names: ["Kalinga, Butbut"]
 population: 8000
@@ -16,5 +14,9 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Northern Luzon > Meso-Cordilleran > South-Central Cordilleran > Central Cordilleran > Kalinga-Itneg > Kalinga > Central and South Kalinga > South Kalinga > Butbut Kalinga"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kalinga_Butbut_language"
+translations:
+  - translation_iso: zho
+    name: 布特布特卡林加语
+    auto: true
 ---
 Butbut Kalinga is a language of the Kalinga dialect continuum. Ethnologue reports 15,000 speakers for the language and 1,000 monolinguists.

@@ -1,7 +1,6 @@
 ---
 iso: ewo
 name: Ewondo
-name_zh: 埃翁多語
 autonym: Kolo
 alt_names: [Ewundu, Jaunde, Język yaunde, Yaounde, Yaunde, éwondo]
 population: 578000
@@ -16,6 +15,17 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > Bantu A-B10-B20-B30 > Basaa-Yaunde (A40-70) > Yaunde-Fang (A.70) > Ewondo-Bebele > Ewondo"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ewondo_language"
+translations:
+  - translation_iso: ara
+    name: الإيوندو
+  - translation_iso: hin
+    name: इवोन्डो
+  - translation_iso: jpn
+    name: エウォンド語
+  - translation_iso: kor
+    name: 이원도어
+  - translation_iso: zho
+    name: 埃翁多語
 rolv_dialects:
   - rolv_code: 2888
     language_tag: ewo-x-HIS02888

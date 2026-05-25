@@ -1,8 +1,6 @@
 ---
 iso: rmk
 name: Romkun
-name_zh: 罗姆昆语
-name_zh_auto: true
 autonym: Kuanga
 alt_names: [Romkuin]
 population: 630
@@ -16,5 +14,9 @@ glottolog_family_id: ramu1234
 glottolog_family_name: Ramu
 glottolog_classification: "Ramu > Goam > Tamolan > Breri-Romkun > Romkun"
 wikipedia_url: "https://en.wikipedia.org/wiki/Romkun_language"
+translations:
+  - translation_iso: zho
+    name: 罗姆昆语
+    auto: true
 ---
 Iski is a Ramu language of Papua New Guinea. Dialects are Breri a.k.a. Kuanga and Romkun.

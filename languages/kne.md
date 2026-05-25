@@ -1,8 +1,6 @@
 ---
 iso: kne
 name: Kankanaey
-name_zh: 坎卡内语
-name_zh_auto: true
 autonym: "Kankana-ey"
 alt_names: [Central Kankanaey, Kankanai, Kankanay, Kankanay (Central)]
 population: 261000
@@ -16,6 +14,10 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Northern Luzon > Meso-Cordilleran > South-Central Cordilleran > Central Cordilleran > Nuclear Cordilleran > Bontok-Kankanay > Kankanay > Kankanaey"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kankanaey_language"
+translations:
+  - translation_iso: zho
+    name: 坎卡内语
+    auto: true
 rolv_dialects:
   - rolv_code: 219
     language_tag: kne-x-HIS00219

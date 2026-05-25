@@ -1,8 +1,6 @@
 ---
 iso: roe
 name: Ronji
-name_zh: 荣吉语
-name_zh_auto: true
 autonym: Gali
 alt_names: [Roinji]
 population: 450
@@ -16,5 +14,9 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > North New Guinea linkage > Ngero-Vitiaz linkage > Vitiaz linkage > Bel-Roinji-Nenaya > Ronji"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ronji_language"
+translations:
+  - translation_iso: zho
+    name: 荣吉语
+    auto: true
 ---
 Ronji is a minor Austronesian language of northern Papua New Guinea.

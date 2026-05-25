@@ -1,8 +1,6 @@
 ---
 iso: nsa
 name: Sangtam Naga
-name_zh: 桑格塔姆纳加语
-name_zh_auto: true
 autonym: Thukumi
 alt_names: [Isachanure, Lophomi, "Naga, Sangtam", "Naga,Sangtam", Sangtam, Tukumi]
 population: 76000
@@ -16,6 +14,14 @@ glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Kuki-Chin-Naga > Angami-Ao > Central Naga > Sangtam Naga"
 wikipedia_url: "https://en.wikipedia.org/wiki/Sangtam_language"
+translations:
+  - translation_iso: hin
+    name: संगतम भाषा
+  - translation_iso: jpn
+    name: サンタム・ナガ語
+  - translation_iso: zho
+    name: 桑格塔姆纳加语
+    auto: true
 rolv_dialects:
   - rolv_code: 14578
     language_tag: nsa-x-HIS14578

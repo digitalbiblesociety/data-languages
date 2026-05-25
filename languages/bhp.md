@@ -1,7 +1,6 @@
 ---
 iso: bhp
 name: Bima
-name_zh: 比馬語
 autonym: Nggahi Mbojo
 alt_names: [Bimanese, Komodo]
 population: 500000
@@ -15,6 +14,13 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Bima-Lembata > East Sumbawa > Bima"
 wikipedia_url: "https://en.wikipedia.org/wiki/Bima_language"
+translations:
+  - translation_iso: ara
+    name: لغة بيما
+  - translation_iso: jpn
+    name: ビマ語
+  - translation_iso: zho
+    name: 比馬語
 rolv_dialects:
   - rolv_code: 8146
     language_tag: bhp-x-HIS08146

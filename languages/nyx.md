@@ -1,8 +1,6 @@
 ---
 iso: nyx
 name: Nganyaywana
-name_zh: 恩甘雅武纳语
-name_zh_auto: true
 autonym: Anewan
 alt_names: [Amberu, Anaiwan, Anaywan, Aneewan, Aniwan, Dariwan, Ee na won, Ee-na-won, Eenewon, En nee win, En-nee-win, Eneewin, Enni won, Enni-won, Enniwon, Enuin, Inuwan, Inuwen, Inuwon, Narwo, Narwon, Nee inuwon, Nee-inuwon, Newana, Nganjaywana, Nowan, Southern Anaiwan, Yenniwon]
 population: null
@@ -16,5 +14,11 @@ glottolog_family_id: pama1250
 glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > Macleay-New England > Nganyaywana"
 wikipedia_url: "https://en.wikipedia.org/wiki/Anewan_language"
+translations:
+  - translation_iso: jpn
+    name: アネワン語
+  - translation_iso: zho
+    name: 恩甘雅武纳语
+    auto: true
 ---
 Anaiwan (Anēwan) is an Australian Aboriginal language of New South Wales. Since 2017, there has been a revival program underway to bring the language back.

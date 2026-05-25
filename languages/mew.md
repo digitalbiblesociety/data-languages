@@ -1,8 +1,6 @@
 ---
 iso: mew
 name: Maaka
-name_zh: 玛卡语
-name_zh_auto: true
 autonym: Maagha
 alt_names: [Maga, Magha, Maha, Maka]
 population: 10000
@@ -16,5 +14,9 @@ glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > West Chadic > West Chadic A > West Chadic A.2-3 > West Chadic A.2 > Boleic > Unclassified Boleic > Maaka"
 wikipedia_url: "https://en.wikipedia.org/wiki/Maaka_language"
+translations:
+  - translation_iso: zho
+    name: 玛卡语
+    auto: true
 ---
 Maaka is an Afro-Asiatic language spoken in the Yobe State in North-Eastern Nigeria. As of 1993, it was spoken by approximately 10,000 people.

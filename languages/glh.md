@@ -1,7 +1,6 @@
 ---
 iso: glh
 name: Northwest Pashai
-name_zh: 西北帕沙伊语
 autonym: Pashai
 alt_names: [Dardu, Northwest Pashayi, Northwestern Pašaī, "Pashai, Northwest", "Pashayi, Northwest"]
 population: null
@@ -14,6 +13,9 @@ glottocode: nort2665
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Indo-Aryan > Pashayi > Western Pashayi > Northwest Pashayi"
+translations:
+  - translation_iso: zho
+    name: 西北帕沙伊语
 rolv_dialects:
   - rolv_code: 3338
     language_tag: glh-x-HIS03338

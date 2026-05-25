@@ -1,7 +1,6 @@
 ---
 iso: fia
 name: Nobiin
-name_zh: 诺宾语
 autonym: Mahas
 alt_names: [Fadicca, Fadicha, Fadija, Fedicca, Fedija, Fiadidja, Fiadidja-Mahas, Fiyadikkya, Mahas dialect, Mahas-Fadidja, Mahas-Fiadidja, Mahas-Fiyadikkya, Nile Nubian, Nobineg, Nubi, Nubian, Nubian (Mahas), Sukot]
 population: 546000
@@ -16,6 +15,15 @@ glottolog_family_id: nubi1251
 glottolog_family_name: Nubian
 glottolog_classification: "Nubian > Nile Nubian > Nobiin Nubian > Nobiin"
 wikipedia_url: "https://en.wikipedia.org/wiki/Nobiin"
+translations:
+  - translation_iso: ara
+    name: النوبية
+  - translation_iso: jpn
+    name: ノビイン語
+  - translation_iso: kor
+    name: 노빈어
+  - translation_iso: zho
+    name: 诺宾语
 rolv_dialects:
   - rolv_code: 15030
     language_tag: fia-x-HIS15030

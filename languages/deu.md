@@ -1,7 +1,6 @@
 ---
 iso: deu
 name: German
-name_zh: 德语
 autonym: Deutsch
 alt_names: [German (Berlin), German (Hannover), German (Mansfeldisch), German (Standard), German (Thuringian), German (Timisoara), "German, Standard", Haut-allemand moderne, Neuhochdeutsch, New High German, Nyhøytysk, Tedesco, allemand]
 population: 76100000
@@ -16,6 +15,17 @@ glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Germanic > Northwest Germanic > West Germanic > High German > Upper German > Middle-Modern High German > Modern High German > Upper Franconian > Global German > German"
 wikipedia_url: "https://en.wikipedia.org/wiki/German_language"
+translations:
+  - translation_iso: ara
+    name: الألمانية
+  - translation_iso: hin
+    name: जर्मन
+  - translation_iso: jpn
+    name: ドイツ語
+  - translation_iso: kor
+    name: 독일어
+  - translation_iso: zho
+    name: 德语
 rolv_dialects:
   - rolv_code: 3035
     language_tag: de-AT

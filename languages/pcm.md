@@ -1,7 +1,6 @@
 ---
 iso: pcm
 name: Nigerian Pidgin
-name_zh: 尼日利亚皮钦语
 autonym: pidgin
 alt_names: ["Pidgin, Nigerian"]
 population: 47500000
@@ -16,6 +15,17 @@ glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Germanic > Northwest Germanic > West Germanic > North Sea Germanic > Anglo-Frisian > Anglic > Later Anglic > Middle-Modern English > Macro-English > Guinea Coast Creole English > West African Creole English > Coastal Nigerian Krio > Nigerian-Ghanaian Krio > Nigerian Pidgin"
 wikipedia_url: "https://en.wikipedia.org/wiki/Nigerian_Pidgin"
+translations:
+  - translation_iso: ara
+    name: البيدغينية النيجيرية
+  - translation_iso: hin
+    name: नाइजीरियाई पिडगिन
+  - translation_iso: jpn
+    name: ナイジェリア・ピジン
+  - translation_iso: kor
+    name: 나이지리아 피진
+  - translation_iso: zho
+    name: 尼日利亚皮钦语
 rolv_dialects:
   - rolv_code: 15653
     language_tag: pcm-x-HIS15653

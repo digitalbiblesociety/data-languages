@@ -1,8 +1,6 @@
 ---
 iso: ver
 name: Mom Jango
-name_zh: 妈妈姜戈语
-name_zh_auto: true
 autonym: Mom Jango
 alt_names: [Kobo, Vere, Verre, Were]
 population: 110520
@@ -16,6 +14,10 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Cameroun-Ubangian > Central Adamawa > Samba-Duru > Northern Samba-Duru > Vere-Gimme > Vere > Mom Jango"
 wikipedia_url: "https://en.wikipedia.org/wiki/Vere_language"
+translations:
+  - translation_iso: zho
+    name: 妈妈姜戈语
+    auto: true
 rolv_dialects:
   - rolv_code: 4988
     language_tag: ver-x-HIS04988

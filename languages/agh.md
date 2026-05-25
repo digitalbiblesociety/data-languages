@@ -1,8 +1,6 @@
 ---
 iso: agh
 name: Ngelima
-name_zh: 恩格利玛语
-name_zh_auto: true
 autonym: Angba
 alt_names: [Bangalema, Bangelima, Beo, Leangba, Lebeo]
 population: 13600
@@ -16,6 +14,10 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > Central-Western Bantu > North Zaire River > Rivers Bantu > Ngiri > Ngiri Terrien > Ngombe-Ababuan > Ababuan > Old Bomokandian > Middle Bomokandian > Late Bomokandian > Ngelima"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ngelima_language"
+translations:
+  - translation_iso: zho
+    name: 恩格利玛语
+    auto: true
 rolv_dialects:
   - rolv_code: 1423
     language_tag: agh-x-HIS01423

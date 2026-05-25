@@ -1,8 +1,6 @@
 ---
 iso: rjg
 name: Rajong
-name_zh: 拉琼语
-name_zh_auto: true
 autonym: Razong
 alt_names: [Pai]
 population: 4240
@@ -16,5 +14,9 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Bima-Lembata > Flores > West-Central Flores > Manggaraiic > Waerana-Razong > Rajong"
 wikipedia_url: "https://en.wikipedia.org/wiki/Rajong_language"
+translations:
+  - translation_iso: zho
+    name: 拉琼语
+    auto: true
 ---
 Rajong (Razong) is a language of central Flores, in East Nusa Tenggara Province, Indonesia.

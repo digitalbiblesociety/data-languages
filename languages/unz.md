@@ -1,8 +1,6 @@
 ---
 iso: unz
 name: Unde Kaili
-name_zh: 翁德-开伊利语
-name_zh_auto: true
 autonym: Banava
 alt_names: [Banawa, "Kaili, Unde"]
 population: 20000
@@ -15,6 +13,10 @@ glottocode: unde1235
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Celebic > Kaili-Wolio > Northern Kaili-Wolio > Greater Kaili > Common Kaili > Unde Kaili"
+translations:
+  - translation_iso: zho
+    name: 翁德-开伊利语
+    auto: true
 rolv_dialects:
   - rolv_code: 25967
     language_tag: unz-x-HIS25967

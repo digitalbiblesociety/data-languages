@@ -1,8 +1,6 @@
 ---
 iso: kkl
 name: Kosarek Yale
-name_zh: 科萨雷克·耶鲁语
-name_zh_auto: true
 autonym: Kosarek Yale
 alt_names: [In-lom, Kosarek, Wanam, Yale (Kosarek), "Yale, Kosarek", Yale-Kosarek]
 population: 2300
@@ -16,6 +14,10 @@ glottolog_family_id: nucl1709
 glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Mek > Western Mek > Northwestern Mek > Kosarek Yale"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kosarek_language"
+translations:
+  - translation_iso: zho
+    name: 科萨雷克·耶鲁语
+    auto: true
 rolv_dialects:
   - rolv_code: 18423
     language_tag: kkl-x-HIS18423

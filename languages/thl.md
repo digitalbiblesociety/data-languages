@@ -1,8 +1,6 @@
 ---
 iso: thl
 name: Dangaura Tharu
-name_zh: 当加乌拉塔鲁语
-name_zh_auto: true
 autonym: (polyphyletic)
 alt_names: [Chaudary, Chaudary Tharu, Chaudhari, Chaudhari Tharu, Chaudhuri, Dang, Dangali, Dangauli, Dangha, Dangora, Dangura, "Tharu, Dangaura"]
 population: 674000
@@ -17,6 +15,10 @@ glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Indo-Aryan > Middle-Modern Indo-Aryan > Continental Indo-Aryan > Midlands Indo-Aryan > Shaurasenic > Bihari > Tharuic > Eastern Tharu > Dangaura-Khuna-Sonaha > Dangaura Tharu"
 wikipedia_url: "https://en.wikipedia.org/wiki/Dangaura_Tharu"
+translations:
+  - translation_iso: zho
+    name: 当加乌拉塔鲁语
+    auto: true
 rolv_dialects:
   - rolv_code: 4162
     language_tag: thl-x-HIS04162

@@ -1,8 +1,6 @@
 ---
 iso: gib
 name: Gibanawa
-name_zh: 吉巴纳瓦语
-name_zh_auto: true
 autonym: " هَرْشَن هَوْسَ"
 alt_names: [Gembanawa, Gimbanawa, Jega]
 population: null
@@ -15,4 +13,8 @@ glottocode: giba1240
 glottolog_family_id: pidg1258
 glottolog_family_name: Pidgin
 glottolog_classification: "Pidgin > Hausa-based pidgin > Gibanawa"
+translations:
+  - translation_iso: zho
+    name: 吉巴纳瓦语
+    auto: true
 ---

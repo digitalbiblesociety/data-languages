@@ -1,7 +1,6 @@
 ---
 iso: xal
 name: Kalmyk
-name_zh: 卡尔梅克卫拉特语
 autonym: Хальмг келн
 alt_names: [Calmuc, Calmucki, European Oirat, Idioma calmuco, Issyk-Kul Kalmyk, Język kałmucki, Kalmack, Kalmouk, Kalmoukeg-oirateg, Kalmuck, Kalmuckiska, Kalmuk, Kalmukin kieli, Kalmuks, Kalmukų kalba, Kalmyk (Issyk-Kul), "Kalmyk, Oirat", Kalmyk-Oirat, Kalmykisk, Kalmückisch, Kalmückische Sprache, Kalmıkça, "Khal:mag", Limba kalmîcă, Lingua calmucca, Língua calmuca, Oirad-Kalmyk, Oirat, Oiratisch, Oirato, Qalmaq, Volga Oirat, Weilate, West Mongolian, Western Mongol, Western Mongolian, Western Mongul, "Xal'maq", Xal‘mg keln, Xinjiang Mongolian, kalmytskii jazyk, oïrat, Калмăк чĕлхи, Калмицька мова, Калмички јазик, Хальмаг хэлэн, калмыцкий язык, Өөрдн келн, قالماق تىلى, ภาษาคัลมึค, 칼미크어]
 population: 431800
@@ -16,6 +15,17 @@ glottolog_family_id: mong1349
 glottolog_family_name: Mongolic-Khitan
 glottolog_classification: "Mongolic-Khitan > Mongolic > Eastern Mongolic > Khalkha-Buriat > Mongolian > Oirad-Kalmyk-Darkhat"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kalmyk_Oirat"
+translations:
+  - translation_iso: ara
+    name: اللغة القلميقية
+  - translation_iso: hin
+    name: ओइरत भाषा
+  - translation_iso: jpn
+    name: カルムイク語
+  - translation_iso: kor
+    name: 칼미크어
+  - translation_iso: zho
+    name: 卡尔梅克卫拉特语
 rolv_dialects:
   - rolv_code: 6040
     language_tag: xal-x-HIS06040

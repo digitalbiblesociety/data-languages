@@ -1,8 +1,6 @@
 ---
 iso: loc
 name: Inonhan
-name_zh: 伊农汉语
-name_zh_auto: true
 autonym: Loocnon
 alt_names: ["\"Unhan\"", Bisaya, Looknon, Onhan language, ภาษาออนฮัน]
 population: 85800
@@ -16,6 +14,10 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Greater Central Philippine > Central Philippine > Bisayan > West Bisayan > Inonhan"
 wikipedia_url: "https://en.wikipedia.org/wiki/Onhan_language"
+translations:
+  - translation_iso: zho
+    name: 伊农汉语
+    auto: true
 rolv_dialects:
   - rolv_code: 10902
     language_tag: loc-x-HIS10902

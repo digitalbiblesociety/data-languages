@@ -1,7 +1,6 @@
 ---
 iso: dij
 name: Dai
-name_zh: 戴语
 autonym: null
 population: 820
 country_id: ID
@@ -14,6 +13,9 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Timor-Babar > Southwest Maluku > Babar > North Babaric > Dai"
 wikipedia_url: "https://en.wikipedia.org/wiki/Dai_language_(Austronesian)"
+translations:
+  - translation_iso: zho
+    name: 戴语
 rolv_dialects:
   - rolv_code: 494
     language_tag: dij-x-HIS00494

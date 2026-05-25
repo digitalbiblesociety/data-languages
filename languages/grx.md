@@ -1,8 +1,6 @@
 ---
 iso: grx
 name: Guriaso
-name_zh: 古里亚索语
-name_zh_auto: true
 autonym: null
 alt_names: [Menóu]
 population: 160
@@ -13,5 +11,9 @@ latitude: -3.5718
 longitude: 141.59654
 glottocode: guri1248
 wikipedia_url: "https://en.wikipedia.org/wiki/Guriaso_language"
+translations:
+  - translation_iso: zho
+    name: 古里亚索语
+    auto: true
 ---
 Guriaso or Muno is a language of Papua New Guinea. Only described in 1983, it appears to be distantly related to the Kwomtari and Nai languages. It is spoken in Guriaso ward, Amanab Rural LLG, Sandaun Province.

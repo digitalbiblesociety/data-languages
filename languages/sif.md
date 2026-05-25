@@ -1,8 +1,6 @@
 ---
 iso: sif
 name: Siamou
-name_zh: 西亚莫乌语
-name_zh_auto: true
 autonym: Sɛmɛ
 alt_names: [Idioma siamou, Seme, Siemu, Siémou, Syémou, Sému]
 population: 20000
@@ -13,6 +11,12 @@ latitude: 10.99802
 longitude: -4.92143
 glottocode: siam1242
 wikipedia_url: "https://en.wikipedia.org/wiki/Siamou_language"
+translations:
+  - translation_iso: jpn
+    name: シアモウ語
+  - translation_iso: zho
+    name: 西亚莫乌语
+    auto: true
 rolv_dialects:
   - rolv_code: 6317
     language_tag: sif-x-HIS06317

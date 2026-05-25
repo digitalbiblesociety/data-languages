@@ -1,7 +1,6 @@
 ---
 iso: aat
 name: Arvanitika Albanian
-name_zh: 阿尔瓦尼蒂卡语
 autonym: arbërishtαρbε̰ρίσ̈τ
 alt_names: [Albanesisch, Albanian, "Albanian, Arvanitika", Arber, Arberichte, Arbresh, Arnaut, Arvaniteg, Arvanitic, Arvanitico, Arvanitika, Arvanitiska, Arvanitski jezik, Arvaníska, Língua arvanitica, Shqipēri, Shquipni, Škip, Αρβανίτικη γλώσσα]
 population: 150000
@@ -15,6 +14,11 @@ glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Albanian > Albanian-Tosk > Southern Tosk > Arvanitika Albanian"
 wikipedia_url: "https://en.wikipedia.org/wiki/Arvanitika"
+translations:
+  - translation_iso: jpn
+    name: アルヴァニティカ方言
+  - translation_iso: zho
+    name: 阿尔瓦尼蒂卡语
 rolv_dialects:
   - rolv_code: 6865
     language_tag: aat-x-HIS06865

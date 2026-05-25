@@ -1,8 +1,6 @@
 ---
 iso: bcq
 name: Bench
-name_zh: 本奇语
-name_zh_auto: true
 autonym: Bencnon
 alt_names: ["Benc'", Bencho, Bensho, Dizu, Ghimarra, Gimarra, Gimira, Kaba, She]
 population: 348000
@@ -16,6 +14,12 @@ glottolog_family_id: gong1255
 glottolog_family_name: Ta-Ne-Omotic
 glottolog_classification: "Ta-Ne-Omotic > Bench"
 wikipedia_url: "https://en.wikipedia.org/wiki/Bench_language"
+translations:
+  - translation_iso: jpn
+    name: ベンチ語
+  - translation_iso: zho
+    name: 本奇语
+    auto: true
 rolv_dialects:
   - rolv_code: 3093
     language_tag: bcq-x-HIS03093

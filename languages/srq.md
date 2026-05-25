@@ -1,8 +1,6 @@
 ---
 iso: srq
 name: Sirionó
-name_zh: 西里奥诺语
-name_zh_auto: true
 autonym: Mbia chẽẽ
 alt_names: [Chori, Mbia, Mbia Chee, Mbya, Siriono]
 population: 190
@@ -16,5 +14,11 @@ glottolog_family_id: tupi1275
 glottolog_family_name: Tupian
 glottolog_classification: "Tupian > Eastern Tupian > Maweti-Guarani > Aweti-Guarani > Tupi-Guarani > Southern Tupi-Guarani > Tupi-Guarani Subgroup II > Warazu-Sirionoid > Sirionoid > Sirionó"
 wikipedia_url: "https://en.wikipedia.org/wiki/Sirion%C3%B3_language"
+translations:
+  - translation_iso: jpn
+    name: シリオノ語
+  - translation_iso: zho
+    name: 西里奥诺语
+    auto: true
 ---
 Sirionó is a Tupian language spoken by about 400 Sirionó people and 120 Yuqui in eastern Bolivia in the village of Ibiato (Eviato) and along the Río Blanco in farms and ranches.

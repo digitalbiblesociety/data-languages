@@ -1,8 +1,6 @@
 ---
 iso: xkn
 name: Kayan River Kayan
-name_zh: 卡扬河卡扬语
-name_zh_auto: true
 autonym: Kajan
 alt_names: [Kajang, Kayan River Kajan, "Kayan, Kayan River"]
 population: 2000
@@ -15,6 +13,10 @@ glottocode: kaya1325
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > North Borneo Malayo-Polynesian > Kayan-Murik-Modang > Kayan-Murik > Kayanic > Kayan River Kayan"
+translations:
+  - translation_iso: zho
+    name: 卡扬河卡扬语
+    auto: true
 rolv_dialects:
   - rolv_code: 826
     language_tag: xkn-x-HIS00826

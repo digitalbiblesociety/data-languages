@@ -1,8 +1,6 @@
 ---
 iso: pbl
 name: Mak (Nigeria)
-name_zh: 马克语
-name_zh_auto: true
 autonym: LeeMak
 alt_names: [Lemak, Mak, Panya, Panyam, Zo]
 population: 5690
@@ -16,6 +14,10 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Cameroun-Ubangian > Bikwin-Jen > Northern Bikwin-Jen > Mak-Tal > Mak (Nigeria)"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mak_language_(Adamawa)"
+translations:
+  - translation_iso: zho
+    name: 马克语
+    auto: true
 rolv_dialects:
   - rolv_code: 6329
     language_tag: pbl-x-HIS06329

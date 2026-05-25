@@ -1,8 +1,6 @@
 ---
 iso: cpu
 name: Pichis Ashéninka
-name_zh: 皮奇斯阿什尼卡语
-name_zh_auto: true
 autonym: Campa
 alt_names: ["\"Pichis Campa\"", Ashaninca (Brésil), Ashaninka (Pérou), Asháninca, Ashéninga, "Ashéninka, Pichis", Atiri, Cogapacorí, "Lenga ashéninka, pichis", Nanti, Pichis, Pichis Asheninka, Pichis Ashéninca]
 population: 10700
@@ -16,6 +14,10 @@ glottolog_family_id: araw1281
 glottolog_family_name: Arawakan
 glottolog_classification: "Arawakan > Southern Maipuran > Kampa-Amuesha > Pre-Andine Maipuran > Asha-Ashe-Kak-Matsi-Nan > Asha-Ashe-Kak > Ashe-Asha > Ashe-Asha Norte > Pichis Ashéninka"
 wikipedia_url: "https://en.wikipedia.org/wiki/Pichis_Ash%C3%A9ninka"
+translations:
+  - translation_iso: zho
+    name: 皮奇斯阿什尼卡语
+    auto: true
 rolv_dialects:
   - rolv_code: 24689
     language_tag: cpu-x-HIS24689

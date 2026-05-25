@@ -1,8 +1,6 @@
 ---
 iso: env
 name: Enwan (Edu State)
-name_zh: 恩万语（埃多州）
-name_zh_auto: true
 autonym: null
 alt_names: [Enwan, Enwan (Edo State), Nigeria]
 population: 14000
@@ -16,5 +14,9 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Akpes-Edoid > Edoid > Northwestern Edoid > Igwic > Ikpeshic > Enwan (Edo State)"
 wikipedia_url: "https://en.wikipedia.org/wiki/Enwan_language"
+translations:
+  - translation_iso: zho
+    name: 恩万语（埃多州）
+    auto: true
 ---
 Enwan is an Edoid language of Edo State, Nigeria.

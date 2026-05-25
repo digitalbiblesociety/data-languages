@@ -1,8 +1,6 @@
 ---
 iso: due
 name: Umiray Dumaget Agta
-name_zh: 乌米雷杜玛格特阿格塔语
-name_zh_auto: true
 autonym: Umiray Agta
 alt_names: ["Agta, Umiray Dumaget", Umirey Dumagat]
 population: 3000
@@ -16,6 +14,10 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Greater Central Philippine > Umiray Dumaget Agta"
 wikipedia_url: "https://en.wikipedia.org/wiki/Umiray_Dumaget_language"
+translations:
+  - translation_iso: zho
+    name: 乌米雷杜玛格特阿格塔语
+    auto: true
 rolv_dialects:
   - rolv_code: 6756
     language_tag: due-x-HIS06756

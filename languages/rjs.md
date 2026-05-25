@@ -1,7 +1,6 @@
 ---
 iso: rjs
 name: Rajbanshi
-name_zh: 拉杰班希语
 autonym: Gangai
 alt_names: [Koch, Koche, Rajbangsi, Rajbansi]
 population: 147000
@@ -16,6 +15,11 @@ glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Indo-Aryan > Middle-Modern Indo-Aryan > Continental Indo-Aryan > Indo-Aryan Eastern zone > Oriya-Gauda-Kamrupa > Gauda-Kamrupa > Kamrupa > Kamta > Western Kamta > Rajbanshi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Rajbanshi_language_(Nepal)"
+translations:
+  - translation_iso: jpn
+    name: ラージバンシ語
+  - translation_iso: zho
+    name: 拉杰班希语
 rolv_dialects:
   - rolv_code: 21056
     language_tag: rjs-x-HIS21056

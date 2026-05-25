@@ -1,8 +1,6 @@
 ---
 iso: svs
 name: Savosavo
-name_zh: 萨沃萨沃语
-name_zh_auto: true
 autonym: Savo
 alt_names: [Savo Island, Savsavo]
 population: 2420
@@ -13,5 +11,13 @@ latitude: -9.12853
 longitude: 159.81438
 glottocode: savo1255
 wikipedia_url: "https://en.wikipedia.org/wiki/Savosavo_language"
+translations:
+  - translation_iso: jpn
+    name: サヴォサヴォ語
+  - translation_iso: kor
+    name: 사보사보어
+  - translation_iso: zho
+    name: 萨沃萨沃语
+    auto: true
 ---
 Savosavo is an endangered language spoken on Savo, a small volcanic island north of Guadalcanal in the Solomon Islands. Savosavo is one of the Central Solomon languages, which are Papuan languages, unlike most of the languages in the vicinity, which are members of the Oceanic branch of the Austronesian language family. There are close to 3,000 speakers of Savosavo, and it is the easternmost Papuan language in the Pacific. The closest Papuan language to Savosavo is the Central Solomon Lavukaleve, spoken in the Russell Islands to the west. Other neighbor languages are Bughotu, Ghari, and Lengo, Bughotu is to the north, while Ghari and Lengo are to the south, and are spoken on Guadalcanal.

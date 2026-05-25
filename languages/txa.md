@@ -1,8 +1,6 @@
 ---
 iso: txa
 name: Tombonuo
-name_zh: 通博努奥语
-name_zh_auto: true
 autonym: Lobu
 alt_names: [Paitan, Sungai, Sungei, Tambanua, Tambanuo, Tambanuva, Tambanwas, Tambenua, Tambunwas, Tembenua, Tombonuva, Tombonuwo, Tumbunwha, Tunbumohas]
 population: 10000
@@ -16,6 +14,10 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > North Borneo Malayo-Polynesian > Sabahan > Southwest Sabahan > Greater Dusunic > Paitanic > Tombonuo"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tombonuwo_language"
+translations:
+  - translation_iso: zho
+    name: 通博努奥语
+    auto: true
 rolv_dialects:
   - rolv_code: 17566
     language_tag: txa-x-HIS17566

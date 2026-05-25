@@ -1,13 +1,19 @@
 ---
 iso: xpy
 name: Puyo
-name_zh: 扶余语
 autonym: Puyŏ
 population: null
 country_id: KR
 country_name: South Korea
 status_id: null
 wikipedia_url: "https://en.wikipedia.org/wiki/Buyeo_language"
+translations:
+  - translation_iso: jpn
+    name: 夫余語
+  - translation_iso: kor
+    name: 부여어
+  - translation_iso: zho
+    name: 扶余语
 ---
 Very little is known of the language of the Buyeo kingdom.
 Chapter 30 "Description of the Eastern Barbarians" in the Records of the Three Kingdoms records a survey carried out by the Chinese state of Wei after their defeat of Goguryeo in 244.

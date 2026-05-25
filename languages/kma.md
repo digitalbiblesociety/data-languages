@@ -1,8 +1,6 @@
 ---
 iso: kma
 name: Konni
-name_zh: 康尼语
-name_zh_auto: true
 autonym: Koma
 alt_names: [Komung, Koni]
 population: 3800
@@ -16,5 +14,9 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Gur > Central Gur > Northern Central Gur > Bwamu-Oti-Volta > Oti-Volta > Buli-Koma > Konni"
 wikipedia_url: "https://en.wikipedia.org/wiki/Konni_language"
+translations:
+  - translation_iso: zho
+    name: 康尼语
+    auto: true
 ---
 The Koma language, Konni, is a Gur language of Ghana. Yikpabongo is the main village of the Konni people. Another village is Nangurima.

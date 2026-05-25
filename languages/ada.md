@@ -1,7 +1,6 @@
 ---
 iso: ada
 name: Adangme
-name_zh: 丹美語
 autonym: Dangbe
 alt_names: [Adangmeg, Dangme, Lenga Adangbe]
 population: 1020000
@@ -16,6 +15,17 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Kwa Volta-Congo > Ga-Dangme > Adangme"
 wikipedia_url: "https://en.wikipedia.org/wiki/Dangme_language"
+translations:
+  - translation_iso: ara
+    name: الأدانجمية
+  - translation_iso: hin
+    name: अदान्गमे
+  - translation_iso: jpn
+    name: アダングメ語
+  - translation_iso: kor
+    name: 당메어
+  - translation_iso: zho
+    name: 丹美語
 rolv_dialects:
   - rolv_code: 2253
     language_tag: ada-x-HIS02253

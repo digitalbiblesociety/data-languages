@@ -1,8 +1,6 @@
 ---
 iso: kfg
 name: Kudiya
-name_zh: 库迪亚语
-name_zh_auto: true
 autonym: Male Kudiya
 alt_names: [Kurku]
 population: 2800
@@ -16,5 +14,9 @@ glottolog_family_id: drav1251
 glottolog_family_name: Dravidian
 glottolog_classification: "Dravidian > South Dravidian > South Dravidian I > South-Western Dravidian > Tuluic > Kudiya"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kudiya_language"
+translations:
+  - translation_iso: zho
+    name: 库迪亚语
+    auto: true
 ---
 Kudiya is a minor Dravidian language spoken by a scheduled tribe mostly in Dakshina Kannada, Udupi, Kodagu districts of Karnataka and Kasaragod, Kannur districts of Kerala in India.

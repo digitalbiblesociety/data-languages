@@ -1,7 +1,6 @@
 ---
 iso: mnp
 name: Min Bei Chinese
-name_zh: 闽北语
 autonym: Min Bei
 alt_names: ["Chinese, Min Bei", Northwestern Min Bei]
 population: 11000000
@@ -15,6 +14,13 @@ glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Sinitic > Min > Inland Min > Min Beic > Min Bei Chinese"
 wikipedia_url: "https://en.wikipedia.org/wiki/Northern_Min"
+translations:
+  - translation_iso: jpn
+    name: 閩北語
+  - translation_iso: kor
+    name: 민북어
+  - translation_iso: zho
+    name: 闽北语
 rolv_dialects:
   - rolv_code: 507
     language_tag: mnp-x-HIS00507

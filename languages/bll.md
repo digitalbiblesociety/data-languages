@@ -1,8 +1,6 @@
 ---
 iso: bll
 name: Biloxi
-name_zh: 比洛克西语
-name_zh_auto: true
 autonym: Tanêksąyaa ade
 alt_names: [Biloxi language]
 population: null
@@ -16,5 +14,9 @@ glottolog_family_id: siou1252
 glottolog_family_name: Siouan
 glottolog_classification: "Siouan > Ohio Valley Siouan > Southeastern Siouan > Biloxi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Biloxi_language"
+translations:
+  - translation_iso: zho
+    name: 比洛克西语
+    auto: true
 ---
 Biloxi is an extinct Siouan language formerly spoken by the Native American Biloxi tribe in present-day Mississippi, Louisiana, and southeastern Texas.

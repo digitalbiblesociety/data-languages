@@ -1,8 +1,6 @@
 ---
 iso: tdq
 name: Tita
-name_zh: 蒂塔语
-name_zh_auto: true
 autonym: Hoai Petel
 population: 3420
 country_id: NG
@@ -15,5 +13,9 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Unclassified Benue-Congo > Tita"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tita_language"
+translations:
+  - translation_iso: zho
+    name: 蒂塔语
+    auto: true
 ---
 Tita or "Hoai Petel" is an unclassified Benue–Congo language of Nigeria., it is mainly spoken in the states of Taraba and Plateau.

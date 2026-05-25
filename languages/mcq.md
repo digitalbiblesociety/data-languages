@@ -1,8 +1,6 @@
 ---
 iso: mcq
 name: Ese
-name_zh: 埃塞语
-name_zh_auto: true
 autonym: Managalasi
 alt_names: ["\"Managalasi\"", "\"Managulasi\""]
 population: 10000
@@ -16,6 +14,10 @@ glottolog_family_id: koia1260
 glottolog_family_name: Koiarian
 glottolog_classification: "Koiarian > Baraic > Ese"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ese_language"
+translations:
+  - translation_iso: zho
+    name: 埃塞语
+    auto: true
 rolv_dialects:
   - rolv_code: 2706
     language_tag: mcq-x-HIS02706

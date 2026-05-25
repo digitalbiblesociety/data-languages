@@ -1,8 +1,6 @@
 ---
 iso: kcd
 name: Ngkâlmpw Kanum
-name_zh: 恩格卡尔姆普卡努姆语
-name_zh_auto: true
 autonym: Ngkontar
 alt_names: [Enkelembu, Kanum, Kanum (Ngkâlmpw), "Kanum, Ngkâlmpw", Kenume, Knwne, Ngkalmpw Kanum, Ngkâlmpw]
 population: 150
@@ -15,4 +13,8 @@ glottocode: ngka1235
 glottolog_family_id: more1255
 glottolog_family_name: Yam
 glottolog_classification: "Yam > Kanum > Ngkrn-Ngkantr > Ngkantr > Ngkontar Ngkolmpu"
+translations:
+  - translation_iso: zho
+    name: 恩格卡尔姆普卡努姆语
+    auto: true
 ---

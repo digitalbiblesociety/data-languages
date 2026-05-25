@@ -1,8 +1,6 @@
 ---
 iso: gry
 name: Barclayville Grebo
-name_zh: 巴克莱维尔格雷博语
-name_zh_auto: true
 autonym: Kréébo
 alt_names: [Grebo, "Grebo, Barclayville", Wedebo Grebo]
 population: 23700
@@ -15,6 +13,10 @@ glottocode: barc1235
 glottolog_family_id: krua1234
 glottolog_family_name: Kru
 glottolog_classification: "Kru > Greater Western Kru > Western Kru > Grebo-Aizi > Grebo > Liberian Grebo > North-Central Liberian Grebo > Barclayville-Gboloo-Central Liberian Grebo > Barclayville Grebo"
+translations:
+  - translation_iso: zho
+    name: 巴克莱维尔格雷博语
+    auto: true
 rolv_dialects:
   - rolv_code: 1608
     language_tag: gry-x-HIS01608

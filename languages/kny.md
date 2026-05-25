@@ -1,8 +1,6 @@
 ---
 iso: kny
 name: Kanyok
-name_zh: 坎约克语
-name_zh_auto: true
 autonym: Kanioka
 alt_names: [Kanyoka]
 population: 200000
@@ -16,5 +14,9 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > Central-Western Bantu > Luban > Luba-Kaonde > Lubaic > Kanyok"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kanyok_language"
+translations:
+  - translation_iso: zho
+    name: 坎约克语
+    auto: true
 ---
 Kanyok (Kanioka) is a Bantu language of the Democratic Republic of the Congo.

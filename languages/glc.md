@@ -1,8 +1,6 @@
 ---
 iso: glc
 name: Bon Gula
-name_zh: 邦古拉语
-name_zh_auto: true
 autonym: Bon
 alt_names: [Bon Goula, Bun, Gula Guera, Poun, Taataal, Êeni]
 population: 1200
@@ -16,5 +14,9 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Bua-Kim-Day > Adamawa Bua > Inland Bua > Goulaic > Bon Gula"
 wikipedia_url: "https://en.wikipedia.org/wiki/Bon_Gula_language"
+translations:
+  - translation_iso: zho
+    name: 邦古拉语
+    auto: true
 ---
 Bon Gula, or Bon, is an Adamawa language of Chad.

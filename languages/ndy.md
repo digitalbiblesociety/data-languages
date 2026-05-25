@@ -1,8 +1,6 @@
 ---
 iso: ndy
 name: Lutos
-name_zh: 卢托斯语
-name_zh_auto: true
 autonym: Ruto
 population: 18980
 country_id: CF
@@ -15,6 +13,12 @@ glottolog_family_id: cent2225
 glottolog_family_name: Central Sudanic
 glottolog_classification: "Central Sudanic > Sara-Bongo-Bagirmi > SBB Occidental > Nuclear SBB Occidental > Nduga-Luto > Lutos"
 wikipedia_url: "https://en.wikipedia.org/wiki/Lutos_language"
+translations:
+  - translation_iso: ara
+    name: ليتوس
+  - translation_iso: zho
+    name: 卢托斯语
+    auto: true
 rolv_dialects:
   - rolv_code: 4924
     language_tag: ndy-x-HIS04924

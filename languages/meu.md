@@ -1,7 +1,6 @@
 ---
 iso: meu
 name: Motu
-name_zh: 莫图语
 autonym: " True Motu"
 alt_names: [Idioma motu, Mona, Motun kieli, Motų kalba, Pure Motu, Моту]
 population: 39000
@@ -15,6 +14,13 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > Papuan Tip linkage > Peripheral Papuan Tip linkage > Central Papuan Oceanic > West Central Papuan linkage > Motu"
 wikipedia_url: "https://en.wikipedia.org/wiki/Motu_language"
+translations:
+  - translation_iso: jpn
+    name: モトゥ語
+  - translation_iso: kor
+    name: 모투어
+  - translation_iso: zho
+    name: 莫图语
 rolv_dialects:
   - rolv_code: 14317
     language_tag: meu-x-HIS14317

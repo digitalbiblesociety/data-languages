@@ -1,8 +1,6 @@
 ---
 iso: sti
 name: Bulo Stieng
-name_zh: 布洛斯蒂恩格语
-name_zh_auto: true
 autonym: Budíp
 alt_names: [Bulo, Kajiang, Kediang, Northern Stieng, Rangah, Rmang, Stieng, "Stieng, Bulo", Upper Stieng, Xa-Dieng, Xtieng]
 population: 6060
@@ -15,6 +13,10 @@ glottocode: bulo1242
 glottolog_family_id: aust1305
 glottolog_family_name: Austroasiatic
 glottolog_classification: "Austroasiatic > Bahnaric > West Bahnaric > South Bahnaric > Mnong-Stieng-Chrau > Stieng > Bulo Stieng"
+translations:
+  - translation_iso: zho
+    name: 布洛斯蒂恩格语
+    auto: true
 rolv_dialects:
   - rolv_code: 16888
     language_tag: sti-x-HIS16888

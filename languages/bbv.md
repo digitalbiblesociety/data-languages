@@ -1,8 +1,6 @@
 ---
 iso: bbv
 name: Karnai
-name_zh: 卡尔奈语
-name_zh_auto: true
 autonym: Barim
 alt_names: [Karnai language]
 population: 920
@@ -16,5 +14,11 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > North New Guinea linkage > Ngero-Vitiaz linkage > Vitiaz linkage > Korap linkage > Karnai"
 wikipedia_url: "https://en.wikipedia.org/wiki/Karnai_language"
+translations:
+  - translation_iso: jpn
+    name: バリム語
+  - translation_iso: zho
+    name: 卡尔奈语
+    auto: true
 ---
 Karnai ('Barim') is an Austronesian language spoken by about 915 individuals in small villages near Wasu, Morobe Province, on Umboi Island, and near Saidor in Madang Province, Papua New Guinea.

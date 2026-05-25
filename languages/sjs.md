@@ -1,7 +1,6 @@
 ---
 iso: sjs
 name: Senhaja De Srair
-name_zh: 森哈加語
 autonym: " Tasenhajit"
 alt_names: [Sanhaja de Srair, Sanhāja of Srair, Senhajiya]
 population: 50000
@@ -15,6 +14,13 @@ glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Berber > Kabyle-Atlas Berber > Atlas Berber > Northwestern Moroccan Berber > Senhaja De Srair"
 wikipedia_url: "https://en.wikipedia.org/wiki/Senhaja_de_Srair_language"
+translations:
+  - translation_iso: ara
+    name: أمازيغية صنهاجة السراير
+  - translation_iso: jpn
+    name: サンハジャ語
+  - translation_iso: zho
+    name: 森哈加語
 rolv_dialects:
   - rolv_code: 26850
     language_tag: sjs-x-HIS26850

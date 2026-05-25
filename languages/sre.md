@@ -1,8 +1,6 @@
 ---
 iso: sre
 name: Sara
-name_zh: 萨拉语
-name_zh_auto: true
 autonym: Riok
 alt_names: [Indonesia, Lenga Sara, Sar, Sara Bakati’]
 population: 4000
@@ -16,5 +14,9 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Land Dayak > Benyadu-Bekati > Bakati' > Rara-Sara Bakati' > Sara Bakati'"
 wikipedia_url: "https://en.wikipedia.org/wiki/Sara_Bakati%27_language"
+translations:
+  - translation_iso: zho
+    name: 萨拉语
+    auto: true
 ---
 The Sara language is a language spoken in Kalimantan in Indonesia by about 200 people.

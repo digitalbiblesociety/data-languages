@@ -1,8 +1,6 @@
 ---
 iso: brq
 name: Breri
-name_zh: 布雷里语
-name_zh_auto: true
 autonym: Kuanga
 population: 1100
 country_id: PG
@@ -15,6 +13,10 @@ glottolog_family_id: ramu1234
 glottolog_family_name: Ramu
 glottolog_classification: "Ramu > Goam > Tamolan > Breri-Romkun > Breri"
 wikipedia_url: "https://en.wikipedia.org/wiki/Iski_language"
+translations:
+  - translation_iso: zho
+    name: 布雷里语
+    auto: true
 rolv_dialects:
   - rolv_code: 28505
     language_tag: brq-x-HIS28505

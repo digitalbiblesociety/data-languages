@@ -1,8 +1,6 @@
 ---
 iso: bhq
 name: Tukang Besi South
-name_zh: 南图康格贝西语
-name_zh_auto: true
 autonym: Buton
 alt_names: [Tukang Besi, Tukang-Besi, Wakatobi]
 population: 130000
@@ -15,6 +13,10 @@ glottocode: tuka1249
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Celebic > Greater Eastern Celebic > Eastern Celebic > Southeastern Celebic > Muna-Buton > Tukangbesi-Bonerate > Tukang Besi > Tukang Besi South"
+translations:
+  - translation_iso: zho
+    name: 南图康格贝西语
+    auto: true
 rolv_dialects:
   - rolv_code: 806
     language_tag: bhq-x-HIS00806

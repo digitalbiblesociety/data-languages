@@ -1,7 +1,6 @@
 ---
 iso: dta
 name: Daur
-name_zh: 达斡尔语
 autonym: Daguor
 alt_names: [Dagour (Amour), Dagour (Hailar), Dagour (Nonni), Dagour du Sinkiang, Dagur, Daguro de Xinjiang, Dahur, Dawar, "Dawo'er", Język dagurski, Tahuerh, Tahur, Tongusikonni, Yezhoù dagourek, Даурски јазик, Даурский язык, 达斡尔语, 達斡爾]
 population: 132000
@@ -15,6 +14,13 @@ glottolog_family_id: mong1349
 glottolog_family_name: Mongolic-Khitan
 glottolog_classification: "Mongolic-Khitan > Mongolic > Dagur"
 wikipedia_url: "https://en.wikipedia.org/wiki/Dagur_language"
+translations:
+  - translation_iso: jpn
+    name: ダウール語
+  - translation_iso: kor
+    name: 다우르어
+  - translation_iso: zho
+    name: 达斡尔语
 rolv_dialects:
   - rolv_code: 9156
     language_tag: dta-x-HIS09156

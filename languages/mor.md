@@ -1,8 +1,6 @@
 ---
 iso: mor
 name: Moro
-name_zh: 莫罗语
-name_zh_auto: true
 autonym: Dhimorong
 population: 72000
 country_id: SD
@@ -15,6 +13,12 @@ glottolog_family_id: heib1242
 glottolog_family_name: Heibanic
 glottolog_classification: "Heibanic > West-Central Heibanic > Western Heibanic > Moro"
 wikipedia_url: "https://en.wikipedia.org/wiki/Moro_language"
+translations:
+  - translation_iso: jpn
+    name: モロ語
+  - translation_iso: zho
+    name: 莫罗语
+    auto: true
 rolv_dialects:
   - rolv_code: 6287
     language_tag: mor-x-HIS06287

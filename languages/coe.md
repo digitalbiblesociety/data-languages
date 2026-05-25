@@ -1,8 +1,6 @@
 ---
 iso: coe
 name: Koreguaje
-name_zh: 科雷瓜赫语
-name_zh_auto: true
 autonym: "Ko'reuaju"
 alt_names: [Caquetá, Chaocha Pai, Coreguaja, Coreguaje, Corehuaje, Correguaje, Correguaje-Tama, Korewahe]
 population: 2100
@@ -16,5 +14,9 @@ glottolog_family_id: tuca1253
 glottolog_family_name: Tucanoan
 glottolog_classification: "Tucanoan > Western Tucanoan > Koreguaje-Tama > Koreguaje"
 wikipedia_url: "https://en.wikipedia.org/wiki/Koreguaje_language"
+translations:
+  - translation_iso: zho
+    name: 科雷瓜赫语
+    auto: true
 ---
 Koreguaje, Korebaju, or Korebajʉ is a Tucanoan language of Colombia.

@@ -1,8 +1,6 @@
 ---
 iso: teq
 name: Temein
-name_zh: 特梅因语
-name_zh_auto: true
 autonym: Ronge
 alt_names: [Rone, Temainian, Temeino]
 population: 13000
@@ -16,5 +14,9 @@ glottolog_family_id: teme1251
 glottolog_family_name: Temeinic
 glottolog_classification: "Temeinic > Temein"
 wikipedia_url: "https://en.wikipedia.org/wiki/Temein_language"
+translations:
+  - translation_iso: zho
+    name: 特梅因语
+    auto: true
 ---
 Temein, also known as Ron(g)e, is an Eastern Sudanic language spoken by the Temein people of the Nuba Hills in Sudan.

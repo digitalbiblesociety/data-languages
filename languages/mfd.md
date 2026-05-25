@@ -1,8 +1,6 @@
 ---
 iso: mfd
 name: "Mendankwe-Nkwen"
-name_zh: 门丹克韦-恩奎恩语
-name_zh_auto: true
 autonym: Mandankwe
 alt_names: [Mendankwe]
 population: 23100
@@ -16,6 +14,10 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Wide Grassfields > Narrow Grassfields > Mbam-Nkam > Southern Mbam-Nkam > Ngembaic > Mankonic > Mendankwe-Nkwen"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mendankwe-Nkwen_language"
+translations:
+  - translation_iso: zho
+    name: 门丹克韦-恩奎恩语
+    auto: true
 rolv_dialects:
   - rolv_code: 2633
     language_tag: mfd-x-HIS02633

@@ -1,7 +1,6 @@
 ---
 iso: uzs
 name: Southern Uzbek
-name_zh: 南乌兹别克语
 autonym: اوزبیکچه
 alt_names: [Usbeki, Uzbak, Uzbek, "Uzbek, Southern", Uzbeki, Özbekisch, 南乌兹别克语]
 population: 4756100
@@ -15,6 +14,13 @@ glottolog_family_id: turk1311
 glottolog_family_name: Turkic
 glottolog_classification: "Turkic > Common Turkic > Kipchak-Turkestan > Turkestan > Modern Turkestan > Uzbek > Southern Uzbek"
 wikipedia_url: "https://en.wikipedia.org/wiki/Southern_Uzbek_language"
+translations:
+  - translation_iso: ara
+    name: الأوزبكية الجنوبية
+  - translation_iso: kor
+    name: 남 우즈베크
+  - translation_iso: zho
+    name: 南乌兹别克语
 ---
 Southern Uzbek, also known as Afghan Uzbek, is the southern variant of the Uzbek language, spoken chiefly in Afghanistan and Pakistan with up to 8 
 million native and secondary speakers. It uses the Perso-Arabic writing system in contrast to the Uzbek spoken in Uzbekistan and other former Soviet countries in Central Asia. It is written in the Nastaliq hand of calligraphy.

@@ -1,7 +1,6 @@
 ---
 iso: moo
 name: Monom
-name_zh: 莫侬语
 autonym: Bonam
 alt_names: [Bonom, Menam, Monam]
 population: 5000
@@ -15,5 +14,8 @@ glottolog_family_id: aust1305
 glottolog_family_name: Austroasiatic
 glottolog_classification: "Austroasiatic > Bahnaric > North Bahnaric > Hre-Sedang-Todrah-Monam > Monom"
 wikipedia_url: "https://en.wikipedia.org/wiki/Monom_language"
+translations:
+  - translation_iso: zho
+    name: 莫侬语
 ---
 Monom (Monam), not to be confused with Bonam, is an Austro-Asiatic language of Vietnam. Speakers are officially classified by the Vietnamese government as Sedang people.

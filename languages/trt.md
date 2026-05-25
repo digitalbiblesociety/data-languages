@@ -1,8 +1,6 @@
 ---
 iso: trt
 name: Tunggare
-name_zh: 通噶雷语
-name_zh_auto: true
 autonym: Tarunggare
 alt_names: [Język turunggare, Turunggare]
 population: 500
@@ -16,5 +14,9 @@ glottolog_family_id: geel1240
 glottolog_family_name: Geelvink Bay
 glottolog_classification: "Geelvink Bay > Burate-Wate > Tunggare"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tarunggare_language"
+translations:
+  - translation_iso: zho
+    name: 通噶雷语
+    auto: true
 ---
 Tarunggare is a language spoken in Papua, Indonesia. Wate is a dialect.

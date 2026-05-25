@@ -1,8 +1,6 @@
 ---
 iso: kmf
 name: Kare (Papua New Guinea)
-name_zh: 卡雷语
-name_zh_auto: true
 autonym: null
 alt_names: [Kare]
 population: 380
@@ -16,6 +14,10 @@ glottolog_family_id: nucl1709
 glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Madang > Croisilles > Mabuso > Kare (Papua New Guinea)"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kare_language_(Papuan)"
+translations:
+  - translation_iso: zho
+    name: 卡雷语
+    auto: true
 rolv_dialects:
   - rolv_code: 30278
     language_tag: kmf-x-HIS30278

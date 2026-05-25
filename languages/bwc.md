@@ -1,8 +1,6 @@
 ---
 iso: bwc
 name: Bwile
-name_zh: 布维莱语
-name_zh_auto: true
 autonym: null
 population: 12400
 country_id: ZM
@@ -15,5 +13,9 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > East Bantu > Sabi > Malungu-Central Sabi > Bwile"
 wikipedia_url: "https://en.wikipedia.org/wiki/Bwile_language"
+translations:
+  - translation_iso: zho
+    name: 布维莱语
+    auto: true
 ---
 Bwile is a Bantu language of Zambia and DR Congo of Sabi group.

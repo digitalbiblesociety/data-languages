@@ -1,7 +1,6 @@
 ---
 iso: mhi
 name: "Ma'di"
-name_zh: 馬氐語
 autonym: "Ma'diti"
 alt_names: ["Ma'adi", Madi, Madi language]
 population: 326000
@@ -15,6 +14,13 @@ glottolog_family_id: cent2225
 glottolog_family_name: Central Sudanic
 glottolog_classification: "Central Sudanic > Moru-Madi > Southern Moru-Madi > Ma'di"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ma%CA%BCdi_language"
+translations:
+  - translation_iso: jpn
+    name: マディ語
+  - translation_iso: kor
+    name: 마디어
+  - translation_iso: zho
+    name: 馬氐語
 rolv_dialects:
   - rolv_code: 3025
     language_tag: mhi-x-HIS03025

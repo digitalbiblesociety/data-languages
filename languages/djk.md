@@ -1,8 +1,6 @@
 ---
 iso: djk
 name: Eastern Maroon Creole
-name_zh: 东马荣克里奥尔语
-name_zh_auto: true
 autonym: Aukan
 alt_names: ["\"Djoeka\"", "\"Djuka\"", Aukaans, Businenge Tongo, Djoe-Tongo, Djuka, Dyuka, Ndjuka, Ndjuká, Ndyuka, Nenge, Njuká, Okanisi, Ндюка, 은쥬카어]
 population: 67300
@@ -15,6 +13,10 @@ glottocode: ndyu1242
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Germanic > Northwest Germanic > West Germanic > North Sea Germanic > Anglo-Frisian > Anglic > Later Anglic > Middle-Modern English > Macro-English > Guinea Coast Creole English > Surinamese Creole English > Eastern Maroons > Ndyuka > Aukan"
+translations:
+  - translation_iso: zho
+    name: 东马荣克里奥尔语
+    auto: true
 rolv_dialects:
   - rolv_code: 3459
     language_tag: djk-x-HIS03459

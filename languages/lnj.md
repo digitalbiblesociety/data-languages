@@ -1,8 +1,6 @@
 ---
 iso: lnj
 name: Leningitij
-name_zh: 勒尼吉蒂语
-name_zh_auto: true
 autonym: Liningitij
 alt_names: [Adetingiti, Andyinit, Cabati, Ladamngid, Laini ngitti, Laini-ngitti, Latangeti, Latarngit, Leiningidi, Lenga leningitij, Leningit, Leningiti, Lenngeti, Lenngidgh, Linginiti, Lingitir, Linngidhigh, Linngithig, Linngithigh, Linngithigh language, Linngiti, Linŋit̯iγ, Ndraangit, Onnatangnit, Umngnity, Winda Winda, Winduwinda, not the same as Lengiti of Weipa]
 population: null
@@ -16,5 +14,9 @@ glottolog_family_id: pama1250
 glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > Paman > Northern Pama > Linngithigh-Alngith > Linngithigh"
 wikipedia_url: "https://en.wikipedia.org/wiki/Linngithigh_dialect"
+translations:
+  - translation_iso: zho
+    name: 勒尼吉蒂语
+    auto: true
 ---
 Linngithigh (Liningitij) is an extinct Paman language formerly spoken on the Cape York Peninsula of Queensland, Australia, by the Linngithigh people. It is very similar phonologically to the closely related Alngith.

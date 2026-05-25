@@ -1,8 +1,6 @@
 ---
 iso: vms
 name: Moksela
-name_zh: 莫克塞拉语
-name_zh_auto: true
 autonym: Maksela
 alt_names: [Opselan]
 population: null
@@ -16,5 +14,9 @@ glottolog_family_id: unat1236
 glottolog_family_name: Unattested
 glottolog_classification: "Unattested > Moksela"
 wikipedia_url: "https://en.wikipedia.org/wiki/Moksela_language"
+translations:
+  - translation_iso: zho
+    name: 莫克塞拉语
+    auto: true
 ---
 Moksela is an extinct and unattested language spoken in the Buru Island of North Maluku province in Indonesia. Based on its location, it was presumably Malayo-Polynesian of the Central Maluku branch.

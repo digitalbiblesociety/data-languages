@@ -1,8 +1,6 @@
 ---
 iso: woy
 name: Weyto
-name_zh: 韦托语
-name_zh_auto: true
 autonym: (of Lake Tana)
 alt_names: [Wayto, "Weyt'o"]
 population: null
@@ -16,5 +14,11 @@ glottolog_family_id: unat1236
 glottolog_family_name: Unattested
 glottolog_classification: "Unattested > Weyto"
 wikipedia_url: "https://en.wikipedia.org/wiki/Weyto_language"
+translations:
+  - translation_iso: jpn
+    name: ウェイトー語
+  - translation_iso: zho
+    name: 韦托语
+    auto: true
 ---
 Weyto is a speculative extinct language thought to have been spoken in the Lake Tana region of Ethiopia by the Weyto, a small group of hippopotamus hunters who now speak Amharic.

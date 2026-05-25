@@ -1,8 +1,6 @@
 ---
 iso: ddd
 name: Dongotono
-name_zh: 东戈托诺语
-name_zh_auto: true
 autonym: Dongotono
 alt_names: [Dɔngɔtɔnɔ, Lorwama]
 population: 1000
@@ -16,5 +14,11 @@ glottolog_family_id: nilo1247
 glottolog_family_name: Nilotic
 glottolog_classification: "Nilotic > Eastern Nilotic > Teso-Lotuxo-Maa > Lotuxo-Maa > Lotuxo > Lopit-Dongotono > Dongotonic > Dongotono"
 wikipedia_url: "https://en.wikipedia.org/wiki/Dongotono_language"
+translations:
+  - translation_iso: jpn
+    name: ドンゴトノ語
+  - translation_iso: zho
+    name: 东戈托诺语
+    auto: true
 ---
 Dongotono is an Eastern Nilotic language spoken by an estimated 5,000 people in South Sudan.

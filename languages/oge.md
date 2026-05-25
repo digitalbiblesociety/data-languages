@@ -1,7 +1,6 @@
 ---
 iso: oge
 name: Old Georgian
-name_zh: 古喬治亞語
 autonym: ႤႬႠჂ ႵႠႰႧႭჃႪႨ
 alt_names: ["Georgian, Old"]
 population: null
@@ -15,5 +14,12 @@ glottolog_family_id: kart1248
 glottolog_family_name: Kartvelian
 glottolog_classification: "Kartvelian > Georgian-Zan > Georgic > Old Georgian"
 wikipedia_url: "https://en.wikipedia.org/wiki/Old_Georgian"
+translations:
+  - translation_iso: jpn
+    name: 古ジョージア語
+  - translation_iso: kor
+    name: 고대 조지아어
+  - translation_iso: zho
+    name: 古喬治亞語
 ---
 Old Georgian is a literary language of the Georgian monarchies attested from the 5th century. The language remains in use as the liturgical language of the Georgian Orthodox Church and for the most part is still intelligible. Spoken Old Georgian gave way to what is classified as Middle Georgian in the 11th century, which in turn developed into the Modern Georgian in the 18th century.

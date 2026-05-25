@@ -1,8 +1,6 @@
 ---
 iso: byi
 name: Buyu
-name_zh: 布尤语
-name_zh_auto: true
 autonym: Bujwe
 alt_names: [Buyi, Kibuyu]
 population: 10000
@@ -16,5 +14,9 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > East Bantu > Greater Lega > Bembe-Buyu > Buyu"
 wikipedia_url: "https://en.wikipedia.org/wiki/Buyu_language"
+translations:
+  - translation_iso: zho
+    name: 布尤语
+    auto: true
 ---
 Buyu, or Buyi, is a Bantu language of Lake Tanganyika that is closely related to Nyanga.

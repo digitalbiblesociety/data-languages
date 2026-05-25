@@ -1,8 +1,6 @@
 ---
 iso: lht
 name: "Lo-Toga"
-name_zh: 洛-托加语
-name_zh_auto: true
 autonym: Loh
 alt_names: [Lo, Loh-Toga, Toga, Torres]
 population: 500
@@ -16,5 +14,9 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > North and Central Vanuatu > Northern Vanuatu > Torres-Banks linkage > Hiw-Lo-Toga > Lo-Toga"
 wikipedia_url: "https://en.wikipedia.org/wiki/Lo-Toga_language"
+translations:
+  - translation_iso: zho
+    name: 洛-托加语
+    auto: true
 ---
 Lo-Toga is an Oceanic language spoken by about 580 people on the islands of Lo and Toga, in the Torres group of northern Vanuatu. The language has sometimes been called Loh [sic] or Toga, after either of its two dialects.

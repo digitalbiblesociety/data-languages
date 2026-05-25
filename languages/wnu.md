@@ -1,8 +1,6 @@
 ---
 iso: wnu
 name: Usan
-name_zh: 乌桑语
-name_zh_auto: true
 autonym: Wanuma
 population: 1400
 country_id: PG
@@ -15,5 +13,9 @@ glottolog_family_id: nucl1709
 glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Madang > Croisilles > Greater Northern Adelbert > Northern Adelbert > Numugenan > Karian-Usan-Yaben > Usan"
 wikipedia_url: "https://en.wikipedia.org/wiki/Usan_language"
+translations:
+  - translation_iso: zho
+    name: 乌桑语
+    auto: true
 ---
 Usan, or Wanuma, is a Papuan language of Papua New Guinea.

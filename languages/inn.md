@@ -1,8 +1,6 @@
 ---
 iso: inn
 name: Isinai
-name_zh: 伊西奈语
-name_zh_auto: true
 autonym: Isinay
 alt_names: [Inmeas, Insinai, Isnay, Malaates]
 population: 5520
@@ -16,6 +14,12 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Northern Luzon > Meso-Cordilleran > South-Central Cordilleran > Central Cordilleran > Nuclear Cordilleran > Isinai"
 wikipedia_url: "https://en.wikipedia.org/wiki/Isinai_language"
+translations:
+  - translation_iso: jpn
+    name: イシナイ語
+  - translation_iso: zho
+    name: 伊西奈语
+    auto: true
 rolv_dialects:
   - rolv_code: 26110
     language_tag: inn-x-HIS26110

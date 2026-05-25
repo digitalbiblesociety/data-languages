@@ -1,8 +1,6 @@
 ---
 iso: faj
 name: Faita
-name_zh: 法伊塔语
-name_zh_auto: true
 autonym: Kulsab
 alt_names: [Kursav]
 population: 10
@@ -16,5 +14,9 @@ glottolog_family_id: nucl1709
 glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Madang > Kalamic-South Adelbert > South Adelbert > Sogeram > East Sogeram > Kulsab"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kursav_language"
+translations:
+  - translation_iso: zho
+    name: 法伊塔语
+    auto: true
 ---
 Kursav is a divergent and nearly extinct Madang language of the Adelbert Range of Papua New Guinea. It was once placed in the now-defunct Brahman branch of Madang. Daniels (2017) identifies Gants as its closest relative.

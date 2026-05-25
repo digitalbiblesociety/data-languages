@@ -1,7 +1,6 @@
 ---
 iso: cpx
 name: "Pu-Xian Chinese"
-name_zh: 莆仙语
 autonym: 莆仙語/莆仙話/興化話
 alt_names: [Bahasa Puxian, "Chinese, Pu-Xian", "Chinese,Pu-Xian", Hingeg, Język puxian, Minish Phuxian, Phû-sien-fa, Puxian, Puxian Min, ホ仙語, 莆仙話]
 population: 3191700
@@ -15,6 +14,13 @@ glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Sinitic > Min > Coastal Min > Southern Min-Pu-Xian > Pu-Xian Chinese"
 wikipedia_url: "https://en.wikipedia.org/wiki/Pu%E2%80%93Xian_Min"
+translations:
+  - translation_iso: jpn
+    name: 莆仙語
+  - translation_iso: kor
+    name: 보선어
+  - translation_iso: zho
+    name: 莆仙语
 rolv_dialects:
   - rolv_code: 8861
     language_tag: cpx-x-HIS08861

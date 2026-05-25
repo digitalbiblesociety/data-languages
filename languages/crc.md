@@ -1,7 +1,6 @@
 ---
 iso: crc
 name: Lonwolwol
-name_zh: 伦沃沃语
 autonym: West Ambrym
 alt_names: [Ambrym, Ambrym (Lonwolwol), Craig Cove, Fali, Fanting, Raljago]
 population: 1200
@@ -15,6 +14,11 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > North and Central Vanuatu > Central Vanuatu > Ambrym > Lonwolwol"
 wikipedia_url: "https://en.wikipedia.org/wiki/Lonwolwol_language"
+translations:
+  - translation_iso: jpn
+    name: ロンウォルウォル語
+  - translation_iso: zho
+    name: 伦沃沃语
 rolv_dialects:
   - rolv_code: 4717
     language_tag: crc-x-HIS04717

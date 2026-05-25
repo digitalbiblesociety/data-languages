@@ -1,7 +1,6 @@
 ---
 iso: eng
 name: English
-name_zh: 英语
 autonym: English
 alt_names: [Anglais moderne, Englisch, English (Standard Southern British), Inglese moderno, Inglês moderno, Modern English, Moderna angla lingvo, Moderne engelsk, Modernes Englisch, Nyengelska, anglais, თანამედროვე ინგლისური პერიოდი, 現代英語, 近代英語]
 population: 379000000
@@ -16,6 +15,17 @@ glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Germanic > Northwest Germanic > West Germanic > North Sea Germanic > Anglo-Frisian > Anglic > Later Anglic > Middle-Modern English > Macro-English > English"
 wikipedia_url: "https://en.wikipedia.org/wiki/English_language"
+translations:
+  - translation_iso: ara
+    name: الإنجليزية
+  - translation_iso: hin
+    name: अंग्रेज़ी
+  - translation_iso: jpn
+    name: 英語
+  - translation_iso: kor
+    name: 영어
+  - translation_iso: zho
+    name: 英语
 rolv_dialects:
   - rolv_code: 25
     language_tag: en-US

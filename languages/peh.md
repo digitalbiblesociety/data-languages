@@ -1,7 +1,6 @@
 ---
 iso: peh
 name: Bonan
-name_zh: 保安语
 autonym: "Bao'an"
 alt_names: ["Bao'an Tu", Bao-an, Baoan, Baonan, Baongan, Boan, Buddhist Bonan, Dordo, Gansu Bonan, Islamic Bonan, Moslem Bonan, Pao-an, Paoan, Paongan, Qinghai Bonan, "mistakenly also: Tu, Monguour", Баоаньский язык, Бонански јазик, 保安语, 甘肅保安語, 積石山保安語, 青海保安語]
 population: 16500
@@ -15,6 +14,13 @@ glottolog_family_id: mong1349
 glottolog_family_name: Mongolic-Khitan
 glottolog_classification: "Mongolic-Khitan > Mongolic > Southern Periphery Mongolic > Shirongol > Baoanic > Bonan"
 wikipedia_url: "https://en.wikipedia.org/wiki/Bonan_language"
+translations:
+  - translation_iso: jpn
+    name: バオアン語
+  - translation_iso: kor
+    name: 바오안어
+  - translation_iso: zho
+    name: 保安语
 rolv_dialects:
   - rolv_code: 8292
     language_tag: peh-x-HIS08292

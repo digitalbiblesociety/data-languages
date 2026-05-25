@@ -1,7 +1,6 @@
 ---
 iso: czh
 name: Huizhou Chinese
-name_zh: 徽语
 autonym: 徽州話 / 徽州话
 alt_names: ["Chinese, Huizhou", "Chinese,Huizhou", Hui, Hui-Dialekt, Huizhou, Sinaeg Huizhou, 徽州話, 徽語, 徽语]
 population: 5380000
@@ -15,6 +14,13 @@ glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Sinitic > Classical-Middle-Modern Sinitic > Middle-Modern Sinitic > Wu-Hui Chinese > Hui Chinese"
 wikipedia_url: "https://en.wikipedia.org/wiki/Huizhou_Chinese"
+translations:
+  - translation_iso: jpn
+    name: 徽語
+  - translation_iso: kor
+    name: 후이어
+  - translation_iso: zho
+    name: 徽语
 rolv_dialects:
   - rolv_code: 8828
     language_tag: czh-x-HIS08828

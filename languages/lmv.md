@@ -1,8 +1,6 @@
 ---
 iso: lmv
 name: Lomaiviti
-name_zh: 洛迈维蒂语
-name_zh_auto: true
 autonym: null
 alt_names: [Fidji-Inseln, Lomaiviti jezik]
 population: 1630
@@ -16,5 +14,9 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Central Pacific linkage > Tokalau Fijian > Eastern Fijian > Nuclear Eastern Fijian > Viwa-Lomaiviti-East Viti Levu > Lomaiviti"
 wikipedia_url: "https://en.wikipedia.org/wiki/Lomaiviti_language"
+translations:
+  - translation_iso: zho
+    name: 洛迈维蒂语
+    auto: true
 ---
 Lomaiviti is an East Fijian language spoken by about 1,600 people on a number of islands of Fiji.

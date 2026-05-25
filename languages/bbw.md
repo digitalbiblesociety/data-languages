@@ -1,8 +1,6 @@
 ---
 iso: bbw
 name: Baba
-name_zh: 巴巴语
-name_zh_auto: true
 autonym: Papiak
 alt_names: [Bapa, Bapakum, Papia]
 population: 24500
@@ -16,5 +14,9 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Wide Grassfields > Narrow Grassfields > Mbam-Nkam > Southern Mbam-Nkam > Mbam-Nkam Nun > Baba"
 wikipedia_url: "https://en.wikipedia.org/wiki/Baba_language"
+translations:
+  - translation_iso: zho
+    name: 巴巴语
+    auto: true
 ---
 The Baba language, Supapyak’, is a Grassfields Bantu language of Cameroon.

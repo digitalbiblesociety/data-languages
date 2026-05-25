@@ -1,8 +1,6 @@
 ---
 iso: zmp
 name: Mpuono
-name_zh: 姆普翁诺语
-name_zh_auto: true
 autonym: Mpuun
 alt_names: [Democratic Republic of the Congo, Mbuun]
 population: 165000
@@ -16,6 +14,12 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > Central-Western Bantu > West-Coastal Bantu > Nzadic > Lweric > Dingic > Loange-Atlantic > KLC Extended > Mbuun"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mbuun_language"
+translations:
+  - translation_iso: jpn
+    name: Mpuono語
+  - translation_iso: zho
+    name: 姆普翁诺语
+    auto: true
 ---
 Mbuun or Mpuun, is a Bantu language spoken by several hundred thousand people in the Democratic Republic of Congo.
 The name is sometimes spelled Kimbuun or Gimbunda.

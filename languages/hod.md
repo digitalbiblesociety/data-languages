@@ -1,8 +1,6 @@
 ---
 iso: hod
 name: Holma
-name_zh: 霍尔玛语
-name_zh_auto: true
 autonym: Bali Holma
 alt_names: [Da Holmaci]
 population: null
@@ -16,5 +14,9 @@ glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > Biu-Mandara > South Biu-Mandara > Bataic > Gudeic > Nzanyic > Holma"
 wikipedia_url: "https://en.wikipedia.org/wiki/Holma_language"
+translations:
+  - translation_iso: zho
+    name: 霍尔玛语
+    auto: true
 ---
 Holma is an extinct Afro-Asiatic language formerly spoken in Nigeria in Adamawa State, near the Cameroon border. Speakers switched to Nigerian Fulfulde.

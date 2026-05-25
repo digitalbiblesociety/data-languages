@@ -1,8 +1,6 @@
 ---
 iso: eiv
 name: Askopan
-name_zh: 阿斯科潘语
-name_zh_auto: true
 autonym: Eivo
 population: 1200
 country_id: PG
@@ -15,5 +13,9 @@ glottolog_family_id: nort2933
 glottolog_family_name: North Bougainville
 glottolog_classification: "North Bougainville > Rotokas-Askopan > Askopan"
 wikipedia_url: "https://en.wikipedia.org/wiki/Askopan_language"
+translations:
+  - translation_iso: zho
+    name: 阿斯科潘语
+    auto: true
 ---
 Askopan is a North Bougainville language spoken on Bougainville, an island to the east of New Guinea. It is one of several languages in the area that go by the name Eivo.

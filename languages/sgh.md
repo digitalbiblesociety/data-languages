@@ -1,7 +1,6 @@
 ---
 iso: sgh
 name: Shughni
-name_zh: 舒格南语
 autonym: "Shugnani-Rushani"
 alt_names: [Bartangi, Chugní, Khugni, Lingua xugní, Roshorvi, Rushan, Rushani, Rushâni, Shighni, Shugnan-Rushan, Šugnanin kieli, Šugni keel, Шугнано-рушански език, Шугнанский язык, زبان شغنانی, ภาษาซุกนี]
 population: 80000
@@ -15,6 +14,15 @@ glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Iranian-Nuristani > Iranian > Central Eastern Iranian > Shughni-Yazgulami > Shughnic > Shughni"
 wikipedia_url: "https://en.wikipedia.org/wiki/Shughni_language"
+translations:
+  - translation_iso: hin
+    name: शुग़नी भाषा
+  - translation_iso: jpn
+    name: シュグニー語
+  - translation_iso: kor
+    name: 슈그니어
+  - translation_iso: zho
+    name: 舒格南语
 rolv_dialects:
   - rolv_code: 3396
     language_tag: sgh-x-HIS03396

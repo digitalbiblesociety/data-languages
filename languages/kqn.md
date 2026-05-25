@@ -1,8 +1,6 @@
 ---
 iso: kqn
 name: Kaonde
-name_zh: 卡翁德语
-name_zh_auto: true
 autonym: Kiikaonde
 alt_names: [Chikahonde, Chikaonde, Kawonde, Luba Kaonde]
 population: 242000
@@ -16,6 +14,12 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > Central-Western Bantu > Luban > Luba-Kaonde > Kaonde-Shaba-Sanga > Kaonde"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kaonde_language"
+translations:
+  - translation_iso: jpn
+    name: カオンデ語
+  - translation_iso: zho
+    name: 卡翁德语
+    auto: true
 rolv_dialects:
   - rolv_code: 31489
     language_tag: kqn-x-HIS31489

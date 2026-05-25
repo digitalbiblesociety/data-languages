@@ -1,8 +1,6 @@
 ---
 iso: mfw
 name: Mulaha
-name_zh: 穆拉哈语
-name_zh_auto: true
 autonym: null
 alt_names: [Laibu]
 population: null
@@ -16,6 +14,10 @@ glottolog_family_id: kwal1257
 glottolog_family_name: Kwalean
 glottolog_classification: "Kwalean > Mulaha"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mulaha_language"
+translations:
+  - translation_iso: zho
+    name: 穆拉哈语
+    auto: true
 rolv_dialects:
   - rolv_code: 14364
     language_tag: mfw-x-HIS14364

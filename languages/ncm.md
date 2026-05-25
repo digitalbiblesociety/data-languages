@@ -1,8 +1,6 @@
 ---
 iso: ncm
 name: Nambo
-name_zh: 纳姆博语
-name_zh_auto: true
 autonym: Nambu
 alt_names: [Arufe, Namna]
 population: 710
@@ -16,6 +14,10 @@ glottolog_family_id: more1255
 glottolog_family_name: Yam
 glottolog_classification: "Yam > Morehead-Maro > Nambu > Nambo"
 wikipedia_url: "https://en.wikipedia.org/wiki/Nambo-Namna_language"
+translations:
+  - translation_iso: zho
+    name: 纳姆博语
+    auto: true
 rolv_dialects:
   - rolv_code: 3962
     language_tag: ncm-x-HIS03962

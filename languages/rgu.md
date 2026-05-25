@@ -1,8 +1,6 @@
 ---
 iso: rgu
 name: Ringgou
-name_zh: 林古语
-name_zh_auto: true
 autonym: Rikou
 alt_names: [Eastern Rote, Rote, Rote Timur, Roti, Rotinese, Rotti]
 population: 12000
@@ -16,6 +14,10 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Timor-Babar > Rote-Meto > Nuclear Rote > Central East Rote > Southeast Rote > Ringgou"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ringgou_language"
+translations:
+  - translation_iso: zho
+    name: 林古语
+    auto: true
 rolv_dialects:
   - rolv_code: 25364
     language_tag: rgu-x-HIS25364

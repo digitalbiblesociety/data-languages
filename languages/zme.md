@@ -1,8 +1,6 @@
 ---
 iso: zme
 name: Mangerr
-name_zh: 曼格语
-name_zh_auto: true
 autonym: Mangerr
 alt_names: [Ari, Berrigurruk, Eireij, Ere, Erei, Erej, Eri, Erre, Giimbiyu, Gunwinggu, Kunwinjku, Mangarr, Mangarryu, Manger, Mangerdji, Mangerei, Mangeri, Mangerri, Mangeryu, Mengerdji, Mengerei, Mengerr, Mengerrdji, Mengerrdji/Menngarr, Mengerri, Mennagi, Menngarr, Mirarr, Rereri, Reveri]
 population: null
@@ -15,4 +13,8 @@ glottocode: mang1382
 glottolog_family_id: giim1238
 glottolog_family_name: Giimbiyu
 glottolog_classification: "Giimbiyu > Mangerr"
+translations:
+  - translation_iso: zho
+    name: 曼格语
+    auto: true
 ---

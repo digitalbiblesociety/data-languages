@@ -1,7 +1,6 @@
 ---
 iso: tsc
 name: Tswa
-name_zh: 茨瓦语
 autonym: Xitswa
 alt_names: [Kitshwa, Sheetshwa, Shitshwa, Tshwa, Xitshwa]
 population: 1020000
@@ -15,6 +14,11 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > East Bantu > Southern Bantu > Nuclear Southern Bantu > Dimsuffix Southern Bantu > Nguni-Tsonga-Copi > Tsonga-Copi > Tswa-Ronga (S.50) > Tswa"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tswa_language"
+translations:
+  - translation_iso: jpn
+    name: ツワ語
+  - translation_iso: zho
+    name: 茨瓦语
 rolv_dialects:
   - rolv_code: 1368
     language_tag: tsc-x-HIS01368

@@ -1,8 +1,6 @@
 ---
 iso: wrk
 name: Garrwa
-name_zh: 盖瓦语
-name_zh_auto: true
 autonym: Gaarwa
 alt_names: [Garawa, Garuwa, Grawa, Karawa, Kariwa, Karrawar, Karrwa, Karrwaz, Karwa, Korrawa, Kurrawar, Leearawa, Leearrawa, Wollongorang, Wulungwara]
 population: 130
@@ -16,6 +14,12 @@ glottolog_family_id: garr1260
 glottolog_family_name: Garrwan
 glottolog_classification: "Garrwan > Garrwa"
 wikipedia_url: "https://en.wikipedia.org/wiki/Garrwa_language"
+translations:
+  - translation_iso: kor
+    name: 가라와어
+  - translation_iso: zho
+    name: 盖瓦语
+    auto: true
 rolv_dialects:
   - rolv_code: 25760
     language_tag: wrk-x-HIS25760

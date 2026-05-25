@@ -1,8 +1,6 @@
 ---
 iso: tjg
 name: Tunjung
-name_zh: 通容语
-name_zh_auto: true
 autonym: Tunjung Dayak
 alt_names: [Dayak]
 population: 50000
@@ -16,6 +14,10 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Basap-Greater Barito > Greater Barito linkage > Barito-Mahakam > Tunjung"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tunjung_language"
+translations:
+  - translation_iso: zho
+    name: 通容语
+    auto: true
 rolv_dialects:
   - rolv_code: 17796
     language_tag: tjg-x-HIS17796

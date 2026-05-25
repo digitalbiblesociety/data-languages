@@ -1,7 +1,6 @@
 ---
 iso: pse
 name: Central Malay
-name_zh: 中马来语
 autonym: Middle Malay
 alt_names: [Bengkulu, Besemah, Enim, Lintang, "Malay, Central", Midden Maleisch, Ogan, Pasemah, Semendo, Serawai]
 population: 1590000
@@ -15,6 +14,9 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Malayo-Chamic > Malayic > Nuclear Malayic > South Sumatra Malay > South Barisan Malay"
 wikipedia_url: "https://en.wikipedia.org/wiki/South_Barisan_Malay"
+translations:
+  - translation_iso: zho
+    name: 中马来语
 rolv_dialects:
   - rolv_code: 1181
     language_tag: pse-x-HIS01181

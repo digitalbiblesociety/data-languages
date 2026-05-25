@@ -1,8 +1,6 @@
 ---
 iso: dbg
 name: Dogul Dom Dogon
-name_zh: 多古尔多姆多贡语
-name_zh_auto: true
 autonym: Dogul Dom
 alt_names: [Dogon, "Dogon, Dogul Dom", Dogul-Dom, Dogul-Dom Dogon, Dogulu, North Plateau Dogon]
 population: 15700
@@ -16,5 +14,9 @@ glottolog_family_id: dogo1299
 glottolog_family_name: Dogon
 glottolog_classification: "Dogon > North Plateau Dogon > Dogul Dom Dogon"
 wikipedia_url: "https://en.wikipedia.org/wiki/Dogul_Dogon"
+translations:
+  - translation_iso: zho
+    name: 多古尔多姆多贡语
+    auto: true
 ---
 The Dogul language, Dogul Dom, is a Dogon language spoken in Mali. It is closest to Bondum Dogon, though not enough for mutual intelligibility.

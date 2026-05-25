@@ -1,8 +1,6 @@
 ---
 iso: lik
 name: Lika
-name_zh: 利卡语
-name_zh_auto: true
 autonym: Kilika
 alt_names: [Kpongo, Mabiti, Toriko]
 population: 60000
@@ -16,6 +14,10 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > Central-Western Bantu > North Zaire River > Rivers Bantu > Ngiri > Ngiri Terrien > Ngombe-Ababuan > Ababuan > Old Bomokandian > Middle Bomokandian > Liko"
 wikipedia_url: "https://en.wikipedia.org/wiki/Lika_language"
+translations:
+  - translation_iso: zho
+    name: 利卡语
+    auto: true
 rolv_dialects:
   - rolv_code: 12947
     language_tag: lik-x-HIS12947

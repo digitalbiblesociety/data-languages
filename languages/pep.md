@@ -1,8 +1,6 @@
 ---
 iso: pep
 name: Kunja
-name_zh: 昆雅语
-name_zh_auto: true
 autonym: Peremka
 alt_names: [Gambadi, Lower Morehead, Thundai-Kanza]
 population: 290
@@ -16,5 +14,9 @@ glottolog_family_id: more1255
 glottolog_family_name: Yam
 glottolog_classification: "Yam > Morehead-Maro > Tonda > Eastern Tonda > Kánchá"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kunja_language_(Papuan)"
+translations:
+  - translation_iso: zho
+    name: 昆雅语
+    auto: true
 ---
 Kunja (Kánchá), also known as Lower Morehead or Peremka, is a Papuan language of New Guinea.

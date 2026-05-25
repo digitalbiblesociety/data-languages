@@ -1,8 +1,6 @@
 ---
 iso: lmc
 name: Limilngan
-name_zh: 利米尔根语
-name_zh_auto: true
 autonym: Limil
 alt_names: [Baneidja, "Bani:dja", Banidja, Banindja, Beriguruk, Buneidja, Buneidya, Buneitja, Djowei, Lemil, Limit, Manadja, Manasi, Manidja, Manidya, Manitja, Menassie, Minidja, Minitja, Minitjaa, Minitji, Minitjja, Minityi, Minnitji, Norweilemil, Peneitja, Punaka, Puneitja, Punuurlu, naWinjmil]
 population: null
@@ -16,5 +14,9 @@ glottolog_family_id: limi1242
 glottolog_family_name: Limilngan-Wulna
 glottolog_classification: "Limilngan-Wulna > Limilngan"
 wikipedia_url: "https://en.wikipedia.org/wiki/Limilngan_language"
+translations:
+  - translation_iso: zho
+    name: 利米尔根语
+    auto: true
 ---
 Limilngan, also known as Limil and Manidja, is an extinct Aboriginal Australian language of the Top End of Australia.

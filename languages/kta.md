@@ -1,7 +1,6 @@
 ---
 iso: kta
 name: Katua
-name_zh: 歌须语
 autonym: Ca Tua
 population: 3000
 country_id: VN
@@ -14,5 +13,8 @@ glottolog_family_id: aust1305
 glottolog_family_name: Austroasiatic
 glottolog_classification: "Austroasiatic > Bahnaric > North Bahnaric > Katua"
 wikipedia_url: "https://en.wikipedia.org/wiki/Katua_language"
+translations:
+  - translation_iso: zho
+    name: 歌须语
 ---
 Katua is an Austroasiatic language of Vietnam.

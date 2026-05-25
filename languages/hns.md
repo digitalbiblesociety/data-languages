@@ -1,7 +1,6 @@
 ---
 iso: hns
 name: Caribbean Hindustani
-name_zh: 加勒比印度斯坦語
 autonym: "Caribbean Hindi-Urdu"
 alt_names: [Aili Gaili, "Hindustani, Caribbean", Trinidad Bhojpuri]
 population: 298600
@@ -15,6 +14,15 @@ glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Indo-Aryan > Middle-Modern Indo-Aryan > Continental Indo-Aryan > Midlands Indo-Aryan > Shaurasenic > Bihari > Magadhan > Bhojpuric > Caribbean Hindustani"
 wikipedia_url: "https://en.wikipedia.org/wiki/Caribbean_Hindustani"
+translations:
+  - translation_iso: ara
+    name: الهندية الكاريبية
+  - translation_iso: hin
+    name: कैरेबियाई हिंदुस्तानी
+  - translation_iso: jpn
+    name: カリブ・ヒンドゥスターニー語
+  - translation_iso: zho
+    name: 加勒比印度斯坦語
 rolv_dialects:
   - rolv_code: 10639
     language_tag: hns-x-HIS10639

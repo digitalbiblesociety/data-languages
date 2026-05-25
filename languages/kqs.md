@@ -1,8 +1,6 @@
 ---
 iso: kqs
 name: Northern Kissi
-name_zh: 北基西语
-name_zh_auto: true
 autonym: Gizi
 alt_names: [Kisi, Kisie, Kissi, "Kissi, Northern", Kissien]
 population: 562000
@@ -15,6 +13,10 @@ glottocode: nort2765
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Mel > Southern Mel > Kissi > Northern Kissi"
+translations:
+  - translation_iso: zho
+    name: 北基西语
+    auto: true
 rolv_dialects:
   - rolv_code: 3077
     language_tag: kqs-x-HIS03077

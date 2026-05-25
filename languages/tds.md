@@ -1,8 +1,6 @@
 ---
 iso: tds
 name: Doutai
-name_zh: 都陶语
-name_zh_auto: true
 autonym: "Taori-So"
 alt_names: [Taori, Tolitai]
 population: 335
@@ -16,5 +14,9 @@ glottolog_family_id: lake1255
 glottolog_family_name: Lakes Plain
 glottolog_classification: "Lakes Plain > Tariku > East Tariku > Doutai-Kai-Waritai > Doutai"
 wikipedia_url: "https://en.wikipedia.org/wiki/Doutai_language"
+translations:
+  - translation_iso: zho
+    name: 都陶语
+    auto: true
 ---
 Doutai is a Lakes Plain language of Irian Jaya, Indonesia. It is spoken in Toli-Dou village, located southwest of Taiyeve town.

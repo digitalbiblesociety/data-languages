@@ -1,8 +1,6 @@
 ---
 iso: abb
 name: Bankon
-name_zh: 班孔语
-name_zh_auto: true
 autonym: Abo
 alt_names: [Abaw, Bo, Bon]
 population: 12000
@@ -16,5 +14,9 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > Bantu A-B10-B20-B30 > Basaa-Yaunde (A40-70) > Basaa (A.40) > Abo-Barombi > Bankon"
 wikipedia_url: "https://en.wikipedia.org/wiki/Bankon_language"
+translations:
+  - translation_iso: zho
+    name: 班孔语
+    auto: true
 ---
 Bankon is a Bantu language spoken in the Moungo department of the Littoral Province of southwestern Cameroon. It has a lexical similarity of 86% with Rombi which is spoken in the nearby Meme department of Southwest Province.

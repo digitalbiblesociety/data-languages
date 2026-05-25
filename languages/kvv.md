@@ -1,8 +1,6 @@
 ---
 iso: kvv
 name: Kola
-name_zh: 科拉语
-name_zh_auto: true
 autonym: Kulaha
 alt_names: [Aru, Marlasi, Warilau]
 population: 7700
@@ -16,5 +14,9 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Aru > Ujir-Kola-Kompane > Kola-Kompane > Kola"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kola_language"
+translations:
+  - translation_iso: zho
+    name: 科拉语
+    auto: true
 ---
 Kola is one of the Aru languages, spoken in the northernmost part of the Aru Islands, mainly on Kola Island and in the northern and western part of Wokam Island.

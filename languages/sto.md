@@ -1,7 +1,6 @@
 ---
 iso: sto
 name: Stoney
-name_zh: 納科塔語
 autonym: Nakoda
 alt_names: [Alberta Assiniboine, Asinibóin (Estados Unidos), Assiniboin, Assiniboine, Assiniboine (Canada), "Assiniboine (États-Unis d'Amérique)", Dakota, Estoni, Nakon, Stonies, Stony]
 population: 2300
@@ -15,6 +14,11 @@ glottolog_family_id: siou1252
 glottolog_family_name: Siouan
 glottolog_classification: "Siouan > Mississippi Valley > Dakotan > Nakoda > Stoney"
 wikipedia_url: "https://en.wikipedia.org/wiki/Stoney_language"
+translations:
+  - translation_iso: jpn
+    name: ストニー語
+  - translation_iso: zho
+    name: 納科塔語
 rolv_dialects:
   - rolv_code: 16895
     language_tag: sto-x-HIS16895

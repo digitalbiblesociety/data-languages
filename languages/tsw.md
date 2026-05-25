@@ -1,8 +1,6 @@
 ---
 iso: tsw
 name: Tsishingini
-name_zh: 茨沙欣基尼语
-name_zh_auto: true
 autonym: null
 alt_names: [Ashingini, Kambari, Kamberchi, Kamberri, Salka]
 population: 100000
@@ -15,6 +13,10 @@ glottocode: tsis1238
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Kainji > Central Kainji > Kambari-Cicipu > Kambaric > East Kambaric > Salka-Tsishingini"
+translations:
+  - translation_iso: zho
+    name: 茨沙欣基尼语
+    auto: true
 rolv_dialects:
   - rolv_code: 17665
     language_tag: tsw-x-HIS17665

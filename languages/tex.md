@@ -1,8 +1,6 @@
 ---
 iso: tex
 name: Tennet
-name_zh: 特内特语
-name_zh_auto: true
 autonym: Tenet
 population: 10000
 country_id: SS
@@ -15,5 +13,9 @@ glottolog_family_id: surm1244
 glottolog_family_name: Surmic
 glottolog_classification: "Surmic > South Surmic > Southwest Surmic > Didinga-Murle > Tennet"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tennet_language"
+translations:
+  - translation_iso: zho
+    name: 特内特语
+    auto: true
 ---
 Tennet is a Surmic language spoken by the Tennet people in South Sudan. The Tennet home area is a group of fifteen (15) villages at the northern part of Eastern Equatoria state, 65 kilometers northeast of Torit.

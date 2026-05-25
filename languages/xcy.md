@@ -1,8 +1,6 @@
 ---
 iso: xcy
 name: Cayuse
-name_zh: 凯尤斯语
-name_zh_auto: true
 autonym: Liksiyu
 alt_names: [Cailloux, Idioma cayuse, Willetpoos, Каюсе]
 population: null
@@ -13,5 +11,9 @@ latitude: 46.113611
 longitude: -117.940064
 glottocode: cayu1241
 wikipedia_url: "https://en.wikipedia.org/wiki/Cayuse_language"
+translations:
+  - translation_iso: zho
+    name: 凯尤斯语
+    auto: true
 ---
 Cayuse is an extinct language isolate once spoken by the Cayuse people of Oregon.

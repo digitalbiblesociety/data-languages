@@ -1,8 +1,6 @@
 ---
 iso: tmc
 name: Tumak
-name_zh: 图玛克语
-name_zh_auto: true
 autonym: null
 alt_names: [Dije, Sara Toumak, Toumak, Tumac, Tumag, Tummok]
 population: 25200
@@ -16,6 +14,12 @@ glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > East Chadic > East Chadic A > East Chadic A.1 > Sumrayic > Ndam-Tumak > Tumak"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tumak_language"
+translations:
+  - translation_iso: ara
+    name: تيماك
+  - translation_iso: zho
+    name: 图玛克语
+    auto: true
 rolv_dialects:
   - rolv_code: 17762
     language_tag: tmc-x-HIS17762

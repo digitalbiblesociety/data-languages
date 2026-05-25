@@ -1,7 +1,6 @@
 ---
 iso: jav
 name: Javanese
-name_zh: 爪哇语
 autonym: ꦧꦱꦗꦮباسا جاوا
 alt_names: [Bahasa Banyumasan, Banjumasa lingvo, Banyumasan, Banyumasan language, Basa Banyumasan, Djawa, Java, Javanic, Javanisch, Jawa, Język banjumasański, Kawi, javanais, Банюмасанский язык, ภาษาบันยูมาซัน, ባኙማሳን, バニュマス語]
 population: 68300000
@@ -16,6 +15,17 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Javanesic > Modern Javanese > Global Javanese > Javanese"
 wikipedia_url: "https://en.wikipedia.org/wiki/Javanese_language"
+translations:
+  - translation_iso: ara
+    name: الجاوية
+  - translation_iso: hin
+    name: जावा भाषा
+  - translation_iso: jpn
+    name: ジャワ語
+  - translation_iso: kor
+    name: 자와어
+  - translation_iso: zho
+    name: 爪哇语
 rolv_dialects:
   - rolv_code: 1157
     language_tag: jv-x-HIS01157

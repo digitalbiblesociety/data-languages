@@ -1,7 +1,6 @@
 ---
 iso: ega
 name: Ega
-name_zh: 艾嘉語
 autonym: Diés
 alt_names: [Egwa]
 population: 2500
@@ -15,5 +14,10 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Ega"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ega_language"
+translations:
+  - translation_iso: jpn
+    name: エガ語
+  - translation_iso: zho
+    name: 艾嘉語
 ---
 Ega, also known as Egwa and Diès, is a West African language spoken in south-central Ivory Coast. It appears to be a Kwa language of uncertain affiliation.

@@ -1,8 +1,6 @@
 ---
 iso: tdl
 name: Sur
-name_zh: 苏尔语
-name_zh_auto: true
 autonym: Tapshin
 alt_names: [Dishili, Myet, Nsur, Suru, Tapshinawa]
 population: 5000
@@ -16,6 +14,10 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Benue-Congo Plateau > Tarokoid > Bijimic-Sur-Shall > Sur"
 wikipedia_url: "https://en.wikipedia.org/wiki/Sur%E2%80%93Myet_language"
+translations:
+  - translation_iso: zho
+    name: 苏尔语
+    auto: true
 rolv_dialects:
   - rolv_code: 23920
     language_tag: tdl-x-HIS23920

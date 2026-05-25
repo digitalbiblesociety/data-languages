@@ -1,8 +1,6 @@
 ---
 iso: sse
 name: Balangingi
-name_zh: 巴兰金吉语
-name_zh_auto: true
 autonym: Bajau
 alt_names: [Bangingih Sama, Sama (Balangingi), Sama (North), Sama (Northern), "Sama, Bangingih"]
 population: 85000
@@ -15,6 +13,10 @@ glottocode: bala1311
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Basap-Greater Barito > Greater Barito linkage > Sama-Bajaw > Sulu-Borneo > Inner Sulu Sama > Balangingi"
+translations:
+  - translation_iso: zho
+    name: 巴兰金吉语
+    auto: true
 rolv_dialects:
   - rolv_code: 16231
     language_tag: sse-x-HIS16231

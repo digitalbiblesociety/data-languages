@@ -1,8 +1,6 @@
 ---
 iso: dir
 name: Dirim
-name_zh: 迪里姆语
-name_zh_auto: true
 autonym: Daka
 alt_names: [Dakka, Dirin, Dirrim]
 population: 9000
@@ -15,4 +13,8 @@ glottocode: diri1253
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Northern Bantoid > Dakoid > Taram-Dirim-Nnakenyare > Dirim-Nnakenyare > Jirim"
+translations:
+  - translation_iso: zho
+    name: 迪里姆语
+    auto: true
 ---

@@ -1,8 +1,6 @@
 ---
 iso: mcx
 name: Mpiemo
-name_zh: 姆皮埃莫语
-name_zh_auto: true
 autonym: Mbimu
 alt_names: [Bimu, Mbimou, Mbyemo, Mpo, Mpyemo]
 population: 24000
@@ -16,6 +14,10 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > Bantu A-B10-B20-B30 > Makaa-Kako (A.80-90) > Makaa-Njem (A.80) > Mpoic > Mpiemo-Ukhwejo > Mpiemo"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mpiemo_language"
+translations:
+  - translation_iso: zho
+    name: 姆皮埃莫语
+    auto: true
 rolv_dialects:
   - rolv_code: 14331
     language_tag: mcx-x-HIS14331

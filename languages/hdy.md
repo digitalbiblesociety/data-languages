@@ -1,8 +1,6 @@
 ---
 iso: hdy
 name: Hadiyya
-name_zh: 哈迪亚语
-name_zh_auto: true
 autonym: Adea
 alt_names: [Adiya, Adiye, Hadia, Hadiya, Hadiyya hizkuntza, Hadya, Język hadija, Lingua hadiya, Língua hadia]
 population: 1840000
@@ -16,6 +14,12 @@ glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Cushitic > East Cushitic > Highland East Cushitic > Sidaama-Hadiyya-Kambaata > Hadiyya-Kambaata > Hadiyyaic > Hadiyya"
 wikipedia_url: "https://en.wikipedia.org/wiki/Hadiyya_language"
+translations:
+  - translation_iso: jpn
+    name: ハディヤ語
+  - translation_iso: zho
+    name: 哈迪亚语
+    auto: true
 rolv_dialects:
   - rolv_code: 10510
     language_tag: hdy-x-HIS10510

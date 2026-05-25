@@ -1,7 +1,6 @@
 ---
 iso: caa
 name: Chortí
-name_zh: 渚庐递语
 autonym: Chʼortiʼ
 alt_names: [Apay, "Ch'orti", "Ch'orti'", "Ch'orti' language", "Ch'ortí", Chorti, Chortí (Honduras), "Ch’orti' (Guatemala)", "Ch’orti' (Honduras)", Idioma chortí, Língua chorti, Чортиски јазик, 奇奧蒂語]
 population: 16700
@@ -15,5 +14,12 @@ glottolog_family_id: maya1287
 glottolog_family_name: Mayan
 glottolog_classification: "Mayan > Core Mayan > Western Mayan > Cholan-Tzeltalan > Cholan > Chorti-Cholti > Ch'orti'"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ch%CA%BCorti%CA%BC_language"
+translations:
+  - translation_iso: jpn
+    name: チョルティ語
+  - translation_iso: kor
+    name: 초르티어
+  - translation_iso: zho
+    name: 渚庐递语
 ---
 The Chʼortiʼ language is a Mayan language, spoken by the indigenous Maya people who are also known as the Chʼortiʼ or Chʼortiʼ Maya. Chʼortiʼ is a direct descendant of the Classic Maya language in which many of the pre-Columbian inscriptions using the Maya script were written. Chʼortiʼ is the modern version of the ancient Mayan language Chʼolan.

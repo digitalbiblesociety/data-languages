@@ -1,7 +1,6 @@
 ---
 iso: ace
 name: Achinese
-name_zh: 亚齐语
 autonym: Basa Acèh
 alt_names: [Aceh, Acehnese, Acehnese language, Acehnesiska, Aceh’n kieli, Achehnese, Achen, Atjeh, Atjehnese, Atjehs, Atschin, Aĉea lingvo, Bahasa Aceh, Bahsa Acèh, Basa Aceh, Idioma achenés, Język aceh, Lingua achinesa, Língua achém, Ачехский язык, আচে ভাষা, ภาษาอาเจะห์, アチェ語]
 population: 3500000
@@ -16,6 +15,17 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Malayo-Chamic > Aceh-Chamic > Acehnese"
 wikipedia_url: "https://en.wikipedia.org/wiki/Acehnese_language"
+translations:
+  - translation_iso: ara
+    name: الآتشيهية
+  - translation_iso: hin
+    name: आचेही भाषा
+  - translation_iso: jpn
+    name: アチェ語
+  - translation_iso: kor
+    name: 아체어
+  - translation_iso: zho
+    name: 亚齐语
 rolv_dialects:
   - rolv_code: 6651
     language_tag: ace-x-HIS06651

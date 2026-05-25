@@ -1,7 +1,6 @@
 ---
 iso: cub
 name: Cubeo
-name_zh: 库比奥语
 autonym: pãmié
 alt_names: [Cubeo (Brésil), Cubeo (Colombia), Cubeo (Colombie), Cubeu, Cuveo, Hahänana, Hehenawa, Kobeua, Kobewa, Kobéwa, Kubeo, Kubewa, Kubwa, Pamiwa, Pamié]
 population: 6260
@@ -15,5 +14,8 @@ glottolog_family_id: tuca1253
 glottolog_family_name: Tucanoan
 glottolog_classification: "Tucanoan > Eastern Tucanoan > Western Eastern Tucanoan > Cubeo-Desano > Cubeo"
 wikipedia_url: "https://en.wikipedia.org/wiki/Cubeo_language"
+translations:
+  - translation_iso: zho
+    name: 库比奥语
 ---
 The Cubeo language is the language spoken by the Cubeo people in the Vaupés Department, the Cuduyari and Querarí Rivers and their tributaries in Colombia, and in Brazil and Venezuela. It is a member of the central branch of the Tucanoan languages. Cubeo has borrowed a number of words from the Nadahup languages, and its grammar has apparently been influenced by Arawak languages. The language has been variously described as having a subject–object–verb or an object–verb–subject word order, the latter very rare cross-linguistically. It is sometimes called Pamiwa, the ethnic group's autonym, but it is not to be confused with the Pamigua language, sometimes called Pamiwa.

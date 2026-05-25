@@ -1,7 +1,6 @@
 ---
 iso: sjp
 name: Surjapuri
-name_zh: 苏尔贾普里语
 autonym: Sura
 alt_names: [Chaupal, Choupal, Suraji, Surajpuri]
 population: 2260000
@@ -15,6 +14,15 @@ glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Indo-Aryan > Middle-Modern Indo-Aryan > Continental Indo-Aryan > Indo-Aryan Eastern zone > Oriya-Gauda-Kamrupa > Gauda-Kamrupa > Kamrupa > Kamta > Western Kamta > Surjapuri"
 wikipedia_url: "https://en.wikipedia.org/wiki/Surjapuri_language"
+translations:
+  - translation_iso: ara
+    name: لغة سورجابورية
+  - translation_iso: hin
+    name: सूरजापुरी भाषा
+  - translation_iso: jpn
+    name: スルジャプリ語
+  - translation_iso: zho
+    name: 苏尔贾普里语
 rolv_dialects:
   - rolv_code: 30256
     language_tag: sjp-x-HIS30256

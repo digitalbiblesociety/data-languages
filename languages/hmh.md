@@ -1,8 +1,6 @@
 ---
 iso: hmh
 name: Southwestern Huishui Hmong
-name_zh: 西南惠水苗语
-name_zh_auto: true
 autonym: Mhong
 alt_names: [Hmo, Hmong, "Hmong, Southwestern Huishui", Hmung, Hsiung, Hunan Miao, Miao, "Miao, Southwestern Huishui", Southwestern Huishui Miao]
 population: 56000
@@ -15,4 +13,10 @@ glottocode: sout2755
 glottolog_family_id: hmon1336
 glottolog_family_name: Hmong-Mien
 glottolog_classification: "Hmong-Mien > Hmongic > Nuclear Hmongic-Ho Ne > Nuclear Hmongic > West Hmongic > Greater Chuanqiandian > Huishui > Southwestern Huishui Hmong"
+translations:
+  - translation_iso: jpn
+    name: 南西部恵水フモン語
+  - translation_iso: zho
+    name: 西南惠水苗语
+    auto: true
 ---

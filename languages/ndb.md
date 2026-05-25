@@ -1,8 +1,6 @@
 ---
 iso: ndb
 name: Kenswei Nsei
-name_zh: 肯西韦恩塞伊语
-name_zh_auto: true
 autonym: Kenswei Nsei
 alt_names: [Bamessing, Befi, Calebasses, Kensense, Melamba, Mesing, Ndop-Bamessing, Nsei, Veteng, Vetweng]
 population: 25000
@@ -16,5 +14,9 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Wide Grassfields > Narrow Grassfields > Ring > South Ring > Babungoic > Kenswei Nsei"
 wikipedia_url: "https://en.wikipedia.org/wiki/Nsei_language"
+translations:
+  - translation_iso: zho
+    name: 肯西韦恩塞伊语
+    auto: true
 ---
 Kenswei Nsei (Kensense), also Nsei or Mesing (Bamessing), is a Grassfields Bantu language of Cameroon.

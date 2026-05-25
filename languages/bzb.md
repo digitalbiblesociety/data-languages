@@ -1,8 +1,6 @@
 ---
 iso: bzb
 name: Andio
-name_zh: 安迪奥语
-name_zh_auto: true
 autonym: Masama
 alt_names: ["Andio'o", "Imbao'o"]
 population: 1700
@@ -16,5 +14,9 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Celebic > Greater Eastern Celebic > Eastern Celebic > Saluan-Banggai > Western Saluan-Banggai > Andio"
 wikipedia_url: "https://en.wikipedia.org/wiki/Andio_language"
+translations:
+  - translation_iso: zho
+    name: 安迪奥语
+    auto: true
 ---
 Andio (Andio’o), or Masama, is an Austronesian language spoken at the tip of the eastern peninsula of the island of Sulawesi, Indonesia. It belongs to the Saluan–Banggai branch of the Celebic subgroup.

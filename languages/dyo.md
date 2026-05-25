@@ -1,7 +1,6 @@
 ---
 iso: dyo
 name: "Jola-Fonyi"
-name_zh: 喬拉-福尼語
 autonym: kujóolay
 alt_names: [Diola, Diola Fogny, Diola-Fogny, Dyola, Fogny, Jola, Jola-Fogny, Jóola, Kujamataak, Kújoolaak Kati Fooñi]
 population: 457000
@@ -16,6 +15,17 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > North-Central Atlantic > Central Atlantic > Bak > Joola-Manjaku > Jola > Jola-Fonyi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Jola-Fonyi_language"
+translations:
+  - translation_iso: ara
+    name: جولا فونيا
+  - translation_iso: hin
+    name: जोला-फोंई
+  - translation_iso: jpn
+    name: ジョラ＝フォニィ語
+  - translation_iso: kor
+    name: 졸라 포니어
+  - translation_iso: zho
+    name: 喬拉-福尼語
 rolv_dialects:
   - rolv_code: 11181
     language_tag: dyo-x-HIS11181

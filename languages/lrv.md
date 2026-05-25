@@ -1,8 +1,6 @@
 ---
 iso: lrv
 name: Larevat
-name_zh: 拉雷瓦特语
-name_zh_auto: true
 autonym: Laravat
 alt_names: [Larëvat, Mallicolo]
 population: 680
@@ -16,5 +14,9 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > North and Central Vanuatu > Central Vanuatu > Malakula > Western Malakula linkage > Central-Western Malakula > Larevat"
 wikipedia_url: "https://en.wikipedia.org/wiki/Lar%C3%ABvat_language"
+translations:
+  - translation_iso: zho
+    name: 拉雷瓦特语
+    auto: true
 ---
 Larëvat is an Oceanic language of central Malekula, Vanuatu.

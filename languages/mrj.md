@@ -1,7 +1,6 @@
 ---
 iso: mrj
 name: Western Mari
-name_zh: 山地馬里語
 autonym: Кырык мары йӹлмӹ
 alt_names: [Bergdialekt, Bergtscheremissisch, Bergčeremissisch, Cheremis, Cheremiss, Cheremissian, Gorno-Mariy, High Mari, Hill Cheremis, Hill Cheremiss, Hill Mari, Mari, Mari (High), Mari (Hill), Mari occidental, "Mari, Western", Mari-Hills, Marí occidental, More, Mountain dialect, Szeremissi, Tscheremissisch, Western, Western Cheremis, gornomarijskij jazyk, lugovo-vostočnyi marijskij jazyk, marij jylme, marijcy, marijskij jazyk, tchérémisse, vuorimari, western group, westliches Mundartgebiet, Čeremissisch, горномарийский язык, кырык мары]
 population: 30000
@@ -16,6 +15,13 @@ glottolog_family_id: ural1272
 glottolog_family_name: Uralic
 glottolog_classification: "Uralic > Mari > Western Mari"
 wikipedia_url: "https://en.wikipedia.org/wiki/Hill_Mari_language"
+translations:
+  - translation_iso: jpn
+    name: 山地マリ語
+  - translation_iso: kor
+    name: 산지 마리어
+  - translation_iso: zho
+    name: 山地馬里語
 rolv_dialects:
   - rolv_code: 13726
     language_tag: mrj-x-HIS13726

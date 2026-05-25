@@ -1,7 +1,6 @@
 ---
 iso: etr
 name: Edolo
-name_zh: 艾托羅語
 autonym: null
 alt_names: [Beami, Edolo Ado, Etolo, Etoro, Tomu, Toro]
 population: 1670
@@ -15,6 +14,9 @@ glottolog_family_id: bosa1245
 glottolog_family_name: Bosavi
 glottolog_classification: "Bosavi > Etoro-Bedamini > Edolo"
 wikipedia_url: "https://en.wikipedia.org/wiki/Edolo_language"
+translations:
+  - translation_iso: zho
+    name: 艾托羅語
 rolv_dialects:
   - rolv_code: 3931
     language_tag: beo-x-HIS03931

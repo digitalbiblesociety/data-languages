@@ -1,7 +1,6 @@
 ---
 iso: fon
 name: Fon
-name_zh: 豐語
 autonym: fɔ̀ngbè/fõbè
 alt_names: [Dahomeen, Djedji, Fo, Fogbe, Fon-gbe, Foneg, Fongbe, Fonnu, Fonua lingvo, Język fon, Língua fon]
 population: 2067900
@@ -16,6 +15,17 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Kwa Volta-Congo > Gbe > Eastern Gbe > Fongbeic > Fon"
 wikipedia_url: "https://en.wikipedia.org/wiki/Fon_language"
+translations:
+  - translation_iso: ara
+    name: الفون
+  - translation_iso: hin
+    name: फोन भाषा
+  - translation_iso: jpn
+    name: フォン語
+  - translation_iso: kor
+    name: 폰어
+  - translation_iso: zho
+    name: 豐語
 rolv_dialects:
   - rolv_code: 9853
     language_tag: fon-x-HIS09853

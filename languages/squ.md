@@ -1,7 +1,6 @@
 ---
 iso: squ
 name: Squamish
-name_zh: 斯阔米什语
 autonym: Sḵwx̱wú7mesh sníchim
 alt_names: [Esquihuamés, SKwXwu7mesh snichim, Skwxwu7mesh, Sk̲wx̲wú7mesh, Squamish (Sqxwu7mish), Squawmisht, Sqwxwumish, Sḵwx̱wú7mesh sníchim (Squamish), sqʷxʷúʔməš]
 population: 2300
@@ -15,5 +14,10 @@ glottolog_family_id: sali1255
 glottolog_family_name: Salishan
 glottolog_classification: "Salishan > Coast Salish > Central Salish > South Georgia Central Salish > Squamish"
 wikipedia_url: "https://en.wikipedia.org/wiki/Squamish_language"
+translations:
+  - translation_iso: jpn
+    name: スクォミッシ語
+  - translation_iso: zho
+    name: 斯阔米什语
 ---
 Squamish is a Coast Salish language spoken by the Squamish people of the Pacific Northwest. It is spoken in southwestern British Columbia, Canada, centred on their reserve communities in Squamish, North Vancouver, and West Vancouver. An archaic historical rendering of the native Sḵwx̱wú7mesh is Sko-ko-mish but this should not be confused with the name of the Skokomish people of Washington state. Squamish is most closely related to the Sechelt, Halkomelem, and Nooksack languages.

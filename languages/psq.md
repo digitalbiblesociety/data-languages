@@ -1,8 +1,6 @@
 ---
 iso: psq
 name: Pasi
-name_zh: 帕西语
-name_zh_auto: true
 autonym: Besi
 alt_names: [Warasai, Yau]
 population: 360
@@ -16,5 +14,9 @@ glottolog_family_id: sepi1257
 glottolog_family_name: Sepik
 glottolog_classification: "Sepik > Sepik Tama > Mayo-Pasi > Yimin-Bel > Pasi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Pasi_language"
+translations:
+  - translation_iso: zho
+    name: 帕西语
+    auto: true
 ---
 Pasi is a Sepik language of Sandaun Province, Papua New Guinea.

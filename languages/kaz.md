@@ -1,7 +1,6 @@
 ---
 iso: kaz
 name: Kazakh
-name_zh: 哈萨克语
 autonym: Kazak
 alt_names: [An Chasaicis, Bahasa Kazak, Cazac, Gazaqi, Gjuha kazake, Hazake, Idioma cazaco, Idioma kazajo, Język kazachski, Kaisak, Kasachische Sprache, Kasahhi keel, Kasakhisk, Kasakska, Kazachs, Kazachsko godka, Kazachų kalba, Kazahu valoda, Kazakeg, Kazakhi, Kazakin kieli, Kazakiska, Kazakça, Kazax, Kazaĥa lingvo, Kazaština, Kazaščina, Kikazakhi, Kosach, Limba kazahă, Lingua Casachica, Lingua casaca, Lingua kazaka, Língua cazaque, Qasaq simi, Qazah tili, Qazaq, Qazaq tele, Qazaq tili, Qazaqi, Qazax dili, Qozoq tili, Èdè Kàsákhì, Забони қазоқӣ, Казак тили, Казак хэл, Казаская мова, Казах тыла, Казах чĕлхи, Казахская мова, Казахски език, Казахский язык, Казахська мова, Казашки јазик, Хасаг хэлэн, Қазақ тілі, Ҡазаҡ теле, קזחית, زبان قزاقی, قازاق تىلى, لغة كازاخية, कजाक भाषा, কাজাখ ভাষা, ภาษาคาซัค, ყაზახური ენა, カザフ語, 哈萨克语, 카자흐어]
 population: 12900000
@@ -16,6 +15,17 @@ glottolog_family_id: turk1311
 glottolog_family_name: Turkic
 glottolog_classification: "Turkic > Common Turkic > Kipchak-Turkestan > Kipchak > Southeast Kipchak > South Kipchak > Kazakh"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kazakh_language"
+translations:
+  - translation_iso: ara
+    name: القزاقية
+  - translation_iso: hin
+    name: कज़ाख़ भाषा
+  - translation_iso: jpn
+    name: カザフ語
+  - translation_iso: kor
+    name: 카자흐어
+  - translation_iso: zho
+    name: 哈萨克语
 rolv_dialects:
   - rolv_code: 11755
     language_tag: kk-x-HIS11755

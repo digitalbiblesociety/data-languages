@@ -1,8 +1,6 @@
 ---
 iso: dui
 name: Dumun
-name_zh: 杜蒙语
-name_zh_auto: true
 autonym: Bai
 population: 120
 country_id: PG
@@ -15,5 +13,9 @@ glottolog_family_id: nucl1709
 glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Madang > Rai Coast > Greater Yaganon > Yaganon > Dumun"
 wikipedia_url: "https://en.wikipedia.org/wiki/Dumun_language"
+translations:
+  - translation_iso: zho
+    name: 杜蒙语
+    auto: true
 ---
 Dumun is an endangered Madang language spoken in Madang Province, Papua New Guinea.

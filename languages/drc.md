@@ -1,8 +1,6 @@
 ---
 iso: drc
 name: Minderico
-name_zh: 米恩德里科语
-name_zh_auto: true
 autonym: Piação do Ninhou
 alt_names: [Minde]
 population: 500
@@ -16,5 +14,9 @@ glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Italic > Latino-Faliscan > Latinic > Imperial Latin > Romance > Italo-Western Romance > Western Romance > Shifted Western Romance > Southwestern Shifted Romance > West Ibero-Romance > Galician Romance > Minderico"
 wikipedia_url: "https://en.wikipedia.org/wiki/Minderico_language"
+translations:
+  - translation_iso: zho
+    name: 米恩德里科语
+    auto: true
 ---
 Minderico, also known as Piação do Ninhou, was originally a sociolect or a secret language spoken by textile producers and traders in the freguesia of Minde.

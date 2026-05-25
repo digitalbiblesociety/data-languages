@@ -1,8 +1,6 @@
 ---
 iso: anl
 name: "Anu-Hkongso Chin"
-name_zh: 安努-恒贡索秦语
-name_zh_auto: true
 autonym: "Anu "
 alt_names: [Añú, "Chin, Anu-Hkongso"]
 population: 4000
@@ -16,6 +14,10 @@ glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Mruic > Anu-Hkongso"
 wikipedia_url: "https://en.wikipedia.org/wiki/Anu-Hkongso_language"
+translations:
+  - translation_iso: zho
+    name: 安努-恒贡索秦语
+    auto: true
 rolv_dialects:
   - rolv_code: 23812
     language_tag: anl-x-HIS23812

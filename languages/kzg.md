@@ -1,7 +1,6 @@
 ---
 iso: kzg
 name: Kikai
-name_zh: 喜界語
 autonym: シマユミタ
 alt_names: [Ryukyuan]
 population: 13066
@@ -15,6 +14,13 @@ glottolog_family_id: japo1237
 glottolog_family_name: Japonic
 glottolog_classification: "Japonic > Ryukyuan > Northern Ryukyuan > Amami > Kikai"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kikai_language"
+translations:
+  - translation_iso: jpn
+    name: 喜界島方言
+  - translation_iso: kor
+    name: 키카이 방언
+  - translation_iso: zho
+    name: 喜界語
 rolv_dialects:
   - rolv_code: 11996
     language_tag: kzg-x-HIS11996

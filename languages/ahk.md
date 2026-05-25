@@ -1,7 +1,6 @@
 ---
 iso: ahk
 name: Akha
-name_zh: 阿卡语
 autonym: "Akha "
 alt_names: [Ahka, Aini, "Ak'a", Aka, Ako, Asong, Bahasa Akha, Ekaw, Hka Ko, Ikaw, Ikor, Kaw, Kha Ko, Khako, Khao Kha Ko, Khao Khao Ikor, Ko, Yani]
 population: 616600
@@ -15,6 +14,11 @@ glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Burmo-Qiangic > Lolo-Burmese > Loloish > Hani-Jino > Bisoid-Hanic > Hanic > Ha-Ya > Akhaic > Akha"
 wikipedia_url: "https://en.wikipedia.org/wiki/Akha_language"
+translations:
+  - translation_iso: jpn
+    name: アカ語
+  - translation_iso: zho
+    name: 阿卡语
 rolv_dialects:
   - rolv_code: 3127
     language_tag: ahk-x-HIS03127

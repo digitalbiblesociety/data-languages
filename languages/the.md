@@ -1,8 +1,6 @@
 ---
 iso: the
 name: Chitwania Tharu
-name_zh: 奇特瓦尼亚塔鲁语
-name_zh_auto: true
 autonym: (polyphyletic)
 alt_names: [Chitawan Tharu, Chituan Tharu, "Tharu, Chitwania"]
 population: 285000
@@ -15,6 +13,10 @@ glottocode: chit1274
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Indo-Aryan > Middle-Modern Indo-Aryan > Continental Indo-Aryan > Midlands Indo-Aryan > Shaurasenic > Bihari > Tharuic > Eastern Tharu > Chitwania Tharu"
+translations:
+  - translation_iso: zho
+    name: 奇特瓦尼亚塔鲁语
+    auto: true
 rolv_dialects:
   - rolv_code: 2688
     language_tag: the-x-HIS02688

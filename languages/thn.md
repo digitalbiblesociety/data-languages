@@ -1,8 +1,6 @@
 ---
 iso: thn
 name: Thachanadan
-name_zh: 塔恰纳丹语
-name_zh_auto: true
 autonym: Moopan
 population: 3000
 country_id: IN
@@ -15,5 +13,9 @@ glottolog_family_id: drav1251
 glottolog_family_name: Dravidian
 glottolog_classification: "Dravidian > South Dravidian > South Dravidian I > Tamil-Kannada > Tamil-Kota > Tamil-Toda > Tamil-Irula > Tamil-Kodagu > Tamil-Malayalam > Malayalamoid > Thachanadan"
 wikipedia_url: "https://en.wikipedia.org/wiki/Thachanadan_language"
+translations:
+  - translation_iso: zho
+    name: 塔恰纳丹语
+    auto: true
 ---
 Thachanadan is a Southern Dravidian language spoken by Thachanad Muppans tribe of India. Dissimilar to other Dravidian languages, its most likely affinities are to Mullu Kurumba, with which it has 66-72% lexical similarity.

@@ -1,8 +1,6 @@
 ---
 iso: pbo
 name: Papel
-name_zh: 帕佩尔语
-name_zh_auto: true
 autonym: Moium
 alt_names: [Oium, Papei, Pepel]
 population: 173500
@@ -16,6 +14,10 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > North-Central Atlantic > Central Atlantic > Bak > Joola-Manjaku > Manjaku-Mankanya-Pepel > Cur-Bok-Cotier > Papel"
 wikipedia_url: "https://en.wikipedia.org/wiki/Papel_language"
+translations:
+  - translation_iso: zho
+    name: 帕佩尔语
+    auto: true
 rolv_dialects:
   - rolv_code: 1672
     language_tag: pbo-x-HIS01672

@@ -1,8 +1,6 @@
 ---
 iso: puw
 name: Puluwatese
-name_zh: 普卢瓦特语
-name_zh_auto: true
 autonym: Puluwat
 alt_names: [Carolinian]
 population: 1360
@@ -16,6 +14,12 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Micronesian > Central Micronesian > Western Micronesian > Chuukic-Ponapeic > Trukic > Nuclear Trukic > Central Trukic > Eastern Trukic > Puluwatese-Pollapese > Puluwatese"
 wikipedia_url: "https://en.wikipedia.org/wiki/Puluwat_language"
+translations:
+  - translation_iso: jpn
+    name: プルワット語
+  - translation_iso: zho
+    name: 普卢瓦特语
+    auto: true
 rolv_dialects:
   - rolv_code: 15788
     language_tag: puw-x-HIS15788

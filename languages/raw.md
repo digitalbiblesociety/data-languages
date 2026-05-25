@@ -1,7 +1,6 @@
 ---
 iso: raw
 name: Rawang
-name_zh: 侬日旺语
 autonym: " Rvwang"
 alt_names: ["Ch'opa", Chiutse, Ganung-Rawang, Hkanung, Kanung, Kiutze, Krangku, Lungmi, Nu-tzŭ, Numg, Nung, Nung Rawang, Qiuze, Rawang (Mixed), Taron, Zithung]
 population: 63000
@@ -15,6 +14,11 @@ glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Nungish > Rawang"
 wikipedia_url: "https://en.wikipedia.org/wiki/Rawang_language"
+translations:
+  - translation_iso: jpn
+    name: ラワン語
+  - translation_iso: zho
+    name: 侬日旺语
 rolv_dialects:
   - rolv_code: 982
     language_tag: raw-x-HIS00982

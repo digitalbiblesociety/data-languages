@@ -1,7 +1,6 @@
 ---
 iso: bap
 name: Bantawa
-name_zh: 班塔瓦語
 autonym: Bantaba
 alt_names: [Bantawa Dum, Bantawa Rai, Bantawa Yong, Bantawa YÃ¼ng, Bantawa Yüng, Bantawaish, Bantaweg, Bontawa, Kiranti, Rai, Rungchenbung, Rungchengbung, Rungchhenbung, Rungtśhenbung]
 population: 166600
@@ -16,6 +15,13 @@ glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Himalayish > Mahakiranti > Kiranti > Eastern Kiranti > Southern Kiranti > Bantawic > Bantawa"
 wikipedia_url: "https://en.wikipedia.org/wiki/Bantawa_language"
+translations:
+  - translation_iso: hin
+    name: बंतावा भाषा
+  - translation_iso: jpn
+    name: バンタワ語
+  - translation_iso: zho
+    name: 班塔瓦語
 rolv_dialects:
   - rolv_code: 3229
     language_tag: bap-x-HIS03229

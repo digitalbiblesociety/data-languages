@@ -1,8 +1,6 @@
 ---
 iso: pma
 name: Paama
-name_zh: 帕玛语
-name_zh_auto: true
 autonym: Paama
 alt_names: [Paama-Lopevi, Paaman kieli, Paamese, Paamese of Vanuatu, Pauma]
 population: 6000
@@ -16,6 +14,10 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > North and Central Vanuatu > Central Vanuatu > Paama"
 wikipedia_url: "https://en.wikipedia.org/wiki/Paamese_language"
+translations:
+  - translation_iso: zho
+    name: 帕玛语
+    auto: true
 rolv_dialects:
   - rolv_code: 4477
     language_tag: pma-x-HIS04477

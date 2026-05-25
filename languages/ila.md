@@ -1,8 +1,6 @@
 ---
 iso: ila
 name: Ile Ape
-name_zh: 伊莱阿佩语
-name_zh_auto: true
 autonym: Nusa Tadon
 population: 15000
 country_id: ID
@@ -15,6 +13,10 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Bima-Lembata > Flores > Flores-Lembata > Lamaholot Barat > North Lembata-Adonara > Ile Ape"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ile_Ape_language"
+translations:
+  - translation_iso: zho
+    name: 伊莱阿佩语
+    auto: true
 rolv_dialects:
   - rolv_code: 10870
     language_tag: ila-x-HIS10870

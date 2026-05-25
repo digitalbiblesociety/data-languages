@@ -1,8 +1,6 @@
 ---
 iso: aob
 name: Abom
-name_zh: 阿邦语
-name_zh_auto: true
 autonym: null
 alt_names: [Abom language]
 population: null
@@ -16,5 +14,9 @@ glottolog_family_id: anim1240
 glottolog_family_name: Anim
 glottolog_classification: "Anim > Tirio > Abom"
 wikipedia_url: "https://en.wikipedia.org/wiki/Abom_language"
+translations:
+  - translation_iso: zho
+    name: 阿邦语
+    auto: true
 ---
 Abom is a nearly extinct language spoken in the Western Province of Papua New Guinea. According to a 2002 census, only 15 people still speak this language. All of the speakers are older adults. Middle-aged adults have some understanding of it, but no children speak or understand Abom.

@@ -1,8 +1,6 @@
 ---
 iso: plo
 name: Oluta Popoluca
-name_zh: 奥卢塔波波卢卡语
-name_zh_auto: true
 autonym: Olutec
 alt_names: [Oluta, Oluta Mijean, Oluta Mixean, Oluta Popoluc, Oluteco (Popoluca de Oluta), Oluteko, Otula Popoluca, Popoluca, Popoluca (Oluta), Popoluca de Oluta, "Popoluca, Oluta"]
 population: 10000
@@ -16,5 +14,9 @@ glottolog_family_id: mixe1284
 glottolog_family_name: Mixe-Zoque
 glottolog_classification: "Mixe-Zoque > Mixe > Oluta Popoluca"
 wikipedia_url: "https://en.wikipedia.org/wiki/Oluta_Popoluca"
+translations:
+  - translation_iso: zho
+    name: 奥卢塔波波卢卡语
+    auto: true
 ---
 Oluta Popoluca also called Olutec is a moribund Mixe–Zoquean language of the Mixean branch spoken by a few elderly people in the town of Oluta in Southern Veracruz, Mexico.

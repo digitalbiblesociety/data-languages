@@ -1,7 +1,6 @@
 ---
 iso: sjc
 name: Shaojiang Chinese
-name_zh: 邵将语
 autonym: 邵將 / 邵将
 alt_names: ["Chinese, Shaojiang", Shaojiang]
 population: 850000
@@ -14,5 +13,10 @@ glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Sinitic > Min > Inland Min > Min Beic > Shaojiang Chinese"
 wikipedia_url: "https://en.wikipedia.org/wiki/Shao%E2%80%93Jiang_Min"
+translations:
+  - translation_iso: jpn
+    name: 閩贛語
+  - translation_iso: zho
+    name: 邵将语
 ---
 Shao–Jiang or Shaojiang Min is a Min Chinese language centered on Western Nanping in Northwest Fujian, specifically in the Nanping counties of Guangze, Shaowu, and Western Shunchang and the Northern Sanming county of Jiangle.

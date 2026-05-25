@@ -1,7 +1,6 @@
 ---
 iso: mey
 name: Hassaniyya
-name_zh: 哈桑语
 autonym: حسانية
 alt_names: [Arabic, Arabic (Bani-Hassan), Bahasa Hassānīya, Bedouin Dialects, Eastern Arabic, Hasaniyeg, Hasanya, Hasanya Arabic, Hassani, Hassania, Hassanija, Hassaniya, Hassaniyya Arabic, Hassaniyya arapski, Hassanya, Hassanía, Hassānīya Arabic, Klem El Bithan, Maure, Mauri, Moor, Sahrawi, Sulaka, Suraka, Suraxxé, Хасания, Хасанија арапски јазик, لهجة حسانية]
 population: 9660400
@@ -16,6 +15,15 @@ glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Semitic > West Semitic > Central Semitic > Arabian > Arabic > North African Arabic > Western Middle Arabic > Hassaniyya"
 wikipedia_url: "https://en.wikipedia.org/wiki/Hassaniya_Arabic"
+translations:
+  - translation_iso: ara
+    name: لهجة حسانية
+  - translation_iso: jpn
+    name: アラビア語ハッサニア方言
+  - translation_iso: kor
+    name: 하사니아 아랍어
+  - translation_iso: zho
+    name: 哈桑语
 rolv_dialects:
   - rolv_code: 6424
     language_tag: mey-x-HIS06424

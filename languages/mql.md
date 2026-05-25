@@ -1,8 +1,6 @@
 ---
 iso: mql
 name: Mbelime
-name_zh: 姆贝利梅语
-name_zh_auto: true
 autonym: "M'Bermè"
 alt_names: ["\"Niende\"", "\"Niendi\"", Mbilme, Nyende]
 population: 24500
@@ -16,6 +14,10 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Gur > Central Gur > Northern Central Gur > Bwamu-Oti-Volta > Oti-Volta > Nuclear Oti-Volta > Oti-Volta Oriental > Waama-Tayari-Ditammari > Tayari-Ditammari > Ditammaric > Mbelime"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mbelime_language"
+translations:
+  - translation_iso: zho
+    name: 姆贝利梅语
+    auto: true
 rolv_dialects:
   - rolv_code: 29805
     language_tag: mql-x-HIS29805

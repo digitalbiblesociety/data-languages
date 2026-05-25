@@ -1,7 +1,6 @@
 ---
 iso: vie
 name: Vietnamese
-name_zh: 越南语
 autonym: Tiếng Việt
 alt_names: [Annamese, Annamite, Bahasa Vietnam, Ching, Gin, Gjuha vietnameze, Idioma vietnamita, Jing, Język wietnamski, Kinh, Limba vietnameză, Lingua Vietnamica, Lingua vietnamita, Língua vietnamita, Oa̍t-lâm-gí, Viet, Vietnamana linguo, Vietnamca, Vietnamees, Vietnamera, Vietnamesische Sprache, Vietnamesisk, Vietnamesiska, Vietnami nyelv, Vietnamien, Vietnamiečių kalba, Vietnamin kieli, Vietnamita, Vietnamština, Vijetnamski jezik, Vjetnama lingvo, Vjetnamiešu valoda, Víetnamska, Wikang Biyetnames, Witnam simi, Ye̍t-nàm-ngî, "В'єтнамська мова", Виетнамски език, Виетнамски јазик, Вијетнамски језик, Вьетнамский язык, Забони ветнамӣ, וייטנאמית, زبان ویتنامی, فييتنامى, لغة فيتنامية, ۋيېتنام تىلى, वियतनामी भाषा, வியட்னாமிய மொழி, ವಿಯೆಟ್ನಾಮಿನ ಭಾಷೆ, ภาษาเวียดนาม, ვიეტნამური ენა, ベトナム語, 越南語, 越南语, 베트남어]
 population: 76000000
@@ -16,6 +15,17 @@ glottolog_family_id: aust1305
 glottolog_family_name: Austroasiatic
 glottolog_classification: "Austroasiatic > Vietic > Viet-Muong > Vietnamese"
 wikipedia_url: "https://en.wikipedia.org/wiki/Vietnamese_language"
+translations:
+  - translation_iso: ara
+    name: الفيتنامية
+  - translation_iso: hin
+    name: वियतनामी भाषा
+  - translation_iso: jpn
+    name: ベトナム語
+  - translation_iso: kor
+    name: 베트남어
+  - translation_iso: zho
+    name: 越南语
 rolv_dialects:
   - rolv_code: 2
     language_tag: vi-x-HIS00002

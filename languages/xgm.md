@@ -1,8 +1,6 @@
 ---
 iso: xgm
 name: Dharumbal
-name_zh: 达鲁姆巴尔语
-name_zh_auto: true
 autonym: Guwinmal
 alt_names: [Baiali, Bayali, Bieli, Biyali, Byellee, Byellel, Charumbul, Darambal, Darawal, Darumbal, Guñmal, Koinbal, Koinjmal, Kooinmarburra, Kooinmerburra, Kuinmurbara, Kungalburra, Kungmal, Mamburra, Ningebal, Orambul, Tarumbal, Tarumbul, Tharumbal, Urambal, "Wandandian (?)", Warabal, Yetimarala]
 population: null
@@ -16,6 +14,10 @@ glottolog_family_id: pama1250
 glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > Rockhampton-Gladstone > Dharumbal"
 wikipedia_url: "https://en.wikipedia.org/wiki/Darumbal_language"
+translations:
+  - translation_iso: zho
+    name: 达鲁姆巴尔语
+    auto: true
 rolv_dialects:
   - rolv_code: 25761
     language_tag: xgm-x-HIS25761

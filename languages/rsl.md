@@ -1,8 +1,6 @@
 ---
 iso: rsl
 name: Russian Sign Language
-name_zh: 俄罗斯手语
-name_zh_auto: true
 autonym: Русский Жестовый Язык
 alt_names: [Russisk tegnspråk]
 population: 909000
@@ -16,6 +14,14 @@ glottolog_family_id: sign1238
 glottolog_family_name: Sign Language
 glottolog_classification: "Sign Language > L1 Sign Language > RSLic > Nuclear RSLic > Central RSLic > Russian-Tajik Sign Language"
 wikipedia_url: "https://en.wikipedia.org/wiki/Russian_Sign_Language"
+translations:
+  - translation_iso: hin
+    name: रूसी सांकेतिक भाषा
+  - translation_iso: jpn
+    name: ロシア手話
+  - translation_iso: zho
+    name: 俄罗斯手语
+    auto: true
 rolv_dialects:
   - rolv_code: 28679
     language_tag: rsl-x-HIS28679

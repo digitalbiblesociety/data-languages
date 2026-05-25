@@ -1,8 +1,6 @@
 ---
 iso: kiy
 name: Kirikiri
-name_zh: 基里基里语
-name_zh_auto: true
 autonym: Faia
 alt_names: [Kirira]
 population: 250
@@ -16,6 +14,10 @@ glottolog_family_id: lake1255
 glottolog_family_name: Lakes Plain
 glottolog_classification: "Lakes Plain > Tariku > West Tariku > Fayu-Kirikiri > Kirikiri"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kirikiri_language"
+translations:
+  - translation_iso: zho
+    name: 基里基里语
+    auto: true
 rolv_dialects:
   - rolv_code: 12046
     language_tag: kiy-x-HIS12046

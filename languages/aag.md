@@ -1,8 +1,6 @@
 ---
 iso: aag
 name: Ambrak
-name_zh: 安布拉克语
-name_zh_auto: true
 autonym: null
 population: 290
 country_id: PG
@@ -15,5 +13,9 @@ glottolog_family_id: nucl1708
 glottolog_family_name: Nuclear Torricelli
 glottolog_classification: "Nuclear Torricelli > Wapei-Palei > Central Torricelli > Nuclear Palai > Yangum-Ambrak > Ambrak"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ambrak_language"
+translations:
+  - translation_iso: zho
+    name: 安布拉克语
+    auto: true
 ---
 Ambrak is a Torricelli language spoken in Nuku District of Sandaun Province in Papua New Guinea. According to the 2000 census, there are 290 speakers.

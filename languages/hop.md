@@ -1,7 +1,6 @@
 ---
 iso: hop
 name: Hopi
-name_zh: 霍皮語
 autonym: Hopilàvayi
 alt_names: [Hopi jezik, Hopi simi, Hopia lingvo, Hopieg, Hopí, Idioma hopi, Język hopi, Língua hopi, Moki, Moqui, Pueblo, Pueblo Shoshonean Subfamily, Tusayan, ホピ語, 호피어]
 population: 6080
@@ -16,6 +15,15 @@ glottolog_family_id: utoa1244
 glottolog_family_name: Uto-Aztecan
 glottolog_classification: "Uto-Aztecan > Northern Uto-Aztecan > Hopi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Hopi_language"
+translations:
+  - translation_iso: ara
+    name: هوبي
+  - translation_iso: jpn
+    name: ホピ語
+  - translation_iso: kor
+    name: 호피어
+  - translation_iso: zho
+    name: 霍皮語
 rolv_dialects:
   - rolv_code: 26437
     language_tag: hop-x-HIS26437

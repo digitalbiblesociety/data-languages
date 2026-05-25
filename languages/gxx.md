@@ -1,8 +1,6 @@
 ---
 iso: gxx
 name: Wè Southern
-name_zh: 韦南方语
-name_zh_auto: true
 autonym: Wè
 alt_names: [Central Guéré, Gere, Guere, Guéré, We Southern, Wèè]
 population: 20000
@@ -15,6 +13,10 @@ glottocode: weso1238
 glottolog_family_id: krua1234
 glottolog_family_name: Kru
 glottolog_classification: "Kru > Greater Western Kru > Western Kru > Wee-Bassa-Klao > Wee > Nuclear Wee > Guere-Krahn > Wè Southern"
+translations:
+  - translation_iso: zho
+    name: 韦南方语
+    auto: true
 rolv_dialects:
   - rolv_code: 2698
     language_tag: gxx-x-HIS02698

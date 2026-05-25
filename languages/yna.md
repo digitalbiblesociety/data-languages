@@ -1,7 +1,6 @@
 ---
 iso: yna
 name: Aluo
-name_zh: 阿罗语
 autonym: Naluo
 alt_names: [Ala, Gan Yi, Laka, Lila, Yala, 阿羅語]
 population: 25000
@@ -15,5 +14,8 @@ glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Burmo-Qiangic > Lolo-Burmese > Loloish > Ni-Li-Kazhouish > Southeastern Ngwi > Nisoid > Nuclear Nisoid > Unclassified Nuclear Nisoid > Aluo"
 wikipedia_url: "https://en.wikipedia.org/wiki/Aluo_language"
+translations:
+  - translation_iso: zho
+    name: 阿罗语
 ---
 Aluo is a Loloish language spoken by the Yi people of China. It is also known by its Nasu name.

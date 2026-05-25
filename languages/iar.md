@@ -1,8 +1,6 @@
 ---
 iso: iar
 name: Purari
-name_zh: 普拉里语
-name_zh_auto: true
 autonym: Evorra
 alt_names: [Iai, Koriki, Maipua, Namau]
 population: 7000
@@ -13,6 +11,10 @@ latitude: -7.59133
 longitude: 145.03551
 glottocode: pura1257
 wikipedia_url: "https://en.wikipedia.org/wiki/Purari_language"
+translations:
+  - translation_iso: zho
+    name: 普拉里语
+    auto: true
 rolv_dialects:
   - rolv_code: 15803
     language_tag: iar-x-HIS15803

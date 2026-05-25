@@ -1,8 +1,6 @@
 ---
 iso: tns
 name: Tenis
-name_zh: 特尼斯语
-name_zh_auto: true
 autonym: Tench
 population: 30
 country_id: PG
@@ -15,5 +13,11 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > St. Matthias > Tenis"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tenis_language"
+translations:
+  - translation_iso: jpn
+    name: テニス語
+  - translation_iso: zho
+    name: 特尼斯语
+    auto: true
 ---
 Tenis, or Tench, is the nearly extinct language of Tench Island in the St Matthias Islands of the Bismarck Archipelago.

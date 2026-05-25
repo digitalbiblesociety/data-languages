@@ -1,7 +1,6 @@
 ---
 iso: bmj
 name: "Bote-Darai"
-name_zh: 勃底語
 autonym: null
 alt_names: [Bote-Majhi, Kushar, Majhi]
 population: 11000
@@ -14,4 +13,7 @@ glottocode: bote1238
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Indo-Aryan > Middle-Modern Indo-Aryan > Continental Indo-Aryan > Midlands Indo-Aryan > Shaurasenic > Bihari > Unclassified Bihari > Kuswaric > Bote"
+translations:
+  - translation_iso: zho
+    name: 勃底語
 ---

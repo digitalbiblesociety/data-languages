@@ -1,8 +1,6 @@
 ---
 iso: ncd
 name: Nachering
-name_zh: 纳切林语
-name_zh_auto: true
 autonym: Bangdale
 alt_names: [Bangdel Tûm, Bangdile, Mathsereng, Nacchhering, Nacering Ra, Nachereng, Nachering Tûm, Nacherín, Nacherēng, Nachiring, Nasring, Natśhereng, Nāchhēreng]
 population: 3550
@@ -16,6 +14,10 @@ glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Himalayish > Mahakiranti > Kiranti > Eastern Kiranti > Khambu > Kulungic > Nachering"
 wikipedia_url: "https://en.wikipedia.org/wiki/Nachhiring_language"
+translations:
+  - translation_iso: zho
+    name: 纳切林语
+    auto: true
 rolv_dialects:
   - rolv_code: 14499
     language_tag: ncd-x-HIS14499

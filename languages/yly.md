@@ -1,8 +1,6 @@
 ---
 iso: yly
 name: Nyâlayu
-name_zh: 尼亚拉尤语
-name_zh_auto: true
 autonym: Nielaiou
 alt_names: [Belep, Neukaledonien, Nyelyâu, Nyelâyu, Yalayu, Yâlayu]
 population: 1520
@@ -16,6 +14,10 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Southern Melanesian > New Caledonian > Mainland New Caledonian > Northern New Caledonian > Extreme Northern New Caledonian > Nyalayu > Belep"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ny%C3%A2layu_language"
+translations:
+  - translation_iso: zho
+    name: 尼亚拉尤语
+    auto: true
 rolv_dialects:
   - rolv_code: 15149
     language_tag: yly-x-HIS15149

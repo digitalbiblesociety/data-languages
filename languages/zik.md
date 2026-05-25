@@ -1,8 +1,6 @@
 ---
 iso: zik
 name: Zimakani
-name_zh: 齐马卡尼语
-name_zh_auto: true
 autonym: Baegwa
 alt_names: [Babwa, Bagwa Zimakani, Dea, Język zimakani, Village Z, Zimakaneg]
 population: 1500
@@ -16,6 +14,10 @@ glottolog_family_id: anim1240
 glottolog_family_name: Anim
 glottolog_classification: "Anim > Marind-Boazi-Yaqai > Boazi > Zimakani"
 wikipedia_url: "https://en.wikipedia.org/wiki/Zimakani_language"
+translations:
+  - translation_iso: zho
+    name: 齐马卡尼语
+    auto: true
 rolv_dialects:
   - rolv_code: 3928
     language_tag: zik-x-HIS03928

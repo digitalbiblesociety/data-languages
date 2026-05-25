@@ -1,8 +1,6 @@
 ---
 iso: bka
 name: Kyak
-name_zh: 基亚克语
-name_zh_auto: true
 autonym: Bambuka
 alt_names: [Nyakyak]
 population: 5000
@@ -16,5 +14,9 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Cameroun-Ubangian > Bikwin-Jen > Southern Bikwin-Jen > Bambuka-Gomu-Leelau > Kyak"
 wikipedia_url: "https://en.wikipedia.org/wiki/Bambuka_language"
+translations:
+  - translation_iso: zho
+    name: 基亚克语
+    auto: true
 ---
 Kyãk (Nyakyak), also known as Bambuka after its location, is a Bikwin (Adamawa) language of Nigeria.

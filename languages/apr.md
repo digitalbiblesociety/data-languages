@@ -1,8 +1,6 @@
 ---
 iso: apr
 name: "Arop-Lokep"
-name_zh: 阿罗普-洛克普语
-name_zh_auto: true
 autonym: null
 alt_names: [Arop-Lukep, Lukep, Moromiranga, Siasi, Siassi, Tolokiwa]
 population: 3020
@@ -16,6 +14,12 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > North New Guinea linkage > Ngero-Vitiaz linkage > Vitiaz linkage > Korap linkage > Arop-Lokep"
 wikipedia_url: "https://en.wikipedia.org/wiki/Arop-Lokep_language"
+translations:
+  - translation_iso: jpn
+    name: シアッシ語
+  - translation_iso: zho
+    name: 阿罗普-洛克普语
+    auto: true
 rolv_dialects:
   - rolv_code: 555
     language_tag: apr-x-HIS00555

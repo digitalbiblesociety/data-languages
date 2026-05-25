@@ -1,8 +1,6 @@
 ---
 iso: poo
 name: Central Pomo
-name_zh: 中部波莫语
-name_zh_auto: true
 autonym: "Ballo-Kai-Pomo"
 alt_names: [Cabanapo, Central, "H'hana", Habenapo, Khabenapo, Khana, Kulanapan, Kulanapo, Kábinapek, Oat Valley, Pomo, Pomo (Central), Pomo central, "Pomo, Central", Venaambakaia, Venambakaiia, Yokaia, Yokaya]
 population: null
@@ -16,6 +14,14 @@ glottolog_family_id: pomo1273
 glottolog_family_name: Pomoan
 glottolog_classification: "Pomoan > Russian River and Eastern > Russian River > Northern-Central Pomoan > Central Pomo"
 wikipedia_url: "https://en.wikipedia.org/wiki/Central_Pomo_language"
+translations:
+  - translation_iso: hin
+    name: मध्य पोमो भाषा
+  - translation_iso: jpn
+    name: 中央ポモ語
+  - translation_iso: zho
+    name: 中部波莫语
+    auto: true
 rolv_dialects:
   - rolv_code: 3831
     language_tag: poo-x-HIS03831

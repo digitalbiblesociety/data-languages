@@ -1,8 +1,6 @@
 ---
 iso: kqp
 name: Kimré
-name_zh: 金梅语
-name_zh_auto: true
 autonym: Gabri
 alt_names: [Gabri-Kimré]
 population: 20000
@@ -16,6 +14,10 @@ glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > East Chadic > East Chadic A > East Chadic A.2 > East Chadic A.2 2 > Gabri-Kimre > Kimre"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kimr%C3%A9_language"
+translations:
+  - translation_iso: zho
+    name: 金梅语
+    auto: true
 rolv_dialects:
   - rolv_code: 12012
     language_tag: kqp-x-HIS12012

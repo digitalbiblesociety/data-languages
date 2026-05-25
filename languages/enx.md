@@ -1,8 +1,6 @@
 ---
 iso: enx
 name: Enxet
-name_zh: 恩克塞特语
-name_zh_auto: true
 autonym: Énxet nempeywa
 alt_names: [Chánepyeyam, Enhlit, Enlhit, Enlhit Nipiyam, Enxet Sur, Lengua, Lengua Sur, Southern Lengua]
 population: 3840
@@ -16,6 +14,10 @@ glottolog_family_id: leng1261
 glottolog_family_name: Lengua-Mascoy
 glottolog_classification: "Lengua-Mascoy > Lengua > Enxet Sur"
 wikipedia_url: "https://en.wikipedia.org/wiki/Enxet_language"
+translations:
+  - translation_iso: zho
+    name: 恩克塞特语
+    auto: true
 rolv_dialects:
   - rolv_code: 1897
     language_tag: enx-x-HIS01897

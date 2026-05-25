@@ -1,8 +1,6 @@
 ---
 iso: mrx
 name: Maremgi
-name_zh: 玛瑞格语
-name_zh_auto: true
 autonym: Dineor
 alt_names: [Marengge]
 population: 55
@@ -16,5 +14,9 @@ glottolog_family_id: toro1256
 glottolog_family_name: Tor-Orya
 glottolog_classification: "Tor-Orya > Tor > Maremgi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Dineor_language"
+translations:
+  - translation_iso: zho
+    name: 玛瑞格语
+    auto: true
 ---
 Maremgi, also known as Dineor, is a Papuan language of Indonesia. It is spoken near the village of Bonggo, west of Jayapura, in a place also known as Maremgi.

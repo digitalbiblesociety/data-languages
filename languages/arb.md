@@ -1,8 +1,6 @@
 ---
 iso: arb
 name: Arabic
-name_zh: 阿拉伯语
-name_zh_auto: true
 autonym: عربي فصيح
 alt_names: [Al Arabiya, Al Fus-Ha, Al-Arabiyya, Al-FusHa, Arabe standard moderne, Arabeg unvan, Arabic (Modern Literary), Arabic (Modern Standard), "Arabic, Standard", Classical Arabic, "Fus'ha", Fusha, High Arabic, Koranic Arabic, Modern Literary Arabic, Modern Standard Arabic, "Qur'anic Arabic", Quranic Arabic, Standard, Standard Arabic, Standardni arapski, al-Fusḥa, Árabe estándar moderno, Árabe moderno padrão, Арабский литературный язык, Пишан арапски јазик, عربى قياسى حديث, لغة عربية فصحى, フスハー]
 population: 350000000
@@ -15,6 +13,16 @@ glottocode: stan1318
 glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Semitic > West Semitic > Central Semitic > Arabian > Arabic > Standard Arabic"
+translations:
+  - translation_iso: ara
+    name: العربية الفصحى
+  - translation_iso: jpn
+    name: フスハー
+  - translation_iso: kor
+    name: 표준 아랍어
+  - translation_iso: zho
+    name: 阿拉伯语
+    auto: true
 rolv_dialects:
   - rolv_code: 4501
     language_tag: ar-SA-x-HIS04501

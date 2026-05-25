@@ -1,8 +1,6 @@
 ---
 iso: kvi
 name: Kwang
-name_zh: 克旺语
-name_zh_auto: true
 autonym: Buso
 alt_names: [Kouang, Kuang, Kwong]
 population: 10000
@@ -16,6 +14,10 @@ glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > East Chadic > East Chadic A > East Chadic A.3 > Kwang"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kwang_language"
+translations:
+  - translation_iso: zho
+    name: 克旺语
+    auto: true
 rolv_dialects:
   - rolv_code: 2975
     language_tag: kvi-x-HIS02975

@@ -1,8 +1,6 @@
 ---
 iso: ikl
 name: Ikulu
-name_zh: 伊库卢语
-name_zh_auto: true
 autonym: Ikulu
 alt_names: [Ankulu, Ikolu]
 population: 50000
@@ -16,5 +14,9 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Benue-Congo Plateau > Northern Benue-Congo Plateau > Nuclear Northern Benue-Congo Plateau > Ikulu"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kulu_language"
+translations:
+  - translation_iso: zho
+    name: 伊库卢语
+    auto: true
 ---
 The Kulu language (Ikulu) also known as Ankulu or Ikolu, is a Plateau language of Nigeria. It is spoken by the Bakulu, found in the Zangon Kataf, Kachia and Kauru Local Government Areas of Kaduna State.

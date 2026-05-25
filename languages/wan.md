@@ -1,8 +1,6 @@
 ---
 iso: wan
 name: Wan
-name_zh: 万语
-name_zh_auto: true
 autonym: Nwa
 alt_names: [Van]
 population: 22000
@@ -16,6 +14,12 @@ glottolog_family_id: mand1469
 glottolog_family_name: Mande
 glottolog_classification: "Mande > Eastern Mande > Southeastern Mande > Nwa-Ben > Wan-Mwan > Wan"
 wikipedia_url: "https://en.wikipedia.org/wiki/Wan_language"
+translations:
+  - translation_iso: jpn
+    name: ワン語
+  - translation_iso: zho
+    name: 万语
+    auto: true
 rolv_dialects:
   - rolv_code: 18148
     language_tag: wan-x-HIS18148

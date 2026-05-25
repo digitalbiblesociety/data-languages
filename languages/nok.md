@@ -1,7 +1,6 @@
 ---
 iso: nok
 name: Nooksack
-name_zh: 諾克塞克語
 autonym: Lhéchalosem
 alt_names: [Lhéchelesem, Nootsack, Nucsaqués, Nuksahk, łə́čələsəm, ɬəčælosəme, ɬəčələsəm]
 population: null
@@ -15,5 +14,10 @@ glottolog_family_id: sali1255
 glottolog_family_name: Salishan
 glottolog_classification: "Salishan > Coast Salish > Central Salish > South Georgia Central Salish > Nooksack"
 wikipedia_url: "https://en.wikipedia.org/wiki/Nooksack_language"
+translations:
+  - translation_iso: jpn
+    name: ヌックサック語
+  - translation_iso: zho
+    name: 諾克塞克語
 ---
 Nooksack is a Coast Salish language of the Salishan language family. Nooksack is spoken by the Nooksack people, who reside primarily along the Nooksack River in Whatcom County, Washington.

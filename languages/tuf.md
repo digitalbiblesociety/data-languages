@@ -1,7 +1,6 @@
 ---
 iso: tuf
 name: Central Tunebo
-name_zh: 中烏瓦語
 autonym: Tunebo
 alt_names: [Cobaría, Cobaría Tunebo, Pedraza, Sínsiga, Tame, Tegria, Tegría, "Tunebo, Central", "U'w Cuwa", "U'w Kuwa", "U'wa", Uwa]
 population: 2500
@@ -14,4 +13,7 @@ glottocode: cent2150
 glottolog_family_id: chib1249
 glottolog_family_name: Chibchan
 glottolog_classification: "Chibchan > Core Chibchan > Magdalenic > Southern Magdalenic > Tunebo > Central Tunebo"
+translations:
+  - translation_iso: zho
+    name: 中烏瓦語
 ---

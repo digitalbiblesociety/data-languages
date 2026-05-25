@@ -1,7 +1,6 @@
 ---
 iso: dhv
 name: Dehu
-name_zh: 德雷胡语
 autonym: null
 alt_names: ["De'u", Drehu, Drehu language, Lifou, Lifu]
 population: 13000
@@ -15,6 +14,13 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Southern Melanesian > New Caledonian > Loyalty Islands > Dehu"
 wikipedia_url: "https://en.wikipedia.org/wiki/Drehu_language"
+translations:
+  - translation_iso: jpn
+    name: ドレウ語
+  - translation_iso: kor
+    name: 데후어
+  - translation_iso: zho
+    name: 德雷胡语
 rolv_dialects:
   - rolv_code: 9208
     language_tag: dhv-x-HIS09208

@@ -1,7 +1,6 @@
 ---
 iso: ycp
 name: Chepya
-name_zh: 切皮亚语
 autonym: Chipia
 population: 2000
 country_id: LA
@@ -14,5 +13,8 @@ glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Burmo-Qiangic > Lolo-Burmese > Loloish > Hani-Jino > Bisoid-Hanic > Hanic > Ha-Ya > Akhaic > Chepya"
 wikipedia_url: "https://en.wikipedia.org/wiki/Chepya_language"
+translations:
+  - translation_iso: zho
+    name: 切皮亚语
 ---
 Chepya is a Southern Loloish language of northern Laos.

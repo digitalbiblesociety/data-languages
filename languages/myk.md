@@ -1,7 +1,6 @@
 ---
 iso: myk
 name: Mamara Senoufo
-name_zh: 明揚卡語
 autonym: Mamara
 alt_names: [Mianka, Minianka, Miniyanka, Minya, Minyanka, "Senoufo, Mamara", Tupiire]
 population: 738000
@@ -15,6 +14,13 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Senufo > North Senufo > Mamara Senoufo"
 wikipedia_url: "https://en.wikipedia.org/wiki/Minyanka_language"
+translations:
+  - translation_iso: jpn
+    name: ママラ・セヌフォ語
+  - translation_iso: kor
+    name: 미냥카어
+  - translation_iso: zho
+    name: 明揚卡語
 rolv_dialects:
   - rolv_code: 2553
     language_tag: myk-x-HIS02553

@@ -1,8 +1,6 @@
 ---
 iso: ego
 name: Eggon
-name_zh: 埃贡语
-name_zh_auto: true
 autonym: Onumu Egon
 alt_names: [Egon, Hill Mada, Mada Dutse, Mada Eggon, Mo Egon]
 population: 254000
@@ -16,6 +14,14 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Benue-Congo Plateau > Jilic-Eggonic > Eggon-Ake > Eggon"
 wikipedia_url: "https://en.wikipedia.org/wiki/Eggon_language"
+translations:
+  - translation_iso: jpn
+    name: エッゴン語
+  - translation_iso: kor
+    name: 에곤 어
+  - translation_iso: zho
+    name: 埃贡语
+    auto: true
 rolv_dialects:
   - rolv_code: 2126
     language_tag: ego-x-HIS02126

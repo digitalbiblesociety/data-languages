@@ -1,7 +1,6 @@
 ---
 iso: gnc
 name: Guanche
-name_zh: 关切语
 autonym: null
 alt_names: [Guantxera, Guanxe, Guanči, Gwantcheg, Idioma guanche, Język Guanczów, Spain, Гуанчские языки, Давньоканарські мови, グアンチェ語]
 population: null
@@ -15,5 +14,14 @@ glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Berber > Unclassified Berber > Guanche"
 wikipedia_url: "https://en.wikipedia.org/wiki/Guanche_language"
+translations:
+  - translation_iso: ara
+    name: لغة غوانش
+  - translation_iso: jpn
+    name: グアンチェ語
+  - translation_iso: kor
+    name: 관체어
+  - translation_iso: zho
+    name: 关切语
 ---
 Guanche is an extinct language or dialect continuum that was spoken by the Guanches of the Canary Islands until the 16th or 17th century. It died out after the conquest of the Canary Islands as the Guanche ethnic group was assimilated into the dominant Spanish culture. The Guanche language is known today through sentences and individual words that were recorded by early geographers, as well as through several place-names and some Guanche words that were retained in the Canary Islanders' Spanish.

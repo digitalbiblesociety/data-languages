@@ -1,7 +1,6 @@
 ---
 iso: osc
 name: Oscan
-name_zh: 奥斯坎语
 autonym: null
 population: null
 country_id: IT
@@ -15,5 +14,14 @@ glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Italic > Sabellic > Oscan"
 wikipedia_url: "https://en.wikipedia.org/wiki/Oscan_language"
+translations:
+  - translation_iso: ara
+    name: لغة أوسكانية
+  - translation_iso: jpn
+    name: オスク語
+  - translation_iso: kor
+    name: 오스크어
+  - translation_iso: zho
+    name: 奥斯坎语
 ---
 Oscan is an extinct Indo-European language of southern Italy. The language is in the Osco-Umbrian or Sabellic branch of the Italic languages. Oscan is therefore a close relative of Umbrian and South Picene.

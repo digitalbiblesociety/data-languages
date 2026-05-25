@@ -1,8 +1,6 @@
 ---
 iso: cea
 name: Lower Chehalis
-name_zh: 下切哈利斯语
-name_zh_auto: true
 autonym: Łəw̓ál̕məš
 alt_names: [Bas-chehalis, "Chehalis, Lower", Chehalí bajo, ɬəwʼálʼməš]
 population: null
@@ -16,5 +14,11 @@ glottolog_family_id: sali1255
 glottolog_family_name: Salishan
 glottolog_classification: "Salishan > Coast Salish > Tsamosan > Coastal Tsamosan > Lower Chehalis"
 wikipedia_url: "https://en.wikipedia.org/wiki/Lower_Chehalis_language"
+translations:
+  - translation_iso: jpn
+    name: 下チヘリス語
+  - translation_iso: zho
+    name: 下切哈利斯语
+    auto: true
 ---
 Lower Chehalis (Łəw̓ál̕məš) is a member of the Tsamosan branch of the Coast Salish family of Salishan languages. In some classifications, Lower Chehalis is placed closer to Quinault than it is to Upper Chehalis. It went extinct in the 1990s.

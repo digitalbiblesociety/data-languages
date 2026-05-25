@@ -1,8 +1,6 @@
 ---
 iso: ktb
 name: Kambaata
-name_zh: 坎巴塔语
-name_zh_auto: true
 autonym: Donga
 alt_names: [Kambaata hizkuntza, Kambara, Kambata, Kambatta, Kemata, Kembata]
 population: 743000
@@ -16,6 +14,10 @@ glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Cushitic > East Cushitic > Highland East Cushitic > Sidaama-Hadiyya-Kambaata > Hadiyya-Kambaata > Kambaataic > Kambaata"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kambaata_language"
+translations:
+  - translation_iso: zho
+    name: 坎巴塔语
+    auto: true
 rolv_dialects:
   - rolv_code: 3096
     language_tag: ktb-x-HIS03096

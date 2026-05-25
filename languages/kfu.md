@@ -1,8 +1,6 @@
 ---
 iso: kfu
 name: Katkari
-name_zh: 卡特卡里语
-name_zh_auto: true
 autonym: Katakari
 alt_names: [Katari, Kathodi, Katvadi]
 population: 12000
@@ -16,6 +14,10 @@ glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Indo-Aryan > Middle-Modern Indo-Aryan > Continental Indo-Aryan > Indo-Aryan Southern zone > Marathic > Katkari"
 wikipedia_url: "https://en.wikipedia.org/wiki/Katkari_language"
+translations:
+  - translation_iso: zho
+    name: 卡特卡里语
+    auto: true
 rolv_dialects:
   - rolv_code: 25768
     language_tag: kfu-x-HIS25768

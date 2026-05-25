@@ -1,8 +1,6 @@
 ---
 iso: mmq
 name: Musak
-name_zh: 穆萨克语
-name_zh_auto: true
 autonym: Musak
 alt_names: [Aisi, Blue Miao, Green Miao, Red Miao, White Miao]
 population: 360
@@ -16,6 +14,10 @@ glottolog_family_id: nucl1709
 glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Madang > Kalamic-South Adelbert > South Adelbert > Sogeram > East Sogeram > Aisian > Aisi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Aisi_language"
+translations:
+  - translation_iso: zho
+    name: 穆萨克语
+    auto: true
 rolv_dialects:
   - rolv_code: 27653
     language_tag: mmq-x-HIS27653

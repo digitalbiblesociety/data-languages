@@ -1,7 +1,6 @@
 ---
 iso: mji
 name: Kim Mun
-name_zh: 金门方言
 autonym: Chasan Yao
 alt_names: ["\"Man Lan-Tien\"", Coc Mun, Dao Ao Dai, Dao Lam Dinh, Dao Quan Trang, Dao Thanh Y, Gem Mun, Great Tunic Yao, Hainan Miao, Jim Mun, Jinmen, Kem Mun, Kimmun, Lan Ten, Lan Tin, Lanten, Lantin, Lowland Yao, Man, Man Lan-Tien, Man Lantien, Men, Mien, Mun, Red Trouser Yao, Shanzi Yao, Yao]
 population: 374500
@@ -15,6 +14,11 @@ glottolog_family_id: hmon1336
 glottolog_family_name: Hmong-Mien
 glottolog_classification: "Hmong-Mien > Mienic > Mien-Mun > Kim Mun"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kim_Mun_language"
+translations:
+  - translation_iso: jpn
+    name: ムン語
+  - translation_iso: zho
+    name: 金门方言
 rolv_dialects:
   - rolv_code: 26924
     language_tag: mji-x-HIS26924

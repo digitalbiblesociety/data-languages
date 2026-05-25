@@ -1,8 +1,6 @@
 ---
 iso: aty
 name: Aneityum
-name_zh: 阿内蒂厄姆语
-name_zh_auto: true
 autonym: Aneiteum
 alt_names: [Aneiteumese, Aneityum jezik, Anejom, Anejom̃, Aneytum, Annatom]
 population: 900
@@ -16,5 +14,11 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Southern Melanesian > Southern Vanuatu > Aneityum"
 wikipedia_url: "https://en.wikipedia.org/wiki/Aneityum_language"
+translations:
+  - translation_iso: jpn
+    name: アネイチュム語
+  - translation_iso: zho
+    name: 阿内蒂厄姆语
+    auto: true
 ---
 Aneityum or Anejom̃ is an Oceanic language spoken by 900 people on Aneityum Island, Vanuatu. It is the only indigenous language of Aneityum.

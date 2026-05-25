@@ -1,8 +1,6 @@
 ---
 iso: cao
 name: Chácobo
-name_zh: 查科博语
-name_zh_auto: true
 autonym: "Chokobo-Pakawara"
 alt_names: [Chacobo, Chakobo-Pakawara, Chákobo, Shinabo]
 population: 550
@@ -16,5 +14,9 @@ glottolog_family_id: pano1259
 glottolog_family_name: Pano-Tacanan
 glottolog_classification: "Pano-Tacanan > Panoan > Mainline Pano > Pano Nawa > Bolivian Nawa > Chácobo"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ch%C3%A1cobo_language"
+translations:
+  - translation_iso: zho
+    name: 查科博语
+    auto: true
 ---
 Chácobo is a Panoan language spoken by about 1,400 out of the 1600 to 2000 Chácobo people of the Beni Department northwest of Magdalena, Bolivia. Chácobo children are learning the language as a first language.

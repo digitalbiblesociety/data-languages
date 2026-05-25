@@ -1,7 +1,6 @@
 ---
 iso: heg
 name: Helong
-name_zh: 赫龙语
 autonym: bahasa Helong
 alt_names: [Helon, Kupang, Kupong, Semau]
 population: 14000
@@ -15,6 +14,9 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Timor-Babar > Helong"
 wikipedia_url: "https://en.wikipedia.org/wiki/Helong_language"
+translations:
+  - translation_iso: zho
+    name: 赫龙语
 rolv_dialects:
   - rolv_code: 4622
     language_tag: heg-x-HIS04622

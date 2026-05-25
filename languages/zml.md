@@ -1,8 +1,6 @@
 ---
 iso: zml
 name: Matngala
-name_zh: 马特加拉语
-name_zh_auto: true
 autonym: Maangella
 alt_names: [Amadil, Dakayu, Eastern Daly language, Gamu, Hermit Hill, Hermit Hill tribe, Junggor, Kamor, Madngala, Madngela, Madngela/Matngela, Madngele, Madngella, Malak Malak, Mandella, Matngela, Matngele, Matngele language, Matngelli, Mulluk Mulluk, Muttangella, Muttangulla, Ngengiwerat, Nginma, Ngulul Wanggar, Nundjulbi, Warat, Werat, Weret, Wooliana, Yunggor]
 population: 1973
@@ -16,5 +14,9 @@ glottolog_family_id: east2374
 glottolog_family_name: Eastern Daly
 glottolog_classification: "Eastern Daly > Madngele"
 wikipedia_url: "https://en.wikipedia.org/wiki/Matngala_language"
+translations:
+  - translation_iso: zho
+    name: 马特加拉语
+    auto: true
 ---
 Matngele or Madngele is an extinct Australian Aboriginal language of the Northern Territory spoken by the Madngella and Yunggor peoples.

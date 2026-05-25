@@ -1,8 +1,6 @@
 ---
 iso: dia
 name: Dia
-name_zh: 蒂亚语
-name_zh_auto: true
 autonym: Metru
 alt_names: [Alu, Galu, Sinagen]
 population: 1840
@@ -16,5 +14,9 @@ glottolog_family_id: nucl1708
 glottolog_family_name: Nuclear Torricelli
 glottolog_classification: "Nuclear Torricelli > Wapei-Palei > Central Torricelli > Wapeic > Galu-Alu > Alu-Sinagen"
 wikipedia_url: "https://en.wikipedia.org/wiki/Dia_language"
+translations:
+  - translation_iso: zho
+    name: 蒂亚语
+    auto: true
 ---
 Dia is a Torricelli language of Papua New Guinea.

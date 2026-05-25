@@ -1,8 +1,6 @@
 ---
 iso: let
 name: "Lesing-Gelimi"
-name_zh: 莱辛-格利米语
-name_zh_auto: true
 autonym: "Lesing-Atui"
 alt_names: [Amio-Gelimi, Atui]
 population: 930
@@ -16,6 +14,10 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > North New Guinea linkage > Ngero-Vitiaz linkage > Vitiaz linkage > Southwest New Britain linkage > Arawe-Pasismanua > Arawe > East Arawe > Lesing-Gelimi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Lesing-Gelimi_language"
+translations:
+  - translation_iso: zho
+    name: 莱辛-格利米语
+    auto: true
 rolv_dialects:
   - rolv_code: 10186
     language_tag: let-x-HIS10186

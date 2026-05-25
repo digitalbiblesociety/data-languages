@@ -1,7 +1,6 @@
 ---
 iso: naq
 name: Khoekhoe
-name_zh: 纳马语
 autonym: Nama/Damara
 alt_names: ["\"Cape Hottentot\"", "\"Hottentot\"", "\"Kakuya Bushman Nasie\"", "\"Khoekhoegowab\"", "\"Khoekhoegowap\"", "\"Klipkaffer\"", "\"Klipkaffern\"", "\"Kupkaferrn\"", "\"Kupkaffer\"", "\"Rooi Nasie\"", Berdama, Bergdama, Bergdamara, Dama, Damaqua, Damara, Gri, Grikwa, Griqua, Gry, Hottentot, Hottentottisch, Kakuya Bushman Nasie, Khiri, Khoe, Khoekhoe du Cap, Khoekhoegowab, Khoekhoegowap, Khoeknoegowap, Khoi, Maqua, Nama, Nama (Khoekhoe), Nama (Namibia), Nama Hottentot, Namakwa, Naman, Namaqua, Rooi Nasie, Tama, Tamakwa, Tamma, Xirikwa, Xrikwa]
 population: 281200
@@ -16,6 +15,17 @@ glottolog_family_id: khoe1240
 glottolog_family_name: Khoe-Kwadi
 glottolog_classification: "Khoe-Kwadi > Khoe > Khoekhoe > North Khoekhoe > Nama (Namibia)"
 wikipedia_url: "https://en.wikipedia.org/wiki/Khoekhoe_language"
+translations:
+  - translation_iso: ara
+    name: لغة ناما
+  - translation_iso: hin
+    name: खोईखोई भाषा
+  - translation_iso: jpn
+    name: ナマ語
+  - translation_iso: kor
+    name: 나마어
+  - translation_iso: zho
+    name: 纳马语
 rolv_dialects:
   - rolv_code: 1953
     language_tag: naq-x-HIS01953

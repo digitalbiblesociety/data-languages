@@ -1,8 +1,6 @@
 ---
 iso: tnh
 name: Maiani
-name_zh: 迈亚尼语
-name_zh_auto: true
 autonym: Tani
 alt_names: [Banara, Maiari, Miani South, Wagimuda]
 population: 3040
@@ -16,5 +14,9 @@ glottolog_family_id: nucl1709
 glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Madang > Croisilles > Greater Northern Adelbert > Northern Adelbert > Kaukombaran > Maiani"
 wikipedia_url: "https://en.wikipedia.org/wiki/Miani_language"
+translations:
+  - translation_iso: zho
+    name: 迈亚尼语
+    auto: true
 ---
 Miani, formerly Tani after a village name, is a Papuan language complex of Madang Province, Papua New Guinea. The northern and southern varieties, Miani and Maiani, are dialects in terms of vocabulary or pronunciation.

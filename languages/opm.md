@@ -1,8 +1,6 @@
 ---
 iso: opm
 name: Oksapmin
-name_zh: 奥克萨普敏语
-name_zh_auto: true
 autonym: Oksap
 alt_names: [Nalu, 오크사프민어]
 population: 8000
@@ -16,6 +14,12 @@ glottolog_family_id: nucl1709
 glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Asmat-Awyu-Ok > Awyu-Ok > Ok-Oksapmin > Oksapmin"
 wikipedia_url: "https://en.wikipedia.org/wiki/Oksapmin_language"
+translations:
+  - translation_iso: kor
+    name: 오크사프민어
+  - translation_iso: zho
+    name: 奥克萨普敏语
+    auto: true
 rolv_dialects:
   - rolv_code: 26315
     language_tag: opm-x-HIS26315

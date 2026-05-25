@@ -1,8 +1,6 @@
 ---
 iso: umg
 name: Morrobalama
-name_zh: 莫罗巴拉马语
-name_zh_auto: true
 autonym: Morrobalama
 alt_names: [Ajarumbal, Aradal, Baka, Banjigam, Barungguan, Barunguan, Bungkol, Burlngulu, Ganganda, Jintjingga, Juwinbadha, Kuuku yani, Kuuku-yani, Lamalama, Lamalamic, Moroba-Lama, Morrabalama, Morroba Lama, Morrobolam, Njindingga, Umbindhamu, Umbuigamu, Umbuygamu, Umbuykamu, Umpuykumu, Yindyingga, Yintjingga]
 population: null
@@ -16,5 +14,9 @@ glottolog_family_id: pama1250
 glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > Paman > Lamalamic > Coastal Lamalamic > Umbuygamu"
 wikipedia_url: "https://en.wikipedia.org/wiki/Morrobolam_language"
+translations:
+  - translation_iso: zho
+    name: 莫罗巴拉马语
+    auto: true
 ---
 The Morrobolam language, formerly known as Morrobalama and Umbuygamu, is a possibly extinct Paman language from Princess Charlotte Bay in far-north Queensland in Australia which was spoken by a group the Lamalama people.

@@ -1,7 +1,6 @@
 ---
 iso: ywt
 name: Xishanba Lalo
-name_zh: 西山坝腊罗语
 autonym: Western Yi
 alt_names: [Central Lalo, Dongshan Lalu Yi, Lalo, "Lalo, Central", "Lalo, Xishanba", "Lalo,Xishanba", Lalopa, Laluo, Lolo, Misaba, Misapa, Yi, Yi (Western), "Yi, Western", 中臘羅語]
 population: 213000
@@ -14,4 +13,7 @@ glottocode: xish1235
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Burmo-Qiangic > Lolo-Burmese > Loloish > Ni-Li-Kazhouish > Lisoid > Nuclear Lisoid > Lisu-Laluba-Lavu > Laluba-Lavu > Lalo > Greater Lalo > Core Lalo > Central-Western Lalo > Xishanba Lalo"
+translations:
+  - translation_iso: zho
+    name: 西山坝腊罗语
 ---

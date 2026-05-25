@@ -1,8 +1,6 @@
 ---
 iso: okx
 name: Okpe (Northwestern Edo)
-name_zh: 奥克佩西北埃多语
-name_zh_auto: true
 autonym: null
 alt_names: [Nigeria, Okpe]
 population: 8700
@@ -16,5 +14,9 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Akpes-Edoid > Edoid > Northwestern Edoid > Southern Northwestern Edoid > Okpe-Akuku-Idesa > Okpe (Northwestern Edo)"
 wikipedia_url: "https://en.wikipedia.org/wiki/Okpe_language_(Northwestern_Edo)"
+translations:
+  - translation_iso: zho
+    name: 奥克佩西北埃多语
+    auto: true
 ---
 Okpe is an Edoid language of Nigeria.

@@ -1,8 +1,6 @@
 ---
 iso: grd
 name: "Guruntum-Mbaaru"
-name_zh: 古伦图姆-姆巴鲁语
-name_zh_auto: true
 autonym: "Guruntum-Mbaaru"
 alt_names: [Gurdu-mbaaru, Gurdung, Guruntum, Guruntum language, Gùrdùŋ, Gùrùntùm, Tala]
 population: 15000
@@ -16,6 +14,10 @@ glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > West Chadic > West Chadic B > West Chadic B.3 > South Bauchi East > Guruntumic > Guruntum-Mbaaru"
 wikipedia_url: "https://en.wikipedia.org/wiki/Guruntum_language"
+translations:
+  - translation_iso: zho
+    name: 古伦图姆-姆巴鲁语
+    auto: true
 rolv_dialects:
   - rolv_code: 10480
     language_tag: grd-x-HIS10480

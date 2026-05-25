@@ -1,8 +1,6 @@
 ---
 iso: nwr
 name: Nawaru
-name_zh: 纳瓦鲁语
-name_zh_auto: true
 autonym: Sirio
 population: 190
 country_id: PG
@@ -15,5 +13,9 @@ glottolog_family_id: yare1250
 glottolog_family_name: Yareban
 glottolog_classification: "Yareban > Yareba-Bariji-Nawaru > Nawaru"
 wikipedia_url: "https://en.wikipedia.org/wiki/Nawaru_language"
+translations:
+  - translation_iso: zho
+    name: 纳瓦鲁语
+    auto: true
 ---
 Nawaru, or Sirio, is a Papuan language. It is spoken in the village of Sibia in Namudi ward, Safia Rural LLG, Ijivitari District, Oro Province, in the "tail" of Papua New Guinea.

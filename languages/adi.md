@@ -1,7 +1,6 @@
 ---
 iso: adi
 name: Adi
-name_zh: 阿迪语
 autonym: Abo tani
 alt_names: [Abhor, Abor, Abor-Miri, Adi-Bokar, Bengni, "Bengni-Boga'er", "Boga'er", "Boga'er Luoba", Bokar, Lho-Pa, Lhoba, Luoba, Miri, Miśing, Na Bengni, 崩尼-博嘎爾语]
 population: 151090
@@ -15,6 +14,13 @@ glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Macro-Tani > Tani > Eastern Tani > Bori-Karko"
 wikipedia_url: "https://en.wikipedia.org/wiki/Adi_languages"
+translations:
+  - translation_iso: hin
+    name: तंगम भाषा
+  - translation_iso: jpn
+    name: アディ語
+  - translation_iso: zho
+    name: 阿迪语
 rolv_dialects:
   - rolv_code: 674
     language_tag: adi-x-HIS00674

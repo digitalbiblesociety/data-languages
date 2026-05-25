@@ -1,8 +1,6 @@
 ---
 iso: hik
 name: "Seit-Kaitetu"
-name_zh: 塞伊特-凯特图语
-name_zh_auto: true
 autonym: "Hila-Kaitetu"
 population: 10200
 country_id: ID
@@ -15,6 +13,10 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Nunusaku > Piru Bay > East Piru Bay > Solehua > Seram Straits > Ambonic > Central Ambon > Seit-Kaitetu"
 wikipedia_url: "https://en.wikipedia.org/wiki/Seit-Kaitetu_language"
+translations:
+  - translation_iso: zho
+    name: 塞伊特-凯特图语
+    auto: true
 rolv_dialects:
   - rolv_code: 16431
     language_tag: hik-x-HIS16431

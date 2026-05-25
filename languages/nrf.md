@@ -1,7 +1,6 @@
 ---
 iso: nrf
 name: Jèrriais
-name_zh: 諾曼語
 autonym: Normaund
 alt_names: [Guernésiais]
 population: 100000
@@ -9,6 +8,17 @@ country_id: JE
 country_name: Channel Islands
 status_id: null
 wikipedia_url: "https://en.wikipedia.org/wiki/Norman_language"
+translations:
+  - translation_iso: ara
+    name: النرمندية
+  - translation_iso: hin
+    name: नोर्मन भाषा
+  - translation_iso: jpn
+    name: ノルマン語
+  - translation_iso: kor
+    name: 노르만어
+  - translation_iso: zho
+    name: 諾曼語
 rolv_dialects:
   - rolv_code: 9887
     language_tag: nrf-x-HIS09887

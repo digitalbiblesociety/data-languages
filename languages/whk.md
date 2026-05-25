@@ -1,8 +1,6 @@
 ---
 iso: whk
 name: Wahau Kenyah
-name_zh: 瓦豪肯雅语
-name_zh_auto: true
 autonym: "Lebu' Kulit"
 alt_names: [Kenyah, "Kenyah, Wahau", Wahau, Wahau Kenya]
 population: 8000
@@ -16,6 +14,10 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > North Borneo Malayo-Polynesian > North Sarawakan > Kenyahic > Lowland Kenyah > Eastern Lowland Kenyah"
 wikipedia_url: "https://en.wikipedia.org/wiki/Wahau_Kenyah_language"
+translations:
+  - translation_iso: zho
+    name: 瓦豪肯雅语
+    auto: true
 rolv_dialects:
   - rolv_code: 11857
     language_tag: whk-x-HIS11857

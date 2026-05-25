@@ -1,8 +1,6 @@
 ---
 iso: wil
 name: Wilawila
-name_zh: 威拉威拉语
-name_zh_auto: true
 autonym: Wunambal
 alt_names: ["'Wila'Wila", Andadja, Andedja, Andidja, Guwij, Kalari, "Kalari:", Kandjanan, Kundjanan, Munumbara, Munumburru, Munumburu, Ngarinjin, Ngarinyin, Ngarnawu, Northern Language, Piarngongo, Taib, Taibange, Ullumbuloo, Ungarinjin, Walmbi, Wila Wila, Wila-Wila, Wolyamidi, Worrorran, Wular, "Wular:", Wulu]
 population: null
@@ -15,4 +13,8 @@ glottocode: wila1240
 glottolog_family_id: worr1236
 glottolog_family_name: Worrorran
 glottolog_classification: "Worrorran > Northern Worrorran > Wilawila"
+translations:
+  - translation_iso: zho
+    name: 威拉威拉语
+    auto: true
 ---

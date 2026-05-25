@@ -1,8 +1,6 @@
 ---
 iso: dho
 name: Dhodia
-name_zh: 多迪亚语
-name_zh_auto: true
 autonym: "Kokna-Dhodia"
 alt_names: [Dhobi, Dhore, Dhori, Dhowari, Doria]
 population: 49100
@@ -16,5 +14,9 @@ glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Indo-Aryan > Middle-Modern Indo-Aryan > Continental Indo-Aryan > Midlands Indo-Aryan > Bhil > Dhodia-Kukna"
 wikipedia_url: "https://en.wikipedia.org/wiki/Dhodia%E2%80%93Kukna_language"
+translations:
+  - translation_iso: zho
+    name: 多迪亚语
+    auto: true
 ---
 The tribal Kukna (Kokna) speak Kukna and Dhodia speak Dhodia in parts of Gujarat, Dadra and Nagar Haveli and Daman and Diu, Madhya Pradesh, Maharashtra and Rajasthan.

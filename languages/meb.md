@@ -1,8 +1,6 @@
 ---
 iso: meb
 name: Ikobi
-name_zh: 伊科比语
-name_zh_auto: true
 autonym: Mena
 alt_names: [Ikobi Kairi, Ikobi-Mena, Kasere, Kopo-Monia, Meni, Wailemi]
 population: 300
@@ -16,6 +14,12 @@ glottolog_family_id: tura1263
 glottolog_family_name: Turama-Kikori
 glottolog_classification: "Turama-Kikori > Turama-Omatian > Ikobi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ikobi_language"
+translations:
+  - translation_iso: ara
+    name: لغة إيكوبي
+  - translation_iso: zho
+    name: 伊科比语
+    auto: true
 rolv_dialects:
   - rolv_code: 20884
     language_tag: meb-x-HIS20884

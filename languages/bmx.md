@@ -1,8 +1,6 @@
 ---
 iso: bmx
 name: Baimak
-name_zh: 拜马克语
-name_zh_auto: true
 autonym: null
 population: 653
 country_id: PG
@@ -15,6 +13,10 @@ glottolog_family_id: nucl1709
 glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Madang > Croisilles > Mabuso > Hanseman > Garuhic > Baimak"
 wikipedia_url: "https://en.wikipedia.org/wiki/Baimak_language"
+translations:
+  - translation_iso: zho
+    name: 拜马克语
+    auto: true
 rolv_dialects:
   - rolv_code: 30360
     language_tag: bmx-x-HIS30360

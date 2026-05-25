@@ -1,8 +1,6 @@
 ---
 iso: ilv
 name: Ilue
-name_zh: 伊卢埃语
-name_zh_auto: true
 autonym: Idua
 population: 5000
 country_id: NG
@@ -15,5 +13,9 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Delta Cross > Lower Cross > Nuclear Lower Cross > West Lower Cross > Ilue"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ilue_language"
+translations:
+  - translation_iso: zho
+    name: 伊卢埃语
+    auto: true
 ---
 Ilue is a Lower Cross River language of Nigeria. Another name for Ilue is Idua.

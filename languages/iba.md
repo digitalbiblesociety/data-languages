@@ -1,7 +1,6 @@
 ---
 iso: iba
 name: Iban
-name_zh: 伊班语
 autonym: Jaku Iban
 alt_names: [Bahasa Iban, Dayak, Sea Dayak]
 population: 782800
@@ -16,6 +15,17 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Malayo-Chamic > Malayic > Ibanic > Iban-Mualang-Seberuang > Iban-Seberuang > Northern Iban > Iban"
 wikipedia_url: "https://en.wikipedia.org/wiki/Iban_language"
+translations:
+  - translation_iso: ara
+    name: الإيبان
+  - translation_iso: hin
+    name: इबान
+  - translation_iso: jpn
+    name: イバン語
+  - translation_iso: kor
+    name: 이반어
+  - translation_iso: zho
+    name: 伊班语
 rolv_dialects:
   - rolv_code: 772
     language_tag: iba-x-HIS00772

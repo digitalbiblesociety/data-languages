@@ -1,7 +1,6 @@
 ---
 iso: bos
 name: Bosnian
-name_zh: 波斯尼亚语
 autonym: босански
 population: 3301000
 country_id: BA
@@ -11,6 +10,17 @@ latitude: 42.93308
 longitude: 17.67044
 scripts: [Cyrl, Latn]
 wikipedia_url: "https://en.wikipedia.org/wiki/Bosnian_language"
+translations:
+  - translation_iso: ara
+    name: البوسنية
+  - translation_iso: hin
+    name: बॉस्नियाई भाषा
+  - translation_iso: jpn
+    name: ボスニア語
+  - translation_iso: kor
+    name: 보스니아어
+  - translation_iso: zho
+    name: 波斯尼亚语
 rolv_dialects:
   - rolv_code: 24495
     language_tag: bs-x-HIS24495

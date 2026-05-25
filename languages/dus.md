@@ -1,7 +1,6 @@
 ---
 iso: dus
 name: Dumi
-name_zh: 杜米语
 autonym: "Dumi Bo'o"
 alt_names: [Doumeg, Dumi Bro, Dumish, Dumí, Lsi Rai, Rai, "Ro'do Bo'", Sotmali]
 population: 2000
@@ -15,6 +14,11 @@ glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Himalayish > Mahakiranti > Kiranti > Upper Dudhkosi > Dumi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Dumi_language"
+translations:
+  - translation_iso: jpn
+    name: ドゥミー語
+  - translation_iso: zho
+    name: 杜米语
 rolv_dialects:
   - rolv_code: 9437
     language_tag: dus-x-HIS09437

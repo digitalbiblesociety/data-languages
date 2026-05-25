@@ -1,7 +1,6 @@
 ---
 iso: lkh
 name: Lakha
-name_zh: 拉卡语
 autonym: ལ་ཁ་
 alt_names: [Tshangkha]
 population: 8000
@@ -15,5 +14,12 @@ glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Bodic > Bodish > Early Old Tibetan > Middle Old Tibetan > Late Old Tibetan > Southern Tibetic > Lakha"
 wikipedia_url: "https://en.wikipedia.org/wiki/Lakha_language"
+translations:
+  - translation_iso: jpn
+    name: ラ語
+  - translation_iso: kor
+    name: 라카어 (부탄)
+  - translation_iso: zho
+    name: 拉卡语
 ---
 Lakha is a Southern Tibetic language spoken by about 8,000 people in Wangdue Phodrang and Trongsa Districts in central Bhutan. Lakha is spoken by descendants of pastoral yakherd communities.

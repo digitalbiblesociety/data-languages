@@ -1,7 +1,6 @@
 ---
 iso: usp
 name: Uspanteco
-name_zh: 乌斯潘特克语
 autonym: Uspanteco
 alt_names: [Idioma uspanteco, Língua uspanteca, Uspantec, Uspanteeks, Uspantek language, Uspantekisk, Uspanteko, Uspantèque, Успантечки јазик]
 population: 5130
@@ -15,5 +14,12 @@ glottolog_family_id: maya1287
 glottolog_family_name: Mayan
 glottolog_classification: "Mayan > Core Mayan > Quichean-Mamean > Greater Quichean > Uspanteco"
 wikipedia_url: "https://en.wikipedia.org/wiki/Uspantek_language"
+translations:
+  - translation_iso: jpn
+    name: ウスパンテコ語
+  - translation_iso: kor
+    name: 우스판텍어
+  - translation_iso: zho
+    name: 乌斯潘特克语
 ---
 Uspantek is a Mayan language of Guatemala, closely related to Kʼicheʼ. It is spoken in the Uspantán and Playa Grande Ixcán municipios, in the Department El Quiché. It is also one of only four Mayan languages to have developed contrastive tone. It distinguishes between vowels with high tone and vowels with low tone.

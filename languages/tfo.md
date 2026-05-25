@@ -1,8 +1,6 @@
 ---
 iso: tfo
 name: Tefaro
-name_zh: 特法罗语
-name_zh_auto: true
 autonym: Demba
 population: 100
 country_id: ID
@@ -15,5 +13,9 @@ glottolog_family_id: geel1240
 glottolog_family_name: Geelvink Bay
 glottolog_classification: "Geelvink Bay > Tefaro"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tefaro_language"
+translations:
+  - translation_iso: zho
+    name: 特法罗语
+    auto: true
 ---
 Tefaro is a Papuan language of the Indonesian province of Papua, on the eastern shore of Cenderawasih Bay. It is spoken in Demba and Tefaro villages of Waropen Regency.

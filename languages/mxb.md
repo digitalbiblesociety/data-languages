@@ -1,8 +1,6 @@
 ---
 iso: mxb
 name: Tezoatlán Mixtec
-name_zh: 特佐特兰米克斯特克语
-name_zh_auto: true
 autonym: "Mixtec, Tezoatlán"
 alt_names: [Cacaloxtepec Mixtec, Huajuapan Mixtec, Mixteco de Cacaloxtepec, Mixteco de Tezoatlán de Segura y Luna, Northern Misteko, Northern Mixteco, Tezoatlan Mixtec]
 population: 5080
@@ -15,6 +13,10 @@ glottocode: tezo1238
 glottolog_family_id: otom1299
 glottolog_family_name: Otomanguean
 glottolog_classification: "Otomanguean > Eastern Otomanguean > Amuzgo-Mixtecan > Mixtecan > Mixtec-Cuicatec > Mixtec > Tezoatlanic > Tezoatlán Mixtec"
+translations:
+  - translation_iso: zho
+    name: 特佐特兰米克斯特克语
+    auto: true
 rolv_dialects:
   - rolv_code: 4778
     language_tag: mxb-x-HIS04778

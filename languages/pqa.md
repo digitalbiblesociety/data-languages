@@ -1,8 +1,6 @@
 ---
 iso: pqa
 name: "Pa'a"
-name_zh: 帕阿语
-name_zh_auto: true
 autonym: Afa
 alt_names: [Afanci, Afawa, "Fa'awa", Foni, Fucaka, Fuuceka, "Pa'anci", "Pa'awa", Paa, Paanci, Pala]
 population: 8000
@@ -16,5 +14,9 @@ glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > West Chadic > West Chadic B > West Chadic B.2 > Nuclear West Chadic B.2 > Western West Chadic B.2 > Pa'a"
 wikipedia_url: "https://en.wikipedia.org/wiki/Pa%CA%BCa_language"
+translations:
+  - translation_iso: zho
+    name: 帕阿语
+    auto: true
 ---
 Paʼa, also known as Afa (Afawa) or Fucaka (autonym), is an Afro-Asiatic language spoken in Bauchi State, Nigeria.

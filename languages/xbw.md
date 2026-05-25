@@ -1,8 +1,6 @@
 ---
 iso: xbw
 name: Kambiwá
-name_zh: 坎比瓦语
-name_zh_auto: true
 autonym: Cambioá
 alt_names: [Brazil, Kambiwa]
 population: null
@@ -16,5 +14,9 @@ glottolog_family_id: uncl1493
 glottolog_family_name: Unclassifiable
 glottolog_classification: "Unclassifiable > Kambiwá"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kambiw%C3%A1_language"
+translations:
+  - translation_iso: zho
+    name: 坎比瓦语
+    auto: true
 ---
 Kambiwá is an extinct unclassified language of Brazil. A couple dozen words were collected by Wilbur Pickering during the 1960s from two people living in Barreira, Petrolândia, Pernambuco. However, by that time the language had become extinct. The Kambiwá still refer to their original language, and they preserve a few words of it today.

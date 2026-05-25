@@ -1,8 +1,6 @@
 ---
 iso: gyi
 name: Gyele
-name_zh: 吉埃莱语
-name_zh_auto: true
 autonym: Ngumba
 alt_names: ["\"Babinga\"", Babinga, Bagiele, Bagyele, Bagyéli, Bajele, Bajeli, Baka, Bako, Bakola, Bakuele, Bekoe, Bogyel, Bogyeli, Bondjiel, Giele, Gieli, Guiele, Gyeli, Likoya]
 population: 4250
@@ -15,6 +13,10 @@ glottocode: gyel1242
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > Bantu A-B10-B20-B30 > Makaa-Kako (A.80-90) > Makaa-Njem (A.80) > Western A80 > Mvumboic > Kwasio-Gyele > Gyele"
+translations:
+  - translation_iso: zho
+    name: 吉埃莱语
+    auto: true
 rolv_dialects:
   - rolv_code: 25062
     language_tag: gyi-x-HIS25062

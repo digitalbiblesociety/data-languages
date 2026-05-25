@@ -1,8 +1,6 @@
 ---
 iso: ife
 name: Ifè
-name_zh: 伊费语
-name_zh_auto: true
 autonym: Ana
 alt_names: [Ana-Ife, Ana-Ifé, Anago, Baate, Ede Ife, Ife]
 population: 170600
@@ -17,6 +15,10 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Defoid > Yoruboid > Edekiri > Ede > Western Ede > Southwestern Ede > Ifè"
 wikipedia_url: "https://en.wikipedia.org/wiki/If%C3%A8_language"
+translations:
+  - translation_iso: zho
+    name: 伊费语
+    auto: true
 rolv_dialects:
   - rolv_code: 10794
     language_tag: ife-x-HIS10794

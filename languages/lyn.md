@@ -1,7 +1,6 @@
 ---
 iso: lyn
 name: Luyana
-name_zh: 卢亚纳语
 autonym: Esiluyana
 alt_names: [Louyi, Luana, Luano, Lui, Luyi, Rouyi]
 population: 12114
@@ -15,6 +14,9 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > Central-Western Bantu > Greater Luyana > Eastern Greater Luyana > Luyi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Luyana_language"
+translations:
+  - translation_iso: zho
+    name: 卢亚纳语
 rolv_dialects:
   - rolv_code: 13175
     language_tag: lyn-x-HIS13175

@@ -1,8 +1,6 @@
 ---
 iso: ikh
 name: "Ikhin-Aokho"
-name_zh: 伊金-奥克霍语
-name_zh_auto: true
 autonym: Arokho
 alt_names: [Ikhin-Arokho]
 population: null
@@ -16,6 +14,10 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Akpes-Edoid > Edoid > North-Central Edoid > Central Plains Edoid > Emaic > Ikhin-Arokho"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ikhin_language"
+translations:
+  - translation_iso: zho
+    name: 伊金-奥克霍语
+    auto: true
 rolv_dialects:
   - rolv_code: 28303
     language_tag: ikh-x-HIS28303

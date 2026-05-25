@@ -1,7 +1,6 @@
 ---
 iso: bxm
 name: Mongolia Buriat
-name_zh: 蒙古布里亚特语
 autonym: Buriat
 alt_names: [Bouriate (Cis-Baïkalie), Bouriate (Mandchourie), Bouriate (Transbaïkalie), "Bur:aad", "Buriat, Mongolia", Buriat-Mongolian, Buriato (transbaikálico), Burjatisch, Buryat, Eastern Buryat, Mongolian Buriat, Northern Mongolian, buryaad xelen, буриад аялгуу, буряад хэлэн, бурят-монгольский язык, бурятский язык]
 population: 42500
@@ -14,6 +13,11 @@ glottocode: mong1330
 glottolog_family_id: mong1349
 glottolog_family_name: Mongolic-Khitan
 glottolog_classification: "Mongolic-Khitan > Mongolic > Eastern Mongolic > Khalkha-Buriat > Buriat > Mongolia Buriat"
+translations:
+  - translation_iso: jpn
+    name: モンゴルブリヤート語
+  - translation_iso: zho
+    name: 蒙古布里亚特语
 rolv_dialects:
   - rolv_code: 8525
     language_tag: bxm-x-HIS08525

@@ -1,7 +1,6 @@
 ---
 iso: sus
 name: Susu
-name_zh: 苏苏语
 autonym: Sosoxi
 alt_names: [Bahasa Susu, Língua susu, Sose, Soso, Soussou, Susoo, Susse, Susu-Yalunka]
 population: 2409140
@@ -16,6 +15,17 @@ glottolog_family_id: mand1469
 glottolog_family_name: Mande
 glottolog_classification: "Mande > Western Mande > Manding-Kpelle > Central Mande > Susu-Yalunka > Susu"
 wikipedia_url: "https://en.wikipedia.org/wiki/Susu_language"
+translations:
+  - translation_iso: ara
+    name: لغة سوسوية
+  - translation_iso: hin
+    name: सूसू भाषा
+  - translation_iso: jpn
+    name: スス語
+  - translation_iso: kor
+    name: 수수어
+  - translation_iso: zho
+    name: 苏苏语
 rolv_dialects:
   - rolv_code: 6157
     language_tag: sus-x-HIS06157

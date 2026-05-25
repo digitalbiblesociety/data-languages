@@ -1,8 +1,6 @@
 ---
 iso: mij
 name: Abar
-name_zh: 阿巴尔语
-name_zh_auto: true
 autonym: Missong
 alt_names: [Mijong, Mungbam]
 population: 2000
@@ -16,6 +14,10 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Yemne-Kimbi > Mungbam"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mungbam_language"
+translations:
+  - translation_iso: zho
+    name: 阿巴尔语
+    auto: true
 rolv_dialects:
   - rolv_code: 6235
     language_tag: mij-x-HIS06235

@@ -1,8 +1,6 @@
 ---
 iso: xru
 name: Marriammu
-name_zh: 玛里亚姆鲁语
-name_zh_auto: true
 autonym: Berringen
 alt_names: [MareAmmu, Marri Ammu]
 population: null
@@ -15,4 +13,8 @@ glottocode: marr1256
 glottolog_family_id: west2434
 glottolog_family_name: Western Daly
 glottolog_classification: "Western Daly > Bringen > Marithielic > Marriammu"
+translations:
+  - translation_iso: zho
+    name: 玛里亚姆鲁语
+    auto: true
 ---

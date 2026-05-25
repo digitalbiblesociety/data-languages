@@ -1,8 +1,6 @@
 ---
 iso: ksv
 name: Kusu
-name_zh: 库苏语
-name_zh_auto: true
 autonym: Fuluka
 alt_names: [Kikusu, Kongola, Kutsu, Lokutsu]
 population: 100000
@@ -16,6 +14,12 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > Central-Western Bantu > North Zaire River > Inner Basin Bantu > Cuvette > Nkutsuic > Tetelaic > Kusu"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kusu_language"
+translations:
+  - translation_iso: jpn
+    name: クス語
+  - translation_iso: zho
+    name: 库苏语
+    auto: true
 rolv_dialects:
   - rolv_code: 30236
     language_tag: ksv-x-HIS30236

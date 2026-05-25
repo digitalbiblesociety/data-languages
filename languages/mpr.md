@@ -1,8 +1,6 @@
 ---
 iso: mpr
 name: Vangunu
-name_zh: 瓦恩古努语
-name_zh_auto: true
 autonym: null
 alt_names: [Lenga Vangunu, Solomon Islands]
 population: 399
@@ -16,6 +14,10 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > Meso Melanesian linkage > New Ireland-Northwest Solomonic linkage > St George linkage > Northwest Solomonic > New Georgia > East New Georgia > Marovo-Vangunu > Vangunu"
 wikipedia_url: "https://en.wikipedia.org/wiki/Vangunu_language"
+translations:
+  - translation_iso: zho
+    name: 瓦恩古努语
+    auto: true
 rolv_dialects:
   - rolv_code: 3606
     language_tag: mpr-x-HIS03606

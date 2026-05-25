@@ -1,8 +1,6 @@
 ---
 iso: zpy
 name: Mazaltepec Zapotec
-name_zh: 马扎尔特佩克萨波特克语
-name_zh_auto: true
 autonym: (Santo Tomás Mazaltepec)
 alt_names: [Etla Zapotec, Northern Sapoteko, Tejalapan, Tejalapan Zapotec, Zapotec, "Zapotec, Mazaltepec", Zapoteco de San Felipe Tejalapan, Zapoteco de Santo Tomás Mazaltepec, Zapoteco de Tejalápam]
 population: 2200
@@ -16,5 +14,9 @@ glottolog_family_id: otom1299
 glottolog_family_name: Otomanguean
 glottolog_classification: "Otomanguean > Eastern Otomanguean > Popoloca-Zapotecan > Zapotecan > Zapotec > Core Zapotec > Narrow Core Zapotec > Central Core Zapotec > Mazaltepec Zapotec"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mazaltepec_Zapotec"
+translations:
+  - translation_iso: zho
+    name: 马扎尔特佩克萨波特克语
+    auto: true
 ---
 Mazaltepec Zapotec, also known as Etla Zapotec, is a divergent Zapotec language of the Mexican state of Oaxaca. It stands apart from other varieties of Zapotec; it has only 10% intelligibility with San Juan Guelavía Zapotec, but zero intelligibility with other varieties of Zapotec that have been tested. The moribund Tejalapan Zapotec may be closer.

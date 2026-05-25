@@ -1,8 +1,6 @@
 ---
 iso: daq
 name: Dandami Maria
-name_zh: 丹达米玛丽亚语
-name_zh_auto: true
 autonym: Madiya
 alt_names: [Bison Horn Maria, Dandami Madiya, Dhuru, Gondi (Maṛia), Gonḍi, Gōṇḍī, Maria Gond, "Maria, Dandami"]
 population: 200000
@@ -15,6 +13,10 @@ glottocode: dand1238
 glottolog_family_id: drav1251
 glottolog_family_name: Dravidian
 glottolog_classification: "Dravidian > South Dravidian > South Dravidian II > Gondi > Southeast Gondi > South Bastar Gondi-Koya > Dandami Maria"
+translations:
+  - translation_iso: zho
+    name: 丹达米玛丽亚语
+    auto: true
 rolv_dialects:
   - rolv_code: 13731
     language_tag: daq-x-HIS13731

@@ -1,8 +1,6 @@
 ---
 iso: cin
 name: Cinta Larga
-name_zh: 辛塔拉加语
-name_zh_auto: true
 autonym: null
 alt_names: [Aruá, Cinta-larga, Gavião, Gavião du Rondônia, Zoró]
 population: 1300
@@ -16,5 +14,9 @@ glottolog_family_id: tupi1275
 glottolog_family_name: Tupian
 glottolog_classification: "Tupian > Monde > Gavianic > Nuclear Gavianic > Cinta Larga"
 wikipedia_url: "https://en.wikipedia.org/wiki/Cinta_Larga_language"
+translations:
+  - translation_iso: zho
+    name: 辛塔拉加语
+    auto: true
 ---
 Cinta Larga is a Tupian dialect cluster of Brazil, the largest language of the Monde branch.

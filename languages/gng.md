@@ -1,8 +1,6 @@
 ---
 iso: gng
 name: Ngangam
-name_zh: 恩甘加姆语
-name_zh_auto: true
 autonym: Gulimancema
 alt_names: [Dye, Gamgan, Gangam, Gangum, Gbanyang, Migangam, Mijiem, Nbangam, Ngangan, Ngãngã]
 population: 217400
@@ -16,6 +14,10 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Gur > Central Gur > Northern Central Gur > Bwamu-Oti-Volta > Oti-Volta > Nuclear Oti-Volta > Gurma-Yom-Oti-Volta Occidental > Gurma-Yom-Naudem > Gurma > Gurma B > Konkomba-Gangam > Ngangam"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ngangam_language"
+translations:
+  - translation_iso: zho
+    name: 恩甘加姆语
+    auto: true
 rolv_dialects:
   - rolv_code: 14871
     language_tag: gng-x-HIS14871

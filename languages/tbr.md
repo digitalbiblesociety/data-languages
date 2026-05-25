@@ -1,8 +1,6 @@
 ---
 iso: tbr
 name: Tumtum
-name_zh: 图图姆语
-name_zh_auto: true
 autonym: null
 population: 1300
 country_id: SD
@@ -15,6 +13,10 @@ glottolog_family_id: kadu1256
 glottolog_family_name: Kadugli-Krongo
 glottolog_classification: "Kadugli-Krongo > Central-Western Kadugli-Krongo > Krongo-Tumtum > Tumtum"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tumtum_language"
+translations:
+  - translation_iso: zho
+    name: 图图姆语
+    auto: true
 rolv_dialects:
   - rolv_code: 17777
     language_tag: tbr-x-HIS17777

@@ -1,8 +1,6 @@
 ---
 iso: knp
 name: Kwanja
-name_zh: 克万贾语
-name_zh_auto: true
 autonym: Konja
 alt_names: [Kondja]
 population: 10000
@@ -16,6 +14,10 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Northern Bantoid > Mambiloid > Nizaa-Mambila-Vute > Konja-Mambila-Vute > Konja > Kwanja"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kwanja_language"
+translations:
+  - translation_iso: zho
+    name: 克万贾语
+    auto: true
 rolv_dialects:
   - rolv_code: 6198
     language_tag: knp-x-HIS06198

@@ -1,7 +1,6 @@
 ---
 iso: kat
 name: Georgian
-name_zh: 格鲁吉亚语
 autonym: Kartuli
 alt_names: [Bahasa Georgia, Basa Georgia, Georgian kieli, Georgiera, Georgisch, Georgische Sprache, Georgisk, Georgisk språk, Georgiska, Georgià, Georgíska, Grozėnu kalba, Gruusia keel, Gruzia-gí, Gruzijski, Gruzijski jezik, Gruzinski, Gruzinščina, Gruzinų kalba, Gruzínčina, Gruzínština, Gruzīnu valoda, Grúz nyelv, Gurciki, Géorgien, Gürcü dili, Gürcüce, Idioma georgiano, Jorjieg, Język gruziński, Kartul simi, Kartvela lingvo, Limba georgiană, Lingua Georgiana, Lingua xeorxiana, Língua georgiana, Nuclear Georgian, Pinulongang Heyorhiyano, Seoirsis, Wikang Heyorhiyano, Zimanê gurcî, Γεωργιανή γλώσσα, Ақырҭ бызшәа, Грузин тили, Грузин чĕлхи, Грузински език, Грузинский язык, Грузинська мова, Грузиски јазик, Грузијски језик, Грузінская мова, Гуырдзиаг æвзаг, Забони гурҷӣ, Վրացերեն, גאורגית, زبان گرجی, لغة جورجية, گرۇزىن تىلى, گورجی زوون, ܠܫܢܐ ܓܘܪܓܝܐ, சியார்சிய மொழி, ภาษาจอร์เจีย, ქართული ენა, グルジア語, 格鲁吉亚语, 그루지야어]
 population: 3898550
@@ -16,6 +15,17 @@ glottolog_family_id: kart1248
 glottolog_family_name: Kartvelian
 glottolog_classification: "Kartvelian > Georgian-Zan > Georgic > Georgian"
 wikipedia_url: "https://en.wikipedia.org/wiki/Georgian_language"
+translations:
+  - translation_iso: ara
+    name: الجورجية
+  - translation_iso: hin
+    name: जॉर्जियाई भाषा
+  - translation_iso: jpn
+    name: ジョージア語
+  - translation_iso: kor
+    name: 조지아어
+  - translation_iso: zho
+    name: 格鲁吉亚语
 rolv_dialects:
   - rolv_code: 10158
     language_tag: ka-x-HIS10158

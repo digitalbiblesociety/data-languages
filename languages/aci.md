@@ -1,8 +1,6 @@
 ---
 iso: aci
 name: "Aka-Cari"
-name_zh: 阿卡-卡里语
-name_zh_auto: true
 autonym: "Aka-Cari"
 alt_names: [Aka-Charíar, Andamanese, Cari, Chariar, Great Andamanese, Lèngua Aka-Cari, Tšari]
 population: null
@@ -16,5 +14,11 @@ glottolog_family_id: grea1241
 glottolog_family_name: Great Andamanese
 glottolog_classification: "Great Andamanese > North Andamanese-Akakede > Northern Great Andamanese > Bo-Cari > Akacari"
 wikipedia_url: "https://en.wikipedia.org/wiki/Akacari"
+translations:
+  - translation_iso: kor
+    name: 아카차리 방언
+  - translation_iso: zho
+    name: 阿卡-卡里语
+    auto: true
 ---
 Akachari, or Cari, is an extinct dialect of the Northern Andamanese language that was spoken by the Cari people, one of the dozen Great Andamanese peoples.

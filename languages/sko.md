@@ -1,8 +1,6 @@
 ---
 iso: sko
 name: Seko Tengah
-name_zh: 塞科滕加语
-name_zh_auto: true
 autonym: Pewanean
 alt_names: [Pewaneang, Pohoneang, Seko]
 population: 2500
@@ -16,5 +14,9 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Greater South Sulawesi > Rampi-Seko-Badaic > Seko > Seko Tengah"
 wikipedia_url: "https://en.wikipedia.org/wiki/Seko_Tengah_language"
+translations:
+  - translation_iso: zho
+    name: 塞科滕加语
+    auto: true
 ---
 Seko Tengah is an Austronesian language spoken in the North Luwu Regency of South Sulawesi, Indonesia. Together with Seko Padang, Panasuan and Budong-Budong, it belongs to the Seko branch of the South Sulawesi subgroup.

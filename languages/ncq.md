@@ -1,8 +1,6 @@
 ---
 iso: ncq
 name: Northern Katang
-name_zh: 北卡当语
-name_zh_auto: true
 autonym: null
 alt_names: ["Katang, Northern"]
 population: 65000
@@ -15,6 +13,10 @@ glottocode: nort3270
 glottolog_family_id: aust1305
 glottolog_family_name: Austroasiatic
 glottolog_classification: "Austroasiatic > Katuic > West Katuic > Brou-So > Eastern Bru-Katang > Katang > Northern Katang"
+translations:
+  - translation_iso: zho
+    name: 北卡当语
+    auto: true
 rolv_dialects:
   - rolv_code: 26817
     language_tag: ncq-x-HIS26817

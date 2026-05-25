@@ -1,8 +1,6 @@
 ---
 iso: ipo
 name: Ipiko
-name_zh: 伊皮科语
-name_zh_auto: true
 autonym: Epai
 alt_names: [Higa, Ipikoi]
 population: 200
@@ -16,6 +14,10 @@ glottolog_family_id: anim1240
 glottolog_family_name: Anim
 glottolog_classification: "Anim > Inland Gulf of Papua > Ipiko"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ipiko_language"
+translations:
+  - translation_iso: zho
+    name: 伊皮科语
+    auto: true
 rolv_dialects:
   - rolv_code: 1212
     language_tag: ipo-x-HIS01212

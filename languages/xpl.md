@@ -1,8 +1,6 @@
 ---
 iso: xpl
 name: "Port Sorell Tasmanian\r"
-name_zh: 索雷尔港塔斯马尼亚语
-name_zh_auto: true
 autonym: Port Sorell Tasmanian
 alt_names: ["Tasmanian, Port Sorell"]
 population: null
@@ -16,5 +14,9 @@ glottolog_family_id: west1503
 glottolog_family_name: Western Tasmanian
 glottolog_classification: "Western Tasmanian > Port Sorell"
 wikipedia_url: "https://en.wikipedia.org/wiki/Port_Sorell_language"
+translations:
+  - translation_iso: zho
+    name: 索雷尔港塔斯马尼亚语
+    auto: true
 ---
 Port Sorell is an extinct aboriginal language of Tasmania in the reconstruction of Claire Bowern. It was spoken near Port Sorell, in the center of the north coast, just east of Northern Tasmanian proper. Dixon & Crowley agree that there is unlikely to be a close connection to other varieties of Tasmanian.

@@ -1,8 +1,6 @@
 ---
 iso: oke
 name: Okpe (Southwestern Edo)
-name_zh: 奥克佩语
-name_zh_auto: true
 autonym: null
 alt_names: [Nigeria, Okpe]
 population: 25400
@@ -16,5 +14,9 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Akpes-Edoid > Edoid > Southwestern Edoid > Okpe (Southwestern Edo)"
 wikipedia_url: "https://en.wikipedia.org/wiki/Okpe_language_(Southwestern_Edo)"
+translations:
+  - translation_iso: zho
+    name: 奥克佩语
+    auto: true
 ---
 Okpe is an Edoid language of Nigeria spoken by the Urhobo people.

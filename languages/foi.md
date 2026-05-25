@@ -1,8 +1,6 @@
 ---
 iso: foi
 name: Foi
-name_zh: 福伊语
-name_zh_auto: true
 autonym: Foe
 alt_names: [Kutubu, Mubi River]
 population: 2800
@@ -16,6 +14,10 @@ glottolog_family_id: east2499
 glottolog_family_name: East Kutubu
 glottolog_classification: "East Kutubu > Foi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Foi_language"
+translations:
+  - translation_iso: zho
+    name: 福伊语
+    auto: true
 rolv_dialects:
   - rolv_code: 9836
     language_tag: foi-x-HIS09836

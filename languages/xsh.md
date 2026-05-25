@@ -1,8 +1,6 @@
 ---
 iso: xsh
 name: Shamang
-name_zh: 沙芒语
-name_zh_auto: true
 autonym: Samang
 alt_names: [Samban]
 population: null
@@ -16,5 +14,9 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Benue-Congo Plateau > West-Central Benue-Congo Plateau > Northwestern Benue-Congo Plateau > Hyamic > Shamang"
 wikipedia_url: "https://en.wikipedia.org/wiki/Shamang_language"
+translations:
+  - translation_iso: zho
+    name: 沙芒语
+    auto: true
 ---
 Shamang is a poorly known Plateau language of Nigeria.

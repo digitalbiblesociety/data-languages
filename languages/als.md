@@ -1,7 +1,6 @@
 ---
 iso: als
 name: Tosk Albanian
-name_zh: 托斯克方言
 autonym: toskë
 alt_names: [Albanesisch, Albanian, "Albanian, Tosk", Albanés tosco, Arber, Arbresh, Arnaut, Dialectul Tosk, Kosovë, Ship, Shkip, Shqip, Shqiperë, Shqipēri, Shquipni, Skchip, Tosk, Toskijski jezik, Toskisch, Toskiska, Tosque, Ukrainian Albanian, Zhgabe, Škip, Τοσκική διάλεκτος, Тоски, Тоскский диалект албанского языка, トスク方言]
 population: 1826830
@@ -15,6 +14,15 @@ glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Albanian > Albanian-Tosk > Northern Tosk Albanian"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tosk_Albanian"
+translations:
+  - translation_iso: ara
+    name: ألبانية توسكية
+  - translation_iso: jpn
+    name: トスク方言
+  - translation_iso: kor
+    name: 토스크 알바니아어
+  - translation_iso: zho
+    name: 托斯克方言
 rolv_dialects:
   - rolv_code: 6872
     language_tag: als-x-HIS06872

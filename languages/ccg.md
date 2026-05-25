@@ -1,8 +1,6 @@
 ---
 iso: ccg
 name: Samba Daka
-name_zh: 桑巴达卡语
-name_zh_auto: true
 autonym: Chamba Daka
 alt_names: [Daka, "Daka, Samba", Dakka, Dekka, Deng, Jama, Nakanyare, Sama, Samba, Tchamba, Tikk, Tsamba]
 population: 107000
@@ -15,6 +13,10 @@ glottocode: samb1311
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Northern Bantoid > Dakoid > Taram-Dirim-Nnakenyare > Sama Mum"
+translations:
+  - translation_iso: zho
+    name: 桑巴达卡语
+    auto: true
 rolv_dialects:
   - rolv_code: 16256
     language_tag: ccg-x-HIS16256

@@ -1,8 +1,6 @@
 ---
 iso: ctm
 name: Chitimacha
-name_zh: 奇提玛查语
-name_zh_auto: true
 autonym: Čitimaaša
 alt_names: [Chatimacha, Chetimacha, Chitimacha Cluster, Chitimachan, Shetimacha, Shetimasha, Читимача]
 population: null
@@ -13,5 +11,15 @@ latitude: 30.33861
 longitude: -90.91232
 glottocode: chit1248
 wikipedia_url: "https://en.wikipedia.org/wiki/Chitimacha_language"
+translations:
+  - translation_iso: ara
+    name: شيتيماشا
+  - translation_iso: jpn
+    name: チティマシャ語
+  - translation_iso: kor
+    name: 치티머샤어
+  - translation_iso: zho
+    name: 奇提玛查语
+    auto: true
 ---
 Chitimacha is a language isolate historically spoken by the Chitimacha people of Louisiana, United States. It became extinct in 1940 with the death of the last fluent speaker, Delphine Ducloux.

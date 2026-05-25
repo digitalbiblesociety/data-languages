@@ -1,8 +1,6 @@
 ---
 iso: abe
 name: Western Abnaki
-name_zh: 西部阿布纳基语
-name_zh_auto: true
 autonym: Wôbanakiôdwawôgan
 alt_names: [Abenaki, Abenaki (Western), Abenakí occidental (Estados Unidos), Abenaqui, Abnaki, Abnaki (Western), "Abnaki, Western", Abénaqui occidental (Canada), "Abénaqui occidental (États-Unis d'Amérique)", St Francis, St. Francis, Western, Western Abenaki, Westliche Abenaki, Zapadnoabnački jezik]
 population: 14
@@ -16,5 +14,11 @@ glottolog_family_id: algi1248
 glottolog_family_name: Algic
 glottolog_classification: "Algic > Algonquian-Blackfoot > Algonquian > Eastern Algonquian > Maritimes-Southern New England Algonquian > Northern Eastern Algonquian > Abenaki > Western Abenaki"
 wikipedia_url: "https://en.wikipedia.org/wiki/Western_Abenaki_language"
+translations:
+  - translation_iso: jpn
+    name: 西アベナキ語
+  - translation_iso: zho
+    name: 西部阿布纳基语
+    auto: true
 ---
 Western Abenaki is a nearly extinct Algonquian language spoken by the Abenaki people in New Hampshire, Vermont, north-western Massachusetts, and southern Quebec. Odanak, Quebec is a First Nations reserve located near the Saint-François River—these peoples were referred to as Saint Francis Indians by English writers after the 1700s.

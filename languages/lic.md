@@ -1,7 +1,6 @@
 ---
 iso: lic
 name: Hlai
-name_zh: 黎语
 autonym: Li
 alt_names: ["B'lai", "B'li", Bli, Dai, Day, Dli, Hiai, Hlaï, Język hlai, "K'lai", Klai, La, Lai, Le, Loi, "S'lai", Slai, リー語, 黎语]
 population: 667000
@@ -15,6 +14,11 @@ glottolog_family_id: taik1256
 glottolog_family_name: Tai-Kadai
 glottolog_classification: "Tai-Kadai > Hlaic > Nuclear Hlaic > Hlai"
 wikipedia_url: "https://en.wikipedia.org/wiki/Hlai_language"
+translations:
+  - translation_iso: jpn
+    name: リー語
+  - translation_iso: zho
+    name: 黎语
 rolv_dialects:
   - rolv_code: 4795
     language_tag: lic-x-HIS04795

@@ -1,8 +1,6 @@
 ---
 iso: plv
 name: Southwest Palawano
-name_zh: 西南帕劳瓦诺语
-name_zh_auto: true
 autonym: null
 alt_names: ["Palawano, Southwest", Philippines]
 population: 12000
@@ -15,6 +13,10 @@ glottocode: sout2916
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Greater Central Philippine > Palawanic-Kalamian > Palawanic > Southern Palawanic > Molbog-Palawan > Nuclear Palawan > Brooke-Canipaan Palawan > Southwest Palawano"
+translations:
+  - translation_iso: zho
+    name: 西南帕劳瓦诺语
+    auto: true
 rolv_dialects:
   - rolv_code: 30086
     language_tag: plv-x-HIS30086

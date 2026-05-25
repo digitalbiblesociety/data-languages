@@ -1,8 +1,6 @@
 ---
 iso: spy
 name: Sabaot
-name_zh: 萨巴奥特语
-name_zh_auto: true
 autonym: Sebei
 alt_names: ["Bong'om", Kony, Mt. Elgon Maasai, Pok, Sore-Sabaut]
 population: 296000
@@ -16,6 +14,12 @@ glottolog_family_id: nilo1247
 glottolog_family_name: Nilotic
 glottolog_classification: "Nilotic > Southern Nilotic > Kalenjin > Elgon-Mau Kalenjin > Sabaot"
 wikipedia_url: "https://en.wikipedia.org/wiki/Sabaot_language"
+translations:
+  - translation_iso: jpn
+    name: サバオット語
+  - translation_iso: zho
+    name: 萨巴奥特语
+    auto: true
 rolv_dialects:
   - rolv_code: 16153
     language_tag: spy-x-HIS16153

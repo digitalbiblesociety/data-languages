@@ -1,8 +1,6 @@
 ---
 iso: pez
 name: Eastern Penan
-name_zh: 东皮南语
-name_zh_auto: true
 autonym: Penan
 alt_names: ["\"Punan\"", "Penan, Eastern", Punan]
 population: 6400
@@ -15,4 +13,8 @@ glottocode: east2485
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > North Borneo Malayo-Polynesian > North Sarawakan > Kenyahic > Lowland Kenyah > Western Lowland Kenyah-Penan > Penan > Eastern Penan"
+translations:
+  - translation_iso: zho
+    name: 东皮南语
+    auto: true
 ---

@@ -1,8 +1,6 @@
 ---
 iso: aqr
 name: Arhâ
-name_zh: 阿尔哈语
-name_zh_auto: true
 autonym: Ara
 alt_names: [Arha, Neukaledonien]
 population: 10
@@ -16,5 +14,9 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Southern Melanesian > New Caledonian > Mainland New Caledonian > Southern New Caledonian > Mid-Southern New Caledonian > Houailou > Arhâ"
 wikipedia_url: "https://en.wikipedia.org/wiki/Arh%C3%A2_language"
+translations:
+  - translation_iso: zho
+    name: 阿尔哈语
+    auto: true
 ---
 Arhö is a moribund Oceanic language of New Caledonia. In 2000, there were only 10 speakers of the language.

@@ -1,8 +1,6 @@
 ---
 iso: pll
 name: Shwe Palaung
-name_zh: 掸帕劳语
-name_zh_auto: true
 autonym: "De'ang"
 alt_names: [De Ang, Gold Palaung, Golden Palaung, Nam Hsan Palaung, Palaung, "Palaung, Shwe", Shwe, Ta-Ang Palaung, Ta-ang]
 population: 233000
@@ -15,6 +13,10 @@ glottocode: shwe1236
 glottolog_family_id: aust1305
 glottolog_family_name: Austroasiatic
 glottolog_classification: "Austroasiatic > Khasi-Palaung > Palaungic > West Palaungic > Palaung > Shwe Palaung"
+translations:
+  - translation_iso: zho
+    name: 掸帕劳语
+    auto: true
 rolv_dialects:
   - rolv_code: 27719
     language_tag: pll-x-HIS27719

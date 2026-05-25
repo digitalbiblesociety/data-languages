@@ -1,7 +1,6 @@
 ---
 iso: aem
 name: Arem
-name_zh: 阿雷姆语
 autonym: "A-Rem"
 alt_names: [Aremo, Chombrau, Chomrau, Umo]
 population: 100
@@ -15,6 +14,9 @@ glottolog_family_id: aust1305
 glottolog_family_name: Austroasiatic
 glottolog_classification: "Austroasiatic > Vietic > Chutic > East Chutic > Arem"
 wikipedia_url: "https://en.wikipedia.org/wiki/Arem_language"
+translations:
+  - translation_iso: zho
+    name: 阿雷姆语
 rolv_dialects:
   - rolv_code: 24201
     language_tag: aem-x-HIS24201

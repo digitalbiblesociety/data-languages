@@ -1,8 +1,6 @@
 ---
 iso: ybn
 name: Yabaâna
-name_zh: 亚巴阿纳语
-name_zh_auto: true
 autonym: Jabaana
 alt_names: [Yabaana, Yabarana, Yabaána]
 population: null
@@ -16,5 +14,11 @@ glottolog_family_id: araw1281
 glottolog_family_name: Arawakan
 glottolog_classification: "Arawakan > Medio Rio Negro > Marauia-Castana > Yabaâna-Mainatari"
 wikipedia_url: "https://en.wikipedia.org/wiki/Yaba%C3%A2na_language"
+translations:
+  - translation_iso: jpn
+    name: ヤバーナ語
+  - translation_iso: zho
+    name: 亚巴阿纳语
+    auto: true
 ---
 Yabaâna is an extinct or dormant South American Indigenous language in Brazil, of the Arawakan (Maipurean) language family.

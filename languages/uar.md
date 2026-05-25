@@ -1,8 +1,6 @@
 ---
 iso: uar
 name: Tairuma
-name_zh: 泰鲁马语
-name_zh_auto: true
 autonym: Uaripi
 population: 4500
 country_id: PG
@@ -15,5 +13,11 @@ glottolog_family_id: nucl1580
 glottolog_family_name: Eleman
 glottolog_classification: "Eleman > Eastern Eleman > Tairuma"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tairuma_language"
+translations:
+  - translation_iso: jpn
+    name: タイルマ語
+  - translation_iso: zho
+    name: 泰鲁马语
+    auto: true
 ---
 Tairuma, also known as Uaripi after its location, is a Trans–New Guinea language spoken in Uaripi in Central Kerema Rural LLG, Gulf Province, Papua New Guinea.

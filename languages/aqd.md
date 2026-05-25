@@ -1,8 +1,6 @@
 ---
 iso: aqd
 name: Ampari Dogon
-name_zh: 安帕里多贡语
-name_zh_auto: true
 autonym: Nyambeeŋge
 alt_names: [Ambeenge, Ampari, "Dogon, Ampari", Pignari]
 population: 5200
@@ -16,5 +14,9 @@ glottolog_family_id: dogo1299
 glottolog_family_name: Dogon
 glottolog_classification: "Dogon > West Dogon > Penangic > Ampari Dogon"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ampari_Dogon"
+translations:
+  - translation_iso: zho
+    name: 安帕里多贡语
+    auto: true
 ---
 Ampari Dogon, also known as Ambange or Ampari kora, is a Dogon language spoken in Mali.

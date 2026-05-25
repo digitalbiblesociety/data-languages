@@ -1,8 +1,6 @@
 ---
 iso: yns
 name: Yansi
-name_zh: 扬西语
-name_zh_auto: true
 autonym: Eyansi
 alt_names: [Eyanzi, Kiyanzi, Yans, Yans(i), Yanzi]
 population: 100000
@@ -16,6 +14,10 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > Central-Western Bantu > West-Coastal Bantu > Nzadic > Lweric > Dingic > Loange-Atlantic > Kwilu-Ngounie > Yansi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Yansi_language"
+translations:
+  - translation_iso: zho
+    name: 扬西语
+    auto: true
 rolv_dialects:
   - rolv_code: 1572
     language_tag: yns-x-HIS01572

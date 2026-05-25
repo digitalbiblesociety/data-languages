@@ -1,7 +1,6 @@
 ---
 iso: bpy
 name: Bishnupriya
-name_zh: 比什努普里亚-曼尼普尔语
 autonym: বিষ্ণুপ্রিয়া মণিপুরী
 alt_names: [Bahasa Bishnupur Manipur, Bishnupria Manipuri, Bishnupriya Manipuri, Bishnupriya Manipuri language, Bishnupuriya, Bisna Puriya, Biŝnuprija lingvo, Bišnuprija manipuri kalba, Bišnupríja manipurí, Créole bishnupriya manipuri, Język bisznuprija-manipuri, Lingua Bisnupriya, Manipurí, Бишнуприя-манипури, बिष्णुप्रिया मणिपुरी, मणिपुरी भाषा, বিষ্ণুপ্রিয়া মণিপুরী ভাষা, பிஷ்ணுப்பிரியா மணிப்புரி மொழி, ภาษาพิศนุปริยะ มณีปุรี, ビシュヌプリヤ・マニプリ語, 比什奴普萊利亞-曼尼浦爾語]
 population: 119600
@@ -16,6 +15,17 @@ glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Indo-Aryan > Middle-Modern Indo-Aryan > Continental Indo-Aryan > Indo-Aryan Eastern zone > Oriya-Gauda-Kamrupa > Gauda-Kamrupa > Gauda-Banga > Bishnupriya Manipuri"
 wikipedia_url: "https://en.wikipedia.org/wiki/Bishnupriya_Manipuri"
+translations:
+  - translation_iso: ara
+    name: لغة بيشنوبريا مانيبورية
+  - translation_iso: hin
+    name: बिष्णुप्रिया मणिपुरी
+  - translation_iso: jpn
+    name: ビシュヌプリヤ・マニプリ語
+  - translation_iso: kor
+    name: 비시누프리야마니푸르어
+  - translation_iso: zho
+    name: 比什努普里亚-曼尼普尔语
 rolv_dialects:
   - rolv_code: 24521
     language_tag: bpy-x-HIS24521

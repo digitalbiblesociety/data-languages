@@ -1,8 +1,6 @@
 ---
 iso: rms
 name: Romanian Sign Language
-name_zh: 罗马尼亚手语
-name_zh_auto: true
 autonym: Limba semnelor române
 population: 24600
 country_id: RO
@@ -15,5 +13,11 @@ glottolog_family_id: sign1238
 glottolog_family_name: Sign Language
 glottolog_classification: "Sign Language > L1 Sign Language > LSFic > Central European Sign > Romanian Sign Language"
 wikipedia_url: "https://en.wikipedia.org/wiki/Romanian_Sign_Language"
+translations:
+  - translation_iso: jpn
+    name: ルーマニア手話
+  - translation_iso: zho
+    name: 罗马尼亚手语
+    auto: true
 ---
 The Romanian Sign Language is the sign language used by deaf people in Romania. In Romania, the first organization dedicated to people with hearing impairments was the Romanian Society of the Deaf-Mute, established on 9 November 1919. It was continued by the Romanian Association of the Deaf-Mute (1952), and the National Association of the Deaf from Romania.

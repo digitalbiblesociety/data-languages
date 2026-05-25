@@ -1,7 +1,6 @@
 ---
 iso: kwn
 name: Kwangali
-name_zh: 卡納利語
 autonym: Rukwangali
 alt_names: [Cuangar, Kwangare, Kwangari, Língua RuKwangali, Sikwangali]
 population: 192000
@@ -15,6 +14,11 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > Central-Western Bantu > Njila > Southern Njila > Kunene > Kwangali-Diriku > Kwangali"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kwangali_language"
+translations:
+  - translation_iso: jpn
+    name: クワンガリ語
+  - translation_iso: zho
+    name: 卡納利語
 rolv_dialects:
   - rolv_code: 1956
     language_tag: kwn-x-HIS01956

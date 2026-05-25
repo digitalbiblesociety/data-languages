@@ -1,7 +1,6 @@
 ---
 iso: ukl
 name: Ukrainian Sign Language
-name_zh: 烏克蘭手語
 autonym: Українська жестова мова
 population: 54500
 country_id: UA
@@ -14,5 +13,10 @@ glottolog_family_id: sign1238
 glottolog_family_name: Sign Language
 glottolog_classification: "Sign Language > L1 Sign Language > RSLic > Nuclear RSLic > Central RSLic > Ukrainian Sign Language"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ukrainian_Sign_Language"
+translations:
+  - translation_iso: jpn
+    name: ウクライナ手話
+  - translation_iso: zho
+    name: 烏克蘭手語
 ---
 Ukrainian Sign Language is the sign language of the deaf community of Ukraine. Ukrainian Sign Language belongs to the family of French sign languages.

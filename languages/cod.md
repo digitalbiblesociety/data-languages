@@ -1,8 +1,6 @@
 ---
 iso: cod
 name: "Cocama-Cocamilla"
-name_zh: 科卡玛-科卡米利亚语
-name_zh_auto: true
 autonym: Kokáma
 alt_names: [Cocama, Cocama Cocamilla, Cocama language, Cocama-cocamilla (Brésil), Cocama-cocamilla (Perú), Cocama-cocamilla (Pérou), Cocamas, Huallaga, Idioma cocama, Kokama, Kokama-Kokamilya, Kokoma lingvo, Kokomeg, Kokáma-Omágwa, Kukama Kukamiria, Kukama simi, Kukama-Kukamiria, Pampadeque, Pandequebo, Ucayali, Xibitaoan, Xibitaona, Xibitoana, Кокама]
 population: 15000
@@ -16,6 +14,10 @@ glottolog_family_id: tupi1275
 glottolog_family_name: Tupian
 glottolog_classification: "Tupian > Eastern Tupian > Maweti-Guarani > Aweti-Guarani > Tupi-Guarani > Southern Tupi-Guarani > Tupi-Guarani Subgroup III > Omagua-Kokama > Cocama-Cocamilla"
 wikipedia_url: "https://en.wikipedia.org/wiki/Cocama_language"
+translations:
+  - translation_iso: zho
+    name: 科卡玛-科卡米利亚语
+    auto: true
 rolv_dialects:
   - rolv_code: 1539
     language_tag: cod-x-HIS01539

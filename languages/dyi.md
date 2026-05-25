@@ -1,8 +1,6 @@
 ---
 iso: dyi
 name: Djimini Senoufo
-name_zh: 吉米尼塞努弗语
-name_zh_auto: true
 autonym: "Senoufo, Djimini"
 alt_names: [Djimini, Dyimini, Gimini, Guimini, Jinmini, Senoufou (Djimini)]
 population: 95500
@@ -16,6 +14,10 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Senufo > South Senufo > Tagbana-Jimini > Djimini Senoufo"
 wikipedia_url: "https://en.wikipedia.org/wiki/Djimini_language"
+translations:
+  - translation_iso: zho
+    name: 吉米尼塞努弗语
+    auto: true
 rolv_dialects:
   - rolv_code: 16513
     language_tag: dyi-x-HIS16513

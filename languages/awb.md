@@ -1,8 +1,6 @@
 ---
 iso: awb
 name: Awa (Papua New Guinea)
-name_zh: 阿瓦语
-name_zh_auto: true
 autonym: Awa
 alt_names: [Chana, Mobuta]
 population: 2050
@@ -16,6 +14,12 @@ glottolog_family_id: nucl1709
 glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Kainantu-Goroka > Kainantu > Gauwa > Awa-Oweina > Awa (Papua New Guinea)"
 wikipedia_url: "https://en.wikipedia.org/wiki/Awa_language_(Papua_New_Guinea)"
+translations:
+  - translation_iso: jpn
+    name: アワ語
+  - translation_iso: zho
+    name: 阿瓦语
+    auto: true
 rolv_dialects:
   - rolv_code: 20961
     language_tag: awb-x-HIS20961

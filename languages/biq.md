@@ -1,8 +1,6 @@
 ---
 iso: biq
 name: Bipi
-name_zh: 比皮语
-name_zh_auto: true
 autonym: "Sisi-Bipi"
 alt_names: [Admiralitäts-inseln]
 population: 1200
@@ -16,5 +14,9 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Admiralty Islands > Eastern Admiralty Islands > Manus > West Manus > West Manus I > Bipi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Bipi_language"
+translations:
+  - translation_iso: zho
+    name: 比皮语
+    auto: true
 ---
 The Bipi language is the westernmost West Manus language. It is spoken by approximately 1200 people on the Bipi and Sisi Islands off the west coast of Manus Island, Manus Province of Papua New Guinea. It has SVO word order.

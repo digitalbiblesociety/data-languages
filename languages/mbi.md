@@ -1,8 +1,6 @@
 ---
 iso: mbi
 name: Ilianen Manobo
-name_zh: 伊利亚嫩曼诺博语
-name_zh_auto: true
 autonym: Ilianen Manobo
 alt_names: [Ilianen, "Manobo, Ilianen"]
 population: 14600
@@ -16,6 +14,12 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Greater Central Philippine > Manobo > Central and Southern Manobo > East-West-Central Manobo > West Manobo > WBM-Livunganen-Ilianen > Ilianen Manobo"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ilianen_language"
+translations:
+  - translation_iso: jpn
+    name: イリアネン語
+  - translation_iso: zho
+    name: 伊利亚嫩曼诺博语
+    auto: true
 rolv_dialects:
   - rolv_code: 13645
     language_tag: mbi-x-HIS13645

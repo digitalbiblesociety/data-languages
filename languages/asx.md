@@ -1,8 +1,6 @@
 ---
 iso: asx
 name: Muratayak
-name_zh: 穆拉塔亚克语
-name_zh_auto: true
 autonym: Asat
 alt_names: [Murataik]
 population: null
@@ -16,5 +14,9 @@ glottolog_family_id: nucl1709
 glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Finisterre-Huon > Finisterre-Saruwaged > Warup > Nuclear Warup > Muratayak"
 wikipedia_url: "https://en.wikipedia.org/wiki/Muratayak_language"
+translations:
+  - translation_iso: zho
+    name: 穆拉塔亚克语
+    auto: true
 ---
 Muratayak, also Asat, is one of the Finisterre languages of Papua New Guinea. There is no overall name; speakers variously use Muratayak, Asat and Aset. These names do not correspond consistently to dialects or even specific villages.

@@ -1,8 +1,6 @@
 ---
 iso: dae
 name: Duupa
-name_zh: 杜乌帕语
-name_zh_auto: true
 autonym: Duru
 alt_names: [Doupa, Dupa, Nduupa, Saa]
 population: 5000
@@ -15,4 +13,8 @@ glottocode: duup1238
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Cameroun-Ubangian > Central Adamawa > Samba-Duru > Southern Samba-Duru > Diic > Duupa"
+translations:
+  - translation_iso: zho
+    name: 杜乌帕语
+    auto: true
 ---

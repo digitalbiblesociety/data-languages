@@ -1,7 +1,6 @@
 ---
 iso: xns
 name: Kanashi
-name_zh: 卡納西語
 autonym: Kanasi
 alt_names: [Kanaśi, Kanāshī, Mālāni]
 population: 1400
@@ -15,5 +14,10 @@ glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Bodic > West Himalayish > Western West Himalayish > Kinnauric > Kanashi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kanashi_language"
+translations:
+  - translation_iso: hin
+    name: कनाशी भाषा
+  - translation_iso: zho
+    name: 卡納西語
 ---
 Kanashi is a Sino-Tibetan language spoken in the isolated Malana (Malani) village area in Kullu District, Himachal Pradesh, India. It is, to some extent mutually intelligible with other Sino-Tibetan language like Kinnauri.

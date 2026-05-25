@@ -1,8 +1,6 @@
 ---
 iso: gid
 name: Gidar
-name_zh: 吉达尔语
-name_zh_auto: true
 autonym: Kaɗa
 alt_names: [Baynawa, Gidder, Guidar, Guider, Kada]
 population: 65700
@@ -16,6 +14,12 @@ glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > Biu-Mandara > North Biu-Mandara > Gidar"
 wikipedia_url: "https://en.wikipedia.org/wiki/Gidar_language"
+translations:
+  - translation_iso: jpn
+    name: ギダル語
+  - translation_iso: zho
+    name: 吉达尔语
+    auto: true
 rolv_dialects:
   - rolv_code: 10216
     language_tag: gid-x-HIS10216

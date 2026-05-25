@@ -1,7 +1,6 @@
 ---
 iso: nmg
 name: Kwasio
-name_zh: 夸西奥语
 autonym: " Kola"
 alt_names: [Bisio, Bisiwo, Bissio, Bujeba, Kwassio, Mabea, Mabi, Mgoumba, Mvumbo, Ngoumba, Ngoumbeg, Ngumba, Ngumbum]
 population: 17500
@@ -16,6 +15,17 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > Bantu A-B10-B20-B30 > Makaa-Kako (A.80-90) > Makaa-Njem (A.80) > Western A80 > Mvumboic > Kwasio-Gyele > Kwasio"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kwasio_language"
+translations:
+  - translation_iso: ara
+    name: كواسيو
+  - translation_iso: hin
+    name: क्वासिओ
+  - translation_iso: jpn
+    name: クワシオ語
+  - translation_iso: kor
+    name: 크와시오어
+  - translation_iso: zho
+    name: 夸西奥语
 rolv_dialects:
   - rolv_code: 14934
     language_tag: nmg-x-HIS14934

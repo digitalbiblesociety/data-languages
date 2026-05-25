@@ -1,8 +1,6 @@
 ---
 iso: nbb
 name: Ndoe
-name_zh: 恩多埃语
-name_zh_auto: true
 autonym: "Ekparabong-Balep"
 alt_names: [Nigeria]
 population: 7340
@@ -16,6 +14,10 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Ekoid-Mbe > Ekoid > Ndoe"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ndoe_language"
+translations:
+  - translation_iso: zho
+    name: 恩多埃语
+    auto: true
 rolv_dialects:
   - rolv_code: 2952
     language_tag: nbb-x-HIS02952

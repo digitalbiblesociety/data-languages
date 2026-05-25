@@ -1,8 +1,6 @@
 ---
 iso: mdu
 name: Mboko
-name_zh: 姆博科语
-name_zh_auto: true
 autonym: Mboxo
 alt_names: [Mbuku]
 population: 47000
@@ -16,6 +14,10 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > Central-Western Bantu > North Zaire River > Rivers Bantu > Mboshi (C.20) > Mboko"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mboko_language"
+translations:
+  - translation_iso: zho
+    name: 姆博科语
+    auto: true
 rolv_dialects:
   - rolv_code: 13916
     language_tag: mdu-x-HIS13916

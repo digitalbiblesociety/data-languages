@@ -1,8 +1,6 @@
 ---
 iso: tdf
 name: Talieng
-name_zh: 塔利恩语
-name_zh_auto: true
 autonym: Trieng
 alt_names: [Taliang, Tariang]
 population: 23100
@@ -15,6 +13,10 @@ glottocode: tali1257
 glottolog_family_id: aust1305
 glottolog_family_name: Austroasiatic
 glottolog_classification: "Austroasiatic > Bahnaric > West Bahnaric > Triengic > Talieng"
+translations:
+  - translation_iso: zho
+    name: 塔利恩语
+    auto: true
 rolv_dialects:
   - rolv_code: 996
     language_tag: tdf-x-HIS00996

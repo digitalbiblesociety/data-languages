@@ -1,7 +1,6 @@
 ---
 iso: szc
 name: Semaq Beri
-name_zh: 塞莫克贝里语
 autonym: Semoq Beri
 alt_names: [Semaq Bri, Ulu Tembeling]
 population: 3545
@@ -15,5 +14,8 @@ glottolog_family_id: aust1305
 glottolog_family_name: Austroasiatic
 glottolog_classification: "Austroasiatic > Aslian > South Aslian > Semelai-Semaq > Semaq Beri"
 wikipedia_url: "https://en.wikipedia.org/wiki/Semaq_Beri_language"
+translations:
+  - translation_iso: zho
+    name: 塞莫克贝里语
 ---
 Semaq Beri is an Austroasiatic language spoken in the Malay Peninsula in the states of Pahang and Terengganu. It belongs to the Southern division of the Aslian languages, along with Semelai, Temoq, and Mah Meri. A preliminary description of the Semaq Beri language by Nicole Kruspe was published in 2014.

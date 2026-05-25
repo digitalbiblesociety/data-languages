@@ -1,8 +1,6 @@
 ---
 iso: bmi
 name: Bagirmi
-name_zh: 巴吉尔米语
-name_zh_auto: true
 autonym: ɓarma
 alt_names: [Baghirmi, Bagirmieg, Bagrima, Bagrimi, Bagrimma, Baguirme, Baguirmi, Barma, Lis, Lisi, Mbarma, Tar Bagrimma, Tar Barma]
 population: 44800
@@ -16,6 +14,14 @@ glottolog_family_id: cent2225
 glottolog_family_name: Central Sudanic
 glottolog_classification: "Central Sudanic > Sara-Bongo-Bagirmi > SBB Occidental > Nuclear SBB Occidental > Saraic > Bagirmic > Bagirmi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Bagirmi_language"
+translations:
+  - translation_iso: ara
+    name: باقرمي
+  - translation_iso: jpn
+    name: バギルミ語
+  - translation_iso: zho
+    name: 巴吉尔米语
+    auto: true
 rolv_dialects:
   - rolv_code: 7516
     language_tag: bmi-x-HIS07516

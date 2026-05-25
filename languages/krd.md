@@ -1,8 +1,6 @@
 ---
 iso: krd
 name: "Kairui-Midiki"
-name_zh: 开鲁伊-米迪基语
-name_zh_auto: true
 autonym: Cairui
 alt_names: [Midiki]
 population: 2000
@@ -16,6 +14,10 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Timor-Babar > Eastern Timor > Kawaimina > Kairui-Midiki"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kairui-Midiki_language"
+translations:
+  - translation_iso: zho
+    name: 开鲁伊-米迪基语
+    auto: true
 rolv_dialects:
   - rolv_code: 30461
     language_tag: krd-x-HIS30461

@@ -1,7 +1,6 @@
 ---
 iso: krj
 name: "Kinaray-A"
-name_zh: 基那來阿語
 autonym: "Kinaray-a"
 alt_names: [Antiqueño, Ati, Bisaya, Hamtiknon, Hinaray-A, Karay-A, Kinaray-a-ngî, Kiniray-A, Panayano, Sulud, Кинарайский язык, ภาษากินารายอา]
 population: 601000
@@ -16,6 +15,13 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Greater Central Philippine > Central Philippine > Bisayan > West Bisayan > Kinarayan > Kinaray-a"
 wikipedia_url: "https://en.wikipedia.org/wiki/Karay-a_language"
+translations:
+  - translation_iso: jpn
+    name: キナライア語
+  - translation_iso: kor
+    name: 키나라이아 어
+  - translation_iso: zho
+    name: 基那來阿語
 rolv_dialects:
   - rolv_code: 12018
     language_tag: krj-x-HIS12018

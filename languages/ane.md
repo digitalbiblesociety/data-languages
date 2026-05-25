@@ -1,7 +1,6 @@
 ---
 iso: ane
 name: Xârâcùù
-name_zh: 杭朗奇语
 autonym: Xârâcùù
 alt_names: [Anesu, Canala, Haraneu, Kanala, Neukaledonien, Xaracii, Xaracuu]
 population: 3780
@@ -15,5 +14,12 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Southern Melanesian > New Caledonian > Mainland New Caledonian > Southern New Caledonian > Mid-Southern New Caledonian > Xârâcùù"
 wikipedia_url: "https://en.wikipedia.org/wiki/X%C3%A2r%C3%A2c%C3%B9%C3%B9"
+translations:
+  - translation_iso: jpn
+    name: ハランチュー語
+  - translation_iso: kor
+    name: 항랑츠어
+  - translation_iso: zho
+    name: 杭朗奇语
 ---
 Xârâcùù, or Canala, is an Oceanic language spoken in New Caledonia. It has about 5,000 speakers. Xârâcùù is most commonly spoken in the south Central area of New Caledonia in and around the city of Canala and the municipalities of Canala, Thio, and Boulouparis.

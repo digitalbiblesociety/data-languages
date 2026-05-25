@@ -1,8 +1,6 @@
 ---
 iso: xom
 name: Komo (Sudan)
-name_zh: 苏丹科莫语
-name_zh_auto: true
 autonym: " Tta Komo"
 alt_names: [Central Koma, Como, Gokwom, Hayahaya, Koma, Koma of Daga, Komo, Komo language, Madiin, South Koma]
 population: 10000
@@ -16,6 +14,10 @@ glottolog_family_id: koma1264
 glottolog_family_name: Koman
 glottolog_classification: "Koman > Central Koman > Komo-Uduk > Komo (Sudan-Ethiopia)"
 wikipedia_url: "https://en.wikipedia.org/wiki/Komo_language"
+translations:
+  - translation_iso: zho
+    name: 苏丹科莫语
+    auto: true
 rolv_dialects:
   - rolv_code: 12192
     language_tag: xom-x-HIS12192

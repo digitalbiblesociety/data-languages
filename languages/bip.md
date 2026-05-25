@@ -1,8 +1,6 @@
 ---
 iso: bip
 name: Bila
-name_zh: 比拉语
-name_zh_auto: true
 autonym: Forest Bira
 alt_names: [Bira, Ebila, Kibila, Western Bila]
 population: 40000
@@ -16,6 +14,12 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > Central-Western Bantu > North Zaire River > Rivers Bantu > Ngiri > Ngiri Terrien > Ngombe-Ababuan > Ababuan > Old Bomokandian > Komoic > Bilaic > Bila-Kaiku > Bila"
 wikipedia_url: "https://en.wikipedia.org/wiki/Bila_language"
+translations:
+  - translation_iso: jpn
+    name: ビラ語
+  - translation_iso: zho
+    name: 比拉语
+    auto: true
 rolv_dialects:
   - rolv_code: 1302
     language_tag: ff-NE-x-HIS01302

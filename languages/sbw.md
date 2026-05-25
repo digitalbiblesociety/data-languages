@@ -1,8 +1,6 @@
 ---
 iso: sbw
 name: Simba
-name_zh: 西姆巴语
-name_zh_auto: true
 autonym: Simba
 alt_names: [Nsindak]
 population: 3000
@@ -16,5 +14,11 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > Bantu A-B10-B20-B30 > B10-B30 > Okani (B.30) > Northern Okani > Himba-Pinji > Simba"
 wikipedia_url: "https://en.wikipedia.org/wiki/Himba_language"
+translations:
+  - translation_iso: jpn
+    name: ヒンバ語
+  - translation_iso: zho
+    name: 西姆巴语
+    auto: true
 ---
 Himba (Himbaka), also known as Simba, is a moribund Bantu language of Gabon.

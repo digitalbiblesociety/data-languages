@@ -1,8 +1,6 @@
 ---
 iso: llk
 name: Lelak
-name_zh: 勒拉克语
-name_zh_auto: true
 autonym: null
 alt_names: [Malaysia]
 population: null
@@ -16,6 +14,12 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > North Borneo Malayo-Polynesian > North Sarawakan > Berawan-Lower Baram > Lower Baram > Central Lower Baram B > Lelak"
 wikipedia_url: "https://en.wikipedia.org/wiki/Lelak_language"
+translations:
+  - translation_iso: jpn
+    name: レラック語
+  - translation_iso: zho
+    name: 勒拉克语
+    auto: true
 rolv_dialects:
   - rolv_code: 12849
     language_tag: llk-x-HIS12849

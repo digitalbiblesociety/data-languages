@@ -1,8 +1,6 @@
 ---
 iso: knz
 name: Kalamsé
-name_zh: 卡拉梅语
-name_zh_auto: true
 autonym: Sàmòmá
 alt_names: [Kalamse, Kalemsé, Kalenga, Sàmó]
 population: 9570
@@ -16,6 +14,10 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Gur > Central Gur > Southern Central Gur > Grusi > Northern Grusi > Kalamsé"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kalams%C3%A9_language"
+translations:
+  - translation_iso: zho
+    name: 卡拉梅语
+    auto: true
 rolv_dialects:
   - rolv_code: 6007
     language_tag: knz-x-HIS06007

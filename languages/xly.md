@@ -1,7 +1,6 @@
 ---
 iso: xly
 name: Elymian
-name_zh: 伊利米语
 autonym: null
 population: null
 country_id: IT
@@ -14,5 +13,8 @@ glottolog_family_id: uncl1493
 glottolog_family_name: Unclassifiable
 glottolog_classification: "Unclassifiable > Elymian"
 wikipedia_url: "https://en.wikipedia.org/wiki/Elymian_language"
+translations:
+  - translation_iso: zho
+    name: 伊利米语
 ---
 Elymian is the extinct language of the ancient Elymian people of western Sicily. Its characteristics are little known because of the extremely limited and fragmentary nature of the surviving texts.

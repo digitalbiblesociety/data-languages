@@ -1,8 +1,6 @@
 ---
 iso: kth
 name: Karanga
-name_zh: 卡兰加语
-name_zh_auto: true
 autonym: Kurunga
 alt_names: [Karango]
 population: 1419
@@ -16,6 +14,10 @@ glottolog_family_id: maba1274
 glottolog_family_name: Maban
 glottolog_classification: "Maban > Mabang > Maba-Masalit > Macro-Maba > Karanga"
 wikipedia_url: "https://en.wikipedia.org/wiki/Karanga_language"
+translations:
+  - translation_iso: zho
+    name: 卡兰加语
+    auto: true
 rolv_dialects:
   - rolv_code: 11596
     language_tag: kth-x-HIS11596

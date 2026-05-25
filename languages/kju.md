@@ -1,7 +1,6 @@
 ---
 iso: kju
 name: Kashaya
-name_zh: 卡沙牙波莫语
 autonym: "Kʼahšá:ya"
 alt_names: [Kashaya (Southwestern Pomo), Kashaya Pomo, Kashayn, Kashia, Pomo (Kashaya), Pomo (Southwestern), Southwest Pomo, Southwestern Pomo]
 population: 45
@@ -15,5 +14,8 @@ glottolog_family_id: pomo1273
 glottolog_family_name: Pomoan
 glottolog_classification: "Pomoan > Russian River and Eastern > Russian River > Southern Pomoan-Kashaya > Kashaya"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kashaya_language"
+translations:
+  - translation_iso: zho
+    name: 卡沙牙波莫语
 ---
 Kashaya is the critically endangered language of the Kashia band of the Pomo people. The Pomoan languages have been classified as part of the Hokan language family. The name Kashaya corresponds to words in neighboring languages with meanings such as "skillful" and "expert gambler". It is spoken by the Kashia Band of Pomo Indians of the Stewarts Point Rancheria. In 2021, the number of speakers was estimated to be around a dozen.

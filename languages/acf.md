@@ -1,7 +1,6 @@
 ---
 iso: acf
 name: Saint Lucian Creole French
-name_zh: 聖盧西亞克里奧爾語
 autonym: kwéyòl
 alt_names: ["Creole French, Saint Lucian", Créole sainte-lucien, Kwèyòl, Lesser Antillean Creole French, Lesser Antillean Creole French., Lesser Antillies Creole French, Patois, Patwa, Trinidadian Creole French]
 population: 689000
@@ -15,6 +14,13 @@ glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Italic > Latino-Faliscan > Latinic > Imperial Latin > Romance > Italo-Western Romance > Western Romance > Shifted Western Romance > Northwestern Shifted Romance > Gallo-Rhaetian > Oil > Central Oil > Macro-French > Circum-Caribbean French > Lesser Antillean French Creole > Saint Lucian Creole French"
 wikipedia_url: "https://en.wikipedia.org/wiki/Saint_Lucian_Creole"
+translations:
+  - translation_iso: jpn
+    name: セントルシア・クレオール
+  - translation_iso: kor
+    name: 세인트루시아 크리올
+  - translation_iso: zho
+    name: 聖盧西亞克里奧爾語
 rolv_dialects:
   - rolv_code: 3484
     language_tag: fr-LC-x-HIS03484

@@ -1,8 +1,6 @@
 ---
 iso: prw
 name: Parawen
-name_zh: 帕拉温语
-name_zh_auto: true
 autonym: Para
 population: 430
 country_id: PG
@@ -15,6 +13,10 @@ glottolog_family_id: nucl1709
 glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Madang > Croisilles > Greater Northern Adelbert > Northern Adelbert > Numugenan > Yarawata-Parawen-Ukuriguma > Parawen"
 wikipedia_url: "https://en.wikipedia.org/wiki/Parawen_language"
+translations:
+  - translation_iso: zho
+    name: 帕拉温语
+    auto: true
 rolv_dialects:
   - rolv_code: 30384
     language_tag: prw-x-HIS30384

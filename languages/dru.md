@@ -1,7 +1,6 @@
 ---
 iso: dru
 name: Rukai
-name_zh: 鲁凯语
 autonym: Drekay
 alt_names: [Banga, Bantalang, Bantaurang, Drukai, Drukay, Dukai, Dyokay, Idioma rukai, Kadas, Lingua Rukai, Lû-khái-ngî, Rukái, Rutkai, Sarisen, Sprache von Formosa, Taloma, Tanan dialect, Tsalisen, Tsarisen]
 population: 2000
@@ -15,6 +14,13 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Rukai"
 wikipedia_url: "https://en.wikipedia.org/wiki/Rukai_language"
+translations:
+  - translation_iso: jpn
+    name: ルカイ語
+  - translation_iso: kor
+    name: 루카이어
+  - translation_iso: zho
+    name: 鲁凯语
 rolv_dialects:
   - rolv_code: 16101
     language_tag: dru-x-HIS16101

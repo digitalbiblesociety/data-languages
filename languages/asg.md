@@ -1,8 +1,6 @@
 ---
 iso: asg
 name: Cishingini
-name_zh: 奇辛吉尼语
-name_zh_auto: true
 autonym: Agwara Kambari
 alt_names: ["\"Maunchi\"", "\"Mawanchi\"", Aschingini, Ashaganna, Ashingini, Chisingini, Kambari, Kamberchi, Kamberri, Yauri]
 population: 100000
@@ -16,6 +14,10 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Kainji > Central Kainji > Kambari-Cicipu > Kambaric > West Kambaric > Western-Kambari-Cishingini"
 wikipedia_url: "https://en.wikipedia.org/wiki/Shingini_language"
+translations:
+  - translation_iso: zho
+    name: 奇辛吉尼语
+    auto: true
 rolv_dialects:
   - rolv_code: 8980
     language_tag: asg-x-HIS08980

@@ -1,7 +1,6 @@
 ---
 iso: zul
 name: Zulu
-name_zh: 祖鲁语
 autonym: isiZulu
 alt_names: [Bahasa Zulu, Gjuha zulu, Idioma zulú, Język zulu, Kingoni, Kizulu, Lala, Limba zulu, Lingua zulu, Lingua zulú, Língua zulu, Ngoni, Språket zulu, Swlw, SíZulu, Súlúis, Sûloe, Zoeloe, Zoulou, Zulu (Northern), Zulu (Southern), Zulu jezik, Zulu simi, Zulua lingvo, Zuluera, Zulum, Zulun kieli, Zulų kalba, Zunda, Ζουλού γλώσσα, Зулу, Зулу јазик, Зулуски език, زۇلۇچە, لغة زولو, জুলু ভাষা, சுலு மொழி, ズールー語, 祖鲁语, 줄루어]
 population: 12100000
@@ -16,6 +15,17 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > East Bantu > Southern Bantu > Nuclear Southern Bantu > Dimsuffix Southern Bantu > Nguni-Tsonga-Copi > Nguni (S.40) > Nuclear Nguni > Southern Ndebele-Lowland > Zulu"
 wikipedia_url: "https://en.wikipedia.org/wiki/Zulu_language"
+translations:
+  - translation_iso: ara
+    name: اللغة الزولوية
+  - translation_iso: hin
+    name: ज़ुलु भाषा
+  - translation_iso: jpn
+    name: ズールー語
+  - translation_iso: kor
+    name: 줄루어
+  - translation_iso: zho
+    name: 祖鲁语
 rolv_dialects:
   - rolv_code: 18734
     language_tag: zu-x-HIS18734

@@ -1,7 +1,6 @@
 ---
 iso: bgg
 name: Bugun
-name_zh: 布贡语
 autonym: Bugun
 alt_names: [Bugen, Kho, Khoa, Khowa]
 population: 900
@@ -15,6 +14,11 @@ glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Kho-Bwa > Bugun"
 wikipedia_url: "https://en.wikipedia.org/wiki/Bugun_language"
+translations:
+  - translation_iso: hin
+    name: बुगुन भाषा
+  - translation_iso: zho
+    name: 布贡语
 rolv_dialects:
   - rolv_code: 30751
     language_tag: bgg-x-HIS30751

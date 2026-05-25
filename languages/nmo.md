@@ -1,8 +1,6 @@
 ---
 iso: nmo
 name: Moyon Naga
-name_zh: 莫永纳加语
-name_zh_auto: true
 autonym: Moyon Naga
 alt_names: [Mayol, Mayon Naga, Moyon, "Naga, Moyon", "Naga,Moyon"]
 population: 3700
@@ -16,6 +14,12 @@ glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Kuki-Chin-Naga > Kuki-Chin > Northwestern Kuki-Chin > Analic > Moyon-Monsang Naga > Moyon"
 wikipedia_url: "https://en.wikipedia.org/wiki/Moyon_language"
+translations:
+  - translation_iso: hin
+    name: मोयोन भाषा
+  - translation_iso: zho
+    name: 莫永纳加语
+    auto: true
 ---
 Moyon is a Kuki-Chin language, belonging to the Northwestern or "Old Kuki" subfamily,
 spoken by the Moyon people in Manipur, India and in Burma.

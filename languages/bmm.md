@@ -1,8 +1,6 @@
 ---
 iso: bmm
 name: Northern Betsimisaraka Malagasy
-name_zh: 北贝茨米萨拉卡马尔加什语
-name_zh_auto: true
 autonym: malagasy
 alt_names: ["Malagasy, Northern Betsimisaraka"]
 population: 1270000
@@ -15,4 +13,10 @@ glottocode: nort2890
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Basap-Greater Barito > Greater Barito linkage > Southeast Barito > Malagasic > North-Central Malagasic > Northern Malagasic > Tsimihety-Betsimisaraka > Northern Betsimisaraka Malagasy"
+translations:
+  - translation_iso: jpn
+    name: 北ベツィミサラカ・マダガスカル語
+  - translation_iso: zho
+    name: 北贝茨米萨拉卡马尔加什语
+    auto: true
 ---

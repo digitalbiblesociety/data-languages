@@ -1,8 +1,6 @@
 ---
 iso: yam
 name: Yamba
-name_zh: 扬巴语
-name_zh_auto: true
 autonym: Bebaroe
 alt_names: ["\"Kaka\"", Boenga Ko Muzok, Kakayamba, Mbem, Mbubem, "Swe'nga"]
 population: 80000
@@ -16,6 +14,10 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Wide Grassfields > Narrow Grassfields > Mbam-Nkam > Nkambe > Yamba"
 wikipedia_url: "https://en.wikipedia.org/wiki/Yamba_language"
+translations:
+  - translation_iso: zho
+    name: 扬巴语
+    auto: true
 rolv_dialects:
   - rolv_code: 4363
     language_tag: yam-x-HIS04363

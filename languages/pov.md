@@ -1,7 +1,6 @@
 ---
 iso: pov
 name: Upper Guinea Crioulo
-name_zh: 几内亚比绍克里奥尔语
 autonym: " purtuguis’kriolo’"
 alt_names: [Crioulo, Crioulo (Guinea Bissau), Crioulo da Guiné-Bissau, "Crioulo, Upper Guinea", Créole de Guinée-Bissau, Guine Crioulo, Guinea Bissau Crioulo, Guinea-Bissau Creole, Kiryol, Kriol, Kriulo, Portuguese Creole, Portuguese Guinea, Senegal, ギニアビサウ・クレオール語]
 population: 319500
@@ -15,6 +14,13 @@ glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Italic > Latino-Faliscan > Latinic > Imperial Latin > Romance > Italo-Western Romance > Western Romance > Shifted Western Romance > Southwestern Shifted Romance > West Ibero-Romance > Galician Romance > Macro-Portuguese > Upper Guinea Portuguese > Upper Guinea Crioulo"
 wikipedia_url: "https://en.wikipedia.org/wiki/Guinea-Bissau_Creole"
+translations:
+  - translation_iso: jpn
+    name: ギニアビサウ・クレオール語
+  - translation_iso: kor
+    name: 기니비사우 크리올
+  - translation_iso: zho
+    name: 几内亚比绍克里奥尔语
 rolv_dialects:
   - rolv_code: 9031
     language_tag: pov-x-HIS09031

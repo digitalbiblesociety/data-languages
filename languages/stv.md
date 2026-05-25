@@ -1,8 +1,6 @@
 ---
 iso: stv
 name: "Silt'e"
-name_zh: 西尔特语
-name_zh_auto: true
 autonym: ስልጥኘ
 alt_names: [East Gurage, Gurage, Selti, "Silt'i", Silte, Silti]
 population: 881000
@@ -16,6 +14,14 @@ glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Semitic > West Semitic > Ethiosemitic > South Ethiopic > Harari-East Gurage > Silte-Wolane > Silt'e"
 wikipedia_url: "https://en.wikipedia.org/wiki/Silt%CA%BCe_language"
+translations:
+  - translation_iso: ara
+    name: السلتية (لغة)
+  - translation_iso: jpn
+    name: シルテ語
+  - translation_iso: zho
+    name: 西尔特语
+    auto: true
 rolv_dialects:
   - rolv_code: 1452
     language_tag: stv-x-HIS01452

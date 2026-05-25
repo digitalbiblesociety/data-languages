@@ -1,7 +1,6 @@
 ---
 iso: xsy
 name: Saisiyat
-name_zh: 赛夏语
 autonym: SaiSiyat
 alt_names: [Amutoura, Bouiok, Lingua Saisiyat, Saiset, Saisett, Saisiat, Saisiett, Saisirat, Saisiyat-ngî, Saisyet, Saisyett, Seisirat, Sprache von Formosa, ภาษาไซซิยัต, 賽夏語]
 population: 4750
@@ -15,6 +14,11 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Northwest Formosan > Saisiyat"
 wikipedia_url: "https://en.wikipedia.org/wiki/Saisiyat_language"
+translations:
+  - translation_iso: jpn
+    name: サイシャット語
+  - translation_iso: zho
+    name: 赛夏语
 rolv_dialects:
   - rolv_code: 16188
     language_tag: xsy-x-HIS16188

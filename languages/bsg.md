@@ -1,8 +1,6 @@
 ---
 iso: bsg
 name: Bashkardi
-name_zh: 巴什卡迪语
-name_zh_auto: true
 autonym: " Bashaka"
 alt_names: [Baskardí]
 population: 7030
@@ -16,6 +14,14 @@ glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Iranian-Nuristani > Iranian > Southwestern Iranian > Middle-Modern Persian > Modern Southwestern Iranian > Bashkardi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Bashkardi_language"
+translations:
+  - translation_iso: ara
+    name: لغة باشكاردي
+  - translation_iso: jpn
+    name: バシャカ語
+  - translation_iso: zho
+    name: 巴什卡迪语
+    auto: true
 rolv_dialects:
   - rolv_code: 24532
     language_tag: bsg-x-HIS24532

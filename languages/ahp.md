@@ -1,8 +1,6 @@
 ---
 iso: ahp
 name: Aproumu Aizi
-name_zh: 阿普罗乌穆艾兹语
-name_zh_auto: true
 autonym: Aproumu
 alt_names: [Ahizi, Aizi, "Aizi, Aproumu", Aprou, Aprwe, Oprou]
 population: 6500
@@ -16,5 +14,9 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Unclassified Volta-Congo > Aproumu Aizi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Apro_language"
+translations:
+  - translation_iso: zho
+    name: 阿普罗乌穆艾兹语
+    auto: true
 ---
 Apro, also known as Aproumu, is a language spoken by the Aizi people of Ébrié Lagoon in Ivory Coast. Once assumed to be a Kru language like the other two Aizi languages, subsequent investigation concluded it was Kwa and then that it was unclassified within Volta–Congo

@@ -1,7 +1,6 @@
 ---
 iso: ddw
 name: "Dawera-Daweloor"
-name_zh: 达韦拉-达韦洛尔语
 autonym: Davelor
 alt_names: [Dawera-Daweloor language]
 population: 1270
@@ -15,5 +14,8 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Timor-Babar > Southwest Maluku > Babar > North Babaric > Dawera-Daweloor"
 wikipedia_url: "https://en.wikipedia.org/wiki/Dawera-Daweloor_language"
+translations:
+  - translation_iso: zho
+    name: 达韦拉-达韦洛尔语
 ---
 Dawera-Daweloor is an Austronesian language spoken in six villages on Dawera and Daweloor islands in South Maluku, Indonesia.

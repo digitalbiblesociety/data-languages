@@ -1,8 +1,6 @@
 ---
 iso: won
 name: Wongo
-name_zh: 翁戈语
-name_zh_auto: true
 autonym: Tukongo
 alt_names: [Bakong, Gongo, Ndjembe, Tukkongo]
 population: 12700
@@ -16,6 +14,10 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > Central-Western Bantu > North Zaire River > Inner Basin Bantu > Cuvette > Nkutsuic > Bushoong-Wongo-Lele > Wongo"
 wikipedia_url: "https://en.wikipedia.org/wiki/Wongo_language"
+translations:
+  - translation_iso: zho
+    name: 翁戈语
+    auto: true
 rolv_dialects:
   - rolv_code: 1542
     language_tag: won-x-HIS01542

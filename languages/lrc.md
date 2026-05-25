@@ -1,7 +1,6 @@
 ---
 iso: lrc
 name: Northern Luri
-name_zh: 北卢尔语
 autonym: زۊن لٛوْری
 alt_names: ["Bakhtiari, Feyli", Borujerdi dialect, Lori, Luri, Luri (Northern), "Luri, Northern", لهجه بروجردی]
 population: 1820000
@@ -16,6 +15,17 @@ glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Iranian-Nuristani > Iranian > Southwestern Iranian > Middle-Modern Persian > Modern Southwestern Iranian > Luric-Dezfulic > Luric > Northern Luri"
 wikipedia_url: "https://en.wikipedia.org/wiki/Northern_Luri_language"
+translations:
+  - translation_iso: ara
+    name: اللرية الشمالية
+  - translation_iso: hin
+    name: उत्तरी लूरी
+  - translation_iso: jpn
+    name: 北ロル語
+  - translation_iso: kor
+    name: 북부 루리어
+  - translation_iso: zho
+    name: 北卢尔语
 rolv_dialects:
   - rolv_code: 27123
     language_tag: lrc-x-HIS27123

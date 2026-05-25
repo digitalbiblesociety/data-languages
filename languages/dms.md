@@ -1,8 +1,6 @@
 ---
 iso: dms
 name: Dampelas
-name_zh: 丹佩拉斯语
-name_zh_auto: true
 autonym: Dampelasa
 alt_names: [Dampal, Dian]
 population: 10300
@@ -16,6 +14,10 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Celebic > Greater Eastern Celebic > Tominic > Southern Tomini > Dampelas"
 wikipedia_url: "https://en.wikipedia.org/wiki/Dampelas_language"
+translations:
+  - translation_iso: zho
+    name: 丹佩拉斯语
+    auto: true
 rolv_dialects:
   - rolv_code: 9095
     language_tag: dms-x-HIS09095

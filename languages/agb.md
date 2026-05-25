@@ -1,8 +1,6 @@
 ---
 iso: agb
 name: Legbo
-name_zh: 莱格博语
-name_zh_auto: true
 autonym: Legbo
 alt_names: [Agbo, Gbo, Igbo, Imaban, Itigidi]
 population: 60000
@@ -16,5 +14,9 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Delta Cross > Upper Cross > Central Upper Cross > East-West Central Delta Cross > Mbembe-Legbo > Legboic > Legbo"
 wikipedia_url: "https://en.wikipedia.org/wiki/Gbo_language"
+translations:
+  - translation_iso: zho
+    name: 莱格博语
+    auto: true
 ---
 The Legbo language, is spoken by Agbo people in Abi Local Government Area of Cross River State Nigeria. It's is spoken by Ekureku, Itigidi, Adadama and Imabana people. Abi Local Government however also have another language known as "Omono" spoken by the "Bahumonos". Legbo and Omono are two different languages but found within the same Local Government.

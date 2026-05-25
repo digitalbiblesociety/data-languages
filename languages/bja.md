@@ -1,8 +1,6 @@
 ---
 iso: bja
 name: Budza
-name_zh: 布扎语
-name_zh_auto: true
 autonym: Buja
 alt_names: [Budja, Ebuja, Embudja, Limbudza, Mbudja]
 population: 226000
@@ -16,6 +14,10 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > Central-Western Bantu > North Zaire River > Rivers Bantu > Ngiri > Ngiri Riverain Mongala > Motemboic > Bujaic > Budja (C.37) > Budza"
 wikipedia_url: "https://en.wikipedia.org/wiki/Budza_language"
+translations:
+  - translation_iso: zho
+    name: 布扎语
+    auto: true
 rolv_dialects:
   - rolv_code: 1358
     language_tag: bja-x-HIS01358

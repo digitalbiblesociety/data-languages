@@ -1,8 +1,6 @@
 ---
 iso: ggb
 name: Gbii
-name_zh: 格比语
-name_zh_auto: true
 autonym: Gbee
 alt_names: [Gbi-Dowlu]
 population: 5600
@@ -16,6 +14,10 @@ glottolog_family_id: krua1234
 glottolog_family_name: Kru
 glottolog_classification: "Kru > Greater Western Kru > Western Kru > Wee-Bassa-Klao > Bassa-Klao > Bassaic > Bassa-Gbee > Gbii"
 wikipedia_url: "https://en.wikipedia.org/wiki/Gbii_language"
+translations:
+  - translation_iso: zho
+    name: 格比语
+    auto: true
 rolv_dialects:
   - rolv_code: 6158
     language_tag: ggb-x-HIS06158

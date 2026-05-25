@@ -1,8 +1,6 @@
 ---
 iso: bgt
 name: Bughotu
-name_zh: 布格霍图语
-name_zh_auto: true
 autonym: Bugotu
 alt_names: [Bugota, Bugoto, Mahaga, Mbughotu, Südliche Salomons-Inseln]
 population: 4050
@@ -16,6 +14,12 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Southeast Solomonic > Guadalcanal-Nggelic > Nuclear Guadalcanal-Nggelic > Nggelic > Bughotu"
 wikipedia_url: "https://en.wikipedia.org/wiki/Bughotu_language"
+translations:
+  - translation_iso: jpn
+    name: ブゴトゥ語
+  - translation_iso: zho
+    name: 布格霍图语
+    auto: true
 rolv_dialects:
   - rolv_code: 8420
     language_tag: bgt-x-HIS08420

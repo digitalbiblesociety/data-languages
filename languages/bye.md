@@ -1,8 +1,6 @@
 ---
 iso: bye
 name: Pouye
-name_zh: 普耶语
-name_zh_auto: true
 autonym: Bouye
 alt_names: [Buiye]
 population: 960
@@ -16,5 +14,9 @@ glottolog_family_id: sepi1257
 glottolog_family_name: Sepik
 glottolog_classification: "Sepik > Ram > Pouye-Karawa > Pouye"
 wikipedia_url: "https://en.wikipedia.org/wiki/Pouye_language"
+translations:
+  - translation_iso: zho
+    name: 普耶语
+    auto: true
 ---
 Pouye (Bouye) is a language spoken in Sandaun Province, Papua New Guinea, by a thousand people, and growing. It is spoken in the seven villages of Bulawa, Kiliauto, Komtin, Maurom, Wokien, Wulme, and Yukilau, which are mostly located within East Wapei Rural LLG.

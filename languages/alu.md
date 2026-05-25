@@ -1,8 +1,6 @@
 ---
 iso: alu
 name: "'Are'are"
-name_zh: 阿瑞亚瑞语
-name_zh_auto: true
 autonym: Areare
 alt_names: [Südliche Salomons-Inseln, ʻAreʻare, ’Are’are jezik]
 population: 17900
@@ -16,6 +14,14 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Southeast Solomonic > Longgu-Malaita-Makira > Malaita-Makira > Malaita > Southern Malaita > 'Are'are"
 wikipedia_url: "https://en.wikipedia.org/wiki/%EA%9E%8BAre%EA%9E%8Care_language"
+translations:
+  - translation_iso: jpn
+    name: アレアレ語
+  - translation_iso: kor
+    name: 아레아레어
+  - translation_iso: zho
+    name: 阿瑞亚瑞语
+    auto: true
 rolv_dialects:
   - rolv_code: 3612
     language_tag: alu-x-HIS03612

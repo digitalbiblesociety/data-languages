@@ -1,7 +1,6 @@
 ---
 iso: wbp
 name: Warlpiri
-name_zh: 瓦尔皮里语
 autonym: Elpira
 alt_names: [Albura, Alpira, Alpiri, Boonara, Bunara, Buruwatung, Idioma warlpiri, Ilpara, Ilpira, Ilpirra, Ipara, Jalpiri, Kolo, Kukuruba, Lander Warlpiri, Lingua warlpiri, Manggai, Munga, Nam bulatji, Nam-bulatji, Nambuda, Nambulatji, Nambutj, Nambutju, Nanbuda, Ngadi, Ngali, Ngalia, Ngaliya, Ngallea, Ngallia, Ngardi, Ngardilpa, Ngardilypa, Ngari, Ngarilia, Ngarliya, Njalia, Njambalatji, Ooldean, Panara, Puruwantung, Ulperra, Valpiri, Waiangadi, Waiangara, Waibri, Waibry, Wailbri, Waingara, Wakirti Warlpiri, Wal bri, Wal-bri, Walbiri, Walbrai, Walbri, Waljbiri, Waljpiri, Walmala, Walmalla, Walmama, Walmanba, Walpari, Walpiri, Wanaeka, Wanajaga, Wanajaga., Wanajaka, Wanajeka, Wanayaga, Waneiga, Warangari, Waringari, Warlmala, Warnayaka, Warniaka, Warrabri, Warramulla, Warrmarla, Wawilja, Wolperi, Wolpirra, Wommana, Woneiga, Yarlpiri, Вальбири]
 population: 2300
@@ -16,5 +15,16 @@ glottolog_family_id: pama1250
 glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > Desert Nyungic > Ngumpin-Yapa > Yapa > Warlpiri"
 wikipedia_url: "https://en.wikipedia.org/wiki/Warlpiri_language"
+translations:
+  - translation_iso: ara
+    name: وارلبيري
+  - translation_iso: hin
+    name: वॉल्पेरी
+  - translation_iso: jpn
+    name: ワルピリ語
+  - translation_iso: kor
+    name: 왈피리어
+  - translation_iso: zho
+    name: 瓦尔皮里语
 ---
 The Warlpiri language is an Australian Aboriginal language spoken by close to 3,000 of the Warlpiri people from the Tanami Desert, northwest of Alice Springs, Central Australia. It is one of the Ngarrkic languages of the large Pama–Nyungan family, and is one of the most widely-spoken Aboriginal languages in Australia in terms of speakers. One of the most well-known terms for The Dreaming, Jukurrpa, derives from Warlpiri.

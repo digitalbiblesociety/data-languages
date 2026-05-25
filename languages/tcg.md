@@ -1,8 +1,6 @@
 ---
 iso: tcg
 name: Tamagario
-name_zh: 塔玛加里奥语
-name_zh_auto: true
 autonym: Buru
 alt_names: [Tamaraw, Tamágario, Wagow]
 population: 3500
@@ -16,6 +14,10 @@ glottolog_family_id: kaya1327
 glottolog_family_name: Kayagaric
 glottolog_classification: "Kayagaric > Kaygir-Tamagario > Tamagario"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tamagario_language"
+translations:
+  - translation_iso: zho
+    name: 塔玛加里奥语
+    auto: true
 ---
 Tamagario is a Papuan language of Mappi Regency, South Papua, Indonesia. 
 It is spoken in:Haju District: Arare, Kerke, Pagai Villages

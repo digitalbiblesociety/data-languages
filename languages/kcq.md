@@ -1,8 +1,6 @@
 ---
 iso: kcq
 name: Kamo
-name_zh: 卡莫语
-name_zh_auto: true
 autonym: Ma
 alt_names: [Kamu, Nubama, Nyima]
 population: 20000
@@ -16,5 +14,9 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Gur > Central Gur > Tula-Longuda > Tula-Waja > Tulaic > Tula-Ma-Yebu > Awak-Kamo > Kamo"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kamo_language"
+translations:
+  - translation_iso: zho
+    name: 卡莫语
+    auto: true
 ---
 Kamo is a Savannas language of Gombe State, eastern Nigeria. Their original settlement was on Kamo Hill, but it was abandoned as the speakers gradually moved down into the plains during the 20th century.

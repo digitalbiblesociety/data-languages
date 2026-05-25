@@ -1,8 +1,6 @@
 ---
 iso: woe
 name: Woleaian
-name_zh: 沃莱艾语
-name_zh_auto: true
 autonym: kapetali Weleya
 alt_names: [Woleai, Woleayano]
 population: 1630
@@ -16,6 +14,14 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Micronesian > Central Micronesian > Western Micronesian > Chuukic-Ponapeic > Trukic > Nuclear Trukic > Woleaian"
 wikipedia_url: "https://en.wikipedia.org/wiki/Woleaian_language"
+translations:
+  - translation_iso: hin
+    name: वोलियन भाषा
+  - translation_iso: jpn
+    name: ウォレアイ語
+  - translation_iso: zho
+    name: 沃莱艾语
+    auto: true
 rolv_dialects:
   - rolv_code: 18320
     language_tag: woe-x-HIS18320

@@ -1,8 +1,6 @@
 ---
 iso: mxe
 name: "Mele-Fila"
-name_zh: 梅勒-菲拉语
-name_zh_auto: true
 autonym: "Ifira-Mele"
 alt_names: [Fila-Mele]
 population: 3500
@@ -16,6 +14,12 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Central Pacific linkage > Tokalau Fijian > Polynesian > Nuclear Polynesian > Vanuatu-Loyalty Outliers > Mele-Futuna > Mele-Fila"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mele-Fila_language"
+translations:
+  - translation_iso: jpn
+    name: メレ・フィラ語
+  - translation_iso: zho
+    name: 梅勒-菲拉语
+    auto: true
 rolv_dialects:
   - rolv_code: 4480
     language_tag: mxe-x-HIS04480

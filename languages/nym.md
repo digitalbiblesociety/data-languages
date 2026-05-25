@@ -1,7 +1,6 @@
 ---
 iso: nym
 name: Nyamwezi
-name_zh: 尼扬韦齐语
 autonym: Kinyamwesi
 alt_names: [Kinyamwezi, Namwezi, Nyamwesi]
 population: 1470000
@@ -16,6 +15,17 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > East Bantu > Northeast Savanna Bantu > Sukuma-Nyamwezi (F.20) > Nyamwezic > Nyamwezi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Nyamwezi_language"
+translations:
+  - translation_iso: ara
+    name: النيامويزي
+  - translation_iso: hin
+    name: न्यामवेज़ी
+  - translation_iso: jpn
+    name: ニャムウェジ語
+  - translation_iso: kor
+    name: 니암웨지어
+  - translation_iso: zho
+    name: 尼扬韦齐语
 rolv_dialects:
   - rolv_code: 15155
     language_tag: nym-x-HIS15155

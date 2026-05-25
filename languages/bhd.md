@@ -1,8 +1,6 @@
 ---
 iso: bhd
 name: Bhadrawahi
-name_zh: 巴德拉瓦希语
-name_zh_auto: true
 autonym: भद्रवाही
 alt_names: [Baderwali, Badrohi, Bahi, Bhadarwahi, Bhaderbhai Jamu, Bhaderwali Pahari, Bhadrava, Bhadravahi, Bhadri, Bhalesi, Bradrawah, Padari]
 population: 116000
@@ -16,6 +14,16 @@ glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Indo-Aryan > Middle-Modern Indo-Aryan > Eastern Dardic > Himachali > Kangric-Chamealic-Bhattiyali > Chamealic > Bhadrawahi-Bhalesi-Curahi > Bhadarwahic > Bhadrawahi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Bhadarwahi_language"
+translations:
+  - translation_iso: ara
+    name: البدرواهية
+  - translation_iso: hin
+    name: भदरवाही
+  - translation_iso: jpn
+    name: バドラワーヒー語
+  - translation_iso: zho
+    name: 巴德拉瓦希语
+    auto: true
 rolv_dialects:
   - rolv_code: 8028
     language_tag: bhd-x-HIS08028

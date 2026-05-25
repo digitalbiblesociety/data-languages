@@ -1,7 +1,6 @@
 ---
 iso: spp
 name: Supyire Senoufo
-name_zh: 蘇皮雷語
 autonym: Supyire Sénoufo
 alt_names: [Kampwo dialect, Senoufo (Supyire), "Senoufo, Supyire", Soupyireg, "Sup'ide", Supide, Suppire, Supyire, Supyire (Kampwo), Supyire language]
 population: 350000
@@ -15,6 +14,9 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Senufo > North Senufo > Supyiric > Supyire Senoufo"
 wikipedia_url: "https://en.wikipedia.org/wiki/Supyire_language"
+translations:
+  - translation_iso: zho
+    name: 蘇皮雷語
 rolv_dialects:
   - rolv_code: 3058
     language_tag: spp-x-HIS03058

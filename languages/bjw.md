@@ -1,8 +1,6 @@
 ---
 iso: bjw
 name: Bakwé
-name_zh: 巴克韦语
-name_zh_auto: true
 autonym: null
 alt_names: [Bakwe]
 population: 10300
@@ -16,6 +14,12 @@ glottolog_family_id: krua1234
 glottolog_family_name: Kru
 glottolog_classification: "Kru > Eastern Kru > Bakwe-Wane > Bakwé"
 wikipedia_url: "https://en.wikipedia.org/wiki/Bakw%C3%A9_language"
+translations:
+  - translation_iso: jpn
+    name: バクウェ語
+  - translation_iso: zho
+    name: 巴克韦语
+    auto: true
 rolv_dialects:
   - rolv_code: 7592
     language_tag: bjw-x-HIS07592

@@ -1,8 +1,6 @@
 ---
 iso: jek
 name: Jeri Kuo
-name_zh: 杰里库奥语
-name_zh_auto: true
 autonym: Celle
 alt_names: [Jeli, Jeli Kuo, Jeri, Jeri.kuo]
 population: 1500
@@ -15,4 +13,8 @@ glottocode: jeri1242
 glottolog_family_id: mand1469
 glottolog_family_name: Mande
 glottolog_classification: "Mande > Western Mande > Manding-Kpelle > Central Mande > Manding-Jogo > Jogo-Jeri > Jeri > Jeli"
+translations:
+  - translation_iso: zho
+    name: 杰里库奥语
+    auto: true
 ---

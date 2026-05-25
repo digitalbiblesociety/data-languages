@@ -1,7 +1,6 @@
 ---
 iso: mcg
 name: Mapoyo
-name_zh: 马波约人
 autonym: Mapoyo–Yavarana
 alt_names: [Mapayo, Mapoja lingvo, Mapoye, Mapoyo-Yavarana, Mapójó, Mopoi, Nepoye, Wanai]
 population: 365
@@ -15,5 +14,8 @@ glottolog_family_id: cari1283
 glottolog_family_name: Cariban
 glottolog_classification: "Cariban > Venezuelan Cariban > Mapoyo-Tamanaku > Mapoyo-Yawarana > Mapoyo"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mapoyo_language"
+translations:
+  - translation_iso: zho
+    name: 马波约人
 ---
 Mapoyo is a Carib language spoken along the Suapure and Parguaza Rivers, Venezuela. The ethnic population of Mapoyo proper is about 365.

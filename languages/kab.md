@@ -1,7 +1,6 @@
 ---
 iso: kab
 name: Kabyle
-name_zh: 卡拜爾語
 autonym: Taqbaylit
 alt_names: [Bahasa Kabil, Berberice, Idioma cabilio, Język kabylski, Kabil nyelv, Kabila lingvo, Kabilies, Kabilski jezik, Kabyl, Kabylia, Kabylisch, Kabylische Sprache, Kabylsk, Kabylsk språk, Língua cabila, Tamazight, Кабильский язык, قبائلی, لهجة قبائلية, カビル語]
 population: 6819200
@@ -16,6 +15,17 @@ glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Berber > Kabyle-Atlas Berber > Kabyle"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kabyle_language"
+translations:
+  - translation_iso: ara
+    name: القبائلية
+  - translation_iso: hin
+    name: कबाइल
+  - translation_iso: jpn
+    name: カビール語
+  - translation_iso: kor
+    name: 카빌리어
+  - translation_iso: zho
+    name: 卡拜爾語
 rolv_dialects:
   - rolv_code: 11263
     language_tag: kab-x-HIS11263

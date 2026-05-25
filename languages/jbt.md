@@ -1,8 +1,6 @@
 ---
 iso: jbt
 name: Jabutí
-name_zh: 雅布蒂语
-name_zh_auto: true
 autonym: Jabuti
 alt_names: [Djeoromitxi, Djeoromitxi language, Jabotí, Jeoromitxi, Kipiu, Língua jabuti, Quipiu, Yabuti, Yabutí, Ябути]
 population: 40
@@ -16,5 +14,9 @@ glottolog_family_id: nucl1710
 glottolog_family_name: Nuclear-Macro-Je
 glottolog_classification: "Nuclear-Macro-Je > Jabuti > Djeoromitxí"
 wikipedia_url: "https://en.wikipedia.org/wiki/Djeoromitx%C3%AD_language"
+translations:
+  - translation_iso: zho
+    name: 雅布蒂语
+    auto: true
 ---
 Djeoromitxi or Jabutí (Yabuti) is an endangered Yabutian language that is spoken by only about fifty people in Rondônia, Brazil, at the headwaters of the Rio Branco.

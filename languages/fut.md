@@ -1,8 +1,6 @@
 ---
 iso: fut
 name: "Futuna-Aniwa"
-name_zh: 富图纳-阿尼瓦语
-name_zh_auto: true
 autonym: Erronan
 alt_names: [Aniwa, Futua, Futuna, W. Futuna-Aniwa, West Futuna-Aniwa, Western Futuna]
 population: 1500
@@ -16,6 +14,12 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Central Pacific linkage > Tokalau Fijian > Polynesian > Nuclear Polynesian > Vanuatu-Loyalty Outliers > Mele-Futuna > Futuna-Aniwa"
 wikipedia_url: "https://en.wikipedia.org/wiki/Futuna-Aniwa_language"
+translations:
+  - translation_iso: jpn
+    name: フトゥナ・アニワ語
+  - translation_iso: zho
+    name: 富图纳-阿尼瓦语
+    auto: true
 rolv_dialects:
   - rolv_code: 9950
     language_tag: fut-x-HIS09950

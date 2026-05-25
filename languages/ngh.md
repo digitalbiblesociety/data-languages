@@ -1,7 +1,6 @@
 ---
 iso: ngh
 name: Nǁng
-name_zh: 努語
 autonym: Nǀuu
 alt_names: [/Nusan, "=|Khomani", Khomani, N/u, "N|u", "N|uu", "N||ng", ǂKhomani]
 population: 500
@@ -15,6 +14,15 @@ glottolog_family_id: tuuu1241
 glottolog_family_name: Tuu
 glottolog_classification: "Tuu > !Ui > Ghaap-Kalahari > N||ng"
 wikipedia_url: "https://en.wikipedia.org/wiki/N%C7%81ng_language"
+translations:
+  - translation_iso: ara
+    name: اللغة النوية
+  - translation_iso: jpn
+    name: ヌン語
+  - translation_iso: kor
+    name: 능어
+  - translation_iso: zho
+    name: 努語
 rolv_dialects:
   - rolv_code: 25270
     language_tag: ngh-x-HIS25270

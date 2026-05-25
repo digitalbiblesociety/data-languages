@@ -1,7 +1,6 @@
 ---
 iso: scp
 name: Hyolmo
-name_zh: 约尔莫语
 autonym: Helambu Sherpa
 alt_names: [HelambuSherpa, Sherpa, Yholmo, Yohlmo, Yohlmu Tam, Yol-mo, Yolmo, Ölmo]
 population: 7570
@@ -15,6 +14,9 @@ glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Bodic > Bodish > Early Old Tibetan > Middle Old Tibetan > Late Old Tibetan > Central Tibetan > South-Western Tibetic > Kyirong-Kagate > Yolmo-Kagate > Lamjung-Melamchi Yolmo"
 wikipedia_url: "https://en.wikipedia.org/wiki/Yolmo_language"
+translations:
+  - translation_iso: zho
+    name: 约尔莫语
 rolv_dialects:
   - rolv_code: 10611
     language_tag: scp-x-HIS10611

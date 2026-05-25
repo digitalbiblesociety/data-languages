@@ -1,8 +1,6 @@
 ---
 iso: diz
 name: Ding
-name_zh: 定语
-name_zh_auto: true
 autonym: Di
 alt_names: [Din, Dzing]
 population: 155000
@@ -16,6 +14,10 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > Central-Western Bantu > West-Coastal Bantu > Nzadic > Lweric > Dingic > Ding"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ding_language"
+translations:
+  - translation_iso: zho
+    name: 定语
+    auto: true
 rolv_dialects:
   - rolv_code: 1569
     language_tag: diz-x-HIS01569

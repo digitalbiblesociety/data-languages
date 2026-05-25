@@ -1,8 +1,6 @@
 ---
 iso: vlp
 name: Valpei
-name_zh: 瓦尔佩语
-name_zh_auto: true
 autonym: Valpay
 alt_names: [Valpei-Hukua]
 population: 300
@@ -16,6 +14,10 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > North and Central Vanuatu > Northern Vanuatu > Espiritu Santo > West Santo > Cape Cumberland > Valpei"
 wikipedia_url: "https://en.wikipedia.org/wiki/Valpei_language"
+translations:
+  - translation_iso: zho
+    name: 瓦尔佩语
+    auto: true
 rolv_dialects:
   - rolv_code: 30633
     language_tag: vlp-x-HIS30633

@@ -1,7 +1,6 @@
 ---
 iso: sam
 name: Samaritan Aramaic
-name_zh: 撒瑪利亞亞拉姆語
 autonym: ארמית Arāmît
 alt_names: ["Aramaic, Samaritan"]
 population: null
@@ -12,5 +11,16 @@ latitude: 32.31075
 longitude: 35.25798
 scripts: [Hebr, Samr]
 wikipedia_url: "https://en.wikipedia.org/wiki/Samaritan_Aramaic"
+translations:
+  - translation_iso: ara
+    name: آرامية سامرية
+  - translation_iso: hin
+    name: सामैरिटन अरैमिक
+  - translation_iso: jpn
+    name: サマリア・アラム語
+  - translation_iso: kor
+    name: 사마리아 아람어
+  - translation_iso: zho
+    name: 撒瑪利亞亞拉姆語
 ---
 Samaritan Aramaic was the dialect of Aramaic used by the Samaritans in their sacred and scholarly literature.

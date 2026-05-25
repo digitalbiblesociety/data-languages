@@ -1,7 +1,6 @@
 ---
 iso: kjm
 name: Kháng
-name_zh: 抗语
 autonym: Mang U’
 alt_names: [Bren, Hang, Jang, Khaang, Khang, Khang quang lam, Ksakautenh, Pouteng, Putenh, Quang Lam, Tay Hay, Tayhay, Teng, Theng, Xa, Xa Ai, Xa Bung, Xa Dang, Xa Don, Xa Hoc, Xa Suak, Xa Xua, Xá Khao]
 population: 3920
@@ -15,6 +14,9 @@ glottolog_family_id: aust1305
 glottolog_family_name: Austroasiatic
 glottolog_classification: "Austroasiatic > Khasi-Palaung > Palaungic > East Palaungic > Khao-Bit > Kháng"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kh%C3%A1ng_language"
+translations:
+  - translation_iso: zho
+    name: 抗语
 rolv_dialects:
   - rolv_code: 11942
     language_tag: kjm-x-HIS11942

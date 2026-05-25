@@ -1,8 +1,6 @@
 ---
 iso: lmy
 name: Lamboya
-name_zh: 兰博亚语
-name_zh_auto: true
 autonym: bahasa Lamboya
 alt_names: [Indonesia, Laboya]
 population: 25000
@@ -16,5 +14,9 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Bima-Lembata > Sumba-Hawu > Sumba > Wewewa-Laboya > Lamboya"
 wikipedia_url: "https://en.wikipedia.org/wiki/Lamboya_language"
+translations:
+  - translation_iso: zho
+    name: 兰博亚语
+    auto: true
 ---
 Lamboya or Laboya is an Austronesian language spoken on Sumba, Indonesia. The population figure may include Gaura, which Ethnologue counts as a dialect of both Lamboya and Kodi.

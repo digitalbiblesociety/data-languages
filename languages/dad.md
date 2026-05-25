@@ -1,8 +1,6 @@
 ---
 iso: dad
 name: Marik
-name_zh: 玛里克语
-name_zh_auto: true
 autonym: Ham
 alt_names: [Dami]
 population: 3500
@@ -16,6 +14,10 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > North New Guinea linkage > Ngero-Vitiaz linkage > Vitiaz linkage > Bel-Roinji-Nenaya > Bel > Western Bel > Marik"
 wikipedia_url: "https://en.wikipedia.org/wiki/Marik_language"
+translations:
+  - translation_iso: zho
+    name: 玛里克语
+    auto: true
 rolv_dialects:
   - rolv_code: 13744
     language_tag: dad-x-HIS13744

@@ -1,7 +1,6 @@
 ---
 iso: swg
 name: Swabian
-name_zh: 施瓦本语
 autonym: Schwäbisch
 alt_names: [Dialetto svevo, Idioma suabo, Lengua sveva, Lingua Suebica, Schwabisk, Schwaebisch, Schwäbische Dialekte, Schwäbsch, Souabe, Suabian, Swabeg, Swabian German, Swabiese Duits, Zwabisch]
 population: 819000
@@ -16,5 +15,14 @@ glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Germanic > Northwest Germanic > West Germanic > High German > Upper German > Middle-Modern High German > Modern High German > Alemannic > North Alemannic > Swabian"
 wikipedia_url: "https://en.wikipedia.org/wiki/Swabian_German"
+translations:
+  - translation_iso: ara
+    name: ألمانية سوابية
+  - translation_iso: jpn
+    name: シュヴァーベン語
+  - translation_iso: kor
+    name: 슈바벤어
+  - translation_iso: zho
+    name: 施瓦本语
 ---
 Swabian is one of the dialect groups of Upper German, sometimes one of the dialect groups of Alemannic German, that belong to the High German dialect continuum. It is mainly spoken in Swabia, which is located in central and southeastern Baden-Württemberg and the southwest of Bavaria. Furthermore, Swabian German dialects are spoken by Caucasus Germans in Transcaucasia. The dialects of the Danube Swabian population of Hungary, the former Yugoslavia and Romania are only nominally Swabian and can be traced back not only to Swabian but also to Franconian, Bavarian and Hessian dialects, with locally varying degrees of influence of the initial dialects.

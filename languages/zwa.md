@@ -1,8 +1,6 @@
 ---
 iso: zwa
 name: Zay
-name_zh: 扎伊语
-name_zh_auto: true
 autonym: ዛይኘ
 alt_names: [Gelilla, "Lak'i", Laqi, Zai, Zaisé, Zayeg, Zoay, Zway]
 population: 4880
@@ -16,5 +14,9 @@ glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Semitic > West Semitic > Ethiosemitic > South Ethiopic > Harari-East Gurage > Zay"
 wikipedia_url: "https://en.wikipedia.org/wiki/Zay_language"
+translations:
+  - translation_iso: zho
+    name: 扎伊语
+    auto: true
 ---
 Zay is an Afroasiatic language of the Semitic branch spoken in Ethiopia. It is one of the Gurage languages in the Ethiopian Semitic group. The Zay language has around 14,000 speakers known as the Zay, who inhabit Gelila and the other five islands and shores of Lake Zway in the southern part of the country.

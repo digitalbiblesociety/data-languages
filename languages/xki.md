@@ -1,8 +1,6 @@
 ---
 iso: xki
 name: Kenyan Sign Language
-name_zh: 肯尼亚手语
-name_zh_auto: true
 autonym: KSL
 alt_names: [Língua Gestual Queniana]
 population: 600000
@@ -16,6 +14,14 @@ glottolog_family_id: sign1238
 glottolog_family_name: Sign Language
 glottolog_classification: "Sign Language > L1 Sign Language > Kenya-Somali Sign Language"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kenyan_Sign_Language"
+translations:
+  - translation_iso: ara
+    name: لغة الإشارة الكينية
+  - translation_iso: jpn
+    name: ケニア手話
+  - translation_iso: zho
+    name: 肯尼亚手语
+    auto: true
 rolv_dialects:
   - rolv_code: 26042
     language_tag: xki-x-HIS26042

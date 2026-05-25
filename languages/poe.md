@@ -1,8 +1,6 @@
 ---
 iso: poe
 name: San Juan Atzingo Popoloca
-name_zh: 圣胡安阿特辛戈波波卡语
-name_zh_auto: true
 autonym: "Popoloca, San Juan Atzingo"
 alt_names: [Atzingo Popoloca, Chocho-Popoloka, Eastern Popoloca, Eastern Popoloka, Ngigua, Popoloc, Popoloc oriental, Popoloca, Popoloca (San Juan Atzingo Puebla), Popoloca (San Juan Atzingo), Popoloca de San Juan Atzingo, Popoloca del Oriente, Popoloca oriental, San Juan Atzingo, Southern Popoloca]
 population: 3690
@@ -15,4 +13,8 @@ glottocode: sanj1285
 glottolog_family_id: otom1299
 glottolog_family_name: Otomanguean
 glottolog_classification: "Otomanguean > Eastern Otomanguean > Popoloca-Zapotecan > Popolocan-Mazatecan > Ixcatec-Chocho-Popolocan > Chocho-Popolocan > Popolocan > Southwestern Popolocan > San Juan Atzingo Popoloca"
+translations:
+  - translation_iso: zho
+    name: 圣胡安阿特辛戈波波卡语
+    auto: true
 ---

@@ -1,8 +1,6 @@
 ---
 iso: bgv
 name: "Warkay-Bipim"
-name_zh: 瓦尔卡-比皮姆语
-name_zh_auto: true
 autonym: "Warkay-Bipim"
 alt_names: [Bipim, Bipim As-So, Warkay]
 population: 300
@@ -16,5 +14,9 @@ glottolog_family_id: anim1240
 glottolog_family_name: Anim
 glottolog_classification: "Anim > Marind-Boazi-Yaqai > Yaqayic > Warkay-Bipim"
 wikipedia_url: "https://en.wikipedia.org/wiki/Bipim_language"
+translations:
+  - translation_iso: zho
+    name: 瓦尔卡-比皮姆语
+    auto: true
 ---
 Bipim, or Warkay-Bipim, is a Papuan language spoken in Assue District, Mappi Regency, South Papua Province of Indonesia.

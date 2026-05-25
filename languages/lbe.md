@@ -1,7 +1,6 @@
 ---
 iso: lbe
 name: Lak
-name_zh: 拉克语
 autonym: лакку маз (lakːu maz)
 alt_names: [Idioma lak, Język lakijski, Kazikumukhtsy, Laco, Lakeg, Laki, Laki keel, Lakin kieli, Lakische Sprache, Lakça, Lingua lak, Língua lak, Лак чĕлхи, Лакку маз, Лакская мова, Лакски език, Лакски јазик, Лакский язык, Лакська мова, لغة لاك, ภาษาลัก, 라크어]
 population: 156300
@@ -16,6 +15,15 @@ glottolog_family_id: nakh1245
 glottolog_family_name: Nakh-Daghestanian
 glottolog_classification: "Nakh-Daghestanian > Daghestanian > Lak"
 wikipedia_url: "https://en.wikipedia.org/wiki/Lak_language"
+translations:
+  - translation_iso: ara
+    name: لغة لاك
+  - translation_iso: jpn
+    name: ラク語
+  - translation_iso: kor
+    name: 라크어
+  - translation_iso: zho
+    name: 拉克语
 rolv_dialects:
   - rolv_code: 12690
     language_tag: lbe-x-HIS12690

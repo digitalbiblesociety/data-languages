@@ -1,8 +1,6 @@
 ---
 iso: vae
 name: Vale
-name_zh: 瓦莱语
-name_zh_auto: true
 autonym: null
 alt_names: [Central African Republic]
 population: 5400
@@ -16,6 +14,10 @@ glottolog_family_id: cent2225
 glottolog_family_name: Central Sudanic
 glottolog_classification: "Central Sudanic > Sara-Bongo-Bagirmi > SBB Occidental > Nuclear SBB Occidental > Nduga-Luto > Vale"
 wikipedia_url: "https://en.wikipedia.org/wiki/Vale_language"
+translations:
+  - translation_iso: zho
+    name: 瓦莱语
+    auto: true
 rolv_dialects:
   - rolv_code: 18002
     language_tag: vae-x-HIS18002

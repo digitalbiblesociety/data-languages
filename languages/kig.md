@@ -1,8 +1,6 @@
 ---
 iso: kig
 name: Kimaama
-name_zh: 基马马语
-name_zh_auto: true
 autonym: Kimaama
 alt_names: [Kaladdarsch, Kimaghama, Kimaghana, Kimaghima, Teri-Kalwasch, Teri-Kawalsch]
 population: 3000
@@ -16,5 +14,9 @@ glottolog_family_id: kolo1268
 glottolog_family_name: Kolopom
 glottolog_classification: "Kolopom > Kimaama-Riantana > Kimaama"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kimaghama_language"
+translations:
+  - translation_iso: zho
+    name: 基马马语
+    auto: true
 ---
 Kimaama, or Kimaghama, is a language spoken on Yos Sudarso Island in Papua province, Indonesia.

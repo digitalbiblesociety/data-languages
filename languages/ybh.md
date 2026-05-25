@@ -1,8 +1,6 @@
 ---
 iso: ybh
 name: Yakha
-name_zh: 亚卡语
-name_zh_auto: true
 autonym: Dewansala
 alt_names: [Rōi, Yakeg, Yakkha, Yakkhaba, Yakkhaba Cea, Yakkhaba Sala, Yakthomba, Yākhā, Якха]
 population: 14600
@@ -16,6 +14,10 @@ glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Himalayish > Mahakiranti > Kiranti > Eastern Kiranti > Tamar > Yakkha-Athpariyic > Yakkha"
 wikipedia_url: "https://en.wikipedia.org/wiki/Yakkha_language"
+translations:
+  - translation_iso: zho
+    name: 亚卡语
+    auto: true
 rolv_dialects:
   - rolv_code: 18413
     language_tag: ybh-x-HIS18413

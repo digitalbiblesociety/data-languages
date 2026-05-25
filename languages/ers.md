@@ -1,7 +1,6 @@
 ---
 iso: ers
 name: Ersu
-name_zh: 爾蘇語
 autonym: "Bu'erci"
 alt_names: [Duoxu, Erhsu, Ersoueg, ภาษาเอ้อซู, 爾蘇語]
 population: 20000
@@ -15,6 +14,11 @@ glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Burmo-Qiangic > Na-Qiangic > Ersuic > Ersu"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ersu_language"
+translations:
+  - translation_iso: jpn
+    name: アルス語
+  - translation_iso: zho
+    name: 爾蘇語
 rolv_dialects:
   - rolv_code: 9646
     language_tag: ers-x-HIS09646

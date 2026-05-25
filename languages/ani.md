@@ -1,8 +1,6 @@
 ---
 iso: ani
 name: Andi
-name_zh: 安迪语
-name_zh_auto: true
 autonym: къӀаваннаб мицӀцӀи qwavannab miċċi
 alt_names: [Andieg, Andii, Andin kieli, Andiy, Język andyjski, Llengua andi, Língua andi, Qandisel, Qwannab, qwavannab micci, Андиаг æвзаг, Андски јазик, Андійська мова, андийский язык, къIaваннаб мицци, ანდიური ენა]
 population: 40000
@@ -16,6 +14,14 @@ glottolog_family_id: nakh1245
 glottolog_family_name: Nakh-Daghestanian
 glottolog_classification: "Nakh-Daghestanian > Daghestanian > Avar-Andic-Tsezic > Andic > Andi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Andi_language"
+translations:
+  - translation_iso: jpn
+    name: アンディ語
+  - translation_iso: kor
+    name: 안디어
+  - translation_iso: zho
+    name: 安迪语
+    auto: true
 rolv_dialects:
   - rolv_code: 6992
     language_tag: ani-x-HIS06992

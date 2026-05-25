@@ -1,8 +1,6 @@
 ---
 iso: wnp
 name: Wanap
-name_zh: 瓦纳普语
-name_zh_auto: true
 autonym: Kayik
 alt_names: [Menandon, Minendon]
 population: 1070
@@ -16,6 +14,10 @@ glottolog_family_id: nucl1708
 glottolog_family_name: Nuclear Torricelli
 glottolog_classification: "Nuclear Torricelli > Wapei-Palei > Wanap"
 wikipedia_url: "https://en.wikipedia.org/wiki/Wanap_language"
+translations:
+  - translation_iso: zho
+    name: 瓦纳普语
+    auto: true
 rolv_dialects:
   - rolv_code: 3434
     language_tag: wnp-x-HIS03434

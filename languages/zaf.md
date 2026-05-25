@@ -1,8 +1,6 @@
 ---
 iso: zaf
 name: Ayoquesco Zapotec
-name_zh: 阿约奎斯科-萨波特克语
-name_zh_auto: true
 autonym: (Santa María Ayoquezco)
 alt_names: [Ayoquezco, Ayoquezco Zapotec, Central Sapoteko, Western Ejutla Zapotec, Zapotec, "Zapotec, Ayoquesco", Zapoteco de San Felipe Tejalápam, Zapoteco de Santa María Ayoquesco, Zapoteco de Santa María Ayoquezco, Zapotèque de San Felipe Tejalapan]
 population: 880
@@ -16,6 +14,10 @@ glottolog_family_id: otom1299
 glottolog_family_name: Otomanguean
 glottolog_classification: "Otomanguean > Eastern Otomanguean > Popoloca-Zapotecan > Zapotecan > Zapotec > Core Zapotec > Narrow Core Zapotec > Central Core Zapotec > Ayoquesco Zapotec"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ayoquezco_Zapotec"
+translations:
+  - translation_iso: zho
+    name: 阿约奎斯科-萨波特克语
+    auto: true
 ---
 Ayoquesco Zapotec is a small Zapotec language of Oaxaca, Mexico.
 Ayoquesco Zapotec (Dísè) is spoken in Santa María Ayoquezco and Santa Cruz Nexila, around 50% intelligible to San Andres Zabache speakers.

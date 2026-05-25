@@ -1,7 +1,6 @@
 ---
 iso: kls
 name: Kalasha
-name_zh: 卡拉什语
 autonym: Kalashamondr
 alt_names: [Calasa, Chitrali, Dardu, Kalacheg, Kalasa, Kalash, Kalash language, Kalashamon, Kalaština, Калашский язык, கலஷா மொழி]
 population: 5030
@@ -15,6 +14,15 @@ glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Indo-Aryan > Chitral Kalasha"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kalasha_language"
+translations:
+  - translation_iso: hin
+    name: कलश भाषा
+  - translation_iso: jpn
+    name: カラーシャ語
+  - translation_iso: kor
+    name: 칼라샤어
+  - translation_iso: zho
+    name: 卡拉什语
 rolv_dialects:
   - rolv_code: 3561
     language_tag: kls-x-HIS03561

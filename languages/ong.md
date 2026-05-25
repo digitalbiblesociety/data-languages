@@ -1,8 +1,6 @@
 ---
 iso: ong
 name: Olo
-name_zh: 奥洛语
-name_zh_auto: true
 autonym: null
 alt_names: [Orlei, Wape, Wapi]
 population: 13700
@@ -16,6 +14,12 @@ glottolog_family_id: nucl1708
 glottolog_family_name: Nuclear Torricelli
 glottolog_classification: "Nuclear Torricelli > Wapei-Palei > Central Torricelli > Wapeic > Au-Olo-Elkei > Olo-Elkei > Olo"
 wikipedia_url: "https://en.wikipedia.org/wiki/Olo_language"
+translations:
+  - translation_iso: jpn
+    name: オロ語
+  - translation_iso: zho
+    name: 奥洛语
+    auto: true
 rolv_dialects:
   - rolv_code: 512
     language_tag: ong-x-HIS00512

@@ -1,8 +1,6 @@
 ---
 iso: bwq
 name: Southern Bobo Madaré
-name_zh: 南博博马达雷语
-name_zh_auto: true
 autonym: Bobo Fing
 alt_names: [Black Bobo, Bobo, Bobo Fi, "Bobo Madaré, Southern", Bobo-fing, Southern Bobo Madare, Sya]
 population: 181000
@@ -15,6 +13,10 @@ glottocode: sout2840
 glottolog_family_id: mand1469
 glottolog_family_name: Mande
 glottolog_classification: "Mande > Western Mande > Northwestern Mande > Duun-Bobo > Bobo > Southern Bobo Madaré"
+translations:
+  - translation_iso: zho
+    name: 南博博马达雷语
+    auto: true
 rolv_dialects:
   - rolv_code: 3017
     language_tag: bwq-x-HIS03017

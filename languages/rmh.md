@@ -1,8 +1,6 @@
 ---
 iso: rmh
 name: Murkim
-name_zh: 默尔基姆语
-name_zh_auto: true
 autonym: bahasa Murkim
 alt_names: [Indonesia]
 population: 290
@@ -16,5 +14,9 @@ glottolog_family_id: lepk1239
 glottolog_family_name: Lepki-Murkim-Kembra
 glottolog_classification: "Lepki-Murkim-Kembra > Murkim"
 wikipedia_url: "https://en.wikipedia.org/wiki/Murkim_language"
+translations:
+  - translation_iso: zho
+    name: 默尔基姆语
+    auto: true
 ---
 Murkim is a Papuan language of Western New Guinea, near its relatives Lepki and Kembra. Though spoken by fewer than 300 people, it is being learned by children. It is spoken in Murkim District, Pegunungan Bintang Regency, Papua Province, Indonesia.

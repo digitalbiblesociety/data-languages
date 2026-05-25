@@ -1,8 +1,6 @@
 ---
 iso: kcr
 name: Katla
-name_zh: 卡特拉语
-name_zh_auto: true
 autonym: Kaalak
 alt_names: [Akalak, Catla, Kalak]
 population: 14200
@@ -16,6 +14,12 @@ glottolog_family_id: katl1246
 glottolog_family_name: Katla-Tima
 glottolog_classification: "Katla-Tima > Katla-Julud > Katla"
 wikipedia_url: "https://en.wikipedia.org/wiki/Katla_language"
+translations:
+  - translation_iso: jpn
+    name: カトラ語
+  - translation_iso: zho
+    name: 卡特拉语
+    auto: true
 rolv_dialects:
   - rolv_code: 1859
     language_tag: kcr-x-HIS01859

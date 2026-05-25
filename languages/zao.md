@@ -1,8 +1,6 @@
 ---
 iso: zao
 name: Ozolotepec Zapotec
-name_zh: 奥索洛特佩克-萨波特克语
-name_zh_auto: true
 autonym: "Zapotec, Ozolotepec"
 alt_names: [Southern Sapoteko, Zapotec, Zapoteco de Asunción Tlacolulita, Zapoteco de Ozolotepec, "Zapotèque d'Asunción Tlacolulita"]
 population: 6500
@@ -16,6 +14,10 @@ glottolog_family_id: otom1299
 glottolog_family_name: Otomanguean
 glottolog_classification: "Otomanguean > Eastern Otomanguean > Popoloca-Zapotecan > Zapotecan > Zapotec > Core Zapotec > Narrow Core Zapotec > Miahuatecano > Miahuateco > Ozolotepec Zapotec"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ozolotepec_Zapotec"
+translations:
+  - translation_iso: zho
+    name: 奥索洛特佩克-萨波特克语
+    auto: true
 rolv_dialects:
   - rolv_code: 25430
     language_tag: zao-x-HIS25430

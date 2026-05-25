@@ -1,7 +1,6 @@
 ---
 iso: sgr
 name: Sangisari
-name_zh: 桑吉塞里語
 autonym: Mahdi Shahri
 alt_names: [Mehdishahri, Sangesari, Sangsari, Sangsari language, Sengiseri, Sengsari, Sengıserki, Sängesäri, Sängsari, Sängsäri, زبان سنگسری, ภาษาซังกิซารี]
 population: 42300
@@ -15,6 +14,13 @@ glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Iranian-Nuristani > Iranian > Central Iranian PBS > Central Iranian PB > Northwestern Iranian > Komisenian > Sangisari"
 wikipedia_url: "https://en.wikipedia.org/wiki/Sangsari_language"
+translations:
+  - translation_iso: ara
+    name: اللغة السنغسري
+  - translation_iso: jpn
+    name: サンギセリー語
+  - translation_iso: zho
+    name: 桑吉塞里語
 rolv_dialects:
   - rolv_code: 27159
     language_tag: sgr-x-HIS27159

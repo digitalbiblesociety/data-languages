@@ -1,8 +1,6 @@
 ---
 iso: pum
 name: Puma
-name_zh: 普玛语
-name_zh_auto: true
 autonym: पुमा
 alt_names: [Poumeg, Puma Kala, Puma La, Puma Pima, Pumaish, Пума, ภาษาปูมา]
 population: 4310
@@ -16,5 +14,11 @@ glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Himalayish > Mahakiranti > Kiranti > Eastern Kiranti > Southern Kiranti > Puma"
 wikipedia_url: "https://en.wikipedia.org/wiki/Puma_language"
+translations:
+  - translation_iso: kor
+    name: 푸마어
+  - translation_iso: zho
+    name: 普玛语
+    auto: true
 ---
 Puma is a Kiranti language spoken by about 4,310 people in Sagarmatha Zone, Nepal. The actual population may be somewhat higher. The same term ‘Puma’ refers both to the people and the language they speak.

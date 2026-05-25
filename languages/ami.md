@@ -1,7 +1,6 @@
 ---
 iso: ami
 name: Amis
-name_zh: 阿美语
 autonym: Pangcah
 alt_names: [Ami, Amia, Amisisch, Bakurut, Lam-Si-Hoan, Maran, Pagcah, Pangtsah, Sabari, Sprache von Formosa, Tanah, Â-mî-ngî, Амисский язык, アミ語, 阿美語, 아미어]
 population: 214000
@@ -15,6 +14,15 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > East Formosan > Central East Formosan > Amis"
 wikipedia_url: "https://en.wikipedia.org/wiki/Amis_language"
+translations:
+  - translation_iso: ara
+    name: أميس
+  - translation_iso: jpn
+    name: アミ語
+  - translation_iso: kor
+    name: 아미어
+  - translation_iso: zho
+    name: 阿美语
 rolv_dialects:
   - rolv_code: 6965
     language_tag: ami-x-HIS06965

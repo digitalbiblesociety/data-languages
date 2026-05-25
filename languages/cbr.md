@@ -1,8 +1,6 @@
 ---
 iso: cbr
 name: Cashibo-Cacataibo
-name_zh: 卡什博-卡卡塔伊博语
-name_zh_auto: true
 autonym: Cacataibo
 alt_names: [Cachibo, Cacibo, Cahivo, Cashibo, Catcataibo, Caxibo, Caxinyo, Hagueti, Kachibeg, Kashibo, Kashibo-Kakataibo, Kashibu simi, Managua, Ra-txa Hu-ni-ku-i]
 population: 2780
@@ -16,6 +14,10 @@ glottolog_family_id: pano1259
 glottolog_family_name: Pano-Tacanan
 glottolog_classification: "Pano-Tacanan > Panoan > Mainline Pano > Cashibo-Cacataibo"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kashibo_language"
+translations:
+  - translation_iso: zho
+    name: 卡什博-卡卡塔伊博语
+    auto: true
 rolv_dialects:
   - rolv_code: 8657
     language_tag: cbr-x-HIS08657

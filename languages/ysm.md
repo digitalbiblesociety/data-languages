@@ -1,8 +1,6 @@
 ---
 iso: ysm
 name: Myanmar Sign Language
-name_zh: 缅甸手语
-name_zh_auto: true
 autonym: Myanmar Sign Language
 alt_names: [Yangon Sign Language, Yangoon Myanmar Sign Language]
 population: 270000
@@ -15,6 +13,12 @@ glottolog_family_id: sign1238
 glottolog_family_name: Sign Language
 glottolog_classification: "Sign Language > L1 Sign Language > Myanmar Sign > Yangon Myanmar Sign Language"
 wikipedia_url: "https://en.wikipedia.org/wiki/Burmese_sign_language"
+translations:
+  - translation_iso: jpn
+    name: ビルマ手話
+  - translation_iso: zho
+    name: 缅甸手语
+    auto: true
 rolv_dialects:
   - rolv_code: 26195
     language_tag: ysm-x-HIS26195

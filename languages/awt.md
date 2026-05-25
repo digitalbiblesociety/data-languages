@@ -1,8 +1,6 @@
 ---
 iso: awt
 name: Araweté
-name_zh: 阿拉韦特语
-name_zh_auto: true
 autonym: Bïde
 alt_names: [Arawete, Asuriní, Asuriní do Coatinema, Asuriní do Xingú, Awaeté]
 population: 290
@@ -16,5 +14,9 @@ glottolog_family_id: tupi1275
 glottolog_family_name: Tupian
 glottolog_classification: "Tupian > Eastern Tupian > Maweti-Guarani > Aweti-Guarani > Tupi-Guarani > Tupi-Guarani Subgroup V > Arawetic > Araweté"
 wikipedia_url: "https://en.wikipedia.org/wiki/Arawet%C3%A9_language"
+translations:
+  - translation_iso: zho
+    name: 阿拉韦特语
+    auto: true
 ---
 Araweté is a Tupi–Guaraní language of the state of Amazonas, in the Amazon region of Brazil. Nearly all speakers were monolingual in 1986.

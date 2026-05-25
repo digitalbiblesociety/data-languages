@@ -1,8 +1,6 @@
 ---
 iso: nir
 name: Nimboran
-name_zh: 尼姆博兰语
-name_zh_auto: true
 autonym: Namblong
 alt_names: [Nambrong]
 population: 2000
@@ -16,5 +14,9 @@ glottolog_family_id: nimb1257
 glottolog_family_name: Nimboranic
 glottolog_classification: "Nimboranic > Nimboran"
 wikipedia_url: "https://en.wikipedia.org/wiki/Nimboran_language"
+translations:
+  - translation_iso: zho
+    name: 尼姆博兰语
+    auto: true
 ---
 Nimboran is a Papuan language of Nimboran District, Jayapura Regency, Indonesia spoken by mostly older adults. Younger generations have shifted to Papuan Malay. It is spoken in about 26 villages to the west of Lake Sentani. Only 20% of the Namblong people speak the language.

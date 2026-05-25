@@ -1,8 +1,6 @@
 ---
 iso: ssg
 name: Seimat
-name_zh: 塞马特语
-name_zh_auto: true
 autonym: null
 alt_names: [Admiralitäts-inseln, Ninigo]
 population: 1400
@@ -16,6 +14,10 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Admiralty Islands > Western Admiralty Islands > Seimat"
 wikipedia_url: "https://en.wikipedia.org/wiki/Seimat_language"
+translations:
+  - translation_iso: zho
+    name: 塞马特语
+    auto: true
 rolv_dialects:
   - rolv_code: 26331
     language_tag: ssg-x-HIS26331

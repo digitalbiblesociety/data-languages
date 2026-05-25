@@ -1,8 +1,6 @@
 ---
 iso: djb
 name: Djinba
-name_zh: 詹巴语
-name_zh_auto: true
 autonym: null
 alt_names: [Daii, Diakui, Djimba, Djinang, Dyinba, Ganalbwingu, Gunalbingu, Jinba, Kurkamarnapia, Outjanbah, Ritharngu, Yolngu]
 population: 53
@@ -16,6 +14,10 @@ glottolog_family_id: pama1250
 glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > Yuulngu > Western-Inland Yolngu > Djinba"
 wikipedia_url: "https://en.wikipedia.org/wiki/Djinba_language"
+translations:
+  - translation_iso: zho
+    name: 詹巴语
+    auto: true
 rolv_dialects:
   - rolv_code: 9330
     language_tag: djb-x-HIS09330

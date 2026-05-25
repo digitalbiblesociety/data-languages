@@ -1,8 +1,6 @@
 ---
 iso: hap
 name: Hupla
-name_zh: 胡普拉语
-name_zh_auto: true
 autonym: Soba
 population: 3000
 country_id: ID
@@ -15,5 +13,9 @@ glottolog_family_id: nucl1709
 glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Dani > Central Dani > Grand Valley Dani > Southeast Grand Valley Dani > Hupla"
 wikipedia_url: "https://en.wikipedia.org/wiki/Hupla_language"
+translations:
+  - translation_iso: zho
+    name: 胡普拉语
+    auto: true
 ---
 Hupla is a Papuan language of the Indonesian province of Highland Papua, spoken by the Hubla people of Yahukimo Regency. It is similar to Lower Grand Valley Dani.

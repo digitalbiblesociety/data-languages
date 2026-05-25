@@ -1,8 +1,6 @@
 ---
 iso: bnv
 name: Bonerif
-name_zh: 博内里夫语
-name_zh_auto: true
 autonym: Boneraf
 alt_names: [Beneraf, Edwas]
 population: 200
@@ -16,6 +14,10 @@ glottolog_family_id: toro1256
 glottolog_family_name: Tor-Orya
 glottolog_classification: "Tor-Orya > Tor > Coastal Tor > Bonerif"
 wikipedia_url: "https://en.wikipedia.org/wiki/Bonerif_language"
+translations:
+  - translation_iso: zho
+    name: 博内里夫语
+    auto: true
 rolv_dialects:
   - rolv_code: 1246
     language_tag: bnv-x-HIS01246

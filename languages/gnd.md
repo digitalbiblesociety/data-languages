@@ -1,8 +1,6 @@
 ---
 iso: gnd
 name: "Zulgo-Gemzek"
-name_zh: 祖尔戈-吉姆泽克语
-name_zh_auto: true
 autonym: Zulgo
 alt_names: [Gemjek, Guemshek, Zoulgwaeg, Zulgo-Gemzek jezik]
 population: 26000
@@ -16,6 +14,10 @@ glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > Biu-Mandara > North Biu-Mandara > Margi-Mandara-Mofu > Mofuic > Meri > Zulgo-Gemzek"
 wikipedia_url: "https://en.wikipedia.org/wiki/Zulgo-Gemzek_language"
+translations:
+  - translation_iso: zho
+    name: 祖尔戈-吉姆泽克语
+    auto: true
 rolv_dialects:
   - rolv_code: 2853
     language_tag: gnd-x-HIS02853

@@ -1,8 +1,6 @@
 ---
 iso: coq
 name: Coquille
-name_zh: 科基尔语
-name_zh_auto: true
 autonym: Tutudin
 alt_names: [Chasta Costa, Mishikhwutmetunee, Tutuni-Chasta Costa-Coquille, Tututni, Upper Coquille]
 population: null
@@ -15,4 +13,10 @@ glottocode: coqu1236
 glottolog_family_id: atha1245
 glottolog_family_name: Athabaskan-Eyak-Tlingit
 glottolog_classification: "Athabaskan-Eyak-Tlingit > Athabaskan-Eyak > Athabaskan > Pacific Coast Athabaskan > Oregon Athabaskan > Rogue River > Coquille"
+translations:
+  - translation_iso: hin
+    name: शंख
+  - translation_iso: zho
+    name: 科基尔语
+    auto: true
 ---

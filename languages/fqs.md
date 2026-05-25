@@ -1,7 +1,6 @@
 ---
 iso: fqs
 name: Fas
-name_zh: 法斯语
 autonym: Momu
 alt_names: [Bembi]
 population: 2500
@@ -15,6 +14,9 @@ glottolog_family_id: baib1250
 glottolog_family_name: Baibai-Fas
 glottolog_classification: "Baibai-Fas > Momu-Fas"
 wikipedia_url: "https://en.wikipedia.org/wiki/Fas_language"
+translations:
+  - translation_iso: zho
+    name: 法斯语
 rolv_dialects:
   - rolv_code: 1231
     language_tag: fqs-x-HIS01231

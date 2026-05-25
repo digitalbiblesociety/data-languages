@@ -1,8 +1,6 @@
 ---
 iso: atz
 name: Arta
-name_zh: 阿尔塔语
-name_zh_auto: true
 autonym: null
 population: 150
 country_id: PH
@@ -15,5 +13,9 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Northern Luzon > Arta"
 wikipedia_url: "https://en.wikipedia.org/wiki/Arta_language"
+translations:
+  - translation_iso: zho
+    name: 阿尔塔语
+    auto: true
 ---
 Arta is a highly endangered Negrito language of the northern Philippines.

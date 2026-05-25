@@ -1,8 +1,6 @@
 ---
 iso: sib
 name: Sebop
-name_zh: 塞博普语
-name_zh_auto: true
 autonym: Cebop
 alt_names: ["Kenyah, Sebob", Sabup, Sambup, Sebob, Sibop]
 population: 1730
@@ -16,5 +14,9 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > North Borneo Malayo-Polynesian > North Sarawakan > Kenyahic > Lowland Kenyah > Western Lowland Kenyah-Penan > Penan > Western Penan-Sebop > Sebop"
 wikipedia_url: "https://en.wikipedia.org/wiki/Sebop_language"
+translations:
+  - translation_iso: zho
+    name: 塞博普语
+    auto: true
 ---
 Sebob is a Kenyah language of Sarawak.

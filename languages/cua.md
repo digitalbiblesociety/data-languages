@@ -1,7 +1,6 @@
 ---
 iso: cua
 name: Cua
-name_zh: 戈语 (南亚语系)
 autonym: Bòng Mieu
 alt_names: [Bong Miew, Kor, Traw, ภาษากัว]
 population: 12000
@@ -15,6 +14,11 @@ glottolog_family_id: aust1305
 glottolog_family_name: Austroasiatic
 glottolog_classification: "Austroasiatic > Bahnaric > Cua"
 wikipedia_url: "https://en.wikipedia.org/wiki/Cua_language_(Austroasiatic)"
+translations:
+  - translation_iso: kor
+    name: 쿠아어
+  - translation_iso: zho
+    name: 戈语 (南亚语系)
 rolv_dialects:
   - rolv_code: 9037
     language_tag: cua-x-HIS09037

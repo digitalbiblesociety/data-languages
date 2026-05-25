@@ -1,8 +1,6 @@
 ---
 iso: nbk
 name: Nake
-name_zh: 纳克语
-name_zh_auto: true
 autonym: Ale
 population: 170
 country_id: PG
@@ -15,6 +13,10 @@ glottolog_family_id: nucl1709
 glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Madang > Croisilles > Mabuso > Hanseman > Unclassified Hanseman > Nake"
 wikipedia_url: "https://en.wikipedia.org/wiki/Nake_language"
+translations:
+  - translation_iso: zho
+    name: 纳克语
+    auto: true
 rolv_dialects:
   - rolv_code: 30274
     language_tag: nbk-x-HIS30274

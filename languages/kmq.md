@@ -1,8 +1,6 @@
 ---
 iso: kmq
 name: Kwama
-name_zh: 夸马语
-name_zh_auto: true
 autonym: Afan Mao
 alt_names: [Amam, Gogwama, Goma, Gwama, Koma of Asosa, Mao, Nokanoka, North Koma, Qewama, "T'wa Kwama", Takwama]
 population: 15000
@@ -16,6 +14,10 @@ glottolog_family_id: koma1264
 glottolog_family_name: Koman
 glottolog_classification: "Koman > Gwama"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kwama_language"
+translations:
+  - translation_iso: zho
+    name: 夸马语
+    auto: true
 rolv_dialects:
   - rolv_code: 313
     language_tag: kmq-x-HIS00313

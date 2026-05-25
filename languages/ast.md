@@ -1,7 +1,6 @@
 ---
 iso: ast
 name: Asturian
-name_zh: 阿斯图里亚斯语
 autonym: asturianu
 alt_names: [Astur-Leonese, Astur-leonés, Asturan, Astureg, Asturia lingvo, Asturiaans, Asturiagiella, Asturian kieli, Asturian-Leonese, Asturiano, Asturiansk, Asturien, Asturien-léonais, Asturiera, Asturies, Asturisch, Asturische Sprache, Asturiska, Asturleonese, Asturlleonès, Asturyasça, Asturyek, Asturština, Astuursche Spraak, Astwrieg, Astúríska, Astúrčina, Astūriešu valoda, Asztúriai nyelv, Bable, Bahasa Asturia, Idioma asturiano, Język asturyjski, Lenga asturian-a, Lengoa asturiann-a, Leonese, Leonés, Lhéngua asturiana, Limba asturiană, Lingua Asturiana, Luenga asturiana, Língua asturiana, Spanish, asturoléonais, léonais, Â-sṳ̂-thù-lî-â-sṳ̂-ngî, Łéngoa asturiana, Αστουριανή γλώσσα, Астурийский язык, Астуријски језик, Աստուրիերեն, אסטורית, ئاستۇرىيە تىلى, لغة أستورية, ภาษาอัสตูเรียส, アストゥリア語, 阿斯图里亚斯语, 아스투리아스어]
 population: 110000
@@ -16,6 +15,17 @@ glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Italic > Latino-Faliscan > Latinic > Imperial Latin > Romance > Italo-Western Romance > Western Romance > Shifted Western Romance > Southwestern Shifted Romance > West Ibero-Romance > Asturo-Leonese > Asturian-Leonese-Cantabrian"
 wikipedia_url: "https://en.wikipedia.org/wiki/Asturian_language"
+translations:
+  - translation_iso: ara
+    name: الأشتورية
+  - translation_iso: hin
+    name: अस्तुरियन
+  - translation_iso: jpn
+    name: アストゥリアス語
+  - translation_iso: kor
+    name: 아스투리아스어
+  - translation_iso: zho
+    name: 阿斯图里亚斯语
 rolv_dialects:
   - rolv_code: 7302
     language_tag: ast-x-HIS07302

@@ -1,8 +1,6 @@
 ---
 iso: ree
 name: Rejang Kayan
-name_zh: 雷让卡岩语
-name_zh_auto: true
 autonym: Kajan
 alt_names: ["Kayan, Rejang", Rejang Kajan]
 population: 3030
@@ -15,4 +13,8 @@ glottocode: reja1241
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > North Borneo Malayo-Polynesian > Kayan-Murik-Modang > Kayan-Murik > Kayanic > Rejang-Makaham Kayan > Rejang Kayan"
+translations:
+  - translation_iso: zho
+    name: 雷让卡岩语
+    auto: true
 ---

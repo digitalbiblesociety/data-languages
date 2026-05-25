@@ -1,7 +1,6 @@
 ---
 iso: ban
 name: Balinese
-name_zh: 巴厘语
 autonym: ᬪᬵᬱᬩᬮᬶ
 alt_names: [Bahasa Bali, Bali, Balia lingvo, Balijski jezik, Balin kieli, Balinais, Balinees, Balinesisch, Balinesische Sprache, Balinesisk, Balinesiska, Balinès, Basa Bali, Język balijski, "Lenga Malay, Balinese", Lingua balinese, Língua balinesa, Madura-Bali, Балийский язык, बहासा बाली, ภาษาบาหลี, バリ語]
 population: 3950000
@@ -16,6 +15,17 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Bali-Sasak-Sumbawa > Balinese"
 wikipedia_url: "https://en.wikipedia.org/wiki/Balinese_language"
+translations:
+  - translation_iso: ara
+    name: البالية
+  - translation_iso: hin
+    name: बाली भाषा
+  - translation_iso: jpn
+    name: バリ語
+  - translation_iso: kor
+    name: 발리어
+  - translation_iso: zho
+    name: 巴厘语
 rolv_dialects:
   - rolv_code: 7606
     language_tag: ban-x-HIS07606

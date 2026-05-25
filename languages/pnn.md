@@ -1,8 +1,6 @@
 ---
 iso: pnn
 name: "Pinai-Hagahai"
-name_zh: 皮奈哈加海伊语
-name_zh_auto: true
 autonym: Pinai
 alt_names: [Aramaue, Aramo, Erem, Hagahai, Miamia, Pinaye, Wapi]
 population: 600
@@ -16,6 +14,10 @@ glottolog_family_id: piaw1238
 glottolog_family_name: Piawi
 glottolog_classification: "Piawi > Pinai-Hagahai"
 wikipedia_url: "https://en.wikipedia.org/wiki/Hagahai_language"
+translations:
+  - translation_iso: zho
+    name: 皮奈哈加海伊语
+    auto: true
 rolv_dialects:
   - rolv_code: 15673
     language_tag: pnn-x-HIS15673

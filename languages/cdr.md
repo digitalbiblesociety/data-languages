@@ -1,8 +1,6 @@
 ---
 iso: cdr
 name: "Cinda-Regi-Tiyal"
-name_zh: 辛达-雷吉-蒂亚尔语
-name_zh_auto: true
 autonym: ‘Yara
 alt_names: [Kamuku]
 population: 45000
@@ -16,6 +14,10 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Kainji > Central Kainji > Shiroro-Kamuku > Kamuku-Hungwarya > Kamuku > Yara"
 wikipedia_url: "https://en.wikipedia.org/wiki/Cinda-Regi_language"
+translations:
+  - translation_iso: zho
+    name: 辛达-雷吉-蒂亚尔语
+    auto: true
 rolv_dialects:
   - rolv_code: 2036
     language_tag: cdr-x-HIS02036

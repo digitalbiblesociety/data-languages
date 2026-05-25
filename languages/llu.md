@@ -1,8 +1,6 @@
 ---
 iso: llu
 name: Lau
-name_zh: 劳语
-name_zh_auto: true
 autonym: null
 alt_names: [Südliche Salomons-Inseln]
 population: 16900
@@ -16,6 +14,12 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Southeast Solomonic > Longgu-Malaita-Makira > Malaita-Makira > Malaita > Central-Northern Malaita > North Malaitan > Lau"
 wikipedia_url: "https://en.wikipedia.org/wiki/Lau_language_(Malaita)"
+translations:
+  - translation_iso: jpn
+    name: ラウ語
+  - translation_iso: zho
+    name: 劳语
+    auto: true
 rolv_dialects:
   - rolv_code: 12782
     language_tag: llu-x-HIS12782

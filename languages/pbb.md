@@ -1,7 +1,6 @@
 ---
 iso: pbb
 name: Páez
-name_zh: 纳萨语
 autonym: "Nasa Yuwe "
 alt_names: [Idioma páez, Nasa simi, Nasaeg, Paes, Paez, Paez (cons need fixing), Paez (cons need fixing) is Maddieson name, Paisa, Pez, Páes]
 population: 243000
@@ -12,6 +11,13 @@ latitude: 2.61516
 longitude: -76.31254
 glottocode: paez1247
 wikipedia_url: "https://en.wikipedia.org/wiki/P%C3%A1ez_language"
+translations:
+  - translation_iso: jpn
+    name: パエス語
+  - translation_iso: kor
+    name: 파에스어
+  - translation_iso: zho
+    name: 纳萨语
 rolv_dialects:
   - rolv_code: 15394
     language_tag: pbb-x-HIS15394

@@ -1,8 +1,6 @@
 ---
 iso: twr
 name: Southwestern Tarahumara
-name_zh: 西南塔拉乌马拉语
-name_zh_auto: true
 autonym: "Rarámuri ra'ícha"
 alt_names: [Rocoroibo, South-western, Southwestern, Tarahumara, Tarahumara del Suroeste, Tarahumara nord-occidental, Tarahumara noroccidental, "Tarahumara, Southwestern", Taraumara, Tubare, Vorohio, Western]
 population: 100
@@ -15,4 +13,8 @@ glottocode: sout2971
 glottolog_family_id: utoa1244
 glottolog_family_name: Uto-Aztecan
 glottolog_classification: "Uto-Aztecan > Southern Uto-Aztecan > Tarahumara-Guarijio > Tarahumaran > Unclassified Tarahumaran > Southwestern Tarahumara"
+translations:
+  - translation_iso: zho
+    name: 西南塔拉乌马拉语
+    auto: true
 ---

@@ -1,8 +1,6 @@
 ---
 iso: aoj
 name: Mufian
-name_zh: 姆菲亚语
-name_zh_auto: true
 autonym: Southern Arapesh
 alt_names: [Mufwian, Muhian, Muhiang, Souther Arapesh]
 population: 11000
@@ -16,6 +14,12 @@ glottolog_family_id: nucl1708
 glottolog_family_name: Nuclear Torricelli
 glottolog_classification: "Nuclear Torricelli > Kombio-Arapesh-Urat > Arapesh > Mufian-Bukiyip-Abu > Mufian"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mufian_language"
+translations:
+  - translation_iso: jpn
+    name: 南部アラペシュ語
+  - translation_iso: zho
+    name: 姆菲亚语
+    auto: true
 rolv_dialects:
   - rolv_code: 375
     language_tag: aoj-x-HIS00375

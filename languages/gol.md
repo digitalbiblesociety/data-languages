@@ -1,8 +1,6 @@
 ---
 iso: gol
 name: Gola
-name_zh: 戈拉语
-name_zh_auto: true
 autonym: "Gola, ꖑꕞ"
 alt_names: [Gula]
 population: 190000
@@ -16,6 +14,12 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Gola"
 wikipedia_url: "https://en.wikipedia.org/wiki/Gola_language"
+translations:
+  - translation_iso: jpn
+    name: ゴラ語
+  - translation_iso: zho
+    name: 戈拉语
+    auto: true
 rolv_dialects:
   - rolv_code: 6152
     language_tag: gol-x-HIS06152

@@ -1,8 +1,6 @@
 ---
 iso: gai
 name: Borei
-name_zh: 博雷语
-name_zh_auto: true
 autonym: Gamei
 alt_names: [Gamai, Gamay, Mbore, Mborei]
 population: 2090
@@ -16,6 +14,10 @@ glottolog_family_id: ramu1234
 glottolog_family_name: Ramu
 glottolog_classification: "Ramu > Lower Ramu > Ottilien > Borei"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mbore_language"
+translations:
+  - translation_iso: zho
+    name: 博雷语
+    auto: true
 rolv_dialects:
   - rolv_code: 622
     language_tag: gai-x-HIS00622

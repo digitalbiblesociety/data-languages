@@ -1,8 +1,6 @@
 ---
 iso: blp
 name: Blablanga
-name_zh: 布拉布兰加语
-name_zh_auto: true
 autonym: Gema
 alt_names: [Goi]
 population: 1770
@@ -16,5 +14,9 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > Meso Melanesian linkage > New Ireland-Northwest Solomonic linkage > St George linkage > Northwest Solomonic > Santa Isabel > Central Santa Isabel > Zazao-Blanga > Blablanga"
 wikipedia_url: "https://en.wikipedia.org/wiki/Blablanga_language"
+translations:
+  - translation_iso: zho
+    name: 布拉布兰加语
+    auto: true
 ---
 Blablanga is an Oceanic language spoken in the Solomon Islands. Its speakers live on Santa Isabel Island.

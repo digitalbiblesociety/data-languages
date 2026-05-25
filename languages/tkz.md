@@ -1,7 +1,6 @@
 ---
 iso: tkz
 name: Takua
-name_zh: 谢古语
 autonym: Langya
 alt_names: [Duan, Kotua, Quang Tin Katu]
 population: 12800
@@ -15,5 +14,8 @@ glottolog_family_id: aust1305
 glottolog_family_name: Austroasiatic
 glottolog_classification: "Austroasiatic > Bahnaric > North Bahnaric > Takua"
 wikipedia_url: "https://en.wikipedia.org/wiki/Takua_language"
+translations:
+  - translation_iso: zho
+    name: 谢古语
 ---
 Takua is an Austroasiatic language of Vietnam spoken by the Takua people who live in the mountainous regions of Quảng Nam and Quảng Ngãi provinces.

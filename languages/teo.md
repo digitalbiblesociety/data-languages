@@ -1,7 +1,6 @@
 ---
 iso: teo
 name: Teso
-name_zh: 特索语
 autonym: Ateso
 alt_names: [Bakedi, Bakidi, Elgumi, Etossio, Ikumama, Lugha ya Kiteso, Língua ateso, Tesoeg, Wamia]
 population: 2778000
@@ -16,6 +15,17 @@ glottolog_family_id: nilo1247
 glottolog_family_name: Nilotic
 glottolog_classification: "Nilotic > Eastern Nilotic > Teso-Lotuxo-Maa > Teso-Turkana > Teso"
 wikipedia_url: "https://en.wikipedia.org/wiki/Teso_language"
+translations:
+  - translation_iso: ara
+    name: تيسو
+  - translation_iso: hin
+    name: टेसो
+  - translation_iso: jpn
+    name: テソ語
+  - translation_iso: kor
+    name: 테조어
+  - translation_iso: zho
+    name: 特索语
 rolv_dialects:
   - rolv_code: 27929
     language_tag: teo-x-HIS27929

@@ -1,7 +1,6 @@
 ---
 iso: trd
 name: Turi
-name_zh: 图里语
 autonym: तुरी
 population: 2000
 country_id: IN
@@ -14,5 +13,10 @@ glottolog_family_id: aust1305
 glottolog_family_name: Austroasiatic
 glottolog_classification: "Austroasiatic > Mundaic > North Munda > Kherwarian > Mundaric > Turi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Turi_language"
+translations:
+  - translation_iso: hin
+    name: तुरी भाषा
+  - translation_iso: zho
+    name: 图里语
 ---
 Turi is an endangered Austroasiatic language of India that belongs to the Kherwarian Munda group. Grierson (1906) described that Turi is similar to both Mundari and Santali. It is spoken by only half a percent of ethnic Turi, the rest having shifted to Sadri in Jharkhand, Mundari in West Bengal, and Odia in Odisha. The Turi are classified as a Scheduled Caste in Jharkhand.

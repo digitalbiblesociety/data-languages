@@ -1,8 +1,6 @@
 ---
 iso: aac
 name: Ari
-name_zh: 阿里语
-name_zh_auto: true
 autonym: null
 alt_names: [Ari jezik, Lenga Ari]
 population: 50
@@ -16,5 +14,11 @@ glottolog_family_id: suki1244
 glottolog_family_name: Suki-Gogodala
 glottolog_classification: "Suki-Gogodala > Gogodalic > Ari-Waruna > Ari"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ari_language_(New_Guinea)"
+translations:
+  - translation_iso: kor
+    name: 아리어
+  - translation_iso: zho
+    name: 阿里语
+    auto: true
 ---
 The Ari language is a Papuan language of the Trans–New Guinea family. According to the 2000 census, there were only 50 Ari speakers, living in the two villages of Ari and Serea in Gogodala Rural LLG.

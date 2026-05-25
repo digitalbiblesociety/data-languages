@@ -1,8 +1,6 @@
 ---
 iso: mzi
 name: Ixcatlán Mazatec
-name_zh: 伊克斯卡特兰玛萨特克语
-name_zh_auto: true
 autonym: (San Pedro Ixcatlán)
 alt_names: [Ayautla Soyaltepec Masateko, Ixcatlan Mazatec, Masateko, Mazatec, "Mazatec, Ixcatlán", Mazateco, Mazateco de Ayautla, Mazateco de Ixcatlán, Mazateco de San Pedro Ixcatlán, Mazateco de Soyaltepec, "Mazatèque d'Ayautla", "Mazatèque d'Ixcatlán", Mazatèque de Soyaltepec]
 population: 8590
@@ -16,5 +14,9 @@ glottolog_family_id: otom1299
 glottolog_family_name: Otomanguean
 glottolog_classification: "Otomanguean > Eastern Otomanguean > Popoloca-Zapotecan > Popolocan-Mazatecan > Mazatecan > Valley Mazatec > Ayautlic > Northern Baja Mazatec > Ixcatlán Mazatec"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ixcatl%C3%A1n_Mazatec"
+translations:
+  - translation_iso: zho
+    name: 伊克斯卡特兰玛萨特克语
+    auto: true
 ---
 Ixcatlán Mazatec is a Mazatecan language spoken in the Mexican state of Oaxaca, notably in the towns of Chichicazapa, Nuevo Ixcatlán, and San Pedro Ixcatlán. Egland (1978) found 76% intelligibility with Huautla, the prestige variety of Mazatec.

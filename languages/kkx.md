@@ -1,8 +1,6 @@
 ---
 iso: kkx
 name: Kohin
-name_zh: 科欣语
-name_zh_auto: true
 autonym: Seruyan
 alt_names: [Bahasa Seruyan]
 population: 8000
@@ -16,5 +14,9 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Basap-Greater Barito > Greater Barito linkage > North West Greater Barito > Kohin"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kohin_language"
+translations:
+  - translation_iso: zho
+    name: 科欣语
+    auto: true
 ---
 Kohin, also known as (Bahasa) Seruyan, is a Barito language of the central Kalimantan, Indonesia.

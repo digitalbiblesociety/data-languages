@@ -1,7 +1,6 @@
 ---
 iso: kmh
 name: Kalam
-name_zh: Kalam 語
 autonym: Kalam (Minimib)
 alt_names: [Aforo, Karam]
 population: 20000
@@ -15,6 +14,11 @@ glottolog_family_id: nucl1709
 glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Madang > Kalamic-South Adelbert > Kalam-Kobon > Etp-Ti Kalam > Kalam"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kalam_language"
+translations:
+  - translation_iso: jpn
+    name: カラム語
+  - translation_iso: zho
+    name: Kalam 語
 rolv_dialects:
   - rolv_code: 26260
     language_tag: kmh-x-HIS26260

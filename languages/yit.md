@@ -1,7 +1,6 @@
 ---
 iso: yit
 name: Eastern Lalu
-name_zh: 东腊鲁语
 autonym: Western Yi
 alt_names: ["Lalu, Eastern"]
 population: 38000
@@ -14,4 +13,7 @@ glottocode: east2696
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Burmo-Qiangic > Lolo-Burmese > Loloish > Ni-Li-Kazhouish > Lisoid > Nuclear Lisoid > Lisu-Laluba-Lavu > Laluba-Lavu > Lalo > Greater Lalo > Core Lalo > Unclassified Core Lalu > Eastern Lalu"
+translations:
+  - translation_iso: zho
+    name: 东腊鲁语
 ---

@@ -1,8 +1,6 @@
 ---
 iso: kjk
 name: Highland Konjo
-name_zh: 高地孔若语
-name_zh_auto: true
 autonym: Konjo Pegunungan
 alt_names: ["Konjo, Highland", Konyo]
 population: 68500
@@ -16,5 +14,9 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Greater South Sulawesi > South Sulawesi > Makassaric > Konjo > Highland Konjo"
 wikipedia_url: "https://en.wikipedia.org/wiki/Highland_Konjo_language"
+translations:
+  - translation_iso: zho
+    name: 高地孔若语
+    auto: true
 ---
 Highland Konjo is an Austronesian language of Sulawesi, Indonesia, which belongs to the Makassaric branch of the South Sulawesi subgroup. It is spoken in the interior parts of Bone, Bulukumba, Gowa, and Sinjai regencies of South Sulawesi province, in the area to the northwest of Mount Lompobatang. It is closely related to, but distinct from Coastal Konjo, which also belongs to the Makassaric languages.

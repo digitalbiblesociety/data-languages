@@ -1,7 +1,6 @@
 ---
 iso: bzd
 name: Bribri
-name_zh: 布里布里语
 autonym: Talamanca
 alt_names: [Bribri (Costa Rica), Bribri (Katsi), Bribri (Panama), Duit, Talamanca (Panamá), Viceita, Viceyta, Viceíta]
 population: 12800
@@ -15,6 +14,15 @@ glottolog_family_id: chib1249
 glottolog_family_name: Chibchan
 glottolog_classification: "Chibchan > Core Chibchan > Isthmic Chibchan > Western Isthmic Chibchan > Viceitic > Bribri"
 wikipedia_url: "https://en.wikipedia.org/wiki/Bribri_language"
+translations:
+  - translation_iso: ara
+    name: لغة بريبري
+  - translation_iso: jpn
+    name: ブリブリ語
+  - translation_iso: kor
+    name: 브리브리어
+  - translation_iso: zho
+    name: 布里布里语
 rolv_dialects:
   - rolv_code: 8369
     language_tag: bzd-x-HIS08369

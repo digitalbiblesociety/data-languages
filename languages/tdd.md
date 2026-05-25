@@ -1,7 +1,6 @@
 ---
 iso: tdd
 name: Tai Nüa
-name_zh: 傣那语
 autonym: ᥖᥭᥰᥖᥬᥳᥑᥨᥒᥰ
 alt_names: [Chinese Shan, Chinese Tai, Dai Kong, Dai Na, Dai Nuea, Dehong, Dehong Dai, Paiyi, Tai Dehong, Tai Le, Tai Man, Tai Mao, Tai Neua, Tai Nua, Tai Nue, Tai Nuea, Tai Nü, Tai-Kong, Tai-Le, Tainuá, Tay Nüa, Tayok, Thai Chè, Thai Khè, Twelve Districts Shan, Yunannese Shan, "Yunnan Shant'ou", ภาษาไทไต้คง, 德宏傣语]
 population: 726100
@@ -16,6 +15,13 @@ glottolog_family_id: taik1256
 glottolog_family_name: Tai-Kadai
 glottolog_classification: "Tai-Kadai > Kam-Tai > Daic-Beic > Daic > Central-Southwestern Tai > Wenma-Southwestern Tai > Sapa-Southwestern Tai > Southwestern Tai > Southwestern Tai P > Shanic > Sukaphic > Northern Shanic > Tai Nüa"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tai_Nuea_language"
+translations:
+  - translation_iso: jpn
+    name: タイ・ヌア語
+  - translation_iso: kor
+    name: 따이느아어
+  - translation_iso: zho
+    name: 傣那语
 rolv_dialects:
   - rolv_code: 508
     language_tag: tdd-x-HIS00508

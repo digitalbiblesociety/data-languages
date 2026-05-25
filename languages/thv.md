@@ -1,8 +1,6 @@
 ---
 iso: thv
 name: Tahaggart Tamahaq
-name_zh: 塔哈加特塔玛哈克语
-name_zh_auto: true
 autonym: Tamachek
 alt_names: [Berber (Ghat), Djanet, Ganet, Ghadames, Ghat, Tahaggart, "Tamachek'", Tamahakeg, Tamahaq, Tamahaq (Algérie), Tamahaq (Jamahiriya arabe libyenne), Tamahaq (Libia), Tamahaq (Tahaggart), Tamahaq language, "Tamahaq, Tahaggart", Tamashekin, Tamasheq, Tamasheq (Tahaggart), Tomachek, Touareg, Tourage, Toureg, Tuareg, Tuareg (Ahaggar), Tuareg (Air), Tuareg (Ghat), Tuareg (Tahaggart Tamahaq), Tuareg (Tahaggart)]
 population: 20000
@@ -16,6 +14,14 @@ glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Berber > Tuareg > Tahaggart Tamahaq"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tamahaq_language"
+translations:
+  - translation_iso: ara
+    name: تماهق
+  - translation_iso: jpn
+    name: タハガルト・タマハック語
+  - translation_iso: zho
+    name: 塔哈加特塔玛哈克语
+    auto: true
 rolv_dialects:
   - rolv_code: 17129
     language_tag: thv-x-HIS17129

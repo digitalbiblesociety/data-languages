@@ -1,8 +1,6 @@
 ---
 iso: kcf
 name: Ukaan
-name_zh: 乌卡安语
-name_zh_auto: true
 autonym: "AIKA (Ayanran-Ishe-Kakumo-Auga)"
 alt_names: [Anyaran, Auga, Ikan, Kakumo]
 population: 18000
@@ -16,6 +14,12 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Ukaan"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ukaan_language"
+translations:
+  - translation_iso: jpn
+    name: ウカーン語
+  - translation_iso: zho
+    name: 乌卡安语
+    auto: true
 rolv_dialects:
   - rolv_code: 17907
     language_tag: kcf-x-HIS17907

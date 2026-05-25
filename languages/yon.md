@@ -1,8 +1,6 @@
 ---
 iso: yon
 name: Yongkom
-name_zh: 永科姆语
-name_zh_auto: true
 autonym: Yongkom
 alt_names: [Iongom, Kate, "Kati (in West Papua, Indonesia)", "Northern Kati, Southern Kati", Yonggom, Yongom]
 population: 6000
@@ -16,6 +14,10 @@ glottolog_family_id: nucl1709
 glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Asmat-Awyu-Ok > Awyu-Ok > Ok-Oksapmin > Ok > Lowland Ok > Division A Lowland Ok > Yonggom"
 wikipedia_url: "https://en.wikipedia.org/wiki/Yonggom_language"
+translations:
+  - translation_iso: zho
+    name: 永科姆语
+    auto: true
 rolv_dialects:
   - rolv_code: 533
     language_tag: yon-x-HIS00533

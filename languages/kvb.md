@@ -1,8 +1,6 @@
 ---
 iso: kvb
 name: Kubu
-name_zh: 库布语
-name_zh_auto: true
 autonym: Rimba
 alt_names: [Indonesia]
 population: 10000
@@ -16,6 +14,10 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Malayo-Chamic > Malayic > Nuclear Malayic > Central Sumatran Malay > Kubu"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kubu_language"
+translations:
+  - translation_iso: zho
+    name: 库布语
+    auto: true
 rolv_dialects:
   - rolv_code: 1138
     language_tag: kvb-x-HIS01138

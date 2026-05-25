@@ -1,7 +1,6 @@
 ---
 iso: zne
 name: Zande
-name_zh: 贊德語
 autonym: Pazande
 alt_names: [Asande, Azande, Badjande, Bazenda, Língua zande, Sande, Zande (individual language), Zandi]
 population: 1792000
@@ -15,6 +14,13 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Cameroun-Ubangian > Ubangi > Zandic > Zande-Nzakara > Zande"
 wikipedia_url: "https://en.wikipedia.org/wiki/Zande_language"
+translations:
+  - translation_iso: jpn
+    name: ザンデ語
+  - translation_iso: kor
+    name: 잔데어
+  - translation_iso: zho
+    name: 贊德語
 rolv_dialects:
   - rolv_code: 3885
     language_tag: zne-x-HIS03885

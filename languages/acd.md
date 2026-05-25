@@ -1,8 +1,6 @@
 ---
 iso: acd
 name: Gikyode
-name_zh: 吉基约德语
-name_zh_auto: true
 autonym: Gikyode
 alt_names: [Chode, Guang, Kyode]
 population: 10400
@@ -16,5 +14,11 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Kwa Volta-Congo > Nyo > Potou-Tano > Tano > Guang > North Guang > Oti North Guang > Mountain Oti North Guang > Gikyode-Ginyanga > Gikyode-Foodo > Gikyode"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kyode_language"
+translations:
+  - translation_iso: jpn
+    name: ギチョーデ語
+  - translation_iso: zho
+    name: 吉基约德语
+    auto: true
 ---
 Kyode is a Guang language of Ghana.

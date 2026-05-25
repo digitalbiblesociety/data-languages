@@ -1,8 +1,6 @@
 ---
 iso: ikr
 name: Ikaranggal
-name_zh: 伊卡兰加尔语
-name_zh_auto: true
 autonym: Gogo Mini
 alt_names: [Aghu Tharnggalu, Ikarranggali]
 population: null
@@ -16,5 +14,9 @@ glottolog_family_id: pama1250
 glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > Paman > Alaya-Athima > Central Alaya-Athima > Ikaranggal"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ikarranggal_language"
+translations:
+  - translation_iso: zho
+    name: 伊卡兰加尔语
+    auto: true
 ---
 The Ikarranggal language, or Ogh Ikarranggal, is an extinct Paman language of the Cape York Peninsula in Queensland, Australia. Like several languages in the area, it is often referred to as Gogo Mini (Kuku-Mini) 'good speech'.

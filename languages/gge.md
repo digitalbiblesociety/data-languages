@@ -1,8 +1,6 @@
 ---
 iso: gge
 name: "Gurr-goni"
-name_zh: 古尔-戈尼语
-name_zh_auto: true
 autonym: Gungurugoni
 alt_names: [Gorogone, Gudjartabiyi, Gun-Guragone, Gunagoragone, Gungarawoni, Gungoragone, Gungoragoni, "Gungoro:lgo:ngi", Gungorogone, Gungorragonni, Gungorrogone, Gungurulgungi, Guragone, Guragone language, Gurrgoni, Gurrogone, Gurrogoni, Gurugoni, Gutjertabia]
 population: 60
@@ -16,5 +14,9 @@ glottolog_family_id: mani1293
 glottolog_family_name: Maningrida
 glottolog_classification: "Maningrida > Bureran > Guragone"
 wikipedia_url: "https://en.wikipedia.org/wiki/Gurr-Goni_language"
+translations:
+  - translation_iso: zho
+    name: 古尔-戈尼语
+    auto: true
 ---
 Gurr-goni, also spelled Guragone, Gorogone, Gun-Guragone, Gunagoragone, Gungorogone, Gurrogone, Gutjertabia, is an Australian Aboriginal language spoken in Arnhem Land. There were about 60 speakers in 2011, all trilingual in Burarra or Kuninjku.

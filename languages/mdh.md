@@ -1,7 +1,6 @@
 ---
 iso: mdh
 name: Maguindanaon
-name_zh: 马京达瑙语
 autonym: Magindanaon
 alt_names: [Magindanao, Magindanaw, Maguindanao, Maguindanao language, Maguindanao-ngî, Minagindanaw, ภาษามากวินดาเนา]
 population: 1000100
@@ -16,6 +15,13 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Greater Central Philippine > Danaw > Maguindanao"
 wikipedia_url: "https://en.wikipedia.org/wiki/Maguindanao_language"
+translations:
+  - translation_iso: jpn
+    name: マギンダナオ語
+  - translation_iso: kor
+    name: 마긴다나오어
+  - translation_iso: zho
+    name: 马京达瑙语
 rolv_dialects:
   - rolv_code: 13276
     language_tag: mdh-x-HIS13276

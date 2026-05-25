@@ -1,7 +1,6 @@
 ---
 iso: yln
 name: Langnian Buyang
-name_zh: 郎念布央语
 autonym: "Boux-yaeŋz"
 alt_names: [Buozaang, Buyang, Buyang Zhuang, "Buyang, Langnian", Eastern Buyang, Funing Buyang, Langjia, Langjia Buyang, Langnian, 郎念布央]
 population: 300
@@ -14,4 +13,7 @@ glottocode: lang1316
 glottolog_family_id: taik1256
 glottolog_family_name: Tai-Kadai
 glottolog_classification: "Tai-Kadai > Kadaic > Eastern Kra > Buyang > Northern Buyang > Langnian Buyang"
+translations:
+  - translation_iso: zho
+    name: 郎念布央语
 ---

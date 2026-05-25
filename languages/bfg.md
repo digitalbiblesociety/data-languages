@@ -1,8 +1,6 @@
 ---
 iso: bfg
 name: Busang Kayan
-name_zh: 布桑卡扬语
-name_zh_auto: true
 autonym: Kajan
 alt_names: [Busang, Kajang, "Kayan, Busang"]
 population: 3000
@@ -15,6 +13,10 @@ glottocode: busa1255
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > North Borneo Malayo-Polynesian > Kayan-Murik-Modang > Kayan-Murik > Kayanic > Rejang-Makaham Kayan > Busang Kayan"
+translations:
+  - translation_iso: zho
+    name: 布桑卡扬语
+    auto: true
 rolv_dialects:
   - rolv_code: 4686
     language_tag: bfg-x-HIS04686

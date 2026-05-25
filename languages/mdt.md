@@ -1,8 +1,6 @@
 ---
 iso: mdt
 name: Mbere
-name_zh: 姆贝雷语
-name_zh_auto: true
 autonym: " Limbede"
 alt_names: [Ambede, Mbede, Mbédé, Mbété]
 population: 151500
@@ -17,6 +15,10 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > Central-Western Bantu > West-Coastal Bantu > Nzadic > Lweric > Dingic > Loange-Atlantic > Kwilu-Ngounie > Kasai-Ngounie > Moyen Kasai-Ngounie > Interior Kasai-Ngounie > West Kasai-Ngounie > Northwest Kasai-Ngounie > Mbere (B.60) > Tsitsekeic > Lekaningic > Mbere-Mbamba"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mbere_language"
+translations:
+  - translation_iso: zho
+    name: 姆贝雷语
+    auto: true
 rolv_dialects:
   - rolv_code: 2858
     language_tag: mdt-x-HIS02858

@@ -1,8 +1,6 @@
 ---
 iso: klz
 name: Kabola
-name_zh: 卡博拉语
-name_zh_auto: true
 autonym: null
 alt_names: [Indonesia]
 population: 3900
@@ -15,6 +13,10 @@ glottocode: kabo1247
 glottolog_family_id: timo1261
 glottolog_family_name: Timor-Alor-Pantar
 glottolog_classification: "Timor-Alor-Pantar > Alor-Pantar > Nuclear Alor-Pantar > West Alor-Straits-Pantar > West Alor > Kabola"
+translations:
+  - translation_iso: zho
+    name: 卡博拉语
+    auto: true
 rolv_dialects:
   - rolv_code: 11250
     language_tag: klz-x-HIS11250

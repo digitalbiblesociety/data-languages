@@ -1,7 +1,6 @@
 ---
 iso: ykl
 name: Khlula
-name_zh: 科鲁拉语
 autonym: Alapha
 population: 21000
 country_id: CN
@@ -14,5 +13,8 @@ glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Burmo-Qiangic > Lolo-Burmese > Loloish > Ni-Li-Kazhouish > Southeastern Ngwi > Highland Phula > Phowa > Hlepho-Phukha > Khlula-Zokhuo > Khlula"
 wikipedia_url: "https://en.wikipedia.org/wiki/Khlula_language"
+translations:
+  - translation_iso: zho
+    name: 科鲁拉语
 ---
 Khlula is a Loloish language. It is spoken by the Phula people of China.

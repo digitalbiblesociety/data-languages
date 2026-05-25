@@ -1,8 +1,6 @@
 ---
 iso: dtt
 name: Toro Tegu Dogon
-name_zh: 托罗特古多贡语
-name_zh_auto: true
 autonym: Tɔrɔ tegu
 alt_names: [Dogon, "Dogon, Toro Tegu", Tandam]
 population: 2900
@@ -16,5 +14,9 @@ glottolog_family_id: dogo1299
 glottolog_family_name: Dogon
 glottolog_classification: "Dogon > Plains Dogon > Toro Tegu Dogon"
 wikipedia_url: "https://en.wikipedia.org/wiki/Toro-tegu_Dogon"
+translations:
+  - translation_iso: zho
+    name: 托罗特古多贡语
+    auto: true
 ---
 The Toro language, Tɔrɔ tegu 'Mountain speech', is a Dogon language spoken in Mali. It is closest to the prestige variety of Dogon, Jamsay tegu, though speakers deny they are related and understand little of it. Hochstetler report difficulties in comprehension between Tɔrɔ tegu and one of the western Plains Dogon languages, Tomo kan.

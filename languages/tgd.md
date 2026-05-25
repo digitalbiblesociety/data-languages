@@ -1,8 +1,6 @@
 ---
 iso: tgd
 name: Ciwogai
-name_zh: 西沃盖语
-name_zh_auto: true
 autonym: Tsagu
 alt_names: [Sago]
 population: 2000
@@ -16,5 +14,9 @@ glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > West Chadic > West Chadic B > West Chadic B.2 > Nuclear West Chadic B.2 > Ciwogai"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ciwogai_language"
+translations:
+  - translation_iso: zho
+    name: 西沃盖语
+    auto: true
 ---
 Ciwogai (Tsagu) is an Afro-Asiatic language spoken in Bauchi State, Nigeria.

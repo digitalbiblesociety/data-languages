@@ -1,8 +1,6 @@
 ---
 iso: ahr
 name: Ahirani
-name_zh: 阿希拉尼语
-name_zh_auto: true
 autonym: Ahirani
 population: 1640000
 country_id: IN
@@ -11,6 +9,12 @@ status_id: 6a
 latitude: 21.552
 longitude: 73.685
 wikipedia_url: "https://en.wikipedia.org/wiki/Ahirani_language"
+translations:
+  - translation_iso: jpn
+    name: アヒラーニー語
+  - translation_iso: zho
+    name: 阿希拉尼语
+    auto: true
 rolv_dialects:
   - rolv_code: 3863
     language_tag: ahr-x-HIS03863

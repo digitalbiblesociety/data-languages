@@ -1,8 +1,6 @@
 ---
 iso: pin
 name: Piame
-name_zh: 皮亚梅语
-name_zh_auto: true
 autonym: Biami
 population: 100
 country_id: PG
@@ -15,5 +13,9 @@ glottolog_family_id: sepi1257
 glottolog_family_name: Sepik
 glottolog_classification: "Sepik > Sepik Hill > Western Sepik Hill > Hewa-April River > Piame"
 wikipedia_url: "https://en.wikipedia.org/wiki/Piame_language"
+translations:
+  - translation_iso: zho
+    name: 皮亚梅语
+    auto: true
 ---
 Piame, or Biami, is a Sepik language, which in 1988 was spoken in the village of Piame in northwestern Papua New Guinea.

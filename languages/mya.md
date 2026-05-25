@@ -1,7 +1,6 @@
 ---
 iso: mya
 name: Burmese
-name_zh: 缅甸语
 autonym: Myanmar
 alt_names: [(Colloquial) Burmese, Bahasa Burma, Bahasa Myanmar, Bama, Bamachaka, Barmština, Birma keel, Birma lingvo, Birmaans, Birman, Birmanische Sprache, Birmanisk, Birmanu simi, Birmà, Burmaca, Burmai nyelv, Burman kieli, Burmeg, Burmese (Colloquial), Burmesisk, Burmesisk språk, Burmesiska, Búrmíska, Bāmā(-čaka), Idioma birmano, Język birmański, Lingua Birmanica, Lingua birmana, Língua birmanesa, Mjanmų kalba, Myen, Tiếng Myanma, Бирмански език, Бирманский язык, Бірманська мова, بورمى, بىرما تىلى, زبان برمه‌ای, बर्मी भाषा, बर्मेली भाषा, বর্মী ঠার, বর্মী ভাষা, ภาษาพม่า, འབར་མའི་སྐད།, မြန်မာဘာသာစကား, ბირმული ენა, ビルマ語, 缅甸语, 버마어]
 population: 32900000
@@ -16,6 +15,17 @@ glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Burmo-Qiangic > Lolo-Burmese > Burmish > Southern Burmish > Mranmaic > Nuclear Mranmaic > Burmese"
 wikipedia_url: "https://en.wikipedia.org/wiki/Burmese_language"
+translations:
+  - translation_iso: ara
+    name: البورمية
+  - translation_iso: hin
+    name: बर्मी भाषा
+  - translation_iso: jpn
+    name: ビルマ語
+  - translation_iso: kor
+    name: 버마어
+  - translation_iso: zho
+    name: 缅甸语
 rolv_dialects:
   - rolv_code: 8537
     language_tag: my-x-HIS08537

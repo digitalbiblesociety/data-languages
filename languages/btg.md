@@ -1,8 +1,6 @@
 ---
 iso: btg
 name: Gagnoa Bété
-name_zh: 甘农贝特语
-name_zh_auto: true
 autonym: Beteic
 alt_names: [Bete, Bété, "Bété, Gagnoa", Eastern Bété, Gagnoa Bete, Gagnoua-Bété, Shyen]
 population: 150000
@@ -15,6 +13,12 @@ glottocode: gagn1235
 glottolog_family_id: krua1234
 glottolog_family_name: Kru
 glottolog_classification: "Kru > Eastern Kru > Beteic > Eastern Bete > Gagnoa Bété"
+translations:
+  - translation_iso: jpn
+    name: ベテ語
+  - translation_iso: zho
+    name: 甘农贝特语
+    auto: true
 rolv_dialects:
   - rolv_code: 8016
     language_tag: btg-x-HIS08016

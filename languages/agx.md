@@ -1,7 +1,6 @@
 ---
 iso: agx
 name: Aghul
-name_zh: 阿古尔语
 autonym: агъул чӀал
 alt_names: [Aghulische Sprache, Aghulshuy, Agul, Agula lingvo, Agulin kieli, Aguly, "Ağul ç'al", Język agulski, Lingua agul, Língua agul, Агулски јазик, Агульська мова, агульский язык]
 population: 29300
@@ -15,6 +14,15 @@ glottolog_family_id: nakh1245
 glottolog_family_name: Nakh-Daghestanian
 glottolog_classification: "Nakh-Daghestanian > Daghestanian > Lezgic > Samur > Eastern Samur > Tabasaran-Aghul-Lezgi > Aghul-Lezgi > Aghulic > Aghul"
 wikipedia_url: "https://en.wikipedia.org/wiki/Aghul_language"
+translations:
+  - translation_iso: ara
+    name: الأغولية
+  - translation_iso: jpn
+    name: アグール語
+  - translation_iso: kor
+    name: 아굴어
+  - translation_iso: zho
+    name: 阿古尔语
 rolv_dialects:
   - rolv_code: 6732
     language_tag: agx-x-HIS06732

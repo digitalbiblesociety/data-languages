@@ -1,8 +1,6 @@
 ---
 iso: mvn
 name: Minaveha
-name_zh: 米纳维哈语
-name_zh_auto: true
 autonym: Kukuya
 alt_names: [Minavega]
 population: 2300
@@ -16,5 +14,9 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > Papuan Tip linkage > Nuclear Papuan Tip linkage > North Papuan Mainland-D'Entrecasteaux linkage > Are-Taupota linkage > Taupota linkage > Minaveha"
 wikipedia_url: "https://en.wikipedia.org/wiki/Minaveha_language"
+translations:
+  - translation_iso: zho
+    name: 米纳维哈语
+    auto: true
 ---
 Minaveha, or Kukuya, is an Oceanic language of Fergusson Island in Milne Bay Province, Papua New Guinea.

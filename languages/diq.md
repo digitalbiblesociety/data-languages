@@ -1,8 +1,6 @@
 ---
 iso: diq
 name: Dimli
-name_zh: 迪姆利语
-name_zh_auto: true
 autonym: Dimili
 alt_names: [Dimli (individual language), Dimlī, Southern Zaza, Zaza, Zazaki]
 population: 1280000
@@ -16,6 +14,12 @@ glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Iranian-Nuristani > Iranian > Central Iranian PBS > Central Iranian PB > Northwestern Iranian > Adharic > Zaza > Dimli"
 wikipedia_url: "https://en.wikipedia.org/wiki/Southern_Zaza"
+translations:
+  - translation_iso: jpn
+    name: ディムリ語
+  - translation_iso: zho
+    name: 迪姆利语
+    auto: true
 rolv_dialects:
   - rolv_code: 9273
     language_tag: diq-x-HIS09273

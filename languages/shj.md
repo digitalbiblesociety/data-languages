@@ -1,8 +1,6 @@
 ---
 iso: shj
 name: Shatt
-name_zh: 沙特语
-name_zh_auto: true
 autonym: Canning
 alt_names: [Caning]
 population: 30000
@@ -16,6 +14,10 @@ glottolog_family_id: daju1249
 glottolog_family_name: Dajuic
 glottolog_classification: "Dajuic > Eastern Dajuic > Shatt"
 wikipedia_url: "https://en.wikipedia.org/wiki/Shatt_language"
+translations:
+  - translation_iso: zho
+    name: 沙特语
+    auto: true
 rolv_dialects:
   - rolv_code: 1959
     language_tag: shj-x-HIS01959

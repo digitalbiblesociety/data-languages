@@ -1,7 +1,6 @@
 ---
 iso: bns
 name: Bundeli
-name_zh: 本德利语
 autonym: बुन्देली
 alt_names: [Bondili, Boundeleg, Bundel Khandi, Bundela lingvo, Bundelkhandi, புந்தேலி மொழி]
 population: 5630000
@@ -15,6 +14,13 @@ glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Indo-Aryan > Middle-Modern Indo-Aryan > Continental Indo-Aryan > Midlands Indo-Aryan > Shaurasenic > Indo-Aryan Central zone > Western Hindi > Bundeli-Bharia > Bundeli"
 wikipedia_url: "https://en.wikipedia.org/wiki/Bundeli_language"
+translations:
+  - translation_iso: hin
+    name: बुंदेली भाषा
+  - translation_iso: jpn
+    name: ブンデーリー語
+  - translation_iso: zho
+    name: 本德利语
 rolv_dialects:
   - rolv_code: 8475
     language_tag: bns-x-HIS08475

@@ -1,8 +1,6 @@
 ---
 iso: bya
 name: Batak
-name_zh: 巴塔克语
-name_zh_auto: true
 autonym: Palawan Batak
 alt_names: [Babuyan, Bataco, Battak, Tinitianes]
 population: 2041
@@ -16,5 +14,9 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Greater Central Philippine > Palawanic-Kalamian > Palawanic > Northern Palawanic > Aborlanic > Batak"
 wikipedia_url: "https://en.wikipedia.org/wiki/Batak_language_(Philippines)"
+translations:
+  - translation_iso: zho
+    name: 巴塔克语
+    auto: true
 ---
 Batak is an Austronesian language spoken by the Batak people on Palawan Island in the Philippines. It is sometimes disambiguated from the Batak languages as Palawan Batak.

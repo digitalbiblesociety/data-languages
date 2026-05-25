@@ -1,8 +1,6 @@
 ---
 iso: ywa
 name: Kalou
-name_zh: 卡劳语
-name_zh_auto: true
 autonym: Yawa
 population: 1370
 country_id: PG
@@ -15,6 +13,10 @@ glottolog_family_id: sepi1257
 glottolog_family_name: Sepik
 glottolog_classification: "Sepik > Sepik Tama > Mayo-Pasi > Yimin-Bel > Kalou"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kalou_language"
+translations:
+  - translation_iso: zho
+    name: 卡劳语
+    auto: true
 rolv_dialects:
   - rolv_code: 3879
     language_tag: ywa-x-HIS03879

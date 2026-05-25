@@ -1,8 +1,6 @@
 ---
 iso: mlh
 name: Mape
-name_zh: 玛佩语
-name_zh_auto: true
 autonym: null
 population: 5120
 country_id: PG
@@ -15,6 +13,10 @@ glottolog_family_id: nucl1709
 glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Finisterre-Huon > Huon > Eastern Huon > Trans Vitiaz > Huon Tip > Kate-Mape > Mape"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mape_language"
+translations:
+  - translation_iso: zho
+    name: 玛佩语
+    auto: true
 rolv_dialects:
   - rolv_code: 13689
     language_tag: mlh-x-HIS13689

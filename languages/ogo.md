@@ -1,8 +1,6 @@
 ---
 iso: ogo
 name: Khana
-name_zh: 哈纳语
-name_zh_auto: true
 autonym: Ogoni
 alt_names: [Kana]
 population: 413000
@@ -16,6 +14,10 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Delta Cross > Ogonoid > East Ogonoid > Tai-Kana > Khana"
 wikipedia_url: "https://en.wikipedia.org/wiki/Khana_language"
+translations:
+  - translation_iso: zho
+    name: 哈纳语
+    auto: true
 rolv_dialects:
   - rolv_code: 4768
     language_tag: ogo-x-HIS04768

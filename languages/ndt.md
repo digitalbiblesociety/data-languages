@@ -1,8 +1,6 @@
 ---
 iso: ndt
 name: Ndunga
-name_zh: 恩端加语
-name_zh_auto: true
 autonym: Bondonga
 alt_names: [Modunga, Mondugu, Mondunga]
 population: 2500
@@ -16,5 +14,9 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Cameroun-Ubangian > Ubangi > Ubangi Ka > Mbaic > Ndunga-Mba-Dongo > Ndunga-Mba > Ndunga"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ndunga_language"
+translations:
+  - translation_iso: zho
+    name: 恩端加语
+    auto: true
 ---
 Ndunga is a Ubangian language spoken in 8 villages of Lisala Territory in Mongala Province, DR Congo.

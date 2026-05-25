@@ -1,8 +1,6 @@
 ---
 iso: bzy
 name: Obanliku
-name_zh: 奥班利库语
-name_zh_auto: true
 autonym: Banliku
 alt_names: [Abanliku, Gayi]
 population: 65000
@@ -16,6 +14,10 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Bendic > Nuclear Bendic > Bete-Obanliku > Obanliku"
 wikipedia_url: "https://en.wikipedia.org/wiki/Obanliku_language"
+translations:
+  - translation_iso: zho
+    name: 奥班利库语
+    auto: true
 rolv_dialects:
   - rolv_code: 6323
     language_tag: bzy-x-HIS06323

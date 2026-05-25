@@ -1,8 +1,6 @@
 ---
 iso: kxb
 name: Krobu
-name_zh: 克罗布语
-name_zh_auto: true
 autonym: Krobou
 population: 9920
 country_id: CI
@@ -15,5 +13,9 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Kwa Volta-Congo > Nyo > Potou-Tano > Tano > Krobu"
 wikipedia_url: "https://en.wikipedia.org/wiki/Krobu_language"
+translations:
+  - translation_iso: zho
+    name: 克罗布语
+    auto: true
 ---
 Krobu (Krobou) is a Tano language of Ivory Coast.

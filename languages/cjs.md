@@ -1,7 +1,6 @@
 ---
 iso: cjs
 name: Shor
-name_zh: 索爾語
 autonym: Шор тили
 alt_names: [Aba, Chor, Choreg, Kondoma Tatar, Kuznets Tatar, Minusinsk-Tataren, Mras Tatar, Mras-Su Tatar, Schoren, Schorische Sprache, Shortsy, Sorio, Tm, Tom-Kuznets Tatar, tadar tili, Ŝora lingvo, Şor Türkçesi, Şorca, Šoorin kieli, šor tili, Тадар тили, Шор чĕлхи, Шорски език, Шорски јазик, шорский язык, ショル語, 쇼르어]
 population: 6210
@@ -16,6 +15,15 @@ glottolog_family_id: turk1311
 glottolog_family_name: Turkic
 glottolog_classification: "Turkic > Common Turkic > South Siberian Turkic > Sayan-Yenisei Turkic > Yenisey Turkic > Mrassu Shor-Tutal"
 wikipedia_url: "https://en.wikipedia.org/wiki/Shor_language"
+translations:
+  - translation_iso: ara
+    name: لغة الشور
+  - translation_iso: jpn
+    name: ショル語
+  - translation_iso: kor
+    name: 쇼르어
+  - translation_iso: zho
+    name: 索爾語
 rolv_dialects:
   - rolv_code: 16641
     language_tag: cjs-x-HIS16641

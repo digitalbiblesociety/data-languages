@@ -1,8 +1,6 @@
 ---
 iso: buy
 name: Bullom So
-name_zh: 布罗姆索语
-name_zh_auto: true
 autonym: Bolom
 alt_names: [Bulem, Bullin, Bullom, Bullun, Bulom, Mandenyi, Mandingi, Mani, Mmani, Northern Bullom, Soeg]
 population: 8350
@@ -16,6 +14,10 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Mel > Southern Mel > Bullom > Northern Bullom > Bullom So"
 wikipedia_url: "https://en.wikipedia.org/wiki/Bullom_So_language"
+translations:
+  - translation_iso: zho
+    name: 布罗姆索语
+    auto: true
 rolv_dialects:
   - rolv_code: 8451
     language_tag: buy-x-HIS08451

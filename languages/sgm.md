@@ -1,8 +1,6 @@
 ---
 iso: sgm
 name: Singa
-name_zh: 辛加语
-name_zh_auto: true
 autonym: Chula
 alt_names: [Lusinga]
 population: null
@@ -16,5 +14,11 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > East Bantu > Northeast Savanna Bantu > Great Lakes Bantu > West Nyanza > North Nyanza > Unclassified North Nyanza > Singa"
 wikipedia_url: "https://en.wikipedia.org/wiki/Singa_language"
+translations:
+  - translation_iso: jpn
+    name: シンガ語
+  - translation_iso: zho
+    name: 辛加语
+    auto: true
 ---
 Singa is an extinct Bantu language of Uganda.

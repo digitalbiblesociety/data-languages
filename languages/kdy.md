@@ -1,8 +1,6 @@
 ---
 iso: kdy
 name: Keder
-name_zh: 凯德语
-name_zh_auto: true
 autonym: Keder
 alt_names: [Keijar]
 population: 370
@@ -16,6 +14,10 @@ glottolog_family_id: toro1256
 glottolog_family_name: Tor-Orya
 glottolog_classification: "Tor-Orya > Tor > Coastal Tor > Keder"
 wikipedia_url: "https://en.wikipedia.org/wiki/Keijar_language"
+translations:
+  - translation_iso: zho
+    name: 凯德语
+    auto: true
 rolv_dialects:
   - rolv_code: 1245
     language_tag: kdy-x-HIS01245

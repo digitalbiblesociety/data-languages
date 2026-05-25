@@ -1,8 +1,6 @@
 ---
 iso: nyf
 name: Giryama
-name_zh: 吉里亚玛语
-name_zh_auto: true
 autonym: Agiryama
 alt_names: [Giriama, Kigiriama, Kigiryama, Kinyika, Nika, Nyika]
 population: 1160000
@@ -16,6 +14,12 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > East Bantu > Northeast Savanna Bantu > Northeast Coastal Bantu > Coastal NEC Bantu > Mijikenda-Pokomo-Comorian > Mijikenda > Northern Mijikenda > Giryama"
 wikipedia_url: "https://en.wikipedia.org/wiki/Giryama_dialect"
+translations:
+  - translation_iso: jpn
+    name: ギリアマ語
+  - translation_iso: zho
+    name: 吉里亚玛语
+    auto: true
 rolv_dialects:
   - rolv_code: 931
     language_tag: nyf-x-HIS00931

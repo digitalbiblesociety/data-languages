@@ -1,8 +1,6 @@
 ---
 iso: kdu
 name: Kadaru
-name_zh: 卡达鲁语
-name_zh_auto: true
 autonym: Kodhin
 alt_names: [Kadaro, Kadero, Kaderu, Kodhinniai, Kodoro, Koldagi, Nubian (Hill)]
 population: 7000
@@ -16,6 +14,12 @@ glottolog_family_id: nubi1251
 glottolog_family_name: Nubian
 glottolog_classification: "Nubian > Central Nubian > Kordofan Nubian > Eastern Kordofan Nubian > Kadaru"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kadaru_language"
+translations:
+  - translation_iso: ara
+    name: لغة كادارو
+  - translation_iso: zho
+    name: 卡达鲁语
+    auto: true
 rolv_dialects:
   - rolv_code: 25125
     language_tag: kdu-x-HIS25125

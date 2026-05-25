@@ -1,7 +1,6 @@
 ---
 iso: sna
 name: Shona
-name_zh: 修納語
 autonym: chiShona
 alt_names: ["\"Swina\"", Bahasa Shona, Central Karanga, Choneg, Idioma shona, Język shona, Karanga, Karanga (Central), Kishona, Lingua shona, Língua chona, Shona simi, Shonum, Ŝona lingvo, Šona, Шона, شونا تىلى, শোনা ভাষা, சோனா மொழி, ショナ語]
 population: 7237290
@@ -16,6 +15,17 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > East Bantu > Southern Bantu > Shona (S.10) > Core Shona > Plateau Shona > Central Shona > Shona"
 wikipedia_url: "https://en.wikipedia.org/wiki/Shona_language"
+translations:
+  - translation_iso: ara
+    name: لغة الشونا
+  - translation_iso: hin
+    name: शोना भाषा
+  - translation_iso: jpn
+    name: ショナ語
+  - translation_iso: kor
+    name: 쇼나어
+  - translation_iso: zho
+    name: 修納語
 rolv_dialects:
   - rolv_code: 352
     language_tag: sn-x-HIS00352

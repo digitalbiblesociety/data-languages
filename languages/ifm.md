@@ -1,8 +1,6 @@
 ---
 iso: ifm
 name: "Teke-Fuumu"
-name_zh: 特克-富乌姆语
-name_zh_auto: true
 autonym: Wuumu
 alt_names: [Central Teke, Fumu, Ifumu, Kiteke, South Central Teke, Teke (South Central), Teke du Pool]
 population: 8150
@@ -16,6 +14,10 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > Central-Western Bantu > West-Coastal Bantu > Nzadic > Lweric > Dingic > Loange-Atlantic > Kwilu-Ngounie > Kasai-Ngounie > Moyen Kasai-Ngounie > Interior Kasai-Ngounie > Teke-Fuumu"
 wikipedia_url: "https://en.wikipedia.org/wiki/Fuumu_language"
+translations:
+  - translation_iso: zho
+    name: 特克-富乌姆语
+    auto: true
 rolv_dialects:
   - rolv_code: 2838
     language_tag: ifm-x-HIS02838

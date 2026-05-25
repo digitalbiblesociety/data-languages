@@ -1,7 +1,6 @@
 ---
 iso: apc
 name: North Levantine Arabic
-name_zh: 黎凡特阿拉伯語
 autonym: اللهجة الشامي الشمال
 alt_names: [Arabic, Arabic (Beirut), Arabic (Eastern), Arabic (Lebanese), Arabic (North Levantine Spoken), Arabic (Syrian), "Arabic, Levantine", "Arabic, North Levantine Spoken", Damascene, Dialekt damasceński, Lebanese Arabic, Lebanese-Syrian Arabic, Levantine Arabic, North Levantine Spoken, Sirià, Syrian Arabic, Syrisch-Arabisch, Syro-Lebanese Arabic, Árabe sírio, لهجة سورية]
 population: 24600000
@@ -16,6 +15,17 @@ glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Semitic > West Semitic > Central Semitic > Arabian > Arabic > Levantine-Cypriot Arabic > Levantine Arabic"
 wikipedia_url: "https://en.wikipedia.org/wiki/Levantine_Arabic"
+translations:
+  - translation_iso: ara
+    name: العربية الشامية
+  - translation_iso: hin
+    name: लेवेंटाइन अरबी
+  - translation_iso: jpn
+    name: アラビア語レバント方言
+  - translation_iso: kor
+    name: 레반트 아랍어
+  - translation_iso: zho
+    name: 黎凡特阿拉伯語
 rolv_dialects:
   - rolv_code: 3388
     language_tag: ar-PS

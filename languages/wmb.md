@@ -1,8 +1,6 @@
 ---
 iso: wmb
 name: Wambaya
-name_zh: 瓦巴亚语
-name_zh_auto: true
 autonym: McArthur River
 alt_names: [Binbinka, Huambaya, Lenga wambaya, MacArthur Subgroup, Umbai, Umbaia, Umbia, Wailwan, Wailwin, Wailwun, Waljwan, Wambaia, Wambaja, Wambayan, Wamgaja, Wampaja, Wampaya, Wilwan, Wobya, Wom by a, Wom-By-A, Wombaia, Wombaya, Wombya, Won baia, Won-baia, Wonbaia, Ympia, Yumpia]
 population: 43
@@ -16,6 +14,12 @@ glottolog_family_id: mirn1241
 glottolog_family_name: Mirndi
 glottolog_classification: "Mirndi > Ngurlun > Wambayan"
 wikipedia_url: "https://en.wikipedia.org/wiki/Wambaya_language"
+translations:
+  - translation_iso: jpn
+    name: ワンバヤ語
+  - translation_iso: zho
+    name: 瓦巴亚语
+    auto: true
 rolv_dialects:
   - rolv_code: 18142
     language_tag: wmb-x-HIS18142

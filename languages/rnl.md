@@ -1,8 +1,6 @@
 ---
 iso: rnl
 name: Ranglong
-name_zh: 让隆语
-name_zh_auto: true
 autonym: Ronglong
 population: 8000
 country_id: IN
@@ -15,6 +13,10 @@ glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Kuki-Chin-Naga > Kuki-Chin > Northwestern Kuki-Chin > Western Northwestern Kuki-Chin > Halam"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ranglong_language"
+translations:
+  - translation_iso: zho
+    name: 让隆语
+    auto: true
 rolv_dialects:
   - rolv_code: 6177
     language_tag: rnl-x-HIS06177

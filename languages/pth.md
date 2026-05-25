@@ -1,8 +1,6 @@
 ---
 iso: pth
 name: "Pataxó Hã-Ha-Hãe"
-name_zh: 帕塔肖哈哈哈埃语
-name_zh_auto: true
 autonym: "Pataxó Hã-Ha-Hãe"
 alt_names: [Patasho, Patasho-Hanhanhain, Patashó, Pataxi, Pataxo Ha-Ha-Hae, Pataxo-Hahahahe, Pataxó, Pataxó-Hanhanhain, Pataxó-Hãhaãi, Pataxó-Hãhãhãe, Patoxó]
 population: null
@@ -16,5 +14,9 @@ glottolog_family_id: nucl1710
 glottolog_family_name: Nuclear-Macro-Je
 glottolog_classification: "Nuclear-Macro-Je > Maxakali-Borum > Maxakalian > Nuclear Maxakalian > Pataxó Hã-Ha-Hãe"
 wikipedia_url: "https://en.wikipedia.org/wiki/Patax%C3%B3_language"
+translations:
+  - translation_iso: zho
+    name: 帕塔肖哈哈哈埃语
+    auto: true
 ---
 Pataxó is an extinct Maxakalían language of Brazil formerly spoken by the Pataxó people of the Bahia region, and of Minas Gerais, Pôsto Paraguassu in Itabuna municipality. The 12,865 individuals in the Pataxó tribe now speak Portuguese instead, though they retain a few Pataxó words, as well as some words from neighbouring peoples. It has been revived in a form called Patxohã. Due to poor documentation, many elements of Pataxó grammar, including the entire syntax, needed to be entirely reconstructed.

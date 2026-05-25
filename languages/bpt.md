@@ -1,8 +1,6 @@
 ---
 iso: bpt
 name: Barrow Point
-name_zh: 巴罗点语
-name_zh_auto: true
 autonym: Mutumui
 alt_names: [Barrow Point language]
 population: null
@@ -16,5 +14,9 @@ glottolog_family_id: pama1250
 glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > Paman > Compromise Middle Pama > Wik > Flinders-Barrow > Barrow Point"
 wikipedia_url: "https://en.wikipedia.org/wiki/Barrow_Point_language"
+translations:
+  - translation_iso: zho
+    name: 巴罗点语
+    auto: true
 ---
 The Barrow Point or Mutumui language, called Eibole, is an extinct Australian Aboriginal language. According to Wurm and Hattori (1981), there was one speaker left at the time.

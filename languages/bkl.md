@@ -1,7 +1,6 @@
 ---
 iso: bkl
 name: Berik
-name_zh: 貝力克語
 autonym: Berick
 alt_names: [Berik (Tor), Berrik, Upper Tor]
 population: 1200
@@ -15,5 +14,8 @@ glottolog_family_id: toro1256
 glottolog_family_name: Tor-Orya
 glottolog_classification: "Tor-Orya > Tor > Berik"
 wikipedia_url: "https://en.wikipedia.org/wiki/Berik_language"
+translations:
+  - translation_iso: zho
+    name: 貝力克語
 ---
 Berik (Sewan) is a Papuan language spoken in Indonesia. Speakers are located in four village groups on the Tor River, in Sarmi Regency, Papua Province.

@@ -1,8 +1,6 @@
 ---
 iso: uji
 name: Tanjijili
-name_zh: 坦吉吉利语
-name_zh_auto: true
 autonym: Tanjijili
 alt_names: [Jijili, Koro Funtu of Kafin Koro, Koro Funtu of Minna, Koro of Shakoyi, Ujijili]
 population: 8540
@@ -16,6 +14,10 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Benue-Congo Plateau > Jilic-Eggonic > Jilic > Rjili"
 wikipedia_url: "https://en.wikipedia.org/wiki/Jijili_language"
+translations:
+  - translation_iso: zho
+    name: 坦吉吉利语
+    auto: true
 rolv_dialects:
   - rolv_code: 28999
     language_tag: uji-x-HIS28999

@@ -1,8 +1,6 @@
 ---
 iso: sav
 name: "Saafi-Saafi"
-name_zh: 萨菲-萨菲语
-name_zh_auto: true
 autonym: "Saafi-Saafi"
 alt_names: [Saafi, Safen, Safi, Safi-Safi, Sereer Saafen, Serer-Safen, Serere-Saafen]
 population: 200000
@@ -16,6 +14,10 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Cangin > Saafi-Noon-Lehar > Saafi-Saafi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Safen_language"
+translations:
+  - translation_iso: zho
+    name: 萨菲-萨菲语
+    auto: true
 rolv_dialects:
   - rolv_code: 26520
     language_tag: sav-x-HIS26520

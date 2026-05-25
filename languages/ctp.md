@@ -1,8 +1,6 @@
 ---
 iso: ctp
 name: Western Highland Chatino
-name_zh: 西高地查蒂诺语
-name_zh_auto: true
 autonym: Sierra Chatino
 alt_names: ["Cha't-An", Chatino, Chatino (Sierra Occidental), Chatino (Yaitepec), Chatino de Zacatepec, Chatino de Zacatepeco, Chatino de la Zona Alta Occidental, Chatino de la zona baja occidental, Chatino des basses-terres occidentales, Chatino language, "Chatino, Western Highland", Idioma chatino, Langues chatino, Língua chatina, Sierra Occidental Chatino, Tchatineg, Western Highland]
 population: 16000
@@ -15,6 +13,10 @@ glottocode: west2644
 glottolog_family_id: otom1299
 glottolog_family_name: Otomanguean
 glottolog_classification: "Otomanguean > Eastern Otomanguean > Popoloca-Zapotecan > Zapotecan > Chatino > Core Chatino > Coastal Chatino > Eastern Chatino > Western Highland Chatino"
+translations:
+  - translation_iso: zho
+    name: 西高地查蒂诺语
+    auto: true
 rolv_dialects:
   - rolv_code: 2890
     language_tag: ctp-x-HIS02890

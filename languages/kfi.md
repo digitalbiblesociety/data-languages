@@ -1,8 +1,6 @@
 ---
 iso: kfi
 name: Kannada Kurumba
-name_zh: 卡纳达库鲁姆巴语
-name_zh_auto: true
 autonym: Canarese
 alt_names: ["Kurumba, Kannada"]
 population: 180000
@@ -12,6 +10,14 @@ status_id: "5"
 latitude: 11.38236
 longitude: 76.52555
 wikipedia_url: "https://en.wikipedia.org/wiki/Kurumba_languages"
+translations:
+  - translation_iso: hin
+    name: कुरुबा भाषा
+  - translation_iso: jpn
+    name: クルンバ語
+  - translation_iso: zho
+    name: 卡纳达库鲁姆巴语
+    auto: true
 rolv_dialects:
   - rolv_code: 4205
     language_tag: kfi-x-HIS04205

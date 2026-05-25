@@ -1,8 +1,6 @@
 ---
 iso: spo
 name: Spokane
-name_zh: 斯波肯语
-name_zh_auto: true
 autonym: Séliš (fla)Npoqínišcn (spo)
 alt_names: [Espokane, Flathead-Kalispel-Spokane, "Flathead-Pend d'Oreille-Spokane", Montana Salish-Kalispel-Spokane, "Montana Salish-Pend d'Oreille-Spokane", Npoqínišcn, Spokan, Spokane-Kalispel-Flathead]
 population: 1000
@@ -15,4 +13,10 @@ glottocode: spok1245
 glottolog_family_id: sali1255
 glottolog_family_name: Salishan
 glottolog_classification: "Salishan > Interior Salish > Southern Interior Salish > Okanaganic > Kalispel-Spokane > Spokane"
+translations:
+  - translation_iso: jpn
+    name: スポケーン語
+  - translation_iso: zho
+    name: 斯波肯语
+    auto: true
 ---

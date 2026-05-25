@@ -1,8 +1,6 @@
 ---
 iso: pym
 name: Fyam
-name_zh: 菲亚姆语
-name_zh_auto: true
 autonym: Pyem
 alt_names: [Fem, Fyem, Genawa, Gyem, Gyema, Paiem, Pem]
 population: 31000
@@ -16,6 +14,10 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Benue-Congo Plateau > Southeastern Benue-Congo Plateau > Horom-Fyem > Fyam"
 wikipedia_url: "https://en.wikipedia.org/wiki/Pyem_language"
+translations:
+  - translation_iso: zho
+    name: 菲亚姆语
+    auto: true
 rolv_dialects:
   - rolv_code: 2449
     language_tag: pym-x-HIS02449

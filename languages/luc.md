@@ -1,8 +1,6 @@
 ---
 iso: luc
 name: Aringa
-name_zh: 阿林加语
-name_zh_auto: true
 autonym: Low Lugbara
 alt_names: [Aringeg, Арингаски јазик]
 population: 495000
@@ -16,6 +14,10 @@ glottolog_family_id: cent2225
 glottolog_family_name: Central Sudanic
 glottolog_classification: "Central Sudanic > Moru-Madi > Central Moru-Madi > Lugbaric > Aringa"
 wikipedia_url: "https://en.wikipedia.org/wiki/Aringa_language"
+translations:
+  - translation_iso: zho
+    name: 阿林加语
+    auto: true
 rolv_dialects:
   - rolv_code: 27316
     language_tag: luc-x-HIS27316

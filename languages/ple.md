@@ -1,7 +1,6 @@
 ---
 iso: ple
 name: "Palu'e"
-name_zh: 帕卢厄语
 autonym: "Lu'a"
 alt_names: ["Palu'en kieli", Palue, Paluees, Paluqe]
 population: 10000
@@ -15,5 +14,8 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Bima-Lembata > Flores > West-Central Flores > Central Flores-Paluqe > Palu'e"
 wikipedia_url: "https://en.wikipedia.org/wiki/Palu%CA%BCe_language"
+translations:
+  - translation_iso: zho
+    name: 帕卢厄语
 ---
 Paluʼe is a Malayo-Polynesian language spoken on Paluʼe Island, Indonesia.

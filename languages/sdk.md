@@ -1,8 +1,6 @@
 ---
 iso: sdk
 name: Sos Kundi
-name_zh: 索斯昆迪语
-name_zh_auto: true
 autonym: Agbane
 alt_names: [Agbanekundi, Akbana, Gaikundi, Gaikunti, Keak, Kwaruwi Kwundi, Kwaruwikwundi, Kwongai, Sawos, Sepik Plains, Soskundi, Tshuosh, Tshwosh]
 population: null
@@ -16,6 +14,10 @@ glottolog_family_id: nduu1242
 glottolog_family_name: Ndu
 glottolog_classification: "Ndu > Nuclear Ndu > Sawosic > Iatmulic > Sos Kundi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Sos_Kundi_language"
+translations:
+  - translation_iso: zho
+    name: 索斯昆迪语
+    auto: true
 rolv_dialects:
   - rolv_code: 30485
     language_tag: sdk-x-HIS30485

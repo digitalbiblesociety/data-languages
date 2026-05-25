@@ -1,8 +1,6 @@
 ---
 iso: bwd
 name: Bwaidoka
-name_zh: 布瓦伊多卡语
-name_zh_auto: true
 autonym: Bwaidoga
 population: 6500
 country_id: PG
@@ -15,6 +13,12 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > Papuan Tip linkage > Nuclear Papuan Tip linkage > North Papuan Mainland-D'Entrecasteaux linkage > Bwaidoga linkage > Bwaidoka-Iduna > Bwaidoka"
 wikipedia_url: "https://en.wikipedia.org/wiki/Bwaidoka_language"
+translations:
+  - translation_iso: jpn
+    name: ブァイドカ語
+  - translation_iso: zho
+    name: 布瓦伊多卡语
+    auto: true
 rolv_dialects:
   - rolv_code: 5099
     language_tag: bwd-x-HIS05099

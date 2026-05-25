@@ -1,8 +1,6 @@
 ---
 iso: mzu
 name: Inapang
-name_zh: 伊纳潘语
-name_zh_auto: true
 autonym: Midsivindi
 alt_names: [Itutang]
 population: 1830
@@ -16,6 +14,10 @@ glottolog_family_id: ramu1234
 glottolog_family_name: Ramu
 glottolog_classification: "Ramu > Goam > Tamolan > Itutang-Inapang"
 wikipedia_url: "https://en.wikipedia.org/wiki/Inapang_language"
+translations:
+  - translation_iso: zho
+    name: 伊纳潘语
+    auto: true
 rolv_dialects:
   - rolv_code: 11015
     language_tag: mzu-x-HIS11015

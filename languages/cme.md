@@ -1,8 +1,6 @@
 ---
 iso: cme
 name: Cerma
-name_zh: 塞尔玛语
-name_zh_auto: true
 autonym: Gouin
 alt_names: [Guin, Gwe, Gwen, Kirma, Mbouin]
 population: 53600
@@ -16,6 +14,10 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Gur > Central Gur > Southern Central Gur > Kirma-Tyurama > Cerma"
 wikipedia_url: "https://en.wikipedia.org/wiki/Cerma_language"
+translations:
+  - translation_iso: zho
+    name: 塞尔玛语
+    auto: true
 rolv_dialects:
   - rolv_code: 2474
     language_tag: cme-x-HIS02474

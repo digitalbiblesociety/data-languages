@@ -1,7 +1,6 @@
 ---
 iso: gaq
 name: "Gata'"
-name_zh: 格塔语
 autonym: Gta
 alt_names: [Didayi, Didei, Didey, Dire, Gataq, Gataq language, Gataʔ, Geta, "Geta'", "Geta?", Getaq, Gta Asa, "Gta'"]
 population: 3060
@@ -15,6 +14,11 @@ glottolog_family_id: aust1305
 glottolog_family_name: Austroasiatic
 glottolog_classification: "Austroasiatic > Mundaic > Gata'"
 wikipedia_url: "https://en.wikipedia.org/wiki/Gta%CA%BC_language"
+translations:
+  - translation_iso: hin
+    name: गेता भाषा
+  - translation_iso: zho
+    name: 格塔语
 rolv_dialects:
   - rolv_code: 10061
     language_tag: gaq-x-HIS10061

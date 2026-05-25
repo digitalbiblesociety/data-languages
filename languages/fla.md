@@ -1,7 +1,6 @@
 ---
 iso: fla
 name: "Kalispel-Pend d'Oreille"
-name_zh: 萨利什-斯波坎-卡利斯佩尔语
 autonym: Séliš (fla)Npoqínišcn (spo)
 alt_names: ["\"Flathead\"-Kalispel", Flathead, Flathead-Kalispel-Spokane, "Flathead-Pend d'Oreille-Spokane", Kalispel, Kalispel-Flathead, Montana Salish-Kalispel-Spokane, "Montana Salish-Pend d'Oreille-Spokane", Qalispé, Salish, Salish de Montana, Salish du Montana, Spokane-Kalispel-Flathead, Séliš]
 population: 6800
@@ -15,6 +14,13 @@ glottolog_family_id: sali1255
 glottolog_family_name: Salishan
 glottolog_classification: "Salishan > Interior Salish > Southern Interior Salish > Okanaganic > Kalispel-Spokane > Kalispel-Pend d'Oreille"
 wikipedia_url: "https://en.wikipedia.org/wiki/Salish%E2%80%93Spokane%E2%80%93Kalispel_language"
+translations:
+  - translation_iso: hin
+    name: सेलिश भाषा
+  - translation_iso: jpn
+    name: カリスペル語
+  - translation_iso: zho
+    name: 萨利什-斯波坎-卡利斯佩尔语
 rolv_dialects:
   - rolv_code: 27576
     language_tag: fla-x-HIS27576

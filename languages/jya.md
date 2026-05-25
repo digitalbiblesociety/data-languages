@@ -1,7 +1,6 @@
 ---
 iso: jya
 name: Jiarong
-name_zh: 嘉绒语
 autonym: Chiarong
 population: 12197
 country_id: CN
@@ -10,6 +9,13 @@ status_id: 6a
 latitude: 31.60295
 longitude: 102.22875
 wikipedia_url: "https://en.wikipedia.org/wiki/Gyalrong_languages"
+translations:
+  - translation_iso: jpn
+    name: ギャロン語
+  - translation_iso: kor
+    name: 걀롱어
+  - translation_iso: zho
+    name: 嘉绒语
 rolv_dialects:
   - rolv_code: 11144
     language_tag: jya-x-HIS11144

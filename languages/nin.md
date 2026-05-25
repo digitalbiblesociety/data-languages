@@ -1,8 +1,6 @@
 ---
 iso: nin
 name: Ninzo
-name_zh: 宁佐语
-name_zh_auto: true
 autonym: Ninzam
 alt_names: [Akiza, Amar Tita, Ancha, Fadan Wate, Gbhu D Amar Randfa, Hate, Incha, Kwasu, Nunzo, Sambe]
 population: 35000
@@ -16,6 +14,10 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Benue-Congo Plateau > Ninzic > Rukubic > Mada-Ninzam > Ninzo"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ninzo_language"
+translations:
+  - translation_iso: zho
+    name: 宁佐语
+    auto: true
 rolv_dialects:
   - rolv_code: 3731
     language_tag: nin-x-HIS03731

@@ -1,8 +1,6 @@
 ---
 iso: nji
 name: Gudanji
-name_zh: 古达尼语
-name_zh_auto: true
 autonym: Ngarnka
 alt_names: [Anga, Angee, Gnanji, Godangee, Goodanji, Gudandji, Gundangee, Kakaringa, Koodangie, Koodanjee, Kooringee, Kotandji, Kudandji, Kudenji, Kundanja, Kurdanji, Kutandji, Kutanji, Kutanjtjii, Nandi, Ngandji, Ngangi, Nganji, Ngarndji, Ngarnga]
 population: null
@@ -16,6 +14,10 @@ glottolog_family_id: mirn1241
 glottolog_family_name: Mirndi
 glottolog_classification: "Mirndi > Ngurlun > Ngarnka"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ngarnji_language"
+translations:
+  - translation_iso: zho
+    name: 古达尼语
+    auto: true
 rolv_dialects:
   - rolv_code: 25276
     language_tag: nji-x-HIS25276

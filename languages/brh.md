@@ -1,7 +1,6 @@
 ---
 iso: brh
 name: Brahui
-name_zh: 布拉灰语
 autonym: براهوئی
 alt_names: [Bahasa Brahui, Birahui, Birahuí, Brahoui, Brahudi, Brahui jezik, Brahuidi, Brahuigi, Brahuiki, Brahuin kieli, Brahweg, Brahúí, Braŭia lingvo, Język brahui, Kur Galli, Lenga Brahui, Lingua Brahui, Брауи, براہوی, زبان براهویی, لغة برهوية, ব্রাহুই ভাষা, பிராகுயி மொழி, బ్రహుయి, ബ്രഹൂയി ഭാഷ, ภาษาบราฮุย, ブラーフーイー語, 브라후이어]
 population: 2864800
@@ -16,6 +15,17 @@ glottolog_family_id: drav1251
 glottolog_family_name: Dravidian
 glottolog_classification: "Dravidian > North Dravidian > Brahui"
 wikipedia_url: "https://en.wikipedia.org/wiki/Brahvi_language"
+translations:
+  - translation_iso: ara
+    name: البراهوية
+  - translation_iso: hin
+    name: ब्राहुई भाषा
+  - translation_iso: jpn
+    name: ブラーフーイー語
+  - translation_iso: kor
+    name: 브라후이어
+  - translation_iso: zho
+    name: 布拉灰语
 rolv_dialects:
   - rolv_code: 8353
     language_tag: brh-x-HIS08353

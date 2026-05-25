@@ -1,8 +1,6 @@
 ---
 iso: bkn
 name: Bukitan
-name_zh: 布基坦语
-name_zh_auto: true
 autonym: Bakatan
 alt_names: [Bakitan, Beketan, Mangkettan, Manketa, Pakatan]
 population: 570
@@ -16,6 +14,10 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > North Borneo Malayo-Polynesian > Central Sarawak > Punan-Muller-Schwaner > Punan > Bukat-Ukit-Beketan-Lugat-Lisum > Bukitan"
 wikipedia_url: "https://en.wikipedia.org/wiki/Bukitan_language"
+translations:
+  - translation_iso: zho
+    name: 布基坦语
+    auto: true
 rolv_dialects:
   - rolv_code: 8439
     language_tag: bkn-x-HIS08439

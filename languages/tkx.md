@@ -1,8 +1,6 @@
 ---
 iso: tkx
 name: Tangko
-name_zh: 塘科语
-name_zh_auto: true
 autonym: Okdamor
 alt_names: [Indonesia]
 population: 100
@@ -16,5 +14,9 @@ glottolog_family_id: nucl1709
 glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Asmat-Awyu-Ok > Awyu-Ok > Ok-Oksapmin > Ok > Tangko-Nakai > Tangko"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tangko_language"
+translations:
+  - translation_iso: zho
+    name: 塘科语
+    auto: true
 ---
 Tangko is a somewhat divergent Ok language of Kawemaot village, Pegunungan Bintang Regency, Highland Papua, Indonesia.

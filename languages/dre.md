@@ -1,8 +1,6 @@
 ---
 iso: dre
 name: Dolpo
-name_zh: 多尔波语
-name_zh_auto: true
 autonym: "Ü-Tsang"
 alt_names: ["D'ölpo", Dolpa Tibetan, Dolpike, Phoke Dolpa]
 population: 5000
@@ -15,6 +13,10 @@ glottocode: dolp1239
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Bodic > Bodish > Early Old Tibetan > Middle Old Tibetan > Late Old Tibetan > Central Tibetan > South-Western Tibetic > Dolpo-Tichurong > Dolpo"
+translations:
+  - translation_iso: zho
+    name: 多尔波语
+    auto: true
 rolv_dialects:
   - rolv_code: 4098
     language_tag: dre-x-HIS04098

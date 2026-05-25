@@ -1,8 +1,6 @@
 ---
 iso: pmj
 name: Southern Pumi
-name_zh: 南部普米语
-name_zh_auto: true
 autonym: Prinmi
 alt_names: [Northern, "P'rome", "P'umi", "P'ömi", Pimi, Primi, Primmi, Pruumi, Pumi, "Pumi, Southern", "Pumi,Southern", Southern, Southern Prinmi, 南普米語]
 population: 19000
@@ -15,6 +13,10 @@ glottocode: sout2729
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Burmo-Qiangic > Na-Qiangic > Qiangic > Pumi > Southern Pumi"
+translations:
+  - translation_iso: zho
+    name: 南部普米语
+    auto: true
 rolv_dialects:
   - rolv_code: 15793
     language_tag: pmj-x-HIS15793

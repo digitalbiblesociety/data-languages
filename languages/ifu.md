@@ -1,8 +1,6 @@
 ---
 iso: ifu
 name: Mayoyao Ifugao
-name_zh: 马约亚伊富高语
-name_zh_auto: true
 autonym: Ifugaw
 alt_names: ["Ifugao, Mayoyao", Ifugu, Mayaoyaw, Mayoyao]
 population: 30000
@@ -15,6 +13,10 @@ glottocode: mayo1262
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Northern Luzon > Meso-Cordilleran > South-Central Cordilleran > Central Cordilleran > Nuclear Cordilleran > Ifugaw > Batad-Mayoyao > Mayoyao Ifugao"
+translations:
+  - translation_iso: zho
+    name: 马约亚伊富高语
+    auto: true
 rolv_dialects:
   - rolv_code: 5134
     language_tag: ifu-x-HIS05134

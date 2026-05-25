@@ -1,7 +1,6 @@
 ---
 iso: bhw
 name: Biak
-name_zh: 比亚克语
 autonym: "Biak-Numfor"
 alt_names: [Biaco, Mafoor, Mafoorsch, Mefoor, Myfoorsch, Noefoor, Noefoorsch, Nufoor, Numfor, Village X]
 population: 70000
@@ -15,6 +14,11 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > South Halmahera-West New Guinea > Cenderawasih Bay > Biakic > Biak-Roon > Biak"
 wikipedia_url: "https://en.wikipedia.org/wiki/Biak_language"
+translations:
+  - translation_iso: jpn
+    name: ビヤック語
+  - translation_iso: zho
+    name: 比亚克语
 rolv_dialects:
   - rolv_code: 5156
     language_tag: bhw-x-HIS05156

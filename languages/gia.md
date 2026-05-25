@@ -1,8 +1,6 @@
 ---
 iso: gia
 name: Kija
-name_zh: 基哈语
-name_zh_auto: true
 autonym: Kija
 alt_names: [Djarak, "Gi:dj", Gidja, Gija, Guidj, Guwidji, Gwidji, Keha, Kidja, Kisah, Kisha, Kitja, Kityu, "Ku:tji", Kuitj, Kuitji, Kutnalawaru, Kwitj, Langgu, Lenga kitja, Liej, Longga, Loonga, Lunga, Lungga, Lungu, Miwa, Paljarri, Tjarak, Walki, War-ingari, Warrangari]
 population: 170
@@ -16,5 +14,9 @@ glottolog_family_id: jarr1235
 glottolog_family_name: Jarrakan
 glottolog_classification: "Jarrakan > Kitja"
 wikipedia_url: "https://en.wikipedia.org/wiki/Gija_language"
+translations:
+  - translation_iso: zho
+    name: 基哈语
+    auto: true
 ---
 Gija is an Australian Aboriginal language today spoken by about 200 people, most of whom live in the region from Halls Creek to Kununurra and west to Lansdowne and Tableland Stations in Western Australia. It is a member of the Jarragan language family, a non-Pama-Nyungan family in the East Kimberley. The Argyle Diamond Mine, on the south-western corner of Lake Argyle, is on the borders of Gija and Miriwoong country. The Purnululu National Park, which contains the Bungle Bungle Range, is located mostly in Gija country.

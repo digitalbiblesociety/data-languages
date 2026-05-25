@@ -1,7 +1,6 @@
 ---
 iso: pot
 name: Potawatomi
-name_zh: 波塔瓦托米语
 autonym: Neshnabémwen
 alt_names: [Bodewadmi, Bodéwadmi, Potahuatomí (Wisconsin), Potawatomi (Canada), Potawatomi (Kansas), Potawatomi (Michigan), Potawatomi (Oklahoma), Potawatomi (Wisconsin), Potawotami, Pottawotomi, Потаватоми]
 population: 1300
@@ -15,5 +14,14 @@ glottolog_family_id: algi1248
 glottolog_family_name: Algic
 glottolog_classification: "Algic > Algonquian-Blackfoot > Algonquian > Eastern Great Lakes Algonquian > Ojibwa-Potawatomi > Potawatomi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Potawatomi_language"
+translations:
+  - translation_iso: ara
+    name: بوتاواتومي
+  - translation_iso: jpn
+    name: ポタワトミ語
+  - translation_iso: kor
+    name: 포타와토미어
+  - translation_iso: zho
+    name: 波塔瓦托米语
 ---
 Potawatomi is a Central Algonquian language. It was historically spoken by the Pottawatomi people who lived around the Great Lakes in what are now Michigan and Wisconsin in the United States, and in southern Ontario in Canada. Federally recognized tribes in Michigan and Oklahoma are working to revive the language.

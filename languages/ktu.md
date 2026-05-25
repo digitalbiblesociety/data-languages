@@ -1,8 +1,6 @@
 ---
 iso: ktu
 name: Kituba
-name_zh: 基图巴语
-name_zh_auto: true
 autonym: Monokutuba
 alt_names: [Kibulamatadi, Kikongo Commercial, Kikongo Simplifié, Kikongo Ya Leta, Kikongo-Kutuba, Kileta, Kituba (Democratic Republic of Congo)]
 population: 4200000
@@ -15,6 +13,10 @@ glottocode: kitu1246
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > Central-Western Bantu > West-Coastal Bantu > Nzadic > Lweric > Dingic > Loange-Atlantic > KLC Extended > Kikongo Language Cluster > Nuclear KLC > Kikongoic > Kambakunyic Kikongo > Kilaadic Kikongo > Central-Southern Kikongo > Southeastern Kikongo > Southern Kikongo > Koongo-Kituba > Kituba (Democratic Republic of Congo)"
+translations:
+  - translation_iso: zho
+    name: 基图巴语
+    auto: true
 rolv_dialects:
   - rolv_code: 1533
     language_tag: ktu-x-HIS01533

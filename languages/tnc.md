@@ -1,8 +1,6 @@
 ---
 iso: tnc
 name: "Tanimuca-Retuarã"
-name_zh: 塔尼穆卡-瑞图亚拉语
-name_zh_auto: true
 autonym: Wejeñememajã oka y Ũp̵airã oka
 alt_names: [Letuama, Letuhama, Retuama, Retuarã, Tanimuca, Tanimuca-Letuama, Tanimuca-Retuar, Tanimuca-Retuara, Uairã, Ufaina]
 population: 1800
@@ -16,6 +14,10 @@ glottolog_family_id: tuca1253
 glottolog_family_name: Tucanoan
 glottolog_classification: "Tucanoan > Eastern Tucanoan > South Eastern Tucanoan > Tanimuca-Retuarã"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tanimuca-Retuar%C3%A3_language"
+translations:
+  - translation_iso: zho
+    name: 塔尼穆卡-瑞图亚拉语
+    auto: true
 rolv_dialects:
   - rolv_code: 4330
     language_tag: tnc-x-HIS04330

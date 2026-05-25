@@ -1,8 +1,6 @@
 ---
 iso: doa
 name: Dom
-name_zh: 多姆语
-name_zh_auto: true
 autonym: "Dom [ndom˩˥]"
 population: 12000
 country_id: PG
@@ -15,6 +13,10 @@ glottolog_family_id: nucl1709
 glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Chimbu-Wahgi > Simbu > Nuclear Simbu > Kuman-Dom-Gunaa > Dom"
 wikipedia_url: "https://en.wikipedia.org/wiki/Dom_language"
+translations:
+  - translation_iso: zho
+    name: 多姆语
+    auto: true
 rolv_dialects:
   - rolv_code: 9370
     language_tag: doa-x-HIS09370

@@ -1,8 +1,6 @@
 ---
 iso: wiv
 name: Vitu
-name_zh: 维图语
-name_zh_auto: true
 autonym: Muduapa
 alt_names: [Bali-Vitu, Muduapa jezik, Witu]
 population: 7000
@@ -16,6 +14,10 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > Meso Melanesian linkage > Bali-Vitu > Muduapa"
 wikipedia_url: "https://en.wikipedia.org/wiki/Vitu_language"
+translations:
+  - translation_iso: zho
+    name: 维图语
+    auto: true
 rolv_dialects:
   - rolv_code: 26362
     language_tag: wiv-x-HIS26362

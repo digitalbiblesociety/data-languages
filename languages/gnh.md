@@ -1,8 +1,6 @@
 ---
 iso: gnh
 name: Lere
-name_zh: 莱雷语
-name_zh_auto: true
 autonym: null
 alt_names: [Nigeria]
 population: 16328
@@ -16,6 +14,10 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Kainji > Central Kainji > Basa-Eastern Kainji > Eastern Kainji > Jos > Northern Jos > Lere"
 wikipedia_url: "https://en.wikipedia.org/wiki/Lere_language"
+translations:
+  - translation_iso: zho
+    name: 莱雷语
+    auto: true
 rolv_dialects:
   - rolv_code: 12885
     language_tag: gnh-x-HIS12885

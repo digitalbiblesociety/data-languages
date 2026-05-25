@@ -1,8 +1,6 @@
 ---
 iso: sbm
 name: Sagala
-name_zh: 萨加拉语
-name_zh_auto: true
 autonym: Sagala
 alt_names: [Kisagala, Kisagara, Sagara, Southern Kisagala]
 population: 111000
@@ -16,5 +14,9 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > East Bantu > Northeast Savanna Bantu > Northeast Coastal Bantu > Ruvu > West Ruvu > Vidunda-Sagala > Sagala"
 wikipedia_url: "https://en.wikipedia.org/wiki/Sagara_language"
+translations:
+  - translation_iso: zho
+    name: 萨加拉语
+    auto: true
 ---
 Sagara (Sagala) is a Bantu language of the Morogoro and Dodoma regions of Tanzania. It is sometimes called Southern Sagala to distinguish it from the Sagalla language of Kenya ; the similarity of the names is a coincidence.

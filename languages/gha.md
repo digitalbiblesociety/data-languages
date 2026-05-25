@@ -1,8 +1,6 @@
 ---
 iso: gha
 name: Ghadamès
-name_zh: 加达梅斯语
-name_zh_auto: true
 autonym: Ghadāmis
 alt_names: [Gadamés, Ghadames, Ghadamès jezik, Гхадамесский язык]
 population: 10000
@@ -16,6 +14,14 @@ glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Berber > Ghadames"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ghadam%C3%A8s_language"
+translations:
+  - translation_iso: ara
+    name: لهجة غدامسية
+  - translation_iso: jpn
+    name: ガダミス語
+  - translation_iso: zho
+    name: 加达梅斯语
+    auto: true
 rolv_dialects:
   - rolv_code: 10189
     language_tag: gha-x-HIS10189

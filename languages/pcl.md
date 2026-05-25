@@ -1,8 +1,6 @@
 ---
 iso: pcl
 name: Pardhi
-name_zh: 帕尔迪语
-name_zh_auto: true
 autonym: Bahelia
 alt_names: [Chita Pardhi, Lango Pardhi, Paidia, Paradi, Paria, Phans Pardhi, Takankar, Takia]
 population: 69100
@@ -16,6 +14,10 @@ glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Indo-Aryan > Middle-Modern Indo-Aryan > Continental Indo-Aryan > Midlands Indo-Aryan > Bhil > Pardhi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Pardhi_language"
+translations:
+  - translation_iso: zho
+    name: 帕尔迪语
+    auto: true
 rolv_dialects:
   - rolv_code: 3893
     language_tag: pcl-x-HIS03893

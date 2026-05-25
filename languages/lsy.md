@@ -1,8 +1,6 @@
 ---
 iso: lsy
 name: Mauritian Sign Language
-name_zh: 毛里求斯手语
-name_zh_auto: true
 autonym: null
 population: 1000
 country_id: MU
@@ -15,5 +13,11 @@ glottolog_family_id: sign1238
 glottolog_family_name: Sign Language
 glottolog_classification: "Sign Language > L1 Sign Language > Mauritian Sign Language"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mauritian_Sign_Language"
+translations:
+  - translation_iso: jpn
+    name: モーリシャス手話
+  - translation_iso: zho
+    name: 毛里求斯手语
+    auto: true
 ---
 Mauritian Sign Language is the indigenous deaf sign language of Mauritius.

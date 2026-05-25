@@ -1,8 +1,6 @@
 ---
 iso: nos
 name: Eastern Nisu
-name_zh: 东尼苏语
-name_zh_auto: true
 autonym: Southern Yi
 alt_names: [Lolo, Nasu, Nisu, "Nisu, Eastern", "Nisu,Eastern", Nosu, Shiping-Jianshui Nisu, Shiping-Jianshui Yi, Yi, "Yi, Southern"]
 population: 75000
@@ -15,6 +13,10 @@ glottocode: east2349
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Burmo-Qiangic > Lolo-Burmese > Loloish > Ni-Li-Kazhouish > Southeastern Ngwi > Nisoid > Nisu-Nyisu > Nisu > Nuclear Nisu > Northern Nisu > North-Central Nisu"
+translations:
+  - translation_iso: zho
+    name: 东尼苏语
+    auto: true
 rolv_dialects:
   - rolv_code: 4670
     language_tag: nos-x-HIS04670

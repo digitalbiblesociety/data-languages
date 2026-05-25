@@ -1,8 +1,6 @@
 ---
 iso: mnb
 name: Muna
-name_zh: 穆纳语
-name_zh_auto: true
 autonym: Wamba Wuna
 alt_names: [Mounan, Wuna]
 population: 266000
@@ -16,6 +14,12 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Celebic > Greater Eastern Celebic > Eastern Celebic > Southeastern Celebic > Muna-Buton > Nuclear Muna-Buton > Munan > Munic > Western Munic > Muna"
 wikipedia_url: "https://en.wikipedia.org/wiki/Muna_language"
+translations:
+  - translation_iso: jpn
+    name: ムナ語
+  - translation_iso: zho
+    name: 穆纳语
+    auto: true
 rolv_dialects:
   - rolv_code: 4654
     language_tag: mnb-x-HIS04654

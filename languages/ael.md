@@ -1,8 +1,6 @@
 ---
 iso: ael
 name: Ambele
-name_zh: 安贝莱语
-name_zh_auto: true
 autonym: null
 alt_names: [Ambala, "Bata'o", Lembala, "Tentwa'", Tinta]
 population: 2600
@@ -16,5 +14,9 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Wide Grassfields > Ambele"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ambele_language"
+translations:
+  - translation_iso: zho
+    name: 安贝莱语
+    auto: true
 ---
 Ambele is a Grassfields language of Cameroon.

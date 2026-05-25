@@ -1,8 +1,6 @@
 ---
 iso: nkt
 name: Nyika
-name_zh: 尼亚卡语
-name_zh_auto: true
 autonym: Kinyika
 alt_names: [Nyika (Tanzania)]
 population: 25000
@@ -16,5 +14,11 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > East Bantu > Corridor Bantu > Mbozi > Nyika-Lambya > Nyika > Nyika (Tanzania)"
 wikipedia_url: "https://en.wikipedia.org/wiki/Nyika_language"
+translations:
+  - translation_iso: jpn
+    name: ニイカ語
+  - translation_iso: zho
+    name: 尼亚卡语
+    auto: true
 ---
 Nyika (Nyiha) is a Bantu language of Tanzania and Zambia.

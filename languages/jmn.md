@@ -1,8 +1,6 @@
 ---
 iso: jmn
 name: Makuri Naga
-name_zh: 玛库里纳迦语
-name_zh_auto: true
 autonym: Makury Naga
 alt_names: ["Naga, Makuri", "Naga,Makuri", Shaera]
 population: 4000
@@ -16,6 +14,10 @@ glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Kuki-Chin-Naga > Angami-Ao > Central Naga > Yimchingric > Makuric > Makuri Naga"
 wikipedia_url: "https://en.wikipedia.org/wiki/Makury_language"
+translations:
+  - translation_iso: zho
+    name: 玛库里纳迦语
+    auto: true
 rolv_dialects:
   - rolv_code: 26951
     language_tag: jmn-x-HIS26951

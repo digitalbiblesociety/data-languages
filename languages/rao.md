@@ -1,7 +1,6 @@
 ---
 iso: rao
 name: Rao
-name_zh: 饒語
 autonym: Rao Breri
 alt_names: [Annaberg]
 population: 6000
@@ -15,6 +14,11 @@ glottolog_family_id: ramu1234
 glottolog_family_name: Ramu
 glottolog_classification: "Ramu > Rao"
 wikipedia_url: "https://en.wikipedia.org/wiki/Rao_language"
+translations:
+  - translation_iso: jpn
+    name: ラオ語
+  - translation_iso: zho
+    name: 饒語
 rolv_dialects:
   - rolv_code: 4389
     language_tag: rao-x-HIS04389

@@ -1,7 +1,6 @@
 ---
 iso: bzi
 name: Bisu
-name_zh: 毕苏语
 autonym: 毕苏语
 alt_names: [Bisú, Laopin, Lawa, Lua, Mbi, Mbisu, Mibisu, Misu, Pin, 畢蘇語, 米畢蘇語, 米蘇語]
 population: 700
@@ -15,6 +14,9 @@ glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Burmo-Qiangic > Lolo-Burmese > Loloish > Hani-Jino > Bisoid-Hanic > Bisoid > Singsali-Bisu > Bisu-Pyen-Laomian > Bisu"
 wikipedia_url: "https://en.wikipedia.org/wiki/Bisu_language"
+translations:
+  - translation_iso: zho
+    name: 毕苏语
 rolv_dialects:
   - rolv_code: 6111
     language_tag: bzi-x-HIS06111

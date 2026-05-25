@@ -1,8 +1,6 @@
 ---
 iso: mdm
 name: Mayogo
-name_zh: 马约戈语
-name_zh_auto: true
 autonym: Kiyogo
 alt_names: [Maigo, Maiko, Majugu, Mayko, Mayugo]
 population: 100000
@@ -16,5 +14,11 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Cameroun-Ubangian > Ubangi > Ubangi Ka > Mundu-Baka > Eastern Mundu-Baka > Mayogo-Bangba > Mayogo"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mayogo_language"
+translations:
+  - translation_iso: jpn
+    name: マヨゴ語
+  - translation_iso: zho
+    name: 马约戈语
+    auto: true
 ---
 Mayogo is a Ubangian language spoken by the Day (Angai), Maambi, and Mangbele peoples of the Democratic Republic of the Congo. It is not close enough to Bangba, the most closely related language, for mutual intelligibility.

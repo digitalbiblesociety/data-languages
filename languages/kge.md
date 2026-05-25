@@ -1,7 +1,6 @@
 ---
 iso: kge
 name: Komering
-name_zh: 科梅林語
 autonym: cawa Komering
 alt_names: [Komerin, Kumoring, Njo]
 population: 20000
@@ -16,6 +15,17 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Lampungic > Pesisir > Komering"
 wikipedia_url: "https://en.wikipedia.org/wiki/Lampung_language"
+translations:
+  - translation_iso: ara
+    name: كومرينج
+  - translation_iso: hin
+    name: कोमेरिंग भाषा
+  - translation_iso: jpn
+    name: コメリン語
+  - translation_iso: kor
+    name: 람풍어
+  - translation_iso: zho
+    name: 科梅林語
 rolv_dialects:
   - rolv_code: 11753
     language_tag: kge-x-HIS11753

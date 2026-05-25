@@ -1,7 +1,6 @@
 ---
 iso: mtm
 name: Mator
-name_zh: 馬托爾語
 autonym: "Motor, Mator-Taigi-Karagas"
 alt_names: [Karagas, Lingua mator, Mator nyelv, Matora lingvo, Matoreg, Matorigiella, Matorin kieli, Matorische Sprache, Matorish, Matorisk språk, Matorų kalba, Motor, Sayan Samoyed, Sayan Samoyedic, Taigi, Маторски јазик, Маторский язык]
 population: null
@@ -15,6 +14,13 @@ glottolog_family_id: ural1272
 glottolog_family_name: Uralic
 glottolog_classification: "Uralic > Samoyedic > Mator-Taigi-Karagas"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mator_language"
+translations:
+  - translation_iso: jpn
+    name: マトル語
+  - translation_iso: kor
+    name: 마토르어
+  - translation_iso: zho
+    name: 馬托爾語
 rolv_dialects:
   - rolv_code: 13845
     language_tag: mtm-x-HIS13845

@@ -1,8 +1,6 @@
 ---
 iso: nyr
 name: Nyiha (Malawi)
-name_zh: 尼哈语
-name_zh_auto: true
 autonym: Ishinyiha
 alt_names: [Nyiha]
 population: 10000
@@ -15,4 +13,8 @@ glottocode: nyih1239
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > East Bantu > Corridor Bantu > Mbozi > Nyika-Lambya > Nyika > Central and Southern Nyika > Mbozi-Malawi Nyika > Nyiha (Malawi)"
+translations:
+  - translation_iso: zho
+    name: 尼哈语
+    auto: true
 ---

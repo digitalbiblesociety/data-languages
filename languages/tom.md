@@ -1,8 +1,6 @@
 ---
 iso: tom
 name: Tombulu
-name_zh: 通布鲁语
-name_zh_auto: true
 autonym: Minahasa
 alt_names: [Minhasa, Tombalu, Tombula, "Tombulu'", Toumbulu]
 population: 19000
@@ -16,6 +14,14 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Sangiric-Minahasan > Minahasan > North Minahasan > Northeast Minahasan > Tombulu"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tombulu_language"
+translations:
+  - translation_iso: jpn
+    name: トムブル語
+  - translation_iso: kor
+    name: 톰불루어
+  - translation_iso: zho
+    name: 通布鲁语
+    auto: true
 rolv_dialects:
   - rolv_code: 17567
     language_tag: tom-x-HIS17567

@@ -1,7 +1,6 @@
 ---
 iso: ljp
 name: Lampung Api
-name_zh: 楠榜语
 autonym: cawa Lampung
 alt_names: [Api, Bahasa Lampung, Lampong, Lampung, Lampung language, Lampung pesisir, Lampungin kieli, Lenga Lampung]
 population: 827000
@@ -16,6 +15,15 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Lampungic > Pesisir > Lampung Api"
 wikipedia_url: "https://en.wikipedia.org/wiki/Lampung_language"
+translations:
+  - translation_iso: ara
+    name: لغة لامبونغ
+  - translation_iso: jpn
+    name: ランプン語
+  - translation_iso: kor
+    name: 람풍어
+  - translation_iso: zho
+    name: 楠榜语
 rolv_dialects:
   - rolv_code: 5153
     language_tag: ljp-x-HIS05153

@@ -1,8 +1,6 @@
 ---
 iso: jaq
 name: Yaqay
-name_zh: 雅盖语
-name_zh_auto: true
 autonym: Jakai
 alt_names: [Jaqai, Jaqai-Sohur, Mapi, Sohur, Yaqai]
 population: 10000
@@ -16,6 +14,10 @@ glottolog_family_id: anim1240
 glottolog_family_name: Anim
 glottolog_classification: "Anim > Marind-Boazi-Yaqai > Yaqayic > Yaqay"
 wikipedia_url: "https://en.wikipedia.org/wiki/Yaqay_language"
+translations:
+  - translation_iso: zho
+    name: 雅盖语
+    auto: true
 rolv_dialects:
   - rolv_code: 18482
     language_tag: jaq-x-HIS18482

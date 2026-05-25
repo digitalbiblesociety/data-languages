@@ -1,8 +1,6 @@
 ---
 iso: txm
 name: Tomini
-name_zh: 托米尼语
-name_zh_auto: true
 autonym: Tialo
 alt_names: [Mouton, Tiadje]
 population: 19700
@@ -16,5 +14,9 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Celebic > Greater Eastern Celebic > Tominic > Northern Tomini > Tomini"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tomini_language"
+translations:
+  - translation_iso: zho
+    name: 托米尼语
+    auto: true
 ---
 Tomini proper, or Tialo, is an Austronesian language of the Celebic branch spoken in Central Sulawesi, Indonesia. Tialo speakers live along the coast of the Tomini Bay between Tingkulang (Tomini) and Moutong.

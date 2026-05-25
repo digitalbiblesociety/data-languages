@@ -1,7 +1,6 @@
 ---
 iso: kvr
 name: Kerinci
-name_zh: 葛林芝
 autonym: Baso Kincai
 alt_names: [Kerinchi, Kerintji, Kinchai]
 population: 285000
@@ -16,6 +15,13 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Malayo-Chamic > Malayic > Nuclear Malayic > Northern Sumatra Malay > Kerinci-Minangkabau > Kerinci"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kerinci_language"
+translations:
+  - translation_iso: ara
+    name: لغة كيرينسي
+  - translation_iso: jpn
+    name: クリンチ語
+  - translation_iso: zho
+    name: 葛林芝
 rolv_dialects:
   - rolv_code: 5154
     language_tag: kvr-x-HIS05154

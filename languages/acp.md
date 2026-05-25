@@ -1,8 +1,6 @@
 ---
 iso: acp
 name: Eastern Acipa
-name_zh: 东部阿奇帕语
-name_zh_auto: true
 autonym: Zubazuba
 alt_names: [Achipa, "Acipa, Eastern", Acipanci, Sagamuk]
 population: 5000
@@ -16,6 +14,10 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Kainji > Central Kainji > Shiroro-Kamuku > Kamuku-Hungwarya > Kamuku > Rogo-Sagamuk-Sama-Sambuga > Sagamuk-Sama-Sambuga > Eastern Acipa"
 wikipedia_url: "https://en.wikipedia.org/wiki/Eastern_Acipa_language"
+translations:
+  - translation_iso: zho
+    name: 东部阿奇帕语
+    auto: true
 rolv_dialects:
   - rolv_code: 6670
     language_tag: acp-x-HIS06670

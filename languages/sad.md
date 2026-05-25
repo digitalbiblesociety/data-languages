@@ -1,7 +1,6 @@
 ---
 iso: sad
 name: Sandawe
-name_zh: 桑达韦语
 autonym: Sandaweeki
 alt_names: [Idioma sandavés, Kisandawe, Lengua Sandawe, Lingua Sandawe, Língua sandawe, Sandaui, Sandavés, Sandawe jezik, Sandawi, Sandwe, Сандаве]
 population: 60000
@@ -13,6 +12,17 @@ longitude: 35.48081
 scripts: [Latn]
 glottocode: sand1273
 wikipedia_url: "https://en.wikipedia.org/wiki/Sandawe_language"
+translations:
+  - translation_iso: ara
+    name: السانداوي
+  - translation_iso: hin
+    name: सन्डावे
+  - translation_iso: jpn
+    name: サンダウェ語
+  - translation_iso: kor
+    name: 산다웨어
+  - translation_iso: zho
+    name: 桑达韦语
 rolv_dialects:
   - rolv_code: 27967
     language_tag: sad-x-HIS27967

@@ -1,8 +1,6 @@
 ---
 iso: psa
 name: Asue Awyu
-name_zh: 阿苏埃阿瓦尤语
-name_zh_auto: true
 autonym: Asuwe Awyu
 alt_names: [Awju Pisa, Awyu (Miaro), "Awyu, Asue", Miaro, Miaro Awyu, Pisa]
 population: 6500
@@ -16,5 +14,9 @@ glottolog_family_id: nucl1709
 glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Asmat-Awyu-Ok > Awyu-Ok > Greater Awyu > Awyu-Dumut > Awyu > Asue Awyu"
 wikipedia_url: "https://en.wikipedia.org/wiki/Pisa_language"
+translations:
+  - translation_iso: zho
+    name: 阿苏埃阿瓦尤语
+    auto: true
 ---
 Pisa, also known as West Awyu and Asue Awyu, is an Awyu language of South Papua, Indonesia.

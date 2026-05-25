@@ -1,8 +1,6 @@
 ---
 iso: nnn
 name: Ngete
-name_zh: 恩格特语
-name_zh_auto: true
 autonym: Lame
 alt_names: ["Ka'do Ngueté", "Nge'dé", Nguetté, Ngueté, Zime]
 population: 10000
@@ -15,4 +13,8 @@ glottocode: nget1241
 glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > Masa > South Masa > Peveic > Hede-Ngide > Ngete"
+translations:
+  - translation_iso: zho
+    name: 恩格特语
+    auto: true
 ---

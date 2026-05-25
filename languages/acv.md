@@ -1,8 +1,6 @@
 ---
 iso: acv
 name: Achumawi
-name_zh: 阿楚马维语
-name_zh_auto: true
 autonym: Achomawi
 alt_names: ["Achoma'wi", Achoumawieg, Achowawi, Lingua achumawi, Pitt River]
 population: 1000
@@ -16,5 +14,11 @@ glottolog_family_id: pala1350
 glottolog_family_name: Palaihnihan
 glottolog_classification: "Palaihnihan > Achumawi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Achumawi_language"
+translations:
+  - translation_iso: jpn
+    name: アチョマウィ語
+  - translation_iso: zho
+    name: 阿楚马维语
+    auto: true
 ---
 The Achumawi language is the indigenous language spoken by the Pit River people in the northeast corner of present-day California. The term Achumawi is an anglicization of the name of the Fall River band, ajúmmááwí, from ajúmmá 'river'. Originally there were nine bands, with dialect differences primarily between upriver and downriver, demarcated by the Big Valley mountains east of the Fall River valley.

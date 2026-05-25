@@ -1,7 +1,6 @@
 ---
 iso: aka
 name: Akan
-name_zh: 阿肯语
 autonym: Akan
 alt_names: [Asante, Fante, Fante Akan, Fanti, Mfantse, Odschi, Otyi, Tuic, Twi, Tšwi]
 population: 8327000
@@ -16,6 +15,17 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Kwa Volta-Congo > Nyo > Potou-Tano > Tano > Central Tano > Akanic > Akan"
 wikipedia_url: "https://en.wikipedia.org/wiki/Akan_language"
+translations:
+  - translation_iso: ara
+    name: اللغة الأكانية
+  - translation_iso: hin
+    name: अकन
+  - translation_iso: jpn
+    name: アカン語
+  - translation_iso: kor
+    name: 아칸어
+  - translation_iso: zho
+    name: 阿肯语
 rolv_dialects:
   - rolv_code: 24238
     language_tag: ak-x-HIS24238

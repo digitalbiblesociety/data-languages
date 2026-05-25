@@ -1,8 +1,6 @@
 ---
 iso: dof
 name: Domu
-name_zh: 多穆语
-name_zh_auto: true
 autonym: Dom
 population: 950
 country_id: PG
@@ -15,5 +13,9 @@ glottolog_family_id: mail1249
 glottolog_family_name: Mailuan
 glottolog_classification: "Mailuan > Domu"
 wikipedia_url: "https://en.wikipedia.org/wiki/Domu_language"
+translations:
+  - translation_iso: zho
+    name: 多穆语
+    auto: true
 ---
 Domu (Dom) is a Papuan language of New Guinea.

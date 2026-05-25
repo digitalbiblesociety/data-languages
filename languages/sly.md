@@ -1,7 +1,6 @@
 ---
 iso: sly
 name: Selayar
-name_zh: 塞拉亞語
 autonym: Basa Silajara
 alt_names: [Salajar, Salayar, Salayer, Saleier, Selayarese, Siladja, Silajara]
 population: 103000
@@ -16,5 +15,10 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Greater South Sulawesi > South Sulawesi > Makassaric > Selayar"
 wikipedia_url: "https://en.wikipedia.org/wiki/Selayar_language"
+translations:
+  - translation_iso: jpn
+    name: スラヤール語
+  - translation_iso: zho
+    name: 塞拉亞語
 ---
 Selayar or Selayarese is a Malayo-Polynesian language spoken by approximately 130,000 people of the Selayar people on the Selayar Islands in the province of South Sulawesi, Indonesia. This language is egalitarian in its use, there are no levels of language, either rough or weak.

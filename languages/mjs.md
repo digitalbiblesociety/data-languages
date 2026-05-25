@@ -1,8 +1,6 @@
 ---
 iso: mjs
 name: Miship
-name_zh: 米希普语
-name_zh_auto: true
 autonym: Chip
 alt_names: [Cip, Ship]
 population: 6000
@@ -16,6 +14,12 @@ glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > West Chadic > West Chadic A > West Chadic A.2-3 > West Chadic A.3 > Kofyar-Mushere-Chip > Miship"
 wikipedia_url: "https://en.wikipedia.org/wiki/Miship_language"
+translations:
+  - translation_iso: jpn
+    name: ミシップ語
+  - translation_iso: zho
+    name: 米希普语
+    auto: true
 rolv_dialects:
   - rolv_code: 14103
     language_tag: mjs-x-HIS14103

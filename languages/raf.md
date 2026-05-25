@@ -1,8 +1,6 @@
 ---
 iso: raf
 name: Western Meohang
-name_zh: 西部美奥汉语
-name_zh_auto: true
 autonym: Mewahang
 alt_names: [Jindā, Meohang, "Meohang, Western", "Meohang,Western", Newahang, Newahang Jimi, Newang, Newange Rai, Rai, Western, Western Mewahang]
 population: 3000
@@ -15,4 +13,8 @@ glottocode: west2422
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Himalayish > Mahakiranti > Kiranti > Eastern Kiranti > Upper Arun > Mewahang > Western Mewahang"
+translations:
+  - translation_iso: zho
+    name: 西部美奥汉语
+    auto: true
 ---

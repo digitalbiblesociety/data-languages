@@ -1,8 +1,6 @@
 ---
 iso: phm
 name: Phimbi
-name_zh: 菲姆比语
-name_zh_auto: true
 autonym: Chinsenga
 alt_names: [Pimbi]
 population: 6000
@@ -15,4 +13,8 @@ glottocode: phim1238
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > East Bantu > Tumbuka-Sena-Nyanja > Sena-Nyanja > Senaic > Phimbi"
+translations:
+  - translation_iso: zho
+    name: 菲姆比语
+    auto: true
 ---

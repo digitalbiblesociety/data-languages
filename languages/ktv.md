@@ -1,8 +1,6 @@
 ---
 iso: ktv
 name: Eastern Katu
-name_zh: 东卡图语
-name_zh_auto: true
 autonym: High Katu
 alt_names: [Attouat, Kantu, Kao, Katu, "Katu, Eastern", Khat, Kontu, Nguôn Ta, Phuang, Phuong, Phuong Catang, Phuong Katu, Ta River Vân Kiêu, Teu, Thap]
 population: 62000
@@ -15,6 +13,10 @@ glottocode: east1236
 glottolog_family_id: aust1305
 glottolog_family_name: Austroasiatic
 glottolog_classification: "Austroasiatic > Katuic > Katu > Nuclear Katu > Eastern Katu"
+translations:
+  - translation_iso: zho
+    name: 东卡图语
+    auto: true
 rolv_dialects:
   - rolv_code: 1800
     language_tag: ktv-x-HIS01800

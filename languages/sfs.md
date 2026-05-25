@@ -1,7 +1,6 @@
 ---
 iso: sfs
 name: South African Sign Language
-name_zh: 南非手语
 autonym: South African Sign Language
 alt_names: [Língua Gestual Sul-Africana, Sørafrikansk tegnspråk]
 population: 1200
@@ -15,5 +14,10 @@ glottolog_family_id: sign1238
 glottolog_family_name: Sign Language
 glottolog_classification: "Sign Language > L1 Sign Language > BSLic > South African Sign > South African Sign Language"
 wikipedia_url: "https://en.wikipedia.org/wiki/South_African_Sign_Language"
+translations:
+  - translation_iso: jpn
+    name: 南アフリカ手話
+  - translation_iso: zho
+    name: 南非手语
 ---
 South African Sign Language is the primary sign language used by deaf people in South Africa. The South African government added a National Language Unit for South African Sign Language in 2001. SASL is not the only manual language used in South Africa but it is being promoted as the language to be used, although Deaf people in South Africa historically do not form a single group.

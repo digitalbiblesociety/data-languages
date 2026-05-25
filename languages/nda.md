@@ -1,8 +1,6 @@
 ---
 iso: nda
 name: Ndasa
-name_zh: 恩达萨语
-name_zh_auto: true
 autonym: Andasa
 alt_names: [Ndash, Ndassa]
 population: 4530
@@ -16,5 +14,11 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > Bantu A-B10-B20-B30 > Bantu B20A > Siguic > Ndasa-Wumbvu > Ndasa"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ndasa_language"
+translations:
+  - translation_iso: jpn
+    name: ンダサ語
+  - translation_iso: zho
+    name: 恩达萨语
+    auto: true
 ---
 Ndasa is a Bantu language spoken in Gabon and the Congo.

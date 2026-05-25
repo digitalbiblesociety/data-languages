@@ -1,7 +1,6 @@
 ---
 iso: bmt
 name: Biao Mon
-name_zh: 标曼话
 autonym: Changping Mien
 alt_names: [Biao Mien, Biaoman, Changping, Man, Mien, Min Yao, Sida Min Yao, Yao]
 population: 20000
@@ -15,6 +14,9 @@ glottolog_family_id: hmon1336
 glottolog_family_name: Hmong-Mien
 glottolog_classification: "Hmong-Mien > Mienic > Mien-Mun > Biao Mon"
 wikipedia_url: "https://en.wikipedia.org/wiki/Biao_Mon_language"
+translations:
+  - translation_iso: zho
+    name: 标曼话
 rolv_dialects:
   - rolv_code: 24471
     language_tag: bmt-x-HIS24471

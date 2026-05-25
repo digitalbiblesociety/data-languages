@@ -1,8 +1,6 @@
 ---
 iso: xpo
 name: Pochutec
-name_zh: 波楚特克语
-name_zh_auto: true
 autonym: "Naguál, nawal"
 alt_names: [Idioma pochuteco, Mexicano, Nahuatl, Nahuatl (Pochutla), Pochuteeks, Pochutekisk, Pochuteko, Pochutl, Pochutla]
 population: null
@@ -16,5 +14,9 @@ glottolog_family_id: utoa1244
 glottolog_family_name: Uto-Aztecan
 glottolog_classification: "Uto-Aztecan > Southern Uto-Aztecan > Corachol-Aztecan > Aztec > Pochutec"
 wikipedia_url: "https://en.wikipedia.org/wiki/Pochutec_language"
+translations:
+  - translation_iso: zho
+    name: 波楚特克语
+    auto: true
 ---
 Pochutec is an extinct Uto-Aztecan language of the Nahuan branch which was spoken in and around the town of Pochutla on the Pacific coast of Oaxaca, Mexico. In 1917, it was documented in a monograph by Franz Boas, who considered the language nearly extinct. In the 1970s, another investigator found two speakers around Pochutla who still remembered a few of the words recorded by Boas.

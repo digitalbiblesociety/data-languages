@@ -1,8 +1,6 @@
 ---
 iso: dkx
 name: Mazagway
-name_zh: 马扎格韦语
-name_zh_auto: true
 autonym: "Mazagway-Hidi"
 alt_names: [Daba]
 population: 17000
@@ -16,6 +14,10 @@ glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > Biu-Mandara > South Biu-Mandara > Dabaic > Daba-Mazagway-Kola > Mazagway"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mazagway_language"
+translations:
+  - translation_iso: zho
+    name: 马扎格韦语
+    auto: true
 rolv_dialects:
   - rolv_code: 9059
     language_tag: dkx-x-HIS09059

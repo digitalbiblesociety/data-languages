@@ -1,7 +1,6 @@
 ---
 iso: mls
 name: Masalit
-name_zh: 马撒利特语
 autonym: kana masalaka/masaraka
 alt_names: [Jwisince, Kaana Masala, Língua masalit, Masale, Masaliteg, Masara, Massalit, Massolit, Mesalit, Масалитски јазик]
 population: null
@@ -16,6 +15,13 @@ glottolog_family_id: maba1274
 glottolog_family_name: Maban
 glottolog_classification: "Maban > Mabang > Maba-Masalit > Macro-Masalit > Masalit"
 wikipedia_url: "https://en.wikipedia.org/wiki/Masalit_language"
+translations:
+  - translation_iso: ara
+    name: لغة المساليت
+  - translation_iso: jpn
+    name: マサリート語
+  - translation_iso: zho
+    name: 马撒利特语
 rolv_dialects:
   - rolv_code: 13805
     language_tag: mls-x-HIS13805

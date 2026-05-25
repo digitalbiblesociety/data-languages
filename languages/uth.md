@@ -1,14 +1,16 @@
 ---
 iso: uth
 name: "ut-Hun"
-name_zh: 乌特-洪语
-name_zh_auto: true
 autonym: Duka
 population: 50000
 country_id: NG
 country_name: Nigeria
 status_id: null
 wikipedia_url: "https://en.wikipedia.org/wiki/Ut-Hun_language"
+translations:
+  - translation_iso: zho
+    name: 乌特-洪语
+    auto: true
 rolv_dialects:
   - rolv_code: 24011
     language_tag: uth-x-HIS24011

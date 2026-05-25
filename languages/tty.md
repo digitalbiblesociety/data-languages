@@ -1,8 +1,6 @@
 ---
 iso: tty
 name: Sikaritai
-name_zh: 西卡里塔伊语
-name_zh_auto: true
 autonym: Tori Aikwakai
 alt_names: [Aikwakai, Araikurioko, Ati, Sikari, Tori]
 population: 800
@@ -16,5 +14,9 @@ glottolog_family_id: lake1255
 glottolog_family_name: Lakes Plain
 glottolog_classification: "Lakes Plain > Tariku > East Tariku > Sikaritai"
 wikipedia_url: "https://en.wikipedia.org/wiki/Sikaritai_language"
+translations:
+  - translation_iso: zho
+    name: 西卡里塔伊语
+    auto: true
 ---
 Sikaritai (Sikwari) is a Lakes Plain language of Papua, Indonesia. It is named after Sikari village in Rufaer District, Mamberamo Raya Regency. Alternate names are Aikwakai, Araikurioko, Ati, Tori, Tori Aikwakai.

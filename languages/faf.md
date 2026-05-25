@@ -1,8 +1,6 @@
 ---
 iso: faf
 name: Fagani
-name_zh: 法加尼语
-name_zh_auto: true
 autonym: Faghani
 alt_names: [Gani, Südliche Salomons-Inseln]
 population: 900
@@ -16,6 +14,10 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Southeast Solomonic > Longgu-Malaita-Makira > Malaita-Makira > Makira > Fagani"
 wikipedia_url: "https://en.wikipedia.org/wiki/Fagani_language"
+translations:
+  - translation_iso: zho
+    name: 法加尼语
+    auto: true
 rolv_dialects:
   - rolv_code: 9737
     language_tag: faf-x-HIS09737

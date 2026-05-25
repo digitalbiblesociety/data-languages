@@ -1,8 +1,6 @@
 ---
 iso: mft
 name: Mokerang
-name_zh: 莫克朗语
-name_zh_auto: true
 autonym: Mokareng
 alt_names: [Admiralitäts-inseln, Mokoreng]
 population: 200
@@ -16,5 +14,9 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Admiralty Islands > Eastern Admiralty Islands > Manus > Mokoreng-Loniu > Mokerang"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mokerang_language"
+translations:
+  - translation_iso: zho
+    name: 莫克朗语
+    auto: true
 ---
 Mokerang is an Austronesian language spoken on Los Negros Island, immediately east of Manus Island in Manus Province, Papua New Guinea.

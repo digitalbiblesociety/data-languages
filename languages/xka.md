@@ -1,7 +1,6 @@
 ---
 iso: xka
 name: Kalkoti
-name_zh: 卡尔克提语
 autonym: null
 alt_names: [Dardu]
 population: 4000
@@ -15,5 +14,12 @@ glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Indo-Aryan > Middle-Modern Indo-Aryan > Eastern Dardic > Nuclear Eastern Dardic > Shinaic > Western Shinaic > Dangari > Kalkoti"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kalkoti_language"
+translations:
+  - translation_iso: hin
+    name: कलकोटी भाषा
+  - translation_iso: jpn
+    name: カルコート語
+  - translation_iso: zho
+    name: 卡尔克提语
 ---
 Kalkoti, also known as Goedijaa, is an Indo-Aryan language spoken in the Kalkot Tehsil, in the Upper Dir district in Pakistan.

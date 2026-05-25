@@ -1,7 +1,6 @@
 ---
 iso: apd
 name: Sudanese Arabic
-name_zh: 蘇丹阿拉伯語
 autonym: لهجة سودانية
 alt_names: [Arabeg Soudan, Arabic, "Arabic, Sudanese", "Arabic, Sudanese Spoken", Khartoum Arabic, Sudanese, Sudanesisch-Arabisch, Sudanski arapski, Судански арапски јазик]
 population: 31900000
@@ -16,6 +15,15 @@ glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Semitic > West Semitic > Central Semitic > Arabian > Arabic > Egyptic Arabic > Egypto-Sudanic Arabic > Sudanese-Chadian Arabic > East Sudanic Arabic > Sudanese Arabic"
 wikipedia_url: "https://en.wikipedia.org/wiki/Sudanese_Arabic"
+translations:
+  - translation_iso: ara
+    name: لهجة سودانية
+  - translation_iso: jpn
+    name: アラビア語スーダン方言
+  - translation_iso: kor
+    name: 수단 아랍어
+  - translation_iso: zho
+    name: 蘇丹阿拉伯語
 rolv_dialects:
   - rolv_code: 905
     language_tag: ar-SU-x-HIS00905

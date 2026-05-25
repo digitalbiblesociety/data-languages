@@ -1,8 +1,6 @@
 ---
 iso: xks
 name: Kumbewaha
-name_zh: 昆贝瓦哈语
-name_zh_auto: true
 autonym: Kumberaha
 alt_names: [Umbewaha]
 population: 3400
@@ -16,5 +14,9 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Celebic > Greater Eastern Celebic > Eastern Celebic > Southeastern Celebic > Muna-Buton > Nuclear Muna-Buton > Butonic > East Buton > Kumbewaha"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kumbewaha_language"
+translations:
+  - translation_iso: zho
+    name: 昆贝瓦哈语
+    auto: true
 ---
 Kumbewaha (Umbewaha) is an Austronesian language spoken on Buton Island off the southeast coast of Sulawesi in Indonesia.

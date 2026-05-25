@@ -1,7 +1,6 @@
 ---
 iso: xld
 name: Lydian
-name_zh: 呂底亞語
 autonym: 𐤮𐤱𐤠𐤭𐤣𐤶𐤯𐤦𐤳
 alt_names: [Język lidyjski, Lidi, Lidijski jezik, Lidijščina, Lidya dili, Lingua Lydia, Lingua lidia, Lydien, Lydische Sprache, Lydisk språk, Lydiska, Lyydian kieli, Lýdčina, Лидийский язык, Лидиски јазик, Лідійська мова, زبان لیدیایی, ภาษาไลเดีย, 리디아어]
 population: null
@@ -16,5 +15,14 @@ glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Anatolian > Luvo-Lydian > Lydian"
 wikipedia_url: "https://en.wikipedia.org/wiki/Lydian_language"
+translations:
+  - translation_iso: ara
+    name: اللوذية
+  - translation_iso: jpn
+    name: リディア語
+  - translation_iso: kor
+    name: 리디아어
+  - translation_iso: zho
+    name: 呂底亞語
 ---
 Lydian is an extinct Indo-European Anatolian language spoken in the region of Lydia, in western Anatolia. The language is attested in graffiti and in coin legends from the late 8th century or the early 7th century to the 3rd century BCE, but well-preserved inscriptions of significant length are so far limited to the 5th century and the 4th century BCE, during the period of Persian domination. Thus, Lydian texts are effectively contemporaneous with those in Lycian.

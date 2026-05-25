@@ -1,8 +1,6 @@
 ---
 iso: emb
 name: Embaloh
-name_zh: 埃姆巴洛语
-name_zh_auto: true
 autonym: Malo
 alt_names: [Dayak, Maloh, Matoh, Mbaloh, Memaloh, Palin, Pari, Sangau, Sanggau]
 population: 10000
@@ -16,6 +14,10 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Greater South Sulawesi > South Sulawesi > Tamanic-Bugis > Tamanic > Embaloh"
 wikipedia_url: "https://en.wikipedia.org/wiki/Embaloh_language"
+translations:
+  - translation_iso: zho
+    name: 埃姆巴洛语
+    auto: true
 rolv_dialects:
   - rolv_code: 9547
     language_tag: emb-x-HIS09547

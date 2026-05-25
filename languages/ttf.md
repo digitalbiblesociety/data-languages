@@ -1,8 +1,6 @@
 ---
 iso: ttf
 name: Tuotomb
-name_zh: 图奥图姆语
-name_zh_auto: true
 autonym: Bonek
 alt_names: [Ponek, Tuotom, Tuotombo]
 population: 1000
@@ -16,5 +14,9 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > Mbam-Bubi > Mbam > Nuclear Mbam > Sanaga-West Mbam (A.40) > West Mbam (A.40) > Tuotomb"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tuotomb_language"
+translations:
+  - translation_iso: zho
+    name: 图奥图姆语
+    auto: true
 ---
 Tuotomb, or Bonek, is a Mbam language of Cameroon. Its speakers can be found in Bonek near Ndikinemeki, Cameroon. It is classified as endangered by Ethnologue.

@@ -1,8 +1,6 @@
 ---
 iso: org
 name: Oring
-name_zh: 奥林语
-name_zh_auto: true
 autonym: Koring
 alt_names: [Orri, Orrin, Orringorrin]
 population: 12300
@@ -16,6 +14,10 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Delta Cross > Upper Cross > Central Upper Cross > North-South Central Delta Cross > Koring-Kukele > Oring"
 wikipedia_url: "https://en.wikipedia.org/wiki/Korring"
+translations:
+  - translation_iso: zho
+    name: 奥林语
+    auto: true
 rolv_dialects:
   - rolv_code: 2131
     language_tag: org-x-HIS02131

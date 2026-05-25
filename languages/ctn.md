@@ -1,8 +1,6 @@
 ---
 iso: ctn
 name: Chhintange
-name_zh: 钦塔恩格语
-name_zh_auto: true
 autonym: छिन्ताङ्
 alt_names: [Chhintang, Chintang, Chintang RÃ»ng, Chintang Rûng, Chintang language, Chintán, Tchintangeg, Teli]
 population: 1500
@@ -16,6 +14,12 @@ glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Himalayish > Mahakiranti > Kiranti > Eastern Kiranti > Tamar > Chintang"
 wikipedia_url: "https://en.wikipedia.org/wiki/Chintang_language"
+translations:
+  - translation_iso: hin
+    name: छिन्ताङ
+  - translation_iso: zho
+    name: 钦塔恩格语
+    auto: true
 rolv_dialects:
   - rolv_code: 24722
     language_tag: ctn-x-HIS24722

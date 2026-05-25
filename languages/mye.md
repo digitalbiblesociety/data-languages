@@ -1,7 +1,6 @@
 ---
 iso: mye
 name: Myene
-name_zh: 姆耶內語
 autonym: Omyene
 alt_names: [Mpongue, Mpongwe, Mpongwée, Myènè, Pangwe, Pongoué, Pongue]
 population: 45000
@@ -15,6 +14,13 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > Bantu A-B10-B20-B30 > B10-B30 > Myene"
 wikipedia_url: "https://en.wikipedia.org/wiki/Myene_language"
+translations:
+  - translation_iso: jpn
+    name: ミエネ語
+  - translation_iso: kor
+    name: 미예네어
+  - translation_iso: zho
+    name: 姆耶內語
 rolv_dialects:
   - rolv_code: 14479
     language_tag: mye-x-HIS14479

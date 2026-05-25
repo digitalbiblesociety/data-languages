@@ -1,8 +1,6 @@
 ---
 iso: oog
 name: Ong
-name_zh: 翁语
-name_zh_auto: true
 autonym: Ta Oi
 alt_names: [Hantong, "Hantong'", "Lower Ta'oih", Tong]
 population: 10300
@@ -15,4 +13,8 @@ glottocode: ongg1239
 glottolog_family_id: aust1305
 glottolog_family_name: Austroasiatic
 glottolog_classification: "Austroasiatic > Katuic > Ta'oihic > Ong-Ta'oih > Ong-Ir"
+translations:
+  - translation_iso: zho
+    name: 翁语
+    auto: true
 ---

@@ -1,7 +1,6 @@
 ---
 iso: akp
 name: Siwu
-name_zh: Siwu語
 autonym: Siwusi
 alt_names: [Akpafu, Akpafu-Lolobi, Lolobi-Akpafu]
 population: 71900
@@ -15,6 +14,9 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Kwa Volta-Congo > Na-Togo > Lelemic > Lelemi-Akpafu > Siwu"
 wikipedia_url: "https://en.wikipedia.org/wiki/Siwu_language"
+translations:
+  - translation_iso: zho
+    name: Siwu語
 rolv_dialects:
   - rolv_code: 16774
     language_tag: akp-x-HIS16774

@@ -1,7 +1,6 @@
 ---
 iso: tts
 name: Northeastern Thai
-name_zh: 伊善语
 autonym: " Lao Isan"
 alt_names: [Isaan, Isan, Isan language, Isaneg, Isarna lingvo, Issan, Kaleung, "Kha Lu'ng", Kha Lung, Kha-Lɯɱ, Thai Isaan, "Thai, Northeastern", Исански език, ภาษาไทยถิ่นอีสาน, イーサーン語, 이싼어]
 population: 15000000
@@ -16,6 +15,13 @@ glottolog_family_id: taik1256
 glottolog_family_name: Tai-Kadai
 glottolog_classification: "Tai-Kadai > Kam-Tai > Daic-Beic > Daic > Central-Southwestern Tai > Wenma-Southwestern Tai > Sapa-Southwestern Tai > Southwestern Tai > Southwestern Thai PH > Lao-Thai > Sakon Nakhon > Northeastern Thai"
 wikipedia_url: "https://en.wikipedia.org/wiki/Isan_language"
+translations:
+  - translation_iso: jpn
+    name: イーサーン語
+  - translation_iso: kor
+    name: 이산어
+  - translation_iso: zho
+    name: 伊善语
 rolv_dialects:
   - rolv_code: 17418
     language_tag: tts-x-HIS17418

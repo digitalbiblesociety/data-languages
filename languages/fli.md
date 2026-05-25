@@ -1,8 +1,6 @@
 ---
 iso: fli
 name: Fali
-name_zh: 法利语
-name_zh_auto: true
 autonym: Fali of Mubi
 alt_names: [Fali jezik, Fali of Muchella, Falieg, Group 11, Vimtim, Yimtim]
 population: 25000
@@ -16,6 +14,10 @@ glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > Biu-Mandara > South Biu-Mandara > Bataic > Gudeic > Gude-Jimi-Zizilivakan > Fali-Gude > Fali"
 wikipedia_url: "https://en.wikipedia.org/wiki/Fali_of_Mubi"
+translations:
+  - translation_iso: zho
+    name: 法利语
+    auto: true
 rolv_dialects:
   - rolv_code: 9752
     language_tag: fli-x-HIS09752

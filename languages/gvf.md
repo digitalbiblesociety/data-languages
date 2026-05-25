@@ -1,8 +1,6 @@
 ---
 iso: gvf
 name: Golin
-name_zh: 戈林语
-name_zh_auto: true
 autonym: null
 alt_names: [Chimbu, Gollum, Gumine]
 population: 51100
@@ -16,6 +14,12 @@ glottolog_family_id: nucl1709
 glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Chimbu-Wahgi > Simbu > Nuclear Simbu > Golinic > Golin"
 wikipedia_url: "https://en.wikipedia.org/wiki/Golin_language"
+translations:
+  - translation_iso: jpn
+    name: ゴリン語
+  - translation_iso: zho
+    name: 戈林语
+    auto: true
 rolv_dialects:
   - rolv_code: 10286
     language_tag: gvf-x-HIS10286

@@ -1,8 +1,6 @@
 ---
 iso: ruz
 name: Ruma
-name_zh: 鲁玛语
-name_zh_auto: true
 autonym: Turuma
 alt_names: [Bagwama, Rurama, Ruruma, Turama]
 population: 5090
@@ -16,5 +14,9 @@ glottolog_family_id: unat1236
 glottolog_family_name: Unattested
 glottolog_classification: "Unattested > Atlantic-Congo (Unattested) > Ruma"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ruma_language"
+translations:
+  - translation_iso: zho
+    name: 鲁玛语
+    auto: true
 ---
 Ruma (Ruruma) is a Kainji language of Nigeria.

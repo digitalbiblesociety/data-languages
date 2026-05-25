@@ -1,8 +1,6 @@
 ---
 iso: vbk
 name: Southwestern Bontok
-name_zh: 西南邦托克语
-name_zh_auto: true
 autonym: Finallig
 alt_names: ["Bontok, Southwestern"]
 population: 2470
@@ -10,6 +8,12 @@ country_id: PH
 country_name: Philippines
 status_id: 8a
 wikipedia_url: "https://en.wikipedia.org/wiki/Southwestern_Bontoc"
+translations:
+  - translation_iso: jpn
+    name: 南西ボントク語
+  - translation_iso: zho
+    name: 西南邦托克语
+    auto: true
 rolv_dialects:
   - rolv_code: 26171
     language_tag: vbk-x-HIS26171

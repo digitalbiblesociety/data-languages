@@ -1,8 +1,6 @@
 ---
 iso: fuu
 name: Furu
-name_zh: 富鲁语
-name_zh_auto: true
 autonym: Bagero
 alt_names: [Bagiro, Baguero, Baguiro]
 population: 12000
@@ -16,6 +14,10 @@ glottolog_family_id: cent2225
 glottolog_family_name: Central Sudanic
 glottolog_classification: "Central Sudanic > Sara-Bongo-Bagirmi > SBB Occidental > Nuclear SBB Occidental > Saraic > Sara Peripherique > Barh Keita > Furu"
 wikipedia_url: "https://en.wikipedia.org/wiki/Furu_language"
+translations:
+  - translation_iso: zho
+    name: 富鲁语
+    auto: true
 rolv_dialects:
   - rolv_code: 30399
     language_tag: fuu-x-HIS30399

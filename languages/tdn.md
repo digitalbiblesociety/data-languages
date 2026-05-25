@@ -1,8 +1,6 @@
 ---
 iso: tdn
 name: Tondano
-name_zh: 通达诺语
-name_zh_auto: true
 autonym: Tolou
 alt_names: [Tolour, Tondanou, Toulour]
 population: 9560
@@ -16,6 +14,12 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Sangiric-Minahasan > Minahasan > North Minahasan > Northeast Minahasan > Tondano"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tondano_language"
+translations:
+  - translation_iso: jpn
+    name: トンダノ語
+  - translation_iso: zho
+    name: 通达诺语
+    auto: true
 rolv_dialects:
   - rolv_code: 803
     language_tag: tdn-x-HIS00803

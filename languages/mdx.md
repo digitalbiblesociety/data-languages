@@ -1,8 +1,6 @@
 ---
 iso: mdx
 name: Dizin
-name_zh: 迪津语
-name_zh_auto: true
 autonym: Dizi
 alt_names: [Dizi jezik, Dizi-Maji, Dizu, Maji, Sizi, Twoyu]
 population: 33900
@@ -16,6 +14,10 @@ glottolog_family_id: dizo1235
 glottolog_family_name: Dizoid
 glottolog_classification: "Dizoid > Dizin"
 wikipedia_url: "https://en.wikipedia.org/wiki/Dizin_language"
+translations:
+  - translation_iso: zho
+    name: 迪津语
+    auto: true
 ---
 Dizin is an Omotic language of the Afro-Asiatic language family spoken by the Dizi people, primarily in the Maji woreda of the Southern Nations, Nationalities and Peoples Region, located in southwestern Ethiopia. The 2007 census listed 33,927 speakers. 
 A population of 17,583 was identified as monolinguals in 1994.

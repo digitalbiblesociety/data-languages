@@ -1,7 +1,6 @@
 ---
 iso: zau
 name: Zangskari
-name_zh: 桑斯嘎语
 autonym: Zanskari
 alt_names: ["Z'angkar", Zangs-dkar, Zaskari]
 population: 12000
@@ -15,5 +14,10 @@ glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Bodic > Bodish > Early Old Tibetan > Western Archaic Tibetan > Kenhatic > Zangskari"
 wikipedia_url: "https://en.wikipedia.org/wiki/Zangskari_language"
+translations:
+  - translation_iso: hin
+    name: ज़ंग्सकरी भाषा
+  - translation_iso: zho
+    name: 桑斯嘎语
 ---
 Zangskari is an endangered Tibetic language. It is a dialect of the Ladakhi language. It is mostly spoken in the Zanskar region of the Kargil district of Ladakh, India and also by Buddhists in the upper reaches of Lahaul, Himachal Pradesh, and Paddar, Jammu and Kashmir. It is written using the Tibetan script.

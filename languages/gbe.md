@@ -1,8 +1,6 @@
 ---
 iso: gbe
 name: Niksek
-name_zh: 尼克塞克语
-name_zh_auto: true
 autonym: Meiyari
 alt_names: [Gabiano, Paka, Setiali, Sumwari]
 population: 930
@@ -16,6 +14,10 @@ glottolog_family_id: sepi1257
 glottolog_family_name: Sepik
 glottolog_classification: "Sepik > Sepik Hill > Western Sepik Hill > Hewa-April River > Niksek"
 wikipedia_url: "https://en.wikipedia.org/wiki/Niksek_language"
+translations:
+  - translation_iso: zho
+    name: 尼克塞克语
+    auto: true
 rolv_dialects:
   - rolv_code: 14983
     language_tag: gbe-x-HIS14983

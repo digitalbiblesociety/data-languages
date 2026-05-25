@@ -1,8 +1,6 @@
 ---
 iso: dup
 name: Duano
-name_zh: 杜阿诺语
-name_zh_auto: true
 autonym: Desin Dolak
 alt_names: ["Desin Dola'", "Duano'", Orang Kuala]
 population: 15000
@@ -16,5 +14,9 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Malayo-Chamic > Malayic > Duano"
 wikipedia_url: "https://en.wikipedia.org/wiki/Duano%CA%BC_language"
+translations:
+  - translation_iso: zho
+    name: 杜阿诺语
+    auto: true
 ---
 Duanoʼ is a Malayic language of Indonesia and Malaysia. In Malaysia the language is moribund, being spoken by only a tenth of the ethnic population.

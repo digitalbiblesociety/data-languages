@@ -1,8 +1,6 @@
 ---
 iso: apb
 name: "Sa'a"
-name_zh: 萨亚语
-name_zh_auto: true
 autonym: "Apae'aa"
 alt_names: [Malaita (South), "Sa'a jezik", Saa, South Malaita, Südliche Salomons-Inseln, Ulawa]
 population: 11500
@@ -16,6 +14,12 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Southeast Solomonic > Longgu-Malaita-Makira > Malaita-Makira > Sa'a"
 wikipedia_url: "https://en.wikipedia.org/wiki/Sa%CA%BCa_language"
+translations:
+  - translation_iso: jpn
+    name: サア語
+  - translation_iso: zho
+    name: 萨亚语
+    auto: true
 rolv_dialects:
   - rolv_code: 3670
     language_tag: apb-x-HIS03670

@@ -1,8 +1,6 @@
 ---
 iso: gss
 name: Greek Sign Language
-name_zh: 希腊手语
-name_zh_auto: true
 autonym: Ελληνική νοηματική γλώσσα
 population: 11000
 country_id: GR
@@ -15,5 +13,11 @@ glottolog_family_id: sign1238
 glottolog_family_name: Sign Language
 glottolog_classification: "Sign Language > L1 Sign Language > LSFic > Greek Sign Language"
 wikipedia_url: "https://en.wikipedia.org/wiki/Greek_Sign_Language"
+translations:
+  - translation_iso: jpn
+    name: ギリシャ手話
+  - translation_iso: zho
+    name: 希腊手语
+    auto: true
 ---
 Greek Sign Language is a sign language used by the Greek deaf community.

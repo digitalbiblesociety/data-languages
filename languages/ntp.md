@@ -1,8 +1,6 @@
 ---
 iso: ntp
 name: Northern Tepehuan
-name_zh: 北特佩瓦语
-name_zh_auto: true
 autonym: "O'otham"
 alt_names: [N Tepehuan, N. Tepehuan, North Tepehuane, Northern Tepehuán, Northern Tepewan, Tepahue (Northern), Tepeguana, Tepehuan (Northern), "Tepehuan, Northern", Tepehuán (Norte), Tepehuán del Norte, Tepiman]
 population: 9570
@@ -15,6 +13,10 @@ glottocode: nort2959
 glottolog_family_id: utoa1244
 glottolog_family_name: Uto-Aztecan
 glottolog_classification: "Uto-Aztecan > Southern Uto-Aztecan > Tepiman > Tepehuan > Northern Tepehuan"
+translations:
+  - translation_iso: zho
+    name: 北特佩瓦语
+    auto: true
 rolv_dialects:
   - rolv_code: 28766
     language_tag: ntp-x-HIS-28766

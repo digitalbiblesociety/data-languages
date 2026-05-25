@@ -1,8 +1,6 @@
 ---
 iso: kyf
 name: Kouya
-name_zh: 库亚语
-name_zh_auto: true
 autonym: null
 alt_names: [Kowya, Kuya, Sokya]
 population: 10100
@@ -16,5 +14,9 @@ glottolog_family_id: krua1234
 glottolog_family_name: Kru
 glottolog_classification: "Kru > Eastern Kru > Beteic > Eastern Bete > Kouya"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kuya_language"
+translations:
+  - translation_iso: zho
+    name: 库亚语
+    auto: true
 ---
 Kuya is a Kru language of Ivory Coast. The language was first put in written form in the 1980s.

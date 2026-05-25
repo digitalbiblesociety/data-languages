@@ -1,8 +1,6 @@
 ---
 iso: ibe
 name: Akpes
-name_zh: 阿克佩斯语
-name_zh_auto: true
 autonym: Abesabesi
 alt_names: [Akpes jezici, Akpeseg, Ibaram-Efifa, Lenga Akpes, Lingua akpes]
 population: 10000
@@ -16,6 +14,10 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Akpes-Edoid > Akpes"
 wikipedia_url: "https://en.wikipedia.org/wiki/Akpes_language"
+translations:
+  - translation_iso: zho
+    name: 阿克佩斯语
+    auto: true
 rolv_dialects:
   - rolv_code: 6834
     language_tag: ibe-x-HIS06834

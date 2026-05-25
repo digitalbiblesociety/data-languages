@@ -1,8 +1,6 @@
 ---
 iso: nyy
 name: "Nyakyusa-Ngonde"
-name_zh: 尼亚基尤萨-恩贡德语
-name_zh_auto: true
 autonym: Ngonde
 alt_names: [Ikingonde, Ikinyakyusa, Kinyakyusa, Konde, Kukwe, Mombe, Nkhonde, Nkonde, Nyakusa, Nyekyosa, Nyikyusa, Sochile, Sokile, Sokili]
 population: 1359000
@@ -16,6 +14,12 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > East Bantu > Corridor Bantu > Nyakyusa-Ndali > Nyakyusa-Ngonde"
 wikipedia_url: "https://en.wikipedia.org/wiki/Nyakyusa_language"
+translations:
+  - translation_iso: jpn
+    name: ニャキュサ語
+  - translation_iso: zho
+    name: 尼亚基尤萨-恩贡德语
+    auto: true
 rolv_dialects:
   - rolv_code: 1051
     language_tag: nyy-x-HIS01051

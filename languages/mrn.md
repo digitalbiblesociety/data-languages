@@ -1,8 +1,6 @@
 ---
 iso: mrn
 name: Cheke Holo
-name_zh: 切克·霍洛语
-name_zh_auto: true
 autonym: "A'ara"
 alt_names: [Holo, Kubonitu, Maring, Maring (Trans New Guinea), Maringe]
 population: 10800
@@ -16,6 +14,10 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > Meso Melanesian linkage > New Ireland-Northwest Solomonic linkage > St George linkage > Northwest Solomonic > Santa Isabel > East Santa Isabel > Cheke Holo"
 wikipedia_url: "https://en.wikipedia.org/wiki/Cheke_Holo_language"
+translations:
+  - translation_iso: zho
+    name: 切克·霍洛语
+    auto: true
 rolv_dialects:
   - rolv_code: 3641
     language_tag: mrn-x-HIS03641

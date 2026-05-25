@@ -1,8 +1,6 @@
 ---
 iso: nam
 name: "Ngan'gityemerri"
-name_zh: 恩冈吉蒂耶梅里语
-name_zh_auto: true
 autonym: Nangikurrunggurr
 alt_names: [Marityemeri, Moil, Nangikurunggurr, Nangityemeri, "Ngan'gikurunggurr", "Ngan'gityemeri", Ngangikarangurr, Ngangikurongor, Ngangikurrunggurr, Ngangikurrunggurr language, Ngangikurrungur, Ngankikurrunkurr, Ngankikurungkurr, Ngenkikurrunggur, Ngenkikurunggkur, Ngenkityemeri, Tyemeri]
 population: 220
@@ -16,5 +14,11 @@ glottolog_family_id: sout2772
 glottolog_family_name: Southern Daly
 glottolog_classification: "Southern Daly > Nangikurrunggurr"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ngan%27gi_language"
+translations:
+  - translation_iso: jpn
+    name: ガンギテメリ語
+  - translation_iso: zho
+    name: 恩冈吉蒂耶梅里语
+    auto: true
 ---
 Ngan'gi, formerly known as Ngan'gityemerri, and also known as Ngan'gikurunggurr, Moil/Moyle, Tyemeri/Tyemerri, Marityemeri, and Nordaniman, is an Australian Aboriginal language spoken in the Daly River region of Australiaʼs Northern Territory. There are three mutually intelligible dialects, with the two sister dialects known as Ngen'giwumirri and Ngan'gimerri.

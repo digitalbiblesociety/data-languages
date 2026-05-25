@@ -1,7 +1,6 @@
 ---
 iso: hal
 name: Halang
-name_zh: 哈朗语
 autonym: Koyong
 alt_names: [Alang, Halangeg, Haleng, Halong, Kolong, Salang, Selong, ภาษาฮาลัง]
 population: 13500
@@ -15,5 +14,8 @@ glottolog_family_id: aust1305
 glottolog_family_name: Austroasiatic
 glottolog_classification: "Austroasiatic > Bahnaric > North Bahnaric > Kayong-Jeh-Halang > Jeh-Halang > Halang"
 wikipedia_url: "https://en.wikipedia.org/wiki/Halang_language"
+translations:
+  - translation_iso: zho
+    name: 哈朗语
 ---
 Halang, also known as Salang, is a Bahnaric language of the Mon–Khmer branch of the Austroasiatic language family. It is spoken in the southern Laotian province of Attapu by approximately 4,000 people and in the neighboring Kon Tum Province of Vietnam by approximately 13,000 people. In Vietnam, Halang is spoken in Đắk Na Commune, Đắk Tô District, Kon Tum Province

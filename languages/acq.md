@@ -1,7 +1,6 @@
 ---
 iso: acq
 name: "Ta'izzi-Adeni Arabic"
-name_zh: 塔伊茲-亞丁阿拉伯語
 autonym: Southern Yemeni Spoken Arabic
 alt_names: [Arabic, "Arabic, Ta'izzi-Adeni", "Arabic, Ta'izzi-Adeni Spoken", Djibouti Arabic, Yemeni Arabic, Јеменски арапски јазик, لهجة يمنية]
 population: 10500000
@@ -15,6 +14,15 @@ glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Semitic > West Semitic > Central Semitic > Arabian > Arabic > Arabian Peninsula Arabic > Ta'izzi-Adeni Arabic"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ta%CA%BDizzi-Adeni_Arabic"
+translations:
+  - translation_iso: ara
+    name: لهجة تعزية-عدنية
+  - translation_iso: hin
+    name: ताज़ी अदनी अरबी
+  - translation_iso: jpn
+    name: アラビア語南イエメン方言
+  - translation_iso: zho
+    name: 塔伊茲-亞丁阿拉伯語
 rolv_dialects:
   - rolv_code: 3354
     language_tag: acq-x-HIS03354

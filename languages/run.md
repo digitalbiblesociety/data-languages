@@ -1,7 +1,6 @@
 ---
 iso: run
 name: Rundi
-name_zh: 基隆迪语
 autonym: Ikirundi
 alt_names: [Bahasa Kirundi, Burunda lingvo, Idioma kirundi, Język rundi, Kirundi, Lingua kirundi, Língua kirundi, Rundi jezik, Rundi simi, Rundum, Urundi, Кирунди, Рунди, קירונדי, கிருண்டி மொழி, ルンディ語, 基隆迪语]
 population: 10800000
@@ -16,6 +15,17 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > East Bantu > Northeast Savanna Bantu > Great Lakes Bantu > Western Lakes Bantu > Kivu > West Highlands Kivu > Rundic > Rundi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kirundi"
+translations:
+  - translation_iso: ara
+    name: الكيروندية
+  - translation_iso: hin
+    name: किरुण्डी भाषा
+  - translation_iso: jpn
+    name: ルンディ語
+  - translation_iso: kor
+    name: 키룬디어
+  - translation_iso: zho
+    name: 基隆迪语
 rolv_dialects:
   - rolv_code: 26646
     language_tag: rn-x-HIS26646

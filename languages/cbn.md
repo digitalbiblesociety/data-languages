@@ -1,7 +1,6 @@
 ---
 iso: cbn
 name: Nyahkur
-name_zh: 涅固尔语
 autonym: Chaobon
 alt_names: ["\"Chaobon\"", "\"Chaodon\"", Chaodon, Lawa, Niakuol, Niakuoll, Nyah Kur, Nyah Kur (Tha Pong), Nyakur, Tha Pong dialect, Ñahkur]
 population: 1500
@@ -15,5 +14,10 @@ glottolog_family_id: aust1305
 glottolog_family_name: Austroasiatic
 glottolog_classification: "Austroasiatic > Monic > Nyahkur"
 wikipedia_url: "https://en.wikipedia.org/wiki/Nyah_Kur_language"
+translations:
+  - translation_iso: jpn
+    name: ニャークル語
+  - translation_iso: zho
+    name: 涅固尔语
 ---
 The Nyah Kur language, also called Chao-bon, is an Austroasiatic language spoken by remnants of the Mon people of Dvaravati, the Nyah Kur people, who live in present-day Thailand. Nyah Kur shares 69% lexical similarity with Mon, the only other language in the Monic language family.

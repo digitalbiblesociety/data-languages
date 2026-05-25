@@ -1,8 +1,6 @@
 ---
 iso: dwr
 name: Dawro
-name_zh: 达乌罗语
-name_zh_auto: true
 autonym: null
 alt_names: [Konta, Kullo]
 population: 513000
@@ -16,6 +14,10 @@ glottolog_family_id: gong1255
 glottolog_family_name: Ta-Ne-Omotic
 glottolog_classification: "Ta-Ne-Omotic > Ometo > North-West Ometo > Central Ometo > Dawro-Gofa-Gamo > Dawro"
 wikipedia_url: "https://en.wikipedia.org/wiki/Dawro"
+translations:
+  - translation_iso: zho
+    name: 达乌罗语
+    auto: true
 rolv_dialects:
   - rolv_code: 20345
     language_tag: dwr-x-HIS20345

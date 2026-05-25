@@ -1,8 +1,6 @@
 ---
 iso: agf
 name: Arguni
-name_zh: 阿尔古尼语
-name_zh_auto: true
 autonym: Argoeni
 population: 150
 country_id: ID
@@ -15,5 +13,9 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Tanimbar-Bomberai > Nuta > Arguni"
 wikipedia_url: "https://en.wikipedia.org/wiki/Arguni_language"
+translations:
+  - translation_iso: zho
+    name: 阿尔古尼语
+    auto: true
 ---
 Arguni is a minor Austronesian language of the north coast of the Bomberai Peninsula in western New Guinea.

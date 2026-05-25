@@ -1,8 +1,6 @@
 ---
 iso: tdk
 name: Tambas
-name_zh: 坦巴斯语
-name_zh_auto: true
 autonym: Tambes
 alt_names: [Fier, Fyer, Tembis]
 population: 3000
@@ -16,5 +14,9 @@ glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > West Chadic > West Chadic A > West Chadic A.4 > Fyer-Tambas > Tambas"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tambas_language"
+translations:
+  - translation_iso: zho
+    name: 坦巴斯语
+    auto: true
 ---
 Tambas is a West Chadic language spoken in Plateau State, Nigeria.

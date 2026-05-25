@@ -1,8 +1,6 @@
 ---
 iso: nju
 name: Ngadjunmaya
-name_zh: 恩加德朱姆亚语
-name_zh_auto: true
 autonym: Badonjunga
 alt_names: ["Ba:donjunga", Bardojunga, Bardok, Buljigu, Fraser Range tribe, Galagu, Kalako, Malba, Marlba, Marlpa, Minninng, Mirning-Ngadjunma-Kalarko, Ngadju, "Ngadju:", Ngadjumaja, Ngadjumaya / Ngadju, Ngadjunma, Ngadjunma/Marlba, Ngadjunmaia, Ngadjunpakara, Ngadjunpukara, Ngadyumaya, Ngadyunma, Ngatju, Ngatjumay, Ngatjumaya, Ngatjunmay, Ngatjunmaya, Ngatyumaya, Norseman, Pardoak, Tchaakalaaga, Wangka Malpa, West Meening, West Mining, adonjunga]
 population: 10
@@ -16,5 +14,9 @@ glottolog_family_id: pama1250
 glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > South-West Pama-Nyungan > Mirning > Ngadjunmaya"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ngadjunmaya_language"
+translations:
+  - translation_iso: zho
+    name: 恩加德朱姆亚语
+    auto: true
 ---
 Ngadjunmaya, correctly known as Ngadjumaya, is a Pama–Nyungan language of Western Australia that is located in the Goldfields-Esperance region.

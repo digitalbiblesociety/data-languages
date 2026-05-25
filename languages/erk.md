@@ -1,7 +1,6 @@
 ---
 iso: erk
 name: South Efate
-name_zh: 南埃法特语
 autonym: South Efate
 alt_names: ["Efate, South", Erakor, Fate, Southern Efate, Éfaté du Sud]
 population: 6000
@@ -15,6 +14,13 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > North and Central Vanuatu > Central Vanuatu > Epi-Efate > Efate-Shepherds > Efate > South Efatic > Nafsan"
 wikipedia_url: "https://en.wikipedia.org/wiki/Nafsan_language"
+translations:
+  - translation_iso: jpn
+    name: 南エファテ語
+  - translation_iso: kor
+    name: 남에파테어
+  - translation_iso: zho
+    name: 南埃法特语
 rolv_dialects:
   - rolv_code: 4498
     language_tag: erk-x-HIS04498

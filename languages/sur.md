@@ -1,8 +1,6 @@
 ---
 iso: sur
 name: Mwaghavul
-name_zh: 穆瓦盖哈武尔语
-name_zh_auto: true
 autonym: Sura
 alt_names: [Cakfem-Mushere, Chakfem, Chakfem-Mushere, Chokfem, Jajura, Kadim-Kaban, Maghavul, Mupun, Mwaghavul (Mupun)]
 population: 150000
@@ -16,6 +14,10 @@ glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > West Chadic > West Chadic A > West Chadic A.2-3 > West Chadic A.3 > Mwaghavul"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mwaghavul_language"
+translations:
+  - translation_iso: zho
+    name: 穆瓦盖哈武尔语
+    auto: true
 rolv_dialects:
   - rolv_code: 2506
     language_tag: sur-x-HIS02506

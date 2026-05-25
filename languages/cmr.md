@@ -1,8 +1,6 @@
 ---
 iso: cmr
 name: "Mro-Khimi Chin"
-name_zh: 姆罗-希米钦语
-name_zh_auto: true
 autonym: Mro
 alt_names: ["Chin, Mro", "Chin, Mro-Khimi", "Chin,Mro", Mro Chin]
 population: 200000
@@ -16,6 +14,10 @@ glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Kuki-Chin-Naga > Kuki-Chin > Peripheral Kuki-Chin > Khomic > Mro Chin"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mro-Khimi_language"
+translations:
+  - translation_iso: zho
+    name: 姆罗-希米钦语
+    auto: true
 rolv_dialects:
   - rolv_code: 24665
     language_tag: cmr-x-HIS24665

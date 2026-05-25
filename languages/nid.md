@@ -1,8 +1,6 @@
 ---
 iso: nid
 name: Ngandi
-name_zh: 恩甘迪语
-name_zh_auto: true
 autonym: null
 alt_names: [Engandi, Gunwinyguan, "N'gundi", Nagandi, Nagandji, Nanda, Nandi, Ngalbon, Ngalgbun, Ngundi]
 population: null
@@ -16,5 +14,9 @@ glottolog_family_id: gunw1250
 glottolog_family_name: Gunwinyguan
 glottolog_classification: "Gunwinyguan > Eastern Gunwinyguan > Ngandi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ngandi_language"
+translations:
+  - translation_iso: zho
+    name: 恩甘迪语
+    auto: true
 ---
 Ngandi is an extinct Australian Aboriginal language of the Wilton River, Northern Territory. It is closely related to Nunggubuyu.

@@ -1,8 +1,6 @@
 ---
 iso: kjn
 name: Kunjen
-name_zh: 昆任语
-name_zh_auto: true
 autonym: Uw
 alt_names: ["'Kundjan", Ayan, Cape York Peninsula Languages, Gudjal, Gugu Nyungkul, Guguminjen, Gundjen, Gundjun, Ikan, Kawarrangg, Koka-Koonjin, Koko Kuntjan, Koko wansin, Kokoyan, Koonchulburra, Koonjan, Koonjen, Kukumindjen, Kukuminjen, "Kun'djan", Kundjan, Kundjen, Kundjin, Kunjin, Kuntjan, "Kuritja:l", Kutabal, Kuthabal, Kutjal, Kwearriburra, Laia, Muragan, Ngundjan, Oggonjin, Ogh Undyan, Ogh-Undyan, Ogondyan, Ogontjel, Okundjain, Okunjan, Okuntjel, Olkolo, Oyangant, Oykangand, Uw Oykangand language]
 population: 300
@@ -16,6 +14,10 @@ glottolog_family_id: pama1250
 glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > Paman > Alaya-Athima > Southwestern Alaya-Athima > Kunjen"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kunjen_language"
+translations:
+  - translation_iso: zho
+    name: 昆任语
+    auto: true
 rolv_dialects:
   - rolv_code: 3597
     language_tag: kjn-x-HIS03597

@@ -1,8 +1,6 @@
 ---
 iso: dik
 name: Southwestern Dinka
-name_zh: 西南丁卡语
-name_zh_auto: true
 autonym: Thuɔŋjäŋ
 alt_names: [Dinka, "Dinka, Southwestern", Rek, West-Dinka, Western Dinka]
 population: 1370000
@@ -15,6 +13,12 @@ glottocode: sout2832
 glottolog_family_id: nilo1247
 glottolog_family_name: Nilotic
 glottolog_classification: "Nilotic > Western Nilotic > Dinka-Nuer > Dinka > Southwestern Dinka"
+translations:
+  - translation_iso: jpn
+    name: 南西ディンカ語
+  - translation_iso: zho
+    name: 西南丁卡语
+    auto: true
 rolv_dialects:
   - rolv_code: 3984
     language_tag: dik-x-HIS03984

@@ -1,8 +1,6 @@
 ---
 iso: rit
 name: Ritharrngu
-name_zh: 里塔尔尼古语
-name_zh_auto: true
 autonym: Ritarungo
 alt_names: [Buranad-jini, Dhiyakuy, Diakui, Dijogoi, Djikai, Jikai, Ridarngo, Ridarngu, Ridarno, Ridharrngu, Ritar-ingo, Ritaringo, Ritarngo, Ritarngu, Ritarnugu, Ritarrngu, Ritharingau, Ritharngu, Ritharrŋu, Rittarungo, Tchikai, Wagelak, Wawilag, Yakuy]
 population: null
@@ -16,5 +14,9 @@ glottolog_family_id: pama1250
 glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > Yuulngu > Southern Yolngu > Ritharrngu"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ritharrngu_language"
+translations:
+  - translation_iso: zho
+    name: 里塔尔尼古语
+    auto: true
 ---
 The Ritharnggu language is an Australian Aboriginal language of the Yolŋu language group, spoken in Australia's Northern Territory.

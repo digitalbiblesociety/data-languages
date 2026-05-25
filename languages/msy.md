@@ -1,8 +1,6 @@
 ---
 iso: msy
 name: Aruamu
-name_zh: 阿鲁阿穆语
-name_zh_auto: true
 autonym: Mikarew
 alt_names: [Ariawia, Ariawiai, Gumasi, Makarub, Makarup, Mikarew-Ariaw, Mikarup, Misegian]
 population: 8000
@@ -16,5 +14,9 @@ glottolog_family_id: ramu1234
 glottolog_family_name: Ramu
 glottolog_classification: "Ramu > Lower Ramu > Ruboni > Mikarewan > Aruamu"
 wikipedia_url: "https://en.wikipedia.org/wiki/Aruamu_language"
+translations:
+  - translation_iso: zho
+    name: 阿鲁阿穆语
+    auto: true
 ---
 Aruamu a.k.a. Mikarew, also Ariawiai (Mikarew-Ariaw), is a Ramu language spoken in Mikarew village of Yawar Rural LLG, Madang Province, Papua New Guinea.

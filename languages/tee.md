@@ -1,8 +1,6 @@
 ---
 iso: tee
 name: Huehuetla Tepehua
-name_zh: 韦韦特拉特佩瓦语
-name_zh_auto: true
 autonym: Lhiimaqalhqama7
 alt_names: [Huehuetla, Huehuetla Mecapalapa Tepewa, Tepehua, Tepehua de Hidalgo, Tepehua de Huehuetla, Tepehua de Pisaflores, Tepehua de Tlachichilco, "Tepehua, Huehuetla", Tepehuano de Huehuetla, Tepehuano de Pisa Flores, Tepehuano de Tlachichilco, Tepewa]
 population: 3000
@@ -16,5 +14,9 @@ glottolog_family_id: toto1251
 glottolog_family_name: Totonacan
 glottolog_classification: "Totonacan > Tepehua > Huehuetla Tepehua"
 wikipedia_url: "https://en.wikipedia.org/wiki/Huehuetla_Tepehua"
+translations:
+  - translation_iso: zho
+    name: 韦韦特拉特佩瓦语
+    auto: true
 ---
 Huehuetla Tepehua is a moribund Tepehua language spoken in Huehuetla, northeastern Hidalgo, Mexico. There are fewer than 1,500 speakers left according to Susan Smythe Kung (2007).

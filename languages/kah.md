@@ -1,8 +1,6 @@
 ---
 iso: kah
 name: Kara (Central African Republic)
-name_zh: 卡拉语（中非共和国）
-name_zh_auto: true
 autonym: Kara of Birao
 alt_names: [Dam Fer, Fer, Fer language, Fertit, Kara, Kara (in Central African Rep), Kara (in Central African Republic)]
 population: 4800
@@ -16,5 +14,11 @@ glottolog_family_id: cent2225
 glottolog_family_name: Central Sudanic
 glottolog_classification: "Central Sudanic > Sara-Bongo-Bagirmi > SBB Occidental > Nuclear SBB Occidental > Fer-Gula > Kara (Central African Republic)"
 wikipedia_url: "https://en.wikipedia.org/wiki/Fer_language"
+translations:
+  - translation_iso: ara
+    name: فير
+  - translation_iso: zho
+    name: 卡拉语（中非共和国）
+    auto: true
 ---
 The Fer language, also Dam Fer or Fertit, one of several languages called Kara, is a Central Sudanic language spoken by some five thousand people in the northern Central African Republic near the Sudanese and Chadian borders, in the region known as Dar Runga.

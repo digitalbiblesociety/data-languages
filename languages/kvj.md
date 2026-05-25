@@ -1,8 +1,6 @@
 ---
 iso: kvj
 name: Psikye
-name_zh: 普西克耶语
-name_zh_auto: true
 autonym: Kamsiki
 alt_names: [Kapsiki, Psikye jezik, Psikyeg, Ptsake]
 population: 525000
@@ -16,6 +14,10 @@ glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > Biu-Mandara > North Biu-Mandara > Higic > Psikye"
 wikipedia_url: "https://en.wikipedia.org/wiki/Psiky%C9%9B_dialect"
+translations:
+  - translation_iso: zho
+    name: 普西克耶语
+    auto: true
 rolv_dialects:
   - rolv_code: 4431
     language_tag: kvj-x-HIS04431

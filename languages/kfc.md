@@ -1,7 +1,6 @@
 ---
 iso: kfc
 name: "Konda-Dora"
-name_zh: 孔达语
 autonym: కొండ
 alt_names: [Conda-dora, Konda, Konḍa, Konḍa (Kūbi), Koṇḍa, Porja]
 population: 60700
@@ -15,6 +14,13 @@ glottolog_family_id: drav1251
 glottolog_family_name: Dravidian
 glottolog_classification: "Dravidian > South Dravidian > South Dravidian II > Konda-Kui > Konda-Dora"
 wikipedia_url: "https://en.wikipedia.org/wiki/Konda_language_(Dravidian)"
+translations:
+  - translation_iso: hin
+    name: कोंडा भाषा
+  - translation_iso: jpn
+    name: コンダ語
+  - translation_iso: zho
+    name: 孔达语
 rolv_dialects:
   - rolv_code: 3414
     language_tag: kfc-x-HIS03414

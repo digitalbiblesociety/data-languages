@@ -1,7 +1,6 @@
 ---
 iso: mah
 name: Marshallese
-name_zh: 马绍尔语
 autonym: Ebon
 alt_names: [Gjuha marshalleze, Idioma marshalés, Język marszalski, Lengua marscialleise, Lingua marshallese, Língua marshalesa, Marchalleg, Marshall-Inseln, Marshallais, Marshallees, Marshallesische Sprache, Marshallesisk, Marshallesiska, Marshallin kieli, Marŝala lingvo, Maršalski jezik, Māršaliešu valoda, marshall, Маршалльский язык, Маршалски език, マーシャル語]
 population: 61000
@@ -16,6 +15,17 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Micronesian > Central Micronesian > Western Micronesian > Marshallese"
 wikipedia_url: "https://en.wikipedia.org/wiki/Marshallese_language"
+translations:
+  - translation_iso: ara
+    name: المارشالية
+  - translation_iso: hin
+    name: मार्शली भाषा
+  - translation_iso: jpn
+    name: マーシャル語
+  - translation_iso: kor
+    name: 마셜어
+  - translation_iso: zho
+    name: 马绍尔语
 rolv_dialects:
   - rolv_code: 13774
     language_tag: mh-x-HIS13774

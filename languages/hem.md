@@ -1,8 +1,6 @@
 ---
 iso: hem
 name: Hemba
-name_zh: 海姆巴语
-name_zh_auto: true
 autonym: Eastern Luba
 alt_names: [Emba, Kiemba, Kihemba, Kiluba-Hemba, Luba-Hemba]
 population: 181000
@@ -16,5 +14,9 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > Central-Western Bantu > Luban > Luba-Kaonde > Lubaic > Bangubangu-Kasai > Hemba-Yazi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Hemba_language"
+translations:
+  - translation_iso: zho
+    name: 海姆巴语
+    auto: true
 ---
 Hemba (Emba), also known as Eastern Luba, is a Bantu language of the Democratic Republic of the Congo. It is spoken by the Hemba people. Yazi may be a dialect.

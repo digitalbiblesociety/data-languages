@@ -1,8 +1,6 @@
 ---
 iso: auk
 name: Heyo
-name_zh: 海约语
-name_zh_auto: true
 autonym: Arinua
 alt_names: [Arima, Arinwa, Lolopani, Ruruhip, Wan Wan, Wanib, Wanwan]
 population: 2710
@@ -16,5 +14,9 @@ glottolog_family_id: nucl1708
 glottolog_family_name: Nuclear Torricelli
 glottolog_classification: "Nuclear Torricelli > Nuclear Maimai > Heyo-Yahang > Heyo"
 wikipedia_url: "https://en.wikipedia.org/wiki/Heyo_language"
+translations:
+  - translation_iso: zho
+    name: 海约语
+    auto: true
 ---
 Heyo a.k.a. Arinua is a Torricelli language of Papua New Guinea. It is also known as Lolopani and Ruruhip. The name Ruruhip is also shared with Yahang, which is closely related.

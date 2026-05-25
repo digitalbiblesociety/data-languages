@@ -1,8 +1,6 @@
 ---
 iso: mes
 name: Masmaje
-name_zh: 玛斯玛杰语
-name_zh_auto: true
 autonym: Masmadje
 alt_names: [Mesmedje]
 population: 45000
@@ -16,5 +14,9 @@ glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > East Chadic > East Chadic B > East Chadic B.1 > Mubic > Masmaje"
 wikipedia_url: "https://en.wikipedia.org/wiki/Masmaje_language"
+translations:
+  - translation_iso: zho
+    name: 玛斯玛杰语
+    auto: true
 ---
 Masmaje is an Afro-Asiatic language spoken in central Chad. There are speakers in Moubi Hadaba Canton, Bitchotchi Sub-prefecture.

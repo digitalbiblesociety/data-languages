@@ -1,7 +1,6 @@
 ---
 iso: rys
 name: Yaeyama
-name_zh: 八重山语
 autonym: 八重山物言/ヤイマムニ Yaimamuni
 alt_names: [Idioma yaeyama, Ryukyuan, Saskishima, Saskisima, Southern Ryukyuan, Yaeyameg, Yayeyama, ภาษายาเอยามะ, 八重山方言, 八重山語, 야에야마어]
 population: 47000
@@ -15,6 +14,13 @@ glottolog_family_id: japo1237
 glottolog_family_name: Japonic
 glottolog_classification: "Japonic > Ryukyuan > Southern Ryukyu > Macro-Yaeyama > Yaeyama"
 wikipedia_url: "https://en.wikipedia.org/wiki/Yaeyama_language"
+translations:
+  - translation_iso: jpn
+    name: 八重山語
+  - translation_iso: kor
+    name: 야에야마어
+  - translation_iso: zho
+    name: 八重山语
 rolv_dialects:
   - rolv_code: 18381
     language_tag: rys-x-HIS18381

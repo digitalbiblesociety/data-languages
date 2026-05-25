@@ -1,8 +1,6 @@
 ---
 iso: mqw
 name: Murupi
-name_zh: 穆鲁皮语
-name_zh_auto: true
 autonym: null
 population: 300
 country_id: PG
@@ -15,5 +13,9 @@ glottolog_family_id: nucl1709
 glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Madang > Croisilles > Mabuso > Hanseman > Wamas-Samosa-Murupi-Mosimo > Murupi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Murupi_language"
+translations:
+  - translation_iso: zho
+    name: 穆鲁皮语
+    auto: true
 ---
 Murupi is a Madang language of Papua New Guinea.

@@ -1,7 +1,6 @@
 ---
 iso: afr
 name: Afrikaans
-name_zh: 阿非利卡语
 autonym: Afrikaans
 alt_names: [Afrikaanca, Afrikaani keel, Afrikaans (Standard), Afrikaans leid, Afrikaans mál, Afrikaans nyelv, Afrikaansk, Afrikandu valoda, Afrikaneg, Afrikans simi, Afrikansa lingvo, Afrikansum, Afrikanščina, Afrikanų kalba, Afrikoansk, Afrikáans, Afrikánsagiella, Afrikánčina, Afrikánština, Afríkanska, Afrėkanu kalba, An Afracáinis, Bahasa Afrikaans, Gjuha afrikane, Godka afrikaans, IsiBhulu, IsiBhunu, Język afrikaans, Kiafrikaans, Limba afrikaans, Lingua Africana, Lingua africáner, Lingua afrikaans, Lèngoa afrikaans, Língua africâner, Èdè Áfríkáánù, Αφρικάανς γλώσσα, Африкаанс, Африканс, Афрыкаанс, Աֆրիկանս, אפריקאנס, ئاڧرىقانچە, زبان آفریکانس, لغة أفريقانية, لغه افريكانس, আফ্রিকান্স ভাষা, ஆபிரிக்கான மொழி, ภาษาแอฟริคานส์, აფრიკაანსი, アフリカーンス語, 南非語, 아프리칸스어]
 population: 7331800
@@ -16,6 +15,17 @@ glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Germanic > Northwest Germanic > West Germanic > Macro-Dutch > Middle-Modern Dutch > Modern Dutch > Global Dutch > Afrikaansic > Afrikaans"
 wikipedia_url: "https://en.wikipedia.org/wiki/Afrikaans"
+translations:
+  - translation_iso: ara
+    name: الأفريقانية
+  - translation_iso: hin
+    name: अफ़्रीकाँस भाषा
+  - translation_iso: jpn
+    name: アフリカーンス語
+  - translation_iso: kor
+    name: 아프리칸스어
+  - translation_iso: zho
+    name: 阿非利卡语
 rolv_dialects:
   - rolv_code: 6714
     language_tag: af-x-HIS06714

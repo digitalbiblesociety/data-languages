@@ -1,8 +1,6 @@
 ---
 iso: usk
 name: Usaghade
-name_zh: 乌萨加德语
-name_zh_auto: true
 autonym: Isangele
 alt_names: [Usakade, Usakedet]
 population: 10000
@@ -16,5 +14,9 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Delta Cross > Lower Cross > Nuclear Lower Cross > Usaghade"
 wikipedia_url: "https://en.wikipedia.org/wiki/Usaghade_language"
+translations:
+  - translation_iso: zho
+    name: 乌萨加德语
+    auto: true
 ---
 Usaghade, Isanguele or Isangele is a small Lower Cross River language spoken in the southwestern region of southern Cameroon, with some speakers across the border in Cross River State, Nigeria.

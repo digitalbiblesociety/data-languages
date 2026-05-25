@@ -1,7 +1,6 @@
 ---
 iso: sys
 name: Sinyar
-name_zh: 西尼亚尔语
 autonym: Shemya
 alt_names: [Shamya, Shamyan, Sinya, Symiarta, Taar Shamyan, Zimirra]
 population: 12300
@@ -15,5 +14,8 @@ glottolog_family_id: cent2225
 glottolog_family_name: Central Sudanic
 glottolog_classification: "Central Sudanic > Sara-Bongo-Bagirmi > Sinyar"
 wikipedia_url: "https://en.wikipedia.org/wiki/Sinyar_language"
+translations:
+  - translation_iso: zho
+    name: 西尼亚尔语
 ---
 Shemya is the language of the Sinyar people. It is a Central Sudanic language spoken in Chad and formerly in Darfur, Sudan. It is variously spelled Shamya, Shamyan, Shemya, Sinya, and known as Symiarta, Taar Shamyan, Zimirra.

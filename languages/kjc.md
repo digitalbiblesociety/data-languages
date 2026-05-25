@@ -1,8 +1,6 @@
 ---
 iso: kjc
 name: Coastal Konjo
-name_zh: 沿海孔若语
-name_zh_auto: true
 autonym: Kondjo
 alt_names: [Konjo, Konjo (Coastal), "Konjo, Coastal", Makassarese, Tana, Tiro]
 population: 10000
@@ -16,6 +14,10 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Greater South Sulawesi > South Sulawesi > Makassaric > Konjo > Coastal Konjo"
 wikipedia_url: "https://en.wikipedia.org/wiki/Coastal_Konjo_language"
+translations:
+  - translation_iso: zho
+    name: 沿海孔若语
+    auto: true
 rolv_dialects:
   - rolv_code: 12219
     language_tag: kjc-x-HIS12219

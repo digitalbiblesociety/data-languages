@@ -1,8 +1,6 @@
 ---
 iso: lsp
 name: Panamanian Sign Language
-name_zh: 巴拿马手语
-name_zh_auto: true
 autonym: Lenguaje de Señas Bolivianas LSB
 alt_names: [Lengua de Señas Panameñas, Lengua de Señas Panameñas (LSP), Spanish Sign Language]
 population: 9000
@@ -16,6 +14,14 @@ glottolog_family_id: sign1238
 glottolog_family_name: Sign Language
 glottolog_classification: "Sign Language > L1 Sign Language > LSFic > ASLic > Honduras-Panama Sign > Panamanian Sign Language"
 wikipedia_url: "https://en.wikipedia.org/wiki/Panamanian_Sign_Language"
+translations:
+  - translation_iso: hin
+    name: पनामियन सांकेतिक भाषा
+  - translation_iso: jpn
+    name: パナマ手話
+  - translation_iso: zho
+    name: 巴拿马手语
+    auto: true
 rolv_dialects:
   - rolv_code: 29097
     language_tag: lsp-x-HIS29097

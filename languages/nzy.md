@@ -1,8 +1,6 @@
 ---
 iso: nzy
 name: Nzakambay
-name_zh: 恩扎坎巴伊语
-name_zh_auto: true
 autonym: Mbum
 alt_names: [Mbay, Mboum, Mbum Nzakambay, Njakambai, Nzak Mbai, Nzak Mbay, Nzaka Mbay, Nzakmbay]
 population: 18500
@@ -16,6 +14,10 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Cameroun-Ubangian > Mbumic > Central Mbum > Karangic > Nzakambay"
 wikipedia_url: "https://en.wikipedia.org/wiki/Nzakambay_language"
+translations:
+  - translation_iso: zho
+    name: 恩扎坎巴伊语
+    auto: true
 rolv_dialects:
   - rolv_code: 2950
     language_tag: nzy-x-HIS02950

@@ -1,8 +1,6 @@
 ---
 iso: gub
 name: Guajajára
-name_zh: 瓜雅查拉语
-name_zh_auto: true
 autonym: Guajajara
 population: 19500
 country_id: BR
@@ -11,4 +9,8 @@ status_id: "4"
 latitude: -4.69461
 longitude: -45.70815
 scripts: [Latn]
+translations:
+  - translation_iso: zho
+    name: 瓜雅查拉语
+    auto: true
 ---

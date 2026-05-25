@@ -1,8 +1,6 @@
 ---
 iso: bkx
 name: Baikeno
-name_zh: 拜克诺语
-name_zh_auto: true
 autonym: Uab Metô
 alt_names: [Ambeno, Ambenu, Baikenu, Biqueno, Oe Cusi, Oecussi, Oekusi, Uab Meto, Uab Pah Meto, Vaikenu, Vaikino]
 population: 81700
@@ -15,6 +13,10 @@ glottocode: baik1238
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Timor-Babar > Rote-Meto > West Rote > Dengka-Meto > Meto > Central Meto > Baikeno"
+translations:
+  - translation_iso: zho
+    name: 拜克诺语
+    auto: true
 rolv_dialects:
   - rolv_code: 24444
     language_tag: bkx-x-HIS24444

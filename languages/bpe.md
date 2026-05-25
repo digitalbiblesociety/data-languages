@@ -1,8 +1,6 @@
 ---
 iso: bpe
 name: Bauni
-name_zh: 巴乌尼语
-name_zh_auto: true
 autonym: Warapu, Barupu
 alt_names: [Barupu, Barupu language, Varapú, Varofu, Warapoueg, Warapu, Warapu jezik, Waropu]
 population: 300
@@ -15,6 +13,10 @@ glottolog_family_id: skoo1245
 glottolog_family_name: Sko
 glottolog_classification: "Sko > Skou-Serra-Piore > Barupu Lagoon > Bauni"
 wikipedia_url: "https://en.wikipedia.org/wiki/Bauni_language"
+translations:
+  - translation_iso: zho
+    name: 巴乌尼语
+    auto: true
 rolv_dialects:
   - rolv_code: 26182
     language_tag: bpe-x-HIS26182

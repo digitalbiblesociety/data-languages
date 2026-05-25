@@ -1,8 +1,6 @@
 ---
 iso: tbg
 name: North Tairora
-name_zh: 北泰罗拉语
-name_zh_auto: true
 autonym: Tairora (Arau)
 alt_names: [Northern Tairora, Tairora, "Tairora, North"]
 population: 5000
@@ -15,6 +13,10 @@ glottocode: nort2920
 glottolog_family_id: nucl1709
 glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Kainantu-Goroka > Kainantu > Tairora > North Tairora"
+translations:
+  - translation_iso: zho
+    name: 北泰罗拉语
+    auto: true
 rolv_dialects:
   - rolv_code: 17070
     language_tag: tbg-x-HIS17070

@@ -1,7 +1,6 @@
 ---
 iso: hau
 name: Hausa
-name_zh: 豪萨语
 autonym: " هَرْشَن هَوْسَ"
 alt_names: [Abakwariga, Bahasa Hausa, Habe, Haousaeg, Haoussa, Hausa Group, Hausa jezik, Hausa linguo, Hausan kieli, Hausawa, Haussa, Hausų kalba, Hauština, Hawsa, Hawsa simi, Haúsa, Haŭsa lingvo, Idioma hausa, Język hausa, Kado, Lenga Hausa, Lingua hausa, Língua haúça, Mgbakpa, Èdè Haúsá, Забони хауса, Хауса, האוסה, هوس, ھاوسا, हौसा भाषा, হাউসা ভাষা, ஹவுசா மொழி, ჰაუსა, ハウサ語, 豪萨语]
 population: 60000000
@@ -16,6 +15,17 @@ glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > West Chadic > West Chadic A > West Chadic A.1 > Hausa"
 wikipedia_url: "https://en.wikipedia.org/wiki/Hausa_language"
+translations:
+  - translation_iso: ara
+    name: الهوسية
+  - translation_iso: hin
+    name: हौसा भाषा
+  - translation_iso: jpn
+    name: ハウサ語
+  - translation_iso: kor
+    name: 하우사어
+  - translation_iso: zho
+    name: 豪萨语
 rolv_dialects:
   - rolv_code: 1068
     language_tag: ha-x-HIS01068

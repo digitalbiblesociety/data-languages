@@ -1,8 +1,6 @@
 ---
 iso: var
 name: Huarijio
-name_zh: 华里希奥语
-name_zh_auto: true
 autonym: Varihío
 alt_names: [Guarijío, Guarijío del norte, Guarijío du nord, Huarijío, Huaríjo, Maculai, Maculái, Macurawe, Macurái, Varijío, Varohio, Vorijío, Warihío, Warijiyo]
 population: 1207
@@ -16,6 +14,10 @@ glottolog_family_id: utoa1244
 glottolog_family_name: Uto-Aztecan
 glottolog_classification: "Uto-Aztecan > Southern Uto-Aztecan > Tarahumara-Guarijio > Huarijio"
 wikipedia_url: "https://en.wikipedia.org/wiki/Huarijio_language"
+translations:
+  - translation_iso: zho
+    name: 华里希奥语
+    auto: true
 rolv_dialects:
   - rolv_code: 3866
     language_tag: var-x-HIS03866

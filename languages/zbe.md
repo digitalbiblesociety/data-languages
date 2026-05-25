@@ -1,8 +1,6 @@
 ---
 iso: zbe
 name: East Berawan
-name_zh: 东贝拉旺语
-name_zh_auto: true
 autonym: Long Jegan Berawan
 alt_names: ["Berawan, East", Long Jegan]
 population: 1100
@@ -15,4 +13,8 @@ glottocode: east2486
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > North Borneo Malayo-Polynesian > North Sarawakan > Berawan-Lower Baram > Berawan > Central-East Berawan > East Berawan"
+translations:
+  - translation_iso: zho
+    name: 东贝拉旺语
+    auto: true
 ---

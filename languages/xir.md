@@ -1,8 +1,6 @@
 ---
 iso: xir
 name: Xiriâna
-name_zh: 西里亚纳语
-name_zh_auto: true
 autonym: Bahwana
 alt_names: [Chiriana, Shiriana, Shriana, Xiriana]
 population: null
@@ -16,5 +14,11 @@ glottolog_family_id: araw1281
 glottolog_family_name: Arawakan
 glottolog_classification: "Arawakan > Negro-Roraima > Bahuanaic > Xiriâna"
 wikipedia_url: "https://en.wikipedia.org/wiki/Bahuana_language"
+translations:
+  - translation_iso: jpn
+    name: シリアナ語 (アラワク)
+  - translation_iso: zho
+    name: 西里亚纳语
+    auto: true
 ---
 Bahuana (Bahwana), or Shiriana, is an Arawakan language most closely related to Manao and Kariaí, once spoken by the Shiriana people of Roraima, Brazil. It had an active–stative syntax.

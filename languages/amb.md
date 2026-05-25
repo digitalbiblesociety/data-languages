@@ -1,8 +1,6 @@
 ---
 iso: amb
 name: Ambo
-name_zh: 安博语
-name_zh_auto: true
 autonym: null
 alt_names: [Andoa, Arabela, Arabela-Andoa, Chiripuno]
 population: 1000
@@ -16,5 +14,9 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Tivoid > North Tivoid > Ambo"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ambo_language_(Nigeria)"
+translations:
+  - translation_iso: zho
+    name: 安博语
+    auto: true
 ---
 Ambo is a Tivoid language of Nigeria.

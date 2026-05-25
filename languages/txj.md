@@ -1,8 +1,6 @@
 ---
 iso: txj
 name: Tarjumo
-name_zh: 塔尔朱莫语
-name_zh_auto: true
 autonym: Tarjumo
 population: null
 country_id: NG
@@ -15,5 +13,11 @@ glottolog_family_id: saha1256
 glottolog_family_name: Saharan
 glottolog_classification: "Saharan > Western Saharan > Kanuri-Kanembu > Kanembuic > Tarjumo"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tarjumo_language"
+translations:
+  - translation_iso: ara
+    name: ترجمو
+  - translation_iso: zho
+    name: 塔尔朱莫语
+    auto: true
 ---
 Tarjumo, also known as Old Kanembu or Classical Kanembu, is a classical and sacred language created and used by Muslim scholars in the Kanem–Bornu Empire, located in the central Sahel. It likely emerged in the 15th century as a liturgical and scholarly language for Qur'anic exegesis and grammatical analysis of sacred texts in classical arabic. The name Tarjumo derives from the Arabic verb tarjama (ترجم), meaning "to translate."

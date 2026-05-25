@@ -1,8 +1,6 @@
 ---
 iso: rnd
 name: Ruund
-name_zh: 鲁翁德语
-name_zh_auto: true
 autonym: Chiluwunda
 alt_names: [Chilu Wunda, Lunda Kambove, Lunda-Kamboro, Luunda, Luwunda, Muatiamvua, Northern Lunda, Uruund]
 population: 251500
@@ -16,6 +14,10 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > Central-Western Bantu > Njila > Southern Njila > Chokwe-Lunda > Ruund-Salampasu > Lunda-Ruund-Kete > Ruund-Kete > Ruund"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ruund_language"
+translations:
+  - translation_iso: zho
+    name: 鲁翁德语
+    auto: true
 rolv_dialects:
   - rolv_code: 361
     language_tag: rnd-x-HIS00361

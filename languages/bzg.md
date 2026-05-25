@@ -1,7 +1,6 @@
 ---
 iso: bzg
 name: Babuza
-name_zh: 巴布萨语
 autonym: Babusa
 alt_names: [Favorlang, Favorlangsch, Jaborlang, Lingua Babuza, Poavosa, Sprache von Formosa, Taokas, ภาษาบาบูซะห์, バブサ語]
 population: null
@@ -15,6 +14,11 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Western Plains Austronesian > Central Western Plains > Babuza"
 wikipedia_url: "https://en.wikipedia.org/wiki/Babuza_language"
+translations:
+  - translation_iso: jpn
+    name: バブサ語
+  - translation_iso: zho
+    name: 巴布萨语
 rolv_dialects:
   - rolv_code: 7485
     language_tag: bzg-x-HIS07485

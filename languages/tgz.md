@@ -1,8 +1,6 @@
 ---
 iso: tgz
 name: Tagalaka
-name_zh: 塔加拉卡语
-name_zh_auto: true
 autonym: "Da:galag"
 alt_names: [Dagalag, Dagalang, Tagalag, Takalak, Targa-lag, Targalag, Tarkalag]
 population: null
@@ -16,5 +14,9 @@ glottolog_family_id: pama1250
 glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > Paman > Alaya-Athima > Central Alaya-Athima > Tagalaka"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tagalaka_language"
+translations:
+  - translation_iso: zho
+    name: 塔加拉卡语
+    auto: true
 ---
 Takalak is a poorly attested, extinct Australian Aboriginal language of Queensland.

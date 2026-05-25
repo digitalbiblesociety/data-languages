@@ -1,8 +1,6 @@
 ---
 iso: anh
 name: Nend
-name_zh: 嫩德语
-name_zh_auto: true
 autonym: Angaua
 alt_names: [Nent]
 population: 2000
@@ -16,5 +14,9 @@ glottolog_family_id: nucl1709
 glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Madang > Kalamic-South Adelbert > South Adelbert > Sogeram > Apalic > Greater West Sogeram > West Sogeram > Nend"
 wikipedia_url: "https://en.wikipedia.org/wiki/Nend_language"
+translations:
+  - translation_iso: zho
+    name: 嫩德语
+    auto: true
 ---
 Nend (Nent), or Angaua, is a Papuan language spoken by the Angaua people of Madang Province, Papua New Guinea. It is spoken in Pasinkap village of Arabaka Rural LLG, Madang Province.

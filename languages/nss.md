@@ -1,8 +1,6 @@
 ---
 iso: nss
 name: Nali
-name_zh: 纳利语
-name_zh_auto: true
 autonym: null
 alt_names: [Admiralitäts-inseln, Yiru]
 population: 2900
@@ -16,6 +14,10 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Admiralty Islands > Eastern Admiralty Islands > Manus > East Manus > Koro-Lele-Nali-Titan > Nali"
 wikipedia_url: "https://en.wikipedia.org/wiki/Nali_language"
+translations:
+  - translation_iso: zho
+    name: 纳利语
+    auto: true
 rolv_dialects:
   - rolv_code: 14656
     language_tag: nss-x-HIS14656

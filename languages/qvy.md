@@ -1,7 +1,6 @@
 ---
 iso: qvy
 name: Queyu
-name_zh: 却域语
 autonym: " Choyu"
 alt_names: [Choyi, Choyo, Zhaba, 却域語, 卻隅話]
 population: 7000
@@ -15,5 +14,10 @@ glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Burmo-Qiangic > Na-Qiangic > Qiangic > Queyu"
 wikipedia_url: "https://en.wikipedia.org/wiki/Choyo_language"
+translations:
+  - translation_iso: jpn
+    name: チョユ語
+  - translation_iso: zho
+    name: 却域语
 ---
 Queyu is a Qiangic language of Yajiang County and Xinlong County, Sichuan. It is similar with and shares a name with Zhaba, but the two languages are distinct from each other.

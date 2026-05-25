@@ -1,8 +1,6 @@
 ---
 iso: jay
 name: "Yan-nhangu"
-name_zh: 燕-南汉古语
-name_zh_auto: true
 autonym: "Yan-nhaŋu"
 alt_names: ["Djina?", Djinaŋ, Gunbirrdji, Gunbirri, Jaer-nungo, Jaernungo, "Jan:angu", Janango, Jandango, Janjango, Jannangu, Jarnango, Jarnangu, Jarrangu, Kokolango, Malara, Malarra, "Murru?un", Murrungun, Murruŋun, Mälarra, Mälarrai, Nango, Nangu, Nhangu, Yaernungo, Yaerungo, Yalnumata, Yanango, Yanangu, Yandango, "Yanna?u", Yannangu, Yannaŋu, Yannhangu, Yannhaŋu, Yarenango, Yarnango, Yarrnangu, Yorngar]
 population: null
@@ -16,5 +14,9 @@ glottolog_family_id: pama1250
 glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > Yuulngu > Nhangu"
 wikipedia_url: "https://en.wikipedia.org/wiki/Nhangu_language"
+translations:
+  - translation_iso: zho
+    name: 燕-南汉古语
+    auto: true
 ---
 The Nhangu language (Nhaŋu), also Yan-nhaŋu (Jarnango) is an Australian Aboriginal language spoken by the Yan-nhaŋu people, inhabitants of the Crocodile Islands off the coast of Arnhem Land, in the Northern Territory of Australia. The Yan-nhaŋu language belongs to the Yolŋu Matha language group of the Yolŋu people of Arnhem Land in northern Australia. The varieties of the two moieties are (a) Gorlpa and (b) Yan-nhangu.

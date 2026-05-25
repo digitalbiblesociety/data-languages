@@ -1,7 +1,6 @@
 ---
 iso: dak
 name: Dakota
-name_zh: 达科他语
 autonym: Dakhótiyapi
 alt_names: [Dacota, Dakhota, Lingua dakota, Santee, Santee-Sisseton, Sioux, Sisseton, Stoney, Wahpeton, siu]
 population: 290
@@ -16,6 +15,17 @@ glottolog_family_id: siou1252
 glottolog_family_name: Siouan
 glottolog_classification: "Siouan > Mississippi Valley > Dakotan > Sioux > Dakota"
 wikipedia_url: "https://en.wikipedia.org/wiki/Dakota_language"
+translations:
+  - translation_iso: ara
+    name: لغة داكوتا
+  - translation_iso: hin
+    name: दाकोता
+  - translation_iso: jpn
+    name: ダコタ語
+  - translation_iso: kor
+    name: 다코타어
+  - translation_iso: zho
+    name: 达科他语
 rolv_dialects:
   - rolv_code: 9083
     language_tag: dak-x-HIS09083

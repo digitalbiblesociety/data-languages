@@ -1,8 +1,6 @@
 ---
 iso: kks
 name: Giiwo
-name_zh: 吉伊沃语
-name_zh_auto: true
 autonym: Bu Giiwo
 alt_names: [Kirfi, Kirifawa, Kirifi]
 population: 14000
@@ -16,5 +14,9 @@ glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > West Chadic > West Chadic A > West Chadic A.2-3 > West Chadic A.2 > Boleic > Nuclear Boleic > Galambu-Bele > Kirfi-Bele > Giiwo-Daza > Giiwo"
 wikipedia_url: "https://en.wikipedia.org/wiki/Giiwo_language"
+translations:
+  - translation_iso: zho
+    name: 吉伊沃语
+    auto: true
 ---
 Giiwo is an Afro-Asiatic language spoken in Nigeria.

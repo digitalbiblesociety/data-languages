@@ -1,8 +1,6 @@
 ---
 iso: hag
 name: Hanga
-name_zh: 汉加语
-name_zh_auto: true
 autonym: Anga
 population: 6800
 country_id: GH
@@ -15,6 +13,10 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Gur > Central Gur > Northern Central Gur > Bwamu-Oti-Volta > Oti-Volta > Nuclear Oti-Volta > Gurma-Yom-Oti-Volta Occidental > Oti-Volta Occidental > Nuclear Oti-Volta Occidental > Southeast Western Oti-Volta > Kamara-Hanga > Hanga"
 wikipedia_url: "https://en.wikipedia.org/wiki/Hanga_language"
+translations:
+  - translation_iso: zho
+    name: 汉加语
+    auto: true
 rolv_dialects:
   - rolv_code: 10553
     language_tag: hag-x-HIS10553

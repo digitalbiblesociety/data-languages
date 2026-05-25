@@ -1,13 +1,15 @@
 ---
 iso: dja
 name: Djadjawurrung
-name_zh: 詹詹武隆语
-name_zh_auto: true
 autonym: Djadja Wurrung
 population: null
 country_id: AU
 country_name: Australia
 status_id: "10"
 wikipedia_url: "https://en.wikipedia.org/wiki/Djadjawurrung_language"
+translations:
+  - translation_iso: zho
+    name: 詹詹武隆语
+    auto: true
 ---
 Djadjawurrung is an Aboriginal Australian language spoken by the Dja Dja Wurrung people of the Kulin nation of central Victoria. Djadjawurrung was spoken by 16 clans around Murchison, the central highlands region, east to Tylden, west to the Pyrenees, north to Boort and south to the Great Dividing Range. It is now extinct.

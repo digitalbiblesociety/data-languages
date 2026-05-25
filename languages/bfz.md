@@ -1,7 +1,6 @@
 ---
 iso: bfz
 name: Mahasu Pahari
-name_zh: 马哈苏帕哈里语
 autonym: Mahasui
 alt_names: [Baghati, Mahasu, Pahari, "Pahari, Mahasu", Paharí mahasu, Western Pahari]
 population: 1000000
@@ -15,6 +14,13 @@ glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Indo-Aryan > Middle-Modern Indo-Aryan > Eastern Dardic > Himachali > Nuclear Himachali > Mahasu Pahari"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mahasu_Pahari"
+translations:
+  - translation_iso: hin
+    name: महासु पहाड़ी
+  - translation_iso: jpn
+    name: マハス・パハリー語
+  - translation_iso: zho
+    name: 马哈苏帕哈里语
 rolv_dialects:
   - rolv_code: 2421
     language_tag: bfz-x-HIS02421

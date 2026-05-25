@@ -1,7 +1,6 @@
 ---
 iso: str
 name: Straits Salish
-name_zh: 北方海峽薩利希語
 autonym: Northern Straits Salish
 alt_names: [Lekwungen, Lkungen, Lummi, Malchosen, North Straits Salish languages, Northern Straits, Northern Straits Salish (Samish), SENĆOŦEN/Malchosen/Lekwungen/Semiahmoo/T’Sou-ke, Saanich, Salish (Samish Straits), Salish (Straits), Salish straits, "Salish, Straits", Samish, Semiahmoo, Songish, Sooke, Straits, Straits (Northern), "T'Sou-ke"]
 population: 3020
@@ -15,6 +14,17 @@ glottolog_family_id: sali1255
 glottolog_family_name: Salishan
 glottolog_classification: "Salishan > Coast Salish > Central Salish > Straits Salish > Northern Straits Salish"
 wikipedia_url: "https://en.wikipedia.org/wiki/North_Straits_Salish_language"
+translations:
+  - translation_iso: ara
+    name: سترايتس ساليش
+  - translation_iso: hin
+    name: स्ट्रेट्स सैलिश
+  - translation_iso: jpn
+    name: 北ストレイツ語
+  - translation_iso: kor
+    name: 해안 살리시어
+  - translation_iso: zho
+    name: 北方海峽薩利希語
 rolv_dialects:
   - rolv_code: 16219
     language_tag: str-x-HIS16219

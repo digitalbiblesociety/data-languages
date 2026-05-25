@@ -1,8 +1,6 @@
 ---
 iso: tih
 name: Timugon Murut
-name_zh: 提穆贡木鲁特语
-name_zh_auto: true
 autonym: Temogun
 alt_names: [Murut, "Murut, Timugon", Tenom Murut, Timigan, Timigun, Timogon, Timogun, Timugon, Tumugun]
 population: 9000
@@ -16,6 +14,12 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > North Borneo Malayo-Polynesian > Sabahan > Southwest Sabahan > Greater Murutic > Murutic > Northern Murutic > Lowland Murut > Timugon Murut"
 wikipedia_url: "https://en.wikipedia.org/wiki/Timugon_language"
+translations:
+  - translation_iso: jpn
+    name: ティムゴン語
+  - translation_iso: zho
+    name: 提穆贡木鲁特语
+    auto: true
 rolv_dialects:
   - rolv_code: 17504
     language_tag: tih-x-HIS17504

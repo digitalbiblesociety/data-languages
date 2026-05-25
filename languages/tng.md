@@ -1,8 +1,6 @@
 ---
 iso: tng
 name: Tobanga
-name_zh: 托班加语
-name_zh_auto: true
 autonym: Northern Gabri
 alt_names: [Gabri, Gabri-Nord, Gabri-North]
 population: 30000
@@ -16,6 +14,10 @@ glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > East Chadic > East Chadic A > East Chadic A.2 > East Chadic A.2 2 > Tobanga"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tobanga_language"
+translations:
+  - translation_iso: zho
+    name: 托班加语
+    auto: true
 rolv_dialects:
   - rolv_code: 17536
     language_tag: tng-x-HIS17536

@@ -1,8 +1,6 @@
 ---
 iso: ayc
 name: Southern Aymara
-name_zh: 南艾马拉语
-name_zh_auto: true
 autonym: Aymar aru
 alt_names: ["2 varieties: Aymara (Central)/Aymara (Southern)", Aimara, Aymara, "Aymara, Southern", Aymará, Southern, Tupe]
 population: 213000
@@ -16,6 +14,12 @@ glottolog_family_id: ayma1253
 glottolog_family_name: Aymaran
 glottolog_classification: "Aymaran > Central-Southern Aymara > Southern Aymara"
 wikipedia_url: "https://en.wikipedia.org/wiki/Southern_Aymara_language"
+translations:
+  - translation_iso: jpn
+    name: 南アイマラ語
+  - translation_iso: zho
+    name: 南艾马拉语
+    auto: true
 rolv_dialects:
   - rolv_code: 29995
     language_tag: ayc-x-HIS29995

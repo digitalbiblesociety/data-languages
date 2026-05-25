@@ -1,8 +1,6 @@
 ---
 iso: utp
 name: Amba (Solomon Islands)
-name_zh: 阿巴语（所罗门群岛）
-name_zh_auto: true
 autonym: Aba
 alt_names: [Amba, Nembao, Utupua]
 population: 590
@@ -16,5 +14,11 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Temotu > Utupua-Vanikoro > Utupua > Amba (Solomon Islands)"
 wikipedia_url: "https://en.wikipedia.org/wiki/Amba_language_(Solomon_Islands)"
+translations:
+  - translation_iso: jpn
+    name: アンバ語
+  - translation_iso: zho
+    name: 阿巴语（所罗门群岛）
+    auto: true
 ---
 Amba is the main language spoken on the island of Utupua, in the easternmost province of the Solomon Islands.

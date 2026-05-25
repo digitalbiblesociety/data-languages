@@ -1,8 +1,6 @@
 ---
 iso: bmf
 name: "Bom-Kim"
-name_zh: 博姆-金语
-name_zh_auto: true
 autonym: Bom–Krim
 alt_names: [Bom, Bome, Bomo, Bum]
 population: 5580
@@ -16,6 +14,10 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Mel > Southern Mel > Bullom > Northern Bullom > Bom-Kim"
 wikipedia_url: "https://en.wikipedia.org/wiki/Bom_language"
+translations:
+  - translation_iso: zho
+    name: 博姆-金语
+    auto: true
 rolv_dialects:
   - rolv_code: 12347
     language_tag: bmf-x-HIS12347

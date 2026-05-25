@@ -1,8 +1,6 @@
 ---
 iso: hnd
 name: Southern Hindko
-name_zh: 南印度库语
-name_zh_auto: true
 autonym: ہندکو
 alt_names: [Bahasa Hindko, Hindko, Hindko language, "Hindko, Southern", Lahnda, Lingua Hindko, Northeastern Lahnda, ヒンドコ語]
 population: 1170000
@@ -17,6 +15,10 @@ glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Indo-Aryan > Middle-Modern Indo-Aryan > Continental Indo-Aryan > Indo-Aryan Northwestern zone > Sindhi-Lahnda > Greater Panjabic > Hindko-Siraiki > Hindko > Southern Hindko"
 wikipedia_url: "https://en.wikipedia.org/wiki/Southern_Hindko_language"
+translations:
+  - translation_iso: zho
+    name: 南印度库语
+    auto: true
 rolv_dialects:
   - rolv_code: 844
     language_tag: hnd-x-HIS00844

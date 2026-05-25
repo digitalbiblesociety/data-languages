@@ -1,8 +1,6 @@
 ---
 iso: sxm
 name: Samre
-name_zh: 桑梅语
-name_zh_auto: true
 autonym: Northern Chong
 population: 200
 country_id: KH
@@ -11,5 +9,9 @@ status_id: "9"
 latitude: 13.47899
 longitude: 103.978
 wikipedia_url: "https://en.wikipedia.org/wiki/Samre_language_of_Pursat"
+translations:
+  - translation_iso: zho
+    name: 桑梅语
+    auto: true
 ---
 Samre, is a nearly extinct Pearic language of Thailand and, formerly, Cambodia. The language is evidently extinct in Cambodia, but a 1998 survey found 20–30 speakers in Nonsi Subdistrict, Bo Rai District, Trat Province, Thailand and estimated the total number of people able to speak the language to be 200.

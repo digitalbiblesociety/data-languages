@@ -1,8 +1,6 @@
 ---
 iso: lew
 name: Ledo Kaili
-name_zh: 莱多凯利语
-name_zh_auto: true
 autonym: Ledo
 alt_names: [Kaili, Kaili (Ledo), "Kaili, Ledo", Paloesch, Palu]
 population: 215000
@@ -16,6 +14,10 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Celebic > Kaili-Wolio > Northern Kaili-Wolio > Greater Kaili > Common Kaili > Ledo Kaili"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ledo_Kaili_language"
+translations:
+  - translation_iso: zho
+    name: 莱多凯利语
+    auto: true
 rolv_dialects:
   - rolv_code: 11327
     language_tag: lew-x-HIS11327

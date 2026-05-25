@@ -1,8 +1,6 @@
 ---
 iso: bnp
 name: Bola
-name_zh: 博拉语
-name_zh_auto: true
 autonym: Bakovi
 alt_names: [Bola-Bakovi]
 population: 13700
@@ -16,6 +14,12 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > Meso Melanesian linkage > Willaumez linkage > Bola-Bulu > Bola"
 wikipedia_url: "https://en.wikipedia.org/wiki/Bola_language_(Austronesian)"
+translations:
+  - translation_iso: jpn
+    name: ボラ語
+  - translation_iso: zho
+    name: 博拉语
+    auto: true
 rolv_dialects:
   - rolv_code: 8260
     language_tag: bnp-x-HIS08260

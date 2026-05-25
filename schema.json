@@ -13,8 +13,6 @@
     "enum": [
       "iso",
       "name",
-      "name_zh",
-      "name_zh_auto",
       "autonym",
       "alt_names",
       "population",
@@ -29,6 +27,7 @@
       "glottolog_family_name",
       "glottolog_classification",
       "wikipedia_url",
+      "translations",
       "rolv_dialects"
     ]
   },
@@ -43,16 +42,6 @@
       "description": "Common English name of the language.",
       "type": "string",
       "minLength": 1
-    },
-    "name_zh": {
-      "description": "Simplified Chinese name. Populated by tools/sources/wikidata_names.go (preferring zh-Hans > zh-CN > zh-SG > zh) and gap-filled by tools/sources/cldr_names.go from CLDR's zh locale data.",
-      "type": "string",
-      "minLength": 1
-    },
-    "name_zh_auto": {
-      "description": "Set to true when `name_zh` was produced by an automated (LLM/MT) translation rather than a curated upstream source. Curated values (Wikidata, CLDR) leave this absent.",
-      "type": "boolean",
-      "const": true
     },
     "autonym": {
       "description": "Endonym (the language's name written in the language itself).",
@@ -126,6 +115,11 @@
       "format": "uri",
       "pattern": "^https://en\\.wikipedia\\.org/wiki/.+$"
     },
+    "translations": {
+      "description": "Translations of the language name into other languages. Each item: {translation_iso (ISO 639-3 of the target), name, auto?}. Curated by tools/sources/wikidata_names.go and tools/sources/cldr_names.go. Future LLM/MT entries set `auto: true`.",
+      "type": "array",
+      "items": { "$ref": "#/$defs/translation" }
+    },
     "rolv_dialects": {
       "description": "GRN Registry of Language Varieties (ROLV) entries that fall under this ISO 639-3 code. Populated by tools/sources/rolv.go.",
       "type": "array",
@@ -133,6 +127,16 @@
     }
   },
   "$defs": {
+    "translation": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["translation_iso", "name"],
+      "properties": {
+        "translation_iso": { "type": "string", "pattern": "^[a-z]{3}$", "description": "ISO 639-3 code of the target language." },
+        "name":            { "type": "string", "minLength": 1 },
+        "auto":            { "type": "boolean", "const": true, "description": "True when produced by automated (LLM/MT) translation rather than a curated upstream." }
+      }
+    },
     "dialect": {
       "type": "object",
       "additionalProperties": false,

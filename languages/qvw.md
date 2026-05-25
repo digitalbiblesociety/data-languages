@@ -1,8 +1,6 @@
 ---
 iso: qvw
 name: Huaylla Wanca Quechua
-name_zh: 瓦亚瓦卡克丘亚语
-name_zh_auto: true
 autonym: Wanka Nunashimi
 alt_names: [Huanca Huaylla Quechua, Huaylla, Jauja-Huanca, Jauja-Huanca Quechua, Nyuqa, "Quechua, Huaylla Wanca", Southern Huancayo Quechua, Yaqa]
 population: 250000
@@ -15,4 +13,8 @@ glottocode: huay1241
 glottolog_family_id: quec1387
 glottolog_family_name: Quechuan
 glottolog_classification: "Quechuan > Quechua I > Central Quechua I > Jauja-Huanca > Huaylla Wanca Quechua"
+translations:
+  - translation_iso: zho
+    name: 瓦亚瓦卡克丘亚语
+    auto: true
 ---

@@ -1,8 +1,6 @@
 ---
 iso: hro
 name: Haroi
-name_zh: 哈罗伊语
-name_zh_auto: true
 autonym: Aroi
 alt_names: [Bahnar Cham, Hoi, Hroi, Hroy, Hrway]
 population: 35000
@@ -16,5 +14,9 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Malayo-Chamic > Aceh-Chamic > Chamic > Haroi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Haroi_language"
+translations:
+  - translation_iso: zho
+    name: 哈罗伊语
+    auto: true
 ---
 Haroi (Hroi) is a Chamic language of Vietnam. It is spoken by the Cham Haroi people living in Gia Lai and Đắk Lắk provinces.

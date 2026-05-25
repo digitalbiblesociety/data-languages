@@ -1,8 +1,6 @@
 ---
 iso: yuq
 name: Yuqui
-name_zh: 尤基语
-name_zh_auto: true
 autonym: Mbia chẽẽ
 alt_names: [Bia, Yuki, Yuquí, Yúki, mbiá]
 population: 120
@@ -16,5 +14,9 @@ glottolog_family_id: tupi1275
 glottolog_family_name: Tupian
 glottolog_classification: "Tupian > Eastern Tupian > Maweti-Guarani > Aweti-Guarani > Tupi-Guarani > Southern Tupi-Guarani > Tupi-Guarani Subgroup II > Warazu-Sirionoid > Sirionoid > Yuqui"
 wikipedia_url: "https://en.wikipedia.org/wiki/Yuqui_language"
+translations:
+  - translation_iso: zho
+    name: 尤基语
+    auto: true
 ---
 Yuqui (Yuki) is a Guarayú language of the Tupí-Guaraní language family spoken in the department of Cochabamba, Bolivia by the Yuqui.

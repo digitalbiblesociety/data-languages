@@ -1,8 +1,6 @@
 ---
 iso: ymo
 name: Yangum Mon
-name_zh: 扬古姆-蒙语
-name_zh_auto: true
 autonym: Aiku
 alt_names: [Malek, Menandon, Minendon, Monanda, Monandu, Umbrak-Aiku]
 population: 730
@@ -15,4 +13,8 @@ glottocode: yang1296
 glottolog_family_id: nucl1708
 glottolog_family_name: Nuclear Torricelli
 glottolog_classification: "Nuclear Torricelli > Wapei-Palei > Central Torricelli > Nuclear Palai > Yangum-Ambrak > Yangum > Yangum Mon"
+translations:
+  - translation_iso: zho
+    name: 扬古姆-蒙语
+    auto: true
 ---

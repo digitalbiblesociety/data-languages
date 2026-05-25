@@ -1,8 +1,6 @@
 ---
 iso: goo
 name: Gone Dau
-name_zh: 贡达乌语
-name_zh_auto: true
 autonym: Gonedau
 alt_names: [Fidji-Inseln]
 population: 690
@@ -16,5 +14,9 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Central Pacific linkage > Tokalau Fijian > Eastern Fijian > Nuclear Eastern Fijian > Gone Dau"
 wikipedia_url: "https://en.wikipedia.org/wiki/Gone_Dau_language"
+translations:
+  - translation_iso: zho
+    name: 贡达乌语
+    auto: true
 ---
 Gone Dau is an East Fijian language spoken by about 500 people on the islands of Galoa and Tavea in the Gone Dau islands off the coast of Western Vanua Levu, Fiji.

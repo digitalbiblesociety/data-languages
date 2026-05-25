@@ -1,8 +1,6 @@
 ---
 iso: kmg
 name: Kâte
-name_zh: 卡特语
-name_zh_auto: true
 autonym: null
 alt_names: [Kai, Kate, Kâte Dong]
 population: 6130
@@ -16,6 +14,12 @@ glottolog_family_id: nucl1709
 glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Finisterre-Huon > Huon > Eastern Huon > Trans Vitiaz > Huon Tip > Kate-Mape > Kâte"
 wikipedia_url: "https://en.wikipedia.org/wiki/K%C3%A2te_language"
+translations:
+  - translation_iso: jpn
+    name: カーテ語
+  - translation_iso: zho
+    name: 卡特语
+    auto: true
 rolv_dialects:
   - rolv_code: 11681
     language_tag: kmg-x-HIS11681

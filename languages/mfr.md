@@ -1,8 +1,6 @@
 ---
 iso: mfr
 name: Marrithiyel
-name_zh: 玛利提耶尔语
-name_zh_auto: true
 autonym: Berringen
 alt_names: ["\"Bringen\"", "\"Brinken\"", Berinken, Berinkin, Berringin, Bringen, Brinkan, Brinken, Brinkin, Magatige, Marathiel, Maridhiel, Maridhiyel, Maridiel, Maridiyal, Maridiyel, Maridjiel, Marithid, Marithiel, Marithiyel, Maritige, Marri Ammu, Marridan, Marrisjefin, Matige, Muringa, Muringata, Muringe, Muritijel, Western Daly language., beringken, commonly adapted into English as Brinkin]
 population: 20
@@ -16,6 +14,12 @@ glottolog_family_id: west2434
 glottolog_family_name: Western Daly
 glottolog_classification: "Western Daly > Bringen > Marithielic > Marithiel"
 wikipedia_url: "https://en.wikipedia.org/wiki/Marrithiyel_language"
+translations:
+  - translation_iso: jpn
+    name: マルリ・ジャビン語
+  - translation_iso: zho
+    name: 玛利提耶尔语
+    auto: true
 rolv_dialects:
   - rolv_code: 13764
     language_tag: mfr-x-HIS13764

@@ -1,8 +1,6 @@
 ---
 iso: mgb
 name: Mararit
-name_zh: 玛拉里特语
-name_zh_auto: true
 autonym: Abiri
 alt_names: [Abiyi, Ebiri, Mararet, Marariteg, Merarit]
 population: 15376
@@ -16,6 +14,12 @@ glottolog_family_id: tama1329
 glottolog_family_name: Tamaic
 glottolog_classification: "Tamaic > Mararit"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mararit_language"
+translations:
+  - translation_iso: ara
+    name: لغة ماراريت
+  - translation_iso: zho
+    name: 玛拉里特语
+    auto: true
 rolv_dialects:
   - rolv_code: 13709
     language_tag: mgb-x-HIS13709

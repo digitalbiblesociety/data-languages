@@ -1,8 +1,6 @@
 ---
 iso: xdy
 name: Malayic Dayak
-name_zh: 马来亚克达亚克语
-name_zh_auto: true
 autonym: Delang–Kayung–Banana’
 alt_names: [Dayak, "Dayak, Malayic"]
 population: 520000
@@ -15,6 +13,10 @@ glottocode: mala1480
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Malayo-Chamic > Malayic > Malayic Dayak"
+translations:
+  - translation_iso: zho
+    name: 马来亚克达亚克语
+    auto: true
 rolv_dialects:
   - rolv_code: 741
     language_tag: xdy-x-HIS00741

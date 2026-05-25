@@ -1,8 +1,6 @@
 ---
 iso: bqz
 name: Bakaka
-name_zh: 巴卡卡语
-name_zh_auto: true
 autonym: Ngoe
 alt_names: [Central Mbo]
 population: 30000
@@ -16,6 +14,10 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > Bantu A-B10-B20-B30 > Lundu-Balong (A.10) > Greater Manenguba > Bafaw-Balong-Manenguba > Manenguba > Central Manenguba > Bakaka"
 wikipedia_url: "https://en.wikipedia.org/wiki/Bakaka_language"
+translations:
+  - translation_iso: zho
+    name: 巴卡卡语
+    auto: true
 rolv_dialects:
   - rolv_code: 28500
     language_tag: bqz-x-HIS28500

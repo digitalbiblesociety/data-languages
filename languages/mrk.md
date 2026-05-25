@@ -1,8 +1,6 @@
 ---
 iso: mrk
 name: Hmwaveke
-name_zh: 赫姆瓦韦克语
-name_zh_auto: true
 autonym: Ceta
 alt_names: [Faa Ceta, Moaveke, Neukaledonien]
 population: 300
@@ -16,5 +14,11 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Southern Melanesian > New Caledonian > Mainland New Caledonian > Northern New Caledonian > Mid-Northern New Caledonian > Voh-Kone-Cem-Pac > Voh-Kone > Hmwaveke"
 wikipedia_url: "https://en.wikipedia.org/wiki/Hmwaveke_language"
+translations:
+  - translation_iso: jpn
+    name: ムアヴェケ語
+  - translation_iso: zho
+    name: 赫姆瓦韦克语
+    auto: true
 ---
 Hmwaveke (’Moaveke) is a Kanak language of New Caledonia, in the commune of Voh.

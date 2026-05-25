@@ -1,8 +1,6 @@
 ---
 iso: sha
 name: "Shall-Zwall"
-name_zh: 沙尔-兹瓦尔语
-name_zh_auto: true
 autonym: null
 alt_names: [Nigeria]
 population: 8900
@@ -16,6 +14,10 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Benue-Congo Plateau > Beromic > Shall-Zwall"
 wikipedia_url: "https://en.wikipedia.org/wiki/Shall-Zwall_language"
+translations:
+  - translation_iso: zho
+    name: 沙尔-兹瓦尔语
+    auto: true
 rolv_dialects:
   - rolv_code: 2031
     language_tag: sha-x-HIS02031

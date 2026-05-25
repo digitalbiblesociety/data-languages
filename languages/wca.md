@@ -1,8 +1,6 @@
 ---
 iso: wca
 name: Yanomámi
-name_zh: 亚诺玛米语
-name_zh_auto: true
 autonym: Yąnomamɨ
 alt_names: [Central Waica, Central Waicá, Parahuri, Surara, Waica, Waica (Central), Waicá, Waiká, Xurima, Yanam, Yanoam, Yanomam, Yanomaman language area, Yanomami, Yanomamé, Yanomaé]
 population: 6000
@@ -16,6 +14,10 @@ glottolog_family_id: yano1268
 glottolog_family_name: Yanomamic
 glottolog_classification: "Yanomamic > Ninam-Yanomam-Yaroame > Yanomam-Yaroame > Yanomam-Yanimamo > Yanomám"
 wikipedia_url: "https://en.wikipedia.org/wiki/Yanom%C3%A1m_language"
+translations:
+  - translation_iso: zho
+    name: 亚诺玛米语
+    auto: true
 rolv_dialects:
   - rolv_code: 3818
     language_tag: wca-x-HIS03818

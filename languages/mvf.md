@@ -1,7 +1,6 @@
 ---
 iso: mvf
 name: Peripheral Mongolian
-name_zh: 内蒙古方言
 autonym: Inner Mongolian
 alt_names: [Khorchin, Khorčin, Menggu, Monggol, Mongol, Mongol (Khamnigan), "Mongolian, Peripheral", Ordos, Ostmongolisch, Southern-Eastern Mongolian]
 population: 5980000
@@ -15,6 +14,11 @@ glottolog_family_id: mong1349
 glottolog_family_name: Mongolic-Khitan
 glottolog_classification: "Mongolic-Khitan > Mongolic > Eastern Mongolic > Khalkha-Buriat > Mongolian > Peripheral Mongolian"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mongolian_language_in_Inner_Mongolia"
+translations:
+  - translation_iso: jpn
+    name: 南部モンゴル語群
+  - translation_iso: zho
+    name: 内蒙古方言
 rolv_dialects:
   - rolv_code: 4947
     language_tag: mvf-x-HIS04947

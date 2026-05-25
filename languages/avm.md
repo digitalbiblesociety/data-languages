@@ -1,8 +1,6 @@
 ---
 iso: avm
 name: Angkamuthi
-name_zh: 安卡穆蒂语
-name_zh_auto: true
 autonym: Injinoo
 population: null
 country_id: AU
@@ -14,4 +12,8 @@ glottocode: angg1238
 glottolog_family_id: pama1250
 glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > Paman > Northern Pama > Gudang-Northeast Paman > Northeast Paman > Uradhic > Yadhaykenu-Angkamuthi > Angkamuthi"
+translations:
+  - translation_iso: zho
+    name: 安卡穆蒂语
+    auto: true
 ---

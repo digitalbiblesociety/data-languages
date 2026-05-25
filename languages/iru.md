@@ -1,8 +1,6 @@
 ---
 iso: iru
 name: Irula
-name_zh: 伊鲁拉语
-name_zh_auto: true
 autonym: இருளா
 alt_names: [Eravallan, Erukala, Irava, Irulan, Irular, Irular Mozhi, Irulavan, Iruliga, Iruligar, Iruḷa, Kad Chensu, Korava]
 population: 200000
@@ -16,6 +14,14 @@ glottolog_family_id: drav1251
 glottolog_family_name: Dravidian
 glottolog_classification: "Dravidian > South Dravidian > South Dravidian I > Tamil-Kannada > Tamil-Kota > Tamil-Toda > Tamil-Irula > Irula-Muduga > Irula of the Nilgiri"
 wikipedia_url: "https://en.wikipedia.org/wiki/Irula_language"
+translations:
+  - translation_iso: hin
+    name: ईरुला भाषा
+  - translation_iso: jpn
+    name: イルラ語
+  - translation_iso: zho
+    name: 伊鲁拉语
+    auto: true
 rolv_dialects:
   - rolv_code: 4048
     language_tag: iru-x-HIS04048

@@ -1,8 +1,6 @@
 ---
 iso: nhi
 name: "Zacatlán-Ahuacatlán-Tepetzintla Nahuatl"
-name_zh: 萨卡特兰纳瓦特尔语
-name_zh_auto: true
 autonym: masehual tla’tol (ncj)
 alt_names: [Eastern Nawa, Mexicano, Nahua de la Huasteca, Nahuatl, "Nahuatl, Tenango", "Nahuatl, Zacatlán-Ahuacatlán-Tepetzintla", Náhuatl du Huasteca, San Miguel Tenango Náhuatl, Tenango Aztec, Zacatlan-Ahuacatlan-Tepetzintla Nahuatl]
 population: 17100
@@ -15,6 +13,10 @@ glottocode: zaca1241
 glottolog_family_id: utoa1244
 glottolog_family_name: Uto-Aztecan
 glottolog_classification: "Uto-Aztecan > Southern Uto-Aztecan > Corachol-Aztecan > Aztec > Western Nahuatl > Central Nahuatl > Tlaxcala-Southeastern Puebla Nahuatl > Zacatlán-Ahuacatlán-Tepetzintla Nahuatl"
+translations:
+  - translation_iso: zho
+    name: 萨卡特兰纳瓦特尔语
+    auto: true
 rolv_dialects:
   - rolv_code: 14641
     language_tag: nhi-x-HIS14641

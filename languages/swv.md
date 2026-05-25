@@ -1,8 +1,6 @@
 ---
 iso: swv
 name: Shekhawati
-name_zh: 谢卡瓦蒂语
-name_zh_auto: true
 autonym: शेखावाटी
 alt_names: [Marwari, Rajasthani, Shekhawati-Marwari, ภาษาเสขวาตี]
 population: 3000000
@@ -17,6 +15,14 @@ glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Indo-Aryan > Middle-Modern Indo-Aryan > Continental Indo-Aryan > Midlands Indo-Aryan > Apabhramsic > Gujarati-Rajasthani > Rajasthani > Shekhawati"
 wikipedia_url: "https://en.wikipedia.org/wiki/Shekhawati_language"
+translations:
+  - translation_iso: hin
+    name: शेखावाटी भाषा
+  - translation_iso: jpn
+    name: シェカワティ語
+  - translation_iso: zho
+    name: 谢卡瓦蒂语
+    auto: true
 rolv_dialects:
   - rolv_code: 25830
     language_tag: swv-x-HIS25830

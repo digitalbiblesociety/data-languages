@@ -1,8 +1,6 @@
 ---
 iso: woc
 name: Wogeo
-name_zh: 沃格欧语
-name_zh_auto: true
 autonym: Uageo
 alt_names: [Wokeo]
 population: 1620
@@ -16,6 +14,10 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > North New Guinea linkage > Schouten linkage > Kairiru-Manam > Manamic linkage > Kis-Wogeo > Wogeo"
 wikipedia_url: "https://en.wikipedia.org/wiki/Wogeo_language"
+translations:
+  - translation_iso: zho
+    name: 沃格欧语
+    auto: true
 rolv_dialects:
   - rolv_code: 30478
     language_tag: woc-x-HIS30478

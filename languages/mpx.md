@@ -1,8 +1,6 @@
 ---
 iso: mpx
 name: "Misima-Panaeati"
-name_zh: 米西玛-帕那埃阿蒂语
-name_zh_auto: true
 autonym: "Misima-Panaeati"
 alt_names: [Misima-Paneati, Panaeati, Panaieti, Panayeti, Paneate, Paneyate]
 population: 20000
@@ -16,6 +14,12 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > Papuan Tip linkage > Peripheral Papuan Tip linkage > Kilivila-Misima > Misima-Paneati"
 wikipedia_url: "https://en.wikipedia.org/wiki/Misima_language"
+translations:
+  - translation_iso: jpn
+    name: ミシマ語
+  - translation_iso: zho
+    name: 米西玛-帕那埃阿蒂语
+    auto: true
 rolv_dialects:
   - rolv_code: 14104
     language_tag: mpx-x-HIS14104

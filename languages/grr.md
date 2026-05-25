@@ -1,8 +1,6 @@
 ---
 iso: grr
 name: Taznatit
-name_zh: 塔兹纳蒂特语
-name_zh_auto: true
 autonym: تازناتيت / ⵜⴰⵣⵏⴰⵜⵉⵜ
 alt_names: [Garawa, Shilha, Touat, Zenati, Zenatia, Zenete, Znatiya]
 population: 11000
@@ -16,6 +14,10 @@ glottocode: tazn1238
 glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Berber > Greater Zenatic > Zenatic > Northern Saharan Oasis Berber > Sud Oranais-Gourara"
+translations:
+  - translation_iso: zho
+    name: 塔兹纳蒂特语
+    auto: true
 rolv_dialects:
   - rolv_code: 17277
     language_tag: grr-x-HIS17277

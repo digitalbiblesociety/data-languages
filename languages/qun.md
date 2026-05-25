@@ -1,8 +1,6 @@
 ---
 iso: qun
 name: Quinault
-name_zh: 奎诺特语
-name_zh_auto: true
 autonym: Kʷínaył
 alt_names: [Queets, Queniut, kʷínayɬ]
 population: 2007
@@ -16,6 +14,14 @@ glottolog_family_id: sali1255
 glottolog_family_name: Salishan
 glottolog_classification: "Salishan > Coast Salish > Tsamosan > Coastal Tsamosan > Quinault"
 wikipedia_url: "https://en.wikipedia.org/wiki/Quinault_language"
+translations:
+  - translation_iso: ara
+    name: كينولت
+  - translation_iso: jpn
+    name: クイナルト語
+  - translation_iso: zho
+    name: 奎诺特语
+    auto: true
 rolv_dialects:
   - rolv_code: 15904
     language_tag: qun-x-HIS15904

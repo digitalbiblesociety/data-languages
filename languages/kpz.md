@@ -1,7 +1,6 @@
 ---
 iso: kpz
 name: Kupsabiny
-name_zh: 薩比尼語
 autonym: Sabiny
 alt_names: [Sapei, Sapiny, Sebei]
 population: 274000
@@ -15,6 +14,11 @@ glottolog_family_id: nilo1247
 glottolog_family_name: Nilotic
 glottolog_classification: "Nilotic > Southern Nilotic > Kalenjin > Elgon-Mau Kalenjin > Kupsabiny"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kupsabiny_language"
+translations:
+  - translation_iso: jpn
+    name: クプサビニィ語
+  - translation_iso: zho
+    name: 薩比尼語
 rolv_dialects:
   - rolv_code: 12518
     language_tag: kpz-x-HIS12518

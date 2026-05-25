@@ -1,8 +1,6 @@
 ---
 iso: beb
 name: Bebele
-name_zh: 贝贝勒语
-name_zh_auto: true
 autonym: Bamvele
 population: 24000
 country_id: CM
@@ -15,6 +13,10 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > Bantu A-B10-B20-B30 > Basaa-Yaunde (A40-70) > Yaunde-Fang (A.70) > Ewondo-Bebele > Bebele"
 wikipedia_url: "https://en.wikipedia.org/wiki/Bebele_language"
+translations:
+  - translation_iso: zho
+    name: 贝贝勒语
+    auto: true
 rolv_dialects:
   - rolv_code: 7902
     language_tag: beb-x-HIS07902

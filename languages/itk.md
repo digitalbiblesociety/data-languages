@@ -1,7 +1,6 @@
 ---
 iso: itk
 name: "Judeo-Italian"
-name_zh: 犹太-意大利语
 autonym: "ג'יודו-איטאליאנו giudeo-italiano"
 alt_names: [Giudeo-italiano, Italkian, Italkieg, Język judeo-włoski, Lenguas judeo-italianas, Luengas chodigoitalianas, Еврейско-романские языки, איטלקית יהודית, ユダヤ・イタリア語群]
 population: 200
@@ -15,6 +14,13 @@ glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Italic > Latino-Faliscan > Latinic > Imperial Latin > Romance > Italo-Western Romance > Western Romance > Shifted Western Romance > Northwestern Shifted Romance > Gallo-Italian > Judeo-Italian"
 wikipedia_url: "https://en.wikipedia.org/wiki/Judeo-Italian_dialects"
+translations:
+  - translation_iso: jpn
+    name: ユダヤ・イタリア語群
+  - translation_iso: kor
+    name: 유대 이탈리아어
+  - translation_iso: zho
+    name: 犹太-意大利语
 rolv_dialects:
   - rolv_code: 26738
     language_tag: itk-x-HIS26738

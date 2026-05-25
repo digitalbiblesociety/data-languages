@@ -1,8 +1,6 @@
 ---
 iso: mpw
 name: Mapidian
-name_zh: 玛皮迪安语
-name_zh_auto: true
 autonym: Mapidian
 alt_names: [Madipian, Mahuayana, Maiopitian, Maopidian, Maopityan, Mapidi, Mapidiana, Mawayana, Mawayana (Brésil), Mawayana (Guyana), Mawayana (Guyane), Uapixana, Vapidiana, Wapishana, Wapishana (Brésil), Wapishana (Guyana), Wapishana (Guyane), Wapisiana, Wapixana, Wapixiána]
 population: null
@@ -16,5 +14,11 @@ glottolog_family_id: araw1281
 glottolog_family_name: Arawakan
 glottolog_classification: "Arawakan > Negro-Roraima > Pidjanan > Mapidian-Mawayana"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mapidian_language"
+translations:
+  - translation_iso: jpn
+    name: マピディア語
+  - translation_iso: zho
+    name: 玛皮迪安语
+    auto: true
 ---
 Mawayana (Mahuayana), also known as Mapidian (Maopidyán), is a moribund Arawakan language of northern South America. It used to be spoken by Mawayana people living in ethnic Wai-wai and Tiriyó villages in Brazil, Guyana and Suriname. As of 2015, the last two speakers of the language are living in Kwamalasamutu.

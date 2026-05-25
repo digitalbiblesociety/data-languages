@@ -1,8 +1,6 @@
 ---
 iso: mif
 name: "Mofu-Gudur"
-name_zh: 莫夫-古都尔语
-name_zh_auto: true
 autonym: Mofou
 alt_names: [Mofou de Goudour, Mofu, Mofu (South), Mofu South, Mofu-Sud, Muffo, Muffu]
 population: 90000
@@ -16,6 +14,12 @@ glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > Biu-Mandara > North Biu-Mandara > Margi-Mandara-Mofu > Mofuic > Mofu > Mofu-Gudur"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mofu-Gudur_language"
+translations:
+  - translation_iso: hin
+    name: मोफू-गुडुर
+  - translation_iso: zho
+    name: 莫夫-古都尔语
+    auto: true
 rolv_dialects:
   - rolv_code: 2901
     language_tag: mif-x-HIS02901

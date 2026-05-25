@@ -1,8 +1,6 @@
 ---
 iso: phl
 name: Phalura
-name_zh: 法卢拉语
-name_zh_auto: true
 autonym: پالولہ
 alt_names: [Biyori, Dangarik, Dangarīk, Dardu, Palola, Paloureg, Palula, Palula language, Palūla, Phalulo, ภาษาปาลูลา]
 population: 10000
@@ -16,6 +14,14 @@ glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Indo-Aryan > Middle-Modern Indo-Aryan > Eastern Dardic > Nuclear Eastern Dardic > Shinaic > Western Shinaic > Dangari > Palula"
 wikipedia_url: "https://en.wikipedia.org/wiki/Palula_language"
+translations:
+  - translation_iso: hin
+    name: पालूला भाषा
+  - translation_iso: jpn
+    name: パルーラ語
+  - translation_iso: zho
+    name: 法卢拉语
+    auto: true
 rolv_dialects:
   - rolv_code: 15623
     language_tag: phl-x-HIS15623

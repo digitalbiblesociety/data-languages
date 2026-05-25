@@ -1,8 +1,6 @@
 ---
 iso: ocm
 name: Old Cham
-name_zh: 古占语
-name_zh_auto: true
 alt_names: ["Cham, Old"]
 country_id: VN
 country_name: Vietnam
@@ -13,5 +11,9 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Malayo-Chamic > Aceh-Chamic > Chamic > Cham > Old Cham"
 wikipedia_url: "https://en.wikipedia.org/wiki/Old_Cham"
+translations:
+  - translation_iso: zho
+    name: 古占语
+    auto: true
 ---
 Cham has the oldest literary history of any Austronesian language. The Dong Yen Chau inscription, written in Old Cham, dates from the late 4th century AD.

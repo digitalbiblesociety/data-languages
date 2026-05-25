@@ -1,8 +1,6 @@
 ---
 iso: gum
 name: Guambiano
-name_zh: 瓜姆比亚诺语
-name_zh_auto: true
 autonym: Namrrik
 alt_names: [Guambia, Guambiana, Guambiano-Moguez, Guambino, Guambía, Misak, Moguex, Moguez, Mogés, Mogües, Namdrik, Wam, Wambiano, Wambiano-Mogés]
 population: 21000
@@ -16,5 +14,9 @@ glottolog_family_id: barb1265
 glottolog_family_name: Barbacoan
 glottolog_classification: "Barbacoan > Coconucan > Guambiano"
 wikipedia_url: "https://en.wikipedia.org/wiki/Guambiano_language"
+translations:
+  - translation_iso: zho
+    name: 瓜姆比亚诺语
+    auto: true
 ---
 Guambiano, also called Misak, Namuy Wam, Nam Trik or Moguex is a Barbacoan language spoken in southwestern Colombia, in Cauca Department by the Guambianos, whose population is estimated at 20 782 people.

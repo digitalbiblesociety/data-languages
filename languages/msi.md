@@ -1,8 +1,6 @@
 ---
 iso: msi
 name: Sabah Malay
-name_zh: 沙巴马来语
-name_zh_auto: true
 autonym: "Bahasa-Bahasa Melayu Dagang dan Kreol"
 alt_names: [Bazaar Malay, Brunei-Sabah Malay, "Malay, Sabah", Pasar Malay]
 population: null
@@ -15,4 +13,10 @@ glottocode: saba1263
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Malayo-Chamic > Malayic > Nuclear Malayic > East Borneo Malay > Banjar-Berau-Brunei Malay > Berau-Brunei Malay > Bruneic Malay > Sabah Malay"
+translations:
+  - translation_iso: jpn
+    name: サバ・マレー語
+  - translation_iso: zho
+    name: 沙巴马来语
+    auto: true
 ---

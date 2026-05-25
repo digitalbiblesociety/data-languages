@@ -1,8 +1,6 @@
 ---
 iso: kmy
 name: Koma
-name_zh: 科玛语
-name_zh_auto: true
 autonym: Kuma
 population: 35000
 country_id: NG
@@ -15,6 +13,10 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Cameroun-Ubangian > Central Adamawa > Samba-Duru > Northern Samba-Duru > Vere-Gimme > Vere > Koma Ndera"
 wikipedia_url: "https://en.wikipedia.org/wiki/Koma_language"
+translations:
+  - translation_iso: zho
+    name: 科玛语
+    auto: true
 rolv_dialects:
   - rolv_code: 4252
     language_tag: kmy-x-HIS04252

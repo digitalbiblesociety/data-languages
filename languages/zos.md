@@ -1,8 +1,6 @@
 ---
 iso: zos
 name: Francisco León Zoque
-name_zh: 弗朗西斯科莱昂索克语
-name_zh_auto: true
 autonym: "Zoque, Francisco León"
 alt_names: [Chiapas Soke, Francisco Leon, Francisco Leon Zoque, Francisco León, Magdalena, North Zoque, Santa Magdalena Zoque, Soke, Sokean, Zoque, Zoque (Francisco Lain), Zoque (Francisco León), Zoque de Francisco León]
 population: 20000
@@ -15,6 +13,10 @@ glottocode: fran1266
 glottolog_family_id: mixe1284
 glottolog_family_name: Mixe-Zoque
 glottolog_classification: "Mixe-Zoque > Zoque > Chiapas-Jitotolteco Zoque > Chiapas Zoque > Northern Chiapas Zoque"
+translations:
+  - translation_iso: zho
+    name: 弗朗西斯科莱昂索克语
+    auto: true
 rolv_dialects:
   - rolv_code: 18726
     language_tag: zos-x-HIS18726

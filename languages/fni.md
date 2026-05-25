@@ -1,8 +1,6 @@
 ---
 iso: fni
 name: Fania
-name_zh: 范尼亚语
-name_zh_auto: true
 autonym: Kulaale
 alt_names: [Eywe, Fagnia, Fana, Fanian, Fanya, Fanyan, Fulfulde (Nigerian), Kobe, Mana]
 population: 1100
@@ -16,5 +14,9 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Bua-Kim-Day > Adamawa Bua > Inland Bua > Goulaic > Zan-Kulaalic > Kulaalic > Fania"
 wikipedia_url: "https://en.wikipedia.org/wiki/Fania_language"
+translations:
+  - translation_iso: zho
+    name: 范尼亚语
+    auto: true
 ---
 Fania is an Adamawa language of Chad. The northern and southern dialects are rather divergent.

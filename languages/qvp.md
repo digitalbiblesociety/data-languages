@@ -1,8 +1,6 @@
 ---
 iso: qvp
 name: Pacaraos Quechua
-name_zh: 帕卡劳斯克丘亚语
-name_zh_auto: true
 autonym: Pakaraw runasimi
 alt_names: [Pacaraos, Quechua Pacaraos, Quechua de Pacaraos, "Quechua, Pacaraos"]
 population: 250
@@ -16,5 +14,9 @@ glottolog_family_id: quec1387
 glottolog_family_name: Quechuan
 glottolog_classification: "Quechuan > Quechua I > Pacaraos Quechua"
 wikipedia_url: "https://en.wikipedia.org/wiki/Pacaraos_Quechua"
+translations:
+  - translation_iso: zho
+    name: 帕卡劳斯克丘亚语
+    auto: true
 ---
 Pacaraos Quechua is a variety of Quechua spoken until the middle of the 20th century in the community of Pacaraos in the Peruvian Lima Region in the Chancay valley up to 3000 m above sea level.

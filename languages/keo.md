@@ -1,8 +1,6 @@
 ---
 iso: keo
 name: Kakwa
-name_zh: 卡库瓦语
-name_zh_auto: true
 autonym: Karo
 alt_names: [Bari Kakwa, Kakua, Kakwak, Kwakwak]
 population: 351000
@@ -16,6 +14,10 @@ glottolog_family_id: nilo1247
 glottolog_family_name: Nilotic
 glottolog_classification: "Nilotic > Eastern Nilotic > Barian > Kakwa"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kakwa_language_(Africa)"
+translations:
+  - translation_iso: zho
+    name: 卡库瓦语
+    auto: true
 rolv_dialects:
   - rolv_code: 1322
     language_tag: keo-x-HIS01322

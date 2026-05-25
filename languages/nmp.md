@@ -1,8 +1,6 @@
 ---
 iso: nmp
 name: Nimanbur
-name_zh: 尼曼布尔语
-name_zh_auto: true
 autonym: Nimanburru
 alt_names: [Nimanboro, Nimanboru, Wadiabulu]
 population: null
@@ -16,5 +14,11 @@ glottolog_family_id: nyul1248
 glottolog_family_name: Nyulnyulan
 glottolog_classification: "Nyulnyulan > Western Nyulnyulan > Nimanbur"
 wikipedia_url: "https://en.wikipedia.org/wiki/Nimanburru_language"
+translations:
+  - translation_iso: jpn
+    name: ニマンブル語
+  - translation_iso: zho
+    name: 尼曼布尔语
+    auto: true
 ---
 Nimanburru is an extinct Western Nyulnyulan language formerly spoken on the eastern shore of the Dampier Peninsula in the north-west of Australia. Archival records exist in the Australian Institute of Aboriginal and Torres Strait Islander Studies and some of the material in Hermann Nekes and Ernest Ailred Worms' Australian Languages is from the language.

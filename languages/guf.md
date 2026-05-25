@@ -1,8 +1,6 @@
 ---
 iso: guf
 name: Gupapuyngu
-name_zh: 古帕普英古语
-name_zh_auto: true
 autonym: "Dhay'yi"
 alt_names: [Ba-babingo, Dajoror, Gababingo, Gababoinu, Goba-buinggu, Gobabingo, Gobabwingo, Gobabwingu, Gobagwingo, Guba, Gubabuingu, Gubabuyngu, Gubabwingu, Gububuinung, Gupapuyna, Gupapuynu, Gupapuyŋu, Kopapaingo, Kopapingo, Kopapingu, Kopapoingo, Koparpingu, Kupapuyngu, Kuppapoingo]
 population: 300
@@ -15,6 +13,10 @@ glottocode: gupa1247
 glottolog_family_id: pama1250
 glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > Yuulngu > Southern Yolngu > Southern-Eastern Yolngu > Dhuwal-Dhuwala > Eastern Dhuwal-Dhuwala > Gupapuyngu"
+translations:
+  - translation_iso: zho
+    name: 古帕普英古语
+    auto: true
 rolv_dialects:
   - rolv_code: 10453
     language_tag: guf-x-HIS10453

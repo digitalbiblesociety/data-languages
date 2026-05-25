@@ -1,8 +1,6 @@
 ---
 iso: ney
 name: Neyo
-name_zh: 内约语
-name_zh_auto: true
 autonym: Gwibwen
 alt_names: [Towi]
 population: 9200
@@ -16,5 +14,9 @@ glottolog_family_id: krua1234
 glottolog_family_name: Kru
 glottolog_classification: "Kru > Eastern Kru > Neyo-Dida > Neyo"
 wikipedia_url: "https://en.wikipedia.org/wiki/Neyo_language"
+translations:
+  - translation_iso: zho
+    name: 内约语
+    auto: true
 ---
 Neyo is a Kru language of Ivory Coast, near the mouth of the Sassandra River.

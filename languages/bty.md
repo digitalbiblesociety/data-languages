@@ -1,8 +1,6 @@
 ---
 iso: bty
 name: Bobot
-name_zh: 博博特语
-name_zh_auto: true
 autonym: Ahtiago
 alt_names: [Atiahu, Hatumeten, Ntau, Werinama]
 population: 4500
@@ -16,5 +14,9 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Greater Seram Laut > East Seram > East Rivers Seram > Bobot"
 wikipedia_url: "https://en.wikipedia.org/wiki/Bobot_language"
+translations:
+  - translation_iso: zho
+    name: 博博特语
+    auto: true
 ---
 Bobot is a language of the island of Seram, Indonesia.

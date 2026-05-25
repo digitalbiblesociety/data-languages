@@ -1,7 +1,6 @@
 ---
 iso: kht
 name: Khamti
-name_zh: 坎底語
 autonym: Hkamti
 alt_names: [Hkampti, Hkampti Shan, Kam Ti, Kamti, Kham(p)ti, Khampti, Khampti Sam, Khampti Shan, Khamti Shan, Khandi Shan, Shan, Tai Kam Ti, Tai Khamti, Tai-Khamti]
 population: 13120
@@ -16,6 +15,13 @@ glottolog_family_id: taik1256
 glottolog_family_name: Tai-Kadai
 glottolog_classification: "Tai-Kadai > Kam-Tai > Daic-Beic > Daic > Central-Southwestern Tai > Wenma-Southwestern Tai > Sapa-Southwestern Tai > Southwestern Tai > Southwestern Tai P > Shanic > Sukaphic > Assam Tai B > Khamti"
 wikipedia_url: "https://en.wikipedia.org/wiki/Khamti_language"
+translations:
+  - translation_iso: hin
+    name: खाम्प्टी भाषा
+  - translation_iso: jpn
+    name: カムティ語
+  - translation_iso: zho
+    name: 坎底語
 rolv_dialects:
   - rolv_code: 11929
     language_tag: kht-x-HIS11929

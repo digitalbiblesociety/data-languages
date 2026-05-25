@@ -1,7 +1,6 @@
 ---
 iso: kha
 name: Khasi
-name_zh: 卡西语
 autonym: " ক ক্ত্যেন খসি"
 alt_names: [Cossyah, Jasí, Język chasi, Kahasi, Kaseg, Kassi, Khasa, Khashi, Khasia, Khasie, Khasiyas, Khassee, Khuchia, Kyi, Lingua Khasi, Língua khasi, Standard Khasi, Кхаси, खासी भाषा, ภาษากาสี]
 population: 1050000
@@ -16,6 +15,17 @@ glottolog_family_id: aust1305
 glottolog_family_name: Austroasiatic
 glottolog_classification: "Austroasiatic > Khasi-Palaung > Khasian > Khasi-Pnar-Lyngngam > Khasi-Pnar > Khasi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Khasi_language"
+translations:
+  - translation_iso: ara
+    name: الخاسية
+  - translation_iso: hin
+    name: खसी भाषा
+  - translation_iso: jpn
+    name: カシ語
+  - translation_iso: kor
+    name: 카시어
+  - translation_iso: zho
+    name: 卡西语
 rolv_dialects:
   - rolv_code: 866
     language_tag: kha-x-HIS00866

@@ -1,8 +1,6 @@
 ---
 iso: wgy
 name: Warrgamay
-name_zh: 瓦尔加梅语
-name_zh_auto: true
 autonym: Biyay
 alt_names: [Bandjin, Bijai, Bungabara, Herbert River tribe, Ikelbara, Waragamai, Warakamai, Wargamay, Wargamaygan, Warkamai]
 population: null
@@ -16,5 +14,11 @@ glottolog_family_id: pama1250
 glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > Warrgamay"
 wikipedia_url: "https://en.wikipedia.org/wiki/Warrgamay_language"
+translations:
+  - translation_iso: jpn
+    name: ワルガマイ語
+  - translation_iso: zho
+    name: 瓦尔加梅语
+    auto: true
 ---
 Warrgamay is an extinct Australian Aboriginal language of northeast Queensland. It was closely related to Dyirbal.

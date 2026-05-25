@@ -1,8 +1,6 @@
 ---
 iso: nsw
 name: Navut
-name_zh: 纳瓦特语
-name_zh_auto: true
 autonym: Sinia
 alt_names: [Vanuatu]
 population: 520
@@ -16,6 +14,10 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > North and Central Vanuatu > Northern Vanuatu > Espiritu Santo > West Santo > Central Santo > Navut"
 wikipedia_url: "https://en.wikipedia.org/wiki/Navut_language"
+translations:
+  - translation_iso: zho
+    name: 纳瓦特语
+    auto: true
 rolv_dialects:
   - rolv_code: 29890
     language_tag: nsw-x-HIS29890

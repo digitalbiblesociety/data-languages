@@ -1,8 +1,6 @@
 ---
 iso: rtc
 name: Rungtu Chin
-name_zh: 荣图钦语
-name_zh_auto: true
 autonym: Taungtha
 alt_names: ["Chin, Rungtu"]
 population: 4000
@@ -10,6 +8,10 @@ country_id: MM
 country_name: Myanmar
 status_id: 6b
 wikipedia_url: "https://en.wikipedia.org/wiki/Rungtu_language"
+translations:
+  - translation_iso: zho
+    name: 荣图钦语
+    auto: true
 rolv_dialects:
   - rolv_code: 26856
     language_tag: rtc-x-HIS26856

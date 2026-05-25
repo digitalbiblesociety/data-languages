@@ -1,8 +1,6 @@
 ---
 iso: nms
 name: Letemboi
-name_zh: 莱特姆博依语
-name_zh_auto: true
 autonym: " Small Nambas"
 alt_names: [Lendamboi]
 population: 800
@@ -16,6 +14,12 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > North and Central Vanuatu > Central Vanuatu > Malakula > Western Malakula linkage > Peripheral Western Malakula > Southwestern Malakula > Letemboi-Repanbitip"
 wikipedia_url: "https://en.wikipedia.org/wiki/Lendamboi_language"
+translations:
+  - translation_iso: jpn
+    name: ムボットゴテ語
+  - translation_iso: zho
+    name: 莱特姆博依语
+    auto: true
 rolv_dialects:
   - rolv_code: 21138
     language_tag: nms-x-HIS21138

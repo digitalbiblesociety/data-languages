@@ -1,8 +1,6 @@
 ---
 iso: bbp
 name: West Central Banda
-name_zh: 西中部班达语
-name_zh_auto: true
 autonym: Golo
 alt_names: ["Banda, West Central"]
 population: 1000
@@ -16,6 +14,12 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Cameroun-Ubangian > Ubangi > Ubangi Ka > Bandaic > Nuclear Bandaic > Southwest Bandaic > Central North West Bandaic > West Central Banda"
 wikipedia_url: "https://en.wikipedia.org/wiki/West_Banda_language"
+translations:
+  - translation_iso: jpn
+    name: 中西部バンダ語
+  - translation_iso: zho
+    name: 西中部班达语
+    auto: true
 rolv_dialects:
   - rolv_code: 89
     language_tag: bbp-x-HIS00089

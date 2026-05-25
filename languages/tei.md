@@ -1,8 +1,6 @@
 ---
 iso: tei
 name: Torricelli
-name_zh: 托里切利语
-name_zh_auto: true
 autonym: Lou
 alt_names: [Anamagi, Aro]
 population: 520
@@ -16,6 +14,10 @@ glottolog_family_id: nucl1708
 glottolog_family_name: Nuclear Torricelli
 glottolog_classification: "Nuclear Torricelli > Kombio-Arapesh-Urat > Kombio-Yambes > Kombioic > Aro-Mukweym-Orok"
 wikipedia_url: "https://en.wikipedia.org/wiki/Torricelli_language"
+translations:
+  - translation_iso: zho
+    name: 托里切利语
+    auto: true
 rolv_dialects:
   - rolv_code: 381
     language_tag: tei-x-HIS00381

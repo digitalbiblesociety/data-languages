@@ -1,7 +1,6 @@
 ---
 iso: tvl
 name: Tuvalu
-name_zh: 图瓦卢语
 autonym: Te Ggana Tuuvalu
 alt_names: [Bahasa Tuvalu, Ellice, Ellicean, Idioma tuvaluano, Język tuvalu, Lingua tuvaluana, Língua tuvaluana, Nanumea, Tuvala lingvo, Tuvaliečių kalba, Tuvaluaans, Tuvaluan, Tuvaluan (North), Tuvaluan language, Tuvaluano, Tuvaluanska, Tuvaluanski jezik, Tuvalueg, Tuvaluera, Tuvalui nyelv, Tuvaluische Sprache, Tuvalun kieli, Tuvalština, Тувалу, Тувалуански език, तुवालुयाई भाषा, ツバル語, 图瓦卢语]
 population: 14290
@@ -16,6 +15,17 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Central Pacific linkage > Tokalau Fijian > Polynesian > Nuclear Polynesian > Ellicean > Tuvalu"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tuvaluan_language"
+translations:
+  - translation_iso: ara
+    name: اللغة التوفالوية
+  - translation_iso: hin
+    name: तुवालुयाई भाषा
+  - translation_iso: jpn
+    name: ツバル語
+  - translation_iso: kor
+    name: 투발루어
+  - translation_iso: zho
+    name: 图瓦卢语
 rolv_dialects:
   - rolv_code: 17858
     language_tag: tvl-x-HIS17858

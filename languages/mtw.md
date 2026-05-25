@@ -1,8 +1,6 @@
 ---
 iso: mtw
 name: Southern Binukidnon
-name_zh: 南比努基德农语
-name_zh_auto: true
 autonym: Southern Binukidnon
 alt_names: [Ata-Man, "Binukidnon, Southern", Bukidnon, Magahat]
 population: 7570
@@ -16,5 +14,9 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Greater Central Philippine > Central Philippine > Bisayan > Negrosanon > Southern Binukidnon"
 wikipedia_url: "https://en.wikipedia.org/wiki/Magahat_language"
+translations:
+  - translation_iso: zho
+    name: 南比努基德农语
+    auto: true
 ---
 Magahat, also called Southern Binukidnon or Buglas Bukidnon, is a Central Philippine language of the mountains of Negros in the Philippines that has been strongly influenced by Cebuano and Hiligaynon. It is similar to Karolanos; Lobel (2013) suggests that it is a Bisayan language.

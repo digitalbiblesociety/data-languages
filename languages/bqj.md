@@ -1,8 +1,6 @@
 ---
 iso: bqj
 name: Bandial
-name_zh: 班迪亚尔语
-name_zh_auto: true
 autonym: Banjaal
 alt_names: [Bandal, Banjal]
 population: 15700
@@ -16,6 +14,12 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > North-Central Atlantic > Central Atlantic > Bak > Joola-Manjaku > Jola > Gusilay-Bandial > Bandial"
 wikipedia_url: "https://en.wikipedia.org/wiki/Bandial_language"
+translations:
+  - translation_iso: jpn
+    name: バンジャル語
+  - translation_iso: zho
+    name: 班迪亚尔语
+    auto: true
 rolv_dialects:
   - rolv_code: 7715
     language_tag: bqj-x-HIS07715

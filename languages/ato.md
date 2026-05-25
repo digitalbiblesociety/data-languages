@@ -1,8 +1,6 @@
 ---
 iso: ato
 name: Atong (Cameroon)
-name_zh: 阿通语
-name_zh_auto: true
 autonym: Etoh
 alt_names: [Atong]
 population: 4200
@@ -16,5 +14,9 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Wide Grassfields > Narrow Grassfields > Southwest Grassfields > Menka-Atong > Atong"
 wikipedia_url: "https://en.wikipedia.org/wiki/Atong_language_(Cameroon)"
+translations:
+  - translation_iso: zho
+    name: 阿通语
+    auto: true
 ---
 Atong (Atoŋ) is a Grassfields language of Cameroon and closely related to the languages Menka [mea] and Manta [myg].

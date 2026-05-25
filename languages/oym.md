@@ -1,8 +1,6 @@
 ---
 iso: oym
 name: Wayampi
-name_zh: 瓦亚姆皮语
-name_zh_auto: true
 autonym: Guaiapi
 alt_names: [Aipi, Emérillon, Guayapi, Karipuna, Oiampí, Oiumpian, Oyampi, Oyampí, Oyampík, Oyanpík, Oyapí, Waiampi, Waiãpi, Wajapae, Wajapi, Wajapuku, Wajãpi, Wayampi (Amapari)/Wayampi (Oiapoque), Wayampí, Wayampí language area, Wayapae, Wayapi, Wayãpi]
 population: 1660
@@ -16,6 +14,12 @@ glottolog_family_id: tupi1275
 glottolog_family_name: Tupian
 glottolog_classification: "Tupian > Eastern Tupian > Maweti-Guarani > Aweti-Guarani > Tupi-Guarani > Tupi-Guarani Subgroup VIII > Wayampi-Zoe-Emerillon > Wayampi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Wayampi_language"
+translations:
+  - translation_iso: jpn
+    name: ワヤンピ語
+  - translation_iso: zho
+    name: 瓦亚姆皮语
+    auto: true
 rolv_dialects:
   - rolv_code: 18241
     language_tag: oym-x-HIS18241

@@ -1,7 +1,6 @@
 ---
 iso: chk
 name: Chuukese
-name_zh: 楚克語
 autonym: Trukese
 alt_names: [Chuuk, Chuukesische Sprache, Chuukin kieli, Lagoon Chuukese, Ruk, Truk, Čiuko kalba]
 population: 56900
@@ -16,6 +15,17 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Micronesian > Central Micronesian > Western Micronesian > Chuukic-Ponapeic > Trukic > Nuclear Trukic > Central Trukic > Eastern Trukic > Mortlockese-Trukese > Chuukese"
 wikipedia_url: "https://en.wikipedia.org/wiki/Chuukese_language"
+translations:
+  - translation_iso: ara
+    name: لغة تروكية
+  - translation_iso: hin
+    name: चूकीस
+  - translation_iso: jpn
+    name: チューク語
+  - translation_iso: kor
+    name: 추크어
+  - translation_iso: zho
+    name: 楚克語
 rolv_dialects:
   - rolv_code: 8955
     language_tag: chk-x-HIS08955

@@ -1,8 +1,6 @@
 ---
 iso: ivb
 name: Ibatan
-name_zh: 伊巴坦语
-name_zh_auto: true
 autonym: Ibatan
 alt_names: [Babuyan, Ibataan, Ivatan]
 population: 1240
@@ -15,4 +13,10 @@ glottocode: ibat1238
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Batanic > Ibatan"
+translations:
+  - translation_iso: jpn
+    name: イバタン語
+  - translation_iso: zho
+    name: 伊巴坦语
+    auto: true
 ---

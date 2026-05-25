@@ -1,8 +1,6 @@
 ---
 iso: akd
 name: "Ukpet-Ehom"
-name_zh: 乌克佩特-埃霍姆语
-name_zh_auto: true
 autonym: "Ukpet-Ehom"
 alt_names: [Akpet-Ehom]
 population: 11400
@@ -16,6 +14,10 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Delta Cross > Upper Cross > Ukpet-Ehom"
 wikipedia_url: "https://en.wikipedia.org/wiki/Akpet_language"
+translations:
+  - translation_iso: zho
+    name: 乌克佩特-埃霍姆语
+    auto: true
 rolv_dialects:
   - rolv_code: 20933
     language_tag: akd-x-HIS20933

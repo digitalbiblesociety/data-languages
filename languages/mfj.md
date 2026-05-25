@@ -1,8 +1,6 @@
 ---
 iso: mfj
 name: Mefele
-name_zh: 梅费莱语
-name_zh_auto: true
 autonym: Boulahay
 alt_names: [Bula, Bulahai]
 population: 11000
@@ -16,6 +14,10 @@ glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > Biu-Mandara > South Biu-Mandara > Matakam > Mefele-Cuvok > Mefele"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mefele_language"
+translations:
+  - translation_iso: zho
+    name: 梅费莱语
+    auto: true
 rolv_dialects:
   - rolv_code: 13955
     language_tag: mfj-x-HIS13955

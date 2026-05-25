@@ -1,8 +1,6 @@
 ---
 iso: oyd
 name: Oyda
-name_zh: 奥伊达语
-name_zh_auto: true
 autonym: null
 alt_names: [Oida, Oyda jezik]
 population: 14075
@@ -16,5 +14,9 @@ glottolog_family_id: gong1255
 glottolog_family_name: Ta-Ne-Omotic
 glottolog_classification: "Ta-Ne-Omotic > Ometo > North-West Ometo > Central Ometo > Oyda"
 wikipedia_url: "https://en.wikipedia.org/wiki/Oyda_language"
+translations:
+  - translation_iso: zho
+    name: 奥伊达语
+    auto: true
 ---
 Oyda is an Afro-Asiatic language spoken in the Gamo Gofa Zone of Ethiopia.

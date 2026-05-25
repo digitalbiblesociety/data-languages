@@ -1,8 +1,6 @@
 ---
 iso: amg
 name: Amurdak
-name_zh: 阿穆尔达克语
-name_zh_auto: true
 autonym: Amarag
 alt_names: ["A'moordiyu", Amarak, Amardak, Amooridiyu, Amurag, Amurdag, Amurdag language, Amurrag, Amurrak, Amurtak, Amuruk, Iwaidjan, Mamurug, Mono bar, Monobar, Namurug, "Nga:mr:rak", "Nga:mu:rak", Ngamrrak, Ngamurag, Ngamurak, Umoordak, Umoreo, Umoriu, Umorrdak, Wardadjbak, Woraidbug, Wureidbug]
 population: null
@@ -16,5 +14,9 @@ glottolog_family_id: iwai1246
 glottolog_family_name: Iwaidjan Proper
 glottolog_classification: "Iwaidjan Proper > Amurdak"
 wikipedia_url: "https://en.wikipedia.org/wiki/Amurdak_language"
+translations:
+  - translation_iso: zho
+    name: 阿穆尔达克语
+    auto: true
 ---
 Amurdak, also rendered Amurdag, Amurdak, Amurag, Amarag and Wureidbug, is an Aboriginal Australian language historically spoken in an area around the eastern coast of Van Diemen Gulf, in the Northern Territory of Australia. No speakers were recorded in the 2021 census, although the last speaker, Charlie Mungulda, coauthored a paper in 2020.

@@ -1,8 +1,6 @@
 ---
 iso: cox
 name: Nanti
-name_zh: 南蒂语
-name_zh_auto: true
 autonym: Cogapacorill
 alt_names: ["\"Cogapacori\"", "\"Kogapakori\"", Ashaninca (Brésil), Ashaninka (Pérou), Asháninca, Ashéninga, Cogapacori, Cogapacorí, Kogapakori]
 population: 480
@@ -16,5 +14,9 @@ glottolog_family_id: araw1281
 glottolog_family_name: Arawakan
 glottolog_classification: "Arawakan > Southern Maipuran > Kampa-Amuesha > Pre-Andine Maipuran > Asha-Ashe-Kak-Matsi-Nan > Matsi-Nan > Nanti"
 wikipedia_url: "https://en.wikipedia.org/wiki/Nanti_language"
+translations:
+  - translation_iso: zho
+    name: 南蒂语
+    auto: true
 ---
 Nanti is an Arawakan language spoken by approximately 250 people in southeastern Peruvian Amazonia, principally in a number of small communities located near the headwaters of the Camisea and Timpía Rivers. It belongs to the Kampan branch of the Arawak family, and is most closely related to Matsigenka, with which it is partially mutually intelligible.

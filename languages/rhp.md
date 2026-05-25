@@ -1,8 +1,6 @@
 ---
 iso: rhp
 name: Yahang
-name_zh: 雅汉语
-name_zh_auto: true
 autonym: Ruruhip
 alt_names: ["Rurihi'ip", "Ruruhi'ip", Ruruhi’ip, "Ya'unk", Ya’unk]
 population: 1116
@@ -16,5 +14,9 @@ glottolog_family_id: nucl1708
 glottolog_family_name: Nuclear Torricelli
 glottolog_classification: "Nuclear Torricelli > Nuclear Maimai > Heyo-Yahang > Yahang"
 wikipedia_url: "https://en.wikipedia.org/wiki/Yahang_language"
+translations:
+  - translation_iso: zho
+    name: 雅汉语
+    auto: true
 ---
 Yahang (Ya’unk) a.k.a. Ruruhip (Ruruhi’ip) is a Torricelli language of Papua New Guinea. It shares the name Ruruhip with Heyo, which is closely related.

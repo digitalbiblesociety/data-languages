@@ -1,8 +1,6 @@
 ---
 iso: ekr
 name: Yace
-name_zh: 亚切语
-name_zh_auto: true
 autonym: Yache
 alt_names: [Ekpari, Iyace, Yatye]
 population: 50000
@@ -16,6 +14,10 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Idomoid > Yatye-Akpa > Yace"
 wikipedia_url: "https://en.wikipedia.org/wiki/Yace_language"
+translations:
+  - translation_iso: zho
+    name: 亚切语
+    auto: true
 rolv_dialects:
   - rolv_code: 18378
     language_tag: ekr-x-HIS18378

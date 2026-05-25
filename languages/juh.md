@@ -1,8 +1,6 @@
 ---
 iso: juh
 name: Hõne
-name_zh: 霍内语
-name_zh_auto: true
 autonym: null
 alt_names: [Gaateri, Hone, Kona Jukun, Nigeria, Pindiga-Jukun, Wapan Gwana]
 population: 7000
@@ -16,6 +14,10 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Jukunoid > Central Jukunoid > Jukun-Mbembe-Wurbo > Jukun > Kororofa > Kona > Hõne"
 wikipedia_url: "https://en.wikipedia.org/wiki/H%C3%B5ne_language"
+translations:
+  - translation_iso: zho
+    name: 霍内语
+    auto: true
 rolv_dialects:
   - rolv_code: 23965
     language_tag: juh-x-HIS23965

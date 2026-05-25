@@ -1,8 +1,6 @@
 ---
 iso: pab
 name: Parecís
-name_zh: 帕雷西斯语
-name_zh_auto: true
 autonym: Arití
 alt_names: [Arawak, Ariti, Haliti, Pareche, Pareci, Parecis, Paresi, Paressi, Paressí, Paresí, Paretí]
 population: 1800
@@ -16,5 +14,11 @@ glottolog_family_id: araw1281
 glottolog_family_name: Arawakan
 glottolog_classification: "Arawakan > Central-Eastern Maipuran > Central Maipuran > Xaray > Parecis-Nawe > Parecís"
 wikipedia_url: "https://en.wikipedia.org/wiki/Paresi_language"
+translations:
+  - translation_iso: jpn
+    name: パレシ語
+  - translation_iso: zho
+    name: 帕雷西斯语
+    auto: true
 ---
 Paresi is an Arawakan language spoken in Brazil. There are approximately 2000 Paresi people, and around 1800 speak the language. The Paresi live in the state of Mato Grosso, more specifically in nine indigenous territories: Rio Formoso, Utiariti, Estação Parecis, Estivadinho, Pareci, Juininha, Figueira, Ponte de Pedra, and Uirapuru. In terms of endangerment, it is not in immediate danger. It is used in many everyday domains, but there is a lack of transmission to younger generations, as well as an evident language shift to Portuguese. This is a result of Portuguese being used in education and healthcare, as well as the integration of Brazilian culture among the Paresi people, creating changes in their language and cultural practices.

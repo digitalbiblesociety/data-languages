@@ -1,8 +1,6 @@
 ---
 iso: spi
 name: Saponi
-name_zh: 萨波尼语
-name_zh_auto: true
 autonym: bahasa Saponi
 population: null
 country_id: ID
@@ -15,5 +13,9 @@ glottolog_family_id: lake1255
 glottolog_family_name: Lakes Plain
 glottolog_classification: "Lakes Plain > Far West Lakes Plain > Rasawa-Saponi > Saponi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Saponi_language"
+translations:
+  - translation_iso: zho
+    name: 萨波尼语
+    auto: true
 ---
 Saponi is an extinct Papuan language of Indonesia.

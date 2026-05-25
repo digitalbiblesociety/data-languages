@@ -1,8 +1,6 @@
 ---
 iso: jmi
 name: Jimi (Nigeria)
-name_zh: 吉米语（尼日利亚）
-name_zh_auto: true
 autonym: "Bi-Gimu"
 alt_names: [Jimi, Jimi language]
 population: 1000
@@ -16,6 +14,10 @@ glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > West Chadic > West Chadic B > West Chadic B.3 > South Bauchi East > Guruntumic > Jimi (Nigeria)"
 wikipedia_url: "https://en.wikipedia.org/wiki/Jimi_language_(Nigeria)"
+translations:
+  - translation_iso: zho
+    name: 吉米语（尼日利亚）
+    auto: true
 rolv_dialects:
   - rolv_code: 11165
     language_tag: jmi-x-HIS11165

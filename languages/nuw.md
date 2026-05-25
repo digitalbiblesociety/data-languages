@@ -1,8 +1,6 @@
 ---
 iso: nuw
 name: Nguluwan
-name_zh: 恩古卢万语
-name_zh_auto: true
 autonym: null
 alt_names: [Phonology from Ulithian and grammar and lexicon from Yapese.]
 population: 50
@@ -16,5 +14,11 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Yapesic > Nguluwan"
 wikipedia_url: "https://en.wikipedia.org/wiki/Nguluwan_language"
+translations:
+  - translation_iso: jpn
+    name: ングルワン語
+  - translation_iso: zho
+    name: 恩古卢万语
+    auto: true
 ---
 Nguluwan is a mixed language spoken on Ngulu Atoll located between Yap and Palau. The grammar and lexicon are Yapese, but the phonology has been affected by Ulithian. This language is endangered as it only has 50 speakers and that its speakers are shifting to Ulithian.

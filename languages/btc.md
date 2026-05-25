@@ -1,8 +1,6 @@
 ---
 iso: btc
 name: Bati (Cameroon)
-name_zh: 巴蒂语（喀麦隆）
-name_zh_auto: true
 autonym: Bati Ba Ngong
 alt_names: [Bati, Bati (Cameroonh), Bati de Brousse]
 population: 800
@@ -16,5 +14,9 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > Mbam-Bubi > Mbam > Nuclear Mbam > Bati-Mbure-Yambassa > Bati (Cameroon)"
 wikipedia_url: "https://en.wikipedia.org/wiki/Bati_language_(Cameroon)"
+translations:
+  - translation_iso: zho
+    name: 巴蒂语（喀麦隆）
+    auto: true
 ---
 Bati is a Mbam language of Cameroon.

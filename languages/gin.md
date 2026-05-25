@@ -1,8 +1,6 @@
 ---
 iso: gin
 name: Hinukh
-name_zh: 亨努赫语
-name_zh_auto: true
 autonym: гьинузас мец / hinuzas mec
 alt_names: [Ginukh, Ginukhtsy, Ginux, Guang, "Hinouc'heg", Hinuchische Sprache, Hinuhin kieli, Hinuj, Hinuq, Hinux, Język ginuchijski, hinuzas mec, Гінухська мова, Хинухски јазик, гинухский язык, гьинузас мец, Գինուխերեն, ჰინუზას მეც, ჰინუხური ენა]
 population: 550
@@ -16,5 +14,13 @@ glottolog_family_id: nakh1245
 glottolog_family_name: Nakh-Daghestanian
 glottolog_classification: "Nakh-Daghestanian > Daghestanian > Avar-Andic-Tsezic > Tsezic > West Tsezic > Hinuq"
 wikipedia_url: "https://en.wikipedia.org/wiki/Hinuq_language"
+translations:
+  - translation_iso: jpn
+    name: ヒヌフ語
+  - translation_iso: kor
+    name: 히누흐어
+  - translation_iso: zho
+    name: 亨努赫语
+    auto: true
 ---
 The Hinuq language is a Northeast Caucasian language of the Tsezic subgroup. It is spoken by about 200 to 500 people, the Hinukhs, in the Tsuntinsky District of southwestern Dagestan, mainly in the village of Genukh. Hinukh is very closely related to Tsez, but they are not entirely mutually intelligible.

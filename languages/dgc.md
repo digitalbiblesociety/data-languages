@@ -1,8 +1,6 @@
 ---
 iso: dgc
 name: Casiguran Dumagat Agta
-name_zh: 卡西古兰杜马加特阿格塔语
-name_zh_auto: true
 autonym: Casiguran Dumagat
 alt_names: [Agta, Agta (Casiguran Dumagat), "Agta, Casiguran Dumagat", Baler Dumagat, Casiguran, Dumagat (Casiguran)]
 population: 610
@@ -16,6 +14,10 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Northern Luzon > Northeastern Luzon > Nuclear Northeastern Luzon > Casiguran-Nagtipunan Agta"
 wikipedia_url: "https://en.wikipedia.org/wiki/Casiguran_Dumagat_Agta"
+translations:
+  - translation_iso: zho
+    name: 卡西古兰杜马加特阿格塔语
+    auto: true
 rolv_dialects:
   - rolv_code: 22607
     language_tag: dgc-x-HIS22607

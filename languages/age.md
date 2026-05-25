@@ -1,8 +1,6 @@
 ---
 iso: age
 name: Angal
-name_zh: 安加尔语
-name_zh_auto: true
 autonym: Mendi
 alt_names: [East Angal, North Mendi]
 population: 18600
@@ -15,6 +13,10 @@ glottocode: anga1293
 glottolog_family_id: nucl1709
 glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Enga-Kewa-Huli > Kewa-Huli > Sau-Angal-Kewa > Angal-Kewa > Angal Mendi > Angal"
+translations:
+  - translation_iso: zho
+    name: 安加尔语
+    auto: true
 rolv_dialects:
   - rolv_code: 4008
     language_tag: age-x-HIS04008

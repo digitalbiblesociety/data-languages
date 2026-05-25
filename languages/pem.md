@@ -1,8 +1,6 @@
 ---
 iso: pem
 name: Phende
-name_zh: 芬德语
-name_zh_auto: true
 autonym: Giphende
 alt_names: [Gipende, Kipende, Pende, Pindi, Pinji]
 population: 420000
@@ -16,6 +14,10 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > Central-Western Bantu > Njila > Northern Njila > Mbala-Holu-Sondi (K.10) > Holu (K.10) > Pheende-Kwezo > Phende"
 wikipedia_url: "https://en.wikipedia.org/wiki/Pende_language"
+translations:
+  - translation_iso: zho
+    name: 芬德语
+    auto: true
 rolv_dialects:
   - rolv_code: 1519
     language_tag: pem-x-HIS01519

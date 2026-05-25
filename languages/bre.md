@@ -1,7 +1,6 @@
 ---
 iso: bre
 name: Breton
-name_zh: 布列塔尼语
 autonym: brezhoneg
 alt_names: [An Bhriotáinis, Bahasa Breton, Breatannais, Bretainiera, Bretoens, Breton dili, Breton leid, Breton nyelv, Bretona lingvo, Bretonagiella, Bretonca, Bretonek, Bretoni, Bretonisch, Bretonische Sprache, Bretonisk, Bretons, Bretonsk, Bretonsk språk, Bretonska, Bretonski jezik, Bretonština, Bretonšćina, Bretonščina, Bretonų kalba, Bretoņu valoda, Brettonish, Bretun, Bretó, Bretón, Bretónska, Bretónčina, Britaanish, Britun simi, Burton, Gjuha bretoneze, Idioma bretón, Język bretoński, Lenga breton-a, Lenghe bretone, Lengua bretone, Limba bretonă, Lingua Armoricana, Lingua bretoa, Lingua bretona, Lingua bretone, Lingua brètuni, Llydaweg, Luenga bretona, Língua bretã, Łéngoa brètona, Бретонски език, Бретонски јазик, Бретонски језик, Бретонский язык, Бретонська мова, Бретонь чĕлхи, ברטונית, برېتون تىلى, ภาษาเบรอตง, ბრეტონული ენა, ブルトン語, 布列塔尼语, 브르타뉴어]
 population: 206000
@@ -16,6 +15,17 @@ glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Celtic > Nuclear Celtic > Core Celtic > Insular Celtic > Brythonic > Southwestern Brythonic > Middle-Modern Southwestern Brythonic > Bretonic > Breton"
 wikipedia_url: "https://en.wikipedia.org/wiki/Breton_language"
+translations:
+  - translation_iso: ara
+    name: اللغة البريتانية
+  - translation_iso: hin
+    name: ब्रेटन
+  - translation_iso: jpn
+    name: ブルトン語
+  - translation_iso: kor
+    name: 브르타뉴어
+  - translation_iso: zho
+    name: 布列塔尼语
 rolv_dialects:
   - rolv_code: 8365
     language_tag: br-x-HIS08365

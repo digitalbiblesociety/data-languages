@@ -1,8 +1,6 @@
 ---
 iso: vid
 name: Vidunda
-name_zh: 维都达语
-name_zh_auto: true
 autonym: null
 alt_names: [Chividunda, Kividunda, Ndunda]
 population: 12000
@@ -16,5 +14,9 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > East Bantu > Northeast Savanna Bantu > Northeast Coastal Bantu > Ruvu > West Ruvu > Vidunda-Sagala > Vidunda"
 wikipedia_url: "https://en.wikipedia.org/wiki/Vidunda_language"
+translations:
+  - translation_iso: zho
+    name: 维都达语
+    auto: true
 ---
 Vidunda (Chividunda) is a Bantu language spoken along the north bank of the Ruaha River in Tanzania. It belongs to the Ruvu branch of Northeast Coast Bantu.

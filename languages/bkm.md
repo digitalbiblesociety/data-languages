@@ -1,7 +1,6 @@
 ---
 iso: bkm
 name: Kom (Cameroon)
-name_zh: 科姆语
 autonym: Itaŋikom
 alt_names: [Bamekon, Bikom, Itangikom, Kom, Kom language, Kong, Nkom]
 population: 230000
@@ -16,6 +15,15 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Wide Grassfields > Narrow Grassfields > Ring > Center-West Ring > Center Ring > Komic > Kom (Cameroon)"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kom_language_(Cameroon)"
+translations:
+  - translation_iso: ara
+    name: لغة الكوم
+  - translation_iso: jpn
+    name: コム語
+  - translation_iso: kor
+    name: 콤어
+  - translation_iso: zho
+    name: 科姆语
 rolv_dialects:
   - rolv_code: 12162
     language_tag: bkm-x-HIS12162

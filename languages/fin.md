@@ -1,7 +1,6 @@
 ---
 iso: fin
 name: Finnish
-name_zh: 芬兰语
 autonym: suomen kieli
 alt_names: [An Fhionlainnis, Bahasa Finland, Bahasa Suomi, Ffinneg, Fin dili, Fin tili, Fince, Finlandana linguo, Finlandiera, Finn nyelv, Finna lingvo, Finneg, Finnek, Finngbe, Finnisc sprǣc, Finnische Sprache, Finnish leid, Finnlynnish, Finnois, Finnsche Spraak, Finnska, Fins, Finsk, Finsk språk, Finska, Finski jezik, Finès, Finés, Finština, Finšćina, Finščina, Fionnais, Fínčina, Gjuha finlandeze, Idioma finés, Język fiński, Lenga finlandèisa, Lengua finlandesa, Limba finlandeză, Lingua Finnica, Lingua fillannisa, Lingua finesa, Lingua finlandaisa, Lingua finlandese, Lingua finnese, Língua finlandesa, Phinis simi, Pinulongang Pines, Somu valoda, Soome keel, Soomõ kiil, Suomagiella, Suomi-gí, Suomių kalba, Tiếng Phần Lan, Èdè Fínlándì, Łéngua finlandexe, Φινλανδική γλώσσα, Забони финӣ, Суоминь кель, Суоминь кяль, Финляндхойн мотт, Финн йылме, Финн кыв, Финн чĕлхи, Финнаг æвзаг, Фински език, Фински јазик, Фински језик, Финский язык, Фінская мова, Фінська мова, פינית, زبان فنلاندی, فىنلاندىيە تىلى, لغة فنلندية, ސުއޯމީ, फ़िनिश भाषा, ফিনীয় ভাষা, பின்னிய மொழி, ภาษาฟินแลนด์, ფინური ენა, ‘Ōlelo Pinilana, フィンランド語, 芬兰语, 핀란드어]
 population: 5770040
@@ -16,6 +15,17 @@ glottolog_family_id: ural1272
 glottolog_family_name: Uralic
 glottolog_classification: "Uralic > Finnic > Coastal Finnic > Neva > North Finnic > Nuclear Finnish > Finnish"
 wikipedia_url: "https://en.wikipedia.org/wiki/Finnish_language"
+translations:
+  - translation_iso: ara
+    name: الفنلندية
+  - translation_iso: hin
+    name: फ़िनिश भाषा
+  - translation_iso: jpn
+    name: フィンランド語
+  - translation_iso: kor
+    name: 핀란드어
+  - translation_iso: zho
+    name: 芬兰语
 rolv_dialects:
   - rolv_code: 9819
     language_tag: fi-x-HIS09819

@@ -1,8 +1,6 @@
 ---
 iso: mty
 name: Nabi
-name_zh: 纳比语
-name_zh_auto: true
 autonym: Metan
 alt_names: [Menandon, Minendon, Mitang, Nambi, Nambieb]
 population: 620
@@ -16,5 +14,9 @@ glottolog_family_id: nucl1708
 glottolog_family_name: Nuclear Torricelli
 glottolog_classification: "Nuclear Torricelli > Wapei-Palei > Central Torricelli > Wapeic > Nabi-Metan"
 wikipedia_url: "https://en.wikipedia.org/wiki/Nabi_language"
+translations:
+  - translation_iso: zho
+    name: 纳比语
+    auto: true
 ---
 Nabi (Nambi), a.k.a. Metan, is a Torricelli language of Papua New Guinea. It was assigned to the Maimai branch in Ross (2005).

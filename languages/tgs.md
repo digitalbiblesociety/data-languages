@@ -1,8 +1,6 @@
 ---
 iso: tgs
 name: Nume
-name_zh: 努梅语
-name_zh_auto: true
 autonym: Tarasag
 alt_names: [Banks-Inseln, Gaua, Tasarag]
 population: 900
@@ -16,5 +14,9 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > North and Central Vanuatu > Northern Vanuatu > Torres-Banks linkage > Nume"
 wikipedia_url: "https://en.wikipedia.org/wiki/Nume_language"
+translations:
+  - translation_iso: zho
+    name: 努梅语
+    auto: true
 ---
 Nume, is an Oceanic language spoken on Gaua island in Vanuatu. Its 700 speakers live on the northeast coast of Gaua.

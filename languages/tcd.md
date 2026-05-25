@@ -1,8 +1,6 @@
 ---
 iso: tcd
 name: Tafi
-name_zh: 塔菲语
-name_zh_auto: true
 autonym: Tafi
 alt_names: [Nyangbo-Tafi, Tegbo]
 population: 4400
@@ -15,4 +13,8 @@ glottocode: tafi1243
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Kwa Volta-Congo > Ka-Togo > Avatime-Nyangbo > Nyangbo-Tafi > Tafi"
+translations:
+  - translation_iso: zho
+    name: 塔菲语
+    auto: true
 ---

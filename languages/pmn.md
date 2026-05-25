@@ -1,8 +1,6 @@
 ---
 iso: pmn
 name: Pam
-name_zh: 帕姆语
-name_zh_auto: true
 autonym: null
 alt_names: [Cameroon]
 population: 30
@@ -16,5 +14,9 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Cameroun-Ubangian > Mbumic > Northern Mbum > Tupuri-Mundang-Mambai > Mundangic > Pam (Cameroon)"
 wikipedia_url: "https://en.wikipedia.org/wiki/Pam_language"
+translations:
+  - translation_iso: zho
+    name: 帕姆语
+    auto: true
 ---
 Pam is a nearly extinct, unclassified Mbum language of northern Cameroon. There are only about 30 speakers remaining in the vicinity of Tcholliré.

@@ -1,8 +1,6 @@
 ---
 iso: nsc
 name: Nshi
-name_zh: 恩什语
-name_zh_auto: true
 autonym: Babessi
 alt_names: [Nigeria]
 population: null
@@ -15,6 +13,10 @@ glottocode: nshi1235
 glottolog_family_id: unat1236
 glottolog_family_name: Unattested
 glottolog_classification: "Unattested > Atlantic-Congo (Unattested) > Nshi"
+translations:
+  - translation_iso: zho
+    name: 恩什语
+    auto: true
 rolv_dialects:
   - rolv_code: 28834
     language_tag: nsc-x-HIS28834

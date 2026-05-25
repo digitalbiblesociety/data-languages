@@ -1,8 +1,6 @@
 ---
 iso: mil
 name: Peñoles Mixtec
-name_zh: 佩尼奥莱斯混合语
-name_zh_auto: true
 autonym: Eastern Mixtec
 alt_names: [Central Misteko, Central Nochistlán Mixtec, Centreal Mixteco, Diuxi-Tilantongo Mixtec, Eastern Alta Mixtec, Eastern Mixteco, Huitepec Mixtec, Misteko, Mitlatongo Mixtec, Mixtec, Mixtec (Peñoles), "Mixtec, Peñoles", Mixteco (Peoles), Mixteco bajo de Valles, Mixteco de Diuxi-Tilantongo, Mixteco de Huitepec, Mixteco de Mitlatongo, Mixteco de San Antonio Huitepec, Mixteco de San Juan Tamazola, Mixteco de San Mateo Tepantepec, Mixteco de San Miguel Piedras, Mixteco de San Pedro Tidaá, Mixteco de Santa María Peñoles, Mixteco de Santiago Tlazoyaltepec, Mixteco de Santo Domingo Nuxaá, Mixteco de Tidaá, Mixteco de Yutanduchi, Mixteco de Yutanduchi de Guerrero, Mixteco de Zaachila, Mixteco del Sureste de Nochixtlán, Mixteco del este central, North Central Nochixtlán Mixtec, Penoles Mixtec, San Miguel Piedras Mixtec, Sindihui Mixtec, Southeastern Nochixtlán Mixtec, Southern Nochixtlan Mixtec, Tamazola Mixtec, Tidaá Mixtec, Tlazoyaltepec Mixtec, Yutanduchi Mixtec]
 population: 5500
@@ -15,6 +13,10 @@ glottocode: peno1244
 glottolog_family_id: otom1299
 glottolog_family_name: Otomanguean
 glottolog_classification: "Otomanguean > Eastern Otomanguean > Amuzgo-Mixtecan > Mixtecan > Mixtec-Cuicatec > Mixtec > Eastern Alta Mixtec > Southeastern Alta Mixtec > Tlazoyal-Penoles > Peñoles Mixtec"
+translations:
+  - translation_iso: zho
+    name: 佩尼奥莱斯混合语
+    auto: true
 rolv_dialects:
   - rolv_code: 2731
     language_tag: mil-x-HIS02731

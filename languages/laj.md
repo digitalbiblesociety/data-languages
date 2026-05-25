@@ -1,8 +1,6 @@
 ---
 iso: laj
 name: Lango (Uganda)
-name_zh: 兰戈语(乌干达)
-name_zh_auto: true
 autonym: Lwo
 alt_names: [Langi, Lango, Lango language, Leb-Lano, Lengua Lango, Lwoo, Língua langu, Ланго]
 population: 2130000
@@ -17,5 +15,11 @@ glottolog_family_id: nilo1247
 glottolog_family_name: Nilotic
 glottolog_classification: "Nilotic > Western Nilotic > Lwoo > Southern Lwoo > Lango-Kumam > Lango (Uganda)"
 wikipedia_url: "https://en.wikipedia.org/wiki/Lango_language_(Uganda)"
+translations:
+  - translation_iso: jpn
+    name: ランゴ語
+  - translation_iso: zho
+    name: 兰戈语(乌干达)
+    auto: true
 ---
 Lango is a Nilotic language spoken in the Lango sub-region of Northern Uganda.

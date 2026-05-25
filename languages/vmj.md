@@ -1,8 +1,6 @@
 ---
 iso: vmj
 name: Ixtayutla Mixtec
-name_zh: 伊克斯塔尤特拉混特克语
-name_zh_auto: true
 autonym: (Santiago Ixtayutla)
 alt_names: ["Mixtec, Ixtayutla", Mixteco de Santiago Ixtayutla, Northeastern Jamiltepec Mixtec, Northern Misteko, Northern Mixteco]
 population: 2800
@@ -16,5 +14,9 @@ glottolog_family_id: otom1299
 glottolog_family_name: Otomanguean
 glottolog_classification: "Otomanguean > Eastern Otomanguean > Amuzgo-Mixtecan > Mixtecan > Mixtec-Cuicatec > Mixtec > Coast Mixtec > Ixtayutla Mixtec"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ixtayutla_Mixtec"
+translations:
+  - translation_iso: zho
+    name: 伊克斯塔尤特拉混特克语
+    auto: true
 ---
 Ixtayutla Mixtec is a Mixtec language of Oaxaca. It is close to Chayuco and Zacatepec Mixtec.

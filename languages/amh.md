@@ -1,7 +1,6 @@
 ---
 iso: amh
 name: Amharic
-name_zh: 阿姆哈拉语
 autonym: አማበአማረኛ ርኛ
 alt_names: [Abyssinian, Amarigna, Amarinya, Amharisch, Ethiopian, amharique]
 population: 21900000
@@ -16,6 +15,17 @@ glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Semitic > West Semitic > Ethiosemitic > South Ethiopic > Amharic-Argobba > Amharic"
 wikipedia_url: "https://en.wikipedia.org/wiki/Amharic"
+translations:
+  - translation_iso: ara
+    name: الأمهرية
+  - translation_iso: hin
+    name: अम्हारिक
+  - translation_iso: jpn
+    name: アムハラ語
+  - translation_iso: kor
+    name: 암하라어
+  - translation_iso: zho
+    name: 阿姆哈拉语
 rolv_dialects:
   - rolv_code: 30534
     language_tag: am-x-HIS30534

@@ -1,8 +1,6 @@
 ---
 iso: llp
 name: North Efate
-name_zh: 北埃法特语
-name_zh_auto: true
 autonym: Nakanamanga
 alt_names: [Efate (North), "Efate, North", Nguna, Tongoa, Vanuatu]
 population: 9500
@@ -16,6 +14,14 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > North and Central Vanuatu > Central Vanuatu > Epi-Efate > Efate-Shepherds > Efate > North Efatic > North Efate"
 wikipedia_url: "https://en.wikipedia.org/wiki/North_Efate_language"
+translations:
+  - translation_iso: jpn
+    name: グナ語
+  - translation_iso: kor
+    name: 북에파테어
+  - translation_iso: zho
+    name: 北埃法特语
+    auto: true
 rolv_dialects:
   - rolv_code: 4471
     language_tag: llp-x-HIS04471

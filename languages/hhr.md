@@ -1,8 +1,6 @@
 ---
 iso: hhr
 name: Kerak
-name_zh: 克拉克语
-name_zh_auto: true
 autonym: "Jola-Felupe"
 alt_names: [Her, Keerak, Keeraku]
 population: 13200
@@ -15,4 +13,8 @@ glottocode: kera1248
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > North-Central Atlantic > Central Atlantic > Bak > Joola-Manjaku > Jola > FH-Jola > PF-Jola > Her-Ejamat > Keerak"
+translations:
+  - translation_iso: zho
+    name: 克拉克语
+    auto: true
 ---

@@ -1,8 +1,6 @@
 ---
 iso: wum
 name: Wumbvu
-name_zh: 乌姆布武语
-name_zh_auto: true
 autonym: Wumvu
 population: 18300
 country_id: GA
@@ -15,5 +13,11 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > Bantu A-B10-B20-B30 > Bantu B20A > Siguic > Ndasa-Wumbvu > Wumbvu"
 wikipedia_url: "https://en.wikipedia.org/wiki/Wumbvu_language"
+translations:
+  - translation_iso: jpn
+    name: Wumbvu語
+  - translation_iso: zho
+    name: 乌姆布武语
+    auto: true
 ---
 Wumbvu (Wumvu) is a Bantu language spoken in Gabon and the Congo.

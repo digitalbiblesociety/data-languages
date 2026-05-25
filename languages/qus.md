@@ -1,8 +1,6 @@
 ---
 iso: qus
 name: Santiago del Estero Quichua
-name_zh: 圣地亚哥德尔埃斯特罗基楚亚语
-name_zh_auto: true
 autonym: Santiagueño Quichua
 alt_names: [Argentina Quechua, Argentinisches Quechua, Argentino, Arhintinap runasimin, Cuzco, Kichua, Quechua de Santiago del Estero, Quichua, Quichua Santiagueño, "Quichua, Santiago del Estero", Santiago del Estero Kechua, Santiago del Estero Quechua, Santiagueño, Tucumano, Аргентинский кечуа]
 population: 60000
@@ -16,5 +14,9 @@ glottolog_family_id: quec1387
 glottolog_family_name: Quechuan
 glottolog_classification: "Quechuan > Southern Quechua > Bolivian-Argentinian Quechua > South Bolivian-Argentinian Quechua > Santiago del Estero Quichua"
 wikipedia_url: "https://en.wikipedia.org/wiki/Santiague%C3%B1o_Quechua"
+translations:
+  - translation_iso: zho
+    name: 圣地亚哥德尔埃斯特罗基楚亚语
+    auto: true
 ---
 Santiago del Estero Quichua or Santiagueño Quechua is a vulnerable dialect of Southern Quechua spoken by 60,000-100,000 people in Argentina. It is spoken in the province of Santiago del Estero. The estimated coordinates are 27°47′S 64°16′W. Long-standing migration has also resulted in the presence of the language in other provinces of northeastern Argentina and in Buenos Aires.

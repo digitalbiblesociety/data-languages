@@ -1,13 +1,15 @@
 ---
 iso: dwu
 name: Dhuwal
-name_zh: 杜瓦尔语
-name_zh_auto: true
 autonym: null
 population: null
 country_id: AU
 country_name: Australia
 status_id: null
+translations:
+  - translation_iso: zho
+    name: 杜瓦尔语
+    auto: true
 rolv_dialects:
   - rolv_code: 9243
     language_tag: dwu-x-HIS09243

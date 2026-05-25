@@ -1,8 +1,6 @@
 ---
 iso: gvj
 name: Guajá
-name_zh: 瓜雅语
-name_zh_auto: true
 autonym: Awá
 alt_names: [Amanage, Amanajo, Amanajé, Amanayé, Anambé, Avá, Awá Guajá, Ayaya, Guaja, Guaxare, Guažá, "Ka'apór", Manajo, Manaxo, Manaze, Manazo, Urubú, Urubú-kaapor, Wazaizara]
 population: 370
@@ -16,5 +14,11 @@ glottolog_family_id: tupi1275
 glottolog_family_name: Tupian
 glottolog_classification: "Tupian > Eastern Tupian > Maweti-Guarani > Aweti-Guarani > Tupi-Guarani > Tupi-Guarani Subgroup VIII > Guaja-Kaapor-Ava > Guaja-Aure-Aura > Guajá"
 wikipedia_url: "https://en.wikipedia.org/wiki/Guaj%C3%A1_language"
+translations:
+  - translation_iso: jpn
+    name: グアジャ語
+  - translation_iso: zho
+    name: 瓜雅语
+    auto: true
 ---
 Guajá, or Awá, is a geographically isolated Tupi–Guarani language spoken in Brazil. The extinct 'Anambé' recorded by Ehrenreich may have been a distinct language.

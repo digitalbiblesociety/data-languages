@@ -1,7 +1,6 @@
 ---
 iso: ava
 name: Avaric
-name_zh: 阿瓦尔语
 autonym: Avaric
 alt_names: [Abararazda, Akari, Avaarin kieli, Avaars, Avar, Avar dili, Avar language, Avarca, Avareg, Avari, Avarisk, Avarisk språk, Avariska, Avaro, Avarska, Avarština, Avarščina, Avarų kalba, Avāru valoda, Awar dili, Awarische Sprache, Bahasa Avar, Dagestan, Idioma ávaro, Język awarski, Khunza dialect, Lingua avara, Língua avar, Àvar, Èdè Avar, Аварски език, Аварски јазик, Аварский язык, Аварська мова, Ауар теле, ЖIайхойн мотт, МагIарул мацI, Солиаг æвзаг, زبان آواری, アヴァル語, 阿瓦尔语, 아바르어]
 population: 765300
@@ -16,6 +15,17 @@ glottolog_family_id: nakh1245
 glottolog_family_name: Nakh-Daghestanian
 glottolog_classification: "Nakh-Daghestanian > Daghestanian > Avar-Andic-Tsezic > Avar"
 wikipedia_url: "https://en.wikipedia.org/wiki/Avar_language"
+translations:
+  - translation_iso: ara
+    name: الأوارية
+  - translation_iso: hin
+    name: अवेरिक
+  - translation_iso: jpn
+    name: アヴァル語
+  - translation_iso: kor
+    name: 아바르어
+  - translation_iso: zho
+    name: 阿瓦尔语
 rolv_dialects:
   - rolv_code: 7362
     language_tag: av-x-HIS07362

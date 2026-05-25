@@ -1,8 +1,6 @@
 ---
 iso: zba
 name: "Balaibalan\r"
-name_zh: 巴莱巴兰语
-name_zh_auto: true
 autonym: باليبلن
 alt_names: [Balaibalan]
 population: null
@@ -10,5 +8,13 @@ country_id: IR
 country_name: Iran
 status_id: null
 wikipedia_url: "https://en.wikipedia.org/wiki/Balaibalan"
+translations:
+  - translation_iso: ara
+    name: باليبلن
+  - translation_iso: kor
+    name: 발레이벨렌
+  - translation_iso: zho
+    name: 巴莱巴兰语
+    auto: true
 ---
 Balaibalan is the oldest known constructed language.

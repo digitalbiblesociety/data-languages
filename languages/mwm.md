@@ -1,8 +1,6 @@
 ---
 iso: mwm
 name: Sar
-name_zh: 萨尔语
-name_zh_auto: true
 autonym: Madjingay
 alt_names: [Sara, Sara Madjingay]
 population: 183000
@@ -16,6 +14,12 @@ glottolog_family_id: cent2225
 glottolog_family_name: Central Sudanic
 glottolog_classification: "Central Sudanic > Sara-Bongo-Bagirmi > SBB Occidental > Nuclear SBB Occidental > Saraic > Sara Central > Sara Central Chari > Sar"
 wikipedia_url: "https://en.wikipedia.org/wiki/Sar_language"
+translations:
+  - translation_iso: jpn
+    name: サール語
+  - translation_iso: zho
+    name: 萨尔语
+    auto: true
 rolv_dialects:
   - rolv_code: 16333
     language_tag: mwm-x-HIS16333

@@ -1,7 +1,6 @@
 ---
 iso: guk
 name: Gumuz
-name_zh: 古穆茲語
 autonym: Bega
 alt_names: ["\"Shankilligna\"", Bega-Tse, Debatsa, Debuga, Deguba, Dehenda, Gombo, Gumis, Gumuzinya, Lenga Gumuz, Mendeya, Shankillinya, Shanqilla, Sigumza, Гумуски јазик]
 population: 249000
@@ -15,6 +14,9 @@ glottolog_family_id: gumu1250
 glottolog_family_name: Gumuz
 glottolog_classification: "Gumuz > Nuclear Gumuz > Northern Gumuz"
 wikipedia_url: "https://en.wikipedia.org/wiki/Gumuz_language"
+translations:
+  - translation_iso: zho
+    name: 古穆茲語
 rolv_dialects:
   - rolv_code: 937
     language_tag: guk-x-HIS00937

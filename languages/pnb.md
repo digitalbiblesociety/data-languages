@@ -1,7 +1,6 @@
 ---
 iso: pnb
 name: Western Panjabi
-name_zh: 西旁遮普语
 autonym: ਪੰਜਾਬੀ
 alt_names: [Hindki, Język lahnda, Lahanda, Lahnda, Lahndi, Lenga panjabi ossidental, Lingua Panjabica occidentalis, Pandschabi, "Panjabi, Western", Standard Lahnda, Western Punjabi]
 population: 31100000
@@ -14,6 +13,15 @@ glottocode: west2386
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Indo-Aryan > Middle-Modern Indo-Aryan > Continental Indo-Aryan > Indo-Aryan Northwestern zone > Sindhi-Lahnda > Greater Panjabic > Western Panjabi"
+translations:
+  - translation_iso: ara
+    name: بنجابية غربية
+  - translation_iso: jpn
+    name: 西パンジャーブ語
+  - translation_iso: kor
+    name: 서펀자브어
+  - translation_iso: zho
+    name: 西旁遮普语
 rolv_dialects:
   - rolv_code: 852
     language_tag: pnb-x-HIS00852

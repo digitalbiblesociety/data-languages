@@ -1,8 +1,6 @@
 ---
 iso: buq
 name: Brem
-name_zh: 布雷姆语
-name_zh_auto: true
 autonym: Kambuar
 alt_names: [Barem, Bububun, Bunabun, Bunu, Bunubun]
 population: 1190
@@ -16,6 +14,10 @@ glottolog_family_id: nucl1709
 glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Madang > Croisilles > Greater Northern Adelbert > Northern Adelbert > Manep-Barem > Barem"
 wikipedia_url: "https://en.wikipedia.org/wiki/Barem_language"
+translations:
+  - translation_iso: zho
+    name: 布雷姆语
+    auto: true
 rolv_dialects:
   - rolv_code: 30355
     language_tag: buq-x-HIS30355

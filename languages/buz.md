@@ -1,8 +1,6 @@
 ---
 iso: buz
 name: Bukwen
-name_zh: 布克文语
-name_zh_auto: true
 autonym: Munkaf
 population: 1000
 country_id: NG
@@ -15,5 +13,9 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Yemne-Kimbi > Koshin-Bukwen > Bukwen"
 wikipedia_url: "https://en.wikipedia.org/wiki/Bukwen_language"
+translations:
+  - translation_iso: zho
+    name: 布克文语
+    auto: true
 ---
 Bukwen is a Southern Bantoid language of Cameroon. It is spoken in a single village south of Takum, just across the Cameeroonian border from Furu Awa. The only data on Bukwen is found in a 1971 survey report by Robert Koops. Based on this limited data, it appears to be a Western Beboid language of the Mundabli–Buu group.

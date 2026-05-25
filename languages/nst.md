@@ -1,7 +1,6 @@
 ---
 iso: nst
 name: Tase Naga
-name_zh: 唐薩語
 autonym: Tase
 alt_names: [Cham Chang, Chang, Jugli, Lungchang, Naga, "Naga, Tase", "Naga,Tase", Northern Naga, Rangpan, Rangpang, Tangsa, Tangsa/Rangpan, Tasey, Yogli]
 population: 986000
@@ -15,6 +14,11 @@ glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Brahmaputran > Patkaian > North Patkaian > Tangsa > Pangwa Naga"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tangsa_language"
+translations:
+  - translation_iso: hin
+    name: तंग्सा भाषा
+  - translation_iso: zho
+    name: 唐薩語
 rolv_dialects:
   - rolv_code: 1131
     language_tag: nst-x-HIS01131

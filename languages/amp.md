@@ -1,8 +1,6 @@
 ---
 iso: amp
 name: Alamblak
-name_zh: 阿兰布拉克语
-name_zh_auto: true
 autonym: null
 alt_names: [Alamblakeg, Arambak, Język alamblak, Lenga Alamblak, Lingua alamblak]
 population: 1530
@@ -16,6 +14,12 @@ glottolog_family_id: sepi1257
 glottolog_family_name: Sepik
 glottolog_classification: "Sepik > Sepik Hill > Central-Eastern Sepik Hill > Eastern Sepik Hill > Alamblak"
 wikipedia_url: "https://en.wikipedia.org/wiki/Alamblak_language"
+translations:
+  - translation_iso: jpn
+    name: アランブラック語
+  - translation_iso: zho
+    name: 阿兰布拉克语
+    auto: true
 rolv_dialects:
   - rolv_code: 6856
     language_tag: amp-x-HIS06856

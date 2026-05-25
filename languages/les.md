@@ -1,8 +1,6 @@
 ---
 iso: les
 name: Lese
-name_zh: 莱塞语
-name_zh_auto: true
 autonym: Efé
 alt_names: [Balese, Lesa, Lesse, Lissi, Mbuti, Walese, Walisi]
 population: 50000
@@ -16,6 +14,12 @@ glottolog_family_id: cent2225
 glottolog_family_name: Central Sudanic
 glottolog_classification: "Central Sudanic > Membi-Mangbutu-Efe > Mangbutu-Efe > Baleseic > Nuclear Baleseic > Lese"
 wikipedia_url: "https://en.wikipedia.org/wiki/Lese_language"
+translations:
+  - translation_iso: jpn
+    name: エフェ語
+  - translation_iso: zho
+    name: 莱塞语
+    auto: true
 rolv_dialects:
   - rolv_code: 1293
     language_tag: les-x-HIS01293

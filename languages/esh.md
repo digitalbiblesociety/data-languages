@@ -1,8 +1,6 @@
 ---
 iso: esh
 name: Eshtehardi
-name_zh: 埃什特哈尔迪语
-name_zh_auto: true
 autonym: Tâti تاتی زبون
 alt_names: [Iran]
 population: null
@@ -15,4 +13,8 @@ glottocode: esht1238
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Iranian-Nuristani > Iranian > Central Iranian PBS > Central Iranian PB > Northwestern Iranian > Adharic > Tatic > Southern Tatic > Ramand-Karaj > Eshtehardi"
+translations:
+  - translation_iso: zho
+    name: 埃什特哈尔迪语
+    auto: true
 ---

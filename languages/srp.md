@@ -1,7 +1,6 @@
 ---
 iso: srp
 name: Serbian
-name_zh: 塞尔维亚语
 autonym: српски / srpski
 population: 7730000
 country_id: RS
@@ -11,6 +10,17 @@ latitude: 44.323844
 longitude: 21.919184
 scripts: [Cyrl, Latn]
 wikipedia_url: "https://en.wikipedia.org/wiki/Serbian_language"
+translations:
+  - translation_iso: ara
+    name: الصربية
+  - translation_iso: hin
+    name: सर्बियाई भाषा
+  - translation_iso: jpn
+    name: セルビア語
+  - translation_iso: kor
+    name: 세르비아어
+  - translation_iso: zho
+    name: 塞尔维亚语
 rolv_dialects:
   - rolv_code: 16553
     language_tag: sr-x-HIS16553

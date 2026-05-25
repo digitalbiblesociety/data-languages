@@ -1,8 +1,6 @@
 ---
 iso: kcc
 name: Lubila
-name_zh: 卢比拉语
-name_zh_auto: true
 autonym: Kabila
 alt_names: [Kabire, Lubilo, Ofor, Ojor]
 population: 11400
@@ -16,5 +14,9 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Delta Cross > Upper Cross > Central Upper Cross > East-West Central Delta Cross > Lokoic > Lubila-Lokaa > Lubila"
 wikipedia_url: "https://en.wikipedia.org/wiki/Lubila_language"
+translations:
+  - translation_iso: zho
+    name: 卢比拉语
+    auto: true
 ---
 Lubila, or Kabila, is an Upper Cross River language of Nigeria.

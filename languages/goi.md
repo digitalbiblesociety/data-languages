@@ -1,8 +1,6 @@
 ---
 iso: goi
 name: Gobasi
-name_zh: 戈巴西语
-name_zh_auto: true
 autonym: Nomad
 alt_names: [Nomad Dialects, Samo]
 population: 1100
@@ -16,6 +14,10 @@ glottolog_family_id: east2433
 glottolog_family_name: East Strickland
 glottolog_classification: "East Strickland > Kubo-Samo-Bibo > Gobasi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Gobasi_language"
+translations:
+  - translation_iso: zho
+    name: 戈巴西语
+    auto: true
 rolv_dialects:
   - rolv_code: 10267
     language_tag: goi-x-HIS10267

@@ -1,8 +1,6 @@
 ---
 iso: mzr
 name: Marúbo
-name_zh: 玛鲁博语
-name_zh_auto: true
 autonym: Kaniuá
 alt_names: [Katukína, Marobo, Marova, Maruba, Marubo, Marubo of the Javari Basin, Marúbu]
 population: 1040
@@ -16,5 +14,9 @@ glottolog_family_id: pano1259
 glottolog_family_name: Pano-Tacanan
 glottolog_classification: "Pano-Tacanan > Panoan > Mainline Pano > Pano Nawa > Marubo Subgroup > Marúbo"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mar%C3%BAbo_language"
+translations:
+  - translation_iso: zho
+    name: 玛鲁博语
+    auto: true
 ---
 Marúbo is a Panoan language of Brazil.

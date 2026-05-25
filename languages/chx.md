@@ -1,8 +1,6 @@
 ---
 iso: chx
 name: Chantyal
-name_zh: 尚蒂亚尔语
-name_zh_auto: true
 autonym: Chantel
 alt_names: [Chantyalish, Chentel, Chhantel, ภาษาชันเตียล]
 population: 2000
@@ -16,5 +14,9 @@ glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Bodic > Kaike-Ghale-Tamangic > Ghale-Tamangic > Tamangic > Gurungic > Thakali-Chantyal > Chantyal"
 wikipedia_url: "https://en.wikipedia.org/wiki/Chantyal_language"
+translations:
+  - translation_iso: zho
+    name: 尚蒂亚尔语
+    auto: true
 ---
 Chhantyal is spoken by approximately 2,000 of the 10,000 ethnic Chhantyal in Nepal. Chhantyal is spoken in the Kali Gandaki River valley of Myagdi District; there are also ethnic Chantel in Baglung District (Ethnologue).

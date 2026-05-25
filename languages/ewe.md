@@ -1,7 +1,6 @@
 ---
 iso: ewe
 name: Ewe
-name_zh: 埃维语
 autonym: Èʋegbe
 alt_names: [Anló, Atjüló, Bahasa Ewe, Ebwe, Efe, Ehwe, Eibe, Eue, Eve, Eve kalba, Evea lingvo, Evu valoda, Ewe (Anglo), Eweeg, Ewen kieli, Eweština, Eʋegbe, Fiteny eve, Gbe, Gbi, Idioma ewe, Język ewe, Krepe, Krepi, Lingua ewe, Língua ewe, Popo, Vhe, Èdè efe, éwé, Эве, ევე, エウェ語]
 population: 4965300
@@ -16,6 +15,17 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Kwa Volta-Congo > Gbe > Western Gbe > Eweic > Ewe"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ewe_language"
+translations:
+  - translation_iso: ara
+    name: لغة الإيوي
+  - translation_iso: hin
+    name: एबी भाषा
+  - translation_iso: jpn
+    name: エウェ語
+  - translation_iso: kor
+    name: 에웨어
+  - translation_iso: zho
+    name: 埃维语
 rolv_dialects:
   - rolv_code: 9710
     language_tag: ee-x-HIS09710

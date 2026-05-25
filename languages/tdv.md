@@ -1,8 +1,6 @@
 ---
 iso: tdv
 name: Toro
-name_zh: 托罗语
-name_zh_auto: true
 autonym: Turkwam
 population: 3930
 country_id: NG
@@ -15,5 +13,9 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Benue-Congo Plateau > Alumic > Toro"
 wikipedia_url: "https://en.wikipedia.org/wiki/Toro_language"
+translations:
+  - translation_iso: zho
+    name: 托罗语
+    auto: true
 ---
 Toro, also known as Turkwam, is a Plateau language of Nigeria. It has lost the nominal affix system characteristic of the Niger–Congo family.

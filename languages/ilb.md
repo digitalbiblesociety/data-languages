@@ -1,8 +1,6 @@
 ---
 iso: ilb
 name: Ila
-name_zh: 伊拉语
-name_zh_auto: true
 autonym: Lundwe
 alt_names: [Chiila, Shukulumbwe, Sukulumbwe]
 population: 82900
@@ -16,6 +14,12 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > East Bantu > Botatwe > Greater Eastern Botatwe > Central Eastern Botatwe > Kafue > Ila"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ila_language"
+translations:
+  - translation_iso: jpn
+    name: イラ語
+  - translation_iso: zho
+    name: 伊拉语
+    auto: true
 rolv_dialects:
   - rolv_code: 10866
     language_tag: ilb-x-HIS10866

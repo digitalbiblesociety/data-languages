@@ -1,8 +1,6 @@
 ---
 iso: dsn
 name: Dusner
-name_zh: 杜斯内尔语
-name_zh_auto: true
 autonym: Dusnir
 population: null
 country_id: ID
@@ -15,6 +13,10 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > South Halmahera-West New Guinea > Cenderawasih Bay > Biakic > Dusner"
 wikipedia_url: "https://en.wikipedia.org/wiki/Dusner_language"
+translations:
+  - translation_iso: zho
+    name: 杜斯内尔语
+    auto: true
 rolv_dialects:
   - rolv_code: 1257
     language_tag: dsn-x-HIS01257

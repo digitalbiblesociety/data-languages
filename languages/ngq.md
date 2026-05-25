@@ -1,8 +1,6 @@
 ---
 iso: ngq
 name: Ngurimi
-name_zh: 恩古里米语
-name_zh_auto: true
 autonym: Dengurume
 alt_names: [Ikingurimi, Ngoreme, Ngruimi, Nguruimi]
 population: 52400
@@ -16,6 +14,10 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > East Bantu > Northeast Savanna Bantu > Great Lakes Bantu > East Nyanza > Nyanza Mara > South Mara > Western Serengeti > Ngoreme"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ngoreme_language"
+translations:
+  - translation_iso: zho
+    name: 恩古里米语
+    auto: true
 rolv_dialects:
   - rolv_code: 30786
     language_tag: ngq-x-HIS30786

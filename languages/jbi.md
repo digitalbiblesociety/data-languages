@@ -1,8 +1,6 @@
 ---
 iso: jbi
 name: Badjiri
-name_zh: 巴季里语
-name_zh_auto: true
 autonym: Budjari
 alt_names: [Baddyeri, Baderi, Badjedi, Badjeri, Badjidi, Badyidi, Byjerri, Bädjäri, Poidg-erry, Poidgerry]
 population: null
@@ -16,5 +14,9 @@ glottolog_family_id: pama1250
 glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > Karnic > Badjiri-Eastern Karnic > Badjirri"
 wikipedia_url: "https://en.wikipedia.org/wiki/Badjiri_language"
+translations:
+  - translation_iso: zho
+    name: 巴季里语
+    auto: true
 ---
 Badjiri is an extinct Aboriginal Australian language once spoken by the Badjiri people of southern Queensland.

@@ -1,8 +1,6 @@
 ---
 iso: hmt
 name: Hamtai
-name_zh: 哈姆泰语
-name_zh_auto: true
 autonym: Hamday
 alt_names: ["\"Kukukuku\"", Hamtai (=Kapau), Hamtai (Kapau), Kamea, Kapau, Kukukuku, Watut]
 population: 66000
@@ -16,6 +14,12 @@ glottolog_family_id: anga1289
 glottolog_family_name: Angan
 glottolog_classification: "Angan > Nuclear Angan > Kapau-Menya > Hamtai"
 wikipedia_url: "https://en.wikipedia.org/wiki/Hamtai_language"
+translations:
+  - translation_iso: jpn
+    name: ハムタイ語
+  - translation_iso: zho
+    name: 哈姆泰语
+    auto: true
 rolv_dialects:
   - rolv_code: 10548
     language_tag: hmt-x-HIS10548

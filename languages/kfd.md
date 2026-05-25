@@ -1,8 +1,6 @@
 ---
 iso: kfd
 name: Korra Koraga
-name_zh: 科拉·科拉加语
-name_zh_auto: true
 autonym: ಕೊರಗ
 alt_names: [Koraga, Koraga language, "Koraga, Korra", Koragar, Koragara, Korangi, Korra]
 population: 14000
@@ -15,6 +13,10 @@ glottocode: korr1238
 glottolog_family_id: drav1251
 glottolog_family_name: Dravidian
 glottolog_classification: "Dravidian > South Dravidian > South Dravidian I > South-Western Dravidian > Koraga > Korra Koraga"
+translations:
+  - translation_iso: zho
+    name: 科拉·科拉加语
+    auto: true
 rolv_dialects:
   - rolv_code: 25749
     language_tag: kfd-x-HIS25749

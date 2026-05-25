@@ -1,7 +1,6 @@
 ---
 iso: ttt
 name: Muslim Tat
-name_zh: 塔特语
 autonym: zuhun tati
 alt_names: [(Tati), Mussulman Tati, Tat, Tat (Muslim), Tat language, "Tat, Muslim", Tata lingvo, Tateg, Tati, Tatin kieli, Tatí musulmán, зуун тати, татский язык, Թաթերեն, زبان تاتی قفقاز, ภาษาตัต, თათური ენა]
 population: 18000
@@ -16,6 +15,17 @@ glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Iranian-Nuristani > Iranian > Southwestern Iranian > Middle-Modern Persian > Modern Southwestern Iranian > Farsic-Caucasian Tat > Caucasian Tat > Muslim Tat"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tat_language_(Caucasus)"
+translations:
+  - translation_iso: ara
+    name: لغة تات
+  - translation_iso: hin
+    name: कोकेशियान टाट भाषा
+  - translation_iso: jpn
+    name: ムスリム・タート語
+  - translation_iso: kor
+    name: 타트어
+  - translation_iso: zho
+    name: 塔特语
 rolv_dialects:
   - rolv_code: 17234
     language_tag: ttt-x-HIS17234

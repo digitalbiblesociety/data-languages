@@ -1,8 +1,6 @@
 ---
 iso: mjm
 name: Medebur
-name_zh: 梅德布尔语
-name_zh_auto: true
 autonym: null
 population: 510
 country_id: PG
@@ -15,6 +13,10 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > North New Guinea linkage > Schouten linkage > Kairiru-Manam > Manamic linkage > Medebur"
 wikipedia_url: "https://en.wikipedia.org/wiki/Medebur_language"
+translations:
+  - translation_iso: zho
+    name: 梅德布尔语
+    auto: true
 rolv_dialects:
   - rolv_code: 31618
     language_tag: mjm-x-HIS31618

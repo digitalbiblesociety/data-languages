@@ -1,8 +1,6 @@
 ---
 iso: aun
 name: Molmo One
-name_zh: 莫尔莫一语
-name_zh_auto: true
 autonym: Aunalei
 alt_names: [Inebu One, Kabore One, Kuamtim, Kwamtim One, Molmo, Northern One, One, "One, Molmo", Onele, Oni, Southern One]
 population: 500
@@ -15,6 +13,10 @@ glottocode: molm1235
 glottolog_family_id: nucl1708
 glottolog_family_name: Nuclear Torricelli
 glottolog_classification: "Nuclear Torricelli > West Wapei > One > Central-Northern One > Molmo One"
+translations:
+  - translation_iso: zho
+    name: 莫尔莫一语
+    auto: true
 rolv_dialects:
   - rolv_code: 7345
     language_tag: aun-x-HIS07345

@@ -1,7 +1,6 @@
 ---
 iso: ndm
 name: Ndam
-name_zh: 恩丹語
 autonym: Dam
 alt_names: [Gulei, Ndamm]
 population: 6500
@@ -15,6 +14,13 @@ glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > East Chadic > East Chadic A > East Chadic A.1 > Sumrayic > Ndam-Tumak > Ndam"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ndam_language"
+translations:
+  - translation_iso: ara
+    name: ندام
+  - translation_iso: jpn
+    name: ンダム語
+  - translation_iso: zho
+    name: 恩丹語
 rolv_dialects:
   - rolv_code: 14765
     language_tag: ndm-x-HIS14765

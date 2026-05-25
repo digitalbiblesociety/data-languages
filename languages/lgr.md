@@ -1,8 +1,6 @@
 ---
 iso: lgr
 name: Lengo
-name_zh: 伦戈语
-name_zh_auto: true
 autonym: Doku
 alt_names: [Ruavatu, Südliche Salomons-Inseln, Tasemboko]
 population: 13800
@@ -16,6 +14,12 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Southeast Solomonic > Guadalcanal-Nggelic > Nuclear Guadalcanal-Nggelic > North and West Guadalcanal > Lengo"
 wikipedia_url: "https://en.wikipedia.org/wiki/Lengo_language"
+translations:
+  - translation_iso: jpn
+    name: レンゴ語
+  - translation_iso: zho
+    name: 伦戈语
+    auto: true
 rolv_dialects:
   - rolv_code: 3599
     language_tag: lgr-x-HIS03599

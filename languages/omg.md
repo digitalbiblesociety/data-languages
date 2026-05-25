@@ -1,8 +1,6 @@
 ---
 iso: omg
 name: Omagua
-name_zh: 奥玛瓜语
-name_zh_auto: true
 autonym: Agua
 alt_names: [Anapia, Ariana, Cambeba, Cambeeba, Cambela, Campeba, Canga-Peba, Compeva, Janbeba, Kambeba, Macanipa, Omagua (Brésil), Omagua (Perú), Omagua (Pérou), Omagua-Campeva, Omagua-Yete, Omawa-Kampeva, Pariana, Umaua, Yhuata]
 population: 100
@@ -16,5 +14,9 @@ glottolog_family_id: tupi1275
 glottolog_family_name: Tupian
 glottolog_classification: "Tupian > Eastern Tupian > Maweti-Guarani > Aweti-Guarani > Tupi-Guarani > Southern Tupi-Guarani > Tupi-Guarani Subgroup III > Omagua-Kokama > Omagua"
 wikipedia_url: "https://en.wikipedia.org/wiki/Omagua_language"
+translations:
+  - translation_iso: zho
+    name: 奥玛瓜语
+    auto: true
 ---
 Omagua is a Tupi-Guarani language closely related to Cocama, belonging to the Group III subgroup of the Tupí-Guaraní family, according to Aryon Rodrigues' classification of the family.

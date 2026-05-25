@@ -1,8 +1,6 @@
 ---
 iso: gip
 name: Gimi (West New Britain)
-name_zh: 吉米语（西新不列颠）
-name_zh_auto: true
 autonym: Loko
 alt_names: [Gimi]
 population: 3700
@@ -15,4 +13,8 @@ glottocode: gimi1242
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > North New Guinea linkage > Ngero-Vitiaz linkage > Vitiaz linkage > Southwest New Britain linkage > Arawe-Pasismanua > Arawe > West Arawe > Gimi (West New Britain)"
+translations:
+  - translation_iso: zho
+    name: 吉米语（西新不列颠）
+    auto: true
 ---

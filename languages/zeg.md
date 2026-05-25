@@ -1,8 +1,6 @@
 ---
 iso: zeg
 name: Zenag
-name_zh: 泽纳格语
-name_zh_auto: true
 autonym: Zenang
 population: 1818
 country_id: PG
@@ -14,6 +12,10 @@ glottocode: zena1237
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > North New Guinea linkage > Huon Gulf > South Huon Gulf linkage > Buang linkage > Mumeng > Zenag-Patep > Zenag"
+translations:
+  - translation_iso: zho
+    name: 泽纳格语
+    auto: true
 rolv_dialects:
   - rolv_code: 26376
     language_tag: zeg-x-HIS26376

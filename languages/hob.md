@@ -1,8 +1,6 @@
 ---
 iso: hob
 name: Mari (Madang Province)
-name_zh: 玛丽语(马当省)
-name_zh_auto: true
 autonym: Hop
 alt_names: [Mari]
 population: 810
@@ -16,5 +14,11 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > North New Guinea linkage > Huon Gulf > Markham > Upper Markham > Mountain Upper Markham > Mari (Madang Province)"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mari_language_(Madang_Province)"
+translations:
+  - translation_iso: jpn
+    name: マリ語
+  - translation_iso: zho
+    name: 玛丽语(马当省)
+    auto: true
 ---
 Mari, or Hop, is a minor Austronesian language of Madang Province, Papua New Guinea. It is spoken in the four villages of Bumbu, Bubirumpun, Musuam, and Sangkiang in Usino Rural LLG of the Ramu valley.

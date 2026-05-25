@@ -1,8 +1,6 @@
 ---
 iso: pmd
 name: Pallanganmiddang
-name_zh: 帕兰甘米丁语
-name_zh_auto: true
 autonym: Waywurru
 population: null
 country_id: AU
@@ -15,5 +13,9 @@ glottolog_family_id: pama1250
 glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > Southeastern Pama-Nyungan > Victorian Pama-Nyungan > Eastern Victoria > Dhudhuroa-Pallanganmiddang > Pallanganmiddang"
 wikipedia_url: "https://en.wikipedia.org/wiki/Pallanganmiddang_language"
+translations:
+  - translation_iso: zho
+    name: 帕兰甘米丁语
+    auto: true
 ---
 Pallanganmiddang is an extinct, poorly-attested Aboriginal language of the Upper Murray region of the northeast of Victoria, that was spoken by the Pallanganmiddang people.

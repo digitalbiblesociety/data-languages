@@ -1,7 +1,6 @@
 ---
 iso: krk
 name: Kerek
-name_zh: 克列克語
 autonym: аӈӄалҕакку
 alt_names: [Język kerecki, Kerekin kieli, Kereks, Kerečki jezik, Língua kereque, Керек чĕлхи, керекский язык]
 population: 2020
@@ -15,6 +14,13 @@ glottolog_family_id: chuk1271
 glottolog_family_name: Chukotko-Kamchatkan
 glottolog_classification: "Chukotko-Kamchatkan > Chukotian > R-Koryakic > J-Koryakic > Kerek"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kerek_language"
+translations:
+  - translation_iso: jpn
+    name: ケレク語
+  - translation_iso: kor
+    name: 케레크어
+  - translation_iso: zho
+    name: 克列克語
 rolv_dialects:
   - rolv_code: 11878
     language_tag: krk-x-HIS11878

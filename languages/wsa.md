@@ -1,8 +1,6 @@
 ---
 iso: wsa
 name: Warembori
-name_zh: 瓦瑞姆博里语
-name_zh_auto: true
 autonym: Waremboivoro
 alt_names: [Warenbori, Warenborieg]
 population: 600
@@ -16,6 +14,10 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > South Halmahera-West New Guinea > Lower Mamberamo > Warembori"
 wikipedia_url: "https://en.wikipedia.org/wiki/Warembori_language"
+translations:
+  - translation_iso: zho
+    name: 瓦瑞姆博里语
+    auto: true
 rolv_dialects:
   - rolv_code: 1208
     language_tag: wsa-x-HIS01208

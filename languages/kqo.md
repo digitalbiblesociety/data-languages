@@ -1,8 +1,6 @@
 ---
 iso: kqo
 name: Eastern Krahn
-name_zh: 东克兰语
-name_zh_auto: true
 autonym: Eastern Krahn
 alt_names: [Eastern Kran, "Krahn, Eastern", Kran]
 population: 109800
@@ -16,6 +14,10 @@ glottolog_family_id: krua1234
 glottolog_family_name: Kru
 glottolog_classification: "Kru > Greater Western Kru > Western Kru > Wee-Bassa-Klao > Wee > Nuclear Wee > Konoboic > Konobo-Eastern Krahn"
 wikipedia_url: "https://en.wikipedia.org/wiki/Konobo_language"
+translations:
+  - translation_iso: zho
+    name: 东克兰语
+    auto: true
 rolv_dialects:
   - rolv_code: 315
     language_tag: kqo-x-HIS00315

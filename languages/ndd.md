@@ -1,8 +1,6 @@
 ---
 iso: ndd
 name: "Nde-Nsele-Nta"
-name_zh: 恩德-恩塞莱-恩塔语
-name_zh_auto: true
 autonym: Nde
 alt_names: [Nigeria]
 population: 12000
@@ -16,6 +14,10 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Ekoid-Mbe > Ekoid > Bakor-Ejagham > Bakor > Nde-Efutop > Nde-Nsele-Nta"
 wikipedia_url: "https://en.wikipedia.org/wiki/Nde-Nsele-Nta_language"
+translations:
+  - translation_iso: zho
+    name: 恩德-恩塞莱-恩塔语
+    auto: true
 rolv_dialects:
   - rolv_code: 2200
     language_tag: ndd-x-HIS02200

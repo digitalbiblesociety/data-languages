@@ -1,8 +1,6 @@
 ---
 iso: abz
 name: Abui
-name_zh: 阿布伊语
-name_zh_auto: true
 autonym: Abui tanga
 alt_names: ["\"Barawahing\"", Barue, Lingua abui, Namatalaki]
 population: 16000
@@ -16,6 +14,12 @@ glottolog_family_id: timo1261
 glottolog_family_name: Timor-Alor-Pantar
 glottolog_classification: "Timor-Alor-Pantar > Alor-Pantar > Nuclear Alor-Pantar > Central Alor > Abuic > Abui"
 wikipedia_url: "https://en.wikipedia.org/wiki/Abui_language"
+translations:
+  - translation_iso: jpn
+    name: アブイ語
+  - translation_iso: zho
+    name: 阿布伊语
+    auto: true
 rolv_dialects:
   - rolv_code: 6640
     language_tag: abz-x-HIS06640

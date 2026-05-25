@@ -1,8 +1,6 @@
 ---
 iso: wny
 name: Wanyi
-name_zh: 万伊语
-name_zh_auto: true
 autonym: Waanji
 alt_names: [Waangyee, Waanyi, Wainyi, Wanee, Wanji, Wanyee, Wanyu, Wonyee]
 population: 16
@@ -16,5 +14,9 @@ glottolog_family_id: garr1260
 glottolog_family_name: Garrwan
 glottolog_classification: "Garrwan > Wanyi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Waanyi_language"
+translations:
+  - translation_iso: zho
+    name: 万伊语
+    auto: true
 ---
 Waanyi, also spelt Wanyi, Wanji or Waanji, is an endangered Australian Aboriginal language spoken by the Waanyi people of the lower gulf area of Northern Queensland, Australia. Although earlier thought to be extinct, as of the 2016 Australian census there were 16 speakers of the language. This was down from the recorded peak of 40 in the 2011 Australian census.

@@ -1,8 +1,6 @@
 ---
 iso: cra
 name: Chara
-name_zh: 查拉语
-name_zh_auto: true
 autonym: Ciara
 alt_names: ["C'ara"]
 population: 5556
@@ -16,5 +14,9 @@ glottolog_family_id: gong1255
 glottolog_family_name: Ta-Ne-Omotic
 glottolog_classification: "Ta-Ne-Omotic > Ometo > Chara"
 wikipedia_url: "https://en.wikipedia.org/wiki/Chara_language"
+translations:
+  - translation_iso: zho
+    name: 查拉语
+    auto: true
 ---
 Chara is an Afro-Asiatic language of the North Omotic variety spoken in the Southern Nations, Nationalities, and People's Region of Ethiopia by 13,000 people.

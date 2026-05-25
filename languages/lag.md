@@ -1,7 +1,6 @@
 ---
 iso: lag
 name: Langi
-name_zh: 朗吉语
 autonym: Kilaangi
 alt_names: [Irangi, Kilangi, Kirangi, Rangi]
 population: 371000
@@ -16,6 +15,17 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > East Bantu > Mbugwe-Langi > Langi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Rangi_language"
+translations:
+  - translation_iso: ara
+    name: لانجي
+  - translation_iso: hin
+    name: लांगि
+  - translation_iso: jpn
+    name: ランギ語
+  - translation_iso: kor
+    name: 랑기어
+  - translation_iso: zho
+    name: 朗吉语
 rolv_dialects:
   - rolv_code: 27941
     language_tag: lag-x-HIS27941

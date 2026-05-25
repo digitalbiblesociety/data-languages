@@ -1,8 +1,6 @@
 ---
 iso: pek
 name: Penchal
-name_zh: 彭查尔语
-name_zh_auto: true
 autonym: null
 alt_names: [Admiralitäts-inseln]
 population: 550
@@ -16,5 +14,9 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Admiralty Islands > Eastern Admiralty Islands > South-East Admiralty > Penchal"
 wikipedia_url: "https://en.wikipedia.org/wiki/Penchal_language"
+translations:
+  - translation_iso: zho
+    name: 彭查尔语
+    auto: true
 ---
 Penchal is an Oceanic language of Manus Province, Papua New Guinea.

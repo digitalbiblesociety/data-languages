@@ -1,8 +1,6 @@
 ---
 iso: hmu
 name: Hamap
-name_zh: 哈玛普语
-name_zh_auto: true
 autonym: null
 alt_names: [Indonesia]
 population: 1290
@@ -15,4 +13,8 @@ glottocode: hama1240
 glottolog_family_id: timo1261
 glottolog_family_name: Timor-Alor-Pantar
 glottolog_classification: "Timor-Alor-Pantar > Alor-Pantar > Nuclear Alor-Pantar > West Alor-Straits-Pantar > West Alor > Hamap"
+translations:
+  - translation_iso: zho
+    name: 哈玛普语
+    auto: true
 ---

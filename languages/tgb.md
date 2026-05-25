@@ -1,8 +1,6 @@
 ---
 iso: tgb
 name: Tobilung
-name_zh: 托比隆语
-name_zh_auto: true
 autonym: Tabilong
 alt_names: [Tebilung, Tobilang]
 population: 8850
@@ -16,5 +14,9 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > North Borneo Malayo-Polynesian > Sabahan > Southwest Sabahan > Greater Dusunic > Dusunic > Tobilung"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tobilung_language"
+translations:
+  - translation_iso: zho
+    name: 托比隆语
+    auto: true
 ---
 Kimaragang (Marigang), Tobilung, and Rungus are varieties of a single Austronesian language of Sabah, Malaysia. The three varieties share moderate mutual intelligibility. Children are not learning it well in some areas.

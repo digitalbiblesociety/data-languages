@@ -1,7 +1,6 @@
 ---
 iso: zea
 name: Zeeuws
-name_zh: 西兰语
 autonym: Zeêuws
 alt_names: [Dialekt zelandzki, Dialetto zelandese, Dutch, Dutch (Zeeuws), Flemish (Zeeuws), Netherlandic, Seeländisch, Sî-làn-ngî, Zais, Zeaws, Zeelandic, Zeeländska, Zelanda lingvo, Zelandeg, Zelandès, Zelandés, Ziews, Zélandais, Zêeuws, Зеландский диалект, ゼーランド語]
 population: 220000
@@ -16,6 +15,15 @@ glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Germanic > Northwest Germanic > West Germanic > Macro-Dutch > Middle-Modern Dutch > Modern Dutch > Southwestern Dutch > Zeeuwic > Zeeuws"
 wikipedia_url: "https://en.wikipedia.org/wiki/Zeelandic"
+translations:
+  - translation_iso: ara
+    name: الزيلندية
+  - translation_iso: jpn
+    name: ゼーランド語
+  - translation_iso: kor
+    name: 제일란트어
+  - translation_iso: zho
+    name: 西兰语
 rolv_dialects:
   - rolv_code: 26080
     language_tag: zea-x-HIS26080

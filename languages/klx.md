@@ -1,8 +1,6 @@
 ---
 iso: klx
 name: Koluwawa
-name_zh: 科卢瓦瓦语
-name_zh_auto: true
 autonym: Kalokalo
 population: 900
 country_id: PG
@@ -15,6 +13,10 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > Papuan Tip linkage > Nuclear Papuan Tip linkage > North Papuan Mainland-D'Entrecasteaux linkage > Bwaidoga linkage > Koluwawa"
 wikipedia_url: "https://en.wikipedia.org/wiki/Koluwawa_language"
+translations:
+  - translation_iso: zho
+    name: 科卢瓦瓦语
+    auto: true
 rolv_dialects:
   - rolv_code: 2216
     language_tag: klx-x-HIS02216

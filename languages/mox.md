@@ -1,8 +1,6 @@
 ---
 iso: mox
 name: Molima
-name_zh: 莫利玛语
-name_zh_auto: true
 autonym: Salakahadi
 alt_names: [Ebadidi, Fagululu, Morima]
 population: 4010
@@ -16,6 +14,10 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > Papuan Tip linkage > Nuclear Papuan Tip linkage > North Papuan Mainland-D'Entrecasteaux linkage > Bwaidoga linkage > Molima"
 wikipedia_url: "https://en.wikipedia.org/wiki/Molima_language"
+translations:
+  - translation_iso: zho
+    name: 莫利玛语
+    auto: true
 rolv_dialects:
   - rolv_code: 2163
     language_tag: mox-x-HIS02163

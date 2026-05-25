@@ -1,7 +1,6 @@
 ---
 iso: ron
 name: Romanian
-name_zh: 罗马尼亚语
 autonym: "Daco-Romanian"
 alt_names: [An Rómáinis, Bahasa Romania, Bahasa Rumania, Balkan Romance, Daco-Rumanian, Errumaniera, Fiteny romana, Gjuha rumune, Idioma rumano, Idioma rumán, Język rumuński, Kiromania, Lengua romenn-a, Limba romuna, Limba română, Lingua Dacoromanica, Lingua romanesa, Lingua romanian, Lingua rumena, Língua romena, Moldavan, Moldavian, Moldovan, Pinulongang Rumano, Roemeens, Roemeensk, Romaanish, Roman tili, Romanian kieli, Romanès, Romanés, Romunščina, Román nyelv, Romániagiella, România-gí, Română, Roumain, Roumaneg, Roumanek, Roumanian, Roumen, Roumin, Rumana lingvo, Rumanian, Rumaniana linguo, Rumano, Rumanu, Rumanya simi, Rumeenia keel, Rumence, Rumensk, Rumensk språk, Rumunikani chhib, Rumunjski jezik, Rumunski jezik, Rumunčina, Rumunština, Rumunšćina, Rumunų kalba, Rumänisch, Rumänische Sprache, Rumänska, Rumäänsche Spraak, Rumænsk, Rumāņu valoda, Rumın dili, Rumǣnisc sprǣc, Rwmaneg, Ròmainis, Rúmenska, Tiếng Romana, Zimanê rûmenî, moldave, Łéngoa rumena, Ρουμανική γλώσσα, Романски јазик, Румунски језик, Румунська мова, Румънски език, Румын йылме, Румынская мова, Румынский язык, Ռումիներեն, רומנית, רומעניש, رومانى, رۇمىنىيە تىلى, زبان رومانیایی, لغة رومانية, রুমানীয় ভাষা, உருமானிய மொழி, ภาษาโรมาเนีย, რუმინული ენა, ルーマニア語, 羅馬尼亞語, 루마니아어]
 population: 24300000
@@ -16,6 +15,17 @@ glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Italic > Latino-Faliscan > Latinic > Imperial Latin > Romance > Eastern Romance > Northern Romanian > Eastern Romanian > Romanian"
 wikipedia_url: "https://en.wikipedia.org/wiki/Romanian_language"
+translations:
+  - translation_iso: ara
+    name: الرومانية
+  - translation_iso: hin
+    name: रोमानियाई भाषा
+  - translation_iso: jpn
+    name: ルーマニア語
+  - translation_iso: kor
+    name: 루마니아어
+  - translation_iso: zho
+    name: 罗马尼亚语
 rolv_dialects:
   - rolv_code: 3368
     language_tag: ro-x-HIS03368

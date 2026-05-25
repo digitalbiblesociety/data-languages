@@ -1,7 +1,6 @@
 ---
 iso: bnf
 name: Masiwang
-name_zh: 马西望语
 autonym: Bonfia
 population: 1000
 country_id: ID
@@ -14,5 +13,8 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Greater Seram Laut > East Seram > East Rivers Seram > Masiwang"
 wikipedia_url: "https://en.wikipedia.org/wiki/Masiwang_language"
+translations:
+  - translation_iso: zho
+    name: 马西望语
 ---
 Masiwang is a language of Seram, Indonesia.

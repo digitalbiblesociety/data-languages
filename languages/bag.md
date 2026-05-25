@@ -1,8 +1,6 @@
 ---
 iso: bag
 name: Tuki
-name_zh: 图基语
-name_zh_auto: true
 autonym: Tuki
 alt_names: [Bacenga, Baki, Batchenga, Betsinga, Betzinga, Ki, Oki, Osa Nanga, Sanaga]
 population: 26000
@@ -16,6 +14,10 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > Mbam-Bubi > Mbam > Nuclear Mbam > Sanaga-West Mbam (A.40) > Sanaga (A.60) > Tuki"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ki_language"
+translations:
+  - translation_iso: zho
+    name: 图基语
+    auto: true
 rolv_dialects:
   - rolv_code: 17739
     language_tag: bag-x-HIS17739

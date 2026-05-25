@@ -1,8 +1,6 @@
 ---
 iso: lac
 name: Lacandon
-name_zh: 拉坎顿语
-name_zh_auto: true
 autonym: "Jach-tʼaan "
 alt_names: [Idioma lacandón, Lacandon Maya, Lacandonsk, Lacandón, Lakandonština, Lakantún, Língua lacandona, "Ma:ya", Лакандонски јазик]
 population: 600
@@ -16,6 +14,14 @@ glottolog_family_id: maya1287
 glottolog_family_name: Mayan
 glottolog_classification: "Mayan > Core Mayan > Yucatecan > Nuclear Yucatecan > Yucatec-Lacandon > Lacandon"
 wikipedia_url: "https://en.wikipedia.org/wiki/Lacandon_language"
+translations:
+  - translation_iso: jpn
+    name: ラカンドン語
+  - translation_iso: kor
+    name: 라칸돈어
+  - translation_iso: zho
+    name: 拉坎顿语
+    auto: true
 rolv_dialects:
   - rolv_code: 2432
     language_tag: lac-x-HIS02432

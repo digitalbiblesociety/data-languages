@@ -1,8 +1,6 @@
 ---
 iso: rga
 name: Roria
-name_zh: 罗里亚语
-name_zh_auto: true
 autonym: Soisoru
 alt_names: [Mores, Morés, Toksiki]
 population: 75
@@ -16,6 +14,10 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > North and Central Vanuatu > Northern Vanuatu > Espiritu Santo > Nuclear Santo > South Santo > Mores"
 wikipedia_url: "https://en.wikipedia.org/wiki/Toksiki_language"
+translations:
+  - translation_iso: zho
+    name: 罗里亚语
+    auto: true
 rolv_dialects:
   - rolv_code: 30707
     language_tag: rga-x-HIS30707

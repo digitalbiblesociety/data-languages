@@ -1,7 +1,6 @@
 ---
 iso: bej
 name: Beja
-name_zh: 貝扎語
 autonym: Bidhaawyeet
 alt_names: [Bedauye, Bedawi, Bedawi hizkuntza, Bedawieg, Bedawiye, Bedawiyet, Bedawiyet jezik, Bedawye, Bedscha, Bedwi, Bedya, Bedàwie, Bedžan kieli, Beĝaa lingvo, Bischari, Idioma beya, Język bedża, Llengua beja, Lobat, Língua beja, To-Bedawie, bedja, لغة بجاوية]
 population: 2498000
@@ -16,6 +15,17 @@ glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Cushitic > Beja"
 wikipedia_url: "https://en.wikipedia.org/wiki/Beja_language"
+translations:
+  - translation_iso: ara
+    name: اللغة البجاوية
+  - translation_iso: hin
+    name: बेजा
+  - translation_iso: jpn
+    name: ベジャ語
+  - translation_iso: kor
+    name: 베자어
+  - translation_iso: zho
+    name: 貝扎語
 rolv_dialects:
   - rolv_code: 6419
     language_tag: bej-x-HIS06419

@@ -1,8 +1,6 @@
 ---
 iso: kgb
 name: Kawe
-name_zh: 卡韦语
-name_zh_auto: true
 autonym: null
 alt_names: [Indonesia]
 population: 600
@@ -15,4 +13,8 @@ glottocode: kawe1240
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > South Halmahera-West New Guinea > Raja Ampat-South Halmahera > Maya-Salawati-Matbat > Maya-Salawati > Raja Ampat Maya > Waigeo Maya > Kawe"
+translations:
+  - translation_iso: zho
+    name: 卡韦语
+    auto: true
 ---

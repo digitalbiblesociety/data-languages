@@ -1,8 +1,6 @@
 ---
 iso: pnc
 name: Pannei
-name_zh: 潘内伊语
-name_zh_auto: true
 autonym: Tapango
 alt_names: [Nordost-Celebes]
 population: 9000
@@ -16,6 +14,10 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Greater South Sulawesi > South Sulawesi > Northern South Sulawesi > Pitu Ulunna Salu > Pannei"
 wikipedia_url: "https://en.wikipedia.org/wiki/Pannei_language"
+translations:
+  - translation_iso: zho
+    name: 潘内伊语
+    auto: true
 rolv_dialects:
   - rolv_code: 15482
     language_tag: pnc-x-HIS15482

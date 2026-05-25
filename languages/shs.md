@@ -1,7 +1,6 @@
 ---
 iso: shs
 name: Shuswap
-name_zh: 舒什瓦普语
 autonym: Secwepemctsín
 alt_names: [At-nah, Chusvapo, Secwepemc, Secwepemctsin (Shuswap), Secwepemctsía, Shooswap, səxwəxcín]
 population: 1255
@@ -15,6 +14,13 @@ glottolog_family_id: sali1255
 glottolog_family_name: Salishan
 glottolog_classification: "Salishan > Interior Salish > Northern Interior Salish > Thompsonic > Shuswap"
 wikipedia_url: "https://en.wikipedia.org/wiki/Shuswap_language"
+translations:
+  - translation_iso: hin
+    name: शुस्वाप भाषा
+  - translation_iso: jpn
+    name: シュスワプ語
+  - translation_iso: zho
+    name: 舒什瓦普语
 rolv_dialects:
   - rolv_code: 16659
     language_tag: shs-x-HIS16659

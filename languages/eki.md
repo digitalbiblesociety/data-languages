@@ -1,8 +1,6 @@
 ---
 iso: eki
 name: Eki
-name_zh: 厄基语
-name_zh_auto: true
 autonym: null
 population: 5000
 country_id: NG
@@ -15,5 +13,9 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Delta Cross > Lower Cross > Nuclear Lower Cross > Central Lower Cross > Efikic > Unclassified Efikic > Eki"
 wikipedia_url: "https://en.wikipedia.org/wiki/Eki_language"
+translations:
+  - translation_iso: zho
+    name: 厄基语
+    auto: true
 ---
 Eki is an Ibibio-Efik language of Nigeria.

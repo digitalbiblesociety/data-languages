@@ -1,8 +1,6 @@
 ---
 iso: thu
 name: Thuri
-name_zh: 图里语
-name_zh_auto: true
 autonym: Dhe Thuri
 alt_names: [Jo Thuri, Shatt, Wada Thuri]
 population: 6600
@@ -16,6 +14,12 @@ glottolog_family_id: nilo1247
 glottolog_family_name: Nilotic
 glottolog_classification: "Nilotic > Western Nilotic > Lwoo > Northern Lwoo > Luwo-Thuri > Thuri"
 wikipedia_url: "https://en.wikipedia.org/wiki/Thuri_language"
+translations:
+  - translation_iso: jpn
+    name: トゥリ語
+  - translation_iso: zho
+    name: 图里语
+    auto: true
 rolv_dialects:
   - rolv_code: 17458
     language_tag: thu-x-HIS17458

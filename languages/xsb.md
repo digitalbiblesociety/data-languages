@@ -1,7 +1,6 @@
 ---
 iso: xsb
 name: Sambal
-name_zh: 三描語
 autonym: Sambali
 alt_names: ["Sambal, Tinà", Tina, Tina Sambal, Tina language, Tinà Sambal, ภาษาตีนา]
 population: 70000
@@ -15,6 +14,11 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Central Luzon > Sambalic > Tina-Bolinao > Tinà Sambal"
 wikipedia_url: "https://en.wikipedia.org/wiki/Sambal_language"
+translations:
+  - translation_iso: kor
+    name: 삼발어
+  - translation_iso: zho
+    name: 三描語
 rolv_dialects:
   - rolv_code: 2148
     language_tag: xsb-x-HIS02148

@@ -1,8 +1,6 @@
 ---
 iso: uhn
 name: Damal
-name_zh: 达玛尔语
-name_zh_auto: true
 autonym: Damal
 alt_names: [Amung, Amung Kal, Amungme, Amuy, Enggipiloe, Hamung, Oehoendoeni, Uhunduni, Uhunduní]
 population: 14000
@@ -13,6 +11,10 @@ latitude: -4.17345
 longitude: 137.49561
 glottocode: dama1272
 wikipedia_url: "https://en.wikipedia.org/wiki/Uhunduni_languages"
+translations:
+  - translation_iso: zho
+    name: 达玛尔语
+    auto: true
 rolv_dialects:
   - rolv_code: 1080
     language_tag: uhn-x-HIS01080

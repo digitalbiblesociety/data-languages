@@ -1,7 +1,6 @@
 ---
 iso: alq
 name: Algonquin
-name_zh: 阿尔冈昆语
 autonym: Anicinâbemowin
 alt_names: [Algonkeg, Algonkin, Algonkinska, Język algonkiński, Lingua algonquina, Língua algonquina, Алгонкинский язык]
 population: 2430
@@ -15,6 +14,13 @@ glottolog_family_id: algi1248
 glottolog_family_name: Algic
 glottolog_classification: "Algic > Algonquian-Blackfoot > Algonquian > Eastern Great Lakes Algonquian > Ojibwa-Potawatomi > Ojibwa > Severn-Algonquin > Algonquin"
 wikipedia_url: "https://en.wikipedia.org/wiki/Algonquin_language"
+translations:
+  - translation_iso: jpn
+    name: アルゴンキン語
+  - translation_iso: kor
+    name: 알곤킨어
+  - translation_iso: zho
+    name: 阿尔冈昆语
 rolv_dialects:
   - rolv_code: 24257
     language_tag: alq-x-HIS24257

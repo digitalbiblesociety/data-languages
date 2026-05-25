@@ -1,8 +1,6 @@
 ---
 iso: ngi
 name: Ngizim
-name_zh: 恩吉齐姆语
-name_zh_auto: true
 autonym: Ngezzim
 alt_names: [Ngizimanci, Ngizmawa, "Ngo:djin", Ngojin]
 population: 80000
@@ -16,5 +14,11 @@ glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > West Chadic > West Chadic B > West Chadic B.1 > Ngizim-Southwestern Bade > Ngizim"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ngizim_language"
+translations:
+  - translation_iso: jpn
+    name: ンギジム語
+  - translation_iso: zho
+    name: 恩吉齐姆语
+    auto: true
 ---
 Ngizim is a Chadic language spoken by the Ngizim people in Yobe State, Nigeria.

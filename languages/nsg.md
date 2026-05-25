@@ -1,8 +1,6 @@
 ---
 iso: nsg
 name: Ngasa
-name_zh: 恩加萨语
-name_zh_auto: true
 autonym: Ongamo
 alt_names: [Nass-Gitksan, Nisgha, Ongamoeg, Shaka]
 population: 250
@@ -16,5 +14,11 @@ glottolog_family_id: nilo1247
 glottolog_family_name: Nilotic
 glottolog_classification: "Nilotic > Eastern Nilotic > Teso-Lotuxo-Maa > Lotuxo-Maa > Ongamo-Maa > Ngasa"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ngasa_language"
+translations:
+  - translation_iso: jpn
+    name: ンガサ語
+  - translation_iso: zho
+    name: 恩加萨语
+    auto: true
 ---
 Ongamo, or Ngasa, is an extinct Eastern Nilotic language of Tanzania. It is closely related to the Maa languages, but more distantly than they are to each other. Ongamo has 60% of lexical similarity with Maasai, Samburu, and Camus. Speakers have shifted to Chagga, a dominant regional Bantu language.

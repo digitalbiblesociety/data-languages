@@ -1,8 +1,6 @@
 ---
 iso: glu
 name: Gula (Chad)
-name_zh: 古拉语（乍得）
-name_zh_auto: true
 autonym: Sara Gula
 alt_names: [Goula, Gula, Gula (Gele), Gula (in Central African Republic), Sara Goula]
 population: 10300
@@ -16,5 +14,9 @@ glottolog_family_id: cent2225
 glottolog_family_name: Central Sudanic
 glottolog_classification: "Central Sudanic > Sara-Bongo-Bagirmi > SBB Occidental > Nuclear SBB Occidental > Saraic > Bagirmic > Morom-Jaya-Naba > Bayo-Morom > Gula (Chad)"
 wikipedia_url: "https://en.wikipedia.org/wiki/Gula_language_(Chad)"
+translations:
+  - translation_iso: zho
+    name: 古拉语（乍得）
+    auto: true
 ---
 Gula is a Bongo–Bagirmi language of Chad.

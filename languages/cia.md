@@ -1,7 +1,6 @@
 ---
 iso: cia
 name: "Cia-Cia"
-name_zh: 吉阿吉阿语
 autonym: Butonese
 alt_names: [Bahasa Cia-Cia, Boetoneezen, Buton, Butung, Cia-Cia gú, Lenga cia-cia, South Buton, Southern Butung, 吉阿吉阿語, 찌아찌아어]
 population: 104000
@@ -15,6 +14,13 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Celebic > Greater Eastern Celebic > Eastern Celebic > Southeastern Celebic > Muna-Buton > Nuclear Muna-Buton > Butonic > Cia-Cia"
 wikipedia_url: "https://en.wikipedia.org/wiki/Cia-Cia_language"
+translations:
+  - translation_iso: jpn
+    name: チアチア語
+  - translation_iso: kor
+    name: 찌아찌아어
+  - translation_iso: zho
+    name: 吉阿吉阿语
 rolv_dialects:
   - rolv_code: 8964
     language_tag: cia-x-HIS08964

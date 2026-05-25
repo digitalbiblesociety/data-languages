@@ -1,8 +1,6 @@
 ---
 iso: kov
 name: "Kudu-Camo"
-name_zh: 库杜-卡莫语
-name_zh_auto: true
 autonym: "Kuda-Chamo"
 alt_names: [Kudawa]
 population: 42
@@ -16,6 +14,10 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Kainji > Central Kainji > Basa-Eastern Kainji > Eastern Kainji > Jos > Northern Jos > Ningic > Kudu-Camo"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kudu-Camo_language"
+translations:
+  - translation_iso: zho
+    name: 库杜-卡莫语
+    auto: true
 rolv_dialects:
   - rolv_code: 12412
     language_tag: kov-x-HIS12412

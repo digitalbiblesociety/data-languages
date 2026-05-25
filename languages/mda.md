@@ -1,8 +1,6 @@
 ---
 iso: mda
 name: Mada (Nigeria)
-name_zh: 马达语
-name_zh_auto: true
 autonym: Madda
 alt_names: [Mada, Mada (in Nigeria), Yidda]
 population: 100000
@@ -16,6 +14,10 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Benue-Congo Plateau > Ninzic > Rukubic > Mada-Ninzam > Mada (Nigeria)"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mada_language"
+translations:
+  - translation_iso: zho
+    name: 马达语
+    auto: true
 rolv_dialects:
   - rolv_code: 27456
     language_tag: mda-x-HIS27456

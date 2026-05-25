@@ -1,8 +1,6 @@
 ---
 iso: oue
 name: Oune
-name_zh: 欧内语
-name_zh_auto: true
 autonym: Ounge
 alt_names: [Dapera]
 population: 1000
@@ -16,5 +14,9 @@ glottolog_family_id: sout2948
 glottolog_family_name: South Bougainville
 glottolog_classification: "South Bougainville > Nasioiic > Nasioi > South-Central Nasioi > Central Nasioi > Ounge"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ounge_language"
+translations:
+  - translation_iso: zho
+    name: 欧内语
+    auto: true
 ---
 Oune (Ounge) is a South Bougainville language spoken in the mountains of southern Bougainville Province, Papua New Guinea.

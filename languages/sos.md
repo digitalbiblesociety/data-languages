@@ -1,7 +1,6 @@
 ---
 iso: sos
 name: Seeku
-name_zh: 森布拉語
 autonym: Sembla
 alt_names: [Sambla, Samogho, Southern Samo]
 population: 12000
@@ -15,6 +14,9 @@ glottolog_family_id: mand1469
 glottolog_family_name: Mande
 glottolog_classification: "Mande > Western Mande > Northwestern Mande > Duun-Bobo > Duun-Jo > Duun-Seenku > Seeku"
 wikipedia_url: "https://en.wikipedia.org/wiki/Sembla_language"
+translations:
+  - translation_iso: zho
+    name: 森布拉語
 rolv_dialects:
   - rolv_code: 1116
     language_tag: sos-x-HIS01116

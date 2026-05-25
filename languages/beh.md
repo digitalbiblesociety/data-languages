@@ -1,8 +1,6 @@
 ---
 iso: beh
 name: Biali
-name_zh: 比亚利语
-name_zh_auto: true
 autonym: Bieri
 alt_names: [Berba, Bjerb, Bjeri, Burba]
 population: 166080
@@ -16,6 +14,10 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Gur > Central Gur > Northern Central Gur > Bwamu-Oti-Volta > Oti-Volta > Nuclear Oti-Volta > Oti-Volta Oriental > Biali"
 wikipedia_url: "https://en.wikipedia.org/wiki/Berba_language"
+translations:
+  - translation_iso: zho
+    name: 比亚利语
+    auto: true
 rolv_dialects:
   - rolv_code: 2797
     language_tag: beh-x-HIS02797

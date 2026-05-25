@@ -1,8 +1,6 @@
 ---
 iso: kod
 name: Kodi
-name_zh: 科迪语
-name_zh_auto: true
 autonym: Kudi
 alt_names: [Kodi-Gaura]
 population: 20000
@@ -16,6 +14,10 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Bima-Lembata > Sumba-Hawu > Sumba > Kodi-Gaura > Kodi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kodi_language"
+translations:
+  - translation_iso: zho
+    name: 科迪语
+    auto: true
 rolv_dialects:
   - rolv_code: 12089
     language_tag: kod-x-HIS12089

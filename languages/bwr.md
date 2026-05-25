@@ -1,7 +1,6 @@
 ---
 iso: bwr
 name: "Bura-Pabir"
-name_zh: 布拉语
 autonym: "Bura-Pabir"
 alt_names: [Babir, Babur, Barburr, Bouraeg-pabireg, Bourrah, Bura, Burra, Huve, Huviya, Kwojeffa, Mya Bura, Pabir, Бура]
 population: 482000
@@ -15,6 +14,9 @@ glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > Biu-Mandara > North Biu-Mandara > Margi-Mandara-Mofu > Bura-Marghi > Buraic > Bura-Pabir"
 wikipedia_url: "https://en.wikipedia.org/wiki/Bura_language"
+translations:
+  - translation_iso: zho
+    name: 布拉语
 rolv_dialects:
   - rolv_code: 2056
     language_tag: bwr-x-HIS02056

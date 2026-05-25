@@ -1,8 +1,6 @@
 ---
 iso: mvr
 name: Marau
-name_zh: 玛劳语
-name_zh_auto: true
 autonym: bahasa Marau
 alt_names: [Indonesia]
 population: 1700
@@ -16,6 +14,10 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > South Halmahera-West New Guinea > Cenderawasih Bay > Yapen > Central-Western Yapen > Ansus-Ambai > Marau"
 wikipedia_url: "https://en.wikipedia.org/wiki/Marau_language"
+translations:
+  - translation_iso: zho
+    name: 玛劳语
+    auto: true
 rolv_dialects:
   - rolv_code: 13711
     language_tag: mvr-x-HIS13711

@@ -1,8 +1,6 @@
 ---
 iso: mbj
 name: Nadëb
-name_zh: 纳德卜语
-name_zh_auto: true
 autonym: Kaburi
 alt_names: [Anodöub, Kabari, Kabori, Kaburí language area, Macú nadeb, Makunadöbö, Makú Nadëb, Nadeb, Nadeb Macu, Nadobo, Nadëb branch, Nadöb, Nadöbo, Xiriwai, Xuriwai]
 population: 300
@@ -16,6 +14,12 @@ glottolog_family_id: nada1235
 glottolog_family_name: Naduhup
 glottolog_classification: "Naduhup > Nadëb"
 wikipedia_url: "https://en.wikipedia.org/wiki/Nad%C3%ABb_language"
+translations:
+  - translation_iso: jpn
+    name: ナドゥブ語
+  - translation_iso: zho
+    name: 纳德卜语
+    auto: true
 rolv_dialects:
   - rolv_code: 25203
     language_tag: mbj-x-HIS25203

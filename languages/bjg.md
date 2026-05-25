@@ -1,7 +1,6 @@
 ---
 iso: bjg
 name: Bidyogo
-name_zh: Bijago语
 autonym: Bijago
 alt_names: [Bibjogo, Bijogo, Bijougot, Bijuga, Budjago, Bugago, Kangaki-Kagbaaga-Kajoko Bidyogo, Èdè Bijago]
 population: 36000
@@ -15,6 +14,13 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > North-Central Atlantic > Central Atlantic > Bijogo > Kanyaki-Kagbaaga-Kajoko Bidyogo"
 wikipedia_url: "https://en.wikipedia.org/wiki/Bijago_language"
+translations:
+  - translation_iso: jpn
+    name: ビジャゴ語
+  - translation_iso: kor
+    name: 비디오고어
+  - translation_iso: zho
+    name: Bijago语
 rolv_dialects:
   - rolv_code: 1513
     language_tag: bjg-x-HIS01513

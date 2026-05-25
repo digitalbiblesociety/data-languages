@@ -1,8 +1,6 @@
 ---
 iso: wga
 name: Wagaya
-name_zh: 瓦盖亚语
-name_zh_auto: true
 autonym: Ngarru
 alt_names: [Akaja, Arkiya, Lee wakya, Lee-wakya, Leewakya, Leeweakya, Other Australian Indigenous Languages, Ukkia, Waagai, Waagi, Wagai, Wagaia, Wagaiau, Wagaja, Waggaia, Wakaja, Wakaya, Wakkaja, Warkaia, Warkya, Wogaia, Woorkia, Worgai, Worgaia, Workaia, Worki a, Workia, Workii, Worrkii, Wuga]
 population: null
@@ -16,5 +14,9 @@ glottolog_family_id: pama1250
 glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > Ngarna > Southern Ngarna > Ngarru > Wagaya"
 wikipedia_url: "https://en.wikipedia.org/wiki/Wagaya_language"
+translations:
+  - translation_iso: zho
+    name: 瓦盖亚语
+    auto: true
 ---
 Wagaya (Wakaya) is an extinct Australian Aboriginal language of Queensland. Yindjilandji (Indjilandji) may have been a separate language. The linguist Gavan Breen recorded two dialects of the language, an Eastern and a Western variety, incorporating their description in his 1974 grammar.

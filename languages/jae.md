@@ -1,8 +1,6 @@
 ---
 iso: jae
 name: Yabem
-name_zh: 雅贝姆语
-name_zh_auto: true
 autonym: Jabêm
 alt_names: [Jabem, Jabim, Laulabu, Yabim]
 population: 2080
@@ -16,5 +14,11 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > North New Guinea linkage > Huon Gulf > North Huon Gulf linkage > Yabem"
 wikipedia_url: "https://en.wikipedia.org/wiki/Yabem_language"
+translations:
+  - translation_iso: jpn
+    name: ヤベム語
+  - translation_iso: zho
+    name: 雅贝姆语
+    auto: true
 ---
 Yabem, or Jabêm, is an Austronesian language of Papua New Guinea.

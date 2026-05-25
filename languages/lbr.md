@@ -1,8 +1,6 @@
 ---
 iso: lbr
 name: Lohorung
-name_zh: 洛霍龙语
-name_zh_auto: true
 autonym: Loharung
 alt_names: [Balai, Lohorong, Lohrung, Lohrung Khanawa, Lorung, "Lorung, Northern", "Lorung,Northern", Lōhōrōng, Northern, Northern Lorung]
 population: 3720
@@ -16,6 +14,10 @@ glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Himalayish > Mahakiranti > Kiranti > Eastern Kiranti > Upper Arun > Lohorung-Yamphu > Lohorung"
 wikipedia_url: "https://en.wikipedia.org/wiki/Lohorung_language"
+translations:
+  - translation_iso: zho
+    name: 洛霍龙语
+    auto: true
 rolv_dialects:
   - rolv_code: 4170
     language_tag: lbr-x-HIS04170

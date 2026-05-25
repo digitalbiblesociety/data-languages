@@ -1,13 +1,19 @@
 ---
 iso: uki
 name: Kui (India)
-name_zh: 奎语
 autonym: କୁଈ
 population: 645000
 country_id: IN
 country_name: India
 status_id: null
 wikipedia_url: "https://en.wikipedia.org/wiki/Kui_language_(India)"
+translations:
+  - translation_iso: hin
+    name: कुई भाषा
+  - translation_iso: jpn
+    name: クーイ語
+  - translation_iso: zho
+    name: 奎语
 rolv_dialects:
   - rolv_code: 3453
     language_tag: uki-x-HIS03453

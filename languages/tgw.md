@@ -1,8 +1,6 @@
 ---
 iso: tgw
 name: Tagwana Senoufo
-name_zh: 塔格瓦纳塞努福语
-name_zh_auto: true
 autonym: Tagbana
 alt_names: ["Senoufo, Tagwana", Tafile, Tafire, Tafiri, Tagbona, Tagouna, Tagwana, Takponi, Takponin]
 population: 138000
@@ -16,6 +14,10 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Senufo > South Senufo > Tagbana-Jimini > Tagwana Senoufo"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tagwana_language"
+translations:
+  - translation_iso: zho
+    name: 塔格瓦纳塞努福语
+    auto: true
 rolv_dialects:
   - rolv_code: 16541
     language_tag: tgw-x-HIS16541

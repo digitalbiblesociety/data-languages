@@ -1,8 +1,6 @@
 ---
 iso: bpc
 name: Mbuk
-name_zh: 姆布克语
-name_zh_auto: true
 autonym: Mboko
 population: 600
 country_id: CM
@@ -14,5 +12,9 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Beboid > Eastern Beboid > Nsari-Nooni-Ncane > Nooni-Ncane > Ncane-Cung > Cung-Mbuk > Mbuk"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mbuk_language"
+translations:
+  - translation_iso: zho
+    name: 姆布克语
+    auto: true
 ---
 Mbuk is an Eastern Beboid language of Cameroon.

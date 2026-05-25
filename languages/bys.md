@@ -1,8 +1,6 @@
 ---
 iso: bys
 name: Burak
-name_zh: 布拉克语
-name_zh_auto: true
 autonym: Ɓúúrák
 alt_names: [Buurak]
 population: 4000
@@ -16,6 +14,10 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Cameroun-Ubangian > Bikwin-Jen > Northern Bikwin-Jen > Burak-Loo > Burak"
 wikipedia_url: "https://en.wikipedia.org/wiki/Burak_language"
+translations:
+  - translation_iso: zho
+    name: 布拉克语
+    auto: true
 rolv_dialects:
   - rolv_code: 30736
     language_tag: bys-x-HIS30736

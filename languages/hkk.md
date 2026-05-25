@@ -1,8 +1,6 @@
 ---
 iso: hkk
 name: "Hunjara-Kaina Ke"
-name_zh: 胡恩贾拉-凯纳克语
-name_zh_auto: true
 autonym: null
 alt_names: [Hunjara]
 population: 8770
@@ -15,6 +13,10 @@ glottocode: hunj1241
 glottolog_family_id: nucl1709
 glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Greater Binanderean > Binanderean > Nuclear Binanderean > South Binanderean > Orokaivic > Hunjara-Kaina Ke"
+translations:
+  - translation_iso: zho
+    name: 胡恩贾拉-凯纳克语
+    auto: true
 rolv_dialects:
   - rolv_code: 2501
     language_tag: hkk-x-HIS02501

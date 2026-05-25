@@ -1,7 +1,6 @@
 ---
 iso: ibl
 name: Ibaloi
-name_zh: 伊瓦洛伊语
 autonym: Ibaloy
 alt_names: [Benguet-Igorot, Ibadoy, Igodor, Inibaloi, Nabaloi]
 population: 116000
@@ -15,6 +14,9 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Northern Luzon > Meso-Cordilleran > South-Central Cordilleran > Southern Cordilleran > West Southern Cordilleran > Nuclear Southern Cordilleran > Ibaloi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ibaloi_language"
+translations:
+  - translation_iso: zho
+    name: 伊瓦洛伊语
 rolv_dialects:
   - rolv_code: 1104
     language_tag: ibl-x-HIS01104

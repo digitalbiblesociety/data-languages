@@ -1,8 +1,6 @@
 ---
 iso: yis
 name: Yis
-name_zh: 伊斯语
-name_zh_auto: true
 autonym: null
 population: 320
 country_id: PG
@@ -15,6 +13,10 @@ glottolog_family_id: nucl1708
 glottolog_family_name: Nuclear Torricelli
 glottolog_classification: "Nuclear Torricelli > Wapei-Palei > Central Torricelli > Wapeic > Yau-Yis > Yis"
 wikipedia_url: "https://en.wikipedia.org/wiki/Yis_language"
+translations:
+  - translation_iso: zho
+    name: 伊斯语
+    auto: true
 rolv_dialects:
   - rolv_code: 2498
     language_tag: yis-x-HIS02498

@@ -1,8 +1,6 @@
 ---
 iso: moj
 name: Monzombo
-name_zh: 蒙宗博语
-name_zh_auto: true
 autonym: Mondjembo
 alt_names: [Monjombo, Mono-Jembo, Munzombo]
 population: 12600
@@ -16,5 +14,9 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Cameroun-Ubangian > Ubangi > Ubangi Ka > Mundu-Baka > Western Mundu-Baka > River Western Mundu-Baka > Monzomboic > Monzombo"
 wikipedia_url: "https://en.wikipedia.org/wiki/Monzombo_language"
+translations:
+  - translation_iso: zho
+    name: 蒙宗博语
+    auto: true
 ---
 Monzombo is a minor Ubangian language of the Congos.

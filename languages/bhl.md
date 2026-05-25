@@ -1,8 +1,6 @@
 ---
 iso: bhl
 name: Bimin
-name_zh: 比明语
-name_zh_auto: true
 autonym: Bim
 population: 2250
 country_id: PG
@@ -15,6 +13,10 @@ glottolog_family_id: nucl1709
 glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Asmat-Awyu-Ok > Awyu-Ok > Ok-Oksapmin > Ok > Mountain Ok > Division A Mountain Ok > Bimin"
 wikipedia_url: "https://en.wikipedia.org/wiki/Bimin_language"
+translations:
+  - translation_iso: zho
+    name: 比明语
+    auto: true
 rolv_dialects:
   - rolv_code: 24414
     language_tag: bhl-x-HIS24414

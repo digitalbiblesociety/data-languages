@@ -1,8 +1,6 @@
 ---
 iso: ekk
 name: Standard Estonian
-name_zh: 爱沙尼亚语
-name_zh_auto: true
 autonym: eesti keel
 alt_names: [Estonian, "Estonian, Standard", estonien]
 population: 1160020
@@ -15,6 +13,10 @@ glottocode: esto1258
 glottolog_family_id: ural1272
 glottolog_family_name: Uralic
 glottolog_classification: "Uralic > Finnic > Coastal Finnic > Neva > Central Finnic > Estonian"
+translations:
+  - translation_iso: zho
+    name: 爱沙尼亚语
+    auto: true
 rolv_dialects:
   - rolv_code: 9652
     language_tag: et-EE-x-HIS09652

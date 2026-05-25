@@ -1,7 +1,6 @@
 ---
 iso: sag
 name: Sango
-name_zh: 桑戈语
 autonym: yângâ tî sängö
 alt_names: [Bahasa Sango, Idioma sango, Język sango, Lengua sango, Língua sango, Sangho, Sangoa lingvo, Sangoeg, Sangų kalba, Sängö, Санго, Санго мотт, サンゴ語, 상고어]
 population: 617000
@@ -16,6 +15,17 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Cameroun-Ubangian > Ubangi > Ngbandi-Mongoba-Kazibati > Ngbandic > Nuclear Ngbandic > Sangoic > Sango"
 wikipedia_url: "https://en.wikipedia.org/wiki/Sango_language"
+translations:
+  - translation_iso: ara
+    name: السنغوية
+  - translation_iso: hin
+    name: सांगो
+  - translation_iso: jpn
+    name: サンゴ語
+  - translation_iso: kor
+    name: 상고어
+  - translation_iso: zho
+    name: 桑戈语
 rolv_dialects:
   - rolv_code: 1408
     language_tag: sg-x-HIS01408

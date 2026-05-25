@@ -1,8 +1,6 @@
 ---
 iso: rak
 name: "Tulu-Bohuai"
-name_zh: 图卢-博怀语
-name_zh_auto: true
 autonym: Bohuai
 alt_names: [Admiralitäts-inseln, Bohuai-Tulu, Bowai, Pahavai, Pelipowai, Pohuai]
 population: 1400
@@ -16,6 +14,10 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Admiralty Islands > Eastern Admiralty Islands > Manus > West Manus > West Manus II > Tulu-Bohuai"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tulu-Bohuai_language"
+translations:
+  - translation_iso: zho
+    name: 图卢-博怀语
+    auto: true
 rolv_dialects:
   - rolv_code: 8231
     language_tag: rak-x-HIS08231

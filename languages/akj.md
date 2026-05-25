@@ -1,7 +1,6 @@
 ---
 iso: akj
 name: "Aka-Jeru"
-name_zh: （Aka-）Jeru
 autonym: "Aka-Jeru"
 alt_names: [Andamanés, Grand andamanais, Great Andamanese, Jeru, Lèngua Aka-Jeru, Yerawa, "ג'רו"]
 population: null
@@ -15,5 +14,12 @@ glottolog_family_id: grea1241
 glottolog_family_name: Great Andamanese
 glottolog_classification: "Great Andamanese > North Andamanese-Akakede > Northern Great Andamanese > Jeru-Kora > Akajeru"
 wikipedia_url: "https://en.wikipedia.org/wiki/Akajeru"
+translations:
+  - translation_iso: hin
+    name: अका-जेरु भाषा
+  - translation_iso: kor
+    name: 아카제루 방언
+  - translation_iso: zho
+    name: （Aka-）Jeru
 ---
 Jeru, or Akajeru, is a moribund dialect of the Northern Andamanese language, and the last surviving variety of the Great Andamanese language family. Jeru was spoken in the interior and south coast of North Andaman and on Sound Island. A koiné of the Northern Andamanese dialects, based principally on Akajeru, was once spoken on Strait Island; the last semi-fluent speaker of this, Nao Jr., died in 2009.

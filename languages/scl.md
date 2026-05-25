@@ -1,7 +1,6 @@
 ---
 iso: scl
 name: Shina
-name_zh: 希尼亚语
 autonym: Brokpa
 alt_names: [Chineg, Dardu, Idioma shina, Shinaki, Sina, شينا, شینا, சினா மொழி]
 population: 720200
@@ -15,6 +14,17 @@ glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Indo-Aryan > Middle-Modern Indo-Aryan > Eastern Dardic > Nuclear Eastern Dardic > Shinaic > Shina"
 wikipedia_url: "https://en.wikipedia.org/wiki/Shina_language"
+translations:
+  - translation_iso: ara
+    name: شينا
+  - translation_iso: hin
+    name: शीना भाषा
+  - translation_iso: jpn
+    name: シナー語
+  - translation_iso: kor
+    name: 시나어
+  - translation_iso: zho
+    name: 希尼亚语
 rolv_dialects:
   - rolv_code: 665
     language_tag: scl-x-HIS00665

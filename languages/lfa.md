@@ -1,7 +1,6 @@
 ---
 iso: lfa
 name: Lefa
-name_zh: 勒法语
 autonym: Balom
 alt_names: [Fak, "Lefa'"]
 population: 10000
@@ -15,6 +14,9 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > Bantu A-B10-B20-B30 > Bafia (A.50) > Nuclear Bafia (A.50) > Lefa-Bafia > Lefa"
 wikipedia_url: "https://en.wikipedia.org/wiki/Fa%CA%BC_language"
+translations:
+  - translation_iso: zho
+    name: 勒法语
 rolv_dialects:
   - rolv_code: 7501
     language_tag: lfa-x-HIS07501

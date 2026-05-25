@@ -1,7 +1,6 @@
 ---
 iso: hoc
 name: Ho
-name_zh: 霍语
 autonym: " हो जगर"
 alt_names: [Bihar Ho, Hoeg, Kol von Singbhum, Lanka Kol, Lankakol, Laɽka Kol, Lingua Ho, Língua ho, Mundari, Mundari-Ho, Tiếng Ho, hōō jagara, Хо, हो भाषा, হো ভাষা, ହୋ ଜଗର, ภาษาโฮ, 호어]
 population: 1420000
@@ -16,6 +15,17 @@ glottolog_family_id: aust1305
 glottolog_family_name: Austroasiatic
 glottolog_classification: "Austroasiatic > Mundaic > North Munda > Kherwarian > Mundaric > Ho-Mundari > Ho"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ho_language"
+translations:
+  - translation_iso: ara
+    name: الهويوية
+  - translation_iso: hin
+    name: हो भाषा
+  - translation_iso: jpn
+    name: ホー語
+  - translation_iso: kor
+    name: 호어
+  - translation_iso: zho
+    name: 霍语
 rolv_dialects:
   - rolv_code: 4879
     language_tag: hoc-x-HIS04879

@@ -1,8 +1,6 @@
 ---
 iso: fub
 name: Adamawa Fulfulde
-name_zh: 亚达玛瓦富尔富尔德语
-name_zh_auto: true
 autonym: Fulani
 alt_names: [Adamawa (Fula), Adamawa Fulani, Biira, Boulbe, Domona, Dzemay, Eastern Fulani, Eastern Fulfulde, Fellata, Fillanci, Foulfoulde, Ful, Ful(ani), Fula, Fula (Cameroonian), Fulah-Idiome, Fulani (Adamawa), Fulani (Gombe), Fulatanchi, Fulbe, Fulfulde, Fulfulde (Adamawa), Fulfulde (Cameroonian), "Fulfulde, Adamawa", Gapelta, Gombe, Nagapelta, Palata, Paldena, Paldida, Pelta Hay, Peul, Peulh, Pladina, Pul, Pule, Pullo, Sanyo, Taareyo, Zaakosa, Zemay]
 population: 13000000
@@ -16,6 +14,12 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > North-Central Atlantic > Fula-Sereer > Fula > Eastern Fula > Adamawa-Bagirmi Fulfulde > Adamawa Fulfulde"
 wikipedia_url: "https://en.wikipedia.org/wiki/Adamawa_Fulfulde"
+translations:
+  - translation_iso: jpn
+    name: アダマワ・フルフルディ語
+  - translation_iso: zho
+    name: 亚达玛瓦富尔富尔德语
+    auto: true
 rolv_dialects:
   - rolv_code: 2958
     language_tag: fub-x-HIS02958

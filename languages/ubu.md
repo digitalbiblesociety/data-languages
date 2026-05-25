@@ -1,8 +1,6 @@
 ---
 iso: ubu
 name: "Umbu-Ungu"
-name_zh: 翁布-翁古语
-name_zh_auto: true
 autonym: Kakoli
 alt_names: [Hagen, Kaugel]
 population: 32000
@@ -15,6 +13,10 @@ glottocode: umbu1258
 glottolog_family_id: nucl1709
 glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Chimbu-Wahgi > Hagen > Aua-Gawil > Umbu-Ungu"
+translations:
+  - translation_iso: zho
+    name: 翁布-翁古语
+    auto: true
 rolv_dialects:
   - rolv_code: 17940
     language_tag: ubu-x-HIS17940

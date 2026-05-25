@@ -1,8 +1,6 @@
 ---
 iso: bdn
 name: Baldemu
-name_zh: 巴尔德姆语
-name_zh_auto: true
 autonym: Mbazlam
 alt_names: [Balda, Baldamou, Baldamu, Baldare, Baldemu jezik, Mbazla]
 population: 4
@@ -16,5 +14,9 @@ glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > Biu-Mandara > North Biu-Mandara > Maroua > Baldamu"
 wikipedia_url: "https://en.wikipedia.org/wiki/Baldemu_language"
+translations:
+  - translation_iso: zho
+    name: 巴尔德姆语
+    auto: true
 ---
 Baldemu, or Mbazlam, is a nearly extinct Afro-Asiatic language spoken in northern Cameroon. Baldemu is spoken in Bogo commune, Diamaré department, Far North Region by only 5 speakers as of 2012. Speakers have been shifting to Fulfulde.

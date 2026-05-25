@@ -1,8 +1,6 @@
 ---
 iso: kdn
 name: Kunda
-name_zh: 库达语
-name_zh_auto: true
 autonym: Cikunda
 alt_names: [Chicunda, Chikunda]
 population: 162760
@@ -16,6 +14,10 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > East Bantu > Tumbuka-Sena-Nyanja > Sena-Nyanja > Chikunda"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kunda_language"
+translations:
+  - translation_iso: zho
+    name: 库达语
+    auto: true
 rolv_dialects:
   - rolv_code: 31556
     language_tag: kdn-x-HIS31556

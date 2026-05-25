@@ -1,8 +1,6 @@
 ---
 iso: kwa
 name: Dâw
-name_zh: 道语
-name_zh_auto: true
 autonym: "Kuri-Dou"
 alt_names: [Daw, Dow, Kam, Kaman, Kamarada, Kamá, Kamán, Kamã, Kamã Makú, Makú-Kamarada]
 population: 142
@@ -16,5 +14,11 @@ glottolog_family_id: nada1235
 glottolog_family_name: Naduhup
 glottolog_classification: "Naduhup > Eastern Naduhup > Dâw"
 wikipedia_url: "https://en.wikipedia.org/wiki/D%C3%A2w_language"
+translations:
+  - translation_iso: kor
+    name: 다우어
+  - translation_iso: zho
+    name: 道语
+    auto: true
 ---
 Dâw is a Nadahup language spoken by about one hundred Dâw people in the northwestern part of Amazonas, Brazil, in an area commonly known as Alto Rio Negro. Most Dâw also speak Nheengatu and Portuguese.

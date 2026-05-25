@@ -1,8 +1,6 @@
 ---
 iso: xmu
 name: Kamu
-name_zh: 卡姆语
-name_zh_auto: true
 autonym: Gamor
 alt_names: [Eastern Daly language, Gamu, Gamu/Kamor, Gamy, Junggor, Kamor, Kamorrkir, Kapsiki, Komorrkir, Madngela, Malak Malak, Matngela, Mulluk Mulluk, Murra Kamangee, Ngangigamor, Ngangigmor, Ngulul Wanggar, Psikye, Wooliana, Yunggor]
 population: null
@@ -16,5 +14,9 @@ glottolog_family_id: east2374
 glottolog_family_name: Eastern Daly
 glottolog_classification: "Eastern Daly > Kamu"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kamu_language"
+translations:
+  - translation_iso: zho
+    name: 卡姆语
+    auto: true
 ---
 The Kamu language, or Gamor, was an indigenous Australian language spoken in Northern Territory, Australia. There were two speakers in 1975.

@@ -1,7 +1,6 @@
 ---
 iso: yka
 name: Yakan
-name_zh: 雅坎语
 autonym: null
 alt_names: [Yacan]
 population: 130000
@@ -15,5 +14,12 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Basap-Greater Barito > Greater Barito linkage > Sama-Bajaw > Yakan"
 wikipedia_url: "https://en.wikipedia.org/wiki/Yakan_language"
+translations:
+  - translation_iso: jpn
+    name: ヤカン語
+  - translation_iso: kor
+    name: 야칸어
+  - translation_iso: zho
+    name: 雅坎语
 ---
 Yakan is an Austronesian language primarily spoken in Basilan in the Philippines. It is the native language of the Yakan people, the indigenous as well as the largest ethnic group on the island. It has a total of 110,000 native speakers. Despite being located in the Philippines, it is not closely related to other languages of the country. It is a member of the Sama-Bajaw languages, which in turn are related to the Barito languages spoken in southern Borneo, Madagascar and Mayotte.

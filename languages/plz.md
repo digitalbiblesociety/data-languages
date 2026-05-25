@@ -1,8 +1,6 @@
 ---
 iso: plz
 name: Paluan
-name_zh: 帕鲁安语
-name_zh_auto: true
 autonym: null
 alt_names: [Peluan]
 population: 1000
@@ -16,6 +14,10 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > North Borneo Malayo-Polynesian > Sabahan > Southwest Sabahan > Greater Murutic > Murutic > Northern Murutic > Paluan"
 wikipedia_url: "https://en.wikipedia.org/wiki/Paluan_language"
+translations:
+  - translation_iso: zho
+    name: 帕鲁安语
+    auto: true
 rolv_dialects:
   - rolv_code: 15434
     language_tag: plz-x-HIS15434

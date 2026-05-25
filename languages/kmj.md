@@ -1,7 +1,6 @@
 ---
 iso: kmj
 name: Kumarbhag Paharia
-name_zh: 库马尔巴格帕哈里亚语
 autonym: Paharia
 alt_names: [Kumar, Mad, Mal, Maler, Malti, Malto, Maltu, Pahariya]
 population: 20200
@@ -14,6 +13,9 @@ glottocode: kuma1274
 glottolog_family_id: drav1251
 glottolog_family_name: Dravidian
 glottolog_classification: "Dravidian > North Dravidian > Kurux-Malto > Malto > Kumarbhag Paharia"
+translations:
+  - translation_iso: zho
+    name: 库马尔巴格帕哈里亚语
 rolv_dialects:
   - rolv_code: 3923
     language_tag: kmj-x-HIS03923

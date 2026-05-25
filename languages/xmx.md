@@ -1,8 +1,6 @@
 ---
 iso: xmx
 name: Maden
-name_zh: 玛登语
-name_zh_auto: true
 autonym: Palamul
 alt_names: ["\"Maden\"", Salawati, Saparan, Sapran]
 population: 600
@@ -16,6 +14,10 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > South Halmahera-West New Guinea > Raja Ampat-South Halmahera > Maya-Salawati-Matbat > Maya-Salawati > Salawati-Batta > Salawati"
 wikipedia_url: "https://en.wikipedia.org/wiki/Salawati_language"
+translations:
+  - translation_iso: zho
+    name: 玛登语
+    auto: true
 rolv_dialects:
   - rolv_code: 15418
     language_tag: xmx-x-HIS15418

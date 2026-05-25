@@ -1,8 +1,6 @@
 ---
 iso: wec
 name: Wè Western
-name_zh: 韦西部语
-name_zh_auto: true
 autonym: Wè
 alt_names: [Gere, Guere, Guéré, Neyo, We Western, Wèè]
 population: 20000
@@ -15,6 +13,10 @@ glottocode: wewe1238
 glottolog_family_id: krua1234
 glottolog_family_name: Kru
 glottolog_classification: "Kru > Greater Western Kru > Western Kru > Wee-Bassa-Klao > Wee > Nuclear Wee > Guere-Krahn > Wè Western"
+translations:
+  - translation_iso: zho
+    name: 韦西部语
+    auto: true
 rolv_dialects:
   - rolv_code: 18257
     language_tag: wec-x-HIS18257

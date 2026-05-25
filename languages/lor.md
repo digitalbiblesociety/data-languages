@@ -1,8 +1,6 @@
 ---
 iso: lor
 name: Téén
-name_zh: 特恩语
-name_zh_auto: true
 autonym: Téén
 alt_names: [Loghon, Lorhon, Loron, Nabe, Teen, Tegesie, Tegesye, Tese, Ténhé]
 population: 6100
@@ -16,6 +14,10 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Gur > Kulango-Lorom > Teenic > Téén"
 wikipedia_url: "https://en.wikipedia.org/wiki/Lorhon_language"
+translations:
+  - translation_iso: zho
+    name: 特恩语
+    auto: true
 rolv_dialects:
   - rolv_code: 2673
     language_tag: lor-x-HIS02673

@@ -1,7 +1,6 @@
 ---
 iso: sel
 name: Selkup
-name_zh: 塞爾庫普語
 autonym: Central Selkups
 alt_names: [Język selkupski, Lingua selkupica, Ostiaki, Ostjak-Samojedisch, Ostyak Samoyed, Ostyak Samoyedic, Ostyak-Samoyed, Ostyak-Samoyede, "Sel'kup", Selcupo meridional, Selkoeps, Selkoupe, Selkoupe meridional, Selkoupe septentrional, Selkoupeg, Selkup central, Selkupa lingvo, Selkupagiella, Selkupin kieli, Selkupisch, Selkupische Sprache, Selkupisk, Selkupisk språk, Selkupiska, Selkupų kalba, Selqup, Szölkup nyelv, "sel'kupy", selkoup, shöl-qup, śəl-qup, Селкупски јазик, Селькупский язык, 셀쿠프어]
 population: 1640
@@ -16,6 +15,17 @@ glottolog_family_id: ural1272
 glottolog_family_name: Uralic
 glottolog_classification: "Uralic > Samoyedic > Kamas-Selkup > Selkup"
 wikipedia_url: "https://en.wikipedia.org/wiki/Selkup_languages"
+translations:
+  - translation_iso: ara
+    name: لغة سيلكوب
+  - translation_iso: hin
+    name: सेल्कप
+  - translation_iso: jpn
+    name: セリクプ語
+  - translation_iso: kor
+    name: 셀쿠프어
+  - translation_iso: zho
+    name: 塞爾庫普語
 rolv_dialects:
   - rolv_code: 16448
     language_tag: sel-x-HIS16448

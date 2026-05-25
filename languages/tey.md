@@ -1,8 +1,6 @@
 ---
 iso: tey
 name: Tulishi
-name_zh: 图利希语
-name_zh_auto: true
 autonym: Kuntulishi
 alt_names: [Thulishi, Tulesh, Tuleshi]
 population: 2500
@@ -16,6 +14,10 @@ glottolog_family_id: kadu1256
 glottolog_family_name: Kadugli-Krongo
 glottolog_classification: "Kadugli-Krongo > Central-Western Kadugli-Krongo > Tulishi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tulishi_language"
+translations:
+  - translation_iso: zho
+    name: 图利希语
+    auto: true
 rolv_dialects:
   - rolv_code: 17758
     language_tag: tey-x-HIS17758

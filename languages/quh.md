@@ -1,7 +1,6 @@
 ---
 iso: quh
 name: South Bolivian Quechua
-name_zh: 南玻利維亞克丘亞語
 autonym: Uralan Buliwya runasimi
 alt_names: [Bolivia Quechua, Bolivian Quechua, Boliviano, Central Bolivian Quechua, Cochabamba, Cochabamba Quechua, Quechua, Quechua (Bolivian), Quechua (Cochabamba), Quechua Boliviano, Quechua boliviano meridional, Quechua boliviano septentrional, Quechua bolivien du nord, Quechua bolivien du sud, Quechua in Bolivien, Quechua sudboliviano, "Quechua, South Bolivian", Qullasuyu qhichwa simi, South Bolivian, 南玻利維亞克丘亞語]
 population: 1616120
@@ -15,6 +14,9 @@ glottolog_family_id: quec1387
 glottolog_family_name: Quechuan
 glottolog_classification: "Quechuan > Southern Quechua > Bolivian-Argentinian Quechua > South Bolivian-Argentinian Quechua > South Bolivian Quechua"
 wikipedia_url: "https://en.wikipedia.org/wiki/South_Bolivian_Quechua"
+translations:
+  - translation_iso: zho
+    name: 南玻利維亞克丘亞語
 rolv_dialects:
   - rolv_code: 6105
     language_tag: quh-x-HIS06105

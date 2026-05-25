@@ -1,7 +1,6 @@
 ---
 iso: sou
 name: Southern Thai
-name_zh: 南部泰语
 autonym: ภาษาไทยถิ่นใต้
 alt_names: [Dambro, Pak Tai, Pak Thai, Paktaieg, Paktay, "Thai, Southern", 南タイ語]
 population: 4508200
@@ -16,6 +15,13 @@ glottolog_family_id: taik1256
 glottolog_family_name: Tai-Kadai
 glottolog_classification: "Tai-Kadai > Kam-Tai > Daic-Beic > Daic > Central-Southwestern Tai > Wenma-Southwestern Tai > Sapa-Southwestern Tai > Southwestern Tai > Southwestern Thai PH > Lao-Thai > Southern Thai"
 wikipedia_url: "https://en.wikipedia.org/wiki/Southern_Thai_language"
+translations:
+  - translation_iso: jpn
+    name: 南タイ語
+  - translation_iso: kor
+    name: 남부 태국어
+  - translation_iso: zho
+    name: 南部泰语
 rolv_dialects:
   - rolv_code: 17424
     language_tag: sou-x-HIS17424

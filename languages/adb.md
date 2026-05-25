@@ -1,8 +1,6 @@
 ---
 iso: adb
 name: Adabe
-name_zh: 阿达贝语
-name_zh_auto: true
 autonym: Wetar
 alt_names: [Atauran]
 population: 1000
@@ -12,6 +10,10 @@ status_id: 6a
 latitude: -8.22674
 longitude: 125.57573
 wikipedia_url: "https://en.wikipedia.org/wiki/Adabe_language"
+translations:
+  - translation_iso: zho
+    name: 阿达贝语
+    auto: true
 rolv_dialects:
   - rolv_code: 6674
     language_tag: adb-x-HIS06674

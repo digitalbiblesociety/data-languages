@@ -1,8 +1,6 @@
 ---
 iso: ncu
 name: Chumburung
-name_zh: 楚姆布龙语
-name_zh_auto: true
 autonym: null
 alt_names: [Chumburu, Chumburung (Yeji), Guang, Kyongborong, Nchimburu, Nchumburu, Nchumburung, Nchummuru]
 population: 95000
@@ -16,6 +14,10 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Kwa Volta-Congo > Nyo > Potou-Tano > Tano > Guang > North Guang > Oti North Guang > River Oti North Guang > Chumbuli > Chumburung"
 wikipedia_url: "https://en.wikipedia.org/wiki/Chumburung_language"
+translations:
+  - translation_iso: zho
+    name: 楚姆布龙语
+    auto: true
 rolv_dialects:
   - rolv_code: 4918
     language_tag: ncu-x-HIS04918

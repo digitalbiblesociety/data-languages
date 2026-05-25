@@ -1,8 +1,6 @@
 ---
 iso: uri
 name: Urim
-name_zh: 乌里姆语
-name_zh_auto: true
 autonym: Kalp
 alt_names: [Kurom, Tayon, Wan]
 population: 4000
@@ -16,6 +14,10 @@ glottolog_family_id: nucl1708
 glottolog_family_name: Nuclear Torricelli
 glottolog_classification: "Nuclear Torricelli > Urim"
 wikipedia_url: "https://en.wikipedia.org/wiki/Urim_language"
+translations:
+  - translation_iso: zho
+    name: 乌里姆语
+    auto: true
 rolv_dialects:
   - rolv_code: 17965
     language_tag: uri-x-HIS17965

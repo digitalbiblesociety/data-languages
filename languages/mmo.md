@@ -1,8 +1,6 @@
 ---
 iso: mmo
 name: Mangga Buang
-name_zh: 曼加布昂语
-name_zh_auto: true
 autonym: Mangga Buang
 alt_names: ["Buang, Mangga", Kaidemui, Manga Buang]
 population: 1500
@@ -16,6 +14,10 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > North New Guinea linkage > Huon Gulf > South Huon Gulf linkage > Buang linkage > Mapos-Mangga-Wagau > Mangga Buang"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mangga_Buang_language"
+translations:
+  - translation_iso: zho
+    name: 曼加布昂语
+    auto: true
 rolv_dialects:
   - rolv_code: 8390
     language_tag: mmo-x-HIS08390

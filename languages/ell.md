@@ -1,7 +1,6 @@
 ---
 iso: ell
 name: "Modern Greek (1453-)"
-name_zh: 现代希腊语
 autonym: Νέα Ελληνικά
 alt_names: [Ellinika, Graecae, Grec, Grec de Marioupol, Grec modern, Grec moderne, Greco, Greek, Greek (Cypriot), Greek (Modern), "Greek, Modern (1453-)", Grego moderno, Griego moderno, Griko (Calabre), Griko (Salento), Jaungrieķu valoda, Język nowogrecki, Lingua Neograeca, Lingua greca moderna, Mauropoliano, Modern Greek, Modern Grieks, Neegreeksche Spraak, Neo-Hellenic, Neu-Griechisch, Neugriechische Sprache, Novogréčtina, Novogrčki jezik, Nygrekiska, Nygresk, Nygræsk, Romaic, Tayunanit, grec moderne (après 1453), Новогрецька мова, יוונית מודרנית, आधुनिक यूनानी भाषा]
 population: 13500000
@@ -16,6 +15,17 @@ glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Graeco-Phrygian > Greek > South Greek > Central Greek > Koineic Greek > Modern Koineic Greek > Nuclear Modern Greek > Modern Greek"
 wikipedia_url: "https://en.wikipedia.org/wiki/Modern_Greek"
+translations:
+  - translation_iso: ara
+    name: اليونانية الحديثة
+  - translation_iso: hin
+    name: आधुनिक यूनानी भाषा
+  - translation_iso: jpn
+    name: 現代ギリシア語
+  - translation_iso: kor
+    name: 현대 그리스어
+  - translation_iso: zho
+    name: 现代希腊语
 rolv_dialects:
   - rolv_code: 10345
     language_tag: el-x-HIS10345

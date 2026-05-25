@@ -1,7 +1,6 @@
 ---
 iso: acn
 name: Achang
-name_zh: 阿昌语
 autonym: အာချန်
 alt_names: [Acang, "Ach'ang", Achung, Ahchan, Anchan, Atchangeg, Atsang, Atśang, Bahasa Achang, Chintaw, Chung, Maingtha, MÃ¶nghsa, "Ngac'ang", "Ngac'ang language", Ngacang, Ngachang, Ngatsang, Ngatśang, Ngo Chang, Ngochang, "Tai Sa'", Tiếng A Xương, Xiandao, Xiandaohua, Xiantao, 仙島話, 阿昌语]
 population: 62700
@@ -15,6 +14,13 @@ glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Burmo-Qiangic > Lolo-Burmese > Burmish > Southern Burmish > Achangic > Longchuan Achang"
 wikipedia_url: "https://en.wikipedia.org/wiki/Achang_language"
+translations:
+  - translation_iso: jpn
+    name: アチャン語
+  - translation_iso: kor
+    name: 아창어
+  - translation_iso: zho
+    name: 阿昌语
 rolv_dialects:
   - rolv_code: 6294
     language_tag: acn-x-HIS06294

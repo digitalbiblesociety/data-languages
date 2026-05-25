@@ -1,8 +1,6 @@
 ---
 iso: myy
 name: Macuna
-name_zh: 马库纳语
-name_zh_auto: true
 autonym: "Macuna-Erulia"
 alt_names: [Baigana, Buhagana, Buhágana, Emoa, Erulia, Ide, Jepa-Matsi, Macuna (Brésil), Macuna (Colombia), Macuna (Colombie), Makuna, Makuna-Erulia, Paneroa, Roea, Suroa, Tabotiro Jejea, Umua, Wahana, Wuhána, Yeba, Yebamasã, Yehpá Majsá, Yepá Maxsã, Yepá-Mahsá]
 population: 1032
@@ -16,5 +14,9 @@ glottolog_family_id: tuca1253
 glottolog_family_name: Tucanoan
 glottolog_classification: "Tucanoan > Eastern Tucanoan > Western Eastern Tucanoan > Barasano-Eduria-Macuna > Macuna"
 wikipedia_url: "https://en.wikipedia.org/wiki/Macuna_language"
+translations:
+  - translation_iso: zho
+    name: 马库纳语
+    auto: true
 ---
 Macuna, also known as Buhagana, Wahana, is a Tucanoan language of Colombia and Brazil.

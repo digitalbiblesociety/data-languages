@@ -1,8 +1,6 @@
 ---
 iso: quv
 name: Sacapulteco
-name_zh: 萨卡普尔特科语
-name_zh_auto: true
 autonym: Sacapulteco
 alt_names: [Idioma sacapulteco, Língua sacapulteca, "Sacapulas K'iche'", Sacapultec, Sacapulteeks, Sacapultekisk, Sakapultec, Sakapulteco, Sakapultek language, Sakapulteko, Sakapultèque, Сакапултечки јазик]
 population: 15000
@@ -16,5 +14,13 @@ glottolog_family_id: maya1287
 glottolog_family_name: Mayan
 glottolog_classification: "Mayan > Core Mayan > Quichean-Mamean > Greater Quichean > Core Quichean > Sacapulteco"
 wikipedia_url: "https://en.wikipedia.org/wiki/Sakapultek_language"
+translations:
+  - translation_iso: jpn
+    name: サカプルテコ語
+  - translation_iso: kor
+    name: 사카풀텍어
+  - translation_iso: zho
+    name: 萨卡普尔特科语
+    auto: true
 ---
 Sakapultek  or Sacapulteco is a Mayan language very closely related to Kʼicheʼ (Quiché). It is spoken by approximately 6,500 people in Sacapulas, El Quiché department and in Guatemala City.

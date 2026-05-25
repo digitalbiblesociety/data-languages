@@ -1,8 +1,6 @@
 ---
 iso: bqy
 name: Bengkala Sign Language
-name_zh: 孟加拉库手语
-name_zh_auto: true
 autonym: Kata Kolok
 alt_names: [Bali Sign Language, Balinese Sign Language, Benkala Sign Language, Língua de Sinais Kata Kolok, ภาษากาตา โกโลก]
 population: 1125
@@ -16,6 +14,16 @@ glottolog_family_id: sign1238
 glottolog_family_name: Sign Language
 glottolog_classification: "Sign Language > L1 Sign Language > Kata Kolok"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kata_Kolok"
+translations:
+  - translation_iso: ara
+    name: كاتا كولوك
+  - translation_iso: hin
+    name: काटा कोलोक
+  - translation_iso: jpn
+    name: カタ・コロック
+  - translation_iso: zho
+    name: 孟加拉库手语
+    auto: true
 rolv_dialects:
   - rolv_code: 27481
     language_tag: bqy-x-HIS27481

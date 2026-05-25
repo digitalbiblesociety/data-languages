@@ -1,8 +1,6 @@
 ---
 iso: jad
 name: Jahanka
-name_zh: 贾汉卡语
-name_zh_auto: true
 autonym: Diakhanke
 alt_names: [Diakkanke, Dyakanke, Jahanque, Jahonque]
 population: 12600
@@ -16,5 +14,11 @@ glottolog_family_id: mand1469
 glottolog_family_name: Mande
 glottolog_classification: "Mande > Western Mande > Manding-Kpelle > Central Mande > Manding-Jogo > Manding-Vai > Manding-Mokole > Manding > West Manding > Xasonka > Jahanka"
 wikipedia_url: "https://en.wikipedia.org/wiki/Jahanka_language"
+translations:
+  - translation_iso: ara
+    name: لغة جهنكية
+  - translation_iso: zho
+    name: 贾汉卡语
+    auto: true
 ---
 Jahanka is a Manding language of Guinea-Bissau and Guinea. It is partially intelligible with Mandinka..

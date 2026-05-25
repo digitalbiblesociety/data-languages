@@ -1,8 +1,6 @@
 ---
 iso: tba
 name: Aikanã
-name_zh: 艾卡纳语
-name_zh_auto: true
 autonym: Tubarão
 alt_names: [Aikana, Aikana language, Aikaná, Corumbiara, Huari, Huarí, Kasupá, Kolumbiara, Masaká, Massaká, Mundé, Tubaro, Uari, Wari, Warí]
 population: 150
@@ -13,6 +11,12 @@ latitude: -12.66946
 longitude: -60.53527
 glottocode: aika1237
 wikipedia_url: "https://en.wikipedia.org/wiki/Aikan%C3%A3_language"
+translations:
+  - translation_iso: jpn
+    name: アイカナ語
+  - translation_iso: zho
+    name: 艾卡纳语
+    auto: true
 rolv_dialects:
   - rolv_code: 17718
     language_tag: tba-x-HIS17718

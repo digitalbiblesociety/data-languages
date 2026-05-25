@@ -1,8 +1,6 @@
 ---
 iso: kcz
 name: Konongo
-name_zh: 科农戈语
-name_zh_auto: true
 autonym: Kikonongo
 population: 51000
 country_id: TZ
@@ -15,5 +13,9 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > East Bantu > Northeast Savanna Bantu > Sukuma-Nyamwezi (F.20) > Nyamwezic > Konongo-Ruwila"
 wikipedia_url: "https://en.wikipedia.org/wiki/Konongo_language"
+translations:
+  - translation_iso: zho
+    name: 科农戈语
+    auto: true
 ---
 Konongo and Ruwila constitute a Bantu language of central Tanzania that is closely related to Nyamwezi – close enough to sometimes be counted as a dialect of Nyamwezi. Ruwila was until recently quite poorly attested.

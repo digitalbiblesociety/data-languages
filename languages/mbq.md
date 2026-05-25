@@ -1,8 +1,6 @@
 ---
 iso: mbq
 name: Maisin
-name_zh: 迈辛语
-name_zh_auto: true
 autonym: Maisan
 alt_names: [Maisin language]
 population: 2610
@@ -16,6 +14,10 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > Papuan Tip linkage > Nuclear Papuan Tip linkage > North Papuan Mainland-D'Entrecasteaux linkage > Are-Taupota linkage > Maisin"
 wikipedia_url: "https://en.wikipedia.org/wiki/Maisin_language"
+translations:
+  - translation_iso: zho
+    name: 迈辛语
+    auto: true
 rolv_dialects:
   - rolv_code: 13314
     language_tag: mbq-x-HIS13314

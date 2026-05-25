@@ -1,8 +1,6 @@
 ---
 iso: rtw
 name: Rathawi
-name_zh: 拉塔威语
-name_zh_auto: true
 autonym: "Bal-La"
 alt_names: [Kohelia]
 population: 451000
@@ -15,4 +13,8 @@ glottocode: rath1243
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Indo-Aryan > Middle-Modern Indo-Aryan > Continental Indo-Aryan > Midlands Indo-Aryan > Bhil > Rathawi-Palya > Rathawi"
+translations:
+  - translation_iso: zho
+    name: 拉塔威语
+    auto: true
 ---

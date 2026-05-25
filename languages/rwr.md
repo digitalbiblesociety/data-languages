@@ -1,8 +1,6 @@
 ---
 iso: rwr
 name: Marwari (India)
-name_zh: 马瓦里语（印度）
-name_zh_auto: true
 autonym: मारवाड़ी/مارواڑی‎
 alt_names: [Marwari, Rajasthani]
 population: 7855400
@@ -15,6 +13,12 @@ glottocode: marw1260
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Indo-Aryan > Middle-Modern Indo-Aryan > Continental Indo-Aryan > Midlands Indo-Aryan > Apabhramsic > Gujarati-Rajasthani > Rajasthani > Mewati-Gojri > Marwari (India)"
+translations:
+  - translation_iso: jpn
+    name: マールワーリー語
+  - translation_iso: zho
+    name: 马瓦里语（印度）
+    auto: true
 rolv_dialects:
   - rolv_code: 4346
     language_tag: rwr-x-HIS04346

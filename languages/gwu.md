@@ -1,8 +1,6 @@
 ---
 iso: gwu
 name: Guwamu
-name_zh: 古瓦姆语
-name_zh_auto: true
 autonym: Southern Maric
 alt_names: [Culgoa, Goamu, Gowamu, Gruwamu, Guamu, Guwa, Kaombal, Koambal, Koamu, Kooma, Kuam, Kuamu, Oamu]
 population: null
@@ -15,4 +13,8 @@ glottocode: guwa1243
 glottolog_family_id: pama1250
 glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > Greater Maric > Guwa-Maric > Maric > Southern Maric > Guwamu"
+translations:
+  - translation_iso: zho
+    name: 古瓦姆语
+    auto: true
 ---

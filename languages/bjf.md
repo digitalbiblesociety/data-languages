@@ -1,7 +1,6 @@
 ---
 iso: bjf
 name: "Barzani Jewish Neo-Aramaic"
-name_zh: 巴尔扎尼犹太阿拉姆语
 autonym: "לשניד דינן Lišānîd d-Jānān"
 alt_names: [Bijil Neo-Aramaic, Bijil neoaramejski, Central Jewish Neo-Aramaic, Djananeg, Judéo-araméen barszani (Iraq), Judéo-araméen barszani (Israël), Lishan Didan, Lishan Dideni, NENA, "Neo-Aramaic, Barzani Jewish", Neo-arameo judío barzani (Israel)]
 population: 20
@@ -15,6 +14,9 @@ glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Semitic > West Semitic > Central Semitic > Northwest Semitic > Aramaic > Imperial-Middle-Modern Aramaic > Middle-Modern Aramaic > Eastern Aramaic > Central Eastern Aramaic > North-Eastern Neo-Aramaic > Northwestern Jewish Neo-Aramaic > Barzani Jewish Neo-Aramaic"
 wikipedia_url: "https://en.wikipedia.org/wiki/Jewish_Neo-Aramaic_dialect_of_Barzani"
+translations:
+  - translation_iso: zho
+    name: 巴尔扎尼犹太阿拉姆语
 rolv_dialects:
   - rolv_code: 24425
     language_tag: bjf-x-HIS24425

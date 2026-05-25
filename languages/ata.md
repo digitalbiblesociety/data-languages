@@ -1,8 +1,6 @@
 ---
 iso: ata
 name: "Pele-Ata"
-name_zh: 佩莱-阿塔语
-name_zh_auto: true
 autonym: "Pele-Ata"
 alt_names: [Ata, Ata language, Neu-Pommern, Peleata, Uase, Uasi, Uasilau, Wasi]
 population: 2000
@@ -13,6 +11,12 @@ latitude: -5.58045
 longitude: 151.05018
 glottocode: pele1245
 wikipedia_url: "https://en.wikipedia.org/wiki/Ata_language"
+translations:
+  - translation_iso: jpn
+    name: ペレアタ語
+  - translation_iso: zho
+    name: 佩莱-阿塔语
+    auto: true
 rolv_dialects:
   - rolv_code: 1486
     language_tag: ata-x-HIS01486

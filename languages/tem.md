@@ -1,7 +1,6 @@
 ---
 iso: tem
 name: Timne
-name_zh: 天姆涅語
 autonym: KʌThemnɛ
 alt_names: [Baga, Idioma temné, Landoma, Língua temne, Temen, Temne, Temne language, Temneg, Temnische Sprache, Themne, Timene, Timmannee, தெம்னே மொழி]
 population: 1630000
@@ -16,6 +15,17 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Mel > Northern Mel > Timne"
 wikipedia_url: "https://en.wikipedia.org/wiki/Temne_language"
+translations:
+  - translation_iso: ara
+    name: التيمن
+  - translation_iso: hin
+    name: टिम्ने
+  - translation_iso: jpn
+    name: テムネ語
+  - translation_iso: kor
+    name: 팀니어
+  - translation_iso: zho
+    name: 天姆涅語
 rolv_dialects:
   - rolv_code: 17440
     language_tag: tem-x-HIS17440

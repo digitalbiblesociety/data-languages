@@ -1,7 +1,6 @@
 ---
 iso: yoy
 name: Yoy
-name_zh: Yoy语
 autonym: Dioi
 alt_names: [Jui, Yoi, Yooi, Yooy]
 population: 5000
@@ -15,5 +14,10 @@ glottolog_family_id: taik1256
 glottolog_family_name: Tai-Kadai
 glottolog_classification: "Tai-Kadai > Kam-Tai > Daic-Beic > Daic > Central-Southwestern Tai > Wenma-Southwestern Tai > Sapa-Southwestern Tai > Southwestern Tai > Southwestern Thai PH > Lao-Thai > Sakon Nakhon > Yoy"
 wikipedia_url: "https://en.wikipedia.org/wiki/Yoy_language"
+translations:
+  - translation_iso: jpn
+    name: ヨイ語
+  - translation_iso: zho
+    name: Yoy语
 ---
 Yoy is a Tai language of Thailand and Laos. The Yoy language is now in the critical endangered state due to a rapid language shift, which may eventually lead to complete language loss.

@@ -1,7 +1,6 @@
 ---
 iso: coa
 name: Cocos Islands Malay
-name_zh: 科科斯馬來語
 autonym: Basa Pulu Cocos/Basa Pulu Keling
 alt_names: [Cocos, Kokos, Kukus, "Malay, Cocos Islands"]
 population: 4000
@@ -15,5 +14,12 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Malayo-Chamic > Malayic > Nuclear Malayic > Betawic > Cocos Islands Malay"
 wikipedia_url: "https://en.wikipedia.org/wiki/Cocos_Malay"
+translations:
+  - translation_iso: jpn
+    name: ココスマレー語
+  - translation_iso: kor
+    name: 코코스 말레이어
+  - translation_iso: zho
+    name: 科科斯馬來語
 ---
 Cocos Malay is a post-creolized variety of Malay, spoken by the Cocos Malays who predominantly inhabit the Cocos (Keeling) Islands and Christmas Island region which is a part/territory of Australia. Apart from Australia, this language is also spoken by the diaspora of Cocos Malay descendants in Sabah, Malaysia.

@@ -1,7 +1,6 @@
 ---
 iso: nyn
 name: Nyankole
-name_zh: 尼科尔语
 autonym: Runyankore
 alt_names: [Język nyankole, Língua runyankole, Nkole, Nkore, Nyankore, Nyankore language, Runyankole, Ulunyankole, Ulunyankore, nyankolé]
 population: 3433000
@@ -16,6 +15,17 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > East Bantu > Northeast Savanna Bantu > Great Lakes Bantu > West Nyanza > Rutara > North Rutara > Nkore-Kiga-Nyoro-Tooro > Nkore-Kiga > Nyankole"
 wikipedia_url: "https://en.wikipedia.org/wiki/Nkore_language"
+translations:
+  - translation_iso: ara
+    name: رونيانكولية
+  - translation_iso: hin
+    name: न्यानकोल
+  - translation_iso: jpn
+    name: ニャンコレ語
+  - translation_iso: kor
+    name: 니안콜어
+  - translation_iso: zho
+    name: 尼科尔语
 rolv_dialects:
   - rolv_code: 15177
     language_tag: nyn-x-HIS15177

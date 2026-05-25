@@ -1,8 +1,6 @@
 ---
 iso: ghk
 name: Geko Karen
-name_zh: 格科凯伦语
-name_zh_auto: true
 autonym: Gaikho
 alt_names: ["Gek'o", Gekho, Ghekhol, Ghekhu, Gheko, "Karen, Geko", "Karen,Geko", Kekaungdu, Kekhong, Keku, Padaung]
 population: 9500
@@ -16,6 +14,12 @@ glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Karenic > Northern Karen > Geko Karen"
 wikipedia_url: "https://en.wikipedia.org/wiki/Geko_Karen_language"
+translations:
+  - translation_iso: ara
+    name: لغة غيكو كارين
+  - translation_iso: zho
+    name: 格科凯伦语
+    auto: true
 rolv_dialects:
   - rolv_code: 24978
     language_tag: ghk-x-HIS24978

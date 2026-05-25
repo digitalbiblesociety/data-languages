@@ -1,8 +1,6 @@
 ---
 iso: liu
 name: Logorik
-name_zh: 洛戈里克语
-name_zh_auto: true
 autonym: Logorik
 alt_names: [Liguri, Logori]
 population: 2000
@@ -16,6 +14,10 @@ glottolog_family_id: daju1249
 glottolog_family_name: Dajuic
 glottolog_classification: "Dajuic > Eastern Dajuic > Logorik"
 wikipedia_url: "https://en.wikipedia.org/wiki/Logorik_language"
+translations:
+  - translation_iso: zho
+    name: 洛戈里克语
+    auto: true
 rolv_dialects:
   - rolv_code: 1981
     language_tag: liu-x-HIS01981

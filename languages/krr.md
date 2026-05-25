@@ -1,8 +1,6 @@
 ---
 iso: krr
 name: Krung
-name_zh: 克龙语
-name_zh_auto: true
 autonym: Brao Krung
 population: 18400
 country_id: KH
@@ -10,6 +8,10 @@ country_name: Cambodia
 status_id: 6b
 latitude: 13.56989
 longitude: 106.76134
+translations:
+  - translation_iso: zho
+    name: 克龙语
+    auto: true
 rolv_dialects:
   - rolv_code: 26807
     language_tag: krr-x-HIS26807

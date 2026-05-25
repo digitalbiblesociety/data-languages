@@ -1,8 +1,6 @@
 ---
 iso: lmb
 name: Merei
-name_zh: 梅雷伊语
-name_zh_auto: true
 autonym: Malmariv
 alt_names: [Lametin, Tiale]
 population: 400
@@ -15,6 +13,10 @@ glottocode: mere1242
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > North and Central Vanuatu > Northern Vanuatu > Espiritu Santo > West Santo > Central Santo > Merei"
+translations:
+  - translation_iso: zho
+    name: 梅雷伊语
+    auto: true
 rolv_dialects:
   - rolv_code: 14015
     language_tag: lmb-x-HIS14015

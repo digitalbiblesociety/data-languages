@@ -1,8 +1,6 @@
 ---
 iso: uvh
 name: Uri
-name_zh: 乌里语
-name_zh_auto: true
 autonym: Erap
 alt_names: [Uri Vehees, Urii]
 population: 2500
@@ -16,6 +14,10 @@ glottolog_family_id: nucl1709
 glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Finisterre-Huon > Finisterre-Saruwaged > Erap > Uri"
 wikipedia_url: "https://en.wikipedia.org/wiki/Uri_language"
+translations:
+  - translation_iso: zho
+    name: 乌里语
+    auto: true
 rolv_dialects:
   - rolv_code: 17962
     language_tag: uvh-x-HIS17962

@@ -1,8 +1,6 @@
 ---
 iso: nug
 name: Nungali
-name_zh: 农加利语
-name_zh_auto: true
 autonym: Yilngali
 alt_names: [Ilngali, Jilngali, Nungulu]
 population: null
@@ -16,5 +14,9 @@ glottolog_family_id: mirn1241
 glottolog_family_name: Mirndi
 glottolog_classification: "Mirndi > Yirram > Nungali"
 wikipedia_url: "https://en.wikipedia.org/wiki/Nungali_language"
+translations:
+  - translation_iso: zho
+    name: 农加利语
+    auto: true
 ---
 Nungali, or Yilngali, is an Australian language which is believed to be extinct. It was spoken in the Northern Territory of Australia, around the upper Daly River. Its closest relative is the Jaminjung language.

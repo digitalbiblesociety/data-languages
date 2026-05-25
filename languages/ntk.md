@@ -1,8 +1,6 @@
 ---
 iso: ntk
 name: "Ikoma-Nata-Isenye"
-name_zh: 伊科玛-纳塔-伊塞尼耶语
-name_zh_auto: true
 autonym: "Ikoma-Nata-Isenye"
 alt_names: [Egiikɔma, Ekinata, Ikinata, Ikoma, Nata]
 population: 34700
@@ -16,6 +14,10 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > East Bantu > Northeast Savanna Bantu > Great Lakes Bantu > East Nyanza > Nyanza Mara > South Mara > Western Serengeti > Southeast Mara > Ikoma-Nata"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ikoma_language"
+translations:
+  - translation_iso: zho
+    name: 伊科玛-纳塔-伊塞尼耶语
+    auto: true
 rolv_dialects:
   - rolv_code: 10844
     language_tag: ntk-x-HIS10844

@@ -1,8 +1,6 @@
 ---
 iso: bma
 name: Lame
-name_zh: 拉梅语
-name_zh_auto: true
 autonym: "Tu-Gura"
 population: 10000
 country_id: NG
@@ -15,6 +13,10 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Jarawan > Nigerian Jarawan > Lame"
 wikipedia_url: "https://en.wikipedia.org/wiki/Lame_language"
+translations:
+  - translation_iso: zho
+    name: 拉梅语
+    auto: true
 rolv_dialects:
   - rolv_code: 2561
     language_tag: bma-x-HIS02561

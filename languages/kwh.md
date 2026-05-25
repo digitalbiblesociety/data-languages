@@ -1,8 +1,6 @@
 ---
 iso: kwh
 name: Kowiai
-name_zh: 科瓦伊语
-name_zh_auto: true
 autonym: South Bomberai
 alt_names: [Adi, Aiduma, Kaiwai, Kajumerah, Kayumerah, Koiwai, Kuiwai, Namatota, Namatote]
 population: 600
@@ -16,6 +14,10 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Greater Seram Laut > Banda-Geser > Seran Laut > Koiwai-Irarutu > Kowiai"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kowiai_language"
+translations:
+  - translation_iso: zho
+    name: 科瓦伊语
+    auto: true
 rolv_dialects:
   - rolv_code: 12322
     language_tag: kwh-x-HIS12322

@@ -1,8 +1,6 @@
 ---
 iso: igm
 name: Kanggape
-name_zh: 康盖佩语
-name_zh_auto: true
 autonym: Igom
 population: 1080
 country_id: PG
@@ -15,5 +13,9 @@ glottolog_family_id: ramu1234
 glottolog_family_name: Ramu
 glottolog_classification: "Ramu > Goam > Ataitan > Tangu-Igom > Kanggape"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kanggape_language"
+translations:
+  - translation_iso: zho
+    name: 康盖佩语
+    auto: true
 ---
 Kanggape a.k.a. Igom is a Ramu language of Papua New Guinea. Together with Andarum, there were 2,200 speakers in 1981.

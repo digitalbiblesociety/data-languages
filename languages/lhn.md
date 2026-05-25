@@ -1,8 +1,6 @@
 ---
 iso: lhn
 name: Lahanan
-name_zh: 拉哈南语
-name_zh_auto: true
 autonym: Lanan
 alt_names: [Lanun]
 population: 350
@@ -16,5 +14,9 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > North Borneo Malayo-Polynesian > Central Sarawak > Melanau-Kajang > Kajang > Kajaman-Lahanan > Lahanan"
 wikipedia_url: "https://en.wikipedia.org/wiki/Lahanan_language"
+translations:
+  - translation_iso: zho
+    name: 拉哈南语
+    auto: true
 ---
 Lahanan (Lanun) is a Kajang language of Sarawak, Malaysia.

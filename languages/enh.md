@@ -1,8 +1,6 @@
 ---
 iso: enh
 name: Tundra Enets
-name_zh: 苔原埃涅茨语
-name_zh_auto: true
 autonym: Онэй база
 alt_names: [Enec, Enets, Enets de la toundra, "Enets, Tundra", Enzisch, Eńeć, Jenisei, Jenisej-Samojedisch, Jenissei-Dialekt, Madu, Samojedi, Samojedimanzela, Somatu, Somatu Enets, Yenets, Yenisei Samoyed, Yenisei Samoyedic, Yenisei Somoyed, Yenisey, Yenisey Samoyedic, Yenisey-Samoyedic, Yensisei-Samoyed, enete, enetj, enetsin kieli, enyec nyelv, iénisséi, "ona' bazaan", Éncico de la tundra, èncy, онаь базаан, сомату, тундровый энецкий]
 population: 198
@@ -16,5 +14,9 @@ glottolog_family_id: ural1272
 glottolog_family_name: Uralic
 glottolog_classification: "Uralic > Samoyedic > Enets-Nenets > Enets > Tundra Enets"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tundra_Enets_language"
+translations:
+  - translation_iso: zho
+    name: 苔原埃涅茨语
+    auto: true
 ---
 Enets is a Samoyedic language of Northern Siberia spoken on the Lower Yenisei within the boundaries of the Taimyr Municipality District, a subdivision of Krasnoyarsk Krai, Russian Federation. Enets belongs to the Northern branch of the Samoyedic languages, in turn a branch of the Uralic language family.

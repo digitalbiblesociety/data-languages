@@ -1,8 +1,6 @@
 ---
 iso: ulk
 name: Meriam Mir
-name_zh: 梅里亚姆-米尔语
-name_zh_auto: true
 autonym: Eastern Torres Strait
 alt_names: [Boigu, Buibatyalli, East Torres, Errob, Erub, Garamir, Gaurareg, Maer, Maralaig, Mer, Meriam, Meriam language, Meryam, Meryam Mir, Mir, Miriam, Miriam-Mir, Morolag, Sabai, Saibai, Tagota, Torres Strait Islander language, Torres Strait Islander people, Ugar]
 population: 220
@@ -16,6 +14,12 @@ glottolog_family_id: east2503
 glottolog_family_name: Eastern Trans-Fly
 glottolog_classification: "Eastern Trans-Fly > Binaturi > Kura > Meriam"
 wikipedia_url: "https://en.wikipedia.org/wiki/Meriam_language"
+translations:
+  - translation_iso: jpn
+    name: メリヤム・ミル語
+  - translation_iso: zho
+    name: 梅里亚姆-米尔语
+    auto: true
 rolv_dialects:
   - rolv_code: 14019
     language_tag: ulk-x-HIS14019

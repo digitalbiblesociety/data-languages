@@ -1,8 +1,6 @@
 ---
 iso: kot
 name: Lagwan
-name_zh: 拉甘语
-name_zh_auto: true
 autonym: Logone
 alt_names: [Kotoko-Logone, Lagouane, Lagwan Kotoko, Lagwane, Logone-Birni Kotoko]
 population: 1500
@@ -16,6 +14,10 @@ glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > Biu-Mandara > North Biu-Mandara > Kotoko-Buduma > Kotoko Central > Lagwan"
 wikipedia_url: "https://en.wikipedia.org/wiki/Lagwan_language"
+translations:
+  - translation_iso: zho
+    name: 拉甘语
+    auto: true
 rolv_dialects:
   - rolv_code: 12679
     language_tag: kot-x-HIS12679

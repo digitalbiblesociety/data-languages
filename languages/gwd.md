@@ -1,8 +1,6 @@
 ---
 iso: gwd
 name: Gawwada
-name_zh: 高瓦达语
-name_zh_auto: true
 autonym: Gauwada
 alt_names: [Dullay, Dullay (Gollango), Gawata, Gawwada hizkuntza, Gobeze, Golango, Gowase, "Kawwad'a", Kawwada, Orase, W. Bussa, Welango]
 population: 84300
@@ -16,6 +14,12 @@ glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Cushitic > East Cushitic > Lowland East Cushitic > Southern Lowland East Cushitic > Transversal Lowland East Cushitic > Dullay > Ale-Gawwada"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ale_language"
+translations:
+  - translation_iso: jpn
+    name: Dullay諸語
+  - translation_iso: zho
+    name: 高瓦达语
+    auto: true
 rolv_dialects:
   - rolv_code: 10068
     language_tag: gwd-x-HIS10068

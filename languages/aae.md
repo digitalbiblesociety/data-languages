@@ -1,7 +1,6 @@
 ---
 iso: aae
 name: Arbëreshë Albanian
-name_zh: 阿尔伯雷什方言
 autonym: arbërisht
 alt_names: [Albanesisch, Albanian, "Albanian, Arbëreshë", Arber, Arbereshe Albanian, Arberesjiska, Arberés, Arbresh, Arbërerisht, Arbëresh language, Arbëreshë, Arbëreshë albanski, Arbëreshë hizkuntza, Arnaut, Arvaniteg, Arvaníska, Aрбaрёж, Dialecto arbëreshë, Italo-Albanian, Luenga arbëreshë, Shqipēri, Shquipni, Škip]
 population: 260000
@@ -15,6 +14,11 @@ glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Albanian > Albanian-Tosk > Southern Tosk > Arbëreshë Albanian"
 wikipedia_url: "https://en.wikipedia.org/wiki/Arb%C3%ABresh_language"
+translations:
+  - translation_iso: jpn
+    name: アルベレシュ方言
+  - translation_iso: zho
+    name: 阿尔伯雷什方言
 rolv_dialects:
   - rolv_code: 6860
     language_tag: aae-x-HIS06860

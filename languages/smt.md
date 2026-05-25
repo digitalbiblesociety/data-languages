@@ -1,8 +1,6 @@
 ---
 iso: smt
 name: Simte
-name_zh: 西姆特语
-name_zh_auto: true
 autonym: Zomi
 alt_names: [India]
 population: 10200
@@ -16,5 +14,9 @@ glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Kuki-Chin-Naga > Kuki-Chin > Peripheral Kuki-Chin > Northeastern Kuki-Chin > Sizangic > Simte"
 wikipedia_url: "https://en.wikipedia.org/wiki/Simte_language"
+translations:
+  - translation_iso: zho
+    name: 西姆特语
+    auto: true
 ---
 Simte is a Kuki-Chin language of India. It is spoken primarily by the Simte in Northeastern India, who are concentrated in Manipur and adjacent areas of Mizoram and Assam. The dialect spoken in Manipur exhibits partial mutual intelligibility with the other Kuki-Chin dialects of the area including Thadou, Hmar, Vaiphei, Paite, Kom and Gangte. It is written in Latin script.

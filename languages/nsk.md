@@ -1,7 +1,6 @@
 ---
 iso: nsk
 name: Naskapi
-name_zh: 纳斯卡皮语
 autonym: ᓇᔅᑲᐱ
 alt_names: [Cree, Eastern Naskapi, Innu Aimuun, Iyuw Imuun, Mushuaau Innu, Naskapee, Naskapí, Western Naskapi]
 population: 1210
@@ -16,6 +15,11 @@ glottolog_family_id: algi1248
 glottolog_family_name: Algic
 glottolog_classification: "Algic > Algonquian-Blackfoot > Algonquian > Cree-Montagnais-Naskapi > Naskapi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Naskapi_language"
+translations:
+  - translation_iso: jpn
+    name: ナスカピ語
+  - translation_iso: zho
+    name: 纳斯卡皮语
 rolv_dialects:
   - rolv_code: 14738
     language_tag: nsk-x-HIS14738

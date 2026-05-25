@@ -1,8 +1,6 @@
 ---
 iso: dmy
 name: Demta
-name_zh: 德姆塔语
-name_zh_auto: true
 autonym: Sowari
 alt_names: [Muris]
 population: 1300
@@ -16,5 +14,9 @@ glottolog_family_id: sent1261
 glottolog_family_name: Sentanic
 glottolog_classification: "Sentanic > Demta"
 wikipedia_url: "https://en.wikipedia.org/wiki/Demta_language"
+translations:
+  - translation_iso: zho
+    name: 德姆塔语
+    auto: true
 ---
 Demta, also known as Sowari and Muris, is a Papuan language spoken by the Demta people on the north coast of Papua, Indonesia. It is spoken in Ambora, Muris Besar, Muris Kecil, and Yougafsa villages, all located in Demta District.

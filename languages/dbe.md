@@ -1,8 +1,6 @@
 ---
 iso: dbe
 name: Dabe
-name_zh: 达贝语
-name_zh_auto: true
 autonym: bahasa Dabe
 alt_names: [Mangambilis]
 population: 440
@@ -16,5 +14,9 @@ glottolog_family_id: toro1256
 glottolog_family_name: Tor-Orya
 glottolog_classification: "Tor-Orya > Tor > Coastal Tor > Dabe"
 wikipedia_url: "https://en.wikipedia.org/wiki/Dabe_language"
+translations:
+  - translation_iso: zho
+    name: 达贝语
+    auto: true
 ---
 Dabe is a Papuan language of Indonesia. It is spoken in Dabe village, Pantai Timur subdistrict, Sarmi Regency.

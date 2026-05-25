@@ -1,8 +1,6 @@
 ---
 iso: gni
 name: Gooniyandi
-name_zh: 古尼亚迪语
-name_zh_auto: true
 autonym: Gunian
 alt_names: [Bunuban family, Cowrana, Goonien, Gun ian, Gunan, Guniandi, Gunijan, Gunin, Guniyan, Guniyandi, Guniyn, Gunyari, Konajan, Konean, Konean Konejandi, Konejandi, Konejanu, Koneyandi, Kunan, Kunian, Kuniandu, Kuniyan, Wadea wulu, Wadeawulu]
 population: 100
@@ -16,5 +14,15 @@ glottolog_family_id: buna1274
 glottolog_family_name: Bunaban
 glottolog_classification: "Bunaban > Gooniyandi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Gooniyandi_language"
+translations:
+  - translation_iso: ara
+    name: لغة غوندياندي
+  - translation_iso: jpn
+    name: グニヤンディ語
+  - translation_iso: kor
+    name: 구니얀디어
+  - translation_iso: zho
+    name: 古尼亚迪语
+    auto: true
 ---
 Gooniyandi is an Australian Aboriginal language now spoken by about 200 people, most of whom live in or near Fitzroy Crossing in Western Australia. Gooniyandi is an endangered language as it is not being passed on to children, who instead grow up speaking Kriol.

@@ -1,7 +1,6 @@
 ---
 iso: shp
 name: "Shipibo-Conibo"
-name_zh: 施丕博語
 autonym: Shipibo
 alt_names: [Idioma shipibo, Shipibo-Konibo, Shipipu simi, Tschama, Шипибо-конибо]
 population: 22500
@@ -15,6 +14,9 @@ glottolog_family_id: pano1259
 glottolog_family_name: Pano-Tacanan
 glottolog_classification: "Pano-Tacanan > Panoan > Mainline Pano > Pano Nawa > Chama subgroup > Shipibo-Konibo-Kapanawa > Shipibo-Conibo"
 wikipedia_url: "https://en.wikipedia.org/wiki/Shipibo_language"
+translations:
+  - translation_iso: zho
+    name: 施丕博語
 rolv_dialects:
   - rolv_code: 16631
     language_tag: shp-x-HIS16631

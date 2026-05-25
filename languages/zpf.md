@@ -1,8 +1,6 @@
 ---
 iso: zpf
 name: San Pedro Quiatoni Zapotec
-name_zh: 圣佩德罗基亚托尼萨波特克语
-name_zh_auto: true
 autonym: (San Pedro Quiatoni)
 alt_names: [Eastern Sapoteko, Eastern Tlacolula Zapotec, Quiatoni Zapotec, Tlacolula, Zapotec, "Zapotec, San Pedro Quiatoni", Zapoteco de Petapa, Zapoteco de San Bartolo Yautepec, Zapoteco de San Pedro Quiatoni, Zapoteco mixtepeco, Zapotèque de Mixtepe, Zapotèque de Petapa, Zapotèque de San Bartolo Yautepec]
 population: 14800
@@ -16,5 +14,9 @@ glottolog_family_id: otom1299
 glottolog_family_name: Otomanguean
 glottolog_classification: "Otomanguean > Eastern Otomanguean > Popoloca-Zapotecan > Zapotecan > Zapotec > Core Zapotec > Narrow Core Zapotec > Central Core Zapotec > San Pedro Quiatoni Zapotec"
 wikipedia_url: "https://en.wikipedia.org/wiki/Quiatoni_Zapotec"
+translations:
+  - translation_iso: zho
+    name: 圣佩德罗基亚托尼萨波特克语
+    auto: true
 ---
 Quiatoni Zapotec is a Zapotec language of Oaxaca, Mexico.

@@ -1,8 +1,6 @@
 ---
 iso: ksj
 name: Uare
-name_zh: 乌亚雷语
-name_zh_auto: true
 autonym: Kwale
 alt_names: [Kware]
 population: 1300
@@ -16,6 +14,10 @@ glottolog_family_id: kwal1257
 glottolog_family_name: Kwalean
 glottolog_classification: "Kwalean > Humene-Kwale > Uare"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kwale_language"
+translations:
+  - translation_iso: zho
+    name: 乌亚雷语
+    auto: true
 rolv_dialects:
   - rolv_code: 2992
     language_tag: ksj-x-HIS02992

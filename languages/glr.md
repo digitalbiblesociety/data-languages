@@ -1,8 +1,6 @@
 ---
 iso: glr
 name: "Glaro-Twabo"
-name_zh: 格拉罗-特瓦博语
-name_zh_auto: true
 autonym: null
 alt_names: ["Liberia, Côte d'Ivoire"]
 population: 4270
@@ -16,6 +14,10 @@ glottolog_family_id: krua1234
 glottolog_family_name: Kru
 glottolog_classification: "Kru > Greater Western Kru > Western Kru > Wee-Bassa-Klao > Wee > Glaro-Twabo"
 wikipedia_url: "https://en.wikipedia.org/wiki/Glaro-Twabo_language"
+translations:
+  - translation_iso: zho
+    name: 格拉罗-特瓦博语
+    auto: true
 rolv_dialects:
   - rolv_code: 316
     language_tag: glr-x-HIS00316

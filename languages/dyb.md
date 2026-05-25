@@ -1,8 +1,6 @@
 ---
 iso: dyb
 name: Dyaberdyaber
-name_zh: 贾伯迪亚伯语
-name_zh_auto: true
 autonym: Dyaberdyaber
 alt_names: [Djaba Djaba, Djaber Djaber, Djaberadjaber, Djaberadjabera, Djaberdjaber, Djabirdjabir, Djabirr Djabirr, Dyabir-Dyabir, Jabirr Jabirr, Jabirr-Jabirr, Jabirrjabirr, Tjabartjabara, Tjabiratjabir, Tjabirtjabira]
 population: null
@@ -16,5 +14,11 @@ glottolog_family_id: nyul1248
 glottolog_family_name: Nyulnyulan
 glottolog_classification: "Nyulnyulan > Western Nyulnyulan > Nyulnyulic > Dyaberdyaber"
 wikipedia_url: "https://en.wikipedia.org/wiki/Jabirr_Jabirr_language"
+translations:
+  - translation_iso: jpn
+    name: ジャビルジャビル語
+  - translation_iso: zho
+    name: 贾伯迪亚伯语
+    auto: true
 ---
 The Jabirr Jabirr language, also known as Djabirr-Djabirr, is a Western Nyulnyulan language formerly spoken by the Jabirr Jabirr people on the coast south of Beagle Bay in Western Australia. Earlier sources spelled the name DjaberrDjaberr or Dyaberdyaber; the contemporary accepted spelling is Jabirr-Jabirr, which reflects the spelling conventions of languages of the Kimberley region. It is also sometimes spelt Jabba Jabba.

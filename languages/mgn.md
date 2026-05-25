@@ -1,8 +1,6 @@
 ---
 iso: mgn
 name: Mbangi
-name_zh: 姆班吉语
-name_zh_auto: true
 autonym: Mbangui
 population: 2750
 country_id: CF
@@ -14,4 +12,8 @@ glottocode: mban1262
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Cameroun-Ubangian > Ubangi > Ngbandi-Mongoba-Kazibati > Ngbandic > Nuclear Ngbandic > Mbangi"
+translations:
+  - translation_iso: zho
+    name: 姆班吉语
+    auto: true
 ---

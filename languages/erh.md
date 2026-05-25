@@ -1,8 +1,6 @@
 ---
 iso: erh
 name: Eruwa
-name_zh: 埃鲁瓦语
-name_zh_auto: true
 autonym: Arokwa
 alt_names: [Erakwa, Erohwa]
 population: 2000
@@ -16,5 +14,9 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Akpes-Edoid > Edoid > Southwestern Edoid > Eruwa"
 wikipedia_url: "https://en.wikipedia.org/wiki/Eruwa_language"
+translations:
+  - translation_iso: zho
+    name: 埃鲁瓦语
+    auto: true
 ---
 Ẹrụwa is an Edoid language of Nigeria.

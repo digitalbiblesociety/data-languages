@@ -1,8 +1,6 @@
 ---
 iso: xpf
 name: "Southeast Tasmanian\r"
-name_zh: 东南塔斯马尼亚语
-name_zh_auto: true
 autonym: (Mainland) Southeast Tasmanian
 alt_names: [Nuenonne, Southeast Tasmanian, "Tasmanian, Southeast"]
 population: null
@@ -16,5 +14,9 @@ glottolog_family_id: sout1293
 glottolog_family_name: South-Eastern Tasmanian
 glottolog_classification: "South-Eastern Tasmanian > South-Eastern-Tasmanian-Hinterland"
 wikipedia_url: "https://en.wikipedia.org/wiki/Nuenonne_language"
+translations:
+  - translation_iso: zho
+    name: 东南塔斯马尼亚语
+    auto: true
 ---
 Nuenonne ("Nyunoni"), or Southeast Tasmanian, is an extinct Aboriginal language of Tasmania. It was spoken along the southeastern mainland of the island by the Bruny tribe.

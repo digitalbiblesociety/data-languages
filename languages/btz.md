@@ -1,7 +1,6 @@
 ---
 iso: btz
 name: "Batak Alas-Kluet"
-name_zh: 阿拉斯语
 autonym: Batak Alas
 alt_names: [Alas, Alas-Kluet, Alas-Kluet Batak]
 population: 195000
@@ -15,6 +14,11 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Sumatran > Batakic > Northern Batak > Batak Alas-Kluet"
 wikipedia_url: "https://en.wikipedia.org/wiki/Alas_language"
+translations:
+  - translation_iso: jpn
+    name: バタク・アラス＝クルット語
+  - translation_iso: zho
+    name: 阿拉斯语
 rolv_dialects:
   - rolv_code: 7854
     language_tag: btz-x-HIS07854

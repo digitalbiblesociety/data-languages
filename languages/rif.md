@@ -1,7 +1,6 @@
 ---
 iso: rif
 name: Tarifit
-name_zh: 里夫语
 autonym: Tmaziɣt
 alt_names: [Berber (Rif), Fifia, Idioma rifenco, Idioma rifeño, Lingua tarifit, Luenga rifeña, Northern Shilha, Rif, Rifain, Rifenc, Riff, Rifi, Rifia, Ruafa, Shilha, Tamazight (Ait Rouadi), Tamazight (Arzew), Tamazight (Beni Iznassen), Tamazight (Tunisie), Tamazight (Túnez), Tarifit jezik, Tarifiteg, Tirifie, لهجة تاريفيت]
 population: 4399000
@@ -16,6 +15,15 @@ glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Berber > Greater Zenatic > Zenatic > Tarifiyt-Beni-Iznasen-Eastern Middle Atlas Berber"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tarifit"
+translations:
+  - translation_iso: ara
+    name: الريفية
+  - translation_iso: jpn
+    name: リーフ語
+  - translation_iso: kor
+    name: 리프어
+  - translation_iso: zho
+    name: 里夫语
 rolv_dialects:
   - rolv_code: 17217
     language_tag: rif-x-HIS17217

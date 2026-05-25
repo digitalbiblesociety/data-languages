@@ -1,8 +1,6 @@
 ---
 iso: ans
 name: Anserma
-name_zh: 安塞玛语
-name_zh_auto: true
 autonym: Anserna
 population: 100
 country_id: CO
@@ -15,5 +13,9 @@ glottolog_family_id: choc1280
 glottolog_family_name: Chocoan
 glottolog_classification: "Chocoan > Unclassified Chocoan > Anserma"
 wikipedia_url: "https://en.wikipedia.org/wiki/Anserma_language"
+translations:
+  - translation_iso: zho
+    name: 安塞玛语
+    auto: true
 ---
 Anserma is a Chocoan language of Colombia, spoken by the Umbrá people. Dialects included Caramanta and Cartama. The language was thought to be extinct until 7 families were found to speak it in 2011.

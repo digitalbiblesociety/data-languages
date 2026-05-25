@@ -1,8 +1,6 @@
 ---
 iso: twn
 name: Twendi
-name_zh: 特温迪语
-name_zh_auto: true
 autonym: Cambap
 alt_names: [Tiwa (Northern)]
 population: 1000
@@ -16,5 +14,9 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Northern Bantoid > Mambiloid > Nizaa-Mambila-Vute > Konja-Mambila-Vute > Mambila-Vute > Mambila-Mbongno > Mambila > Eastern Mambila > Cambap-Langa"
 wikipedia_url: "https://en.wikipedia.org/wiki/Twendi_language"
+translations:
+  - translation_iso: zho
+    name: 特温迪语
+    auto: true
 ---
 Twendi, or Cambap as it is also known, is a nearly extinct Mambiloid language of Cameroon. Speakers have largely shifted to the closely related language Kwanja, and Twendi has not been passed down to children for decades. The language is spoken in the villages of Cambap and Sanga on the Tikar Plain by no more than 30 people, the youngest of whom were born in the 1940s.

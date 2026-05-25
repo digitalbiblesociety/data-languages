@@ -1,8 +1,6 @@
 ---
 iso: mzm
 name: Mumuye
-name_zh: 穆姆耶语
-name_zh_auto: true
 autonym: Yoro
 alt_names: [Group 5, Zing]
 population: 745000
@@ -16,6 +14,10 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Cameroun-Ubangian > Central Adamawa > Mumuye-Yandang > Mumuyic > Mumuye"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mumuye_language"
+translations:
+  - translation_iso: zho
+    name: 穆姆耶语
+    auto: true
 rolv_dialects:
   - rolv_code: 2053
     language_tag: mzm-x-HIS02053

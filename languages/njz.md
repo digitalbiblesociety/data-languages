@@ -1,7 +1,6 @@
 ---
 iso: njz
 name: Nyishi
-name_zh: 尼希语
 autonym: " Nisi"
 population: 299000
 country_id: IN
@@ -14,6 +13,13 @@ glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Macro-Tani > Tani > Pre-Western Tani > Western Tani > Subansiri > Nyishi-Hill Miri"
 wikipedia_url: "https://en.wikipedia.org/wiki/Nishi_language"
+translations:
+  - translation_iso: hin
+    name: निशि भाषा
+  - translation_iso: jpn
+    name: ニシ語
+  - translation_iso: zho
+    name: 尼希语
 rolv_dialects:
   - rolv_code: 15004
     language_tag: njz-x-HIS15004

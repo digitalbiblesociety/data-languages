@@ -1,7 +1,6 @@
 ---
 iso: kfr
 name: Kachhi
-name_zh: 喀奇語
 autonym: કચ્છી
 alt_names: [Cuchi, Cutch, Cutchi, Kacchi, Kachchhi, Kachchi, Kachi, Katch, Katchi, Kautchy, Koutcheg, Kutchchi, Kutchi, Kutchi language, Kutchie, Lenga kachchi, Lingua Kacchi, کچھی, કચ્છી ભાષા, ภาษากัจฉิ]
 population: 1093000
@@ -16,6 +15,15 @@ glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Indo-Aryan > Middle-Modern Indo-Aryan > Continental Indo-Aryan > Indo-Aryan Northwestern zone > Sindhi-Lahnda > Sindhic > Sindhi-Kachchi > Kachchi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kutchi_language"
+translations:
+  - translation_iso: ara
+    name: لغة الكوتشي
+  - translation_iso: hin
+    name: कच्छी भाषा
+  - translation_iso: jpn
+    name: カッチ語
+  - translation_iso: zho
+    name: 喀奇語
 rolv_dialects:
   - rolv_code: 4222
     language_tag: kfr-x-HIS04222

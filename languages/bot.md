@@ -1,8 +1,6 @@
 ---
 iso: bot
 name: Bongo
-name_zh: 博恩戈语
-name_zh_auto: true
 autonym: Bungu
 alt_names: [Dor]
 population: 21000
@@ -16,6 +14,12 @@ glottolog_family_id: cent2225
 glottolog_family_name: Central Sudanic
 glottolog_classification: "Central Sudanic > Sara-Bongo-Bagirmi > Bongo"
 wikipedia_url: "https://en.wikipedia.org/wiki/Bongo_language"
+translations:
+  - translation_iso: ara
+    name: لغة البونجو
+  - translation_iso: zho
+    name: 博恩戈语
+    auto: true
 rolv_dialects:
   - rolv_code: 3983
     language_tag: bot-x-HIS03983

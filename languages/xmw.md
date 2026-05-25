@@ -1,8 +1,6 @@
 ---
 iso: xmw
 name: Tsimihety Malagasy
-name_zh: 西米赫蒂马尔加什语
-name_zh_auto: true
 autonym: malagasy
 alt_names: ["Malagasy, Tsimihety", Tsimihety]
 population: 1615000
@@ -15,4 +13,10 @@ glottocode: tsim1257
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Basap-Greater Barito > Greater Barito linkage > Southeast Barito > Malagasic > North-Central Malagasic > Northern Malagasic > Tsimihety-Betsimisaraka > Tsimihety Malagasy"
+translations:
+  - translation_iso: jpn
+    name: ツィミヘティ・マダガスカル語
+  - translation_iso: zho
+    name: 西米赫蒂马尔加什语
+    auto: true
 ---

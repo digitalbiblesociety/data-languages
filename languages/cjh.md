@@ -1,8 +1,6 @@
 ---
 iso: cjh
 name: Upper Chehalis
-name_zh: 上切哈利斯语
-name_zh_auto: true
 autonym: Q̉ʷay̓áyiłq̉
 alt_names: [Chehalis, Chehalis (Upper), "Chehalis, Upper", Chehalí alto, Haut-chehalis, Kwaiailk, Oakville, Oakville Chehalis, "Q'ʷay'áyiłq'", Satsop, qʼʷayʼáyiɬqʼ]
 population: null
@@ -16,6 +14,12 @@ glottolog_family_id: sali1255
 glottolog_family_name: Salishan
 glottolog_classification: "Salishan > Coast Salish > Tsamosan > Inland Tsamosan > Upper Chehalis"
 wikipedia_url: "https://en.wikipedia.org/wiki/Upper_Chehalis_language"
+translations:
+  - translation_iso: jpn
+    name: 上チヘリス語
+  - translation_iso: zho
+    name: 上切哈利斯语
+    auto: true
 rolv_dialects:
   - rolv_code: 24626
     language_tag: cjh-x-HIS24626

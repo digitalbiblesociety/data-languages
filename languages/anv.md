@@ -1,8 +1,6 @@
 ---
 iso: anv
 name: Denya
-name_zh: 德尼亚语
-name_zh_auto: true
 autonym: Anyah
 alt_names: [Agnang, Anyan, Anyang, Eyan, Nyang, Obonya, Takamanda]
 population: 11200
@@ -16,6 +14,10 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Mamfe > Kendem-Denya > Denya"
 wikipedia_url: "https://en.wikipedia.org/wiki/Denya_language"
+translations:
+  - translation_iso: zho
+    name: 德尼亚语
+    auto: true
 rolv_dialects:
   - rolv_code: 4360
     language_tag: anv-x-HIS04360

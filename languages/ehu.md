@@ -1,8 +1,6 @@
 ---
 iso: ehu
 name: Ehueun
-name_zh: 埃韦恩语
-name_zh_auto: true
 autonym: Ekpenmen
 alt_names: [Ekpimi, Epimi]
 population: 14200
@@ -16,5 +14,9 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Akpes-Edoid > Edoid > Northwestern Edoid > Osse > Ukue-Ehueun > Ehueun"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ehueun_language"
+translations:
+  - translation_iso: zho
+    name: 埃韦恩语
+    auto: true
 ---
 Ehuẹun (Ekpimi) is an Edoid language of Ondo State, Nigeria. It is sometimes considered the same language as Ukue.

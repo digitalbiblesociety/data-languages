@@ -1,8 +1,6 @@
 ---
 iso: mfk
 name: North Mofu
-name_zh: 北莫夫语
-name_zh_auto: true
 autonym: Douvangar
 alt_names: [Mofoueg an norzh, Mofu, "Mofu, North", Mofu-Douvangar, Mofu-Duvangar, Mofu-Nord, Mofu-North, Muffo, Muffu, Sjeverni mofu jezik]
 population: 27500
@@ -16,6 +14,10 @@ glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > Biu-Mandara > North Biu-Mandara > Margi-Mandara-Mofu > Mofuic > Mofu > North Mofu"
 wikipedia_url: "https://en.wikipedia.org/wiki/North_Mofu_language"
+translations:
+  - translation_iso: zho
+    name: 北莫夫语
+    auto: true
 rolv_dialects:
   - rolv_code: 2852
     language_tag: mfk-x-HIS02852

@@ -1,8 +1,6 @@
 ---
 iso: vmc
 name: Juxtlahuaca Mixtec
-name_zh: 胡克斯特拉瓦卡混特克语
-name_zh_auto: true
 autonym: Central Juxtlahuaca Mixtec
 alt_names: [Ayutla Mixtec, Central Misteko, Centreal Mixteco, Coastal Guerrero Mixtec, Coicoyán Mixtec, "Mixtec, Juxtlahuaca", Mixteco de Ayutla, Mixteco de Juxtlahuaca, Mixteco del Oeste de Juxtlahuaca, Southern Baja Mixtec, Western Juxtlahuaca Mixtec]
 population: 16000
@@ -15,6 +13,10 @@ glottocode: juxt1235
 glottolog_family_id: otom1299
 glottolog_family_name: Otomanguean
 glottolog_classification: "Otomanguean > Eastern Otomanguean > Amuzgo-Mixtecan > Mixtecan > Mixtec-Cuicatec > Mixtec > Juxtlahuaca Mixtec"
+translations:
+  - translation_iso: zho
+    name: 胡克斯特拉瓦卡混特克语
+    auto: true
 rolv_dialects:
   - rolv_code: 20034
     language_tag: vmc-x-HIS20034

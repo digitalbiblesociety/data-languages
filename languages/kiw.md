@@ -1,8 +1,6 @@
 ---
 iso: kiw
 name: Northeast Kiwai
-name_zh: 东北基瓦伊语
-name_zh_auto: true
 autonym: Gibaio
 alt_names: [Kiwai, "Kiwai, Northeast", Northeastern Kiwai, Urama]
 population: 6000
@@ -15,6 +13,10 @@ glottocode: nort2930
 glottolog_family_id: kiwa1251
 glottolog_family_name: Kiwaian
 glottolog_classification: "Kiwaian > Northeast Kiwai"
+translations:
+  - translation_iso: zho
+    name: 东北基瓦伊语
+    auto: true
 rolv_dialects:
   - rolv_code: 1222
     language_tag: kiw-x-HIS01222

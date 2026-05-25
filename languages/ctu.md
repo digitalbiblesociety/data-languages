@@ -1,7 +1,6 @@
 ---
 iso: ctu
 name: Chol
-name_zh: 喬爾語
 autonym: "Chol, Tumbalá"
 alt_names: ["Ch'ol", "Ch'ol de Sabanilla", "Ch'ol language", Chols, Idioma chol, "Lingua Ch'ol", Língua chol, Tumbalá, Čoli, Чолски јазик, 喬爾語, 촐어]
 population: 252000
@@ -15,6 +14,13 @@ glottolog_family_id: maya1287
 glottolog_family_name: Mayan
 glottolog_classification: "Mayan > Core Mayan > Western Mayan > Cholan-Tzeltalan > Cholan > Chol-Chontal > Chol"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ch%CA%BCol_language"
+translations:
+  - translation_iso: jpn
+    name: チョル語
+  - translation_iso: kor
+    name: 촐어
+  - translation_iso: zho
+    name: 喬爾語
 rolv_dialects:
   - rolv_code: 14
     language_tag: ctu-x-HIS00014

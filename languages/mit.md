@@ -1,8 +1,6 @@
 ---
 iso: mit
 name: Southern Puebla Mixtec
-name_zh: 南普埃布拉混合语
-name_zh_auto: true
 autonym: Acatlán Mixtec
 alt_names: [Central Puebla Mixtec, Chazumba Mixtec, Chigmecatitlán Mixtec, "Mixtec, Southern Puebla", Mixteco de Chazumba, Mixteco de Santa María Chigmecatitlán, Mixteco de la Frontera Puebla-Oaxaca, Mixteco del Sur de Puebla, Northern Baja Mixtec, Northern Oaxaca Mixtec, Southern Misteko, Southern Mixteco, Xayacatlán de Bravo]
 population: 3180
@@ -16,6 +14,10 @@ glottolog_family_id: otom1299
 glottolog_family_name: Otomanguean
 glottolog_classification: "Otomanguean > Eastern Otomanguean > Amuzgo-Mixtecan > Mixtecan > Mixtec-Cuicatec > Mixtec > Northern Baja Mixtec > Southern Puebla Mixtec"
 wikipedia_url: "https://en.wikipedia.org/wiki/Southern_Puebla_Mixtec"
+translations:
+  - translation_iso: zho
+    name: 南普埃布拉混合语
+    auto: true
 rolv_dialects:
   - rolv_code: 2767
     language_tag: mit-x-HIS02767

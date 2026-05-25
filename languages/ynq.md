@@ -1,8 +1,6 @@
 ---
 iso: ynq
 name: Yendang
-name_zh: 延当语
-name_zh_auto: true
 autonym: Kuseki
 population: 50000
 country_id: NG
@@ -15,6 +13,10 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Cameroun-Ubangian > Central Adamawa > Mumuye-Yandang > Yandangic > Waka-Yendang-Teme > Waka-Yandang > Yendang"
 wikipedia_url: "https://en.wikipedia.org/wiki/Yendang_language"
+translations:
+  - translation_iso: zho
+    name: 延当语
+    auto: true
 rolv_dialects:
   - rolv_code: 1878
     language_tag: ynq-x-HIS01878

@@ -1,7 +1,6 @@
 ---
 iso: jsl
 name: Japanese Sign Language
-name_zh: 日本手语
 autonym: 日本手話 Nihon Shuwa
 alt_names: [Língua de Sinais Japonesa, Nihon Shuwa (Japanese Sign Language), Shuwa, Temane, 日本手話, 日本手语]
 population: 126000
@@ -15,5 +14,16 @@ glottolog_family_id: sign1238
 glottolog_family_name: Sign Language
 glottolog_classification: "Sign Language > L1 Sign Language > JSLic > Japanese Sign Language"
 wikipedia_url: "https://en.wikipedia.org/wiki/Japanese_Sign_Language"
+translations:
+  - translation_iso: ara
+    name: لغة الاشارة اليابانية
+  - translation_iso: hin
+    name: जापानी सांकेतिक भाषा
+  - translation_iso: jpn
+    name: 日本手話
+  - translation_iso: kor
+    name: 일본 수화
+  - translation_iso: zho
+    name: 日本手语
 ---
 Japanese Sign Language , also known by the acronym JSL, is the dominant sign language in Japan and is a complete natural language, distinct from but influenced by the spoken Japanese language.

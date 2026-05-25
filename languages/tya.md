@@ -1,8 +1,6 @@
 ---
 iso: tya
 name: Tauya
-name_zh: 陶亚语
-name_zh_auto: true
 autonym: "Fo'upo"
 alt_names: [Inafosa]
 population: 350
@@ -16,6 +14,10 @@ glottolog_family_id: nucl1709
 glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Madang > Rai Coast > Unclassified Rai Coast > Tauya"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tauya_language"
+translations:
+  - translation_iso: zho
+    name: 陶亚语
+    auto: true
 ---
 Tauya is a Rai Coast language spoken in the Ramu River valley, Madang Province, Papua New Guinea by approximately 350 people. 
 The Linguistics Department at the University of Manitoba in Winnipeg, Canada, has Tauya language resources.

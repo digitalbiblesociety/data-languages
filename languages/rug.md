@@ -1,8 +1,6 @@
 ---
 iso: rug
 name: Roviana
-name_zh: 罗维亚纳语
-name_zh_auto: true
 autonym: Robiana
 alt_names: [Rubiana, Ruviana]
 population: 25870
@@ -17,6 +15,12 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > Meso Melanesian linkage > New Ireland-Northwest Solomonic linkage > St George linkage > Northwest Solomonic > New Georgia > East New Georgia > Rovianic > Roviana"
 wikipedia_url: "https://en.wikipedia.org/wiki/Roviana_language"
+translations:
+  - translation_iso: jpn
+    name: ロヴィアナ語
+  - translation_iso: zho
+    name: 罗维亚纳语
+    auto: true
 ---
 Roviana is a member of the North West Solomonic branch of Oceanic languages. It is spoken around Roviana and Vonavona lagoons at the north central New Georgia in the Solomon Islands. It has 10,000 first-language speakers and an additional 16,000 people mostly over 30 years old speak it as a second language. In the past, Roviana was widely used as a trade language and further used as a lingua franca, especially for church purposes in the Western Province, but now it is being replaced by the Solomon Islands Pijin. Published studies on Roviana include: Ray (1926), Waterhouse (1949) and Todd (1978) contain the syntax of Roviana.
 Corston-Oliver discuss ergativity in Roviana.

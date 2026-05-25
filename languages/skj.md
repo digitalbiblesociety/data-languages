@@ -1,8 +1,6 @@
 ---
 iso: skj
 name: Seke (Nepal)
-name_zh: 塞克语（尼泊尔）
-name_zh_auto: true
 autonym: null
 alt_names: [Seke]
 population: 700
@@ -16,6 +14,10 @@ glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Bodic > Kaike-Ghale-Tamangic > Ghale-Tamangic > Tamangic > Seke (Nepal)"
 wikipedia_url: "https://en.wikipedia.org/wiki/Seke_language_(Nepal)"
+translations:
+  - translation_iso: zho
+    name: 塞克语（尼泊尔）
+    auto: true
 rolv_dialects:
   - rolv_code: 26424
     language_tag: skj-x-HIS26424

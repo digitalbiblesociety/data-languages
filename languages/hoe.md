@@ -1,8 +1,6 @@
 ---
 iso: hoe
 name: Horom
-name_zh: 霍罗姆语
-name_zh_auto: true
 autonym: Horom
 alt_names: ["\"Kaleri\"", Kaleri]
 population: 1500
@@ -16,5 +14,9 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Benue-Congo Plateau > Southeastern Benue-Congo Plateau > Horom-Fyem > Horom"
 wikipedia_url: "https://en.wikipedia.org/wiki/Horom_language"
+translations:
+  - translation_iso: zho
+    name: 霍罗姆语
+    auto: true
 ---
 Horom (Rom) is a Plateau language of Nigeria.

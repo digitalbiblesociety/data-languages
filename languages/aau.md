@@ -1,8 +1,6 @@
 ---
 iso: aau
 name: Abau
-name_zh: 阿包语
-name_zh_auto: true
 autonym: null
 alt_names: [Abaoeg, Abau jezik, Djarok, Green River, Język abau, Limba abau, Lingua abau]
 population: 7500
@@ -16,6 +14,12 @@ glottolog_family_id: sepi1257
 glottolog_family_name: Sepik
 glottolog_classification: "Sepik > Abau"
 wikipedia_url: "https://en.wikipedia.org/wiki/Abau_language"
+translations:
+  - translation_iso: jpn
+    name: アバウ語
+  - translation_iso: zho
+    name: 阿包语
+    auto: true
 rolv_dialects:
   - rolv_code: 519
     language_tag: aau-x-HIS00519

@@ -1,8 +1,6 @@
 ---
 iso: mds
 name: Maria (Papua New Guinea)
-name_zh: 玛丽亚语
-name_zh_auto: true
 autonym: Manubara
 alt_names: [Gebi, Maria, Maria language]
 population: 1350
@@ -16,6 +14,10 @@ glottolog_family_id: manu1261
 glottolog_family_name: Manubaran
 glottolog_classification: "Manubaran > Maria (Papua New Guinea)"
 wikipedia_url: "https://en.wikipedia.org/wiki/Maria_language_(Papua_New_Guinea)"
+translations:
+  - translation_iso: zho
+    name: 玛丽亚语
+    auto: true
 rolv_dialects:
   - rolv_code: 605
     language_tag: mds-x-HIS00605

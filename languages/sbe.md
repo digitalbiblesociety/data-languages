@@ -1,8 +1,6 @@
 ---
 iso: sbe
 name: Saliba
-name_zh: 萨利巴语
-name_zh_auto: true
 autonym: null
 alt_names: [Saliba (PNG), Saliba (in Papua New Guinea), Suau]
 population: 2500
@@ -16,6 +14,10 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > Papuan Tip linkage > Nuclear Papuan Tip linkage > Suauic > Suau chain > Saliba"
 wikipedia_url: "https://en.wikipedia.org/wiki/Saliba_language_(Papua_New_Guinea)"
+translations:
+  - translation_iso: zho
+    name: 萨利巴语
+    auto: true
 rolv_dialects:
   - rolv_code: 20033
     language_tag: sbe-x-HIS20033

@@ -1,8 +1,6 @@
 ---
 iso: byd
 name: "Benyadu'"
-name_zh: 本亚杜语
-name_zh_auto: true
 autonym: Benyadu’
 alt_names: [Balantian, Balantiang, Njadu, Nyadu]
 population: 54000
@@ -16,6 +14,10 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Land Dayak > Benyadu-Bekati > Benyadu'"
 wikipedia_url: "https://en.wikipedia.org/wiki/Nyadu%CA%BC_language"
+translations:
+  - translation_iso: zho
+    name: 本亚杜语
+    auto: true
 rolv_dialects:
   - rolv_code: 3792
     language_tag: byd-x-HIS03792

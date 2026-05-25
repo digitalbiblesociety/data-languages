@@ -1,8 +1,6 @@
 ---
 iso: phj
 name: Pahari
-name_zh: 帕哈里语
-name_zh_auto: true
 population: 3500
 country_id: NP
 country_name: Nepal
@@ -13,6 +11,10 @@ glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Himalayish > Mahakiranti > Newaric > Newar > Pahari Newari"
 wikipedia_url: "https://en.wikipedia.org/wiki/Pahari_language_(Sino-Tibetan)"
+translations:
+  - translation_iso: zho
+    name: 帕哈里语
+    auto: true
 rolv_dialects:
   - rolv_code: 29898
     language_tag: phj-x-HIS29898

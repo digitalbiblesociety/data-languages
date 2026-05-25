@@ -1,8 +1,6 @@
 ---
 iso: tia
 name: Tidikelt Tamazight
-name_zh: 蒂迪克尔特塔玛齐格特语
-name_zh_auto: true
 autonym: Tit
 alt_names: [Tamazight, "Tamazight, Tidikelt", Tidikelt, Tidikelt Berber]
 population: 9000
@@ -16,6 +14,14 @@ glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Berber > Greater Zenatic > Zenatic > Northern Saharan Oasis Berber > Tidikelt-Tuat Tamazight"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tidikelt_language"
+translations:
+  - translation_iso: ara
+    name: أمازيغية تيديكلت
+  - translation_iso: jpn
+    name: ティディケルト語
+  - translation_iso: zho
+    name: 蒂迪克尔特塔玛齐格特语
+    auto: true
 rolv_dialects:
   - rolv_code: 17471
     language_tag: tia-x-HIS17471

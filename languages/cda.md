@@ -1,7 +1,6 @@
 ---
 iso: cda
 name: Choni
-name_zh: 卓尼语
 autonym: "Thewo-Chone"
 alt_names: [Chona, Chone, Cone, Jone, 卓尼話]
 population: 154000
@@ -15,6 +14,9 @@ glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Bodic > Bodish > Early Old Tibetan > Middle Old Tibetan > Late Old Tibetan > Eastern Tibetic > Choni"
 wikipedia_url: "https://en.wikipedia.org/wiki/Choni_language"
+translations:
+  - translation_iso: zho
+    name: 卓尼语
 rolv_dialects:
   - rolv_code: 8903
     language_tag: cda-x-HIS08903

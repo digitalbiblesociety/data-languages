@@ -1,7 +1,6 @@
 ---
 iso: btn
 name: Ratagnon
-name_zh: 拉塔各农语
 autonym: Aradigi
 alt_names: [Bisaya, Datagnon, Lactan, Latagnun, Latan, ภาษาราตักนอน]
 population: 2000
@@ -15,6 +14,9 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Greater Central Philippine > Central Philippine > Bisayan > West Bisayan > Kuyan > Datagnon-Santa Teresa-Semirara > Ratagnon"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ratagnon_language"
+translations:
+  - translation_iso: zho
+    name: 拉塔各农语
 rolv_dialects:
   - rolv_code: 15942
     language_tag: btn-x-HIS15942

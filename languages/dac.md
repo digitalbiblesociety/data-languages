@@ -1,8 +1,6 @@
 ---
 iso: dac
 name: Dambi
-name_zh: 达姆比语
-name_zh_auto: true
 autonym: null
 population: 710
 country_id: PG
@@ -14,4 +12,8 @@ glottocode: damb1246
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > North New Guinea linkage > Huon Gulf > South Huon Gulf linkage > Buang linkage > Mumeng > Dambi-Kumaru > Dambi"
+translations:
+  - translation_iso: zho
+    name: 达姆比语
+    auto: true
 ---

@@ -1,8 +1,6 @@
 ---
 iso: mrg
 name: Mising
-name_zh: 米辛语
-name_zh_auto: true
 autonym: Mising–Padam–Minyong
 alt_names: [Hill Miri, Miri, Mishing, Plains Miri, Takam]
 population: 630000
@@ -16,6 +14,14 @@ glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Macro-Tani > Tani > Eastern Tani > Mising-Padam-Miri-Minyong"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mising_language"
+translations:
+  - translation_iso: hin
+    name: मिसिंग भाषा
+  - translation_iso: jpn
+    name: ミシン語
+  - translation_iso: zho
+    name: 米辛语
+    auto: true
 rolv_dialects:
   - rolv_code: 687
     language_tag: mrg-x-HIS00687

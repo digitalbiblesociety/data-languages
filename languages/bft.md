@@ -1,7 +1,6 @@
 ---
 iso: bft
 name: Balti
-name_zh: 巴尔蒂语
 autonym: بلتیསྦལ་འཐུས་
 alt_names: [Bahasa Baltistani, Balta lingvo, Balteg, Balti dialect, Baltistani, Baltí, Baltī, Bhotia of Baltistan, Bhōṭiā of Baltistan, Idioma balti, Lingua Balti, Sbalt, Sbalti, Tibetan (Western), بلتی, لغة بلتي, ภาษาบัลติ, སྦལ་ཏིའི་སྐད།, 巴尔蒂语]
 population: 438800
@@ -16,5 +15,16 @@ glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Bodic > Bodish > Early Old Tibetan > Western Archaic Tibetan > Shamskatic > Balti"
 wikipedia_url: "https://en.wikipedia.org/wiki/Balti_language"
+translations:
+  - translation_iso: ara
+    name: البلتية
+  - translation_iso: hin
+    name: बलती
+  - translation_iso: jpn
+    name: バルティー語
+  - translation_iso: kor
+    name: 발티어
+  - translation_iso: zho
+    name: 巴尔蒂语
 ---
 Balti is a Tibetic language natively spoken by the ethnic Balti people in the Baltistan region of Gilgit-Baltistan, Pakistan, Nubra Valley of the Leh district and the Kargil district of Ladakh, India. The language differs from Standard Tibetan; many sounds of Old Tibetan that were lost in Standard Tibetan are retained in the Balti language. It also has a simple pitch accent system only in multi-syllabic words while Standard Tibetan has a complex and distinct pitch system that includes tone contour. Due to effects of dominant languages in Pakistani media like Urdu, Punjabi and English and religious impact of Arabic and Persian languages, Balti, like other regional languages of Pakistan, is continuously expanding its vocabulary base with loanwords.

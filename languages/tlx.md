@@ -1,8 +1,6 @@
 ---
 iso: tlx
 name: Khehek
-name_zh: 克赫克语
-name_zh_auto: true
 autonym: "Levei-Ndrehet"
 alt_names: [Admiralitäts-inseln, Levei-Drehet]
 population: 1600
@@ -16,6 +14,10 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Admiralty Islands > Eastern Admiralty Islands > Manus > West Manus > West Manus II > Likum-Levei > Khehek"
 wikipedia_url: "https://en.wikipedia.org/wiki/Khehek_language"
+translations:
+  - translation_iso: zho
+    name: 克赫克语
+    auto: true
 rolv_dialects:
   - rolv_code: 11957
     language_tag: tlx-x-HIS11957

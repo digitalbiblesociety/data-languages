@@ -1,8 +1,6 @@
 ---
 iso: ygw
 name: Yagwoia
-name_zh: 亚格沃亚语
-name_zh_auto: true
 autonym: Kokwaiyakwa
 alt_names: [Yeghuye]
 population: 10000
@@ -16,6 +14,12 @@ glottolog_family_id: anga1289
 glottolog_family_name: Angan
 glottolog_classification: "Angan > Nuclear Angan > Yagwoia"
 wikipedia_url: "https://en.wikipedia.org/wiki/Yagwoia_language"
+translations:
+  - translation_iso: jpn
+    name: ヤグウォイア語
+  - translation_iso: zho
+    name: 亚格沃亚语
+    auto: true
 rolv_dialects:
   - rolv_code: 26365
     language_tag: ygw-x-HIS26365

@@ -1,8 +1,6 @@
 ---
 iso: bvl
 name: Bolivian Sign Language
-name_zh: 玻利维亚手语
-name_zh_auto: true
 autonym: Lenguaje de Señas Bolivianas LSB
 alt_names: [Boliviansk tegnspråk, Língua Gestual Boliviana]
 population: 350
@@ -15,4 +13,10 @@ glottocode: boli1236
 glottolog_family_id: sign1238
 glottolog_family_name: Sign Language
 glottolog_classification: "Sign Language > L1 Sign Language > LSFic > ASLic > West-Central South American Sign > Bolivian Sign Language"
+translations:
+  - translation_iso: jpn
+    name: ボリビア手話
+  - translation_iso: zho
+    name: 玻利维亚手语
+    auto: true
 ---

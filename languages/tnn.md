@@ -1,8 +1,6 @@
 ---
 iso: tnn
 name: North Tanna
-name_zh: 北坦纳语
-name_zh_auto: true
 autonym: Nɨnakə
 alt_names: ["Tanna, North", Vanuatu]
 population: 5000
@@ -16,6 +14,10 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Southern Melanesian > Southern Vanuatu > Tanna > Northern Tanna linkage > Whitesands-North Tanna linkage > North Tanna"
 wikipedia_url: "https://en.wikipedia.org/wiki/North_Tanna_language"
+translations:
+  - translation_iso: zho
+    name: 北坦纳语
+    auto: true
 rolv_dialects:
   - rolv_code: 4721
     language_tag: tnn-x-HIS04721

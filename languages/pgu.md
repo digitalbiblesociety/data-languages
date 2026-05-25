@@ -1,8 +1,6 @@
 ---
 iso: pgu
 name: Pagu
-name_zh: 帕古语
-name_zh_auto: true
 autonym: Pago
 alt_names: [Pagoe]
 population: 3310
@@ -16,6 +14,12 @@ glottolog_family_id: nort2923
 glottolog_family_name: North Halmahera
 glottolog_classification: "North Halmahera > Northern North Halmahera > Mainland North Halmaheran > Kao River > Paguic > Pagu"
 wikipedia_url: "https://en.wikipedia.org/wiki/Pagu_language"
+translations:
+  - translation_iso: jpn
+    name: パグ語
+  - translation_iso: zho
+    name: 帕古语
+    auto: true
 rolv_dialects:
   - rolv_code: 15404
     language_tag: pgu-x-HIS15404

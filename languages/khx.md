@@ -1,8 +1,6 @@
 ---
 iso: khx
 name: Kanu
-name_zh: 卡努语
-name_zh_auto: true
 autonym: Kaanu
 alt_names: [Kano, Likanu]
 population: 3500
@@ -15,4 +13,8 @@ glottocode: kanu1278
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > East Bantu > Greater Lega > Mituku-Lega > Lega > Western Lega > Kanu"
+translations:
+  - translation_iso: zho
+    name: 卡努语
+    auto: true
 ---

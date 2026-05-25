@@ -1,8 +1,6 @@
 ---
 iso: bwm
 name: Biwat
-name_zh: 比瓦特语
-name_zh_auto: true
 autonym: Biwat
 alt_names: [Mundokuma, Munduguma, Mundugumor, Mundukumo]
 population: 3040
@@ -16,5 +14,9 @@ glottolog_family_id: yuat1252
 glottolog_family_name: Yuat
 glottolog_classification: "Yuat > Miyak-Bun-Biwat > Bun-Mundukumo > Biwat"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mundugumor_language"
+translations:
+  - translation_iso: zho
+    name: 比瓦特语
+    auto: true
 ---
 Mundugumor a.k.a. Biwat is a Yuat language of Papua New Guinea. It is spoken in Biwat village of Yuat Rural LLG, East Sepik Province.

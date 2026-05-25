@@ -1,8 +1,6 @@
 ---
 iso: pst
 name: Central Pashto
-name_zh: 中部普什图语
-name_zh_auto: true
 autonym: Mahsudi
 alt_names: [Pakhto, Pashto, "Pashto, Central", Peshwari]
 population: 6520000
@@ -16,6 +14,12 @@ glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Iranian-Nuristani > Iranian > Pashto > Nuclear Pashto > Central Pashto"
 wikipedia_url: "https://en.wikipedia.org/wiki/Central_Pashto"
+translations:
+  - translation_iso: jpn
+    name: 中部パシュトー語
+  - translation_iso: zho
+    name: 中部普什图语
+    auto: true
 rolv_dialects:
   - rolv_code: 851
     language_tag: pst-x-HIS00851

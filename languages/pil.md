@@ -1,8 +1,6 @@
 ---
 iso: pil
 name: Yom
-name_zh: 约姆语
-name_zh_auto: true
 autonym: Pila
 alt_names: [Kpilakpila, Pilapila]
 population: 214000
@@ -16,6 +14,10 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Gur > Central Gur > Northern Central Gur > Bwamu-Oti-Volta > Oti-Volta > Nuclear Oti-Volta > Gurma-Yom-Oti-Volta Occidental > Gurma-Yom-Naudem > Yom-Nawdm > Yom"
 wikipedia_url: "https://en.wikipedia.org/wiki/Yom_language"
+translations:
+  - translation_iso: zho
+    name: 约姆语
+    auto: true
 rolv_dialects:
   - rolv_code: 4142
     language_tag: pil-x-HIS04142

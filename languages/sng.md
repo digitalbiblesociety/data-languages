@@ -1,8 +1,6 @@
 ---
 iso: sng
 name: Sanga (Democratic Republic of Congo)
-name_zh: 桑加语（刚果民主共和国）
-name_zh_auto: true
 autonym: Kisanga
 alt_names: [Luba-Garenganze, Luba-Sanga, Sanga, Southern Luba]
 population: 431000
@@ -16,6 +14,12 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > Central-Western Bantu > Luban > Luba-Kaonde > Kaonde-Shaba-Sanga > Sanga (Democratic Republic of Congo)"
 wikipedia_url: "https://en.wikipedia.org/wiki/Sanga_language_(Bantu)"
+translations:
+  - translation_iso: jpn
+    name: サンガ語
+  - translation_iso: zho
+    name: 桑加语（刚果民主共和国）
+    auto: true
 rolv_dialects:
   - rolv_code: 1527
     language_tag: sng-x-HIS01527

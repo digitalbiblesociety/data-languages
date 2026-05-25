@@ -1,7 +1,6 @@
 ---
 iso: cul
 name: Culina
-name_zh: 庫利納語
 autonym: Corina
 alt_names: [Culina (Brésil), Culina (Madija), Culina (Perú), Culina (Pérou), Culinha, Culino, Culiña, Cuniba, Curina, Idioma culina, Kollina, Korina, Koulineg, Kulina, Kulino, Kulyna, Kulína, Kurina, Madiha, Madihá, Madija, Кулина, Кулинаски јазик]
 population: 3420
@@ -15,5 +14,8 @@ glottolog_family_id: araw1282
 glottolog_family_name: Arawan
 glottolog_classification: "Arawan > Madi-Madiha > Madiha > Culina"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kulina_language"
+translations:
+  - translation_iso: zho
+    name: 庫利納語
 ---
 Kulina is an Arawan language of Brazil and Peru spoken by about 4,000 Kulina people. With such few speakers, Kulina is considered a threatened language.

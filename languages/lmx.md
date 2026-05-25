@@ -1,8 +1,6 @@
 ---
 iso: lmx
 name: Laimbue
-name_zh: 莱姆布埃语
-name_zh_auto: true
 autonym: null
 alt_names: [Cameroon]
 population: 5000
@@ -16,5 +14,9 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Wide Grassfields > Narrow Grassfields > Ring > Center-West Ring > West Ring > Laimbue"
 wikipedia_url: "https://en.wikipedia.org/wiki/Laimbue_language"
+translations:
+  - translation_iso: zho
+    name: 莱姆布埃语
+    auto: true
 ---
 Laimbue is a Grassfields Bantu language of Cameroon.

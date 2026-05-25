@@ -1,7 +1,6 @@
 ---
 iso: maf
 name: Mafa
-name_zh: 马法语
 autonym: Mafahay
 alt_names: ["\"Matakam\"", Bula, Bulahai, Matakam, Mofa, Natakan]
 population: 214910
@@ -16,6 +15,13 @@ glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > Biu-Mandara > South Biu-Mandara > Matakam > Mafa"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mafa_language"
+translations:
+  - translation_iso: jpn
+    name: マファ語
+  - translation_iso: kor
+    name: 마파어
+  - translation_iso: zho
+    name: 马法语
 rolv_dialects:
   - rolv_code: 3107
     language_tag: maf-x-HIS03107

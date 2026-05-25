@@ -1,8 +1,6 @@
 ---
 iso: tls
 name: Tambotalo
-name_zh: 坦博塔洛语
-name_zh_auto: true
 autonym: Biliru
 population: 50
 country_id: VU
@@ -15,6 +13,10 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > North and Central Vanuatu > Northern Vanuatu > Espiritu Santo > Nuclear Santo > East Santo > Southeast Santo > Tambotalo"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tambotalo_language"
+translations:
+  - translation_iso: zho
+    name: 坦博塔洛语
+    auto: true
 rolv_dialects:
   - rolv_code: 30634
     language_tag: tls-x-HIS30634

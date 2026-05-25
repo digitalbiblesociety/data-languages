@@ -1,8 +1,6 @@
 ---
 iso: sws
 name: Seluwasan
-name_zh: 塞卢瓦桑语
-name_zh_auto: true
 autonym: Selvasa
 alt_names: [Selwasa]
 population: 2100
@@ -16,6 +14,10 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Timor-Babar > Southwest Maluku > South Tanimbar > Seluwasan"
 wikipedia_url: "https://en.wikipedia.org/wiki/Seluwasan_language"
+translations:
+  - translation_iso: zho
+    name: 塞卢瓦桑语
+    auto: true
 rolv_dialects:
   - rolv_code: 16454
     language_tag: sws-x-HIS16454

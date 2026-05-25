@@ -1,8 +1,6 @@
 ---
 iso: tcw
 name: Tecpatlán Totonac
-name_zh: 特普特兰托托纳克语
-name_zh_auto: true
 autonym: null
 alt_names: [Tecpatlan Totonac, Totonac, "Totonac, Tecpatlán", Totonacano de Patla, Totonacano filomeno mata-coahuillán, Totonaco, Totonako, Totonaque de Filomeno Mata, Totonaque de Patla-Chicontla]
 population: 540
@@ -16,5 +14,9 @@ glottolog_family_id: toto1251
 glottolog_family_name: Totonacan
 glottolog_classification: "Totonacan > Totonac > Central Totonacan > Northern Totonacan > Necaxan > Tecpatlán Totonac"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tecpatl%C3%A1n_Totonac"
+translations:
+  - translation_iso: zho
+    name: 特普特兰托托纳克语
+    auto: true
 ---
 Tecpatlán Totonac is a Totonac language of central Mexico.

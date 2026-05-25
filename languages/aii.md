@@ -1,7 +1,6 @@
 ---
 iso: aii
 name: "Assyrian Neo-Aramaic"
-name_zh: 亚述新亚拉姆语
 autonym: Sūreṯ
 alt_names: [Aisorski, Ashirat Neo-Aramaic, Asirat Northeastern Neo-Aramaic, Asirski novoaramejski, Assyrian, Assyrianci, Assyrisch-Neuaramäische Sprache, Assyrisk Neo-Arameiska, Assyriski, Assyríska, Aturayeg, Aširat Northeastern Neo-Aramaic, Lishana Aturaya, NENA, Neo-Aramaic (Assyrian), "Neo-Aramaic, Assyrian", Neo-Syriac, Neo-arameo oriental, Neoarameo asirio, Sooreth, Soureth, Suret, Sureth, Suryaya Swadaya, Асириски неоарамејски јазик, ܣܘܪܬ, ภาษาอราเมอิกใหม่อัสซีเรีย]
 population: 626000
@@ -16,6 +15,17 @@ glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Semitic > West Semitic > Central Semitic > Northwest Semitic > Aramaic > Imperial-Middle-Modern Aramaic > Middle-Modern Aramaic > Eastern Aramaic > Central Eastern Aramaic > North-Eastern Neo-Aramaic > Assyrian Neo-Aramaic"
 wikipedia_url: "https://en.wikipedia.org/wiki/Suret_language"
+translations:
+  - translation_iso: ara
+    name: لهجة آرامية آشورية حديثة
+  - translation_iso: hin
+    name: आशूरी भाषा
+  - translation_iso: jpn
+    name: アッシリア現代アラム語
+  - translation_iso: kor
+    name: 아시리아 신아람어
+  - translation_iso: zho
+    name: 亚述新亚拉姆语
 rolv_dialects:
   - rolv_code: 24222
     language_tag: aii-x-HIS24222

@@ -1,8 +1,6 @@
 ---
 iso: bfc
 name: Panyi Bai
-name_zh: 白语
-name_zh_auto: true
 autonym: 白语 Báiyǔ
 alt_names: [Bai, "Bai, Northern", "Bai, Panyi", "Bai,Northern", Bijang Bai, Laemae, Lama, Northern Bai]
 population: 35000
@@ -15,6 +13,10 @@ glottocode: nort2724
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Macro-Bai > Baic > Northern Bai"
+translations:
+  - translation_iso: zho
+    name: 白语
+    auto: true
 rolv_dialects:
   - rolv_code: 23803
     language_tag: bfc-x-HIS23803

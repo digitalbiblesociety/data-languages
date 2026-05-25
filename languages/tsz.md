@@ -1,7 +1,6 @@
 ---
 iso: tsz
 name: Purepecha
-name_zh: 塔拉斯坎语
 autonym: Tarascan
 alt_names: [Phorhépecha, Porhé, Purépecha, Tarascan Isolate, Tarasco, Tarasko]
 population: 55000
@@ -15,6 +14,13 @@ glottolog_family_id: tara1323
 glottolog_family_name: Tarascan
 glottolog_classification: "Tarascan > Purepecha"
 wikipedia_url: "https://en.wikipedia.org/wiki/Pur%C3%A9pecha_language"
+translations:
+  - translation_iso: jpn
+    name: タラスコ語
+  - translation_iso: kor
+    name: 푸레페차어
+  - translation_iso: zho
+    name: 塔拉斯坎语
 rolv_dialects:
   - rolv_code: 25402
     language_tag: tsz-x-HIS25402

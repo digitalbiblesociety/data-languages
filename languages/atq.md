@@ -1,8 +1,6 @@
 ---
 iso: atq
 name: "Aralle-Tabulahan"
-name_zh: 阿拉莱-塔布拉汉语
-name_zh_auto: true
 autonym: Ahalle
 population: 29300
 country_id: ID
@@ -15,6 +13,10 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Greater South Sulawesi > South Sulawesi > Northern South Sulawesi > Pitu Ulunna Salu > Matangnga-Aralle-Tabulahan > Aralle-Tabulahan"
 wikipedia_url: "https://en.wikipedia.org/wiki/Aralle-Tabulahan_language"
+translations:
+  - translation_iso: zho
+    name: 阿拉莱-塔布拉汉语
+    auto: true
 rolv_dialects:
   - rolv_code: 7172
     language_tag: atq-x-HIS07172

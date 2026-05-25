@@ -1,7 +1,6 @@
 ---
 iso: tcy
 name: Tulu
-name_zh: 图卢语
 autonym: ತುಳು
 alt_names: [Język tulu, Lingua Tuluva, Tal, Tallu, Thalu, Thulu, Tilu, Touloueg, Tullu, Tuluva Bhasa, Tulú, Tuḷu, Тулу, तुळु, துளு, తుళు, തുളു, ภาษาตูลู]
 population: 1850000
@@ -16,6 +15,17 @@ glottolog_family_id: drav1251
 glottolog_family_name: Dravidian
 glottolog_classification: "Dravidian > South Dravidian > South Dravidian I > South-Western Dravidian > Tuluic > Tulu"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tulu_language"
+translations:
+  - translation_iso: ara
+    name: لغة تولو
+  - translation_iso: hin
+    name: तुलु
+  - translation_iso: jpn
+    name: トゥル語
+  - translation_iso: kor
+    name: 툴루어
+  - translation_iso: zho
+    name: 图卢语
 rolv_dialects:
   - rolv_code: 4082
     language_tag: tcy-x-HIS04082

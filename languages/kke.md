@@ -1,8 +1,6 @@
 ---
 iso: kke
 name: Kakabe
-name_zh: 卡卡贝语
-name_zh_auto: true
 autonym: Fulajon Kan
 alt_names: [Jon Kule, Ourekabakan]
 population: 4100
@@ -16,6 +14,10 @@ glottolog_family_id: mand1469
 glottolog_family_name: Mande
 glottolog_classification: "Mande > Western Mande > Manding-Kpelle > Central Mande > Manding-Jogo > Manding-Vai > Manding-Mokole > Nuclear Mokole > Mixiforic > Kakabe"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kakabe_language"
+translations:
+  - translation_iso: zho
+    name: 卡卡贝语
+    auto: true
 rolv_dialects:
   - rolv_code: 26580
     language_tag: kke-x-HIS26580

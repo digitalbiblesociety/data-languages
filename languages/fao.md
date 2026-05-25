@@ -1,7 +1,6 @@
 ---
 iso: fao
 name: Faroese
-name_zh: 法罗语
 autonym: føroyskt mál
 alt_names: [Bahasa Faroe, Faaroish, Faerana linguo, Faeroeg, Faeroese, Faeroyès, Faeröars, Faeröers, Faeröersk, Faerčina, Faerština, Farer tili, Farerų kalba, Faroece, Faroeera, Faroese Islands, Faroisc sprǣc, Faroyek, Faroés, Faroëes, Farski jezik, Farėru kalba, Fearagiella, Feroa lingvo, Feroès, Feroés, Feröeri nyelv, Ferščina, Färöische Sprache, Färöische Språch, Färöiska, Färöšćina, Fääri keel, Fäärin kieli, Færeyska, Færøsk, Færøysk, Færøysk språk, Féroïen, Føroyskt, Fēriešu valoda, Idioma feroés, Język farerski, Lenga faroèisa, Limba feroeză, Lingua Faroensis, Lingua faroesa, Lingua faroese, Lingua faruisa, Lingua feroesa, Lèngoa farœnse, Língua feroesa, Zimanê feroeyî, Łéngua faroexe, Алифбои фароесӣ, Фарер йылме, Фарераг æвзаг, Фарерский язык, Фарерська мова, Фарски јазик, Фарэрская мова, Ферьорски език, زبان فاروئی, فائېروس تىل, فاروئى, لغة فاروية, फ़रोइस भाषा, ফারোয়েজীয় ভাষা, ภาษาแฟโร, ფარერული ენა, ፋሮኛ, フェロー語, 法罗语, 페로어]
 population: 69000
@@ -16,5 +15,16 @@ glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Germanic > Northwest Germanic > North Germanic > West Scandinavian > Icelandic-Faroese > Faroese"
 wikipedia_url: "https://en.wikipedia.org/wiki/Faroese_language"
+translations:
+  - translation_iso: ara
+    name: الفاروية
+  - translation_iso: hin
+    name: फ़रोइस भाषा
+  - translation_iso: jpn
+    name: フェロー語
+  - translation_iso: kor
+    name: 페로어
+  - translation_iso: zho
+    name: 法罗语
 ---
 Faroese is a North Germanic language spoken as a first language by about 69,000 Faroe Islanders, of whom 21,000 reside mainly in Denmark and elsewhere.

@@ -1,7 +1,6 @@
 ---
 iso: ysg
 name: Sonaga
-name_zh: 锁内嘎话
 autonym: Suoneiga
 population: 2000
 country_id: CN
@@ -14,5 +13,8 @@ glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Burmo-Qiangic > Lolo-Burmese > Loloish > Ni-Li-Kazhouish > Lisoid > Nuclear Lisoid > Lisu-Laluba-Lavu > Laluba-Lavu > Kuansi-Kuamasi-Sonaga > Sonaga"
 wikipedia_url: "https://en.wikipedia.org/wiki/Sonaga_language"
+translations:
+  - translation_iso: zho
+    name: 锁内嘎话
 ---
 Sonaga is a Loloish language of Heqing County, Yunnan, China. Sonaga is spoken in Dongdeng 东登 of Xinfeng Village 新峰村, Caohai Township 草海乡, Heqing County.

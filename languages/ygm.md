@@ -1,8 +1,6 @@
 ---
 iso: ygm
 name: Yagomi
-name_zh: 亚戈米语
-name_zh_auto: true
 autonym: Asat
 population: 280
 country_id: PG
@@ -15,5 +13,9 @@ glottolog_family_id: nucl1709
 glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Finisterre-Huon > Finisterre-Saruwaged > Warup > Nuclear Warup > Degenanic > Tanda-Yagomi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tand%C9%A8_language"
+translations:
+  - translation_iso: zho
+    name: 亚戈米语
+    auto: true
 ---
 Tandɨ (Tanda) is a nearly extinct Finisterre language spoken in Yagomi village of Rai Coast Rural LLG, Madang Province.

@@ -1,8 +1,6 @@
 ---
 iso: baf
 name: Nubaca
-name_zh: 努巴卡语
-name_zh_auto: true
 autonym: Nubaca
 alt_names: [Baca, Bango, Bongo, Nu Baca]
 population: 4500
@@ -16,6 +14,10 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > Mbam-Bubi > Mbam > Nubaca"
 wikipedia_url: "https://en.wikipedia.org/wiki/Baca_language"
+translations:
+  - translation_iso: zho
+    name: 努巴卡语
+    auto: true
 rolv_dialects:
   - rolv_code: 24317
     language_tag: baf-x-HIS24317

@@ -1,8 +1,6 @@
 ---
 iso: tnk
 name: Kwamera
-name_zh: 夸梅拉语
-name_zh_auto: true
 autonym: South Tanna
 alt_names: [Vanuatu]
 population: 3500
@@ -16,6 +14,10 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Southern Melanesian > Southern Vanuatu > Tanna > Southern Tanna > Kwamera"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kwamera_language"
+translations:
+  - translation_iso: zho
+    name: 夸梅拉语
+    auto: true
 rolv_dialects:
   - rolv_code: 4472
     language_tag: tnk-x-HIS04472

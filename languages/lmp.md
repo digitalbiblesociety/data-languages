@@ -1,8 +1,6 @@
 ---
 iso: lmp
 name: Limbum
-name_zh: 林布姆语
-name_zh_auto: true
 autonym: Limbum
 alt_names: [Bojiin, Kambu, Limbom, Llimbumi, Ndzungle, Ndzungli, Njungene, Nsungali, Nsungli, Nsungni, Wimbum]
 population: 130000
@@ -16,6 +14,10 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Wide Grassfields > Narrow Grassfields > Mbam-Nkam > Nkambe > Limbum"
 wikipedia_url: "https://en.wikipedia.org/wiki/Limbum_language"
+translations:
+  - translation_iso: zho
+    name: 林布姆语
+    auto: true
 rolv_dialects:
   - rolv_code: 4758
     language_tag: lmp-x-HIS04758

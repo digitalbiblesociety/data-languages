@@ -1,8 +1,6 @@
 ---
 iso: tkw
 name: Teanu
-name_zh: 蒂亚努语
-name_zh_auto: true
 autonym: Teanu
 alt_names: [Buma, Buma (Solomon Islands), Buma (in Solomon Islands), Puma]
 population: 520
@@ -16,5 +14,9 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Temotu > Utupua-Vanikoro > Teanu"
 wikipedia_url: "https://en.wikipedia.org/wiki/Teanu_language"
+translations:
+  - translation_iso: zho
+    name: 蒂亚努语
+    auto: true
 ---
 Teanu is the main language spoken on the island of Vanikoro, in the easternmost province of the Solomon Islands.

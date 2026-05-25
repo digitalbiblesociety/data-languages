@@ -1,7 +1,6 @@
 ---
 iso: ths
 name: Thakali
-name_zh: 塔卡利语
 autonym: Barhagaule
 alt_names: [Marphatan Thakali, Panchgaunle, Tapaang, Thakali Marphatan, Thaksya, Thāksya]
 population: 12973
@@ -15,6 +14,9 @@ glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Bodic > Kaike-Ghale-Tamangic > Ghale-Tamangic > Tamangic > Gurungic > Thakali-Chantyal > Thakali"
 wikipedia_url: "https://en.wikipedia.org/wiki/Thakali_language"
+translations:
+  - translation_iso: zho
+    name: 塔卡利语
 rolv_dialects:
   - rolv_code: 4449
     language_tag: ths-x-HIS04449

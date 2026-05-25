@@ -1,8 +1,6 @@
 ---
 iso: tbc
 name: Takia
-name_zh: 塔基亚语
-name_zh_auto: true
 autonym: null
 population: 25000
 country_id: PG
@@ -15,6 +13,10 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > North New Guinea linkage > Ngero-Vitiaz linkage > Vitiaz linkage > Bel-Roinji-Nenaya > Bel > Western Bel > Takia"
 wikipedia_url: "https://en.wikipedia.org/wiki/Takia_language"
+translations:
+  - translation_iso: zho
+    name: 塔基亚语
+    auto: true
 rolv_dialects:
   - rolv_code: 17089
     language_tag: tbc-x-HIS17089

@@ -1,8 +1,6 @@
 ---
 iso: bld
 name: Bolango
-name_zh: 博兰戈语
-name_zh_auto: true
 autonym: "Bulanga-Uki"
 alt_names: [Bulanga, Diu]
 population: 15000
@@ -16,6 +14,12 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Greater Central Philippine > Gorontalo-Mongondow > Gorontalic > Bolango"
 wikipedia_url: "https://en.wikipedia.org/wiki/Bolango_language"
+translations:
+  - translation_iso: jpn
+    name: ボランゴ語
+  - translation_iso: zho
+    name: 博兰戈语
+    auto: true
 rolv_dialects:
   - rolv_code: 8262
     language_tag: bld-x-HIS08262

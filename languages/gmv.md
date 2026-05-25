@@ -1,8 +1,6 @@
 ---
 iso: gmv
 name: Gamo
-name_zh: 加莫语
-name_zh_auto: true
 autonym: null
 alt_names: [Dache, Gemu, Gereze]
 population: 1630000
@@ -15,6 +13,10 @@ glottocode: gamo1243
 glottolog_family_id: gong1255
 glottolog_family_name: Ta-Ne-Omotic
 glottolog_classification: "Ta-Ne-Omotic > Ometo > North-West Ometo > Central Ometo > Dawro-Gofa-Gamo > Gamo"
+translations:
+  - translation_iso: zho
+    name: 加莫语
+    auto: true
 rolv_dialects:
   - rolv_code: 1442
     language_tag: gmv-x-HIS01442

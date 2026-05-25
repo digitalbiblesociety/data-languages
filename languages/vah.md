@@ -1,7 +1,6 @@
 ---
 iso: vah
 name: "Varhadi-Nagpuri"
-name_zh: 瓦尔哈迪语
 autonym: Varhadi–Nagpuri
 alt_names: [Berar Marathi, Berari, Dhanagari, Kumbhari, Madhya Pradesh Marathi]
 population: 6970000
@@ -15,6 +14,13 @@ glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Indo-Aryan > Middle-Modern Indo-Aryan > Continental Indo-Aryan > Indo-Aryan Southern zone > Marathic > Marathi-Konkani > Old-Modern Marathi > Modern Marathi > Varhadi-Nagpuri"
 wikipedia_url: "https://en.wikipedia.org/wiki/Varhadi_dialect"
+translations:
+  - translation_iso: hin
+    name: वर्हाडी बोली
+  - translation_iso: jpn
+    name: ヴァルハディ＝ナーグプリ語
+  - translation_iso: zho
+    name: 瓦尔哈迪语
 rolv_dialects:
   - rolv_code: 3979
     language_tag: vah-x-HIS03979

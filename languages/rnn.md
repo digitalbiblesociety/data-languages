@@ -1,8 +1,6 @@
 ---
 iso: rnn
 name: Roon
-name_zh: 罗恩语
-name_zh_auto: true
 autonym: Ron
 population: 1100
 country_id: ID
@@ -15,5 +13,9 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > South Halmahera-West New Guinea > Cenderawasih Bay > Biakic > Biak-Roon > Roon"
 wikipedia_url: "https://en.wikipedia.org/wiki/Roon_language"
+translations:
+  - translation_iso: zho
+    name: 罗恩语
+    auto: true
 ---
 Roon (Ron) is an Austronesian language spoken in West Papua Province, Indonesia.

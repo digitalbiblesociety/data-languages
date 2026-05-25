@@ -1,7 +1,6 @@
 ---
 iso: jbu
 name: Jukun Takum
-name_zh: 朱昆语
 autonym: Jukun Takum
 alt_names: [Diyi, Diyu, Jukun, Njikum, Takum]
 population: 2440
@@ -15,6 +14,11 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Jukunoid > Central Jukunoid > Jukun-Mbembe-Wurbo > Jukun > Jibu-Wase > Jibuic > Jukun Takum"
 wikipedia_url: "https://en.wikipedia.org/wiki/Jukun_Takum_language"
+translations:
+  - translation_iso: jpn
+    name: 非Jukunoid語
+  - translation_iso: zho
+    name: 朱昆语
 rolv_dialects:
   - rolv_code: 1763
     language_tag: jbu-x-HIS01763

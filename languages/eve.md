@@ -1,7 +1,6 @@
 ---
 iso: eve
 name: Even
-name_zh: 鄂温语
 autonym: эвэды торэн (evedy toren)
 alt_names: [Bahasa Even, Eben, Eveens, Even nyelv, Evena lingvo, Eveneg, Evenin kieli, Evensk, Evensk språk, Evenčina, Evenų kalba, Ewen, Ewenische, Ewenische Sprache, Ilqan, Język eweński, Lamut, Lamuti, Lamutische, Lingua evena, Língua even, Northeastern Tungus, Orich, Tungusisabatschi, "eved'i toren", lama-dī, Évène, Евенски език, Евенски јазик, Эбээн тыла, ламутский язык, эвенский язык, эвэды торэн]
 population: 21800
@@ -15,6 +14,13 @@ glottolog_family_id: tung1282
 glottolog_family_name: Tungusic
 glottolog_classification: "Tungusic > Northeastern Tungusic > Northern Tungusic > Ewenic > Even"
 wikipedia_url: "https://en.wikipedia.org/wiki/Even_language"
+translations:
+  - translation_iso: jpn
+    name: エヴェン語
+  - translation_iso: kor
+    name: 에벤어
+  - translation_iso: zho
+    name: 鄂温语
 rolv_dialects:
   - rolv_code: 9671
     language_tag: eve-x-HIS09671

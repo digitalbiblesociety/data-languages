@@ -1,8 +1,6 @@
 ---
 iso: xke
 name: Kereho
-name_zh: 克雷荷语
-name_zh_auto: true
 autonym: Kereho
 alt_names: [Kereho-Uheng, Keriau Punan]
 population: 500
@@ -16,6 +14,10 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > North Borneo Malayo-Polynesian > Central Sarawak > Punan-Muller-Schwaner > Muller-Schwaner > Hovongan-Kereho > Kereho"
 wikipedia_url: "https://en.wikipedia.org/wiki/Krio_Dayak_language"
+translations:
+  - translation_iso: zho
+    name: 克雷荷语
+    auto: true
 rolv_dialects:
   - rolv_code: 26000
     language_tag: xke-x-HIS26000

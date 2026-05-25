@@ -1,8 +1,6 @@
 ---
 iso: obu
 name: Obulom
-name_zh: 奥布洛姆语
-name_zh_auto: true
 autonym: Abuloma
 alt_names: [Obulomic, Obulum]
 population: 3420
@@ -16,5 +14,9 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Delta Cross > Central Delta > Abua-Odual > Obulom-Ochichi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Obulom_language"
+translations:
+  - translation_iso: zho
+    name: 奥布洛姆语
+    auto: true
 ---
 Obulom is a Central Delta language of Rivers State, Nigeria.

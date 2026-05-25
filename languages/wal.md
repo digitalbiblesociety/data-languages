@@ -1,7 +1,6 @@
 ---
 iso: wal
 name: Wolaytta
-name_zh: 沃莱塔语
 autonym: Wolayttatto Doonaa
 alt_names: [Borodda, Gemu, Gofa, Idioma welayta, Malo, Ometo, Ualamo, Uba, Uollamo, Walamo, Wallamo, Welaitta, Welamo, Wellamo, Wolaita, Wolaiteg, Wolaitta, Wolamo, Wolataita, Wolayta, Wollamo, Zala, ወላይትኛ]
 population: 2380000
@@ -16,5 +15,16 @@ glottolog_family_id: gong1255
 glottolog_family_name: Ta-Ne-Omotic
 glottolog_classification: "Ta-Ne-Omotic > Ometo > North-West Ometo > Central Ometo > Wolaytta"
 wikipedia_url: "https://en.wikipedia.org/wiki/Wolaytta_language"
+translations:
+  - translation_iso: ara
+    name: الولاياتا
+  - translation_iso: hin
+    name: वलामो
+  - translation_iso: jpn
+    name: ウォライタ語
+  - translation_iso: kor
+    name: 월라이타어
+  - translation_iso: zho
+    name: 沃莱塔语
 ---
 Wolaitta or Wolayttatto Doonaa is a North Omotic language of the Ometo group spoken in the Wolayita Zone and some other parts of southwestern Ethiopia. It is the native language of the Welayta people. The estimates of the population vary greatly because it is not agreed where the boundaries of the language are.

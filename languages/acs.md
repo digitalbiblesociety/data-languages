@@ -1,8 +1,6 @@
 ---
 iso: acs
 name: Acroá
-name_zh: 阿克罗亚语
-name_zh_auto: true
 autonym: Coroá
 alt_names: [Acroa, Acroamirim, Akroá, Koroá]
 population: null
@@ -16,5 +14,9 @@ glottolog_family_id: nucl1710
 glottolog_family_name: Nuclear-Macro-Je
 glottolog_classification: "Nuclear-Macro-Je > Je > Cerrado > Central Je > Acroá"
 wikipedia_url: "https://en.wikipedia.org/wiki/Acro%C3%A1_language"
+translations:
+  - translation_iso: zho
+    name: 阿克罗亚语
+    auto: true
 ---
 Acroá is an extinct Akuwẽ language of Brazil. It was spoken by the Acroá people around the headwaters of the Parnaíba and of the Paranaíba in Bahia, who were later settled in the missions of São José do Duro (Formiga) and in São José de Mossâmedes. The language went extinct before it could be properly documented; it is only known through a short wordlist collected by Carl Friedrich Philipp von Martius. Due to an account of Martius' travels appearing in three large volumes from 1823 to 1831, the language probably went extinct sometime around then. Acroá is also known as Akroá, Acroamirim, Coroá and Koroá.

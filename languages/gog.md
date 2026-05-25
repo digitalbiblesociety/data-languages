@@ -1,8 +1,6 @@
 ---
 iso: gog
 name: Gogo
-name_zh: 戈戈语
-name_zh_auto: true
 autonym: Cigogo
 alt_names: [Chigogo, Język gogo, Kigogo, Língua gogo]
 population: 1080000
@@ -16,6 +14,14 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > East Bantu > Northeast Savanna Bantu > Northeast Coastal Bantu > Ruvu > West Ruvu > Gogo"
 wikipedia_url: "https://en.wikipedia.org/wiki/Gogo_language"
+translations:
+  - translation_iso: hin
+    name: गोगो भाषा
+  - translation_iso: jpn
+    name: ゴゴ語
+  - translation_iso: zho
+    name: 戈戈语
+    auto: true
 rolv_dialects:
   - rolv_code: 25032
     language_tag: gog-x-HIS25032

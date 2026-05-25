@@ -1,8 +1,6 @@
 ---
 iso: jko
 name: Kubo
-name_zh: 库博语
-name_zh_auto: true
 autonym: null
 population: 1000
 country_id: PG
@@ -15,5 +13,9 @@ glottolog_family_id: east2433
 glottolog_family_name: East Strickland
 glottolog_classification: "East Strickland > Kubo-Samo-Bibo > Kubo"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kubo_language"
+translations:
+  - translation_iso: zho
+    name: 库博语
+    auto: true
 ---
 Kubo is a Trans–New Guinea language of New Guinea, spoken in the plains of the Strickland River.

@@ -1,8 +1,6 @@
 ---
 iso: fap
 name: Paloor
-name_zh: 帕洛尔语
-name_zh_auto: true
 autonym: Falor
 alt_names: [Palar, Palor, Sili, Sili-Sili, Waro]
 population: 10700
@@ -16,6 +14,10 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Cangin > Palor-Ndut > Palor"
 wikipedia_url: "https://en.wikipedia.org/wiki/Palor_language"
+translations:
+  - translation_iso: zho
+    name: 帕洛尔语
+    auto: true
 rolv_dialects:
   - rolv_code: 24884
     language_tag: fap-x-HIS24884

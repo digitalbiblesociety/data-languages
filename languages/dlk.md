@@ -1,7 +1,6 @@
 ---
 iso: dlk
 name: Dahalik
-name_zh: 達哈利克語
 autonym: Dahaalik
 alt_names: [Dahlak, Dahālík]
 population: 2500
@@ -15,5 +14,12 @@ glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Semitic > West Semitic > Ethiosemitic > Tigre-Dahalik > Dahalik"
 wikipedia_url: "https://en.wikipedia.org/wiki/Dahalik_language"
+translations:
+  - translation_iso: ara
+    name: الدهلكية
+  - translation_iso: jpn
+    name: ダフラク語
+  - translation_iso: zho
+    name: 達哈利克語
 ---
 Dahalik is an endangered Afroasiatic language spoken exclusively in the Dahlak Archipelago in Eritrea. Its speech area is off the coast of Massawa, on three islands in the Dahlak Archipelago: Dahlak Kebir, Nora, and Dehil.

@@ -1,8 +1,6 @@
 ---
 iso: tgy
 name: Togoyo
-name_zh: 托格约语
-name_zh_auto: true
 autonym: Togoy
 population: null
 country_id: SS
@@ -15,5 +13,11 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Cameroun-Ubangian > Ubangi > Ubangi Ka > Sereic > Sere-Indri > Indri-Togoyo > Togoyo"
 wikipedia_url: "https://en.wikipedia.org/wiki/Togoyo_language"
+translations:
+  - translation_iso: jpn
+    name: トゴヨ語
+  - translation_iso: zho
+    name: 托格约语
+    auto: true
 ---
 Togoyo (Togoy) is an extinct Ubangian language of South Sudan.

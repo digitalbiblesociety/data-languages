@@ -1,8 +1,6 @@
 ---
 iso: arv
 name: Arbore
-name_zh: 阿尔博雷语
-name_zh_auto: true
 autonym: Arbora
 alt_names: [Arbore hizkuntza, Arbore jezik, Arborie, Arboré, Erbore, Irbore, Lenga Arbore]
 population: 3907
@@ -16,5 +14,9 @@ glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Cushitic > East Cushitic > Lowland East Cushitic > Southern Lowland East Cushitic > Mainstream Lowland East Cushitic > Omo-Tana > Western Omo-Tana > Arbore"
 wikipedia_url: "https://en.wikipedia.org/wiki/Arbore_language"
+translations:
+  - translation_iso: zho
+    name: 阿尔博雷语
+    auto: true
 ---
 Arbore is an Afro-Asiatic language spoken by the Arbore people in southern Ethiopia in a few settlements of Hamer woreda near Lake Chew Bahir.

@@ -1,7 +1,6 @@
 ---
 iso: rmy
 name: Vlax Romani
-name_zh: 夫拉克斯羅姆語
 autonym: řomani čhib
 alt_names: ["\"Gypsy\"", Albanesisch, Albanian, Danubian, European Romany, Gypsy, Rom, Romanese, Romani, Romani (Kalderash), Romani (Lovari), Romani (Vlach), Romani (Wallachian), "Romani, Vlax", Romany, Romaní Vlax, Romenes, Rroma, Tsigene, Vlach Romani, Vlax, Vlax Romany, Vlaxinromani, Zigeuner]
 population: 8500000
@@ -15,6 +14,11 @@ glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Indo-Aryan > Middle-Modern Indo-Aryan > Continental Indo-Aryan > Midlands Indo-Aryan > Shaurasenic > Indo-Aryan Central zone > Romani > Vlax Romani"
 wikipedia_url: "https://en.wikipedia.org/wiki/Vlax_Romani_language"
+translations:
+  - translation_iso: jpn
+    name: ワラキア方言群
+  - translation_iso: zho
+    name: 夫拉克斯羅姆語
 rolv_dialects:
   - rolv_code: 3045
     language_tag: rmy-x-HIS03045

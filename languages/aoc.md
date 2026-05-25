@@ -1,7 +1,6 @@
 ---
 iso: aoc
 name: Pemon
-name_zh: 佩蒙語
 autonym: Arecuna
 alt_names: [Idioma pemón, Kamarakóto, Pemon (Brésil), Pemon (République bolivarienne du Venezuela), Pemon simi, Pemona lingvo, Pemoneg, Pemong, Pemón, Pemón (Venezuela), Taulipang, Taurepan, Taurepang, Пемонский язык]
 population: 24080
@@ -15,6 +14,11 @@ glottolog_family_id: cari1283
 glottolog_family_name: Cariban
 glottolog_classification: "Cariban > Venezuelan Cariban > Pemong-Panare > Pemongan > Pemon"
 wikipedia_url: "https://en.wikipedia.org/wiki/Pemon_language"
+translations:
+  - translation_iso: jpn
+    name: ペモン語
+  - translation_iso: zho
+    name: 佩蒙語
 rolv_dialects:
   - rolv_code: 15586
     language_tag: aoc-x-HIS15586

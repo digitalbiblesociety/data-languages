@@ -1,8 +1,6 @@
 ---
 iso: stu
 name: Samtao
-name_zh: 萨姆陶语
-name_zh_auto: true
 autonym: Pulang
 alt_names: [Angku, Samtau, Samtuan, Āng-kú]
 population: 9550
@@ -16,4 +14,8 @@ glottocode: samt1238
 glottolog_family_id: aust1305
 glottolog_family_name: Austroasiatic
 glottolog_classification: "Austroasiatic > Khasi-Palaung > Palaungic > East Palaungic > Waic > Bulangic > Samtao"
+translations:
+  - translation_iso: zho
+    name: 萨姆陶语
+    auto: true
 ---

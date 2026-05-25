@@ -1,8 +1,6 @@
 ---
 iso: mqk
 name: Rajah Kabunsuwan Manobo
-name_zh: 拉惹卡布苏万曼诺博语
-name_zh_auto: true
 autonym: Rajah Kabungsuan Manobo
 alt_names: ["Manobo, Rajah Kabunsuwan"]
 population: 7570
@@ -15,4 +13,8 @@ glottocode: raja1254
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Greater Central Philippine > Manobo > Central and Southern Manobo > East-West-Central Manobo > East and Central Manobo > East Manobo > Rajah Kabunsuwan Manobo"
+translations:
+  - translation_iso: zho
+    name: 拉惹卡布苏万曼诺博语
+    auto: true
 ---

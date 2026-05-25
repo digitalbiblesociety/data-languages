@@ -1,8 +1,6 @@
 ---
 iso: las
 name: Lama (Togo)
-name_zh: 拉玛语(多哥)
-name_zh_auto: true
 autonym: Lamba
 alt_names: [Lama, Losso]
 population: 258000
@@ -16,6 +14,10 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Gur > Central Gur > Southern Central Gur > Grusi > East-West Grusi > Eastern Grusi > Kabiyeic > Lama (Togo)"
 wikipedia_url: "https://en.wikipedia.org/wiki/Lama_language"
+translations:
+  - translation_iso: zho
+    name: 拉玛语(多哥)
+    auto: true
 rolv_dialects:
   - rolv_code: 6499
     language_tag: las-x-HIS06499

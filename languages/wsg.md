@@ -1,8 +1,6 @@
 ---
 iso: wsg
 name: Adilabad Gondi
-name_zh: 阿迪拉巴德贡德语
-name_zh_auto: true
 autonym: "गोण्डि, గోణ్డి, ଗୋଣ୍ଡି, 𑵶𑶓𑶕𑶂𑶋, 𑴎𑴽𑵀𑴘𑴳,"
 alt_names: ["Gondi, Adilabad", Utnoor]
 population: 300000
@@ -16,6 +14,10 @@ glottolog_family_id: drav1251
 glottolog_family_name: Dravidian
 glottolog_classification: "Dravidian > South Dravidian > South Dravidian II > Gondi > Northwest Gondi > Southwest Gondi > Southern Gondi > Adilabad Gondi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Adilabad_Gondi_language"
+translations:
+  - translation_iso: zho
+    name: 阿迪拉巴德贡德语
+    auto: true
 rolv_dialects:
   - rolv_code: 10299
     language_tag: wsg-x-HIS10299

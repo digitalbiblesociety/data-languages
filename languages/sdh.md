@@ -1,7 +1,6 @@
 ---
 iso: sdh
 name: Southern Kurdish
-name_zh: 南库尔德语
 autonym: "Kurdish: کوردیی باشووری "
 alt_names: [Kelhuri, Kermanshahi, Kurdisch, "Kurdish, Southern", Kurdí Xwar, Quelúri, Südkurdische Sprache, Южнокурдский язык]
 population: 3730000
@@ -16,6 +15,17 @@ glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Iranian-Nuristani > Iranian > Central Iranian PBS > Central Iranian PB > Northwestern Iranian > Laki-Kurdish > Kurdish > Southern Kurdish"
 wikipedia_url: "https://en.wikipedia.org/wiki/Southern_Kurdish"
+translations:
+  - translation_iso: ara
+    name: الكردية الخوارينية (الكردية الجنوبية)
+  - translation_iso: hin
+    name: दक्षिणी कार्डिश
+  - translation_iso: jpn
+    name: 南部クルド語
+  - translation_iso: kor
+    name: 팔레와니어
+  - translation_iso: zho
+    name: 南库尔德语
 rolv_dialects:
   - rolv_code: 4181
     language_tag: sdh-x-HIS04181

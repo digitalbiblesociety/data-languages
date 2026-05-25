@@ -1,8 +1,6 @@
 ---
 iso: bki
 name: Baki
-name_zh: 巴基语
-name_zh_auto: true
 autonym: Burumba
 alt_names: [Paki]
 population: 350
@@ -16,5 +14,9 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > North and Central Vanuatu > Central Vanuatu > Epi-Efate > Epi > Baki-Bierebo > Baki"
 wikipedia_url: "https://en.wikipedia.org/wiki/Baki_language"
+translations:
+  - translation_iso: zho
+    name: 巴基语
+    auto: true
 ---
 Baki is an Oceanic language spoken on Epi Island, in Vanuatu.

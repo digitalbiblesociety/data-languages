@@ -1,8 +1,6 @@
 ---
 iso: kve
 name: Kalabakan
-name_zh: 卡拉巴坎语
-name_zh_auto: true
 autonym: Tidong
 alt_names: [Kalabakan Murut, Tawau Murut, Tidung]
 population: 2230
@@ -16,5 +14,9 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > North Borneo Malayo-Polynesian > Sabahan > Southwest Sabahan > Greater Murutic > Murutic > Eastern Murutic > Kalabakan"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kalabakan_language"
+translations:
+  - translation_iso: zho
+    name: 卡拉巴坎语
+    auto: true
 ---
 Kalabakan is a Sabahan language spoken by members of the Tidong ethnic group in Kalabakan District, Sabah, Malaysia.

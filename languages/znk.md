@@ -1,8 +1,6 @@
 ---
 iso: znk
 name: Manangkari
-name_zh: 曼南卡里语
-name_zh_auto: true
 autonym: null
 population: null
 country_id: AU
@@ -15,5 +13,9 @@ glottolog_family_id: unat1236
 glottolog_family_name: Unattested
 glottolog_classification: "Unattested > Iwaidjan Proper (Unattested) > Manangkari"
 wikipedia_url: "https://en.wikipedia.org/wiki/Manangkari_language"
+translations:
+  - translation_iso: zho
+    name: 曼南卡里语
+    auto: true
 ---
 Manangkari, also known as Naragani, is an extinct Australian aboriginal language once spoken in the Cobourg Peninsula, Northern Territory. Manangkari belongs to the Iwaidjan family of languages, and may be a dialect of Maung.

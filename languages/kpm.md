@@ -1,7 +1,6 @@
 ---
 iso: kpm
 name: Koho
-name_zh: 格賀語
 autonym: Kơho
 alt_names: [Caho, Coho, Kahov, Kohor, Kɤho, Sre, Srê, Srê (Köho)]
 population: 166000
@@ -15,6 +14,9 @@ glottolog_family_id: aust1305
 glottolog_family_name: Austroasiatic
 glottolog_classification: "Austroasiatic > Bahnaric > West Bahnaric > South Bahnaric > Koho-Maa > Koho"
 wikipedia_url: "https://en.wikipedia.org/wiki/Koho_language"
+translations:
+  - translation_iso: zho
+    name: 格賀語
 rolv_dialects:
   - rolv_code: 730
     language_tag: kpm-x-HIS00730

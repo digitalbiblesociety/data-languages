@@ -1,8 +1,6 @@
 ---
 iso: mll
 name: Malua Bay
-name_zh: 玛卢亚湾语
-name_zh_auto: true
 autonym: Middle Nambas
 alt_names: [Espiegle Bay, "Espiegle's Bay", Malakula, Mallicolo, Petarmur (Petarmul)]
 population: 500
@@ -16,5 +14,9 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > North and Central Vanuatu > Central Vanuatu > Malakula > Northern Malakula > Malua-Tepërav"
 wikipedia_url: "https://en.wikipedia.org/wiki/Malua_Bay_language"
+translations:
+  - translation_iso: zho
+    name: 玛卢亚湾语
+    auto: true
 ---
 Malua Bay is an Oceanic language spoken in northwest Malekula, Vanuatu. It has two main dialects: one spoken in Malua Bay and the other spoken in Espiegles Bay.

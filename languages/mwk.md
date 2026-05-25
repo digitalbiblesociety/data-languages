@@ -1,8 +1,6 @@
 ---
 iso: mwk
 name: Kita Maninkakan
-name_zh: 基塔曼林卡语
-name_zh_auto: true
 autonym: Central Malinke
 alt_names: [Kita Maninka, Malinke, "Maninkakan, Kita", Nandi]
 population: 434000
@@ -17,6 +15,12 @@ glottolog_family_id: mand1469
 glottolog_family_name: Mande
 glottolog_classification: "Mande > Western Mande > Manding-Kpelle > Central Mande > Manding-Jogo > Manding-Vai > Manding-Mokole > Manding > West Manding > Kita-Kagoro > Kita Maninkakan"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kita_Maninka_language"
+translations:
+  - translation_iso: jpn
+    name: キタ・マリンカカン語
+  - translation_iso: zho
+    name: 基塔曼林卡语
+    auto: true
 rolv_dialects:
   - rolv_code: 26872
     language_tag: mwk-x-HIS26872

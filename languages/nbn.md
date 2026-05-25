@@ -1,8 +1,6 @@
 ---
 iso: nbn
 name: Kuri
-name_zh: 库里语
-name_zh_auto: true
 autonym: Nabi
 alt_names: [Modan]
 population: 500
@@ -16,6 +14,10 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Greater Seram Laut > Banda-Geser > Seran Laut > Koiwai-Irarutu > Irarutic > Nabi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kuri_language_(Austronesian)"
+translations:
+  - translation_iso: zho
+    name: 库里语
+    auto: true
 rolv_dialects:
   - rolv_code: 4129
     language_tag: nbn-x-HIS04129

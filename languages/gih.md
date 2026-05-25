@@ -1,8 +1,6 @@
 ---
 iso: gih
 name: Githabul
-name_zh: 吉塔布尔语
-name_zh_auto: true
 autonym: Gidabul
 alt_names: [Gidabal, Gidhabal, Gidjoobal, Githebul, Kidabal, Kidjabal, Kita-bool, Kitabool, Kitapul, Kitta-bool, Kittabool, Kuttibul, Noowidal]
 population: null
@@ -16,5 +14,9 @@ glottolog_family_id: pama1250
 glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > Southeastern Pama-Nyungan > New South Wales Pama-Nyungan > Greater Bandjalangic > Bandjalangic > Inland Bandjalang > Condamine-Upper Clarence Bandjalang"
 wikipedia_url: "https://en.wikipedia.org/wiki/Githabul_language"
+translations:
+  - translation_iso: zho
+    name: 吉塔布尔语
+    auto: true
 ---
 Githabul, also known as Galibal, Dinggabal, and Condamine – Upper Clarence Bandjalang, is an Australian Aboriginal language spoken by the Githabul living in South Queensland and North-East New South Wales.

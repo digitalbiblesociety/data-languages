@@ -1,8 +1,6 @@
 ---
 iso: ppk
 name: Uma
-name_zh: 乌玛语
-name_zh_auto: true
 autonym: Pipikoro
 alt_names: [Oema]
 population: 18800
@@ -16,6 +14,10 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Celebic > Kaili-Wolio > Northern Kaili-Wolio > Uma-Sarudu > Uma"
 wikipedia_url: "https://en.wikipedia.org/wiki/Uma_language"
+translations:
+  - translation_iso: zho
+    name: 乌玛语
+    auto: true
 rolv_dialects:
   - rolv_code: 17929
     language_tag: ppk-x-HIS17929

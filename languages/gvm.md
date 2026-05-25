@@ -1,8 +1,6 @@
 ---
 iso: gvm
 name: Gurmana
-name_zh: 古尔马纳语
-name_zh_auto: true
 autonym: null
 alt_names: [Gura]
 population: 3000
@@ -16,5 +14,9 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Kainji > Central Kainji > Shiroro-Kamuku > Shiroro > Gurmana"
 wikipedia_url: "https://en.wikipedia.org/wiki/Gurmana_language"
+translations:
+  - translation_iso: zho
+    name: 古尔马纳语
+    auto: true
 ---
 Gurmana is a Kainji language of Gurmana village in Shiroro LGA, Niger State, Nigeria. There are no more than 2,000 to 3,000 speakers in Gurmana village and nearby hamlets.

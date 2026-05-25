@@ -1,8 +1,6 @@
 ---
 iso: mvh
 name: Mulgi
-name_zh: 穆尔吉语
-name_zh_auto: true
 autonym: Mulgi
 alt_names: [Chad, Mire, Mire language]
 population: 1400
@@ -16,5 +14,9 @@ glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > East Chadic > East Chadic A > East Chadic A.1 > Sumrayic > Ndam-Tumak > Mire"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mire_language"
+translations:
+  - translation_iso: zho
+    name: 穆尔吉语
+    auto: true
 ---
 Mire, or Mulgi, is an Afro-Asiatic language spoken in the southwestern Chadian prefectures of Tandjile Prefecture and Lai Prefecture. Most of the speakers, who generally practice traditional religions or Christianity, speak Ndam or Kimré as a second language.

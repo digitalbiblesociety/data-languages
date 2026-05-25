@@ -1,8 +1,6 @@
 ---
 iso: lee
 name: Lyélé
-name_zh: 莱莱语
-name_zh_auto: true
 autonym: Lele
 alt_names: [Lyele]
 population: 213000
@@ -16,6 +14,12 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Gur > Central Gur > Southern Central Gur > Grusi > Northern Grusi > Lyélé"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ly%C3%A9l%C3%A9_language"
+translations:
+  - translation_iso: jpn
+    name: リエレ語
+  - translation_iso: zho
+    name: 莱莱语
+    auto: true
 rolv_dialects:
   - rolv_code: 13190
     language_tag: lee-x-HIS13190

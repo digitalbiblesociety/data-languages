@@ -1,7 +1,6 @@
 ---
 iso: lti
 name: Leti (Indonesia)
-name_zh: 勒蒂语
 autonym: null
 alt_names: [Leti, Leti language, Letti]
 population: 7500
@@ -15,6 +14,9 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Timor-Babar > Southwest Maluku > Luangic-Kisaric > Luangic > Leti (Indonesia)"
 wikipedia_url: "https://en.wikipedia.org/wiki/Leti_language"
+translations:
+  - translation_iso: zho
+    name: 勒蒂语
 rolv_dialects:
   - rolv_code: 25885
     language_tag: lti-x-HIS25885

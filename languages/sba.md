@@ -1,7 +1,6 @@
 ---
 iso: sba
 name: Ngambay
-name_zh: 甘拜语
 autonym: Gamba
 alt_names: [Gamb-Lai, Gambai, Gambaye, Gamblai, Ngambai, Sara, Sara Ngambai, Sara-Ngambay]
 population: 1377000
@@ -15,6 +14,17 @@ glottolog_family_id: cent2225
 glottolog_family_name: Central Sudanic
 glottolog_classification: "Central Sudanic > Sara-Bongo-Bagirmi > SBB Occidental > Nuclear SBB Occidental > Saraic > Sara Central > Sara Central Logone > Ngambay"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ngambay_language"
+translations:
+  - translation_iso: ara
+    name: نامبي
+  - translation_iso: hin
+    name: न्गाम्बे
+  - translation_iso: jpn
+    name: ンガムバイ語
+  - translation_iso: kor
+    name: 느감바이어
+  - translation_iso: zho
+    name: 甘拜语
 rolv_dialects:
   - rolv_code: 4922
     language_tag: sba-x-HIS04922

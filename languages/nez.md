@@ -1,7 +1,6 @@
 ---
 iso: nez
 name: Nez Perce
-name_zh: 内兹珀斯语
 autonym: Niimiipuutímt
 alt_names: [Chopunnish, Nez-percé, Nez-percés, Nimipu, Numipu, Nuumiipuutimt, Nuumiipuutímt, Shahaptan]
 population: 610
@@ -15,6 +14,13 @@ glottolog_family_id: saha1239
 glottolog_family_name: Sahaptian
 glottolog_classification: "Sahaptian > Nez Perce"
 wikipedia_url: "https://en.wikipedia.org/wiki/Nez_Perce_language"
+translations:
+  - translation_iso: jpn
+    name: ネズ・パース語
+  - translation_iso: kor
+    name: 네즈퍼스어
+  - translation_iso: zho
+    name: 内兹珀斯语
 rolv_dialects:
   - rolv_code: 26446
     language_tag: nez-x-HIS26446

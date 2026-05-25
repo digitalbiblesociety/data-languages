@@ -1,7 +1,6 @@
 ---
 iso: mfa
 name: Pattani Malay
-name_zh: 亚维语
 autonym: Baso PattaniBaso Kelaté
 alt_names: [Bahasa Melayu Pattani, "Malay, Pattani", Thai Islam, Yawi, Yawi language, ภาษามลายูปัตตานี, ジャウィ語, 亚维语]
 population: 1470000
@@ -16,6 +15,15 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Malayo-Chamic > Malayic > Nuclear Malayic > Greater Riau-Johoric > Northeastern Peninsular Malay > Kelantan-Pattani Malay"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kelantan%E2%80%93Pattani_Malay"
+translations:
+  - translation_iso: ara
+    name: بهاس جاوي
+  - translation_iso: jpn
+    name: ジャウィ語
+  - translation_iso: kor
+    name: 빠따니 말레이어
+  - translation_iso: zho
+    name: 亚维语
 rolv_dialects:
   - rolv_code: 29783
     language_tag: mfa-x-HIS29783

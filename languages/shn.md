@@ -1,7 +1,6 @@
 ---
 iso: shn
 name: Shan
-name_zh: 掸语
 autonym: Tai
 alt_names: ["\"Ngeo\"", "\"Ngiao\"", "\"Ngiaw\"", "\"Ngio\"", "\"Ngiow\"", Chaneg, Great Thai, Język szan, Língua shan, Mau, Sam, Sha, Sha(n), Tai Luang, Tai Shan, Tai Yai, Taishan, Thai Yai, chan, Šanų kalba, Шанский язык, ภาษาไทใหญ่, ພາສາໄທໃຫຍ່, シャン語, 掸语]
 population: 4658000
@@ -16,6 +15,17 @@ glottolog_family_id: taik1256
 glottolog_family_name: Tai-Kadai
 glottolog_classification: "Tai-Kadai > Kam-Tai > Daic-Beic > Daic > Central-Southwestern Tai > Wenma-Southwestern Tai > Sapa-Southwestern Tai > Southwestern Tai > Southwestern Tai P > Shanic > Southern Shanic > Shan"
 wikipedia_url: "https://en.wikipedia.org/wiki/Shan_language"
+translations:
+  - translation_iso: ara
+    name: لغة شان
+  - translation_iso: hin
+    name: शान भाषा
+  - translation_iso: jpn
+    name: シャン語
+  - translation_iso: kor
+    name: 샨어
+  - translation_iso: zho
+    name: 掸语
 rolv_dialects:
   - rolv_code: 16588
     language_tag: shn-x-HIS16588

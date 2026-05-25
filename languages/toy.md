@@ -1,8 +1,6 @@
 ---
 iso: toy
 name: Topoiyo
-name_zh: 托波伊约语
-name_zh_auto: true
 autonym: bahasa Topoiyo
 alt_names: [Indonesia]
 population: 2000
@@ -16,5 +14,9 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Celebic > Kaili-Wolio > Northern Kaili-Wolio > Topoiyo"
 wikipedia_url: "https://en.wikipedia.org/wiki/Topoiyo_language"
+translations:
+  - translation_iso: zho
+    name: 托波伊约语
+    auto: true
 ---
 The Topoiyo language is an Austronesian language of West Sulawesi, Indonesia spoken by people in Tabolang Village, Topoyo District, Central Mamuju Regency, West Sulawesi. Usually, Topoiyo speakers also speak Mamuju and Indonesian. Topoiyo is also spoken in other villages in Topoyo District, such as Salulebo, Topoyo, and Salupangkang villages.

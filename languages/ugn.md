@@ -1,8 +1,6 @@
 ---
 iso: ugn
 name: Ugandan Sign Language
-name_zh: 乌干达手语
-name_zh_auto: true
 autonym: USL
 population: 160000
 country_id: UG
@@ -15,5 +13,11 @@ glottolog_family_id: sign1238
 glottolog_family_name: Sign Language
 glottolog_classification: "Sign Language > L1 Sign Language > LSFic > ASLic > Ugandan Sign Language"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ugandan_Sign_Language"
+translations:
+  - translation_iso: jpn
+    name: ウガンダ手話
+  - translation_iso: zho
+    name: 乌干达手语
+    auto: true
 ---
 Ugandan Sign Language (USL) is the deaf sign language of Uganda.

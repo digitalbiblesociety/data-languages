@@ -1,8 +1,6 @@
 ---
 iso: pgi
 name: Pagi
-name_zh: 帕吉语
-name_zh_auto: true
 autonym: Bembi
 alt_names: [Pagei]
 population: 2140
@@ -16,6 +14,10 @@ glottolog_family_id: bord1247
 glottolog_family_name: Border
 glottolog_classification: "Border > Bewani > Pagi-Kilmeri > Pagi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Pagi_language"
+translations:
+  - translation_iso: zho
+    name: 帕吉语
+    auto: true
 rolv_dialects:
   - rolv_code: 15397
     language_tag: pgi-x-HIS15397

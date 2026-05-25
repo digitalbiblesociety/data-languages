@@ -1,7 +1,6 @@
 ---
 iso: lce
 name: Loncong
-name_zh: 伦从语
 autonym: Orang Laut
 alt_names: [Lonchong, Lontjong, Seka, Sekah, Sekak]
 population: 420
@@ -15,5 +14,10 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Malayo-Chamic > Malayic > Nuclear Malayic > Northern Sumatra Malay > Bangka-Belitung Malay > Loncong"
 wikipedia_url: "https://en.wikipedia.org/wiki/Loncong_language"
+translations:
+  - translation_iso: jpn
+    name: セカ族
+  - translation_iso: zho
+    name: 伦从语
 ---
 The Orang Laut language or Loncong, is one of the Malayic languages. It is one of several native languages of Orang Laut of the Bangka and Belitung islands in Indonesia, and may be two distinct languages.

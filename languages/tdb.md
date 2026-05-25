@@ -1,8 +1,6 @@
 ---
 iso: tdb
 name: Panchpargania
-name_zh: 潘奇帕尔甘尼亚语
-name_zh_auto: true
 autonym: Panchpargania
 alt_names: [Bedia, Chik Barik, Pan, Pan Sawasi, Tair, Tamara, Tamaria, Tanti, Temoral, Tumariya]
 population: 257000
@@ -15,4 +13,8 @@ glottocode: panc1246
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Indo-Aryan > Middle-Modern Indo-Aryan > Continental Indo-Aryan > Midlands Indo-Aryan > Shaurasenic > Bihari > Magadhan > Sadanic > Sadri-Panchpargania > Panchpargania"
+translations:
+  - translation_iso: zho
+    name: 潘奇帕尔甘尼亚语
+    auto: true
 ---

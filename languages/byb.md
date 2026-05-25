@@ -1,8 +1,6 @@
 ---
 iso: byb
 name: Bikya
-name_zh: 比基亚语
-name_zh_auto: true
 autonym: Furu
 alt_names: [Bikyeg]
 population: null
@@ -16,5 +14,11 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Beboid > Bikya"
 wikipedia_url: "https://en.wikipedia.org/wiki/Bikya_language"
+translations:
+  - translation_iso: jpn
+    name: Bikya語
+  - translation_iso: zho
+    name: 比基亚语
+    auto: true
 ---
 Bikya is a potentially extinct Southern Bantoid language spoken in Cameroon. It is one of the three, or four, Furu languages. In 1986 four surviving speakers were identified, although only one spoke the language fluently.

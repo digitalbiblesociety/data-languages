@@ -1,8 +1,6 @@
 ---
 iso: drg
 name: Rungus
-name_zh: 容古斯语
-name_zh_auto: true
 autonym: Dusun Dayak
 alt_names: [Dayak, Melobong Rungus, Memagun, Memogun, Momogun, Roongas, Rungus Dusun]
 population: 55000
@@ -16,6 +14,10 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > North Borneo Malayo-Polynesian > Sabahan > Southwest Sabahan > Greater Dusunic > Dusunic > Rungus-Mangkaak-Labuk > Rungus"
 wikipedia_url: "https://en.wikipedia.org/wiki/Momogun_language"
+translations:
+  - translation_iso: zho
+    name: 容古斯语
+    auto: true
 rolv_dialects:
   - rolv_code: 16113
     language_tag: drg-x-HIS16113

@@ -1,8 +1,6 @@
 ---
 iso: gdr
 name: Wipi
-name_zh: 维皮语
-name_zh_auto: true
 autonym: Gidra
 alt_names: [Jibu, Oriomo]
 population: 3500
@@ -16,6 +14,14 @@ glottolog_family_id: east2503
 glottolog_family_name: Eastern Trans-Fly
 glottolog_classification: "Eastern Trans-Fly > Binaturi > Wipi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Wipi_language"
+translations:
+  - translation_iso: jpn
+    name: ウィピ語
+  - translation_iso: kor
+    name: 위피어
+  - translation_iso: zho
+    name: 维皮语
+    auto: true
 rolv_dialects:
   - rolv_code: 24967
     language_tag: gdr-x-HIS24967

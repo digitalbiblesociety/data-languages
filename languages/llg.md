@@ -1,8 +1,6 @@
 ---
 iso: llg
 name: Lole
-name_zh: 洛莱语
-name_zh_auto: true
 autonym: Central Rote
 alt_names: ["Ba'a", Baä, Loleh, Rote, Rote Tengah, Roti, Rotinese]
 population: 20000
@@ -16,6 +14,10 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Timor-Babar > Rote-Meto > Nuclear Rote > Lole"
 wikipedia_url: "https://en.wikipedia.org/wiki/Lole_language"
+translations:
+  - translation_iso: zho
+    name: 洛莱语
+    auto: true
 rolv_dialects:
   - rolv_code: 25880
     language_tag: llg-x-HIS25880

@@ -1,7 +1,6 @@
 ---
 iso: djj
 name: Djeebbana
-name_zh: 迪耶巴納語
 autonym: Ndjébbana
 alt_names: [Behribmej, Djapena, Djeepana, Gidjia, Gidjiya, Gijiya, Grunavidji, Gudjia, Gunabidji, Gunabwidji, Gunadidji, Gunavidgi, Gunavidji, Gunaviji, Gunawitji, Gunibidji, Gunjibidji, Gurmadja madja, Jibidji, Kulunglutchyi, Kunibidji, Kunibidji/Gunavidji, Ndeya, Ndjebanna, Ndjebbana, NdjÃ©bbana, Ndjéya, Witchi, Witji]
 population: 100
@@ -15,5 +14,8 @@ glottolog_family_id: mani1293
 glottolog_family_name: Maningrida
 glottolog_classification: "Maningrida > Nakkara-Ndjebbana > Djeebbana"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ndj%C3%A9bbana_language"
+translations:
+  - translation_iso: zho
+    name: 迪耶巴納語
 ---
 The Ndjébbana language, also spelt Djeebbana and Ndjebanna and also known as Kunibidji, is a Burarran language spoken by the Gunavidji (Ndjebbana) people of North-central Arnhem Land in the Northern Territory of Australia.

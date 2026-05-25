@@ -1,8 +1,6 @@
 ---
 iso: tpm
 name: Tampulma
-name_zh: 坦普尔玛语
-name_zh_auto: true
 autonym: Tampele
 alt_names: [Tamplima, Tampole, Tampolem, Tampolene, Tampolense, Tamprusi, Tamprussi]
 population: 16000
@@ -16,5 +14,11 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Gur > Central Gur > Southern Central Gur > Grusi > East-West Grusi > Western Grusi > Sisaala-Chakali > Chakalic > Chakali-Tamprusi-Vagala > Chakali-Tamprusi > Tampulma"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tamprusi_language"
+translations:
+  - translation_iso: jpn
+    name: タンプルマ
+  - translation_iso: zho
+    name: 坦普尔玛语
+    auto: true
 ---
 Tampulma, anglicized as Tamprusi is a Mabia language of Ghana. It is primarily spoken in the Savannah Region. It is related to the languages of Deg, Sisaala and Vagla.

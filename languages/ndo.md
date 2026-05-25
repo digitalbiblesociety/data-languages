@@ -1,7 +1,6 @@
 ---
 iso: ndo
 name: Ndonga
-name_zh: 恩东加语
 autonym: ndonga
 alt_names: [Ambo, Bahasa Ndonga, Idioma ndonga, Język ndonga, Lingua ndonga, Língua ndonga, Ndonga lingvo, Ochindonga, Oshidonga, Oshindonga, Oshinonga, Oshiwambo, Osindonga, Otjiwambo, Owambo, Ндонга, ンドンガ語]
 population: 279000
@@ -16,6 +15,17 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > Central-Western Bantu > Njila > Southern Njila > Kunene > Cimbebasia > Ndonga (R.20) > Kwambi-Ndonga > Ndonga"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ndonga"
+translations:
+  - translation_iso: ara
+    name: الندونجا
+  - translation_iso: hin
+    name: डोन्गा
+  - translation_iso: jpn
+    name: ンドンガ語
+  - translation_iso: kor
+    name: 느동가어
+  - translation_iso: zho
+    name: 恩东加语
 rolv_dialects:
   - rolv_code: 14793
     language_tag: ng-x-HIS14793

@@ -1,7 +1,6 @@
 ---
 iso: pib
 name: Yine
-name_zh: 皮洛語
 autonym: Piro
 alt_names: ["\"Piro\"", "\"Simirinche\"", Arawakan (Piro), Chontaquiro, Contaquiro, Manitereni, Maxineri, Pira, Piro Arawakan, Pirro, Simiranch, Simirinch]
 population: 3260
@@ -15,5 +14,10 @@ glottolog_family_id: araw1281
 glottolog_family_name: Arawakan
 glottolog_classification: "Arawakan > Southern Maipuran > Purus-Chamicuro > Purus > Yineic > Western Yineic > Yine"
 wikipedia_url: "https://en.wikipedia.org/wiki/Yine_language"
+translations:
+  - translation_iso: jpn
+    name: イネ語
+  - translation_iso: zho
+    name: 皮洛語
 ---
 Yine is a Maipurean language spoken in Peru by about 4,000 people.

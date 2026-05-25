@@ -1,8 +1,6 @@
 ---
 iso: kgl
 name: Kunggari
-name_zh: 庚加里语
-name_zh_auto: true
 autonym: Southern Maric
 alt_names: [Congaro, Coongurri, Goon garee, Goon-garree, Goongurri, Gungar, Gungari, Gunggari, Kogai, Kogurre, Kokaburra, Koongerri, Koonkerri, Koonkurri, Kungeri, Kungri, Kunkari, Kunngkari, Kuungkari, Nebine Gunggari, Ngaragari, Tarawalla, Torraburri, Ungerri, Unggari, Unggri, Unghi, Ungorri, Yangeberra, Yangeeberra, Yangeeburra, Yankibura, Yankiburra]
 population: null
@@ -15,4 +13,8 @@ glottocode: kung1258
 glottolog_family_id: pama1250
 glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > Greater Maric > Guwa-Maric > Maric > Southern Maric > Kunggari"
+translations:
+  - translation_iso: zho
+    name: 庚加里语
+    auto: true
 ---

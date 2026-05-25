@@ -1,8 +1,6 @@
 ---
 iso: mje
 name: Muskum
-name_zh: 穆斯库姆语
-name_zh_auto: true
 autonym: Muzuk
 alt_names: [Muzgum]
 population: null
@@ -16,5 +14,11 @@ glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > Biu-Mandara > North Biu-Mandara > Musguic > Muskum"
 wikipedia_url: "https://en.wikipedia.org/wiki/Muskum_language"
+translations:
+  - translation_iso: jpn
+    name: ムスクム語
+  - translation_iso: zho
+    name: 穆斯库姆语
+    auto: true
 ---
 Muskum is an extinct Chadic (Biu–Mandara) language of Chad. Speakers have shifted to Musgu [mug].

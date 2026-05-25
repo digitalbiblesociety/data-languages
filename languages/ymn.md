@@ -1,8 +1,6 @@
 ---
 iso: ymn
 name: Yamna
-name_zh: 亚姆纳语
-name_zh_auto: true
 autonym: Sunum
 alt_names: [Indonesia]
 population: 560
@@ -16,6 +14,10 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > North New Guinea linkage > Sarmi-Jayapura Bay > Sarmi > Yamna"
 wikipedia_url: "https://en.wikipedia.org/wiki/Yamna_language"
+translations:
+  - translation_iso: zho
+    name: 亚姆纳语
+    auto: true
 rolv_dialects:
   - rolv_code: 1153
     language_tag: ymn-x-HIS01153

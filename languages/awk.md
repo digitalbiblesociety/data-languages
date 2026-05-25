@@ -1,8 +1,6 @@
 ---
 iso: awk
 name: Awabakal
-name_zh: 阿瓦巴卡尔语
-name_zh_auto: true
 autonym: Awabakalkoba
 alt_names: [Arwarbukarl, Arwarburkarl, Awaba, Awabagal, Awarbukal, Geawegal, Gwegal, Hunter River and Lake Macquarie, Kuri, Kuringgai, Lake Macquaire Newcastle tribe, Lake Macquarie, Lenga awabakal, Newcastle tribe, Other Australian Indigenous Languages]
 population: null
@@ -16,6 +14,10 @@ glottolog_family_id: pama1250
 glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > Southeastern Pama-Nyungan > New South Wales Pama-Nyungan > Yuin-Kuri > Kuri > Hunter-Hastings > Awabakal"
 wikipedia_url: "https://en.wikipedia.org/wiki/Awabakal_language"
+translations:
+  - translation_iso: zho
+    name: 阿瓦巴卡尔语
+    auto: true
 rolv_dialects:
   - rolv_code: 24303
     language_tag: awk-x-HIS24303

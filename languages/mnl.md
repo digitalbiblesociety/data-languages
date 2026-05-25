@@ -1,7 +1,6 @@
 ---
 iso: mnl
 name: Tiale
-name_zh: 馬爾馬立夫語
 autonym: Malmariv
 population: 400
 country_id: VU
@@ -14,5 +13,8 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > North and Central Vanuatu > Northern Vanuatu > Espiritu Santo > West Santo > Central Santo > Tiale"
 wikipedia_url: "https://en.wikipedia.org/wiki/Merei-Tiale_language"
+translations:
+  - translation_iso: zho
+    name: 馬爾馬立夫語
 ---
 Merei or Malmariv is an Oceanic language spoken in north central Espiritu Santo Island in Vanuatu.

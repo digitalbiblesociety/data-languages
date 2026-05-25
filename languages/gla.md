@@ -1,7 +1,6 @@
 ---
 iso: gla
 name: Scottish Gaelic
-name_zh: 苏格兰盖尔语
 autonym: Gàidhlig
 alt_names: [Albanek, Albannach Gaidhlig, Bahasa Gaelik Skotlandia, Erse, Escocés, Escôswès, Eskoziako gaelera, Gadhelisch, Gaeilge na hAlban, Gaelagiella, Gaeleg yr Alban, Gaelg Albinagh, Gaeli, Gaeli keel, Gaelic, Gaelic (Scots), Gaelic (Scottish), "Gaelic, Scottish", Gaelich Scuzzes, Gaèlic escocès, Gaèlico ècocês, Gaélico escocés, Gaélicu escocés, Gaélique écossais, Gelíska, Gouezeleg Skos, Gälisch, Idioma gaelico escocés, Iskut kilta simi, Język gaelicki szkocki, Lenghe gaeliche scozês, Lengua gaelica scosseise, Limba gaelica scotzesa, Limba scoţiană, Lingua Scotica, Lingua gaelica scozzese, Lingua gaélica escocesa, Luenga gaélica escocesa, Língua gaélica escocesa, Schots-Gaelisch, Schottisch-Gälische Sprache, Schottsch Gäälsch, Scotch-Gaelic, Scots Gaelic, Scots Gaelic leid, Scottish, Scyttisce sprǣc, Sjots Gaelic, Skotgaela lingvo, Skots-Gaelies, Skotsk gäliska, Skotsk gælisk, Skotsk-gælisk, Skotsk-gælisk språk, Skotskt gæliskt, Skotská gaelština, Skotu gēlu valoda, Skót gael nyelv, Szkocko gaelicko godka, gaélique, İskoçça, Škotska gelščina, Škotski gaelski jezik, Škotų gėlų kalba, Škótska gaelčina, Σκωτική Γαελική γλώσσα, Шкотски гелски језик, Шкотски јазик, Шотланд чĕлхи, Шотландиаг (гэлаг) æвзаг, Шотландски келтски език, Шотландский язык, Шотландська гельська мова, גאלית סקוטית, زبان گالیک اسکاتلندی, شوتلاندىيە گائېل تىلى, گادێلیی سکۆتی, স্কট্‌স গ্যালিক ভাষা, შოტლანდიური ენა, スコットランド・ゲール語, 苏格兰盖尔语, 스코틀랜드 게일어]
 population: 60130
@@ -16,6 +15,17 @@ glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Celtic > Nuclear Celtic > Core Celtic > Insular Celtic > Goidelic > Modern Goidelic > Eastern Goidelic > Scottish Gaelic"
 wikipedia_url: "https://en.wikipedia.org/wiki/Scottish_Gaelic"
+translations:
+  - translation_iso: ara
+    name: الغيلية الإسكتلندية
+  - translation_iso: hin
+    name: स्कॉटिश गैलिक
+  - translation_iso: jpn
+    name: スコットランド・ゲール語
+  - translation_iso: kor
+    name: 스코틀랜드 게일어
+  - translation_iso: zho
+    name: 苏格兰盖尔语
 rolv_dialects:
   - rolv_code: 25010
     language_tag: gd-x-HIS25010

@@ -1,7 +1,6 @@
 ---
 iso: krl
 name: Karelian
-name_zh: 卡累利阿语
 autonym: karjal kariela  karjala
 alt_names: [An Chairéilis, Bahasa Karelia, Carelià, Gárjilgiella, Idioma carelio, Język karelski, "Kar'ala kiil", "Karel'skiy Jazyk", Karela lingvo, Karelian Proper, Karelieg, Karelies, Karelisch, Karelische Sprache, Karelsk, Karelsk språk, Karelska, Karely, Karelčina, Karelština, Karelų kalba, Karjala keel, Karjalai nyelv, Karēļu valoda, Lenga Karelian, Lingua careliana, Língua carélia, Olonetzisch-Lüdisch, Russisch-Karelisch, "Severno-Karel'skij", "Sobstvenno-Karel'skij-Jazyk", carélien, karel΄skij jazyk, karjala, karjalan kieli, venäjänkarjalaisten kieli, Карел кыв, Карелийн мотт, Карелски език, Карельська мова, Карелэнь кель, карельский язык, קרלית, カレリア語, 卡累利阿語, 카리알라어]
 population: 30600
@@ -16,6 +15,17 @@ glottolog_family_id: ural1272
 glottolog_family_name: Uralic
 glottolog_classification: "Uralic > Finnic > Coastal Finnic > Neva > North Finnic > Ladogan > Karelian"
 wikipedia_url: "https://en.wikipedia.org/wiki/Karelian_language"
+translations:
+  - translation_iso: ara
+    name: الكاريلية
+  - translation_iso: hin
+    name: करेलियन
+  - translation_iso: jpn
+    name: カレリア語
+  - translation_iso: kor
+    name: 카렐리야어
+  - translation_iso: zho
+    name: 卡累利阿语
 rolv_dialects:
   - rolv_code: 11612
     language_tag: krl-x-HIS11612

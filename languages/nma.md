@@ -1,8 +1,6 @@
 ---
 iso: nma
 name: Maram Naga
-name_zh: 玛拉姆纳加语
-name_zh_auto: true
 autonym: Maram Naga
 alt_names: [Maram, Naga, "Naga, Maram", "Naga,Maram"]
 population: 32500
@@ -16,6 +14,12 @@ glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Kuki-Chin-Naga > Zemeic > Maram Naga"
 wikipedia_url: "https://en.wikipedia.org/wiki/Maram_language"
+translations:
+  - translation_iso: hin
+    name: मरम भाषा
+  - translation_iso: zho
+    name: 玛拉姆纳加语
+    auto: true
 rolv_dialects:
   - rolv_code: 25798
     language_tag: nma-x-HIS25798

@@ -1,8 +1,6 @@
 ---
 iso: lwl
 name: Eastern Lawa
-name_zh: 东拉瓦语
-name_zh_auto: true
 autonym: Bo Luang Lawa
 alt_names: [Khalo, "La'wa", Lawa, "Lawa, Eastern", Mae Rim Lawa, Northern Lawa, Phalo, Phalok, Wiang Papao Lua]
 population: 7000
@@ -16,6 +14,10 @@ glottocode: east2330
 glottolog_family_id: aust1305
 glottolog_family_name: Austroasiatic
 glottolog_classification: "Austroasiatic > Khasi-Palaung > Palaungic > East Palaungic > Waic > Wa-Lawa > Lawa > Eastern Lawa"
+translations:
+  - translation_iso: zho
+    name: 东拉瓦语
+    auto: true
 rolv_dialects:
   - rolv_code: 3126
     language_tag: lwl-x-HIS03126

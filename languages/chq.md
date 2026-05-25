@@ -1,8 +1,6 @@
 ---
 iso: chq
 name: Quiotepec Chinantec
-name_zh: 基奥特佩克奇南特克语
-name_zh_auto: true
 autonym: Jmii’
 alt_names: [Chinantec, Chinantec (Quiotepec), "Chinantec, Quiotepec", Chinanteco, Chinanteco (Quiotepec), Chinanteco de la Sierra, Chinanteko, Comaltepec Chinantec, Highland, Highland Chinantec, Highland Chinanteco, Highland East Cushtic, Quiotepec, Quiotepec Chinanteko, Quiotepec dialect, Quiotepeco, Sierra Chinantec, Valle Nacional Chinantec, "jmiih dzä mo'"]
 population: 8000
@@ -16,6 +14,10 @@ glottolog_family_id: otom1299
 glottolog_family_name: Otomanguean
 glottolog_classification: "Otomanguean > Western Otomanguean > Otopame-Chinantecan > Chinantecan > Chinantec Group V > Quiotepec Chinantec"
 wikipedia_url: "https://en.wikipedia.org/wiki/Highland_Chinantec_language"
+translations:
+  - translation_iso: zho
+    name: 基奥特佩克奇南特克语
+    auto: true
 rolv_dialects:
   - rolv_code: 8810
     language_tag: chq-x-HIS08810

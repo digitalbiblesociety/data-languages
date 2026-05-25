@@ -1,8 +1,6 @@
 ---
 iso: kxw
 name: Konai
-name_zh: 科奈语
-name_zh_auto: true
 autonym: Mirapmin
 population: 600
 country_id: PG
@@ -15,5 +13,9 @@ glottolog_family_id: east2433
 glottolog_family_name: East Strickland
 glottolog_classification: "East Strickland > Konai"
 wikipedia_url: "https://en.wikipedia.org/wiki/Konai_language"
+translations:
+  - translation_iso: zho
+    name: 科奈语
+    auto: true
 ---
 Konai is a Trans–New Guinea language of New Guinea, spoken on the west bank of the Strickland River.

@@ -1,8 +1,6 @@
 ---
 iso: nuu
 name: Ngbundu
-name_zh: 恩布恩杜语
-name_zh_auto: true
 autonym: null
 alt_names: [Democratic Republic of the Congo]
 population: 16000
@@ -16,5 +14,11 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Cameroun-Ubangian > Ubangi > Ubangi Ka > Bandaic > Nuclear Bandaic > Ngbundu"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ngbundu_language"
+translations:
+  - translation_iso: jpn
+    name: ングブンドゥ語
+  - translation_iso: zho
+    name: 恩布恩杜语
+    auto: true
 ---
 Ngbundu is a minor Ubangian language (Banda) of the Democratic Republic of the Congo.

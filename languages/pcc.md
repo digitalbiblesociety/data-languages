@@ -1,7 +1,6 @@
 ---
 iso: pcc
 name: Bouyei
-name_zh: 布依语
 autonym: Giay (Yay)
 alt_names: [Bo-I, Bui, Buyei, Buyi, Buyui, Chung-Chia, Dioi, Giây, Nhang, Pu-I, Pu-Jui, Pui, Pujai, Puyi, Puyoi, Shuihu, Tujia, Yay, Zhongjia]
 population: 2664440
@@ -15,6 +14,13 @@ glottolog_family_id: taik1256
 glottolog_family_name: Tai-Kadai
 glottolog_classification: "Tai-Kadai > Kam-Tai > Daic-Beic > Daic > Northern Daic-Sek > Northern Daic > Northern Tai > Bouyei"
 wikipedia_url: "https://en.wikipedia.org/wiki/Bouyei_language"
+translations:
+  - translation_iso: jpn
+    name: プイ語
+  - translation_iso: kor
+    name: 부이어
+  - translation_iso: zho
+    name: 布依语
 rolv_dialects:
   - rolv_code: 4832
     language_tag: pcc-x-HIS04832

@@ -1,7 +1,6 @@
 ---
 iso: ayl
 name: Libyan Arabic
-name_zh: 利比亞口語
 autonym: ليبي
 alt_names: [Arabeg Libia, Arabic, Arabic (Cyrenaican Libyan), Arabic (East Libyan), Arabic (Eastern Libyan), Arabic (Western), "Arabic, Libyan", "Arabic, Libyan Spoken", Bedawi, Libijski arapski, Libyan Spoken Arabic, Libyan Vernacular Arabic, Maghrebi Arabic, Maghrebine, Sulaimitian, Sulaimitian Arabic, Árabe libio, Árabe líbio, Либиски арапски јазик, لهجة ليبية]
 population: 5036000
@@ -15,6 +14,15 @@ glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Semitic > West Semitic > Central Semitic > Arabian > Arabic > North African Arabic > Libyan Arabic"
 wikipedia_url: "https://en.wikipedia.org/wiki/Libyan_Arabic"
+translations:
+  - translation_iso: ara
+    name: اللهجة الليبية
+  - translation_iso: jpn
+    name: アラビア語リビア方言
+  - translation_iso: kor
+    name: 리비아 아랍어
+  - translation_iso: zho
+    name: 利比亞口語
 rolv_dialects:
   - rolv_code: 7119
     language_tag: ar-LY-x-HIS07119

@@ -1,8 +1,6 @@
 ---
 iso: syw
 name: Kagate
-name_zh: 卡盖特语
-name_zh_auto: true
 autonym: Syuba
 alt_names: ["K?gate", Kagate Bhote, Kāgatē, Shuba, Shyuba]
 population: 1270
@@ -16,5 +14,9 @@ glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Bodic > Bodish > Early Old Tibetan > Middle Old Tibetan > Late Old Tibetan > Central Tibetan > South-Western Tibetic > Kyirong-Kagate > Yolmo-Kagate > Kagate"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kagate_language"
+translations:
+  - translation_iso: zho
+    name: 卡盖特语
+    auto: true
 ---
 Kagate or Syuba is a language from the subgroup of Tibetic languages spoken by the Kagate people primarily in the Ramechhap district of Nepal.

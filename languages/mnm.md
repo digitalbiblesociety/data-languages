@@ -1,8 +1,6 @@
 ---
 iso: mnm
 name: Mapena
-name_zh: 玛佩纳语
-name_zh_auto: true
 autonym: null
 population: 450
 country_id: PG
@@ -15,6 +13,10 @@ glottolog_family_id: daga1274
 glottolog_family_name: Dagan
 glottolog_classification: "Dagan > Central Dagan > Southwest Dagan > Mapena"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mapena_language"
+translations:
+  - translation_iso: zho
+    name: 玛佩纳语
+    auto: true
 rolv_dialects:
   - rolv_code: 3611
     language_tag: mnm-x-HIS03611

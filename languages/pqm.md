@@ -1,7 +1,6 @@
 ---
 iso: pqm
 name: "Malecite-Passamaquoddy"
-name_zh: 马利西特-帕萨马阔迪语
 autonym: "Maliseet-Passamaquoddy"
 alt_names: [Malecite Cluster, Malesí-openango, Maliseet, Malécite, Malécite-passamaquoddy, Passamaquoddy, Passamaquoddy-Malecite, Passamaquoddy-Maliseet, Pennacook]
 population: 410
@@ -16,6 +15,17 @@ glottolog_family_id: algi1248
 glottolog_family_name: Algic
 glottolog_classification: "Algic > Algonquian-Blackfoot > Algonquian > Eastern Algonquian > Maritimes-Southern New England Algonquian > Northern Eastern Algonquian > Micmacic > Malecite-Passamaquoddy"
 wikipedia_url: "https://en.wikipedia.org/wiki/Maliseet-Passamaquoddy_language"
+translations:
+  - translation_iso: ara
+    name: ماليسيت-باساماقودي
+  - translation_iso: hin
+    name: मलेसीट-पासेमेक्वोडी
+  - translation_iso: jpn
+    name: マリシート＝パサマコディ語
+  - translation_iso: kor
+    name: 말리시트-파사마쿼디어
+  - translation_iso: zho
+    name: 马利西特-帕萨马阔迪语
 rolv_dialects:
   - rolv_code: 13488
     language_tag: pqm-x-HIS13488

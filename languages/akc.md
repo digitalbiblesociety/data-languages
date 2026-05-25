@@ -1,8 +1,6 @@
 ---
 iso: akc
 name: Mpur
-name_zh: 姆普尔语
-name_zh_auto: true
 autonym: Amberbaken
 alt_names: [Dekwambre, Ekware, Kebar]
 population: 7000
@@ -13,6 +11,10 @@ latitude: -0.7489
 longitude: 133.16598
 glottocode: mpur1239
 wikipedia_url: "https://en.wikipedia.org/wiki/Mpur_language"
+translations:
+  - translation_iso: zho
+    name: 姆普尔语
+    auto: true
 rolv_dialects:
   - rolv_code: 4236
     language_tag: akc-x-HIS04236

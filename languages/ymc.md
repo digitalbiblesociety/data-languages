@@ -1,8 +1,6 @@
 ---
 iso: ymc
 name: Southern Muji
-name_zh: 南穆吉语
-name_zh_auto: true
 autonym: Bokha
 alt_names: [Aga, Hlaka, Khlaka, Lahi, Muji, "Muji, Southern", "Muji,Southern", Mujima, Muzi, Phula, Southern, Tjeki, Tshebu, Tshibu]
 population: 26000
@@ -15,4 +13,8 @@ glottocode: sout2722
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Burmo-Qiangic > Lolo-Burmese > Loloish > Ni-Li-Kazhouish > Southeastern Ngwi > Highland Phula > Muji > Laghuu-Core Muji > Thopho-Core Muji > Core Muji > Nuclear Core Muji > Northern-Southern Muji > Southern Muji"
+translations:
+  - translation_iso: zho
+    name: 南穆吉语
+    auto: true
 ---

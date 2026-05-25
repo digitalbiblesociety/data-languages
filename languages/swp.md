@@ -1,8 +1,6 @@
 ---
 iso: swp
 name: Suau
-name_zh: 苏奥语
-name_zh_auto: true
 autonym: Iou
 population: 7810
 country_id: PG
@@ -15,6 +13,12 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > Papuan Tip linkage > Nuclear Papuan Tip linkage > Suauic > Suau chain > Suau"
 wikipedia_url: "https://en.wikipedia.org/wiki/Suau_language"
+translations:
+  - translation_iso: jpn
+    name: スアウ語
+  - translation_iso: zho
+    name: 苏奥语
+    auto: true
 rolv_dialects:
   - rolv_code: 2015
     language_tag: swp-x-HIS02015

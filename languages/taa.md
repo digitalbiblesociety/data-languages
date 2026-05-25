@@ -1,7 +1,6 @@
 ---
 iso: taa
 name: Lower Tanana
-name_zh: 下塔納納語
 autonym: Menhti Kenaga
 alt_names: [(Lower) Tanana, Minto, Nabesna, Tanana, Tanana (Lower), "Tanana, Lower"]
 population: 380
@@ -15,6 +14,11 @@ glottolog_family_id: atha1245
 glottolog_family_name: Athabaskan-Eyak-Tlingit
 glottolog_classification: "Athabaskan-Eyak-Tlingit > Athabaskan-Eyak > Athabaskan > Central Alaska-Yukon Athabaskan > Tanana-Tutchone > Tananaic > Lower Tanana"
 wikipedia_url: "https://en.wikipedia.org/wiki/Lower_Tanana_language"
+translations:
+  - translation_iso: jpn
+    name: タナナ語
+  - translation_iso: zho
+    name: 下塔納納語
 rolv_dialects:
   - rolv_code: 17184
     language_tag: taa-x-HIS17184

@@ -1,8 +1,6 @@
 ---
 iso: cae
 name: Lehar
-name_zh: 勒哈尔语
-name_zh_auto: true
 autonym: Lala
 alt_names: [Laalaa]
 population: 12000
@@ -16,6 +14,10 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Cangin > Saafi-Noon-Lehar > Noon-Lehar > Lehar"
 wikipedia_url: "https://en.wikipedia.org/wiki/Laalaa_language"
+translations:
+  - translation_iso: zho
+    name: 勒哈尔语
+    auto: true
 rolv_dialects:
   - rolv_code: 27536
     language_tag: cae-x-HIS27536

@@ -1,7 +1,6 @@
 ---
 iso: tqu
 name: Touo
-name_zh: 多沃语
 autonym: Baniata
 alt_names: [Lokuru, Mbaniata]
 population: 1870
@@ -12,5 +11,10 @@ latitude: -8.58405
 longitude: 157.29578
 glottocode: touo1238
 wikipedia_url: "https://en.wikipedia.org/wiki/Touo_language"
+translations:
+  - translation_iso: jpn
+    name: ムバニアタ語
+  - translation_iso: zho
+    name: 多沃语
 ---
 The Touo language, also known as Baniata (Mbaniata) or Lokuru, is spoken over the southern part of Rendova Island, located in the Western Province of the Solomon Islands.

@@ -1,7 +1,6 @@
 ---
 iso: alt
 name: Southern Altai
-name_zh: 南阿尔泰语
 autonym: Oirot
 alt_names: [Altai, Altai (Oirot), Altai (Southern), Altai Kalmuck, "Altai, Southern", Altai-Kalmückisch, Altay, Altaï méridional, Altái meridional, Oyrot, South Siberian Turkic, Sudaltaja lingvo, altai du Sud, алтай тили, южноалтайский язык]
 population: 57400
@@ -16,6 +15,17 @@ glottolog_family_id: turk1311
 glottolog_family_name: Turkic
 glottolog_classification: "Turkic > Common Turkic > Kipchak-Turkestan > Kipchak > Southeast Kipchak > East Kipchak > Southern Altai"
 wikipedia_url: "https://en.wikipedia.org/wiki/Southern_Altai_language"
+translations:
+  - translation_iso: ara
+    name: الألطائية الجنوبية
+  - translation_iso: hin
+    name: दक्षिणी अल्ताई
+  - translation_iso: jpn
+    name: 南アルタイ語
+  - translation_iso: kor
+    name: 남알타이어
+  - translation_iso: zho
+    name: 南阿尔泰语
 rolv_dialects:
   - rolv_code: 24262
     language_tag: alt-x-HIS24262

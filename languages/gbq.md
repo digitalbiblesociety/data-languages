@@ -1,8 +1,6 @@
 ---
 iso: gbq
 name: "Gbaya-Bozoum"
-name_zh: 加巴亚-博佐姆语
-name_zh_auto: true
 autonym: Bozom
 alt_names: [Gbaya, Gbaya de Bozoum]
 population: 32500
@@ -16,6 +14,12 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Gbaya-Manza-Ngbaka > Gbaya Meridional-Occidental > Bokoto-Gbeya > Gbeya > Gbaya-Bozoum"
 wikipedia_url: "https://en.wikipedia.org/wiki/Bozom_language"
+translations:
+  - translation_iso: jpn
+    name: グバヤ＝ボズム語
+  - translation_iso: zho
+    name: 加巴亚-博佐姆语
+    auto: true
 rolv_dialects:
   - rolv_code: 10136
     language_tag: gbq-x-HIS10136

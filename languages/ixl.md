@@ -1,7 +1,6 @@
 ---
 iso: ixl
 name: Ixil
-name_zh: 伊克西尔语
 autonym: "Ixil, San Juan Cotzal"
 alt_names: [Idioma ixil, Iŝiloj, Língua ixil, Ишилски јазик, Ишильский язык]
 population: 115000
@@ -15,6 +14,13 @@ glottolog_family_id: maya1287
 glottolog_family_name: Mayan
 glottolog_classification: "Mayan > Core Mayan > Quichean-Mamean > Greater Mamean > Ixilan > Ixil"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ixil_language"
+translations:
+  - translation_iso: jpn
+    name: イシル語
+  - translation_iso: kor
+    name: 이실어
+  - translation_iso: zho
+    name: 伊克西尔语
 rolv_dialects:
   - rolv_code: 486
     language_tag: ixl-x-HIS00486

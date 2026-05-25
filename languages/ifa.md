@@ -1,8 +1,6 @@
 ---
 iso: ifa
 name: Amganad Ifugao
-name_zh: 阿姆甘纳德伊富高语
-name_zh_auto: true
 autonym: Central Ifugao
 alt_names: [Amganad, "Ifugao, Amganad", Ifugu]
 population: 27100
@@ -15,6 +13,10 @@ glottocode: amga1235
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Northern Luzon > Meso-Cordilleran > South-Central Cordilleran > Central Cordilleran > Nuclear Cordilleran > Ifugaw > Amganad Ifugao"
+translations:
+  - translation_iso: zho
+    name: 阿姆甘纳德伊富高语
+    auto: true
 rolv_dialects:
   - rolv_code: 1876
     language_tag: ifa-x-HIS01876

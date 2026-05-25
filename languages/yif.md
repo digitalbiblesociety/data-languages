@@ -1,7 +1,6 @@
 ---
 iso: yif
 name: Ache
-name_zh: 阿車語
 autonym: null
 alt_names: ["Yi, Ache"]
 population: 35000
@@ -15,5 +14,8 @@ glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Burmo-Qiangic > Lolo-Burmese > Loloish > Ni-Li-Kazhouish > Southeastern Ngwi > Nisoid > Unclassified Nisoid > Ache"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ache_Yi_language"
+translations:
+  - translation_iso: zho
+    name: 阿車語
 ---
 Ache is a Loloish language spoken by the Yi people of south-central Yunnan, China. Ethnologue lists Azhe as an alternate name.

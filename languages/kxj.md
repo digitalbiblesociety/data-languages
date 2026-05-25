@@ -1,8 +1,6 @@
 ---
 iso: kxj
 name: Kulfa
-name_zh: 库尔法语
-name_zh_auto: true
 autonym: Kulfa
 alt_names: ["\"Kaba So\"", Koulfa, Kulfe, Kurmi, Kurumi]
 population: 2199
@@ -16,6 +14,10 @@ glottolog_family_id: cent2225
 glottolog_family_name: Central Sudanic
 glottolog_classification: "Central Sudanic > Sara-Bongo-Bagirmi > SBB Occidental > Nuclear SBB Occidental > Saraic > Sara Peripherique > Koulfaic > Kulfa"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kaba_So_language"
+translations:
+  - translation_iso: zho
+    name: 库尔法语
+    auto: true
 rolv_dialects:
   - rolv_code: 4914
     language_tag: kxj-x-HIS04914

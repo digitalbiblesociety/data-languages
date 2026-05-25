@@ -1,7 +1,6 @@
 ---
 iso: prx
 name: Purik
-name_zh: 藏回语
 autonym: Purigi
 alt_names: [Bhōṭiā of Purik, Burig, Burigskat, Purig, Purigskad, Purik Bhotia, Purki, Tibetan (Western)]
 population: 93500
@@ -15,6 +14,13 @@ glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Bodic > Bodish > Early Old Tibetan > Western Archaic Tibetan > Shamskatic > Purik-Sham-Nubra"
 wikipedia_url: "https://en.wikipedia.org/wiki/Purgi_language"
+translations:
+  - translation_iso: hin
+    name: पुरगी भाषा
+  - translation_iso: jpn
+    name: ブリグ
+  - translation_iso: zho
+    name: 藏回语
 rolv_dialects:
   - rolv_code: 1432
     language_tag: prx-x-HIS01432

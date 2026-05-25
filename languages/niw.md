@@ -1,8 +1,6 @@
 ---
 iso: niw
 name: Nimo
-name_zh: 尼莫语
-name_zh_auto: true
 autonym: "Nimo-Wasawai"
 alt_names: [Birua, Nimo-Wasuai]
 population: 350
@@ -16,5 +14,9 @@ glottolog_family_id: left1242
 glottolog_family_name: Left May
 glottolog_classification: "Left May > Western Left May > Nimo-Nakwi > Nimo"
 wikipedia_url: "https://en.wikipedia.org/wiki/Nimo_language"
+translations:
+  - translation_iso: zho
+    name: 尼莫语
+    auto: true
 ---
 Nimo (Nimo-Wasawai) is a Left May language of Papua New Guinea, in Sandaun Province. Nimo and Wasawai are two of the villages inhabited by speakers of this language. It is close to Nakwi.

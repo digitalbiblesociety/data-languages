@@ -1,8 +1,6 @@
 ---
 iso: woo
 name: Manombai
-name_zh: 马诺姆拜语
-name_zh_auto: true
 autonym: Manobai
 alt_names: [Aru, Wamar, Wokam]
 population: 7480
@@ -16,5 +14,9 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Aru > Central Aru > Manombai"
 wikipedia_url: "https://en.wikipedia.org/wiki/Manombai_language"
+translations:
+  - translation_iso: zho
+    name: 马诺姆拜语
+    auto: true
 ---
 Manombai is one of the Aru languages, spoken by inhabitants of the Aru Islands, Indonesia.

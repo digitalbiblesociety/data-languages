@@ -1,8 +1,6 @@
 ---
 iso: mki
 name: Dhatki
-name_zh: 达特基语
-name_zh_auto: true
 autonym: Dhati
 alt_names: [Thar]
 population: 206400
@@ -16,6 +14,12 @@ glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Indo-Aryan > Middle-Modern Indo-Aryan > Continental Indo-Aryan > Midlands Indo-Aryan > Apabhramsic > Gujarati-Rajasthani > Rajasthani > Western Rajasthani > Indus Rajasthani > Dhatki"
 wikipedia_url: "https://en.wikipedia.org/wiki/Dhatki_language"
+translations:
+  - translation_iso: hin
+    name: धक्ती भाषा
+  - translation_iso: zho
+    name: 达特基语
+    auto: true
 rolv_dialects:
   - rolv_code: 3571
     language_tag: mki-x-HIS03571

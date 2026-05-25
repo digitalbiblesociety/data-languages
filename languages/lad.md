@@ -1,7 +1,6 @@
 ---
 iso: lad
 name: Ladino
-name_zh: 拉迪諾語
 autonym: Ladino
 alt_names: [Dzhudezmo, Haketia, Hakitia, Haquetiya, Judeo Spanish, Judeo-Espagnol, Judeo-Spanish, Judezmo, Judéo-espagnol  (Europe), Judéo-espagnol (Israël), Sefardi, Sefardí (Israel), Sephardic, Spanyol, Tetuani, judéo-espagnol, Еврейско-романские языки]
 population: 51016
@@ -16,6 +15,17 @@ glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Italic > Latino-Faliscan > Latinic > Imperial Latin > Romance > Italo-Western Romance > Western Romance > Shifted Western Romance > Southwestern Shifted Romance > West Ibero-Romance > Castilic > South Castilic > Ladino"
 wikipedia_url: "https://en.wikipedia.org/wiki/Judaeo-Spanish"
+translations:
+  - translation_iso: ara
+    name: اللدينوية
+  - translation_iso: hin
+    name: लादीनो
+  - translation_iso: jpn
+    name: ラディーノ語
+  - translation_iso: kor
+    name: 라디노어
+  - translation_iso: zho
+    name: 拉迪諾語
 rolv_dialects:
   - rolv_code: 12670
     language_tag: lad-x-HIS12670

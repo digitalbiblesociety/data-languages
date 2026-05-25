@@ -1,7 +1,6 @@
 ---
 iso: tcb
 name: Tanacross
-name_zh: 塔納克羅斯語
 autonym: Neeʼaandegʼ
 alt_names: ["Nee'anděg'", Tanana, Tanana-Upper Kuskokwim, Transitional 2, Transitional Tanana]
 population: 120
@@ -15,6 +14,9 @@ glottolog_family_id: atha1245
 glottolog_family_name: Athabaskan-Eyak-Tlingit
 glottolog_classification: "Athabaskan-Eyak-Tlingit > Athabaskan-Eyak > Athabaskan > Central Alaska-Yukon Athabaskan > Tanana-Tutchone > Tananaic > Upper Tananaic > Tanacross"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tanacross_language"
+translations:
+  - translation_iso: zho
+    name: 塔納克羅斯語
 rolv_dialects:
   - rolv_code: 26457
     language_tag: tcb-x-HIS26457

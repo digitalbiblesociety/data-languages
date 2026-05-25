@@ -1,8 +1,6 @@
 ---
 iso: sqo
 name: Sorkhei
-name_zh: 索尔赫伊语
-name_zh_auto: true
 autonym: Sorkhei-Aftari
 alt_names: [Iran]
 population: 10000
@@ -16,6 +14,14 @@ glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Iranian-Nuristani > Iranian > Central Iranian PBS > Central Iranian PB > Northwestern Iranian > Komisenian > Sorkhei-Aftari"
 wikipedia_url: "https://en.wikipedia.org/wiki/Sorkhei_language"
+translations:
+  - translation_iso: ara
+    name: سرخي
+  - translation_iso: jpn
+    name: ソルヘ語
+  - translation_iso: zho
+    name: 索尔赫伊语
+    auto: true
 rolv_dialects:
   - rolv_code: 27160
     language_tag: sqo-x-HIS27160

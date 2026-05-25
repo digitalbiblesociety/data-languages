@@ -1,8 +1,6 @@
 ---
 iso: wlw
 name: Walak
-name_zh: 瓦拉克语
-name_zh_auto: true
 autonym: Lower Pyramid
 alt_names: [Wodo]
 population: 1500
@@ -16,5 +14,9 @@ glottolog_family_id: nucl1709
 glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Dani > Central Dani > Grand Valley Dani > Walakic > Walak"
 wikipedia_url: "https://en.wikipedia.org/wiki/Walak_language"
+translations:
+  - translation_iso: zho
+    name: 瓦拉克语
+    auto: true
 ---
 Walak is a Baliem Valley languages spoken by the Walak people of Jayawijaya and Central Mamberamo Regency in the Indonesian province of Highland Papua.

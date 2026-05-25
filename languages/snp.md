@@ -1,8 +1,6 @@
 ---
 iso: snp
 name: Siane
-name_zh: 西亚内语
-name_zh_auto: true
 autonym: Siane (Lambau)
 alt_names: [Siani]
 population: 29000
@@ -16,6 +14,12 @@ glottolog_family_id: nucl1709
 glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Kainantu-Goroka > Goroka > Nuclear Goroka > Siane-Yagaria > Siane"
 wikipedia_url: "https://en.wikipedia.org/wiki/Siane_language"
+translations:
+  - translation_iso: jpn
+    name: シアネ語
+  - translation_iso: zho
+    name: 西亚内语
+    auto: true
 rolv_dialects:
   - rolv_code: 16667
     language_tag: snp-x-HIS16667

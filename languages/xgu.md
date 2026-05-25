@@ -1,8 +1,6 @@
 ---
 iso: xgu
 name: Unggumi
-name_zh: 翁古米语
-name_zh_auto: true
 autonym: Ngarangari
 alt_names: [Ong Komi, Ongaranjan, Oonggoomi, Ungami, Ungkami, Ungumi, Uŋgumi, Wongkami, Wongkomi, Wungami, Wunggumi]
 population: null
@@ -15,4 +13,8 @@ glottocode: ungg1243
 glottolog_family_id: worr1236
 glottolog_family_name: Worrorran
 glottolog_classification: "Worrorran > Western Worrorran > Unggumi"
+translations:
+  - translation_iso: zho
+    name: 翁古米语
+    auto: true
 ---

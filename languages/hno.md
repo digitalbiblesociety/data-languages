@@ -1,8 +1,6 @@
 ---
 iso: hno
 name: Northern Hindko
-name_zh: 北印度库语
-name_zh_auto: true
 autonym: ہندکو
 alt_names: [Hazara Hindko, Hindki, "Hindko, Northern", Kagani, Kaghani, Lahnda, Northeastern Lahnda]
 population: 3570000
@@ -17,6 +15,10 @@ glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Indo-Aryan > Middle-Modern Indo-Aryan > Continental Indo-Aryan > Indo-Aryan Northwestern zone > Sindhi-Lahnda > Greater Panjabic > Hindko-Siraiki > Hindko > Northern Hindko"
 wikipedia_url: "https://en.wikipedia.org/wiki/Northern_Hindko_language"
+translations:
+  - translation_iso: zho
+    name: 北印度库语
+    auto: true
 rolv_dialects:
   - rolv_code: 25089
     language_tag: hno-x-HIS25089

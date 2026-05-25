@@ -1,8 +1,6 @@
 ---
 iso: beo
 name: Beami
-name_zh: 贝阿米语
-name_zh_auto: true
 autonym: Bedamini
 alt_names: [Bedamuni, Beothuc, Beothuk, Bethuck, Bethuk, Mougulu, Newfoundland, Red Indians]
 population: 5000
@@ -16,6 +14,10 @@ glottolog_family_id: bosa1245
 glottolog_family_name: Bosavi
 glottolog_classification: "Bosavi > Etoro-Bedamini > Beami"
 wikipedia_url: "https://en.wikipedia.org/wiki/Beami_language"
+translations:
+  - translation_iso: zho
+    name: 贝阿米语
+    auto: true
 rolv_dialects:
   - rolv_code: 7899
     language_tag: beo-x-HIS07899

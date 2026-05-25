@@ -1,8 +1,6 @@
 ---
 iso: bcv
 name: "Shoo-Minda-Nye"
-name_zh: 舒-明达-尼亚语
-name_zh_auto: true
 autonym: manda
 population: 10000
 country_id: NG
@@ -15,6 +13,10 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Jukunoid > Central Jukunoid > Jukun-Mbembe-Wurbo > Wurbo-Wannu > Wurbo > Shoo-Minda-Nye"
 wikipedia_url: "https://en.wikipedia.org/wiki/Shoo-Minda-Nye_language"
+translations:
+  - translation_iso: zho
+    name: 舒-明达-尼亚语
+    auto: true
 rolv_dialects:
   - rolv_code: 2656
     language_tag: bcv-x-HIS02656

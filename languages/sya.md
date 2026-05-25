@@ -1,8 +1,6 @@
 ---
 iso: sya
 name: Siang
-name_zh: 西昂语
-name_zh_auto: true
 autonym: Ot Siang
 population: 60000
 country_id: ID
@@ -15,6 +13,12 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Basap-Greater Barito > Greater Barito linkage > North West Greater Barito > Siang"
 wikipedia_url: "https://en.wikipedia.org/wiki/Siang_language"
+translations:
+  - translation_iso: kor
+    name: 시앙어
+  - translation_iso: zho
+    name: 西昂语
+    auto: true
 rolv_dialects:
   - rolv_code: 4627
     language_tag: sya-x-HIS04627

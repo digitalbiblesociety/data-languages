@@ -1,8 +1,6 @@
 ---
 iso: byr
 name: Baruya
-name_zh: 巴鲁亚语
-name_zh_auto: true
 autonym: Baruya
 alt_names: [Barua, Hipma, Yipma]
 population: 6600
@@ -16,6 +14,12 @@ glottolog_family_id: anga1289
 glottolog_family_name: Angan
 glottolog_classification: "Angan > Nuclear Angan > Baruya-Simbari > Baruya"
 wikipedia_url: "https://en.wikipedia.org/wiki/Yipma_language"
+translations:
+  - translation_iso: jpn
+    name: バルヤ語
+  - translation_iso: zho
+    name: 巴鲁亚语
+    auto: true
 rolv_dialects:
   - rolv_code: 7795
     language_tag: byr-x-HIS07795

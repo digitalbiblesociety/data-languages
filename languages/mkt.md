@@ -1,8 +1,6 @@
 ---
 iso: mkt
 name: Vamale
-name_zh: 瓦玛勒语
-name_zh_auto: true
 autonym: Hmwaeke
 alt_names: [Moaeke, Neukaledonien, Pamale]
 population: 150
@@ -16,6 +14,10 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Southern Melanesian > New Caledonian > Mainland New Caledonian > Northern New Caledonian > Mid-Northern New Caledonian > Voh-Kone-Cem-Pac > Voh-Kone > Vamale"
 wikipedia_url: "https://en.wikipedia.org/wiki/Vamale_language"
+translations:
+  - translation_iso: zho
+    name: 瓦玛勒语
+    auto: true
 rolv_dialects:
   - rolv_code: 18006
     language_tag: mkt-x-HIS18006

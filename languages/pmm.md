@@ -1,8 +1,6 @@
 ---
 iso: pmm
 name: Pomo
-name_zh: 波莫语
-name_zh_auto: true
 autonym: Congo Pol
 alt_names: [Pol, Pori, Pul]
 population: 44130
@@ -16,6 +14,10 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > Bantu A-B10-B20-B30 > Makaa-Kako (A.80-90) > Pol"
 wikipedia_url: "https://en.wikipedia.org/wiki/Pol_language"
+translations:
+  - translation_iso: zho
+    name: 波莫语
+    auto: true
 rolv_dialects:
   - rolv_code: 15713
     language_tag: pmm-x-HIS15713

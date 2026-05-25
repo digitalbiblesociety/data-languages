@@ -1,8 +1,6 @@
 ---
 iso: wru
 name: Waru
-name_zh: 瓦鲁语
-name_zh_auto: true
 autonym: Mopute
 alt_names: [Mapute]
 population: 350
@@ -16,6 +14,10 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Celebic > Greater Eastern Celebic > Eastern Celebic > Southeastern Celebic > Bungku-Tolaki > Western Bungku-Tolaki > West Coast Bungku-Tolaki > Waru"
 wikipedia_url: "https://en.wikipedia.org/wiki/Waru_language"
+translations:
+  - translation_iso: zho
+    name: 瓦鲁语
+    auto: true
 rolv_dialects:
   - rolv_code: 18212
     language_tag: wru-x-HIS18212

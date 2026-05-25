@@ -1,8 +1,6 @@
 ---
 iso: moy
 name: Shekkacho
-name_zh: 谢卡乔语
-name_zh_auto: true
 autonym: Mocha
 alt_names: [Kafa (Mo...a dialect), Kaffa, Kafficho, Kefa-Mocha, Moca, Shakacho, Shekka]
 population: 80100
@@ -16,5 +14,9 @@ glottolog_family_id: gong1255
 glottolog_family_name: Ta-Ne-Omotic
 glottolog_classification: "Ta-Ne-Omotic > Kefoid > South Gonga > Shekkacho"
 wikipedia_url: "https://en.wikipedia.org/wiki/Shakacho_language"
+translations:
+  - translation_iso: zho
+    name: 谢卡乔语
+    auto: true
 ---
 Shekkacho is an Afro-Asiatic Omotic language, spoken mainly in Sheka Zone at southwestern Ethiopia. It is most closely related to Kafa.

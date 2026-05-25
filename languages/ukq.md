@@ -1,8 +1,6 @@
 ---
 iso: ukq
 name: Ukwa
-name_zh: 乌克瓦语
-name_zh_auto: true
 autonym: null
 alt_names: [Nigeria]
 population: 100
@@ -16,5 +14,11 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Delta Cross > Lower Cross > Nuclear Lower Cross > Central Lower Cross > Efikic > Ukwa"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ukwa_language"
+translations:
+  - translation_iso: jpn
+    name: ウクワ語
+  - translation_iso: zho
+    name: 乌克瓦语
+    auto: true
 ---
 Ukwa is a minor Ibibio-Efik language of Nigeria.

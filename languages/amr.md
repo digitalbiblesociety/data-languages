@@ -1,8 +1,6 @@
 ---
 iso: amr
 name: Aratbuten huaʼa
-name_zh: 阿拉特布滕胡亚语
-name_zh_auto: true
 autonym: Harákmbut
 alt_names: ["\"Mashco\"", Amaracaeri, Amaracaire, Amarakaeri, Amarakaire, Amarakaéri, Harakambeto, Harakmbet, Hate, "Mashco (\"Mashco\" is a derogatory term.)", Tuyoneri]
 population: 1910
@@ -16,6 +14,12 @@ glottolog_family_id: hara1260
 glottolog_family_name: Harakmbut
 glottolog_classification: "Harakmbut > Amarakaeri"
 wikipedia_url: "https://en.wikipedia.org/wiki/Amarakaeri_language"
+translations:
+  - translation_iso: kor
+    name: 아마라카에리어
+  - translation_iso: zho
+    name: 阿拉特布滕胡亚语
+    auto: true
 rolv_dialects:
   - rolv_code: 6930
     language_tag: amr-x-HIS06930

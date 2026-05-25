@@ -1,8 +1,6 @@
 ---
 iso: tqr
 name: Torona
-name_zh: 托罗纳语
-name_zh_auto: true
 autonym: null
 alt_names: [Sudan]
 population: null
@@ -16,5 +14,11 @@ glottolog_family_id: narr1279
 glottolog_family_name: Narrow Talodi
 glottolog_classification: "Narrow Talodi > Lumun-Torona > Torona"
 wikipedia_url: "https://en.wikipedia.org/wiki/Torona_language"
+translations:
+  - translation_iso: jpn
+    name: トロナ語
+  - translation_iso: zho
+    name: 托罗纳语
+    auto: true
 ---
 Torona is an extinct Niger–Congo language that was spoken in South Kordofan, Sudan. Speakers have shifted to Tira. A description of Torona can be found in Norton & Alaki (2016).

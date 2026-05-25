@@ -1,8 +1,6 @@
 ---
 iso: buk
 name: Bugawac
-name_zh: 布加瓦克语
-name_zh_auto: true
 autonym: null
 alt_names: [Bukaua, Bukawa, Bukawa language, Bukawac, Kawa, Kawac, Yom Gawac]
 population: 12000
@@ -16,6 +14,10 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > North New Guinea linkage > Huon Gulf > North Huon Gulf linkage > Bugawac"
 wikipedia_url: "https://en.wikipedia.org/wiki/Bukawa_language"
+translations:
+  - translation_iso: zho
+    name: 布加瓦克语
+    auto: true
 rolv_dialects:
   - rolv_code: 24555
     language_tag: buk-x-HIS24555

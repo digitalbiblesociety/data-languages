@@ -1,7 +1,6 @@
 ---
 iso: aig
 name: Antigua and Barbuda Creole English
-name_zh: 背风加勒比克里奥尔语
 autonym: Antiguan Creole
 alt_names: ["Creole English, Antigua and Barbuda"]
 population: 159520
@@ -15,6 +14,15 @@ glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Germanic > Northwest Germanic > West Germanic > North Sea Germanic > Anglo-Frisian > Anglic > Later Anglic > Middle-Modern English > Macro-English > Guinea Coast Creole English > Caribbean English Creole > Eastern Caribbean Creole > Gullah-Nevis-Antigua > Antigua and Barbuda Creole English"
 wikipedia_url: "https://en.wikipedia.org/wiki/Antiguan_and_Barbudan_Creole"
+translations:
+  - translation_iso: ara
+    name: الكريولية الأنتيغوية وبربودية
+  - translation_iso: jpn
+    name: アンティグア・バーブーダ・クレオール語
+  - translation_iso: kor
+    name: 앤티가 바부다 크리올어
+  - translation_iso: zho
+    name: 背风加勒比克里奥尔语
 rolv_dialects:
   - rolv_code: 12827
     language_tag: aig-x-HIS12827

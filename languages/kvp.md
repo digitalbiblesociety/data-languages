@@ -1,8 +1,6 @@
 ---
 iso: kvp
 name: Kompane
-name_zh: 孔帕内语
-name_zh_auto: true
 autonym: Komfana
 alt_names: [Aru, Kongampani]
 population: 330
@@ -15,4 +13,8 @@ glottocode: komp1237
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Aru > Ujir-Kola-Kompane > Kola-Kompane > Kompane"
+translations:
+  - translation_iso: zho
+    name: 孔帕内语
+    auto: true
 ---

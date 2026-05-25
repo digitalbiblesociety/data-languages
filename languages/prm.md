@@ -1,8 +1,6 @@
 ---
 iso: prm
 name: Kibiri
-name_zh: 基比里语
-name_zh_auto: true
 autonym: Kibiri
 alt_names: [Gibiri, Kibiri-Porome, Kibirieg, Polome, Porome, Porome language]
 population: 1100
@@ -13,6 +11,10 @@ latitude: -7.45276
 longitude: 144.29554
 glottocode: kibi1239
 wikipedia_url: "https://en.wikipedia.org/wiki/Porome_language"
+translations:
+  - translation_iso: zho
+    name: 基比里语
+    auto: true
 rolv_dialects:
   - rolv_code: 1215
     language_tag: prm-x-HIS01215

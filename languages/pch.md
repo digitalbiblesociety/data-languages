@@ -1,8 +1,6 @@
 ---
 iso: pch
 name: Pardhan
-name_zh: 帕尔德汉语
-name_zh_auto: true
 autonym: Pradhan
 alt_names: [Gonḍi, Gōṇḍī, Pradhani]
 population: 347000
@@ -16,5 +14,9 @@ glottolog_family_id: unat1236
 glottolog_family_name: Unattested
 glottolog_classification: "Unattested > Dravidian (Unattested) > Pardhan"
 wikipedia_url: "https://en.wikipedia.org/wiki/Pardhan_language"
+translations:
+  - translation_iso: zho
+    name: 帕尔德汉语
+    auto: true
 ---
 Pardhan is a dialect of Gondi spoken by the Pardhan people, a community who are the traditional bards of the Gonds. Its speakers are found in areas where the Gonds live: southeastern Madhya Pradesh, far-eastern Maharashtra and northern Telangana. Approximately 140,000 people speak this dialect. Glottolog lists it as 'unattested'.

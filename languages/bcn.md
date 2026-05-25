@@ -1,8 +1,6 @@
 ---
 iso: bcn
 name: Bali (Nigeria)
-name_zh: 巴利语
-name_zh_auto: true
 autonym: Ị̀báalí
 alt_names: [Abaali, Bali, Bali language, Bibaali, Ibaali, Maya]
 population: 2000
@@ -16,5 +14,9 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Cameroun-Ubangian > Central Adamawa > Mumuye-Yandang > Yandangic > Bali-Kpasam > Bali (Nigeria)"
 wikipedia_url: "https://en.wikipedia.org/wiki/Bali_language_(Adamawa)"
+translations:
+  - translation_iso: zho
+    name: 巴利语
+    auto: true
 ---
 Bali is a Niger–Congo language spoken by 100,000 people in Demsa, Adamawa, Nigeria.

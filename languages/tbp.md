@@ -1,8 +1,6 @@
 ---
 iso: tbp
 name: Taworta
-name_zh: 塔沃尔塔语
-name_zh_auto: true
 autonym: Diebroud
 alt_names: [Bok, Dabra, Taburta, Taria, Taworta-Aero]
 population: 140
@@ -16,5 +14,9 @@ glottolog_family_id: lake1255
 glottolog_family_name: Lakes Plain
 glottolog_classification: "Lakes Plain > East Lakes Plain > Taworta"
 wikipedia_url: "https://en.wikipedia.org/wiki/Taworta_language"
+translations:
+  - translation_iso: zho
+    name: 塔沃尔塔语
+    auto: true
 ---
 Taworta, or Diebroud, is a Lakes Plain language spoken in Central Mamberamo, Highland Papua, Indonesia.

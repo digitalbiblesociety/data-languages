@@ -1,8 +1,6 @@
 ---
 iso: win
 name: "Ho-Chunk"
-name_zh: 何-奇克语
-name_zh_auto: true
 autonym: "Ho-Chunk"
 alt_names: [Hocak Wazijaci, Hocangara, Hocank, Hochank, Hochunk, Hock, Hocák, Hotcangara, Język winnebago, Winnebago, Winnebago (Nebraska), Winnebago (Wisconsin), Winnebago language]
 population: 250
@@ -16,6 +14,14 @@ glottolog_family_id: siou1252
 glottolog_family_name: Siouan
 glottolog_classification: "Siouan > Mississippi Valley > Winnebago-Chiwere > Ho-Chunk"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ho-Chunk_language"
+translations:
+  - translation_iso: ara
+    name: وينيباكو
+  - translation_iso: jpn
+    name: ウィネベゴ語
+  - translation_iso: zho
+    name: 何-奇克语
+    auto: true
 rolv_dialects:
   - rolv_code: 203
     language_tag: win-x-HIS00203

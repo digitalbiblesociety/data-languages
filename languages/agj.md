@@ -1,8 +1,6 @@
 ---
 iso: agj
 name: Argobba
-name_zh: 阿尔戈巴语
-name_zh_auto: true
 autonym: ዓርጎባ (Argoba)
 alt_names: [Argoba, Argobba jezik, Argobeg, Język argobba, لغة أرغوبية]
 population: 43700
@@ -16,5 +14,13 @@ glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Semitic > West Semitic > Ethiosemitic > South Ethiopic > Amharic-Argobba > Argobba"
 wikipedia_url: "https://en.wikipedia.org/wiki/Argobba_language"
+translations:
+  - translation_iso: ara
+    name: الأرغوبية
+  - translation_iso: jpn
+    name: アルゴッバ語
+  - translation_iso: zho
+    name: 阿尔戈巴语
+    auto: true
 ---
 Argobba is an Ethiopian Semitic language spoken in several districts of Afar, Amhara, and Oromia regions of Ethiopia by the Argobba people. It belongs to the South Ethiopic languages subgroup, and is closely related to Amharic.

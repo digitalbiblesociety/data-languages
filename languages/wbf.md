@@ -1,8 +1,6 @@
 ---
 iso: wbf
 name: Wara
-name_zh: 瓦拉语
-name_zh_auto: true
 autonym: Wara
 alt_names: [Ouala, Ouara, Samoe, Wára]
 population: 4500
@@ -16,6 +14,10 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Gur > Samu > Samue"
 wikipedia_url: "https://en.wikipedia.org/wiki/Samwe_language"
+translations:
+  - translation_iso: zho
+    name: 瓦拉语
+    auto: true
 rolv_dialects:
   - rolv_code: 18190
     language_tag: wbf-x-HIS18190

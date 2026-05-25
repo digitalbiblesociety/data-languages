@@ -1,7 +1,6 @@
 ---
 iso: yue
 name: Yue Chinese
-name_zh: 粤语
 autonym: Cantonese
 alt_names: [Cantonese Chinese, "Cantonese, Yue", Chinese, Chinese (Cantonese), "Chinese, Yue", "Chinese,Yue", Yue, Yue Dialect Family, Yuè, Yüeh]
 population: 73100000
@@ -16,6 +15,17 @@ glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Sinitic > Classical-Middle-Modern Sinitic > Middle-Modern Sinitic > Yue-Pinghua > Yue Chinese"
 wikipedia_url: "https://en.wikipedia.org/wiki/Yue_Chinese"
+translations:
+  - translation_iso: ara
+    name: صينية يوي
+  - translation_iso: hin
+    name: यू चीनी
+  - translation_iso: jpn
+    name: 粤語
+  - translation_iso: kor
+    name: 월어
+  - translation_iso: zho
+    name: 粤语
 rolv_dialects:
   - rolv_code: 2097
     language_tag: zh-Hant-x-HIS02097

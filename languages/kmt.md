@@ -1,8 +1,6 @@
 ---
 iso: kmt
 name: Kemtuik
-name_zh: 克姆图伊克语
-name_zh_auto: true
 autonym: Kamtuk
 alt_names: [Kemtuk]
 population: 2500
@@ -16,5 +14,9 @@ glottolog_family_id: nimb1257
 glottolog_family_name: Nimboranic
 glottolog_classification: "Nimboranic > Outer Nimboranic > Mlap-Gresi-Kemtuik > Gresi-Kemtuik > Kemtuik"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kemtuik_language"
+translations:
+  - translation_iso: zho
+    name: 克姆图伊克语
+    auto: true
 ---
 Kemtuik (Kemtuk) is a Papuan language of Kemtuk and Kemtuk Gresi Districts, Jayapura Regency, Indonesia. It is very close to Gresi. It is spoken in Aib, Aimbe, Braso, Mamda, Mamdayawang, Meikari, Merem, Sabeyap, Sabeyap Kecil, Sabron Yaru, Sabransamon, Sekorup, and Yanim villages.

@@ -1,8 +1,6 @@
 ---
 iso: mpb
 name: Malak Malak
-name_zh: 玛拉克玛拉克语
-name_zh_auto: true
 autonym: Mullukmulluk
 alt_names: [Akana, Djiramo, Djiramö, Gamu, Junggor, Kamor, Madngela, Malack malack, Malack-malack, Malag Malag, Malag-Malag, Malagmalag, Malak-Malak, Malak-Malak language, MalakMalak, Mallackmallack, Mallak mallak, Mallak-mallak, Matngela, Mollak mollak, Mollak-mollak, Mollakmollak, Mollok Mollok, Mullik mullik, Mullik-Mullik, Mullikmullik, Mullu Mulluc, Mullu-Mulluc, Mulluc-Mulluc, Mulluck Mulluck, Mulluk Mulluk, Mulluk-Mulluk, Mulukmuluk, Mulukomuluko, Ngolak wonga, Ngolak-Wanggar, Ngolak-Wonga, Ngolok Wangar, Ngolok-Wangar, Ngolokwangga, Ngoluk wanggar, Ngulugwanga, Ngulugwongga, Nguluk Wangkar, Ngulukwongga, Ngulul Wanggar, Ngululwanga, Nguluwongga, Northern Daly language, Valli valli, Valli-valli, Wooliana, Yunggor]
 population: 10
@@ -16,5 +14,9 @@ glottolog_family_id: nort1547
 glottolog_family_name: Northern Daly
 glottolog_classification: "Northern Daly > Mullukmulluk"
 wikipedia_url: "https://en.wikipedia.org/wiki/Malak-Malak_language"
+translations:
+  - translation_iso: zho
+    name: 玛拉克玛拉克语
+    auto: true
 ---
 Malak-Malak, also known as Ngolak-Wonga (Nguluwongga), is an Australian Aboriginal language spoken by the Mulluk-Mulluk people. Malak-Malak is nearly extinct, with children growing up speaking Kriol or English instead. The language is spoken in the Daly River area around Woolianna and Nauiyu. The Kuwema or Tyaraity (Tyeraty) variety is distinct.

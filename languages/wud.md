@@ -1,8 +1,6 @@
 ---
 iso: wud
 name: Wudu
-name_zh: 乌杜语
-name_zh_auto: true
 autonym: null
 alt_names: [Togo]
 population: 2000
@@ -16,5 +14,9 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Kwa Volta-Congo > Gbe > Eastern Gbe > Fongbeic > Wudu"
 wikipedia_url: "https://en.wikipedia.org/wiki/Wudu_language"
+translations:
+  - translation_iso: zho
+    name: 乌杜语
+    auto: true
 ---
 Wudu is a language spoken in Togo. It is part of a dialect continuum which also includes Ewe and Gen.

@@ -1,8 +1,6 @@
 ---
 iso: sxn
 name: Sangir
-name_zh: 桑吉尔语
-name_zh_auto: true
 autonym: Siau
 alt_names: [Bahasa Sangihe, Sangi, Sangih, Sangihé, Sangirese]
 population: 165000
@@ -17,6 +15,12 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Sangiric-Minahasan > Sangiric > Northern Sangiric > Sangil-Sangir > Sangir"
 wikipedia_url: "https://en.wikipedia.org/wiki/Sangir_language"
+translations:
+  - translation_iso: jpn
+    name: サンギル語
+  - translation_iso: zho
+    name: 桑吉尔语
+    auto: true
 rolv_dialects:
   - rolv_code: 709
     language_tag: sxn-x-HIS00709

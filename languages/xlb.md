@@ -1,8 +1,6 @@
 ---
 iso: xlb
 name: Loup B
-name_zh: 路普B语
-name_zh_auto: true
 autonym: null
 population: null
 country_id: US
@@ -14,4 +12,8 @@ glottocode: loup1245
 glottolog_family_id: algi1248
 glottolog_family_name: Algic
 glottolog_classification: "Algic > Algonquian-Blackfoot > Algonquian > Eastern Algonquian > Delawaran > Mahican-Woronoco-Pojassick > Loup B"
+translations:
+  - translation_iso: zho
+    name: 路普B语
+    auto: true
 ---

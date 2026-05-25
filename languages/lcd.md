@@ -1,8 +1,6 @@
 ---
 iso: lcd
 name: Lola
-name_zh: 洛拉语
-name_zh_auto: true
 autonym: bahasa Lola
 alt_names: [Aru, Buru]
 population: 830
@@ -16,6 +14,10 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Aru > Central Aru > Lola"
 wikipedia_url: "https://en.wikipedia.org/wiki/Lola_language"
+translations:
+  - translation_iso: zho
+    name: 洛拉语
+    auto: true
 rolv_dialects:
   - rolv_code: 13051
     language_tag: lcd-x-HIS13051

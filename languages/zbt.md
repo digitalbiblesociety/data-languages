@@ -1,8 +1,6 @@
 ---
 iso: zbt
 name: Batui
-name_zh: 巴图伊语
-name_zh_auto: true
 autonym: Baha
 alt_names: [Pamona]
 population: 2900
@@ -16,5 +14,9 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Celebic > Greater Eastern Celebic > Eastern Celebic > Saluan-Banggai > Western Saluan-Banggai > Saluanic > Batui-Saluan > Batui"
 wikipedia_url: "https://en.wikipedia.org/wiki/Batui_language"
+translations:
+  - translation_iso: zho
+    name: 巴图伊语
+    auto: true
 ---
 Batui is an Austronesian language spoken by a small group of people on the eastern peninsula of the island of Sulawesi.

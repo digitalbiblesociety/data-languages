@@ -1,7 +1,6 @@
 ---
 iso: adx
 name: Amdo Tibetan
-name_zh: 安多方言
 autonym: ཨ་མདོ་སྐད་
 alt_names: [Amdo, Amdoeg, Anduo, Język amdo, Ngambo, Tibetan (Amdo), "Tibetan, Amdo", "Tibetan,Amdo", hBrogpa, 安多方言]
 population: 1800000
@@ -15,6 +14,13 @@ glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Bodic > Bodish > Early Old Tibetan > Middle Old Tibetan > North-Eastern Tibetic > Amdo Tibetan"
 wikipedia_url: "https://en.wikipedia.org/wiki/Amdo_Tibetan"
+translations:
+  - translation_iso: jpn
+    name: アムド・チベット語
+  - translation_iso: kor
+    name: 암도 티베트어
+  - translation_iso: zho
+    name: 安多方言
 rolv_dialects:
   - rolv_code: 6255
     language_tag: adx-x-HIS06255

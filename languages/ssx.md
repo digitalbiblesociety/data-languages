@@ -1,8 +1,6 @@
 ---
 iso: ssx
 name: Samberigi
-name_zh: 桑贝里吉语
-name_zh_auto: true
 autonym: Sau
 alt_names: [Sanaberigi]
 population: 3130
@@ -16,6 +14,10 @@ glottolog_family_id: nucl1709
 glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Enga-Kewa-Huli > Kewa-Huli > Sau-Angal-Kewa > Samberigi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Samberigi_language"
+translations:
+  - translation_iso: zho
+    name: 桑贝里吉语
+    auto: true
 rolv_dialects:
   - rolv_code: 355
     language_tag: ssx-x-HIS00355

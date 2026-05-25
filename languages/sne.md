@@ -1,7 +1,6 @@
 ---
 iso: sne
 name: Bau Bidayuh
-name_zh: 查格依
 autonym: Bau
 alt_names: [Bau-Jagoi, "Bidayuh, Bau", Dayak, Jaggoi, Jagoi, Sarawak Dayak]
 population: 29200
@@ -15,6 +14,9 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Land Dayak > Bidayuh-Southern Land Dayak > Bidayuh > Central-Western Bidayuh > Bau-Jagoi Bidayuh"
 wikipedia_url: "https://en.wikipedia.org/wiki/Jagoi_language"
+translations:
+  - translation_iso: zho
+    name: 查格依
 rolv_dialects:
   - rolv_code: 11069
     language_tag: sne-x-HIS11069

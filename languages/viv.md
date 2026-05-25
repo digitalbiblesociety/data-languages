@@ -1,8 +1,6 @@
 ---
 iso: viv
 name: Iduna
-name_zh: 伊都纳语
-name_zh_auto: true
 autonym: Vivigani
 alt_names: [Vivigana]
 population: 6000
@@ -16,6 +14,10 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > Papuan Tip linkage > Nuclear Papuan Tip linkage > North Papuan Mainland-D'Entrecasteaux linkage > Bwaidoga linkage > Bwaidoka-Iduna > Iduna"
 wikipedia_url: "https://en.wikipedia.org/wiki/Iduna_language"
+translations:
+  - translation_iso: zho
+    name: 伊都纳语
+    auto: true
 rolv_dialects:
   - rolv_code: 2213
     language_tag: viv-x-HIS02213

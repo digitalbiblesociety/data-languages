@@ -1,8 +1,6 @@
 ---
 iso: zpv
 name: Chichicapan Zapotec
-name_zh: 奇奇卡潘萨波特克语
-name_zh_auto: true
 autonym: (San Baltazar Chichicápam)
 alt_names: [Central Sapoteko, Central Valley Zapotec, Central Valley Zapotec dialect continuum, Eastern OcotlÃ¡n Zapotec, Ocotec, Quiatoni Zapotec, Tlacolula Valley Zapotec, Zapotec, "Zapotec, Chichicapan", Zapoteco de San Baltazar Chichicapan, Zapoteco de San Felipe Tejalápam, Zapotèque de San Felipe Tejalapan]
 population: 2720
@@ -16,5 +14,9 @@ glottolog_family_id: otom1299
 glottolog_family_name: Otomanguean
 glottolog_classification: "Otomanguean > Eastern Otomanguean > Popoloca-Zapotecan > Zapotecan > Zapotec > Core Zapotec > Narrow Core Zapotec > Central Core Zapotec > Western Valley Zapotec > Chichicapan Zapotec"
 wikipedia_url: "https://en.wikipedia.org/wiki/Chichic%C3%A1pam_Zapotec"
+translations:
+  - translation_iso: zho
+    name: 奇奇卡潘萨波特克语
+    auto: true
 ---
 Chichicapan Zapotec is a Zapotec language of Oaxaca, Mexico. The town's name is spelled as both Chichicápam and Chichicapan.

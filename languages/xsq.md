@@ -1,8 +1,6 @@
 ---
 iso: xsq
 name: "Makhuwa-Saka"
-name_zh: 马库瓦-萨卡语
-name_zh_auto: true
 autonym: Emakuana
 alt_names: [Esaaka, Isaanga, Ishanga, Saaka, Saanga, Saka, Sanga]
 population: 432000
@@ -15,6 +13,10 @@ glottocode: makh1266
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > East Bantu > North Mozambique Bantu > Makua-Lomwe > Makhuwa-Saka"
+translations:
+  - translation_iso: zho
+    name: 马库瓦-萨卡语
+    auto: true
 rolv_dialects:
   - rolv_code: 25571
     language_tag: xsq-x-HIS25571

@@ -1,8 +1,6 @@
 ---
 iso: jer
 name: Jere
-name_zh: 杰雷语
-name_zh_auto: true
 autonym: Jeere
 alt_names: [Jera]
 population: 23000
@@ -16,6 +14,10 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Kainji > Central Kainji > Basa-Eastern Kainji > Eastern Kainji > Jos > Northern Jos > North-Central Jos > Boze-Loro > Jere"
 wikipedia_url: "https://en.wikipedia.org/wiki/Zele_language"
+translations:
+  - translation_iso: zho
+    name: 杰雷语
+    auto: true
 rolv_dialects:
   - rolv_code: 1925
     language_tag: jer-x-HIS01925

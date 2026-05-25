@@ -1,7 +1,6 @@
 ---
 iso: ivv
 name: Ivatan
-name_zh: 伊巴丹語
 autonym: Ibatan
 alt_names: [Ivatan (Southern), Ivatanen, Philippines, Southern, Wikang Ibatan, ภาษาอีวาตัน]
 population: 35000
@@ -15,5 +14,12 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Batanic > Yami-Itbayat > Itbayat"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ivatan_language"
+translations:
+  - translation_iso: jpn
+    name: イヴァタン語
+  - translation_iso: kor
+    name: 이바탄어
+  - translation_iso: zho
+    name: 伊巴丹語
 ---
 The Ivatan language, also known as Chirin nu Ivatan, is an Austronesian language spoken in the Batanes Islands of the Philippines.

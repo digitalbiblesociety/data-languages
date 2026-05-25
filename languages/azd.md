@@ -1,8 +1,6 @@
 ---
 iso: azd
 name: Eastern Durango Nahuatl
-name_zh: 东杜兰戈纳瓦特尔语
-name_zh_auto: true
 autonym: Durango Aztec
 alt_names: ["Nahuatl, Eastern Durango"]
 population: null
@@ -15,6 +13,10 @@ glottocode: east2695
 glottolog_family_id: utoa1244
 glottolog_family_name: Uto-Aztecan
 glottolog_classification: "Uto-Aztecan > Southern Uto-Aztecan > Corachol-Aztecan > Aztec > Western Nahuatl > Western Periphery-North Guerrero Nahuatl > Western Periphery Nahuatl > Durango Nahuatl > Eastern Durango Nahuatl"
+translations:
+  - translation_iso: zho
+    name: 东杜兰戈纳瓦特尔语
+    auto: true
 rolv_dialects:
   - rolv_code: 22534
     language_tag: azd-x-HIS22534

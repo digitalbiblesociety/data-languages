@@ -1,7 +1,6 @@
 ---
 iso: mkg
 name: Mak (China)
-name_zh: 莫语
 autonym: ʼai3 ma꞉k8
 alt_names: [Ching, Mak, Mo, Mo-Hua, Mochiahua, Mohua, Mojiahua, 吳家話, 莫話, 莫語, 錦話]
 population: 10000
@@ -15,6 +14,9 @@ glottolog_family_id: taik1256
 glottolog_family_name: Tai-Kadai
 glottolog_classification: "Tai-Kadai > Kam-Tai > Kam-Sui > Then-MMS > Maonan-Mak-Sui > Mak-Ai-Cham > Mak (China)"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mak_language"
+translations:
+  - translation_iso: zho
+    name: 莫语
 rolv_dialects:
   - rolv_code: 13342
     language_tag: mkg-x-HIS13342

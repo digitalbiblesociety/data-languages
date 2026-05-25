@@ -1,7 +1,6 @@
 ---
 iso: cbk
 name: Chavacano
-name_zh: 查瓦卡諾語
 autonym: Chabacano
 alt_names: [Chabacano nyelv, Chabakan, Chavacano-ngî, Idioma chabacano, Język chavacano, Lingua chavacan, Lingua zamboangueña, Língua chavacana, Pinulongang Tsabakano, Tataramon na Zamboangueño, Wikang Zamboangueño, Zamboangueño, Чабакано, ภาษาชาวากาโน, チャバカノ語, 차바카노어]
 population: 427000
@@ -15,6 +14,15 @@ glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Italic > Latino-Faliscan > Latinic > Imperial Latin > Romance > Italo-Western Romance > Western Romance > Shifted Western Romance > Southwestern Shifted Romance > West Ibero-Romance > Castilic > South Castilic > Ternate-Zamboanga-Cavite > Chavacano"
 wikipedia_url: "https://en.wikipedia.org/wiki/Chavacano"
+translations:
+  - translation_iso: ara
+    name: لغة تشاباكانو
+  - translation_iso: jpn
+    name: チャバカノ語
+  - translation_iso: kor
+    name: 차바카노어
+  - translation_iso: zho
+    name: 查瓦卡諾語
 rolv_dialects:
   - rolv_code: 8714
     language_tag: cbk-x-HIS08714

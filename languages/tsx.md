@@ -1,8 +1,6 @@
 ---
 iso: tsx
 name: Mubami
-name_zh: 穆巴米语
-name_zh_auto: true
 autonym: Tao
 alt_names: [Dausame, Dausuami, Ta, Tao-Suamato, Tao-Suame]
 population: 1730
@@ -16,6 +14,10 @@ glottolog_family_id: anim1240
 glottolog_family_name: Anim
 glottolog_classification: "Anim > Inland Gulf of Papua > West Inland Gulf of Papua > Mubami"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mubami_language"
+translations:
+  - translation_iso: zho
+    name: 穆巴米语
+    auto: true
 rolv_dialects:
   - rolv_code: 616
     language_tag: tsx-x-HIS00616

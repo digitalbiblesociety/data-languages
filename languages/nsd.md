@@ -1,7 +1,6 @@
 ---
 iso: nsd
 name: Southern Nisu
-name_zh: 南尼苏语
 autonym: Southern Yi
 alt_names: [Nisu, "Nisu, Southern", "Nisu,Southern", Yuan-Mo Yi]
 population: 210000
@@ -14,4 +13,7 @@ glottocode: sout2723
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Burmo-Qiangic > Lolo-Burmese > Loloish > Ni-Li-Kazhouish > Southeastern Ngwi > Nisoid > Nisu-Nyisu > Nisu > Nuclear Nisu > Southern Nisu"
+translations:
+  - translation_iso: zho
+    name: 南尼苏语
 ---

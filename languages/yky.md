@@ -1,7 +1,6 @@
 ---
 iso: yky
 name: Yakoma
-name_zh: 亚科马语
 autonym: null
 alt_names: [Sango]
 population: 110000
@@ -14,4 +13,7 @@ glottocode: yako1252
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Cameroun-Ubangian > Ubangi > Ngbandi-Mongoba-Kazibati > Ngbandic > Nuclear Ngbandic > Yakoma"
+translations:
+  - translation_iso: zho
+    name: 亚科马语
 ---

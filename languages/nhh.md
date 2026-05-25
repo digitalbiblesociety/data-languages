@@ -1,8 +1,6 @@
 ---
 iso: nhh
 name: Nahari
-name_zh: 纳哈里语
-name_zh_auto: true
 autonym: Nahali
 alt_names: [ภาษานาฮารี]
 population: 20400
@@ -16,5 +14,11 @@ glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Indo-Aryan > Middle-Modern Indo-Aryan > Continental Indo-Aryan > Indo-Aryan Eastern zone > Halbic > Nahari"
 wikipedia_url: "https://en.wikipedia.org/wiki/Nahari_language"
+translations:
+  - translation_iso: hin
+    name: नाहारी
+  - translation_iso: zho
+    name: 纳哈里语
+    auto: true
 ---
 Nahari is an Indo-Aryan language spoken in the states of Chhattisgarh and Odisha in India.

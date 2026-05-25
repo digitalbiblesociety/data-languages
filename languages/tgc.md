@@ -1,8 +1,6 @@
 ---
 iso: tgc
 name: Tigak
-name_zh: 蒂加克语
-name_zh_auto: true
 autonym: Omo
 alt_names: [Neu-Mecklenburg]
 population: 6000
@@ -16,6 +14,12 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > Meso Melanesian linkage > New Ireland-Northwest Solomonic linkage > Tungak-Nalik > Tigak"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tigak_language"
+translations:
+  - translation_iso: jpn
+    name: ティガク語
+  - translation_iso: zho
+    name: 蒂加克语
+    auto: true
 rolv_dialects:
   - rolv_code: 17483
     language_tag: tgc-x-HIS17483

@@ -1,7 +1,6 @@
 ---
 iso: idu
 name: Idoma
-name_zh: 伊多马语
 autonym: Ìdɔ́mà
 alt_names: [Nigeria]
 population: 927000
@@ -15,6 +14,11 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Idomoid > Akweya > Etulo-Idoma > Nuclear Idoma > Idoma-Agatu-Okpogu > Idoma"
 wikipedia_url: "https://en.wikipedia.org/wiki/Idoma_language"
+translations:
+  - translation_iso: jpn
+    name: イドマ語
+  - translation_iso: zho
+    name: 伊多马语
 rolv_dialects:
   - rolv_code: 2133
     language_tag: idu-x-HIS02133

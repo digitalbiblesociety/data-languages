@@ -1,8 +1,6 @@
 ---
 iso: gak
 name: Gamkonora
-name_zh: 甘科莫拉语
-name_zh_auto: true
 autonym: bahasa Gamkonora
 alt_names: [Indonesia]
 population: 1500
@@ -16,5 +14,9 @@ glottolog_family_id: nort2923
 glottolog_family_name: North Halmahera
 glottolog_classification: "North Halmahera > Northern North Halmahera > Sahuan > Nuclear Sahuan > Gamkonora"
 wikipedia_url: "https://en.wikipedia.org/wiki/Gamkonora_language"
+translations:
+  - translation_iso: zho
+    name: 甘科莫拉语
+    auto: true
 ---
 Gamkonora is one of the North Halmahera languages used in West Halmahera. It is spoken in the region around Mount Gamkonora, where its speakers are mostly concentrated.

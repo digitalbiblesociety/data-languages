@@ -1,7 +1,6 @@
 ---
 iso: ood
 name: "Tohono O'odham"
-name_zh: 奥奥萨姆语
 autonym: "ʼOʼodham ha-ñeʼokĭ"
 alt_names: [Hanan Pima simi, "Idioma o'odham", "Język o'odham", Nebome, Nebomi, Nevome, Nevomi, Névome, "O'odham", "O'odham (Akimel)", "O'odham (Mexique)", "O'odham (Tohono)", "O'odham language", "O'othham", Odameg, Papago, Papago (Tohono), Papago-Pima, Pima, Pima-Papago, Pima-Pápago, "Pima-Pápago, Névome", Sobaipuri, Tepiman, Upper Piman, Оодхам]
 population: 14110
@@ -15,6 +14,11 @@ glottolog_family_id: utoa1244
 glottolog_family_name: Uto-Aztecan
 glottolog_classification: "Uto-Aztecan > Southern Uto-Aztecan > Tepiman > Piman > Tohono O'odham"
 wikipedia_url: "https://en.wikipedia.org/wiki/O%CA%BCodham_language"
+translations:
+  - translation_iso: jpn
+    name: パパゴ語
+  - translation_iso: zho
+    name: 奥奥萨姆语
 rolv_dialects:
   - rolv_code: 237
     language_tag: ood-x-HIS00237

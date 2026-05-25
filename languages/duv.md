@@ -1,8 +1,6 @@
 ---
 iso: duv
 name: Duvle
-name_zh: 杜夫勒语
-name_zh_auto: true
 autonym: Duvde
 alt_names: [Duve, Duvele, Duvre, Wiri]
 population: 930
@@ -16,6 +14,10 @@ glottolog_family_id: lake1255
 glottolog_family_name: Lakes Plain
 glottolog_classification: "Lakes Plain > Tariku > Duvle"
 wikipedia_url: "https://en.wikipedia.org/wiki/Duvle_language"
+translations:
+  - translation_iso: zho
+    name: 杜夫勒语
+    auto: true
 rolv_dialects:
   - rolv_code: 9479
     language_tag: duv-x-HIS09479

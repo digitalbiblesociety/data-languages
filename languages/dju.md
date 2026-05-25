@@ -1,8 +1,6 @@
 ---
 iso: dju
 name: Kapriman
-name_zh: 卡普里曼语
-name_zh_auto: true
 autonym: Mugumute
 alt_names: [Sare, Wasare]
 population: null
@@ -16,6 +14,10 @@ glottolog_family_id: sepi1257
 glottolog_family_name: Sepik
 glottolog_classification: "Sepik > Sepik Hill > Central-Eastern Sepik Hill > Central Sepik Hill > Nuclear Central Sepik Hill > Kaprimanic > Kapriman-Waxei > Kapriman"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kapriman_language"
+translations:
+  - translation_iso: zho
+    name: 卡普里曼语
+    auto: true
 rolv_dialects:
   - rolv_code: 11568
     language_tag: dju-x-HIS11568

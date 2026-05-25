@@ -1,8 +1,6 @@
 ---
 iso: psl
 name: Puerto Rican Sign Language
-name_zh: 波多黎各手语
-name_zh_auto: true
 autonym: Lenguaje de Señas Bolivianas LSB
 alt_names: [PRSL]
 population: 10000
@@ -16,5 +14,11 @@ glottolog_family_id: sign1238
 glottolog_family_name: Sign Language
 glottolog_classification: "Sign Language > L1 Sign Language > LSFic > ASLic > Puerto Rican Sign Language"
 wikipedia_url: "https://en.wikipedia.org/wiki/Puerto_Rican_Sign_Language"
+translations:
+  - translation_iso: jpn
+    name: プエルトリコ手話
+  - translation_iso: zho
+    name: 波多黎各手语
+    auto: true
 ---
 American Sign Language (ASL) developed in the United States, starting as a blend of local sign languages and French Sign Language (FSL). Local varieties have developed in many countries, but there is little research on which should be considered dialects of ASL and which have diverged to the point of being distinct languages.

@@ -1,8 +1,6 @@
 ---
 iso: gix
 name: Gilima
-name_zh: 吉利玛语
-name_zh_auto: true
 autonym: "Ngbaka Ma'bo"
 alt_names: [Democratic Republic of the Congo]
 population: 12000
@@ -15,4 +13,8 @@ glottocode: gili1241
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Cameroun-Ubangian > Ubangi > Ubangi Ka > Mundu-Baka > Western Mundu-Baka > River Western Mundu-Baka > Bwaka > Gilima"
+translations:
+  - translation_iso: zho
+    name: 吉利玛语
+    auto: true
 ---

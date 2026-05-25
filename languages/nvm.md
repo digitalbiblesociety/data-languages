@@ -1,8 +1,6 @@
 ---
 iso: nvm
 name: Namiae
-name_zh: 纳米亚语
-name_zh_auto: true
 autonym: Namiai (Barai)
 alt_names: [Barai]
 population: 1200
@@ -16,5 +14,9 @@ glottolog_family_id: koia1260
 glottolog_family_name: Koiarian
 glottolog_classification: "Koiarian > Baraic > Barai-Namiae > Namiae"
 wikipedia_url: "https://en.wikipedia.org/wiki/Namiae_language"
+translations:
+  - translation_iso: zho
+    name: 纳米亚语
+    auto: true
 ---
 Namiae is a Koiarian language of Oro Province, Papua New Guinea.

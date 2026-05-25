@@ -1,8 +1,6 @@
 ---
 iso: hra
 name: Hrangkhol
-name_zh: 赫朗科尔语
-name_zh_auto: true
 autonym: Hrangkhawl
 alt_names: [Hrangchol, Rancol, Rangkhol, Rāngkhōl]
 population: 18700
@@ -16,6 +14,12 @@ glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Kuki-Chin-Naga > Kuki-Chin > Central Kuki-Chin > Core Central Kuki-Chin > Mizoic > Hmaric > Hrangkhol"
 wikipedia_url: "https://en.wikipedia.org/wiki/Hrangkhol_language"
+translations:
+  - translation_iso: hin
+    name: हरंगखोल भाषा
+  - translation_iso: zho
+    name: 赫朗科尔语
+    auto: true
 rolv_dialects:
   - rolv_code: 887
     language_tag: hra-x-HIS00887

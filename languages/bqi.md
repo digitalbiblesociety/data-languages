@@ -1,7 +1,6 @@
 ---
 iso: bqi
 name: Bakhtiari
-name_zh: 巴赫蒂亚语
 autonym: بختیاری
 alt_names: [Bakhtiari dialect, Lori, Lori-ye Khaveri, Luri, گویش بختیاری]
 population: 1240000
@@ -16,6 +15,13 @@ glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Iranian-Nuristani > Iranian > Southwestern Iranian > Middle-Modern Persian > Modern Southwestern Iranian > Luric-Dezfulic > Luric > Bakhtiari-Southern Lori > Bakhtiari"
 wikipedia_url: "https://en.wikipedia.org/wiki/Bakhtiari_dialect"
+translations:
+  - translation_iso: ara
+    name: البختيارية
+  - translation_iso: jpn
+    name: バフティヤーリー語
+  - translation_iso: zho
+    name: 巴赫蒂亚语
 rolv_dialects:
   - rolv_code: 24502
     language_tag: bqi-x-HIS24502

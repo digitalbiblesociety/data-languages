@@ -1,8 +1,6 @@
 ---
 iso: lwo
 name: Luwo
-name_zh: 卢沃语
-name_zh_auto: true
 autonym: Luwo
 alt_names: [Dhe Luwo, Dhe Lwo, Giur, Jo Lwo, Jur, Jur Luo, Jur Luwo, Jur Lwo, Lwo]
 population: 257000
@@ -16,6 +14,12 @@ glottolog_family_id: nilo1247
 glottolog_family_name: Nilotic
 glottolog_classification: "Nilotic > Western Nilotic > Lwoo > Northern Lwoo > Luwo-Thuri > Luwo"
 wikipedia_url: "https://en.wikipedia.org/wiki/Jur_language"
+translations:
+  - translation_iso: jpn
+    name: ルウォ語
+  - translation_iso: zho
+    name: 卢沃语
+    auto: true
 rolv_dialects:
   - rolv_code: 930
     language_tag: lwo-x-HIS00930

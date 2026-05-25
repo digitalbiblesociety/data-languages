@@ -1,8 +1,6 @@
 ---
 iso: ibu
 name: Ibu
-name_zh: 伊布语
-name_zh_auto: true
 autonym: null
 population: 200
 country_id: ID
@@ -14,4 +12,8 @@ glottocode: ibuu1240
 glottolog_family_id: nort2923
 glottolog_family_name: North Halmahera
 glottolog_classification: "North Halmahera > Northern North Halmahera > Sahuan > Ibu"
+translations:
+  - translation_iso: zho
+    name: 伊布语
+    auto: true
 ---

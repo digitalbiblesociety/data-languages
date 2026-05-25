@@ -1,7 +1,6 @@
 ---
 iso: sgw
 name: Sebat Bet Gurage
-name_zh: 塞巴特贝特语
 autonym: Central West Gurage
 alt_names: [Central, Central Western Gurage, Chaha, Chaha Gurage, Chaha language, Chähä, Gurage, Gurage (Central West), Gurage (Chaha), Muher, Muxir, Txaha]
 population: 2710000
@@ -15,6 +14,11 @@ glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Semitic > West Semitic > Ethiosemitic > South Ethiopic > Outer South Ethiopic > TT-Group > Sebat Bet Gurage"
 wikipedia_url: "https://en.wikipedia.org/wiki/Sebat_Bet_Gurage_language"
+translations:
+  - translation_iso: ara
+    name: سيبات بيت الجوراجي (لغة)
+  - translation_iso: zho
+    name: 塞巴特贝特语
 rolv_dialects:
   - rolv_code: 3095
     language_tag: sgw-x-HIS03095

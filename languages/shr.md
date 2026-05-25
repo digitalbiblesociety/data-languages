@@ -1,8 +1,6 @@
 ---
 iso: shr
 name: Shi
-name_zh: 希语
-name_zh_auto: true
 autonym: Kishi
 alt_names: [Mashi]
 population: 654000
@@ -16,6 +14,12 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > East Bantu > Northeast Savanna Bantu > Great Lakes Bantu > Western Lakes Bantu > Kivu > Forest Kivu > Shi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Shi_language"
+translations:
+  - translation_iso: jpn
+    name: シ語
+  - translation_iso: zho
+    name: 希语
+    auto: true
 rolv_dialects:
   - rolv_code: 16616
     language_tag: shr-x-HIS16616

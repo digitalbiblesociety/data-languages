@@ -1,8 +1,6 @@
 ---
 iso: onj
 name: Onjob
-name_zh: 翁乔布语
-name_zh_auto: true
 autonym: Onjab
 population: 150
 country_id: PG
@@ -15,5 +13,9 @@ glottolog_family_id: daga1274
 glottolog_family_name: Dagan
 glottolog_classification: "Dagan > Onjob"
 wikipedia_url: "https://en.wikipedia.org/wiki/Onjob_language"
+translations:
+  - translation_iso: zho
+    name: 翁乔布语
+    auto: true
 ---
 Onjob is a Papuan language of New Guinea. It is a rather divergent member of the Dagan family.

@@ -1,8 +1,6 @@
 ---
 iso: xky
 name: "Uma' Lasan"
-name_zh: 乌玛拉桑语
-name_zh_auto: true
 autonym: Kanyay
 alt_names: [Kenja, "Kenyah, Western", Kindjin, Kinjin, Western Kenya]
 population: 1250
@@ -16,6 +14,10 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > North Borneo Malayo-Polynesian > North Sarawakan > Kenyahic > Highland Kenyah > Upper Pujungan > Uma' Lasan"
 wikipedia_url: "https://en.wikipedia.org/wiki/Uma%CA%BC_Lasan_language"
+translations:
+  - translation_iso: zho
+    name: 乌玛拉桑语
+    auto: true
 rolv_dialects:
   - rolv_code: 11863
     language_tag: xky-x-HIS11863

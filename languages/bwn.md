@@ -1,7 +1,6 @@
 ---
 iso: bwn
 name: Wunai Bunu
-name_zh: 唔奈语
 autonym: Wunai
 alt_names: [Bunu, Bunu wunai, "Bunu, Wunai", Bunú wunai, Hm Nai, Ngnai, Punu, Wu-nai, 布努語唔奈方言]
 population: 18400
@@ -15,5 +14,10 @@ glottolog_family_id: hmon1336
 glottolog_family_name: Hmong-Mien
 glottolog_classification: "Hmong-Mien > Hmongic > Paheng-Younuo > Paheng > Wunai Bunu"
 wikipedia_url: "https://en.wikipedia.org/wiki/Hm_Nai_language"
+translations:
+  - translation_iso: jpn
+    name: 唔奈方言
+  - translation_iso: zho
+    name: 唔奈语
 ---
 Hm Nai is a Hmong-Mien language spoken in western Hunan province, China. There are approximately 5800 people speaking this language, and the number is decreasing. Mao & Li (1997) determined it to be closely related to the Pa-Hng language.

@@ -1,8 +1,6 @@
 ---
 iso: itt
 name: Maeng Itneg
-name_zh: 玛英伊特内格语
-name_zh_auto: true
 autonym: "Kankana-ey"
 alt_names: ["Itneg, Maeng", Luba-Tiempo Itneg, Southern Itneg]
 population: 18000
@@ -15,6 +13,10 @@ glottocode: maen1235
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Northern Luzon > Meso-Cordilleran > South-Central Cordilleran > Central Cordilleran > Nuclear Cordilleran > Bontok-Kankanay > Kankanay > Maeng-Northern Kankanay > Maeng Itneg"
+translations:
+  - translation_iso: zho
+    name: 玛英伊特内格语
+    auto: true
 rolv_dialects:
   - rolv_code: 27287
     language_tag: itt-x-HIS27287

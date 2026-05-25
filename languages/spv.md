@@ -1,7 +1,6 @@
 ---
 iso: spv
 name: Sambalpuri
-name_zh: 桑巴尔普里语
 autonym: Dom
 alt_names: [Kosli]
 population: 2630000
@@ -15,6 +14,13 @@ glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Indo-Aryan > Middle-Modern Indo-Aryan > Continental Indo-Aryan > Indo-Aryan Eastern zone > Oriya-Gauda-Kamrupa > Macro-Oriya > Sambalpuri"
 wikipedia_url: "https://en.wikipedia.org/wiki/Sambalpuri_language"
+translations:
+  - translation_iso: hin
+    name: सम्बलपुरी भाषा
+  - translation_iso: jpn
+    name: サンバルプリ語
+  - translation_iso: zho
+    name: 桑巴尔普里语
 rolv_dialects:
   - rolv_code: 29505
     language_tag: spv-x-HIS29505

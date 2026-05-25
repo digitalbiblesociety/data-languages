@@ -1,7 +1,6 @@
 ---
 iso: yph
 name: Phupha
-name_zh: 富帕语
 autonym: Phuza
 population: 1300
 country_id: CN
@@ -14,6 +13,9 @@ glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Burmo-Qiangic > Lolo-Burmese > Loloish > Ni-Li-Kazhouish > Southeastern Ngwi > Riverine Phula > Downriver Riverine Phula > Phupha-Alugu > Phupha"
 wikipedia_url: "https://en.wikipedia.org/wiki/Phupha_language"
+translations:
+  - translation_iso: zho
+    name: 富帕语
 ---
 Phupha, or Downriver Phula, is a dialect cluster of Loloish languages spoken by the Phula people of China. There are four principal varieties, which may be considered distinct languages:Phupha, Alugu 
 Phupa, Phuza

@@ -1,8 +1,6 @@
 ---
 iso: cwb
 name: Maindo
-name_zh: 迈因多语
-name_zh_auto: true
 autonym: Cuabo
 alt_names: [Chwambo]
 population: 21000
@@ -15,4 +13,8 @@ glottocode: main1272
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > East Bantu > North Mozambique Bantu > Chuwaboic > Chuwabo-Maindo > Maindo"
+translations:
+  - translation_iso: zho
+    name: 迈因多语
+    auto: true
 ---

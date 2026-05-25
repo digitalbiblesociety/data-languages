@@ -1,8 +1,6 @@
 ---
 iso: mvt
 name: Mpotovoro
-name_zh: 姆波托沃罗语
-name_zh_auto: true
 autonym: Mpotovoro
 alt_names: [Botovro, Mallicolo]
 population: 430
@@ -16,6 +14,10 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > North and Central Vanuatu > Central Vanuatu > Malakula > Northern Malakula > North Coast Malakula > Botovro-Vovo-Vao > Mpotovoro"
 wikipedia_url: "https://en.wikipedia.org/wiki/Botovro_language"
+translations:
+  - translation_iso: zho
+    name: 姆波托沃罗语
+    auto: true
 rolv_dialects:
   - rolv_code: 30793
     language_tag: mvt-x-HIS30793

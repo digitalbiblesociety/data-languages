@@ -1,8 +1,6 @@
 ---
 iso: bkv
 name: Bekwarra
-name_zh: 贝克瓦拉语
-name_zh_auto: true
 autonym: Ebekwara
 alt_names: [Bekworra, Yakoro]
 population: 100000
@@ -16,5 +14,9 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Bendic > Bekwarra"
 wikipedia_url: "https://en.wikipedia.org/wiki/Bekwarra_language"
+translations:
+  - translation_iso: zho
+    name: 贝克瓦拉语
+    auto: true
 ---
 Bekwarra, also known as Bekworra, is a Bendi language of Nigeria. It is spoken by the Bekwarra people of Eastern Nigeria. Neighboring tribal groups such as the Nki and Iyala refer to the language and group as Yakoro.

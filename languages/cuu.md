@@ -1,7 +1,6 @@
 ---
 iso: cuu
 name: Tai Ya
-name_zh: 傣雅
 autonym: Tai Cung
 alt_names: [Cung, Daiya, Tai-Chung, Tai-Cung, Ya]
 population: 50400
@@ -15,6 +14,11 @@ glottolog_family_id: taik1256
 glottolog_family_name: Tai-Kadai
 glottolog_classification: "Tai-Kadai > Kam-Tai > Daic-Beic > Daic > Central-Southwestern Tai > Wenma-Southwestern Tai > Sapa-Southwestern Tai > Southwestern Tai > Southwestern Tai P > Shanic > Southern Shanic > Wuding-Yuanyang Tai > Tai Ya"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tai_Ya_language"
+translations:
+  - translation_iso: jpn
+    name: 傣雅語
+  - translation_iso: zho
+    name: 傣雅
 rolv_dialects:
   - rolv_code: 24728
     language_tag: cuu-x-HIS24728

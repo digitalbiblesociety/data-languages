@@ -1,8 +1,6 @@
 ---
 iso: vmh
 name: Maraghei
-name_zh: 玛拉盖语
-name_zh_auto: true
 autonym: مراغى پگڠەرۉب
 alt_names: [Iran]
 population: null
@@ -16,6 +14,10 @@ glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Iranian-Nuristani > Iranian > Central Iranian PBS > Central Iranian PB > Northwestern Iranian > Adharic > Tatic > Central Tatic > Maraghei"
 wikipedia_url: "https://en.wikipedia.org/wiki/Maraghei_dialect"
+translations:
+  - translation_iso: zho
+    name: 玛拉盖语
+    auto: true
 rolv_dialects:
   - rolv_code: 13704
     language_tag: vmh-x-HIS13704

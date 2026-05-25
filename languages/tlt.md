@@ -1,8 +1,6 @@
 ---
 iso: tlt
 name: Sou Nama
-name_zh: 索乌纳马语
-name_zh_auto: true
 autonym: Silen
 alt_names: [Taluti, Tehoru, Teluti, Tihoru, Wolu]
 population: 17000
@@ -15,6 +13,10 @@ glottocode: telu1263
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Nunusaku > Piru Bay > East Piru Bay > Eastern Littoral Piru Bay > Teluti"
+translations:
+  - translation_iso: zho
+    name: 索乌纳马语
+    auto: true
 rolv_dialects:
   - rolv_code: 17345
     language_tag: tlt-x-HIS17345

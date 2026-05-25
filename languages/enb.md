@@ -1,8 +1,6 @@
 ---
 iso: enb
 name: Markweeta
-name_zh: 马克韦塔语
-name_zh_auto: true
 autonym: Marakwet
 alt_names: [Endo, Endo-Marakwet, Marakuet, Markweta, Talai]
 population: 129000
@@ -16,6 +14,12 @@ glottolog_family_id: nilo1247
 glottolog_family_name: Nilotic
 glottolog_classification: "Nilotic > Southern Nilotic > Kalenjin > Northern Kalenjin > Markweeta"
 wikipedia_url: "https://en.wikipedia.org/wiki/Markwet_language"
+translations:
+  - translation_iso: jpn
+    name: マラクウェット語
+  - translation_iso: zho
+    name: 马克韦塔语
+    auto: true
 rolv_dialects:
   - rolv_code: 9568
     language_tag: enb-x-HIS09568

@@ -1,7 +1,6 @@
 ---
 iso: sin
 name: Sinhala
-name_zh: 僧伽罗语
 autonym: Sinhalese
 alt_names: [Bahasa Sinhala, Cingalais, Cingalese, Cingalés, Fiteny singalesa, Idioma cingalés, Język syngaleski, Lengua singaleise, Lingua Singhalensis, Lingua singalese, Língua sinhala, Seylanca, Singalees, Singalesisk, Singalesiska, Singalščina, Singhalese, Singhalesische Sprache, Sinhala lingvo, Sinhala simi, Sinhaleg, Sinhali, Sinhálština, singhalais, Сингальский язык, Синхалски език, زبان سینهالی, سىنگال تىلى, لغة سنهالية, सिंहला भाषा, सिंहली भाषा, সিংহলি ভাষা, சிங்களம், සිංහල භාෂාව, ภาษาสิงหล, シンハラ語, 僧伽罗语, 싱할라어]
 population: 15300000
@@ -16,6 +15,17 @@ glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Indo-Aryan > Middle-Modern Indo-Aryan > Dhivehi-Sinhala > Sinhalaic > Sinhala"
 wikipedia_url: "https://en.wikipedia.org/wiki/Sinhala_language"
+translations:
+  - translation_iso: ara
+    name: السنهالية
+  - translation_iso: hin
+    name: सिंहली भाषा
+  - translation_iso: jpn
+    name: シンハラ語
+  - translation_iso: kor
+    name: 싱할라어
+  - translation_iso: zho
+    name: 僧伽罗语
 rolv_dialects:
   - rolv_code: 16751
     language_tag: si-x-HIS16751

@@ -1,8 +1,6 @@
 ---
 iso: nqn
 name: Nen
-name_zh: 嫩语
-name_zh_auto: true
 autonym: null
 population: 250
 country_id: PG
@@ -15,5 +13,9 @@ glottolog_family_id: more1255
 glottolog_family_name: Yam
 glottolog_classification: "Yam > Morehead-Maro > Nambu > Nen"
 wikipedia_url: "https://en.wikipedia.org/wiki/Nen_language_(Papuan)"
+translations:
+  - translation_iso: zho
+    name: 嫩语
+    auto: true
 ---
 Nen is a Yam language spoken in the Bimadbn village in the Western Province of Papua New Guinea, with 250 speakers as of a 2002 SIL survey. It is situated between the speech communities of Nambu and Idi.

@@ -1,8 +1,6 @@
 ---
 iso: gbs
 name: Gbesi Gbe
-name_zh: 加贝西格贝语
-name_zh_auto: true
 autonym: null
 alt_names: [Benin, "Gbe, Gbesi"]
 population: 65000
@@ -15,6 +13,10 @@ glottocode: gbes1238
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Kwa Volta-Congo > Gbe > Eastern Gbe > Western Phla-Phera > Gbesi Gbe"
+translations:
+  - translation_iso: zho
+    name: 加贝西格贝语
+    auto: true
 rolv_dialects:
   - rolv_code: 24957
     language_tag: gbs-x-HIS24957

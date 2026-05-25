@@ -1,8 +1,6 @@
 ---
 iso: xkg
 name: Kagoro
-name_zh: 卡戈罗语
-name_zh_auto: true
 autonym: Central Malinke
 alt_names: [Kakolo]
 population: 15000
@@ -15,6 +13,10 @@ glottocode: kago1248
 glottolog_family_id: mand1469
 glottolog_family_name: Mande
 glottolog_classification: "Mande > Western Mande > Manding-Kpelle > Central Mande > Manding-Jogo > Manding-Vai > Manding-Mokole > Manding > West Manding > Kita-Kagoro > Kagoro"
+translations:
+  - translation_iso: zho
+    name: 卡戈罗语
+    auto: true
 rolv_dialects:
   - rolv_code: 26892
     language_tag: xkg-x-HIS26892

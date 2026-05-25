@@ -1,8 +1,6 @@
 ---
 iso: ydd
 name: Eastern Yiddish
-name_zh: 东意第绪语
-name_zh_auto: true
 autonym: ייִדיש
 alt_names: [Central Yiddish, Judeo-German, Yiddish, Yiddish (Bessarabian), Yiddish (Europe), Yiddish (Israel), Yiddish (Israël), Yiddish (Lithuanian), Yiddish (Lodz), "Yiddish, Eastern", d Judeo German]
 population: 371657
@@ -16,6 +14,12 @@ glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Germanic > Northwest Germanic > West Germanic > High German > Middle German > East Middle German > Schlesisch-Wilmesau > Eastern Yiddish"
 wikipedia_url: "https://en.wikipedia.org/wiki/Eastern_Yiddish"
+translations:
+  - translation_iso: jpn
+    name: 東イディッシュ語
+  - translation_iso: zho
+    name: 东意第绪语
+    auto: true
 rolv_dialects:
   - rolv_code: 18571
     language_tag: ydd-x-HIS18571

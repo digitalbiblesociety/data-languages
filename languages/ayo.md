@@ -1,7 +1,6 @@
 ---
 iso: ayo
 name: Ayoreo
-name_zh: 扎穆科语
 autonym: Ayoré
 alt_names: [Ajorėjų kalba, Avoreo, Ayoreoeg, Ayuréo, Moro, Morotoco, Pyeta, Pyeta Yovai, Yovai, Zamuco]
 population: 4650
@@ -15,6 +14,11 @@ glottolog_family_id: zamu1243
 glottolog_family_name: Zamucoan
 glottolog_classification: "Zamucoan > Zamuco-Ayoreo > Ayoreo"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ayoreo_language"
+translations:
+  - translation_iso: jpn
+    name: アヨレオ語
+  - translation_iso: zho
+    name: 扎穆科语
 rolv_dialects:
   - rolv_code: 7413
     language_tag: ayo-x-HIS07413

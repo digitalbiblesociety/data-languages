@@ -1,7 +1,6 @@
 ---
 iso: bca
 name: Central Bai
-name_zh: 白语中部方言
 autonym: 白语 Báiyǔ
 alt_names: [Bai, "Bai, Central", "Bai,Central", Eryuan, Labbu, Leme, Minchia, Minjia, Minkia, Nama, Pai, Wu]
 population: 800000
@@ -15,6 +14,9 @@ glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Macro-Bai > Baic > South-Central Bai > Central Bai"
 wikipedia_url: "https://en.wikipedia.org/wiki/Central_Bai_language"
+translations:
+  - translation_iso: zho
+    name: 白语中部方言
 rolv_dialects:
   - rolv_code: 6161
     language_tag: bca-x-HIS06161

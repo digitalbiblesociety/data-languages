@@ -1,8 +1,6 @@
 ---
 iso: gwj
 name: ǀGwi
-name_zh: "!吉语"
-name_zh_auto: true
 autonym: Dcui
 alt_names: [/Gwi, G/wi, Gwi, "G|wi", Gǀwi language, "|Gui", "|Gwi", Лъгана-цъгви]
 population: 2500
@@ -16,6 +14,12 @@ glottolog_family_id: khoe1240
 glottolog_family_name: Khoe-Kwadi
 glottolog_classification: "Khoe-Kwadi > Khoe > Non-Khoekhoe > West-Kxoe > Naro-Ana > Ana > /Gwi"
 wikipedia_url: "https://en.wikipedia.org/wiki/G%C7%80ui_dialect"
+translations:
+  - translation_iso: jpn
+    name: グイ語
+  - translation_iso: zho
+    name: "!吉语"
+    auto: true
 rolv_dialects:
   - rolv_code: 10505
     language_tag: gwj-x-HIS10505

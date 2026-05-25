@@ -1,7 +1,6 @@
 ---
 iso: lam
 name: Lamba
-name_zh: Lamba语
 autonym: Ichilamba
 alt_names: [Chilamba, Lamba (in Zambia)]
 population: 201000
@@ -16,6 +15,17 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > East Bantu > Sabi > Malungu-Central Sabi > Central Sabi > Bisa-Lamba (M.50) > Lamba"
 wikipedia_url: "https://en.wikipedia.org/wiki/Lamba_language"
+translations:
+  - translation_iso: ara
+    name: اللامبا
+  - translation_iso: hin
+    name: लाम्बा
+  - translation_iso: jpn
+    name: ランバ語
+  - translation_iso: kor
+    name: 람바어
+  - translation_iso: zho
+    name: Lamba语
 rolv_dialects:
   - rolv_code: 4227
     language_tag: lam-x-HIS04227

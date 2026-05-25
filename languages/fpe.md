@@ -1,8 +1,6 @@
 ---
 iso: fpe
 name: Fernando Po Creole English
-name_zh: 费南多波手语英语
-name_zh_auto: true
 autonym: Fernando Po Creole English
 alt_names: ["Creole English, Fernando Po"]
 population: 6000
@@ -16,6 +14,10 @@ glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Germanic > Northwest Germanic > West Germanic > North Sea Germanic > Anglo-Frisian > Anglic > Later Anglic > Middle-Modern English > Macro-English > Guinea Coast Creole English > West African Creole English > Pichi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Pichinglis"
+translations:
+  - translation_iso: zho
+    name: 费南多波手语英语
+    auto: true
 rolv_dialects:
   - rolv_code: 24905
     language_tag: en-GQ-x-HIS24905

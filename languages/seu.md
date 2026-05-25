@@ -1,8 +1,6 @@
 ---
 iso: seu
 name: "Serui-Laut"
-name_zh: 塞鲁伊-劳特语
-name_zh_auto: true
 autonym: Arui
 population: 1200
 country_id: ID
@@ -15,6 +13,10 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > South Halmahera-West New Guinea > Cenderawasih Bay > Yapen > Central-Western Yapen > Central Yapen > Serui-Busami > Serui-Laut"
 wikipedia_url: "https://en.wikipedia.org/wiki/Serui-Laut_language"
+translations:
+  - translation_iso: zho
+    name: 塞鲁伊-劳特语
+    auto: true
 rolv_dialects:
   - rolv_code: 1203
     language_tag: seu-x-HIS01203

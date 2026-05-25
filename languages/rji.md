@@ -1,8 +1,6 @@
 ---
 iso: rji
 name: Raji
-name_zh: 拉吉语
-name_zh_auto: true
 autonym: Ban Raji
 alt_names: [Rajibar]
 population: 2410
@@ -16,6 +14,12 @@ glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Raji-Raute > Raji"
 wikipedia_url: "https://en.wikipedia.org/wiki/Raji_language"
+translations:
+  - translation_iso: hin
+    name: राजी भाषा
+  - translation_iso: zho
+    name: 拉吉语
+    auto: true
 rolv_dialects:
   - rolv_code: 26419
     language_tag: rji-x-HIS26419

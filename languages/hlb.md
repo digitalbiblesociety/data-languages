@@ -1,8 +1,6 @@
 ---
 iso: hlb
 name: Halbi
-name_zh: 哈尔比语
-name_zh_auto: true
 autonym: ହଲବୀ
 alt_names: [Bastari, Halabi, Halba, Halvas, Halvi, Lenga halbi, Lingua Halbi, Mahari, Mehari, ภาษาฮัลบี]
 population: 766000
@@ -16,6 +14,12 @@ glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Indo-Aryan > Middle-Modern Indo-Aryan > Continental Indo-Aryan > Indo-Aryan Eastern zone > Halbic > Halbi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Halbi_language"
+translations:
+  - translation_iso: hin
+    name: हल्बी भाषा
+  - translation_iso: zho
+    name: 哈尔比语
+    auto: true
 rolv_dialects:
   - rolv_code: 10530
     language_tag: hlb-x-HIS10530

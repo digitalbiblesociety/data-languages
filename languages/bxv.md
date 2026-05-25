@@ -1,8 +1,6 @@
 ---
 iso: bxv
 name: Berakou
-name_zh: 贝拉库语
-name_zh_auto: true
 autonym: Babalia
 alt_names: [Bubalia]
 population: null
@@ -16,5 +14,11 @@ glottolog_family_id: cent2225
 glottolog_family_name: Central Sudanic
 glottolog_classification: "Central Sudanic > Sara-Bongo-Bagirmi > SBB Occidental > Nuclear SBB Occidental > Saraic > Bagirmic > Morom-Jaya-Naba > Naba-Berakou > Berakou"
 wikipedia_url: "https://en.wikipedia.org/wiki/Berakou_language"
+translations:
+  - translation_iso: ara
+    name: بيراكو
+  - translation_iso: zho
+    name: 贝拉库语
+    auto: true
 ---
 Berakou is an extinct Bongo–Bagirmi language of Chad. Speakers have shifted to Chadian Arabic or various Kotoko languages. According to the UNESCO Atlas of the World's Languages in Danger, the Berakou language has been extinct since the 1950s.

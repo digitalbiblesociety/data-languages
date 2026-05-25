@@ -1,8 +1,6 @@
 ---
 iso: oos
 name: Old Ossetic
-name_zh: 古奥塞梯语
-name_zh_auto: true
 autonym: null
 alt_names: ["Ossetic, Old"]
 population: null
@@ -15,4 +13,8 @@ glottocode: oldo1234
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Iranian-Nuristani > Iranian > Central Iranian PBS > Sogdic-Ossetic > Ossetic > Old Ossetic"
+translations:
+  - translation_iso: zho
+    name: 古奥塞梯语
+    auto: true
 ---

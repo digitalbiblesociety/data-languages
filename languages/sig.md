@@ -1,8 +1,6 @@
 ---
 iso: sig
 name: Paasaal
-name_zh: 帕萨尔语
-name_zh_auto: true
 autonym: Southern Sisaala
 alt_names: [Funsile, Pasaale, Pasaale Sisaala]
 population: 53000
@@ -16,6 +14,10 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Gur > Central Gur > Southern Central Gur > Grusi > East-West Grusi > Western Grusi > Sisaala-Chakali > Sisaala > Paasaal"
 wikipedia_url: "https://en.wikipedia.org/wiki/Paasaal_language"
+translations:
+  - translation_iso: zho
+    name: 帕萨尔语
+    auto: true
 rolv_dialects:
   - rolv_code: 16765
     language_tag: sig-x-HIS16765

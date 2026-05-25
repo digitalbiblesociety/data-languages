@@ -1,7 +1,6 @@
 ---
 iso: khk
 name: Halh Mongolian
-name_zh: 喀尔喀蒙古语
 autonym: монгол хэлᠮᠣᠩᠭᠣᠯ ᠬᠡᠯᠡ
 alt_names: [Central Mongolian, Halh, Khalkha, Khalkha Mongolian, Khalkha-Mongolisch, Mongol, Mongolian, Mongolian (Halh), "Mongolian, Halh", Sprache der Äußeren Mongolei, Xalxa]
 population: 2704000
@@ -15,6 +14,13 @@ glottolog_family_id: mong1349
 glottolog_family_name: Mongolic-Khitan
 glottolog_classification: "Mongolic-Khitan > Mongolic > Eastern Mongolic > Khalkha-Buriat > Mongolian > Halh Mongolian"
 wikipedia_url: "https://en.wikipedia.org/wiki/Khalkha_Mongolian"
+translations:
+  - translation_iso: jpn
+    name: ハルハ・モンゴル語
+  - translation_iso: kor
+    name: 할하 몽골어
+  - translation_iso: zho
+    name: 喀尔喀蒙古语
 rolv_dialects:
   - rolv_code: 9139
     language_tag: mn-MN-x-HIS09139

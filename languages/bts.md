@@ -1,7 +1,6 @@
 ---
 iso: bts
 name: Batak Simalungun
-name_zh: 巴塔克西馬隆貢語
 autonym: Sahap Simalungun
 alt_names: [Simelungan, Timur]
 population: 1200000
@@ -15,5 +14,10 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Sumatran > Batakic > Central-Southern Batak > Batak Simalungun"
 wikipedia_url: "https://en.wikipedia.org/wiki/Batak_Simalungun_language"
+translations:
+  - translation_iso: jpn
+    name: バタク・シマルングン語
+  - translation_iso: zho
+    name: 巴塔克西馬隆貢語
 ---
 Simalungun, or Batak Simalungun, is an Austronesian language of Sumatra. It is spoken mainly in Simalungun Regency and Pematang Siantar, North Sumatra, Indonesia.

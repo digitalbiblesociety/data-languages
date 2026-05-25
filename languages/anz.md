@@ -1,7 +1,6 @@
 ---
 iso: anz
 name: Anem
-name_zh: 阿內姆語
 autonym: Anêm
 alt_names: [Anemeg, Karaiai, Neu-Pommern]
 population: 550
@@ -12,6 +11,11 @@ latitude: -5.54836
 longitude: 148.99315
 glottocode: anem1249
 wikipedia_url: "https://en.wikipedia.org/wiki/An%C3%AAm_language"
+translations:
+  - translation_iso: jpn
+    name: アネム語
+  - translation_iso: zho
+    name: 阿內姆語
 rolv_dialects:
   - rolv_code: 27996
     language_tag: anz-x-HIS27996

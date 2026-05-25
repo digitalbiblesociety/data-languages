@@ -1,8 +1,6 @@
 ---
 iso: ukw
 name: "Ukwuani-Aboh-Ndoni"
-name_zh: 乌克瓦尼-阿博-恩多尼语
-name_zh_auto: true
 autonym: Aboh
 alt_names: [Nigeria]
 population: 299000
@@ -16,6 +14,10 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Igboid > Nuclear Igboid > Central-Northern Igbo > Ukwuani-Aboh-Ndoni"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ukwuani-Aboh-Ndoni_language"
+translations:
+  - translation_iso: zho
+    name: 乌克瓦尼-阿博-恩多尼语
+    auto: true
 rolv_dialects:
   - rolv_code: 2389
     language_tag: ukw-x-HIS02389

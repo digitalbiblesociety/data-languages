@@ -1,8 +1,6 @@
 ---
 iso: ten
 name: Tama (Colombia)
-name_zh: 哥伦比亚塔玛语
-name_zh_auto: true
 autonym: null
 alt_names: [Tama]
 population: null
@@ -16,5 +14,9 @@ glottolog_family_id: tuca1253
 glottolog_family_name: Tucanoan
 glottolog_classification: "Tucanoan > Western Tucanoan > Koreguaje-Tama > Tama (Colombia)"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tama_language_(Colombia)"
+translations:
+  - translation_iso: zho
+    name: 哥伦比亚塔玛语
+    auto: true
 ---
 Tama is an extinct indigenous Tucanoan language of Colombia. It was spoken in the regions of Vicente, Orteguaza River and Caquetá Region.

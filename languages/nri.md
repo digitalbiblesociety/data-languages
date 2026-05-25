@@ -1,8 +1,6 @@
 ---
 iso: nri
 name: Chokri Naga
-name_zh: 乔克里纳加语
-name_zh_auto: true
 autonym: Chakhesang
 alt_names: [Angami, Chakrima Naga, Chakrimā, Chakru, Charkrima, Chokri, Chokrí, Eastern Angami, Naga, "Naga, Chokri", "Naga,Chokri", Tśakrima]
 population: 111000
@@ -16,6 +14,14 @@ glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Kuki-Chin-Naga > Angami-Ao > Angami-Pochuri > Angami-Mao > Angami-Chokri > Chokri Naga"
 wikipedia_url: "https://en.wikipedia.org/wiki/Chokri_language"
+translations:
+  - translation_iso: hin
+    name: चोकरी भाषा
+  - translation_iso: jpn
+    name: チョクリ語
+  - translation_iso: zho
+    name: 乔克里纳加语
+    auto: true
 rolv_dialects:
   - rolv_code: 3065
     language_tag: nri-x-HIS03065

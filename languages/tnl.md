@@ -1,8 +1,6 @@
 ---
 iso: tnl
 name: Lenakel
-name_zh: 勒纳克尔语
-name_zh_auto: true
 autonym: West Tanna
 alt_names: [Tanna, Vanuatu]
 population: 11500
@@ -16,6 +14,12 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Southern Melanesian > Southern Vanuatu > Tanna > Northern Tanna linkage > Lenakel"
 wikipedia_url: "https://en.wikipedia.org/wiki/Lenakel_language"
+translations:
+  - translation_iso: jpn
+    name: レナケル語
+  - translation_iso: zho
+    name: 勒纳克尔语
+    auto: true
 rolv_dialects:
   - rolv_code: 4488
     language_tag: tnl-x-HIS04488

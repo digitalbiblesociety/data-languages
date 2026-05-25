@@ -1,7 +1,6 @@
 ---
 iso: dnj
 name: Dan
-name_zh: 但语
 autonym: Yacouba
 population: 1568800
 country_id: CI
@@ -9,6 +8,11 @@ country_name: "Côte d'Ivoire"
 status_id: "5"
 scripts: [Latn]
 wikipedia_url: "https://en.wikipedia.org/wiki/Dan_language"
+translations:
+  - translation_iso: jpn
+    name: ダン語
+  - translation_iso: zho
+    name: 但语
 rolv_dialects:
   - rolv_code: 298
     language_tag: dnj-x-HIS00298

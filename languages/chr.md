@@ -1,7 +1,6 @@
 ---
 iso: chr
 name: Cherokee
-name_zh: 切罗基语
 autonym: ᏣᎳᎩ ᎦᏬᏂᎯᏍᏗ Tsalagi Gawonihisdi
 alt_names: [Bahasa Cherokee, Ceroke sprǣc, Cherokee (Caroline du Nord), Cherokee (Oklahoma), Cherokee dili, Cherokeen kieli, Cherokesisk, Cherokesiska, Cheroki (Oklahoma), Cseroki nyelv, Idioma cheroqui, Iroquois, Język czirokeski, Lingua cherokee, Língua cherokee, North Carolina, Rechahecrian, Rickohockan, Southern Iroquoian, Tsalagi, Tsalaki simi, Tslagi, Ĉeroka lingvo, Čerokių kalba, Чероки, Черокиски јазик, Черокски език, ภาษาเชอโรกี, ჩეროკი, ᏣᎳᎩ (Cherokee), ᏣᎳᎩ ᎦᏬᏂᎯᏍᏗ, ᏣᎳᎩ ᎧᏬᏂᎯᏍᏗ, チェロキー語, 切羅基語, 체로키어]
 population: 1520
@@ -16,6 +15,17 @@ glottolog_family_id: iroq1247
 glottolog_family_name: Iroquoian
 glottolog_classification: "Iroquoian > Cherokee"
 wikipedia_url: "https://en.wikipedia.org/wiki/Cherokee_language"
+translations:
+  - translation_iso: ara
+    name: شيروكي
+  - translation_iso: hin
+    name: चेरोकी
+  - translation_iso: jpn
+    name: チェロキー語
+  - translation_iso: kor
+    name: 체로키어
+  - translation_iso: zho
+    name: 切罗基语
 rolv_dialects:
   - rolv_code: 8735
     language_tag: chr-x-HIS08735

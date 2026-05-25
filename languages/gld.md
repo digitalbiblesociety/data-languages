@@ -1,7 +1,6 @@
 ---
 iso: gld
 name: Nanai
-name_zh: 赫哲语
 autonym: Нанай
 alt_names: [Akani, Birar, Gold, Goldi, Goldisch, Goldische, Heche, Hezhe, Hezhen, Juchen, Kile, Nanaieg, Nanaiisk, Nanain kieli, Nanaj, Nanaja lingvo, Nanaje, Nanay, Samagir, Sushen, nānai, Нанайский язык, Нанайэ, Нанајски јазик, нанайский языкж, ภาษานาไน, 赫哲語, 赫哲语, 赫真語, 那乃語]
 population: 12000
@@ -16,6 +15,13 @@ glottolog_family_id: tung1282
 glottolog_family_name: Tungusic
 glottolog_classification: "Tungusic > Central-Western Tungusic > Nanai"
 wikipedia_url: "https://en.wikipedia.org/wiki/Nanai_language"
+translations:
+  - translation_iso: jpn
+    name: ナナイ語
+  - translation_iso: kor
+    name: 나나이어
+  - translation_iso: zho
+    name: 赫哲语
 rolv_dialects:
   - rolv_code: 14691
     language_tag: gld-x-HIS14691

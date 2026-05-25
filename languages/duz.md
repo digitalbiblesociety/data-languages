@@ -1,8 +1,6 @@
 ---
 iso: duz
 name: "Duli-Gey"
-name_zh: 杜利-盖语
-name_zh_auto: true
 autonym: "Duli-Gewe"
 alt_names: [Dui, Duli]
 population: null
@@ -16,6 +14,12 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Cameroun-Ubangian > Central Adamawa > Unclassified Central Adamawa > Duli-Gewe"
 wikipedia_url: "https://en.wikipedia.org/wiki/Duli_language"
+translations:
+  - translation_iso: jpn
+    name: ドゥリ語
+  - translation_iso: zho
+    name: 杜利-盖语
+    auto: true
 rolv_dialects:
   - rolv_code: 10187
     language_tag: duz-x-HIS10187

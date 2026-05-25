@@ -1,8 +1,6 @@
 ---
 iso: kmv
 name: Karipúna Creole French
-name_zh: 卡里普纳克里奥尔语
-name_zh_auto: true
 autonym: Amapá French Creole
 alt_names: ["Creole French, Karipúna", Crioulo, Karipuna Creole French, "Karipuna de l'Amapá", Karipuna del Amapá]
 population: 1710
@@ -16,6 +14,12 @@ glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Italic > Latino-Faliscan > Latinic > Imperial Latin > Romance > Italo-Western Romance > Western Romance > Shifted Western Romance > Northwestern Shifted Romance > Gallo-Rhaetian > Oil > Central Oil > Macro-French > Circum-Caribbean French > Guyanic Creole French > Uaçá Creole French"
 wikipedia_url: "https://en.wikipedia.org/wiki/Karip%C3%BAna_French_Creole"
+translations:
+  - translation_iso: jpn
+    name: カリプナ語
+  - translation_iso: zho
+    name: 卡里普纳克里奥尔语
+    auto: true
 rolv_dialects:
   - rolv_code: 22850
     language_tag: kmv-x-HIS22850

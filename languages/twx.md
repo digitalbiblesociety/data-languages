@@ -1,8 +1,6 @@
 ---
 iso: twx
 name: Tewe
-name_zh: 特威语
-name_zh_auto: true
 autonym: Chimanyika
 alt_names: [Chiute, Ciute, Teve, Vateve, Wateve]
 population: 365000
@@ -15,4 +13,8 @@ glottocode: tewe1238
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > East Bantu > Southern Bantu > Shona (S.10) > Core Shona > Plateau Shona > Tewe"
+translations:
+  - translation_iso: zho
+    name: 特威语
+    auto: true
 ---

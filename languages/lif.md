@@ -1,7 +1,6 @@
 ---
 iso: lif
 name: Limbu
-name_zh: 林布语
 autonym: ᤕᤠᤰᤌᤢᤱ ᤐᤠᤴ
 alt_names: [Chang, Idioma limbu, Język limbu, Limbo, Limboueg, Lingua Limbu, Lumbu, Monpa, Subah, Suffah. Yakthūngbā, Tsong, Yakthung Pan, Yakthungish, Лимбу, Лімбу, लिंबू भाषा, ภาษาลิมบู, 林布语]
 population: 384800
@@ -16,6 +15,15 @@ glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Himalayish > Mahakiranti > Kiranti > Eastern Kiranti > Tamar > Limbu"
 wikipedia_url: "https://en.wikipedia.org/wiki/Limbu_language"
+translations:
+  - translation_iso: hin
+    name: लिंबू भाषा
+  - translation_iso: jpn
+    name: リンブー語
+  - translation_iso: kor
+    name: 림부어
+  - translation_iso: zho
+    name: 林布语
 rolv_dialects:
   - rolv_code: 12960
     language_tag: lif-x-HIS12960

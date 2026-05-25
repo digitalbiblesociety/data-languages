@@ -1,8 +1,6 @@
 ---
 iso: ssv
 name: Shark Bay
-name_zh: 鲨鱼湾语
-name_zh_auto: true
 autonym: Shark Bay
 alt_names: [Lengua de la Bahía del Tiburón, Ngen]
 population: 450
@@ -16,5 +14,9 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > North and Central Vanuatu > Northern Vanuatu > Espiritu Santo > Nuclear Santo > Shark Bayic > Ngen"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ngen_language"
+translations:
+  - translation_iso: zho
+    name: 鲨鱼湾语
+    auto: true
 ---
 Ngen, or Shark Bay, is one of the East Santo languages group of languages. It is spoken on Espiritu Santo in Vanuatu. It has about 450 speakers. It is close geographically and linguistically to the now dormant Lorediakarkar.

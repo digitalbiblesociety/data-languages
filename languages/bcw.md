@@ -1,8 +1,6 @@
 ---
 iso: bcw
 name: Bana
-name_zh: 巴纳语
-name_zh_auto: true
 autonym: koma kabana
 alt_names: [Bana jezik, Banaeg, Baza, Ka-Bana, Koma, Mbana, Mizeran, Parole des Bana]
 population: 23000
@@ -16,6 +14,10 @@ glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > Biu-Mandara > North Biu-Mandara > Higic > Nkafa-Kirya-Bana > Bana"
 wikipedia_url: "https://en.wikipedia.org/wiki/Bana_language"
+translations:
+  - translation_iso: zho
+    name: 巴纳语
+    auto: true
 rolv_dialects:
   - rolv_code: 7655
     language_tag: bcw-x-HIS07655

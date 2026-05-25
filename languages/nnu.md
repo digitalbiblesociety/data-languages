@@ -1,8 +1,6 @@
 ---
 iso: nnu
 name: Dwang
-name_zh: 德旺语
-name_zh_auto: true
 autonym: Nchumunu
 alt_names: [Dwan, Guang]
 population: 1600
@@ -16,6 +14,10 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Kwa Volta-Congo > Nyo > Potou-Tano > Tano > Guang > North Guang > Oti North Guang > River Oti North Guang > Nchumbulu-Dwang > Dwang"
 wikipedia_url: "https://en.wikipedia.org/wiki/Dwang_language"
+translations:
+  - translation_iso: zho
+    name: 德旺语
+    auto: true
 rolv_dialects:
   - rolv_code: 4971
     language_tag: nnu-x-HIS04971

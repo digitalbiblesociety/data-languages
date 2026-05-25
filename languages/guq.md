@@ -1,8 +1,6 @@
 ---
 iso: guq
 name: Aché
-name_zh: 阿切语
-name_zh_auto: true
 autonym: Guayakí
 alt_names: ["\"Guaiaqui\"", "\"Guayakí\"", "\"Guoyagui\"", Ache, Axe, Guaiaqui, Guajaki, Guayaki, Guayaki-Ache, Guayaquí, Guoyagui]
 population: 910
@@ -16,6 +14,12 @@ glottolog_family_id: tupi1275
 glottolog_family_name: Tupian
 glottolog_classification: "Tupian > Eastern Tupian > Maweti-Guarani > Aweti-Guarani > Tupi-Guarani > Southern Tupi-Guarani > Tupi-Guarani Subgroup I > Aché"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ach%C3%A9_language"
+translations:
+  - translation_iso: jpn
+    name: グアヤキ語
+  - translation_iso: zho
+    name: 阿切语
+    auto: true
 rolv_dialects:
   - rolv_code: 25047
     language_tag: guq-x-HIS25047

@@ -1,8 +1,6 @@
 ---
 iso: hds
 name: Honduras Sign Language
-name_zh: 洪都拉斯手语
-name_zh_auto: true
 autonym: Honduran Sign Language
 alt_names: [LESHO, Língua Gestual das Honduras]
 population: 40000
@@ -16,5 +14,13 @@ glottolog_family_id: sign1238
 glottolog_family_name: Sign Language
 glottolog_classification: "Sign Language > L1 Sign Language > LSFic > ASLic > Honduras-Panama Sign > Honduras Sign Language"
 wikipedia_url: "https://en.wikipedia.org/wiki/Honduran_Sign_Language"
+translations:
+  - translation_iso: hin
+    name: होंडुरन सांकेतिक भाषा
+  - translation_iso: jpn
+    name: ホンジュラス手話
+  - translation_iso: zho
+    name: 洪都拉斯手语
+    auto: true
 ---
 Honduran Sign Language is the dominant sign language used in Honduras. American Sign Language is also used; the two are not related.

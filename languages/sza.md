@@ -1,7 +1,6 @@
 ---
 iso: sza
 name: Semelai
-name_zh: 塞米莱语
 autonym: null
 alt_names: [Bera, Semelai Bera, Serting]
 population: 6418
@@ -15,5 +14,8 @@ glottolog_family_id: aust1305
 glottolog_family_name: Austroasiatic
 glottolog_classification: "Austroasiatic > Aslian > South Aslian > Semelai-Semaq > Semelai"
 wikipedia_url: "https://en.wikipedia.org/wiki/Semelai_language"
+translations:
+  - translation_iso: zho
+    name: 塞米莱语
 ---
 Semelai is an Austroasiatic language spoken in the Malay Peninsula by Semelai people. It belongs to the Southern branch of the Aslian language subgrouping. The Semelai people reside predominantly around the Bera, Serting and associated river systems in the states of Pahang, Negeri Sembilan and Johor.

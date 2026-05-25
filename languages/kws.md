@@ -1,8 +1,6 @@
 ---
 iso: kws
 name: Kwese
-name_zh: 克韦塞语
-name_zh_auto: true
 autonym: Kikwese
 alt_names: [Pindi, Ukwese]
 population: 60000
@@ -16,5 +14,9 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > Central-Western Bantu > Njila > Northern Njila > Mbala-Holu-Sondi (K.10) > Holu (K.10) > Pheende-Kwezo > Kwese"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kwese_language"
+translations:
+  - translation_iso: zho
+    name: 克韦塞语
+    auto: true
 ---
 Kwese is a Bantu language of the Democratic Republic of the Congo.

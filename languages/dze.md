@@ -1,8 +1,6 @@
 ---
 iso: dze
 name: Djiwarli
-name_zh: 詹瓦利语
-name_zh_auto: true
 autonym: Djiwali
 alt_names: [Djwarli, Dyiwarli, Guwari, Jivali, Jiwali, Jiwarli, Juwali, Kuwari, Tcheewarlee, Tci-warli, "Te:n", Teen, Tenma, Thiin, Tivali, Tjiwali, Tjiwarli]
 population: null
@@ -16,5 +14,9 @@ glottolog_family_id: pama1250
 glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > South-West Pama-Nyungan > Pilbara > Mantharta > Djiwarli-Thiin > Djiwarli"
 wikipedia_url: "https://en.wikipedia.org/wiki/Jiwarli_dialect"
+translations:
+  - translation_iso: zho
+    name: 詹瓦利语
+    auto: true
 ---
 Jiwarli is an extinct Australian Aboriginal language formerly spoken in the Pilbara region of Western Australia. It is a variety of the Mantharta language of the large Pama–Nyungan family. The last native speaker of Jiwarli, Jack Butler, died in May 1986.

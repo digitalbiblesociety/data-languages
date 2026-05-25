@@ -1,8 +1,6 @@
 ---
 iso: lka
 name: Lakalei
-name_zh: 拉卡莱语
-name_zh_auto: true
 autonym: null
 alt_names: [East Timor]
 population: 5000
@@ -15,4 +13,8 @@ glottocode: laka1255
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Timor-Babar > Lakalei-Idate > Lakalei"
+translations:
+  - translation_iso: zho
+    name: 拉卡莱语
+    auto: true
 ---

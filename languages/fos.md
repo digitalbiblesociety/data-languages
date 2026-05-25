@@ -1,7 +1,6 @@
 ---
 iso: fos
 name: Siraya
-name_zh: 西拉雅语
 autonym: Baksa
 alt_names: [Formosan, Formosanisch, Lingua Siraya, Pepo-Hwan, Pepohoan, Sideia, Sideis, Sideisch, Siraia, Siraiya, Sprache von Formosa, 西拉雅語]
 population: null
@@ -15,6 +14,11 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > East Formosan > Sirayaic"
 wikipedia_url: "https://en.wikipedia.org/wiki/Siraya_language"
+translations:
+  - translation_iso: jpn
+    name: シラヤ語
+  - translation_iso: zho
+    name: 西拉雅语
 rolv_dialects:
   - rolv_code: 16756
     language_tag: fos-x-HIS16756

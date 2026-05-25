@@ -1,7 +1,6 @@
 ---
 iso: hre
 name: Hre
-name_zh: 赫耶语
 autonym: "Cham-Re"
 alt_names: [Chom, Davach, Davak, Dá-Vách, Hrey, Hrê, Moi, Moi Da Vach, Moi Dá-vách, Moi Luy, Tachom]
 population: 127000
@@ -15,6 +14,9 @@ glottolog_family_id: aust1305
 glottolog_family_name: Austroasiatic
 glottolog_classification: "Austroasiatic > Bahnaric > North Bahnaric > Hre-Sedang-Todrah-Monam > Hre-Sedang > Hre"
 wikipedia_url: "https://en.wikipedia.org/wiki/Hr%C3%AA_language"
+translations:
+  - translation_iso: zho
+    name: 赫耶语
 rolv_dialects:
   - rolv_code: 3328
     language_tag: hre-x-HIS03328

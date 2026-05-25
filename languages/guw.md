@@ -1,7 +1,6 @@
 ---
 iso: guw
 name: Gun
-name_zh: 袞語
 autonym: gungbe
 alt_names: [Alada, Alada-Gbe, Aladian, Egun, Goun, Gu, Gugbe, Gun-Alada, Gun-Gbe, Seto-Gbe, Toli-Gbe]
 population: 1139000
@@ -15,6 +14,13 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Kwa Volta-Congo > Gbe > Eastern Gbe > Fongbeic > Gun"
 wikipedia_url: "https://en.wikipedia.org/wiki/Gun_language"
+translations:
+  - translation_iso: ara
+    name: لغة جن
+  - translation_iso: jpn
+    name: グン語
+  - translation_iso: zho
+    name: 袞語
 rolv_dialects:
   - rolv_code: 6147
     language_tag: guw-x-HIS06147

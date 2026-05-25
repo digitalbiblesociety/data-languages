@@ -1,8 +1,6 @@
 ---
 iso: mcr
 name: Menya
-name_zh: 梅尼亚语
-name_zh_auto: true
 autonym: Menyama
 alt_names: [Menye]
 population: 25000
@@ -16,5 +14,9 @@ glottolog_family_id: anga1289
 glottolog_family_name: Angan
 glottolog_classification: "Angan > Nuclear Angan > Kapau-Menya > Menya"
 wikipedia_url: "https://en.wikipedia.org/wiki/Menya_language"
+translations:
+  - translation_iso: zho
+    name: 梅尼亚语
+    auto: true
 ---
 Menya is an Angan language of Papua New Guinea.

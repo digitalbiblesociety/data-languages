@@ -1,8 +1,6 @@
 ---
 iso: are
 name: Western Arrarnta
-name_zh: 西阿瑞伦特语
-name_zh_auto: true
 autonym: Arrernte
 alt_names: ["A'randa", Aldolanga, Aldolinga, Aranda, Aranda (Western), Arandic, Aranta, Arinta, Arranda, Arranda (Western), Arrarnta, Arrarnta (Western), "Arrarnta, Western", Arrernte (Western), Arrinda, Arrundta, Arrunta, Arunda, Arunndta, Arunta, Arunta Ulpma, Burrin-gah, Herrinda, Ilpma, Jairunda, Oiljpma, Paroola, Tyuretye Arrernte, Ulpma, Ur rundie, Ur-rundie, Urrundie, Waitjinga, Western, Western Aranda, Western Aranta, Western Arranta, Western Arrarnte, Western Arrernte, Wonggaranda, Wongkatjeri, Wychinga]
 population: 440
@@ -15,4 +13,8 @@ glottocode: west2441
 glottolog_family_id: pama1250
 glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > Arandic-Thura-Yura > Arandic > South Arandic > Upper Arrernte > Western Arrarnta"
+translations:
+  - translation_iso: zho
+    name: 西阿瑞伦特语
+    auto: true
 ---

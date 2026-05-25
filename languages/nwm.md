@@ -1,8 +1,6 @@
 ---
 iso: nwm
 name: "Nyamusa-Molo"
-name_zh: 尼亚穆萨-莫洛语
-name_zh_auto: true
 autonym: null
 alt_names: [Sudan]
 population: 1200
@@ -15,6 +13,10 @@ glottocode: nyam1279
 glottolog_family_id: cent2225
 glottolog_family_name: Central Sudanic
 glottolog_classification: "Central Sudanic > Sara-Bongo-Bagirmi > Baka-Beli > Morokodo-Beli > Lori > Nyamusa-Molo"
+translations:
+  - translation_iso: zho
+    name: 尼亚穆萨-莫洛语
+    auto: true
 rolv_dialects:
   - rolv_code: 3848
     language_tag: nwm-x-HIS03848

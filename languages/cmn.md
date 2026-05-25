@@ -1,7 +1,6 @@
 ---
 iso: cmn
 name: Mandarin Chinese
-name_zh: 官话
 autonym: 普通话‎
 alt_names: [Bahasa Mandarin, Beifang Fangyan, Chinese, Chinese (Kunming), Chinese (Mandarin), "Chinese, Mandarin", "Chinese,Mandarin", Chino mandarín, Guanhua, Guoyu, Guók-ngṳ̄, Hanyu, Hochchinesisch, Hoochchinesisk, Idioma shino mandarin, Języki mandaryńskie, Kunming, Limba mandarină, Lingua Sinensis Mandarinica, Lingua chinese mandarin, Lingua cinese mandarino, Lingua xinesa mandarinu, Língua mandarim, Mandarena ĉina, Mandariinikiina, Mandarijn, Mandarin, Mandarin Supergroup, Mandarin estandard, Mandarin language, Mandarin nyelv, Mandarí, Mandarín, Mandarínština, Mandarīnu valoda, Manderinki, Northern Chinese, Pei, Putonghua, Quan thoại, Standard Chinese, Çînî, Мандарин, Мандарински језик, Северные диалекты китайского языка, מנדרינית, ماندارین, மாண்டரின் மொழி, ภาษาจีนกลาง, 中国官話, 國語, 官話, 官话, 관화]
 population: 918000000
@@ -15,6 +14,17 @@ glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Sinitic > Classical-Middle-Modern Sinitic > Middle-Modern Sinitic > Northern Chinese > Mandarinic > Mandarin Chinese"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mandarin_Chinese"
+translations:
+  - translation_iso: ara
+    name: الصينية المندرينية
+  - translation_iso: hin
+    name: मन्दारिन भाषा
+  - translation_iso: jpn
+    name: 官話
+  - translation_iso: kor
+    name: 중국 관화
+  - translation_iso: zho
+    name: 官话
 rolv_dialects:
   - rolv_code: 241
     language_tag: zh-Hans-x-HIS00241

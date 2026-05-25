@@ -1,8 +1,6 @@
 ---
 iso: txx
 name: Tatana
-name_zh: 塔塔纳语
-name_zh_auto: true
 autonym: Sabah Bisaya
 alt_names: ["Tatana'", Tatanaq]
 population: 5500
@@ -16,5 +14,11 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > North Borneo Malayo-Polynesian > Sabahan > Southwest Sabahan > Greater Murutic > Tatana"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tatana_language"
+translations:
+  - translation_iso: jpn
+    name: タタナ語
+  - translation_iso: zho
+    name: 塔塔纳语
+    auto: true
 ---
 Tatana (Tatanaq) is a Sabahan language spoken in Sabah, Malaysia. Due to limited studies, it is hard to ascertain whether Tatana requires a category on its own or is considered a Bisaya variety based on its 90% linguistic intelligibility with the closely related Bisaya ethnic in Sabah. The current speakers of Tatana identify themselves as an ethnic subgroup of the Dusun people of Borneo. Jason Lobel (2013:360) classifies Tatana as Murutic rather than Dusunic.

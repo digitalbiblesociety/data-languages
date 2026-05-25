@@ -1,8 +1,6 @@
 ---
 iso: gke
 name: Ndai
-name_zh: 恩代语
-name_zh_auto: true
 autonym: Galke
 alt_names: [Dai, Pormi]
 population: null
@@ -16,5 +14,9 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Cameroun-Ubangian > Mbumic > Northern Mbum > Dama-Galke > Ndai"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ndai_language"
+translations:
+  - translation_iso: zho
+    name: 恩代语
+    auto: true
 ---
 Ndai, also known as Galke or Pormi, is a nearly extinct Mbum language of northern Cameroon. There are only about a few speakers remaining in the vicinity of Tcholliré. The name of the language supposedly comes from the language's word for 'cow'. The language is spoken to a degree of fluency by five speakers, all over the age of 50, and two others are alleged to hold a conversational-level knowledge of the language.

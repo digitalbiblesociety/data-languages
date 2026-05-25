@@ -1,8 +1,6 @@
 ---
 iso: ckz
 name: "Cakchiquel-Quiché"
-name_zh: 卡克奇克尔-基切混合语
-name_zh_auto: true
 autonym: Cakchiquel–Quiché Mixed Language
 alt_names: [Cakchiquel-Quiche Mixed Language, Cakchiquel-Quiché Mixed Language, Cauque Mixed Language, "Kaqchikel-K'iche' Mixed Language"]
 population: 2000
@@ -16,5 +14,9 @@ glottolog_family_id: maya1287
 glottolog_family_name: Mayan
 glottolog_classification: "Mayan > Core Mayan > Quichean-Mamean > Greater Quichean > Core Quichean > Cakchiquel-Tzutujil > Kaqchikelic > Kakchikel-K'iche' Mixed Language"
 wikipedia_url: "https://en.wikipedia.org/wiki/Cauque_Mayan_language"
+translations:
+  - translation_iso: zho
+    name: 卡克奇克尔-基切混合语
+    auto: true
 ---
 Cauqué Mayan is a mixed language spoken in the aldea of Santa María Cauqué, Santiago Sacatepéquez, in the Department of Sacatepéquez in Guatemala. It is a Kʼicheʼ (Quiché) base relexified by Kaqchikel (Cakchiquel). During the colonial era, Kʼicheʼ migrated to Sacatepéquez, in the heart of Kaqchikel territory, where they founded the village of Santa María Cauque. Today only older adults retain the Kʼicheʼ base to their speech: for younger speakers, the language has merged into Kaqchikel.

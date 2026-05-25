@@ -1,8 +1,6 @@
 ---
 iso: ksr
 name: Borong
-name_zh: 博龙语
-name_zh_auto: true
 autonym: Kosorong
 alt_names: [Naama]
 population: 2070
@@ -16,6 +14,10 @@ glottolog_family_id: nucl1709
 glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Finisterre-Huon > Huon > Western Huon > Rawlinson > Pindiu > Kosorong-Burum-Mindik > Borong"
 wikipedia_url: "https://en.wikipedia.org/wiki/Borong_language"
+translations:
+  - translation_iso: zho
+    name: 博龙语
+    auto: true
 rolv_dialects:
   - rolv_code: 12310
     language_tag: ksr-x-HIS12310

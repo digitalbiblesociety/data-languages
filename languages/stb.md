@@ -1,8 +1,6 @@
 ---
 iso: stb
 name: Northern Subanen
-name_zh: 北苏巴嫩语
-name_zh_auto: true
 autonym: Subanon
 alt_names: ["Subanen, Northern", Tuboy Subanon]
 population: 85400
@@ -15,6 +13,10 @@ glottocode: nort2885
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Greater Central Philippine > Subanen > Nuclear Subanen > East Nuclear Subanen > Northern Subanen"
+translations:
+  - translation_iso: zho
+    name: 北苏巴嫩语
+    auto: true
 rolv_dialects:
   - rolv_code: 16911
     language_tag: stb-x-HIS16911

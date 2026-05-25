@@ -1,8 +1,6 @@
 ---
 iso: res
 name: Reshe
-name_zh: 雷歇语
-name_zh_auto: true
 autonym: Tsureshe
 alt_names: [Bareshe, Gunga, Gunganchi, Gungawa, Tsureja, Yaurawa]
 population: 44000
@@ -16,6 +14,10 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Kainji > Kainji Lake > Reshe"
 wikipedia_url: "https://en.wikipedia.org/wiki/Reshe_language"
+translations:
+  - translation_iso: zho
+    name: 雷歇语
+    auto: true
 rolv_dialects:
   - rolv_code: 2074
     language_tag: res-x-HIS02074

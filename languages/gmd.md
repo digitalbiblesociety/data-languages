@@ -1,7 +1,6 @@
 ---
 iso: gmd
 name: Mághdì
-name_zh: 马格地语
 autonym: Tala
 alt_names: [Maghdi, Widala]
 population: 2000
@@ -15,5 +14,8 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Cameroun-Ubangian > Bikwin-Jen > Northern Bikwin-Jen > Mak-Tal > Mághdì"
 wikipedia_url: "https://en.wikipedia.org/wiki/Maghdi_language"
+translations:
+  - translation_iso: zho
+    name: 马格地语
 ---
 Mághdì is an Adamawa language of Nigeria.

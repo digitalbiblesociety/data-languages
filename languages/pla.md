@@ -1,8 +1,6 @@
 ---
 iso: pla
 name: Miani
-name_zh: 米亚尼语
-name_zh_auto: true
 autonym: Tani
 alt_names: [Bonaputa-Mapu, Bonaputa-Mopu, Miani North]
 population: 1500
@@ -15,6 +13,10 @@ glottocode: mian1254
 glottolog_family_id: nucl1709
 glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Madang > Croisilles > Greater Northern Adelbert > Northern Adelbert > Kaukombaran > Miani"
+translations:
+  - translation_iso: zho
+    name: 米亚尼语
+    auto: true
 rolv_dialects:
   - rolv_code: 27659
     language_tag: pla-x-HIS27659

@@ -1,8 +1,6 @@
 ---
 iso: mjx
 name: Mahali
-name_zh: 玛哈利语
-name_zh_auto: true
 autonym: ᱥᱟᱱᱛᱟᱲᱤ
 alt_names: [Mahili, Mahle, Mahli]
 population: 29400
@@ -16,6 +14,10 @@ glottolog_family_id: aust1305
 glottolog_family_name: Austroasiatic
 glottolog_classification: "Austroasiatic > Mundaic > North Munda > Kherwarian > Santalic > Mahali"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mahali_language"
+translations:
+  - translation_iso: zho
+    name: 玛哈利语
+    auto: true
 rolv_dialects:
   - rolv_code: 5018
     language_tag: mjx-x-HIS05018

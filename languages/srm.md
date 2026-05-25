@@ -1,8 +1,6 @@
 ---
 iso: srm
 name: Saramaccan
-name_zh: 萨拉马卡语
-name_zh_auto: true
 autonym: Saamáka
 population: 36700
 country_id: SR
@@ -15,6 +13,14 @@ glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Germanic > Northwest Germanic > West Germanic > North Sea Germanic > Anglo-Frisian > Anglic > Later Anglic > Middle-Modern English > Macro-English > Guinea Coast Creole English > Surinamese Creole English > Saramaccan"
 wikipedia_url: "https://en.wikipedia.org/wiki/Saramaccan_language"
+translations:
+  - translation_iso: jpn
+    name: サラマッカ語
+  - translation_iso: kor
+    name: 사마카어
+  - translation_iso: zho
+    name: 萨拉马卡语
+    auto: true
 rolv_dialects:
   - rolv_code: 16341
     language_tag: srm-x-HIS16341

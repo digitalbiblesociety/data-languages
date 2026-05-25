@@ -1,8 +1,6 @@
 ---
 iso: kkk
 name: Kokota
-name_zh: 科科塔语
-name_zh_auto: true
 autonym: Ooe Kokota
 population: 530
 country_id: SB
@@ -15,6 +13,10 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > Meso Melanesian linkage > New Ireland-Northwest Solomonic linkage > St George linkage > Northwest Solomonic > Santa Isabel > Central Santa Isabel > Kokota"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kokota_language"
+translations:
+  - translation_iso: zho
+    name: 科科塔语
+    auto: true
 rolv_dialects:
   - rolv_code: 3627
     language_tag: kkk-x-HIS03627

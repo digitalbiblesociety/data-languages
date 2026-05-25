@@ -1,8 +1,6 @@
 ---
 iso: kgj
 name: Gamale Kham
-name_zh: 盖马勒卡姆语
-name_zh_auto: true
 autonym: Kham language
 alt_names: [Gamale, Jamí, Kham, "Kham, Gamale", "Kham,Gamale", Khamkura, Khams, Proto-Kham]
 population: 1000
@@ -15,6 +13,10 @@ glottocode: gama1251
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Himalayish > Mahakiranti > Kham-Magar-Chepang > Kham > Gamale-Parbate > Gamale Kham"
+translations:
+  - translation_iso: zho
+    name: 盖马勒卡姆语
+    auto: true
 rolv_dialects:
   - rolv_code: 2676
     language_tag: kgj-x-HIS02676

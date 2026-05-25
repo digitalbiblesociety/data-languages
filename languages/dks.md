@@ -1,8 +1,6 @@
 ---
 iso: dks
 name: Southeastern Dinka
-name_zh: 东南丁卡语
-name_zh_auto: true
 autonym: Thuɔŋjäŋ
 alt_names: [Bor, Dinka, "Dinka, Southeastern", Eastern Dinka, Ost-Dinka]
 population: 989120
@@ -15,6 +13,12 @@ glottocode: sout2834
 glottolog_family_id: nilo1247
 glottolog_family_name: Nilotic
 glottolog_classification: "Nilotic > Western Nilotic > Dinka-Nuer > Dinka > Southeastern Dinka"
+translations:
+  - translation_iso: jpn
+    name: 南東ディンカ語
+  - translation_iso: zho
+    name: 东南丁卡语
+    auto: true
 rolv_dialects:
   - rolv_code: 958
     language_tag: dks-x-HIS00958

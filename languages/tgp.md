@@ -1,7 +1,6 @@
 ---
 iso: tgp
 name: Tangoa
-name_zh: 坦戈亚语
 autonym: Mara Tatagoa
 alt_names: [Movono, Santo]
 population: 800
@@ -15,5 +14,8 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > North and Central Vanuatu > Northern Vanuatu > Espiritu Santo > Nuclear Santo > South Santo > Araki-Tangoa > Movono"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tangoa_language"
+translations:
+  - translation_iso: zho
+    name: 坦戈亚语
 ---
 Tangoa, or Movono, is an Oceanic language or dialect. It is spoken on Tangoa Island off the southern coast of Espiritu Santo in Vanuatu, as well as a few mainland villages opposite Tangoa. In 2015 it was estimated to have 370 speakers, while in 2001 it was estimated to have 800.

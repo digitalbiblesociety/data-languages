@@ -1,8 +1,6 @@
 ---
 iso: ksc
 name: Southern Kalinga
-name_zh: 南卡林加语
-name_zh_auto: true
 autonym: Madlango Kalinga
 alt_names: ["Kalinga, Southern", Tinglayan Kalinga]
 population: 13000
@@ -15,6 +13,10 @@ glottocode: sout2908
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Northern Luzon > Meso-Cordilleran > South-Central Cordilleran > Central Cordilleran > Kalinga-Itneg > Kalinga > Central and South Kalinga > South Kalinga > Bangad"
+translations:
+  - translation_iso: zho
+    name: 南卡林加语
+    auto: true
 rolv_dialects:
   - rolv_code: 11412
     language_tag: ksc-x-HIS11412

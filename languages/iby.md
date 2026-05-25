@@ -1,8 +1,6 @@
 ---
 iso: iby
 name: Ibani
-name_zh: 伊巴尼语
-name_zh_auto: true
 autonym: Ibani–Kalabari–Kirike
 alt_names: [Bonny, Ubani, Ịjọ]
 population: 60000
@@ -15,4 +13,8 @@ glottocode: iban1261
 glottolog_family_id: ijoi1239
 glottolog_family_name: Ijoid
 glottolog_classification: "Ijoid > Ijo > Eastern Ijo > Nikio > Kio Ijo > Ibani"
+translations:
+  - translation_iso: zho
+    name: 伊巴尼语
+    auto: true
 ---

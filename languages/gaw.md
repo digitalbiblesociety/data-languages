@@ -1,8 +1,6 @@
 ---
 iso: gaw
 name: Nobonob
-name_zh: 诺博诺布语
-name_zh_auto: true
 autonym: Garuh
 alt_names: [Butelkud-Guntabak, Nobanob, Nobnob, Nupanob]
 population: 5000
@@ -16,6 +14,10 @@ glottolog_family_id: nucl1709
 glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Madang > Croisilles > Mabuso > Hanseman > Garuhic > Garuh-Foran > Nobonob"
 wikipedia_url: "https://en.wikipedia.org/wiki/Nobonob_language"
+translations:
+  - translation_iso: zho
+    name: 诺博诺布语
+    auto: true
 rolv_dialects:
   - rolv_code: 24936
     language_tag: gaw-x-HIS24936

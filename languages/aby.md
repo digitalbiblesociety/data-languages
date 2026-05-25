@@ -1,8 +1,6 @@
 ---
 iso: aby
 name: Aneme Wake
-name_zh: 安姆韦克语
-name_zh_auto: true
 autonym: Abia
 alt_names: [Abie]
 population: 650
@@ -16,6 +14,10 @@ glottolog_family_id: yare1250
 glottolog_family_name: Yareban
 glottolog_classification: "Yareban > Doriri-Abia > Aneme Wake"
 wikipedia_url: "https://en.wikipedia.org/wiki/Aneme_Wake_language"
+translations:
+  - translation_iso: zho
+    name: 安姆韦克语
+    auto: true
 rolv_dialects:
   - rolv_code: 7000
     language_tag: aby-x-HIS07000

@@ -1,8 +1,6 @@
 ---
 iso: mcc
 name: Bitur
-name_zh: 比图尔语
-name_zh_auto: true
 autonym: Mutum
 alt_names: [Bituri, Dudi, Paswam, Paswarn]
 population: 860
@@ -16,5 +14,9 @@ glottolog_family_id: anim1240
 glottolog_family_name: Anim
 glottolog_classification: "Anim > Tirio > Nuclear Tirio > Bitur"
 wikipedia_url: "https://en.wikipedia.org/wiki/Bitur_language"
+translations:
+  - translation_iso: zho
+    name: 比图尔语
+    auto: true
 ---
 Bitur is a Papuan language of Western Province, Papua New Guinea.

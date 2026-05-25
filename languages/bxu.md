@@ -1,7 +1,6 @@
 ---
 iso: bxu
 name: China Buriat
-name_zh: 中国布里亚特语
 autonym: Buriat
 alt_names: [Bargu, Bargu Buriat, "Buriat, China", Buriat-Mongolian, Burjatisch, Buryat, Menggu, New Barghut, New Bargut, Northeastern Mongolian, Northern Mongolian, Xin Baerhu, 新巴爾虎土語]
 population: 14000
@@ -14,6 +13,11 @@ glottocode: chin1476
 glottolog_family_id: mong1349
 glottolog_family_name: Mongolic-Khitan
 glottolog_classification: "Mongolic-Khitan > Mongolic > Eastern Mongolic > Khalkha-Buriat > Buriat > China Buriat"
+translations:
+  - translation_iso: jpn
+    name: 中国ブリヤート語
+  - translation_iso: zho
+    name: 中国布里亚特语
 rolv_dialects:
   - rolv_code: 8521
     language_tag: bxu-x-HIS08521

@@ -1,7 +1,6 @@
 ---
 iso: kik
 name: Kikuyu
-name_zh: 基库尤语
 autonym: Gĩkũyũ
 alt_names: [Gekoyo, Gigikuyu, Gikouyoueg, Gikuyu, Gikuyu language, Gikuyum, Gėkooijo, Gĩgĩkũyũ, Idioma kikuyu, Język kikuju, Kikujčina, Kikuyu simi, Kuja lingvo, Kíkújú, Língua kikuyu, Кикуйю, গিকুয়ু ভাষা, キクユ語]
 population: 8150000
@@ -16,6 +15,17 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > East Bantu > Northeast Savanna Bantu > Central Kenya Bantu > Gikuyu-Temi > Kikuyu"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kikuyu_language"
+translations:
+  - translation_iso: ara
+    name: الكيكويوئية
+  - translation_iso: hin
+    name: किकुयू
+  - translation_iso: jpn
+    name: キクユ語
+  - translation_iso: kor
+    name: 키쿠유어
+  - translation_iso: zho
+    name: 基库尤语
 rolv_dialects:
   - rolv_code: 10232
     language_tag: ki-x-HIS10232

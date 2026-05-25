@@ -1,8 +1,6 @@
 ---
 iso: ngg
 name: Ngbaka Manza
-name_zh: 恩巴卡曼扎语
-name_zh_auto: true
 autonym: null
 alt_names: ["'Bofi", Ali, Ngbaka, Ngbaka-Manza, Ngbaka-Minagende, Ngbaka-Minangende]
 population: 29000
@@ -15,4 +13,8 @@ glottocode: ngba1287
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Gbaya-Manza-Ngbaka > Gbaya Oriental > Gbanu-Manza-Ngbaka > Manza-Ngbaka > Manzaic > Ngbaka-Manza-Ali > Ngbaka Manza"
+translations:
+  - translation_iso: zho
+    name: 恩巴卡曼扎语
+    auto: true
 ---

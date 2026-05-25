@@ -1,7 +1,6 @@
 ---
 iso: bjn
 name: Banjar
-name_zh: 班查语
 autonym: بهاس بنجر
 alt_names: [Bahasa Banjar, Bandjarese, Banjar Malay, Banjarese, Banjaresiska, Banjarčina, Język banjar, Lenga Banjar, Lengua banjar]
 population: 3655000
@@ -16,6 +15,15 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Malayo-Chamic > Malayic > Nuclear Malayic > East Borneo Malay > Banjar-Berau-Brunei Malay > Banjar-Bukit Malay > Banjar"
 wikipedia_url: "https://en.wikipedia.org/wiki/Banjarese_language"
+translations:
+  - translation_iso: ara
+    name: البنجرية
+  - translation_iso: jpn
+    name: バンジャル語
+  - translation_iso: kor
+    name: 반자르어
+  - translation_iso: zho
+    name: 班查语
 rolv_dialects:
   - rolv_code: 4688
     language_tag: bjn-x-HIS04688

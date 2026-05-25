@@ -1,8 +1,6 @@
 ---
 iso: mpi
 name: Mpade
-name_zh: 姆帕德语
-name_zh_auto: true
 autonym: Makari
 alt_names: [Kotoko-Makari, Mackeri, Makary, Mandage, Mandague, Mandagué, Mendage]
 population: 16000
@@ -16,6 +14,12 @@ glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > Biu-Mandara > North Biu-Mandara > Kotoko-Buduma > Kotoko Septentrional > Kotoko Septentrional 2 > Mpade"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mpade_language"
+translations:
+  - translation_iso: ara
+    name: مبادي
+  - translation_iso: zho
+    name: 姆帕德语
+    auto: true
 rolv_dialects:
   - rolv_code: 14324
     language_tag: mpi-x-HIS14324

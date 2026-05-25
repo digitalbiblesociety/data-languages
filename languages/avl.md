@@ -1,7 +1,6 @@
 ---
 iso: avl
 name: Eastern Egyptian Bedawi Arabic
-name_zh: 西北阿拉伯半島阿拉伯語
 autonym: Bedawi
 alt_names: [Arabic, "Arabic, Eastern Egyptian Bedawi", "Arabic, Levantine Bedawi Spoken", Bedawi Arabic, Istočnoegipatski bedawi arapski, Levantine Bedawi Arabic, Western Bedouin Dialects]
 population: 2435900
@@ -15,6 +14,15 @@ glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Semitic > West Semitic > Central Semitic > Arabian > Arabic > Egyptic Arabic > Eastern Egyptian Bedawi Arabic"
 wikipedia_url: "https://en.wikipedia.org/wiki/Northwest_Arabian_Arabic"
+translations:
+  - translation_iso: ara
+    name: لهجة بدوية
+  - translation_iso: jpn
+    name: アラビア語東部エジプト・ベダウィ方言
+  - translation_iso: kor
+    name: 베다위 아랍어
+  - translation_iso: zho
+    name: 西北阿拉伯半島阿拉伯語
 rolv_dialects:
   - rolv_code: 7084
     language_tag: avl-x-HIS07084

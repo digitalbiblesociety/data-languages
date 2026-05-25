@@ -1,7 +1,6 @@
 ---
 iso: lus
 name: Lushai
-name_zh: 米佐语
 autonym: Mizo ṭawng
 alt_names: [Duhlian Twang, Dulien, Haulngo, Hualngo, Le, Lei, Lingua Mizo, Lukhai, Lusago, Lusai, Lusei, Lushai (Mizo), Lushai-Mizo, Lushei, Lushēi, Mizo, Mizo language, Sailau, Whelngo, मिज़ो भाषा, মিজো ভাষা, மிசோ மொழி, ภาษาไมโซ]
 population: 843750
@@ -16,6 +15,17 @@ glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Kuki-Chin-Naga > Kuki-Chin > Central Kuki-Chin > Core Central Kuki-Chin > Mizoic > Mizo"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mizo_language"
+translations:
+  - translation_iso: ara
+    name: لغة ميزو
+  - translation_iso: hin
+    name: मिज़ो भाषा
+  - translation_iso: jpn
+    name: ミゾ語
+  - translation_iso: kor
+    name: 미조어
+  - translation_iso: zho
+    name: 米佐语
 rolv_dialects:
   - rolv_code: 6170
     language_tag: lus-x-HIS06170

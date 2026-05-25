@@ -1,7 +1,6 @@
 ---
 iso: sjd
 name: Kildin Sami
-name_zh: 基尔丁萨米语
 autonym: "кӣллт са̄мь кӣлл (kiillt saam' kiill)"
 alt_names: ["\"Kildin Lappish\"", "\"Lapp\"", Eastern, Eastern Saami, Gielddasámegiella, "Kiillt saam' kiill", Kildin, Kildin Lappish, Kildin Saami, Kildin Sámi, Kildin-Lappisch, Kildin-samea lingvo, Kildini saami keel, Kildino samių kalba, Kildinsamische Sprache, Kildinsamisk, Kildinsamisk språk, Kildinsamiska, Kildinsamíska, Kola Saame, Kola Saami, Lapp, Lappic, Lappisch, Lappish, Lingua sami di Kildin, Língua sami de Kildin, Ostlappisch, Russisch-Lappisch, Saam, Saame, Saami, Saami (Kildin), Saami Kildin, "Saami, Kildin", Saamí de Kildin, Same de Kildin, Sami kildin, "Sami, Kildin", Samieg Kildin, east dialect, kiltinänsaame, lapin kieli, lapon, lappisk, lopary, ostlappischer Dialekt, saamen kieli, saamskij jazyk, sabme, same-, sāme-giellâ, Килдин-саами мотт, Килдин-саамски език, Килдински самиски јазик, Кильди́ньскъ саа́мьскъ ѩꙁꙑ́къ, Кильдин Саами кыв, Кӣллт са̄мь кӣлл, кильдинский саамский язык, 基爾丁-薩米語]
 population: 1000
@@ -15,6 +14,13 @@ glottolog_family_id: ural1272
 glottolog_family_name: Uralic
 glottolog_classification: "Uralic > Saami > Eastern Saami > Peninsular Eastern Saami > Kildin Saami"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kildin_S%C3%A1mi"
+translations:
+  - translation_iso: jpn
+    name: キルディン・サーミ語
+  - translation_iso: kor
+    name: 킬딘 사미어
+  - translation_iso: zho
+    name: 基尔丁萨米语
 rolv_dialects:
   - rolv_code: 29240
     language_tag: sjd-x-HIS29240

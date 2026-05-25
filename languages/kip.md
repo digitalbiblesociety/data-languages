@@ -1,8 +1,6 @@
 ---
 iso: kip
 name: Sheshi Kham
-name_zh: 谢什卡姆语
-name_zh_auto: true
 autonym: Kham language
 alt_names: [Kham, "Kham, Sheshi", "Kham,Sheshi", Khamkura, Khams, Proto-Kham, Sheshi]
 population: 20000
@@ -15,6 +13,10 @@ glottocode: shes1236
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Himalayish > Mahakiranti > Kham-Magar-Chepang > Kham > Sheshi Kham"
+translations:
+  - translation_iso: zho
+    name: 谢什卡姆语
+    auto: true
 rolv_dialects:
   - rolv_code: 11917
     language_tag: kip-x-HIS11917

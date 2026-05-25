@@ -1,7 +1,6 @@
 ---
 iso: kje
 name: Kisar
-name_zh: 基萨尔语
 autonym: Loikera
 alt_names: [Kisser, Meher, Yotowawa]
 population: 20000
@@ -15,6 +14,9 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Timor-Babar > Southwest Maluku > Luangic-Kisaric > Kisaric > Kisar"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kisar_language"
+translations:
+  - translation_iso: zho
+    name: 基萨尔语
 rolv_dialects:
   - rolv_code: 4016
     language_tag: kje-x-HIS04016

@@ -1,8 +1,6 @@
 ---
 iso: dtb
 name: "Labuk-Kinabatangan Kadazan"
-name_zh: 拉布克-基那巴坦甘卡达让语
-name_zh_auto: true
 autonym: "Labuk-Kinabatangan Kadazan"
 alt_names: [Eastern Kadazan, Kadazan, "Kadazan, Labuk-Kinabatangan", Labuk Kadazan, Sogilitan, Tindakon, Tompulung]
 population: 20600
@@ -16,6 +14,10 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > North Borneo Malayo-Polynesian > Sabahan > Southwest Sabahan > Greater Dusunic > Dusunic > Rungus-Mangkaak-Labuk > Dumpas-Sukang > Labuk-Kinabatangan Kadazan"
 wikipedia_url: "https://en.wikipedia.org/wiki/Eastern_Kadazan_language"
+translations:
+  - translation_iso: zho
+    name: 拉布克-基那巴坦甘卡达让语
+    auto: true
 rolv_dialects:
   - rolv_code: 11289
     language_tag: dtb-x-HIS11289

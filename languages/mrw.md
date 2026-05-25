@@ -1,7 +1,6 @@
 ---
 iso: mrw
 name: Maranao
-name_zh: 马拉瑙语
 autonym: Mëranaw
 alt_names: [Maranao-ngî, Maranaw, Minaranaw, Ranao, ภาษามาราเนา]
 population: 866000
@@ -15,6 +14,13 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Greater Central Philippine > Danaw > Maranao"
 wikipedia_url: "https://en.wikipedia.org/wiki/Maranao_language"
+translations:
+  - translation_iso: jpn
+    name: マラナオ語
+  - translation_iso: kor
+    name: 마라나오어
+  - translation_iso: zho
+    name: 马拉瑙语
 rolv_dialects:
   - rolv_code: 302
     language_tag: mrw-x-HIS00302

@@ -1,7 +1,6 @@
 ---
 iso: kas
 name: Kashmiri
-name_zh: 克什米尔语
 autonym: " كٲشُر"
 alt_names: [Bahasa Kashmiri, Caixmirí, Cashmeeree, Cashmiri, Dardu, Idioma cachemir, Język kaszmirski, Kachmireg, Kacmiri, Kaschemiri, Kaschmiri, Kashmiirėsch, Kashmirisk, Kasjmiri, Kaŝmira lingvo, Kašmiri jezik, Kašmirin kieli, Kašmírčina, Kašmírština, Kašmīrī, Keshur, Keshuri, Kēšur, Lingua Casmirica, Lingua kashmiri, Língua caxemira, Кашмири, Кашмири језик, زبان کشمیری, كأشُر, كشميرى, لغة كشميرية, کشمیری, कश्मीरी, कश्मीरी भाषा, काश्मिरी भाषा, কাশ্মীরি ভাষা, કાશ્મીરી ભાષા, காஷ்மீரி மொழி, ಕಾಶ್ಮೀರಿ, കശ്മീരി ഭാഷ, ภาษาแคชเมียร์, ካሽሚርኛ, カシミール語, 克什米爾語, 카슈미르어]
 population: 7132800
@@ -16,6 +15,17 @@ glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Indo-Aryan > Middle-Modern Indo-Aryan > Eastern Dardic > Kashmiric > Kashmiri"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kashmiri_language"
+translations:
+  - translation_iso: ara
+    name: الكشميرية
+  - translation_iso: hin
+    name: कश्मीरी भाषा
+  - translation_iso: jpn
+    name: カシミール語
+  - translation_iso: kor
+    name: 카슈미르어
+  - translation_iso: zho
+    name: 克什米尔语
 rolv_dialects:
   - rolv_code: 3329
     language_tag: ks-x-HIS03329

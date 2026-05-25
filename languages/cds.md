@@ -1,8 +1,6 @@
 ---
 iso: cds
 name: Chadian Sign Language
-name_zh: 乍得手语
-name_zh_auto: true
 autonym: Lenguaje de Señas Bolivianas LSB
 population: 390
 country_id: TD
@@ -14,4 +12,10 @@ glottocode: chad1238
 glottolog_family_id: sign1238
 glottolog_family_name: Sign Language
 glottolog_classification: "Sign Language > L1 Sign Language > LSFic > ASLic > American Sign > Chadian Sign Language"
+translations:
+  - translation_iso: jpn
+    name: チャド手話
+  - translation_iso: zho
+    name: 乍得手语
+    auto: true
 ---

@@ -1,8 +1,6 @@
 ---
 iso: hbn
 name: Heiban
-name_zh: 海班语
-name_zh_auto: true
 autonym: Ebang
 alt_names: [Abul, Heibán]
 population: 4410
@@ -16,5 +14,9 @@ glottolog_family_id: heib1242
 glottolog_family_name: Heibanic
 glottolog_classification: "Heibanic > West-Central Heibanic > Central Heibanic > Ebang-Logol > Ebang-Laru > Ebang"
 wikipedia_url: "https://en.wikipedia.org/wiki/Heiban_language"
+translations:
+  - translation_iso: zho
+    name: 海班语
+    auto: true
 ---
 The Heiban language, Ebang, or Abul, is a Niger–Congo language in the Heiban family spoken in the town of Heiban located in the Nuba Mountains of Kordofan, Sudan.

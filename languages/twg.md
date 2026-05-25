@@ -1,8 +1,6 @@
 ---
 iso: twg
 name: Tereweng
-name_zh: 特雷温语
-name_zh_auto: true
 autonym: Tereweng
 alt_names: [Indonesia]
 population: 800
@@ -16,5 +14,9 @@ glottolog_family_id: timo1261
 glottolog_family_name: Timor-Alor-Pantar
 glottolog_classification: "Timor-Alor-Pantar > Alor-Pantar > Nuclear Alor-Pantar > West Alor-Straits-Pantar > Kaera-Straits > Blagaric > Tereweng"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tereweng_language"
+translations:
+  - translation_iso: zho
+    name: 特雷温语
+    auto: true
 ---
 Tereweng is an Alor–Pantar language spoken by the Tereweng people on Tereweng Island, southeast of Pantar. This language is especially closely related to Blagar, sometimes considered a dialect of it, or more distantly to Retta.

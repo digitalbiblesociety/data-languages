@@ -1,8 +1,6 @@
 ---
 iso: kdl
 name: Tsikimba
-name_zh: 茨基金巴语
-name_zh_auto: true
 autonym: Tsikimba
 alt_names: [Agaushi, Akimba, Auna, Kambari, Kamberchi, Kamberri, Kimba]
 population: 100000
@@ -16,6 +14,10 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Kainji > Central Kainji > Kambari-Cicipu > Kambaric > West Kambaric > Tsikimba"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kimba_language"
+translations:
+  - translation_iso: zho
+    name: 茨基金巴语
+    auto: true
 rolv_dialects:
   - rolv_code: 17661
     language_tag: kdl-x-HIS17661

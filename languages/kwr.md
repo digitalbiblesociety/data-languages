@@ -1,8 +1,6 @@
 ---
 iso: kwr
 name: Kwer
-name_zh: 克韦尔语
-name_zh_auto: true
 autonym: bahasa Kwer
 alt_names: [Indonesia]
 population: 100
@@ -16,5 +14,9 @@ glottolog_family_id: nucl1709
 glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Asmat-Awyu-Ok > Awyu-Ok > Ok-Oksapmin > Ok > Kwer-Kopkaka-Burumakok > Kwer-Burumakok > Kwer"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kwer_language"
+translations:
+  - translation_iso: zho
+    name: 克韦尔语
+    auto: true
 ---
 Kopkaka (Kopka) is an Ok language spoken in Seredala District, Yahukimo Regency, Highland Papua. The villages that speak this language are Seredala, Moruf, Mosomduba, Burupmakot, and others.

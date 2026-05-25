@@ -1,8 +1,6 @@
 ---
 iso: pkh
 name: Pankhu
-name_zh: 潘库语
-name_zh_auto: true
 autonym: Pangkhu
 alt_names: [Paang, Pang, Pang Khua, Pangkhua, Pankho, Pankhua, Panko, Pankua]
 population: 2500
@@ -16,6 +14,10 @@ glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Kuki-Chin-Naga > Kuki-Chin > Central Kuki-Chin > Core Central Kuki-Chin > Pangkhua"
 wikipedia_url: "https://en.wikipedia.org/wiki/Pangkhu_language"
+translations:
+  - translation_iso: zho
+    name: 潘库语
+    auto: true
 rolv_dialects:
   - rolv_code: 4417
     language_tag: pkh-x-HIS04417

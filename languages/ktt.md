@@ -1,8 +1,6 @@
 ---
 iso: ktt
 name: Ketum
-name_zh: 克特姆语
-name_zh_auto: true
 autonym: Kitum
 alt_names: [Indonesia]
 population: 900
@@ -15,6 +13,10 @@ glottocode: ketu1238
 glottolog_family_id: nucl1709
 glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Asmat-Awyu-Ok > Awyu-Ok > Greater Awyu > Awyu-Dumut > Dumut > Ketum-Wambon > Ketum"
+translations:
+  - translation_iso: zho
+    name: 克特姆语
+    auto: true
 rolv_dialects:
   - rolv_code: 31193
     language_tag: ktt-x-HIS31193

@@ -1,8 +1,6 @@
 ---
 iso: kjp
 name: Pwo Eastern Karen
-name_zh: 普沃东卡伦语
-name_zh_auto: true
 autonym: " ဖၠုံယှိုဝ်"
 alt_names: [Eastern Pwo, Karen, Karen (Pwo), "Karen, Pwo Eastern", "Karen, Pwo Western Thailand", "Karen,PwoEastern", Moulmein Pwo Karen, Phlou, Pho of Moulmein, Pwo Eastern, Pwo Karen, Pwo Western, Southern Pwo Karen]
 population: 1050000
@@ -16,6 +14,12 @@ glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Karenic > Peripheral Karen > Pwo > Eastern-Western Pwo Karen > Pwo Eastern Karen"
 wikipedia_url: "https://en.wikipedia.org/wiki/Eastern_Pwo_language"
+translations:
+  - translation_iso: jpn
+    name: 東ポー語
+  - translation_iso: zho
+    name: 普沃东卡伦语
+    auto: true
 rolv_dialects:
   - rolv_code: 2403
     language_tag: kjp-x-HIS02403

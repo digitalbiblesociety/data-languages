@@ -1,8 +1,6 @@
 ---
 iso: mug
 name: Musgu
-name_zh: 穆斯古语
-name_zh_auto: true
 autonym: Mulwi
 alt_names: [Mouloui, Mousgou, Mousgoum, Mousgoun, Munjuk, Musga, Musgum, Musuk, Muzuk]
 population: 164400
@@ -16,6 +14,12 @@ glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > Biu-Mandara > North Biu-Mandara > Musguic > Musgu-Mbara > Musgu"
 wikipedia_url: "https://en.wikipedia.org/wiki/Musgu_language"
+translations:
+  - translation_iso: jpn
+    name: ムスグ語
+  - translation_iso: zho
+    name: 穆斯古语
+    auto: true
 rolv_dialects:
   - rolv_code: 14447
     language_tag: mug-x-HIS14447

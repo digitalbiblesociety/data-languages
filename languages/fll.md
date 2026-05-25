@@ -1,8 +1,6 @@
 ---
 iso: fll
 name: North Fali
-name_zh: 北法利语
-name_zh_auto: true
 autonym: null
 alt_names: [Fali, "Fali, North"]
 population: 16000
@@ -15,6 +13,10 @@ glottocode: nort2770
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Unclassified Volta-Congo > Adamawa Fali > North Fali"
+translations:
+  - translation_iso: zho
+    name: 北法利语
+    auto: true
 rolv_dialects:
   - rolv_code: 2876
     language_tag: fll-x-HIS02876

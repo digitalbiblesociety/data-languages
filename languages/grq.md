@@ -1,8 +1,6 @@
 ---
 iso: grq
 name: Gorovu
-name_zh: 戈罗武语
-name_zh_auto: true
 autonym: Gorova
 alt_names: [Yerani]
 population: 20
@@ -16,5 +14,9 @@ glottolog_family_id: ramu1234
 glottolog_family_name: Ramu
 glottolog_classification: "Ramu > Agoan > Gorovu"
 wikipedia_url: "https://en.wikipedia.org/wiki/Gorovu_language"
+translations:
+  - translation_iso: zho
+    name: 戈罗武语
+    auto: true
 ---
 Gorovu is a nearly extinct Ramu language of Papua New Guinea.

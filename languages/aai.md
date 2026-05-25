@@ -1,8 +1,6 @@
 ---
 iso: aai
 name: "Arifama-Miniafia"
-name_zh: 阿里法玛-米尼亚菲亚语
-name_zh_auto: true
 autonym: Miniafia
 alt_names: [Miniafia-Arifama]
 population: 3470
@@ -16,6 +14,10 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > Papuan Tip linkage > Nuclear Papuan Tip linkage > North Papuan Mainland-D'Entrecasteaux linkage > Are-Taupota linkage > Are linkage > Arifama-Miniafia"
 wikipedia_url: "https://en.wikipedia.org/wiki/Arifama-Miniafia_language"
+translations:
+  - translation_iso: zho
+    name: 阿里法玛-米尼亚菲亚语
+    auto: true
 rolv_dialects:
   - rolv_code: 2416
     language_tag: aai-x-HIS02416

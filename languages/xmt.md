@@ -1,8 +1,6 @@
 ---
 iso: xmt
 name: Matbat
-name_zh: 马特巴特语
-name_zh_auto: true
 autonym: Misool
 alt_names: [Me]
 population: 1250
@@ -16,6 +14,12 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > South Halmahera-West New Guinea > Raja Ampat-South Halmahera > Maya-Salawati-Matbat > Matbat"
 wikipedia_url: "https://en.wikipedia.org/wiki/Matbat_language"
+translations:
+  - translation_iso: jpn
+    name: マトバット語
+  - translation_iso: zho
+    name: 马特巴特语
+    auto: true
 rolv_dialects:
   - rolv_code: 26002
     language_tag: xmt-x-HIS26002

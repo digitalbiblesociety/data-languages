@@ -1,8 +1,6 @@
 ---
 iso: acu
 name: "Achuar-Shiwiar"
-name_zh: 阿楚阿尔-希维亚尔语
-name_zh_auto: true
 autonym: Shiwiar
 alt_names: [Achual, Achuale, Achuall, Achuar, Achuar chicham, Achuara, Chiwaro, Hivaro, Huambisa, Huambisa (wampis), Hívaro, Jibaro, Jivaro, Jíbaro, Jívaro, Maina, Shiwiar chicham, Shuar, Shuar chicham, Shuara, Xivaro, Xívaro]
 population: 7940
@@ -16,6 +14,10 @@ glottolog_family_id: jiva1245
 glottolog_family_name: Chicham
 glottolog_classification: "Chicham > Shuaric > Achuar-Shiwiar"
 wikipedia_url: "https://en.wikipedia.org/wiki/Achuar-Shiwiar_language"
+translations:
+  - translation_iso: zho
+    name: 阿楚阿尔-希维亚尔语
+    auto: true
 rolv_dialects:
   - rolv_code: 24189
     language_tag: acu-x-HIS24189

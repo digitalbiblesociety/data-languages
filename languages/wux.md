@@ -1,8 +1,6 @@
 ---
 iso: wux
 name: Wulna
-name_zh: 乌尔纳语
-name_zh_auto: true
 autonym: Beriguruk
 alt_names: [Berrigurruk, Berugurruk, Birrigarak, Djeramanga, Djerimanga, Erei, Eri, Jermangel, Perrigurruk, Rereri, Reveri for Beriguruk, Waak, Wolna, Woolna, Woolnah, Woolner, Woolner for Djerimanga, Woolnough, Wulnar, Wuna, Wunna]
 population: 1981
@@ -16,5 +14,9 @@ glottolog_family_id: limi1242
 glottolog_family_name: Limilngan-Wulna
 glottolog_classification: "Limilngan-Wulna > Wulna"
 wikipedia_url: "https://en.wikipedia.org/wiki/Wulna_language"
+translations:
+  - translation_iso: zho
+    name: 乌尔纳语
+    auto: true
 ---
 Wulna or Wuna is an extinct Indigenous language of Australia. It was a non-Pama-Nyungan language spoken in the Adelaide River region of the Northern Territory. It is poorly attested and only tentatively classified as being related to Limilngan.

@@ -1,7 +1,6 @@
 ---
 iso: uzn
 name: Northern Uzbek
-name_zh: 北乌兹别克语
 autonym: اۉزبېکچه
 alt_names: [City Özbek, Krymchak, Ouzbek, Ozbek, Tashkent dialect, Usbaki, Usbeki, Uzbec, Uzbek, Uzbek (Northern), "Uzbek, Northern", Özbek, Özbekisch, 北乌兹别克语]
 population: 25100000
@@ -15,6 +14,9 @@ glottolog_family_id: turk1311
 glottolog_family_name: Turkic
 glottolog_classification: "Turkic > Common Turkic > Kipchak-Turkestan > Turkestan > Modern Turkestan > Uzbek > Northern Uzbek"
 wikipedia_url: "https://en.wikipedia.org/wiki/Northern_Uzbek_language"
+translations:
+  - translation_iso: zho
+    name: 北乌兹别克语
 rolv_dialects:
   - rolv_code: 17991
     language_tag: uz-UZ-x-HIS17991

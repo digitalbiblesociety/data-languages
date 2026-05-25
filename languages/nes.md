@@ -1,8 +1,6 @@
 ---
 iso: nes
 name: Bhoti Kinnauri
-name_zh: 克纳乌里语
-name_zh_auto: true
 autonym: Bhotea of Upper Kinnauri
 alt_names: [Bhōṭiā of Upper Kanawar, Bod-Skad, Bud-Kat, Kanāwri, "Kinnauri, Bhoti", "Kinnauri,Bhoti", Mnyam, Mnyamskad, Myamkat, Myamskad, Nyamkad, Nyamkat, Nyamskad, Sangs-Rgyas, Sangyas]
 population: 6790
@@ -15,6 +13,10 @@ glottocode: bhot1235
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Bodic > Bodish > Early Old Tibetan > Middle Old Tibetan > Late Old Tibetan > Lahauli-Spiti > Khunu-Töt"
+translations:
+  - translation_iso: zho
+    name: 克纳乌里语
+    auto: true
 rolv_dialects:
   - rolv_code: 30782
     language_tag: nes-x-HIS30782

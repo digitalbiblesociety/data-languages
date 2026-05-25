@@ -1,8 +1,6 @@
 ---
 iso: sbk
 name: Safwa
-name_zh: 萨夫瓦语
-name_zh_auto: true
 autonym: " Ishisafwa"
 alt_names: [Cisafwa, Kisafwa]
 population: 322000
@@ -16,6 +14,10 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > East Bantu > Corridor Bantu > Mbozi > Mbeya > Safwa"
 wikipedia_url: "https://en.wikipedia.org/wiki/Safwa_language"
+translations:
+  - translation_iso: zho
+    name: 萨夫瓦语
+    auto: true
 rolv_dialects:
   - rolv_code: 16169
     language_tag: sbk-x-HIS16169

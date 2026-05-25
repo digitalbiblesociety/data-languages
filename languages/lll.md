@@ -1,8 +1,6 @@
 ---
 iso: lll
 name: Lilau
-name_zh: 利劳语
-name_zh_auto: true
 autonym: Ngaimbom
 population: 450
 country_id: PG
@@ -15,6 +13,10 @@ glottolog_family_id: monu1249
 glottolog_family_name: Bogia
 glottolog_classification: "Bogia > Lilau"
 wikipedia_url: "https://en.wikipedia.org/wiki/Lilau_language"
+translations:
+  - translation_iso: zho
+    name: 利劳语
+    auto: true
 rolv_dialects:
   - rolv_code: 30315
     language_tag: lll-x-HIS30315

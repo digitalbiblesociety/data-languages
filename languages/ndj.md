@@ -1,8 +1,6 @@
 ---
 iso: ndj
 name: Ndamba
-name_zh: 恩当巴语
-name_zh_auto: true
 autonym: null
 alt_names: [Tanzania]
 population: 196000
@@ -16,5 +14,9 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > East Bantu > Kilombero > West Kilombero > Ndamba"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ndamba_language"
+translations:
+  - translation_iso: zho
+    name: 恩当巴语
+    auto: true
 ---
 Ndamba or "Chindamba" is classified as a Bantu language. It is one of 87 languages spoken in Tanzania Most Chindamba speakers are bilingual in Swahili and Chindamba.

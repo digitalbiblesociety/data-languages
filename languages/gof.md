@@ -1,8 +1,6 @@
 ---
 iso: gof
 name: Gofa
-name_zh: 戈法语
-name_zh_auto: true
 autonym: Goffa
 population: 359000
 country_id: ET
@@ -14,4 +12,8 @@ glottocode: gofa1235
 glottolog_family_id: gong1255
 glottolog_family_name: Ta-Ne-Omotic
 glottolog_classification: "Ta-Ne-Omotic > Ometo > North-West Ometo > Central Ometo > Dawro-Gofa-Gamo > Gofa"
+translations:
+  - translation_iso: zho
+    name: 戈法语
+    auto: true
 ---

@@ -1,7 +1,6 @@
 ---
 iso: frp
 name: Arpitan
-name_zh: 法兰克-普罗旺斯语
 autonym: Arpitan
 alt_names: [Arpitaani, Arpitana lingvo, Arpitanca, Arpitaneg, Arpitanek, Arpitanish, Arpitanska, Arpitanu, Arpitàn, Bahasa Arpitan, Faetar, Franco-Provençal, Franco-Provençal language, Francoprovenzal, Francoprovençaals, Francoprovençal, Francoprovinçå, Franko-Provensalio dialektas, Frankoprovansalski jezik, Frankoprovanszál nyelv, Frankoprovensaals, Frankoprovensalska, Frankoprovenzalische Sprache, Frankoprovenzera, Frankoprovençalsk, Idioma franco-provenzal, Idioma francoprovenzal, Język franko-prowansalski, Lenga franch-provensal, Lengua franco-provensâ, Lingua Arpitanica, Lingua francoprovenzal, Lingua francoprovenzale, Língua franco-provençal, Patois, Romand, Франкопровансальский язык, አርፒታንኛ, アルピタン語, 法兰克-普罗旺斯语]
 population: 227000
@@ -16,6 +15,15 @@ glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Italic > Latino-Faliscan > Latinic > Imperial Latin > Romance > Italo-Western Romance > Western Romance > Shifted Western Romance > Northwestern Shifted Romance > Gallo-Rhaetian > Oil > Francoprovencalic > Arpitan"
 wikipedia_url: "https://en.wikipedia.org/wiki/Franco-Proven%C3%A7al"
+translations:
+  - translation_iso: ara
+    name: البروفانسية الفرنسية
+  - translation_iso: jpn
+    name: アルピタン語
+  - translation_iso: kor
+    name: 프랑코프로방스어
+  - translation_iso: zho
+    name: 法兰克-普罗旺斯语
 rolv_dialects:
   - rolv_code: 9869
     language_tag: frp-x-HIS09869

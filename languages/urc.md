@@ -1,8 +1,6 @@
 ---
 iso: urc
 name: Urningangg
-name_zh: 乌尔宁甘格语
-name_zh_auto: true
 autonym: Mangerr
 alt_names: [Mirarr, Uninganangk, Uningangg, Uningangk, Urningangga, Urningangk, Wata, Wuningag, Wuningak, Wuningangk]
 population: null
@@ -15,4 +13,8 @@ glottocode: urni1239
 glottolog_family_id: giim1238
 glottolog_family_name: Giimbiyu
 glottolog_classification: "Giimbiyu > Urninganggic > Urningangg"
+translations:
+  - translation_iso: zho
+    name: 乌尔宁甘格语
+    auto: true
 ---

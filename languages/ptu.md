@@ -1,8 +1,6 @@
 ---
 iso: ptu
 name: Bambam
-name_zh: 班班姆语
-name_zh_auto: true
 autonym: Pitu Ulunna Salu
 alt_names: [Nordost-Celebes, Pitu Ilunna Salo, Pitu Ulunna Salo, Pitu-Ulunna-Salu]
 population: 42100
@@ -16,6 +14,10 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Greater South Sulawesi > South Sulawesi > Northern South Sulawesi > Pitu Ulunna Salu > Matangnga-Aralle-Tabulahan > Bambam"
 wikipedia_url: "https://en.wikipedia.org/wiki/Bambam_language"
+translations:
+  - translation_iso: zho
+    name: 班班姆语
+    auto: true
 rolv_dialects:
   - rolv_code: 7639
     language_tag: ptu-x-HIS07639

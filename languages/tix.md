@@ -1,8 +1,6 @@
 ---
 iso: tix
 name: Southern Tiwa
-name_zh: 南蒂瓦语
-name_zh_auto: true
 autonym: "Tiwa, Southern"
 alt_names: [Isleta, Isleta-Sandia, S Tiwa, S. Tiwa, Tiwa, Tiwa (Southern), Tiwa meridional (Sandía), Tiwa méridional (Pueblo Isleta), Tiwa méridional (Pueblo Sandia)]
 population: 1600
@@ -16,6 +14,12 @@ glottolog_family_id: kiow1265
 glottolog_family_name: Kiowa-Tanoan
 glottolog_classification: "Kiowa-Tanoan > Tiwa-Piro > Tiwa > Southern Tiwa"
 wikipedia_url: "https://en.wikipedia.org/wiki/Southern_Tiwa_language"
+translations:
+  - translation_iso: hin
+    name: दक्षिणी तिवा भाषा
+  - translation_iso: zho
+    name: 南蒂瓦语
+    auto: true
 rolv_dialects:
   - rolv_code: 216
     language_tag: tix-x-HIS00216

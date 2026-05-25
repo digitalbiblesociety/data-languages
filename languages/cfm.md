@@ -1,8 +1,6 @@
 ---
 iso: cfm
 name: Falam Chin
-name_zh: 法兰钦语
-name_zh_auto: true
 autonym: Lai
 alt_names: [Chin, "Chin, Falam", "Chin,Falam", Falam, Fallam, Halam, Hallam, Hallam Chin, Tipura, Zahao, ဖလမ်းချင်း]
 population: 107900
@@ -16,6 +14,12 @@ glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Kuki-Chin-Naga > Kuki-Chin > Central Kuki-Chin > Core Central Kuki-Chin > Lai Chin > Falamic > Falam Chin"
 wikipedia_url: "https://en.wikipedia.org/wiki/Falam_language"
+translations:
+  - translation_iso: jpn
+    name: ファラム語
+  - translation_iso: zho
+    name: 法兰钦语
+    auto: true
 rolv_dialects:
   - rolv_code: 201
     language_tag: cfm-x-HIS00201

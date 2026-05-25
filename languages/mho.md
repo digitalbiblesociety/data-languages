@@ -1,8 +1,6 @@
 ---
 iso: mho
 name: Mashi (Zambia)
-name_zh: 玛希语（赞比亚）
-name_zh_auto: true
 autonym: Masi
 alt_names: [Mashi]
 population: 21730
@@ -16,6 +14,10 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > Central-Western Bantu > Greater Luyana > Western Greater Luyana > Mashi-Mbukushi > Mashi (Zambia)"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mashi_language"
+translations:
+  - translation_iso: zho
+    name: 玛希语（赞比亚）
+    auto: true
 rolv_dialects:
   - rolv_code: 13824
     language_tag: mho-x-HIS13824

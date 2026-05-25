@@ -1,8 +1,6 @@
 ---
 iso: nis
 name: Nimi
-name_zh: 尼米语
-name_zh_auto: true
 autonym: null
 population: 1380
 country_id: PG
@@ -15,5 +13,9 @@ glottolog_family_id: nucl1709
 glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Finisterre-Huon > Finisterre-Saruwaged > Erap > Sauk-Nimi > Nimi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Nimi_language"
+translations:
+  - translation_iso: zho
+    name: 尼米语
+    auto: true
 ---
 Nimi is a language spoken in Papua New Guinea. There were about 1400 native speakers as of 1980.

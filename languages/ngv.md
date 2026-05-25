@@ -1,8 +1,6 @@
 ---
 iso: ngv
 name: Nagumi
-name_zh: 纳古米语
-name_zh_auto: true
 autonym: Ngong
 alt_names: [Bama, Mbama]
 population: null
@@ -16,6 +14,12 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Jarawan > Nagumi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Nagumi_language"
+translations:
+  - translation_iso: jpn
+    name: ナグミ語
+  - translation_iso: zho
+    name: 纳古米语
+    auto: true
 rolv_dialects:
   - rolv_code: 14933
     language_tag: ngv-x-HIS14933

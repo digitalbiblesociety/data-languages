@@ -1,8 +1,6 @@
 ---
 iso: glj
 name: Gula Iro
-name_zh: 古拉伊罗语
-name_zh_auto: true
 autonym: "Goula d'Iro"
 alt_names: [Goula Iro, Iro, "Iro Gula, Kulaal", Kulaal]
 population: 165
@@ -16,6 +14,10 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Bua-Kim-Day > Adamawa Bua > Inland Bua > Goulaic > Zan-Kulaalic > Kulaalic > Gula Iro"
 wikipedia_url: "https://en.wikipedia.org/wiki/Gula_Iro_language"
+translations:
+  - translation_iso: zho
+    name: 古拉伊罗语
+    auto: true
 rolv_dialects:
   - rolv_code: 4913
     language_tag: glj-x-HIS04913

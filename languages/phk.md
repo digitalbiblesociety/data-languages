@@ -1,7 +1,6 @@
 ---
 iso: phk
 name: Phake
-name_zh: 帕基语
 autonym: Faake
 alt_names: [Phakey, Phakial, Tai Phakial, Tai phake]
 population: 5000
@@ -15,5 +14,12 @@ glottolog_family_id: taik1256
 glottolog_family_name: Tai-Kadai
 glottolog_classification: "Tai-Kadai > Kam-Tai > Daic-Beic > Daic > Central-Southwestern Tai > Wenma-Southwestern Tai > Sapa-Southwestern Tai > Southwestern Tai > Southwestern Tai P > Shanic > Sukaphic > Mogaung > Assam Tai A > Phake"
 wikipedia_url: "https://en.wikipedia.org/wiki/Phake_language"
+translations:
+  - translation_iso: hin
+    name: ताई फेके भाषा
+  - translation_iso: jpn
+    name: タイ・パケ語
+  - translation_iso: zho
+    name: 帕基语
 ---
 The Phake language or Tai Phake language is a Tai language spoken in the Buri Dihing Valley of Assam, India. It is closely related to the other Southwestern Tai languages in Assam: Aiton, Khamti, Khamyang, and Turung.

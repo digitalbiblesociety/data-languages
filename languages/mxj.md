@@ -1,7 +1,6 @@
 ---
 iso: mxj
 name: "Miju-Mishmi"
-name_zh: 格曼语
 autonym: " Kman"
 alt_names: ["Deng, Geman", Geman Deng, Kaman, Kaman Mishmi, Keman, Miji, Miju, Mishmi, Mījū Mishmi, 格曼語]
 population: 18000
@@ -15,6 +14,13 @@ glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Kman-Meyor > Kman"
 wikipedia_url: "https://en.wikipedia.org/wiki/Miju_language"
+translations:
+  - translation_iso: hin
+    name: मिजु भाषा
+  - translation_iso: jpn
+    name: ミジュ語
+  - translation_iso: zho
+    name: 格曼语
 ---
 Kaman, or Miju, is a small language of India and China.
 Long assumed to be a Sino-Tibetan language, it may be a language isolate.

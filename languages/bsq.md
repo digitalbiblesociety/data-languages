@@ -1,7 +1,6 @@
 ---
 iso: bsq
 name: Bassa
-name_zh: 巴萨语
 autonym: Ɓǎsɔ́
 population: 740300
 country_id: LR
@@ -15,6 +14,11 @@ glottolog_family_id: krua1234
 glottolog_family_name: Kru
 glottolog_classification: "Kru > Greater Western Kru > Western Kru > Wee-Bassa-Klao > Bassa-Klao > Bassaic > Bassa-Gbee > Bassa"
 wikipedia_url: "https://en.wikipedia.org/wiki/Bassa_language"
+translations:
+  - translation_iso: jpn
+    name: バッサ語
+  - translation_iso: zho
+    name: 巴萨语
 rolv_dialects:
   - rolv_code: 214
     language_tag: bsq-x-HIS00214

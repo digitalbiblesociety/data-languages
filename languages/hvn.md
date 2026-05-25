@@ -1,8 +1,6 @@
 ---
 iso: hvn
 name: Sabu
-name_zh: 萨布语
-name_zh_auto: true
 autonym: Sabu
 alt_names: [Havunese, Hawu, Savu, Savunese, Sawu, Sawunese]
 population: 110000
@@ -16,6 +14,10 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Bima-Lembata > Sumba-Hawu > Hawu-Dhao > Hawu"
 wikipedia_url: "https://en.wikipedia.org/wiki/Hawu_language"
+translations:
+  - translation_iso: zho
+    name: 萨布语
+    auto: true
 rolv_dialects:
   - rolv_code: 16156
     language_tag: hvn-x-HIS16156

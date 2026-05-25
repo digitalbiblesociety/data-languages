@@ -1,8 +1,6 @@
 ---
 iso: skx
 name: Seko Padang
-name_zh: 塞科帕当语
-name_zh_auto: true
 autonym: Seko
 alt_names: [Sua Tu Padang, Wono]
 population: 5000
@@ -16,6 +14,10 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Greater South Sulawesi > Rampi-Seko-Badaic > Seko > Seko Padang"
 wikipedia_url: "https://en.wikipedia.org/wiki/Seko_Padang_language"
+translations:
+  - translation_iso: zho
+    name: 塞科帕当语
+    auto: true
 rolv_dialects:
   - rolv_code: 16439
     language_tag: skx-x-HIS16439

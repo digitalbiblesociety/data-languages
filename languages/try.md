@@ -1,7 +1,6 @@
 ---
 iso: try
 name: Turung
-name_zh: 土隆語
 autonym: Tai Turung
 alt_names: [Tailung, Tairong]
 population: 1000
@@ -15,5 +14,10 @@ glottolog_family_id: taik1256
 glottolog_family_name: Tai-Kadai
 glottolog_classification: "Tai-Kadai > Kam-Tai > Daic-Beic > Daic > Central-Southwestern Tai > Wenma-Southwestern Tai > Sapa-Southwestern Tai > Southwestern Tai > Southwestern Tai P > Shanic > Sukaphic > Unclassified Sukaphic > Turung"
 wikipedia_url: "https://en.wikipedia.org/wiki/Turung_language"
+translations:
+  - translation_iso: jpn
+    name: トゥルン語
+  - translation_iso: zho
+    name: 土隆語
 ---
 The Turung language is an endangered Sino-Tibetan language, closely related to Singpho, spoken in seven villages in central Assam. Many Turung people now speak Assamese.

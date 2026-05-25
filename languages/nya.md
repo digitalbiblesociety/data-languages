@@ -1,7 +1,6 @@
 ---
 iso: nya
 name: Nyanja
-name_zh: 切瓦语
 autonym: Nyanja
 alt_names: [Bahasa Chichewa, Cewa, Chewa, Chewa language, Chichewa, Chichewa simi, Chilankhulo cha Chichewa, Chinyanja, Język cziczewa, Lingua chichewa, Língua nianja, Njandžan kieli, Njanĝa lingvo, Tchitcheweg, Čeva, Ниянджа, Ньянджа, চিচেওয়া ভাষা, チェワ語, 齐切瓦语, 치체와어]
 population: 14381000
@@ -16,6 +15,17 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > East Bantu > Tumbuka-Sena-Nyanja > Sena-Nyanja > Nyanjaic > Nyanja"
 wikipedia_url: "https://en.wikipedia.org/wiki/Chewa_language"
+translations:
+  - translation_iso: ara
+    name: لغة الشيشيوا
+  - translation_iso: hin
+    name: चेवा भाषा
+  - translation_iso: jpn
+    name: チェワ語
+  - translation_iso: kor
+    name: 치체와어
+  - translation_iso: zho
+    name: 切瓦语
 rolv_dialects:
   - rolv_code: 333
     language_tag: ny-x-HIS00333

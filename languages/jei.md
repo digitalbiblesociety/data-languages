@@ -1,8 +1,6 @@
 ---
 iso: jei
 name: Yei
-name_zh: 耶伊语
-name_zh_auto: true
 autonym: Yey
 alt_names: [Je, Jei, Jei-Makleu, Yei-Nan]
 population: 2390
@@ -16,6 +14,10 @@ glottolog_family_id: more1255
 glottolog_family_name: Yam
 glottolog_classification: "Yam > Morehead-Maro > Yei"
 wikipedia_url: "https://en.wikipedia.org/wiki/Yei_language"
+translations:
+  - translation_iso: zho
+    name: 耶伊语
+    auto: true
 rolv_dialects:
   - rolv_code: 18519
     language_tag: jei-x-HIS18519

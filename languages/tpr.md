@@ -1,8 +1,6 @@
 ---
 iso: tpr
 name: Tuparí
-name_zh: 图帕里语
-name_zh_auto: true
 autonym: null
 alt_names: [Tupari]
 population: 300
@@ -16,5 +14,9 @@ glottolog_family_id: tupi1275
 glottolog_family_name: Tupian
 glottolog_classification: "Tupian > Arikem-Tupari > Tuparic > Nuclear Tuparic > Wayoro-Tupari > Tuparí"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tupari_language"
+translations:
+  - translation_iso: zho
+    name: 图帕里语
+    auto: true
 ---
 Tuparí is an indigenous language of Brazil. It is one of six Tupari languages of the Tupian language family. The Tuparí language, and its people, is located predominantly within the state of Rondônia, though speakers are also present in the state of Acre on the Terra Indıgena Rio Branco. There are roughly 350 speakers of this language, with the total number of members of this ethnic group being around 600.

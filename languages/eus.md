@@ -1,7 +1,6 @@
 ---
 iso: eus
 name: Basque
-name_zh: 巴斯克语
 autonym: Euskara
 alt_names: [An Bhascais, Bahasa Basque, Basc, Bascais, Bascish, Basgeg, Baskek, Baski keel, Baskiana linguo, Baskies, Baskijski jezik, Baskijsko godka, Baskin kieli, Baskisch, Baskische Sprache, Baskisk, Baskisk språk, Baskiska, Baskičtina, Baskneska, Basko, Baskovščina, Basku valoda, Baskysk, Baskça, Baskų kalba, Basque (Basaburua and Imoz), Basque (Bidasoa Valley), Basque (Central), Basque (Gernica), Basque (Hondarribia), Basque (Lekeitio), Basque (Northern High Navarrese), Basque (Oñati), Basque (Roncalese), Basque (Sakana), Basque (Zeberio), Baszk nyelv, Bidasoa Valley, Euskareg, Euskera, Eŭska lingvo, Gernica, Gjuha baske, Hondarribia, Idioma vasco, Język baskijski, Lekeitio, Lenghe basche, Lengua basca, Limba basca, Limba bască, Lingua Vasconica, Lingua basca, Lingua éuscara, Luenga vasca, Língua basca, Northern High Navarrese, Oñati, Pinulongang Basko, Roncalese, Sakana, Tiếng Basque, Vascu, Vascuense, Vaskisk, Yuskara simi, Zeberio, Zimanê baskî, central, Łéngua basca, Βασκική γλώσσα, Баски език, Баскиски јазик, Баскијски језик, Баскский язык, Баскська мова, Բասկերեն, באסקיש, בסקית, باسكى, باسكى تىلى, باسک زبانیں, زبان باسکی, لغة باسكية, பாஸ்க் மொழி, ภาษาบาสก์, ბასკური ენა, バスク語, 巴斯克語, 巴斯克语, 바스크어]
 population: 537860
@@ -13,6 +12,17 @@ longitude: -1.31622
 scripts: [Latn]
 glottocode: basq1248
 wikipedia_url: "https://en.wikipedia.org/wiki/Basque_language"
+translations:
+  - translation_iso: ara
+    name: البشكنشية
+  - translation_iso: hin
+    name: बास्क भाषा
+  - translation_iso: jpn
+    name: バスク語
+  - translation_iso: kor
+    name: 바스크어
+  - translation_iso: zho
+    name: 巴斯克语
 rolv_dialects:
   - rolv_code: 2211
     language_tag: eu-x-HIS02211

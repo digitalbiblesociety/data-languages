@@ -1,7 +1,6 @@
 ---
 iso: udi
 name: Udi
-name_zh: 乌第语
 autonym: удин муз
 alt_names: [Język udyjski, Língua udi, Oudi, Oudi (Azerbaïdjan), Oudieg, Udi (Géorgie), Udi (Rep. de Georgia), Udi dili, Udin, Udin kieli, Udinsk, Udische Sprache, Uti, udin muz, Удиски јазик, Удінська мова, удинский язык, زبان اودی, ภาษาอูดี, უდიური ენა]
 population: 4200
@@ -15,6 +14,13 @@ glottolog_family_id: nakh1245
 glottolog_family_name: Nakh-Daghestanian
 glottolog_classification: "Nakh-Daghestanian > Daghestanian > Lezgic > Samur > Eastern Samur > Udi-Aghwan > Udi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Udi_language"
+translations:
+  - translation_iso: jpn
+    name: ウディ語
+  - translation_iso: kor
+    name: 우디어
+  - translation_iso: zho
+    name: 乌第语
 rolv_dialects:
   - rolv_code: 17886
     language_tag: udi-x-HIS17886

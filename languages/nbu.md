@@ -1,8 +1,6 @@
 ---
 iso: nbu
 name: Rongmei Naga
-name_zh: 容梅伊纳加语
-name_zh_auto: true
 autonym: Songbu
 alt_names: [Kabiu, Kabui, Maruongmai, Naga, "Naga, Rongmei", "Naga,Rongmei", Nruanghmei, Rongmai, Rongmei]
 population: 66700
@@ -16,6 +14,12 @@ glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Kuki-Chin-Naga > Zemeic > Rongmei Naga"
 wikipedia_url: "https://en.wikipedia.org/wiki/Rongmei_language"
+translations:
+  - translation_iso: hin
+    name: नरूंगमई भाषा
+  - translation_iso: zho
+    name: 容梅伊纳加语
+    auto: true
 rolv_dialects:
   - rolv_code: 14577
     language_tag: nbu-x-HIS14577

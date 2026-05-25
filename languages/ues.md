@@ -1,8 +1,6 @@
 ---
 iso: ues
 name: Kioko
-name_zh: 基奥科语
-name_zh_auto: true
 autonym: null
 alt_names: [Indonesia]
 population: 1000
@@ -15,6 +13,10 @@ glottocode: kiok1239
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Celebic > Greater Eastern Celebic > Eastern Celebic > Southeastern Celebic > Muna-Buton > Nuclear Muna-Buton > Munan > Munic > Western Munic > Kioko"
+translations:
+  - translation_iso: zho
+    name: 基奥科语
+    auto: true
 rolv_dialects:
   - rolv_code: 12030
     language_tag: ues-x-HIS12030

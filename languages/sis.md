@@ -1,8 +1,6 @@
 ---
 iso: sis
 name: Siuslaw
-name_zh: 西乌斯劳语
-name_zh_auto: true
 autonym: Lower Umpqua
 alt_names: [Ku-itc (Kuitsh), Siuslawan, Umpqua, Umpqua (Lower)]
 population: null
@@ -13,5 +11,11 @@ latitude: 42.51107
 longitude: -124.3786
 glottocode: sius1254
 wikipedia_url: "https://en.wikipedia.org/wiki/Siuslaw_language"
+translations:
+  - translation_iso: jpn
+    name: サイウスロー語
+  - translation_iso: zho
+    name: 西乌斯劳语
+    auto: true
 ---
 Siuslaw was the language of the Siuslaw people and Lower Umpqua (Kuitsh) people of Oregon. It is also known as Lower Umpqua. The Siuslaw language had two dialects: Siuslaw proper (Šaayušƛa) and Lower Umpqua (Quuiič).

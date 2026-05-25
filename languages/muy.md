@@ -1,8 +1,6 @@
 ---
 iso: muy
 name: Muyang
-name_zh: 穆阳语
-name_zh_auto: true
 autonym: null
 alt_names: [Mouyenge, Mouyengue, Muyenge, Myau, Myenge]
 population: 30000
@@ -16,5 +14,9 @@ glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > Biu-Mandara > North Biu-Mandara > Margi-Mandara-Mofu > Mofuic > Tokombere > Madaic > Muyang"
 wikipedia_url: "https://en.wikipedia.org/wiki/Muyang_language"
+translations:
+  - translation_iso: zho
+    name: 穆阳语
+    auto: true
 ---
 Muyang is an Afro-Asiatic language spoken in and near the town of Tokombéré in the department of Mayo-Sava in northern Cameroon.

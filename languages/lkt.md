@@ -1,7 +1,6 @@
 ---
 iso: lkt
 name: Lakota
-name_zh: 拉科塔语
 autonym: Lakȟótiyapi
 alt_names: [Dakota, Język lakota, "Lak'ota simi", Lakhota, Lakhota (Teton), Lakota (Teton), Lakota lingvo, Lakotština, Lingua lakota, Língua lakota, Teton]
 population: 2100
@@ -16,6 +15,17 @@ glottolog_family_id: siou1252
 glottolog_family_name: Siouan
 glottolog_classification: "Siouan > Mississippi Valley > Dakotan > Sioux > Lakota"
 wikipedia_url: "https://en.wikipedia.org/wiki/Lakota_language"
+translations:
+  - translation_iso: ara
+    name: لغة لاكوتا
+  - translation_iso: hin
+    name: लैकोटा
+  - translation_iso: jpn
+    name: ラコタ語
+  - translation_iso: kor
+    name: 라코타어
+  - translation_iso: zho
+    name: 拉科塔语
 rolv_dialects:
   - rolv_code: 26443
     language_tag: lkt-x-HIS26443

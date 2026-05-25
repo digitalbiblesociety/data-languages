@@ -1,8 +1,6 @@
 ---
 iso: mfn
 name: Cross River Mbembe
-name_zh: 克罗斯河姆贝姆贝语
-name_zh_auto: true
 autonym: Ekokoma
 alt_names: [Ifunubwa, "Mbembe, Cross River", Oderiga, Ofunobwam, Okam, Wakande]
 population: 225000
@@ -16,6 +14,10 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Delta Cross > Upper Cross > Central Upper Cross > East-West Central Delta Cross > Mbembe-Legbo > Cross River Mbembe"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mbembe_language"
+translations:
+  - translation_iso: zho
+    name: 克罗斯河姆贝姆贝语
+    auto: true
 rolv_dialects:
   - rolv_code: 13898
     language_tag: mfn-x-HIS13898

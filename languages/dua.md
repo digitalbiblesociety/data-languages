@@ -1,7 +1,6 @@
 ---
 iso: dua
 name: Duala
-name_zh: 杜阿拉语
 autonym: Douala
 alt_names: [Bahasa Duala, Diwala, Dualla, Dwala, Dwela, Język duala, Língua duala]
 population: 87700
@@ -16,6 +15,17 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > Bantu A-B10-B20-B30 > Sawabantu > Dualaic > Duala-Malimba > Duala"
 wikipedia_url: "https://en.wikipedia.org/wiki/Duala_language"
+translations:
+  - translation_iso: ara
+    name: الديولا
+  - translation_iso: hin
+    name: दुआला
+  - translation_iso: jpn
+    name: ドゥアラ語
+  - translation_iso: kor
+    name: 두알라어
+  - translation_iso: zho
+    name: 杜阿拉语
 rolv_dialects:
   - rolv_code: 2615
     language_tag: dua-x-HIS02615

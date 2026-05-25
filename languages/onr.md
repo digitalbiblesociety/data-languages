@@ -1,8 +1,6 @@
 ---
 iso: onr
 name: Northern One
-name_zh: 北翁语
-name_zh_auto: true
 autonym: Aunalei
 alt_names: [Inebu One, Kabore One, Kuamtim, Kwamtim One, Molmo One, One, "One, Northern", Onele, Oni, Southern One]
 population: 2000
@@ -15,6 +13,10 @@ glottocode: nort2907
 glottolog_family_id: nucl1708
 glottolog_family_name: Nuclear Torricelli
 glottolog_classification: "Nuclear Torricelli > West Wapei > One > Central-Northern One > Northern One"
+translations:
+  - translation_iso: zho
+    name: 北翁语
+    auto: true
 rolv_dialects:
   - rolv_code: 589
     language_tag: onr-x-HIS00589

@@ -1,8 +1,6 @@
 ---
 iso: lex
 name: Luang
-name_zh: 卢昂语
-name_zh_auto: true
 autonym: Literi Lagona
 alt_names: [Letri Lgona, Lgona, Wetan]
 population: 18000
@@ -16,6 +14,10 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Timor-Babar > Southwest Maluku > Luangic-Kisaric > Luangic > Luang"
 wikipedia_url: "https://en.wikipedia.org/wiki/Luang_language"
+translations:
+  - translation_iso: zho
+    name: 卢昂语
+    auto: true
 rolv_dialects:
   - rolv_code: 13098
     language_tag: lex-x-HIS13098

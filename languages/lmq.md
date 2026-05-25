@@ -1,8 +1,6 @@
 ---
 iso: lmq
 name: Lamatuka
-name_zh: 拉玛图卡语
-name_zh_auto: true
 autonym: Lamatoka
 population: 4000
 country_id: ID
@@ -15,5 +13,9 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Bima-Lembata > Flores > Flores-Lembata > Lamaholot Timur > Lamatuka"
 wikipedia_url: "https://en.wikipedia.org/wiki/Lamatuka_language"
+translations:
+  - translation_iso: zho
+    name: 拉玛图卡语
+    auto: true
 ---
 Lamatuka is a Central Malayo-Polynesian language of the island of Lembata, east of Flores in Indonesia.

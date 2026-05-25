@@ -1,7 +1,6 @@
 ---
 iso: ngd
 name: Ngando (Central African Republic)
-name_zh: Kota语
 autonym: Bagandou
 alt_names: [Bangandou, Bodzanga, Dingando, Ngando, Ngando-Kota]
 population: 5000
@@ -15,6 +14,9 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > Central-Western Bantu > North Zaire River > Rivers Bantu > Likouala-Sangha > Mokiba-Ngando > Ngando (Central African Republic)"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ngando_language_(Central_African_Republic)"
+translations:
+  - translation_iso: zho
+    name: Kota语
 rolv_dialects:
   - rolv_code: 14868
     language_tag: ngd-x-HIS14868

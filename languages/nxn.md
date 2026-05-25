@@ -1,7 +1,6 @@
 ---
 iso: nxn
 name: Ngawun
-name_zh: 恩加旺语
 autonym: null
 alt_names: [Lenga ngawun, Naungaun, "Nga:wun", Ngaon, Ngaun, Ngewin, Nounun, Nouun]
 population: null
@@ -15,5 +14,8 @@ glottolog_family_id: pama1250
 glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > Paman > Mayabic > Nuclear Mayabic > Ngawun"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ngawun_language"
+translations:
+  - translation_iso: zho
+    name: 恩加旺语
 ---
 Ngawun is an extinct Mayi language once spoken on the Cape York Peninsula of Queensland, Australia, by the Wunumara and Ngawun peoples. The last speaker of the language was Cherry O'Keefe who died of pneumonia on 24 August 1977.

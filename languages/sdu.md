@@ -1,8 +1,6 @@
 ---
 iso: sdu
 name: Sarudu
-name_zh: 萨鲁杜语
-name_zh_auto: true
 autonym: "Doda'"
 population: 4000
 country_id: ID
@@ -15,6 +13,10 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Celebic > Kaili-Wolio > Northern Kaili-Wolio > Uma-Sarudu > Sarudu"
 wikipedia_url: "https://en.wikipedia.org/wiki/Sarudu_language"
+translations:
+  - translation_iso: zho
+    name: 萨鲁杜语
+    auto: true
 rolv_dialects:
   - rolv_code: 16361
     language_tag: sdu-x-HIS16361

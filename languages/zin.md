@@ -1,8 +1,6 @@
 ---
 iso: zin
 name: Zinza
-name_zh: 津扎语
-name_zh_auto: true
 autonym: Ecizinza
 alt_names: [Dzinda, Dzindza, Echidzindza, Echijinja, Jinja, Kizinza, Zinja]
 population: 205000
@@ -16,6 +14,12 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > East Bantu > Northeast Savanna Bantu > Great Lakes Bantu > West Nyanza > Rutara > Zinza"
 wikipedia_url: "https://en.wikipedia.org/wiki/Zinza_language"
+translations:
+  - translation_iso: jpn
+    name: ジンザ語
+  - translation_iso: zho
+    name: 津扎语
+    auto: true
 rolv_dialects:
   - rolv_code: 27987
     language_tag: zin-x-HIS27987

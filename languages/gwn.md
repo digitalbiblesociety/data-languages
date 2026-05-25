@@ -1,8 +1,6 @@
 ---
 iso: gwn
 name: Gwandara
-name_zh: 甘达拉语
-name_zh_auto: true
 autonym: Kwandara
 alt_names: [Gwandara language]
 population: 27300
@@ -16,6 +14,10 @@ glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > West Chadic > West Chadic A > West Chadic A.1 > Gwandara"
 wikipedia_url: "https://en.wikipedia.org/wiki/Gwandara_language"
+translations:
+  - translation_iso: zho
+    name: 甘达拉语
+    auto: true
 rolv_dialects:
   - rolv_code: 2130
     language_tag: gwn-x-HIS02130

@@ -1,8 +1,6 @@
 ---
 iso: gno
 name: Northern Gondi
-name_zh: 北岡迪语
-name_zh_auto: true
 autonym: गोंडी (खौइ़तौल़ु)
 alt_names: [Gaudi, Ghond, Godi, Gondi, Gondi (Raj), "Gondi, Northern", Gondiva, Gondu, Gondwadi, Gonḍi, Goondile, Goudi, Goudwal, Gônd, Gōṇḍī]
 population: 2910000
@@ -16,6 +14,12 @@ glottolog_family_id: drav1251
 glottolog_family_name: Dravidian
 glottolog_classification: "Dravidian > South Dravidian > South Dravidian II > Gondi > Northwest Gondi > Northern Gondi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Northern_Gondi_language"
+translations:
+  - translation_iso: jpn
+    name: 北部ゴーンディー語
+  - translation_iso: zho
+    name: 北岡迪语
+    auto: true
 rolv_dialects:
   - rolv_code: 10288
     language_tag: gno-x-HIS10288

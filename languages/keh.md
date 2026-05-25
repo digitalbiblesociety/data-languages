@@ -1,8 +1,6 @@
 ---
 iso: keh
 name: Keak
-name_zh: 克亚克语
-name_zh_auto: true
 autonym: Kwaruwikwundi
 alt_names: [Gaikunti, Kwongai, Sawos, Sepik Plains, Tshuosh, Tshwosh]
 population: 6000
@@ -16,5 +14,9 @@ glottolog_family_id: nduu1242
 glottolog_family_name: Ndu
 glottolog_classification: "Ndu > Nuclear Ndu > Sawosic > Iatmulic > Keak"
 wikipedia_url: "https://en.wikipedia.org/wiki/Keak_language"
+translations:
+  - translation_iso: zho
+    name: 克亚克语
+    auto: true
 ---
 Keak is an Ndu language of Sepik River region of northern Papua New Guinea.

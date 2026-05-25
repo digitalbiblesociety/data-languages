@@ -1,8 +1,6 @@
 ---
 iso: ior
 name: Inor
-name_zh: 伊诺尔语
-name_zh_auto: true
 autonym: Ennemor
 alt_names: [Gurage, Idioma inor, Innämor, Inor jezik, Inär, Peripheral West Gurage]
 population: 280000
@@ -16,6 +14,12 @@ glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Semitic > West Semitic > Ethiosemitic > South Ethiopic > Outer South Ethiopic > TT-Group > Peripheral Western Gurage > Inoric"
 wikipedia_url: "https://en.wikipedia.org/wiki/Inor_language"
+translations:
+  - translation_iso: ara
+    name: إنور (لغة)
+  - translation_iso: zho
+    name: 伊诺尔语
+    auto: true
 rolv_dialects:
   - rolv_code: 10464
     language_tag: ior-x-HIS10464

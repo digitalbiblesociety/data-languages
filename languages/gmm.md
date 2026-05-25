@@ -1,8 +1,6 @@
 ---
 iso: gmm
 name: "Gbaya-Mbodomo"
-name_zh: 巴亚-姆博多莫语
-name_zh_auto: true
 autonym: Mbódɔ̀mɔ̀
 alt_names: [Bodomo, Gbaya, Mbodomo, Mbondomo]
 population: 20000
@@ -16,6 +14,12 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Gbaya-Manza-Ngbaka > Gbaya Oriental > Mbodomo-Bofi > Gbaya-Mbodomo"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mbodomo_language"
+translations:
+  - translation_iso: jpn
+    name: グバヤ＝ンボドモ語
+  - translation_iso: zho
+    name: 巴亚-姆博多莫语
+    auto: true
 rolv_dialects:
   - rolv_code: 1594
     language_tag: gmm-x-HIS01594

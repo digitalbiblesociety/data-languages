@@ -1,8 +1,6 @@
 ---
 iso: tlj
 name: "Talinga-Bwisi"
-name_zh: 塔林加-布威西语
-name_zh_auto: true
 autonym: Bwisi
 alt_names: [Bwissi, Kitalinga, Lubwisi, Lubwissi, Mawissi, Olubwisi, Talinga, Talinge]
 population: 131900
@@ -16,5 +14,9 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > East Bantu > Northeast Savanna Bantu > Great Lakes Bantu > West Nyanza > Rutara > North Rutara > Talinga-Bwisi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Talinga_language"
+translations:
+  - translation_iso: zho
+    name: 塔林加-布威西语
+    auto: true
 ---
 Talinga or Bwisi is a Bantu language spoken in the Uganda–Congo border region. It is called Talinga (Kitalinga) in DRC and Bwisi  in Uganda.

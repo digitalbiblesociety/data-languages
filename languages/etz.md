@@ -1,8 +1,6 @@
 ---
 iso: etz
 name: Semimi
-name_zh: 塞米米语
-name_zh_auto: true
 autonym: Etna Bay
 alt_names: [Muri, Semini, Wesrau]
 population: 1000
@@ -16,5 +14,9 @@ glottolog_family_id: mair1253
 glottolog_family_name: Mairasic
 glottolog_classification: "Mairasic > Semimi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Semimi_language"
+translations:
+  - translation_iso: zho
+    name: 塞米米语
+    auto: true
 ---
 Semimi, or Etna Bay, is a Papuan language spoken in Kaimana Regency, West Papua, Indonesia.

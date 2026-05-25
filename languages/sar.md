@@ -1,7 +1,6 @@
 ---
 iso: sar
 name: Saraveca
-name_zh: 萨拉维卡语
 autonym: "Sarave, Xaráy"
 alt_names: [Idioma yagán, Sarave, Saraveka, Zarabe]
 population: null
@@ -15,5 +14,10 @@ glottolog_family_id: araw1281
 glottolog_family_name: Arawakan
 glottolog_classification: "Arawakan > Central-Eastern Maipuran > Central Maipuran > Xaray > Saraveca"
 wikipedia_url: "https://en.wikipedia.org/wiki/Saraveca_language"
+translations:
+  - translation_iso: jpn
+    name: サラヴェカ語
+  - translation_iso: zho
+    name: 萨拉维卡语
 ---
 Saraveca (Xaray) is an extinct Arawakan language once spoken in Bolivia by the Sarave. By 1962, most people have switched to Chiquitano.

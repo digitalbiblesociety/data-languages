@@ -1,8 +1,6 @@
 ---
 iso: ado
 name: Abu
-name_zh: 阿布语
-name_zh_auto: true
 autonym: Abu
 alt_names: [Adjora, Adjoria, Azao]
 population: 3380
@@ -16,6 +14,10 @@ glottolog_family_id: ramu1234
 glottolog_family_name: Ramu
 glottolog_classification: "Ramu > Agoan > Abu"
 wikipedia_url: "https://en.wikipedia.org/wiki/Adjora_language"
+translations:
+  - translation_iso: zho
+    name: 阿布语
+    auto: true
 rolv_dialects:
   - rolv_code: 24196
     language_tag: ado-x-HIS24196

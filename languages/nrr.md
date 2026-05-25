@@ -1,8 +1,6 @@
 ---
 iso: nrr
 name: Norra
-name_zh: 诺拉语
-name_zh_auto: true
 autonym: null
 alt_names: [Nora]
 population: null
@@ -11,6 +9,10 @@ country_name: India
 status_id: "10"
 latitude: 27.5088
 longitude: 98.45022
+translations:
+  - translation_iso: zho
+    name: 诺拉语
+    auto: true
 rolv_dialects:
   - rolv_code: 15044
     language_tag: nrr-x-HIS15044

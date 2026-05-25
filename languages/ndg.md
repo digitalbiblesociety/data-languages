@@ -1,8 +1,6 @@
 ---
 iso: ndg
 name: Ndengereko
-name_zh: 恩登格雷科语
-name_zh_auto: true
 autonym: Rufiji
 alt_names: [Kingengereko, Ndengeleko]
 population: 72000
@@ -16,5 +14,9 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > East Bantu > Rufiji-Ruvuma > Rufijic > Matengo-Rufiji > Matandu > Ndengereko"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ndengereko_language"
+translations:
+  - translation_iso: zho
+    name: 恩登格雷科语
+    auto: true
 ---
 Ndengereko is a Bantu language spoken in central coast of Tanzania mostly in the Pwani Region also known as Warufiji after the local River, the Matumbi hills, near Kibiti, and near Mchukivi and Bungu.

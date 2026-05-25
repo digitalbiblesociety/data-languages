@@ -1,8 +1,6 @@
 ---
 iso: etu
 name: Ejagham
-name_zh: 埃贾姆语
-name_zh_auto: true
 autonym: Ejagham
 alt_names: [Edjagam, Ejagam, Ejaham, Ejwe, Ekoi, Etung, Keaka, Kwa, Obang]
 population: 116700
@@ -16,6 +14,12 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Ekoid-Mbe > Ekoid > Bakor-Ejagham > Ejagham"
 wikipedia_url: "https://en.wikipedia.org/wiki/Jagham_language"
+translations:
+  - translation_iso: jpn
+    name: エコイ語
+  - translation_iso: zho
+    name: 埃贾姆语
+    auto: true
 rolv_dialects:
   - rolv_code: 1745
     language_tag: etu-x-HIS01745

@@ -1,8 +1,6 @@
 ---
 iso: ybl
 name: Yukuben
-name_zh: 尤库本语
-name_zh_auto: true
 autonym: Boritsu
 alt_names: [Ayikiben, Balaabe, Balaaben, Boritsũ, Gohum, Nyikobe, Nyikuben, Oohum, Uhumkhegi, Uuhum, Uuhum-Gigi]
 population: 15000
@@ -16,5 +14,9 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Benue-Congo Plateau > Yukubenic > Yukuben"
 wikipedia_url: "https://en.wikipedia.org/wiki/Yukuben_language"
+translations:
+  - translation_iso: zho
+    name: 尤库本语
+    auto: true
 ---
 Yukuben, or Uhumghikgi (Uhum), is a Plateau language of Nigeria. There are a thousand speakers across the border in Cameroon, where the name Uhumghikgi is preferred. It is a local trade language.

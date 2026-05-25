@@ -1,8 +1,6 @@
 ---
 iso: tbz
 name: Ditammari
-name_zh: 迪塔马里语
-name_zh_auto: true
 autonym: Ditammari
 alt_names: ["\"Somba\"", Ditamari, Soma, Somba, Some, Tamari, Tamberma]
 population: 245300
@@ -16,6 +14,10 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Gur > Central Gur > Northern Central Gur > Bwamu-Oti-Volta > Oti-Volta > Nuclear Oti-Volta > Oti-Volta Oriental > Waama-Tayari-Ditammari > Tayari-Ditammari > Ditammaric > Ditammari"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tammari_language"
+translations:
+  - translation_iso: zho
+    name: 迪塔马里语
+    auto: true
 rolv_dialects:
   - rolv_code: 4825
     language_tag: tbz-x-HIS04825

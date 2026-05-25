@@ -1,8 +1,6 @@
 ---
 iso: nmz
 name: Nawdm
-name_zh: 纳务德姆语
-name_zh_auto: true
 autonym: Losso
 alt_names: [Losu, Naoudem, Naudem, Naudm, Nawdam]
 population: 146000
@@ -16,6 +14,10 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Gur > Central Gur > Northern Central Gur > Bwamu-Oti-Volta > Oti-Volta > Nuclear Oti-Volta > Gurma-Yom-Oti-Volta Occidental > Gurma-Yom-Naudem > Yom-Nawdm > Nawdm"
 wikipedia_url: "https://en.wikipedia.org/wiki/Nawdm_language"
+translations:
+  - translation_iso: zho
+    name: 纳务德姆语
+    auto: true
 rolv_dialects:
   - rolv_code: 2803
     language_tag: nmz-x-HIS02803

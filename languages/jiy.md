@@ -1,8 +1,6 @@
 ---
 iso: jiy
 name: Buyuan Jinuo
-name_zh: 布远基诺语
-name_zh_auto: true
 autonym: " 基諾語補遠方言"
 alt_names: [Buyuan, Jino, Jinuo, "Jinuo, Buyuan", "Jinuo,Buyuan", Yinuo]
 population: 1000
@@ -15,4 +13,8 @@ glottocode: buyu1238
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Burmo-Qiangic > Lolo-Burmese > Loloish > Hani-Jino > Jino > Buyuan Jinuo"
+translations:
+  - translation_iso: zho
+    name: 布远基诺语
+    auto: true
 ---

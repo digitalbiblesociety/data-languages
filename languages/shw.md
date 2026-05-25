@@ -1,8 +1,6 @@
 ---
 iso: shw
 name: Shwai
-name_zh: 沙瓦伊语
-name_zh_auto: true
 autonym: Shirumba
 alt_names: [Chirumba, Cwaya, Ludumor, Shuway]
 population: 3500
@@ -16,6 +14,10 @@ glottolog_family_id: heib1242
 glottolog_family_name: Heibanic
 glottolog_classification: "Heibanic > West-Central Heibanic > Shwai"
 wikipedia_url: "https://en.wikipedia.org/wiki/Shwai_language"
+translations:
+  - translation_iso: zho
+    name: 沙瓦伊语
+    auto: true
 rolv_dialects:
   - rolv_code: 16660
     language_tag: shw-x-HIS16660

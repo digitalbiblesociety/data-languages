@@ -1,8 +1,6 @@
 ---
 iso: gam
 name: Kandawo
-name_zh: 坎达沃语
-name_zh_auto: true
 autonym: Narake
 alt_names: [Gambera]
 population: 4000
@@ -16,5 +14,9 @@ glottolog_family_id: nucl1709
 glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Chimbu-Wahgi > Jimi > Kandawo-Narak > Kandawo"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kandawo_language"
+translations:
+  - translation_iso: zho
+    name: 坎达沃语
+    auto: true
 ---
 Kandawo, also known as Narake is a Trans–New Guinea language of Western Highlands Province, Papua New Guinea. A dialect survey of Kandawo has been conducted by Graham (1998).

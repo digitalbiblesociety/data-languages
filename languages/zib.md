@@ -1,8 +1,6 @@
 ---
 iso: zib
 name: Zimbabwe Sign Language
-name_zh: 津巴布韦手语
-name_zh_auto: true
 autonym: Zimsign
 population: 73000
 country_id: ZW
@@ -15,6 +13,14 @@ glottolog_family_id: sign1238
 glottolog_family_name: Sign Language
 glottolog_classification: "Sign Language > L1 Sign Language > Zimbabwe Sign Language"
 wikipedia_url: "https://en.wikipedia.org/wiki/Zimbabwean_sign_languages"
+translations:
+  - translation_iso: ara
+    name: لغة الإشارة الزيمبابوية
+  - translation_iso: jpn
+    name: ジンバブエ手話
+  - translation_iso: zho
+    name: 津巴布韦手语
+    auto: true
 rolv_dialects:
   - rolv_code: 20736
     language_tag: zib-x-HIS20736

@@ -1,7 +1,6 @@
 ---
 iso: hnm
 name: Hainanese
-name_zh: 海南闽语
 autonym: 海南話, Hhai3 nam2 ue1, Hái-nâm-oe
 alt_names: [Hainan]
 population: 1100000
@@ -14,6 +13,13 @@ glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Sinitic > Min > Coastal Min > Southern Min-Pu-Xian > Southern Min > Leiqiong > Hainanese"
 wikipedia_url: "https://en.wikipedia.org/wiki/Hainanese"
+translations:
+  - translation_iso: jpn
+    name: 海南語
+  - translation_iso: kor
+    name: 하이난어
+  - translation_iso: zho
+    name: 海南闽语
 rolv_dialects:
   - rolv_code: 31123
     language_tag: hnm-x-HIS31123

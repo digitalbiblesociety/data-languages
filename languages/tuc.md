@@ -1,8 +1,6 @@
 ---
 iso: tuc
 name: Mutu
-name_zh: 穆图语
-name_zh_auto: true
 autonym: Tuam
 alt_names: [Tuam-Mutu, Tuom]
 population: 4000
@@ -16,6 +14,12 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > North New Guinea linkage > Ngero-Vitiaz linkage > Ngero > Western Ngero > Tuam > Mutu"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mutu_language"
+translations:
+  - translation_iso: jpn
+    name: ムトゥ語
+  - translation_iso: zho
+    name: 穆图语
+    auto: true
 rolv_dialects:
   - rolv_code: 546
     language_tag: tuc-x-HIS00546

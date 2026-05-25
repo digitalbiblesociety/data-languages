@@ -1,8 +1,6 @@
 ---
 iso: twl
 name: Tawara
-name_zh: 塔瓦拉语
-name_zh_auto: true
 autonym: chiShona
 alt_names: [Tawala]
 population: 110000
@@ -16,6 +14,10 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > East Bantu > Southern Bantu > Shona (S.10) > Core Shona > Plateau Shona > Central Shona > Tawara"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tawara_language"
+translations:
+  - translation_iso: zho
+    name: 塔瓦拉语
+    auto: true
 rolv_dialects:
   - rolv_code: 27083
     language_tag: twl-x-HIS27083

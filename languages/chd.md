@@ -1,8 +1,6 @@
 ---
 iso: chd
 name: Highland Oaxaca Chontal
-name_zh: 高地瓦哈卡琼塔尔语
-name_zh_auto: true
 autonym: Slijuala xanuk
 alt_names: [Chantal (Highland), Chontal, Chontal (Highland), Chontal de Oaxaca (Sierra), Chontal de la sierra, Chontal des hautes terres, Chontal of Oaxaca, "Chontal, Highland Oaxaca", Highland Chontal, Mountain Tequistlatec, Tequistlatec, Tequistlateco]
 population: 3600
@@ -16,5 +14,9 @@ glottolog_family_id: tequ1244
 glottolog_family_name: Tequistlatecan
 glottolog_classification: "Tequistlatecan > Highland Oaxaca Chontal"
 wikipedia_url: "https://en.wikipedia.org/wiki/Highland_Oaxaca_Chontal"
+translations:
+  - translation_iso: zho
+    name: 高地瓦哈卡琼塔尔语
+    auto: true
 ---
 Highland Oaxaca Chontal, or Chontal de la Sierra de Oaxaca, is one of the Chontal languages of Oaxaca, Mexico. It is sometimes called Tequistlatec, but is not the same as Tequistlatec proper, which is extinct.

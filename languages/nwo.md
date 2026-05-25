@@ -1,8 +1,6 @@
 ---
 iso: nwo
 name: Nauo
-name_zh: 瑙奥语
-name_zh_auto: true
 autonym: Battara
 population: null
 country_id: AU
@@ -15,5 +13,9 @@ glottolog_family_id: pama1250
 glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > Arandic-Thura-Yura > Thura-Yura > Core Thura Yura > Unclassified Core Thura-Yura > Nauo"
 wikipedia_url: "https://en.wikipedia.org/wiki/Nauo_language"
+translations:
+  - translation_iso: zho
+    name: 瑙奥语
+    auto: true
 ---
 Nauo, or Nawu, is an extinct, poorly-attested Pama-Nyungan language that was spoken by the Nauo people on the southern part of the Eyre Peninsula, South Australia.

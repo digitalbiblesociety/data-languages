@@ -1,8 +1,6 @@
 ---
 iso: dok
 name: Dondo
-name_zh: 多恩多语
-name_zh_auto: true
 autonym: null
 population: 13000
 country_id: ID
@@ -15,5 +13,9 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Celebic > Greater Eastern Celebic > Tominic > Northern Tomini > Dondo"
 wikipedia_url: "https://en.wikipedia.org/wiki/Dondo_language_(Austronesian)"
+translations:
+  - translation_iso: zho
+    name: 多恩多语
+    auto: true
 ---
 Dondo is a Celebic language of Sulawesi in Indonesia. It is not clear how distinct it is from Tomini. It is spoken along the western coast of the "neck" of Sulawesi.

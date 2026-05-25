@@ -1,8 +1,6 @@
 ---
 iso: tbx
 name: Kapin
-name_zh: 卡平语
-name_zh_auto: true
 autonym: Katumene
 alt_names: [Sambio, Taiak, Tayek]
 population: 2350
@@ -16,6 +14,10 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > North New Guinea linkage > Huon Gulf > South Huon Gulf linkage > Buang linkage > Kapin"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kapin_language"
+translations:
+  - translation_iso: zho
+    name: 卡平语
+    auto: true
 rolv_dialects:
   - rolv_code: 435
     language_tag: tbx-x-HIS00435

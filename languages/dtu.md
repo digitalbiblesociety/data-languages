@@ -1,8 +1,6 @@
 ---
 iso: dtu
 name: Tebul Ure Dogon
-name_zh: 特布尔乌雷多贡语
-name_zh_auto: true
 autonym: Tebul Ure
 alt_names: ["Dogon, Tebul Ure", Oru Yille, Tew Tegu]
 population: 3000
@@ -16,5 +14,9 @@ glottolog_family_id: dogo1299
 glottolog_family_name: Dogon
 glottolog_classification: "Dogon > North Plateau Dogon > Yanda-Bondum-Tebul > Tebul Ure Dogon"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tebul_Dogon"
+translations:
+  - translation_iso: zho
+    name: 特布尔乌雷多贡语
+    auto: true
 ---
 The Tebul language, also known as Tebul Ure, is a Dogon language spoken in Mali by the Tebul U. It was first reported under this name online by Roger Blench, who erroneously reported that it appears to be the same as a language called Oru Yille in existing literature. This mistaken name instead means 'two words' in the Tebul language.

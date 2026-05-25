@@ -1,8 +1,6 @@
 ---
 iso: myz
 name: Classical Mandaic
-name_zh: 古代曼底语
-name_zh_auto: true
 autonym: Mandāyì
 alt_names: [Classical Mandaean, Mandaic, "Mandaic, Classical"]
 population: null
@@ -16,4 +14,8 @@ glottocode: clas1253
 glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Semitic > West Semitic > Central Semitic > Northwest Semitic > Aramaic > Imperial-Middle-Modern Aramaic > Middle-Modern Aramaic > Eastern Aramaic > Macro-Mandaic > Classical Mandaic"
+translations:
+  - translation_iso: zho
+    name: 古代曼底语
+    auto: true
 ---

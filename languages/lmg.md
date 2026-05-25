@@ -1,8 +1,6 @@
 ---
 iso: lmg
 name: Lamogai
-name_zh: 拉莫盖语
-name_zh_auto: true
 autonym: Akiuru
 alt_names: [Mulakaino]
 population: 3650
@@ -16,6 +14,12 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > North New Guinea linkage > Ngero-Vitiaz linkage > Vitiaz linkage > Southwest New Britain linkage > Bibling > Lamogai"
 wikipedia_url: "https://en.wikipedia.org/wiki/Lamogai_language"
+translations:
+  - translation_iso: jpn
+    name: ラモガイ語
+  - translation_iso: zho
+    name: 拉莫盖语
+    auto: true
 rolv_dialects:
   - rolv_code: 2792
     language_tag: lmg-x-HIS02792

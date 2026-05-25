@@ -1,7 +1,6 @@
 ---
 iso: abl
 name: Lampung Nyo
-name_zh: 楠榜语
 autonym: Cawa Lampung
 population: 180000
 country_id: ID
@@ -14,6 +13,15 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Lampungic > Lampung Nyo"
 wikipedia_url: "https://en.wikipedia.org/wiki/Lampung_language"
+translations:
+  - translation_iso: ara
+    name: لغة لامبونغ
+  - translation_iso: jpn
+    name: ランプン語
+  - translation_iso: kor
+    name: 람풍어
+  - translation_iso: zho
+    name: 楠榜语
 rolv_dialects:
   - rolv_code: 6650
     language_tag: abl-x-HIS06650

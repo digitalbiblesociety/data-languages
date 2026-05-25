@@ -1,8 +1,6 @@
 ---
 iso: jee
 name: Jerung
-name_zh: 杰龙语
-name_zh_auto: true
 autonym: Jero
 alt_names: [Jero Mala, Jerum, Jerunge, Jherung, Yerún, Zero, Zero Mala, Zerum]
 population: 2000
@@ -16,6 +14,12 @@ glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Himalayish > Mahakiranti > Kiranti > Chaurasiya > Jerung"
 wikipedia_url: "https://en.wikipedia.org/wiki/Jerung_language"
+translations:
+  - translation_iso: hin
+    name: जेरुङ
+  - translation_iso: zho
+    name: 杰龙语
+    auto: true
 rolv_dialects:
   - rolv_code: 11140
     language_tag: jee-x-HIS11140

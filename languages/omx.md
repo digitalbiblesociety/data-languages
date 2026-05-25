@@ -1,8 +1,6 @@
 ---
 iso: omx
 name: Old Mon
-name_zh: 古孟语
-name_zh_auto: true
 autonym: null
 alt_names: ["Mon, Old"]
 population: null
@@ -15,4 +13,10 @@ glottocode: oldm1242
 glottolog_family_id: aust1305
 glottolog_family_name: Austroasiatic
 glottolog_classification: "Austroasiatic > Monic > Old Mon"
+translations:
+  - translation_iso: kor
+    name: 고대 몬어
+  - translation_iso: zho
+    name: 古孟语
+    auto: true
 ---

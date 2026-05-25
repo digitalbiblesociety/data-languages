@@ -1,8 +1,6 @@
 ---
 iso: smg
 name: Simbali
-name_zh: 西姆巴利语
-name_zh_auto: true
 autonym: Asimbali
 alt_names: [Neu-Pommern]
 population: 390
@@ -16,5 +14,9 @@ glottolog_family_id: bain1263
 glottolog_family_name: Baining
 glottolog_classification: "Baining > Southern Baining > Mali-Simbali > Simbali"
 wikipedia_url: "https://en.wikipedia.org/wiki/Simbali_language"
+translations:
+  - translation_iso: zho
+    name: 西姆巴利语
+    auto: true
 ---
 Simbali is a poorly-documented Baining language spoken in the southern Gazelle Peninsula on New Britain, Papua New Guinea.

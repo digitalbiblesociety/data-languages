@@ -1,8 +1,6 @@
 ---
 iso: vmd
 name: Mudu Koraga
-name_zh: 穆度-科拉加语
-name_zh_auto: true
 autonym: ಕೊರಗ
 alt_names: [Koraga, "Koraga, Mudu", "Mu:du", Mudu]
 population: null
@@ -15,4 +13,8 @@ glottocode: mudu1241
 glottolog_family_id: drav1251
 glottolog_family_name: Dravidian
 glottolog_classification: "Dravidian > South Dravidian > South Dravidian I > South-Western Dravidian > Koraga > Mudu Koraga"
+translations:
+  - translation_iso: zho
+    name: 穆度-科拉加语
+    auto: true
 ---

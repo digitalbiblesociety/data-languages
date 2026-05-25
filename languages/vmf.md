@@ -1,8 +1,6 @@
 ---
 iso: vmf
 name: Mainfränkisch
-name_zh: 美因弗兰肯语
-name_zh_auto: true
 autonym: Ostfränkisch
 alt_names: [Franački jezik, Francique oriental, Franconian, Franconio oriental, High Franconian, Main-Franconian, Mainfranksch, Mainfränkische Dialekte, Upper Franconian]
 population: null
@@ -17,5 +15,13 @@ glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Germanic > Northwest Germanic > West Germanic > High German > Upper German > Middle-Modern High German > Modern High German > Upper Franconian > Greater East Franconian > Ostfränkisch"
 wikipedia_url: "https://en.wikipedia.org/wiki/Main-Franconian_dialects"
+translations:
+  - translation_iso: jpn
+    name: マインフランク語
+  - translation_iso: kor
+    name: 마인프랑크어
+  - translation_iso: zho
+    name: 美因弗兰肯语
+    auto: true
 ---
 East Franconian, usually referred to as Franconian in German, is a dialect spoken in Franconia, the northern part of the federal state of Bavaria and other areas in Germany around Nuremberg, Bamberg, Coburg, Würzburg, Hof, Bayreuth, Meiningen, Bad Mergentheim, and Crailsheim. The major subgroups are Unterostfränkisch, Oberostfränkisch and Südostfränkisch. Until the wholesale expulsion of Germans from Bohemia, the dialect was also spoken around Saaz.

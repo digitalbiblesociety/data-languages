@@ -1,8 +1,6 @@
 ---
 iso: ago
 name: Tainae
-name_zh: 塔伊奈语
-name_zh_auto: true
 autonym: Ivori
 alt_names: [Andarum]
 population: 1000
@@ -16,5 +14,9 @@ glottolog_family_id: anga1289
 glottolog_family_name: Angan
 glottolog_classification: "Angan > Nuclear Angan > Ankave-Tainae-Akoye > Tainae-Akoye > Tainae"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tainae_language"
+translations:
+  - translation_iso: zho
+    name: 塔伊奈语
+    auto: true
 ---
 Tainae is an Angan language of Gulf Province, Papua New Guinea. Famba (7.506365°S 145.811363°E, Paiguna, and Pio of Kotidanga Rural LLG are the main villages.

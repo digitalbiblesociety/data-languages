@@ -1,8 +1,6 @@
 ---
 iso: fwa
 name: Fwâi
-name_zh: 富瓦伊语
-name_zh_auto: true
 autonym: Poai
 alt_names: [Fwai, Fûai, Neukaledonien, Po-Ai, Yehen, Yengen]
 population: 1130
@@ -16,5 +14,9 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Southern Melanesian > New Caledonian > Mainland New Caledonian > Northern New Caledonian > Mid-Northern New Caledonian > Nmi-Pij-Fwa-Pam-Pap > Nmi-Fij-Fwa > Hyenghene > Fwâi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Fw%C3%A2i_language"
+translations:
+  - translation_iso: zho
+    name: 富瓦伊语
+    auto: true
 ---
 Fwâi (Poai) is a Kanak language of New Caledonia, spoken in the commune of Hienghène. In 2009, there were around 1,900 speakers of Fwâi. It’s considered a vulnerable language by the UNESCO Atlas of the World’s Languages in Danger.

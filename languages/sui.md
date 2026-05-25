@@ -1,8 +1,6 @@
 ---
 iso: sui
 name: Suki
-name_zh: 苏基语
-name_zh_auto: true
 autonym: Wiram
 alt_names: [Suki jezik]
 population: 3510
@@ -16,5 +14,9 @@ glottolog_family_id: suki1244
 glottolog_family_name: Suki-Gogodala
 glottolog_classification: "Suki-Gogodala > Suki"
 wikipedia_url: "https://en.wikipedia.org/wiki/Suki_language"
+translations:
+  - translation_iso: zho
+    name: 苏基语
+    auto: true
 ---
 Suki is a Gogodala-Suki language spoken by about 3500 people several miles inland along the Fly River in southwestern Papua New Guinea.

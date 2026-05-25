@@ -1,8 +1,6 @@
 ---
 iso: naa
 name: Namla
-name_zh: 纳姆拉语
-name_zh_auto: true
 autonym: bahasa Namla
 population: 30
 country_id: ID
@@ -15,5 +13,9 @@ glottolog_family_id: naml1239
 glottolog_family_name: Namla-Tofanma
 glottolog_classification: "Namla-Tofanma > Namla"
 wikipedia_url: "https://en.wikipedia.org/wiki/Namla_language"
+translations:
+  - translation_iso: zho
+    name: 纳姆拉语
+    auto: true
 ---
 Namla is a poorly documented Papuan language of Indonesia. It appears to be related to Tofanma, a neighboring language. It is spoken in Namla village, Senggi District, Keerom Regency.

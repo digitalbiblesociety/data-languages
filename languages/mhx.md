@@ -1,7 +1,6 @@
 ---
 iso: mhx
 name: Maru
-name_zh: 浪速语
 autonym: Lhao Vo
 alt_names: [Diso, Lang, "Lang'e", Langsu, Lansu, Laungaw, Laungwaw, Lawng, Lawngvaw, Lhaovo, Malu, Matu, Mulu, Nyky, Zi]
 population: 124500
@@ -15,6 +14,11 @@ glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Burmo-Qiangic > Lolo-Burmese > Burmish > Northern Burmish > Maruic > Maru"
 wikipedia_url: "https://en.wikipedia.org/wiki/Lhao_Vo_language"
+translations:
+  - translation_iso: jpn
+    name: ロンウォー語
+  - translation_iso: zho
+    name: 浪速语
 rolv_dialects:
   - rolv_code: 5181
     language_tag: mhx-x-HIS05181

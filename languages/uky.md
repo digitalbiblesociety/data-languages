@@ -1,8 +1,6 @@
 ---
 iso: uky
 name: "Kuuk-Yak"
-name_zh: 库克-亚克语
-name_zh_auto: true
 autonym: Koko Yak
 alt_names: [Kuku Yak, Kuuk Yak]
 population: null
@@ -16,5 +14,9 @@ glottolog_family_id: pama1250
 glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > Paman > Southwest Pama > Upper Southwest Paman > Kuuk-Yak"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kuuk_Yak_language"
+translations:
+  - translation_iso: zho
+    name: 库克-亚克语
+    auto: true
 ---
 Kuuk Yak, or the snake language, if translated literally, is an extinct Paman language which was spoken on the Cape York Peninsula of Queensland, Australia.

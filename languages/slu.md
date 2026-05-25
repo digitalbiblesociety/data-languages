@@ -1,7 +1,6 @@
 ---
 iso: slu
 name: Selaru
-name_zh: 塞拉鲁语
 autonym: Salaru
 population: 8000
 country_id: ID
@@ -14,6 +13,9 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Timor-Babar > Southwest Maluku > South Tanimbar > Selaru"
 wikipedia_url: "https://en.wikipedia.org/wiki/Selaru_language"
+translations:
+  - translation_iso: zho
+    name: 塞拉鲁语
 rolv_dialects:
   - rolv_code: 16444
     language_tag: slu-x-HIS16444

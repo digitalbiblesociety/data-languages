@@ -1,8 +1,6 @@
 ---
 iso: nce
 name: Yale
-name_zh: 耶鲁语
-name_zh_auto: true
 autonym: Nagatman
 alt_names: [Nagatiman, Yade, Yadë, Yaleg, Yalë, Yalë language, Yare, YarÃ«, Yarë]
 population: 600
@@ -13,5 +11,11 @@ latitude: -3.79762
 longitude: 141.5659
 glottocode: yale1246
 wikipedia_url: "https://en.wikipedia.org/wiki/Yal%C3%AB_language"
+translations:
+  - translation_iso: jpn
+    name: ヤレ語
+  - translation_iso: zho
+    name: 耶鲁语
+    auto: true
 ---
 The Yalë language, also known as Yadë, Nagatman, or Nagatiman, is spoken in northwestern Papua New Guinea. It may be related to the Kwomtari languages, but Palmer (2018) classifies it as a language isolate.

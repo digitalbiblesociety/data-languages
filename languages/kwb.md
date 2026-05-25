@@ -1,8 +1,6 @@
 ---
 iso: kwb
 name: Kwa
-name_zh: 克瓦语
-name_zh_auto: true
 autonym: Baa
 alt_names: [Kwah]
 population: 7000
@@ -16,6 +14,10 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Cameroun-Ubangian > Baa"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kwah_language"
+translations:
+  - translation_iso: zho
+    name: 克瓦语
+    auto: true
 rolv_dialects:
   - rolv_code: 12593
     language_tag: kwb-x-HIS12593

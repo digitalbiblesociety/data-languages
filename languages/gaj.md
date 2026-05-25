@@ -1,8 +1,6 @@
 ---
 iso: gaj
 name: Gadsup
-name_zh: 加德苏普语
-name_zh_auto: true
 autonym: null
 population: 22100
 country_id: PG
@@ -15,6 +13,12 @@ glottolog_family_id: nucl1709
 glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Kainantu-Goroka > Kainantu > Gauwa > Gadsup-Agarabi > Gadsup"
 wikipedia_url: "https://en.wikipedia.org/wiki/Gadsup_language"
+translations:
+  - translation_iso: jpn
+    name: ガドスプ語
+  - translation_iso: zho
+    name: 加德苏普语
+    auto: true
 rolv_dialects:
   - rolv_code: 2418
     language_tag: gaj-x-HIS02418

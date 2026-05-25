@@ -1,8 +1,6 @@
 ---
 iso: paf
 name: Paranawát
-name_zh: 帕拉纳瓦特语
-name_zh_auto: true
 autonym: Kawahib
 alt_names: [Cabahyba, Cauaiua, Cauhib, Cawahib, Diahoi, Diahói, Diarroi, Djahui, Jauareta-Tapiia, Jiahui, Juma, Karipuna, Kawahib/Paranawat/Pawaté-Wirafed, Kawaib, Majubim, Paranauat, Paranawat, Parintintín, Parintintín/Tenharim/Juma, Pawate, Pawaté, Pawaté-Wirafed, Tenharim, Tenharím, Tukumanfed, Tupi do Machado, Tupí-Kawahíb, Uru-eu-uau-uau, Wiraféd, Yuma]
 population: null
@@ -15,4 +13,8 @@ glottocode: para1313
 glottolog_family_id: tupi1275
 glottolog_family_name: Tupian
 glottolog_classification: "Tupian > Eastern Tupian > Maweti-Guarani > Aweti-Guarani > Tupi-Guarani > Tupi-Guarani Subgroup VI > Kawahiva > Unclassified Kawahiva > Paranawát"
+translations:
+  - translation_iso: zho
+    name: 帕拉纳瓦特语
+    auto: true
 ---

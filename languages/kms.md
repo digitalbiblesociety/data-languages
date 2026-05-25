@@ -1,8 +1,6 @@
 ---
 iso: kms
 name: Kamasau
-name_zh: 卡马萨乌语
-name_zh_auto: true
 autonym: null
 alt_names: [Komasau, Komassau, Sagi, Wand Tuan]
 population: 960
@@ -16,6 +14,10 @@ glottolog_family_id: nucl1708
 glottolog_family_name: Nuclear Torricelli
 glottolog_classification: "Nuclear Torricelli > Marienberg > Elepi-Kamasau-Marienberg > Kamasau"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kamasau_language"
+translations:
+  - translation_iso: zho
+    name: 卡马萨乌语
+    auto: true
 rolv_dialects:
   - rolv_code: 11455
     language_tag: kms-x-HIS11455

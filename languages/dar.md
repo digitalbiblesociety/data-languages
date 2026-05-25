@@ -1,7 +1,6 @@
 ---
 iso: dar
 name: Dargwa
-name_zh: 达尔格瓦语
 autonym: дарган мез dargan mez
 alt_names: [Bahasa Dargin, Dargi, Dargin, Dargin kieli, Dargince, Darginisch, Darginische Sprache, Darginski, Dargintsy, Darguà, Dargva, Dargva lingvo, Dargweg, Dargínico, Kaitak, Khiurkilinskii, Komucki, Kubatschin, Limba darghină, Língua dargínica, Даргински јазик, Даргинские языки, Даргінська мова, 다르구아어]
 population: 495300
@@ -16,6 +15,17 @@ glottolog_family_id: nakh1245
 glottolog_family_name: Nakh-Daghestanian
 glottolog_classification: "Nakh-Daghestanian > Daghestanian > Dargwic > North-Central Dargwa"
 wikipedia_url: "https://en.wikipedia.org/wiki/Dargwa_language"
+translations:
+  - translation_iso: ara
+    name: لغة درغينية
+  - translation_iso: hin
+    name: दार्गवा
+  - translation_iso: jpn
+    name: ダルギン語
+  - translation_iso: kor
+    name: 다르긴어
+  - translation_iso: zho
+    name: 达尔格瓦语
 rolv_dialects:
   - rolv_code: 9130
     language_tag: dar-x-HIS09130

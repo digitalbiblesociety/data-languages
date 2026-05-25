@@ -1,8 +1,6 @@
 ---
 iso: akq
 name: Ak
-name_zh: 阿克语
-name_zh_auto: true
 autonym: null
 population: 10
 country_id: PG
@@ -15,5 +13,9 @@ glottolog_family_id: sepi1257
 glottolog_family_name: Sepik
 glottolog_classification: "Sepik > Yellow River > Ak"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ak_language"
+translations:
+  - translation_iso: zho
+    name: 阿克语
+    auto: true
 ---
 Ak is a minor Sepik language spoken in Sandaun Province, Papua New Guinea. It is spoken in Kwieftim village.

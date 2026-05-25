@@ -1,8 +1,6 @@
 ---
 iso: duq
 name: Dusun Malang
-name_zh: 杜顺玛朗语
-name_zh_auto: true
 autonym: Dusun Malang
 population: 2000
 country_id: ID
@@ -15,6 +13,10 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Basap-Greater Barito > Greater Barito linkage > Dusun Malang"
 wikipedia_url: "https://en.wikipedia.org/wiki/Dusun_Malang_language"
+translations:
+  - translation_iso: zho
+    name: 杜顺玛朗语
+    auto: true
 rolv_dialects:
   - rolv_code: 24874
     language_tag: duq-x-HIS24874

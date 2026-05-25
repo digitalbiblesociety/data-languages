@@ -1,8 +1,6 @@
 ---
 iso: fuj
 name: Ko
-name_zh: 科语
-name_zh_auto: true
 autonym: Ko
 alt_names: [Fungor, Fungur, Kau]
 population: 2680
@@ -16,5 +14,9 @@ glottolog_family_id: heib1242
 glottolog_family_name: Heibanic
 glottolog_classification: "Heibanic > Eastern Heibanic > Ko"
 wikipedia_url: "https://en.wikipedia.org/wiki/Fungor_language"
+translations:
+  - translation_iso: zho
+    name: 科语
+    auto: true
 ---
 The Fungor language, Ko (Kau) or Nyaro, is a Niger–Congo language of the Heiban family spoken in Kordofan, Sudan.

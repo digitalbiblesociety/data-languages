@@ -1,8 +1,6 @@
 ---
 iso: boh
 name: Boma
-name_zh: 博马语
-name_zh_auto: true
 autonym: Kiboma
 alt_names: [Boma Kasai, Buma]
 population: 20500
@@ -16,6 +14,10 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > Central-Western Bantu > West-Coastal Bantu > Nzadic > Lweric > Dingic > Loange-Atlantic > Kwilu-Ngounie > Kasai-Ngounie > Kwa-Kasai North > Boma Yumu"
 wikipedia_url: "https://en.wikipedia.org/wiki/Boma_language"
+translations:
+  - translation_iso: zho
+    name: 博马语
+    auto: true
 rolv_dialects:
   - rolv_code: 2832
     language_tag: boh-x-HIS02832

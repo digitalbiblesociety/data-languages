@@ -1,8 +1,6 @@
 ---
 iso: xsp
 name: Silopi
-name_zh: 西洛皮语
-name_zh_auto: true
 autonym: null
 population: 180
 country_id: PG
@@ -15,5 +13,9 @@ glottolog_family_id: nucl1709
 glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Madang > Croisilles > Mabuso > Hanseman > Silopic > Silopi-Utu > Silopi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Silopi_language"
+translations:
+  - translation_iso: zho
+    name: 西洛皮语
+    auto: true
 ---
 Silopi is a Madang language of Papua New Guinea.

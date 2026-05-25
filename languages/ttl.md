@@ -1,8 +1,6 @@
 ---
 iso: ttl
 name: Totela
-name_zh: 托泰拉语
-name_zh_auto: true
 autonym: Echitotela
 population: 14000
 country_id: ZM
@@ -15,5 +13,9 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > East Bantu > Botatwe > Western Botatwe > Machili > Totela"
 wikipedia_url: "https://en.wikipedia.org/wiki/Totela_language"
+translations:
+  - translation_iso: zho
+    name: 托泰拉语
+    auto: true
 ---
 Totela is a poorly described Bantu language of Namibia and Zambia. It is spoken by the Totela people, a Bantu ethnic group of the Lozi. Its classification is assumed rather than demonstrated.

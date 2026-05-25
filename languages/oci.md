@@ -1,7 +1,6 @@
 ---
 iso: oci
 name: Occitan (post 1500)
-name_zh: 奥克语
 autonym: " lenga d'òc"
 alt_names: [Aranese, Aranese Occitan, Aranés, Arnais, Auvergnat, Auverne, Auvernhas, Bahasa Occitan, Gascon, Gjuha oksitaneze, Idioma occitano, Idioma occitán, Inutsitan, Język oksytański, Kioksitania, Kiunsita, Langadoc, Languedoc, Languedocien, Lemosin, Lenga ossitan-a, Lengadoucian, Limba occitană, Limousin, Lingua Occitanica, Lingua occitana, Liosita, Luenga ocitana, Língua occitana, Mistralien, Occitaans, Occitan, Occitan language, Occitan-gí, Occitani, Occitansk, Occitanska, Occitanu, Occità, "Occitáno ñe'ẽ", Ocitaniana linguo, Ocseadanais, Ocsitaanish, Ocsitaneg, Okcitana lingvo, Okcitanski jezik, Okcitanšćina, Okcitanščina, Okcitán nyelv, Okcitánčina, Okcitánština, Okitaneg, Oksitaani, Oksitaani keel, Oksitaans, Oksitanca, Oksitanek, Oksitanisk, Oksitansk, Oksitansk språk, Oksitanski jezik, Oksitanų kalba, Oksitāņu valoda, Okzitaansche Spraak, Okzitaniera, Okzitanische Sprache, Prouvençau, Provenzal, Provenzale, Provençal, Provençal alpin, Reo Otitānia, Tuksitant, Ucitan, Zimanê oksîtanî, occitan (après 1500), Łéngua ocitana, Οξιτανική γλώσσα, Аксытанская мова, Аксітанская мова, Окситайнаг æвзаг, Окситан мотт, Окситан чĕлхи, Окситански език, Окситански јазик, Окситански језик, Окситанский язык, Окситанська мова, אוקסיטנית, لغة قسطانية, ऑक्सितान भाषा, অক্সিতঁ ভাষা, ภาษาอ็อกซิตัน, オック語, 奥克西当语, 奥克语, 오크어]
 population: 218310
@@ -16,6 +15,17 @@ glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Italic > Latino-Faliscan > Latinic > Imperial Latin > Romance > Italo-Western Romance > Western Romance > Shifted Western Romance > Southwestern Shifted Romance > Occitanic > Occitan"
 wikipedia_url: "https://en.wikipedia.org/wiki/Occitan_language"
+translations:
+  - translation_iso: ara
+    name: القسطانية
+  - translation_iso: hin
+    name: ओसीटान
+  - translation_iso: jpn
+    name: オック語
+  - translation_iso: kor
+    name: 오크어
+  - translation_iso: zho
+    name: 奥克语
 rolv_dialects:
   - rolv_code: 7355
     language_tag: oc-x-HIS07355

@@ -1,8 +1,6 @@
 ---
 iso: ksn
 name: Kasiguranin
-name_zh: 卡西古拉宁语
-name_zh_auto: true
 autonym: Casiguranin
 population: 10000
 country_id: PH
@@ -15,5 +13,9 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Greater Central Philippine > Central Philippine > Tagalogic > Kasiguranin"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kasiguranin"
+translations:
+  - translation_iso: zho
+    name: 卡西古拉宁语
+    auto: true
 ---
 Kasiguranin (Casiguranin) is a Tagalogic language from the Casiguran town of Aurora in the northern Philippines. It is descended from an early Tagalog dialect that had borrowed heavily from Northeastern Luzon Agta languages, and, to a lesser extent, from Ilocano, Bikol languages, Kapampangan, Gaddang, Itawis, Ibanag, and Paranan, which were spoken by settlers from other parts of the Philippines.

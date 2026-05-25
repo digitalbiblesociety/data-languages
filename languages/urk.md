@@ -1,7 +1,6 @@
 ---
 iso: urk
 name: "Urak Lawoi'"
-name_zh: 烏拉拉握語
 autonym: อูรัก ลาโว้ย
 alt_names: [Chaw Talay, Chawnam, Lawoi, Lawta, "Orak Lawoi'", Urak lawoi (Tailandia), Urak lawoi (Thaïlande), Urak lawoi’ (Malaisie)]
 population: 3000
@@ -15,5 +14,10 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Malayo-Chamic > Malayic > Nuclear Malayic > Greater Riau-Johoric > Northeastern Peninsular Malay > Urak Lawoi'"
 wikipedia_url: "https://en.wikipedia.org/wiki/Urak_Lawoi%CA%BC_language"
+translations:
+  - translation_iso: kor
+    name: 우락라워이어
+  - translation_iso: zho
+    name: 烏拉拉握語
 ---
 Urak Lawoiʼ or Urak Lawoc is a Malayic language spoken in southern Thailand.

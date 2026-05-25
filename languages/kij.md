@@ -1,7 +1,6 @@
 ---
 iso: kij
 name: Kilivila
-name_zh: 基里維納语
 autonym: Kiriwina
 population: 40000
 country_id: PG
@@ -14,6 +13,11 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > Papuan Tip linkage > Peripheral Papuan Tip linkage > Kilivila-Misima > Kilivilic > Kilivila-Muyuw > Kilivila"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kilivila_language"
+translations:
+  - translation_iso: jpn
+    name: キリヴィラ語
+  - translation_iso: zho
+    name: 基里維納语
 rolv_dialects:
   - rolv_code: 2123
     language_tag: kij-x-HIS02123

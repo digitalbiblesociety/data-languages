@@ -1,8 +1,6 @@
 ---
 iso: mhf
 name: Mamaa
-name_zh: 玛玛阿语
-name_zh_auto: true
 autonym: Doloman
 alt_names: [Mama]
 population: 200
@@ -16,5 +14,9 @@ glottolog_family_id: nucl1709
 glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Finisterre-Huon > Finisterre-Saruwaged > Erap > Finungwan-Mamaa-Gusan > Mamaa"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mamaa_language"
+translations:
+  - translation_iso: zho
+    name: 玛玛阿语
+    auto: true
 ---
 Mamaa, or Mama, is one of the Finisterre languages of Papua New Guinea, spoken in the village of Mama in Wampar Rural LLG, Morobe Province.

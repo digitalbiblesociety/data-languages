@@ -1,8 +1,6 @@
 ---
 iso: blv
 name: Kibala
-name_zh: 基巴拉语
-name_zh_auto: true
 autonym: Ngoya
 alt_names: ["\"Ngoya\"", Bolo, Haka, Ipala, Kibala-Ngoya, Kimbundu de Kwanza Sul, Libolo, Lubolo, Pala, Quibala]
 population: 2630
@@ -16,6 +14,10 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > Central-Western Bantu > Njila > Northern Njila > Mbundu (H.20) > Kibala"
 wikipedia_url: "https://en.wikipedia.org/wiki/Bolo_language"
+translations:
+  - translation_iso: zho
+    name: 基巴拉语
+    auto: true
 rolv_dialects:
   - rolv_code: 22867
     language_tag: blv-x-HIS22867

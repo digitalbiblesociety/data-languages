@@ -1,8 +1,6 @@
 ---
 iso: kib
 name: Koalib
-name_zh: 科阿利布语
-name_zh_auto: true
 autonym: Rere
 alt_names: [Abri, Kawalib, Kowalib, Lgalige, Ngirere, Nirere]
 population: 100000
@@ -16,6 +14,12 @@ glottolog_family_id: heib1242
 glottolog_family_name: Heibanic
 glottolog_classification: "Heibanic > West-Central Heibanic > Central Heibanic > Koalib-Rere"
 wikipedia_url: "https://en.wikipedia.org/wiki/Koalib_language"
+translations:
+  - translation_iso: jpn
+    name: コアリブ語
+  - translation_iso: zho
+    name: 科阿利布语
+    auto: true
 rolv_dialects:
   - rolv_code: 926
     language_tag: kib-x-HIS00926

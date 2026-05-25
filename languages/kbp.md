@@ -1,7 +1,6 @@
 ---
 iso: kbp
 name: Kabiyè
-name_zh: 卡比耶語
 autonym: Kabɩyɛ
 alt_names: [Cabrai, Cabrais, Kab, Kabire, Kabiye, Kabiyeg, Kabiyé, Kabiyé language, Kabiyɛ, Kabre, Kabrè, Kabure, Kabye, Kaure, Língua kabiyé]
 population: 990600
@@ -15,6 +14,11 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Gur > Central Gur > Southern Central Gur > Grusi > East-West Grusi > Eastern Grusi > Kabiyeic > Kabiyé"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kabiye_language"
+translations:
+  - translation_iso: jpn
+    name: カビエ語
+  - translation_iso: zho
+    name: 卡比耶語
 rolv_dialects:
   - rolv_code: 6025
     language_tag: kbp-x-HIS06025

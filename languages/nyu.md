@@ -1,7 +1,6 @@
 ---
 iso: nyu
 name: Nyungwe
-name_zh: 尼温圭语
 autonym: Cinyungwe
 alt_names: [Chinyungwi, Nyongwe, Teta, Tete, Yungwe]
 population: 490000
@@ -15,6 +14,11 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > East Bantu > Tumbuka-Sena-Nyanja > Sena-Nyanja > Senaic > Nyungweic > Nyungwe"
 wikipedia_url: "https://en.wikipedia.org/wiki/Nyungwe_language"
+translations:
+  - translation_iso: jpn
+    name: ニュングウェ語
+  - translation_iso: zho
+    name: 尼温圭语
 rolv_dialects:
   - rolv_code: 28838
     language_tag: nyu-x-HIS28838

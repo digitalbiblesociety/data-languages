@@ -1,8 +1,6 @@
 ---
 iso: crq
 name: "Iyo'wujwa Chorote"
-name_zh: 伊约乌吉瓦乔罗特语
-name_zh_auto: true
 autonym: Chorote
 alt_names: [Choropi, Chorote iyojwa’ja, "Chorote, Iyo'wujwa", Choroti, "Choroti iyojwa'ja", Chorotí, Iyo’wujwa, Manjui, Manjuy, Yofúaha, Čorotų kalba]
 population: 1500
@@ -16,6 +14,10 @@ glottolog_family_id: mata1289
 glottolog_family_name: Mataguayan
 glottolog_classification: "Mataguayan > Mataguayo II > Chorote > Forest Chorote"
 wikipedia_url: "https://en.wikipedia.org/wiki/Iyo%CA%BCwujwa_Chorote"
+translations:
+  - translation_iso: zho
+    name: 伊约乌吉瓦乔罗特语
+    auto: true
 rolv_dialects:
   - rolv_code: 1901
     language_tag: crq-x-HIS01901

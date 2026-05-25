@@ -1,8 +1,6 @@
 ---
 iso: lea
 name: "Lega-Shabunda"
-name_zh: 莱加-沙邦达语
-name_zh_auto: true
 autonym: Igonzabale
 alt_names: [Ileka-Igonzabale, Kilega, Kirega, Lega, Leka-Igonzabale, Rega]
 population: 400000
@@ -15,6 +13,10 @@ glottocode: lega1249
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > East Bantu > Greater Lega > Mituku-Lega > Lega > Western Lega > Lega-Shabunda"
+translations:
+  - translation_iso: zho
+    name: 莱加-沙邦达语
+    auto: true
 rolv_dialects:
   - rolv_code: 4587
     language_tag: lea-x-HIS04587

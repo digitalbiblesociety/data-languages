@@ -1,8 +1,6 @@
 ---
 iso: mou
 name: Mogum
-name_zh: 莫古姆语
-name_zh_auto: true
 autonym: Mogoum
 alt_names: [Mogum language]
 population: 7000
@@ -16,6 +14,10 @@ glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > East Chadic > East Chadic B > East Chadic B.1 > Dangla-Mabire-Birgit > Birgit-Mogum-Toram > Mogum"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mogum_language"
+translations:
+  - translation_iso: zho
+    name: 莫古姆语
+    auto: true
 rolv_dialects:
   - rolv_code: 14188
     language_tag: mou-x-HIS14188

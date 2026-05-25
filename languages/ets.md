@@ -1,8 +1,6 @@
 ---
 iso: ets
 name: Yekhee
-name_zh: 耶赫语
-name_zh_auto: true
 autonym: AfenmaiKukuruku (outdated)
 alt_names: ["\"Kukuruku\"", Afenmai, Etsako, Etsako (Yekhee), Etsakor, Iyekhee, Kukuruku, Sako]
 population: 486000
@@ -16,6 +14,10 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Akpes-Edoid > Edoid > North-Central Edoid > Afenmai-Bendel > Uneme-Yekhee > Yekhee"
 wikipedia_url: "https://en.wikipedia.org/wiki/Afenmai_language"
+translations:
+  - translation_iso: zho
+    name: 耶赫语
+    auto: true
 rolv_dialects:
   - rolv_code: 18523
     language_tag: ets-x-HIS18523

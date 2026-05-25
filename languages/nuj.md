@@ -1,8 +1,6 @@
 ---
 iso: nuj
 name: Nyole
-name_zh: 尼奥莱语
-name_zh_auto: true
 autonym: Lunyole
 alt_names: [Nyule, Nyuli]
 population: 530000
@@ -16,6 +14,12 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > East Bantu > Northeast Savanna Bantu > Great Lakes Bantu > Greater Luyia > Luyia > Saamia-Wanga-Bukusu > Saamia-Wanga > Western Luyia > Saamiaic > Nyole"
 wikipedia_url: "https://en.wikipedia.org/wiki/Nyole_language_(Uganda)"
+translations:
+  - translation_iso: jpn
+    name: Nyole語
+  - translation_iso: zho
+    name: 尼奥莱语
+    auto: true
 rolv_dialects:
   - rolv_code: 1156
     language_tag: nuj-x-HIS01156

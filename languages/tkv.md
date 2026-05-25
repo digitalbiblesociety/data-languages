@@ -1,8 +1,6 @@
 ---
 iso: tkv
 name: Mur Pano
-name_zh: 穆尔帕诺语
-name_zh_auto: true
 autonym: Pano
 population: 700
 country_id: PG
@@ -15,5 +13,9 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > North New Guinea linkage > Ngero-Vitiaz linkage > Vitiaz linkage > Korap linkage > Mur Pano"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mur_Pano_language"
+translations:
+  - translation_iso: zho
+    name: 穆尔帕诺语
+    auto: true
 ---
 Mur Pano, or simply Pano, is an Austronesian language spoken by about three quarters of the thousand inhabitants of Mur village on the north coast of Madang Province, Papua New Guinea. The other quarter of the population speaks Molet as their primary language.

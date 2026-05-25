@@ -1,7 +1,6 @@
 ---
 iso: huu
 name: Murui Huitoto
-name_zh: 穆瑞胡图图语
 autonym: "Huitoto, Murui"
 alt_names: [Bue, Bué, Búe, Huitoto, Huitoto (Murui), Huitoto Murui, Mourouieg, Murai, Murui, Murui Witoto, Murui dialect, Murui-Witoto, Uitoto, Witoto, Witoto (Murui), Witoto murui, 𐍅𐌹𐍄𐍉𐍄𐍉𐍂𐌰𐌶𐌳𐌰]
 population: 1000
@@ -15,6 +14,11 @@ glottolog_family_id: huit1251
 glottolog_family_name: Huitotoan
 glottolog_classification: "Huitotoan > Nuclear Witotoan > Minica-Murui > Murui Huitoto"
 wikipedia_url: "https://en.wikipedia.org/wiki/Murui_Huitoto_language"
+translations:
+  - translation_iso: kor
+    name: 무루이 위토토어
+  - translation_iso: zho
+    name: 穆瑞胡图图语
 rolv_dialects:
   - rolv_code: 26539
     language_tag: huu-x-HIS26539

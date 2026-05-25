@@ -1,8 +1,6 @@
 ---
 iso: una
 name: North Watut
-name_zh: 北瓦图特语
-name_zh_auto: true
 autonym: Onank
 alt_names: [Unangg, Unank, Watut, "Watut, North"]
 population: 460
@@ -15,4 +13,8 @@ glottocode: nort2857
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > North New Guinea linkage > Huon Gulf > Markham > Watut > North Watut"
+translations:
+  - translation_iso: zho
+    name: 北瓦图特语
+    auto: true
 ---

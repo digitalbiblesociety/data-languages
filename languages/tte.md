@@ -1,8 +1,6 @@
 ---
 iso: tte
 name: Bwanabwana
-name_zh: 布瓦纳布瓦纳语
-name_zh_auto: true
 autonym: Tubetube
 population: 2400
 country_id: PG
@@ -15,6 +13,10 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > Papuan Tip linkage > Nuclear Papuan Tip linkage > Suauic > Bwanabwana"
 wikipedia_url: "https://en.wikipedia.org/wiki/Bwanabwana_language"
+translations:
+  - translation_iso: zho
+    name: 布瓦纳布瓦纳语
+    auto: true
 rolv_dialects:
   - rolv_code: 2008
     language_tag: tte-x-HIS02008

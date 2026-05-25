@@ -1,7 +1,6 @@
 ---
 iso: ckt
 name: Chukot
-name_zh: 楚科奇语
 autonym: Ԓыгъоравэтԓьэн йиԓыйиԓ
 alt_names: [Bahasa Chukchi, Chuchee, Chukcha, Chukchee, Chukchi, Chukchi language, Chukoto, Idioma chucoto, Język czukocki, Lingua chukchi, Lingua čukči, Luoravetlan, Luoravetlansk, "Lyg'oravetl'en jilyjil", Língua chukoto, Sprache der Tschuktschen, Tjuktjisk språk, Tschuktsche Spraak, Tschuktschische Sprache, Tsjoektsjisch, Txuktxi, tchouktche, tšuktšin kieli, Ĉukĉa lingvo, Čiokčiu kalba, Čiukčių kalba, Čukotščina, Чукотська мова, Чукчи, луораветланский язык, чукотский язык, チュクチ語, 楚科奇语, 축치어]
 population: 15900
@@ -16,6 +15,17 @@ glottolog_family_id: chuk1271
 glottolog_family_name: Chukotko-Kamchatkan
 glottolog_classification: "Chukotko-Kamchatkan > Chukotian > R-Koryakic > Chukchi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Chukchi_language"
+translations:
+  - translation_iso: ara
+    name: لغة تشوكشي
+  - translation_iso: hin
+    name: चुकची भाषा
+  - translation_iso: jpn
+    name: チュクチ語
+  - translation_iso: kor
+    name: 축치어
+  - translation_iso: zho
+    name: 楚科奇语
 rolv_dialects:
   - rolv_code: 8934
     language_tag: ckt-x-HIS08934

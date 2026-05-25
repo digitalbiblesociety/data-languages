@@ -1,7 +1,6 @@
 ---
 iso: ttr
 name: Tera
-name_zh: 特拉語
 autonym: Nyimalti
 alt_names: [Pidlimdi, Tera jezik, Teraeg, Wuyo dialect, Yamaltu]
 population: 101000
@@ -15,6 +14,9 @@ glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > Biu-Mandara > South Biu-Mandara > Teraic > Western Tera > Tera"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tera_language"
+translations:
+  - translation_iso: zho
+    name: 特拉語
 rolv_dialects:
   - rolv_code: 17387
     language_tag: ttr-x-HIS17387

@@ -1,8 +1,6 @@
 ---
 iso: inz
 name: Ineseño
-name_zh: 伊内塞尼奥语
-name_zh_auto: true
 autonym: Sʰamala
 alt_names: [Chumash, Chumash (Ineseno), Chumash (Ineseño), Chumasha Proper, Chumashan, Ineseno, Ineseno Chumash, Inezeño, Santa Inez, Santa Rosa, Ynezeño]
 population: null
@@ -16,5 +14,9 @@ glottolog_family_id: chum1262
 glottolog_family_name: Chumashan
 glottolog_classification: "Chumashan > Southern Chumashan > Central Chumashan > Ineseño"
 wikipedia_url: "https://en.wikipedia.org/wiki/Inese%C3%B1o_language"
+translations:
+  - translation_iso: zho
+    name: 伊内塞尼奥语
+    auto: true
 ---
 Ineseño is an extinct and revitalizing Chumashan language spoken in southern California. It was closely related to, and may have been a dialect of, Barbareño. Ineseño is currently undergoing processes of language revitalization. An Ineseño dictionary was published in 2007.

@@ -1,8 +1,6 @@
 ---
 iso: xin
 name: Xinca
-name_zh: 辛卡语
-name_zh_auto: true
 autonym: Szinca
 population: null
 country_id: GT
@@ -11,5 +9,13 @@ status_id: "10"
 latitude: 14.31028
 longitude: -89.82346
 wikipedia_url: "https://en.wikipedia.org/wiki/Xincan_languages"
+translations:
+  - translation_iso: jpn
+    name: シンカ語
+  - translation_iso: kor
+    name: 싱카어족
+  - translation_iso: zho
+    name: 辛卡语
+    auto: true
 ---
 Xinca is a small extinct family of Mesoamerican languages; formerly, the language was regarded as a single language isolate. Xinca was once spoken by the Indigenous Xinca people in southeastern Guatemala, parts of El Salvador, and Honduras.

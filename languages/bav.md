@@ -1,8 +1,6 @@
 ---
 iso: bav
 name: Vengo
-name_zh: 文戈语
-name_zh_auto: true
 autonym: Babungo
 alt_names: [Nge, Ngo, Nguu, Ngwa, Pengo, "Veng'o", Vengi, Vengoo]
 population: 27000
@@ -16,5 +14,9 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Wide Grassfields > Narrow Grassfields > Ring > South Ring > Babungoic > Vengo"
 wikipedia_url: "https://en.wikipedia.org/wiki/Vengo_language"
+translations:
+  - translation_iso: zho
+    name: 文戈语
+    auto: true
 ---
 Vengo, or Babungo, is a Grassfields language and the language of the Vengo people from the village of Babungo in the Cameroonian Grassfields. The spelling Bamungo is also often found.

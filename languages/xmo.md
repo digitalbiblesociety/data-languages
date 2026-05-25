@@ -1,8 +1,6 @@
 ---
 iso: xmo
 name: Morerebi
-name_zh: 莫雷雷比语
-name_zh_auto: true
 autonym: Kawahib
 alt_names: [Diahoi, Diahói, Diarroi, Djahui, Jiahui, Juma, Karipuna, Kawahib/Paranawat/Pawaté-Wirafed, Parintintín, Parintintín/Tenharim/Juma, Tenharim, Tenharím, Tukumanfed, Uru-eu-uau-uau, Yuma]
 population: 100
@@ -15,4 +13,8 @@ glottocode: more1262
 glottolog_family_id: unat1236
 glottolog_family_name: Unattested
 glottolog_classification: "Unattested > Tupian (Unattested) > Morerebi"
+translations:
+  - translation_iso: zho
+    name: 莫雷雷比语
+    auto: true
 ---

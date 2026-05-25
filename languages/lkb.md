@@ -1,8 +1,6 @@
 ---
 iso: lkb
 name: Kabras
-name_zh: 卡布拉斯语
-name_zh_auto: true
 autonym: Luyia
 alt_names: [Lukabaras]
 population: null
@@ -15,4 +13,8 @@ glottocode: kabr1240
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > East Bantu > Northeast Savanna Bantu > Great Lakes Bantu > Greater Luyia > Luyia > Saamia-Wanga-Bukusu > Saamia-Wanga > Central-Eastern Luyia > Kabarasi-Tachoni-Nyala East > Kabras"
+translations:
+  - translation_iso: zho
+    name: 卡布拉斯语
+    auto: true
 ---

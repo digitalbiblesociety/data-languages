@@ -1,8 +1,6 @@
 ---
 iso: lle
 name: Lele (Papua New Guinea)
-name_zh: 勒勒语
-name_zh_auto: true
 autonym: "Elu-Kara"
 alt_names: [Admiralitäts-inseln, Hai, Lele, Lele Hai, Manus, Moanus, Usiai]
 population: 1300
@@ -16,6 +14,10 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Admiralty Islands > Eastern Admiralty Islands > Manus > East Manus > Koro-Lele-Nali-Titan > Lele (Papua New Guinea)"
 wikipedia_url: "https://en.wikipedia.org/wiki/Lele_language_(Papua_New_Guinea)"
+translations:
+  - translation_iso: zho
+    name: 勒勒语
+    auto: true
 rolv_dialects:
   - rolv_code: 12852
     language_tag: lle-x-HIS12852

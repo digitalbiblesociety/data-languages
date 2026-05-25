@@ -1,8 +1,6 @@
 ---
 iso: wss
 name: Wasa
-name_zh: 瓦萨语
-name_zh_auto: true
 autonym: Akan
 alt_names: [Wasaw, Wassa]
 population: 273000
@@ -16,6 +14,12 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Kwa Volta-Congo > Nyo > Potou-Tano > Tano > Central Tano > Akanic > Wasa"
 wikipedia_url: "https://en.wikipedia.org/wiki/Wasa_language"
+translations:
+  - translation_iso: jpn
+    name: ワサ語
+  - translation_iso: zho
+    name: 瓦萨语
+    auto: true
 rolv_dialects:
   - rolv_code: 18216
     language_tag: wss-x-HIS18216

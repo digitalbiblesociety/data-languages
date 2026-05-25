@@ -1,8 +1,6 @@
 ---
 iso: bon
 name: Bine
-name_zh: 比内语
-name_zh_auto: true
 autonym: Masingara
 alt_names: [Kunini, Oriomo, Pine]
 population: 2050
@@ -16,6 +14,10 @@ glottolog_family_id: east2503
 glottolog_family_name: Eastern Trans-Fly
 glottolog_classification: "Eastern Trans-Fly > Bine"
 wikipedia_url: "https://en.wikipedia.org/wiki/Bine_language"
+translations:
+  - translation_iso: zho
+    name: 比内语
+    auto: true
 rolv_dialects:
   - rolv_code: 637
     language_tag: bon-x-HIS00637

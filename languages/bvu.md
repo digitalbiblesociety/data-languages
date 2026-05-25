@@ -1,8 +1,6 @@
 ---
 iso: bvu
 name: Bukit Malay
-name_zh: 布基特马来语
-name_zh_auto: true
 autonym: بهاس بنجر
 alt_names: [Bukit, "Malay, Bukit", Meratus]
 population: 59000
@@ -15,6 +13,12 @@ glottocode: buki1247
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Malayo-Chamic > Malayic > Nuclear Malayic > East Borneo Malay > Banjar-Berau-Brunei Malay > Banjar-Bukit Malay > Bukit Malay"
+translations:
+  - translation_iso: jpn
+    name: ブキット・マレー語
+  - translation_iso: zho
+    name: 布基特马来语
+    auto: true
 rolv_dialects:
   - rolv_code: 20097
     language_tag: bvu-x-HIS20097

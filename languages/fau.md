@@ -1,8 +1,6 @@
 ---
 iso: fau
 name: Fayu
-name_zh: 法尤语
-name_zh_auto: true
 autonym: Sehudate
 population: 350
 country_id: ID
@@ -15,5 +13,9 @@ glottolog_family_id: lake1255
 glottolog_family_name: Lakes Plain
 glottolog_classification: "Lakes Plain > Tariku > West Tariku > Fayu-Kirikiri > Fayu"
 wikipedia_url: "https://en.wikipedia.org/wiki/Fayu_language"
+translations:
+  - translation_iso: zho
+    name: 法尤语
+    auto: true
 ---
 Fayu, also known as Sehudate, is a Lakes Plain language of Papua Province, Indonesia spoken by about 1,400 Fayu people. It is spoken in Foida and other nearby villages.

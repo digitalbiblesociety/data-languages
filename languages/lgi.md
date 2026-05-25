@@ -1,8 +1,6 @@
 ---
 iso: lgi
 name: Lengilu
-name_zh: 伦吉鲁语
-name_zh_auto: true
 autonym: bahasa Lengilu
 population: null
 country_id: ID
@@ -15,6 +13,10 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > North Borneo Malayo-Polynesian > North Sarawakan > Dayic > Lengilu"
 wikipedia_url: "https://en.wikipedia.org/wiki/Lengilu_language"
+translations:
+  - translation_iso: zho
+    name: 伦吉鲁语
+    auto: true
 rolv_dialects:
   - rolv_code: 29746
     language_tag: lgi-x-HIS29746

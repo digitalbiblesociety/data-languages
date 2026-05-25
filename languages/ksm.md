@@ -1,8 +1,6 @@
 ---
 iso: ksm
 name: Kumba
-name_zh: 库姆巴语
-name_zh_auto: true
 autonym: Sate
 alt_names: [Isaro, Yofo]
 population: 3420
@@ -16,5 +14,9 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Cameroun-Ubangian > Central Adamawa > Mumuye-Yandang > Kumba"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kumba_language"
+translations:
+  - translation_iso: zho
+    name: 库姆巴语
+    auto: true
 ---
 Kumba, also known as Sate and Yofo, is an Adamawa language of Nigeria.

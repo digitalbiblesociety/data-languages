@@ -1,8 +1,6 @@
 ---
 iso: nof
 name: Nomane
-name_zh: 诺曼语
-name_zh_auto: true
 autonym: Kiari
 population: 4645
 country_id: PG
@@ -15,6 +13,10 @@ glottolog_family_id: nucl1709
 glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Chimbu-Wahgi > Simbu > Chuave-Nomane > Nomane"
 wikipedia_url: "https://en.wikipedia.org/wiki/Nomane_language"
+translations:
+  - translation_iso: zho
+    name: 诺曼语
+    auto: true
 rolv_dialects:
   - rolv_code: 4445
     language_tag: nof-x-HIS04445

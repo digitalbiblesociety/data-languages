@@ -1,8 +1,6 @@
 ---
 iso: tui
 name: Tupuri
-name_zh: 图普里语
-name_zh_auto: true
 autonym: Dema
 alt_names: [Honya, Mata, Ndoore, Ndore, Tongoyna, Toubouri, Toupoureg, Toupouri, Tuburi, Wina]
 population: 321000
@@ -16,6 +14,10 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Cameroun-Ubangian > Mbumic > Northern Mbum > Tupuri-Mundang-Mambai > Tupuri"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tupuri_language"
+translations:
+  - translation_iso: zho
+    name: 图普里语
+    auto: true
 rolv_dialects:
   - rolv_code: 17803
     language_tag: tui-x-HIS17803

@@ -1,8 +1,6 @@
 ---
 iso: tga
 name: Sagalla
-name_zh: 萨加拉语
-name_zh_auto: true
 autonym: Kisagala
 alt_names: [Kisagalla, Sagala, Saghala, Teri]
 population: 100000
@@ -16,6 +14,10 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > East Bantu > Northeast Savanna Bantu > Kilimanjaro-Taita > Taita-Sagalla > Sagalla"
 wikipedia_url: "https://en.wikipedia.org/wiki/Sagalla_language"
+translations:
+  - translation_iso: zho
+    name: 萨加拉语
+    auto: true
 rolv_dialects:
   - rolv_code: 16178
     language_tag: tga-x-HIS16178

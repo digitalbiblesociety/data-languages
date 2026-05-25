@@ -1,7 +1,6 @@
 ---
 iso: plq
 name: Palaic
-name_zh: 帕拉语
 autonym: null
 alt_names: [Język palajski, Lingua palaica, Lingua palaíta, Palaische Sprache, Palaisk, Palaiska, Palajščina, Palaïsch, Palaïte, Παλαϊκή γλώσσα, Палайский язык, Палайська мова, Палајски јазик, زبان پالائی, ภาษาปาลา, 팔라어]
 population: null
@@ -15,5 +14,12 @@ glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Anatolian > Luvo-Lydian > Luvo-Palaic > Palaic"
 wikipedia_url: "https://en.wikipedia.org/wiki/Palaic_language"
+translations:
+  - translation_iso: jpn
+    name: パラ語
+  - translation_iso: kor
+    name: 팔라어
+  - translation_iso: zho
+    name: 帕拉语
 ---
 Palaic is an extinct Indo-European language, attested in cuneiform tablets in Bronze Age Hattusa, the capital of the Hittites. Palaic, which was apparently spoken mainly in northern Anatolia, is generally considered to be one of four primary sub-divisions of the Anatolian languages, alongside Hittite, Luwic and Lydian.

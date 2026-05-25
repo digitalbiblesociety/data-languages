@@ -1,7 +1,6 @@
 ---
 iso: awc
 name: Cicipu
-name_zh: 奇普語
 autonym: Western Acipa
 alt_names: [Achipa, Acipa, "Acipa, Western", Acipanci, Sagamuk, Western]
 population: 20000
@@ -15,6 +14,9 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Kainji > Central Kainji > Kambari-Cicipu > Cicipu"
 wikipedia_url: "https://en.wikipedia.org/wiki/Cipu_language"
+translations:
+  - translation_iso: zho
+    name: 奇普語
 rolv_dialects:
   - rolv_code: 6672
     language_tag: awc-x-HIS06672

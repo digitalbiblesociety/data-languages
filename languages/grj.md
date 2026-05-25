@@ -1,8 +1,6 @@
 ---
 iso: grj
 name: Southern Grebo
-name_zh: 南格雷博语
-name_zh_auto: true
 autonym: null
 alt_names: [Grebo, "Grebo, Southern", Jabo language]
 population: 187000
@@ -15,6 +13,10 @@ glottocode: sout2826
 glottolog_family_id: krua1234
 glottolog_family_name: Kru
 glottolog_classification: "Kru > Greater Western Kru > Western Kru > Grebo-Aizi > Grebo > Liberian Grebo > Southern Grebo"
+translations:
+  - translation_iso: zho
+    name: 南格雷博语
+    auto: true
 rolv_dialects:
   - rolv_code: 1605
     language_tag: grj-x-HIS01605

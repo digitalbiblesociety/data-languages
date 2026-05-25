@@ -1,8 +1,6 @@
 ---
 iso: lal
 name: Lalia
-name_zh: 拉利亚语
-name_zh_auto: true
 autonym: null
 population: 55000
 country_id: CD
@@ -11,6 +9,10 @@ status_id: 6a
 latitude: -1.11711
 longitude: 23.36337
 wikipedia_url: "https://en.wikipedia.org/wiki/Lalia_language"
+translations:
+  - translation_iso: zho
+    name: 拉利亚语
+    auto: true
 rolv_dialects:
   - rolv_code: 1565
     language_tag: lal-x-HIS01565

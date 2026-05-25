@@ -1,7 +1,6 @@
 ---
 iso: lbm
 name: Lodhi
-name_zh: 罗地语
 autonym: Lodha
 alt_names: [Lodi, Lohi, Lozi]
 population: 25000
@@ -15,6 +14,11 @@ glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Indo-Aryan > Middle-Modern Indo-Aryan > Continental Indo-Aryan > Indo-Aryan Eastern zone > Oriya-Gauda-Kamrupa > Gauda-Kamrupa > Gauda-Banga > Lodhi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Lodhi_language"
+translations:
+  - translation_iso: hin
+    name: lodhi
+  - translation_iso: zho
+    name: 罗地语
 rolv_dialects:
   - rolv_code: 6178
     language_tag: lbm-x-HIS06178

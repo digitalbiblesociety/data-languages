@@ -1,8 +1,6 @@
 ---
 iso: cst
 name: Northern Ohlone
-name_zh: 北奥赫龙语
-name_zh_auto: true
 autonym: Costanoan
 alt_names: [Chochenyo, Chocheño, Northern Costanoan, "Ohlone, Northern", San Francisco Bay Costanoan, Čočenyo]
 population: null
@@ -15,4 +13,8 @@ glottocode: nort2969
 glottolog_family_id: miwo1274
 glottolog_family_name: Miwok-Costanoan
 glottolog_classification: "Miwok-Costanoan > Costanoan > San Francisco Bay Ohlone"
+translations:
+  - translation_iso: zho
+    name: 北奥赫龙语
+    auto: true
 ---

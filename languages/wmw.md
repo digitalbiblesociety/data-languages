@@ -1,7 +1,6 @@
 ---
 iso: wmw
 name: Mwani
-name_zh: 姆瓦尼語
 autonym: Kimwani
 alt_names: [Ibo, Muane, Mwane, Quimuane]
 population: 146000
@@ -15,6 +14,11 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > East Bantu > Northeast Savanna Bantu > Northeast Coastal Bantu > Coastal NEC Bantu > Sabaki-Swahili > Mwani"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mwani_language"
+translations:
+  - translation_iso: jpn
+    name: ンワニ語
+  - translation_iso: zho
+    name: 姆瓦尼語
 rolv_dialects:
   - rolv_code: 14473
     language_tag: wmw-x-HIS14473

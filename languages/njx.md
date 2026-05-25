@@ -1,8 +1,6 @@
 ---
 iso: njx
 name: Kunyi
-name_zh: 昆依语
-name_zh_auto: true
 autonym: Kikunyi
 alt_names: [Kugni]
 population: 137000
@@ -16,6 +14,10 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > Central-Western Bantu > West-Coastal Bantu > Nzadic > Lweric > Dingic > Loange-Atlantic > KLC Extended > Kikongo Language Cluster > Nuclear KLC > Kikongoic > Kambakunyic Kikongo > Kamba-Kunyi > Kunyi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kunyi_language"
+translations:
+  - translation_iso: zho
+    name: 昆依语
+    auto: true
 rolv_dialects:
   - rolv_code: 12514
     language_tag: njx-x-HIS12514

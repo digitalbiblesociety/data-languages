@@ -1,8 +1,6 @@
 ---
 iso: jui
 name: Ngadjuri
-name_zh: 恩加朱里语
-name_zh_auto: true
 autonym: Aluri
 population: null
 country_id: AU
@@ -15,5 +13,9 @@ glottolog_family_id: pama1250
 glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > Arandic-Thura-Yura > Thura-Yura > Core Thura Yura > Unclassified Core Thura-Yura > Ngadjuri"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ngadjuri_language"
+translations:
+  - translation_iso: zho
+    name: 恩加朱里语
+    auto: true
 ---
 Ngadjuri is an extinct Australian Aboriginal language formerly spoken by the Ngadjuri people of South Australia, whose traditional lands covered roughly 30,000 square kilometres (11,500 mi2), embracing Angaston and Freeling in the south and running northwards to Clare, Crystal Brook, Gladstone up to Carrieton and Orroroo in the Flinders Ranges.

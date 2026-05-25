@@ -1,8 +1,6 @@
 ---
 iso: tek
 name: Ibali Teke
-name_zh: 伊巴利特克语
-name_zh_auto: true
 autonym: Bali
 alt_names: [Eastern Teke, Ibali, Kiteke, Teke, "Teke, Ibali", Teke-Ibali]
 population: 202300
@@ -16,6 +14,10 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > Central-Western Bantu > West-Coastal Bantu > Nzadic > Lweric > Dingic > Loange-Atlantic > Kwilu-Ngounie > Kasai-Ngounie > Plateau Kasai-Ngounie > Kwa South"
 wikipedia_url: "https://en.wikipedia.org/wiki/East_Teke_language"
+translations:
+  - translation_iso: zho
+    name: 伊巴利特克语
+    auto: true
 rolv_dialects:
   - rolv_code: 17310
     language_tag: tek-x-HIS17310

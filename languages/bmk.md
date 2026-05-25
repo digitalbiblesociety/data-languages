@@ -1,8 +1,6 @@
 ---
 iso: bmk
 name: Ghayavi
-name_zh: 盖亚维语
-name_zh_auto: true
 autonym: Boianaki
 alt_names: [Boanai, Boanaki, Boinaki, Galavi]
 population: 2810
@@ -16,5 +14,9 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > Papuan Tip linkage > Nuclear Papuan Tip linkage > North Papuan Mainland-D'Entrecasteaux linkage > Are-Taupota linkage > Are linkage > Boanaki-Paiwa > Ghayavi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ghayavi_language"
+translations:
+  - translation_iso: zho
+    name: 盖亚维语
+    auto: true
 ---
 Ghayavi, or Boianaki, is an Austronesian language of the eastern Papua New Guinean mainland.

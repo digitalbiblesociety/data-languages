@@ -1,8 +1,6 @@
 ---
 iso: koz
 name: Korak
-name_zh: 科拉克语
-name_zh_auto: true
 autonym: Amako
 population: 512
 country_id: PG
@@ -15,5 +13,9 @@ glottolog_family_id: nucl1709
 glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Madang > Croisilles > Greater Northern Adelbert > Kowan > Korak"
 wikipedia_url: "https://en.wikipedia.org/wiki/Amako_language"
+translations:
+  - translation_iso: zho
+    name: 科拉克语
+    auto: true
 ---
 Amako, or Korak, is a Papuan language of Papua New Guinea. It is spoken in Korak, Almami Rural LLG, Madang Province.

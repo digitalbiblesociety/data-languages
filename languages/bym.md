@@ -1,8 +1,6 @@
 ---
 iso: bym
 name: Bidjara
-name_zh: 比吉亚拉语
-name_zh_auto: true
 autonym: Southern Maric
 alt_names: [Bidjara / Bidyara, Bidjera, Bidyara, Bithara, Bitharra, Bitjara, Minkabari, Peachera, Peechera, Pitjara, Pitteroo, Wilya]
 population: null
@@ -15,4 +13,8 @@ glottocode: bidy1243
 glottolog_family_id: pama1250
 glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > Greater Maric > Guwa-Maric > Maric > Southern Maric > Bidyaric > Bidyara"
+translations:
+  - translation_iso: zho
+    name: 比吉亚拉语
+    auto: true
 ---

@@ -1,7 +1,6 @@
 ---
 iso: mwt
 name: Moken
-name_zh: 莫肯语
 autonym: Basing
 alt_names: ["Chau Ko'", Mawken, Moklen, Salon, Salong, Selong, Selung]
 population: 6000
@@ -15,6 +14,13 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Moken-Moklen > Moken"
 wikipedia_url: "https://en.wikipedia.org/wiki/Moken_language"
+translations:
+  - translation_iso: jpn
+    name: モーケン語
+  - translation_iso: kor
+    name: 모켄어
+  - translation_iso: zho
+    name: 莫肯语
 rolv_dialects:
   - rolv_code: 1112
     language_tag: mwt-x-HIS01112

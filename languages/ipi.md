@@ -1,8 +1,6 @@
 ---
 iso: ipi
 name: Ipili
-name_zh: 伊皮利语
-name_zh_auto: true
 autonym: null
 alt_names: [Ipili-Paiela, Ipili-Payala]
 population: 26000
@@ -16,6 +14,10 @@ glottolog_family_id: nucl1709
 glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Enga-Kewa-Huli > Engan > Ipili"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ipili_language"
+translations:
+  - translation_iso: zho
+    name: 伊皮利语
+    auto: true
 rolv_dialects:
   - rolv_code: 10931
     language_tag: ipi-x-HIS10931

@@ -1,8 +1,6 @@
 ---
 iso: quy
 name: Ayacucho Quechua
-name_zh: 阿亚库乔克丘亚语
-name_zh_auto: true
 autonym: Chanka runasimi
 alt_names: [Ayacucho, Ayacucho Kechua, Ayacucho-Chanka, Chanka, Chanka-Quechua, Chinchaysuyo, Northern Quechua, Quechua (Ayacucho), Quechua A, Quechua ayacuchano, "Quechua d'Ayacucho", Quechua de Ayacucho, "Quechua, Ayacucho", Runasimi, Аякучанский кечуа]
 population: 900000
@@ -16,6 +14,10 @@ glottolog_family_id: quec1387
 glottolog_family_name: Quechuan
 glottolog_classification: "Quechuan > Southern Quechua > Ayacuchan Quechua > Ayacucho Quechua"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ayacucho_Quechua"
+translations:
+  - translation_iso: zho
+    name: 阿亚库乔克丘亚语
+    auto: true
 rolv_dialects:
   - rolv_code: 4005
     language_tag: quy-x-HIS04005

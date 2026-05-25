@@ -1,8 +1,6 @@
 ---
 iso: cnt
 name: Tepetotutla Chinantec
-name_zh: 特佩托图特拉奇南特克语
-name_zh_auto: true
 autonym: "Chinantec, Tepetotutla"
 alt_names: [Chinantec, Chinantec (Tepetotutla), Chinanteco, Chinanteco (Tepetotutla), Chinanteco del oeste central bajo, Chinanteko, Lower West-Central Chinantec, Usila Chinantec, "jajmi dzä  kï ï '", jejmei, jejmi]
 population: 1850
@@ -16,6 +14,10 @@ glottolog_family_id: otom1299
 glottolog_family_name: Otomanguean
 glottolog_classification: "Otomanguean > Western Otomanguean > Otopame-Chinantecan > Chinantecan > Central-Eastern Chinantec > Northwestern Chinantec > Chinantec Group II > Tepetotutla Chinantec"
 wikipedia_url: "https://en.wikipedia.org/wiki/Chinantec_of_Tepetotutla"
+translations:
+  - translation_iso: zho
+    name: 特佩托图特拉奇南特克语
+    auto: true
 rolv_dialects:
   - rolv_code: 2759
     language_tag: cnt-x-HIS02759

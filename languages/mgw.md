@@ -1,8 +1,6 @@
 ---
 iso: mgw
 name: Matumbi
-name_zh: 玛图姆比语
-name_zh_auto: true
 autonym: Kimatuumbi
 alt_names: [Kimatumbi, Matuumbi]
 population: 227000
@@ -16,6 +14,10 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > East Bantu > Rufiji-Ruvuma > Rufijic > Matengo-Rufiji > Matandu > Matumbi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Matumbi_language"
+translations:
+  - translation_iso: zho
+    name: 玛图姆比语
+    auto: true
 rolv_dialects:
   - rolv_code: 13850
     language_tag: mgw-x-HIS13850

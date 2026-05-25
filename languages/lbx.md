@@ -1,7 +1,6 @@
 ---
 iso: lbx
 name: Lawangan
-name_zh: 盧旺干語
 autonym: Luwangan
 alt_names: [Northeast Barito]
 population: 100000
@@ -15,6 +14,9 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Basap-Greater Barito > Greater Barito linkage > North East Greater Barito > Lawangan"
 wikipedia_url: "https://en.wikipedia.org/wiki/Lawangan_language"
+translations:
+  - translation_iso: zho
+    name: 盧旺干語
 rolv_dialects:
   - rolv_code: 814
     language_tag: lbx-x-HIS00814

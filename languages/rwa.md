@@ -1,8 +1,6 @@
 ---
 iso: rwa
 name: Rawo
-name_zh: 拉沃语
-name_zh_auto: true
 autonym: null
 alt_names: [Poko, Poko-Rawo]
 population: 640
@@ -16,5 +14,9 @@ glottolog_family_id: skoo1245
 glottolog_family_name: Sko
 glottolog_classification: "Sko > Skou-Serra-Piore > Serra Hills > Rawo-Main Serra > Rawo"
 wikipedia_url: "https://en.wikipedia.org/wiki/Rawo_language"
+translations:
+  - translation_iso: zho
+    name: 拉沃语
+    auto: true
 ---
 Rawo is a Papuan language in the Skou family, spoken on the north coast of Papua New Guinea in the vicinity of the village of Leitre (Laitre) in Bewani/Wutung Onei Rural LLG, Sandaun Province.

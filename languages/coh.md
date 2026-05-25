@@ -1,8 +1,6 @@
 ---
 iso: coh
 name: "Chonyi-Dzihana-Kauma"
-name_zh: 琼伊-兹伊哈纳-考马语
-name_zh_auto: true
 autonym: Chonyi
 alt_names: [Chichonyi, Chichonyi-Chidzihana-Chikauma]
 population: 309000
@@ -16,6 +14,10 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > East Bantu > Northeast Savanna Bantu > Northeast Coastal Bantu > Coastal NEC Bantu > Mijikenda-Pokomo-Comorian > Mijikenda > Northern Mijikenda > Chonyi-Dzihana-Kauma"
 wikipedia_url: "https://en.wikipedia.org/wiki/Chonyi_language"
+translations:
+  - translation_iso: zho
+    name: 琼伊-兹伊哈纳-考马语
+    auto: true
 rolv_dialects:
   - rolv_code: 3020
     language_tag: coh-x-HIS03020

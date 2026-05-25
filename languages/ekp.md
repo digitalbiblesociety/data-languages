@@ -1,8 +1,6 @@
 ---
 iso: ekp
 name: Ekpeye
-name_zh: 埃克佩耶语
-name_zh_auto: true
 autonym: Ekkpahia
 alt_names: [Ekpabya, Ekpaffia]
 population: 30000
@@ -16,6 +14,10 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Igboid > Ekpeye"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ekpeye_language"
+translations:
+  - translation_iso: zho
+    name: 埃克佩耶语
+    auto: true
 rolv_dialects:
   - rolv_code: 9528
     language_tag: ekp-x-HIS09528

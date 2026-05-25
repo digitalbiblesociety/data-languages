@@ -1,7 +1,6 @@
 ---
 iso: lut
 name: Lushootseed
-name_zh: 盧紹錫德語
 autonym: "Skagit-Nisqually"
 alt_names: [Dxʷləšúcid, Język luszucid, Laŝucida lingvo, Niskwalli, Puget Salish, Puget Sound Salish, Pugué, Squaxon, Лушуцид]
 population: 2000
@@ -16,6 +15,13 @@ glottolog_family_id: sali1255
 glottolog_family_name: Salishan
 glottolog_classification: "Salishan > Coast Salish > Central Salish > Lushootseed-Puget > Northern Lushootseed"
 wikipedia_url: "https://en.wikipedia.org/wiki/Lushootseed"
+translations:
+  - translation_iso: jpn
+    name: ルシュツィード語
+  - translation_iso: kor
+    name: 루슈치드어
+  - translation_iso: zho
+    name: 盧紹錫德語
 rolv_dialects:
   - rolv_code: 13166
     language_tag: lut-x-HIS13166

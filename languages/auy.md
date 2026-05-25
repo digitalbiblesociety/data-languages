@@ -1,8 +1,6 @@
 ---
 iso: auy
 name: Awiyaana
-name_zh: 阿维亚纳语
-name_zh_auto: true
 autonym: Auyana
 population: 11100
 country_id: PG
@@ -15,5 +13,11 @@ glottolog_family_id: nucl1709
 glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Kainantu-Goroka > Kainantu > Gauwa > Auyana > Awiyaana"
 wikipedia_url: "https://en.wikipedia.org/wiki/Awiyaana_language"
+translations:
+  - translation_iso: jpn
+    name: アウヤナ語
+  - translation_iso: zho
+    name: 阿维亚纳语
+    auto: true
 ---
 Awiyaana (Auyana) is a Kainantu language of Papua New Guinea.

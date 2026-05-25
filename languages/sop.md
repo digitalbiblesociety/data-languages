@@ -1,8 +1,6 @@
 ---
 iso: sop
 name: Songe
-name_zh: 松热语
-name_zh_auto: true
 autonym: Kalebwe
 alt_names: [Kisonge, Kisongi, Kisongye, Luba-Songi, Lusonge, "North Songye, South Songye", Northeast Luba, Songye, Yembe]
 population: 1000000
@@ -16,6 +14,12 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > Central-Western Bantu > Luban > Luba-Kaonde > Songe"
 wikipedia_url: "https://en.wikipedia.org/wiki/Songe_language"
+translations:
+  - translation_iso: jpn
+    name: ソンゲ語
+  - translation_iso: zho
+    name: 松热语
+    auto: true
 rolv_dialects:
   - rolv_code: 1448
     language_tag: sop-x-HIS01448

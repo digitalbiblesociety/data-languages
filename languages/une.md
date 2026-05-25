@@ -1,8 +1,6 @@
 ---
 iso: une
 name: Uneme
-name_zh: 乌内梅语
-name_zh_auto: true
 autonym: uneme nnekua
 alt_names: [Ileme, Ineme, Uleme]
 population: 19800
@@ -16,6 +14,10 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Akpes-Edoid > Edoid > North-Central Edoid > Afenmai-Bendel > Uneme-Yekhee > Uneme"
 wikipedia_url: "https://en.wikipedia.org/wiki/Uneme_language"
+translations:
+  - translation_iso: zho
+    name: 乌内梅语
+    auto: true
 rolv_dialects:
   - rolv_code: 28004
     language_tag: une-x-HIS28004

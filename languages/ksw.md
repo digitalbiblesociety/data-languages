@@ -1,7 +1,6 @@
 ---
 iso: ksw
 name: "S'gaw Karen"
-name_zh: 斯高克伦语
 autonym: ကညီကျိာ်
 alt_names: [Burmese Karen, Kanyaw, Karen, Karen (Sgaw), "Karen, S'gaw", "Karen,S’gaw", Kayin, Kyetho, Paganyaw, Pchcknya, "Pgha K'nyan", Pwakanyaw, "S'gau", "S'gaw", "S'gaw Kayin", Sgaw, Sgaw Karen, Sgaweg, White Karen, Yang Khao, 斯高克伦语]
 population: 2170000
@@ -15,6 +14,11 @@ glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Karenic > Southern Karen > Sgaw > S'gaw Karen"
 wikipedia_url: "https://en.wikipedia.org/wiki/S%27gaw_Karen_language"
+translations:
+  - translation_iso: jpn
+    name: スゴー語
+  - translation_iso: zho
+    name: 斯高克伦语
 rolv_dialects:
   - rolv_code: 11636
     language_tag: ksw-x-HIS11636

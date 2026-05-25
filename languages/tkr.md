@@ -1,7 +1,6 @@
 ---
 iso: tkr
 name: Tsakhur
-name_zh: 查胡尔语
 autonym: цӀаӀхна миз
 alt_names: [Caxur, Język cachurski, Língua tsakhur, Sakhur, Saxur dili, Tsachurische Sprache, Tsahurin kieli, Tsajur, Tsakhar, Tsakhour, Tsakhury, Tsaxur, cʼäxna miz, Цахурски јазик, Цахурська мова, цахурский язык, წახური ენა]
 population: 22300
@@ -16,6 +15,15 @@ glottolog_family_id: nakh1245
 glottolog_family_name: Nakh-Daghestanian
 glottolog_classification: "Nakh-Daghestanian > Daghestanian > Lezgic > Samur > Western Samur > Tsakhur"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tsakhur_language"
+translations:
+  - translation_iso: ara
+    name: لغة تساخورية
+  - translation_iso: jpn
+    name: ツァフル語
+  - translation_iso: kor
+    name: 차후르어
+  - translation_iso: zho
+    name: 查胡尔语
 rolv_dialects:
   - rolv_code: 17646
     language_tag: tkr-x-HIS17646

@@ -1,8 +1,6 @@
 ---
 iso: apx
 name: Aputai
-name_zh: 阿普泰语
-name_zh_auto: true
 autonym: Wetar
 alt_names: [Ilputih, Opotai, Tutunohan]
 population: 150
@@ -15,6 +13,10 @@ glottocode: aput1237
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Timor-Babar > Wetar-Atauro > Wetar > Perai-Tugun-Aputai > Perai-Aputai > Aputai"
+translations:
+  - translation_iso: zho
+    name: 阿普泰语
+    auto: true
 rolv_dialects:
   - rolv_code: 7072
     language_tag: apx-x-HIS07072

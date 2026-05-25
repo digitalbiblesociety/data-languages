@@ -1,8 +1,6 @@
 ---
 iso: nax
 name: Nakwi
-name_zh: 纳克维语
-name_zh_auto: true
 autonym: null
 population: 280
 country_id: PG
@@ -15,5 +13,9 @@ glottolog_family_id: left1242
 glottolog_family_name: Left May
 glottolog_classification: "Left May > Western Left May > Nimo-Nakwi > Nakwi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Nakwi_language"
+translations:
+  - translation_iso: zho
+    name: 纳克维语
+    auto: true
 ---
 Nakwi is a Left May language of Papua New Guinea, in East Sepik Province. It is close to Nimo.

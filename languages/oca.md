@@ -1,8 +1,6 @@
 ---
 iso: oca
 name: Ocaina
-name_zh: 奥卡伊纳语
-name_zh_auto: true
 autonym: "Xáfahxajoh'"
 alt_names: [Ocaina (Colombie), Ocaina (Perú), Ocaina (Pérou), Okaina, Okaineg, 𐍉𐌺𐌰𐌹𐌽𐌰𐍂𐌰𐌶𐌳𐌰]
 population: 190
@@ -16,6 +14,12 @@ glottolog_family_id: huit1251
 glottolog_family_name: Huitotoan
 glottolog_classification: "Huitotoan > Nonuya-Ocaina > Ocaina"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ocaina_language"
+translations:
+  - translation_iso: jpn
+    name: オカイナ語
+  - translation_iso: zho
+    name: 奥卡伊纳语
+    auto: true
 rolv_dialects:
   - rolv_code: 15227
     language_tag: oca-x-HIS15227

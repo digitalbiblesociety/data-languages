@@ -1,8 +1,6 @@
 ---
 iso: ynl
 name: Yangulam
-name_zh: 扬古拉姆语
-name_zh_auto: true
 autonym: null
 population: 400
 country_id: PG
@@ -15,5 +13,9 @@ glottolog_family_id: nucl1709
 glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Madang > Rai Coast > Nuru > Yangulam"
 wikipedia_url: "https://en.wikipedia.org/wiki/Yangulam_language"
+translations:
+  - translation_iso: zho
+    name: 扬古拉姆语
+    auto: true
 ---
 Yangulam is a Rai Coast language spoken in Madang Province, Papua New Guinea.

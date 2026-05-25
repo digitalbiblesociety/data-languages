@@ -1,8 +1,6 @@
 ---
 iso: dur
 name: Dii
-name_zh: 迪伊语
-name_zh_auto: true
 autonym: Duru
 alt_names: [Dourou, Durru, Nyag Dii, Yag Dii, Zaa]
 population: 50000
@@ -16,6 +14,10 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Cameroun-Ubangian > Central Adamawa > Samba-Duru > Southern Samba-Duru > Diic > Dii"
 wikipedia_url: "https://en.wikipedia.org/wiki/Dii_languages"
+translations:
+  - translation_iso: zho
+    name: 迪伊语
+    auto: true
 rolv_dialects:
   - rolv_code: 9258
     language_tag: dur-x-HIS09258

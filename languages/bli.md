@@ -1,8 +1,6 @@
 ---
 iso: bli
 name: Bolia
-name_zh: 博利亚语
-name_zh_auto: true
 autonym: " Lia"
 alt_names: [Bokoki, Bulia, Ntomba]
 population: 100000
@@ -16,5 +14,9 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > Central-Western Bantu > North Zaire River > Inner Basin Bantu > Cuvette > Mongoic > Bolia-Ntomba > Bolia"
 wikipedia_url: "https://en.wikipedia.org/wiki/Lia-Ntomba_language"
+translations:
+  - translation_iso: zho
+    name: 博利亚语
+    auto: true
 ---
 Ntomba and Lia (Bolia) are closely related Bantu languages of the Democratic Republic of the Congo, close enough to be considered dialects of a single Lia-Ntomba language.

@@ -1,7 +1,6 @@
 ---
 iso: bgx
 name: Balkan Gagauz Turkish
-name_zh: 魯米利亞突厥語
 autonym: Rumelian Turkish
 alt_names: [Balkan Turkic, Gagaouze (Balkans du sud), Gagaouze (Bessarabia), Gagaouze (Deli Orman), Gagaouze balkanique, Gagauso (sur de los Balcanes), Gagauz, "Turkish, Balkan Gagauz", Türkische Sprache in Bulgarien, Балкано-гагаузский язык, Балкански гагауско-турски јазик, ภาษาตุรกีกากาอุซบอลข่าน]
 population: 464000
@@ -16,6 +15,15 @@ glottolog_family_id: turk1311
 glottolog_family_name: Turkic
 glottolog_classification: "Turkic > Common Turkic > Oghuz > Nuclear Oghuz > West Oghuz > Rumelian Turkish"
 wikipedia_url: "https://en.wikipedia.org/wiki/Balkan_Turkish_language"
+translations:
+  - translation_iso: ara
+    name: البلقانية الغاغاوزية
+  - translation_iso: jpn
+    name: バルカン・ガガウズ・トルコ語
+  - translation_iso: kor
+    name: 발칸 가가우즈 터키어
+  - translation_iso: zho
+    name: 魯米利亞突厥語
 rolv_dialects:
   - rolv_code: 7610
     language_tag: bgx-x-HIS07610

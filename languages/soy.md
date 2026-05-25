@@ -1,8 +1,6 @@
 ---
 iso: soy
 name: Miyobe
-name_zh: 米约贝语
-name_zh_auto: true
 autonym: Soruba
 alt_names: [Bijobe, Biyobe, Kayobe, Kuyobe, Kyobe, Meyobe, Mi yɔbɛ, Sola, Solamba, Solla, Sorouba, Uyobe]
 population: 17160
@@ -16,5 +14,9 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Unclassified North Volta-Congo > Miyobe"
 wikipedia_url: "https://en.wikipedia.org/wiki/Yobe_language"
+translations:
+  - translation_iso: zho
+    name: 米约贝语
+    auto: true
 ---
 Miyobe or Soruba is an unclassified Niger-Congo language of Benin and Togo.

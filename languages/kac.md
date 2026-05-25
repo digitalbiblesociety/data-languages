@@ -1,7 +1,6 @@
 ---
 iso: kac
 name: Kachin
-name_zh: 景颇语
 autonym: Kachin
 alt_names: [Chinghpaw, "Chingp'o", Chingpaw, Dashanhua, Hka-Hku, Hkauri, Jili, Jinghpaw, Jinghpo, Jingphaw, Jingpho, Jingpho language, Jingpo, Jingpo kalba, Jinpoeg, Język jingpo, Katchin, Khang, Marip, Singhpo, Theinbaw, Ye Jein, Ye Yeh, ภาษาจิ่งพัว, 景颇语]
 population: 940000
@@ -16,6 +15,17 @@ glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Brahmaputran > Jingpho-Luish > Jingpho > Southern Jinghpaw"
 wikipedia_url: "https://en.wikipedia.org/wiki/Jingpo_language"
+translations:
+  - translation_iso: ara
+    name: الكاتشين
+  - translation_iso: hin
+    name: जिन्गपो भाषा
+  - translation_iso: jpn
+    name: ジンポー語
+  - translation_iso: kor
+    name: 징포어
+  - translation_iso: zho
+    name: 景颇语
 rolv_dialects:
   - rolv_code: 1169
     language_tag: kac-x-HIS01169

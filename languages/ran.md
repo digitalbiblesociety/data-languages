@@ -1,8 +1,6 @@
 ---
 iso: ran
 name: Riantana
-name_zh: 里安塔纳语
-name_zh_auto: true
 autonym: Kimaam
 population: 1100
 country_id: ID
@@ -15,5 +13,9 @@ glottolog_family_id: kolo1268
 glottolog_family_name: Kolopom
 glottolog_classification: "Kolopom > Kimaama-Riantana > Riantana"
 wikipedia_url: "https://en.wikipedia.org/wiki/Riantana_language"
+translations:
+  - translation_iso: zho
+    name: 里安塔纳语
+    auto: true
 ---
 Riantana, or Kimaam, is a language spoken by the Kimaam people on Yos Sudarso Island in South Papua, Indonesia.

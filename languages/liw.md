@@ -1,8 +1,6 @@
 ---
 iso: liw
 name: Col
-name_zh: 科尔语
-name_zh_auto: true
 autonym: Base Lembak
 alt_names: [Co, Cor, Cul, Dot, Kol, Kor, Lembak, Linggau, Sindang, Yot]
 population: 145000
@@ -16,6 +14,10 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Malayo-Chamic > Malayic > Nuclear Malayic > Central Sumatran Malay > Music > Col"
 wikipedia_url: "https://en.wikipedia.org/wiki/Col_language"
+translations:
+  - translation_iso: zho
+    name: 科尔语
+    auto: true
 rolv_dialects:
   - rolv_code: 12856
     language_tag: liw-x-HIS12856

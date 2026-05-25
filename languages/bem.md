@@ -1,7 +1,6 @@
 ---
 iso: bem
 name: Bemba (Zambia)
-name_zh: 本巴语
 autonym: Chibemba
 alt_names: [Bahasa Bemba, Bemba, Bemba jezik, Bemba language, Bemba simi, Chiwemba, Ichibemba, Idioma bemba, Język bemba, Lenga Bemba, Lingua bemba, Língua bemba, Wemba, Бемба, ベンバ語]
 population: 4110000
@@ -16,6 +15,17 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > East Bantu > Sabi > Malungu-Central Sabi > Central Sabi > Bemba (M.40) > Bemba (Zambia)"
 wikipedia_url: "https://en.wikipedia.org/wiki/Bemba_language"
+translations:
+  - translation_iso: ara
+    name: بيمبا
+  - translation_iso: hin
+    name: बेम्बा भाषा
+  - translation_iso: jpn
+    name: ベンバ語
+  - translation_iso: kor
+    name: 벰바어
+  - translation_iso: zho
+    name: 本巴语
 rolv_dialects:
   - rolv_code: 7941
     language_tag: bem-x-HIS07941

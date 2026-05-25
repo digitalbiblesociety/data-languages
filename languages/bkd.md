@@ -1,8 +1,6 @@
 ---
 iso: bkd
 name: Binukid
-name_zh: 比努基德语
-name_zh_auto: true
 autonym: Binukid
 alt_names: [Binokid, Binukid Manobo, Bukidnon, Talaandig]
 population: 122000
@@ -16,6 +14,12 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Greater Central Philippine > Manobo > North Manobo > Kinamiguin-Bukidnon > Bukidnon > Talaandig-Binukid"
 wikipedia_url: "https://en.wikipedia.org/wiki/Bukid_language"
+translations:
+  - translation_iso: jpn
+    name: ビヌキド
+  - translation_iso: zho
+    name: 比努基德语
+    auto: true
 rolv_dialects:
   - rolv_code: 30496
     language_tag: bkd-x-HIS30496

@@ -1,8 +1,6 @@
 ---
 iso: tyn
 name: Kombai
-name_zh: 孔拜语
-name_zh_auto: true
 autonym: Komboy
 population: 4000
 country_id: ID
@@ -15,6 +13,12 @@ glottolog_family_id: nucl1709
 glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Asmat-Awyu-Ok > Awyu-Ok > Greater Awyu > Awyu-Dumut > Ndeiram > Kombai"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kombai_language"
+translations:
+  - translation_iso: jpn
+    name: コンバイ語
+  - translation_iso: zho
+    name: 孔拜语
+    auto: true
 rolv_dialects:
   - rolv_code: 12179
     language_tag: tyn-x-HIS12179

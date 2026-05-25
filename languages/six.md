@@ -1,8 +1,6 @@
 ---
 iso: six
 name: Sumau
-name_zh: 苏毛语
-name_zh_auto: true
 autonym: Garia
 alt_names: [Kari, Karigari, Sumau-Garia]
 population: 2580
@@ -16,5 +14,11 @@ glottolog_family_id: nucl1709
 glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Madang > Rai Coast > Peka > Sumau"
 wikipedia_url: "https://en.wikipedia.org/wiki/Sumau_language"
+translations:
+  - translation_iso: jpn
+    name: ガリア語
+  - translation_iso: zho
+    name: 苏毛语
+    auto: true
 ---
 Sumau, also known as Garia (Kari), is a Rai Coast language spoken in Madang Province, Papua New Guinea.

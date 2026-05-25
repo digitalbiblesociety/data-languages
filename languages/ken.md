@@ -1,8 +1,6 @@
 ---
 iso: ken
 name: Kenyang
-name_zh: 肯扬语
-name_zh_auto: true
 autonym: Nyang
 alt_names: [Banjangi, Banyang, Banyangi, Bayangi, "Lower Kenyang, Upper Kenyang", Manyang]
 population: 65000
@@ -17,6 +15,12 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Mamfe > Kenyang"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kenyang_language"
+translations:
+  - translation_iso: jpn
+    name: ニャン語
+  - translation_iso: zho
+    name: 肯扬语
+    auto: true
 rolv_dialects:
   - rolv_code: 4348
     language_tag: ken-x-HIS04348

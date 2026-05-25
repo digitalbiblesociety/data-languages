@@ -1,7 +1,6 @@
 ---
 iso: bny
 name: Bintulu
-name_zh: 民都魯方言
 autonym: Vaie
 population: 4200
 country_id: MY
@@ -14,5 +13,8 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > North Borneo Malayo-Polynesian > North Sarawakan > Bintulu"
 wikipedia_url: "https://en.wikipedia.org/wiki/Bintulu_language"
+translations:
+  - translation_iso: zho
+    name: 民都魯方言
 ---
 Bintulu or Vaie is an Austronesian language of Borneo. Robert Blust leaves it as an isolate within the North Sarawakan languages. Ethnologue notes that it might be closest to Baram within those languages.

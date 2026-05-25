@@ -1,8 +1,6 @@
 ---
 iso: zyp
 name: Zyphe Chin
-name_zh: 齐菲钦语
-name_zh_auto: true
 autonym: "Chin, Zyphe"
 alt_names: ["Zac'hringeg", Zophei, Zoptei, Zyphe, Zyphe language]
 population: 20000
@@ -16,6 +14,10 @@ glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Kuki-Chin-Naga > Kuki-Chin > Central Kuki-Chin > Maraic > Nuclear Maraic > Zyphe"
 wikipedia_url: "https://en.wikipedia.org/wiki/Zyphe_language"
+translations:
+  - translation_iso: zho
+    name: 齐菲钦语
+    auto: true
 rolv_dialects:
   - rolv_code: 18664
     language_tag: zyp-x-HIS18664

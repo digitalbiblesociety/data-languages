@@ -1,8 +1,6 @@
 ---
 iso: bcm
 name: Bannoni
-name_zh: 邦诺尼语
-name_zh_auto: true
 autonym: Banoni
 alt_names: [Tsunari]
 population: 1000
@@ -16,5 +14,11 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > Meso Melanesian linkage > New Ireland-Northwest Solomonic linkage > St George linkage > Northwest Solomonic > Banoni-Piva > Bannoni"
 wikipedia_url: "https://en.wikipedia.org/wiki/Bannoni_language"
+translations:
+  - translation_iso: jpn
+    name: バノニ語
+  - translation_iso: zho
+    name: 邦诺尼语
+    auto: true
 ---
 Bannoni, also known as Tsunari, is an Austronesian language of Papua New Guinea. It has approximately 1,000 native speakers. The Banoni people refer to their language as Tsunari, but acknowledge the name Banoni and accept it as well. Tsunari technically translates to 'their truth'.

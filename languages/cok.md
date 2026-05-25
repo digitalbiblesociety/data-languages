@@ -1,8 +1,6 @@
 ---
 iso: cok
 name: Santa Teresa Cora
-name_zh: 圣特蕾莎科拉语
-name_zh_auto: true
 autonym: naáyarite
 alt_names: [Cora, "Cora, Santa Teresa", Kora, Náayeri, Pinome]
 population: 7000
@@ -15,6 +13,10 @@ glottocode: sant1424
 glottolog_family_id: utoa1244
 glottolog_family_name: Uto-Aztecan
 glottolog_classification: "Uto-Aztecan > Southern Uto-Aztecan > Corachol-Aztecan > Corachol > Coran > Santa Teresa Cora"
+translations:
+  - translation_iso: zho
+    name: 圣特蕾莎科拉语
+    auto: true
 rolv_dialects:
   - rolv_code: 20792
     language_tag: cok-x-HIS20792

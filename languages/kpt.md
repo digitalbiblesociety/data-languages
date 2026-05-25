@@ -1,8 +1,6 @@
 ---
 iso: kpt
 name: Karata
-name_zh: 卡拉塔语
-name_zh_auto: true
 autonym: Karatai
 alt_names: [Karatay, Karatin, Kirdi, КIкIирлIи мацIцIи, каратинский язык, კარატაული ენა]
 population: 5000
@@ -16,6 +14,14 @@ glottolog_family_id: nakh1245
 glottolog_family_name: Nakh-Daghestanian
 glottolog_classification: "Nakh-Daghestanian > Daghestanian > Avar-Andic-Tsezic > Andic > Karata-Tukita"
 wikipedia_url: "https://en.wikipedia.org/wiki/Karata-Tukita_language"
+translations:
+  - translation_iso: jpn
+    name: カラタ語
+  - translation_iso: kor
+    name: 카라타어
+  - translation_iso: zho
+    name: 卡拉塔语
+    auto: true
 rolv_dialects:
   - rolv_code: 11602
     language_tag: kpt-x-HIS11602

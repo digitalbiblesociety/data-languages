@@ -1,8 +1,6 @@
 ---
 iso: mfi
 name: Wandala
-name_zh: 万达拉语
-name_zh_auto: true
 autonym: Mandara
 alt_names: [Gamergu, Malgwa, Mandara Montagnard, Ndara]
 population: 43500
@@ -16,6 +14,10 @@ glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > Biu-Mandara > North Biu-Mandara > Margi-Mandara-Mofu > Mandaraic > Wandala-Malgwa-Glavda > Wandala-Malgwa > Wandala"
 wikipedia_url: "https://en.wikipedia.org/wiki/Wandala_language"
+translations:
+  - translation_iso: zho
+    name: 万达拉语
+    auto: true
 rolv_dialects:
   - rolv_code: 1772
     language_tag: mfi-x-HIS01772

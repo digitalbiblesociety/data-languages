@@ -1,8 +1,6 @@
 ---
 iso: mtt
 name: Mota
-name_zh: 莫塔语
-name_zh_auto: true
 autonym: null
 alt_names: [Banks-Inseln]
 population: 750
@@ -16,5 +14,11 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > North and Central Vanuatu > Northern Vanuatu > Torres-Banks linkage > Mota"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mota_language"
+translations:
+  - translation_iso: jpn
+    name: モタ語
+  - translation_iso: zho
+    name: 莫塔语
+    auto: true
 ---
 Mota is an Oceanic language spoken by about 750 people on Mota island, in the Banks Islands of Vanuatu. It is the most conservative Torres–Banks language, and the only one to keep its inherited five-vowel system intact while also preserving most final vowels.

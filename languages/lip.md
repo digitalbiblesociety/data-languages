@@ -1,8 +1,6 @@
 ---
 iso: lip
 name: Sekpele
-name_zh: 塞克佩莱语
-name_zh_auto: true
 autonym: Sekpele
 alt_names: [Bosele, Likpe, Mu, Sɛkpɛlé]
 population: 23000
@@ -16,6 +14,10 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Kwa Volta-Congo > Na-Togo > Lelemic > Likpe-Santrokofi > Sekpele"
 wikipedia_url: "https://en.wikipedia.org/wiki/Likpe_language"
+translations:
+  - translation_iso: zho
+    name: 塞克佩莱语
+    auto: true
 rolv_dialects:
   - rolv_code: 16442
     language_tag: lip-x-HIS16442

@@ -1,7 +1,6 @@
 ---
 iso: mjt
 name: Sauria Paharia
-name_zh: 绍里亚帕哈里亚语
 autonym: Paharia
 alt_names: [Lenga Sauria Paharia, Lingua Malto, Malatri, Maler, Malti, Malto, Maltu, Râjmahal, Sawriya Malto]
 population: 242000
@@ -15,6 +14,13 @@ glottolog_family_id: drav1251
 glottolog_family_name: Dravidian
 glottolog_classification: "Dravidian > North Dravidian > Kurux-Malto > Malto > Sauria Paharia"
 wikipedia_url: "https://en.wikipedia.org/wiki/Malto_language"
+translations:
+  - translation_iso: hin
+    name: माल्टो भाषा
+  - translation_iso: kor
+    name: 말토어
+  - translation_iso: zho
+    name: 绍里亚帕哈里亚语
 rolv_dialects:
   - rolv_code: 896
     language_tag: mjt-x-HIS00896

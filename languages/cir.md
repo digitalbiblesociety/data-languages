@@ -1,8 +1,6 @@
 ---
 iso: cir
 name: Tiri
-name_zh: 蒂里语
-name_zh_auto: true
 autonym: Méa
 alt_names: [Ciri, Ha-Tiri, Haméa, Neukaledonien, Tinrin, Tiri (Grand Couli), Tîrî]
 population: 260
@@ -16,6 +14,12 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Southern Melanesian > New Caledonian > Mainland New Caledonian > Southern New Caledonian > Mid-Southern New Caledonian > Tiri-Mea"
 wikipedia_url: "https://en.wikipedia.org/wiki/T%C3%AEr%C3%AE_language"
+translations:
+  - translation_iso: jpn
+    name: ティンリン語
+  - translation_iso: zho
+    name: 蒂里语
+    auto: true
 rolv_dialects:
   - rolv_code: 13947
     language_tag: cir-x-HIS13947

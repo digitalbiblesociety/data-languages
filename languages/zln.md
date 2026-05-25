@@ -1,8 +1,6 @@
 ---
 iso: zln
 name: Lianshan Zhuang
-name_zh: 廉山壮语
-name_zh_auto: true
 autonym: Vahcuengh (za)
 alt_names: [Chuang, Lianshan, Zhuang, Zhuang (Northern), "Zhuang, Lianshan"]
 population: 205000
@@ -15,6 +13,12 @@ glottocode: lian1252
 glottolog_family_id: taik1256
 glottolog_family_name: Tai-Kadai
 glottolog_classification: "Tai-Kadai > Kam-Tai > Daic-Beic > Daic > Northern Daic-Sek > Northern Daic > Northern Tai > Lianshan-Liujiang > Lianshan Zhuang"
+translations:
+  - translation_iso: jpn
+    name: 連山チワン語
+  - translation_iso: zho
+    name: 廉山壮语
+    auto: true
 rolv_dialects:
   - rolv_code: 6136
     language_tag: zln-x-HIS06136

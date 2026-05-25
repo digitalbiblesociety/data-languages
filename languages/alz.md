@@ -1,7 +1,6 @@
 ---
 iso: alz
 name: Alur
-name_zh: 阿卢尔语
 autonym: Lur
 alt_names: [Aloro, Aloureg, Alua, Alulu, Alur jezik, Dho Alur, Jo Alur, Lenga Alur, Lingua alur, Luri, Língua alur]
 population: 1735000
@@ -15,6 +14,13 @@ glottolog_family_id: nilo1247
 glottolog_family_name: Nilotic
 glottolog_classification: "Nilotic > Western Nilotic > Lwoo > Southern Lwoo > Adhola-Alur-Luo > Alur"
 wikipedia_url: "https://en.wikipedia.org/wiki/Alur_language"
+translations:
+  - translation_iso: jpn
+    name: アルール語
+  - translation_iso: kor
+    name: 알루르어
+  - translation_iso: zho
+    name: 阿卢尔语
 rolv_dialects:
   - rolv_code: 6906
     language_tag: alz-x-HIS06906

@@ -1,8 +1,6 @@
 ---
 iso: cas
 name: Tsimané
-name_zh: 西曼内语
-name_zh_auto: true
 autonym: " Mosetén"
 alt_names: [Aparono, Chiman, Chimane, Chimané, Chumano, Moseten, Moseten-Chimane, Mosetenan, Moseteno, Mosetén language area, Muchan, Nawazi-Moñtji, Rache, Tsimane, "Tsimane'", Tsinun, Tucupi]
 population: 7300
@@ -13,6 +11,12 @@ latitude: -14.64448
 longitude: -67.83756
 glottocode: mose1249
 wikipedia_url: "https://en.wikipedia.org/wiki/Moset%C3%A9n%E2%80%93Chimane_language"
+translations:
+  - translation_iso: jpn
+    name: モセテン・チマネ諸語
+  - translation_iso: zho
+    name: 西曼内语
+    auto: true
 rolv_dialects:
   - rolv_code: 20026
     language_tag: cas-x-HIS20026

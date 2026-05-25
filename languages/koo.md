@@ -1,8 +1,6 @@
 ---
 iso: koo
 name: Konzo
-name_zh: 孔佐语
-name_zh_auto: true
 autonym: Olhukonzo
 alt_names: [Konjo, Konjo people, Konzot, Lhukonzo, Olukonjo, Olukonzo, Rukonjo]
 population: 893000
@@ -16,6 +14,10 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > East Bantu > Northeast Savanna Bantu > Great Lakes Bantu > Western Lakes Bantu > Rwenzori > Konzo"
 wikipedia_url: "https://en.wikipedia.org/wiki/Konjo_language_(Bantu)"
+translations:
+  - translation_iso: zho
+    name: 孔佐语
+    auto: true
 rolv_dialects:
   - rolv_code: 12224
     language_tag: koo-x-HIS12224

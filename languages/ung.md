@@ -1,8 +1,6 @@
 ---
 iso: ung
 name: Ngarinyin
-name_zh: 恩加里尼因语
-name_zh_auto: true
 autonym: Eastern Worrorran
 alt_names: [Andedja, Andidja, Angarinjin, Arawari, Arkarin-jindja, Engariñín, Gular, Ingarinjindja, Kandjalngari, Lenga ngarinyin, Marangana, Molyamidi, Narrinyind, Ngaring-ngyan, Ngarinjin, Ngerringun, Njingarinjanja, Oladjau, Ungarin-jen, Ungarinjin, Ungarinyin, Unŋarinjin, Walmidi, Wangarinjinu, Warnarinjin, "Wol'jamidi", Yamandil]
 population: 59
@@ -16,6 +14,10 @@ glottolog_family_id: worr1236
 glottolog_family_name: Worrorran
 glottolog_classification: "Worrorran > Ngarinyin"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ngarinyin_language"
+translations:
+  - translation_iso: zho
+    name: 恩加里尼因语
+    auto: true
 rolv_dialects:
   - rolv_code: 14876
     language_tag: ung-x-HIS14876

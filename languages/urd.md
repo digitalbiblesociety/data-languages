@@ -1,7 +1,6 @@
 ---
 iso: urd
 name: Urdu
-name_zh: 乌尔都语
 autonym: اُردُو
 alt_names: [An Urdais, Bahasa Urdu, Fiteny urdu, Hindustani, Islami, Język urdu, Lengua urdu, Limba urdu, Lingua Urdu, Lingua urdú, Língua urdu, Oerdoe, Ordo, Ourdou, Ourdoueg, Pinulongang Urdu, Tiếng Urdu, Undri, Urdu dili, Urdu jezik, Urdu nyelv, Urdu simi, Urdu-gí, Urduca, Urdugiella, Urduo, Urdušćina, Urdú, Urdština, Urudu, Wrdw, Забони урду, Урду, Урду јазик, אורדו, أردو, ئوردو تىلى, اردو, زبان اردو, ܠܫܢܐ ܕܐܘܪܕܘ, އުރުދޫ, उर्दू, उर्दू भाषा, উর্দু ঠার, উর্দু ভাষা, ઉર્દુ ભાષા, உருது, ఉర్దూ భాష, ಉರ್ದೂ, ഉർദു, ภาษาอูรดู, ურდუ ენა, ウルドゥー語, 乌尔都语, 우르두어]
 population: 68600000
@@ -16,6 +15,17 @@ glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Indo-Aryan > Middle-Modern Indo-Aryan > Continental Indo-Aryan > Midlands Indo-Aryan > Shaurasenic > Indo-Aryan Central zone > Western Hindi > Hindustani > Urdu"
 wikipedia_url: "https://en.wikipedia.org/wiki/Urdu"
+translations:
+  - translation_iso: ara
+    name: الأردية
+  - translation_iso: hin
+    name: उर्दू
+  - translation_iso: jpn
+    name: ウルドゥー語
+  - translation_iso: kor
+    name: 우르두어
+  - translation_iso: zho
+    name: 乌尔都语
 rolv_dialects:
   - rolv_code: 3842
     language_tag: ur-x-HIS03842

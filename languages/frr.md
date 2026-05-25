@@ -1,7 +1,6 @@
 ---
 iso: frr
 name: Northern Frisian
-name_zh: 北弗里斯兰语
 autonym: NuurđfriiskFöhr
 alt_names: [Dialetto frisone settentrionale, Freeshlannish Hwoaie, Friesisch, Frisian, Frisian (North), Frisian (Northern), "Frisian, North", "Frisian, Northern", Frison du nord, Frisó septentrional, Frisón septentrional, Frizeg an norzh, Język północnofryzyjski, Lenga frison-a setentrional, Noardfrysk, Noord-Fries, Noordfrais, Noordfreesch, Noordfries, Nordfriesisch, Nordfriesische Sprache, Nordfrisa lingvo, Nordfrisisk, Nordfrisiska, North Frisian, North Frisian language, Northern, Noudfräisk, Sjevernofrizijski jezik, frison septentrional, 北弗里西亚语]
 population: 10000
@@ -16,6 +15,17 @@ glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Germanic > Northwest Germanic > West Germanic > North Sea Germanic > Anglo-Frisian > Frisian > Northern Frisian"
 wikipedia_url: "https://en.wikipedia.org/wiki/North_Frisian_language"
+translations:
+  - translation_iso: ara
+    name: اللغة الفريزية الشمالية
+  - translation_iso: hin
+    name: उत्तरी फ़्रीसियाई
+  - translation_iso: jpn
+    name: 北フリジア語
+  - translation_iso: kor
+    name: 북프리슬란트어
+  - translation_iso: zho
+    name: 北弗里斯兰语
 rolv_dialects:
   - rolv_code: 9903
     language_tag: frr-x-HIS09903

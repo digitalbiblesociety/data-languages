@@ -1,8 +1,6 @@
 ---
 iso: aof
 name: Bragat
-name_zh: 布拉加特语
-name_zh_auto: true
 autonym: Alauagat
 alt_names: [Alang, Braget, Yauan]
 population: 460
@@ -16,5 +14,9 @@ glottolog_family_id: nucl1708
 glottolog_family_name: Nuclear Torricelli
 glottolog_classification: "Nuclear Torricelli > Wapei-Palei > Central Torricelli > Nuclear Palai > Bragat-Aruop-Amol > Bragat"
 wikipedia_url: "https://en.wikipedia.org/wiki/Bragat_language"
+translations:
+  - translation_iso: zho
+    name: 布拉加特语
+    auto: true
 ---
 Bragat is a Torricelli language of Papua New Guinea. It is spoken in four villages, including in Yauan village, Sundun ward, Palmai Rural LLG, Sandaun Province.

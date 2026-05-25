@@ -1,8 +1,6 @@
 ---
 iso: lef
 name: Lelemi
-name_zh: 莱莱米语
-name_zh_auto: true
 autonym: Lefana
 alt_names: [Buem, Lafana, Lelemi (Bwem)]
 population: 72000
@@ -16,5 +14,11 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Kwa Volta-Congo > Na-Togo > Lelemic > Lelemi-Akpafu > Lelemi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Lelemi_language"
+translations:
+  - translation_iso: jpn
+    name: レレミ語
+  - translation_iso: zho
+    name: 莱莱米语
+    auto: true
 ---
 Lelemi or Lefana is spoken by the Buem people in the mountainous Volta Region of Ghana. It belongs to the geographic group of Ghana Togo Mountain languages of the Kwa branch of Niger–Congo.

@@ -1,8 +1,6 @@
 ---
 iso: tmj
 name: Samarokena
-name_zh: 萨马罗克纳语
-name_zh_auto: true
 autonym: Tamaja
 alt_names: [Karfasia, Samarkena, Tamaya]
 population: 400
@@ -16,5 +14,9 @@ glottolog_family_id: kwer1242
 glottolog_family_name: Greater Kwerba
 glottolog_classification: "Greater Kwerba > Kwerba-Samarokena > Samarokena-Airoran > Samarokena"
 wikipedia_url: "https://en.wikipedia.org/wiki/Samarokena_language"
+translations:
+  - translation_iso: zho
+    name: 萨马罗克纳语
+    auto: true
 ---
 Samarokena is a poorly documented Papuan language spoken in Indonesian Papua.

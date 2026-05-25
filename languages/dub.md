@@ -1,8 +1,6 @@
 ---
 iso: dub
 name: Dubli
-name_zh: 杜布利语
-name_zh_auto: true
 autonym: Dubala
 alt_names: [Dubla, Rathod, Talavia]
 population: 252000
@@ -16,5 +14,9 @@ glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Indo-Aryan > Middle-Modern Indo-Aryan > Continental Indo-Aryan > Midlands Indo-Aryan > Apabhramsic > Gujarati-Rajasthani > Gujaratic > Dubli"
 wikipedia_url: "https://en.wikipedia.org/wiki/Dubli_language"
+translations:
+  - translation_iso: zho
+    name: 杜布利语
+    auto: true
 ---
 Dubli is a Bhil language of Gujarat and neighboring states. Half of ethnic Dubla speak Gujarati instead of their own ancestral tongue.

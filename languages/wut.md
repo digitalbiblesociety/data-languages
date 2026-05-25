@@ -1,8 +1,6 @@
 ---
 iso: wut
 name: Wutung
-name_zh: 乌通语
-name_zh_auto: true
 autonym: Sangke
 alt_names: [Udung, Woutoungeg, Wutung jezik]
 population: 900
@@ -16,6 +14,10 @@ glottolog_family_id: skoo1245
 glottolog_family_name: Sko
 glottolog_classification: "Sko > Skou-Serra-Piore > Skouic > Eastern Skouic > West Coast Skouic > Wutung"
 wikipedia_url: "https://en.wikipedia.org/wiki/Wutung_language"
+translations:
+  - translation_iso: zho
+    name: 乌通语
+    auto: true
 rolv_dialects:
   - rolv_code: 5001
     language_tag: wut-x-HIS05001

@@ -1,7 +1,6 @@
 ---
 iso: tef
 name: Teressa
-name_zh: 特雷沙语
 autonym: "Taih-Long"
 alt_names: [Luro, Pauhut, Powahat, Teressa-Bompoka, Təih-lɔng]
 population: 2080
@@ -15,6 +14,13 @@ glottolog_family_id: aust1305
 glottolog_family_name: Austroasiatic
 glottolog_classification: "Austroasiatic > Nicobaric > Nuclear Nicobaric > Chowra-Teressa > Teressa"
 wikipedia_url: "https://en.wikipedia.org/wiki/Teressa_language"
+translations:
+  - translation_iso: hin
+    name: तेरेस्सा भाषा
+  - translation_iso: jpn
+    name: テレッサ語
+  - translation_iso: zho
+    name: 特雷沙语
 rolv_dialects:
   - rolv_code: 17391
     language_tag: tef-x-HIS17391

@@ -1,7 +1,6 @@
 ---
 iso: kfz
 name: Koromfé
-name_zh: 科罗姆费语
 autonym: Fula
 alt_names: [Fulse, Koromfe, Kouroumba, Kuruma, Kurumba, Kurumfe, Kuṟumba, Nyonyose]
 population: null
@@ -15,6 +14,11 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Gur > Central Gur > Northern Central Gur > Koromfé"
 wikipedia_url: "https://en.wikipedia.org/wiki/Koromfe_language"
+translations:
+  - translation_iso: jpn
+    name: クルンフェ語
+  - translation_iso: zho
+    name: 科罗姆费语
 rolv_dialects:
   - rolv_code: 26863
     language_tag: kfz-x-HIS26863

@@ -1,7 +1,6 @@
 ---
 iso: sqq
 name: Sou
-name_zh: 苏语
 autonym: Sawk
 alt_names: [Juk, Souk, Soué, Su, "Su'", Suai, Sue, Suq]
 population: 2360
@@ -15,5 +14,10 @@ glottolog_family_id: aust1305
 glottolog_family_name: Austroasiatic
 glottolog_classification: "Austroasiatic > Bahnaric > West Bahnaric > Nuclear West Bahnaric > Loven-Suq > Sou"
 wikipedia_url: "https://en.wikipedia.org/wiki/Su%27_language"
+translations:
+  - translation_iso: kor
+    name: 수어
+  - translation_iso: zho
+    name: 苏语
 ---
 Su'  is a Mon–Khmer language of the Bahnaric branch spoken in Attapeu Province, Laos. The 1995 Attapeu census recorded a population of only 124 speakers in Sanamsay District. Su' autonyms are identical with that of the Jru', but they consider themselves to be a separate ethnic group. There could also possibly be speakers in Stung Treng Province, Cambodia.

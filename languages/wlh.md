@@ -1,8 +1,6 @@
 ---
 iso: wlh
 name: "Welaun\r"
-name_zh: 韦劳恩语
-name_zh_auto: true
 autonym: "Bekais, Wekais"
 alt_names: [Welaun]
 population: 5580
@@ -16,5 +14,11 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Central Timor > Welaun"
 wikipedia_url: "https://en.wikipedia.org/wiki/Welaun_language"
+translations:
+  - translation_iso: jpn
+    name: ベカイス語
+  - translation_iso: zho
+    name: 韦劳恩语
+    auto: true
 ---
 Welaun is an Austronesian language spoken on the border of East Timor and West Timor. It is closely related to Tetun.

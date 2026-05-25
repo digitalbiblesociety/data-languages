@@ -1,8 +1,6 @@
 ---
 iso: mcd
 name: Sharanahua
-name_zh: 沙拉那瓦语
-name_zh_auto: true
 autonym: Yaminahua
 alt_names: [Marinahua, Mastanahua, Parquenahua, Sharanawa]
 population: 499
@@ -16,6 +14,10 @@ glottolog_family_id: pano1259
 glottolog_family_name: Pano-Tacanan
 glottolog_classification: "Pano-Tacanan > Panoan > Mainline Pano > Pano Nawa > Headwaters Pano > Yaminawa Complex > Sharanahua"
 wikipedia_url: "https://en.wikipedia.org/wiki/Sharanawa_language"
+translations:
+  - translation_iso: zho
+    name: 沙拉那瓦语
+    auto: true
 rolv_dialects:
   - rolv_code: 6315
     language_tag: mcd-x-HIS06315

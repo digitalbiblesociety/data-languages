@@ -1,8 +1,6 @@
 ---
 iso: log
 name: Logo
-name_zh: 洛戈语
-name_zh_auto: true
 autonym: Logoti
 alt_names: [Логоски јазик]
 population: 210000
@@ -16,6 +14,10 @@ glottolog_family_id: cent2225
 glottolog_family_name: Central Sudanic
 glottolog_classification: "Central Sudanic > Moru-Madi > Central Moru-Madi > Avokayic > Logo"
 wikipedia_url: "https://en.wikipedia.org/wiki/Logo_language"
+translations:
+  - translation_iso: zho
+    name: 洛戈语
+    auto: true
 rolv_dialects:
   - rolv_code: 1312
     language_tag: log-x-HIS01312

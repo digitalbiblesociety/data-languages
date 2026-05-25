@@ -1,8 +1,6 @@
 ---
 iso: gko
 name: "Kok-Nar"
-name_zh: 科克-纳尔语
-name_zh_auto: true
 autonym: Gundara
 alt_names: [Gog Nar, Goondarra, Gugu Nar, Gugu Nhang, Kok Nar, Kok Narr, Kok Nhang, Kok-Narr, Kokatabul, Kokawan-gar, Koknar, Koko-Nar, Koko-Nari, Koko-Nhang, Koko-daua, Kokodaue, Kokowanggara, Kuantari, Kuk-Narr, Kundar, Kundara, Kuuk-Nhang, Kwanthar, Oikand, Wangara, Wanggara]
 population: null
@@ -16,5 +14,9 @@ glottolog_family_id: pama1250
 glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > Paman > Norman Pama > Kok-Nar"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kok-Nar_language"
+translations:
+  - translation_iso: zho
+    name: 科克-纳尔语
+    auto: true
 ---
 Kok Narr (Kok-Nar) is an extinct Paman language of the Cape York Peninsula, Queensland, Australia.

@@ -1,7 +1,6 @@
 ---
 iso: kmz
 name: Khorasani Turkish
-name_zh: 呼羅珊突厥語
 autonym: خراسان تركچىسى
 alt_names: [Chorasan-türkische Sprache, East/Central Xorasan Turkic, Horasanca, Idioma turco de Jorasán, Khorasan Turkic, Khorasani Turkic language, Khorasaninturkin kieli, Northwest Quchani, Quchani, Turc du Khorassan, Turco jorasaní, Turk du Khorassan, Turkic (East-Central Xorasan), Turkic (East/Central Xorasan), Turkic (West Xorasan), West Khorasani Turkic, West Quchani, West Xorasan Turkic, Xorasan, Xorasan Turkic, Xorasan Türkcəsi, Хорасански турски јазик, Хорасанско-тюркский язык, ภาษาเติร์กโคราซานี]
 population: 936000
@@ -15,6 +14,13 @@ glottolog_family_id: turk1311
 glottolog_family_name: Turkic
 glottolog_classification: "Turkic > Common Turkic > Oghuz > Nuclear Oghuz > East Oghuz > Khorasan Turkic"
 wikipedia_url: "https://en.wikipedia.org/wiki/Khorasani_Turkic"
+translations:
+  - translation_iso: ara
+    name: التركية الخراسانية
+  - translation_iso: jpn
+    name: ホラサン・トルコ語
+  - translation_iso: zho
+    name: 呼羅珊突厥語
 rolv_dialects:
   - rolv_code: 11981
     language_tag: kmz-x-HIS11981

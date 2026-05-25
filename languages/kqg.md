@@ -1,8 +1,6 @@
 ---
 iso: kqg
 name: Khe
-name_zh: 科语
-name_zh_auto: true
 autonym: Kheso
 alt_names: [Bambadion-Kheso]
 population: 1300
@@ -16,5 +14,9 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Gur > Central Gur > Southern Central Gur > Dogoso-Khe > Khe"
 wikipedia_url: "https://en.wikipedia.org/wiki/Khe_language"
+translations:
+  - translation_iso: zho
+    name: 科语
+    auto: true
 ---
 Khe is a Gur language of Burkina Faso. Other than Dogoso, is distant from other languages

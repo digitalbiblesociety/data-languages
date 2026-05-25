@@ -1,8 +1,6 @@
 ---
 iso: cah
 name: Cahuarano
-name_zh: 卡瓦拉诺语
-name_zh_auto: true
 autonym: null
 alt_names: [Hamacore, Ikito-Kawarano, Iquito, Iquito-Cahuarano, Kahouaraneg, Puca-Uma, Quiturran]
 population: null
@@ -16,5 +14,11 @@ glottolog_family_id: zapa1251
 glottolog_family_name: Zaparoan
 glottolog_classification: "Zaparoan > Iquito-Arabela > Cahuarano-Iquito > Cahuarano"
 wikipedia_url: "https://en.wikipedia.org/wiki/Cahuarano_language"
+translations:
+  - translation_iso: jpn
+    name: カワラノ語
+  - translation_iso: zho
+    name: 卡瓦拉诺语
+    auto: true
 ---
 Cahuarano is an extinct indigenous American language of the Zaparoan family, once spoken along the Nanay River in Peru. The last speaker died in the late 1980s or early 1990s. While considered a language by most scholars, it was considered by some to be a dialect of Iquito.

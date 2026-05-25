@@ -1,8 +1,6 @@
 ---
 iso: poc
 name: Poqomam
-name_zh: 波寇玛姆语
-name_zh_auto: true
 autonym: Pocomán
 alt_names: [Central Pocomam, Pocomam, Pocomam Oriental, Pocomám, Pokomam, Pokomam (Eastern), "Pokomam, Central"]
 population: 8600
@@ -16,6 +14,14 @@ glottolog_family_id: maya1287
 glottolog_family_name: Mayan
 glottolog_classification: "Mayan > Core Mayan > Quichean-Mamean > Greater Quichean > Poqom > Poqomam"
 wikipedia_url: "https://en.wikipedia.org/wiki/Poqomam_language"
+translations:
+  - translation_iso: jpn
+    name: ポコマム語
+  - translation_iso: kor
+    name: 포코맘어
+  - translation_iso: zho
+    name: 波寇玛姆语
+    auto: true
 rolv_dialects:
   - rolv_code: 369
     language_tag: poc-x-HIS00369

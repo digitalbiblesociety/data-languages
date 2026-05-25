@@ -1,8 +1,6 @@
 ---
 iso: gmx
 name: Magoma
-name_zh: 马戈马语
-name_zh_auto: true
 autonym: Ekikinga
 alt_names: [Kimagoma, Kinga]
 population: 9000
@@ -16,5 +14,9 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > East Bantu > Northeast Savanna Bantu > Southern Tanzania Highlands Bantu > Kinga-Magoma > Magoma"
 wikipedia_url: "https://en.wikipedia.org/wiki/Magoma_language"
+translations:
+  - translation_iso: zho
+    name: 马戈马语
+    auto: true
 ---
 Magoma is a Bantu language of the Magoma nation in Tanzania. It is closely related to Kinga, but mutual intelligibility is low.

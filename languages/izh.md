@@ -1,7 +1,6 @@
 ---
 iso: izh
 name: Ingrian
-name_zh: 伊若拉语
 autonym: ižoran keel
 alt_names: [Idioma ingrio, Ijoreg, Ingriano, Ingries, Ingrisch, Ingrish, Ingrisk, Ingriska, Inkeroisgiella, Ischorische Sprache, Isurisch, Izhora, Izhorian, Iĵora lingvo, Ižorisch, Ižoru valoda, Ižorų kalba, Język ingryjski, ingrien, inkerin kieli, inkerioinen, inkeroisen kieli, isuri keel, izhor, ižoran keeli, ižorskij jazyk, karjala, karjalan keeli, maakeeli, užory, Іжорська мова, Ижора кыв, Ижоронь кель, Ижорски език, Ингрийн мотт, ижорский язык]
 population: 360
@@ -16,6 +15,15 @@ glottolog_family_id: ural1272
 glottolog_family_name: Uralic
 glottolog_classification: "Uralic > Finnic > Coastal Finnic > Neva > North Finnic > Ladogan > Ingrian"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ingrian_language"
+translations:
+  - translation_iso: ara
+    name: لغة أنغرية
+  - translation_iso: jpn
+    name: イングリア語
+  - translation_iso: kor
+    name: 잉그리아어
+  - translation_iso: zho
+    name: 伊若拉语
 rolv_dialects:
   - rolv_code: 10897
     language_tag: izh-x-HIS10897

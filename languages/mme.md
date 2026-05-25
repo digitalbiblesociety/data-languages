@@ -1,8 +1,6 @@
 ---
 iso: mme
 name: Mae
-name_zh: 玛埃语
-name_zh_auto: true
 autonym: " Dirak"
 alt_names: [Emwae, Mallicolo, Tirax]
 population: 1000
@@ -16,6 +14,10 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > North and Central Vanuatu > Central Vanuatu > Malakula > Western Malakula linkage > Peripheral Western Malakula > Northwestern Malakula > Tirax"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tirax_language"
+translations:
+  - translation_iso: zho
+    name: 玛埃语
+    auto: true
 rolv_dialects:
   - rolv_code: 13261
     language_tag: mme-x-HIS13261

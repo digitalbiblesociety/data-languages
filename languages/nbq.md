@@ -1,8 +1,6 @@
 ---
 iso: nbq
 name: Nggem
-name_zh: 恩格姆语
-name_zh_auto: true
 autonym: bahasa Nggem
 alt_names: [Indonesia]
 population: 4400
@@ -16,6 +14,10 @@ glottolog_family_id: nucl1709
 glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Dani > Nggem"
 wikipedia_url: "https://en.wikipedia.org/wiki/Nggem_language"
+translations:
+  - translation_iso: zho
+    name: 恩格姆语
+    auto: true
 rolv_dialects:
   - rolv_code: 31178
     language_tag: nbq-x-HIS31178

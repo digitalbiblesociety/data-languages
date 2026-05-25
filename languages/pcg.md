@@ -1,8 +1,6 @@
 ---
 iso: pcg
 name: Paniya
-name_zh: 帕尼亚语
-name_zh_auto: true
 autonym: പണിയ
 alt_names: [Nil, Pania, Paniyan, Panyah]
 population: 22800
@@ -16,6 +14,10 @@ glottolog_family_id: drav1251
 glottolog_family_name: Dravidian
 glottolog_classification: "Dravidian > South Dravidian > South Dravidian I > Tamil-Kannada > Tamil-Kota > Tamil-Toda > Tamil-Irula > Tamil-Kodagu > Tamil-Malayalam > Malayalamoid > Ravulic > Paniya"
 wikipedia_url: "https://en.wikipedia.org/wiki/Paniya_language"
+translations:
+  - translation_iso: zho
+    name: 帕尼亚语
+    auto: true
 rolv_dialects:
   - rolv_code: 898
     language_tag: pcg-x-HIS00898

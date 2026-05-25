@@ -1,8 +1,6 @@
 ---
 iso: kxt
 name: Koiwat
-name_zh: 科伊瓦特语
-name_zh_auto: true
 autonym: null
 alt_names: [Sawos]
 population: 800
@@ -16,5 +14,9 @@ glottolog_family_id: nduu1242
 glottolog_family_name: Ndu
 glottolog_classification: "Ndu > Nuclear Ndu > Sawosic > Koiwat"
 wikipedia_url: "https://en.wikipedia.org/wiki/Koiwat_language"
+translations:
+  - translation_iso: zho
+    name: 科伊瓦特语
+    auto: true
 ---
 Koiwat is one of the Ndu languages of Sepik River region of northern Papua New Guinea.

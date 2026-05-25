@@ -1,8 +1,6 @@
 ---
 iso: tye
 name: Kyanga
-name_zh: 基扬加语
-name_zh_auto: true
 autonym: Tyenga
 alt_names: [Cenka, Kenga, Kyenga, Tienga, Tyanga]
 population: 15000
@@ -16,5 +14,9 @@ glottolog_family_id: mand1469
 glottolog_family_name: Mande
 glottolog_classification: "Mande > Eastern Mande > Bisa-Busa > Samo-Busa > Busan > Kyenga-Shanga > Kyenga"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kyenga_language"
+translations:
+  - translation_iso: zho
+    name: 基扬加语
+    auto: true
 ---
 Kyenga, is a Mande language of Nigeria and Benin. Usage is declining, and the Kyenga are shifting to Hausa in Nigeria and Dendi in Benin.

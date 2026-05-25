@@ -1,8 +1,6 @@
 ---
 iso: smq
 name: Samo
-name_zh: 萨莫语
-name_zh_auto: true
 autonym: Daba
 alt_names: [Nomad, Supei]
 population: 900
@@ -16,6 +14,10 @@ glottolog_family_id: east2433
 glottolog_family_name: East Strickland
 glottolog_classification: "East Strickland > Kubo-Samo-Bibo > Samo"
 wikipedia_url: "https://en.wikipedia.org/wiki/Samo_language_(New_Guinea)"
+translations:
+  - translation_iso: zho
+    name: 萨莫语
+    auto: true
 rolv_dialects:
   - rolv_code: 4533
     language_tag: smq-x-HIS04533

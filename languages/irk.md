@@ -1,7 +1,6 @@
 ---
 iso: irk
 name: Iraqw
-name_zh: 伊拉库语
 autonym: Kángw Iraqw
 alt_names: [Erokh, Iraku, Iraqw hizkuntza, Język iraku, Kiiraqw, Lenga Iraqw, Mbulu, Mbulunge]
 population: 603000
@@ -15,6 +14,11 @@ glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Cushitic > South Cushitic > Greater West Rift South Cushitic > West Rift South Cushitic > Northern West Rift South Cushitic > Iraqwoid > Iraqw"
 wikipedia_url: "https://en.wikipedia.org/wiki/Iraqw_language"
+translations:
+  - translation_iso: jpn
+    name: イラク語
+  - translation_iso: zho
+    name: 伊拉库语
 rolv_dialects:
   - rolv_code: 10935
     language_tag: irk-x-HIS10935

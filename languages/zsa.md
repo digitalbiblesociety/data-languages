@@ -1,8 +1,6 @@
 ---
 iso: zsa
 name: Sarasira
-name_zh: 萨拉西拉语
-name_zh_auto: true
 autonym: Sirasira
 population: 600
 country_id: PG
@@ -14,4 +12,8 @@ glottocode: sara1323
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > North New Guinea linkage > Huon Gulf > Markham > Upper Markham > Mountain Upper Markham > Sarasira"
+translations:
+  - translation_iso: zho
+    name: 萨拉西拉语
+    auto: true
 ---

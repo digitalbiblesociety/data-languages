@@ -1,8 +1,6 @@
 ---
 iso: tka
 name: Truká
-name_zh: 特鲁卡语
-name_zh_auto: true
 autonym: null
 alt_names: [Brazil, Truka]
 population: null
@@ -16,5 +14,9 @@ glottolog_family_id: unat1236
 glottolog_family_name: Unattested
 glottolog_classification: "Unattested > Truká"
 wikipedia_url: "https://en.wikipedia.org/wiki/Truk%C3%A1_language"
+translations:
+  - translation_iso: zho
+    name: 特鲁卡语
+    auto: true
 ---
 Truká is an extinct and unattested, but presumed, language of Brazil. The ethnic population is about 3,200.

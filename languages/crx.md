@@ -1,7 +1,6 @@
 ---
 iso: crx
 name: Carrier
-name_zh: 达凯尔语
 autonym: Dakeł (ᑕᗸᒡ)
 alt_names: [Carrier (Central), Central, Central Carrier, Dakelh, "Dakelh (Nak'albun/Dzinghubun)", Nagailer, Taculli, Upper Carrier]
 population: 9350
@@ -15,6 +14,11 @@ glottolog_family_id: atha1245
 glottolog_family_name: Athabaskan-Eyak-Tlingit
 glottolog_classification: "Athabaskan-Eyak-Tlingit > Athabaskan-Eyak > Athabaskan > Central British Columbia Athabaskan > Carrieric > Dakelh > Central Carrier"
 wikipedia_url: "https://en.wikipedia.org/wiki/Carrier_language"
+translations:
+  - translation_iso: jpn
+    name: キャリア語
+  - translation_iso: zho
+    name: 达凯尔语
 rolv_dialects:
   - rolv_code: 24703
     language_tag: crx-x-HIS24703

@@ -1,8 +1,6 @@
 ---
 iso: nsl
 name: Norwegian Sign Language
-name_zh: 挪威手语
-name_zh_auto: true
 autonym: Norsk tegnspråk
 alt_names: [Norskt teckenspråk]
 population: 4000
@@ -16,6 +14,12 @@ glottolog_family_id: sign1238
 glottolog_family_name: Sign Language
 glottolog_classification: "Sign Language > L1 Sign Language > LSFic > West Scandinavian Sign > Norwegian Sign > Norwegian Sign Language"
 wikipedia_url: "https://en.wikipedia.org/wiki/Norwegian_Sign_Language"
+translations:
+  - translation_iso: jpn
+    name: ノルウェー手話
+  - translation_iso: zho
+    name: 挪威手语
+    auto: true
 rolv_dialects:
   - rolv_code: 20594
     language_tag: nsl-x-HIS20594

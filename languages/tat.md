@@ -1,7 +1,6 @@
 ---
 iso: tat
 name: Tatar
-name_zh: 鞑靼语
 autonym: " تاتار تلی;"
 alt_names: [Bahasa Tatar, Baraba, Baraba Tatar, Idioma tártaro, Język tatarski, Kazan, Limba tătară, Lingua Tatarica, Lingua tatara, Língua tártara, Siberisch-Mahumedische Tatarn, Tartar, "Tata'er", Tataarin kieli, Tataars, Tatar (Baraba), Tatar (Mishar), Tatar (Volga), Tatar de Sibérie, Tatar dili, Tatar tele, Tatar tili, Tatara lingvo, Tatarca, Tatareg, Tatarische Sprache, Tatarisk, Tatarisk språk, Tatariska, Tatariske Sproake, Tatarski jezik, Tataru, Tatarština, Tatár nyelv, Tatárčina, Tatår, Totorių kalba, Tàtar, Tártaro de Siberia, Tártaru, Volga Tatar, Western Tatar, Тæтæйраг æвзаг, Тата́рьскъ ѩꙁꙑ́къ, Татаар тыла, Татаар хэлэн, Татар теле, Татар тілі, Татаронь кель, Татаронь кяль, Татарская мова, Татарски език, Татарски јазик, Татарски језик, Татарский язык, Татарська мова, Тутар чĕлхи, טטרית, تاتار تىلى, تاتارکی, تتارى, زبان تاتاری, لغة تترية, ภาษาตาตาร์, თათრული ენა, タタール語, 鞑靼语, 타타르어]
 population: 5286350
@@ -16,6 +15,17 @@ glottolog_family_id: turk1311
 glottolog_family_name: Turkic
 glottolog_classification: "Turkic > Common Turkic > Kipchak-Turkestan > Kipchak > Northwest Kipchak > North Kipchak > Bashkiric > Tatar"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tatar_language"
+translations:
+  - translation_iso: ara
+    name: التترية
+  - translation_iso: hin
+    name: तातार भाषा
+  - translation_iso: jpn
+    name: タタール語
+  - translation_iso: kor
+    name: 타타르어
+  - translation_iso: zho
+    name: 鞑靼语
 rolv_dialects:
   - rolv_code: 17246
     language_tag: tt-x-HIS17246

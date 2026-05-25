@@ -1,8 +1,6 @@
 ---
 iso: tlu
 name: Tulehu
-name_zh: 图勒胡语
-name_zh_auto: true
 autonym: Northeast Ambon
 population: 18800
 country_id: ID
@@ -15,6 +13,10 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Nunusaku > Piru Bay > East Piru Bay > Solehua > Seram Straits > Ambonic > Northeast Ambon > Tulehu"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tulehu_language"
+translations:
+  - translation_iso: zho
+    name: 图勒胡语
+    auto: true
 rolv_dialects:
   - rolv_code: 17753
     language_tag: tlu-x-HIS17753

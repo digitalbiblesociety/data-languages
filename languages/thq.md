@@ -1,8 +1,6 @@
 ---
 iso: thq
 name: Kochila Tharu
-name_zh: 科奇拉塔鲁语
-name_zh_auto: true
 autonym: Saptariya Tharu
 alt_names: ["Nepal, India", "Tharu, Kochila"]
 population: 258000
@@ -17,6 +15,10 @@ glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Indo-Aryan > Middle-Modern Indo-Aryan > Continental Indo-Aryan > Midlands Indo-Aryan > Shaurasenic > Bihari > Tharuic > Eastern Tharu > Kochila Tharu"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kochila_Tharu"
+translations:
+  - translation_iso: zho
+    name: 科奇拉塔鲁语
+    auto: true
 rolv_dialects:
   - rolv_code: 4245
     language_tag: thq-x-HIS04245

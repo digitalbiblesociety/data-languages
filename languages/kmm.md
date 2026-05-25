@@ -1,8 +1,6 @@
 ---
 iso: kmm
 name: Kom (India)
-name_zh: 科姆语
-name_zh_auto: true
 autonym: Kom Rem
 alt_names: [Kolhreng, Kom]
 population: 15100
@@ -16,6 +14,12 @@ glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Kuki-Chin-Naga > Kuki-Chin > Northwestern Kuki-Chin > Kolhrengic > Nuclear Kolhrengic > Kom (India)"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kom_language_(India)"
+translations:
+  - translation_iso: hin
+    name: कोम भाषा
+  - translation_iso: zho
+    name: 科姆语
+    auto: true
 rolv_dialects:
   - rolv_code: 12161
     language_tag: kmm-x-HIS12161

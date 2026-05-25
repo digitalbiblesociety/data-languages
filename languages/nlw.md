@@ -1,8 +1,6 @@
 ---
 iso: nlw
 name: Walangama
-name_zh: 瓦兰加马语
-name_zh_auto: true
 autonym: Boogoolmurra
 population: null
 country_id: AU
@@ -15,5 +13,9 @@ glottolog_family_id: pama1250
 glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > Paman > Norman Pama > Walangama"
 wikipedia_url: "https://en.wikipedia.org/wiki/Walangama_language"
+translations:
+  - translation_iso: zho
+    name: 瓦兰加马语
+    auto: true
 ---
 Walangama is an extinct Paman language of the Cape York Peninsula, Queensland. It may have been one of the Southern Paman languages, but is poorly attested.

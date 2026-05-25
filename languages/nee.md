@@ -1,8 +1,6 @@
 ---
 iso: nee
 name: "Nêlêmwa-Nixumwak"
-name_zh: 内莱姆瓦-尼克苏姆瓦克语
-name_zh_auto: true
 autonym: "Nêlêmwa-Nixumwak"
 alt_names: [Fwa-Goumak, Koumac, Kumak, Nelemwa, Neukaledonien]
 population: 950
@@ -16,6 +14,10 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Southern Melanesian > New Caledonian > Mainland New Caledonian > Northern New Caledonian > Extreme Northern New Caledonian > Kum-Nel-Yua-Cac > Kum-Nel-Yua > Nêlêmwa-Nixumwak"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kumak_language"
+translations:
+  - translation_iso: zho
+    name: 内莱姆瓦-尼克苏姆瓦克语
+    auto: true
 rolv_dialects:
   - rolv_code: 12456
     language_tag: nee-x-HIS12456

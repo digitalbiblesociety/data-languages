@@ -1,7 +1,6 @@
 ---
 iso: mzt
 name: Mintil
-name_zh: 明蒂尔语
 autonym: " Tanɨm"
 alt_names: [Mitil]
 population: 400
@@ -15,5 +14,8 @@ glottolog_family_id: aust1305
 glottolog_family_name: Austroasiatic
 glottolog_classification: "Austroasiatic > Aslian > Central-Northern Aslian > North Aslian > Maniq-Menraq-Batek > Menraq-Batek > Batekic > Mintil"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mintil_language"
+translations:
+  - translation_iso: zho
+    name: 明蒂尔语
 ---
 Mintil is an Aslian language of Malaysia. It is considered to be a variety of the Batek language.

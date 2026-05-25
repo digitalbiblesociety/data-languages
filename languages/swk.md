@@ -1,8 +1,6 @@
 ---
 iso: swk
 name: Malawi Sena
-name_zh: 马拉维塞纳语
-name_zh_auto: true
 autonym: Chisena
 alt_names: [Cisena, "Sena, Malawi"]
 population: 805000
@@ -15,6 +13,10 @@ glottocode: mala1475
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > East Bantu > Tumbuka-Sena-Nyanja > Sena-Nyanja > Senaic > Malawi Sena"
+translations:
+  - translation_iso: zho
+    name: 马拉维塞纳语
+    auto: true
 rolv_dialects:
   - rolv_code: 27167
     language_tag: swk-x-HIS27167

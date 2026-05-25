@@ -1,7 +1,6 @@
 ---
 iso: tsj
 name: Tshangla
-name_zh: 仓洛语
 autonym: Sharchop
 alt_names: [Canglo Monba, Cangluo Menba, Cangluo Monpa, Central Monpa, Changla, Lenga Tshangla, Lingua Tsangla, Lingua tshangla, Menba, Menba de Motuo, Monpa, Monpa (Central), Motuo Monba, Motuo Monpa, Sangla, Sarchapkkha, Shachobiikha, Shachopkha, Sharchagpakha, Sharchhopkha, Sharchopka, Tchanglaeg, Tsangla, Tsanglo, Tshanglaish, 仓洛语]
 population: 181200
@@ -16,6 +15,13 @@ glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Bodic > Tshanglic > Tshangla"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tshangla_language"
+translations:
+  - translation_iso: hin
+    name: सांगला भाषा
+  - translation_iso: jpn
+    name: ツァンラ語
+  - translation_iso: zho
+    name: 仓洛语
 rolv_dialects:
   - rolv_code: 6342
     language_tag: tsj-x-HIS06342

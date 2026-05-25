@@ -1,8 +1,6 @@
 ---
 iso: lko
 name: Khayo
-name_zh: 卡约语
-name_zh_auto: true
 autonym: Olukhayo
 population: null
 country_id: KE
@@ -15,5 +13,9 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > East Bantu > Northeast Savanna Bantu > Great Lakes Bantu > Greater Luyia > Luyia > Saamia-Wanga-Bukusu > Saamia-Wanga > Western Luyia > Marachi-Khayo > Khayo"
 wikipedia_url: "https://en.wikipedia.org/wiki/Khayo_language"
+translations:
+  - translation_iso: zho
+    name: 卡约语
+    auto: true
 ---
 Khayo (Xaayo) is a Bantu language spoken by the Luhya people of Kenya.

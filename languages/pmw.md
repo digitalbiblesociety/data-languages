@@ -1,8 +1,6 @@
 ---
 iso: pmw
 name: Plains Miwok
-name_zh: 平原米沃克语
-name_zh_auto: true
 autonym: Valley Miwok
 alt_names: [Eastern Division, Miwok, Miwok (Plains), "Miwok, Plains", Plains]
 population: null
@@ -16,5 +14,9 @@ glottolog_family_id: miwo1274
 glottolog_family_name: Miwok-Costanoan
 glottolog_classification: "Miwok-Costanoan > Miwokan > Eastern Miwokan > Plains Miwok"
 wikipedia_url: "https://en.wikipedia.org/wiki/Plains_Miwok_language"
+translations:
+  - translation_iso: zho
+    name: 平原米沃克语
+    auto: true
 ---
 Plains Miwok, also known as Valley Miwok, was one of the Miwok languages spoken in central California by the Plains Miwok people. It was spoken in the deltas of the San Joaquin and Cosumnes Rivers. Plains Miwok was once one of the most populous Miwok languages. All of the population has shifted to English.

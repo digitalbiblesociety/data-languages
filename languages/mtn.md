@@ -1,8 +1,6 @@
 ---
 iso: mtn
 name: Matagalpa
-name_zh: 玛塔加尔帕语
-name_zh_auto: true
 autonym: Pantasmas
 alt_names: [Idioma matagalpa, Matagalpa language area, Pantasma]
 population: null
@@ -16,5 +14,11 @@ glottolog_family_id: misu1242
 glottolog_family_name: Misumalpan
 glottolog_classification: "Misumalpan > Sumalpan > Matagalpan > Matagalpa"
 wikipedia_url: "https://en.wikipedia.org/wiki/Matagalpa_language"
+translations:
+  - translation_iso: jpn
+    name: マタガルパ語
+  - translation_iso: zho
+    name: 玛塔加尔帕语
+    auto: true
 ---
 Matagalpa is an extinct Misumalpan language formerly spoken in the central highlands of Nicaragua.

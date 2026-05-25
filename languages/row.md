@@ -1,8 +1,6 @@
 ---
 iso: row
 name: "Dela-Oenale"
-name_zh: 德拉-欧埃纳莱语
-name_zh_auto: true
 autonym: Western Rote
 alt_names: [Dela, Delha, Oe Nale, Rote, Rote Barat, Roti, Rotinese, Rotti]
 population: 7000
@@ -16,6 +14,10 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Timor-Babar > Rote-Meto > West Rote > Dela-Oenale"
 wikipedia_url: "https://en.wikipedia.org/wiki/Dela%E2%80%93Oenale_language"
+translations:
+  - translation_iso: zho
+    name: 德拉-欧埃纳莱语
+    auto: true
 rolv_dialects:
   - rolv_code: 20631
     language_tag: row-x-HIS20631

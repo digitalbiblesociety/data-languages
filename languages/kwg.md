@@ -1,8 +1,6 @@
 ---
 iso: kwg
 name: Sara Kaba Deme
-name_zh: 萨拉卡巴德梅语
-name_zh_auto: true
 autonym: Kaba Démé
 alt_names: ["Kaba 'Dem", Kaba Deme, Kaba Demi, Sara Kaba Dem, Tà Sàra]
 population: 40000
@@ -16,6 +14,10 @@ glottolog_family_id: cent2225
 glottolog_family_name: Central Sudanic
 glottolog_classification: "Central Sudanic > Sara-Bongo-Bagirmi > SBB Occidental > Nuclear SBB Occidental > Saraic > Sara Peripherique > Barh Keita > Sara-Kaba > Sara Kaba Deme"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kaba_Deme_language"
+translations:
+  - translation_iso: zho
+    name: 萨拉卡巴德梅语
+    auto: true
 rolv_dialects:
   - rolv_code: 11233
     language_tag: kwg-x-HIS11233

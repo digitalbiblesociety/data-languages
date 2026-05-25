@@ -1,8 +1,6 @@
 ---
 iso: hsl
 name: Hausa Sign Language
-name_zh: 豪萨手语
-name_zh_auto: true
 autonym: Kano Sign Language
 alt_names: [Língua Gestual Hausa, Maganar Bebaye, Maganar Hannu]
 population: 20000
@@ -16,5 +14,13 @@ glottolog_family_id: sign1238
 glottolog_family_name: Sign Language
 glottolog_classification: "Sign Language > L1 Sign Language > Hausa Sign Language"
 wikipedia_url: "https://en.wikipedia.org/wiki/Hausa_Sign_Language"
+translations:
+  - translation_iso: hin
+    name: हौसा सांकेतिक भाषा
+  - translation_iso: jpn
+    name: ハウサ手話
+  - translation_iso: zho
+    name: 豪萨手语
+    auto: true
 ---
 Hausa Sign Language is the indigenous sign language of the Deaf community in northern Nigeria.

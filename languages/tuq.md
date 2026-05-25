@@ -1,7 +1,6 @@
 ---
 iso: tuq
 name: Tedaga
-name_zh: 泰达语
 autonym: Tedaga
 alt_names: [Tebou, Tebu, Teda, Tib-bo, Tibbu, Toda, Todaga, Todga, Toubou, Tubu, Tuda, Tudaga, Tū-bu, Тедагаски јазик, لغة التيدا]
 population: 57500
@@ -15,6 +14,13 @@ glottolog_family_id: saha1256
 glottolog_family_name: Saharan
 glottolog_classification: "Saharan > Western Saharan > Tebu > Tedaga"
 wikipedia_url: "https://en.wikipedia.org/wiki/Teda_language"
+translations:
+  - translation_iso: ara
+    name: لغة التيدا
+  - translation_iso: jpn
+    name: テダ語
+  - translation_iso: zho
+    name: 泰达语
 rolv_dialects:
   - rolv_code: 17285
     language_tag: tuq-x-HIS17285

@@ -1,8 +1,6 @@
 ---
 iso: lsa
 name: Lasgerdi
-name_zh: 拉斯格迪语
-name_zh_auto: true
 autonym: Läsgerdi
 alt_names: [Semnani]
 population: 1000
@@ -16,5 +14,11 @@ glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Iranian-Nuristani > Iranian > Central Iranian PBS > Central Iranian PB > Northwestern Iranian > Komisenian > Lasgerdi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Lasgerdi_language"
+translations:
+  - translation_iso: jpn
+    name: ラースゲルド語
+  - translation_iso: zho
+    name: 拉斯格迪语
+    auto: true
 ---
 Lasgerdi is one of the local languages of Semnan Province in northwestern Iran. It is one of the Komisenian languages.

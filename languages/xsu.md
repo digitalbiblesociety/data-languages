@@ -1,8 +1,6 @@
 ---
 iso: xsu
 name: Sanumá
-name_zh: 萨努玛语
-name_zh_auto: true
 autonym: Kohoroxitari
 alt_names: [Chirichano, Guaika, Idioma Sanemá, Samatali, Samatari, Samatli, Sanema, Sanema (Brésil), Sanema (République bolivarienne du Venezuela), Sanemá, Sanemá (Venezuela), Sanima, Sanma, Sanum, Sanuma, Sanɨma, Shiriana, Tsanuma, Xamatari]
 population: 3500
@@ -16,6 +14,10 @@ glottolog_family_id: yano1268
 glottolog_family_name: Yanomamic
 glottolog_classification: "Yanomamic > Sanumá"
 wikipedia_url: "https://en.wikipedia.org/wiki/San%C3%B6ma_language"
+translations:
+  - translation_iso: zho
+    name: 萨努玛语
+    auto: true
 rolv_dialects:
   - rolv_code: 20722
     language_tag: xsu-x-HIS20722

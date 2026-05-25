@@ -1,7 +1,6 @@
 ---
 iso: yiu
 name: Awu
-name_zh: 阿务语
 autonym: Awu
 alt_names: [Lolo, Luowu, Luwu, Yi, "Yi, Awu"]
 population: 20000
@@ -15,6 +14,9 @@ glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Burmo-Qiangic > Lolo-Burmese > Loloish > Ni-Li-Kazhouish > Southeastern Ngwi > Nisoid > Nuclear Nisoid > Southern Awu (Lope)"
 wikipedia_url: "https://en.wikipedia.org/wiki/Lope_language"
+translations:
+  - translation_iso: zho
+    name: 阿务语
 rolv_dialects:
   - rolv_code: 6062
     language_tag: yiu-x-HIS06062

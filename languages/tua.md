@@ -1,8 +1,6 @@
 ---
 iso: tua
 name: Wiarumus
-name_zh: 威亚鲁木斯语
-name_zh_auto: true
 autonym: Mandi
 alt_names: [Imandi]
 population: 460
@@ -16,5 +14,9 @@ glottolog_family_id: nucl1708
 glottolog_family_name: Nuclear Torricelli
 glottolog_classification: "Nuclear Torricelli > Marienberg > Mandi-Muniwara > Wiarumus"
 wikipedia_url: "https://en.wikipedia.org/wiki/Wiarumus_language"
+translations:
+  - translation_iso: zho
+    name: 威亚鲁木斯语
+    auto: true
 ---
 Wiarumus, or Mandi, is a Torricelli language of Papua New Guinea, spoken in a village of just under 500. Only those villagers born before ca. 1940 can speak it. It is spoken in the Mandi village, Turubu Rural LLG, East Sepik Province.

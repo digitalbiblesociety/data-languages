@@ -1,7 +1,6 @@
 ---
 iso: ymi
 name: Moji
-name_zh: 墨几语
 autonym: Muji
 alt_names: [Flathead Phulai, Phula, Phulawa, Pingtou Phula]
 population: 2000
@@ -15,6 +14,9 @@ glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Burmo-Qiangic > Lolo-Burmese > Loloish > Ni-Li-Kazhouish > Southeastern Ngwi > Highland Phula > Muji > Moji"
 wikipedia_url: "https://en.wikipedia.org/wiki/Moji_language"
+translations:
+  - translation_iso: zho
+    name: 墨几语
 rolv_dialects:
   - rolv_code: 27060
     language_tag: ymi-x-HIS27060

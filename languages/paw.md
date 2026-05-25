@@ -1,7 +1,6 @@
 ---
 iso: paw
 name: Pawnee
-name_zh: 波尼語
 autonym: pâri pakûru’
 alt_names: [Grand Pawnee, Paní, Pawnee Cluster, Pawnieg, Proto-Pawnee, Republican Pawnee]
 population: 2500
@@ -15,6 +14,11 @@ glottolog_family_id: cadd1255
 glottolog_family_name: Caddoan
 glottolog_classification: "Caddoan > Northern Caddoan > Pawnee-Kitsai > Pawnee-Arikara > Pawnee"
 wikipedia_url: "https://en.wikipedia.org/wiki/Pawnee_language"
+translations:
+  - translation_iso: jpn
+    name: ポーニー語
+  - translation_iso: zho
+    name: 波尼語
 rolv_dialects:
   - rolv_code: 15567
     language_tag: paw-x-HIS15567

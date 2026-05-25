@@ -1,8 +1,6 @@
 ---
 iso: cbt
 name: Chayahuita
-name_zh: 查亚瓦塔语
-name_zh_auto: true
 autonym: Cahuapana
 alt_names: [Balsapuertino, Balsopuertino, Cahuapa, Chaui, Chawi, Chayabita, Chayawita, Chayawita simi, Chayhuita, Kahuapana, Paranapura, Shawi, Shayabit, Tchayahouiteg, Tsaawí, Tschaahui, Tshaahui]
 population: 14000
@@ -16,6 +14,10 @@ glottolog_family_id: cahu1265
 glottolog_family_name: Cahuapanan
 glottolog_classification: "Cahuapanan > Shawi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Shawi_language"
+translations:
+  - translation_iso: zho
+    name: 查亚瓦塔语
+    auto: true
 rolv_dialects:
   - rolv_code: 8720
     language_tag: cbt-x-HIS08720

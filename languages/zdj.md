@@ -1,8 +1,6 @@
 ---
 iso: zdj
 name: Ngazidja Comorian
-name_zh: 恩加齐迪亚-科莫里亚语
-name_zh_auto: true
 autonym: shikomori/شِكُمُرِ
 alt_names: ["Comorian, Ngazidja", Ngazidja, Shingazidja]
 population: 412000
@@ -16,4 +14,8 @@ glottocode: ngaz1238
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > East Bantu > Northeast Savanna Bantu > Northeast Coastal Bantu > Coastal NEC Bantu > Mijikenda-Pokomo-Comorian > Comorian Bantu > Ngazidja Comorian"
+translations:
+  - translation_iso: zho
+    name: 恩加齐迪亚-科莫里亚语
+    auto: true
 ---

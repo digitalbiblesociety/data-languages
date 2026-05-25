@@ -1,8 +1,6 @@
 ---
 iso: kpd
 name: Koba
-name_zh: 科巴语
-name_zh_auto: true
 autonym: null
 alt_names: [Aru]
 population: 600
@@ -16,6 +14,12 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Aru > Central Aru > Dobel-Koba > Koba"
 wikipedia_url: "https://en.wikipedia.org/wiki/Koba_language"
+translations:
+  - translation_iso: jpn
+    name: コバ語
+  - translation_iso: zho
+    name: 科巴语
+    auto: true
 rolv_dialects:
   - rolv_code: 25867
     language_tag: kpd-x-HIS25867

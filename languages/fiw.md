@@ -1,8 +1,6 @@
 ---
 iso: fiw
 name: Fiwaga
-name_zh: 菲瓦加语
-name_zh_auto: true
 autonym: Fimaga
 alt_names: [Fiwage]
 population: 300
@@ -16,5 +14,9 @@ glottolog_family_id: east2499
 glottolog_family_name: East Kutubu
 glottolog_classification: "East Kutubu > Fiwaga"
 wikipedia_url: "https://en.wikipedia.org/wiki/Fiwaga_language"
+translations:
+  - translation_iso: zho
+    name: 菲瓦加语
+    auto: true
 ---
 Fiwaga is a Papuan language of Papua New Guinea.

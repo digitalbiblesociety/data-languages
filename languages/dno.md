@@ -1,8 +1,6 @@
 ---
 iso: dno
 name: Ndrulo
-name_zh: 恩德鲁洛语
-name_zh_auto: true
 autonym: Northern Lendu
 alt_names: ["Lendu, Northern"]
 population: null
@@ -16,5 +14,9 @@ glottolog_family_id: cent2225
 glottolog_family_name: Central Sudanic
 glottolog_classification: "Central Sudanic > Lenduic > Bale > Ndrulo"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ndrulo_language"
+translations:
+  - translation_iso: zho
+    name: 恩德鲁洛语
+    auto: true
 ---
 Ndrulo, or Northern Lendu, is an ethnolinguistic group of the Democratic Republic of the Congo and Uganda. Ndrukpa speakers call their language Ndrulo.

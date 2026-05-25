@@ -1,8 +1,6 @@
 ---
 iso: sef
 name: Cebaara Senoufo
-name_zh: 塞巴阿拉塞努福语
-name_zh_auto: true
 autonym: Senari
 alt_names: [Senadi, "Senoufo, Cebaara", Senoufou (Cebaara), Syenere, Tara, Tiebaara, Tyebaara Senoufo, Tyebala]
 population: 862000
@@ -17,6 +15,10 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Senufo > Senari"
 wikipedia_url: "https://en.wikipedia.org/wiki/Cebaara_language"
+translations:
+  - translation_iso: zho
+    name: 塞巴阿拉塞努福语
+    auto: true
 rolv_dialects:
   - rolv_code: 2702
     language_tag: sef-x-HIS02702

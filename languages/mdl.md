@@ -1,7 +1,6 @@
 ---
 iso: mdl
 name: Maltese Sign Language
-name_zh: 马耳他手语
 autonym: null
 population: 200
 country_id: MT
@@ -14,5 +13,10 @@ glottolog_family_id: sign1238
 glottolog_family_name: Sign Language
 glottolog_classification: "Sign Language > L1 Sign Language > Maltese Sign Language"
 wikipedia_url: "https://en.wikipedia.org/wiki/Maltese_Sign_Language"
+translations:
+  - translation_iso: jpn
+    name: マルタ手話
+  - translation_iso: zho
+    name: 马耳他手语
 ---
 Maltese Sign Language is a young sign language of Malta.

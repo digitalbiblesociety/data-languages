@@ -1,8 +1,6 @@
 ---
 iso: xuo
 name: Kuo
-name_zh: 库奥语
-name_zh_auto: true
 autonym: Koh
 alt_names: [Ko, Koh (Lakka), Lakka]
 population: 20250
@@ -16,5 +14,9 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Cameroun-Ubangian > Mbumic > Central Mbum > Kuo"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kuo_language"
+translations:
+  - translation_iso: zho
+    name: 库奥语
+    auto: true
 ---
 Kuo is an Mbum language of northern Cameroon and southern Chad.

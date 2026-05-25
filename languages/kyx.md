@@ -1,8 +1,6 @@
 ---
 iso: kyx
 name: Rapoisi
-name_zh: 拉波伊西语
-name_zh_auto: true
 autonym: Rapoisi
 alt_names: [Konua, Kunua]
 population: 3500
@@ -16,5 +14,11 @@ glottolog_family_id: nort2933
 glottolog_family_name: North Bougainville
 glottolog_classification: "North Bougainville > Rapoisi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Rapoisi_language"
+translations:
+  - translation_iso: jpn
+    name: クヌア語
+  - translation_iso: zho
+    name: 拉波伊西语
+    auto: true
 ---
 Konua, also known as Rapoisi, is a language spoken on Bougainville Island in Papua New Guinea.

@@ -1,7 +1,6 @@
 ---
 iso: bgz
 name: Banggai
-name_zh: 邦盖语
 autonym: Aki
 alt_names: [Gagauz]
 population: 88300
@@ -15,6 +14,9 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Celebic > Greater Eastern Celebic > Eastern Celebic > Saluan-Banggai > Eastern Saluan-Banggai > Banggai"
 wikipedia_url: "https://en.wikipedia.org/wiki/Banggai_language"
+translations:
+  - translation_iso: zho
+    name: 邦盖语
 rolv_dialects:
   - rolv_code: 3828
     language_tag: bgz-x-HIS03828

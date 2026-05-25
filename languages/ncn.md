@@ -1,8 +1,6 @@
 ---
 iso: ncn
 name: Nauna
-name_zh: 瑙纳语
-name_zh_auto: true
 autonym: Naune
 alt_names: [Admiralitäts-inseln]
 population: 420
@@ -16,5 +14,9 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Admiralty Islands > Eastern Admiralty Islands > South-East Admiralty > Nauna"
 wikipedia_url: "https://en.wikipedia.org/wiki/Nauna_language"
+translations:
+  - translation_iso: zho
+    name: 瑙纳语
+    auto: true
 ---
 Nauna, or Naune, is an Oceanic language spoken in the single village of Nauna on Nauna Island in Rapatona Rural LLG, Manus Province, Papua New Guinea.

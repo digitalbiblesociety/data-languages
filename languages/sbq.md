@@ -1,8 +1,6 @@
 ---
 iso: sbq
 name: Sileibi
-name_zh: 西莱比语
-name_zh_auto: true
 autonym: Sileibi
 alt_names: [Sirva]
 population: 260
@@ -16,5 +14,9 @@ glottolog_family_id: nucl1709
 glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Madang > Kalamic-South Adelbert > South Adelbert > Sogeram > North Sogeram > Sirva"
 wikipedia_url: "https://en.wikipedia.org/wiki/Sirva_language"
+translations:
+  - translation_iso: zho
+    name: 西莱比语
+    auto: true
 ---
 Sirva, or Sileibi, is a Papuan language of Madang Province, Papua New Guinea.

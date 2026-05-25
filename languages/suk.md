@@ -1,7 +1,6 @@
 ---
 iso: suk
 name: Sukuma
-name_zh: 苏库马语
 autonym: Kɪsukuma
 alt_names: [Kesukuma, Kisukuma]
 population: 8130000
@@ -16,6 +15,17 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > East Bantu > Northeast Savanna Bantu > Sukuma-Nyamwezi (F.20) > Nyamwezic > Sukuma"
 wikipedia_url: "https://en.wikipedia.org/wiki/Sukuma_language"
+translations:
+  - translation_iso: ara
+    name: السوكوما
+  - translation_iso: hin
+    name: सुकुमा
+  - translation_iso: jpn
+    name: スクマ語
+  - translation_iso: kor
+    name: 수쿠마어
+  - translation_iso: zho
+    name: 苏库马语
 rolv_dialects:
   - rolv_code: 16926
     language_tag: suk-x-HIS16926

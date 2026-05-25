@@ -1,8 +1,6 @@
 ---
 iso: arl
 name: Arabela
-name_zh: 阿拉贝拉语
-name_zh_auto: true
 autonym: Tapweyokwaka
 alt_names: [Andoa, Arabela-Andoa, Arabeleg, Chiripuno, Chiripunu, Idioma arabela]
 population: 400
@@ -16,5 +14,11 @@ glottolog_family_id: zapa1251
 glottolog_family_name: Zaparoan
 glottolog_classification: "Zaparoan > Iquito-Arabela > Arabela-Andoa > Arabela"
 wikipedia_url: "https://en.wikipedia.org/wiki/Arabela_language"
+translations:
+  - translation_iso: jpn
+    name: アラベラ語
+  - translation_iso: zho
+    name: 阿拉贝拉语
+    auto: true
 ---
 Arabela is a nearly extinct indigenous American language of the Zaparoan family spoken in two Peruvian villages in tropical forest along the Napo tributary of the Arabela river.

@@ -1,8 +1,6 @@
 ---
 iso: mgj
 name: Abureni
-name_zh: 阿布雷尼语
-name_zh_auto: true
 autonym: Mini
 population: 4000
 country_id: NG
@@ -15,5 +13,9 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Delta Cross > Central Delta > Unclassified Central Delta > Abureni"
 wikipedia_url: "https://en.wikipedia.org/wiki/Abureni_language"
+translations:
+  - translation_iso: zho
+    name: 阿布雷尼语
+    auto: true
 ---
 Abureni is an Ijoid language, a Central Delta language of Nigeria.

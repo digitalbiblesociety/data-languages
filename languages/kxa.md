@@ -1,7 +1,6 @@
 ---
 iso: kxa
 name: Kairiru
-name_zh: 卡瑞鲁语
 autonym: null
 alt_names: [Kairiru language]
 population: 3200
@@ -15,6 +14,9 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > North New Guinea linkage > Schouten linkage > Kairiru-Manam > Kairiruic linkage > Kairiru"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kairiru_language"
+translations:
+  - translation_iso: zho
+    name: 卡瑞鲁语
 rolv_dialects:
   - rolv_code: 30477
     language_tag: kxa-x-HIS30477

@@ -1,8 +1,6 @@
 ---
 iso: bei
 name: "Bekati'"
-name_zh: 贝卡蒂语
-name_zh_auto: true
 autonym: Bakati Nyam
 alt_names: [Bakatiq]
 population: 4000
@@ -16,6 +14,10 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Land Dayak > Benyadu-Bekati > Bakati' > Riuk Bekati'"
 wikipedia_url: "https://en.wikipedia.org/wiki/Bakati%CA%BC_language"
+translations:
+  - translation_iso: zho
+    name: 贝卡蒂语
+    auto: true
 rolv_dialects:
   - rolv_code: 5037
     language_tag: bei-x-HIS05037

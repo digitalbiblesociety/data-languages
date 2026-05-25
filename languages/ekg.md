@@ -1,7 +1,6 @@
 ---
 iso: ekg
 name: Ekari
-name_zh: 伊卡利语
 autonym: Mee
 alt_names: [Ekagi, Kapauku, Kaupaku, Me Mana, Mee Mana, Tapiro]
 population: 100000
@@ -15,6 +14,11 @@ glottolog_family_id: nucl1709
 glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Paniai Lakes > Mee-Wodani > Ekari"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ekari_language"
+translations:
+  - translation_iso: jpn
+    name: エカリ語
+  - translation_iso: zho
+    name: 伊卡利语
 rolv_dialects:
   - rolv_code: 1032
     language_tag: ekg-x-HIS01032

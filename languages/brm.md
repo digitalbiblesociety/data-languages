@@ -1,7 +1,6 @@
 ---
 iso: brm
 name: Barambu
-name_zh: 巴兰布语
 autonym: Abarambo
 alt_names: [Amiangba, Amiangbwa, Balambu, Baramba, Barambo, Duga]
 population: 25600
@@ -15,6 +14,9 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Cameroun-Ubangian > Ubangi > Zandic > Barambo-Pambia > Barambu"
 wikipedia_url: "https://en.wikipedia.org/wiki/Barambu_language"
+translations:
+  - translation_iso: zho
+    name: 巴兰布语
 ---
 Barambu is Zande language spoken in the northeast of the Democratic Republic of the Congo.
 It is spoken by the Barambu people.

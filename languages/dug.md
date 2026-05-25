@@ -1,8 +1,6 @@
 ---
 iso: dug
 name: Duruma
-name_zh: 杜鲁玛语
-name_zh_auto: true
 autonym: null
 alt_names: [Chiduruma]
 population: 555000
@@ -15,4 +13,8 @@ glottocode: duru1249
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > East Bantu > Northeast Savanna Bantu > Northeast Coastal Bantu > Coastal NEC Bantu > Mijikenda-Pokomo-Comorian > Mijikenda > Northern Mijikenda > Duruma"
+translations:
+  - translation_iso: zho
+    name: 杜鲁玛语
+    auto: true
 ---

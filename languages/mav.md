@@ -1,8 +1,6 @@
 ---
 iso: mav
 name: "Sateré-Mawé"
-name_zh: 萨特雷-马韦语
-name_zh_auto: true
 autonym: Sataré
 alt_names: [Andira, Andirá, Arapium, Mabue, Maragua, Maue, Maué, Mawé, Mawé-Sateré, Satere-Mawe, Sateré]
 population: 6220
@@ -16,5 +14,9 @@ glottolog_family_id: tupi1275
 glottolog_family_name: Tupian
 glottolog_classification: "Tupian > Eastern Tupian > Maweti-Guarani > Sateré-Mawé"
 wikipedia_url: "https://en.wikipedia.org/wiki/Maw%C3%A9_language"
+translations:
+  - translation_iso: zho
+    name: 萨特雷-马韦语
+    auto: true
 ---
 The Mawé language of Brazil, also known as Sateré, is one of the Tupian languages. It is spoken by 7,000 Mawé people, many of them monolingual.

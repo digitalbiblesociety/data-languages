@@ -1,8 +1,6 @@
 ---
 iso: tgq
 name: Tring
-name_zh: 特林语
-name_zh_auto: true
 autonym: null
 alt_names: [Malaysia]
 population: 550
@@ -16,5 +14,9 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > North Borneo Malayo-Polynesian > North Sarawakan > Dayic > Tring"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tring_language"
+translations:
+  - translation_iso: zho
+    name: 特林语
+    auto: true
 ---
 Tring is one of the languages of Borneo, in Sarawak, Malaysia. Ethnologue classifies the language as threatened.

@@ -1,7 +1,6 @@
 ---
 iso: ium
 name: Iu Mien
-name_zh: 勉方言
 autonym: Iu Mienh
 alt_names: ["\"Dong\"", "\"Mán\"", "\"Trai\"", "\"Xá\"", Ban Yao, Dao Do, Dao Thanh Phan, Dìu, Highland Yao, Język mien, Kim Mien, Lenga iu mien, Man, Mian, Mien, "Mien, Iu", Mjen, Myen, Pan Yao, Red Dao, Red Dao    Pan, Yao, Yao Kimmien, Yao Ogang, Yiu Mien, Youmian, Yu Mien, Яо, ヤオ語, 优勉土语]
 population: 383000
@@ -15,6 +14,13 @@ glottolog_family_id: hmon1336
 glottolog_family_name: Hmong-Mien
 glottolog_classification: "Hmong-Mien > Mienic > Mien-Mun > Iu Mien"
 wikipedia_url: "https://en.wikipedia.org/wiki/Iu_Mien_language"
+translations:
+  - translation_iso: jpn
+    name: ヤオ語
+  - translation_iso: kor
+    name: 유몐어
+  - translation_iso: zho
+    name: 勉方言
 rolv_dialects:
   - rolv_code: 6049
     language_tag: ium-x-HIS06049

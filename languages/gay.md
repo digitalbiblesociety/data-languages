@@ -1,7 +1,6 @@
 ---
 iso: gay
 name: Gayo
-name_zh: 加约语
 autonym: Basa Gayo
 alt_names: [Bahasa Gayo, Gaja lingvo, Gajo, Gayo jezik, Lenga Gayo, ภาษากาโย]
 population: 337000
@@ -16,6 +15,17 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Sumatran > Gayo"
 wikipedia_url: "https://en.wikipedia.org/wiki/Gayo_language"
+translations:
+  - translation_iso: ara
+    name: الجايو
+  - translation_iso: hin
+    name: गायो
+  - translation_iso: jpn
+    name: ガヨ語
+  - translation_iso: kor
+    name: 가요어
+  - translation_iso: zho
+    name: 加约语
 rolv_dialects:
   - rolv_code: 10074
     language_tag: gay-x-HIS10074

@@ -1,7 +1,6 @@
 ---
 iso: nmb
 name: Big Nambas
-name_zh: Big Nambas語
 autonym: "V'ənen Taut"
 alt_names: [Mallicolo, Nambas (Big), "Nambas, Big", "V'ënen Taut"]
 population: 3350
@@ -15,6 +14,11 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > North and Central Vanuatu > Central Vanuatu > Malakula > Western Malakula linkage > Peripheral Western Malakula > Northwestern Malakula > Big Nambas"
 wikipedia_url: "https://en.wikipedia.org/wiki/Big_Nambas_language"
+translations:
+  - translation_iso: jpn
+    name: ビッグナンバス語
+  - translation_iso: zho
+    name: Big Nambas語
 rolv_dialects:
   - rolv_code: 4713
     language_tag: nmb-x-HIS04713

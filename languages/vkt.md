@@ -1,8 +1,6 @@
 ---
 iso: vkt
 name: Tenggarong Kutai Malay
-name_zh: 滕加隆库塔伊马来语
-name_zh_auto: true
 autonym: Kutai
 alt_names: [Malay, Malay (Tenggarong Kutai), "Malay, Tenggarong Kutai", Tenggarong]
 population: 210000
@@ -15,6 +13,12 @@ glottocode: teng1267
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Malayo-Chamic > Malayic > Nuclear Malayic > Greater Riau-Johoric > Tenggarong Kutai Malay"
+translations:
+  - translation_iso: jpn
+    name: テンガロン・クタイ・マレー語
+  - translation_iso: zho
+    name: 滕加隆库塔伊马来语
+    auto: true
 rolv_dialects:
   - rolv_code: 13431
     language_tag: vkt-x-HIS13431

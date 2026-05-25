@@ -1,8 +1,6 @@
 ---
 iso: dtr
 name: Lotud
-name_zh: 洛图德语
-name_zh_auto: true
 autonym: Dusun Lotud
 alt_names: [Latod, Latud, Suang Lotud, Tuaran Dusun]
 population: 5000
@@ -16,6 +14,10 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > North Borneo Malayo-Polynesian > Sabahan > Southwest Sabahan > Greater Dusunic > Bisaya-Lotud > Lotud"
 wikipedia_url: "https://en.wikipedia.org/wiki/Lotud_language"
+translations:
+  - translation_iso: zho
+    name: 洛图德语
+    auto: true
 rolv_dialects:
   - rolv_code: 24863
     language_tag: dtr-x-HIS24863

@@ -1,8 +1,6 @@
 ---
 iso: wmh
 name: "Waima'a"
-name_zh: 瓦伊玛语
-name_zh_auto: true
 autonym: "Uai Ma'a"
 alt_names: ["Uaimo'a", Vaimaa, Waimaha, Waimoa, Waimoa language]
 population: 3000
@@ -16,5 +14,9 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Timor-Babar > Eastern Timor > Kawaimina > Waima'a"
 wikipedia_url: "https://en.wikipedia.org/wiki/Waimoa_language"
+translations:
+  - translation_iso: zho
+    name: 瓦伊玛语
+    auto: true
 ---
 Waimoa or Waimaʼa is a language spoken by about 27,000 Waimoa people in northeast East Timor. Waimoa proper is reported to be mutually intelligible with neighboring Kairui and Midiki, which together have about 5,000 speakers.

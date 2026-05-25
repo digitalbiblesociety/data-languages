@@ -1,8 +1,6 @@
 ---
 iso: xbr
 name: Kambera
-name_zh: 坎贝拉语
-name_zh_auto: true
 autonym: East Sumbanese
 alt_names: [East Sumba, Hilu Humba, Humba, Kamberaas, Oost-Sumbaas, Sumba, Sumbanese, Sumbanese (East), ภาษากัมเบอรา]
 population: 240000
@@ -16,6 +14,12 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Bima-Lembata > Sumba-Hawu > Sumba > Central-East Sumbanese > Kambera"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kambera_language"
+translations:
+  - translation_iso: jpn
+    name: カンベラ
+  - translation_iso: zho
+    name: 坎贝拉语
+    auto: true
 rolv_dialects:
   - rolv_code: 11469
     language_tag: xbr-x-HIS11469

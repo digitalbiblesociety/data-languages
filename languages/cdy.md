@@ -1,7 +1,6 @@
 ---
 iso: cdy
 name: Chadong
-name_zh: 茶洞語
 autonym: Cha Dong
 population: 20000
 country_id: CN
@@ -14,5 +13,8 @@ glottolog_family_id: taik1256
 glottolog_family_name: Tai-Kadai
 glottolog_classification: "Tai-Kadai > Kam-Tai > Kam-Sui > Then-MMS > Maonan-Mak-Sui > Maonan-Chadong > Chadong"
 wikipedia_url: "https://en.wikipedia.org/wiki/Chadong_language"
+translations:
+  - translation_iso: zho
+    name: 茶洞語
 ---
 The Chadong language is a Kam–Sui language spoken mainly in Chadong Township, Lingui County, Guilin, northeastern Guangxi, China. It is most closely related to the Maonan language. Chadong has only been recently described by Chinese linguist Jinfang Li in the 1990s and 2000s.

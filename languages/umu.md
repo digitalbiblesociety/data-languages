@@ -1,7 +1,6 @@
 ---
 iso: umu
 name: Munsee
-name_zh: 文西語
 autonym: Huluníixsuwaakan
 alt_names: [Canadian Delaware, Delaware, Munsee (Canada), Munsee Delaware, Ontario Delaware, Unami, Unamí (Estados Unidos)]
 population: 400
@@ -15,5 +14,10 @@ glottolog_family_id: algi1248
 glottolog_family_name: Algic
 glottolog_classification: "Algic > Algonquian-Blackfoot > Algonquian > Eastern Algonquian > Delawaran > Common Delaware > Munsee"
 wikipedia_url: "https://en.wikipedia.org/wiki/Munsee_language"
+translations:
+  - translation_iso: jpn
+    name: マンシー語
+  - translation_iso: zho
+    name: 文西語
 ---
 Munsee is an endangered language of the Eastern Algonquian subgroup of the Algonquian language family, itself a branch of the Algic language family. Munsee is one of two Delaware languages. It is very closely related to the Unami Delaware, but the two are sufficiently different that they are considered separate languages. Munsee was spoken aboriginally by Lenape in the vicinity of the modern New York City area in the United States, including western Long Island, Manhattan Island, Staten Island, as well as adjacent areas on the mainland: southeastern New York State, the northern third of New Jersey, and northeastern Pennsylvania.

@@ -1,7 +1,6 @@
 ---
 iso: tsu
 name: Tsou
-name_zh: 邹语
 autonym: Tsou
 alt_names: [Cou, Namakaban, Niitaka, Sprache von Formosa, Tibola, Tibolah, Tibolak, Tibolal, Tso, Tsoo, Tsou-ngî, Tsu-U, Tsu-Wo, Tsuou, Tzo, ツォウ語, 鄒語]
 population: 2127
@@ -15,6 +14,13 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Tsouic > Tsou"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tsou_language"
+translations:
+  - translation_iso: jpn
+    name: ツォウ語
+  - translation_iso: kor
+    name: 초우어
+  - translation_iso: zho
+    name: 邹语
 rolv_dialects:
   - rolv_code: 17683
     language_tag: tsu-x-HIS17683

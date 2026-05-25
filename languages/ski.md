@@ -1,7 +1,6 @@
 ---
 iso: ski
 name: Sika
-name_zh: 西卡語
 autonym: Krowe
 alt_names: [Maumere, Sara Sikka, Sikka, Sikka u. Tettun, Sikkanese]
 population: 175000
@@ -15,6 +14,9 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Bima-Lembata > Flores > Flores-Lembata > Sika"
 wikipedia_url: "https://en.wikipedia.org/wiki/Sikka_language"
+translations:
+  - translation_iso: zho
+    name: 西卡語
 rolv_dialects:
   - rolv_code: 16693
     language_tag: ski-x-HIS16693

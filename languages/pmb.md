@@ -1,7 +1,6 @@
 ---
 iso: pmb
 name: Pambia
-name_zh: 潘比亞語
 autonym: Apambia
 population: 21000
 country_id: CD
@@ -14,5 +13,8 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Cameroun-Ubangian > Ubangi > Zandic > Barambo-Pambia > Pambia"
 wikipedia_url: "https://en.wikipedia.org/wiki/Pambia_language"
+translations:
+  - translation_iso: zho
+    name: 潘比亞語
 ---
 Pambia (Apambia) is a Zande language spoken in the northeast of the Democratic Republic of the Congo.

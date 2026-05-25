@@ -1,7 +1,6 @@
 ---
 iso: hmj
 name: Ge
-name_zh: ⿰亻革家话
 autonym: " Zhong'an River Miao"
 alt_names: [Abefang, Beba-Befang, Befang, Bifang, "Chong'anjiang Miao", Gejia, Hmo, Hmong, "Hmong, Chonganjiang", Hmung, Hsiung, Hunan Miao, Miao]
 population: 60000
@@ -15,6 +14,11 @@ glottolog_family_id: hmon1336
 glottolog_family_name: Hmong-Mien
 glottolog_classification: "Hmong-Mien > Hmongic > Nuclear Hmongic-Ho Ne > Nuclear Hmongic > West Hmongic > Greater Chuanqiandian > Ge"
 wikipedia_url: "https://en.wikipedia.org/wiki/Gejia_language"
+translations:
+  - translation_iso: jpn
+    name: 革家語
+  - translation_iso: zho
+    name: ⿰亻革家话
 rolv_dialects:
   - rolv_code: 6060
     language_tag: hmj-x-HIS06060

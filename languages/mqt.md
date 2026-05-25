@@ -1,7 +1,6 @@
 ---
 iso: mqt
 name: Mok
-name_zh: 莫克语
 autonym: Amok
 alt_names: [Angku, Hsen-Hsum, Man Met, Manmi, Manmit, Mojo, Moxo, Tai Loi, Yā-āng Lawa, i-Mok, Āng-kú]
 population: 4700
@@ -15,5 +14,8 @@ glottolog_family_id: aust1305
 glottolog_family_name: Austroasiatic
 glottolog_classification: "Austroasiatic > Khasi-Palaung > Palaungic > East Palaungic > Angkuic > Southern Angkuic > Mok"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mok_language"
+translations:
+  - translation_iso: zho
+    name: 莫克语
 ---
 Mok, also known as Amok, Hsen-Hsum, and Muak, is an Angkuic language or dialect cluster spoken in Shan State, Myanmar

@@ -1,8 +1,6 @@
 ---
 iso: kyk
 name: Kamayo
-name_zh: 卡马约语
-name_zh_auto: true
 autonym: Davaweño
 alt_names: [Korean Sign Language]
 population: 153000
@@ -16,6 +14,10 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Greater Central Philippine > Central Philippine > Mansakan > Kamayo"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kamayo_language"
+translations:
+  - translation_iso: zho
+    name: 卡马约语
+    auto: true
 rolv_dialects:
   - rolv_code: 11458
     language_tag: kyk-x-HIS11458

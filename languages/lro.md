@@ -1,8 +1,6 @@
 ---
 iso: lro
 name: Laro
-name_zh: 拉罗语
-name_zh_auto: true
 autonym: Laru
 alt_names: [Aaleira, Ngwullaro, Yillaro]
 population: 40000
@@ -16,6 +14,10 @@ glottolog_family_id: heib1242
 glottolog_family_name: Heibanic
 glottolog_classification: "Heibanic > West-Central Heibanic > Central Heibanic > Ebang-Logol > Ebang-Laru > Laru (North Sudan)"
 wikipedia_url: "https://en.wikipedia.org/wiki/Laro_language"
+translations:
+  - translation_iso: zho
+    name: 拉罗语
+    auto: true
 rolv_dialects:
   - rolv_code: 1978
     language_tag: lro-x-HIS01978

@@ -1,7 +1,6 @@
 ---
 iso: sce
 name: Dongxiang
-name_zh: 东乡语
 autonym: لھجکءاءل
 alt_names: [Bahasa Dongxiang, Bahsa Dongxiang, Dongchiangeg, Dongxiangca, Donxiang, Dunshan, Dunsyan, Język santyjski, Santa, Tsung-hsiang, Tung, Tunghsiang, Дунсијански јазик, Дунсянский язык, دۇڭشياڭ تىلى, 东乡语, 東鄉語]
 population: 200000
@@ -15,6 +14,13 @@ glottolog_family_id: mong1349
 glottolog_family_name: Mongolic-Khitan
 glottolog_classification: "Mongolic-Khitan > Mongolic > Southern Periphery Mongolic > Shirongol > Baoanic > Dongxiang"
 wikipedia_url: "https://en.wikipedia.org/wiki/Santa_language"
+translations:
+  - translation_iso: jpn
+    name: サンタ語
+  - translation_iso: kor
+    name: 둥샹어
+  - translation_iso: zho
+    name: 东乡语
 rolv_dialects:
   - rolv_code: 9399
     language_tag: sce-x-HIS09399

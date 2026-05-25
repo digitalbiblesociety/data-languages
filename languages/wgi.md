@@ -1,7 +1,6 @@
 ---
 iso: wgi
 name: Wahgi
-name_zh: 瓦基語
 autonym: Mid Wahgi
 alt_names: [North Wahgi]
 population: 39000
@@ -15,6 +14,11 @@ glottolog_family_id: nucl1709
 glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Chimbu-Wahgi > Wahgic > Wahgi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Wahgi_language"
+translations:
+  - translation_iso: jpn
+    name: ワギ語
+  - translation_iso: zho
+    name: 瓦基語
 rolv_dialects:
   - rolv_code: 4105
     language_tag: wgi-x-HIS04105

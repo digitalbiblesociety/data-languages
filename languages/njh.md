@@ -1,8 +1,6 @@
 ---
 iso: njh
 name: Lotha Naga
-name_zh: 洛撒纳加语
-name_zh_auto: true
 autonym: Chizima
 alt_names: [Choimi, Hlota, Kantsii, Kyon, Kyong, Kyontsü, Kyõ, Lhota, Lota, Lotaeg, Lotha, Lotha language, Lutha, Miklai, Naga, Naga (Lotha), "Naga, Lotha", "Naga,Lotha", Tsindir, Tsontsii, Tsōntsü, ภาษาโลทา]
 population: 179000
@@ -16,6 +14,14 @@ glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Kuki-Chin-Naga > Angami-Ao > Central Naga > Lotha Naga"
 wikipedia_url: "https://en.wikipedia.org/wiki/Lotha_language"
+translations:
+  - translation_iso: hin
+    name: लोथा भाषा
+  - translation_iso: jpn
+    name: ロタ・ナガ語
+  - translation_iso: zho
+    name: 洛撒纳加语
+    auto: true
 rolv_dialects:
   - rolv_code: 14558
     language_tag: njh-x-HIS14558

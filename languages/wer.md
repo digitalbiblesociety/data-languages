@@ -1,8 +1,6 @@
 ---
 iso: wer
 name: Weri
-name_zh: 韦里语
-name_zh_auto: true
 autonym: null
 alt_names: [Biaru]
 population: 6900
@@ -15,4 +13,8 @@ glottocode: weri1253
 glottolog_family_id: kuni1270
 glottolog_family_name: Kunimaipan
 glottolog_classification: "Kunimaipan > Weric > Weri"
+translations:
+  - translation_iso: zho
+    name: 韦里语
+    auto: true
 ---

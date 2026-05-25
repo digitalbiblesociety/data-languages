@@ -1,8 +1,6 @@
 ---
 iso: gdg
 name: "Ga'dang"
-name_zh: 加当语
-name_zh_auto: true
 autonym: Gaddang
 alt_names: [Baliwon, Ginabwal]
 population: 6000
@@ -16,5 +14,9 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Northern Luzon > Cagayan Valley > Ibanagic > Gaddangic > Cagayan-Baliwon Gaddang > Ga'dang"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ga%27dang_language"
+translations:
+  - translation_iso: zho
+    name: 加当语
+    auto: true
 ---
 Ga'dang or Gâdang is an Austronesian language spoken in Northern Luzon, Philippines particularly in Paracelis, Mountain Province, Luzon; Alfonso Lista, Ifugao; and Tabuk, Kalinga. There are some residents of speakers in Aurora and Nueva Vizcaya. Many Ga'dang speakers speak Ilocano as their second language.

@@ -1,7 +1,6 @@
 ---
 iso: tpo
 name: Tai Pao
-name_zh: 傣包语
 autonym: Tai Hang Tong
 alt_names: ["T'ien-pao", Tien-pao]
 population: 3300
@@ -15,6 +14,11 @@ glottolog_family_id: taik1256
 glottolog_family_name: Tai-Kadai
 glottolog_classification: "Tai-Kadai > Kam-Tai > Daic-Beic > Daic > Central-Southwestern Tai > Wenma-Southwestern Tai > Sapa-Southwestern Tai > Southwestern Tai > Southwestern Tai P > Chiang Saeng > Red Tai > Tai Muong > Tai Pao"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tai_Pao_language"
+translations:
+  - translation_iso: jpn
+    name: タイ・パオ語
+  - translation_iso: zho
+    name: 傣包语
 rolv_dialects:
   - rolv_code: 17056
     language_tag: tpo-x-HIS17056

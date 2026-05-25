@@ -1,8 +1,6 @@
 ---
 iso: bfl
 name: "Banda-Ndélé"
-name_zh: 班达-恩德莱语
-name_zh_auto: true
 autonym: Banda of Ndélé
 alt_names: [Banda, Banda-Ndele, Nyele]
 population: 35500
@@ -15,6 +13,10 @@ glottocode: band1345
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Cameroun-Ubangian > Ubangi > Ubangi Ka > Bandaic > Nuclear Bandaic > Central Bandaic > Core Central Bandaic > Banda-Ndélé"
+translations:
+  - translation_iso: zho
+    name: 班达-恩德莱语
+    auto: true
 rolv_dialects:
   - rolv_code: 7703
     language_tag: bfl-x-HIS07703

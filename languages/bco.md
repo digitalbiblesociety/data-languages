@@ -1,8 +1,6 @@
 ---
 iso: bco
 name: Kaluli
-name_zh: 卡卢利语
-name_zh_auto: true
 autonym: Bosavi
 population: 3100
 country_id: PG
@@ -15,6 +13,10 @@ glottolog_family_id: bosa1245
 glottolog_family_name: Bosavi
 glottolog_classification: "Bosavi > Bosavi Watershed > Kaluli-Sunia > Kaluli"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kaluli_language"
+translations:
+  - translation_iso: zho
+    name: 卡卢利语
+    auto: true
 rolv_dialects:
   - rolv_code: 11431
     language_tag: bco-x-HIS11431

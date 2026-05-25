@@ -1,7 +1,6 @@
 ---
 iso: hne
 name: Chhattisgarhi
-name_zh: 切蒂斯格尔语
 autonym: छत्तीसगढ़ी
 alt_names: [Chhatisgarhi, Idioma chatisgarí, Język ćhattisgarhi, Khaltahi, Khatahi, Laria, Lenga chhattisgarhi, Lingua Chattisgarhi, Tchatisgarheg, Tsjhattisgarhi, சட்டிஸ்காரி மொழி, ภาษาฉัตติสครห์, チャッティースガリー語]
 population: 16300000
@@ -16,6 +15,17 @@ glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Indo-Aryan > Middle-Modern Indo-Aryan > Continental Indo-Aryan > Midlands Indo-Aryan > Shaurasenic > Eastern Hindi > Chhattisgarhi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Chhattisgarhi_language"
+translations:
+  - translation_iso: ara
+    name: تشهاتيسجارية
+  - translation_iso: hin
+    name: छत्तीसगढ़ी
+  - translation_iso: jpn
+    name: チャッティースガリー語
+  - translation_iso: kor
+    name: 차티스가르어
+  - translation_iso: zho
+    name: 切蒂斯格尔语
 rolv_dialects:
   - rolv_code: 3212
     language_tag: hne-x-HIS03212

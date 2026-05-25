@@ -1,8 +1,6 @@
 ---
 iso: byx
 name: Qaqet
-name_zh: 卡克特语
-name_zh_auto: true
 autonym: Baining
 alt_names: [Kakat, Makakat, Maqaqet, Neu-Pommern]
 population: 6350
@@ -16,5 +14,11 @@ glottolog_family_id: bain1263
 glottolog_family_name: Baining
 glottolog_classification: "Baining > Qaqet"
 wikipedia_url: "https://en.wikipedia.org/wiki/Qaqet_language"
+translations:
+  - translation_iso: jpn
+    name: バイニン語
+  - translation_iso: zho
+    name: 卡克特语
+    auto: true
 ---
 Qaqet, or Baining, is a non-Austronesian language from the Baining family spoken in East New Britain Province on the island of New Britain, Papua New Guinea.

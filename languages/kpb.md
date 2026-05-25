@@ -1,8 +1,6 @@
 ---
 iso: kpb
 name: Mullu Kurumba
-name_zh: 穆卢库鲁姆巴语
-name_zh_auto: true
 autonym: null
 alt_names: [India, "Kurumba, Mullu"]
 population: 1000
@@ -16,6 +14,10 @@ glottolog_family_id: drav1251
 glottolog_family_name: Dravidian
 glottolog_classification: "Dravidian > South Dravidian > South Dravidian I > Tamil-Kannada > Tamil-Kota > Tamil-Toda > Tamil-Irula > Tamil-Kodagu > Tamil-Malayalam > Malayalamoid > Mullu Kurumba"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mullu_Kurumba_language"
+translations:
+  - translation_iso: zho
+    name: 穆卢库鲁姆巴语
+    auto: true
 rolv_dialects:
   - rolv_code: 4069
     language_tag: kpb-x-HIS04069

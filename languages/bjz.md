@@ -1,8 +1,6 @@
 ---
 iso: bjz
 name: Baruga
-name_zh: 巴鲁加语
-name_zh_auto: true
 autonym: Bareji
 population: 2230
 country_id: PG
@@ -15,6 +13,10 @@ glottolog_family_id: nucl1709
 glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Greater Binanderean > Binanderean > Nuclear Binanderean > South Binanderean > Coastal Binanderean > Baruga-Doghoro > Baruga"
 wikipedia_url: "https://en.wikipedia.org/wiki/Baruga_language"
+translations:
+  - translation_iso: zho
+    name: 巴鲁加语
+    auto: true
 rolv_dialects:
   - rolv_code: 7790
     language_tag: bjz-x-HIS07790

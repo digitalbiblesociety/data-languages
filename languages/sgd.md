@@ -1,7 +1,6 @@
 ---
 iso: sgd
 name: Surigaonon
-name_zh: 蘇里高農語
 autonym: Tandaganon
 population: 500000
 country_id: PH
@@ -14,6 +13,13 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Greater Central Philippine > Central Philippine > Bisayan > South Bisayan > Surigao > Surigaonon"
 wikipedia_url: "https://en.wikipedia.org/wiki/Surigaonon_language"
+translations:
+  - translation_iso: jpn
+    name: スリガオノン語
+  - translation_iso: kor
+    name: 수리가오논어
+  - translation_iso: zho
+    name: 蘇里高農語
 rolv_dialects:
   - rolv_code: 4906
     language_tag: sgd-x-HIS04906

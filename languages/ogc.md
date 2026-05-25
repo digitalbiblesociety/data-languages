@@ -1,8 +1,6 @@
 ---
 iso: ogc
 name: Ogbah
-name_zh: 奥格巴语
-name_zh_auto: true
 autonym: Ogba
 alt_names: [Ogba language]
 population: 317000
@@ -16,6 +14,10 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Igboid > Nuclear Igboid > Ogbah"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ogba_language"
+translations:
+  - translation_iso: zho
+    name: 奥格巴语
+    auto: true
 rolv_dialects:
   - rolv_code: 15234
     language_tag: ogc-x-HIS15234

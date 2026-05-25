@@ -1,7 +1,6 @@
 ---
 iso: gbm
 name: Garhwali
-name_zh: 嘉华语
 autonym: गढ़वळि
 alt_names: [Bangani, Bhōṭiā of Garhwal, Gadhavali, Gadhawala, Gadwahi, Garhvali, Garhválština, Garhwal, Gashwali, Girwali, Godauli, Gorwali, Gurvali, Język garhwali, Lingua Garhvali, Pahari Garhwali, Ґархвалі, गढ़वाली भाषा, ガルワーリー語]
 population: 2480000
@@ -16,6 +15,15 @@ glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Indo-Aryan > Middle-Modern Indo-Aryan > Continental Indo-Aryan > Midlands Indo-Aryan > Indo-Aryan Northern zone > Central Pahari > Garhwali"
 wikipedia_url: "https://en.wikipedia.org/wiki/Garhwali_language"
+translations:
+  - translation_iso: hin
+    name: गढ़वाली
+  - translation_iso: jpn
+    name: ガルワーリー語
+  - translation_iso: kor
+    name: 가르왈어
+  - translation_iso: zho
+    name: 嘉华语
 rolv_dialects:
   - rolv_code: 756
     language_tag: gbm-x-HIS00756

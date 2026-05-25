@@ -1,8 +1,6 @@
 ---
 iso: mtd
 name: Mualang
-name_zh: 穆阿朗语
-name_zh_auto: true
 autonym: Mualang
 alt_names: [Indonesia]
 population: 40000
@@ -16,6 +14,10 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Malayo-Chamic > Malayic > Ibanic > Iban-Mualang-Seberuang > Mualang"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mualang_language"
+translations:
+  - translation_iso: zho
+    name: 穆阿朗语
+    auto: true
 rolv_dialects:
   - rolv_code: 4875
     language_tag: mtd-x-HIS04875

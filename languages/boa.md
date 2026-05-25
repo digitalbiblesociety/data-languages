@@ -1,7 +1,6 @@
 ---
 iso: boa
 name: Bora
-name_zh: 博拉語
 autonym: Meamuyna
 alt_names: [Bora Miranya, Bora simi, Bora-Miranya, Boraeg, Boro, Idioma bora, Imihita, Miranha, Miranya, Miraña (Brésil), Miraña (Colombia), Miraña (Colombie), Miriña, 𐌱𐍉𐍂𐍉𐍂𐌰𐌶𐌳𐌰]
 population: 1350
@@ -15,6 +14,13 @@ glottolog_family_id: bora1262
 glottolog_family_name: Boran
 glottolog_classification: "Boran > Bora"
 wikipedia_url: "https://en.wikipedia.org/wiki/Bora_language"
+translations:
+  - translation_iso: jpn
+    name: ボラ語
+  - translation_iso: kor
+    name: 보라어
+  - translation_iso: zho
+    name: 博拉語
 rolv_dialects:
   - rolv_code: 3311
     language_tag: boa-x-HIS03311

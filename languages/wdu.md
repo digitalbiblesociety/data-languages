@@ -1,8 +1,6 @@
 ---
 iso: wdu
 name: Wadjigu
-name_zh: 瓦吉古语
-name_zh_auto: true
 autonym: Southern Maric
 alt_names: [Maudalgo, Wadja, Wadjainggo, Wadju, Wadya, Waindjago, Wainggo, Wainjago, Wainjigo, Watjigu]
 population: null
@@ -15,4 +13,8 @@ glottocode: wadj1255
 glottolog_family_id: pama1250
 glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > Greater Maric > Guwa-Maric > Maric > Southern Maric > Wadjigu"
+translations:
+  - translation_iso: zho
+    name: 瓦吉古语
+    auto: true
 ---

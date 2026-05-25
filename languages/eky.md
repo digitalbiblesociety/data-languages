@@ -1,8 +1,6 @@
 ---
 iso: eky
 name: Eastern Kayah
-name_zh: 东凯伦语
-name_zh_auto: true
 autonym: Kayah
 alt_names: [E Kayah, Eastern, Eastern Kayah Li, Karen (Red), Karenni, Karennyi, Kaya, Kayah Li, Kayah Li (Eastern), "Kayah, Eastern", "Kayah,Eastern", Kayay, Red Karen]
 population: 26000
@@ -16,6 +14,10 @@ glottocode: east2342
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Karenic > Central Karen > Kayah-Yintale > Kayah > Eastern Kayah"
+translations:
+  - translation_iso: zho
+    name: 东凯伦语
+    auto: true
 rolv_dialects:
   - rolv_code: 5169
     language_tag: eky-x-HIS05169

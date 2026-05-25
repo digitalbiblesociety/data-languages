@@ -1,8 +1,6 @@
 ---
 iso: noh
 name: Nomu
-name_zh: 诺穆语
-name_zh_auto: true
 autonym: null
 population: 400
 country_id: PG
@@ -15,5 +13,11 @@ glottolog_family_id: nucl1709
 glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Finisterre-Huon > Huon > Western Huon > Cromwell > Dallman > Nomu"
 wikipedia_url: "https://en.wikipedia.org/wiki/Nomu_language"
+translations:
+  - translation_iso: jpn
+    name: ノム語
+  - translation_iso: zho
+    name: 诺穆语
+    auto: true
 ---
 Nomu is a Papuan language of Morobe Province, Papua New Guinea.

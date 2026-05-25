@@ -1,8 +1,6 @@
 ---
 iso: gvo
 name: Gavião Do Jiparaná
-name_zh: 吉帕拉纳加维奥语
-name_zh_auto: true
 autonym: Gavião of Rondônia
 alt_names: [Aruá, Cinta Larga, Digüt, Gaviao, Gaviao Do Jiparana, Gavio do Jiparan, Gavião, Gavião do Rondônia, Gavião du Rondônia, Ikõro, Ikõrõ, Zoró]
 population: 1120
@@ -16,6 +14,10 @@ glottolog_family_id: tupi1275
 glottolog_family_name: Tupian
 glottolog_classification: "Tupian > Monde > Gavianic > Nuclear Gavianic > Gavião Do Jiparaná"
 wikipedia_url: "https://en.wikipedia.org/wiki/Gavi%C3%A3o_of_Jiparan%C3%A1"
+translations:
+  - translation_iso: zho
+    name: 吉帕拉纳加维奥语
+    auto: true
 rolv_dialects:
   - rolv_code: 10063
     language_tag: gvo-x-HIS10063

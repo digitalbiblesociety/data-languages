@@ -1,8 +1,6 @@
 ---
 iso: wok
 name: Longto
-name_zh: 隆托语
-name_zh_auto: true
 autonym: Voko
 alt_names: [Boko, Gobeyo, Longa, Longbo, Lonto, Woko]
 population: 2400
@@ -16,5 +14,9 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Cameroun-Ubangian > Central Adamawa > Samba-Duru > Southern Samba-Duru > Longto"
 wikipedia_url: "https://en.wikipedia.org/wiki/Voko_language"
+translations:
+  - translation_iso: zho
+    name: 隆托语
+    auto: true
 ---
 Longto, or Voko (Woko), is a member of the Duru branch of Savanna languages that is spoken in Poli Subdivision of Faro Department, Cameroon.

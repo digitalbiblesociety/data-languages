@@ -1,8 +1,6 @@
 ---
 iso: lmf
 name: South Lembata
-name_zh: 南伦巴塔语
-name_zh_auto: true
 autonym: South Lembata
 alt_names: [Indonesia, "Lembata, South"]
 population: 7000
@@ -16,5 +14,11 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Bima-Lembata > Flores > Flores-Lembata > Lamaholot Tengah > Southeast Lembata > Eastern Atadei"
 wikipedia_url: "https://en.wikipedia.org/wiki/East_Atadei_language"
+translations:
+  - translation_iso: jpn
+    name: 南レンバタ語
+  - translation_iso: zho
+    name: 南伦巴塔语
+    auto: true
 ---
 East Atadei, also known as South Lembata from its location, is a Central Malayo-Polynesian language of Indonesia spoken in the Atadei District of Lembata, an island east of Flores.

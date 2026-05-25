@@ -1,8 +1,6 @@
 ---
 iso: auq
 name: Anus
-name_zh: 阿努斯语
-name_zh_auto: true
 autonym: Korur
 alt_names: [Koroernoes, Sobei, Анус, ภาษาอานุส, アヌス語]
 population: 320
@@ -16,6 +14,12 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > North New Guinea linkage > Sarmi-Jayapura Bay > Sarmi > Anus-Podena > Korur"
 wikipedia_url: "https://en.wikipedia.org/wiki/Anus_language"
+translations:
+  - translation_iso: jpn
+    name: アヌス語
+  - translation_iso: zho
+    name: 阿努斯语
+    auto: true
 rolv_dialects:
   - rolv_code: 1180
     language_tag: auq-x-HIS01180

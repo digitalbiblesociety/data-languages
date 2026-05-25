@@ -1,8 +1,6 @@
 ---
 iso: afe
 name: Putukwam
-name_zh: 普图科姆语
-name_zh_auto: true
 autonym: Ebe Cluster
 alt_names: [Mbe Afal, Mbube Eastern, Utugwang]
 population: 12000
@@ -16,6 +14,10 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Bendic > Nuclear Bendic > Utugwang-Irungene-Afrike"
 wikipedia_url: "https://en.wikipedia.org/wiki/Putukwam_language"
+translations:
+  - translation_iso: zho
+    name: 普图科姆语
+    auto: true
 rolv_dialects:
   - rolv_code: 2197
     language_tag: afe-x-HIS02197

@@ -1,8 +1,6 @@
 ---
 iso: prl
 name: Peruvian Sign Language
-name_zh: 秘鲁手语
-name_zh_auto: true
 autonym: null
 alt_names: [LSP, Lengua de Signos Peruana, Lenguaje de Señas Peruanas, Lenguaje de Señas Peruano]
 population: 98000
@@ -16,5 +14,13 @@ glottolog_family_id: sign1238
 glottolog_family_name: Sign Language
 glottolog_classification: "Sign Language > L1 Sign Language > LSFic > ASLic > West-Central South American Sign > Peruvian-Inmaculada Sign > Peruvian Sign Language"
 wikipedia_url: "https://en.wikipedia.org/wiki/Peruvian_Sign_Language"
+translations:
+  - translation_iso: hin
+    name: पेरू सांकेतिक भाषा
+  - translation_iso: jpn
+    name: ペルー手話
+  - translation_iso: zho
+    name: 秘鲁手语
+    auto: true
 ---
 Peruvian Sign Language is a Peruvian language created and used by the Deaf community in Peru. It has been officially recognized by Peruvian law since 2010. It is not clear how many users there are in the country; the most recent general census registered little more than 10,000, but the more specific census on people with special needs found around half a million people with hearing disabilities.

@@ -1,8 +1,6 @@
 ---
 iso: tad
 name: Tause
-name_zh: 陶塞语
-name_zh_auto: true
 autonym: Darha
 alt_names: [Doa, ภาษาตัวเซ]
 population: 300
@@ -16,6 +14,10 @@ glottolog_family_id: lake1255
 glottolog_family_name: Lakes Plain
 glottolog_classification: "Lakes Plain > Tariku > West Tariku > Tause"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tause_language"
+translations:
+  - translation_iso: zho
+    name: 陶塞语
+    auto: true
 rolv_dialects:
   - rolv_code: 17253
     language_tag: tad-x-HIS17253

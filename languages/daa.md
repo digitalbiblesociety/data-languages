@@ -1,8 +1,6 @@
 ---
 iso: daa
 name: Dangaléat
-name_zh: 当加勒亚特语
-name_zh_auto: true
 autonym: Dangla
 alt_names: [Danal, Dangal, Dangaleat, Dangaléat (Western), Western]
 population: 60000
@@ -16,6 +14,10 @@ glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > East Chadic > East Chadic B > East Chadic B.1 > Dangla-Mabire-Birgit > Dangla > Dangaleat"
 wikipedia_url: "https://en.wikipedia.org/wiki/Dangal%C3%A9at_language"
+translations:
+  - translation_iso: zho
+    name: 当加勒亚特语
+    auto: true
 rolv_dialects:
   - rolv_code: 9104
     language_tag: daa-x-HIS09104

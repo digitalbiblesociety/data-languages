@@ -1,8 +1,6 @@
 ---
 iso: nsb
 name: "Lower Nossob\r"
-name_zh: 下诺索布语
-name_zh_auto: true
 autonym: null
 alt_names: [Lower Nossob]
 population: null
@@ -16,6 +14,12 @@ glottolog_family_id: tuuu1241
 glottolog_family_name: Tuu
 glottolog_classification: "Tuu > Hua > Lower-Nosop"
 wikipedia_url: "https://en.wikipedia.org/wiki/Lower_Nossob_language"
+translations:
+  - translation_iso: kor
+    name: 저지 노소브어
+  - translation_iso: zho
+    name: 下诺索布语
+    auto: true
 rolv_dialects:
   - rolv_code: 25287
     language_tag: nsb-x-HIS25287

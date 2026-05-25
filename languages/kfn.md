@@ -1,8 +1,6 @@
 ---
 iso: kfn
 name: Kuk
-name_zh: 库克语
-name_zh_auto: true
 autonym: null
 alt_names: [Cameroon]
 population: 3000
@@ -16,5 +14,9 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Wide Grassfields > Narrow Grassfields > Ring > Center-West Ring > West Ring > Kuk"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kuk_language"
+translations:
+  - translation_iso: zho
+    name: 库克语
+    auto: true
 ---
 Kuk is a Grassfields Bantu language of Cameroon.

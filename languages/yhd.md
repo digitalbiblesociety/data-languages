@@ -1,7 +1,6 @@
 ---
 iso: yhd
 name: "Judeo-Iraqi Arabic"
-name_zh: 猶太-伊拉克阿拉伯語
 autonym: Arabi
 alt_names: ["Arabic, Judeo-Iraqi", Judeo-Baghdadi, Judeoirački arapski, Јудео-ирачки арапски јазик, يهودية عراقية, ภาษาอาหรับยิวอิรัก]
 population: 94120
@@ -15,5 +14,12 @@ glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Semitic > West Semitic > Central Semitic > Arabian > Arabic > Eastern Arabic > Qeltu > Judeo-Iraqi Arabic"
 wikipedia_url: "https://en.wikipedia.org/wiki/Judeo-Iraqi_Arabic"
+translations:
+  - translation_iso: ara
+    name: يهودية عراقية
+  - translation_iso: jpn
+    name: ユダヤ・イラク・アラビア語
+  - translation_iso: zho
+    name: 猶太-伊拉克阿拉伯語
 ---
 Judeo-Iraqi Arabic, also known as Iraqi Judeo-Arabic and Yahudic, is a variety of Arabic spoken by Iraqi Jews.

@@ -1,8 +1,6 @@
 ---
 iso: biu
 name: Biete
-name_zh: 比埃特语
-name_zh_auto: true
 autonym: Biate
 alt_names: [Baite, Bete]
 population: 19000
@@ -16,5 +14,11 @@ glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Kuki-Chin-Naga > Kuki-Chin > Central Kuki-Chin > Core Central Kuki-Chin > Mizoic > Hmaric > Biete"
 wikipedia_url: "https://en.wikipedia.org/wiki/Biate_language"
+translations:
+  - translation_iso: hin
+    name: बियाट भाषा
+  - translation_iso: zho
+    name: 比埃特语
+    auto: true
 ---
 The Biate language, also known as Biete language, is a Sino-Tibetan language spoken by the Biate people in several parts of northeast India. Biate is pronounced as Bia-te.

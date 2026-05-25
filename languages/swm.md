@@ -1,8 +1,6 @@
 ---
 iso: swm
 name: Samosa
-name_zh: 萨莫萨语
-name_zh_auto: true
 autonym: null
 population: 90
 country_id: PG
@@ -15,5 +13,11 @@ glottolog_family_id: nucl1709
 glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Madang > Croisilles > Mabuso > Hanseman > Wamas-Samosa-Murupi-Mosimo > Samosa"
 wikipedia_url: "https://en.wikipedia.org/wiki/Samosa_language"
+translations:
+  - translation_iso: jpn
+    name: サモサ語
+  - translation_iso: zho
+    name: 萨莫萨语
+    auto: true
 ---
 Samosa is a Madang language of Papua New Guinea.

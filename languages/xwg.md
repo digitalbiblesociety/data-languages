@@ -1,8 +1,6 @@
 ---
 iso: xwg
 name: Kwegu
-name_zh: 克韦古语
-name_zh_auto: true
 autonym: Bacha
 alt_names: [Koegu, Koyego, Kwegi, Menja, Nidi]
 population: 450
@@ -16,5 +14,9 @@ glottolog_family_id: surm1244
 glottolog_family_name: Surmic
 glottolog_classification: "Surmic > South Surmic > Southeast Surmic > Kwegu"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kwegu_language"
+translations:
+  - translation_iso: zho
+    name: 克韦古语
+    auto: true
 ---
 Kwegu is a Surmic language spoken in the Southwest of Ethiopia, on the west bank of the Omo River.

@@ -1,8 +1,6 @@
 ---
 iso: mqn
 name: Moronene
-name_zh: 莫罗内内语
-name_zh_auto: true
 autonym: Maronene
 population: 26300
 country_id: ID
@@ -15,6 +13,10 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Celebic > Greater Eastern Celebic > Eastern Celebic > Southeastern Celebic > Bungku-Tolaki > Eastern Bungku-Tolaki > Moronene"
 wikipedia_url: "https://en.wikipedia.org/wiki/Moronene_language"
+translations:
+  - translation_iso: zho
+    name: 莫罗内内语
+    auto: true
 rolv_dialects:
   - rolv_code: 14298
     language_tag: mqn-x-HIS14298

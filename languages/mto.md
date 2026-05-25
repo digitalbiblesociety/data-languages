@@ -1,8 +1,6 @@
 ---
 iso: mto
 name: Totontepec Mixe
-name_zh: 托托纳佩克米克斯语
-name_zh_auto: true
 autonym: North Highland Mixe
 alt_names: [Ayuk, Mije, Mixe, Mixe (Totontepec), "Mixe, Totontepec", Mize (Totontepec), Northern Highland Mije, Northern Highland Mixe, Northwestern Mixe, Oaxaca Mije, Tetontepec, Totontepec, Totontepec dialect]
 population: 5470
@@ -16,6 +14,10 @@ glottolog_family_id: mixe1284
 glottolog_family_name: Mixe-Zoque
 glottolog_classification: "Mixe-Zoque > Mixe > Oaxaca Mixe > Totontepec Mixe"
 wikipedia_url: "https://en.wikipedia.org/wiki/Totontepec_Mixe"
+translations:
+  - translation_iso: zho
+    name: 托托纳佩克米克斯语
+    auto: true
 rolv_dialects:
   - rolv_code: 27835
     language_tag: mto-x-HIS27835

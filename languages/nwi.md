@@ -1,7 +1,6 @@
 ---
 iso: nwi
 name: Southwest Tanna
-name_zh: 西南塔納島語
 autonym: Nawal
 alt_names: [Tanna (South-west), Tanna (Southwest), "Tanna, Southwest"]
 population: 4500
@@ -15,6 +14,9 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Southern Melanesian > Southern Vanuatu > Tanna > Southern Tanna > Southwest Tanna"
 wikipedia_url: "https://en.wikipedia.org/wiki/Southwest_Tanna_language"
+translations:
+  - translation_iso: zho
+    name: 西南塔納島語
 rolv_dialects:
   - rolv_code: 4485
     language_tag: nwi-x-HIS04485

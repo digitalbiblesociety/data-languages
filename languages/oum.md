@@ -1,8 +1,6 @@
 ---
 iso: oum
 name: Ouma
-name_zh: 欧玛语
-name_zh_auto: true
 autonym: null
 population: 4
 country_id: PG
@@ -15,5 +13,9 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > Papuan Tip linkage > Peripheral Papuan Tip linkage > Central Papuan Oceanic > Oumic > Ouma"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ouma_language"
+translations:
+  - translation_iso: zho
+    name: 欧玛语
+    auto: true
 ---
 Ouma is an extinct Austronesian language of Papua New Guinea. It was restructured through contact with neighboring Papuan languages, and it turn influencing them, before speakers shifted to those languages.

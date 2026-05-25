@@ -1,8 +1,6 @@
 ---
 iso: gya
 name: Northwest Gbaya
-name_zh: 西北吉巴亚语
-name_zh_auto: true
 autonym: Gbaya
 alt_names: ["'Bokoto", Baya, Gbanu, Gbaya (Northwest), Gbaya Kaka, Gbaya Kara, "Gbaya Kara 'Bodoe", Gbaya Nord-Ouest, "Gbaya, Northwest", Gbeya, Kaka, Kara, Southern Gbaya, Suma]
 population: 267000
@@ -16,6 +14,12 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Gbaya-Manza-Ngbaka > Gbaya Meridional-Occidental > Northwest Gbaya"
 wikipedia_url: "https://en.wikipedia.org/wiki/Northwest_Gbaya_language"
+translations:
+  - translation_iso: jpn
+    name: 北西グバヤ語
+  - translation_iso: zho
+    name: 西北吉巴亚语
+    auto: true
 rolv_dialects:
   - rolv_code: 1595
     language_tag: gya-x-HIS01595

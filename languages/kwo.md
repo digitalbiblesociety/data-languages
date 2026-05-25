@@ -1,8 +1,6 @@
 ---
 iso: kwo
 name: Kwomtari
-name_zh: 克沃姆塔里语
-name_zh_auto: true
 autonym: null
 population: 600
 country_id: PG
@@ -15,6 +13,10 @@ glottolog_family_id: kwom1263
 glottolog_family_name: Kwomtari-Nai
 glottolog_classification: "Kwomtari-Nai > Kwomtari"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kwomtari_language"
+translations:
+  - translation_iso: zho
+    name: 克沃姆塔里语
+    auto: true
 rolv_dialects:
   - rolv_code: 12633
     language_tag: kwo-x-HIS12633

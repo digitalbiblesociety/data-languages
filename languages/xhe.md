@@ -1,7 +1,6 @@
 ---
 iso: xhe
 name: Khetrani
-name_zh: 赫特兰语
 autonym: null
 alt_names: [Lahnda]
 population: 4000
@@ -15,6 +14,13 @@ glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Indo-Aryan > Middle-Modern Indo-Aryan > Continental Indo-Aryan > Indo-Aryan Northwestern zone > Sindhi-Lahnda > Sindhic > Khetrani"
 wikipedia_url: "https://en.wikipedia.org/wiki/Khetrani_language"
+translations:
+  - translation_iso: hin
+    name: खेतरानी
+  - translation_iso: jpn
+    name: ケートラーニー語
+  - translation_iso: zho
+    name: 赫特兰语
 rolv_dialects:
   - rolv_code: 29503
     language_tag: xhe-x-HIS29503

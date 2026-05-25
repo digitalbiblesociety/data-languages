@@ -1,7 +1,6 @@
 ---
 iso: lun
 name: Lunda
-name_zh: 隆达语
 autonym: Chilunda
 alt_names: [Język lunda, Lunda-Ndembu, Língua lunda, Ruund]
 population: 403000
@@ -16,6 +15,17 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > Central-Western Bantu > Njila > Southern Njila > Chokwe-Lunda > Ruund-Salampasu > Lunda-Ruund-Kete > Lunda"
 wikipedia_url: "https://en.wikipedia.org/wiki/Lunda_language"
+translations:
+  - translation_iso: ara
+    name: اللوندا
+  - translation_iso: hin
+    name: लुन्डा
+  - translation_iso: jpn
+    name: ルンダ語
+  - translation_iso: kor
+    name: 룬다어
+  - translation_iso: zho
+    name: 隆达语
 rolv_dialects:
   - rolv_code: 1288
     language_tag: lun-x-HIS01288

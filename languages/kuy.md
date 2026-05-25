@@ -1,8 +1,6 @@
 ---
 iso: kuy
 name: "Kuuku-Ya'u"
-name_zh: 库库-亚乌语
-name_zh_auto: true
 autonym: Northeastern Paman
 alt_names: [Bagadji, Gugu Yau, Guugu YauBagadji, Jao, Kao Kokoyao, Koka yao, Koka-yao, "Koko Ya':o", "Koko Ya:o", Koko Yao, "Koko-Ja'o", KokoYao, Kuku Yao, Kuku Yau, "Kuku-Ya'u", Kuuk Yak, "Kuuku Ya'u", Kuuku Yau, Makadama, Pakadji, "Ya'o", Yao]
 population: null
@@ -15,4 +13,8 @@ glottocode: kuuk1238
 glottolog_family_id: pama1250
 glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > Paman > Compromise Middle Pama > Northeastern Pama > Umpilaic > Kuuku-Ya'u"
+translations:
+  - translation_iso: zho
+    name: 库库-亚乌语
+    auto: true
 ---

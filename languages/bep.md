@@ -1,8 +1,6 @@
 ---
 iso: bep
 name: Besoa
-name_zh: 贝索亚语
-name_zh_auto: true
 autonym: Besoa
 alt_names: [Bada, Behoa]
 population: 4280
@@ -16,5 +14,9 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Greater South Sulawesi > Rampi-Seko-Badaic > Badaic-Limola > Badaic > Besoa"
 wikipedia_url: "https://en.wikipedia.org/wiki/Behoa_language"
+translations:
+  - translation_iso: zho
+    name: 贝索亚语
+    auto: true
 ---
 Behoa is an Austronesian language spoken in the North Lore district of Central Sulawesi, Indonesia. Together with Napu and Bada, it belongs to the Badaic subgroup. Based on lexical similarity, Behoa occupies an immediate position within Badaic between Napu and Bada; nevertheless it is geographically, politically and culturally distinct.

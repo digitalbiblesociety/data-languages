@@ -1,8 +1,6 @@
 ---
 iso: yiz
 name: Azhe
-name_zh: 阿哲语
-name_zh_auto: true
 autonym: null
 alt_names: [Lolo, Yi, "Yi, Azhe"]
 population: 54000
@@ -16,6 +14,10 @@ glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Burmo-Qiangic > Lolo-Burmese > Loloish > Ni-Li-Kazhouish > Southeastern Ngwi > Axioid > Sani-Axi-Azhe > Sani-Axi > Azhe"
 wikipedia_url: "https://en.wikipedia.org/wiki/Azhe_language"
+translations:
+  - translation_iso: zho
+    name: 阿哲语
+    auto: true
 rolv_dialects:
   - rolv_code: 21209
     language_tag: yiz-x-HIS21209

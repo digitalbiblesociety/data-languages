@@ -1,7 +1,6 @@
 ---
 iso: xsr
 name: Sherpa
-name_zh: 夏尔巴語
 autonym: शेर्वी तम्ङ
 alt_names: [Bhōṭiā of northwestern Nepal, Serwa, Sharpa, Sharpa Bhotia, Sharpā, Sharwa, Xiaerba, Шерпа, Шерпский язык, ภาษาเชอร์ปา, ཤར་པའི་སྐད།]
 population: 162000
@@ -16,6 +15,15 @@ glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Bodic > Bodish > Early Old Tibetan > Middle Old Tibetan > Late Old Tibetan > Central Tibetan > South-Western Tibetic > Sherpa-Jirel > Sherpaic > Solu-Khumbu Sherpa"
 wikipedia_url: "https://en.wikipedia.org/wiki/Sherpa_language"
+translations:
+  - translation_iso: hin
+    name: शेर्पा भाषा
+  - translation_iso: jpn
+    name: シェルパ語
+  - translation_iso: kor
+    name: 셰르파어
+  - translation_iso: zho
+    name: 夏尔巴語
 rolv_dialects:
   - rolv_code: 673
     language_tag: xsr-x-HIS00673

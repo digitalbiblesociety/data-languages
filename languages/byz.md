@@ -1,8 +1,6 @@
 ---
 iso: byz
 name: Banaro
-name_zh: 巴纳罗语
-name_zh_auto: true
 autonym: Waran
 alt_names: [Banar, Banara]
 population: 2480
@@ -16,5 +14,9 @@ glottolog_family_id: ramu1234
 glottolog_family_name: Ramu
 glottolog_classification: "Ramu > Banaro"
 wikipedia_url: "https://en.wikipedia.org/wiki/Banaro_language"
+translations:
+  - translation_iso: zho
+    name: 巴纳罗语
+    auto: true
 ---
 Banaro is a Ramu language of Papua New Guinea. It is lexically divergent from the other branches of the family, having remarkably few cognates.

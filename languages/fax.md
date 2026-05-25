@@ -1,7 +1,6 @@
 ---
 iso: fax
 name: Fala
-name_zh: 法拉語
 autonym: A Fala de Xálima
 alt_names: ["\"Chapurreáu\"", A Fala, A Fala do Xãlima, Bakha, Bakhat, Baxa, Extremadurako fala, Faala, Fala da Extremadura, Fala de Estremadura, Fala de Xàlima, Fala jezik, Falaansk, Galaico-Extremaduran, Lingua fala, 팔라어]
 population: 10500
@@ -15,6 +14,13 @@ glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Italic > Latino-Faliscan > Latinic > Imperial Latin > Romance > Italo-Western Romance > Western Romance > Shifted Western Romance > Southwestern Shifted Romance > West Ibero-Romance > Galician Romance > Fala"
 wikipedia_url: "https://en.wikipedia.org/wiki/Fala_language"
+translations:
+  - translation_iso: jpn
+    name: ファラ語
+  - translation_iso: kor
+    name: 팔라어
+  - translation_iso: zho
+    name: 法拉語
 rolv_dialects:
   - rolv_code: 9743
     language_tag: fax-x-HIS09743

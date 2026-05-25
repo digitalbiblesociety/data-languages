@@ -1,8 +1,6 @@
 ---
 iso: alf
 name: Alege
-name_zh: 阿莱格语
-name_zh_auto: true
 autonym: Alegi
 alt_names: [Ugbe, Uge]
 population: 1200
@@ -16,6 +14,10 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Bendic > Nuclear Bendic > Bukpic > Alege"
 wikipedia_url: "https://en.wikipedia.org/wiki/Alege_language"
+translations:
+  - translation_iso: zho
+    name: 阿莱格语
+    auto: true
 rolv_dialects:
   - rolv_code: 2106
     language_tag: alf-x-HIS02106

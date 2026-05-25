@@ -1,8 +1,6 @@
 ---
 iso: tnp
 name: Whitesands
-name_zh: 怀特桑兹语
-name_zh_auto: true
 autonym: East Tanna
 alt_names: [Napuanmen, Tepehuan septentrional, Tepehuano septentrional, Whitsands]
 population: 7500
@@ -16,6 +14,10 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Southern Melanesian > Southern Vanuatu > Tanna > Northern Tanna linkage > Whitesands-North Tanna linkage > Whitesands"
 wikipedia_url: "https://en.wikipedia.org/wiki/Whitesands_language"
+translations:
+  - translation_iso: zho
+    name: 怀特桑兹语
+    auto: true
 rolv_dialects:
   - rolv_code: 4711
     language_tag: tnp-x-HIS04711

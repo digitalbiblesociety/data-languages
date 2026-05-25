@@ -1,7 +1,6 @@
 ---
 iso: cnk
 name: Khumi Chin
-name_zh: 庫米語
 autonym: Khumi Chin
 alt_names: [Chin (Khumi), "Chin, Khumi", "Chin,Khumi", Khami, Khimi, Khumi, Khuni, Khweymi, Ngala]
 population: 64000
@@ -15,6 +14,9 @@ glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Kuki-Chin-Naga > Kuki-Chin > Peripheral Kuki-Chin > Khomic > Khumi Chin"
 wikipedia_url: "https://en.wikipedia.org/wiki/Khumi_language"
+translations:
+  - translation_iso: zho
+    name: 庫米語
 rolv_dialects:
   - rolv_code: 1150
     language_tag: cnk-x-HIS01150

@@ -1,7 +1,6 @@
 ---
 iso: tiv
 name: Tiv
-name_zh: 蒂夫语
 autonym: Tiv
 alt_names: ["\"Munshi\""]
 population: 4300000
@@ -16,6 +15,17 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Tivoid > Central Tivoid > Central Tivoid A > Tiv-Evand > Tiv-Iyive-Otanga > Tiv"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tiv_language"
+translations:
+  - translation_iso: ara
+    name: التيف
+  - translation_iso: hin
+    name: तिव
+  - translation_iso: jpn
+    name: ティヴ語
+  - translation_iso: kor
+    name: 티브어
+  - translation_iso: zho
+    name: 蒂夫语
 rolv_dialects:
   - rolv_code: 2107
     language_tag: tiv-x-HIS02107

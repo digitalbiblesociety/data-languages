@@ -1,7 +1,6 @@
 ---
 iso: sas
 name: Sasak
-name_zh: 薩薩克語
 autonym: Lombok
 alt_names: [Bahasa Sasak, Basa Sasak, Idioma Sasak, ササク語]
 population: 3170000
@@ -16,6 +15,17 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Bali-Sasak-Sumbawa > Sasak-Sumbawa > Sasak"
 wikipedia_url: "https://en.wikipedia.org/wiki/Sasak_language"
+translations:
+  - translation_iso: ara
+    name: اللغة الساساكية
+  - translation_iso: hin
+    name: ससक भाषा
+  - translation_iso: jpn
+    name: ササク語
+  - translation_iso: kor
+    name: 사삭어
+  - translation_iso: zho
+    name: 薩薩克語
 rolv_dialects:
   - rolv_code: 16364
     language_tag: sas-x-HIS16364

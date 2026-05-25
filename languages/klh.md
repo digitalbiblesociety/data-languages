@@ -1,8 +1,6 @@
 ---
 iso: klh
 name: Weliki
-name_zh: 韦利基语
-name_zh_auto: true
 autonym: Karangi
 alt_names: [Weleki]
 population: 200
@@ -16,5 +14,9 @@ glottolog_family_id: nucl1709
 glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Finisterre-Huon > Finisterre-Saruwaged > Uruwa > Unclassified Uruwa > Weliki"
 wikipedia_url: "https://en.wikipedia.org/wiki/Weliki_language"
+translations:
+  - translation_iso: zho
+    name: 韦利基语
+    auto: true
 ---
 Weliki is one of the Finisterre languages of Papua New Guinea.

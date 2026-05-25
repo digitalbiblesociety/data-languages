@@ -1,7 +1,6 @@
 ---
 iso: pes
 name: Iranian Persian
-name_zh: 西波斯语
 autonym: فارسی
 alt_names: [Farsi, Farsi (Western), "Farsi, Persian", "Farsi, Western", Irani, Neupersisch, New Persian, Parsi, Persian, "Persian, Iranian", Tehrani Persian]
 population: 52800000
@@ -15,6 +14,15 @@ glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Iranian-Nuristani > Iranian > Southwestern Iranian > Middle-Modern Persian > Modern Southwestern Iranian > Farsic-Caucasian Tat > Farsic > Western Farsi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Iranian_Persian"
+translations:
+  - translation_iso: ara
+    name: الفارسية الإيرانية
+  - translation_iso: jpn
+    name: 西ペルシア語
+  - translation_iso: kor
+    name: 이란 페르시아어
+  - translation_iso: zho
+    name: 西波斯语
 rolv_dialects:
   - rolv_code: 9772
     language_tag: fa-IR-x-HIS09772

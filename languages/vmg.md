@@ -1,8 +1,6 @@
 ---
 iso: vmg
 name: Lungalunga
-name_zh: 隆加隆加语
-name_zh_auto: true
 autonym: Minigir
 alt_names: [Minigir language]
 population: 1500
@@ -16,5 +14,9 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > Meso Melanesian linkage > New Ireland-Northwest Solomonic linkage > St George linkage > Patpatar-Minigir-Tolai > Minigir-Tolai > Minigir"
 wikipedia_url: "https://en.wikipedia.org/wiki/Lungalunga_language"
+translations:
+  - translation_iso: zho
+    name: 隆加隆加语
+    auto: true
 ---
 Lungalunga, frequently though ambiguously called Minigir, is spoken by a small number of the Tolai people of Papua New Guinea, who live on the Gazelle Peninsula in East New Britain Province. It is often referred to in the linguistics literature as the Tolai "dialect" with an.

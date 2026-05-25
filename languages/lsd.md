@@ -1,7 +1,6 @@
 ---
 iso: lsd
 name: Lishana Deni
-name_zh: 李沙那德尼語
 autonym: "לשנא דני "
 alt_names: [Denieg, Judeo-Aramaic, Kurdit, Lishan Hozaye, Lishan Hudaye, Lishana deni  (Israel), Lishana deni (Iraq), Lishana deni (Israël), Lishana deni jezik, Lişana Deni]
 population: 8800
@@ -15,6 +14,11 @@ glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Semitic > West Semitic > Central Semitic > Northwest Semitic > Aramaic > Imperial-Middle-Modern Aramaic > Middle-Modern Aramaic > Eastern Aramaic > Central Eastern Aramaic > North-Eastern Neo-Aramaic > Northwestern Jewish Neo-Aramaic > Lishana Deni"
 wikipedia_url: "https://en.wikipedia.org/wiki/Jewish_Neo-Aramaic_dialect_of_Zakho"
+translations:
+  - translation_iso: jpn
+    name: ディダン語
+  - translation_iso: zho
+    name: 李沙那德尼語
 rolv_dialects:
   - rolv_code: 12990
     language_tag: lsd-x-HIS12990

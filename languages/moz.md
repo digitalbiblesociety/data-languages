@@ -1,8 +1,6 @@
 ---
 iso: moz
 name: Mukulu
-name_zh: 穆库卢语
-name_zh_auto: true
 autonym: Mukulu
 alt_names: [Diongor Guera, Djonkor Guera, Dyongor Guera, Gergiko, Jonkor of Guera, Jonkor-Gera, Mokilko, Mokoulou, Mokulu]
 population: 12000
@@ -16,6 +14,10 @@ glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > East Chadic > East Chadic B > Mukulu"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mokilko_language"
+translations:
+  - translation_iso: zho
+    name: 穆库卢语
+    auto: true
 rolv_dialects:
   - rolv_code: 6290
     language_tag: moz-x-HIS06290

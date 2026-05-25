@@ -1,7 +1,6 @@
 ---
 iso: tly
 name: Talysh
-name_zh: 塔利希語
 autonym: Talışi Толыши تالشه زَوُن
 alt_names: [Talesh, Taleshi, Talicheg, Talisch, Talish, Talishi, Talisí, Talişki, Talişler, Talysh (Azerbaijan), Talysh (Southern), Talyshi, Talyšin kieli, Talış dili, Tolışi, Талишки език, Талыш чĕлхи, Талышаг æвзаг, Талышский язык, Толыши, تالشی, تالشی زَوُن, زبان تالشی, ภาษาตาลิซ]
 population: 226100
@@ -16,6 +15,15 @@ glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Iranian-Nuristani > Iranian > Central Iranian PBS > Central Iranian PB > Northwestern Iranian > Adharic > Tatic > Central Tatic > North-Central Talysh"
 wikipedia_url: "https://en.wikipedia.org/wiki/Talysh_language"
+translations:
+  - translation_iso: ara
+    name: الطالشية
+  - translation_iso: jpn
+    name: タリシュ語
+  - translation_iso: kor
+    name: 탈리시어
+  - translation_iso: zho
+    name: 塔利希語
 rolv_dialects:
   - rolv_code: 17117
     language_tag: tly-x-HIS17117

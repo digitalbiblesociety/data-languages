@@ -1,8 +1,6 @@
 ---
 iso: ukp
 name: "Ukpe-Bayobiri"
-name_zh: 乌克佩-贝亚奥比里语
-name_zh_auto: true
 autonym: null
 alt_names: [Nigeria]
 population: 12000
@@ -16,6 +14,10 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Bendic > Nuclear Bendic > Bukpic > Ukpe-Bayobiri"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ukpe-Bayobiri_language"
+translations:
+  - translation_iso: zho
+    name: 乌克佩-贝亚奥比里语
+    auto: true
 rolv_dialects:
   - rolv_code: 2285
     language_tag: ukp-x-HIS02285

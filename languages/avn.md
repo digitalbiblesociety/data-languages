@@ -1,7 +1,6 @@
 ---
 iso: avn
 name: Avatime
-name_zh: 阿瓦蒂梅語
 autonym: Sia (Siyase)
 alt_names: [Afatime, "Avatime, Siya", Sia, Sideme]
 population: 27200
@@ -15,5 +14,8 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Kwa Volta-Congo > Ka-Togo > Avatime-Nyangbo > Avatime"
 wikipedia_url: "https://en.wikipedia.org/wiki/Avatime_language"
+translations:
+  - translation_iso: zho
+    name: 阿瓦蒂梅語
 ---
 Avatime, also known as Afatime, Sideme, or Sia, is a Kwa language of the Avatime people of eastern Ghana. The Avatime live primarily in the seven towns and villages of Amedzofe, Vane, Gbadzeme, Dzokpe, Biakpa, Dzogbefeme, and Fume.

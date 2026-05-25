@@ -1,8 +1,6 @@
 ---
 iso: bqo
 name: Balo
-name_zh: 巴洛语
-name_zh_auto: true
 autonym: null
 population: 2230
 country_id: CM
@@ -15,5 +13,9 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Wide Grassfields > Narrow Grassfields > Southwest Grassfields > Balo"
 wikipedia_url: "https://en.wikipedia.org/wiki/Balo_language"
+translations:
+  - translation_iso: zho
+    name: 巴洛语
+    auto: true
 ---
 Balo is a Grassfields language of Cameroon. Alunfa is distinct and perhaps should be considered a different language.

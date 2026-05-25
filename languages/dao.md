@@ -1,8 +1,6 @@
 ---
 iso: dao
 name: Daai Chin
-name_zh: 代钦语
-name_zh_auto: true
 autonym: Dai
 alt_names: ["Chin, Daai", "Chin,Daai", Daai, "M'kaang", Nitu]
 population: 37000
@@ -16,6 +14,10 @@ glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Kuki-Chin-Naga > Kuki-Chin > Peripheral Kuki-Chin > South Peripheral Kuki-Chin > Choic > Daai-Nghmoye-Muun-Kaang > Daai Chin"
 wikipedia_url: "https://en.wikipedia.org/wiki/Daai_language"
+translations:
+  - translation_iso: zho
+    name: 代钦语
+    auto: true
 rolv_dialects:
   - rolv_code: 21262
     language_tag: dao-x-HIS21262

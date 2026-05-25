@@ -1,8 +1,6 @@
 ---
 iso: asp
 name: Algerian Sign Language
-name_zh: 阿尔及利亚手语
-name_zh_auto: true
 autonym: لغة الإشارة الجزائرية
 population: 240000
 country_id: DZ
@@ -15,5 +13,15 @@ glottolog_family_id: sign1238
 glottolog_family_name: Sign Language
 glottolog_classification: "Sign Language > L1 Sign Language > LSFic > Algerian Sign Language"
 wikipedia_url: "https://en.wikipedia.org/wiki/Algerian_Sign_Language"
+translations:
+  - translation_iso: ara
+    name: لغة الإشارة الجزائرية
+  - translation_iso: jpn
+    name: アルジェリア手話
+  - translation_iso: kor
+    name: 알제리 수어
+  - translation_iso: zho
+    name: 阿尔及利亚手语
+    auto: true
 ---
 Algerian Sign Language is the sign language most commonly used in Algeria. It was officially recognized by the Algerian law on the protection and promotion of persons with a disability enacted on May 8, 2002.

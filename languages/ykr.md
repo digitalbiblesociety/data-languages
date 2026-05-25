@@ -1,8 +1,6 @@
 ---
 iso: ykr
 name: Yekora
-name_zh: 耶科拉语
-name_zh_auto: true
 autonym: null
 population: 1000
 country_id: PG
@@ -15,5 +13,9 @@ glottolog_family_id: nucl1709
 glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Greater Binanderean > Binanderean > Yekora"
 wikipedia_url: "https://en.wikipedia.org/wiki/Yekora_language"
+translations:
+  - translation_iso: zho
+    name: 耶科拉语
+    auto: true
 ---
 Yekora is a Papuan language spoken in Morobe Province, Papua New Guinea. It is part of the Binandere family of the Trans–New Guinea phylum of languages, and is particularly close to Zia.

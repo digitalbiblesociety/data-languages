@@ -1,8 +1,6 @@
 ---
 iso: bqk
 name: "Banda-Mbrès"
-name_zh: 班达-姆布雷斯语
-name_zh_auto: true
 autonym: Banda of Mbrès
 alt_names: [Banda-Mbre, Banda-Mbres]
 population: 42500
@@ -15,6 +13,10 @@ glottocode: band1342
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Cameroun-Ubangian > Ubangi > Ubangi Ka > Bandaic > Nuclear Bandaic > Central Bandaic > Core Central Bandaic > Banda-Mbrès"
+translations:
+  - translation_iso: zho
+    name: 班达-姆布雷斯语
+    auto: true
 rolv_dialects:
   - rolv_code: 7697
     language_tag: bqk-x-HIS07697

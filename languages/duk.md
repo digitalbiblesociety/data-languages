@@ -1,8 +1,6 @@
 ---
 iso: duk
 name: Uyajitaya
-name_zh: 乌亚吉塔亚语
-name_zh_auto: true
 autonym: Abowe
 alt_names: [Duduela]
 population: 470
@@ -16,6 +14,10 @@ glottolog_family_id: nucl1709
 glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Madang > Rai Coast > Nuru > Duduela"
 wikipedia_url: "https://en.wikipedia.org/wiki/Duduela_language"
+translations:
+  - translation_iso: zho
+    name: 乌亚吉塔亚语
+    auto: true
 rolv_dialects:
   - rolv_code: 30354
     language_tag: duk-x-HIS30354

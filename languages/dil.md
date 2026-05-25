@@ -1,8 +1,6 @@
 ---
 iso: dil
 name: Dilling
-name_zh: 迪林语
-name_zh_auto: true
 autonym: Warki
 alt_names: [Debri, Delen, Dillingo, Nubian (Hill), Warkimbe]
 population: 5300
@@ -16,6 +14,12 @@ glottolog_family_id: nubi1251
 glottolog_family_name: Nubian
 glottolog_classification: "Nubian > Central Nubian > Kordofan Nubian > Western Kordofan Nubian > Dilling"
 wikipedia_url: "https://en.wikipedia.org/wiki/Dilling_language"
+translations:
+  - translation_iso: ara
+    name: لغة الدلنغ
+  - translation_iso: zho
+    name: 迪林语
+    auto: true
 rolv_dialects:
   - rolv_code: 9268
     language_tag: dil-x-HIS09268

@@ -1,8 +1,6 @@
 ---
 iso: boz
 name: Tiéyaxo Bozo
-name_zh: 蒂埃亚克索博佐语
-name_zh_auto: true
 autonym: Boso
 alt_names: [Bozo, Bozo (Tigemaxo), "Bozo, Tiéyaxo", Tie, Tiemaxo, Tieyaxo, Tieyaxo Bozo, Tigemaxo, Tiguémakho, Tiéyakho, Tiéyaxo, Tyeyaxo, Tégué]
 population: 118000
@@ -15,4 +13,8 @@ glottocode: tiey1235
 glottolog_family_id: mand1469
 glottolog_family_name: Mande
 glottolog_classification: "Mande > Western Mande > Northwestern Mande > Soninke-Bozo > Bozo > Nuclear Bozo > Ti-Bozo > Tiéyaxo Bozo"
+translations:
+  - translation_iso: zho
+    name: 蒂埃亚克索博佐语
+    auto: true
 ---

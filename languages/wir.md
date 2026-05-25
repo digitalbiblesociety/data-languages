@@ -1,8 +1,6 @@
 ---
 iso: wir
 name: Wiraféd
-name_zh: 威拉费德语
-name_zh_auto: true
 autonym: Uirafed
 alt_names: [Cabahyba, Cauaiua, Cauhib, Cawahib, Diahoi, Diahói, Diarroi, Djahui, Jauareta-Tapiia, Jiahui, Juma, Karipuna, Kawahib, Kawahib/Paranawat/Pawaté-Wirafed, Kawaib, Paranawat, Parintintín, Parintintín/Tenharim/Juma, Pawaté-Wirafed, Tenharim, Tenharím, Tukumanfed, Uru-eu-uau-uau, Wirafed, Wiroféd, Yuma]
 population: null
@@ -15,4 +13,8 @@ glottocode: wira1264
 glottolog_family_id: tupi1275
 glottolog_family_name: Tupian
 glottolog_classification: "Tupian > Eastern Tupian > Maweti-Guarani > Aweti-Guarani > Tupi-Guarani > Tupi-Guarani Subgroup VI > Kawahiva > Unclassified Kawahiva > Wiraféd"
+translations:
+  - translation_iso: zho
+    name: 威拉费德语
+    auto: true
 ---

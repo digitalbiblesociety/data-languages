@@ -1,8 +1,6 @@
 ---
 iso: dix
 name: Dixon Reef
-name_zh: 迪克松礁语
-name_zh_auto: true
 autonym: Dixon Reef
 alt_names: [Aveteian]
 population: 50
@@ -16,5 +14,9 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > North and Central Vanuatu > Central Vanuatu > Malakula > Western Malakula linkage > Peripheral Western Malakula > Southwestern Malakula > Dixon Reef"
 wikipedia_url: "https://en.wikipedia.org/wiki/Dixon_Reef_language"
+translations:
+  - translation_iso: zho
+    name: 迪克松礁语
+    auto: true
 ---
 Aveteian is a possibly extinct language of Vanuatu, presumably one of the Malekula Interior languages. In the early twentieth century it was spoken by a few families living to the north of Ninde.

@@ -1,8 +1,6 @@
 ---
 iso: efe
 name: Efe
-name_zh: 埃费语
-name_zh_auto: true
 autonym: Efé
 alt_names: [Balese, Lesa, Lesse, Lissi, Mbuti, Walese, Walisi]
 population: 20000
@@ -15,4 +13,8 @@ glottocode: efee1239
 glottolog_family_id: cent2225
 glottolog_family_name: Central Sudanic
 glottolog_classification: "Central Sudanic > Membi-Mangbutu-Efe > Mangbutu-Efe > Baleseic > Nuclear Baleseic > Efe"
+translations:
+  - translation_iso: zho
+    name: 埃费语
+    auto: true
 ---

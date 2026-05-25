@@ -1,8 +1,6 @@
 ---
 iso: ajw
 name: Ajawa
-name_zh: 阿贾瓦语
-name_zh_auto: true
 autonym: Aja
 alt_names: [Ajanci, Ajawa jezik, Lingua ajawa]
 population: null
@@ -16,5 +14,11 @@ glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > West Chadic > West Chadic B > West Chadic B.2 > Nuclear West Chadic B.2 > Western West Chadic B.2 > Ajawa"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ajawa_language"
+translations:
+  - translation_iso: jpn
+    name: アジャワ語
+  - translation_iso: zho
+    name: 阿贾瓦语
+    auto: true
 ---
 Ajawa is an extinct Afro-Asiatic language formerly spoken in Bauchi State, Nigeria. Ajawa became extinct between 1920 and 1940 as speakers switched to Hausa.

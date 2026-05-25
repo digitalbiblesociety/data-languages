@@ -1,7 +1,6 @@
 ---
 iso: vas
 name: Vasavi
-name_zh: 瓦萨维语
 autonym: Vasavi Bhil
 alt_names: [Vasava, Vasava Bhil, Vasave]
 population: 1200000
@@ -15,6 +14,11 @@ glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Indo-Aryan > Middle-Modern Indo-Aryan > Continental Indo-Aryan > Midlands Indo-Aryan > Bhil > Vasave-Noiri > Vasavi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Vasavi_language"
+translations:
+  - translation_iso: jpn
+    name: ヴァサヴィ語
+  - translation_iso: zho
+    name: 瓦萨维语
 rolv_dialects:
   - rolv_code: 18023
     language_tag: vas-x-HIS18023

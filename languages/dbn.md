@@ -1,8 +1,6 @@
 ---
 iso: dbn
 name: Duriankere
-name_zh: 杜里安克雷语
-name_zh_auto: true
 autonym: Duriankari
 alt_names: [Esaro, Sailen]
 population: null
@@ -16,6 +14,10 @@ glottolog_family_id: sout3418
 glottolog_family_name: "South Bird's Head"
 glottolog_classification: "South Bird's Head > Inanwatanic > Duriankere"
 wikipedia_url: "https://en.wikipedia.org/wiki/Duriankari_language"
+translations:
+  - translation_iso: zho
+    name: 杜里安克雷语
+    auto: true
 rolv_dialects:
   - rolv_code: 1656
     language_tag: dbn-x-HIS01656

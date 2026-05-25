@@ -1,7 +1,6 @@
 ---
 iso: kex
 name: Kukna
-name_zh: 卡纳里孔卡尼语
 autonym: "Kokna-Dhodia"
 population: 417000
 country_id: IN
@@ -10,6 +9,9 @@ status_id: "3"
 latitude: 20.5657
 longitude: 73.57127
 wikipedia_url: "https://en.wikipedia.org/wiki/Southern_Saraswat_Konkani"
+translations:
+  - translation_iso: zho
+    name: 卡纳里孔卡尼语
 rolv_dialects:
   - rolv_code: 3509
     language_tag: kex-x-HIS03509

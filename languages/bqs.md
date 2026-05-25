@@ -1,8 +1,6 @@
 ---
 iso: bqs
 name: Bosngun
-name_zh: 博斯贡语
-name_zh_auto: true
 autonym: Bosngun
 alt_names: [Bosman, Bosmun]
 population: 1300
@@ -16,5 +14,9 @@ glottolog_family_id: ramu1234
 glottolog_family_name: Ramu
 glottolog_classification: "Ramu > Lower Ramu > Ottilien > Bosngun-Awar > Bosngun"
 wikipedia_url: "https://en.wikipedia.org/wiki/Bosmun_language"
+translations:
+  - translation_iso: zho
+    name: 博斯贡语
+    auto: true
 ---
 Bosman is a Ramu language of Papua New Guinea. It is spoken five villages of Dongan ward, Yawar Rural LLG, Madang Province.

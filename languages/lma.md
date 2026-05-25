@@ -1,8 +1,6 @@
 ---
 iso: lma
 name: East Limba
-name_zh: 东林巴语
-name_zh_auto: true
 autonym: Yimba
 alt_names: [Limba, "Limba, East", Yumba]
 population: 4700
@@ -15,6 +13,10 @@ glottocode: east2387
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Limba > East Limba"
+translations:
+  - translation_iso: zho
+    name: 东林巴语
+    auto: true
 rolv_dialects:
   - rolv_code: 12955
     language_tag: lma-x-HIS12955

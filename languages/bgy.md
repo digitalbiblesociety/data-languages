@@ -1,8 +1,6 @@
 ---
 iso: bgy
 name: Benggoi
-name_zh: 本戈语
-name_zh_auto: true
 autonym: Bengoi
 alt_names: [Isal, Kobi-Benggoi, Uhei Kachlakan, Uhei-Kaclakin, Uhei-Kahlakim]
 population: 350
@@ -16,6 +14,10 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Greater Seram Laut > East Seram > Setic > Benggoi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Benggoi_language"
+translations:
+  - translation_iso: zho
+    name: 本戈语
+    auto: true
 rolv_dialects:
   - rolv_code: 7968
     language_tag: bgy-x-HIS07968

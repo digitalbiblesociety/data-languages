@@ -1,8 +1,6 @@
 ---
 iso: mlx
 name: Malfaxal
-name_zh: 玛尔法克萨尔语
-name_zh_auto: true
 autonym: " Na'ahai"
 alt_names: [Mallicolo, Malvaxal-Toman Island, "Naha'ai", Taman, Tomman]
 population: 600
@@ -16,6 +14,10 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > North and Central Vanuatu > Central Vanuatu > Malakula > Western Malakula linkage > Peripheral Western Malakula > Southwestern Malakula > Southwest Coastal Malekula > Na'ahai"
 wikipedia_url: "https://en.wikipedia.org/wiki/Malfaxal_language"
+translations:
+  - translation_iso: zho
+    name: 玛尔法克萨尔语
+    auto: true
 rolv_dialects:
   - rolv_code: 13496
     language_tag: mlx-x-HIS13496

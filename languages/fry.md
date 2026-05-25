@@ -1,7 +1,6 @@
 ---
 iso: fry
 name: Western Frisian
-name_zh: 西弗里斯兰语
 autonym: Frisian
 alt_names: [Dialetto frisone occidentale, Freeshlannish Heear, Fries, Friesisch, Frisian (Western), "Frisian, Western", Frison occidental, Frisón occidental, "Frizeg ar c'hornôg", Frysk, Idioma frisio ozidental, Język zachodniofryzyjski, Lenga frison-a ossidental, Okcidentfrisa lingvo, Rietumfrīzu valoda, Sî Fut-lî-sî-ngî, Vestfrisisk, Västfrisiska, West Frisian, West Frisian language, West(er)lauwers Fries, West(er)lauwersk Frysk, Westerlauwers Fries, Westerlauwersfrisisk, Westfriesische Sprache, Westlaauwers Frais, Zapadofrizišćina, Západofríština, Фриз йылме, الفريزية, 西弗里斯语]
 population: 875100
@@ -16,6 +15,17 @@ glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Germanic > Northwest Germanic > West Germanic > North Sea Germanic > Anglo-Frisian > Frisian > Modern West Frisian > Westlauwers-Terschelling Frisian > Western Frisian"
 wikipedia_url: "https://en.wikipedia.org/wiki/West_Frisian_language"
+translations:
+  - translation_iso: ara
+    name: الفريزية الغربية
+  - translation_iso: hin
+    name: पश्चिमी फ़्रिसियाई
+  - translation_iso: jpn
+    name: 西フリジア語
+  - translation_iso: kor
+    name: 서프리슬란트어
+  - translation_iso: zho
+    name: 西弗里斯兰语
 rolv_dialects:
   - rolv_code: 24913
     language_tag: fy-x-HIS24913

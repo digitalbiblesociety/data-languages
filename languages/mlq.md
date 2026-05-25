@@ -1,8 +1,6 @@
 ---
 iso: mlq
 name: Western Maninkakan
-name_zh: 西部曼尼卡语
-name_zh_auto: true
 autonym: Western Maninka
 alt_names: [Malinka, Malinke, Maninga, Maninka, Maninka (Western), Maninka-Western, Maninkakan (Western), "Maninkakan, Western", Northwestern Maninka, Western Malinke]
 population: 2067260
@@ -15,6 +13,12 @@ glottocode: west2500
 glottolog_family_id: mand1469
 glottolog_family_name: Mande
 glottolog_classification: "Mande > Western Mande > Manding-Kpelle > Central Mande > Manding-Jogo > Manding-Vai > Manding-Mokole > Manding > West Manding > Xasonka > Western Maninkakan"
+translations:
+  - translation_iso: jpn
+    name: 西部マリンカカン語
+  - translation_iso: zho
+    name: 西部曼尼卡语
+    auto: true
 rolv_dialects:
   - rolv_code: 144
     language_tag: mlq-x-HIS00144

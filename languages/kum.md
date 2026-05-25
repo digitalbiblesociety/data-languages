@@ -1,7 +1,6 @@
 ---
 iso: kum
 name: Kumyk
-name_zh: 庫梅克語
 autonym: къумукъ тил/qumuq til
 alt_names: [Idioma cumuco, Koemuks, Koumyk, Kumika lingvo, Kumuk, Kumuklar, Kumukça, Kumyki, Kumykin kieli, Kumykische Sprache, Kumyko, Kumyčtina, Língua kumyk, Кумиски јазик, Кумыкский язык, Хъуымыхъхъаг æвзаг]
 population: 503000
@@ -16,6 +15,17 @@ glottolog_family_id: turk1311
 glottolog_family_name: Turkic
 glottolog_classification: "Turkic > Common Turkic > Kipchak-Turkestan > Kipchak > Northwest Kipchak > West Kipchak > Kaukasus Kipchak > Kumyk"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kumyk_language"
+translations:
+  - translation_iso: ara
+    name: القموقية
+  - translation_iso: hin
+    name: कुमीक
+  - translation_iso: jpn
+    name: クムク語
+  - translation_iso: kor
+    name: 쿠미크어
+  - translation_iso: zho
+    name: 庫梅克語
 rolv_dialects:
   - rolv_code: 12479
     language_tag: kum-x-HIS12479

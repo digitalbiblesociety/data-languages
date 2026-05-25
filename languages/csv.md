@@ -1,8 +1,6 @@
 ---
 iso: csv
 name: Sumtu Chin
-name_zh: 苏木图钦语
-name_zh_auto: true
 autonym: Ahmyo
 alt_names: ["Chin, Sumtu"]
 population: 14000
@@ -16,5 +14,9 @@ glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Kuki-Chin-Naga > Kuki-Chin > Peripheral Kuki-Chin > South Peripheral Kuki-Chin > Ashoic > Sumtu-Laoktu > Sumtu Chin"
 wikipedia_url: "https://en.wikipedia.org/wiki/Sumtu_language"
+translations:
+  - translation_iso: zho
+    name: 苏木图钦语
+    auto: true
 ---
 Sumtu is a Kuki-Chin language spoken in Ann, Minbya, and Myebon townships in Rakhine State, Burma. It is partially intelligible with Laitu Chin, with which it shares 91 to 96% lexical similarity. Sumtu has 96%–97% lexical similarity with the Dalet Stream variety of Laitu Chin, and 84%–87% with Chinbon Chin.

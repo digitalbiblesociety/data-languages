@@ -1,7 +1,6 @@
 ---
 iso: mla
 name: Malo
-name_zh: 它瑪姆波語
 autonym: Malo
 alt_names: [Tamabo, Tamambo, Tamambo language, Vanuatu]
 population: 4000
@@ -15,6 +14,9 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > North and Central Vanuatu > Northern Vanuatu > Espiritu Santo > Nuclear Santo > South Santo > Tamambo"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tamambo_language"
+translations:
+  - translation_iso: zho
+    name: 它瑪姆波語
 rolv_dialects:
   - rolv_code: 4719
     language_tag: mla-x-HIS04719

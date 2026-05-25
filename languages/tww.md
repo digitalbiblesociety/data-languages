@@ -1,8 +1,6 @@
 ---
 iso: tww
 name: Tuwari
-name_zh: 图瓦里语
-name_zh_auto: true
 autonym: null
 alt_names: [Akiapmin]
 population: 122
@@ -16,5 +14,9 @@ glottolog_family_id: wali1264
 glottolog_family_name: Walioic
 glottolog_classification: "Walioic > Tuwari"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tuwari_language"
+translations:
+  - translation_iso: zho
+    name: 图瓦里语
+    auto: true
 ---
 Tuwari is a Sepik language spoken in Sandaun Province, Papua-New Guinea.

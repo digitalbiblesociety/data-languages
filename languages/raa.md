@@ -1,8 +1,6 @@
 ---
 iso: raa
 name: Dungmali
-name_zh: 邓姆加利语
-name_zh_auto: true
 autonym: Arthare
 alt_names: [Arthare-Khesang, Dungmali Pûk, Dungmali-Bantawa, Dūngmālī]
 population: 220
@@ -16,6 +14,10 @@ glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Himalayish > Mahakiranti > Kiranti > Eastern Kiranti > Southern Kiranti > Dungmali"
 wikipedia_url: "https://en.wikipedia.org/wiki/Dungmali_language"
+translations:
+  - translation_iso: zho
+    name: 邓姆加利语
+    auto: true
 rolv_dialects:
   - rolv_code: 9447
     language_tag: raa-x-HIS09447

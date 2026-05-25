@@ -1,8 +1,6 @@
 ---
 iso: nbh
 name: Ngamo
-name_zh: 恩加莫语
-name_zh_auto: true
 autonym: Gamawa
 alt_names: [Gamo, Ngamawa]
 population: 60000
@@ -16,6 +14,10 @@ glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > West Chadic > West Chadic A > West Chadic A.2-3 > West Chadic A.2 > Boleic > Nuclear Boleic > Galambu-Bele > Kirfi-Bele > Ngamo-Bele > Ngamo"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ngamo_language"
+translations:
+  - translation_iso: zho
+    name: 恩加莫语
+    auto: true
 rolv_dialects:
   - rolv_code: 2060
     language_tag: nbh-x-HIS02060

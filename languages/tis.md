@@ -1,8 +1,6 @@
 ---
 iso: tis
 name: Masadiit Itneg
-name_zh: 玛萨迪特伊特内格语
-name_zh_auto: true
 autonym: null
 alt_names: ["Itneg, Masadiit", Philippines]
 population: 7500
@@ -15,6 +13,10 @@ glottocode: masa1307
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Northern Luzon > Meso-Cordilleran > South-Central Cordilleran > Central Cordilleran > Kalinga-Itneg > Kalinga > Masadiit > Masadiit Itneg"
+translations:
+  - translation_iso: zho
+    name: 玛萨迪特伊特内格语
+    auto: true
 rolv_dialects:
   - rolv_code: 26168
     language_tag: tis-x-HIS26168

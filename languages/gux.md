@@ -1,7 +1,6 @@
 ---
 iso: gux
 name: Gourmanchéma
-name_zh: 古利曼切馬语
 autonym: Gulimancema
 alt_names: [Goulmacema, Gourma, Gourmanch(ma), Gourmanchema, Gourmantche, Gulmancema, Gurma, Gurma (Gourma, Gurma (Togo), Migulimancema]
 population: 1109300
@@ -15,6 +14,11 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Gur > Central Gur > Northern Central Gur > Bwamu-Oti-Volta > Oti-Volta > Nuclear Oti-Volta > Gurma-Yom-Oti-Volta Occidental > Gurma-Yom-Naudem > Gurma > Gurma B > Gourmantche-Moba > Gourmanchéma"
 wikipedia_url: "https://en.wikipedia.org/wiki/Gurmantche_language"
+translations:
+  - translation_iso: jpn
+    name: グルマンチェマ語
+  - translation_iso: zho
+    name: 古利曼切馬语
 rolv_dialects:
   - rolv_code: 129
     language_tag: gux-x-HIS00129

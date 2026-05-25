@@ -1,8 +1,6 @@
 ---
 iso: nak
 name: Nakanai
-name_zh: 那卡奈语
-name_zh_auto: true
 autonym: Lakalai
 alt_names: [Bileki, Nakonai]
 population: 30000
@@ -16,6 +14,12 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > Meso Melanesian linkage > Willaumez linkage > Nakanai-Meramera > Nakanai"
 wikipedia_url: "https://en.wikipedia.org/wiki/Nakanai_language"
+translations:
+  - translation_iso: jpn
+    name: ナカナイ語
+  - translation_iso: zho
+    name: 那卡奈语
+    auto: true
 rolv_dialects:
   - rolv_code: 1498
     language_tag: nak-x-HIS01498

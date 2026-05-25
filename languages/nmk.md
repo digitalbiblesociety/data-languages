@@ -1,8 +1,6 @@
 ---
 iso: nmk
 name: Namakura
-name_zh: 纳玛库拉语
-name_zh_auto: true
 autonym: Namakir
 alt_names: [Makura]
 population: 3750
@@ -16,6 +14,12 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > North and Central Vanuatu > Central Vanuatu > Epi-Efate > Efate-Shepherds > Namakura"
 wikipedia_url: "https://en.wikipedia.org/wiki/Namakura_language"
+translations:
+  - translation_iso: jpn
+    name: ナマクラ語
+  - translation_iso: zho
+    name: 纳玛库拉语
+    auto: true
 rolv_dialects:
   - rolv_code: 14662
     language_tag: nmk-x-HIS14662

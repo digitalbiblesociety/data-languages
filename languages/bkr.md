@@ -1,7 +1,6 @@
 ---
 iso: bkr
 name: Bakumpai
-name_zh: 巴坤派語
 autonym: Bakambai
 alt_names: [Bahasa Bakumpai, Bara-Jida]
 population: 100000
@@ -15,6 +14,9 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Basap-Greater Barito > Greater Barito linkage > South West Greater Barito > Bakumpai"
 wikipedia_url: "https://en.wikipedia.org/wiki/Bakumpai_language"
+translations:
+  - translation_iso: zho
+    name: 巴坤派語
 rolv_dialects:
   - rolv_code: 3786
     language_tag: bkr-x-HIS03786

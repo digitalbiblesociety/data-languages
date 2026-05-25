@@ -1,8 +1,6 @@
 ---
 iso: pfe
 name: Peere
-name_zh: 佩雷语
-name_zh_auto: true
 autonym: Peere
 alt_names: [Kotofo, Kotopo, Kotpojo, Koutin, Koutine, Kutin, Kutine, Kutinn, Pare, Patapori, Peer, Pere, Potopo, Potopore]
 population: 50000
@@ -16,6 +14,10 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Cameroun-Ubangian > Central Adamawa > Samba-Duru > Southern Samba-Duru > Peere"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kutin_language"
+translations:
+  - translation_iso: zho
+    name: 佩雷语
+    auto: true
 rolv_dialects:
   - rolv_code: 4773
     language_tag: pfe-x-HIS04773

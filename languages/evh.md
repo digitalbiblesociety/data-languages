@@ -1,8 +1,6 @@
 ---
 iso: evh
 name: Uvbie
-name_zh: 乌夫比语
-name_zh_auto: true
 autonym: Evrie
 alt_names: ["\"Evhro\"", Effurun, Uvhria, Uvwie]
 population: 19800
@@ -16,5 +14,9 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Akpes-Edoid > Edoid > Southwestern Edoid > Uvbie"
 wikipedia_url: "https://en.wikipedia.org/wiki/Uvbie_language"
+translations:
+  - translation_iso: zho
+    name: 乌夫比语
+    auto: true
 ---
 Uvwiẹ or Ẹphrọn (Effurun) is a Niger Delta language spoken by the Uvwie people of southern Nigeria. It is classified alongside Urhobo, Okpe, Isoko and Eruwa as co-ordinate members of South-western Edoid branch of Proto Edoid language spoken by the Uvwie people of southern Nigeria.

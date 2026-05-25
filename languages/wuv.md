@@ -1,8 +1,6 @@
 ---
 iso: wuv
 name: "Wuvulu-Aua"
-name_zh: 乌武卢-奥阿语
-name_zh_auto: true
 autonym: "Wuvalu-Aua"
 alt_names: [Admiralitäts-inseln, Aua-Viwulu, Viwulu-Aua]
 population: 1600
@@ -16,6 +14,10 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Admiralty Islands > Western Admiralty Islands > Wuvulu-Aua"
 wikipedia_url: "https://en.wikipedia.org/wiki/Wuvulu-Aua_language"
+translations:
+  - translation_iso: zho
+    name: 乌武卢-奥阿语
+    auto: true
 rolv_dialects:
   - rolv_code: 18340
     language_tag: wuv-x-HIS18340

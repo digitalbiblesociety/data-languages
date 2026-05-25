@@ -1,8 +1,6 @@
 ---
 iso: yro
 name: Yaroamë
-name_zh: 亚罗阿梅语
-name_zh_auto: true
 autonym: Jawari
 population: 430
 country_id: BR
@@ -15,5 +13,9 @@ glottolog_family_id: yano1268
 glottolog_family_name: Yanomamic
 glottolog_classification: "Yanomamic > Ninam-Yanomam-Yaroame > Yanomam-Yaroame > Yaroame"
 wikipedia_url: "https://en.wikipedia.org/wiki/%E1%BB%B8aroam%C3%AB_language"
+translations:
+  - translation_iso: zho
+    name: 亚罗阿梅语
+    auto: true
 ---
 Ỹaroamë, or Jawari (Jauari), is a language spoken by the Yanomami people in southern Roraima state, Brazil. It was only recently recognized as a distinct language.

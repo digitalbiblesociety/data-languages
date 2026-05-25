@@ -1,8 +1,6 @@
 ---
 iso: mmx
 name: Madak
-name_zh: 玛达克语
-name_zh_auto: true
 autonym: null
 alt_names: [Lelet, Mandak, Neu-Mecklenburg]
 population: 3000
@@ -16,6 +14,12 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > Meso Melanesian linkage > New Ireland-Northwest Solomonic linkage > Madak linkage > Madak"
 wikipedia_url: "https://en.wikipedia.org/wiki/Madak_language"
+translations:
+  - translation_iso: jpn
+    name: マダク語
+  - translation_iso: zho
+    name: 玛达克语
+    auto: true
 rolv_dialects:
   - rolv_code: 13239
     language_tag: mmx-x-HIS13239

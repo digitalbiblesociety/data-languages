@@ -1,8 +1,6 @@
 ---
 iso: srz
 name: Shahmirzadi
-name_zh: 沙赫米尔扎迪语
-name_zh_auto: true
 autonym: "Mazandarani مازندرانی  Tabari طبری "
 alt_names: [Iran]
 population: null
@@ -15,4 +13,8 @@ glottocode: shah1253
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Iranian-Nuristani > Iranian > Central Iranian PBS > Central Iranian PB > Northwestern Iranian > Caspian > Mazanderani-Shahmirzadi > Shahmirzadi"
+translations:
+  - translation_iso: zho
+    name: 沙赫米尔扎迪语
+    auto: true
 ---

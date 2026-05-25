@@ -1,8 +1,6 @@
 ---
 iso: lbk
 name: Central Bontok
-name_zh: 中心博托克语
-name_zh_auto: true
 autonym: Finallig
 alt_names: ["Bontok, Central"]
 population: 19600
@@ -16,6 +14,12 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Northern Luzon > Meso-Cordilleran > South-Central Cordilleran > Central Cordilleran > Nuclear Cordilleran > Bontok-Kankanay > Bontok > Central Bontoc"
 wikipedia_url: "https://en.wikipedia.org/wiki/Central_Bontok_language"
+translations:
+  - translation_iso: jpn
+    name: 中央ボントク語
+  - translation_iso: zho
+    name: 中心博托克语
+    auto: true
 rolv_dialects:
   - rolv_code: 4824
     language_tag: lbk-x-HIS04824

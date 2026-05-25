@@ -1,8 +1,6 @@
 ---
 iso: fln
 name: Flinders Island
-name_zh: 弗林德斯岛语
-name_zh_auto: true
 autonym: Yalgawarra
 alt_names: [Ambydher, Flinders Island (retired), Gambilmugu, Itu, Kokomiabilo, Mairughan, Manpirlmung wa, Mbambylmu, Mbyrlmurl, Miabilo, Mutumui, Oko Wurriima, Pipon Island, Walmbar, Walmbaria, Wurima, Yalnga bar]
 population: null
@@ -16,5 +14,9 @@ glottolog_family_id: pama1250
 glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > Paman > Compromise Middle Pama > Wik > Flinders-Barrow > Flinders Island"
 wikipedia_url: "https://en.wikipedia.org/wiki/Flinders_Island_language"
+translations:
+  - translation_iso: zho
+    name: 弗林德斯岛语
+    auto: true
 ---
 The Flinders Island language is an extinct Australian Aboriginal language spoken on Flinders Island off the coast of Queensland, Australia. It is unconfirmed as a distinct language. The inhabitants of the island were the Aba Yalgayi. There were 3 speakers reported in 1981.

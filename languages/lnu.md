@@ -1,8 +1,6 @@
 ---
 iso: lnu
 name: Longuda
-name_zh: 龙乌达语
-name_zh_auto: true
 autonym: Nyà Núngúrá
 alt_names: [Group 10, Languda, Longura, Nunguda, Nungura, Nunguraba]
 population: 99000
@@ -16,6 +14,10 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Gur > Central Gur > Tula-Longuda > Longuda"
 wikipedia_url: "https://en.wikipedia.org/wiki/Longuda_language"
+translations:
+  - translation_iso: zho
+    name: 龙乌达语
+    auto: true
 rolv_dialects:
   - rolv_code: 2643
     language_tag: lnu-x-HIS02643

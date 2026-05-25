@@ -1,8 +1,6 @@
 ---
 iso: wuy
 name: Wauyai
-name_zh: 瓦乌亚伊语
-name_zh_auto: true
 autonym: null
 alt_names: [Indonesia]
 population: 300
@@ -15,4 +13,8 @@ glottocode: wauy1237
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > South Halmahera-West New Guinea > Raja Ampat-South Halmahera > Maya-Salawati-Matbat > Maya-Salawati > Raja Ampat Maya > Waigeo Maya > Wauyai"
+translations:
+  - translation_iso: zho
+    name: 瓦乌亚伊语
+    auto: true
 ---

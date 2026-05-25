@@ -1,8 +1,6 @@
 ---
 iso: bru
 name: Eastern Bru
-name_zh: 东布鲁语
-name_zh_auto: true
 autonym: Bruu
 alt_names: [Baroo, Brou, Bru, Bru (Eastern), "Bru, Eastern", Bru/Vankieu, Eastern, Leu, Leung, "Moi-Cà-lò'", Muong Leong, Quang Tri Bru, Quàngtri Vân Kiêu, Tri, Van Kieu]
 population: 112400
@@ -15,6 +13,10 @@ glottocode: east2332
 glottolog_family_id: aust1305
 glottolog_family_name: Austroasiatic
 glottolog_classification: "Austroasiatic > Katuic > West Katuic > Brou-So > Eastern Bru-Katang > Eastern Bru"
+translations:
+  - translation_iso: zho
+    name: 东布鲁语
+    auto: true
 rolv_dialects:
   - rolv_code: 3339
     language_tag: bru-x-HIS03339

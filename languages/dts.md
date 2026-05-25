@@ -1,8 +1,6 @@
 ---
 iso: dts
 name: Toro So Dogon
-name_zh: 托罗索多贡语
-name_zh_auto: true
 autonym: Bomu Tegu
 alt_names: [Dogon, Dogon (Toro So), "Dogon, Toro So", Dogoso, Toro So, Toro So dialect]
 population: 50000
@@ -15,6 +13,10 @@ glottocode: toro1252
 glottolog_family_id: dogo1299
 glottolog_family_name: Dogon
 glottolog_classification: "Dogon > Escarpment Dogon > Toro So Dogon"
+translations:
+  - translation_iso: zho
+    name: 托罗索多贡语
+    auto: true
 rolv_dialects:
   - rolv_code: 24866
     language_tag: dts-x-HIS24866

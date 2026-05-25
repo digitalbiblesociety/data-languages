@@ -1,7 +1,6 @@
 ---
 iso: mog
 name: Mongondow
-name_zh: 蒙贡多语
 autonym: Bolaang Mongondow
 alt_names: ["Bola'ang-Mongodow", Minahassa, Mongodow, Mongondou]
 population: 117000
@@ -15,6 +14,11 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Greater Central Philippine > Gorontalo-Mongondow > Mongondowic > Mongondow"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mongondow_language"
+translations:
+  - translation_iso: jpn
+    name: モンゴンドウ語
+  - translation_iso: zho
+    name: 蒙贡多语
 rolv_dialects:
   - rolv_code: 14248
     language_tag: mog-x-HIS14248

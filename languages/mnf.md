@@ -1,8 +1,6 @@
 ---
 iso: mnf
 name: Mundani
-name_zh: 蒙达尼语
-name_zh_auto: true
 autonym: null
 alt_names: [Cameroon, Lower Mundani]
 population: 34000
@@ -16,5 +14,9 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Wide Grassfields > Narrow Grassfields > Momo > Mundani-Njen > Mundani"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mundani_language"
+translations:
+  - translation_iso: zho
+    name: 蒙达尼语
+    auto: true
 ---
 Mundani is a Southern Bantoid language of Cameroon.

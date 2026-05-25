@@ -1,7 +1,6 @@
 ---
 iso: osp
 name: Old Spanish
-name_zh: 中古西班牙語
 autonym: "roman, romançe, romaz"
 alt_names: [Old Castillian, "Spanish, Old"]
 population: null
@@ -15,5 +14,12 @@ glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Italic > Latino-Faliscan > Latinic > Imperial Latin > Romance > Italo-Western Romance > Western Romance > Shifted Western Romance > Southwestern Shifted Romance > West Ibero-Romance > Castilic > Old Spanish"
 wikipedia_url: "https://en.wikipedia.org/wiki/Old_Spanish"
+translations:
+  - translation_iso: ara
+    name: الإسبانية القديمة
+  - translation_iso: jpn
+    name: 中世スペイン語
+  - translation_iso: zho
+    name: 中古西班牙語
 ---
 Old Spanish, also known as Old Castilian or Medieval Spanish, refers to the varieties of Ibero-Romance spoken predominantly in Castile and environs during the Middle Ages. The earliest, longest, and most famous literary composition in Old Spanish is the Cantar de mio Cid.

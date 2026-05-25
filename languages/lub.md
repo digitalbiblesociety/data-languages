@@ -1,7 +1,6 @@
 ---
 iso: lub
 name: "Luba-Katanga"
-name_zh: 卢巴卡丹加语
 autonym: Kiluba
 alt_names: [Luba, Luba Shaba, Luba-Shaba]
 population: 1510000
@@ -16,6 +15,17 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > Central-Western Bantu > Luban > Luba-Kaonde > Kaonde-Shaba-Sanga > Luba-Katanga"
 wikipedia_url: "https://en.wikipedia.org/wiki/Luba-Katanga_language"
+translations:
+  - translation_iso: ara
+    name: اللوبا كاتانغا
+  - translation_iso: hin
+    name: ल्यूबा-कटांगा
+  - translation_iso: jpn
+    name: ルバ・カタンガ語
+  - translation_iso: kor
+    name: 루바-카탕가어
+  - translation_iso: zho
+    name: 卢巴卡丹加语
 rolv_dialects:
   - rolv_code: 1283
     language_tag: lu-x-HIS01283

@@ -1,8 +1,6 @@
 ---
 iso: gaf
 name: Gende
-name_zh: 根德语
-name_zh_auto: true
 autonym: Bundi
 alt_names: [Gende-Siane-Gahuku-Kamano-Fore, Gendeka, Gene]
 population: 8000
@@ -16,5 +14,9 @@ glottolog_family_id: nucl1709
 glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Kainantu-Goroka > Goroka > Gende"
 wikipedia_url: "https://en.wikipedia.org/wiki/Gende_language"
+translations:
+  - translation_iso: zho
+    name: 根德语
+    auto: true
 ---
 Gende is a Papuan language spoken in Madang Province, Papua New Guinea.

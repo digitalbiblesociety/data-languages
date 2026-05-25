@@ -1,8 +1,6 @@
 ---
 iso: etn
 name: Eton (Vanuatu)
-name_zh: 伊顿语（瓦努阿图）
-name_zh_auto: true
 autonym: Eastern Efate
 alt_names: [Epwau, Eton]
 population: 500
@@ -16,6 +14,10 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > North and Central Vanuatu > Central Vanuatu > Epi-Efate > Efate-Shepherds > Efate > South Efatic > Eton (Vanuatu)"
 wikipedia_url: "https://en.wikipedia.org/wiki/Eton_language_(Vanuatu)"
+translations:
+  - translation_iso: zho
+    name: 伊顿语（瓦努阿图）
+    auto: true
 rolv_dialects:
   - rolv_code: 9668
     language_tag: etn-x-HIS09668

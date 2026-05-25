@@ -1,7 +1,6 @@
 ---
 iso: nzs
 name: New Zealand Sign Language
-name_zh: 新西兰手语
 autonym: NZSL
 alt_names: [Bahasa Isyarat New Zealand, Langue des signes néo-zélandaise, Lingua dei segni neozelandese, Língua de Sinais da Nova Zelândia, Neuseeländische Gebärdensprache, Nyzealandsk tegnspråk, Uus-Meremaa viipekeel, Uusiseelantilainen viittomakieli]
 population: 3250
@@ -15,5 +14,14 @@ glottolog_family_id: sign1238
 glottolog_family_name: Sign Language
 glottolog_classification: "Sign Language > L1 Sign Language > BSLic > BANZSL > New Zealand Sign Language"
 wikipedia_url: "https://en.wikipedia.org/wiki/New_Zealand_Sign_Language"
+translations:
+  - translation_iso: ara
+    name: لغة الإشارة النيوزيلندية
+  - translation_iso: hin
+    name: न्यूज़ीलैण्ड हस्ताक्षर भाषा
+  - translation_iso: jpn
+    name: ニュージーランド手話
+  - translation_iso: zho
+    name: 新西兰手语
 ---
 New Zealand Sign Language or NZSL is the main language of the deaf community in New Zealand. It became an official language of New Zealand in April 2006 under the New Zealand Sign Language Act 2006. The purpose of the act was to create rights and obligations in the use of NZSL throughout the legal system and to ensure that the Deaf community had the same access to government information and services as everybody else. According to the 2013 Census, over 20,000 New Zealanders know NZSL.

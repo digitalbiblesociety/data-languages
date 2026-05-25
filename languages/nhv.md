@@ -1,8 +1,6 @@
 ---
 iso: nhv
 name: Temascaltepec Nahuatl
-name_zh: 特马斯卡尔特佩克纳瓦特尔语
-name_zh_auto: true
 autonym: San Mateo Almomoloa
 alt_names: [Almomoloya Náhuatl, Central Nawa, Mexicano, Nahua central, Nahuatl, "Nahuatl, Temascaltepec", Náhuatl central, Temascaltepec Aztec]
 population: 310
@@ -16,5 +14,9 @@ glottolog_family_id: utoa1244
 glottolog_family_name: Uto-Aztecan
 glottolog_classification: "Uto-Aztecan > Southern Uto-Aztecan > Corachol-Aztecan > Aztec > Western Nahuatl > Western Periphery-North Guerrero Nahuatl > Temascaltepec Nahuatl"
 wikipedia_url: "https://en.wikipedia.org/wiki/Temascaltepec_Nahuatl"
+translations:
+  - translation_iso: zho
+    name: 特马斯卡尔特佩克纳瓦特尔语
+    auto: true
 ---
 Temascaltepec Nahuatl is an endangered variety of Nahuatl of western Mexico State spoken by 300 people. It is about 50% intelligible with its closest relatives.

@@ -1,8 +1,6 @@
 ---
 iso: xua
 name: Alu Kurumba
-name_zh: 阿鲁-库鲁姆巴语
-name_zh_auto: true
 autonym: Alu Kurumba Nonstandard Kannada
 alt_names: [Alu, Hal Kurumba, Kurumba, "Kurumba, Alu", Pal Kurumba]
 population: 2500
@@ -16,5 +14,9 @@ glottolog_family_id: drav1251
 glottolog_family_name: Dravidian
 glottolog_classification: "Dravidian > South Dravidian > South Dravidian I > Tamil-Kannada > Badaga-Kannada > Kannadoid > Alu Kurumba"
 wikipedia_url: "https://en.wikipedia.org/wiki/Alu_Kurumba_language"
+translations:
+  - translation_iso: zho
+    name: 阿鲁-库鲁姆巴语
+    auto: true
 ---
 Alu Kurumba, also known as Hal Kurumba or alternatively Pal Kurumba, is a Southern Dravidian language of the Tamil–Kannada subgroup spoken by the Alu Kurumba tribal people. It is often considered to constitute a dialect of Kannada; however, Ethnologue classifies it as a separate language. Alu Kurumba speakers are situated on the Nilgiri Hills cross-border area between Tamil Nadu and Karnataka.

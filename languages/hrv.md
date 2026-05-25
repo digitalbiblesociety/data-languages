@@ -1,7 +1,6 @@
 ---
 iso: hrv
 name: Croatian
-name_zh: 克罗地亚语
 autonym: hrvatski
 population: 5488390
 country_id: HR
@@ -11,6 +10,17 @@ latitude: 45.200602
 longitude: 16.826005
 scripts: [Latn]
 wikipedia_url: "https://en.wikipedia.org/wiki/Croatian_language"
+translations:
+  - translation_iso: ara
+    name: الكرواتية
+  - translation_iso: hin
+    name: क्रोएशियन भाषा
+  - translation_iso: jpn
+    name: クロアチア語
+  - translation_iso: kor
+    name: 크로아티아어
+  - translation_iso: zho
+    name: 克罗地亚语
 rolv_dialects:
   - rolv_code: 9034
     language_tag: hr-x-HIS09034

@@ -1,8 +1,6 @@
 ---
 iso: ztl
 name: "Lapaguía-Guivini Zapotec"
-name_zh: 拉帕古亚-吉维尼萨波特克语
-name_zh_auto: true
 autonym: (Santiago Lapaguia)
 alt_names: [Lapaguia-Guivini Zapotec, Southern Sapoteko, Zapotec, "Zapotec, Lapaguía-Guivini", "Zapotec, Santiago Lapaguía", Zapoteco de Asunción Tlacolulita, Zapoteco de Santiago Lapaguía, "Zapotèque d'Asunción Tlacolulita"]
 population: 4200
@@ -16,6 +14,10 @@ glottolog_family_id: otom1299
 glottolog_family_name: Otomanguean
 glottolog_classification: "Otomanguean > Eastern Otomanguean > Popoloca-Zapotecan > Zapotecan > Zapotec > Core Zapotec > Narrow Core Zapotec > Central Core Zapotec > Cisyautepequeño > Lapaguía-Guivini Zapotec"
 wikipedia_url: "https://en.wikipedia.org/wiki/Lapagu%C3%ADa_Zapotec"
+translations:
+  - translation_iso: zho
+    name: 拉帕古亚-吉维尼萨波特克语
+    auto: true
 rolv_dialects:
   - rolv_code: 4200
     language_tag: ztl-x-HIS04200

@@ -1,8 +1,6 @@
 ---
 iso: lzn
 name: Leinong Naga
-name_zh: 莱伊农纳加语
-name_zh_auto: true
 autonym: Htang Ngan
 alt_names: ["Naga, Leinong"]
 population: 8000
@@ -16,5 +14,9 @@ glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Brahmaputran > Patkaian > South Patkaian > Southeastern Patkaian > Lainongic > Lainong Naga"
 wikipedia_url: "https://en.wikipedia.org/wiki/Leinong_language"
+translations:
+  - translation_iso: zho
+    name: 莱伊农纳加语
+    auto: true
 ---
 Lainong Naga, or Htang Ngan, is a Sino-Tibetan language spoken in Burma. Lainong Naga is spoken in about 32 villages of Lahe Township and northwestern Hkamti Township, Naga Self-Administered Zone, Sagaing Division, Myanmar (Ethnologue). Dialects are Zëūdiāng.

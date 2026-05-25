@@ -1,8 +1,6 @@
 ---
 iso: swj
 name: Sira
-name_zh: 西拉语
-name_zh_auto: true
 autonym: Eshira
 alt_names: [Gisira, Ichira, Ishira, Isira, Shira, Shire, Yichira]
 population: 39400
@@ -16,5 +14,11 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > Central-Western Bantu > West-Coastal Bantu > Nzadic > Lweric > Dingic > Loange-Atlantic > KLC Extended > Kikongo Language Cluster > Nuclear KLC > Kikongoic > Kambakunyic Kikongo > Kilaadic Kikongo > Central-Southern Kikongo > West Kikongo > Vilic > Lumbuic > Ngubi-Sangu-Sira-Punu > Sangu-Sira-Punu > Sangu-Sira > Sira-Barama > Sira"
 wikipedia_url: "https://en.wikipedia.org/wiki/Shira_language"
+translations:
+  - translation_iso: jpn
+    name: シラ語
+  - translation_iso: zho
+    name: 西拉语
+    auto: true
 ---
 Shira is a Bantu language of Gabon.

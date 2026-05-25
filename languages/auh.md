@@ -1,8 +1,6 @@
 ---
 iso: auh
 name: Aushi
-name_zh: 奥希语
-name_zh_auto: true
 autonym: Ushi
 alt_names: [Avaushi, Usi, Uzhil, Uzhili, Vouaousi]
 population: 100000
@@ -16,5 +14,9 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > East Bantu > Sabi > Malungu-Central Sabi > Central Sabi > Bemba (M.40) > Aushi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Aushi_language"
+translations:
+  - translation_iso: zho
+    name: 奥希语
+    auto: true
 ---
 Aushi, known by native speakers as Ikyaushi, is a Bantu language primarily spoken in the Lwapula Province of Zambia and the (Haut-)Katanga Province of the Democratic Republic of Congo. Although many scholars argue that it is a dialect of the closely related Bemba, native speakers insist that it is a distinct language. Nonetheless, speakers of both linguistic varieties enjoy extensive mutual intelligibility, particularly in the Lwapula Province.

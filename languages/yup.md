@@ -1,7 +1,6 @@
 ---
 iso: yup
 name: Yukpa
-name_zh: 尤克帕语
 autonym: Carib Motilón
 alt_names: [Coastal Carib, Japrería, Macoíta, Motilon, Motilone (Carib), Motilone (Northern), Motilón, Motilón (Northern), Northern Motilón, Yuco, Yucpa, Yucpa-Yaprería, Yuko, Yukpa-Japería, Yukpa-Japrería, Yupa]
 population: 1500
@@ -15,6 +14,9 @@ glottolog_family_id: cari1283
 glottolog_family_name: Cariban
 glottolog_classification: "Cariban > Opon-Yukpan > Yukpan > Yukpa"
 wikipedia_url: "https://en.wikipedia.org/wiki/Yukpa_language"
+translations:
+  - translation_iso: zho
+    name: 尤克帕语
 rolv_dialects:
   - rolv_code: 18636
     language_tag: yup-x-HIS18636

@@ -1,8 +1,6 @@
 ---
 iso: vsi
 name: Moldova Sign Language
-name_zh: 摩尔多瓦手语
-name_zh_auto: true
 autonym: Русский Жестовый Язык
 population: 5000
 country_id: MD
@@ -14,4 +12,10 @@ glottocode: mold1243
 glottolog_family_id: sign1238
 glottolog_family_name: Sign Language
 glottolog_classification: "Sign Language > L1 Sign Language > RSLic > Nuclear RSLic > Central RSLic > Moldova Sign Language"
+translations:
+  - translation_iso: jpn
+    name: モルドバ手話
+  - translation_iso: zho
+    name: 摩尔多瓦手语
+    auto: true
 ---

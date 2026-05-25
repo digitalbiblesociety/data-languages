@@ -1,7 +1,6 @@
 ---
 iso: huo
 name: Hu
-name_zh: 户语
 autonym: Kon Keu
 alt_names: [Angku, Āng-kú, 戶語]
 population: 1000
@@ -15,5 +14,8 @@ glottolog_family_id: aust1305
 glottolog_family_name: Austroasiatic
 glottolog_classification: "Austroasiatic > Khasi-Palaung > Palaungic > East Palaungic > Angkuic > Southern Angkuic > Hu"
 wikipedia_url: "https://en.wikipedia.org/wiki/Hu_language"
+translations:
+  - translation_iso: zho
+    name: 户语
 ---
 Hu, also Angku or Kon Keu, is a Palaungic language of Xishuangbanna Dai Autonomous Prefecture, Yunnan, China. Its speakers are an unclassified ethnic minority; the Chinese government counts the Angku as members of the Bulang nationality, but the Angkuic languages is not intelligible with Bulang.

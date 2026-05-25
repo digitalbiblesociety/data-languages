@@ -1,8 +1,6 @@
 ---
 iso: ddr
 name: Dhudhuroa
-name_zh: 杜杜罗亚语
-name_zh_auto: true
 autonym: Victorian Alpine
 population: null
 country_id: AU
@@ -15,5 +13,9 @@ glottolog_family_id: pama1250
 glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > Southeastern Pama-Nyungan > Victorian Pama-Nyungan > Eastern Victoria > Dhudhuroa-Pallanganmiddang > Dhudhuroa"
 wikipedia_url: "https://en.wikipedia.org/wiki/Dhudhuroa_language"
+translations:
+  - translation_iso: zho
+    name: 杜杜罗亚语
+    auto: true
 ---
 Dhudhuroa is an extinct Australian Aboriginal language of north-eastern Victoria. As it is no longer spoken, Dhudhuroa is primarily known today from written material collected by R. H. Mathews from Neddy Wheeler. It has gone by numerous names, including Dhudhuroa, the Victorian Alpine language, Dyinningmiddhang, Djilamatang, Theddora, Theddoramittung, Balangamida, and Tharamirttong. Yaitmathang (Jaitmathang), or Jandangara (Gundanora), was spoken in the same area, but was a dialect of Ngarigu.

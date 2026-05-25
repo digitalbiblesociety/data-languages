@@ -1,7 +1,6 @@
 ---
 iso: ksk
 name: Kansa
-name_zh: 坎萨语
 autonym: Káⁿza
 alt_names: [Kansas, Kanza, Kanze, Kaw, Konze, Osage, Osague]
 population: null
@@ -15,5 +14,8 @@ glottolog_family_id: siou1252
 glottolog_family_name: Siouan
 glottolog_classification: "Siouan > Mississippi Valley > Dhegiha > Osage-Kansa > Kansa"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kansa_language"
+translations:
+  - translation_iso: zho
+    name: 坎萨语
 ---
 Kansa, sometimes known as Kaw or Kanza, is a Siouan language of the Dhegihan group once spoken by the Kaw people of Oklahoma. Vice President Charles Curtis spoke Kansa as a child. The last mother-tongue speaker, Walter Kekahbah, died in 1983.

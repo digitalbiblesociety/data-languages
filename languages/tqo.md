@@ -1,8 +1,6 @@
 ---
 iso: tqo
 name: Toaripi
-name_zh: 托阿里皮语
-name_zh_auto: true
 autonym: East Elema
 alt_names: [Elema, Motumotu]
 population: 25200
@@ -16,6 +14,12 @@ glottolog_family_id: nucl1580
 glottolog_family_name: Eleman
 glottolog_classification: "Eleman > Eastern Eleman > Toaripi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Toaripi_language"
+translations:
+  - translation_iso: jpn
+    name: トアリピ語
+  - translation_iso: zho
+    name: 托阿里皮语
+    auto: true
 rolv_dialects:
   - rolv_code: 3278
     language_tag: tqo-x-HIS03278

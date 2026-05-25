@@ -1,8 +1,6 @@
 ---
 iso: jmb
 name: Zumbun
-name_zh: 祖姆邦语
-name_zh_auto: true
 autonym: Jimbin
 alt_names: [Jimbinawa, Zoumbouneg, Zumbun jezik]
 population: 2000
@@ -16,5 +14,11 @@ glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > West Chadic > West Chadic B > West Chadic B.2 > Nuclear West Chadic B.2 > Zumbun"
 wikipedia_url: "https://en.wikipedia.org/wiki/Zumbun_language"
+translations:
+  - translation_iso: jpn
+    name: ズンブン語
+  - translation_iso: zho
+    name: 祖姆邦语
+    auto: true
 ---
 Zumbun is an Afro-Asiatic language spoken in Bauchi State, Nigeria, in Jimbim settlement, Darazo LGA.

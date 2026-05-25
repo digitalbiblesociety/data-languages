@@ -1,7 +1,6 @@
 ---
 iso: brb
 name: Lave
-name_zh: 布劳语
 autonym: Brao
 alt_names: [Braou, Brau, Brou, Laveh, Love, Lue, Prou, Proue, Rawe, Veh]
 population: 12800
@@ -15,6 +14,9 @@ glottolog_family_id: aust1305
 glottolog_family_name: Austroasiatic
 glottolog_classification: "Austroasiatic > Bahnaric > West Bahnaric > Nuclear West Bahnaric > Brao"
 wikipedia_url: "https://en.wikipedia.org/wiki/Brao_language"
+translations:
+  - translation_iso: zho
+    name: 布劳语
 rolv_dialects:
   - rolv_code: 994
     language_tag: brb-x-HIS00994

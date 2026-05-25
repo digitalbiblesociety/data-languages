@@ -1,8 +1,6 @@
 ---
 iso: pom
 name: Southeastern Pomo
-name_zh: 东南波莫语
-name_zh_auto: true
 autonym: Lower Lake Pomo
 alt_names: [Lower Lake, Pomo, Pomo (Southeastern), Pomo du sud-est, Pomo suroriental, "Pomo, Southeastern", Pomoan, S.E. Pomo, SE Pomo, Southeast Clear Lake Pomo, Southeast Pomo, Southeastern, Southeastern Pomoan Subfamily]
 population: null
@@ -16,5 +14,9 @@ glottolog_family_id: pomo1273
 glottolog_family_name: Pomoan
 glottolog_classification: "Pomoan > Southeastern Pomo"
 wikipedia_url: "https://en.wikipedia.org/wiki/Southeastern_Pomo_language"
+translations:
+  - translation_iso: zho
+    name: 东南波莫语
+    auto: true
 ---
 Southeastern Pomo, also known by the dialect names Elem Pomo, Koi Nation Lower Lake Pomo and Sulfur Bank Pomo, is one of seven distinct languages comprising the Pomoan language family of Northern California. In the language's prime, Southeastern Pomo was spoken primarily in an area surrounding East Lake and Lower Lake, in Lake County, along the eastern coast of Clear Lake, in Northern California by the Pomo people. Southeastern Pomos inhabited an area on the northern bank of Cache Creek, and the Sulfur Bank Rancheria. Dialectal differences between the two sites of habitation seem to be minimal, and may be limited to a small number of lexical differences. Only one person, Loretta Kelsey, can speak the language as of 2023.

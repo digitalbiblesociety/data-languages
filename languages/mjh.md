@@ -1,8 +1,6 @@
 ---
 iso: mjh
 name: Mwera (Nyasa)
-name_zh: 姆韦拉语（尼亚萨）
-name_zh_auto: true
 autonym: Nyasa
 alt_names: [Kinyasa, Mwera, Nyanza]
 population: 6000
@@ -16,5 +14,9 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > East Bantu > Tumbuka-Sena-Nyanja > Sena-Nyanja > Nyanjaic > Mwera (Nyasa)"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mbamba_Bay_language"
+translations:
+  - translation_iso: zho
+    name: 姆韦拉语（尼亚萨）
+    auto: true
 ---
 Mbamba Bay is the language spoken along the shores of Mbamba Bay of Lake Malawi, variously known as Mwera or Nyasa. It is a poorly attested Bantu language of Tanzania.

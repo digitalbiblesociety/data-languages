@@ -1,8 +1,6 @@
 ---
 iso: mae
 name: "Bo-Rukul"
-name_zh: 博-鲁库尔语
-name_zh_auto: true
 autonym: "Bo-Rukul"
 alt_names: ["\"Kaleri\"", Kaleri, Mabo-Barkul, Mabo-Barukul]
 population: 1000
@@ -16,6 +14,10 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Benue-Congo Plateau > Southeastern Benue-Congo Plateau > Bo-Rukul"
 wikipedia_url: "https://en.wikipedia.org/wiki/Barkul_language"
+translations:
+  - translation_iso: zho
+    name: 博-鲁库尔语
+    auto: true
 rolv_dialects:
   - rolv_code: 8333
     language_tag: mae-x-HIS08333

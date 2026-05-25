@@ -1,8 +1,6 @@
 ---
 iso: mnu
 name: Mer
-name_zh: 梅尔语
-name_zh_auto: true
 autonym: Miere
 alt_names: [Mer (Indonesia), Muri]
 population: 85
@@ -16,6 +14,12 @@ glottolog_family_id: mair1253
 glottolog_family_name: Mairasic
 glottolog_classification: "Mairasic > Mer"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mer_language"
+translations:
+  - translation_iso: jpn
+    name: メル語 (パプア諸語)
+  - translation_iso: zho
+    name: 梅尔语
+    auto: true
 rolv_dialects:
   - rolv_code: 1260
     language_tag: mnu-x-HIS01260

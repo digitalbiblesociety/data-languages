@@ -1,8 +1,6 @@
 ---
 iso: skn
 name: Kolibugan Subanon
-name_zh: 科利布甘苏巴农语
-name_zh_auto: true
 autonym: " Subanun"
 alt_names: [Calibugan, Kalibugan, Kolibugan, "Subanon, Kolibugan"]
 population: 25100
@@ -15,6 +13,10 @@ glottocode: koli1253
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Greater Central Philippine > Subanen > Western Subanen > Kolibugan Subanon"
+translations:
+  - translation_iso: zho
+    name: 科利布甘苏巴农语
+    auto: true
 rolv_dialects:
   - rolv_code: 2315
     language_tag: skn-x-HIS02315

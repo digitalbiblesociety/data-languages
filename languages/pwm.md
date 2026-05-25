@@ -1,8 +1,6 @@
 ---
 iso: pwm
 name: Molbog
-name_zh: 莫尔博格语
-name_zh_auto: true
 autonym: Balabak
 alt_names: [Molbog Palawan]
 population: 13360
@@ -16,6 +14,12 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Greater Central Philippine > Palawanic-Kalamian > Palawanic > Southern Palawanic > Molbog-Palawan > Molbog"
 wikipedia_url: "https://en.wikipedia.org/wiki/Molbog_language"
+translations:
+  - translation_iso: jpn
+    name: モルボッグ語
+  - translation_iso: zho
+    name: 莫尔博格语
+    auto: true
 rolv_dialects:
   - rolv_code: 27286
     language_tag: pwm-x-HIS27286

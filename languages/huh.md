@@ -1,7 +1,6 @@
 ---
 iso: huh
 name: Huilliche
-name_zh: 惠里切语
 autonym: chesungun
 alt_names: ["\"Beliche\"", Beliche, Chedungun, Chesumun, Huilche, Huiliche, Idioma huilliche, Mapuche, Tsesumun, Tsesungun, Veliche, Velitcheg, Veliĉea lingvo, Veličų kalba, Williche]
 population: 2000
@@ -15,6 +14,13 @@ glottolog_family_id: arau1255
 glottolog_family_name: Araucanian
 glottolog_classification: "Araucanian > Huilliche"
 wikipedia_url: "https://en.wikipedia.org/wiki/Huilliche_language"
+translations:
+  - translation_iso: jpn
+    name: ウィリチェ語
+  - translation_iso: kor
+    name: 윌리체어
+  - translation_iso: zho
+    name: 惠里切语
 rolv_dialects:
   - rolv_code: 10716
     language_tag: huh-x-HIS10716

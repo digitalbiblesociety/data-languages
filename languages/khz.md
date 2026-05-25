@@ -1,8 +1,6 @@
 ---
 iso: khz
 name: Keapara
-name_zh: 凯亚帕拉语
-name_zh_auto: true
 autonym: Kalo (Keapara)
 alt_names: [Keopara, Kerepunu]
 population: 19400
@@ -16,6 +14,12 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > Papuan Tip linkage > Peripheral Papuan Tip linkage > Central Papuan Oceanic > Sinagoro-Keapara > Hula-Keapara > Keapara"
 wikipedia_url: "https://en.wikipedia.org/wiki/Keapara_language"
+translations:
+  - translation_iso: jpn
+    name: ケアパラ語
+  - translation_iso: zho
+    name: 凯亚帕拉语
+    auto: true
 rolv_dialects:
   - rolv_code: 443
     language_tag: khz-x-HIS00443

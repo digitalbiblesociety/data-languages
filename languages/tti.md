@@ -1,8 +1,6 @@
 ---
 iso: tti
 name: Tobati
-name_zh: 托巴蒂语
-name_zh_auto: true
 autonym: Yotafa
 alt_names: [Enggros, Humboldt Jotafa, Jayapura, Jotafa, Tobwadic, Yautefa]
 population: 350
@@ -16,6 +14,10 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > North New Guinea linkage > Sarmi-Jayapura Bay > Jayapura Bay > Eastern Jayapura Bay > Tobati"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tobati_language"
+translations:
+  - translation_iso: zho
+    name: 托巴蒂语
+    auto: true
 rolv_dialects:
   - rolv_code: 17537
     language_tag: tti-x-HIS17537

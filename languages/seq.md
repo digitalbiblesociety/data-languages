@@ -1,8 +1,6 @@
 ---
 iso: seq
 name: Senara Sénoufo
-name_zh: 塞纳拉塞努福语
-name_zh_auto: true
 autonym: Senari
 alt_names: [Niangolo, Senara Senoufo, Sénoufo, "Sénoufo, Senara"]
 population: 50000
@@ -16,5 +14,11 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Senufo > North Senufo > Senar de Kankalaba"
 wikipedia_url: "https://en.wikipedia.org/wiki/Senara_language"
+translations:
+  - translation_iso: jpn
+    name: シェナラ・セヌフォ語
+  - translation_iso: zho
+    name: 塞纳拉塞努福语
+    auto: true
 ---
 Senara (Niangolo), one of a cluster of languages called Senari, is a Senufo language of Burkina Faso and Mali.

@@ -1,8 +1,6 @@
 ---
 iso: bvj
 name: Baan
-name_zh: 巴安语
-name_zh_auto: true
 autonym: Ogoi
 alt_names: [Baan-Ogoi, Goi]
 population: 5000
@@ -16,6 +14,10 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Delta Cross > Ogonoid > West Ogonoid > Baan"
 wikipedia_url: "https://en.wikipedia.org/wiki/Baan_language"
+translations:
+  - translation_iso: zho
+    name: 巴安语
+    auto: true
 rolv_dialects:
   - rolv_code: 7469
     language_tag: bvj-x-HIS07469

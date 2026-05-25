@@ -1,8 +1,6 @@
 ---
 iso: afz
 name: Obokuitai
-name_zh: 奥博库伊泰语
-name_zh_auto: true
 autonym: Aliki
 alt_names: [Ati, Baburiwa, Obogwitai, Obokuitái]
 population: 120
@@ -16,5 +14,11 @@ glottolog_family_id: lake1255
 glottolog_family_name: Lakes Plain
 glottolog_classification: "Lakes Plain > Tariku > East Tariku > Eritai-Obokuitai-Biritai > Obokuitai"
 wikipedia_url: "https://en.wikipedia.org/wiki/Obokuitai_language"
+translations:
+  - translation_iso: jpn
+    name: オボクイタイ語
+  - translation_iso: zho
+    name: 奥博库伊泰语
+    auto: true
 ---
 Obokuitai (Obogwitai) is a Lakes Plain language of Papua, Indonesia. It is named after Obogoi village in East Central Mamberamo District, Mamberamo Raya Regency.

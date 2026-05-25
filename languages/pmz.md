@@ -1,8 +1,6 @@
 ---
 iso: pmz
 name: Southern Pame
-name_zh: 南部帕梅语
-name_zh_auto: true
 autonym: null
 alt_names: [Pame, "Pame, Southern", Pamean]
 population: null
@@ -15,4 +13,8 @@ glottocode: sout2999
 glottolog_family_id: otom1299
 glottolog_family_name: Otomanguean
 glottolog_classification: "Otomanguean > Western Otomanguean > Otopame-Chinantecan > Otopamean > Pamean > Southern Pame"
+translations:
+  - translation_iso: zho
+    name: 南部帕梅语
+    auto: true
 ---

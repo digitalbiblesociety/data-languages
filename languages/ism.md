@@ -1,8 +1,6 @@
 ---
 iso: ism
 name: Masimasi
-name_zh: 玛西玛西语
-name_zh_auto: true
 autonym: bahasa Masimasi
 alt_names: [Indonesia]
 population: 10
@@ -16,5 +14,9 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > North New Guinea linkage > Sarmi-Jayapura Bay > Sarmi > Sobeic > Masimasi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Masimasi_language"
+translations:
+  - translation_iso: zho
+    name: 玛西玛西语
+    auto: true
 ---
 Masimasi is a nearly extinct Austronesian language spoken on an offshore island of Papua, Indonesia.

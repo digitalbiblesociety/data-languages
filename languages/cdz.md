@@ -1,7 +1,6 @@
 ---
 iso: cdz
 name: Koda
-name_zh: 科达语
 autonym: কোডা
 alt_names: [Kaora, Kora, Korali, Korati, Kore, Koɖa, Koɽa, Kōḍā, Kōḍā, Mudi, Mudikora, Mundari, Mundari-Ho]
 population: 1300
@@ -15,5 +14,10 @@ glottolog_family_id: aust1305
 glottolog_family_name: Austroasiatic
 glottolog_classification: "Austroasiatic > Mundaic > North Munda > Kherwarian > Mundaric > Koda"
 wikipedia_url: "https://en.wikipedia.org/wiki/Koda_language"
+translations:
+  - translation_iso: hin
+    name: कोडा
+  - translation_iso: zho
+    name: 科达语
 ---
 Koda, also known as Kora, Kaora, Korali, Korati, Kore, Mudi, or Mudikora, is an endangered Munda language of India and Bangladesh spoken by the Kora. The Kora mainly live in West Bengal, in the districts of Paschim Medinipur and Bankura, with a few in neighbouring Odisha and Jharkhand. In 2005, there were 1,300 speakers in the Rajshahi Division of Bangladesh, though many said that Bengali was their best language. Koda is closely related to the Kol language.

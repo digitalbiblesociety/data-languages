@@ -1,8 +1,6 @@
 ---
 iso: bkc
 name: Baka (Cameroon)
-name_zh: 巴卡语（喀麦隆）
-name_zh_auto: true
 autonym: Babinga
 alt_names: ["\"Babinga\"", Baka, "Baka (East Region, Cameroon)", Baka (in Cameroon), Bayaga, Bayaka, Bebayaga, Bebayaka, Bibaya, Pygmee, "Pygmees de L'est", Pygmy-E]
 population: 15000
@@ -16,6 +14,12 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Cameroun-Ubangian > Ubangi > Ubangi Ka > Mundu-Baka > Western Mundu-Baka > Baka-Gundi > Baka complex > Baka (Cameroon)"
 wikipedia_url: "https://en.wikipedia.org/wiki/Baka_language"
+translations:
+  - translation_iso: jpn
+    name: バカ語
+  - translation_iso: zho
+    name: 巴卡语（喀麦隆）
+    auto: true
 rolv_dialects:
   - rolv_code: 2770
     language_tag: bkc-x-HIS02770

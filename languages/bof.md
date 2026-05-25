@@ -1,8 +1,6 @@
 ---
 iso: bof
 name: Bolon
-name_zh: 博隆语
-name_zh_auto: true
 autonym: Bo
 alt_names: [Boka]
 population: 17000
@@ -16,6 +14,10 @@ glottolog_family_id: mand1469
 glottolog_family_name: Mande
 glottolog_classification: "Mande > Western Mande > Manding-Kpelle > Central Mande > Manding-Jogo > Manding-Vai > Manding-Mokole > Manding > East Manding > Bolon"
 wikipedia_url: "https://en.wikipedia.org/wiki/Bolon_language"
+translations:
+  - translation_iso: zho
+    name: 博隆语
+    auto: true
 rolv_dialects:
   - rolv_code: 8273
     language_tag: bof-x-HIS08273

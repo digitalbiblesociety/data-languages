@@ -1,8 +1,6 @@
 ---
 iso: brf
 name: Bera
-name_zh: 贝拉语
-name_zh_auto: true
 autonym: Kibira
 alt_names: [Bira, Plains Bira]
 population: 120000
@@ -16,5 +14,9 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > Central-Western Bantu > North Zaire River > Rivers Bantu > Ngiri > Ngiri Terrien > Ngombe-Ababuan > Ababuan > Old Bomokandian > Komoic > Bera"
 wikipedia_url: "https://en.wikipedia.org/wiki/Bira_language"
+translations:
+  - translation_iso: zho
+    name: 贝拉语
+    auto: true
 ---
 Bera (Bira) is a Bantu language of the Democratic Republic of the Congo. It is close to Amba.

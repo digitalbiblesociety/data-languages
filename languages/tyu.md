@@ -1,8 +1,6 @@
 ---
 iso: tyu
 name: Kua
-name_zh: 夸语
-name_zh_auto: true
 autonym: Kua
 alt_names: [Cua, Macua, Tyhua, Tyua]
 population: 820
@@ -15,4 +13,8 @@ glottocode: kuaa1238
 glottolog_family_id: khoe1240
 glottolog_family_name: Khoe-Kwadi
 glottolog_classification: "Khoe-Kwadi > Khoe > Non-Khoekhoe > Ost-Kxoe > Tshwa Khoe > Southern Tshwa"
+translations:
+  - translation_iso: zho
+    name: 夸语
+    auto: true
 ---

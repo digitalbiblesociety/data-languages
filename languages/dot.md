@@ -1,8 +1,6 @@
 ---
 iso: dot
 name: Dass
-name_zh: 达斯语
-name_zh_auto: true
 autonym: Barawa
 alt_names: [Bandas, Barawa of Dass, Boodli, Dekshi, Dot, Durr-Baraza, Dwat, Lukshi, Wandi, Wangday, Zodi, Zumbul]
 population: 1130
@@ -16,6 +14,10 @@ glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > West Chadic > West Chadic B > West Chadic B.3 > South Bauchi West > Southwest South Bauchi > Dass"
 wikipedia_url: "https://en.wikipedia.org/wiki/Dass_language"
+translations:
+  - translation_iso: zho
+    name: 达斯语
+    auto: true
 rolv_dialects:
   - rolv_code: 1939
     language_tag: dot-x-HIS01939

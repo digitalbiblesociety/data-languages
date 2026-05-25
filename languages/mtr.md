@@ -1,7 +1,6 @@
 ---
 iso: mtr
 name: Mewari
-name_zh: 梅瓦尔语
 autonym: Mewadi
 alt_names: [Język mewari, பாக்ரி மொழி, மேவாரி மொழி, ภาษาพาครี, ภาษาเมวารี]
 population: 4210000
@@ -16,6 +15,13 @@ glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Indo-Aryan > Middle-Modern Indo-Aryan > Continental Indo-Aryan > Midlands Indo-Aryan > Apabhramsic > Gujarati-Rajasthani > Rajasthani > Mewaric > Mewari"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mewari_language"
+translations:
+  - translation_iso: hin
+    name: मेवाड़ी भाषा
+  - translation_iso: jpn
+    name: メワール語
+  - translation_iso: zho
+    name: 梅瓦尔语
 rolv_dialects:
   - rolv_code: 22482
     language_tag: mtr-x-HIS22482

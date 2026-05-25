@@ -1,8 +1,6 @@
 ---
 iso: mbk
 name: Malol
-name_zh: 马洛尔语
-name_zh_auto: true
 autonym: Malolo
 alt_names: [Malon]
 population: 3330
@@ -16,5 +14,9 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > North New Guinea linkage > Schouten linkage > Siau > Sissano-Tumleo > Sera-Sissano > Sissanoic > Malol"
 wikipedia_url: "https://en.wikipedia.org/wiki/Malol_language"
+translations:
+  - translation_iso: zho
+    name: 马洛尔语
+    auto: true
 ---
 Malol is an Austronesian language of the Malol village area in Mainyen ward, West Aitape Rural LLG, coastal Sandaun Province, Papua New Guinea. Malol is spoken by an estimated 4,600 speakers.

@@ -1,8 +1,6 @@
 ---
 iso: mrq
 name: North Marquesan
-name_zh: 北马克萨斯语
-name_zh_auto: true
 autonym: ʻEo ʻenana / ʻEo ʻenata
 alt_names: [Marquesan, "Marquesan, North", Marquesas, Marquesas-Inseln Sprache]
 population: 3400
@@ -16,6 +14,12 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Central Pacific linkage > Tokalau Fijian > Polynesian > Nuclear Polynesian > Northern Outlier Polynesian-East Polynesian > Solomons Northern Outlier Polynesian-East Polynesian > Central Northern Outlier Polynesian-East Polynesian > East Polynesian > East Polynesian Distal > Marquesan > North Marquesan"
 wikipedia_url: "https://en.wikipedia.org/wiki/North_Marquesan_language"
+translations:
+  - translation_iso: jpn
+    name: 北マルキーズ語
+  - translation_iso: zho
+    name: 北马克萨斯语
+    auto: true
 rolv_dialects:
   - rolv_code: 13771
     language_tag: mrq-x-HIS13771

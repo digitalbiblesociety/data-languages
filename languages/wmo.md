@@ -1,8 +1,6 @@
 ---
 iso: wmo
 name: Wom (Papua New Guinea)
-name_zh: 沃姆语
-name_zh_auto: true
 autonym: Wam
 alt_names: [Wom, Wom language]
 population: 4260
@@ -16,5 +14,9 @@ glottolog_family_id: nucl1708
 glottolog_family_name: Nuclear Torricelli
 glottolog_classification: "Nuclear Torricelli > Wom (Papua New Guinea)"
 wikipedia_url: "https://en.wikipedia.org/wiki/Wom_language_(Papua_New_Guinea)"
+translations:
+  - translation_iso: zho
+    name: 沃姆语
+    auto: true
 ---
 Wom or Wam is a Papuan language of the Torricelli language family spoken by 4,264 people in East Sepik province, Papua New Guinea.

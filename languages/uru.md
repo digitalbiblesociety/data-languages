@@ -1,8 +1,6 @@
 ---
 iso: uru
 name: Urumi
-name_zh: 乌鲁米语
-name_zh_auto: true
 autonym: null
 alt_names: [Itanga, Ramarama, Ramarama-Urumí, Urumí]
 population: null
@@ -16,5 +14,9 @@ glottolog_family_id: tupi1275
 glottolog_family_name: Tupian
 glottolog_classification: "Tupian > Purubora-Ramarama > Ramarama > Urumi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Urumi_language"
+translations:
+  - translation_iso: zho
+    name: 乌鲁米语
+    auto: true
 ---
 Urumi is an extinct Tupian language of the state of Rondônia, in the Amazon region of Brazil. It was documented by the Rondon Commission.

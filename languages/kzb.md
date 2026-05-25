@@ -1,8 +1,6 @@
 ---
 iso: kzb
 name: Kaibobo
-name_zh: 凯博博语
-name_zh_auto: true
 autonym: Kaibubu
 population: 500
 country_id: ID
@@ -15,6 +13,10 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Nunusaku > Piru Bay > East Piru Bay > Solehua > Seram Straits > Kaibobo"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kaibobo_language"
+translations:
+  - translation_iso: zho
+    name: 凯博博语
+    auto: true
 rolv_dialects:
   - rolv_code: 11314
     language_tag: kzb-x-HIS11314

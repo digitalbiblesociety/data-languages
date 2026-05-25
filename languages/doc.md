@@ -1,7 +1,6 @@
 ---
 iso: doc
 name: Northern Dong
-name_zh: 北侗語
 autonym: Gaeml
 alt_names: [Dong, "Dong, Northern", Gam, Kam, Kam (Zhanglu), Tong, Tung, Tung-Chia, Zhanglu dialect]
 population: 2880000
@@ -14,4 +13,7 @@ glottocode: nort2735
 glottolog_family_id: taik1256
 glottolog_family_name: Tai-Kadai
 glottolog_classification: "Tai-Kadai > Kam-Tai > Kam-Sui > Mulam-Kam > Kamic > Northern Kam > Northern Dong"
+translations:
+  - translation_iso: zho
+    name: 北侗語
 ---

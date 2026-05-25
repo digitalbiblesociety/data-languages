@@ -1,8 +1,6 @@
 ---
 iso: spk
 name: Sengo
-name_zh: 森戈语
-name_zh_auto: true
 autonym: null
 alt_names: [Manambu]
 population: 520
@@ -16,5 +14,9 @@ glottolog_family_id: nduu1242
 glottolog_family_name: Ndu
 glottolog_classification: "Ndu > Nuclear Ndu > Sawosic > Sengo"
 wikipedia_url: "https://en.wikipedia.org/wiki/Sengo_language"
+translations:
+  - translation_iso: zho
+    name: 森戈语
+    auto: true
 ---
 Sengo is one of the Ndu languages of Sepik River region of northern Papua New Guinea. It is spoken in Sengo village, Burui/Kunai Rural LLG, East Sepik Province.

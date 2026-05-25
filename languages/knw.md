@@ -1,8 +1,6 @@
 ---
 iso: knw
 name: "Kung-Ekoka"
-name_zh: 功-埃科卡语
-name_zh_auto: true
 autonym: Western ǃXuun
 alt_names: ["!Hu", "!Khung", "!Ku", "!Kung", "!Kung, Qxû", "!Xu", "!Xun", "!Xun (Ekoka)", "!Xung", Ekoka, "Ekoka-!Xû", Ju, Kung, Qxü, "Qxü !Khung"]
 population: 1760
@@ -16,6 +14,10 @@ glottolog_family_id: kxaa1236
 glottolog_family_name: Kxa
 glottolog_classification: "Kxa > Ju-Kung > North-Central Ju"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ekoka_%C7%83Kung"
+translations:
+  - translation_iso: zho
+    name: 功-埃科卡语
+    auto: true
 rolv_dialects:
   - rolv_code: 19382
     language_tag: knw-x-HIS19382

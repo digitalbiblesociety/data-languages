@@ -1,7 +1,6 @@
 ---
 iso: zhd
 name: Dai Zhuang
-name_zh: 文麻壯語
 autonym: "Wen-Ma Southern Zhuang"
 alt_names: [Bu Dai, Kau Ndae, Khaau Daai, Thu Lao, Tu, Tuliao, Tuzu, Wen-Ma, Wenma, "Yung-ch'un", Yung-shun, Zhuang, "Zhuang, Dai"]
 population: 100200
@@ -15,6 +14,11 @@ glottolog_family_id: taik1256
 glottolog_family_name: Tai-Kadai
 glottolog_classification: "Tai-Kadai > Kam-Tai > Daic-Beic > Daic > Central-Southwestern Tai > Wenma-Southwestern Tai > Dai Zhuang"
 wikipedia_url: "https://en.wikipedia.org/wiki/Dai_Zhuang_language"
+translations:
+  - translation_iso: jpn
+    name: 文馬チワン語
+  - translation_iso: zho
+    name: 文麻壯語
 rolv_dialects:
   - rolv_code: 25592
     language_tag: zhd-x-HIS25592

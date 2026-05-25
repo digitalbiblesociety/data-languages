@@ -1,8 +1,6 @@
 ---
 iso: yan
 name: Mayangna
-name_zh: 玛央纳语
-name_zh_auto: true
 autonym: Sumu
 alt_names: [Sumo, Sumo-Mayangna, Ulua, Ulwa, Ulúa, Woolwa]
 population: 8700
@@ -15,6 +13,10 @@ glottocode: maya1285
 glottolog_family_id: misu1242
 glottolog_family_name: Misumalpan
 glottolog_classification: "Misumalpan > Sumalpan > Sumuic > Mayangna"
+translations:
+  - translation_iso: zho
+    name: 玛央纳语
+    auto: true
 rolv_dialects:
   - rolv_code: 590
     language_tag: yan-x-HIS00590

@@ -1,8 +1,6 @@
 ---
 iso: elo
 name: El Molo
-name_zh: 埃尔莫洛语
-name_zh_auto: true
 autonym: Dehes
 alt_names: ["\"Ndorobo\"", El Molo hizkuntza, Elmolo, Emolo, Fura-Pawa, Ldes, Lenga El Molo]
 population: 700
@@ -16,5 +14,9 @@ glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Cushitic > East Cushitic > Lowland East Cushitic > Southern Lowland East Cushitic > Mainstream Lowland East Cushitic > Omo-Tana > Western Omo-Tana > El Molo"
 wikipedia_url: "https://en.wikipedia.org/wiki/El_Molo_language"
+translations:
+  - translation_iso: zho
+    name: 埃尔莫洛语
+    auto: true
 ---
 El Molo is a moribund or extinct language belonging to the Cushitic branch of the Afro-Asiatic language family. It was spoken by the El Molo people on the southeastern shore of Lake Turkana, in northern Kenya. Alternate names to El Molo are Dehes, Elmolo, Fura-Pawa, and Ldes. It was thought to be extinct in the middle part of the 20th century, but a few speakers were found in the later 20th century. Most of the El Molo population have shifted to the neighboring Samburu language, and there are only semispeakers left. El Molo also has no known dialects but it is similar to Daasanach.

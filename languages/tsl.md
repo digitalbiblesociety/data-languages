@@ -1,7 +1,6 @@
 ---
 iso: tsl
 name: "Ts'ün-Lao"
-name_zh: 卜老语
 autonym: Lao
 alt_names: ["Ts'un-Lao", "Ts'ün-loa"]
 population: 10000
@@ -15,5 +14,10 @@ glottolog_family_id: taik1256
 glottolog_family_name: Tai-Kadai
 glottolog_classification: "Tai-Kadai > Kam-Tai > Daic-Beic > Daic > Central-Southwestern Tai > Wenma-Southwestern Tai > Ts'ün-Lao"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ts%CA%BB%C3%BCn-Lao_language"
+translations:
+  - translation_iso: jpn
+    name: ツン・ラオ語
+  - translation_iso: zho
+    name: 卜老语
 ---
 Tsʻün-Lao or Lào Bóc is a Tai language spoken in Lai Châu Province of the Northwest region of Vietnam.

@@ -1,7 +1,6 @@
 ---
 iso: azj
 name: North Azerbaijani
-name_zh: 北阿塞拜疆语
 autonym: " آذربایجان دیلی"
 alt_names: [Aderbeidjanisch, Azarbaydjanian, Azerbaijani, "Azerbaijani, North", Azerbaijanian, Azerbaydzhani, Azeri Turk, North Azeri language, Turkler]
 population: 9220600
@@ -15,6 +14,11 @@ glottolog_family_id: turk1311
 glottolog_family_name: Turkic
 glottolog_classification: "Turkic > Common Turkic > Oghuz > Nuclear Oghuz > Central Oghuz > North Azerbaijani"
 wikipedia_url: "https://en.wikipedia.org/wiki/North_Azerbaijani_language"
+translations:
+  - translation_iso: jpn
+    name: 北アゼルバイジャン語
+  - translation_iso: zho
+    name: 北阿塞拜疆语
 rolv_dialects:
   - rolv_code: 7420
     language_tag: azj-x-HIS07420

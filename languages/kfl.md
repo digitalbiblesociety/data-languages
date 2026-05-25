@@ -1,8 +1,6 @@
 ---
 iso: kfl
 name: Kung
-name_zh: 功语
-name_zh_auto: true
 autonym: null
 alt_names: [Cungo]
 population: 1750
@@ -16,5 +14,9 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Wide Grassfields > Narrow Grassfields > Ring > Center-West Ring > Center Ring > Kung"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kung_language_(Cameroon)"
+translations:
+  - translation_iso: zho
+    name: 功语
+    auto: true
 ---
 Kung is a Grassfields Bantu language of Cameroon.

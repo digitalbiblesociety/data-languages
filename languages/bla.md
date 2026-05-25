@@ -1,7 +1,6 @@
 ---
 iso: bla
 name: Blackfoot
-name_zh: 黑脚语
 autonym: ᓱᖽᐧᖿ
 alt_names: [Blackfeet, Blackfoot-Sprache, Blackfoot-språket, Język siksika, Mustajalka, Nigrapieda lingvo, "Niitsi'powahsin", Niitsipowahsin, Pied-noir, Pied-noir (Canada), "Pied-noir (États-Unis d'Amérique)", Pies negros (Estados Unidos), Piikani, Pikanieg, Pikanii, Pikuni, Siksika, Siksika Cluster, Блэкфут, อักษรแบล็กฟุต, ブラックフット語, 블랙풋어]
 population: 2920
@@ -16,6 +15,17 @@ glottolog_family_id: algi1248
 glottolog_family_name: Algic
 glottolog_classification: "Algic > Algonquian-Blackfoot > Siksika"
 wikipedia_url: "https://en.wikipedia.org/wiki/Blackfoot_language"
+translations:
+  - translation_iso: ara
+    name: اللغة النيتسيتابية
+  - translation_iso: hin
+    name: सिक्सिका
+  - translation_iso: jpn
+    name: ブラックフット語
+  - translation_iso: kor
+    name: 블랙풋어
+  - translation_iso: zho
+    name: 黑脚语
 rolv_dialects:
   - rolv_code: 8190
     language_tag: bla-x-HIS08190

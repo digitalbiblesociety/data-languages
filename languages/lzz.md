@@ -1,7 +1,6 @@
 ---
 iso: lzz
 name: Laz
-name_zh: 拉兹語
 autonym: " ლაზური"
 alt_names: [Bahasa Laz, Idioma laz, Język lazyjski, Lasische Sprache, Lazca, Laze, Lazeg, Lazisch, Lazisk språk, Lazki, Lingua laz, Láz nyelv, Língua laz, Лазский язык, Ласки јазик, לאזית, ლაზური ენა, ラズ語]
 population: 22000
@@ -16,6 +15,15 @@ glottolog_family_id: kart1248
 glottolog_family_name: Kartvelian
 glottolog_classification: "Kartvelian > Georgian-Zan > Zan > Laz"
 wikipedia_url: "https://en.wikipedia.org/wiki/Laz_language"
+translations:
+  - translation_iso: ara
+    name: اللغة اللازية
+  - translation_iso: jpn
+    name: ラズ語
+  - translation_iso: kor
+    name: 라즈어
+  - translation_iso: zho
+    name: 拉兹語
 rolv_dialects:
   - rolv_code: 12823
     language_tag: lzz-x-HIS12823

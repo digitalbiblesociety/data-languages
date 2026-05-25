@@ -1,7 +1,6 @@
 ---
 iso: frd
 name: Fordata
-name_zh: "Category:福爾達塔語"
 autonym: Vaidida
 alt_names: [Kei, Kei-Fordata, Larat, Vai Fordata, Vai Tnebar]
 population: 50000
@@ -15,6 +14,11 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Tanimbar-Bomberai > Nuclear Tanimbar-Bomberai > Kei-Fordata > Fordata"
 wikipedia_url: "https://en.wikipedia.org/wiki/Fordata_language"
+translations:
+  - translation_iso: jpn
+    name: フォルダタ語
+  - translation_iso: zho
+    name: "Category:福爾達塔語"
 rolv_dialects:
   - rolv_code: 9858
     language_tag: frd-x-HIS09858

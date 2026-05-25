@@ -1,8 +1,6 @@
 ---
 iso: aix
 name: Aighon
-name_zh: 艾戈恩语
-name_zh_auto: true
 autonym: Psohoh
 alt_names: [Aighon jezik, Aigon, Aigon language, Apsokok, Bao]
 population: 2000
@@ -16,6 +14,10 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > North New Guinea linkage > Ngero-Vitiaz linkage > Vitiaz linkage > Southwest New Britain linkage > Arawe-Pasismanua > Pasismanua > Aighon"
 wikipedia_url: "https://en.wikipedia.org/wiki/Aigon_language"
+translations:
+  - translation_iso: zho
+    name: 艾戈恩语
+    auto: true
 rolv_dialects:
   - rolv_code: 15777
     language_tag: aix-x-HIS15777

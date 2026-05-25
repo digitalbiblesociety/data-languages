@@ -1,8 +1,6 @@
 ---
 iso: kte
 name: Nubri
-name_zh: 努布里语
-name_zh_auto: true
 autonym: Kutang Bhotia
 alt_names: [Larkye]
 population: 2000
@@ -16,6 +14,12 @@ glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Bodic > Bodish > Early Old Tibetan > Middle Old Tibetan > Late Old Tibetan > Central Tibetan > South-Western Tibetic > Kyirong-Kagate > Gyalsumdo-Nubri-Kyirong > Gyalsumdo-Nubri"
 wikipedia_url: "https://en.wikipedia.org/wiki/Nubri_language"
+translations:
+  - translation_iso: hin
+    name: नुबरी भाषा
+  - translation_iso: zho
+    name: 努布里语
+    auto: true
 rolv_dialects:
   - rolv_code: 15082
     language_tag: kte-x-HIS15082

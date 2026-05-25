@@ -1,8 +1,6 @@
 ---
 iso: bwp
 name: Mandobo Bawah
-name_zh: 曼多博语
-name_zh_auto: true
 autonym: Dumut
 alt_names: ["\"Kaeti\"", Kaeti, Kambon, Mandobbo, Nub]
 population: 2000
@@ -15,4 +13,8 @@ glottocode: mand1445
 glottolog_family_id: nucl1709
 glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Asmat-Awyu-Ok > Awyu-Ok > Greater Awyu > Awyu-Dumut > Dumut > Mandobo > Mandobo Bawah"
+translations:
+  - translation_iso: zho
+    name: 曼多博语
+    auto: true
 ---

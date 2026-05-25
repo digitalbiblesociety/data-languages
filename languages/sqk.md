@@ -1,7 +1,6 @@
 ---
 iso: sqk
 name: Albanian Sign Language
-name_zh: 阿尔巴尼亚手语
 autonym: AlbSL
 population: 24100
 country_id: AL
@@ -14,5 +13,12 @@ glottolog_family_id: sign1238
 glottolog_family_name: Sign Language
 glottolog_classification: "Sign Language > L1 Sign Language > Albanian Sign Language"
 wikipedia_url: "https://en.wikipedia.org/wiki/Albanian_Sign_Language"
+translations:
+  - translation_iso: ara
+    name: لغة الإشارات الألبانية
+  - translation_iso: jpn
+    name: マルディン手話
+  - translation_iso: zho
+    name: 阿尔巴尼亚手语
 ---
 Albanian Sign Language is one of the deaf sign languages of Europe. It is unrelated to other sign languages of the Balkans.

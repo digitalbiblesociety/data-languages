@@ -1,8 +1,6 @@
 ---
 iso: tev
 name: Teor
-name_zh: 特奥尔语
-name_zh_auto: true
 autonym: "Tio'or"
 population: 1100
 country_id: ID
@@ -14,6 +12,10 @@ glottocode: teor1240
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Tanimbar-Bomberai > Teor-Kur > Teor"
+translations:
+  - translation_iso: zho
+    name: 特奥尔语
+    auto: true
 rolv_dialects:
   - rolv_code: 17383
     language_tag: tev-x-HIS17383

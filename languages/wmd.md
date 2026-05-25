@@ -1,8 +1,6 @@
 ---
 iso: wmd
 name: Mamaindé
-name_zh: 玛玛因德语
-name_zh_auto: true
 autonym: Northern Nambikwara
 alt_names: [Kithāulhú, Mamainde, Mamaindê, Mamande, Nakarothe, Northern Nambikuaran, Northern Nambikuára, Northern Nambiquara]
 population: 300
@@ -16,6 +14,10 @@ glottolog_family_id: namb1299
 glottolog_family_name: Nambiquaran
 glottolog_classification: "Nambiquaran > Nambikwara Complex > Northern Nambiquaran > Mamaindé"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mamaind%C3%AA_language"
+translations:
+  - translation_iso: zho
+    name: 玛玛因德语
+    auto: true
 rolv_dialects:
   - rolv_code: 14667
     language_tag: wmd-x-HIS14667

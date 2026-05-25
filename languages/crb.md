@@ -1,8 +1,6 @@
 ---
 iso: crb
 name: Island Carib
-name_zh: 岛屿加勒比语
-name_zh_auto: true
 autonym: Kalhíphona
 alt_names: [Black Carib, Caberne, Cabre, Calino, Calinya, Calinyaku, Callinago, Caraïbe, "Carib, Island", Caribe isleño, Kalhiphona, Kariphuna]
 population: null
@@ -16,6 +14,14 @@ glottolog_family_id: araw1281
 glottolog_family_name: Arawakan
 glottolog_classification: "Arawakan > Caribbean Arawakan > Antillean Arawakan > Ineric > Island Carib-Garifuna > Island Carib"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kalinago_language"
+translations:
+  - translation_iso: jpn
+    name: 島嶼カリブ語
+  - translation_iso: kor
+    name: 칼리나고어
+  - translation_iso: zho
+    name: 岛屿加勒比语
+    auto: true
 rolv_dialects:
   - rolv_code: 8642
     language_tag: crb-x-HIS08642

@@ -1,7 +1,6 @@
 ---
 iso: fip
 name: Fipa
-name_zh: Fipa語
 autonym: Ichifipa
 alt_names: [Cifipa, Fiba, Icifipa, Kifipa]
 population: 713000
@@ -15,6 +14,11 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > East Bantu > Corridor Bantu > Mbozi > Mwika > Fipaic > Fipa"
 wikipedia_url: "https://en.wikipedia.org/wiki/Fipa_language"
+translations:
+  - translation_iso: jpn
+    name: フィパ語
+  - translation_iso: zho
+    name: Fipa語
 rolv_dialects:
   - rolv_code: 9829
     language_tag: fip-x-HIS09829

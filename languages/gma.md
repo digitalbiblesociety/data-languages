@@ -1,8 +1,6 @@
 ---
 iso: gma
 name: Gambera
-name_zh: 甘贝拉语
-name_zh_auto: true
 autonym: Worrorran
 alt_names: [Barurungari, Gaambera, Gambere, Gamberre, Gambre, Gamgre, Guwan, Kambera, Kamberange, Kambre, Kambumiri, Kambure, Kanbre, Kularri/Gularri south westerners, Northern Language, Purungari]
 population: null
@@ -15,4 +13,8 @@ glottocode: gamb1251
 glottolog_family_id: worr1236
 glottolog_family_name: Worrorran
 glottolog_classification: "Worrorran > Northern Worrorran > Forrest River > Gambera"
+translations:
+  - translation_iso: zho
+    name: 甘贝拉语
+    auto: true
 ---

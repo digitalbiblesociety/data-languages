@@ -1,8 +1,6 @@
 ---
 iso: aqg
 name: Arigidi
-name_zh: 阿里吉迪语
-name_zh_auto: true
 autonym: Arigidi
 alt_names: [Akoko language, North Akoko]
 population: 3000
@@ -16,6 +14,10 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Defoid > Arigidi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Akoko_language"
+translations:
+  - translation_iso: zho
+    name: 阿里吉迪语
+    auto: true
 rolv_dialects:
   - rolv_code: 1942
     language_tag: aqg-x-HIS01942

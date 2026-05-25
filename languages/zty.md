@@ -1,8 +1,6 @@
 ---
 iso: zty
 name: Yatee Zapotec
-name_zh: 亚蒂萨波特克语
-name_zh_auto: true
 autonym: Lachirioag Zapotec
 alt_names: [Northern Sapoteko, Zapotec, "Zapotec, Yatee", Zapoteco de Yatee]
 population: 5000
@@ -16,5 +14,9 @@ glottolog_family_id: otom1299
 glottolog_family_name: Otomanguean
 glottolog_classification: "Otomanguean > Eastern Otomanguean > Popoloca-Zapotecan > Zapotecan > Zapotec > Core Zapotec > Narrow Core Zapotec > Northern Core Zapotec > Rinconic > Yatee Zapotec"
 wikipedia_url: "https://en.wikipedia.org/wiki/Yatee_Zapotec"
+translations:
+  - translation_iso: zho
+    name: 亚蒂萨波特克语
+    auto: true
 ---
 Yatee Zapotec and Lachirioag Zapotec are dialects of a Zapotec language of Oaxaca, Mexico.

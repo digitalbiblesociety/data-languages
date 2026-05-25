@@ -1,7 +1,6 @@
 ---
 iso: lmn
 name: Lambadi
-name_zh: 兰巴迪语
 autonym: "Gor-boli"
 alt_names: [Bangala, Banjara, Banjari, Banjori, Banjuri, Brinjari, Gohar-Herkeri, Goola, Gormati, Gurmarti, Kora, Labhani, Labhani Muka, Lamadi, Lamani, Lambani, Lambara, Lavani, Lemadi, Lumadale, Singali, Sugali, Sukali, Tanda, Vanjari, Wanji]
 population: 40000000
@@ -16,6 +15,13 @@ glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Indo-Aryan > Middle-Modern Indo-Aryan > Continental Indo-Aryan > Midlands Indo-Aryan > Apabhramsic > Gujarati-Rajasthani > Rajasthani > Western Rajasthani > Lambadi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Lambadi"
+translations:
+  - translation_iso: hin
+    name: बंजारा भाषा
+  - translation_iso: jpn
+    name: ランバディ語
+  - translation_iso: zho
+    name: 兰巴迪语
 rolv_dialects:
   - rolv_code: 856
     language_tag: lmn-x-HIS00856

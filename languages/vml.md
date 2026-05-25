@@ -1,7 +1,6 @@
 ---
 iso: vml
 name: Malgana
-name_zh: 马尔加纳语
 autonym: Maldjana
 alt_names: [Buluguda, Daguda, Damala, Madjana, Majanna, Maljanna, Malkana, Malyana, Marlgana, Tamala]
 population: null
@@ -15,5 +14,8 @@ glottolog_family_id: pama1250
 glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > South-West Pama-Nyungan > Kartu-Nhanda > Kartu > Malgana"
 wikipedia_url: "https://en.wikipedia.org/wiki/Malgana_language"
+translations:
+  - translation_iso: zho
+    name: 马尔加纳语
 ---
 Malgana, also known as Malkana, is the Aboriginal Australian language of the Malgana people of Western Australia. It is one of the Kartu languages of the Pama–Nyungan family of languages.

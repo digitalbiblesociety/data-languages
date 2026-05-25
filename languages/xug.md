@@ -1,7 +1,6 @@
 ---
 iso: xug
 name: Kunigami
-name_zh: 國頭語
 autonym: 山原言葉/ヤンバルクトゥーバ
 alt_names: [Idioma kunigami, Kounigameg, Ryukyuan, Кунигамиски јазик, 国頭方言]
 population: 5000
@@ -15,6 +14,13 @@ glottolog_family_id: japo1237
 glottolog_family_name: Japonic
 glottolog_classification: "Japonic > Ryukyuan > Northern Ryukyuan > Okinawa > Kunigami"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kunigami_language"
+translations:
+  - translation_iso: jpn
+    name: 沖縄北部方言
+  - translation_iso: kor
+    name: 쿠니가미어
+  - translation_iso: zho
+    name: 國頭語
 rolv_dialects:
   - rolv_code: 12504
     language_tag: xug-x-HIS12504

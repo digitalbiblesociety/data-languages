@@ -1,7 +1,6 @@
 ---
 iso: sey
 name: Secoya
-name_zh: 赛科亚语
 autonym: Paikoka
 alt_names: [Kakawahe, Macaguaje, Paicoca /secoya (Équateur), Piohé, Piojé, Secoya-Gai, secoya (Colombie), secoya (Perú), secoya (Pérou)]
 population: 1005
@@ -15,6 +14,9 @@ glottolog_family_id: tuca1253
 glottolog_family_name: Tucanoan
 glottolog_classification: "Tucanoan > Western Tucanoan > Napo Tucanoan > Siona-Secoya > Secoya"
 wikipedia_url: "https://en.wikipedia.org/wiki/Secoya_language"
+translations:
+  - translation_iso: zho
+    name: 赛科亚语
 rolv_dialects:
   - rolv_code: 16414
     language_tag: sey-x-HIS16414

@@ -1,8 +1,6 @@
 ---
 iso: kxi
 name: Keningau Murut
-name_zh: 肯尼高穆鲁特语
-name_zh_auto: true
 autonym: Central Murut
 alt_names: ["Murut, Keningau"]
 population: 1000
@@ -16,6 +14,10 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > North Borneo Malayo-Polynesian > Sabahan > Southwest Sabahan > Greater Murutic > Murutic > Northern Murutic > Lowland Murut > Keningau Murut"
 wikipedia_url: "https://en.wikipedia.org/wiki/Keningau_Murut_language"
+translations:
+  - translation_iso: zho
+    name: 肯尼高穆鲁特语
+    auto: true
 rolv_dialects:
   - rolv_code: 11806
     language_tag: kxi-x-HIS11806

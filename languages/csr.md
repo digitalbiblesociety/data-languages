@@ -1,7 +1,6 @@
 ---
 iso: csr
 name: Costa Rican Sign Language
-name_zh: 哥斯达黎加手语
 autonym: Lengua de Señas Costarricense (LESCO)
 population: 15000
 country_id: CR
@@ -14,6 +13,11 @@ glottolog_family_id: sign1238
 glottolog_family_name: Sign Language
 glottolog_classification: "Sign Language > L1 Sign Language > LSFic > ASLic > Costa Rican Sign Language"
 wikipedia_url: "https://en.wikipedia.org/wiki/Costa_Rican_Sign_Language"
+translations:
+  - translation_iso: jpn
+    name: コスタリカ手話
+  - translation_iso: zho
+    name: 哥斯达黎加手语
 rolv_dialects:
   - rolv_code: 24720
     language_tag: csr-x-HIS24720

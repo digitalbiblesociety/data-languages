@@ -1,8 +1,6 @@
 ---
 iso: sdo
 name: "Bukar-Sadung Bidayuh"
-name_zh: 布卡-萨东比达尤语
-name_zh_auto: true
 autonym: Buka
 alt_names: ["Bidayuh, Bukar-Sadung", Bukar, Bukar Sadong, Mentu, Mentuh Tapuh, Sabutan, Sadong, Saputan, Seputan, Serian, Tebakang]
 population: 49100
@@ -16,6 +14,10 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Land Dayak > Bidayuh-Southern Land Dayak > Bidayuh > Bukar-Sadung Bidayuh"
 wikipedia_url: "https://en.wikipedia.org/wiki/Bukar%E2%80%93Sadong_language"
+translations:
+  - translation_iso: zho
+    name: 布卡-萨东比达尤语
+    auto: true
 rolv_dialects:
   - rolv_code: 3801
     language_tag: sdo-x-HIS03801

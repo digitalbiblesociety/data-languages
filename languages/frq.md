@@ -1,8 +1,6 @@
 ---
 iso: frq
 name: Forak
-name_zh: 福拉克语
-name_zh_auto: true
 autonym: Forak
 population: 283
 country_id: PG
@@ -15,5 +13,9 @@ glottolog_family_id: nucl1709
 glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Finisterre-Huon > Finisterre-Saruwaged > Warup > Nuclear Warup > Forak"
 wikipedia_url: "https://en.wikipedia.org/wiki/Forak_language"
+translations:
+  - translation_iso: zho
+    name: 福拉克语
+    auto: true
 ---
 Forak is one of the Finisterre languages of Papua New Guinea. It is spoken in Mamgak village of Rai Coast Rural LLG, Madang Province.

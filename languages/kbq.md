@@ -1,8 +1,6 @@
 ---
 iso: kbq
 name: Kamano
-name_zh: 卡玛诺语
-name_zh_auto: true
 autonym: "Kamano-Kafe"
 population: 80000
 country_id: PG
@@ -15,5 +13,11 @@ glottolog_family_id: nucl1709
 glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Kainantu-Goroka > Goroka > Nuclear Goroka > Siane-Yagaria > Kamano-Yagaria > Kamano"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kamano_language"
+translations:
+  - translation_iso: jpn
+    name: カマノ語
+  - translation_iso: zho
+    name: 卡玛诺语
+    auto: true
 ---
 Kamano (Kamano-Kafe) is a Papuan language spoken in Eastern Highlands Province, Papua New Guinea.

@@ -1,8 +1,6 @@
 ---
 iso: bhi
 name: Bhilali
-name_zh: 比拉利语
-name_zh_auto: true
 autonym: Bhilala
 population: 753000
 country_id: IN
@@ -16,6 +14,12 @@ glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Indo-Aryan > Middle-Modern Indo-Aryan > Continental Indo-Aryan > Midlands Indo-Aryan > Bhil > Pauri-Nahali > Bhilali"
 wikipedia_url: "https://en.wikipedia.org/wiki/Bhilali_language"
+translations:
+  - translation_iso: hin
+    name: भिलाली भाषा
+  - translation_iso: zho
+    name: 比拉利语
+    auto: true
 rolv_dialects:
   - rolv_code: 24409
     language_tag: bhi-x-HIS24409

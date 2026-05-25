@@ -1,8 +1,6 @@
 ---
 iso: enn
 name: Engenni
-name_zh: 恩根尼语
-name_zh_auto: true
 autonym: Ẹgẹnẹ
 alt_names: [Egene, "Egene, Engene", Ngene]
 population: 20000
@@ -16,6 +14,10 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Akpes-Edoid > Edoid > Delta Edoid > Degema-Engenni > Egene"
 wikipedia_url: "https://en.wikipedia.org/wiki/Engenni_language"
+translations:
+  - translation_iso: zho
+    name: 恩根尼语
+    auto: true
 rolv_dialects:
   - rolv_code: 9584
     language_tag: enn-x-HIS09584

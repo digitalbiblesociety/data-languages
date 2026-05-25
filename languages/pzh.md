@@ -1,7 +1,6 @@
 ---
 iso: pzh
 name: Pazeh
-name_zh: 巴宰-噶哈巫語
 autonym: Pazeh
 alt_names: [Kahabu, Kaxabu, Kulon, Kulon-Pazeh, Kulon-Pazih, Kulun, Lingua Pazeh, Pazeh-Kaxabu, Pazehe, Pazih, Pazzehe, Sprache von Formosa, パゼッヘ語, 噶哈巫語, 巴宰語]
 population: 12
@@ -14,6 +13,13 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Northwest Formosan > Pazeh-Kahabu"
 wikipedia_url: "https://en.wikipedia.org/wiki/Pazeh%E2%80%93Kaxabu_language"
+translations:
+  - translation_iso: jpn
+    name: パゼッヘ語
+  - translation_iso: kor
+    name: 파제어
+  - translation_iso: zho
+    name: 巴宰-噶哈巫語
 rolv_dialects:
   - rolv_code: 27204
     language_tag: pzh-x-HIS27204

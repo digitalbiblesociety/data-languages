@@ -1,7 +1,6 @@
 ---
 iso: mnk
 name: Mandinka
-name_zh: 曼丁哥语
 autonym: Mandingo
 alt_names: [Bahasa Mandinka, Gambian Mandinka, Gjuha mandinka, Język mandinka, Língua mandinga, Mande, Manding, Mandinga, Mandinga jezik, Mandingue, Mandinka (Gambian), Mandinka lingvo, Mandinka-språket, Mandinkan kieli, Mandinkeg, Mandinko-kan, Mandinkų kalba, Mandinque, Mandé, Socé, Мандинка, زبان ماندایی, لغة مندنكا, মানডিঙ্কা ভাষা, マンディンカ語, 曼丁哥语]
 population: 1300000
@@ -15,6 +14,17 @@ glottolog_family_id: mand1469
 glottolog_family_name: Mande
 glottolog_classification: "Mande > Western Mande > Manding-Kpelle > Central Mande > Manding-Jogo > Manding-Vai > Manding-Mokole > Manding > West Manding > Mandinka"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mandinka_language"
+translations:
+  - translation_iso: ara
+    name: لغة مندنكا
+  - translation_iso: hin
+    name: मंडिंका भाषा
+  - translation_iso: jpn
+    name: マンディンカ語
+  - translation_iso: kor
+    name: 만딩카어
+  - translation_iso: zho
+    name: 曼丁哥语
 rolv_dialects:
   - rolv_code: 29135
     language_tag: mnk-x-HIS29135

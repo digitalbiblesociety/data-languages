@@ -1,8 +1,6 @@
 ---
 iso: beq
 name: Beembe
-name_zh: 贝恩贝语
-name_zh_auto: true
 autonym: Kibeembe
 alt_names: [Beembe (H.11), Bembe, Bembe (CK if same Bembe), Bembe (Congo)]
 population: 100000
@@ -16,6 +14,10 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > Central-Western Bantu > West-Coastal Bantu > Nzadic > Lweric > Dingic > Loange-Atlantic > KLC Extended > Kikongo Language Cluster > Nuclear KLC > Kikongoic > Beembe"
 wikipedia_url: "https://en.wikipedia.org/wiki/Bembe_language_(Kibembe)"
+translations:
+  - translation_iso: zho
+    name: 贝恩贝语
+    auto: true
 rolv_dialects:
   - rolv_code: 7918
     language_tag: beq-x-HIS07918

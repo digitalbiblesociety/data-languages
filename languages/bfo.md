@@ -1,8 +1,6 @@
 ---
 iso: bfo
 name: Malba Birifor
-name_zh: 马尔巴比里福语
-name_zh_auto: true
 autonym: "Birifor, Northern"
 alt_names: [Birifo, "Birifor, Malba", Malba-Birifor, Northern Birifor]
 population: 108000
@@ -16,6 +14,10 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Gur > Central Gur > Northern Central Gur > Bwamu-Oti-Volta > Oti-Volta > Nuclear Oti-Volta > Gurma-Yom-Oti-Volta Occidental > Oti-Volta Occidental > Nuclear Oti-Volta Occidental > Northwest Oti-Volta > Safaliba-Dagaare > Dagaaric > North-West Dagaric > Birifor > Malba Birifor"
 wikipedia_url: "https://en.wikipedia.org/wiki/Northern_Birifor_language"
+translations:
+  - translation_iso: zho
+    name: 马尔巴比里福语
+    auto: true
 rolv_dialects:
   - rolv_code: 1721
     language_tag: bfo-x-HIS01721

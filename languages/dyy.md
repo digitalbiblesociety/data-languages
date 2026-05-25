@@ -1,8 +1,6 @@
 ---
 iso: dyy
 name: Djabugay
-name_zh: 詹布盖语
-name_zh_auto: true
 autonym: "Bulum-Bulum"
 alt_names: [Barron River dialect, Binggu, Check-Cull, Chewlie, Djabugai, Dyaabugay, Dyabugai, Dyabugandyi, Dyabugay, Hileman, Kikonjunkulu, Kodgotto, Koko-Tjumbundji, Koko-tjumbun, Kokonjunkulu, Kokonyungalo, Kokoyungalo, Lenga dyaabugay, Ngarlkajie, Njakali, Nyakali, Orlow, Tajbogaijanji, Tjabakai-Thandji, Tjabogaijanji, Tjabogaitjandji, Tjankir, Tjankun, Tjapukai, Tjapukandji, Tjapukanja, Tjapunkandji, Tjunbundji]
 population: 81
@@ -16,6 +14,10 @@ glottolog_family_id: pama1250
 glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > Yimidhirr-Yalanji-Yidinic > Yidinic > Dyaabugay"
 wikipedia_url: "https://en.wikipedia.org/wiki/Djabugay_language"
+translations:
+  - translation_iso: zho
+    name: 詹布盖语
+    auto: true
 rolv_dialects:
   - rolv_code: 9485
     language_tag: dyy-x-HIS09485

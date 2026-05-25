@@ -1,8 +1,6 @@
 ---
 iso: tyj
 name: Tai Do
-name_zh: 泰多语
-name_zh_auto: true
 autonym: Tay Muoi
 alt_names: [Tai Yo, Tay Quy Chau, Tay Yo, Tay-Jo]
 population: 300
@@ -16,6 +14,10 @@ glottolog_family_id: taik1256
 glottolog_family_name: Tai-Kadai
 glottolog_classification: "Tai-Kadai > Kam-Tai > Daic-Beic > Daic > Central-Southwestern Tai > Wenma-Southwestern Tai > Sapa-Southwestern Tai > Southwestern Tai > Southwestern Tai P > Chiang Saeng > Red Tai > Tai Muong > Tai Do-Mene-Yo"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tai_Do_language"
+translations:
+  - translation_iso: zho
+    name: 泰多语
+    auto: true
 rolv_dialects:
   - rolv_code: 17061
     language_tag: tyj-x-HIS17061

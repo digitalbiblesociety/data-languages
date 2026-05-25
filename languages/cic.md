@@ -1,7 +1,6 @@
 ---
 iso: cic
 name: Chickasaw
-name_zh: 奇卡索語
 autonym: "Chikashshanompa'"
 alt_names: [Chicasa, Chikasa simi, Lengua chickasaw, Oklahoma, Tchikasaweg, Чикасо, சிக்காசோ மொழி]
 population: 1000
@@ -16,5 +15,12 @@ glottolog_family_id: musk1252
 glottolog_family_name: Muskogean
 glottolog_classification: "Muskogean > Western Muskogean > Chickasaw"
 wikipedia_url: "https://en.wikipedia.org/wiki/Chickasaw_language"
+translations:
+  - translation_iso: hin
+    name: चिकसॉ
+  - translation_iso: jpn
+    name: チカソー語
+  - translation_iso: zho
+    name: 奇卡索語
 ---
 The Chickasaw language is a Native American language of the Muskogean family. It is agglutinative and follows the word order pattern of subject–object–verb (SOV). The language is closely related to, though perhaps not entirely mutually intelligible with, Choctaw. It is spoken by the Chickasaw tribe, now residing in Southeast Oklahoma, centered on Ada.

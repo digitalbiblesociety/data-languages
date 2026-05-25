@@ -1,7 +1,6 @@
 ---
 iso: neg
 name: Negidal
-name_zh: 涅吉達爾語
 autonym: "El'kan Beye"
 alt_names: [Elkembei, Ilkan Beye, Neghidal, Negidaalin kieli, Negidala lingvo, Negidale, Negidaleg, Negidalsk, Negidalsk språk, Negidaly, Negidalų kalba, Nigidal, Негидалски јазик, Неғида, негидальский язык]
 population: 150
@@ -15,6 +14,13 @@ glottolog_family_id: tung1282
 glottolog_family_name: Tungusic
 glottolog_classification: "Tungusic > Northeastern Tungusic > Northern Tungusic > Negidalic > Negidal"
 wikipedia_url: "https://en.wikipedia.org/wiki/Negidal_language"
+translations:
+  - translation_iso: jpn
+    name: ネギダール語
+  - translation_iso: kor
+    name: 네기달어
+  - translation_iso: zho
+    name: 涅吉達爾語
 rolv_dialects:
   - rolv_code: 14812
     language_tag: neg-x-HIS14812

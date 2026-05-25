@@ -1,8 +1,6 @@
 ---
 iso: taj
 name: Eastern Tamang
-name_zh: 东塔芒语
-name_zh_auto: true
 autonym: तामाङ
 alt_names: [Murmi, Tamang, Tamang language, "Tamang, Eastern", "Tamang,Eastern", Таманґ, तामाङ भाषा, ภาษาตามัง, 达芒语]
 population: 1180000
@@ -17,6 +15,10 @@ glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Bodic > Kaike-Ghale-Tamangic > Ghale-Tamangic > Tamangic > Nuclear Tamang > Eastern Tamang"
 wikipedia_url: "https://en.wikipedia.org/wiki/Eastern_Tamang"
+translations:
+  - translation_iso: zho
+    name: 东塔芒语
+    auto: true
 rolv_dialects:
   - rolv_code: 4341
     language_tag: taj-x-HIS04341

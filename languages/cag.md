@@ -1,7 +1,6 @@
 ---
 iso: cag
 name: Nivaclé
-name_zh: 尼瓦克莱语
 autonym: Niwaklé
 alt_names: [Ajlujlay, Ashlushlay, Ashluslay, Axluslay, Axluxlay, Chulup, Chulupe, Chulupi, Chulupie, Chulupí, Chunupi, Churupi, Churupí, Nivacle, Nivaklé, Nivaklų kalba, Niwaqli simi]
 population: 12200
@@ -15,6 +14,11 @@ glottolog_family_id: mata1289
 glottolog_family_name: Mataguayan
 glottolog_classification: "Mataguayan > Mataguayo I > Nivaclé"
 wikipedia_url: "https://en.wikipedia.org/wiki/Nivacl%C3%A9_language"
+translations:
+  - translation_iso: jpn
+    name: ニバクレ語
+  - translation_iso: zho
+    name: 尼瓦克莱语
 rolv_dialects:
   - rolv_code: 8943
     language_tag: cag-x-HIS08943

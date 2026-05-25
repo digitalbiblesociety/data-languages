@@ -1,7 +1,6 @@
 ---
 iso: adz
 name: Adzera
-name_zh: 阿茨拉语
 autonym: null
 alt_names: [Acira, Atsera, Atzera, Azera]
 population: 30000
@@ -15,6 +14,11 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > North New Guinea linkage > Huon Gulf > Markham > Upper Markham > Adzera"
 wikipedia_url: "https://en.wikipedia.org/wiki/Adzera_language"
+translations:
+  - translation_iso: jpn
+    name: アゼラ語
+  - translation_iso: zho
+    name: 阿茨拉语
 rolv_dialects:
   - rolv_code: 6693
     language_tag: adz-x-HIS06693

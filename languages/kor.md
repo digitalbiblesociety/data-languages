@@ -1,7 +1,6 @@
 ---
 iso: kor
 name: Korean
-name_zh: 朝鲜语
 autonym: 한국어
 alt_names: [An Chóiréis, Bahasa Korea, Basa Koréa, Chaoxian, Chosen·, Corean, Coreanu, Coreà, Coréen, Corëeg, Gjuha koreane, Hanguk Mal, Hanguohua, Hankul, Idioma coreano, Idioma corián, IsiKoriya, Język koreański, Korea keel, Korea lingvo, Koreaans, Koreai nyelv, Korean kieli, Koreana linguo, Koreaneg, Koreanisch, Koreanische Sprache, Koreano, Koreansk, Koreansk språk, Koreanska, Korece, Koreek, Koreera, Korejiešu valoda, Korejski jezik, Korejština, Koreya dili, Koreý dili, Korêyî, Korėjiečių kalba, Kuriya simi, Kòrejańsczi jãzëk, Kórejčina, Kóreska, Lengua coreana, Limba coreeană, Lingua Coreana, Língua coreana, Reo Kōrea, Tiếng Triều Tiên, Tsêu-siên-ngî, Urkoreanisch, Wikang Koreano, Забони кореягӣ, Карэйская мова, Корейски език, Корейский язык, Корейська мова, Корејски јазик, Корејски језик, Кэриэй тыла, Солонгос хэл, Կորեերեն, קוריאנית, زبان کره‌ای, كورىيەچە, لغة كورية, ކޮރެޔާ ބަސް, कोरियन भाषा, कोरियायी भाषा और साहित्य, কোরীয় ভাষা, கொரிய மொழி, ಕೊರಿಯಾದ ಭಾಷೆ, ภาษาเกาหลี, ພາສາເກົາຫຼີ, კორეული ენა, ኮሪይኛ, ᎪᎵᎥ, ᑯᕆᐊᑎᑐᑦ/kuriatituq, ភាសាកូរ៉េ, 朝鮮話, 朝鮮語, 朝鲜语, 韓文, 韓語]
 population: 77300000
@@ -16,6 +15,17 @@ glottolog_family_id: kore1284
 glottolog_family_name: Koreanic
 glottolog_classification: "Koreanic > Korean"
 wikipedia_url: "https://en.wikipedia.org/wiki/Korean_language"
+translations:
+  - translation_iso: ara
+    name: الكورية
+  - translation_iso: hin
+    name: कोरियाई भाषा
+  - translation_iso: jpn
+    name: 朝鮮語
+  - translation_iso: kor
+    name: 한국어
+  - translation_iso: zho
+    name: 朝鲜语
 rolv_dialects:
   - rolv_code: 4856
     language_tag: ko-x-HIS04856

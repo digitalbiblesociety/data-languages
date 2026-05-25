@@ -1,7 +1,6 @@
 ---
 iso: coo
 name: Comox
-name_zh: 科莫克斯語
 autonym: ʔayajuθəm
 alt_names: [Comox Cluster, Comox-Sliammon, Comox/sliammon, Comux, Cómox, Komoksa lingvo, Mainland Comox, Sliammon, Çatlotq, Éy7á7juuthem (Comox)]
 population: 400
@@ -15,6 +14,11 @@ glottolog_family_id: sali1255
 glottolog_family_name: Salishan
 glottolog_classification: "Salishan > Coast Salish > Central Salish > North Georgia Central Salish > Comox"
 wikipedia_url: "https://en.wikipedia.org/wiki/Comox_language"
+translations:
+  - translation_iso: jpn
+    name: コモックス語
+  - translation_iso: zho
+    name: 科莫克斯語
 rolv_dialects:
   - rolv_code: 9002
     language_tag: coo-x-HIS09002

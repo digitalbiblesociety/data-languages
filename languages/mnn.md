@@ -1,8 +1,6 @@
 ---
 iso: mnn
 name: Southern Mnong
-name_zh: 南蒙翁语
-name_zh_auto: true
 autonym: Bunong (ឞូន៝ង)
 alt_names: ["Mnong, Southern", Penong]
 population: 30000
@@ -15,4 +13,8 @@ glottocode: sout2692
 glottolog_family_id: aust1305
 glottolog_family_name: Austroasiatic
 glottolog_classification: "Austroasiatic > Bahnaric > West Bahnaric > South Bahnaric > Mnong-Stieng-Chrau > Mnong > Southern-Central Mnong > Southern Mnong"
+translations:
+  - translation_iso: zho
+    name: 南蒙翁语
+    auto: true
 ---

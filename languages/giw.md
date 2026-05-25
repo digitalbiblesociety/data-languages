@@ -1,7 +1,6 @@
 ---
 iso: giw
 name: White Gelao
-name_zh: 白仡佬语
 autonym: Kláo
 alt_names: [Gelao, Gelao blanc (China), Gelao blanc (Viet Nam), Gelao blanco (Vietnam), "Gelao, White", Southwestern Gelao, Telue, Tú Du, White, 仡佬語多羅方言, 白仡佬]
 population: 1220
@@ -15,6 +14,9 @@ glottolog_family_id: taik1256
 glottolog_family_name: Tai-Kadai
 glottolog_classification: "Tai-Kadai > Kadaic > Southwestern Kra > Western Kra > Gauic > Gelaoic > Southwestern Gelao > Duoluo Gelao"
 wikipedia_url: "https://en.wikipedia.org/wiki/Telue_language"
+translations:
+  - translation_iso: zho
+    name: 白仡佬语
 rolv_dialects:
   - rolv_code: 6248
     language_tag: giw-x-HIS06248

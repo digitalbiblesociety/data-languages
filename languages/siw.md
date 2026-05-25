@@ -1,8 +1,6 @@
 ---
 iso: siw
 name: Siwai
-name_zh: 西瓦伊语
-name_zh_auto: true
 autonym: Siwai
 alt_names: [Motuna]
 population: 6600
@@ -16,6 +14,12 @@ glottolog_family_id: sout2948
 glottolog_family_name: South Bougainville
 glottolog_classification: "South Bougainville > Buinic > Siwai"
 wikipedia_url: "https://en.wikipedia.org/wiki/Motuna_language"
+translations:
+  - translation_iso: jpn
+    name: モトゥナ語
+  - translation_iso: zho
+    name: 西瓦伊语
+    auto: true
 rolv_dialects:
   - rolv_code: 16772
     language_tag: siw-x-HIS16772

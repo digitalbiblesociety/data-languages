@@ -1,8 +1,6 @@
 ---
 iso: opk
 name: Kopkaka
-name_zh: 科普卡卡语
-name_zh_auto: true
 autonym: Kopka
 population: 400
 country_id: ID
@@ -15,6 +13,10 @@ glottolog_family_id: nucl1709
 glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Asmat-Awyu-Ok > Awyu-Ok > Ok-Oksapmin > Ok > Kwer-Kopkaka-Burumakok > Kopkaka"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kopka_language"
+translations:
+  - translation_iso: zho
+    name: 科普卡卡语
+    auto: true
 rolv_dialects:
   - rolv_code: 13789
     language_tag: opk-x-HIS13789

@@ -1,8 +1,6 @@
 ---
 iso: sax
 name: Sa
-name_zh: 萨语
-name_zh_auto: true
 autonym: Saa
 alt_names: [Vanuatu]
 population: 2500
@@ -16,6 +14,12 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > North and Central Vanuatu > Central Vanuatu > South Pentecost > Sa"
 wikipedia_url: "https://en.wikipedia.org/wiki/Saa_language"
+translations:
+  - translation_iso: jpn
+    name: サ語
+  - translation_iso: zho
+    name: 萨语
+    auto: true
 rolv_dialects:
   - rolv_code: 16131
     language_tag: sax-x-HIS16131

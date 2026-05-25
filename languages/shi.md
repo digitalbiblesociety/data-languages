@@ -1,7 +1,6 @@
 ---
 iso: shi
 name: Tachelhit
-name_zh: 施卢赫语
 autonym: Tashelhiyt
 alt_names: [Chleuh, Idioma tashelhit, Shandu, Shendu, Shilha, Shilha/Tashlhiyt, Southern Shilha, Susiua, Tacelḥit, Tachelhait, Tacheliteg, Tachilhit, Taschelhit, Tashelhait, Tashelhayt, Tashelheyt, Tashelhit, Tashelhit Berber, Tashelit, Tashilheet, Tashlhiyt, Tasoussit, Taxelhit, Śandu, لهجة تاشلحيت]
 population: 5118000
@@ -16,6 +15,17 @@ glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Berber > Kabyle-Atlas Berber > Atlas Berber > Tachelhit"
 wikipedia_url: "https://en.wikipedia.org/wiki/Shilha_language"
+translations:
+  - translation_iso: ara
+    name: الشلحية
+  - translation_iso: hin
+    name: तैचेल्हित
+  - translation_iso: jpn
+    name: シルハ語
+  - translation_iso: kor
+    name: 실하어
+  - translation_iso: zho
+    name: 施卢赫语
 rolv_dialects:
   - rolv_code: 3042
     language_tag: shi-x-HIS03042

@@ -1,8 +1,6 @@
 ---
 iso: mek
 name: Mekeo
-name_zh: 梅克奥语
-name_zh_auto: true
 autonym: null
 alt_names: [Kovio, Mekeo-Kovio]
 population: 20000
@@ -16,6 +14,12 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > Papuan Tip linkage > Peripheral Papuan Tip linkage > Central Papuan Oceanic > West Central Papuan linkage > Nuclear West Central Papuan linkage > Mekeo"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mekeo_language"
+translations:
+  - translation_iso: jpn
+    name: メケオ語
+  - translation_iso: zho
+    name: 梅克奥语
+    auto: true
 rolv_dialects:
   - rolv_code: 643
     language_tag: mek-x-HIS00643

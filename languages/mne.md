@@ -1,7 +1,6 @@
 ---
 iso: mne
 name: Naba
-name_zh: 納巴語
 autonym: Tar Melbene
 alt_names: [Kuka, Набаски јазик]
 population: 510000
@@ -15,6 +14,13 @@ glottolog_family_id: cent2225
 glottolog_family_name: Central Sudanic
 glottolog_classification: "Central Sudanic > Sara-Bongo-Bagirmi > SBB Occidental > Nuclear SBB Occidental > Saraic > Bagirmic > Morom-Jaya-Naba > Naba-Berakou > Naba"
 wikipedia_url: "https://en.wikipedia.org/wiki/Naba_language"
+translations:
+  - translation_iso: ara
+    name: نابا
+  - translation_iso: jpn
+    name: ナバ語
+  - translation_iso: zho
+    name: 納巴語
 rolv_dialects:
   - rolv_code: 2966
     language_tag: mne-x-HIS02966

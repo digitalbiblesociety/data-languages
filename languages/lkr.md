@@ -1,7 +1,6 @@
 ---
 iso: lkr
 name: Päri
-name_zh: 帕里语
 autonym: Lokoro
 alt_names: [Pari]
 population: 79000
@@ -15,5 +14,10 @@ glottolog_family_id: nilo1247
 glottolog_family_name: Nilotic
 glottolog_classification: "Nilotic > Western Nilotic > Lwoo > Northern Lwoo > Päri"
 wikipedia_url: "https://en.wikipedia.org/wiki/P%C3%A4ri_language"
+translations:
+  - translation_iso: jpn
+    name: Päri語
+  - translation_iso: zho
+    name: 帕里语
 ---
 Päri is a Luo language of South Sudan. Päri has been claimed to have ergative alignment, which is rare-to-nonexistent in African languages, although recent descriptions of the language have instead described the case system as marked nominative (nominative–absolutive).

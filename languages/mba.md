@@ -1,8 +1,6 @@
 ---
 iso: mba
 name: Higaonon
-name_zh: 希加翁语
-name_zh_auto: true
 autonym: Misamis Higaonon Manobo
 population: 30000
 country_id: PH
@@ -15,6 +13,10 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Greater Central Philippine > Manobo > North Manobo > Kinamiguin-Bukidnon > Bukidnon > Higaonon"
 wikipedia_url: "https://en.wikipedia.org/wiki/Higaonon_language"
+translations:
+  - translation_iso: zho
+    name: 希加翁语
+    auto: true
 rolv_dialects:
   - rolv_code: 31377
     language_tag: mba-x-HIS31377

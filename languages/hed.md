@@ -1,8 +1,6 @@
 ---
 iso: hed
 name: Herdé
-name_zh: 赫尔德语
-name_zh_auto: true
 autonym: Lame
 alt_names: ["\"Kado\"", "He'dé", "Ka'do Herdé", Zime]
 population: 40000
@@ -15,4 +13,8 @@ glottocode: herd1236
 glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > Masa > South Masa > Peveic > Hede-Ngide > Herde"
+translations:
+  - translation_iso: zho
+    name: 赫尔德语
+    auto: true
 ---

@@ -1,7 +1,6 @@
 ---
 iso: khn
 name: Khandesi
-name_zh: 坎德什语
 autonym: Ahirani
 alt_names: [Dhed Gujari, Khandeshi, Khandish]
 population: 15900
@@ -16,6 +15,15 @@ glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Indo-Aryan > Middle-Modern Indo-Aryan > Continental Indo-Aryan > Midlands Indo-Aryan > Khandesic > Khandesi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Khandeshi_language"
+translations:
+  - translation_iso: hin
+    name: अहिराणी भाषा
+  - translation_iso: jpn
+    name: カーンデーシュ語
+  - translation_iso: kor
+    name: 칸데시어군
+  - translation_iso: zho
+    name: 坎德什语
 rolv_dialects:
   - rolv_code: 11938
     language_tag: khn-x-HIS11938

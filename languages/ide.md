@@ -1,8 +1,6 @@
 ---
 iso: ide
 name: Idere
-name_zh: 伊德雷语
-name_zh_auto: true
 autonym: null
 alt_names: [Nigeria]
 population: 5000
@@ -16,5 +14,9 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Delta Cross > Lower Cross > Nuclear Lower Cross > Central Lower Cross > Efikic > Unclassified Efikic > Idere"
 wikipedia_url: "https://en.wikipedia.org/wiki/Idere_language"
+translations:
+  - translation_iso: zho
+    name: 伊德雷语
+    auto: true
 ---
 Idere is an Ibibio-Efik language of Nigeria.

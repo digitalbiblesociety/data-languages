@@ -1,7 +1,6 @@
 ---
 iso: zeh
 name: Eastern Hongshuihe Zhuang
-name_zh: 東紅水河壯語
 autonym: null
 alt_names: [Chuang, Hongshuihe, Zhuang, Zhuang (Northern), "Zhuang, Eastern Hongshuihe"]
 population: 1200000
@@ -15,6 +14,11 @@ glottolog_family_id: taik1256
 glottolog_family_name: Tai-Kadai
 glottolog_classification: "Tai-Kadai > Kam-Tai > Daic-Beic > Daic > Northern Daic-Sek > Northern Daic > Northern Tai > Hongshui He > Western Hongshui He > Eastern Hongshuihe Zhuang"
 wikipedia_url: "https://en.wikipedia.org/wiki/Eastern_Hongshuihe_Zhuang"
+translations:
+  - translation_iso: jpn
+    name: 東紅水河チワン語
+  - translation_iso: zho
+    name: 東紅水河壯語
 rolv_dialects:
   - rolv_code: 5123
     language_tag: zeh-x-HIS05123

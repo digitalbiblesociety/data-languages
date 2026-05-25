@@ -1,8 +1,6 @@
 ---
 iso: gde
 name: Gude
-name_zh: 古德语
-name_zh_auto: true
 autonym: Cheke
 alt_names: [Goude, Mapodi, Mapuda, Mocigin, Motchekin, Mubi, Mudaye, Shede, Tchade, Tcheke]
 population: 88000
@@ -16,5 +14,9 @@ glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > Biu-Mandara > South Biu-Mandara > Bataic > Gudeic > Gude-Jimi-Zizilivakan > Fali-Gude > Gude"
 wikipedia_url: "https://en.wikipedia.org/wiki/Gude_language"
+translations:
+  - translation_iso: zho
+    name: 古德语
+    auto: true
 ---
 Gude is an Afro-Asiatic language spoken in Nigeria in Adamawa State in Mubi South LGA and in Borno State in some parts of Askira-Uba LGA. It is also spoken in neighboring Cameroon. Different dialects are spoken in Nigeria and Cameroon.

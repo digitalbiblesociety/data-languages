@@ -1,8 +1,6 @@
 ---
 iso: lbq
 name: Wampar
-name_zh: 瓦姆帕尔语
-name_zh_auto: true
 autonym: Laewomba
 alt_names: [Laewamba, Laiwomba]
 population: 5150
@@ -16,5 +14,9 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > North New Guinea linkage > Huon Gulf > Markham > Lower Markham > Wampar"
 wikipedia_url: "https://en.wikipedia.org/wiki/Wampar_language"
+translations:
+  - translation_iso: zho
+    name: 瓦姆帕尔语
+    auto: true
 ---
 Wampar is an Austronesian language of Wampar Rural LLG, Morobe Province, Papua New Guinea.

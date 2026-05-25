@@ -1,8 +1,6 @@
 ---
 iso: omo
 name: Utarmbung
-name_zh: 乌塔姆邦语
-name_zh_auto: true
 autonym: Utarmbung
 alt_names: [Osum]
 population: 1170
@@ -16,5 +14,9 @@ glottolog_family_id: nucl1709
 glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Madang > Kalamic-South Adelbert > South Adelbert > Osum-Wadaginam-Pomoikan > Utarmbung"
 wikipedia_url: "https://en.wikipedia.org/wiki/Utarmbung_language"
+translations:
+  - translation_iso: zho
+    name: 乌塔姆邦语
+    auto: true
 ---
 Osum, also known as Utarmbung, is a divergent Madang language of the Adelbert Range of Papua New Guinea.

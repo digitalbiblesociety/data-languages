@@ -1,8 +1,6 @@
 ---
 iso: kew
 name: West Kewa
-name_zh: 西克瓦语
-name_zh_auto: true
 autonym: null
 alt_names: [Kewa, "Kewa, West", Pasuma, Western Kewa]
 population: 45000
@@ -15,4 +13,8 @@ glottocode: west2599
 glottolog_family_id: nucl1709
 glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Enga-Kewa-Huli > Kewa-Huli > Sau-Angal-Kewa > Angal-Kewa > Kewa > West Kewa"
+translations:
+  - translation_iso: zho
+    name: 西克瓦语
+    auto: true
 ---

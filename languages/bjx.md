@@ -1,8 +1,6 @@
 ---
 iso: bjx
 name: Banao Itneg
-name_zh: 巴瑙伊特内格语
-name_zh_auto: true
 autonym: Banao
 alt_names: ["Itneg, Banao", Timggian, Tinguian]
 population: 3500
@@ -15,6 +13,10 @@ glottocode: bana1288
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Northern Luzon > Meso-Cordilleran > South-Central Cordilleran > Central Cordilleran > Kalinga-Itneg > Kalinga > Northern Kalinga > Northwest Kalinga > Banao Itneg"
+translations:
+  - translation_iso: zho
+    name: 巴瑙伊特内格语
+    auto: true
 rolv_dialects:
   - rolv_code: 24434
     language_tag: bjx-x-HIS24434

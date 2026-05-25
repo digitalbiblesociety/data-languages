@@ -1,7 +1,6 @@
 ---
 iso: stq
 name: Saterfriesisch
-name_zh: 萨特弗里斯兰语
 autonym: Seeltersk
 alt_names: [Dialetto frisone orientale, East Frisian, Ekialdeko frisiera, Freeshlannish Hiar, Frisian, Frison oriental, Frisó oriental, Frisón oriental, Frizeg ar reter, Język fryzyjski saterlandzki, Saterfreesche Spraak, Saterfries, Saterfriesiesch, Saterfriesische Sprache, Saterfrisa lingvo, Saterfrisiska, Saterfrizišćina, Saterland Frisian language, Saterlandic Frisian, Saterländisch, Sealterfrysk, Selterfrais, Sâ-thi̍t-fut-lî-sî-ngî, Sæterlendisc, Восточнофризский язык, ザーターフリジア語, 沙特弗里西語]
 population: 5000
@@ -16,5 +15,14 @@ glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Germanic > Northwest Germanic > West Germanic > North Sea Germanic > Anglo-Frisian > Frisian > Ems-Weser Frisian"
 wikipedia_url: "https://en.wikipedia.org/wiki/Saterland_Frisian_language"
+translations:
+  - translation_iso: ara
+    name: اللغة الفريزية السيترلندية
+  - translation_iso: jpn
+    name: 東フリジア語
+  - translation_iso: kor
+    name: 동프리슬란트어
+  - translation_iso: zho
+    name: 萨特弗里斯兰语
 ---
 Saterland Frisian, also known as Sater Frisian, Saterfrisian or Saterlandic, spoken in the Saterland municipality of Lower Saxony in Germany, is the last living dialect of the East Frisian language. It is closely related to the other Frisian languages: North Frisian, spoken in Germany as well, and West Frisian, spoken in the Dutch province of Friesland.

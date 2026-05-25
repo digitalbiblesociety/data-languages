@@ -1,8 +1,6 @@
 ---
 iso: srt
 name: Sauri
-name_zh: 萨乌里语
-name_zh_auto: true
 autonym: bahasa Sauri
 alt_names: [Indonesia]
 population: 100
@@ -16,5 +14,9 @@ glottolog_family_id: geel1240
 glottolog_family_name: Geelvink Bay
 glottolog_classification: "Geelvink Bay > Barapasi-Sauri-Kofei > Sauri-Kofei > Sauri"
 wikipedia_url: "https://en.wikipedia.org/wiki/Sauri_language"
+translations:
+  - translation_iso: zho
+    name: 萨乌里语
+    auto: true
 ---
 Sauri is a Papuan language of the Indonesian province of Papua, on the eastern shore of Cenderawasih Bay. It is spoken in Sauri-Sirami village, Masirei District, Waropen Regency.

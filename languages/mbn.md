@@ -1,8 +1,6 @@
 ---
 iso: mbn
 name: Macaguán
-name_zh: 马卡瓜恩语
-name_zh_auto: true
 autonym: Hitnü
 alt_names: [Agualinda Guahibo, Jitnu, Jitnu (macaguán), Macaguan, Macaguane]
 population: 1010
@@ -16,6 +14,10 @@ glottolog_family_id: guah1252
 glottolog_family_name: Guahiboan
 glottolog_classification: "Guahiboan > Nuclear Guahiboan > Hitnu"
 wikipedia_url: "https://en.wikipedia.org/wiki/Macagu%C3%A1n_language"
+translations:
+  - translation_iso: zho
+    name: 马卡瓜恩语
+    auto: true
 rolv_dialects:
   - rolv_code: 29766
     language_tag: mbn-x-HIS29766

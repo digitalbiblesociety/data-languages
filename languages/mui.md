@@ -1,7 +1,6 @@
 ---
 iso: mui
 name: Musi
-name_zh: 穆西語
 autonym: Baso Palembang
 alt_names: [Palembang, Sekayu]
 population: 3116000
@@ -15,6 +14,11 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Malayo-Chamic > Malayic > Nuclear Malayic > Central Sumatran Malay > Music > Musi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Musi_language"
+translations:
+  - translation_iso: jpn
+    name: ムシ語
+  - translation_iso: zho
+    name: 穆西語
 rolv_dialects:
   - rolv_code: 4108
     language_tag: mui-x-HIS04108

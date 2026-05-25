@@ -1,8 +1,6 @@
 ---
 iso: uge
 name: Ughele
-name_zh: 乌格勒语
-name_zh_auto: true
 autonym: Ugele
 alt_names: [Ughele language]
 population: 1200
@@ -16,5 +14,9 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > Meso Melanesian linkage > New Ireland-Northwest Solomonic linkage > St George linkage > Northwest Solomonic > New Georgia > East New Georgia > Ughele"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ughele_language"
+translations:
+  - translation_iso: zho
+    name: 乌格勒语
+    auto: true
 ---
 Ughele is an Oceanic language spoken by about 1200 people on Rendova Island, located in the Western Province of the Solomon Islands.

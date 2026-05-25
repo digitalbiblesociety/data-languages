@@ -1,8 +1,6 @@
 ---
 iso: zsm
 name: Standard Malay
-name_zh: 标准马来语
-name_zh_auto: true
 autonym: Bahasa Malaysia
 alt_names: [Formal Malay, Malaiisch, Malay, "Malay, Standard", Malayisch, Malayu, Melayu, Melayu Baku]
 population: 16100000
@@ -15,4 +13,10 @@ glottocode: stan1306
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Malayo-Chamic > Malayic > Nuclear Malayic > Standard Malay-Indonesian > Standard Malay"
+translations:
+  - translation_iso: jpn
+    name: 標準マレー語
+  - translation_iso: zho
+    name: 标准马来语
+    auto: true
 ---

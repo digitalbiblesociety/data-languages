@@ -1,7 +1,6 @@
 ---
 iso: fan
 name: Fang (Equatorial Guinea)
-name_zh: 芳语
 autonym: Pangwe
 alt_names: [Bahasa Fang, Fang, Fang language, Fanga lingvo, Fangų kalba, Ffangiaid, Idioma fang, Język fang, Llengua fang, Língua fang, Pahouin, Pahoun, Pamue, Фанґ]
 population: 1061800
@@ -16,6 +15,17 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > Bantu A-B10-B20-B30 > Basaa-Yaunde (A40-70) > Yaunde-Fang (A.70) > Fang (Equatorial Guinea)"
 wikipedia_url: "https://en.wikipedia.org/wiki/Fang_language"
+translations:
+  - translation_iso: ara
+    name: الفانج
+  - translation_iso: hin
+    name: फैन्ग
+  - translation_iso: jpn
+    name: ファン語
+  - translation_iso: kor
+    name: 팡그어
+  - translation_iso: zho
+    name: 芳语
 rolv_dialects:
   - rolv_code: 2868
     language_tag: fan-x-HIS02868

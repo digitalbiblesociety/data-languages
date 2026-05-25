@@ -1,8 +1,6 @@
 ---
 iso: ktm
 name: Kurti
-name_zh: 库尔蒂语
-name_zh_auto: true
 autonym: Ndrukul
 alt_names: [Admiralitäts-inseln, Kuruti, Kuruti-Pare, Ndrugul]
 population: 3000
@@ -16,6 +14,10 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Admiralty Islands > Eastern Admiralty Islands > Manus > East Manus > Kurti-Kele-Ere > Kurti-Elu > Kurti"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kurti_language"
+translations:
+  - translation_iso: zho
+    name: 库尔蒂语
+    auto: true
 rolv_dialects:
   - rolv_code: 1484
     language_tag: ktm-x-HIS01484

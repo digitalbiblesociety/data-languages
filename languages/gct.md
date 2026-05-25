@@ -1,7 +1,6 @@
 ---
 iso: gct
 name: Colonia Tovar German
-name_zh: 科洛尼亚托瓦尔方言
 autonym: Alemán Coloniero
 alt_names: [Aleman Kolonyero, Alemán Coloneiro, "German, Colonia Tovar", Koloni-alemana lingvo, Nýlendualemanníska, 알레만 콜로네이로어]
 population: 1500
@@ -15,5 +14,12 @@ glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Germanic > Northwest Germanic > West Germanic > High German > Upper German > Middle-Modern High German > Modern High German > Alemannic > North Alemannic > Colonia Tovar German"
 wikipedia_url: "https://en.wikipedia.org/wiki/Colonia_Tovar_dialect"
+translations:
+  - translation_iso: jpn
+    name: コロニア・トバール方言
+  - translation_iso: kor
+    name: 알레만 콜로네이로어
+  - translation_iso: zho
+    name: 科洛尼亚托瓦尔方言
 ---
 The Colonia Tovar dialect, or Alemán Coloniero, is a dialect that is spoken in Colonia Tovar, Venezuela, and belongs to the Low Alemannic branch of German.

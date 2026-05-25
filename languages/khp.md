@@ -1,8 +1,6 @@
 ---
 iso: khp
 name: Kapori
-name_zh: 卡波里语
-name_zh_auto: true
 autonym: Kapauri
 population: 200
 country_id: ID
@@ -12,5 +10,9 @@ latitude: -3.52696
 longitude: 139.76623
 glottocode: kapo1250
 wikipedia_url: "https://en.wikipedia.org/wiki/Kapori_language"
+translations:
+  - translation_iso: zho
+    name: 卡波里语
+    auto: true
 ---
 Kapori (Kapauri) is a Papuan language of Pagai village in Airu District, Jayapura Regency, Papua, Indonesia.

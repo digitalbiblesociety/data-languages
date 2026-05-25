@@ -1,8 +1,6 @@
 ---
 iso: lap
 name: Laka (Chad)
-name_zh: 拉卡语(乍得)
-name_zh_auto: true
 autonym: Kabba Laka
 alt_names: [Laka]
 population: 57150
@@ -16,6 +14,12 @@ glottolog_family_id: cent2225
 glottolog_family_name: Central Sudanic
 glottolog_classification: "Central Sudanic > Sara-Bongo-Bagirmi > SBB Occidental > Nuclear SBB Occidental > Saraic > Sara Central > Sara Central Logone > Gore > Laka (Chad)"
 wikipedia_url: "https://en.wikipedia.org/wiki/Laka_language"
+translations:
+  - translation_iso: ara
+    name: لاكا
+  - translation_iso: zho
+    name: 拉卡语(乍得)
+    auto: true
 rolv_dialects:
   - rolv_code: 12696
     language_tag: lap-x-HIS12696

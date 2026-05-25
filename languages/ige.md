@@ -1,8 +1,6 @@
 ---
 iso: ige
 name: Igede
-name_zh: 伊格德语
-name_zh_auto: true
 autonym: Egede
 alt_names: [Igedde]
 population: 438000
@@ -16,6 +14,10 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Idomoid > Akweya > Igede"
 wikipedia_url: "https://en.wikipedia.org/wiki/Igede_language"
+translations:
+  - translation_iso: zho
+    name: 伊格德语
+    auto: true
 rolv_dialects:
   - rolv_code: 2280
     language_tag: ige-x-HIS02280

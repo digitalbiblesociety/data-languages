@@ -1,8 +1,6 @@
 ---
 iso: ruc
 name: Ruuli
-name_zh: 鲁乌利语
-name_zh_auto: true
 autonym: Luduuli
 alt_names: [Ruli, Ruruli]
 population: 238000
@@ -16,5 +14,9 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > East Bantu > Northeast Savanna Bantu > Great Lakes Bantu > West Nyanza > Rutara > North Rutara > Ruuli"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ruuli_language"
+translations:
+  - translation_iso: zho
+    name: 鲁乌利语
+    auto: true
 ---
 Ruuli is the Bantu language spoken by the Baruuli and Banyala people of Uganda primarily in Nakasongola and Kayunga districts. It is closely related to the Nyoro language.

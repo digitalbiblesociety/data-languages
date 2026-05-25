@@ -1,8 +1,6 @@
 ---
 iso: idt
 name: Idaté
-name_zh: 伊达特语
-name_zh_auto: true
 autonym: null
 alt_names: [East Timor, Idate]
 population: 5000
@@ -15,4 +13,8 @@ glottocode: idat1237
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Timor-Babar > Lakalei-Idate > Idaté"
+translations:
+  - translation_iso: zho
+    name: 伊达特语
+    auto: true
 ---

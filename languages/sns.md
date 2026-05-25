@@ -1,8 +1,6 @@
 ---
 iso: sns
 name: South West Bay
-name_zh: 西南湾语
-name_zh_auto: true
 autonym: " Siesip"
 alt_names: [Mallicolo, "Na'ahai", Nahavaq, Seniang, Sinesip]
 population: 355
@@ -16,5 +14,9 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > North and Central Vanuatu > Central Vanuatu > Malakula > Western Malakula linkage > Peripheral Western Malakula > Southwestern Malakula > Southwest Coastal Malekula > Nahavaq"
 wikipedia_url: "https://en.wikipedia.org/wiki/Nahavaq_language"
+translations:
+  - translation_iso: zho
+    name: 西南湾语
+    auto: true
 ---
 Nahavaq, also known as South West Bay (Malekula) or Siesip, is one of the many languages of the Malekula Coast group of Vanuatu.

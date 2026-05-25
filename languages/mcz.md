@@ -1,8 +1,6 @@
 ---
 iso: mcz
 name: Mawan
-name_zh: 马万语
-name_zh_auto: true
 autonym: null
 population: 470
 country_id: PG
@@ -15,5 +13,11 @@ glottolog_family_id: nucl1709
 glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Madang > Croisilles > Mabuso > Hanseman > Silopic > Mawan"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mawan_language"
+translations:
+  - translation_iso: hin
+    name: मवान
+  - translation_iso: zho
+    name: 马万语
+    auto: true
 ---
 Mawan is a Madang language of Papua New Guinea now spoken only by older adults.

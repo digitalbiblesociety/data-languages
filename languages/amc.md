@@ -1,8 +1,6 @@
 ---
 iso: amc
 name: Amahuaca
-name_zh: 阿玛瓦卡语
-name_zh_auto: true
 autonym: Amaguaco
 alt_names: [Amawaka, Amawaka language area, Ameuhaque, Idioma amahuaca, Ipitineri, Sayaco]
 population: 110
@@ -16,6 +14,10 @@ glottolog_family_id: pano1259
 glottolog_family_name: Pano-Tacanan
 glottolog_classification: "Pano-Tacanan > Panoan > Mainline Pano > Pano Nawa > Headwaters Pano > Amahuaca"
 wikipedia_url: "https://en.wikipedia.org/wiki/Amahuaca_language"
+translations:
+  - translation_iso: zho
+    name: 阿玛瓦卡语
+    auto: true
 rolv_dialects:
   - rolv_code: 6919
     language_tag: amc-x-HIS06919

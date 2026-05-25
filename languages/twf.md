@@ -1,8 +1,6 @@
 ---
 iso: twf
 name: Northern Tiwa
-name_zh: 北蒂瓦语
-name_zh_auto: true
 autonym: null
 alt_names: [N. Tiwa, Northern, Picuris, "Picuris, Taos", Taos, Taos language, Tiwa, Tiwa (Northern), "Tiwa, Northern"]
 population: 1080
@@ -16,6 +14,12 @@ glottolog_family_id: kiow1265
 glottolog_family_name: Kiowa-Tanoan
 glottolog_classification: "Kiowa-Tanoan > Tiwa-Piro > Tiwa > Taos-Picuris > Taos Northern Tiwa"
 wikipedia_url: "https://en.wikipedia.org/wiki/Taos_language"
+translations:
+  - translation_iso: jpn
+    name: タオス語
+  - translation_iso: zho
+    name: 北蒂瓦语
+    auto: true
 rolv_dialects:
   - rolv_code: 3788
     language_tag: twf-x-HIS03788

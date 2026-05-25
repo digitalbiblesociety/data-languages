@@ -1,7 +1,6 @@
 ---
 iso: gwc
 name: Kalami
-name_zh: 卡拉米语
 autonym: Bashkarik
 alt_names: [Bascarí, Bashgharik, Baškarīk, Dardu, Dir Kohistani, Diri, Dirwali, Dīrī, Gaawro, Garwa, Garwi, Gawri, Gowri, Gārwī, Gāwrī, Kalami Kohistani, Kohistana, Kohistani, Kohistani de Kalam, كالامي]
 population: 96400
@@ -15,6 +14,15 @@ glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Indo-Aryan > Middle-Modern Indo-Aryan > Eastern Dardic > Nuclear Eastern Dardic > Kohistani > Dir-Swat Kohistani > Gawri"
 wikipedia_url: "https://en.wikipedia.org/wiki/Gawri_language"
+translations:
+  - translation_iso: ara
+    name: كالامي
+  - translation_iso: hin
+    name: कालामी भाषा
+  - translation_iso: jpn
+    name: カラーム語
+  - translation_iso: zho
+    name: 卡拉米语
 rolv_dialects:
   - rolv_code: 11377
     language_tag: gwc-x-HIS11377

@@ -1,8 +1,6 @@
 ---
 iso: csh
 name: Asho Chin
-name_zh: 阿肖钦语
-name_zh_auto: true
 autonym: Asho
 alt_names: [A-shö, Ashu, Ašo, Chin (Asho), Chin (South), "Chin, Asho", "Chin,Asho", Chinbon, Hyow, Khyang, Khyeng, Kyang, Lemyo, Minbu, Qin, Sho, Shoa, Shö, Thayetmo, Śo]
 population: 174000
@@ -16,6 +14,12 @@ glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Kuki-Chin-Naga > Kuki-Chin > Peripheral Kuki-Chin > South Peripheral Kuki-Chin > Ashoic > Asho Chin"
 wikipedia_url: "https://en.wikipedia.org/wiki/Sh%C3%B6_language"
+translations:
+  - translation_iso: jpn
+    name: ショー語
+  - translation_iso: zho
+    name: 阿肖钦语
+    auto: true
 rolv_dialects:
   - rolv_code: 3253
     language_tag: csh-x-HIS03253

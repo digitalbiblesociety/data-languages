@@ -1,8 +1,6 @@
 ---
 iso: ktk
 name: Kaniet
-name_zh: 卡尼特语
-name_zh_auto: true
 autonym: null
 alt_names: [Admiralitäts-inseln]
 population: null
@@ -16,5 +14,9 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Admiralty Islands > Western Admiralty Islands > Anchorite > Kaniet"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kaniet_language"
+translations:
+  - translation_iso: zho
+    name: 卡尼特语
+    auto: true
 ---
 The Kaniet languages were two of four Western Admiralty Islands languages, a subgroup of the Admiralty Islands languages, the other two being Wuvulu-Aua and Seimat. The languages were spoken on the Kaniet Islands in western Manus Province of Papua New Guinea until the 1950s.

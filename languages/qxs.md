@@ -1,7 +1,6 @@
 ---
 iso: qxs
 name: Southern Qiang
-name_zh: 南羌语
 autonym: "Ch'iang"
 alt_names: [Northern, Qiang, "Qiang, Southern", "Qiang,Southern", Southern, Tchiangeg ar su, ภาษาเกวียงใต้, 羌語南部方言]
 population: 81300
@@ -15,6 +14,11 @@ glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Burmo-Qiangic > Na-Qiangic > Qiangic > Qiang > Southern Qiang"
 wikipedia_url: "https://en.wikipedia.org/wiki/Southern_Qiang_language"
+translations:
+  - translation_iso: jpn
+    name: 南部チャン語
+  - translation_iso: zho
+    name: 南羌语
 rolv_dialects:
   - rolv_code: 4835
     language_tag: qxs-x-HIS04835

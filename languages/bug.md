@@ -1,7 +1,6 @@
 ---
 iso: bug
 name: Buginese
-name_zh: 布吉語
 autonym: ᨅᨔ ᨕᨘᨁᨗ
 alt_names: [Bahasa Bugis, Basa Bugis, Boegineesche, Boeginezen, Bougieg, Bugin kieli, Buginees, Buginesische Sprache, Buginesisk, Buginesiska, Bugis, Bugui, "De'", Idioma buginés, Język bugijski, Makassar-Bugis, Rappang Buginese, Ugi, bugi, Бугийский язык, बुगिनी भाषा, ภาษาบูกิส, ᨅᨗᨌᨑ ᨕᨘᨁᨗ, ブギス語]
 population: 3898800
@@ -16,6 +15,17 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Greater South Sulawesi > South Sulawesi > Tamanic-Bugis > Bugis > Buginese"
 wikipedia_url: "https://en.wikipedia.org/wiki/Buginese_language"
+translations:
+  - translation_iso: ara
+    name: البوقسية
+  - translation_iso: hin
+    name: बुगिनी भाषा
+  - translation_iso: jpn
+    name: ブギス語
+  - translation_iso: kor
+    name: 부기어
+  - translation_iso: zho
+    name: 布吉語
 rolv_dialects:
   - rolv_code: 8422
     language_tag: bug-x-HIS08422

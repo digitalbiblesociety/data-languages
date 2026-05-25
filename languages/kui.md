@@ -1,8 +1,6 @@
 ---
 iso: kui
 name: "Kuikúro-Kalapálo"
-name_zh: 库伊库罗-卡拉帕洛语
-name_zh_auto: true
 autonym: "Kuikúro-Kalapálo"
 alt_names: [Amonap, Apalakiri, Apalaquiri, Cuicutl, Guicurú, Kalapalo, Kuikuro, Kuikuro-Kalapalo, Kuikuru, Kuikúru, Kurkuro, Matipu]
 population: 1110
@@ -16,6 +14,10 @@ glottolog_family_id: cari1283
 glottolog_family_name: Cariban
 glottolog_classification: "Cariban > Kuikuroan > Nuclear Kuikuroan > Kuikúro-Kalapálo"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kuik%C3%BAro_language"
+translations:
+  - translation_iso: zho
+    name: 库伊库罗-卡拉帕洛语
+    auto: true
 rolv_dialects:
   - rolv_code: 25604
     language_tag: kui-x-HIS25604

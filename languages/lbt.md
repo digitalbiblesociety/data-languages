@@ -1,7 +1,6 @@
 ---
 iso: lbt
 name: Lachi
-name_zh: 拉基語
 autonym: Cù Te
 alt_names: [Cu-Tê, I To, Ku Te, La Chi, Laji, Lají, Lati, Lipulio, Tai Lati, Y Mia, Y Poong, Y Pí, Y Póng, Y To]
 population: 1450
@@ -15,6 +14,11 @@ glottolog_family_id: taik1256
 glottolog_family_name: Tai-Kadai
 glottolog_classification: "Tai-Kadai > Kadaic > Southwestern Kra > Western Kra > Lachic > Lachi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Lachi_language"
+translations:
+  - translation_iso: jpn
+    name: ラチ語
+  - translation_iso: zho
+    name: 拉基語
 rolv_dialects:
   - rolv_code: 12651
     language_tag: lbt-x-HIS12651

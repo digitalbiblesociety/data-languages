@@ -1,8 +1,6 @@
 ---
 iso: nkr
 name: Nukuoro
-name_zh: 努库奥罗语
-name_zh_auto: true
 autonym: Nukuoro
 alt_names: [Lingua Nukuoro, Nuguor, Nukoro, Nukuoro kalba, Nukuoron kieli, Nukuoru]
 population: 125
@@ -16,5 +14,13 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Central Pacific linkage > Tokalau Fijian > Polynesian > Nuclear Polynesian > Northern Outlier Polynesian-East Polynesian > Carolinean Outlier Polynesian > Nukuoro"
 wikipedia_url: "https://en.wikipedia.org/wiki/Nukuoro_language"
+translations:
+  - translation_iso: jpn
+    name: ヌクオロ語
+  - translation_iso: kor
+    name: 누쿠오로어
+  - translation_iso: zho
+    name: 努库奥罗语
+    auto: true
 ---
 The Nukuoro language is an Ellicean language spoken by about 1,200 people on Nukuoro and Pohnpei—two islands of Pohnpei State within the Federated States of Micronesia. Nukuoro is a remote coral atoll with a population of about 150, where the primary language is Nukuoro. An additional several hundred Nukuoro speakers live in Kolonia, Pohnpei, with smaller diaspora communities elsewhere in Micronesia and in the United States. Most Nukuoro speakers, particularly those that live away from Nukuoro Atoll, are multilingual in Pohnpeian and/or English; some older Nukuoro speakers also know German or Japanese.

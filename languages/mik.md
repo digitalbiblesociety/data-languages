@@ -1,7 +1,6 @@
 ---
 iso: mik
 name: Mikasuki
-name_zh: 密卡蘇奇語
 autonym: "Hitchiti-Mikasuki"
 alt_names: [Hitchiti, Hitchiti-Mikasuki-Sprache, Miccosukee, Mikasoukieg, Mikasuki Cluster, Mikasuki Seminole, Mikasuki simi, Mikasukin kieli, Микасуки]
 population: 290
@@ -15,6 +14,11 @@ glottolog_family_id: musk1252
 glottolog_family_name: Muskogean
 glottolog_classification: "Muskogean > Mikasuki"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mikasuki_language"
+translations:
+  - translation_iso: jpn
+    name: ミカスキ語
+  - translation_iso: zho
+    name: 密卡蘇奇語
 rolv_dialects:
   - rolv_code: 14076
     language_tag: mik-x-HIS14076

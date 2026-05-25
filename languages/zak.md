@@ -1,8 +1,6 @@
 ---
 iso: zak
 name: Zanaki
-name_zh: 扎纳基语
-name_zh_auto: true
 autonym: Ekizanaki
 alt_names: [Ikizanaki, Kizanaki]
 population: 97400
@@ -16,5 +14,9 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > East Bantu > Northeast Savanna Bantu > Great Lakes Bantu > East Nyanza > Nyanza Mara > South Mara > Southwest Mara > Zanaki"
 wikipedia_url: "https://en.wikipedia.org/wiki/Zanaki_language"
+translations:
+  - translation_iso: zho
+    name: 扎纳基语
+    auto: true
 ---
 Zanaki (Ikizanaki) is a Bantu language of Tanzania. It is spoken by the Zanaki people of Musoma and was the first language of Tanzanian president Julius Nyerere, son of the King Burito Nyerere (1860–1942).

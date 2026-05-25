@@ -1,8 +1,6 @@
 ---
 iso: sow
 name: Sowanda
-name_zh: 索万达语
-name_zh_auto: true
 autonym: Waina
 alt_names: [Punda-Umeda, Pundina, Waina-Sowanda, Wanja, Wanya, Wina]
 population: 1180
@@ -16,6 +14,10 @@ glottolog_family_id: bord1247
 glottolog_family_name: Border
 glottolog_classification: "Border > Warisic > Nuclear Warisic > Waina-Punda > Sowanda"
 wikipedia_url: "https://en.wikipedia.org/wiki/Sowanda_language"
+translations:
+  - translation_iso: zho
+    name: 索万达语
+    auto: true
 rolv_dialects:
   - rolv_code: 16877
     language_tag: sow-x-HIS16877

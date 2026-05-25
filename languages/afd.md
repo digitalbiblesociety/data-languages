@@ -1,8 +1,6 @@
 ---
 iso: afd
 name: Andai
-name_zh: 安代语
-name_zh_auto: true
 autonym: Upper Arafundi
 alt_names: [Alfendio, Arafundi, Imboin, Meakambut, Pundungum, Wangkai]
 population: 400
@@ -16,5 +14,9 @@ glottolog_family_id: araf1243
 glottolog_family_name: Arafundi
 glottolog_classification: "Arafundi > Andai"
 wikipedia_url: "https://en.wikipedia.org/wiki/Andai_language"
+translations:
+  - translation_iso: zho
+    name: 安代语
+    auto: true
 ---
 Andai is an Arafundi language of Papua New Guinea. Meakambut may be identical, but due to lack of data this cannot be determined with certainty.

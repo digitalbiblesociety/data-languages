@@ -1,7 +1,6 @@
 ---
 iso: mup
 name: Malvi
-name_zh: 摩腊婆語
 autonym: Malavi
 alt_names: [Język malwi, Mallow, Malwada, Malwi, Ujjaini, ภาษามัลวี]
 population: 5440000
@@ -15,6 +14,13 @@ glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Indo-Aryan > Middle-Modern Indo-Aryan > Continental Indo-Aryan > Midlands Indo-Aryan > Bhil > Malvi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Malvi_language"
+translations:
+  - translation_iso: hin
+    name: मालवी
+  - translation_iso: jpn
+    name: マールヴィー語
+  - translation_iso: zho
+    name: 摩腊婆語
 rolv_dialects:
   - rolv_code: 13528
     language_tag: mup-x-HIS13528

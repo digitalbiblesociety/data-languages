@@ -1,8 +1,6 @@
 ---
 iso: hir
 name: Himarimã
-name_zh: 希马里玛语
-name_zh_auto: true
 autonym: "Hi-Merima"
 alt_names: [Hi-Marimã, Hi-Merimã, Himarima, Maimã]
 population: 40
@@ -16,5 +14,9 @@ glottolog_family_id: unat1236
 glottolog_family_name: Unattested
 glottolog_classification: "Unattested > Arawan (Unattested) > Himarimã"
 wikipedia_url: "https://en.wikipedia.org/wiki/Himarim%C3%A3_language"
+translations:
+  - translation_iso: zho
+    name: 希马里玛语
+    auto: true
 ---
 Himarimã is the presumed language of the uncontacted Hi-Merimã people in Amazonas, Brazil. A contact may have happened in 2007. A wordlist was recorded, but was later lost. The language is believed to be Arawán per testimonies from the Suruwahá and Banawá.

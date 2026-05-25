@@ -1,8 +1,6 @@
 ---
 iso: nbe
 name: Konyak Naga
-name_zh: 科尼亚克纳加语
-name_zh_auto: true
 autonym: Kanyak
 alt_names: [Coñac, Konyak, Naga, "Naga, Konyak", "Naga,Konyak", Tableng]
 population: 246000
@@ -16,6 +14,14 @@ glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Brahmaputran > Patkaian > South Patkaian > Southwestern Patkaian > Chang-Phom-Konyak > Konyak-Phom > Konyak Naga"
 wikipedia_url: "https://en.wikipedia.org/wiki/Konyak_language"
+translations:
+  - translation_iso: hin
+    name: कोन्यक भाषा
+  - translation_iso: jpn
+    name: コニャック語
+  - translation_iso: zho
+    name: 科尼亚克纳加语
+    auto: true
 rolv_dialects:
   - rolv_code: 14525
     language_tag: nbe-x-HIS14525

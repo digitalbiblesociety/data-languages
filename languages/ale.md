@@ -1,7 +1,6 @@
 ---
 iso: ale
 name: Aleut
-name_zh: 阿留申語
 autonym: Уна́ӈам тунуу́
 alt_names: ["\"aleut (occidental, îles du Commandeur)\"", "\"aleutiano (occidental, islas del Comandante)\"", Aleut (Eastern), Aleut (occidental), Aleut (oriental), Aleutian, Aleutische Sprache, Aleutisk, Aleutisk språk, Aleutiska, Aleutià, Aleutti, Aleutíska, Aleutčina, Aléoute, Amara, An Ailiúitis, Eastern, Idioma aleutiano, Język aleucki, Lingua aleutiana, Lingua aleutina, Língua aleúte, Unangam Tunuu, Unangan, Unangany, Unanghan, Ungangan, Łéngoa ałeutina, Унáҥам Тунý, Унаңан, алеутский язык, ალეუტური ენა, アリュート語, アレウト語, 阿留申语]
 population: 155
@@ -16,6 +15,17 @@ glottolog_family_id: eski1264
 glottolog_family_name: Eskimo-Aleut
 glottolog_classification: "Eskimo-Aleut > Aleutic > Aleut"
 wikipedia_url: "https://en.wikipedia.org/wiki/Aleut_language"
+translations:
+  - translation_iso: ara
+    name: الأليوتية
+  - translation_iso: hin
+    name: अलेउत
+  - translation_iso: jpn
+    name: アレウト語
+  - translation_iso: kor
+    name: 알류트어
+  - translation_iso: zho
+    name: 阿留申語
 rolv_dialects:
   - rolv_code: 120
     language_tag: ale-x-HIS00120

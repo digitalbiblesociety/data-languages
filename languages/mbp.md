@@ -1,8 +1,6 @@
 ---
 iso: mbp
 name: Malayo
-name_zh: 马拉约语
-name_zh_auto: true
 autonym: Malayo
 alt_names: [Aisario, Arosario, Arsario, Atanque, Bustintana, Damana, Guamaca, Guamaka, Huihua, Kampanake, Maracasero, Marocacero, Marocasero, Nabela, Sancá, Sanha, Sanja, Sanka, Sanká, Wamaka, Wiwa]
 population: 1920
@@ -16,5 +14,11 @@ glottolog_family_id: chib1249
 glottolog_family_name: Chibchan
 glottolog_classification: "Chibchan > Core Chibchan > Magdalenic > Northern Magdalenic > Arhuacic > Eastern-Southern Arhuacic > Eastern Arhuacic > Malayo"
 wikipedia_url: "https://en.wikipedia.org/wiki/Wiwa_language"
+translations:
+  - translation_iso: jpn
+    name: ウィワ語
+  - translation_iso: zho
+    name: 马拉约语
+    auto: true
 ---
 Dʉmʉna is a Chibchan language spoken by the Indigenous Wiwa people on the southern and eastern slopes of Sierra Nevada de Santa Marta in northern Colombia. According to Ethnologue, it was spoken by 1,850 people in 2007; however, according to the Colombian Ministry of Culture, there were 13,627 Wiwa people in 2010, of whom some 60% speak Dʉmʉna well.

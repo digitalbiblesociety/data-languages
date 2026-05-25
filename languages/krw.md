@@ -1,8 +1,6 @@
 ---
 iso: krw
 name: Western Krahn
-name_zh: 西克兰语
-name_zh_auto: true
 autonym: Krahn
 alt_names: ["Krahn, Western", Kran, Northern Krahn, Western Kran]
 population: 113020
@@ -16,6 +14,10 @@ glottolog_family_id: krua1234
 glottolog_family_name: Kru
 glottolog_classification: "Kru > Greater Western Kru > Western Kru > Wee-Bassa-Klao > Wee > Nuclear Wee > Guere-Krahn > Western Krahn"
 wikipedia_url: "https://en.wikipedia.org/wiki/Western_Krahn_language"
+translations:
+  - translation_iso: zho
+    name: 西克兰语
+    auto: true
 rolv_dialects:
   - rolv_code: 721
     language_tag: krw-x-HIS00721

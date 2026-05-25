@@ -1,8 +1,6 @@
 ---
 iso: gby
 name: Gbari
-name_zh: 加巴里语
-name_zh_auto: true
 autonym: Gbari Yamma
 alt_names: [Gwari, Gwari Yamma, Nkwa, West Gwari]
 population: 523000
@@ -16,6 +14,12 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Ebira-Nupoid > Macro-Nupoid > Gbagyi-Gbari > Gbari"
 wikipedia_url: "https://en.wikipedia.org/wiki/Gwari_language"
+translations:
+  - translation_iso: jpn
+    name: グワリ語
+  - translation_iso: zho
+    name: 加巴里语
+    auto: true
 rolv_dialects:
   - rolv_code: 2046
     language_tag: gby-x-HIS02046

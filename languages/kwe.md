@@ -1,8 +1,6 @@
 ---
 iso: kwe
 name: Kwerba
-name_zh: 克韦巴语
-name_zh_auto: true
 autonym: Sasawa
 alt_names: [Air Mati, Airmati, Armati, Kaowerawedj, Koassa, Mataweja, Naibedj, Segar Tor, Serikenam, Tekutameso]
 population: 2500
@@ -16,6 +14,10 @@ glottolog_family_id: kwer1242
 glottolog_family_name: Greater Kwerba
 glottolog_classification: "Greater Kwerba > Kwerba-Samarokena > Kwerbaic > Kwerba"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kwerba_language"
+translations:
+  - translation_iso: zho
+    name: 克韦巴语
+    auto: true
 rolv_dialects:
   - rolv_code: 12625
     language_tag: kwe-x-HIS12625

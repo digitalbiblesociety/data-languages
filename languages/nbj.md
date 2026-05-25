@@ -1,8 +1,6 @@
 ---
 iso: nbj
 name: Ngarinyman
-name_zh: 恩加里尼曼语
-name_zh_auto: true
 autonym: Gurinji
 alt_names: [Agarinman, Airiman, Bilinara, Engarinmán, Hainman, Hairiman, Heineman, Hyneman, Nariman, Narinman, Ngaiman, Ngaimmun, Ngainman, Ngainmun, Ngaringman, Ngarinman, Ngarinmany, Ngarnman, Ngraimun, Ngrainmun, Ngrainmunynhgahri, Ngrarmun, ainman]
 population: 170
@@ -15,6 +13,10 @@ glottocode: ngar1235
 glottolog_family_id: pama1250
 glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > Desert Nyungic > Ngumpin-Yapa > Ngumpin > Eastern Ngumpin > Ngumpit > Ngarinman"
+translations:
+  - translation_iso: zho
+    name: 恩加里尼曼语
+    auto: true
 rolv_dialects:
   - rolv_code: 14875
     language_tag: nbj-x-HIS14875

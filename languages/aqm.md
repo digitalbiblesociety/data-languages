@@ -1,8 +1,6 @@
 ---
 iso: aqm
 name: Atohwaim
-name_zh: 阿托瓦伊姆语
-name_zh_auto: true
 autonym: Kaugat
 population: 1000
 country_id: ID
@@ -15,5 +13,9 @@ glottolog_family_id: kaya1327
 glottolog_family_name: Kayagaric
 glottolog_classification: "Kayagaric > Atohwaim"
 wikipedia_url: "https://en.wikipedia.org/wiki/Atohwaim_language"
+translations:
+  - translation_iso: zho
+    name: 阿托瓦伊姆语
+    auto: true
 ---
 Atohwaim is a Papuan language spoken in Pantai Kasuari District, Asmat Regency, South Papua, Indonesia.

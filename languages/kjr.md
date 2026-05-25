@@ -1,8 +1,6 @@
 ---
 iso: kjr
 name: Kurudu
-name_zh: 库鲁杜语
-name_zh_auto: true
 autonym: bahasa Kurudu
 alt_names: [Indonesia]
 population: 2180
@@ -16,6 +14,10 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > South Halmahera-West New Guinea > Cenderawasih Bay > Yapen > Eastern Yapen > Kurudu"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kurudu_language"
+translations:
+  - translation_iso: zho
+    name: 库鲁杜语
+    auto: true
 rolv_dialects:
   - rolv_code: 27487
     language_tag: kjr-x-HIS27487

@@ -1,8 +1,6 @@
 ---
 iso: seb
 name: Shempire Senoufo
-name_zh: 谢姆皮雷塞努福语
-name_zh_auto: true
 autonym: Shenpire
 alt_names: ["Senoufo, Shempire"]
 population: 114800
@@ -12,5 +10,9 @@ status_id: 6a
 latitude: 10.48673
 longitude: -6.37129
 wikipedia_url: "https://en.wikipedia.org/wiki/Shempire_language"
+translations:
+  - translation_iso: zho
+    name: 谢姆皮雷塞努福语
+    auto: true
 ---
 Supyire, or Suppire, is a Senufo language spoken in the Sikasso Region of southeastern Mali and in adjoining regions of Ivory Coast. In their native language, the noun sùpyìré means both "the people" and "the language spoken by the people".

@@ -1,8 +1,6 @@
 ---
 iso: ndi
 name: Samba Leko
-name_zh: 桑巴莱科语
-name_zh_auto: true
 autonym: Samba Leekɔ
 alt_names: [(Samba) Leko, Chamba, Chamba Leko, Lego, Leko, Lekon, Ndi, Samba, Samba Leeko, Suntai]
 population: 62000
@@ -16,6 +14,10 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Cameroun-Ubangian > Central Adamawa > Samba-Duru > Southern Samba-Duru > Sambaic > Samba-Leko-Perema-Mumbake > Samba Leko"
 wikipedia_url: "https://en.wikipedia.org/wiki/Chamba_Leko"
+translations:
+  - translation_iso: zho
+    name: 桑巴莱科语
+    auto: true
 rolv_dialects:
   - rolv_code: 30044
     language_tag: ndi-x-HIS30044

@@ -1,7 +1,6 @@
 ---
 iso: rmq
 name: Caló
-name_zh: 卡洛语
 autonym: Gitano
 population: 460000
 country_id: ES
@@ -14,6 +13,13 @@ glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Indo-Aryan > Middle-Modern Indo-Aryan > Continental Indo-Aryan > Midlands Indo-Aryan > Shaurasenic > Indo-Aryan Central zone > Romani > Caló"
 wikipedia_url: "https://en.wikipedia.org/wiki/Cal%C3%B3_language"
+translations:
+  - translation_iso: jpn
+    name: カロー語
+  - translation_iso: kor
+    name: 칼로어
+  - translation_iso: zho
+    name: 卡洛语
 rolv_dialects:
   - rolv_code: 8617
     language_tag: rmq-x-HIS08617

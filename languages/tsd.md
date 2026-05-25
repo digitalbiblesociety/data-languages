@@ -1,8 +1,6 @@
 ---
 iso: tsd
 name: Tsakonian
-name_zh: 萨克尼亚语
-name_zh_auto: true
 autonym: τσακώνικα
 alt_names: [Cakončina, Gresianeg Tsakonia, Lingua tsakonia, Tsaconia, Tsakonia, Tsakonian kieli, Tsakoniano, Tsakonien, Tsakonisch, Τσακωνική διάλεκτος, Цаконски език, Цаконский язык, Цаконська мова]
 population: 2000
@@ -17,6 +15,16 @@ glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Graeco-Phrygian > Greek > North Greek > Tsakonian"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tsakonian_Greek"
+translations:
+  - translation_iso: ara
+    name: اللغة التاسكونية
+  - translation_iso: jpn
+    name: ツァコン語
+  - translation_iso: kor
+    name: 차코니아 방언
+  - translation_iso: zho
+    name: 萨克尼亚语
+    auto: true
 rolv_dialects:
   - rolv_code: 17650
     language_tag: tsd-x-HIS17650

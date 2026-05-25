@@ -1,8 +1,6 @@
 ---
 iso: gym
 name: Ngäbere
-name_zh: 恩盖贝雷语
-name_zh_auto: true
 autonym: Movere
 alt_names: [Chiriqui, Guaymi, Guaymí, Guaymí (Ngäbere), Guaymí (Panamá), Idioma ngäbere, Mobe, Move, Mycenaean Linear B, Ngabere, Ngawbere, Ngobere, Ngäbere (Costa Rica), Ngäbere (Panama), Norteño, Penonomeño, Valiente, Waymiyi simi, gymimí]
 population: 171840
@@ -16,6 +14,12 @@ glottolog_family_id: chib1249
 glottolog_family_name: Chibchan
 glottolog_classification: "Chibchan > Core Chibchan > Isthmic Chibchan > Eastern Isthmic Chibchan > Guaymiic > Ngäbere"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ng%C3%A4bere"
+translations:
+  - translation_iso: jpn
+    name: グワイミ語
+  - translation_iso: zho
+    name: 恩盖贝雷语
+    auto: true
 rolv_dialects:
   - rolv_code: 1151
     language_tag: gym-x-HIS01151

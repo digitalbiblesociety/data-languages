@@ -1,8 +1,6 @@
 ---
 iso: wwr
 name: Warrwa
-name_zh: 瓦罗瓦语
-name_zh_auto: true
 autonym: Warrawai
 alt_names: [Kolaruma, "Wa:rwa", Warrwai, Waruwa, Warwa, Warwai]
 population: null
@@ -16,5 +14,11 @@ glottolog_family_id: nyul1248
 glottolog_family_name: Nyulnyulan
 glottolog_classification: "Nyulnyulan > Eastern Nyulnyulan > Nyikinic > Warrwa"
 wikipedia_url: "https://en.wikipedia.org/wiki/Warrwa_language"
+translations:
+  - translation_iso: jpn
+    name: ワラワ語
+  - translation_iso: zho
+    name: 瓦罗瓦语
+    auto: true
 ---
 The Warrwa language is an extinct Australian Aboriginal language which was formerly spoken in the Derby Region of Western Australia near Broome, Western Australia. It may have been a dialect of Nyigina. It was also known as Warrawai or Warwa.

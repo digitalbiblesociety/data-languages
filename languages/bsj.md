@@ -1,8 +1,6 @@
 ---
 iso: bsj
 name: Bangwinji
-name_zh: 邦温吉语
-name_zh_auto: true
 autonym: Bangjinge
 alt_names: [Bangunji]
 population: 6000
@@ -16,6 +14,10 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Gur > Central Gur > Tula-Longuda > Tula-Waja > Tulaic > Tula-Ma-Yebu > Nuclear Tulaic > Bangwinji"
 wikipedia_url: "https://en.wikipedia.org/wiki/Bangwinji_language"
+translations:
+  - translation_iso: zho
+    name: 邦温吉语
+    auto: true
 rolv_dialects:
   - rolv_code: 7732
     language_tag: bsj-x-HIS07732

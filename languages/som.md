@@ -1,7 +1,6 @@
 ---
 iso: som
 name: Somali
-name_zh: 索马里语
 autonym: Af Soomaali
 alt_names: [Af-Maxaad Tiri, Af-Soomaali, Bahasa Somali, Common Somali, Darod, Idioma somalí, Isa, Isaq, Język somalijski, Lingua somala, Lingua somalí, Língua somali, Sab, Somala lingvo, Somali-Aweer, Somaliana linguo, Somalice, Somalieg, Somaliera, Somalin kieli, Somalisch, Somaliska, Somališćina, Somálština, Standard Somali, Sumali simi, Сомалийски език, Сомалийский язык, لغة صومالية, सोमाली भाषा, সোমালি ভাষা, சோமாலி மொழி, ภาษาโซมาเลีย, სომალი ენა, ሶማልኛ, ソマリ語, 索馬里語, 소말리어]
 population: 16200000
@@ -16,6 +15,17 @@ glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Cushitic > East Cushitic > Lowland East Cushitic > Southern Lowland East Cushitic > Mainstream Lowland East Cushitic > Omo-Tana > Eastern Omo-Tana > Somali"
 wikipedia_url: "https://en.wikipedia.org/wiki/Somali_language"
+translations:
+  - translation_iso: ara
+    name: الصومالية
+  - translation_iso: hin
+    name: सोमाली भाषा
+  - translation_iso: jpn
+    name: ソマリ語
+  - translation_iso: kor
+    name: 소말리어
+  - translation_iso: zho
+    name: 索马里语
 rolv_dialects:
   - rolv_code: 16818
     language_tag: so-x-HIS16818

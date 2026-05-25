@@ -1,8 +1,6 @@
 ---
 iso: mcl
 name: Macaguaje
-name_zh: 马卡瓜赫语
-name_zh_auto: true
 autonym: null
 alt_names: [Kakawahe, Piojé, Secoya]
 population: null
@@ -16,5 +14,9 @@ glottolog_family_id: tuca1253
 glottolog_family_name: Tucanoan
 glottolog_classification: "Tucanoan > Western Tucanoan > Napo Tucanoan > Siona-Secoya > Sionan > Macaguaje"
 wikipedia_url: "https://en.wikipedia.org/wiki/Macaguaje_language"
+translations:
+  - translation_iso: zho
+    name: 马卡瓜赫语
+    auto: true
 ---
 Macaguaje is an extinct Tucanoan language of Colombia.

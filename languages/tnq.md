@@ -1,7 +1,6 @@
 ---
 iso: tnq
 name: Taino
-name_zh: 泰诺语
 autonym: null
 alt_names: [Taíno]
 population: null
@@ -15,5 +14,12 @@ glottolog_family_id: araw1281
 glottolog_family_name: Arawakan
 glottolog_classification: "Arawakan > Caribbean Arawakan > Antillean Arawakan > Taino"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ta%C3%ADno_language"
+translations:
+  - translation_iso: jpn
+    name: タイノ語
+  - translation_iso: kor
+    name: 타이노어
+  - translation_iso: zho
+    name: 泰诺语
 ---
 Taíno is an extinct Arawakan language spoken by the Taíno people of the Caribbean. At the time of Spanish contact it was the most common language spoken throughout the Caribbean. Classic Taíno, or Taíno proper, was the Indigenous language of the peoples living in most of the Leeward Islands of the Lesser Antilles, Puerto Rico, most of Hispaniola, and easternmost Cuba. The Ciboney dialect is essentially unattested, but colonial sources suggest that it was very similar to the Lucayan dialects of the Bahamas and to Classic Taíno, and was spoken in central Cuba, parts of western Hispaniola, and possibly Jamaica.

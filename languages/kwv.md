@@ -1,8 +1,6 @@
 ---
 iso: kwv
 name: Sara Kaba Náà
-name_zh: 萨拉卡巴纳语
-name_zh_auto: true
 autonym: Sara Kaba
 alt_names: [Dana, Kaba Na, Kaba Naa, Kaba Nar, Na, Sara Kaba Naa]
 population: 39000
@@ -16,6 +14,10 @@ glottolog_family_id: cent2225
 glottolog_family_name: Central Sudanic
 glottolog_classification: "Central Sudanic > Sara-Bongo-Bagirmi > SBB Occidental > Nuclear SBB Occidental > Saraic > Sara Peripherique > Barh Keita > Sara-Kaba > Sara Kaba Náà"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kaba_language"
+translations:
+  - translation_iso: zho
+    name: 萨拉卡巴纳语
+    auto: true
 rolv_dialects:
   - rolv_code: 4909
     language_tag: kwv-x-HIS04909

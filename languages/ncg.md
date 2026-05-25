@@ -1,7 +1,6 @@
 ---
 iso: ncg
 name: "Nisga'a"
-name_zh: 尼斯迦語
 autonym: Nisg̱a’a
 alt_names: [Nasguixián niska, "Nasqa'", Nass, Nass-Gitksan, Nisga’a, Nisgha, Nishga, Nishka, "Nisk'a", "Nisk'a'", Niska, "Niska'"]
 population: 5400
@@ -15,5 +14,8 @@ glottolog_family_id: tsim1258
 glottolog_family_name: Tsimshian
 glottolog_classification: "Tsimshian > Nishga-Gitxsan > Nisga'a"
 wikipedia_url: "https://en.wikipedia.org/wiki/Nisga%CA%BCa_language"
+translations:
+  - translation_iso: zho
+    name: 尼斯迦語
 ---
 Nisgaʼa is an indigenous language of northwestern British Columbia. It is a part of the language family generally called Tsimshianic, although some Nisgaʼa people resent the precedence the term gives to Coast Tsimshian. Nisgaʼa is very closely related to Gitxsan. Indeed, many linguists regard Nisgaʼa and Gitksan as dialects of a single Nass–Gitksan language. The two are generally treated as distinct languages out of deference to the political separation of the two groups.

@@ -1,7 +1,6 @@
 ---
 iso: tyh
 name: "O'du"
-name_zh: 俄都语
 autonym: Ơ Đu
 alt_names: ["\"Tay Hat\"", "'Iduh", Haat, Hat, Iduh, O Du, Tay Hat]
 population: 300
@@ -15,5 +14,8 @@ glottolog_family_id: aust1305
 glottolog_family_name: Austroasiatic
 glottolog_classification: "Austroasiatic > Khmuic > Phay-Pram > Pramic > O'du"
 wikipedia_url: "https://en.wikipedia.org/wiki/O%CA%BCdu_language"
+translations:
+  - translation_iso: zho
+    name: 俄都语
 ---
 Oʼdu, or Iduh, is a Mon–Khmer language of Vietnam and Laos. Once spoken by about 300 people in Tương Dương district, Nghệ An province, Vietnam, it is now considered to be almost extinct.

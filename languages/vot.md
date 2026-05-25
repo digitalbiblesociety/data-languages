@@ -1,7 +1,6 @@
 ---
 iso: vot
 name: Votic
-name_zh: 瓦佳语
 autonym: Vod
 alt_names: [Język wotycki, Lingua votica, "Vad'a kiil", Vadja keel, Vatja, Vatjagiella, Vodian, Vodų kalba, Vot, Vota lingvo, Vote, Voteg, Votian, Votiano, Votic Proper, Votisch, Votish, Votisk, Votisk språk, Votiska, Votu valoda, Vòtic, Vót nyelv, Woties, Wotisch, Wotische Sprache, maa tšeeli, maaceeli, "vad'd'alaize-", "vad'd'alaizet", vadja, vadjan keel, vadjdjaa, vatjan kieli, vaďďaa tšeeli, vađđa, "vod'", vodskij jazyk, čudy, Водська мова, Водь кель, Водь кыв, Вотикийн мотт, Вотски език, водский язык, וודית, 바트어]
 population: 62
@@ -16,6 +15,17 @@ glottolog_family_id: ural1272
 glottolog_family_name: Uralic
 glottolog_classification: "Uralic > Finnic > Coastal Finnic > Neva > Central Finnic > Votic"
 wikipedia_url: "https://en.wikipedia.org/wiki/Votic_language"
+translations:
+  - translation_iso: ara
+    name: الفوتية
+  - translation_iso: hin
+    name: वॉटिक
+  - translation_iso: jpn
+    name: ヴォート語
+  - translation_iso: kor
+    name: 바트어
+  - translation_iso: zho
+    name: 瓦佳语
 rolv_dialects:
   - rolv_code: 18073
     language_tag: vot-x-HIS18073

@@ -1,8 +1,6 @@
 ---
 iso: mbw
 name: Maring
-name_zh: 马林语
-name_zh_auto: true
 autonym: " Yoadabe-Watoare"
 alt_names: [Mareng]
 population: 13000
@@ -16,6 +14,12 @@ glottolog_family_id: nucl1709
 glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Chimbu-Wahgi > Jimi > Maring"
 wikipedia_url: "https://en.wikipedia.org/wiki/Maring_language"
+translations:
+  - translation_iso: hin
+    name: मरीआंग भाषा
+  - translation_iso: zho
+    name: 马林语
+    auto: true
 rolv_dialects:
   - rolv_code: 13754
     language_tag: mbw-x-HIS13754

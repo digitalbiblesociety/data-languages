@@ -1,7 +1,6 @@
 ---
 iso: krt
 name: Tumari Kanuri
-name_zh: 图马里卡努里语
 autonym: Kànùrí
 alt_names: [Bornu, Kanambu, Kanembu, Kanuri, "Kanuri, Tumari"]
 population: 40000
@@ -15,6 +14,11 @@ glottolog_family_id: saha1256
 glottolog_family_name: Saharan
 glottolog_classification: "Saharan > Western Saharan > Kanuri-Kanembu > Kanuric > East Kanuri > Tumari Kanuri"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tumari_Kanuri"
+translations:
+  - translation_iso: jpn
+    name: トゥマリ・カヌリ語
+  - translation_iso: zho
+    name: 图马里卡努里语
 rolv_dialects:
   - rolv_code: 11561
     language_tag: krt-x-HIS11561

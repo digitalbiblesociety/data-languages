@@ -1,8 +1,6 @@
 ---
 iso: kmd
 name: Majukayang Kalinga
-name_zh: 马朱卡扬卡林加语
-name_zh_auto: true
 autonym: Kalinga
 alt_names: ["Kalinga, Madukayang", "Kalinga, Majukayang", Majukayong]
 population: 1500
@@ -15,6 +13,10 @@ glottocode: madu1248
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Northern Luzon > Meso-Cordilleran > South-Central Cordilleran > Central Cordilleran > Kalinga-Itneg > Kalinga > Central and South Kalinga > South Kalinga > Southeastern Kalinga > Madukayang Kalinga"
+translations:
+  - translation_iso: zho
+    name: 马朱卡扬卡林加语
+    auto: true
 rolv_dialects:
   - rolv_code: 27865
     language_tag: kmd-x-HIS27865

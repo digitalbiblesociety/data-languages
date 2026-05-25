@@ -1,8 +1,6 @@
 ---
 iso: ttq
 name: Tawallammat Tamajaq
-name_zh: 塔瓦拉玛特塔马杰克语
-name_zh_auto: true
 autonym: Tawəlləmmət
 alt_names: [Abinawa, Amazigh, Buzu, Tahoua, Tahoua Tamajeq, Tajag, Tamachek, Tamajaq, "Tamajaq, Tawallammat", Tamajeq, Tamashekin, Tamasheq, Tamazheq, Tawallammat, Tewellemet, Tomacheck, Touareg, Tourage, Tuareg]
 population: 870000
@@ -16,6 +14,14 @@ glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Berber > Tuareg > Southern Tuareg > Tawallammat Tamajaq"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tawellemmet_language"
+translations:
+  - translation_iso: ara
+    name: تاولميت
+  - translation_iso: jpn
+    name: タワラマト・タマジャク語
+  - translation_iso: zho
+    name: 塔瓦拉玛特塔马杰克语
+    auto: true
 rolv_dialects:
   - rolv_code: 1794
     language_tag: ttq-x-HIS01794

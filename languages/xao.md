@@ -1,8 +1,6 @@
 ---
 iso: xao
 name: Khao
-name_zh: 卡奥语
-name_zh_auto: true
 autonym: Mang U’
 population: 10000
 country_id: VN
@@ -11,5 +9,9 @@ status_id: 6a
 latitude: 21.45432
 longitude: 103.46701
 wikipedia_url: "https://en.wikipedia.org/wiki/Khao_language"
+translations:
+  - translation_iso: zho
+    name: 卡奥语
+    auto: true
 ---
 Kháng, also known as Mang U’, is an Austroasiatic language of Vietnam. It is closely related to the Bumang language of southern Yunnan, China.

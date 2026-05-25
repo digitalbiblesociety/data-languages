@@ -1,7 +1,6 @@
 ---
 iso: kos
 name: Kosraean
-name_zh: 科斯雷語
 autonym: Kosrae
 alt_names: [Kosraeanische Sprache, Kosraen kieli, Kosraės kalba, Kosreano, Kusaie, Kusaiean, コスラエ語, 코스라에어]
 population: 7790
@@ -16,6 +15,17 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Micronesian > Kosraean-Nauruan > Kosraean"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kosraean_language"
+translations:
+  - translation_iso: ara
+    name: الكوسراين
+  - translation_iso: hin
+    name: कोसरैन
+  - translation_iso: jpn
+    name: コスラエ語
+  - translation_iso: kor
+    name: 코스라에어
+  - translation_iso: zho
+    name: 科斯雷語
 rolv_dialects:
   - rolv_code: 12312
     language_tag: kos-x-HIS12312

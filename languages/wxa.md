@@ -1,7 +1,6 @@
 ---
 iso: wxa
 name: Waxianghua
-name_zh: 瓦乡话
 autonym: " Wogang"
 alt_names: [Vasianhuá, Waxiang, Xianghua]
 population: 300000
@@ -15,5 +14,10 @@ glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Sinitic > Waxianghua"
 wikipedia_url: "https://en.wikipedia.org/wiki/Waxiang_Chinese"
+translations:
+  - translation_iso: jpn
+    name: 瓦郷話
+  - translation_iso: zho
+    name: 瓦乡话
 ---
 Waxiang is a divergent variety of Chinese, spoken by the Waxiang people, an unrecognized ethnic minority group in the northwestern part of Hunan province, China. Waxiang is a distinct language, and is very different from the surrounding Southwestern Mandarin, Xiang Chinese, and the Eastern Miao (Xong) languages.

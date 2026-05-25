@@ -1,8 +1,6 @@
 ---
 iso: luf
 name: Laua
-name_zh: 劳亚语
-name_zh_auto: true
 autonym: Labu
 alt_names: [Lauwa]
 population: null
@@ -16,5 +14,9 @@ glottolog_family_id: mail1249
 glottolog_family_name: Mailuan
 glottolog_classification: "Mailuan > Laua"
 wikipedia_url: "https://en.wikipedia.org/wiki/Laua_language"
+translations:
+  - translation_iso: zho
+    name: 劳亚语
+    auto: true
 ---
 Laua, also known as Labu, is an extinct Mailuan language of Papua New Guinea. It was spoken in the Central Province, north and west of Laua according to Ethnologue. Laua had only one remaining speaker in 1987, and became extinct shortly after.

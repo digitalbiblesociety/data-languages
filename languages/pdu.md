@@ -1,8 +1,6 @@
 ---
 iso: pdu
 name: Kayan
-name_zh: 卡扬语
-name_zh_auto: true
 autonym: Kayan
 alt_names: [Kayang, Padaung, Padaung Karen]
 population: 133180
@@ -16,6 +14,14 @@ glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Karenic > Northern Karen > Kayan Lahwi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Padaung_language"
+translations:
+  - translation_iso: ara
+    name: لغة بادونغ
+  - translation_iso: jpn
+    name: パダウン語
+  - translation_iso: zho
+    name: 卡扬语
+    auto: true
 rolv_dialects:
   - rolv_code: 1164
     language_tag: pdu-x-HIS01164

@@ -1,7 +1,6 @@
 ---
 iso: nuo
 name: Nguôn
-name_zh: 源语
 autonym: " Năm Nguyên"
 alt_names: [Ngouan, Nguon, Nguồn language, Tiếng Nguồn]
 population: 20000
@@ -15,5 +14,8 @@ glottolog_family_id: aust1305
 glottolog_family_name: Austroasiatic
 glottolog_classification: "Austroasiatic > Vietic > Viet-Muong > Muongic > Nguôn"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ngu%E1%BB%93n_language"
+translations:
+  - translation_iso: zho
+    name: 源语
 ---
 Nguồn is a Vietic language spoken by the Nguồn people in the Trường Sơn mountains in Vietnam's North Central Coast region as well as in nearby regions of Laos.

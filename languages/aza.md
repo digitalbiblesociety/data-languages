@@ -1,7 +1,6 @@
 ---
 iso: aza
 name: Azha
-name_zh: 阿扎语
 autonym: Aji
 population: 53000
 country_id: CN
@@ -14,5 +13,8 @@ glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Burmo-Qiangic > Lolo-Burmese > Loloish > Ni-Li-Kazhouish > Southeastern Ngwi > Axioid > Azha"
 wikipedia_url: "https://en.wikipedia.org/wiki/Azha_language"
+translations:
+  - translation_iso: zho
+    name: 阿扎语
 ---
 Azha is one of the Loloish languages spoken by the Yi people of China.

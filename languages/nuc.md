@@ -1,8 +1,6 @@
 ---
 iso: nuc
 name: Nukuini
-name_zh: 努库伊尼语
-name_zh_auto: true
 autonym: Nukuini
 alt_names: [Inukuini, Nucuini, Nukini, Nuquini]
 population: 2007
@@ -16,6 +14,10 @@ glottolog_family_id: pano1259
 glottolog_family_name: Pano-Tacanan
 glottolog_classification: "Pano-Tacanan > Panoan > Mainline Pano > Pano Nawa > Poyanawa Subgroup > Nukuini"
 wikipedia_url: "https://en.wikipedia.org/wiki/Nukini_language"
+translations:
+  - translation_iso: zho
+    name: 努库伊尼语
+    auto: true
 rolv_dialects:
   - rolv_code: 25298
     language_tag: nuc-x-HIS25298

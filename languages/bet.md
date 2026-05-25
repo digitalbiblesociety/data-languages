@@ -1,8 +1,6 @@
 ---
 iso: bet
 name: Guiberoua Béte
-name_zh: 吉贝鲁亚贝特语
-name_zh_auto: true
 autonym: Beteic
 alt_names: [Bete, "Béte, Guiberoua", Bété, Central Bété, Guiberoua Bete, Western Bété]
 population: 130000
@@ -15,6 +13,10 @@ glottocode: guib1246
 glottolog_family_id: krua1234
 glottolog_family_name: Kru
 glottolog_classification: "Kru > Eastern Kru > Beteic > Western Bete > Guiberoua Béte"
+translations:
+  - translation_iso: zho
+    name: 吉贝鲁亚贝特语
+    auto: true
 rolv_dialects:
   - rolv_code: 8024
     language_tag: bet-x-HIS08024

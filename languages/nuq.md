@@ -1,8 +1,6 @@
 ---
 iso: nuq
 name: Nukumanu
-name_zh: 努库马努语
-name_zh_auto: true
 autonym: Tasman
 population: 700
 country_id: PG
@@ -15,5 +13,13 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Central Pacific linkage > Tokalau Fijian > Polynesian > Nuclear Polynesian > Northern Outlier Polynesian-East Polynesian > Solomons Northern Outlier Polynesian-East Polynesian > Central Northern Outlier Polynesian-East Polynesian > Central Northern Outlier Polynesian > Takuuic > Nukumanu"
 wikipedia_url: "https://en.wikipedia.org/wiki/Nukumanu_language"
+translations:
+  - translation_iso: jpn
+    name: ヌクマヌ語
+  - translation_iso: kor
+    name: 누쿠마누어
+  - translation_iso: zho
+    name: 努库马努语
+    auto: true
 ---
 Nukumanu is a Polynesian language, spoken by about 700 people on Nukumanu in the eastern islands of Papua New Guinea. It is one of the most endangered languages in the region.

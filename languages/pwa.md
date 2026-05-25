@@ -1,8 +1,6 @@
 ---
 iso: pwa
 name: Pawaia
-name_zh: 帕瓦亚语
-name_zh_auto: true
 autonym: Aurama
 alt_names: [Oyobe dialect, Pavaia, Pawaian, Sira, Tudahwe, Yasa]
 population: 4000
@@ -13,6 +11,10 @@ latitude: -6.88021
 longitude: 145.08142
 glottocode: pawa1255
 wikipedia_url: "https://en.wikipedia.org/wiki/Pawaia_language"
+translations:
+  - translation_iso: zho
+    name: 帕瓦亚语
+    auto: true
 rolv_dialects:
   - rolv_code: 1489
     language_tag: pwa-x-HIS01489

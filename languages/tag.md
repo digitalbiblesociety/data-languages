@@ -1,8 +1,6 @@
 ---
 iso: tag
 name: Tagoi
-name_zh: 塔戈伊语
-name_zh_auto: true
 autonym: ŋɔ̹́ɡɔ̹́lɛ̹́
 alt_names: [Język tagoi, Lingua tagoi, Tagoieg, Tagoy, Tagoí, Tumale, Umāle]
 population: 1100
@@ -16,6 +14,10 @@ glottolog_family_id: rash1249
 glottolog_family_name: Rashad
 glottolog_classification: "Rashad > Tagoi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tagoi_language"
+translations:
+  - translation_iso: zho
+    name: 塔戈伊语
+    auto: true
 rolv_dialects:
   - rolv_code: 17050
     language_tag: tag-x-HIS17050

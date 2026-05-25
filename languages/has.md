@@ -1,8 +1,6 @@
 ---
 iso: has
 name: Haisla
-name_zh: 海斯拉语
-name_zh_auto: true
 autonym: X̄a’islak̓ala
 alt_names: [Haishilla, Kitamat, Kitlope, Northern Kwakiutl, "Xiʔslak'ala", "X̄a'islak̓ala", X̄enaksialak̓ala, "X̄enaksialak̓ala / X̄a'islak̓ala (Haisla)"]
 population: 1000
@@ -16,6 +14,10 @@ glottolog_family_id: waka1280
 glottolog_family_name: Wakashan
 glottolog_classification: "Wakashan > Northern Wakashan > Haisla"
 wikipedia_url: "https://en.wikipedia.org/wiki/Haisla_language"
+translations:
+  - translation_iso: zho
+    name: 海斯拉语
+    auto: true
 rolv_dialects:
   - rolv_code: 26224
     language_tag: has-x-HIS26224

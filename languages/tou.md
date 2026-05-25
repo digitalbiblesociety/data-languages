@@ -1,8 +1,6 @@
 ---
 iso: tou
 name: Tho
-name_zh: 佗语
-name_zh_auto: true
 autonym: Hung (hnu)Thổ (tou)
 alt_names: [Cuoi, Cuoi Cham, Ho Muong Meridional, Keo]
 population: 75000
@@ -15,6 +13,10 @@ glottocode: thoo1240
 glottolog_family_id: aust1305
 glottolog_family_name: Austroasiatic
 glottolog_classification: "Austroasiatic > Vietic > Cuoi > Tho"
+translations:
+  - translation_iso: zho
+    name: 佗语
+    auto: true
 rolv_dialects:
   - rolv_code: 17451
     language_tag: tou-x-HIS17451

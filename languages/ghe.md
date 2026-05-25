@@ -1,8 +1,6 @@
 ---
 iso: ghe
 name: Southern Ghale
-name_zh: 南加莱语
-name_zh_auto: true
 autonym: Galle Gurung
 alt_names: [Ghale, "Ghale, Southern", "Ghale,Southern", Gurung, Lila Ke, Ril-Lila, Southern]
 population: 2000
@@ -15,6 +13,10 @@ glottocode: sout2715
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Bodic > Kaike-Ghale-Tamangic > Ghale-Tamangic > Ghale > Nuclear Ghale > Southern Ghale"
+translations:
+  - translation_iso: zho
+    name: 南加莱语
+    auto: true
 rolv_dialects:
   - rolv_code: 10201
     language_tag: ghe-x-HIS10201

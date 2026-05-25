@@ -1,7 +1,6 @@
 ---
 iso: yzk
 name: Zokhuo
-name_zh: "仆拉语?"
 autonym: Cowtail Phula
 population: 13000
 country_id: CN
@@ -14,5 +13,8 @@ glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Burmo-Qiangic > Lolo-Burmese > Loloish > Ni-Li-Kazhouish > Southeastern Ngwi > Highland Phula > Phowa > Hlepho-Phukha > Khlula-Zokhuo > Zokhuo"
 wikipedia_url: "https://en.wikipedia.org/wiki/Zokhuo_language"
+translations:
+  - translation_iso: zho
+    name: "仆拉语?"
 ---
 Zokhuo, also known as Niuweiba (Cowtail) Phula, is a Loloish language spoken by the Phula people of China. It appears to be the Chökö (Tśökö) of Vietnam.

@@ -1,7 +1,6 @@
 ---
 iso: mur
 name: Murle
-name_zh: 穆爾語
 autonym: Murleye
 alt_names: [Adkibba, Agiba, Ajibba, Beir, Merule, Mourle, Murele, Murelei, Murule, Omo-Murle]
 population: 196000
@@ -15,6 +14,13 @@ glottolog_family_id: surm1244
 glottolog_family_name: Surmic
 glottolog_classification: "Surmic > South Surmic > Southwest Surmic > Didinga-Murle > Murle"
 wikipedia_url: "https://en.wikipedia.org/wiki/Murle_language"
+translations:
+  - translation_iso: ara
+    name: لغة مرلية
+  - translation_iso: jpn
+    name: ムルレ語
+  - translation_iso: zho
+    name: 穆爾語
 rolv_dialects:
   - rolv_code: 14434
     language_tag: mur-x-HIS14434

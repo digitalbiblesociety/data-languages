@@ -1,8 +1,6 @@
 ---
 iso: aya
 name: Awar
-name_zh: 阿瓦尔语
-name_zh_auto: true
 autonym: null
 population: 1090
 country_id: PG
@@ -15,6 +13,10 @@ glottolog_family_id: ramu1234
 glottolog_family_name: Ramu
 glottolog_classification: "Ramu > Lower Ramu > Ottilien > Bosngun-Awar > Awar"
 wikipedia_url: "https://en.wikipedia.org/wiki/Awar_language"
+translations:
+  - translation_iso: zho
+    name: 阿瓦尔语
+    auto: true
 rolv_dialects:
   - rolv_code: 7393
     language_tag: aya-x-HIS07393

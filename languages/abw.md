@@ -1,8 +1,6 @@
 ---
 iso: abw
 name: Pal
-name_zh: 帕尔语
-name_zh_auto: true
 autonym: Abasakur
 alt_names: [Abasaku]
 population: null
@@ -16,5 +14,9 @@ glottolog_family_id: nucl1709
 glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Madang > Croisilles > Omosan > Pal"
 wikipedia_url: "https://en.wikipedia.org/wiki/Pal_language"
+translations:
+  - translation_iso: zho
+    name: 帕尔语
+    auto: true
 ---
 Pal is a Papuan language of Madang Province, Papua New Guinea.

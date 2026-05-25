@@ -1,8 +1,6 @@
 ---
 iso: bgq
 name: Bagri
-name_zh: 巴格里语
-name_zh_auto: true
 autonym: बागड़ी
 alt_names: [Bagari, Bagria, Bagris, Bahgri, Baorias, Rajasthani, பாக்ரி மொழி, ภาษาพาครี]
 population: 2196000
@@ -16,6 +14,16 @@ glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Indo-Aryan > Middle-Modern Indo-Aryan > Continental Indo-Aryan > Midlands Indo-Aryan > Apabhramsic > Gujarati-Rajasthani > Rajasthani > Bagri-Jandavra > Bagri"
 wikipedia_url: "https://en.wikipedia.org/wiki/Bagri_language"
+translations:
+  - translation_iso: ara
+    name: لغة بجرية
+  - translation_iso: hin
+    name: बागड़ी भाषा
+  - translation_iso: jpn
+    name: バーガル語
+  - translation_iso: zho
+    name: 巴格里语
+    auto: true
 rolv_dialects:
   - rolv_code: 3549
     language_tag: bgq-x-HIS03549

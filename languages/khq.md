@@ -1,7 +1,6 @@
 ---
 iso: khq
 name: Koyra Chiini Songhay
-name_zh: 西桑海语
 autonym: Songai
 alt_names: [Koyra Chiini, Koyra Chiini dialect, Koyra-Chiini, Songay, Songhai, Songhay, Songhay (Koyra Chiini), "Songhay, Koyra Chiini", Songhoy, Songoi, Songoy, Sonrai, Sonrhai, Timbuktu Songhoy, West Songhoy]
 population: 200000
@@ -16,6 +15,17 @@ glottolog_family_id: song1307
 glottolog_family_name: Songhay
 glottolog_classification: "Songhay > Northwest Songhay > Koyra Chiini Songhay"
 wikipedia_url: "https://en.wikipedia.org/wiki/Koyra_Chiini_language"
+translations:
+  - translation_iso: ara
+    name: كويرا تشيني
+  - translation_iso: hin
+    name: कोयरा चीनी
+  - translation_iso: jpn
+    name: コイラ・チーニ語
+  - translation_iso: kor
+    name: 코이라치니어
+  - translation_iso: zho
+    name: 西桑海语
 rolv_dialects:
   - rolv_code: 26865
     language_tag: khq-x-HIS26865

@@ -1,7 +1,6 @@
 ---
 iso: lui
 name: Luiseno
-name_zh: 卢伊塞诺语
 autonym: "Cham'teela"
 alt_names: [Chamtéela, Louisenheg, Luiseno-Juaneno, Luiseño, Luiseño language, Luiseño-Juaneño]
 population: null
@@ -16,6 +15,17 @@ glottolog_family_id: utoa1244
 glottolog_family_name: Uto-Aztecan
 glottolog_classification: "Uto-Aztecan > Northern Uto-Aztecan > Takic > Cupan > Luiseno-Juaneño"
 wikipedia_url: "https://en.wikipedia.org/wiki/Luise%C3%B1o_language"
+translations:
+  - translation_iso: ara
+    name: اللوسينو
+  - translation_iso: hin
+    name: लुइसेनो
+  - translation_iso: jpn
+    name: ルイセーニョ語
+  - translation_iso: kor
+    name: 루이세노어
+  - translation_iso: zho
+    name: 卢伊塞诺语
 rolv_dialects:
   - rolv_code: 13118
     language_tag: lui-x-HIS13118

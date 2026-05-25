@@ -1,8 +1,6 @@
 ---
 iso: mwn
 name: Nyamwanga
-name_zh: 尼亚姆旺加语
-name_zh_auto: true
 autonym: Ichinamwanga
 alt_names: [Chinamwanga, Inamwanga, Kinamwanga, Kinyamwanga, Mwanga, Mwanga language, Namwanga, Njamuangoj]
 population: 281000
@@ -16,6 +14,12 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > East Bantu > Corridor Bantu > Mbozi > Mwika > Fipaic > Maluwawaru > Nyamwanga"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mwanga_language"
+translations:
+  - translation_iso: jpn
+    name: ムワンガ語
+  - translation_iso: zho
+    name: 尼亚姆旺加语
+    auto: true
 rolv_dialects:
   - rolv_code: 14471
     language_tag: mwn-x-HIS14471

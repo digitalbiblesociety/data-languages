@@ -1,8 +1,6 @@
 ---
 iso: pww
 name: Pwo Northern Karen
-name_zh: 普沃北部卡伦语
-name_zh_auto: true
 autonym: "Karen Pwo, Northern"
 alt_names: [Karen, "Karen, Pwo Northern", "Karen,PwoNorthern", Phlon, Phlong, Pho (Pwo), Pwo Karen, Pwo Northern]
 population: 60000
@@ -16,6 +14,10 @@ glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Karenic > Peripheral Karen > Pwo > Northern Pwo Karen > Pwo Northern Karen"
 wikipedia_url: "https://en.wikipedia.org/wiki/Northern_Pwo_language"
+translations:
+  - translation_iso: zho
+    name: 普沃北部卡伦语
+    auto: true
 rolv_dialects:
   - rolv_code: 490
     language_tag: pww-x-HIS00490

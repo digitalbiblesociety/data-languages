@@ -1,8 +1,6 @@
 ---
 iso: kpk
 name: Kpan
-name_zh: 克潘语
-name_zh_auto: true
 autonym: Abakan
 alt_names: [Eregba, Hwaso, Hwaye, Ibukwo, Ikpan, Kpanten, Kpwate, Nyatso, Nyonyo, Yorda]
 population: 11400
@@ -16,6 +14,10 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Jukunoid > Central Jukunoid > Kpan-Icen > Kpan"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kpan_language"
+translations:
+  - translation_iso: zho
+    name: 克潘语
+    auto: true
 rolv_dialects:
   - rolv_code: 1762
     language_tag: kpk-x-HIS01762

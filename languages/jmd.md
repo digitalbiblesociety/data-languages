@@ -1,7 +1,6 @@
 ---
 iso: jmd
 name: Yamdena
-name_zh: 扬德纳语
 autonym: Jamden
 alt_names: [Jamdena]
 population: 25000
@@ -15,6 +14,11 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Tanimbar-Bomberai > Nuclear Tanimbar-Bomberai > Yamdena-Onin > Yamdena"
 wikipedia_url: "https://en.wikipedia.org/wiki/Yamdena_language"
+translations:
+  - translation_iso: jpn
+    name: ヤムデナ語
+  - translation_iso: zho
+    name: 扬德纳语
 rolv_dialects:
   - rolv_code: 18445
     language_tag: jmd-x-HIS18445

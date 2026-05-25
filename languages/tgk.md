@@ -1,7 +1,6 @@
 ---
 iso: tgk
 name: Tajik
-name_zh: 塔吉克语
 autonym: Тоҷикӣ (Tojikī)
 alt_names: [Afghan Farsi, An Táidsícis, Bahasa Tajik, Dari, Farsi (Eastern), Galcha, Herati, Idioma tayiko, Język tadżycki, Kaboli, Kabuli, Khorasani, Kitajiki, Limba tadjică, Lingua Tadzikistanica, Lingua tagica, Lingua taxica, Língua tadjique, Tacik dili, Tacik tili, Taciki, Tacikçe, Tadjik, Tadjikeg, Tadschikische Sprache, Tadschiksche Spraak, Tadsjikisk, Tadsjikisk språk, Tadzhik, Tadzik, Tadzjieks, Tadzjikiska, Tadžiki keel, Tadžikin kieli, Tadžiku valoda, Tadžikų kalba, Tadžički jezik, Tajiki, Tajiki Persian, Tayik simi, Taĝika lingvo, Tádzsik nyelv, Tádžičtina, Забони тоҷикӣ, Таджик чĕлхи, Таджикаг æвзаг, Таджикски език, Таджикский язык, Таджицька мова, Таџички јазик, تاجىك تىلى, طاجيكى, فارسی تاجیکی, لغة طاجيكية, তাজিকিস্তানের ভাষা, தாஜிக் மொழி, ภาษาทาจิก, ტაჯიკური ენა, タジク語, 塔吉克语, 타지크어]
 population: 8132320
@@ -16,6 +15,17 @@ glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Iranian-Nuristani > Iranian > Southwestern Iranian > Middle-Modern Persian > Modern Southwestern Iranian > Farsic-Caucasian Tat > Farsic > Eastern Farsic > Tajikic > Tajik"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tajik_language"
+translations:
+  - translation_iso: ara
+    name: الطاجيكية
+  - translation_iso: hin
+    name: ताजिकी भाषा
+  - translation_iso: jpn
+    name: タジク語
+  - translation_iso: kor
+    name: 타지크어
+  - translation_iso: zho
+    name: 塔吉克语
 rolv_dialects:
   - rolv_code: 23795
     language_tag: tg-x-HIS23795

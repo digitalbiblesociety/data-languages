@@ -1,7 +1,6 @@
 ---
 iso: nmn
 name: ǃXóõ
-name_zh: 宏语
 autonym: ǃXóõ
 alt_names: ["!Ko", "!Xuun", "!Xóõ", /Namani, /Nu//een, =/Hua, Casi, N/amani, "Ng|amani", Qgoon, Taa, Tsasi, Tshasi, Tâa, ǂHõã language, ǂhua jezik]
 population: 4000
@@ -15,6 +14,15 @@ glottolog_family_id: tuuu1241
 glottolog_family_name: Tuu
 glottolog_classification: "Tuu > Hua > Taa > East Taa"
 wikipedia_url: "https://en.wikipedia.org/wiki/Taa_language"
+translations:
+  - translation_iso: ara
+    name: لغة تا
+  - translation_iso: jpn
+    name: タア語
+  - translation_iso: kor
+    name: 꽁옹어
+  - translation_iso: zho
+    name: 宏语
 rolv_dialects:
   - rolv_code: 18367
     language_tag: nmn-x-HIS18367

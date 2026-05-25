@@ -1,8 +1,6 @@
 ---
 iso: mkc
 name: Siliput
-name_zh: 西利普特语
-name_zh_auto: true
 autonym: Maimai
 alt_names: [Mai, Seleput, Sokorok]
 population: 242
@@ -16,5 +14,9 @@ glottolog_family_id: nucl1708
 glottolog_family_name: Nuclear Torricelli
 glottolog_classification: "Nuclear Torricelli > Nuclear Maimai > Siliput"
 wikipedia_url: "https://en.wikipedia.org/wiki/Siliput_language"
+translations:
+  - translation_iso: zho
+    name: 西利普特语
+    auto: true
 ---
 Siliput, a.k.a. Maimai, is a Torricelli language of Papua New Guinea. It is spoken in Seleput village, Mawase Rural LLG, Sandaun Province.

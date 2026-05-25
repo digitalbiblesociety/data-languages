@@ -1,7 +1,6 @@
 ---
 iso: rop
 name: Kriol
-name_zh: 澳大利亚克里奥尔语
 autonym: "Roper-Bamyili Creole"
 alt_names: [Creole, Kriol NT, Northern Kriol, Timber Creek Kriol, Westside Kriol]
 population: 7160
@@ -15,6 +14,13 @@ glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Germanic > Northwest Germanic > West Germanic > North Sea Germanic > Anglo-Frisian > Anglic > Later Anglic > Middle-Modern English > Macro-English > Pacific Creole English > Kriol"
 wikipedia_url: "https://en.wikipedia.org/wiki/Australian_Kriol"
+translations:
+  - translation_iso: jpn
+    name: オーストラリア・クレオール言語
+  - translation_iso: kor
+    name: 오스트레일리아 크리올
+  - translation_iso: zho
+    name: 澳大利亚克里奥尔语
 rolv_dialects:
   - rolv_code: 12350
     language_tag: rop-x-HIS12350

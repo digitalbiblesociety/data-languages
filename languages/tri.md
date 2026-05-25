@@ -1,8 +1,6 @@
 ---
 iso: tri
 name: Trió
-name_zh: 特里奥语
-name_zh_auto: true
 autonym: tarëno ijomi
 alt_names: [Pianakoto, Tiriyo, Tiriyoeg, Tiriyó, Tiriyó language, Tirió, Tiríyo, Trio, Trio (Brésil), Trio (Suriname), Trió (Surinam), Tíríjó]
 population: 2460
@@ -16,6 +14,10 @@ glottolog_family_id: cari1283
 glottolog_family_name: Cariban
 glottolog_classification: "Cariban > Guianan > Taranoan > Tiriyoan > Trió"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tiriy%C3%B3_language"
+translations:
+  - translation_iso: zho
+    name: 特里奥语
+    auto: true
 rolv_dialects:
   - rolv_code: 17643
     language_tag: tri-x-HIS17643

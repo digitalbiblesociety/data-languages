@@ -1,8 +1,6 @@
 ---
 iso: nyj
 name: Nyanga
-name_zh: 尼昂加语
-name_zh_auto: true
 autonym: Kinyanga
 alt_names: [Inyanga]
 population: 150000
@@ -16,6 +14,12 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > East Bantu > Greater Lega > Nyanga"
 wikipedia_url: "https://en.wikipedia.org/wiki/Nyanga_language"
+translations:
+  - translation_iso: jpn
+    name: ニャンガ語
+  - translation_iso: zho
+    name: 尼昂加语
+    auto: true
 rolv_dialects:
   - rolv_code: 15162
     language_tag: nyj-x-HIS15162

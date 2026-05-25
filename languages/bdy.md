@@ -1,8 +1,6 @@
 ---
 iso: bdy
 name: Bandjalang
-name_zh: 班贾拉语
-name_zh_auto: true
 autonym: Bandjelang
 alt_names: [Arakwal, Badjalang, Badjelang, Bandjalong, Bandjerang, Bogganger, Budulung, Buggul, Bundala, Bundel, Bundela, Bundjalung, Bunjellung, Dadarawa, Gidabal, Gundurimba, Paikalyung, Pangerang, Tugurimba, Watchee, Woomargou, Yugumbe]
 population: null
@@ -16,6 +14,12 @@ glottolog_family_id: pama1250
 glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > Southeastern Pama-Nyungan > New South Wales Pama-Nyungan > Greater Bandjalangic > Bandjalangic > Inland Bandjalang > Middle Clarence Bandjalang"
 wikipedia_url: "https://en.wikipedia.org/wiki/Yugambeh%E2%80%93Bundjalung_languages"
+translations:
+  - translation_iso: jpn
+    name: バンジャランギック諸語
+  - translation_iso: zho
+    name: 班贾拉语
+    auto: true
 rolv_dialects:
   - rolv_code: 7718
     language_tag: bdy-x-HIS07718

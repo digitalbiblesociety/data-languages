@@ -1,7 +1,6 @@
 ---
 iso: kgq
 name: Kamoro
-name_zh: 卡莫罗语
 autonym: Kamora
 alt_names: [Kaokonau, Lakahia, Mimika, Mukamuga, Nafarpi, Nagramadu, Nagramandu, Nefarpi, Neferipi, Umar, Umari]
 population: 8000
@@ -15,6 +14,9 @@ glottolog_family_id: nucl1709
 glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Asmat-Awyu-Ok > Asmat-Kamrau Bay > Asmat-Kamoro > Kamoro"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kamoro_language"
+translations:
+  - translation_iso: zho
+    name: 卡莫罗语
 rolv_dialects:
   - rolv_code: 1521
     language_tag: kgq-x-HIS01521

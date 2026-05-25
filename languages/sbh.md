@@ -1,8 +1,6 @@
 ---
 iso: sbh
 name: "Sori-Harengan"
-name_zh: 索里-哈伦甘语
-name_zh_auto: true
 autonym: null
 alt_names: [Admiralitäts-inseln]
 population: 570
@@ -16,6 +14,10 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Admiralty Islands > Eastern Admiralty Islands > Manus > West Manus > West Manus I > Sori-Harengan"
 wikipedia_url: "https://en.wikipedia.org/wiki/Sori-Harengan_language"
+translations:
+  - translation_iso: zho
+    name: 索里-哈伦甘语
+    auto: true
 rolv_dialects:
   - rolv_code: 20637
     language_tag: sbh-x-HIS20637

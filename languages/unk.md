@@ -1,8 +1,6 @@
 ---
 iso: unk
 name: "Enawené-Nawé"
-name_zh: 埃纳韦内-纳韦语
-name_zh_auto: true
 autonym: Salumã
 alt_names: [Enawene Nawe language, Enawene-Nawe, Enawenê-nawê, Eneuene-Mare, Salumá]
 population: 320
@@ -16,5 +14,11 @@ glottolog_family_id: araw1281
 glottolog_family_name: Arawakan
 glottolog_classification: "Arawakan > Central-Eastern Maipuran > Central Maipuran > Xaray > Parecis-Nawe > Enawené-Nawé"
 wikipedia_url: "https://en.wikipedia.org/wiki/Enawene_Nawe_language"
+translations:
+  - translation_iso: jpn
+    name: サルマ語
+  - translation_iso: zho
+    name: 埃纳韦内-纳韦语
+    auto: true
 ---
 Enawene Nawe, also known as Salumã, is an Arawakan language of Brazil spoken by about 570 people living in the Juruena River basin area, and more specifically along the Iquê river in the state of Mato Grosso.

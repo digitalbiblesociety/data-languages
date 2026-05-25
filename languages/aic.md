@@ -1,8 +1,6 @@
 ---
 iso: aic
 name: Ainbai
-name_zh: 艾因拜语
-name_zh_auto: true
 autonym: null
 alt_names: [Ainba]
 population: 100
@@ -16,5 +14,9 @@ glottolog_family_id: bord1247
 glottolog_family_name: Border
 glottolog_classification: "Border > Bewani > Pagi-Kilmeri > Ainbai"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ainbai_language"
+translations:
+  - translation_iso: zho
+    name: 艾因拜语
+    auto: true
 ---
 Ainbai is a Papuan language of Sandaun Province, Papua New Guinea. It is spoken in Ainbai village, Bewani/Wutung Onei Rural LLG, Sandaun Province.

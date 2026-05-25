@@ -1,8 +1,6 @@
 ---
 iso: grm
 name: Kota Marudu Talantang
-name_zh: 科塔马鲁杜塔兰坦语
-name_zh_auto: true
 autonym: null
 alt_names: [Malaysia]
 population: 1800
@@ -16,5 +14,9 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > North Borneo Malayo-Polynesian > Sabahan > Southwest Sabahan > Greater Dusunic > Dusunic > Kota Marudu Talantang"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kota_Marudu_Talantang_language"
+translations:
+  - translation_iso: zho
+    name: 科塔马鲁杜塔兰坦语
+    auto: true
 ---
 Kota Marudu Talantang is an Austronesian language of Sabah, Malaysia.

@@ -1,8 +1,6 @@
 ---
 iso: ksz
 name: Kodaku
-name_zh: 科达库语
-name_zh_auto: true
 autonym: Koraku
 alt_names: [Korku]
 population: 15700
@@ -15,4 +13,8 @@ glottocode: koda1254
 glottolog_family_id: aust1305
 glottolog_family_name: Austroasiatic
 glottolog_classification: "Austroasiatic > Mundaic > North Munda > Kherwarian > Mundaric > Kodaku-Korwa > Kodaku"
+translations:
+  - translation_iso: zho
+    name: 科达库语
+    auto: true
 ---

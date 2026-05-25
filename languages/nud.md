@@ -1,8 +1,6 @@
 ---
 iso: nud
 name: Ngala
-name_zh: 恩加拉语
-name_zh_auto: true
 autonym: Sogap
 alt_names: [Gala, Kara, Nggala, Swagup]
 population: 180
@@ -16,5 +14,9 @@ glottolog_family_id: nduu1242
 glottolog_family_name: Ndu
 glottolog_classification: "Ndu > Ngala"
 wikipedia_url: "https://en.wikipedia.org/wiki/Nggala_language"
+translations:
+  - translation_iso: zho
+    name: 恩加拉语
+    auto: true
 ---
 Ngala, or Sogap, is one of the Ndu languages of Sepik River region of northern Papua New Guinea. It is spoken in the single village of Swagap in Ambunti Rural LLG of East Sepik Province.

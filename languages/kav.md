@@ -1,8 +1,6 @@
 ---
 iso: kav
 name: Katukína
-name_zh: 卡图基纳语
-name_zh_auto: true
 autonym: "Katukina-Kanamari"
 population: 289
 country_id: BR
@@ -11,6 +9,10 @@ status_id: "9"
 latitude: -8.19121
 longitude: -70.38221
 wikipedia_url: "https://en.wikipedia.org/wiki/Katuk%C3%ADna_language"
+translations:
+  - translation_iso: zho
+    name: 卡图基纳语
+    auto: true
 rolv_dialects:
   - rolv_code: 11704
     language_tag: kav-x-HIS11704

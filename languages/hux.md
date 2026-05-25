@@ -1,8 +1,6 @@
 ---
 iso: hux
 name: Nüpode Huitoto
-name_zh: 努波德惠托托语
-name_zh_auto: true
 autonym: Nɨpóde
 alt_names: [Huitoto (Muinane), Huitoto (Nipode), Huitoto Muinane, Huitoto Nipode, "Huitoto, Nüpode", Muinane, Muinane Huitoto, Nipode, Nipode Witoto, Nupode Huitoto, Nïpode, Nüpode, Uitoto-Kaimo, Witoto Muinane, Witoto nipode, Witoto-Kaimo]
 population: 100
@@ -16,5 +14,9 @@ glottolog_family_id: huit1251
 glottolog_family_name: Huitotoan
 glottolog_classification: "Huitotoan > Nuclear Witotoan > Nüpode Huitoto"
 wikipedia_url: "https://en.wikipedia.org/wiki/N%C3%BCpode_Huitoto_language"
+translations:
+  - translation_iso: zho
+    name: 努波德惠托托语
+    auto: true
 ---
 Nüpode Huitoto or Nɨpode is an indigenous American language spoken in western South America. It has occasionally been referred to as Muinane Witoto, not to be confused with the Muinane language.

@@ -1,8 +1,6 @@
 ---
 iso: hbb
 name: Huba
-name_zh: 胡巴语
-name_zh_auto: true
 autonym: Kilba
 alt_names: [Chobba, Hildi, KChobba, Marghi South]
 population: 337000
@@ -16,5 +14,9 @@ glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > Biu-Mandara > North Biu-Mandara > Margi-Mandara-Mofu > Bura-Marghi > Marghic > Kilba-South Margi > Huba"
 wikipedia_url: "https://en.wikipedia.org/wiki/Huba_language"
+translations:
+  - translation_iso: zho
+    name: 胡巴语
+    auto: true
 ---
 The Huba language, also known as Kilba, is a Chadic language of Nigeria.

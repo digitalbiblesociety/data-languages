@@ -1,8 +1,6 @@
 ---
 iso: lwa
 name: Lwalu
-name_zh: 卢瓦卢语
-name_zh_auto: true
 autonym: Lwalwa
 alt_names: [Democratic Republic of the Congo]
 population: 21000
@@ -16,5 +14,9 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > Central-Western Bantu > Luban > Mbagani-Lwalwa > Lwalu"
 wikipedia_url: "https://en.wikipedia.org/wiki/Lwalu_language"
+translations:
+  - translation_iso: zho
+    name: 卢瓦卢语
+    auto: true
 ---
 Lwalu, also known as Lwalwa and Khongo, is a Bantu language of the Democratic Republic of the Congo and Angola. Its classification is uncertain: Nurse (2003), following Ahmed (1995), assigns all of Guthrie's L.20 languages to Luban, including Lwalu.

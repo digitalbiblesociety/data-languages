@@ -1,7 +1,6 @@
 ---
 iso: zhb
 name: Zhaba
-name_zh: 扎坝语
 autonym: "[dʐa˧˥ ʂka˥]"
 alt_names: [Bazi, Bozi, Chaba, Draba, Zaba, Zha, nDrapa, 扎巴語]
 population: 7700
@@ -15,5 +14,10 @@ glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Burmo-Qiangic > Na-Qiangic > Qiangic > Zhaba"
 wikipedia_url: "https://en.wikipedia.org/wiki/Zhaba_language"
+translations:
+  - translation_iso: jpn
+    name: ジャバ語
+  - translation_iso: zho
+    name: 扎坝语
 ---
 Zhaba, also known as Bazi, Bozi, Draba, nDrapa, Zaba, Zha, is a Qiangic language of Sichuan, China spoken by about 8,000 people in Daofu County and Yajiang County. The Zhaba, who are officially classified by the Chinese government as ethnic Tibetan people, refer to themselves as and to the Zhaba language as. Neighboring Khams Tibetan speakers refer to the Zhaba people as. Zhaba speakers live primarily in the Xianshui River 鲜水河 valley.

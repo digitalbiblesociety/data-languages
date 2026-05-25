@@ -1,7 +1,6 @@
 ---
 iso: kuf
 name: Western Katu
-name_zh: 戈都语
 autonym: Low Katu
 alt_names: [Attouat, High Katu, Kantu, Kao, Katu, "Katu, Western", Khat, Kontu, Nguôn Ta, Phuong Katu, Ta River Vân Kiêu, Teu, Thap]
 population: 14700
@@ -15,6 +14,11 @@ glottolog_family_id: aust1305
 glottolog_family_name: Austroasiatic
 glottolog_classification: "Austroasiatic > Katuic > Katu > Nuclear Katu > Western Katu"
 wikipedia_url: "https://en.wikipedia.org/wiki/Katu_language"
+translations:
+  - translation_iso: jpn
+    name: カトゥ語
+  - translation_iso: zho
+    name: 戈都语
 rolv_dialects:
   - rolv_code: 26813
     language_tag: kuf-x-HIS26813

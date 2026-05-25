@@ -1,8 +1,6 @@
 ---
 iso: bgw
 name: Bhatri
-name_zh: 巴特里语
-name_zh_auto: true
 autonym: Basturia
 alt_names: [Bhatra, Bhattra, Bhattri, Bhottada, Bhottara]
 population: 334000
@@ -16,6 +14,12 @@ glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Indo-Aryan > Middle-Modern Indo-Aryan > Continental Indo-Aryan > Indo-Aryan Eastern zone > Halbic > Bhatri"
 wikipedia_url: "https://en.wikipedia.org/wiki/Bhatri_language"
+translations:
+  - translation_iso: hin
+    name: भातरी भाषा
+  - translation_iso: zho
+    name: 巴特里语
+    auto: true
 rolv_dialects:
   - rolv_code: 3392
     language_tag: bgw-x-HIS03392

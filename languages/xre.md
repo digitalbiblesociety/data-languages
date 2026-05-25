@@ -1,8 +1,6 @@
 ---
 iso: xre
 name: Kreye
-name_zh: 克雷耶语
-name_zh_auto: true
 autonym: Taje
 alt_names: [Bacabal, Canela, Crange, Crenge, Crengez, Crenye, Creye, Gavião du Pará, Gavião pukobiê, Kanela, Krahó, Krahô, Krem-Ye, Kremye, Krenjé, Krenjê, Krikati, Pukobyé, Pukobyê, Tage, Taze, Timbira]
 population: null
@@ -16,6 +14,10 @@ glottolog_family_id: nucl1710
 glottolog_family_name: Nuclear-Macro-Je
 glottolog_classification: "Nuclear-Macro-Je > Je > Cerrado > Goyaz > Northern Je > Eastern Timbira > Northeastern Timbira"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kr%E1%BA%BDje_language"
+translations:
+  - translation_iso: zho
+    name: 克雷耶语
+    auto: true
 ---
 Krẽje or Kreye is an Jê language that is spoken in Maranhão and Pará, Brazil.
 This language is originated from Maranhão, yet probably extinct with a handful of speakers.

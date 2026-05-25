@@ -1,7 +1,6 @@
 ---
 iso: yzg
 name: "E'ma Buyang"
-name_zh: 峨马布央语
 autonym: "Boux-yaeŋz"
 alt_names: [Buozaang, Buyang, "Buyang E'ma", Buyang Zhuang, "Buyang, E'ma", Buyán, Eastern Buyang, Funing Buyang, Langjia, Langjia Buyang, 峨馬布央, 郎架布央]
 population: 300
@@ -14,4 +13,7 @@ glottocode: emab1235
 glottolog_family_id: taik1256
 glottolog_family_name: Tai-Kadai
 glottolog_classification: "Tai-Kadai > Kadaic > Eastern Kra > Buyang > Northern Buyang > E'ma Buyang"
+translations:
+  - translation_iso: zho
+    name: 峨马布央语
 ---

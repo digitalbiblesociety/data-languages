@@ -1,8 +1,6 @@
 ---
 iso: awn
 name: Awngi
-name_zh: 阿恩吉语
-name_zh_auto: true
 autonym: Agau
 alt_names: [Agaw, Agew, Agow, Angwi Agaw, Aongieg, Awawar, Awi, Awiya, Awngi hizkuntza, Awngi jezik, Damot, Hawiya, Kwollanyoch]
 population: 489000
@@ -16,6 +14,10 @@ glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Cushitic > Agaw > Awngi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Awngi_language"
+translations:
+  - translation_iso: zho
+    name: 阿恩吉语
+    auto: true
 rolv_dialects:
   - rolv_code: 2468
     language_tag: awn-x-HIS02468

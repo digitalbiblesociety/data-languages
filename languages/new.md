@@ -1,7 +1,6 @@
 ---
 iso: new
 name: Newari
-name_zh: 尼瓦尔语
 autonym: Nepal Bhasa
 alt_names: ["\"Newari\"", Bahasa Nepal, Bahasa Nepal Bhasa, Basa Nepal, "Bhasa, Nepal", Dolakha Newari, Gjuha nepaleze, Kathmandu Newari, Kathmandu dialect, Lingua Nepal Bhasa, Lingua Newari, Língua bhasa, Nepal Taal, Nepalbhasa, Nepâlbhâshâ, Nevara lingvo, Nevarí, Nevarų kalba, Newar, Newari (Dolakha), Newari (Kathmandu), Newarish, Niwari simi, Nēwāri, Pahri, Νεβάρι, Неварский язык, Неварська мова, נפאל בהאסה, नेपाल भाषा, नेपालभाषा, नेपाली भाषा, नेपाळ भाषा, নেপাল ভাশা, নেপাল ভাষা, નેપાલ ભાષા, ନେପାଲ ଭାଷା, நேபால் பாசா, ภาษาเนวารี, ኔፓል ባሳ, ネパール・バサ語, 尼瓦尔语, 네와르어]
 population: 861000
@@ -16,6 +15,17 @@ glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Himalayish > Mahakiranti > Newaric > Newar > Kathmandu Valley Newari"
 wikipedia_url: "https://en.wikipedia.org/wiki/Newar_language"
+translations:
+  - translation_iso: ara
+    name: النيوارية
+  - translation_iso: hin
+    name: नेपालभाषा
+  - translation_iso: jpn
+    name: ネパール・バサ語
+  - translation_iso: kor
+    name: 네와르어
+  - translation_iso: zho
+    name: 尼瓦尔语
 rolv_dialects:
   - rolv_code: 2278
     language_tag: new-x-HIS02278

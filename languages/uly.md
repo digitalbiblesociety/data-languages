@@ -1,8 +1,6 @@
 ---
 iso: uly
 name: Buli
-name_zh: 布利语
-name_zh_auto: true
 autonym: Barawa
 alt_names: [Bili, Buli (Polci), Bələ, Bɨlɨ]
 population: 22000
@@ -15,5 +13,9 @@ glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > West Chadic > West Chadic B > West Chadic B.3 > South Bauchi West > Northwest South Bauchi > Polci-Luri > Polcic > Buli (Bauchi State)"
 wikipedia_url: "https://en.wikipedia.org/wiki/Buli_language_(Nigeria)"
+translations:
+  - translation_iso: zho
+    name: 布利语
+    auto: true
 ---
 Polci is an Afro-Asiatic language of Bauchi State, Nigeria. It is part of the Barawa cluster, which is in turn part of the West Chadic language family.

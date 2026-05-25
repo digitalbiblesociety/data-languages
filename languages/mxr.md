@@ -1,8 +1,6 @@
 ---
 iso: mxr
 name: Murik (Malaysia)
-name_zh: 马来西亚穆里克语
-name_zh_auto: true
 autonym: null
 alt_names: ["Kayan, Murik", Malaysia, Murik]
 population: 1120
@@ -16,6 +14,10 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > North Borneo Malayo-Polynesian > Kayan-Murik-Modang > Kayan-Murik > Murik (Malaysia)"
 wikipedia_url: "https://en.wikipedia.org/wiki/Murik_Kayan_language"
+translations:
+  - translation_iso: zho
+    name: 马来西亚穆里克语
+    auto: true
 rolv_dialects:
   - rolv_code: 11731
     language_tag: mxr-x-HIS11731

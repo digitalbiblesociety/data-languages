@@ -1,8 +1,6 @@
 ---
 iso: pnq
 name: Pana (Burkina Faso)
-name_zh: 帕纳语(布基纳法索)
-name_zh_auto: true
 autonym: Sama
 alt_names: [Pana]
 population: 5000
@@ -16,6 +14,12 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Gur > Central Gur > Southern Central Gur > Grusi > Northern Grusi > Pana (Burkina Faso)"
 wikipedia_url: "https://en.wikipedia.org/wiki/Pana_language_(Gur)"
+translations:
+  - translation_iso: jpn
+    name: パナ語
+  - translation_iso: zho
+    name: 帕纳语(布基纳法索)
+    auto: true
 rolv_dialects:
   - rolv_code: 15455
     language_tag: pnq-x-HIS15455

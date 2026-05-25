@@ -1,8 +1,6 @@
 ---
 iso: ngs
 name: Gvoko
-name_zh: 古沃科语
-name_zh_auto: true
 autonym: Gavoko
 alt_names: [Gevoko, Ghboko, Kuvoko, Nggweshe, Ngoshe Sama, Ngoshe-Ndhang, Ngoshi, Ngossi, Ngweshe, Ngweshe-Ndaghan]
 population: 20000
@@ -16,5 +14,9 @@ glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > Biu-Mandara > North Biu-Mandara > Margi-Mandara-Mofu > Mandaraic > Dghwedeic > Gvoko"
 wikipedia_url: "https://en.wikipedia.org/wiki/Gvoko_language"
+translations:
+  - translation_iso: zho
+    name: 古沃科语
+    auto: true
 ---
 Gvoko is an Afro-Asiatic language spoken in Borno State, Nigeria and Far North Province, Cameroon.

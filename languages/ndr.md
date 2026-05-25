@@ -1,8 +1,6 @@
 ---
 iso: ndr
 name: Ndoola
-name_zh: 恩多拉语
-name_zh_auto: true
 autonym: Ndoola
 alt_names: [Ndola, Ndooro, Ndoro, Njoyame, Nundoro]
 population: 62520
@@ -16,6 +14,10 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Northern Bantoid > Mambiloid > Ndoola"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ndoro_language"
+translations:
+  - translation_iso: zho
+    name: 恩多拉语
+    auto: true
 rolv_dialects:
   - rolv_code: 31099
     language_tag: ndr-x-HIS31099

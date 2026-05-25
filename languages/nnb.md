@@ -1,8 +1,6 @@
 ---
 iso: nnb
 name: Nande
-name_zh: 南德语
-name_zh_auto: true
 autonym: Yira
 alt_names: [Kinande, Kinandi, Nandi, Ndande, Northern Nande, Orundande]
 population: 903000
@@ -16,6 +14,12 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > East Bantu > Northeast Savanna Bantu > Great Lakes Bantu > Western Lakes Bantu > Rwenzori > Nande"
 wikipedia_url: "https://en.wikipedia.org/wiki/Nande_language"
+translations:
+  - translation_iso: jpn
+    name: ナンデ語
+  - translation_iso: zho
+    name: 南德语
+    auto: true
 rolv_dialects:
   - rolv_code: 134
     language_tag: nnb-x-HIS00134

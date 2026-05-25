@@ -1,7 +1,6 @@
 ---
 iso: cpi
 name: Chinese Pidgin English
-name_zh: 洋泾浜英语
 autonym: "Melanesian-Chinese Mixed Pidgin English"
 alt_names: [China coast pidgin, Chiński pidżyn, Melanesian-Chinese Mixed Pidgin English in Nauru, NPP, Nauru Pacific Pidgin, "Pidgin English, Chinese", Pidginengelska, 洋泾浜英语]
 population: null
@@ -15,5 +14,10 @@ glottolog_family_id: pidg1258
 glottolog_family_name: Pidgin
 glottolog_classification: "Pidgin > English-based pidgin > Chinese Pidgin English"
 wikipedia_url: "https://en.wikipedia.org/wiki/Chinese_Pidgin_English"
+translations:
+  - translation_iso: jpn
+    name: 中国ピジン語
+  - translation_iso: zho
+    name: 洋泾浜英语
 ---
 Chinese Pidgin English was a pidgin language lexically based on English, but influenced by a Chinese substratum. From the 17th to the 19th centuries, there was also Chinese Pidgin English spoken in Cantonese-speaking portions of China. Chinese Pidgin English is heavily influenced by a number of varieties of Chinese with variants arising among different provinces.

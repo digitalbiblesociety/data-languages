@@ -1,8 +1,6 @@
 ---
 iso: gui
 name: Eastern Bolivian Guaraní
-name_zh: 东玻利维亚瓜拉尼语
-name_zh_auto: true
 autonym: Western Argentine Guaraní
 alt_names: ["\"Chiriguano\"", Aba, Ava, Ava-guarani, Avá-guaraní, Bolivian Guaraní, Camba, Chané, Chiriguano, Chiriguano (Eth says this name is pejorative), Eastern Bolivian Guarani, Guarani, Guarani (Western Argentine), Guarani de Bolivie, Guaraní, Guaraní (Eastern Bolivian), Guaraní boliviano, Guaraní language area, "Guaraní, Eastern Bolivian", Isosó, Izoceño, Izozó, Simba, Tapiete, Tembeta, West Parana, Čiriguanų kalba]
 population: 69530
@@ -16,6 +14,12 @@ glottolog_family_id: tupi1275
 glottolog_family_name: Tupian
 glottolog_classification: "Tupian > Eastern Tupian > Maweti-Guarani > Aweti-Guarani > Tupi-Guarani > Southern Tupi-Guarani > Tupi-Guarani Subgroup I > Tupi-Guarani Subgroup I.B > Chiriguanic > Eastern Bolivian Guaraní"
 wikipedia_url: "https://en.wikipedia.org/wiki/Eastern_Bolivian_Guaran%C3%AD_language"
+translations:
+  - translation_iso: jpn
+    name: チリグアノ族
+  - translation_iso: zho
+    name: 东玻利维亚瓜拉尼语
+    auto: true
 rolv_dialects:
   - rolv_code: 180
     language_tag: gn-BO-x-HIS00180

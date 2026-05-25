@@ -1,8 +1,6 @@
 ---
 iso: mqz
 name: Pano
-name_zh: 帕诺语
-name_zh_auto: true
 autonym: Pano
 alt_names: [Malasanga, Malasanga language]
 population: 900
@@ -16,6 +14,10 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > North New Guinea linkage > Ngero-Vitiaz linkage > Vitiaz linkage > Korap linkage > Malasanga"
 wikipedia_url: "https://en.wikipedia.org/wiki/Malasanga_language"
+translations:
+  - translation_iso: zho
+    name: 帕诺语
+    auto: true
 rolv_dialects:
   - rolv_code: 13412
     language_tag: mqz-x-HIS13412

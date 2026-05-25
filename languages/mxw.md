@@ -1,8 +1,6 @@
 ---
 iso: mxw
 name: Namo
-name_zh: 纳莫语
-name_zh_auto: true
 autonym: Dorro
 alt_names: [Dorro (formerly), Mari, Na]
 population: 380
@@ -16,5 +14,9 @@ glottolog_family_id: more1255
 glottolog_family_name: Yam
 glottolog_classification: "Yam > Morehead-Maro > Nambu > Namo-Len > Namo"
 wikipedia_url: "https://en.wikipedia.org/wiki/Namo_language"
+translations:
+  - translation_iso: zho
+    name: 纳莫语
+    auto: true
 ---
 Namo is a Yam language spoken in Western Province, Papua New Guinea.

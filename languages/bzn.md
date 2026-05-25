@@ -1,7 +1,6 @@
 ---
 iso: bzn
 name: Boano (Maluku)
-name_zh: 博阿诺语
 autonym: Buano
 alt_names: [Boano, "Boano (Maluku, Indonesia)"]
 population: 3240
@@ -15,5 +14,8 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Nunusaku > Piru Bay > West Piru Bay > Hoamoal > East Hoamoal > Boano (Maluku)"
 wikipedia_url: "https://en.wikipedia.org/wiki/Boano_language_(Maluku)"
+translations:
+  - translation_iso: zho
+    name: 博阿诺语
 ---
 Boano (Buano) is an Austronesian language spoken in eastern Indonesia. It is spoken in Boano island, off the western end of Seram Island.

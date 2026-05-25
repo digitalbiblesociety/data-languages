@@ -1,8 +1,6 @@
 ---
 iso: agw
 name: Kahua
-name_zh: 卡华语
-name_zh_auto: true
 autonym: Anganiwai
 alt_names: [Anganiwei, Chaha, Narihua, Südliche Salomons-Inseln, Wanoni]
 population: 5170
@@ -16,6 +14,10 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Southeast Solomonic > Longgu-Malaita-Makira > Malaita-Makira > Makira > Kahua"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kahua_language"
+translations:
+  - translation_iso: zho
+    name: 卡华语
+    auto: true
 rolv_dialects:
   - rolv_code: 3624
     language_tag: agw-x-HIS03624

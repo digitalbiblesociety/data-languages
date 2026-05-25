@@ -1,8 +1,6 @@
 ---
 iso: xem
 name: Kembayan
-name_zh: 肯巴扬语
-name_zh_auto: true
 autonym: Mateq
 alt_names: [Indonesia]
 population: 11000
@@ -16,6 +14,10 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Land Dayak > Bidayuh-Southern Land Dayak > Southern Land Dayak > Mateq"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kembayan_language"
+translations:
+  - translation_iso: zho
+    name: 肯巴扬语
+    auto: true
 rolv_dialects:
   - rolv_code: 4876
     language_tag: xem-x-HIS04876

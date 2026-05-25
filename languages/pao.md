@@ -1,7 +1,6 @@
 ---
 iso: pao
 name: Northern Paiute
-name_zh: 北派伍特語
 autonym: "Paiute, Northern"
 alt_names: [Bannock, N Paiute, N. Paiute, North Paiute, Northern, Paiute, Paiute (Northern), Paiute du Nord, Paiute du nord  (Nevada), Paiute du nord (Idaho), Paiute du nord (Oregon), Paviotso, Paviotso-Bannock-Snake, Payuté septentrional (Oregon)]
 population: 700
@@ -15,6 +14,11 @@ glottolog_family_id: utoa1244
 glottolog_family_name: Uto-Aztecan
 glottolog_classification: "Uto-Aztecan > Northern Uto-Aztecan > Numic > Western Numic > Northern Paiute"
 wikipedia_url: "https://en.wikipedia.org/wiki/Northern_Paiute_language"
+translations:
+  - translation_iso: jpn
+    name: 北部パイユート語
+  - translation_iso: zho
+    name: 北派伍特語
 rolv_dialects:
   - rolv_code: 183
     language_tag: pao-x-HIS00183

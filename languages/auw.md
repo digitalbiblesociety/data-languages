@@ -1,8 +1,6 @@
 ---
 iso: auw
 name: Awyi
-name_zh: 奥维语
-name_zh_auto: true
 autonym: Awje
 alt_names: [Auyi, Aviú, Awji, Awye, Beapawa, Embiawo, Njao, Nyao]
 population: 350
@@ -16,5 +14,9 @@ glottolog_family_id: bord1247
 glottolog_family_name: Border
 glottolog_classification: "Border > Taikat-Awyi > Awyi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Awyi_language"
+translations:
+  - translation_iso: zho
+    name: 奥维语
+    auto: true
 ---
 Awyi is a Papuan language of Indonesian Papua. It is spoken in Skanto District (id), Keerom Regency.

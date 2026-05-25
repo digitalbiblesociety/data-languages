@@ -1,7 +1,6 @@
 ---
 iso: pmt
 name: Tuamotuan
-name_zh: 土阿莫土語
 autonym: Reo Paumotu
 alt_names: [Język tuamotu, "Pa'umotu", Paumotu, Tuamotuano, Tuamotun kieli, Туамоту]
 population: 14400
@@ -15,6 +14,11 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Central Pacific linkage > Tokalau Fijian > Polynesian > Nuclear Polynesian > Northern Outlier Polynesian-East Polynesian > Solomons Northern Outlier Polynesian-East Polynesian > Central Northern Outlier Polynesian-East Polynesian > East Polynesian > East Polynesian Proximal > Southern East Polynesian Proximal > Tuamotuan"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tuamotuan_language"
+translations:
+  - translation_iso: jpn
+    name: トゥアモトゥ語
+  - translation_iso: zho
+    name: 土阿莫土語
 rolv_dialects:
   - rolv_code: 17711
     language_tag: pmt-x-HIS17711

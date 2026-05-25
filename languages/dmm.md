@@ -1,8 +1,6 @@
 ---
 iso: dmm
 name: Dama
-name_zh: 达玛语
-name_zh_auto: true
 autonym: null
 population: null
 country_id: CM
@@ -14,4 +12,8 @@ glottocode: dama1267
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Cameroun-Ubangian > Mbumic > Northern Mbum > Dama-Galke > Dama (Cameroon)"
+translations:
+  - translation_iso: zho
+    name: 达玛语
+    auto: true
 ---

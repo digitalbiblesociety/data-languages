@@ -1,8 +1,6 @@
 ---
 iso: qxu
 name: "Arequipa-La Unión Quechua"
-name_zh: 阿雷基帕-拉乌尼翁克丘亚语
-name_zh_auto: true
 autonym: Chanka runasimi
 alt_names: [Arequipa-La Union Quechua, "Quechua, Arequipa-La Unión"]
 population: 32000
@@ -15,6 +13,10 @@ glottocode: areq1237
 glottolog_family_id: quec1387
 glottolog_family_name: Quechuan
 glottolog_classification: "Quechuan > Southern Quechua > Ayacuchan Quechua > Arequipa-La Unión Quechua"
+translations:
+  - translation_iso: zho
+    name: 阿雷基帕-拉乌尼翁克丘亚语
+    auto: true
 rolv_dialects:
   - rolv_code: 15844
     language_tag: qxu-x-HIS15844

@@ -1,8 +1,6 @@
 ---
 iso: wrz
 name: Waray (Australia)
-name_zh: 澳大利亚瓦瑞语
-name_zh_auto: true
 autonym: Arwur
 alt_names: [Awara, Awarai, Awarra, Awarrai, Gunwinyguan, Nawarray, Parlamarnyin, Warai, Waray, Waray (in Australia), Waray language, Warei, Warrai, Warray, Wolwonga, Woolwonga, Wulwongga]
 population: null
@@ -16,5 +14,9 @@ glottolog_family_id: gunw1250
 glottolog_family_name: Gunwinyguan
 glottolog_classification: "Gunwinyguan > Western Gunwinyguan > Warrayic > Warray"
 wikipedia_url: "https://en.wikipedia.org/wiki/Warray_language"
+translations:
+  - translation_iso: zho
+    name: 澳大利亚瓦瑞语
+    auto: true
 ---
 Warray (Waray) was an Australian language spoken in the Adelaide River area of the Northern Territory.

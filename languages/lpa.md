@@ -1,8 +1,6 @@
 ---
 iso: lpa
 name: Lelepa
-name_zh: 勒勒帕语
-name_zh_auto: true
 autonym: Havannah Harbour
 population: 400
 country_id: VU
@@ -15,5 +13,9 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > North and Central Vanuatu > Central Vanuatu > Epi-Efate > Efate-Shepherds > Efate > North Efatic > Lelepa"
 wikipedia_url: "https://en.wikipedia.org/wiki/Lelepa_language"
+translations:
+  - translation_iso: zho
+    name: 勒勒帕语
+    auto: true
 ---
 Lelepa is a small Oceanic language of Vanuatu, spoken on Lelepa, off northwest Efate Island.

@@ -1,8 +1,6 @@
 ---
 iso: nfl
 name: Ayiwo
-name_zh: 艾约语
-name_zh_auto: true
 autonym: Reef
 alt_names: [Aiwo, Aïwo, Gnivo, Lomlom, Naaude, Nifilole, Nivo, Reef Islands, Reef Islands-Santa Cruz Sub-Family, Reefs, Äiwo, Äiwoo, Äiwoo language]
 population: 8400
@@ -16,6 +14,12 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Temotu > Reefs-Santa Cruz > Äiwoo"
 wikipedia_url: "https://en.wikipedia.org/wiki/%C3%84iwoo_language"
+translations:
+  - translation_iso: jpn
+    name: エイウォ語
+  - translation_iso: zho
+    name: 艾约语
+    auto: true
 rolv_dialects:
   - rolv_code: 3652
     language_tag: nfl-x-HIS03652

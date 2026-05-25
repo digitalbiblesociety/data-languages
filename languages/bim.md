@@ -1,8 +1,6 @@
 ---
 iso: bim
 name: Bimoba
-name_zh: 比莫巴语
-name_zh_auto: true
 autonym: Moar
 alt_names: [Moba, Moor]
 population: 200000
@@ -16,5 +14,9 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Gur > Central Gur > Northern Central Gur > Bwamu-Oti-Volta > Oti-Volta > Nuclear Oti-Volta > Gurma-Yom-Oti-Volta Occidental > Gurma-Yom-Naudem > Gurma > Gurma B > Gourmantche-Moba > Moba-Bimoba > Bimoba"
 wikipedia_url: "https://en.wikipedia.org/wiki/Bimoba_language"
+translations:
+  - translation_iso: zho
+    name: 比莫巴语
+    auto: true
 ---
 Moba or Bimoba is a Niger-Congo language spoken by the Moba people of Togo and Ghana. There are also some Moba speakers in Burkina Faso. It has two dialects. The language cluster is also known as Moba–Bimoba.

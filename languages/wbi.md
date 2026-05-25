@@ -1,8 +1,6 @@
 ---
 iso: wbi
 name: Vwanji
-name_zh: 夫万吉语
-name_zh_auto: true
 autonym: Kivwanji
 alt_names: [Kiwanji, Wanji]
 population: 41800
@@ -16,5 +14,9 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > East Bantu > Northeast Savanna Bantu > Southern Tanzania Highlands Bantu > Wanji-Sangu > Vwanji"
 wikipedia_url: "https://en.wikipedia.org/wiki/Vwanji_language"
+translations:
+  - translation_iso: zho
+    name: 夫万吉语
+    auto: true
 ---
 Wanji, or Vwanji, is a Bantu language of Tanzania.

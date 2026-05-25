@@ -1,8 +1,6 @@
 ---
 iso: tul
 name: Tula
-name_zh: 图拉语
-name_zh_auto: true
 autonym: Kotule
 alt_names: [Kutule]
 population: 50000
@@ -16,6 +14,10 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Gur > Central Gur > Tula-Longuda > Tula-Waja > Tulaic > Tula-Ma-Yebu > Nuclear Tulaic > Tula"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tula_language"
+translations:
+  - translation_iso: zho
+    name: 图拉语
+    auto: true
 rolv_dialects:
   - rolv_code: 17749
     language_tag: tul-x-HIS17749

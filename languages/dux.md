@@ -1,8 +1,6 @@
 ---
 iso: dux
 name: Duungooma
-name_zh: 杜翁戈玛语
-name_zh_auto: true
 autonym: Du
 alt_names: [Duungo, Mali Duun, Samogho, Samogo, Samoro, Western Duun]
 population: 150000
@@ -15,4 +13,8 @@ glottocode: duun1242
 glottolog_family_id: mand1469
 glottolog_family_name: Mande
 glottolog_classification: "Mande > Western Mande > Northwestern Mande > Duun-Bobo > Duun-Jo > Duun-Seenku > Duun > Duungooma"
+translations:
+  - translation_iso: zho
+    name: 杜翁戈玛语
+    auto: true
 ---

@@ -1,8 +1,6 @@
 ---
 iso: kfx
 name: Kullu Pahari
-name_zh: 库卢·帕哈里语
-name_zh_auto: true
 autonym: Kullu
 alt_names: [Kauli, Kullui, Kulu Boli, Kulu Pahari, Kului, Kulvi, Kulwali, Pahari, Pahari Kullu, "Pahari, Kullu", Paharí de Kullu, Phari Kulu, Western Pahari]
 population: 195000
@@ -16,6 +14,14 @@ glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Indo-Aryan > Middle-Modern Indo-Aryan > Eastern Dardic > Himachali > Nuclear Himachali > Kullu Pahari"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kullui"
+translations:
+  - translation_iso: hin
+    name: कुलुई
+  - translation_iso: jpn
+    name: クッルー・パハリー語
+  - translation_iso: zho
+    name: 库卢·帕哈里语
+    auto: true
 rolv_dialects:
   - rolv_code: 3313
     language_tag: kfx-x-HIS03313

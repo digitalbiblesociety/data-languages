@@ -1,8 +1,6 @@
 ---
 iso: dmo
 name: Kemedzung
-name_zh: 肯梅宗语
-name_zh_auto: true
 autonym: Dumbo
 alt_names: [Dzumbo, Kemezung, Kemezung language, Kumaju]
 population: 4500
@@ -16,6 +14,10 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Beboid > Eastern Beboid > Bebe-Kemezung > Naki-Kemezung > Kemezung"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kemezung_language"
+translations:
+  - translation_iso: zho
+    name: 肯梅宗语
+    auto: true
 rolv_dialects:
   - rolv_code: 24818
     language_tag: dmo-x-HIS24818

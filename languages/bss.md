@@ -1,7 +1,6 @@
 ---
 iso: bss
 name: Akoose
-name_zh: 阿库色语
 autonym: Ngoe
 alt_names: [Akosi, Bakossi, Bekoose, Koose, Kosi, Nkoosi, Nkosi]
 population: 100000
@@ -15,6 +14,17 @@ glottocode: akoo1248
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > Bantu A-B10-B20-B30 > Lundu-Balong (A.10) > Greater Manenguba > Bafaw-Balong-Manenguba > Manenguba > Central Manenguba > Akoose"
+translations:
+  - translation_iso: ara
+    name: أكوس
+  - translation_iso: hin
+    name: अकूसे
+  - translation_iso: jpn
+    name: アコース語
+  - translation_iso: kor
+    name: 아쿠즈어
+  - translation_iso: zho
+    name: 阿库色语
 rolv_dialects:
   - rolv_code: 6825
     language_tag: bss-x-HIS06825

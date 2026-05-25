@@ -1,8 +1,6 @@
 ---
 iso: nlv
 name: Orizaba Nahuatl
-name_zh: 奥里萨巴纳瓦特尔语
-name_zh_auto: true
 autonym: Āwilisāpan Nāwatl
 alt_names: [Eastern Nawa, Mexicano, Nahua de la Huasteca, Nahuatl, "Nahuatl, Orizaba", Náhuatl de la Sierra de Zongolica, Náhuatl du Huasteca, Orizaba Aztec]
 population: 120000
@@ -16,6 +14,10 @@ glottolog_family_id: utoa1244
 glottolog_family_name: Uto-Aztecan
 glottolog_classification: "Uto-Aztecan > Southern Uto-Aztecan > Corachol-Aztecan > Aztec > Eastern Nahuatl > Orizaba Nahuatl"
 wikipedia_url: "https://en.wikipedia.org/wiki/Orizaba_Nahuatl"
+translations:
+  - translation_iso: zho
+    name: 奥里萨巴纳瓦特尔语
+    auto: true
 rolv_dialects:
   - rolv_code: 14635
     language_tag: nlv-x-HIS14635

@@ -1,8 +1,6 @@
 ---
 iso: bfe
 name: Betaf
-name_zh: 贝塔夫语
-name_zh_auto: true
 autonym: Tena
 alt_names: [Tebi]
 population: 600
@@ -16,6 +14,10 @@ glottolog_family_id: toro1256
 glottolog_family_name: Tor-Orya
 glottolog_classification: "Tor-Orya > Tor > Coastal Tor > Betaf-Vitou > Betaf"
 wikipedia_url: "https://en.wikipedia.org/wiki/Betaf_language"
+translations:
+  - translation_iso: zho
+    name: 贝塔夫语
+    auto: true
 rolv_dialects:
   - rolv_code: 1163
     language_tag: bfe-x-HIS01163

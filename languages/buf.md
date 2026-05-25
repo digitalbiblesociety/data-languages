@@ -1,8 +1,6 @@
 ---
 iso: buf
 name: Bushoong
-name_zh: 布肖翁语
-name_zh_auto: true
 autonym: Bushoong
 alt_names: [Bamongo, Bukuba, Bushona, Bushong, "Bushong, Kuba", Bushonga, Bushongo, Busoong, Ganga, Kuba, Mbale, Mongo, Shongo]
 population: 155000
@@ -16,6 +14,12 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > Central-Western Bantu > North Zaire River > Inner Basin Bantu > Cuvette > Nkutsuic > Bushoong-Wongo-Lele > Bushoong"
 wikipedia_url: "https://en.wikipedia.org/wiki/Bushong_language"
+translations:
+  - translation_iso: jpn
+    name: ブションゴ語
+  - translation_iso: zho
+    name: 布肖翁语
+    auto: true
 rolv_dialects:
   - rolv_code: 1220
     language_tag: buf-x-HIS01220

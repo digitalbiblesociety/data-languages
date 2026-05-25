@@ -1,8 +1,6 @@
 ---
 iso: omt
 name: Omotik
-name_zh: 奥莫蒂克语
-name_zh_auto: true
 autonym: Laamoot
 alt_names: ["\"Ndorobo\"", Omotic, Omótico]
 population: 200
@@ -16,6 +14,12 @@ glottolog_family_id: nilo1247
 glottolog_family_name: Nilotic
 glottolog_classification: "Nilotic > Southern Nilotic > Tatoga-Omotik > Omotik"
 wikipedia_url: "https://en.wikipedia.org/wiki/Omotik_language"
+translations:
+  - translation_iso: jpn
+    name: オモティク語
+  - translation_iso: zho
+    name: 奥莫蒂克语
+    auto: true
 rolv_dialects:
   - rolv_code: 15294
     language_tag: omt-x-HIS15294

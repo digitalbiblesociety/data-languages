@@ -1,7 +1,6 @@
 ---
 iso: arg
 name: Aragonese
-name_zh: 阿拉贡语
 autonym: aragonés
 alt_names: [Altoaragonés, An Aragóinis, Aragoiera, Aragoieraz, Aragona lingvo, Aragonais, Aragonca, Aragonees, Aragoneg, Aragonek, Aragonesische Sprache, Aragonesisk, Aragoniagiella, Aragonian kieli, Aragoniešu valoda, Aragonish, Aragonisk, Aragonska, Aragonski jezik, Aragonès, Aragonês, Aragonština, Aragoonsche Spraak, Aragóniai nyelv, Aragónska, Bahasa Aragon, Bahasa Aragones, Fabla Aragonesa, High Aragonese, Idioma aragonés, Język aragoński, Lenga aragonèisa, Lengua aragoneise, Lia-aragonés, Limba aragoneză, Lingua Aragonensis, Lingua aragonesa, Lingua aragonese, Lingua aragunesa, Luenga aragonesa, Língua aragonesa, Patués, Reo Aragon, Zimanê aragonî, Â-lâ-kung-ngî, Арагон чĕлхи, Арагонски език, Арагонски јазик, Арагонски језик, Арагонский язык, Арагонська мова, ئاراگون تىلى, لغة أراغونية, ภาษาอารากอน, アラゴン語, 阿拉贡语, 아라곤어]
 population: 11000
@@ -16,6 +15,17 @@ glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Italic > Latino-Faliscan > Latinic > Imperial Latin > Romance > Italo-Western Romance > Western Romance > Unshifted Western Romance > Aragonese"
 wikipedia_url: "https://en.wikipedia.org/wiki/Aragonese_language"
+translations:
+  - translation_iso: ara
+    name: الأرغونية
+  - translation_iso: hin
+    name: अरागोनी
+  - translation_iso: jpn
+    name: アラゴン語
+  - translation_iso: kor
+    name: 아라곤어
+  - translation_iso: zho
+    name: 阿拉贡语
 rolv_dialects:
   - rolv_code: 4860
     language_tag: an-x-HIS04860

@@ -1,8 +1,6 @@
 ---
 iso: htu
 name: Hitu
-name_zh: 希图语
-name_zh_auto: true
 autonym: null
 alt_names: [Itu]
 population: 16000
@@ -16,6 +14,10 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Nunusaku > Piru Bay > East Piru Bay > Solehua > Seram Straits > Ambonic > Northeast Ambon > Hitu"
 wikipedia_url: "https://en.wikipedia.org/wiki/Hitu_language"
+translations:
+  - translation_iso: zho
+    name: 希图语
+    auto: true
 rolv_dialects:
   - rolv_code: 10643
     language_tag: htu-x-HIS10643

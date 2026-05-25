@@ -1,7 +1,6 @@
 ---
 iso: moe
 name: Montagnais
-name_zh: 因努語
 autonym: "Innu-aimun"
 alt_names: [Central Montagnais, Cree, Eastern Montagnais, Innu, Innu Aimun, Inua lingvo, "Montagnais de l'est", "Montagnais de l'ouest", Montagneg, Montañés occidental, Western Montagnais, Монтанье-наскапи]
 population: 10200
@@ -16,6 +15,17 @@ glottolog_family_id: algi1248
 glottolog_family_name: Algic
 glottolog_classification: "Algic > Algonquian-Blackfoot > Algonquian > Cree-Montagnais-Naskapi > Montagnais"
 wikipedia_url: "https://en.wikipedia.org/wiki/Innu_language"
+translations:
+  - translation_iso: ara
+    name: إينو-ايمون
+  - translation_iso: hin
+    name: इन्नु-एईमन
+  - translation_iso: jpn
+    name: モンタニェ語
+  - translation_iso: kor
+    name: 인누아이문어
+  - translation_iso: zho
+    name: 因努語
 rolv_dialects:
   - rolv_code: 3489
     language_tag: moe-x-HIS03489

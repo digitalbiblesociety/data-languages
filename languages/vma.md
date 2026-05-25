@@ -1,7 +1,6 @@
 ---
 iso: vma
 name: Martuyhunira
-name_zh: 马图苏尼拉语
 autonym: Martuthunira
 alt_names: [Jawunmala, Lingua martuthunira, Maratunia, Mardadhunira, Mardadhuniya, Mardathon, Mardathoni, Mardathoonera, Mardathunera, Mardathunira, Mardatuna, Mardatunera, Mardayunira, Mardidhoonera, Mardudhoonera, Mardudhunera, Mardudhunira, Mardudjungara, Marduduna, Mardudunera, Marduthunira, Mardutunera, Mardutunira, Marduyhunira, Martuthuniya, Martuyunira, Other Australian Indigenous Languages, Padupadu]
 population: null
@@ -15,5 +14,8 @@ glottolog_family_id: pama1250
 glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > South-West Pama-Nyungan > Pilbara > Ngayarda > Central Ngayarda > Martuthunira"
 wikipedia_url: "https://en.wikipedia.org/wiki/Martuthunira_language"
+translations:
+  - translation_iso: zho
+    name: 马图苏尼拉语
 ---
 Martuthunira is an extinct Australian Aboriginal language, the traditional language of the Martuthunira people of Western Australia.

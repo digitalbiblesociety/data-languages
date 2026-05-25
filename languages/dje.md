@@ -1,7 +1,6 @@
 ---
 iso: dje
 name: Zarma
-name_zh: 查爾馬語
 autonym: zarma ciine
 alt_names: [Adzerma, Djerma, Dyabarma, Dyarma, Dyerma, Język dżerma, Zabarma, Zarbarma, Zarmaci, Zarmeg, Zerma, لغة زرمة]
 population: 4330100
@@ -16,6 +15,17 @@ glottolog_family_id: song1307
 glottolog_family_name: Songhay
 glottolog_classification: "Songhay > Eastern Songhay > Zarma-Kaado-Dendi > Zarma-Kaado"
 wikipedia_url: "https://en.wikipedia.org/wiki/Zarma_language"
+translations:
+  - translation_iso: ara
+    name: لغة زرمة
+  - translation_iso: hin
+    name: झार्मा
+  - translation_iso: jpn
+    name: ザルマ語
+  - translation_iso: kor
+    name: 자르마어
+  - translation_iso: zho
+    name: 查爾馬語
 rolv_dialects:
   - rolv_code: 27827
     language_tag: dje-x-HIS27827

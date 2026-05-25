@@ -1,7 +1,6 @@
 ---
 iso: tbl
 name: Tboli
-name_zh: 特波里語
 autonym: Tagabili
 alt_names: ["\"Tagabili\"", "T'boli", Tiboli]
 population: 87200
@@ -15,6 +14,9 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Bilic > Tboli-Blaan > Tboli"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tboli_language"
+translations:
+  - translation_iso: zho
+    name: 特波里語
 rolv_dialects:
   - rolv_code: 26172
     language_tag: tbl-x-HIS26172

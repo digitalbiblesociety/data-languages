@@ -1,8 +1,6 @@
 ---
 iso: owi
 name: Owiniga
-name_zh: 奥维尼加语
-name_zh_auto: true
 autonym: Bero
 alt_names: [Samo, Taina]
 population: 330
@@ -16,5 +14,9 @@ glottolog_family_id: left1242
 glottolog_family_name: Left May
 glottolog_classification: "Left May > Owiniga"
 wikipedia_url: "https://en.wikipedia.org/wiki/Owiniga_language"
+translations:
+  - translation_iso: zho
+    name: 奥维尼加语
+    auto: true
 ---
 Owiniga is a Left May language of Tunap/Hunstein Rural LLG, East Sepik Province in Papua New Guinea.

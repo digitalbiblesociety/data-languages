@@ -1,8 +1,6 @@
 ---
 iso: ceg
 name: Chamacoco
-name_zh: 查马科科语
-name_zh_auto: true
 autonym: Ishír
 alt_names: [Bahía Negra, Chamakoko, Ebidoso, Ishiro, Jeywo, Tchamakokoeg, Tumarahá, Tumerehã, Tumraha, Yshyro, Čamakokų kalba]
 population: 2000
@@ -16,6 +14,10 @@ glottolog_family_id: zamu1243
 glottolog_family_name: Zamucoan
 glottolog_classification: "Zamucoan > Chamacoco"
 wikipedia_url: "https://en.wikipedia.org/wiki/Chamacoco_language"
+translations:
+  - translation_iso: zho
+    name: 查马科科语
+    auto: true
 rolv_dialects:
   - rolv_code: 1899
     language_tag: ceg-x-HIS01899

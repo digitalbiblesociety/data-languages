@@ -1,8 +1,6 @@
 ---
 iso: rsm
 name: Miriwoong Sign Language
-name_zh: 米里乌恩格手语
-name_zh_auto: true
 autonym: null
 population: 3
 country_id: AU
@@ -15,5 +13,9 @@ glottolog_family_id: sign1238
 glottolog_family_name: Sign Language
 glottolog_classification: "Sign Language > L1 Sign Language > Miriwoong Sign Language"
 wikipedia_url: "https://en.wikipedia.org/wiki/Miriwoong_Sign_Language"
+translations:
+  - translation_iso: zho
+    name: 米里乌恩格手语
+    auto: true
 ---
 Miriwoong Sign Language is a developed Australian Aboriginal sign language used by the Miriwoong, an Aboriginal community in the north of Australia. It is mostly used by the hearing community, but three deaf speakers have been identified. Speakers do not find Yolngu Sign Language to be understandable.

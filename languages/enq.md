@@ -1,8 +1,6 @@
 ---
 iso: enq
 name: Enga
-name_zh: 恩加语
-name_zh_auto: true
 autonym: null
 alt_names: [Caga, Tchaga, Tsaga]
 population: 300000
@@ -16,6 +14,14 @@ glottolog_family_id: nucl1709
 glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Enga-Kewa-Huli > Engan > Enga"
 wikipedia_url: "https://en.wikipedia.org/wiki/Enga_language"
+translations:
+  - translation_iso: jpn
+    name: エンガ語
+  - translation_iso: kor
+    name: 엥가어
+  - translation_iso: zho
+    name: 恩加语
+    auto: true
 rolv_dialects:
   - rolv_code: 4518
     language_tag: enq-x-HIS04518

@@ -1,7 +1,6 @@
 ---
 iso: yal
 name: Yalunka
-name_zh: 雅隆卡語
 autonym: Jalunga
 alt_names: [Bahasa Yalunka, Dialonke, Dialonké, Djallonke, Djalonka, Dyalonke, Jalonke, Jalonké, Kjalonke, Susu-Yalunka, Yalonka, Yalunke]
 population: 174300
@@ -15,6 +14,11 @@ glottolog_family_id: mand1469
 glottolog_family_name: Mande
 glottolog_classification: "Mande > Western Mande > Manding-Kpelle > Central Mande > Susu-Yalunka > Yalunka"
 wikipedia_url: "https://en.wikipedia.org/wiki/Yalunka_language"
+translations:
+  - translation_iso: jpn
+    name: ヤルンカ語
+  - translation_iso: zho
+    name: 雅隆卡語
 rolv_dialects:
   - rolv_code: 11087
     language_tag: yal-x-HIS11087

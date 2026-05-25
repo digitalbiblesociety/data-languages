@@ -1,8 +1,6 @@
 ---
 iso: tnx
 name: Tanema
-name_zh: 塔内马语
-name_zh_auto: true
 autonym: Tetawo
 alt_names: [Tanima]
 population: 4
@@ -16,5 +14,11 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Temotu > Utupua-Vanikoro > Tanema"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tanema_language"
+translations:
+  - translation_iso: jpn
+    name: タネマ語
+  - translation_iso: zho
+    name: 塔内马语
+    auto: true
 ---
 Tanema is a nearly extinct language of the island of Vanikoro, in the easternmost province of the Solomon Islands.

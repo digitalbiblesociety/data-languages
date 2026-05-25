@@ -1,8 +1,6 @@
 ---
 iso: aso
 name: Dano
-name_zh: 达诺语
-name_zh_auto: true
 autonym: Upper Asaro
 alt_names: [Asaro]
 population: 30000
@@ -16,6 +14,10 @@ glottolog_family_id: nucl1709
 glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Kainantu-Goroka > Goroka > Nuclear Goroka > Gahuku > Dano"
 wikipedia_url: "https://en.wikipedia.org/wiki/Dano_language"
+translations:
+  - translation_iso: zho
+    name: 达诺语
+    auto: true
 rolv_dialects:
   - rolv_code: 9122
     language_tag: aso-x-HIS09122

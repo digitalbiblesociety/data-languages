@@ -1,8 +1,6 @@
 ---
 iso: dbm
 name: Duguri
-name_zh: 杜古里语
-name_zh_auto: true
 autonym: Doori
 alt_names: [Dugarwa, Duguranchi, Dugurawa, Dukuri]
 population: 20000
@@ -15,6 +13,10 @@ glottocode: dugu1249
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Jarawan > Nigerian Jarawan > Jar > Jarawaic > Duguri"
+translations:
+  - translation_iso: zho
+    name: 杜古里语
+    auto: true
 rolv_dialects:
   - rolv_code: 9427
     language_tag: dbm-x-HIS09427

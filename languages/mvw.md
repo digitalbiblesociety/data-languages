@@ -1,8 +1,6 @@
 ---
 iso: mvw
 name: Machinga
-name_zh: 马金加语
-name_zh_auto: true
 autonym: Chi(ni)makonde
 alt_names: [Tanzania]
 population: 36000
@@ -15,4 +13,8 @@ glottocode: mach1265
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > East Bantu > Rufiji-Ruvuma > Ruvuma > Makondic > Machinga"
+translations:
+  - translation_iso: zho
+    name: 马金加语
+    auto: true
 ---

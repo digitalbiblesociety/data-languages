@@ -1,8 +1,6 @@
 ---
 iso: byw
 name: Belhariya
-name_zh: 贝尔哈里亚语
-name_zh_auto: true
 autonym: Athpagari
 alt_names: [Athpahariya, Athpare, Athpariya, Belhare, Belhare language, Belhariye, ภาษาเบลฮาเร]
 population: 500
@@ -16,5 +14,9 @@ glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Himalayish > Mahakiranti > Kiranti > Eastern Kiranti > Tamar > Yakkha-Athpariyic > Athpariyic > Belhariya"
 wikipedia_url: "https://en.wikipedia.org/wiki/Belhare_language"
+translations:
+  - translation_iso: zho
+    name: 贝尔哈里亚语
+    auto: true
 ---
 Belhare, also known as Athpariya II, is a Kiranti language spoken by some 2,000 people living on Belhara Hill, at the southern foothills of the Himalayas situated in the Dhankuta District, Koshi Province in eastern Nepal. All speakers of Belhare are bilingual in Nepali, which results in frequent code mixing and a large amount of Nepali loan-words. Nevertheless, the grammar of Belhare has maintained its distinct Kiranti characteristics.

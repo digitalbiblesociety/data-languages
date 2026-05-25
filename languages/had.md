@@ -1,8 +1,6 @@
 ---
 iso: had
 name: Hatam
-name_zh: 哈塔姆语
-name_zh_auto: true
 autonym: Adihup
 alt_names: [Atam, Borai, Hattam, Mansim, Miriei, Moi, Tinam, Uran]
 population: 16000
@@ -16,6 +14,10 @@ glottolog_family_id: hata1242
 glottolog_family_name: Hatam-Mansim
 glottolog_classification: "Hatam-Mansim > Hatam"
 wikipedia_url: "https://en.wikipedia.org/wiki/Hatam_language"
+translations:
+  - translation_iso: zho
+    name: 哈塔姆语
+    auto: true
 rolv_dialects:
   - rolv_code: 1269
     language_tag: had-x-HIS01269

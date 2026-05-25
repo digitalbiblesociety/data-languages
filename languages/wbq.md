@@ -1,8 +1,6 @@
 ---
 iso: wbq
 name: Waddar
-name_zh: 瓦达尔语
-name_zh_auto: true
 autonym: Od
 alt_names: [Orh, Vadari, Vadda Beldar, Werders, Wodde]
 population: 198000
@@ -17,6 +15,10 @@ glottolog_family_id: drav1251
 glottolog_family_name: Dravidian
 glottolog_classification: "Dravidian > South Dravidian > South Dravidian II > Teluguic > Waddar"
 wikipedia_url: "https://en.wikipedia.org/wiki/Waddar_language"
+translations:
+  - translation_iso: zho
+    name: 瓦达尔语
+    auto: true
 rolv_dialects:
   - rolv_code: 3894
     language_tag: wbq-x-HIS03894

@@ -1,8 +1,6 @@
 ---
 iso: xse
 name: Sempan
-name_zh: 瑟潘语
-name_zh_auto: true
 autonym: Nararapi
 alt_names: [Sempan jezik]
 population: 1000
@@ -16,5 +14,9 @@ glottolog_family_id: nucl1709
 glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Asmat-Awyu-Ok > Asmat-Kamrau Bay > Asmat-Kamoro > Sempan"
 wikipedia_url: "https://en.wikipedia.org/wiki/Sempan_language"
+translations:
+  - translation_iso: zho
+    name: 瑟潘语
+    auto: true
 ---
 Sempan is a language spoken by the Sempan people of in Mimika Regency, Central Papua, Western New Guinea, Indonesia.

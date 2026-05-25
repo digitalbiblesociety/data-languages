@@ -1,8 +1,6 @@
 ---
 iso: yil
 name: Yindjilandji
-name_zh: 伊因季兰季语
-name_zh_auto: true
 autonym: Ngarru
 alt_names: [Bularnu, Dhidhanu, Gulbilangu, Inchalachee, Inchalanche, Inchalanchee, Inchalanchi, Inchilachee, Indilandji, Indjiladji, Indjilandji, Indjilindji, Indjilinji, Indjillnji, Indjurandji, Indkilindji, Indkilindji), Injdjiladji, Injeelanjee, Injilinji, Intjilantji, Intjilatja, Intyilatya, Yinjilanji]
 population: null
@@ -16,5 +14,9 @@ glottolog_family_id: pama1250
 glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > Ngarna > Southern Ngarna > Ngarru > Yindjilandji"
 wikipedia_url: "https://en.wikipedia.org/wiki/Yindjilandji"
+translations:
+  - translation_iso: zho
+    name: 伊因季兰季语
+    auto: true
 ---
 The Yindjilandji are an indigenous Australian people of the Northern Territory.

@@ -1,8 +1,6 @@
 ---
 iso: lmk
 name: Lamkang
-name_zh: 兰卡语
-name_zh_auto: true
 autonym: Ksen
 alt_names: ["\"Hiroi-Lamgang\"", "\"Lamgang\"", Hiroi-Lamgang, Lamgang, Lamkaang, Lamkang Naga]
 population: 10000
@@ -16,6 +14,12 @@ glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Kuki-Chin-Naga > Kuki-Chin > Northwestern Kuki-Chin > Analic > Anal-Lamgang > Lamkang"
 wikipedia_url: "https://en.wikipedia.org/wiki/Lamkang_language"
+translations:
+  - translation_iso: hin
+    name: लामगांग भाषा
+  - translation_iso: zho
+    name: 兰卡语
+    auto: true
 rolv_dialects:
   - rolv_code: 12741
     language_tag: lmk-x-HIS12741

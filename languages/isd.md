@@ -1,8 +1,6 @@
 ---
 iso: isd
 name: Isnag
-name_zh: 伊斯纳格语
-name_zh_auto: true
 autonym: Isneg
 alt_names: [Dibagat-Kabugao-Isneg, Maragat]
 population: 32600
@@ -16,6 +14,10 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Northern Luzon > Cagayan Valley > Isnag"
 wikipedia_url: "https://en.wikipedia.org/wiki/Isnag_language"
+translations:
+  - translation_iso: zho
+    name: 伊斯纳格语
+    auto: true
 rolv_dialects:
   - rolv_code: 208
     language_tag: isd-x-HIS00208

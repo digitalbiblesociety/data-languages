@@ -1,8 +1,6 @@
 ---
 iso: zpw
 name: Zaniza Zapotec
-name_zh: 扎尼萨萨波特克语
-name_zh_auto: true
 autonym: (Santa María Zaniza)
 alt_names: [Solteco, Southern Sapoteko, Zaniza Papabuco, Zapotec, "Zapotec, Zaniza", Zapoteco de Asunción Tlacolulita, "Zapotèque d'Asunción Tlacolulita"]
 population: 770
@@ -16,5 +14,9 @@ glottolog_family_id: otom1299
 glottolog_family_name: Otomanguean
 glottolog_classification: "Otomanguean > Eastern Otomanguean > Popoloca-Zapotecan > Zapotecan > Zapotec > Core Zapotec > Papabuco > Zaniza Zapotec"
 wikipedia_url: "https://en.wikipedia.org/wiki/Zaniza_Zapotec"
+translations:
+  - translation_iso: zho
+    name: 扎尼萨萨波特克语
+    auto: true
 ---
 Zaniza Zapotec is an Oto-Manguean language of western Oaxaca, Mexico. It is one of several Zapotec languages called Papabuco. It has only 10% intelligibility with Texmelucan Zapotec, its closest important relative.

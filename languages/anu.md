@@ -1,7 +1,6 @@
 ---
 iso: anu
 name: Anuak
-name_zh: 阿努阿克語
 autonym: Anyuak
 alt_names: [Anuak jezik, Anyua, Anywa, Anywak, Bar, Burjin, Dho Anywaa, Jambo, Miroy, Moojanga, Nuro, Yambo, Yembo]
 population: 221600
@@ -15,6 +14,11 @@ glottolog_family_id: nilo1247
 glottolog_family_name: Nilotic
 glottolog_classification: "Nilotic > Western Nilotic > Lwoo > Northern Lwoo > Anuak"
 wikipedia_url: "https://en.wikipedia.org/wiki/Anuak_language"
+translations:
+  - translation_iso: jpn
+    name: アヌアク語
+  - translation_iso: zho
+    name: 阿努阿克語
 rolv_dialects:
   - rolv_code: 7034
     language_tag: anu-x-HIS07034

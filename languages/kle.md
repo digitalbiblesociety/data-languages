@@ -1,8 +1,6 @@
 ---
 iso: kle
 name: Kulung (Nepal)
-name_zh: 库隆语
-name_zh_auto: true
 autonym: kulu riŋ
 alt_names: [Jindā, Khambu, Kholung, Khulung, Khulunge Rai, Kulu Ring, Kulung, Kulung (Tibeto-Burman), Kulungish, Kulungo, Rai]
 population: 33200
@@ -16,5 +14,9 @@ glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Himalayish > Mahakiranti > Kiranti > Eastern Kiranti > Khambu > Kulungic > Kulung (Nepal)"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kulung_language_(Nepal)"
+translations:
+  - translation_iso: zho
+    name: 库隆语
+    auto: true
 ---
 Kulung is one of the Kiranti languages. It is spoken by an estimated 33,000 people. Van Driem (2001) includes Chukwa as a dialect.

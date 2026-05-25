@@ -1,8 +1,6 @@
 ---
 iso: sdq
 name: "Semandang\r"
-name_zh: 塞曼当语
-name_zh_auto: true
 autonym: bahasa Kualan-Semandang
 alt_names: [Semandang]
 population: 100000
@@ -10,6 +8,10 @@ country_id: IN
 country_name: India
 status_id: null
 wikipedia_url: "https://en.wikipedia.org/wiki/Semandang_language"
+translations:
+  - translation_iso: zho
+    name: 塞曼当语
+    auto: true
 rolv_dialects:
   - rolv_code: 5038
     language_tag: sdq-x-HIS05038

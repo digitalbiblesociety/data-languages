@@ -1,8 +1,6 @@
 ---
 iso: bxa
 name: Tairaha
-name_zh: 泰拉哈语
-name_zh_auto: true
 autonym: Tairaha
 alt_names: [Bauro, Mamarego, Marmaregho, Südliche Salomons-Inseln]
 population: 4980
@@ -16,6 +14,12 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Southeast Solomonic > Longgu-Malaita-Makira > Malaita-Makira > Makira > Bauro"
 wikipedia_url: "https://en.wikipedia.org/wiki/Bauro_language"
+translations:
+  - translation_iso: jpn
+    name: バウロ語
+  - translation_iso: zho
+    name: 泰拉哈语
+    auto: true
 rolv_dialects:
   - rolv_code: 3625
     language_tag: bxa-x-HIS03625

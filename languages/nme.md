@@ -1,8 +1,6 @@
 ---
 iso: nme
 name: Mzieme Naga
-name_zh: 姆齐梅纳加语
-name_zh_auto: true
 autonym: Northern Zeme
 alt_names: [Mzieme, Naga, "Naga, Mzieme", "Naga,Mzieme", Zeme]
 population: 29000
@@ -16,5 +14,11 @@ glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Kuki-Chin-Naga > Zemeic > Nuclear Zemeic > Mzieme-Zeme > Mzieme Naga"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mzieme_language"
+translations:
+  - translation_iso: hin
+    name: ज़ाईमे भाषा
+  - translation_iso: zho
+    name: 姆齐梅纳加语
+    auto: true
 ---
 Mzieme is a Sino-Tibetan language spoken in India. It has been called Northern Zeme due to its lack of official recognition, but is not particularly close to Zeme.

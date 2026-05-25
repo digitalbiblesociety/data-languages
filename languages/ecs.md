@@ -1,8 +1,6 @@
 ---
 iso: ecs
 name: Ecuadorian Sign Language
-name_zh: 厄瓜多尔手语
-name_zh_auto: true
 autonym: Lengua de Señas de Ecuador
 population: 50000
 country_id: EC
@@ -15,5 +13,11 @@ glottolog_family_id: sign1238
 glottolog_family_name: Sign Language
 glottolog_classification: "Sign Language > L1 Sign Language > LSFic > ASLic > West-Central South American Sign > Ecuadorian Sign Language"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ecuadorian_Sign_Language"
+translations:
+  - translation_iso: jpn
+    name: エクアドル手話
+  - translation_iso: zho
+    name: 厄瓜多尔手语
+    auto: true
 ---
 Ecuadorian Sign Language is the sign language of Ecuador.

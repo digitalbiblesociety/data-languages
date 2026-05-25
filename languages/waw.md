@@ -1,8 +1,6 @@
 ---
 iso: waw
 name: Waiwai
-name_zh: 瓦伊瓦伊语
-name_zh_auto: true
 autonym: Ouayeone
 alt_names: [Katawiana, Parukota, Parukotó, Tunayana, Tunayana (Guyane), Uai Uai, Uaieue, Uaiuai, Wabui, Wai Wai, Waiwai (Brésil), Waiwai (Surinam), Waiwai (Suriname)]
 population: 2910
@@ -16,6 +14,12 @@ glottolog_family_id: cari1283
 glottolog_family_name: Cariban
 glottolog_classification: "Cariban > Parukotoan > Waiwaian > Waiwai"
 wikipedia_url: "https://en.wikipedia.org/wiki/Waiwai_language"
+translations:
+  - translation_iso: jpn
+    name: ワイワイ語
+  - translation_iso: zho
+    name: 瓦伊瓦伊语
+    auto: true
 rolv_dialects:
   - rolv_code: 18111
     language_tag: waw-x-HIS18111

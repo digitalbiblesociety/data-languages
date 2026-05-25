@@ -1,8 +1,6 @@
 ---
 iso: dmu
 name: Dubu
-name_zh: 杜布语
-name_zh_auto: true
 autonym: Dubu
 alt_names: [Tebi]
 population: 220
@@ -16,5 +14,11 @@ glottolog_family_id: pauw1244
 glottolog_family_name: Pauwasi
 glottolog_classification: "Pauwasi > Western Pauwasi > Dubu"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tebi_language"
+translations:
+  - translation_iso: ara
+    name: لغة تيبي
+  - translation_iso: zho
+    name: 杜布语
+    auto: true
 ---
 Tebi, also known by the village name Dubu, is a Western Pauwasi language of West New Guinea. It is spoken in Affi, Dubu, and Jembatan Web villages of Keerom Regency. It is mostly used by older adults.

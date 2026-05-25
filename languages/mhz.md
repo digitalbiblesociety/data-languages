@@ -1,8 +1,6 @@
 ---
 iso: mhz
 name: Mor (Mor Islands)
-name_zh: 莫尔语（莫尔群岛）
-name_zh_auto: true
 autonym: Austronesian Mor
 alt_names: [Mor, "Mor (Mor Islands, Indonesia)"]
 population: 700
@@ -16,6 +14,10 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > South Halmahera-West New Guinea > Mor (Mor Islands)"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mor_language_(Austronesian)"
+translations:
+  - translation_iso: zho
+    name: 莫尔语（莫尔群岛）
+    auto: true
 rolv_dialects:
   - rolv_code: 5069
     language_tag: mhz-x-HIS05069

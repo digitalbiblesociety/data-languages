@@ -1,8 +1,6 @@
 ---
 iso: kiv
 name: Kimbu
-name_zh: 金布语
-name_zh_auto: true
 autonym: Kikimbu
 alt_names: [Ikibungu, Yanzi]
 population: 62700
@@ -16,5 +14,9 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > East Bantu > Northeast Savanna Bantu > Sukuma-Nyamwezi (F.20) > Nyamwezic > Kimbu"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kimbu_language"
+translations:
+  - translation_iso: zho
+    name: 金布语
+    auto: true
 ---
 Kimbu is a Bantu language of Tanzania. In 1992, use of Kimbu was declining but still in regular use in certain contexts. As of 2018, most children of Kimbu speakers learn Swahili as a first language, and do not learn Kimbu well.

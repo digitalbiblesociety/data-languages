@@ -1,8 +1,6 @@
 ---
 iso: nif
 name: Nek
-name_zh: 内克语
-name_zh_auto: true
 autonym: null
 population: 2000
 country_id: PG
@@ -15,6 +13,10 @@ glottolog_family_id: nucl1709
 glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Finisterre-Huon > Finisterre-Saruwaged > Erap > Boana > Nek-Nuk > Nek"
 wikipedia_url: "https://en.wikipedia.org/wiki/Nek_language"
+translations:
+  - translation_iso: zho
+    name: 内克语
+    auto: true
 rolv_dialects:
   - rolv_code: 14816
     language_tag: nif-x-HIS14816

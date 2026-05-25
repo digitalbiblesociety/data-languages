@@ -1,7 +1,6 @@
 ---
 iso: bam
 name: Bambara
-name_zh: 班巴拉语
 autonym: ߓߡߊߣߊ߲ߞߊ߲
 alt_names: [Bahasa Bambara, Bamana, Bamanakan, Bamanankan, Bambara keel, Bambara lingvo, Bambara simi, Bambaran kieli, Bambareg, Bambaru valoda, Bambarština, Idioma bambara, Język bambara, Lenga Bamanankan, Lingua bambara, Língua bambara, Tiếng Bambara, Бамана, بمبارا, பம்பாரா மொழி, バンバラ語, 班巴拉语, 밤바라어]
 population: 4183000
@@ -16,6 +15,17 @@ glottolog_family_id: mand1469
 glottolog_family_name: Mande
 glottolog_classification: "Mande > Western Mande > Manding-Kpelle > Central Mande > Manding-Jogo > Manding-Vai > Manding-Mokole > Manding > East Manding > Bambara"
 wikipedia_url: "https://en.wikipedia.org/wiki/Bambara_language"
+translations:
+  - translation_iso: ara
+    name: البمبرية
+  - translation_iso: hin
+    name: बाम्बारा
+  - translation_iso: jpn
+    name: バンバラ語
+  - translation_iso: kor
+    name: 밤바라어
+  - translation_iso: zho
+    name: 班巴拉语
 rolv_dialects:
   - rolv_code: 2578
     language_tag: bm-x-HIS02578

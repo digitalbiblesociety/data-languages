@@ -1,8 +1,6 @@
 ---
 iso: trb
 name: Terebu
-name_zh: 特雷布语
-name_zh_auto: true
 autonym: Terepu
 alt_names: [Turubu, Turupu]
 population: 128
@@ -16,5 +14,9 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > North New Guinea linkage > Schouten linkage > Kairiru-Manam > Kairiruic linkage > Kaiep-Terebu > Terebu"
 wikipedia_url: "https://en.wikipedia.org/wiki/Terebu_language"
+translations:
+  - translation_iso: zho
+    name: 特雷布语
+    auto: true
 ---
 Terebu (Turubu) is one of three Kairiru languages spoken in East Sepik Province, Papua New Guinea. It is spoken in Turubu village of Turubu Rural LLG, East Sepik Province.

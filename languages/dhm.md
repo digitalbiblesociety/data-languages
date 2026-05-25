@@ -1,8 +1,6 @@
 ---
 iso: dhm
 name: Zemba
-name_zh: 宗巴语
-name_zh_auto: true
 autonym: Dhimba
 alt_names: [Chimba, Dimba, Himba, Luzimba, Oluthimba, Otjidhimba, Simba, Tjimba]
 population: 25000
@@ -16,6 +14,10 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > Central-Western Bantu > Njila > Southern Njila > Kunene > Cimbebasia > Herero (R.30) > Zemba"
 wikipedia_url: "https://en.wikipedia.org/wiki/Zemba_language"
+translations:
+  - translation_iso: zho
+    name: 宗巴语
+    auto: true
 rolv_dialects:
   - rolv_code: 24783
     language_tag: dhm-x-HIS24783

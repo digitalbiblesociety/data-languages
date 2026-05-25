@@ -1,8 +1,6 @@
 ---
 iso: wtm
 name: Mewati
-name_zh: 梅瓦蒂语
-name_zh_auto: true
 autonym: मेवाती
 alt_names: [Język mewati, Lenga mewati, Lingua Mevati, Mewathi]
 population: 857000
@@ -17,5 +15,11 @@ glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Indo-Aryan > Middle-Modern Indo-Aryan > Continental Indo-Aryan > Midlands Indo-Aryan > Apabhramsic > Gujarati-Rajasthani > Rajasthani > Mewati-Gojri > Mewati"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mewati_language"
+translations:
+  - translation_iso: hin
+    name: मेवाती
+  - translation_iso: zho
+    name: 梅瓦蒂语
+    auto: true
 ---
 Mewati is a language spoken in the Mewat region of northern India. It belongs to the Rajasthani languages in the Indo-Aryan language family.

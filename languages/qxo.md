@@ -1,8 +1,6 @@
 ---
 iso: qxo
 name: Southern Conchucos Ancash Quechua
-name_zh: 南孔丘斯安卡什克丘亚语
-name_zh_auto: true
 autonym: Huaylay
 alt_names: [Ancas, Ancash, Chinchaysuyo, Conchucos, Conchucos Quechua, Conchucu, North Central Kechua, Northern Quechua, "Quechua, Southern Conchucos  Ancash", Southern Conchucos Quechua]
 population: 250000
@@ -15,4 +13,8 @@ glottocode: sout2992
 glottolog_family_id: quec1387
 glottolog_family_name: Quechuan
 glottolog_classification: "Quechuan > Quechua I > Central Quechua I > Huaylay > Conchucos > Southern Conchucos Ancash Quechua"
+translations:
+  - translation_iso: zho
+    name: 南孔丘斯安卡什克丘亚语
+    auto: true
 ---

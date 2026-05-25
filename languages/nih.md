@@ -1,8 +1,6 @@
 ---
 iso: nih
 name: Nyiha (Tanzania)
-name_zh: 尼亚语
-name_zh_auto: true
 autonym: Ishinyiha
 alt_names: [Kinyiha, Nyiha, Nyika, Nyixa, Shinyiha]
 population: 126000
@@ -16,6 +14,12 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > East Bantu > Corridor Bantu > Mbozi > Nyika-Lambya > Nyika > Central and Southern Nyika > Mbozi-Malawi Nyika > Nyiha (Tanzania)"
 wikipedia_url: "https://en.wikipedia.org/wiki/Nyiha_language"
+translations:
+  - translation_iso: jpn
+    name: ニハ語
+  - translation_iso: zho
+    name: 尼亚语
+    auto: true
 rolv_dialects:
   - rolv_code: 1074
     language_tag: nih-x-HIS01074

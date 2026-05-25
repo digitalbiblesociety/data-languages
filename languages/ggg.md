@@ -1,8 +1,6 @@
 ---
 iso: ggg
 name: Gurgula
-name_zh: 古尔古拉语
-name_zh_auto: true
 autonym: Marwari Ghera
 population: 35300
 country_id: PK
@@ -15,6 +13,10 @@ glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Indo-Aryan > Middle-Modern Indo-Aryan > Continental Indo-Aryan > Midlands Indo-Aryan > Shaurasenic > Indo-Aryan Central zone > Western Hindi > Unclassified Western Hindi > Ghera-Gurgula > Gurgula"
 wikipedia_url: "https://en.wikipedia.org/wiki/Gurgula_language"
+translations:
+  - translation_iso: zho
+    name: 古尔古拉语
+    auto: true
 rolv_dialects:
   - rolv_code: 28772
     name: "Gurgula: Ghiyara"

@@ -1,7 +1,6 @@
 ---
 iso: snc
 name: Sinaugoro
-name_zh: 西瑙高罗语
 autonym: null
 alt_names: [Balawaia, Saroa, Sinagoro]
 population: 18000
@@ -15,6 +14,11 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > Papuan Tip linkage > Peripheral Papuan Tip linkage > Central Papuan Oceanic > Sinagoro-Keapara > Sinaugoro"
 wikipedia_url: "https://en.wikipedia.org/wiki/Sinaugoro_language"
+translations:
+  - translation_iso: jpn
+    name: シナゴロ語
+  - translation_iso: zho
+    name: 西瑙高罗语
 rolv_dialects:
   - rolv_code: 522
     language_tag: snc-x-HIS00522

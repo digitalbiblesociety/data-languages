@@ -1,8 +1,6 @@
 ---
 iso: haj
 name: Hajong
-name_zh: 哈琼语
-name_zh_auto: true
 autonym: হাজং ভাষা Hajong Bhasa
 alt_names: [Haijong, Hazong, হাজং ভাষা, ภาษาฮาชอง]
 population: 79800
@@ -16,6 +14,14 @@ glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Indo-Aryan > Middle-Modern Indo-Aryan > Continental Indo-Aryan > Indo-Aryan Eastern zone > Oriya-Gauda-Kamrupa > Gauda-Kamrupa > Gauda-Banga > Eastern Bengali > Hajong"
 wikipedia_url: "https://en.wikipedia.org/wiki/Hajong_language"
+translations:
+  - translation_iso: ara
+    name: لغة_هاجونغية
+  - translation_iso: hin
+    name: हाजंग बोली
+  - translation_iso: zho
+    name: 哈琼语
+    auto: true
 rolv_dialects:
   - rolv_code: 25725
     language_tag: haj-x-HIS25725

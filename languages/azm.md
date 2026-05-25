@@ -1,8 +1,6 @@
 ---
 iso: azm
 name: Ipalapa Amuzgo
-name_zh: 伊帕拉帕阿穆兹戈语
-name_zh_auto: true
 autonym: Amuzgoan
 alt_names: [Amusgo, Amuzgo, Amuzgo de Santa María Ipalapa, "Amuzgo, Ipalapa", Azmugo]
 population: 940
@@ -15,4 +13,8 @@ glottocode: ipal1235
 glottolog_family_id: otom1299
 glottolog_family_name: Otomanguean
 glottolog_classification: "Otomanguean > Eastern Otomanguean > Amuzgo-Mixtecan > Amuzgoan > Ipalapa Amuzgo"
+translations:
+  - translation_iso: zho
+    name: 伊帕拉帕阿穆兹戈语
+    auto: true
 ---

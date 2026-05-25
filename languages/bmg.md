@@ -1,8 +1,6 @@
 ---
 iso: bmg
 name: Bamwe
-name_zh: 巴姆韦语
-name_zh_auto: true
 autonym: null
 population: 20000
 country_id: CD
@@ -15,6 +13,10 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > Central-Western Bantu > North Zaire River > Rivers Bantu > Ngiri > Ngiri Terrien > Bamweic > Bamwe"
 wikipedia_url: "https://en.wikipedia.org/wiki/Bamwe_language"
+translations:
+  - translation_iso: zho
+    name: 巴姆韦语
+    auto: true
 rolv_dialects:
   - rolv_code: 24462
     language_tag: bmg-x-HIS24462

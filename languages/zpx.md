@@ -1,8 +1,6 @@
 ---
 iso: zpx
 name: San Baltazar Loxicha Zapotec
-name_zh: 圣巴尔塔萨洛希查萨波特克语
-name_zh_auto: true
 autonym: Northwestern Pochutla Zapotec
 alt_names: [Coatec Zapotec, Coatlán-Loxicha Zapotec (non-preferred), Northern Sapoteko, San Baltázar Loxicha Zapotec, Zapotec, "Zapotec, San Baltazar Loxicha", Zapoteco de San Baltázar Loxicha]
 population: 1500
@@ -16,5 +14,9 @@ glottolog_family_id: otom1299
 glottolog_family_name: Otomanguean
 glottolog_classification: "Otomanguean > Eastern Otomanguean > Popoloca-Zapotecan > Zapotecan > Zapotec > Core Zapotec > Macrocoatecano > Coatecano > Coatlan-Loxicha Zapotec > San Baltazar Loxicha Zapotec"
 wikipedia_url: "https://en.wikipedia.org/wiki/San_Balt%C3%A1zar_Loxicha_Zapotec"
+translations:
+  - translation_iso: zho
+    name: 圣巴尔塔萨洛希查萨波特克语
+    auto: true
 ---
 San Baltazar Loxicha Zapotec is a Zapotec language spoken in southern Oaxaca, Mexico. It is spoken in the towns of San Baltazar Loxicha and Santa Catarina Loxicha. It is not the same language as the other dialects spoken in towns named Loxicha, but it is in the same branch of Zapotec.

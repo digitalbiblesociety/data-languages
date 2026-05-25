@@ -1,7 +1,6 @@
 ---
 iso: hoj
 name: Hadothi
-name_zh: 哈多蒂语
 autonym: Hadoti
 alt_names: [Hadauti, Harauti, Harauti language, Haroti, Havauti, Piploda, ภาษาฮารัวตี]
 population: 2940000
@@ -16,6 +15,13 @@ glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Indo-Aryan > Middle-Modern Indo-Aryan > Continental Indo-Aryan > Midlands Indo-Aryan > Apabhramsic > Gujarati-Rajasthani > Rajasthani > Eastern Rajasthani > Hadothi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Hadauti_language"
+translations:
+  - translation_iso: hin
+    name: हड़ौती भाषा
+  - translation_iso: jpn
+    name: ハーラウト方言
+  - translation_iso: zho
+    name: 哈多蒂语
 rolv_dialects:
   - rolv_code: 10561
     language_tag: hoj-x-HIS10561

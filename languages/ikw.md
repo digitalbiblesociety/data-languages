@@ -1,8 +1,6 @@
 ---
 iso: ikw
 name: Ikwere
-name_zh: 伊克韦雷语
-name_zh_auto: true
 autonym: null
 alt_names: [Ikwerre, Ikwerre language, Ikwerri]
 population: 619000
@@ -16,6 +14,12 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Igboid > Nuclear Igboid > Ikwere"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ikwerre_language"
+translations:
+  - translation_iso: jpn
+    name: イクヴェレ語
+  - translation_iso: zho
+    name: 伊克韦雷语
+    auto: true
 rolv_dialects:
   - rolv_code: 2384
     language_tag: ikw-x-HIS02384

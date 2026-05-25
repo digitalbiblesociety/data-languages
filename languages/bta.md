@@ -1,8 +1,6 @@
 ---
 iso: bta
 name: Bata
-name_zh: 巴塔语
-name_zh_auto: true
 autonym: Gbwata
 alt_names: [Bata Group, Batta, Bete, Birsa, Biu-Mandara A.8, Demsa Bata, Dii, Dunu, Gboati, Gbwate, Gwate, Kofa, Kota, Muleng]
 population: 289500
@@ -16,6 +14,12 @@ glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > Biu-Mandara > South Biu-Mandara > Bataic > Bata-Bwatiye > Bata"
 wikipedia_url: "https://en.wikipedia.org/wiki/Bata_language"
+translations:
+  - translation_iso: jpn
+    name: バタ語
+  - translation_iso: zho
+    name: 巴塔语
+    auto: true
 rolv_dialects:
   - rolv_code: 1895
     language_tag: bta-x-HIS01895

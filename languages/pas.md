@@ -1,8 +1,6 @@
 ---
 iso: pas
 name: Papasena
-name_zh: 帕帕塞纳语
-name_zh_auto: true
 autonym: bahasa Papasena
 alt_names: [Indonesia]
 population: 400
@@ -16,5 +14,9 @@ glottolog_family_id: lake1255
 glottolog_family_name: Lakes Plain
 glottolog_classification: "Lakes Plain > Tariku > East Tariku > Doutai-Kai-Waritai > Papasena"
 wikipedia_url: "https://en.wikipedia.org/wiki/Papasena_language"
+translations:
+  - translation_iso: zho
+    name: 帕帕塞纳语
+    auto: true
 ---
 Papasena is a Lakes Plain language of Irian Jaya, Indonesia. Ethnologue reports a 23% lexical similarity with Sikaritai, another East Tariku language.

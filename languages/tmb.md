@@ -1,8 +1,6 @@
 ---
 iso: tmb
 name: Katbol
-name_zh: 卡特博尔语
-name_zh_auto: true
 autonym: Katbol
 alt_names: [Avava, Bangsa’, Mallicolo, Navava, Taremp, Tembimbe-Katbol, Tisvel]
 population: 700
@@ -16,6 +14,10 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > North and Central Vanuatu > Central Vanuatu > Malakula > Western Malakula linkage > Peripheral Western Malakula > Southwestern Malakula > Avava"
 wikipedia_url: "https://en.wikipedia.org/wiki/Avava_language"
+translations:
+  - translation_iso: zho
+    name: 卡特博尔语
+    auto: true
 rolv_dialects:
   - rolv_code: 25531
     language_tag: tmb-x-HIS25531

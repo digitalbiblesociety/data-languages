@@ -1,8 +1,6 @@
 ---
 iso: alp
 name: Alune
-name_zh: 阿卢内语
-name_zh_auto: true
 autonym: bahasa Alune
 alt_names: [Patasiwa Alfoeren, Sapalewa]
 population: 17200
@@ -16,6 +14,10 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Nunusaku > Three Rivers > Amalumute > Northwest Seram > Ulat Inai > Alune"
 wikipedia_url: "https://en.wikipedia.org/wiki/Alune_language"
+translations:
+  - translation_iso: zho
+    name: 阿卢内语
+    auto: true
 rolv_dialects:
   - rolv_code: 6901
     language_tag: alp-x-HIS06901

@@ -1,8 +1,6 @@
 ---
 iso: mjv
 name: Mannan
-name_zh: 曼南语
-name_zh_auto: true
 autonym: Mannan Pasha
 alt_names: [Manne, Mannyod]
 population: 7850
@@ -16,5 +14,9 @@ glottolog_family_id: drav1251
 glottolog_family_name: Dravidian
 glottolog_classification: "Dravidian > South Dravidian > South Dravidian I > Tamil-Kannada > Tamil-Kota > Tamil-Toda > Tamil-Irula > Tamil-Kodagu > Tamil-Malayalam > Tamiloid > Muthuvan-Mannan > Mannan"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mannan_language"
+translations:
+  - translation_iso: zho
+    name: 曼南语
+    auto: true
 ---
 Mannan is a Dravidian language of Kerala and Tamil Nadu that is classified under the Tamil languages.

@@ -1,8 +1,6 @@
 ---
 iso: fmp
 name: "Fe'fe'"
-name_zh: 费费语
-name_zh_auto: true
 autonym: " Fotouni"
 alt_names: [Bafang, "Bamileke-Fe'fe'", "Fe'efe'e", "Fe'fe", "Fe'fe' jezik", "Fe?fe?", Feefee, Fefe, Nufi]
 population: 140000
@@ -16,6 +14,12 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Wide Grassfields > Narrow Grassfields > Mbam-Nkam > Southern Mbam-Nkam > Bamileke > East Bamileke > Fe'fe'"
 wikipedia_url: "https://en.wikipedia.org/wiki/Fe%CA%BCfe%CA%BC_language"
+translations:
+  - translation_iso: jpn
+    name: フェフェ語
+  - translation_iso: zho
+    name: 费费语
+    auto: true
 rolv_dialects:
   - rolv_code: 9802
     language_tag: fmp-x-HIS09802

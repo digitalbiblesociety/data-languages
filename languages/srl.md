@@ -1,8 +1,6 @@
 ---
 iso: srl
 name: Isirawa
-name_zh: 伊西拉瓦语
-name_zh_auto: true
 autonym: Saberi
 alt_names: [Okwasar, Saweri, Sawuri-Hablifuri]
 population: 1800
@@ -16,6 +14,12 @@ glottolog_family_id: kwer1242
 glottolog_family_name: Greater Kwerba
 glottolog_classification: "Greater Kwerba > Isirawa"
 wikipedia_url: "https://en.wikipedia.org/wiki/Isirawa_language"
+translations:
+  - translation_iso: jpn
+    name: イスィラワ語
+  - translation_iso: zho
+    name: 伊西拉瓦语
+    auto: true
 rolv_dialects:
   - rolv_code: 1170
     language_tag: srl-x-HIS01170

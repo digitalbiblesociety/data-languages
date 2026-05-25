@@ -1,8 +1,6 @@
 ---
 iso: mmy
 name: Migaama
-name_zh: 米加阿玛语
-name_zh_auto: true
 autonym: Dionkor
 alt_names: [Djonkor, Djonkor Abou Telfane, Dyongor, Jongor, Jonkor, Jonkor of Abu Telfan, Migama]
 population: 2000
@@ -16,6 +14,10 @@ glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > East Chadic > East Chadic B > East Chadic B.1 > Dangla-Mabire-Birgit > Dangla > Migaama"
 wikipedia_url: "https://en.wikipedia.org/wiki/Migaama_language"
+translations:
+  - translation_iso: zho
+    name: 米加阿玛语
+    auto: true
 rolv_dialects:
   - rolv_code: 14067
     language_tag: mmy-x-HIS14067

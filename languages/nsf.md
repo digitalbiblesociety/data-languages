@@ -1,8 +1,6 @@
 ---
 iso: nsf
 name: Northwestern Nisu
-name_zh: 西北尼苏语
-name_zh_auto: true
 autonym: Southern Yi
 alt_names: ["Nisu, Northwestern"]
 population: null
@@ -15,4 +13,8 @@ glottocode: farn1234
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Burmo-Qiangic > Lolo-Burmese > Loloish > Ni-Li-Kazhouish > Southeastern Ngwi > Nisoid > Nisu-Nyisu > Nisu > Far Northwestern Nisu"
+translations:
+  - translation_iso: zho
+    name: 西北尼苏语
+    auto: true
 ---

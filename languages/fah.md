@@ -1,7 +1,6 @@
 ---
 iso: fah
 name: Baissa Fali
-name_zh: 拜萨法利语
 autonym: Fali of Baissa
 alt_names: ["Fali, Baissa", Nigeria]
 population: null
@@ -15,5 +14,8 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Unclassified Benue-Congo > Baissa Fali"
 wikipedia_url: "https://en.wikipedia.org/wiki/Fali_of_Baissa"
+translations:
+  - translation_iso: zho
+    name: 拜萨法利语
 ---
 Fali is an unclassified Benue-Congo language of Nigeria, spoken in the town of Baissa in Taraba State. The language is unwritten, and there are few to no speakers remaining.

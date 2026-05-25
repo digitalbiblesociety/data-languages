@@ -1,8 +1,6 @@
 ---
 iso: bvz
 name: Bauzi
-name_zh: 鲍齐语
-name_zh_auto: true
 autonym: Baudi
 alt_names: [Baudji, Baudzi, Bauri]
 population: 1500
@@ -16,6 +14,12 @@ glottolog_family_id: geel1240
 glottolog_family_name: Geelvink Bay
 glottolog_classification: "Geelvink Bay > Bauzi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Bauzi_language"
+translations:
+  - translation_iso: jpn
+    name: バウジ語
+  - translation_iso: zho
+    name: 鲍齐语
+    auto: true
 rolv_dialects:
   - rolv_code: 4240
     language_tag: bvz-x-HIS04240

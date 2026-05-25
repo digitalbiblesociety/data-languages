@@ -1,8 +1,6 @@
 ---
 iso: kqc
 name: "Doromu-Koki"
-name_zh: 多罗木-科基语
-name_zh_auto: true
 autonym: "Doromu-Koki"
 alt_names: [Doram, Doromu]
 population: 2000
@@ -16,6 +14,10 @@ glottolog_family_id: manu1261
 glottolog_family_name: Manubaran
 glottolog_classification: "Manubaran > Doromu-Koki"
 wikipedia_url: "https://en.wikipedia.org/wiki/Doromu_language"
+translations:
+  - translation_iso: zho
+    name: 多罗木-科基语
+    auto: true
 rolv_dialects:
   - rolv_code: 9403
     language_tag: kqc-x-HIS09403

@@ -1,7 +1,6 @@
 ---
 iso: lml
 name: Hano
-name_zh: 拉格语
 autonym: Hano
 alt_names: [Bwatvenua, Lamalanga, North Raga, Qatvenua, Raga, Raga language, Vunmarama]
 population: 7500
@@ -15,6 +14,13 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > North and Central Vanuatu > Northern Vanuatu > Hano"
 wikipedia_url: "https://en.wikipedia.org/wiki/Raga_language"
+translations:
+  - translation_iso: jpn
+    name: ラガ語
+  - translation_iso: kor
+    name: 라가어
+  - translation_iso: zho
+    name: 拉格语
 rolv_dialects:
   - rolv_code: 4468
     language_tag: lml-x-HIS04468

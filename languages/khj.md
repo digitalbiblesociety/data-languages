@@ -1,8 +1,6 @@
 ---
 iso: khj
 name: Kuturmi
-name_zh: 库图尔米语
-name_zh_auto: true
 autonym: null
 alt_names: [Ada]
 population: 10500
@@ -16,6 +14,10 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Benue-Congo Plateau > Northern Benue-Congo Plateau > Nuclear Northern Benue-Congo Plateau > Kuturmi-Ajiya > Kuturmi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kuturmi_language"
+translations:
+  - translation_iso: zho
+    name: 库图尔米语
+    auto: true
 rolv_dialects:
   - rolv_code: 2029
     language_tag: khj-x-HIS2029

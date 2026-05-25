@@ -1,8 +1,6 @@
 ---
 iso: miw
 name: Akoye
-name_zh: 阿科耶语
-name_zh_auto: true
 autonym: Lohiki
 alt_names: [Akoinkake, Akoyi, Angoya, Mahigi, Mai-Hea-Ri, Maiheari, Maihiri, Obi]
 population: 800
@@ -16,5 +14,9 @@ glottolog_family_id: anga1289
 glottolog_family_name: Angan
 glottolog_classification: "Angan > Nuclear Angan > Ankave-Tainae-Akoye > Tainae-Akoye > Akoye"
 wikipedia_url: "https://en.wikipedia.org/wiki/Akoye_language"
+translations:
+  - translation_iso: zho
+    name: 阿科耶语
+    auto: true
 ---
 Akoye, also known as Lohiki or Maihiri (Mai-Hea-Ri), is an Angan language of Papua New Guinea.

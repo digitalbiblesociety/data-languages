@@ -1,7 +1,6 @@
 ---
 iso: ben
 name: Bengali
-name_zh: 孟加拉语
 autonym: বাংলা
 alt_names: [Bahasa Bengali, Banga-Bhasa, Bangala, Bangla, Banglaeg, Banla simi, Begali, Bengaals, Bengala lingvo, Bengalce, Bengaleg, Bengalek, Bengalera, Bengalgiella, Bengali bhasa, Bengali keel, Bengali leid, Bengali linguo, Bengali-Assamese, Bengalin, Bengalin kieli, Bengalisc sprǣc, Bengalische Sprache, Bengalska, Bengalski jezik, Bengalskt mál, Bengalu kalba, Bengalí, Bengalî, Bengalšćina, Bengalščina, Bengalų kalba, Bengáli nyelv, Bengálčina, Bengálština, Bengāļu valoda, Binengali, Fiteny bengali, Gjuha bengali, Idioma bengalí, Język bengalski, Kibengali, Lengua bengali, Limba bengaleză, Lingua Bengalica, Lingua bengalese, Lingua bengalí, Língua bengali, Tiếng Bengal, Μπενγκάλι γλώσσα, Бенгайлаг æвзаг, Бенгалмудин келн, Бенгалски език, Бенгалски јазик, Бенгалски језик, Бенгальская мова, Бенгальский язык, Бенгальська мова, Бэнгальская мова, Забони банголӣ, בנגלית, بنگالی, بنگلہ, بينجالى, بېنگال تىلى, زبان بنگالی, لغة بنغالية, ބެންގާލީ, बंगाली भाषा, बांग्ला भाषा, बाङगला, বাংলা ঠার, বাংলা ভাষা, બંગાળી ભાષા, ବାଂଲା ଭାଷା, வங்காள மொழி, బంగ్లా భాష, ಬಂಗಾಳಿ, ബംഗാളി, ภาษาเบงกาลี, ბენგალური ენა, ベンガル語, 孟加拉語, 孟加拉语, 벵골어]
 population: 228000000
@@ -16,6 +15,17 @@ glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Indo-Aryan > Middle-Modern Indo-Aryan > Continental Indo-Aryan > Indo-Aryan Eastern zone > Oriya-Gauda-Kamrupa > Gauda-Kamrupa > Gauda-Banga > Bengali"
 wikipedia_url: "https://en.wikipedia.org/wiki/Bengali_language"
+translations:
+  - translation_iso: ara
+    name: البنغالية
+  - translation_iso: hin
+    name: बांग्ला
+  - translation_iso: jpn
+    name: ベンガル語
+  - translation_iso: kor
+    name: 벵골어
+  - translation_iso: zho
+    name: 孟加拉语
 rolv_dialects:
   - rolv_code: 136
     language_tag: bn-x-HIS00136

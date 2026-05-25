@@ -1,7 +1,6 @@
 ---
 iso: tbf
 name: Mandara
-name_zh: 塔巴尔语
 autonym: Tabar
 alt_names: [Madara, Neu-Mecklenburg, Wandala]
 population: 4000
@@ -15,6 +14,11 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > Meso Melanesian linkage > New Ireland-Northwest Solomonic linkage > Tabar linkage > Mandara"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mandara_language"
+translations:
+  - translation_iso: jpn
+    name: タバル語
+  - translation_iso: zho
+    name: 塔巴尔语
 rolv_dialects:
   - rolv_code: 1473
     language_tag: tbf-x-HIS01473

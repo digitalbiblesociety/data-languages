@@ -1,8 +1,6 @@
 ---
 iso: aga
 name: Aguano
-name_zh: 阿瓜诺语
-name_zh_auto: true
 autonym: Aguanu
 alt_names: [Awano, Santa Crucino, Uguano]
 population: null
@@ -16,6 +14,10 @@ glottolog_family_id: unat1236
 glottolog_family_name: Unattested
 glottolog_classification: "Unattested > Arawakan (Unattested) > Aguano"
 wikipedia_url: "https://en.wikipedia.org/wiki/Aguano_language"
+translations:
+  - translation_iso: zho
+    name: 阿瓜诺语
+    auto: true
 ---
 Aguano is the extinct language of the Aguano people of Peru. Loukotka (1968) identified it with Chamicuro, but Chamicuro speakers say that the Aguano people spoke Quechua .
 However, Steward (1946) notes that the Aguano had adopted Quechua soon after the Conquest and that their original language is unclassified.

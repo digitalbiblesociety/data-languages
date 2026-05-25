@@ -1,8 +1,6 @@
 ---
 iso: gua
 name: Shiki
-name_zh: 希基语
-name_zh_auto: true
 autonym: Gubi
 alt_names: [Guba, Gubawa, Mashiki]
 population: 1200
@@ -16,6 +14,10 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Jarawan > Nigerian Jarawan > Jaku-Gubi > Shiki"
 wikipedia_url: "https://en.wikipedia.org/wiki/Shiki_language"
+translations:
+  - translation_iso: zho
+    name: 希基语
+    auto: true
 rolv_dialects:
   - rolv_code: 2660
     language_tag: gua-x-HIS02660

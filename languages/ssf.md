@@ -1,7 +1,6 @@
 ---
 iso: ssf
 name: Thao
-name_zh: 邵語
 autonym: "Chui-Huan"
 alt_names: [Chuihwan, Lingua Thao, Sao, Sau, Shao, Sprache von Formosa, Suihwan, Vulung, サオ語, 邵語]
 population: null
@@ -15,6 +14,11 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Western Plains Austronesian > Thao"
 wikipedia_url: "https://en.wikipedia.org/wiki/Thao_language"
+translations:
+  - translation_iso: jpn
+    name: サオ語
+  - translation_iso: zho
+    name: 邵語
 rolv_dialects:
   - rolv_code: 17432
     language_tag: ssf-x-HIS17432

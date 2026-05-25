@@ -1,7 +1,6 @@
 ---
 iso: hpo
 name: Hpon
-name_zh: 蓬语
 autonym: Hpön
 alt_names: [Hpun, Megyaw, Phon, Phun, Phön, Samong]
 population: null
@@ -15,6 +14,9 @@ glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Burmo-Qiangic > Lolo-Burmese > Burmish > Northern Burmish > Hpon"
 wikipedia_url: "https://en.wikipedia.org/wiki/Hpon_language"
+translations:
+  - translation_iso: zho
+    name: 蓬语
 rolv_dialects:
   - rolv_code: 26943
     language_tag: hpo-x-HIS26943

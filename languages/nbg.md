@@ -1,8 +1,6 @@
 ---
 iso: nbg
 name: Nagarchal
-name_zh: 纳加尔恰尔语
-name_zh_auto: true
 autonym: Nagar
 alt_names: [Gonḍi, Gōṇḍī, Nagarchi]
 population: null
@@ -16,5 +14,9 @@ glottolog_family_id: unat1236
 glottolog_family_name: Unattested
 glottolog_classification: "Unattested > Dravidian (Unattested) > Nagarchal"
 wikipedia_url: "https://en.wikipedia.org/wiki/Nagarchal_language"
+translations:
+  - translation_iso: zho
+    name: 纳加尔恰尔语
+    auto: true
 ---
 Nagarchal is an unattested extinct language of central India, presumed to be Dravidian. According to the 1971 census, there were 7,100 speakers of the language, but they have since apparently shifted to Hindi and Gondi. The Nagarchi people, who formerly spoke it, are found in the Balaghat, Chhindwara, Jabalpur, Mandla and Seoni districts of Madhya Pradesh.

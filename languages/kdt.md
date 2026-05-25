@@ -1,7 +1,6 @@
 ---
 iso: kdt
 name: Kuy
-name_zh: Suay人
 autonym: Kui
 alt_names: [Cuoi, Dui, Khamen-Boran, Khamenboran, Kuay, Kuayo, Kui Souei, Kuoi, Kuoy, Kuuy, Old Khmer, Soai, Souei, Suai, Suay, Suei, Sui, Suoi]
 population: 456000
@@ -16,6 +15,9 @@ glottolog_family_id: aust1305
 glottolog_family_name: Austroasiatic
 glottolog_classification: "Austroasiatic > Katuic > West Katuic > Kuy-Souei > Kuy"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kuy_language"
+translations:
+  - translation_iso: zho
+    name: Suay人
 rolv_dialects:
   - rolv_code: 787
     language_tag: kdt-x-HIS00787

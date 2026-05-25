@@ -1,8 +1,6 @@
 ---
 iso: bti
 name: Burate
-name_zh: 布拉特语
-name_zh_auto: true
 autonym: bahasa Burate
 population: 100
 country_id: ID
@@ -15,5 +13,9 @@ glottolog_family_id: geel1240
 glottolog_family_name: Geelvink Bay
 glottolog_classification: "Geelvink Bay > Burate-Wate > Burate"
 wikipedia_url: "https://en.wikipedia.org/wiki/Burate_language"
+translations:
+  - translation_iso: zho
+    name: 布拉特语
+    auto: true
 ---
 Burate is a Papuan language of the Indonesian province of Papua, on the eastern shore of Cenderawasih Bay. The specific areas that the Burate language is spoken in include the Papua Provence, the Wapoga river mouth, one village of the Waropen Bawah subdistrict, and the Yapen Waropen regency.

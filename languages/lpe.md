@@ -1,8 +1,6 @@
 ---
 iso: lpe
 name: Lepki
-name_zh: 勒普基语
-name_zh_auto: true
 autonym: bahasa Lepki
 alt_names: [Indonesia]
 population: 530
@@ -16,5 +14,9 @@ glottolog_family_id: lepk1239
 glottolog_family_name: Lepki-Murkim-Kembra
 glottolog_classification: "Lepki-Murkim-Kembra > Lepki"
 wikipedia_url: "https://en.wikipedia.org/wiki/Lepki_language"
+translations:
+  - translation_iso: zho
+    name: 勒普基语
+    auto: true
 ---
 Lepki is a Papuan language spoken in Western New Guinea, near its relatives Murkim and Kembra in Highland Papua. Only a few hundred words have been recorded, in hastily collected word lists.

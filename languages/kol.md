@@ -1,8 +1,6 @@
 ---
 iso: kol
 name: Kol (Papua New Guinea)
-name_zh: 科尔语
-name_zh_auto: true
 autonym: Kola
 alt_names: [Język kol, Kol, Kol language, Kole]
 population: 1300
@@ -13,6 +11,14 @@ latitude: -5.21042
 longitude: 151.58274
 glottocode: kolp1236
 wikipedia_url: "https://en.wikipedia.org/wiki/Kol_language_(Papua_New_Guinea)"
+translations:
+  - translation_iso: jpn
+    name: コル語
+  - translation_iso: kor
+    name: 콜어
+  - translation_iso: zho
+    name: 科尔语
+    auto: true
 rolv_dialects:
   - rolv_code: 12138
     language_tag: kol-x-HIS12138

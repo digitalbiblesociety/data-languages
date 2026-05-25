@@ -1,8 +1,6 @@
 ---
 iso: say
 name: Saya
-name_zh: 萨亚语
-name_zh_auto: true
 autonym: Guus
 alt_names: [Gambar Leere, Kal, Lusa, Sayanci, Sayara, Sayawa, Seiyara, Seiyawa, Seya, Seyawa, Vigzar, Vikzar, "Za:r", Zaar, vik-Zaar]
 population: 300000
@@ -16,6 +14,10 @@ glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > West Chadic > West Chadic B > West Chadic B.3 > South Bauchi West > Southwest South Bauchi > Zakse-Saya > Saya"
 wikipedia_url: "https://en.wikipedia.org/wiki/Saya_language"
+translations:
+  - translation_iso: zho
+    name: 萨亚语
+    auto: true
 rolv_dialects:
   - rolv_code: 2496
     language_tag: say-x-HIS02496

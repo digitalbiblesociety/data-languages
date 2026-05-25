@@ -1,8 +1,6 @@
 ---
 iso: zpo
 name: Amatlán Zapotec
-name_zh: 阿马特兰萨波特克语
-name_zh_auto: true
 autonym: (San Cristóbal Amatlán)
 alt_names: [Amatec Zapotec, Amatlan Zapotec, Coatecas Altas Zapotec, Dizhe, Miahuatec, Miahuatlan, Southern Mountain Zapotec, Southern Sapoteko, Zapotec, "Zapotec, Amatlán", Zapoteco de Asunción Tlacolulita, Zapoteco de San Cristóbal Amatlán, Zapoteco del Noreste de Miahuatlán, "Zapotèque d'Asunción Tlacolulita"]
 population: 10000
@@ -16,6 +14,10 @@ glottolog_family_id: otom1299
 glottolog_family_name: Otomanguean
 glottolog_classification: "Otomanguean > Eastern Otomanguean > Popoloca-Zapotecan > Zapotecan > Zapotec > Core Zapotec > Macrocoatecano > Amatecano > Amatlán Zapotec"
 wikipedia_url: "https://en.wikipedia.org/wiki/Amatl%C3%A1n_Zapotec"
+translations:
+  - translation_iso: zho
+    name: 阿马特兰萨波特克语
+    auto: true
 rolv_dialects:
   - rolv_code: 19463
     language_tag: zpo-x-HIS19463

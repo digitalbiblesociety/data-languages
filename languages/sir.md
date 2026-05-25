@@ -1,8 +1,6 @@
 ---
 iso: sir
 name: Siri
-name_zh: 西里语
-name_zh_auto: true
 autonym: Sirawa
 alt_names: [Siri language]
 population: 3800
@@ -16,6 +14,10 @@ glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > West Chadic > West Chadic B > West Chadic B.2 > Nuclear West Chadic B.2 > Western West Chadic B.2 > Siri"
 wikipedia_url: "https://en.wikipedia.org/wiki/Siri_language"
+translations:
+  - translation_iso: zho
+    name: 西里语
+    auto: true
 rolv_dialects:
   - rolv_code: 2085
     language_tag: sir-x-HIS02085

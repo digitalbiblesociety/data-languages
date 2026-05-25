@@ -1,8 +1,6 @@
 ---
 iso: zbw
 name: West Berawan
-name_zh: 西贝拉旺语
-name_zh_auto: true
 autonym: Berawan
 alt_names: ["Berawan, West", Long Terawan]
 population: 720
@@ -15,4 +13,8 @@ glottocode: west2564
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > North Borneo Malayo-Polynesian > North Sarawakan > Berawan-Lower Baram > Berawan > West Berawan"
+translations:
+  - translation_iso: zho
+    name: 西贝拉旺语
+    auto: true
 ---

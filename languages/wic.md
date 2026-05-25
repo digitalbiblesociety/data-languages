@@ -1,7 +1,6 @@
 ---
 iso: wic
 name: Wichita
-name_zh: 威奇塔語
 autonym: "Kirikirʔi:s"
 alt_names: [Idioma wichita, Lingua wichita, Quivira, Wichita (proper), Witchita, Witchiteg, Уичита]
 population: null
@@ -15,5 +14,8 @@ glottolog_family_id: cadd1255
 glottolog_family_name: Caddoan
 glottolog_classification: "Caddoan > Northern Caddoan > Wichita"
 wikipedia_url: "https://en.wikipedia.org/wiki/Wichita_language"
+translations:
+  - translation_iso: zho
+    name: 威奇塔語
 ---
 Wichita is a Caddoan language that was spoken in Anadarko, Oklahoma, by the Wichita and Affiliated Tribes. The last fluent heritage speaker, Doris Lamar-McLemore, died in 2016. This has rendered Wichita functionally extinct; however, the tribe offers classes to revitalize the language and works in partnership with the Wichita Documentation Project of the University of Colorado, Boulder.

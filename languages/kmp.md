@@ -1,8 +1,6 @@
 ---
 iso: kmp
 name: Gimme
-name_zh: 吉梅语
-name_zh_auto: true
 autonym: Koma Kompana
 alt_names: [Gimma, Kompana, Kompara, Panbe]
 population: 3000
@@ -15,4 +13,8 @@ glottocode: gimm1241
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Cameroun-Ubangian > Central Adamawa > Samba-Duru > Northern Samba-Duru > Vere-Gimme > Koma Alantika > Gimme"
+translations:
+  - translation_iso: zho
+    name: 吉梅语
+    auto: true
 ---

@@ -1,7 +1,6 @@
 ---
 iso: skr
 name: Saraiki
-name_zh: 色萊基語
 autonym: سرائیکی
 alt_names: [Bahasa Siraiki, Bahawalpuri, Lahnda, Lenga seraiki, Lingua Saraiki, Multani, Mutani, Reasati, Riasiti, Seraiki, Siraiki, Southern Panjabi, لغة سرائيكية, ภาษาสิไรกิ]
 population: 26009000
@@ -16,6 +15,17 @@ glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Indo-Aryan > Middle-Modern Indo-Aryan > Continental Indo-Aryan > Indo-Aryan Northwestern zone > Sindhi-Lahnda > Greater Panjabic > Hindko-Siraiki > Siraikic > Saraiki"
 wikipedia_url: "https://en.wikipedia.org/wiki/Saraiki_language"
+translations:
+  - translation_iso: ara
+    name: السرائيكية
+  - translation_iso: hin
+    name: सराईकी
+  - translation_iso: jpn
+    name: サライキ語
+  - translation_iso: kor
+    name: 사라이키어
+  - translation_iso: zho
+    name: 色萊基語
 rolv_dialects:
   - rolv_code: 863
     language_tag: skr-x-HIS00863

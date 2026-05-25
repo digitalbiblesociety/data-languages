@@ -1,8 +1,6 @@
 ---
 iso: oku
 name: Oku
-name_zh: 奥库语
-name_zh_auto: true
 autonym: Kuɔ
 alt_names: [Bvukoo, Ebkuo, Ekpwo, Kuo, Ukfwo, Uku]
 population: 87000
@@ -16,5 +14,9 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Wide Grassfields > Narrow Grassfields > Ring > Center-West Ring > Center Ring > Komic > Oku"
 wikipedia_url: "https://en.wikipedia.org/wiki/Oku_language"
+translations:
+  - translation_iso: zho
+    name: 奥库语
+    auto: true
 ---
 Oku is a Grassfields Bantoid language that is primarily spoken by the Oku people of northwest Cameroon, a fondom of the Tikar people. They are a different ethnic group from the Oku people of Sierra Leone.

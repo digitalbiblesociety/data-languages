@@ -1,7 +1,6 @@
 ---
 iso: kgo
 name: Krongo
-name_zh: 克隆戈語
 autonym: Dimodongo
 alt_names: [Crongo, Kadumodi, Korongo, Kurungu, Nuba, Tabanya]
 population: 21700
@@ -15,6 +14,11 @@ glottolog_family_id: kadu1256
 glottolog_family_name: Kadugli-Krongo
 glottolog_classification: "Kadugli-Krongo > Central-Western Kadugli-Krongo > Krongo-Tumtum > Krongo"
 wikipedia_url: "https://en.wikipedia.org/wiki/Krongo_language"
+translations:
+  - translation_iso: jpn
+    name: クロンゴ語
+  - translation_iso: zho
+    name: 克隆戈語
 rolv_dialects:
   - rolv_code: 12354
     language_tag: kgo-x-HIS12354

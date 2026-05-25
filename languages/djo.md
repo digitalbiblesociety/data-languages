@@ -1,8 +1,6 @@
 ---
 iso: djo
 name: Jangkang
-name_zh: 将康语
-name_zh_auto: true
 autonym: Djongkang
 population: 37000
 country_id: ID
@@ -15,6 +13,10 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Land Dayak > Bidayuh-Southern Land Dayak > Southern Land Dayak > Jangkang"
 wikipedia_url: "https://en.wikipedia.org/wiki/Jangkang_language"
+translations:
+  - translation_iso: zho
+    name: 将康语
+    auto: true
 rolv_dialects:
   - rolv_code: 4277
     language_tag: djo-x-HIS04277

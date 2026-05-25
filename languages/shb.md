@@ -1,8 +1,6 @@
 ---
 iso: shb
 name: Ninam
-name_zh: 尼南语
-name_zh_auto: true
 autonym: Ninam
 alt_names: [Casapare, Crichana, Jawaperi, Jawari, Kasrapai, Nimam, Ninam (Brésil), Ninam (République bolivarienne du Venezuela), Ninam (Venezuela), Samatari, Shiriana, Shiriana Casapare, Shirianá, Xirianá, Xiriâna, Yanam, Yanam-Ninam]
 population: 1030
@@ -16,6 +14,10 @@ glottolog_family_id: yano1268
 glottolog_family_name: Yanomamic
 glottolog_classification: "Yanomamic > Ninam-Yanomam-Yaroame > Ninam"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ninam_language"
+translations:
+  - translation_iso: zho
+    name: 尼南语
+    auto: true
 rolv_dialects:
   - rolv_code: 14997
     language_tag: shb-x-HIS14997

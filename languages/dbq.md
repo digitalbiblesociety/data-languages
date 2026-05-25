@@ -1,8 +1,6 @@
 ---
 iso: dbq
 name: Daba
-name_zh: 达巴语
-name_zh_auto: true
 autonym: Dabba
 alt_names: [Kola]
 population: 25000
@@ -16,6 +14,10 @@ glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > Biu-Mandara > South Biu-Mandara > Dabaic > Daba-Mazagway-Kola > Daba"
 wikipedia_url: "https://en.wikipedia.org/wiki/Daba_language"
+translations:
+  - translation_iso: zho
+    name: 达巴语
+    auto: true
 rolv_dialects:
   - rolv_code: 9060
     language_tag: dbq-x-HIS09060

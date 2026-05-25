@@ -1,8 +1,6 @@
 ---
 iso: dol
 name: Doso
-name_zh: 多索语
-name_zh_auto: true
 autonym: null
 population: 700
 country_id: PG
@@ -15,5 +13,9 @@ glottolog_family_id: doso1238
 glottolog_family_name: Doso-Turumsa
 glottolog_classification: "Doso-Turumsa > Doso"
 wikipedia_url: "https://en.wikipedia.org/wiki/Doso_language"
+translations:
+  - translation_iso: zho
+    name: 多索语
+    auto: true
 ---
 Doso is a language of New Guinea. It has 61% of its vocabulary in common with the nearly extinct Turumsa language, its only clear relative. It is spoken near Kamula but does not appear to be related to it; not enough is known to tell if it may be related to other languages in the area.

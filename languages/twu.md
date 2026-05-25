@@ -1,8 +1,6 @@
 ---
 iso: twu
 name: Termanu
-name_zh: 特尔玛努语
-name_zh_auto: true
 autonym: "Pa'da"
 alt_names: [Central Rote, Rote, Rote Tengah, Roti, Rotinese, Rottinese]
 population: 30000
@@ -16,6 +14,10 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Timor-Babar > Rote-Meto > Nuclear Rote > Central East Rote > Termanu"
 wikipedia_url: "https://en.wikipedia.org/wiki/Termanu_language"
+translations:
+  - translation_iso: zho
+    name: 特尔玛努语
+    auto: true
 rolv_dialects:
   - rolv_code: 25546
     language_tag: twu-x-HIS25546

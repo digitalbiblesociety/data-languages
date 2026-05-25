@@ -1,8 +1,6 @@
 ---
 iso: vkl
 name: Kulisusu
-name_zh: 库利苏苏语
-name_zh_auto: true
 autonym: Kalisusu
 alt_names: [Kolensusu, Kolinsusu]
 population: 22000
@@ -16,5 +14,9 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Celebic > Greater Eastern Celebic > Eastern Celebic > Southeastern Celebic > Bungku-Tolaki > Eastern Bungku-Tolaki > East Coast Bungku-Tolaki > Kulisusu"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kulisusu_language"
+translations:
+  - translation_iso: zho
+    name: 库利苏苏语
+    auto: true
 ---
 Kulisusu is an Austronesian language of Southeast Sulawesi, Indonesia. The Kulisusu language is spoken in the northern part of Buton Island. It is part of a dialect chain with two minor languages, Koroni and Taloki.

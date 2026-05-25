@@ -1,7 +1,6 @@
 ---
 iso: kby
 name: Manga Kanuri
-name_zh: 曼加卡努里语
 autonym: Kànùrí
 alt_names: [Bornu, Kanembu, Kanouri, Kanoury, Kanuri, "Kanuri, Manga", Manga]
 population: 480000
@@ -15,6 +14,11 @@ glottolog_family_id: saha1256
 glottolog_family_name: Saharan
 glottolog_classification: "Saharan > Western Saharan > Kanuri-Kanembu > Kanuric > Manga-Dagera Kanuri"
 wikipedia_url: "https://en.wikipedia.org/wiki/Manga_Kanuri"
+translations:
+  - translation_iso: jpn
+    name: マンガ・カヌリ語
+  - translation_iso: zho
+    name: 曼加卡努里语
 rolv_dialects:
   - rolv_code: 11559
     language_tag: kby-x-HIS11559

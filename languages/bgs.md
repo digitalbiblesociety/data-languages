@@ -1,8 +1,6 @@
 ---
 iso: bgs
 name: Tagabawa
-name_zh: 塔加巴瓦语
-name_zh_auto: true
 autonym: null
 alt_names: [Tagabawa Bagobo, Tagabawa Manobo]
 population: 43000
@@ -16,5 +14,9 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Greater Central Philippine > Manobo > Central and Southern Manobo > South Manobo > Tagabawa"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tagabawa_language"
+translations:
+  - translation_iso: zho
+    name: 塔加巴瓦语
+    auto: true
 ---
 Tagabawa is a Manobo language of Davao City and Mount Apo in Mindanao, the Philippines. Tagabawa is spoken in Cotabato and Davao del Sur provinces, and on the slopes of Mount Apo west of Davao City, The language is spoken by the Bagobo Tagabawa people.

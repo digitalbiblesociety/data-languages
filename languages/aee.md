@@ -1,7 +1,6 @@
 ---
 iso: aee
 name: Northeast Pashai
-name_zh: 东北帕沙伊语
 autonym: Pashai
 alt_names: [Dardu, Northeast Pashayi, Northeastern Pašaī, Pasayí, "Pashai, Northeast", "Pashayi, Northeast"]
 population: 54400
@@ -14,6 +13,9 @@ glottocode: nort2666
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Indo-Aryan > Pashayi > Eastern Pashayi > Northeast Pashayi"
+translations:
+  - translation_iso: zho
+    name: 东北帕沙伊语
 rolv_dialects:
   - rolv_code: 3306
     language_tag: aee-x-HIS03306

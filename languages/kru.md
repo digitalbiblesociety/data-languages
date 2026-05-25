@@ -1,7 +1,6 @@
 ---
 iso: kru
 name: Kurukh
-name_zh: 库鲁克语
 autonym: " Oraon"
 alt_names: [Kurux]
 population: 2083700
@@ -16,6 +15,17 @@ glottolog_family_id: drav1251
 glottolog_family_name: Dravidian
 glottolog_classification: "Dravidian > North Dravidian > Kurux-Malto > Kurukh"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kurukh_language"
+translations:
+  - translation_iso: ara
+    name: الكوروخ
+  - translation_iso: hin
+    name: कुड़ुख़
+  - translation_iso: jpn
+    name: クルク語
+  - translation_iso: kor
+    name: 쿠루흐어
+  - translation_iso: zho
+    name: 库鲁克语
 rolv_dialects:
   - rolv_code: 875
     language_tag: kru-x-HIS00875

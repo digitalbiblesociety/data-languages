@@ -1,8 +1,6 @@
 ---
 iso: bwt
 name: "Bafaw-Balong"
-name_zh: 巴法-巴隆语
-name_zh_auto: true
 autonym: Balong
 alt_names: [Ngoe]
 population: 8400
@@ -16,6 +14,12 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > Bantu A-B10-B20-B30 > Lundu-Balong (A.10) > Greater Manenguba > Bafaw-Balong-Manenguba > Bafawic-Bakweric > Bafawic > Bafaw-Balong"
 wikipedia_url: "https://en.wikipedia.org/wiki/Bafaw-Balong_language"
+translations:
+  - translation_iso: jpn
+    name: バファウ・バロン語
+  - translation_iso: zho
+    name: 巴法-巴隆语
+    auto: true
 rolv_dialects:
   - rolv_code: 2635
     language_tag: bwt-x-HIS02635

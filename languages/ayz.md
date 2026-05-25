@@ -1,8 +1,6 @@
 ---
 iso: ayz
 name: Mai Brat
-name_zh: 迈布拉特语
-name_zh_auto: true
 autonym: Ajamaru
 alt_names: [Aitinjo, Aitinyo, Ajamaroe, Asman, Atinjo, Ayamaru, Brat, Kaboro, Maibrat, Maite, Majbrat, Maybrat, Maybrat (Ayawasi), Maybrat-Karon, Mayhapeh dialect of Ayawasi village, Mey Brat, Meybrat, Mogetemin]
 population: 20000
@@ -16,6 +14,10 @@ glottolog_family_id: mayb1237
 glottolog_family_name: Maybratic
 glottolog_classification: "Maybratic > Maybrat"
 wikipedia_url: "https://en.wikipedia.org/wiki/Maybrat_language"
+translations:
+  - translation_iso: zho
+    name: 迈布拉特语
+    auto: true
 rolv_dialects:
   - rolv_code: 13292
     language_tag: ayz-x-HIS13292

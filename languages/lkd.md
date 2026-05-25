@@ -1,8 +1,6 @@
 ---
 iso: lkd
 name: Lakondê
-name_zh: 拉孔德语
-name_zh_auto: true
 autonym: Northern Nambikwara
 alt_names: [Kithāulhú, Laconde, Lacondê, Lakonde, Latundê, Mamaindê, Mamande, Nakarothe, Nambikuára septentrional, Nambikwara du nord, Northern Nambikuaran, Northern Nambiquara, Yalapmunxte]
 population: null
@@ -15,4 +13,8 @@ glottocode: lako1248
 glottolog_family_id: namb1299
 glottolog_family_name: Nambiquaran
 glottolog_classification: "Nambiquaran > Nambikwara Complex > Northern Nambiquaran > Roosevelt > Lakondê"
+translations:
+  - translation_iso: zho
+    name: 拉孔德语
+    auto: true
 ---

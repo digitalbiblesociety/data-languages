@@ -1,8 +1,6 @@
 ---
 iso: kra
 name: Kumhali
-name_zh: 库姆哈利语
-name_zh_auto: true
 autonym: Kumali
 alt_names: ["Kum?le", Kumbale, Kumhale, Kumkale]
 population: 6530
@@ -16,6 +14,10 @@ glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Indo-Aryan > Middle-Modern Indo-Aryan > Continental Indo-Aryan > Midlands Indo-Aryan > Shaurasenic > Bihari > Unclassified Bihari > Kumhali"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kumhali_language"
+translations:
+  - translation_iso: zho
+    name: 库姆哈利语
+    auto: true
 rolv_dialects:
   - rolv_code: 26401
     language_tag: kra-x-HIS26401

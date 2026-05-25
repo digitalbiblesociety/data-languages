@@ -1,8 +1,6 @@
 ---
 iso: btu
 name: Batu
-name_zh: 巴图语
-name_zh_auto: true
 autonym: Afi
 population: 25000
 country_id: NG
@@ -15,6 +13,10 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Tivoid > North Tivoid > Batu"
 wikipedia_url: "https://en.wikipedia.org/wiki/Batu_language"
+translations:
+  - translation_iso: zho
+    name: 巴图语
+    auto: true
 rolv_dialects:
   - rolv_code: 4256
     language_tag: btu-x-HIS04256

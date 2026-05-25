@@ -1,7 +1,6 @@
 ---
 iso: hrk
 name: Haruku
-name_zh: 哈鲁库语
 autonym: null
 alt_names: [Indonesia]
 population: 18200
@@ -15,6 +14,9 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Nunusaku > Piru Bay > East Piru Bay > Solehua > Seram Straits > Uliase > Hatuhaha > Haruku"
 wikipedia_url: "https://en.wikipedia.org/wiki/Haruku_language"
+translations:
+  - translation_iso: zho
+    name: 哈鲁库语
 rolv_dialects:
   - rolv_code: 10568
     language_tag: hrk-x-HIS10568

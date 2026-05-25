@@ -1,8 +1,6 @@
 ---
 iso: xku
 name: Kaamba
-name_zh: 卡姆巴语
-name_zh_auto: true
 autonym: Kibeembe
 alt_names: [Kikaamba]
 population: 3020
@@ -15,4 +13,8 @@ glottocode: kaam1238
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > Central-Western Bantu > West-Coastal Bantu > Nzadic > Lweric > Dingic > Loange-Atlantic > KLC Extended > Kikongo Language Cluster > Nuclear KLC > Kikongoic > Kambakunyic Kikongo > Kamba-Kunyi > Kaamba"
+translations:
+  - translation_iso: zho
+    name: 卡姆巴语
+    auto: true
 ---

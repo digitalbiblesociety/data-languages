@@ -1,8 +1,6 @@
 ---
 iso: lwh
 name: White Lachi
-name_zh: 白拉奇语
-name_zh_auto: true
 autonym: Lipupõ
 alt_names: [Lachi, "Lachi, White", Lati, White, 白拉基]
 population: 1602
@@ -15,4 +13,8 @@ glottocode: whit1266
 glottolog_family_id: taik1256
 glottolog_family_name: Tai-Kadai
 glottolog_classification: "Tai-Kadai > Kadaic > Southwestern Kra > Western Kra > Lachic > White Lachi"
+translations:
+  - translation_iso: zho
+    name: 白拉奇语
+    auto: true
 ---

@@ -1,8 +1,6 @@
 ---
 iso: des
 name: Desano
-name_zh: 德萨诺语
-name_zh_auto: true
 autonym: Winá
 alt_names: [Boleka, Desana, Desana-Siriana, Desano (Brésil), Desano (Colombia), Desano (Colombie), Desano-Siriano, Dessana, Dessano, Desána, Desâna, Kotedia, Kusibi, Oregu, Siriano (Brésil), Siriano (Colombia), Siriano (Colombie), Uina, Wina, Wira, Wirã]
 population: 3420
@@ -16,5 +14,11 @@ glottolog_family_id: tuca1253
 glottolog_family_name: Tucanoan
 glottolog_classification: "Tucanoan > Eastern Tucanoan > Western Eastern Tucanoan > Cubeo-Desano > Yupua-Siriano-Desano > Siriano-Desano > Desano"
 wikipedia_url: "https://en.wikipedia.org/wiki/Desano_language"
+translations:
+  - translation_iso: jpn
+    name: デサノ語
+  - translation_iso: zho
+    name: 德萨诺语
+    auto: true
 ---
 Desano is a Tucanoan language of Colombia and Brazil. There are several alternative names for Desano, including Boleka, Desâna, and Kusibi. It is spoken primarily in northwest Brazil and southern Colombia.

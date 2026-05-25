@@ -1,8 +1,6 @@
 ---
 iso: brr
 name: Birao
-name_zh: 比拉奥语
-name_zh_auto: true
 autonym: Mbirao
 alt_names: [Guadalcanar, Südliche Salomons-Inseln]
 population: 5900
@@ -16,5 +14,11 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Southeast Solomonic > Guadalcanal-Nggelic > Southeast Guadalcanal > Birao"
 wikipedia_url: "https://en.wikipedia.org/wiki/Birao_language"
+translations:
+  - translation_iso: jpn
+    name: ムビラオ語
+  - translation_iso: zho
+    name: 比拉奥语
+    auto: true
 ---
 Birao (Mbirao) is a Southeast Solomonic language of Guadalcanal.

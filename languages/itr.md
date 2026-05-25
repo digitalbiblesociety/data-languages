@@ -1,8 +1,6 @@
 ---
 iso: itr
 name: Iteri
-name_zh: 伊特里语
-name_zh_auto: true
 autonym: Rocky Peak
 alt_names: [Alowiemino, Iyo, Laro, Yinibu]
 population: 480
@@ -16,6 +14,10 @@ glottolog_family_id: left1242
 glottolog_family_name: Left May
 glottolog_classification: "Left May > Western Left May > Iteri-Bo > Iteri"
 wikipedia_url: "https://en.wikipedia.org/wiki/Iteri_language"
+translations:
+  - translation_iso: zho
+    name: 伊特里语
+    auto: true
 rolv_dialects:
   - rolv_code: 3447
     language_tag: itr-x-HIS03447

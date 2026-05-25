@@ -1,8 +1,6 @@
 ---
 iso: kzy
 name: Kango (Tshopo District)
-name_zh: 坎戈语(楚波区)
-name_zh_auto: true
 autonym: Forest Bira
 alt_names: ["\"Dibatchua\"", "\"Kibatchua\"", Dikango, Kango, Kango Pygmy, Kikango, Likango]
 population: 2000
@@ -15,4 +13,8 @@ glottocode: kang1285
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > Central-Western Bantu > North Zaire River > Rivers Bantu > Ngiri > Ngiri Terrien > Ngombe-Ababuan > Ababuan > Old Bomokandian > Komoic > Bilaic > Kango (Tshopo District)"
+translations:
+  - translation_iso: zho
+    name: 坎戈语(楚波区)
+    auto: true
 ---

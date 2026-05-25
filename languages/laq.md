@@ -1,7 +1,6 @@
 ---
 iso: laq
 name: Qabiao
-name_zh: 普标语
 autonym: Laqua
 alt_names: [Bendi Lolo, Bubiao, Ka Bao, Ka Beo, Ka Biao, KaBeo, Pen Ti Lolo, Pu Peo, Pu Péo, Pubiao, Pupeo, ภาษากวาเบียว, 普標語]
 population: 307
@@ -15,5 +14,10 @@ glottolog_family_id: taik1256
 glottolog_family_name: Tai-Kadai
 glottolog_classification: "Tai-Kadai > Kadaic > Eastern Kra > Pubiao-Qabiao"
 wikipedia_url: "https://en.wikipedia.org/wiki/Qabiao_language"
+translations:
+  - translation_iso: jpn
+    name: クァビャウ語
+  - translation_iso: zho
+    name: 普标语
 ---
 Qabiao, Pu Peo or sometimes Laqua is a Kra language spoken by the Qabiao people in northern Vietnam and Yunnan, China. Alternative names for Qabiao include Kabeo, Ka Beo, Ka Bao, Ka Biao, Laqua, Pubiao and Pen Ti Lolo. The meaning of the name "Qabiao" is unknown.

@@ -1,8 +1,6 @@
 ---
 iso: bkq
 name: Bakairí
-name_zh: 巴凯里语
-name_zh_auto: true
 autonym: Bacairí
 alt_names: [Bakairi, Kura, Kurâ]
 population: 950
@@ -16,5 +14,9 @@ glottolog_family_id: cari1283
 glottolog_family_name: Cariban
 glottolog_classification: "Cariban > Pekodian > Bakairí"
 wikipedia_url: "https://en.wikipedia.org/wiki/Bakairi_language"
+translations:
+  - translation_iso: zho
+    name: 巴凯里语
+    auto: true
 ---
 Bakairí (Bacairí) is a Cariban language, spoken by the Bakairi people in the state of Mato Grosso in Brazil.

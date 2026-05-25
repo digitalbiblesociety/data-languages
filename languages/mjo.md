@@ -1,8 +1,6 @@
 ---
 iso: mjo
 name: Malankuravan
-name_zh: 玛兰库拉万语
-name_zh_auto: true
 autonym: Mala Koravan
 alt_names: [Mala Koravanm, Malaikuravan, Malakkuravan, Male Kuravan]
 population: 18600
@@ -16,6 +14,10 @@ glottolog_family_id: drav1251
 glottolog_family_name: Dravidian
 glottolog_classification: "Dravidian > South Dravidian > South Dravidian I > Tamil-Kannada > Tamil-Kota > Tamil-Toda > Tamil-Irula > Tamil-Kodagu > Tamil-Malayalam > Malayalamoid > Malankuravan"
 wikipedia_url: "https://en.wikipedia.org/wiki/Malankuravan_language"
+translations:
+  - translation_iso: zho
+    name: 玛兰库拉万语
+    auto: true
 rolv_dialects:
   - rolv_code: 13408
     language_tag: mjo-x-HIS13408

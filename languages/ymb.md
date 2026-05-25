@@ -1,8 +1,6 @@
 ---
 iso: ymb
 name: Yambes
-name_zh: 扬贝斯语
-name_zh_auto: true
 autonym: null
 alt_names: [East Sepik Province, Maprik District, east and southeast of Kombio, northwest of Wom]
 population: 1080
@@ -16,6 +14,10 @@ glottolog_family_id: nucl1708
 glottolog_family_name: Nuclear Torricelli
 glottolog_classification: "Nuclear Torricelli > Kombio-Arapesh-Urat > Kombio-Yambes > Yambes"
 wikipedia_url: "https://en.wikipedia.org/wiki/Yambes_language"
+translations:
+  - translation_iso: zho
+    name: 扬贝斯语
+    auto: true
 rolv_dialects:
   - rolv_code: 3055
     language_tag: ymb-x-HIS03055

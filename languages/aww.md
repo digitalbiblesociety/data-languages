@@ -1,8 +1,6 @@
 ---
 iso: aww
 name: Awun
-name_zh: 阿温语
-name_zh_auto: true
 autonym: Awon
 alt_names: [Auwan]
 population: 400
@@ -16,5 +14,9 @@ glottolog_family_id: sepi1257
 glottolog_family_name: Sepik
 glottolog_classification: "Sepik > Yellow River > Auwon"
 wikipedia_url: "https://en.wikipedia.org/wiki/Auwon_language"
+translations:
+  - translation_iso: zho
+    name: 阿温语
+    auto: true
 ---
 Awun (Auwon) is a Sepik language spoken in Yakeltim village of Namea Rural LLG, Sandaun Province, Papua-New Guinea.

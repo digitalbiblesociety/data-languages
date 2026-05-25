@@ -1,8 +1,6 @@
 ---
 iso: urp
 name: "Uru-Pa-In"
-name_zh: 乌鲁-帕-因语
-name_zh_auto: true
 autonym: null
 alt_names: [Brazil]
 population: 200
@@ -16,5 +14,9 @@ glottolog_family_id: uncl1493
 glottolog_family_name: Unclassifiable
 glottolog_classification: "Unclassifiable > Uru-Pa-In"
 wikipedia_url: "https://en.wikipedia.org/wiki/Uru-Pa-In_language"
+translations:
+  - translation_iso: zho
+    name: 乌鲁-帕-因语
+    auto: true
 ---
 Uru-Pa-In is an isolated Tupi–Guaraní language of the state of Rondônia, in the Amazon region of Brazil. Speakers have no permanent contact with the outside world.

@@ -1,7 +1,6 @@
 ---
 iso: ebu
 name: Embu
-name_zh: 恩布语
 autonym: Kiembu
 population: 600000
 country_id: KE
@@ -15,6 +14,17 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > East Bantu > Northeast Savanna Bantu > Central Kenya Bantu > Embu"
 wikipedia_url: "https://en.wikipedia.org/wiki/Embu_language"
+translations:
+  - translation_iso: ara
+    name: إمبو
+  - translation_iso: hin
+    name: एम्बु
+  - translation_iso: jpn
+    name: エンブ語
+  - translation_iso: kor
+    name: 엠부어
+  - translation_iso: zho
+    name: 恩布语
 rolv_dialects:
   - rolv_code: 701
     language_tag: ebu-x-HIS00701

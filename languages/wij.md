@@ -1,8 +1,6 @@
 ---
 iso: wij
 name: "Wik-Iiyanh"
-name_zh: 威克-伊扬语
-name_zh_auto: true
 autonym: "Wik-Muminh"
 alt_names: [Wik-Iiyanyi, Wik-Iiyeny, Wik-Iyanh, Wik-Iyena, Wikianji, Wikianyi]
 population: null
@@ -15,4 +13,8 @@ glottocode: wiki1239
 glottolog_family_id: pama1250
 glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > Paman > Compromise Middle Pama > Wik > Kuku-Wik-Ep > Kuku-Wik > Mungkanic > Mungkan-Mungkanhu > Wik-Iiyanh"
+translations:
+  - translation_iso: zho
+    name: 威克-伊扬语
+    auto: true
 ---

@@ -1,7 +1,6 @@
 ---
 iso: snf
 name: Noon
-name_zh: 诺恩语
 autonym: Non
 alt_names: [None, Noono, Serer-Non, Serer-Noon]
 population: 32900
@@ -16,6 +15,11 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Cangin > Saafi-Noon-Lehar > Noon-Lehar > Noon"
 wikipedia_url: "https://en.wikipedia.org/wiki/Noon_language"
+translations:
+  - translation_iso: jpn
+    name: ノーン語
+  - translation_iso: zho
+    name: 诺恩语
 rolv_dialects:
   - rolv_code: 15039
     language_tag: snf-x-HIS15039

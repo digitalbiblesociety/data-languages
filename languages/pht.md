@@ -1,7 +1,6 @@
 ---
 iso: pht
 name: Phu Thai
-name_zh: 普泰语
 autonym: ภาษาผู้ไท
 alt_names: [Phutai, Phuu Thai, Putai, Puthai, Пхутайски език]
 population: null
@@ -15,6 +14,11 @@ glottolog_family_id: taik1256
 glottolog_family_name: Tai-Kadai
 glottolog_classification: "Tai-Kadai > Kam-Tai > Daic-Beic > Daic > Central-Southwestern Tai > Wenma-Southwestern Tai > Sapa-Southwestern Tai > Southwestern Tai > Southwestern Thai PH > Siamese > Phu Thai"
 wikipedia_url: "https://en.wikipedia.org/wiki/Phu_Thai_language"
+translations:
+  - translation_iso: jpn
+    name: プー・タイ語
+  - translation_iso: zho
+    name: 普泰语
 rolv_dialects:
   - rolv_code: 22139
     language_tag: pht-x-HIS22139

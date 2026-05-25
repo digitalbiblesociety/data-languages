@@ -1,7 +1,6 @@
 ---
 iso: mam
 name: Mam
-name_zh: 马姆语
 autonym: Qyool Mam
 alt_names: [Huehuetenango Mam, Idioma mam, Língua mam, Mam (Southern), Mam simi, "Mam, Northern", "Qyo:l", Мамски јазик]
 population: 602400
@@ -15,6 +14,13 @@ glottolog_family_id: maya1287
 glottolog_family_name: Mayan
 glottolog_classification: "Mayan > Core Mayan > Quichean-Mamean > Greater Mamean > Mamean > Mam"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mam_language"
+translations:
+  - translation_iso: jpn
+    name: マム語
+  - translation_iso: kor
+    name: 맘어
+  - translation_iso: zho
+    name: 马姆语
 rolv_dialects:
   - rolv_code: 36
     language_tag: mam-x-HIS00036

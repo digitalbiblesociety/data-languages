@@ -1,8 +1,6 @@
 ---
 iso: bji
 name: Burji
-name_zh: 布尔吉语
-name_zh_auto: true
 autonym: Bambala
 alt_names: [Bembala, Buryí, Daashi]
 population: 83000
@@ -16,5 +14,9 @@ glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Cushitic > East Cushitic > Highland East Cushitic > Burji"
 wikipedia_url: "https://en.wikipedia.org/wiki/Burji_language"
+translations:
+  - translation_iso: zho
+    name: 布尔吉语
+    auto: true
 ---
 Burji language is an Afro-Asiatic language spoken by the Burji people who reside in Ethiopia south of Lake Chamo. There are over 49,000 speakers in Ethiopia, and a further 36,900 speakers in Kenya. Burji belongs to the Highland East Cushitic group of the Cushitic branch of the Afro-Asiatic family.

@@ -1,8 +1,6 @@
 ---
 iso: gkn
 name: Gokana
-name_zh: 戈卡纳语
-name_zh_auto: true
 autonym: null
 alt_names: [Nigeria]
 population: 100000
@@ -16,6 +14,10 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Delta Cross > Ogonoid > East Ogonoid > Gokana"
 wikipedia_url: "https://en.wikipedia.org/wiki/Gokana_language"
+translations:
+  - translation_iso: zho
+    name: 戈卡纳语
+    auto: true
 rolv_dialects:
   - rolv_code: 23944
     language_tag: gkn-x-HIS23944

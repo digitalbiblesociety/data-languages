@@ -1,8 +1,6 @@
 ---
 iso: nhy
 name: Northern Oaxaca Nahuatl
-name_zh: 北瓦哈卡纳瓦特尔语
-name_zh_auto: true
 autonym: Southeastern Puebla Nahuatl
 alt_names: [Mexicano, Nahuatl, "Nahuatl, Northern Oaxaca", Northern Nahuatl, Northern Nawa, Náhuatl del Norte de Oaxaca]
 population: 8130
@@ -15,4 +13,8 @@ glottocode: nort2958
 glottolog_family_id: utoa1244
 glottolog_family_name: Uto-Aztecan
 glottolog_classification: "Uto-Aztecan > Southern Uto-Aztecan > Corachol-Aztecan > Aztec > Western Nahuatl > Central Nahuatl > Tlaxcala-Southeastern Puebla Nahuatl > Southeast Puebla-Northern Oaxaca Nahuatl > Northern Oaxaca Nahuatl"
+translations:
+  - translation_iso: zho
+    name: 北瓦哈卡纳瓦特尔语
+    auto: true
 ---

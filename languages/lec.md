@@ -1,7 +1,6 @@
 ---
 iso: lec
 name: Leco
-name_zh: 離戈語
 autonym: " Rik’a"
 alt_names: [Ateniano, Chuncho Aleniano, Lapalapa, Leka, Leko, "Rik'a", Леко]
 population: 20
@@ -12,5 +11,10 @@ latitude: -15.00921
 longitude: -67.88181
 glottocode: leco1242
 wikipedia_url: "https://en.wikipedia.org/wiki/Leco_language"
+translations:
+  - translation_iso: kor
+    name: 레코어
+  - translation_iso: zho
+    name: 離戈語
 ---
 Leco, also written as Leko, is a language isolate that, though long reported to be extinct, is spoken by 20–40 individuals in areas east of Lake Titicaca, Bolivia. The Leco ethnic population was 13,527 in 2012.

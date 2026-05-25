@@ -1,7 +1,6 @@
 ---
 iso: csi
 name: Coast Miwok
-name_zh: 海岸米沃克語
 autonym: null
 alt_names: [Bollanos, Coast, Costal Miwok, Miwok, Miwok (Bodega), Miwok (Coast), "Miwok, Coast"]
 population: 1994
@@ -15,6 +14,9 @@ glottolog_family_id: miwo1274
 glottolog_family_name: Miwok-Costanoan
 glottolog_classification: "Miwok-Costanoan > Miwokan > Western Miwokan > Coast Miwok"
 wikipedia_url: "https://en.wikipedia.org/wiki/Coast_Miwok_language"
+translations:
+  - translation_iso: zho
+    name: 海岸米沃克語
 rolv_dialects:
   - rolv_code: 14116
     language_tag: csi-x-HIS14116

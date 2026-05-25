@@ -1,8 +1,6 @@
 ---
 iso: slm
 name: Pangutaran Sama
-name_zh: 潘古塔兰萨玛语
-name_zh_auto: true
 autonym: Siyama
 alt_names: ["Sama, Pangutaran"]
 population: 35200
@@ -16,5 +14,9 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Basap-Greater Barito > Greater Barito linkage > Sama-Bajaw > Sulu-Borneo > Pangutaran Sama"
 wikipedia_url: "https://en.wikipedia.org/wiki/Pangutaran_Sama_language"
+translations:
+  - translation_iso: zho
+    name: 潘古塔兰萨玛语
+    auto: true
 ---
 Pangutaran Sama, also known as Siyama, is an Austronesian language spoken in the Sulu Archipelago of the Philippines. The language belongs to the Malayo-Polynesian branch of the Austronesian languages.

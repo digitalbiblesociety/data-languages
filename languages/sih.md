@@ -1,8 +1,6 @@
 ---
 iso: sih
 name: Zire
-name_zh: 齐雷语
-name_zh_auto: true
 autonym: Nerë
 alt_names: [Neukaledonien, Siche, Sirhe, Sishee, Sîshëë, Yirhe, Yirhee, Ziche, Zira]
 population: 19
@@ -16,5 +14,9 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Southern Melanesian > New Caledonian > Mainland New Caledonian > Southern New Caledonian > Mid-Southern New Caledonian > Zire"
 wikipedia_url: "https://en.wikipedia.org/wiki/Zire_language"
+translations:
+  - translation_iso: zho
+    name: 齐雷语
+    auto: true
 ---
 Zire (Sîshëë), also known as Nerë, is an extinct Oceanic language of New Caledonia. There were 19 speakers in 2009. Zire is sometimes considered a dialect of Ajië.

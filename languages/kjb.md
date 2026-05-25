@@ -1,7 +1,6 @@
 ---
 iso: kjb
 name: "Q'anjob'al"
-name_zh: 根合巴文
 autonym: Kanjobal
 alt_names: [Conob, Eastern, Eastern Kanjobal, "Idioma q'anjob'al", Kanhobal, Kanjobal (Eastern), "Kanjobal, Eastern", Língua canjobal, "Q'anjob'al simi", Qanjobal, Santa Eulalia Kanjobal, Канхобалски јазик]
 population: 174420
@@ -15,6 +14,13 @@ glottolog_family_id: maya1287
 glottolog_family_name: Mayan
 glottolog_classification: "Mayan > Core Mayan > Western Mayan > Kanjobalan-Chujean > Kanjobalan > Kanjobal-Jacaltec > Q'anjob'al"
 wikipedia_url: "https://en.wikipedia.org/wiki/Q%CA%BCanjob%CA%BCal_language"
+translations:
+  - translation_iso: jpn
+    name: カンホバル語
+  - translation_iso: kor
+    name: 칸호발어
+  - translation_iso: zho
+    name: 根合巴文
 rolv_dialects:
   - rolv_code: 4800
     language_tag: kjb-x-HIS04800

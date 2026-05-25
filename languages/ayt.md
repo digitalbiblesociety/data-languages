@@ -1,8 +1,6 @@
 ---
 iso: ayt
 name: Magbukun Ayta
-name_zh: 马格布昆艾塔语
-name_zh_auto: true
 autonym: Bataan Ayta
 alt_names: [Ayta, Ayta de Bataan, Ayta du Bataan, "Ayta, Bataan", "Ayta, Magbukun", Bataan, Bataan Sambal, Idioma mariveleño, Mariveles Ayta, Mariveleño language, ภาษามารีเวเลโญ]
 population: 1000
@@ -16,6 +14,10 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Central Luzon > Sambalic > Bataan Ayta"
 wikipedia_url: "https://en.wikipedia.org/wiki/Marivele%C3%B1o_language"
+translations:
+  - translation_iso: zho
+    name: 马格布昆艾塔语
+    auto: true
 rolv_dialects:
   - rolv_code: 4736
     language_tag: ayt-x-HIS04736

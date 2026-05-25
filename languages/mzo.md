@@ -1,8 +1,6 @@
 ---
 iso: mzo
 name: Matipuhy
-name_zh: 玛蒂普希语
-name_zh_auto: true
 autonym: "Kuikúro-Kalapálo"
 alt_names: [Amonap, Kalapalo, Kuikuro, Mariape-Nahuqua, Matipu, Matipú, Nahukwa]
 population: 10
@@ -16,6 +14,10 @@ glottolog_family_id: cari1283
 glottolog_family_name: Cariban
 glottolog_classification: "Cariban > Kuikuroan > Nuclear Kuikuroan > Matipuhy"
 wikipedia_url: "https://en.wikipedia.org/wiki/Matipuhy_language"
+translations:
+  - translation_iso: zho
+    name: 玛蒂普希语
+    auto: true
 rolv_dialects:
   - rolv_code: 13839
     language_tag: mzo-x-HIS13839

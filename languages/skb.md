@@ -1,7 +1,6 @@
 ---
 iso: skb
 name: Saek
-name_zh: 石語
 autonym: Sek
 alt_names: [Saekeg, Set, Tai Sek, ภาษาแสก, 石語]
 population: 14000
@@ -15,6 +14,13 @@ glottolog_family_id: taik1256
 glottolog_family_name: Tai-Kadai
 glottolog_classification: "Tai-Kadai > Kam-Tai > Daic-Beic > Daic > Northern Daic-Sek > Saek"
 wikipedia_url: "https://en.wikipedia.org/wiki/Saek_language"
+translations:
+  - translation_iso: jpn
+    name: 石語
+  - translation_iso: kor
+    name: 색어
+  - translation_iso: zho
+    name: 石語
 rolv_dialects:
   - rolv_code: 16166
     language_tag: skb-x-HIS16166

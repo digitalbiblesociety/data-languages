@@ -1,8 +1,6 @@
 ---
 iso: msh
 name: Masikoro Malagasy
-name_zh: 马西科罗马达加斯加语
-name_zh_auto: true
 autonym: malagasy
 alt_names: ["Malagasy, Masikoro"]
 population: 550000
@@ -15,6 +13,12 @@ glottocode: masi1268
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Basap-Greater Barito > Greater Barito linkage > Southeast Barito > Malagasic > Southwestern Malagasic > South West-Central Malagasic > Nuclear South West-Central Malagasic > Inland-Western Malagasic > Western Malagasic > Masikoro Malagasy"
+translations:
+  - translation_iso: jpn
+    name: マシクル・マダガスカル語
+  - translation_iso: zho
+    name: 马西科罗马达加斯加语
+    auto: true
 rolv_dialects:
   - rolv_code: 31138
     language_tag: msh-x-HIS31138

@@ -1,8 +1,6 @@
 ---
 iso: tqt
 name: Western Totonac
-name_zh: 西托托纳克语
-name_zh_auto: true
 autonym: Ozomatlán Totonac
 alt_names: [Totonac, "Totonac, Ozumatlán", "Totonac, Western", Totonacano de Patla, Totonacano filomeno mata-coahuillán, Totonaco, Totonaco de Ozumatlán, Totonako, Totonaque de Filomeno Mata, Totonaque de Patla-Chicontla]
 population: 1610
@@ -16,5 +14,9 @@ glottolog_family_id: toto1251
 glottolog_family_name: Totonacan
 glottolog_classification: "Totonacan > Totonac > Central Totonacan > South-Central Totonacan > Ozumatlán Totonac"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ozomatl%C3%A1n_Totonac"
+translations:
+  - translation_iso: zho
+    name: 西托托纳克语
+    auto: true
 ---
 Cerro Xinolatépetl Totonac, also Ozomatlán or Western Totonac, is a Totonac language of central Mexico.

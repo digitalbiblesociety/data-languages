@@ -1,8 +1,6 @@
 ---
 iso: azo
 name: Awing
-name_zh: 阿温语
-name_zh_auto: true
 autonym: "Mbwe'wi"
 alt_names: [Awi, Bambuluwe]
 population: 19000
@@ -16,5 +14,9 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Wide Grassfields > Narrow Grassfields > Mbam-Nkam > Southern Mbam-Nkam > Ngembaic > Awing"
 wikipedia_url: "https://en.wikipedia.org/wiki/Awing_language"
+translations:
+  - translation_iso: zho
+    name: 阿温语
+    auto: true
 ---
 Awing, or Mbwe'wi, is a Grassfields language spoken in Cameroon.

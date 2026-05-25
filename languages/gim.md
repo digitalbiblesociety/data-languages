@@ -1,7 +1,6 @@
 ---
 iso: gim
 name: Gimi (Eastern Highlands)
-name_zh: 幾密語
 autonym: Labogai
 alt_names: [Gimi, Jimi]
 population: 23180
@@ -15,6 +14,13 @@ glottolog_family_id: nucl1709
 glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Kainantu-Goroka > Goroka > Nuclear Goroka > Fore-Gimi > Gimi (Eastern Highlands)"
 wikipedia_url: "https://en.wikipedia.org/wiki/Gimi_language"
+translations:
+  - translation_iso: jpn
+    name: ギミ語
+  - translation_iso: kor
+    name: 기미어
+  - translation_iso: zho
+    name: 幾密語
 rolv_dialects:
   - rolv_code: 4058
     language_tag: gim-x-HIS04058

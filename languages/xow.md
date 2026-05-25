@@ -1,8 +1,6 @@
 ---
 iso: xow
 name: Kowaki
-name_zh: 科瓦基语
-name_zh_auto: true
 autonym: null
 population: 25
 country_id: PG
@@ -15,5 +13,9 @@ glottolog_family_id: nucl1709
 glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Madang > Croisilles > Greater Northern Adelbert > Northern Adelbert > Kumil-Tibor > Tibor > Nuclear Tibor > Kowaki"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kowaki_language"
+translations:
+  - translation_iso: zho
+    name: 科瓦基语
+    auto: true
 ---
 Kowaki is a nearly extinct Papuan language of Madang Province, Papua New Guinea.

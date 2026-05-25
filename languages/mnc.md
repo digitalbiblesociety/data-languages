@@ -1,7 +1,6 @@
 ---
 iso: mnc
 name: Manchu
-name_zh: 满语
 autonym: ᠮᠠᠨᠵᡠᡤᡳᠰᡠᠨ
 alt_names: [Bahasa Manchu, Chinesische Tatarn, Idioma manchú, Język mandżurski, Lingua mancese, Língua manchu, Man, Manchoueg, Manchuiska, Mandchou, Mandschu, Mandschurisch, Mandschurische Sprache, Mandsjuisk, Mandsjuriske språk, Mantischeou, Mantsjoe, Mantšun kieli, Manxú, Mançuca, Manĉura lingvo, Mân-ngî, Маньчжурский язык, Манџурски јазик, "מנצ'ורית", مانجۇ تىلى, ภาษาแมนจู, 満州語, 满语, 滿語, 만주어]
 population: 20
@@ -16,6 +15,17 @@ glottolog_family_id: tung1282
 glottolog_family_name: Tungusic
 glottolog_classification: "Tungusic > Manchu-Jurchen > Manchu-Xibe > Manchu"
 wikipedia_url: "https://en.wikipedia.org/wiki/Manchu_language"
+translations:
+  - translation_iso: ara
+    name: لغة المانشو
+  - translation_iso: hin
+    name: मान्छु भाषा
+  - translation_iso: jpn
+    name: 満洲語
+  - translation_iso: kor
+    name: 만주어
+  - translation_iso: zho
+    name: 满语
 rolv_dialects:
   - rolv_code: 26925
     language_tag: mnc-x-HIS26925

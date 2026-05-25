@@ -1,7 +1,6 @@
 ---
 iso: mwp
 name: Kala Lagaw Ya
-name_zh: 卡劳拉高亚语
 autonym: Western Torres Strait
 alt_names: [Gumulgal people, Kala Kawaw Ya, Kala Lagau Langgus, Kala Lagaw, Kala Lagaw Langgus, Kala Lagaw Langgus Yagar Yagar, Kala Yagaw Ya, Kalaw Kawaw Ya, Kalaw Kawaw Ya/Kalaw Lagaw Ya, Kalaw lagaw ya, Karualaig, Kowrarega, Langus, Mabuiag, Mabuyago, Maguiagic Group, Torres Strait Islander language, Torres Strait Islander people, West Torres, Yagar Yagar]
 population: 960
@@ -15,6 +14,13 @@ glottolog_family_id: pama1250
 glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > Kala Lagaw Ya"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kalaw_Lagaw_Ya"
+translations:
+  - translation_iso: jpn
+    name: カラ・ラガウ・ヤ語
+  - translation_iso: kor
+    name: 칼라우라가우야어
+  - translation_iso: zho
+    name: 卡劳拉高亚语
 rolv_dialects:
   - rolv_code: 11369
     language_tag: mwp-x-HIS11369

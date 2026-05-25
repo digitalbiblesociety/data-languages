@@ -1,8 +1,6 @@
 ---
 iso: mmw
 name: Emae
-name_zh: 埃玛埃语
-name_zh_auto: true
 autonym: Emai
 alt_names: [Emwae, Mae, Mai, Makatea, Mwae]
 population: 400
@@ -16,5 +14,11 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Central Pacific linkage > Tokalau Fijian > Polynesian > Nuclear Polynesian > Vanuatu-Loyalty Outliers > Emae"
 wikipedia_url: "https://en.wikipedia.org/wiki/Emae_language"
+translations:
+  - translation_iso: jpn
+    name: エマエ語
+  - translation_iso: zho
+    name: 埃玛埃语
+    auto: true
 ---
 Emae, Emwae or Mae, is a Polynesian outlier language of Vanuatu.

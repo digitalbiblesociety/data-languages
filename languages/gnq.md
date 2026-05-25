@@ -1,8 +1,6 @@
 ---
 iso: gnq
 name: Gana
-name_zh: 加纳语
-name_zh_auto: true
 autonym: Ganaq
 alt_names: ["Gana'", Keningau Dusun, Minansut]
 population: 1000
@@ -16,5 +14,9 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > North Borneo Malayo-Polynesian > Sabahan > Southwest Sabahan > Greater Murutic > Murutic > Northern Murutic > Gana"
 wikipedia_url: "https://en.wikipedia.org/wiki/Gana%CA%BC_language"
+translations:
+  - translation_iso: zho
+    name: 加纳语
+    auto: true
 ---
 Ganaʼ is an Austronesian language of Sabah, Malaysia.

@@ -1,7 +1,6 @@
 ---
 iso: nev
 name: Nyaheun
-name_zh: 洪语
 autonym: Nyaheun
 alt_names: [Hin, Hoen, "Hu'n", Hun, Nha Heun, Nia Hoen, Niahon, Nyah Heuny, Nyahuen, Nyahön, Prou, Yaheun, "Ña-hu'n"]
 population: null
@@ -15,6 +14,9 @@ glottolog_family_id: aust1305
 glottolog_family_name: Austroasiatic
 glottolog_classification: "Austroasiatic > Bahnaric > West Bahnaric > Nuclear West Bahnaric > Nyaheun"
 wikipedia_url: "https://en.wikipedia.org/wiki/Nyaheun_language"
+translations:
+  - translation_iso: zho
+    name: 洪语
 rolv_dialects:
   - rolv_code: 1008
     language_tag: nev-x-HIS01008

@@ -1,8 +1,6 @@
 ---
 iso: bbo
 name: Northern Bobo Madaré
-name_zh: 北博博马达雷语
-name_zh_auto: true
 autonym: Bobo Fing
 alt_names: ["Bobo Madaré, Northern", Konabéré, Northern Bobo Madare]
 population: 60000
@@ -15,6 +13,10 @@ glottocode: nort2819
 glottolog_family_id: mand1469
 glottolog_family_name: Mande
 glottolog_classification: "Mande > Western Mande > Northwestern Mande > Duun-Bobo > Bobo > Northern Bobo Madaré"
+translations:
+  - translation_iso: zho
+    name: 北博博马达雷语
+    auto: true
 rolv_dialects:
   - rolv_code: 8210
     language_tag: bbo-x-HIS08210

@@ -1,8 +1,6 @@
 ---
 iso: kec
 name: Keiga
-name_zh: 凯加语
-name_zh_auto: true
 autonym: Aigang
 alt_names: [Demik, Keiga-Al-Kheil, Keiga-Timero, Yega]
 population: 6070
@@ -16,6 +14,10 @@ glottolog_family_id: kadu1256
 glottolog_family_name: Kadugli-Krongo
 glottolog_classification: "Kadugli-Krongo > Keiga"
 wikipedia_url: "https://en.wikipedia.org/wiki/Keiga_language"
+translations:
+  - translation_iso: zho
+    name: 凯加语
+    auto: true
 rolv_dialects:
   - rolv_code: 11769
     language_tag: kec-x-HIS11769

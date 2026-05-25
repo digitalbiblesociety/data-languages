@@ -1,7 +1,6 @@
 ---
 iso: cjk
 name: Chokwe
-name_zh: 喬奎語
 autonym: Ucôkwe (Wuchokwe)
 alt_names: [Ciokwe, Cokwe, Djok, Imo, Kioko, Quioco, Shioko, Tschiokloe, Tschiokwe, Tshokwe]
 population: 2491700
@@ -15,6 +14,11 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > Central-Western Bantu > Njila > Southern Njila > Chokwe-Lunda > Chokwe-Ngangela-Nyemba (K.20) > Chokwe-Lwena > Chokwe"
 wikipedia_url: "https://en.wikipedia.org/wiki/Chokwe_language"
+translations:
+  - translation_iso: jpn
+    name: チョクウェ語
+  - translation_iso: zho
+    name: 喬奎語
 rolv_dialects:
   - rolv_code: 8899
     language_tag: cjk-x-HIS08899

@@ -1,8 +1,6 @@
 ---
 iso: inb
 name: Inga
-name_zh: 因加语
-name_zh_auto: true
 autonym: Ingano
 alt_names: [Colombia, Colombia Quechua, Highland Inga, Inga Kichwa, Inga-Kichwa, Ingo, Quichua inga]
 population: 22000
@@ -16,6 +14,10 @@ glottolog_family_id: quec1387
 glottolog_family_name: Quechuan
 glottolog_classification: "Quechuan > Colombia-Ecuador Quechua > Ecuadorian Quechua B > Imbabura-Colombia-Oriente Quechua > Colombia-Oriente Quechua > Colombian Inga"
 wikipedia_url: "https://en.wikipedia.org/wiki/Inga_Kichwa"
+translations:
+  - translation_iso: zho
+    name: 因加语
+    auto: true
 rolv_dialects:
   - rolv_code: 10891
     language_tag: inb-x-HIS10891

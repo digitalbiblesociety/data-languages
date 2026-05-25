@@ -1,8 +1,6 @@
 ---
 iso: mvl
 name: Mbara (Australia)
-name_zh: 澳大利亚姆巴拉语
-name_zh_auto: true
 autonym: Midjamba
 alt_names: [Ambara, Balgalu, Bargal, Kumbulmara, Mbara, Mitjamba]
 population: null
@@ -16,5 +14,9 @@ glottolog_family_id: pama1250
 glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > Paman > Mbara-Yanga"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mbara-Yanga_language"
+translations:
+  - translation_iso: zho
+    name: 澳大利亚姆巴拉语
+    auto: true
 ---
 Mbara, and Yanga are mutually intelligible but separate Aboriginal language of Queensland, both now extinct. Glottolog assigns a code to a group level as Mbara-Yanga (mbar1254). Yanga is not to be confused with the Yangga language, a dialect of Biri.

@@ -1,7 +1,6 @@
 ---
 iso: kjh
 name: Khakas
-name_zh: 哈卡斯语
 autonym: Хакас тілі
 alt_names: [Abakan Tatar, Abakan Tatars, Abakan Turks, Abakan-Tataren, Abaqan, Bahasa Khakas, "C'hakaseg", Chakas, Chakassische Sprache, Chakaština, Hakas Türkçesi, Hakassi keel, Hakassin kieli, Hakasça, Idioma hacaso, Jacaso, Kamacintzi, Khakasisk, Khakasse, Khakhas, Khakhass, Khakàs, Kischtim, Sagaijer, South Siberian Turkic, Turc kamasse, Xakas, Xakas tįlį, Yenisei Tatar, Yenisei Tatars, Yenisei Turks, Ĥakasa lingvo, Хакас чĕлхи, Хакаски език, Хакаски јазик, тадар тілі, хакасский язык, ภาษาคากัส, ハカス語, 哈卡斯语, 하카스어]
 population: 42610
@@ -16,6 +15,17 @@ glottolog_family_id: turk1311
 glottolog_family_name: Turkic
 glottolog_classification: "Turkic > Common Turkic > South Siberian Turkic > Sayan-Yenisei Turkic > Yenisey Turkic > Khakas"
 wikipedia_url: "https://en.wikipedia.org/wiki/Khakas_language"
+translations:
+  - translation_iso: ara
+    name: الخاكاسية
+  - translation_iso: hin
+    name: ख़कास भाषा
+  - translation_iso: jpn
+    name: ハカス語
+  - translation_iso: kor
+    name: 하카스어
+  - translation_iso: zho
+    name: 哈卡斯语
 rolv_dialects:
   - rolv_code: 11904
     language_tag: kjh-x-HIS11904

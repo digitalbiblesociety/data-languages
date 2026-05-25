@@ -1,8 +1,6 @@
 ---
 iso: zbc
 name: Central Berawan
-name_zh: 中贝拉旺语
-name_zh_auto: true
 autonym: Batu Belah
 alt_names: ["Berawan, Central"]
 population: 710
@@ -15,6 +13,10 @@ glottocode: cent2098
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > North Borneo Malayo-Polynesian > North Sarawakan > Berawan-Lower Baram > Berawan > Central-East Berawan > Central Berawan"
+translations:
+  - translation_iso: zho
+    name: 中贝拉旺语
+    auto: true
 rolv_dialects:
   - rolv_code: 573
     language_tag: zbc-x-HIS00573

@@ -1,8 +1,6 @@
 ---
 iso: tbs
 name: Tanguat
-name_zh: 坦古阿特语
-name_zh_auto: true
 autonym: null
 population: 740
 country_id: PG
@@ -15,6 +13,10 @@ glottolog_family_id: ramu1234
 glottolog_family_name: Ramu
 glottolog_classification: "Ramu > Goam > Ataitan > Tanguat"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tanguat_language"
+translations:
+  - translation_iso: zho
+    name: 坦古阿特语
+    auto: true
 rolv_dialects:
   - rolv_code: 30358
     language_tag: tbs-x-HIS30358

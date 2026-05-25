@@ -1,8 +1,6 @@
 ---
 iso: vmb
 name: Barbaram
-name_zh: 巴巴拉姆语
-name_zh_auto: true
 autonym: Barbaram
 alt_names: [Balbarum, Bar-barum, Barbarem, Barbarum, Boobu-ram, Booburam, Gugu-Mbabaram, Illagona, Koko-Beberam, Kumbulmara, Kwearriburra, Lenga mbabaram, Mbabaram, Mbabaram language, Mbara, Mitjamba, Mogmbabarum, Mogmnanarim, Morruburra, Oombarbarum, Oombarrmbarum, Queeariburra, Umbarbaram, Umbarbarem, Warrialgona, Woombarbarram, Woombarrmbar, Woombarrmbarra, Wumbabaram]
 population: null
@@ -16,5 +14,9 @@ glottolog_family_id: pama1250
 glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > Paman > Finasleigh Pama > Mbabaram"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mbabaram_language"
+translations:
+  - translation_iso: zho
+    name: 巴巴拉姆语
+    auto: true
 ---
 Mbabaram (Barbaram) is an extinct Australian Aboriginal language of north Queensland, traditionally spoken by the Mbabaram people. R. M. W. Dixon described his hunt for a native speaker of Mbabaram in his book Searching for Aboriginal Languages: Memoirs of a Field Worker. Most of what is known of the language is from Dixon's field research with speaker Albert Bennett.

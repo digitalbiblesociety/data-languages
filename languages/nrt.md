@@ -1,8 +1,6 @@
 ---
 iso: nrt
 name: Northern Kalapuya
-name_zh: 北卡拉普亚语
-name_zh_auto: true
 autonym: "Tualatin-Yamhill"
 alt_names: ["Kalapuya, Northern"]
 population: null
@@ -16,5 +14,9 @@ glottolog_family_id: kala1402
 glottolog_family_name: Kalapuyan
 glottolog_classification: "Kalapuyan > Tualatin-Yamhill"
 wikipedia_url: "https://en.wikipedia.org/wiki/Northern_Kalapuya_language"
+translations:
+  - translation_iso: zho
+    name: 北卡拉普亚语
+    auto: true
 ---
 Northern Kalapuyan is an extinct Kalapuyan language indigenous to northwestern Oregon in the United States. It was spoken by Kalapuya groups in the northern Willamette Valley southwest of present-day Portland.

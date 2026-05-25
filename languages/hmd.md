@@ -1,7 +1,6 @@
 ---
 iso: hmd
 name: Large Flowery Miao
-name_zh: 苗语滇东北次方言
 autonym: Large Flowery Miao
 alt_names: [A-Hmao, A-hmaos, Big Flowery Miao, Da-Hua Miao, Diandongbei, Flowery Miao, "Hmong, Northeastern Dian", Hua Miao, Hwa Miao, Miao, "Miao, Da-Hua", "Miao, Large Flowery", Northeastern Yunnan, Northeastern Yunnan Miao, Ta Hua Miao, Ta Hwa Miao, Thai Miao, Variegated Miao, Yi]
 population: 300000
@@ -16,6 +15,11 @@ glottolog_family_id: hmon1336
 glottolog_family_name: Hmong-Mien
 glottolog_classification: "Hmong-Mien > Hmongic > Nuclear Hmongic-Ho Ne > Nuclear Hmongic > West Hmongic > Greater Chuanqiandian > Diandongbei-Large Flowery Miao"
 wikipedia_url: "https://en.wikipedia.org/wiki/A-Hmao_language"
+translations:
+  - translation_iso: jpn
+    name: 大花苗語
+  - translation_iso: zho
+    name: 苗语滇东北次方言
 rolv_dialects:
   - rolv_code: 6099
     language_tag: hmd-x-HIS06099

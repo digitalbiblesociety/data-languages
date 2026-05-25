@@ -1,8 +1,6 @@
 ---
 iso: lmu
 name: Lamenu
-name_zh: 拉梅努语
-name_zh_auto: true
 autonym: " Varmali"
 alt_names: [Lamen, Lewo]
 population: 850
@@ -16,5 +14,9 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > North and Central Vanuatu > Central Vanuatu > Epi-Efate > Epi > Lamenu-Lewo > Lamenu"
 wikipedia_url: "https://en.wikipedia.org/wiki/Lamen_language"
+translations:
+  - translation_iso: zho
+    name: 拉梅努语
+    auto: true
 ---
 Lamen is an Oceanic language spoken on Epi Island, in Vanuatu.

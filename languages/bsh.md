@@ -1,7 +1,6 @@
 ---
 iso: bsh
 name: Kati
-name_zh: 卡蒂语
 autonym: Kati
 alt_names: [Bashgali, Bašgalī, Kata-vari, Kati (in Afghanistan), Kati jezik, Kativiri, Katí, Nuristani]
 population: 15000
@@ -15,6 +14,13 @@ glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Iranian-Nuristani > Nuristani > Ashkun-Kate-Waigali > Ashkun-Kate > Katë"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kat%C3%AB_language"
+translations:
+  - translation_iso: ara
+    name: اللغة الكامكاتويرية
+  - translation_iso: jpn
+    name: カム・カタヴァリ語
+  - translation_iso: zho
+    name: 卡蒂语
 rolv_dialects:
   - rolv_code: 3336
     language_tag: bsh-x-HIS03336

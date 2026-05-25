@@ -1,8 +1,6 @@
 ---
 iso: fue
 name: Borgu Fulfulde
-name_zh: 博尔古富尔富尔德语
-name_zh_auto: true
 autonym: Fulani
 alt_names: [Benin-Togo Fulfulde, Fulah-Idiome, Fulbe-Borgu, "Fulfulde, Borgu", Peul, Peulh]
 population: 730000
@@ -16,6 +14,12 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > North-Central Atlantic > Fula-Sereer > Fula > Borgu Fulfulde"
 wikipedia_url: "https://en.wikipedia.org/wiki/Borgu_Fulfulde"
+translations:
+  - translation_iso: jpn
+    name: ボルグ・フルフルディ語
+  - translation_iso: zho
+    name: 博尔古富尔富尔德语
+    auto: true
 rolv_dialects:
   - rolv_code: 9921
     language_tag: fue-x-HIS09921

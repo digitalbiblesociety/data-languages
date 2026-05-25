@@ -1,8 +1,6 @@
 ---
 iso: wog
 name: Wogamusin
-name_zh: 沃加木新语
-name_zh_auto: true
 autonym: Wongamusin
 alt_names: [Język wogamusin, Wogamuosineg]
 population: 700
@@ -16,5 +14,9 @@ glottolog_family_id: sepi1257
 glottolog_family_name: Sepik
 glottolog_classification: "Sepik > Iwam-Wogamus > Wogamusin-Chenapian > Wogamusin"
 wikipedia_url: "https://en.wikipedia.org/wiki/Wogamusin_language"
+translations:
+  - translation_iso: zho
+    name: 沃加木新语
+    auto: true
 ---
 Wogamusin is a Papuan language found in four villages in the Ambunti District of East Sepik Province, Papua New Guinea. It was spoken by about 700 people in 1998.

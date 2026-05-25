@@ -1,7 +1,6 @@
 ---
 iso: oss
 name: Ossetian
-name_zh: 依隆奧塞提亞語
 autonym: ирон ӕвзаг
 alt_names: [Iron, Iron Ossetian, Iron Ossetic, "Ossetian, Iron", Ossetic, "Ossetic, Iron"]
 population: 601450
@@ -16,6 +15,17 @@ glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Iranian-Nuristani > Iranian > Central Iranian PBS > Sogdic-Ossetic > Ossetic > Modern Ossetic > Iron Ossetian"
 wikipedia_url: "https://en.wikipedia.org/wiki/Iron_Ossetian"
+translations:
+  - translation_iso: ara
+    name: الأوسيتيك
+  - translation_iso: hin
+    name: ओस्सेटिक
+  - translation_iso: jpn
+    name: イロン方言
+  - translation_iso: kor
+    name: 오세트어
+  - translation_iso: zho
+    name: 依隆奧塞提亞語
 rolv_dialects:
   - rolv_code: 15356
     language_tag: os-x-HIS15356

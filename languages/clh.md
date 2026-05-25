@@ -1,8 +1,6 @@
 ---
 iso: clh
 name: Chilisso
-name_zh: 奇利索语
-name_zh_auto: true
 autonym: Chiliss
 alt_names: [Chiliso, Dardu, Galos, Lenga chilisso]
 population: 2300
@@ -16,5 +14,13 @@ glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Indo-Aryan > Middle-Modern Indo-Aryan > Eastern Dardic > Nuclear Eastern Dardic > Kohistani > Indus Kohistanic > Outer Indus Kohistani > Chilisso"
 wikipedia_url: "https://en.wikipedia.org/wiki/Chilisso_language"
+translations:
+  - translation_iso: hin
+    name: चीलीस्सो भाषा
+  - translation_iso: jpn
+    name: チリッソ語
+  - translation_iso: zho
+    name: 奇利索语
+    auto: true
 ---
 Chilisso is an Indo-Aryan language spoken by a thousand people in eastern Kohistan, Pakistan.

@@ -1,8 +1,6 @@
 ---
 iso: bvm
 name: Bamunka
-name_zh: 巴蒙卡语
-name_zh_auto: true
 autonym: Bamunka
 alt_names: [Bamunkun, Mbika, Muka, Ndop-Bamunka, Niemeng]
 population: 31000
@@ -16,5 +14,9 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Wide Grassfields > Narrow Grassfields > Ring > South Ring > Bamunka"
 wikipedia_url: "https://en.wikipedia.org/wiki/Munka_language"
+translations:
+  - translation_iso: zho
+    name: 巴蒙卡语
+    auto: true
 ---
 The Bamunka language, Ŋgieməkɔʼkə Bamunka pronunciation: [ˈŋgiěꜜmə́ˌkɔ̀ʔkə̌], is a Grassfields Bantu language of Cameroon.

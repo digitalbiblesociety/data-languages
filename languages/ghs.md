@@ -1,7 +1,6 @@
 ---
 iso: ghs
 name: "Guhu-Samane"
-name_zh: 古湖-珊曼语
 autonym: null
 alt_names: [Bia, Guhu-Semane, Mid-Waria, Muri, Paiawa, Tahari]
 population: 12000
@@ -15,6 +14,9 @@ glottolog_family_id: nucl1709
 glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Greater Binanderean > Guhu-Samane"
 wikipedia_url: "https://en.wikipedia.org/wiki/Guhu-Samane_language"
+translations:
+  - translation_iso: zho
+    name: 古湖-珊曼语
 rolv_dialects:
   - rolv_code: 2494
     language_tag: ghs-x-HIS02494

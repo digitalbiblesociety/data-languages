@@ -1,8 +1,6 @@
 ---
 iso: aer
 name: Eastern Arrernte
-name_zh: 东部阿瑞伦特语
-name_zh_auto: true
 autonym: Arrernte
 alt_names: ["A'randa", Aldolanga, Aldolinga, Alitera, Aranda, Aranda (Eastern), Aranta, Arinta, Arranda, Arrernte (Eastern), Arrernte (Mparntwe), "Arrernte, Eastern", Arrinda, Arrundta, Arrunta, Arunda, Arunta, Arunta Ulpma, Burrin-gah, E Aranda, E. Arrernte, Eastern, Eastern Aranda, Eastern and Central Arrernte, Herrinda, Ilpma, Jairunda, Lower Aranda, Mparntwe Arrernte, Oiljpma, Paroola, Pitjapitja, Pitjima, Ulpma, Ur-rundie, Urrundie, Waitjinga, Wonggaranda, Wongkatjeri, Wychinga]
 population: 1910
@@ -15,6 +13,10 @@ glottocode: east2379
 glottolog_family_id: pama1250
 glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > Arandic-Thura-Yura > Arandic > South Arandic > Upper Arrernte > Central-Eastern Arrernte > Eastern Arrernte"
+translations:
+  - translation_iso: zho
+    name: 东部阿瑞伦特语
+    auto: true
 rolv_dialects:
   - rolv_code: 24202
     language_tag: aer-x-HIS24202

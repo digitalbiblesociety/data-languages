@@ -1,8 +1,6 @@
 ---
 iso: glw
 name: Glavda
-name_zh: 格拉夫达语
-name_zh_auto: true
 autonym: Galvaxdaxa
 alt_names: [Galavda, Gelebda, Gelvaxdaxa, Glanda, Guelebda, Vale]
 population: 31300
@@ -16,6 +14,10 @@ glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > Biu-Mandara > North Biu-Mandara > Margi-Mandara-Mofu > Mandaraic > Wandala-Malgwa-Glavda > Glavda"
 wikipedia_url: "https://en.wikipedia.org/wiki/Glavda_language"
+translations:
+  - translation_iso: zho
+    name: 格拉夫达语
+    auto: true
 rolv_dialects:
   - rolv_code: 10262
     language_tag: glw-x-HIS10262

@@ -1,8 +1,6 @@
 ---
 iso: tsp
 name: Northern Toussian
-name_zh: 北图西亚语
-name_zh_auto: true
 autonym: Wín
 alt_names: [Toussian, Toussian (Northern), Toussian (Southern), "Toussian, Northern", Tusia, Tusian]
 population: 1000
@@ -15,6 +13,10 @@ glottocode: nort2787
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Gur > Tusia > Northern Toussian"
+translations:
+  - translation_iso: zho
+    name: 北图西亚语
+    auto: true
 rolv_dialects:
   - rolv_code: 17627
     language_tag: tsp-x-HIS17627

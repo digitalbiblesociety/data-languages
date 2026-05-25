@@ -1,8 +1,6 @@
 ---
 iso: qux
 name: Yauyos Quechua
-name_zh: 亚乌约斯克丘亚语
-name_zh_auto: true
 autonym: Huangáscar–Topará
 alt_names: [Huangascar-Topara-Yauyos Quechua, Huangascar-Topará, Quechua, Quechua de Yauyos, Quechua de Yauyos., "Quechua, Yauyos", Yauyos, Yauyos Kechua]
 population: 6500
@@ -16,6 +14,10 @@ glottolog_family_id: quec1387
 glottolog_family_name: Quechuan
 glottolog_classification: "Quechuan > Quechua I > Yauyosic > Yauyos Quechua"
 wikipedia_url: "https://en.wikipedia.org/wiki/Yauyos_Quechua"
+translations:
+  - translation_iso: zho
+    name: 亚乌约斯克丘亚语
+    auto: true
 rolv_dialects:
   - rolv_code: 15885
     language_tag: qux-x-HIS15885

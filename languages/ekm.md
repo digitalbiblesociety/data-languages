@@ -1,8 +1,6 @@
 ---
 iso: ekm
 name: Elip
-name_zh: 埃利普语
-name_zh_auto: true
 autonym: Belibi
 alt_names: [Belip, Libie, Nuasue, Nulibie]
 population: 6400
@@ -15,6 +13,10 @@ glottocode: elip1238
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > Mbam-Bubi > Mbam > Nuclear Mbam > Bati-Mbure-Yambassa > Mbure-Yambassa > Yambassa (A.60) > Mmala-Elip-Gunu > Elip-Gunu > Elip"
+translations:
+  - translation_iso: zho
+    name: 埃利普语
+    auto: true
 rolv_dialects:
   - rolv_code: 24116
     language_tag: ekm-x-HIS24116

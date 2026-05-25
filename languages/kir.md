@@ -1,7 +1,6 @@
 ---
 iso: kir
 name: Kirghiz
-name_zh: 柯尔克孜语
 autonym: " قىرعىز تئلى"
 alt_names: [Bahasa Kirgiz, Fu-Yu Kirghiz, Fu-Yu Kyrgyz, Idioma kirguís, Język kirgiski, Kara, Kara-Kirgiz, "Ke'erkez", Kirg(h)iz, Kirghiz (Fu-Yu), Kirghizi, Kirgiisi keel, Kirgiisin kieli, Kirgisische Sprache, Kirgisischen, Kirgisisk, Kirgiski jezik, Kirgiz, Kirgiza lingvo, Kirgizeg, Kirgizera, Kirgizisch, Kirgiziska, Kirgizysk, Kirgizština, Kirgizų kalba, Kirgiški jezik, Kirkis simi, Kyrgyz, Kyrgyz language, Kyrgyzština, Kırgızca, Limba kârgâză, Lingua kirghiza, Língua quirguiz, Qazaqisch, Qyrghyz, Qırğız dili, Qırğız tili, Takirgizit, Забони қирғизӣ, Кăркăс чĕлхи, Киргизки език, Киргизский язык, Киргизька мова, Киргиски јазик, Киргиски језик, Кыргыз тили, Кыргыз тыла, Кыргыз хэл, קירגיזית, زبان قرقیزی, قىرغىز تىلى, لغة قرغيزية, किर्गिज़ भाषा, किर्गिझ भाषा, ภาษาคีร์กีซ, ყირგიზული ენა, キルギス語, 柯爾克孜語, 키르기스어]
 population: 118000
@@ -16,6 +15,17 @@ glottolog_family_id: turk1311
 glottolog_family_name: Turkic
 glottolog_classification: "Turkic > Common Turkic > Kipchak-Turkestan > Kipchak > Southeast Kipchak > East Kipchak > Kirghiz"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kyrgyz_language"
+translations:
+  - translation_iso: ara
+    name: القرغيزية
+  - translation_iso: hin
+    name: किर्गिज़ भाषा
+  - translation_iso: jpn
+    name: キルギス語
+  - translation_iso: kor
+    name: 키르기스어
+  - translation_iso: zho
+    name: 柯尔克孜语
 rolv_dialects:
   - rolv_code: 12041
     language_tag: ky-x-HIS12041

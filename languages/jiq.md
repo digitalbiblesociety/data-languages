@@ -1,7 +1,6 @@
 ---
 iso: jiq
 name: Guanyinqiao
-name_zh: 拉坞戎语
 autonym: Lavrung
 alt_names: [Khroskyabs, Western Jiarong, Zhongzhai, bósʁæi, ཁོ་སྐྱབས།, 绰斯甲]
 population: 50000
@@ -15,6 +14,11 @@ glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Burmo-Qiangic > Na-Qiangic > Qiangic > Gyalrongic > West Gyalrongic > Nuclear West Gyalrongic > Khroskyabs"
 wikipedia_url: "https://en.wikipedia.org/wiki/Khroskyabs_language"
+translations:
+  - translation_iso: jpn
+    name: ラヴロン語
+  - translation_iso: zho
+    name: 拉坞戎语
 rolv_dialects:
   - rolv_code: 26697
     language_tag: jiq-x-HIS26697

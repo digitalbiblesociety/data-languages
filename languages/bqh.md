@@ -1,7 +1,6 @@
 ---
 iso: bqh
 name: Baima
-name_zh: 白马语
 autonym: Pe
 alt_names: [Bai Ma, ภาษาไบมา, 白馬語, 白马语]
 population: 11000
@@ -15,6 +14,11 @@ glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Bodic > Bodish > Early Old Tibetan > Middle Old Tibetan > Late Old Tibetan > Eastern Tibetic > Baima"
 wikipedia_url: "https://en.wikipedia.org/wiki/Baima_language"
+translations:
+  - translation_iso: jpn
+    name: 白馬語
+  - translation_iso: zho
+    name: 白马语
 rolv_dialects:
   - rolv_code: 24498
     language_tag: bqh-x-HIS24498

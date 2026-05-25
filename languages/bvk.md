@@ -1,8 +1,6 @@
 ---
 iso: bvk
 name: Bukat
-name_zh: 布卡特语
-name_zh_auto: true
 autonym: null
 population: 400
 country_id: ID
@@ -15,5 +13,9 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > North Borneo Malayo-Polynesian > Central Sarawak > Punan-Muller-Schwaner > Punan > Bukat-Ukit-Beketan-Lugat-Lisum > Bukat"
 wikipedia_url: "https://en.wikipedia.org/wiki/Bukat_language"
+translations:
+  - translation_iso: zho
+    name: 布卡特语
+    auto: true
 ---
 Bukat is a language of West Kalimantan, Indonesia, one of several spoken by the Penan people.

@@ -1,8 +1,6 @@
 ---
 iso: ppo
 name: Folopa
-name_zh: 福洛帕语
-name_zh_auto: true
 autonym: null
 alt_names: [Foraba, Keai, Podoba, Podopa, Polopa, Ro, Sesa, Worugi]
 population: 3200
@@ -16,6 +14,12 @@ glottolog_family_id: tebe1251
 glottolog_family_name: Teberan
 glottolog_classification: "Teberan > Folopa"
 wikipedia_url: "https://en.wikipedia.org/wiki/Folopa_language"
+translations:
+  - translation_iso: jpn
+    name: フォロパ語
+  - translation_iso: zho
+    name: 福洛帕语
+    auto: true
 rolv_dialects:
   - rolv_code: 1218
     language_tag: ppo-x-HIS01218

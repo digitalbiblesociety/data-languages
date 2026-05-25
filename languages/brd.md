@@ -1,7 +1,6 @@
 ---
 iso: brd
 name: Baraamu
-name_zh: 巴拉姆语
 autonym: Baraamu
 alt_names: ["Ba:rhmu", Balbang, "Bar?m", Baram, Baramu, Barhamu, "Bhra:mu", Bhramu, Bhrāmu, Brahmu, Bramu, baramú]
 population: 2000
@@ -15,6 +14,9 @@ glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Himalayish > Mahakiranti > Newaric > Thangmi-Baram > Baraamu"
 wikipedia_url: "https://en.wikipedia.org/wiki/Baram_language"
+translations:
+  - translation_iso: zho
+    name: 巴拉姆语
 rolv_dialects:
   - rolv_code: 24523
     language_tag: brd-x-HIS24523

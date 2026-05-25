@@ -1,7 +1,6 @@
 ---
 iso: kaj
 name: Jju
-name_zh: 卡捷語
 autonym: Kaje
 alt_names: [Kache, Kajji]
 population: 580000
@@ -16,5 +15,16 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Benue-Congo Plateau > West-Central Benue-Congo Plateau > Zaric > Nuclear Zaric > Katabic > Jju"
 wikipedia_url: "https://en.wikipedia.org/wiki/Jju_language"
+translations:
+  - translation_iso: ara
+    name: الجيو
+  - translation_iso: hin
+    name: ज्जू
+  - translation_iso: jpn
+    name: カジェ語
+  - translation_iso: kor
+    name: 까꼬토끄어
+  - translation_iso: zho
+    name: 卡捷語
 ---
 Jju is the native language of the Bajju people of Kaduna State in central Nigeria. As of 1988, there were approximately 300,000 speakers. Jju is one of the Southern Kaduna languages. Although usually listed separately from the Tyap cluster, Jju's separation, according to Blench R.M. (2018), seems to be increasingly ethnic rather than a linguistic reality.

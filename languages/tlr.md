@@ -1,8 +1,6 @@
 ---
 iso: tlr
 name: Talise
-name_zh: 塔利塞语
-name_zh_auto: true
 autonym: Tolo
 alt_names: [Guadalcanar, Südliche Salomons-Inseln, Talisi]
 population: 12500
@@ -16,6 +14,10 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Southeast Solomonic > Guadalcanal-Nggelic > Southeast Guadalcanal > Talise"
 wikipedia_url: "https://en.wikipedia.org/wiki/Talise_language"
+translations:
+  - translation_iso: zho
+    name: 塔利塞语
+    auto: true
 rolv_dialects:
   - rolv_code: 648
     language_tag: tlr-x-HIS00648

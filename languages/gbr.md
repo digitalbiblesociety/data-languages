@@ -1,8 +1,6 @@
 ---
 iso: gbr
 name: Gbagyi
-name_zh: 加巴吉语
-name_zh_auto: true
 autonym: East Gwari
 alt_names: [Gbagye, Gwari, Gwari Matai, Ibagyi]
 population: 1230000
@@ -15,6 +13,10 @@ glottocode: gbag1258
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Ebira-Nupoid > Macro-Nupoid > Gbagyi-Gbari > Gbagyi"
+translations:
+  - translation_iso: zho
+    name: 加巴吉语
+    auto: true
 rolv_dialects:
   - rolv_code: 10080
     language_tag: gbr-x-HIS10080

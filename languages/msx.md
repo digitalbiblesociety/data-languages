@@ -1,8 +1,6 @@
 ---
 iso: msx
 name: Moresada
-name_zh: 莫雷萨达语
-name_zh_auto: true
 autonym: Murisapa
 alt_names: [Murusapa, Murusapa-Sarewa]
 population: 200
@@ -16,5 +14,9 @@ glottolog_family_id: nucl1709
 glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Madang > Kalamic-South Adelbert > South Adelbert > Osum-Wadaginam-Pomoikan > Pomoikan > Anamuxric > Moresada"
 wikipedia_url: "https://en.wikipedia.org/wiki/Moresada_language"
+translations:
+  - translation_iso: zho
+    name: 莫雷萨达语
+    auto: true
 ---
 Moresada is a Papuan language of Madang Province, Papua New Guinea.

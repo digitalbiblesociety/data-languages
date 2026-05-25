@@ -1,7 +1,6 @@
 ---
 iso: ute
 name: "Ute-Southern Paiute"
-name_zh: 犹特语
 autonym: Southern Paiute
 alt_names: ["\"ute (Colorado, Ute des montagnes)\"", "\"ute (Colorado, Ute méridional)\"", Chemehuevi, Colorado River Numic language, Idioma paiute meridional, Outeg, Pai Ute, Paiute, Paiute (Southern), Paiute du sud, Paviotso, S. Paiute, South Paiute, Southern, Ute, Ute (Utah), Ute-Chemehuevi, Uté (Utah)]
 population: 1900
@@ -15,6 +14,13 @@ glottolog_family_id: utoa1244
 glottolog_family_name: Uto-Aztecan
 glottolog_classification: "Uto-Aztecan > Northern Uto-Aztecan > Numic > Southern Numic > Ute-Southern Paiute"
 wikipedia_url: "https://en.wikipedia.org/wiki/Colorado_River_Numic_language"
+translations:
+  - translation_iso: ara
+    name: إيتوه
+  - translation_iso: jpn
+    name: ユト語
+  - translation_iso: zho
+    name: 犹特语
 rolv_dialects:
   - rolv_code: 3141
     language_tag: ute-x-HIS03141

@@ -1,7 +1,6 @@
 ---
 iso: dis
 name: Dimasa
-name_zh: 迪马萨语
 autonym: "Grao-Dima /গ্ৰাউ-ডিমা"
 alt_names: [Dimasa Kachari, Hill Kachari, Lenga Dimasa, Lingua Dimasa, ডিমাসা ভাষা]
 population: 137000
@@ -15,6 +14,13 @@ glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Brahmaputran > Bodo-Garo > Boroic > Dimasa-Kokborok > Dimasa"
 wikipedia_url: "https://en.wikipedia.org/wiki/Dimasa_language"
+translations:
+  - translation_iso: hin
+    name: दिमासा भाषा
+  - translation_iso: jpn
+    name: ディマサ語
+  - translation_iso: zho
+    name: 迪马萨语
 rolv_dialects:
   - rolv_code: 9269
     language_tag: dis-x-HIS09269

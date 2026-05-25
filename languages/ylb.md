@@ -1,13 +1,15 @@
 ---
 iso: ylb
 name: Yaleba
-name_zh: 亚莱巴语
-name_zh_auto: true
 autonym: Aisana
 population: null
 country_id: PG
 country_name: Papua New Guinea
 status_id: 6a
+translations:
+  - translation_iso: zho
+    name: 亚莱巴语
+    auto: true
 rolv_dialects:
   - rolv_code: 26370
     language_tag: ylb-x-HIS26370

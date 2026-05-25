@@ -1,8 +1,6 @@
 ---
 iso: hmv
 name: Hmong Dô
-name_zh: 东苗语
-name_zh_auto: true
 autonym: lus Hmoob / lug Moob / lol Hmongb
 alt_names: [Hmo, Hmong, Hmong Do, Hmung, Hsiung, Hunan Miao, Miao]
 population: null
@@ -15,4 +13,8 @@ glottocode: hmon1332
 glottolog_family_id: hmon1336
 glottolog_family_name: Hmong-Mien
 glottolog_classification: "Hmong-Mien > Hmongic > Nuclear Hmongic-Ho Ne > Nuclear Hmongic > West Hmongic > Greater Chuanqiandian > Chuanqiandian > First Vernacular Hmong > Far Western Miao > Unclassified First Vernacular Hmong > Hmong Dô"
+translations:
+  - translation_iso: zho
+    name: 东苗语
+    auto: true
 ---

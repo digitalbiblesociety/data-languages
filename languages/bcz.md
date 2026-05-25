@@ -1,8 +1,6 @@
 ---
 iso: bcz
 name: "Bainouk-Gunyaamolo"
-name_zh: 拜努克-古尼亚莫罗语
-name_zh_auto: true
 autonym: Bainouk
 alt_names: [Bagnoun, Bainuk, Bainuko-gunyaamolo, Banhum, Banyuk, Banyum, Banyun, Banyung, Elomay, Elunay, Gunyaamolo, Guñaamolo, Niamone, Ñuñ]
 population: 30000
@@ -15,6 +13,12 @@ glottocode: bain1261
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > North-Central Atlantic > Wolof-BKK > Nyun > Bainounk > Bainouk-Gunyaamolo-Gutobor"
+translations:
+  - translation_iso: kor
+    name: 바이누크구니아몰로어
+  - translation_iso: zho
+    name: 拜努克-古尼亚莫罗语
+    auto: true
 rolv_dialects:
   - rolv_code: 1852
     language_tag: bcz-x-HIS01852

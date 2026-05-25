@@ -1,7 +1,6 @@
 ---
 iso: lsl
 name: Latvian Sign Language
-name_zh: 拉脱维亚手语
 autonym: Latviešu zīmju valoda
 population: 2000
 country_id: LV
@@ -14,5 +13,10 @@ glottolog_family_id: sign1238
 glottolog_family_name: Sign Language
 glottolog_classification: "Sign Language > L1 Sign Language > Latvian Sign Language"
 wikipedia_url: "https://en.wikipedia.org/wiki/Latvian_Sign_Language"
+translations:
+  - translation_iso: jpn
+    name: ラトビア手話
+  - translation_iso: zho
+    name: 拉脱维亚手语
 ---
 Latvian Sign Language is a sign language commonly used by deaf people in Latvia. Linguists use LSL as an acronym for Latvian Sign Language.

@@ -1,8 +1,6 @@
 ---
 iso: zlj
 name: Liujiang Zhuang
-name_zh: 柳江壮语
-name_zh_auto: true
 autonym: Vahcuengh (za)
 alt_names: [Chuang, Liuchiang, Liujiang, Zhuang, Zhuang (Northern), "Zhuang, Liujiang"]
 population: 1560000
@@ -15,6 +13,12 @@ glottocode: liuj1238
 glottolog_family_id: taik1256
 glottolog_family_name: Tai-Kadai
 glottolog_classification: "Tai-Kadai > Kam-Tai > Daic-Beic > Daic > Northern Daic-Sek > Northern Daic > Northern Tai > Lianshan-Liujiang > Liujiang Zhuang"
+translations:
+  - translation_iso: jpn
+    name: 柳江チワン語
+  - translation_iso: zho
+    name: 柳江壮语
+    auto: true
 rolv_dialects:
   - rolv_code: 6128
     language_tag: zlj-x-HIS06128

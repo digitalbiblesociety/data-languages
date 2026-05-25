@@ -1,8 +1,6 @@
 ---
 iso: wth
 name: Wathawurrung
-name_zh: 瓦塔乌伦语
-name_zh_auto: true
 autonym: Wathaurong
 alt_names: [Wada wurrung, Wadawio, Waddorow, Wadhaurung, Wadjawuru, Wadourer, Wadthaurung, Waitowrung, Warra, Wathaurung, Wathawurung, Wathurung, Watorrong, Wiityahuurong, Wioura, Witaoro, Witawurong, Witoura, Witouro, Witowro, Witowurong. Witowurrong, Witowurrong, Witowurrung, Witowurung, Wittyawhuurong, Wod-dowrong, Woddowro, Woddowrong, Wollowurong, Wooeewoorong, Wothowurong, Wuddyawurra, Wuddyawurru, Wudja-wurung, Wudjawuru, Wudjawurung, Wudthaurung]
 population: null
@@ -16,5 +14,9 @@ glottolog_family_id: pama1250
 glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > Southeastern Pama-Nyungan > Victorian Pama-Nyungan > Kulin-Bunganditj > Kulin > Nuclear Kulin > Wathawurrung"
 wikipedia_url: "https://en.wikipedia.org/wiki/Wadawurrung_language"
+translations:
+  - translation_iso: zho
+    name: 瓦塔乌伦语
+    auto: true
 ---
 Wadawurrung, also rendered as Wathawurrung, Wathaurong or Wada wurrung, and formerly sometimes Barrabool, is the Aboriginal Australian language spoken by the Wadawurrung people of the Kulin Nation of Central Victoria. It was spoken by 15 clans south of the Werribee River and the Bellarine Peninsula to Streatham. Various regional programs and initiatives promote the usage and revitalisation of Wadawurrung language.

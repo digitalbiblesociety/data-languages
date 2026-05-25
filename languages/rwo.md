@@ -1,8 +1,6 @@
 ---
 iso: rwo
 name: Rawa
-name_zh: 拉瓦语
-name_zh_auto: true
 autonym: Karo
 alt_names: [Erawa, Erewa, Karo/Rawa, Raua]
 population: 11500
@@ -16,6 +14,10 @@ glottolog_family_id: nucl1709
 glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Finisterre-Huon > Finisterre-Saruwaged > Gusap-Mot > Ufim-Rawa-Nahu > Rawa"
 wikipedia_url: "https://en.wikipedia.org/wiki/Rawa_language"
+translations:
+  - translation_iso: zho
+    name: 拉瓦语
+    auto: true
 rolv_dialects:
   - rolv_code: 15946
     language_tag: rwo-x-HIS15946

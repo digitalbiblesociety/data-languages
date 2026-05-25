@@ -1,8 +1,6 @@
 ---
 iso: cui
 name: Cuiba
-name_zh: 库伊巴语
-name_zh_auto: true
 autonym: null
 alt_names: [Chiricoa, Cuiba-Wámonae, Cuiva, Hiwi, Kuiva, Kviba lingvo, Maiben]
 population: 1500
@@ -16,6 +14,10 @@ glottolog_family_id: guah1252
 glottolog_family_name: Guahiboan
 glottolog_classification: "Guahiboan > Nuclear Guahiboan > Central Guahibo > Cuiba"
 wikipedia_url: "https://en.wikipedia.org/wiki/Cuiba_language"
+translations:
+  - translation_iso: zho
+    name: 库伊巴语
+    auto: true
 rolv_dialects:
   - rolv_code: 9039
     language_tag: cui-x-HIS09039

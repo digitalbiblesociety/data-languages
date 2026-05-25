@@ -1,8 +1,6 @@
 ---
 iso: ukg
 name: Ukuriguma
-name_zh: 乌库里古马语
-name_zh_auto: true
 autonym: null
 population: 170
 country_id: PG
@@ -15,6 +13,10 @@ glottolog_family_id: nucl1709
 glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Madang > Croisilles > Greater Northern Adelbert > Northern Adelbert > Numugenan > Yarawata-Parawen-Ukuriguma > Ukuriguma"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ukuriguma_language"
+translations:
+  - translation_iso: zho
+    name: 乌库里古马语
+    auto: true
 rolv_dialects:
   - rolv_code: 30367
     language_tag: ukg-x-HIS30367

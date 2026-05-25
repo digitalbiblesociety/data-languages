@@ -1,8 +1,6 @@
 ---
 iso: wbw
 name: Woi
-name_zh: 沃伊语
-name_zh_auto: true
 autonym: "Wo'oi"
 alt_names: [Woi language]
 population: 1300
@@ -16,5 +14,9 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > South Halmahera-West New Guinea > Cenderawasih Bay > Yapen > Central-Western Yapen > Ansus-Ambai > Woi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Woi_language"
+translations:
+  - translation_iso: zho
+    name: 沃伊语
+    auto: true
 ---
 Woi (Wooi) is a Malayo-Polynesian language of Papua, Indonesia mainly spoken in the villages of Wooi and Woinap on Yapen Island and the village of Yenuari on Moisnum Island.

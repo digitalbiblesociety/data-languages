@@ -1,8 +1,6 @@
 ---
 iso: rir
 name: Ribun
-name_zh: 里本语
-name_zh_auto: true
 autonym: bahasa Ribun
 alt_names: [Indonesia]
 population: 45000
@@ -16,5 +14,9 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Land Dayak > Bidayuh-Southern Land Dayak > Southern Land Dayak > Ribun"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ribun_language"
+translations:
+  - translation_iso: zho
+    name: 里本语
+    auto: true
 ---
 Ribun is a Dayak language of Borneo.

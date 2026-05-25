@@ -1,7 +1,6 @@
 ---
 iso: ngb
 name: Northern Ngbandi
-name_zh: 北恩班迪语
 autonym: Baza
 alt_names: [Dendi, Mbangi, Mongwandi, Ngbandi, "Ngbandi, Northern", Ngwandi, Yakoma (Sango)]
 population: 250000
@@ -14,4 +13,7 @@ glottocode: nort2774
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Cameroun-Ubangian > Ubangi > Ngbandi-Mongoba-Kazibati > Ngbandic > Nuclear Ngbandic > Northern Ngbandi"
+translations:
+  - translation_iso: zho
+    name: 北恩班迪语
 ---

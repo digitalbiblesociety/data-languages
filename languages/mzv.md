@@ -1,8 +1,6 @@
 ---
 iso: mzv
 name: Manza
-name_zh: 曼扎语
-name_zh_auto: true
 autonym: Mandja
 alt_names: [Manja]
 population: 220000
@@ -16,5 +14,9 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Gbaya-Manza-Ngbaka > Gbaya Oriental > Gbanu-Manza-Ngbaka > Manza-Ngbaka > Manzaic > Manza"
 wikipedia_url: "https://en.wikipedia.org/wiki/Manza_language"
+translations:
+  - translation_iso: zho
+    name: 曼扎语
+    auto: true
 ---
 Manza is a Ubangian language spoken by the Mandja people of the Central African Republic. It is closely related to Ngbaka and may be to some extent mutually intelligible.

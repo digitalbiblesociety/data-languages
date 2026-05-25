@@ -1,8 +1,6 @@
 ---
 iso: adq
 name: Adangbe
-name_zh: 阿当贝语
-name_zh_auto: true
 autonym: Adangbe
 alt_names: [Adan, Adantonwi, Agotime, Dangbe]
 population: 2200
@@ -16,6 +14,10 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Kwa Volta-Congo > Gbe > Western Gbe > Eweic > Adangbe"
 wikipedia_url: "https://en.wikipedia.org/wiki/Agotime_language"
+translations:
+  - translation_iso: zho
+    name: 阿当贝语
+    auto: true
 rolv_dialects:
   - rolv_code: 6026
     language_tag: adq-x-HIS06026

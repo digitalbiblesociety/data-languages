@@ -1,7 +1,6 @@
 ---
 iso: tzh
 name: Tzeltal
-name_zh: 澤套語
 autonym: Batsʼil Kʼop
 alt_names: [Aguacatenango dialect, "B'atz'il k'op", Cancuc, Chanal, Highland Tzeltal, Idioma tzeltal, Język tseltal, Lingua tzeltal, Língua tseltal, Tenango, Tenejapa, Tseltal, Tseltal simi, Tzeltal (Aguacatenango), Tzeltal (Bachajón), Tzeltal (Tenejapa), "Tzeltal, Oxchuc", Tzendal, Tzéndal, Целталски јазик, 澤套語]
 population: 557000
@@ -15,6 +14,13 @@ glottolog_family_id: maya1287
 glottolog_family_name: Mayan
 glottolog_classification: "Mayan > Core Mayan > Western Mayan > Cholan-Tzeltalan > Tzeltalan > Tzeltal"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tzeltal_language"
+translations:
+  - translation_iso: jpn
+    name: ツェルタル語
+  - translation_iso: kor
+    name: 첼탈어
+  - translation_iso: zho
+    name: 澤套語
 rolv_dialects:
   - rolv_code: 58
     language_tag: tzh-x-HIS00058

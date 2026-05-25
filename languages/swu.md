@@ -1,8 +1,6 @@
 ---
 iso: swu
 name: Suwawa
-name_zh: 苏瓦瓦语
-name_zh_auto: true
 autonym: "Suwawa-Bunda"
 alt_names: [Bonda, Bunda, Bune]
 population: 21000
@@ -16,6 +14,12 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Greater Central Philippine > Gorontalo-Mongondow > Gorontalic > Suwawa"
 wikipedia_url: "https://en.wikipedia.org/wiki/Suwawa_language"
+translations:
+  - translation_iso: jpn
+    name: スワワ語
+  - translation_iso: zho
+    name: 苏瓦瓦语
+    auto: true
 ---
 Suwawa is a Philippine language spoken in North Sulawesi (Celebes), Indonesia.
 It is also known as Bonda, Bone, Bunda, Bune, Suvava, and Toewawa. It is spoken by the Suwawa people. The language mostly spoken in Suwawa District, Regency of Bone Bolango.

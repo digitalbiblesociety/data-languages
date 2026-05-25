@@ -1,8 +1,6 @@
 ---
 iso: bxp
 name: Bebil
-name_zh: 贝比尔语
-name_zh_auto: true
 autonym: Gbïgbïl
 alt_names: [Bobilis, Gbigbil]
 population: 6000
@@ -16,5 +14,9 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > Bantu A-B10-B20-B30 > Basaa-Yaunde (A40-70) > Yaunde-Fang (A.70) > Ewondo-Bebele > Bebil"
 wikipedia_url: "https://en.wikipedia.org/wiki/Bebil_language"
+translations:
+  - translation_iso: zho
+    name: 贝比尔语
+    auto: true
 ---
 Bebil (Gbïgbïl) is a Bantu language of Cameroon. It is mutually intelligible with other Beti dialects.

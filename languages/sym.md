@@ -1,8 +1,6 @@
 ---
 iso: sym
 name: Maya Samo
-name_zh: 玛亚萨莫语
-name_zh_auto: true
 autonym: Sane
 alt_names: [Northeastern Samo, Northern Samo, Sa, Samo, "Samo, Maya", San, Somono]
 population: 38000
@@ -15,6 +13,10 @@ glottocode: maya1281
 glottolog_family_id: mand1469
 glottolog_family_name: Mande
 glottolog_classification: "Mande > Eastern Mande > Bisa-Busa > Samo-Busa > Mande Samo > Maya Samo"
+translations:
+  - translation_iso: zho
+    name: 玛亚萨莫语
+    auto: true
 rolv_dialects:
   - rolv_code: 1743
     language_tag: sym-x-HIS01743

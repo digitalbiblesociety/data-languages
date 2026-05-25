@@ -1,8 +1,6 @@
 ---
 iso: yuf
 name: "Havasupai-Walapai-Yavapai"
-name_zh: 哈瓦苏派-瓦拉派-亚瓦派语
-name_zh_auto: true
 autonym: "Havasupai-WalapaiUpland Yuman"
 alt_names: [Havasupai, Hualapai, Northern Pai, Pai, Upland, Upland Yuman, Upper Colorado River Yuman, Upper River Yuman, Walapai, Walapai-Havasupai-Yavapai, Yavapai, Yavapái, Yuman (Upland)]
 population: null
@@ -15,6 +13,10 @@ glottocode: hava1248
 glottolog_family_id: coch1271
 glottolog_family_name: Cochimi-Yuman
 glottolog_classification: "Cochimi-Yuman > Yuman > General Yuman > Pai > Havasupai-Walapai-Yavapai"
+translations:
+  - translation_iso: zho
+    name: 哈瓦苏派-瓦拉派-亚瓦派语
+    auto: true
 rolv_dialects:
   - rolv_code: 328
     language_tag: yuf-x-HIS00328

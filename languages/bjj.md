@@ -1,7 +1,6 @@
 ---
 iso: bjj
 name: Kanauji
-name_zh: 卡瑙杰語
 autonym: कन्नौजी
 alt_names: [Bhakha, Braj, Braj Kanauji, Kanaudji, Kannauji, கனாவுஜி மொழி, ภาษากาเนาชี]
 population: 6000000
@@ -16,6 +15,13 @@ glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Indo-Aryan > Middle-Modern Indo-Aryan > Continental Indo-Aryan > Midlands Indo-Aryan > Shaurasenic > Indo-Aryan Central zone > Western Hindi > Haryanvic > Kanauji"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kannauji_language"
+translations:
+  - translation_iso: hin
+    name: कन्नौजी
+  - translation_iso: jpn
+    name: カナウジ語
+  - translation_iso: zho
+    name: 卡瑙杰語
 rolv_dialects:
   - rolv_code: 11502
     language_tag: bjj-x-HIS11502

@@ -1,8 +1,6 @@
 ---
 iso: mfq
 name: Moba
-name_zh: 莫巴语
-name_zh_auto: true
 autonym: Moba Lok
 alt_names: [Ben, Moa, Moab, Moare]
 population: 320800
@@ -15,6 +13,10 @@ glottocode: moba1244
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Gur > Central Gur > Northern Central Gur > Bwamu-Oti-Volta > Oti-Volta > Nuclear Oti-Volta > Gurma-Yom-Oti-Volta Occidental > Gurma-Yom-Naudem > Gurma > Gurma B > Gourmantche-Moba > Moba-Bimoba > Moba"
+translations:
+  - translation_iso: zho
+    name: 莫巴语
+    auto: true
 rolv_dialects:
   - rolv_code: 14159
     language_tag: mfq-x-HIS14159

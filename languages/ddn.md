@@ -1,7 +1,6 @@
 ---
 iso: ddn
 name: Dendi (Benin)
-name_zh: 登迪语
 autonym: Dandawa
 alt_names: [Dendi]
 population: 270050
@@ -15,6 +14,11 @@ glottolog_family_id: song1307
 glottolog_family_name: Songhay
 glottolog_classification: "Songhay > Eastern Songhay > Zarma-Kaado-Dendi > Dendi (Benin)"
 wikipedia_url: "https://en.wikipedia.org/wiki/Dendi_language"
+translations:
+  - translation_iso: jpn
+    name: デンディ語
+  - translation_iso: zho
+    name: 登迪语
 rolv_dialects:
   - rolv_code: 2799
     language_tag: ddn-x-HIS02799

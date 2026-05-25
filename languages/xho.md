@@ -1,7 +1,6 @@
 ---
 iso: xho
 name: Xhosa
-name_zh: 科萨语
 autonym: isiXhosa
 alt_names: ["\"Caffre\"", "\"Cafre\"", "\"Cauzuh\"", "\"Kaffer\"", "\"Kaffir\"", Bahasa Xhosa, Fiteny Xhosa, Gjuha xhosa, Idioma xhosa, Język xhosa, Koosa, Kosa lingvo, Kosum, Kosų kalba, Lingua xhosa, Língua xhosa, Xhosa simi, Xhosaeg, Xhosan kieli, Xosa, Xosa-linguo, Коса, Коса чĕлхи, Ксоза, Кхоса, زبان خوسا, コサ語, 科萨语, 코사어]
 population: 8183300
@@ -16,6 +15,17 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > East Bantu > Southern Bantu > Nuclear Southern Bantu > Dimsuffix Southern Bantu > Nguni-Tsonga-Copi > Nguni (S.40) > Nuclear Nguni > Southern Ndebele-Lowland > Xhosa"
 wikipedia_url: "https://en.wikipedia.org/wiki/Xhosa_language"
+translations:
+  - translation_iso: ara
+    name: الكوسية
+  - translation_iso: hin
+    name: ख़ोसा भाषा
+  - translation_iso: jpn
+    name: コサ語
+  - translation_iso: kor
+    name: 코사어
+  - translation_iso: zho
+    name: 科萨语
 rolv_dialects:
   - rolv_code: 18348
     language_tag: xh-x-HIS18348

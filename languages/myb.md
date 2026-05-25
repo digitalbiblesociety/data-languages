@@ -1,8 +1,6 @@
 ---
 iso: myb
 name: Mbay
-name_zh: 姆贝语
-name_zh_auto: true
 autonym: Sara Mbay
 alt_names: [Mbai, Mbay Moissala, Mbaye, Moissala Mbai, Sara Mbai]
 population: 88300
@@ -16,6 +14,14 @@ glottolog_family_id: cent2225
 glottolog_family_name: Central Sudanic
 glottolog_classification: "Central Sudanic > Sara-Bongo-Bagirmi > SBB Occidental > Nuclear SBB Occidental > Saraic > Sara Central > Sara Central Logone-Chari > Sido > Mbay"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mbay_language"
+translations:
+  - translation_iso: ara
+    name: مباي
+  - translation_iso: jpn
+    name: ンバイ語
+  - translation_iso: zho
+    name: 姆贝语
+    auto: true
 rolv_dialects:
   - rolv_code: 13892
     language_tag: myb-x-HIS13892

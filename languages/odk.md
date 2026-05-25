@@ -1,8 +1,6 @@
 ---
 iso: odk
 name: Od
-name_zh: 奥德语
-name_zh_auto: true
 autonym: Odki
 alt_names: [Oad]
 population: 2076100
@@ -16,5 +14,9 @@ glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Indo-Aryan > Middle-Modern Indo-Aryan > Continental Indo-Aryan > Midlands Indo-Aryan > Apabhramsic > Gujarati-Rajasthani > Rajasthani > Western Rajasthani > Indus Rajasthani > Od"
 wikipedia_url: "https://en.wikipedia.org/wiki/Od_language"
+translations:
+  - translation_iso: zho
+    name: 奥德语
+    auto: true
 ---
 Od, also known as Oad or Odki, is an Indo-Aryan language of India and Pakistan. It is spoken by around 2 million people in Gujarat, Rajasthan, Haryana, New Delhi, Punjab and Sindh. It has similarities to Marathi, with features also shared with Gujarati and borrowings from Marwari and Punjabi.

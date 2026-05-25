@@ -1,8 +1,6 @@
 ---
 iso: mkn
 name: Kupang Malay
-name_zh: 古邦马来语
-name_zh_auto: true
 autonym: "Bahasa-Bahasa Melayu Dagang dan Kreol"
 alt_names: [Basa Kupang, Kupang, "Malay, Kupang"]
 population: 200000
@@ -16,6 +14,10 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Malayo-Chamic > Malayic > Nuclear Malayic > Vehicular Malay > Eastern Indonesia Trade Malay > Kupang Malay"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kupang_Malay"
+translations:
+  - translation_iso: zho
+    name: 古邦马来语
+    auto: true
 rolv_dialects:
   - rolv_code: 13425
     language_tag: mkn-x-HIS13425

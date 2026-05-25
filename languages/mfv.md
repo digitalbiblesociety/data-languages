@@ -1,7 +1,6 @@
 ---
 iso: mfv
 name: Mandjak
-name_zh: 曼贾克语
 autonym: Kanyop
 alt_names: [Kenyop, Majak, Mandjaque, Mandyak, Manjaca, Manjack, Manjaco, Manjaku, Manjanku, Manjiak, Manyako, Mendyako, Ndjak, Ndyak, Sarar, Schadal]
 population: 407700
@@ -16,6 +15,11 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > North-Central Atlantic > Central Atlantic > Bak > Joola-Manjaku > Manjaku-Mankanya-Pepel > Cur-Bok-Cotier > Mandjak"
 wikipedia_url: "https://en.wikipedia.org/wiki/Manjak_language"
+translations:
+  - translation_iso: jpn
+    name: マンジャク語
+  - translation_iso: zho
+    name: 曼贾克语
 rolv_dialects:
   - rolv_code: 1674
     language_tag: mfv-x-HIS01674

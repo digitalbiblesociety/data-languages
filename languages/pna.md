@@ -1,8 +1,6 @@
 ---
 iso: pna
 name: "Punan Bah-Biau"
-name_zh: 普南巴巴乌语
-name_zh_auto: true
 autonym: "Bah-Biau"
 alt_names: [Malaysia]
 population: 450
@@ -16,6 +14,12 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > North Borneo Malayo-Polynesian > Central Sarawak > Punan-Muller-Schwaner > Punan > Punan Tubu-Bah > Punan Bah-Biau"
 wikipedia_url: "https://en.wikipedia.org/wiki/Bah-Biau_Punan_language"
+translations:
+  - translation_iso: ara
+    name: لغة باه بياو بونان
+  - translation_iso: zho
+    name: 普南巴巴乌语
+    auto: true
 rolv_dialects:
   - rolv_code: 15795
     language_tag: pna-x-HIS15795

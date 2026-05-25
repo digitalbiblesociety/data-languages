@@ -1,8 +1,6 @@
 ---
 iso: nbd
 name: Ngbinda
-name_zh: 恩古宾达语
-name_zh_auto: true
 autonym: Bangbinda
 alt_names: [Bungbinda]
 population: 4200
@@ -16,6 +14,10 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > Central-Western Bantu > North Zaire River > Rivers Bantu > Ngiri > Ngiri Terrien > Ngombe-Ababuan > Ababuan > Old Bomokandian > Ngbele-Ngenda > Ngendan > Ngbinda-Mayeka"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ngbinda_language"
+translations:
+  - translation_iso: zho
+    name: 恩古宾达语
+    auto: true
 rolv_dialects:
   - rolv_code: 31172
     language_tag: nbd-x-HIS31172

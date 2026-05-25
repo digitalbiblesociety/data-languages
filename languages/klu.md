@@ -1,8 +1,6 @@
 ---
 iso: klu
 name: Klao
-name_zh: 克劳语
-name_zh_auto: true
 autonym: Kru
 alt_names: [Klaoh, Klau, Krawi, Kroo]
 population: 400000
@@ -16,6 +14,10 @@ glottolog_family_id: krua1234
 glottolog_family_name: Kru
 glottolog_classification: "Kru > Greater Western Kru > Western Kru > Wee-Bassa-Klao > Bassa-Klao > Klao-Tajuasohn > Klao"
 wikipedia_url: "https://en.wikipedia.org/wiki/Klao_language"
+translations:
+  - translation_iso: zho
+    name: 克劳语
+    auto: true
 rolv_dialects:
   - rolv_code: 215
     language_tag: klu-x-HIS00215

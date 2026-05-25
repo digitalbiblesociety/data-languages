@@ -1,7 +1,6 @@
 ---
 iso: tew
 name: Tewa (USA)
-name_zh: 特瓦语
 autonym: Tewa
 alt_names: [Arizona Tewa, Hano, Hopi Tewa, Hopi-Tewa, Rio Grande Tewa, Tano, Tano (First Mesa), Tehua (Nuevo México), Tewa (Arizona), Tewa (Nouveau-Mexique), Tewa (Rio Grande), Tewa (San Juan Pueblo), Tewa (Tanoan)]
 population: 1300
@@ -15,6 +14,13 @@ glottolog_family_id: kiow1265
 glottolog_family_name: Kiowa-Tanoan
 glottolog_classification: "Kiowa-Tanoan > Tewa > Rio Grande Tewa"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tewa_language"
+translations:
+  - translation_iso: hin
+    name: तेवा भाषा
+  - translation_iso: jpn
+    name: テワ語
+  - translation_iso: zho
+    name: 特瓦语
 rolv_dialects:
   - rolv_code: 2159
     language_tag: tew-x-HIS02159

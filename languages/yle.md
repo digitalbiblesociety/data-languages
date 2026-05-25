@@ -1,7 +1,6 @@
 ---
 iso: yle
 name: Yele
-name_zh: 耶里多涅語
 autonym: Yélî Dnye
 alt_names: [Język yele, Rossel, Rossel Island, Yela, Yele jezik, Yeleg, Yelejong, Yeletnye, Yelidnye, Yelî Dnye]
 population: 5000
@@ -12,6 +11,13 @@ latitude: -11.37963
 longitude: 154.12664
 glottocode: yele1255
 wikipedia_url: "https://en.wikipedia.org/wiki/Yele_language"
+translations:
+  - translation_iso: jpn
+    name: イェレ語
+  - translation_iso: kor
+    name: 옐레어
+  - translation_iso: zho
+    name: 耶里多涅語
 rolv_dialects:
   - rolv_code: 18533
     language_tag: yle-x-HIS18533

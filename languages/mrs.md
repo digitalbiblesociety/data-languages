@@ -1,8 +1,6 @@
 ---
 iso: mrs
 name: Maragus
-name_zh: 马拉古斯语
-name_zh_auto: true
 autonym: Maragus
 alt_names: [Mallicolo, Maragaus, Tape]
 population: 15
@@ -16,6 +14,10 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > North and Central Vanuatu > Central Vanuatu > Malakula > Western Malakula linkage > Peripheral Western Malakula > Northwestern Malakula > Maragus"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tape_language"
+translations:
+  - translation_iso: zho
+    name: 马拉古斯语
+    auto: true
 rolv_dialects:
   - rolv_code: 30726
     language_tag: mrs-x-HIS30726

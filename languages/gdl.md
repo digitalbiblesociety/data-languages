@@ -1,8 +1,6 @@
 ---
 iso: gdl
 name: Dirasha
-name_zh: 迪拉沙语
-name_zh_auto: true
 autonym: Gidole
 alt_names: [Dhirasha, Diraasha, Dirayta, Gardula, Gardulla, Ghidole, Konso hizkuntza, Konso language, Lenga Komso]
 population: 10100
@@ -16,6 +14,10 @@ glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Cushitic > East Cushitic > Lowland East Cushitic > Southern Lowland East Cushitic > Mainstream Lowland East Cushitic > Oromoid > Konsoid > Gidole-Bussa > Dirasha"
 wikipedia_url: "https://en.wikipedia.org/wiki/Dirasha_language"
+translations:
+  - translation_iso: zho
+    name: 迪拉沙语
+    auto: true
 rolv_dialects:
   - rolv_code: 24962
     language_tag: gdl-x-HIS24962

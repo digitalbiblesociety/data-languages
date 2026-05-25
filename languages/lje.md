@@ -1,8 +1,6 @@
 ---
 iso: lje
 name: Rampi
-name_zh: 拉皮语
-name_zh_auto: true
 autonym: "Ha'uwa"
 alt_names: [Leboni, Rampi-Leboni]
 population: 7500
@@ -16,6 +14,10 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Greater South Sulawesi > Rampi-Seko-Badaic > Rampi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Rampi_language"
+translations:
+  - translation_iso: zho
+    name: 拉皮语
+    auto: true
 rolv_dialects:
   - rolv_code: 15924
     language_tag: lje-x-HIS15924

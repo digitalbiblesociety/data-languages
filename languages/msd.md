@@ -1,8 +1,6 @@
 ---
 iso: msd
 name: Yucatec Maya Sign Language
-name_zh: 尤卡坦玛雅手语
-name_zh_auto: true
 autonym: Nohya Sign Language
 alt_names: [Línguas gestuais maias, Mayan sign languages]
 population: 500
@@ -16,6 +14,14 @@ glottolog_family_id: sign1238
 glottolog_family_name: Sign Language
 glottolog_classification: "Sign Language > L1 Sign Language > Meemul-Tziij > Yucatec Maya Sign Language"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mayan_Sign_Language"
+translations:
+  - translation_iso: hin
+    name: मय साइन लैंग्वेज
+  - translation_iso: jpn
+    name: ユカテク・マヤ手話
+  - translation_iso: zho
+    name: 尤卡坦玛雅手语
+    auto: true
 rolv_dialects:
   - rolv_code: 31133
     language_tag: msd-x-HIS31133

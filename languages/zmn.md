@@ -1,8 +1,6 @@
 ---
 iso: zmn
 name: Mbangwe
-name_zh: 姆班格语
-name_zh_auto: true
 autonym: Mbaŋwe
 alt_names: ["M'bahouin", Mbahouin]
 population: 3690
@@ -16,5 +14,9 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > Bantu A-B10-B20-B30 > Bantu B20B > Nuclear Ngomic > Mbangwe"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mbangwe_language"
+translations:
+  - translation_iso: zho
+    name: 姆班格语
+    auto: true
 ---
 Mbangwe is a Bantu language spoken in Gabon and the Congo.

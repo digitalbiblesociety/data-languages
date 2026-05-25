@@ -1,8 +1,6 @@
 ---
 iso: plc
 name: Central Palawano
-name_zh: 中部帕劳瓦诺语
-name_zh_auto: true
 autonym: Palawanen
 alt_names: ["Palawano, Central", Palaweño, Quezon Palawano]
 population: 12000
@@ -15,6 +13,10 @@ glottocode: cent2091
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Greater Central Philippine > Palawanic-Kalamian > Palawanic > Southern Palawanic > Molbog-Palawan > Nuclear Palawan > Central Palawano"
+translations:
+  - translation_iso: zho
+    name: 中部帕劳瓦诺语
+    auto: true
 rolv_dialects:
   - rolv_code: 2144
     language_tag: plc-x-HIS02144

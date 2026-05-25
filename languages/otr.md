@@ -1,8 +1,6 @@
 ---
 iso: otr
 name: Otoro
-name_zh: 奥托罗语
-name_zh_auto: true
 autonym: Utoro
 alt_names: [Dhitoro, Kawama, Kawarma, Litoro]
 population: 10000
@@ -16,6 +14,10 @@ glottolog_family_id: heib1242
 glottolog_family_name: Heibanic
 glottolog_classification: "Heibanic > West-Central Heibanic > Central Heibanic > Ebang-Logol > Otoro"
 wikipedia_url: "https://en.wikipedia.org/wiki/Otoro_language"
+translations:
+  - translation_iso: zho
+    name: 奥托罗语
+    auto: true
 rolv_dialects:
   - rolv_code: 15369
     language_tag: otr-x-HIS15369

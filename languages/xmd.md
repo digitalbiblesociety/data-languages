@@ -1,8 +1,6 @@
 ---
 iso: xmd
 name: Mbudum
-name_zh: 姆布杜姆语
-name_zh_auto: true
 autonym: Mbədam
 alt_names: [Cameroon, Mbedam, Mbedam language]
 population: 6000
@@ -16,6 +14,10 @@ glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > Biu-Mandara > South Biu-Mandara > Dabaic > Mbedam"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mbudum_language"
+translations:
+  - translation_iso: zho
+    name: 姆布杜姆语
+    auto: true
 rolv_dialects:
   - rolv_code: 25671
     language_tag: xmd-x-HIS25671

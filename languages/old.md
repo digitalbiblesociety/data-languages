@@ -1,8 +1,6 @@
 ---
 iso: old
 name: Mochi
-name_zh: 莫奇语
-name_zh_auto: true
 autonym: Central Chaga
 alt_names: [Chaga, Chagga, Kimochi, Kimoshi, Moshi, Mosi, Old Moshi]
 population: 362000
@@ -16,6 +14,10 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > East Bantu > Northeast Savanna Bantu > Kilimanjaro-Taita > Kilimanjaro Bantu > Chaga > Central Kilimanjaro > Mochi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mochi_language"
+translations:
+  - translation_iso: zho
+    name: 莫奇语
+    auto: true
 rolv_dialects:
   - rolv_code: 1085
     language_tag: old-x-HIS01085

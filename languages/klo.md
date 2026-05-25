@@ -1,8 +1,6 @@
 ---
 iso: klo
 name: Kapya
-name_zh: 卡皮亚语
-name_zh_auto: true
 autonym: null
 alt_names: [Nigeria]
 population: 200
@@ -16,5 +14,9 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Benue-Congo Plateau > Yukubenic > Kapya"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kapya_language"
+translations:
+  - translation_iso: zho
+    name: 卡皮亚语
+    auto: true
 ---
 Kapya is a Plateau language spoken in Kapya village, Takum LGA, Taraba State, eastern Nigeria.

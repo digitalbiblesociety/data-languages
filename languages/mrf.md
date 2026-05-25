@@ -1,8 +1,6 @@
 ---
 iso: mrf
 name: Elseng
-name_zh: 埃尔森语
-name_zh_auto: true
 autonym: Morwap
 alt_names: ["\"Morwap\"", Djanggu, Janggu, Lenga Elseng, Malluo, Maluak, Sawa, Tabu]
 population: 300
@@ -13,6 +11,10 @@ latitude: -3.00176
 longitude: 140.41769
 glottocode: else1239
 wikipedia_url: "https://en.wikipedia.org/wiki/Elseng_language"
+translations:
+  - translation_iso: zho
+    name: 埃尔森语
+    auto: true
 rolv_dialects:
   - rolv_code: 1146
     language_tag: mrf-x-HIS01146

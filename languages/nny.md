@@ -1,8 +1,6 @@
 ---
 iso: nny
 name: Nyangga
-name_zh: 尼扬加语
-name_zh_auto: true
 autonym: Janga
 alt_names: [Aniula, Anjula, Anula, Anuwa, Anyoola, Anyula, Anyuwa, Djirukurumbant, Iangkala, Jang-Kala, Jangaa, Jangga, Janjula, Leanawa, Leeanuwa, Njangga, Njanggala, Njangkala, South Wellesley, Southern Tangkic, Unalla, Yangala, Yangarella, Yanggal, Yangkaal, Yangkaal-Kayardild, Yanula, Yanular, Yanyuwa, Yuckamurri, Yuggamurra]
 population: null
@@ -16,5 +14,9 @@ glottolog_family_id: tang1340
 glottolog_family_name: Tangkic
 glottolog_classification: "Tangkic > Southern Tangkic > Kayardild-Yangkaal > Yangkaal"
 wikipedia_url: "https://en.wikipedia.org/wiki/Yangkaal_language"
+translations:
+  - translation_iso: zho
+    name: 尼扬加语
+    auto: true
 ---
 The Yangkaal language, also known as Yanggaralda, Janggal, Gananggalinda, Nemarang, among other names, is an extinct Australian Aboriginal language. Geoffrey O'Grady grouped it as a variety of Yukulta within the Tangkic language family. The implication was that "Yanggal" was simply an alternative name for "Njangga", which is an alternative ethnonym for the Yanyula (Yanyuwa), from which the word Yanggal may have derived.

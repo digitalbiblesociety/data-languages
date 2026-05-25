@@ -1,8 +1,6 @@
 ---
 iso: bks
 name: Northern Sorsoganon
-name_zh: 北索尔索加农语
-name_zh_auto: true
 autonym: Masbate Sorsogon
 alt_names: [Bisaya, Northern Sorsogon, "Sorsoganon, Northern", Sorsogon Bicolano, "Sorsogon, Masbate"]
 population: 85000
@@ -16,5 +14,9 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Greater Central Philippine > Central Philippine > Bisayan > Central Bisayan > Peripheral Central Bisayan > Masbate-Sorsogon > Masbate Sorsogon"
 wikipedia_url: "https://en.wikipedia.org/wiki/Northern_Sorsogon_language"
+translations:
+  - translation_iso: zho
+    name: 北索尔索加农语
+    auto: true
 ---
 Northern Sorsogon is a Bisayan language spoken in the central part of Sorsogon, Philippines, in Sorsogon City and the municipalities of Casiguran, and Juban. It is closely related to, but distinct from Southern Sorsogon which is spoken in the southern part of Sorsogon.

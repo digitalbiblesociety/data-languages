@@ -1,7 +1,6 @@
 ---
 iso: her
 name: Herero
-name_zh: 赫雷羅語
 autonym: Otjiherero
 alt_names: [Bahasa Herero, Herera lingvo, Herereg, Herero dili, Hereron kieli, Hererų kalba, Héréro, Idioma herero, Język herero, Limba herero, Lingua herero, Língua hereró, Ochiherero, Гереро, Герэрская мова, हीरीरो भाषा, ภาษาเฮเรโร, ヘレロ語]
 population: 248700
@@ -16,6 +15,17 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > Central-Western Bantu > Njila > Southern Njila > Kunene > Cimbebasia > Herero (R.30) > Herero"
 wikipedia_url: "https://en.wikipedia.org/wiki/Herero_language"
+translations:
+  - translation_iso: ara
+    name: هيريرو
+  - translation_iso: hin
+    name: हीरीरो भाषा
+  - translation_iso: jpn
+    name: ヘレロ語
+  - translation_iso: kor
+    name: 헤레로어
+  - translation_iso: zho
+    name: 赫雷羅語
 rolv_dialects:
   - rolv_code: 10617
     language_tag: hz-x-HIS10617

@@ -1,8 +1,6 @@
 ---
 iso: nxa
 name: Nauete
-name_zh: 瑙埃特语
-name_zh_auto: true
 autonym: Naóti
 alt_names: [Naueti, Nauhete, Nauote, Nauoti]
 population: 1000
@@ -16,6 +14,10 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Timor-Babar > Eastern Timor > Kawaimina > Nauete"
 wikipedia_url: "https://en.wikipedia.org/wiki/Naueti_language"
+translations:
+  - translation_iso: zho
+    name: 瑙埃特语
+    auto: true
 rolv_dialects:
   - rolv_code: 14749
     language_tag: nxa-x-HIS14749

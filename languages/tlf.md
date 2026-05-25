@@ -1,7 +1,6 @@
 ---
 iso: tlf
 name: Telefol
-name_zh: 特里福語
 autonym: Telefol Weng
 alt_names: [Eripataman, Teleefool, Telefolmin, Telefomin, Telefool]
 population: 5400
@@ -15,5 +14,10 @@ glottolog_family_id: nucl1709
 glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Asmat-Awyu-Ok > Awyu-Ok > Ok-Oksapmin > Ok > Mountain Ok > Division A Mountain Ok > Tifal-Telefol > Telefol"
 wikipedia_url: "https://en.wikipedia.org/wiki/Telefol_language"
+translations:
+  - translation_iso: jpn
+    name: テレフォル語
+  - translation_iso: zho
+    name: 特里福語
 ---
 Telefol is a language spoken by the Telefol people in Papua New Guinea, notable for possessing a base-27 numeral system.

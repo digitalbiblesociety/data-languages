@@ -1,8 +1,6 @@
 ---
 iso: bmo
 name: Bambalang
-name_zh: 巴姆巴兰语
-name_zh_auto: true
 autonym: Chrambo
 alt_names: [Bambolang, Mboyakum, Tshirambo]
 population: 29000
@@ -16,5 +14,9 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Wide Grassfields > Narrow Grassfields > Mbam-Nkam > Southern Mbam-Nkam > Mbam-Nkam Nun > Bambalang"
 wikipedia_url: "https://en.wikipedia.org/wiki/Bambalang_language"
+translations:
+  - translation_iso: zho
+    name: 巴姆巴兰语
+    auto: true
 ---
 The Bambalang language, also called Chrambo or Mbawyakum (Mboyakum), is a Grassfields Bantu language of Cameroon.

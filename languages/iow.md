@@ -1,7 +1,6 @@
 ---
 iso: iow
 name: "Iowa-Oto"
-name_zh: 奇維雷語
 autonym: "Báxoje-Jíwere-Ñútˀachi"
 alt_names: [Chiwere, Chiwere language, Ioweg-Otoeg, Język chiwere, Oto, Otoe]
 population: 33
@@ -15,6 +14,11 @@ glottolog_family_id: siou1252
 glottolog_family_name: Siouan
 glottolog_classification: "Siouan > Mississippi Valley > Winnebago-Chiwere > Iowa-Oto"
 wikipedia_url: "https://en.wikipedia.org/wiki/Chiwere_language"
+translations:
+  - translation_iso: jpn
+    name: アイオワ語
+  - translation_iso: zho
+    name: 奇維雷語
 rolv_dialects:
   - rolv_code: 25097
     language_tag: iow-x-HIS25097

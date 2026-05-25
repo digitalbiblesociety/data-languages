@@ -1,8 +1,6 @@
 ---
 iso: ort
 name: Adivasi Oriya
-name_zh: 阿迪瓦西奥里亚语
-name_zh_auto: true
 autonym: ଓଡ଼ିଆ
 alt_names: [Adiwasi Oriya, Kotia Oriya, Kotiya, Oriya, Oriya (Adivasi), Oriya (Kotia), "Oriya, Adivasi", Southern Oriya, Tribal Oriya]
 population: 200000
@@ -15,6 +13,12 @@ glottocode: adiv1239
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Indo-Aryan > Middle-Modern Indo-Aryan > Continental Indo-Aryan > Indo-Aryan Eastern zone > Oriya-Gauda-Kamrupa > Macro-Oriya > Kotia-Adivasi Oriya-Desiya"
+translations:
+  - translation_iso: hin
+    name: And
+  - translation_iso: zho
+    name: 阿迪瓦西奥里亚语
+    auto: true
 rolv_dialects:
   - rolv_code: 4192
     language_tag: ort-x-HIS04192

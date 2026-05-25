@@ -1,8 +1,6 @@
 ---
 iso: emp
 name: Northern Emberá
-name_zh: 北埃姆贝拉语
-name_zh_auto: true
 autonym: Cholo
 alt_names: [Andagueda, Atrato, Choco, Darien, Darien Embera, Dariena, Darién, Ebera Bedea, Eberã, "Eberã Bed'ea", Eberã Bed’ea, Eerã, Embera, Embera (Colombie), Embera (Panama), Embera (Panamá), Emberá, Emberá (North), "Emberá, Northern", Empera, Emperá, Emperã, Eperã Pedea, Northern, Northern Ember, Northern Embera, Northern Ępęra, Panama Embera, Sambú]
 population: 72200
@@ -16,6 +14,10 @@ glottolog_family_id: choc1280
 glottolog_family_name: Chocoan
 glottolog_classification: "Chocoan > Embera > Atrato > Panama-Baudo-Atrato > Northern Emberá"
 wikipedia_url: "https://en.wikipedia.org/wiki/Northern_Ember%C3%A1_language"
+translations:
+  - translation_iso: zho
+    name: 北埃姆贝拉语
+    auto: true
 rolv_dialects:
   - rolv_code: 3224
     language_tag: emp-x-HIS03224

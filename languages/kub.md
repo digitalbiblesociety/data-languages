@@ -1,8 +1,6 @@
 ---
 iso: kub
 name: Kutep
-name_zh: 库特普语
-name_zh_auto: true
 autonym: Ati
 alt_names: ["\"Jompre\"", Kuteb, Kutev, Mbarike, Zumper]
 population: 47600
@@ -16,6 +14,10 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Jukunoid > Kutep"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kuteb_language"
+translations:
+  - translation_iso: zho
+    name: 库特普语
+    auto: true
 rolv_dialects:
   - rolv_code: 12577
     language_tag: kub-x-HIS12577

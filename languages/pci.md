@@ -1,8 +1,6 @@
 ---
 iso: pci
 name: Duruwa
-name_zh: 杜鲁瓦语
-name_zh_auto: true
 autonym: ପରଜିधुरवा
 alt_names: [Dhruva, Dhurwa, Durva, Paraja, Parajhi, Parjhi, Parji, Parji (Dravidian), Tagara, Thakara, Tugara]
 population: 52300
@@ -16,6 +14,14 @@ glottolog_family_id: drav1251
 glottolog_family_name: Dravidian
 glottolog_classification: "Dravidian > Central Dravidian > Parji-Ollari-Gadaba > Duruwa"
 wikipedia_url: "https://en.wikipedia.org/wiki/Duruwa_language"
+translations:
+  - translation_iso: hin
+    name: परजी भाषा
+  - translation_iso: jpn
+    name: ドゥルワー語
+  - translation_iso: zho
+    name: 杜鲁瓦语
+    auto: true
 rolv_dialects:
   - rolv_code: 9451
     language_tag: pci-x-HIS09451

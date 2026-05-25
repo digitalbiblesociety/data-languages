@@ -1,8 +1,6 @@
 ---
 iso: gue
 name: Gurindji
-name_zh: 古林吉语
-name_zh_auto: true
 autonym: " Kuurrinjtji"
 alt_names: [Coorinji, Corringi, Garundji, Goarango, Guirindji, Gurindgi, Gurindzi, Gurinji, Gurrinji, Guurindji, Kartangarurru, Koorangie, Kooringee, Korindji, Kurintji, Kwarandji, Kwaranjee, Malngin, Manoo, Manu, Tjial, Wadshara, Wandjira, Wanyjirra, We arr ung, We-arr-ung, Wurlayi]
 population: 410
@@ -16,6 +14,12 @@ glottolog_family_id: pama1250
 glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > Desert Nyungic > Ngumpin-Yapa > Ngumpin > Eastern Ngumpin > Ngumpit > Gurindji"
 wikipedia_url: "https://en.wikipedia.org/wiki/Gurindji_language"
+translations:
+  - translation_iso: jpn
+    name: グリンジ語
+  - translation_iso: zho
+    name: 古林吉语
+    auto: true
 rolv_dialects:
   - rolv_code: 10476
     language_tag: gue-x-HIS10476

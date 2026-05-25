@@ -1,7 +1,6 @@
 ---
 iso: xce
 name: Celtiberian
-name_zh: 凱爾特伊比利亞語
 autonym: "http://www.wikidata.org/.well-known/genid/de0e54d2f59c82f60f836e2d9fdcf81e"
 alt_names: [Celtiberico, Celtibère, Celtibèric, Hispano-Celtic, Idioma celtíbero, Język celtyberyjski, Keltiberies, Keltiberisch, Keltiberische Sprache, Keltiberisk, Keltiberščina, Keltibér nyelv, Línguas celtibéricas, Келтоиберски јазик, Кельтиберский язык, Кельтіберська мова, 凱爾特伊比利亞語]
 population: null
@@ -15,5 +14,12 @@ glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Celtic > Celtiberian"
 wikipedia_url: "https://en.wikipedia.org/wiki/Celtiberian_language"
+translations:
+  - translation_iso: jpn
+    name: ケルティベリア語
+  - translation_iso: kor
+    name: 켈티베리아어
+  - translation_iso: zho
+    name: 凱爾特伊比利亞語
 ---
 Celtiberian or Northeastern Hispano-Celtic is an extinct Indo-European language of the Celtic branch spoken by the Celtiberians in an area of the Iberian Peninsula between the headwaters of the Douro, Tagus, Júcar, and Turia rivers and the Ebro river. The language is directly attested in nearly 200 inscriptions and 300 smaller records, dated from the 2nd century BC to the 1st century AD, mainly in Celtiberian script, but also in the Latin alphabet. The longest extant Celtiberian inscriptions are those on the Botorrita plaques, three bronze plaques from Botorrita near Zaragoza dating to the early 1st century BC, labeled Botorrita I, III, and IV. Shorter and more fragmentary is the Novallas bronze tablet.

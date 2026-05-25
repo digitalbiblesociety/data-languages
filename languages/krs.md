@@ -1,8 +1,6 @@
 ---
 iso: krs
 name: Gbaya (Sudan)
-name_zh: 布亚语(苏丹)
-name_zh_auto: true
 autonym: "Kresh-Aja"
 alt_names: [Gbaya, Kpala, Kpara, Kparla, Kredj, Kreich, Kreish, Kresh]
 population: 16000
@@ -16,6 +14,12 @@ glottolog_family_id: kres1240
 glottolog_family_name: Kresh-Aja
 glottolog_classification: "Kresh-Aja > Kreshic > Kresh-Woro"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kresh_language"
+translations:
+  - translation_iso: ara
+    name: كريش
+  - translation_iso: zho
+    name: 布亚语(苏丹)
+    auto: true
 rolv_dialects:
   - rolv_code: 4351
     language_tag: krs-x-HIS04351

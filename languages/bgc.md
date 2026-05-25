@@ -1,7 +1,6 @@
 ---
 iso: bgc
 name: Haryanvi
-name_zh: 哈里亚纳語
 autonym: हरयाणवी
 alt_names: [Bangaru, Banger, Bangri, Bangru, Chamarwa, Desari, Deswali, Hariani, Harianvi, Hariyani, Haryani, Jati, Jatu, "Хар'янві", ภาษาหริยนวี, ハリヤーンウィー語]
 population: 9811000
@@ -16,6 +15,17 @@ glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Indo-Aryan > Middle-Modern Indo-Aryan > Continental Indo-Aryan > Midlands Indo-Aryan > Shaurasenic > Indo-Aryan Central zone > Western Hindi > Haryanvic > Haryanvi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Haryanvi_language"
+translations:
+  - translation_iso: ara
+    name: الهريانية
+  - translation_iso: hin
+    name: हरियाणवी
+  - translation_iso: jpn
+    name: ハリヤーンウィー語
+  - translation_iso: kor
+    name: 하리아나어
+  - translation_iso: zho
+    name: 哈里亚纳語
 rolv_dialects:
   - rolv_code: 10573
     language_tag: bgc-x-HIS10573

@@ -1,7 +1,6 @@
 ---
 iso: nun
 name: Anong
-name_zh: 阿侬语
 autonym: Anong
 alt_names: [Anong (Chine), Anong (Myanmar), Anoong, Anu, Anung, Anung (Myanmar), Anung language, Añú, "Fuch'ye", Khanung, Khupang, Kiutze, Kuhpang, Kwingsang, "Kwinp'ang", Lu, Lutze, Lutzu, Nu, Nu-tzŭ, Nung, Nung (Myanmar), ရဝမ်, 阿侬语, 阿儂語]
 population: 400
@@ -15,6 +14,13 @@ glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Nungish > Gunong > Nung (Myanmar)"
 wikipedia_url: "https://en.wikipedia.org/wiki/Nung_language_(Sino-Tibetan)"
+translations:
+  - translation_iso: jpn
+    name: アヌン語
+  - translation_iso: kor
+    name: 아눙어
+  - translation_iso: zho
+    name: 阿侬语
 rolv_dialects:
   - rolv_code: 15114
     language_tag: nun-x-HIS15114

@@ -1,8 +1,6 @@
 ---
 iso: tsh
 name: Tsuvan
-name_zh: 楚万语
-name_zh_auto: true
 autonym: Matsuvan
 alt_names: [Motsuvan, Tchede, Telaki, Teleki, Terki]
 population: 2300
@@ -16,5 +14,9 @@ glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > Biu-Mandara > South Biu-Mandara > Bataic > Gudeic > Sharwa-Tsuvan > Tsuvan"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tsuvan_language"
+translations:
+  - translation_iso: zho
+    name: 楚万语
+    auto: true
 ---
 Tsuvan is an Afro-Asiatic language spoken in Cameroon in Far North Province.

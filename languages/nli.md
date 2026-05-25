@@ -1,8 +1,6 @@
 ---
 iso: nli
 name: Grangali
-name_zh: 格朗加利语
-name_zh_auto: true
 autonym: Grangali
 alt_names: [Dardu, Gelangali, Glangali, Jumiaki, Nangalami, Nangalāmi, Nigalāmi, Ningalami, Ningalamí]
 population: 5000
@@ -16,6 +14,14 @@ glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Indo-Aryan > Gawarbatic > Shumashtic > Grangali-Ningalami"
 wikipedia_url: "https://en.wikipedia.org/wiki/Nangalami_language"
+translations:
+  - translation_iso: hin
+    name: नंगलामी भाषा
+  - translation_iso: jpn
+    name: ナンガラム語
+  - translation_iso: zho
+    name: 格朗加利语
+    auto: true
 rolv_dialects:
   - rolv_code: 10326
     language_tag: nli-x-HIS10326

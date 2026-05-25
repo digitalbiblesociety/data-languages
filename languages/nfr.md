@@ -1,7 +1,6 @@
 ---
 iso: nfr
 name: Nafaanra
-name_zh: 納凡拉語
 autonym: Banda
 alt_names: [Dzama, Gambo, Nafaara, Nafana, Nafanreg, Pantera-Fantera, 納凡拉語]
 population: 89000
@@ -15,6 +14,13 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Senufo > South Senufo > Nafanan"
 wikipedia_url: "https://en.wikipedia.org/wiki/Nafanan_language"
+translations:
+  - translation_iso: ara
+    name: نافانرا
+  - translation_iso: jpn
+    name: ナファーンラ語
+  - translation_iso: zho
+    name: 納凡拉語
 rolv_dialects:
   - rolv_code: 14501
     language_tag: nfr-x-HIS14501

@@ -1,8 +1,6 @@
 ---
 iso: ahb
 name: Axamb
-name_zh: 阿克桑布语
-name_zh_auto: true
 autonym: Ahamb
 alt_names: [Akamb, Akhamb, Mallicolo, "naujin sdrato [nauˈtʃin sndraˈto] ‘our language’"]
 population: 750
@@ -16,6 +14,10 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > North and Central Vanuatu > Central Vanuatu > Malakula > Eastern Malakula linkage > Central-Southeast Malakula > Southeastern Malakula linkage > Port Sandwich-Axamb-Avok > Axamb"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ahamb_language"
+translations:
+  - translation_iso: zho
+    name: 阿克桑布语
+    auto: true
 rolv_dialects:
   - rolv_code: 30712
     language_tag: ahb-x-HIS30712

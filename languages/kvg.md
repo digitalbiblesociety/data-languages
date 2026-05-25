@@ -1,8 +1,6 @@
 ---
 iso: kvg
 name: "Kuni-Boazi"
-name_zh: 库尼-博阿齐语
-name_zh_auto: true
 autonym: Kuni
 alt_names: [Boadji, Boazi, Bwadji, Kuini]
 population: 4500
@@ -16,6 +14,10 @@ glottolog_family_id: anim1240
 glottolog_family_name: Anim
 glottolog_classification: "Anim > Marind-Boazi-Yaqai > Boazi > Kuni-Boazi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Boazi_language"
+translations:
+  - translation_iso: zho
+    name: 库尼-博阿齐语
+    auto: true
 rolv_dialects:
   - rolv_code: 26268
     language_tag: kvg-x-HIS26268

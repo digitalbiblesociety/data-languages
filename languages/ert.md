@@ -1,8 +1,6 @@
 ---
 iso: ert
 name: Eritai
-name_zh: 埃里泰语
-name_zh_auto: true
 autonym: Baburiwa
 alt_names: [Aliki, Babiruwa, Babrua, Babruwa, Barua, Editode Edai, Erai, Eri, Haya]
 population: 530
@@ -16,5 +14,9 @@ glottolog_family_id: lake1255
 glottolog_family_name: Lakes Plain
 glottolog_classification: "Lakes Plain > Tariku > East Tariku > Eritai-Obokuitai-Biritai > Eritai"
 wikipedia_url: "https://en.wikipedia.org/wiki/Eritai_language"
+translations:
+  - translation_iso: zho
+    name: 埃里泰语
+    auto: true
 ---
 Eritai (Eri), or Baburiwa, is a Lakes Plain language of Irian Jaya, Indonesia. It is named after Eri village in East Central Mambermano District, Mamberamo Raya Regency.

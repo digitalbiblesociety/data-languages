@@ -1,7 +1,6 @@
 ---
 iso: sov
 name: Sonsorol
-name_zh: 松索羅爾語
 autonym: Ramari Dongosaro
 alt_names: [Sonsorol-Tobi, Sonsorolais, Sonsorolese, Sonsorolese language, Sonsorolin kieli, Сонсорол]
 population: 600
@@ -15,6 +14,13 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Micronesian > Central Micronesian > Western Micronesian > Chuukic-Ponapeic > Trukic > Western Trukic > Sonsorol-Tobi > Sonsorol"
 wikipedia_url: "https://en.wikipedia.org/wiki/Sonsorolese"
+translations:
+  - translation_iso: ara
+    name: السونسورولية
+  - translation_iso: jpn
+    name: ソンソロール語
+  - translation_iso: zho
+    name: 松索羅爾語
 rolv_dialects:
   - rolv_code: 16841
     language_tag: sov-x-HIS16841

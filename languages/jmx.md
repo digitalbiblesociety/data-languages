@@ -1,8 +1,6 @@
 ---
 iso: jmx
 name: Western Juxtlahuaca Mixtec
-name_zh: 西华斯特拉瓦卡米克特克语
-name_zh_auto: true
 autonym: Coicoyán Mixtec
 alt_names: [Ayutla Mixtec, Central Juxtlahuaca Mixtec, Central Misteko, Centreal Mixteco, Coastal Guerrero Mixtec, Juxtlahuaca Mixtec, "Mixtec, Western Juxtlahuaca", Mixteco de Ayutla, Mixteco de Juxtlahuaca, Mixteco del Oeste de Juxtlahuaca, Southern Baja Mixtec]
 population: 2000
@@ -15,6 +13,10 @@ glottocode: west2643
 glottolog_family_id: otom1299
 glottolog_family_name: Otomanguean
 glottolog_classification: "Otomanguean > Eastern Otomanguean > Amuzgo-Mixtecan > Mixtecan > Mixtec-Cuicatec > Mixtec > Guerrero Mixtec > Coicoyan-Metlatonoc > Western Juxtlahuaca Mixtec"
+translations:
+  - translation_iso: zho
+    name: 西华斯特拉瓦卡米克特克语
+    auto: true
 rolv_dialects:
   - rolv_code: 4415
     language_tag: jmx-x-HIS04415

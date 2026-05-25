@@ -1,8 +1,6 @@
 ---
 iso: bmb
 name: Bembe
-name_zh: 贝贝语
-name_zh_auto: true
 autonym: Ebeembe
 alt_names: [Baga maduri, Baga manduri, Beembe, Ebembe, Ibembe, Kibembe]
 population: 274000
@@ -16,5 +14,9 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > East Bantu > Greater Lega > Bembe-Buyu > Bembe"
 wikipedia_url: "https://en.wikipedia.org/wiki/Bembe_language_(Ibembe)"
+translations:
+  - translation_iso: zho
+    name: 贝贝语
+    auto: true
 ---
 Bembe is a Bantu language of the Democratic Republic of the Congo and Western Tanzania. According to Ethnologue, it forms a dialect continuum with the Lega language through Mwenga Lega.

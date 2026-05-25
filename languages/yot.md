@@ -1,8 +1,6 @@
 ---
 iso: yot
 name: Yotti
-name_zh: 约蒂语
-name_zh_auto: true
 autonym: Yoti
 population: null
 country_id: NG
@@ -14,4 +12,8 @@ glottocode: yott1234
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Cameroun-Ubangian > Central Adamawa > Mumuye-Yandang > Yandangic > Bali-Kpasam > Yotti"
+translations:
+  - translation_iso: zho
+    name: 约蒂语
+    auto: true
 ---

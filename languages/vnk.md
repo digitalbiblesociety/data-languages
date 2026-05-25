@@ -1,8 +1,6 @@
 ---
 iso: vnk
 name: Vano
-name_zh: 瓦诺语
-name_zh_auto: true
 autonym: Alavana
 alt_names: [Lovono, Vanikolo, Vanikoro]
 population: null
@@ -16,5 +14,11 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Temotu > Utupua-Vanikoro > Lovono"
 wikipedia_url: "https://en.wikipedia.org/wiki/Lovono_language"
+translations:
+  - translation_iso: jpn
+    name: ロヴォノ語
+  - translation_iso: zho
+    name: 瓦诺语
+    auto: true
 ---
 Lovono is a nearly extinct language of the island of Vanikoro in the easternmost province of the Solomon Islands. As of 2012, it is only spoken by four speakers; it has been replaced by the island's dominant language, Teanu.

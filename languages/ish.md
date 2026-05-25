@@ -1,7 +1,6 @@
 ---
 iso: ish
 name: Esan
-name_zh: 埃桑語
 autonym: Ishan
 alt_names: [Anwain, Esa, Isa]
 population: 619000
@@ -15,6 +14,9 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Akpes-Edoid > Edoid > North-Central Edoid > Central Plains Edoid > Esan"
 wikipedia_url: "https://en.wikipedia.org/wiki/Esan_language"
+translations:
+  - translation_iso: zho
+    name: 埃桑語
 rolv_dialects:
   - rolv_code: 9649
     language_tag: ish-x-HIS09649

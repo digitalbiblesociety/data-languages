@@ -1,7 +1,6 @@
 ---
 iso: blk
 name: "Pa'o Karen"
-name_zh: 勃欧语
 autonym: "Pa-O Karen"
 alt_names: [Black Karen, "Karen, Pa'o", "Karen,Pa’o", Karennet, Northern Taungthu, Pa Oh, "Pa'o", Pa-O, Pa-U, Pao, Taungthu, Taungtu]
 population: 858740
@@ -15,6 +14,15 @@ glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Karenic > Peripheral Karen > Pa'o Karen"
 wikipedia_url: "https://en.wikipedia.org/wiki/Pa%27O_language"
+translations:
+  - translation_iso: ara
+    name: باو
+  - translation_iso: jpn
+    name: パオ語
+  - translation_iso: kor
+    name: 파오어
+  - translation_iso: zho
+    name: 勃欧语
 rolv_dialects:
   - rolv_code: 334
     language_tag: blk-x-HIS00334

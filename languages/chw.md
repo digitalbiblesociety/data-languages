@@ -1,8 +1,6 @@
 ---
 iso: chw
 name: Chuwabu
-name_zh: 楚瓦布语
-name_zh_auto: true
 autonym: Cuabo
 alt_names: [Chichwabo, Chuabo, Chuwabo, Chwabo, Cicuabo, Cuwabo, Echuabo, Echuwabo, Txuwabo]
 population: 970000
@@ -16,6 +14,10 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > East Bantu > North Mozambique Bantu > Chuwaboic > Chuwabo-Maindo > Chuwabu"
 wikipedia_url: "https://en.wikipedia.org/wiki/Chuwabu_language"
+translations:
+  - translation_iso: zho
+    name: 楚瓦布语
+    auto: true
 rolv_dialects:
   - rolv_code: 8960
     language_tag: chw-x-HIS08960

@@ -1,8 +1,6 @@
 ---
 iso: mqu
 name: Mandari
-name_zh: 曼达里语
-name_zh_auto: true
 autonym: Chir
 alt_names: [Kir, Mondari, Mundari, Shir]
 population: 70000
@@ -16,5 +14,9 @@ glottolog_family_id: nilo1247
 glottolog_family_name: Nilotic
 glottolog_classification: "Nilotic > Eastern Nilotic > Barian > Mandari"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mandari_dialect"
+translations:
+  - translation_iso: zho
+    name: 曼达里语
+    auto: true
 ---
 Mandari is an Eastern Nilotic language spoken by the Mundari people of South Sudan.

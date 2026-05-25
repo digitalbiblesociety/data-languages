@@ -1,7 +1,6 @@
 ---
 iso: atj
 name: Atikamekw
-name_zh: 阿提卡梅克语
 autonym: atikamekw nehiromowin
 alt_names: [Atihkamekw, Atikamek, Atikamekweg, Attikamek, Attikamekw, Attimewk, Cree, Lingua Atikamekw, Nehirowimowin, Tête de Boule, Атикамек]
 population: 5000
@@ -16,5 +15,16 @@ glottolog_family_id: algi1248
 glottolog_family_name: Algic
 glottolog_classification: "Algic > Algonquian-Blackfoot > Algonquian > Cree-Montagnais-Naskapi > Atikamekw"
 wikipedia_url: "https://en.wikipedia.org/wiki/Atikamekw_language"
+translations:
+  - translation_iso: ara
+    name: الأتيكاميكوية
+  - translation_iso: hin
+    name: अतिकामेक्व
+  - translation_iso: jpn
+    name: アティカメク語
+  - translation_iso: kor
+    name: 아티카메쿠어
+  - translation_iso: zho
+    name: 阿提卡梅克语
 ---
 Atikamekw is a variety of the Algonquian language Cree and the language of the Atikamekw people of southwestern Quebec, Canada. It is spoken by nearly all the Atikamekw, and therefore it is among the indigenous languages least threatened with extinction, according to some studies.

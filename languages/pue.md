@@ -1,7 +1,6 @@
 ---
 iso: pue
 name: Puelche
-name_zh: 布埃切语
 autonym: Gennaken
 alt_names: [Cuyo, Guenaken, Gününa Küne, Gününa Yajich, Gününa-Küne, Idioma puelche, Northern Tehuelche, Pampa, Pehuelche, Pehuenche, Ranquelche]
 population: null
@@ -12,5 +11,8 @@ latitude: -36.63757
 longitude: -62.94127
 glottocode: puel1244
 wikipedia_url: "https://en.wikipedia.org/wiki/G%C3%BCn%C3%BCna_K%C3%BCne_language"
+translations:
+  - translation_iso: zho
+    name: 布埃切语
 ---
 Gününa Küne (Puelche) is an extinct Chonan language formerly spoken by the Gününa Küne people in the Pampas region of Argentina. The language is also known as Gennaken (Guenaken), Northern Tehuelche, Gününa Yajüch, Ranquelche, Septentrional Austral Tehuelche and Pampa. It was also spoken by the Chechehet.

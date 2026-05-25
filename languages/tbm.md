@@ -1,8 +1,6 @@
 ---
 iso: tbm
 name: Tagbu
-name_zh: 塔格布语
-name_zh_auto: true
 autonym: Tagba
 alt_names: [Tagbo]
 population: 17000
@@ -16,5 +14,9 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Cameroun-Ubangian > Ubangi > Ubangi Ka > Sereic > Sere-Indri > Ndogoic > Tagbu-Sere > Tagbu"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tagbo_language"
+translations:
+  - translation_iso: zho
+    name: 塔格布语
+    auto: true
 ---
 Tagbo is a Ubangian language of Democratic Republic of the Congo.

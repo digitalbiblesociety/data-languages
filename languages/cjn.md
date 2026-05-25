@@ -1,8 +1,6 @@
 ---
 iso: cjn
 name: Chenapian
-name_zh: 切纳皮亚语
-name_zh_auto: true
 autonym: Chenap
 alt_names: [Tsenap, Zenap]
 population: 180
@@ -16,5 +14,9 @@ glottolog_family_id: sepi1257
 glottolog_family_name: Sepik
 glottolog_classification: "Sepik > Iwam-Wogamus > Wogamusin-Chenapian > Chenapian"
 wikipedia_url: "https://en.wikipedia.org/wiki/Chenapian_language"
+translations:
+  - translation_iso: zho
+    name: 切纳皮亚语
+    auto: true
 ---
 Chenapian (Chenap) is a Papuan language of East Sepik Province, Papua New Guinea. It is spoken in Chepanian (Sanapian) village, Ambunti Rural LLG.

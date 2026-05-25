@@ -1,8 +1,6 @@
 ---
 iso: nnp
 name: Wancho Naga
-name_zh: 旺乔纳加语
-name_zh_auto: true
 autonym: Banpara Naga
 alt_names: [Banpara, Joboka, Naga, "Naga, Wancho", "Naga,Wancho", Wancho]
 population: 59200
@@ -16,6 +14,14 @@ glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Brahmaputran > Patkaian > South Patkaian > Southwestern Patkaian > Wanchoic > Wancho Naga"
 wikipedia_url: "https://en.wikipedia.org/wiki/Wancho_language"
+translations:
+  - translation_iso: hin
+    name: वैन्चो भाषा
+  - translation_iso: kor
+    name: 완초어
+  - translation_iso: zho
+    name: 旺乔纳加语
+    auto: true
 rolv_dialects:
   - rolv_code: 14614
     language_tag: nnp-x-HIS14614

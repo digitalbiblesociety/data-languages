@@ -1,8 +1,6 @@
 ---
 iso: kpa
 name: Kutto
-name_zh: 库托语
-name_zh_auto: true
 autonym: Kupto
 alt_names: [Kúttò]
 population: 3000
@@ -16,5 +14,9 @@ glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > West Chadic > West Chadic A > West Chadic A.2-3 > West Chadic A.2 > Tangalic > Nuclear Tangalic > Tangale-Kwami-Kupto > Kwami-Kupto > Kutto"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kutto_language"
+translations:
+  - translation_iso: zho
+    name: 库托语
+    auto: true
 ---
 Kúttò (Kupto) is a minor West Chadic language of Nigeria.

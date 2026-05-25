@@ -1,8 +1,6 @@
 ---
 iso: knl
 name: Keninjal
-name_zh: 肯因贾尔语
-name_zh_auto: true
 autonym: Dayak Kaninjal
 alt_names: [Dayak, Kaninjal, Kaninjal Dayak]
 population: 32000
@@ -16,6 +14,10 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Malayo-Chamic > Malayic > Ibanic > Keninjal"
 wikipedia_url: "https://en.wikipedia.org/wiki/Keninjal_language"
+translations:
+  - translation_iso: zho
+    name: 肯因贾尔语
+    auto: true
 rolv_dialects:
   - rolv_code: 4643
     language_tag: knl-x-HIS04643

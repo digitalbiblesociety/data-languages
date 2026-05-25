@@ -1,8 +1,6 @@
 ---
 iso: bjy
 name: Bayali
-name_zh: 巴亚利语
-name_zh_auto: true
 autonym: Biyali
 alt_names: [Baiali, Bajali, Bayelle, Biele, Bieli, Byelle, Byellee, Byellel, Charumbul, Darambal, Darawal, Darumbal, Dharumbal, Guñmal, Koinjmal, Kooinmarburra, Kooinmerburra, Kuinmurbara, Kungalburra, Kungmal, Mamburra, Ningebal, Orambul, Tarumbal, Tarumbul, Tharumbal, Urambal, "Wandandian (?)", Warabal, Yetimarala]
 population: null
@@ -16,5 +14,9 @@ glottolog_family_id: pama1250
 glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > Rockhampton-Gladstone > Bayali"
 wikipedia_url: "https://en.wikipedia.org/wiki/Bayali_language"
+translations:
+  - translation_iso: zho
+    name: 巴亚利语
+    auto: true
 ---
 Bayali is an Australian Aboriginal language of Queensland in Australia, formerly spoken in the Rockhampton and Gladstone areas. It is considered extinct, but a project is under way to revive the language.

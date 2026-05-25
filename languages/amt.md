@@ -1,8 +1,6 @@
 ---
 iso: amt
 name: Amto
-name_zh: 阿姆托语
-name_zh_auto: true
 autonym: Ki
 alt_names: [Amteg, Amto jezik, Idioma amto, Siafli, Siawi, Siwai]
 population: 300
@@ -16,5 +14,9 @@ glottolog_family_id: amto1249
 glottolog_family_name: Amto-Musan
 glottolog_classification: "Amto-Musan > Amto"
 wikipedia_url: "https://en.wikipedia.org/wiki/Amto_language"
+translations:
+  - translation_iso: zho
+    name: 阿姆托语
+    auto: true
 ---
 Amto is an Amto–Musan language spoken in Sandaun Province of Papua New Guinea.

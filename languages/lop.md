@@ -1,8 +1,6 @@
 ---
 iso: lop
 name: Lopa
-name_zh: 洛帕语
-name_zh_auto: true
 autonym: Rerang
 alt_names: [Djiri, Kirikjir, Lopawa, Lupa]
 population: 5000
@@ -16,6 +14,10 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Kainji > Kainji Lake > Upper Niger Kainji > Oleran > Lopa"
 wikipedia_url: "https://en.wikipedia.org/wiki/Lopa_language"
+translations:
+  - translation_iso: zho
+    name: 洛帕语
+    auto: true
 rolv_dialects:
   - rolv_code: 23977
     language_tag: lop-x-HIS23977

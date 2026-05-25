@@ -1,8 +1,6 @@
 ---
 iso: nhw
 name: Western Huasteca Nahuatl
-name_zh: 西瓦斯特卡纳瓦特尔语
-name_zh_auto: true
 autonym: "Nahuatl,  Huasteca Occidental"
 alt_names: [Mexicano, Nahuatl, Nahuatl (Huasteca), "Nahuatl, Western Huasteca", Western Huasteca, Western Nahuatl, Western Nawa]
 population: 400000
@@ -16,4 +14,8 @@ glottocode: west2624
 glottolog_family_id: utoa1244
 glottolog_family_name: Uto-Aztecan
 glottolog_classification: "Uto-Aztecan > Southern Uto-Aztecan > Corachol-Aztecan > Aztec > Eastern Nahuatl > Huasteca Nahuatl > Western Huasteca Nahuatl"
+translations:
+  - translation_iso: zho
+    name: 西瓦斯特卡纳瓦特尔语
+    auto: true
 ---

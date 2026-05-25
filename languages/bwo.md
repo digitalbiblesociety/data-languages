@@ -1,8 +1,6 @@
 ---
 iso: bwo
 name: Boro (Ethiopia)
-name_zh: 博罗语
-name_zh_auto: true
 autonym: Boro
 alt_names: [Borna, Borna (Ethiopia), Boro (Omotic), Boro jezik, Boró, Bworo, Bòrná, Scinacia, Shinasha, Shinassha, Shinassha (Boro), Šinašša]
 population: 144
@@ -16,6 +14,10 @@ glottolog_family_id: gong1255
 glottolog_family_name: Ta-Ne-Omotic
 glottolog_classification: "Ta-Ne-Omotic > Kefoid > Boro (Ethiopia)"
 wikipedia_url: "https://en.wikipedia.org/wiki/Shinasha_language"
+translations:
+  - translation_iso: zho
+    name: 博罗语
+    auto: true
 rolv_dialects:
   - rolv_code: 8328
     language_tag: bwo-x-HIS08328

@@ -1,8 +1,6 @@
 ---
 iso: sbg
 name: Seget
-name_zh: 塞格特语
-name_zh_auto: true
 autonym: null
 alt_names: [Indonesia]
 population: 1200
@@ -16,6 +14,10 @@ glottolog_family_id: west1493
 glottolog_family_name: "West Bird's Head"
 glottolog_classification: "West Bird's Head > Seget-Moi > Seget"
 wikipedia_url: "https://en.wikipedia.org/wiki/Seget_language"
+translations:
+  - translation_iso: zho
+    name: 塞格特语
+    auto: true
 rolv_dialects:
   - rolv_code: 1654
     language_tag: sbg-x-HIS01654

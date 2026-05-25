@@ -1,7 +1,6 @@
 ---
 iso: tlh
 name: Klingon
-name_zh: 克林贡语
 autonym: tlhIngan Hol
 population: 9000
 country_id: ZZ
@@ -12,5 +11,16 @@ glottolog_family_id: arti1236
 glottolog_family_name: Artificial Language
 glottolog_classification: "Artificial Language > Klingon"
 wikipedia_url: "https://en.wikipedia.org/wiki/Klingon_language"
+translations:
+  - translation_iso: ara
+    name: لغة كلينغونية
+  - translation_iso: hin
+    name: क्लिंगन
+  - translation_iso: jpn
+    name: クリンゴン語
+  - translation_iso: kor
+    name: 클링온어
+  - translation_iso: zho
+    name: 克林贡语
 ---
 The Klingon language is the constructed language spoken by a fictional alien race called the Klingons in the Star Trek universe.

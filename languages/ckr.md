@@ -1,8 +1,6 @@
 ---
 iso: ckr
 name: Kairak
-name_zh: 凯拉克语
-name_zh_auto: true
 autonym: null
 population: 750
 country_id: PG
@@ -15,5 +13,9 @@ glottolog_family_id: bain1263
 glottolog_family_name: Baining
 glottolog_classification: "Baining > Southern Baining > Kairak"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kairak_language"
+translations:
+  - translation_iso: zho
+    name: 凯拉克语
+    auto: true
 ---
 Kairak is a Papuan language spoken in East New Britain Province on the island of New Britain, Papua New Guinea. It is spoken in Ivere and Malabunga villages of Inland Baining Rural LLG.

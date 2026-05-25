@@ -1,8 +1,6 @@
 ---
 iso: tnt
 name: Tontemboan
-name_zh: 通滕博安语
-name_zh_auto: true
 autonym: Pakewa
 alt_names: [Tompakewa, Tountemboan]
 population: 14860
@@ -16,6 +14,12 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Sangiric-Minahasan > Minahasan > North Minahasan > Tontemboan"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tontemboan_language"
+translations:
+  - translation_iso: jpn
+    name: トンテンボアン語
+  - translation_iso: zho
+    name: 通滕博安语
+    auto: true
 rolv_dialects:
   - rolv_code: 17590
     language_tag: tnt-x-HIS17590

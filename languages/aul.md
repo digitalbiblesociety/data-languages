@@ -1,8 +1,6 @@
 ---
 iso: aul
 name: Aulua
-name_zh: 奥卢亚语
-name_zh_auto: true
 autonym: Aulua Bay
 alt_names: [Mallicolo]
 population: 750
@@ -16,6 +14,10 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > North and Central Vanuatu > Central Vanuatu > Malakula > Eastern Malakula linkage > Central-Southeast Malakula > Aulua"
 wikipedia_url: "https://en.wikipedia.org/wiki/Aulua_language"
+translations:
+  - translation_iso: zho
+    name: 奥卢亚语
+    auto: true
 rolv_dialects:
   - rolv_code: 7343
     language_tag: aul-x-HIS07343

@@ -1,7 +1,6 @@
 ---
 iso: bnn
 name: Bunun
-name_zh: 布農語
 autonym: Bubukun
 alt_names: [Bounouneg, Bunan, Bunti, Bunum, Bunún, Sprache von Formosa, Vonun, Vunum, Vunun, Vunung, ภาษาบูนัน, ブヌン語, 布農語]
 population: 38000
@@ -15,6 +14,13 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Bunun"
 wikipedia_url: "https://en.wikipedia.org/wiki/Bunun_language"
+translations:
+  - translation_iso: jpn
+    name: ブヌン語
+  - translation_iso: kor
+    name: 부눈어
+  - translation_iso: zho
+    name: 布農語
 rolv_dialects:
   - rolv_code: 8508
     language_tag: bnn-x-HIS08508

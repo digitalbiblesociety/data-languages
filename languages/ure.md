@@ -1,7 +1,6 @@
 ---
 iso: ure
 name: Uru
-name_zh: 烏魯語
 autonym: Iru Itu
 alt_names: [Chholo, Iru-Itu, "Iru-Wit'u", Iru-Wit’u, Morato, Muratu, Muratu (Uru-Murato), Uchumataqu, Uro, Uru of Iru-Itu, Uru-Chipaya language area]
 population: 142
@@ -15,5 +14,10 @@ glottolog_family_id: uruc1242
 glottolog_family_name: Uru-Chipaya
 glottolog_classification: "Uru-Chipaya > Uru"
 wikipedia_url: "https://en.wikipedia.org/wiki/Uru_language"
+translations:
+  - translation_iso: kor
+    name: 우루어
+  - translation_iso: zho
+    name: 烏魯語
 ---
 The Uru language, also known as Uchumataqu, is an extinct language formerly spoken by the Uru people. In 2004, it had 2 remaining native speakers out of an ethnic group of 140 people in the La Paz Department, Bolivia near Lake Titicaca, the rest having shifted to Aymara and Spanish.

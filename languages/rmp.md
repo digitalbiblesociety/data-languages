@@ -1,8 +1,6 @@
 ---
 iso: rmp
 name: Rempi
-name_zh: 伦皮语
-name_zh_auto: true
 autonym: "A'e"
 alt_names: [Erempi, Rempin]
 population: 1590
@@ -16,6 +14,10 @@ glottolog_family_id: nucl1709
 glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Madang > Croisilles > Mabuso > Hanseman > Rempic > Rempi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Rempi_language"
+translations:
+  - translation_iso: zho
+    name: 伦皮语
+    auto: true
 rolv_dialects:
   - rolv_code: 30277
     language_tag: rmp-x-HIS30277

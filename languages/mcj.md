@@ -1,8 +1,6 @@
 ---
 iso: mcj
 name: Mvanip
-name_zh: 姆瓦尼普语
-name_zh_auto: true
 autonym: Mvano
 alt_names: [Magu, Mvanlip, Mvanon, Mvanöp]
 population: 100
@@ -16,5 +14,9 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Northern Bantoid > Mambiloid > Nizaa-Mambila-Vute > Konja-Mambila-Vute > Mambila-Vute > Mambila-Mbongno > Mbongno-Mvano > Mvano-Ndunda > Mvano"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mvanip_language"
+translations:
+  - translation_iso: zho
+    name: 姆瓦尼普语
+    auto: true
 ---
 Mvanip (Mvano), or Magu, is a minor Mambiloid language of Nigeria. Despite the small number of speakers, the use of the language use is vigorous. Ethnologue nevertheless classifies Mvanip as threatened.

@@ -1,8 +1,6 @@
 ---
 iso: sau
 name: Saleman
-name_zh: 萨莱曼语
-name_zh_auto: true
 autonym: Sawai
 alt_names: [Hatue, Seleman, Wahai]
 population: 4800
@@ -16,6 +14,10 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Nunusaku > Three Rivers > Amalumute > Northwest Seram > Saleman"
 wikipedia_url: "https://en.wikipedia.org/wiki/Saleman_language"
+translations:
+  - translation_iso: zho
+    name: 萨莱曼语
+    auto: true
 rolv_dialects:
   - rolv_code: 4127
     language_tag: sau-x-HIS04127

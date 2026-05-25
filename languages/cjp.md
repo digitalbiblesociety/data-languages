@@ -1,8 +1,6 @@
 ---
 iso: cjp
 name: Cabécar
-name_zh: 卡贝卡尔语
-name_zh_auto: true
 autonym: Chirripó
 alt_names: [Cabecar, Chiripo, Estrella, Kabékar, Tucurrique]
 population: 7072
@@ -16,6 +14,10 @@ glottolog_family_id: chib1249
 glottolog_family_name: Chibchan
 glottolog_classification: "Chibchan > Core Chibchan > Isthmic Chibchan > Western Isthmic Chibchan > Viceitic > Cabécar"
 wikipedia_url: "https://en.wikipedia.org/wiki/Cab%C3%A9car_language"
+translations:
+  - translation_iso: zho
+    name: 卡贝卡尔语
+    auto: true
 rolv_dialects:
   - rolv_code: 8598
     language_tag: cjp-x-HIS08598

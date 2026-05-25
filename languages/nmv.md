@@ -1,8 +1,6 @@
 ---
 iso: nmv
 name: Ngamini
-name_zh: 恩加米尼语
-name_zh_auto: true
 autonym: Karangura
 alt_names: ["A:mini", Agamini, Agaminni, Ahminie, Ahminnie, Amini, Aumine, Aumini, Auminie, Aurnini, Awmani, Ganmeni, Gnameni, Jeljendi, Jeljujendi, Karanguru, Kurangooroo, Ngamani, Ngameni, Ngaminni, Ngnaminni, Ominee, Uminnie, Unminnie, Yarleeyandee, Yarluyandi, Yarluyandji, Yelyayendi]
 population: null
@@ -16,5 +14,9 @@ glottolog_family_id: pama1250
 glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > Karnic > Central Karnic > Western Central Karnic > Pirlatapa-Dieric > Dieric > Ngamini-Yarluyandi-Karangura"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ngamini_language"
+translations:
+  - translation_iso: zho
+    name: 恩加米尼语
+    auto: true
 ---
 Ngamini is an extinct Australian Aboriginal language of the Pama–Nyungan family once spoken by the Ngamini and related peoples.

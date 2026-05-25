@@ -1,7 +1,6 @@
 ---
 iso: sqt
 name: Soqotri
-name_zh: 索科特拉语
 autonym: "méthel d-saqátri"
 alt_names: [Idioma socotorí, Idioma socotrí, Saqatri, Socotri, Sokotran kieli, Sokotranski jezik, Sokotreg, Sokotri, Sokotrų kalba, Soqotri hizkuntza, Soqotrí, Soqoṭri, Soqoṭri, Soqoṭrī, South Arabian, Suqutri, Сокотрийский язык, 소코트라어]
 population: 108000
@@ -15,6 +14,15 @@ glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Semitic > West Semitic > Modern South Arabian > Eastern MSA > Soqotri"
 wikipedia_url: "https://en.wikipedia.org/wiki/Soqotri_language"
+translations:
+  - translation_iso: ara
+    name: اللغة السقطرية
+  - translation_iso: jpn
+    name: ソコトラ語
+  - translation_iso: kor
+    name: 소코트라어
+  - translation_iso: zho
+    name: 索科特拉语
 rolv_dialects:
   - rolv_code: 16845
     language_tag: sqt-x-HIS16845

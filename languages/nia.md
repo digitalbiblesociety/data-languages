@@ -1,7 +1,6 @@
 ---
 iso: nia
 name: Nias
-name_zh: 尼亚斯语
 autonym: Li Niha
 alt_names: [Bahasa Nias, Batu, Nias Selatan, Niha, Ниасский язык]
 population: 1042000
@@ -16,6 +15,17 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Sumatran > Central Barrier Islands > Nias"
 wikipedia_url: "https://en.wikipedia.org/wiki/Nias_language"
+translations:
+  - translation_iso: ara
+    name: لغة نياس
+  - translation_iso: hin
+    name: नियास
+  - translation_iso: jpn
+    name: ニアス語
+  - translation_iso: kor
+    name: 니아스어
+  - translation_iso: zho
+    name: 尼亚斯语
 rolv_dialects:
   - rolv_code: 19470
     language_tag: nia-x-HIS19470

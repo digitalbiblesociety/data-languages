@@ -1,7 +1,6 @@
 ---
 iso: chz
 name: Ozumacín Chinantec
-name_zh: 奧蘇馬辛奇南特克語
 autonym: "Chinantec, Ozumacín"
 alt_names: [Chinantec, Chinanteco, Chinanteco de Ayotzintepec, Chinanteco del sureste alto, Chinanteko, Juujmii, Ozumacin Chinantec, Upper Southeastern Chinantec, jumi dsa mojai]
 population: 3140
@@ -15,6 +14,9 @@ glottolog_family_id: otom1299
 glottolog_family_name: Otomanguean
 glottolog_classification: "Otomanguean > Western Otomanguean > Otopame-Chinantecan > Chinantecan > Central-Eastern Chinantec > Southeastern Chinantec > Chinantec Group III > Ozumacín Chinantec"
 wikipedia_url: "https://en.wikipedia.org/wiki/Chinantec_of_Ozumac%C3%ADn"
+translations:
+  - translation_iso: zho
+    name: 奧蘇馬辛奇南特克語
 rolv_dialects:
   - rolv_code: 8809
     language_tag: chz-x-HIS08809

@@ -1,8 +1,6 @@
 ---
 iso: baw
 name: "Bambili-Bambui"
-name_zh: 邦比利-邦布伊语
-name_zh_auto: true
 autonym: Bambili
 alt_names: [Bambui, Mbele, Mbili, Mbogoe]
 population: 10000
@@ -16,6 +14,10 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Wide Grassfields > Narrow Grassfields > Mbam-Nkam > Southern Mbam-Nkam > Ngembaic > Mankonic > Bambili-Bambui"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mbili-Mbui_language"
+translations:
+  - translation_iso: zho
+    name: 邦比利-邦布伊语
+    auto: true
 rolv_dialects:
   - rolv_code: 2606
     language_tag: baw-x-HIS02606

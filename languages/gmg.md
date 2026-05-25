@@ -1,8 +1,6 @@
 ---
 iso: gmg
 name: Magɨyi
-name_zh: 马吉伊语
-name_zh_auto: true
 autonym: null
 population: null
 country_id: PG
@@ -15,5 +13,9 @@ glottolog_family_id: nucl1709
 glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Madang > Kalamic-South Adelbert > South Adelbert > Sogeram > Unclassified Sogeram > Magiyi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mag%C9%A8yi_language"
+translations:
+  - translation_iso: zho
+    name: 马吉伊语
+    auto: true
 ---
 Magɨyi is a Papuan language of Madang Province, Papua New Guinea. It was first identified in 2012.

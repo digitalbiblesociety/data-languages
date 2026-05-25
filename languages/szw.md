@@ -1,7 +1,6 @@
 ---
 iso: szw
 name: Sawai
-name_zh: 沙瓦伊語
 autonym: Weda
 alt_names: [Weda-Sawai, Were]
 population: 12000
@@ -15,6 +14,11 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > South Halmahera-West New Guinea > Raja Ampat-South Halmahera > South Halmahera > Gebeic > Central-Eastern South Halmahera > Gamrange > Sawai"
 wikipedia_url: "https://en.wikipedia.org/wiki/Sawai_language"
+translations:
+  - translation_iso: jpn
+    name: サワイ語
+  - translation_iso: zho
+    name: 沙瓦伊語
 rolv_dialects:
   - rolv_code: 16384
     language_tag: szw-x-HIS16384

@@ -1,8 +1,6 @@
 ---
 iso: jma
 name: Dima
-name_zh: 迪玛语
-name_zh_auto: true
 autonym: Jimajima
 alt_names: [Dimadima, Jimjam]
 population: 750
@@ -16,5 +14,9 @@ glottolog_family_id: daga1274
 glottolog_family_name: Dagan
 glottolog_classification: "Dagan > Central Dagan > Dima"
 wikipedia_url: "https://en.wikipedia.org/wiki/Dima_language"
+translations:
+  - translation_iso: zho
+    name: 迪玛语
+    auto: true
 ---
 Dima is a Papuan language of New Guinea.

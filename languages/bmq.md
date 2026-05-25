@@ -1,7 +1,6 @@
 ---
 iso: bmq
 name: Bomu
-name_zh: 博木語
 autonym: Western Bobo Wule
 alt_names: [Bobo Oule, Bobo Wule, Bobo-oulé, Boomu, Bore, Western Bobo Oule, Western Bwamu, Western Red Bobo]
 population: 153000
@@ -16,6 +15,11 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Gur > Central Gur > Northern Central Gur > Bwamu-Oti-Volta > Bwamu > Bomu"
 wikipedia_url: "https://en.wikipedia.org/wiki/Bomu_language"
+translations:
+  - translation_iso: jpn
+    name: ボム語
+  - translation_iso: zho
+    name: 博木語
 rolv_dialects:
   - rolv_code: 8287
     language_tag: bmq-x-HIS08287

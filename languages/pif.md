@@ -1,7 +1,6 @@
 ---
 iso: pif
 name: Pingelapese
-name_zh: 平格拉佩語
 autonym: Pingelap
 alt_names: [Pingelapin kieli, Pingilapese, Pingilapés]
 population: 2000
@@ -15,5 +14,10 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Micronesian > Central Micronesian > Western Micronesian > Chuukic-Ponapeic > Ponapeic > Pingelapese"
 wikipedia_url: "https://en.wikipedia.org/wiki/Pingelapese_language"
+translations:
+  - translation_iso: jpn
+    name: ピンゲラップ語
+  - translation_iso: zho
+    name: 平格拉佩語
 ---
 The Pingelapese language is a Micronesian language native to Pingelap, an atoll in the state of Pohnpei in the Federated States of Micronesia. This atoll is the homeland of the Pingelapese people, consisting of a three-square-mile (7.8 km2) range of uninhabited small coral islets, Daekae and Sukora, and the inhabited islet, Pingelap. These islands partially make up the Caroline Islands.

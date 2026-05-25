@@ -1,7 +1,6 @@
 ---
 iso: pgd
 name: Gāndhārī
-name_zh: 健驮逻语
 autonym: 𐨒𐨢𐨪𐨁 (Kharosthi)
 population: null
 country_id: PK
@@ -14,5 +13,14 @@ glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Indo-Aryan > Middle-Modern Indo-Aryan > Eastern Dardic > Nuclear Eastern Dardic > Gandhari"
 wikipedia_url: "https://en.wikipedia.org/wiki/Gandhari_language"
+translations:
+  - translation_iso: hin
+    name: गांधारी भाषा
+  - translation_iso: jpn
+    name: ガンダーラ語
+  - translation_iso: kor
+    name: 간다라어
+  - translation_iso: zho
+    name: 健驮逻语
 ---
 Gandhārī was an Indo-Aryan Prakrit language attested mainly in texts dated between the 3rd century BCE and 4th century CE in the region of Gandhāra, in the northwestern Indian subcontinent. The language was heavily used by the former Buddhist cultures of Central Asia and its inscriptions have been found as far away as Luoyang and Anyang in eastern China.

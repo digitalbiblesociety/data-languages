@@ -1,8 +1,6 @@
 ---
 iso: gsp
 name: Wasembo
-name_zh: 瓦塞姆博语
-name_zh_auto: true
 autonym: Biapim
 alt_names: [Gusap, Yankowan]
 population: 590
@@ -16,5 +14,9 @@ glottolog_family_id: nucl1709
 glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Madang > Rai Coast > Greater Yaganon > Wasembo"
 wikipedia_url: "https://en.wikipedia.org/wiki/Wasembo_language"
+translations:
+  - translation_iso: zho
+    name: 瓦塞姆博语
+    auto: true
 ---
 Wasembo, also known as Biapim, Gusap, and Yankowan, is a Madang language spoken in Madang Province, Papua New Guinea. Usher classifies it as being closest to the Yaganon languages.

@@ -1,7 +1,6 @@
 ---
 iso: jru
 name: Japrería
-name_zh: 哈普雷里亚语
 autonym: Yapreria
 alt_names: [Japreria, Japréria, Motilón, Yaprería, Yucpa-Yaprería, Yukpa-Japrería]
 population: 216
@@ -15,5 +14,8 @@ glottolog_family_id: cari1283
 glottolog_family_name: Cariban
 glottolog_classification: "Cariban > Opon-Yukpan > Yukpan > Japrería"
 wikipedia_url: "https://en.wikipedia.org/wiki/Japreria_language"
+translations:
+  - translation_iso: zho
+    name: 哈普雷里亚语
 ---
 Japrería is a Cariban language of Venezuela.

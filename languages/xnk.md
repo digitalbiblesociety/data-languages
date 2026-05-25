@@ -1,13 +1,15 @@
 ---
 iso: xnk
 name: Nganakarti
-name_zh: 恩甘卡蒂语
-name_zh_auto: true
 autonym: Nanakarti
 population: null
 country_id: AU
 country_name: Australia
 status_id: "10"
 wikipedia_url: "https://en.wikipedia.org/wiki/Nhanhagardi_language"
+translations:
+  - translation_iso: zho
+    name: 恩甘卡蒂语
+    auto: true
 ---
 The Nhanhagardi language, also written Nana karti, Nanakarti, Nanakarri, Nanakari, and Nanakati, and also known as Wilunyu, Wiri, Minangu, Barimaia and Jaburu, is an Aboriginal Australian language of the Champion Bay area of Western Australia.

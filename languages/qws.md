@@ -1,8 +1,6 @@
 ---
 iso: qws
 name: Sihuas Ancash Quechua
-name_zh: 西华斯安卡什克丘亚语
-name_zh_auto: true
 autonym: Huaylay
 alt_names: [Ancas, Ancash, Chinchaysuyo, Conchucos, North Central Kechua, Northern Quechua, "Quechua, Sihuas  Ancash"]
 population: 3000
@@ -15,4 +13,8 @@ glottocode: sihu1235
 glottolog_family_id: quec1387
 glottolog_family_name: Quechuan
 glottolog_classification: "Quechuan > Quechua I > Central Quechua I > Huaylay > Corongo-Sihuas > Sihuas Ancash Quechua"
+translations:
+  - translation_iso: zho
+    name: 西华斯安卡什克丘亚语
+    auto: true
 ---

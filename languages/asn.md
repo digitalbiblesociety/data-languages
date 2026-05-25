@@ -1,8 +1,6 @@
 ---
 iso: asn
 name: Xingú Asuriní
-name_zh: 辛古阿苏里尼语
-name_zh_auto: true
 autonym: Asuriní de Koatinema
 alt_names: [Akwaya, Assurini, Assurinikin, Assuriní do Xingú, Asurini, Asurini do Xingu, Asuriní, Asuriní de coatinema, Asuriní do Coatinema, Asuriní do Koatinema, Asuriní do Xingu, Asuriní do Xingú, Asuriní du Xingu, Asuriní of Xingú, "Asuriní, Xingú", Awaeté, Awaté, Xingu Asurini, Xingu Asuriní, Xingú]
 population: 110
@@ -16,5 +14,9 @@ glottolog_family_id: tupi1275
 glottolog_family_name: Tupian
 glottolog_classification: "Tupian > Eastern Tupian > Maweti-Guarani > Aweti-Guarani > Tupi-Guarani > Tupi-Guarani Subgroup V > Xingú Asuriní"
 wikipedia_url: "https://en.wikipedia.org/wiki/Xingu_Asurini_language"
+translations:
+  - translation_iso: zho
+    name: 辛古阿苏里尼语
+    auto: true
 ---
 Xingú Asuriní is a Tupi–Guaraní language of the state of Pará, in the Amazon region of Brazil. The entire population speaks the language, and most speakers are monolingual.

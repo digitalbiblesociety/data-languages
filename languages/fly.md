@@ -1,7 +1,6 @@
 ---
 iso: fly
 name: Flaaitaal
-name_zh: 伊斯坎索语
 autonym: Flaaitaal
 alt_names: [Flaai Taal, Fly Taal, Tsotsitaal]
 population: null
@@ -14,4 +13,9 @@ glottocode: tsot1242
 glottolog_family_id: spee1234
 glottolog_family_name: Speech Register
 glottolog_classification: "Speech Register > Indo-European Speech Register > Tsotsitaal"
+translations:
+  - translation_iso: jpn
+    name: ツォツィタール
+  - translation_iso: zho
+    name: 伊斯坎索语
 ---

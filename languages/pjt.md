@@ -1,7 +1,6 @@
 ---
 iso: pjt
 name: Pitjantjatjara
-name_zh: 皮詹贾贾拉语
 autonym: Pitjantjara
 alt_names: [Bidjandja, Bidjandjadjara, Bidjandjadjara/Njangadadjara, Bidjandjara, Bidjuwongga, Bidyandyadyara, Bindjandjadjara, Gunggawara, Ituarre, Jabu, Kalgonei, Mamoo, Mamu, Mangawara, Mulatara, Nangatadjara, Njangadjadjara, Nyangatjatjara, Partutu, Peechintarra, Pichanchachara, Pid jandjara, Pid-jandjara, Pidjandja, Pidjandjara, Pidzandza, Pijandarra, Pintularapi, Pitchentara, Pitdjandjara, Pitindjatjara, Pitjandara, Pitjandjadjara, Pitjandjara, Pitjangjadjara, Pitjanjarra, Pitjantjatjarra, Pitjanzazara, Pitjendadjara, Pitjentara, Pitjindjatjara, Pitjindjiara, Pitjinjara, Pitjinjiara, Pitjintara, Pitjintjitjira, Pitkindjara, Pituari, Tjitiadjara, Tjurti, Wankawinan, Wanudjara, Widanda, Widjandja, Wirtjapakandja, Woga pitja, Wongapitcha, Wongapitja, Wongapitjira, Woŋga-pitja, 피짠짜짜라어]
 population: 3550
@@ -15,6 +14,13 @@ glottolog_family_id: pama1250
 glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > Desert Nyungic > Wati > Pintupic > Nuclear Pintupic > Wangkatja-Tjarra > Tjarra > Pitjantjatjara"
 wikipedia_url: "https://en.wikipedia.org/wiki/Pitjantjatjara_dialect"
+translations:
+  - translation_iso: jpn
+    name: ピッチャンチャジャーラ語
+  - translation_iso: kor
+    name: 피찬차차라어
+  - translation_iso: zho
+    name: 皮詹贾贾拉语
 rolv_dialects:
   - rolv_code: 4312
     language_tag: pjt-x-HIS04312

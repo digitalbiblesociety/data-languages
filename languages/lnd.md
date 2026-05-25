@@ -1,8 +1,6 @@
 ---
 iso: lnd
 name: Lundayeh
-name_zh: 龙达耶语
-name_zh_auto: true
 autonym: " Southern Murut"
 alt_names: [Brunei Murut, Lun Bawang, Lun Bawang language, Lun Daya, Lun Dayah, Lun Daye, Lun Dayeh, Lun Dayoh, Lundaya, Murut]
 population: 47500
@@ -16,6 +14,10 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > North Borneo Malayo-Polynesian > North Sarawakan > Dayic > Lundayeh"
 wikipedia_url: "https://en.wikipedia.org/wiki/Lun_Bawang_language"
+translations:
+  - translation_iso: zho
+    name: 龙达耶语
+    auto: true
 rolv_dialects:
   - rolv_code: 804
     language_tag: lnd-x-HIS00804

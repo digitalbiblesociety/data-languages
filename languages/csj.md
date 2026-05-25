@@ -1,8 +1,6 @@
 ---
 iso: csj
 name: Songlai Chin
-name_zh: 颂来钦语
-name_zh_auto: true
 autonym: Hio
 alt_names: ["Chin, Songlai"]
 population: 7300
@@ -10,6 +8,10 @@ country_id: MM
 country_name: Myanmar
 status_id: 6a
 wikipedia_url: "https://en.wikipedia.org/wiki/Songlai_language"
+translations:
+  - translation_iso: zho
+    name: 颂来钦语
+    auto: true
 rolv_dialects:
   - rolv_code: 24711
     language_tag: csj-x-HIS24711

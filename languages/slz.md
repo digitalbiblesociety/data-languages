@@ -1,8 +1,6 @@
 ---
 iso: slz
 name: "Ma'ya"
-name_zh: 玛亚语
-name_zh_auto: true
 autonym: Sailolof
 alt_names: [Maya, Maya (South Halmahera), Salawati, Salawati dialect, Samate]
 population: 4000
@@ -16,6 +14,12 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > South Halmahera-West New Guinea > Raja Ampat-South Halmahera > Maya-Salawati-Matbat > Maya-Salawati > Raja Ampat Maya > Misool-Salawati Ma'ya"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ma%CA%BCya_language"
+translations:
+  - translation_iso: jpn
+    name: "Ma'ya語"
+  - translation_iso: zho
+    name: 玛亚语
+    auto: true
 rolv_dialects:
   - rolv_code: 1303
     language_tag: slz-x-HIS01303

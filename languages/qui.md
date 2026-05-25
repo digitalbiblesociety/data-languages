@@ -1,8 +1,6 @@
 ---
 iso: qui
 name: Quileute
-name_zh: 奎留特语
-name_zh_auto: true
 autonym: Kʷòʔlíyotʼ
 alt_names: [Quile-ute, Quileutés, Quillayute]
 population: 300
@@ -16,6 +14,12 @@ glottolog_family_id: chim1311
 glottolog_family_name: Chimakuan
 glottolog_classification: "Chimakuan > Quileute"
 wikipedia_url: "https://en.wikipedia.org/wiki/Quileute_language"
+translations:
+  - translation_iso: ara
+    name: كيلوت
+  - translation_iso: zho
+    name: 奎留特语
+    auto: true
 rolv_dialects:
   - rolv_code: 15903
     language_tag: qui-x-HIS15903

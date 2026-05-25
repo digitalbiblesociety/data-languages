@@ -1,8 +1,6 @@
 ---
 iso: oyy
 name: "Oya'oya"
-name_zh: 奥亚奥亚语
-name_zh_auto: true
 autonym: Daiomuni
 alt_names: [Kuiaro, Loani, Simagahi]
 population: 370
@@ -16,5 +14,9 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > Papuan Tip linkage > Nuclear Papuan Tip linkage > Suauic > Oya'oya"
 wikipedia_url: "https://en.wikipedia.org/wiki/Oya%CA%BCoya_language"
+translations:
+  - translation_iso: zho
+    name: 奥亚奥亚语
+    auto: true
 ---
 Oyaʼoya is an Oceanic dialect cluster spoken at the tip of the Papuan Peninsula in Papua New Guinea.

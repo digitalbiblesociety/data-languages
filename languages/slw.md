@@ -1,8 +1,6 @@
 ---
 iso: slw
 name: Sialum
-name_zh: 西亚卢姆语
-name_zh_auto: true
 autonym: null
 population: 640
 country_id: PG
@@ -15,5 +13,9 @@ glottolog_family_id: nucl1709
 glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Finisterre-Huon > Huon > Eastern Huon > Kalasa > Sialum"
 wikipedia_url: "https://en.wikipedia.org/wiki/Sialum_language"
+translations:
+  - translation_iso: zho
+    name: 西亚卢姆语
+    auto: true
 ---
 Sialum is a Papuan language of Sialum Rural LLG, Morobe Province, Papua New Guinea.

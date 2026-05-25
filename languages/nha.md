@@ -1,8 +1,6 @@
 ---
 iso: nha
 name: Nhanda
-name_zh: 恩汉达语
-name_zh_auto: true
 autonym: Nanda
 alt_names: [Amangu, Bulgulu, Buluguda, Champion Bay tribe, Daguda, Eau, Eaw, Jau, Nanta, Nhanta, Nubda, Nunta, Tamala, Watchandi, Watchandie, Wathandi, Watjandi, Wilunya, Yau, Yaw]
 population: null
@@ -16,6 +14,10 @@ glottolog_family_id: pama1250
 glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > South-West Pama-Nyungan > Kartu-Nhanda > Nhanda"
 wikipedia_url: "https://en.wikipedia.org/wiki/Nhanda_language"
+translations:
+  - translation_iso: zho
+    name: 恩汉达语
+    auto: true
 rolv_dialects:
   - rolv_code: 30864
     language_tag: nha-x-HIS30864

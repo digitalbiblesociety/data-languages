@@ -1,8 +1,6 @@
 ---
 iso: slg
 name: Selungai Murut
-name_zh: 塞隆盖穆鲁特语
-name_zh_auto: true
 autonym: Murut
 alt_names: ["Malaysia, Indonesia"]
 population: 1240
@@ -16,5 +14,9 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > North Borneo Malayo-Polynesian > Sabahan > Southwest Sabahan > Greater Murutic > Murutic > Eastern Murutic > Selungai-Sembakung Murut > Selungai Murut"
 wikipedia_url: "https://en.wikipedia.org/wiki/Selungai_Murut_language"
+translations:
+  - translation_iso: zho
+    name: 塞隆盖穆鲁特语
+    auto: true
 ---
 Selungai Murut is a language spoken by the Murut people of Borneo.

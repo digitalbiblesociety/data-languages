@@ -1,8 +1,6 @@
 ---
 iso: kie
 name: Kibet
-name_zh: 基贝特语
-name_zh_auto: true
 autonym: Runga
 alt_names: [Kaben, Kabentang, Kibeet, Kibeit]
 population: 18500
@@ -15,6 +13,10 @@ glottocode: kibe1241
 glottolog_family_id: maba1274
 glottolog_family_name: Maban
 glottolog_classification: "Maban > Mabang > Runga-Kibet > Kibet"
+translations:
+  - translation_iso: zho
+    name: 基贝特语
+    auto: true
 rolv_dialects:
   - rolv_code: 3089
     language_tag: kie-x-HIS03089

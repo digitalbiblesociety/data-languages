@@ -1,8 +1,6 @@
 ---
 iso: rmn
 name: Balkan Romani
-name_zh: 巴尔干罗姆语
-name_zh_auto: true
 autonym: Balkaniko Romanes
 alt_names: [Balkan, Bugurdz, Bugurdzi, Cigány, European Romany, Gypsy, Romani, Romani (Ajia Varvara), Romani (Bugurdzi), "Romani, Balkan", Romany, Zigeuner]
 population: 602840
@@ -16,6 +14,12 @@ glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Indo-Aryan > Middle-Modern Indo-Aryan > Continental Indo-Aryan > Midlands Indo-Aryan > Shaurasenic > Indo-Aryan Central zone > Romani > Balkan Romani"
 wikipedia_url: "https://en.wikipedia.org/wiki/Balkan_Romani"
+translations:
+  - translation_iso: jpn
+    name: バルカン方言群
+  - translation_iso: zho
+    name: 巴尔干罗姆语
+    auto: true
 rolv_dialects:
   - rolv_code: 3403
     language_tag: rmn-x-HIS03403

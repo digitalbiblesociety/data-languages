@@ -1,7 +1,6 @@
 ---
 iso: oaa
 name: Orok
-name_zh: 鄂罗克语
 autonym: Uilta
 alt_names: [Oroka lingvo, Orokisk, Sprache der Oroken, Ujlta, Ulta, Орок чĕлхи, орокский язык, уйльта, ульта, ウィルタ語, 윌타어]
 population: 346
@@ -15,6 +14,13 @@ glottolog_family_id: tung1282
 glottolog_family_name: Tungusic
 glottolog_classification: "Tungusic > Central-Western Tungusic > Ulchaic > Orok"
 wikipedia_url: "https://en.wikipedia.org/wiki/Uilta_language"
+translations:
+  - translation_iso: jpn
+    name: ウィルタ語
+  - translation_iso: kor
+    name: 윌타어
+  - translation_iso: zho
+    name: 鄂罗克语
 rolv_dialects:
   - rolv_code: 15336
     language_tag: oaa-x-HIS15336

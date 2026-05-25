@@ -1,8 +1,6 @@
 ---
 iso: nti
 name: Natioro
-name_zh: 纳蒂奥罗语
-name_zh_auto: true
 autonym: Koo’ra
 alt_names: ["Koo'ra", Natjoro, Natyoro, Samukune]
 population: 2400
@@ -16,6 +14,10 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Gur > Samu > Natioro"
 wikipedia_url: "https://en.wikipedia.org/wiki/Natioro_language"
+translations:
+  - translation_iso: zho
+    name: 纳蒂奥罗语
+    auto: true
 rolv_dialects:
   - rolv_code: 4840
     language_tag: nti-x-HIS04840

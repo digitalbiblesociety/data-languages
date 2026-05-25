@@ -1,8 +1,6 @@
 ---
 iso: rmc
 name: Carpathian Romani
-name_zh: 喀尔巴阡罗姆语
-name_zh_auto: true
 autonym: Central Romani
 alt_names: [Bashaldo, Carpathian, Cigány, European Romany, Hungarian-Slovak Romani, Romani, "Romani, Carpathian", Romany, Romaní, Romungro, Zigeuner]
 population: 157110
@@ -16,6 +14,12 @@ glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Indo-Aryan > Middle-Modern Indo-Aryan > Continental Indo-Aryan > Midlands Indo-Aryan > Shaurasenic > Indo-Aryan Central zone > Romani > Central Romani"
 wikipedia_url: "https://en.wikipedia.org/wiki/Carpathian_Romani"
+translations:
+  - translation_iso: jpn
+    name: カルパティア・ロマ語
+  - translation_iso: zho
+    name: 喀尔巴阡罗姆语
+    auto: true
 rolv_dialects:
   - rolv_code: 16015
     language_tag: rmc-x-HIS16015

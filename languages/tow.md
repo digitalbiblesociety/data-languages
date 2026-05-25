@@ -1,7 +1,6 @@
 ---
 iso: tow
 name: Jemez
-name_zh: 傑梅茲語
 autonym: Towa
 alt_names: [Jemez (Towa), Jemez Towa, Towa (Jemez)]
 population: 1300
@@ -15,5 +14,10 @@ glottolog_family_id: kiow1265
 glottolog_family_name: Kiowa-Tanoan
 glottolog_classification: "Kiowa-Tanoan > Towa"
 wikipedia_url: "https://en.wikipedia.org/wiki/Jemez_language"
+translations:
+  - translation_iso: jpn
+    name: トワ語
+  - translation_iso: zho
+    name: 傑梅茲語
 ---
 Jemez or Hemish is a Kiowa-Tanoan language spoken by the Jemez Pueblo people in New Mexico. It has no common written form, as tribal rules do not allow the language to be transcribed; linguists describing the language have used the Americanist phonetic notation with slight modifications.

@@ -1,8 +1,6 @@
 ---
 iso: abr
 name: Abron
-name_zh: 阿布隆语
-name_zh_auto: true
 autonym: Bron
 alt_names: [Abron jezik, Brong, Doma, Gyaman, Lenga Abron, Lingua abrón, Língua abron]
 population: 1393000
@@ -17,6 +15,12 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Kwa Volta-Congo > Nyo > Potou-Tano > Tano > Central Tano > Akanic > Abron"
 wikipedia_url: "https://en.wikipedia.org/wiki/Bono_dialect"
+translations:
+  - translation_iso: jpn
+    name: アブロン語
+  - translation_iso: zho
+    name: 阿布隆语
+    auto: true
 rolv_dialects:
   - rolv_code: 24187
     language_tag: abr-x-HIS24187

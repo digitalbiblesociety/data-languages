@@ -1,7 +1,6 @@
 ---
 iso: abj
 name: "Aka-Bea"
-name_zh: （Aka-）Bea
 autonym: "Aka-Bea"
 alt_names: [Aka-Beada, Aka-Biada, Aka-bea jezik, Andamanese, Bahasa Aka-Bea, Bea, Beada, Biada, Bogijiab, Bojigniji, Bojigyab, Great Andamanese, Idioma bea, Język aka-bea, Lèngua Aka-Bea, अका बिया भाषा]
 population: null
@@ -15,5 +14,14 @@ glottolog_family_id: grea1241
 glottolog_family_name: Great Andamanese
 glottolog_classification: "Great Andamanese > South Great Andamanese > Akabea"
 wikipedia_url: "https://en.wikipedia.org/wiki/Akabea"
+translations:
+  - translation_iso: hin
+    name: अका बिया भाषा
+  - translation_iso: jpn
+    name: Aka-Bea族の言葉
+  - translation_iso: kor
+    name: 아카베아어
+  - translation_iso: zho
+    name: （Aka-）Bea
 ---
 The Bea language, Aka-Bea, also called Bojigyab, is an extinct Great Andamanese language of the Southern group. It was spoken around the western Andaman Strait and around the northern and western coast of South Andaman. It was well documented in the late 19th century, but died out in the 1920s. The term Aka-Bea was used both to name the language and the people who spoke it, derived from the prefix aka-, used to name objects related to the tongue, and bea, meaning 'spring-water'.

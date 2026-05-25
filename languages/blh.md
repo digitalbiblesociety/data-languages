@@ -1,8 +1,6 @@
 ---
 iso: blh
 name: Kuwaa
-name_zh: 库瓦语
-name_zh_auto: true
 autonym: Belleh
 alt_names: [Belle, Kowaao, Kwaa]
 population: 27000
@@ -16,5 +14,9 @@ glottolog_family_id: krua1234
 glottolog_family_name: Kru
 glottolog_classification: "Kru > Greater Western Kru > Kuwaa"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kuwaa_language"
+translations:
+  - translation_iso: zho
+    name: 库瓦语
+    auto: true
 ---
 The Kuwaa language, also known as Belle, Belleh, Kowaao, and Kwaa, is a Kru language. It is spoken in northwestern Liberia, primarily in Lofa County. The speech of the Lubaisu and Gbade, the two Kuwaa clans, is differentiated only by minor variations in pronunciation.

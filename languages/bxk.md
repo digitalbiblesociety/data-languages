@@ -1,8 +1,6 @@
 ---
 iso: bxk
 name: Bukusu
-name_zh: 布库苏语
-name_zh_auto: true
 autonym: Lubukusu
 alt_names: [Boukousoueg, Lugha ya Bukusu]
 population: 1227100
@@ -16,6 +14,12 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > East Bantu > Northeast Savanna Bantu > Great Lakes Bantu > Greater Luyia > Luyia > Saamia-Wanga-Bukusu > Northern Luyia > Bukusu"
 wikipedia_url: "https://en.wikipedia.org/wiki/Bukusu_dialect"
+translations:
+  - translation_iso: jpn
+    name: ブクス語
+  - translation_iso: zho
+    name: 布库苏语
+    auto: true
 rolv_dialects:
   - rolv_code: 961
     language_tag: bxk-x-HIS00961

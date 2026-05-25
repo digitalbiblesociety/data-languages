@@ -1,8 +1,6 @@
 ---
 iso: rpn
 name: Repanbitip
-name_zh: 雷潘比蒂普语
-name_zh_auto: true
 autonym: Letemboi
 population: 125
 country_id: VU
@@ -11,5 +9,9 @@ status_id: 6b
 latitude: -16.32646
 longitude: 167.61883
 wikipedia_url: "https://en.wikipedia.org/wiki/Repanbitip_language"
+translations:
+  - translation_iso: zho
+    name: 雷潘比蒂普语
+    auto: true
 ---
 Lendamboi, Letemboi, or Small Nambas, is one of the Malekula Interior languages of Vanuatu.

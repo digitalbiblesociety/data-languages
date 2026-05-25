@@ -1,8 +1,6 @@
 ---
 iso: idi
 name: Idi
-name_zh: 伊地语
-name_zh_auto: true
 autonym: Diblaeg
 alt_names: [Dibolug, Dimisi, Dimsisi, Tame]
 population: 1610
@@ -16,6 +14,10 @@ glottolog_family_id: paho1240
 glottolog_family_name: Pahoturi
 glottolog_classification: "Pahoturi > Idi-Taeme"
 wikipedia_url: "https://en.wikipedia.org/wiki/Idi_language"
+translations:
+  - translation_iso: zho
+    name: 伊地语
+    auto: true
 rolv_dialects:
   - rolv_code: 10786
     language_tag: idi-x-HIS10786

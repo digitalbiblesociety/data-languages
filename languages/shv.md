@@ -1,7 +1,6 @@
 ---
 iso: shv
 name: Shehri
-name_zh: 山地语
 autonym: Jibbali
 alt_names: [Ehkili, Geblet, Gəblɛ̄t, Jibali, Jibbālī, Qarawi, Sehri, Shahari, Shehri hizkuntza, Sheret, South Arabian, Śḥərɛ̄t, Šhaḥri, Yibalí, Śḥeri, Śḥeri, لغة شحرية]
 population: 25000
@@ -15,6 +14,13 @@ glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Semitic > West Semitic > Modern South Arabian > Eastern MSA > Jibbali"
 wikipedia_url: "https://en.wikipedia.org/wiki/Shehri_language"
+translations:
+  - translation_iso: ara
+    name: الشحرية
+  - translation_iso: jpn
+    name: シャフラ語
+  - translation_iso: zho
+    name: 山地语
 rolv_dialects:
   - rolv_code: 11148
     language_tag: shv-x-HIS11148

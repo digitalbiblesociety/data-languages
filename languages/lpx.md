@@ -1,8 +1,6 @@
 ---
 iso: lpx
 name: Lopit
-name_zh: 洛皮特语
-name_zh_auto: true
 autonym: Lafiit
 alt_names: [Lafit, Lafite, Lofit, Lopid, Loppit]
 population: 117000
@@ -16,6 +14,12 @@ glottolog_family_id: nilo1247
 glottolog_family_name: Nilotic
 glottolog_classification: "Nilotic > Eastern Nilotic > Teso-Lotuxo-Maa > Lotuxo-Maa > Lotuxo > Lopit-Dongotono > Lopit"
 wikipedia_url: "https://en.wikipedia.org/wiki/Lopit_language"
+translations:
+  - translation_iso: jpn
+    name: ロピット語
+  - translation_iso: zho
+    name: 洛皮特语
+    auto: true
 rolv_dialects:
   - rolv_code: 27197
     language_tag: lpx-x-HIS27197

@@ -1,8 +1,6 @@
 ---
 iso: dhu
 name: Dhurga
-name_zh: 杜尔加语
-name_zh_auto: true
 autonym: "Dhu'rga"
 alt_names: [Baianga, Bargalia, Bugellimangi, Bugellimanj, Bugellimanji, "Dhu:rga", Dhuurga, Djiringanj, "Du:rga", Durga, Duurga, Dyirringan, Guyanagal, Guyangal yuin, Guyangalyuin, Katungal, Kurialyuin, Moruya, Moruya tribe, Murring, Oates, Paienbera, Paiendra, Tadera manji, Tadermanji, Tauaira, Tharawal, Tharumba, Thaua, Thauaira, Thawa, Thoorga, Thurga, Tindale, Walbanga, Wandandian, Wandanian, Wurm, Yuin]
 population: null
@@ -16,5 +14,9 @@ glottolog_family_id: pama1250
 glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > Southeastern Pama-Nyungan > New South Wales Pama-Nyungan > Yuin-Kuri > Yuin > Northern Costal Yuin > Dhurga"
 wikipedia_url: "https://en.wikipedia.org/wiki/Dhurga_language"
+translations:
+  - translation_iso: zho
+    name: 杜尔加语
+    auto: true
 ---
 The Dhurga language, also written Thurga, is an Australian Aboriginal language of New South Wales. It is a language of the Yuin people, specifically the Wandandian and Walbunja groups, but there have been no fluent speakers officially recorded for decades, so it has been functionally extinct for some time. Efforts have been made to revive the language since the 2010s.

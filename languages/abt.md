@@ -1,7 +1,6 @@
 ---
 iso: abt
 name: Ambulas
-name_zh: 阿贝兰语
 autonym: Ambelas
 alt_names: [Abelam, Abulas, Hanga Hundi, Kwasengen, West Wosera]
 population: 33000
@@ -15,6 +14,11 @@ glottolog_family_id: nduu1242
 glottolog_family_name: Ndu
 glottolog_classification: "Ndu > Nuclear Ndu > Ambulas-Hanga-Hundi > Ambulas"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ambulas_language"
+translations:
+  - translation_iso: jpn
+    name: アベラム語
+  - translation_iso: zho
+    name: 阿贝兰语
 rolv_dialects:
   - rolv_code: 440
     language_tag: abt-x-HIS00440

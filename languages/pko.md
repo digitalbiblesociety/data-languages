@@ -1,8 +1,6 @@
 ---
 iso: pko
 name: Pökoot
-name_zh: 珀科特语
-name_zh_auto: true
 autonym: Pakot
 alt_names: [Lenga Pökoot, Peukouteg, Pokoot, Pokot, Pökot, Suk]
 population: 883000
@@ -17,6 +15,12 @@ glottolog_family_id: nilo1247
 glottolog_family_name: Nilotic
 glottolog_classification: "Nilotic > Southern Nilotic > Kalenjin > Northern Kalenjin > Pökoot"
 wikipedia_url: "https://en.wikipedia.org/wiki/P%C3%B6koot_language"
+translations:
+  - translation_iso: jpn
+    name: ポコット語
+  - translation_iso: zho
+    name: 珀科特语
+    auto: true
 rolv_dialects:
   - rolv_code: 748
     language_tag: pko-x-HIS00748

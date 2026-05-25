@@ -1,7 +1,6 @@
 ---
 iso: bob
 name: Aweer
-name_zh: 阿维尔语
 autonym: Boni
 alt_names: ["\"Boni\"", Aloekoe, Aluku, Aweera, Bon, Ogoda, Sanye, Waata, Waboni, Wasanye, Wata, Wata-Bala]
 population: 8000
@@ -15,5 +14,8 @@ glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Cushitic > East Cushitic > Lowland East Cushitic > Southern Lowland East Cushitic > Mainstream Lowland East Cushitic > Omo-Tana > Eastern Omo-Tana > Karre-Boni > Aweer"
 wikipedia_url: "https://en.wikipedia.org/wiki/Aweer_language"
+translations:
+  - translation_iso: zho
+    name: 阿维尔语
 ---
 Aweer (Aweera), also known as Boni, is a Cushitic language of Eastern Kenya. The Aweer people, known by the arguably derogatory exonym Boni, are historically a hunter-gatherer people, traditionally subsisting on hunting, gathering, and collecting honey. Their ancestral lands range along the Kenyan coast from the Lamu and Ijara Districts into Southern Somalia's Badaade District.

@@ -1,7 +1,6 @@
 ---
 iso: tet
 name: Tetum
-name_zh: 德顿语
 autonym: Tetun Prasa
 alt_names: [Bahasa Tetum, Bahasa Tetun, Basa Tetun, Belo, Belu, Fehan, Idioma tetun, Lenga Tetun, Lia-tetun, Lingua tetum, Teto, Tettum, Tetu, Tetum kalba, Tetuma lingvo, Tetumin kieli, Tetun, Tetun (Fehan), Tetun Belu, Tetung, Tetunu valoda, Tetwm, Tétoum, Tétum, Тетум, Тетун, ภาษาเตตุม, テトゥン語, 德顿语, 테툼어]
 population: 463500
@@ -16,6 +15,17 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Timor-Babar > Eastern Timor > Central Timoric A > Tetunic > Tetum"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tetun_language"
+translations:
+  - translation_iso: ara
+    name: التيتومية
+  - translation_iso: hin
+    name: तेतुम भाषा
+  - translation_iso: jpn
+    name: テトゥン語
+  - translation_iso: kor
+    name: 테툼어
+  - translation_iso: zho
+    name: 德顿语
 rolv_dialects:
   - rolv_code: 17400
     language_tag: tet-x-HIS17400

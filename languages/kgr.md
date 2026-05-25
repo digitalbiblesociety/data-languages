@@ -1,8 +1,6 @@
 ---
 iso: kgr
 name: Abun
-name_zh: 阿本语
-name_zh_auto: true
 autonym: A Nden
 alt_names: [Karon, Karon Pantai, Madik, Manif, Yimbun]
 population: 3000
@@ -13,6 +11,10 @@ latitude: -0.57073
 longitude: 132.4159
 glottocode: abun1252
 wikipedia_url: "https://en.wikipedia.org/wiki/Abun_language"
+translations:
+  - translation_iso: zho
+    name: 阿本语
+    auto: true
 rolv_dialects:
   - rolv_code: 1336
     language_tag: kgr-x-HIS01336

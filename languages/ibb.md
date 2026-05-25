@@ -1,7 +1,6 @@
 ---
 iso: ibb
 name: Ibibio
-name_zh: 伊比比奥语
 autonym: (Ibibio proper)
 alt_names: [Atabaskamál, Bahasa Efik, Język ibibio, Lenga Ibibio, Língua ibibio, Nigeria, Ибибио, イビビオ語]
 population: 5939000
@@ -16,6 +15,17 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Delta Cross > Lower Cross > Nuclear Lower Cross > Central Lower Cross > Efikic > Okop Usem > Efik-Ibibio > Ibibio"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ibibio_language"
+translations:
+  - translation_iso: ara
+    name: الإيبيبيو
+  - translation_iso: hin
+    name: इबिबियो
+  - translation_iso: jpn
+    name: イビビオ語
+  - translation_iso: kor
+    name: 이비비오어
+  - translation_iso: zho
+    name: 伊比比奥语
 rolv_dialects:
   - rolv_code: 4546
     language_tag: ibb-x-HIS04546

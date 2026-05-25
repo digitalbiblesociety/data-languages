@@ -1,7 +1,6 @@
 ---
 iso: kgs
 name: Kumbainggar
-name_zh: 古姆巴延吉尔语
 autonym: Kumbainggar
 alt_names: [Ahnbi, Baanbay, Bahnbi, Banbai, Bellingen tribe, Bellinger tribe, Cambanggarie, Coombagoree, Coombangree, Coombargaree, Coombyn gura, Coombyn-gura, Coombyngara, Coombyngura, Coombyugura, Cumbainggar, Dandai, Gambalamam, Gamlamang, Guinbainggiri, Gumbaigar, Gumbainga, Gumbaingaar, Gumbaingar, Gumbaingari, Gumbainggar, Gumbainggir, Gumbainggirr, Gumbaiŋgar, Gumbanga, Gumbanggar, Gumbanggeri, Gumbangir, Gumbanjaree, Gumbaynggir, Gumbaynggiric languages, Gumbaynggirr, Gumbayngir, Gumbayunggir, Gunbaigar, Gunbainygar, Gunbaiŋgar, Jiegera, Kom baingheri, Kom-baingheri, Kombaingheri, Kombinegherry, Koombabgghery, Koombainga, Koombanggaree, Koombanggary, Koombanggherry, Koombangghery, Koombangi, Kumbaingari, Kumbaingeri, Kumbainggeri, Kumbainggerri, Kumbainggir, Kumbainggiri, Kumbainggirri, Kumbaingir, Kumbangar, Kumbangerai, Kumbanggar, Kumbanggerri, Kumbinggeri, Nimboy, Orara, Woolgoolga, Yaygir, Yuungay]
 population: 90
@@ -15,5 +14,8 @@ glottolog_family_id: pama1250
 glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > Southeastern Pama-Nyungan > North Coast Pama-Nyungan > Gumbaynggiric > Kumbainggar"
 wikipedia_url: "https://en.wikipedia.org/wiki/Gumbaynggirr_language"
+translations:
+  - translation_iso: zho
+    name: 古姆巴延吉尔语
 ---
 Gumbaynggirr is an endangered Australian Aboriginal language spoken by the Gumbaynggirr people, who are native to the Mid North Coast of New South Wales.

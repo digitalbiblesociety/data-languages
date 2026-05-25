@@ -1,7 +1,6 @@
 ---
 iso: pkt
 name: Maleng
-name_zh: 马伦语
 autonym: Pakatan
 alt_names: [Hareme, Kha, Kri, Krìì, Malang, Malieng, Mã Liềng, Sô Salang]
 population: 1000
@@ -15,6 +14,9 @@ glottolog_family_id: aust1305
 glottolog_family_name: Austroasiatic
 glottolog_classification: "Austroasiatic > Vietic > Chutic > East Chutic > Maleng"
 wikipedia_url: "https://en.wikipedia.org/wiki/Maleng_language"
+translations:
+  - translation_iso: zho
+    name: 马伦语
 rolv_dialects:
   - rolv_code: 2016
     language_tag: pkt-x-HIS02016

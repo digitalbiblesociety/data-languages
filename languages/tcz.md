@@ -1,8 +1,6 @@
 ---
 iso: tcz
 name: Thado Chin
-name_zh: 塔多钦语
-name_zh_auto: true
 autonym: Kuki
 alt_names: [Chin, Chin (North)/Thado, Chin (Thado), Chin tado, "Chin, Thado", "Chin,Thado", Kuki-Thado, Thaadou Kuki, Thado, Thado-Pao, Thado-Ubiphei, Thadou, Thādo-pao, သာဒိုး ချင်း]
 population: 346100
@@ -16,6 +14,14 @@ glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Kuki-Chin-Naga > Kuki-Chin > Peripheral Kuki-Chin > Northeastern Kuki-Chin > Thadoic > Thado Chin"
 wikipedia_url: "https://en.wikipedia.org/wiki/Thadou_language"
+translations:
+  - translation_iso: hin
+    name: थडो भाषा
+  - translation_iso: jpn
+    name: タドウ語
+  - translation_iso: zho
+    name: 塔多钦语
+    auto: true
 rolv_dialects:
   - rolv_code: 8794
     language_tag: tcz-x-HIS08794

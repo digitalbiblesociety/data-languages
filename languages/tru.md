@@ -1,7 +1,6 @@
 ---
 iso: tru
 name: Turoyo
-name_zh: 圖羅尤語
 autonym: Sūrayṯ
 alt_names: [Surayt, Suryoyo, Syryoyo, Süryani, Touroyo, Touroyoeg, Turani, Turoyo jezik, Туройо, Туројо јазик, ภาษาตูโรโย, Ṭurōyō, 圖羅尤語]
 population: 104900
@@ -16,6 +15,15 @@ glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Semitic > West Semitic > Central Semitic > Northwest Semitic > Aramaic > Imperial-Middle-Modern Aramaic > Middle-Modern Aramaic > Eastern Aramaic > Central Eastern Aramaic > Turoyo-Mlahso > Turoyo"
 wikipedia_url: "https://en.wikipedia.org/wiki/Turoyo_language"
+translations:
+  - translation_iso: ara
+    name: لهجة طورية
+  - translation_iso: jpn
+    name: トゥロヨ語
+  - translation_iso: kor
+    name: 투로요어
+  - translation_iso: zho
+    name: 圖羅尤語
 rolv_dialects:
   - rolv_code: 4287
     language_tag: tru-x-HIS04287

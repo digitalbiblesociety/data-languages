@@ -1,8 +1,6 @@
 ---
 iso: tae
 name: Tariana
-name_zh: 塔里亚纳语
-name_zh_auto: true
 autonym: Taliáseri
 alt_names: [Tariana (Brésil), Tariana (Colombie), Tariano, Tariano (Colombia), Tariâna, Tarîna]
 population: 1500
@@ -16,5 +14,13 @@ glottolog_family_id: araw1281
 glottolog_family_name: Arawakan
 glottolog_classification: "Arawakan > Japura-Colombia > Nuclear Japura-Colombia > Northeast Japura-Colombia > Baniwa-Curripaco-Tariano > Tariana"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tariana_language"
+translations:
+  - translation_iso: ara
+    name: لغة تريانا
+  - translation_iso: jpn
+    name: タリアナ語
+  - translation_iso: zho
+    name: 塔里亚纳语
+    auto: true
 ---
 Tariana is an endangered Maipurean language spoken along the Vaupés River in Amazonas, Brazil by approximately 100 people. Another approximately 1,500 people in the upper and middle Vaupés River area identify themselves as ethnic Tariana but do not speak the language fluently.

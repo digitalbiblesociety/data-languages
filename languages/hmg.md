@@ -1,8 +1,6 @@
 ---
 iso: hmg
 name: Southwestern Guiyang Hmong
-name_zh: 西南贵阳苗语
-name_zh_auto: true
 autonym: Hmong
 alt_names: [Hmo, "Hmong, Southwestern Guiyang", Hmung, Hsiung, Hunan Miao, Miao, Southwestern Guiyang Miao]
 population: 70000
@@ -15,6 +13,12 @@ glottocode: sout2756
 glottolog_family_id: hmon1336
 glottolog_family_name: Hmong-Mien
 glottolog_classification: "Hmong-Mien > Hmongic > Nuclear Hmongic-Ho Ne > Nuclear Hmongic > West Hmongic > Greater Chuanqiandian > Guiyang > Southwestern Guiyang Hmong"
+translations:
+  - translation_iso: jpn
+    name: 南西部貴陽フモン語
+  - translation_iso: zho
+    name: 西南贵阳苗语
+    auto: true
 rolv_dialects:
   - rolv_code: 6168
     language_tag: hmg-x-HIS06168

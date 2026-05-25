@@ -1,8 +1,6 @@
 ---
 iso: vem
 name: "Vemgo-Mabas"
-name_zh: 韦姆戈-玛巴斯语
-name_zh_auto: true
 autonym: null
 alt_names: [Mabas]
 population: 10000
@@ -16,6 +14,10 @@ glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > Biu-Mandara > North Biu-Mandara > Lamang-Hdi > Vemgo-Mabas"
 wikipedia_url: "https://en.wikipedia.org/wiki/Vemgo-Mabas_language"
+translations:
+  - translation_iso: zho
+    name: 韦姆戈-玛巴斯语
+    auto: true
 rolv_dialects:
   - rolv_code: 18035
     language_tag: vem-x-HIS18035

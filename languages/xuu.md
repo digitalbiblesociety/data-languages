@@ -1,7 +1,6 @@
 ---
 iso: xuu
 name: Kxoe
-name_zh: Khwe語
 autonym: Kxoe
 alt_names: ["!Hukwe", "\"Barakwena\" \"Barakwengo\"", "\"Mbarakwena\"", "\"Mbarakwengo\"", "\"Water Bushmen\"", Barakwena, Barakwengo, Black Bushman, Buga, Cazama, Glanda-Khwe, Hukwe, Khoe, Khwe, Khwedam, Kxoedam, Mbara Kwengo, Mbarakwena, Mbarakwengo, Schekere, Vazama, Xu, Xuhwe, Xun, Xû, Zama]
 population: 7300
@@ -15,6 +14,11 @@ glottolog_family_id: khoe1240
 glottolog_family_name: Khoe-Kwadi
 glottolog_classification: "Khoe-Kwadi > Khoe > Non-Khoekhoe > West-Kxoe > Kxoe-Ani > Kxoe"
 wikipedia_url: "https://en.wikipedia.org/wiki/Khwe_language"
+translations:
+  - translation_iso: jpn
+    name: クエ語
+  - translation_iso: zho
+    name: Khwe語
 rolv_dialects:
   - rolv_code: 4000
     language_tag: xuu-x-HIS04000

@@ -1,8 +1,6 @@
 ---
 iso: nzm
 name: Zeme Naga
-name_zh: 泽美纳加语
-name_zh_auto: true
 autonym: Zeliang
 alt_names: [Arung, Empeo, Empui, Jeme, Kacha, Kachcha, Kachcha Naga, Kachcha Nagas, Kutcha, Mezama, Naga, Naga (Kachcha), Naga (Zeme), "Naga, Zeme", "Naga,Zeme", Sangrima, Sengima, Western, Western Kuki, Zeliangrong, Zeme, Zeme Group, Zemi]
 population: 114000
@@ -16,6 +14,12 @@ glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Kuki-Chin-Naga > Zemeic > Nuclear Zemeic > Mzieme-Zeme > Zeme Naga"
 wikipedia_url: "https://en.wikipedia.org/wiki/Zeme_language"
+translations:
+  - translation_iso: hin
+    name: ज़ेमे भाषा
+  - translation_iso: zho
+    name: 泽美纳加语
+    auto: true
 rolv_dialects:
   - rolv_code: 14623
     language_tag: nzm-x-HIS14623

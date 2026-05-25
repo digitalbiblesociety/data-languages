@@ -1,8 +1,6 @@
 ---
 iso: mrl
 name: Mortlockese
-name_zh: 莫特洛克语
-name_zh_auto: true
 autonym: " Kapsen Mwoshulók"
 alt_names: [Mortlock, Nomoi]
 population: 1000
@@ -16,6 +14,12 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Micronesian > Central Micronesian > Western Micronesian > Chuukic-Ponapeic > Trukic > Nuclear Trukic > Central Trukic > Eastern Trukic > Mortlockese-Trukese > Mortlockese"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mortlockese_language"
+translations:
+  - translation_iso: jpn
+    name: モートロック語
+  - translation_iso: zho
+    name: 莫特洛克语
+    auto: true
 rolv_dialects:
   - rolv_code: 14303
     language_tag: mrl-x-HIS14303

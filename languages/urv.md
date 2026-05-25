@@ -1,8 +1,6 @@
 ---
 iso: urv
 name: Uruava
-name_zh: 乌鲁瓦语
-name_zh_auto: true
 autonym: null
 alt_names: [Uruava language]
 population: null
@@ -16,5 +14,9 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > Meso Melanesian linkage > New Ireland-Northwest Solomonic linkage > St George linkage > Northwest Solomonic > Mono-Uruavan > Uruava"
 wikipedia_url: "https://en.wikipedia.org/wiki/Uruava_language"
+translations:
+  - translation_iso: zho
+    name: 乌鲁瓦语
+    auto: true
 ---
 Uruava is an extinct Austronesian language formerly spoken in southeast Bougainville, Papua New Guinea.

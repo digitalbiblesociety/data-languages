@@ -1,8 +1,6 @@
 ---
 iso: god
 name: Godié
-name_zh: 戈迪语
-name_zh_auto: true
 autonym: Godye
 alt_names: [Godie]
 population: 26400
@@ -16,6 +14,10 @@ glottolog_family_id: krua1234
 glottolog_family_name: Kru
 glottolog_classification: "Kru > Eastern Kru > Beteic > Western Bete > Godié"
 wikipedia_url: "https://en.wikipedia.org/wiki/Godi%C3%A9_language"
+translations:
+  - translation_iso: zho
+    name: 戈迪语
+    auto: true
 rolv_dialects:
   - rolv_code: 10269
     language_tag: god-x-HIS10269

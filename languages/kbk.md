@@ -1,8 +1,6 @@
 ---
 iso: kbk
 name: Grass Koiari
-name_zh: 草地科亚里语
-name_zh_auto: true
 autonym: Koiari
 alt_names: [Coyarí, Grass, Koiari (Grass), "Koiari, Grass"]
 population: 1700
@@ -16,6 +14,10 @@ glottolog_family_id: koia1260
 glottolog_family_name: Koiarian
 glottolog_classification: "Koiarian > Koiaric > Koita-Koiari > Grass Koiari"
 wikipedia_url: "https://en.wikipedia.org/wiki/Grass_Koiari_language"
+translations:
+  - translation_iso: zho
+    name: 草地科亚里语
+    auto: true
 rolv_dialects:
   - rolv_code: 26247
     language_tag: kbk-x-HIS26247

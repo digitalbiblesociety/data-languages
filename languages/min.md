@@ -1,7 +1,6 @@
 ---
 iso: min
 name: Minangkabau
-name_zh: 米南佳保语
 autonym: باسو مينڠكابا
 alt_names: [Bahasa Minangkabau, Basa Minangkabau, Lenga Minangkabau, Lengua minangkabau, Minang, Minangkabauera, Minangkabaun kieli, Minangkabaus, Minankabaŭa lingvo, Padang, Tiếng Minangkabau, Минангкабау, মিনাংকাবাউ ভাষা, ภาษามินังกาเบา, ミナンカバウ語]
 population: 4240000
@@ -16,6 +15,17 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Malayo-Chamic > Malayic > Nuclear Malayic > Northern Sumatra Malay > Kerinci-Minangkabau > Minangkabauic > Minangkabau"
 wikipedia_url: "https://en.wikipedia.org/wiki/Minangkabau_language"
+translations:
+  - translation_iso: ara
+    name: لغة مينانغكاباو
+  - translation_iso: hin
+    name: मिनांगकाबाउ
+  - translation_iso: jpn
+    name: ミナンカバウ語
+  - translation_iso: kor
+    name: 미낭카바우어
+  - translation_iso: zho
+    name: 米南佳保语
 rolv_dialects:
   - rolv_code: 14090
     language_tag: min-x-HIS14090

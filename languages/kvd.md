@@ -1,8 +1,6 @@
 ---
 iso: kvd
 name: Kui (Indonesia)
-name_zh: 库伊语(印度尼西亚)
-name_zh_auto: true
 autonym: Lerabain
 alt_names: [Kui, Kui (in Indonesia), Masin-Lak]
 population: 4240
@@ -16,6 +14,10 @@ glottolog_family_id: timo1261
 glottolog_family_name: Timor-Alor-Pantar
 glottolog_classification: "Timor-Alor-Pantar > Alor-Pantar > Nuclear Alor-Pantar > Central Alor > Kui (Indonesia)"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kui_language_(Indonesia)"
+translations:
+  - translation_iso: zho
+    name: 库伊语(印度尼西亚)
+    auto: true
 rolv_dialects:
   - rolv_code: 12415
     language_tag: kvd-x-HIS12415

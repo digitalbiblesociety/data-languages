@@ -1,8 +1,6 @@
 ---
 iso: gbu
 name: Gagadu
-name_zh: 加加杜语
-name_zh_auto: true
 autonym: Abdedal
 alt_names: ["A:rwu:r", Abedal, Abiddul, Arwur, Auwur, Awoy, Awur, Gaagudju, Gaagudju language, Gagadju, Gagadyu, Gagadú, Gagudju, Gaguju, "Ka:ka:dju", Kadadju, Kakadju, Kakadu, Kakaju, Kakakta, Kakata, Kakatu, Kakdju, Kakdjuan, Kakudju, Karkadoo, Karkardoo, Katata, Kukata, Ngardok]
 population: null
@@ -13,5 +11,11 @@ latitude: -12.51761
 longitude: 132.64324
 glottocode: gaga1251
 wikipedia_url: "https://en.wikipedia.org/wiki/Gaagudju_language"
+translations:
+  - translation_iso: jpn
+    name: ガーグジュ語
+  - translation_iso: zho
+    name: 加加杜语
+    auto: true
 ---
 Gaagudju is an extinct Australian Aboriginal language formerly spoken in the environs of Kakadu National Park, in Arnhem Land, Northern Territory, Australia.

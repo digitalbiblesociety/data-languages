@@ -1,8 +1,6 @@
 ---
 iso: mnd
 name: Mondé
-name_zh: 蒙德语
-name_zh_auto: true
 autonym: Salamãi
 alt_names: [Monde, Mondé-Sanamai, Salamai, Salamaikã, Sanamaica, Sanamaika, Sanamaiká, Sanamaikã, Sanamaykã, Sanamaí]
 population: null
@@ -16,5 +14,9 @@ glottolog_family_id: tupi1275
 glottolog_family_name: Tupian
 glottolog_classification: "Tupian > Monde > Gavianic > Salamãi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mond%C3%A9_language"
+translations:
+  - translation_iso: zho
+    name: 蒙德语
+    auto: true
 ---
 Mondé, or Salamãi, is a nearly extinct Tupian language of the state of Rondônia, in the Amazon region of Brazil.

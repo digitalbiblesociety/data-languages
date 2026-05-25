@@ -1,8 +1,6 @@
 ---
 iso: dln
 name: Darlong
-name_zh: 达隆语
-name_zh_auto: true
 autonym: Dalong
 population: 6000
 country_id: IN
@@ -15,5 +13,11 @@ glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Kuki-Chin-Naga > Kuki-Chin > Central Kuki-Chin > Core Central Kuki-Chin > Mizoic > Darlong"
 wikipedia_url: "https://en.wikipedia.org/wiki/Darlong_language"
+translations:
+  - translation_iso: hin
+    name: दार्लोंग भाषा
+  - translation_iso: zho
+    name: 达隆语
+    auto: true
 ---
 Darlong (Dalong) is one of the Chin-Kuki-Mizo languages of India and is a sub-tribe language of Hmar people. It is spoken by the Darlong people of Tripura.

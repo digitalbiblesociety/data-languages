@@ -1,7 +1,6 @@
 ---
 iso: cje
 name: Chru
-name_zh: 朱魯語
 autonym: Cadoe Loang
 alt_names: [Choru, Chrau Hma, Chu, Chu Ru, Churu, Cru, Kru, Seyu]
 population: 19300
@@ -15,6 +14,9 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Malayo-Chamic > Aceh-Chamic > Chamic > Chru-Northern Cham > Chruic > Chru"
 wikipedia_url: "https://en.wikipedia.org/wiki/Chru_language"
+translations:
+  - translation_iso: zho
+    name: 朱魯語
 rolv_dialects:
   - rolv_code: 8928
     language_tag: cje-x-HIS08928

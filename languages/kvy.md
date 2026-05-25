@@ -1,8 +1,6 @@
 ---
 iso: kvy
 name: Yintale Karen
-name_zh: 因塔雷卡伦语
-name_zh_auto: true
 autonym: Kayah
 alt_names: ["Karen, Yintale", "Karen,Yintale", Tali, Taliak, Yangatalet, Yangtadai, Yintale, Yintalet]
 population: 10000
@@ -15,6 +13,10 @@ glottocode: yint1235
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Karenic > Central Karen > Kayah-Yintale > Yintale Karen"
+translations:
+  - translation_iso: zho
+    name: 因塔雷卡伦语
+    auto: true
 rolv_dialects:
   - rolv_code: 27169
     language_tag: kvy-x-HIS27169

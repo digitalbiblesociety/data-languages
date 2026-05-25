@@ -1,8 +1,6 @@
 ---
 iso: mve
 name: Marwari (Pakistan)
-name_zh: 巴基斯坦马瓦里语
-name_zh_auto: true
 autonym: मारवाड़ी/مارواڑی‎
 alt_names: [Jaiselmer, Marawar, Marwari, Marwari Bhil, Marwari Meghwar, Merwari, Mewari, Rajasthani]
 population: 164000
@@ -15,6 +13,12 @@ glottocode: marw1256
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Indo-Aryan > Middle-Modern Indo-Aryan > Continental Indo-Aryan > Midlands Indo-Aryan > Apabhramsic > Gujarati-Rajasthani > Rajasthani > Western Rajasthani > Indus Rajasthani > Marwari (Pakistan)"
+translations:
+  - translation_iso: jpn
+    name: マールワーリー語
+  - translation_iso: zho
+    name: 巴基斯坦马瓦里语
+    auto: true
 rolv_dialects:
   - rolv_code: 13794
     language_tag: mve-x-HIS13794

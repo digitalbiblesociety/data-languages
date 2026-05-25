@@ -1,8 +1,6 @@
 ---
 iso: dkk
 name: Dakka
-name_zh: 达卡语
-name_zh_auto: true
 autonym: bahasa Dakka
 alt_names: [Nordost-Celebes]
 population: 1500
@@ -16,6 +14,12 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Greater South Sulawesi > South Sulawesi > Northern South Sulawesi > Pitu Ulunna Salu > Dakka"
 wikipedia_url: "https://en.wikipedia.org/wiki/Dakka_language"
+translations:
+  - translation_iso: jpn
+    name: ダッカ
+  - translation_iso: zho
+    name: 达卡语
+    auto: true
 rolv_dialects:
   - rolv_code: 28486
     language_tag: dkk-x-HIS28486

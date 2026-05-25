@@ -1,8 +1,6 @@
 ---
 iso: agd
 name: Agarabi
-name_zh: 阿加拉比语
-name_zh_auto: true
 autonym: null
 alt_names: [Agarabe, Bare, Gadsup, Gadsup (Agarabi)]
 population: 27000
@@ -16,5 +14,11 @@ glottolog_family_id: nucl1709
 glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Kainantu-Goroka > Kainantu > Gauwa > Gadsup-Agarabi > Agarabi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Agarabi_language"
+translations:
+  - translation_iso: jpn
+    name: アガラビ語
+  - translation_iso: zho
+    name: 阿加拉比语
+    auto: true
 ---
 Agarabi, also called Bare, is a Kainantu language spoken in Agarabi Rural LLG, Eastern Highlands Province, Papua New Guinea.

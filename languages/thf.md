@@ -1,7 +1,6 @@
 ---
 iso: thf
 name: Thangmi
-name_zh: 唐米語
 autonym: " Thangmi Khan"
 alt_names: [Dolakha, Thami, Thāmī]
 population: 24200
@@ -15,6 +14,9 @@ glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Himalayish > Mahakiranti > Newaric > Thangmi-Baram > Thangmi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Thangmi_language"
+translations:
+  - translation_iso: zho
+    name: 唐米語
 rolv_dialects:
   - rolv_code: 17430
     language_tag: thf-x-HIS17430

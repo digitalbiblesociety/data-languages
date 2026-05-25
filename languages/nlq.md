@@ -1,8 +1,6 @@
 ---
 iso: nlq
 name: Lao Naga
-name_zh: 老纳加语
-name_zh_auto: true
 autonym: Tase
 alt_names: ["Naga, Lao"]
 population: null
@@ -15,4 +13,8 @@ glottocode: laon1234
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Brahmaputran > Patkaian > South Patkaian > Southwestern Patkaian > Lao Naga"
+translations:
+  - translation_iso: zho
+    name: 老纳加语
+    auto: true
 ---

@@ -1,7 +1,6 @@
 ---
 iso: tnz
 name: "Ten'edn"
-name_zh: 湯加語 (南亞語系)
 autonym: Tonga
 alt_names: [Maniq, Mos, "Ten'en", Tonga (Thailand), "Tonga'"]
 population: 300
@@ -15,6 +14,9 @@ glottolog_family_id: aust1305
 glottolog_family_name: Austroasiatic
 glottolog_classification: "Austroasiatic > Aslian > Central-Northern Aslian > North Aslian > Maniq-Menraq-Batek > Maniqic > Maniq"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ten%27edn"
+translations:
+  - translation_iso: zho
+    name: 湯加語 (南亞語系)
 rolv_dialects:
   - rolv_code: 26387
     language_tag: tnz-x-HIS26387

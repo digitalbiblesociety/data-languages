@@ -1,7 +1,6 @@
 ---
 iso: khr
 name: Kharia
-name_zh: 卡利亚语
 autonym: Haria
 alt_names: [Jariá, Khadia, Khariya, Kharvi, Khatria, Khaɽia, Kheria, Lenga kharia, Lingua Kharia]
 population: 298240
@@ -15,6 +14,15 @@ glottolog_family_id: aust1305
 glottolog_family_name: Austroasiatic
 glottolog_classification: "Austroasiatic > Mundaic > Kharia"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kharia_language"
+translations:
+  - translation_iso: hin
+    name: खड़िया भाषा
+  - translation_iso: jpn
+    name: カリア語
+  - translation_iso: kor
+    name: 카리야
+  - translation_iso: zho
+    name: 卡利亚语
 rolv_dialects:
   - rolv_code: 3737
     language_tag: khr-x-HIS03737

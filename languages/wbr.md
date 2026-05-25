@@ -1,8 +1,6 @@
 ---
 iso: wbr
 name: Wagdi
-name_zh: 瓦格迪语
-name_zh_auto: true
 autonym: Bhilodi
 alt_names: [Bhili, Mina Bhil, Vagadi, Vagari, Vagdi, Vaged, Vageri, Vagi, Wagadi, Wagari, Waghari, Wagholi, Wagri]
 population: 3390000
@@ -17,6 +15,14 @@ glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Indo-Aryan > Middle-Modern Indo-Aryan > Continental Indo-Aryan > Midlands Indo-Aryan > Bhil > Wagdi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Wagdi"
+translations:
+  - translation_iso: hin
+    name: वागडी
+  - translation_iso: jpn
+    name: ワグディ語
+  - translation_iso: zho
+    name: 瓦格迪语
+    auto: true
 rolv_dialects:
   - rolv_code: 2518
     language_tag: wbr-x-HIS02518

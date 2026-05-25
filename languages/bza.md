@@ -1,8 +1,6 @@
 ---
 iso: bza
 name: Bandi
-name_zh: 班迪语
-name_zh_auto: true
 autonym: Bande
 alt_names: [Gbande, Gbandi, Gbunde, Mende-Bandi]
 population: 161000
@@ -16,6 +14,10 @@ glottolog_family_id: mand1469
 glottolog_family_name: Mande
 glottolog_classification: "Mande > Western Mande > Manding-Kpelle > Southwest Mande > Mende-Loma > Mende-Bandi > Bandi-Zialo > Bandi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Gbandi_language"
+translations:
+  - translation_iso: zho
+    name: 班迪语
+    auto: true
 rolv_dialects:
   - rolv_code: 7709
     language_tag: bza-x-HIS07709

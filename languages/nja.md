@@ -1,8 +1,6 @@
 ---
 iso: nja
 name: Nzanyi
-name_zh: 恩扎尼语
-name_zh_auto: true
 autonym: Jeng
 alt_names: [Jenge, Kobochi, Kobotshi, Mzangyim, Njai, Njanyi, Njegn, Njei, Njeing, Njeng, Njeny, Nzangi, Zani, Zany]
 population: 86000
@@ -16,6 +14,10 @@ glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > Biu-Mandara > South Biu-Mandara > Bataic > Gudeic > Nzanyic > Nzanyi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Nzanyi_language"
+translations:
+  - translation_iso: zho
+    name: 恩扎尼语
+    auto: true
 rolv_dialects:
   - rolv_code: 1872
     language_tag: nja-x-HIS01872

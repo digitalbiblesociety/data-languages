@@ -1,8 +1,6 @@
 ---
 iso: koe
 name: "Kacipo-Balesi"
-name_zh: 卡奇波-巴雷西语
-name_zh_auto: true
 autonym: Balesi
 alt_names: [Baale, Bale, Kacipo-Bale Suri, "Suri, Kacipo-Bale", Zilmamu]
 population: 10000
@@ -16,6 +14,10 @@ glottolog_family_id: surm1244
 glottolog_family_name: Surmic
 glottolog_classification: "Surmic > South Surmic > Southwest Surmic > Baale-Olam > Kacipo-Balesi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Baale_language"
+translations:
+  - translation_iso: zho
+    name: 卡奇波-巴雷西语
+    auto: true
 rolv_dialects:
   - rolv_code: 11271
     language_tag: koe-x-HIS11271

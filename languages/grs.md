@@ -1,8 +1,6 @@
 ---
 iso: grs
 name: Gresi
-name_zh: 格雷西语
-name_zh_auto: true
 autonym: Geresi
 alt_names: [Glesi, Gresik, Klesi]
 population: 2500
@@ -16,5 +14,9 @@ glottolog_family_id: nimb1257
 glottolog_family_name: Nimboranic
 glottolog_classification: "Nimboranic > Outer Nimboranic > Mlap-Gresi-Kemtuik > Gresi-Kemtuik > Gresi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Gresi_language"
+translations:
+  - translation_iso: zho
+    name: 格雷西语
+    auto: true
 ---
 Gresi is a Papuan language of Kemtuk Gresi and South Gresi districts in Jayapura Regency, Indonesia. It is very close to Kemtuik. Gresi is spoken in Bring, Hawa, Ibub, Klaysu, Sunna, Tabangkwari, and Yansu villages (Ethnologue).

@@ -1,8 +1,6 @@
 ---
 iso: sbx
 name: Seberuang
-name_zh: 塞贝鲁昂语
-name_zh_auto: true
 autonym: null
 alt_names: [Indonesia]
 population: 37000
@@ -16,6 +14,10 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Malayo-Chamic > Malayic > Ibanic > Iban-Mualang-Seberuang > Iban-Seberuang > Seberuang"
 wikipedia_url: "https://en.wikipedia.org/wiki/Seberuang_language"
+translations:
+  - translation_iso: zho
+    name: 塞贝鲁昂语
+    auto: true
 rolv_dialects:
   - rolv_code: 5056
     language_tag: sbx-x-HIS05056

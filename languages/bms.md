@@ -1,7 +1,6 @@
 ---
 iso: bms
 name: Bilma Kanuri
-name_zh: 比尔马卡努里语
 autonym: Kànùrí
 alt_names: [Bla Bla, Bornu, Kanembu, Kanouri, Kanoury, Kanuri, "Kanuri, Bilma"]
 population: 20000
@@ -15,6 +14,11 @@ glottolog_family_id: saha1256
 glottolog_family_name: Saharan
 glottolog_classification: "Saharan > Western Saharan > Kanuri-Kanembu > Kanuric > East Kanuri > Bilma-Mowar Kanuri"
 wikipedia_url: "https://en.wikipedia.org/wiki/Bilma_Kanuri"
+translations:
+  - translation_iso: jpn
+    name: ビルマ・カヌリ語
+  - translation_iso: zho
+    name: 比尔马卡努里语
 rolv_dialects:
   - rolv_code: 24469
     language_tag: bms-x-HIS24469

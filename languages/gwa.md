@@ -1,8 +1,6 @@
 ---
 iso: gwa
 name: Mbato
-name_zh: 姆巴托语
-name_zh_auto: true
 autonym: Goaa
 alt_names: [Gwa, "M'bato", Mbatto, Mgbato, N-Batto, Ogwia, Potu]
 population: 25000
@@ -16,5 +14,9 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Kwa Volta-Congo > Nyo > Potou-Tano > Potou > Mbato"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mbato_language"
+translations:
+  - translation_iso: zho
+    name: 姆巴托语
+    auto: true
 ---
 Mbato, also known as Mbatto, Nghlwa, Potu or Gwa, is a Kwa language spoken in Ivory Coast and in Ghana. It is one of two Potou languages, along with Ebrié. The Mbato people primarily live in the La Mé region of Ivory Coast, particularly in the sub-prefecture of Oghlwapo in the Alépé department.

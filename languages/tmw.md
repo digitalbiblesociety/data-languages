@@ -1,8 +1,6 @@
 ---
 iso: tmw
 name: Temuan
-name_zh: 特木安语
-name_zh_auto: true
 autonym: Bahasak Temuan
 alt_names: [Beduanda, Benua, Niap, Temuano]
 population: 22162
@@ -16,6 +14,10 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Malayo-Chamic > Malayic > Nuclear Malayic > Greater Riau-Johoric > Temuan"
 wikipedia_url: "https://en.wikipedia.org/wiki/Temuan_language"
+translations:
+  - translation_iso: zho
+    name: 特木安语
+    auto: true
 rolv_dialects:
   - rolv_code: 17363
     language_tag: tmw-x-HIS17363

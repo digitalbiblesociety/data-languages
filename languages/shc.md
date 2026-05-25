@@ -1,8 +1,6 @@
 ---
 iso: shc
 name: Sonde
-name_zh: 松德语
-name_zh_auto: true
 autonym: Kisoonde
 alt_names: [Kisonde, Soonde]
 population: 96000
@@ -16,5 +14,9 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > Central-Western Bantu > Njila > Northern Njila > Mbala-Holu-Sondi (K.10) > Mbala-Sondi > Sonde"
 wikipedia_url: "https://en.wikipedia.org/wiki/Sonde_language"
+translations:
+  - translation_iso: zho
+    name: 松德语
+    auto: true
 ---
 Sonde is either of two Bantu languages of the Democratic Republic of the Congo. Maho (2009) classifies Sonde–Kisoonde as closest to Suku, but lists an adjacent language also called Sonde as closer to Pende. These are not distinguished in Ethnologue or by ISO code.

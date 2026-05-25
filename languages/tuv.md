@@ -1,7 +1,6 @@
 ---
 iso: tuv
 name: Turkana
-name_zh: 图尔卡纳语
 autonym: "Ng'aturk(w)ana"
 alt_names: [Buma, Bume, Tourkaneg, Turkwana, Туркански јазик]
 population: 1020000
@@ -15,6 +14,11 @@ glottolog_family_id: nilo1247
 glottolog_family_name: Nilotic
 glottolog_classification: "Nilotic > Eastern Nilotic > Teso-Lotuxo-Maa > Teso-Turkana > Turkanic > Turkana"
 wikipedia_url: "https://en.wikipedia.org/wiki/Turkana_language"
+translations:
+  - translation_iso: jpn
+    name: トゥルカナ語
+  - translation_iso: zho
+    name: 图尔卡纳语
 rolv_dialects:
   - rolv_code: 17814
     language_tag: tuv-x-HIS17814

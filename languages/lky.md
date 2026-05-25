@@ -1,8 +1,6 @@
 ---
 iso: lky
 name: Lokoya
-name_zh: 洛科亚语
-name_zh_auto: true
 autonym: Lokoya
 alt_names: [Ellyria, Koyo, Loirya, Lokoiya, Lokoja, Loquia, Lowoi, Oirya, Owoi, Oxoriok, Oxoryok]
 population: 12400
@@ -16,5 +14,11 @@ glottolog_family_id: nilo1247
 glottolog_family_name: Nilotic
 glottolog_classification: "Nilotic > Eastern Nilotic > Teso-Lotuxo-Maa > Lotuxo-Maa > Lotuxo > Lotuko-Lokoya > Lokoya"
 wikipedia_url: "https://en.wikipedia.org/wiki/Lokoya_language"
+translations:
+  - translation_iso: jpn
+    name: ロコヤ語
+  - translation_iso: zho
+    name: 洛科亚语
+    auto: true
 ---
 Lokoya is an Eastern Nilotic language spoken by an estimated 85,000 people in South Sudan. It is also referred to by various other names, including Okoya, Horiok, Ellyria, Koyo, Loirya, Ohoromok, Lokoiya, Lokoja, Loquia, Lowoi, Oirya, Owoi, and Oxoriok.

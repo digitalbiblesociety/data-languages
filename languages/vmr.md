@@ -1,8 +1,6 @@
 ---
 iso: vmr
 name: Marenje
-name_zh: 马伦杰语
-name_zh_auto: true
 autonym: Emakuana
 alt_names: [Emarendje, Marendje]
 population: 588000
@@ -15,6 +13,10 @@ glottocode: mare1260
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > East Bantu > North Mozambique Bantu > Chuwaboic > Marenje"
+translations:
+  - translation_iso: zho
+    name: 马伦杰语
+    auto: true
 rolv_dialects:
   - rolv_code: 28836
     language_tag: vmr-x-HIS28836

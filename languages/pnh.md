@@ -1,8 +1,6 @@
 ---
 iso: pnh
 name: Penrhyn
-name_zh: 彭里恩语
-name_zh_auto: true
 autonym: Mangarongaro
 alt_names: [Penrhynese, Tongareva, Tongarevski jezik]
 population: 600
@@ -16,5 +14,11 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Central Pacific linkage > Tokalau Fijian > Polynesian > Nuclear Polynesian > Northern Outlier Polynesian-East Polynesian > Solomons Northern Outlier Polynesian-East Polynesian > Central Northern Outlier Polynesian-East Polynesian > East Polynesian > East Polynesian Proximal > Southern East Polynesian Proximal > Māngarongaro"
 wikipedia_url: "https://en.wikipedia.org/wiki/Penrhyn_language"
+translations:
+  - translation_iso: jpn
+    name: ペンリン語
+  - translation_iso: zho
+    name: 彭里恩语
+    auto: true
 ---
 Penrhyn is a Cook Islands Maori dialect belonging to the Polynesian language family. It is spoken by about 200 people on Penrhyn Island and other islands in the Northern Cook Islands. It is considered to be an endangered language as many of its users are shifting to Cook Islands Māori and English.

@@ -1,8 +1,6 @@
 ---
 iso: ckx
 name: Caka
-name_zh: 卡卡语
-name_zh_auto: true
 autonym: null
 population: 5000
 country_id: CM
@@ -15,6 +13,10 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Tivoid > Central Tivoid > Central Tivoid B > Caka"
 wikipedia_url: "https://en.wikipedia.org/wiki/Caka_language"
+translations:
+  - translation_iso: zho
+    name: 卡卡语
+    auto: true
 rolv_dialects:
   - rolv_code: 6212
     language_tag: ckx-x-HIS06212

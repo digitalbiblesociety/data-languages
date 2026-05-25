@@ -1,8 +1,6 @@
 ---
 iso: rmb
 name: Rembarrnga
-name_zh: 仁巴伦加语
-name_zh_auto: true
 autonym: Rembarunga
 alt_names: [Gunwinyguan, Kaltuy, "Maia:li", Maiali, Maieli, Maielli, Majali, Rainbargo, Rainbarngo, Rainbarno, Rambarrna, Rambarrnga, Ranjbarngo, Ranjbarngu, Reinbaranga, Rem barrna, Rem branga, Rembaranga, Rembarn nga, Rembarnga, Rembarranga, Rembarrna, Rembarrngu, Rembarrunga, Remberanga, Rembranga]
 population: 51
@@ -16,5 +14,9 @@ glottolog_family_id: gunw1250
 glottolog_family_name: Gunwinyguan
 glottolog_classification: "Gunwinyguan > Jala > Rembarrnga"
 wikipedia_url: "https://en.wikipedia.org/wiki/Rembarrnga_language"
+translations:
+  - translation_iso: zho
+    name: 仁巴伦加语
+    auto: true
 ---
 Rembarrnga (Rembarunga) is an Australian Aboriginal language. It is one of the Northern Non-Pama–Nyungan languages, spoken in the Roper River region of the Northern Territory. There are three dialects of Rembarrnga, namely Galduyh, Gikkik and Mappurn. It is a highly endangered language, with very few remaining fluent speakers. It is very likely that the language is no longer being learned by children. Instead, the children of Rembarrnga speakers are now learning neighbouring languages such as Kriol in south central Arnhem Land, and Kunwinjku, a dialect of Bininj Kunwok, in north central Arnhem Land.

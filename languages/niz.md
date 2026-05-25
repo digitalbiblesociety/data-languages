@@ -1,8 +1,6 @@
 ---
 iso: niz
 name: Ningil
-name_zh: 宁吉尔语
-name_zh_auto: true
 autonym: null
 alt_names: [Gul, Ral]
 population: 950
@@ -16,5 +14,9 @@ glottolog_family_id: nucl1708
 glottolog_family_name: Nuclear Torricelli
 glottolog_classification: "Nuclear Torricelli > Wapei-Palei > Central Torricelli > Wapeic > Ningil-Yil > Ningil"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ningil_language"
+translations:
+  - translation_iso: zho
+    name: 宁吉尔语
+    auto: true
 ---
 Ningil is a Torricelli language of Papua New Guinea.

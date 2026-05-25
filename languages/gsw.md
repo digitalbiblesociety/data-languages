@@ -1,7 +1,6 @@
 ---
 iso: gsw
 name: Swiss German
-name_zh: 阿勒曼尼语
 autonym: Schwiizerdütsch
 alt_names: [Alemannic, Alemannisch, Alemany suís, Alemán de Suiza, Alsatian, Appenzel, Appenzell, Bahasa Jerman Swiss, Bern, Bärndütsch, German, German (Appenzell), German (Bern), German (Ostschweiz), German (Swiss Thürgau), German (Thurgau), German (Thürgau Swiss), German (Zurich), "German, Swiss", Język schwyzertüütsch, Lingua alemá de Suíza, Schweizerdeutsch, Schweizertysk, Schweizertyska, Schwizzerdüttsch, Schwytzertuetsch, Schwyzerdütsch, Sguizzer Todesch, Suisse allemand, Suíço-alemão, Sveitsertysk, Svisgermana lingvo, Svizzero tedesco, Sūi-se Tek-gí, Töitschu, Upper Alemannic, Zurich, Zwitserduits, alsacien, alémanique, d Schwyzerdütsch, suisse alémanique, Švýcarská němčina, גרמנית שווייצרית, সুইস জার্মান ভাষা, スイスドイツ語, 瑞士德语]
 population: 6434200
@@ -16,6 +15,17 @@ glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Germanic > Northwest Germanic > West Germanic > High German > Upper German > Middle-Modern High German > Modern High German > Alemannic > South Alemannic > Central Alemannic"
 wikipedia_url: "https://en.wikipedia.org/wiki/Alemannic_German"
+translations:
+  - translation_iso: ara
+    name: الألامانية
+  - translation_iso: hin
+    name: स्विस जर्मन
+  - translation_iso: jpn
+    name: アレマン語
+  - translation_iso: kor
+    name: 알레만어
+  - translation_iso: zho
+    name: 阿勒曼尼语
 rolv_dialects:
   - rolv_code: 2909
     language_tag: gsw-x-HIS02909

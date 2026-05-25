@@ -1,8 +1,6 @@
 ---
 iso: ala
 name: Alago
-name_zh: 阿拉戈语
-name_zh_auto: true
 autonym: Idoma Noku
 alt_names: [Arago, Aragu, Argo, Idoma Nokwu]
 population: 100000
@@ -16,6 +14,10 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Idomoid > Akweya > Etulo-Idoma > Nuclear Idoma > Alago"
 wikipedia_url: "https://en.wikipedia.org/wiki/Alago_language"
+translations:
+  - translation_iso: zho
+    name: 阿拉戈语
+    auto: true
 rolv_dialects:
   - rolv_code: 6851
     language_tag: ala-x-HIS06851

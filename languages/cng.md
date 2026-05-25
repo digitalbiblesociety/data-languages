@@ -1,7 +1,6 @@
 ---
 iso: cng
 name: Northern Qiang
-name_zh: 羌语
 autonym: Rrmearr
 alt_names: ["Ch'iang", Northern, Qiang, "Qiang, Northern", "Qiang,Northern", Southern, Tchiangeg an norzh, ภาษาเกวียงเหนือ, 羌語北部方言, 羌语]
 population: 11000
@@ -15,6 +14,11 @@ glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Burmo-Qiangic > Na-Qiangic > Qiangic > Qiang > Upstream-Nu Qiang > Northern Qiang"
 wikipedia_url: "https://en.wikipedia.org/wiki/Northern_Qiang_language"
+translations:
+  - translation_iso: jpn
+    name: 北部チャン語
+  - translation_iso: zho
+    name: 羌语
 rolv_dialects:
   - rolv_code: 15822
     language_tag: cng-x-HIS15822

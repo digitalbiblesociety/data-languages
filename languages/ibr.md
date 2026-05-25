@@ -1,8 +1,6 @@
 ---
 iso: ibr
 name: Ibuoro
-name_zh: 伊布奥罗语
-name_zh_auto: true
 autonym: null
 alt_names: [Nigeria]
 population: 5000
@@ -16,5 +14,9 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Delta Cross > Lower Cross > Nuclear Lower Cross > Central Lower Cross > Ibuoroic > Ibuoro-ItuMbuso-Nkari > Ibuoro-ItuMbuso > Ibuoro"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ibuoro_language"
+translations:
+  - translation_iso: zho
+    name: 伊布奥罗语
+    auto: true
 ---
 Ibuoro is an Ibibio-Efik language of Nigeria. Its dialects are Ibuoro proper, Ito, Itu Mbon Uzo and Nkari.

@@ -1,8 +1,6 @@
 ---
 iso: kxp
 name: Wadiyara Koli
-name_zh: 瓦迪亚拉科利语
-name_zh_auto: true
 autonym: Wadaria
 alt_names: ["Koli, Wadiyara", Wadhiara]
 population: 583000
@@ -17,6 +15,10 @@ glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Indo-Aryan > Middle-Modern Indo-Aryan > Continental Indo-Aryan > Midlands Indo-Aryan > Apabhramsic > Gujarati-Rajasthani > Gujaratic > Western Gujaratic > Wadiyara Koli"
 wikipedia_url: "https://en.wikipedia.org/wiki/Wadiyara_Koli_language"
+translations:
+  - translation_iso: zho
+    name: 瓦迪亚拉科利语
+    auto: true
 rolv_dialects:
   - rolv_code: 3558
     language_tag: kxp-x-HIS03558

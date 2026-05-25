@@ -1,8 +1,6 @@
 ---
 iso: yko
 name: Yasa
-name_zh: 亚萨语
-name_zh_auto: true
 autonym: Bongwe
 alt_names: ["\"Ndowe\"", Iyaasa, Iyasa, Iyassa, Lyaasa, Lyassa, Maasa, Yassa]
 population: 1490
@@ -16,6 +14,10 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > Bantu A-B10-B20-B30 > Sawabantu > Bengaic > Yasa-Kombe > Yasa"
 wikipedia_url: "https://en.wikipedia.org/wiki/Yasa_language"
+translations:
+  - translation_iso: zho
+    name: 亚萨语
+    auto: true
 rolv_dialects:
   - rolv_code: 18491
     language_tag: yko-x-HIS18491

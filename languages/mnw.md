@@ -1,7 +1,6 @@
 ---
 iso: mnw
 name: Mon
-name_zh: 孟语
 autonym: ဘာသာ မန်
 alt_names: [Aleng, Bahasa Mon, Idioma mon, Język mon, Mon (Burmese), Moneg, Monų kalba, Mun, Môn, Peguan, Peguanisch, Ramañña, Takanoon, Talaing, Taleng, Tiếng Môn, ภาษามอญ]
 population: 851000
@@ -16,6 +15,17 @@ glottolog_family_id: aust1305
 glottolog_family_name: Austroasiatic
 glottolog_classification: "Austroasiatic > Monic > Mon"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mon_language"
+translations:
+  - translation_iso: ara
+    name: لغة مون
+  - translation_iso: hin
+    name: मोन भाषा
+  - translation_iso: jpn
+    name: モン語
+  - translation_iso: kor
+    name: 몬어
+  - translation_iso: zho
+    name: 孟语
 rolv_dialects:
   - rolv_code: 2405
     language_tag: mnw-x-HIS02405

@@ -1,7 +1,6 @@
 ---
 iso: nbw
 name: Southern Ngbandi
-name_zh: 南恩班迪语
 autonym: Mbati
 alt_names: [Dendi, Mbangi, Mongbandi, Mongwandi, Ngbandi, "Ngbandi, Southern", Ngbandi-Ngiri, Ngbandi-Sud, Ngwandi, Yakoma (Sango)]
 population: 105000
@@ -14,6 +13,9 @@ glottocode: sout2784
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Cameroun-Ubangian > Ubangi > Ngbandi-Mongoba-Kazibati > Ngbandic > Nuclear Ngbandic > Southern Ngbandi"
+translations:
+  - translation_iso: zho
+    name: 南恩班迪语
 rolv_dialects:
   - rolv_code: 1376
     language_tag: nbw-x-HIS01376

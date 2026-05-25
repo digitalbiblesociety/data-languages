@@ -1,7 +1,6 @@
 ---
 iso: hoh
 name: Hobyót
-name_zh: 霍卜约特语
 autonym: Hewbyót
 alt_names: [Habyot, Hobi, Hobioto, Hobyot, Hobyót hizkuntza, Lenga Hobyót]
 population: 100
@@ -15,5 +14,12 @@ glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Semitic > West Semitic > Modern South Arabian > Hobyot-Western MSA > Hobyót"
 wikipedia_url: "https://en.wikipedia.org/wiki/Hobyot"
+translations:
+  - translation_iso: ara
+    name: لغة هوبيوت
+  - translation_iso: jpn
+    name: ホビョト語
+  - translation_iso: zho
+    name: 霍卜约特语
 ---
 Hobyót, natively known as Weyheybyot, is one of the six Modern South Arabian languages (MSAL), a group of South Semitic languages spoken in the southern Arabian Peninsula. A severely-endangered Semitic language on the verge of extinction, it is spoken in a small area near the Yemen-Oman border. The speaking population is estimated to be about 1000 in Oman and 40 in Yemen, though the true number may be less.

@@ -1,8 +1,6 @@
 ---
 iso: dhn
 name: Dhanki
-name_zh: 丹基语
-name_zh_auto: true
 autonym: Dangi
 alt_names: [Dangri, Dangs Bhil, Dhanka, Kakachhu-Ki Boli, Tadavi, Tadvi Bhil]
 population: 203000
@@ -16,6 +14,10 @@ glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Indo-Aryan > Middle-Modern Indo-Aryan > Continental Indo-Aryan > Midlands Indo-Aryan > Khandesic > Dhanki"
 wikipedia_url: "https://en.wikipedia.org/wiki/Dhanki_language"
+translations:
+  - translation_iso: zho
+    name: 丹基语
+    auto: true
 rolv_dialects:
   - rolv_code: 3896
     language_tag: dhn-x-HIS03896

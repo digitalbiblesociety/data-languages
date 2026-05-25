@@ -1,8 +1,6 @@
 ---
 iso: jrr
 name: Jiru
-name_zh: 吉鲁语
-name_zh_auto: true
 autonym: Atak
 alt_names: [Kir, Wiyap, Zhiru]
 population: 3420
@@ -16,5 +14,9 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Jukunoid > Central Jukunoid > Jukun-Mbembe-Wurbo > Wurbo-Wannu > Wurbo > Jiru"
 wikipedia_url: "https://en.wikipedia.org/wiki/Jiru_language"
+translations:
+  - translation_iso: zho
+    name: 吉鲁语
+    auto: true
 ---
 Jiru is a Jukunoid language of Nigeria.

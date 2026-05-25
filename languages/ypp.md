@@ -1,8 +1,6 @@
 ---
 iso: ypp
 name: Phupa
-name_zh: 普帕语
-name_zh_auto: true
 autonym: Phuza
 population: 3000
 country_id: CN
@@ -14,4 +12,8 @@ glottocode: phup1239
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Burmo-Qiangic > Lolo-Burmese > Loloish > Ni-Li-Kazhouish > Southeastern Ngwi > Riverine Phula > Downriver Riverine Phula > Phupa-Phuza > Phupa"
+translations:
+  - translation_iso: zho
+    name: 普帕语
+    auto: true
 ---

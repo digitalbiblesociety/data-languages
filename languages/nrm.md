@@ -1,7 +1,6 @@
 ---
 iso: nrm
 name: Narom
-name_zh: 纳洛姆语
 autonym: Bhasa Narom
 alt_names: [Narum]
 population: 2420
@@ -15,6 +14,9 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > North Borneo Malayo-Polynesian > North Sarawakan > Berawan-Lower Baram > Lower Baram > Central Lower Baram B > Narom"
 wikipedia_url: "https://en.wikipedia.org/wiki/Narom_language"
+translations:
+  - translation_iso: zho
+    name: 纳洛姆语
 rolv_dialects:
   - rolv_code: 28973
     language_tag: nrm-x-HIS28973

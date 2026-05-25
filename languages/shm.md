@@ -1,8 +1,6 @@
 ---
 iso: shm
 name: Shahrudi
-name_zh: 沙赫鲁迪语
-name_zh_auto: true
 autonym: null
 alt_names: [Iran, Koluri]
 population: null
@@ -16,5 +14,9 @@ glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Iranian-Nuristani > Iranian > Central Iranian PBS > Central Iranian PB > Northwestern Iranian > Adharic > Tatic > Central Tatic > Khalkhalic > Shahrudi-Southern Talysh"
 wikipedia_url: "https://en.wikipedia.org/wiki/Shahrudi_language"
+translations:
+  - translation_iso: zho
+    name: 沙赫鲁迪语
+    auto: true
 ---
 Shahrudi is a Tatic dialect and moribund Northwestern Iranian language closely related to Talysh.

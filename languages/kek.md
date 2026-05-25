@@ -1,7 +1,6 @@
 ---
 iso: kek
 name: Kekchí
-name_zh: 凯克其语
 autonym: Kekchi
 alt_names: ["Cacche'", Cachí (Guatemala), Język kekczi, "K'ekchí", Kekch, "Kekchi'", Kekcxioj, "Ketchi'", Língua queqchi, "Q'eqchi", "Q'eqchi'", "Q'eqchi' language", "Q'eqchí simi", "Qeqchi'", Qeqchí, "Quecchi'", "Q’eqchi' (Belize)", "Q’eqchi' (Guatemala)", Кекчи, Кекчиски јазик]
 population: 1147600
@@ -15,6 +14,13 @@ glottolog_family_id: maya1287
 glottolog_family_name: Mayan
 glottolog_classification: "Mayan > Core Mayan > Quichean-Mamean > Greater Quichean > Q'eqchi'"
 wikipedia_url: "https://en.wikipedia.org/wiki/Q%CA%BCeqchi%CA%BC_language"
+translations:
+  - translation_iso: jpn
+    name: ケクチ語
+  - translation_iso: kor
+    name: 켁치어
+  - translation_iso: zho
+    name: 凯克其语
 rolv_dialects:
   - rolv_code: 26744
     language_tag: kek-x-HIS26744

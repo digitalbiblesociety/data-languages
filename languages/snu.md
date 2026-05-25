@@ -1,8 +1,6 @@
 ---
 iso: snu
 name: Senggi
-name_zh: 森吉语
-name_zh_auto: true
 autonym: Viid
 alt_names: [Sengi]
 population: 250
@@ -16,6 +14,10 @@ glottolog_family_id: bord1247
 glottolog_family_name: Border
 glottolog_classification: "Border > Warisic > Nuclear Warisic > Senggi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Viid_language"
+translations:
+  - translation_iso: zho
+    name: 森吉语
+    auto: true
 rolv_dialects:
   - rolv_code: 1114
     language_tag: snu-x-HIS01114

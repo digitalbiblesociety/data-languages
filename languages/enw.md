@@ -1,8 +1,6 @@
 ---
 iso: enw
 name: Enwan (Akwa Ibom State)
-name_zh: 恩万语（阿夸伊博姆州）
-name_zh_auto: true
 autonym: Oron
 alt_names: ["\"Oron\"", Enwan, Enwang]
 population: 15000
@@ -15,4 +13,8 @@ glottocode: enwa1245
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Delta Cross > Lower Cross > Nuclear Lower Cross > West Lower Cross > Oroic > Enwang-Uda > Enwan (Akwa Ibom State)"
+translations:
+  - translation_iso: zho
+    name: 恩万语（阿夸伊博姆州）
+    auto: true
 ---

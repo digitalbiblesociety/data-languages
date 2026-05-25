@@ -1,8 +1,6 @@
 ---
 iso: nhu
 name: Noone
-name_zh: 努纳语
-name_zh_auto: true
 autonym: Nooni
 alt_names: [Kumaju, Noni]
 population: 40000
@@ -16,6 +14,12 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Beboid > Eastern Beboid > Nsari-Nooni-Ncane > Nooni-Ncane > Noone"
 wikipedia_url: "https://en.wikipedia.org/wiki/Noni_language"
+translations:
+  - translation_iso: jpn
+    name: Noni語
+  - translation_iso: zho
+    name: 努纳语
+    auto: true
 rolv_dialects:
   - rolv_code: 25662
     language_tag: nhu-x-HIS25662

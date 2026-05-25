@@ -1,7 +1,6 @@
 ---
 iso: ycl
 name: Lolopo
-name_zh: 彝语中部方言
 autonym: Central Yi
 alt_names: [Lolo, Lolopho, Yi, "Yi, Central"]
 population: 380000
@@ -15,6 +14,11 @@ glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Burmo-Qiangic > Lolo-Burmese > Loloish > Ni-Li-Kazhouish > Lisoid > Lipo-Lolopo > Lolopo"
 wikipedia_url: "https://en.wikipedia.org/wiki/Lolopo_language"
+translations:
+  - translation_iso: jpn
+    name: リポ語
+  - translation_iso: zho
+    name: 彝语中部方言
 rolv_dialects:
   - rolv_code: 6194
     language_tag: ycl-x-HIS06194

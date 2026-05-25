@@ -1,7 +1,6 @@
 ---
 iso: diu
 name: Diriku
-name_zh: 迪利庫語
 autonym: Rumanyo
 alt_names: [Diriko, Gciriku, Gciriku language, Mbogedo, Mbogedu, Rugciriku, Shimbogedu]
 population: 81700
@@ -15,5 +14,8 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > Central-Western Bantu > Njila > Southern Njila > Kunene > Kwangali-Diriku > Diriku-Shambyu"
 wikipedia_url: "https://en.wikipedia.org/wiki/Dciriku_language"
+translations:
+  - translation_iso: zho
+    name: 迪利庫語
 ---
 Dciriku, or Gciriku, is a Bantu language spoken by 305,000 people along the Kavango River in Namibia, Botswana and Angola. 24,000 people speak Dciriku in Angola, according to Ethnologue. It was first known in the west via the Vagciriku, who had migrated from the main Vamanyo area and spoke Rugciriku, a dialect of Dciriku. The name Gciriku remains common in the literature, but within Namibia the name Rumanyo has been revived. The Mbogedu dialect is extinct; Maho (2009) lists it as a distinct language, and notes that the names 'Manyo' and 'Rumanyo' are inappropriate for it.

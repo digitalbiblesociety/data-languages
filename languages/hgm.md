@@ -1,7 +1,6 @@
 ---
 iso: hgm
 name: Haiǁom
-name_zh: 海奥姆人
 autonym: Haiǁom–ǂĀkhoe
 alt_names: ["\"Saan\"", "\"San\"", Hai.n//um, Hai//om, Haiom, "Hai||om"]
 population: 18400
@@ -15,6 +14,9 @@ glottolog_family_id: khoe1240
 glottolog_family_name: Khoe-Kwadi
 glottolog_classification: "Khoe-Kwadi > Khoe > Khoekhoe > North Khoekhoe > Hai//om-Akhoe"
 wikipedia_url: "https://en.wikipedia.org/wiki/Hai%C7%81om%E2%80%93%C7%82Aakhoe_dialect"
+translations:
+  - translation_iso: zho
+    name: 海奥姆人
 rolv_dialects:
   - rolv_code: 27090
     language_tag: hgm-x-HIS27090

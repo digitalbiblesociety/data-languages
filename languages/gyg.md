@@ -1,8 +1,6 @@
 ---
 iso: gyg
 name: Gbayi
-name_zh: 吉巴伊语
-name_zh_auto: true
 autonym: Kpasiya
 population: 5000
 country_id: CF
@@ -14,4 +12,8 @@ glottocode: gbay1278
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Cameroun-Ubangian > Ubangi > Ngbandi-Mongoba-Kazibati > Ngbandic > Gbayi"
+translations:
+  - translation_iso: zho
+    name: 吉巴伊语
+    auto: true
 ---

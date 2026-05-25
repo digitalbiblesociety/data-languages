@@ -1,7 +1,6 @@
 ---
 iso: rof
 name: Rombo
-name_zh: 兰博语
 autonym: Kirombo
 alt_names: [Rombo language]
 population: null
@@ -16,6 +15,17 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > East Bantu > Northeast Savanna Bantu > Kilimanjaro-Taita > Kilimanjaro Bantu > Chaga > Rombo"
 wikipedia_url: "https://en.wikipedia.org/wiki/Rombo_language"
+translations:
+  - translation_iso: ara
+    name: الرومبو
+  - translation_iso: hin
+    name: रोम्बो
+  - translation_iso: jpn
+    name: ロンボ語
+  - translation_iso: kor
+    name: 롬보어
+  - translation_iso: zho
+    name: 兰博语
 rolv_dialects:
   - rolv_code: 25370
     language_tag: rof-x-HIS25370

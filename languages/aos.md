@@ -1,8 +1,6 @@
 ---
 iso: aos
 name: Taikat
-name_zh: 塔伊卡特语
-name_zh_auto: true
 autonym: Arso
 alt_names: [Abrap, Marap, Taigat, Tajkat]
 population: 500
@@ -16,5 +14,9 @@ glottolog_family_id: bord1247
 glottolog_family_name: Border
 glottolog_classification: "Border > Taikat-Awyi > Taikat"
 wikipedia_url: "https://en.wikipedia.org/wiki/Taikat_language"
+translations:
+  - translation_iso: zho
+    name: 塔伊卡特语
+    auto: true
 ---
 Taikat (Daiget) or Arso is a Papuan language of Indonesian Papua.

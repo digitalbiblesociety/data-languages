@@ -1,8 +1,6 @@
 ---
 iso: kai
 name: Karekare
-name_zh: 卡雷卡雷语
-name_zh_auto: true
 autonym: Karai Karai
 alt_names: [Karaikarai, Kerekere, Kerrikerri]
 population: 366000
@@ -16,6 +14,10 @@ glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > West Chadic > West Chadic A > West Chadic A.2-3 > West Chadic A.2 > Boleic > Karekare"
 wikipedia_url: "https://en.wikipedia.org/wiki/Karai-karai"
+translations:
+  - translation_iso: zho
+    name: 卡雷卡雷语
+    auto: true
 rolv_dialects:
   - rolv_code: 11607
     language_tag: kai-x-HIS11607

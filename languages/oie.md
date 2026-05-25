@@ -1,8 +1,6 @@
 ---
 iso: oie
 name: Okolie
-name_zh: 奥科利语
-name_zh_auto: true
 autonym: Dongotono
 population: 5000
 country_id: SS
@@ -14,6 +12,10 @@ glottolog_family_id: nilo1247
 glottolog_family_name: Nilotic
 glottolog_classification: "Nilotic > Eastern Nilotic > Teso-Lotuxo-Maa > Lotuxo-Maa > Lotuxo > Lopit-Dongotono > Dongotonic > Okolie"
 wikipedia_url: "https://en.wikipedia.org/wiki/Okolie_language"
+translations:
+  - translation_iso: zho
+    name: 奥科利语
+    auto: true
 rolv_dialects:
   - rolv_code: 27341
     language_tag: oie-x-HIS27341

@@ -1,8 +1,6 @@
 ---
 iso: mbt
 name: Matigsalug Manobo
-name_zh: 马蒂格萨卢格曼诺博语
-name_zh_auto: true
 autonym: "Matig-Salug Manobo"
 alt_names: [Kulamanen, "Manobo, Matigsalug"]
 population: 50000
@@ -16,6 +14,10 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Greater Central Philippine > Manobo > Central and Southern Manobo > East-West-Central Manobo > East and Central Manobo > Central Manobo > Matigsalug Manobo"
 wikipedia_url: "https://en.wikipedia.org/wiki/Matigsalug_language"
+translations:
+  - translation_iso: zho
+    name: 马蒂格萨卢格曼诺博语
+    auto: true
 rolv_dialects:
   - rolv_code: 2157
     language_tag: mbt-x-HIS02157

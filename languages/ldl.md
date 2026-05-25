@@ -1,8 +1,6 @@
 ---
 iso: ldl
 name: Kaan
-name_zh: 卡安语
-name_zh_auto: true
 autonym: Libo
 alt_names: [Kan, Libbo]
 population: 10000
@@ -16,5 +14,9 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Cameroun-Ubangian > Bena-Mboi > Kaan"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kaan_language"
+translations:
+  - translation_iso: zho
+    name: 卡安语
+    auto: true
 ---
 Kaan, or Libo, is an Adamawa language of Nigeria.

@@ -1,8 +1,6 @@
 ---
 iso: oni
 name: Onin
-name_zh: 奥尼语
-name_zh_auto: true
 autonym: Onim
 alt_names: [Sepa]
 population: 500
@@ -16,6 +14,10 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Tanimbar-Bomberai > Nuclear Tanimbar-Bomberai > Yamdena-Onin > Oninic > Onin"
 wikipedia_url: "https://en.wikipedia.org/wiki/Onin_language"
+translations:
+  - translation_iso: zho
+    name: 奥尼语
+    auto: true
 rolv_dialects:
   - rolv_code: 15301
     language_tag: oni-x-HIS15301

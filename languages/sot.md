@@ -1,7 +1,6 @@
 ---
 iso: sot
 name: Southern Sotho
-name_zh: 索托语
 autonym: Sesotho
 alt_names: [Bahasa Sesotho, Eteläsothon kieli, Gjuha sesote, IsiSotho, IsiSuthu, Język sotho, Lengua sesotho, Lingua sesotho, S Sotho, SeSotho do sul, Sesotho simi, Sesoto kalba, Sisutho, Sota lingvo, Sotho, Sotho (South), Sotho (Southern), Sotho du Sud, Sotho language, "Sotho, Southern", Sothoeg, Soto, Southern, Souto, Suid-Sotho, Suthu, Suto, Sutum, Süd-Sotho, Zuid-Sotho, Сесото, سېسوتوچە, सिसोथो भाषा, ソト語, 塞索托语, 소토어]
 population: 5624700
@@ -16,5 +15,16 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > East Bantu > Southern Bantu > Nuclear Southern Bantu > Dimsuffix Southern Bantu > Sotho-Tswana (S.30) > Western Sotho-Tswana > Central Sotho-Tswana > Sesotho-Lozi > Southern Sotho"
 wikipedia_url: "https://en.wikipedia.org/wiki/Sotho_language"
+translations:
+  - translation_iso: ara
+    name: لغة سوتية
+  - translation_iso: hin
+    name: सिसोथो भाषा
+  - translation_iso: jpn
+    name: ソト語
+  - translation_iso: kor
+    name: 소토어
+  - translation_iso: zho
+    name: 索托语
 ---
 Sotho, also known as Sesotho, Southern Sotho, or Sesotho sa Borwa, is a Southern Bantu language spoken in Lesotho, as its national language, and South Africa, where it is an official language.

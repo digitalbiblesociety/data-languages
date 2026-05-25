@@ -1,8 +1,6 @@
 ---
 iso: nxe
 name: Nage
-name_zh: 纳格语
-name_zh_auto: true
 autonym: "Nage-Keo"
 alt_names: [Nagé]
 population: 50000
@@ -15,4 +13,8 @@ glottocode: nage1237
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Bima-Lembata > Flores > West-Central Flores > Central Flores-Paluqe > Central Flores > Eastern Central Flores > Nage-Keo > Nage"
+translations:
+  - translation_iso: zho
+    name: 纳格语
+    auto: true
 ---

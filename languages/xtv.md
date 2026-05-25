@@ -1,8 +1,6 @@
 ---
 iso: xtv
 name: Thawa
-name_zh: 塔瓦语
-name_zh_auto: true
 autonym: Baianga
 population: null
 country_id: AU
@@ -15,5 +13,9 @@ glottolog_family_id: pama1250
 glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > Southeastern Pama-Nyungan > New South Wales Pama-Nyungan > Yuin-Kuri > Yuin > Southern Coastal Yuin"
 wikipedia_url: "https://en.wikipedia.org/wiki/Thawa_language"
+translations:
+  - translation_iso: zho
+    name: 塔瓦语
+    auto: true
 ---
 Thawa is a nearly extinct Australian Aboriginal language of New South Wales with only very few speakers including certain local elders. It is sometimes classified with Dyirringany as a dialect of Southern Coastal Yuin, though it is not clear how close the two varieties actually were.

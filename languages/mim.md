@@ -1,8 +1,6 @@
 ---
 iso: mim
 name: Alacatlatzala Mixtec
-name_zh: 阿拉卡特拉察拉混合语
-name_zh_auto: true
 autonym: "Mixteco, Alacatlatzala"
 alt_names: [Alcozauca Mixtec, Central Misteko, Guerrero Mixtec, Highland Guerrero Mixtec, Highland Guerrero Mixteco, Metlatónoc Mixtec, Mixtec, Mixtec (Alacatlatzala), "Mixtec, Alacatlatzala", Mixteco (Alacatlatzala), Mixteco de Alacatlatzala, Mixteco de Alocozauca, Mixteco de Xochapa, Mixteco de Yoloxóchitl, Northern Misteko, Northern Mixteco, "To'on Savi", To’on Savi, Yoloxóchitl Mixtec]
 population: 30000
@@ -15,6 +13,10 @@ glottocode: alac1244
 glottolog_family_id: otom1299
 glottolog_family_name: Otomanguean
 glottolog_classification: "Otomanguean > Eastern Otomanguean > Amuzgo-Mixtecan > Mixtecan > Mixtec-Cuicatec > Mixtec > Guerrero Mixtec > Nuclear Guerrero Mixtec > Alacatlatzala Mixtec"
+translations:
+  - translation_iso: zho
+    name: 阿拉卡特拉察拉混合语
+    auto: true
 rolv_dialects:
   - rolv_code: 4382
     language_tag: mim-x-HIS04382

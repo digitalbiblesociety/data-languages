@@ -1,8 +1,6 @@
 ---
 iso: kpu
 name: Kafoa
-name_zh: 卡福阿语
-name_zh_auto: true
 autonym: Jafoo
 alt_names: [Afoa, Aikoli, Fanating, Pailelang, Ruilak]
 population: 1000
@@ -16,5 +14,9 @@ glottolog_family_id: timo1261
 glottolog_family_name: Timor-Alor-Pantar
 glottolog_classification: "Timor-Alor-Pantar > Alor-Pantar > Nuclear Alor-Pantar > Kafoa"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kafoa_language"
+translations:
+  - translation_iso: zho
+    name: 卡福阿语
+    auto: true
 ---
 Kafoa, also known as Jafoo or Habollat, is a Papuan language of Alor Island in the Alor archipelago of Indonesia. Although Kafoa speakers refer to both themselves and their language with the name "Kafoa", this word is not well known in the area. Kafoa speakers are frequently multilingual, also speaking Alor Malay, Klon, and Abui, also Indonesian as the national language. Children are typically initially taught Alor Malay by their parents and later acquire Kafoa after having reached school age.

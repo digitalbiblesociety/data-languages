@@ -1,7 +1,6 @@
 ---
 iso: byq
 name: Basay
-name_zh: 巴赛语
 autonym: Basai
 alt_names: [Basayeg, Kawanuwan, Lingua Basay, Sprache von Formosa, ภาษาบาซาย]
 population: null
@@ -15,6 +14,11 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > East Formosan > Northern East Formosan > Basay"
 wikipedia_url: "https://en.wikipedia.org/wiki/Basay_language"
+translations:
+  - translation_iso: jpn
+    name: バサイ語
+  - translation_iso: zho
+    name: 巴赛语
 rolv_dialects:
   - rolv_code: 7821
     language_tag: byq-x-HIS07821

@@ -1,8 +1,6 @@
 ---
 iso: kkt
 name: Koi
-name_zh: 科伊语
-name_zh_auto: true
 autonym: Kohi
 alt_names: ["Koi Bo'o", Koyi, Koyu, "Koyu Bo'"]
 population: 2640
@@ -16,6 +14,12 @@ glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Himalayish > Mahakiranti > Kiranti > Thulung-Tilung-Koyi > Koi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Koi_language"
+translations:
+  - translation_iso: jpn
+    name: コイ語
+  - translation_iso: zho
+    name: 科伊语
+    auto: true
 rolv_dialects:
   - rolv_code: 12113
     language_tag: kkt-x-HIS12113

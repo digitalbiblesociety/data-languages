@@ -1,7 +1,6 @@
 ---
 iso: tum
 name: Tumbuka
-name_zh: 通布卡语
 autonym: Chitumbuka
 alt_names: [Idioma tumbuka, Język tumbuka, Língua tumbuka, Tamboka, Tambuka, Tew, Timbuka, Tombucas, Tumboka, Tumbukum, Тумбука, トゥンブカ語]
 population: 2316000
@@ -16,6 +15,17 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > East Bantu > Tumbuka-Sena-Nyanja > Tumbukic > Tumbuka"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tumbuka_language"
+translations:
+  - translation_iso: ara
+    name: التامبوكا
+  - translation_iso: hin
+    name: तम्बूका
+  - translation_iso: jpn
+    name: トゥンブカ語
+  - translation_iso: kor
+    name: 툼부카어
+  - translation_iso: zho
+    name: 通布卡语
 rolv_dialects:
   - rolv_code: 1025
     language_tag: tum-x-HIS01025

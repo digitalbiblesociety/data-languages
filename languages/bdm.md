@@ -1,8 +1,6 @@
 ---
 iso: bdm
 name: Buduma
-name_zh: 布杜玛语
-name_zh_auto: true
 autonym: Buduma
 alt_names: [Boudouma, Buduma-Kuri, Yadena, Yedana, Yedima, Yedina, Yidana, Yidena]
 population: 54800
@@ -16,6 +14,14 @@ glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > Biu-Mandara > North Biu-Mandara > Kotoko-Buduma > Buduma"
 wikipedia_url: "https://en.wikipedia.org/wiki/Yedina_language"
+translations:
+  - translation_iso: ara
+    name: بودوما
+  - translation_iso: jpn
+    name: ブドゥマ語
+  - translation_iso: zho
+    name: 布杜玛语
+    auto: true
 rolv_dialects:
   - rolv_code: 8416
     language_tag: bdm-x-HIS08416

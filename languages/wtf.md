@@ -1,7 +1,6 @@
 ---
 iso: wtf
 name: Watiwa
-name_zh: 敦普
 autonym: Dumpu
 alt_names: [Język dumpu, Lenga Dumpu, Watifa]
 population: 510
@@ -15,6 +14,9 @@ glottolog_family_id: nucl1709
 glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Madang > Rai Coast > Evapia > Dumpu"
 wikipedia_url: "https://en.wikipedia.org/wiki/Watiwa_language"
+translations:
+  - translation_iso: zho
+    name: 敦普
 rolv_dialects:
   - rolv_code: 30543
     language_tag: wtf-x-HIS30543

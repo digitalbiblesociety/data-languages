@@ -1,8 +1,6 @@
 ---
 iso: yer
 name: Tarok
-name_zh: 塔罗克语
-name_zh_auto: true
 autonym: Yergam
 alt_names: [Appa, Yergum]
 population: 494000
@@ -16,6 +14,12 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Benue-Congo Plateau > Tarokoid > Yangkam-Tarok-Pe > Tarok-Pe > Tarok"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tarok_language"
+translations:
+  - translation_iso: ara
+    name: تاروك
+  - translation_iso: zho
+    name: 塔罗克语
+    auto: true
 rolv_dialects:
   - rolv_code: 17222
     language_tag: yer-x-HIS17222

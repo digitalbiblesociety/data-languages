@@ -1,8 +1,6 @@
 ---
 iso: nxl
 name: South Nuaulu
-name_zh: 南努阿乌鲁语
-name_zh_auto: true
 autonym: Fatakai
 alt_names: [Nuaulu, "Nuaulu, South", Patakai]
 population: 1500
@@ -15,4 +13,8 @@ glottocode: sout2895
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Nunusaku > Patakai-Manusela > Patakai > South Nuaulu"
+translations:
+  - translation_iso: zho
+    name: 南努阿乌鲁语
+    auto: true
 ---

@@ -1,7 +1,6 @@
 ---
 iso: sun
 name: Sundanese
-name_zh: 巽他语
 autonym: ᮘᮞ ᮞᮥᮔ᮪ᮓ
 alt_names: [Bahasa Sunda, Basa Sunda, Basa Sundha, Idioma sondanés, Idioma sundanés, Język sundajski, Lengua sundaneixe, Lingua sondanese, Luenga sondanesa, Língua sundanesa, Priangan, Soendanees, Sunda, Sunda lingvo, Sunda simi, Sundaisch, Sundan kieli, Sundanais, Sundanesische Sprache, Sundanesisk, Sundanesiska, Sundic, Sundski jezik, Sundu valoda, Sundčina, Sundų kalba, Swndaneg, Tiếng Sunda, soundanais, Сунданский язык, سۇندا تىلى, सुन्दा भाषा, ภาษาซุนดา, სუნდური ენა, スンダ語, 巽他語, 순다어]
 population: 32400000
@@ -16,6 +15,17 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Sundanese"
 wikipedia_url: "https://en.wikipedia.org/wiki/Sundanese_language"
+translations:
+  - translation_iso: ara
+    name: الصندية
+  - translation_iso: hin
+    name: सुन्दा भाषा
+  - translation_iso: jpn
+    name: スンダ語
+  - translation_iso: kor
+    name: 순다어
+  - translation_iso: zho
+    name: 巽他语
 rolv_dialects:
   - rolv_code: 16942
     language_tag: su-x-HIS16942

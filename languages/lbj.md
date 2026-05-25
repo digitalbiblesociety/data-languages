@@ -1,7 +1,6 @@
 ---
 iso: lbj
 name: Ladakhi
-name_zh: 拉达克语
 autonym: ལ་དྭགས་ཀྱི་སྐད།
 alt_names: [Bod Buṭun, Budhī, Język ladakhi, Ladak, Ladakheg, Ladakhische Sprache, Ladakhī, Ladakse skat, Ladaphi, Ladhakhi, Ladwags, Leh-Kenhat, Lingua Ladakhi, Mar-yul, Western, Western Tibetan, dialect of Leh, ภาษาลาดัก, ལ་དྭགས་སྐད།]
 population: 27000
@@ -15,6 +14,17 @@ glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Bodic > Bodish > Early Old Tibetan > Western Archaic Tibetan > Kenhatic > Leh Ladakhi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ladakhi_language"
+translations:
+  - translation_iso: ara
+    name: اللغة اللداخية
+  - translation_iso: hin
+    name: लद्दाख़ी भाषा
+  - translation_iso: jpn
+    name: ラダック語
+  - translation_iso: kor
+    name: 라다크어
+  - translation_iso: zho
+    name: 拉达克语
 rolv_dialects:
   - rolv_code: 12657
     language_tag: lbj-x-HIS12657

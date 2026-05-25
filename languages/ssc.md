@@ -1,8 +1,6 @@
 ---
 iso: ssc
 name: "Suba-Simbiti"
-name_zh: 苏巴-西姆比提语
-name_zh_auto: true
 autonym: Kisimbiti
 alt_names: [Kisuba]
 population: 113000
@@ -16,6 +14,10 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > East Bantu > Northeast Savanna Bantu > Great Lakes Bantu > East Nyanza > Nyanza Mara > North Mara > Kuriaic > Suba-Simbiti"
 wikipedia_url: "https://en.wikipedia.org/wiki/Suba-Simbiti_language"
+translations:
+  - translation_iso: zho
+    name: 苏巴-西姆比提语
+    auto: true
 rolv_dialects:
   - rolv_code: 25473
     language_tag: ssc-x-HIS25473

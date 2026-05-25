@@ -1,8 +1,6 @@
 ---
 iso: mgp
 name: Eastern Magar
-name_zh: 东迈格语
-name_zh_auto: true
 autonym: " मगर भाषा"
 alt_names: [E Magar, E. Magar, Magar, Magar (Eastern), Magar (Tanahu), Magar language, "Magar, Eastern", "Magar,Eastern", Magari, Magarkura, Magarí, Magarī, Mangari, Manggar, Mãgari, Маґар, ภาษามาคัร, 马嘉尔语]
 population: 533700
@@ -16,6 +14,10 @@ glottocode: east2352
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Himalayish > Mahakiranti > Kham-Magar-Chepang > Magar > Eastern Magar"
+translations:
+  - translation_iso: zho
+    name: 东迈格语
+    auto: true
 rolv_dialects:
   - rolv_code: 20069
     language_tag: mgp-x-HIS20069

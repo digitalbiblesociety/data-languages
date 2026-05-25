@@ -1,8 +1,6 @@
 ---
 iso: ohu
 name: Old Hungarian
-name_zh: 古匈牙利语
-name_zh_auto: true
 autonym: null
 alt_names: ["Hungarian, Old"]
 population: null
@@ -15,4 +13,8 @@ glottocode: oldh1242
 glottolog_family_id: ural1272
 glottolog_family_name: Uralic
 glottolog_classification: "Uralic > Hungaric > Old Hungarian"
+translations:
+  - translation_iso: zho
+    name: 古匈牙利语
+    auto: true
 ---

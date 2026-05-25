@@ -1,8 +1,6 @@
 ---
 iso: mwq
 name: Mün Chin
-name_zh: 蒙钦语
-name_zh_auto: true
 autonym: Ng’men
 alt_names: ["\"Chinbok\"", "Chin, Mün", "Chin,Mün", Chinbe, Chinbok, Cho, Mindat, Mun, Mun Chin, Mün, "Ng'men", Tśinbok, Yawdwin]
 population: 15000
@@ -16,6 +14,10 @@ glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Kuki-Chin-Naga > Kuki-Chin > Peripheral Kuki-Chin > South Peripheral Kuki-Chin > Choic > Daai-Nghmoye-Muun-Kaang > Mün Chin"
 wikipedia_url: "https://en.wikipedia.org/wiki/K%CA%BCch%C3%B2_language"
+translations:
+  - translation_iso: zho
+    name: 蒙钦语
+    auto: true
 rolv_dialects:
   - rolv_code: 8788
     language_tag: mwq-x-HIS08788

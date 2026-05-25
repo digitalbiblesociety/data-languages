@@ -1,8 +1,6 @@
 ---
 iso: msf
 name: Mekwei
-name_zh: 梅克韦语
-name_zh_auto: true
 autonym: "Demenggong-Waibron-Bano"
 alt_names: [Dozai, Mekei, Menggei, Menggwei, Moi, Moi-e, Mooi, Munggai, Mungge, Munkei, Sabron-Dosay, Waibron Bano-Demenggong, Waipu]
 population: 1200
@@ -16,5 +14,9 @@ glottolog_family_id: nimb1257
 glottolog_family_name: Nimboranic
 glottolog_classification: "Nimboranic > Outer Nimboranic > Mekwei"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mekwei_language"
+translations:
+  - translation_iso: zho
+    name: 梅克韦语
+    auto: true
 ---
 Mekwei (Menggwei), or Mooi, is a Papuan language of Jayapura Regency, Papua, Indonesia. It is spoken in Kendate, Maribu, Sabron Dosay, and Waibrong villages.

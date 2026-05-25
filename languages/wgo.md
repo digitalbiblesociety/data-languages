@@ -1,7 +1,6 @@
 ---
 iso: wgo
 name: Waigeo
-name_zh: 卫吉语
 autonym: Waigeo
 alt_names: [Ambel, Amber, Amberi, Waigiu]
 population: 300
@@ -15,6 +14,11 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > South Halmahera-West New Guinea > Raja Ampat-South Halmahera > Ambel"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ambel_language"
+translations:
+  - translation_iso: jpn
+    name: ワイゲオ語
+  - translation_iso: zho
+    name: 卫吉语
 rolv_dialects:
   - rolv_code: 18105
     language_tag: wgo-x-HIS18105

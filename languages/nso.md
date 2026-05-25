@@ -1,7 +1,6 @@
 ---
 iso: nso
 name: Pedi
-name_zh: 北索托語
 autonym: Pedi
 alt_names: [Bahasa Sepedi, Gjuha sotho, Język północny sotho, Lingua sesotho del nord, Noord-Sotho, Nord-Sotho, Nordi Sutum, Nordlig sotho, Northern, Northern Sotho, Northern Sotho language, Peda lingvo, Pohjoissothon kieli, SeSotho do norte, Sepedi, Sesotho sa leboa, Sotho, Sotho (North), Sotho (Northern), Sotho du Nord, "Sotho, Northern", Sothoeg an norzh, Transvaal Sotho, Šiaurės Soto kalba, Северный сото, 北ソト語]
 population: 4631000
@@ -16,6 +15,17 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > East Bantu > Southern Bantu > Nuclear Southern Bantu > Dimsuffix Southern Bantu > Sotho-Tswana (S.30) > Northern Sotho > Sepedic > Pedi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Northern_Sotho"
+translations:
+  - translation_iso: ara
+    name: لغة سوثو شمالية
+  - translation_iso: hin
+    name: उत्तरी सोथो
+  - translation_iso: jpn
+    name: 北ソト語
+  - translation_iso: kor
+    name: 북소토어
+  - translation_iso: zho
+    name: 北索托語
 rolv_dialects:
   - rolv_code: 16856
     language_tag: nso-x-HIS16856

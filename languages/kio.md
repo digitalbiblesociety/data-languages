@@ -1,7 +1,6 @@
 ---
 iso: kio
 name: Kiowa
-name_zh: 基奥瓦语
 autonym: "Cáuijògà/Cáuijò:gyà"
 alt_names: [Kajovština, Kiowan, Kiowan Isolate, Kioweg, Quiova]
 population: 20
@@ -15,5 +14,12 @@ glottolog_family_id: kiow1265
 glottolog_family_name: Kiowa-Tanoan
 glottolog_classification: "Kiowa-Tanoan > Kiowa"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kiowa_language"
+translations:
+  - translation_iso: hin
+    name: कियोवा भाषा
+  - translation_iso: jpn
+    name: カイオワ語
+  - translation_iso: zho
+    name: 基奥瓦语
 ---
 Kiowa, in the language itself Ǥáuiđòᵰ:gyà, is a Tanoan language spoken by the Kiowa people, primarily in Caddo, Kiowa, and Comanche counties, Oklahoma. The Kiowa tribal center is located in Carnegie. Like most North American indigenous languages, Kiowa is an endangered language.

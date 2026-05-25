@@ -1,7 +1,6 @@
 ---
 iso: mjg
 name: Tu
-name_zh: 土族语
 autonym: Dēd Mongol
 alt_names: [Halchighol, Hu-tsu, Huzhu, Mongghul, Narin-guor, Naringhol, 互助土家語]
 population: 290000
@@ -15,6 +14,13 @@ glottolog_family_id: mong1349
 glottolog_family_name: Mongolic-Khitan
 glottolog_classification: "Mongolic-Khitan > Mongolic > Southern Periphery Mongolic > Shirongol > Monguoric > Mongghul"
 wikipedia_url: "https://en.wikipedia.org/wiki/Monguor_language"
+translations:
+  - translation_iso: jpn
+    name: モングォル語
+  - translation_iso: kor
+    name: 몽구오르어
+  - translation_iso: zho
+    name: 土族语
 rolv_dialects:
   - rolv_code: 4946
     language_tag: mjg-x-HIS04946

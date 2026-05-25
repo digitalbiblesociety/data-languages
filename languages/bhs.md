@@ -1,8 +1,6 @@
 ---
 iso: bhs
 name: Buwal
-name_zh: 布瓦尔语
-name_zh_auto: true
 autonym: Gadala
 alt_names: [Bual, Ma Buwal]
 population: 7000
@@ -16,5 +14,11 @@ glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > Biu-Mandara > South Biu-Mandara > Dabaic > Buwal-Gavar > Buwal"
 wikipedia_url: "https://en.wikipedia.org/wiki/Buwal_language"
+translations:
+  - translation_iso: jpn
+    name: ブワル語
+  - translation_iso: zho
+    name: 布瓦尔语
+    auto: true
 ---
 Buwal, also known as Ma Buwal, Bual, or Gadala, is an Afro-Asiatic language spoken in Cameroon in Far North Province in and around Gadala.

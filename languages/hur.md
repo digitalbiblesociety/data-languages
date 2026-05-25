@@ -1,7 +1,6 @@
 ---
 iso: hur
 name: Halkomelem
-name_zh: 哈爾魁梅林語
 autonym: Halq̓eméylem / Hul̓q̓umín̓um̓
 alt_names: [Halkomelem (Upriver), Halkomelén, "Halq'eméylem", Holkomelem, "Hul'q'umi'num'", Hulʻqʻumiʻnumʻ (Halkomelem), Hul’q’umin’um’, Upriver Halkomelem, hən̓q̓əmin̓əm, Халкомелем]
 population: 200
@@ -16,6 +15,17 @@ glottolog_family_id: sali1255
 glottolog_family_name: Salishan
 glottolog_classification: "Salishan > Coast Salish > Central Salish > South Georgia Central Salish > Halkomelem"
 wikipedia_url: "https://en.wikipedia.org/wiki/Halkomelem"
+translations:
+  - translation_iso: ara
+    name: الهالكوميليم
+  - translation_iso: hin
+    name: हल्कोमेलम
+  - translation_iso: jpn
+    name: ハルコメレム語
+  - translation_iso: kor
+    name: 할코멜렘어
+  - translation_iso: zho
+    name: 哈爾魁梅林語
 rolv_dialects:
   - rolv_code: 4823
     language_tag: hur-x-HIS04823

@@ -1,8 +1,6 @@
 ---
 iso: jen
 name: Dza
-name_zh: 扎语
-name_zh_auto: true
 autonym: Jen
 alt_names: [Janjo, Jenjo]
 population: 100000
@@ -16,6 +14,10 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Cameroun-Ubangian > Bikwin-Jen > Southern Bikwin-Jen > Jen > Doso-Dza > Dza"
 wikipedia_url: "https://en.wikipedia.org/wiki/Jen_language"
+translations:
+  - translation_iso: zho
+    name: 扎语
+    auto: true
 rolv_dialects:
   - rolv_code: 9492
     language_tag: jen-x-HIS09492

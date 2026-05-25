@@ -1,8 +1,6 @@
 ---
 iso: cnq
 name: Chung
-name_zh: 中语
-name_zh_auto: true
 autonym: Cung
 alt_names: [Chungmboko]
 population: 1400
@@ -15,5 +13,9 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Beboid > Eastern Beboid > Nsari-Nooni-Ncane > Nooni-Ncane > Ncane-Cung > Cung-Mbuk > Chung"
 wikipedia_url: "https://en.wikipedia.org/wiki/Chung_language"
+translations:
+  - translation_iso: zho
+    name: 中语
+    auto: true
 ---
 Chung (Cung) is an Eastern Beboid language of Cameroon.

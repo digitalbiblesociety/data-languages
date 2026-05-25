@@ -1,8 +1,6 @@
 ---
 iso: gkp
 name: Guinea Kpelle
-name_zh: 几内亚克佩莱语
-name_zh_auto: true
 autonym: Kpɛlɛwoo
 alt_names: [Akpese, Gbese, Gerse, Gerze, Guerze, Kpele, Kpelese, Kpelesetina, Kpelle, "Kpelle, Guinea", Kperese, Kpese, Kpwessi, Northern Kpele, Pessa, Pessy]
 population: 497000
@@ -15,4 +13,10 @@ glottocode: guin1254
 glottolog_family_id: mand1469
 glottolog_family_name: Mande
 glottolog_classification: "Mande > Western Mande > Manding-Kpelle > Southwest Mande > Kpelle > Guinea Kpelle"
+translations:
+  - translation_iso: jpn
+    name: ギニア・クペレ語
+  - translation_iso: zho
+    name: 几内亚克佩莱语
+    auto: true
 ---

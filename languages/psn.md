@@ -1,8 +1,6 @@
 ---
 iso: psn
 name: Panasuan
-name_zh: 潘苏安语
-name_zh_auto: true
 autonym: To Panasean
 alt_names: [To Pamosean]
 population: 800
@@ -16,5 +14,9 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Greater South Sulawesi > Rampi-Seko-Badaic > Seko > Panasuanic > Panasuan"
 wikipedia_url: "https://en.wikipedia.org/wiki/Panasuan_language"
+translations:
+  - translation_iso: zho
+    name: 潘苏安语
+    auto: true
 ---
 Panasuan is an Austronesian language spoken in the border area of West Sulawesi and South Sulawesi provinces, Indonesia. Together with Seko Padang, Seko Tengah and Budong-Budong, it belongs to the Seko branch of the South Sulawesi subgroup.

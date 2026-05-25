@@ -1,8 +1,6 @@
 ---
 iso: kyq
 name: Kenga
-name_zh: 肯加语
-name_zh_auto: true
 autonym: null
 alt_names: [Cenge, Kenge]
 population: 40000
@@ -16,6 +14,12 @@ glottolog_family_id: cent2225
 glottolog_family_name: Central Sudanic
 glottolog_classification: "Central Sudanic > Sara-Bongo-Bagirmi > SBB Occidental > Nuclear SBB Occidental > Saraic > Bagirmic > Kenga"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kenga_language"
+translations:
+  - translation_iso: ara
+    name: كينغا
+  - translation_iso: zho
+    name: 肯加语
+    auto: true
 rolv_dialects:
   - rolv_code: 2970
     language_tag: kyq-x-HIS02970

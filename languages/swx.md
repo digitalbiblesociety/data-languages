@@ -1,7 +1,6 @@
 ---
 iso: swx
 name: Suruahá
-name_zh: 祖魯阿哈語
 autonym: Suruahá
 alt_names: [Indios do Coxodoá, Mndios do Coxodoá, Sorowahá, Suruaha, Suruuarrás, Suruwahá, Zuruahá, Zuruahá language, Zuruahã, Зуруахаски јазик]
 population: 130
@@ -15,5 +14,8 @@ glottolog_family_id: araw1282
 glottolog_family_name: Arawan
 glottolog_classification: "Arawan > Suruahá"
 wikipedia_url: "https://en.wikipedia.org/wiki/Zuruah%C3%A1_language"
+translations:
+  - translation_iso: zho
+    name: 祖魯阿哈語
 ---
 Zuruahá is an Arawan language spoken in Brazil by about 130 people.

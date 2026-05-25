@@ -1,8 +1,6 @@
 ---
 iso: kqx
 name: Mser
-name_zh: 姆塞尔语
-name_zh_auto: true
 autonym: Kuseri
 alt_names: [Klesem, Kotoko-Kuseri, Kouseri, Kousseri, Mandage, Mandague, Mendage]
 population: 500
@@ -16,6 +14,10 @@ glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > Biu-Mandara > North Biu-Mandara > Kotoko-Buduma > Kotoko Central > Mser"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mser_language"
+translations:
+  - translation_iso: zho
+    name: 姆塞尔语
+    auto: true
 rolv_dialects:
   - rolv_code: 14346
     language_tag: kqx-x-HIS14346

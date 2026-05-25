@@ -1,7 +1,6 @@
 ---
 iso: fuf
 name: Pular
-name_zh: 葡拉語
 autonym: Fuuta Jalon
 alt_names: [Foula Fouta, Fouta Dyalon, Ful(ani), Fula, Fula (Guinean), Fulah-Idiome, Fulani, Fulbe, Fulfulde Jalon, Fullo Fuuta, Futa Fula, Futa Jallon, Jalon]
 population: 4740200
@@ -15,6 +14,13 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > North-Central Atlantic > Fula-Sereer > Fula > Pular"
 wikipedia_url: "https://en.wikipedia.org/wiki/Pular_language"
+translations:
+  - translation_iso: ara
+    name: لغة بولارية
+  - translation_iso: jpn
+    name: プラー語
+  - translation_iso: zho
+    name: 葡拉語
 rolv_dialects:
   - rolv_code: 9951
     language_tag: fuf-x-HIS09951

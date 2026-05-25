@@ -1,8 +1,6 @@
 ---
 iso: ttj
 name: Tooro
-name_zh: 图罗语
-name_zh_auto: true
 autonym: Rutooro
 alt_names: [Orutoro, Rutoro, Toro]
 population: 846000
@@ -17,6 +15,12 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > East Bantu > Northeast Savanna Bantu > Great Lakes Bantu > West Nyanza > Rutara > North Rutara > Nkore-Kiga-Nyoro-Tooro > Nyoro-Tooro > Tooro"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tooro_language"
+translations:
+  - translation_iso: jpn
+    name: トーロ語
+  - translation_iso: zho
+    name: 图罗语
+    auto: true
 rolv_dialects:
   - rolv_code: 27426
     language_tag: ttj-x-HIS27426

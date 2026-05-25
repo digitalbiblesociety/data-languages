@@ -1,8 +1,6 @@
 ---
 iso: cbo
 name: Izora
-name_zh: 伊佐拉语
-name_zh_auto: true
 autonym: Izora
 alt_names: [Azora, Chikobo, Chokobo, Cikobu, Cokobanci, Cokobo, Zora]
 population: 1500
@@ -16,5 +14,9 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Kainji > Central Kainji > Basa-Eastern Kainji > Eastern Kainji > Jos > Northern Jos > North-Central Jos > Chokobo-Lemoro-Sanga > Izora"
 wikipedia_url: "https://en.wikipedia.org/wiki/Zora_language"
+translations:
+  - translation_iso: zho
+    name: 伊佐拉语
+    auto: true
 ---
 Zora (Izora), or Cokoba (Cokobanci) in Hausa, is a Kainji language of Nigeria.

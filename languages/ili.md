@@ -1,7 +1,6 @@
 ---
 iso: ili
 name: Ili Turki
-name_zh: 伊犁土尔克语
 autonym: İlı turkeşi
 alt_names: [Ilieg, "T'urk", Tuerke, İli Türk tili, Или турки јазик, Или-тюркский язык, 伊犁土尔克语, 伊犁土爾克語, 伊犁突厥語]
 population: 120
@@ -15,5 +14,12 @@ glottolog_family_id: turk1311
 glottolog_family_name: Turkic
 glottolog_classification: "Turkic > Common Turkic > Kipchak-Turkestan > Turkestan > Modern Turkestan > Uyghuric > Ili Turki"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ili_Turki_language"
+translations:
+  - translation_iso: ara
+    name: لغة إيلي التركية
+  - translation_iso: jpn
+    name: イリ・チュルク語
+  - translation_iso: zho
+    name: 伊犁土尔克语
 ---
 Ili Turki is an endangered Turkic language spoken primarily in China, of the Karluk branch of Turkic. In 2007, it was reported that there were around 30 families using it in China. Speakers are shifting to Kazakh or Uyghur.

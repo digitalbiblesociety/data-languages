@@ -1,8 +1,6 @@
 ---
 iso: bgr
 name: Bawm Chin
-name_zh: 巴姆钦语
-name_zh_auto: true
 autonym: Banjogi
 alt_names: [Bawm, Bawn, Bawng, Bom, Chin, Chin (Bawm), Chin (Central), Chin bom, "Chin, Bawm", "Chin,Bawm"]
 population: 15140
@@ -16,6 +14,14 @@ glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Kuki-Chin-Naga > Kuki-Chin > Central Kuki-Chin > Core Central Kuki-Chin > Lai Chin > Falamic > Bawm Chin"
 wikipedia_url: "https://en.wikipedia.org/wiki/Bawm_language"
+translations:
+  - translation_iso: hin
+    name: बॉम भाषा
+  - translation_iso: jpn
+    name: ボーン語
+  - translation_iso: zho
+    name: 巴姆钦语
+    auto: true
 rolv_dialects:
   - rolv_code: 5110
     language_tag: bgr-x-HIS05110

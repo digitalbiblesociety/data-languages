@@ -1,8 +1,6 @@
 ---
 iso: urw
 name: Sop
-name_zh: 索普语
-name_zh_auto: true
 autonym: Sob
 alt_names: [Kari, Usino]
 population: 2250
@@ -16,5 +14,11 @@ glottolog_family_id: nucl1709
 glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Madang > Rai Coast > Peka > Sop"
 wikipedia_url: "https://en.wikipedia.org/wiki/Sop_language"
+translations:
+  - translation_iso: jpn
+    name: ソップ語
+  - translation_iso: zho
+    name: 索普语
+    auto: true
 ---
 Sop is a Rai Coast language spoken in Madang Province, Papua New Guinea by approximately 2,500 people.

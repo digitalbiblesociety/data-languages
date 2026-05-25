@@ -1,7 +1,6 @@
 ---
 iso: nxq
 name: Naxi
-name_zh: 纳西语
 autonym: Na
 alt_names: ["\"Mo-Su\"", "\"Moso\"", "\"Mosso\"", Lomi, Moso, Mosso, Mu, Nachieg, Nahsi, Nakhi, Nashi, Nasi, Noshi, Western dialect, Наси, ภาษาน่าซี, 納西語]
 population: 300000
@@ -16,6 +15,15 @@ glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Burmo-Qiangic > Na-Qiangic > Naic > Naish > Naxi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Naxi_language"
+translations:
+  - translation_iso: hin
+    name: नाशी भाषा
+  - translation_iso: jpn
+    name: ナシ語
+  - translation_iso: kor
+    name: 나시어
+  - translation_iso: zho
+    name: 纳西语
 rolv_dialects:
   - rolv_code: 4807
     language_tag: nxq-x-HIS04807

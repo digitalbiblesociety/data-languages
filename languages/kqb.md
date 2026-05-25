@@ -1,8 +1,6 @@
 ---
 iso: kqb
 name: Kovai
-name_zh: 科瓦伊语
-name_zh_auto: true
 autonym: Alngubin
 alt_names: [Kobai, Kowai, Umboi]
 population: 6000
@@ -16,6 +14,12 @@ glottolog_family_id: nucl1709
 glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Finisterre-Huon > Huon > Eastern Huon > Trans Vitiaz > Kovai"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kovai_language"
+translations:
+  - translation_iso: jpn
+    name: コヴァイ語
+  - translation_iso: zho
+    name: 科瓦伊语
+    auto: true
 rolv_dialects:
   - rolv_code: 21175
     language_tag: kqb-x-HIS21175

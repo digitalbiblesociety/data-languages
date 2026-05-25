@@ -1,7 +1,6 @@
 ---
 iso: dee
 name: Dewoin
-name_zh: 代沃因语
 autonym: De
 alt_names: [Dei, Dewoi, Dey]
 population: 8100
@@ -15,5 +14,8 @@ glottolog_family_id: krua1234
 glottolog_family_name: Kru
 glottolog_classification: "Kru > Greater Western Kru > Western Kru > Wee-Bassa-Klao > Bassa-Klao > Bassaic > Dewoin"
 wikipedia_url: "https://en.wikipedia.org/wiki/Dewoin_language"
+translations:
+  - translation_iso: zho
+    name: 代沃因语
 ---
 The Dewoin language, also known as De, Dey, or Dei, is a Kru language of the Niger–Congo language family. It is spoken primarily near the coastal areas of Montserrado County in western Liberia, including the capital Monrovia. It has a lexical similarity of 0.72 with the Bassa language.

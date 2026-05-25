@@ -1,8 +1,6 @@
 ---
 iso: ged
 name: Gade
-name_zh: 加德语
-name_zh_auto: true
 autonym: Gede
 population: 72100
 country_id: NG
@@ -15,5 +13,9 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Gade"
 wikipedia_url: "https://en.wikipedia.org/wiki/Gade_language"
+translations:
+  - translation_iso: zho
+    name: 加德语
+    auto: true
 ---
 Gade (Gad) is an independent Gadoid language of Nigeria. Glottolog 4.7 (2022) classifies it as an independent branch of Benue-Congo rather than as a Nupoid language of the Gade people.

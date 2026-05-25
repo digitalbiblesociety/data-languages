@@ -1,8 +1,6 @@
 ---
 iso: gbl
 name: Gamit
-name_zh: 加米特语
-name_zh_auto: true
 autonym: Gamati
 alt_names: [Gameti, Gamith, Gamta, Gamti, Gavit]
 population: 139000
@@ -16,5 +14,11 @@ glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Indo-Aryan > Middle-Modern Indo-Aryan > Continental Indo-Aryan > Midlands Indo-Aryan > Bhil > Gamit"
 wikipedia_url: "https://en.wikipedia.org/wiki/Gamit_language"
+translations:
+  - translation_iso: jpn
+    name: ガミット語
+  - translation_iso: zho
+    name: 加米特语
+    auto: true
 ---
 Gamit is a Bhil language of India, spoken by the Gamit people of Tapi district of Gujarat and by some people in Surat, Bharuch, Dang and Valsad districts of southern Gujarat. It is also spoken in Nandurbar and by some people in Dhule district in northern Maharashtra. Some example of Gamit language story can be found at https://indiantribalheritage.org/?p=25003

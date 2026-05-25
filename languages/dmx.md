@@ -1,8 +1,6 @@
 ---
 iso: dmx
 name: Dema
-name_zh: 德玛语
-name_zh_auto: true
 autonym: vaDoma
 population: 5000
 country_id: MZ
@@ -15,5 +13,9 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > East Bantu > Tumbuka-Sena-Nyanja > Sena-Nyanja > Senaic > Nyungweic > Dema"
 wikipedia_url: "https://en.wikipedia.org/wiki/Dema_language"
+translations:
+  - translation_iso: zho
+    name: 德玛语
+    auto: true
 ---
 Dema is a Bantu language of Mozambique. It is closely related to Shona. The population has been displaced by the construction of a dam.

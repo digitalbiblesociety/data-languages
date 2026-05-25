@@ -1,7 +1,6 @@
 ---
 iso: kjg
 name: Khmu
-name_zh: 克木语
 autonym: "Kmhmu'"
 alt_names: [Cam Mu, Kamhmu, Kammu, Kamu, Kemu, Kha, Kha Cau, Kha Khmu, Khamu, Khamuk, Khmous, "Khmu'", "Khmu?", Khmus, Khomu, Kmhmu, Lao Terng, Luu, Mou, Mun Xen, Northern, Pouteng, Pu Thenh, Tenh, Theng, Thenh, Tsa Khmu, Xa Cau]
 population: 803650
@@ -16,6 +15,13 @@ glottolog_family_id: aust1305
 glottolog_family_name: Austroasiatic
 glottolog_classification: "Austroasiatic > Khmuic > Khmu' > Khmu"
 wikipedia_url: "https://en.wikipedia.org/wiki/Khmu_language"
+translations:
+  - translation_iso: jpn
+    name: クム語
+  - translation_iso: kor
+    name: 크무어
+  - translation_iso: zho
+    name: 克木语
 rolv_dialects:
   - rolv_code: 488
     language_tag: kjg-x-HIS00488

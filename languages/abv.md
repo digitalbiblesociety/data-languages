@@ -1,7 +1,6 @@
 ---
 iso: abv
 name: Baharna Arabic
-name_zh: 巴林阿拉伯语
 autonym: العربية البحرانية
 alt_names: [Arabeg Bahrein, Arabic, Arabic (Bahrain), Arabic (Eastern), "Arabic, Baharna", "Arabic, Baharna Spoken", Baharna, Baharna Spoken, Baharna arapski, Baharnah, "Bahraini Shi'ite Arabic", Bahrani Arabic, Bahrayn, Бахарна арапски јазик, لهجة بحرانية, ภาษาอาหรับบาห์เรน, 바레인 구어체 아랍어]
 population: null
@@ -15,6 +14,15 @@ glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Semitic > West Semitic > Central Semitic > Arabian > Arabic > Arabian Peninsula Arabic > North Arabian Beduin Arabic > Baharna Arabic"
 wikipedia_url: "https://en.wikipedia.org/wiki/Bahrani_Arabic"
+translations:
+  - translation_iso: ara
+    name: لهجة بحرانية
+  - translation_iso: jpn
+    name: アラビア語バーレーン方言
+  - translation_iso: kor
+    name: 바레인 아랍어
+  - translation_iso: zho
+    name: 巴林阿拉伯语
 rolv_dialects:
   - rolv_code: 24188
     language_tag: abv-x-HIS24188

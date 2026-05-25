@@ -1,7 +1,6 @@
 ---
 iso: kwz
 name: Kwadi
-name_zh: Kwadi語
 autonym: ǃKwaǀtse
 alt_names: [Bakoroka, Cuanhoca, Cuepe, Curoca, Koroka, Kuadí, Makoroko, Mucoroca]
 population: null
@@ -15,6 +14,13 @@ glottolog_family_id: khoe1240
 glottolog_family_name: Khoe-Kwadi
 glottolog_classification: "Khoe-Kwadi > Kwadi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kwadi_language"
+translations:
+  - translation_iso: jpn
+    name: クワディ語
+  - translation_iso: kor
+    name: 콰디어
+  - translation_iso: zho
+    name: Kwadi語
 rolv_dialects:
   - rolv_code: 12597
     language_tag: kwz-x-HIS12597

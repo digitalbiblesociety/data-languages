@@ -1,7 +1,6 @@
 ---
 iso: yok
 name: Yokuts
-name_zh: 约库特语
 autonym: Mariposa
 alt_names: [Wikchamni, Wikchamni (Yokuts), Yaudanchi, Yaudanchi Yokuts, Yawelmani, Yawelmani Yokuts, Yokuts (Valley), Yokuts (Wikchamni), Yokuts (Yaudanchi), Yokuts (Yawelmani), Yokutsan]
 population: 2500
@@ -15,6 +14,13 @@ glottolog_family_id: yoku1255
 glottolog_family_name: Yokutsan
 glottolog_classification: "Yokutsan > General Yokuts > Nim Yokuts > Northern Yokuts"
 wikipedia_url: "https://en.wikipedia.org/wiki/Yokuts_language"
+translations:
+  - translation_iso: jpn
+    name: ヨクツ語族
+  - translation_iso: kor
+    name: 요쿠츠어
+  - translation_iso: zho
+    name: 约库特语
 rolv_dialects:
   - rolv_code: 18595
     language_tag: yok-x-HIS18595

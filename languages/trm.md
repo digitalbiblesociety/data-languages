@@ -1,7 +1,6 @@
 ---
 iso: trm
 name: Tregami
-name_zh: 特雷加米语
 autonym: Katar Gambir
 alt_names: [Gambiri, Gambirí, Gambīrī, Język tregami, Lingua tregamí, Tregāmī, Trigami, Трегами, ภาษาเตรกามี]
 population: 1000
@@ -15,5 +14,12 @@ glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Iranian-Nuristani > Nuristani > Ashkun-Kate-Waigali > Nuristani Kalasha-Tregami > Tregami"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tregami_language"
+translations:
+  - translation_iso: hin
+    name: त्रेगामी भाषा
+  - translation_iso: jpn
+    name: トレガミ語
+  - translation_iso: zho
+    name: 特雷加米语
 ---
 Tregami is a Nuristani language spoken in the villages of Gambir, Kaṭâr, and Devoz in the Tregâm Valley off the lower Pech River in the Watapur District of Kunar Province in Afghanistan. The area is in the Hindu Kush along the border with Pakistan. Tregami belongs to the Nuristani group of the Indo-Iranian language family. It is spoken by approximately 3,500 people (2011). Most individuals speak Pashto in addition to Tregami.

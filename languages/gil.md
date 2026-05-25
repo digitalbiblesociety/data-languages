@@ -1,7 +1,6 @@
 ---
 iso: gil
 name: Gilbertese
-name_zh: 吉里巴斯語
 autonym: Kiribati
 alt_names: [Bahasa Kiribati, Fidji-Inseln, Gilbert-Inseln, Gilbertesische Sprache, Gilbertin, Gilbertski jezik, Gilbertès, Gilbertês, I-Kiribati, Idioma gilbertés, Ikiribati, Język kiribati, Kiribateg, Kiribatese, Kiribati simi, Kiribatiešu valoda, Kiribatin kieli, Kiribatisch, Kiribatisk, Kiribatiska, Lengua gilberteise, Lingua gilbertina, Кирибати, Кирибатски език, गिल्बर्टीज भाषा, キリバス語, 키리바시어]
 population: 118620
@@ -16,6 +15,17 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Micronesian > Central Micronesian > Gilbertese"
 wikipedia_url: "https://en.wikipedia.org/wiki/Gilbertese_language"
+translations:
+  - translation_iso: ara
+    name: الكيريباتية
+  - translation_iso: hin
+    name: गिल्बरतीस
+  - translation_iso: jpn
+    name: キリバス語
+  - translation_iso: kor
+    name: 키리바시어
+  - translation_iso: zho
+    name: 吉里巴斯語
 rolv_dialects:
   - rolv_code: 5111
     language_tag: gil-x-HIS05111

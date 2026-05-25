@@ -1,8 +1,6 @@
 ---
 iso: mmg
 name: North Ambrym
-name_zh: 北安布里姆语
-name_zh_auto: true
 autonym: null
 alt_names: [Ambrym, "Ambrym, North", North, Vanuatu]
 population: 5250
@@ -16,6 +14,12 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > North and Central Vanuatu > Central Vanuatu > Ambrym > North Ambrym"
 wikipedia_url: "https://en.wikipedia.org/wiki/North_Ambrym_language"
+translations:
+  - translation_iso: jpn
+    name: 北アンブリム語
+  - translation_iso: zho
+    name: 北安布里姆语
+    auto: true
 rolv_dialects:
   - rolv_code: 6947
     language_tag: mmg-x-HIS06947

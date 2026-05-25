@@ -1,8 +1,6 @@
 ---
 iso: mtf
 name: Murik (Papua New Guinea)
-name_zh: 巴布亚新几内亚穆里克语
-name_zh_auto: true
 autonym: Nor
 alt_names: [Murik, "Murik, Nor", Múrico, Nor-Murik Lakes]
 population: 1000
@@ -16,5 +14,9 @@ glottolog_family_id: lowe1423
 glottolog_family_name: Lower Sepik
 glottolog_classification: "Lower Sepik > Nor > Murik (Papua New Guinea)"
 wikipedia_url: "https://en.wikipedia.org/wiki/Nor_language"
+translations:
+  - translation_iso: zho
+    name: 巴布亚新几内亚穆里克语
+    auto: true
 ---
 Murik, or Nor, is a Lower Sepik language spoken in Papua New Guinea. It is spoken in Murik ward of Marienberg Rural LLG, East Sepik Province, which is located around a large coastal lagoon.

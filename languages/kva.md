@@ -1,8 +1,6 @@
 ---
 iso: kva
 name: Bagvalal
-name_zh: 巴格瓦拉尔语
-name_zh_auto: true
 autonym: Bagulal
 alt_names: [Bagval, Bagvalaleg, Bagvalin, Bagvalin kieli, Bagwalal, Barbalin, Język bagulalski, Kvanada, Kvanadin, Багвалинська мова, багвалинский язык, багулальский язык, кванадинский язык, ბაგვალალური ენა]
 population: 6500
@@ -16,6 +14,14 @@ glottolog_family_id: nakh1245
 glottolog_family_name: Nakh-Daghestanian
 glottolog_classification: "Nakh-Daghestanian > Daghestanian > Avar-Andic-Tsezic > Andic > Bagvalal-Tindi > Bagvalal"
 wikipedia_url: "https://en.wikipedia.org/wiki/Bagvalal_language"
+translations:
+  - translation_iso: jpn
+    name: バグバリ語
+  - translation_iso: kor
+    name: 바그발랄어
+  - translation_iso: zho
+    name: 巴格瓦拉尔语
+    auto: true
 rolv_dialects:
   - rolv_code: 7524
     language_tag: kva-x-HIS07524

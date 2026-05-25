@@ -1,7 +1,6 @@
 ---
 iso: blo
 name: Anii
-name_zh: 阿尼语
 autonym: Basila
 alt_names: ["\"Ouinji-Ouinji\"", "\"Winji-Winji\"", Akpe, Baseca, Bassila, Gisida, Ouinji-Ouinji, Winji-Winji]
 population: 48900
@@ -16,6 +15,17 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Kwa Volta-Congo > Na-Togo > Basila-Adele > Anii"
 wikipedia_url: "https://en.wikipedia.org/wiki/Anii_language"
+translations:
+  - translation_iso: ara
+    name: الآنية
+  - translation_iso: hin
+    name: अनी
+  - translation_iso: jpn
+    name: アニ語 (ベナン)
+  - translation_iso: kor
+    name: 아니이어
+  - translation_iso: zho
+    name: 阿尼语
 rolv_dialects:
   - rolv_code: 2748
     language_tag: blo-x-HIS02748

@@ -1,8 +1,6 @@
 ---
 iso: zbu
 name: Bu (Bauchi State)
-name_zh: 布语(包奇州)
-name_zh_auto: true
 alt_names: [Buu, Buu (Nigeria), Zaranda, Zarandaa]
 population: 8000
 country_id: NG
@@ -14,6 +12,10 @@ glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > West Chadic > West Chadic B > West Chadic B.3 > South Bauchi West > Northwest South Bauchi > Gejic > Bu (Zaranda)"
 wikipedia_url: "https://en.wikipedia.org/wiki/Bu_language_(Bauchi_State)"
+translations:
+  - translation_iso: zho
+    name: 布语(包奇州)
+    auto: true
 rolv_dialects:
   - rolv_code: 4989
     language_tag: zbu-x-HIS04989

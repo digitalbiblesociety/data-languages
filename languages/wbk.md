@@ -1,7 +1,6 @@
 ---
 iso: wbk
 name: Waigali
-name_zh: 卡拉沙阿拉语
 autonym: "Kalaṣa-alâ"
 alt_names: [Język kalasza-ala, Kalasa-alā, Kalasha-ala, Vaigalí, Wai-alā, Waigalī, Waigeli, Waygalī, Вайгали, ภาษากาลาซาอลา]
 population: 1500
@@ -15,6 +14,11 @@ glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Iranian-Nuristani > Nuristani > Ashkun-Kate-Waigali > Nuristani Kalasha-Tregami > Nuristani Kalasha"
 wikipedia_url: "https://en.wikipedia.org/wiki/Nuristani_Kalasha_language"
+translations:
+  - translation_iso: jpn
+    name: ワイガリ語
+  - translation_iso: zho
+    name: 卡拉沙阿拉语
 rolv_dialects:
   - rolv_code: 3335
     language_tag: wbk-x-HIS03335

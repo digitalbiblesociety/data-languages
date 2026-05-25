@@ -1,7 +1,6 @@
 ---
 iso: ccp
 name: Chakma
-name_zh: 查克瑪語
 autonym: " Daingnet"
 alt_names: [Chakama, Changma kodha, Takam, Tsakma, চাকমা ভাষা]
 population: 378000
@@ -16,6 +15,17 @@ glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Indo-Aryan > Middle-Modern Indo-Aryan > Continental Indo-Aryan > Indo-Aryan Eastern zone > Oriya-Gauda-Kamrupa > Gauda-Kamrupa > Gauda-Banga > Southeastern Bengali > Chakma"
 wikipedia_url: "https://en.wikipedia.org/wiki/Chakma_language"
+translations:
+  - translation_iso: ara
+    name: لهجة تشاكما
+  - translation_iso: hin
+    name: चाकमा भाषा
+  - translation_iso: jpn
+    name: チャクマ語
+  - translation_iso: kor
+    name: 차크마어
+  - translation_iso: zho
+    name: 查克瑪語
 rolv_dialects:
   - rolv_code: 858
     language_tag: ccp-x-HIS00858

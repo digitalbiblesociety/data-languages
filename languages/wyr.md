@@ -1,8 +1,6 @@
 ---
 iso: wyr
 name: Wayoró
-name_zh: 瓦约罗语
-name_zh_auto: true
 autonym: Ajurú
 alt_names: [Ajuru, Ayuru, Ayurú, Huayoró, Uaiora, Uaioró, Wajaru, Wayoro, Wayru, Wayurú]
 population: null
@@ -16,5 +14,9 @@ glottolog_family_id: tupi1275
 glottolog_family_name: Tupian
 glottolog_classification: "Tupian > Arikem-Tupari > Tuparic > Nuclear Tuparic > Wayoro-Tupari > Wayoró"
 wikipedia_url: "https://en.wikipedia.org/wiki/Wayor%C3%B3_language"
+translations:
+  - translation_iso: zho
+    name: 瓦约罗语
+    auto: true
 ---
 Wayoró is a moribund Tuparian language, which is spoken in the state of Rondônia, in the Amazon region of Brazil. As of 2019, there were reported to be 3 speakers and 11 semispeakers out of the ethnic population of approximately 250.

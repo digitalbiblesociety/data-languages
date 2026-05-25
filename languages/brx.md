@@ -1,7 +1,6 @@
 ---
 iso: brx
 name: Bodo (India)
-name_zh: 博多语
 autonym: Boro language
 alt_names: [Bara, Bodi, Bodo, Bodo jezik, Bodo language, Bodoa lingvo, Bodoeg, Bodon kieli, Boro, Boroni, Idioma bodo, Język bodo, Kachari, Lingua Bodo, Língua bodo, Mech, Meche, Mechi, Meci, Бодо, Бодо језик, बोडो भाषा, বড়ো ভাষা, বোড়ো ভাষা, બોડો ભાષા, போடோ மொழி, ബോഡോ, ภาษาโบโด, ボド語, 博多语, 보도어]
 population: 1474380
@@ -16,6 +15,17 @@ glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Brahmaputran > Bodo-Garo > Boroic > Tiwa-Boro > Bodo-Mech-Kachari > Bodo-Mech"
 wikipedia_url: "https://en.wikipedia.org/wiki/Boro_language_(India)"
+translations:
+  - translation_iso: ara
+    name: البودووية
+  - translation_iso: hin
+    name: बोडो भाषा
+  - translation_iso: jpn
+    name: ボド語
+  - translation_iso: kor
+    name: 보도어
+  - translation_iso: zho
+    name: 博多语
 rolv_dialects:
   - rolv_code: 3838
     language_tag: brx-x-HIS03838

@@ -1,7 +1,6 @@
 ---
 iso: knn
 name: Konkani
-name_zh: 马哈施特拉孔卡尼语
 autonym: महाराष्ट्रीय कोंकणी महाराष्ट्रीय कोकणी
 alt_names: [Bankoti, Central Konkan, Concorinum, Cugani, Konkan Standard, Konkanese, Konkani (individual language), Kunabi, Maharashtrian Konkani, North Konkan]
 population: 2190000
@@ -16,6 +15,11 @@ glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Indo-Aryan > Middle-Modern Indo-Aryan > Continental Indo-Aryan > Indo-Aryan Southern zone > Marathic > Marathi-Konkani > Old-Modern Marathi > Modern Marathi > Western Marathi > Konkan Marathi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Maharashtri_Konkani"
+translations:
+  - translation_iso: jpn
+    name: マハーラーシュトリアン・コンカニ語
+  - translation_iso: zho
+    name: 马哈施特拉孔卡尼语
 rolv_dialects:
   - rolv_code: 3910
     language_tag: knn-x-HIS03910

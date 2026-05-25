@@ -1,8 +1,6 @@
 ---
 iso: ikx
 name: Ik
-name_zh: 伊克语
-name_zh_auto: true
 autonym: "Icé-tód"
 alt_names: [Icietot, "Ik (delete in favor of So (=Tepes)?)", Ngulak, Teuso, Teuth]
 population: 10000
@@ -16,5 +14,11 @@ glottolog_family_id: kuli1252
 glottolog_family_name: Kuliak
 glottolog_classification: "Kuliak > Ik"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ik_language"
+translations:
+  - translation_iso: jpn
+    name: イク語
+  - translation_iso: zho
+    name: 伊克语
+    auto: true
 ---
 Ik is one of the Kuliak languages of northeastern Uganda. The Kuliak languages form their own branch of the proposed Nilo-Saharan language family. With the other two Kuliak languages being moribund, Ik may soon be the sole remaining language of its family.

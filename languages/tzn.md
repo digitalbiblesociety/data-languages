@@ -1,8 +1,6 @@
 ---
 iso: tzn
 name: Tugun
-name_zh: 图贡语
-name_zh_auto: true
 autonym: Wetar
 alt_names: [Mahuan, Tutunohan]
 population: 1200
@@ -15,6 +13,10 @@ glottocode: tugu1245
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Timor-Babar > Wetar-Atauro > Wetar > Perai-Tugun-Aputai > Tugun"
+translations:
+  - translation_iso: zho
+    name: 图贡语
+    auto: true
 rolv_dialects:
   - rolv_code: 17724
     language_tag: tzn-x-HIS17724

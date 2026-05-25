@@ -1,7 +1,6 @@
 ---
 iso: aij
 name: Lishanid Noshan
-name_zh: 埃尔比勒犹太新阿拉姆语
 autonym: לשנא דידן
 alt_names: [Aramaic, Aramaic (Arbel Jewish), Arbel Jewish Aramaic, Arbili Neo Aramaic, Galigalu, "Hula'ula", Hulani, Inter-Zab Jewish Neo-Aramaic, Jbeli, Kurdit, Lishana Didán, Lishanid noshan (Iraq), Lishanid noshan (Israël), Lisánido nosán (Israel), Lişanid Noşan, Neo-Aramaic (Arbel Jewish), Neo-Aramaic (Arbel), ภาษาลิซานิด โนซาน]
 population: 2250
@@ -15,6 +14,11 @@ glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Semitic > West Semitic > Central Semitic > Northwest Semitic > Aramaic > Imperial-Middle-Modern Aramaic > Middle-Modern Aramaic > Eastern Aramaic > Central Eastern Aramaic > North-Eastern Neo-Aramaic > Trans-Zab > Western Trans-Zab > Lishanid Noshan"
 wikipedia_url: "https://en.wikipedia.org/wiki/Inter-Zab_Jewish_Neo-Aramaic"
+translations:
+  - translation_iso: jpn
+    name: ノシャン語
+  - translation_iso: zho
+    name: 埃尔比勒犹太新阿拉姆语
 rolv_dialects:
   - rolv_code: 12998
     language_tag: aij-x-HIS12998

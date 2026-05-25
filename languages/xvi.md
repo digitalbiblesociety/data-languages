@@ -1,7 +1,6 @@
 ---
 iso: xvi
 name: Kamviri
-name_zh: 卡姆维里方言
 autonym: کامويري
 population: 4000
 country_id: AF
@@ -10,6 +9,11 @@ status_id: 6a
 latitude: 30
 longitude: 70
 wikipedia_url: "https://en.wikipedia.org/wiki/Kamviri_dialect"
+translations:
+  - translation_iso: jpn
+    name: カンヴィリ方言
+  - translation_iso: zho
+    name: 卡姆维里方言
 rolv_dialects:
   - rolv_code: 3319
     language_tag: xvi-x-HIS03319

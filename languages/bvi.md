@@ -1,8 +1,6 @@
 ---
 iso: bvi
 name: Belanda Viri
-name_zh: 贝兰达维里语
-name_zh_auto: true
 autonym: Bviri
 alt_names: [Belanda, Biri, Gamba, Gumba, Mbegumba, Mvegumba, Viri]
 population: 16000
@@ -16,5 +14,9 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Cameroun-Ubangian > Ubangi > Ubangi Ka > Sereic > Sere-Indri > Ndogoic > Bai-Viri > Belanda Viri"
 wikipedia_url: "https://en.wikipedia.org/wiki/Belanda_Viri_language"
+translations:
+  - translation_iso: zho
+    name: 贝兰达维里语
+    auto: true
 ---
 Belanda Viri is a Ubangian language of South Sudan.

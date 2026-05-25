@@ -1,7 +1,6 @@
 ---
 iso: mjw
 name: Karbi
-name_zh: 卡尔比语
 autonym: Arleng
 alt_names: ["\"Mikir\"", "\"Mikiri\"", Arleng Alam, Karbi Karbak, Manchati, Mikir, Miquirés, Naga-Mikir, Nihang, Puta]
 population: 529000
@@ -15,6 +14,15 @@ glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Kuki-Chin-Naga > Karbic > Hills Karbi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Karbi_language"
+translations:
+  - translation_iso: hin
+    name: कार्बी भाषा
+  - translation_iso: jpn
+    name: カルビ語
+  - translation_iso: kor
+    name: 카르비어
+  - translation_iso: zho
+    name: 卡尔比语
 rolv_dialects:
   - rolv_code: 6172
     language_tag: mjw-x-HIS06172

@@ -1,8 +1,6 @@
 ---
 iso: ifk
 name: Tuwali Ifugao
-name_zh: 图瓦利伊富高语
-name_zh_auto: true
 autonym: Gilipanes
 alt_names: ["Ifugao, Tuwali", Ifugu, Kiangan Ifugao, Quiangan, Tuwali]
 population: 30000
@@ -16,6 +14,10 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Northern Luzon > Meso-Cordilleran > South-Central Cordilleran > Central Cordilleran > Nuclear Cordilleran > Ifugaw > Tuwali Ifugao"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tuwali_language"
+translations:
+  - translation_iso: zho
+    name: 图瓦利伊富高语
+    auto: true
 rolv_dialects:
   - rolv_code: 10801
     language_tag: ifk-x-HIS10801

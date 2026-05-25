@@ -1,7 +1,6 @@
 ---
 iso: bvb
 name: Bube
-name_zh: 布比語
 autonym: Adeeyah
 alt_names: [Adija, Bobe, Boobe, Boombe, Bubi, Ediya, Fernandian, Idioma bubi, Język bubi]
 population: 61000
@@ -16,6 +15,11 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > Mbam-Bubi > Bube"
 wikipedia_url: "https://en.wikipedia.org/wiki/Bube_language"
+translations:
+  - translation_iso: jpn
+    name: ブビ語
+  - translation_iso: zho
+    name: 布比語
 rolv_dialects:
   - rolv_code: 8398
     language_tag: bvb-x-HIS08398

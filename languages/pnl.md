@@ -1,8 +1,6 @@
 ---
 iso: pnl
 name: Paleni
-name_zh: 帕莱尼语
-name_zh_auto: true
 autonym: Wara
 population: 260
 country_id: BF
@@ -15,5 +13,9 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Gur > Samu > Palen"
 wikipedia_url: "https://en.wikipedia.org/wiki/Paleni_language"
+translations:
+  - translation_iso: zho
+    name: 帕莱尼语
+    auto: true
 ---
 Paleni (Paléni), also known as Wara, is a minor Niger–Congo language spoken in the village of Faniagara in Burkina Faso.

@@ -1,8 +1,6 @@
 ---
 iso: sge
 name: Segai
-name_zh: 塞盖语
-name_zh_auto: true
 autonym: Punan Kelai
 alt_names: [Indonesia]
 population: 2000
@@ -16,6 +14,10 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > North Borneo Malayo-Polynesian > Kayan-Murik-Modang > Modang-Segai > Segai"
 wikipedia_url: "https://en.wikipedia.org/wiki/Segai_language"
+translations:
+  - translation_iso: zho
+    name: 塞盖语
+    auto: true
 rolv_dialects:
   - rolv_code: 809
     language_tag: sge-x-HIS00809

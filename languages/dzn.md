@@ -1,8 +1,6 @@
 ---
 iso: dzn
 name: Dzando
-name_zh: 扎恩多语
-name_zh_auto: true
 autonym: null
 population: 6000
 country_id: CD
@@ -15,6 +13,10 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > Central-Western Bantu > North Zaire River > Rivers Bantu > Ngiri > Ngiri Terrien > Bamweic > Dzando"
 wikipedia_url: "https://en.wikipedia.org/wiki/Dzando_language"
+translations:
+  - translation_iso: zho
+    name: 扎恩多语
+    auto: true
 rolv_dialects:
   - rolv_code: 9498
     language_tag: dzn-x-HIS09498

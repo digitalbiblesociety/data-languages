@@ -1,7 +1,6 @@
 ---
 iso: ksf
 name: Bafia
-name_zh: 巴菲亚语
 autonym: Bafia
 alt_names: [Bekpak, Rikpa, "Rikpa'", Ripey]
 population: 60000
@@ -16,6 +15,17 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > Bantu A-B10-B20-B30 > Bafia (A.50) > Nuclear Bafia (A.50) > Lefa-Bafia > Bafia"
 wikipedia_url: "https://en.wikipedia.org/wiki/Bafia_language"
+translations:
+  - translation_iso: ara
+    name: لغة البافيا
+  - translation_iso: hin
+    name: बफिआ
+  - translation_iso: jpn
+    name: バフィア語
+  - translation_iso: kor
+    name: 바피아어
+  - translation_iso: zho
+    name: 巴菲亚语
 rolv_dialects:
   - rolv_code: 7502
     language_tag: ksf-x-HIS07502

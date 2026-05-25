@@ -1,8 +1,6 @@
 ---
 iso: kzf
 name: "Da'a Kaili"
-name_zh: 达亚凯利语
-name_zh_auto: true
 autonym: "Kaili, Da'a"
 alt_names: [Bunggu, "Da'a", Kaili]
 population: 3000
@@ -15,6 +13,10 @@ glottocode: daak1235
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Celebic > Kaili-Wolio > Northern Kaili-Wolio > Greater Kaili > Common Kaili > Da'a Kaili"
+translations:
+  - translation_iso: zho
+    name: 达亚凯利语
+    auto: true
 rolv_dialects:
   - rolv_code: 11324
     language_tag: kzf-x-HIS11324

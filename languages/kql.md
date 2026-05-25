@@ -1,8 +1,6 @@
 ---
 iso: kql
 name: Kyenele
-name_zh: 克耶内勒语
-name_zh_auto: true
 autonym: Miyak
 alt_names: [Bulang, Kenen Birang, Kenying, Kenying Bulang, Keyele, Keñele, Kyenying-Barang]
 population: 1250
@@ -16,5 +14,9 @@ glottolog_family_id: yuat1252
 glottolog_family_name: Yuat
 glottolog_classification: "Yuat > Miyak-Bun-Biwat > Kyenele"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kyenele_language"
+translations:
+  - translation_iso: zho
+    name: 克耶内勒语
+    auto: true
 ---
 Kyenele a.k.a. Miyak is a Yuat language of Papua New Guinea.

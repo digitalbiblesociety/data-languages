@@ -1,8 +1,6 @@
 ---
 iso: aug
 name: Aguna
-name_zh: 阿古纳语
-name_zh_auto: true
 autonym: Awuna
 alt_names: [Agunaco]
 population: 3470
@@ -16,5 +14,9 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Kwa Volta-Congo > Gbe > Western Gbe > Eweic > Aguna"
 wikipedia_url: "https://en.wikipedia.org/wiki/Aguna_language"
+translations:
+  - translation_iso: zho
+    name: 阿古纳语
+    auto: true
 ---
 Aguna, or Awuna, is a Gbe language of Benin and Togo. In Benin it is spoken in the villages of Agouna, Koutagba, Gangan, Sankpiti, Djégékpodji and other surrounding areas in the Agouna arrondissement and in the villages of; Tchie, Kokoroko, Aklienme, Vevi and Outo (Hounto) in the Outo arrondissement, both in the Djidja commune of the Zou Department.

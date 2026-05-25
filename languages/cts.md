@@ -1,8 +1,6 @@
 ---
 iso: cts
 name: Northern Catanduanes Bikol
-name_zh: 北卡坦杜亚内斯比科尔语
-name_zh_auto: true
 autonym: Northern Catanduanes Bicolano
 alt_names: ["Bicolano, Northern Catanduanes", Bikol, "Bikol, Northern Catanduanes", Pandan]
 population: 77500
@@ -16,5 +14,11 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Greater Central Philippine > Central Philippine > Bikol > Northern Catanduanes Bicolano"
 wikipedia_url: "https://en.wikipedia.org/wiki/Pandan_Bikol_language"
+translations:
+  - translation_iso: jpn
+    name: 北カタンドゥアネス・ビコール語
+  - translation_iso: zho
+    name: 北卡坦杜亚内斯比科尔语
+    auto: true
 ---
 Pandan Bikol, or Northern Catanduanes Bicolano, is one of the three groups of the Bikol languages. It is spoken in Pandan and northeastern portion of Catanduanes.

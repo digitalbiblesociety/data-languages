@@ -1,8 +1,6 @@
 ---
 iso: nzz
 name: Nanga Dama Dogon
-name_zh: 南加达玛多贡语
-name_zh_auto: true
 autonym: Naŋa tegu
 alt_names: ["Dogon, Nanga Dama", Nanga, Nanga Dogon]
 population: 3000
@@ -16,5 +14,9 @@ glottolog_family_id: dogo1299
 glottolog_family_name: Dogon
 glottolog_classification: "Dogon > Nangan Dogon > Nanga"
 wikipedia_url: "https://en.wikipedia.org/wiki/Nanga_Dogon"
+translations:
+  - translation_iso: zho
+    name: 南加达玛多贡语
+    auto: true
 ---
 Naŋa dama, also known as Naŋa tegu, is a Dogon language spoken in Mali that is only known from one report from 1953. Roger Blench reports that its nearest relative is the recently described Walo–Kumbe Dogon, "with which it shares both lexicon and the feature that many nouns have a final -m." Hochstetler thinks they may be the same language. It may be close to Yanda Dogon (Blench) or Jamsai tegu (Hochstetler).

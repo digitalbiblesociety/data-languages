@@ -1,8 +1,6 @@
 ---
 iso: koa
 name: Konomala
-name_zh: 科诺马拉语
-name_zh_auto: true
 autonym: null
 population: 800
 country_id: PG
@@ -15,6 +13,12 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > Meso Melanesian linkage > New Ireland-Northwest Solomonic linkage > St George linkage > Konomala"
 wikipedia_url: "https://en.wikipedia.org/wiki/Konomala_language"
+translations:
+  - translation_iso: jpn
+    name: コノマラ語
+  - translation_iso: zho
+    name: 科诺马拉语
+    auto: true
 rolv_dialects:
   - rolv_code: 12251
     language_tag: koa-x-HIS12251

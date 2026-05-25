@@ -1,7 +1,6 @@
 ---
 iso: oac
 name: Oroch
-name_zh: 奥罗奇语
 autonym: Orochi
 alt_names: [Orotche, Orotsjisk, Orotšin kieli, Oroć, Sprache der Oročonen, орочский язык, オロチ語]
 population: 260
@@ -15,6 +14,13 @@ glottolog_family_id: tung1282
 glottolog_family_name: Tungusic
 glottolog_classification: "Tungusic > Northeastern Tungusic > Central-Eastern Tungusic > Oroch-Udihe > Oroch"
 wikipedia_url: "https://en.wikipedia.org/wiki/Oroch_language"
+translations:
+  - translation_iso: jpn
+    name: オロチ語
+  - translation_iso: kor
+    name: 오로치어
+  - translation_iso: zho
+    name: 奥罗奇语
 rolv_dialects:
   - rolv_code: 15333
     language_tag: oac-x-HIS15333

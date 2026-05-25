@@ -1,7 +1,6 @@
 ---
 iso: phg
 name: Phuong
-name_zh: 方语
 autonym: High Katu
 alt_names: [Huu River Vân Kiêu, Phuang, Phuong Catang]
 population: 15100
@@ -15,5 +14,8 @@ glottolog_family_id: aust1305
 glottolog_family_name: Austroasiatic
 glottolog_classification: "Austroasiatic > Katuic > Katu > Phuong"
 wikipedia_url: "https://en.wikipedia.org/wiki/Phuong_language"
+translations:
+  - translation_iso: zho
+    name: 方语
 ---
 Phuong, or High Katu, is a Katuic language (Mon-Khmer) of Vietnam.

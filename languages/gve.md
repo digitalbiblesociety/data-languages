@@ -1,8 +1,6 @@
 ---
 iso: gve
 name: Duwet
-name_zh: 杜韦特语
-name_zh_auto: true
 autonym: " Waing"
 alt_names: [Guwet, Guwot]
 population: 400
@@ -16,5 +14,9 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > North New Guinea linkage > Huon Gulf > Markham > Lower Markham > Busu > Duwet"
 wikipedia_url: "https://en.wikipedia.org/wiki/Duwet_language"
+translations:
+  - translation_iso: zho
+    name: 杜韦特语
+    auto: true
 ---
 Duwet, also known as Guwot or Waing, is an aberrant member of the Busu subgroup of Lower Markham languages in Morobe Province, Papua New Guinea. Duwet is spoken by about 400 people and appears to have been heavily influenced by its neighboring Nabak language of the Papuan Trans–New Guinea languages. It is spoken in the three villages of Lambaip, Lawasumbileng, and Ninggiet.

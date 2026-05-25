@@ -1,8 +1,6 @@
 ---
 iso: apu
 name: Apurinã
-name_zh: 阿普里纳语
-name_zh_auto: true
 autonym: Ipurina
 alt_names: [Apurina, Apuriná, Cacharary, Cangaiti, Ipuriná, Ipurinãn, Kangite, Popengare]
 population: 6990
@@ -16,5 +14,11 @@ glottolog_family_id: araw1281
 glottolog_family_name: Arawakan
 glottolog_classification: "Arawakan > Southern Maipuran > Purus-Chamicuro > Purus > Apurinã"
 wikipedia_url: "https://en.wikipedia.org/wiki/Apurin%C3%A3_language"
+translations:
+  - translation_iso: jpn
+    name: アプリニャ語
+  - translation_iso: zho
+    name: 阿普里纳语
+    auto: true
 ---
 Apurinã, or Ipurina, is a Southern Maipurean language spoken by the Apurinã people of the Amazon basin. It has an active–stative syntax.

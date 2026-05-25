@@ -1,8 +1,6 @@
 ---
 iso: xtw
 name: Tawandê
-name_zh: 塔万德语
-name_zh_auto: true
 autonym: Northern Nambikwara
 alt_names: [Kithāulhú, Mamaindê, Mamande, Nakarothe, Northern Nambikuaran, Northern Nambiquara, Tawande, Tawandé, Tawanxte, Taxmainite, Taxwensite]
 population: null
@@ -15,4 +13,8 @@ glottocode: tawa1278
 glottolog_family_id: namb1299
 glottolog_family_name: Nambiquaran
 glottolog_classification: "Nambiquaran > Nambikwara Complex > Northern Nambiquaran > Roosevelt > Tawandê"
+translations:
+  - translation_iso: zho
+    name: 塔万德语
+    auto: true
 ---

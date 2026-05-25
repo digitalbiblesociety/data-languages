@@ -1,8 +1,6 @@
 ---
 iso: bxf
 name: Bilur
-name_zh: 比卢尔语
-name_zh_auto: true
 autonym: Minigir
 alt_names: [Birar]
 population: 2300
@@ -16,5 +14,9 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > Meso Melanesian linkage > New Ireland-Northwest Solomonic linkage > St George linkage > Label-Bilur > Bilur"
 wikipedia_url: "https://en.wikipedia.org/wiki/Bilur_language"
+translations:
+  - translation_iso: zho
+    name: 比卢尔语
+    auto: true
 ---
 Bilur, also ambiguously known as Minigir, is an Oceanic language of the Papua New Guinea. It is not closely related to other languages, and its classification is uncertain.

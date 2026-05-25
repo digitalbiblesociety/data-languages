@@ -1,8 +1,6 @@
 ---
 iso: taw
 name: Tai
-name_zh: 泰语
-name_zh_auto: true
 autonym: Ti
 alt_names: [Tay]
 population: 1000
@@ -16,5 +14,9 @@ glottolog_family_id: nucl1709
 glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Madang > Kalamic-South Adelbert > Kalam-Kobon > Etp-Ti Kalam > Tai"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tai_language_(New_Guinea)"
+translations:
+  - translation_iso: zho
+    name: 泰语
+    auto: true
 ---
 Tai is a Kalam language of Papua New Guinea, spoken in a single village.

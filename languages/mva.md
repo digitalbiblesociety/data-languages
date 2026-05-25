@@ -1,8 +1,6 @@
 ---
 iso: mva
 name: Manam
-name_zh: 玛南语
-name_zh_auto: true
 autonym: null
 alt_names: [Manum]
 population: 7950
@@ -16,6 +14,12 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > North New Guinea linkage > Schouten linkage > Kairiru-Manam > Manamic linkage > Bam-Manam > Manam-Sepa > Manam"
 wikipedia_url: "https://en.wikipedia.org/wiki/Manam_language"
+translations:
+  - translation_iso: jpn
+    name: マナム語
+  - translation_iso: zho
+    name: 玛南语
+    auto: true
 rolv_dialects:
   - rolv_code: 13573
     language_tag: mva-x-HIS13573

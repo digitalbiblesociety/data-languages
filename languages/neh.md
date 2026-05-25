@@ -1,8 +1,6 @@
 ---
 iso: neh
 name: Nyenkha
-name_zh: 尼扬卡语
-name_zh_auto: true
 autonym: Henkha
 alt_names: [Lap, Mangsdekha, Ngenkha, Nyg Ked, Nyn Kha]
 population: 10000
@@ -16,6 +14,12 @@ glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Bodic > Bodish > Phobjib-Chali-Bumthangic > Upper Mangdep"
 wikipedia_url: "https://en.wikipedia.org/wiki/Nyen_language"
+translations:
+  - translation_iso: jpn
+    name: ニェン語
+  - translation_iso: zho
+    name: 尼扬卡语
+    auto: true
 rolv_dialects:
   - rolv_code: 15187
     language_tag: neh-x-HIS15187

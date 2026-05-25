@@ -1,8 +1,6 @@
 ---
 iso: gdc
 name: Gugu Badhun
-name_zh: 古古巴顿语
-name_zh_auto: true
 autonym: Northern Maric
 alt_names: [Gugu-Badhun, Koko Padun, Koko Patun, Koko-Patun, Kokopatun, Patun]
 population: null
@@ -15,4 +13,8 @@ glottocode: gugu1253
 glottolog_family_id: pama1250
 glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > Greater Maric > Guwa-Maric > Maric > Northern Maric > Warungu-Gugu Badhun > Gugu Badhun"
+translations:
+  - translation_iso: zho
+    name: 古古巴顿语
+    auto: true
 ---

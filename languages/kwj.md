@@ -1,8 +1,6 @@
 ---
 iso: kwj
 name: Kwanga
-name_zh: 克旺加语
-name_zh_auto: true
 autonym: null
 alt_names: [Gawanga, Język kwanga, Kawanga, Mende, Nihamber, Nihamber Sambu, Sambu, Seim, Womsak]
 population: 10000
@@ -16,6 +14,10 @@ glottolog_family_id: sepi1257
 glottolog_family_name: Sepik
 glottolog_classification: "Sepik > Nukuma > Kwanga-Mende > Kwanga"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kwanga_language"
+translations:
+  - translation_iso: zho
+    name: 克旺加语
+    auto: true
 rolv_dialects:
   - rolv_code: 1168
     language_tag: kwj-x-HIS01168

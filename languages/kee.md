@@ -1,8 +1,6 @@
 ---
 iso: kee
 name: Eastern Keres
-name_zh: 东克雷斯语
-name_zh_auto: true
 autonym: Eastern Keres Pueblo
 alt_names: [Eastern, Eastern Keresan, Keres, Keres (Eastern), Keres (Santa Ana Pueblo), "Keres, Eastern", Keresan, Keresan (Eastern), Keresan (Santa Ana), Rio Grande Keresan, Santa Ana, Santa Ana Keresan, Santa Ana Pueblo, d Eastern Keres Pueblo]
 population: 6880
@@ -15,6 +13,10 @@ glottocode: east1472
 glottolog_family_id: kere1287
 glottolog_family_name: Keresan
 glottolog_classification: "Keresan > Eastern Keres"
+translations:
+  - translation_iso: zho
+    name: 东克雷斯语
+    auto: true
 rolv_dialects:
   - rolv_code: 1076
     language_tag: kee-x-HIS01076

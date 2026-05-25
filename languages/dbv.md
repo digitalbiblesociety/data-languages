@@ -1,8 +1,6 @@
 ---
 iso: dbv
 name: Dungu
-name_zh: 邦根语
-name_zh_auto: true
 autonym: Dingi
 alt_names: [Dungi, Dunjawa, Dwingi]
 population: 1100
@@ -16,5 +14,11 @@ glottolog_family_id: unat1236
 glottolog_family_name: Unattested
 glottolog_classification: "Unattested > Atlantic-Congo (Unattested) > Dungu"
 wikipedia_url: "https://en.wikipedia.org/wiki/Dungu_language"
+translations:
+  - translation_iso: jpn
+    name: ドゥング語
+  - translation_iso: zho
+    name: 邦根语
+    auto: true
 ---
 Dungu is a Kainji language of Nigeria.

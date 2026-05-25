@@ -1,8 +1,6 @@
 ---
 iso: itv
 name: Itawit
-name_zh: 伊塔维特语
-name_zh_auto: true
 autonym: Itawes
 alt_names: [Itawis, Tawit]
 population: 253000
@@ -16,6 +14,10 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Northern Luzon > Cagayan Valley > Ibanagic > Gaddangic > Itawit"
 wikipedia_url: "https://en.wikipedia.org/wiki/Itawis_language"
+translations:
+  - translation_iso: zho
+    name: 伊塔维特语
+    auto: true
 rolv_dialects:
   - rolv_code: 232
     language_tag: itv-x-HIS00232

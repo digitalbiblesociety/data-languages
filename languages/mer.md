@@ -1,7 +1,6 @@
 ---
 iso: mer
 name: Meru
-name_zh: 梅鲁语
 autonym: Kimîîru
 alt_names: [Język meru, Kimeru]
 population: 1980000
@@ -16,6 +15,17 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > East Bantu > Northeast Savanna Bantu > Central Kenya Bantu > Eastern Kirinyaga > Northern Kirinyaga > Nithi-Meru > Meru"
 wikipedia_url: "https://en.wikipedia.org/wiki/Meru_language"
+translations:
+  - translation_iso: ara
+    name: الميرو
+  - translation_iso: hin
+    name: मेरु
+  - translation_iso: jpn
+    name: メル語
+  - translation_iso: kor
+    name: 메루어
+  - translation_iso: zho
+    name: 梅鲁语
 rolv_dialects:
   - rolv_code: 14026
     language_tag: mer-x-HIS14026

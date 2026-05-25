@@ -1,7 +1,6 @@
 ---
 iso: mjz
 name: Majhi
-name_zh: 摩傑语
 autonym: Manjhi
 population: 21800
 country_id: NP
@@ -14,6 +13,11 @@ glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Indo-Aryan > Middle-Modern Indo-Aryan > Continental Indo-Aryan > Midlands Indo-Aryan > Shaurasenic > Bihari > Tharuic > Unclassified Tharu > Majhi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Majhi_language"
+translations:
+  - translation_iso: ara
+    name: لغة ماجهي
+  - translation_iso: zho
+    name: 摩傑语
 rolv_dialects:
   - rolv_code: 27663
     language_tag: mjz-x-HIS27663

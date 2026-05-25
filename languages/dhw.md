@@ -1,8 +1,6 @@
 ---
 iso: dhw
 name: Dhanwar (Nepal)
-name_zh: 丹瓦尔语
-name_zh_auto: true
 autonym: Danuwar Rai
 alt_names: [Danuvār, Danuwar, Denwar, Dhanvar, Dhanwar]
 population: 45800
@@ -16,6 +14,14 @@ glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Indo-Aryan > Middle-Modern Indo-Aryan > Continental Indo-Aryan > Midlands Indo-Aryan > Shaurasenic > Bihari > Unclassified Bihari > Kuswaric > Kochariya-East Danuwar"
 wikipedia_url: "https://en.wikipedia.org/wiki/Danwar_language"
+translations:
+  - translation_iso: hin
+    name: दनुवार भाषा
+  - translation_iso: jpn
+    name: ダヌワール族
+  - translation_iso: zho
+    name: 丹瓦尔语
+    auto: true
 rolv_dialects:
   - rolv_code: 24785
     language_tag: dhw-x-HIS24785

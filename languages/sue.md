@@ -1,8 +1,6 @@
 ---
 iso: sue
 name: Suena
-name_zh: 苏埃纳语
-name_zh_auto: true
 autonym: null
 alt_names: [Yarawe, Yarawi, Yema, Yema-Yarawa]
 population: 3600
@@ -16,5 +14,9 @@ glottolog_family_id: nucl1709
 glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Greater Binanderean > Binanderean > North Binanderean > Suena"
 wikipedia_url: "https://en.wikipedia.org/wiki/Suena_language"
+translations:
+  - translation_iso: zho
+    name: 苏埃纳语
+    auto: true
 ---
 Suena is a Papuan language spoken in Morobe Province, in the "tail" of Papua New Guinea. It is part of the Binanderean family of the Trans–New Guinea phylum of languages.

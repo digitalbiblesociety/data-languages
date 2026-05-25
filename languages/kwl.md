@@ -1,8 +1,6 @@
 ---
 iso: kwl
 name: Kofyar
-name_zh: 科菲亚尔语
-name_zh_auto: true
 autonym: Pan
 alt_names: [Nigeria]
 population: 110000
@@ -16,6 +14,10 @@ glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > West Chadic > West Chadic A > West Chadic A.2-3 > West Chadic A.3 > Kofyar-Mushere-Chip > Kofyaric > Pan"
 wikipedia_url: "https://en.wikipedia.org/wiki/Pan_language"
+translations:
+  - translation_iso: zho
+    name: 科菲亚尔语
+    auto: true
 rolv_dialects:
   - rolv_code: 2458
     language_tag: kwl-x-HIS02458

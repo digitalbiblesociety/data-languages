@@ -1,8 +1,6 @@
 ---
 iso: pae
 name: Pagibete
-name_zh: 帕吉贝特语
-name_zh_auto: true
 autonym: Apagibete
 alt_names: [Apagibeti, Apakabeti, Apakibeti, Pagabete]
 population: 28000
@@ -16,6 +14,10 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > Central-Western Bantu > North Zaire River > Rivers Bantu > Ngiri > Ngiri Terrien > Ngombe-Ababuan > Ababuan > Old Bomokandian > Middle Bomokandian > Late Bomokandian > Pagabeteic > Pagibete"
 wikipedia_url: "https://en.wikipedia.org/wiki/Pagibete_language"
+translations:
+  - translation_iso: zho
+    name: 帕吉贝特语
+    auto: true
 rolv_dialects:
   - rolv_code: 15400
     language_tag: pae-x-HIS15400

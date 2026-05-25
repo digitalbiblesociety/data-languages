@@ -1,8 +1,6 @@
 ---
 iso: kly
 name: Kalao
-name_zh: 卡劳语
-name_zh_auto: true
 autonym: Kalaotoa
 alt_names: [Lambego]
 population: 500
@@ -16,5 +14,9 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Celebic > Kaili-Wolio > Southern Kaili-Wolio > Island Kaili-Wolio > Kalao-Laiyolo > Kalao"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kalao_language"
+translations:
+  - translation_iso: zho
+    name: 卡劳语
+    auto: true
 ---
 Kalao, or Kalaotoa, is an Austronesian language of Kalao Island, South Sulawesi, Indonesia. It belongs to the Wotu–Wolio branch of the Celebic subgroup.

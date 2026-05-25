@@ -1,7 +1,6 @@
 ---
 iso: pnt
 name: Pontic
-name_zh: 旁狄希臘語
 autonym: ποντιακά
 alt_names: [Bahasa Yunani Pontus, Grec pontique, Gresianeg Pontos, Język pontyjski, Lingua pontica, Pontic Greek, Ponties, Pontisch, Pontische Sprache, Pontisk grekiska, Pontisk gresk, Pontus lehçesi, Pontčina, Póntico, Romeika, Romeyka, Rumca, Rumcika, Ποντιακή διάλεκτος, Ποντιακόν λαλίαν, Понтийски език, Понтийский язык, Понтиски јазик, Понтійська мова, 폰토스 그리스어]
 population: 778000
@@ -16,6 +15,15 @@ glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Graeco-Phrygian > Greek > South Greek > Central Greek > Koineic Greek > Modern Koineic Greek > Pontic-Cappadocian Greek > Pontic"
 wikipedia_url: "https://en.wikipedia.org/wiki/Pontic_Greek"
+translations:
+  - translation_iso: ara
+    name: يونانية البنطس
+  - translation_iso: jpn
+    name: ギリシア語ポントス方言
+  - translation_iso: kor
+    name: 폰토스 그리스어
+  - translation_iso: zho
+    name: 旁狄希臘語
 rolv_dialects:
   - rolv_code: 29148
     language_tag: pnt-x-HIS29148

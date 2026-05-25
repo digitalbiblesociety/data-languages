@@ -1,7 +1,6 @@
 ---
 iso: shh
 name: Shoshoni
-name_zh: "Sosoni' 語"
 autonym: " Neme ta̲i̲kwappeh"
 alt_names: [Big Smokey Valley Shoshoni, Chochoneg, Shonshoni, Shoshone, Shoshone (Idaho), Shoshone (Nevada), Shoshone (Northern), Shoshone (Wind River), Shoshone (Wyoming), Shoshone language, Shoshoni-Goshiute, Wind River, Wind River Shoshone]
 population: 2910
@@ -15,6 +14,15 @@ glottolog_family_id: utoa1244
 glottolog_family_name: Uto-Aztecan
 glottolog_classification: "Uto-Aztecan > Northern Uto-Aztecan > Numic > Central Numic > Shoshoni"
 wikipedia_url: "https://en.wikipedia.org/wiki/Shoshoni_language"
+translations:
+  - translation_iso: ara
+    name: شوشوني
+  - translation_iso: jpn
+    name: ショショーニ語
+  - translation_iso: kor
+    name: 쇼쇼니어
+  - translation_iso: zho
+    name: "Sosoni' 語"
 rolv_dialects:
   - rolv_code: 16643
     language_tag: shh-x-HIS16643

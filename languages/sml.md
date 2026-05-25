@@ -1,8 +1,6 @@
 ---
 iso: sml
 name: Central Sama
-name_zh: 中部萨玛语
-name_zh_auto: true
 autonym: Bajau
 alt_names: [Central Sinama, "Sama, Central", Samal, Siasi Sama, Sinama]
 population: 105000
@@ -15,6 +13,10 @@ glottocode: cent2092
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Basap-Greater Barito > Greater Barito linkage > Sama-Bajaw > Sulu-Borneo > Inner Sulu Sama > Central Sama"
+translations:
+  - translation_iso: zho
+    name: 中部萨玛语
+    auto: true
 rolv_dialects:
   - rolv_code: 293
     language_tag: sml-x-HIS00293

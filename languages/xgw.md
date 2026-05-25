@@ -1,8 +1,6 @@
 ---
 iso: xgw
 name: Guwa
-name_zh: 古瓦语
-name_zh_auto: true
 autonym: Goa
 alt_names: [Coa, Coah, Goamulgo, Koa]
 population: null
@@ -16,5 +14,9 @@ glottolog_family_id: pama1250
 glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > Greater Maric > Guwa-Maric > Guwa-Yanda > Guwa"
 wikipedia_url: "https://en.wikipedia.org/wiki/Guwa_language"
+translations:
+  - translation_iso: zho
+    name: 古瓦语
+    auto: true
 ---
 Guwa, also spelt Goa, Koa, and other variants, is an extinct and nearly unattested Australian Aboriginal language of Queensland spoken by the Koa people. It was apparently close to Yanda.

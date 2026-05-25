@@ -1,8 +1,6 @@
 ---
 iso: nuv
 name: Northern Nuni
-name_zh: 北努尼语
-name_zh_auto: true
 autonym: Nunuma
 alt_names: [Nibulu, Nouni, Nounouma, Nuna, Nune, Nuni, Nuni (Northern), "Nuni, Northern", Nuruma]
 population: 15000
@@ -15,6 +13,10 @@ glottocode: nort2784
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Gur > Central Gur > Southern Central Gur > Grusi > Northern Grusi > Nuna-Kasem > Nuni > Northern Nuni"
+translations:
+  - translation_iso: zho
+    name: 北努尼语
+    auto: true
 rolv_dialects:
   - rolv_code: 15130
     language_tag: nuv-x-HIS15130

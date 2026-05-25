@@ -1,8 +1,6 @@
 ---
 iso: wji
 name: Warji
-name_zh: 瓦吉语
-name_zh_auto: true
 autonym: Sar
 alt_names: [Aja, Ajanci, Ajawa, Sarawa, Sirzakwai, Warja, Warjawa, Werji]
 population: 77700
@@ -16,6 +14,10 @@ glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > West Chadic > West Chadic B > West Chadic B.2 > Nuclear West Chadic B.2 > Central West Chadic B.2 > Warji-Gala-Kariya > Warji-Gala"
 wikipedia_url: "https://en.wikipedia.org/wiki/Warji_language"
+translations:
+  - translation_iso: zho
+    name: 瓦吉语
+    auto: true
 rolv_dialects:
   - rolv_code: 30613
     language_tag: wji-x-HIS30613

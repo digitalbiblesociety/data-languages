@@ -1,8 +1,6 @@
 ---
 iso: ayk
 name: Akuku
-name_zh: 阿库库语
-name_zh_auto: true
 autonym: null
 population: null
 country_id: NG
@@ -15,5 +13,9 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Akpes-Edoid > Edoid > Northwestern Edoid > Southern Northwestern Edoid > Okpe-Akuku-Idesa > Akuku"
 wikipedia_url: "https://en.wikipedia.org/wiki/Akuku_language"
+translations:
+  - translation_iso: zho
+    name: 阿库库语
+    auto: true
 ---
 Akuku is an Edoid language of Nigeria.

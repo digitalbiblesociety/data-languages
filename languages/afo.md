@@ -1,8 +1,6 @@
 ---
 iso: afo
 name: Eloyi
-name_zh: 埃洛伊语
-name_zh_auto: true
 autonym: Afu
 alt_names: [Afao, Afo, Aho, Epe, Keffi]
 population: 25000
@@ -16,6 +14,10 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Benue-Congo Plateau > Ajiri"
 wikipedia_url: "https://en.wikipedia.org/wiki/Eloyi_language"
+translations:
+  - translation_iso: zho
+    name: 埃洛伊语
+    auto: true
 rolv_dialects:
   - rolv_code: 23898
     language_tag: afo-x-HIS23898

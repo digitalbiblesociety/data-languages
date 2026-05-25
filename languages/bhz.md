@@ -1,8 +1,6 @@
 ---
 iso: bhz
 name: Bada (Indonesia)
-name_zh: 印度尼西亚巴达语
-name_zh_auto: true
 autonym: "Bada'"
 alt_names: [Bada]
 population: 9780
@@ -16,6 +14,12 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Greater South Sulawesi > Rampi-Seko-Badaic > Badaic-Limola > Badaic > Bada (Indonesia)"
 wikipedia_url: "https://en.wikipedia.org/wiki/Bada_language"
+translations:
+  - translation_iso: jpn
+    name: バダ語
+  - translation_iso: zho
+    name: 印度尼西亚巴达语
+    auto: true
 rolv_dialects:
   - rolv_code: 7489
     language_tag: bhz-x-HIS07489

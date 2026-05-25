@@ -1,8 +1,6 @@
 ---
 iso: kxk
 name: Zayein Karen
-name_zh: 扎耶因卡伦语
-name_zh_auto: true
 autonym: Gaungtou
 alt_names: ["Karen, Zayein", "Karen,Zayein", Khaungtou, Zayein]
 population: 9300
@@ -15,4 +13,8 @@ glottocode: zaye1235
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Karenic > Northern Karen > Lahta-Zayein Karen"
+translations:
+  - translation_iso: zho
+    name: 扎耶因卡伦语
+    auto: true
 ---

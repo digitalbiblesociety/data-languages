@@ -1,7 +1,6 @@
 ---
 iso: ext
 name: Extremaduran
-name_zh: 埃斯特雷马杜拉语
 autonym: estremeñu
 alt_names: [Cahtúo, Cahtúö, Ehtremeñu, Ekstremadura lingvo, Ekstremaduransk, Estremadurano, Estremadurski jezik, Estremadursko godka, Estremenyo, Estrémaduran, Extremaduran dialect, Extremadurera, Extremadurische Sprache, Extremaduriska, Extremeens, Extremenho, Extremeny, Extremeño, Idioma extremeño, Język estremadurski, Kiekstremadura, Lenga estremaduran-a, Lhéngua stremenha, Lingua Extremadurensis, Lingua estremenya, Lingua estremeña, Luenga estremeña, Âi-sṳ̂-thi̍t-lùi-mâ-thu-lâ-ngî, Εξτρεμαδουρική γλώσσα, Естремадурська мова, Эстремадурский язык, 埃斯特雷馬杜拉語, 에스트레마두라어]
 population: 201500
@@ -16,6 +15,15 @@ glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Italic > Latino-Faliscan > Latinic > Imperial Latin > Romance > Italo-Western Romance > Western Romance > Shifted Western Romance > Southwestern Shifted Romance > West Ibero-Romance > Castilic > Extremaduran"
 wikipedia_url: "https://en.wikipedia.org/wiki/Extremaduran_language"
+translations:
+  - translation_iso: ara
+    name: لغة إكستريمادورا
+  - translation_iso: jpn
+    name: エストレマドゥーラ語
+  - translation_iso: kor
+    name: 에스트레마두라어
+  - translation_iso: zho
+    name: 埃斯特雷马杜拉语
 rolv_dialects:
   - rolv_code: 9731
     language_tag: ext-x-HIS09731

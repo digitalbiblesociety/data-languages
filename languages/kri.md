@@ -1,7 +1,6 @@
 ---
 iso: kri
 name: Krio
-name_zh: 塞拉利昂克里奥尔语
 autonym: Krio
 population: 641900
 country_id: SL
@@ -15,6 +14,13 @@ glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Germanic > Northwest Germanic > West Germanic > North Sea Germanic > Anglo-Frisian > Anglic > Later Anglic > Middle-Modern English > Macro-English > Guinea Coast Creole English > West African Creole English > Krio"
 wikipedia_url: "https://en.wikipedia.org/wiki/Krio_language"
+translations:
+  - translation_iso: jpn
+    name: クリオ語
+  - translation_iso: kor
+    name: 크리오
+  - translation_iso: zho
+    name: 塞拉利昂克里奥尔语
 rolv_dialects:
   - rolv_code: 12348
     language_tag: kri-x-HIS12348

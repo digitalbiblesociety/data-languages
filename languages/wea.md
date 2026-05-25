@@ -1,8 +1,6 @@
 ---
 iso: wea
 name: Wewaw
-name_zh: 韦瓦语
-name_zh_auto: true
 autonym: ကညီကျိာ်
 alt_names: [Wewau]
 population: null
@@ -15,4 +13,8 @@ glottocode: wewa1238
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Karenic > Southern Karen > Sgaw > Wewaw"
+translations:
+  - translation_iso: zho
+    name: 韦瓦语
+    auto: true
 ---

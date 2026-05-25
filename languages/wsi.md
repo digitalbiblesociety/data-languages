@@ -1,8 +1,6 @@
 ---
 iso: wsi
 name: Wusi
-name_zh: 乌西语
-name_zh_auto: true
 autonym: Kula
 alt_names: [Wusi-Kerepua]
 population: 300
@@ -16,6 +14,10 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > North and Central Vanuatu > Northern Vanuatu > Espiritu Santo > West Santo > Kula (Vanuatu)"
 wikipedia_url: "https://en.wikipedia.org/wiki/Wusi_language"
+translations:
+  - translation_iso: zho
+    name: 乌西语
+    auto: true
 rolv_dialects:
   - rolv_code: 30632
     language_tag: wsi-x-HIS30632

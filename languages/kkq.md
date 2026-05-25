@@ -1,8 +1,6 @@
 ---
 iso: kkq
 name: Kaiku
-name_zh: 凯库语
-name_zh_auto: true
 autonym: Ikaiku
 alt_names: [Kaeku, Kaiko]
 population: 13000
@@ -16,5 +14,9 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > Central-Western Bantu > North Zaire River > Rivers Bantu > Ngiri > Ngiri Terrien > Ngombe-Ababuan > Ababuan > Old Bomokandian > Komoic > Bilaic > Bila-Kaiku > Kaiku"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kaiku_language"
+translations:
+  - translation_iso: zho
+    name: 凯库语
+    auto: true
 ---
 Kaiku is a Bantu language of the Democratic Republic of the Congo.

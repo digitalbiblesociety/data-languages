@@ -1,7 +1,6 @@
 ---
 iso: mnj
 name: Munji
-name_zh: 門吉語
 autonym: مونجى
 alt_names: [Munjani, Munjhan, Munjiwar, Munyí]
 population: 3770
@@ -15,5 +14,10 @@ glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Iranian-Nuristani > Iranian > Central Eastern Iranian > Yidgha-Munji > Munji"
 wikipedia_url: "https://en.wikipedia.org/wiki/Munji_language"
+translations:
+  - translation_iso: jpn
+    name: ムンジャン語
+  - translation_iso: zho
+    name: 門吉語
 ---
 The Munji language, also known as Munjani, Munjhan (مونجهان), and the Munjiwar language, is a Pamir language spoken in the Munjan valley in the Kuran wa Munjan district of the Badakhshan province in northeast Afghanistan. It is similar to the Yidgha language, which is spoken in the Upper Lotkoh Valley of Chitral, west of Garam Chashma in Khyber Pakhtunkhwa, Pakistan.

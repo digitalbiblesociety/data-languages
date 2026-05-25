@@ -1,8 +1,6 @@
 ---
 iso: rai
 name: Ramoaaina
-name_zh: 拉莫阿依纳语
-name_zh_auto: true
 autonym: Duke of York
 alt_names: [Ramuaina]
 population: 10300
@@ -16,6 +14,10 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > Meso Melanesian linkage > New Ireland-Northwest Solomonic linkage > St George linkage > Kandas-Duke of York > Ramoaaina"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ramoaaina_language"
+translations:
+  - translation_iso: zho
+    name: 拉莫阿依纳语
+    auto: true
 rolv_dialects:
   - rolv_code: 4478
     language_tag: rai-x-HIS04478

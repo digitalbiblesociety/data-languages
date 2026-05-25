@@ -1,7 +1,6 @@
 ---
 iso: oma
 name: "Omaha-Ponca"
-name_zh: 奧馬哈-龐卡語
 autonym: Mahairi
 alt_names: [Cegiha, Dhegiha, Dhegiha (Ponca), Dhegihan, Omaha, Ponca, Ponka, Ppankka, Uman, Umanhan]
 population: 85
@@ -15,6 +14,13 @@ glottolog_family_id: siou1252
 glottolog_family_name: Siouan
 glottolog_classification: "Siouan > Mississippi Valley > Dhegiha > Omaha-Ponca"
 wikipedia_url: "https://en.wikipedia.org/wiki/Omaha%E2%80%93Ponca_language"
+translations:
+  - translation_iso: ara
+    name: أوماها-بونكا
+  - translation_iso: jpn
+    name: オマハ語
+  - translation_iso: zho
+    name: 奧馬哈-龐卡語
 rolv_dialects:
   - rolv_code: 213
     language_tag: oma-x-HIS00213

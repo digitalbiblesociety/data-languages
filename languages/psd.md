@@ -1,7 +1,6 @@
 ---
 iso: psd
 name: Plains Indian Sign Language
-name_zh: 平原手語
 autonym: Plains Nation Sign Language
 alt_names: [Indiana gestlingvo, Indianernas teckenspråk, Mowa znaków, Plains Sign Language, Plains-Indians Sign Language, Znakovni jezik prerijskih Indijanaca, የሜዳ ቀይ ሕንዳውያን እጅ ምልክት ቋንቋ]
 population: 75
@@ -15,6 +14,15 @@ glottolog_family_id: sign1238
 glottolog_family_name: Sign Language
 glottolog_classification: "Sign Language > Auxiliary Sign Systems > Plains Indian Sign Language"
 wikipedia_url: "https://en.wikipedia.org/wiki/Plains_Indian_Sign_Language"
+translations:
+  - translation_iso: ara
+    name: لغة إشارة السهول للهنود الحمر
+  - translation_iso: hin
+    name: मैदान भारतीय सांकेतिक भाषा
+  - translation_iso: jpn
+    name: 平原インディアン手話
+  - translation_iso: zho
+    name: 平原手語
 rolv_dialects:
   - rolv_code: 25710
     language_tag: psd-x-HIS25710

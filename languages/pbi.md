@@ -1,8 +1,6 @@
 ---
 iso: pbi
 name: Parkwa
-name_zh: 帕克瓦语
-name_zh_auto: true
 autonym: Podoko
 alt_names: [Gwadi Parekwa, Kudala, Padogo, Padoko, Padokwa, Paduko, Parekwa, Pawdawkwa, Podogo, Podokwo]
 population: 30000
@@ -16,5 +14,9 @@ glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > Biu-Mandara > North Biu-Mandara > Margi-Mandara-Mofu > Mandaraic > Podoko > Parkwa"
 wikipedia_url: "https://en.wikipedia.org/wiki/Parkwa_language"
+translations:
+  - translation_iso: zho
+    name: 帕克瓦语
+    auto: true
 ---
 Parkwa (Parəkwa), also Podoko, is an Afro-Asiatic language of Cameroon.

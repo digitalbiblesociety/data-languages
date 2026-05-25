@@ -1,7 +1,6 @@
 ---
 iso: sac
 name: Meskwaki
-name_zh: 福克斯語
 autonym: "Meskwaki-Sauk-Kickapoo"
 alt_names: [Fox, Fox-Sauk-Kickapoo, Meskwakie, Mesquakie, Mesquakie-Sauk-Kickapoo, Sac and Fox, Sauk-Fox]
 population: 250
@@ -15,6 +14,15 @@ glottolog_family_id: algi1248
 glottolog_family_name: Algic
 glottolog_classification: "Algic > Algonquian-Blackfoot > Algonquian > Eastern Great Lakes Algonquian > Fox > Meskwaki"
 wikipedia_url: "https://en.wikipedia.org/wiki/Fox_language"
+translations:
+  - translation_iso: ara
+    name: مسيكواكي
+  - translation_iso: jpn
+    name: フォックス語
+  - translation_iso: kor
+    name: 폭스어
+  - translation_iso: zho
+    name: 福克斯語
 rolv_dialects:
   - rolv_code: 14040
     language_tag: sac-x-HIS14040

@@ -1,8 +1,6 @@
 ---
 iso: ldb
 name: Dũya
-name_zh: 杜亚语
-name_zh_auto: true
 autonym: Dũya
 alt_names: [Adong, Idun, Lungu, Ungu]
 population: 78000
@@ -16,5 +14,9 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Benue-Congo Plateau > West-Central Benue-Congo Plateau > Northwestern Benue-Congo Plateau > Koroic > Duyaic > Dũya"
 wikipedia_url: "https://en.wikipedia.org/wiki/Idun_language"
+translations:
+  - translation_iso: zho
+    name: 杜亚语
+    auto: true
 ---
 Idun (Idũ) or Dũya, is a poorly attested Plateau language of Nigeria. Its classification is uncertain, but it may be closest to Ashe.

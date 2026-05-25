@@ -1,7 +1,6 @@
 ---
 iso: alr
 name: Alutor
-name_zh: 阿留特語
 autonym: nəməlʔu
 alt_names: ["Al'utor", Aliotuoriu kalba, Alioutor, Aliutor, Aliutorių kalba, Aljoetoors, Aloutoreg, Alutorin kieli, Alyutor, Alyutor language, Język alutorski, Lingua alutor, Língua alutor, Olyutor, Алюторский язык, 알루토르어]
 population: 100
@@ -15,6 +14,13 @@ glottolog_family_id: chuk1271
 glottolog_family_name: Chukotko-Kamchatkan
 glottolog_classification: "Chukotko-Kamchatkan > Chukotian > Alutor"
 wikipedia_url: "https://en.wikipedia.org/wiki/Alyutor_language"
+translations:
+  - translation_iso: jpn
+    name: アリュートル語
+  - translation_iso: kor
+    name: 알루토르어
+  - translation_iso: zho
+    name: 阿留特語
 rolv_dialects:
   - rolv_code: 6911
     language_tag: alr-x-HIS06911

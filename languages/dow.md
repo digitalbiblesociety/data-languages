@@ -1,7 +1,6 @@
 ---
 iso: dow
 name: Doyayo
-name_zh: 多瓦悠語
 autonym: Dowayo
 alt_names: ["\"Namchi\"", "\"Namci\"", "\"Namshi\"", Dayãyo, Doayo, Donyanyo, Donyayo, Doohyaayo, Doowaayo, Dooyaa(ng)yo, Dooyaangyo, Dooyaayo, Dooyayo, Dowayayo, Doyaayo, Doyau, Namshi, Nomai, Tunga, Tungbo, Tuuno]
 population: 15000
@@ -15,6 +14,9 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Cameroun-Ubangian > Central Adamawa > Samba-Duru > Northern Samba-Duru > Doyayo"
 wikipedia_url: "https://en.wikipedia.org/wiki/Doyayo_language"
+translations:
+  - translation_iso: zho
+    name: 多瓦悠語
 rolv_dialects:
   - rolv_code: 9410
     language_tag: dow-x-HIS09410

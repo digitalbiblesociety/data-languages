@@ -1,7 +1,6 @@
 ---
 iso: tdg
 name: Western Tamang
-name_zh: 西達芒語
 autonym: तामाङ
 alt_names: [Bhōtiā, Ishāng, Murmi, Sain, Tamang, "Tamang, Western", "Tamang,Western", Tāmāng]
 population: 323000
@@ -16,6 +15,9 @@ glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Bodic > Kaike-Ghale-Tamangic > Ghale-Tamangic > Tamangic > Nuclear Tamang > Western Tamang"
 wikipedia_url: "https://en.wikipedia.org/wiki/Western_Tamang"
+translations:
+  - translation_iso: zho
+    name: 西達芒語
 rolv_dialects:
   - rolv_code: 4094
     language_tag: tdg-x-HIS04094

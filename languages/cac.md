@@ -1,7 +1,6 @@
 ---
 iso: cac
 name: Chuj
-name_zh: 祖赫語
 autonym: Chuj
 alt_names: ["Chuj, San Sebastián Coatán", Idioma chuj, Język chuj, Língua chuj, Чухски јазик, 祖赫語]
 population: 61490
@@ -15,6 +14,13 @@ glottolog_family_id: maya1287
 glottolog_family_name: Mayan
 glottolog_classification: "Mayan > Core Mayan > Western Mayan > Kanjobalan-Chujean > Chujean > Chuj"
 wikipedia_url: "https://en.wikipedia.org/wiki/Chuj_language"
+translations:
+  - translation_iso: jpn
+    name: チュフ語
+  - translation_iso: kor
+    name: 추흐어
+  - translation_iso: zho
+    name: 祖赫語
 rolv_dialects:
   - rolv_code: 394
     language_tag: cac-x-HIS00394

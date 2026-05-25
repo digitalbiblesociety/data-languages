@@ -1,7 +1,6 @@
 ---
 iso: cml
 name: Campalagian
-name_zh: 坎帕拉吉语
 autonym: Tallumpanuae
 alt_names: [Tasing, Tjampalagian]
 population: 2830
@@ -15,6 +14,9 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Greater South Sulawesi > South Sulawesi > Tamanic-Bugis > Bugis > Campalagian"
 wikipedia_url: "https://en.wikipedia.org/wiki/Campalagian_language"
+translations:
+  - translation_iso: zho
+    name: 坎帕拉吉语
 rolv_dialects:
   - rolv_code: 8626
     language_tag: cml-x-HIS08626

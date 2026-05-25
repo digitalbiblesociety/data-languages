@@ -1,7 +1,6 @@
 ---
 iso: mfb
 name: Bangka
-name_zh: 邦加馬來語
 autonym: Bahasa Bangka
 alt_names: [Belom, Lom, Mapor, Maporese]
 population: 340000
@@ -15,6 +14,11 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Malayo-Chamic > Malayic > Nuclear Malayic > Northern Sumatra Malay > Bangka-Belitung Malay > Bangka"
 wikipedia_url: "https://en.wikipedia.org/wiki/Bangka_Malay"
+translations:
+  - translation_iso: jpn
+    name: バンカ語
+  - translation_iso: zho
+    name: 邦加馬來語
 rolv_dialects:
   - rolv_code: 19399
     language_tag: mfb-x-HIS19399

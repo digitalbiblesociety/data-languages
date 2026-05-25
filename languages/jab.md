@@ -1,8 +1,6 @@
 ---
 iso: jab
 name: Hyam
-name_zh: 海亚姆语
-name_zh_auto: true
 autonym: Jabba
 alt_names: [Geba, Ham, Hyamhum, Jaba, Jeba]
 population: 300000
@@ -16,6 +14,12 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Benue-Congo Plateau > West-Central Benue-Congo Plateau > Northwestern Benue-Congo Plateau > Hyamic > Hyam"
 wikipedia_url: "https://en.wikipedia.org/wiki/Hyam_language"
+translations:
+  - translation_iso: jpn
+    name: ヒャム語
+  - translation_iso: zho
+    name: 海亚姆语
+    auto: true
 rolv_dialects:
   - rolv_code: 2006
     language_tag: jab-x-HIS02006

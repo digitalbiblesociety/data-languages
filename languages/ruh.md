@@ -1,8 +1,6 @@
 ---
 iso: ruh
 name: Ruga
-name_zh: 鲁加语
-name_zh_auto: true
 autonym: null
 population: 10
 country_id: IN
@@ -15,5 +13,11 @@ glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Brahmaputran > Bodo-Garo > Kochic > Ruga"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ruga_language"
+translations:
+  - translation_iso: hin
+    name: रुगा भाषा
+  - translation_iso: zho
+    name: 鲁加语
+    auto: true
 ---
 Ruga is a Garo dialect, a Sino-Tibetan language that spoken in the East Garo Hills district and West Garo Hills, Meghalaya, India. Today, people who identify themselves as Ruga have shifted to Garo and only a few elderly native Ruga speakers remain.

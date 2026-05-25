@@ -1,8 +1,6 @@
 ---
 iso: xbi
 name: Kombio
-name_zh: 科姆比奥语
-name_zh_auto: true
 autonym: Kombio Wampukuamp
 alt_names: [Anamagi, Endangen]
 population: 2970
@@ -16,6 +14,10 @@ glottolog_family_id: nucl1708
 glottolog_family_name: Nuclear Torricelli
 glottolog_classification: "Nuclear Torricelli > Kombio-Arapesh-Urat > Kombio-Yambes > Kombioic > Kombio"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kombio_language"
+translations:
+  - translation_iso: zho
+    name: 科姆比奥语
+    auto: true
 rolv_dialects:
   - rolv_code: 1023
     language_tag: xbi-x-HIS01023

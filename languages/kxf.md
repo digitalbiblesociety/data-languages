@@ -1,8 +1,6 @@
 ---
 iso: kxf
 name: Manumanaw Karen
-name_zh: 玛努玛瑙卡伦语
-name_zh_auto: true
 autonym: Kayah
 alt_names: ["Karen, Manumanaw", "Karen,Manumanaw", Mano, Manu, Manumanaw, Manö, Monu]
 population: 10000
@@ -15,6 +13,10 @@ glottocode: manu1255
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Karenic > Central Karen > Kayaw-Manu > Manumanaw Karen"
+translations:
+  - translation_iso: zho
+    name: 玛努玛瑙卡伦语
+    auto: true
 rolv_dialects:
   - rolv_code: 27171
     language_tag: kxf-x-HIS27171

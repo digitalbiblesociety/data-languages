@@ -1,8 +1,6 @@
 ---
 iso: nie
 name: Niellim
-name_zh: 尼埃利姆语
-name_zh_auto: true
 autonym: lwaà
 alt_names: [Lua, Mjillem, Nielim, Niellim jezik, Niellimeg, Nyilem]
 population: 1000
@@ -16,6 +14,12 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Bua-Kim-Day > Adamawa Bua > Riverine Bua > Bua-Lua > Niellim"
 wikipedia_url: "https://en.wikipedia.org/wiki/Niellim_language"
+translations:
+  - translation_iso: jpn
+    name: ニエリム語
+  - translation_iso: zho
+    name: 尼埃利姆语
+    auto: true
 rolv_dialects:
   - rolv_code: 14980
     language_tag: nie-x-HIS14980

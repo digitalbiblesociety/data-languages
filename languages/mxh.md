@@ -1,8 +1,6 @@
 ---
 iso: mxh
 name: Mvuba
-name_zh: 姆武巴语
-name_zh_auto: true
 autonym: Bambuba
 alt_names: [Bamvuba, Mbuba, Mvuba-A, Obiye]
 population: 5100
@@ -16,5 +14,9 @@ glottolog_family_id: cent2225
 glottolog_family_name: Central Sudanic
 glottolog_classification: "Central Sudanic > Membi-Mangbutu-Efe > Mangbutu-Efe > Baleseic > Nuclear Baleseic > Mvuba"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mvuba_language"
+translations:
+  - translation_iso: zho
+    name: 姆武巴语
+    auto: true
 ---
 Mvuba is a Central Sudanic language of northeastern Congo, with a thousand speakers in Uganda. It is similar to Lese.

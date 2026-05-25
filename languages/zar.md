@@ -1,8 +1,6 @@
 ---
 iso: zar
 name: Rincón Zapotec
-name_zh: 林孔-萨波特克语
-name_zh_auto: true
 autonym: "Zapotec, Rincón"
 alt_names: [Choapan Zapotec, Northern Sapoteko, Northern Villa Alta Zapotec, Nothern Zapoteco, Rincon Zapotec, Rincón, Sierra de Villa Alta, Yalálog, Zapotec, Zapoteco de Choapan, Zapoteco de Yagallo, Zapoteco del Rincón]
 population: 29200
@@ -16,6 +14,10 @@ glottolog_family_id: otom1299
 glottolog_family_name: Otomanguean
 glottolog_classification: "Otomanguean > Eastern Otomanguean > Popoloca-Zapotecan > Zapotecan > Zapotec > Core Zapotec > Narrow Core Zapotec > Northern Core Zapotec > Rinconic > Rincón Zapotec"
 wikipedia_url: "https://en.wikipedia.org/wiki/Rinc%C3%B3n_Zapotec"
+translations:
+  - translation_iso: zho
+    name: 林孔-萨波特克语
+    auto: true
 rolv_dialects:
   - rolv_code: 2893
     language_tag: zar-x-HIS02893

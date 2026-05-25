@@ -1,8 +1,6 @@
 ---
 iso: awu
 name: Central Awyu
-name_zh: 中部阿维尤语
-name_zh_auto: true
 autonym: Central Awyu
 alt_names: [Ajau, Auyu, Avio, Awju, Awya, "Awyu, Central", Nohon]
 population: 7500
@@ -15,6 +13,10 @@ glottocode: cent2118
 glottolog_family_id: nucl1709
 glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Asmat-Awyu-Ok > Awyu-Ok > Greater Awyu > Awyu-Dumut > Awyu > Mappi-Digul Awyu > Central Awyu"
+translations:
+  - translation_iso: zho
+    name: 中部阿维尤语
+    auto: true
 rolv_dialects:
   - rolv_code: 4113
     language_tag: awu-x-HIS04113

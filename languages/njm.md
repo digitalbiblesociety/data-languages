@@ -1,7 +1,6 @@
 ---
 iso: njm
 name: Angami Naga
-name_zh: 安加米语
 autonym: Angamis
 alt_names: [Angameg, Angami, Angami language, Chokri, Gnamei, Monr, Naga, "Naga, Angami", "Naga,Angami", Ngami, Tendydie, Tsanglo, Tsoghami, Tsugumi, Ангами, ภาษาองามี]
 population: 153000
@@ -15,6 +14,13 @@ glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Kuki-Chin-Naga > Angami-Ao > Angami-Pochuri > Angami-Mao > Angami-Chokri > Angami Naga"
 wikipedia_url: "https://en.wikipedia.org/wiki/Angami_language"
+translations:
+  - translation_iso: hin
+    name: अंगामी भाषा
+  - translation_iso: jpn
+    name: アンガミ語
+  - translation_iso: zho
+    name: 安加米语
 rolv_dialects:
   - rolv_code: 14507
     language_tag: njm-x-HIS14507

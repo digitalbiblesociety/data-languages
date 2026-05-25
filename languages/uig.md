@@ -1,7 +1,6 @@
 ---
 iso: uig
 name: Uighur
-name_zh: 维吾尔语
 autonym: Uighur
 alt_names: [Bahasa Uighur, Bahasa Uyghur, Idioma uigur, Język ujgurski, Lingua uigura, Língua uigur, New Uighur, Novouygur, Oeigoers, Ouigoureg, Ouïghour, Tiếng Uyghur, Uighor, Uighuir, Uiguir, Uigur, Uigurisch, Uigurische Sprache, Uigurisk, Uiguriska, Uiguru valoda, Uiguurin kieli, Ujgura lingvo, Ujgurčina, Ujgurština, Uyghur, Uyghur language, Uyghuri, Uygur, Uygur simi, Uygurca, Uyg‘ur til, Uyğur dili, Uyğur tili, Weiwuer, Wiga, Wighor, Wikang Uighur, ouïgour, Úýgúríska, Забони уйғурӣ, Уйгур кыв, Уйгур чĕлхи, Уйгурская мова, Уйгурски език, Уйгурский язык, Уйгурська мова, Ујгурски јазик, אויגור, ئۇيغۇر تىلى, زبان اویغوری, لغة أويغورية, उइगुर भाषा, उईघर भाषा, উইগুর ভাষা, உய்குர் மொழி, ภาษาอุยกูร์, ཡུལ་གོར་སྐད།, ኡይጉርኛ, ウイグル語, 维吾尔语, 위구르어]
 population: 10400000
@@ -16,6 +15,17 @@ glottolog_family_id: turk1311
 glottolog_family_name: Turkic
 glottolog_classification: "Turkic > Common Turkic > Kipchak-Turkestan > Turkestan > Modern Turkestan > Uyghuric > Uighur"
 wikipedia_url: "https://en.wikipedia.org/wiki/Uyghur_language"
+translations:
+  - translation_iso: ara
+    name: الأويغورية
+  - translation_iso: hin
+    name: उइगुर भाषा
+  - translation_iso: jpn
+    name: ウイグル語
+  - translation_iso: kor
+    name: 위구르어
+  - translation_iso: zho
+    name: 维吾尔语
 rolv_dialects:
   - rolv_code: 3381
     language_tag: ug-x-HIS03381

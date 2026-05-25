@@ -1,8 +1,6 @@
 ---
 iso: alj
 name: Alangan
-name_zh: 阿兰甘语
-name_zh_auto: true
 autonym: null
 alt_names: [Alangan jezik, Lingua alangan, Wikang Alangan]
 population: 14600
@@ -16,5 +14,9 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > North Mangyan > Alangan"
 wikipedia_url: "https://en.wikipedia.org/wiki/Alangan_language"
+translations:
+  - translation_iso: zho
+    name: 阿兰甘语
+    auto: true
 ---
 The Alangan language is a language spoken by Mangyans in the province of Mindoro in the Philippines.

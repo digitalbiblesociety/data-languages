@@ -1,8 +1,6 @@
 ---
 iso: gdb
 name: Pottangi Ollar Gadaba
-name_zh: 波坦吉奥拉尔加达巴语
-name_zh_auto: true
 autonym: Gadaba
 alt_names: [Allar, "Gadaba, Pottangi Ollar", Gadba, Hallari, Hollar Gadbas, Kondekar, Kondkor, Ollar Gadaba, Ollari, Ollaro, Pottangi, Pottangi Gadba, Pottangi Ollar, San Gadaba, Sano]
 population: 15000
@@ -16,6 +14,12 @@ glottolog_family_id: drav1251
 glottolog_family_name: Dravidian
 glottolog_classification: "Dravidian > Central Dravidian > Parji-Ollari-Gadaba > Ollari-Gadaba > Pottangi Ollar Gadaba"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ollari_language"
+translations:
+  - translation_iso: jpn
+    name: オッラーリ語
+  - translation_iso: zho
+    name: 波坦吉奥拉尔加达巴语
+    auto: true
 rolv_dialects:
   - rolv_code: 3545
     language_tag: gdb-x-HIS03545

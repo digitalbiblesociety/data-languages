@@ -1,8 +1,6 @@
 ---
 iso: rgs
 name: Southern Roglai
-name_zh: 南部罗格莱语
-name_zh_auto: true
 autonym: Rai
 alt_names: [Roglai, "Roglai, Southern", Ríoglai, Southern]
 population: 18000
@@ -15,6 +13,10 @@ glottocode: sout3010
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Malayo-Chamic > Aceh-Chamic > Chamic > Chru-Northern Cham > Chruic > Southern Roglai"
+translations:
+  - translation_iso: zho
+    name: 南部罗格莱语
+    auto: true
 rolv_dialects:
   - rolv_code: 15992
     language_tag: rgs-x-HIS15992

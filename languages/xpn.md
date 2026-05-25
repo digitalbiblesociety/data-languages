@@ -1,8 +1,6 @@
 ---
 iso: xpn
 name: Kapinawá
-name_zh: 卡皮纳瓦语
-name_zh_auto: true
 autonym: (unattested)
 alt_names: [Brazil, Kapinawa]
 population: null
@@ -16,5 +14,9 @@ glottolog_family_id: uncl1493
 glottolog_family_name: Unclassifiable
 glottolog_classification: "Unclassifiable > Kapinawá"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kapinaw%C3%A1_language"
+translations:
+  - translation_iso: zho
+    name: 卡皮纳瓦语
+    auto: true
 ---
 The Kapinawá language is a presumed and unattested language of northeastern Brazil, formerly spoken by the Kapinawá, who are now monolingual in Portuguese. As Kapinawá is unattested, it cannot be shown to have been distinct from neighboring languages. The Kapinawá are said to be descended from the Paratió, who spoke the Paratió language.

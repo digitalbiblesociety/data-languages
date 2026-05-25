@@ -1,8 +1,6 @@
 ---
 iso: brp
 name: Barapasi
-name_zh: 巴拉帕西语
-name_zh_auto: true
 autonym: Baropasi
 population: 2500
 country_id: ID
@@ -15,6 +13,10 @@ glottolog_family_id: geel1240
 glottolog_family_name: Geelvink Bay
 glottolog_classification: "Geelvink Bay > Barapasi-Sauri-Kofei > Barapasi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Baropasi_language"
+translations:
+  - translation_iso: zho
+    name: 巴拉帕西语
+    auto: true
 rolv_dialects:
   - rolv_code: 7765
     language_tag: brp-x-HIS07765

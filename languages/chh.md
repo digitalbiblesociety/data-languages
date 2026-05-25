@@ -1,8 +1,6 @@
 ---
 iso: chh
 name: Chinook
-name_zh: 奇努克语
-name_zh_auto: true
 autonym: Tsinúk
 alt_names: [Chinook (Lower), Chinook proper, Chinookan, Coastal Chinook, Kiksht, Lower Chinook, Lower Chinookan]
 population: null
@@ -16,6 +14,10 @@ glottolog_family_id: chin1490
 glottolog_family_name: Chinookan
 glottolog_classification: "Chinookan > Lower Chinookan > Clatsop-Shoalwater Chinook"
 wikipedia_url: "https://en.wikipedia.org/wiki/Lower_Chinook"
+translations:
+  - translation_iso: zho
+    name: 奇努克语
+    auto: true
 rolv_dialects:
   - rolv_code: 8882
     language_tag: chh-x-HIS08882

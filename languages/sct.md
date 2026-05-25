@@ -1,8 +1,6 @@
 ---
 iso: sct
 name: Southern Katang
-name_zh: 南方卡塘语
-name_zh_auto: true
 autonym: null
 alt_names: ["Katang, Southern"]
 population: null
@@ -15,4 +13,8 @@ glottocode: sout3251
 glottolog_family_id: aust1305
 glottolog_family_name: Austroasiatic
 glottolog_classification: "Austroasiatic > Katuic > West Katuic > Brou-So > Eastern Bru-Katang > Katang > Southern Katang"
+translations:
+  - translation_iso: zho
+    name: 南方卡塘语
+    auto: true
 ---

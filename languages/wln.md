@@ -1,7 +1,6 @@
 ---
 iso: wln
 name: Walloon
-name_zh: 瓦隆语
 autonym: walon
 alt_names: [An Vallúinis, Bahasa Walloon, Fà-liùng-ngî, Idioma valón, Język waloński, Lengua vallone, Limba valonă, Lingua vallone, Língua valona, Tiếng Wallon, Valloni, Vallonsk, Vallonska, Valoiera, Valon, Valona lingvo, Valonca, Valonski jezik, Valonština, Való, Valón, Waals, Wallon, Walloneg, Wallonek, Wallonies, Wallonische Sprache, Walloonish, Walloonsch, Wallounesch, Waols, Woals, Βαλλωνική γλώσσα, Валлонский язык, Валлонська мова, Валонски език, Валёнская мова, Վալոներեն, ולונית, لغة والون, ภาษาวัลลูน, ワロン語, 瓦龙语, 왈롱어]
 population: 600000
@@ -16,6 +15,17 @@ glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Italic > Latino-Faliscan > Latinic > Imperial Latin > Romance > Italo-Western Romance > Western Romance > Shifted Western Romance > Northwestern Shifted Romance > Gallo-Rhaetian > Oil > Walloon"
 wikipedia_url: "https://en.wikipedia.org/wiki/Walloon_language"
+translations:
+  - translation_iso: ara
+    name: لغة والون
+  - translation_iso: hin
+    name: वाल्लून
+  - translation_iso: jpn
+    name: ワロン語
+  - translation_iso: kor
+    name: 왈롱어
+  - translation_iso: zho
+    name: 瓦隆语
 rolv_dialects:
   - rolv_code: 9899
     language_tag: wa-x-HIS09899

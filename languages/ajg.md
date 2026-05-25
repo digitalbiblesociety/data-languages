@@ -1,7 +1,6 @@
 ---
 iso: ajg
 name: Aja
-name_zh: 阿扎語
 autonym: Adja
 alt_names: [Adjaeg, Aja (Benin), "Aja, níxero-congolesa", Aja-gbe, Ajagbe, Hwè, "Lenga Aja, Benin"]
 population: 1131000
@@ -15,6 +14,11 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Kwa Volta-Congo > Gbe > Aja (Benin)"
 wikipedia_url: "https://en.wikipedia.org/wiki/Adja_language"
+translations:
+  - translation_iso: jpn
+    name: アジャ語 (ニジェール・コンゴ語族)
+  - translation_iso: zho
+    name: 阿扎語
 rolv_dialects:
   - rolv_code: 4726
     language_tag: ajg-x-HIS04726

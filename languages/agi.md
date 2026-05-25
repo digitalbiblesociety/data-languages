@@ -1,7 +1,6 @@
 ---
 iso: agi
 name: Agariya
-name_zh: 阿加利亚语
 autonym: Agaria
 alt_names: [Agharia, Agoria]
 population: 72000
@@ -15,6 +14,11 @@ glottolog_family_id: unat1236
 glottolog_family_name: Unattested
 glottolog_classification: "Unattested > Dravidian (Unattested) > Agariya"
 wikipedia_url: "https://en.wikipedia.org/wiki/Agariya_language"
+translations:
+  - translation_iso: jpn
+    name: アガリア語
+  - translation_iso: zho
+    name: 阿加利亚语
 rolv_dialects:
   - rolv_code: 3837
     language_tag: agi-x-HIS03837

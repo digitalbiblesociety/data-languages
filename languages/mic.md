@@ -1,7 +1,6 @@
 ---
 iso: mic
 name: "Mi'kmaq"
-name_zh: 米克馬克語
 autonym: "Mi'kmawi'simk"
 alt_names: [Język mikmak, "Mi'gmaq", "Mi'gmaw", "Mi'kmag", "Mi'kmaw", Micmac, Micmac (Canada), Micmac (Massachusetts), Micmac (Massachussets), Miigmao, Mikmaka lingvo, Mikmakeg, Mikmaq simi, Míkmaq language, Restigouche, Микмак, ミクマク語]
 population: 1500
@@ -16,6 +15,17 @@ glottolog_family_id: algi1248
 glottolog_family_name: Algic
 glottolog_classification: "Algic > Algonquian-Blackfoot > Algonquian > Eastern Algonquian > Maritimes-Southern New England Algonquian > Northern Eastern Algonquian > Micmacic > Mi'kmaq"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mi%27kmaq_language"
+translations:
+  - translation_iso: ara
+    name: الميكماكيونية
+  - translation_iso: hin
+    name: मिकमैक
+  - translation_iso: jpn
+    name: ミクマク語
+  - translation_iso: kor
+    name: 미크맥어
+  - translation_iso: zho
+    name: 米克馬克語
 rolv_dialects:
   - rolv_code: 14061
     language_tag: mic-x-HIS14061

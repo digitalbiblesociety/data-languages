@@ -1,8 +1,6 @@
 ---
 iso: ush
 name: Ushojo
-name_zh: 乌肖乔语
-name_zh_auto: true
 autonym: Ushuji
 alt_names: [Dardu, Usoyo]
 population: 500
@@ -16,5 +14,13 @@ glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Indo-Aryan > Middle-Modern Indo-Aryan > Eastern Dardic > Nuclear Eastern Dardic > Shinaic > Kohistanic Shina > Ushojo"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ushoji_language"
+translations:
+  - translation_iso: hin
+    name: उशोजी भाषा
+  - translation_iso: jpn
+    name: ウショジョ語
+  - translation_iso: zho
+    name: 乌肖乔语
+    auto: true
 ---
 Ushoji or Ushojo is an Indo-Aryan language spoken in Kohistan and Swat districts of the Khyber-Pakhtunkhwa province of Pakistan.

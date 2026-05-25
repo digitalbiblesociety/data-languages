@@ -1,7 +1,6 @@
 ---
 iso: nds
 name: Low German
-name_zh: 低地德语
 autonym: Low Saxon
 alt_names: [Baixo saxão, Bajo sajón, Bas-saxon, Basso sassone, German (Low), "German, Low", Język dolnosaksoński, Lingua baixo saxoa, Lingua saxonica, Modern Low German, Nedderdütsch, Neddersassisch, Nedersaksies, Nedersaksisch, Nether-Saxon, Neuniederdeutsch, Niedersaechsisch, Niedersächsisch, Plattdeutsch, Plattdütsch, Saxon (Low), "Saxon, Low", West Low German, "allemand, bas", bas allemand, bas saxon, "saxon, bas", Ала Саксонь, Долносаксонски јазик]
 population: 1000
@@ -16,6 +15,17 @@ glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Germanic > Northwest Germanic > West Germanic > North Sea Germanic > Altsächsisch > Middle-Modern Low German > Low German > Greater East Low German > Eastern Low German"
 wikipedia_url: "https://en.wikipedia.org/wiki/Low_German"
+translations:
+  - translation_iso: ara
+    name: الألمانية الدنيا
+  - translation_iso: hin
+    name: निचला जर्मन
+  - translation_iso: jpn
+    name: 低地ドイツ語
+  - translation_iso: kor
+    name: 저지 독일어
+  - translation_iso: zho
+    name: 低地德语
 rolv_dialects:
   - rolv_code: 2981
     language_tag: nds-x-HIS02981

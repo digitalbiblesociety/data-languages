@@ -1,7 +1,6 @@
 ---
 iso: lvi
 name: Lavi
-name_zh: 拉维语
 autonym: null
 alt_names: [Lavy, Swoeng]
 population: 500
@@ -15,5 +14,8 @@ glottolog_family_id: aust1305
 glottolog_family_name: Austroasiatic
 glottolog_classification: "Austroasiatic > Bahnaric > West Bahnaric > Lawi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Lavi_language"
+translations:
+  - translation_iso: zho
+    name: 拉维语
 ---
 Lavi is a Mon–Khmer language of the Bahnaric branch spoken in Sekong Province, Laos. Chazée (1999:95) estimates the population at 500, while the 2015 Laotian census places the Lavi population at 1,215.

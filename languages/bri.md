@@ -1,8 +1,6 @@
 ---
 iso: bri
 name: Mokpwe
-name_zh: 莫克普韦语
-name_zh_auto: true
 autonym: Mokpwe
 alt_names: [Bakpwe, Bakueri, Bakwedi, Bakwele, Bakweri, Bekwiri, Kwedi, Kweli, Kwili, Kwiri, Mokpe, Ujuwa, Vakweli, Vambeng]
 population: 20000
@@ -16,5 +14,11 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > Bantu A-B10-B20-B30 > Lundu-Balong (A.10) > Greater Manenguba > Bafaw-Balong-Manenguba > Bafawic-Bakweric > Bakweric > Mokpwe"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kpwe_language"
+translations:
+  - translation_iso: jpn
+    name: バクウェリ語
+  - translation_iso: zho
+    name: 莫克普韦语
+    auto: true
 ---
 Kpwe (Mokpwe) is a Bantu language of Cameroon. It is mutually intelligible with Kole, and probably with Mboko (Wumboko) as well.

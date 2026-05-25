@@ -1,7 +1,6 @@
 ---
 iso: vec
 name: Venetian
-name_zh: 威尼斯语
 autonym: " vèneto"
 alt_names: [Benátština, Idioma veneciano, Idioma venecián, Język wenecki, Lenga véneta, Lengoa Veneta, Lengua veneta, Limba venetă, Lingua Veneta, Lingua venetian, Lingua vènita, Lingua véneta, Luenga veneciana, Língua vêneta, Other Italian Lects, Velencei nyelv, Venecia lingvo, Veneciano, Venecijanski jezik, Venedikçe, Veneeshish, Venesiaans, Venet, Veneteg, Venetiaans, Venetiansk, Venetianska, Venetische Sprache, Veneto, Venetsian kieli, Venetų kalba, Veneziera, Venèt, Vènet, Vénitien, Vî-nî-sṳ̂-ngî, Łéngua vèneta, Современный венетский язык, ונטית, ۋېنىسىيە تىلى, ヴェネツィア語, 威尼斯語, 베네토어]
 population: 7852500
@@ -16,6 +15,17 @@ glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Italic > Latino-Faliscan > Latinic > Imperial Latin > Romance > Italo-Western Romance > Italo-Dalmatian > Dalmatian Romance > Venetian"
 wikipedia_url: "https://en.wikipedia.org/wiki/Venetian_language"
+translations:
+  - translation_iso: ara
+    name: الفينيسية
+  - translation_iso: hin
+    name: वेनीशियन
+  - translation_iso: jpn
+    name: ヴェネト語
+  - translation_iso: kor
+    name: 베네토어
+  - translation_iso: zho
+    name: 威尼斯语
 rolv_dialects:
   - rolv_code: 18041
     language_tag: vec-x-HIS18041

@@ -1,8 +1,6 @@
 ---
 iso: lhi
 name: Lahu Shi
-name_zh: 拉胡施语
-name_zh_auto: true
 autonym: Ladhof
 alt_names: [Kui, Kur, Kwi, Lahu, Lahu Xi, LahuShi, Lâhū-ši, Shi, Yellow Lahu]
 population: 196200
@@ -15,6 +13,10 @@ glottocode: lahu1252
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Burmo-Qiangic > Lolo-Burmese > Loloish > Lahoid > Lahu Shi"
+translations:
+  - translation_iso: zho
+    name: 拉胡施语
+    auto: true
 rolv_dialects:
   - rolv_code: 565
     language_tag: lhi-x-HIS00565

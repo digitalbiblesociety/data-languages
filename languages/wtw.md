@@ -1,8 +1,6 @@
 ---
 iso: wtw
 name: Wotu
-name_zh: 沃图语
-name_zh_auto: true
 autonym: Wadu
 population: 5000
 country_id: ID
@@ -15,5 +13,9 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Celebic > Kaili-Wolio > Southern Kaili-Wolio > Wotu"
 wikipedia_url: "https://en.wikipedia.org/wiki/Wotu_language"
+translations:
+  - translation_iso: zho
+    name: 沃图语
+    auto: true
 ---
 Wotu is an endangered Austronesian language of South Sulawesi, Indonesia. It belongs to the Wotu–Wolio branch of the Celebic subgroup.

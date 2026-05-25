@@ -1,8 +1,6 @@
 ---
 iso: xsn
 name: Sanga (Nigeria)
-name_zh: 尼日利亚桑加语
-name_zh_auto: true
 autonym: Isanga
 alt_names: [Asanga, Sanga]
 population: 20100
@@ -16,6 +14,12 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Kainji > Central Kainji > Basa-Eastern Kainji > Eastern Kainji > Jos > Northern Jos > North-Central Jos > Chokobo-Lemoro-Sanga > Lemoro-Sanga > Sanga (Nigeria)"
 wikipedia_url: "https://en.wikipedia.org/wiki/Sanga_language_(Nigeria)"
+translations:
+  - translation_iso: jpn
+    name: サンガ語
+  - translation_iso: zho
+    name: 尼日利亚桑加语
+    auto: true
 rolv_dialects:
   - rolv_code: 16278
     language_tag: xsn-x-HIS16278

@@ -1,8 +1,6 @@
 ---
 iso: lcs
 name: "Lisabata-Nuniali"
-name_zh: 利萨巴塔-努尼亚利语
-name_zh_auto: true
 autonym: Lisabata
 alt_names: [Noniali, Nuniali]
 population: 1830
@@ -16,6 +14,10 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Nunusaku > Three Rivers > Amalumute > Northwest Seram > Lisabata-Nuniali"
 wikipedia_url: "https://en.wikipedia.org/wiki/Lisabata_language"
+translations:
+  - translation_iso: zho
+    name: 利萨巴塔-努尼亚利语
+    auto: true
 rolv_dialects:
   - rolv_code: 12979
     language_tag: lcs-x-HIS12979

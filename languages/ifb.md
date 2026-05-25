@@ -1,8 +1,6 @@
 ---
 iso: ifb
 name: Batad Ifugao
-name_zh: 巴塔德伊富高语
-name_zh_auto: true
 autonym: Ayangan Ifugao
 alt_names: [Batad, Ifugao, Ifugao (Batad), Ifugao language, "Ifugao, Ayangan", "Ifugao, Batad", Ifugu]
 population: 10100
@@ -15,6 +13,10 @@ glottocode: bata1298
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Northern Luzon > Meso-Cordilleran > South-Central Cordilleran > Central Cordilleran > Nuclear Cordilleran > Ifugaw > Batad-Mayoyao > Batad Ifugao"
+translations:
+  - translation_iso: zho
+    name: 巴塔德伊富高语
+    auto: true
 rolv_dialects:
   - rolv_code: 10799
     language_tag: ifb-x-HIS10799

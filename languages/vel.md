@@ -1,8 +1,6 @@
 ---
 iso: vel
 name: Veluws
-name_zh: 韦卢斯语
-name_zh_auto: true
 autonym: Veluws
 population: 175000
 country_id: NL
@@ -11,6 +9,10 @@ status_id: "5"
 latitude: 52.27016
 longitude: 5.94408
 wikipedia_url: "https://en.wikipedia.org/wiki/Veluws_dialect"
+translations:
+  - translation_iso: zho
+    name: 韦卢斯语
+    auto: true
 rolv_dialects:
   - rolv_code: 18031
     language_tag: vel-x-HIS18031

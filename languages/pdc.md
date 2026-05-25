@@ -1,7 +1,6 @@
 ---
 iso: pdc
 name: Pennsylvania German
-name_zh: 賓夕法尼亞德語
 autonym: Pennsylvania Dutch
 alt_names: [Alamaneg Pennsylvania, Alemany de Pennsilvània, Alemán de Pensilvania, Alemão da Pensilvânia, "German, Pennsylvania", Germana din Pennsylvania, Język pensylwański, Lengua tedesca da Pennsylvania, Lingua Deitsch, Pennsilfaanisch, Pennsilfaanisch Deitsch, Pennsilvaniese Duits, Pennsylvania Deitsh, Pennsylvania-Duits, Pennsylvaniadeutsch, Pennsylvaniadüütsch, Pennsylvaniako aleman, Pennsylvaniansaksa, Pennsylvaniatysk, Pennsylvaniatyska, Pennsylvanish, Pennsylvaynek, Pensilvangermana dialekto, Pensilvanijski njemački, Pensilvanska nemščina, Pensilvanya Almancası, Pensylvánska nemčina, Pensylvánská němčina, Tedesco della Pennsylvania, Tudesch dela Pennsylvania, Пенсильванско-немецкий диалект, Пенсильвансько-німецький діалект, پېنسىلۋانىيە نېمىس تىلى, ፔንስልቫኒያ ጀርመንኛ, ペンシルベニアドイツ語, 賓夕法尼亞德語, 펜실베이니아 독일어]
 population: 148000
@@ -16,6 +15,15 @@ glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Germanic > Northwest Germanic > West Germanic > High German > Middle German > West Middle German > Rhenish Franconian > Palatinate > Pennsylvania German"
 wikipedia_url: "https://en.wikipedia.org/wiki/Pennsylvania_Dutch_language"
+translations:
+  - translation_iso: ara
+    name: الألمانية البنسلفانية
+  - translation_iso: jpn
+    name: ペンシルベニアドイツ語
+  - translation_iso: kor
+    name: 펜실베이니아 독일어
+  - translation_iso: zho
+    name: 賓夕法尼亞德語
 rolv_dialects:
   - rolv_code: 3367
     language_tag: pdc-x-HIS03367

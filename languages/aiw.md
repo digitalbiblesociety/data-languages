@@ -1,8 +1,6 @@
 ---
 iso: aiw
 name: Aari
-name_zh: 阿里语
-name_zh_auto: true
 autonym: Aarai
 alt_names: [Aari jezik, Aarin kieli, Ara, Ari, Ari-Galila, Aro, Bako, Boko, Idioma arí, Lingua aari, Luenga aari, لغة آري]
 population: 285000
@@ -16,6 +14,14 @@ glottolog_family_id: sout2845
 glottolog_family_name: South Omotic
 glottolog_classification: "South Omotic > AHK > Aari-Gayil > Aari"
 wikipedia_url: "https://en.wikipedia.org/wiki/Aari_language"
+translations:
+  - translation_iso: ara
+    name: لغة آري
+  - translation_iso: kor
+    name: 아리어
+  - translation_iso: zho
+    name: 阿里语
+    auto: true
 rolv_dialects:
   - rolv_code: 6600
     language_tag: aiw-x-HIS06600

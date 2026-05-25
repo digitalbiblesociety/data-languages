@@ -1,8 +1,6 @@
 ---
 iso: wub
 name: Wunambal
-name_zh: 乌纳姆巴尔语
-name_zh_auto: true
 autonym: Jeidji
 alt_names: [Jeithi, Northern Language, Unambal, Woonambal, Wumnabal, Wunambul, Wunambullu, Wunumabal, Yeidji, Yeithi]
 population: null
@@ -16,6 +14,10 @@ glottolog_family_id: worr1236
 glottolog_family_name: Worrorran
 glottolog_classification: "Worrorran > Northern Worrorran > Wunambal"
 wikipedia_url: "https://en.wikipedia.org/wiki/Wunambal_language"
+translations:
+  - translation_iso: zho
+    name: 乌纳姆巴尔语
+    auto: true
 rolv_dialects:
   - rolv_code: 18337
     language_tag: wub-x-HIS18337

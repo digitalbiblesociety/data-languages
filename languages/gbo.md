@@ -1,8 +1,6 @@
 ---
 iso: gbo
 name: Northern Grebo
-name_zh: 北格雷博语
-name_zh_auto: true
 autonym: Kréébo
 alt_names: [Grebo, "Grebo, Northern"]
 population: 150000
@@ -15,6 +13,10 @@ glottocode: nort2810
 glottolog_family_id: krua1234
 glottolog_family_name: Kru
 glottolog_classification: "Kru > Greater Western Kru > Western Kru > Grebo-Aizi > Grebo > Liberian Grebo > North-Central Liberian Grebo > Northern Grebo"
+translations:
+  - translation_iso: zho
+    name: 北格雷博语
+    auto: true
 rolv_dialects:
   - rolv_code: 783
     language_tag: gbo-x-HIS00783

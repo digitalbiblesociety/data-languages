@@ -1,8 +1,6 @@
 ---
 iso: bds
 name: Burunge
-name_zh: 布伦格语
-name_zh_auto: true
 autonym: Bulunge
 alt_names: [Burunge hizkuntza, Burunge jezik, Burungi, Burunguí, Lenga Burunge, Mbulugwe, Mbulunge]
 population: 13000
@@ -16,5 +14,9 @@ glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Cushitic > South Cushitic > Greater West Rift South Cushitic > West Rift South Cushitic > Burunge"
 wikipedia_url: "https://en.wikipedia.org/wiki/Burunge_language"
+translations:
+  - translation_iso: zho
+    name: 布伦格语
+    auto: true
 ---
 Burunge is an Afro-Asiatic language spoken in Tanzania in the Dodoma Region, by the Burunge people, a small community of about 28,000 native speakers that live in the Northeastern region of Tanzania. The Burunge belong to a cluster of Tanzanian groups known as Southern Cushites; Burunge is classified as part of the South Cushitic language family. The Burunge live in close proximity to speakers of other languages such as the Rangi, Gogo and Sandawe. Ultimately, their language and culture is endangered by a dwindling number of speakers and absorption by larger tribes.

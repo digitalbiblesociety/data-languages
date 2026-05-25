@@ -1,7 +1,6 @@
 ---
 iso: tam
 name: Tamil
-name_zh: 泰米尔语
 autonym: தமிழ்
 alt_names: [Bahasa Tamil, Basa Tamil, Damulian, Gjuha tamile, Idioma tamil, Język tamilski, Kitamil, Lengua tamil, Limba tamilă, Lingua Tamulica, Lingua tamil, Língua tâmil, Tamal, Tamalsan, Tambul, Tamil (Spoken), Tamil bhasa, Tamil nyelv, Tamil simi, Tamil-gí, Tamila lingvo, Tamilce, Tamileg, Tamilek, Tamilera, Tamili, Tamili keel, Tamilikani chhib, Tamilsk, Tamilski jezik, Tamilu valoda, Tamilština, Tamilų kalba, Tamoul, Tamílska, Tamėlu kalba, Tinamil, Tiếng Tamil, Tàmil, Zimanê tamîlî, Èdè Tàmil, Тамилски език, Тамилски јазик, Тамилски језик, Тамильский язык, Тамільская мова, Тамільська мова, טמילית, تامل, تامىل تىلى, زبان تامیل, لغة تاميلية, तमिल भाषा, तमिळ भाषा, तमिळ्‌, তামিল ভাষা, తమిళ భాష, ತಮಿಳು, തമിഴ്, ภาษาทมิฬ, ტამილური ენა, タミル語, 泰米尔语, 타밀어]
 population: 75000000
@@ -16,6 +15,17 @@ glottolog_family_id: drav1251
 glottolog_family_name: Dravidian
 glottolog_classification: "Dravidian > South Dravidian > South Dravidian I > Tamil-Kannada > Tamil-Kota > Tamil-Toda > Tamil-Irula > Tamil-Kodagu > Tamil-Malayalam > Tamiloid > Tamil-Paliyan > Tamil"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tamil_language"
+translations:
+  - translation_iso: ara
+    name: التملية
+  - translation_iso: hin
+    name: तमिल
+  - translation_iso: jpn
+    name: タミル語
+  - translation_iso: kor
+    name: 타밀어
+  - translation_iso: zho
+    name: 泰米尔语
 rolv_dialects:
   - rolv_code: 17153
     language_tag: ta-x-HIS17153

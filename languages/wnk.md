@@ -1,8 +1,6 @@
 ---
 iso: wnk
 name: Wanukaka
-name_zh: 瓦努卡卡语
-name_zh_auto: true
 autonym: Wanokaka
 population: 10000
 country_id: ID
@@ -15,6 +13,12 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Bima-Lembata > Sumba-Hawu > Sumba > Central-East Sumbanese > Central Sumbanese > Wanukaka"
 wikipedia_url: "https://en.wikipedia.org/wiki/Wanukaka_language"
+translations:
+  - translation_iso: hin
+    name: वानुकाका भाषा
+  - translation_iso: zho
+    name: 瓦努卡卡语
+    auto: true
 rolv_dialects:
   - rolv_code: 18185
     language_tag: wnk-x-HIS18185

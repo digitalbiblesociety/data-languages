@@ -1,8 +1,6 @@
 ---
 iso: jku
 name: Labir
-name_zh: 拉比尔语
-name_zh_auto: true
 autonym: Jaku
 alt_names: [Jakanci, Jakun]
 population: 13000
@@ -16,5 +14,9 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Jarawan > Nigerian Jarawan > Jaku-Gubi > Labir"
 wikipedia_url: "https://en.wikipedia.org/wiki/Labir_language"
+translations:
+  - translation_iso: zho
+    name: 拉比尔语
+    auto: true
 ---
 Labir, or Jaku, is one of the Jarawan languages of Nigeria, spoken in Bauchi State.

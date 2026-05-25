@@ -1,8 +1,6 @@
 ---
 iso: tik
 name: Tikar
-name_zh: 蒂卡尔语
-name_zh_auto: true
 autonym: Ndob
 alt_names: [Ndome, Tikali, Tikar-East, Tikari, Tingkala]
 population: 110000
@@ -16,6 +14,10 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Northern Bantoid > Tikar"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tikar_language"
+translations:
+  - translation_iso: zho
+    name: 蒂卡尔语
+    auto: true
 rolv_dialects:
   - rolv_code: 6182
     language_tag: tik-x-HIS06182

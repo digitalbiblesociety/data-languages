@@ -1,8 +1,6 @@
 ---
 iso: yir
 name: North Awyu
-name_zh: 北阿乌语
-name_zh_auto: true
 autonym: Awyu
 alt_names: ["Awyu, North", Djair, Dyair, Jair, Yair]
 population: 1500
@@ -15,4 +13,8 @@ glottocode: nort2918
 glottolog_family_id: nucl1709
 glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Asmat-Awyu-Ok > Awyu-Ok > Greater Awyu > Awyu-Dumut > Awyu > North Awyu"
+translations:
+  - translation_iso: zho
+    name: 北阿乌语
+    auto: true
 ---

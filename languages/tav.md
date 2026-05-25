@@ -1,8 +1,6 @@
 ---
 iso: tav
 name: Tatuyo
-name_zh: 塔图约语
-name_zh_auto: true
 autonym: Wa’ikhana
 alt_names: [Carapana (Brésil), Carapana (Colombia), Carapana (Colombie), Carapana-Tapuya, Carapano, Juna, Karapano, Karapaná, Mextã, Mochda, Moxdoa, Oa, Pamoa, Tatu-tapuya, Tatutapuyo]
 population: 330
@@ -16,5 +14,9 @@ glottolog_family_id: tuca1253
 glottolog_family_name: Tucanoan
 glottolog_classification: "Tucanoan > Eastern Tucanoan > Eastern Eastern Tucanoan > Eastern Eastern Tucanoan I > Bara-Tatuyo > Tatuyo"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tatuyo_language"
+translations:
+  - translation_iso: zho
+    name: 塔图约语
+    auto: true
 ---
 Tatuyo is a Tucanoan language of Colombia. Lexically, its closest relative is Carapano: the two languages' lexicons are 96.3% cognate.

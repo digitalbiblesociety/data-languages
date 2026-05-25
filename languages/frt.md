@@ -1,8 +1,6 @@
 ---
 iso: frt
 name: Fortsenal
-name_zh: 福尔茨纳尔语
-name_zh_auto: true
 autonym: Fortsenal
 alt_names: [Idioma de kiai, Kiai, Kiai language, Vanuatu, Киаи]
 population: 450
@@ -16,5 +14,9 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > North and Central Vanuatu > Northern Vanuatu > Espiritu Santo > West Santo > Kiai"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kiai_language"
+translations:
+  - translation_iso: zho
+    name: 福尔茨纳尔语
+    auto: true
 ---
 Kiai is an Oceanic language spoken by about 450 people in the central highlands of Espiritu Santo island, in Vanuatu.

@@ -1,8 +1,6 @@
 ---
 iso: ayb
 name: Ayizo Gbe
-name_zh: 艾伊佐格贝语
-name_zh_auto: true
 autonym: Ayizo
 alt_names: [Ayizo-Gbe, Ayzo, "Gbe, Ayizo"]
 population: 476000
@@ -16,6 +14,12 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Kwa Volta-Congo > Gbe > Eastern Gbe > Western Phla-Phera > Ayizo Gbe"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ayizo_language"
+translations:
+  - translation_iso: jpn
+    name: アイゾ語
+  - translation_iso: zho
+    name: 艾伊佐格贝语
+    auto: true
 rolv_dialects:
   - rolv_code: 7410
     language_tag: ayb-x-HIS07410

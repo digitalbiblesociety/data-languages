@@ -1,8 +1,6 @@
 ---
 iso: nqq
 name: "Kyan-Karyaw Naga"
-name_zh: 克扬-卡里亚纳加语
-name_zh_auto: true
 autonym: Tase
 alt_names: ["Naga, Kyan-Karyaw"]
 population: null
@@ -15,6 +13,10 @@ glottocode: chen1271
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Brahmaputran > Patkaian > South Patkaian > Southwestern Patkaian > Wanchoic > Chen Naga"
+translations:
+  - translation_iso: zho
+    name: 克扬-卡里亚纳加语
+    auto: true
 rolv_dialects:
   - rolv_code: 25284
     language_tag: nqq-x-HIS25284

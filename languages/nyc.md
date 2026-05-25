@@ -1,8 +1,6 @@
 ---
 iso: nyc
 name: "Nyanga-li"
-name_zh: 尼亚加利语
-name_zh_auto: true
 autonym: "Linyanga-le"
 alt_names: [Nyanga-li language]
 population: 69000
@@ -16,6 +14,10 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > Central-Western Bantu > North Zaire River > Rivers Bantu > Ngiri > Ngiri Terrien > Ngombe-Ababuan > Ababuan > Old Bomokandian > Ngbele-Ngenda > Extreme North Vestigial Suffixes Bantu > Nyanga-li"
 wikipedia_url: "https://en.wikipedia.org/wiki/Nyanga-li_language"
+translations:
+  - translation_iso: zho
+    name: 尼亚加利语
+    auto: true
 rolv_dialects:
   - rolv_code: 10099
     language_tag: nyc-x-HIS10099

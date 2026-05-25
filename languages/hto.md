@@ -1,8 +1,6 @@
 ---
 iso: hto
 name: Minica Huitoto
-name_zh: 米尼卡惠托托语
-name_zh_auto: true
 autonym: Mɨnɨka
 alt_names: ["\"huitoto (Colombia, Perú)\"", "\"huitoto (Colombie, Pérou)\"", Huitoto, Huitoto (Brésil), Huitoto (Minica), Huitoto Meneca, "Huitoto, Minica", Meneca, Meneka, Meneka-Witoto, Minica, Mɨnɨca, Uitoto, Witoto, Witoto (Minica), Witoto Meneca, Witoto minica]
 population: 6800
@@ -16,5 +14,9 @@ glottolog_family_id: huit1251
 glottolog_family_name: Huitotoan
 glottolog_classification: "Huitotoan > Nuclear Witotoan > Minica-Murui > Minica Huitoto"
 wikipedia_url: "https://en.wikipedia.org/wiki/Minica_Huitoto_language"
+translations:
+  - translation_iso: zho
+    name: 米尼卡惠托托语
+    auto: true
 ---
 Minica Huitoto is one of three indigenous American Huitoto languages of the Witotoan family spoken by a few thousand speakers in western South America.

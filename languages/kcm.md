@@ -1,8 +1,6 @@
 ---
 iso: kcm
 name: Gula (Central African Republic)
-name_zh: 古拉语（中非共和国）
-name_zh_auto: true
 autonym: Tar Gula
 alt_names: [Goula, Gula, Gula du Mamoun, Kara, Kara de Soudan, Kara of Sudan, Yamegi]
 population: 13000
@@ -16,6 +14,10 @@ glottolog_family_id: cent2225
 glottolog_family_name: Central Sudanic
 glottolog_classification: "Central Sudanic > Sara-Bongo-Bagirmi > SBB Occidental > Nuclear SBB Occidental > Fer-Gula > Gula (Central African Republic)"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tar_Gula_language"
+translations:
+  - translation_iso: zho
+    name: 古拉语（中非共和国）
+    auto: true
 rolv_dialects:
   - rolv_code: 10413
     language_tag: kcm-x-HIS10413

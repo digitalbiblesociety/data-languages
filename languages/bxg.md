@@ -1,8 +1,6 @@
 ---
 iso: bxg
 name: Bangala
-name_zh: 邦加拉语
-name_zh_auto: true
 autonym: Ngala
 population: null
 country_id: CD
@@ -15,6 +13,12 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > Central-Western Bantu > North Zaire River > Rivers Bantu > Ngiri > Ngiri Riverain Ubangi > Ngiri Riverain Ubangi-Ripuaire > Bobangic > Bobangic Riverain > Bobangi-Bangala-Lingala > Lingala-Bangala > Bangala"
 wikipedia_url: "https://en.wikipedia.org/wiki/Bangala_language"
+translations:
+  - translation_iso: jpn
+    name: バンガラ語
+  - translation_iso: zho
+    name: 邦加拉语
+    auto: true
 rolv_dialects:
   - rolv_code: 4548
     language_tag: bn-CD-x-HIS04548

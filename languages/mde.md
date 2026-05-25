@@ -1,7 +1,6 @@
 ---
 iso: mde
 name: Maba (Chad)
-name_zh: 马坝语
 autonym: Borgu
 alt_names: [Bura Mabang, Bura-Mabang, Kana Mabang, Maba, Mabaa, Mabak, Mabang, Ouaddai, Ouaddaien, Wadai, Waddayen]
 population: 567000
@@ -15,6 +14,15 @@ glottolog_family_id: maba1274
 glottolog_family_name: Maban
 glottolog_classification: "Maban > Mabang > Maba-Masalit > Macro-Maba > Maba (Chad)"
 wikipedia_url: "https://en.wikipedia.org/wiki/Maba_language"
+translations:
+  - translation_iso: ara
+    name: مبا
+  - translation_iso: jpn
+    name: マバ語
+  - translation_iso: kor
+    name: 마바어
+  - translation_iso: zho
+    name: 马坝语
 rolv_dialects:
   - rolv_code: 30106
     language_tag: mde-x-HIS30106

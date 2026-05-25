@@ -1,8 +1,6 @@
 ---
 iso: maa
 name: San Jerónimo Tecóatl Mazatec
-name_zh: 圣杰罗尼莫特科特尔马萨特克语
-name_zh_auto: true
 autonym: (San Jerónimo Tecóatl)
 alt_names: [Huautla-Mazatlán Masateko, Masateko, Mazatec, "Mazatec, San Jerónimo Tecóatl", Mazateco, Mazateco de Mazatlán, Mazateco de San Antonio Eloxochitlán, Mazateco de San Jerónimo Tecóatl, Mazateco de Tecóatl, Mazateco de la sierra, "Mazatèque d'Eloxochitlán", Mazatèque de Huehuetlán, Mazatèque de Mazatlán, Mazatèque de Tecoatl, Mazatèque des hautes terres, Northern Highland Mazatec, San Jeronimo, San Jeronimo Tecoatl Mazatec, Tecoatl]
 population: 18900
@@ -16,6 +14,10 @@ glottolog_family_id: otom1299
 glottolog_family_name: Otomanguean
 glottolog_classification: "Otomanguean > Eastern Otomanguean > Popoloca-Zapotecan > Popolocan-Mazatecan > Mazatecan > Northwest Alta Mazatec > San Jerónimo Tecóatl Mazatec"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tec%C3%B3atl_Mazatec"
+translations:
+  - translation_iso: zho
+    name: 圣杰罗尼莫特科特尔马萨特克语
+    auto: true
 rolv_dialects:
   - rolv_code: 4675
     language_tag: maa-x-HIS04675

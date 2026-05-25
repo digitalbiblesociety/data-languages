@@ -1,8 +1,6 @@
 ---
 iso: skz
 name: Sekar
-name_zh: 塞卡尔语
-name_zh_auto: true
 autonym: Seka
 population: 450
 country_id: ID
@@ -15,5 +13,9 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Tanimbar-Bomberai > Nuclear Tanimbar-Bomberai > Yamdena-Onin > Oninic > Sekar"
 wikipedia_url: "https://en.wikipedia.org/wiki/Sekar_language"
+translations:
+  - translation_iso: zho
+    name: 塞卡尔语
+    auto: true
 ---
 Sekar (Seka) is a dialect of Sekar Onim language, an Austronesian language of the Onin Peninsula in Bomberai, West Papua.

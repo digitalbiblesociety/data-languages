@@ -1,7 +1,6 @@
 ---
 iso: dlm
 name: Dalmatian
-name_zh: 达尔马提亚语
 autonym: null
 population: null
 country_id: HR
@@ -14,5 +13,14 @@ glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Italic > Latino-Faliscan > Latinic > Imperial Latin > Romance > Italo-Western Romance > Italo-Dalmatian > Dalmatian Romance > Dalmatian"
 wikipedia_url: "https://en.wikipedia.org/wiki/Dalmatian_language"
+translations:
+  - translation_iso: ara
+    name: الدلماتية
+  - translation_iso: jpn
+    name: ダルマチア語
+  - translation_iso: kor
+    name: 달마티아어
+  - translation_iso: zho
+    name: 达尔马提亚语
 ---
 Dalmatian or Dalmatic is a group of now-extinct Romance language varieties that developed along the coast of Dalmatia, in the area of modern-day Croatia. Over the centuries they were increasingly influenced, and then supplanted, by Croatian and Venetian.

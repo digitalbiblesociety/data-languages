@@ -1,8 +1,6 @@
 ---
 iso: jit
 name: Jita
-name_zh: 吉塔语
-name_zh_auto: true
 autonym: Ecijita
 alt_names: [Echijita]
 population: 365000
@@ -16,5 +14,9 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > East Bantu > Northeast Savanna Bantu > Great Lakes Bantu > East Nyanza > Suguti > Jita"
 wikipedia_url: "https://en.wikipedia.org/wiki/Jita_language"
+translations:
+  - translation_iso: zho
+    name: 吉塔语
+    auto: true
 ---
 Jita is a Bantu language of Tanzania, spoken on the southeastern shore of Lake Victoria/Nyanza and on the island of Ukerewe.

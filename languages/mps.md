@@ -1,8 +1,6 @@
 ---
 iso: mps
 name: Dadibi
-name_zh: 达迪比语
-name_zh_auto: true
 autonym: null
 alt_names: ["Dadibi (Daribi, Mikaru)", Daribi, Karimui, Mikaru]
 population: 12580
@@ -16,6 +14,12 @@ glottolog_family_id: tebe1251
 glottolog_family_name: Teberan
 glottolog_classification: "Teberan > Dadibi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Dadibi_language"
+translations:
+  - translation_iso: jpn
+    name: ダリビ語
+  - translation_iso: zho
+    name: 达迪比语
+    auto: true
 rolv_dialects:
   - rolv_code: 4496
     language_tag: mps-x-HIS04496

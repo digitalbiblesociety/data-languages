@@ -1,7 +1,6 @@
 ---
 iso: kut
 name: Kutenai
-name_zh: 库特奈语
 autonym: Kootenai
 alt_names: [Kootenay, Koutenaieg, Ksanka, Ktunaxa, Kutenái, Lengua kootenai, Кутенай]
 population: 100
@@ -13,6 +12,17 @@ longitude: -115.064765
 scripts: [Latn]
 glottocode: kute1249
 wikipedia_url: "https://en.wikipedia.org/wiki/Kutenai_language"
+translations:
+  - translation_iso: ara
+    name: الكتيناي
+  - translation_iso: hin
+    name: क्यूतनाई
+  - translation_iso: jpn
+    name: クテナイ語
+  - translation_iso: kor
+    name: 쿠테나이어
+  - translation_iso: zho
+    name: 库特奈语
 rolv_dialects:
   - rolv_code: 25697
     language_tag: kut-x-HIS25697

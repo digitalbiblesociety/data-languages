@@ -1,8 +1,6 @@
 ---
 iso: ikz
 name: Ikizu
-name_zh: 伊基祖语
-name_zh_auto: true
 autonym: Ikikizu
 alt_names: [Ikikizo, Kiikizu]
 population: 52900
@@ -16,6 +14,10 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > East Bantu > Northeast Savanna Bantu > Great Lakes Bantu > East Nyanza > Nyanza Mara > South Mara > Southwest Mara > Ikizu"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ikizu_language"
+translations:
+  - translation_iso: zho
+    name: 伊基祖语
+    auto: true
 rolv_dialects:
   - rolv_code: 16776
     language_tag: ikz-x-HIS16776

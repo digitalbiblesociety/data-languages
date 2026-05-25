@@ -1,7 +1,6 @@
 ---
 iso: hax
 name: Southern Haida
-name_zh: 南海达语
 autonym: X̱aat Kíl
 alt_names: ["Haida, Southern"]
 population: 270
@@ -14,6 +13,17 @@ glottocode: sout2956
 glottolog_family_id: haid1248
 glottolog_family_name: Haida
 glottolog_classification: "Haida > Southern Haida"
+translations:
+  - translation_iso: ara
+    name: هايدا الجنوبية
+  - translation_iso: hin
+    name: दक्षिणी हाइदा
+  - translation_iso: jpn
+    name: 南部ハイダ語
+  - translation_iso: kor
+    name: 남부 하이다어
+  - translation_iso: zho
+    name: 南海达语
 rolv_dialects:
   - rolv_code: 25688
     language_tag: hax-x-HIS25688

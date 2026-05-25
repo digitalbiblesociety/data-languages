@@ -1,7 +1,6 @@
 ---
 iso: bom
 name: Berom
-name_zh: 比罗姆语
 autonym: Birom
 alt_names: ["\"Shosho\"", Aboro, Afango, Beromeg, Berons, Berum, Boro, Boro-Aboro, Cen Berom, Chenberom, Gbang, Kibbo, Kibbun, Kibo, Kibyen]
 population: 1250000
@@ -15,6 +14,11 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Benue-Congo Plateau > Beromic > Iten-Cara-Berom > Cara-Berom > Berom"
 wikipedia_url: "https://en.wikipedia.org/wiki/Berom_language"
+translations:
+  - translation_iso: jpn
+    name: ビロム語
+  - translation_iso: zho
+    name: 比罗姆语
 rolv_dialects:
   - rolv_code: 2533
     language_tag: bom-x-HIS02533

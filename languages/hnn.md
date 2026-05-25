@@ -1,7 +1,6 @@
 ---
 iso: hnn
 name: Hanunoo
-name_zh: 哈努诺语
 autonym: "Hanunó'o"
 alt_names: [Hanonoo, Hanunóo]
 population: 25100
@@ -16,6 +15,11 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Greater Central Philippine > South Mangyan > Hanunoo"
 wikipedia_url: "https://en.wikipedia.org/wiki/Hanunoo_language"
+translations:
+  - translation_iso: jpn
+    name: ハヌノオ語
+  - translation_iso: zho
+    name: 哈努诺语
 rolv_dialects:
   - rolv_code: 10558
     language_tag: hnn-x-HIS10558

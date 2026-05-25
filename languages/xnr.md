@@ -1,7 +1,6 @@
 ---
 iso: xnr
 name: Kangri
-name_zh: 坎格里语
 autonym: कांगड़ी
 alt_names: [Kangra-Dogri, Pahari, Pahari Kangri]
 population: 1120000
@@ -16,6 +15,17 @@ glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Indo-Aryan > Middle-Modern Indo-Aryan > Eastern Dardic > Himachali > Kangric-Chamealic-Bhattiyali > Kangri-Dogri > Kangri"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kangri_language"
+translations:
+  - translation_iso: ara
+    name: كانغري
+  - translation_iso: hin
+    name: कांगड़ी भाषा
+  - translation_iso: jpn
+    name: カーングリー語
+  - translation_iso: kor
+    name: 캉그리어
+  - translation_iso: zho
+    name: 坎格里语
 rolv_dialects:
   - rolv_code: 25835
     language_tag: xnr-x-HIS25835

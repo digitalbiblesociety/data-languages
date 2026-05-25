@@ -1,14 +1,16 @@
 ---
 iso: gwm
 name: Awngthim
-name_zh: 奥恩蒂姆语
-name_zh_auto: true
 autonym: Angutimi
 population: null
 country_id: AU
 country_name: Australia
 status_id: "10"
 wikipedia_url: "https://en.wikipedia.org/wiki/Awngthim_language"
+translations:
+  - translation_iso: zho
+    name: 奥恩蒂姆语
+    auto: true
 rolv_dialects:
   - rolv_code: 25059
     language_tag: gwm-x-HIS25059

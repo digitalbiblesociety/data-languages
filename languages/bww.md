@@ -1,8 +1,6 @@
 ---
 iso: bww
 name: Bwa
-name_zh: 布瓦语
-name_zh_auto: true
 autonym: "Benge-Baati"
 alt_names: [Boa, Boua, Bua, Kibua, Kibwa, Libenge, Libua, Libwali]
 population: 200000
@@ -16,6 +14,12 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > Central-Western Bantu > North Zaire River > Rivers Bantu > Ngiri > Ngiri Terrien > Ngombe-Ababuan > Ababuan > Old Bomokandian > Middle Bomokandian > Late Bomokandian > Pagabeteic > Bwa"
 wikipedia_url: "https://en.wikipedia.org/wiki/Bwa_language"
+translations:
+  - translation_iso: jpn
+    name: Bwa語
+  - translation_iso: zho
+    name: 布瓦语
+    auto: true
 rolv_dialects:
   - rolv_code: 1352
     language_tag: bww-x-HIS01352

@@ -1,7 +1,6 @@
 ---
 iso: mvp
 name: Duri
-name_zh: 杜里语
 autonym: Massenrempulu
 alt_names: [Masenrempulu, Nordost-Celebes]
 population: 123000
@@ -15,5 +14,8 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Greater South Sulawesi > South Sulawesi > Northern South Sulawesi > Toraja-Duri > Duri"
 wikipedia_url: "https://en.wikipedia.org/wiki/Duri_language"
+translations:
+  - translation_iso: zho
+    name: 杜里语
 ---
 Duri is an Austronesian language of South Sulawesi, Indonesia. It is the prestige variety of the Toraja–Duri languages.

@@ -1,8 +1,6 @@
 ---
 iso: tiq
 name: Tiéfo
-name_zh: 蒂埃福语
-name_zh_auto: true
 autonym: "cɛ̀fɔ́-mìì"
 alt_names: [Foro, Kiefo, Tiefo, Tyefo, Tyeforo]
 population: 1000
@@ -16,6 +14,10 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Gur > Tiefoic > Tiefo-Daramandugu"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tiefo_language"
+translations:
+  - translation_iso: zho
+    name: 蒂埃福语
+    auto: true
 rolv_dialects:
   - rolv_code: 17482
     language_tag: tiq-x-HIS17482

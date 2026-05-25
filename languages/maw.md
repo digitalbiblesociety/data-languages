@@ -1,8 +1,6 @@
 ---
 iso: maw
 name: Mampruli
-name_zh: 曼普鲁利语
-name_zh_auto: true
 autonym: Mamprusi
 alt_names: [Mampelle, Mamprule, Mamprussi, Manpelle, Ngmamperli, Ŋmampəlli]
 population: 326000
@@ -16,6 +14,10 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Gur > Central Gur > Northern Central Gur > Bwamu-Oti-Volta > Oti-Volta > Nuclear Oti-Volta > Gurma-Yom-Oti-Volta Occidental > Oti-Volta Occidental > Nuclear Oti-Volta Occidental > Southeast Western Oti-Volta > Mampruli-Dagbani > Mampruli"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mampruli_language"
+translations:
+  - translation_iso: zho
+    name: 曼普鲁利语
+    auto: true
 rolv_dialects:
   - rolv_code: 13551
     language_tag: maw-x-HIS13551

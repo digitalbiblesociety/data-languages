@@ -1,8 +1,6 @@
 ---
 iso: bgo
 name: Baga Koga
-name_zh: 巴加科加语
-name_zh_auto: true
 autonym: Barka
 alt_names: [Baga, Koba, Koga, Temne]
 population: 5000
@@ -15,4 +13,8 @@ glottocode: baga1273
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Mel > Northern Mel > Baga Koga"
+translations:
+  - translation_iso: zho
+    name: 巴加科加语
+    auto: true
 ---

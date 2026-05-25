@@ -1,8 +1,6 @@
 ---
 iso: dri
 name: "C'Lela"
-name_zh: 克莱拉语
-name_zh_auto: true
 autonym: C’lela
 alt_names: [Cala-Cala, Chilala, Chilela, Dakakari, Dakarkari, Dakkarkari, Kolela, Lalawa, Lela]
 population: 90000
@@ -16,6 +14,10 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Kainji > Central Kainji > Northwestern Kainji > Clela-Damakawa > C'lela"
 wikipedia_url: "https://en.wikipedia.org/wiki/Lela_language"
+translations:
+  - translation_iso: zho
+    name: 克莱拉语
+    auto: true
 rolv_dialects:
   - rolv_code: 8991
     language_tag: dri-x-HIS08991

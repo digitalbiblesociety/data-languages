@@ -1,8 +1,6 @@
 ---
 iso: urt
 name: Urat
-name_zh: 乌拉特语
-name_zh_auto: true
 autonym: null
 alt_names: [Urakin, Wasepnau]
 population: 7000
@@ -16,6 +14,10 @@ glottolog_family_id: nucl1708
 glottolog_family_name: Nuclear Torricelli
 glottolog_classification: "Nuclear Torricelli > Kombio-Arapesh-Urat > Urat"
 wikipedia_url: "https://en.wikipedia.org/wiki/Urat_language"
+translations:
+  - translation_iso: zho
+    name: 乌拉特语
+    auto: true
 rolv_dialects:
   - rolv_code: 4648
     language_tag: urt-x-HIS04648

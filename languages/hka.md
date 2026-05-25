@@ -1,8 +1,6 @@
 ---
 iso: hka
 name: Kahe
-name_zh: 卡赫语
-name_zh_auto: true
 autonym: Kikahe
 alt_names: [Tanzania]
 population: 2700
@@ -16,5 +14,11 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > East Bantu > Northeast Savanna Bantu > Kilimanjaro-Taita > Kilimanjaro Bantu > Chaga > Central Kilimanjaro > Kahe"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kahe_language"
+translations:
+  - translation_iso: jpn
+    name: カヘ語
+  - translation_iso: zho
+    name: 卡赫语
+    auto: true
 ---
 The Kahe is an ethnic and linguistic group based southeast of Moshi in Kilimanjaro Region Tanzania. The Kahe language, or Kikahe, is in the Chagga cluster of Bantu languages. Three dialects are recognized: Kimwangaria, Msengoni and Kichangareni. Kikahe is spoken by 9,130 people, and is one of the smaller language communities in Tanzania.

@@ -1,7 +1,6 @@
 ---
 iso: yao
 name: Yao
-name_zh: 約奧語
 autonym: chiYao
 alt_names: [Achawa, Adsawa, Adsoa, Ajawa, Ayao, Ayawa, Ayo, Chichawa, Ciyao, Djao, Haiao, Hajao, Hiao, Hyao, Jao, Język yao, Kiyao, Veiao, Wajao, Yao (in Malawi)]
 population: 3728000
@@ -16,6 +15,17 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > East Bantu > Rufiji-Ruvuma > Ruvuma > Yaoic > Yao"
 wikipedia_url: "https://en.wikipedia.org/wiki/Yao_language"
+translations:
+  - translation_iso: ara
+    name: الياو
+  - translation_iso: hin
+    name: याओ
+  - translation_iso: jpn
+    name: ヤオ語
+  - translation_iso: kor
+    name: 야오어
+  - translation_iso: zho
+    name: 約奧語
 rolv_dialects:
   - rolv_code: 1086
     language_tag: yao-MW-x-HIS01086

@@ -1,8 +1,6 @@
 ---
 iso: lbv
 name: "Lavatbura-Lamusong"
-name_zh: 拉瓦特布拉-拉穆松语
-name_zh_auto: true
 autonym: Lamasong
 alt_names: [Neu-Mecklenburg]
 population: 1310
@@ -16,6 +14,12 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > Meso Melanesian linkage > New Ireland-Northwest Solomonic linkage > Madak linkage > Lavatbura-Lamusong"
 wikipedia_url: "https://en.wikipedia.org/wiki/Lavatbura-Lamusong_language"
+translations:
+  - translation_iso: jpn
+    name: ラヴァットブラ・ラムソン語
+  - translation_iso: zho
+    name: 拉瓦特布拉-拉穆松语
+    auto: true
 rolv_dialects:
   - rolv_code: 12792
     language_tag: lbv-x-HIS12792

@@ -1,7 +1,6 @@
 ---
 iso: kjz
 name: Bumthangkha
-name_zh: 布姆唐语
 autonym: Bhumtam
 alt_names: [Bumtang, Bumtangkha, Bumtanp, Bumthang, Bumthapkha, Kebumtamp]
 population: 20000
@@ -15,6 +14,11 @@ glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Bodic > Bodish > Phobjib-Chali-Bumthangic > Chali-Bumthangic > Bumthangic > Bumthangkha"
 wikipedia_url: "https://en.wikipedia.org/wiki/Bumthang_language"
+translations:
+  - translation_iso: jpn
+    name: ブムタン語
+  - translation_iso: zho
+    name: 布姆唐语
 rolv_dialects:
   - rolv_code: 8461
     language_tag: kjz-x-HIS08461

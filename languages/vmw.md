@@ -1,7 +1,6 @@
 ---
 iso: vmw
 name: Makhuwa
-name_zh: 馬庫阿語
 autonym: Emakuana
 alt_names: [Central Makhuwa, Emakhuwa, Emakua, Język makua, Kimakua, Língua macua, Macua, Makhuawa, Makhuwa-Makhuwana, Makhuwwa of Nampula, Makoane, Makua, Makuan kieli, Maquoua, Макуа]
 population: 3973600
@@ -16,6 +15,17 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > East Bantu > North Mozambique Bantu > Makua-Lomwe > Makhuwa"
 wikipedia_url: "https://en.wikipedia.org/wiki/Makhuwa_language"
+translations:
+  - translation_iso: ara
+    name: الماكوا
+  - translation_iso: hin
+    name: मखुवा
+  - translation_iso: jpn
+    name: マクア語
+  - translation_iso: kor
+    name: 마쿠아어
+  - translation_iso: zho
+    name: 馬庫阿語
 rolv_dialects:
   - rolv_code: 13354
     language_tag: vmw-x-HIS13354

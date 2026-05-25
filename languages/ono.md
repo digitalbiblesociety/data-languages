@@ -1,7 +1,6 @@
 ---
 iso: ono
 name: Onondaga
-name_zh: 奧農達加語
 autonym: Onǫdaʼgegáʼ / Onoñdaʼgegáʼ
 alt_names: [Język onondaga, Onandaga, Onondaga (Canada), Onondaga (New York), Onondaga (Nueva York), Onondoga, 오논다가어]
 population: 18173
@@ -15,5 +14,10 @@ glottolog_family_id: iroq1247
 glottolog_family_name: Iroquoian
 glottolog_classification: "Iroquoian > Northern Iroquoian > Lake Iroquoian > Greater Iroquois > Iroquois > Onondaga"
 wikipedia_url: "https://en.wikipedia.org/wiki/Onondaga_language"
+translations:
+  - translation_iso: kor
+    name: 오논다가어
+  - translation_iso: zho
+    name: 奧農達加語
 ---
 Onondaga is the language of the Onondaga First Nation, one of the original five constituent tribes of the League of the Iroquois (Haudenosaunee).

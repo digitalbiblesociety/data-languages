@@ -1,8 +1,6 @@
 ---
 iso: mvv
 name: Tagal Murut
-name_zh: 塔加尔穆鲁特语
-name_zh_auto: true
 autonym: bahasa Murut Tahol
 alt_names: ["Murut, Tagal", Semambu, Semembu, Sumambu, Sumambu-Tagal, Sumambuq]
 population: 22000
@@ -16,6 +14,10 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > North Borneo Malayo-Polynesian > Sabahan > Southwest Sabahan > Greater Murutic > Murutic > Northern Murutic > Sumambu-Tagal > Tagal Murut"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tagol_language"
+translations:
+  - translation_iso: zho
+    name: 塔加尔穆鲁特语
+    auto: true
 rolv_dialects:
   - rolv_code: 21247
     language_tag: mvv-x-HIS21247

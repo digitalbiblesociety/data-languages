@@ -1,8 +1,6 @@
 ---
 iso: wwa
 name: Waama
-name_zh: 瓦玛语
-name_zh_auto: true
 autonym: Yoabu
 alt_names: [Wama, Woaba, Yoabou]
 population: 115000
@@ -16,6 +14,10 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Gur > Central Gur > Northern Central Gur > Bwamu-Oti-Volta > Oti-Volta > Nuclear Oti-Volta > Oti-Volta Oriental > Waama-Tayari-Ditammari > Waama"
 wikipedia_url: "https://en.wikipedia.org/wiki/Waama_language"
+translations:
+  - translation_iso: zho
+    name: 瓦玛语
+    auto: true
 rolv_dialects:
   - rolv_code: 18086
     language_tag: wwa-x-HIS18086

@@ -1,13 +1,15 @@
 ---
 iso: zkd
 name: Kadu
-name_zh: "Category:卡杜語"
 autonym: Kado
 population: 30000
 country_id: MM
 country_name: Myanmar
 status_id: 6b
 wikipedia_url: "https://en.wikipedia.org/wiki/Kadu_language"
+translations:
+  - translation_iso: zho
+    name: "Category:卡杜語"
 rolv_dialects:
   - rolv_code: 27807
     language_tag: zkd-x-HIS27807

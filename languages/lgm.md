@@ -1,8 +1,6 @@
 ---
 iso: lgm
 name: "Lega-Mwenga"
-name_zh: 勒加-姆韦恩加语
-name_zh_auto: true
 autonym: Ileka Ishile
 alt_names: [Ishile, Kilega, Kirega, Lega, Leka-Shile, Leka-Sile, Rega, Shile]
 population: 44900
@@ -15,6 +13,10 @@ glottocode: lega1250
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > East Bantu > Greater Lega > Mituku-Lega > Lega > Lega-Mwenga"
+translations:
+  - translation_iso: zho
+    name: 勒加-姆韦恩加语
+    auto: true
 rolv_dialects:
   - rolv_code: 12833
     language_tag: lgm-x-HIS12833

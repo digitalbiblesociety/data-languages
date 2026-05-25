@@ -1,8 +1,6 @@
 ---
 iso: ktq
 name: Katabaga
-name_zh: 卡塔巴加语
-name_zh_auto: true
 autonym: Katabangan
 alt_names: [Catabaga]
 population: null
@@ -16,5 +14,9 @@ glottolog_family_id: uncl1493
 glottolog_family_name: Unclassifiable
 glottolog_classification: "Unclassifiable > Katabaga"
 wikipedia_url: "https://en.wikipedia.org/wiki/Katabangan_language"
+translations:
+  - translation_iso: zho
+    name: 卡塔巴加语
+    auto: true
 ---
 Katabangan is an extinct Aeta language that was spoken in the Bondoc Peninsula of Quezon Province, southern Luzon in the Philippines. It is misspelled Katabaga in Ethnologue.

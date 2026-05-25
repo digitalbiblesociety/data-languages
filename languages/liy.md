@@ -1,8 +1,6 @@
 ---
 iso: liy
 name: "Banda-Bambari"
-name_zh: 班达-班巴里语
-name_zh_auto: true
 autonym: Banda of Bambari
 alt_names: [Banda, Banda Linda, Banda-Linda, Linda]
 population: 183000
@@ -15,6 +13,10 @@ glottocode: band1344
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Cameroun-Ubangian > Ubangi > Ubangi Ka > Bandaic > Nuclear Bandaic > Central Bandaic > Core Central Bandaic > Lindaic > Banda-Bambari"
+translations:
+  - translation_iso: zho
+    name: 班达-班巴里语
+    auto: true
 rolv_dialects:
   - rolv_code: 7678
     language_tag: liy-x-HIS07678

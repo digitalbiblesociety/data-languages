@@ -1,8 +1,6 @@
 ---
 iso: mxz
 name: Central Masela
-name_zh: 中马塞拉语
-name_zh_auto: true
 autonym: Marsela
 alt_names: [Central Marsela, Marsela-South Babar, "Masela, Central"]
 population: 511
@@ -15,4 +13,8 @@ glottocode: cent2072
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Timor-Babar > Southwest Maluku > Babar > South Babar > Masela-South Babar > Central Masela"
+translations:
+  - translation_iso: zho
+    name: 中马塞拉语
+    auto: true
 ---

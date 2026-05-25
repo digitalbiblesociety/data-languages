@@ -1,8 +1,6 @@
 ---
 iso: lcp
 name: Western Lawa
-name_zh: 西拉瓦语
-name_zh_auto: true
 autonym: Lava
 alt_names: ["L'wa", "La'wa", Lavua, Lavüa, Lawa, "Lawa, Western", Lua, Luwa, Mae Sariang, Mountain Lawa, Wa, Wa Proper]
 population: 8000
@@ -16,6 +14,10 @@ glottocode: west2396
 glottolog_family_id: aust1305
 glottolog_family_name: Austroasiatic
 glottolog_classification: "Austroasiatic > Khasi-Palaung > Palaungic > East Palaungic > Waic > Wa-Lawa > Lawa > Western Lawa"
+translations:
+  - translation_iso: zho
+    name: 西拉瓦语
+    auto: true
 rolv_dialects:
   - rolv_code: 1154
     language_tag: lcp-x-HIS01154

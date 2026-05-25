@@ -1,8 +1,6 @@
 ---
 iso: bay
 name: Batuley
-name_zh: 巴图莱语
-name_zh_auto: true
 autonym: Gwataley
 alt_names: [Aru, Watulai]
 population: 3840
@@ -16,6 +14,10 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Aru > Batuley-Mariri > Batuley"
 wikipedia_url: "https://en.wikipedia.org/wiki/Batuley_language"
+translations:
+  - translation_iso: zho
+    name: 巴图莱语
+    auto: true
 rolv_dialects:
   - rolv_code: 29671
     language_tag: bay-x-HIS29671

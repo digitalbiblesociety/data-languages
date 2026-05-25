@@ -1,8 +1,6 @@
 ---
 iso: tma
 name: Tama (Chad)
-name_zh: 塔马语
-name_zh_auto: true
 autonym: Damut
 alt_names: [Jabaal, Miisiirii, Mileere, Tama, Tamok, Tamongobo, Tamot]
 population: 62900
@@ -16,6 +14,12 @@ glottolog_family_id: tama1329
 glottolog_family_name: Tamaic
 glottolog_classification: "Tamaic > Tama-Sungor-Miisiirii > Tama-Sungor > Tama (Chad)"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tama_language"
+translations:
+  - translation_iso: ara
+    name: لغة تاما
+  - translation_iso: zho
+    name: 塔马语
+    auto: true
 rolv_dialects:
   - rolv_code: 17124
     language_tag: tma-x-HIS17124

@@ -1,7 +1,6 @@
 ---
 iso: mrv
 name: Mangareva
-name_zh: 芒阿雷瓦语
 autonym: Magareva
 alt_names: [Mangarevan, Mangarevan kieli, Mangarevano, Mangarévien, Мангареванский язык]
 population: 1600
@@ -15,5 +14,12 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Central Pacific linkage > Tokalau Fijian > Polynesian > Nuclear Polynesian > Northern Outlier Polynesian-East Polynesian > Solomons Northern Outlier Polynesian-East Polynesian > Central Northern Outlier Polynesian-East Polynesian > East Polynesian > East Polynesian Distal > Far East Polynesian > Mangareva"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mangareva_language"
+translations:
+  - translation_iso: jpn
+    name: マンガレバ語
+  - translation_iso: kor
+    name: 망가레바어
+  - translation_iso: zho
+    name: 芒阿雷瓦语
 ---
 Mangareva or Mangarevan is a Polynesian language spoken by about 600 people in the Gambier Islands of French Polynesia and by Mangarevians emigrants on the islands of Tahiti and Moorea, located 1,650 kilometres (1,030 mi) to the North-West of the Gambier Islands.

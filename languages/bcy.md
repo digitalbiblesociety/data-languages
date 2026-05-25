@@ -1,8 +1,6 @@
 ---
 iso: bcy
 name: Bacama
-name_zh: 巴卡玛语
-name_zh_auto: true
 autonym: Abacama
 alt_names: [Bacama jezik, Bachama, Bachama-Bata, Bashamma, Batchameg, Besema, Bwareba, Gboare]
 population: 289000
@@ -16,6 +14,10 @@ glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > Biu-Mandara > South Biu-Mandara > Bataic > Bata-Bwatiye > Bacama"
 wikipedia_url: "https://en.wikipedia.org/wiki/Bacama_language"
+translations:
+  - translation_iso: zho
+    name: 巴卡玛语
+    auto: true
 rolv_dialects:
   - rolv_code: 7486
     language_tag: bcy-x-HIS07486

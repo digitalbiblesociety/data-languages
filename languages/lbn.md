@@ -1,7 +1,6 @@
 ---
 iso: lbn
 name: Rmeet
-name_zh: 拉墨语
 autonym: Rmeet
 alt_names: [Kamet, Kha, Kha Lamet, Kha-Lamet, Khamed, Khamet, Lamet, Le-Met, Lemet]
 population: 16700
@@ -15,6 +14,9 @@ glottolog_family_id: aust1305
 glottolog_family_name: Austroasiatic
 glottolog_classification: "Austroasiatic > Khasi-Palaung > Palaungic > East Palaungic > Lamet"
 wikipedia_url: "https://en.wikipedia.org/wiki/Lamet_language"
+translations:
+  - translation_iso: zho
+    name: 拉墨语
 rolv_dialects:
   - rolv_code: 487
     language_tag: lbn-x-HIS00487

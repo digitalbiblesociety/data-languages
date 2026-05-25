@@ -1,8 +1,6 @@
 ---
 iso: ztt
 name: Tejalapan Zapotec
-name_zh: 特贾拉潘萨波特克语
-name_zh_auto: true
 autonym: (San Felipe Tejalápam)
 alt_names: [Central Sapoteko, Zapotec, "Zapotec, Tejalapan", Zapoteco de San Felipe Tejalapan, Zapoteco de San Felipe Tejalápam, Zapoteco de Tejalápam, Zapotèque de San Felipe Tejalapan]
 population: 120
@@ -16,5 +14,9 @@ glottolog_family_id: otom1299
 glottolog_family_name: Otomanguean
 glottolog_classification: "Otomanguean > Eastern Otomanguean > Popoloca-Zapotecan > Zapotecan > Zapotec > Core Zapotec > Narrow Core Zapotec > Central Core Zapotec > Tejalapan Zapotec"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tejalapan_Zapotec"
+translations:
+  - translation_iso: zho
+    name: 特贾拉潘萨波特克语
+    auto: true
 ---
 Tejalapan Zapotec is a nearly extinct Zapotecan language of the Mexican state of Oaxaca. It may be closest to the otherwise divergent Mazaltepec Zapotec.

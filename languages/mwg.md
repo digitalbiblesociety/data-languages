@@ -1,8 +1,6 @@
 ---
 iso: mwg
 name: Aiklep
-name_zh: 艾克莱普语
-name_zh_auto: true
 autonym: Agerlep
 alt_names: [Eklep, Kaul, Moewehafen]
 population: 3700
@@ -15,4 +13,10 @@ glottocode: aikl1237
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > North New Guinea linkage > Ngero-Vitiaz linkage > Vitiaz linkage > Southwest New Britain linkage > Arawe-Pasismanua > Arawe > West Arawe > Aiklep"
+translations:
+  - translation_iso: jpn
+    name: メーヴェハーフェン語
+  - translation_iso: zho
+    name: 艾克莱普语
+    auto: true
 ---

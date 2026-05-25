@@ -1,7 +1,6 @@
 ---
 iso: vep
 name: Veps
-name_zh: 维普斯语
 autonym: vepsän kelʹ
 alt_names: [Chudy, Chuhari, Chukhari, Idioma vepsio, Język wepski, Lingua vepsa, Vepsa keel, Vepsa lingvo, Vepseg, Vepsian, Vepsio, Vepsisch, Vepsisk, Vepsisk språk, Vepsiska, Vepsze nyelv, Vepsä, Vepsä kiil, Vepsägiella, Vepsän kieli, Vepsų kalba, Vepština, Wepsies, Wepsisch, Wepsische Sprache, chudj, lüd, lüüd, "l΄üd'ikel΄", vepse, vepsskij jazyk, vepsy, vepsän kel’, vesj, Вепс кыв, Вепс мотт, Вепс чĕлхи, Вепски език, Вепссэнь кель, Вепська мова, вепсский язык, ヴェプス語, 벱스어]
 population: 5750
@@ -16,6 +15,15 @@ glottolog_family_id: ural1272
 glottolog_family_name: Uralic
 glottolog_classification: "Uralic > Finnic > Coastal Finnic > Neva > North Finnic > Ladogan > East Ladoga > Veps"
 wikipedia_url: "https://en.wikipedia.org/wiki/Veps_language"
+translations:
+  - translation_iso: ara
+    name: الفيبسية
+  - translation_iso: jpn
+    name: ヴェプス語
+  - translation_iso: kor
+    name: 벱스어
+  - translation_iso: zho
+    name: 维普斯语
 rolv_dialects:
   - rolv_code: 18046
     language_tag: vep-x-HIS18046

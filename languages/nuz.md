@@ -1,7 +1,6 @@
 ---
 iso: nuz
 name: Tlamacazapa Nahuatl
-name_zh: 特拉馬卡薩帕納瓦特爾語
 autonym: null
 alt_names: [Central Nawa, Mexicano, Nahua central, Nahuatl, "Nahuatl, Tlamacazapa", Náhuatl central]
 population: 1550
@@ -14,4 +13,7 @@ glottocode: tlam1239
 glottolog_family_id: utoa1244
 glottolog_family_name: Uto-Aztecan
 glottolog_classification: "Uto-Aztecan > Southern Uto-Aztecan > Corachol-Aztecan > Aztec > Western Nahuatl > Western Periphery-North Guerrero Nahuatl > North Guerrero Nahuatl > Tlamacazapa Nahuatl"
+translations:
+  - translation_iso: zho
+    name: 特拉馬卡薩帕納瓦特爾語
 ---

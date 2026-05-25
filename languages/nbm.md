@@ -1,8 +1,6 @@
 ---
 iso: nbm
 name: "Ngbaka Ma'bo"
-name_zh: 恩巴卡玛博语
-name_zh_auto: true
 autonym: "Ngbaka Ma'bo"
 alt_names: [Bouaka, Bwaka, Gbaka, Gbala, "Ma'bo", Mbacca, Mbaka, Mbwaka, Nbwaka, Ngbaka Limba, "Ngbaka-Ma'bo"]
 population: 258000
@@ -16,6 +14,12 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Cameroun-Ubangian > Ubangi > Ubangi Ka > Mundu-Baka > Western Mundu-Baka > River Western Mundu-Baka > Bwaka > Ngbaka Ma'bo"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mbaka_language"
+translations:
+  - translation_iso: jpn
+    name: ムバカ語
+  - translation_iso: zho
+    name: 恩巴卡玛博语
+    auto: true
 rolv_dialects:
   - rolv_code: 1393
     language_tag: nbm-x-HIS01393

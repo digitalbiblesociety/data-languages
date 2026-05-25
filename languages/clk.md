@@ -1,7 +1,6 @@
 ---
 iso: clk
 name: "Idu-Mishmi"
-name_zh: 义都语
 autonym: Luoba
 alt_names: ["\"Chulikata\"", "\"Chulikotta\"", Bebejiya, Chulikata, Chulikatta, Chulikātā Mishmi, Ida, Idu, Idu Mishmi, Idu Mishmi Language, "Kera'a", Lho-Pa, Methun, Midhi, Midu, Neda, Yidu Luoba, 珞巴, 義都語]
 population: 11000
@@ -15,6 +14,13 @@ glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Digarish > Idu"
 wikipedia_url: "https://en.wikipedia.org/wiki/Idu_Mishmi_language"
+translations:
+  - translation_iso: hin
+    name: इदु मिश्मी भाषा
+  - translation_iso: jpn
+    name: 義都語
+  - translation_iso: zho
+    name: 义都语
 rolv_dialects:
   - rolv_code: 2846
     language_tag: clk-x-HIS02846

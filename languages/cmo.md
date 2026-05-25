@@ -1,8 +1,6 @@
 ---
 iso: cmo
 name: Central Mnong
-name_zh: 中蒙语
-name_zh_auto: true
 autonym: Bunong (ឞូន៝ង)
 alt_names: [Bhiét, Biat, Biet, Bu Nong, Budang, Budong, Bunong, Central, Central Mong, Mnong, Mnong central, "Mnong, Central", Penong, Phanong, Phnong, Phong, Pnong]
 population: 70000
@@ -15,6 +13,10 @@ glottocode: cent1992
 glottolog_family_id: aust1305
 glottolog_family_name: Austroasiatic
 glottolog_classification: "Austroasiatic > Bahnaric > West Bahnaric > South Bahnaric > Mnong-Stieng-Chrau > Mnong > Southern-Central Mnong > Central Mnong"
+translations:
+  - translation_iso: zho
+    name: 中蒙语
+    auto: true
 rolv_dialects:
   - rolv_code: 764
     language_tag: cmo-x-HIS00764

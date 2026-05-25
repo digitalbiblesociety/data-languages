@@ -1,7 +1,6 @@
 ---
 iso: meo
 name: Kedah Malay
-name_zh: 吉打马来语
 autonym: بهاس ملايو قد/ حภาษามลายูไทรบุรี
 alt_names: ["Malay, Kedah", Satun Malay]
 population: 2600000
@@ -15,6 +14,11 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Malayo-Chamic > Malayic > Nuclear Malayic > Greater Riau-Johoric > Northeastern Peninsular Malay > Kedah-Perak Malay"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kedah_Malay"
+translations:
+  - translation_iso: jpn
+    name: ケダ・マレー語
+  - translation_iso: zho
+    name: 吉打马来语
 rolv_dialects:
   - rolv_code: 29781
     language_tag: meo-x-HIS29781

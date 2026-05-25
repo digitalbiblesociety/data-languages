@@ -1,8 +1,6 @@
 ---
 iso: bqb
 name: Bagusa
-name_zh: 巴古萨语
-name_zh_auto: true
 autonym: Kapeso
 alt_names: [Suaseso]
 population: 300
@@ -16,5 +14,9 @@ glottolog_family_id: kwer1242
 glottolog_family_name: Greater Kwerba
 glottolog_classification: "Greater Kwerba > Kwerba-Samarokena > Kwerbaic > Bagusa"
 wikipedia_url: "https://en.wikipedia.org/wiki/Bagusa_language"
+translations:
+  - translation_iso: zho
+    name: 巴古萨语
+    auto: true
 ---
 Bagusa is a Papuan language of Indonesia.

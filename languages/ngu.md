@@ -1,8 +1,6 @@
 ---
 iso: ngu
 name: Guerrero Nahuatl
-name_zh: 格雷罗纳瓦特尔语
-name_zh_auto: true
 autonym: "Nahuatl, Guerrero"
 alt_names: [Central Nawa, Guerrero Aztec, Mexicano, Nahua central, Nahuatl, Nahuatl (Xalitla), Nawa, Náhuatl central, Náhuatl de Guerrero, Xalitla]
 population: 125000
@@ -16,6 +14,10 @@ glottolog_family_id: utoa1244
 glottolog_family_name: Uto-Aztecan
 glottolog_classification: "Uto-Aztecan > Southern Uto-Aztecan > Corachol-Aztecan > Aztec > Western Nahuatl > Central Nahuatl > Central Guerrero Nahuatl"
 wikipedia_url: "https://en.wikipedia.org/wiki/Guerrero_Nahuatl"
+translations:
+  - translation_iso: zho
+    name: 格雷罗纳瓦特尔语
+    auto: true
 rolv_dialects:
   - rolv_code: 6028
     language_tag: ngu-x-HIS06028

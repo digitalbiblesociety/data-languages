@@ -1,8 +1,6 @@
 ---
 iso: pnp
 name: Pancana
-name_zh: 潘卡纳语
-name_zh_auto: true
 autonym: Pantjana
 population: 6000
 country_id: ID
@@ -15,6 +13,10 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Celebic > Greater Eastern Celebic > Eastern Celebic > Southeastern Celebic > Muna-Buton > Nuclear Muna-Buton > Munan > Munic > Western Munic > Pancana"
 wikipedia_url: "https://en.wikipedia.org/wiki/Pancana_language"
+translations:
+  - translation_iso: zho
+    name: 潘卡纳语
+    auto: true
 rolv_dialects:
   - rolv_code: 15463
     language_tag: pnp-x-HIS15463

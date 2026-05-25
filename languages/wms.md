@@ -1,7 +1,6 @@
 ---
 iso: wms
 name: Wambon
-name_zh: 萬邦語
 autonym: null
 alt_names: [Indonesia]
 population: 3000
@@ -15,6 +14,9 @@ glottolog_family_id: nucl1709
 glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Asmat-Awyu-Ok > Awyu-Ok > Greater Awyu > Awyu-Dumut > Dumut > Ketum-Wambon > Wambon"
 wikipedia_url: "https://en.wikipedia.org/wiki/Wambon_language"
+translations:
+  - translation_iso: zho
+    name: 萬邦語
 rolv_dialects:
   - rolv_code: 18145
     language_tag: wms-x-HIS18145

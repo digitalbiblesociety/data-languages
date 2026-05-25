@@ -1,8 +1,6 @@
 ---
 iso: sez
 name: Senthang Chin
-name_zh: 森塘钦语
-name_zh_auto: true
 autonym: Hsemtang
 alt_names: ["Chin, Senthang", "Chin,Senthang", Hsemtung, Senthang]
 population: 33000
@@ -16,6 +14,10 @@ glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Kuki-Chin-Naga > Kuki-Chin > Central Kuki-Chin > Maraic > Senthang Chin"
 wikipedia_url: "https://en.wikipedia.org/wiki/Senthang_language"
+translations:
+  - translation_iso: zho
+    name: 森塘钦语
+    auto: true
 rolv_dialects:
   - rolv_code: 25453
     language_tag: sez-x-HIS25453

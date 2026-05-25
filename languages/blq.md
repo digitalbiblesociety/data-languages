@@ -1,8 +1,6 @@
 ---
 iso: blq
 name: "Baluan-Pam"
-name_zh: 巴卢安-帕姆语
-name_zh_auto: true
 autonym: Paluai
 alt_names: [Pam-Baluan]
 population: 1000
@@ -16,6 +14,10 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Admiralty Islands > Eastern Admiralty Islands > South-East Admiralty > Lou-Paluai > Paluai"
 wikipedia_url: "https://en.wikipedia.org/wiki/Baluan-Pam_language"
+translations:
+  - translation_iso: zho
+    name: 巴卢安-帕姆语
+    auto: true
 rolv_dialects:
   - rolv_code: 7629
     language_tag: blq-x-HIS07629

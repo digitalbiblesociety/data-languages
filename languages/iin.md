@@ -1,8 +1,6 @@
 ---
 iso: iin
 name: Thiin
-name_zh: 蒂因语
-name_zh_auto: true
 autonym: Deen
 alt_names: [Deenma, Denma, Dhiyin, Dhiyinma, "Te:n", Teen, Teenma, Tenma, Thenma, Thiinma]
 population: null
@@ -16,5 +14,9 @@ glottolog_family_id: pama1250
 glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > South-West Pama-Nyungan > Pilbara > Mantharta > Djiwarli-Thiin > Thiin"
 wikipedia_url: "https://en.wikipedia.org/wiki/Thiin_language"
+translations:
+  - translation_iso: zho
+    name: 蒂因语
+    auto: true
 ---
 Thiin (Thiinma) is a nearly extinct Australian Aboriginal language of the Mantharta group, spoken in Western Australia. As of 2025, only one person, Peter Salmon, can speak it.

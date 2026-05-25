@@ -1,7 +1,6 @@
 ---
 iso: bum
 name: Bulu (Cameroon)
-name_zh: 布卢语
 autonym: "Bulu-Bene"
 alt_names: [Boulou, Bulu, Bulu (in Cameroon)]
 population: 858000
@@ -16,6 +15,15 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > Bantu A-B10-B20-B30 > Basaa-Yaunde (A40-70) > Yaunde-Fang (A.70) > Bulu (Cameroon)"
 wikipedia_url: "https://en.wikipedia.org/wiki/Bulu_language"
+translations:
+  - translation_iso: ara
+    name: لغة البولو
+  - translation_iso: jpn
+    name: ブル語
+  - translation_iso: kor
+    name: 불루어
+  - translation_iso: zho
+    name: 布卢语
 rolv_dialects:
   - rolv_code: 8454
     language_tag: bum-x-HIS08454

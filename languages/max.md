@@ -1,7 +1,6 @@
 ---
 iso: max
 name: North Moluccan Malay
-name_zh: 特尔纳特马来语
 autonym: Bahasa Pasar
 alt_names: ["Malay, North Moluccan", Ternate Malay]
 population: 700000
@@ -15,5 +14,10 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Malayo-Chamic > Malayic > Nuclear Malayic > Vehicular Malay > Eastern Indonesia Trade Malay > Manadoic Malay > North Moluccan Malay"
 wikipedia_url: "https://en.wikipedia.org/wiki/North_Moluccan_Malay"
+translations:
+  - translation_iso: jpn
+    name: 北モルッカ・マレー語
+  - translation_iso: zho
+    name: 特尔纳特马来语
 ---
 North Moluccan Malay is a Malay-based creole language spoken on Ternate, Tidore, Morotai, Halmahera, and Sula Islands in North Maluku for intergroup communications. The local name of the language is bahasa Pasar, and the name Ternate Malay is also used, after the main ethnic group speaking the language. It is commonly written using Indonesian orthography. One of its varieties is Sula Malay, which was formed with the influence of Ambonese Malay.

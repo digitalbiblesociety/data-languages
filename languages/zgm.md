@@ -1,7 +1,6 @@
 ---
 iso: zgm
 name: Minz Zhuang
-name_zh: 民讲
 autonym: Minz
 alt_names: ["Zhuang, Minz"]
 population: 2600
@@ -15,5 +14,10 @@ glottolog_family_id: taik1256
 glottolog_family_name: Tai-Kadai
 glottolog_classification: "Tai-Kadai > Kam-Tai > Daic-Beic > Daic > Central-Southwestern Tai > Debao-Jingxi-Nung > Minz Zhuang"
 wikipedia_url: "https://en.wikipedia.org/wiki/Min_Zhuang_language"
+translations:
+  - translation_iso: jpn
+    name: 民講語
+  - translation_iso: zho
+    name: 民讲
 ---
 Min Zhuang is a recently described Tai language spoken in the Langheng (郎恒) area of Funing County, Yunnan, China, and possibly also southwestern Guangxi province. All speakers are reportedly bilingual in Yei Zhuang, which is classified as Northern Tai. The language was first described in 2011 by Eric C. Johnson of SIL International, though it had been earlier mentioned in Kullavanijaya and L-Thongkum (1998).

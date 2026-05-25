@@ -1,8 +1,6 @@
 ---
 iso: zmd
 name: Maridan
-name_zh: 马里丹语
-name_zh_auto: true
 autonym: Berringen
 alt_names: [Brinken, Maredan, Marri Ammu, Marridan, Marrisjefin, Marrisyefin, Marrithiyel, Matige, Meradan, Murindan, Nordanimin, Western Daly language.]
 population: null
@@ -15,4 +13,8 @@ glottocode: mari1422
 glottolog_family_id: west2434
 glottolog_family_name: Western Daly
 glottolog_classification: "Western Daly > Bringen > Marithielic > Maridan"
+translations:
+  - translation_iso: zho
+    name: 马里丹语
+    auto: true
 ---

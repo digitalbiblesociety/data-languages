@@ -1,7 +1,6 @@
 ---
 iso: bnq
 name: Bantik
-name_zh: 班迪語
 autonym: bahasa Bantik
 alt_names: [ภาษาบันติก]
 population: 11000
@@ -15,5 +14,10 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Sangiric-Minahasan > Sangiric > Southern Sangiric > Bantik"
 wikipedia_url: "https://en.wikipedia.org/wiki/Bantik_language"
+translations:
+  - translation_iso: jpn
+    name: バンティック語
+  - translation_iso: zho
+    name: 班迪語
 ---
 Bantik is an endangered Austronesian language, perhaps a Philippine language, of North Sulawesi, Indonesia. It is the traditional language of the Bantik people, who are now switching to Manado Malay as their language for everyday communication. While using Indonesia for formal and religious occasions. Though Bantik is still used as a marker of ethnic identity.

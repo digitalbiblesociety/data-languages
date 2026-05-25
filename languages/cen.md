@@ -1,8 +1,6 @@
 ---
 iso: cen
 name: Cen
-name_zh: 琴语
-name_zh_auto: true
 autonym: Afusare
 population: 50000
 country_id: NG
@@ -14,4 +12,8 @@ glottocode: cenn1238
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Benue-Congo Plateau > West-Central Benue-Congo Plateau > Zaric > Nuclear Zaric > Izeric > Cen"
+translations:
+  - translation_iso: zho
+    name: 琴语
+    auto: true
 ---

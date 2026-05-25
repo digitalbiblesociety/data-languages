@@ -1,8 +1,6 @@
 ---
 iso: xpw
 name: "Northwestern Tasmanian\r"
-name_zh: 西北塔斯马尼亚语
-name_zh_auto: true
 autonym: Northwestern Tasmanian
 alt_names: [Peerapper, "Tasmanian, Northwestern"]
 population: null
@@ -16,5 +14,9 @@ glottolog_family_id: west1503
 glottolog_family_name: Western Tasmanian
 glottolog_classification: "Western Tasmanian > Western Coastal Tasmanian > Northwestern Tasmanian"
 wikipedia_url: "https://en.wikipedia.org/wiki/Peerapper_language"
+translations:
+  - translation_iso: zho
+    name: 西北塔斯马尼亚语
+    auto: true
 ---
 Northwestern Tasmanian, or Peerapper ("Pirapa"), is an Aboriginal language of Tasmania in the reconstruction of Claire Bowern. It was spoken along the west coast of the island, from Macquarie Harbour north to Circular Head and Robbins Island.

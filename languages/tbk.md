@@ -1,8 +1,6 @@
 ---
 iso: tbk
 name: Calamian Tagbanwa
-name_zh: 卡拉米安塔格邦瓦语
-name_zh_auto: true
 autonym: ᝦᝲᝨᝪᝯ
 alt_names: [Calamiano, Kalamian, Kalamianon, Karamiananen, "Tagbanwa, Calamian"]
 population: 10000
@@ -16,6 +14,10 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Greater Central Philippine > Palawanic-Kalamian > Kalamian > Calamian Tagbanwa"
 wikipedia_url: "https://en.wikipedia.org/wiki/Calamian_Tagbanwa_language"
+translations:
+  - translation_iso: zho
+    name: 卡拉米安塔格邦瓦语
+    auto: true
 rolv_dialects:
   - rolv_code: 259
     language_tag: tbk-x-HIS00259

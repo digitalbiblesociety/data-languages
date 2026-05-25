@@ -1,8 +1,6 @@
 ---
 iso: kxc
 name: Konso
-name_zh: 孔索语
-name_zh_auto: true
 autonym: Af Kareti
 alt_names: [Af-Kareti, Conso, Gato, Karate, Kareti, Khonso, Komso]
 population: 243300
@@ -16,6 +14,10 @@ glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Cushitic > East Cushitic > Lowland East Cushitic > Southern Lowland East Cushitic > Mainstream Lowland East Cushitic > Oromoid > Konsoid > Konso"
 wikipedia_url: "https://en.wikipedia.org/wiki/Konso_language"
+translations:
+  - translation_iso: zho
+    name: 孔索语
+    auto: true
 rolv_dialects:
   - rolv_code: 26717
     language_tag: kxc-x-HIS26717

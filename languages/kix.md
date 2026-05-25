@@ -1,8 +1,6 @@
 ---
 iso: kix
 name: Khiamniungan Naga
-name_zh: 基亚姆尼翁甘那加语
-name_zh_auto: true
 autonym: Aoshedd
 alt_names: [Kalyokengnyu, Khiamngan, Khiamniungan, Khiemnungan, Naga, "Naga, Khiamniungan", "Naga,Khiamniungan", Nokaw, Welam]
 population: 72000
@@ -16,6 +14,10 @@ glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Brahmaputran > Patkaian > South Patkaian > Southeastern Patkaian > Lainongic > Khiamniungic > Khiamniungan Naga"
 wikipedia_url: "https://en.wikipedia.org/wiki/Khiamniungan_language"
+translations:
+  - translation_iso: zho
+    name: 基亚姆尼翁甘那加语
+    auto: true
 rolv_dialects:
   - rolv_code: 19391
     language_tag: kix-x-HIS19391

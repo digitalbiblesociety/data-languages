@@ -1,8 +1,6 @@
 ---
 iso: btf
 name: Birgit
-name_zh: 比尔吉特语
-name_zh_auto: true
 autonym: Bergit
 alt_names: [Berguid, Birgid]
 population: 10400
@@ -16,6 +14,10 @@ glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > East Chadic > East Chadic B > East Chadic B.1 > Dangla-Mabire-Birgit > Birgit-Mogum-Toram > Birgit"
 wikipedia_url: "https://en.wikipedia.org/wiki/Birgit_language"
+translations:
+  - translation_iso: zho
+    name: 比尔吉特语
+    auto: true
 rolv_dialects:
   - rolv_code: 8163
     language_tag: btf-x-HIS08163

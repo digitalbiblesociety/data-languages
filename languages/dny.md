@@ -1,7 +1,6 @@
 ---
 iso: dny
 name: Dení
-name_zh: 丹尼語
 autonym: Dani
 alt_names: [Den, Deni]
 population: 750
@@ -15,5 +14,8 @@ glottolog_family_id: araw1282
 glottolog_family_name: Arawan
 glottolog_classification: "Arawan > Madi-Madiha > Madiha > Deni"
 wikipedia_url: "https://en.wikipedia.org/wiki/Deni_language"
+translations:
+  - translation_iso: zho
+    name: 丹尼語
 ---
 Deni is an Arawan language spoken in Brazil. Deni is very similar to the other languages of the Arawan language family, but is especially similar to the Jamamadi language.

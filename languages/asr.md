@@ -1,7 +1,6 @@
 ---
 iso: asr
 name: Asuri
-name_zh: 阿苏尔语
 autonym: Ashree
 alt_names: [Assur, Asur, Asura, Maleta, Mundari, Mundari-Ho]
 population: 16600
@@ -15,6 +14,13 @@ glottolog_family_id: aust1305
 glottolog_family_name: Austroasiatic
 glottolog_classification: "Austroasiatic > Mundaic > North Munda > Kherwarian > Mundaric > Asuric > Asuri"
 wikipedia_url: "https://en.wikipedia.org/wiki/Asur_language"
+translations:
+  - translation_iso: hin
+    name: असुर भाषा
+  - translation_iso: jpn
+    name: アスル語
+  - translation_iso: zho
+    name: 阿苏尔语
 rolv_dialects:
   - rolv_code: 4880
     language_tag: asr-x-HIS04880

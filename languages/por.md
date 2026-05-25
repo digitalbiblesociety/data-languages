@@ -1,7 +1,6 @@
 ---
 iso: por
 name: Portuguese
-name_zh: 葡萄牙语
 autonym: português
 alt_names: [Bahasa Portugis, Basa Portugis, Gjuha portugeze, Idioma portugués, IsiPutukezi, Język portugalski, Kimputulukesi, Kireno, Lenghe portughese, Lengua portugheise, Lhéngua pertuesa, Limba portughesa, Limba portugheză, Lingua Lusitana, Lingua portoghese, Lingua portugaisa, Lingua portugese, Lingua portughese, Lingua portughisa, Lingua portuguesa, Lipulutugɛ́si, Luenga portuguesa, Língua portuguesa, Phù-thò-â-ngî, Pinulongang Portuges, Portagailis, Portegeesk, Portekizce, Portiwgaleg, Portoghés, Portugais, Portugal tili, Portugal-gú, Portugala lingvo, Portugalana linguo, Portugaleg, Portugali keel, Portugalin kieli, Portugalski jezik, Portugalsko godka, Portugalu kalba, Portugalčina, Portugalština, Portugalšćina, Portugalščina, Portugalų kalba, Portugees, Portugeesche Spraak, Portuges, Portugiesisch, Portugiesische Sprache, Portugisesch, Portugisisk, Portugisisk språk, Portugisiska, Portugisiskt mál, Portuguese bhasa, Portuguese leid, Portuguès, Portugués, Portugál nyelv, Portugálagiella, Portugāļu valoda, Portuqal dili, Portyngalek, Portúgalska, "Poytugañe'ẽ", Purtuyis simi, Pɔtugisgbe, Reo Pōtītī, Tiếng Bồ Đào Nha, Wikang Portuges, Zimanê portûgalî, Èdè Portugal, Łéngoa portoghexe, Πορτογαλική γλώσσα, Забони португалӣ, Партугальская мова, Португаал тыла, Португайлаг æвзаг, Португал йылме, Португал чĕлхи, Португалски език, Португалски јазик, Португалски језик, Португальский язык, Португальська мова, Պորտուգալերեն, פארטוגעזיש, פורטוגזית, زبان پرتغالی, زمانی پۆرتووگالی, لغة برتغالية, پرتگالی, پرتگیزی, پورتۇگال تىلى, ޕޯޗުގީޒު, पुर्तगाली भाषा, পর্তুগিজ ভাষা, போர்த்துக்கீச மொழி, ಪೋರ್ಚುಗೀಯ ಭಾಷೆ, ภาษาโปรตุเกส, პორტუგალიური ენა, ポルトガル語, 葡萄牙語, 葡萄牙语, 포르투갈어]
 population: 221000000
@@ -16,6 +15,17 @@ glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Italic > Latino-Faliscan > Latinic > Imperial Latin > Romance > Italo-Western Romance > Western Romance > Shifted Western Romance > Southwestern Shifted Romance > West Ibero-Romance > Galician Romance > Macro-Portuguese > Brazil-Portugal Portuguese > Portuguese"
 wikipedia_url: "https://en.wikipedia.org/wiki/Portuguese_language"
+translations:
+  - translation_iso: ara
+    name: البرتغالية
+  - translation_iso: hin
+    name: पुर्तगाली भाषा
+  - translation_iso: jpn
+    name: ポルトガル語
+  - translation_iso: kor
+    name: 포르투갈어
+  - translation_iso: zho
+    name: 葡萄牙语
 rolv_dialects:
   - rolv_code: 47
     language_tag: pt-BR

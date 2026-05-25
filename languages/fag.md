@@ -1,8 +1,6 @@
 ---
 iso: fag
 name: Finongan
-name_zh: 芬农根语
-name_zh_auto: true
 autonym: Finungwa
 alt_names: [Finungwan]
 population: 1300
@@ -16,5 +14,9 @@ glottolog_family_id: nucl1709
 glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Finisterre-Huon > Finisterre-Saruwaged > Erap > Finungwan-Mamaa-Gusan > Finongan"
 wikipedia_url: "https://en.wikipedia.org/wiki/Finongan_language"
+translations:
+  - translation_iso: zho
+    name: 芬农根语
+    auto: true
 ---
 Finongan is one of the Finisterre languages of Papua New Guinea.

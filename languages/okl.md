@@ -1,8 +1,6 @@
 ---
 iso: okl
 name: Old Kentish Sign Language
-name_zh: 古肯特手语
-name_zh_auto: true
 autonym: OKSL
 alt_names: ["Kentish Sign Language, Old", Old Kent Sign Language]
 population: null
@@ -16,5 +14,15 @@ glottolog_family_id: sign1238
 glottolog_family_name: Sign Language
 glottolog_classification: "Sign Language > L1 Sign Language > OKSLic > Old Kentish Sign Language"
 wikipedia_url: "https://en.wikipedia.org/wiki/Old_Kentish_Sign_Language"
+translations:
+  - translation_iso: ara
+    name: لغة إشارة كينتش القديمة
+  - translation_iso: hin
+    name: पुरानी केंटिश सांकेतिक भाषा
+  - translation_iso: jpn
+    name: 古ケント手話
+  - translation_iso: zho
+    name: 古肯特手语
+    auto: true
 ---
 Old Kentish Sign Language was a village sign language of 17th-century Kent in the United Kingdom, that has been incorporated along with other village sign languages into British Sign Language.

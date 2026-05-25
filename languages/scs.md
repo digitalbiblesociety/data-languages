@@ -1,8 +1,6 @@
 ---
 iso: scs
 name: North Slavey
-name_zh: 北方奴隶语
-name_zh_auto: true
 autonym: "Dene K'e"
 alt_names: ["Slavey, North"]
 population: 770
@@ -16,6 +14,12 @@ glottocode: nort2942
 glottolog_family_id: atha1245
 glottolog_family_name: Athabaskan-Eyak-Tlingit
 glottolog_classification: "Athabaskan-Eyak-Tlingit > Athabaskan-Eyak > Athabaskan > Northwestern Canada Athabaskan > Slaveyic > Slave > North Slavey"
+translations:
+  - translation_iso: jpn
+    name: 北スレイビー語
+  - translation_iso: zho
+    name: 北方奴隶语
+    auto: true
 rolv_dialects:
   - rolv_code: 16785
     language_tag: scs-x-HIS16785

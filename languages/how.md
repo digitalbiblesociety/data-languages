@@ -1,7 +1,6 @@
 ---
 iso: how
 name: Honi
-name_zh: 豪尼语
 autonym: Baihong
 alt_names: [Haoni, Haónǐ, Ho, Ouni, Uni, Won, Woni]
 population: 140000
@@ -15,6 +14,9 @@ glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Burmo-Qiangic > Lolo-Burmese > Loloish > Hani-Jino > Bisoid-Hanic > Hanic > Honi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Honi_language"
+translations:
+  - translation_iso: zho
+    name: 豪尼语
 rolv_dialects:
   - rolv_code: 4853
     language_tag: how-x-HIS04853

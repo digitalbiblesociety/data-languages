@@ -1,8 +1,6 @@
 ---
 iso: mct
 name: Mengisa
-name_zh: 门吉萨语
-name_zh_auto: true
 autonym: Mangisa
 population: 20000
 country_id: CM
@@ -11,6 +9,10 @@ status_id: 6b
 latitude: 4.5932
 longitude: 11.39465
 wikipedia_url: "https://en.wikipedia.org/wiki/Mengisa_language"
+translations:
+  - translation_iso: zho
+    name: 门吉萨语
+    auto: true
 rolv_dialects:
   - rolv_code: 31207
     language_tag: mct-x-HIS31207

@@ -1,8 +1,6 @@
 ---
 iso: csa
 name: Chiltepec Chinantec
-name_zh: 奇尔特佩克奇南特克语
-name_zh_auto: true
 autonym: null
 alt_names: [Central Chinantec, Chiltepec, Chiltepec Chinanteko, Chiltepeco, Chinantec, "Chinantec, Chiltepec", Chinanteco, Chinanteco Central, Chinanteko, Lealao Chinantec, Palantla Chinantec, Usila Chinantec, Valle Nacional Chinantec, jajme dzä mii, "jmiih kia' dzä mii"]
 population: 1000
@@ -15,4 +13,8 @@ glottocode: chil1282
 glottolog_family_id: otom1299
 glottolog_family_name: Otomanguean
 glottolog_classification: "Otomanguean > Western Otomanguean > Otopame-Chinantecan > Chinantecan > Central-Eastern Chinantec > Northwestern Chinantec > Chinantec Group I > Tlacoatzintepec-Chiltepec > Chiltepec Chinantec"
+translations:
+  - translation_iso: zho
+    name: 奇尔特佩克奇南特克语
+    auto: true
 ---

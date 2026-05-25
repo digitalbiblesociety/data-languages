@@ -1,8 +1,6 @@
 ---
 iso: cla
 name: Ron
-name_zh: 龙语
-name_zh_auto: true
 autonym: Chala
 alt_names: ["\"Chala\"", "\"Challa\"", Baron, Bokkos, Challa, Daffo, Ron (Chadic)]
 population: 216000
@@ -16,6 +14,12 @@ glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > West Chadic > West Chadic A > West Chadic A.4 > Ronic > Ron"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ron_language"
+translations:
+  - translation_iso: kor
+    name: 론어
+  - translation_iso: zho
+    name: 龙语
+    auto: true
 rolv_dialects:
   - rolv_code: 2469
     language_tag: cla-x-HIS02469

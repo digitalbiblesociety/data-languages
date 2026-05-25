@@ -1,8 +1,6 @@
 ---
 iso: pbf
 name: Coyotepec Popoloca
-name_zh: 科约特佩克波波洛卡语
-name_zh_auto: true
 autonym: null
 alt_names: [Chocho-Popoloka, Popoloc, Popoloca, Popoloca (San Vicente Coyotepec), "Popoloca, Coyotepec", Popoloka, San Vicente Coyotepec]
 population: 500
@@ -16,6 +14,10 @@ glottolog_family_id: otom1299
 glottolog_family_name: Otomanguean
 glottolog_classification: "Otomanguean > Eastern Otomanguean > Popoloca-Zapotecan > Popolocan-Mazatecan > Ixcatec-Chocho-Popolocan > Chocho-Popolocan > Popolocan > Southwestern Popolocan > Coyotepec Popoloca"
 wikipedia_url: "https://en.wikipedia.org/wiki/Coyotepec_Popoloca_language"
+translations:
+  - translation_iso: zho
+    name: 科约特佩克波波洛卡语
+    auto: true
 rolv_dialects:
   - rolv_code: 15747
     language_tag: pbf-x-HIS15747

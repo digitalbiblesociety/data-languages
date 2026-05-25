@@ -1,7 +1,6 @@
 ---
 iso: knf
 name: Mankanya
-name_zh: 曼卡尼亞語
 autonym: "Mancanha, Mancagne, Mankaañ"
 alt_names: [Bola, Mancagne, Mancang, Mancanha, Mancaña, Mankan, Mankanha, Mankanyeg]
 population: 96460
@@ -16,6 +15,11 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > North-Central Atlantic > Central Atlantic > Bak > Joola-Manjaku > Manjaku-Mankanya-Pepel > Mankanya"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mankanya_language"
+translations:
+  - translation_iso: jpn
+    name: マンカニャ語
+  - translation_iso: zho
+    name: 曼卡尼亞語
 rolv_dialects:
   - rolv_code: 4996
     language_tag: knf-x-HIS04996

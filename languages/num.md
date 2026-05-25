@@ -1,7 +1,6 @@
 ---
 iso: num
 name: "Niuafo'ou"
-name_zh: 紐阿富歐語
 autonym: Niuafo’ou
 alt_names: ["Niuafo'ouanische Sprache", "Niuafo'oun kieli", Tonga, Ниуафооу]
 population: 690
@@ -15,5 +14,12 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Central Pacific linkage > Tokalau Fijian > Polynesian > Nuclear Polynesian > East Uvean-Niuafo'ou > Niuafo'ou"
 wikipedia_url: "https://en.wikipedia.org/wiki/Niuafo%CA%BBou_language"
+translations:
+  - translation_iso: jpn
+    name: ニウアフォオウ語
+  - translation_iso: kor
+    name: 니우아포오우어
+  - translation_iso: zho
+    name: 紐阿富歐語
 ---
 Niuafoʻou, or Niuafoʻouan, is the language spoken on Tonga's northernmost island, Niuafoʻou.

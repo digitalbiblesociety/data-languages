@@ -1,8 +1,6 @@
 ---
 iso: yeu
 name: Yerukula
-name_zh: 耶鲁库拉语
-name_zh_auto: true
 autonym: ஏறுகள
 alt_names: [Erukala, Eruku Bhasha, Korava, Korchi, Kurru, Kurru Bhasha, Kurutha, Yarukula, Yerkula, Yerukala, Yerukala-Korava, Yerukla, Yerukula-Bhasha]
 population: 68500
@@ -16,6 +14,12 @@ glottolog_family_id: drav1251
 glottolog_family_name: Dravidian
 glottolog_classification: "Dravidian > South Dravidian > South Dravidian I > Tamil-Kannada > Tamil-Kota > Tamil-Toda > Tamil-Irula > Tamil-Kodagu > Tamil-Malayalam > Tamiloid > Yerukula-Korava-Kaikadi > Yerukula"
 wikipedia_url: "https://en.wikipedia.org/wiki/Yerukala_language"
+translations:
+  - translation_iso: hin
+    name: कुर्रु भाषा
+  - translation_iso: zho
+    name: 耶鲁库拉语
+    auto: true
 rolv_dialects:
   - rolv_code: 18549
     language_tag: yeu-x-HIS18549

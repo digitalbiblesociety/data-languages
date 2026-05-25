@@ -1,8 +1,6 @@
 ---
 iso: qve
 name: Eastern Apurímac Quechua
-name_zh: 东部阿普里马克克丘亚语
-name_zh_auto: true
 autonym: Qosqo runasimi
 alt_names: [East Apurimac Quechua, Eastern Apurimac Quechua, "Quechua, Eastern ApurÃ\u00admac", "Quechua, Eastern Apurímac"]
 population: 200000
@@ -15,6 +13,12 @@ glottocode: east2551
 glottolog_family_id: quec1387
 glottolog_family_name: Quechuan
 glottolog_classification: "Quechuan > Southern Quechua > Cuscan Quechua > Eastern Apurímac Quechua"
+translations:
+  - translation_iso: hin
+    name: ईस्टर्न अपुरीमैक क्वेचुआ
+  - translation_iso: zho
+    name: 东部阿普里马克克丘亚语
+    auto: true
 rolv_dialects:
   - rolv_code: 27103
     language_tag: qve-x-HIS27103

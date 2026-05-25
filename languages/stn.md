@@ -1,7 +1,6 @@
 ---
 iso: stn
 name: Owa
-name_zh: 欧瓦语
 autonym: Santa Ana
 alt_names: [Anganiwai, Anganiwei, Narihua, Südliche Salomons-Inseln, Wanoni]
 population: 8410
@@ -15,6 +14,11 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Southeast Solomonic > Longgu-Malaita-Makira > Malaita-Makira > Makira > Owa"
 wikipedia_url: "https://en.wikipedia.org/wiki/Owa_language"
+translations:
+  - translation_iso: jpn
+    name: オワ語
+  - translation_iso: zho
+    name: 欧瓦语
 rolv_dialects:
   - rolv_code: 25485
     language_tag: stn-x-HIS25485

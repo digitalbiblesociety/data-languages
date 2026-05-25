@@ -1,8 +1,6 @@
 ---
 iso: tmd
 name: Haruai
-name_zh: 哈鲁艾语
-name_zh_auto: true
 autonym: Haruai
 alt_names: [Haruai jezik, Harway, Taman, Waibuk, Wiyau, Wiyavik, Wiyaw, Wovan]
 population: 2000
@@ -16,6 +14,10 @@ glottolog_family_id: piaw1238
 glottolog_family_name: Piawi
 glottolog_classification: "Piawi > Haruai"
 wikipedia_url: "https://en.wikipedia.org/wiki/Haruai_language"
+translations:
+  - translation_iso: zho
+    name: 哈鲁艾语
+    auto: true
 rolv_dialects:
   - rolv_code: 10564
     language_tag: tmd-x-HIS10564

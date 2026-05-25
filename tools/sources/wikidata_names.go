@@ -1,20 +1,31 @@
-// wikidata_names sets multilingual name fields from Wikidata's rdfs:label.
+// wikidata_names populates the `translations[]` array on each language file
+// from Wikidata's `rdfs:label` in target languages.
 //
-// Currently populates:
+// Each translation item shape: {translation_iso, name, auto?}. Curated
+// (Wikidata, CLDR) entries omit `auto`. Future LLM/MT-sourced entries set
+// `auto: true`.
 //
-//   - name_zh — Simplified Chinese, preferring zh-Hans > zh-CN > zh-SG > zh
+// Target languages, with priority order for each Wikidata xml:lang tag:
 //
-// Adding more languages later: append an entry to `nameTargets` below. The
-// SPARQL filter and the per-row assignment loop pick it up automatically.
+//	zho  ← zh-hans > zh-cn > zh-sg > zh
+//	jpn  ← ja
+//	hin  ← hi
+//	kor  ← ko
+//	ara  ← ar
+//
+// Adding more languages: append to `translationTargets`. The SPARQL filter
+// and per-row binding logic pick the rest up automatically.
 //
 // Pipeline:
 //
 //	1. One chunked Wikidata SPARQL query gathers all candidate rdfs:label
 //	   bindings whose xml:lang is in any target's priority list. Cached
-//	   monthly as .cache/wikidata-names-<hash>-<YYYY-MM>.json.
+//	   monthly as .cache/wikidata-translations-<hash>-<YYYY-MM>.json.
 //	2. For each ISO with at least one match, the highest-priority label per
-//	   target field wins. Ties resolve in priority order (earlier wins).
-//	3. Apply via corpus.SetScalars in Overwrite mode (Wikidata is canonical).
+//	   target wins. Each becomes one translation item.
+//	3. corpus.MergeFile dedups against existing translations (key:
+//	   translation_iso) and appends new entries. Existing items keep their
+//	   curated data — incoming values fill only empty/missing fields.
 //
 // Honors --only iso[,iso,...] to scope a test run.
 package sources
@@ -38,24 +49,31 @@ type wikidataNames struct{}
 
 func (wikidataNames) Name() string { return "wikidata_names" }
 
-// nameTargets maps a frontmatter field to the xml:lang tags (in priority
-// order, earliest wins) that should populate it. Same target may appear
-// multiple times for related variants.
-type nameTarget struct {
-	Field    string   // frontmatter key, e.g. "name_zh"
-	LangTags []string // xml:lang values, highest priority first
+// translationTarget maps a target translation_iso (ISO 639-3) to the
+// Wikidata xml:lang tags (in priority order, earliest wins) that should
+// populate it.
+type translationTarget struct {
+	Iso  string   // ISO 639-3 of the target language, used as translation_iso
+	Tags []string // xml:lang values, highest priority first
 }
 
-var nameTargets = []nameTarget{
-	{Field: "name_zh", LangTags: []string{"zh-hans", "zh-cn", "zh-sg", "zh"}},
+var translationTargets = []translationTarget{
+	{Iso: "zho", Tags: []string{"zh-hans", "zh-cn", "zh-sg", "zh"}},
+	{Iso: "jpn", Tags: []string{"ja"}},
+	{Iso: "hin", Tags: []string{"hi"}},
+	{Iso: "kor", Tags: []string{"ko"}},
+	{Iso: "ara", Tags: []string{"ar"}},
 }
 
-// All target xml:lang values, used to build the SPARQL filter.
-func allTargetLangs() []string {
+// translationItemOrder is the canonical key order inside each translations[]
+// item. Used by corpus.MergeFile when rendering.
+var translationItemOrder = []string{"translation_iso", "name", "auto"}
+
+func allWikidataLangTags() []string {
 	seen := map[string]bool{}
 	var out []string
-	for _, t := range nameTargets {
-		for _, l := range t.LangTags {
+	for _, t := range translationTargets {
+		for _, l := range t.Tags {
 			if !seen[l] {
 				seen[l] = true
 				out = append(out, l)
@@ -65,22 +83,19 @@ func allTargetLangs() []string {
 	return out
 }
 
-// langTarget maps each xml:lang to (field, priority). Earlier-listed tags
-// in nameTargets[i].LangTags have lower (better) priority numbers.
-type langBinding struct {
-	Field    string
-	Priority int
+type tagBinding struct {
+	Iso      string // translation_iso (target)
+	Priority int    // lower wins
 }
 
-func langBindings() map[string]langBinding {
-	m := map[string]langBinding{}
-	for _, t := range nameTargets {
-		for i, l := range t.LangTags {
-			// First-defined target wins if multiple targets list the same lang.
+func wikidataTagBindings() map[string]tagBinding {
+	m := map[string]tagBinding{}
+	for _, t := range translationTargets {
+		for i, l := range t.Tags {
 			if _, dup := m[l]; dup {
 				continue
 			}
-			m[l] = langBinding{Field: t.Field, Priority: i}
+			m[l] = tagBinding{Iso: t.Iso, Priority: i}
 		}
 	}
 	return m
@@ -115,32 +130,41 @@ func (wikidataNames) Run(opts Options) error {
 		return nil
 	}
 
-	mapping, err := fetchNameMapping(codes, opts.Force)
+	mapping, err := fetchTranslationMapping(codes, opts.Force)
 	if err != nil {
 		return err
 	}
+	fmt.Printf("wikidata: resolved labels for %d ISO(s)\n", len(mapping))
 
-	updates := map[string]map[string]string{} // iso → {field: best label}
-	for iso, byField := range mapping {
-		updates[iso] = byField
-	}
-	fmt.Printf("wikidata: resolved labels for %d ISO(s)\n", len(updates))
-
-	updated, unchanged, missing := 0, 0, 0
-	perField := map[string]int{}
+	updated, unchanged, skipped := 0, 0, 0
+	perTarget := map[string]int{}
 	for _, iso := range codes {
-		byField, ok := updates[iso]
-		if !ok || len(byField) == 0 {
-			missing++
+		byTarget, ok := mapping[iso]
+		if !ok || len(byTarget) == 0 {
+			skipped++
 			continue
 		}
 		path := filepath.Join(opts.Dir, iso+".md")
-		ops := make([]corpus.ScalarOp, 0, len(byField))
-		for field, value := range byField {
-			ops = append(ops, corpus.ScalarOp{Key: field, Value: value, Mode: corpus.Overwrite})
+		items := make([]*corpus.Item, 0, len(byTarget))
+		// Deterministic order by translation_iso for readable diffs.
+		targetIsos := make([]string, 0, len(byTarget))
+		for t := range byTarget {
+			targetIsos = append(targetIsos, t)
 		}
-		sort.Slice(ops, func(i, j int) bool { return ops[i].Key < ops[j].Key })
-		r, err := corpus.SetScalars(path, ops, opts.DryRun)
+		sort.Strings(targetIsos)
+		for _, t := range targetIsos {
+			it := corpus.NewItem()
+			it.Set("translation_iso", t)
+			it.Set("name", byTarget[t])
+			items = append(items, it)
+			perTarget[t]++
+		}
+		r, err := corpus.MergeFile(path, "translations", items, corpus.MergeOptions{
+			DedupKey:   "translation_iso",
+			FieldOrder: translationItemOrder,
+			SortByKey:  true,
+			DryRun:     opts.DryRun,
+		})
 		if err != nil {
 			return fmt.Errorf("%s: %w", path, err)
 		}
@@ -149,17 +173,11 @@ func (wikidataNames) Run(opts Options) error {
 		} else {
 			unchanged++
 		}
-		for _, k := range r.Inserted {
-			perField[k]++
-		}
-		for _, k := range r.Replaced {
-			perField[k]++
-		}
 	}
 
-	fmt.Printf("updated: %d  unchanged: %d  no-label: %d\n", updated, unchanged, missing)
-	for _, t := range nameTargets {
-		fmt.Printf("  %s set: %d\n", t.Field, perField[t.Field])
+	fmt.Printf("updated: %d  unchanged: %d  no-label: %d\n", updated, unchanged, skipped)
+	for _, t := range translationTargets {
+		fmt.Printf("  %s: %d\n", t.Iso, perTarget[t.Iso])
 	}
 	if opts.DryRun {
 		fmt.Println("(dry run — no files written)")
@@ -167,11 +185,11 @@ func (wikidataNames) Run(opts Options) error {
 	return nil
 }
 
-// fetchNameMapping returns a per-ISO map of frontmatter-field → best-priority
-// label string. Cached at a single file keyed by (codes hash, year-month).
-func fetchNameMapping(codes []string, force bool) (map[string]map[string]string, error) {
+// fetchTranslationMapping returns, per ISO, a map of target translation_iso
+// → best-priority label.
+func fetchTranslationMapping(codes []string, force bool) (map[string]map[string]string, error) {
 	hash := codesHash(codes)
-	cacheFile := filepath.Join(".cache", fmt.Sprintf("wikidata-names-%s-%s.json", hash, yearMonth(time.Now().UTC())))
+	cacheFile := filepath.Join(".cache", fmt.Sprintf("wikidata-translations-%s-%s.json", hash, yearMonth(time.Now().UTC())))
 	if !force {
 		if data, err := os.ReadFile(cacheFile); err == nil {
 			var out map[string]map[string]string
@@ -181,8 +199,7 @@ func fetchNameMapping(codes []string, force bool) (map[string]map[string]string,
 			}
 		}
 	}
-
-	out, err := runNameSPARQLChunks(codes)
+	out, err := runTranslationSPARQLChunks(codes)
 	if err != nil {
 		return nil, err
 	}
@@ -195,10 +212,9 @@ func fetchNameMapping(codes []string, force bool) (map[string]map[string]string,
 	return out, nil
 }
 
-func runNameSPARQLChunks(codes []string) (map[string]map[string]string, error) {
-	bindings := langBindings()
-	langList := allTargetLangs()
-	// best[iso][field] = current best (lowest-priority-number) label
+func runTranslationSPARQLChunks(codes []string) (map[string]map[string]string, error) {
+	bindings := wikidataTagBindings()
+	langs := allWikidataLangTags()
 	best := map[string]map[string]string{}
 	bestPri := map[string]map[string]int{}
 
@@ -214,8 +230,8 @@ func runNameSPARQLChunks(codes []string) (map[string]map[string]string, error) {
 		for j, c := range chunk {
 			isoValues[j] = `"` + c + `"`
 		}
-		langValues := make([]string, len(langList))
-		for j, l := range langList {
+		langValues := make([]string, len(langs))
+		for j, l := range langs {
 			langValues[j] = `"` + l + `"`
 		}
 		query := fmt.Sprintf(`SELECT ?iso ?label WHERE {
@@ -232,7 +248,6 @@ func runNameSPARQLChunks(codes []string) (map[string]map[string]string, error) {
 		if err != nil {
 			return nil, fmt.Errorf("chunk %d-%d: %w", i, end, err)
 		}
-
 		var resp sparqlResp
 		if err := json.Unmarshal(body, &resp); err != nil {
 			return nil, fmt.Errorf("parse chunk %d-%d: %w", i, end, err)
@@ -240,11 +255,10 @@ func runNameSPARQLChunks(codes []string) (map[string]map[string]string, error) {
 		for _, b := range resp.Results.Bindings {
 			iso := b["iso"].Value
 			label := b["label"].Value
-			lang := b["label"].XMLLang
+			lang := strings.ToLower(b["label"].XMLLang)
 			if iso == "" || label == "" || lang == "" {
 				continue
 			}
-			lang = strings.ToLower(lang)
 			bind, ok := bindings[lang]
 			if !ok {
 				continue
@@ -256,11 +270,11 @@ func runNameSPARQLChunks(codes []string) (map[string]map[string]string, error) {
 				bestPri[iso] = map[string]int{}
 			}
 			pri := bestPri[iso]
-			if cur, exists := pri[bind.Field]; exists && bind.Priority >= cur {
+			if cur, exists := pri[bind.Iso]; exists && bind.Priority >= cur {
 				continue
 			}
-			fb[bind.Field] = label
-			pri[bind.Field] = bind.Priority
+			fb[bind.Iso] = label
+			pri[bind.Iso] = bind.Priority
 		}
 		time.Sleep(250 * time.Millisecond)
 	}

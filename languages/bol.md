@@ -1,7 +1,6 @@
 ---
 iso: bol
 name: Bole
-name_zh: 博乐语
 autonym: Bòò Pìkkà
 alt_names: [Ampika, Bolanchi, Bolawa, Bolewa, Borpika, Daza, Dazawa]
 population: 216000
@@ -15,6 +14,11 @@ glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > West Chadic > West Chadic A > West Chadic A.2-3 > West Chadic A.2 > Boleic > Nuclear Boleic > Galambu-Bele > Kirfi-Bele > Ngamo-Bele > Bolanci-Bele > Bole"
 wikipedia_url: "https://en.wikipedia.org/wiki/Bole_language"
+translations:
+  - translation_iso: jpn
+    name: ボレ語
+  - translation_iso: zho
+    name: 博乐语
 rolv_dialects:
   - rolv_code: 8265
     language_tag: bol-x-HIS08265

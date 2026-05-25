@@ -1,8 +1,6 @@
 ---
 iso: kzi
 name: Kelabit
-name_zh: 克拉比特语
-name_zh_auto: true
 autonym: Kalabit
 alt_names: [Kerabit]
 population: 1500
@@ -16,6 +14,12 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > North Borneo Malayo-Polynesian > North Sarawakan > Dayic > Kelabit"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kelabit_language"
+translations:
+  - translation_iso: jpn
+    name: クラビト語
+  - translation_iso: zho
+    name: 克拉比特语
+    auto: true
 rolv_dialects:
   - rolv_code: 4638
     language_tag: kzi-x-HIS04638

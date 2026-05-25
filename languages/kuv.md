@@ -1,8 +1,6 @@
 ---
 iso: kuv
 name: Kur
-name_zh: 库尔语
-name_zh_auto: true
 autonym: null
 alt_names: [Indonesia]
 population: 3180
@@ -15,4 +13,8 @@ glottocode: kurr1245
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Tanimbar-Bomberai > Teor-Kur > Kur"
+translations:
+  - translation_iso: zho
+    name: 库尔语
+    auto: true
 ---

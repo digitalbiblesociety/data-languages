@@ -1,8 +1,6 @@
 ---
 iso: tmu
 name: Iau
-name_zh: 伊奥语
-name_zh_auto: true
 autonym: Edopi
 alt_names: [Foi, Iaw, Turu, Urundi, Ururi, Yau]
 population: 1500
@@ -16,6 +14,10 @@ glottolog_family_id: lake1255
 glottolog_family_name: Lakes Plain
 glottolog_classification: "Lakes Plain > Tariku > Central Tariku > Iau"
 wikipedia_url: "https://en.wikipedia.org/wiki/Iau_language"
+translations:
+  - translation_iso: zho
+    name: 伊奥语
+    auto: true
 rolv_dialects:
   - rolv_code: 10752
     language_tag: tmu-x-HIS10752

@@ -1,7 +1,6 @@
 ---
 iso: mal
 name: Malayalam
-name_zh: 马拉雅拉姆语
 autonym: മലയാളം
 alt_names: [Bahasa Malayalam, Fiteny malayalam, Język malajalam, Kerala Portuguese Creole, Lingua Malabarica, Lingua malayalam, Língua malaiala, Malabar Indo-Portuguese Creole, Malaiàlam, Malajala lingvo, Malajalam, Malajalam jezik, Malajalių kalba, Malajalščina, Malajálam nyelv, Malajálamčina, Malajálamština, Malayalam simi, Malayalameg, Malayâlam, Malayâḷam, Malayāḷam, Malyalam, Малаялам, Малајалам језик, מלאיאלאם, لغة ماليالامية, مالايالامچە, މަލަޔާޅަމް, मलयालम भाषा, मलयाळम्‌, মালয়ালম ভাষা, મલયાલમ ભાષા, மலையாளம், మలయాళ భాష, ಮಲಯಾಳಂ, ภาษามาลายาลัม, მალაიალამი, ማላያላም, マラヤーラム語, 马拉雅南语, 马拉雅拉姆语, 말라얄람어]
 population: 37100000
@@ -16,6 +15,17 @@ glottolog_family_id: drav1251
 glottolog_family_name: Dravidian
 glottolog_classification: "Dravidian > South Dravidian > South Dravidian I > Tamil-Kannada > Tamil-Kota > Tamil-Toda > Tamil-Irula > Tamil-Kodagu > Tamil-Malayalam > Malayalamoid > Malayalam"
 wikipedia_url: "https://en.wikipedia.org/wiki/Malayalam"
+translations:
+  - translation_iso: ara
+    name: المليالية
+  - translation_iso: hin
+    name: मलयालम भाषा
+  - translation_iso: jpn
+    name: マラヤーラム語
+  - translation_iso: kor
+    name: 말라얄람어
+  - translation_iso: zho
+    name: 马拉雅拉姆语
 rolv_dialects:
   - rolv_code: 13467
     language_tag: ml-x-HIS13467

@@ -1,8 +1,6 @@
 ---
 iso: tkg
 name: Tesaka Malagasy
-name_zh: 特萨卡马拉加斯语
-name_zh_auto: true
 autonym: malagasy
 alt_names: ["Malagasy, Tesaka"]
 population: 1969000
@@ -16,5 +14,11 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Basap-Greater Barito > Greater Barito linkage > Southeast Barito > Malagasic > Southwestern Malagasic > South West-Central Malagasic > Tesaka Malagasy"
 wikipedia_url: "https://en.wikipedia.org/wiki/Antesaka_dialect"
+translations:
+  - translation_iso: jpn
+    name: タイサカ・マダガスカル語
+  - translation_iso: zho
+    name: 特萨卡马拉加斯语
+    auto: true
 ---
 Tesaka is a dialect of Malagasy spoken by Antesaka people in the region of Atsimo Atsinanana, Madagascar.

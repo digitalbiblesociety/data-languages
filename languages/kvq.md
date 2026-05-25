@@ -1,8 +1,6 @@
 ---
 iso: kvq
 name: Geba Karen
-name_zh: 格巴卡伦语
-name_zh_auto: true
 autonym: Daneh
 alt_names: [Brè, Bwe, Eastern Bwe, Geba, Gebo, Kaba, "Karen, Geba", "Karen,Geba", Karenbyu, Kayinbyu, White Karen]
 population: 10000
@@ -16,6 +14,10 @@ glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Karenic > Central Karen > Geba-Bwe > Geba Karen"
 wikipedia_url: "https://en.wikipedia.org/wiki/Geba_Karen_language"
+translations:
+  - translation_iso: zho
+    name: 格巴卡伦语
+    auto: true
 rolv_dialects:
   - rolv_code: 25159
     language_tag: kvq-x-HIS25159

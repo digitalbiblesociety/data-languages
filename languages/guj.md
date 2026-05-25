@@ -1,7 +1,6 @@
 ---
 iso: guj
 name: Gujarati
-name_zh: 古吉拉特語
 autonym: ગુજરાતી
 alt_names: [Bahasa Gujarat, Bahasa Gujarati, Fiteny Gojaratia, Goudjarateg, Gucharatí, Gudscharati, Gudžarati, Gudžarati keel, Gudžarátština, Gujaratagiella, Gujarati bhasa, Gujarati jezik, Gujarati simi, Gujarâtî, Gujerathi, Gujerati, Gujrathi, Guĝarata lingvo, Idioma guyaratí, Język gudźarati, Kigujarati, Lengua gujarati, Lingua Gujaratensis, Lingua gujarati, Língua guzerate, goudjrati, Гуджарати, Гуджаратски език, Гуджараті, Гуџарати језик, Забони гуҷаратӣ, "גוג'ראטית", زبان گجراتی, گجراتی زبان, گۇجارات تىل, गुजराती, गुजराती भाषा, গুজরাটি ঠার, গুজরাটি ভাষা, ગુજરાતી ભાષા, குஜராத்தி, గుజరాతి భాష, ഗുജറാത്തി ഭാഷ, ภาษาคุชราต, გუჯარათული ენა, ጉጃራቲ, グジャラート語, 古吉拉特语, 구자라트어]
 population: 56400000
@@ -16,6 +15,17 @@ glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Indo-Aryan > Middle-Modern Indo-Aryan > Continental Indo-Aryan > Midlands Indo-Aryan > Apabhramsic > Gujarati-Rajasthani > Gujaratic > Gujarati"
 wikipedia_url: "https://en.wikipedia.org/wiki/Gujarati_language"
+translations:
+  - translation_iso: ara
+    name: الكجراتية
+  - translation_iso: hin
+    name: गुजराती
+  - translation_iso: jpn
+    name: グジャラート語
+  - translation_iso: kor
+    name: 구자라트어
+  - translation_iso: zho
+    name: 古吉拉特語
 rolv_dialects:
   - rolv_code: 3555
     language_tag: gu-x-HIS03555

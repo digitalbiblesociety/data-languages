@@ -1,8 +1,6 @@
 ---
 iso: hnu
 name: Hung
-name_zh: 洪语
-name_zh_auto: true
 autonym: Hung (hnu)Thổ (tou)
 alt_names: [Cuói, "K'katiam-Pong-Houk", "P'eng", Pheng, Phong, Pong, Theng, ภาษาฮุง]
 population: 2000
@@ -16,6 +14,10 @@ glottolog_family_id: aust1305
 glottolog_family_name: Austroasiatic
 glottolog_classification: "Austroasiatic > Vietic > Cuoi > Hung"
 wikipedia_url: "https://en.wikipedia.org/wiki/Phong_language"
+translations:
+  - translation_iso: zho
+    name: 洪语
+    auto: true
 rolv_dialects:
   - rolv_code: 10728
     language_tag: hnu-x-HIS10728

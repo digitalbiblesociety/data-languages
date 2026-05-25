@@ -1,8 +1,6 @@
 ---
 iso: ajz
 name: Amri Karbi
-name_zh: 阿姆里卡尔比语
-name_zh_auto: true
 autonym: Amri Karbi
 alt_names: [Amri, AmriKarbi, "Karbi, Amri"]
 population: 125000
@@ -16,6 +14,12 @@ glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Kuki-Chin-Naga > Karbic > Amri Karbi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Amri_Karbi_language"
+translations:
+  - translation_iso: jpn
+    name: アムリ語
+  - translation_iso: zho
+    name: 阿姆里卡尔比语
+    auto: true
 rolv_dialects:
   - rolv_code: 24236
     language_tag: ajz-x-HIS24236

@@ -1,8 +1,6 @@
 ---
 iso: ybi
 name: Yamphu
-name_zh: 扬普语
-name_zh_auto: true
 autonym: Yamphe
 alt_names: [Jindā, Rai, Yamphu Kha, Yamphu Rai, Yamphuish, Yampoueg, Yanphu]
 population: 1720
@@ -16,6 +14,10 @@ glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Himalayish > Mahakiranti > Kiranti > Eastern Kiranti > Upper Arun > Lohorung-Yamphu > Yamphuic > Yamphu"
 wikipedia_url: "https://en.wikipedia.org/wiki/Yamphu_language"
+translations:
+  - translation_iso: zho
+    name: 扬普语
+    auto: true
 rolv_dialects:
   - rolv_code: 26433
     language_tag: ybi-x-HIS26433

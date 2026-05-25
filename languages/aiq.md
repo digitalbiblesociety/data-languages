@@ -1,7 +1,6 @@
 ---
 iso: aiq
 name: Aimaq
-name_zh: 艾马克语
 autonym: گویش ایماقی
 alt_names: [Aimakeg, Aimaq dialect, Aimaq jezik, Aímagíska, Barbari, Berberi, Chahar-Aimaq, Char Aimaq, ภาษาอายมัก]
 population: 1000
@@ -15,6 +14,13 @@ glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Iranian-Nuristani > Iranian > Southwestern Iranian > Middle-Modern Persian > Modern Southwestern Iranian > Farsic-Caucasian Tat > Farsic > Eastern Farsic > Aimaq"
 wikipedia_url: "https://en.wikipedia.org/wiki/Aimaq_dialect"
+translations:
+  - translation_iso: ara
+    name: اللهجة الإيماقية
+  - translation_iso: jpn
+    name: アイマク語
+  - translation_iso: zho
+    name: 艾马克语
 rolv_dialects:
   - rolv_code: 6772
     language_tag: aiq-x-HIS06772

@@ -1,7 +1,6 @@
 ---
 iso: amw
 name: "Western Neo-Aramaic"
-name_zh: 西新亞拉姆語
 autonym: Sūryān
 alt_names: [Aramaic, Araméen occidental, Lishshoona Aroomay, Liššōna Arōmay, Loghtha Siryanoytha, Loghtha Siryanōytha, "Ma'lula", Maaloula, Maalula, Neo-Aramaic, "Neo-Aramaic, Western", Neo-Western Aramaic, Neo-arameo sirio, Neuwestaramäische Sprache, "Nevez-aramaeg ar c'hornôg", Néo-araméen occidental, Siryanooytha, Siryanoytha, Siryon, Siryoon, Siryōn, Western, Zapadni novoaramejski, Západní aramejština, Западен неоарамејски јазик, ארמית מערבית חדשה, ภาษาอราเมอิกใหม่ตะวันตก]
 population: 15000
@@ -15,6 +14,13 @@ glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Semitic > West Semitic > Central Semitic > Northwest Semitic > Aramaic > Imperial-Middle-Modern Aramaic > Middle-Modern Aramaic > Western Aramaic > Western Neo-Aramaic"
 wikipedia_url: "https://en.wikipedia.org/wiki/Western_Neo-Aramaic"
+translations:
+  - translation_iso: ara
+    name: آرامية غربية حديثة
+  - translation_iso: jpn
+    name: 現代西アラム語
+  - translation_iso: zho
+    name: 西新亞拉姆語
 rolv_dialects:
   - rolv_code: 18284
     language_tag: amw-x-HIS18284

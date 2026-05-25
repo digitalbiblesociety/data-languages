@@ -1,8 +1,6 @@
 ---
 iso: url
 name: Urali
-name_zh: 乌拉利语
-name_zh_auto: true
 autonym: Oorazhi
 alt_names: [Uraly, Urli]
 population: null
@@ -16,6 +14,10 @@ glottolog_family_id: drav1251
 glottolog_family_name: Dravidian
 glottolog_classification: "Dravidian > South Dravidian > South Dravidian I > Tamil-Kannada > Tamil-Kota > Tamil-Toda > Tamil-Irula > Tamil-Kodagu > Urali of Idukki"
 wikipedia_url: "https://en.wikipedia.org/wiki/Urali_language"
+translations:
+  - translation_iso: zho
+    name: 乌拉利语
+    auto: true
 rolv_dialects:
   - rolv_code: 4207
     language_tag: url-x-HIS04207

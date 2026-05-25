@@ -1,8 +1,6 @@
 ---
 iso: erw
 name: Erokwanas
-name_zh: 埃罗克瓦纳斯语
-name_zh_auto: true
 autonym: bahasa Erokwanas
 population: 200
 country_id: ID
@@ -15,6 +13,10 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Tanimbar-Bomberai > Nuta > Yarikman"
 wikipedia_url: "https://en.wikipedia.org/wiki/Erokwanas_language"
+translations:
+  - translation_iso: zho
+    name: 埃罗克瓦纳斯语
+    auto: true
 rolv_dialects:
   - rolv_code: 24127
     language_tag: erw-x-HIS24127

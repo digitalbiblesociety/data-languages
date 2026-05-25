@@ -1,8 +1,6 @@
 ---
 iso: mbs
 name: Sarangani Manobo
-name_zh: 萨兰加尼曼诺博语
-name_zh_auto: true
 autonym: Sarangani Manobo
 alt_names: ["Manobo, Sarangani", Philippines]
 population: 58000
@@ -16,6 +14,10 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Greater Central Philippine > Manobo > Central and Southern Manobo > South Manobo > Sarangani-Tasaday-Cotabato > Sarangani Manobo"
 wikipedia_url: "https://en.wikipedia.org/wiki/Sarangani_language"
+translations:
+  - translation_iso: zho
+    name: 萨兰加尼曼诺博语
+    auto: true
 rolv_dialects:
   - rolv_code: 13650
     language_tag: mbs-x-HIS13650

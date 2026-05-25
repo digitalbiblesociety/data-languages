@@ -1,7 +1,6 @@
 ---
 iso: gbz
 name: Zoroastrian Dari
-name_zh: 祆教達利語
 autonym: Gabri
 alt_names: ["\"Gabar\"", "\"Gabri\"", "\"Yazdi\"", Behdinan dialect, Dari, "Dari, Zoroastrian", Darí, Yazdi, Zoroastrian, Дари, ภาษาดารี]
 population: 11500
@@ -16,5 +15,12 @@ glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Iranian-Nuristani > Iranian > Central Iranian PBS > Central Iranian PB > Northwestern Iranian > Central Iran Kermanic > Nuclear Central Iran Kermanic > Yazdi-Kermani-Nayini > Zoroastrian Yazdi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Zoroastrian_Dari_language"
+translations:
+  - translation_iso: jpn
+    name: ダリー語
+  - translation_iso: kor
+    name: 조로아스터교 다리어
+  - translation_iso: zho
+    name: 祆教達利語
 ---
 Zoroastrian Dari, also known as the Bahdinan dialect and often simply known as Dari, is a Northwestern Iranian language, and specifically a variety of the Central Plateau languages. This language has been described as an ethnolect.

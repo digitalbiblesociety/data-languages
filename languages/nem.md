@@ -1,8 +1,6 @@
 ---
 iso: nem
 name: Nemi
-name_zh: 内米语
-name_zh_auto: true
 autonym: null
 alt_names: [Neukaledonien]
 population: 320
@@ -16,5 +14,11 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Southern Melanesian > New Caledonian > Mainland New Caledonian > Northern New Caledonian > Mid-Northern New Caledonian > Nmi-Pij-Fwa-Pam-Pap > Nmi-Fij-Fwa > Hyenghene > Nemi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Nemi_language"
+translations:
+  - translation_iso: jpn
+    name: ネミ語
+  - translation_iso: zho
+    name: 内米语
+    auto: true
 ---
 The Nemi language is a Kanak language of the Austronesian language family spoken by 320 people in the north of New Caledonia, in the commune of Hienghène. Dialects include Ouanga, Ouélis, and Kavatch.

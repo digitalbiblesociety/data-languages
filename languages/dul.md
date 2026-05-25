@@ -1,8 +1,6 @@
 ---
 iso: dul
 name: Alabat Island Agta
-name_zh: 阿拉巴特岛阿格塔语
-name_zh_auto: true
 autonym: Alabat Island Agta
 alt_names: ["Agta de l'île d'Alabat", Agta de la isla Alabat, "Agta, Alabat Island", Alabat Island Dumagat, Inagta Alabat]
 population: 10
@@ -16,5 +14,9 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Greater Central Philippine > Central Philippine > Alabat-Manide Agta > Alabat Island Agta"
 wikipedia_url: "https://en.wikipedia.org/wiki/Inagta_Alabat_language"
+translations:
+  - translation_iso: zho
+    name: 阿拉巴特岛阿格塔语
+    auto: true
 ---
 Inagta Alabat or Ayta Kadi is a Philippine Negrito language spoken in central Alabat Island, Philippines. Its speakers began arriving on the island in the 1970s but originated from Villa Espina in Lopez, with earlier settlements in Gumaca and perhaps other towns.

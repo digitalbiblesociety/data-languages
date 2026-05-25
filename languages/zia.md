@@ -1,8 +1,6 @@
 ---
 iso: zia
 name: Zia
-name_zh: 齐亚语
-name_zh_auto: true
 autonym: null
 alt_names: [Lenga Zia, Lower Waria, Mawae, Tsia, Ziya]
 population: 6550
@@ -16,6 +14,10 @@ glottolog_family_id: nucl1709
 glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Greater Binanderean > Binanderean > North Binanderean > Zia"
 wikipedia_url: "https://en.wikipedia.org/wiki/Zia_language"
+translations:
+  - translation_iso: zho
+    name: 齐亚语
+    auto: true
 rolv_dialects:
   - rolv_code: 18715
     language_tag: zia-x-HIS18715

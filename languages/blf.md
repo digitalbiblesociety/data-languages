@@ -1,8 +1,6 @@
 ---
 iso: blf
 name: Buol
-name_zh: 布奥尔语
-name_zh_auto: true
 autonym: Apadu Vuolo
 alt_names: [Bual, "Bwo'ol", Dia]
 population: 90200
@@ -16,5 +14,9 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Greater Central Philippine > Gorontalo-Mongondow > Gorontalic > Buol"
 wikipedia_url: "https://en.wikipedia.org/wiki/Buol_language"
+translations:
+  - translation_iso: zho
+    name: 布奥尔语
+    auto: true
 ---
 Buol is an Austronesian language spoken in Buol Regency, northwestern Sulawesi, Indonesia.

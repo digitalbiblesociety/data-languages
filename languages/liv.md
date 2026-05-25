@@ -1,7 +1,6 @@
 ---
 iso: liv
 name: Liv
-name_zh: 立窝尼亚语
 autonym: līvõ kēļ
 alt_names: [Idioma livonio, Język liwski, Lenga Liv, Liefs, Liivi keel, Liivi kiil, Liivigiella, Liivin kieli, Liivõ Keelj, Lijfs, Lingua livoniana, Livian, Livisch, Livische Sprache, Livisk, Livisk språk, Liviska, Livona lingvo, Livoneg, Livonia-gí, Livonian, Livonian language, Livonish, Livonià, Livonskt, Livonština, Livón, Lyfs, Lyvių kalba, Língua livoniana, Lív nyelv, Lībiešu valoda, Zimanê lîvonî, kurländisch-livisch, libiesu valoda, liiv, live, livskij jazyk, livy, rändalis-, rānda kēl΄, rānda kēļ, Лив кыв, Лив чĕлхи, Ливонски език, Ливский язык, ליבונית, ლივური ენა, リヴォニア語, 利沃尼亚语, 리브어]
 population: null
@@ -16,6 +15,15 @@ glottolog_family_id: ural1272
 glottolog_family_name: Uralic
 glottolog_classification: "Uralic > Finnic > Coastal Finnic > Liv"
 wikipedia_url: "https://en.wikipedia.org/wiki/Livonian_language"
+translations:
+  - translation_iso: ara
+    name: الليفونية
+  - translation_iso: jpn
+    name: リヴォニア語
+  - translation_iso: kor
+    name: 리브어
+  - translation_iso: zho
+    name: 立窝尼亚语
 rolv_dialects:
   - rolv_code: 13014
     language_tag: liv-x-HIS13014

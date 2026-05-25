@@ -1,8 +1,6 @@
 ---
 iso: ldp
 name: Tso
-name_zh: 佐语
-name_zh_auto: true
 autonym: nyi tsó
 alt_names: [Cibbo, Cuyi Tsó, Kitta, Lotsu-Piri, Pire, Piri, Tsóbó]
 population: 16000
@@ -16,6 +14,10 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Gur > Central Gur > Tula-Longuda > Tula-Waja > Tulaic > Tso"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tso_language"
+translations:
+  - translation_iso: zho
+    name: 佐语
+    auto: true
 rolv_dialects:
   - rolv_code: 17666
     language_tag: ldp-x-HIS17666

@@ -1,8 +1,6 @@
 ---
 iso: odu
 name: Odual
-name_zh: 奥杜阿尔语
-name_zh_auto: true
 autonym: Saka
 alt_names: [Odual language]
 population: 18000
@@ -16,6 +14,10 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Delta Cross > Central Delta > Abua-Odual > Odual"
 wikipedia_url: "https://en.wikipedia.org/wiki/Odual_language"
+translations:
+  - translation_iso: zho
+    name: 奥杜阿尔语
+    auto: true
 rolv_dialects:
   - rolv_code: 15230
     language_tag: odu-x-HIS15230

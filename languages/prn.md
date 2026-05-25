@@ -1,7 +1,6 @@
 ---
 iso: prn
 name: Prasuni
-name_zh: 瓦什瓦里语
 autonym: Prasuni
 alt_names: [Język wasi-weri, Nuristani, Parun, Paruni, Prasun, Prasuní, Pārūnī, Vasi vari, Vasi-vari, Vasi-vari language, Veron, Verou, Veruni, Vâsi-vari, Wasi-Veri, Wasi-Wari, Wasi-weri, Прасун, ภาษาวาซิ-วารี]
 population: 8000
@@ -15,6 +14,13 @@ glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Iranian-Nuristani > Nuristani > Prasun"
 wikipedia_url: "https://en.wikipedia.org/wiki/Prasun_language"
+translations:
+  - translation_iso: ara
+    name: واسي وري
+  - translation_iso: jpn
+    name: プラスーン語
+  - translation_iso: zho
+    name: 瓦什瓦里语
 rolv_dialects:
   - rolv_code: 15764
     language_tag: prn-x-HIS15764

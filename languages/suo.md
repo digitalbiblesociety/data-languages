@@ -1,8 +1,6 @@
 ---
 iso: suo
 name: Bouni
-name_zh: 博乌尼语
-name_zh_auto: true
 autonym: Sumo
 country_id: PG
 country_name: Papua New Guinea
@@ -13,6 +11,10 @@ glottolog_family_id: skoo1245
 glottolog_family_name: Sko
 glottolog_classification: "Sko > Skou-Serra-Piore > Barupu Lagoon > Bouni-Bobe"
 wikipedia_url: "https://en.wikipedia.org/wiki/Bouni_language"
+translations:
+  - translation_iso: zho
+    name: 博乌尼语
+    auto: true
 rolv_dialects:
   - rolv_code: 26183
     language_tag: suo-x-HIS26183

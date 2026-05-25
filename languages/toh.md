@@ -1,8 +1,6 @@
 ---
 iso: toh
 name: Gitonga
-name_zh: 吉通加语
-name_zh_auto: true
 autonym: "Tonga-Inhambane"
 alt_names: [Bitonga, Inhambane, Shengwe, Tonga]
 population: 327000
@@ -16,6 +14,10 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > East Bantu > Southern Bantu > Nuclear Southern Bantu > Dimsuffix Southern Bantu > Nguni-Tsonga-Copi > Tsonga-Copi > Chopi (S.60) > Gitonga"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tonga_language_(Mozambique)"
+translations:
+  - translation_iso: zho
+    name: 吉通加语
+    auto: true
 rolv_dialects:
   - rolv_code: 10251
     language_tag: toh-x-HIS10251

@@ -1,8 +1,6 @@
 ---
 iso: mkr
 name: Malas
-name_zh: 玛拉斯语
-name_zh_auto: true
 autonym: Malas
 population: 650
 country_id: PG
@@ -15,5 +13,9 @@ glottolog_family_id: nucl1709
 glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Madang > Croisilles > Greater Northern Adelbert > Northern Adelbert > Manep-Barem > Manep"
 wikipedia_url: "https://en.wikipedia.org/wiki/Manep_language"
+translations:
+  - translation_iso: zho
+    name: 玛拉斯语
+    auto: true
 ---
 Manep is a Papuan language of Sumgilbar Rural LLG, Madang Province, Papua New Guinea.

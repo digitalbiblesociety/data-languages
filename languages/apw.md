@@ -1,7 +1,6 @@
 ---
 iso: apw
 name: Western Apache
-name_zh: 西阿帕奇語
 autonym: "Ndee biyáti' / Nnee biyáti' "
 alt_names: [Apache, Apache (San Carlos), Apache (Western), Apache occidental, "Apache, Western", Arivaipa, Cibecu, Coyotero, Kunti apachi simi, San Carlos Apache, San Carlos Cluster, San Carlos-Southern Tonto, Tonto, W Apache, W. Apache, Western, White River Apache, Западно-апачский язык]
 population: 14000
@@ -15,6 +14,11 @@ glottolog_family_id: atha1245
 glottolog_family_name: Athabaskan-Eyak-Tlingit
 glottolog_classification: "Athabaskan-Eyak-Tlingit > Athabaskan-Eyak > Athabaskan > Apachean > Southwestern Apachean > Western Southwestern Apachean > Western Apache"
 wikipedia_url: "https://en.wikipedia.org/wiki/Western_Apache_language"
+translations:
+  - translation_iso: jpn
+    name: サンカルロス・アパッチ語
+  - translation_iso: zho
+    name: 西阿帕奇語
 rolv_dialects:
   - rolv_code: 336
     language_tag: apw-x-HIS00336

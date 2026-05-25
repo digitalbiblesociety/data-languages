@@ -1,8 +1,6 @@
 ---
 iso: llx
 name: Lauan
-name_zh: 劳安语
-name_zh_auto: true
 autonym: Lau
 alt_names: [Fidji-Inseln]
 population: 16000
@@ -16,6 +14,10 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Central Pacific linkage > Tokalau Fijian > Eastern Fijian > Lauan"
 wikipedia_url: "https://en.wikipedia.org/wiki/Lauan_language"
+translations:
+  - translation_iso: zho
+    name: 劳安语
+    auto: true
 rolv_dialects:
   - rolv_code: 12786
     language_tag: llx-x-HIS12786

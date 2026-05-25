@@ -1,7 +1,6 @@
 ---
 iso: kbl
 name: Kanembu
-name_zh: 卡内姆布语
 autonym: Kanambu
 alt_names: [Bornu, Kaidi-Kanembu, Kanembou, Kanemhu, Kanuri, Lenga Kanembu, Língua kanembu, Канембуски јазик]
 population: 877200
@@ -15,6 +14,15 @@ glottolog_family_id: saha1256
 glottolog_family_name: Saharan
 glottolog_classification: "Saharan > Western Saharan > Kanuri-Kanembu > Kanembuic > Kanembu"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kanembu_language"
+translations:
+  - translation_iso: ara
+    name: كانانبو
+  - translation_iso: jpn
+    name: カネンブ語
+  - translation_iso: kor
+    name: 카넴부어
+  - translation_iso: zho
+    name: 卡内姆布语
 rolv_dialects:
   - rolv_code: 11506
     language_tag: kbl-x-HIS11506

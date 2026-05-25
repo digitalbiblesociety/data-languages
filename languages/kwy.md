@@ -1,8 +1,6 @@
 ---
 iso: kwy
 name: San Salvador Kongo
-name_zh: 圣萨尔瓦多刚果语
-name_zh_auto: true
 autonym: Kikongo
 alt_names: [Cimbala-Cizali, Congo, Kikoongo, Kisikongo, "Kongo, San Salvador"]
 population: 537000
@@ -15,6 +13,12 @@ glottocode: sans1272
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > Central-Western Bantu > West-Coastal Bantu > Nzadic > Lweric > Dingic > Loange-Atlantic > KLC Extended > Kikongo Language Cluster > Nuclear KLC > Kikongoic > Kambakunyic Kikongo > Kilaadic Kikongo > Central-Southern Kikongo > West Kikongo > San Salvador Kongo"
+translations:
+  - translation_iso: jpn
+    name: サンサルバドル・コンゴ語
+  - translation_iso: zho
+    name: 圣萨尔瓦多刚果语
+    auto: true
 rolv_dialects:
   - rolv_code: 29739
     language_tag: kwy-x-HIS29739

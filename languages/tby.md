@@ -1,8 +1,6 @@
 ---
 iso: tby
 name: Tabaru
-name_zh: 塔巴鲁语
-name_zh_auto: true
 autonym: Tobaru
 population: 15800
 country_id: ID
@@ -15,6 +13,12 @@ glottolog_family_id: nort2923
 glottolog_family_name: North Halmahera
 glottolog_classification: "North Halmahera > Northern North Halmahera > Mainland North Halmaheran > Tabaru"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tabaru_language"
+translations:
+  - translation_iso: jpn
+    name: トバル語
+  - translation_iso: zho
+    name: 塔巴鲁语
+    auto: true
 rolv_dialects:
   - rolv_code: 17004
     language_tag: tby-x-HIS17004

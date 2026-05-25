@@ -1,8 +1,6 @@
 ---
 iso: mma
 name: Mama
-name_zh: 玛玛语
-name_zh_auto: true
 autonym: Kantana
 alt_names: [Kwarra]
 population: 20000
@@ -16,5 +14,9 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Jarawan > Nigerian Jarawan > Jar > Mama"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mama_language"
+translations:
+  - translation_iso: zho
+    name: 玛玛语
+    auto: true
 ---
 Mama, or Kantana, is a Jarawan language spoken in Nigeria.

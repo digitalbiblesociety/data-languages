@@ -1,8 +1,6 @@
 ---
 iso: knx
 name: Kendayan
-name_zh: 肯达扬语
-name_zh_auto: true
 autonym: " Salako"
 alt_names: [Baicit, Damea, Dayak, Kenayatn, Kendayan Dayak, Kendayan-Ambawang, Salakau, Selakau, Selako, Silakau]
 population: 331700
@@ -16,6 +14,10 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Malayo-Chamic > Malayic > Western Malayic Dayak > Kendayan-Belangin"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kendayan_language"
+translations:
+  - translation_iso: zho
+    name: 肯达扬语
+    auto: true
 rolv_dialects:
   - rolv_code: 4553
     language_tag: knx-x-HIS04553

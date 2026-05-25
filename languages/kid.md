@@ -1,8 +1,6 @@
 ---
 iso: kid
 name: Koshin
-name_zh: 科申语
-name_zh_auto: true
 autonym: Kaw
 alt_names: [Kosin]
 population: 1000
@@ -16,6 +14,10 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Yemne-Kimbi > Koshin-Bukwen > Koshin"
 wikipedia_url: "https://en.wikipedia.org/wiki/Koshin_language"
+translations:
+  - translation_iso: zho
+    name: 科申语
+    auto: true
 rolv_dialects:
   - rolv_code: 28832
     language_tag: kid-x-HIS28832

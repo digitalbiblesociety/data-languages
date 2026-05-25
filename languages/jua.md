@@ -1,8 +1,6 @@
 ---
 iso: jua
 name: Júma
-name_zh: 朱玛语
-name_zh_auto: true
 autonym: Kawahib
 alt_names: [Arara, Cabahyba, Cauaiua, Cauhib, Cawahib, Diahoi, Diahói, Diarroi, Djahui, Jauareta-Tapiia, Jiahui, Juma, Kagwahibm, Kagwahiph, Kagwahiv, Kagwahiva, Karipuna, Katauixi, Kavahiva, Kawahib/Paranawat/Pawaté-Wirafed, Kawahip, Kawaib, Paranawat, Parintintín, Parintintín/Tenharim/Juma, Pawaté-Wirafed, Tenharim, Tenharím, Tenharín, Tukumanfed, Uru-eu-uau-uau, Yuma, Yumá]
 population: 300
@@ -16,5 +14,9 @@ glottolog_family_id: tupi1275
 glottolog_family_name: Tupian
 glottolog_classification: "Tupian > Eastern Tupian > Maweti-Guarani > Aweti-Guarani > Tupi-Guarani > Tupi-Guarani Subgroup VI > Kawahiva > Nuclear Kawahiva > Júma"
 wikipedia_url: "https://en.wikipedia.org/wiki/Juma_dialect"
+translations:
+  - translation_iso: zho
+    name: 朱玛语
+    auto: true
 ---
 Júma (Arara-Kawahib) is one of the eight ethnic varieties of the Kagwahiva language, which belongs to Subgroup VI of the Tupi-Guarani languages. The most elderly native speaker, called Aruka Juma, died in 2021.

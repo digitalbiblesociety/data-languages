@@ -1,7 +1,6 @@
 ---
 iso: pal
 name: Pahlavi
-name_zh: 中古波斯语
 autonym: "𐭯𐭠𐭫𐭮𐭩𐭪 (, )"
 population: null
 country_id: IR
@@ -15,5 +14,16 @@ glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Iranian-Nuristani > Iranian > Southwestern Iranian > Middle-Modern Persian > Pahlavi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Middle_Persian"
+translations:
+  - translation_iso: ara
+    name: الفهلوية
+  - translation_iso: hin
+    name: मध्य फ़ारसी भाषा
+  - translation_iso: jpn
+    name: パフラヴィー語
+  - translation_iso: kor
+    name: 팔라비어
+  - translation_iso: zho
+    name: 中古波斯语
 ---
 Middle Persian, also known by its endonym Pārsīk or Pārsīg in its later form, is a Western Middle Iranian language which became the literary language of the Sasanian Empire. For some time after the Sasanian collapse, Middle Persian continued to function as a prestige language. It descended from Old Persian, the language of the Achaemenid Empire and is the linguistic ancestor of Modern Persian, the official language of Iran, Afghanistan (Dari) and Tajikistan (Tajik).

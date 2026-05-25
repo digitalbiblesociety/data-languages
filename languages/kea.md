@@ -1,7 +1,6 @@
 ---
 iso: kea
 name: Kabuverdianu
-name_zh: 佛得角克里奥尔语
 autonym: Kriolu
 alt_names: [Caboverdiano, Cape Verdean Creole, Creolo capoverdiano, Criollo caboverdiano, Crioulo, Crioulo cabo-verdiano, Crioulo caboverdiano, Créole du Cap-Vert, Język kreolski Wysp Zielonego Przylądka, Kap Verde-kreol, Kapverdisches Kreol, Kapverdská kreolština, Кабовердиански език, Кабувердьяну, カーボベルデ・クレオール語]
 population: 478000
@@ -16,6 +15,17 @@ glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Italic > Latino-Faliscan > Latinic > Imperial Latin > Romance > Italo-Western Romance > Western Romance > Shifted Western Romance > Southwestern Shifted Romance > West Ibero-Romance > Galician Romance > Macro-Portuguese > Upper Guinea Portuguese > Kabuverdianu"
 wikipedia_url: "https://en.wikipedia.org/wiki/Cape_Verdean_Creole"
+translations:
+  - translation_iso: ara
+    name: الرأس الأخضر
+  - translation_iso: hin
+    name: काबुवेर्दियानु
+  - translation_iso: jpn
+    name: カーボベルデ・クレオール語
+  - translation_iso: kor
+    name: 카보베르데 크리올
+  - translation_iso: zho
+    name: 佛得角克里奥尔语
 rolv_dialects:
   - rolv_code: 3069
     language_tag: kea-x-HIS03069

@@ -1,8 +1,6 @@
 ---
 iso: ntm
 name: Nateni
-name_zh: 纳特尼语
-name_zh_auto: true
 autonym: null
 alt_names: [Natimba, Tayari]
 population: 102000
@@ -16,6 +14,10 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Gur > Central Gur > Northern Central Gur > Bwamu-Oti-Volta > Oti-Volta > Nuclear Oti-Volta > Oti-Volta Oriental > Waama-Tayari-Ditammari > Tayari-Ditammari > Nateni"
 wikipedia_url: "https://en.wikipedia.org/wiki/Nateni_language"
+translations:
+  - translation_iso: zho
+    name: 纳特尼语
+    auto: true
 rolv_dialects:
   - rolv_code: 2764
     language_tag: ntm-x-HIS02764

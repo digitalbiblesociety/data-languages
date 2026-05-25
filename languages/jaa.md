@@ -1,7 +1,6 @@
 ---
 iso: jaa
 name: Jamamadí
-name_zh: 賈瑪瑪蒂語
 autonym: Jamamadí
 alt_names: [Banauá, Banavá, Banawá, Banawá yafi, Banivá, Baniwá-Jafí, Canamanti, Jafí, Jamamadi, Jamanadí, Jarauára, Jarawara, Jaruára, Kanamanti, Kitiya, Madi, Yamadi, Yamamadi, Yamamadí, Yarawara]
 population: 780
@@ -15,6 +14,13 @@ glottolog_family_id: araw1282
 glottolog_family_name: Arawan
 glottolog_classification: "Arawan > Madi-Madiha > Madi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mad%C3%AD_language"
+translations:
+  - translation_iso: jpn
+    name: ヤママディ語
+  - translation_iso: kor
+    name: 마디어
+  - translation_iso: zho
+    name: 賈瑪瑪蒂語
 rolv_dialects:
   - rolv_code: 3816
     language_tag: jaa-x-HIS03816

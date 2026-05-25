@@ -1,8 +1,6 @@
 ---
 iso: xkb
 name: Northern Nago
-name_zh: 北纳戈语
-name_zh_auto: true
 autonym: Ana
 alt_names: ["Ede Nago, Manigri-Kambolé", Kambolé, Manigri, Manigri-Kambole Ede Nago, "Nago, Northern", Southwest Ede]
 population: 86800
@@ -15,4 +13,8 @@ glottocode: mani1294
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Defoid > Yoruboid > Edekiri > Ede > Western Ede > Southwestern Ede > Manigri-Kambolé Ede Nago"
+translations:
+  - translation_iso: zho
+    name: 北纳戈语
+    auto: true
 ---

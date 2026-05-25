@@ -1,8 +1,6 @@
 ---
 iso: mdj
 name: Mangbetu
-name_zh: 曼格贝图语
-name_zh_auto: true
 autonym: Nemangbetu
 alt_names: [Amangbetu, Kingbetu, Mambetto, Mangbettu]
 population: 620000
@@ -16,6 +14,12 @@ glottolog_family_id: cent2225
 glottolog_family_name: Central Sudanic
 glottolog_classification: "Central Sudanic > Mangbetu-Asua > Mangbetuic > Mangbetu"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mangbetu_language"
+translations:
+  - translation_iso: jpn
+    name: マングベツ語
+  - translation_iso: zho
+    name: 曼格贝图语
+    auto: true
 rolv_dialects:
   - rolv_code: 1420
     language_tag: mdj-x-HIS01420

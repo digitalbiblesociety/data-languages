@@ -1,8 +1,6 @@
 ---
 iso: sok
 name: Sokoro
-name_zh: 索科罗语
-name_zh_auto: true
 autonym: null
 alt_names: [Bedanga]
 population: 5000
@@ -16,6 +14,14 @@ glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > East Chadic > East Chadic B > East Chadic B.3 > Sokoroic > Saba-Sokoro-Tamki > Sokoro"
 wikipedia_url: "https://en.wikipedia.org/wiki/Sokoro_language"
+translations:
+  - translation_iso: ara
+    name: سوكورو
+  - translation_iso: jpn
+    name: ソコロ語
+  - translation_iso: zho
+    name: 索科罗语
+    auto: true
 rolv_dialects:
   - rolv_code: 16815
     language_tag: sok-x-HIS16815

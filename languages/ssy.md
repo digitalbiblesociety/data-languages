@@ -1,7 +1,6 @@
 ---
 iso: ssy
 name: Saho
-name_zh: 萨霍语
 autonym: Sao
 alt_names: [Lenga Saho, Língua saho, Saho hizkuntza, Sahoeg, Shaho, Shiho, Shoho, Šoho]
 population: 275800
@@ -16,6 +15,17 @@ glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Cushitic > East Cushitic > Lowland East Cushitic > Saho-Afar > Saho"
 wikipedia_url: "https://en.wikipedia.org/wiki/Saho_language"
+translations:
+  - translation_iso: ara
+    name: لغة ساهو
+  - translation_iso: hin
+    name: साहो
+  - translation_iso: jpn
+    name: サホ語
+  - translation_iso: kor
+    name: 사호어
+  - translation_iso: zho
+    name: 萨霍语
 rolv_dialects:
   - rolv_code: 16184
     language_tag: ssy-x-HIS16184

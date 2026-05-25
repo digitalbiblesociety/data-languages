@@ -1,8 +1,6 @@
 ---
 iso: pbn
 name: Kpasam
-name_zh: 克帕萨姆语
-name_zh_auto: true
 autonym: Nyesam
 alt_names: ["'Balo", Kpasham, Nyisam, Passam]
 population: 3000
@@ -16,5 +14,9 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Cameroun-Ubangian > Central Adamawa > Mumuye-Yandang > Yandangic > Bali-Kpasam > Kpasam"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kpasam_language"
+translations:
+  - translation_iso: zho
+    name: 克帕萨姆语
+    auto: true
 ---
 Kpasam is an Adamawa language of Demsa LGA, Adamawa State, Nigeria.

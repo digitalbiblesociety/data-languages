@@ -1,8 +1,6 @@
 ---
 iso: yak
 name: Yakama
-name_zh: 亚卡玛语
-name_zh_auto: true
 autonym: Ichishkíin
 alt_names: [Klickitat, Klikitat, Northwestern, Sahaptin, Sahaptin (Northern), Yakima]
 population: 3000
@@ -15,6 +13,12 @@ glottocode: yaki1237
 glottolog_family_id: saha1239
 glottolog_family_name: Sahaptian
 glottolog_classification: "Sahaptian > Sahaptin > Northern Sahaptin > Northwest Sahaptin"
+translations:
+  - translation_iso: jpn
+    name: ヤカマ語
+  - translation_iso: zho
+    name: 亚卡玛语
+    auto: true
 rolv_dialects:
   - rolv_code: 18416
     language_tag: yak-x-HIS18416

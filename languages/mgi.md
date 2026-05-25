@@ -1,8 +1,6 @@
 ---
 iso: mgi
 name: Lijili
-name_zh: 利吉利语
-name_zh_auto: true
 autonym: Lijili
 alt_names: [Koro Lafia, Koro of Lafia, Ligili, Megili, Migili, Mijili]
 population: 40000
@@ -16,5 +14,9 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Benue-Congo Plateau > Jilic-Eggonic > Jilic > Lijili"
 wikipedia_url: "https://en.wikipedia.org/wiki/Jili_language"
+translations:
+  - translation_iso: zho
+    name: 利吉利语
+    auto: true
 ---
 Jili (Lijili) is a Plateau language of Nigeria. It is one of several languages which go by the ambiguous name Koro.

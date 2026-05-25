@@ -1,8 +1,6 @@
 ---
 iso: nkq
 name: Nkami
-name_zh: 恩卡米语
-name_zh_auto: true
 autonym: null
 population: 7000
 country_id: GH
@@ -15,5 +13,9 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Kwa Volta-Congo > Nyo > Potou-Tano > Tano > Guang > North Guang > Nkonya-Nkami > Nkami"
 wikipedia_url: "https://en.wikipedia.org/wiki/Nkami_language"
+translations:
+  - translation_iso: zho
+    name: 恩卡米语
+    auto: true
 ---
 Nkami is a Guang language of Ghana. There is reported to be a community in Benin as well.

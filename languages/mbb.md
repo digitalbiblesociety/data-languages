@@ -1,8 +1,6 @@
 ---
 iso: mbb
 name: Western Bukidnon Manobo
-name_zh: 西布基德农曼诺博语
-name_zh_auto: true
 autonym: Western Bukidnon Manobo
 alt_names: [Bukidnon, Manobo (Western Bukidnon), "Manobo, Western Bukidnon", West Bukidnon Manobo, Western Bukidnon]
 population: 15000
@@ -16,6 +14,12 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Greater Central Philippine > Manobo > Central and Southern Manobo > East-West-Central Manobo > West Manobo > WBM-Livunganen-Ilianen > Western Bukidnon Manobo"
 wikipedia_url: "https://en.wikipedia.org/wiki/Western_Bukidnon_Manobo"
+translations:
+  - translation_iso: jpn
+    name: 西ブキドノン・マノボ語
+  - translation_iso: zho
+    name: 西布基德农曼诺博语
+    auto: true
 rolv_dialects:
   - rolv_code: 13651
     language_tag: mbb-x-HIS13651

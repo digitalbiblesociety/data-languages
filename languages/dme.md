@@ -1,8 +1,6 @@
 ---
 iso: dme
 name: Dugwor
-name_zh: 杜格沃尔语
-name_zh_auto: true
 autonym: Dougour
 alt_names: [Memekere, Mofu, Mofu-Dugwor, Muffo, Muffu, Tchakidjebe]
 population: 5000
@@ -16,6 +14,10 @@ glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > Biu-Mandara > North Biu-Mandara > Margi-Mandara-Mofu > Mofuic > Meri > Dugwor-Merey > Dugwor"
 wikipedia_url: "https://en.wikipedia.org/wiki/%C6%8Augwor_language"
+translations:
+  - translation_iso: zho
+    name: 杜格沃尔语
+    auto: true
 rolv_dialects:
   - rolv_code: 2851
     language_tag: dme-x-HIS02851

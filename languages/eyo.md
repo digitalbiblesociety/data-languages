@@ -1,8 +1,6 @@
 ---
 iso: eyo
 name: Keiyo
-name_zh: 凯伊约语
-name_zh_auto: true
 autonym: Elgeyo
 alt_names: [Keyo]
 population: 251000
@@ -16,6 +14,12 @@ glottolog_family_id: nilo1247
 glottolog_family_name: Nilotic
 glottolog_classification: "Nilotic > Southern Nilotic > Kalenjin > Central Kalenjin > Plateau Central Kalenjin > Western Plateau Central Kalenjin > Keiyo"
 wikipedia_url: "https://en.wikipedia.org/wiki/Keiyo_language"
+translations:
+  - translation_iso: jpn
+    name: ケイヨ語
+  - translation_iso: zho
+    name: 凯伊约语
+    auto: true
 rolv_dialects:
   - rolv_code: 3019
     language_tag: eyo-x-HIS03019

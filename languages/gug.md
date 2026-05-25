@@ -1,8 +1,6 @@
 ---
 iso: gug
 name: Paraguayan Guaraní
-name_zh: 巴拉圭瓜拉尼语
-name_zh_auto: true
 autonym: Paraguayan Guarani
 alt_names: [Aché, "Avanye'e", "Avañe'e", "Avañe'ẽ", Avañee, Axe, Gjuha guarani, Guaiaqui, Guajaki, Guarani, Guarani (Paraguayan), Guarani linguo, Guarani paraguaio, Guaraniera, Guaranin kieli, Guaranišćina, Guaranì, Guaraní, Guaraní language area, "Guaraní, Paraguayan", Guaranían, Guaraníjčina, Guaráinis, Guayaki-Ache, Guayakí, Guoyagui, Gvarania lingvo, Gvaraniu kalba, Gvaranių kalba, Gvaranščina, Gwarani, Gwaranieg, Idioma guaraní, Język guarani, Lingua Guaranica, Lingua guaraní, Língua guarani, Modern Guaraní, Waraniyi simi, Гварани, Гуарани, Гуарански език, Гуарані, גוארני, گۇئارانچە, गुआरानी भाषा, গুয়ারানি ভাষা, グアラニー語, 瓜拉尼語, 과라니어]
 population: 6540000
@@ -16,6 +14,12 @@ glottolog_family_id: tupi1275
 glottolog_family_name: Tupian
 glottolog_classification: "Tupian > Eastern Tupian > Maweti-Guarani > Aweti-Guarani > Tupi-Guarani > Southern Tupi-Guarani > Tupi-Guarani Subgroup I > Tupi-Guarani Subgroup I.A > Paraguay-Brazil Guarani > Paraguayan Guaraní"
 wikipedia_url: "https://en.wikipedia.org/wiki/Guarani_language"
+translations:
+  - translation_iso: jpn
+    name: パラグアイ・グアラニー語
+  - translation_iso: zho
+    name: 巴拉圭瓜拉尼语
+    auto: true
 rolv_dialects:
   - rolv_code: 10380
     language_tag: gug-x-HIS10380

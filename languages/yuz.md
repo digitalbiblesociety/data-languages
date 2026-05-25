@@ -1,8 +1,6 @@
 ---
 iso: yuz
 name: Yuracare
-name_zh: 尤拉卡雷语
-name_zh_auto: true
 autonym: Yura
 alt_names: [Cuchi, Enete, Yourakareg, Yuracar, Yuracaré, Yuracaré language, Yurakare, Yurakaré, Yurucar, Yurujure, Юракаре]
 population: 1810
@@ -13,6 +11,12 @@ latitude: -16.74788
 longitude: -65.12241
 glottocode: yura1255
 wikipedia_url: "https://en.wikipedia.org/wiki/Yuracar%C3%A9_language"
+translations:
+  - translation_iso: kor
+    name: 유라카레어
+  - translation_iso: zho
+    name: 尤拉卡雷语
+    auto: true
 rolv_dialects:
   - rolv_code: 18655
     language_tag: yuz-x-HIS18655

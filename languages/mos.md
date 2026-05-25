@@ -1,7 +1,6 @@
 ---
 iso: mos
 name: Mossi
-name_zh: 莫西语
 autonym: Mooré
 alt_names: [Język mossi, Lingua more, Língua more, Mole, Moore, Mooren kieli, Moose, More, Morea lingvo, Moré, Moshi, Mòoré, Mòoré language, Мооре, モシ語]
 population: 7984800
@@ -16,6 +15,17 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Gur > Central Gur > Northern Central Gur > Bwamu-Oti-Volta > Oti-Volta > Nuclear Oti-Volta > Gurma-Yom-Oti-Volta Occidental > Oti-Volta Occidental > Nuclear Oti-Volta Occidental > Northwest Oti-Volta > Mossi-Farefare > Mossic > Mossi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Moor%C3%A9"
+translations:
+  - translation_iso: ara
+    name: مور
+  - translation_iso: hin
+    name: मोस्सी
+  - translation_iso: jpn
+    name: モシ語
+  - translation_iso: kor
+    name: 모레어
+  - translation_iso: zho
+    name: 莫西语
 rolv_dialects:
   - rolv_code: 4842
     language_tag: mos-x-HIS04842

@@ -1,8 +1,6 @@
 ---
 iso: aey
 name: Amele
-name_zh: 阿梅莱语
-name_zh_auto: true
 autonym: Sona
 alt_names: [Amale]
 population: 5300
@@ -16,6 +14,10 @@ glottolog_family_id: nucl1709
 glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Madang > Croisilles > Mabuso > Gum > Amele"
 wikipedia_url: "https://en.wikipedia.org/wiki/Amele_language"
+translations:
+  - translation_iso: zho
+    name: 阿梅莱语
+    auto: true
 rolv_dialects:
   - rolv_code: 6958
     language_tag: aey-x-HIS06958

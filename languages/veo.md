@@ -1,7 +1,6 @@
 ---
 iso: veo
 name: Ventureño
-name_zh: Ventureño語
 autonym: "Mitsqanaqa'n"
 alt_names: [Alliklik, Chumash ventureño, Chumasha Proper, Idioma ventureño, Santa Rosa, Ventouregneg, Ventureno]
 population: null
@@ -15,5 +14,8 @@ glottolog_family_id: chum1262
 glottolog_family_name: Chumashan
 glottolog_classification: "Chumashan > Southern Chumashan > Central Chumashan > Ventureño"
 wikipedia_url: "https://en.wikipedia.org/wiki/Venture%C3%B1o_language"
+translations:
+  - translation_iso: zho
+    name: Ventureño語
 ---
 Ventureño is a member of the extinct Chumashan languages, a group of Native American languages previously spoken by the Chumash people along the coastal areas of Southern California from as far north as San Luis Obispo to as far south as Malibu. Ventureño was spoken from as far north as present-day Ventura to as far south as present-day Malibu and the Simi Hills, California. Dialects probably also included Castac and Alliklik.

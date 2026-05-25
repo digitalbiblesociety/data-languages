@@ -1,8 +1,6 @@
 ---
 iso: mso
 name: Mombum
-name_zh: 蒙布姆语
-name_zh_auto: true
 autonym: Kemelom
 alt_names: [Kemelomsch, Komelom, Komolom]
 population: 250
@@ -16,5 +14,9 @@ glottolog_family_id: momb1255
 glottolog_family_name: Mombum-Koneraw
 glottolog_classification: "Mombum-Koneraw > Mombum"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mombum_language"
+translations:
+  - translation_iso: zho
+    name: 蒙布姆语
+    auto: true
 ---
 Mombum, or Kemelom (Komolom), is a Trans–New Guinea language spoken on Yos Sudarso Island in West New Guinea.

@@ -1,8 +1,6 @@
 ---
 iso: bhy
 name: Bhele
-name_zh: 贝勒语
-name_zh_auto: true
 autonym: Piri
 alt_names: [Bili, Ebhele, Ipere, Kipere, Kipili, Pere, Peri, Pili]
 population: 15000
@@ -16,6 +14,10 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > Central-Western Bantu > North Zaire River > Rivers Bantu > Ngiri > Ngiri Terrien > Ngombe-Ababuan > Ababuan > Old Bomokandian > Komoic > Bilaic > Bhele"
 wikipedia_url: "https://en.wikipedia.org/wiki/Bhele_language"
+translations:
+  - translation_iso: zho
+    name: 贝勒语
+    auto: true
 rolv_dialects:
   - rolv_code: 8034
     language_tag: bhy-x-HIS08034

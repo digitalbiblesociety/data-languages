@@ -1,8 +1,6 @@
 ---
 iso: bsx
 name: Yangkam
-name_zh: 扬卡姆语
-name_zh_auto: true
 autonym: Bashar
 alt_names: [Bachirí, Basharawa, Basherawa, Bashiri, Yankam]
 population: 100
@@ -16,5 +14,9 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Benue-Congo Plateau > Tarokoid > Yangkam-Tarok-Pe > Yangkam"
 wikipedia_url: "https://en.wikipedia.org/wiki/Yangkam_language"
+translations:
+  - translation_iso: zho
+    name: 扬卡姆语
+    auto: true
 ---
 Yangkam (Yankam), or Bashar (Basherawa), is a moribund Plateau language of Nigeria. It is located to the west of Bashar town in Plateau State.

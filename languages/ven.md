@@ -1,7 +1,6 @@
 ---
 iso: ven
 name: Venda
-name_zh: 文达语
 autonym: Tshivenḓa
 alt_names: [Cevenda, Chivenda, Gjuha venda, Idioma venda, Język venda, Lingua venda, Língua venda, Tshivenda, Vendan kieli, Vendeg, Vendum, Венда, Вэндзкая мова, ヴェンダ語]
 population: 1301400
@@ -16,6 +15,17 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > East Bantu > Southern Bantu > Nuclear Southern Bantu > Venda"
 wikipedia_url: "https://en.wikipedia.org/wiki/Venda_language"
+translations:
+  - translation_iso: ara
+    name: الفيندية
+  - translation_iso: hin
+    name: वेन्दा
+  - translation_iso: jpn
+    name: ヴェンダ語
+  - translation_iso: kor
+    name: 벤다어
+  - translation_iso: zho
+    name: 文达语
 rolv_dialects:
   - rolv_code: 18037
     language_tag: ve-x-HIS18037

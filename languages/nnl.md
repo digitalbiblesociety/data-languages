@@ -1,8 +1,6 @@
 ---
 iso: nnl
 name: Northern Rengma Naga
-name_zh: 北伦格玛纳加语
-name_zh_auto: true
 autonym: Northern Rengma
 alt_names: [Naga, "Naga, Northern Rengma", "Naga,NorthernRengma", Ntenyi, Ntenyi Naga, Nthenyi, Rengma, Rengma North]
 population: 13000
@@ -16,5 +14,11 @@ glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Kuki-Chin-Naga > Angami-Ao > Angami-Pochuri > Pochuri-Northern Rengma > Northern Rengma Naga"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ntenyi_language"
+translations:
+  - translation_iso: jpn
+    name: 北レングマ・ナガ語
+  - translation_iso: zho
+    name: 北伦格玛纳加语
+    auto: true
 ---
 Ntenyi, or Northern Rengma, is a cluster of Angami–Pochuri languages spoken in Nagaland, India. It is spoken in northern Rengma, Kohima district, Nagaland.

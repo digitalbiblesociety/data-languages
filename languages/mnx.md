@@ -1,8 +1,6 @@
 ---
 iso: mnx
 name: Manikion
-name_zh: 玛尼基翁语
-name_zh_auto: true
 autonym: Manikion
 alt_names: [Mantion, Sogh, Sougb]
 population: 12000
@@ -16,6 +14,10 @@ glottolog_family_id: east1459
 glottolog_family_name: "East Bird's Head"
 glottolog_classification: "East Bird's Head > Sougb"
 wikipedia_url: "https://en.wikipedia.org/wiki/Sougb_language"
+translations:
+  - translation_iso: zho
+    name: 玛尼基翁语
+    auto: true
 rolv_dialects:
   - rolv_code: 1719
     language_tag: mnx-x-HIS01719

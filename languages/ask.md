@@ -1,7 +1,6 @@
 ---
 iso: ask
 name: Ashkun
-name_zh: 阿什昆语
 autonym: "Saňu-vīri"
 alt_names: [Ashkun jezik, Ashkund, Ashkuni, Askun, Askunu, Askunu language, Askún, Askúnska, Język aszkun, Lingua ascunu, Wamai, Wamayi, Ашкун, ภาษาอัสกุนุ]
 population: 1200
@@ -15,6 +14,13 @@ glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Iranian-Nuristani > Nuristani > Ashkun-Kate-Waigali > Ashkun-Kate > Ashkun"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ashkun_language"
+translations:
+  - translation_iso: hin
+    name: आश्कूनू भाषा
+  - translation_iso: jpn
+    name: アシュク語
+  - translation_iso: zho
+    name: 阿什昆语
 rolv_dialects:
   - rolv_code: 7274
     language_tag: ask-x-HIS07274

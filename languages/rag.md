@@ -1,8 +1,6 @@
 ---
 iso: rag
 name: Logooli
-name_zh: 洛戈利语
-name_zh_auto: true
 autonym: Lulogooli
 alt_names: [Llogole, Llugule, Lugooli, Luragoli, Maragoli, Maragooli, Ragoli, Uluragooli]
 population: 335300
@@ -16,5 +14,11 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > East Bantu > Northeast Savanna Bantu > Great Lakes Bantu > Greater Luyia > Logooli"
 wikipedia_url: "https://en.wikipedia.org/wiki/Logooli_language"
+translations:
+  - translation_iso: jpn
+    name: ロゴーリ語
+  - translation_iso: zho
+    name: 洛戈利语
+    auto: true
 ---
 Logooli is a Bantu language spoken in Kenya.

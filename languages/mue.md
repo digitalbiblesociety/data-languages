@@ -1,8 +1,6 @@
 ---
 iso: mue
 name: Media Lengua
-name_zh: 媒体伦瓜语
-name_zh_auto: true
 autonym: Quichuañol
 alt_names: [Ecuador, Медиа-ленгуа]
 population: 1000
@@ -16,6 +14,12 @@ glottolog_family_id: mixe1287
 glottolog_family_name: Mixed Language
 glottolog_classification: "Mixed Language > Spanish-Quechua > Media Lengua"
 wikipedia_url: "https://en.wikipedia.org/wiki/Media_Lengua"
+translations:
+  - translation_iso: jpn
+    name: メディア・レングア
+  - translation_iso: zho
+    name: 媒体伦瓜语
+    auto: true
 rolv_dialects:
   - rolv_code: 26565
     language_tag: mue-x-HIS26565

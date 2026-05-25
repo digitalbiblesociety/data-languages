@@ -1,7 +1,6 @@
 ---
 iso: abk
 name: Abkhazian
-name_zh: 阿布哈兹语
 autonym: Abkhazian
 alt_names: ["Abc'hazeg", Abchaseg, Abchasische Sprache, Abchazisch, Abchaziska, Abchazų kalba, Abcházština, Abhaasin kieli, Abhaski jezik, Abhaz dili, Abhazca, Abhaški jezik, Abház nyelv, Abhāzu valoda, Abjaso, Abkasíska, Abkhasisk, Abkhasisk språk, Abkhaz, Abkhaz language, Abkhaze, Abkhazera, Abxaz, Abxazo, Abĥaza lingvo, An Abcáisis, Bahasa Abkhaz, Idioma abhasio, Idioma abjasio, Język abchaski, Limba abhază, Lingua abcasa, Lingua abkhaza, Língua abecásia, Pinulongang Abhaso, Èdè Abkhaz, Абхаз кыв, Абхаз чĕлхи, Абхазаг æвзаг, Абхазки език, Абхазская мова, Абхазский язык, Абхазька мова, Абхаская мова, Абхаски јазик, Аҧсуа бызшәа, אבחזית, زبان آبخازی, আবখাজ ভাষা, აფხაზური ენა, アブハズ語, 阿布哈兹语, 압하스어]
 population: 194710
@@ -16,6 +15,17 @@ glottolog_family_id: abkh1242
 glottolog_family_name: Abkhaz-Adyge
 glottolog_classification: "Abkhaz-Adyge > Abkhaz-Abaza > Abkhaz"
 wikipedia_url: "https://en.wikipedia.org/wiki/Abkhaz_language"
+translations:
+  - translation_iso: ara
+    name: الأبخازية
+  - translation_iso: hin
+    name: अबखाज़ भाषा
+  - translation_iso: jpn
+    name: アブハズ語
+  - translation_iso: kor
+    name: 압하지야어
+  - translation_iso: zho
+    name: 阿布哈兹语
 rolv_dialects:
   - rolv_code: 6628
     language_tag: ab-x-HIS06628

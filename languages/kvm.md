@@ -1,8 +1,6 @@
 ---
 iso: kvm
 name: Kendem
-name_zh: 肯德姆语
-name_zh_auto: true
 autonym: "Bokwa-Kendem"
 population: 1500
 country_id: CM
@@ -15,5 +13,9 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Mamfe > Kendem-Denya > Kendem"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kendem_language"
+translations:
+  - translation_iso: zho
+    name: 肯德姆语
+    auto: true
 ---
 Kendem, or Bokwa-Kendem, is a minor Southern Bantoid language of the Mamfe family. It is spoken in three villages in Cameroon, Kendem, Kekpoti and Bokwa.

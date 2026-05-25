@@ -1,7 +1,6 @@
 ---
 iso: xnb
 name: Kanakanabu
-name_zh: 卡那卡那富语
 autonym: Kanabu
 alt_names: [Kanakanavu, Sprache von Formosa, 卡那卡那富語]
 population: 250
@@ -15,5 +14,12 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Tsouic > Kanakanavu-Saaroa > Kanakanavu"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kanakanavu_language"
+translations:
+  - translation_iso: jpn
+    name: カナカナブ語
+  - translation_iso: kor
+    name: 카나카나부어
+  - translation_iso: zho
+    name: 卡那卡那富语
 ---
 Kanakanavu is a Southern Tsouic language spoken by the Kanakanavu people, an indigenous people of Taiwan. It is a Tsouic language of the Austronesian family.

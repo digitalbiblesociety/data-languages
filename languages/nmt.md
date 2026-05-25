@@ -1,8 +1,6 @@
 ---
 iso: nmt
 name: Namonuito
-name_zh: 纳莫努伊托语
-name_zh_auto: true
 autonym: Namon Weite
 population: 940
 country_id: FM
@@ -15,5 +13,11 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Micronesian > Central Micronesian > Western Micronesian > Chuukic-Ponapeic > Trukic > Nuclear Trukic > Central Trukic > Satawalese-Carolinian > Macro-Carolinian > Namonuito"
 wikipedia_url: "https://en.wikipedia.org/wiki/Namonuito_language"
+translations:
+  - translation_iso: jpn
+    name: ナモヌイト語
+  - translation_iso: zho
+    name: 纳莫努伊托语
+    auto: true
 ---
 Namonuito is a Micronesian language of the Federated States of Micronesia. It is spoken on Namonuito Atoll.

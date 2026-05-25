@@ -1,8 +1,6 @@
 ---
 iso: lom
 name: Loma (Liberia)
-name_zh: 洛玛语
-name_zh_auto: true
 autonym: Looma
 alt_names: ["\"Bouze\"", "\"Busy\"", "\"Buzi\"", Buzi, Loghoma, Logoma, Loma, Lorma, Toma]
 population: 299000
@@ -16,6 +14,12 @@ glottolog_family_id: mand1469
 glottolog_family_name: Mande
 glottolog_classification: "Mande > Western Mande > Manding-Kpelle > Southwest Mande > Mende-Loma > Loma > Loma (Liberia)"
 wikipedia_url: "https://en.wikipedia.org/wiki/Loma_language"
+translations:
+  - translation_iso: jpn
+    name: トマ語
+  - translation_iso: zho
+    name: 洛玛语
+    auto: true
 rolv_dialects:
   - rolv_code: 1621
     language_tag: lom-x-HIS01621

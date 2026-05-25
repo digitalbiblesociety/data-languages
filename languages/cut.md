@@ -1,8 +1,6 @@
 ---
 iso: cut
 name: Teutila Cuicatec
-name_zh: 特乌蒂拉奎卡特克语
-name_zh_auto: true
 autonym: "Cuicatec, Teutila"
 alt_names: [Cuica, Cuicatec, Cuicateco, Kwikateko, Teutila]
 population: 3140
@@ -16,5 +14,9 @@ glottolog_family_id: otom1299
 glottolog_family_name: Otomanguean
 glottolog_classification: "Otomanguean > Eastern Otomanguean > Amuzgo-Mixtecan > Mixtecan > Mixtec-Cuicatec > Cuicatec > Teutila Cuicatec"
 wikipedia_url: "https://en.wikipedia.org/wiki/Teutila_Cuicatec_language"
+translations:
+  - translation_iso: zho
+    name: 特乌蒂拉奎卡特克语
+    auto: true
 ---
 Teutila Cuicatec is a language spoken in the town of San Pedro Teutila in the Mexican state of Oaxaca.

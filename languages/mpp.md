@@ -1,8 +1,6 @@
 ---
 iso: mpp
 name: Migabac
-name_zh: 米加巴克语
-name_zh_auto: true
 autonym: null
 alt_names: ["Migaba'"]
 population: 1300
@@ -16,6 +14,10 @@ glottolog_family_id: nucl1709
 glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Finisterre-Huon > Huon > Eastern Huon > Trans Vitiaz > Huon Tip > Sopac > Migabac"
 wikipedia_url: "https://en.wikipedia.org/wiki/Migabac_language"
+translations:
+  - translation_iso: zho
+    name: 米加巴克语
+    auto: true
 rolv_dialects:
   - rolv_code: 14072
     language_tag: mpp-x-HIS14072

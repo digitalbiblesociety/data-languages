@@ -1,8 +1,6 @@
 ---
 iso: jgb
 name: Ngbee
-name_zh: 恩格贝语
-name_zh_auto: true
 autonym: Lingbee
 alt_names: [Lingbe, Majuu, Mangbele]
 population: null
@@ -16,5 +14,11 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > Central-Western Bantu > North Zaire River > Rivers Bantu > Ngiri > Ngiri Terrien > Ngombe-Ababuan > Ababuan > Old Bomokandian > Ngbele-Ngenda > Extreme North Vestigial Suffixes Bantu > Ngbee"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ngbee_language"
+translations:
+  - translation_iso: jpn
+    name: ングベー語
+  - translation_iso: zho
+    name: 恩格贝语
+    auto: true
 ---
 Ngbee is an extinct Bantu language of uncertain affiliation. Guthrie assigned to the Nyali cluster, Ethnologue classifies it as a Nyali language. Glottolog places it near the Ngendan languages.

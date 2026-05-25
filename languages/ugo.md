@@ -1,7 +1,6 @@
 ---
 iso: ugo
 name: Ugong
-name_zh: 贡语
 autonym: Ugong
 alt_names: ["'Ugong", Gong, Kanburi Lawa, Lawa, Ugawng, ภาษาก๊อง]
 population: 500
@@ -15,6 +14,11 @@ glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Burmo-Qiangic > Lolo-Burmese > Ugong"
 wikipedia_url: "https://en.wikipedia.org/wiki/Gong_language"
+translations:
+  - translation_iso: jpn
+    name: ウゴン語
+  - translation_iso: zho
+    name: 贡语
 rolv_dialects:
   - rolv_code: 17903
     language_tag: ugo-x-HIS17903

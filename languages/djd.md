@@ -1,8 +1,6 @@
 ---
 iso: djd
 name: Djamindjung
-name_zh: 詹明詹语
-name_zh_auto: true
 autonym: Jaminjung
 alt_names: [Alura, Baj Subgroup, Djamadjong, Djamindjun, Djamindjung/Ngaliwuru, Djamundon, Djamunjun, Dyamindyung, Dyaminydyung, Engaliwuru, Jaminjang, Jaminjungan, Jilngali, Kaminjung, Murinyuwan, Murinyuwen, Ngaliwurru, Ngaliwuru, Tjamindjung, Tjaminjun, Yilngali]
 population: 29
@@ -16,6 +14,12 @@ glottolog_family_id: mirn1241
 glottolog_family_name: Mirndi
 glottolog_classification: "Mirndi > Yirram > Jaminjung-Ngaliwurru"
 wikipedia_url: "https://en.wikipedia.org/wiki/Jaminjung_language"
+translations:
+  - translation_iso: jpn
+    name: ジャミンジュング語
+  - translation_iso: zho
+    name: 詹明詹语
+    auto: true
 rolv_dialects:
   - rolv_code: 9317
     language_tag: djd-x-HIS09317

@@ -1,7 +1,6 @@
 ---
 iso: nuf
 name: Nusu
-name_zh: 怒苏语
 autonym: null
 alt_names: [Independent Lolo]
 population: 1000
@@ -15,6 +14,11 @@ glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Burmo-Qiangic > Lolo-Burmese > Loloish > Nusoish > Nusu"
 wikipedia_url: "https://en.wikipedia.org/wiki/Nusu_language"
+translations:
+  - translation_iso: jpn
+    name: 怒蘇語
+  - translation_iso: zho
+    name: 怒苏语
 rolv_dialects:
   - rolv_code: 6249
     language_tag: nuf-x-HIS06249

@@ -1,8 +1,6 @@
 ---
 iso: kgk
 name: Kaiwá
-name_zh: 凯瓦语
-name_zh_auto: true
 autonym: Kayova
 alt_names: [Apytare, Caiguá, Caingua, Caiová, Caiua, Caiwa, Cayua, Chiripá, Guarani-kaiowá, Guaraní kaiowá, Kaingwa, Kaingwá, Kaiova, Kaiowa, Kaiowá, Kaivų kalba, Kaiwa, Kaiwá/Kayová, Kayowá, Mbiá/Mbya/Mbua, Nhandeva, Pãi, Pãi-Tavyterã, Tsiripá, Txiripá, Ñandeva]
 population: 18000
@@ -16,5 +14,11 @@ glottolog_family_id: tupi1275
 glottolog_family_name: Tupian
 glottolog_classification: "Tupian > Eastern Tupian > Maweti-Guarani > Aweti-Guarani > Tupi-Guarani > Southern Tupi-Guarani > Tupi-Guarani Subgroup I > Tupi-Guarani Subgroup I.A > Paraguay-Brazil Guarani > Kaiowa > Kaiwá"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kaiw%C3%A1_language"
+translations:
+  - translation_iso: jpn
+    name: カイワ語
+  - translation_iso: zho
+    name: 凯瓦语
+    auto: true
 ---
 Kaiwá is a Guarani language spoken by about 18,000 Kaiwá people in Brazil in the state of Mato Grosso do Sul and 510 people in northeastern Argentina. Literacy is 5-10% in Kaiwá and 15–25% in Portuguese. Kaiwá proper is 70% lexically similar with the Pai Tavytera language, and its similarity to its linguistic cousin Guaraní, one of the two national-languages of Paraguay alongside the Spanish language, means it is even sometimes considered mutually intelligible.

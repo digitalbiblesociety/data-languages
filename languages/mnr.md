@@ -1,8 +1,6 @@
 ---
 iso: mnr
 name: Mono (USA)
-name_zh: 莫诺语（美国）
-name_zh_auto: true
 autonym: Monachi
 alt_names: [Idioma mono, Monache, Mono, Mono (United States), Mono (in United States), Mono (occidental), Mono (oriental), Mono language, Monoeg, Saidyuka, لغة مونو]
 population: 103
@@ -16,6 +14,14 @@ glottolog_family_id: utoa1244
 glottolog_family_name: Uto-Aztecan
 glottolog_classification: "Uto-Aztecan > Northern Uto-Aztecan > Numic > Western Numic > Mono (USA)"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mono_language_(California)"
+translations:
+  - translation_iso: ara
+    name: لغة مونو
+  - translation_iso: jpn
+    name: モーノー語
+  - translation_iso: zho
+    name: 莫诺语（美国）
+    auto: true
 rolv_dialects:
   - rolv_code: 25223
     language_tag: mnr-x-HIS25223

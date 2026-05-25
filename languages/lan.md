@@ -1,8 +1,6 @@
 ---
 iso: lan
 name: Laru
-name_zh: 拉鲁语
-name_zh_auto: true
 autonym: Shen
 alt_names: [Laranchi, Larawa, Laro]
 population: 5000
@@ -16,6 +14,10 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Kainji > Kainji Lake > Upper Niger Kainji > Laru (Nigeria)"
 wikipedia_url: "https://en.wikipedia.org/wiki/Laru_language"
+translations:
+  - translation_iso: zho
+    name: 拉鲁语
+    auto: true
 rolv_dialects:
   - rolv_code: 2070
     language_tag: lan-x-HIS02070

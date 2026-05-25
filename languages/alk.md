@@ -1,7 +1,6 @@
 ---
 iso: alk
 name: Alak
-name_zh: 阿拉克語
 autonym: Harak
 alt_names: [Arak, Harlak, Hlak, Hrlak, Lingua alak, Slouy, ภาษาอาลัก]
 population: 4000
@@ -15,6 +14,9 @@ glottolog_family_id: aust1305
 glottolog_family_name: Austroasiatic
 glottolog_classification: "Austroasiatic > Bahnaric > West Bahnaric > Alak"
 wikipedia_url: "https://en.wikipedia.org/wiki/Alak_language"
+translations:
+  - translation_iso: zho
+    name: 阿拉克語
 rolv_dialects:
   - rolv_code: 1811
     language_tag: alk-x-HIS01811

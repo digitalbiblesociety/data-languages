@@ -1,8 +1,6 @@
 ---
 iso: kgy
 name: Kyerung
-name_zh: 克雍语
-name_zh_auto: true
 autonym: " Lende Kyerung "
 alt_names: [Gyirong, Kyirong]
 population: 4790
@@ -15,4 +13,8 @@ glottocode: kyer1238
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Bodic > Bodish > Early Old Tibetan > Middle Old Tibetan > Late Old Tibetan > Central Tibetan > South-Western Tibetic > Kyirong-Kagate > Gyalsumdo-Nubri-Kyirong > Kyerung"
+translations:
+  - translation_iso: zho
+    name: 克雍语
+    auto: true
 ---

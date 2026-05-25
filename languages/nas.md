@@ -1,7 +1,6 @@
 ---
 iso: nas
 name: Naasioi
-name_zh: 纳希奥伊语
 autonym: null
 alt_names: [Aunge, Kieta, Kieta Talk, Nasioi, Nasioyeg]
 population: 22000
@@ -15,6 +14,11 @@ glottolog_family_id: sout2948
 glottolog_family_name: South Bougainville
 glottolog_classification: "South Bougainville > Nasioiic > Nasioi > South-Central Nasioi > Central Nasioi > Naasioi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Naasioi_language"
+translations:
+  - translation_iso: jpn
+    name: ナシオイ語
+  - translation_iso: zho
+    name: 纳希奥伊语
 rolv_dialects:
   - rolv_code: 3582
     language_tag: nas-x-HIS03582

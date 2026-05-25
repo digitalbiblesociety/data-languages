@@ -1,7 +1,6 @@
 ---
 iso: mhr
 name: Eastern Mari
-name_zh: 草原馬里語
 autonym: олык марий
 alt_names: [Cheremis, Cheremis (Eastern), Cheremis (Low), Cheremiss, Cheremissian, E. Cheremis, Eastern, Eastern Cheremis, Grassland Mari, Low Mari, Lugovo Mari, Mari, Mari (Cheremis), Mari (Low), Mari (Meadow), Mari oriental, "Mari, Eastern", Mari-Woods, Marij Jylme, Marijcy, Marijskij Jazyk, Marí oriental, Meadow Mari, More, Ostčeremissisch, Szeremissi, Tchérémisse, Tscheremissisch, eastern group, gornomarijskij jazyk, itämari, lugovo-vostočnyi marijskij jazyk, niittymari, Čeremissisch, лугово-восточный марийский, черемисский язык]
 population: 477700
@@ -15,6 +14,13 @@ glottolog_family_id: ural1272
 glottolog_family_name: Uralic
 glottolog_classification: "Uralic > Mari > Eastern Mari"
 wikipedia_url: "https://en.wikipedia.org/wiki/Meadow_Mari_language"
+translations:
+  - translation_iso: jpn
+    name: 牧地マリ語
+  - translation_iso: kor
+    name: 초원 마리어
+  - translation_iso: zho
+    name: 草原馬里語
 rolv_dialects:
   - rolv_code: 13729
     language_tag: mhr-x-HIS13729

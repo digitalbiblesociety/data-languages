@@ -1,8 +1,6 @@
 ---
 iso: amx
 name: Anmatyerre
-name_zh: 安玛蒂埃瑞语
-name_zh_auto: true
 autonym: Arrernte
 alt_names: [Anmatjara, Anmatjera, Anmatjirra, Imatjera, Inmatjera, Janmadjara, Janmatjiri, Nmatjera, Unmatjera, Urmitchee, Yandmadjari, Yanmedjara]
 population: 640
@@ -15,6 +13,10 @@ glottocode: anma1239
 glottolog_family_id: pama1250
 glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > Arandic-Thura-Yura > Arandic > South Arandic > Upper Arrernte > Anmatyerre"
+translations:
+  - translation_iso: zho
+    name: 安玛蒂埃瑞语
+    auto: true
 rolv_dialects:
   - rolv_code: 7027
     language_tag: amx-x-HIS07027

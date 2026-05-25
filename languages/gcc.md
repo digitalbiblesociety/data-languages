@@ -1,7 +1,6 @@
 ---
 iso: gcc
 name: Mali
-name_zh: 马里语
 autonym: Gaktai
 alt_names: [Baining, Mali-Baining, Neu-Pommern]
 population: 2200
@@ -15,6 +14,9 @@ glottolog_family_id: bain1263
 glottolog_family_name: Baining
 glottolog_classification: "Baining > Southern Baining > Mali-Simbali > Mali"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mali_language"
+translations:
+  - translation_iso: zho
+    name: 马里语
 rolv_dialects:
   - rolv_code: 24958
     language_tag: gcc-x-HIS24958

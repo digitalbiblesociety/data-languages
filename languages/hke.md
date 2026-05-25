@@ -1,8 +1,6 @@
 ---
 iso: hke
 name: Hunde
-name_zh: 胡德语
-name_zh_auto: true
 autonym: Kihunde
 alt_names: [Język hunde, Kobi, Rukobi]
 population: 200000
@@ -16,6 +14,12 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > East Bantu > Northeast Savanna Bantu > Great Lakes Bantu > Western Lakes Bantu > Kivu > Forest Kivu > Hunde-Havu > Hunde"
 wikipedia_url: "https://en.wikipedia.org/wiki/Hunde_language"
+translations:
+  - translation_iso: jpn
+    name: フンデ語
+  - translation_iso: zho
+    name: 胡德语
+    auto: true
 rolv_dialects:
   - rolv_code: 30112
     language_tag: hke-x-HIS30112

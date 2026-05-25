@@ -1,8 +1,6 @@
 ---
 iso: sxc
 name: Sicanian
-name_zh: 西卡尼亚语
-name_zh_auto: true
 autonym: null
 population: null
 country_id: IT
@@ -14,4 +12,8 @@ glottocode: sica1234
 glottolog_family_id: uncl1493
 glottolog_family_name: Unclassifiable
 glottolog_classification: "Unclassifiable > Sicana"
+translations:
+  - translation_iso: zho
+    name: 西卡尼亚语
+    auto: true
 ---

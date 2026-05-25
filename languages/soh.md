@@ -1,8 +1,6 @@
 ---
 iso: soh
 name: Aka
-name_zh: 阿卡语
-name_zh_auto: true
 autonym: Aka
 alt_names: [Fa-C-Aka, Jebel Silak, Jebels Sillok, Sillok, Акаски јазик]
 population: 300
@@ -16,5 +14,9 @@ glottolog_family_id: east2386
 glottolog_family_name: Eastern Jebel
 glottolog_classification: "Eastern Jebel > Aka-Kelo-Molo > Aka"
 wikipedia_url: "https://en.wikipedia.org/wiki/Sillok_language"
+translations:
+  - translation_iso: zho
+    name: 阿卡语
+    auto: true
 ---
 Sillok (Aka) is a Nilo-Saharan language spoken by the Sillok people of Sudan. It is spoken by around 300 people in Blue Nile state, specifically on Mount Silak, southwest of the Ingessana hills.

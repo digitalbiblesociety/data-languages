@@ -1,7 +1,6 @@
 ---
 iso: hsn
 name: Xiang Chinese
-name_zh: 湘语
 autonym: Hunanese
 alt_names: ["Chinese, Xiang", "Chinese,Xiang", Hounaneg, Hsiang, Hunan, Język xiang, Lingua xiang, Xiang, Xiang Dialect Family, Xiang-kiina, Xiangish, Xiāng, ภาษาจีนเซียง, 湘語, 湘语, 샹어]
 population: 37300000
@@ -16,6 +15,15 @@ glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Sinitic > Classical-Middle-Modern Sinitic > Middle-Modern Sinitic > Xiang Chinese"
 wikipedia_url: "https://en.wikipedia.org/wiki/Xiang_Chinese"
+translations:
+  - translation_iso: ara
+    name: شيانغ الصينية
+  - translation_iso: jpn
+    name: 湘語
+  - translation_iso: kor
+    name: 샹어
+  - translation_iso: zho
+    name: 湘语
 rolv_dialects:
   - rolv_code: 6275
     language_tag: hsn-x-HIS06275

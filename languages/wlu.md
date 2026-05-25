@@ -1,8 +1,6 @@
 ---
 iso: wlu
 name: Wuliwuli
-name_zh: 武利武利语
-name_zh_auto: true
 autonym: "Wuli Wuli, Wulli Wulli"
 alt_names: [Wilili, Wililililee, Willillee, Wuli Wuli, Wuli-wuli, Wulili, Wulilli, Wulli Wulli]
 population: null
@@ -16,5 +14,9 @@ glottolog_family_id: pama1250
 glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > Southeastern Pama-Nyungan > North Coast Pama-Nyungan > Waka-Kabic > Western Waka-Kabic > Wuliwuli"
 wikipedia_url: "https://en.wikipedia.org/wiki/Wulli_Wulli_dialect"
+translations:
+  - translation_iso: zho
+    name: 武利武利语
+    auto: true
 ---
 Wuliwuli is an extinct Australian Aboriginal language of the Pama–Nyungan language family formerly spoken by the Wulli Wulli people in Queensland, Australia. Wuliwuli is regarded as a dialect of Wakka Wakka.

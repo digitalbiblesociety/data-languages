@@ -1,8 +1,6 @@
 ---
 iso: ulm
 name: "Ulumanda'"
-name_zh: 乌卢曼达语
-name_zh_auto: true
 autonym: "Awo-Sumakuyu"
 alt_names: [Botteng-Tappalang, Kado, Nordost-Celebes, Oeloemanda, Tubbi, Ulumandak, Ulunda]
 population: 18000
@@ -16,6 +14,10 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Greater South Sulawesi > South Sulawesi > Northern South Sulawesi > Pitu Ulunna Salu > Matangnga-Aralle-Tabulahan > Ulumanda'"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ulumanda%CA%BC_language"
+translations:
+  - translation_iso: zho
+    name: 乌卢曼达语
+    auto: true
 rolv_dialects:
   - rolv_code: 17926
     language_tag: ulm-x-HIS17926

@@ -1,8 +1,6 @@
 ---
 iso: hor
 name: Horo
-name_zh: 霍罗语
-name_zh_auto: true
 autonym: Hor
 population: null
 country_id: TD
@@ -15,5 +13,11 @@ glottolog_family_id: cent2225
 glottolog_family_name: Central Sudanic
 glottolog_classification: "Central Sudanic > Sara-Bongo-Bagirmi > SBB Occidental > Nuclear SBB Occidental > Saraic > Sara Central > Sara Central Chari > Horo"
 wikipedia_url: "https://en.wikipedia.org/wiki/Horo_language"
+translations:
+  - translation_iso: jpn
+    name: ホロ語
+  - translation_iso: zho
+    name: 霍罗语
+    auto: true
 ---
 Horo (Hor) is an extinct Bongo–Bagirmi language of Chad. Speakers shifted to Ngam.

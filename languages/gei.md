@@ -1,8 +1,6 @@
 ---
 iso: gei
 name: Gebe
-name_zh: 格贝语
-name_zh_auto: true
 autonym: Minyaifuin
 alt_names: [Gebi]
 population: 2650
@@ -16,6 +14,10 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > South Halmahera-West New Guinea > Raja Ampat-South Halmahera > South Halmahera > Gebeic > Gebe"
 wikipedia_url: "https://en.wikipedia.org/wiki/Gebe_language"
+translations:
+  - translation_iso: zho
+    name: 格贝语
+    auto: true
 rolv_dialects:
   - rolv_code: 10142
     language_tag: gei-x-HIS10142

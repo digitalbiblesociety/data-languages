@@ -1,8 +1,6 @@
 ---
 iso: kxq
 name: Smärky Kanum
-name_zh: 斯玛基卡努姆语
-name_zh_auto: true
 autonym: Kanum
 alt_names: ["Kanum, Smärky", Smarky Kanum, Smärky]
 population: 150
@@ -16,5 +14,9 @@ glottolog_family_id: more1255
 glottolog_family_name: Yam
 glottolog_classification: "Yam > Kanum > Smärky Kanum"
 wikipedia_url: "https://en.wikipedia.org/wiki/Smerki_language"
+translations:
+  - translation_iso: zho
+    name: 斯玛基卡努姆语
+    auto: true
 ---
 Smerki is a Yam language spoken in Rawu Biru, Tomer, Tomerau, and Yakiw in southeast Merauke Regency, Indonesia. Bârkâli (Barkari) and Smärki may be distinct enough to count as separate languages. The Tamer language is closely related.

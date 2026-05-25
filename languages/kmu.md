@@ -1,8 +1,6 @@
 ---
 iso: kmu
 name: Kanite
-name_zh: 卡尼特语
-name_zh_auto: true
 autonym: null
 population: 9300
 country_id: PG
@@ -15,5 +13,11 @@ glottolog_family_id: nucl1709
 glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Kainantu-Goroka > Goroka > Nuclear Goroka > Siane-Yagaria > Kamano-Yagaria > Kanite"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kanite_language"
+translations:
+  - translation_iso: jpn
+    name: カニテ語
+  - translation_iso: zho
+    name: 卡尼特语
+    auto: true
 ---
 Kanite is a Papuan language spoken in Eastern Highlands Province, Papua New Guinea, with a few thousand speakers. One of its dialects is Kagufi.

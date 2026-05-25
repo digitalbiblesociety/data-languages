@@ -1,7 +1,6 @@
 ---
 iso: rki
 name: Rakhine
-name_zh: 若开语
 autonym: Rakhine
 alt_names: [Arakanese, Arakanese (Marma), Maghī, Mogh, Rakhain, Rakhaing, Rakkhaine, Yakhain]
 population: 1000000
@@ -15,6 +14,15 @@ glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Burmo-Qiangic > Lolo-Burmese > Burmish > Southern Burmish > Mranmaic > Nuclear Mranmaic > Arakanese-Marma > Rakhine"
 wikipedia_url: "https://en.wikipedia.org/wiki/Rakhine_language"
+translations:
+  - translation_iso: ara
+    name: راخين
+  - translation_iso: hin
+    name: रख़ाइन भाषा
+  - translation_iso: jpn
+    name: ラカイン語
+  - translation_iso: zho
+    name: 若开语
 rolv_dialects:
   - rolv_code: 4420
     language_tag: rki-x-HIS04420

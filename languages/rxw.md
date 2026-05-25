@@ -1,8 +1,6 @@
 ---
 iso: rxw
 name: Karuwali
-name_zh: 卡鲁瓦利语
-name_zh_auto: true
 autonym: "Gara-wali"
 alt_names: [Garuwali]
 population: null
@@ -15,4 +13,8 @@ glottocode: karr1236
 glottolog_family_id: pama1250
 glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > Karnic > Central Karnic > Mithaka-Karuwali > Karruwali"
+translations:
+  - translation_iso: zho
+    name: 卡鲁瓦利语
+    auto: true
 ---

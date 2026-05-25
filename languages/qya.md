@@ -1,7 +1,6 @@
 ---
 iso: qya
 name: Quenya
-name_zh: 昆雅语
 autonym: Eldarin
 population: null
 country_id: ZZ
@@ -12,5 +11,16 @@ glottolog_family_id: arti1236
 glottolog_family_name: Artificial Language
 glottolog_classification: "Artificial Language > Quenya"
 wikipedia_url: "https://en.wikipedia.org/wiki/Quenya"
+translations:
+  - translation_iso: ara
+    name: كوينيا
+  - translation_iso: hin
+    name: क्वेन्या
+  - translation_iso: jpn
+    name: クウェンヤ
+  - translation_iso: kor
+    name: 꿰냐
+  - translation_iso: zho
+    name: 昆雅语
 ---
 Quenya is a constructed language, one of those devised by J. R. R. Tolkien for the Elves in his Middle-earth fiction.

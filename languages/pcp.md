@@ -1,8 +1,6 @@
 ---
 iso: pcp
 name: Pacahuara
-name_zh: 帕卡瓦拉语
-name_zh_auto: true
 autonym: "Chokobo-Pakawara"
 alt_names: [Acahuara, Pacaguara, Pacawara, Pakaguara, Pakawara]
 population: null
@@ -16,5 +14,9 @@ glottolog_family_id: pano1259
 glottolog_family_name: Pano-Tacanan
 glottolog_classification: "Pano-Tacanan > Panoan > Mainline Pano > Pano Nawa > Bolivian Nawa > Pacahuara"
 wikipedia_url: "https://en.wikipedia.org/wiki/Pakawara_language"
+translations:
+  - translation_iso: zho
+    name: 帕卡瓦拉语
+    auto: true
 ---
 Pacawara (Pacahuara) is a nearly extinct dialect of the Panoan Chácobo language. The Pacahuara have been located to northwest of Magdalena, Beni, Bolivia and to Nueva Esperanza municipality, of Federico Román Province in Pando. Pacahuara is recognized as an official language of Bolivia by the 2009 Bolivian Constitution.

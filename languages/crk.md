@@ -1,7 +1,6 @@
 ---
 iso: crk
 name: Plains Cree
-name_zh: 平原克里語
 autonym: ᓀᐦᐃᔭᐍᐏᐣ / Nēhiyawēwin
 alt_names: [Clisteno de las llanuras, Cree, Cree (Plains), Cree des plaines, "Cree, Plains", "Kreeg ar c'hompezennoù", Nēhiyawēwin, Prærie-cree-språket, Western Cree, ᓀᐦᐃᔭᐍᐏᐣ]
 population: 3170
@@ -16,6 +15,17 @@ glottolog_family_id: algi1248
 glottolog_family_name: Algic
 glottolog_classification: "Algic > Algonquian-Blackfoot > Algonquian > Cree-Montagnais-Naskapi > Cree > Plains Creeic > Plains Cree"
 wikipedia_url: "https://en.wikipedia.org/wiki/Plains_Cree_language"
+translations:
+  - translation_iso: ara
+    name: لغة بلينز كري
+  - translation_iso: hin
+    name: प्लेंज़ क्री
+  - translation_iso: jpn
+    name: 平原クリー語
+  - translation_iso: kor
+    name: 평원 크리어
+  - translation_iso: zho
+    name: 平原克里語
 rolv_dialects:
   - rolv_code: 9023
     language_tag: crk-x-HIS09023

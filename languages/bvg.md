@@ -1,8 +1,6 @@
 ---
 iso: bvg
 name: Bonkeng
-name_zh: 邦肯语
-name_zh_auto: true
 autonym: Bongken
 alt_names: [Bonkeng-Pendia, Bonkenge]
 population: 2980
@@ -16,5 +14,9 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > Bantu A-B10-B20-B30 > Lundu-Balong (A.10) > Bonkeng"
 wikipedia_url: "https://en.wikipedia.org/wiki/Bonkeng_language"
+translations:
+  - translation_iso: zho
+    name: 邦肯语
+    auto: true
 ---
 Bonkeng is a poorly known Bantu language of Cameroon.

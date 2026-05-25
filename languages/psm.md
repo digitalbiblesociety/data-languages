@@ -1,8 +1,6 @@
 ---
 iso: psm
 name: Pauserna
-name_zh: 保塞尔纳语
-name_zh_auto: true
 autonym: Guarasugwé
 alt_names: [Guarasu, Guarasugwe, Guarayu-Ta, Paucerne, Pauserna-Guarasugwé]
 population: 2017
@@ -16,5 +14,9 @@ glottolog_family_id: tupi1275
 glottolog_family_name: Tupian
 glottolog_classification: "Tupian > Eastern Tupian > Maweti-Guarani > Aweti-Guarani > Tupi-Guarani > Southern Tupi-Guarani > Tupi-Guarani Subgroup II > Warazu-Sirionoid > Warázu"
 wikipedia_url: "https://en.wikipedia.org/wiki/War%C3%A1zu_language"
+translations:
+  - translation_iso: zho
+    name: 保塞尔纳语
+    auto: true
 ---
 Warázu, also known as Pauserna or Guarasugwé (Guarasú'we), is a moribund Tupi–Guaraní language of Brazil. It was also formerly spoken in Bolivia. It is spoken by the Guarasugwé people, who were estimated to number 125 according to a census in 2012. It was previously considered to be extinct, but 4 speakers were found in 2006; this number had decreased to 2 in 2017.

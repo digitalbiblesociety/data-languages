@@ -1,8 +1,6 @@
 ---
 iso: dbd
 name: Dadiya
-name_zh: 达迪亚语
-name_zh_auto: true
 autonym: Lodiya
 alt_names: [Daadiya, Dadia, Loodiya]
 population: 70000
@@ -16,6 +14,10 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Gur > Central Gur > Tula-Longuda > Tula-Waja > Tulaic > Tula-Ma-Yebu > Nuclear Tulaic > Dadiya"
 wikipedia_url: "https://en.wikipedia.org/wiki/Dadiya_language"
+translations:
+  - translation_iso: zho
+    name: 达迪亚语
+    auto: true
 rolv_dialects:
   - rolv_code: 9065
     language_tag: dbd-x-HIS09065

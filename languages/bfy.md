@@ -1,7 +1,6 @@
 ---
 iso: bfy
 name: Bagheli
-name_zh: 巴哥里语
 autonym: बघेली
 alt_names: [Bagelkhandi, Bhugelkhud, Gangai, Kawathi, Kenat, Kevat Boli, Kevati, Kewani, Kewat, Kewati, Kewot, Mandal, Mannadi, Riwai]
 population: 2680000
@@ -16,6 +15,13 @@ glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Indo-Aryan > Middle-Modern Indo-Aryan > Continental Indo-Aryan > Midlands Indo-Aryan > Shaurasenic > Eastern Hindi > Awadhic > Bagheli"
 wikipedia_url: "https://en.wikipedia.org/wiki/Bagheli_language"
+translations:
+  - translation_iso: hin
+    name: बघेली
+  - translation_iso: jpn
+    name: バゲーリー語
+  - translation_iso: zho
+    name: 巴哥里语
 rolv_dialects:
   - rolv_code: 3577
     language_tag: bfy-x-HIS03577

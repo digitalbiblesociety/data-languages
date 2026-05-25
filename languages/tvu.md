@@ -1,8 +1,6 @@
 ---
 iso: tvu
 name: Tunen
-name_zh: 图嫩语
-name_zh_auto: true
 autonym: Tunen
 population: 35000
 country_id: CM
@@ -15,6 +13,10 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > Mbam-Bubi > Mbam > Nuclear Mbam > Sanaga-West Mbam (A.40) > West Mbam (A.40) > Mandi-Nyokon > Tunen"
 wikipedia_url: "https://en.wikipedia.org/wiki/Nen_language_(Cameroon)"
+translations:
+  - translation_iso: zho
+    name: 图嫩语
+    auto: true
 rolv_dialects:
   - rolv_code: 17784
     language_tag: tvu-x-HIS17784

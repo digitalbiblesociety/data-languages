@@ -1,8 +1,6 @@
 ---
 iso: uli
 name: Ulithian
-name_zh: 乌利提安语
-name_zh_auto: true
 autonym: Yulidiy
 alt_names: [Ulithi, Ulithiano, Ulithische Sprache, Ulitiano, Ulitų kalba]
 population: 3000
@@ -17,5 +15,11 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Micronesian > Central Micronesian > Western Micronesian > Chuukic-Ponapeic > Trukic > Western Trukic > Ulithian"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ulithian_language"
+translations:
+  - translation_iso: jpn
+    name: ウリシ語
+  - translation_iso: zho
+    name: 乌利提安语
+    auto: true
 ---
 Ulithian is the language spoken on Ulithi Atoll and neighboring islands. Ulithian is one of the six official languages of the Federated States of Micronesia. There are some 3,000 speakers, although only 700 of these live on Ulithi Atoll.

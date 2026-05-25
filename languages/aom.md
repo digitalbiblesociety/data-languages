@@ -1,8 +1,6 @@
 ---
 iso: aom
 name: Ömie
-name_zh: 欧米亚语
-name_zh_auto: true
 autonym: Aomie
 alt_names: [Omie, Upper Managalasi]
 population: 1190
@@ -16,6 +14,12 @@ glottolog_family_id: koia1260
 glottolog_family_name: Koiarian
 glottolog_classification: "Koiarian > Baraic > Ömie"
 wikipedia_url: "https://en.wikipedia.org/wiki/%C3%96mie_language"
+translations:
+  - translation_iso: ara
+    name: لغة آومي
+  - translation_iso: zho
+    name: 欧米亚语
+    auto: true
 rolv_dialects:
   - rolv_code: 2502
     language_tag: aom-x-HIS02502

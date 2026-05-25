@@ -1,7 +1,6 @@
 ---
 iso: kpy
 name: Koryak
-name_zh: 科里亚克语
 autonym: чавʼчывэн; чавʼчываелыел
 alt_names: [Coriaco, Idioma coriaco, Język koriacki, Korak, Koriak, Koriakų kalba, Korjaaks, Korjaka lingvo, Korjaki keel, Korjakin kieli, Korjakische, Korjakische Sprache, Korjakisk, Koræiki, Kuoriaku kalba, Língua koriaque, Nymylan, Коряк чĕлхи, корякский язык, нымылан, 科里亚克语, 코랴크어]
 population: 3500
@@ -16,6 +15,17 @@ glottolog_family_id: chuk1271
 glottolog_family_name: Chukotko-Kamchatkan
 glottolog_classification: "Chukotko-Kamchatkan > Chukotian > R-Koryakic > J-Koryakic > Koryak"
 wikipedia_url: "https://en.wikipedia.org/wiki/Koryak_language"
+translations:
+  - translation_iso: ara
+    name: لغة كورياك
+  - translation_iso: hin
+    name: कोरयाक भाषा
+  - translation_iso: jpn
+    name: コリャーク語
+  - translation_iso: kor
+    name: 코랴크어
+  - translation_iso: zho
+    name: 科里亚克语
 rolv_dialects:
   - rolv_code: 12301
     language_tag: kpy-x-HIS12301

@@ -1,7 +1,6 @@
 ---
 iso: cnh
 name: Hakha Chin
-name_zh: 哈卡钦语
 autonym: Laiṭong
 alt_names: [Baungshe, Baungshè, Chin, Chin (Central), Chin (Haka), Chin (Lai), "Chin, Haka", "Chin, Hakha", "Chin,Haka", Haka, Haka Chin, Hakha, Hakha Lai, Hakha-Chin language, Lai, Lai (in Burma), Lai (in Myanmar), Lai Chin, Lai Hawlh, Lai Pawi, Laizo, Pawi, Shonshe, হাকা চিন ভাষা, ဟားခါးချင်း]
 population: 170410
@@ -15,6 +14,13 @@ glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Kuki-Chin-Naga > Kuki-Chin > Central Kuki-Chin > Core Central Kuki-Chin > Lai Chin > Haka Chin"
 wikipedia_url: "https://en.wikipedia.org/wiki/Hakha_Chin"
+translations:
+  - translation_iso: hin
+    name: हाखा चिन भाषा
+  - translation_iso: jpn
+    name: ハカ語
+  - translation_iso: zho
+    name: 哈卡钦语
 rolv_dialects:
   - rolv_code: 8773
     language_tag: cnh-x-HIS08773

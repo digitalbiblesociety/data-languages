@@ -1,8 +1,6 @@
 ---
 iso: tvd
 name: Tsuvadi
-name_zh: 楚瓦迪语
-name_zh_auto: true
 autonym: tsɨVaɗi
 alt_names: [Abadi, Avadi, Evadi, Ibeto, Kambari, Kamberi, "Tsuva'di"]
 population: 130000
@@ -16,6 +14,10 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Kainji > Central Kainji > Kambari-Cicipu > Kambaric > East Kambaric > Tsuvadi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Vadi_language"
+translations:
+  - translation_iso: zho
+    name: 楚瓦迪语
+    auto: true
 rolv_dialects:
   - rolv_code: 2076
     language_tag: tvd-x-HIS02076

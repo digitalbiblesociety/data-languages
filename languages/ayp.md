@@ -1,7 +1,6 @@
 ---
 iso: ayp
 name: North Mesopotamian Arabic
-name_zh: 北美索不達米亞阿拉伯語
 autonym: اللهجة الموصلية
 alt_names: [Anatolian Arabic, Arabic, "Arabic, North Mesopotamian", "Arabic, North Mesopotamian Spoken", Mesopotamian Arabic, Mesopotamian Qeltu Arabic, Moslawi, Sjevernomezopotamski arapski, Syro-Mesopotamian Arabic, Syro-Mesopotamian Vernacular Arabic, مصلاوية]
 population: 10266000
@@ -15,6 +14,13 @@ glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Semitic > West Semitic > Central Semitic > Arabian > Arabic > Eastern Arabic > Qeltu > North Mesopotamian Arabic"
 wikipedia_url: "https://en.wikipedia.org/wiki/North_Mesopotamian_Arabic"
+translations:
+  - translation_iso: ara
+    name: العربية الموصلية
+  - translation_iso: jpn
+    name: 北メソポタミア・アラビア語
+  - translation_iso: zho
+    name: 北美索不達米亞阿拉伯語
 rolv_dialects:
   - rolv_code: 7142
     language_tag: ayp-x-HIS07142

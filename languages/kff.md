@@ -1,7 +1,6 @@
 ---
 iso: kff
 name: Koya
-name_zh: 科亚语
 autonym: Kavor
 alt_names: [Gond (Dorla), Gondi (Dorla), Kaya, Koa, Koi, Koi Gondi, Koitar, Koja lingvo, Koyato, Koyi, Raj Koya]
 population: 455000
@@ -15,6 +14,11 @@ glottolog_family_id: drav1251
 glottolog_family_name: Dravidian
 glottolog_classification: "Dravidian > South Dravidian > South Dravidian II > Gondi > Southeast Gondi > South Bastar Gondi-Koya > Koya"
 wikipedia_url: "https://en.wikipedia.org/wiki/Koya_language"
+translations:
+  - translation_iso: jpn
+    name: コーヤ語
+  - translation_iso: zho
+    name: 科亚语
 rolv_dialects:
   - rolv_code: 2331
     language_tag: kff-x-HIS02331

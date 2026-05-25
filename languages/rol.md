@@ -1,8 +1,6 @@
 ---
 iso: rol
 name: Romblomanon
-name_zh: 隆布洛曼农语
-name_zh_auto: true
 autonym: Romblon
 alt_names: [Bisaya]
 population: 157000
@@ -16,6 +14,12 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Greater Central Philippine > Central Philippine > Bisayan > Central Bisayan > Romblomanon"
 wikipedia_url: "https://en.wikipedia.org/wiki/Romblomanon_language"
+translations:
+  - translation_iso: jpn
+    name: ロンブロン語
+  - translation_iso: zho
+    name: 隆布洛曼农语
+    auto: true
 rolv_dialects:
   - rolv_code: 16071
     language_tag: rol-x-HIS16071

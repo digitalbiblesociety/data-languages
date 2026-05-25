@@ -1,8 +1,6 @@
 ---
 iso: bku
 name: Buhid
-name_zh: 布希德语
-name_zh_auto: true
 autonym: ᝊᝓᝑᝒ
 alt_names: [Bangon, Batangan, Bukil, ภาษาบูฮิด]
 population: 11600
@@ -17,6 +15,12 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Greater Central Philippine > South Mangyan > Buhid-Taubuid > Buhid"
 wikipedia_url: "https://en.wikipedia.org/wiki/Buhid_language"
+translations:
+  - translation_iso: jpn
+    name: ブヒッド語
+  - translation_iso: zho
+    name: 布希德语
+    auto: true
 rolv_dialects:
   - rolv_code: 1416
     language_tag: bku-x-HIS01416

@@ -1,8 +1,6 @@
 ---
 iso: bpz
 name: Bilba
-name_zh: 比尔巴语
-name_zh_auto: true
 autonym: Eastern Rote
 alt_names: [Belubaa, Bilbaa, Rote, Rote Timur, Roti, Rotinese]
 population: 7000
@@ -16,5 +14,9 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Timor-Babar > Rote-Meto > Nuclear Rote > Central East Rote > Southeast Rote > Bilba"
 wikipedia_url: "https://en.wikipedia.org/wiki/Bilba_language"
+translations:
+  - translation_iso: zho
+    name: 比尔巴语
+    auto: true
 ---
 Bilba (Belubaa) is a Central Malayo-Polynesian language of Roti Island, off Timor, Indonesia.

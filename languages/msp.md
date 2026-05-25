@@ -1,8 +1,6 @@
 ---
 iso: msp
 name: Maritsauá
-name_zh: 马里萨乌亚语
-name_zh_auto: true
 autonym: Manitsawá
 alt_names: [Maintsawá, Manitsauá, Manitsawa, Manitzula, Mantizula, Maritsaua]
 population: null
@@ -16,6 +14,10 @@ glottolog_family_id: tupi1275
 glottolog_family_name: Tupian
 glottolog_classification: "Tupian > Eastern Tupian > Jurunic > Unclassified Jurunic > Manitsauá"
 wikipedia_url: "https://en.wikipedia.org/wiki/Manitsau%C3%A1_language"
+translations:
+  - translation_iso: zho
+    name: 马里萨乌亚语
+    auto: true
 rolv_dialects:
   - rolv_code: 25238
     language_tag: msp-x-HIS25238

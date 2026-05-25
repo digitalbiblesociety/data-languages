@@ -1,8 +1,6 @@
 ---
 iso: gbi
 name: Galela
-name_zh: 加莱拉语
-name_zh_auto: true
 autonym: bahasa Galela
 alt_names: [Indonesia]
 population: 79000
@@ -16,6 +14,12 @@ glottolog_family_id: nort2923
 glottolog_family_name: North Halmahera
 glottolog_classification: "North Halmahera > Northern North Halmahera > Mainland North Halmaheran > Galela-Loloda > Galela"
 wikipedia_url: "https://en.wikipedia.org/wiki/Galela_language"
+translations:
+  - translation_iso: jpn
+    name: ガレラ語
+  - translation_iso: zho
+    name: 加莱拉语
+    auto: true
 rolv_dialects:
   - rolv_code: 9992
     language_tag: gbi-x-HIS09992

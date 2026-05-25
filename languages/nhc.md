@@ -1,8 +1,6 @@
 ---
 iso: nhc
 name: Tabasco Nahuatl
-name_zh: 塔巴斯科纳瓦特尔语
-name_zh_auto: true
 autonym: Nawat
 alt_names: [Isthmus, Mexicano, Nahua de Tabasco, Nahuatl, "Nahuatl, Tabasco", Náhuatl de Tabasco, "Náhuatl de l'Isthme", Tabasco Aztec]
 population: 30
@@ -16,5 +14,9 @@ glottolog_family_id: utoa1244
 glottolog_family_name: Uto-Aztecan
 glottolog_classification: "Uto-Aztecan > Southern Uto-Aztecan > Corachol-Aztecan > Aztec > Eastern Nahuatl > Isthmus-Pipil Nahuatl > Isthmus Nahuatl > Tabasco Nahuatl"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tabasco_Nahuatl"
+translations:
+  - translation_iso: zho
+    name: 塔巴斯科纳瓦特尔语
+    auto: true
 ---
 Tabasco Nahuatl or Nawat of Tabasco is a moribund Nahuan language spoken in Cupilco in the Mexican state of Tabasco.

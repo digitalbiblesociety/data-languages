@@ -1,7 +1,6 @@
 ---
 iso: yha
 name: Baha Buyang
-name_zh: 巴哈语
 autonym: "Boux-yaeŋz"
 alt_names: [Baha, Buyang, Buyang Zhuang, "Buyang, Baha", Guangnan Buyang, Paha Buyang, Western Buyang, 巴哈布央語]
 population: 600
@@ -15,6 +14,11 @@ glottolog_family_id: taik1256
 glottolog_family_name: Tai-Kadai
 glottolog_classification: "Tai-Kadai > Kadaic > Southwestern Kra > Southern Kra > Baha Buyang"
 wikipedia_url: "https://en.wikipedia.org/wiki/Paha_language"
+translations:
+  - translation_iso: jpn
+    name: パハ語
+  - translation_iso: zho
+    name: 巴哈语
 rolv_dialects:
   - rolv_code: 20976
     language_tag: yha-x-HIS20976

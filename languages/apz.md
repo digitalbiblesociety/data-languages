@@ -1,8 +1,6 @@
 ---
 iso: apz
 name: Safeyoka
-name_zh: 萨费约卡语
-name_zh_auto: true
 autonym: Ampale
 alt_names: [Ambari, Ampeeli, Ampeeli-Wojokeso, Ampele, Safayoka (Ampale)]
 population: 2390
@@ -16,6 +14,10 @@ glottolog_family_id: anga1289
 glottolog_family_name: Angan
 glottolog_classification: "Angan > Nuclear Angan > Wojokesic > Safeyoka"
 wikipedia_url: "https://en.wikipedia.org/wiki/Safeyoka_language"
+translations:
+  - translation_iso: zho
+    name: 萨费约卡语
+    auto: true
 rolv_dialects:
   - rolv_code: 6972
     language_tag: apz-x-HIS06972

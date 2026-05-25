@@ -1,8 +1,6 @@
 ---
 iso: lrm
 name: Marama
-name_zh: 马拉玛语
-name_zh_auto: true
 autonym: Luyia
 alt_names: [Olumarama]
 population: null
@@ -15,4 +13,10 @@ glottocode: mara1392
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > East Bantu > Northeast Savanna Bantu > Great Lakes Bantu > Greater Luyia > Luyia > Saamia-Wanga-Bukusu > Saamia-Wanga > Central-Eastern Luyia > Kisa-Marama-Tsotso > Marama"
+translations:
+  - translation_iso: jpn
+    name: マラマ語
+  - translation_iso: zho
+    name: 马拉玛语
+    auto: true
 ---

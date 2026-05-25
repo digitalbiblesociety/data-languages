@@ -1,8 +1,6 @@
 ---
 iso: twa
 name: Twana
-name_zh: 特瓦纳语
-name_zh_auto: true
 autonym: Skokomish
 alt_names: [Sqʷuqʷúʔbəšq, Tuana]
 population: null
@@ -16,6 +14,12 @@ glottolog_family_id: sali1255
 glottolog_family_name: Salishan
 glottolog_classification: "Salishan > Coast Salish > Central Salish > Twana"
 wikipedia_url: "https://en.wikipedia.org/wiki/Twana_language"
+translations:
+  - translation_iso: jpn
+    name: トゥワナ語
+  - translation_iso: zho
+    name: 特瓦纳语
+    auto: true
 rolv_dialects:
   - rolv_code: 26464
     language_tag: twa-x-HIS26464

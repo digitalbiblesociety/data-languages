@@ -1,7 +1,6 @@
 ---
 iso: cym
 name: Welsh
-name_zh: 威尔士语
 autonym: Cymraeg
 alt_names: [An Bhreatnais, Bahasa Wales, Bretnish, Cuimris, Cymru-gí, Galce, Galesera, Gallois, Galouès, Gal·lès, Galés, Idioma galés, Język walijski, Kamri simi, Kembraeg, Kembrek, Kimra lingvo, Kiwelisi, Kymri, Kymrisch, Kymriska, Kõmri keel, Lenga galèisa, Lengua galleise, Limba galeză, Limba gallesa, Lingua Cambrica, Lingua galesa, Lingua gallese, Lingua gallisa, Lingua valisica, Língua galesa, Valižanščina, Valų kalba, Velsiešu valoda, Velska, Velški jezik, Velština, Walesi nyelv, Waleština, Walijsko godka, Walisesch, Walisisch, Walisische Sprache, Walisisk, Walisisk språk, Walisiskt mál, Walizišćina, Wallies, Walsana linguo, Walès, Welsh leid, Welsk, Wikang Gales, y Gymraeg, Ƿielisc sprǣc, Ουαλική γλώσσα, Валли чĕлхи, Валлийаг æвзаг, Валлийский язык, Валлійська мова, Велшки јазик, Велшки језик, Уелски език, ולשית, زبان ولزی, لغة ويلزية, ويلزى, ۋېلش تىلى, ওয়েল্‌শ্‌ ভাষা, ウェールズ語, 威尔士语, 웨일스어]
 population: 573050
@@ -16,6 +15,17 @@ glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Celtic > Nuclear Celtic > Core Celtic > Insular Celtic > Brythonic > Old-Modern Welsh > Welsh"
 wikipedia_url: "https://en.wikipedia.org/wiki/Welsh_language"
+translations:
+  - translation_iso: ara
+    name: الويلزية
+  - translation_iso: hin
+    name: वेल्श भाषा
+  - translation_iso: jpn
+    name: ウェールズ語
+  - translation_iso: kor
+    name: 웨일스어
+  - translation_iso: zho
+    name: 威尔士语
 rolv_dialects:
   - rolv_code: 18266
     language_tag: cy-x-HIS18266

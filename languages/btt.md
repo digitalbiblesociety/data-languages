@@ -1,8 +1,6 @@
 ---
 iso: btt
 name: "Bete-Bendi"
-name_zh: 贝特-本迪语
-name_zh_auto: true
 autonym: Bendi
 alt_names: [Bette-Bendi, Dama]
 population: 100000
@@ -16,6 +14,10 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Bendic > Nuclear Bendic > Bete-Obanliku > Bete-Bendi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Bete-Bendi_language"
+translations:
+  - translation_iso: zho
+    name: 贝特-本迪语
+    auto: true
 rolv_dialects:
   - rolv_code: 2301
     language_tag: btt-x-HIS02301

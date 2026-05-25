@@ -1,7 +1,6 @@
 ---
 iso: slh
 name: Southern Puget Sound Salish
-name_zh: 南卢舒特种子语
 autonym: "Skagit-Nisqually"
 alt_names: [Salish (Southern Puget Sound), "Salish, Southern Puget Sound"]
 population: 1315
@@ -15,6 +14,17 @@ glottolog_family_id: sali1255
 glottolog_family_name: Salishan
 glottolog_classification: "Salishan > Coast Salish > Central Salish > Lushootseed-Puget > Southern Puget Sound Salish"
 wikipedia_url: "https://en.wikipedia.org/wiki/Southern_Lushootseed"
+translations:
+  - translation_iso: ara
+    name: لوشوتسيد الجنوبية
+  - translation_iso: hin
+    name: दक्षिणी लशूटसीड
+  - translation_iso: jpn
+    name: 南部ルシュツィード語
+  - translation_iso: kor
+    name: 남부 루슈트시드어
+  - translation_iso: zho
+    name: 南卢舒特种子语
 rolv_dialects:
   - rolv_code: 16211
     language_tag: slh-x-HIS16211

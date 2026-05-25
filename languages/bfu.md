@@ -1,7 +1,6 @@
 ---
 iso: bfu
 name: Gahri
-name_zh: 布南语
 autonym: Gahri
 alt_names: [Boonan, Bunan, Bunán, Erankad, Gari, Ghara, Keylong Boli, Lahul, Lahuli, Lahuli of Bunan, Poonan, Punan]
 population: 4000
@@ -15,5 +14,10 @@ glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Bodic > West Himalayish > Eastern West Himalayish > Central-Eastern West Himalayish > Bunan"
 wikipedia_url: "https://en.wikipedia.org/wiki/Bunan_language"
+translations:
+  - translation_iso: hin
+    name: बुनान भाषा
+  - translation_iso: zho
+    name: 布南语
 ---
 Bunan, also known as Gahri, Ghara, Lahuli of Bunan, Boonan, Punan, Poonan, Erankad or Keylong Boli, is a Tibeto-Burman minority language, largely spoken in the Keylong block of Lahaul and Spiti district, in the northernmost region of Himachal Pradesh, India. The number of people speaking the language is only approximately 4,000 in India. The Tibeto-Burman language family consists of fourteen languages spoken in Himachal Pradesh and Uttarakhand, and Bunan is assigned to the West Himalayish branch.

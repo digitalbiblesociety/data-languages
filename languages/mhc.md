@@ -1,8 +1,6 @@
 ---
 iso: mhc
 name: Mocho
-name_zh: 莫乔语
-name_zh_auto: true
 autonym: Motozintleco
 alt_names: [Cotoque, "Mocho'", Mochó, Motocintlec, Motocintlèque, Motozintlec, Tuzantec]
 population: 170
@@ -16,6 +14,12 @@ glottolog_family_id: maya1287
 glottolog_family_name: Mayan
 glottolog_classification: "Mayan > Core Mayan > Western Mayan > Kanjobalan-Chujean > Kanjobalan > Mocho"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mocho%CA%BC_language"
+translations:
+  - translation_iso: jpn
+    name: モチョ語
+  - translation_iso: zho
+    name: 莫乔语
+    auto: true
 rolv_dialects:
   - rolv_code: 20889
     language_tag: mhc-x-HIS20889

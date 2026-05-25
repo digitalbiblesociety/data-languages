@@ -1,7 +1,6 @@
 ---
 iso: ach
 name: Acoli
-name_zh: 阿乔利语
 autonym: Lwo
 alt_names: [Acholi, Acholi language, Acoli jezik, Acooli, Akoli, Atcholeg, Atscholi, Bahasa Acholi, Dok Acoli, Gang, Labwor, Log Acoli, Lwoo, Língua acholi, Shuli, Ачоли, アチョリ語]
 population: 1588000
@@ -16,6 +15,17 @@ glottolog_family_id: nilo1247
 glottolog_family_name: Nilotic
 glottolog_classification: "Nilotic > Western Nilotic > Lwoo > Southern Lwoo > Acoli"
 wikipedia_url: "https://en.wikipedia.org/wiki/Acholi_dialect"
+translations:
+  - translation_iso: ara
+    name: الأكولية
+  - translation_iso: hin
+    name: अकोली
+  - translation_iso: jpn
+    name: アチョリ語
+  - translation_iso: kor
+    name: 아촐리어
+  - translation_iso: zho
+    name: 阿乔利语
 rolv_dialects:
   - rolv_code: 6665
     language_tag: ach-x-HIS06665

@@ -1,8 +1,6 @@
 ---
 iso: nbr
 name: Numana
-name_zh: 努玛纳语
-name_zh_auto: true
 autonym: Gwantu
 alt_names: [Numana-Nunku-Gbantu-Numbu, Sanga]
 population: 50000
@@ -16,6 +14,10 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Benue-Congo Plateau > Ninzic > Numana"
 wikipedia_url: "https://en.wikipedia.org/wiki/Numana_language"
+translations:
+  - translation_iso: zho
+    name: 努玛纳语
+    auto: true
 rolv_dialects:
   - rolv_code: 15105
     language_tag: nbr-x-HIS15105

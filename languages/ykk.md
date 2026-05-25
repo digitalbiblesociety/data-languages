@@ -1,8 +1,6 @@
 ---
 iso: ykk
 name: Yakaikeke
-name_zh: 亚卡伊克克语
-name_zh_auto: true
 autonym: Iakaikeke
 population: 100
 country_id: PG
@@ -15,6 +13,10 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > Papuan Tip linkage > Nuclear Papuan Tip linkage > North Papuan Mainland-D'Entrecasteaux linkage > Are-Taupota linkage > Taupota linkage > Nuclear Taupota linkage > Wedauic > Yakaikeke"
 wikipedia_url: "https://en.wikipedia.org/wiki/Yakaikeke_language"
+translations:
+  - translation_iso: zho
+    name: 亚卡伊克克语
+    auto: true
 rolv_dialects:
   - rolv_code: 2292
     language_tag: ykk-x-HIS02292

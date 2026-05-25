@@ -1,7 +1,6 @@
 ---
 iso: aln
 name: Gheg Albanian
-name_zh: 盖格方言
 autonym: gegnisht
 alt_names: [Albanesisch, Albanian, "Albanian, Gheg", Albanés guego, Arber, Arbresh, Arnaut, Dialectul Gheg, Geg, Gegijski jezik, Gegisch, Gegiska, Gegë, Gheg, Guegue, Guègue, Shgip, Shqipēri, Shquipni, Škip, Γκεγκική διάλεκτος, Геги, Гегский диалект албанского языка, ゲグ方言]
 population: 3901900
@@ -16,6 +15,15 @@ glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Albanian > Gheg Albanian"
 wikipedia_url: "https://en.wikipedia.org/wiki/Gheg_Albanian"
+translations:
+  - translation_iso: ara
+    name: ألبانية غيغية
+  - translation_iso: jpn
+    name: ゲグ方言
+  - translation_iso: kor
+    name: 게그 알바니아어
+  - translation_iso: zho
+    name: 盖格方言
 rolv_dialects:
   - rolv_code: 6868
     language_tag: aln-x-HIS06868

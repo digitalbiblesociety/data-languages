@@ -1,8 +1,6 @@
 ---
 iso: kes
 name: Kugbo
-name_zh: 库格博语
-name_zh_auto: true
 autonym: null
 alt_names: [Nigeria]
 population: 2000
@@ -16,5 +14,9 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Delta Cross > Central Delta > Kugboic > Kugbo"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kugbo_language"
+translations:
+  - translation_iso: zho
+    name: 库格博语
+    auto: true
 ---
 Kugbo is a Central Delta language of Nigeria.

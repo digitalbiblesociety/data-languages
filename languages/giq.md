@@ -1,7 +1,6 @@
 ---
 iso: giq
 name: Green Gelao
-name_zh: 哈给方言
 autonym: Kláo
 alt_names: [Cape Draping Gelao, Cờ Lao, Gelao (Vietnam), Gelao vert (Chine), Gelao vert (Viet Nam), "Gelao, Green", Hagei, Ho Ki, Hoki Gelao, Klau, Qau, 仡佬语哈給方言, 青仡佬]
 population: 300
@@ -15,5 +14,8 @@ glottolog_family_id: taik1256
 glottolog_family_name: Tai-Kadai
 glottolog_classification: "Tai-Kadai > Kadaic > Southwestern Kra > Western Kra > Gauic > Gelaoic > Southwestern Gelao > Hagei Gelao"
 wikipedia_url: "https://en.wikipedia.org/wiki/Hagei_language"
+translations:
+  - translation_iso: zho
+    name: 哈给方言
 ---
 Hagei (Hakei) or Green Gelao is a Gelao language spoken in China and Vietnam.

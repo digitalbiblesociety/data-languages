@@ -1,7 +1,6 @@
 ---
 iso: vwa
 name: Awa (China)
-name_zh: 阿佤方言
 autonym: Va
 alt_names: [Ava, Awa, Awa Wa, Baraog, Paraok, Parauk, Praok, Wa, Ximeng-Menglian Awa]
 population: 2200
@@ -14,6 +13,11 @@ glottocode: awac1238
 glottolog_family_id: aust1305
 glottolog_family_name: Austroasiatic
 glottolog_classification: "Austroasiatic > Khasi-Palaung > Palaungic > East Palaungic > Waic > Wa-Lawa > Nuclear Waic > Lavia-Awalai-Damangnuo Awa"
+translations:
+  - translation_iso: jpn
+    name: アワ語
+  - translation_iso: zho
+    name: 阿佤方言
 rolv_dialects:
   - rolv_code: 20972
     language_tag: vwa-x-HIS20972

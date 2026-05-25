@@ -1,8 +1,6 @@
 ---
 iso: vic
 name: Virgin Islands Creole English
-name_zh: 维尔京群岛克里奥尔英语
-name_zh_auto: true
 autonym: Netherlands Antilles Creole English
 alt_names: ["Creole English, Virgin Islands"]
 population: 90900
@@ -17,6 +15,10 @@ glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Germanic > Northwest Germanic > West Germanic > North Sea Germanic > Anglo-Frisian > Anglic > Later Anglic > Middle-Modern English > Macro-English > Guinea Coast Creole English > Caribbean English Creole > Eastern Caribbean Creole > Barbados-Eustatius > Virgin Islands Creole English"
 wikipedia_url: "https://en.wikipedia.org/wiki/Virgin_Islands_Creole"
+translations:
+  - translation_iso: zho
+    name: 维尔京群岛克里奥尔英语
+    auto: true
 rolv_dialects:
   - rolv_code: 18056
     language_tag: vic-x-HIS18056

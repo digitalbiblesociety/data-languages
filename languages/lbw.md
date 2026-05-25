@@ -1,7 +1,6 @@
 ---
 iso: lbw
 name: Tolaki
-name_zh: 托拉吉语
 autonym: Laki
 alt_names: ["\"Akido\"", "\"Nahina\"", "\"Nehina\"", "\"Nohina\"", "\"Noie\"", "\"Noihe\"", Kolaka, Lalaki, Lolaki, "To'olaki"]
 population: 238000
@@ -16,6 +15,11 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Celebic > Greater Eastern Celebic > Eastern Celebic > Southeastern Celebic > Bungku-Tolaki > Western Bungku-Tolaki > West Coast Bungku-Tolaki > Tolaki"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tolaki_language"
+translations:
+  - translation_iso: jpn
+    name: トラキ語
+  - translation_iso: zho
+    name: 托拉吉语
 rolv_dialects:
   - rolv_code: 710
     language_tag: lbw-x-HIS00710

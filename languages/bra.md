@@ -1,7 +1,6 @@
 ---
 iso: bra
 name: Braj
-name_zh: 布拉杰語
 autonym: Brij Bhasha
 alt_names: [Antarbedi, Antarvedi, Bijbhasha, Bradjbhakha, Braj Bhakha, Braj Bhasa, Braj Bhasha, Braj-Bhakha, Bri, Briju, Bruj, Język bradź, Lenga braj bhasha, ब्रजभाषा, பிராஜ் பாஷா, ภาษาพรัช]
 population: 1560000
@@ -16,6 +15,17 @@ glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Indo-Aryan > Middle-Modern Indo-Aryan > Continental Indo-Aryan > Midlands Indo-Aryan > Shaurasenic > Indo-Aryan Central zone > Western Hindi > Haryanvic > Braj"
 wikipedia_url: "https://en.wikipedia.org/wiki/Braj_Bhasha"
+translations:
+  - translation_iso: ara
+    name: البرجية
+  - translation_iso: hin
+    name: ब्रजभाषा
+  - translation_iso: jpn
+    name: ブラジュ・バーシャー語
+  - translation_iso: kor
+    name: 브라지어
+  - translation_iso: zho
+    name: 布拉杰語
 rolv_dialects:
   - rolv_code: 8357
     language_tag: bra-x-HIS08357

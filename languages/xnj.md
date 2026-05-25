@@ -1,8 +1,6 @@
 ---
 iso: xnj
 name: Chingoni
-name_zh: 钦贡尼语
-name_zh_auto: true
 autonym: Songea
 alt_names: [Ngoni (Tanzania)]
 population: 311000
@@ -16,6 +14,10 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > East Bantu > Northeast Savanna Bantu > Southern Tanzania Highlands Bantu > Manda-Ngoni > Tanzania-Mozambique Ngoni > Tanzanian Ngoni"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tanzanian_Ngoni_language"
+translations:
+  - translation_iso: zho
+    name: 钦贡尼语
+    auto: true
 rolv_dialects:
   - rolv_code: 29238
     language_tag: xnj-x-HIS29238

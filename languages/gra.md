@@ -1,8 +1,6 @@
 ---
 iso: gra
 name: Rajput Garasia
-name_zh: 拉杰普特-加拉西亚语
-name_zh_auto: true
 autonym: भीली
 alt_names: [Dhungri Garasia, Dungari Garasia, Dungri Grasia, "Garasia, Rajput", Girasia, Grasia]
 population: 76700
@@ -15,4 +13,8 @@ glottocode: rajp1235
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Indo-Aryan > Middle-Modern Indo-Aryan > Continental Indo-Aryan > Midlands Indo-Aryan > Bhil > Garasia Bhil > Rajput Garasia"
+translations:
+  - translation_iso: zho
+    name: 拉杰普特-加拉西亚语
+    auto: true
 ---

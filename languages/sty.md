@@ -1,7 +1,6 @@
 ---
 iso: sty
 name: Siberian Tatar
-name_zh: 西伯利亚鞑靼语
 autonym: "{{lang|sty|татарца, тадарца, татарча, тадарча,"
 alt_names: ["Tatar, Siberian"]
 population: 101000
@@ -15,6 +14,15 @@ glottolog_family_id: turk1311
 glottolog_family_name: Turkic
 glottolog_classification: "Turkic > Common Turkic > Kipchak-Turkestan > Kipchak > Northwest Kipchak > North Kipchak > Siberian Tatar"
 wikipedia_url: "https://en.wikipedia.org/wiki/Siberian_Tatar_language"
+translations:
+  - translation_iso: ara
+    name: اللغة التتارية السيبيرية
+  - translation_iso: jpn
+    name: シビール語
+  - translation_iso: kor
+    name: 시베리아 타타르어
+  - translation_iso: zho
+    name: 西伯利亚鞑靼语
 rolv_dialects:
   - rolv_code: 25487
     language_tag: sty-x-HIS25487

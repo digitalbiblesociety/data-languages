@@ -1,8 +1,6 @@
 ---
 iso: ded
 name: Dedua
-name_zh: 德杜亚语
-name_zh_auto: true
 autonym: null
 population: 3800
 country_id: PG
@@ -15,6 +13,10 @@ glottolog_family_id: nucl1709
 glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Finisterre-Huon > Huon > Western Huon > Rawlinson > Pindiu > Dedua"
 wikipedia_url: "https://en.wikipedia.org/wiki/Dedua_language"
+translations:
+  - translation_iso: zho
+    name: 德杜亚语
+    auto: true
 rolv_dialects:
   - rolv_code: 9197
     language_tag: ded-x-HIS09197

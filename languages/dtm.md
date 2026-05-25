@@ -1,8 +1,6 @@
 ---
 iso: dtm
 name: Tomo Kan Dogon
-name_zh: 托莫坎多贡语
-name_zh_auto: true
 autonym: Kan Dogon
 alt_names: [Dogon, "Dogon, Tomo Kan", Tomo-Kan]
 population: 133000
@@ -16,4 +14,8 @@ glottocode: tomo1243
 glottolog_family_id: dogo1299
 glottolog_family_name: Dogon
 glottolog_classification: "Dogon > Plains Dogon > Western Plains Dogon > Tomo Kan Dogon"
+translations:
+  - translation_iso: zho
+    name: 托莫坎多贡语
+    auto: true
 ---

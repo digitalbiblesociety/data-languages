@@ -1,8 +1,6 @@
 ---
 iso: omb
 name: East Ambae
-name_zh: 东安巴埃语
-name_zh_auto: true
 autonym: Aoba
 alt_names: [(Lolovoli Northeast), Ambae, Ambae (Lolovoli Northeast), Ambae (Lolovoli), "Ambae, East", Aoban (Northeast), North-East Ambae (Lolovoli), Northeast Ambae, Northeast Aoba, Oba, Omba, Walurigi]
 population: 5000
@@ -16,6 +14,10 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > North and Central Vanuatu > Northern Vanuatu > Ambae > East Ambae"
 wikipedia_url: "https://en.wikipedia.org/wiki/East_Ambae_language"
+translations:
+  - translation_iso: zho
+    name: 东安巴埃语
+    auto: true
 rolv_dialects:
   - rolv_code: 3637
     language_tag: omb-x-HIS03637

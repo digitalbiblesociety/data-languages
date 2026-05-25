@@ -1,7 +1,6 @@
 ---
 iso: xog
 name: Soga
-name_zh: 索加语
 autonym: Lusoga
 alt_names: [Język soga, Língua lusoga, Olusoga, Sogaeg, Sogum]
 population: 2960000
@@ -16,6 +15,17 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > East Bantu > Northeast Savanna Bantu > Great Lakes Bantu > West Nyanza > North Nyanza > South Kyoga > Soga-Kenyi > Soga"
 wikipedia_url: "https://en.wikipedia.org/wiki/Soga_language"
+translations:
+  - translation_iso: ara
+    name: السوغا
+  - translation_iso: hin
+    name: सोगा
+  - translation_iso: jpn
+    name: ソガ語
+  - translation_iso: kor
+    name: 소가어
+  - translation_iso: zho
+    name: 索加语
 rolv_dialects:
   - rolv_code: 16811
     language_tag: xog-x-HIS16811

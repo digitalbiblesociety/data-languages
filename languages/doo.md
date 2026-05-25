@@ -1,8 +1,6 @@
 ---
 iso: doo
 name: Dongo
-name_zh: 东戈语
-name_zh_auto: true
 autonym: Donga
 alt_names: ["'Dongo", Dongo Ko]
 population: 12900
@@ -16,5 +14,9 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Cameroun-Ubangian > Ubangi > Ubangi Ka > Mbaic > Ndunga-Mba-Dongo > Dongo"
 wikipedia_url: "https://en.wikipedia.org/wiki/Dongo_language"
+translations:
+  - translation_iso: zho
+    name: 东戈语
+    auto: true
 ---
 ʼDongo is a Ubangian language spoken in Haut-Uele Province, DR Congo.

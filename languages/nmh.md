@@ -1,8 +1,6 @@
 ---
 iso: nmh
 name: Monsang Naga
-name_zh: 蒙桑纳加语
-name_zh_auto: true
 autonym: Siirti
 alt_names: ["Naga, Monsang"]
 population: 3200
@@ -16,6 +14,10 @@ glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Kuki-Chin-Naga > Kuki-Chin > Northwestern Kuki-Chin > Analic > Moyon-Monsang Naga > Monsang Naga"
 wikipedia_url: "https://en.wikipedia.org/wiki/Monsang_language"
+translations:
+  - translation_iso: zho
+    name: 蒙桑纳加语
+    auto: true
 rolv_dialects:
   - rolv_code: 2841
     language_tag: nmh-x-HIS02841

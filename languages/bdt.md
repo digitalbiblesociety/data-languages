@@ -1,8 +1,6 @@
 ---
 iso: bdt
 name: Bokoto
-name_zh: 博科托语
-name_zh_auto: true
 autonym: Bhogoto
 alt_names: ["'Bokoto", Bogodo, Bogoto, Bokodo, Bokpoto, Gbanu, Gbaya, Gbeya, Kara, Southern Gbaya, Suma]
 population: 130000
@@ -16,6 +14,12 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Gbaya-Manza-Ngbaka > Gbaya Meridional-Occidental > Bokoto-Gbeya > Bokoto"
 wikipedia_url: "https://en.wikipedia.org/wiki/Bokoto_language"
+translations:
+  - translation_iso: jpn
+    name: ボコト語
+  - translation_iso: zho
+    name: 博科托语
+    auto: true
 rolv_dialects:
   - rolv_code: 8245
     language_tag: bdt-x-HIS08245

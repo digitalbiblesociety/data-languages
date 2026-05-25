@@ -1,8 +1,6 @@
 ---
 iso: kjx
 name: Ramopa
-name_zh: 拉莫帕语
-name_zh_auto: true
 autonym: Ramopa
 alt_names: [Kereaka, Keriaka]
 population: 1000
@@ -16,5 +14,11 @@ glottolog_family_id: nort2933
 glottolog_family_name: North Bougainville
 glottolog_classification: "North Bougainville > Ramopa"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ramopa_language"
+translations:
+  - translation_iso: jpn
+    name: ケリアカ語
+  - translation_iso: zho
+    name: 拉莫帕语
+    auto: true
 ---
 Ramopa, or Keriaka, is a North Bougainville language spoken on Bougainville Island in Papua New Guinea.

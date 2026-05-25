@@ -1,8 +1,6 @@
 ---
 iso: don
 name: Toura (Papua New Guinea)
-name_zh: 图拉语
-name_zh_auto: true
 autonym: Doura
 alt_names: [Toura]
 population: 1800
@@ -16,5 +14,9 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > Papuan Tip linkage > Peripheral Papuan Tip linkage > Central Papuan Oceanic > West Central Papuan linkage > Nuclear West Central Papuan linkage > Toura (Papua New Guinea)"
 wikipedia_url: "https://en.wikipedia.org/wiki/Toura_language_(Papua_New_Guinea)"
+translations:
+  - translation_iso: zho
+    name: 图拉语
+    auto: true
 ---
 Toura (Doura) is a Malayo-Polynesian language of the central southern coast of the Papuan Peninsula in Papua New Guinea.

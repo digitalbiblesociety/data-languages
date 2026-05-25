@@ -1,8 +1,6 @@
 ---
 iso: nct
 name: Chothe Naga
-name_zh: 乔瑟纳加语
-name_zh_auto: true
 autonym: Chothe Naga
 alt_names: [Chawte, Chote, Chothe, Chowte, "Naga, Chothe", "Naga,Chothe"]
 population: 3590
@@ -16,6 +14,10 @@ glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Kuki-Chin-Naga > Kuki-Chin > Northwestern Kuki-Chin > Chothe"
 wikipedia_url: "https://en.wikipedia.org/wiki/Chothe_language"
+translations:
+  - translation_iso: zho
+    name: 乔瑟纳加语
+    auto: true
 ---
 Chothe is a Kuki-Chin language, belonging to the Northwestern or "Old Kuki" subfamily.
 It may be intelligible with Aimol.

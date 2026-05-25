@@ -1,8 +1,6 @@
 ---
 iso: pye
 name: Pye Krumen
-name_zh: 派克鲁门语
-name_zh_auto: true
 autonym: Kroumen
 alt_names: ["Krumen, Pye", Northeastern Krumen, Southeastern Krumen]
 population: 20000
@@ -15,6 +13,10 @@ glottocode: pyek1235
 glottolog_family_id: krua1234
 glottolog_family_name: Kru
 glottolog_classification: "Kru > Greater Western Kru > Western Kru > Grebo-Aizi > Grebo > Ivorian Grebo > Pye Krumen"
+translations:
+  - translation_iso: zho
+    name: 派克鲁门语
+    auto: true
 rolv_dialects:
   - rolv_code: 12358
     language_tag: pye-x-HIS12358

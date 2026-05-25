@@ -1,8 +1,6 @@
 ---
 iso: mdi
 name: Mamvu
-name_zh: 姆巴姆武语
-name_zh_auto: true
 autonym: null
 alt_names: [Tengo]
 population: 60000
@@ -16,5 +14,11 @@ glottolog_family_id: cent2225
 glottolog_family_name: Central Sudanic
 glottolog_classification: "Central Sudanic > Membi-Mangbutu-Efe > Mangbutu-Efe > Mamvu"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mamvu_language"
+translations:
+  - translation_iso: jpn
+    name: マムブ語
+  - translation_iso: zho
+    name: 姆巴姆武语
+    auto: true
 ---
 Mamvu is a Central Sudanic language of northeastern Congo. It is quite similar to Lese.

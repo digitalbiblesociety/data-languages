@@ -1,8 +1,6 @@
 ---
 iso: eja
 name: Ejamat
-name_zh: 埃贾马特语
-name_zh_auto: true
 autonym: "Jola-Felupe"
 alt_names: [Ediamat, Eyamat, Feloup, Felup, Felupe, Floup, Flup, Fulup]
 population: 8230
@@ -16,6 +14,10 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > North-Central Atlantic > Central Atlantic > Bak > Joola-Manjaku > Jola > FH-Jola > PF-Jola > Her-Ejamat > Ejamat"
 wikipedia_url: "https://en.wikipedia.org/wiki/Jola-Felupe_language"
+translations:
+  - translation_iso: zho
+    name: 埃贾马特语
+    auto: true
 rolv_dialects:
   - rolv_code: 1851
     language_tag: eja-x-HIS01851

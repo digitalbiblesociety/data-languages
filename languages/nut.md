@@ -1,7 +1,6 @@
 ---
 iso: nut
 name: Nung (Viet Nam)
-name_zh: 儂語
 autonym: "Bu-Nong"
 alt_names: [Highland Nung, Lungchow, Nong, Nung, Nung (in Vietnam), Nung Fan Slihng, Tai Nung, Tay, Tày Nùng, Zhuang (Southern)]
 population: 969000
@@ -15,6 +14,13 @@ glottolog_family_id: taik1256
 glottolog_family_name: Tai-Kadai
 glottolog_classification: "Tai-Kadai > Kam-Tai > Daic-Beic > Daic > Central-Southwestern Tai > Debao-Jingxi-Nung > Nung (Viet Nam)"
 wikipedia_url: "https://en.wikipedia.org/wiki/N%C3%B9ng_language_(Tai)"
+translations:
+  - translation_iso: jpn
+    name: ヌン語 (台語)
+  - translation_iso: kor
+    name: 눙어
+  - translation_iso: zho
+    name: 儂語
 rolv_dialects:
   - rolv_code: 3327
     language_tag: nut-x-HIS03327

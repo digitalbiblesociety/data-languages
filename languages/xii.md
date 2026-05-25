@@ -1,8 +1,6 @@
 ---
 iso: xii
 name: Xiri
-name_zh: 西里语
-name_zh_auto: true
 autonym: Griqua
 alt_names: [Cap-Dialekt, Cape Hottentot, Gri, Grikwa, Gry, Khiri, Língua Xiri, Xirikwa, Xrikwa, Ziri]
 population: 187
@@ -16,5 +14,9 @@ glottolog_family_id: khoe1240
 glottolog_family_name: Khoe-Kwadi
 glottolog_classification: "Khoe-Kwadi > Khoe > Khoekhoe > South Khoekhoe > Xiri"
 wikipedia_url: "https://en.wikipedia.org/wiki/Xiri_language"
+translations:
+  - translation_iso: zho
+    name: 西里语
+    auto: true
 ---
 ǃOrakobab, or Khoemana, also known as Korana, ǃOra, Xri and Griqua, is a moribund Khoe language of South Africa.

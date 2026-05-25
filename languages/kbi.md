@@ -1,8 +1,6 @@
 ---
 iso: kbi
 name: Kaptiau
-name_zh: 卡普蒂奥语
-name_zh_auto: true
 autonym: Kapitiauw
 alt_names: [Kaptiauw]
 population: 230
@@ -16,5 +14,9 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > North New Guinea linkage > Sarmi-Jayapura Bay > Sarmi > Kaptiau-Tarpia > Kaptiau"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kaptiau_language"
+translations:
+  - translation_iso: zho
+    name: 卡普蒂奥语
+    auto: true
 ---
 Kaptiau (Kapitiauw) is an Austronesian language spoken on the eastern north coast of Papua province, Indonesia.

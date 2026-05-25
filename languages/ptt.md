@@ -1,8 +1,6 @@
 ---
 iso: ptt
 name: Enrekang
-name_zh: 恩雷康语
-name_zh_auto: true
 autonym: Endekan
 alt_names: [Endekan Timur, Nordost-Celebes]
 population: 94500
@@ -16,6 +14,10 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Greater South Sulawesi > South Sulawesi > Northern South Sulawesi > Enrekang-Maiwa > Enrekang"
 wikipedia_url: "https://en.wikipedia.org/wiki/Enrekang_language"
+translations:
+  - translation_iso: zho
+    name: 恩雷康语
+    auto: true
 rolv_dialects:
   - rolv_code: 9637
     language_tag: ptt-x-HIS09637

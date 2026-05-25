@@ -1,8 +1,6 @@
 ---
 iso: nib
 name: Nakame
-name_zh: 纳卡梅语
-name_zh_auto: true
 autonym: Nakama
 population: 980
 country_id: PG
@@ -15,6 +13,10 @@ glottolog_family_id: nucl1709
 glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Finisterre-Huon > Finisterre-Saruwaged > Erap > Boana > Nakama"
 wikipedia_url: "https://en.wikipedia.org/wiki/Nakama_language"
+translations:
+  - translation_iso: zho
+    name: 纳卡梅语
+    auto: true
 rolv_dialects:
   - rolv_code: 14645
     language_tag: nib-x-HIS14645

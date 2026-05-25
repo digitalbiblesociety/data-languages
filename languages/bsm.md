@@ -1,8 +1,6 @@
 ---
 iso: bsm
 name: Busami
-name_zh: 布萨米语
-name_zh_auto: true
 autonym: null
 population: 700
 country_id: ID
@@ -15,5 +13,9 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > South Halmahera-West New Guinea > Cenderawasih Bay > Yapen > Central-Western Yapen > Central Yapen > Serui-Busami > Busami"
 wikipedia_url: "https://en.wikipedia.org/wiki/Busami_language"
+translations:
+  - translation_iso: zho
+    name: 布萨米语
+    auto: true
 ---
 Busami is an Austronesian language spoken in Papua Province of Western New Guinea, northeastern Indonesia.

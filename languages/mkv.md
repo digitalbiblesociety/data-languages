@@ -1,8 +1,6 @@
 ---
 iso: mkv
 name: Mafea
-name_zh: 玛费亚语
-name_zh_auto: true
 autonym: Mavea
 alt_names: [Mav̋ea]
 population: 250
@@ -16,5 +14,11 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > North and Central Vanuatu > Northern Vanuatu > Espiritu Santo > Nuclear Santo > East Santo > Mafea-Tutuba > Mafea"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mav%CC%8Bea_language"
+translations:
+  - translation_iso: jpn
+    name: マヴェア語
+  - translation_iso: zho
+    name: 玛费亚语
+    auto: true
 ---
 Mav̋ea is an Oceanic language spoken on Mavea Island in Vanuatu, off the eastern coast of Espiritu Santo. It belongs to the North–Central Vanuatu linkage of Southern Oceanic. The total population of the island is approximately 172, with only 34 fluent speakers of the Mavea language reported in 2008.

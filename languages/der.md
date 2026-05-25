@@ -1,8 +1,6 @@
 ---
 iso: der
 name: Deori
-name_zh: 德奥里语
-name_zh_auto: true
 autonym: Chutiya
 alt_names: [Chutia, Dari, Deori Chutiya, Deuri, Dewri, Drori]
 population: 32400
@@ -16,5 +14,11 @@ glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Brahmaputran > Bodo-Garo > Deori"
 wikipedia_url: "https://en.wikipedia.org/wiki/Deori_language"
+translations:
+  - translation_iso: hin
+    name: डियोरी भाषा
+  - translation_iso: zho
+    name: 德奥里语
+    auto: true
 ---
 Deori is a Tibeto-Burman language in the Tibeto-Burman languages family spoken by the Deori people of Assam and Arunachal Pradesh. Deori are also a part of Bodo–Kachari people. Among the four territorial groups only the Dibongiya have retained the language. The others—Patorgoyan, Tengaponiya, and Borgoyan—have shifted to Assamese. It is spoken in Lohit district of Arunachal Pradesh, and in Lakhimpur, Dhemaji, Tinsukia, Sivasagar and Jorhat districts of Assam. The primary literary body of Deori is known as "deori chucheba chengcha".

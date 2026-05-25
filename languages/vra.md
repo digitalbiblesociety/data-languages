@@ -1,8 +1,6 @@
 ---
 iso: vra
 name: "Vera'a"
-name_zh: 韦拉阿语
-name_zh_auto: true
 autonym: Vatrata
 alt_names: [Banks-Inseln]
 population: 500
@@ -16,6 +14,10 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > North and Central Vanuatu > Northern Vanuatu > Torres-Banks linkage > Lemerig-Veraa > Vera'a"
 wikipedia_url: "https://en.wikipedia.org/wiki/Vera%CA%BCa_language"
+translations:
+  - translation_iso: zho
+    name: 韦拉阿语
+    auto: true
 rolv_dialects:
   - rolv_code: 4578
     language_tag: vra-x-HIS04578

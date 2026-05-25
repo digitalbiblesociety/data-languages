@@ -1,8 +1,6 @@
 ---
 iso: kba
 name: Kalarko
-name_zh: 卡拉科尔语
-name_zh_auto: true
 autonym: Kalarko
 alt_names: [Beelia, Beeloo, Derbal, "Gala:gu", Galaagu, Galagu, Galagu/Kalako, Ilakuri wongi, Juadjag, Juadjek, Juadjuk, Kalaako, Kalaaku, Kalako, Kalaku, Kalakul, Kalarku, Kallaar, Karakata, Karrakatta, Malba, Malpa, Marlba, Minal njunga, Minalnjunga, Minnal Yungar, Mirning-Ngadjunma-Kalarko, Mooro, Murram, Ngadjunmaia, Ngadjunmaya, Ngatjunmay, Ngatjunmay Kalako, Njindango, Swan River Tribe, Takalako, Wadjug, Wadjuk, Wadjup, Wajuk, West Mirniny, Whadjuk, Whajook, "Witja:ri", Witjari, Yooadda, Yooard, Yoongar, Yuard, Yuatjek, Yungar, Yungur]
 population: null
@@ -16,5 +14,9 @@ glottolog_family_id: pama1250
 glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > South-West Pama-Nyungan > Mirning > Kalarko-Mirniny"
 wikipedia_url: "https://en.wikipedia.org/wiki/Galaagu_language"
+translations:
+  - translation_iso: zho
+    name: 卡拉科尔语
+    auto: true
 ---
 Galaagu, also spelled Kalarko and Kallaargu, is a Pama–Nyungan language of Western Australia. It has recently been classified as the closest relative of the Nyungar languages.

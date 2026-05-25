@@ -1,7 +1,6 @@
 ---
 iso: kdr
 name: Karaim
-name_zh: 卡拉伊姆語
 autonym: къарай тилиkaraj tili
 alt_names: [Język karaimski, Karaiimin kieli, Karaima lingvo, Karaimeg, Karaimische Sprache, Karaimiska, Karaimų kalba, Karaite, Karayca, Karaím (Ucrania occidental), Karaïm, Karaïm (Crimée), Karaïm (Lituanie), Karaïm (Ukraine occidentale), Lingua caraima, Língua karaim, Qaray tili, Караим чĕлхи, Караимски јазик, Караимский язык, Караїмська мова, Կարաիմերեն, קראימית, カライム語, 카라임어]
 population: 84
@@ -15,6 +14,13 @@ glottolog_family_id: turk1311
 glottolog_family_name: Turkic
 glottolog_classification: "Turkic > Common Turkic > Kipchak-Turkestan > Kipchak > Northwest Kipchak > West Kipchak > Karaim"
 wikipedia_url: "https://en.wikipedia.org/wiki/Karaim_language"
+translations:
+  - translation_iso: jpn
+    name: カライム語
+  - translation_iso: kor
+    name: 카라임어
+  - translation_iso: zho
+    name: 卡拉伊姆語
 rolv_dialects:
   - rolv_code: 11580
     language_tag: kdr-x-HIS11580

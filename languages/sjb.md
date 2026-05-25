@@ -1,8 +1,6 @@
 ---
 iso: sjb
 name: Sajau Basap
-name_zh: 萨考巴萨普语
-name_zh_auto: true
 autonym: " Sajau-Latti"
 alt_names: [Sajau, Sujau]
 population: 6000
@@ -16,6 +14,10 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > North Borneo Malayo-Polynesian > Central Sarawak > Punan-Muller-Schwaner > Punan > Punan Tubu-Bah > Sajau-Latti"
 wikipedia_url: "https://en.wikipedia.org/wiki/Sajau_Basap_language"
+translations:
+  - translation_iso: zho
+    name: 萨考巴萨普语
+    auto: true
 rolv_dialects:
   - rolv_code: 16192
     language_tag: sjb-x-HIS16192

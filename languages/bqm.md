@@ -1,8 +1,6 @@
 ---
 iso: bqm
 name: Wumboko
-name_zh: 武姆博科语
-name_zh_auto: true
 autonym: Mokpwe
 alt_names: [Bamboko, Bambuku, Bomboko, Bumboko, Mboko, Womboko]
 population: 4000
@@ -15,4 +13,8 @@ glottocode: wumb1241
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > Bantu A-B10-B20-B30 > Lundu-Balong (A.10) > Greater Manenguba > Bafaw-Balong-Manenguba > Bafawic-Bakweric > Bakweric > Wumboko-Bubia"
+translations:
+  - translation_iso: zho
+    name: 武姆博科语
+    auto: true
 ---

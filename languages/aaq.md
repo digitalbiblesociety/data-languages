@@ -1,8 +1,6 @@
 ---
 iso: aaq
 name: Eastern Abnaki
-name_zh: 东部阿布纳基语
-name_zh_auto: true
 autonym: Wôbanakiôdwawôgan
 alt_names: [Abenaki, Abenakí oriental, Abnaki, "Abnaki, Eastern", Abénaqui oriental, Eastern Abenaki, Istočnoabnački jezik]
 population: null
@@ -16,6 +14,14 @@ glottolog_family_id: algi1248
 glottolog_family_name: Algic
 glottolog_classification: "Algic > Algonquian-Blackfoot > Algonquian > Eastern Algonquian > Maritimes-Southern New England Algonquian > Northern Eastern Algonquian > Abenaki > Eastern Abenaki"
 wikipedia_url: "https://en.wikipedia.org/wiki/Eastern_Abenaki_language"
+translations:
+  - translation_iso: ara
+    name: آبيناكي الشرقي
+  - translation_iso: jpn
+    name: 東アベナキ語
+  - translation_iso: zho
+    name: 东部阿布纳基语
+    auto: true
 rolv_dialects:
   - rolv_code: 6632
     language_tag: aaq-x-HIS06632

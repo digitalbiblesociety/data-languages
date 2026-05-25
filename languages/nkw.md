@@ -1,8 +1,6 @@
 ---
 iso: nkw
 name: Nkutu
-name_zh: 恩库图语
-name_zh_auto: true
 autonym: Bankutu
 alt_names: [Nkuchu, Nkutshu]
 population: 40000
@@ -16,6 +14,10 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > Central-Western Bantu > North Zaire River > Inner Basin Bantu > Cuvette > Nkutsuic > Nkutsu-Lokenye > Songomenic > Nkutu"
 wikipedia_url: "https://en.wikipedia.org/wiki/Nkutu_language"
+translations:
+  - translation_iso: zho
+    name: 恩库图语
+    auto: true
 rolv_dialects:
   - rolv_code: 1590
     language_tag: nkw-x-HIS01590

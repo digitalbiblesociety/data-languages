@@ -1,8 +1,6 @@
 ---
 iso: aup
 name: Makayam
-name_zh: 马卡亚姆语
-name_zh_auto: true
 autonym: Tirio
 alt_names: [Adulu, Atura, Aturu, Makaeyam]
 population: 1300
@@ -16,6 +14,10 @@ glottolog_family_id: anim1240
 glottolog_family_name: Anim
 glottolog_classification: "Anim > Tirio > Nuclear Tirio > Makayam"
 wikipedia_url: "https://en.wikipedia.org/wiki/Makayam_language"
+translations:
+  - translation_iso: zho
+    name: 马卡亚姆语
+    auto: true
 rolv_dialects:
   - rolv_code: 540
     language_tag: aup-x-HIS00540

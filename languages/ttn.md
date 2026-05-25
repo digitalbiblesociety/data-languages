@@ -1,8 +1,6 @@
 ---
 iso: ttn
 name: Towei
-name_zh: 托威语
-name_zh_auto: true
 autonym: Towe
 population: 120
 country_id: ID
@@ -15,5 +13,9 @@ glottolog_family_id: pauw1244
 glottolog_family_name: Pauwasi
 glottolog_classification: "Pauwasi > Western Pauwasi > Towei"
 wikipedia_url: "https://en.wikipedia.org/wiki/Towei_language"
+translations:
+  - translation_iso: zho
+    name: 托威语
+    auto: true
 ---
 Towei (Towe) is a Western Pauwasi language of West New Guinea. It is spoken in Towe Hitam village, Towe District, Pegunungan Bintang Regency.

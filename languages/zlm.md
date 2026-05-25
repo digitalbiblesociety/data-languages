@@ -1,8 +1,6 @@
 ---
 iso: zlm
 name: Malay
-name_zh: 马来语
-name_zh_auto: true
 autonym: " Indonesian Malaysian "
 alt_names: [Bahasa Malaysia, Bahasa Malayu, Borneo, Colloquial Malay, Malaiisch, Malay (individual language), Malayisch, Malayu, Melaju, Melayu, Standard Malay]
 population: 10296000
@@ -16,6 +14,12 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Malayo-Chamic > Malayic > Nuclear Malayic > Greater Riau-Johoric > Central Malay"
 wikipedia_url: "https://en.wikipedia.org/wiki/Colloquial_Malay_language"
+translations:
+  - translation_iso: kor
+    name: 조호르-리아우 말레이어
+  - translation_iso: zho
+    name: 马来语
+    auto: true
 rolv_dialects:
   - rolv_code: 798
     language_tag: zlm-x-HIS00798

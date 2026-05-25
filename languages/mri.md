@@ -1,7 +1,6 @@
 ---
 iso: mri
 name: Maori
-name_zh: 毛利语
 autonym: " Te reo Māori"
 alt_names: [Bahasa Maori, Bahasa Māori, Gagana Māoli, Idioma maorí, Język maoryski, Lengua maori, Limba maori, Lingua Maoriana, Lingua maorí, Lingua māori, Língua maori, Maoori keel, Maorais, Maori (New Zealand), Maori de Nouvelle-Zélande, Maori nyelv, Maoria lingvo, Maorieg, Maoriera, Maorijčina, Maorin kieli, Maorische Sprache, Maorisk, Maorių kalba, Maoru valoda, Maorí, Maorština, Mawori, Mawri simi, Maòri, Māori, Māori language, Māori-gú, Neu-Seeland, New Zealand Maori, Reo Māori, Tavas Māori, Wikang Māori, Μαορί γλώσσα, Маары, Маори, Маорски език, Маорски јазик, Маоры, Маорі, מאורית, لغة ماورية, მაორული ენა, ማዖሪ ቋንቋ, マオリ語, 毛利语, 마오리어]
 population: 159700
@@ -16,6 +15,17 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Central Pacific linkage > Tokalau Fijian > Polynesian > Nuclear Polynesian > Northern Outlier Polynesian-East Polynesian > Solomons Northern Outlier Polynesian-East Polynesian > Central Northern Outlier Polynesian-East Polynesian > East Polynesian > East Polynesian Proximal > Southern East Polynesian Proximal > Maoric > Maori"
 wikipedia_url: "https://en.wikipedia.org/wiki/M%C4%81ori_language"
+translations:
+  - translation_iso: ara
+    name: الماورية
+  - translation_iso: hin
+    name: माओरी भाषा
+  - translation_iso: jpn
+    name: マオリ語
+  - translation_iso: kor
+    name: 마오리어
+  - translation_iso: zho
+    name: 毛利语
 rolv_dialects:
   - rolv_code: 13682
     language_tag: mi-x-HIS13682

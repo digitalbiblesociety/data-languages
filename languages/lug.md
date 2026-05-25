@@ -1,7 +1,6 @@
 ---
 iso: lug
 name: Ganda
-name_zh: 卢干达语
 autonym: Ganda
 alt_names: [Bahasa Luganda, Ganda lingvo, Ganda simi, Gandaeg, Gandan kieli, Idioma luganda, Język luganda, Luganda, Língua luganda, Луганда, לוגנדה, ルガンダ語, 卢干达语]
 population: 5614750
@@ -16,6 +15,17 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > East Bantu > Northeast Savanna Bantu > Great Lakes Bantu > West Nyanza > North Nyanza > Ganda"
 wikipedia_url: "https://en.wikipedia.org/wiki/Luganda"
+translations:
+  - translation_iso: ara
+    name: اللوغندية
+  - translation_iso: hin
+    name: गांडा
+  - translation_iso: jpn
+    name: ルガンダ語
+  - translation_iso: kor
+    name: 루간다어
+  - translation_iso: zho
+    name: 卢干达语
 rolv_dialects:
   - rolv_code: 10014
     language_tag: lg-x-HIS10014

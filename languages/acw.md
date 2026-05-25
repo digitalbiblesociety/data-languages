@@ -1,7 +1,6 @@
 ---
 iso: acw
 name: Hijazi Arabic
-name_zh: 漢志阿拉伯語
 autonym: "حجازي "
 alt_names: [Arabeg hijaziek, Arabic, Arabic (Eastern), Arabic (Hijazi), "Arabic, Hijazi", "Arabic, Hijazi Spoken", Bedouin-Hijazi, Hejazi Arabic, Hijazi, Hijazi Spoken, Hijazi arapski, Saudi Arabic, West Arabian Colloquial Arabic, Хијазиски арапски јазик, لهجة حجازية, ޙިޖާޒީ ޢަރަބި, Ḥijāzī]
 population: 14500000
@@ -15,6 +14,13 @@ glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Semitic > West Semitic > Central Semitic > Arabian > Arabic > Arabian Peninsula Arabic > Hijazi Arabic"
 wikipedia_url: "https://en.wikipedia.org/wiki/Hejazi_Arabic"
+translations:
+  - translation_iso: ara
+    name: لهجة حجازية
+  - translation_iso: jpn
+    name: アラビア語ヒジャーズ方言
+  - translation_iso: zho
+    name: 漢志阿拉伯語
 rolv_dialects:
   - rolv_code: 7100
     language_tag: acw-x-HIS07100

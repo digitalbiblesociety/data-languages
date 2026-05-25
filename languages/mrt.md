@@ -1,8 +1,6 @@
 ---
 iso: mrt
 name: Marghi Central
-name_zh: 中马格希语
-name_zh_auto: true
 autonym: Marghi
 alt_names: [Margi, Margi Central, Margi language]
 population: 226000
@@ -16,6 +14,12 @@ glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > Biu-Mandara > North Biu-Mandara > Margi-Mandara-Mofu > Bura-Marghi > Marghic > Marghi Central"
 wikipedia_url: "https://en.wikipedia.org/wiki/Margi_language"
+translations:
+  - translation_iso: jpn
+    name: マルギ語
+  - translation_iso: zho
+    name: 中马格希语
+    auto: true
 rolv_dialects:
   - rolv_code: 13716
     language_tag: mrt-x-HIS13716

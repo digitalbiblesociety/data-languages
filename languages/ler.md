@@ -1,8 +1,6 @@
 ---
 iso: ler
 name: Lenkau
-name_zh: 伦考语
-name_zh_auto: true
 autonym: null
 alt_names: [Admiralitäts-inseln]
 population: 250
@@ -16,5 +14,9 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Admiralty Islands > Eastern Admiralty Islands > South-East Admiralty > Lenkau"
 wikipedia_url: "https://en.wikipedia.org/wiki/Lenkau_language"
+translations:
+  - translation_iso: zho
+    name: 伦考语
+    auto: true
 ---
 Lenkau is an Oceanic language spoken in a single village on Rambutyo Island in Manus Province, Papua New Guinea. It is spoken in Lenkau village, Rapatona Rural LLG.

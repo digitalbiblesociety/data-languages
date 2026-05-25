@@ -1,8 +1,6 @@
 ---
 iso: szb
 name: Ngalum
-name_zh: 恩加卢姆语
-name_zh_auto: true
 autonym: Sibil
 population: 18000
 country_id: ID
@@ -15,6 +13,10 @@ glottolog_family_id: nucl1709
 glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Asmat-Awyu-Ok > Awyu-Ok > Ok-Oksapmin > Ok > Ngalum"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ngalum_language"
+translations:
+  - translation_iso: zho
+    name: 恩加卢姆语
+    auto: true
 rolv_dialects:
   - rolv_code: 4597
     language_tag: szb-x-HIS04597

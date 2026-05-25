@@ -1,7 +1,6 @@
 ---
 iso: thm
 name: Aheu
-name_zh: 他文语
 autonym: Aheu
 alt_names: [Ahao, Ahlao, Ka Tawng Luang, Kha, Kha Tong Luang, Kha Tong Luong, Phi Taung Luang, Phon Soung, Phonesoung, Phonsung, Sach, So, So Thavung, Sotawueng, Tac-cui, Thavung, Thavung (République démocratique populaire lao), Thavung (Tailandia), Thavung (Thaïlande), Tong-luang]
 population: 2520
@@ -15,5 +14,8 @@ glottolog_family_id: aust1305
 glottolog_family_name: Austroasiatic
 glottolog_classification: "Austroasiatic > Vietic > Chutic > Thavung"
 wikipedia_url: "https://en.wikipedia.org/wiki/Thavung_language"
+translations:
+  - translation_iso: zho
+    name: 他文语
 ---
 Thavưng or Aheu is a language spoken by the Phon Sung people in Laos and Thailand. There are thought to be some 1,770 speakers in Laos, largely concentrated in Khamkeut District. A further 750 speakers live in 3 villages of Song Dao District, Sakon Nakhon Province, Thailand, namely Ban Nong Waeng, Ban Nong Charoen, and Ban Nong Muang.

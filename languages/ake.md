@@ -1,8 +1,6 @@
 ---
 iso: ake
 name: Akawaio
-name_zh: 阿卡瓦约语
-name_zh_auto: true
 autonym: Ingarikó
 alt_names: ["\"akawaio (Guyana, Venezuela)\"", "\"akawaio (Guyane, République bolivarienne du Venezuela)\"", Acahuayo, Acawayo, Accawai, Acewaio, Akavajo, Akavajų kalba, Akawai, Akawaieg, Akawaio (Brésil), Akawayo, Akaŭaja lingvo, Idioma akawayo, Kapon, Kapong, Kapóng, Lingua akawaio, Waicá]
 population: 4500
@@ -15,4 +13,8 @@ glottocode: akaw1239
 glottolog_family_id: cari1283
 glottolog_family_name: Cariban
 glottolog_classification: "Cariban > Venezuelan Cariban > Pemong-Panare > Pemongan > Kapong > Akawaio-Ingariko"
+translations:
+  - translation_iso: zho
+    name: 阿卡瓦约语
+    auto: true
 ---

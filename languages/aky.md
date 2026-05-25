@@ -1,8 +1,6 @@
 ---
 iso: aky
 name: "Aka-Kol"
-name_zh: 阿卡-科尔语
-name_zh_auto: true
 autonym: "Aka-Kol"
 alt_names: [Great Andamanese, Kol, Lèngua Aka-Kol]
 population: null
@@ -16,5 +14,11 @@ glottolog_family_id: grea1241
 glottolog_family_name: Great Andamanese
 glottolog_classification: "Great Andamanese > Middle Great Andamanese > Okol-Opucikwar > Akakol"
 wikipedia_url: "https://en.wikipedia.org/wiki/Okol_language"
+translations:
+  - translation_iso: kor
+    name: 오콜어
+  - translation_iso: zho
+    name: 阿卡-科尔语
+    auto: true
 ---
 The Kol language, O-Kol, is an extinct Great Andamanese language, of the Central group. It was spoken in the southeast section of Middle Andaman.

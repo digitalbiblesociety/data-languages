@@ -1,8 +1,6 @@
 ---
 iso: opa
 name: Okpamheri
-name_zh: 奥克帕姆赫里语
-name_zh_auto: true
 autonym: Opameri
 population: 30000
 country_id: NG
@@ -15,6 +13,10 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Akpes-Edoid > Edoid > Northwestern Edoid > Southern Northwestern Edoid > Okpamheri"
 wikipedia_url: "https://en.wikipedia.org/wiki/Okpamheri_language"
+translations:
+  - translation_iso: zho
+    name: 奥克帕姆赫里语
+    auto: true
 rolv_dialects:
   - rolv_code: 10774
     language_tag: opa-x-HIS10774

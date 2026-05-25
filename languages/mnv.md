@@ -1,8 +1,6 @@
 ---
 iso: mnv
 name: "Rennell-Bellona"
-name_zh: 伦内尔-贝洛纳语
-name_zh_auto: true
 autonym: "Rennell-Bellona"
 alt_names: [Ren(n)ellese, Rennell, Rennell-Belona, Rennellese, Rennellese-Bellonese]
 population: 4390
@@ -16,6 +14,12 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Central Pacific linkage > Tokalau Fijian > Polynesian > Nuclear Polynesian > Rennell-Bellona"
 wikipedia_url: "https://en.wikipedia.org/wiki/Rennellese_language"
+translations:
+  - translation_iso: jpn
+    name: レンネル語
+  - translation_iso: zho
+    name: 伦内尔-贝洛纳语
+    auto: true
 rolv_dialects:
   - rolv_code: 15976
     language_tag: mnv-x-HIS15976

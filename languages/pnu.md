@@ -1,7 +1,6 @@
 ---
 iso: pnu
 name: Jiongnai Bunu
-name_zh: 炯奈语
 autonym: Jiongnai
 alt_names: [Bunu, Bunu jiongnai, "Bunu, Jiongnai", Bunú jiongnai, Chiung-nai, Hualan Yao, Jiongnaihua, Kiong Nai, Punu, Qiungnai, 炯奈語, 花籃瑤]
 population: 1080
@@ -15,6 +14,11 @@ glottolog_family_id: hmon1336
 glottolog_family_name: Hmong-Mien
 glottolog_classification: "Hmong-Mien > Hmongic > Nuclear Hmongic-Ho Ne > Jiongnai-Ho Ne > Jiongnai Bunu"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kiong_Nai_language"
+translations:
+  - translation_iso: jpn
+    name: 炯奈語
+  - translation_iso: zho
+    name: 炯奈语
 rolv_dialects:
   - rolv_code: 6284
     language_tag: pnu-x-HIS06284

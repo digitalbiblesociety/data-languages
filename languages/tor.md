@@ -1,8 +1,6 @@
 ---
 iso: tor
 name: "Togbo-Vara Banda"
-name_zh: 托格博-瓦拉班达语
-name_zh_auto: true
 autonym: null
 alt_names: [Banda, "Banda, Togbo-Vara"]
 population: 12000
@@ -15,6 +13,10 @@ glottocode: togb1241
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Cameroun-Ubangian > Ubangi > Ubangi Ka > Bandaic > Nuclear Bandaic > Central Bandaic > Core Central Bandaic > Togbo-Vara Banda"
+translations:
+  - translation_iso: zho
+    name: 托格博-瓦拉班达语
+    auto: true
 rolv_dialects:
   - rolv_code: 7667
     language_tag: tor-x-HIS07667

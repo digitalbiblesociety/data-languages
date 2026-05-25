@@ -1,8 +1,6 @@
 ---
 iso: yay
 name: Agwagwune
-name_zh: 阿格瓦格武内语
-name_zh_auto: true
 autonym: Agwagwune
 alt_names: ["\"Akunakuna\"", Agwaguna, Akunakuna, Akurakura, Gwune, Okurikan]
 population: 20000
@@ -16,6 +14,10 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Delta Cross > Upper Cross > Central Upper Cross > North-South Central Delta Cross > Ubaghara-Kohumono > Kohumonoic > Agwagwune"
 wikipedia_url: "https://en.wikipedia.org/wiki/Gwune_language"
+translations:
+  - translation_iso: zho
+    name: 阿格瓦格武内语
+    auto: true
 rolv_dialects:
   - rolv_code: 2941
     language_tag: yay-x-HIS02941

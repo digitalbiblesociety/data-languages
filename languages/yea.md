@@ -1,8 +1,6 @@
 ---
 iso: yea
 name: Ravula
-name_zh: 拉乌拉语
-name_zh_auto: true
 autonym: Yerava
 alt_names: [Adiya, Adiyan, Iryavula, Panjiri Yerava, Yoruba]
 population: 26900
@@ -16,6 +14,10 @@ glottolog_family_id: drav1251
 glottolog_family_name: Dravidian
 glottolog_classification: "Dravidian > South Dravidian > South Dravidian I > Tamil-Kannada > Tamil-Kota > Tamil-Toda > Tamil-Irula > Tamil-Kodagu > Tamil-Malayalam > Malayalamoid > Ravulic > Ravula"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ravula_language"
+translations:
+  - translation_iso: zho
+    name: 拉乌拉语
+    auto: true
 rolv_dialects:
   - rolv_code: 25838
     language_tag: yea-x-HIS25838

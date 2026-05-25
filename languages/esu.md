@@ -1,7 +1,6 @@
 ---
 iso: esu
 name: Central Yupik
-name_zh: 中阿拉斯加尤皮克语
 autonym: Yupʼik
 alt_names: [Alaskanjupik, Alaskayupik, Aliaskos jupikų kalba, "Central Alaskan Yup'ik", "Central Alaskan Yup'ik language", Central Alaskan Yupik, Chevak, Hooper Bay - Chevak Yupik, Hooper Bay-Chevak, Język yupik środkowy, Kuskokwim Eskimo, Norton Sound, Norton Sound and Seward Peninsula Inuit, Unaligmiut, Unaliq, Yugcestun, Yugtun, "Yup'ik", "Yup'ik (Central Alaskan)", "Yup'ik (Central)", "Yup'ik (Chevak)", "Yup'ik (Norton Sound)", Yupik, Yupik (Central), Yupik (General Central), "Yupik d'Alaska Centrale (2)", "Yupik d'Alaska Centrale (île Nunivak)", "Yupik, Central", "Yupik, General Central", Yupí alasquiano central (isla de Nunivak), Центрально-юпикский язык, ცენტრალურ ალასკური იუპიკური ენა, 中央アラスカ・ユピック語]
 population: 10000
@@ -16,6 +15,13 @@ glottolog_family_id: eski1264
 glottolog_family_name: Eskimo-Aleut
 glottolog_classification: "Eskimo-Aleut > Eskimo > Yupik > Central Alaskan Yupik"
 wikipedia_url: "https://en.wikipedia.org/wiki/Central_Alaskan_Yup%CA%BCik"
+translations:
+  - translation_iso: jpn
+    name: 中央アラスカ・ユピック語
+  - translation_iso: kor
+    name: 중앙 알래스카 유픽어
+  - translation_iso: zho
+    name: 中阿拉斯加尤皮克语
 rolv_dialects:
   - rolv_code: 4216
     language_tag: esu-x-HIS04216

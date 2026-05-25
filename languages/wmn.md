@@ -1,8 +1,6 @@
 ---
 iso: wmn
 name: Waamwang
-name_zh: 瓦姆旺语
-name_zh_auto: true
 autonym: Wamoang
 alt_names: [Neukaledonien]
 population: null
@@ -16,5 +14,9 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Southern Melanesian > New Caledonian > Mainland New Caledonian > Northern New Caledonian > Mid-Northern New Caledonian > Voh-Kone-Cem-Pac > Voh-Kone > Waamwang"
 wikipedia_url: "https://en.wikipedia.org/wiki/Waamwang_language"
+translations:
+  - translation_iso: zho
+    name: 瓦姆旺语
+    auto: true
 ---
 Waamwang (Wamoang) is an extinct Kanak language of New Caledonia, in the commune of Voh.

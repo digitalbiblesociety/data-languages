@@ -1,8 +1,6 @@
 ---
 iso: baa
 name: Babatana
-name_zh: 巴巴塔纳语
-name_zh_auto: true
 autonym: East Choiseul
 alt_names: [Mbambatana]
 population: 7070
@@ -16,6 +14,12 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > Meso Melanesian linkage > New Ireland-Northwest Solomonic linkage > St George linkage > Northwest Solomonic > Choiseul > East Choiseul > Southeast Choiseul > Babatana"
 wikipedia_url: "https://en.wikipedia.org/wiki/Babatana_language"
+translations:
+  - translation_iso: jpn
+    name: ムバンバタナ語
+  - translation_iso: zho
+    name: 巴巴塔纳语
+    auto: true
 rolv_dialects:
   - rolv_code: 3663
     language_tag: baa-x-HIS03663

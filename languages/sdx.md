@@ -1,8 +1,6 @@
 ---
 iso: sdx
 name: Sibu Melanau
-name_zh: 西布梅拉瑙语
-name_zh_auto: true
 autonym: Central Melanau
 alt_names: ["Melanau, Sibu", Seduan-Banyok, Sibu, Siduan, Siduani]
 population: 420
@@ -15,4 +13,8 @@ glottocode: sibu1258
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > North Borneo Malayo-Polynesian > Central Sarawak > Melanau-Kajang > Melanau > Sibu-Kanowit-Tanjong > Sibu Melanau"
+translations:
+  - translation_iso: zho
+    name: 西布梅拉瑙语
+    auto: true
 ---

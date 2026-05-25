@@ -1,8 +1,6 @@
 ---
 iso: bqu
 name: Boguru
-name_zh: 博古鲁语
-name_zh_auto: true
 autonym: Boguru
 alt_names: [Buguru, Kogoro, Koguru]
 population: 490
@@ -16,6 +14,10 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > Central-Western Bantu > North Zaire River > Rivers Bantu > Ngiri > Ngiri Terrien > Ngombe-Ababuan > Ababuan > Old Bomokandian > Ngbele-Ngenda > Ngendan > Unclassified Ngendan > Boguru"
 wikipedia_url: "https://en.wikipedia.org/wiki/Guru_language"
+translations:
+  - translation_iso: zho
+    name: 博古鲁语
+    auto: true
 rolv_dialects:
   - rolv_code: 8228
     language_tag: bqu-x-HIS08228

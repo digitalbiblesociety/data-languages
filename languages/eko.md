@@ -1,8 +1,6 @@
 ---
 iso: eko
 name: Koti
-name_zh: 科蒂语
-name_zh_auto: true
 autonym: Ekoti
 alt_names: [Angoche, Angoxe, Bahasa Ekoti, Coti]
 population: 140000
@@ -16,6 +14,12 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > East Bantu > North Mozambique Bantu > Koti-Nathembo > Koti"
 wikipedia_url: "https://en.wikipedia.org/wiki/Koti_language"
+translations:
+  - translation_iso: jpn
+    name: コティ語
+  - translation_iso: zho
+    name: 科蒂语
+    auto: true
 rolv_dialects:
   - rolv_code: 24119
     language_tag: eko-x-HIS24119

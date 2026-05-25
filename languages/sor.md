@@ -1,8 +1,6 @@
 ---
 iso: sor
 name: Somrai
-name_zh: 索姆赖语
-name_zh_auto: true
 autonym: Sibine
 alt_names: [East Chadic A.1, Shibne, Somrai Group, Somre, Somrei, Soumrai, Soumray, Sounrai, Sumrai]
 population: 7410
@@ -16,5 +14,9 @@ glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > East Chadic > East Chadic A > East Chadic A.1 > Sumrayic > Sarwa-Sumray > Somrai"
 wikipedia_url: "https://en.wikipedia.org/wiki/Somrai_language"
+translations:
+  - translation_iso: zho
+    name: 索姆赖语
+    auto: true
 ---
 Somrai (Sumrey,sɨmray), also known as Sibine, is an Afro-Asiatic language spoken in the southwestern Chadian prefectures of Tandjilé and Lai. The speakers or Somrai are not bilingual; the language is not mutually intelligible with any other, as its highest lexical similarity with another language is with Ndam (42%). Most of the speakers, who call themselves Shibne or Sibine, generally practice traditional religions, Christianity, or Islam.

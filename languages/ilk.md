@@ -1,8 +1,6 @@
 ---
 iso: ilk
 name: Ilongot
-name_zh: 伊隆戈特语
-name_zh_auto: true
 autonym: Bugkalut
 alt_names: [Bukalot, Lingotes]
 population: 5710
@@ -16,6 +14,12 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Northern Luzon > Meso-Cordilleran > South-Central Cordilleran > Southern Cordilleran > Ilongot"
 wikipedia_url: "https://en.wikipedia.org/wiki/Bugkalot_language"
+translations:
+  - translation_iso: jpn
+    name: イロンゴット語
+  - translation_iso: zho
+    name: 伊隆戈特语
+    auto: true
 rolv_dialects:
   - rolv_code: 10874
     language_tag: ilk-x-HIS10874

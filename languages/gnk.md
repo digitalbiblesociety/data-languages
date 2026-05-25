@@ -1,8 +1,6 @@
 ---
 iso: gnk
 name: ǁGana
-name_zh: "!加纳语"
-name_zh_auto: true
 autonym: Dxana
 alt_names: [//Gana, //Ganakhwe, /Khessakoe, "?gana", G//ana, G//anakhwe, Gana, Ganakue, Gxana, Gxanna, "G||ana", "G||ana-Khwe", Gǁana language, Kanakhoe, Kanakoe, "||Gana", ǁGana jezik, Лъгана-цъгви]
 population: 2000
@@ -16,6 +14,12 @@ glottolog_family_id: khoe1240
 glottolog_family_name: Khoe-Kwadi
 glottolog_classification: "Khoe-Kwadi > Khoe > Non-Khoekhoe > West-Kxoe > Naro-Ana > Ana > //Gana"
 wikipedia_url: "https://en.wikipedia.org/wiki/G%C7%81ana_language"
+translations:
+  - translation_iso: jpn
+    name: ガーナ語
+  - translation_iso: zho
+    name: "!加纳语"
+    auto: true
 rolv_dialects:
   - rolv_code: 10010
     language_tag: gnk-x-HIS10010

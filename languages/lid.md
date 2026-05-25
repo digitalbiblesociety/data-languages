@@ -1,8 +1,6 @@
 ---
 iso: lid
 name: Nyindrou
-name_zh: 尼因德鲁语
-name_zh_auto: true
 autonym: null
 alt_names: [Admiralitäts-inseln, Lindau, Lindrou, Nyada, Salien]
 population: 4200
@@ -16,6 +14,10 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Admiralty Islands > Eastern Admiralty Islands > Manus > West Manus > West Manus I > Nyindrou"
 wikipedia_url: "https://en.wikipedia.org/wiki/Nyindrou_language"
+translations:
+  - translation_iso: zho
+    name: 尼因德鲁语
+    auto: true
 rolv_dialects:
   - rolv_code: 480
     language_tag: lid-x-HIS00480

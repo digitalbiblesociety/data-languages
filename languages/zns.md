@@ -1,8 +1,6 @@
 ---
 iso: zns
 name: Mangas
-name_zh: 曼加斯语
-name_zh_auto: true
 autonym: Pyik Mantsi
 alt_names: [Nigeria]
 population: 100
@@ -16,5 +14,9 @@ glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > West Chadic > West Chadic B > West Chadic B.3 > South Bauchi East > Boghomic > Kir-Mangas > Mangas"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mantsi_language_(Nigeria)"
+translations:
+  - translation_iso: zho
+    name: 曼加斯语
+    auto: true
 ---
 Mantsi is an endangered Afro-Asiatic language spoken in Mangas town in Bauchi State, Nigeria. Blench (2020) reports that it is also called Mantsi. According to Blench, the structure of Mantsi differs significantly from the other South Bauchi languages.

@@ -1,7 +1,6 @@
 ---
 iso: int
 name: Intha
-name_zh: 因塔-达努语
 autonym: Inntha
 alt_names: ["Inle, Intha"]
 population: 90000
@@ -15,5 +14,8 @@ glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Burmo-Qiangic > Lolo-Burmese > Burmish > Southern Burmish > Mranmaic > Intha-Danu"
 wikipedia_url: "https://en.wikipedia.org/wiki/Intha-Danu_language"
+translations:
+  - translation_iso: zho
+    name: 因塔-达努语
 ---
 Intha and Danu are southern Burmish languages of Shan State, Burma, spoken respectively by the Intha and Danu people, the latter of whom are Bamar descendants who migrated to Inle Lake in Shan State. Considered to be dialects of Burmese by the Government of Myanmar, Danu has 93% lexical similarity with standard Burmese, while Intha has 95% lexical similarity with standard Burmese. Intha and Danu differ from standard Burmese with respect to pronunciation of certain phonemes, and few hundred local vocabulary terms. Language contact has led to increasing convergence with standard Burmese. Both are spoken by about 100,000 people each.

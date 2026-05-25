@@ -1,7 +1,6 @@
 ---
 iso: waq
 name: Wagiman
-name_zh: 瓦基曼语
 autonym: Wageman
 alt_names: [Airiman, Ongkakaringa, Tagoman, Wagaman, Wagoman, Wakiman, Wogeman, Woggeman, Wogiman, Wongkakaringa]
 population: null
@@ -12,5 +11,8 @@ latitude: -13.86272
 longitude: 131.89332
 glottocode: wage1238
 wikipedia_url: "https://en.wikipedia.org/wiki/Wagiman_language"
+translations:
+  - translation_iso: zho
+    name: 瓦基曼语
 ---
 Wagiman, also spelt Wageman, Wakiman, Wogeman, and other variants, is a near-extinct Aboriginal Australian language spoken by only two elderly people, who live in and around Pine Creek, in the Katherine Region of the Northern Territory. The two last speakers, who acquired Wagiman as their first language, are sister and brother in their 70s, named Teresa Muyiwey Bandison and George Jabarlgarri Huddlestone..

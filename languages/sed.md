@@ -1,7 +1,6 @@
 ---
 iso: sed
 name: Sedang
-name_zh: 色當語
 autonym: Cadong
 alt_names: [Hadang, Hdang, Hotea, Hoteang, Həjung, Kmrang, Kəmrang, Rotea, Roteang, Sedang-Sprachen, Sedangeg, Sədang, Tang, Xa Dang, Xodang, ภาษาเซดัง]
 population: 97900
@@ -15,6 +14,13 @@ glottolog_family_id: aust1305
 glottolog_family_name: Austroasiatic
 glottolog_classification: "Austroasiatic > Bahnaric > North Bahnaric > Hre-Sedang-Todrah-Monam > Hre-Sedang > Sedang"
 wikipedia_url: "https://en.wikipedia.org/wiki/Sedang_language"
+translations:
+  - translation_iso: jpn
+    name: セダン語
+  - translation_iso: kor
+    name: 세당어
+  - translation_iso: zho
+    name: 色當語
 rolv_dialects:
   - rolv_code: 16417
     language_tag: sed-x-HIS16417

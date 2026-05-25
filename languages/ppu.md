@@ -1,7 +1,6 @@
 ---
 iso: ppu
 name: Papora
-name_zh: 巴布拉语
 autonym: Bupuran
 alt_names: [Hinapavosa, Hoanya, Papola, Papora-Hoanya, Sprache von Formosa, Vupuran]
 population: null
@@ -15,6 +14,13 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Western Plains Austronesian > Central Western Plains > Papora-Hoanya"
 wikipedia_url: "https://en.wikipedia.org/wiki/Papora-Hoanya_language"
+translations:
+  - translation_iso: jpn
+    name: パポラ・ホアンヤ語
+  - translation_iso: kor
+    name: 파포라-호안야어
+  - translation_iso: zho
+    name: 巴布拉语
 rolv_dialects:
   - rolv_code: 10675
     language_tag: ppu-x-HIS10675

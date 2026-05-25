@@ -1,7 +1,6 @@
 ---
 iso: xcl
 name: Classical Armenian
-name_zh: 古典亚美尼亚语
 autonym: գրաբար
 alt_names: [Altarmenische Sprache, "Armenian, Classical", Arménien ancien, Gammelarmensk, Grabar, Krabar, Old Armenian, Oud-Armeens, Грабар, Рагсомихаг æвзаг, ძველი სომხური ენა, 古典アルメニア語]
 population: null
@@ -15,5 +14,12 @@ glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Armenic > Classical-Middle Armenian"
 wikipedia_url: "https://en.wikipedia.org/wiki/Classical_Armenian"
+translations:
+  - translation_iso: jpn
+    name: 古典アルメニア語
+  - translation_iso: kor
+    name: 고전 아르메니아어
+  - translation_iso: zho
+    name: 古典亚美尼亚语
 ---
 Classical Armenian is the oldest attested form of the Armenian language. It was first written down at the beginning of the 5th century, and most Armenian literature from then through the 18th century is in Classical Armenian. Many ancient manuscripts originally written in Ancient Greek, Hebrew, Syriac and Latin survive only in Armenian translation. Classical Armenian itself, in turn, was heavily influenced by the Iranian languages, in particular by Parthian.

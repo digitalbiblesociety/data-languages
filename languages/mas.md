@@ -1,7 +1,6 @@
 ---
 iso: mas
 name: Masai
-name_zh: 馬賽語
 autonym: ɔl Maa
 alt_names: [Język masajski, Kimaasai, Lumbwa, Língua massai, Maa, Maan kieli, Maasai, Maasai language, Masaieg, Oigob, Sprachen der Wakuafi und Masai, massaï, Масаи јазик, Масайский язык]
 population: 1872000
@@ -16,6 +15,17 @@ glottolog_family_id: nilo1247
 glottolog_family_name: Nilotic
 glottolog_classification: "Nilotic > Eastern Nilotic > Teso-Lotuxo-Maa > Lotuxo-Maa > Ongamo-Maa > Nuclear Maa > Masai"
 wikipedia_url: "https://en.wikipedia.org/wiki/Maasai_language"
+translations:
+  - translation_iso: ara
+    name: الماساي
+  - translation_iso: hin
+    name: मसाई
+  - translation_iso: jpn
+    name: マサイ語
+  - translation_iso: kor
+    name: 마사이어
+  - translation_iso: zho
+    name: 馬賽語
 rolv_dialects:
   - rolv_code: 969
     language_tag: mas-x-HIS00969

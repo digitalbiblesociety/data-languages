@@ -1,7 +1,6 @@
 ---
 iso: mwf
 name: "Murrinh-Patha"
-name_zh: 穆林帕塔语
 autonym: Garama
 alt_names: [Bahasa Murrinh-patha, Garrama, Garramung, Karama, Karaman, Luenga murrinhpatha, Mariwada, Mariwuda, Marri-wutha, Murinbada, Murinbata, Murinhpatha, Murinjbada, Murinjpata, Murinkura, Murinpatha, Murinypata, Murrinhpatha, Murrinpatha, Murriny Patha, Nagor, Nangu]
 population: 1430
@@ -15,6 +14,11 @@ glottolog_family_id: sout2772
 glottolog_family_name: Southern Daly
 glottolog_classification: "Southern Daly > Murriny Patha"
 wikipedia_url: "https://en.wikipedia.org/wiki/Murrinh-patha_language"
+translations:
+  - translation_iso: jpn
+    name: ムリンパタ語
+  - translation_iso: zho
+    name: 穆林帕塔语
 rolv_dialects:
   - rolv_code: 14435
     language_tag: mwf-x-HIS14435

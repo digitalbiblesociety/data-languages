@@ -1,8 +1,6 @@
 ---
 iso: mwi
 name: Labo
-name_zh: 拉博语
-name_zh_auto: true
 autonym: null
 alt_names: [Meaun, Mewun, Nide, Ninde]
 population: 1100
@@ -16,6 +14,12 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > North and Central Vanuatu > Central Vanuatu > Malakula > Western Malakula linkage > Peripheral Western Malakula > Ninde-Nati > Ninde"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ninde_language"
+translations:
+  - translation_iso: jpn
+    name: ラボ語
+  - translation_iso: zho
+    name: 拉博语
+    auto: true
 rolv_dialects:
   - rolv_code: 647
     language_tag: mwi-x-HIS00647

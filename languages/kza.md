@@ -1,8 +1,6 @@
 ---
 iso: kza
 name: Western Karaboro
-name_zh: 西卡拉博罗语
-name_zh_auto: true
 autonym: Western Karaboro
 alt_names: [Karaboro, "Karaboro, Western", Syer-Tenyer, Tenyer]
 population: 30200
@@ -16,6 +14,10 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Senufo > Karaboro > Western Karaboro"
 wikipedia_url: "https://en.wikipedia.org/wiki/Syer-Tenyer_language"
+translations:
+  - translation_iso: zho
+    name: 西卡拉博罗语
+    auto: true
 rolv_dialects:
   - rolv_code: 11574
     language_tag: kza-x-HIS11574

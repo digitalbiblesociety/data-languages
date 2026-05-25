@@ -1,8 +1,6 @@
 ---
 iso: ram
 name: Canela
-name_zh: 卡内拉语
-name_zh_auto: true
 autonym: Kanela
 alt_names: [Canela apaniekra, Canela ramkokomekra, Canela rankokamekra, Canela-Krahô, Krahó, Krenjé, Pukobyé, Timbira]
 population: 2500
@@ -16,6 +14,12 @@ glottolog_family_id: nucl1710
 glottolog_family_name: Nuclear-Macro-Je
 glottolog_classification: "Nuclear-Macro-Je > Je > Cerrado > Goyaz > Northern Je > Eastern Timbira > Southeastern Timbira > Central-Southern Timbira"
 wikipedia_url: "https://en.wikipedia.org/wiki/Canela_dialect"
+translations:
+  - translation_iso: jpn
+    name: カネラ語
+  - translation_iso: zho
+    name: 卡内拉语
+    auto: true
 rolv_dialects:
   - rolv_code: 2233
     language_tag: ram-x-HIS02233

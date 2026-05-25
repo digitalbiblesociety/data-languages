@@ -1,7 +1,6 @@
 ---
 iso: mmj
 name: Majhwar
-name_zh: 马吉瓦尔语
 autonym: Majhvar
 alt_names: [Manjhi, Manjhia]
 population: 174000
@@ -15,5 +14,8 @@ glottolog_family_id: aust1305
 glottolog_family_name: Austroasiatic
 glottolog_classification: "Austroasiatic > Mundaic > North Munda > Kherwarian > Mundaric > Majhwar"
 wikipedia_url: "https://en.wikipedia.org/wiki/Majhwar_language"
+translations:
+  - translation_iso: zho
+    name: 马吉瓦尔语
 ---
 Majhwar is a poorly-attested Munda language, apparently related to or a dialect of Asuri, spoken in northern Chhattisgarh and Sonbhadra district of Uttar Pradesh by the Majhwar tribe.

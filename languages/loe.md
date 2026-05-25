@@ -1,8 +1,6 @@
 ---
 iso: loe
 name: Saluan
-name_zh: 萨鲁安语
-name_zh_auto: true
 autonym: Loinang
 alt_names: [Coastal, Loindang, Madi, Mondono, "Saluan, Coastal"]
 population: 51900
@@ -16,6 +14,10 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Celebic > Greater Eastern Celebic > Eastern Celebic > Saluan-Banggai > Western Saluan-Banggai > Saluanic > Batui-Saluan > Saluan"
 wikipedia_url: "https://en.wikipedia.org/wiki/Saluan_language"
+translations:
+  - translation_iso: zho
+    name: 萨鲁安语
+    auto: true
 rolv_dialects:
   - rolv_code: 16226
     language_tag: loe-x-HIS16226

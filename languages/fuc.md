@@ -1,7 +1,6 @@
 ---
 iso: fuc
 name: Pulaar
-name_zh: 普拉爾語
 autonym: Futa Tooro
 alt_names: [Ful(ani), Fula, Fula (Mauritanian), Fula (Senegal), "Fula, Fulani", Fulah-Idiome, Fulani, Fulbe Jeeri, Fulfulde (Mauritanian), Fulfulde Pulaar, Fulfulde-Pulaar, Haalpulaar, Peul, Peulh, Pulaar Fulfulde]
 population: 5398700
@@ -15,6 +14,13 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > North-Central Atlantic > Fula-Sereer > Fula > Pulaar"
 wikipedia_url: "https://en.wikipedia.org/wiki/Pulaar_language"
+translations:
+  - translation_iso: ara
+    name: لغة بلارية
+  - translation_iso: jpn
+    name: プラール語
+  - translation_iso: zho
+    name: 普拉爾語
 rolv_dialects:
   - rolv_code: 327
     language_tag: fuc-x-HIS00327

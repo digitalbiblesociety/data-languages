@@ -1,8 +1,6 @@
 ---
 iso: yrw
 name: Yarawata
-name_zh: 亚拉瓦塔语
-name_zh_auto: true
 autonym: null
 population: 130
 country_id: PG
@@ -15,5 +13,9 @@ glottolog_family_id: nucl1709
 glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Madang > Croisilles > Greater Northern Adelbert > Northern Adelbert > Numugenan > Yarawata-Parawen-Ukuriguma > Yarawata"
 wikipedia_url: "https://en.wikipedia.org/wiki/Yarawata_language"
+translations:
+  - translation_iso: zho
+    name: 亚拉瓦塔语
+    auto: true
 ---
 Yarawata is a Papuan language of Papua New Guinea.

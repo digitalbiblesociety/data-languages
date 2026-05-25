@@ -1,8 +1,6 @@
 ---
 iso: kul
 name: Kulere
-name_zh: 库莱雷语
-name_zh_auto: true
 autonym: Akande
 alt_names: [Akandi, Kande, Korom Boye, Tof]
 population: 15600
@@ -16,6 +14,10 @@ glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > West Chadic > West Chadic A > West Chadic A.4 > Ronic > Kulere"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kulere_language"
+translations:
+  - translation_iso: zho
+    name: 库莱雷语
+    auto: true
 rolv_dialects:
   - rolv_code: 12441
     language_tag: kul-x-HIS12441

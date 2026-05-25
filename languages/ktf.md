@@ -1,8 +1,6 @@
 ---
 iso: ktf
 name: Kwami
-name_zh: 克瓦米语
-name_zh_auto: true
 autonym: Kikwame
 alt_names: [Kikwami, Kwame]
 population: 400
@@ -15,6 +13,10 @@ glottocode: kwam1250
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > East Bantu > Greater Lega > Unclassified Greater Lega > Kwami"
+translations:
+  - translation_iso: zho
+    name: 克瓦米语
+    auto: true
 rolv_dialects:
   - rolv_code: 1267
     language_tag: ktf-x-HIS01267

@@ -1,7 +1,6 @@
 ---
 iso: dbl
 name: Dyirbal
-name_zh: 迪爾巴爾語
 autonym: Djirubal
 alt_names: [Chirbal, Chirpa, Chirpalji, Choolngai, Djalnguy, Djirbal, Djirbaldji, Djiribal, Dyalnguy, Dyarbal, Dyirbaldyi, Dyirbalngan, Jirrbal, Język dyirbal, Lenga dyirbal, Lingua dyirbal, Ngiloongo-I, Njirma, Tjirbal, Tyirbal, Дирбал]
 population: 8
@@ -15,6 +14,13 @@ glottolog_family_id: pama1250
 glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > Dyirbal"
 wikipedia_url: "https://en.wikipedia.org/wiki/Dyirbal_language"
+translations:
+  - translation_iso: jpn
+    name: ジルバル語
+  - translation_iso: kor
+    name: 지르발어
+  - translation_iso: zho
+    name: 迪爾巴爾語
 rolv_dialects:
   - rolv_code: 24755
     language_tag: dbl-x-HIS24755

@@ -1,7 +1,6 @@
 ---
 iso: yud
 name: "Judeo-Tripolitanian Arabic"
-name_zh: 猶太-的黎波里阿拉伯語
 autonym: "Jewish Tripolitanian-Libyan Arabic"
 alt_names: [Arabic, "Arabic, Judeo-Tripolitanian", Judeotripolitanski arapski, "Tripolita'it", Tripolitanian Judeo-Arabic, Yahudi Trablus Arapçası, Yudi, Јудео-триполски јазик, טריפוליטנית, ภาษาอาหรับยิวตริโปลี]
 population: 43000
@@ -15,5 +14,12 @@ glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Semitic > West Semitic > Central Semitic > Arabian > Arabic > North African Arabic > Judeo-Tripolitanian Arabic"
 wikipedia_url: "https://en.wikipedia.org/wiki/Judeo-Tripolitanian_Arabic"
+translations:
+  - translation_iso: ara
+    name: لهجة يهودية ليبية
+  - translation_iso: jpn
+    name: ユダヤ・トリポリタニア・アラビア語
+  - translation_iso: zho
+    name: 猶太-的黎波里阿拉伯語
 ---
 Judeo-Tripolitanian Arabic is a variety of Arabic spoken by Jews formerly living in Libya.

@@ -1,8 +1,6 @@
 ---
 iso: vrt
 name: Burmbar
-name_zh: 布姆巴尔语
-name_zh_auto: true
 autonym: " Vartavo"
 alt_names: [Banam Bay, Banan Bay, Mallicolo]
 population: 900
@@ -16,6 +14,10 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > North and Central Vanuatu > Central Vanuatu > Malakula > Eastern Malakula linkage > Central-Southeast Malakula > Burmbar"
 wikipedia_url: "https://en.wikipedia.org/wiki/Burmbar_language"
+translations:
+  - translation_iso: zho
+    name: 布姆巴尔语
+    auto: true
 rolv_dialects:
   - rolv_code: 30716
     language_tag: vrt-x-HIS30716

@@ -4,6 +4,7 @@ import (
 	"fmt"
 	"os"
 	"regexp"
+	"sort"
 	"strconv"
 	"strings"
 )
@@ -256,6 +257,7 @@ func parseScalar(s string) any {
 type MergeOptions struct {
 	DedupKey   string   // required: which field identifies an item
 	FieldOrder []string // optional: canonical field order for emission
+	SortByKey  bool     // optional: after merge, sort items lexically by DedupKey
 	DryRun     bool     // if true, do not write the file
 }
 
@@ -278,20 +280,47 @@ func MergeFile(path, field string, incoming []*Item, opts MergeOptions) (MergeRe
 	}
 	existing, start, end := ReadArrayField(block, field)
 	merged, changed := MergeByKey(existing, incoming, opts.DedupKey)
+	if opts.SortByKey {
+		// Detect whether sorting changes the order; treat as a change so the
+		// file is rewritten with consistent order. No-op if already sorted.
+		orderBefore := make([]string, len(merged))
+		for i, it := range merged {
+			s, _ := stringValue(it, opts.DedupKey)
+			orderBefore[i] = s
+		}
+		sort.SliceStable(merged, func(i, j int) bool {
+			si, _ := stringValue(merged[i], opts.DedupKey)
+			sj, _ := stringValue(merged[j], opts.DedupKey)
+			return si < sj
+		})
+		for i, it := range merged {
+			s, _ := stringValue(it, opts.DedupKey)
+			if orderBefore[i] != s {
+				changed = true
+				break
+			}
+		}
+	}
 	if !changed {
 		return MergeResult{}, nil
 	}
 	rendered := RenderArrayField(field, merged, opts.FieldOrder)
 	lines := strings.Split(block, "\n")
+	renderedLines := strings.Split(rendered, "\n")
 	var newBlock string
 	if start == -1 {
-		// Append the field to the end of the block.
-		newBlock = strings.Join(append(lines, strings.Split(rendered, "\n")...), "\n")
+		// Field absent — insert at canonical position rather than appending.
+		insertAt := canonicalInsertIndex(lines, field)
+		newLines := make([]string, 0, len(lines)+len(renderedLines))
+		newLines = append(newLines, lines[:insertAt]...)
+		newLines = append(newLines, renderedLines...)
+		newLines = append(newLines, lines[insertAt:]...)
+		newBlock = strings.Join(newLines, "\n")
 	} else {
 		head := lines[:start]
 		tail := lines[end+1:]
 		newLines := append([]string{}, head...)
-		newLines = append(newLines, strings.Split(rendered, "\n")...)
+		newLines = append(newLines, renderedLines...)
 		newLines = append(newLines, tail...)
 		newBlock = strings.Join(newLines, "\n")
 	}
@@ -301,4 +330,37 @@ func MergeFile(path, field string, incoming []*Item, opts MergeOptions) (MergeRe
 	}
 	out := "---\n" + strings.TrimRight(newBlock, "\n") + "\n---\n" + body
 	return res, os.WriteFile(path, []byte(out), 0o644)
+}
+
+// canonicalInsertIndex returns the line index at which to insert a new
+// top-level `field` so that the frontmatter respects CanonicalOrder. Falls
+// back to len(lines) (append) when `field` is unknown to the schema.
+func canonicalInsertIndex(lines []string, field string) int {
+	canonPos := map[string]int{}
+	for i, k := range CanonicalOrder {
+		canonPos[k] = i
+	}
+	myPos, known := canonPos[field]
+	if !known {
+		return len(lines)
+	}
+	insertAt := len(lines)
+	for i, ln := range lines {
+		if ln == "" || strings.HasPrefix(ln, " ") || strings.HasPrefix(ln, "\t") {
+			continue
+		}
+		colon := strings.Index(ln, ":")
+		if colon < 0 {
+			continue
+		}
+		k := strings.TrimSpace(ln[:colon])
+		kp, ok := canonPos[k]
+		if !ok {
+			continue
+		}
+		if kp > myPos && i < insertAt {
+			insertAt = i
+		}
+	}
+	return insertAt
 }

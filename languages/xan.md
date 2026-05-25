@@ -1,8 +1,6 @@
 ---
 iso: xan
 name: Xamtanga
-name_zh: 沙姆坦加语
-name_zh_auto: true
 autonym: Xamir
 alt_names: [Agawinya, Kamir, Khamir, Khamta, Khamtanga, "Simt'anga", Xamta]
 population: 213000
@@ -16,5 +14,9 @@ glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Cushitic > Agaw > Northern-Eastern-Western Agaw > Northeastern Agaw > Xamtanga"
 wikipedia_url: "https://en.wikipedia.org/wiki/Xamtanga_language"
+translations:
+  - translation_iso: zho
+    name: 沙姆坦加语
+    auto: true
 ---
 Xamtanga is a Central Cushitic language spoken in Ethiopia by the Xamir people.

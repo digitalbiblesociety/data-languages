@@ -1,7 +1,6 @@
 ---
 iso: nod
 name: Northern Thai
-name_zh: 北部泰语
 autonym: " Kam Mueangคำเมือง"
 alt_names: ["\"Youanne\"", "\"Youon\"", "\"Yuan\"", Idioma tailandés septentrional, Język kam muang, "Kam Mu'ang", Kammyang, Kammüang, Khon Mung, Khon Myang, La Nya, Lan Na, Lanatai, Lanna, "Mu'ang", Muang, Myang, Noordelijk Thai, Payap, Phayap, Phyap, Tai Nya, Thai Yuan, "Thai, Northern", Western Laotian, Yon, Yuan, Yuon, คำเมือง, ຄຳເມືອງ, 北タイ語]
 population: 6000000
@@ -16,6 +15,13 @@ glottolog_family_id: taik1256
 glottolog_family_name: Tai-Kadai
 glottolog_classification: "Tai-Kadai > Kam-Tai > Daic-Beic > Daic > Central-Southwestern Tai > Wenma-Southwestern Tai > Sapa-Southwestern Tai > Southwestern Tai > Southwestern Tai P > Shanic > Southern Shanic > Yuanic > Northern Thai"
 wikipedia_url: "https://en.wikipedia.org/wiki/Northern_Thai_language"
+translations:
+  - translation_iso: jpn
+    name: 北タイ語
+  - translation_iso: kor
+    name: 북부 태국어
+  - translation_iso: zho
+    name: 北部泰语
 rolv_dialects:
   - rolv_code: 17421
     language_tag: nod-x-HIS17421

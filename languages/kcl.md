@@ -1,8 +1,6 @@
 ---
 iso: kcl
 name: Kela (Papua New Guinea)
-name_zh: 凯拉语（巴布亚新几内亚）
-name_zh_auto: true
 autonym: Kela
 alt_names: [Apoze, Gela, Kala, Kela (Apoze), Kelana, Laukanu]
 population: 2150
@@ -16,6 +14,10 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > North New Guinea linkage > Huon Gulf > North Huon Gulf linkage > Kela (Papua New Guinea)"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kala_language"
+translations:
+  - translation_iso: zho
+    name: 凯拉语（巴布亚新几内亚）
+    auto: true
 rolv_dialects:
   - rolv_code: 26250
     language_tag: kcl-x-HIS26250

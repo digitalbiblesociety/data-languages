@@ -1,8 +1,6 @@
 ---
 iso: lek
 name: Leipon
-name_zh: 莱伊邦语
-name_zh_auto: true
 autonym: Pitilu
 alt_names: [Admiralitäts-inseln, Pityilu]
 population: 650
@@ -16,6 +14,10 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Admiralty Islands > Eastern Admiralty Islands > Manus > East Manus > Leipon"
 wikipedia_url: "https://en.wikipedia.org/wiki/Leipon_language"
+translations:
+  - translation_iso: zho
+    name: 莱伊邦语
+    auto: true
 rolv_dialects:
   - rolv_code: 583
     language_tag: lek-x-HIS00583

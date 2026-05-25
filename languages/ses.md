@@ -1,7 +1,6 @@
 ---
 iso: ses
 name: Koyraboro Senni Songhai
-name_zh: 科依羅玻羅‧散尼語
 autonym: East Songhay
 alt_names: [Gao Songhay, Gao dialect, Koroboro Senni, Koyra Senni, Koyra Senni Songhay, Koyraboro Senni, Koyraboro Senni Songhay, Songai, Songay, Songay Senni, Songhai, Songhai (Gao), Songhai (Koyraboro Senni), "Songhai, Koyraboro Senni", Songhay, Songhay (Koyraboro Senni), "Songhay, Koyraboro Senni", Songoi, Songoy, Sonrai, Sonrhai]
 population: 430000
@@ -16,6 +15,17 @@ glottolog_family_id: song1307
 glottolog_family_name: Songhay
 glottolog_classification: "Songhay > Eastern Songhay > Koyraboro Senni Songhai"
 wikipedia_url: "https://en.wikipedia.org/wiki/Koyraboro_Senni"
+translations:
+  - translation_iso: ara
+    name: كويرابورو سيني
+  - translation_iso: hin
+    name: कोयराबोरो सेन्नी
+  - translation_iso: jpn
+    name: コイラボロ・センニ語
+  - translation_iso: kor
+    name: 코이야보로 세니어
+  - translation_iso: zho
+    name: 科依羅玻羅‧散尼語
 rolv_dialects:
   - rolv_code: 26876
     language_tag: ses-x-HIS26876

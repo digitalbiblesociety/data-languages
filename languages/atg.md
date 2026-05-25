@@ -1,8 +1,6 @@
 ---
 iso: atg
 name: "Ivbie North-Okpela-Arhe"
-name_zh: 伊夫比北-奥克佩拉-阿尔赫语
-name_zh_auto: true
 autonym: Ivbie North – Okpela – Arhe
 population: 20000
 country_id: NG
@@ -15,6 +13,10 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Akpes-Edoid > Edoid > Northwestern Edoid > Igwic > Ikpeshic > Ivbie North-Okpela-Arhe"
 wikipedia_url: "https://en.wikipedia.org/wiki/Okpela_language"
+translations:
+  - translation_iso: zho
+    name: 伊夫比北-奥克佩拉-阿尔赫语
+    auto: true
 rolv_dialects:
   - rolv_code: 2225
     language_tag: atg-x-HIS02225

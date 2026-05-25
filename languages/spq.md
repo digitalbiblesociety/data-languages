@@ -1,7 +1,6 @@
 ---
 iso: spq
 name: "Loreto-Ucayali Spanish"
-name_zh: 洛雷托-烏卡亞利西班牙語
 autonym: "Loreto-Ucayali Spanish"
 alt_names: [Jungle Spanish, "Spanish, Loreto-Ucayali"]
 population: 2800
@@ -15,5 +14,8 @@ glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Italic > Latino-Faliscan > Latinic > Imperial Latin > Romance > Italo-Western Romance > Western Romance > Shifted Western Romance > Southwestern Shifted Romance > West Ibero-Romance > Castilic > South Castilic > Peruvian Amazonian Spanish"
 wikipedia_url: "https://en.wikipedia.org/wiki/Amazonic_Spanish"
+translations:
+  - translation_iso: zho
+    name: 洛雷托-烏卡亞利西班牙語
 ---
 Amazonic Spanish, also known as Charapa Spanish, Loreto-Ucayali Spanish or informally known in Peru simply as Jungle Spanish, is a variety of Spanish spoken in the Amazon, especially in the Peruvian provinces of Loreto, San Martín and Ucayali. Amazonic Spanish is also spoken in areas of Brazil adjoining Loreto and Ucayali and in the Amazonas Department of Colombia.

@@ -1,8 +1,6 @@
 ---
 iso: gds
 name: Ghandruk Sign Language
-name_zh: 甘德鲁克手语
-name_zh_auto: true
 autonym: घान्द्रुक सांकेतिक भाषा
 population: 20
 country_id: NP
@@ -15,5 +13,15 @@ glottolog_family_id: sign1238
 glottolog_family_name: Sign Language
 glottolog_classification: "Sign Language > L1 Sign Language > Ghandruk Sign Language"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ghandruk_Sign_Language"
+translations:
+  - translation_iso: ara
+    name: لغة الإشارة الغاندروكية
+  - translation_iso: hin
+    name: घंड्रुक सांकेतिक भाषा
+  - translation_iso: jpn
+    name: ガンドルック手話
+  - translation_iso: zho
+    name: 甘德鲁克手语
+    auto: true
 ---
 Ghandruk Sign Language is a village sign language of the Village Development Committee of Ghandruk in central Nepal.

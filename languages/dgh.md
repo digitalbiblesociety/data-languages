@@ -1,8 +1,6 @@
 ---
 iso: dgh
 name: Dghwede
-name_zh: 德格韦德语
-name_zh_auto: true
 autonym: Azaghvana
 alt_names: [Dehoxde, Dghwede jezik, Dgwede, Dgwedeg, Hude, Johode, Tghuade, Toghwede, Traude, Truade, "Wa'a", Zaghvana]
 population: 30000
@@ -16,6 +14,10 @@ glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > Biu-Mandara > North Biu-Mandara > Margi-Mandara-Mofu > Mandaraic > Dghwedeic > Dghwede"
 wikipedia_url: "https://en.wikipedia.org/wiki/Dghwede_language"
+translations:
+  - translation_iso: zho
+    name: 德格韦德语
+    auto: true
 rolv_dialects:
   - rolv_code: 4427
     language_tag: dgh-x-HIS04427

@@ -1,7 +1,6 @@
 ---
 iso: tmr
 name: "Jewish Babylonian Aramaic (ca. 200-1200 CE)"
-name_zh: 犹太巴比伦阿拉米语
 autonym: Jewish Babylonian Aramaic
 alt_names: [Aramaeg talmoudek Babilonia, "Aramaic, Jewish Babylonian (ca. 200-1200 CE)", Babylonian Talmudic Aramaic, Judéo-araméen babylonien, Talmudski aramejski jezik, ארמית בבלית, ภาษาอราเมอิกยิวบาบิโลเนีย]
 population: null
@@ -15,5 +14,14 @@ glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Semitic > West Semitic > Central Semitic > Northwest Semitic > Aramaic > Imperial-Middle-Modern Aramaic > Middle-Modern Aramaic > Eastern Aramaic > Central Eastern Aramaic > North-Eastern Neo-Aramaic > Jewish Babylonian Aramaic (ca. 200-1200 CE)"
 wikipedia_url: "https://en.wikipedia.org/wiki/Jewish_Babylonian_Aramaic"
+translations:
+  - translation_iso: ara
+    name: آرامية بابلية عربيه
+  - translation_iso: jpn
+    name: ユダヤ・バビロニア・アラム語
+  - translation_iso: kor
+    name: 유대인 바빌로니아 아람어
+  - translation_iso: zho
+    name: 犹太巴比伦阿拉米语
 ---
 Jewish Babylonian Aramaic was the form of Middle Aramaic employed by writers in Lower Mesopotamia between the fourth and eleventh centuries. It is most commonly identified with the language of the Babylonian Talmud, the Targum Onqelos, and of post-Talmudic (Gaonic) literature, which are the most important cultural products of Babylonian Jews. The most important epigraphic sources for the dialect are the hundreds of inscriptions on incantation bowls.

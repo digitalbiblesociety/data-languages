@@ -1,8 +1,6 @@
 ---
 iso: mgm
 name: Mambae
-name_zh: 玛姆巴埃语
-name_zh_auto: true
 autonym: Mambai
 alt_names: [Manbae]
 population: 230000
@@ -16,6 +14,10 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Central Timor > Mambae"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mambae_language"
+translations:
+  - translation_iso: zho
+    name: 玛姆巴埃语
+    auto: true
 rolv_dialects:
   - rolv_code: 13541
     language_tag: mgm-x-HIS13541

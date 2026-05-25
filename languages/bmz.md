@@ -1,8 +1,6 @@
 ---
 iso: bmz
 name: Baramu
-name_zh: 巴拉姆语
-name_zh_auto: true
 autonym: null
 population: 850
 country_id: PG
@@ -15,5 +13,9 @@ glottolog_family_id: anim1240
 glottolog_family_name: Anim
 glottolog_classification: "Anim > Tirio > Nuclear Tirio > Baramu"
 wikipedia_url: "https://en.wikipedia.org/wiki/Baramu_language"
+translations:
+  - translation_iso: zho
+    name: 巴拉姆语
+    auto: true
 ---
 Baramu is a Papuan language of Western Province, Papua New Guinea.

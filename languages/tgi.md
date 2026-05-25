@@ -1,8 +1,6 @@
 ---
 iso: tgi
 name: Lawunuia
-name_zh: 劳武努伊亚语
-name_zh_auto: true
 autonym: Piva
 alt_names: [Nagarege, Nagarige, Naghareghe]
 population: 550
@@ -16,6 +14,10 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > Meso Melanesian linkage > New Ireland-Northwest Solomonic linkage > St George linkage > Northwest Solomonic > Banoni-Piva > Lawunuia"
 wikipedia_url: "https://en.wikipedia.org/wiki/Lawunuia_language"
+translations:
+  - translation_iso: zho
+    name: 劳武努伊亚语
+    auto: true
 rolv_dialects:
   - rolv_code: 15685
     language_tag: tgi-x-HIS15685

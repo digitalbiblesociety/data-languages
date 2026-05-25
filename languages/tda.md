@@ -1,8 +1,6 @@
 ---
 iso: tda
 name: Tagdal
-name_zh: 塔格达尔语
-name_zh_auto: true
 autonym: "Tagdal-Tabarog"
 alt_names: [Niger]
 population: 60600
@@ -16,6 +14,10 @@ glottolog_family_id: song1307
 glottolog_family_name: Songhay
 glottolog_classification: "Songhay > Northwest Songhay > Northern Songhay > Tagdal"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tagdal_language"
+translations:
+  - translation_iso: zho
+    name: 塔格达尔语
+    auto: true
 rolv_dialects:
   - rolv_code: 17047
     language_tag: tda-x-HIS17047

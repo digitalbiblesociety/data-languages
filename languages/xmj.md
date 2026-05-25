@@ -1,8 +1,6 @@
 ---
 iso: xmj
 name: Majera
-name_zh: 马杰拉语
-name_zh_auto: true
 autonym: Mazera
 alt_names: ["Da'a", Daa, Mayera, "Mida'a", Midah]
 population: 500
@@ -16,5 +14,9 @@ glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > Biu-Mandara > North Biu-Mandara > Kotoko-Buduma > Kotoko Meridional > Majera"
 wikipedia_url: "https://en.wikipedia.org/wiki/Majera_language"
+translations:
+  - translation_iso: zho
+    name: 马杰拉语
+    auto: true
 ---
 Majera (Mazera) is a minor Afro-Asiatic language of Chad and Cameroon.

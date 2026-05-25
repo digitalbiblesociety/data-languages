@@ -1,8 +1,6 @@
 ---
 iso: peg
 name: Pengo
-name_zh: 彭戈语
-name_zh_auto: true
 autonym: Hengo
 alt_names: [Hengo Poraja, Jani, Muddali, Pango, Pango Paraja, Paraja, Pengu, Pengua]
 population: 350000
@@ -16,6 +14,14 @@ glottolog_family_id: drav1251
 glottolog_family_name: Dravidian
 glottolog_classification: "Dravidian > South Dravidian > South Dravidian II > Konda-Kui > Manda-Kui > Manda-Pengo > Pengo"
 wikipedia_url: "https://en.wikipedia.org/wiki/Pengo_language"
+translations:
+  - translation_iso: hin
+    name: पेंगो भाषा
+  - translation_iso: jpn
+    name: ペンゴ語
+  - translation_iso: zho
+    name: 彭戈语
+    auto: true
 rolv_dialects:
   - rolv_code: 15603
     language_tag: peg-x-HIS15603

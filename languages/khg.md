@@ -1,7 +1,6 @@
 ---
 iso: khg
 name: Khams Tibetan
-name_zh: 康方言
 autonym: "Kham-Hor"
 alt_names: [Bhōṭiā of Khams, Język kham, Kam, Kamseg, Kang, Kham, Khamba, Khampa, Khams, Khams Bhotia, Khams-Yal, "Tibetan, Khams", "Tibetan,Khams", カム・チベット語, 康方言]
 population: 1380300
@@ -15,6 +14,15 @@ glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Bodic > Bodish > Early Old Tibetan > Middle Old Tibetan > Late Old Tibetan > Kham-Hor > Khams Tibetan"
 wikipedia_url: "https://en.wikipedia.org/wiki/Khams_Tibetan"
+translations:
+  - translation_iso: hin
+    name: खम्बा भाषा
+  - translation_iso: jpn
+    name: カム・チベット語
+  - translation_iso: kor
+    name: 캄 티베트어
+  - translation_iso: zho
+    name: 康方言
 rolv_dialects:
   - rolv_code: 6066
     language_tag: khg-x-HIS06066

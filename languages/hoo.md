@@ -1,8 +1,6 @@
 ---
 iso: hoo
 name: Holoholo
-name_zh: 霍洛霍洛语
-name_zh_auto: true
 autonym: Kalanga
 alt_names: [Chikalanga, Guha, Horohoro, Ikalanga, Kiholoholo, Kikalanga, Lilima, Sekalaka]
 population: 15500
@@ -16,6 +14,12 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > East Bantu > Greater Lega > Holoholo"
 wikipedia_url: "https://en.wikipedia.org/wiki/Holoholo_language"
+translations:
+  - translation_iso: jpn
+    name: ホロホロ語
+  - translation_iso: zho
+    name: 霍洛霍洛语
+    auto: true
 rolv_dialects:
   - rolv_code: 1287
     language_tag: hoo-x-HIS01287

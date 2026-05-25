@@ -1,8 +1,6 @@
 ---
 iso: bfm
 name: Mmen
-name_zh: 姆门语
-name_zh_auto: true
 autonym: Bafmeng
 alt_names: [Bafmen, Bafoumeng, Bafumen, Mme]
 population: 1000
@@ -16,6 +14,10 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Wide Grassfields > Narrow Grassfields > Ring > Center-West Ring > Center Ring > Mmen-Bum > Mmen"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mmen_language"
+translations:
+  - translation_iso: zho
+    name: 姆门语
+    auto: true
 rolv_dialects:
   - rolv_code: 2624
     language_tag: bfm-x-HIS02624

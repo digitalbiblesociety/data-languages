@@ -1,8 +1,6 @@
 ---
 iso: nuy
 name: Nunggubuyu
-name_zh: 农格布尤语
-name_zh_auto: true
 autonym: Wubuy
 alt_names: [Lingua nunggubuyu, Nangabuya, Ningburia, Nuggaboju, Nugubuyu, Nun-guboiyu, Nungabuya, Nungabuyu, Nungbuju, Nunggabuyu, Nunggebuyu, Nungguboiju, Nungguboiyu, "Nunggubu'ju", Nunggubuju, Nunggubuju̇, Nungkubuyu, Nungubuju, Nungubuyu, Yingkwira]
 population: 280
@@ -16,5 +14,11 @@ glottolog_family_id: gunw1250
 glottolog_family_name: Gunwinyguan
 glottolog_classification: "Gunwinyguan > Eastern Gunwinyguan > Wubuy-Anindilyakwa > Wubuy"
 wikipedia_url: "https://en.wikipedia.org/wiki/Nunggubuyu_language"
+translations:
+  - translation_iso: hin
+    name: वुबुय भाषा
+  - translation_iso: zho
+    name: 农格布尤语
+    auto: true
 ---
 Nunggubuyu or Wubuy is an Australian Aboriginal language traditionally spoken by the Nunggubuyu people. It is the traditional language spoken in the community of Numbulwar in the Northern Territory, although Numbulwar is traditionally associated with the Warndarrang language.

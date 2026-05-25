@@ -1,8 +1,6 @@
 ---
 iso: uve
 name: West Uvean
-name_zh: 西乌维阿语
-name_zh_auto: true
 autonym: Fagauvea
 alt_names: [Faga-Uvea, Fagauvea (nord), Fagauvea (sud), "Uvean, West", Uveano (meridional)]
 population: 1110
@@ -16,5 +14,13 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Central Pacific linkage > Tokalau Fijian > Polynesian > Nuclear Polynesian > Vanuatu-Loyalty Outliers > West Uvean"
 wikipedia_url: "https://en.wikipedia.org/wiki/West_Uvean_language"
+translations:
+  - translation_iso: jpn
+    name: 西ウベア語
+  - translation_iso: kor
+    name: 서우베아어
+  - translation_iso: zho
+    name: 西乌维阿语
+    auto: true
 ---
 West Uvean is a Polynesian outlier language spoken on the island of Ouvéa, in the Loyalty island group of New Caledonia, and in the capital of Nouméa.

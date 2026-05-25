@@ -1,8 +1,6 @@
 ---
 iso: nop
 name: Numanggang
-name_zh: 努曼冈语
-name_zh_auto: true
 autonym: null
 alt_names: [Boana, Kai, Manggang, Ngain, Numangan, Numangang, Sugu]
 population: 2500
@@ -16,6 +14,10 @@ glottolog_family_id: nucl1709
 glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Finisterre-Huon > Finisterre-Saruwaged > Erap > Boana > Numanggang"
 wikipedia_url: "https://en.wikipedia.org/wiki/Numanggang_language"
+translations:
+  - translation_iso: zho
+    name: 努曼冈语
+    auto: true
 rolv_dialects:
   - rolv_code: 15108
     language_tag: nop-x-HIS15108

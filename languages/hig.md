@@ -1,8 +1,6 @@
 ---
 iso: hig
 name: Kamwe
-name_zh: 卡姆韦语
-name_zh_auto: true
 autonym: Higgi
 alt_names: [Higi, Hiji, Kamwe jezik, Kamweg, Vacamwe]
 population: 577000
@@ -16,6 +14,10 @@ glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > Biu-Mandara > North Biu-Mandara > Higic > Nkafa-Kirya-Bana > Nkafa-Kirya > Kamwe"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kamwe_language"
+translations:
+  - translation_iso: zho
+    name: 卡姆韦语
+    auto: true
 rolv_dialects:
   - rolv_code: 1784
     language_tag: hig-x-HIS01784

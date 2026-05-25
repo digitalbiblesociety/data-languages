@@ -1,8 +1,6 @@
 ---
 iso: gap
 name: Gal
-name_zh: 加尔语
-name_zh_auto: true
 autonym: Baimak
 alt_names: [Weim]
 population: 340
@@ -16,5 +14,9 @@ glottolog_family_id: nucl1709
 glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Madang > Croisilles > Mabuso > Hanseman > Garuhic > Gal"
 wikipedia_url: "https://en.wikipedia.org/wiki/Gal_language"
+translations:
+  - translation_iso: zho
+    name: 加尔语
+    auto: true
 ---
 Gal is a Madang language of Papua New Guinea. It is closely related to Baimak, and sometimes goes by that name.

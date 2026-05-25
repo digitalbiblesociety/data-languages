@@ -1,7 +1,6 @@
 ---
 iso: hle
 name: Hlersu
-name_zh: 山苏语
 autonym: Sansu
 alt_names: [Lesu, Shansu, "勒寺帕 [ɬɛɾ55 sɿ55 pha21]", "勒寺潑 [ɬɛɾ55 sɿ55 pho21]", 勒蘇, 山蘇, 散蘇]
 population: 15000
@@ -15,5 +14,8 @@ glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Burmo-Qiangic > Lolo-Burmese > Loloish > Ni-Li-Kazhouish > Lisoid > Lipo-Lolopo > Unclassified Lipo-Lolopo > Hlersu"
 wikipedia_url: "https://en.wikipedia.org/wiki/Hlersu_language"
+translations:
+  - translation_iso: zho
+    name: 山苏语
 ---
 Hlersu, or Sansu, is a Loloish language of Yunnan Province, China. It is spoken in Xinping, Jinping, Zhenyuan, Eshan, and Yuanjiang County.

@@ -1,7 +1,6 @@
 ---
 iso: kam
 name: Kamba (Kenya)
-name_zh: 坎巴语
 autonym: Kikamba
 alt_names: [Język kikamba, Kamba, Kamba (Bantu), Kamba (in Kenya), Kamba language, Kambaa lingvo, Kekamba, Língua kikamba]
 population: 4660000
@@ -16,6 +15,17 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > East Bantu > Northeast Savanna Bantu > Central Kenya Bantu > Kamba-Dhaisu > Kamba (Kenya)"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kamba_language"
+translations:
+  - translation_iso: ara
+    name: الكامبا
+  - translation_iso: hin
+    name: कम्बा
+  - translation_iso: jpn
+    name: カンバ語
+  - translation_iso: kor
+    name: 캄바어
+  - translation_iso: zho
+    name: 坎巴语
 rolv_dialects:
   - rolv_code: 713
     language_tag: kam-x-HIS00713

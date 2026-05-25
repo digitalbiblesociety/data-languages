@@ -1,8 +1,6 @@
 ---
 iso: ssj
 name: Sausi
-name_zh: 萨乌西语
-name_zh_auto: true
 autonym: Uya
 population: 1450
 country_id: PG
@@ -15,5 +13,9 @@ glottolog_family_id: nucl1709
 glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Madang > Rai Coast > Evapia > Nuclear Evapia > Kesawai-Wia > Sausi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Sausi_language"
+translations:
+  - translation_iso: zho
+    name: 萨乌西语
+    auto: true
 ---
 Sausi is a Rai Coast language spoken in Madang Province, Papua New Guinea.

@@ -1,7 +1,6 @@
 ---
 iso: hmz
 name: Hmong Shua
-name_zh: 汉苗语
 autonym: lus Hmoob / lug Moob / lol Hmongb
 alt_names: [Hmo, Hmong, Hmung, Hsiung, Hunan Miao, Miao, "Miao, Sinicized", Sinicized Miao]
 population: 252000
@@ -14,6 +13,9 @@ glottocode: hmon1331
 glottolog_family_id: hmon1336
 glottolog_family_name: Hmong-Mien
 glottolog_classification: "Hmong-Mien > Hmongic > Nuclear Hmongic-Ho Ne > Nuclear Hmongic > West Hmongic > Greater Chuanqiandian > Chuanqiandian > First Vernacular Hmong > Sinicized Miao"
+translations:
+  - translation_iso: zho
+    name: 汉苗语
 rolv_dialects:
   - rolv_code: 6190
     language_tag: hmz-x-HIS06190

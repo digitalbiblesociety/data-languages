@@ -1,8 +1,6 @@
 ---
 iso: nmr
 name: Nimbari
-name_zh: 尼姆巴里语
-name_zh_auto: true
 autonym: "Niam-Niam"
 alt_names: [Bari, Group 12, Niamniam, Nimbari-Kebi, Nyam-Nyam du Mayo-Kebi, Nyamnyam]
 population: null
@@ -16,5 +14,9 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Cameroun-Ubangian > Central Adamawa > Samba-Duru > Unclassified Samba-Duru > Nimbari"
 wikipedia_url: "https://en.wikipedia.org/wiki/Nimbari_language"
+translations:
+  - translation_iso: zho
+    name: 尼姆巴里语
+    auto: true
 ---
 The Nimbari language, is an extinct Leko–Nimbari group of Savanna languages. It was spoken in northern Cameroon. Ethnologue lists Badjire, Gorimbari, and Padjara-Djabi villages as Nimbari locations in Bénoué and Mayo-Louti divisions.

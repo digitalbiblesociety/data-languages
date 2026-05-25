@@ -1,8 +1,6 @@
 ---
 iso: vkn
 name: Koro Nulu
-name_zh: 科罗-努鲁语
-name_zh_auto: true
 autonym: Koro Ija
 population: 4000
 country_id: NG
@@ -15,6 +13,10 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Benue-Congo Plateau > West-Central Benue-Congo Plateau > Unclassified Western Benue-Congo Plateau > Koro Nulu"
 wikipedia_url: "https://en.wikipedia.org/wiki/Koro_Nulu_language"
+translations:
+  - translation_iso: zho
+    name: 科罗-努鲁语
+    auto: true
 rolv_dialects:
   - rolv_code: 2071
     language_tag: vkn-x-HIS02071

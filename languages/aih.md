@@ -1,7 +1,6 @@
 ---
 iso: aih
 name: "Ai-Cham"
-name_zh: 錦語
 autonym: Atsam
 alt_names: [Ai-tsam, Bahasa Ai-Cham, Jiamuhua, Jinhua, Lingua Ai-cham]
 population: 2700
@@ -15,6 +14,9 @@ glottolog_family_id: taik1256
 glottolog_family_name: Tai-Kadai
 glottolog_classification: "Tai-Kadai > Kam-Tai > Kam-Sui > Then-MMS > Maonan-Mak-Sui > Mak-Ai-Cham > Ai-Cham"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ai-Cham_language"
+translations:
+  - translation_iso: zho
+    name: 錦語
 rolv_dialects:
   - rolv_code: 6769
     language_tag: aih-x-HIS06769

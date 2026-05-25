@@ -1,8 +1,6 @@
 ---
 iso: wwb
 name: Wakabunga
-name_zh: 瓦卡布尼亚语
-name_zh_auto: true
 autonym: Waggaboonyah
 population: null
 country_id: AU
@@ -15,5 +13,9 @@ glottolog_family_id: uncl1493
 glottolog_family_name: Unclassifiable
 glottolog_classification: "Unclassifiable > Wakabunga"
 wikipedia_url: "https://en.wikipedia.org/wiki/Wakabunga_language"
+translations:
+  - translation_iso: zho
+    name: 瓦卡布尼亚语
+    auto: true
 ---
 Wakabunga (Wurgabunga) is an extinct and probably unattested Australian Aboriginal language of Queensland. The one word list labeled as 'Wakabunga' by some is considered by other sources to be of Kalkatungu. It is commonly classified with Wagaya and Warluwarra.

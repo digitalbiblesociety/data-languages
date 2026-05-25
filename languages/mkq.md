@@ -1,8 +1,6 @@
 ---
 iso: mkq
 name: Bay Miwok
-name_zh: 湾迈沃克语
-name_zh_auto: true
 autonym: Saclan
 alt_names: ["Miwok, Bay", Sakaiakumni, Saklan]
 population: null
@@ -16,5 +14,9 @@ glottolog_family_id: miwo1274
 glottolog_family_name: Miwok-Costanoan
 glottolog_classification: "Miwok-Costanoan > Miwokan > Eastern Miwokan > Bay Miwok"
 wikipedia_url: "https://en.wikipedia.org/wiki/Bay_Miwok_language"
+translations:
+  - translation_iso: zho
+    name: 湾迈沃克语
+    auto: true
 ---
 Bay Miwok was one of the Miwok languages spoken in California, around San Francisco Bay. All of the population has shifted to English.

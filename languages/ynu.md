@@ -1,8 +1,6 @@
 ---
 iso: ynu
 name: Yahuna
-name_zh: 亚胡纳语
-name_zh_auto: true
 autonym: Yaúna
 alt_names: [Jaúna, Yauna, Yayuna]
 population: 95
@@ -16,6 +14,10 @@ glottolog_family_id: tuca1253
 glottolog_family_name: Tucanoan
 glottolog_classification: "Tucanoan > Eastern Tucanoan > South Eastern Tucanoan > Yahuna"
 wikipedia_url: "https://en.wikipedia.org/wiki/Yahuna_language"
+translations:
+  - translation_iso: zho
+    name: 亚胡纳语
+    auto: true
 rolv_dialects:
   - rolv_code: 18404
     language_tag: ynu-x-HIS18404

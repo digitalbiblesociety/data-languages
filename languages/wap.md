@@ -1,8 +1,6 @@
 ---
 iso: wap
 name: Wapishana
-name_zh: 瓦皮沙纳语
-name_zh_auto: true
 autonym: Wapichan
 alt_names: [Aruma, Mawayana (Brésil), Mawayana (Guyana), Mawayana (Guyane), Uapixana, Upichana, Vapidiana, Wapichana, Wapisana, Wapishana (Brésil), Wapishana (Guyana), Wapishana (Guyane), Wapishiana, Wapishshiana, Wapisiana, Wapitxana, Wapitxano, Wapixana, Wapixiana, Wapixiána]
 population: 12500
@@ -16,6 +14,12 @@ glottolog_family_id: araw1281
 glottolog_family_name: Arawakan
 glottolog_classification: "Arawakan > Negro-Roraima > Pidjanan > Wapishanan > Wapishana-Atorai > Wapishana"
 wikipedia_url: "https://en.wikipedia.org/wiki/Wapishana_language"
+translations:
+  - translation_iso: jpn
+    name: ワピシャナ語
+  - translation_iso: zho
+    name: 瓦皮沙纳语
+    auto: true
 rolv_dialects:
   - rolv_code: 20710
     language_tag: wap-x-HIS20710

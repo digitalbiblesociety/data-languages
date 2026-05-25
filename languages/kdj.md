@@ -1,8 +1,6 @@
 ---
 iso: kdj
 name: Karamojong
-name_zh: 卡拉莫琼语
-name_zh_auto: true
 autonym: Karimojong
 alt_names: [Karimonjong]
 population: 691000
@@ -16,6 +14,12 @@ glottolog_family_id: nilo1247
 glottolog_family_name: Nilotic
 glottolog_classification: "Nilotic > Eastern Nilotic > Teso-Lotuxo-Maa > Teso-Turkana > Turkanic > Karamojong"
 wikipedia_url: "https://en.wikipedia.org/wiki/Karamojong_language"
+translations:
+  - translation_iso: jpn
+    name: カリモジョン語
+  - translation_iso: zho
+    name: 卡拉莫琼语
+    auto: true
 rolv_dialects:
   - rolv_code: 11590
     language_tag: kdj-x-HIS11590

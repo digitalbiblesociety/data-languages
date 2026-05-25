@@ -1,8 +1,6 @@
 ---
 iso: cbs
 name: Cashinahua
-name_zh: 卡希纳瓦语
-name_zh_auto: true
 autonym: Kashinawa of the Ibuaçu River
 alt_names: [Cashinahua (Brésil), Cashinahua (Perú), Cashinahua (Pérou), Cashinahuá, Caxinawa, Caxinawá, Hãtxa Kuĩ (Huni Kuin), Kashinawa, Kashinawa Kaxinawá, Kaxinaua, Kaxinauá, Kaxinawa, Kaxinawá, Kaxynawa, Língua Caxinauá, Tuxinawa]
 population: 7420
@@ -16,5 +14,11 @@ glottolog_family_id: pano1259
 glottolog_family_name: Pano-Tacanan
 glottolog_classification: "Pano-Tacanan > Panoan > Mainline Pano > Pano Nawa > Headwaters Pano > Cashinahua"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kashinawa_language"
+translations:
+  - translation_iso: jpn
+    name: カシナワ語
+  - translation_iso: zho
+    name: 卡希纳瓦语
+    auto: true
 ---
 Kashinawa, or Hantxa Kuin, is an Indigenous American language of western South America which belongs to the Panoan language family. It is spoken by about 1,600 Kaxinawá in Peru, along the Curanja and the Purus Rivers, and in Brazil by 400 Kaxinawá in the state of Acre.

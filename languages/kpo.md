@@ -1,8 +1,6 @@
 ---
 iso: kpo
 name: Ikposo
-name_zh: 伊克波索语
-name_zh_auto: true
 autonym: Ikpɔsɔ
 alt_names: [Akposo, Akposos, Akposso, Ikposso, Kposo, Kposso]
 population: 225500
@@ -16,6 +14,10 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Kwa Volta-Congo > Ka-Togo > Kposo-Ahlo-Bowili > Ikposo"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kposo_language"
+translations:
+  - translation_iso: zho
+    name: 伊克波索语
+    auto: true
 rolv_dialects:
   - rolv_code: 6843
     language_tag: kpo-x-HIS06843

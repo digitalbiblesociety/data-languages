@@ -1,8 +1,6 @@
 ---
 iso: jwi
 name: "Jwira-Pepesa"
-name_zh: 吉维拉-佩佩萨语
-name_zh_auto: true
 autonym: "Pepesa-Jwira"
 population: 18000
 country_id: GH
@@ -15,6 +13,10 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Kwa Volta-Congo > Nyo > Potou-Tano > Tano > Central Tano > Bia > Southern Bia > Jwira-Nzima > Jwira-Pepesa"
 wikipedia_url: "https://en.wikipedia.org/wiki/Jwira%E2%80%93Pepesa_language"
+translations:
+  - translation_iso: zho
+    name: 吉维拉-佩佩萨语
+    auto: true
 rolv_dialects:
   - rolv_code: 4525
     language_tag: jwi-x-HIS04525

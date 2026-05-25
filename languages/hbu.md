@@ -1,8 +1,6 @@
 ---
 iso: hbu
 name: Habu
-name_zh: 哈布语
-name_zh_auto: true
 autonym: null
 alt_names: [Kairui]
 population: 1260
@@ -16,5 +14,11 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Timor-Babar > Eastern Timor > Central Timoric A > Habu"
 wikipedia_url: "https://en.wikipedia.org/wiki/Habun_language"
+translations:
+  - translation_iso: jpn
+    name: ハブン語
+  - translation_iso: zho
+    name: 哈布语
+    auto: true
 ---
 Habu (Habun) is a language spoken in central East Timor.

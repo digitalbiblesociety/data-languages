@@ -1,7 +1,6 @@
 ---
 iso: prt
 name: Phai
-name_zh: 派语
 autonym: Phai
 alt_names: [East Pua Pray, Kha, Kha Phay, "Lua'", Phay, Prai, Pray, Pray 1, Pray 2, Thung Chan Pray]
 population: 20000
@@ -15,6 +14,9 @@ glottolog_family_id: aust1305
 glottolog_family_name: Austroasiatic
 glottolog_classification: "Austroasiatic > Khmuic > Phay-Pram > Tinic > Tin > Prai"
 wikipedia_url: "https://en.wikipedia.org/wiki/Prai_language"
+translations:
+  - translation_iso: zho
+    name: 派语
 rolv_dialects:
   - rolv_code: 2289
     language_tag: prt-x-HIS02289

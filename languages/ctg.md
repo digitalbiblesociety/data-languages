@@ -1,7 +1,6 @@
 ---
 iso: ctg
 name: Chittagonian
-name_zh: 吉大港语
 autonym: চিটাইঙ্গা
 alt_names: [Chatgaiyan Buli, Chatgaya, Chittagonian Bengali, Chittagonien, சிட்டகோனிய மொழி, ภาษาจิตตะกอง]
 population: 13000000
@@ -15,6 +14,17 @@ glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Indo-Aryan > Middle-Modern Indo-Aryan > Continental Indo-Aryan > Indo-Aryan Eastern zone > Oriya-Gauda-Kamrupa > Gauda-Kamrupa > Gauda-Banga > Southeastern Bengali > Chittagonian"
 wikipedia_url: "https://en.wikipedia.org/wiki/Chittagonian_language"
+translations:
+  - translation_iso: ara
+    name: لهجة جاتجامية
+  - translation_iso: hin
+    name: चटगाँवी बोली
+  - translation_iso: jpn
+    name: チッタゴン語
+  - translation_iso: kor
+    name: 치타공어
+  - translation_iso: zho
+    name: 吉大港语
 rolv_dialects:
   - rolv_code: 3259
     language_tag: ctg-x-HIS03259

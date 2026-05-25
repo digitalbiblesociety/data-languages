@@ -1,8 +1,6 @@
 ---
 iso: ngt
 name: Kriang
-name_zh: 克里昂语
-name_zh_auto: true
 autonym: Ta Oi
 alt_names: [Dutch Sign Language, Língua de Sinais Holandesa, Nederlanda signolingvo, Nederlandse Gebarentaal, Ngae, "Nge'", Ngeh, Ngeq, Nkriang]
 population: 12200
@@ -15,6 +13,10 @@ glottocode: ngeq1245
 glottolog_family_id: aust1305
 glottolog_family_name: Austroasiatic
 glottolog_classification: "Austroasiatic > Katuic > Ta'oihic > Kriang-Khlor"
+translations:
+  - translation_iso: zho
+    name: 克里昂语
+    auto: true
 rolv_dialects:
   - rolv_code: 1026
     language_tag: ngt-x-HIS01026

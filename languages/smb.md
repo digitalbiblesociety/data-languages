@@ -1,7 +1,6 @@
 ---
 iso: smb
 name: Simbari
-name_zh: 辛巴里语
 autonym: Chimbari
 population: 3040
 country_id: PG
@@ -14,5 +13,10 @@ glottolog_family_id: anga1289
 glottolog_family_name: Angan
 glottolog_classification: "Angan > Nuclear Angan > Baruya-Simbari > Simbari"
 wikipedia_url: "https://en.wikipedia.org/wiki/Simbari_language"
+translations:
+  - translation_iso: jpn
+    name: シンバリ語
+  - translation_iso: zho
+    name: 辛巴里语
 ---
 Simbari or Chimbari is an Angan language of Papua New Guinea.

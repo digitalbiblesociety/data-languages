@@ -1,8 +1,6 @@
 ---
 iso: upv
 name: "Uripiv-Wala-Rano-Atchin"
-name_zh: 乌里皮夫-瓦拉-拉诺-阿其金语
-name_zh_auto: true
 autonym: "Uripiv-Wala-Rano-Atchin"
 alt_names: [Atchin, Idioma uripiv, Malekula, Mallicolo, Uripiv language]
 population: 9000
@@ -16,6 +14,12 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > North and Central Vanuatu > Central Vanuatu > Malakula > Eastern Malakula linkage > Uripiv-Wala-Rano-Atchin"
 wikipedia_url: "https://en.wikipedia.org/wiki/Northeast_Malakula_language"
+translations:
+  - translation_iso: jpn
+    name: ウリピブ語
+  - translation_iso: zho
+    name: 乌里皮夫-瓦拉-拉诺-阿其金语
+    auto: true
 rolv_dialects:
   - rolv_code: 4573
     language_tag: upv-x-HIS04573

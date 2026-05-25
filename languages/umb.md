@@ -1,7 +1,6 @@
 ---
 iso: umb
 name: Umbundu
-name_zh: 南姆本杜語
 autonym: South Mbundu
 alt_names: [Idioma umbundu, Język umbundu, Língua umbundo, "M'bundo", Mbali, Mbari, Mbundu, Mbundu Benguella, Mundu (South), Nano, Oumboundou, Ovimbundu, Quimbundo, Umbundo, Южный мбунду, ムブンドゥ語]
 population: 6980000
@@ -16,6 +15,17 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > Central-Western Bantu > Njila > Southern Njila > Kunene > Umbundu"
 wikipedia_url: "https://en.wikipedia.org/wiki/Umbundu"
+translations:
+  - translation_iso: ara
+    name: الأمبندو
+  - translation_iso: hin
+    name: उम्बुन्डु
+  - translation_iso: jpn
+    name: ムブンドゥ語
+  - translation_iso: kor
+    name: 움분두어
+  - translation_iso: zho
+    name: 南姆本杜語
 rolv_dialects:
   - rolv_code: 25551
     language_tag: umb-x-HIS25551

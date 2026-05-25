@@ -1,8 +1,6 @@
 ---
 iso: mjl
 name: Mandeali
-name_zh: 曼德阿利语
-name_zh_auto: true
 autonym: मंडयाली
 alt_names: [Himachali, Mandi, Mandiali, Pahari Mandiyali]
 population: 623000
@@ -16,6 +14,14 @@ glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Indo-Aryan > Middle-Modern Indo-Aryan > Eastern Dardic > Himachali > Mandeali"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mandeali"
+translations:
+  - translation_iso: hin
+    name: मंडयाली
+  - translation_iso: jpn
+    name: マンデアーリー語
+  - translation_iso: zho
+    name: 曼德阿利语
+    auto: true
 rolv_dialects:
   - rolv_code: 4761
     language_tag: mjl-x-HIS04761

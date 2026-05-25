@@ -1,8 +1,6 @@
 ---
 iso: xed
 name: Hdi
-name_zh: 赫迪语
-name_zh_auto: true
 autonym: Xədi
 alt_names: [Ftour, Hde, Hedi, Hide, Tourou, Tur, Turu, Turu-Hide, Xadi, Xdi, Xedi]
 population: 29000
@@ -16,6 +14,12 @@ glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > Biu-Mandara > North Biu-Mandara > Lamang-Hdi > Hdi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Hdi_language"
+translations:
+  - translation_iso: jpn
+    name: フディ語
+  - translation_iso: zho
+    name: 赫迪语
+    auto: true
 rolv_dialects:
   - rolv_code: 2813
     language_tag: xed-x-HIS02813

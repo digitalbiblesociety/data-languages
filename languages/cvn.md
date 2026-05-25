@@ -1,8 +1,6 @@
 ---
 iso: cvn
 name: Valle Nacional Chinantec
-name_zh: 瓦莱国家奇南特克语
-name_zh_auto: true
 autonym: Tlatepuzco Chinantec
 alt_names: [Chinantec, "Chinantec, Valle Nacional", Chinanteco, Chinanteco central bajo, Chinanteco de Valle Nacional, Chinanteko, Chinantèque de Valle Nacional, Lower Central Chinantec, j+g dsa k+, j+g ki tsomän, jumi dsa iin+n]
 population: 1500
@@ -15,6 +13,10 @@ glottocode: vall1253
 glottolog_family_id: otom1299
 glottolog_family_name: Otomanguean
 glottolog_classification: "Otomanguean > Western Otomanguean > Otopame-Chinantecan > Chinantecan > Central-Eastern Chinantec > Southeastern Chinantec > Chinantec Group III > Valle Nacional Chinantec"
+translations:
+  - translation_iso: zho
+    name: 瓦莱国家奇南特克语
+    auto: true
 rolv_dialects:
   - rolv_code: 27315
     language_tag: cvn-x-HIS27315

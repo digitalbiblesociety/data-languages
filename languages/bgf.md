@@ -1,8 +1,6 @@
 ---
 iso: bgf
 name: Bangandu
-name_zh: 邦甘杜语
-name_zh_auto: true
 autonym: Ngombe
 alt_names: [Bagando, Bangando, Bangantu, Southern Bangantu, Temne]
 population: 2700
@@ -16,6 +14,12 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Gbaya-Manza-Ngbaka > Gbaya Meridional-Occidental > Gbaya Meridional > Ngombe-Bangandu"
 wikipedia_url: "https://en.wikipedia.org/wiki/Bangandu_language"
+translations:
+  - translation_iso: jpn
+    name: ンゴンベ語
+  - translation_iso: zho
+    name: 邦甘杜语
+    auto: true
 rolv_dialects:
   - rolv_code: 7722
     language_tag: bgf-x-HIS07722

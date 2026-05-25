@@ -1,8 +1,6 @@
 ---
 iso: kyi
 name: Kiput
-name_zh: 基普特语
-name_zh_auto: true
 autonym: null
 alt_names: [Malaysia]
 population: 2460
@@ -16,6 +14,10 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > North Borneo Malayo-Polynesian > North Sarawakan > Berawan-Lower Baram > Lower Baram > Central Lower Baram A > Kiput"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kiput_language"
+translations:
+  - translation_iso: zho
+    name: 基普特语
+    auto: true
 rolv_dialects:
   - rolv_code: 12036
     language_tag: kyi-x-HIS12036

@@ -1,8 +1,6 @@
 ---
 iso: atn
 name: Ashtiani
-name_zh: 阿什蒂亚尼语
-name_zh_auto: true
 autonym: Ashtiyani
 alt_names: [Astiani, Astianí]
 population: 21100
@@ -16,6 +14,14 @@ glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Iranian-Nuristani > Iranian > Central Iranian PBS > Central Iranian PB > Northwestern Iranian > Adharic > Tatic > Southern Tatic > Vafsic > Ashtiani"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ashtiani_language"
+translations:
+  - translation_iso: ara
+    name: لغة أشتياني
+  - translation_iso: jpn
+    name: アシュティヤーン語
+  - translation_iso: zho
+    name: 阿什蒂亚尼语
+    auto: true
 rolv_dialects:
   - rolv_code: 24290
     language_tag: atn-x-HIS24290

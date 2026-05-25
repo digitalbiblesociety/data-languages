@@ -1,7 +1,6 @@
 ---
 iso: prc
 name: Parachi
-name_zh: 帕拉奇語
 autonym: null
 alt_names: [Parachí]
 population: 5000
@@ -15,6 +14,9 @@ glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Iranian-Nuristani > Iranian > Ormuri-Parachi > Parachi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Parachi_language"
+translations:
+  - translation_iso: zho
+    name: 帕拉奇語
 rolv_dialects:
   - rolv_code: 3353
     language_tag: prc-x-HIS03353

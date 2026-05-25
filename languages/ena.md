@@ -1,8 +1,6 @@
 ---
 iso: ena
 name: Apali
-name_zh: 阿帕利语
-name_zh_auto: true
 autonym: Emerum
 alt_names: [Apal]
 population: 980
@@ -16,6 +14,10 @@ glottolog_family_id: nucl1709
 glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Madang > Kalamic-South Adelbert > South Adelbert > Sogeram > Apalic > Apali"
 wikipedia_url: "https://en.wikipedia.org/wiki/Apali_language"
+translations:
+  - translation_iso: zho
+    name: 阿帕利语
+    auto: true
 rolv_dialects:
   - rolv_code: 4038
     language_tag: ena-x-HIS04038

@@ -1,8 +1,6 @@
 ---
 iso: xyb
 name: Yandjibara
-name_zh: 扬季巴拉语
-name_zh_auto: true
 autonym: Southern Maric
 population: null
 country_id: AU
@@ -14,4 +12,8 @@ glottocode: yand1261
 glottolog_family_id: pama1250
 glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > Greater Maric > Guwa-Maric > Maric > Southern Maric > Bidyaric > Yandjibara"
+translations:
+  - translation_iso: zho
+    name: 扬季巴拉语
+    auto: true
 ---

@@ -1,7 +1,6 @@
 ---
 iso: nbl
 name: South Ndebele
-name_zh: 南恩德贝莱语
 autonym: Transvaal Ndebele
 alt_names: ["Ndebele, South"]
 population: 1090000
@@ -12,6 +11,17 @@ latitude: -25.62721
 longitude: 29.04805
 scripts: [Latn]
 wikipedia_url: "https://en.wikipedia.org/wiki/Southern_Ndebele_language"
+translations:
+  - translation_iso: ara
+    name: لغة نديبلي جنوبية
+  - translation_iso: hin
+    name: दक्षिण देबेल
+  - translation_iso: jpn
+    name: 南ンデベレ語
+  - translation_iso: kor
+    name: 남은데벨레어
+  - translation_iso: zho
+    name: 南恩德贝莱语
 rolv_dialects:
   - rolv_code: 25647
     language_tag: nr-x-HIS25647

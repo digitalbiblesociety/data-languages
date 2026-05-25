@@ -1,8 +1,6 @@
 ---
 iso: etc
 name: Etchemin
-name_zh: 埃奇明语
-name_zh_auto: true
 autonym: null
 population: null
 country_id: US
@@ -13,5 +11,9 @@ glottolog_family_id: uncl1493
 glottolog_family_name: Unclassifiable
 glottolog_classification: "Unclassifiable > Etchemin"
 wikipedia_url: "https://en.wikipedia.org/wiki/Etchemin_language"
+translations:
+  - translation_iso: zho
+    name: 埃奇明语
+    auto: true
 ---
 Etchemin was a language of the Algonquian language family, spoken in early colonial times on the coast of Maine. The word Etchemin is thought to be either French alteration of an Algonquian word for 'canoe' or a translation of Skidijn, the native word for people in use by the inhabitants of the St. John and St. Croix Rivers.

@@ -1,7 +1,6 @@
 ---
 iso: rad
 name: Rade
-name_zh: 埃地语
 autonym: klei Êđê
 alt_names: [De, E-De, Edeh, Raday, Radé, Rde, Rhade]
 population: 331000
@@ -15,6 +14,13 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Malayo-Chamic > Aceh-Chamic > Chamic > Rade-Jarai > Rade"
 wikipedia_url: "https://en.wikipedia.org/wiki/Rade_language"
+translations:
+  - translation_iso: jpn
+    name: ラデー語
+  - translation_iso: kor
+    name: 라데어
+  - translation_iso: zho
+    name: 埃地语
 rolv_dialects:
   - rolv_code: 15908
     language_tag: rad-x-HIS15908

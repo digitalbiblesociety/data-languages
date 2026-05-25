@@ -1,7 +1,6 @@
 ---
 iso: wti
 name: Berta
-name_zh: 伯塔語
 autonym: Gebeto
 alt_names: [Barta, Beni Shangul, Berta jezik, Bertha, Burta, Idioma berta, Jebelawi, Język berta, Wetawit, Yezhoù bertek, Берта]
 population: 377000
@@ -12,6 +11,11 @@ latitude: 10.647405
 longitude: 34.70415
 glottocode: bert1248
 wikipedia_url: "https://en.wikipedia.org/wiki/Berta_language"
+translations:
+  - translation_iso: kor
+    name: 베르타어
+  - translation_iso: zho
+    name: 伯塔語
 rolv_dialects:
   - rolv_code: 950
     language_tag: wti-x-HIS00950

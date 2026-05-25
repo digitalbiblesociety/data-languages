@@ -1,8 +1,6 @@
 ---
 iso: mju
 name: "Manna-Dora"
-name_zh: 曼纳-多拉语
-name_zh_auto: true
 autonym: null
 population: 30000
 country_id: IN
@@ -11,5 +9,9 @@ status_id: "7"
 latitude: 18.2775
 longitude: 83.1908
 wikipedia_url: "https://en.wikipedia.org/wiki/Manna-Dora_language"
+translations:
+  - translation_iso: zho
+    name: 曼纳-多拉语
+    auto: true
 ---
 Manna-Dora is either a nearly extinct Dravidian language closely related to Telugu, or a dialect of Telugu. It is spoken by the eponymous Scheduled Tribe in the state of Andhra Pradesh, India.

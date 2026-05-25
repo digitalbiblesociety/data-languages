@@ -1,8 +1,6 @@
 ---
 iso: pio
 name: Piapoco
-name_zh: 皮亚波科语
-name_zh_auto: true
 autonym: Cháse
 alt_names: [Dzaze, Piapoko, Tsae]
 population: 6680
@@ -16,5 +14,11 @@ glottolog_family_id: araw1281
 glottolog_family_name: Arawakan
 glottolog_classification: "Arawakan > Japura-Colombia > Nuclear Japura-Colombia > Northeast Japura-Colombia > Piapoco-Achagua > Piapoco"
 wikipedia_url: "https://en.wikipedia.org/wiki/Piapoco_language"
+translations:
+  - translation_iso: jpn
+    name: ピアポコ語
+  - translation_iso: zho
+    name: 皮亚波科语
+    auto: true
 ---
 Piapoco is an Arawakan language of Colombia and Venezuela.

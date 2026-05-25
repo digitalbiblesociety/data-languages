@@ -1,8 +1,6 @@
 ---
 iso: sgu
 name: Salas
-name_zh: 萨拉斯语
-name_zh_auto: true
 autonym: Lenkaitahe
 alt_names: [Liambata, Salas Gunung]
 population: 50
@@ -16,5 +14,9 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Greater Seram Laut > East Seram > Setic > Salas"
 wikipedia_url: "https://en.wikipedia.org/wiki/Salas_language"
+translations:
+  - translation_iso: zho
+    name: 萨拉斯语
+    auto: true
 ---
 Salas is a nearly extinct language of Seram, Indonesia.

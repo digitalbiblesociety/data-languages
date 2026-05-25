@@ -1,7 +1,6 @@
 ---
 iso: zyn
 name: Yongnan Zhuang
-name_zh: 邕南壯語
 autonym: Vahcuengh (za)
 alt_names: [Bou Rau, Long An, Long’an, Nung An, Southern Zhuang, Yongnan, Yongnan Vernacular of the Southern Dialect of the Zhuang Language, "Yung-ch'un", Yung-shun, Yungnan, Zhuang, "Zhuang, Yongnan", Zhuangyu nanbu fangyan Yongnan tuyu]
 population: 1810000
@@ -15,6 +14,11 @@ glottolog_family_id: taik1256
 glottolog_family_name: Tai-Kadai
 glottolog_classification: "Tai-Kadai > Kam-Tai > Daic-Beic > Daic > Northern Daic-Sek > Northern Daic > Yongnan-Yongbei > Yongnan Zhuang"
 wikipedia_url: "https://en.wikipedia.org/wiki/Yongnan_languages"
+translations:
+  - translation_iso: jpn
+    name: 邕南チワン語
+  - translation_iso: zho
+    name: 邕南壯語
 rolv_dialects:
   - rolv_code: 4979
     language_tag: zyn-x-HIS04979

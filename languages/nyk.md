@@ -1,8 +1,6 @@
 ---
 iso: nyk
 name: Nyaneka
-name_zh: 尼亚内卡语
-name_zh_auto: true
 autonym: Lunyaneka
 alt_names: [Nhaneca, Nhaneka]
 population: 1000000
@@ -16,6 +14,12 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > Central-Western Bantu > Njila > Southern Njila > Kunene > Cimbebasia > Nyaneka-Nkhumbi > Nyaneka"
 wikipedia_url: "https://en.wikipedia.org/wiki/Nyaneka_language"
+translations:
+  - translation_iso: jpn
+    name: ニャネカ語
+  - translation_iso: zho
+    name: 尼亚内卡语
+    auto: true
 rolv_dialects:
   - rolv_code: 354
     language_tag: nyk-x-HIS00354

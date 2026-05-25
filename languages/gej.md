@@ -1,7 +1,6 @@
 ---
 iso: gej
 name: Gen
-name_zh: 格恩語
 autonym: Mina
 alt_names: [Ge, Gebe, Gen-Gbe, Gena lingvo, Geneg, Guin, Lingua gen, Língua gen, Mina-Gen, Popo]
 population: 590000
@@ -15,6 +14,11 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Kwa Volta-Congo > Gbe > Western Gbe > Gen"
 wikipedia_url: "https://en.wikipedia.org/wiki/Gen_language"
+translations:
+  - translation_iso: jpn
+    name: ゲン語
+  - translation_iso: zho
+    name: 格恩語
 rolv_dialects:
   - rolv_code: 24973
     language_tag: gej-x-HIS24973

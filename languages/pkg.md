@@ -1,8 +1,6 @@
 ---
 iso: pkg
 name: "Pak-Tong"
-name_zh: 帕克-通语
-name_zh_auto: true
 autonym: "Tong-Pak"
 alt_names: [Admiralitäts-inseln]
 population: 970
@@ -16,6 +14,10 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Admiralty Islands > Eastern Admiralty Islands > Manus > Pak-Tong"
 wikipedia_url: "https://en.wikipedia.org/wiki/Pak-Tong_language"
+translations:
+  - translation_iso: zho
+    name: 帕克-通语
+    auto: true
 rolv_dialects:
   - rolv_code: 15416
     language_tag: pkg-x-HIS15416

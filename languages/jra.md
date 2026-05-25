@@ -1,7 +1,6 @@
 ---
 iso: jra
 name: Jarai
-name_zh: 嘉萊語
 autonym: Chor
 alt_names: [Cho-Rai, Chrai, Djarai, Gia-Rai, Gio-Rai, Jaraï, Jorai, Mthur, Tiếng Gia Rai, ภาษาจาราย]
 population: 262800
@@ -15,6 +14,11 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Malayo-Chamic > Aceh-Chamic > Chamic > Rade-Jarai > Jarai"
 wikipedia_url: "https://en.wikipedia.org/wiki/Jarai_language"
+translations:
+  - translation_iso: jpn
+    name: ジャライ語
+  - translation_iso: zho
+    name: 嘉萊語
 rolv_dialects:
   - rolv_code: 11100
     language_tag: jra-x-HIS11100

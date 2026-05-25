@@ -1,8 +1,6 @@
 ---
 iso: sps
 name: Saposa
-name_zh: 萨波萨语
-name_zh_auto: true
 autonym: Taiof
 population: 2000
 country_id: PG
@@ -15,6 +13,10 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > Meso Melanesian linkage > New Ireland-Northwest Solomonic linkage > St George linkage > Northwest Solomonic > North Bougainville Oceanic > Nuclear North Bougainville Oceanic > Buka > Saposa-Tinputz > Saposa"
 wikipedia_url: "https://en.wikipedia.org/wiki/Saposa_language"
+translations:
+  - translation_iso: zho
+    name: 萨波萨语
+    auto: true
 rolv_dialects:
   - rolv_code: 16332
     language_tag: sps-x-HIS16332

@@ -1,7 +1,6 @@
 ---
 iso: akv
 name: Akhvakh
-name_zh: 阿克瓦克語
 autonym: Ашвaлъи мицIи
 alt_names: ["Ac'hvac'heg", Ahvahin kieli, Ajvaj, Akhwakh, Axvax, Język achwaski, Lingua akhvakh, Língua akhvakh, Ахвахски јазик, Ахвахский язык, Ахвахська мова, авахский язык]
 population: 6500
@@ -15,6 +14,13 @@ glottolog_family_id: nakh1245
 glottolog_family_name: Nakh-Daghestanian
 glottolog_classification: "Nakh-Daghestanian > Daghestanian > Avar-Andic-Tsezic > Andic > Akhvakhic > Northern Akhvakh"
 wikipedia_url: "https://en.wikipedia.org/wiki/Akhvakh_language"
+translations:
+  - translation_iso: jpn
+    name: アフバフ語
+  - translation_iso: kor
+    name: 아흐바흐어
+  - translation_iso: zho
+    name: 阿克瓦克語
 rolv_dialects:
   - rolv_code: 6822
     language_tag: akv-x-HIS06822

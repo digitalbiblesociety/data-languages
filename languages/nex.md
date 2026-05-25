@@ -1,8 +1,6 @@
 ---
 iso: nex
 name: Neme
-name_zh: 内梅语
-name_zh_auto: true
 autonym: null
 population: 300
 country_id: PG
@@ -15,5 +13,9 @@ glottolog_family_id: more1255
 glottolog_family_name: Yam
 glottolog_classification: "Yam > Morehead-Maro > Nambu > Neme"
 wikipedia_url: "https://en.wikipedia.org/wiki/Neme_language"
+translations:
+  - translation_iso: zho
+    name: 内梅语
+    auto: true
 ---
 Neme is a Yam language spoken in Western Province, Papua New Guinea.

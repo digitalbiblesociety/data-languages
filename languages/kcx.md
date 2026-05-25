@@ -1,8 +1,6 @@
 ---
 iso: kcx
 name: "Kachama-Ganjule"
-name_zh: 卡恰马-甘朱勒语
-name_zh_auto: true
 autonym: null
 alt_names: [Gatame, "Gats'ame", "Gats'amé", Gatsama - ganjule - harro, Gatsame, "Get'eme", Gidicho, Harro, Haruro, Kachama, Qechem]
 population: 1002
@@ -16,6 +14,10 @@ glottolog_family_id: gong1255
 glottolog_family_name: Ta-Ne-Omotic
 glottolog_classification: "Ta-Ne-Omotic > Ometo > East Ometo > Kachama-Ganjule-Haro"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kachama-Ganjule_language"
+translations:
+  - translation_iso: zho
+    name: 卡恰马-甘朱勒语
+    auto: true
 rolv_dialects:
   - rolv_code: 11265
     language_tag: kcx-x-HIS11265

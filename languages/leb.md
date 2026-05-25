@@ -1,7 +1,6 @@
 ---
 iso: leb
 name: "Lala-Bisa"
-name_zh: Bisa人
 autonym: "Biza-Lala"
 population: 353000
 country_id: ZM
@@ -14,6 +13,9 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > East Bantu > Sabi > Malungu-Central Sabi > Central Sabi > Bisa-Lamba (M.50) > Lala-Bisa"
 wikipedia_url: "https://en.wikipedia.org/wiki/Lala-Bisa_language"
+translations:
+  - translation_iso: zho
+    name: Bisa人
 rolv_dialects:
   - rolv_code: 12706
     language_tag: leb-x-HIS12706

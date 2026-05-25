@@ -1,8 +1,6 @@
 ---
 iso: zaz
 name: Zari
-name_zh: 扎里语
-name_zh_auto: true
 autonym: Zariwa
 alt_names: [Kopti, Kwapm, Zakshi]
 population: 1000
@@ -16,6 +14,10 @@ glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > West Chadic > West Chadic B > West Chadic B.3 > South Bauchi West > Southwest South Bauchi > Zakse-Saya > Zari"
 wikipedia_url: "https://en.wikipedia.org/wiki/Zari_language"
+translations:
+  - translation_iso: zho
+    name: 扎里语
+    auto: true
 rolv_dialects:
   - rolv_code: 1970
     language_tag: zaz-x-HIS01970

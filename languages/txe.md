@@ -1,8 +1,6 @@
 ---
 iso: txe
 name: Totoli
-name_zh: 托托利语
-name_zh_auto: true
 autonym: Gage
 alt_names: [Tolitoli, Tontoli]
 population: 25000
@@ -16,5 +14,9 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Tolitoli > Totoli"
 wikipedia_url: "https://en.wikipedia.org/wiki/Totoli_language"
+translations:
+  - translation_iso: zho
+    name: 托托利语
+    auto: true
 ---
 Totoli is a Sulawesi language of the Austronesian language family spoken by about 25,000 of the Totoli people of Central Sulawesi, Indonesia.

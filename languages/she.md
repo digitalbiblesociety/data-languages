@@ -1,8 +1,6 @@
 ---
 iso: she
 name: Sheko
-name_zh: 谢科语
-name_zh_auto: true
 autonym: Shak
 alt_names: [Shakko, Shako, Shekka, Shekko, Tschako]
 population: 43820
@@ -16,5 +14,9 @@ glottolog_family_id: dizo1235
 glottolog_family_name: Dizoid
 glottolog_classification: "Dizoid > Sheko"
 wikipedia_url: "https://en.wikipedia.org/wiki/Sheko_language"
+translations:
+  - translation_iso: zho
+    name: 谢科语
+    auto: true
 ---
 Sheko is an Omotic language of the Afro-Asiatic language family spoken in the area between Tepi and Mizan Teferi in western Ethiopia, in the Sheko district in the Bench Maji Zone. The 2007 census lists 38,911 speakers; the 1998 census listed 23,785 speakers, with 13,611 identified as monolinguals.

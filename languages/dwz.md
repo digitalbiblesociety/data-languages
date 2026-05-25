@@ -1,8 +1,6 @@
 ---
 iso: dwz
 name: Dewas Rai
-name_zh: 德瓦斯赖语
-name_zh_auto: true
 autonym: null
 alt_names: [Danuwar, Danuwar Rai, Danvar, Denwar, Dhanvar, Dhanwar, Dhanwar (Nepal), "Rai, Dewas"]
 population: null
@@ -15,4 +13,8 @@ glottocode: dhan1265
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Indo-Aryan > Middle-Modern Indo-Aryan > Continental Indo-Aryan > Midlands Indo-Aryan > Shaurasenic > Bihari > Unclassified Bihari > Kuswaric > Dewas-Done Danuwar"
+translations:
+  - translation_iso: zho
+    name: 德瓦斯赖语
+    auto: true
 ---

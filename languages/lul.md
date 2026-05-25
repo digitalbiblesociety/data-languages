@@ -1,8 +1,6 @@
 ---
 iso: lul
 name: "Olu'bo"
-name_zh: 奥卢博语
-name_zh_auto: true
 autonym: Lolubo
 alt_names: [Luluba, Lulubo, Olubogo, Oluboti, Ondoe]
 population: 15000
@@ -16,5 +14,9 @@ glottolog_family_id: cent2225
 glottolog_family_name: Central Sudanic
 glottolog_classification: "Central Sudanic > Moru-Madi > Southern Moru-Madi > Olu'bo"
 wikipedia_url: "https://en.wikipedia.org/wiki/Olu%CA%BCbo_language"
+translations:
+  - translation_iso: zho
+    name: 奥卢博语
+    auto: true
 ---
 Oluʼbo or Loluʼbo is a Central Sudanic language spoken by 33,000 Oluʼbo people in Southern Sudan.

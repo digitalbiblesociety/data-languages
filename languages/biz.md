@@ -1,8 +1,6 @@
 ---
 iso: biz
 name: Baloi
-name_zh: 巴洛伊语
-name_zh_auto: true
 autonym: Baato Baloi
 alt_names: [Boloi, Loi, Loi language, Rebu]
 population: 20000
@@ -15,6 +13,10 @@ glottocode: balo1261
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > Central-Western Bantu > North Zaire River > Rivers Bantu > Ngiri > Ngiri Riverain Ubangi > Ngiri Riverain Ubangi-Ripuaire > Bobangic > Bobangic Riverain > Loi-Likila"
+translations:
+  - translation_iso: zho
+    name: 巴洛伊语
+    auto: true
 rolv_dialects:
   - rolv_code: 3884
     language_tag: biz-x-HIS03884

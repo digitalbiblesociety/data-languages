@@ -1,7 +1,6 @@
 ---
 iso: nhr
 name: Naro
-name_zh: 納柔語
 autonym: Nharo
 alt_names: [/Ai San, Gaa, Língua naro, N(h)aro(n), Naron, Nharon, Nhauru, Nhaurun, Qoo, "Ts'ao", "|Aikwe", "||Aikwe", "||Aisan", "||Ai||e", "||Ai||en"]
 population: 10000
@@ -15,6 +14,11 @@ glottolog_family_id: khoe1240
 glottolog_family_name: Khoe-Kwadi
 glottolog_classification: "Khoe-Kwadi > Khoe > Non-Khoekhoe > West-Kxoe > Naro-Ana > Naro"
 wikipedia_url: "https://en.wikipedia.org/wiki/Naro_language"
+translations:
+  - translation_iso: jpn
+    name: ナロ語
+  - translation_iso: zho
+    name: 納柔語
 rolv_dialects:
   - rolv_code: 5129
     language_tag: nhr-x-HIS05129

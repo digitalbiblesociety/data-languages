@@ -1,8 +1,6 @@
 ---
 iso: xaw
 name: Kawaiisu
-name_zh: 卡瓦伊苏语
-name_zh_auto: true
 autonym: "Nɨwɨ'abigidɨ"
 alt_names: [Kawaiisu language]
 population: 150
@@ -16,5 +14,9 @@ glottolog_family_id: utoa1244
 glottolog_family_name: Uto-Aztecan
 glottolog_classification: "Uto-Aztecan > Northern Uto-Aztecan > Numic > Southern Numic > Kawaiisu"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kawaiisu_language"
+translations:
+  - translation_iso: zho
+    name: 卡瓦伊苏语
+    auto: true
 ---
 The Kawaiisu language is a Uto-Aztecan language spoken by the Kawaiisu people of California. As of 2025, only one native speaker remains, Lucille Girado.

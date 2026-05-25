@@ -1,7 +1,6 @@
 ---
 iso: atb
 name: Zaiwa
-name_zh: 载瓦语
 autonym: အဇီး Atsi
 alt_names: [Aci, Aji, Atshi, Atsi, Atsi-Maru, Atzi, Atši, Azi, Maru, Szi, Tsaiwa, Xiaoshanhua, Zaiwa dili, Zi]
 population: 110000
@@ -15,6 +14,11 @@ glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Burmo-Qiangic > Lolo-Burmese > Burmish > Northern Burmish > Maruic > Zaiwa"
 wikipedia_url: "https://en.wikipedia.org/wiki/Zaiwa_language"
+translations:
+  - translation_iso: jpn
+    name: 載瓦語
+  - translation_iso: zho
+    name: 载瓦语
 rolv_dialects:
   - rolv_code: 1176
     language_tag: atb-x-HIS01176

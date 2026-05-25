@@ -1,8 +1,6 @@
 ---
 iso: mfu
 name: Mbwela
-name_zh: 姆布韦拉语
-name_zh_auto: true
 autonym: Ngangela
 alt_names: [Ambuela, Ambuella, Mbuela, Mbwera, Shimbwera]
 population: 222000
@@ -15,6 +13,10 @@ glottocode: mbwe1238
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > Central-Western Bantu > Njila > Southern Njila > Chokwe-Lunda > Chokwe-Ngangela-Nyemba (K.20) > Ngangela-Nyemba > Mbwela-Mbunda > Mbwela"
+translations:
+  - translation_iso: zho
+    name: 姆布韦拉语
+    auto: true
 rolv_dialects:
   - rolv_code: 29194
     language_tag: mfu-x-HIS29194

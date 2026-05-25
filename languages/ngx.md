@@ -1,8 +1,6 @@
 ---
 iso: ngx
 name: Nggwahyi
-name_zh: 恩瓦希语
-name_zh_auto: true
 autonym: Ngwaxi
 alt_names: [Ngwohi]
 population: 2000
@@ -16,5 +14,9 @@ glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > Biu-Mandara > North Biu-Mandara > Margi-Mandara-Mofu > Bura-Marghi > Buraic > Nggwahyi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Nggwahyi_language"
+translations:
+  - translation_iso: zho
+    name: 恩瓦希语
+    auto: true
 ---
 Nggwahyi is a minor Chadic language of Nigeria. Nggwahyi is considered a threatened language.

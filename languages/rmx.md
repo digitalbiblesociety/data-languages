@@ -1,8 +1,6 @@
 ---
 iso: rmx
 name: Romam
-name_zh: 罗玛语
-name_zh_auto: true
 autonym: Ro Mam
 alt_names: [Lamam]
 population: 250
@@ -15,6 +13,10 @@ glottocode: roma1331
 glottolog_family_id: aust1305
 glottolog_family_name: Austroasiatic
 glottolog_classification: "Austroasiatic > Bahnaric > North Bahnaric > Lamamic > Romam"
+translations:
+  - translation_iso: zho
+    name: 罗玛语
+    auto: true
 rolv_dialects:
   - rolv_code: 12725
     language_tag: rmx-x-HIS12725

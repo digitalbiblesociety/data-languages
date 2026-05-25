@@ -1,8 +1,6 @@
 ---
 iso: dnk
 name: Dengka
-name_zh: 邓卡语
-name_zh_auto: true
 autonym: Western Rote
 alt_names: [Rote, Rote Barat, Roti, Rotinese]
 population: 20000
@@ -16,6 +14,10 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Timor-Babar > Rote-Meto > West Rote > Dengka-Meto > Dengka"
 wikipedia_url: "https://en.wikipedia.org/wiki/Dengka_language"
+translations:
+  - translation_iso: zho
+    name: 邓卡语
+    auto: true
 rolv_dialects:
   - rolv_code: 24822
     language_tag: dnk-x-HIS24822

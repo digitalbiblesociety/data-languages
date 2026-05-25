@@ -1,8 +1,6 @@
 ---
 iso: bjh
 name: Bahinemo
-name_zh: 巴希内莫语
-name_zh_auto: true
 autonym: Bahenemo
 alt_names: [Babinemo, Gahom, Inaru, Wogu, Yigai]
 population: 550
@@ -16,6 +14,10 @@ glottolog_family_id: sepi1257
 glottolog_family_name: Sepik
 glottolog_classification: "Sepik > Sepik Hill > Central-Eastern Sepik Hill > Central Sepik Hill > Bahinemic > Bahinemo"
 wikipedia_url: "https://en.wikipedia.org/wiki/Bahinemo_language"
+translations:
+  - translation_iso: zho
+    name: 巴希内莫语
+    auto: true
 rolv_dialects:
   - rolv_code: 515
     language_tag: bjh-x-HIS00515

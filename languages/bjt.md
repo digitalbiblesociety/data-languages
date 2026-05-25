@@ -1,8 +1,6 @@
 ---
 iso: bjt
 name: "Balanta-Ganja"
-name_zh: 巴兰塔-甘加语
-name_zh_auto: true
 autonym: Alante
 alt_names: [Balanda, Balant, Balanta, Balante, Ballante, Belante, Brassa, Bulanda, Fjaa, Fraase]
 population: 116000
@@ -16,6 +14,10 @@ glottocode: bala1302
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > North-Central Atlantic > Central Atlantic > Bak > Balanta > Balanta-Ganja"
+translations:
+  - translation_iso: zho
+    name: 巴兰塔-甘加语
+    auto: true
 rolv_dialects:
   - rolv_code: 1865
     language_tag: bjt-x-HIS01865

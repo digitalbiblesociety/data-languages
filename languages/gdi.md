@@ -1,8 +1,6 @@
 ---
 iso: gdi
 name: Gundi
-name_zh: 古迪语
-name_zh_auto: true
 autonym: Ngondi
 alt_names: [Ngundi]
 population: 9000
@@ -15,4 +13,10 @@ glottocode: gund1247
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Cameroun-Ubangian > Ubangi > Ubangi Ka > Mundu-Baka > Western Mundu-Baka > Baka-Gundi > Gundi"
+translations:
+  - translation_iso: jpn
+    name: グンディ語
+  - translation_iso: zho
+    name: 古迪语
+    auto: true
 ---

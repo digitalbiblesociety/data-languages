@@ -1,8 +1,6 @@
 ---
 iso: aba
 name: Abé
-name_zh: 阿贝语
-name_zh_auto: true
 autonym: Abbé
 alt_names: [Abbey, Abe, Abi, Abé jezik, Lenga Abé, Lingua abé]
 population: 268000
@@ -16,6 +14,12 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Kwa Volta-Congo > Nyo > Agneby > Abé"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ab%C3%A9_language"
+translations:
+  - translation_iso: jpn
+    name: アベイ語
+  - translation_iso: zho
+    name: 阿贝语
+    auto: true
 rolv_dialects:
   - rolv_code: 6619
     language_tag: aba-x-HIS06619

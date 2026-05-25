@@ -1,8 +1,6 @@
 ---
 iso: kwp
 name: Kodia
-name_zh: 科迪亚语
-name_zh_auto: true
 autonym: Kodia
 alt_names: [Kwadia, Kwadya]
 population: 840
@@ -16,5 +14,9 @@ glottolog_family_id: krua1234
 glottolog_family_name: Kru
 glottolog_classification: "Kru > Eastern Kru > Unclassified Eastern Kru > Kodia"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kwadia_language"
+translations:
+  - translation_iso: zho
+    name: 科迪亚语
+    auto: true
 ---
 Kwadia (Kodia) is a minor Kru language of Ivory Coast.

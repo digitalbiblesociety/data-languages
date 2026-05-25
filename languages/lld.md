@@ -1,7 +1,6 @@
 ---
 iso: lld
 name: Ladin
-name_zh: 拉迪恩语
 autonym: lingaz ladin
 alt_names: [Bahasa Ladin, Dolomiana Latina lingua, Dolomite, Idioma ladino, Idioma ladín, Język ladyński, Ladin nyelv, Ladina lingvo, Ladineg, Ladinera, Ladinies, Ladinisch, Ladinische Sprache, Ladinish, Ladinisk, Ladino, Ladinsk, Ladinska, Ladinčina, Ladinština, Ladinų kalba, Ladí, Lenga ladin-a, Lenghe ladine, Lengua ladina, Limba ladină, Lingua ladina, Língua ladino-dolomítica, Raeto-Romance, Rhaetian, Rhaetian Latin, Rhaeto-Romance, Rhaeto-Romanic, Rheto-Romance, Łéngoa ładina, Језик ладин, Ладин йылме, Ладинский язык, ラディン語, 拉登語]
 population: 31000
@@ -16,6 +15,15 @@ glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Italic > Latino-Faliscan > Latinic > Imperial Latin > Romance > Italo-Western Romance > Italo-Dalmatian > Italian Romance > Ladin"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ladin_language"
+translations:
+  - translation_iso: ara
+    name: اللادينية
+  - translation_iso: jpn
+    name: ラディン語
+  - translation_iso: kor
+    name: 라딘어
+  - translation_iso: zho
+    name: 拉迪恩语
 rolv_dialects:
   - rolv_code: 12661
     language_tag: lld-x-HIS12661

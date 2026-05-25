@@ -1,8 +1,6 @@
 ---
 iso: klm
 name: Migum
-name_zh: 米古姆语
-name_zh_auto: true
 autonym: Migum
 alt_names: [Kolom]
 population: 470
@@ -16,5 +14,9 @@ glottolog_family_id: nucl1709
 glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Madang > Rai Coast > Kabenau > Kolom"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kolom_language"
+translations:
+  - translation_iso: zho
+    name: 米古姆语
+    auto: true
 ---
 Kolom, also known as Migum, is a Rai Coast language spoken in Madang Province, Papua New Guinea.

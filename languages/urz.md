@@ -1,8 +1,6 @@
 ---
 iso: urz
 name: "Uru-Eu-Wau-Wau"
-name_zh: 乌鲁-埃乌-瓦乌-瓦乌语
-name_zh_auto: true
 autonym: Kawahib
 alt_names: [Eru-Eu-Wau-Wau, Kagwahiva, Uru-Eu-Uau-Uau, Uruewauwau, Uruewawau, Uruewawáu, Wau Wau]
 population: null
@@ -16,5 +14,9 @@ glottolog_family_id: tupi1275
 glottolog_family_name: Tupian
 glottolog_classification: "Tupian > Eastern Tupian > Maweti-Guarani > Aweti-Guarani > Tupi-Guarani > Tupi-Guarani Subgroup VI > Kawahiva > Nuclear Kawahiva > Central Kawahiva > Amondava-Uru-Eu-Wau-Wau > Uru-Eu-Wau-Wau"
 wikipedia_url: "https://en.wikipedia.org/wiki/Uru-Eu-Wau-Wau_dialect"
+translations:
+  - translation_iso: zho
+    name: 乌鲁-埃乌-瓦乌-瓦乌语
+    auto: true
 ---
 Uru-Eu-Wau-Wau is one of the eight varieties of the Kagwahiva language, a Tupi–Guarani language, Subgroup VI. The name is also spelled Uru-Eu-Uau-Uau, Eru-Eu-Wau-Wau and Ureuwawau, and is sometimes known simply as Kagwahiva.

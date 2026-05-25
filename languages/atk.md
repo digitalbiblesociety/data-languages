@@ -1,8 +1,6 @@
 ---
 iso: atk
 name: Ati
-name_zh: 阿蒂语
-name_zh_auto: true
 autonym: Inati
 alt_names: ["A'i", Ari, Ati (Philippines), Bisaya]
 population: 1500
@@ -16,6 +14,12 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Ati"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ati_language_(Philippines)"
+translations:
+  - translation_iso: jpn
+    name: アティ語
+  - translation_iso: zho
+    name: 阿蒂语
+    auto: true
 rolv_dialects:
   - rolv_code: 2124
     language_tag: atk-x-HIS02124

@@ -1,8 +1,6 @@
 ---
 iso: acz
 name: Acheron
-name_zh: 阿凯伦语
-name_zh_auto: true
 autonym: Aceron
 alt_names: [Achurun, Asheron, Garme]
 population: 20000
@@ -16,6 +14,12 @@ glottolog_family_id: narr1279
 glottolog_family_name: Narrow Talodi
 glottolog_classification: "Narrow Talodi > Buram-Saraf > Acheron-Tocho > Acheron"
 wikipedia_url: "https://en.wikipedia.org/wiki/Acheron_language"
+translations:
+  - translation_iso: ara
+    name: لغة الاكرون
+  - translation_iso: zho
+    name: 阿凯伦语
+    auto: true
 rolv_dialects:
   - rolv_code: 6663
     language_tag: acz-x-HIS06663

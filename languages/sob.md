@@ -1,8 +1,6 @@
 ---
 iso: sob
 name: Sobei
-name_zh: 索贝伊语
-name_zh_auto: true
 autonym: Biga
 alt_names: [Imasi, Liki]
 population: 1000
@@ -16,6 +14,12 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > North New Guinea linkage > Sarmi-Jayapura Bay > Sarmi > Sobeic > Sobei-Liki > Sobei"
 wikipedia_url: "https://en.wikipedia.org/wiki/Sobei_language"
+translations:
+  - translation_iso: jpn
+    name: ソベイ語
+  - translation_iso: zho
+    name: 索贝伊语
+    auto: true
 rolv_dialects:
   - rolv_code: 1162
     language_tag: sob-x-HIS01162

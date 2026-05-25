@@ -1,8 +1,6 @@
 ---
 iso: ian
 name: Iatmul
-name_zh: 亚特穆尔语
-name_zh_auto: true
 autonym: gepmakudi
 alt_names: [Big Sepik, Gepma Kwudi, Gepma Kwundi, Middle Sepik, Ngepma Kwundi, No. 2 Sepik, Nyaura]
 population: 8440
@@ -16,6 +14,12 @@ glottolog_family_id: nduu1242
 glottolog_family_name: Ndu
 glottolog_classification: "Ndu > Nuclear Ndu > Sawosic > Iatmulic > Iatmul"
 wikipedia_url: "https://en.wikipedia.org/wiki/Iatmul_language"
+translations:
+  - translation_iso: jpn
+    name: Iatmül語
+  - translation_iso: zho
+    name: 亚特穆尔语
+    auto: true
 rolv_dialects:
   - rolv_code: 10749
     language_tag: ian-x-HIS10749

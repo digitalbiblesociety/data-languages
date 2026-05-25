@@ -1,8 +1,6 @@
 ---
 iso: ike
 name: Eastern Canadian Inuktitut
-name_zh: 东加拿大因纽克提图特语
-name_zh_auto: true
 autonym: Eastern Canadian Inuktitut
 alt_names: ["\"Eastern Arctic Eskimo\"", Aivilingmiut, Avanersuarmiutut, Canadian Eskimo, Canadian Inuit, Central-Northern, Eastern Arctic Eskimo, Eastern Canadian, "Eastern Canadian \"Eskimo\"", Eastern Canadian Eskimo, Eastern Canadian Inuit, Eskimo, Inuit, Inuit of Quebec, Inuktitut, Inuktitut (Quebec-Labrador), Inuktitut (Salluit), Inuktitut rigolet, "Inuktitut, Eastern Canadian", Inupiat, Inuí rigolet, Kivallirmiut, Labrador Inuktitut, Labrador Inuttut, Nigiani de Qikiqtaaluk, Nunatsiavummiutut, Nunavimmiutitut, Quebec-Labrador Inuktitut, Uannangani de Qikiqtaaluk, ᐃᓄᒃᑎᑐᑦ]
 population: 35200
@@ -15,6 +13,12 @@ glottocode: east2534
 glottolog_family_id: eski1264
 glottolog_family_name: Eskimo-Aleut
 glottolog_classification: "Eskimo-Aleut > Eskimo > Inuit > Eastern Canadian Inuktitut"
+translations:
+  - translation_iso: jpn
+    name: 東部カナダ・イヌクティトゥット語
+  - translation_iso: zho
+    name: 东加拿大因纽克提图特语
+    auto: true
 rolv_dialects:
   - rolv_code: 160
     language_tag: ike-x-HIS00160

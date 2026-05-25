@@ -1,8 +1,6 @@
 ---
 iso: khv
 name: Khvarshi
-name_zh: 克瓦尔希语
-name_zh_auto: true
 autonym: "Atl'ilqo"
 alt_names: ["C'hvarcheg", Hvaršin kieli, Inkhokvari, Javarsí, Język chwarszyjski, Kedaes hikwa, Khvarsh, Khvarshin, Khwarshi, Khwarshi language, Xvarshi, Xvarshik, Хваршинська мова, Хваршиски јазик, хваршинский язык, ხვარშიული ენა]
 population: 1870
@@ -16,6 +14,14 @@ glottolog_family_id: nakh1245
 glottolog_family_name: Nakh-Daghestanian
 glottolog_classification: "Nakh-Daghestanian > Daghestanian > Avar-Andic-Tsezic > Tsezic > West Tsezic > Khwarshi-Inkhoqwari"
 wikipedia_url: "https://en.wikipedia.org/wiki/Khwarshi_language"
+translations:
+  - translation_iso: jpn
+    name: フバルシ語
+  - translation_iso: kor
+    name: 흐와르시어
+  - translation_iso: zho
+    name: 克瓦尔希语
+    auto: true
 rolv_dialects:
   - rolv_code: 11990
     language_tag: khv-x-HIS11990

@@ -1,8 +1,6 @@
 ---
 iso: vit
 name: Viti
-name_zh: 维蒂语
-name_zh_auto: true
 autonym: Vötö
 population: null
 country_id: NG
@@ -15,5 +13,9 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Wide Grassfields > Narrow Grassfields > Unclassified Narrow Grassfields > Viti"
 wikipedia_url: "https://en.wikipedia.org/wiki/Viti_language"
+translations:
+  - translation_iso: zho
+    name: 维蒂语
+    auto: true
 ---
 Viti (Biti) or Vötö (Bötö), also known as Nde-Gbite, is a Narrow Grassfields language of Nigeria, spoken in the village of Antere in Taraba State, half a kilometre from the Cameroonian border. It is not clear how close or distinct it is from other Grassfields varieties.

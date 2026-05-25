@@ -1,8 +1,6 @@
 ---
 iso: uda
 name: Uda
-name_zh: 乌达语
-name_zh_auto: true
 autonym: null
 alt_names: [Nigeria]
 population: 10000
@@ -15,4 +13,8 @@ glottocode: udaa1238
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Delta Cross > Lower Cross > Nuclear Lower Cross > West Lower Cross > Oroic > Enwang-Uda > Uda"
+translations:
+  - translation_iso: zho
+    name: 乌达语
+    auto: true
 ---

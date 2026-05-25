@@ -1,8 +1,6 @@
 ---
 iso: ncz
 name: Natchez
-name_zh: 纳奇兹语
-name_zh_auto: true
 autonym: Naacee
 alt_names: ["Na'htchi", Nachez]
 population: 6
@@ -13,6 +11,14 @@ latitude: 31.75
 longitude: -91.33
 glottocode: natc1249
 wikipedia_url: "https://en.wikipedia.org/wiki/Natchez_language"
+translations:
+  - translation_iso: ara
+    name: ناتشيز
+  - translation_iso: jpn
+    name: ナチェズ語
+  - translation_iso: zho
+    name: 纳奇兹语
+    auto: true
 rolv_dialects:
   - rolv_code: 26445
     language_tag: ncz-x-HIS26445

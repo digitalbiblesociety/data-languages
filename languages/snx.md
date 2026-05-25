@@ -1,8 +1,6 @@
 ---
 iso: snx
 name: Sam
-name_zh: 萨姆语
-name_zh_auto: true
 autonym: Songum
 alt_names: [Eastern, Rendille-Boni]
 population: 780
@@ -16,5 +14,9 @@ glottolog_family_id: nucl1709
 glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Madang > Rai Coast > Mindjim > Lower Minjim > Inland Minjim > Sam"
 wikipedia_url: "https://en.wikipedia.org/wiki/Sam_language"
+translations:
+  - translation_iso: zho
+    name: 萨姆语
+    auto: true
 ---
 Sam, or Songum, is a Madang language spoken in Madang Province, Papua New Guinea.

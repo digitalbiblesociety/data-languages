@@ -1,8 +1,6 @@
 ---
 iso: txy
 name: Tanosy Malagasy
-name_zh: 坦诺西马拉加斯语
-name_zh_auto: true
 autonym: malagasy
 alt_names: ["Malagasy, Tanosy"]
 population: 639000
@@ -15,6 +13,12 @@ glottocode: tano1246
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Basap-Greater Barito > Greater Barito linkage > Southeast Barito > Malagasic > Southwestern Malagasic > South West-Central Malagasic > Nuclear South West-Central Malagasic > Inland-Western Malagasic > Bara-Tanosy > Tanosy Malagasy"
+translations:
+  - translation_iso: jpn
+    name: タノシ・マダガスカル語
+  - translation_iso: zho
+    name: 坦诺西马拉加斯语
+    auto: true
 rolv_dialects:
   - rolv_code: 3528
     language_tag: txy-x-HIS03528

@@ -1,8 +1,6 @@
 ---
 iso: vaj
 name: Sekele
-name_zh: 塞克莱语
-name_zh_auto: true
 autonym: Northern ǃKung
 alt_names: [Northwestern ǃKung, Vasekele, "ǃKung, Northwestern"]
 population: 14200
@@ -16,6 +14,12 @@ glottolog_family_id: kxaa1236
 glottolog_family_name: Kxa
 glottolog_classification: "Kxa > Ju-Kung > Northern Ju"
 wikipedia_url: "https://en.wikipedia.org/wiki/Sekele_language"
+translations:
+  - translation_iso: kor
+    name: 세켈레어
+  - translation_iso: zho
+    name: 塞克莱语
+    auto: true
 rolv_dialects:
   - rolv_code: 13505
     language_tag: vaj-x-HIS13505

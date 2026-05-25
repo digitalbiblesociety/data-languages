@@ -1,7 +1,6 @@
 ---
 iso: sxg
 name: Shuhi
-name_zh: 史興語
 autonym: Shuhi
 alt_names: [Shixing, Sichín, Xumi, 史興話, 旭米語]
 population: 1200
@@ -15,5 +14,10 @@ glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Burmo-Qiangic > Na-Qiangic > Naic > Shixing"
 wikipedia_url: "https://en.wikipedia.org/wiki/Shixing_language"
+translations:
+  - translation_iso: jpn
+    name: シヒン語
+  - translation_iso: zho
+    name: 史興語
 ---
 Shixing, also rendered Shuhi, is a Qiangic language of Sichuan, China. Two-thirds of its speakers are monolingual.

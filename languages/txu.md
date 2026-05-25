@@ -1,8 +1,6 @@
 ---
 iso: txu
 name: Kayapó
-name_zh: 卡亚波语
-name_zh_auto: true
 autonym: Mẽbêngôkre kabẽn
 alt_names: [Cayapo, Cayapó, Gorotire, Kayapo, Kokairmoro, Kokraimoro, Mebengokre, Mebêngokrê, Put Karot, Southern Cayapo, Xikrin]
 population: 7270
@@ -16,5 +14,9 @@ glottolog_family_id: nucl1710
 glottolog_family_name: Nuclear-Macro-Je
 glottolog_classification: "Nuclear-Macro-Je > Je > Cerrado > Goyaz > Northern Je > Mebengokre"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kayapo_language"
+translations:
+  - translation_iso: zho
+    name: 卡亚波语
+    auto: true
 ---
 Mẽbêngôkre, sometimes referred to as Kayapó, is a Northern Jê language spoken by the Kayapó and the Xikrin people in the north of Mato Grosso and Pará in Brazil. There are around 8,600 native speakers since 2010 based on the 2015 Ethnologue 18th edition. Due to the number of speakers and the influence of Portuguese speakers, the language stands at a sixth level of endangerment; in which the materials for literacy and education in Mẽbêngôkre are very limited.

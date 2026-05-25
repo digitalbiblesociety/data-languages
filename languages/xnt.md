@@ -1,13 +1,19 @@
 ---
 iso: xnt
 name: Narragansett
-name_zh: 納拉岡塞特語
 autonym: null
 population: null
 country_id: US
 country_name: United States
 status_id: "9"
 wikipedia_url: "https://en.wikipedia.org/wiki/Narragansett_language"
+translations:
+  - translation_iso: ara
+    name: ناراغانسيت
+  - translation_iso: jpn
+    name: ナラガンセット語
+  - translation_iso: zho
+    name: 納拉岡塞特語
 rolv_dialects:
   - rolv_code: 21088
     language_tag: xnt-x-HIS21088

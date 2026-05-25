@@ -1,8 +1,6 @@
 ---
 iso: kry
 name: Kryts
-name_zh: 克里茨语
-name_zh_auto: true
 autonym: кърыцIаь мез ġrəċä mez
 alt_names: [Dzek, Dzhek, Dzheki, Język kryzyjski, Katsy, Kjruaj mez, Kriz, Kryc, Krysische Sprache, Krytsin kieli, Kryz, Kryzy, Qrız dili, c’eka mez, qryc’ä mez, Кризька мова, джекский язык, крызский язык, кърыцIаь мез, цIека meз]
 population: 6000
@@ -16,6 +14,14 @@ glottolog_family_id: nakh1245
 glottolog_family_name: Nakh-Daghestanian
 glottolog_classification: "Nakh-Daghestanian > Daghestanian > Lezgic > Samur > Southern Samur > Kryz"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kryts_language"
+translations:
+  - translation_iso: jpn
+    name: クリツ語
+  - translation_iso: kor
+    name: 크리츠어
+  - translation_iso: zho
+    name: 克里茨语
+    auto: true
 rolv_dialects:
   - rolv_code: 12375
     language_tag: kry-x-HIS12375

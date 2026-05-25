@@ -1,7 +1,6 @@
 ---
 iso: cjy
 name: Jinyu Chinese
-name_zh: 晋语
 autonym: 晋语 / 晉語
 alt_names: ["Chinese, Jinyu", "Chinese,Jinyu", Chino jin, Djineg, Jin, Jin Chinese, Jinish, Jinyu, Język jin, Ĵina lingvo, 晉語, 晋語, 晋语, 진어]
 population: 63050000
@@ -15,6 +14,15 @@ glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Sinitic > Classical-Middle-Modern Sinitic > Middle-Modern Sinitic > Northern Chinese > Jinyu Chinese"
 wikipedia_url: "https://en.wikipedia.org/wiki/Jin_Chinese"
+translations:
+  - translation_iso: ara
+    name: جين الصينية (لغة)
+  - translation_iso: jpn
+    name: 晋語
+  - translation_iso: kor
+    name: 진어
+  - translation_iso: zho
+    name: 晋语
 rolv_dialects:
   - rolv_code: 24637
     language_tag: cjy-x-HIS24637

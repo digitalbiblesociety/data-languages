@@ -1,8 +1,6 @@
 ---
 iso: vka
 name: Kariyarra
-name_zh: 卡里亚拉语
-name_zh_auto: true
 autonym: Kariyarra
 alt_names: [Gariera, Gariyarra, Kaierra, Kariara, Kariera, Kariera-Ngaluma, Kariyara, Karriara, Karriarra, Kudjunguru, Kyeara, Kyreara, Minjiburu, "Minjiburu:", Minjirbururu, Minjubururu, Paljarri]
 population: null
@@ -15,4 +13,8 @@ glottocode: kari1304
 glottolog_family_id: pama1250
 glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > South-West Pama-Nyungan > Pilbara > Ngayarda > Central Ngayarda > Ngarluma-Kariyarra > Kariyarra"
+translations:
+  - translation_iso: zho
+    name: 卡里亚拉语
+    auto: true
 ---

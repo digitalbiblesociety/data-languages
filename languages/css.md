@@ -1,8 +1,6 @@
 ---
 iso: css
 name: Southern Ohlone
-name_zh: 南奥赫龙语
-name_zh_auto: true
 autonym: Costanoan
 alt_names: ["Ohlone, Southern"]
 population: null
@@ -15,6 +13,10 @@ glottocode: muts1243
 glottolog_family_id: miwo1274
 glottolog_family_name: Miwok-Costanoan
 glottolog_classification: "Miwok-Costanoan > Costanoan > Southern Costanoan > Mutsun"
+translations:
+  - translation_iso: zho
+    name: 南奥赫龙语
+    auto: true
 rolv_dialects:
   - rolv_code: 24826
     language_tag: css-x-HIS24826

@@ -1,8 +1,6 @@
 ---
 iso: nay
 name: Ngarrindjeri
-name_zh: 纳加林吉里语
-name_zh_auto: true
 autonym: Ngarinyeri
 alt_names: [Alkaiyana, Jaralde, Jaraldi, Jarildekald, Jarildikald, Jarildukald, Koiyana, Kokkaiya, Korariga, Kororega, Kowrarega, Lakalinyeri, Meintangk, Narinjari, Narinyerrie, Narrinjeri, Narrinyeri, Narrinyerree, Piccanini Murray people, Pirtulun, Ramindjeri, Tanganukald, Warawalde, Warki, Wathai yunu, Yalawarre, Yaralde, Yaraldi, Yarilde, Yarildewallin, Yarrildie]
 population: 312
@@ -16,6 +14,12 @@ glottolog_family_id: pama1250
 glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > Southeastern Pama-Nyungan > Victorian Pama-Nyungan > Lower Murray > Yaraldi-Keramin-Yitha > Narrinyeri"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ngarrindjeri_language"
+translations:
+  - translation_iso: jpn
+    name: ンガリンジェリ語
+  - translation_iso: zho
+    name: 纳加林吉里语
+    auto: true
 rolv_dialects:
   - rolv_code: 26484
     language_tag: nay-x-HIS26484

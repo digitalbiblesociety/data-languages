@@ -1,8 +1,6 @@
 ---
 iso: bde
 name: Bade
-name_zh: 巴德语
-name_zh_auto: true
 autonym: Bedde
 alt_names: [Bade Group, Badeg, Badé, Bede, Gidgid, Gusha Bade, West Chadic B.1, Баде]
 population: 338000
@@ -16,6 +14,12 @@ glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > West Chadic > West Chadic B > West Chadic B.1 > Ngizim-Southwestern Bade > Shira-Southwestern Bade > Bade"
 wikipedia_url: "https://en.wikipedia.org/wiki/Bade_language"
+translations:
+  - translation_iso: jpn
+    name: バデ語
+  - translation_iso: zho
+    name: 巴德语
+    auto: true
 rolv_dialects:
   - rolv_code: 2509
     language_tag: bde-x-HIS02509

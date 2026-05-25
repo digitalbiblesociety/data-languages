@@ -1,8 +1,6 @@
 ---
 iso: xsl
 name: South Slavey
-name_zh: 南斯拉夫语
-name_zh_auto: true
 autonym: "Dene K'e"
 alt_names: ["\"Slave\"", "Acha'otinne", Dene, "Dene K'e (Slavey)", Dene Tha (ᑌᓀ ᒐ), "Dene Tha'", Dené, Eslavi meridional, Mackenzian, Slave, Slavey, Slavey du sud, "Slavey, South", Slavi]
 population: 3600
@@ -15,4 +13,10 @@ glottocode: sout2959
 glottolog_family_id: atha1245
 glottolog_family_name: Athabaskan-Eyak-Tlingit
 glottolog_classification: "Athabaskan-Eyak-Tlingit > Athabaskan-Eyak > Athabaskan > Northwestern Canada Athabaskan > Slaveyic > Slave > South Slavey"
+translations:
+  - translation_iso: jpn
+    name: 南スレイビー語
+  - translation_iso: zho
+    name: 南斯拉夫语
+    auto: true
 ---

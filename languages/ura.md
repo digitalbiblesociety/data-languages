@@ -1,8 +1,6 @@
 ---
 iso: ura
 name: Urarina
-name_zh: 乌拉里纳语
-name_zh_auto: true
 autonym: Itucale
 alt_names: [Itucali, Itukale, Kachá, Oruarina, Shimacu, Shimaku, Simacu, Urariña]
 population: 3000
@@ -13,5 +11,11 @@ latitude: -4.44006
 longitude: -75.42107
 glottocode: urar1246
 wikipedia_url: "https://en.wikipedia.org/wiki/Urarina_language"
+translations:
+  - translation_iso: jpn
+    name: ウラリナ語
+  - translation_iso: zho
+    name: 乌拉里纳语
+    auto: true
 ---
 Urarina is a language isolate spoken in Peru, specifically in the Loreto Region of Northwest Peru, by the Urarina people. There are around 3,000 speakers in Urarinas District. It uses the Latin script. It is also known as Itucali, Simacu or Shimacu.

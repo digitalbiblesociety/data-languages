@@ -1,7 +1,6 @@
 ---
 iso: mlt
 name: Maltese
-name_zh: 马耳他语
 autonym: Malti
 alt_names: [An Mháltais, Arabic, Bahasa Malta, Basa Malta, Gjuha malteze, Idioma maltés, Język maltański, Kimalta, Limba malteză, Lingua Melitica, Lingua maltesa, Lingua maltese, Lingua maltisa, Lingwa Maltija, Língua maltesa, Malta, Malta dili, Malta keel, Malta lingvo, Malta simi, Malta-gí, Maltaca, Maltais, Maltan kieli, Maltana linguo, Maltańsko godka, Maltašćina, Maltees, Malteesk, Malteg, Maltera, Maltesische Sprache, Maltesisk, Maltesisk språk, Maltesiska, Malteški jezik, Malteščina, Maltiečių kalba, Maltiešu valoda, Maltish, Maltneska, Maltès, Maltés, Maltčina, Maltština, Máltai nyelv, Pinulongang Maltes, Wikang Maltes, bangrmalti, Μαλτεζική γλώσσα, Малтешки јазик, Малтешки језик, Малтийски език, Мальтийский язык, Мальтійська мова, מלטית, زبان مالتی, لغة مالطية, مالتا تىلى, مالطى, ภาษามอลตา, ማልትኛ, マルタ語, 马耳他语, 몰타어]
 population: 533080
@@ -16,6 +15,17 @@ glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Semitic > West Semitic > Central Semitic > Arabian > Arabic > North African Arabic > Western Middle Arabic > Maghrebi > Malta-Tunisian Arabic > Maltese"
 wikipedia_url: "https://en.wikipedia.org/wiki/Maltese_language"
+translations:
+  - translation_iso: ara
+    name: المالطية
+  - translation_iso: hin
+    name: माल्टीज़
+  - translation_iso: jpn
+    name: マルタ語
+  - translation_iso: kor
+    name: 몰타어
+  - translation_iso: zho
+    name: 马耳他语
 rolv_dialects:
   - rolv_code: 13518
     language_tag: mt-x-HIS13518

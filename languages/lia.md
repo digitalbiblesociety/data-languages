@@ -1,8 +1,6 @@
 ---
 iso: lia
 name: "West-Central Limba"
-name_zh: 西中林巴语
-name_zh_auto: true
 autonym: Yimba
 alt_names: [Limba, "Limba, West-Central", Yumba]
 population: 445000
@@ -15,6 +13,10 @@ glottocode: west2450
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Limba > West-Central Limba"
+translations:
+  - translation_iso: zho
+    name: 西中林巴语
+    auto: true
 rolv_dialects:
   - rolv_code: 12957
     language_tag: lia-x-HIS12957

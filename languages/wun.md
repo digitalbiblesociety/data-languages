@@ -1,8 +1,6 @@
 ---
 iso: wun
 name: Bungu
-name_zh: 本古语
-name_zh_auto: true
 autonym: Iciwungu
 alt_names: [Echiungu, Kibungu, Wungu]
 population: 30000
@@ -16,6 +14,10 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > East Bantu > Corridor Bantu > Mbozi > Mwika > Bungu"
 wikipedia_url: "https://en.wikipedia.org/wiki/Bungu_language"
+translations:
+  - translation_iso: zho
+    name: 本古语
+    auto: true
 rolv_dialects:
   - rolv_code: 27984
     language_tag: wun-x-HIS27984

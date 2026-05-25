@@ -1,8 +1,6 @@
 ---
 iso: quf
 name: Lambayeque Quechua
-name_zh: 兰巴耶克克丘亚语
-name_zh_auto: true
 autonym: "Inkawasi-Kañaris Runashimi"
 alt_names: [Cañaris Quechua, Cañaris-Incahuasi, Ferreñafe, Ferreñafe Quechua, Incahuasi-Cañaris, Inkawasi-Kañaris, Lambayeque Kechua, "Quechua, Lambayeque"]
 population: 20000
@@ -16,6 +14,10 @@ glottolog_family_id: quec1387
 glottolog_family_name: Quechuan
 glottolog_classification: "Quechuan > Cajamarca-Lambayeque Quechua > Lambayeque Quechua"
 wikipedia_url: "https://en.wikipedia.org/wiki/Lambayeque_Quechua"
+translations:
+  - translation_iso: zho
+    name: 兰巴耶克克丘亚语
+    auto: true
 rolv_dialects:
   - rolv_code: 15863
     language_tag: quf-x-HIS15863

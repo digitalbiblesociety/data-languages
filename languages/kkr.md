@@ -1,8 +1,6 @@
 ---
 iso: kkr
 name: "Kir-Balar"
-name_zh: 基尔-巴拉尔语
-name_zh_auto: true
 autonym: Kir
 alt_names: [Bogghom, Boghom, Boghorom, Bohom, Bokiyim, Borrom, Burma, Burom, Burrum, Burum, Kirr, Larbawa]
 population: 3050
@@ -16,6 +14,12 @@ glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > West Chadic > West Chadic B > West Chadic B.3 > South Bauchi East > Boghomic > Kir-Mangas > Kir-Balar"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kir-Balar_language"
+translations:
+  - translation_iso: jpn
+    name: キル・バラル語
+  - translation_iso: zho
+    name: 基尔-巴拉尔语
+    auto: true
 rolv_dialects:
   - rolv_code: 12040
     language_tag: kkr-x-HIS12040

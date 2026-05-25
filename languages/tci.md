@@ -1,8 +1,6 @@
 ---
 iso: tci
 name: Wára
-name_zh: 瓦拉语
-name_zh_auto: true
 autonym: Wára
 alt_names: [Ara, Kamindjo, Rouku, Semariji, Tjokwai, Tokwasa, Upper Morehead, Vara, Yumbar]
 population: 700
@@ -16,6 +14,10 @@ glottolog_family_id: more1255
 glottolog_family_name: Yam
 glottolog_classification: "Yam > Morehead-Maro > Tonda > Eastern Tonda > Anta-Komnzo-Wára-Wérè-Kémä"
 wikipedia_url: "https://en.wikipedia.org/wiki/Upper_Morehead_language"
+translations:
+  - translation_iso: zho
+    name: 瓦拉语
+    auto: true
 rolv_dialects:
   - rolv_code: 25505
     language_tag: tci-x-HIS25505

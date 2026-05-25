@@ -1,7 +1,6 @@
 ---
 iso: mlj
 name: Miltu
-name_zh: 米爾圖語
 autonym: Miltou
 alt_names: [Miltú]
 population: 270
@@ -15,5 +14,8 @@ glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > East Chadic > East Chadic B > East Chadic B.3 > Sokoroic > Miltuic > Miltu"
 wikipedia_url: "https://en.wikipedia.org/wiki/Miltu_language"
+translations:
+  - translation_iso: zho
+    name: 米爾圖語
 ---
 Miltu is an endangered Afro-Asiatic language spoken in southwestern Chad, in villages along the Chari River in the area of Bousso. A 1993 census reported 270 speakers. Speakers are shifting to Bagirmi.

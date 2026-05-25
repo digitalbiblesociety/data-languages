@@ -1,8 +1,6 @@
 ---
 iso: dcc
 name: Deccan
-name_zh: 德干语
-name_zh_auto: true
 autonym: Dakini
 population: 12800000
 country_id: IN
@@ -12,6 +10,10 @@ latitude: 18.59186
 longitude: 75.71697
 scripts: [Arab]
 wikipedia_url: "https://en.wikipedia.org/wiki/Berar-Deccan_Marathi"
+translations:
+  - translation_iso: zho
+    name: 德干语
+    auto: true
 rolv_dialects:
   - rolv_code: 9194
     language_tag: dcc-x-HIS09194

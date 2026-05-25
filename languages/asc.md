@@ -1,8 +1,6 @@
 ---
 iso: asc
 name: Casuarina Coast Asmat
-name_zh: 红树林海岸阿斯玛特语
-name_zh_auto: true
 autonym: Kaweinag
 alt_names: [Asmat, "Asmat, Casuarina Coast"]
 population: 3400
@@ -16,6 +14,10 @@ glottolog_family_id: nucl1709
 glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Asmat-Awyu-Ok > Asmat-Kamrau Bay > Asmat-Kamoro > Asmat > Casuarina Coast Asmat"
 wikipedia_url: "https://en.wikipedia.org/wiki/Casuarina_Coast_Asmat_language"
+translations:
+  - translation_iso: zho
+    name: 红树林海岸阿斯玛特语
+    auto: true
 rolv_dialects:
   - rolv_code: 1502
     language_tag: asc-x-HIS01502

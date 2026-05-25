@@ -1,8 +1,6 @@
 ---
 iso: mxl
 name: Maxi Gbe
-name_zh: 玛克西格贝语
-name_zh_auto: true
 autonym: fɔ̀ngbè/fõbè
 alt_names: ["Gbe, Maxi", Mahi, Maxi, Maxi-Gbe]
 population: 401000
@@ -15,6 +13,10 @@ glottocode: maxi1236
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Kwa Volta-Congo > Gbe > Eastern Gbe > Fongbeic > Maxi Gbe"
+translations:
+  - translation_iso: zho
+    name: 玛克西格贝语
+    auto: true
 rolv_dialects:
   - rolv_code: 31180
     language_tag: mxl-x-HIS31180

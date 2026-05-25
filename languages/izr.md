@@ -1,8 +1,6 @@
 ---
 iso: izr
 name: Izere
-name_zh: 伊泽雷语
-name_zh_auto: true
 autonym: Afusare
 alt_names: [Afizare, Afizarek, Feserek, Fezere, Fizere, Hill Jarawa, Izarek, Jarawa, Jarawan Dutse, Jari, Jos-Zarazon]
 population: 50000
@@ -16,6 +14,10 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Benue-Congo Plateau > West-Central Benue-Congo Plateau > Zaric > Nuclear Zaric > Izeric > Izere"
 wikipedia_url: "https://en.wikipedia.org/wiki/Izere_language"
+translations:
+  - translation_iso: zho
+    name: 伊泽雷语
+    auto: true
 rolv_dialects:
   - rolv_code: 11032
     language_tag: izr-x-HIS11032

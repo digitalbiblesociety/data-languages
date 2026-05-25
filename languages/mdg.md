@@ -1,8 +1,6 @@
 ---
 iso: mdg
 name: Massalat
-name_zh: 马萨拉特语
-name_zh_auto: true
 autonym: kana masalaka/masaraka
 alt_names: [Mesalit]
 population: 29800
@@ -15,4 +13,8 @@ glottocode: mass1262
 glottolog_family_id: maba1274
 glottolog_family_name: Maban
 glottolog_classification: "Maban > Mabang > Maba-Masalit > Macro-Masalit > Massalat"
+translations:
+  - translation_iso: zho
+    name: 马萨拉特语
+    auto: true
 ---

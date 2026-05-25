@@ -1,8 +1,6 @@
 ---
 iso: scg
 name: Sanggau
-name_zh: 桑高语
-name_zh_auto: true
 autonym: bahasa Sanggau
 alt_names: [Indonesia]
 population: 45000
@@ -16,6 +14,10 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Land Dayak > Bidayuh-Southern Land Dayak > Southern Land Dayak > Sanggau"
 wikipedia_url: "https://en.wikipedia.org/wiki/Sanggau_language"
+translations:
+  - translation_iso: zho
+    name: 桑高语
+    auto: true
 rolv_dialects:
   - rolv_code: 4637
     language_tag: scg-x-HIS04637

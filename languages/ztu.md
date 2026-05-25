@@ -1,8 +1,6 @@
 ---
 iso: ztu
 name: Güilá Zapotec
-name_zh: 圭拉萨波特克语
-name_zh_auto: true
 autonym: (San Pablo Güilá)
 alt_names: [Eastern Sapoteko, Guila Zapotec, Zapotec, "Zapotec, Güilá", Zapoteco de Petapa, Zapoteco de San Bartolo Yautepec, Zapoteco de San Dionisio Ocotepec, Zapoteco de San Pablo Güilá, Zapoteco mixtepeco, Zapotèque de Mixtepe, Zapotèque de Petapa, Zapotèque de San Bartolo Yautepec]
 population: 2300
@@ -16,5 +14,9 @@ glottolog_family_id: otom1299
 glottolog_family_name: Otomanguean
 glottolog_classification: "Otomanguean > Eastern Otomanguean > Popoloca-Zapotecan > Zapotecan > Zapotec > Core Zapotec > Narrow Core Zapotec > Central Core Zapotec > Western Valley Zapotec > Güilá Zapotec"
 wikipedia_url: "https://en.wikipedia.org/wiki/G%C3%BCil%C3%A1_Zapotec"
+translations:
+  - translation_iso: zho
+    name: 圭拉萨波特克语
+    auto: true
 ---
 Güilá Zapotec (Zapoteco de San Pablo Güilá, Zapoteco de San Dionisio Ocotepec) is a Zapotec language of Oaxaca, Mexico. It is spoken in the town of San Pablo Güilá, Tlacolula District, Oaxaca, Mexico.

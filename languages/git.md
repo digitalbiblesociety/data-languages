@@ -1,8 +1,6 @@
 ---
 iso: git
 name: Gitxsan
-name_zh: 吉特克桑语
-name_zh_auto: true
 autonym: Gitxsanimaax
 alt_names: [Giklsan, Gitksan, Gitksanimx, Gitsanimx̱, Gitsenimx̱, Gitskan, Gitxsen, Gityskyan, "Gyitska'n", Hazelton, Interior, Nass-Gitksan, Nass-gitskan]
 population: 1330
@@ -16,6 +14,10 @@ glottolog_family_id: tsim1258
 glottolog_family_name: Tsimshian
 glottolog_classification: "Tsimshian > Nishga-Gitxsan > Gitxsan"
 wikipedia_url: "https://en.wikipedia.org/wiki/Gitxsan_language"
+translations:
+  - translation_iso: zho
+    name: 吉特克桑语
+    auto: true
 rolv_dialects:
   - rolv_code: 10255
     language_tag: git-x-HIS10255

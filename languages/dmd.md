@@ -1,13 +1,15 @@
 ---
 iso: dmd
 name: Madhi Madhi
-name_zh: 玛迪玛迪语
-name_zh_auto: true
 autonym: Madhimadhi
 population: null
 country_id: AU
 country_name: Australia
 status_id: "10"
 wikipedia_url: "https://en.wikipedia.org/wiki/Madhi_Madhi_dialect"
+translations:
+  - translation_iso: zho
+    name: 玛迪玛迪语
+    auto: true
 ---
 Madhi-Madhi, also known as Muthimuthi or Madi Madi, is an Indigenous Australian language spoken by the Muthi Muthi Aboriginal people of south-west New South Wales. It is also known as Madhi Madhi, Madi Madi, Bakiin, Mataua, Matimati, Matthee matthee, Moorta Moorta, Mudhi Mudhi, Muthimuthi, Muti muti, Muttee Muttee, Madimadi, Mutte Mutte, or Madi madi.

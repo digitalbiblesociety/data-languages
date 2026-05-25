@@ -1,8 +1,6 @@
 ---
 iso: swc
 name: Congo Swahili
-name_zh: 刚果斯瓦希里语
-name_zh_auto: true
 autonym: Kiswahili
 alt_names: ["Swahili, Congo", Zaïre Swahili]
 population: 2043000
@@ -16,6 +14,12 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > East Bantu > Northeast Savanna Bantu > Northeast Coastal Bantu > Coastal NEC Bantu > Sabaki-Swahili > Swahili (G.40) > Mombasa-Lamu-Inland Swahili > Congo Swahili"
 wikipedia_url: "https://en.wikipedia.org/wiki/Congo_Swahili"
+translations:
+  - translation_iso: jpn
+    name: コンゴ・スワヒリ語
+  - translation_iso: zho
+    name: 刚果斯瓦希里语
+    auto: true
 rolv_dialects:
   - rolv_code: 32
     language_tag: sw-CG-x-HIS00032

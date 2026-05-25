@@ -1,8 +1,6 @@
 ---
 iso: myl
 name: Moma
-name_zh: 莫玛语
-name_zh_auto: true
 autonym: Kulawi
 population: 9940
 country_id: ID
@@ -15,5 +13,9 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Celebic > Kaili-Wolio > Northern Kaili-Wolio > Greater Kaili > Kulawi > Moma"
 wikipedia_url: "https://en.wikipedia.org/wiki/Moma_language"
+translations:
+  - translation_iso: zho
+    name: 莫玛语
+    auto: true
 ---
 Moma is an Austronesian language spoken in Central Sulawesi, Indonesia. Historically, it is derived from the Kaili dialect cluster, but is divergent due to strong influence from Uma.

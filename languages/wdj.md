@@ -1,8 +1,6 @@
 ---
 iso: wdj
 name: Wadjiginy
-name_zh: 瓦吉吉尼语
-name_zh_auto: true
 autonym: Wogait
 alt_names: [Ami, Amijangal, Bachamal, Bajamala, Batjamal, Batjamalh, Batjemal, Batjjamalh, Batyamal, Batymal, Daly River language., Kuwama, Murinwargad, Murrinh Bathemarl, Murrinh Patjtjamalh, Patjtjamal, Patjtjamalh, Pungupungu, Their langauge Wadyiginy, Wa gait, Wa(o)gatsch, Wa-gait, Wadadjingi, Wadjagidj, Wadjigany, "Wadjigi:n", Wadjigin, Wadjiginj, Wadjinginj, Wadjingy, Wadyiginy, Wadyiginy Proper, Wadyiginy has several variant spellings, Wagaidj, Wagait, Wagaitj, Wagatsch, Wagaydy, Waggait, Waggate, Waggite, Waggites, Waggote, Waggute, Wagite, Wagjingi, Wangites, Waogatsch, Wargad, Wargite, Wdadjingi, Wogadj, Wogaidj, Wogait is a misnomer for Wadyiginy, Wogaity, Wogath, Wogati, Wogatj, Wogite, Wogites, Worgaid, Worgaidj, Worgait, Worgite, namely, which has another sub dialect called Batyamal]
 population: 5
@@ -13,6 +11,10 @@ latitude: -12.85959
 longitude: 130.73661
 glottocode: wadj1254
 wikipedia_url: "https://en.wikipedia.org/wiki/Wadjiginy_language"
+translations:
+  - translation_iso: zho
+    name: 瓦吉吉尼语
+    auto: true
 rolv_dialects:
   - rolv_code: 18091
     language_tag: wdj-x-HIS18091

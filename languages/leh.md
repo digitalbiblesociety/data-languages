@@ -1,7 +1,6 @@
 ---
 iso: leh
 name: Lenje
-name_zh: 伦杰语
 autonym: Chilenje
 alt_names: [Chinamukuni, Ciina, Lengi, Lenji, Mukuni]
 population: 128000
@@ -15,6 +14,9 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > East Bantu > Botatwe > Greater Eastern Botatwe > Central Eastern Botatwe > Kafue > Lenje"
 wikipedia_url: "https://en.wikipedia.org/wiki/Lenje_language"
+translations:
+  - translation_iso: zho
+    name: 伦杰语
 rolv_dialects:
   - rolv_code: 12878
     language_tag: leh-x-HIS12878

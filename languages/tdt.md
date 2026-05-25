@@ -1,8 +1,6 @@
 ---
 iso: tdt
 name: Tetun Dili
-name_zh: 迪力岱都语
-name_zh_auto: true
 autonym: Tetun Prasa
 alt_names: [Dili Tetum, Tetum, Tetum Dili, Tetum Prasa, Tetum Praça, Tetun]
 population: 50000
@@ -15,6 +13,10 @@ glottocode: tetu1246
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Timor-Babar > Eastern Timor > Central Timoric A > Tetunic > Tetun Dili"
+translations:
+  - translation_iso: zho
+    name: 迪力岱都语
+    auto: true
 rolv_dialects:
   - rolv_code: 17399
     language_tag: tdt-x-HIS17399

@@ -1,7 +1,6 @@
 ---
 iso: swe
 name: Swedish
-name_zh: 瑞典语
 autonym: svenska
 alt_names: [An tSualainnis, Bahasa Sweden, Bahasa Swedia, Basa Swédia, Dalécarlien, Escaniano, Gjuha suedeze, Gutnisk, Idioma sueco, IsiSwidishi, Język szwedzki, Kiswidi, Lenga svedèisa, Lengua svedeise, Limba suedeză, Lingua Suecica, Lingua sueca, Lingua svedaisa, Lingua svedese, Língua sueca, Pinulongang Sweko, Roodsi kiil, Rootsi keel, Ruotsi, Ruotsin kieli, Ruoŧagiella, Scanien, Schwedisch, Schwedische Sprache, Soolynnish, Suainis, Suec, Suecu, Suediana linguo, Suediera, Suedés, Suwiri simi, Suèdouès, Suédois, Sveda lingvo, Svedeg, Svedes, Svensk, Svensk språk, Svenskt mál, Sverige-gí, Svéd nyelv, Swadish leid, Swedeg, Swedek, Swedgbe, Swedish (Västerbotten), Sweeds, Sweedsk, Swêdki, Sænska, Sƿēonisc sprǣc, Tiếng Thụy Điển, Zimanê swêdî, Zviedru valoda, Zweeds, Èdè Sweden, İsveç dili, İsveç tili, İsveççe, Łéngua svedexe, Švedski jezik, Švedu kalba, Švedščina, Švedų kalba, Švédčina, Švédština, Šwedšćina, Σουηδική γλώσσα, Забони шведӣ, Свє́ньскъ ѩꙁꙑ́къ, Швед йылме, Швед маз, Швед тілі, Швед чĕлхи, Шведаг æвзаг, Шведонь кяль, Шведская мова, Шведски език, Шведски јазик, Шведски језик, Шведский язык, Шведська мова, Шведэнь кель, Շվեդերեն, שבדית, שוועדיש, زبان سوئدی, سونسکا, سويدى, شۋېتسىيە تىلى, لغة سويدية, ܠܫܢܐ ܣܘܝܕܝܐ, ސުވެޑިޝް, स्वीडिश भाषा, সুয়েডীয় ভাষা, சுவீடிய மொழி, ภาษาสวีเดน, შვედური ენა, ᏑᏪᏗ, ᔅᕗᓐᔅᑭᑐᑦ, スウェーデン語, 瑞典語, 스웨덴어]
 population: 13055000
@@ -16,6 +15,17 @@ glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Germanic > Northwest Germanic > North Germanic > North Scandinavian > East-Central Swedic > East Swedic > Swedish"
 wikipedia_url: "https://en.wikipedia.org/wiki/Swedish_language"
+translations:
+  - translation_iso: ara
+    name: السويدية
+  - translation_iso: hin
+    name: स्वीडिश भाषा
+  - translation_iso: jpn
+    name: スウェーデン語
+  - translation_iso: kor
+    name: 스웨덴어
+  - translation_iso: zho
+    name: 瑞典语
 rolv_dialects:
   - rolv_code: 11093
     language_tag: sv-x-HIS11093

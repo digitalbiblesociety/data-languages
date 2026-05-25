@@ -1,7 +1,6 @@
 ---
 iso: gjn
 name: Gonja
-name_zh: 貢加語
 autonym: null
 alt_names: [Guang, Ngbanyito]
 population: 310000
@@ -15,6 +14,11 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Kwa Volta-Congo > Nyo > Potou-Tano > Tano > Guang > North Guang > Gonja-Dompo > Gonja"
 wikipedia_url: "https://en.wikipedia.org/wiki/Gonja_language"
+translations:
+  - translation_iso: jpn
+    name: ゴンジャ語
+  - translation_iso: zho
+    name: 貢加語
 rolv_dialects:
   - rolv_code: 10305
     language_tag: gjn-x-HIS10305

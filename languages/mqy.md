@@ -1,8 +1,6 @@
 ---
 iso: mqy
 name: Manggarai
-name_zh: 芒加赖语
-name_zh_auto: true
 autonym: bahasa Manggarai
 alt_names: [Indonesia]
 population: 900000
@@ -16,6 +14,12 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Bima-Lembata > Flores > West-Central Flores > Manggaraiic > Manggarai Khusus > Manggarai"
 wikipedia_url: "https://en.wikipedia.org/wiki/Manggarai_language"
+translations:
+  - translation_iso: jpn
+    name: マンガライ語
+  - translation_iso: zho
+    name: 芒加赖语
+    auto: true
 rolv_dialects:
   - rolv_code: 13613
     language_tag: mqy-x-HIS13613

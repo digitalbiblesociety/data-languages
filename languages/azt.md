@@ -1,8 +1,6 @@
 ---
 iso: azt
 name: Faire Atta
-name_zh: 费尔阿塔语
-name_zh_auto: true
 autonym: Southern Atta
 alt_names: [Atta faire, Atta meridional, "Atta, Faire"]
 population: 300
@@ -15,4 +13,8 @@ glottocode: fair1238
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Northern Luzon > Cagayan Valley > Ibanagic > Atta > Faire Atta"
+translations:
+  - translation_iso: zho
+    name: 费尔阿塔语
+    auto: true
 ---

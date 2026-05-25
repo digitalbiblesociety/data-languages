@@ -1,8 +1,6 @@
 ---
 iso: snv
 name: "Sa'ban"
-name_zh: 萨班语
-name_zh_auto: true
 autonym: Merau
 alt_names: ["Malaysia, Indonesia"]
 population: 1110
@@ -16,5 +14,9 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > North Borneo Malayo-Polynesian > North Sarawakan > Dayic > Sa'ban"
 wikipedia_url: "https://en.wikipedia.org/wiki/Sa%CA%BCban_language"
+translations:
+  - translation_iso: zho
+    name: 萨班语
+    auto: true
 ---
 Saʼban is one of the remoter languages of Borneo, on the Sarawak–Kalimantan border. The language is known as hmeu Saʼban in the Saʼban language.

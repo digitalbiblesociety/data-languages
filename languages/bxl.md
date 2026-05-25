@@ -1,8 +1,6 @@
 ---
 iso: bxl
 name: Jalkunan
-name_zh: 贾尔库南语
-name_zh_auto: true
 autonym: Blé
 alt_names: [Dyala, Dyalanu, Jalakuna, Jalkuna, Jelkuna]
 population: 1000
@@ -15,4 +13,8 @@ glottocode: jalk1242
 glottolog_family_id: mand1469
 glottolog_family_name: Mande
 glottolog_classification: "Mande > Western Mande > Manding-Kpelle > Central Mande > Manding-Jogo > Jogo-Jeri > Jeri > Jalkunan"
+translations:
+  - translation_iso: zho
+    name: 贾尔库南语
+    auto: true
 ---

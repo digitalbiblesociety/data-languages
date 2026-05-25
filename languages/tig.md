@@ -1,7 +1,6 @@
 ---
 iso: tig
 name: Tigre
-name_zh: 提格雷语
 autonym: ትግረ  ኻሳ
 alt_names: [Idioma tigré, Język tigre, Khasa, Língua tigré, Tigre hizkuntza, Tigreeg, Tigrejščina, Tigren kieli, Tigré, Tigré (Beni Amer), Tigré jezik, Xasa, Тигре, Тигре јазик, 提格雷语]
 population: 1359000
@@ -16,6 +15,17 @@ glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Semitic > West Semitic > Ethiosemitic > Tigre-Dahalik > Tigre"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tigre_language"
+translations:
+  - translation_iso: ara
+    name: التجرية
+  - translation_iso: hin
+    name: तिग्रे भाषा
+  - translation_iso: jpn
+    name: ティグレ語
+  - translation_iso: kor
+    name: 티그레어
+  - translation_iso: zho
+    name: 提格雷语
 rolv_dialects:
   - rolv_code: 17487
     language_tag: tig-x-HIS17487

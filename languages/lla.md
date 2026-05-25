@@ -1,8 +1,6 @@
 ---
 iso: lla
 name: "Lala-Roba"
-name_zh: 拉拉-罗巴语
-name_zh_auto: true
 autonym: Gworam
 alt_names: [Roba]
 population: 46000
@@ -16,6 +14,10 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Cameroun-Ubangian > Bena-Mboi > Bena > Lala-Roba"
 wikipedia_url: "https://en.wikipedia.org/wiki/Lala-Roba_language"
+translations:
+  - translation_iso: zho
+    name: 拉拉-罗巴语
+    auto: true
 rolv_dialects:
   - rolv_code: 12712
     language_tag: lla-x-HIS12712

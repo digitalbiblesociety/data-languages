@@ -1,7 +1,6 @@
 ---
 iso: eka
 name: Ekajuk
-name_zh: 艾卡朱克语
 autonym: Akajo
 alt_names: [Akajuk]
 population: 63000
@@ -16,6 +15,17 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Ekoid-Mbe > Ekoid > Bakor-Ejagham > Bakor > Northern Bakor > Nnam-Ekajuk > Ekajuk"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kajuk_language"
+translations:
+  - translation_iso: ara
+    name: الإكاجك
+  - translation_iso: hin
+    name: एकाजुक
+  - translation_iso: jpn
+    name: エカジュク語
+  - translation_iso: kor
+    name: 이카죽어
+  - translation_iso: zho
+    name: 艾卡朱克语
 rolv_dialects:
   - rolv_code: 23937
     language_tag: eka-x-HIS23937

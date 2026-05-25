@@ -1,8 +1,6 @@
 ---
 iso: ijc
 name: Izon
-name_zh: 伊宗语
-name_zh_auto: true
 autonym: Ịzọn
 alt_names: [Central-Western Ijo, East Kalahari, Ijaw, Ijo, Ijo (Central Western), Ijo (Kolokuma), Ijo (North-Central), Izo, Kolokuma, Kolokuma Ijo, North Central Tshu-Khwe, North-Central, Uzo, Ịjọ]
 population: 2150000
@@ -16,6 +14,12 @@ glottolog_family_id: ijoi1239
 glottolog_family_name: Ijoid
 glottolog_classification: "Ijoid > Ijo > Western Ijo > Izon"
 wikipedia_url: "https://en.wikipedia.org/wiki/Izon_language"
+translations:
+  - translation_iso: jpn
+    name: イゾン語
+  - translation_iso: zho
+    name: 伊宗语
+    auto: true
 rolv_dialects:
   - rolv_code: 2392
     language_tag: ijc-x-HIS02392

@@ -1,8 +1,6 @@
 ---
 iso: ijs
 name: Southeast Ijo
-name_zh: 东南伊乔语
-name_zh_auto: true
 autonym: Akassa
 alt_names: [Brass Ijo, Ijaw, "Ijo, Southeast", Ịjọ]
 population: 71500
@@ -16,6 +14,10 @@ glottolog_family_id: ijoi1239
 glottolog_family_name: Ijoid
 glottolog_classification: "Ijoid > Ijo > Eastern Ijo > Southeast Ijo"
 wikipedia_url: "https://en.wikipedia.org/wiki/Southeast_Ijo"
+translations:
+  - translation_iso: zho
+    name: 东南伊乔语
+    auto: true
 rolv_dialects:
   - rolv_code: 2396
     language_tag: ijs-x-HIS02396

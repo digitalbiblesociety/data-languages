@@ -1,7 +1,6 @@
 ---
 iso: khu
 name: Nkhumbi
-name_zh: 恩昆比语
 autonym: Khumbi
 alt_names: [Humbe, Ngumbi, Nkumbi, Otjingumbi]
 population: 637000
@@ -15,5 +14,8 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > Central-Western Bantu > Njila > Southern Njila > Kunene > Cimbebasia > Nyaneka-Nkhumbi > Nkhumbi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Nkumbi_language"
+translations:
+  - translation_iso: zho
+    name: 恩昆比语
 ---
 Nkumbi, Humbe, or Khumbi, is a Bantu language of Angola.

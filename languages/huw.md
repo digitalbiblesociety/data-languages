@@ -1,8 +1,6 @@
 ---
 iso: huw
 name: Hukumina
-name_zh: 胡库米纳语
-name_zh_auto: true
 autonym: Bambaa
 population: null
 country_id: ID
@@ -15,6 +13,12 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > West Central Maluku > Sula-Buru > Buruic > Hukumina"
 wikipedia_url: "https://en.wikipedia.org/wiki/Hukumina_language"
+translations:
+  - translation_iso: jpn
+    name: フクミナ語
+  - translation_iso: zho
+    name: 胡库米纳语
+    auto: true
 rolv_dialects:
   - rolv_code: 15437
     language_tag: huw-x-HIS15437

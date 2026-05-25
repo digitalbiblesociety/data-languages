@@ -1,8 +1,6 @@
 ---
 iso: tks
 name: Takestani
-name_zh: 塔克斯坦尼语
-name_zh_auto: true
 autonym: Tâti تاتی زبون
 alt_names: [Dialectes tats, S. Tati, Southern, Southern Tati, Takistani, Tati, Tati (Southern), Тати, تاتی تبار زوونون, زبان‌های تاتی‌تبار]
 population: 395000
@@ -16,6 +14,10 @@ glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Iranian-Nuristani > Iranian > Central Iranian PBS > Central Iranian PB > Northwestern Iranian > Adharic > Tatic > Southern Tatic > Ramand-Karaj > Takestani"
 wikipedia_url: "https://en.wikipedia.org/wiki/Takestani_language"
+translations:
+  - translation_iso: zho
+    name: 塔克斯坦尼语
+    auto: true
 rolv_dialects:
   - rolv_code: 17085
     language_tag: tks-x-HIS17085

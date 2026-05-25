@@ -1,8 +1,6 @@
 ---
 iso: bop
 name: Bonkiman
-name_zh: 邦基曼语
-name_zh_auto: true
 autonym: null
 population: 175
 country_id: PG
@@ -15,5 +13,9 @@ glottolog_family_id: nucl1709
 glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Finisterre-Huon > Finisterre-Saruwaged > Yupna > Kewieng-Bonkiman-Nokopo > Bonkiman"
 wikipedia_url: "https://en.wikipedia.org/wiki/Bonkiman_language"
+translations:
+  - translation_iso: zho
+    name: 邦基曼语
+    auto: true
 ---
 Bonkiman is one of the Finisterre languages of Papua New Guinea.

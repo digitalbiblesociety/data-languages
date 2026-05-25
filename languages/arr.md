@@ -1,8 +1,6 @@
 ---
 iso: arr
 name: Karo (Brazil)
-name_zh: 卡罗语
-name_zh_auto: true
 autonym: Ramarama
 alt_names: [Arara, Arara (Tupi), Arara Urukú, Arara-Karo, Arara-Urukú, Arra (Rondonia), Arára, Arára do Jiparaná, Itanga, Itogapuc, Itogapuk, Itogapúk, Karo, Karó (Arára), Káro, Ntogapid, Ntogapig, Uruku, Urukú]
 population: 170
@@ -16,5 +14,11 @@ glottolog_family_id: tupi1275
 glottolog_family_name: Tupian
 glottolog_classification: "Tupian > Purubora-Ramarama > Ramarama > Karo (Brazil)"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ramarama_language"
+translations:
+  - translation_iso: jpn
+    name: ラマラマ語
+  - translation_iso: zho
+    name: 卡罗语
+    auto: true
 ---
 Ramarama, also known as Karo, is a Tupian language of Brazil.

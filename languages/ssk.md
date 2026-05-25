@@ -1,8 +1,6 @@
 ---
 iso: ssk
 name: Sunam
-name_zh: 苏纳姆语
-name_zh_auto: true
 autonym: Central Kinnauri
 alt_names: [Kanāwri, Sangnaur, Sungam, Sungnam, Thebarshad, Thebor, Thebör Skadd]
 population: 560
@@ -16,5 +14,11 @@ glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Bodic > West Himalayish > Eastern West Himalayish > Central-Eastern West Himalayish > Sunam"
 wikipedia_url: "https://en.wikipedia.org/wiki/Sunam_language"
+translations:
+  - translation_iso: jpn
+    name: スナム語
+  - translation_iso: zho
+    name: 苏纳姆语
+    auto: true
 ---
 Sunam is an underdocumented Sino-Tibetan language spoken in Sunnam village, Kinnaur district, Himachal Pradesh, India.

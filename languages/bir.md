@@ -1,8 +1,6 @@
 ---
 iso: bir
 name: Bisorio
-name_zh: 比索里奥语
-name_zh_auto: true
 autonym: " Malamauda"
 alt_names: [Bi, Bigalu, Bikaru, Bugalu, Gne, Iniai, Inyai-Gadio-Bisorio, Pikaru, Sidi]
 population: 260
@@ -15,6 +13,10 @@ glottocode: biso1243
 glottolog_family_id: nucl1709
 glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Enga-Kewa-Huli > Engan > Outer Enga > Bisorio"
+translations:
+  - translation_iso: zho
+    name: 比索里奥语
+    auto: true
 rolv_dialects:
   - rolv_code: 8181
     language_tag: bir-x-HIS08181

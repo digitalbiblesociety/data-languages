@@ -1,8 +1,6 @@
 ---
 iso: yik
 name: Dongshanba Lalo
-name_zh: 东山坝-拉罗语
-name_zh_auto: true
 autonym: Western Yi
 alt_names: [Lalo, "Lalo, Dongshanba", "Lalo,Dongshanba", Lalu, Lalupa, Lolo, Yi, "Yi, Xishan Lalu"]
 population: 30000
@@ -15,4 +13,8 @@ glottocode: dong1286
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Burmo-Qiangic > Lolo-Burmese > Loloish > Ni-Li-Kazhouish > Lisoid > Nuclear Lisoid > Lisu-Laluba-Lavu > Laluba-Lavu > Lalo > Greater Lalo > Core Lalo > Dongshanba Lalo"
+translations:
+  - translation_iso: zho
+    name: 东山坝-拉罗语
+    auto: true
 ---

@@ -1,7 +1,6 @@
 ---
 iso: cpg
 name: Cappadocian Greek
-name_zh: 卡帕多西亚希腊语
 autonym: null
 alt_names: [Asia Minor Greek, Capadoci, Cappadocian, Cappadocien, Grec cappadocien (Grèce), Grec cappadocien (Turquie), "Greek, Cappadocian", Grego capadocio, Gresianeg Kappadokia, Griego capadocio (Turquía), Kapadokya Yunancası, Kapadóčtina, Kappadokische Sprache, Kappadokiska, Καππαδοκική διάλεκτος, Каппадокийский язык, Каппадокійська мова]
 population: 2800
@@ -15,6 +14,15 @@ glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Graeco-Phrygian > Greek > South Greek > Central Greek > Koineic Greek > Modern Koineic Greek > Pontic-Cappadocian Greek > Cappadocian Greek"
 wikipedia_url: "https://en.wikipedia.org/wiki/Cappadocian_Greek"
+translations:
+  - translation_iso: ara
+    name: يونانية كبادوكية
+  - translation_iso: jpn
+    name: カッパドキアのギリシア人
+  - translation_iso: kor
+    name: 카파도키아 그리스어
+  - translation_iso: zho
+    name: 卡帕多西亚希腊语
 rolv_dialects:
   - rolv_code: 24688
     language_tag: cpg-x-HIS24688

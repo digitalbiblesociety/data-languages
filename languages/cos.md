@@ -1,7 +1,6 @@
 ---
 iso: cos
 name: Corsican
-name_zh: 科西嘉语
 autonym: corsu
 alt_names: [Bahasa Corsica, Bahasa Korsika, Cors, Corse, Corseg, Corsi, Corsica-gí, Corsicaans, Corsicagiella, Corso, Còrs, Idioma corso, Język korsykański, Khô-sî-kâ-ngî, Korseg, Korsika keel, Korsika lingvo, Korsikaans, Korsikaca, Korsikan kieli, Korsikan tili, Korsikansk, Korsikanska, Korsikera, Korsikiečių kalba, Korsikāņu valoda, Korsische Spraak, Korsische Sprache, Korsičtina, Korsîkî, Korzikai nyelv, Korzički jezik, Lengua corsa, Limba corsicana, Limba corsicană, Lingua corsa, Língua corsa, Łéngua corsa, Κορσικανική γλώσσα, Корзикански јазик, Корсика тили, Корсикан чĕлхи, Корсиканский язык, زبان کرسی, كورسىكا تىلى, لغة كورسية, コルシカ語, 科西嘉语, 코르시카어]
 population: 151000
@@ -16,6 +15,17 @@ glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Italic > Latino-Faliscan > Latinic > Imperial Latin > Romance > Italo-Western Romance > Italo-Dalmatian > Italian Romance > Central Italian Romance > Corsic > Corsican"
 wikipedia_url: "https://en.wikipedia.org/wiki/Corsican_language"
+translations:
+  - translation_iso: ara
+    name: الكورسيكية
+  - translation_iso: hin
+    name: कोर्सीकन
+  - translation_iso: jpn
+    name: コルシカ語
+  - translation_iso: kor
+    name: 코르시카어
+  - translation_iso: zho
+    name: 科西嘉语
 rolv_dialects:
   - rolv_code: 9013
     language_tag: co-x-HIS09013

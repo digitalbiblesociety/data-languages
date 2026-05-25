@@ -1,7 +1,6 @@
 ---
 iso: tss
 name: Taiwan Sign Language
-name_zh: 台湾手语
 autonym: Taiwan Ziran Shouyu
 alt_names: [Língua de Sinais de Taiwan, Taiwanese Sign Language, Taiwanese Sign Language (Ziran Shouyu), 台灣手語]
 population: 24000
@@ -15,6 +14,13 @@ glottolog_family_id: sign1238
 glottolog_family_name: Sign Language
 glottolog_classification: "Sign Language > L1 Sign Language > JSLic > Taiwan Sign Language"
 wikipedia_url: "https://en.wikipedia.org/wiki/Taiwan_Sign_Language"
+translations:
+  - translation_iso: jpn
+    name: 台湾手話
+  - translation_iso: kor
+    name: 대만 수화
+  - translation_iso: zho
+    name: 台湾手语
 rolv_dialects:
   - rolv_code: 20682
     language_tag: tss-x-HIS20682

@@ -1,8 +1,6 @@
 ---
 iso: bhj
 name: Bahing
-name_zh: 巴欣语
-name_zh_auto: true
 autonym: Baying
 alt_names: [Bahing jezik, Bahingeg, Bayung, Bhojpuri, Bāhing, Khaling, Kiranti-Bayung, Lenga Bahing, Rai, ภาษาบาฮิง]
 population: 10000
@@ -16,6 +14,10 @@ glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Himalayish > Mahakiranti > Kiranti > Northwestern Kiranti > Bahing-Sunwar > Bahing"
 wikipedia_url: "https://en.wikipedia.org/wiki/Bahing_language"
+translations:
+  - translation_iso: zho
+    name: 巴欣语
+    auto: true
 rolv_dialects:
   - rolv_code: 4172
     language_tag: bhj-x-HIS04172

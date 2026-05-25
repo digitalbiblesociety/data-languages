@@ -1,8 +1,6 @@
 ---
 iso: gnz
 name: Ganzi
-name_zh: 甘子语
-name_zh_auto: true
 autonym: null
 alt_names: [Central African Republic]
 population: 1400
@@ -15,4 +13,8 @@ glottocode: ganz1247
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Cameroun-Ubangian > Ubangi > Ubangi Ka > Mundu-Baka > Western Mundu-Baka > Baka-Gundi > Baka complex > Ganzi"
+translations:
+  - translation_iso: zho
+    name: 甘子语
+    auto: true
 ---

@@ -1,8 +1,6 @@
 ---
 iso: pru
 name: Puragi
-name_zh: 普拉吉语
-name_zh_auto: true
 autonym: Iwaro
 alt_names: [Mogao]
 population: 700
@@ -16,5 +14,9 @@ glottolog_family_id: sout3418
 glottolog_family_name: "South Bird's Head"
 glottolog_classification: "South Bird's Head > Nuclear South Bird's Head > Puragi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Puragi_language"
+translations:
+  - translation_iso: zho
+    name: 普拉吉语
+    auto: true
 ---
 Puragi is a Papuan language of the Bird's Head Peninsula spoken in Puragi and Saga villages, Matemani District, South Sorong Regency, Southwest Papua.

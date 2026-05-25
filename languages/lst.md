@@ -1,8 +1,6 @@
 ---
 iso: lst
 name: Trinidad and Tobago Sign Language
-name_zh: 特立尼达和多巴哥手语
-name_zh_auto: true
 autonym: Trinidadian Sign Language (TSL)
 alt_names: [TSL, TTSL, Trinidad Sign Language]
 population: 1360
@@ -16,6 +14,12 @@ glottolog_family_id: sign1238
 glottolog_family_name: Sign Language
 glottolog_classification: "Sign Language > L1 Sign Language > LSFic > ASLic > American Sign > Modern Trinidad and Tobago Sign Language"
 wikipedia_url: "https://en.wikipedia.org/wiki/Trinidad_and_Tobago_Sign_Language"
+translations:
+  - translation_iso: jpn
+    name: トリニダード・トバゴ手話
+  - translation_iso: zho
+    name: 特立尼达和多巴哥手语
+    auto: true
 rolv_dialects:
   - rolv_code: 25191
     language_tag: lst-x-HIS25191

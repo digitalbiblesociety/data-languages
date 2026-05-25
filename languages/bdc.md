@@ -1,8 +1,6 @@
 ---
 iso: bdc
 name: "Emberá-Baudó"
-name_zh: 埃姆贝拉-鲍多语
-name_zh_auto: true
 autonym: Catrú
 alt_names: [Baudo, Baudó, Catio, Embera-Baudo, Sia pedee, Southern Emberá]
 population: 5000
@@ -16,5 +14,9 @@ glottolog_family_id: choc1280
 glottolog_family_name: Chocoan
 glottolog_classification: "Chocoan > Embera > Atrato > Panama-Baudo-Atrato > Emberá-Baudó"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ember%C3%A1_Baud%C3%B3"
+translations:
+  - translation_iso: zho
+    name: 埃姆贝拉-鲍多语
+    auto: true
 ---
 Baudó Emberá also known as Baudó is an Embera language of Colombia. It is partially intelligible with both Northern Embera and Eperara, and it is not clear which branch of Embera it belongs to.

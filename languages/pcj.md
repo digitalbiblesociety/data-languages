@@ -1,7 +1,6 @@
 ---
 iso: pcj
 name: Parenga
-name_zh: 戈鲁姆语
 autonym: Gorum
 alt_names: [Gadaba, Gorum Sama, Gorumo, Pareng, Parenga Parja, Parengi, Parengi Poroja, Parenji, Poroja]
 population: 12646
@@ -15,6 +14,13 @@ glottolog_family_id: aust1305
 glottolog_family_name: Austroasiatic
 glottolog_classification: "Austroasiatic > Mundaic > Sora-Juray-Gorum > Gorum-Parenga"
 wikipedia_url: "https://en.wikipedia.org/wiki/Gorum_language"
+translations:
+  - translation_iso: hin
+    name: गोरुम भाषा
+  - translation_iso: jpn
+    name: パレンガ語
+  - translation_iso: zho
+    name: 戈鲁姆语
 rolv_dialects:
   - rolv_code: 3507
     language_tag: pcj-x-HIS03507

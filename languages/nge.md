@@ -1,8 +1,6 @@
 ---
 iso: nge
 name: Ngemba
-name_zh: 恩格姆巴语
-name_zh_auto: true
 autonym: Ngemba
 alt_names: [Megimba, Mogimba, Mundum, Ngomba, Nguemba]
 population: 18800
@@ -16,6 +14,12 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Wide Grassfields > Narrow Grassfields > Mbam-Nkam > Southern Mbam-Nkam > Ngembaic > Mankonic > Ngemba"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mankon_language"
+translations:
+  - translation_iso: jpn
+    name: マンコン語
+  - translation_iso: zho
+    name: 恩格姆巴语
+    auto: true
 rolv_dialects:
   - rolv_code: 2642
     language_tag: nge-x-HIS02642

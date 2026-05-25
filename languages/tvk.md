@@ -1,8 +1,6 @@
 ---
 iso: tvk
 name: Southeast Ambrym
-name_zh: 东安布里姆语
-name_zh_auto: true
 autonym: Taveak
 alt_names: [Ambrym (Southeast), "Ambrym, Southeast", South-East Ambrym, Vatlongos]
 population: 2000
@@ -16,6 +14,10 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > North and Central Vanuatu > Central Vanuatu > Ambrym > Southeast Ambrym"
 wikipedia_url: "https://en.wikipedia.org/wiki/Southeast_Ambrym_language"
+translations:
+  - translation_iso: zho
+    name: 东安布里姆语
+    auto: true
 rolv_dialects:
   - rolv_code: 4572
     language_tag: tvk-x-HIS04572

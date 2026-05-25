@@ -1,8 +1,6 @@
 ---
 iso: ykm
 name: Kap
-name_zh: 卡普语
-name_zh_auto: true
 autonym: Kap
 alt_names: [Ali, Yakamul]
 population: 3460
@@ -16,6 +14,10 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > North New Guinea linkage > Schouten linkage > Siau > Sissano-Tumleo > Ali-Tumleo > Kap"
 wikipedia_url: "https://en.wikipedia.org/wiki/Yakamul_language"
+translations:
+  - translation_iso: zho
+    name: 卡普语
+    auto: true
 rolv_dialects:
   - rolv_code: 518
     language_tag: ykm-x-HIS00518

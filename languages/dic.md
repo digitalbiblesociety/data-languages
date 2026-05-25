@@ -1,8 +1,6 @@
 ---
 iso: dic
 name: Lakota Dida
-name_zh: 拉科塔迪达语
-name_zh_auto: true
 autonym: Brabori
 alt_names: [Dida, "Dida, Lakota", Dieko, Gabo, Guébie, Satro, Vata, Ziki]
 population: 93800
@@ -15,6 +13,10 @@ glottocode: lako1244
 glottolog_family_id: krua1234
 glottolog_family_name: Kru
 glottolog_classification: "Kru > Eastern Kru > Neyo-Dida > Dida > Guebie-Lakota Dida > Lakota Dida"
+translations:
+  - translation_iso: zho
+    name: 拉科塔迪达语
+    auto: true
 rolv_dialects:
   - rolv_code: 9252
     language_tag: dic-x-HIS09252

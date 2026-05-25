@@ -1,8 +1,6 @@
 ---
 iso: rbb
 name: Rumai Palaung
-name_zh: 鲁迈帕劳语
-name_zh_auto: true
 autonym: " Ta'ang"
 alt_names: [Humai, Palaung, Palaung Rumai, "Palaung, Rumai", Rumai, Ruomai, Shan States Palaung]
 population: 162100
@@ -15,4 +13,8 @@ glottocode: ruma1248
 glottolog_family_id: aust1305
 glottolog_family_name: Austroasiatic
 glottolog_classification: "Austroasiatic > Khasi-Palaung > Palaungic > West Palaungic > Rumai Palaung"
+translations:
+  - translation_iso: zho
+    name: 鲁迈帕劳语
+    auto: true
 ---

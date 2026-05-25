@@ -1,7 +1,6 @@
 ---
 iso: zkr
 name: Zakhring
-name_zh: 扎话
 autonym: Meyor
 alt_names: [Charumba, Zaiwa, Zha, 扎話, 扎語]
 population: 300
@@ -15,5 +14,10 @@ glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Kman-Meyor > Zakhring"
 wikipedia_url: "https://en.wikipedia.org/wiki/Zakhring_language"
+translations:
+  - translation_iso: hin
+    name: जैवा भाषा
+  - translation_iso: zho
+    name: 扎话
 ---
 Zahkring is a language of Arunachal Pradesh and 3 villages in Tibet.

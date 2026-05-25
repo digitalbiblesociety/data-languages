@@ -1,8 +1,6 @@
 ---
 iso: bvq
 name: Birri
-name_zh: 比里语
-name_zh_auto: true
 autonym: Biri
 alt_names: [Bviri, Viri]
 population: 200
@@ -16,6 +14,12 @@ glottolog_family_id: cent2225
 glottolog_family_name: Central Sudanic
 glottolog_classification: "Central Sudanic > Membi-Mangbutu-Efe > Birri"
 wikipedia_url: "https://en.wikipedia.org/wiki/Birri_language"
+translations:
+  - translation_iso: ara
+    name: بيري
+  - translation_iso: zho
+    name: 比里语
+    auto: true
 rolv_dialects:
   - rolv_code: 8171
     language_tag: bvq-x-HIS08171

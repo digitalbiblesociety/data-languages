@@ -1,7 +1,6 @@
 ---
 iso: con
 name: Cofán
-name_zh: 阿依语
 autonym: "A'ingae"
 alt_names: ["A'i", "A'ingaé", A’ingae (Équateur), A’ingaé, Cofan, Cofán (Colombie), Cofán (Ecuador), Colin, Kofan, Kofane, Kofán]
 population: 1020
@@ -12,6 +11,11 @@ latitude: 0.276675
 longitude: -77.064305
 glottocode: cofa1242
 wikipedia_url: "https://en.wikipedia.org/wiki/Cof%C3%A1n_language"
+translations:
+  - translation_iso: jpn
+    name: アイ語
+  - translation_iso: zho
+    name: 阿依语
 rolv_dialects:
   - rolv_code: 8998
     language_tag: con-x-HIS08998

@@ -1,8 +1,6 @@
 ---
 iso: bwg
 name: Barwe
-name_zh: 巴韦语
-name_zh_auto: true
 autonym: Balke
 alt_names: [Cibalke]
 population: 17000
@@ -15,4 +13,10 @@ glottocode: barw1243
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > East Bantu > Tumbuka-Sena-Nyanja > Sena-Nyanja > Senaic > Barwe"
+translations:
+  - translation_iso: jpn
+    name: バルウェ語
+  - translation_iso: zho
+    name: 巴韦语
+    auto: true
 ---

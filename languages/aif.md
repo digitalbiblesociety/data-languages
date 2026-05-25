@@ -1,8 +1,6 @@
 ---
 iso: aif
 name: Agi
-name_zh: 阿吉语
-name_zh_auto: true
 autonym: null
 alt_names: [Metru]
 population: 960
@@ -16,5 +14,9 @@ glottolog_family_id: nucl1708
 glottolog_family_name: Nuclear Torricelli
 glottolog_classification: "Nuclear Torricelli > Wapei-Palei > West Palai > Agi-Yeri > Agi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Agi_language"
+translations:
+  - translation_iso: zho
+    name: 阿吉语
+    auto: true
 ---
 Agi is a Torricelli language of Papua New Guinea.

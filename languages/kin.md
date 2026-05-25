@@ -1,7 +1,6 @@
 ---
 iso: kin
 name: Kinyarwanda
-name_zh: 卢旺达语
 autonym: Ikinyarwanda
 alt_names: [Bahasa Kinyarwanda, Język ruanda-rundi, Kiņaruandas valoda, Lingua kinyarwanda, Língua kinyarwanda, Orunyarwanda, Ruanda, Ruanda lingvo, Ruandan kieli, Runyarwanda, Rwanda, Rwanda jezik, Rwanda language, Rwanda simi, Rwandum, Urunyaruanda, Киняруанда, Руанда, কিনিয়ারোয়ান্ডা ভাষা, கின்யருவாண்டா மொழி, ルワンダ語, 卢旺达语, 키냐르완다어]
 population: 12100000
@@ -16,6 +15,17 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > East Bantu > Northeast Savanna Bantu > Great Lakes Bantu > Western Lakes Bantu > Kivu > West Highlands Kivu > Kinyarwanda"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kinyarwanda"
+translations:
+  - translation_iso: ara
+    name: الكينيارواندية
+  - translation_iso: hin
+    name: किन्यारुआण्डा भाषा
+  - translation_iso: jpn
+    name: ルワンダ語
+  - translation_iso: kor
+    name: 키냐르완다어
+  - translation_iso: zho
+    name: 卢旺达语
 rolv_dialects:
   - rolv_code: 1285
     language_tag: rw-x-HIS01285

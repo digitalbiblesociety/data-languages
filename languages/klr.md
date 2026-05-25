@@ -1,8 +1,6 @@
 ---
 iso: klr
 name: Khaling
-name_zh: 哈林语
-name_zh_auto: true
 autonym: खालिङ
 alt_names: ["C'halingeg", Jalingo, Kaling, Khael Baat, Khael Bra, Khalinge Rai, Rai]
 population: 14500
@@ -16,6 +14,10 @@ glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Himalayish > Mahakiranti > Kiranti > Upper Dudhkosi > Khaling"
 wikipedia_url: "https://en.wikipedia.org/wiki/Khaling_language"
+translations:
+  - translation_iso: zho
+    name: 哈林语
+    auto: true
 rolv_dialects:
   - rolv_code: 26399
     language_tag: klr-x-HIS26399

@@ -1,8 +1,6 @@
 ---
 iso: nzr
 name: Dir-Nyamzak-Mbarimi
-name_zh: 迪尔-尼亚姆扎克-姆巴里米语
-name_zh_auto: true
 autonym: Barawa
 alt_names: [Lundur]
 population: 22000
@@ -15,6 +13,10 @@ glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > West Chadic > West Chadic B > West Chadic B.3 > South Bauchi West > Northwest South Bauchi > Polci-Luri > Polcic > Zulic > Dir-Nyamzak-Mbarimi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Dir-Nyamzak-Mbarimi_language"
+translations:
+  - translation_iso: zho
+    name: 迪尔-尼亚姆扎克-姆巴里米语
+    auto: true
 rolv_dialects:
   - rolv_code: 2002
     language_tag: plj-x-HIS02002

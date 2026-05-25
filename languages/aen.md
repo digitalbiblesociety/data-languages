@@ -1,8 +1,6 @@
 ---
 iso: aen
 name: Armenian Sign Language
-name_zh: 亚美尼亚手语
-name_zh_auto: true
 autonym: Հայերեն ժեստերի լեզու
 population: 3150
 country_id: AM
@@ -15,5 +13,11 @@ glottolog_family_id: sign1238
 glottolog_family_name: Sign Language
 glottolog_classification: "Sign Language > Auxiliary Sign Systems > Baraninsky Armenian Sign Language"
 wikipedia_url: "https://en.wikipedia.org/wiki/Armenian_Sign_Language"
+translations:
+  - translation_iso: jpn
+    name: アルメニア手話
+  - translation_iso: zho
+    name: 亚美尼亚手语
+    auto: true
 ---
 Armenian Sign Language is the deaf sign language of Armenia.

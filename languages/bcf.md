@@ -1,8 +1,6 @@
 ---
 iso: bcf
 name: Bamu
-name_zh: 巴穆语
-name_zh_auto: true
 autonym: Bamu Kiwai
 alt_names: [Sisiame]
 population: 6310
@@ -16,6 +14,10 @@ glottolog_family_id: kiwa1251
 glottolog_family_name: Kiwaian
 glottolog_classification: "Kiwaian > Bamu"
 wikipedia_url: "https://en.wikipedia.org/wiki/Bamu_language"
+translations:
+  - translation_iso: zho
+    name: 巴穆语
+    auto: true
 rolv_dialects:
   - rolv_code: 385
     language_tag: bcf-x-HIS00385

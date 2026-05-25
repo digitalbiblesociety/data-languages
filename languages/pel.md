@@ -1,8 +1,6 @@
 ---
 iso: pel
 name: Pekal
-name_zh: 佩卡尔语
-name_zh_auto: true
 autonym: bahasa Pekal
 alt_names: [Indonesia]
 population: 30000
@@ -16,5 +14,9 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Malayo-Chamic > Malayic > Nuclear Malayic > Northern Sumatra Malay > Kerinci-Minangkabau > Minangkabauic > Pekal"
 wikipedia_url: "https://en.wikipedia.org/wiki/Pekal_language"
+translations:
+  - translation_iso: zho
+    name: 佩卡尔语
+    auto: true
 ---
 Pekal is a Malayic language spoken by around 30,000 people on the island of Sumatra in Indonesia, more specifically in Mukomuko Regency in Bengkulu Province. It should not be confused with Mukomuko language which is much more closely related but distinct from Pekal. It also has a considerable influence from Rejang language, which is the most widely spoken language in the province.

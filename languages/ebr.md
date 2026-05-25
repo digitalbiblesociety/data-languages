@@ -1,8 +1,6 @@
 ---
 iso: ebr
 name: Ebrié
-name_zh: 埃布里埃语
-name_zh_auto: true
 autonym: Cama
 alt_names: [Caman, Ebrie, Kyama, Tchaman, Tsama, Tyama]
 population: 152000
@@ -16,5 +14,11 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Kwa Volta-Congo > Nyo > Potou-Tano > Potou > Ebrié"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ebri%C3%A9_language"
+translations:
+  - translation_iso: jpn
+    name: エブリエ語
+  - translation_iso: zho
+    name: 埃布里埃语
+    auto: true
 ---
 Ebrié, or Cama, is spoken by the Tchaman people in Ivory Coast and Ghana. It is a Potou language of the Kwa branch of the Niger–Congo family of languages.

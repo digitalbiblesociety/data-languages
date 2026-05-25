@@ -1,8 +1,6 @@
 ---
 iso: cax
 name: Chiquitano
-name_zh: 奇基塔诺语
-name_zh_auto: true
 autonym: Besïro
 alt_names: [Chikitano, Chikitanu simi, Chiquit(an)o, Chiquitano (Brasil), Chiquitano (Brésil), Chiquitano (État plurinational de Bolivie), Chiquito, Idioma chiquitano, Tao, Tarapecosi, Чикитано јазик]
 population: 2000
@@ -16,6 +14,10 @@ glottolog_family_id: chiq1253
 glottolog_family_name: Chiquitano
 glottolog_classification: "Chiquitano > Lomeriano-Ignaciano Chiquitano"
 wikipedia_url: "https://en.wikipedia.org/wiki/Chiquitano_language"
+translations:
+  - translation_iso: zho
+    name: 奇基塔诺语
+    auto: true
 rolv_dialects:
   - rolv_code: 3243
     language_tag: cax-x-HIS03243

@@ -1,8 +1,6 @@
 ---
 iso: gbh
 name: Defi Gbe
-name_zh: 德菲格贝语
-name_zh_auto: true
 autonym: fɔ̀ngbè/fõbè
 alt_names: [Benin, "Gbe, Defi"]
 population: 13500
@@ -15,4 +13,8 @@ glottocode: defi1235
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Kwa Volta-Congo > Gbe > Eastern Gbe > Fongbeic > Defi Gbe"
+translations:
+  - translation_iso: zho
+    name: 德菲格贝语
+    auto: true
 ---

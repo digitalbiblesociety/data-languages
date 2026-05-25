@@ -1,7 +1,6 @@
 ---
 iso: dty
 name: Dotyali
-name_zh: 都特利语
 autonym: Dotyali
 population: 788000
 country_id: NP
@@ -15,6 +14,13 @@ glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Indo-Aryan > Middle-Modern Indo-Aryan > Continental Indo-Aryan > Midlands Indo-Aryan > Indo-Aryan Northern zone > Eastern Pahari > Dotyali"
 wikipedia_url: "https://en.wikipedia.org/wiki/Doteli"
+translations:
+  - translation_iso: hin
+    name: डोटेली भाषा
+  - translation_iso: jpn
+    name: ドテリ語
+  - translation_iso: zho
+    name: 都特利语
 rolv_dialects:
   - rolv_code: 24871
     language_tag: dty-x-HIS24871

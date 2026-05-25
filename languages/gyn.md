@@ -1,7 +1,6 @@
 ---
 iso: gyn
 name: Guyanese Creole English
-name_zh: 圭亚那克里奥尔语
 autonym: Creolese
 alt_names: ["Creole English, Guyanese", Gajanos kreolų kalba, Guyanese Creole]
 population: 715200
@@ -15,6 +14,13 @@ glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Germanic > Northwest Germanic > West Germanic > North Sea Germanic > Anglo-Frisian > Anglic > Later Anglic > Middle-Modern English > Macro-English > Guinea Coast Creole English > Caribbean English Creole > Eastern Caribbean Creole > Barbados-Eustatius > Barbados-Trinidad > Guyanese Creole English"
 wikipedia_url: "https://en.wikipedia.org/wiki/Guyanese_Creole"
+translations:
+  - translation_iso: hin
+    name: गयानी क्रेओल
+  - translation_iso: jpn
+    name: ガイアナ・クレオール語
+  - translation_iso: zho
+    name: 圭亚那克里奥尔语
 rolv_dialects:
   - rolv_code: 10490
     language_tag: gyn-x-HIS10490

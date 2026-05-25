@@ -1,13 +1,15 @@
 ---
 iso: lth
 name: Thur
-name_zh: 图尔语
-name_zh_auto: true
 autonym: null
 population: null
 country_id: UG
 country_name: Uganda
 status_id: null
+translations:
+  - translation_iso: zho
+    name: 图尔语
+    auto: true
 rolv_dialects:
   - rolv_code: 25193
     language_tag: lth-x-HIS25193

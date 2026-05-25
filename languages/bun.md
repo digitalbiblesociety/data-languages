@@ -1,8 +1,6 @@
 ---
 iso: bun
 name: Sherbro
-name_zh: 舍尔布罗语
-name_zh_auto: true
 autonym: Amampa
 alt_names: [Bullom, Bulom, Cherbroeg, Mampa, Mampwa, Shiba, Southern Bullom]
 population: 179000
@@ -16,6 +14,10 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Mel > Southern Mel > Bullom > Sherbro"
 wikipedia_url: "https://en.wikipedia.org/wiki/Sherbro_language"
+translations:
+  - translation_iso: zho
+    name: 舍尔布罗语
+    auto: true
 rolv_dialects:
   - rolv_code: 16609
     language_tag: bun-x-HIS16609

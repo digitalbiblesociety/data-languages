@@ -1,8 +1,6 @@
 ---
 iso: ffm
 name: Maasina Fulfulde
-name_zh: 马阿西纳富尔富尔德语
-name_zh_auto: true
 autonym: Maasinankoore
 alt_names: ["Ful (East Maasina), Ful (West Maasina)", Fula, Fulah-Idiome, Fulani, Fulbe, Fulfulde (Maasina), "Fulfulde, Maasina", Maacina, Macina, Peul]
 population: 1523240
@@ -17,6 +15,12 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > North-Central Atlantic > Fula-Sereer > Fula > Maasina Fulfulde"
 wikipedia_url: "https://en.wikipedia.org/wiki/Maasina_Fulfulde"
+translations:
+  - translation_iso: ara
+    name: اللغة الماسينية
+  - translation_iso: zho
+    name: 马阿西纳富尔富尔德语
+    auto: true
 rolv_dialects:
   - rolv_code: 9928
     language_tag: ffm-x-HIS09928

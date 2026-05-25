@@ -1,7 +1,6 @@
 ---
 iso: cbu
 name: "Candoshi-Shapra"
-name_zh: 坎多錫語族
 autonym: "Kandozi-Chapra"
 alt_names: [Candoshi, Candoxi, Candoši, Chapara, Chapra, Idioma candoshi, Kandocheg, Kandoshi, Kandoshi simi, Maina, Murato, Roamaina, Shapra]
 population: 3260
@@ -12,6 +11,9 @@ latitude: -4.23835
 longitude: -76.93474
 glottocode: cand1248
 wikipedia_url: "https://en.wikipedia.org/wiki/Candoshi-Shapra_language"
+translations:
+  - translation_iso: zho
+    name: 坎多錫語族
 rolv_dialects:
   - rolv_code: 8628
     language_tag: cbu-x-HIS08628

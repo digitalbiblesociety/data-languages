@@ -1,8 +1,6 @@
 ---
 iso: kwt
 name: Kwesten
-name_zh: 克韦斯滕语
-name_zh_auto: true
 autonym: bahasa Kwesten
 alt_names: [Kwalhioqua, Kwalhioqua-Clatskanie]
 population: 2000
@@ -16,6 +14,10 @@ glottolog_family_id: toro1256
 glottolog_family_name: Tor-Orya
 glottolog_classification: "Tor-Orya > Tor > Kwesten"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kwesten_language"
+translations:
+  - translation_iso: zho
+    name: 克韦斯滕语
+    auto: true
 rolv_dialects:
   - rolv_code: 1244
     language_tag: kwt-x-HIS01244

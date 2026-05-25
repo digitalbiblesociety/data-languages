@@ -1,8 +1,6 @@
 ---
 iso: pne
 name: Western Penan
-name_zh: 西部佩南语
-name_zh_auto: true
 autonym: Penan
 alt_names: ["\"Punan\"", Nibon, Nibong, "Penan, Western"]
 population: 3400
@@ -15,6 +13,10 @@ glottocode: west2563
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > North Borneo Malayo-Polynesian > North Sarawakan > Kenyahic > Lowland Kenyah > Western Lowland Kenyah-Penan > Penan > Western Penan-Sebop > Western Penan"
+translations:
+  - translation_iso: zho
+    name: 西部佩南语
+    auto: true
 rolv_dialects:
   - rolv_code: 4131
     language_tag: pne-x-HIS04131

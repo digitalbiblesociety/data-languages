@@ -1,7 +1,6 @@
 ---
 iso: kfp
 name: Korwa
-name_zh: 科尔瓦语
 autonym: Koraku
 alt_names: [Ernga, Erngga, Mundari, Mundari-Ho, Singli]
 population: 28500
@@ -15,6 +14,13 @@ glottolog_family_id: aust1305
 glottolog_family_name: Austroasiatic
 glottolog_classification: "Austroasiatic > Mundaic > North Munda > Kherwarian > Mundaric > Kodaku-Korwa > Korwa"
 wikipedia_url: "https://en.wikipedia.org/wiki/Korwa_language"
+translations:
+  - translation_iso: hin
+    name: कोरवा भाषा
+  - translation_iso: jpn
+    name: コルワ語
+  - translation_iso: zho
+    name: 科尔瓦语
 rolv_dialects:
   - rolv_code: 12298
     language_tag: kfp-x-HIS12298

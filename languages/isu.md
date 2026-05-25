@@ -1,8 +1,6 @@
 ---
 iso: isu
 name: Isu (Menchum Division)
-name_zh: 伊苏语（门秋姆分区）
-name_zh_auto: true
 autonym: "Idzəŋi Isu, Idzəŋi Usu"
 alt_names: [Cameroon, Isu, "Isu (Northwest Region, Cameroon)"]
 population: 10400
@@ -16,6 +14,10 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Wide Grassfields > Narrow Grassfields > Ring > Center-West Ring > West Ring > Aghemic > Isu (Menchum Division)"
 wikipedia_url: "https://en.wikipedia.org/wiki/Isu_language"
+translations:
+  - translation_iso: zho
+    name: 伊苏语（门秋姆分区）
+    auto: true
 rolv_dialects:
   - rolv_code: 10987
     language_tag: isu-x-HIS10987

@@ -1,8 +1,6 @@
 ---
 iso: dti
 name: Ana Tinga Dogon
-name_zh: 安那廷加多贡语
-name_zh_auto: true
 autonym: Ana Tiŋa
 alt_names: ["Dogon, Ana Tinga"]
 population: 500
@@ -16,5 +14,9 @@ glottolog_family_id: dogo1299
 glottolog_family_name: Dogon
 glottolog_classification: "Dogon > North Plateau Dogon > Yanda-Bondum-Tebul > Yanda-Ana > Ana Tinga Dogon"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ana_Dogon"
+translations:
+  - translation_iso: zho
+    name: 安那廷加多贡语
+    auto: true
 ---
 Ana Dogon, or Ana Tiŋa, is a Dogon language spoken in Mali. It was first reported online in 2005 by Roger Blench.

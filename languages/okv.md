@@ -1,7 +1,6 @@
 ---
 iso: okv
 name: Orokaiva
-name_zh: 歐羅開巴語
 autonym: Orokaivic
 alt_names: [Ehija, Etija, Kaiva, Ke, Orakaiva]
 population: 35000
@@ -15,6 +14,11 @@ glottolog_family_id: nucl1709
 glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Greater Binanderean > Binanderean > Nuclear Binanderean > South Binanderean > Orokaivic > Orokaiva"
 wikipedia_url: "https://en.wikipedia.org/wiki/Orokaiva_language"
+translations:
+  - translation_iso: jpn
+    name: オロカイヴァ語
+  - translation_iso: zho
+    name: 歐羅開巴語
 rolv_dialects:
   - rolv_code: 15340
     language_tag: okv-x-HIS15340

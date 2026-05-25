@@ -1,8 +1,6 @@
 ---
 iso: kxr
 name: Koro (Papua New Guinea)
-name_zh: 科罗语(巴布亚新几内亚)
-name_zh_auto: true
 autonym: Koro
 population: 400
 country_id: PG
@@ -15,6 +13,12 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Admiralty Islands > Eastern Admiralty Islands > Manus > East Manus > Koro-Lele-Nali-Titan > Manus Koro"
 wikipedia_url: "https://en.wikipedia.org/wiki/Manus_Koro_language"
+translations:
+  - translation_iso: jpn
+    name: コロ語
+  - translation_iso: zho
+    name: 科罗语(巴布亚新几内亚)
+    auto: true
 rolv_dialects:
   - rolv_code: 26206
     language_tag: kxr-x-HIS26206

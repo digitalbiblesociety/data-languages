@@ -1,8 +1,6 @@
 ---
 iso: mhs
 name: Buru (Indonesia)
-name_zh: 布鲁语（印度尼西亚）
-name_zh_auto: true
 autonym: li fuk Buru
 alt_names: [Boeroe, Buru, Buruese]
 population: 14258
@@ -16,6 +14,10 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > West Central Maluku > Sula-Buru > Buruic > Buru (Indonesia)"
 wikipedia_url: "https://en.wikipedia.org/wiki/Buru_language"
+translations:
+  - translation_iso: zho
+    name: 布鲁语（印度尼西亚）
+    auto: true
 rolv_dialects:
   - rolv_code: 8544
     language_tag: mhs-x-HIS08544

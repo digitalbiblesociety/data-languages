@@ -1,8 +1,6 @@
 ---
 iso: mjn
 name: Ma (Papua New Guinea)
-name_zh: 玛语（巴布亚新几内亚）
-name_zh_auto: true
 autonym: Mebu
 alt_names: [Ma, Mawam]
 population: 570
@@ -16,6 +14,10 @@ glottolog_family_id: nucl1709
 glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Finisterre-Huon > Finisterre-Saruwaged > Yupna > Bwana-Moam-Tapen > Ma (Papua New Guinea)"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mebu_language"
+translations:
+  - translation_iso: zho
+    name: 玛语（巴布亚新几内亚）
+    auto: true
 rolv_dialects:
   - rolv_code: 26292
     language_tag: mjn-x-HIS26292

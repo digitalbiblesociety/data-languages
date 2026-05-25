@@ -1,8 +1,6 @@
 ---
 iso: ght
 name: Kuke
-name_zh: 库克语
-name_zh_auto: true
 autonym: Kuke
 alt_names: [Bhotte, Ghale, "Ghale, Kutang", "Ghale,Kutang", Kutang Ghale]
 population: 1300
@@ -16,6 +14,10 @@ glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Bodic > Kaike-Ghale-Tamangic > Ghale-Tamangic > Ghale > Kutang Ghale"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kutang_language"
+translations:
+  - translation_iso: zho
+    name: 库克语
+    auto: true
 rolv_dialects:
   - rolv_code: 10193
     language_tag: ght-x-HIS10193

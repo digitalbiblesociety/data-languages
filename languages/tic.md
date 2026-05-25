@@ -1,8 +1,6 @@
 ---
 iso: tic
 name: Tira
-name_zh: 蒂拉语
-name_zh_auto: true
 autonym: Kanderma
 alt_names: [Lithiro, Thiro, Tiro]
 population: null
@@ -16,6 +14,10 @@ glottolog_family_id: heib1242
 glottolog_family_name: Heibanic
 glottolog_classification: "Heibanic > West-Central Heibanic > Western Heibanic > Tira"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tiro_language"
+translations:
+  - translation_iso: zho
+    name: 蒂拉语
+    auto: true
 rolv_dialects:
   - rolv_code: 935
     language_tag: tic-x-HIS00935

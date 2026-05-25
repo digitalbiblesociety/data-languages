@@ -1,8 +1,6 @@
 ---
 iso: khl
 name: Lusi
-name_zh: 卢西语
-name_zh_auto: true
 autonym: Kaliai
 alt_names: [Kaliai-Kove]
 population: 2000
@@ -16,5 +14,11 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > North New Guinea linkage > Ngero-Vitiaz linkage > Ngero > Eastern Ngero > Kaliai-Kove > Lusi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Lusi_language"
+translations:
+  - translation_iso: jpn
+    name: ルシ語
+  - translation_iso: zho
+    name: 卢西语
+    auto: true
 ---
 Lusi is an Austronesian language of New Britain. Kaliai is a dialect.

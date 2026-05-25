@@ -1,8 +1,6 @@
 ---
 iso: cfa
 name: "Dijim-Bwilim"
-name_zh: 迪吉-布威利姆语
-name_zh_auto: true
 autonym: Cham
 population: 25000
 country_id: NG
@@ -15,6 +13,12 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Gur > Central Gur > Tula-Longuda > Tula-Waja > Tulaic > Dijim-Bwilim"
 wikipedia_url: "https://en.wikipedia.org/wiki/Dikaka_language"
+translations:
+  - translation_iso: jpn
+    name: ディカカ語
+  - translation_iso: zho
+    name: 迪吉-布威利姆语
+    auto: true
 rolv_dialects:
   - rolv_code: 1920
     language_tag: cfa-x-HIS01920

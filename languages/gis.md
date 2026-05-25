@@ -1,8 +1,6 @@
 ---
 iso: gis
 name: North Giziga
-name_zh: 北吉齐加语
-name_zh_auto: true
 autonym: Dogba
 alt_names: [Gisiga, Gisika, Giziga, Giziga de Maroua, "Giziga, North", Guiziga, Marva, Mi Marva, North and Giziga, South, Tchere]
 population: 20000
@@ -16,6 +14,10 @@ glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > Biu-Mandara > North Biu-Mandara > Maroua > Giziga > North Giziga"
 wikipedia_url: "https://en.wikipedia.org/wiki/North_Giziga_language"
+translations:
+  - translation_iso: zho
+    name: 北吉齐加语
+    auto: true
 rolv_dialects:
   - rolv_code: 2889
     language_tag: gis-x-HIS02889

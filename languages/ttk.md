@@ -1,8 +1,6 @@
 ---
 iso: ttk
 name: Totoro
-name_zh: 托托罗语
-name_zh_auto: true
 autonym: Namrrik
 alt_names: [Polindara, Totoró]
 population: 4130
@@ -16,5 +14,9 @@ glottolog_family_id: barb1265
 glottolog_family_name: Barbacoan
 glottolog_classification: "Barbacoan > Coconucan > Totoro"
 wikipedia_url: "https://en.wikipedia.org/wiki/Totoro_language"
+translations:
+  - translation_iso: zho
+    name: 托托罗语
+    auto: true
 ---
 Totoro or Totoró is a Barbacoan language spoken in southwestern Colombia, in Cauca Department by the Totoró people, who number about 1,000 people. Four known speakers of the language were recorded in 1998, but 76 speakers were reported in 2019.

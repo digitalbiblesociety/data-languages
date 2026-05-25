@@ -1,8 +1,6 @@
 ---
 iso: kcv
 name: Kete
-name_zh: 凯特语
-name_zh_auto: true
 autonym: Kikete
 alt_names: [Lukete]
 population: 8400
@@ -16,6 +14,12 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > Central-Western Bantu > Njila > Southern Njila > Chokwe-Lunda > Ruund-Salampasu > Lunda-Ruund-Kete > Ruund-Kete > Kete"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kete_language"
+translations:
+  - translation_iso: jpn
+    name: ケテ語
+  - translation_iso: zho
+    name: 凯特语
+    auto: true
 rolv_dialects:
   - rolv_code: 1219
     language_tag: kcv-x-HIS01219

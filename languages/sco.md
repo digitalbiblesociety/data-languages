@@ -1,7 +1,6 @@
 ---
 iso: sco
 name: Scots
-name_zh: 低地苏格兰语
 autonym: Lowland Scots
 alt_names: ["A' Bheurla Ghallda", Albainis, Baarle Albinagh, Englisc sprǣc, Escocés, Idioma anglico escozés, Ingles de la Scossia, Język scots, Lenga scòts, Lengua scosseise, Limba scots, Lingua Scotica, Lingua escocesa, Lingua inglese di Scozia, Låglandsskotsk språk, Lågskotska, Schots, Scots English, Scots leid, Scots nyelv, Scotsera, Sgoteg, Sjots, Skoska, Skota lingvo, Skotin kieli, Skots, Skotsk, Skotskt, Skotu valoda, Skotština, écossais, Škotski jezik, Škotų kalba, Šoti keel, Σκωτική γλώσσα, Шкотски германски јазик, Шотландский (англо-шотландский) язык, Шотландська (германська) мова, סקוטית, ስኮትኛ, スコットランド語, 低地蘇格蘭語, 스코트어]
 population: 99200
@@ -16,6 +15,17 @@ glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Germanic > Northwest Germanic > West Germanic > North Sea Germanic > Anglo-Frisian > Anglic > Later Anglic > Scots"
 wikipedia_url: "https://en.wikipedia.org/wiki/Scots_language"
+translations:
+  - translation_iso: ara
+    name: إسكتلندية
+  - translation_iso: hin
+    name: स्कौट्स भाषा
+  - translation_iso: jpn
+    name: スコットランド語
+  - translation_iso: kor
+    name: 스코트어
+  - translation_iso: zho
+    name: 低地苏格兰语
 rolv_dialects:
   - rolv_code: 16405
     language_tag: sco-x-HIS16405

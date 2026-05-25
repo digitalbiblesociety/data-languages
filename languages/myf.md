@@ -1,8 +1,6 @@
 ---
 iso: myf
 name: Bambassi
-name_zh: 巴姆巴西语
-name_zh_auto: true
 autonym: Mao of Bambassi
 alt_names: [Amam, Bambeshi, Bambessi Mao, Didessa, Didessa Mao, Fadiro, Mao of Bambeshi, Mao of Diddesa, Northern Mao, Siggoyo]
 population: 5000
@@ -16,5 +14,9 @@ glottolog_family_id: maoo1243
 glottolog_family_name: Blue Nile Mao
 glottolog_classification: "Blue Nile Mao > Bambassi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Bambassi_language"
+translations:
+  - translation_iso: zho
+    name: 巴姆巴西语
+    auto: true
 ---
 Bambassi is an Omotic Afroasiatic language spoken in Ethiopia around the towns of Bambasi and Didessa in the area east of Asosa in Benishangul-Gumuz Region. The parent language group is the East Mao group. Alternative names for the language are Bambeshi, Siggoyo, Amam, Fadiro, Northern Mao, Didessa and Kere.

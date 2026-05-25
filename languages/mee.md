@@ -1,8 +1,6 @@
 ---
 iso: mee
 name: Mengen
-name_zh: 门根语
-name_zh_auto: true
 autonym: Poeng
 population: 8400
 country_id: PG
@@ -15,6 +13,12 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > North New Guinea linkage > Ngero-Vitiaz linkage > Vitiaz linkage > Mengenic > Mamusa-Mengen > Mengen"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mengen_language"
+translations:
+  - translation_iso: jpn
+    name: メンゲン語
+  - translation_iso: zho
+    name: 门根语
+    auto: true
 rolv_dialects:
   - rolv_code: 13994
     language_tag: mee-x-HIS13994

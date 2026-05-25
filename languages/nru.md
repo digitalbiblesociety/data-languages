@@ -1,7 +1,6 @@
 ---
 iso: nru
 name: Narua
-name_zh: 东部方言
 autonym: Na
 alt_names: [Yongning Na]
 population: 47000
@@ -15,5 +14,10 @@ glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Burmo-Qiangic > Na-Qiangic > Naic > Naish > Narua"
 wikipedia_url: "https://en.wikipedia.org/wiki/Na_language"
+translations:
+  - translation_iso: hin
+    name: ना भाषा
+  - translation_iso: zho
+    name: 东部方言
 ---
 Na is a language of the Naish subbranch of the Naic group of the Sino-Tibetan languages.

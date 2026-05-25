@@ -1,7 +1,6 @@
 ---
 iso: slr
 name: Salar
-name_zh: 撒拉语
 autonym: Salırça / 撒拉语
 alt_names: [Sala, Salaarin kieli, Salar dili, Salarca, Salareg, Salarische Sprache, Салар тілі, Саларски јазик, Саларский язык, саларский, زبان سالار, سالار تىلى, ภาษาซาลาร์, サラール語, 撒拉語, 撒拉语, 살라르어]
 population: 130000
@@ -15,6 +14,13 @@ glottolog_family_id: turk1311
 glottolog_family_name: Turkic
 glottolog_classification: "Turkic > Common Turkic > Oghuz > Salar"
 wikipedia_url: "https://en.wikipedia.org/wiki/Salar_language"
+translations:
+  - translation_iso: jpn
+    name: サラール語
+  - translation_iso: kor
+    name: 살라르어
+  - translation_iso: zho
+    name: 撒拉语
 rolv_dialects:
   - rolv_code: 16205
     language_tag: slr-x-HIS16205

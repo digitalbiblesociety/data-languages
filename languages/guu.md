@@ -1,8 +1,6 @@
 ---
 iso: guu
 name: Yanomamö
-name_zh: 亚诺玛默语
-name_zh_auto: true
 autonym: Yąnomamɨ
 alt_names: [Cobari Kobali, Cobariwa, Guaharibo, Guaica, Guaicá, Guajaribo, Shaathari, Shamatari, Shamateri, Shamatri, Yamomame, Yanomaman language area, Yanomame, Yanomami, Yanomamo, Yanomamï, Yanomamɨ, Yanomani]
 population: 16200
@@ -16,6 +14,10 @@ glottolog_family_id: yano1268
 glottolog_family_name: Yanomamic
 glottolog_classification: "Yanomamic > Ninam-Yanomam-Yaroame > Yanomam-Yaroame > Yanomam-Yanimamo > Yanomamö"
 wikipedia_url: "https://en.wikipedia.org/wiki/Yanomam%C3%B6_language"
+translations:
+  - translation_iso: zho
+    name: 亚诺玛默语
+    auto: true
 rolv_dialects:
   - rolv_code: 18468
     language_tag: guu-x-HIS18468

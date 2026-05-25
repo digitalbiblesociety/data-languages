@@ -1,7 +1,6 @@
 ---
 iso: srb
 name: Sora
-name_zh: 索拉语
 autonym: Savara
 alt_names: [Lenga sora, Lingua Sora, Sabar, Sabara, Saonras, Saora, Saura, Sawaria, Shabari, Soːra, Swara, ภาษาโสรา]
 population: 410000
@@ -16,6 +15,15 @@ glottolog_family_id: aust1305
 glottolog_family_name: Austroasiatic
 glottolog_classification: "Austroasiatic > Mundaic > Sora-Juray-Gorum > Sora-Juray > Sora"
 wikipedia_url: "https://en.wikipedia.org/wiki/Sora_language"
+translations:
+  - translation_iso: hin
+    name: सोरा भाषा
+  - translation_iso: jpn
+    name: ソーラ語
+  - translation_iso: kor
+    name: 소라
+  - translation_iso: zho
+    name: 索拉语
 rolv_dialects:
   - rolv_code: 739
     language_tag: srb-x-HIS00739

@@ -1,8 +1,6 @@
 ---
 iso: mjj
 name: Mawak
-name_zh: 玛瓦克语
-name_zh_auto: true
 autonym: null
 population: 25
 country_id: PG
@@ -15,5 +13,9 @@ glottolog_family_id: nucl1709
 glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Madang > Croisilles > Greater Northern Adelbert > Northern Adelbert > Kumil-Tibor > Tibor > Nuclear Tibor > Mawak"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mawak_language"
+translations:
+  - translation_iso: zho
+    name: 玛瓦克语
+    auto: true
 ---
 Mawak is a nearly extinct Papuan language of Madang Province, Papua New Guinea.

@@ -1,8 +1,6 @@
 ---
 iso: kvf
 name: Kabalai
-name_zh: 卡巴莱语
-name_zh_auto: true
 autonym: Kaba Lai
 alt_names: [Gablai, Kaba-Lai, Kabalay, Kabalaye, Keb-Kaye, Lai, Lay]
 population: 17900
@@ -16,5 +14,9 @@ glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > East Chadic > East Chadic A > East Chadic A.2 > East Chadic A.2 2 > Kabalai"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kabalai_language"
+translations:
+  - translation_iso: zho
+    name: 卡巴莱语
+    auto: true
 ---
 Kabalai is Afro-Asiatic language spoken in southwest Chad.

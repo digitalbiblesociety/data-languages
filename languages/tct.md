@@ -1,7 +1,6 @@
 ---
 iso: tct
 name: "T'en"
-name_zh: 佯僙语
 autonym: Rao
 alt_names: [Rau, Then, Yang Huang, Yanghuang, 佯僙語]
 population: 15000
@@ -15,6 +14,9 @@ glottolog_family_id: taik1256
 glottolog_family_name: Tai-Kadai
 glottolog_classification: "Tai-Kadai > Kam-Tai > Kam-Sui > Then-MMS > T'en"
 wikipedia_url: "https://en.wikipedia.org/wiki/Then_language"
+translations:
+  - translation_iso: zho
+    name: 佯僙语
 rolv_dialects:
   - rolv_code: 27031
     language_tag: tct-x-HIS27031

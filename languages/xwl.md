@@ -1,8 +1,6 @@
 ---
 iso: xwl
 name: Western Xwla Gbe
-name_zh: 西克斯拉-格贝语
-name_zh_auto: true
 autonym: Xwla
 alt_names: ["Gbe, Western Xwla", Phla, Xwla-Gbe]
 population: null
@@ -15,4 +13,8 @@ glottocode: west2456
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Kwa Volta-Congo > Gbe > Eastern Gbe > Western Phla-Phera > Western Xwla Gbe"
+translations:
+  - translation_iso: zho
+    name: 西克斯拉-格贝语
+    auto: true
 ---

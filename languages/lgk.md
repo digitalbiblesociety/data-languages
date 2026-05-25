@@ -1,8 +1,6 @@
 ---
 iso: lgk
 name: Lingarak
-name_zh: 林加拉克语
-name_zh_auto: true
 autonym: Lingarak
 alt_names: ["Bushman's Bay", Mallicolo, Neverver]
 population: 1250
@@ -16,6 +14,12 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > North and Central Vanuatu > Central Vanuatu > Malakula > Western Malakula linkage > Central-Western Malakula > Neverver"
 wikipedia_url: "https://en.wikipedia.org/wiki/Neverver_language"
+translations:
+  - translation_iso: jpn
+    name: リンガラク語
+  - translation_iso: zho
+    name: 林加拉克语
+    auto: true
 rolv_dialects:
   - rolv_code: 27207
     language_tag: lgk-x-HIS27207

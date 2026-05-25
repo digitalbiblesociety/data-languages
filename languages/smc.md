@@ -1,8 +1,6 @@
 ---
 iso: smc
 name: Som
-name_zh: 索姆语
-name_zh_auto: true
 autonym: Dinanget
 alt_names: [Somm]
 population: 500
@@ -16,5 +14,9 @@ glottolog_family_id: nucl1709
 glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Finisterre-Huon > Finisterre-Saruwaged > Uruwa > Sakam-Som > Som"
 wikipedia_url: "https://en.wikipedia.org/wiki/Som_language"
+translations:
+  - translation_iso: zho
+    name: 索姆语
+    auto: true
 ---
 Som (Somm) is one of the Finisterre languages of Papua New Guinea.

@@ -1,8 +1,6 @@
 ---
 iso: ztp
 name: Loxicha Zapotec
-name_zh: 洛希查萨波特克语
-name_zh_auto: true
 autonym: Diste
 alt_names: [Copalita Zapotec, Southern Sapoteko, Western Pochutla Zapotec, Zapotec, "Zapotec, Loxicha", Zapoteco de Asunción Tlacolulita, Zapoteco de Loxicha, "Zapotèque d'Asunción Tlacolulita"]
 population: 75000
@@ -16,6 +14,10 @@ glottolog_family_id: otom1299
 glottolog_family_name: Otomanguean
 glottolog_classification: "Otomanguean > Eastern Otomanguean > Popoloca-Zapotecan > Zapotecan > Zapotec > Core Zapotec > Narrow Core Zapotec > Miahuatecano > Miahuateco > Loxicha Zapotec"
 wikipedia_url: "https://en.wikipedia.org/wiki/Loxicha_Zapotec"
+translations:
+  - translation_iso: zho
+    name: 洛希查萨波特克语
+    auto: true
 rolv_dialects:
   - rolv_code: 25437
     language_tag: ztp-x-HIS25437

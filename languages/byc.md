@@ -1,8 +1,6 @@
 ---
 iso: byc
 name: Ubaghara
-name_zh: 乌巴加拉语
-name_zh_auto: true
 autonym: null
 population: 24000
 country_id: NG
@@ -15,6 +13,10 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Delta Cross > Upper Cross > Central Upper Cross > North-South Central Delta Cross > Ubaghara-Kohumono > Ubaghara"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ubaghara_language"
+translations:
+  - translation_iso: zho
+    name: 乌巴加拉语
+    auto: true
 rolv_dialects:
   - rolv_code: 2954
     language_tag: byc-x-HIS02954

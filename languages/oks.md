@@ -1,8 +1,6 @@
 ---
 iso: oks
 name: "Oko-Eni-Osayen"
-name_zh: 奥科-埃尼-奥萨延语
-name_zh_auto: true
 autonym: "Ogori-Magongo"
 alt_names: [Oko]
 population: 10000
@@ -16,6 +14,12 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Oko-Eni-Osayen"
 wikipedia_url: "https://en.wikipedia.org/wiki/Oko_language"
+translations:
+  - translation_iso: jpn
+    name: オコ語
+  - translation_iso: zho
+    name: 奥科-埃尼-奥萨延语
+    auto: true
 rolv_dialects:
   - rolv_code: 15267
     language_tag: oks-x-HIS15267

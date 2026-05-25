@@ -1,8 +1,6 @@
 ---
 iso: pex
 name: Petats
-name_zh: 佩塔茨语
-name_zh_auto: true
 autonym: Majugan
 alt_names: [Petats language]
 population: 6340
@@ -16,6 +14,10 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > Meso Melanesian linkage > New Ireland-Northwest Solomonic linkage > St George linkage > Northwest Solomonic > North Bougainville Oceanic > Nuclear North Bougainville Oceanic > Buka > Petats"
 wikipedia_url: "https://en.wikipedia.org/wiki/Petats_language"
+translations:
+  - translation_iso: zho
+    name: 佩塔茨语
+    auto: true
 rolv_dialects:
   - rolv_code: 3585
     language_tag: pex-x-HIS03585

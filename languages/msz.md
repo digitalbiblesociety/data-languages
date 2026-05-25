@@ -1,8 +1,6 @@
 ---
 iso: msz
 name: Momare
-name_zh: 莫马雷语
-name_zh_auto: true
 autonym: Momale
 alt_names: [Momole, Mumare]
 population: 650
@@ -16,5 +14,9 @@ glottolog_family_id: nucl1709
 glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Finisterre-Huon > Huon > Eastern Huon > Trans Vitiaz > Huon Tip > Sopac > Momare"
 wikipedia_url: "https://en.wikipedia.org/wiki/Momare_language"
+translations:
+  - translation_iso: zho
+    name: 莫马雷语
+    auto: true
 ---
 Momare is a moribund Papuan language of Morobe Province, Papua New Guinea.

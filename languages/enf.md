@@ -1,8 +1,6 @@
 ---
 iso: enf
 name: Forest Enets
-name_zh: 森林埃涅茨语
-name_zh_auto: true
 autonym: Онэй база
 alt_names: [Bai Enets, Baicha-Dialekt, Bay Enets, Enec, Enets, Enets des forêts, "Enets, Forest", Enzisch, Eńeć, Jenisei, Jenisej-Samojedisch, Jenissei-Dialekt, Pe-Bae, Samojedi, Samojedimanzela, Yenets, Yenisei Samoyed, Yenisei Samoyedic, Yenisei Somoyed, Yenisey, Yenisey Samoyedic, Yenisey-Samoyedic, Yensisei-Samoyed, enete, enetj, enetsin kieli, enyec nyelv, iénisséi, "ona' bazaan", Éncico de los bosques, èncy, лесной энецкий, онаь базаан, пэ-бай]
 population: 198
@@ -16,5 +14,9 @@ glottolog_family_id: ural1272
 glottolog_family_name: Uralic
 glottolog_classification: "Uralic > Samoyedic > Enets-Nenets > Enets > Forest Enets"
 wikipedia_url: "https://en.wikipedia.org/wiki/Forest_Enets_language"
+translations:
+  - translation_iso: zho
+    name: 森林埃涅茨语
+    auto: true
 ---
 Enets is a Samoyedic language of Northern Siberia spoken on the Lower Yenisei within the boundaries of the Taimyr Municipality District, a subdivision of Krasnoyarsk Krai, Russian Federation. Enets belongs to the Northern branch of the Samoyedic languages, in turn a branch of the Uralic language family.

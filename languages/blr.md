@@ -1,7 +1,6 @@
 ---
 iso: blr
 name: Blang
-name_zh: 布朗语
 autonym: Pulang
 alt_names: [Bulang, Hkawa, "K'ala", "K'wa", Kawa, Khon Doi, Kontoi, Plang, Pula, Samtao of Burma, Sen Chun, Wa]
 population: 42000
@@ -15,6 +14,9 @@ glottolog_family_id: aust1305
 glottolog_family_name: Austroasiatic
 glottolog_classification: "Austroasiatic > Khasi-Palaung > Palaungic > East Palaungic > Waic > Bulangic > Blang"
 wikipedia_url: "https://en.wikipedia.org/wiki/Blang_language"
+translations:
+  - translation_iso: zho
+    name: 布朗语
 rolv_dialects:
   - rolv_code: 6074
     language_tag: blr-x-HIS06074

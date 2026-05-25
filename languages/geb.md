@@ -1,8 +1,6 @@
 ---
 iso: geb
 name: Kire
-name_zh: 基雷语
-name_zh_auto: true
 autonym: Giri
 alt_names: [Gire, Kire-Puire]
 population: 2420
@@ -16,5 +14,9 @@ glottolog_family_id: ramu1234
 glottolog_family_name: Ramu
 glottolog_classification: "Ramu > Lower Ramu > Ruboni > Kire"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kire_language"
+translations:
+  - translation_iso: zho
+    name: 基雷语
+    auto: true
 ---
 Kire (Giri) is a Ramu language of Giri village in Yawar Rural LLG, Madang Province, Papua New Guinea.

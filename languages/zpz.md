@@ -1,8 +1,6 @@
 ---
 iso: zpz
 name: Texmelucan Zapotec
-name_zh: 特克斯梅卢坎萨波特克语
-name_zh_auto: true
 autonym: (San Lorenzo Texmelucan)
 alt_names: [Central Sapoteko, Central Sola de Vega Zapotec, Central Zapoteco, Papabuco, Sapateko, Solteco, Texmelucan Papabuco, Zapotec, Zapotec (Texmelucan), "Zapotec, Texmelucan", Zapoteco (Texmelucan), Zapoteco de San Felipe Tejalápam, Zapoteco de San Lorenzo Texmelucan, Zapotèque de San Felipe Tejalapan]
 population: 4100
@@ -16,5 +14,9 @@ glottolog_family_id: otom1299
 glottolog_family_name: Otomanguean
 glottolog_classification: "Otomanguean > Eastern Otomanguean > Popoloca-Zapotecan > Zapotecan > Zapotec > Core Zapotec > Papabuco > Texmelucan Zapotec"
 wikipedia_url: "https://en.wikipedia.org/wiki/Texmelucan_Zapotec"
+translations:
+  - translation_iso: zho
+    name: 特克斯梅卢坎萨波特克语
+    auto: true
 ---
 Texmelucan Zapotec is an Oto-Manguean language of the San Lorenzo Texmelucan Municipality in western Oaxaca, Mexico. It is a divergent Zapotec language, having only 10% intelligibility with its closest relative, Zaniza Zapotec. Both go by the name Papabuco.

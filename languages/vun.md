@@ -1,7 +1,6 @@
 ---
 iso: vun
 name: Vunjo
-name_zh: 温旧语
 autonym: Central Chaga
 alt_names: [Kivunjo, Kiwunjo, Língua kivunjo, Wunjo, Wunjo language]
 population: 14200
@@ -15,6 +14,17 @@ glottocode: vunj1238
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > East Bantu > Northeast Savanna Bantu > Kilimanjaro-Taita > Kilimanjaro Bantu > Chaga > Central Kilimanjaro > Vunjo"
+translations:
+  - translation_iso: ara
+    name: الفونجو
+  - translation_iso: hin
+    name: वुंजो
+  - translation_iso: jpn
+    name: ヴンジョ語
+  - translation_iso: kor
+    name: 분조어
+  - translation_iso: zho
+    name: 温旧语
 rolv_dialects:
   - rolv_code: 1072
     language_tag: vun-x-HIS01072

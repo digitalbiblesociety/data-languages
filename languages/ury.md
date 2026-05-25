@@ -1,8 +1,6 @@
 ---
 iso: ury
 name: Orya
-name_zh: 奥里亚语
-name_zh_auto: true
 autonym: Oria
 alt_names: [Uria, Warpok, Warpu]
 population: 1600
@@ -16,6 +14,10 @@ glottolog_family_id: toro1256
 glottolog_family_name: Tor-Orya
 glottolog_classification: "Tor-Orya > Orya"
 wikipedia_url: "https://en.wikipedia.org/wiki/Orya_language"
+translations:
+  - translation_iso: zho
+    name: 奥里亚语
+    auto: true
 rolv_dialects:
   - rolv_code: 6361
     language_tag: ury-x-HIS06361

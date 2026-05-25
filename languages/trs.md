@@ -1,8 +1,6 @@
 ---
 iso: trs
 name: Chicahuaxtla Triqui
-name_zh: 奇卡瓦斯特拉特里基语
-name_zh_auto: true
 autonym: "Triqui, Chicahuaxtla"
 alt_names: [Chicahuaxtla Trike, Chicahuaxtla Trique, Trike, Triki, Trique, Trique (Chicahuaxtla), Trique (de Chicahuaxtla), Triqui, Triqui de San Andrés Chicahuaxtla]
 population: 4060
@@ -15,6 +13,10 @@ glottocode: chic1273
 glottolog_family_id: otom1299
 glottolog_family_name: Otomanguean
 glottolog_classification: "Otomanguean > Eastern Otomanguean > Amuzgo-Mixtecan > Mixtecan > Trique > Chicahuaxtla Triqui"
+translations:
+  - translation_iso: zho
+    name: 奇卡瓦斯特拉特里基语
+    auto: true
 rolv_dialects:
   - rolv_code: 20679
     language_tag: trs-x-HIS20679

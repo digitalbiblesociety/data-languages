@@ -1,7 +1,6 @@
 ---
 iso: ems
 name: Pacific Gulf Yupik
-name_zh: 阿魯提克語
 autonym: Pacific Gulf Yupik
 alt_names: ["\"Aleut\"", "\"Eskimo\"", Aleut, Alutiiq, Alutiiq language, "Chugach \"Eskimo\"", Idioma alutiiq, Koniag-Chugach, Koniaq, Língua alutiiq, Pacific Yupik, "South Alaska \"Eskimo\"", Sugcestun, Sugpiak, "Sugpiak \"Eskimo\"", Sugpiaq, "Sugpiaq \"Eskimo\"", Suk, "Yup'ik (Pacific Gulf)", Yupik (Pacific Gulf ), Yupik du golfe du Pacifique, "Yupik, Pacific Gulf", Yupí del Pacífico, šuk/suk Sugpiaq, Алютикский язык, ალუტიიკური ენა, アリュティーク語]
 population: 3000
@@ -15,6 +14,13 @@ glottolog_family_id: eski1264
 glottolog_family_name: Eskimo-Aleut
 glottolog_classification: "Eskimo-Aleut > Eskimo > Yupik > Pacific Gulf Yupik"
 wikipedia_url: "https://en.wikipedia.org/wiki/Alutiiq_language"
+translations:
+  - translation_iso: jpn
+    name: アリュティーク語
+  - translation_iso: kor
+    name: 알류티크어
+  - translation_iso: zho
+    name: 阿魯提克語
 rolv_dialects:
   - rolv_code: 109
     language_tag: ems-x-HIS00109

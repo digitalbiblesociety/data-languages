@@ -1,8 +1,6 @@
 ---
 iso: btr
 name: Baetora
-name_zh: 巴特劳拉语
-name_zh_auto: true
 autonym: South Maewo
 population: 1330
 country_id: VU
@@ -15,6 +13,10 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > North and Central Vanuatu > Northern Vanuatu > Maewo > Baetora"
 wikipedia_url: "https://en.wikipedia.org/wiki/Baetora_language"
+translations:
+  - translation_iso: zho
+    name: 巴特劳拉语
+    auto: true
 rolv_dialects:
   - rolv_code: 7498
     language_tag: btr-x-HIS07498

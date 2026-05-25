@@ -1,8 +1,6 @@
 ---
 iso: gru
 name: Kistane
-name_zh: 基斯塔内语
-name_zh_auto: true
 autonym: Kəstane
 alt_names: [Aymallal, Aymellel, Gogot, Gurage, Kestane, Kistane jezik, North Gurage, Soddo, Soddo Gurage, Soddo language, Sodoeg]
 population: 255000
@@ -16,6 +14,14 @@ glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Semitic > West Semitic > Ethiosemitic > South Ethiopic > Outer South Ethiopic > N-Group > Kistane"
 wikipedia_url: "https://en.wikipedia.org/wiki/Soddo_language"
+translations:
+  - translation_iso: ara
+    name: سودو (لغة)
+  - translation_iso: jpn
+    name: ソッド語
+  - translation_iso: zho
+    name: 基斯塔内语
+    auto: true
 rolv_dialects:
   - rolv_code: 10462
     language_tag: gru-x-HIS10462

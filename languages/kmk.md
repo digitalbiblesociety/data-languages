@@ -1,8 +1,6 @@
 ---
 iso: kmk
 name: Limos Kalinga
-name_zh: 利莫斯卡林加语
-name_zh_auto: true
 autonym: null
 alt_names: ["Kalinga, Limos", Limos-Liwan Kalinga, Northern Kalinga]
 population: 12700
@@ -15,6 +13,10 @@ glottocode: limo1248
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Northern Luzon > Meso-Cordilleran > South-Central Cordilleran > Central Cordilleran > Kalinga-Itneg > Kalinga > Northern Kalinga > Limos Kalinga"
+translations:
+  - translation_iso: zho
+    name: 利莫斯卡林加语
+    auto: true
 rolv_dialects:
   - rolv_code: 22593
     language_tag: kmk-x-HIS22593

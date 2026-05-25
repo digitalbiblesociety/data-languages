@@ -1,8 +1,6 @@
 ---
 iso: myh
 name: Makah
-name_zh: 玛卡语
-name_zh_auto: true
 autonym: qʷi·qʷi·diččaq
 alt_names: [Kwe-Nee-Chee-Aht, Kweedishchaaht, Macaw]
 population: 2224
@@ -16,5 +14,11 @@ glottolog_family_id: waka1280
 glottolog_family_name: Wakashan
 glottolog_classification: "Wakashan > Southern Wakashan > Makah-Nitinat > Makah"
 wikipedia_url: "https://en.wikipedia.org/wiki/Makah_language"
+translations:
+  - translation_iso: jpn
+    name: マカー語
+  - translation_iso: zho
+    name: 玛卡语
+    auto: true
 ---
 Makah is a Wakashan language spoken by the Makah. Makah has not been spoken as a first language since 2002, when its last fluent native speaker died. However, it survives as a second language, and the Makah tribe is attempting to revive the language, including through preschool classes. The endonym for the Makah is qʷi·qʷi·diččaq.

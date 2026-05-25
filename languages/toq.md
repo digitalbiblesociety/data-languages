@@ -1,8 +1,6 @@
 ---
 iso: toq
 name: Toposa
-name_zh: 托波萨语
-name_zh_auto: true
 autonym: Toposa–Jiye
 alt_names: [Akara, Kare, Kumi, Taposa, Topotha]
 population: 315000
@@ -16,6 +14,12 @@ glottolog_family_id: nilo1247
 glottolog_family_name: Nilotic
 glottolog_classification: "Nilotic > Eastern Nilotic > Teso-Lotuxo-Maa > Teso-Turkana > Turkanic > Toposa"
 wikipedia_url: "https://en.wikipedia.org/wiki/Toposa_language"
+translations:
+  - translation_iso: jpn
+    name: トポサ語
+  - translation_iso: zho
+    name: 托波萨语
+    auto: true
 rolv_dialects:
   - rolv_code: 17594
     language_tag: toq-x-HIS17594

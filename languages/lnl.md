@@ -1,8 +1,6 @@
 ---
 iso: lnl
 name: South Central Banda
-name_zh: 南中班达语
-name_zh_auto: true
 autonym: null
 alt_names: [Banda, Banda 1st division, "Banda, South Central"]
 population: 153000
@@ -15,6 +13,10 @@ glottocode: sout2787
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Cameroun-Ubangian > Ubangi > Ubangi Ka > Bandaic > Nuclear Bandaic > Southwest Bandaic > Ngbugu-Langbasi > South Central Banda"
+translations:
+  - translation_iso: zho
+    name: 南中班达语
+    auto: true
 rolv_dialects:
   - rolv_code: 7665
     language_tag: lnl-x-HIS07665

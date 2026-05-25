@@ -1,8 +1,6 @@
 ---
 iso: mvd
 name: Mamboru
-name_zh: 玛姆博鲁语
-name_zh_auto: true
 autonym: Memboro
 alt_names: [Mamboro]
 population: 16000
@@ -16,5 +14,9 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Bima-Lembata > Sumba-Hawu > Sumba > Central-East Sumbanese > Mamboru"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mamboru_language"
+translations:
+  - translation_iso: zho
+    name: 玛姆博鲁语
+    auto: true
 ---
 Mamboru (Memboro) is an Austronesian language spoken on Sumba, Indonesia.

@@ -1,8 +1,6 @@
 ---
 iso: kvz
 name: Tsakwambo
-name_zh: 察夸姆博语
-name_zh_auto: true
 autonym: Tsakwambo
 alt_names: [Kotogut, Kotogüt, Kotogأƒآ¼t, Tsaukambo, Tsokwambo]
 population: 780
@@ -16,5 +14,9 @@ glottolog_family_id: nucl1709
 glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Asmat-Awyu-Ok > Awyu-Ok > Greater Awyu > Becking-Dawi > Tsakwambo-Komyandaret > Tsaukambo"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tsaukambo_language"
+translations:
+  - translation_iso: zho
+    name: 察夸姆博语
+    auto: true
 ---
 Tsaukambo or Tsakwambo is one of the Greater Awyu languages spoken by inhabitants of Kampung Biwage, Kawagit District, Boven Digoel Regency in South Papua, Indonesia.

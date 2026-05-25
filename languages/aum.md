@@ -1,8 +1,6 @@
 ---
 iso: aum
 name: Asu (Nigeria)
-name_zh: 阿苏语
-name_zh_auto: true
 autonym: Abewa
 alt_names: [Asu, Ebe]
 population: 5000
@@ -16,5 +14,9 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Ebira-Nupoid > Macro-Nupoid > Nupoid > Asu (Nigeria)"
 wikipedia_url: "https://en.wikipedia.org/wiki/Asu_language_(Nigeria)"
+translations:
+  - translation_iso: zho
+    name: 阿苏语
+    auto: true
 ---
 Asu is a Nupoid language spoken in Niger State in Western Nigeria. The Asu live in about ten villages southeast of Kontagora.

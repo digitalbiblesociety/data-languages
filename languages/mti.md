@@ -1,8 +1,6 @@
 ---
 iso: mti
 name: Maiwa (Papua New Guinea)
-name_zh: 玛依瓦语
-name_zh_auto: true
 autonym: Maiwa
 population: 1400
 country_id: PG
@@ -15,6 +13,10 @@ glottolog_family_id: daga1274
 glottolog_family_name: Dagan
 glottolog_classification: "Dagan > Central Dagan > Maiwa (Papua New Guinea)"
 wikipedia_url: "https://en.wikipedia.org/wiki/Maiwa_language_(Papuan)"
+translations:
+  - translation_iso: zho
+    name: 玛依瓦语
+    auto: true
 rolv_dialects:
   - rolv_code: 13332
     language_tag: mti-x-HIS13332

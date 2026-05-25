@@ -1,8 +1,6 @@
 ---
 iso: kpr
 name: "Korafe-Yegha"
-name_zh: 科拉费-耶格哈语
-name_zh_auto: true
 autonym: "Korafe-Yegha"
 alt_names: [Korafe]
 population: 3630
@@ -16,6 +14,10 @@ glottolog_family_id: nucl1709
 glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Greater Binanderean > Binanderean > Nuclear Binanderean > South Binanderean > Coastal Binanderean > Gaena-Korafe > Korafe-Yegha"
 wikipedia_url: "https://en.wikipedia.org/wiki/Korafe_language"
+translations:
+  - translation_iso: zho
+    name: 科拉费-耶格哈语
+    auto: true
 rolv_dialects:
   - rolv_code: 2435
     language_tag: kpr-x-HIS02435

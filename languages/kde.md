@@ -1,7 +1,6 @@
 ---
 iso: kde
 name: Makonde
-name_zh: 馬孔德語
 autonym: Chi(ni)makonde
 alt_names: [Chimakonde, Chinimakonde, Cimakonde, Konde, Maconde, Makonda, Matambwe, Mawiha, Shimakonde]
 population: 1995000
@@ -16,6 +15,17 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > East Bantu > Rufiji-Ruvuma > Ruvuma > Makondic > Makonde"
 wikipedia_url: "https://en.wikipedia.org/wiki/Makonde_language"
+translations:
+  - translation_iso: ara
+    name: ماكونده
+  - translation_iso: hin
+    name: मैकोंड
+  - translation_iso: jpn
+    name: マコンデ語
+  - translation_iso: kor
+    name: 마콘데어
+  - translation_iso: zho
+    name: 馬孔德語
 rolv_dialects:
   - rolv_code: 13374
     language_tag: kde-x-HIS13374

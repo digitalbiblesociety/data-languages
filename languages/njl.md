@@ -1,8 +1,6 @@
 ---
 iso: njl
 name: Njalgulgule
-name_zh: 恩贾尔古古勒语
-name_zh_auto: true
 autonym: Njalgulgule
 alt_names: [Bege, Begi, Beko, Ngulgule, Njangulgule, Nyalgulgule, Nyolge, Nyoolne]
 population: 900
@@ -16,5 +14,9 @@ glottolog_family_id: daju1249
 glottolog_family_name: Dajuic
 glottolog_classification: "Dajuic > Western Dajuic > Njalgulgule"
 wikipedia_url: "https://en.wikipedia.org/wiki/Nyolge_language"
+translations:
+  - translation_iso: zho
+    name: 恩贾尔古古勒语
+    auto: true
 ---
 Nyolge or Nyagulgule (Njalgulgule) is a Daju language of the Western Daju, spoken in a single village in South Sudan.

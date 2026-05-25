@@ -1,7 +1,6 @@
 ---
 iso: ann
 name: Obolo
-name_zh: 奥博洛语
 autonym: Andoni
 alt_names: [Andone, Andonni]
 population: 250000
@@ -16,6 +15,17 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Delta Cross > Lower Cross > Obolo"
 wikipedia_url: "https://en.wikipedia.org/wiki/Obolo_language"
+translations:
+  - translation_iso: ara
+    name: أوبلو
+  - translation_iso: hin
+    name: ओबोलो
+  - translation_iso: jpn
+    name: オボロ語
+  - translation_iso: kor
+    name: 오볼로어
+  - translation_iso: zho
+    name: 奥博洛语
 rolv_dialects:
   - rolv_code: 15221
     language_tag: ann-x-HIS15221

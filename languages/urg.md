@@ -1,8 +1,6 @@
 ---
 iso: urg
 name: Urigina
-name_zh: 乌里吉纳语
-name_zh_auto: true
 autonym: Origanau
 alt_names: [Uriginau]
 population: 1400
@@ -16,6 +14,10 @@ glottolog_family_id: nucl1709
 glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Madang > Rai Coast > Peka > Urigina-Danaru > Urigina"
 wikipedia_url: "https://en.wikipedia.org/wiki/Urigina_language"
+translations:
+  - translation_iso: zho
+    name: 乌里吉纳语
+    auto: true
 rolv_dialects:
   - rolv_code: 30385
     language_tag: urg-x-HIS30385

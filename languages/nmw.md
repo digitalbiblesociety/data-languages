@@ -1,8 +1,6 @@
 ---
 iso: nmw
 name: Nimoa
-name_zh: 尼莫亚语
-name_zh_auto: true
 autonym: Rifao
 alt_names: [Nimowa]
 population: 1100
@@ -16,6 +14,12 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > Papuan Tip linkage > Peripheral Papuan Tip linkage > Nimoa-Sudest > Nimoa"
 wikipedia_url: "https://en.wikipedia.org/wiki/Nimoa_language"
+translations:
+  - translation_iso: jpn
+    name: ニモア語
+  - translation_iso: zho
+    name: 尼莫亚语
+    auto: true
 rolv_dialects:
   - rolv_code: 14994
     language_tag: nmw-x-HIS14994

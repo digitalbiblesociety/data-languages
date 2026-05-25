@@ -1,8 +1,6 @@
 ---
 iso: sqm
 name: Suma
-name_zh: 苏玛语
-name_zh_auto: true
 autonym: Souma
 alt_names: ["'Bokoto", Gbanu, Gbaya, Gbeya, Kara, Southern Gbaya]
 population: 50000
@@ -15,4 +13,8 @@ glottocode: suma1264
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Gbaya-Manza-Ngbaka > Gbaya Meridional-Occidental > Bokoto-Gbeya > Gbeya > Gbeya-Suma > Suma"
+translations:
+  - translation_iso: zho
+    name: 苏玛语
+    auto: true
 ---

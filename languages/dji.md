@@ -1,8 +1,6 @@
 ---
 iso: dji
 name: Djinang
-name_zh: 詹纳语
-name_zh_auto: true
 autonym: Jandijinung
 alt_names: [Balmawi, Balmbi, Barlmawi, Djinaŋ, Djinhang, Djinnang, Dyinang, Jand-jinung, "Jandji:nangc", Jandjinang, Jandjinung, Jinang, Manarrngu, Manjarngi, Manyarrngi, Milingimbi, Millingimbi, Mun-narngo, Ullaki, Wulagi, Wulaki, Wullakki, Yandijinang, Yandjinang, Yandjinning, Yandjinung, Yändjinaŋ]
 population: 130
@@ -16,6 +14,12 @@ glottolog_family_id: pama1250
 glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > Yuulngu > Western-Inland Yolngu > Djinang"
 wikipedia_url: "https://en.wikipedia.org/wiki/Djinang_language"
+translations:
+  - translation_iso: kor
+    name: 지낭어
+  - translation_iso: zho
+    name: 詹纳语
+    auto: true
 rolv_dialects:
   - rolv_code: 9324
     language_tag: dji-x-HIS09324

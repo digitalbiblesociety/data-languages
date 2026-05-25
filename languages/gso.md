@@ -1,8 +1,6 @@
 ---
 iso: gso
 name: Southwest Gbaya
-name_zh: 西南吉巴亚语
-name_zh_auto: true
 autonym: Southwest Gbaya
 alt_names: [Gbaya, Gbaya Sud-Ouest, "Gbaya, Southwest"]
 population: 220000
@@ -16,6 +14,12 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Gbaya-Manza-Ngbaka > Gbaya Meridional-Occidental > Gbaya Meridional > Southwest Gbaya"
 wikipedia_url: "https://en.wikipedia.org/wiki/Biyanda-Buli_language"
+translations:
+  - translation_iso: jpn
+    name: 南西グバヤ語
+  - translation_iso: zho
+    name: 西南吉巴亚语
+    auto: true
 rolv_dialects:
   - rolv_code: 10113
     language_tag: gso-x-HIS10113

@@ -1,8 +1,6 @@
 ---
 iso: skt
 name: Sakata
-name_zh: 萨卡塔语
-name_zh_auto: true
 autonym: Kisakata
 alt_names: [Lesa, Odual, Saka]
 population: 75000
@@ -16,6 +14,10 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > Central-Western Bantu > West-Coastal Bantu > Nzadic > Lweric > Dingic > Loange-Atlantic > Kwilu-Ngounie > Kasai-Ngounie > Kwa-Kasai North > Sakata-Tiinic > Sakata"
 wikipedia_url: "https://en.wikipedia.org/wiki/Sakata_language"
+translations:
+  - translation_iso: zho
+    name: 萨卡塔语
+    auto: true
 rolv_dialects:
   - rolv_code: 1563
     language_tag: skt-x-HIS01563

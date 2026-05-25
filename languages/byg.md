@@ -1,8 +1,6 @@
 ---
 iso: byg
 name: Baygo
-name_zh: 拜戈语
-name_zh_auto: true
 autonym: Baigo
 alt_names: [Bego, Beigo, Beko, Beygo, Béogé]
 population: null
@@ -16,5 +14,11 @@ glottolog_family_id: daju1249
 glottolog_family_name: Dajuic
 glottolog_classification: "Dajuic > Western Dajuic > Nyala Dajuic > Baygo"
 wikipedia_url: "https://en.wikipedia.org/wiki/Beigo_language"
+translations:
+  - translation_iso: jpn
+    name: ベイゴ語
+  - translation_iso: zho
+    name: 拜戈语
+    auto: true
 ---
 Beigo is an extinct Daju language once spoken in Sudan by the Baygo people, numbering some 850 in the late twentieth century. Similar to Darfur Daju, it is classified as part of the Western Daju family of languages.

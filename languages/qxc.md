@@ -1,8 +1,6 @@
 ---
 iso: qxc
 name: Chincha Quechua
-name_zh: 钦查克丘亚语
-name_zh_auto: true
 autonym: Huangáscar–Topará
 alt_names: [Chinchaysuyo, Chinchaysuyu, Huangascar-Topará, Northern Quechua, Quechua de Yauyos, Quechua de Yauyos., "Quechua, Chincha", Yauyos Kechua]
 population: 6000
@@ -15,4 +13,8 @@ glottocode: chin1483
 glottolog_family_id: quec1387
 glottolog_family_name: Quechuan
 glottolog_classification: "Quechuan > Quechua I > Yauyosic > Chincha Quechua"
+translations:
+  - translation_iso: zho
+    name: 钦查克丘亚语
+    auto: true
 ---

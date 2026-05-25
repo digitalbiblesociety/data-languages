@@ -1,7 +1,6 @@
 ---
 iso: tyr
 name: Tai Daeng
-name_zh: 泰丹語
 autonym: "Red TaiTáy-Môc-Châu"
 alt_names: [Daeng, Môc-Châu, Red Tai, Red Thai, Tai Deng, Tai Rouge, Taidaén, Thai Dang, Thai Do, Táy-Môc-Châu]
 population: 105000
@@ -15,6 +14,11 @@ glottolog_family_id: taik1256
 glottolog_family_name: Tai-Kadai
 glottolog_classification: "Tai-Kadai > Kam-Tai > Daic-Beic > Daic > Central-Southwestern Tai > Wenma-Southwestern Tai > Sapa-Southwestern Tai > Southwestern Tai > Southwestern Tai P > Chiang Saeng > Red Tai > Tai Daeng-Meuay"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tai_Daeng_language"
+translations:
+  - translation_iso: jpn
+    name: 赤タイ語
+  - translation_iso: zho
+    name: 泰丹語
 rolv_dialects:
   - rolv_code: 29585
     language_tag: tyr-x-HIS29585

@@ -1,8 +1,6 @@
 ---
 iso: bzq
 name: Buli (Indonesia)
-name_zh: 布利语
-name_zh_auto: true
 autonym: null
 alt_names: [Buli, Buli (Indonesian), Buli (in Indonesia)]
 population: 2520
@@ -16,6 +14,12 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > South Halmahera-West New Guinea > Raja Ampat-South Halmahera > South Halmahera > Gebeic > Central-Eastern South Halmahera > Buli (Indonesia)"
 wikipedia_url: "https://en.wikipedia.org/wiki/Buli_language_(Indonesia)"
+translations:
+  - translation_iso: jpn
+    name: ブリ語 (インドネシアの言語)
+  - translation_iso: zho
+    name: 布利语
+    auto: true
 rolv_dialects:
   - rolv_code: 8449
     language_tag: bzq-x-HIS08449

@@ -1,8 +1,6 @@
 ---
 iso: dor
 name: "Dori'o"
-name_zh: 多里欧语
-name_zh_auto: true
 autonym: Kwarekwareo
 alt_names: [Südliche Salomons-Inseln]
 population: 2410
@@ -16,5 +14,9 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Southeast Solomonic > Longgu-Malaita-Makira > Malaita-Makira > Malaita > Southern Malaita > Dori'o"
 wikipedia_url: "https://en.wikipedia.org/wiki/Dori%CA%BCo_language"
+translations:
+  - translation_iso: zho
+    name: 多里欧语
+    auto: true
 ---
 Doriʼo is an Oceanic language of the Solomon Islands.

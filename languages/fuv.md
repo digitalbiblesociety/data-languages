@@ -1,8 +1,6 @@
 ---
 iso: fuv
 name: Nigerian Fulfulde
-name_zh: 尼日利亚富尔富尔德语
-name_zh_auto: true
 autonym: Fulani
 alt_names: [Ful(ani), Fula (Nigerian), "Fula, Fulani", Fulah-Idiome, Fulbe, Fulfulde (Nigerian), "Fulfulde, Nigerian", Kano-Katsina-Bororo Fulfulde, Peul]
 population: 14500000
@@ -17,6 +15,12 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > North-Central Atlantic > Fula-Sereer > Fula > Eastern Fula > Hausa States Fulfulde"
 wikipedia_url: "https://en.wikipedia.org/wiki/Nigerian_Fulfulde"
+translations:
+  - translation_iso: jpn
+    name: ナイジェリア・フラニ語
+  - translation_iso: zho
+    name: 尼日利亚富尔富尔德语
+    auto: true
 rolv_dialects:
   - rolv_code: 1792
     language_tag: fuv-x-HIS01792

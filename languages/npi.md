@@ -1,8 +1,6 @@
 ---
 iso: npi
 name: Nepali
-name_zh: 尼泊尔语
-name_zh_auto: true
 autonym: " Nepalese"
 alt_names: [An Neipeailis, Bahasa Nepali, Eastern Pahari, Gorkhali, Gurkhali, Idioma nepalés, Język nepalski, Khas Kura, Khaskura, Lengua nepaleise, Lhotshammikha, Limba nepaleză, Lingua Nepalensis, Lingua nepalese, Língua nepali, Nepal leid, Nepala lingvo, Nepalees, Nepaleg, Nepalesisk, Nepali (individual language), Nepali keel, Nepalin kieli, Nepalska, Nepalès, Nepalščina, Nepalų kalba, Nepálština, Nipali simi, Népalais, Parbatiya, Νεπαλεζική γλώσσα, Забони непалӣ, Непалски език, Непалски језик, Непальский язык, Непальська мова, زبان نپالی, نيبالية, نیپالی, نېپال تىلى, खेँ भाषा, नेपाली, नेपाली भाषा, নেপাল ভাষা, নেপালি ঠার, நேபாளி மொழி, నేపాలీ భాష, നേപ്പാളി ഭാഷ, ภาษาเนปาล, བལ་པོའི་སྐད།, ネパール語, 尼泊尔语, 네팔어]
 population: 24720300
@@ -15,6 +13,10 @@ glottocode: nepa1254
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Indo-Aryan > Middle-Modern Indo-Aryan > Continental Indo-Aryan > Midlands Indo-Aryan > Indo-Aryan Northern zone > Eastern Pahari > Nepali"
+translations:
+  - translation_iso: zho
+    name: 尼泊尔语
+    auto: true
 rolv_dialects:
   - rolv_code: 322
     language_tag: ne-NP-x-HIS00322

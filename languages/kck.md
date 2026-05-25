@@ -1,7 +1,6 @@
 ---
 iso: kck
 name: Kalanga
-name_zh: 卡蘭加語
 autonym: Ikalanga
 alt_names: [Bakaa, Chikalanga, Język kalanga, Kalaka, Kalana, Kanana, Makalaka, Sekalaka, Sekalaña, Tjikalanga, Wakalanga, Western Shona]
 population: 338000
@@ -16,6 +15,11 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > East Bantu > Southern Bantu > Shona (S.10) > Kalanga-Nambya > Kalanga"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kalanga_language"
+translations:
+  - translation_iso: jpn
+    name: カランガ語
+  - translation_iso: zho
+    name: 卡蘭加語
 rolv_dialects:
   - rolv_code: 3995
     language_tag: kck-x-HIS03995

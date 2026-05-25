@@ -1,7 +1,6 @@
 ---
 iso: lol
 name: Mongo
-name_zh: 芒戈語
 autonym: Nkundu
 alt_names: [Lomongo, Mongo-Nkundu]
 population: 400000
@@ -16,6 +15,17 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > Central-Western Bantu > North Zaire River > Inner Basin Bantu > Cuvette > Mongoic > Lomongo > Mongo"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mongo_language"
+translations:
+  - translation_iso: ara
+    name: منغولى
+  - translation_iso: hin
+    name: मोंगो
+  - translation_iso: jpn
+    name: モンゴ語
+  - translation_iso: kor
+    name: 몽고어
+  - translation_iso: zho
+    name: 芒戈語
 rolv_dialects:
   - rolv_code: 1404
     language_tag: lol-x-HIS01404

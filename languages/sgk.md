@@ -1,7 +1,6 @@
 ---
 iso: sgk
 name: Sangkong
-name_zh: 桑孔语
 autonym: Buxia
 alt_names: [布下土語, 布夏語, 桑孔話]
 population: 1500
@@ -15,5 +14,8 @@ glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Burmo-Qiangic > Lolo-Burmese > Loloish > Hani-Jino > Bisoid-Hanic > Bisoid > Sangkong"
 wikipedia_url: "https://en.wikipedia.org/wiki/Sangkong_language"
+translations:
+  - translation_iso: zho
+    name: 桑孔语
 ---
 Sangkong is a Loloish language spoken in China by the Hani people in Xiaojie Township 小街乡, Jinghong County. They are called Buxia (布夏) by the local Dai people.

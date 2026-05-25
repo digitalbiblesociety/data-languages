@@ -1,7 +1,6 @@
 ---
 iso: grt
 name: Garo
-name_zh: 加罗语
 autonym: A·chik (আ·চিক)
 alt_names: [Garrow, Język garo, Lingua Garo, Língua garo, Mande, গারো ভাষা]
 population: 1270000
@@ -16,6 +15,17 @@ glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Brahmaputran > Bodo-Garo > Garo"
 wikipedia_url: "https://en.wikipedia.org/wiki/Garo_language"
+translations:
+  - translation_iso: ara
+    name: الغاروية
+  - translation_iso: hin
+    name: गारो भाषा
+  - translation_iso: jpn
+    name: ガロ語
+  - translation_iso: kor
+    name: 가로어
+  - translation_iso: zho
+    name: 加罗语
 rolv_dialects:
   - rolv_code: 169
     language_tag: grt-x-HIS00169

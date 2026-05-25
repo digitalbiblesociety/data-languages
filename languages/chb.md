@@ -1,7 +1,6 @@
 ---
 iso: chb
 name: Chibcha
-name_zh: 奇布查语
 autonym: Muysc cubun
 alt_names: [Chibchan Proper, Cundicocuyese, Idioma muisca, Miusca, Mosca, Muisca, Muiska, Muyska simi, Čibča, Чибча]
 population: null
@@ -15,5 +14,16 @@ glottolog_family_id: chib1249
 glottolog_family_name: Chibchan
 glottolog_classification: "Chibchan > Core Chibchan > Magdalenic > Southern Magdalenic > Chibcha-Duit > Chibcha"
 wikipedia_url: "https://en.wikipedia.org/wiki/Muisca_language"
+translations:
+  - translation_iso: ara
+    name: التشيبشا
+  - translation_iso: hin
+    name: चिब्चा
+  - translation_iso: jpn
+    name: チブチャ語
+  - translation_iso: kor
+    name: 치브차어
+  - translation_iso: zho
+    name: 奇布查语
 ---
 Muisca or Muysca, also known as Chibcha, Mosca and Muysca of Bogotá, is an extinct language formerly spoken by the Muisca people, one of the many indigenous cultures of the Americas, historically only in the Savanna of Bogotá. The Muisca inhabit the Altiplano Cundiboyacense of what today is Colombia. "Chibcha" was, according to Pedro Simón, the language's indigenous name, however colonial-era dictionaries contradict this and indicate the indigenous name was muysccubun.

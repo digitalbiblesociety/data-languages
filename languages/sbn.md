@@ -1,8 +1,6 @@
 ---
 iso: sbn
 name: Sindhi Bhil
-name_zh: 辛德希-比尔语
-name_zh_auto: true
 autonym: سنڌي
 alt_names: ["Bhil, Sindhi", Pakistan]
 population: 56500
@@ -16,6 +14,12 @@ glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Indo-Aryan > Middle-Modern Indo-Aryan > Continental Indo-Aryan > Indo-Aryan Northwestern zone > Sindhi-Lahnda > Sindhic > Unclassified Sindhic > Sindhi Bhil"
 wikipedia_url: "https://en.wikipedia.org/wiki/Sindhi_Bhili"
+translations:
+  - translation_iso: hin
+    name: सिंधी भील
+  - translation_iso: zho
+    name: 辛德希-比尔语
+    auto: true
 rolv_dialects:
   - rolv_code: 16734
     language_tag: sbn-x-HIS16734

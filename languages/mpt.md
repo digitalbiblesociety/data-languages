@@ -1,8 +1,6 @@
 ---
 iso: mpt
 name: Mian
-name_zh: 米安语
-name_zh_auto: true
 autonym: Mian Weng
 alt_names: [Mianmin, Miyanmin]
 population: 3500
@@ -16,6 +14,10 @@ glottolog_family_id: nucl1709
 glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Asmat-Awyu-Ok > Awyu-Ok > Ok-Oksapmin > Ok > Mountain Ok > Mianic > Mian"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mian_language"
+translations:
+  - translation_iso: zho
+    name: 米安语
+    auto: true
 rolv_dialects:
   - rolv_code: 14056
     language_tag: mpt-x-HIS14056

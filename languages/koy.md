@@ -1,7 +1,6 @@
 ---
 iso: koy
 name: Koyukon
-name_zh: 科育空語
 autonym: " Denaakkʼe"
 alt_names: [Alaska, "Denaakk'e", Koyuko, Koyukon (Central), Koyukukhotana, Kuyukon, Língua koyukon, "Ten'a", Tena]
 population: 65
@@ -15,6 +14,11 @@ glottolog_family_id: atha1245
 glottolog_family_name: Athabaskan-Eyak-Tlingit
 glottolog_classification: "Athabaskan-Eyak-Tlingit > Athabaskan-Eyak > Athabaskan > Central Alaska-Yukon Athabaskan > Koyukonic > Koyukon"
 wikipedia_url: "https://en.wikipedia.org/wiki/Koyukon_language"
+translations:
+  - translation_iso: jpn
+    name: コユコン語
+  - translation_iso: zho
+    name: 科育空語
 rolv_dialects:
   - rolv_code: 19449
     language_tag: koy-x-HIS19449

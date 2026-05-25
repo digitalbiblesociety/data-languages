@@ -1,8 +1,6 @@
 ---
 iso: gqa
 name: "Ga'anda"
-name_zh: 加安达语
-name_zh_auto: true
 autonym: "Ga'andu"
 alt_names: ["Ga'ana", Ganda, Gandaeg, Ga’anda jezik, Makwar, Mokar]
 population: 43000
@@ -16,6 +14,10 @@ glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > Biu-Mandara > South Biu-Mandara > Teraic > Eastern Tera > Ga'anda"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ga%27anda_language"
+translations:
+  - translation_iso: zho
+    name: 加安达语
+    auto: true
 rolv_dialects:
   - rolv_code: 9962
     language_tag: gqa-x-HIS09962

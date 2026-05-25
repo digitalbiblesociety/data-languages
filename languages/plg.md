@@ -1,8 +1,6 @@
 ---
 iso: plg
 name: Pilagá
-name_zh: 皮拉加语
-name_zh_auto: true
 autonym: Pilaca
 alt_names: [Pilaga]
 population: 4000
@@ -16,6 +14,10 @@ glottolog_family_id: guai1249
 glottolog_family_name: Guaicuruan
 glottolog_classification: "Guaicuruan > Guaicuru del Sur > Qom > Pilaga-Toba > Pilagá"
 wikipedia_url: "https://en.wikipedia.org/wiki/Pilag%C3%A1_language"
+translations:
+  - translation_iso: zho
+    name: 皮拉加语
+    auto: true
 rolv_dialects:
   - rolv_code: 1941
     language_tag: plg-x-HIS01941

@@ -1,8 +1,6 @@
 ---
 iso: ngz
 name: Ngungwel
-name_zh: 恩贡格韦尔语
-name_zh_auto: true
 autonym: Eboo
 alt_names: [Engungwel, Ngangoulou, Ngungulu, Northeastern Teke]
 population: 45000
@@ -15,6 +13,10 @@ glottocode: ngun1272
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > Central-Western Bantu > West-Coastal Bantu > Nzadic > Lweric > Dingic > Loange-Atlantic > Kwilu-Ngounie > Kasai-Ngounie > Moyen Kasai-Ngounie > Ngungwel-Eboo > Ngungwel"
+translations:
+  - translation_iso: zho
+    name: 恩贡格韦尔语
+    auto: true
 rolv_dialects:
   - rolv_code: 30862
     language_tag: ngz-x-HIS30862

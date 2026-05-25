@@ -1,8 +1,6 @@
 ---
 iso: bjm
 name: Bajelani
-name_zh: 巴杰拉尼语
-name_zh_auto: true
 autonym: گۆرانیî
 alt_names: [Bajalani, Bajoran, Bejwan, Chichamachu, Gurani, Hawrami]
 population: 20000
@@ -16,5 +14,9 @@ glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Iranian-Nuristani > Iranian > Central Iranian PBS > Central Iranian PB > Northwestern Iranian > Adharic > Gorani > Shabak-Bajalani > Bajelani"
 wikipedia_url: "https://en.wikipedia.org/wiki/Bajelani_language"
+translations:
+  - translation_iso: zho
+    name: 巴杰拉尼语
+    auto: true
 ---
 Gorani or Gurani, also known by the name of its main dialect, Hawrami, is a Northwestern Iranian language or a group of similar Northwestern Iranian dialects spoken in small pockets in northeastern Iraq and northwestern Iran.

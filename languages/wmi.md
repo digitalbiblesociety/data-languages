@@ -1,8 +1,6 @@
 ---
 iso: wmi
 name: Wamin
-name_zh: 瓦敏语
-name_zh_auto: true
 autonym: Wamin
 alt_names: [Agwamin, Ak Waumin, Ak-Waumin, Egwamin, Ewamin, Gwamin, Wailoolo, Wakaman, Walamin, Walming, Warkaman, Warkamin, Warkeeman, Warkeemon, Waumin, Wawmin, Wimanja, Wommin]
 population: null
@@ -16,6 +14,10 @@ glottolog_family_id: pama1250
 glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > Paman > Finasleigh Pama > Wamin"
 wikipedia_url: "https://en.wikipedia.org/wiki/Wamin_language"
+translations:
+  - translation_iso: zho
+    name: 瓦敏语
+    auto: true
 rolv_dialects:
   - rolv_code: 6763
     language_tag: wmi-x-HIS06763

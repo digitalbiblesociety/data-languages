@@ -1,8 +1,6 @@
 ---
 iso: fnb
 name: Fanbak
-name_zh: 范巴克语
-name_zh_auto: true
 autonym: "Fanbak, Orkon"
 alt_names: [Orkon]
 population: 95
@@ -16,5 +14,9 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > North and Central Vanuatu > Central Vanuatu > Ambrym > Orkon-West Ambrym > Orkon-Fanbak"
 wikipedia_url: "https://en.wikipedia.org/wiki/Fanbak_language"
+translations:
+  - translation_iso: zho
+    name: 范巴克语
+    auto: true
 ---
 Fanbyak is a minor language of Ambrym Island, Vanuatu.

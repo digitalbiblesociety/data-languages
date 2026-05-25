@@ -1,8 +1,6 @@
 ---
 iso: law
 name: Lauje
-name_zh: 劳杰语
-name_zh_auto: true
 autonym: Laudje
 alt_names: [Ampibabo-Lauje, Tinombo]
 population: 49800
@@ -16,6 +14,10 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Celebic > Greater Eastern Celebic > Tominic > Northern Tomini > Lauje"
 wikipedia_url: "https://en.wikipedia.org/wiki/Lauje_language"
+translations:
+  - translation_iso: zho
+    name: 劳杰语
+    auto: true
 rolv_dialects:
   - rolv_code: 25170
     language_tag: law-x-HIS25170

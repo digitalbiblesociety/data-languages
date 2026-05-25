@@ -1,8 +1,6 @@
 ---
 iso: knb
 name: Lubuagan Kalinga
-name_zh: 卢布阿甘卡林加语
-name_zh_auto: true
 autonym: null
 alt_names: ["Kalinga, Lubuagan", Philippines]
 population: 30000
@@ -15,6 +13,10 @@ glottocode: lubu1243
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Northern Luzon > Meso-Cordilleran > South-Central Cordilleran > Central Cordilleran > Kalinga-Itneg > Kalinga > Central and South Kalinga > Lubuagan Kalinga"
+translations:
+  - translation_iso: zho
+    name: 卢布阿甘卡林加语
+    auto: true
 rolv_dialects:
   - rolv_code: 11404
     language_tag: knb-x-HIS11404

@@ -1,7 +1,6 @@
 ---
 iso: tcs
 name: Torres Strait Creole
-name_zh: 托雷斯海峽克里奧爾語
 autonym: Yumplatok
 alt_names: [Ap-Ne-Ap, Blaik, Cape York Creole, Creole, "Creole, Torres Strait", Lockhart Creole, Torres Strait Broken, Torres Strait Islander language, Torres Strait Islander people, Torres Strait Pidgin, West Torres, Yumblatok]
 population: 6170
@@ -15,6 +14,11 @@ glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Germanic > Northwest Germanic > West Germanic > North Sea Germanic > Anglo-Frisian > Anglic > Later Anglic > Middle-Modern English > Macro-English > Pacific Creole English > Early Melanesian Pidgin > Torres Strait-Lockhart River Creole"
 wikipedia_url: "https://en.wikipedia.org/wiki/Torres_Strait_Creole"
+translations:
+  - translation_iso: jpn
+    name: トレス海峡クレオール
+  - translation_iso: zho
+    name: 托雷斯海峽克里奧爾語
 rolv_dialects:
   - rolv_code: 17606
     language_tag: tcs-x-HIS17606

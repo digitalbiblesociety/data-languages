@@ -1,8 +1,6 @@
 ---
 iso: umo
 name: Umotína
-name_zh: 乌莫蒂纳语
-name_zh_auto: true
 autonym: Barbados
 alt_names: [Barbado, Umotina, Umutina]
 population: null
@@ -16,5 +14,9 @@ glottolog_family_id: boro1281
 glottolog_family_name: Bororoan
 glottolog_classification: "Bororoan > Umotína"
 wikipedia_url: "https://en.wikipedia.org/wiki/Umot%C3%ADna_language"
+translations:
+  - translation_iso: zho
+    name: 乌莫蒂纳语
+    auto: true
 ---
 Umotína or Umutína is a recently extinct Bororoan language of Brazil. As of 2015, only two elders remembered the language. The language was decimated by various epidemics among the Umutina.

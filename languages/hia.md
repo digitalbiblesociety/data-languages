@@ -1,8 +1,6 @@
 ---
 iso: hia
 name: Lamang
-name_zh: 拉芒语
-name_zh_auto: true
 autonym: Gbuhwe
 alt_names: [Hitkala, Laamang, Mandara Group B, Waha]
 population: 40000
@@ -16,6 +14,10 @@ glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > Biu-Mandara > North Biu-Mandara > Lamang-Hdi > Lamang"
 wikipedia_url: "https://en.wikipedia.org/wiki/Lamang_language"
+translations:
+  - translation_iso: zho
+    name: 拉芒语
+    auto: true
 rolv_dialects:
   - rolv_code: 1767
     language_tag: hia-x-HIS01767

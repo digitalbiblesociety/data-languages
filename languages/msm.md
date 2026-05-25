@@ -1,8 +1,6 @@
 ---
 iso: msm
 name: Agusan Manobo
-name_zh: 阿古桑曼诺博语
-name_zh_auto: true
 autonym: "Manobo, Agusan"
 alt_names: [Agusan]
 population: 60000
@@ -15,6 +13,12 @@ glottocode: agus1235
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Greater Central Philippine > Manobo > Central and Southern Manobo > East-West-Central Manobo > East and Central Manobo > East Manobo > Agusan Manobo"
+translations:
+  - translation_iso: jpn
+    name: アグサン・マノボ語
+  - translation_iso: zho
+    name: 阿古桑曼诺博语
+    auto: true
 rolv_dialects:
   - rolv_code: 4902
     language_tag: msm-x-HIS04902

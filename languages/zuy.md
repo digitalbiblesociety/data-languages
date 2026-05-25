@@ -1,8 +1,6 @@
 ---
 iso: zuy
 name: Zumaya
-name_zh: 祖玛亚语
-name_zh_auto: true
 autonym: null
 alt_names: [Llengua zumaia, Zoumayeg, Zumaia hizkuntza, Zumaya jezik]
 population: null
@@ -16,5 +14,9 @@ glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > Masa > North Masa > Unclassified North Masa > Zumaya"
 wikipedia_url: "https://en.wikipedia.org/wiki/Zumaya_language"
+translations:
+  - translation_iso: zho
+    name: 祖玛亚语
+    auto: true
 ---
 Zumaya is an extinct Chadic language once spoken in Cameroon. It is known only from a few words recorded from the last speaker. It may have been divergent within the Masa branch of Chadic.

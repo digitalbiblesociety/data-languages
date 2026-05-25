@@ -1,8 +1,6 @@
 ---
 iso: kjy
 name: Erave
-name_zh: 埃拉韦语
-name_zh_auto: true
 autonym: Kewa South
 alt_names: [Pole, South Kewa, Southern Kewa]
 population: 10000
@@ -15,4 +13,8 @@ glottocode: erav1244
 glottolog_family_id: nucl1709
 glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Enga-Kewa-Huli > Kewa-Huli > Sau-Angal-Kewa > Angal-Kewa > Kewa > Southeast Kewa > Erave"
+translations:
+  - translation_iso: zho
+    name: 埃拉韦语
+    auto: true
 ---

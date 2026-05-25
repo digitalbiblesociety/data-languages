@@ -1,8 +1,6 @@
 ---
 iso: waf
 name: Wakoná
-name_zh: 瓦科纳语
-name_zh_auto: true
 autonym: Aconã
 alt_names: [Brazil, Wakona]
 population: null
@@ -16,5 +14,9 @@ glottolog_family_id: unat1236
 glottolog_family_name: Unattested
 glottolog_classification: "Unattested > Wakoná"
 wikipedia_url: "https://en.wikipedia.org/wiki/Wakon%C3%A1_language"
+translations:
+  - translation_iso: zho
+    name: 瓦科纳语
+    auto: true
 ---
 Wakoná (Aconã) is an extinct and unattested, presumed language of eastern Brazil, formerly spoken by the Aconã people. The dispersed ethnic population numbered an estimated 500 to 1,000 in 1995.

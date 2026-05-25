@@ -1,7 +1,6 @@
 ---
 iso: sat
 name: Santali
-name_zh: 桑塔利语
 autonym: ᱥᱟᱱᱛᱟᱲᱤ
 alt_names: [Har, Hor, Idioma santalí, Język santali, Lenga santali, Lingua Santali, Língua santali, Sainti, Samtali, Sandal, Sangtal, Santala lingvo, Santaleg, Santali jezik, Santalin kieli, Santhal, Santhali, Santhiali, Santâlî, "Sat?r", Satar, Sentali, Sonthal, santal, Сантали, Сантали језик, संथाली, संथाळी भाषा, সাঁওতালি ভাষা, સંથાલી ભાષા, சந்த்தாளி மொழி, സന്താലി, ภาษาสันตาลี, サンタル語, 桑塔利语]
 population: 7620000
@@ -16,6 +15,17 @@ glottolog_family_id: aust1305
 glottolog_family_name: Austroasiatic
 glottolog_classification: "Austroasiatic > Mundaic > North Munda > Kherwarian > Santalic > Santali"
 wikipedia_url: "https://en.wikipedia.org/wiki/Santali_language"
+translations:
+  - translation_iso: ara
+    name: سنتالية
+  - translation_iso: hin
+    name: संथाली
+  - translation_iso: jpn
+    name: サンタル語
+  - translation_iso: kor
+    name: 산탈어
+  - translation_iso: zho
+    name: 桑塔利语
 rolv_dialects:
   - rolv_code: 4944
     language_tag: sat-x-HIS04944

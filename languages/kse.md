@@ -1,8 +1,6 @@
 ---
 iso: kse
 name: Kuni
-name_zh: 库尼语
-name_zh_auto: true
 autonym: null
 population: 2400
 country_id: PG
@@ -15,5 +13,9 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > Papuan Tip linkage > Peripheral Papuan Tip linkage > Central Papuan Oceanic > West Central Papuan linkage > Nuclear West Central Papuan linkage > Kuni"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kuni_language"
+translations:
+  - translation_iso: zho
+    name: 库尼语
+    auto: true
 ---
 Kuni is a Malayo-Polynesian languages of the central southern coast of the Papuan Peninsula in Papua New Guinea.

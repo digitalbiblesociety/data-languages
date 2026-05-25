@@ -1,7 +1,6 @@
 ---
 iso: lcq
 name: Luhu
-name_zh: 鲁胡语
 autonym: null
 alt_names: [Indonesia]
 population: 6500
@@ -15,6 +14,9 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Nunusaku > Piru Bay > West Piru Bay > Hoamoal > West Hoamoal > Luhu-Piru"
 wikipedia_url: "https://en.wikipedia.org/wiki/Luhu_language"
+translations:
+  - translation_iso: zho
+    name: 鲁胡语
 rolv_dialects:
   - rolv_code: 13113
     language_tag: lcq-x-HIS13113

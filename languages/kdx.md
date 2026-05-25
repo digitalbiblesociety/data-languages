@@ -1,7 +1,6 @@
 ---
 iso: kdx
 name: Kam
-name_zh: 宁沃姆语
 autonym: Kam
 alt_names: [Nyimwomeg, Nyingwom, Nyiwom, Yimwom, 𐌽𐌾𐌹𐌼𐍅𐍉𐌼𐌰𐍂𐌰𐌶𐌳𐌰]
 population: 5000
@@ -15,5 +14,10 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Kam"
 wikipedia_url: "https://en.wikipedia.org/wiki/Nyingwom_language"
+translations:
+  - translation_iso: jpn
+    name: ニングォム語
+  - translation_iso: zho
+    name: 宁沃姆语
 ---
 The Nyingwom or Kam language is a Niger-Congo language spoken in eastern Nigeria. Blench (2019) lists speakers residing in the main villages of Mayo Kam and Kamajim in Bali LGA, Taraba State. Lesage reports that Kam is spoken in 27 villages of Bali LGA.

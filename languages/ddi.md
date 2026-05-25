@@ -1,8 +1,6 @@
 ---
 iso: ddi
 name: West Goodenough
-name_zh: 西古德依夫语
-name_zh_auto: true
 autonym: West Goodenough
 alt_names: ["Goodenough, West"]
 population: 2180
@@ -16,6 +14,10 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > Papuan Tip linkage > Nuclear Papuan Tip linkage > North Papuan Mainland-D'Entrecasteaux linkage > Bwaidoga linkage > Diodio"
 wikipedia_url: "https://en.wikipedia.org/wiki/Diodio_language"
+translations:
+  - translation_iso: zho
+    name: 西古德依夫语
+    auto: true
 rolv_dialects:
   - rolv_code: 2219
     language_tag: ddi-x-HIS02219

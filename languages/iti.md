@@ -1,8 +1,6 @@
 ---
 iso: iti
 name: Inlaod Itneg
-name_zh: 因劳德伊特内格语
-name_zh_auto: true
 autonym: Tinggian
 alt_names: [Inlaod, "Itneg, Inlaod", Tinguian]
 population: 9000
@@ -15,4 +13,8 @@ glottocode: inla1260
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Northern Luzon > Meso-Cordilleran > South-Central Cordilleran > Central Cordilleran > Kalinga-Itneg > Itneg > Inlaod Itneg"
+translations:
+  - translation_iso: zho
+    name: 因劳德伊特内格语
+    auto: true
 ---

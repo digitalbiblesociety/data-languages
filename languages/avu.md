@@ -1,8 +1,6 @@
 ---
 iso: avu
 name: Avokaya
-name_zh: 阿沃卡亚语
-name_zh_auto: true
 autonym: Abukeia
 alt_names: [Avokayeg, Avukaya, Авокајаски јазик]
 population: 99000
@@ -16,6 +14,10 @@ glottolog_family_id: cent2225
 glottolog_family_name: Central Sudanic
 glottolog_classification: "Central Sudanic > Moru-Madi > Central Moru-Madi > Avokayic > Avokaya"
 wikipedia_url: "https://en.wikipedia.org/wiki/Avokaya_language"
+translations:
+  - translation_iso: zho
+    name: 阿沃卡亚语
+    auto: true
 rolv_dialects:
   - rolv_code: 7377
     language_tag: avu-x-HIS07377

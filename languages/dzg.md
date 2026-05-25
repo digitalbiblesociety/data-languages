@@ -1,7 +1,6 @@
 ---
 iso: dzg
 name: Dazaga
-name_zh: 達薩語
 autonym: Dazaga
 alt_names: [Dasa, Daza, Dazageg, Dazza, Tebu, Tibbu, Toubou, Tubu, Дазагаски јазик, لغة الدزازا]
 population: 692400
@@ -15,6 +14,17 @@ glottolog_family_id: saha1256
 glottolog_family_name: Saharan
 glottolog_classification: "Saharan > Western Saharan > Tebu > Dazaga"
 wikipedia_url: "https://en.wikipedia.org/wiki/Daza_language"
+translations:
+  - translation_iso: ara
+    name: لغة الدازاقا
+  - translation_iso: hin
+    name: दज़ागा
+  - translation_iso: jpn
+    name: ダザガ語
+  - translation_iso: kor
+    name: 다장가어
+  - translation_iso: zho
+    name: 達薩語
 rolv_dialects:
   - rolv_code: 2967
     language_tag: sjg-x-HIS02967

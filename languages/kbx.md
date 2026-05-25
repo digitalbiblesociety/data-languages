@@ -1,8 +1,6 @@
 ---
 iso: kbx
 name: Ap Ma
-name_zh: 阿普玛语
-name_zh_auto: true
 autonym: Ap Ma
 alt_names: [Ap Ma Botin, Botin, Kambot, Kambot (Keram), Karaube, Keram]
 population: 10000
@@ -16,6 +14,10 @@ glottolog_family_id: kera1258
 glottolog_family_name: Keram
 glottolog_classification: "Keram > East Keram > Ap Ma"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kambot_language"
+translations:
+  - translation_iso: zho
+    name: 阿普玛语
+    auto: true
 rolv_dialects:
   - rolv_code: 460
     language_tag: kbx-x-HIS00460

@@ -1,8 +1,6 @@
 ---
 iso: ulw
 name: Ulwa
-name_zh: 乌尔瓦语
-name_zh_auto: true
 autonym: Sumu
 population: null
 country_id: NI
@@ -14,4 +12,8 @@ glottocode: ulwa1239
 glottolog_family_id: misu1242
 glottolog_family_name: Misumalpan
 glottolog_classification: "Misumalpan > Sumalpan > Sumuic > Ulwa"
+translations:
+  - translation_iso: zho
+    name: 乌尔瓦语
+    auto: true
 ---

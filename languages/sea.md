@@ -1,7 +1,6 @@
 ---
 iso: sea
 name: Semai
-name_zh: 塞迈语
 autonym: Engrok Semai
 alt_names: [Bahasa Semai, "Central \"Sakai\"", Central Sakai, Sakai, Sengoi, Senoi, Zentral Sakai]
 population: 2000
@@ -15,6 +14,11 @@ glottolog_family_id: aust1305
 glottolog_family_name: Austroasiatic
 glottolog_classification: "Austroasiatic > Aslian > Central-Northern Aslian > Senoic > Semai"
 wikipedia_url: "https://en.wikipedia.org/wiki/Semai_language"
+translations:
+  - translation_iso: jpn
+    name: セマイ語
+  - translation_iso: zho
+    name: 塞迈语
 rolv_dialects:
   - rolv_code: 2402
     language_tag: sea-x-HIS02402

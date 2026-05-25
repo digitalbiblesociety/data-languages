@@ -1,7 +1,6 @@
 ---
 iso: mag
 name: Magahi
-name_zh: 摩揭陀语
 autonym: Magadhi
 alt_names: [Bihari, Język magahi, Lenga magahi, Lingua Magahi, Lingua magadhi, Magadeg, Magahijština, Magahî, Magaya, Maghai, Maghaya, Maghori, Magi, Magodhi, Megahi, Магахи, Маґадхі, मगही, मागधी भाषा, মাগধী ভাষা, મગહી ભાષા, ภาษามคธี, マガヒー語, 摩揭陀語]
 population: 20700000
@@ -16,6 +15,17 @@ glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Indo-Aryan > Middle-Modern Indo-Aryan > Continental Indo-Aryan > Midlands Indo-Aryan > Shaurasenic > Bihari > Magadhan > Magahi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Magahi_language"
+translations:
+  - translation_iso: ara
+    name: لغة ماجادهي
+  - translation_iso: hin
+    name: मगही
+  - translation_iso: jpn
+    name: マガヒー語
+  - translation_iso: kor
+    name: 마가드어
+  - translation_iso: zho
+    name: 摩揭陀语
 rolv_dialects:
   - rolv_code: 4739
     language_tag: mag-x-HIS04739

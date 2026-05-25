@@ -1,8 +1,6 @@
 ---
 iso: tij
 name: Tilung
-name_zh: 蒂隆语
-name_zh_auto: true
 autonym: Tiling
 alt_names: [Halesidanda, Tilling, Tilung Blama]
 population: 310
@@ -16,6 +14,10 @@ glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Himalayish > Mahakiranti > Kiranti > Thulung-Tilung-Koyi > Tilung"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tilung_language"
+translations:
+  - translation_iso: zho
+    name: 蒂隆语
+    auto: true
 rolv_dialects:
   - rolv_code: 17496
     language_tag: tij-x-HIS17496

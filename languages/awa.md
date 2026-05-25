@@ -1,7 +1,6 @@
 ---
 iso: awa
 name: Awadhi
-name_zh: 阿瓦德语
 autonym: अवधी
 alt_names: [Abadi, Abohi, Ambodhi, Avadhi, Awadeg, Baiswari, Eastern Hindi, Kojali, Kosali, Lenga awadhi, Lingua awadhi, અવધી ભાષા, அவதி மொழி, ภาษาอวธี, アワディー語, 阿瓦德语]
 population: 37700000
@@ -16,6 +15,17 @@ glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Indo-Aryan > Middle-Modern Indo-Aryan > Continental Indo-Aryan > Midlands Indo-Aryan > Shaurasenic > Eastern Hindi > Awadhic > Awadhi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Awadhi_language"
+translations:
+  - translation_iso: ara
+    name: الأودية
+  - translation_iso: hin
+    name: अवधी
+  - translation_iso: jpn
+    name: アワディー語
+  - translation_iso: kor
+    name: 아와히어
+  - translation_iso: zho
+    name: 阿瓦德语
 rolv_dialects:
   - rolv_code: 6462
     language_tag: awa-x-HIS06462

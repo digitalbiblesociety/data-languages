@@ -1,8 +1,6 @@
 ---
 iso: lok
 name: Loko
-name_zh: 洛科语
-name_zh_auto: true
 autonym: Landogo
 population: 179000
 country_id: SL
@@ -15,6 +13,10 @@ glottolog_family_id: mand1469
 glottolog_family_name: Mande
 glottolog_classification: "Mande > Western Mande > Manding-Kpelle > Southwest Mande > Mende-Loma > Mende-Bandi > Mende-Loko > Loko"
 wikipedia_url: "https://en.wikipedia.org/wiki/Loko_language"
+translations:
+  - translation_iso: zho
+    name: 洛科语
+    auto: true
 rolv_dialects:
   - rolv_code: 13039
     language_tag: lok-x-HIS13039

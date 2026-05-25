@@ -1,8 +1,6 @@
 ---
 iso: wbe
 name: Waritai
-name_zh: 瓦里泰语
-name_zh_auto: true
 autonym: Waritai
 alt_names: [Wari, Weretai]
 population: 150
@@ -16,5 +14,9 @@ glottolog_family_id: lake1255
 glottolog_family_name: Lakes Plain
 glottolog_classification: "Lakes Plain > Tariku > East Tariku > Doutai-Kai-Waritai > Waritai"
 wikipedia_url: "https://en.wikipedia.org/wiki/Waritai_language"
+translations:
+  - translation_iso: zho
+    name: 瓦里泰语
+    auto: true
 ---
 Waritai is a Lakes Plain language of Irian Jaya, Indonesia. It is spoken in Taiyeve.

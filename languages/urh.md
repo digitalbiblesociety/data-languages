@@ -1,7 +1,6 @@
 ---
 iso: urh
 name: Urhobo
-name_zh: 烏爾霍博語
 autonym: Sobo
 alt_names: ["\"Sobo\""]
 population: 1050000
@@ -15,6 +14,11 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Akpes-Edoid > Edoid > Southwestern Edoid > Urhobo"
 wikipedia_url: "https://en.wikipedia.org/wiki/Urhobo_language"
+translations:
+  - translation_iso: jpn
+    name: ウロボ語
+  - translation_iso: zho
+    name: 烏爾霍博語
 rolv_dialects:
   - rolv_code: 17960
     language_tag: urh-x-HIS17960

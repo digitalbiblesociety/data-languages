@@ -1,8 +1,6 @@
 ---
 iso: aia
 name: Arosi
-name_zh: 阿罗西语
-name_zh_auto: true
 autonym: null
 population: 6750
 country_id: SB
@@ -15,6 +13,12 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Southeast Solomonic > Longgu-Malaita-Makira > Malaita-Makira > Makira > Arosi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Arosi_language"
+translations:
+  - translation_iso: jpn
+    name: アロシ語
+  - translation_iso: zho
+    name: 阿罗西语
+    auto: true
 rolv_dialects:
   - rolv_code: 19430
     language_tag: aia-x-HIS19430

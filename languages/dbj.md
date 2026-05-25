@@ -1,8 +1,6 @@
 ---
 iso: dbj
 name: "Ida'an"
-name_zh: 伊达安语
-name_zh_auto: true
 autonym: Begak
 alt_names: ["Begak-Ida'an", Begak-Idaan, Bulud Upi, Eraans, Idaan, Idahan, Idan, Idayan, Ida’an]
 population: 1500
@@ -16,6 +14,12 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > North Borneo Malayo-Polynesian > Sabahan > Northeast Sabahan > Ida'an"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ida%CA%BCan_language"
+translations:
+  - translation_iso: jpn
+    name: イダアン語
+  - translation_iso: zho
+    name: 伊达安语
+    auto: true
 rolv_dialects:
   - rolv_code: 4267
     language_tag: dbj-x-HIS04267

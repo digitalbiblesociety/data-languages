@@ -1,8 +1,6 @@
 ---
 iso: boj
 name: Anjam
-name_zh: 安姆语
-name_zh_auto: true
 autonym: Bom
 alt_names: [Bogadjim, Bogajim, Bogati, Lalok]
 population: 2020
@@ -16,5 +14,9 @@ glottolog_family_id: nucl1709
 glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Madang > Rai Coast > Mindjim > Lower Minjim > Coastal Minjim > Anjam"
 wikipedia_url: "https://en.wikipedia.org/wiki/Anjam_language"
+translations:
+  - translation_iso: zho
+    name: 安姆语
+    auto: true
 ---
 Anjam or Bom is a Madang language spoken in Madang Province, Papua New Guinea.

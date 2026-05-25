@@ -1,7 +1,6 @@
 ---
 iso: hid
 name: Hidatsa
-name_zh: 希达沙語
 autonym: hiraaciré’
 alt_names: [Doan, Duan, Gros Ventre, Gros Ventres, Hinatsa, Hiraca, Minitari, Minnetaree]
 population: 1200
@@ -15,5 +14,12 @@ glottolog_family_id: siou1252
 glottolog_family_name: Siouan
 glottolog_classification: "Siouan > Missouri River Siouan > Hidatsa"
 wikipedia_url: "https://en.wikipedia.org/wiki/Hidatsa_language"
+translations:
+  - translation_iso: ara
+    name: هيداتسا
+  - translation_iso: jpn
+    name: ヒダッサ語
+  - translation_iso: zho
+    name: 希达沙語
 ---
 Hidatsa is an endangered Siouan language that is related to the Crow language. It is spoken by the Hidatsa tribe, primarily in North Dakota and South Dakota.

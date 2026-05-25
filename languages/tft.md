@@ -1,7 +1,6 @@
 ---
 iso: tft
 name: Ternate
-name_zh: 特尔纳特语
 autonym: Ternatese
 alt_names: [Indonesia]
 population: 42000
@@ -15,5 +14,14 @@ glottolog_family_id: nort2923
 glottolog_family_name: North Halmahera
 glottolog_classification: "North Halmahera > Northern North Halmahera > Ternatean > Ternate"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ternate_language"
+translations:
+  - translation_iso: ara
+    name: لغة تيرنات
+  - translation_iso: jpn
+    name: テルナタ語
+  - translation_iso: kor
+    name: 트르나테어
+  - translation_iso: zho
+    name: 特尔纳特语
 ---
 Ternate is a language of northern Maluku, eastern Indonesia. It is spoken by the Ternate people, who inhabit the island of Ternate, as well as many other areas of the archipelago. It is the dominant indigenous language of North Maluku, historically important as a regional lingua franca. A North Halmahera language, it is unlike most languages of Indonesia which belong to the Austronesian language family.

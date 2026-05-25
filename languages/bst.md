@@ -1,7 +1,6 @@
 ---
 iso: bst
 name: Basketo
-name_zh: 巴斯克托語
 autonym: Baskatta
 alt_names: [Basketto, Mesketo]
 population: 92600
@@ -15,6 +14,11 @@ glottolog_family_id: gong1255
 glottolog_family_name: Ta-Ne-Omotic
 glottolog_classification: "Ta-Ne-Omotic > Ometo > North-West Ometo > Basketo"
 wikipedia_url: "https://en.wikipedia.org/wiki/Basketo_language"
+translations:
+  - translation_iso: jpn
+    name: バスケト語
+  - translation_iso: zho
+    name: 巴斯克托語
 rolv_dialects:
   - rolv_code: 30761
     language_tag: bst-x-HIS30761

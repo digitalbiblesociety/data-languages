@@ -1,8 +1,6 @@
 ---
 iso: tvt
 name: Tutsa Naga
-name_zh: 图萨纳加语
-name_zh_auto: true
 autonym: Totcha
 alt_names: ["Naga, Tutsa", "Naga,Tutsa", Tutsa]
 population: 25000
@@ -16,5 +14,9 @@ glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Brahmaputran > Patkaian > North Patkaian > Noctean > Tutsic > Tutsa Naga"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tutsa_language"
+translations:
+  - translation_iso: zho
+    name: 图萨纳加语
+    auto: true
 ---
 Tutsa is a Sino-Tibetan language spoken in northeastern India. Tutsa is spoken in southern Changlang district and eastern Tirap district of Arunachal Pradesh, as well as Tinsukia district of Assam (Ethnologue). Half of the speakers are monolingual.

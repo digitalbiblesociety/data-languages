@@ -1,7 +1,6 @@
 ---
 iso: arp
 name: Arapaho
-name_zh: 阿拉帕霍语
 autonym: Hinónoʼeitíít
 alt_names: [Arapaho (Oklahoma), Arapaho (Wyoming), Arapaho-Atsina, Arapahoan, Arapahoan Isolate, Arapahoeg, Arapažština, Arrapahoe, Northern Arapaho]
 population: 1070
@@ -16,6 +15,17 @@ glottolog_family_id: algi1248
 glottolog_family_name: Algic
 glottolog_classification: "Algic > Algonquian-Blackfoot > Algonquian > Arapahoic > Arapaho-Gros Ventre-Besawunena > Arapaho"
 wikipedia_url: "https://en.wikipedia.org/wiki/Arapaho_language"
+translations:
+  - translation_iso: ara
+    name: أرباهو
+  - translation_iso: hin
+    name: अरापाहो
+  - translation_iso: jpn
+    name: アラパホー語
+  - translation_iso: kor
+    name: 아라파호어
+  - translation_iso: zho
+    name: 阿拉帕霍语
 rolv_dialects:
   - rolv_code: 251
     language_tag: arp-x-HIS00251

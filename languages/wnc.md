@@ -1,8 +1,6 @@
 ---
 iso: wnc
 name: Wantoat
-name_zh: 万托亚特语
-name_zh_auto: true
 autonym: Taap
 alt_names: [Bam, Yagawak]
 population: 8000
@@ -16,6 +14,10 @@ glottolog_family_id: nucl1709
 glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Finisterre-Huon > Finisterre-Saruwaged > Wantoatic > Wantoat-Awara > Wantoat"
 wikipedia_url: "https://en.wikipedia.org/wiki/Wantoat_language"
+translations:
+  - translation_iso: zho
+    name: 万托亚特语
+    auto: true
 rolv_dialects:
   - rolv_code: 18180
     language_tag: wnc-x-HIS18180

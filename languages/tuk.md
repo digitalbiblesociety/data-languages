@@ -1,7 +1,6 @@
 ---
 iso: tuk
 name: Turkmen
-name_zh: 土库曼语
 autonym: "تۆرکمن ديلی "
 alt_names: [An Tuircméinis, Bahasa Turkmen, Idioma turcomano, Język turkmeński, Limba turkmenă, Lingua Turcomannica, Lingua turkmena, Língua turcomena, Torkomani, Truchmenisch, Trukhmen, Trukhmeny, Trukmen, Turcman, Turcomanu, Turkman, Turkmani, Turkmanian, Turkmeenin kieli, Turkmeens, Turkmena lingvo, Turkmeneg, Turkmenian, Turkmenische Sprache, Turkmeniska, Turkmenler, Turkmensk, Turkmenski jezik, Turkmenština, Turkmin simi, Turkmène, Turkménčina, Turkmėnų kalba, Turkoman, Turkomans, Türkmen, Türkmen dili, Türkmence, Türkmenisch, Türkmən dili, Èdè Turkmẹ́nì, Забони туркменӣ, Туркмен чĕлхи, Туркменская мова, Туркменски език, Туркменски јазик, Туркменски језик, Туркменский язык, Туркменська мова, Туркмэнская мова, Түрікмен тілі, تۈركمەن تىلى, زبان ترکمنی, तुर्कमेन भाषा, তুর্কমেনীয় ভাষা, ತುರ್ಕ್‌ಮೇನಿಸ್ತಾನ್‌ನ ಭಾಷೆ, ภาษาเติร์กเมน, თურქმენული ენა, ቱርክመንኛ, トルクメン語, 土库曼语, 투르크멘어]
 population: 7061000
@@ -16,6 +15,17 @@ glottolog_family_id: turk1311
 glottolog_family_name: Turkic
 glottolog_classification: "Turkic > Common Turkic > Oghuz > Nuclear Oghuz > East Oghuz > Turkmen"
 wikipedia_url: "https://en.wikipedia.org/wiki/Turkmen_language"
+translations:
+  - translation_iso: ara
+    name: التركمانية
+  - translation_iso: hin
+    name: तुर्कमेन भाषा
+  - translation_iso: jpn
+    name: トルクメン語
+  - translation_iso: kor
+    name: 투르크멘어
+  - translation_iso: zho
+    name: 土库曼语
 rolv_dialects:
   - rolv_code: 17827
     language_tag: tk-x-HIS17827

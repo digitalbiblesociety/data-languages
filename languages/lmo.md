@@ -1,7 +1,6 @@
 ---
 iso: lmo
 name: Lombard
-name_zh: 倫巴底語
 autonym: Lumbaart
 alt_names: [Bahasa Lombard, Gallo-sicilien, Idioma lombardo, Język lombardzki, Langobardus sermo, Lenga lombarda, Lengua Lumbarda, Lengua lombarda, Lingua lombarda, Llombard, Lombard nyelv, Lombard tili, Lombard-gí, Lombardisch, Lombardische Sprache, Lombardish, Lombardisk, Lombardisk språk, Lombardiska, Lombardo, Lombardski jezik, Lombardça, Lombardština, Lombardų kalba, Lombârd, Lonbardiera, Língua lombarda, Lùn-pâ-tí-ngî, Milanese, Ломбардский язык, ภาษาลอมบาร์ด, ロンバルド語, 倫巴底語]
 population: 3600000
@@ -16,6 +15,17 @@ glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Italic > Latino-Faliscan > Latinic > Imperial Latin > Romance > Italo-Western Romance > Western Romance > Shifted Western Romance > Northwestern Shifted Romance > Gallo-Italian > Piemontese-Lombard > Lombard"
 wikipedia_url: "https://en.wikipedia.org/wiki/Lombard_language"
+translations:
+  - translation_iso: ara
+    name: اللُمبَرديَّة
+  - translation_iso: hin
+    name: लोम्बार्ड
+  - translation_iso: jpn
+    name: ロンバルド語
+  - translation_iso: kor
+    name: 롬바르디아어
+  - translation_iso: zho
+    name: 倫巴底語
 rolv_dialects:
   - rolv_code: 13066
     language_tag: lmo-x-HIS13066

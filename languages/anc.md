@@ -1,8 +1,6 @@
 ---
 iso: anc
 name: Ngas
-name_zh: 恩加斯语
-name_zh_auto: true
 autonym: Angas
 alt_names: [Karang, Kerang, Lenga Ngas, Ngas jezik, Ngaseg]
 population: 659000
@@ -16,6 +14,12 @@ glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > West Chadic > West Chadic A > West Chadic A.2-3 > West Chadic A.3 > Ngas"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ngas_language"
+translations:
+  - translation_iso: jpn
+    name: ンガス語
+  - translation_iso: zho
+    name: 恩加斯语
+    auto: true
 rolv_dialects:
   - rolv_code: 6427
     language_tag: anc-x-HIS06427

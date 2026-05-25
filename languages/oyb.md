@@ -1,7 +1,6 @@
 ---
 iso: oyb
 name: Oy
-name_zh: 奥依语 (南亚语系)
 autonym: Huei
 alt_names: [Oi]
 population: 14900
@@ -15,6 +14,9 @@ glottolog_family_id: aust1305
 glottolog_family_name: Austroasiatic
 glottolog_classification: "Austroasiatic > Bahnaric > West Bahnaric > Nuclear West Bahnaric > Oy"
 wikipedia_url: "https://en.wikipedia.org/wiki/Oi_language"
+translations:
+  - translation_iso: zho
+    name: 奥依语 (南亚语系)
 rolv_dialects:
   - rolv_code: 1817
     language_tag: oyb-x-HIS01817

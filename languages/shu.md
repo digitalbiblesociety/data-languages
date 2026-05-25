@@ -1,7 +1,6 @@
 ---
 iso: shu
 name: Chadian Arabic
-name_zh: 乍得阿拉伯語
 autonym: Shuwa
 alt_names: [Arabe Choa, Arabe tchadien, Arabeg Tchad, Arabic, Arabic (Abbéché Chad), Arabic (Borno Nigerian), Arabic (Chadian), Arabic (Western), "Arabic, Chadian", "Arabic, Chadian Spoken", Chad Arabic, Chadian, Chadic Arabic, Choa, Chowa, "L'arabe du Tchad", Shua, Shua Arabic, Shuwa Arabic, Suwa, Tchadisk arabisk, Tourkou, Árabe chadiano, Čadski arapski, Шува арапски јазик, لهجة تشادية]
 population: 1990000
@@ -15,6 +14,15 @@ glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Semitic > West Semitic > Central Semitic > Arabian > Arabic > Egyptic Arabic > Egypto-Sudanic Arabic > Sudanese-Chadian Arabic > Chadian Arabic"
 wikipedia_url: "https://en.wikipedia.org/wiki/Chadian_Arabic"
+translations:
+  - translation_iso: ara
+    name: لهجة تشادية
+  - translation_iso: jpn
+    name: アラビア語チャド方言
+  - translation_iso: kor
+    name: 차드 아랍어
+  - translation_iso: zho
+    name: 乍得阿拉伯語
 rolv_dialects:
   - rolv_code: 1775
     language_tag: ar-TD-x-HIS01775

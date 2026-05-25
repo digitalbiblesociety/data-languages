@@ -1,8 +1,6 @@
 ---
 iso: jim
 name: Jimi (Cameroon)
-name_zh: 吉米语（喀麦隆）
-name_zh_auto: true
 autonym: Jimjimən
 alt_names: ["'Um Falin", Bi-Gimu, Djimi, Jimi, Jimi language, Jimjimen]
 population: 3500
@@ -16,6 +14,10 @@ glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > Biu-Mandara > South Biu-Mandara > Bataic > Gudeic > Gude-Jimi-Zizilivakan > Jimi (Cameroon)"
 wikipedia_url: "https://en.wikipedia.org/wiki/Jimi_language_(Cameroon)"
+translations:
+  - translation_iso: zho
+    name: 吉米语（喀麦隆）
+    auto: true
 rolv_dialects:
   - rolv_code: 28518
     language_tag: jim-x-HIS28518

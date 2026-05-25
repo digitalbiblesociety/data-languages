@@ -1,8 +1,6 @@
 ---
 iso: bmu
 name: "Somba-Siawari"
-name_zh: 松巴-西亚瓦里语
-name_zh_auto: true
 autonym: Mindik
 alt_names: [Bulum, Burum, Burum-Mindik, Burumana, Yaknge]
 population: 10000
@@ -16,6 +14,10 @@ glottolog_family_id: nucl1709
 glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Finisterre-Huon > Huon > Western Huon > Rawlinson > Pindiu > Kosorong-Burum-Mindik > Burum-Mindik"
 wikipedia_url: "https://en.wikipedia.org/wiki/Burum_language"
+translations:
+  - translation_iso: zho
+    name: 松巴-西亚瓦里语
+    auto: true
 rolv_dialects:
   - rolv_code: 4407
     language_tag: bmu-x-HIS04407

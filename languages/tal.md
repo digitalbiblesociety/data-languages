@@ -1,8 +1,6 @@
 ---
 iso: tal
 name: Tal
-name_zh: 塔尔语
-name_zh_auto: true
 autonym: null
 alt_names: [Amtul, Kwabzak]
 population: 10000
@@ -16,6 +14,12 @@ glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > West Chadic > West Chadic A > West Chadic A.2-3 > West Chadic A.3 > Goemaic > Talic > Tal"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tal_language"
+translations:
+  - translation_iso: jpn
+    name: タル語
+  - translation_iso: zho
+    name: 塔尔语
+    auto: true
 rolv_dialects:
   - rolv_code: 23995
     language_tag: tal-x-HIS23995

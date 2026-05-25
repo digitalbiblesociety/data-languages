@@ -1,8 +1,6 @@
 ---
 iso: mxn
 name: Moi (Indonesia)
-name_zh: 印度尼西亚莫伊语
-name_zh_auto: true
 autonym: Mekwei
 alt_names: [Moi, Mooi, Mosana]
 population: 4600
@@ -16,6 +14,10 @@ glottolog_family_id: west1493
 glottolog_family_name: "West Bird's Head"
 glottolog_classification: "West Bird's Head > Seget-Moi > Moi (Indonesia)"
 wikipedia_url: "https://en.wikipedia.org/wiki/Moi_language"
+translations:
+  - translation_iso: zho
+    name: 印度尼西亚莫伊语
+    auto: true
 rolv_dialects:
   - rolv_code: 1655
     language_tag: mxn-x-HIS01655

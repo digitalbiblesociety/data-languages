@@ -1,7 +1,6 @@
 ---
 iso: loz
 name: Lozi
-name_zh: 洛齐语
 autonym: siLozi / Rozi
 alt_names: [Idioma lozi, Język lozi, Kololo, Língua lozi, Rotse, Rotvi, Rozi, Rutse, Silozi, Tozvi]
 population: 734000
@@ -16,6 +15,17 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > East Bantu > Southern Bantu > Nuclear Southern Bantu > Dimsuffix Southern Bantu > Sotho-Tswana (S.30) > Western Sotho-Tswana > Central Sotho-Tswana > Sesotho-Lozi > Lozi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Lozi_language"
+translations:
+  - translation_iso: ara
+    name: اللوزي
+  - translation_iso: hin
+    name: लोज़ी
+  - translation_iso: jpn
+    name: ロジ語
+  - translation_iso: kor
+    name: 로지어
+  - translation_iso: zho
+    name: 洛齐语
 rolv_dialects:
   - rolv_code: 29578
     language_tag: loz-x-HIS29578

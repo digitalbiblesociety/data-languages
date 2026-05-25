@@ -1,8 +1,6 @@
 ---
 iso: kyu
 name: Western Kayah
-name_zh: 西卡亚语
-name_zh_auto: true
 autonym: Kayah
 alt_names: [Karenni, Karennyi, Karieng Daeng, Kaya, Kayah Li, "Kayah, Western", "Kayah,Western", Red Karen, Yang Daeng]
 population: 150000
@@ -16,6 +14,10 @@ glottocode: west2409
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Karenic > Central Karen > Kayah-Yintale > Kayah > Western Kayah"
+translations:
+  - translation_iso: zho
+    name: 西卡亚语
+    auto: true
 rolv_dialects:
   - rolv_code: 27174
     language_tag: kyu-x-HIS27174

@@ -1,8 +1,6 @@
 ---
 iso: nbi
 name: Mao Naga
-name_zh: 毛纳加语
-name_zh_auto: true
 autonym: Sopvoma
 alt_names: [Emela, Maikel, Mao, Memi, Māo Naga, Naga, Naga (Mao), "Naga, Mao", "Naga,Mao", Sopfomo, Spowama]
 population: 972000
@@ -15,6 +13,10 @@ glottocode: maon1238
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Kuki-Chin-Naga > Angami-Ao > Angami-Pochuri > Angami-Mao > Naga Maoic > Mao Naga"
+translations:
+  - translation_iso: zho
+    name: 毛纳加语
+    auto: true
 rolv_dialects:
   - rolv_code: 14565
     language_tag: nbi-x-HIS14565

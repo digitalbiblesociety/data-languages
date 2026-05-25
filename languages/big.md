@@ -1,8 +1,6 @@
 ---
 iso: big
 name: Biangai
-name_zh: 比昂盖语
-name_zh_auto: true
 autonym: null
 population: 6230
 country_id: PG
@@ -14,6 +12,10 @@ glottocode: bian1252
 glottolog_family_id: kuni1270
 glottolog_family_name: Kunimaipan
 glottolog_classification: "Kunimaipan > Biangai"
+translations:
+  - translation_iso: zho
+    name: 比昂盖语
+    auto: true
 rolv_dialects:
   - rolv_code: 8103
     language_tag: big-x-HIS08103

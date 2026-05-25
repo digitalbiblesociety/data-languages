@@ -1,7 +1,6 @@
 ---
 iso: kgp
 name: Kaingang
-name_zh: 開因岡語
 autonym: kanhgág
 alt_names: [Bugre, Caingang, Coroado, Coroados, Idioma kaingáng, Kaingan, Kaingang simi, Kaingng, Kaingán, Língua caingangue, Southern, Southern Jean, Southern Jê]
 population: 18500
@@ -16,6 +15,17 @@ glottolog_family_id: nucl1710
 glottolog_family_name: Nuclear-Macro-Je
 glottolog_classification: "Nuclear-Macro-Je > Je > Southern Je > Kaingang-Xokleng > Kaingangic > Kaingang"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kaingang_language"
+translations:
+  - translation_iso: ara
+    name: الكاينغانغ
+  - translation_iso: hin
+    name: काइंगांग
+  - translation_iso: jpn
+    name: カインガング語
+  - translation_iso: kor
+    name: 카잉강어
+  - translation_iso: zho
+    name: 開因岡語
 rolv_dialects:
   - rolv_code: 11341
     language_tag: kgp-x-HIS11341

@@ -1,8 +1,6 @@
 ---
 iso: sbi
 name: Seti
-name_zh: 塞蒂语
-name_zh_auto: true
 autonym: null
 alt_names: [Aunalei]
 population: 160
@@ -16,5 +14,9 @@ glottolog_family_id: nucl1708
 glottolog_family_name: Nuclear Torricelli
 glottolog_classification: "Nuclear Torricelli > West Wapei > Seti"
 wikipedia_url: "https://en.wikipedia.org/wiki/Seti_language"
+translations:
+  - translation_iso: zho
+    name: 塞蒂语
+    auto: true
 ---
 Seti is a Torricelli language of Papua New Guinea.

@@ -1,7 +1,6 @@
 ---
 iso: cht
 name: Cholón
-name_zh: 乔隆语
 autonym: Seeptsá
 alt_names: [Cholon, Cholona, Seeptsa, Tinganeses]
 population: 2021
@@ -15,5 +14,8 @@ glottolog_family_id: hibi1242
 glottolog_family_name: Hibito-Cholon
 glottolog_classification: "Hibito-Cholon > Cholón"
 wikipedia_url: "https://en.wikipedia.org/wiki/Chol%C3%B3n_language"
+translations:
+  - translation_iso: zho
+    name: 乔隆语
 ---
 Cholón, natively known as Seeptsá and also as Tsinganes, is a language of Peru considered extinct. It was spoken near Uchiza, from Tingo María to Valle in the Huallaga River valley of Huanuco and San Martín regions. The last fluent speaker of Cholon, Victoria Cerquera Ojeda, died in 1993, but a number of semispeakers of the language remain.
