@@ -15,6 +15,9 @@ glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Finisterre-Huon > Huon > Western Huon > Rawlinson > Sankwep > Mese"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mesem_language"
 translations:
+  - translation_iso: ara
+    name: لغة ميسي
+    auto: true
   - translation_iso: jpn
     name: メセム語
   - translation_iso: zho

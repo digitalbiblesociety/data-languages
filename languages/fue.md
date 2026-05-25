@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > North-Central Atlantic > Fula-Sereer > Fula > Borgu Fulfulde"
 wikipedia_url: "https://en.wikipedia.org/wiki/Borgu_Fulfulde"
 translations:
+  - translation_iso: ara
+    name: الفولفولدية بورجو
+    auto: true
   - translation_iso: jpn
     name: ボルグ・フルフルディ語
   - translation_iso: zho

@@ -14,6 +14,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Wide Grassfields > Narrow Grassfields > Southwest Grassfields > Balo"
 wikipedia_url: "https://en.wikipedia.org/wiki/Balo_language"
 translations:
+  - translation_iso: ara
+    name: بالو
+    auto: true
   - translation_iso: jpn
     name: バロ語
     auto: true

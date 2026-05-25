@@ -15,6 +15,9 @@ glottolog_family_name: Dajuic
 glottolog_classification: "Dajuic > Western Dajuic > Dar Sila Daju"
 wikipedia_url: "https://en.wikipedia.org/wiki/Sila_language_(Chad)"
 translations:
+  - translation_iso: ara
+    name: داجو دار سيلا
+    auto: true
   - translation_iso: jpn
     name: ダル・シラ・ダジュ語
     auto: true

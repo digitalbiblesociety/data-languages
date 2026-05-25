@@ -14,6 +14,9 @@ glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Indo-Aryan > Middle-Modern Indo-Aryan > Continental Indo-Aryan > Indo-Aryan Northwestern zone > Sindhi-Lahnda > Greater Panjabic > Paharic > Pahari Potwari"
 translations:
+  - translation_iso: ara
+    name: اللغة باهاري-بوتواري
+    auto: true
   - translation_iso: jpn
     name: パハリ語
   - translation_iso: zho

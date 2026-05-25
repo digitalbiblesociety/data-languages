@@ -15,6 +15,9 @@ glottolog_family_name: Gunwinyguan
 glottolog_classification: "Gunwinyguan > Eastern Gunwinyguan > Wubuy-Anindilyakwa > Anindilyakwa"
 wikipedia_url: "https://en.wikipedia.org/wiki/Anindilyakwa_language"
 translations:
+  - translation_iso: ara
+    name: لغة أنيندّيليّاكوا
+    auto: true
   - translation_iso: jpn
     name: エニンディリャグワ語
   - translation_iso: zho

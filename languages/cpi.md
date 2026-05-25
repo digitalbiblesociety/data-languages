@@ -15,6 +15,9 @@ glottolog_family_name: Pidgin
 glottolog_classification: "Pidgin > English-based pidgin > Chinese Pidgin English"
 wikipedia_url: "https://en.wikipedia.org/wiki/Chinese_Pidgin_English"
 translations:
+  - translation_iso: ara
+    name: الإنجليزية بيدجين الصينية
+    auto: true
   - translation_iso: jpn
     name: 中国ピジン語
   - translation_iso: zho

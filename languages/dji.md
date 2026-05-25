@@ -15,6 +15,9 @@ glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > Yuulngu > Western-Inland Yolngu > Djinang"
 wikipedia_url: "https://en.wikipedia.org/wiki/Djinang_language"
 translations:
+  - translation_iso: ara
+    name: دجيناند
+    auto: true
   - translation_iso: jpn
     name: ジイナング語
     auto: true

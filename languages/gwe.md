@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > East Bantu > Northeast Savanna Bantu > Kilimanjaro-Taita > Kilimanjaro Bantu > Gweno"
 wikipedia_url: "https://en.wikipedia.org/wiki/Gweno_language"
 translations:
+  - translation_iso: ara
+    name: غوإنو
+    auto: true
   - translation_iso: jpn
     name: グウェノ語
   - translation_iso: zho

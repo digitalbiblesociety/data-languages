@@ -15,6 +15,9 @@ glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Dani > Nggem"
 wikipedia_url: "https://en.wikipedia.org/wiki/Nggem_language"
 translations:
+  - translation_iso: ara
+    name: نجيم
+    auto: true
   - translation_iso: jpn
     name: ングゲム語
     auto: true

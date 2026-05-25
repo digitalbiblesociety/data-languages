@@ -13,6 +13,9 @@ glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Kuki-Chin-Naga > Kuki-Chin > Peripheral Kuki-Chin > South Peripheral Kuki-Chin > Ashoic > Sumtu-Laoktu > Läoktü Chin"
 wikipedia_url: "https://en.wikipedia.org/wiki/L%C3%A4okt%C3%BC_language"
 translations:
+  - translation_iso: ara
+    name: إيكاي تشين
+    auto: true
   - translation_iso: jpn
     name: エカイ・チン語
     auto: true

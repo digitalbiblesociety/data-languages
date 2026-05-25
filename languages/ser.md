@@ -15,6 +15,9 @@ glottolog_family_name: Uto-Aztecan
 glottolog_classification: "Uto-Aztecan > Northern Uto-Aztecan > Takic > Serran > Serrano"
 wikipedia_url: "https://en.wikipedia.org/wiki/Serrano_language"
 translations:
+  - translation_iso: ara
+    name: سيرانو
+    auto: true
   - translation_iso: jpn
     name: セラーノ語
   - translation_iso: zho

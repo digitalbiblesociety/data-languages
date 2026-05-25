@@ -11,6 +11,9 @@ longitude: -61.887818
 glottocode: lule1238
 wikipedia_url: "https://en.wikipedia.org/wiki/Lule_language"
 translations:
+  - translation_iso: ara
+    name: لول
+    auto: true
   - translation_iso: jpn
     name: ルレ語
     auto: true

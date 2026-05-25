@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > North New Guinea linkage > Ngero-Vitiaz linkage > Ngero > Eastern Ngero > Bariai"
 wikipedia_url: "https://en.wikipedia.org/wiki/Bariai_language"
 translations:
+  - translation_iso: ara
+    name: اللغة باريايه
+    auto: true
   - translation_iso: jpn
     name: バリアイ語
   - translation_iso: zho

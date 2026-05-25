@@ -14,6 +14,9 @@ glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Indo-Aryan > Middle-Modern Indo-Aryan > Continental Indo-Aryan > Midlands Indo-Aryan > Shaurasenic > Indo-Aryan Central zone > Romani > Caló"
 wikipedia_url: "https://en.wikipedia.org/wiki/Cal%C3%B3_language"
 translations:
+  - translation_iso: ara
+    name: كالو
+    auto: true
   - translation_iso: jpn
     name: カロー語
   - translation_iso: kor

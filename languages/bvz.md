@@ -15,6 +15,9 @@ glottolog_family_name: Geelvink Bay
 glottolog_classification: "Geelvink Bay > Bauzi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Bauzi_language"
 translations:
+  - translation_iso: ara
+    name: باوزي
+    auto: true
   - translation_iso: jpn
     name: バウジ語
   - translation_iso: zho

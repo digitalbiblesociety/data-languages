@@ -14,6 +14,9 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Northern Bantoid > Dakoid > Taram-Dirim-Nnakenyare > Dirim-Nnakenyare > Jirim"
 translations:
+  - translation_iso: ara
+    name: ديريم
+    auto: true
   - translation_iso: jpn
     name: ディリム語
     auto: true

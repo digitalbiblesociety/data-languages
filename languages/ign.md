@@ -15,6 +15,9 @@ glottolog_family_name: Arawakan
 glottolog_classification: "Arawakan > Southern Maipuran > Bolivian Arawakan > Mojeno-Paunaca > Mojeño > Ignaciano"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ignaciano_language"
 translations:
+  - translation_iso: ara
+    name: إيغناسيانو
+    auto: true
   - translation_iso: jpn
     name: イニャシアーノ語
     auto: true

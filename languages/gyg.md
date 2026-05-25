@@ -13,6 +13,9 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Cameroun-Ubangian > Ubangi > Ngbandi-Mongoba-Kazibati > Ngbandic > Gbayi"
 translations:
+  - translation_iso: ara
+    name: غبآيي
+    auto: true
   - translation_iso: jpn
     name: ギバイ語
     auto: true

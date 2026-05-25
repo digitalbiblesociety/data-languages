@@ -15,6 +15,9 @@ glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Madang > Croisilles > Greater Northern Adelbert > Kowan > Waskia"
 wikipedia_url: "https://en.wikipedia.org/wiki/Waskia_language"
 translations:
+  - translation_iso: ara
+    name: واسكيا
+    auto: true
   - translation_iso: jpn
     name: ワスキア語
     auto: true

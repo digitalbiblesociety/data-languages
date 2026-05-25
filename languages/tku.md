@@ -15,6 +15,9 @@ glottolog_family_name: Totonacan
 glottolog_classification: "Totonacan > Totonac > Central Totonacan > Northern Totonacan > Necaxan > Upper Necaxa Totonac"
 wikipedia_url: "https://en.wikipedia.org/wiki/Upper_Necaxa_Totonac"
 translations:
+  - translation_iso: ara
+    name: توتوناك نيكاكسا العليا
+    auto: true
   - translation_iso: jpn
     name: 上部ネカクサ・トトナック語
     auto: true

@@ -7,6 +7,9 @@ country_id: NG
 country_name: Nigeria
 status_id: 6a
 translations:
+  - translation_iso: ara
+    name: لغة بانكال
+    auto: true
   - translation_iso: jpn
     name: バンカル語
     auto: true

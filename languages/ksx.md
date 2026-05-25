@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Bima-Lembata > Flores > Flores-Lembata > Kedang"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kedang_language"
 translations:
+  - translation_iso: ara
+    name: كيدانج
+    auto: true
   - translation_iso: jpn
     name: ケダン語
     auto: true

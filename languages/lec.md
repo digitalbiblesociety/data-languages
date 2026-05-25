@@ -12,6 +12,9 @@ longitude: -67.88181
 glottocode: leco1242
 wikipedia_url: "https://en.wikipedia.org/wiki/Leco_language"
 translations:
+  - translation_iso: ara
+    name: لغة يكو
+    auto: true
   - translation_iso: jpn
     name: レコ語
     auto: true

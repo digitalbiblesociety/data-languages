@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > North and Central Vanuatu > Northern Vanuatu > Ambae > West Ambae"
 wikipedia_url: "https://en.wikipedia.org/wiki/West_Ambae_language"
 translations:
+  - translation_iso: ara
+    name: أمباي الغربية
+    auto: true
   - translation_iso: jpn
     name: 西アンバエ語
     auto: true

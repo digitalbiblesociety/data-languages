@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > Papuan Tip linkage > Nuclear Papuan Tip linkage > Suauic > 'Auhelawa"
 wikipedia_url: "https://en.wikipedia.org/wiki/%CA%BCAuhelawa_language"
 translations:
+  - translation_iso: ara
+    name: أوهيلاوا
+    auto: true
   - translation_iso: jpn
     name: アウヘラワ語
     auto: true

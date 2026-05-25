@@ -16,6 +16,9 @@ glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Himalayish > Mahakiranti > Kiranti > Northwestern Kiranti > Bahing-Sunwar > Sunwar"
 wikipedia_url: "https://en.wikipedia.org/wiki/Sunwar_language"
 translations:
+  - translation_iso: ara
+    name: اللغة سونوار
+    auto: true
   - translation_iso: jpn
     name: スヌワール語
   - translation_iso: zho

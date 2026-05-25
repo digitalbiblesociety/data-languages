@@ -14,6 +14,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Delta Cross > Central Delta > Kugboic > Ogbia"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ogbia_language"
 translations:
+  - translation_iso: ara
+    name: اللغة أوغبيا
+    auto: true
   - translation_iso: jpn
     name: オグビア語
     auto: true

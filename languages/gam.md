@@ -15,6 +15,9 @@ glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Chimbu-Wahgi > Jimi > Kandawo-Narak > Kandawo"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kandawo_language"
 translations:
+  - translation_iso: ara
+    name: الكاندوو
+    auto: true
   - translation_iso: jpn
     name: カンダウォ語
     auto: true

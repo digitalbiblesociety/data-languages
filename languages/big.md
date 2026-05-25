@@ -13,6 +13,9 @@ glottolog_family_id: kuni1270
 glottolog_family_name: Kunimaipan
 glottolog_classification: "Kunimaipan > Biangai"
 translations:
+  - translation_iso: ara
+    name: بيانجايي
+    auto: true
   - translation_iso: jpn
     name: ビアンガイ語
     auto: true

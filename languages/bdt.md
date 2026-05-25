@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Gbaya-Manza-Ngbaka > Gbaya Meridional-Occidental > Bokoto-Gbeya > Bokoto"
 wikipedia_url: "https://en.wikipedia.org/wiki/Bokoto_language"
 translations:
+  - translation_iso: ara
+    name: اللغة بوكوتو
+    auto: true
   - translation_iso: jpn
     name: ボコト語
   - translation_iso: zho

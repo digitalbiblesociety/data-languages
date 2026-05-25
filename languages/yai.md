@@ -15,6 +15,9 @@ glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Iranian-Nuristani > Iranian > Central Iranian PBS > Sogdic-Ossetic > Sogdic > Sogdian-Yagnobi > Yagnobi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Yaghnobi_language"
 translations:
+  - translation_iso: ara
+    name: ياجنوبي
+    auto: true
   - translation_iso: jpn
     name: ヤグノビ語
   - translation_iso: kor

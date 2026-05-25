@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > North-Central Atlantic > Central Atlantic > Bak > Joola-Manjaku > Jola > FH-Jola > Jola-Esulalu"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kasa_language"
 translations:
+  - translation_iso: ara
+    name: جولا-كاسا
+    auto: true
   - translation_iso: jpn
     name: ジョラ＝カサ語
   - translation_iso: zho

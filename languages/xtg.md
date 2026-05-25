@@ -14,6 +14,9 @@ glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Celtic > Nuclear Celtic > Core Celtic > Continental Transalpine Celtic > Transalpine Gaulish"
 translations:
+  - translation_iso: ara
+    name: جوليا ترانسالبينية
+    auto: true
   - translation_iso: jpn
     name: トランスアルパイン・ゴール語
   - translation_iso: zho

@@ -15,6 +15,9 @@ glottolog_family_name: Tai-Kadai
 glottolog_classification: "Tai-Kadai > Kam-Tai > Daic-Beic > Daic > Central-Southwestern Tai > Wenma-Southwestern Tai > Sapa-Southwestern Tai > Tày Sa Pa"
 wikipedia_url: "https://en.wikipedia.org/wiki/Sapa_language"
 translations:
+  - translation_iso: ara
+    name: تاي سا با
+    auto: true
   - translation_iso: jpn
     name: サパ語
   - translation_iso: zho

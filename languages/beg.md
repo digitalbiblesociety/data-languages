@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > North Borneo Malayo-Polynesian > North Sarawakan > Berawan-Lower Baram > Lower Baram > Central Lower Baram A > Lemeting"
 wikipedia_url: "https://en.wikipedia.org/wiki/Belait_language"
 translations:
+  - translation_iso: ara
+    name: بيلايت
+    auto: true
   - translation_iso: jpn
     name: ベライト語
     auto: true

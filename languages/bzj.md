@@ -15,6 +15,9 @@ glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Germanic > Northwest Germanic > West Germanic > North Sea Germanic > Anglo-Frisian > Anglic > Later Anglic > Middle-Modern English > Macro-English > Guinea Coast Creole English > Caribbean English Creole > Western Caribbean Creole > Miskitoic Creole English > Belize-Miskito Creole English > Belize Kriol English"
 wikipedia_url: "https://en.wikipedia.org/wiki/Belizean_Creole"
 translations:
+  - translation_iso: ara
+    name: بيليز كريول إنْجليزي
+    auto: true
   - translation_iso: jpn
     name: ベリーズ・クレオール語
   - translation_iso: kor

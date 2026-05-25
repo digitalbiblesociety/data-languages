@@ -15,6 +15,9 @@ glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Iranian-Nuristani > Iranian > Central Eastern Iranian > Yidgha-Munji > Munji"
 wikipedia_url: "https://en.wikipedia.org/wiki/Munji_language"
 translations:
+  - translation_iso: ara
+    name: لغة موجي
+    auto: true
   - translation_iso: jpn
     name: ムンジャン語
   - translation_iso: zho

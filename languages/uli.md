@@ -16,6 +16,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Micronesian > Central Micronesian > Western Micronesian > Chuukic-Ponapeic > Trukic > Western Trukic > Ulithian"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ulithian_language"
 translations:
+  - translation_iso: ara
+    name: أوليثيان
+    auto: true
   - translation_iso: jpn
     name: ウリシ語
   - translation_iso: zho

@@ -16,6 +16,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Greater Central Philippine > Central Philippine > Bisayan > West Bisayan > Kinarayan > Kinaray-a"
 wikipedia_url: "https://en.wikipedia.org/wiki/Karay-a_language"
 translations:
+  - translation_iso: ara
+    name: كيناراي-أ
+    auto: true
   - translation_iso: jpn
     name: キナライア語
   - translation_iso: kor

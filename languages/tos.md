@@ -15,6 +15,9 @@ glottolog_family_name: Totonacan
 glottolog_classification: "Totonacan > Totonac > Central Totonacan > South-Central Totonacan > Lowland-Sierra Totonacan > Sierra Totonacan > Highland Totonac"
 wikipedia_url: "https://en.wikipedia.org/wiki/Sierra_Totonac_language"
 translations:
+  - translation_iso: ara
+    name: توتوناك الجبلي
+    auto: true
   - translation_iso: jpn
     name: ハイランド・トトナック語
     auto: true

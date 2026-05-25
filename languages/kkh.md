@@ -15,6 +15,9 @@ glottolog_family_name: Tai-Kadai
 glottolog_classification: "Tai-Kadai > Kam-Tai > Daic-Beic > Daic > Central-Southwestern Tai > Wenma-Southwestern Tai > Sapa-Southwestern Tai > Southwestern Tai > Southwestern Tai P > Shanic > Southern Shanic > Yuanic > Khün"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kh%C3%BCn_language"
 translations:
+  - translation_iso: ara
+    name: لغة خون
+    auto: true
   - translation_iso: jpn
     name: キュン語
   - translation_iso: zho

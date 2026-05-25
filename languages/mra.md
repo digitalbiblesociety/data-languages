@@ -15,6 +15,9 @@ glottolog_family_name: Austroasiatic
 glottolog_classification: "Austroasiatic > Khmuic > Phay-Pram > Tinic > Mlabri"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mlabri_language"
 translations:
+  - translation_iso: ara
+    name: لغة ملابري
+    auto: true
   - translation_iso: jpn
     name: ムラブリ語
     auto: true

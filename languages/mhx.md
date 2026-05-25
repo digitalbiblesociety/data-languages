@@ -15,6 +15,9 @@ glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Burmo-Qiangic > Lolo-Burmese > Burmish > Northern Burmish > Maruic > Maru"
 wikipedia_url: "https://en.wikipedia.org/wiki/Lhao_Vo_language"
 translations:
+  - translation_iso: ara
+    name: لغة مارو
+    auto: true
   - translation_iso: jpn
     name: ロンウォー語
   - translation_iso: zho

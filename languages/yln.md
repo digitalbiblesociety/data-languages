@@ -14,6 +14,9 @@ glottolog_family_id: taik1256
 glottolog_family_name: Tai-Kadai
 glottolog_classification: "Tai-Kadai > Kadaic > Eastern Kra > Buyang > Northern Buyang > Langnian Buyang"
 translations:
+  - translation_iso: ara
+    name: لغة لانغنيان بويانج
+    auto: true
   - translation_iso: jpn
     name: ラングニアン・ブヤン語
     auto: true

@@ -15,6 +15,9 @@ glottolog_family_name: Mande
 glottolog_classification: "Mande > Western Mande > Manding-Kpelle > Central Mande > Susu-Yalunka > Yalunka"
 wikipedia_url: "https://en.wikipedia.org/wiki/Yalunka_language"
 translations:
+  - translation_iso: ara
+    name: يالونكا
+    auto: true
   - translation_iso: jpn
     name: ヤルンカ語
   - translation_iso: zho

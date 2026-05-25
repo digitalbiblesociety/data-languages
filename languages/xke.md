@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > North Borneo Malayo-Polynesian > Central Sarawak > Punan-Muller-Schwaner > Muller-Schwaner > Hovongan-Kereho > Kereho"
 wikipedia_url: "https://en.wikipedia.org/wiki/Krio_Dayak_language"
 translations:
+  - translation_iso: ara
+    name: كيريهو
+    auto: true
   - translation_iso: jpn
     name: ケレホ語
     auto: true

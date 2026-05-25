@@ -15,6 +15,9 @@ glottolog_family_name: Katukinan
 glottolog_classification: "Katukinan > Katawixi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Katawixi_language"
 translations:
+  - translation_iso: ara
+    name: كاتاويخي
+    auto: true
   - translation_iso: jpn
     name: カタウィキシ語
     auto: true

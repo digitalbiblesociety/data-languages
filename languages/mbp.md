@@ -15,6 +15,9 @@ glottolog_family_name: Chibchan
 glottolog_classification: "Chibchan > Core Chibchan > Magdalenic > Northern Magdalenic > Arhuacic > Eastern-Southern Arhuacic > Eastern Arhuacic > Malayo"
 wikipedia_url: "https://en.wikipedia.org/wiki/Wiwa_language"
 translations:
+  - translation_iso: ara
+    name: لغة مالايو
+    auto: true
   - translation_iso: jpn
     name: ウィワ語
   - translation_iso: zho

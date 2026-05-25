@@ -14,6 +14,9 @@ glottolog_family_name: Sign Language
 glottolog_classification: "Sign Language > L1 Sign Language > LSFic > Central European Sign > Bulgarian Sign Language"
 wikipedia_url: "https://en.wikipedia.org/wiki/Bulgarian_Sign_Language"
 translations:
+  - translation_iso: ara
+    name: لغة الإشارة البلغارية
+    auto: true
   - translation_iso: jpn
     name: ブルガリア手話
   - translation_iso: zho

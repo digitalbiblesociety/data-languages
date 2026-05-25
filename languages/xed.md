@@ -15,6 +15,9 @@ glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > Biu-Mandara > North Biu-Mandara > Lamang-Hdi > Hdi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Hdi_language"
 translations:
+  - translation_iso: ara
+    name: هدي
+    auto: true
   - translation_iso: jpn
     name: フディ語
   - translation_iso: zho

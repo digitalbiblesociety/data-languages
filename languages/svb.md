@@ -14,6 +14,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > North New Guinea linkage > Schouten linkage > Siau > Ulau-Suain"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ulau-Suain_language"
 translations:
+  - translation_iso: ara
+    name: اللغة أولاو-سواين
+    auto: true
   - translation_iso: jpn
     name: ウラウ・スアイン語
     auto: true

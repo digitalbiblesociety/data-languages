@@ -15,6 +15,9 @@ glottolog_family_name: South Bougainville
 glottolog_classification: "South Bougainville > Nasioiic > Nasioi > South-Central Nasioi > Central Nasioi > Naasioi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Naasioi_language"
 translations:
+  - translation_iso: ara
+    name: نسيويا
+    auto: true
   - translation_iso: jpn
     name: ナシオイ語
   - translation_iso: zho

@@ -15,6 +15,9 @@ glottolog_family_name: Dravidian
 glottolog_classification: "Dravidian > South Dravidian > South Dravidian I > Tamil-Kannada > Tamil-Kota > Tamil-Toda > Tamil-Irula > Tamil-Kodagu > Tamil-Malayalam > Tamiloid > Malasa-Eravallan > Eravallan"
 wikipedia_url: "https://en.wikipedia.org/wiki/Eravallan_language"
 translations:
+  - translation_iso: ara
+    name: الإيرافالان
+    auto: true
   - translation_iso: jpn
     name: エラヴァッラン語
     auto: true

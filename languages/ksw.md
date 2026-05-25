@@ -15,6 +15,9 @@ glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Karenic > Southern Karen > Sgaw > S'gaw Karen"
 wikipedia_url: "https://en.wikipedia.org/wiki/S%27gaw_Karen_language"
 translations:
+  - translation_iso: ara
+    name: "كارين س'جاو"
+    auto: true
   - translation_iso: jpn
     name: スゴー語
   - translation_iso: zho

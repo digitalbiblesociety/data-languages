@@ -14,6 +14,9 @@ glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Indo-Aryan > Pashayi > Eastern Pashayi > Southeast Pashayi"
 translations:
+  - translation_iso: ara
+    name: اللغة بشاي الجنوبية الشرقية
+    auto: true
   - translation_iso: jpn
     name: 南東パシャイ語
     auto: true

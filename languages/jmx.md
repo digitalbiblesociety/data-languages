@@ -14,6 +14,9 @@ glottolog_family_id: otom1299
 glottolog_family_name: Otomanguean
 glottolog_classification: "Otomanguean > Eastern Otomanguean > Amuzgo-Mixtecan > Mixtecan > Mixtec-Cuicatec > Mixtec > Guerrero Mixtec > Coicoyan-Metlatonoc > Western Juxtlahuaca Mixtec"
 translations:
+  - translation_iso: ara
+    name: لغة ميكستك خوكسلاهواكا الغربية
+    auto: true
   - translation_iso: jpn
     name: 西部フフストラウアカ・ミステク語
     auto: true

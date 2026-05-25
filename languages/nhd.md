@@ -15,6 +15,9 @@ glottolog_family_name: Tupian
 glottolog_classification: "Tupian > Eastern Tupian > Maweti-Guarani > Aweti-Guarani > Tupi-Guarani > Southern Tupi-Guarani > Tupi-Guarani Subgroup I > Tupi-Guarani Subgroup I.A > Paraguay-Brazil Guarani > Chiripá"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ava_Guarani_language"
 translations:
+  - translation_iso: ara
+    name: تشيريبا
+    auto: true
   - translation_iso: jpn
     name: アバグアラニー語
   - translation_iso: zho

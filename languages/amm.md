@@ -15,6 +15,9 @@ glottolog_family_name: Left May
 glottolog_classification: "Left May > Western Left May > Ama (Papua New Guinea)"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ama_language_(New_Guinea)"
 translations:
+  - translation_iso: ara
+    name: لغة آما
+    auto: true
   - translation_iso: jpn
     name: アマ語
   - translation_iso: zho

@@ -15,6 +15,9 @@ glottolog_family_name: Arawakan
 glottolog_classification: "Arawakan > Central-Eastern Maipuran > Central Maipuran > Xaray > Saraveca"
 wikipedia_url: "https://en.wikipedia.org/wiki/Saraveca_language"
 translations:
+  - translation_iso: ara
+    name: سارافيكا
+    auto: true
   - translation_iso: jpn
     name: サラヴェカ語
   - translation_iso: zho

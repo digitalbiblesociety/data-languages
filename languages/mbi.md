@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Greater Central Philippine > Manobo > Central and Southern Manobo > East-West-Central Manobo > West Manobo > WBM-Livunganen-Ilianen > Ilianen Manobo"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ilianen_language"
 translations:
+  - translation_iso: ara
+    name: لغة إيليانن مانوبو
+    auto: true
   - translation_iso: jpn
     name: イリアネン語
   - translation_iso: zho

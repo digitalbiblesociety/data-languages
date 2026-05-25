@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > Bantu A-B10-B20-B30 > Makaa-Kako (A.80-90) > Makaa-Njem (A.80) > Western A80 > Makaaic > North-Central Makaaic > Makaa"
 wikipedia_url: "https://en.wikipedia.org/wiki/Makaa_language"
 translations:
+  - translation_iso: ara
+    name: لغة ماكاا
+    auto: true
   - translation_iso: jpn
     name: マカア語
   - translation_iso: kor

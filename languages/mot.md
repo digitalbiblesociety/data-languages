@@ -15,6 +15,9 @@ glottolog_family_name: Chibchan
 glottolog_classification: "Chibchan > Core Chibchan > Magdalenic > Southern Magdalenic > Barí"
 wikipedia_url: "https://en.wikipedia.org/wiki/Bar%C3%AD_language"
 translations:
+  - translation_iso: ara
+    name: لغة باري
+    auto: true
   - translation_iso: jpn
     name: バリ語
     auto: true

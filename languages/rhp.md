@@ -15,6 +15,9 @@ glottolog_family_name: Nuclear Torricelli
 glottolog_classification: "Nuclear Torricelli > Nuclear Maimai > Heyo-Yahang > Yahang"
 wikipedia_url: "https://en.wikipedia.org/wiki/Yahang_language"
 translations:
+  - translation_iso: ara
+    name: يهانج
+    auto: true
   - translation_iso: jpn
     name: ヤハン語
     auto: true

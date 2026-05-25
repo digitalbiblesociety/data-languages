@@ -15,6 +15,9 @@ glottolog_family_name: North Halmahera
 glottolog_classification: "North Halmahera > Northern North Halmahera > Mainland North Halmaheran > Kao River > Paguic > Kao"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kao_language"
 translations:
+  - translation_iso: ara
+    name: لغة كاو
+    auto: true
   - translation_iso: jpn
     name: カオ語
     auto: true

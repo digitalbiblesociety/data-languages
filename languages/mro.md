@@ -16,6 +16,9 @@ glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Mruic > Mru"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mru_language"
 translations:
+  - translation_iso: ara
+    name: لغة مرو
+    auto: true
   - translation_iso: jpn
     name: ムル語
   - translation_iso: zho

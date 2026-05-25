@@ -12,6 +12,9 @@ longitude: 145.03551
 glottocode: pura1257
 wikipedia_url: "https://en.wikipedia.org/wiki/Purari_language"
 translations:
+  - translation_iso: ara
+    name: بورار
+    auto: true
   - translation_iso: jpn
     name: プラリ語
     auto: true

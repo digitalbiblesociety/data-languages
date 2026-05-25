@@ -12,6 +12,9 @@ longitude: -92.005921
 glottocode: adai1235
 wikipedia_url: "https://en.wikipedia.org/wiki/Adai_language"
 translations:
+  - translation_iso: ara
+    name: اداي
+    auto: true
   - translation_iso: jpn
     name: アダイ語
     auto: true

@@ -14,6 +14,9 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Nunusaku > Piru Bay > East Piru Bay > Eastern Littoral Piru Bay > Sepa (Indonesia)"
 translations:
+  - translation_iso: ara
+    name: اللغة سيبا (إندونيسيا)
+    auto: true
   - translation_iso: jpn
     name: セパ語
   - translation_iso: zho

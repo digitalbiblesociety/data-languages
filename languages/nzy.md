@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Cameroun-Ubangian > Mbumic > Central Mbum > Karangic > Nzakambay"
 wikipedia_url: "https://en.wikipedia.org/wiki/Nzakambay_language"
 translations:
+  - translation_iso: ara
+    name: اللغة نزاكامبي
+    auto: true
   - translation_iso: jpn
     name: ンザカンバイ語
     auto: true

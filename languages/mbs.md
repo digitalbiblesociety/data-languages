@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Greater Central Philippine > Manobo > Central and Southern Manobo > South Manobo > Sarangani-Tasaday-Cotabato > Sarangani Manobo"
 wikipedia_url: "https://en.wikipedia.org/wiki/Sarangani_language"
 translations:
+  - translation_iso: ara
+    name: لغة ساراجاني مانوبو
+    auto: true
   - translation_iso: jpn
     name: サランガニ・マノボ語
     auto: true

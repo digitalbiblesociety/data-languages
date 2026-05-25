@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Benue-Congo Plateau > West-Central Benue-Congo Plateau > Northwestern Benue-Congo Plateau > Hyamic > Kyoli"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kyoli_language"
 translations:
+  - translation_iso: ara
+    name: الكوري
+    auto: true
   - translation_iso: jpn
     name: コリ語
     auto: true

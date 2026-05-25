@@ -8,6 +8,9 @@ country_name: Unknown or Invalid Territory
 status_id: null
 wikipedia_url: "https://en.wikipedia.org/wiki/ISO_639:mis"
 translations:
+  - translation_iso: ara
+    name: اللغات غير المشفرة
+    auto: true
   - translation_iso: jpn
     name: 言語コードのない言語
   - translation_iso: kor

@@ -15,6 +15,9 @@ glottolog_family_name: Sepik
 glottolog_classification: "Sepik > Iwam-Wogamus > Wogamusin-Chenapian > Chenapian"
 wikipedia_url: "https://en.wikipedia.org/wiki/Chenapian_language"
 translations:
+  - translation_iso: ara
+    name: الشينابيان
+    auto: true
   - translation_iso: jpn
     name: チェナピアン語
     auto: true

@@ -15,6 +15,9 @@ glottolog_family_name: Cariban
 glottolog_classification: "Cariban > Guianan > Taranoan > Carijona"
 wikipedia_url: "https://en.wikipedia.org/wiki/Carijona_language"
 translations:
+  - translation_iso: ara
+    name: كاريجونا
+    auto: true
   - translation_iso: jpn
     name: カリホナ語
     auto: true

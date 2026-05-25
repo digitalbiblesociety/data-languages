@@ -15,6 +15,9 @@ glottolog_family_name: Sepik
 glottolog_classification: "Sepik > Sepik Hill > Central-Eastern Sepik Hill > Central Sepik Hill > Nuclear Central Sepik Hill > Mari-Bisis > Mari (East Sepik Province)"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mari_language_(Sepik)"
 translations:
+  - translation_iso: ara
+    name: لغة ماري
+    auto: true
   - translation_iso: jpn
     name: マリ語
   - translation_iso: zho

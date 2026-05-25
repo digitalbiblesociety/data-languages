@@ -15,6 +15,9 @@ glottolog_family_name: Tai-Kadai
 glottolog_classification: "Tai-Kadai > Kam-Tai > Daic-Beic > Daic > Central-Southwestern Tai > Debao-Jingxi-Nung > Nung (Viet Nam)"
 wikipedia_url: "https://en.wikipedia.org/wiki/N%C3%B9ng_language_(Tai)"
 translations:
+  - translation_iso: ara
+    name: نونغ (فيتنام)
+    auto: true
   - translation_iso: jpn
     name: ヌン語 (台語)
   - translation_iso: kor

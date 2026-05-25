@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Delta Cross > Upper Cross > Central Upper Cross > North-South Central Delta Cross > Koring-Kukele > Oring"
 wikipedia_url: "https://en.wikipedia.org/wiki/Korring"
 translations:
+  - translation_iso: ara
+    name: اللغة أورينغ
+    auto: true
   - translation_iso: jpn
     name: オリング語
     auto: true

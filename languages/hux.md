@@ -15,6 +15,9 @@ glottolog_family_name: Huitotoan
 glottolog_classification: "Huitotoan > Nuclear Witotoan > Nüpode Huitoto"
 wikipedia_url: "https://en.wikipedia.org/wiki/N%C3%BCpode_Huitoto_language"
 translations:
+  - translation_iso: ara
+    name: نوبودي هويتوتو
+    auto: true
   - translation_iso: jpn
     name: ヌポデ・ウイトト語
     auto: true

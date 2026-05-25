@@ -15,6 +15,9 @@ glottolog_family_name: Mayan
 glottolog_classification: "Mayan > Core Mayan > Quichean-Mamean > Greater Quichean > Core Quichean > Cakchiquel-Tzutujil > Kaqchikelic > Kakchikel-K'iche' Mixed Language"
 wikipedia_url: "https://en.wikipedia.org/wiki/Cauque_Mayan_language"
 translations:
+  - translation_iso: ara
+    name: الكاكتشيكل-كويتشي
+    auto: true
   - translation_iso: jpn
     name: カクチケル・キチェ混合言語
     auto: true

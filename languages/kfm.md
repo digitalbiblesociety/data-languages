@@ -15,6 +15,9 @@ glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Iranian-Nuristani > Iranian > Central Iranian PBS > Central Iranian PB > Northwestern Iranian > Central Iran Kermanic > Nuclear Central Iran Kermanic > Khunsaric"
 wikipedia_url: "https://en.wikipedia.org/wiki/Khunsari_language"
 translations:
+  - translation_iso: ara
+    name: لغة خونساري
+    auto: true
   - translation_iso: jpn
     name: ハーンサール語
   - translation_iso: zho

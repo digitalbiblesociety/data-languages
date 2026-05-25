@@ -14,6 +14,9 @@ glottolog_family_id: aust1305
 glottolog_family_name: Austroasiatic
 glottolog_classification: "Austroasiatic > Katuic > Katu > Nuclear Katu > Eastern Katu"
 translations:
+  - translation_iso: ara
+    name: كاتو الشرقية
+    auto: true
   - translation_iso: jpn
     name: 東カトゥ語
     auto: true

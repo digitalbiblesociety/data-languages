@@ -12,6 +12,9 @@ glottolog_family_name: Artificial Language
 glottolog_classification: "Artificial Language > Neo (Artificial Language)"
 wikipedia_url: "https://en.wikipedia.org/wiki/Neo_language"
 translations:
+  - translation_iso: ara
+    name: نيو
+    auto: true
   - translation_iso: jpn
     name: ネオ
   - translation_iso: zho

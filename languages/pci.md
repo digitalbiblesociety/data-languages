@@ -15,6 +15,9 @@ glottolog_family_name: Dravidian
 glottolog_classification: "Dravidian > Central Dravidian > Parji-Ollari-Gadaba > Duruwa"
 wikipedia_url: "https://en.wikipedia.org/wiki/Duruwa_language"
 translations:
+  - translation_iso: ara
+    name: اللغة دورووا
+    auto: true
   - translation_iso: hin
     name: परजी भाषा
   - translation_iso: jpn

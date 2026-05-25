@@ -15,6 +15,9 @@ glottolog_family_name: Cariban
 glottolog_classification: "Cariban > Kuikuroan > Nuclear Kuikuroan > Matipuhy"
 wikipedia_url: "https://en.wikipedia.org/wiki/Matipuhy_language"
 translations:
+  - translation_iso: ara
+    name: ماتيبوهي
+    auto: true
   - translation_iso: jpn
     name: マティプハイ語
     auto: true

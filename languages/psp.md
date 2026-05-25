@@ -15,6 +15,9 @@ glottolog_family_name: Sign Language
 glottolog_classification: "Sign Language > L1 Sign Language > LSFic > ASLic > Philippine Sign Language"
 wikipedia_url: "https://en.wikipedia.org/wiki/Filipino_Sign_Language"
 translations:
+  - translation_iso: ara
+    name: لغة الإشارة الفيليبينية
+    auto: true
   - translation_iso: jpn
     name: フィリピン手話
   - translation_iso: zho

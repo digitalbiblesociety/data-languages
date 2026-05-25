@@ -14,6 +14,9 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > South Halmahera-West New Guinea > Raja Ampat-South Halmahera > Maya-Salawati-Matbat > Maya-Salawati > Raja Ampat Maya > Waigeo Maya > Kawe"
 translations:
+  - translation_iso: ara
+    name: لغة كاوي
+    auto: true
   - translation_iso: jpn
     name: カウェ語
     auto: true

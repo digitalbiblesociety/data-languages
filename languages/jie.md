@@ -15,6 +15,9 @@ glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > Biu-Mandara > Unclassified Biu-Mandara > Jilbe"
 wikipedia_url: "https://en.wikipedia.org/wiki/Jilbe_language"
 translations:
+  - translation_iso: ara
+    name: لغة جيلبي
+    auto: true
   - translation_iso: jpn
     name: ジルベ語
     auto: true

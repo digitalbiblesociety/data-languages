@@ -15,6 +15,9 @@ glottolog_family_name: Great Andamanese
 glottolog_classification: "Great Andamanese > Middle Great Andamanese > Okol-Opucikwar > Apucikwar"
 wikipedia_url: "https://en.wikipedia.org/wiki/Opucikwar"
 translations:
+  - translation_iso: ara
+    name: اللغة إيه-بوتشيكوار
+    auto: true
   - translation_iso: hin
     name: ओपूचीक्वार भाषा
   - translation_iso: jpn

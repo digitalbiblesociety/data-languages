@@ -15,6 +15,9 @@ glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Bodic > West Himalayish > Western West Himalayish > Kinnauric > Kinnauri"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kinnauri_language"
 translations:
+  - translation_iso: ara
+    name: لغة كيناوري
+    auto: true
   - translation_iso: hin
     name: किन्नौरी भाषा
   - translation_iso: jpn

@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Wide Grassfields > Narrow Grassfields > Ring > South Ring > Babungoic > Kenswei Nsei"
 wikipedia_url: "https://en.wikipedia.org/wiki/Nsei_language"
 translations:
+  - translation_iso: ara
+    name: كنسوي نسي
+    auto: true
   - translation_iso: jpn
     name: ケンスウェイ・ンセイ語
     auto: true

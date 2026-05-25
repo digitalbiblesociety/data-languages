@@ -15,6 +15,9 @@ glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Gongduk"
 wikipedia_url: "https://en.wikipedia.org/wiki/Gongduk_language"
 translations:
+  - translation_iso: ara
+    name: غونجدوك
+    auto: true
   - translation_iso: jpn
     name: ゴングドゥク語
   - translation_iso: zho

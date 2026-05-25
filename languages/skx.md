@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Greater South Sulawesi > Rampi-Seko-Badaic > Seko > Seko Padang"
 wikipedia_url: "https://en.wikipedia.org/wiki/Seko_Padang_language"
 translations:
+  - translation_iso: ara
+    name: اللغة سيكو بادانج
+    auto: true
   - translation_iso: jpn
     name: セコ語
     auto: true

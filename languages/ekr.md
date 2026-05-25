@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Idomoid > Yatye-Akpa > Yace"
 wikipedia_url: "https://en.wikipedia.org/wiki/Yace_language"
 translations:
+  - translation_iso: ara
+    name: الياسي
+    auto: true
   - translation_iso: jpn
     name: ヤセ語
     auto: true

@@ -12,6 +12,9 @@ longitude: -92.54026
 glottocode: tuni1252
 wikipedia_url: "https://en.wikipedia.org/wiki/Tunica_language"
 translations:
+  - translation_iso: ara
+    name: توني كا
+    auto: true
   - translation_iso: jpn
     name: トゥニカ語
   - translation_iso: zho

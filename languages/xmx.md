@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > South Halmahera-West New Guinea > Raja Ampat-South Halmahera > Maya-Salawati-Matbat > Maya-Salawati > Salawati-Batta > Salawati"
 wikipedia_url: "https://en.wikipedia.org/wiki/Salawati_language"
 translations:
+  - translation_iso: ara
+    name: مادين
+    auto: true
   - translation_iso: jpn
     name: マデン語
     auto: true

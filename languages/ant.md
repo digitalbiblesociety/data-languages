@@ -15,6 +15,9 @@ glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > Desert Nyungic > Wati > Unclassified Wati > Antakarinya"
 wikipedia_url: "https://en.wikipedia.org/wiki/Antakarinya_language"
 translations:
+  - translation_iso: ara
+    name: لغة أنتاكاريnya
+    auto: true
   - translation_iso: jpn
     name: アンタカリニャ語
     auto: true

@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Benue-Congo Plateau > Yukubenic > Bete-Lufu > Bete (Yukubenic)"
 wikipedia_url: "https://en.wikipedia.org/wiki/Bete_language_(Nigeria)"
 translations:
+  - translation_iso: ara
+    name: بيتي
+    auto: true
   - translation_iso: jpn
     name: ベテ語
   - translation_iso: zho

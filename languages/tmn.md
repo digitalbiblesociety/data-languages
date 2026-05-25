@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Greater South Sulawesi > South Sulawesi > Tamanic-Bugis > Tamanic > Taman (Indonesia)"
 wikipedia_url: "https://en.wikipedia.org/wiki/Taman_language_(Indonesia)"
 translations:
+  - translation_iso: ara
+    name: تامان إندونيسيا
+    auto: true
   - translation_iso: jpn
     name: タマン語
     auto: true

@@ -14,6 +14,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > North Borneo Malayo-Polynesian > Sabahan > Southwest Sabahan > Greater Murutic > Papar"
 wikipedia_url: "https://en.wikipedia.org/wiki/Papar_language"
 translations:
+  - translation_iso: ara
+    name: بابار
+    auto: true
   - translation_iso: jpn
     name: パパル語
     auto: true

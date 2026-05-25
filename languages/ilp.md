@@ -7,6 +7,9 @@ country_id: PH
 country_name: Philippines
 status_id: null
 translations:
+  - translation_iso: ara
+    name: إيرانون
+    auto: true
   - translation_iso: jpn
     name: イラヌン語
   - translation_iso: zho

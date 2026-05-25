@@ -14,6 +14,9 @@ glottolog_family_id: chib1249
 glottolog_family_name: Chibchan
 glottolog_classification: "Chibchan > Core Chibchan > Magdalenic > Southern Magdalenic > Tunebo > Western Tunebo"
 translations:
+  - translation_iso: ara
+    name: توني بو الغربية
+    auto: true
   - translation_iso: jpn
     name: 西部トゥネボ語
     auto: true

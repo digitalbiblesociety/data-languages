@@ -10,6 +10,9 @@ latitude: 21.98016
 longitude: 101.15793
 wikipedia_url: "https://en.wikipedia.org/wiki/Kuan_language"
 translations:
+  - translation_iso: ara
+    name: كوانهوا
+    auto: true
   - translation_iso: jpn
     name: クアンファ語
     auto: true

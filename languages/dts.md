@@ -14,6 +14,9 @@ glottolog_family_id: dogo1299
 glottolog_family_name: Dogon
 glottolog_classification: "Dogon > Escarpment Dogon > Toro So Dogon"
 translations:
+  - translation_iso: ara
+    name: تورو سو دوجون
+    auto: true
   - translation_iso: jpn
     name: トロ・ソ・ドゴン語
     auto: true

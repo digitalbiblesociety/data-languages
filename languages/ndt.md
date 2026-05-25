@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Cameroun-Ubangian > Ubangi > Ubangi Ka > Mbaic > Ndunga-Mba-Dongo > Ndunga-Mba > Ndunga"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ndunga_language"
 translations:
+  - translation_iso: ara
+    name: ندونجا
+    auto: true
   - translation_iso: jpn
     name: ンドゥンガ語
     auto: true

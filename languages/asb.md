@@ -15,6 +15,9 @@ glottolog_family_name: Siouan
 glottolog_classification: "Siouan > Mississippi Valley > Dakotan > Nakoda > Assiniboine"
 wikipedia_url: "https://en.wikipedia.org/wiki/Assiniboine_language"
 translations:
+  - translation_iso: ara
+    name: اللغة أسينيبوين
+    auto: true
   - translation_iso: jpn
     name: アッシニボイン語
     auto: true

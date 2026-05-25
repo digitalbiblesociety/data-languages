@@ -15,6 +15,9 @@ glottolog_family_name: Austroasiatic
 glottolog_classification: "Austroasiatic > Mundaic > Sora-Juray-Gorum > Gorum-Parenga"
 wikipedia_url: "https://en.wikipedia.org/wiki/Gorum_language"
 translations:
+  - translation_iso: ara
+    name: اللغة باريغا
+    auto: true
   - translation_iso: hin
     name: गोरुम भाषा
   - translation_iso: jpn

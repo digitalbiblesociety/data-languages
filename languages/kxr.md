@@ -14,6 +14,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Admiralty Islands > Eastern Admiralty Islands > Manus > East Manus > Koro-Lele-Nali-Titan > Manus Koro"
 wikipedia_url: "https://en.wikipedia.org/wiki/Manus_Koro_language"
 translations:
+  - translation_iso: ara
+    name: كورو (بابوا غينيا الجديدة)
+    auto: true
   - translation_iso: jpn
     name: コロ語
   - translation_iso: zho

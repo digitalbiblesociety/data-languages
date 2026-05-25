@@ -14,6 +14,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > North Borneo Malayo-Polynesian > North Sarawakan > Bintulu"
 wikipedia_url: "https://en.wikipedia.org/wiki/Bintulu_language"
 translations:
+  - translation_iso: ara
+    name: بينتولو
+    auto: true
   - translation_iso: jpn
     name: ビントゥル語
     auto: true

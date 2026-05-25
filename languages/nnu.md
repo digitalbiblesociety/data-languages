@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Kwa Volta-Congo > Nyo > Potou-Tano > Tano > Guang > North Guang > Oti North Guang > River Oti North Guang > Nchumbulu-Dwang > Dwang"
 wikipedia_url: "https://en.wikipedia.org/wiki/Dwang_language"
 translations:
+  - translation_iso: ara
+    name: دوانغ
+    auto: true
   - translation_iso: jpn
     name: ドゥワン語
     auto: true

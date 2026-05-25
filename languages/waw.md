@@ -15,6 +15,9 @@ glottolog_family_name: Cariban
 glottolog_classification: "Cariban > Parukotoan > Waiwaian > Waiwai"
 wikipedia_url: "https://en.wikipedia.org/wiki/Waiwai_language"
 translations:
+  - translation_iso: ara
+    name: وايواي
+    auto: true
   - translation_iso: jpn
     name: ワイワイ語
   - translation_iso: zho

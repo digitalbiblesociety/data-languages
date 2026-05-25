@@ -15,6 +15,9 @@ glottolog_family_name: Ta-Ne-Omotic
 glottolog_classification: "Ta-Ne-Omotic > Ometo > Chara"
 wikipedia_url: "https://en.wikipedia.org/wiki/Chara_language"
 translations:
+  - translation_iso: ara
+    name: الشارا
+    auto: true
   - translation_iso: jpn
     name: チャラ語
     auto: true

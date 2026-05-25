@@ -15,6 +15,9 @@ glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Kuki-Chin-Naga > Kuki-Chin > Northwestern Kuki-Chin > Analic > Moyon-Monsang Naga > Monsang Naga"
 wikipedia_url: "https://en.wikipedia.org/wiki/Monsang_language"
 translations:
+  - translation_iso: ara
+    name: مونسانغ ناغا
+    auto: true
   - translation_iso: jpn
     name: モンサン語
     auto: true

@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Benue-Congo Plateau > Ninzic > Rukubic > Che"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ce_language"
 translations:
+  - translation_iso: ara
+    name: تشي
+    auto: true
   - translation_iso: jpn
     name: ルクバ語
     auto: true

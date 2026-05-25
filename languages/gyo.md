@@ -8,6 +8,9 @@ country_name: Nepal
 status_id: null
 wikipedia_url: "https://en.wikipedia.org/wiki/Gyalsumdo_language"
 translations:
+  - translation_iso: ara
+    name: غيآلسومدو
+    auto: true
   - translation_iso: jpn
     name: ギャルスムド語
     auto: true

@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > North Borneo Malayo-Polynesian > Sabahan > Northeast Sabahan > Ida'an"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ida%CA%BCan_language"
 translations:
+  - translation_iso: ara
+    name: إيداآن
+    auto: true
   - translation_iso: jpn
     name: イダアン語
   - translation_iso: zho

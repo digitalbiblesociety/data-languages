@@ -15,6 +15,9 @@ glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > Paman > Northern Pama > Gudang-Northeast Paman > Northeast Paman > Uradhic > Atampaya"
 wikipedia_url: "https://en.wikipedia.org/wiki/Atampaya_dialect"
 translations:
+  - translation_iso: ara
+    name: لغة أتامپايا
+    auto: true
   - translation_iso: jpn
     name: アタンパヤ語
     auto: true

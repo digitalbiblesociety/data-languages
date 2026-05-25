@@ -15,6 +15,9 @@ glottolog_family_name: Pano-Tacanan
 glottolog_classification: "Pano-Tacanan > Panoan > Mayoruna Branch > Mayo Group > Matis subgroup > Matís"
 wikipedia_url: "https://en.wikipedia.org/wiki/Matis_language"
 translations:
+  - translation_iso: ara
+    name: لغة ماتيس
+    auto: true
   - translation_iso: jpn
     name: マティス語
     auto: true

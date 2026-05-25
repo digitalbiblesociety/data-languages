@@ -15,6 +15,9 @@ glottolog_family_name: Ijoid
 glottolog_classification: "Ijoid > Ijo > Eastern Ijo > Southeast Ijo"
 wikipedia_url: "https://en.wikipedia.org/wiki/Southeast_Ijo"
 translations:
+  - translation_iso: ara
+    name: إيجو الجنوب الشرقي
+    auto: true
   - translation_iso: jpn
     name: 東南イジョ語
     auto: true

@@ -9,6 +9,9 @@ status_id: 6a
 latitude: 21.77263
 longitude: 77.37332
 translations:
+  - translation_iso: ara
+    name: غوولي
+    auto: true
   - translation_iso: jpn
     name: ゴウリ語
     auto: true

@@ -15,6 +15,9 @@ glottolog_family_name: Western Tasmanian
 glottolog_classification: "Western Tasmanian > Western Coastal Tasmanian > Southwestern Tasmanian"
 wikipedia_url: "https://en.wikipedia.org/wiki/Toogee_language"
 translations:
+  - translation_iso: ara
+    name: تاسماني الجنوبية الغربية
+    auto: true
   - translation_iso: jpn
     name: 南西タスマニア語
     auto: true

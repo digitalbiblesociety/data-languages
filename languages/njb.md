@@ -15,6 +15,9 @@ glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Brahmaputran > Patkaian > North Patkaian > Noctean > Nocte Naga"
 wikipedia_url: "https://en.wikipedia.org/wiki/Nocte_language"
 translations:
+  - translation_iso: ara
+    name: نوكتي ناجا
+    auto: true
   - translation_iso: hin
     name: नोक्टे भाषा
   - translation_iso: jpn

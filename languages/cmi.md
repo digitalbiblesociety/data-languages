@@ -15,6 +15,9 @@ glottolog_family_name: Chocoan
 glottolog_classification: "Chocoan > Embera > San Juan > Upper San Juan > Emberá-Chamí"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ember%C3%A1_Cham%C3%AD"
 translations:
+  - translation_iso: ara
+    name: الإمبيرا-تشامي
+    auto: true
   - translation_iso: jpn
     name: エンベラ・チャミ語
     auto: true

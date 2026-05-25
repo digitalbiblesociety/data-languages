@@ -14,6 +14,9 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Cameroun-Ubangian > Central Adamawa > Samba-Duru > Northern Samba-Duru > Vere-Gimme > Koma Alantika > Gimnime"
 translations:
+  - translation_iso: ara
+    name: غيمنيمإ
+    auto: true
   - translation_iso: jpn
     name: ギムニメ語
     auto: true

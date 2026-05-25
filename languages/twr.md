@@ -14,6 +14,9 @@ glottolog_family_id: utoa1244
 glottolog_family_name: Uto-Aztecan
 glottolog_classification: "Uto-Aztecan > Southern Uto-Aztecan > Tarahumara-Guarijio > Tarahumaran > Unclassified Tarahumaran > Southwestern Tarahumara"
 translations:
+  - translation_iso: ara
+    name: توراهومارا جنوب غربي
+    auto: true
   - translation_iso: jpn
     name: ララムリ・ライチャ語
     auto: true

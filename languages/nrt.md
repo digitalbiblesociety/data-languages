@@ -15,6 +15,9 @@ glottolog_family_name: Kalapuyan
 glottolog_classification: "Kalapuyan > Tualatin-Yamhill"
 wikipedia_url: "https://en.wikipedia.org/wiki/Northern_Kalapuya_language"
 translations:
+  - translation_iso: ara
+    name: كالابويا الشمالية
+    auto: true
   - translation_iso: jpn
     name: 北カラプヤ語
     auto: true

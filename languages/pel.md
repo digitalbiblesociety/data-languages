@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Malayo-Chamic > Malayic > Nuclear Malayic > Northern Sumatra Malay > Kerinci-Minangkabau > Minangkabauic > Pekal"
 wikipedia_url: "https://en.wikipedia.org/wiki/Pekal_language"
 translations:
+  - translation_iso: ara
+    name: اللغة بيكال
+    auto: true
   - translation_iso: jpn
     name: ペカル語
     auto: true

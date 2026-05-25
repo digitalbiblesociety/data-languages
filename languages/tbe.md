@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Temotu > Utupua-Vanikoro > Utupua > Tanimbili"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tanimbili_language"
 translations:
+  - translation_iso: ara
+    name: تانيمبيلي
+    auto: true
   - translation_iso: jpn
     name: タニビリ語
   - translation_iso: zho

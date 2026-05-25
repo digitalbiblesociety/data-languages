@@ -15,6 +15,9 @@ glottolog_family_name: Unattested
 glottolog_classification: "Unattested > Mawa (Nigeria)"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mawa_language_(Nigeria)"
 translations:
+  - translation_iso: ara
+    name: ماوا نيغيريا
+    auto: true
   - translation_iso: jpn
     name: マワ語
   - translation_iso: zho

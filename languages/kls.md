@@ -15,6 +15,9 @@ glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Indo-Aryan > Chitral Kalasha"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kalasha_language"
 translations:
+  - translation_iso: ara
+    name: لغة كالاشا
+    auto: true
   - translation_iso: hin
     name: कलश भाषा
   - translation_iso: jpn

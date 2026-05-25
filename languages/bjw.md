@@ -15,6 +15,9 @@ glottolog_family_name: Kru
 glottolog_classification: "Kru > Eastern Kru > Bakwe-Wane > Bakwé"
 wikipedia_url: "https://en.wikipedia.org/wiki/Bakw%C3%A9_language"
 translations:
+  - translation_iso: ara
+    name: باكوي
+    auto: true
   - translation_iso: jpn
     name: バクウェ語
   - translation_iso: zho

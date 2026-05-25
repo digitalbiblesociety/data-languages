@@ -16,6 +16,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Greater Central Philippine > South Mangyan > Buhid-Taubuid > Buhid"
 wikipedia_url: "https://en.wikipedia.org/wiki/Buhid_language"
 translations:
+  - translation_iso: ara
+    name: بهيد
+    auto: true
   - translation_iso: jpn
     name: ブヒッド語
   - translation_iso: zho

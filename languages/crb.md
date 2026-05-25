@@ -15,6 +15,9 @@ glottolog_family_name: Arawakan
 glottolog_classification: "Arawakan > Caribbean Arawakan > Antillean Arawakan > Ineric > Island Carib-Garifuna > Island Carib"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kalinago_language"
 translations:
+  - translation_iso: ara
+    name: كاريب الجزيرة
+    auto: true
   - translation_iso: jpn
     name: 島嶼カリブ語
   - translation_iso: kor

@@ -15,6 +15,9 @@ glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > Desert Nyungic > Ngumpin-Yapa > Ngumpin > Eastern Ngumpin > Mudburra"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mudburra_language"
 translations:
+  - translation_iso: ara
+    name: مودبورا
+    auto: true
   - translation_iso: jpn
     name: ムドブラ語
     auto: true

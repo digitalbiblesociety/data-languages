@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Greater Seram Laut > Banda-Geser > Seran Laut > Geser-Gorom-Bati > Geser-Gorom"
 wikipedia_url: "https://en.wikipedia.org/wiki/Geser_language"
 translations:
+  - translation_iso: ara
+    name: غإسإر-غوروم
+    auto: true
   - translation_iso: jpn
     name: ゲセル・ゴロム語
     auto: true

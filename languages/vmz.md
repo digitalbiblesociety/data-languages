@@ -15,6 +15,9 @@ glottolog_family_name: Otomanguean
 glottolog_classification: "Otomanguean > Eastern Otomanguean > Popoloca-Zapotecan > Popolocan-Mazatecan > Mazatecan > Central Mazatec > Mazatlán Mazatec"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mazatl%C3%A1n_Mazatec"
 translations:
+  - translation_iso: ara
+    name: مازاتلان مازاتك
+    auto: true
   - translation_iso: jpn
     name: マサトラン・マサテク語
     auto: true

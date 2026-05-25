@@ -15,6 +15,9 @@ glottolog_family_name: Yangmanic
 glottolog_classification: "Yangmanic > Wardaman"
 wikipedia_url: "https://en.wikipedia.org/wiki/Wardaman_language"
 translations:
+  - translation_iso: ara
+    name: واردامان
+    auto: true
   - translation_iso: jpn
     name: ワルダマン語
     auto: true

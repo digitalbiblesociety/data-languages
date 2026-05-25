@@ -15,6 +15,9 @@ glottolog_family_name: Cariban
 glottolog_classification: "Cariban > Venezuelan Cariban > Pemong-Panare > Pemongan > Pemon"
 wikipedia_url: "https://en.wikipedia.org/wiki/Pemon_language"
 translations:
+  - translation_iso: ara
+    name: لغة بيمون
+    auto: true
   - translation_iso: jpn
     name: ペモン語
   - translation_iso: zho

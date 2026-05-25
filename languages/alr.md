@@ -15,6 +15,9 @@ glottolog_family_name: Chukotko-Kamchatkan
 glottolog_classification: "Chukotko-Kamchatkan > Chukotian > Alutor"
 wikipedia_url: "https://en.wikipedia.org/wiki/Alyutor_language"
 translations:
+  - translation_iso: ara
+    name: لغة ألوتور
+    auto: true
   - translation_iso: jpn
     name: アリュートル語
   - translation_iso: kor

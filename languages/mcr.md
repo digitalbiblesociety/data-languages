@@ -15,6 +15,9 @@ glottolog_family_name: Angan
 glottolog_classification: "Angan > Nuclear Angan > Kapau-Menya > Menya"
 wikipedia_url: "https://en.wikipedia.org/wiki/Menya_language"
 translations:
+  - translation_iso: ara
+    name: لغة مينيا
+    auto: true
   - translation_iso: jpn
     name: メニャ語
     auto: true

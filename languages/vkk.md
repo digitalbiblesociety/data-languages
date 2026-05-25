@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Malayo-Chamic > Malayic > Nuclear Malayic > South Sumatra Malay > Kaur"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kaur_language"
 translations:
+  - translation_iso: ara
+    name: كاور
+    auto: true
   - translation_iso: jpn
     name: カウル語
     auto: true

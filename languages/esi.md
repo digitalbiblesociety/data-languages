@@ -14,6 +14,9 @@ glottolog_family_id: eski1264
 glottolog_family_name: Eskimo-Aleut
 glottolog_classification: "Eskimo-Aleut > Eskimo > Inuit > Alaskan Inupiaq > North Alaskan Inupiatun"
 translations:
+  - translation_iso: ara
+    name: الإينوبياتون الأسكا الشمالية
+    auto: true
   - translation_iso: jpn
     name: 北アラスカ・イヌピアツン語
   - translation_iso: zho

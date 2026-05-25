@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Wide Grassfields > Narrow Grassfields > Mbam-Nkam > Southern Mbam-Nkam > Ngembaic > Beba"
 wikipedia_url: "https://en.wikipedia.org/wiki/Beba_language"
 translations:
+  - translation_iso: ara
+    name: بيبا
+    auto: true
   - translation_iso: jpn
     name: ベバ語
     auto: true

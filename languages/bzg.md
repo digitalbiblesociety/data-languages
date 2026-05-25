@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Western Plains Austronesian > Central Western Plains > Babuza"
 wikipedia_url: "https://en.wikipedia.org/wiki/Babuza_language"
 translations:
+  - translation_iso: ara
+    name: بابوزا
+    auto: true
   - translation_iso: jpn
     name: バブサ語
   - translation_iso: zho

@@ -15,6 +15,9 @@ glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Kuki-Chin-Naga > Kuki-Chin > Northwestern Kuki-Chin > Kolhrengic > Nuclear Kolhrengic > Koireng"
 wikipedia_url: "https://en.wikipedia.org/wiki/Koireng_language"
 translations:
+  - translation_iso: ara
+    name: كويرينغ
+    auto: true
   - translation_iso: hin
     name: कोइरेंग भाषा
   - translation_iso: jpn

@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Benue-Congo Plateau > Ninzic > Nungu"
 wikipedia_url: "https://en.wikipedia.org/wiki/Nungu_language"
 translations:
+  - translation_iso: ara
+    name: نونجو
+    auto: true
   - translation_iso: jpn
     name: ヌング語
     auto: true

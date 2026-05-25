@@ -10,6 +10,9 @@ latitude: 52.44816
 longitude: 6.29104
 wikipedia_url: "https://en.wikipedia.org/wiki/Sallaans_dialect"
 translations:
+  - translation_iso: ara
+    name: سالاندس
+    auto: true
   - translation_iso: jpn
     name: サッランス語
     auto: true

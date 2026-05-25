@@ -16,6 +16,9 @@ glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Indo-Aryan > Middle-Modern Indo-Aryan > Continental Indo-Aryan > Midlands Indo-Aryan > Apabhramsic > Gujarati-Rajasthani > Gujaratic > Western Gujaratic > Wadiyara Koli"
 wikipedia_url: "https://en.wikipedia.org/wiki/Wadiyara_Koli_language"
 translations:
+  - translation_iso: ara
+    name: كولي واديارا
+    auto: true
   - translation_iso: jpn
     name: ワディヤラ・コリ語
     auto: true

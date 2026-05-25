@@ -15,6 +15,9 @@ glottolog_family_name: Misumalpan
 glottolog_classification: "Misumalpan > Sumalpan > Matagalpan > Matagalpa"
 wikipedia_url: "https://en.wikipedia.org/wiki/Matagalpa_language"
 translations:
+  - translation_iso: ara
+    name: لغة ماتاجالبا
+    auto: true
   - translation_iso: jpn
     name: マタガルパ語
   - translation_iso: zho

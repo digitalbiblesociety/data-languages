@@ -10,6 +10,9 @@ latitude: 7.00917
 longitude: 6.08581
 wikipedia_url: "https://en.wikipedia.org/wiki/Ihievbe_language"
 translations:
+  - translation_iso: ara
+    name: إهيفبي
+    auto: true
   - translation_iso: jpn
     name: イヒエブベ語
     auto: true

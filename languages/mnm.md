@@ -14,6 +14,9 @@ glottolog_family_name: Dagan
 glottolog_classification: "Dagan > Central Dagan > Southwest Dagan > Mapena"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mapena_language"
 translations:
+  - translation_iso: ara
+    name: لغة مابينا
+    auto: true
   - translation_iso: jpn
     name: マペナ語
     auto: true

@@ -12,6 +12,9 @@ longitude: 159.11878
 glottocode: lavu1241
 wikipedia_url: "https://en.wikipedia.org/wiki/Lavukaleve_language"
 translations:
+  - translation_iso: ara
+    name: لغة افوكاليفي
+    auto: true
   - translation_iso: jpn
     name: ラヴカルヴェ語
   - translation_iso: zho

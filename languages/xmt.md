@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > South Halmahera-West New Guinea > Raja Ampat-South Halmahera > Maya-Salawati-Matbat > Matbat"
 wikipedia_url: "https://en.wikipedia.org/wiki/Matbat_language"
 translations:
+  - translation_iso: ara
+    name: ماتبات
+    auto: true
   - translation_iso: jpn
     name: マトバット語
   - translation_iso: zho

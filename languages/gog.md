@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > East Bantu > Northeast Savanna Bantu > Northeast Coastal Bantu > Ruvu > West Ruvu > Gogo"
 wikipedia_url: "https://en.wikipedia.org/wiki/Gogo_language"
 translations:
+  - translation_iso: ara
+    name: غوغو
+    auto: true
   - translation_iso: hin
     name: गोगो भाषा
   - translation_iso: jpn

@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Timor-Babar > Eastern Timor > Kawaimina > Waima'a"
 wikipedia_url: "https://en.wikipedia.org/wiki/Waimoa_language"
 translations:
+  - translation_iso: ara
+    name: وايماا
+    auto: true
   - translation_iso: jpn
     name: ワイマア語
     auto: true

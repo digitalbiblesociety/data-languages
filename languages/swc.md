@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > East Bantu > Northeast Savanna Bantu > Northeast Coastal Bantu > Coastal NEC Bantu > Sabaki-Swahili > Swahili (G.40) > Mombasa-Lamu-Inland Swahili > Congo Swahili"
 wikipedia_url: "https://en.wikipedia.org/wiki/Congo_Swahili"
 translations:
+  - translation_iso: ara
+    name: السواحيلية في الكونغو
+    auto: true
   - translation_iso: jpn
     name: コンゴ・スワヒリ語
   - translation_iso: zho

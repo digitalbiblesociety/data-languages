@@ -15,6 +15,9 @@ glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Burmo-Qiangic > Na-Qiangic > Naic > Shixing"
 wikipedia_url: "https://en.wikipedia.org/wiki/Shixing_language"
 translations:
+  - translation_iso: ara
+    name: شوهي
+    auto: true
   - translation_iso: jpn
     name: シヒン語
   - translation_iso: zho

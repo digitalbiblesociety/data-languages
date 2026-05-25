@@ -15,6 +15,9 @@ glottolog_family_name: Yukaghir
 glottolog_classification: "Yukaghir > Northern Yukaghir"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tundra_Yukaghir_language"
 translations:
+  - translation_iso: ara
+    name: اللغة يوكاغيز الشمالية
+    auto: true
   - translation_iso: jpn
     name: ツンドラ・ユカギール語
   - translation_iso: kor

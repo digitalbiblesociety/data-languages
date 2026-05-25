@@ -14,6 +14,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Celebic > Greater Eastern Celebic > Eastern Celebic > Southeastern Celebic > Muna-Buton > Nuclear Muna-Buton > Munan > Munic > Western Munic > Pancana"
 wikipedia_url: "https://en.wikipedia.org/wiki/Pancana_language"
 translations:
+  - translation_iso: ara
+    name: اللغة بانكانا
+    auto: true
   - translation_iso: jpn
     name: パンカナ語
     auto: true

@@ -15,6 +15,9 @@ glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Germanic > Northwest Germanic > West Germanic > High German > Middle German > East Middle German > Central East Middle German"
 wikipedia_url: "https://en.wikipedia.org/wiki/Upper_Saxon_German"
 translations:
+  - translation_iso: ara
+    name: الساكسونية العليا
+    auto: true
   - translation_iso: jpn
     name: 上部ザクセン語
   - translation_iso: zho

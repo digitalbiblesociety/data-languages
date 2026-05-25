@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > East Formosan > Northern East Formosan > Kavalan"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kavalan_language"
 translations:
+  - translation_iso: ara
+    name: الكافالان
+    auto: true
   - translation_iso: jpn
     name: クバラン語
   - translation_iso: zho

@@ -15,6 +15,9 @@ glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Bodic > West Himalayish > Eastern West Himalayish > Pithauragarh > Darma-Byangsi-Chaudangsi > Chaudangsi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Chaudangsi_language"
 translations:
+  - translation_iso: ara
+    name: الشاودانغسي
+    auto: true
   - translation_iso: hin
     name: चौडांगसी भाषा
   - translation_iso: jpn

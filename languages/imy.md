@@ -14,6 +14,9 @@ glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Anatolian > Luvo-Lydian > Luvo-Palaic > Luvic > Lyco-Carian > Milyan-Carian > Milyan"
 wikipedia_url: "https://en.wikipedia.org/wiki/Milyan_language"
 translations:
+  - translation_iso: ara
+    name: ميليان
+    auto: true
   - translation_iso: jpn
     name: ミリヤ語
   - translation_iso: zho

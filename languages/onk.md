@@ -14,6 +14,9 @@ glottolog_family_id: nucl1708
 glottolog_family_name: Nuclear Torricelli
 glottolog_classification: "Nuclear Torricelli > West Wapei > One > Central-Northern One > Kabore One"
 translations:
+  - translation_iso: ara
+    name: اللغة كابوري وان
+    auto: true
   - translation_iso: jpn
     name: カボレ・ワン語
     auto: true

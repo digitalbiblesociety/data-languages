@@ -8,6 +8,9 @@ country_name: Papua New Guinea
 status_id: 6b
 wikipedia_url: "https://en.wikipedia.org/wiki/Foia_Foia_language"
 translations:
+  - translation_iso: ara
+    name: فويا فويا
+    auto: true
   - translation_iso: jpn
     name: フォイア・フォイア語
     auto: true

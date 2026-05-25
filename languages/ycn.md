@@ -15,6 +15,9 @@ glottolog_family_name: Arawakan
 glottolog_classification: "Arawakan > Japura-Colombia > Nuclear Japura-Colombia > Caqueta > Yucuna"
 wikipedia_url: "https://en.wikipedia.org/wiki/Yucuna_language"
 translations:
+  - translation_iso: ara
+    name: يوكونا
+    auto: true
   - translation_iso: jpn
     name: ユクナ語
   - translation_iso: zho

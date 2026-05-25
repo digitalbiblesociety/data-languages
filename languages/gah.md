@@ -15,6 +15,9 @@ glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Kainantu-Goroka > Goroka > Nuclear Goroka > Gahuku > Alekano"
 wikipedia_url: "https://en.wikipedia.org/wiki/Alekano_language"
 translations:
+  - translation_iso: ara
+    name: الأليكانو
+    auto: true
   - translation_iso: jpn
     name: ガフク・アサロ語
   - translation_iso: zho

@@ -15,6 +15,9 @@ glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > Biu-Mandara > South Biu-Mandara > Dabaic > Buwal-Gavar > Buwal"
 wikipedia_url: "https://en.wikipedia.org/wiki/Buwal_language"
 translations:
+  - translation_iso: ara
+    name: بوال
+    auto: true
   - translation_iso: jpn
     name: ブワル語
   - translation_iso: zho

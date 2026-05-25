@@ -15,6 +15,9 @@ glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Burmo-Qiangic > Lolo-Burmese > Loloish > Hani-Jino > Bisoid-Hanic > Sila-Wanya-Cosao-Pana > Phana'"
 wikipedia_url: "https://en.wikipedia.org/wiki/Phana%CA%BC_language"
 translations:
+  - translation_iso: ara
+    name: اللغة فانا
+    auto: true
   - translation_iso: jpn
     name: ファナ語
     auto: true

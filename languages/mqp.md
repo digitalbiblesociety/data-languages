@@ -14,6 +14,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Nunusaku > Piru Bay > West Piru Bay > Hoamoal > West Hoamoal > Manipa"
 wikipedia_url: "https://en.wikipedia.org/wiki/Manipa_language"
 translations:
+  - translation_iso: ara
+    name: لغة مانيبا
+    auto: true
   - translation_iso: jpn
     name: マニパ語
     auto: true

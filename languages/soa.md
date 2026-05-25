@@ -15,6 +15,9 @@ glottolog_family_name: Tai-Kadai
 glottolog_classification: "Tai-Kadai > Kam-Tai > Daic-Beic > Daic > Central-Southwestern Tai > Wenma-Southwestern Tai > Sapa-Southwestern Tai > Southwestern Tai > Southwestern Tai P > Chiang Saeng > Black Tai > Thai Song"
 wikipedia_url: "https://en.wikipedia.org/wiki/Thai_Song_language"
 translations:
+  - translation_iso: ara
+    name: اللغة تاي سونج
+    auto: true
   - translation_iso: jpn
     name: タイ・ソン語
   - translation_iso: zho

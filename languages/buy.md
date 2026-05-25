@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Mel > Southern Mel > Bullom > Northern Bullom > Bullom So"
 wikipedia_url: "https://en.wikipedia.org/wiki/Bullom_So_language"
 translations:
+  - translation_iso: ara
+    name: بوْلوم سو
+    auto: true
   - translation_iso: jpn
     name: ブロム・ソ語
     auto: true

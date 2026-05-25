@@ -14,6 +14,9 @@ glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Semitic > West Semitic > Ethiosemitic > South Ethiopic > Harari-East Gurage > Silte-Wolane > Wolane"
 translations:
+  - translation_iso: ara
+    name: وولاني
+    auto: true
   - translation_iso: jpn
     name: ウォラネ語
     auto: true

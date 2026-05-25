@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Wide Grassfields > Narrow Grassfields > Momo > Ngie-Oshie > Ngoshie"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ngoshie_language"
 translations:
+  - translation_iso: ara
+    name: نغوشي
+    auto: true
   - translation_iso: jpn
     name: ゴシエ語
     auto: true

@@ -14,6 +14,9 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Kainji > Central Kainji > Kambari-Cicipu > Kambaric > East Kambaric > Salka-Tsishingini"
 translations:
+  - translation_iso: ara
+    name: تشيشينجيني
+    auto: true
   - translation_iso: jpn
     name: ツィシンギニ語
     auto: true

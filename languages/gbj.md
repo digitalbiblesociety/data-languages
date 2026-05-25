@@ -15,6 +15,9 @@ glottolog_family_name: Austroasiatic
 glottolog_classification: "Austroasiatic > Mundaic > Gutob-Remo > Bodo Gadaba"
 wikipedia_url: "https://en.wikipedia.org/wiki/Gutob_language"
 translations:
+  - translation_iso: ara
+    name: جادابا بودو
+    auto: true
   - translation_iso: hin
     name: गुटोब भाषा
   - translation_iso: jpn

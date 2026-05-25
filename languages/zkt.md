@@ -15,6 +15,9 @@ glottolog_family_name: Mongolic-Khitan
 glottolog_classification: "Mongolic-Khitan > Kitan"
 wikipedia_url: "https://en.wikipedia.org/wiki/Khitan_language"
 translations:
+  - translation_iso: ara
+    name: اللغة كيتان
+    auto: true
   - translation_iso: hin
     name: ख़ितानी भाषा
   - translation_iso: jpn

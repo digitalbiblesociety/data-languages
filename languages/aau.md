@@ -15,6 +15,9 @@ glottolog_family_name: Sepik
 glottolog_classification: "Sepik > Abau"
 wikipedia_url: "https://en.wikipedia.org/wiki/Abau_language"
 translations:
+  - translation_iso: ara
+    name: اللغة الأباوية
+    auto: true
   - translation_iso: jpn
     name: アバウ語
   - translation_iso: zho

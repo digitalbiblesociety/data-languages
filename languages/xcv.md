@@ -15,6 +15,9 @@ glottolog_family_name: Yukaghir
 glottolog_classification: "Yukaghir > Kolymic > Chuvantsy"
 wikipedia_url: "https://en.wikipedia.org/wiki/Chuvan_language"
 translations:
+  - translation_iso: ara
+    name: كهوفانتسي
+    auto: true
   - translation_iso: jpn
     name: チュバンチー語
   - translation_iso: zho

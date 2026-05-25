@@ -15,6 +15,9 @@ glottolog_family_name: Uto-Aztecan
 glottolog_classification: "Uto-Aztecan > Northern Uto-Aztecan > Numic > Western Numic > Northern Paiute"
 wikipedia_url: "https://en.wikipedia.org/wiki/Northern_Paiute_language"
 translations:
+  - translation_iso: ara
+    name: اللغة بايوت الشمالية
+    auto: true
   - translation_iso: jpn
     name: 北部パイユート語
   - translation_iso: zho

@@ -14,6 +14,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > Papuan Tip linkage > Nuclear Papuan Tip linkage > North Papuan Mainland-D'Entrecasteaux linkage > Dobu-Duau linkage > Bunama-Mwatebu > Mwatebu"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mwatebu_language"
 translations:
+  - translation_iso: ara
+    name: لغة موتيبو
+    auto: true
   - translation_iso: jpn
     name: ムワテブ語
     auto: true

@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Cameroun-Ubangian > Central Adamawa > Samba-Duru > Southern Samba-Duru > Sambaic > Kolbila"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kolbila_language"
 translations:
+  - translation_iso: ara
+    name: لغة كولبيلا
+    auto: true
   - translation_iso: jpn
     name: コルビラ語
     auto: true

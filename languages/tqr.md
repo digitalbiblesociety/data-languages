@@ -15,6 +15,9 @@ glottolog_family_name: Narrow Talodi
 glottolog_classification: "Narrow Talodi > Lumun-Torona > Torona"
 wikipedia_url: "https://en.wikipedia.org/wiki/Torona_language"
 translations:
+  - translation_iso: ara
+    name: تورونا
+    auto: true
   - translation_iso: jpn
     name: トロナ語
   - translation_iso: zho

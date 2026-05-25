@@ -15,6 +15,9 @@ glottolog_family_name: Tor-Orya
 glottolog_classification: "Tor-Orya > Tor > Coastal Tor > Betaf-Vitou > Betaf"
 wikipedia_url: "https://en.wikipedia.org/wiki/Betaf_language"
 translations:
+  - translation_iso: ara
+    name: بيتاف
+    auto: true
   - translation_iso: jpn
     name: ベタフ語
     auto: true

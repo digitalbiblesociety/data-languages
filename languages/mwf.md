@@ -15,6 +15,9 @@ glottolog_family_name: Southern Daly
 glottolog_classification: "Southern Daly > Murriny Patha"
 wikipedia_url: "https://en.wikipedia.org/wiki/Murrinh-patha_language"
 translations:
+  - translation_iso: ara
+    name: لغة موريه-باتا
+    auto: true
   - translation_iso: jpn
     name: ムリンパタ語
   - translation_iso: zho

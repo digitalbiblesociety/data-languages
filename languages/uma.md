@@ -15,6 +15,9 @@ glottolog_family_name: Sahaptian
 glottolog_classification: "Sahaptian > Sahaptin > Southern Sahaptin > Umatilla"
 wikipedia_url: "https://en.wikipedia.org/wiki/Umatilla_language"
 translations:
+  - translation_iso: ara
+    name: أوماتيلا
+    auto: true
   - translation_iso: jpn
     name: コロンビア川サハプティン語
     auto: true

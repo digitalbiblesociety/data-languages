@@ -11,6 +11,9 @@ glottolog_family_name: Sign Language
 glottolog_classification: "Sign Language > L1 Sign Language > Brunca Sign Language"
 wikipedia_url: "https://en.wikipedia.org/wiki/Brunca_Sign_Language"
 translations:
+  - translation_iso: ara
+    name: برونكا لغة الإشارة
+    auto: true
   - translation_iso: hin
     name: ब्रुंका सांकेतिक भाषा
   - translation_iso: jpn

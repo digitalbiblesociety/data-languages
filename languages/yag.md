@@ -12,6 +12,9 @@ longitude: -68.26479
 glottocode: yama1264
 wikipedia_url: "https://en.wikipedia.org/wiki/Yahgan_language"
 translations:
+  - translation_iso: ara
+    name: يامانا
+    auto: true
   - translation_iso: jpn
     name: ヤーガン語
   - translation_iso: kor

@@ -15,6 +15,9 @@ glottolog_family_name: Cochimi-Yuman
 glottolog_classification: "Cochimi-Yuman > Yuman > General Yuman > Pai > Paipai"
 wikipedia_url: "https://en.wikipedia.org/wiki/Paipai_language"
 translations:
+  - translation_iso: ara
+    name: اللغة بايباي
+    auto: true
   - translation_iso: jpn
     name: パイパイ語
   - translation_iso: zho

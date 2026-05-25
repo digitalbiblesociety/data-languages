@@ -15,6 +15,9 @@ glottolog_family_name: Ndu
 glottolog_classification: "Ndu > Nuclear Ndu > Ambulas-Hanga-Hundi > Ambulas"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ambulas_language"
 translations:
+  - translation_iso: ara
+    name: لغة أمبولاس
+    auto: true
   - translation_iso: jpn
     name: アベラム語
   - translation_iso: zho

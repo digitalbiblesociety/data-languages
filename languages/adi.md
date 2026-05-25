@@ -15,6 +15,9 @@ glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Macro-Tani > Tani > Eastern Tani > Bori-Karko"
 wikipedia_url: "https://en.wikipedia.org/wiki/Adi_languages"
 translations:
+  - translation_iso: ara
+    name: لغة أدي
+    auto: true
   - translation_iso: hin
     name: तंगम भाषा
   - translation_iso: jpn

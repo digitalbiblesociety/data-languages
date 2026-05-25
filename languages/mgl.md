@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > North New Guinea linkage > Ngero-Vitiaz linkage > Vitiaz linkage > Maleu-Kilenge"
 wikipedia_url: "https://en.wikipedia.org/wiki/Maleu-Kilenge_language"
 translations:
+  - translation_iso: ara
+    name: لغة مالي كيلينج
+    auto: true
   - translation_iso: jpn
     name: イドゥネ語
   - translation_iso: zho

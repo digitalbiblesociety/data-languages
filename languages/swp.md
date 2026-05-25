@@ -14,6 +14,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > Papuan Tip linkage > Nuclear Papuan Tip linkage > Suauic > Suau chain > Suau"
 wikipedia_url: "https://en.wikipedia.org/wiki/Suau_language"
 translations:
+  - translation_iso: ara
+    name: سواو
+    auto: true
   - translation_iso: jpn
     name: スアウ語
   - translation_iso: zho

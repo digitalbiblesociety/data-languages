@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > North Borneo Malayo-Polynesian > Sabahan > Southwest Sabahan > Greater Dusunic > Paitanic > Tombonuo"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tombonuwo_language"
 translations:
+  - translation_iso: ara
+    name: تومبونو
+    auto: true
   - translation_iso: jpn
     name: ロブ語
     auto: true

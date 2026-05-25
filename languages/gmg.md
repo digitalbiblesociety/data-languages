@@ -14,6 +14,9 @@ glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Madang > Kalamic-South Adelbert > South Adelbert > Sogeram > Unclassified Sogeram > Magiyi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mag%C9%A8yi_language"
 translations:
+  - translation_iso: ara
+    name: مآغɨيي
+    auto: true
   - translation_iso: jpn
     name: マガイイ語
     auto: true

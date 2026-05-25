@@ -10,6 +10,9 @@ latitude: -7.99059
 longitude: 38.71326
 wikipedia_url: "https://en.wikipedia.org/wiki/Rufiji_language"
 translations:
+  - translation_iso: ara
+    name: روفيجي
+    auto: true
   - translation_iso: jpn
     name: ルフィジ語
     auto: true

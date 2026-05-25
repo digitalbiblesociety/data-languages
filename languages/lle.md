@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Admiralty Islands > Eastern Admiralty Islands > Manus > East Manus > Koro-Lele-Nali-Titan > Lele (Papua New Guinea)"
 wikipedia_url: "https://en.wikipedia.org/wiki/Lele_language_(Papua_New_Guinea)"
 translations:
+  - translation_iso: ara
+    name: لغة يلي
+    auto: true
   - translation_iso: jpn
     name: レレ語
     auto: true

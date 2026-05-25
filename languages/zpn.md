@@ -15,6 +15,9 @@ glottolog_family_name: Otomanguean
 glottolog_classification: "Otomanguean > Eastern Otomanguean > Popoloca-Zapotecan > Zapotecan > Zapotec > Core Zapotec > Narrow Core Zapotec > Central Core Zapotec > Western Valley Zapotec > Extended Ocotepec Zapotec > Tilquiapanic > Santa Inés Yatzechi Zapotec"
 wikipedia_url: "https://en.wikipedia.org/wiki/Yatzeche_Zapotec"
 translations:
+  - translation_iso: ara
+    name: زابوتيك سانتا إينس ياتزيتشي
+    auto: true
   - translation_iso: jpn
     name: サンタ・イネス・ヤツェチ・サポテク語
     auto: true

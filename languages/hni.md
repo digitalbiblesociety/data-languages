@@ -15,6 +15,9 @@ glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Burmo-Qiangic > Lolo-Burmese > Loloish > Hani-Jino > Bisoid-Hanic > Hanic > Ha-Ya > Hani"
 wikipedia_url: "https://en.wikipedia.org/wiki/Hani_language"
 translations:
+  - translation_iso: ara
+    name: هاني
+    auto: true
   - translation_iso: jpn
     name: ハニ語
   - translation_iso: kor

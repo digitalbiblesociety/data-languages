@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > North Borneo Malayo-Polynesian > Central Sarawak > Punan-Muller-Schwaner > Punan > Bukat-Ukit-Beketan-Lugat-Lisum > Bukitan"
 wikipedia_url: "https://en.wikipedia.org/wiki/Bukitan_language"
 translations:
+  - translation_iso: ara
+    name: بوكيتان
+    auto: true
   - translation_iso: jpn
     name: ブキタン語
     auto: true

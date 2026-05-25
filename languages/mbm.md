@@ -10,6 +10,9 @@ latitude: -2.75341
 longitude: 13.61701
 wikipedia_url: "https://en.wikipedia.org/wiki/Mbama_language"
 translations:
+  - translation_iso: ara
+    name: لغة أومبامبا
+    auto: true
   - translation_iso: jpn
     name: ンバンバ語
   - translation_iso: zho

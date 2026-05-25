@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Basap-Greater Barito > Greater Barito linkage > Southeast Barito > Maanyan-Paku > Ma'anyan"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ma%CA%BCanyan_language"
 translations:
+  - translation_iso: ara
+    name: لغة مآنيان
+    auto: true
   - translation_iso: jpn
     name: マアニヤン語
   - translation_iso: zho

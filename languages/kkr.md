@@ -15,6 +15,9 @@ glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > West Chadic > West Chadic B > West Chadic B.3 > South Bauchi East > Boghomic > Kir-Mangas > Kir-Balar"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kir-Balar_language"
 translations:
+  - translation_iso: ara
+    name: لغة كير بالار
+    auto: true
   - translation_iso: jpn
     name: キル・バラル語
   - translation_iso: zho

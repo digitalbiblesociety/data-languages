@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Akpes-Edoid > Edoid > Southwestern Edoid > Uvbie"
 wikipedia_url: "https://en.wikipedia.org/wiki/Uvbie_language"
 translations:
+  - translation_iso: ara
+    name: الأفبي
+    auto: true
   - translation_iso: jpn
     name: ウヴビエ語
     auto: true

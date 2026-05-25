@@ -15,6 +15,9 @@ glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > Southeastern Pama-Nyungan > New South Wales Pama-Nyungan > Yuin-Kuri > Kuri > Sydney-Hawkesbury > Sydney"
 wikipedia_url: "https://en.wikipedia.org/wiki/Dharug_language"
 translations:
+  - translation_iso: ara
+    name: دهاروك
+    auto: true
   - translation_iso: jpn
     name: ダルク語
   - translation_iso: kor

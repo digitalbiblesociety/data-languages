@@ -14,6 +14,9 @@ glottolog_family_id: utoa1244
 glottolog_family_name: Uto-Aztecan
 glottolog_classification: "Uto-Aztecan > Southern Uto-Aztecan > Corachol-Aztecan > Aztec > Western Nahuatl > Western Periphery-North Guerrero Nahuatl > Western Periphery Nahuatl > Durango Nahuatl > Eastern Durango Nahuatl"
 translations:
+  - translation_iso: ara
+    name: اللغة ناهوتل درانجو الشرقية
+    auto: true
   - translation_iso: jpn
     name: 東ドゥランゴ・ナワトル語
     auto: true

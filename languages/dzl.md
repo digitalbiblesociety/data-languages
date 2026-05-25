@@ -15,6 +15,9 @@ glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Bodic > Bodish > Dakpa-Dzala > Dzalakha"
 wikipedia_url: "https://en.wikipedia.org/wiki/Dzala_language"
 translations:
+  - translation_iso: ara
+    name: الدزالاخا
+    auto: true
   - translation_iso: jpn
     name: ザラ語
   - translation_iso: zho

@@ -15,6 +15,9 @@ glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Iranian-Nuristani > Iranian > Central Iranian PBS > Central Iranian PB > Northwestern Iranian > Balochic > Southern-Western Balochi > Southern Balochi-Koroshi > Southern Balochi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Makrani_dialect"
 translations:
+  - translation_iso: ara
+    name: اللغة بالوتشي الجنوبية
+    auto: true
   - translation_iso: jpn
     name: 南バローチー語
   - translation_iso: zho

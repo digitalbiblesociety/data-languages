@@ -15,6 +15,9 @@ glottolog_family_name: Gunwinyguan
 glottolog_classification: "Gunwinyguan > Eastern Gunwinyguan > Wubuy-Anindilyakwa > Wubuy"
 wikipedia_url: "https://en.wikipedia.org/wiki/Nunggubuyu_language"
 translations:
+  - translation_iso: ara
+    name: نونغغوبويو
+    auto: true
   - translation_iso: hin
     name: वुबुय भाषा
   - translation_iso: jpn

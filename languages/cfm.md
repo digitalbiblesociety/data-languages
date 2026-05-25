@@ -15,6 +15,9 @@ glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Kuki-Chin-Naga > Kuki-Chin > Central Kuki-Chin > Core Central Kuki-Chin > Lai Chin > Falamic > Falam Chin"
 wikipedia_url: "https://en.wikipedia.org/wiki/Falam_language"
 translations:
+  - translation_iso: ara
+    name: فالام تشين
+    auto: true
   - translation_iso: jpn
     name: ファラム語
   - translation_iso: zho

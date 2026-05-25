@@ -15,6 +15,9 @@ glottolog_family_name: Narrow Talodi
 glottolog_classification: "Narrow Talodi > Lumun-Torona > Lumun"
 wikipedia_url: "https://en.wikipedia.org/wiki/Lumun_language"
 translations:
+  - translation_iso: ara
+    name: لغة ومون
+    auto: true
   - translation_iso: jpn
     name: ルムン語
     auto: true

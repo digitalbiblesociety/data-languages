@@ -15,6 +15,9 @@ glottolog_family_name: Tucanoan
 glottolog_classification: "Tucanoan > Western Tucanoan > Napo Tucanoan > Siona-Secoya > Secoya"
 wikipedia_url: "https://en.wikipedia.org/wiki/Secoya_language"
 translations:
+  - translation_iso: ara
+    name: سيكويا
+    auto: true
   - translation_iso: jpn
     name: パイコカ語
     auto: true

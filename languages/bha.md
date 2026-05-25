@@ -15,6 +15,9 @@ glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Indo-Aryan > Middle-Modern Indo-Aryan > Continental Indo-Aryan > Midlands Indo-Aryan > Shaurasenic > Indo-Aryan Central zone > Western Hindi > Bundeli-Bharia > Bhariati"
 wikipedia_url: "https://en.wikipedia.org/wiki/Bhariati"
 translations:
+  - translation_iso: ara
+    name: بهاريا
+    auto: true
   - translation_iso: hin
     name: भरीयाटी
   - translation_iso: jpn

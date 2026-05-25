@@ -15,6 +15,9 @@ glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Asmat-Awyu-Ok > Asmat-Kamrau Bay > Asmat-Kamoro > Asmat > Central-Yaosakor Asmat > Central Asmat"
 wikipedia_url: "https://en.wikipedia.org/wiki/Central_Asmat_language"
 translations:
+  - translation_iso: ara
+    name: أسمات الوسطى
+    auto: true
   - translation_iso: jpn
     name: セントラル・アスマット語
     auto: true

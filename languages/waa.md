@@ -14,6 +14,9 @@ glottolog_family_id: saha1239
 glottolog_family_name: Sahaptian
 glottolog_classification: "Sahaptian > Sahaptin > Northern Sahaptin > Northeast Sahaptin"
 translations:
+  - translation_iso: ara
+    name: والا والا
+    auto: true
   - translation_iso: jpn
     name: ワラワラ語
     auto: true

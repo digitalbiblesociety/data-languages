@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > North New Guinea linkage > Ngero-Vitiaz linkage > Vitiaz linkage > Southwest New Britain linkage > Amara"
 wikipedia_url: "https://en.wikipedia.org/wiki/Amara_language"
 translations:
+  - translation_iso: ara
+    name: لغة أمارا
+    auto: true
   - translation_iso: jpn
     name: ロンガ語
   - translation_iso: zho

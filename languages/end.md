@@ -14,6 +14,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Bima-Lembata > Flores > West-Central Flores > Central Flores-Paluqe > Central Flores > Eastern Central Flores > Ende-Lio > Ende"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ende_language_(Indonesia)"
 translations:
+  - translation_iso: ara
+    name: الإندي
+    auto: true
   - translation_iso: jpn
     name: エンデ語
     auto: true

@@ -15,6 +15,9 @@ glottolog_family_name: Tai-Kadai
 glottolog_classification: "Tai-Kadai > Kam-Tai > Daic-Beic > Daic > Central-Southwestern Tai > Wenma-Southwestern Tai > Dai Zhuang"
 wikipedia_url: "https://en.wikipedia.org/wiki/Dai_Zhuang_language"
 translations:
+  - translation_iso: ara
+    name: لغة داي زوانغ
+    auto: true
   - translation_iso: jpn
     name: 文馬チワン語
   - translation_iso: zho

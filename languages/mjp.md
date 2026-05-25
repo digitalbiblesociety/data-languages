@@ -15,6 +15,9 @@ glottolog_family_name: Dravidian
 glottolog_classification: "Dravidian > South Dravidian > South Dravidian I > Tamil-Kannada > Tamil-Kota > Tamil-Toda > Tamil-Irula > Tamil-Kodagu > Tamil-Malayalam > Tamiloid > Malapandaram"
 wikipedia_url: "https://en.wikipedia.org/wiki/Malapandaram_language"
 translations:
+  - translation_iso: ara
+    name: لغة مالابندارام
+    auto: true
   - translation_iso: jpn
     name: マラパンダラム語
     auto: true

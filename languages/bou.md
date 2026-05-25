@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > East Bantu > Northeast Savanna Bantu > Northeast Coastal Bantu > Ruvu > West Ruvu > Seuta > Bondei-Shambala > Bondei"
 wikipedia_url: "https://en.wikipedia.org/wiki/Bondei_language"
 translations:
+  - translation_iso: ara
+    name: بونديي
+    auto: true
   - translation_iso: jpn
     name: ボンデイ語
   - translation_iso: zho

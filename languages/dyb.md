@@ -15,6 +15,9 @@ glottolog_family_name: Nyulnyulan
 glottolog_classification: "Nyulnyulan > Western Nyulnyulan > Nyulnyulic > Dyaberdyaber"
 wikipedia_url: "https://en.wikipedia.org/wiki/Jabirr_Jabirr_language"
 translations:
+  - translation_iso: ara
+    name: ديابيرديابير
+    auto: true
   - translation_iso: jpn
     name: ジャビルジャビル語
   - translation_iso: zho

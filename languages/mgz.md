@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > East Bantu > Mbugwe-Langi > Mbugwe"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mbugwe_language"
 translations:
+  - translation_iso: ara
+    name: لغة مبوجوي
+    auto: true
   - translation_iso: jpn
     name: ムブグウェ語
     auto: true

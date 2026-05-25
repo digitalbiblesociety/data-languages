@@ -15,6 +15,9 @@ glottolog_family_name: Mayan
 glottolog_classification: "Mayan > Core Mayan > Quichean-Mamean > Greater Quichean > Core Quichean > Sipacapense"
 wikipedia_url: "https://en.wikipedia.org/wiki/Sipakapa_language"
 translations:
+  - translation_iso: ara
+    name: اللغة سيباكابينسي
+    auto: true
   - translation_iso: jpn
     name: シパカペンセ語
   - translation_iso: kor

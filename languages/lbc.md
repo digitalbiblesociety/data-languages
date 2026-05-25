@@ -15,6 +15,9 @@ glottolog_family_name: Tai-Kadai
 glottolog_classification: "Tai-Kadai > Kam-Tai > Lakkia-Biao > Lakkia"
 wikipedia_url: "https://en.wikipedia.org/wiki/Lakkia_language"
 translations:
+  - translation_iso: ara
+    name: لاكيا
+    auto: true
   - translation_iso: jpn
     name: ラギャ語
   - translation_iso: kor

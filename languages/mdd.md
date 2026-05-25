@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Cameroun-Ubangian > Mbumic > Mbum"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mbum_language"
 translations:
+  - translation_iso: ara
+    name: لغة مبوم
+    auto: true
   - translation_iso: jpn
     name: ムブム語
     auto: true

@@ -15,6 +15,9 @@ glottolog_family_name: Turkic
 glottolog_classification: "Turkic > Common Turkic > West Yugur"
 wikipedia_url: "https://en.wikipedia.org/wiki/Western_Yugur_language"
 translations:
+  - translation_iso: ara
+    name: يوجور الغربية
+    auto: true
   - translation_iso: jpn
     name: 西ユグル語
   - translation_iso: kor

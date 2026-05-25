@@ -15,6 +15,9 @@ glottolog_family_name: Hmong-Mien
 glottolog_classification: "Hmong-Mien > Hmongic > Nuclear Hmongic-Ho Ne > Nuclear Hmongic > East Hmongic > South Qiandongic Miao > Ná-Meo"
 wikipedia_url: "https://en.wikipedia.org/wiki/N%C3%A1-Meo_language"
 translations:
+  - translation_iso: ara
+    name: نا ميو
+    auto: true
   - translation_iso: jpn
     name: ナー・メオ語
     auto: true

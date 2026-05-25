@@ -15,6 +15,9 @@ glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Burmo-Qiangic > Na-Qiangic > Guiqiong"
 wikipedia_url: "https://en.wikipedia.org/wiki/Guiqiong_language"
 translations:
+  - translation_iso: ara
+    name: غويقيونج
+    auto: true
   - translation_iso: jpn
     name: グイチョン語
   - translation_iso: zho

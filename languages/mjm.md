@@ -14,6 +14,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > North New Guinea linkage > Schouten linkage > Kairiru-Manam > Manamic linkage > Medebur"
 wikipedia_url: "https://en.wikipedia.org/wiki/Medebur_language"
 translations:
+  - translation_iso: ara
+    name: لغة ميديبور
+    auto: true
   - translation_iso: jpn
     name: メデブル語
     auto: true

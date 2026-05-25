@@ -15,6 +15,9 @@ glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Kuki-Chin-Naga > Angami-Ao > Central Naga > Sangtam Naga"
 wikipedia_url: "https://en.wikipedia.org/wiki/Sangtam_language"
 translations:
+  - translation_iso: ara
+    name: سانغتام ناغا
+    auto: true
   - translation_iso: hin
     name: संगतम भाषा
   - translation_iso: jpn

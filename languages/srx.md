@@ -16,6 +16,9 @@ glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Indo-Aryan > Middle-Modern Indo-Aryan > Eastern Dardic > Himachali > Nuclear Himachali > Sirmauri"
 wikipedia_url: "https://en.wikipedia.org/wiki/Sirmauri_language"
 translations:
+  - translation_iso: ara
+    name: اللغة سيرماوري
+    auto: true
   - translation_iso: hin
     name: सिरमौरी
   - translation_iso: jpn

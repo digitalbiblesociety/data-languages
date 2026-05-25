@@ -15,6 +15,9 @@ glottolog_family_name: Mayan
 glottolog_classification: "Mayan > Core Mayan > Western Mayan > Kanjobalan-Chujean > Chujean > Chuj"
 wikipedia_url: "https://en.wikipedia.org/wiki/Chuj_language"
 translations:
+  - translation_iso: ara
+    name: تشوج
+    auto: true
   - translation_iso: jpn
     name: チュフ語
   - translation_iso: kor

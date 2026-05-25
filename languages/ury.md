@@ -15,6 +15,9 @@ glottolog_family_name: Tor-Orya
 glottolog_classification: "Tor-Orya > Orya"
 wikipedia_url: "https://en.wikipedia.org/wiki/Orya_language"
 translations:
+  - translation_iso: ara
+    name: أوريا
+    auto: true
   - translation_iso: jpn
     name: オリア語
     auto: true

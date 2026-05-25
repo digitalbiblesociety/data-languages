@@ -15,6 +15,9 @@ glottolog_family_name: Mayan
 glottolog_classification: "Mayan > Core Mayan > Yucatecan > Mopan"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mopan_language"
 translations:
+  - translation_iso: ara
+    name: لغة موبان مايا
+    auto: true
   - translation_iso: jpn
     name: モパン語
   - translation_iso: kor

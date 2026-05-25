@@ -12,6 +12,9 @@ longitude: 159.81438
 glottocode: savo1255
 wikipedia_url: "https://en.wikipedia.org/wiki/Savosavo_language"
 translations:
+  - translation_iso: ara
+    name: سافوسافو
+    auto: true
   - translation_iso: jpn
     name: サヴォサヴォ語
   - translation_iso: kor

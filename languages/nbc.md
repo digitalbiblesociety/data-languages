@@ -15,6 +15,9 @@ glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Brahmaputran > Patkaian > South Patkaian > Southwestern Patkaian > Chang-Phom-Konyak > Chang Naga"
 wikipedia_url: "https://en.wikipedia.org/wiki/Chang_language"
 translations:
+  - translation_iso: ara
+    name: تشانج ناجا
+    auto: true
   - translation_iso: hin
     name: चांग भाषा
   - translation_iso: jpn

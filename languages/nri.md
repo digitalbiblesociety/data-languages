@@ -15,6 +15,9 @@ glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Kuki-Chin-Naga > Angami-Ao > Angami-Pochuri > Angami-Mao > Angami-Chokri > Chokri Naga"
 wikipedia_url: "https://en.wikipedia.org/wiki/Chokri_language"
 translations:
+  - translation_iso: ara
+    name: تشوكري ناغا
+    auto: true
   - translation_iso: hin
     name: चोकरी भाषा
   - translation_iso: jpn

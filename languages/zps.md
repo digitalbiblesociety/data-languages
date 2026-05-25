@@ -15,6 +15,9 @@ glottolog_family_name: Otomanguean
 glottolog_classification: "Otomanguean > Eastern Otomanguean > Popoloca-Zapotecan > Zapotecan > Zapotec > Core Zapotec > Macrocoatecano > Coatecano > Coatlan-Loxicha Zapotec > Coatlán Zapotec"
 wikipedia_url: "https://en.wikipedia.org/wiki/Santo_Domingo_Coatl%C3%A1n_Zapotec"
 translations:
+  - translation_iso: ara
+    name: زابوتيك كوتلان
+    auto: true
   - translation_iso: jpn
     name: コアトラン・サポテク語
     auto: true

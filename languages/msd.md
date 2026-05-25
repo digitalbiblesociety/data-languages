@@ -15,6 +15,9 @@ glottolog_family_name: Sign Language
 glottolog_classification: "Sign Language > L1 Sign Language > Meemul-Tziij > Yucatec Maya Sign Language"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mayan_Sign_Language"
 translations:
+  - translation_iso: ara
+    name: لغة يوكاتيك مايا للإشارة
+    auto: true
   - translation_iso: hin
     name: मय साइन लैंग्वेज
   - translation_iso: jpn

@@ -15,6 +15,9 @@ glottolog_family_name: Nilotic
 glottolog_classification: "Nilotic > Eastern Nilotic > Teso-Lotuxo-Maa > Lotuxo-Maa > Ongamo-Maa > Ngasa"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ngasa_language"
 translations:
+  - translation_iso: ara
+    name: نغاسا
+    auto: true
   - translation_iso: jpn
     name: ンガサ語
   - translation_iso: zho

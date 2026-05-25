@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Delta Cross > Ogonoid > West Ogonoid > Baan"
 wikipedia_url: "https://en.wikipedia.org/wiki/Baan_language"
 translations:
+  - translation_iso: ara
+    name: باان
+    auto: true
   - translation_iso: jpn
     name: バアン語
     auto: true

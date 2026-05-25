@@ -15,6 +15,9 @@ glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Brahmaputran > Bodo-Garo > Kochic > Atong (India)"
 wikipedia_url: "https://en.wikipedia.org/wiki/Atong_language_(Sino-Tibetan)"
 translations:
+  - translation_iso: ara
+    name: اللغة أتونج
+    auto: true
   - translation_iso: hin
     name: अटोंग भाषा
   - translation_iso: jpn

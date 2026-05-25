@@ -15,6 +15,9 @@ glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Kuki-Chin-Naga > Kuki-Chin > Peripheral Kuki-Chin > South Peripheral Kuki-Chin > Choic > Daai-Nghmoye-Muun-Kaang > Kaang Chin"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kaang_language"
 translations:
+  - translation_iso: ara
+    name: كاانغ تشين
+    auto: true
   - translation_iso: jpn
     name: カーン・チン語
     auto: true

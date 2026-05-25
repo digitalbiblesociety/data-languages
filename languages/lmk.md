@@ -15,6 +15,9 @@ glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Kuki-Chin-Naga > Kuki-Chin > Northwestern Kuki-Chin > Analic > Anal-Lamgang > Lamkang"
 wikipedia_url: "https://en.wikipedia.org/wiki/Lamkang_language"
 translations:
+  - translation_iso: ara
+    name: لغة امكانج
+    auto: true
   - translation_iso: hin
     name: लामगांग भाषा
   - translation_iso: jpn

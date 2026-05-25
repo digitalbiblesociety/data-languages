@@ -15,6 +15,9 @@ glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Indo-Aryan > Middle-Modern Indo-Aryan > Eastern Dardic > Himachali > Nuclear Himachali > Indo-Aryan Kinnauri"
 wikipedia_url: "https://en.wikipedia.org/wiki/Pahari_Kinnauri_language"
 translations:
+  - translation_iso: ara
+    name: لغة هاريجان كيناوري
+    auto: true
   - translation_iso: hin
     name: harijan kinnauri language
   - translation_iso: jpn

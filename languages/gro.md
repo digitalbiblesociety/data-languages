@@ -15,6 +15,9 @@ glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Bodic > Bodish > Early Old Tibetan > Middle Old Tibetan > Late Old Tibetan > Southern Tibetic > Dzongkhic > Groma"
 wikipedia_url: "https://en.wikipedia.org/wiki/Groma_language"
 translations:
+  - translation_iso: ara
+    name: غرومآ
+    auto: true
   - translation_iso: hin
     name: ग्रोमा भाषा
   - translation_iso: jpn

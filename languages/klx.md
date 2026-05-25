@@ -14,6 +14,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > Papuan Tip linkage > Nuclear Papuan Tip linkage > North Papuan Mainland-D'Entrecasteaux linkage > Bwaidoga linkage > Koluwawa"
 wikipedia_url: "https://en.wikipedia.org/wiki/Koluwawa_language"
 translations:
+  - translation_iso: ara
+    name: لغة كولواوا
+    auto: true
   - translation_iso: jpn
     name: コルワワ語
     auto: true

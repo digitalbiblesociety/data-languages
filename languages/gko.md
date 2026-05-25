@@ -15,6 +15,9 @@ glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > Paman > Norman Pama > Kok-Nar"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kok-Nar_language"
 translations:
+  - translation_iso: ara
+    name: كوك-نآر
+    auto: true
   - translation_iso: jpn
     name: コック・ナル語
     auto: true

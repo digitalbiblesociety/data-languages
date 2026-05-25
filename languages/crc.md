@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > North and Central Vanuatu > Central Vanuatu > Ambrym > Lonwolwol"
 wikipedia_url: "https://en.wikipedia.org/wiki/Lonwolwol_language"
 translations:
+  - translation_iso: ara
+    name: لونوولول
+    auto: true
   - translation_iso: jpn
     name: ロンウォルウォル語
   - translation_iso: zho

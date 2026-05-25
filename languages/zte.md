@@ -15,6 +15,9 @@ glottolog_family_name: Otomanguean
 glottolog_classification: "Otomanguean > Eastern Otomanguean > Popoloca-Zapotecan > Zapotecan > Zapotec > Core Zapotec > Papabuco > Elotepec Zapotec"
 wikipedia_url: "https://en.wikipedia.org/wiki/Elotepec_Zapotec"
 translations:
+  - translation_iso: ara
+    name: زابوتيك إلوتيبيك
+    auto: true
   - translation_iso: jpn
     name: エロテペック・サポテク語
     auto: true

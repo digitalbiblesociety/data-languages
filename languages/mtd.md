@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Malayo-Chamic > Malayic > Ibanic > Iban-Mualang-Seberuang > Mualang"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mualang_language"
 translations:
+  - translation_iso: ara
+    name: لغة مويالانج
+    auto: true
   - translation_iso: jpn
     name: ムアラン語
     auto: true

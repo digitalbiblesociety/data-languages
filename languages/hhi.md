@@ -13,6 +13,9 @@ glottolog_family_id: anim1240
 glottolog_family_name: Anim
 glottolog_classification: "Anim > Inland Gulf of Papua > West Inland Gulf of Papua > Hoyaic > Hoia Hoia-Ukusi-Koperami"
 translations:
+  - translation_iso: ara
+    name: هويآ هويآ
+    auto: true
   - translation_iso: jpn
     name: ホイア・ホイア語
     auto: true

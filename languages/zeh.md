@@ -15,6 +15,9 @@ glottolog_family_name: Tai-Kadai
 glottolog_classification: "Tai-Kadai > Kam-Tai > Daic-Beic > Daic > Northern Daic-Sek > Northern Daic > Northern Tai > Hongshui He > Western Hongshui He > Eastern Hongshuihe Zhuang"
 wikipedia_url: "https://en.wikipedia.org/wiki/Eastern_Hongshuihe_Zhuang"
 translations:
+  - translation_iso: ara
+    name: اللغة هونغشويهي الشرقية
+    auto: true
   - translation_iso: jpn
     name: 東紅水河チワン語
   - translation_iso: zho

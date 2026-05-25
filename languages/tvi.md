@@ -13,6 +13,9 @@ glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > West Chadic > West Chadic B > West Chadic B.3 > South Bauchi West > Southwest South Bauchi > Zeemic > Nuclear Zeemic > Tulai"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tulai_language"
 translations:
+  - translation_iso: ara
+    name: توللاي
+    auto: true
   - translation_iso: jpn
     name: トゥラ語
     auto: true

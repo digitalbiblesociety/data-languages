@@ -9,6 +9,9 @@ status_id: 6a
 latitude: 21.2665
 longitude: 77.82676
 translations:
+  - translation_iso: ara
+    name: بهالاي
+    auto: true
   - translation_iso: jpn
     name: バハレイ語
     auto: true

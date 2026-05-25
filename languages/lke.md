@@ -14,6 +14,9 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > East Bantu > Northeast Savanna Bantu > Great Lakes Bantu > West Nyanza > North Nyanza > South Kyoga > Soga-Kenyi > Kenyi"
 translations:
+  - translation_iso: ara
+    name: لغة ينيي
+    auto: true
   - translation_iso: jpn
     name: ケニイ語
     auto: true

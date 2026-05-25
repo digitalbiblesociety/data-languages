@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Central Timor > Welaun"
 wikipedia_url: "https://en.wikipedia.org/wiki/Welaun_language"
 translations:
+  - translation_iso: ara
+    name: ويلاونر
+    auto: true
   - translation_iso: jpn
     name: ベカイス語
   - translation_iso: zho

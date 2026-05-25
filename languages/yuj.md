@@ -15,6 +15,9 @@ glottolog_family_name: Pauwasi
 glottolog_classification: "Pauwasi > Eastern Pauwasi > Karkar-Yuri"
 wikipedia_url: "https://en.wikipedia.org/wiki/Karkar_language"
 translations:
+  - translation_iso: ara
+    name: لغة كاركار-يوري
+    auto: true
   - translation_iso: jpn
     name: カルカル-ユリ語
     auto: true

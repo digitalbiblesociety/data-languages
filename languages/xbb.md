@@ -9,6 +9,9 @@ country_name: Australia
 status_id: null
 wikipedia_url: "https://en.wikipedia.org/wiki/Lower_Burdekin_languages"
 translations:
+  - translation_iso: ara
+    name: لووير بورديكين
+    auto: true
   - translation_iso: jpn
     name: ロウアー・バーデキン語
     auto: true

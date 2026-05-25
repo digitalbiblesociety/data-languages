@@ -15,6 +15,9 @@ glottolog_family_name: Central Sudanic
 glottolog_classification: "Central Sudanic > Sara-Bongo-Bagirmi > SBB Occidental > Nuclear SBB Occidental > Saraic > Bagirmic > Morom-Jaya-Naba > Jaya"
 wikipedia_url: "https://en.wikipedia.org/wiki/Jaya_language"
 translations:
+  - translation_iso: ara
+    name: لغة جايا
+    auto: true
   - translation_iso: jpn
     name: ジャヤ語
     auto: true

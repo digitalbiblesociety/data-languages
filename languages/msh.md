@@ -14,6 +14,9 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Basap-Greater Barito > Greater Barito linkage > Southeast Barito > Malagasic > Southwestern Malagasic > South West-Central Malagasic > Nuclear South West-Central Malagasic > Inland-Western Malagasic > Western Malagasic > Masikoro Malagasy"
 translations:
+  - translation_iso: ara
+    name: لغة ماسيكورو مالجاشية
+    auto: true
   - translation_iso: jpn
     name: マシクル・マダガスカル語
   - translation_iso: zho

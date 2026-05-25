@@ -15,6 +15,9 @@ glottolog_family_name: Ramu
 glottolog_classification: "Ramu > Goam > Tamolan > Itutang-Inapang"
 wikipedia_url: "https://en.wikipedia.org/wiki/Inapang_language"
 translations:
+  - translation_iso: ara
+    name: إيناباج
+    auto: true
   - translation_iso: jpn
     name: イナパン語
     auto: true

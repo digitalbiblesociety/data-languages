@@ -7,6 +7,9 @@ country_id: AU
 country_name: Australia
 status_id: "10"
 translations:
+  - translation_iso: ara
+    name: جوندونجورا
+    auto: true
   - translation_iso: jpn
     name: ガンダンガラ語
     auto: true

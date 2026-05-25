@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Bima-Lembata > Flores > Flores-Lembata > Lamaholot Tengah > Southeast Lembata > Central Lembata-Lewokukun"
 wikipedia_url: "https://en.wikipedia.org/wiki/Levuka_language"
 translations:
+  - translation_iso: ara
+    name: لغة يفوكا
+    auto: true
   - translation_iso: jpn
     name: レブカ語
     auto: true

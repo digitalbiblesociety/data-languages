@@ -15,6 +15,9 @@ glottolog_family_name: Khoe-Kwadi
 glottolog_classification: "Khoe-Kwadi > Khoe > Non-Khoekhoe > West-Kxoe > Naro-Ana > Naro"
 wikipedia_url: "https://en.wikipedia.org/wiki/Naro_language"
 translations:
+  - translation_iso: ara
+    name: نارو
+    auto: true
   - translation_iso: jpn
     name: ナロ語
   - translation_iso: zho

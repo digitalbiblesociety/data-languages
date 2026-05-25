@@ -15,6 +15,9 @@ glottolog_family_name: Mayan
 glottolog_classification: "Mayan > Core Mayan > Quichean-Mamean > Greater Mamean > Ixilan > Ixil"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ixil_language"
 translations:
+  - translation_iso: ara
+    name: لغة إيكسيل
+    auto: true
   - translation_iso: jpn
     name: イシル語
   - translation_iso: kor

@@ -9,6 +9,9 @@ status_id: 6a
 latitude: -9.4296
 longitude: 119.19031
 translations:
+  - translation_iso: ara
+    name: لغة اورا
+    auto: true
   - translation_iso: jpn
     name: ラウラ語
     auto: true

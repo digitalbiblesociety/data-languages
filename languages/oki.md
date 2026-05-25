@@ -15,6 +15,9 @@ glottolog_family_name: Nilotic
 glottolog_classification: "Nilotic > Southern Nilotic > Kalenjin > Okiek-Akie > Okiek"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ogiek_language"
 translations:
+  - translation_iso: ara
+    name: اللغة أوكيك
+    auto: true
   - translation_iso: jpn
     name: オキエク語
   - translation_iso: zho

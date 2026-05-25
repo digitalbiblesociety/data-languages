@@ -15,6 +15,9 @@ glottolog_family_name: Tupian
 glottolog_classification: "Tupian > Arikem-Tupari > Tuparic > Makuráp"
 wikipedia_url: "https://en.wikipedia.org/wiki/Makurap_language"
 translations:
+  - translation_iso: ara
+    name: لغة ماكورب
+    auto: true
   - translation_iso: jpn
     name: マクラップ語
     auto: true

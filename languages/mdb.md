@@ -15,6 +15,9 @@ glottolog_family_name: Kiwaian
 glottolog_classification: "Kiwaian > Turama-Kerewo > Morigi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Morigi_language"
 translations:
+  - translation_iso: ara
+    name: لغة موريجي
+    auto: true
   - translation_iso: jpn
     name: モリギ語
     auto: true

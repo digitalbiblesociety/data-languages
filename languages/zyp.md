@@ -15,6 +15,9 @@ glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Kuki-Chin-Naga > Kuki-Chin > Central Kuki-Chin > Maraic > Nuclear Maraic > Zyphe"
 wikipedia_url: "https://en.wikipedia.org/wiki/Zyphe_language"
 translations:
+  - translation_iso: ara
+    name: تشين زيفي
+    auto: true
   - translation_iso: jpn
     name: ズィフェ・チン語
     auto: true

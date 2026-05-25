@@ -15,6 +15,9 @@ glottolog_family_name: Muskogean
 glottolog_classification: "Muskogean > Alabaman-Koasati > Apalachee"
 wikipedia_url: "https://en.wikipedia.org/wiki/Apalachee_language"
 translations:
+  - translation_iso: ara
+    name: اپالاكهيي
+    auto: true
   - translation_iso: jpn
     name: アパラチー語
     auto: true

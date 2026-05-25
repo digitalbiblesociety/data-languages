@@ -13,6 +13,9 @@ glottolog_family_name: Speech Register
 glottolog_classification: "Speech Register > Atlantic-Congo Speech Register > Medefidrin"
 wikipedia_url: "https://en.wikipedia.org/wiki/Medefaidrin"
 translations:
+  - translation_iso: ara
+    name: مديفايدرين
+    auto: true
   - translation_iso: jpn
     name: メデファイドリン
   - translation_iso: kor

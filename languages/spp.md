@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Senufo > North Senufo > Supyiric > Supyire Senoufo"
 wikipedia_url: "https://en.wikipedia.org/wiki/Supyire_language"
 translations:
+  - translation_iso: ara
+    name: اللغة سوبيير سينوفو
+    auto: true
   - translation_iso: jpn
     name: スピリエセヌーフォ語
     auto: true

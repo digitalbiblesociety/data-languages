@@ -15,6 +15,9 @@ glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Cushitic > East Cushitic > Lowland East Cushitic > Southern Lowland East Cushitic > Mainstream Lowland East Cushitic > Oromoid > Konsoid > Konso"
 wikipedia_url: "https://en.wikipedia.org/wiki/Konso_language"
 translations:
+  - translation_iso: ara
+    name: كونسو
+    auto: true
   - translation_iso: jpn
     name: コンソ語
     auto: true

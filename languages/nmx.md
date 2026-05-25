@@ -15,6 +15,9 @@ glottolog_family_name: Yam
 glottolog_classification: "Yam > Morehead-Maro > Nambu > Nama-Dre > Nama (Papua New Guinea)"
 wikipedia_url: "https://en.wikipedia.org/wiki/Nama_language_(Papuan)"
 translations:
+  - translation_iso: ara
+    name: نام (بابوا غينيا الجديدة)
+    auto: true
   - translation_iso: jpn
     name: ナマ語
     auto: true

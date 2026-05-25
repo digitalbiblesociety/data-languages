@@ -15,6 +15,9 @@ glottolog_family_name: Unclassifiable
 glottolog_classification: "Unclassifiable > Traveller Scottish"
 wikipedia_url: "https://en.wikipedia.org/wiki/Scottish_Cant"
 translations:
+  - translation_iso: ara
+    name: اسكتلندي متنقل
+    auto: true
   - translation_iso: jpn
     name: トラベラー・スコットランド語
     auto: true

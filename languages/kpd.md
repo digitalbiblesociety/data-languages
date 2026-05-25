@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Aru > Central Aru > Dobel-Koba > Koba"
 wikipedia_url: "https://en.wikipedia.org/wiki/Koba_language"
 translations:
+  - translation_iso: ara
+    name: لغة كوبا
+    auto: true
   - translation_iso: jpn
     name: コバ語
   - translation_iso: zho

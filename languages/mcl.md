@@ -15,6 +15,9 @@ glottolog_family_name: Tucanoan
 glottolog_classification: "Tucanoan > Western Tucanoan > Napo Tucanoan > Siona-Secoya > Sionan > Macaguaje"
 wikipedia_url: "https://en.wikipedia.org/wiki/Macaguaje_language"
 translations:
+  - translation_iso: ara
+    name: لغة ماكاجواخي
+    auto: true
   - translation_iso: jpn
     name: マカグアエ語
     auto: true

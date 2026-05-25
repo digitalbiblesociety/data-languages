@@ -15,6 +15,9 @@ glottolog_family_name: Dravidian
 glottolog_classification: "Dravidian > Central Dravidian > Kolami-Naiki > Southeastern Kolami"
 wikipedia_url: "https://en.wikipedia.org/wiki/Naiki_language"
 translations:
+  - translation_iso: ara
+    name: جنوب شرق كولامي
+    auto: true
   - translation_iso: hin
     name: नेईकी भाषा
   - translation_iso: jpn

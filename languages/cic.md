@@ -16,6 +16,9 @@ glottolog_family_name: Muskogean
 glottolog_classification: "Muskogean > Western Muskogean > Chickasaw"
 wikipedia_url: "https://en.wikipedia.org/wiki/Chickasaw_language"
 translations:
+  - translation_iso: ara
+    name: الشيكاساو
+    auto: true
   - translation_iso: hin
     name: चिकसॉ
   - translation_iso: jpn

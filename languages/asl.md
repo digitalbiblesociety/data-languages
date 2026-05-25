@@ -14,6 +14,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Nunusaku > Piru Bay > West Piru Bay > Asilulu"
 wikipedia_url: "https://en.wikipedia.org/wiki/Asilulu_language"
 translations:
+  - translation_iso: ara
+    name: اللغة أسيلولو
+    auto: true
   - translation_iso: jpn
     name: アシルル語
     auto: true

@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Kainji > Central Kainji > Basa-Eastern Kainji > Eastern Kainji > Jos > Northern Jos > North-Central Jos > Boze-Loro > Jere"
 wikipedia_url: "https://en.wikipedia.org/wiki/Zele_language"
 translations:
+  - translation_iso: ara
+    name: لغة جيري
+    auto: true
   - translation_iso: jpn
     name: ジェレ語
     auto: true

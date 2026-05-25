@@ -15,6 +15,9 @@ glottolog_family_name: Otomanguean
 glottolog_classification: "Otomanguean > Eastern Otomanguean > Amuzgo-Mixtecan > Amuzgoan > Guerrero Amuzgo"
 wikipedia_url: "https://en.wikipedia.org/wiki/Guerrero_Amuzgo_language"
 translations:
+  - translation_iso: ara
+    name: لغة غيريرو أموزغو
+    auto: true
   - translation_iso: jpn
     name: ゲレロ・アムスゴ語
     auto: true

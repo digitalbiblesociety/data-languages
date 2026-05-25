@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Southern Melanesian > New Caledonian > Mainland New Caledonian > Southern New Caledonian > Mid-Southern New Caledonian > Xârâcùù"
 wikipedia_url: "https://en.wikipedia.org/wiki/X%C3%A2r%C3%A2c%C3%B9%C3%B9"
 translations:
+  - translation_iso: ara
+    name: لغة خاراتشوو
+    auto: true
   - translation_iso: jpn
     name: ハランチュー語
   - translation_iso: kor

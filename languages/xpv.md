@@ -9,6 +9,9 @@ country_name: Australia
 status_id: null
 wikipedia_url: "https://en.wikipedia.org/wiki/Tommeginne_language"
 translations:
+  - translation_iso: ara
+    name: تاسماني الشمالية
+    auto: true
   - translation_iso: jpn
     name: 北タスマニア語
     auto: true

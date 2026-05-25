@@ -15,6 +15,9 @@ glottolog_family_name: Mataguayan
 glottolog_classification: "Mataguayan > Mataguayo II > Wichi > Vejoz"
 wikipedia_url: "https://en.wikipedia.org/wiki/Wich%C3%AD_Lhamt%C3%A9s_Vejoz"
 translations:
+  - translation_iso: ara
+    name: ويكه لهامتس فيجوز
+    auto: true
   - translation_iso: jpn
     name: ウィチ・ハムテス・ベホス語
     auto: true

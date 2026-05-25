@@ -15,6 +15,9 @@ glottolog_family_name: Nuclear Torricelli
 glottolog_classification: "Nuclear Torricelli > Kombio-Arapesh-Urat > Kombio-Yambes > Kombioic > Aro-Mukweym-Orok"
 wikipedia_url: "https://en.wikipedia.org/wiki/Torricelli_language"
 translations:
+  - translation_iso: ara
+    name: توريسيلي
+    auto: true
   - translation_iso: jpn
     name: トリセリ語
     auto: true

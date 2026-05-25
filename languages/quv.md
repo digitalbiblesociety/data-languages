@@ -15,6 +15,9 @@ glottolog_family_name: Mayan
 glottolog_classification: "Mayan > Core Mayan > Quichean-Mamean > Greater Quichean > Core Quichean > Sacapulteco"
 wikipedia_url: "https://en.wikipedia.org/wiki/Sakapultek_language"
 translations:
+  - translation_iso: ara
+    name: اللغة ساكابوليتيكو
+    auto: true
   - translation_iso: jpn
     name: サカプルテコ語
   - translation_iso: kor

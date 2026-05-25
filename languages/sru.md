@@ -15,6 +15,9 @@ glottolog_family_name: Tupian
 glottolog_classification: "Tupian > Monde > Suruí"
 wikipedia_url: "https://en.wikipedia.org/wiki/Surui_language"
 translations:
+  - translation_iso: ara
+    name: اللغة سوروي
+    auto: true
   - translation_iso: jpn
     name: パイテル語
     auto: true

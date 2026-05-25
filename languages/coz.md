@@ -15,6 +15,9 @@ glottolog_family_name: Otomanguean
 glottolog_classification: "Otomanguean > Eastern Otomanguean > Popoloca-Zapotecan > Popolocan-Mazatecan > Ixcatec-Chocho-Popolocan > Chocho-Popolocan > Chochotec"
 wikipedia_url: "https://en.wikipedia.org/wiki/Chocho_language"
 translations:
+  - translation_iso: ara
+    name: الشوتشوتك
+    auto: true
   - translation_iso: jpn
     name: チョショテク語
     auto: true

@@ -14,6 +14,9 @@ glottolog_family_id: aust1305
 glottolog_family_name: Austroasiatic
 glottolog_classification: "Austroasiatic > Katuic > Ta'oihic > Kriang-Khlor"
 translations:
+  - translation_iso: ara
+    name: كريانج
+    auto: true
   - translation_iso: jpn
     name: クリアン語
     auto: true

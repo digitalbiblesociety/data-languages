@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Malayo-Chamic > Malayic > Nuclear Malayic > East Borneo Malay > Banjar-Berau-Brunei Malay > Berau-Brunei Malay > Bruneic Malay > Brunei-Bacan Malay > Bacanese Malay"
 wikipedia_url: "https://en.wikipedia.org/wiki/Bacan_Malay"
 translations:
+  - translation_iso: ara
+    name: باتشانيسي مالاي
+    auto: true
   - translation_iso: jpn
     name: バカン・マレー語
   - translation_iso: zho

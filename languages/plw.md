@@ -14,6 +14,9 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Greater Central Philippine > Palawanic-Kalamian > Palawanic > Southern Palawanic > Molbog-Palawan > Nuclear Palawan > Brooke-Canipaan Palawan > Brooke's Point Palawano"
 translations:
+  - translation_iso: ara
+    name: اللغة بالاوانو بروكس بوينت
+    auto: true
   - translation_iso: jpn
     name: ブルックスポイントパラワーノ語
     auto: true

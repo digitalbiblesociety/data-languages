@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Tanimbar-Bomberai > Nuclear Tanimbar-Bomberai > Yamdena-Onin > Oninic > Onin"
 wikipedia_url: "https://en.wikipedia.org/wiki/Onin_language"
 translations:
+  - translation_iso: ara
+    name: اللغة أونين
+    auto: true
   - translation_iso: jpn
     name: オニン語
     auto: true

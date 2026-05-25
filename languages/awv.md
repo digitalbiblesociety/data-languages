@@ -15,6 +15,9 @@ glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Asmat-Awyu-Ok > Awyu-Ok > Greater Awyu > Awyu-Dumut > Awyu > Kia River Awyu"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kia_Awyu"
 translations:
+  - translation_iso: ara
+    name: اللغة جاير أويو
+    auto: true
   - translation_iso: jpn
     name: ジェア・アウユ語
     auto: true

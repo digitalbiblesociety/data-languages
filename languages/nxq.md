@@ -16,6 +16,9 @@ glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Burmo-Qiangic > Na-Qiangic > Naic > Naish > Naxi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Naxi_language"
 translations:
+  - translation_iso: ara
+    name: ناشي
+    auto: true
   - translation_iso: hin
     name: नाशी भाषा
   - translation_iso: jpn

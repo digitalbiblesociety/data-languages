@@ -12,6 +12,9 @@ glottolog_family_name: Dravidian
 glottolog_classification: "Dravidian > South Dravidian > South Dravidian I > Tamil-Kannada > Badaga-Kannada > Kannadoid > Maundadan Chetti"
 wikipedia_url: "https://en.wikipedia.org/wiki/Maundadan_Chetti_language"
 translations:
+  - translation_iso: ara
+    name: مونداديان تشيتي
+    auto: true
   - translation_iso: jpn
     name: マウンダダン・チェッティ語
     auto: true

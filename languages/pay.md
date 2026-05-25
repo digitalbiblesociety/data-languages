@@ -15,6 +15,9 @@ glottolog_family_name: Chibchan
 glottolog_classification: "Chibchan > Pech"
 wikipedia_url: "https://en.wikipedia.org/wiki/Pech_language"
 translations:
+  - translation_iso: ara
+    name: اللغة بيتش
+    auto: true
   - translation_iso: jpn
     name: ペッチ語
     auto: true

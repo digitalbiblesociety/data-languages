@@ -15,6 +15,9 @@ glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > South-West Pama-Nyungan > Pilbara > Ngayarda > Central Ngayarda > Yindjibarndi-Kurrama > Yindjibarndi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Yinjibarndi_language"
 translations:
+  - translation_iso: ara
+    name: اللغة ييندجيبارندي
+    auto: true
   - translation_iso: jpn
     name: イインジバルンディ語
     auto: true

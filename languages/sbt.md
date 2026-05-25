@@ -12,6 +12,9 @@ longitude: 140.88383
 glottocode: kimk1238
 wikipedia_url: "https://en.wikipedia.org/wiki/Kimki_language"
 translations:
+  - translation_iso: ara
+    name: كيمكي
+    auto: true
   - translation_iso: jpn
     name: スクバトム語
     auto: true

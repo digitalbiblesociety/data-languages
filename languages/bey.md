@@ -15,6 +15,9 @@ glottolog_family_name: Nuclear Torricelli
 glottolog_classification: "Nuclear Torricelli > Beli (Papua New Guinea)"
 wikipedia_url: "https://en.wikipedia.org/wiki/Beli_language"
 translations:
+  - translation_iso: ara
+    name: بيلي
+    auto: true
   - translation_iso: jpn
     name: ベリ語
     auto: true

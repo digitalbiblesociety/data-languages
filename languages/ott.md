@@ -15,6 +15,9 @@ glottolog_family_name: Otomanguean
 glottolog_classification: "Otomanguean > Western Otomanguean > Otopame-Chinantecan > Otopamean > Otomian > Southwestern Otomi > Temoaya Otomi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Temoaya_Otomi"
 translations:
+  - translation_iso: ara
+    name: اللغة أوتومي تيموايا
+    auto: true
   - translation_iso: jpn
     name: テモアヤ・オトミ語
     auto: true

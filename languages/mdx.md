@@ -15,6 +15,9 @@ glottolog_family_name: Dizoid
 glottolog_classification: "Dizoid > Dizin"
 wikipedia_url: "https://en.wikipedia.org/wiki/Dizin_language"
 translations:
+  - translation_iso: ara
+    name: لغة ديزين
+    auto: true
   - translation_iso: jpn
     name: ディジン語
     auto: true

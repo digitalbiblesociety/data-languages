@@ -9,6 +9,9 @@ status_id: 6a
 latitude: 15.71875
 longitude: 106.56415
 translations:
+  - translation_iso: ara
+    name: إير
+    auto: true
   - translation_iso: jpn
     name: イル語
     auto: true

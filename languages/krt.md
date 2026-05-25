@@ -15,6 +15,9 @@ glottolog_family_name: Saharan
 glottolog_classification: "Saharan > Western Saharan > Kanuri-Kanembu > Kanuric > East Kanuri > Tumari Kanuri"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tumari_Kanuri"
 translations:
+  - translation_iso: ara
+    name: تومري كنوري
+    auto: true
   - translation_iso: jpn
     name: トゥマリ・カヌリ語
   - translation_iso: zho

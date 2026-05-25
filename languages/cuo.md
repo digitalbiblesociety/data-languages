@@ -15,6 +15,9 @@ glottolog_family_name: Cariban
 glottolog_classification: "Cariban > Venezuelan Cariban > Mapoyo-Tamanaku > Cumana > Cumanagoto"
 wikipedia_url: "https://en.wikipedia.org/wiki/Cumanagoto_language"
 translations:
+  - translation_iso: ara
+    name: الكومانغوتو
+    auto: true
   - translation_iso: jpn
     name: クマナゴト語
   - translation_iso: zho

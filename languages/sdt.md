@@ -10,6 +10,9 @@ latitude: 44.16916
 longitude: 5.06601
 wikipedia_url: "https://en.wikipedia.org/wiki/Judeo-Proven%C3%A7al"
 translations:
+  - translation_iso: ara
+    name: شوديت
+    auto: true
   - translation_iso: jpn
     name: シュアディート
   - translation_iso: kor

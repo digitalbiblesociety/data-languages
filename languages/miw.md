@@ -15,6 +15,9 @@ glottolog_family_name: Angan
 glottolog_classification: "Angan > Nuclear Angan > Ankave-Tainae-Akoye > Tainae-Akoye > Akoye"
 wikipedia_url: "https://en.wikipedia.org/wiki/Akoye_language"
 translations:
+  - translation_iso: ara
+    name: لغة أكويي
+    auto: true
   - translation_iso: jpn
     name: アコイェ語
     auto: true

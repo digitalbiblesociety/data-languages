@@ -14,6 +14,9 @@ glottolog_family_name: Narrow Talodi
 glottolog_classification: "Narrow Talodi > Buram-Saraf > Nding-Tasomi > Nding"
 wikipedia_url: "https://en.wikipedia.org/wiki/Nding_language"
 translations:
+  - translation_iso: ara
+    name: النديج
+    auto: true
   - translation_iso: jpn
     name: ンディング語
     auto: true

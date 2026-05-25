@@ -14,6 +14,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > North Borneo Malayo-Polynesian > Central Sarawak > Punan-Muller-Schwaner > Punan > Aput-Busang-Merah-Kohi > Sihan"
 wikipedia_url: "https://en.wikipedia.org/wiki/Sian_language"
 translations:
+  - translation_iso: ara
+    name: اللغة سيان
+    auto: true
   - translation_iso: jpn
     name: シハン語
     auto: true

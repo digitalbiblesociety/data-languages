@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > East Bantu > Greater Lega > Bembe-Buyu > Bembe"
 wikipedia_url: "https://en.wikipedia.org/wiki/Bembe_language_(Ibembe)"
 translations:
+  - translation_iso: ara
+    name: بيمبي
+    auto: true
   - translation_iso: jpn
     name: ベンベ語
     auto: true

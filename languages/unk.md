@@ -15,6 +15,9 @@ glottolog_family_name: Arawakan
 glottolog_classification: "Arawakan > Central-Eastern Maipuran > Central Maipuran > Xaray > Parecis-Nawe > Enawené-Nawé"
 wikipedia_url: "https://en.wikipedia.org/wiki/Enawene_Nawe_language"
 translations:
+  - translation_iso: ara
+    name: إناوينيه-ناويه
+    auto: true
   - translation_iso: jpn
     name: サルマ語
   - translation_iso: zho

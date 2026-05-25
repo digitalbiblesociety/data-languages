@@ -15,6 +15,9 @@ glottolog_family_name: Sepik
 glottolog_classification: "Sepik > Nukuma > Kwanga-Mende > Kwanga"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kwanga_language"
 translations:
+  - translation_iso: ara
+    name: كوانجا
+    auto: true
   - translation_iso: jpn
     name: クワンガ語
     auto: true

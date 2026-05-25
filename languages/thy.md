@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Cameroun-Ubangian > Bikwin-Jen > Southern Bikwin-Jen > Jen > Tha"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tha_language"
 translations:
+  - translation_iso: ara
+    name: ثا
+    auto: true
   - translation_iso: jpn
     name: タ語
     auto: true

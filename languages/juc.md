@@ -15,6 +15,9 @@ glottolog_family_name: Tungusic
 glottolog_classification: "Tungusic > Manchu-Jurchen > Jurchen"
 wikipedia_url: "https://en.wikipedia.org/wiki/Jurchen_language"
 translations:
+  - translation_iso: ara
+    name: لغة جورتشن
+    auto: true
   - translation_iso: jpn
     name: 女真語
   - translation_iso: kor

@@ -10,6 +10,9 @@ latitude: 11.31789
 longitude: 22.56115
 wikipedia_url: "https://en.wikipedia.org/wiki/Fongoro_language"
 translations:
+  - translation_iso: ara
+    name: الفونجورو
+    auto: true
   - translation_iso: jpn
     name: フォンゴロ語
     auto: true

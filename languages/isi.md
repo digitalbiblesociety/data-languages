@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Ekoid-Mbe > Ekoid > Bakor-Ejagham > Bakor > Northern Bakor > Abanyom-Nkem-Nkum > Nkem-Nkum"
 wikipedia_url: "https://en.wikipedia.org/wiki/Nkem-Nkum_language"
 translations:
+  - translation_iso: ara
+    name: نكيم-نكوم
+    auto: true
   - translation_iso: jpn
     name: ンケム・ンクム語
     auto: true

@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Celebic > Greater Eastern Celebic > Eastern Celebic > Saluan-Banggai > Western Saluan-Banggai > Saluanic > Batui-Saluan > Batui"
 wikipedia_url: "https://en.wikipedia.org/wiki/Batui_language"
 translations:
+  - translation_iso: ara
+    name: اللغة باتوي
+    auto: true
   - translation_iso: jpn
     name: バトゥイ語
     auto: true

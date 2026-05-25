@@ -15,6 +15,9 @@ glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Indo-Aryan > Middle-Modern Indo-Aryan > Eastern Dardic > Himachali > Nuclear Himachali > Kullu Pahari"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kullui"
 translations:
+  - translation_iso: ara
+    name: لغة كولو باهاري
+    auto: true
   - translation_iso: hin
     name: कुलुई
   - translation_iso: jpn

@@ -15,6 +15,9 @@ glottolog_family_name: Otomanguean
 glottolog_classification: "Otomanguean > Eastern Otomanguean > Popoloca-Zapotecan > Popolocan-Mazatecan > Ixcatec-Chocho-Popolocan > Ixcatec"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ixcatec_language"
 translations:
+  - translation_iso: ara
+    name: لغة إيكسكاتك
+    auto: true
   - translation_iso: jpn
     name: イチャテコ族
   - translation_iso: zho

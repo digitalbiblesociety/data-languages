@@ -15,6 +15,9 @@ glottolog_family_name: Mataguayan
 glottolog_classification: "Mataguayan > Mataguayo I > Maká"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mak%C3%A1_language"
 translations:
+  - translation_iso: ara
+    name: لغة ماكا
+    auto: true
   - translation_iso: jpn
     name: マカ語
     auto: true

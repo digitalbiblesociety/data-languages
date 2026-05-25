@@ -13,6 +13,9 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Benue-Congo Plateau > West-Central Benue-Congo Plateau > Zaric > Nuclear Zaric > Izeric > Cen"
 translations:
+  - translation_iso: ara
+    name: السين
+    auto: true
   - translation_iso: jpn
     name: セン語
     auto: true

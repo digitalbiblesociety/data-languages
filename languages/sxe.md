@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > Bantu A-B10-B20-B30 > Bantu B20A > Siguic > Sighu"
 wikipedia_url: "https://en.wikipedia.org/wiki/Sighu_language"
 translations:
+  - translation_iso: ara
+    name: سيغو
+    auto: true
   - translation_iso: jpn
     name: シグ語
     auto: true

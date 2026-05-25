@@ -15,6 +15,9 @@ glottolog_family_name: Tupian
 glottolog_classification: "Tupian > Eastern Tupian > Maweti-Guarani > Aweti-Guarani > Tupi-Guarani > Tupi-Guarani Subgroup VIII > Guaja-Kaapor-Ava > Avá-Canoeiro"
 wikipedia_url: "https://en.wikipedia.org/wiki/Av%C3%A1-Canoeiro_language"
 translations:
+  - translation_iso: ara
+    name: اللغة آفا-كانويرو
+    auto: true
   - translation_iso: jpn
     name: アヴァ・カノエイロ語
     auto: true

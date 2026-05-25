@@ -15,6 +15,9 @@ glottolog_family_name: Eskimo-Aleut
 glottolog_classification: "Eskimo-Aleut > Eskimo > Yupik > Central Siberian Yupik"
 wikipedia_url: "https://en.wikipedia.org/wiki/Central_Siberian_Yupik_language"
 translations:
+  - translation_iso: ara
+    name: اليوبيك السيبيري الوسطى
+    auto: true
   - translation_iso: jpn
     name: シベリア・ユピック語
   - translation_iso: kor

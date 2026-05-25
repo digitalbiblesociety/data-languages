@@ -14,6 +14,9 @@ glottolog_family_id: sign1238
 glottolog_family_name: Sign Language
 glottolog_classification: "Sign Language > L1 Sign Language > LSFic > ASLic > West-Central South American Sign > Bolivian Sign Language"
 translations:
+  - translation_iso: ara
+    name: لغة الإشارة البوليفية
+    auto: true
   - translation_iso: jpn
     name: ボリビア手話
   - translation_iso: zho

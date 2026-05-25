@@ -15,6 +15,9 @@ glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > East Queensland Border Pama Nyungan > Yugambalic > Yugambal-Bigambal > Yugambal"
 wikipedia_url: "https://en.wikipedia.org/wiki/Yugambal_language"
 translations:
+  - translation_iso: ara
+    name: اللغة يوغامبال
+    auto: true
   - translation_iso: jpn
     name: ユガンバリック諸語
   - translation_iso: zho

@@ -15,6 +15,9 @@ glottolog_family_name: Uto-Aztecan
 glottolog_classification: "Uto-Aztecan > Southern Uto-Aztecan > Corachol-Aztecan > Aztec > Western Nahuatl > Central Nahuatl > Classical Nahuatl"
 wikipedia_url: "https://en.wikipedia.org/wiki/Classical_Nahuatl"
 translations:
+  - translation_iso: ara
+    name: ناهواتل الكلاسيكي
+    auto: true
   - translation_iso: jpn
     name: 古典ナワトル語
   - translation_iso: kor

@@ -8,6 +8,9 @@ country_name: Australia
 status_id: "10"
 wikipedia_url: "https://en.wikipedia.org/wiki/Awngthim_language"
 translations:
+  - translation_iso: ara
+    name: آونجثيم
+    auto: true
   - translation_iso: jpn
     name: アウングティム語
     auto: true

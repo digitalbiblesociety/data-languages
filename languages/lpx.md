@@ -15,6 +15,9 @@ glottolog_family_name: Nilotic
 glottolog_classification: "Nilotic > Eastern Nilotic > Teso-Lotuxo-Maa > Lotuxo-Maa > Lotuxo > Lopit-Dongotono > Lopit"
 wikipedia_url: "https://en.wikipedia.org/wiki/Lopit_language"
 translations:
+  - translation_iso: ara
+    name: لغة وپيت
+    auto: true
   - translation_iso: jpn
     name: ロピット語
   - translation_iso: zho

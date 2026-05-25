@@ -15,6 +15,9 @@ glottolog_family_name: Ta-Ne-Omotic
 glottolog_classification: "Ta-Ne-Omotic > Ometo > North-West Ometo > Male (Ethiopia)"
 wikipedia_url: "https://en.wikipedia.org/wiki/Maale_language"
 translations:
+  - translation_iso: ara
+    name: لغة ميل الإثيوبية
+    auto: true
   - translation_iso: jpn
     name: マレ語
   - translation_iso: zho

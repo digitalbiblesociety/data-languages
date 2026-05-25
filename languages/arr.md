@@ -15,6 +15,9 @@ glottolog_family_name: Tupian
 glottolog_classification: "Tupian > Purubora-Ramarama > Ramarama > Karo (Brazil)"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ramarama_language"
 translations:
+  - translation_iso: ara
+    name: اللغة كارو
+    auto: true
   - translation_iso: jpn
     name: ラマラマ語
   - translation_iso: zho

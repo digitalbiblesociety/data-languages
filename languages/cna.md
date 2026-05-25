@@ -15,6 +15,9 @@ glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Bodic > Bodish > Early Old Tibetan > Western Archaic Tibetan > Kenhatic > Changthang"
 wikipedia_url: "https://en.wikipedia.org/wiki/Changthang_language"
 translations:
+  - translation_iso: ara
+    name: الشانغثانغ
+    auto: true
   - translation_iso: hin
     name: चांगथंग भाषा
   - translation_iso: jpn

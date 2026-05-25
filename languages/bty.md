@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Greater Seram Laut > East Seram > East Rivers Seram > Bobot"
 wikipedia_url: "https://en.wikipedia.org/wiki/Bobot_language"
 translations:
+  - translation_iso: ara
+    name: بوبوت
+    auto: true
   - translation_iso: jpn
     name: ボボト語
     auto: true

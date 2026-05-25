@@ -15,6 +15,9 @@ glottolog_family_name: Lengua-Mascoy
 glottolog_classification: "Lengua-Mascoy > Eastern Enlhet-Enenlhet > Toba-Enenlhet"
 wikipedia_url: "https://en.wikipedia.org/wiki/Toba-Maskoy_language"
 translations:
+  - translation_iso: ara
+    name: توبا ماسكوي
+    auto: true
   - translation_iso: jpn
     name: マスコイ語
   - translation_iso: zho

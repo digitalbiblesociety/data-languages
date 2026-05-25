@@ -9,6 +9,9 @@ country_name: Croatia
 status_id: null
 wikipedia_url: "https://en.wikipedia.org/wiki/Chakavian"
 translations:
+  - translation_iso: ara
+    name: الشاكافي
+    auto: true
   - translation_iso: jpn
     name: チャ方言
   - translation_iso: zho

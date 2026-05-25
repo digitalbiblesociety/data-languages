@@ -15,6 +15,9 @@ glottolog_family_name: Japonic
 glottolog_classification: "Japonic > Ryukyuan > Northern Ryukyuan > Amami > Nuclear Amami > Okinoerabu-Tokunoshima > Toku-No-Shima"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tokunoshima_language"
 translations:
+  - translation_iso: ara
+    name: توكو نو شيما
+    auto: true
   - translation_iso: jpn
     name: 徳之島方言
   - translation_iso: kor

@@ -16,6 +16,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Gur > Central Gur > Northern Central Gur > Bwamu-Oti-Volta > Bwamu > Bomu"
 wikipedia_url: "https://en.wikipedia.org/wiki/Bomu_language"
 translations:
+  - translation_iso: ara
+    name: بوموو
+    auto: true
   - translation_iso: jpn
     name: ボム語
   - translation_iso: zho

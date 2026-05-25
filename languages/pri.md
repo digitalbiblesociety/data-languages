@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Southern Melanesian > New Caledonian > Mainland New Caledonian > Northern New Caledonian > Mid-Northern New Caledonian > Voh-Kone-Cem-Pac > Cem-Pac > Paicî"
 wikipedia_url: "https://en.wikipedia.org/wiki/Paic%C3%AE_language"
 translations:
+  - translation_iso: ara
+    name: اللغة بايتسي
+    auto: true
   - translation_iso: jpn
     name: パーチン語
   - translation_iso: kor

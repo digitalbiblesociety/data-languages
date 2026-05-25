@@ -15,6 +15,9 @@ glottolog_family_name: Caddoan
 glottolog_classification: "Caddoan > Northern Caddoan > Pawnee-Kitsai > Pawnee-Arikara > Pawnee"
 wikipedia_url: "https://en.wikipedia.org/wiki/Pawnee_language"
 translations:
+  - translation_iso: ara
+    name: اللغة باوني
+    auto: true
   - translation_iso: jpn
     name: ポーニー語
   - translation_iso: zho

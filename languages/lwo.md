@@ -15,6 +15,9 @@ glottolog_family_name: Nilotic
 glottolog_classification: "Nilotic > Western Nilotic > Lwoo > Northern Lwoo > Luwo-Thuri > Luwo"
 wikipedia_url: "https://en.wikipedia.org/wiki/Jur_language"
 translations:
+  - translation_iso: ara
+    name: لغة ووو
+    auto: true
   - translation_iso: jpn
     name: ルウォ語
   - translation_iso: zho

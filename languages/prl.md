@@ -15,6 +15,9 @@ glottolog_family_name: Sign Language
 glottolog_classification: "Sign Language > L1 Sign Language > LSFic > ASLic > West-Central South American Sign > Peruvian-Inmaculada Sign > Peruvian Sign Language"
 wikipedia_url: "https://en.wikipedia.org/wiki/Peruvian_Sign_Language"
 translations:
+  - translation_iso: ara
+    name: لغة الإشارة البيروفية
+    auto: true
   - translation_iso: hin
     name: पेरू सांकेतिक भाषा
   - translation_iso: jpn

@@ -15,6 +15,9 @@ glottolog_family_name: Quechuan
 glottolog_classification: "Quechuan > San Martin-Amazonas Quechua > San Martín Quechua"
 wikipedia_url: "https://en.wikipedia.org/wiki/Lamas_Quechua"
 translations:
+  - translation_iso: ara
+    name: اللغة كويتشوا سان مارتين
+    auto: true
   - translation_iso: jpn
     name: サンマルティンケチュア語
     auto: true

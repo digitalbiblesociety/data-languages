@@ -15,6 +15,9 @@ glottolog_family_name: Nuclear Torricelli
 glottolog_classification: "Nuclear Torricelli > Unclassified Nuclear Torricelli > Gnau"
 wikipedia_url: "https://en.wikipedia.org/wiki/Gnau_language"
 translations:
+  - translation_iso: ara
+    name: غنآو
+    auto: true
   - translation_iso: jpn
     name: グナウ語
     auto: true

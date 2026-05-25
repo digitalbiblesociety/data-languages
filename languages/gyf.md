@@ -14,6 +14,9 @@ glottolog_family_id: pama1250
 glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > Greater Maric > Guwa-Maric > Maric > Southern Maric > Gungabula"
 translations:
+  - translation_iso: ara
+    name: غونجآبولآ
+    auto: true
   - translation_iso: jpn
     name: グンガブラ語
     auto: true

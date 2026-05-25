@@ -15,6 +15,9 @@ glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > Greater Maric > Guwa-Maric > Maric > Northern Maric > Warungu-Gugu Badhun > Warrongo"
 wikipedia_url: "https://en.wikipedia.org/wiki/Warrongo_language"
 translations:
+  - translation_iso: ara
+    name: وارونغو
+    auto: true
   - translation_iso: jpn
     name: ワルング語
   - translation_iso: zho

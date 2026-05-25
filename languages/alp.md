@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Nunusaku > Three Rivers > Amalumute > Northwest Seram > Ulat Inai > Alune"
 wikipedia_url: "https://en.wikipedia.org/wiki/Alune_language"
 translations:
+  - translation_iso: ara
+    name: لغة ألون
+    auto: true
   - translation_iso: jpn
     name: アルネ語
     auto: true

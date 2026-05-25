@@ -15,6 +15,9 @@ glottolog_family_id: dogo1299
 glottolog_family_name: Dogon
 glottolog_classification: "Dogon > Plains Dogon > Western Plains Dogon > Tomo Kan Dogon"
 translations:
+  - translation_iso: ara
+    name: تومو كان دوجون
+    auto: true
   - translation_iso: jpn
     name: トモ・カン・ドゴン語
     auto: true

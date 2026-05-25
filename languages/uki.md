@@ -8,6 +8,9 @@ country_name: India
 status_id: null
 wikipedia_url: "https://en.wikipedia.org/wiki/Kui_language_(India)"
 translations:
+  - translation_iso: ara
+    name: كوي
+    auto: true
   - translation_iso: hin
     name: कुई भाषा
   - translation_iso: jpn

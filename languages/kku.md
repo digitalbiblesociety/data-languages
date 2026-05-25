@@ -15,6 +15,9 @@ glottolog_family_name: Unattested
 glottolog_classification: "Unattested > Atlantic-Congo (Unattested) > Tumi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tumi_language"
 translations:
+  - translation_iso: ara
+    name: لغة توميي
+    auto: true
   - translation_iso: jpn
     name: トゥミ語
     auto: true

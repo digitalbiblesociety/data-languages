@@ -15,6 +15,9 @@ glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > West Chadic > West Chadic A > West Chadic A.4 > Ronic > Sya"
 wikipedia_url: "https://en.wikipedia.org/wiki/Sha_language"
 translations:
+  - translation_iso: ara
+    name: شا
+    auto: true
   - translation_iso: jpn
     name: シャ語
     auto: true

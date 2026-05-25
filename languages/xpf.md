@@ -15,6 +15,9 @@ glottolog_family_name: South-Eastern Tasmanian
 glottolog_classification: "South-Eastern Tasmanian > South-Eastern-Tasmanian-Hinterland"
 wikipedia_url: "https://en.wikipedia.org/wiki/Nuenonne_language"
 translations:
+  - translation_iso: ara
+    name: تاسماني الجنوبية الشرقية
+    auto: true
   - translation_iso: jpn
     name: 南東タスマニア語
     auto: true

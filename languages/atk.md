@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Ati"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ati_language_(Philippines)"
 translations:
+  - translation_iso: ara
+    name: اللغة آتي
+    auto: true
   - translation_iso: jpn
     name: アティ語
   - translation_iso: zho

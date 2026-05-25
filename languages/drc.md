@@ -15,6 +15,9 @@ glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Italic > Latino-Faliscan > Latinic > Imperial Latin > Romance > Italo-Western Romance > Western Romance > Shifted Western Romance > Southwestern Shifted Romance > West Ibero-Romance > Galician Romance > Minderico"
 wikipedia_url: "https://en.wikipedia.org/wiki/Minderico_language"
 translations:
+  - translation_iso: ara
+    name: ميندريكو
+    auto: true
   - translation_iso: jpn
     name: ミンデリコ語
     auto: true

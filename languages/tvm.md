@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Timor-Babar > Southwest Maluku > Babar > South Babar > Southwest Babar > Tela-Masbuar"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tela%CA%BCa_language"
 translations:
+  - translation_iso: ara
+    name: تيلا ماسبوار
+    auto: true
   - translation_iso: jpn
     name: テラ・マスブアル語
     auto: true

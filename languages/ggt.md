@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > North New Guinea linkage > Ngero-Vitiaz linkage > Ngero > Western Ngero > Tuam > Gitua"
 wikipedia_url: "https://en.wikipedia.org/wiki/Gitua_language"
 translations:
+  - translation_iso: ara
+    name: غيتوآ
+    auto: true
   - translation_iso: jpn
     name: ギトゥア語
     auto: true

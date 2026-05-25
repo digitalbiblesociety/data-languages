@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Wide Grassfields > Narrow Grassfields > Southwest Grassfields > Osatu"
 wikipedia_url: "https://en.wikipedia.org/wiki/Osatu_language"
 translations:
+  - translation_iso: ara
+    name: اللغة أوساتو
+    auto: true
   - translation_iso: jpn
     name: オサトゥ語
     auto: true

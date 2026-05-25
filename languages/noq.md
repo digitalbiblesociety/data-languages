@@ -14,6 +14,9 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > Central-Western Bantu > West-Coastal Bantu > Nzadic > Lweric > Dingic > Loange-Atlantic > KLC Extended > Nsong-Mpiin-Ngong > Ngongo"
 translations:
+  - translation_iso: ara
+    name: نغونغو
+    auto: true
   - translation_iso: jpn
     name: ンゴンゴ語
   - translation_iso: zho

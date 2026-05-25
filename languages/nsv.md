@@ -10,6 +10,9 @@ status_id: 6b
 latitude: 23.058
 longitude: 101.412
 translations:
+  - translation_iso: ara
+    name: نيسو الجنوبية الغربية
+    auto: true
   - translation_iso: jpn
     name: 南西ニス語
     auto: true

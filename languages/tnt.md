@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Sangiric-Minahasan > Minahasan > North Minahasan > Tontemboan"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tontemboan_language"
 translations:
+  - translation_iso: ara
+    name: تونتيمبوان
+    auto: true
   - translation_iso: jpn
     name: トンテンボアン語
   - translation_iso: zho

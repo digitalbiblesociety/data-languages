@@ -15,6 +15,9 @@ glottolog_family_name: Siouan
 glottolog_classification: "Siouan > Mississippi Valley > Dakotan > Nakoda > Stoney"
 wikipedia_url: "https://en.wikipedia.org/wiki/Stoney_language"
 translations:
+  - translation_iso: ara
+    name: اللغة ستوني
+    auto: true
   - translation_iso: jpn
     name: ストニー語
   - translation_iso: zho

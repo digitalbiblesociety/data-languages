@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Southeast Solomonic > Longgu-Malaita-Makira > Malaita-Makira > Makira > Bauro"
 wikipedia_url: "https://en.wikipedia.org/wiki/Bauro_language"
 translations:
+  - translation_iso: ara
+    name: تايراها
+    auto: true
   - translation_iso: jpn
     name: バウロ語
   - translation_iso: zho

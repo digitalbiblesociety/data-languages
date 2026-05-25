@@ -15,6 +15,9 @@ glottolog_family_name: Mayan
 glottolog_classification: "Mayan > Core Mayan > Western Mayan > Cholan-Tzeltalan > Tzeltalan > Tzeltal"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tzeltal_language"
 translations:
+  - translation_iso: ara
+    name: تسيلتال
+    auto: true
   - translation_iso: jpn
     name: ツェルタル語
   - translation_iso: kor

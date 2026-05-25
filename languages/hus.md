@@ -15,6 +15,9 @@ glottolog_family_name: Mayan
 glottolog_classification: "Mayan > Huastecan Mayan > Huastec"
 wikipedia_url: "https://en.wikipedia.org/wiki/Huastec_language"
 translations:
+  - translation_iso: ara
+    name: هواستيك
+    auto: true
   - translation_iso: jpn
     name: ワステク語
   - translation_iso: kor

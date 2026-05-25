@@ -15,6 +15,9 @@ glottolog_family_name: Mande
 glottolog_classification: "Mande > Western Mande > Northwestern Mande > Duun-Bobo > Duun-Jo > Jowulu"
 wikipedia_url: "https://en.wikipedia.org/wiki/Jowulu_language"
 translations:
+  - translation_iso: ara
+    name: لغة جووولو
+    auto: true
   - translation_iso: jpn
     name: ジョウル語
     auto: true

@@ -13,6 +13,9 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Cameroun-Ubangian > Ubangi > Ubangi Ka > Mundu-Baka > Western Mundu-Baka > River Western Mundu-Baka > Monzomboic > Kpala-Bakpa > Yango"
 translations:
+  - translation_iso: ara
+    name: اللغة يانغو
+    auto: true
   - translation_iso: jpn
     name: ヤンゴ語
     auto: true

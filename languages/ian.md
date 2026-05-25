@@ -15,6 +15,9 @@ glottolog_family_name: Ndu
 glottolog_classification: "Ndu > Nuclear Ndu > Sawosic > Iatmulic > Iatmul"
 wikipedia_url: "https://en.wikipedia.org/wiki/Iatmul_language"
 translations:
+  - translation_iso: ara
+    name: إيتمول
+    auto: true
   - translation_iso: jpn
     name: Iatmül語
   - translation_iso: zho

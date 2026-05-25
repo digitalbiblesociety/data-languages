@@ -11,6 +11,9 @@ latitude: 10.59538
 longitude: -5.8581
 wikipedia_url: "https://en.wikipedia.org/wiki/Syenara_language"
 translations:
+  - translation_iso: ara
+    name: اللغة السينارا سينوفو
+    auto: true
   - translation_iso: jpn
     name: セナリ語
     auto: true

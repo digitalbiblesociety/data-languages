@@ -14,6 +14,9 @@ glottolog_family_name: Tai-Kadai
 glottolog_classification: "Tai-Kadai > Kam-Tai > Daic-Beic > Daic > Central-Southwestern Tai > Wenma-Southwestern Tai > Sapa-Southwestern Tai > Southwestern Tai > Southwestern Tai P > Chiang Saeng > White Tai > Pa Di"
 wikipedia_url: "https://en.wikipedia.org/wiki/Pa_Di_language"
 translations:
+  - translation_iso: ara
+    name: اللغة باه دي
+    auto: true
   - translation_iso: jpn
     name: パディ語
   - translation_iso: zho

@@ -14,6 +14,9 @@ glottolog_family_id: unat1236
 glottolog_family_name: Unattested
 glottolog_classification: "Unattested > Austronesian (Unattested) > Villa Viciosa Agta"
 translations:
+  - translation_iso: ara
+    name: فيلا فيسيوسا أجتا
+    auto: true
   - translation_iso: jpn
     name: ビラ・ビシオサ・アグタ語
     auto: true

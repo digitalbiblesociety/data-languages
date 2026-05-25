@@ -14,6 +14,9 @@ glottolog_family_name: Unattested
 glottolog_classification: "Unattested > Harappan"
 wikipedia_url: "https://en.wikipedia.org/wiki/Harappan_language"
 translations:
+  - translation_iso: ara
+    name: لغة وادي السند
+    auto: true
   - translation_iso: jpn
     name: ハラッパー語
   - translation_iso: zho

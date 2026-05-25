@@ -15,6 +15,9 @@ glottolog_family_name: South Bougainville
 glottolog_classification: "South Bougainville > Nasioiic > Nasioi > South-Central Nasioi > Central Nasioi > Ounge"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ounge_language"
 translations:
+  - translation_iso: ara
+    name: اللغة أون
+    auto: true
   - translation_iso: jpn
     name: ウネ語
     auto: true

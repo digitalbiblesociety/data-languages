@@ -12,6 +12,9 @@ longitude: -93.08271
 glottocode: atak1252
 wikipedia_url: "https://en.wikipedia.org/wiki/Atakapa_language"
 translations:
+  - translation_iso: ara
+    name: اللغة أتاكابا
+    auto: true
   - translation_iso: jpn
     name: アタカパ語
   - translation_iso: zho

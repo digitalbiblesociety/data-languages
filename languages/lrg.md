@@ -12,6 +12,9 @@ longitude: 130.92221
 glottocode: lara1258
 wikipedia_url: "https://en.wikipedia.org/wiki/Laragiya_language"
 translations:
+  - translation_iso: ara
+    name: لغة اراجيا
+    auto: true
   - translation_iso: jpn
     name: ララキア語
   - translation_iso: zho

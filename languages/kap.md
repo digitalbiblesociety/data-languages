@@ -15,6 +15,9 @@ glottolog_family_name: Nakh-Daghestanian
 glottolog_classification: "Nakh-Daghestanian > Daghestanian > Avar-Andic-Tsezic > Tsezic > East Tsezic > Bezhta"
 wikipedia_url: "https://en.wikipedia.org/wiki/Bezhta_language"
 translations:
+  - translation_iso: ara
+    name: لغة بيزتا
+    auto: true
   - translation_iso: jpn
     name: ベジタ語
   - translation_iso: kor

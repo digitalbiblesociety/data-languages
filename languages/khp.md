@@ -11,6 +11,9 @@ longitude: 139.76623
 glottocode: kapo1250
 wikipedia_url: "https://en.wikipedia.org/wiki/Kapori_language"
 translations:
+  - translation_iso: ara
+    name: لغة كابوري
+    auto: true
   - translation_iso: jpn
     name: カポリ語
     auto: true

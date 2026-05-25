@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Southern Melanesian > Southern Vanuatu > Erromanga > Ura (Vanuatu)"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ura_language_(Vanuatu)"
 translations:
+  - translation_iso: ara
+    name: أورا
+    auto: true
   - translation_iso: jpn
     name: ウラ語
   - translation_iso: zho

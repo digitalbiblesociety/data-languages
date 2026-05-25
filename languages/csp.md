@@ -15,6 +15,9 @@ glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Sinitic > Classical-Middle-Modern Sinitic > Middle-Modern Sinitic > Yue-Pinghua > Pinghua > Southern Pinghua"
 wikipedia_url: "https://en.wikipedia.org/wiki/Southern_Pinghua"
 translations:
+  - translation_iso: ara
+    name: جنوب بينغ الصينية
+    auto: true
   - translation_iso: jpn
     name: 桂南平話
   - translation_iso: zho

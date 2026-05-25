@@ -15,6 +15,9 @@ glottolog_family_name: Mayan
 glottolog_classification: "Mayan > Core Mayan > Yucatecan > Nuclear Yucatecan > Itza'"
 wikipedia_url: "https://en.wikipedia.org/wiki/Itza%CA%BC_language"
 translations:
+  - translation_iso: ara
+    name: لغة إيتزا
+    auto: true
   - translation_iso: jpn
     name: イツァ語
   - translation_iso: kor

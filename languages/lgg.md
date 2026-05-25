@@ -15,6 +15,9 @@ glottolog_family_name: Central Sudanic
 glottolog_classification: "Central Sudanic > Moru-Madi > Central Moru-Madi > Lugbaric > Lugbara"
 wikipedia_url: "https://en.wikipedia.org/wiki/Lugbara_language"
 translations:
+  - translation_iso: ara
+    name: لغة وجبارا
+    auto: true
   - translation_iso: jpn
     name: ルグバラ語
   - translation_iso: zho

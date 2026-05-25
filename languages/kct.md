@@ -14,6 +14,9 @@ glottolog_family_name: Ramu
 glottolog_classification: "Ramu > Lower Ramu > Ottilien > Watam-Kaian > Kaian"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kaian_language"
 translations:
+  - translation_iso: ara
+    name: لغة كايان
+    auto: true
   - translation_iso: jpn
     name: カイアン語
     auto: true

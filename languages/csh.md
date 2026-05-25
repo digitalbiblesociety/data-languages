@@ -15,6 +15,9 @@ glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Kuki-Chin-Naga > Kuki-Chin > Peripheral Kuki-Chin > South Peripheral Kuki-Chin > Ashoic > Asho Chin"
 wikipedia_url: "https://en.wikipedia.org/wiki/Sh%C3%B6_language"
 translations:
+  - translation_iso: ara
+    name: آشو تشين
+    auto: true
   - translation_iso: jpn
     name: ショー語
   - translation_iso: zho

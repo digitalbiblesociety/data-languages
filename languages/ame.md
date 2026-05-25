@@ -15,6 +15,9 @@ glottolog_family_name: Arawakan
 glottolog_classification: "Arawakan > Southern Maipuran > Kampa-Amuesha > Yanesha'"
 wikipedia_url: "https://en.wikipedia.org/wiki/Yanesha%CA%BC_language"
 translations:
+  - translation_iso: ara
+    name: لغة يانيشا
+    auto: true
   - translation_iso: jpn
     name: アムエシャ語
   - translation_iso: zho

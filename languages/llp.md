@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > North and Central Vanuatu > Central Vanuatu > Epi-Efate > Efate-Shepherds > Efate > North Efatic > North Efate"
 wikipedia_url: "https://en.wikipedia.org/wiki/North_Efate_language"
 translations:
+  - translation_iso: ara
+    name: لغة ورته يفاتي
+    auto: true
   - translation_iso: jpn
     name: グナ語
   - translation_iso: kor

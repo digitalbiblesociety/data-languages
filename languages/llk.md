@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > North Borneo Malayo-Polynesian > North Sarawakan > Berawan-Lower Baram > Lower Baram > Central Lower Baram B > Lelak"
 wikipedia_url: "https://en.wikipedia.org/wiki/Lelak_language"
 translations:
+  - translation_iso: ara
+    name: لغة يلاك
+    auto: true
   - translation_iso: jpn
     name: レラック語
   - translation_iso: zho

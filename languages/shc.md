@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > Central-Western Bantu > Njila > Northern Njila > Mbala-Holu-Sondi (K.10) > Mbala-Sondi > Sonde"
 wikipedia_url: "https://en.wikipedia.org/wiki/Sonde_language"
 translations:
+  - translation_iso: ara
+    name: سوندي
+    auto: true
   - translation_iso: jpn
     name: キソオンデ語
     auto: true

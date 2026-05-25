@@ -15,6 +15,9 @@ glottolog_family_name: Iwaidjan Proper
 glottolog_classification: "Iwaidjan Proper > Central Iwaidjic > Garig-Ilgar"
 wikipedia_url: "https://en.wikipedia.org/wiki/Garig-Ilgar_language"
 translations:
+  - translation_iso: ara
+    name: غاريغ-إيلغار
+    auto: true
   - translation_iso: jpn
     name: ガリグ・イルガル語
     auto: true

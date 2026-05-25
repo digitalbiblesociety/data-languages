@@ -14,6 +14,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > Meso Melanesian linkage > New Ireland-Northwest Solomonic linkage > St George linkage > Label-Bilur > Label"
 wikipedia_url: "https://en.wikipedia.org/wiki/Label_language"
 translations:
+  - translation_iso: ara
+    name: لابل
+    auto: true
   - translation_iso: jpn
     name: ラベル語
     auto: true

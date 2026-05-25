@@ -15,6 +15,9 @@ glottolog_family_name: Arawakan
 glottolog_classification: "Arawakan > Central-Eastern Maipuran > Central Maipuran > Xinguan Arawak > Waura-Mehinaku-Kustenau > Waura-Mehinaku > Waurá"
 wikipedia_url: "https://en.wikipedia.org/wiki/Waur%C3%A1_language"
 translations:
+  - translation_iso: ara
+    name: وارا
+    auto: true
   - translation_iso: jpn
     name: ワウラ語
   - translation_iso: zho

@@ -9,6 +9,9 @@ country_name: Myanmar
 status_id: 6a
 wikipedia_url: "https://en.wikipedia.org/wiki/Laitu_language"
 translations:
+  - translation_iso: ara
+    name: لايتو تشين
+    auto: true
   - translation_iso: jpn
     name: ライツ・チン語
     auto: true

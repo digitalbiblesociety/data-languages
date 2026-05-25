@@ -15,6 +15,9 @@ glottolog_family_name: Arafundi
 glottolog_classification: "Arafundi > Tapei"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tapei_language"
 translations:
+  - translation_iso: ara
+    name: لغة تابي
+    auto: true
   - translation_iso: jpn
     name: タペイ語
     auto: true

@@ -15,6 +15,9 @@ glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Germanic > Northwest Germanic > West Germanic > High German > Middle German > West Middle German > Rhenish Franconian > Hunsrik"
 wikipedia_url: "https://en.wikipedia.org/wiki/Hunsrik"
 translations:
+  - translation_iso: ara
+    name: هونسرك
+    auto: true
   - translation_iso: jpn
     name: フンスリュック方言
   - translation_iso: kor

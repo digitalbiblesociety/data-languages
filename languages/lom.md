@@ -15,6 +15,9 @@ glottolog_family_name: Mande
 glottolog_classification: "Mande > Western Mande > Manding-Kpelle > Southwest Mande > Mende-Loma > Loma > Loma (Liberia)"
 wikipedia_url: "https://en.wikipedia.org/wiki/Loma_language"
 translations:
+  - translation_iso: ara
+    name: لغة وما
+    auto: true
   - translation_iso: jpn
     name: トマ語
   - translation_iso: zho

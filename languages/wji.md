@@ -15,6 +15,9 @@ glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > West Chadic > West Chadic B > West Chadic B.2 > Nuclear West Chadic B.2 > Central West Chadic B.2 > Warji-Gala-Kariya > Warji-Gala"
 wikipedia_url: "https://en.wikipedia.org/wiki/Warji_language"
 translations:
+  - translation_iso: ara
+    name: وارجي
+    auto: true
   - translation_iso: jpn
     name: ワルジ語
     auto: true

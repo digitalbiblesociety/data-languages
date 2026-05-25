@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > North Borneo Malayo-Polynesian > Sabahan > Northeast Sabahan > Bonggi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Bonggi_language"
 translations:
+  - translation_iso: ara
+    name: اللغة بونجي
+    auto: true
   - translation_iso: jpn
     name: ボンギ語
     auto: true

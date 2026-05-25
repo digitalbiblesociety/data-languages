@@ -15,6 +15,9 @@ glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Kuki-Chin-Naga > Tangkhul-Maring > Maringic > Maring Naga"
 wikipedia_url: "https://en.wikipedia.org/wiki/Maringic_languages"
 translations:
+  - translation_iso: ara
+    name: مارينغ ناغا
+    auto: true
   - translation_iso: jpn
     name: マリング・ナガ語
     auto: true

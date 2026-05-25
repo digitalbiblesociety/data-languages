@@ -8,6 +8,9 @@ latitude: 44.33
 longitude: -77.5
 wikipedia_url: "https://en.wikipedia.org/wiki/Wendat_language"
 translations:
+  - translation_iso: ara
+    name: ويندات
+    auto: true
   - translation_iso: jpn
     name: ウェンダット語
     auto: true

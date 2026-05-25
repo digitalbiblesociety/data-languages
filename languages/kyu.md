@@ -15,6 +15,9 @@ glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Karenic > Central Karen > Kayah-Yintale > Kayah > Western Kayah"
 translations:
+  - translation_iso: ara
+    name: كايا الغربية
+    auto: true
   - translation_iso: jpn
     name: 西カヤ語
     auto: true

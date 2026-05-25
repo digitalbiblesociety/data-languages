@@ -15,6 +15,9 @@ glottolog_family_name: "South Bird's Head"
 glottolog_classification: "South Bird's Head > Inanwatanic > Suabo"
 wikipedia_url: "https://en.wikipedia.org/wiki/Suabo_language"
 translations:
+  - translation_iso: ara
+    name: سوابو
+    auto: true
   - translation_iso: jpn
     name: イナンワタン語
   - translation_iso: zho

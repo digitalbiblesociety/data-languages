@@ -14,6 +14,9 @@ glottolog_family_name: Maban
 glottolog_classification: "Maban > Mabang > Maba-Masalit > Macro-Maba > Marfa"
 wikipedia_url: "https://en.wikipedia.org/wiki/Marfa_language"
 translations:
+  - translation_iso: ara
+    name: لغة مارفا
+    auto: true
   - translation_iso: jpn
     name: マルファ語
     auto: true

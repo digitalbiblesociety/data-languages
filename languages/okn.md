@@ -15,6 +15,9 @@ glottolog_family_name: Japonic
 glottolog_classification: "Japonic > Ryukyuan > Northern Ryukyuan > Amami > Nuclear Amami > Okinoerabu-Tokunoshima > Oki-No-Erabu"
 wikipedia_url: "https://en.wikipedia.org/wiki/Okinoerabu_dialect_cluster"
 translations:
+  - translation_iso: ara
+    name: اللغة أوكي نو إيرابو
+    auto: true
   - translation_iso: jpn
     name: 沖永良部島方言
   - translation_iso: kor

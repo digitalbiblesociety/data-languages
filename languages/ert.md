@@ -15,6 +15,9 @@ glottolog_family_name: Lakes Plain
 glottolog_classification: "Lakes Plain > Tariku > East Tariku > Eritai-Obokuitai-Biritai > Eritai"
 wikipedia_url: "https://en.wikipedia.org/wiki/Eritai_language"
 translations:
+  - translation_iso: ara
+    name: الإريتاي
+    auto: true
   - translation_iso: jpn
     name: エリタイ語
     auto: true

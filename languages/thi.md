@@ -9,6 +9,9 @@ status_id: 6a
 latitude: 20.04497
 longitude: 102.4067
 translations:
+  - translation_iso: ara
+    name: تاي لونغ
+    auto: true
   - translation_iso: jpn
     name: タイ・ロン語
     auto: true

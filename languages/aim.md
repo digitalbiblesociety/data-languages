@@ -15,6 +15,9 @@ glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Kuki-Chin-Naga > Kuki-Chin > Northwestern Kuki-Chin > Central Old Kuki > Aimol"
 wikipedia_url: "https://en.wikipedia.org/wiki/Aimol_language"
 translations:
+  - translation_iso: ara
+    name: لغة أيمول
+    auto: true
   - translation_iso: hin
     name: आइमोल भाषा
   - translation_iso: jpn

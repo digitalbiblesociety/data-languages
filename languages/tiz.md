@@ -15,6 +15,9 @@ glottolog_family_name: Tai-Kadai
 glottolog_classification: "Tai-Kadai > Kam-Tai > Daic-Beic > Daic > Central-Southwestern Tai > Wenma-Southwestern Tai > Sapa-Southwestern Tai > Southwestern Tai > Southwestern Tai P > Shanic > Southern Shanic > Wuding-Yuanyang Tai > Tai Hongjin"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tai_Hongjin_language"
 translations:
+  - translation_iso: ara
+    name: تاي هونغجين
+    auto: true
   - translation_iso: jpn
     name: 紅金タイ語
   - translation_iso: zho

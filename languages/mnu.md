@@ -15,6 +15,9 @@ glottolog_family_name: Mairasic
 glottolog_classification: "Mairasic > Mer"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mer_language"
 translations:
+  - translation_iso: ara
+    name: لغة مير
+    auto: true
   - translation_iso: jpn
     name: メル語 (パプア諸語)
   - translation_iso: zho

@@ -16,6 +16,9 @@ glottolog_family_name: Eskimo-Aleut
 glottolog_classification: "Eskimo-Aleut > Eskimo > Yupik > Central Alaskan Yupik"
 wikipedia_url: "https://en.wikipedia.org/wiki/Central_Alaskan_Yup%CA%BCik"
 translations:
+  - translation_iso: ara
+    name: اليوبيك الوسطى
+    auto: true
   - translation_iso: jpn
     name: 中央アラスカ・ユピック語
   - translation_iso: kor

@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Northern Luzon > Cagayan Valley > Ibanagic > Ibanag"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ibanag_language"
 translations:
+  - translation_iso: ara
+    name: إيبانغ
+    auto: true
   - translation_iso: jpn
     name: イバナグ語
   - translation_iso: kor

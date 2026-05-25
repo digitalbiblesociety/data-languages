@@ -12,6 +12,9 @@ longitude: -76.8931
 glottocode: cams1241
 wikipedia_url: "https://en.wikipedia.org/wiki/Kam%C3%ABnt%C5%A1%C3%A1_language"
 translations:
+  - translation_iso: ara
+    name: لغة كامسا
+    auto: true
   - translation_iso: jpn
     name: カムサ語
     auto: true

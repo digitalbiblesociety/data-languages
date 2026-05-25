@@ -15,6 +15,9 @@ glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Madang > Rai Coast > Mindjim > Lower Minjim > Inland Minjim > Male (Papua New Guinea)"
 wikipedia_url: "https://en.wikipedia.org/wiki/Soq_language"
 translations:
+  - translation_iso: ara
+    name: لغة ميل
+    auto: true
   - translation_iso: jpn
     name: マレ語
     auto: true

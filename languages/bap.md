@@ -16,6 +16,9 @@ glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Himalayish > Mahakiranti > Kiranti > Eastern Kiranti > Southern Kiranti > Bantawic > Bantawa"
 wikipedia_url: "https://en.wikipedia.org/wiki/Bantawa_language"
 translations:
+  - translation_iso: ara
+    name: اللغة بانتاوا
+    auto: true
   - translation_iso: hin
     name: बंतावा भाषा
   - translation_iso: jpn

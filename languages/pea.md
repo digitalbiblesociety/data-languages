@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Malayo-Chamic > Malayic > Nuclear Malayic > Betawic > Peranakan Indonesian"
 wikipedia_url: "https://en.wikipedia.org/wiki/Peranakan_language"
 translations:
+  - translation_iso: ara
+    name: اللغة إندونيسية بيرانكان
+    auto: true
   - translation_iso: jpn
     name: ペラナカン・インドネシア語
     auto: true

@@ -15,6 +15,9 @@ glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Bodic > West Himalayish > Eastern West Himalayish > Central-Eastern West Himalayish > Bunan"
 wikipedia_url: "https://en.wikipedia.org/wiki/Bunan_language"
 translations:
+  - translation_iso: ara
+    name: جاهري
+    auto: true
   - translation_iso: hin
     name: बुनान भाषा
   - translation_iso: jpn

@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > North New Guinea linkage > Ngero-Vitiaz linkage > Ngero > Western Ngero > Tuam > Mutu"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mutu_language"
 translations:
+  - translation_iso: ara
+    name: موتو
+    auto: true
   - translation_iso: jpn
     name: ムトゥ語
   - translation_iso: zho

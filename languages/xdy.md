@@ -14,6 +14,9 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Malayo-Chamic > Malayic > Malayic Dayak"
 translations:
+  - translation_iso: ara
+    name: مالاييك داياك
+    auto: true
   - translation_iso: jpn
     name: マレー系デイアク語
     auto: true

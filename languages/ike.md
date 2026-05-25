@@ -14,6 +14,9 @@ glottolog_family_id: eski1264
 glottolog_family_name: Eskimo-Aleut
 glottolog_classification: "Eskimo-Aleut > Eskimo > Inuit > Eastern Canadian Inuktitut"
 translations:
+  - translation_iso: ara
+    name: إينوكتيتوت كندي شرقي
+    auto: true
   - translation_iso: jpn
     name: 東部カナダ・イヌクティトゥット語
   - translation_iso: zho

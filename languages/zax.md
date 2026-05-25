@@ -15,6 +15,9 @@ glottolog_family_name: Otomanguean
 glottolog_classification: "Otomanguean > Eastern Otomanguean > Popoloca-Zapotecan > Zapotecan > Zapotec > Core Zapotec > Narrow Core Zapotec > Central Core Zapotec > Cisyautepequeño > Xadani Zapotec"
 wikipedia_url: "https://en.wikipedia.org/wiki/Xadani_Zapotec"
 translations:
+  - translation_iso: ara
+    name: لغة زابوتيك زادني
+    auto: true
   - translation_iso: jpn
     name: サダニ・サポテク語
     auto: true

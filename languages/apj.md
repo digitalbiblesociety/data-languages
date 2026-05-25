@@ -15,6 +15,9 @@ glottolog_family_name: Athabaskan-Eyak-Tlingit
 glottolog_classification: "Athabaskan-Eyak-Tlingit > Athabaskan-Eyak > Athabaskan > Apachean > Southwestern Apachean > Eastern Southwestern Apachean > Jicarilla Apache"
 wikipedia_url: "https://en.wikipedia.org/wiki/Jicarilla_language"
 translations:
+  - translation_iso: ara
+    name: اللغة جيكاريلا أباتشي
+    auto: true
   - translation_iso: jpn
     name: ジカリラ・アパッチ語
     auto: true

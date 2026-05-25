@@ -15,6 +15,9 @@ glottolog_family_name: Mayan
 glottolog_classification: "Mayan > Core Mayan > Western Mayan > Cholan-Tzeltalan > Cholan > Chol-Chontal > Tabasco Chontal"
 wikipedia_url: "https://en.wikipedia.org/wiki/Chontal_Maya_language"
 translations:
+  - translation_iso: ara
+    name: تاباسكو تشونتال
+    auto: true
   - translation_iso: jpn
     name: チョンタル語
   - translation_iso: kor

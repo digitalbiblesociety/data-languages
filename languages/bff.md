@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Gbaya-Manza-Ngbaka > Gbaya Oriental > Mbodomo-Bofi > Bofi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Bofi_language"
 translations:
+  - translation_iso: ara
+    name: بوفي
+    auto: true
   - translation_iso: jpn
     name: ボフィ語
     auto: true

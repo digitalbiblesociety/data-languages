@@ -8,6 +8,9 @@ country_name: China
 status_id: 6a
 wikipedia_url: "https://en.wikipedia.org/wiki/Lang%27e_language"
 translations:
+  - translation_iso: ara
+    name: اللغة لانغي
+    auto: true
   - translation_iso: jpn
     name: ラング語
     auto: true

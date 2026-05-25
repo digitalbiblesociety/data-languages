@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Northern Luzon > Meso-Cordilleran > South-Central Cordilleran > Southern Cordilleran > West Southern Cordilleran > Nuclear Southern Cordilleran > I-Wak"
 wikipedia_url: "https://en.wikipedia.org/wiki/Iwaak_language"
 translations:
+  - translation_iso: ara
+    name: لغة آي واك
+    auto: true
   - translation_iso: jpn
     name: イ・ワク語
     auto: true

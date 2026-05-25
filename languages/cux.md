@@ -15,6 +15,9 @@ glottolog_family_name: Otomanguean
 glottolog_classification: "Otomanguean > Eastern Otomanguean > Amuzgo-Mixtecan > Mixtecan > Mixtec-Cuicatec > Cuicatec > Tepeuxila Cuicatec"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tepeuxila_Cuicatec_language"
 translations:
+  - translation_iso: ara
+    name: تيبيوكسيلا كويكاتك
+    auto: true
   - translation_iso: jpn
     name: テペウシラ・クイカテク語
     auto: true

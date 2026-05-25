@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > North and Central Vanuatu > Northern Vanuatu > Torres-Banks linkage > Mota"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mota_language"
 translations:
+  - translation_iso: ara
+    name: لغة موتا
+    auto: true
   - translation_iso: jpn
     name: モタ語
   - translation_iso: zho

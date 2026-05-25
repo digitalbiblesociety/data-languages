@@ -15,6 +15,9 @@ glottolog_family_name: Nuclear Torricelli
 glottolog_classification: "Nuclear Torricelli > Kombio-Arapesh-Urat > Urat"
 wikipedia_url: "https://en.wikipedia.org/wiki/Urat_language"
 translations:
+  - translation_iso: ara
+    name: أورات
+    auto: true
   - translation_iso: jpn
     name: ウラット語
     auto: true

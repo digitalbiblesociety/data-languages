@@ -8,6 +8,9 @@ country_name: Russia
 status_id: null
 wikipedia_url: "https://en.wikipedia.org/wiki/Alanic_language"
 translations:
+  - translation_iso: ara
+    name: ألانية
+    auto: true
   - translation_iso: jpn
     name: アラン語
   - translation_iso: kor

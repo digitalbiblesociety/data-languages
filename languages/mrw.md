@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Greater Central Philippine > Danaw > Maranao"
 wikipedia_url: "https://en.wikipedia.org/wiki/Maranao_language"
 translations:
+  - translation_iso: ara
+    name: لغة ماراناو
+    auto: true
   - translation_iso: jpn
     name: マラナオ語
   - translation_iso: kor

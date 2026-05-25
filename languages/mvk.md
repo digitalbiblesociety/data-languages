@@ -14,6 +14,9 @@ glottolog_family_name: Yuat
 glottolog_classification: "Yuat > Mekmek"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mekmek_language"
 translations:
+  - translation_iso: ara
+    name: لغة ميكميك
+    auto: true
   - translation_iso: jpn
     name: メクメク語
     auto: true

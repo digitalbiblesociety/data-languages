@@ -14,6 +14,9 @@ glottolog_family_id: mand1469
 glottolog_family_name: Mande
 glottolog_classification: "Mande > Western Mande > Northwestern Mande > Duun-Bobo > Duun-Jo > Duun-Seenku > Duun > Duungooma"
 translations:
+  - translation_iso: ara
+    name: دونجوما
+    auto: true
   - translation_iso: jpn
     name: ドゥングーマ語
     auto: true

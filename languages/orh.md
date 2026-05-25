@@ -15,6 +15,9 @@ glottolog_family_name: Tungusic
 glottolog_classification: "Tungusic > Northeastern Tungusic > Northern Tungusic > Oroqen"
 wikipedia_url: "https://en.wikipedia.org/wiki/Oroqen_language"
 translations:
+  - translation_iso: ara
+    name: اللغة أوروكين
+    auto: true
   - translation_iso: jpn
     name: オロチョン語
   - translation_iso: kor

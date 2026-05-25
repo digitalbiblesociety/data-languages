@@ -15,6 +15,9 @@ glottolog_family_name: Tai-Kadai
 glottolog_classification: "Tai-Kadai > Kam-Tai > Daic-Beic > Daic > Central-Southwestern Tai > Wenma-Southwestern Tai > Sapa-Southwestern Tai > Southwestern Tai > Southwestern Thai PH > Siamese > Phuan"
 wikipedia_url: "https://en.wikipedia.org/wiki/Phuan_language"
 translations:
+  - translation_iso: ara
+    name: اللغة فوان
+    auto: true
   - translation_iso: jpn
     name: プアン語
   - translation_iso: zho

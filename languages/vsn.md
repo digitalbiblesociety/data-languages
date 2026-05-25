@@ -7,6 +7,9 @@ latitude: 20
 longitude: 77
 wikipedia_url: "https://en.wikipedia.org/wiki/Vedic_Sanskrit"
 translations:
+  - translation_iso: ara
+    name: السنسكريتية الفيدية
+    auto: true
   - translation_iso: hin
     name: वैदिक संस्कृत
   - translation_iso: jpn

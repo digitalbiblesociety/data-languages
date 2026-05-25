@@ -15,6 +15,9 @@ glottolog_family_name: Tupian
 glottolog_classification: "Tupian > Eastern Tupian > Jurunic > Unclassified Jurunic > Manitsauá"
 wikipedia_url: "https://en.wikipedia.org/wiki/Manitsau%C3%A1_language"
 translations:
+  - translation_iso: ara
+    name: لغة ماريتسايا
+    auto: true
   - translation_iso: jpn
     name: マリツァウア語
     auto: true

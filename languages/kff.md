@@ -15,6 +15,9 @@ glottolog_family_name: Dravidian
 glottolog_classification: "Dravidian > South Dravidian > South Dravidian II > Gondi > Southeast Gondi > South Bastar Gondi-Koya > Koya"
 wikipedia_url: "https://en.wikipedia.org/wiki/Koya_language"
 translations:
+  - translation_iso: ara
+    name: لغة كويا
+    auto: true
   - translation_iso: jpn
     name: コーヤ語
   - translation_iso: zho

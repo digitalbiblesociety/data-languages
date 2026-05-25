@@ -14,6 +14,9 @@ glottolog_family_id: pama1250
 glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > Yuulngu > Southern Yolngu > Southern-Eastern Yolngu > Dhuwal-Dhuwala > Eastern Dhuwal-Dhuwala > Gupapuyngu"
 translations:
+  - translation_iso: ara
+    name: غوبآبوينجو
+    auto: true
   - translation_iso: jpn
     name: グパプユングゥ語
     auto: true

@@ -15,6 +15,9 @@ glottolog_family_name: Cochimi-Yuman
 glottolog_classification: "Cochimi-Yuman > Yuman > General Yuman > River Yuman > Quechan"
 wikipedia_url: "https://en.wikipedia.org/wiki/Quechan_language"
 translations:
+  - translation_iso: ara
+    name: لغة كيتشوان
+    auto: true
   - translation_iso: jpn
     name: ケチャン語
   - translation_iso: zho

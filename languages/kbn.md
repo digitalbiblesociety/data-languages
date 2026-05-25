@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Cameroun-Ubangian > Mbumic > Central Mbum > Karangic > Kare-Pana > Kare (Central African Republic)"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kare_language_(Adamawa)"
 translations:
+  - translation_iso: ara
+    name: لغة كاري
+    auto: true
   - translation_iso: jpn
     name: カレ語
     auto: true

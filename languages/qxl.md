@@ -14,6 +14,9 @@ glottolog_family_id: quec1387
 glottolog_family_name: Quechuan
 glottolog_classification: "Quechuan > Colombia-Ecuador Quechua > Ecuadorian Quechua A > Tungurahua Highland Quichua"
 translations:
+  - translation_iso: ara
+    name: اللغة كيتشوا سالاساكا الجبلية
+    auto: true
   - translation_iso: jpn
     name: サラサカハイランドキチュア語
     auto: true

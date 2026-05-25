@@ -16,6 +16,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Gur > Central Gur > Northern Central Gur > Bwamu-Oti-Volta > Oti-Volta > Nuclear Oti-Volta > Gurma-Yom-Oti-Volta Occidental > Oti-Volta Occidental > Nuclear Oti-Volta Occidental > Northwest Oti-Volta > Mossi-Farefare > Farefareic > Farefare"
 wikipedia_url: "https://en.wikipedia.org/wiki/Farefare_language"
 translations:
+  - translation_iso: ara
+    name: فآرإفآرإ
+    auto: true
   - translation_iso: jpn
     name: フラフラ語
   - translation_iso: zho

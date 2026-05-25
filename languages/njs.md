@@ -15,6 +15,9 @@ glottolog_family_name: Geelvink Bay
 glottolog_classification: "Geelvink Bay > Nisa-Anasi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Nisa_language"
 translations:
+  - translation_iso: ara
+    name: نيسا
+    auto: true
   - translation_iso: jpn
     name: ニサ語
     auto: true

@@ -15,6 +15,9 @@ glottolog_family_name: Ramu
 glottolog_classification: "Ramu > Goam > Ataitan > Tangu-Igom > Tanggu"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tanggu_language"
 translations:
+  - translation_iso: ara
+    name: تانغو
+    auto: true
   - translation_iso: jpn
     name: タング語
   - translation_iso: zho

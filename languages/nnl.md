@@ -15,6 +15,9 @@ glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Kuki-Chin-Naga > Angami-Ao > Angami-Pochuri > Pochuri-Northern Rengma > Northern Rengma Naga"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ntenyi_language"
 translations:
+  - translation_iso: ara
+    name: رينغما ناغا الشمالية
+    auto: true
   - translation_iso: jpn
     name: 北レングマ・ナガ語
   - translation_iso: zho

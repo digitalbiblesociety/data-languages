@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > North Borneo Malayo-Polynesian > Sabahan > Southwest Sabahan > Greater Murutic > Murutic > Eastern Murutic > Okolod"
 wikipedia_url: "https://en.wikipedia.org/wiki/Okolod_language"
 translations:
+  - translation_iso: ara
+    name: لغة أوكولود
+    auto: true
   - translation_iso: jpn
     name: オコロド語
     auto: true

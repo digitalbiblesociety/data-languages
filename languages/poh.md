@@ -15,6 +15,9 @@ glottolog_family_name: Mayan
 glottolog_classification: "Mayan > Core Mayan > Quichean-Mamean > Greater Quichean > Poqom > Poqomchi'"
 wikipedia_url: "https://en.wikipedia.org/wiki/Poqomchi%CA%BC_language"
 translations:
+  - translation_iso: ara
+    name: اللغة بوقومتشي
+    auto: true
   - translation_iso: jpn
     name: ポコムチ語
   - translation_iso: kor

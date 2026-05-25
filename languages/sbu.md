@@ -15,6 +15,9 @@ glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Bodic > Bodish > Early Old Tibetan > Middle Old Tibetan > Late Old Tibetan > Lahauli-Spiti > Stod Bhoti"
 wikipedia_url: "https://en.wikipedia.org/wiki/Stod_Bhoti"
 translations:
+  - translation_iso: ara
+    name: ستود بوتي
+    auto: true
   - translation_iso: hin
     name: लाहौली भाषा
   - translation_iso: jpn

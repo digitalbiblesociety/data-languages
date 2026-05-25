@@ -10,6 +10,9 @@ latitude: 45.56274
 longitude: 4.38771
 wikipedia_url: "https://en.wikipedia.org/wiki/Zarphatic_language"
 translations:
+  - translation_iso: ara
+    name: زارفاتيك
+    auto: true
   - translation_iso: jpn
     name: ツァルファティート
   - translation_iso: zho

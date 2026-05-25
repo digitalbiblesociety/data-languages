@@ -15,6 +15,9 @@ glottolog_family_name: Siouan
 glottolog_classification: "Siouan > Mississippi Valley > Winnebago-Chiwere > Iowa-Oto"
 wikipedia_url: "https://en.wikipedia.org/wiki/Chiwere_language"
 translations:
+  - translation_iso: ara
+    name: أيوا-أوتو
+    auto: true
   - translation_iso: jpn
     name: アイオワ語
   - translation_iso: zho

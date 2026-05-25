@@ -15,6 +15,9 @@ glottolog_family_name: Gunwinyguan
 glottolog_classification: "Gunwinyguan > Kunbarlang"
 wikipedia_url: "https://en.wikipedia.org/wiki/Gunbarlang_language"
 translations:
+  - translation_iso: ara
+    name: كونبارلانغ
+    auto: true
   - translation_iso: jpn
     name: クンバルラン語
     auto: true

@@ -15,6 +15,9 @@ glottolog_family_name: Songhay
 glottolog_classification: "Songhay > Eastern Songhay > Humburi Senni Songhay"
 wikipedia_url: "https://en.wikipedia.org/wiki/Humburi_Senni_language"
 translations:
+  - translation_iso: ara
+    name: حومبوري سيني سونغاي
+    auto: true
   - translation_iso: jpn
     name: フンブリ・センニ・ソンガイ語
     auto: true

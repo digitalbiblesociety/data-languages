@@ -15,6 +15,9 @@ glottolog_family_name: Nilotic
 glottolog_classification: "Nilotic > Southern Nilotic > Kalenjin > Elgon-Mau Kalenjin > Sabaot"
 wikipedia_url: "https://en.wikipedia.org/wiki/Sabaot_language"
 translations:
+  - translation_iso: ara
+    name: اللغة ساباوت
+    auto: true
   - translation_iso: jpn
     name: サバオット語
   - translation_iso: zho

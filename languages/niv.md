@@ -15,6 +15,9 @@ glottolog_family_name: Nivkh
 glottolog_classification: "Nivkh > Amur Nivkh"
 wikipedia_url: "https://en.wikipedia.org/wiki/Nivkh_languages"
 translations:
+  - translation_iso: ara
+    name: جيليك
+    auto: true
   - translation_iso: jpn
     name: ニヴフ語
   - translation_iso: kor

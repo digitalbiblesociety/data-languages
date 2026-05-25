@@ -15,6 +15,9 @@ glottolog_family_name: Nilotic
 glottolog_classification: "Nilotic > Southern Nilotic > Kalenjin > Central Kalenjin > Plateau Central Kalenjin > Western Plateau Central Kalenjin > Terik"
 wikipedia_url: "https://en.wikipedia.org/wiki/Terik_language"
 translations:
+  - translation_iso: ara
+    name: تيريك
+    auto: true
   - translation_iso: jpn
     name: テリク語
   - translation_iso: zho

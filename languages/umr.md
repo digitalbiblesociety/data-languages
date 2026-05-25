@@ -12,6 +12,9 @@ longitude: 131.82455
 glottocode: umbu1235
 wikipedia_url: "https://en.wikipedia.org/wiki/Umbugarla_language"
 translations:
+  - translation_iso: ara
+    name: أومبوجارلا
+    auto: true
   - translation_iso: hin
     name: उमबुगरला भाषा
   - translation_iso: jpn

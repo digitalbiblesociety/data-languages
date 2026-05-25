@@ -15,6 +15,9 @@ glottolog_family_name: Nuclear Torricelli
 glottolog_classification: "Nuclear Torricelli > Kombio-Arapesh-Urat > Kombio-Yambes > Unclassified Kombio-Yambes > Aruek"
 wikipedia_url: "https://en.wikipedia.org/wiki/Aruek_language"
 translations:
+  - translation_iso: ara
+    name: اللغة أروك
+    auto: true
   - translation_iso: jpn
     name: アルエク語
     auto: true

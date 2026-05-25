@@ -15,6 +15,9 @@ glottolog_family_name: Sign Language
 glottolog_classification: "Sign Language > L1 Sign Language > DGSic > Israeli Sign Language"
 wikipedia_url: "https://en.wikipedia.org/wiki/Israeli_Sign_Language"
 translations:
+  - translation_iso: ara
+    name: لغة الإشارة الإسرائيلية
+    auto: true
   - translation_iso: hin
     name: इज़राइली सांकेतिक भाषा
   - translation_iso: jpn

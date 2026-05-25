@@ -15,6 +15,9 @@ glottolog_family_name: Chapacuran
 glottolog_classification: "Chapacuran > Moreic-Waric > Waric > Wanham-Wari-Oro Win > Wari-Oro Win > Wari'"
 wikipedia_url: "https://en.wikipedia.org/wiki/Wari%CA%BC_language"
 translations:
+  - translation_iso: ara
+    name: اللغة باكاسنوفوس
+    auto: true
   - translation_iso: jpn
     name: ワリ語
   - translation_iso: zho

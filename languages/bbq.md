@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Wide Grassfields > Narrow Grassfields > Mbam-Nkam > Southern Mbam-Nkam > Mbam-Nkam Nun > Nun MCNB > Bamali"
 wikipedia_url: "https://en.wikipedia.org/wiki/Bamali_language"
 translations:
+  - translation_iso: ara
+    name: اللغة بامالي
+    auto: true
   - translation_iso: jpn
     name: バマリ語
     auto: true

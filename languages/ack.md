@@ -15,6 +15,9 @@ glottolog_family_name: Great Andamanese
 glottolog_classification: "Great Andamanese > North Andamanese-Akakede > Northern Great Andamanese > Jeru-Kora > Akakora"
 wikipedia_url: "https://en.wikipedia.org/wiki/Akakhora"
 translations:
+  - translation_iso: ara
+    name: لغة آكا-كورا
+    auto: true
   - translation_iso: jpn
     name: アカコラ語
   - translation_iso: kor

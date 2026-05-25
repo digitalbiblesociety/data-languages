@@ -14,6 +14,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Cameroun-Ubangian > Central Adamawa > Mumuye-Yandang > Yandangic > Waka-Yendang-Teme > Teme"
 wikipedia_url: "https://en.wikipedia.org/wiki/Teme_language"
 translations:
+  - translation_iso: ara
+    name: تيمي
+    auto: true
   - translation_iso: jpn
     name: テメ語
     auto: true

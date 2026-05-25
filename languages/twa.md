@@ -15,6 +15,9 @@ glottolog_family_name: Salishan
 glottolog_classification: "Salishan > Coast Salish > Central Salish > Twana"
 wikipedia_url: "https://en.wikipedia.org/wiki/Twana_language"
 translations:
+  - translation_iso: ara
+    name: توانا
+    auto: true
   - translation_iso: jpn
     name: トゥワナ語
   - translation_iso: zho

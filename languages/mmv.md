@@ -15,6 +15,9 @@ glottolog_family_name: Tucanoan
 glottolog_classification: "Tucanoan > Eastern Tucanoan > Eastern Eastern Tucanoan > Eastern Eastern Tucanoan II > Kotiria-Piratapuyo > Piratapuyic > Arapaso-Miriti > Miriti"
 wikipedia_url: "https://en.wikipedia.org/wiki/Miriti_language"
 translations:
+  - translation_iso: ara
+    name: لغة ميريتي
+    auto: true
   - translation_iso: jpn
     name: ミリティ語
     auto: true

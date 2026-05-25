@@ -15,6 +15,9 @@ glottolog_family_name: Ijoid
 glottolog_classification: "Ijoid > Ijo > Western Ijo > Inland Ijo > Biseni-Okordia > Okodia"
 wikipedia_url: "https://en.wikipedia.org/wiki/Okodia_language"
 translations:
+  - translation_iso: ara
+    name: اللغة أوكوديا
+    auto: true
   - translation_iso: jpn
     name: オコディア語
     auto: true

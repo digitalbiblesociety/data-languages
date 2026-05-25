@@ -15,6 +15,9 @@ glottolog_family_name: Tai-Kadai
 glottolog_classification: "Tai-Kadai > Kam-Tai > Daic-Beic > Daic > Central-Southwestern Tai > Wenma-Southwestern Tai > Sapa-Southwestern Tai > Southwestern Tai > Southwestern Tai P > Tay Khang"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tay_Khang_language"
 translations:
+  - translation_iso: ara
+    name: تاي خانج
+    auto: true
   - translation_iso: jpn
     name: タイ・カン語
   - translation_iso: zho

@@ -14,6 +14,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Cameroun-Ubangian > Central Adamawa > Samba-Duru > Northern Samba-Duru > Vere-Gimme > Vere > Koma Ndera"
 wikipedia_url: "https://en.wikipedia.org/wiki/Koma_language"
 translations:
+  - translation_iso: ara
+    name: لغة كوما
+    auto: true
   - translation_iso: jpn
     name: コマ語
     auto: true

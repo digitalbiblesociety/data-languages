@@ -15,6 +15,9 @@ glottolog_family_name: Tupian
 glottolog_classification: "Tupian > Purubora-Ramarama > Ramarama > Urumi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Urumi_language"
 translations:
+  - translation_iso: ara
+    name: أورومي
+    auto: true
   - translation_iso: jpn
     name: ウルミ語
     auto: true

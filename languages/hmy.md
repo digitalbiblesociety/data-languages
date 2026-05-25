@@ -14,6 +14,9 @@ glottolog_family_id: hmon1336
 glottolog_family_name: Hmong-Mien
 glottolog_classification: "Hmong-Mien > Hmongic > Nuclear Hmongic-Ho Ne > Nuclear Hmongic > West Hmongic > Greater Chuanqiandian > Guiyang > Southern Guiyang Hmong"
 translations:
+  - translation_iso: ara
+    name: لغة مهمونغ غويانغ الجنوبية
+    auto: true
   - translation_iso: jpn
     name: 南部貴陽フモン語
   - translation_iso: zho

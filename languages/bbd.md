@@ -14,6 +14,9 @@ glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Madang > Croisilles > Mabuso > Gum > Panim-Isebe-Bau > Bau"
 wikipedia_url: "https://en.wikipedia.org/wiki/Bau_language_(New_Guinea)"
 translations:
+  - translation_iso: ara
+    name: اللغة باو
+    auto: true
   - translation_iso: jpn
     name: バウ語
     auto: true

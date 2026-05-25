@@ -15,6 +15,9 @@ glottolog_family_name: Sepik
 glottolog_classification: "Sepik > Sepik Tama > Mehek-Pahi > Mehek"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mehek_language"
 translations:
+  - translation_iso: ara
+    name: ميهيك
+    auto: true
   - translation_iso: jpn
     name: メヘク語
     auto: true

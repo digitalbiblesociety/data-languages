@@ -14,6 +14,9 @@ glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Finisterre-Huon > Finisterre-Saruwaged > Warup > Nuclear Warup > Molet-Asaroo > Asaro'o"
 wikipedia_url: "https://en.wikipedia.org/wiki/Asaro%27o_language"
 translations:
+  - translation_iso: ara
+    name: لغة أسارو
+    auto: true
   - translation_iso: jpn
     name: アサロオ語
     auto: true

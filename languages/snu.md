@@ -15,6 +15,9 @@ glottolog_family_name: Border
 glottolog_classification: "Border > Warisic > Nuclear Warisic > Senggi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Viid_language"
 translations:
+  - translation_iso: ara
+    name: اللغة سينجي
+    auto: true
   - translation_iso: jpn
     name: ヴィイド語
     auto: true

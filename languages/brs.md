@@ -14,6 +14,9 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Celebic > Kaili-Wolio > Northern Kaili-Wolio > Greater Kaili > Common Kaili > Baras"
 translations:
+  - translation_iso: ara
+    name: باراس
+    auto: true
   - translation_iso: jpn
     name: バラス語
     auto: true

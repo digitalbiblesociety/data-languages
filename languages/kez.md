@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Delta Cross > Upper Cross > Central Upper Cross > North-South Central Delta Cross > Koring-Kukele > Kukele-Uzekwe > Kukele"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kukelle"
 translations:
+  - translation_iso: ara
+    name: لغة كوكيل
+    auto: true
   - translation_iso: jpn
     name: クケレ語
     auto: true

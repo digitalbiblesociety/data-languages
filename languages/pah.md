@@ -14,6 +14,9 @@ glottolog_family_id: tupi1275
 glottolog_family_name: Tupian
 glottolog_classification: "Tupian > Eastern Tupian > Maweti-Guarani > Aweti-Guarani > Tupi-Guarani > Tupi-Guarani Subgroup VI > Kawahiva > Nuclear Kawahiva > Central Kawahiva > Tenharim-Parintintin-Diahoi"
 translations:
+  - translation_iso: ara
+    name: اللغة تينهاريم
+    auto: true
   - translation_iso: jpn
     name: テンハリム語
     auto: true

@@ -15,6 +15,9 @@ glottolog_family_name: Salishan
 glottolog_classification: "Salishan > Interior Salish > Southern Interior Salish > Columbia-Wenatchi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Columbia-Moses_language"
 translations:
+  - translation_iso: ara
+    name: كولومبيا-ويناتشي
+    auto: true
   - translation_iso: jpn
     name: コロンビア語
   - translation_iso: zho

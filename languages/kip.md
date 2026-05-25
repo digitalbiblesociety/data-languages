@@ -14,6 +14,9 @@ glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Himalayish > Mahakiranti > Kham-Magar-Chepang > Kham > Sheshi Kham"
 translations:
+  - translation_iso: ara
+    name: لغة شيشي خام
+    auto: true
   - translation_iso: jpn
     name: シェシ・ハム語
     auto: true

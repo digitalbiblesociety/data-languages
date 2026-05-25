@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > Papuan Tip linkage > Peripheral Papuan Tip linkage > Nimoa-Sudest > Sudest"
 wikipedia_url: "https://en.wikipedia.org/wiki/Sudest_language"
 translations:
+  - translation_iso: ara
+    name: سوديست
+    auto: true
   - translation_iso: jpn
     name: タグラ語
   - translation_iso: zho

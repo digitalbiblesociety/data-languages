@@ -15,6 +15,9 @@ glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > South-West Pama-Nyungan > Pilbara > Kanyara > Bayungu"
 wikipedia_url: "https://en.wikipedia.org/wiki/Bayungu_language"
 translations:
+  - translation_iso: ara
+    name: بايونْجو
+    auto: true
   - translation_iso: jpn
     name: バユングゥ語
     auto: true

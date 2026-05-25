@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Bua-Kim-Day > Adamawa Bua > Inland Bua > Goulaic > Zan-Kulaalic > Zan Gula"
 wikipedia_url: "https://en.wikipedia.org/wiki/Zan_Gula_language"
 translations:
+  - translation_iso: ara
+    name: زان غولا
+    auto: true
   - translation_iso: jpn
     name: ザン・グラ語
     auto: true

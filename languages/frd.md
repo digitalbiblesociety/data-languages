@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Tanimbar-Bomberai > Nuclear Tanimbar-Bomberai > Kei-Fordata > Fordata"
 wikipedia_url: "https://en.wikipedia.org/wiki/Fordata_language"
 translations:
+  - translation_iso: ara
+    name: الفوردتا
+    auto: true
   - translation_iso: jpn
     name: フォルダタ語
   - translation_iso: zho

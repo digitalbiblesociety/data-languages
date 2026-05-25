@@ -10,6 +10,9 @@ latitude: -6.46414
 longitude: 145.66048
 wikipedia_url: "https://en.wikipedia.org/wiki/Kosena_language"
 translations:
+  - translation_iso: ara
+    name: كوسينا
+    auto: true
   - translation_iso: jpn
     name: コセナ語
     auto: true

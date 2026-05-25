@@ -14,6 +14,9 @@ glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Burmo-Qiangic > Lolo-Burmese > Loloish > Ni-Li-Kazhouish > Southeastern Ngwi > Highland Phula > Phowa > Hlepho-Phukha > Hlepho Phowa"
 translations:
+  - translation_iso: ara
+    name: لغة هليفو فوا
+    auto: true
   - translation_iso: jpn
     name: フレフォ・ファウ語
     auto: true

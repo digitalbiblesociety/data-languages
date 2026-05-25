@@ -12,6 +12,9 @@ longitude: -76.93474
 glottocode: cand1248
 wikipedia_url: "https://en.wikipedia.org/wiki/Candoshi-Shapra_language"
 translations:
+  - translation_iso: ara
+    name: الكاندوشي-شابرا
+    auto: true
   - translation_iso: jpn
     name: カンドシ・シャプラ語
     auto: true

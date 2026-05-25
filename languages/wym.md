@@ -15,6 +15,9 @@ glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Germanic > Northwest Germanic > West Germanic > High German > Middle German > East Middle German > Schlesisch-Wilmesau > Wymysorys"
 wikipedia_url: "https://en.wikipedia.org/wiki/Wymysorys"
 translations:
+  - translation_iso: ara
+    name: فيلاموفيان
+    auto: true
   - translation_iso: jpn
     name: ヴィラモヴィアン語
   - translation_iso: kor

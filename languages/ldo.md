@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Cameroun-Ubangian > Bikwin-Jen > Northern Bikwin-Jen > Burak-Loo > Loo"
 wikipedia_url: "https://en.wikipedia.org/wiki/Loo_language"
 translations:
+  - translation_iso: ara
+    name: لغة وو
+    auto: true
   - translation_iso: jpn
     name: ロー語
     auto: true

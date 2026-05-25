@@ -12,6 +12,9 @@ longitude: -65.63482
 glottocode: movi1243
 wikipedia_url: "https://en.wikipedia.org/wiki/Movima_language"
 translations:
+  - translation_iso: ara
+    name: موفيما
+    auto: true
   - translation_iso: jpn
     name: モヴィマ語
   - translation_iso: zho

@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > North Borneo Malayo-Polynesian > Sabahan > Southwest Sabahan > Greater Dusunic > Paitanic > Serudung Murut"
 wikipedia_url: "https://en.wikipedia.org/wiki/Serudung_language"
 translations:
+  - translation_iso: ara
+    name: اللغة سيرودونج موروت
+    auto: true
   - translation_iso: jpn
     name: ティドング語
     auto: true

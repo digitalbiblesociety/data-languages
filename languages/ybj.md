@@ -14,6 +14,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Benue-Congo Plateau > Alumic > Hasha-Sambe > Hasha"
 wikipedia_url: "https://en.wikipedia.org/wiki/Hasha_language"
 translations:
+  - translation_iso: ara
+    name: هاشا
+    auto: true
   - translation_iso: jpn
     name: ハシャ語
     auto: true

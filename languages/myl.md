@@ -14,6 +14,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Celebic > Kaili-Wolio > Northern Kaili-Wolio > Greater Kaili > Kulawi > Moma"
 wikipedia_url: "https://en.wikipedia.org/wiki/Moma_language"
 translations:
+  - translation_iso: ara
+    name: موما
+    auto: true
   - translation_iso: jpn
     name: モマ語
     auto: true

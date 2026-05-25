@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > East Bantu > Southern Bantu > Nuclear Southern Bantu > Dimsuffix Southern Bantu > Nguni-Tsonga-Copi > Tsonga-Copi > Chopi (S.60) > Chopi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Chopi_language"
 translations:
+  - translation_iso: ara
+    name: الشوبي
+    auto: true
   - translation_iso: jpn
     name: チョピ語
   - translation_iso: zho

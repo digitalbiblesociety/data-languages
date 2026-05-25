@@ -15,6 +15,9 @@ glottolog_family_name: Kxa
 glottolog_classification: "Kxa > Amkoe"
 wikipedia_url: "https://en.wikipedia.org/wiki/%C7%82%CA%BCAmkoe_language"
 translations:
+  - translation_iso: ara
+    name: ǂHua
+    auto: true
   - translation_iso: jpn
     name: ホアン語
   - translation_iso: kor

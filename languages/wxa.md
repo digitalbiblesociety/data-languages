@@ -15,6 +15,9 @@ glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Sinitic > Waxianghua"
 wikipedia_url: "https://en.wikipedia.org/wiki/Waxiang_Chinese"
 translations:
+  - translation_iso: ara
+    name: واخيانغهوا
+    auto: true
   - translation_iso: jpn
     name: 瓦郷話
   - translation_iso: zho

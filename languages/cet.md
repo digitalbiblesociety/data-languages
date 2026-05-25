@@ -12,6 +12,9 @@ longitude: 11.58534
 glottocode: cent2045
 wikipedia_url: "https://en.wikipedia.org/wiki/Jalaa_language"
 translations:
+  - translation_iso: ara
+    name: السينتووم
+    auto: true
   - translation_iso: jpn
     name: ジャラア語
   - translation_iso: zho

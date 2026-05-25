@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Gur > Central Gur > Northern Central Gur > Bwamu-Oti-Volta > Oti-Volta > Nuclear Oti-Volta > Gurma-Yom-Oti-Volta Occidental > Oti-Volta Occidental > Nuclear Oti-Volta Occidental > Northwest Oti-Volta > Safaliba-Dagaare > Dagaaric > North-West Dagaric > Northern Dagara"
 wikipedia_url: "https://en.wikipedia.org/wiki/Northern_Dagara_language"
 translations:
+  - translation_iso: ara
+    name: نورثرن داجارا
+    auto: true
   - translation_iso: jpn
     name: ノーザン・ダガラ語
     auto: true

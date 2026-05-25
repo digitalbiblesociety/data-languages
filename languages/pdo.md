@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Celebic > Greater Eastern Celebic > Eastern Celebic > Southeastern Celebic > Bungku-Tolaki > Western Bungku-Tolaki > Interior Bungku-Tolaki > Padoe"
 wikipedia_url: "https://en.wikipedia.org/wiki/Padoe_language"
 translations:
+  - translation_iso: ara
+    name: اللغة بادوي
+    auto: true
   - translation_iso: jpn
     name: パドエ語
     auto: true

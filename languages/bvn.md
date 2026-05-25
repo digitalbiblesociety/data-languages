@@ -14,6 +14,9 @@ glottolog_family_name: Nuclear Torricelli
 glottolog_classification: "Nuclear Torricelli > Marienberg > Buna"
 wikipedia_url: "https://en.wikipedia.org/wiki/Buna_language"
 translations:
+  - translation_iso: ara
+    name: بونا
+    auto: true
   - translation_iso: jpn
     name: ブナ語
     auto: true

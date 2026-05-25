@@ -15,6 +15,9 @@ glottolog_family_name: Ta-Ne-Omotic
 glottolog_classification: "Ta-Ne-Omotic > Ometo > East Ometo > Koorete"
 wikipedia_url: "https://en.wikipedia.org/wiki/Koore_language"
 translations:
+  - translation_iso: ara
+    name: لغة كوريتي
+    auto: true
   - translation_iso: jpn
     name: コオレテ語
     auto: true

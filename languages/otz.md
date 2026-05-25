@@ -15,6 +15,9 @@ glottolog_family_name: Otomanguean
 glottolog_classification: "Otomanguean > Western Otomanguean > Otopame-Chinantecan > Otopamean > Otomian > Otomi > Southern Otomi > Ixtenco Otomi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ixtenco_Otomi"
 translations:
+  - translation_iso: ara
+    name: اللغة أوتومي إكستينكو
+    auto: true
   - translation_iso: jpn
     name: イクステンコ・オトミ語
     auto: true

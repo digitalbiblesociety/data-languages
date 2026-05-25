@@ -9,6 +9,9 @@ country_name: India
 status_id: null
 wikipedia_url: "https://en.wikipedia.org/wiki/Ardhamagadhi_Prakrit"
 translations:
+  - translation_iso: ara
+    name: اللغة أردهاماغادهي براكريت
+    auto: true
   - translation_iso: hin
     name: अर्धमागधी
   - translation_iso: jpn

@@ -15,6 +15,9 @@ glottolog_family_name: Otomanguean
 glottolog_classification: "Otomanguean > Eastern Otomanguean > Popoloca-Zapotecan > Zapotecan > Zapotec > Core Zapotec > Papabuco > Texmelucan Zapotec"
 wikipedia_url: "https://en.wikipedia.org/wiki/Texmelucan_Zapotec"
 translations:
+  - translation_iso: ara
+    name: زابوتيك تكسميلوكان
+    auto: true
   - translation_iso: jpn
     name: テクスメルカン・サポテク語
     auto: true

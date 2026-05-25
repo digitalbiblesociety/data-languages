@@ -15,6 +15,9 @@ glottolog_family_name: Nuclear-Macro-Je
 glottolog_classification: "Nuclear-Macro-Je > Rikbaktsa"
 wikipedia_url: "https://en.wikipedia.org/wiki/Rikbaktsa_language"
 translations:
+  - translation_iso: ara
+    name: ريكباكتسا
+    auto: true
   - translation_iso: jpn
     name: リクバクチァ語
   - translation_iso: zho

@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Southern Melanesian > New Caledonian > Loyalty Islands > Nengone"
 wikipedia_url: "https://en.wikipedia.org/wiki/Nengone_language"
 translations:
+  - translation_iso: ara
+    name: نينجوني
+    auto: true
   - translation_iso: jpn
     name: ネンゴネ語
   - translation_iso: zho

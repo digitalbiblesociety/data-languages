@@ -14,6 +14,9 @@ glottolog_family_name: Koiarian
 glottolog_classification: "Koiarian > Baraic > Barai-Namiae > Barai"
 wikipedia_url: "https://en.wikipedia.org/wiki/Barai_language"
 translations:
+  - translation_iso: ara
+    name: اللغة باراي
+    auto: true
   - translation_iso: jpn
     name: バライ語
     auto: true

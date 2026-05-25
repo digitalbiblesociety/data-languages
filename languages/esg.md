@@ -15,6 +15,9 @@ glottolog_family_name: Dravidian
 glottolog_classification: "Dravidian > South Dravidian > South Dravidian II > Gondi > Northwest Gondi > Southwest Gondi > Southern Gondi > Eastern Gondi > Aheri Gondi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Aheri_Gondi_language"
 translations:
+  - translation_iso: ara
+    name: الجوندي الأهري
+    auto: true
   - translation_iso: hin
     name: अहेरी गोंडी
   - translation_iso: jpn

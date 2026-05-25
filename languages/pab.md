@@ -15,6 +15,9 @@ glottolog_family_name: Arawakan
 glottolog_classification: "Arawakan > Central-Eastern Maipuran > Central Maipuran > Xaray > Parecis-Nawe > Parecís"
 wikipedia_url: "https://en.wikipedia.org/wiki/Paresi_language"
 translations:
+  - translation_iso: ara
+    name: اللغة باريسيس
+    auto: true
   - translation_iso: jpn
     name: パレシ語
   - translation_iso: zho

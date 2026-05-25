@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Admiralty Islands > Eastern Admiralty Islands > South-East Admiralty > Lou-Paluai > Paluai"
 wikipedia_url: "https://en.wikipedia.org/wiki/Baluan-Pam_language"
 translations:
+  - translation_iso: ara
+    name: بالوان بام
+    auto: true
   - translation_iso: jpn
     name: バルアン・パム語
     auto: true

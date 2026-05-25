@@ -14,6 +14,9 @@ glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > West Chadic > West Chadic B > West Chadic B.3 > South Bauchi West > Northwest South Bauchi > Polci-Luri > Polcic > Buli (Bauchi State)"
 wikipedia_url: "https://en.wikipedia.org/wiki/Buli_language_(Nigeria)"
 translations:
+  - translation_iso: ara
+    name: بولي
+    auto: true
   - translation_iso: jpn
     name: バラワ語
     auto: true

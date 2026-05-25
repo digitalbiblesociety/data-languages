@@ -15,6 +15,9 @@ glottolog_family_name: Kru
 glottolog_classification: "Kru > Eastern Kru > Beteic > Eastern Bete > Kouya"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kuya_language"
 translations:
+  - translation_iso: ara
+    name: كويا
+    auto: true
   - translation_iso: jpn
     name: クウヤ語
     auto: true

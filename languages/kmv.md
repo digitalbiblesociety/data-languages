@@ -15,6 +15,9 @@ glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Italic > Latino-Faliscan > Latinic > Imperial Latin > Romance > Italo-Western Romance > Western Romance > Shifted Western Romance > Northwestern Shifted Romance > Gallo-Rhaetian > Oil > Central Oil > Macro-French > Circum-Caribbean French > Guyanic Creole French > Uaçá Creole French"
 wikipedia_url: "https://en.wikipedia.org/wiki/Karip%C3%BAna_French_Creole"
 translations:
+  - translation_iso: ara
+    name: اللغة الكريولية الفرنسية كاريبونا
+    auto: true
   - translation_iso: jpn
     name: カリプナ語
   - translation_iso: zho

@@ -15,6 +15,9 @@ glottolog_family_name: Chinookan
 glottolog_classification: "Chinookan > Upper Chinook"
 wikipedia_url: "https://en.wikipedia.org/wiki/Upper_Chinook_language"
 translations:
+  - translation_iso: ara
+    name: واسكو-ويشرام
+    auto: true
   - translation_iso: jpn
     name: ウィシュラム語
   - translation_iso: zho

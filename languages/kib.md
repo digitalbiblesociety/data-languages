@@ -15,6 +15,9 @@ glottolog_family_name: Heibanic
 glottolog_classification: "Heibanic > West-Central Heibanic > Central Heibanic > Koalib-Rere"
 wikipedia_url: "https://en.wikipedia.org/wiki/Koalib_language"
 translations:
+  - translation_iso: ara
+    name: لغة كوليب
+    auto: true
   - translation_iso: jpn
     name: コアリブ語
   - translation_iso: zho

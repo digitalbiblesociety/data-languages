@@ -15,6 +15,9 @@ glottolog_family_name: Arawakan
 glottolog_classification: "Arawakan > Southern Maipuran > Kampa-Amuesha > Pre-Andine Maipuran > Asha-Ashe-Kak-Matsi-Nan > Asha-Ashe-Kak > Caquinte"
 wikipedia_url: "https://en.wikipedia.org/wiki/Caquinte_language"
 translations:
+  - translation_iso: ara
+    name: الكاكينتي
+    auto: true
   - translation_iso: hin
     name: कैक्विंटे
   - translation_iso: jpn

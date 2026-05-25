@@ -15,6 +15,9 @@ glottolog_family_name: Suki-Gogodala
 glottolog_classification: "Suki-Gogodala > Suki"
 wikipedia_url: "https://en.wikipedia.org/wiki/Suki_language"
 translations:
+  - translation_iso: ara
+    name: اللغة سوكي
+    auto: true
   - translation_iso: jpn
     name: スキ語
     auto: true

@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Northern Luzon > Northeastern Luzon > Dupaninan Agta"
 wikipedia_url: "https://en.wikipedia.org/wiki/Dupaningan_Agta"
 translations:
+  - translation_iso: ara
+    name: دوبانينان أجتا
+    auto: true
   - translation_iso: jpn
     name: ドゥパニナン・アグタ語
     auto: true

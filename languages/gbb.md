@@ -15,6 +15,9 @@ glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > Arandic-Thura-Yura > Arandic > Kaytetye"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kaytetye_language"
 translations:
+  - translation_iso: ara
+    name: الكايتيتي
+    auto: true
   - translation_iso: jpn
     name: カイテチェ語
   - translation_iso: zho

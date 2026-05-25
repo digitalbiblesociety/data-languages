@@ -15,6 +15,9 @@ glottolog_family_name: Otomanguean
 glottolog_classification: "Otomanguean > Eastern Otomanguean > Amuzgo-Mixtecan > Mixtecan > Mixtec-Cuicatec > Mixtec > Eastern Alta Mixtec > Southeastern Alta Mixtec > Teozacoalco Mixtec > Mitlatongo Mixtec"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mitlatongo-Yutanduchi_Mixtec"
 translations:
+  - translation_iso: ara
+    name: ميتلاتونجو ميكستيك
+    auto: true
   - translation_iso: jpn
     name: ミトラトンゴ・ミシテク語
     auto: true

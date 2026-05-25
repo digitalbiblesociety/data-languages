@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Malayo-Chamic > Malayic > Nuclear Malayic > Greater Riau-Johoric > Northeastern Peninsular Malay > Kedah-Perak Malay"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kedah_Malay"
 translations:
+  - translation_iso: ara
+    name: لغة ملايو كيدا
+    auto: true
   - translation_iso: jpn
     name: ケダ・マレー語
   - translation_iso: zho

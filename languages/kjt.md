@@ -15,6 +15,9 @@ glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Karenic > Peripheral Karen > Pwo > Northern Pwo Karen > Phrae Pwo Karen"
 wikipedia_url: "https://en.wikipedia.org/wiki/Phrae_Pwo_language"
 translations:
+  - translation_iso: ara
+    name: لغة فراي پو كارين
+    auto: true
   - translation_iso: jpn
     name: プレー・プウォ・カレン語
     auto: true

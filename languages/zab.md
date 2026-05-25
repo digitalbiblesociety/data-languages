@@ -15,6 +15,9 @@ glottolog_family_name: Otomanguean
 glottolog_classification: "Otomanguean > Eastern Otomanguean > Popoloca-Zapotecan > Zapotecan > Zapotec > Core Zapotec > Narrow Core Zapotec > Central Core Zapotec > Western Valley Zapotec > Western Tlacolula Valley Zapotec"
 wikipedia_url: "https://en.wikipedia.org/wiki/Western_Tlacolula_Valley_Zapotec"
 translations:
+  - translation_iso: ara
+    name: لغة زابوتيك تلاكولولا الغربية
+    auto: true
   - translation_iso: jpn
     name: ウェスタン・トラコルラ・バレー・サポテク語
     auto: true

@@ -14,6 +14,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Nunusaku > Piru Bay > East Piru Bay > Solehua > Seram Straits > Kaibobo"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kaibobo_language"
 translations:
+  - translation_iso: ara
+    name: كايبوبو
+    auto: true
   - translation_iso: jpn
     name: カイボボ語
     auto: true

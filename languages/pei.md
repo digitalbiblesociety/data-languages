@@ -15,6 +15,9 @@ glottolog_family_name: Otomanguean
 glottolog_classification: "Otomanguean > Western Otomanguean > Otopame-Chinantecan > Otopamean > Chichimeca-Jonaz"
 wikipedia_url: "https://en.wikipedia.org/wiki/Chichimeca_Jonaz_language"
 translations:
+  - translation_iso: ara
+    name: اللغة تشيتشيميكا جوناث
+    auto: true
   - translation_iso: jpn
     name: チチメカ・ジョナス語
     auto: true

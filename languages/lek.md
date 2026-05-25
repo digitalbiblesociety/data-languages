@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Admiralty Islands > Eastern Admiralty Islands > Manus > East Manus > Leipon"
 wikipedia_url: "https://en.wikipedia.org/wiki/Leipon_language"
 translations:
+  - translation_iso: ara
+    name: لغة ييپون
+    auto: true
   - translation_iso: jpn
     name: レイポン語
     auto: true

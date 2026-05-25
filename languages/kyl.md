@@ -15,6 +15,9 @@ glottolog_family_name: Kalapuyan
 glottolog_classification: "Kalapuyan > Central Kalapuya"
 wikipedia_url: "https://en.wikipedia.org/wiki/Central_Kalapuya_language"
 translations:
+  - translation_iso: ara
+    name: كالابويا
+    auto: true
   - translation_iso: jpn
     name: カラプヤ語
     auto: true

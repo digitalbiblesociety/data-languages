@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Benue-Congo Plateau > Tarokoid > Bijimic-Sur-Shall > Sur"
 wikipedia_url: "https://en.wikipedia.org/wiki/Sur%E2%80%93Myet_language"
 translations:
+  - translation_iso: ara
+    name: سور
+    auto: true
   - translation_iso: jpn
     name: スル語
     auto: true

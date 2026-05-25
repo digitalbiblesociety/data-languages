@@ -15,6 +15,9 @@ glottolog_family_name: Mayan
 glottolog_classification: "Mayan > Core Mayan > Quichean-Mamean > Greater Quichean > Core Quichean > Cakchiquel-Tzutujil > Tz'utujil"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tz%CA%BCutujil_language"
 translations:
+  - translation_iso: ara
+    name: تسوتوخيل
+    auto: true
   - translation_iso: jpn
     name: ツトゥヒル語
   - translation_iso: kor

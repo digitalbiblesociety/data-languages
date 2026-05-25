@@ -15,6 +15,9 @@ glottolog_family_name: Quechuan
 glottolog_classification: "Quechuan > Southern Quechua > Cuscan Quechua > Cusco Quechua"
 wikipedia_url: "https://en.wikipedia.org/wiki/Cusco_Quechua"
 translations:
+  - translation_iso: ara
+    name: اللغة كويتشوا كوسكو
+    auto: true
   - translation_iso: jpn
     name: クスコ語
   - translation_iso: zho

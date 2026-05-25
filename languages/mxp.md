@@ -15,6 +15,9 @@ glottolog_family_name: Mixe-Zoque
 glottolog_classification: "Mixe-Zoque > Mixe > Oaxaca Mixe > Lowland-Midland-South Highland Mixe > Tlahuitoltepec Mixe"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tlahuitoltepec_Mixe"
 translations:
+  - translation_iso: ara
+    name: تلاهويتولتيبيك ميكسي
+    auto: true
   - translation_iso: jpn
     name: トラウィトルテペック・ミクセ語
     auto: true

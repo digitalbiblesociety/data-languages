@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Tsouic > Tsou"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tsou_language"
 translations:
+  - translation_iso: ara
+    name: تسو
+    auto: true
   - translation_iso: jpn
     name: ツォウ語
   - translation_iso: kor

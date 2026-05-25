@@ -15,6 +15,9 @@ glottolog_family_name: Uto-Aztecan
 glottolog_classification: "Uto-Aztecan > Southern Uto-Aztecan > Corachol-Aztecan > Aztec > Western Nahuatl > Western Periphery-North Guerrero Nahuatl > Temascaltepec Nahuatl"
 wikipedia_url: "https://en.wikipedia.org/wiki/Temascaltepec_Nahuatl"
 translations:
+  - translation_iso: ara
+    name: تيماسكالتيبيك ناهواتل
+    auto: true
   - translation_iso: jpn
     name: テマスカルテペク・ナワトル語
     auto: true

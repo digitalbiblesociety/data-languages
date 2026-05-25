@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > North New Guinea linkage > Schouten linkage > Siau > Sissano-Tumleo > Sera-Sissano > Sera"
 wikipedia_url: "https://en.wikipedia.org/wiki/Sera_language"
 translations:
+  - translation_iso: ara
+    name: اللغة سيرا
+    auto: true
   - translation_iso: jpn
     name: セラ語
     auto: true

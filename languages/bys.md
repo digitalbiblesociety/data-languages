@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Cameroun-Ubangian > Bikwin-Jen > Northern Bikwin-Jen > Burak-Loo > Burak"
 wikipedia_url: "https://en.wikipedia.org/wiki/Burak_language"
 translations:
+  - translation_iso: ara
+    name: بوراك
+    auto: true
   - translation_iso: jpn
     name: ブラク語
     auto: true

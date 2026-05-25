@@ -15,6 +15,9 @@ glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Italic > Venetic"
 wikipedia_url: "https://en.wikipedia.org/wiki/Venetic_language"
 translations:
+  - translation_iso: ara
+    name: فينيتية
+    auto: true
   - translation_iso: jpn
     name: ウェネティ語
   - translation_iso: zho

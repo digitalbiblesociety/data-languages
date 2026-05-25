@@ -15,6 +15,9 @@ glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Enga-Kewa-Huli > Kewa-Huli > Huli"
 wikipedia_url: "https://en.wikipedia.org/wiki/Huli_language"
 translations:
+  - translation_iso: ara
+    name: هولي
+    auto: true
   - translation_iso: jpn
     name: フリ語
   - translation_iso: zho

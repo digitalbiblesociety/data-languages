@@ -15,6 +15,9 @@ glottolog_family_name: Tsimshian
 glottolog_classification: "Tsimshian > Nishga-Gitxsan > Gitxsan"
 wikipedia_url: "https://en.wikipedia.org/wiki/Gitxsan_language"
 translations:
+  - translation_iso: ara
+    name: غيتكسسآن
+    auto: true
   - translation_iso: jpn
     name: ギッチサン語
     auto: true

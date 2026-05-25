@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > Bantu A-B10-B20-B30 > Bantu B20B > Nuclear Ngomic > Mbangwe"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mbangwe_language"
 translations:
+  - translation_iso: ara
+    name: اللغة مبانغوي
+    auto: true
   - translation_iso: jpn
     name: ムバングウェ語
     auto: true

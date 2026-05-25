@@ -15,6 +15,9 @@ glottolog_family_name: Tarascan
 glottolog_classification: "Tarascan > Purepecha"
 wikipedia_url: "https://en.wikipedia.org/wiki/Pur%C3%A9pecha_language"
 translations:
+  - translation_iso: ara
+    name: بوريبتشا
+    auto: true
   - translation_iso: jpn
     name: タラスコ語
   - translation_iso: kor

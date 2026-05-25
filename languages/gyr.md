@@ -15,6 +15,9 @@ glottolog_family_name: Tupian
 glottolog_classification: "Tupian > Eastern Tupian > Maweti-Guarani > Aweti-Guarani > Tupi-Guarani > Southern Tupi-Guarani > Tupi-Guarani Subgroup II > Guarayu"
 wikipedia_url: "https://en.wikipedia.org/wiki/Guarayu_language"
 translations:
+  - translation_iso: ara
+    name: غوآرآيو
+    auto: true
   - translation_iso: jpn
     name: グアラユ語
     auto: true

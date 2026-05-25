@@ -16,6 +16,9 @@ glottolog_family_name: Tai-Kadai
 glottolog_classification: "Tai-Kadai > Kam-Tai > Daic-Beic > Daic > Central-Southwestern Tai > Wenma-Southwestern Tai > Sapa-Southwestern Tai > Southwestern Tai > Southwestern Tai P > Shanic > Sukaphic > Northern Shanic > Tai Nüa"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tai_Nuea_language"
 translations:
+  - translation_iso: ara
+    name: تاي نويا
+    auto: true
   - translation_iso: jpn
     name: タイ・ヌア語
   - translation_iso: kor

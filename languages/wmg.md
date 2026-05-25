@@ -14,6 +14,9 @@ glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Burmo-Qiangic > Na-Qiangic > Qiangic > Muya > Western Muya"
 wikipedia_url: "https://en.wikipedia.org/wiki/Western_Minyag_language"
 translations:
+  - translation_iso: ara
+    name: ويستيرن مينياغ
+    auto: true
   - translation_iso: jpn
     name: 西ミニャク語
     auto: true

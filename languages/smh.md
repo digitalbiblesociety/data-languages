@@ -15,6 +15,9 @@ glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Burmo-Qiangic > Lolo-Burmese > Loloish > Ni-Li-Kazhouish > Southeastern Ngwi > Nisoid > Nuclear Nisoid > Nasu-Nosu > Nesu-Nasu > Nasu-Gepu > Samei"
 wikipedia_url: "https://en.wikipedia.org/wiki/Samei_language"
 translations:
+  - translation_iso: ara
+    name: اللغة السامي
+    auto: true
   - translation_iso: jpn
     name: サメイ語
     auto: true

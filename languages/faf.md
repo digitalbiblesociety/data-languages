@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Southeast Solomonic > Longgu-Malaita-Makira > Malaita-Makira > Makira > Fagani"
 wikipedia_url: "https://en.wikipedia.org/wiki/Fagani_language"
 translations:
+  - translation_iso: ara
+    name: الفاغاني
+    auto: true
   - translation_iso: jpn
     name: ファガニ語
     auto: true

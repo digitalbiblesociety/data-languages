@@ -14,6 +14,9 @@ glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Burmo-Qiangic > Lolo-Burmese > Loloish > Ni-Li-Kazhouish > Southeastern Ngwi > Highland Phula > Muji > Laghuu-Core Muji > Thopho-Core Muji > Core Muji > Nuclear Core Muji > Northern-Southern Muji > Southern Muji"
 translations:
+  - translation_iso: ara
+    name: لغة موجي الجنوبية
+    auto: true
   - translation_iso: jpn
     name: 南部ムジ語
     auto: true

@@ -15,6 +15,9 @@ glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Kuki-Chin-Naga > Kuki-Chin > Peripheral Kuki-Chin > Northeastern Kuki-Chin > Thadoic > Paiteic > Ralte"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ralte_language"
 translations:
+  - translation_iso: ara
+    name: رالتي
+    auto: true
   - translation_iso: jpn
     name: ラルテー語
   - translation_iso: zho

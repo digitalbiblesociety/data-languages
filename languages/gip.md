@@ -14,6 +14,9 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > North New Guinea linkage > Ngero-Vitiaz linkage > Vitiaz linkage > Southwest New Britain linkage > Arawe-Pasismanua > Arawe > West Arawe > Gimi (West New Britain)"
 translations:
+  - translation_iso: ara
+    name: غيمي
+    auto: true
   - translation_iso: jpn
     name: ギミ語
     auto: true

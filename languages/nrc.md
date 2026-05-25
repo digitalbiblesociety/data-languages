@@ -15,6 +15,9 @@ glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Celtic > Nuclear Celtic > Core Celtic > Continental Transalpine Celtic > Unclassified Continental Transalpine Celtic > Noric"
 wikipedia_url: "https://en.wikipedia.org/wiki/Noric_language"
 translations:
+  - translation_iso: ara
+    name: نوريك
+    auto: true
   - translation_iso: jpn
     name: ノリック語
     auto: true

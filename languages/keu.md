@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Kwa Volta-Congo > Ka-Togo > Kebu-Animere > Akebu"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kebu_language"
 translations:
+  - translation_iso: ara
+    name: لغة أكيبو
+    auto: true
   - translation_iso: jpn
     name: ケブ語
   - translation_iso: zho

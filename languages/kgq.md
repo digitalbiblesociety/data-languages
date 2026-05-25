@@ -15,6 +15,9 @@ glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Asmat-Awyu-Ok > Asmat-Kamrau Bay > Asmat-Kamoro > Kamoro"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kamoro_language"
 translations:
+  - translation_iso: ara
+    name: لغة كاموري
+    auto: true
   - translation_iso: jpn
     name: カモロ語
     auto: true

@@ -15,6 +15,9 @@ glottolog_family_name: Uralic
 glottolog_classification: "Uralic > Saami > Eastern Saami > Mainland Eastern Saami > Akkala Saami"
 wikipedia_url: "https://en.wikipedia.org/wiki/Akkala_S%C3%A1mi"
 translations:
+  - translation_iso: ara
+    name: اللغة الأكالا سامي
+    auto: true
   - translation_iso: jpn
     name: アッカラ・サーミ語
   - translation_iso: kor

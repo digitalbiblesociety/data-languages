@@ -15,6 +15,9 @@ glottolog_family_name: Kadugli-Krongo
 glottolog_classification: "Kadugli-Krongo > Keiga"
 wikipedia_url: "https://en.wikipedia.org/wiki/Keiga_language"
 translations:
+  - translation_iso: ara
+    name: لغة كيغا
+    auto: true
   - translation_iso: jpn
     name: ケイガ語
     auto: true

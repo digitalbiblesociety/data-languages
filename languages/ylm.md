@@ -14,6 +14,9 @@ glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Burmo-Qiangic > Lolo-Burmese > Loloish > Ni-Li-Kazhouish > Lisoid > Lipo-Lolopo > Unclassified Lipo-Lolopo > Limi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Limi_language"
 translations:
+  - translation_iso: ara
+    name: اللغة ليمي
+    auto: true
   - translation_iso: jpn
     name: 留米語
   - translation_iso: zho

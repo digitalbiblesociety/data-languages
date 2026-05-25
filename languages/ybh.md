@@ -15,6 +15,9 @@ glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Himalayish > Mahakiranti > Kiranti > Eastern Kiranti > Tamar > Yakkha-Athpariyic > Yakkha"
 wikipedia_url: "https://en.wikipedia.org/wiki/Yakkha_language"
 translations:
+  - translation_iso: ara
+    name: ياخا
+    auto: true
   - translation_iso: jpn
     name: ヤク語
     auto: true

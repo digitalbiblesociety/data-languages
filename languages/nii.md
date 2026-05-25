@@ -14,6 +14,9 @@ glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Chimbu-Wahgi > Wahgic > Nii"
 wikipedia_url: "https://en.wikipedia.org/wiki/Nii_language"
 translations:
+  - translation_iso: ara
+    name: نيي
+    auto: true
   - translation_iso: jpn
     name: ニイ語
     auto: true

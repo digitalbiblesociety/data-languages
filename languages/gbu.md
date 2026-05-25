@@ -12,6 +12,9 @@ longitude: 132.64324
 glottocode: gaga1251
 wikipedia_url: "https://en.wikipedia.org/wiki/Gaagudju_language"
 translations:
+  - translation_iso: ara
+    name: الجاجاد
+    auto: true
   - translation_iso: jpn
     name: ガーグジュ語
   - translation_iso: zho

@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > Meso Melanesian linkage > New Ireland-Northwest Solomonic linkage > St George linkage > Kandas-Duke of York > Kandas"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kandas_language"
 translations:
+  - translation_iso: ara
+    name: لغة كاندس
+    auto: true
   - translation_iso: jpn
     name: カンダス語
   - translation_iso: zho

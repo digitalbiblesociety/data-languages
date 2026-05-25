@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Kwa Volta-Congo > Nyo > Potou-Tano > Tano > Western Tano > Abure"
 wikipedia_url: "https://en.wikipedia.org/wiki/Abure_language"
 translations:
+  - translation_iso: ara
+    name: لغة أبوري
+    auto: true
   - translation_iso: jpn
     name: アブレ語
     auto: true

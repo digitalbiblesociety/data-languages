@@ -15,6 +15,9 @@ glottolog_family_name: Arawakan
 glottolog_classification: "Arawakan > Japura-Colombia > Nuclear Japura-Colombia > Northeast Japura-Colombia > Piapoco-Achagua > Piapoco"
 wikipedia_url: "https://en.wikipedia.org/wiki/Piapoco_language"
 translations:
+  - translation_iso: ara
+    name: اللغة بيابوكو
+    auto: true
   - translation_iso: jpn
     name: ピアポコ語
   - translation_iso: zho

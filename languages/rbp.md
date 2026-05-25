@@ -8,6 +8,9 @@ country_name: Australia
 status_id: 8b
 wikipedia_url: "https://en.wikipedia.org/wiki/Barababaraba_dialect"
 translations:
+  - translation_iso: ara
+    name: بارابابارابا
+    auto: true
   - translation_iso: jpn
     name: バラババラバ語
     auto: true

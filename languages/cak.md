@@ -15,6 +15,9 @@ glottolog_family_name: Mayan
 glottolog_classification: "Mayan > Core Mayan > Quichean-Mamean > Greater Quichean > Core Quichean > Cakchiquel-Tzutujil > Kaqchikelic > Kaqchikel"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kaqchikel_language"
 translations:
+  - translation_iso: ara
+    name: كاتشيكيل
+    auto: true
   - translation_iso: jpn
     name: カクチケル語
   - translation_iso: kor

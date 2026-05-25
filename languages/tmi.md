@@ -14,6 +14,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > North and Central Vanuatu > Northern Vanuatu > Espiritu Santo > Nuclear Santo > East Santo > Mafea-Tutuba > Tutuba"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tutuba_language"
 translations:
+  - translation_iso: ara
+    name: توتوبا
+    auto: true
   - translation_iso: jpn
     name: ツツバ語
   - translation_iso: zho

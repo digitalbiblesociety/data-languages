@@ -7,6 +7,9 @@ country_id: YE
 country_name: Yemen
 status_id: null
 translations:
+  - translation_iso: ara
+    name: هارامي
+    auto: true
   - translation_iso: jpn
     name: ハラミ語
     auto: true

@@ -14,6 +14,9 @@ glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Kainantu-Goroka > Kainantu > Gauwa > Auyana > Awiyaana"
 wikipedia_url: "https://en.wikipedia.org/wiki/Awiyaana_language"
 translations:
+  - translation_iso: ara
+    name: اللغة أويايانا
+    auto: true
   - translation_iso: jpn
     name: アウヤナ語
   - translation_iso: zho

@@ -15,6 +15,9 @@ glottolog_family_name: Otomanguean
 glottolog_classification: "Otomanguean > Eastern Otomanguean > Popoloca-Zapotecan > Zapotecan > Zapotec > Core Zapotec > Narrow Core Zapotec > Central Core Zapotec > Cisyautepequeño > Xanaguía Zapotec"
 wikipedia_url: "https://en.wikipedia.org/wiki/Xanagu%C3%ADa_Zapotec"
 translations:
+  - translation_iso: ara
+    name: زابوتيك كسانغويا
+    auto: true
   - translation_iso: jpn
     name: サナグア・サポテク語
     auto: true

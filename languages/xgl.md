@@ -8,6 +8,9 @@ country_name: Poland
 status_id: null
 wikipedia_url: "https://en.wikipedia.org/wiki/West_Galindian_language"
 translations:
+  - translation_iso: ara
+    name: غاليندان
+    auto: true
   - translation_iso: jpn
     name: ガリンディア語
   - translation_iso: kor

@@ -10,6 +10,9 @@ latitude: 13.47899
 longitude: 103.978
 wikipedia_url: "https://en.wikipedia.org/wiki/Samre_language_of_Pursat"
 translations:
+  - translation_iso: ara
+    name: سامري
+    auto: true
   - translation_iso: jpn
     name: サムレ語
     auto: true

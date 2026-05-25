@@ -15,6 +15,9 @@ glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Indo-Aryan > Middle-Modern Indo-Aryan > Continental Indo-Aryan > Midlands Indo-Aryan > Bhil > Pauri-Nahali > Bhilali"
 wikipedia_url: "https://en.wikipedia.org/wiki/Bhilali_language"
 translations:
+  - translation_iso: ara
+    name: بهيلالي
+    auto: true
   - translation_iso: hin
     name: भिलाली भाषा
   - translation_iso: jpn

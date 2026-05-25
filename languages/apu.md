@@ -15,6 +15,9 @@ glottolog_family_name: Arawakan
 glottolog_classification: "Arawakan > Southern Maipuran > Purus-Chamicuro > Purus > Apurinã"
 wikipedia_url: "https://en.wikipedia.org/wiki/Apurin%C3%A3_language"
 translations:
+  - translation_iso: ara
+    name: اللغة أبورينيا
+    auto: true
   - translation_iso: jpn
     name: アプリニャ語
   - translation_iso: zho

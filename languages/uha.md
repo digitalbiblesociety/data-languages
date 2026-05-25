@@ -14,6 +14,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Akpes-Edoid > Edoid > Northwestern Edoid > Osse > Uhami"
 wikipedia_url: "https://en.wikipedia.org/wiki/Uhami_language"
 translations:
+  - translation_iso: ara
+    name: أوهامي
+    auto: true
   - translation_iso: jpn
     name: イシュア語
     auto: true

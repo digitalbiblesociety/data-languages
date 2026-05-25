@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > North and Central Vanuatu > Northern Vanuatu > Torres-Banks linkage > Koto-Olrat-Lakon > Koro-Olrat"
 wikipedia_url: "https://en.wikipedia.org/wiki/Koro_language_(Vanuatu)"
 translations:
+  - translation_iso: ara
+    name: كورو (فانواتو)
+    auto: true
   - translation_iso: jpn
     name: コロ語
   - translation_iso: zho

@@ -15,6 +15,9 @@ glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > Southeastern Pama-Nyungan > North Coast Pama-Nyungan > Gumbaynggiric > Yaygir"
 wikipedia_url: "https://en.wikipedia.org/wiki/Yaygir_language"
 translations:
+  - translation_iso: ara
+    name: يايجير
+    auto: true
   - translation_iso: jpn
     name: ヤイギル語
     auto: true

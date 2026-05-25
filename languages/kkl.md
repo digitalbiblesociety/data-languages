@@ -15,6 +15,9 @@ glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Mek > Western Mek > Northwestern Mek > Kosarek Yale"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kosarek_language"
 translations:
+  - translation_iso: ara
+    name: لغة كوساريك يال
+    auto: true
   - translation_iso: jpn
     name: コサレク・イェール語
     auto: true

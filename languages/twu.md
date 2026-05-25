@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Timor-Babar > Rote-Meto > Nuclear Rote > Central East Rote > Termanu"
 wikipedia_url: "https://en.wikipedia.org/wiki/Termanu_language"
 translations:
+  - translation_iso: ara
+    name: تيرمانو
+    auto: true
   - translation_iso: jpn
     name: パダ語
     auto: true

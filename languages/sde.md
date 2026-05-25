@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Kainji > Central Kainji > Basa-Eastern Kainji > Eastern Kainji > Jos > Kauru > Voric > Vori"
 wikipedia_url: "https://en.wikipedia.org/wiki/Vori_language"
 translations:
+  - translation_iso: ara
+    name: سوروبو
+    auto: true
   - translation_iso: jpn
     name: スルブ語
     auto: true

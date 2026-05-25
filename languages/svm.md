@@ -14,6 +14,9 @@ glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Balto-Slavic > Slavic > South Slavic > Western South Slavic > Slavomolisano"
 wikipedia_url: "https://en.wikipedia.org/wiki/Slavomolisano"
 translations:
+  - translation_iso: ara
+    name: سلافومولسانو
+    auto: true
   - translation_iso: jpn
     name: スラヴォモリサーノ語
     auto: true

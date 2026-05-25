@@ -9,6 +9,9 @@ latitude: -7.72555
 longitude: 126.7
 wikipedia_url: "https://en.wikipedia.org/wiki/Mardijker_Creole"
 translations:
+  - translation_iso: ara
+    name: توجونيسي
+    auto: true
   - translation_iso: jpn
     name: パピア・トゥグ語
     auto: true

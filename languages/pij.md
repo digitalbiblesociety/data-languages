@@ -14,6 +14,9 @@ glottolog_family_name: Unclassifiable
 glottolog_classification: "Unclassifiable > Pijao"
 wikipedia_url: "https://en.wikipedia.org/wiki/Pijao_language"
 translations:
+  - translation_iso: ara
+    name: اللغة بيجاو
+    auto: true
   - translation_iso: jpn
     name: ピハオ語
     auto: true

@@ -15,6 +15,9 @@ glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Madang > Kalamic-South Adelbert > South Adelbert > Sogeram > Apalic > Apali"
 wikipedia_url: "https://en.wikipedia.org/wiki/Apali_language"
 translations:
+  - translation_iso: ara
+    name: الأبالي
+    auto: true
   - translation_iso: jpn
     name: アパリ語
     auto: true

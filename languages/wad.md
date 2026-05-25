@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > South Halmahera-West New Guinea > Cenderawasih Bay > Yapen > Central-Western Yapen > Ansus-Ambai > Wandamen"
 wikipedia_url: "https://en.wikipedia.org/wiki/Wamesa_language"
 translations:
+  - translation_iso: ara
+    name: واندامين
+    auto: true
   - translation_iso: jpn
     name: ワンダメン語
     auto: true

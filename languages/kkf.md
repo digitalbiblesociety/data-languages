@@ -15,6 +15,9 @@ glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Bodic > Tshanglic > Kalaktang Monpa"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kalaktang_Monpa_language"
 translations:
+  - translation_iso: ara
+    name: لغة كالاكتانج مونبا
+    auto: true
   - translation_iso: jpn
     name: カラクタン・モンパ語
     auto: true

@@ -15,6 +15,9 @@ glottolog_family_name: Kamakanan
 glottolog_classification: "Kamakanan > Nuclear Kamakanan > Kamakan"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kamak%C3%A3_language"
 translations:
+  - translation_iso: ara
+    name: كاماكان
+    auto: true
   - translation_iso: jpn
     name: エゼシオ語
     auto: true

@@ -15,6 +15,9 @@ glottolog_family_name: Mayan
 glottolog_classification: "Mayan > Core Mayan > Western Mayan > Cholan-Tzeltalan > Cholan > Epigraphic Mayan"
 wikipedia_url: "https://en.wikipedia.org/wiki/Classic_Maya_language"
 translations:
+  - translation_iso: ara
+    name: المايا الخطية
+    auto: true
   - translation_iso: jpn
     name: 古典マヤ語
   - translation_iso: kor

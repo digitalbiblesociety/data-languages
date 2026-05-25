@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Celebic > Greater Eastern Celebic > Eastern Celebic > Southeastern Celebic > Muna-Buton > Nuclear Muna-Buton > Butonic > East Buton > Lasalimu"
 wikipedia_url: "https://en.wikipedia.org/wiki/Lasalimu_language"
 translations:
+  - translation_iso: ara
+    name: لغة اساليمو
+    auto: true
   - translation_iso: jpn
     name: ラサリム語
     auto: true

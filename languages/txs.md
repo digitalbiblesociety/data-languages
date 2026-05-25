@@ -14,6 +14,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Sangiric-Minahasan > Minahasan > North Minahasan > Northeast Minahasan > Tonsea"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tonsea_language"
 translations:
+  - translation_iso: ara
+    name: تونسيا
+    auto: true
   - translation_iso: jpn
     name: トンセア語
   - translation_iso: zho

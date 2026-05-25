@@ -15,6 +15,9 @@ glottolog_family_name: Dravidian
 glottolog_classification: "Dravidian > South Dravidian > South Dravidian II > Gondi > Southeast Gondi > Maria (India)"
 wikipedia_url: "https://en.wikipedia.org/wiki/Madiya_language"
 translations:
+  - translation_iso: ara
+    name: لغة ماريا (الهند)
+    auto: true
   - translation_iso: jpn
     name: マリア語
   - translation_iso: zho

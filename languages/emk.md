@@ -14,6 +14,9 @@ glottolog_family_id: mand1469
 glottolog_family_name: Mande
 glottolog_classification: "Mande > Western Mande > Manding-Kpelle > Central Mande > Manding-Jogo > Manding-Vai > Manding-Mokole > Manding > East Manding > Manenkan > Eastern Maninkakan"
 translations:
+  - translation_iso: ara
+    name: المانينكاكان الشرقية
+    auto: true
   - translation_iso: jpn
     name: 東マニンカカン語
     auto: true

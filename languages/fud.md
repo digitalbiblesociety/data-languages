@@ -16,6 +16,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Central Pacific linkage > Tokalau Fijian > Polynesian > Nuclear Polynesian > East Futuna"
 wikipedia_url: "https://en.wikipedia.org/wiki/Futunan_language"
 translations:
+  - translation_iso: ara
+    name: فوتونا الشرقية
+    auto: true
   - translation_iso: jpn
     name: フトゥナ語
   - translation_iso: zho

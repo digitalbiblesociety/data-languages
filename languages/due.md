@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Greater Central Philippine > Umiray Dumaget Agta"
 wikipedia_url: "https://en.wikipedia.org/wiki/Umiray_Dumaget_language"
 translations:
+  - translation_iso: ara
+    name: أوميراي دوماجت أجتا
+    auto: true
   - translation_iso: jpn
     name: ウミレイ・ドゥマゲット・アグタ語
     auto: true

@@ -8,6 +8,9 @@ country_name: South Korea
 status_id: null
 wikipedia_url: "https://en.wikipedia.org/wiki/Buyeo_language"
 translations:
+  - translation_iso: ara
+    name: بويو
+    auto: true
   - translation_iso: jpn
     name: 夫余語
   - translation_iso: kor

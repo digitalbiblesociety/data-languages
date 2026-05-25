@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Cameroun-Ubangian > Central Adamawa > Unclassified Central Adamawa > Duli-Gewe"
 wikipedia_url: "https://en.wikipedia.org/wiki/Duli_language"
 translations:
+  - translation_iso: ara
+    name: دولي جاي
+    auto: true
   - translation_iso: jpn
     name: ドゥリ語
   - translation_iso: zho

@@ -10,6 +10,9 @@ latitude: 12.50084
 longitude: 17.60109
 wikipedia_url: "https://en.wikipedia.org/wiki/Buso_language"
 translations:
+  - translation_iso: ara
+    name: بوسو
+    auto: true
   - translation_iso: jpn
     name: ブソ語
     auto: true

@@ -14,6 +14,9 @@ glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > Greater Maric > Guwa-Maric > Maric > Yirandhali"
 wikipedia_url: "https://en.wikipedia.org/wiki/Yirandhali_language"
 translations:
+  - translation_iso: ara
+    name: لغة يراندالي
+    auto: true
   - translation_iso: jpn
     name: イイランダリ語
     auto: true

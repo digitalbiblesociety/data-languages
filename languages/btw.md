@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Greater Central Philippine > Central Philippine > Bisayan > South Bisayan > Butuan-Tausug > Butuanon"
 wikipedia_url: "https://en.wikipedia.org/wiki/Butuanon_language"
 translations:
+  - translation_iso: ara
+    name: بوتوانون
+    auto: true
   - translation_iso: jpn
     name: ブトゥアノン語
   - translation_iso: zho

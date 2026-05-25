@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Southeast Solomonic > Longgu-Malaita-Makira > Malaita-Makira > Malaita > Southern Malaita > Dori'o"
 wikipedia_url: "https://en.wikipedia.org/wiki/Dori%CA%BCo_language"
 translations:
+  - translation_iso: ara
+    name: دوريو
+    auto: true
   - translation_iso: jpn
     name: ドリオ語
     auto: true

@@ -14,6 +14,9 @@ glottolog_family_id: aust1305
 glottolog_family_name: Austroasiatic
 glottolog_classification: "Austroasiatic > Vietic > Cuoi > Tho"
 translations:
+  - translation_iso: ara
+    name: ثو
+    auto: true
   - translation_iso: jpn
     name: トー語
     auto: true

@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > East Bantu > Corridor Bantu > Mbozi > Mwika > Fipaic > Maluwawaru > Mambwe-Lungu"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mambwe-Lungu_language"
 translations:
+  - translation_iso: ara
+    name: لغة مامبوي لونجو
+    auto: true
   - translation_iso: jpn
     name: マンブウェ語
   - translation_iso: zho

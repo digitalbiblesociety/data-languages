@@ -15,6 +15,9 @@ glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Bodic > Bodish > Early Old Tibetan > Middle Old Tibetan > Late Old Tibetan > Southern Tibetic > Dur Brokkat"
 wikipedia_url: "https://en.wikipedia.org/wiki/Brokkat_language"
 translations:
+  - translation_iso: ara
+    name: بروكّات
+    auto: true
   - translation_iso: jpn
     name: ブロッカトゥ語
   - translation_iso: zho

@@ -15,6 +15,9 @@ glottolog_family_name: Dogon
 glottolog_classification: "Dogon > North Plateau Dogon > Yanda-Bondum-Tebul > Tebul Ure Dogon"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tebul_Dogon"
 translations:
+  - translation_iso: ara
+    name: تيبول أور دوجون
+    auto: true
   - translation_iso: jpn
     name: テブル・ウレ・ドゴン語
     auto: true

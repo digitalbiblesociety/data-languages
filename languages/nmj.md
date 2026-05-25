@@ -10,6 +10,9 @@ latitude: 3.90658
 longitude: 15.21537
 wikipedia_url: "https://en.wikipedia.org/wiki/Ngombe_language_(Central_African_Republic)"
 translations:
+  - translation_iso: ara
+    name: نغومبي (جمهورية أفريقيا الوسطى)
+    auto: true
   - translation_iso: jpn
     name: ングオンベ語
     auto: true

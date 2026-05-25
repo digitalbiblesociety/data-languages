@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > North Borneo Malayo-Polynesian > Sabahan > Southwest Sabahan > Greater Murutic > Murutic > Northern Murutic > Gana"
 wikipedia_url: "https://en.wikipedia.org/wiki/Gana%CA%BC_language"
 translations:
+  - translation_iso: ara
+    name: غآنآ
+    auto: true
   - translation_iso: jpn
     name: ガナ語
     auto: true

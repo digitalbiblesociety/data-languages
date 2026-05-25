@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > Papuan Tip linkage > Peripheral Papuan Tip linkage > Nimoa-Sudest > Nimoa"
 wikipedia_url: "https://en.wikipedia.org/wiki/Nimoa_language"
 translations:
+  - translation_iso: ara
+    name: نيموا
+    auto: true
   - translation_iso: jpn
     name: ニモア語
   - translation_iso: zho

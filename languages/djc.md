@@ -15,6 +15,9 @@ glottolog_family_name: Dajuic
 glottolog_classification: "Dajuic > Western Dajuic > Dar Daju Daju"
 wikipedia_url: "https://en.wikipedia.org/wiki/Daju_Mongo_language"
 translations:
+  - translation_iso: ara
+    name: دار داجو داجو
+    auto: true
   - translation_iso: jpn
     name: ダル・ダジュ語
     auto: true

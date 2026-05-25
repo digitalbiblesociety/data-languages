@@ -15,6 +15,9 @@ glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > Ngarna > Southern Ngarna > Ngarru > Yindjilandji"
 wikipedia_url: "https://en.wikipedia.org/wiki/Yindjilandji"
 translations:
+  - translation_iso: ara
+    name: اللغة ييندجيلاندجي
+    auto: true
   - translation_iso: jpn
     name: イーンジラランジ語
     auto: true

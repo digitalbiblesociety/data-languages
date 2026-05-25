@@ -15,6 +15,9 @@ glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Madang > Kalamic-South Adelbert > Kalam-Kobon > Etp-Ti Kalam > Kalam"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kalam_language"
 translations:
+  - translation_iso: ara
+    name: لغة كالام
+    auto: true
   - translation_iso: jpn
     name: カラム語
   - translation_iso: zho

@@ -15,6 +15,9 @@ glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > East Chadic > East Chadic A > East Chadic A.3 > Kera"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kera_language"
 translations:
+  - translation_iso: ara
+    name: لغة كيرا
+    auto: true
   - translation_iso: jpn
     name: ケラ語
   - translation_iso: zho

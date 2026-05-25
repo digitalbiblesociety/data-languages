@@ -16,6 +16,9 @@ glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Brahmaputran > Bodo-Garo > Boroic > Dimasa-Kokborok > Tipperic > Riang (India)"
 wikipedia_url: "https://en.wikipedia.org/wiki/Riang_language_(India)"
 translations:
+  - translation_iso: ara
+    name: ريانج
+    auto: true
   - translation_iso: jpn
     name: リアン（インド）語
     auto: true

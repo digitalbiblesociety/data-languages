@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Central Pacific linkage > Tokalau Fijian > Polynesian > Nuclear Polynesian > Northern Outlier Polynesian-East Polynesian > Solomons Northern Outlier Polynesian-East Polynesian > Central Northern Outlier Polynesian-East Polynesian > Central Northern Outlier Polynesian > Takuuic > Nukuria"
 wikipedia_url: "https://en.wikipedia.org/wiki/Nukuria_language"
 translations:
+  - translation_iso: ara
+    name: نوكوريا
+    auto: true
   - translation_iso: jpn
     name: ヌクリア語
   - translation_iso: zho

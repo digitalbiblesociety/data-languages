@@ -14,6 +14,9 @@ glottolog_family_name: Anim
 glottolog_classification: "Anim > Tirio > Nuclear Tirio > Baramu"
 wikipedia_url: "https://en.wikipedia.org/wiki/Baramu_language"
 translations:
+  - translation_iso: ara
+    name: بارامو
+    auto: true
   - translation_iso: jpn
     name: バラム語
     auto: true

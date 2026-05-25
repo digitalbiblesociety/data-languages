@@ -15,6 +15,9 @@ glottolog_family_name: Hmong-Mien
 glottolog_classification: "Hmong-Mien > Hmongic > Paheng-Younuo > Paheng > Pa-Hng"
 wikipedia_url: "https://en.wikipedia.org/wiki/Pa-Hng_language"
 translations:
+  - translation_iso: ara
+    name: اللغة با هنغ
+    auto: true
   - translation_iso: jpn
     name: Pa-Hng語
   - translation_iso: zho

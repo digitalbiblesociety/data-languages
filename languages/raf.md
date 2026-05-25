@@ -14,6 +14,9 @@ glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Himalayish > Mahakiranti > Kiranti > Eastern Kiranti > Upper Arun > Mewahang > Western Mewahang"
 translations:
+  - translation_iso: ara
+    name: ويسترن ميهانج
+    auto: true
   - translation_iso: jpn
     name: 西メオハン語
     auto: true

@@ -14,6 +14,9 @@ glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Finisterre-Huon > Huon > Eastern Huon > Kalasa > Sialum"
 wikipedia_url: "https://en.wikipedia.org/wiki/Sialum_language"
 translations:
+  - translation_iso: ara
+    name: اللغة سيالوم
+    auto: true
   - translation_iso: jpn
     name: シアルム語
     auto: true

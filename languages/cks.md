@@ -15,6 +15,9 @@ glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Italic > Latino-Faliscan > Latinic > Imperial Latin > Romance > Italo-Western Romance > Western Romance > Shifted Western Romance > Northwestern Shifted Romance > Gallo-Rhaetian > Oil > Central Oil > Macro-French > Tayo"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tayo_Creole"
 translations:
+  - translation_iso: ara
+    name: التايو
+    auto: true
   - translation_iso: jpn
     name: タヨ語
   - translation_iso: kor

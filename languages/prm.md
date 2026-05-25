@@ -12,6 +12,9 @@ longitude: 144.29554
 glottocode: kibi1239
 wikipedia_url: "https://en.wikipedia.org/wiki/Porome_language"
 translations:
+  - translation_iso: ara
+    name: اللغة كيبيري
+    auto: true
   - translation_iso: jpn
     name: キビリ語
     auto: true

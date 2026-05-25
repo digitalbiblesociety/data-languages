@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Kwa Volta-Congo > Gbe > Eastern Gbe > Fongbeic > Wudu"
 wikipedia_url: "https://en.wikipedia.org/wiki/Wudu_language"
 translations:
+  - translation_iso: ara
+    name: وودو
+    auto: true
   - translation_iso: jpn
     name: ウドゥ語
     auto: true

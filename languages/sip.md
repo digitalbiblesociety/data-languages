@@ -15,6 +15,9 @@ glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Bodic > Bodish > Early Old Tibetan > Middle Old Tibetan > Late Old Tibetan > Southern Tibetic > Dzongkhic > Sikkimese"
 wikipedia_url: "https://en.wikipedia.org/wiki/Sikkimese_Bhutia_language"
 translations:
+  - translation_iso: ara
+    name: اللغة السيكيمية
+    auto: true
   - translation_iso: hin
     name: सिक्किमी भाषा
   - translation_iso: jpn

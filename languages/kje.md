@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Timor-Babar > Southwest Maluku > Luangic-Kisaric > Kisaric > Kisar"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kisar_language"
 translations:
+  - translation_iso: ara
+    name: لغة كيسار
+    auto: true
   - translation_iso: jpn
     name: キサル語
     auto: true

@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > North and Central Vanuatu > Central Vanuatu > Ambrym > North Ambrym"
 wikipedia_url: "https://en.wikipedia.org/wiki/North_Ambrym_language"
 translations:
+  - translation_iso: ara
+    name: لغة شمال أمبريم
+    auto: true
   - translation_iso: jpn
     name: 北アンブリム語
   - translation_iso: zho

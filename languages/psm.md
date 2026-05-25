@@ -15,6 +15,9 @@ glottolog_family_name: Tupian
 glottolog_classification: "Tupian > Eastern Tupian > Maweti-Guarani > Aweti-Guarani > Tupi-Guarani > Southern Tupi-Guarani > Tupi-Guarani Subgroup II > Warazu-Sirionoid > Warázu"
 wikipedia_url: "https://en.wikipedia.org/wiki/War%C3%A1zu_language"
 translations:
+  - translation_iso: ara
+    name: اللغة باوسيرنا
+    auto: true
   - translation_iso: jpn
     name: パウセルナ語
     auto: true

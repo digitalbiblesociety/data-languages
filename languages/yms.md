@@ -8,6 +8,9 @@ country_name: Turkey
 status_id: null
 wikipedia_url: "https://en.wikipedia.org/wiki/Mysian_language"
 translations:
+  - translation_iso: ara
+    name: اللغة ميسيان
+    auto: true
   - translation_iso: jpn
     name: ミュシア語
   - translation_iso: zho

@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Wide Grassfields > Narrow Grassfields > Ring > Center-West Ring > Center Ring > Kung"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kung_language_(Cameroon)"
 translations:
+  - translation_iso: ara
+    name: لغة كونغ
+    auto: true
   - translation_iso: jpn
     name: クン語
     auto: true

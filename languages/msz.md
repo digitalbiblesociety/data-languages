@@ -15,6 +15,9 @@ glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Finisterre-Huon > Huon > Eastern Huon > Trans Vitiaz > Huon Tip > Sopac > Momare"
 wikipedia_url: "https://en.wikipedia.org/wiki/Momare_language"
 translations:
+  - translation_iso: ara
+    name: لغة موماري
+    auto: true
   - translation_iso: jpn
     name: モマレ語
     auto: true

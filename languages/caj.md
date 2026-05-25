@@ -10,6 +10,9 @@ latitude: -22.54736
 longitude: -63.98651
 wikipedia_url: "https://en.wikipedia.org/wiki/Chan%C3%A9_dialect"
 translations:
+  - translation_iso: ara
+    name: تشاني
+    auto: true
   - translation_iso: jpn
     name: チャネ語
   - translation_iso: kor

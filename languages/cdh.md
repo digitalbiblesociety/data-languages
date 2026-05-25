@@ -15,6 +15,9 @@ glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Indo-Aryan > Middle-Modern Indo-Aryan > Eastern Dardic > Himachali > Kangric-Chamealic-Bhattiyali > Chamealic > Chambeali"
 wikipedia_url: "https://en.wikipedia.org/wiki/Chambeali"
 translations:
+  - translation_iso: ara
+    name: الشامبيالي
+    auto: true
   - translation_iso: hin
     name: चम्बयाली
   - translation_iso: jpn

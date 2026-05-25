@@ -15,6 +15,9 @@ glottolog_family_name: Tequistlatecan
 glottolog_classification: "Tequistlatecan > Highland Oaxaca Chontal"
 wikipedia_url: "https://en.wikipedia.org/wiki/Highland_Oaxaca_Chontal"
 translations:
+  - translation_iso: ara
+    name: هايلاند واخاكا تشونتال
+    auto: true
   - translation_iso: jpn
     name: ハイランド・オアハカ・チョンタル語
     auto: true

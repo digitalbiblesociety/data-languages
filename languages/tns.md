@@ -14,6 +14,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > St. Matthias > Tenis"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tenis_language"
 translations:
+  - translation_iso: ara
+    name: تينيس
+    auto: true
   - translation_iso: jpn
     name: テニス語
   - translation_iso: zho

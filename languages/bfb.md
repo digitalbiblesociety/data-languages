@@ -15,6 +15,9 @@ glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Indo-Aryan > Middle-Modern Indo-Aryan > Continental Indo-Aryan > Midlands Indo-Aryan > Bhil > Pauri-Nahali > Pauri Bareli"
 wikipedia_url: "https://en.wikipedia.org/wiki/Pauri_Bareli_language"
 translations:
+  - translation_iso: ara
+    name: باوري بارلي
+    auto: true
   - translation_iso: jpn
     name: パウリ・バレリ語
     auto: true

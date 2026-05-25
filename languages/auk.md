@@ -15,6 +15,9 @@ glottolog_family_name: Nuclear Torricelli
 glottolog_classification: "Nuclear Torricelli > Nuclear Maimai > Heyo-Yahang > Heyo"
 wikipedia_url: "https://en.wikipedia.org/wiki/Heyo_language"
 translations:
+  - translation_iso: ara
+    name: اللغة هيو
+    auto: true
   - translation_iso: jpn
     name: ヘヨ語
     auto: true

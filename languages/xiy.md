@@ -15,6 +15,9 @@ glottolog_family_name: Tupian
 glottolog_classification: "Tupian > Eastern Tupian > Jurunic > Xipaya"
 wikipedia_url: "https://en.wikipedia.org/wiki/Xipaya_language"
 translations:
+  - translation_iso: ara
+    name: شيبايا
+    auto: true
   - translation_iso: jpn
     name: シパヤ語
     auto: true

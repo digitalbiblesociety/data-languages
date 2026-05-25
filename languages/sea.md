@@ -15,6 +15,9 @@ glottolog_family_name: Austroasiatic
 glottolog_classification: "Austroasiatic > Aslian > Central-Northern Aslian > Senoic > Semai"
 wikipedia_url: "https://en.wikipedia.org/wiki/Semai_language"
 translations:
+  - translation_iso: ara
+    name: سيماي
+    auto: true
   - translation_iso: jpn
     name: セマイ語
   - translation_iso: zho

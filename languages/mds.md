@@ -15,6 +15,9 @@ glottolog_family_name: Manubaran
 glottolog_classification: "Manubaran > Maria (Papua New Guinea)"
 wikipedia_url: "https://en.wikipedia.org/wiki/Maria_language_(Papua_New_Guinea)"
 translations:
+  - translation_iso: ara
+    name: لغة ماريا
+    auto: true
   - translation_iso: jpn
     name: マリア語
     auto: true

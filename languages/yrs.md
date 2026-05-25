@@ -10,6 +10,9 @@ latitude: -2.21222
 longitude: 139.47243
 wikipedia_url: "https://en.wikipedia.org/wiki/Yarsun_language"
 translations:
+  - translation_iso: ara
+    name: اللغة يارسون
+    auto: true
   - translation_iso: jpn
     name: ヤルスン語
     auto: true

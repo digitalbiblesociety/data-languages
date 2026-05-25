@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > North New Guinea linkage > Ngero-Vitiaz linkage > Vitiaz linkage > Southwest New Britain linkage > Arawe-Pasismanua > Pasismanua > Miu"
 wikipedia_url: "https://en.wikipedia.org/wiki/Miu_language"
 translations:
+  - translation_iso: ara
+    name: لغة ميو
+    auto: true
   - translation_iso: jpn
     name: ミウ語
     auto: true

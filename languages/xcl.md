@@ -15,6 +15,9 @@ glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Armenic > Classical-Middle Armenian"
 wikipedia_url: "https://en.wikipedia.org/wiki/Classical_Armenian"
 translations:
+  - translation_iso: ara
+    name: الأرمنية الكلاسيكية
+    auto: true
   - translation_iso: jpn
     name: 古典アルメニア語
   - translation_iso: kor

@@ -14,6 +14,9 @@ glottolog_family_id: khoe1240
 glottolog_family_name: Khoe-Kwadi
 glottolog_classification: "Khoe-Kwadi > Khoe > Non-Khoekhoe > West-Kxoe > Kxoe-Ani > //Ani"
 translations:
+  - translation_iso: ara
+    name: لغة ǁAni
+    auto: true
   - translation_iso: jpn
     name: イアニ語
     auto: true

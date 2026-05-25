@@ -15,6 +15,9 @@ glottolog_family_name: Gunwinyguan
 glottolog_classification: "Gunwinyguan > Eastern Gunwinyguan > Ngandi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ngandi_language"
 translations:
+  - translation_iso: ara
+    name: نجاندي
+    auto: true
   - translation_iso: jpn
     name: ングアンディ語
     auto: true

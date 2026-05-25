@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Southeast Solomonic > Longgu-Malaita-Makira > Malaita-Makira > Sa'a"
 wikipedia_url: "https://en.wikipedia.org/wiki/Sa%CA%BCa_language"
 translations:
+  - translation_iso: ara
+    name: اللغة سآ
+    auto: true
   - translation_iso: jpn
     name: サア語
   - translation_iso: zho

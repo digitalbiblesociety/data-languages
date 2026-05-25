@@ -15,6 +15,9 @@ glottolog_family_name: Southern Daly
 glottolog_classification: "Southern Daly > Nangikurrunggurr"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ngan%27gi_language"
 translations:
+  - translation_iso: ara
+    name: نجان جيتييميري
+    auto: true
   - translation_iso: jpn
     name: ガンギテメリ語
   - translation_iso: zho

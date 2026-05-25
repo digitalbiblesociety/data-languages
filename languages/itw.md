@@ -14,6 +14,9 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Delta Cross > Lower Cross > Nuclear Lower Cross > Central Lower Cross > Ibuoroic > Ito"
 translations:
+  - translation_iso: ara
+    name: إيتو
+    auto: true
   - translation_iso: jpn
     name: イト語
     auto: true

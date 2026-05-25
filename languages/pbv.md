@@ -15,6 +15,9 @@ glottolog_family_name: Austroasiatic
 glottolog_classification: "Austroasiatic > Khasi-Palaung > Khasian > Khasi-Pnar-Lyngngam > Khasi-Pnar > Pnar"
 wikipedia_url: "https://en.wikipedia.org/wiki/Pnar_language"
 translations:
+  - translation_iso: ara
+    name: اللغة بنار
+    auto: true
   - translation_iso: hin
     name: प्नार भाषा
   - translation_iso: jpn

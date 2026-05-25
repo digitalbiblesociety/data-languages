@@ -15,6 +15,9 @@ glottolog_family_name: Huitotoan
 glottolog_classification: "Huitotoan > Nonuya-Ocaina > Ocaina"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ocaina_language"
 translations:
+  - translation_iso: ara
+    name: اللغة أوكاينا
+    auto: true
   - translation_iso: jpn
     name: オカイナ語
   - translation_iso: zho

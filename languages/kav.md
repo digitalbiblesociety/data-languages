@@ -10,6 +10,9 @@ latitude: -8.19121
 longitude: -70.38221
 wikipedia_url: "https://en.wikipedia.org/wiki/Katuk%C3%ADna_language"
 translations:
+  - translation_iso: ara
+    name: لغة كاتوكينا
+    auto: true
   - translation_iso: jpn
     name: カトゥキナ語
     auto: true

@@ -15,6 +15,9 @@ glottolog_family_name: Nilotic
 glottolog_classification: "Nilotic > Eastern Nilotic > Teso-Lotuxo-Maa > Lotuxo-Maa > Lotuxo > Lotuko-Lokoya > Otuho"
 wikipedia_url: "https://en.wikipedia.org/wiki/Otuho_language"
 translations:
+  - translation_iso: ara
+    name: لغة وتوهو
+    auto: true
   - translation_iso: jpn
     name: ロトゥゴ語
   - translation_iso: zho

@@ -15,6 +15,9 @@ glottolog_family_name: Taulil-Butam
 glottolog_classification: "Taulil-Butam > Taulil"
 wikipedia_url: "https://en.wikipedia.org/wiki/Taulil_language"
 translations:
+  - translation_iso: ara
+    name: تاوليل
+    auto: true
   - translation_iso: jpn
     name: タウリル語
   - translation_iso: zho

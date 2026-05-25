@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Northern Luzon > Meso-Cordilleran > South-Central Cordilleran > Southern Cordilleran > West Southern Cordilleran > Nuclear Southern Cordilleran > Ibaloi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ibaloi_language"
 translations:
+  - translation_iso: ara
+    name: إيبالوي
+    auto: true
   - translation_iso: jpn
     name: イバロイ語
     auto: true

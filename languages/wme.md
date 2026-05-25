@@ -15,6 +15,9 @@ glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Himalayish > Mahakiranti > Kiranti > Chaurasiya > Wambule"
 wikipedia_url: "https://en.wikipedia.org/wiki/Wambule_language"
 translations:
+  - translation_iso: ara
+    name: وامبولي
+    auto: true
   - translation_iso: jpn
     name: ワンブレ語
     auto: true

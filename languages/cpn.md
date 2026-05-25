@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Kwa Volta-Congo > Nyo > Potou-Tano > Tano > Guang > South Guang > Hill South Guang > Gua-Cherepon > Cherepon"
 wikipedia_url: "https://en.wikipedia.org/wiki/Cherepon_language"
 translations:
+  - translation_iso: ara
+    name: الشيربون
+    auto: true
   - translation_iso: jpn
     name: チェレポン語
     auto: true

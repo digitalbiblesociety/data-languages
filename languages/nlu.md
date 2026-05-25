@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Kwa Volta-Congo > Nyo > Potou-Tano > Tano > Guang > North Guang > Oti North Guang > River Oti North Guang > Nchumbulu-Dwang > Nchumbulu"
 wikipedia_url: "https://en.wikipedia.org/wiki/Nchumbulu_language"
 translations:
+  - translation_iso: ara
+    name: نشومبولو
+    auto: true
   - translation_iso: jpn
     name: ンチュンブル語
   - translation_iso: zho

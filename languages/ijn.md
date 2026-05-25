@@ -15,6 +15,9 @@ glottolog_family_name: Ijoid
 glottolog_classification: "Ijoid > Ijo > Eastern Ijo > Nikio > Kio Ijo > Kalabari"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kalabari_language"
 translations:
+  - translation_iso: ara
+    name: كالابري
+    auto: true
   - translation_iso: jpn
     name: カラバリ語
   - translation_iso: zho

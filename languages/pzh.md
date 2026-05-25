@@ -14,6 +14,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Northwest Formosan > Pazeh-Kahabu"
 wikipedia_url: "https://en.wikipedia.org/wiki/Pazeh%E2%80%93Kaxabu_language"
 translations:
+  - translation_iso: ara
+    name: اللغة بازيه
+    auto: true
   - translation_iso: jpn
     name: パゼッヘ語
   - translation_iso: kor

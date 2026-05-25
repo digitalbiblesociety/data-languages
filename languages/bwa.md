@@ -14,6 +14,9 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Southern Melanesian > New Caledonian > Mainland New Caledonian > Northern New Caledonian > Mid-Northern New Caledonian > Voh-Kone-Cem-Pac > Voh-Kone > Bwatooic > Haeke-Bwatoo > Bwatoo"
 translations:
+  - translation_iso: ara
+    name: بواتو
+    auto: true
   - translation_iso: jpn
     name: ブワトゥー語
     auto: true

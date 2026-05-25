@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > Central-Western Bantu > Njila > Northern Njila > Mbundu (H.20) > Kibala"
 wikipedia_url: "https://en.wikipedia.org/wiki/Bolo_language"
 translations:
+  - translation_iso: ara
+    name: كيبالا
+    auto: true
   - translation_iso: jpn
     name: キバラ語
     auto: true

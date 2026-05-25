@@ -15,6 +15,9 @@ glottolog_family_name: Arawakan
 glottolog_classification: "Arawakan > Negro-Roraima > Bahuanaic > Xiriâna"
 wikipedia_url: "https://en.wikipedia.org/wiki/Bahuana_language"
 translations:
+  - translation_iso: ara
+    name: شيريانا
+    auto: true
   - translation_iso: jpn
     name: シリアナ語 (アラワク)
   - translation_iso: zho

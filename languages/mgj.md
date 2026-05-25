@@ -14,6 +14,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Delta Cross > Central Delta > Unclassified Central Delta > Abureni"
 wikipedia_url: "https://en.wikipedia.org/wiki/Abureni_language"
 translations:
+  - translation_iso: ara
+    name: لغة أبوريني
+    auto: true
   - translation_iso: jpn
     name: アブレニ語
     auto: true

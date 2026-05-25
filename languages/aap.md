@@ -15,6 +15,9 @@ glottolog_family_name: Cariban
 glottolog_classification: "Cariban > Pekodian > Xinguan > Pará Arára"
 wikipedia_url: "https://en.wikipedia.org/wiki/Par%C3%A1_Ar%C3%A1ra_language"
 translations:
+  - translation_iso: ara
+    name: لغة پارا أرارا
+    auto: true
   - translation_iso: jpn
     name: パラー・アララ語
   - translation_iso: zho

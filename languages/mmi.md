@@ -15,6 +15,9 @@ glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Madang > Croisilles > Greater Northern Adelbert > Northern Adelbert > Kumil-Tibor > Tibor > Nuclear Tibor > Hember Avu"
 wikipedia_url: "https://en.wikipedia.org/wiki/Hember_Avu_language"
 translations:
+  - translation_iso: ara
+    name: لغة موسار
+    auto: true
   - translation_iso: jpn
     name: ムサル語
     auto: true

@@ -15,6 +15,9 @@ glottolog_family_name: Miwok-Costanoan
 glottolog_classification: "Miwok-Costanoan > Miwokan > Eastern Miwokan > Plains Miwok"
 wikipedia_url: "https://en.wikipedia.org/wiki/Plains_Miwok_language"
 translations:
+  - translation_iso: ara
+    name: اللغة ميووك البلايينز
+    auto: true
   - translation_iso: jpn
     name: プレーンズミウォク語
     auto: true

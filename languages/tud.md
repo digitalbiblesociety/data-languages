@@ -12,6 +12,9 @@ longitude: -41.16665
 glottocode: tuxa1239
 wikipedia_url: "https://en.wikipedia.org/wiki/Tux%C3%A1_language"
 translations:
+  - translation_iso: ara
+    name: توكسا
+    auto: true
   - translation_iso: jpn
     name: トデラ語
     auto: true

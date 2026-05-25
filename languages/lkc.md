@@ -15,6 +15,9 @@ glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Burmo-Qiangic > Lolo-Burmese > Loloish > Lahoid > Kucong"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kucong_language"
 translations:
+  - translation_iso: ara
+    name: لغة وكونج
+    auto: true
   - translation_iso: jpn
     name: クコン語
     auto: true

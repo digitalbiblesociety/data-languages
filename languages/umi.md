@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > North Borneo Malayo-Polynesian > Central Sarawak > Punan-Muller-Schwaner > Punan > Bukat-Ukit-Beketan-Lugat-Lisum > Ukit"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ukit_language"
 translations:
+  - translation_iso: ara
+    name: أوكيت
+    auto: true
   - translation_iso: jpn
     name: セル語
   - translation_iso: zho

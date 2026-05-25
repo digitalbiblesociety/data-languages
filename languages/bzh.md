@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > North New Guinea linkage > Huon Gulf > South Huon Gulf linkage > Buang linkage > Mapos-Mangga-Wagau > Mapos Buang"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mapos_Buang_language"
 translations:
+  - translation_iso: ara
+    name: ماپوس بوانج
+    auto: true
   - translation_iso: jpn
     name: マポス・ブアング語
     auto: true

@@ -15,6 +15,9 @@ glottolog_family_name: Athabaskan-Eyak-Tlingit
 glottolog_classification: "Athabaskan-Eyak-Tlingit > Athabaskan-Eyak > Athabaskan > Central British Columbia Athabaskan > Carrieric > Dakelh > Southern Carrier"
 wikipedia_url: "https://en.wikipedia.org/wiki/Southern_Carrier_language"
 translations:
+  - translation_iso: ara
+    name: كاريير جنوبية
+    auto: true
   - translation_iso: jpn
     name: 南カリエ語
     auto: true

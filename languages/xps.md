@@ -14,6 +14,9 @@ glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Anatolian > Luvo-Lydian > Luvo-Palaic > Luvic > Unclassified Luvic > Pisidian"
 wikipedia_url: "https://en.wikipedia.org/wiki/Pisidian_language"
 translations:
+  - translation_iso: ara
+    name: بيسيدية
+    auto: true
   - translation_iso: jpn
     name: ピシディア語
   - translation_iso: kor

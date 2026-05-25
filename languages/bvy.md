@@ -14,6 +14,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Greater Central Philippine > Central Philippine > Bisayan > Central Bisayan > Warayan > Samar-Waray > Baybayanon"
 wikipedia_url: "https://en.wikipedia.org/wiki/Baybay_language"
 translations:
+  - translation_iso: ara
+    name: باي‌بايانون
+    auto: true
   - translation_iso: jpn
     name: バイバヤノン語
     auto: true

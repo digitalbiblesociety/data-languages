@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > Central-Western Bantu > North Zaire River > Inner Basin Bantu > Keleic > Kele-Poke > Kele-Lombo > Lombo"
 wikipedia_url: "https://en.wikipedia.org/wiki/Lombo_language"
 translations:
+  - translation_iso: ara
+    name: لغة ومبو
+    auto: true
   - translation_iso: jpn
     name: Lombo語
   - translation_iso: zho

@@ -12,6 +12,9 @@ longitude: 141.97768
 glottocode: suar1238
 wikipedia_url: "https://en.wikipedia.org/wiki/Suarmin_language"
 translations:
+  - translation_iso: ara
+    name: سوارمين
+    auto: true
   - translation_iso: jpn
     name: アサバ語
     auto: true

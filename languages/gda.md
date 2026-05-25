@@ -14,6 +14,9 @@ glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Indo-Aryan > Middle-Modern Indo-Aryan > Continental Indo-Aryan > Midlands Indo-Aryan > Apabhramsic > Gujarati-Rajasthani > Rajasthani > Mewaric > Gade Lohar"
 translations:
+  - translation_iso: ara
+    name: جادي لوهار
+    auto: true
   - translation_iso: jpn
     name: ガデ・ロハール語
   - translation_iso: zho

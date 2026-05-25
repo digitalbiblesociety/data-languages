@@ -14,6 +14,9 @@ glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Burmo-Qiangic > Lolo-Burmese > Loloish > Hani-Jino > Jino > Buyuan Jinuo"
 translations:
+  - translation_iso: ara
+    name: لغة بويوان جينو
+    auto: true
   - translation_iso: jpn
     name: ブユアン・ジヌオ語
     auto: true

@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Central Luzon > Sambalic > Tina-Bolinao > Bolinao"
 wikipedia_url: "https://en.wikipedia.org/wiki/Bolinao_language"
 translations:
+  - translation_iso: ara
+    name: اللغة بولينياو
+    auto: true
   - translation_iso: jpn
     name: ボリナオ語
   - translation_iso: zho

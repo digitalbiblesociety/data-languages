@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Celebic > Kaili-Wolio > Southern Kaili-Wolio > Island Kaili-Wolio > Kalao-Laiyolo > Laiyolo"
 wikipedia_url: "https://en.wikipedia.org/wiki/Laiyolo_language"
 translations:
+  - translation_iso: ara
+    name: لغة اييولو
+    auto: true
   - translation_iso: jpn
     name: ライヨロ語
     auto: true

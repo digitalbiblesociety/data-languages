@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Celebic > Greater Eastern Celebic > Eastern Celebic > Saluan-Banggai > Western Saluan-Banggai > Andio"
 wikipedia_url: "https://en.wikipedia.org/wiki/Andio_language"
 translations:
+  - translation_iso: ara
+    name: أندْيو
+    auto: true
   - translation_iso: jpn
     name: アンディオ語
     auto: true

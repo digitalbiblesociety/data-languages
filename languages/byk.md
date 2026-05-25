@@ -14,6 +14,9 @@ glottolog_family_name: Tai-Kadai
 glottolog_classification: "Tai-Kadai > Kam-Tai > Lakkia-Biao > Biaoic > Shidong Biao"
 wikipedia_url: "https://en.wikipedia.org/wiki/Biao_language"
 translations:
+  - translation_iso: ara
+    name: بياو
+    auto: true
   - translation_iso: jpn
     name: 標語
   - translation_iso: zho

@@ -15,6 +15,9 @@ glottolog_family_name: Geelvink Bay
 glottolog_classification: "Geelvink Bay > Demisa"
 wikipedia_url: "https://en.wikipedia.org/wiki/Demisa_language"
 translations:
+  - translation_iso: ara
+    name: ديميسا
+    auto: true
   - translation_iso: jpn
     name: デミサ語
     auto: true

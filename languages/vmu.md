@@ -14,6 +14,9 @@ glottolog_family_id: pama1250
 glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > Yimidhirr-Yalanji-Yidinic > Yalandyic > Muluridyi"
 translations:
+  - translation_iso: ara
+    name: مولوريدي
+    auto: true
   - translation_iso: jpn
     name: ムルイディイ語
     auto: true

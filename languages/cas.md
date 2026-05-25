@@ -12,6 +12,9 @@ longitude: -67.83756
 glottocode: mose1249
 wikipedia_url: "https://en.wikipedia.org/wiki/Moset%C3%A9n%E2%80%93Chimane_language"
 translations:
+  - translation_iso: ara
+    name: تسيماني
+    auto: true
   - translation_iso: jpn
     name: モセテン・チマネ諸語
   - translation_iso: zho

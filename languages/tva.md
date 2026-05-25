@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > Meso Melanesian linkage > New Ireland-Northwest Solomonic linkage > St George linkage > Northwest Solomonic > Choiseul > West Choiseul > Vaghua"
 wikipedia_url: "https://en.wikipedia.org/wiki/Vaghua_language"
 translations:
+  - translation_iso: ara
+    name: فاجوا
+    auto: true
   - translation_iso: jpn
     name: タヴラ語
     auto: true

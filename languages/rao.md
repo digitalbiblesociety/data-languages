@@ -15,6 +15,9 @@ glottolog_family_name: Ramu
 glottolog_classification: "Ramu > Rao"
 wikipedia_url: "https://en.wikipedia.org/wiki/Rao_language"
 translations:
+  - translation_iso: ara
+    name: راو
+    auto: true
   - translation_iso: jpn
     name: ラオ語
   - translation_iso: zho

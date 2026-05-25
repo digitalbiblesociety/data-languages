@@ -15,6 +15,9 @@ glottolog_family_name: Austroasiatic
 glottolog_classification: "Austroasiatic > Mundaic > Gutob-Remo > Bondo"
 wikipedia_url: "https://en.wikipedia.org/wiki/Bonda_language"
 translations:
+  - translation_iso: ara
+    name: بوندو
+    auto: true
   - translation_iso: hin
     name: रेमो भाषा
   - translation_iso: jpn

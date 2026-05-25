@@ -8,6 +8,9 @@ country_name: United States
 status_id: "9"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mohegan-Pequot_language"
 translations:
+  - translation_iso: ara
+    name: موهيجان-بيكوت
+    auto: true
   - translation_iso: jpn
     name: モヘガン・ペクォート語
   - translation_iso: zho

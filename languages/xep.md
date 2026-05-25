@@ -7,6 +7,9 @@ country_id: MX
 country_name: Mexico
 status_id: null
 translations:
+  - translation_iso: ara
+    name: يپيولميك
+    auto: true
   - translation_iso: jpn
     name: エピ・オルメック語
     auto: true

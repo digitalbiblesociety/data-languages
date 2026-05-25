@@ -14,6 +14,9 @@ glottolog_family_name: Mombum-Koneraw
 glottolog_classification: "Mombum-Koneraw > Koneraw"
 wikipedia_url: "https://en.wikipedia.org/wiki/Koneraw_language"
 translations:
+  - translation_iso: ara
+    name: لغة كونيرو
+    auto: true
   - translation_iso: jpn
     name: コネラウ語
     auto: true

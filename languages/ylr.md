@@ -15,6 +15,9 @@ glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > Kalkatungic > Yalarnnga"
 wikipedia_url: "https://en.wikipedia.org/wiki/Yalarnnga_language"
 translations:
+  - translation_iso: ara
+    name: اللغة يالارنغا
+    auto: true
   - translation_iso: jpn
     name: ヤラルンガ語
     auto: true

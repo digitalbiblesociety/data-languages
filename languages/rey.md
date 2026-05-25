@@ -15,6 +15,9 @@ glottolog_family_name: Pano-Tacanan
 glottolog_classification: "Pano-Tacanan > Tacanan > Takanik-Chamik > Takanik > Reyesano"
 wikipedia_url: "https://en.wikipedia.org/wiki/Reyesano_language"
 translations:
+  - translation_iso: ara
+    name: ريسانو
+    auto: true
   - translation_iso: jpn
     name: レイェサノ語
   - translation_iso: zho

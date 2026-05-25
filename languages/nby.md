@@ -15,6 +15,9 @@ glottolog_family_name: Border
 glottolog_classification: "Border > Bewani > Ningera"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ningera_language"
 translations:
+  - translation_iso: ara
+    name: نينجرا
+    auto: true
   - translation_iso: hin
     name: निंगेरा
   - translation_iso: jpn

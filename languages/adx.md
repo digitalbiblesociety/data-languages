@@ -15,6 +15,9 @@ glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Bodic > Bodish > Early Old Tibetan > Middle Old Tibetan > North-Eastern Tibetic > Amdo Tibetan"
 wikipedia_url: "https://en.wikipedia.org/wiki/Amdo_Tibetan"
 translations:
+  - translation_iso: ara
+    name: اللغة التبتية الآمدو
+    auto: true
   - translation_iso: jpn
     name: アムド・チベット語
   - translation_iso: kor

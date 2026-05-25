@@ -12,6 +12,9 @@ longitude: -67.59958
 glottocode: pume1238
 wikipedia_url: "https://en.wikipedia.org/wiki/Pum%C3%A9_language"
 translations:
+  - translation_iso: ara
+    name: بومي
+    auto: true
   - translation_iso: jpn
     name: プメ語
     auto: true

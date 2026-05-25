@@ -15,6 +15,9 @@ glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Kuki-Chin-Naga > Kuki-Chin > Central Kuki-Chin > Core Central Kuki-Chin > Mizoic > Hmaric > Hrangkhol"
 wikipedia_url: "https://en.wikipedia.org/wiki/Hrangkhol_language"
 translations:
+  - translation_iso: ara
+    name: هرانغخول
+    auto: true
   - translation_iso: hin
     name: हरंगखोल भाषा
   - translation_iso: jpn

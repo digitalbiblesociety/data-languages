@@ -15,6 +15,9 @@ glottolog_family_name: Katla-Tima
 glottolog_classification: "Katla-Tima > Katla-Julud > Katla"
 wikipedia_url: "https://en.wikipedia.org/wiki/Katla_language"
 translations:
+  - translation_iso: ara
+    name: لغة كاتلا
+    auto: true
   - translation_iso: jpn
     name: カトラ語
   - translation_iso: zho

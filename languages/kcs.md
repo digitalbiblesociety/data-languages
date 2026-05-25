@@ -15,6 +15,9 @@ glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > West Chadic > West Chadic A > West Chadic A.2-3 > West Chadic A.3 > Goemaic > Talic > Piapung-Koenoem > Koenoem"
 wikipedia_url: "https://en.wikipedia.org/wiki/Koenoem_language"
 translations:
+  - translation_iso: ara
+    name: لغة كويني
+    auto: true
   - translation_iso: jpn
     name: Koenoem語
   - translation_iso: zho

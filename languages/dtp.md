@@ -16,6 +16,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > North Borneo Malayo-Polynesian > Sabahan > Southwest Sabahan > Greater Dusunic > Dusunic > Kadazan-Sugut-Minokok > Kadazan Dusun"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kadazandusun_language"
 translations:
+  - translation_iso: ara
+    name: كاداز دوسون
+    auto: true
   - translation_iso: jpn
     name: 中央ドゥスン語
   - translation_iso: kor

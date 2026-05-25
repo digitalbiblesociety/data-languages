@@ -15,6 +15,9 @@ glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > Biu-Mandara > North Biu-Mandara > Margi-Mandara-Mofu > Mofuic > Mofu > North Mofu"
 wikipedia_url: "https://en.wikipedia.org/wiki/North_Mofu_language"
 translations:
+  - translation_iso: ara
+    name: لغة موفو الشمالية
+    auto: true
   - translation_iso: jpn
     name: 北モフ語
     auto: true

@@ -7,6 +7,9 @@ country_id: AU
 country_name: Australia
 status_id: 8b
 translations:
+  - translation_iso: ara
+    name: لغة أندّاجين
+    auto: true
   - translation_iso: jpn
     name: アンダジン語
     auto: true

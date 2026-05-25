@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Delta Cross > Upper Cross > Agoi-Doko-Iyoniyong > Robambami"
 wikipedia_url: "https://en.wikipedia.org/wiki/Agoi_language"
 translations:
+  - translation_iso: ara
+    name: أغوي
+    auto: true
   - translation_iso: jpn
     name: アゴイ語
     auto: true

@@ -15,6 +15,9 @@ glottolog_family_name: Tupian
 glottolog_classification: "Tupian > Arikem-Tupari > Tuparic > Nuclear Tuparic > Wayoro-Tupari > Tuparí"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tupari_language"
 translations:
+  - translation_iso: ara
+    name: توباري
+    auto: true
   - translation_iso: jpn
     name: トゥパリ語
     auto: true

@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Admiralty Islands > Eastern Admiralty Islands > Manus > West Manus > West Manus I > Hermit"
 wikipedia_url: "https://en.wikipedia.org/wiki/Hermit_language"
 translations:
+  - translation_iso: ara
+    name: لغة يرميت
+    auto: true
   - translation_iso: jpn
     name: ハーミット語
     auto: true

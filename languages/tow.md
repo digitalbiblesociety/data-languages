@@ -15,6 +15,9 @@ glottolog_family_name: Kiowa-Tanoan
 glottolog_classification: "Kiowa-Tanoan > Towa"
 wikipedia_url: "https://en.wikipedia.org/wiki/Jemez_language"
 translations:
+  - translation_iso: ara
+    name: جيميز
+    auto: true
   - translation_iso: jpn
     name: トワ語
   - translation_iso: zho

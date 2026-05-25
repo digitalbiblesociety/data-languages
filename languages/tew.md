@@ -15,6 +15,9 @@ glottolog_family_name: Kiowa-Tanoan
 glottolog_classification: "Kiowa-Tanoan > Tewa > Rio Grande Tewa"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tewa_language"
 translations:
+  - translation_iso: ara
+    name: تيوا
+    auto: true
   - translation_iso: hin
     name: तेवा भाषा
   - translation_iso: jpn

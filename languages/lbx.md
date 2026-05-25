@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Basap-Greater Barito > Greater Barito linkage > North East Greater Barito > Lawangan"
 wikipedia_url: "https://en.wikipedia.org/wiki/Lawangan_language"
 translations:
+  - translation_iso: ara
+    name: لاوانجان
+    auto: true
   - translation_iso: jpn
     name: ラワンガン語
     auto: true

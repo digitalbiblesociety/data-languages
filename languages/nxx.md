@@ -15,6 +15,9 @@ glottolog_family_name: Sentanic
 glottolog_classification: "Sentanic > Nuclear Sentanic > Sentani-Nafri > Nafri"
 wikipedia_url: "https://en.wikipedia.org/wiki/Nafri_language"
 translations:
+  - translation_iso: ara
+    name: نافري
+    auto: true
   - translation_iso: jpn
     name: ナフリ語
     auto: true

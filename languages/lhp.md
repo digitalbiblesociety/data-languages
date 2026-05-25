@@ -15,6 +15,9 @@ glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Dhimal-Lhokpu-Toto > Lhokpu"
 wikipedia_url: "https://en.wikipedia.org/wiki/Lhokpu_language"
 translations:
+  - translation_iso: ara
+    name: لغة هوكپو
+    auto: true
   - translation_iso: jpn
     name: ロプ語
   - translation_iso: zho

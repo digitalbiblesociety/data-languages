@@ -14,6 +14,9 @@ glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Kainantu-Goroka > Kainantu > Unclassified Kainantu > Kambaira"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kambaira_language"
 translations:
+  - translation_iso: ara
+    name: كامبايرا
+    auto: true
   - translation_iso: jpn
     name: カンバイラ語
     auto: true

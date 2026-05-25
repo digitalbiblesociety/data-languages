@@ -15,6 +15,9 @@ glottolog_family_name: Otomanguean
 glottolog_classification: "Otomanguean > Eastern Otomanguean > Popoloca-Zapotecan > Popolocan-Mazatecan > Mazatecan > Northwest Alta Mazatec > San Jerónimo Tecóatl Mazatec"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tec%C3%B3atl_Mazatec"
 translations:
+  - translation_iso: ara
+    name: لغة ان يرنيمو يكاتل ازاتيك
+    auto: true
   - translation_iso: jpn
     name: サン・ヘロニモ・テコアトル・マサテク語
     auto: true

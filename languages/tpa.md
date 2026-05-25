@@ -14,6 +14,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > Papuan Tip linkage > Nuclear Papuan Tip linkage > North Papuan Mainland-D'Entrecasteaux linkage > Are-Taupota linkage > Taupota linkage > Nuclear Taupota linkage > Eastern Taupota > Taupota-Waiema > Taupota"
 wikipedia_url: "https://en.wikipedia.org/wiki/Taupota_language"
 translations:
+  - translation_iso: ara
+    name: تاوبوتا
+    auto: true
   - translation_iso: jpn
     name: タウポタ語
   - translation_iso: zho

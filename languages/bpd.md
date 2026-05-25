@@ -14,6 +14,9 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Cameroun-Ubangian > Ubangi > Ubangi Ka > Bandaic > Nuclear Bandaic > Central Bandaic > Core Central Bandaic > Lindaic > Banda-Banda"
 translations:
+  - translation_iso: ara
+    name: باندا باندا
+    auto: true
   - translation_iso: jpn
     name: バンダ・バンダ語
     auto: true

@@ -15,6 +15,9 @@ glottolog_family_name: Uto-Aztecan
 glottolog_classification: "Uto-Aztecan > Southern Uto-Aztecan > Cahitan > Mayo"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mayo_language"
 translations:
+  - translation_iso: ara
+    name: لغة مايو
+    auto: true
   - translation_iso: jpn
     name: マヨ語
   - translation_iso: zho

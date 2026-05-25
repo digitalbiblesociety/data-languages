@@ -14,6 +14,9 @@ glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Kuki-Chin-Naga > Kuki-Chin > Peripheral Kuki-Chin > Northeastern Kuki-Chin > Sizangic > Gangte-Vaiphei > Gangte"
 wikipedia_url: "https://en.wikipedia.org/wiki/Gangte_language"
 translations:
+  - translation_iso: ara
+    name: غآنجتإ
+    auto: true
   - translation_iso: hin
     name: गांटे भाषा
   - translation_iso: jpn

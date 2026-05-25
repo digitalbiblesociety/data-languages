@@ -14,6 +14,9 @@ glottolog_family_id: pama1250
 glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > Paman > Norman Pama > Kuthant-Gurdjar > Rib-Gurdjar > Areba"
 translations:
+  - translation_iso: ara
+    name: لغة أريبا
+    auto: true
   - translation_iso: jpn
     name: アレバ語
     auto: true

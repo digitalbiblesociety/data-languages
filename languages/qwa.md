@@ -14,6 +14,9 @@ glottolog_family_id: quec1387
 glottolog_family_name: Quechuan
 glottolog_classification: "Quechuan > Quechua I > Central Quechua I > Huaylay > Corongo-Sihuas > Corongo Ancash Quechua"
 translations:
+  - translation_iso: ara
+    name: اللغة كويتشوا كورونجو أنكاش
+    auto: true
   - translation_iso: jpn
     name: コロンゴアンカシュケチュア語
     auto: true

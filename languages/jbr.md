@@ -14,6 +14,9 @@ glottolog_family_name: Tor-Orya
 glottolog_classification: "Tor-Orya > Tor > Coastal Tor > Jofotek-Bromnya"
 wikipedia_url: "https://en.wikipedia.org/wiki/Jofotek-Bromnya_language"
 translations:
+  - translation_iso: ara
+    name: لغة جوفوتيك برومنيا
+    auto: true
   - translation_iso: jpn
     name: ジョフォテク・ブロムニャ語
     auto: true

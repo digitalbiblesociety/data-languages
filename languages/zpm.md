@@ -15,6 +15,9 @@ glottolog_family_name: Otomanguean
 glottolog_classification: "Otomanguean > Eastern Otomanguean > Popoloca-Zapotecan > Zapotecan > Zapotec > Core Zapotec > Narrow Core Zapotec > Central Core Zapotec > Cisyautepequeño > Mixtepec-Quioquitani-Quieri Zapotec > Mixtepec Zapotec"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mixtepec_Zapotec"
 translations:
+  - translation_iso: ara
+    name: زابوتيك ميكستيبيك
+    auto: true
   - translation_iso: jpn
     name: ミステペック・サポテク語
     auto: true

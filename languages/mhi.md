@@ -15,6 +15,9 @@ glottolog_family_name: Central Sudanic
 glottolog_classification: "Central Sudanic > Moru-Madi > Southern Moru-Madi > Ma'di"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ma%CA%BCdi_language"
 translations:
+  - translation_iso: ara
+    name: لغة مادي
+    auto: true
   - translation_iso: jpn
     name: マディ語
   - translation_iso: kor

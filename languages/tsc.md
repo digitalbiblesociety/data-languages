@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > East Bantu > Southern Bantu > Nuclear Southern Bantu > Dimsuffix Southern Bantu > Nguni-Tsonga-Copi > Tsonga-Copi > Tswa-Ronga (S.50) > Tswa"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tswa_language"
 translations:
+  - translation_iso: ara
+    name: تسوا
+    auto: true
   - translation_iso: jpn
     name: ツワ語
   - translation_iso: zho

@@ -8,6 +8,9 @@ country_name: Croatia
 status_id: null
 wikipedia_url: "https://en.wikipedia.org/wiki/Liburnian_language"
 translations:
+  - translation_iso: ara
+    name: ليبيرنية
+    auto: true
   - translation_iso: jpn
     name: リブルニア語
   - translation_iso: zho

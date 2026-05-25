@@ -15,6 +15,9 @@ glottolog_family_name: Geelvink Bay
 glottolog_classification: "Geelvink Bay > Barapasi-Sauri-Kofei > Sauri-Kofei > Sauri"
 wikipedia_url: "https://en.wikipedia.org/wiki/Sauri_language"
 translations:
+  - translation_iso: ara
+    name: اللغة ساوري
+    auto: true
   - translation_iso: jpn
     name: バハササウリ語
     auto: true

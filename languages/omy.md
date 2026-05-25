@@ -8,6 +8,9 @@ latitude: -0.648259
 longitude: 103.353479
 wikipedia_url: "https://en.wikipedia.org/wiki/Old_Malay_language"
 translations:
+  - translation_iso: ara
+    name: اللغة الملايو القديمة
+    auto: true
   - translation_iso: jpn
     name: 古マレー語
     auto: true

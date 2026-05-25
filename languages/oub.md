@@ -15,6 +15,9 @@ glottolog_family_name: Kru
 glottolog_classification: "Kru > Greater Western Kru > Western Kru > Grebo-Aizi > Grebo > Ivorian Grebo > Glio-Oubi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Glio-Ubi_language"
 translations:
+  - translation_iso: ara
+    name: اللغة غليو أوبي
+    auto: true
   - translation_iso: jpn
     name: ウビ語
   - translation_iso: zho

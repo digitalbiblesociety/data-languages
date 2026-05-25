@@ -15,6 +15,9 @@ glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Iranian-Nuristani > Iranian > Central Iranian PBS > Central Iranian PB > Northwestern Iranian > Adharic > Tatic > Northern Tatic > Karingani-Kalasuri-Khoynarudi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Karingani_language"
 translations:
+  - translation_iso: ara
+    name: لغة كارينجاني
+    auto: true
   - translation_iso: jpn
     name: カリンガニ語
     auto: true

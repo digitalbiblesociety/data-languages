@@ -15,6 +15,9 @@ glottolog_family_name: Pano-Tacanan
 glottolog_classification: "Pano-Tacanan > Panoan > Mainline Pano > Cashibo-Cacataibo"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kashibo_language"
 translations:
+  - translation_iso: ara
+    name: الكاشيبو-كاكاتايبو
+    auto: true
   - translation_iso: jpn
     name: カシボ・カカタイボ語
     auto: true

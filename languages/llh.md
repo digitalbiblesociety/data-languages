@@ -14,6 +14,9 @@ glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Burmo-Qiangic > Lolo-Burmese > Loloish > Ni-Li-Kazhouish > Lisoid > Unclassified Lisoid > Lamu"
 wikipedia_url: "https://en.wikipedia.org/wiki/Lamu_language"
 translations:
+  - translation_iso: ara
+    name: لغة امو
+    auto: true
   - translation_iso: jpn
     name: ラムー語
     auto: true

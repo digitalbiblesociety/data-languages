@@ -15,6 +15,9 @@ glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Iranian-Nuristani > Nuristani > Ashkun-Kate-Waigali > Nuristani Kalasha-Tregami > Tregami"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tregami_language"
 translations:
+  - translation_iso: ara
+    name: تريغامي
+    auto: true
   - translation_iso: hin
     name: त्रेगामी भाषा
   - translation_iso: jpn

@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Benue-Congo Plateau > Yukubenic > Yukuben"
 wikipedia_url: "https://en.wikipedia.org/wiki/Yukuben_language"
 translations:
+  - translation_iso: ara
+    name: يوكوبين
+    auto: true
   - translation_iso: jpn
     name: ユクベン語
     auto: true

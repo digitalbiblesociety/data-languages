@@ -10,6 +10,9 @@ latitude: 27.05426
 longitude: 87.21677
 wikipedia_url: "https://en.wikipedia.org/wiki/Lambichhong_language"
 translations:
+  - translation_iso: ara
+    name: لغة امبيكههونج
+    auto: true
   - translation_iso: jpn
     name: ラムビッチョン語
     auto: true

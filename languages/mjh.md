@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > East Bantu > Tumbuka-Sena-Nyanja > Sena-Nyanja > Nyanjaic > Mwera (Nyasa)"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mbamba_Bay_language"
 translations:
+  - translation_iso: ara
+    name: لغة مويرا
+    auto: true
   - translation_iso: jpn
     name: ムウェラ語
     auto: true

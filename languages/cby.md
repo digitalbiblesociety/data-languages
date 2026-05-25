@@ -15,6 +15,9 @@ glottolog_family_name: Unclassifiable
 glottolog_classification: "Unclassifiable > Carabayo"
 wikipedia_url: "https://en.wikipedia.org/wiki/Carabayo_language"
 translations:
+  - translation_iso: ara
+    name: الكاراباو
+    auto: true
   - translation_iso: jpn
     name: カラバヨ語
     auto: true

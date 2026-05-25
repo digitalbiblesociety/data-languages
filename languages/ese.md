@@ -15,6 +15,9 @@ glottolog_family_name: Pano-Tacanan
 glottolog_classification: "Pano-Tacanan > Tacanan > Takanik-Chamik > Ese Ejja"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ese_Ejja_language"
 translations:
+  - translation_iso: ara
+    name: الإسي إجا
+    auto: true
   - translation_iso: jpn
     name: エセエハ語
   - translation_iso: zho

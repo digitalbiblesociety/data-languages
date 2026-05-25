@@ -15,6 +15,9 @@ glottolog_family_name: Mongolic-Khitan
 glottolog_classification: "Mongolic-Khitan > Mongolic > Southern Periphery Mongolic > Shirongol > Baoanic > Dongxiang"
 wikipedia_url: "https://en.wikipedia.org/wiki/Santa_language"
 translations:
+  - translation_iso: ara
+    name: دونجشيانج
+    auto: true
   - translation_iso: jpn
     name: サンタ語
   - translation_iso: kor

@@ -15,6 +15,9 @@ glottolog_family_name: Manubaran
 glottolog_classification: "Manubaran > Doromu-Koki"
 wikipedia_url: "https://en.wikipedia.org/wiki/Doromu_language"
 translations:
+  - translation_iso: ara
+    name: لغة دوروموو كوكي
+    auto: true
   - translation_iso: jpn
     name: ドロムー・コキ語
     auto: true

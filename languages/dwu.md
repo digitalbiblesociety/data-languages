@@ -7,6 +7,9 @@ country_id: AU
 country_name: Australia
 status_id: null
 translations:
+  - translation_iso: ara
+    name: دهوال
+    auto: true
   - translation_iso: jpn
     name: ドゥワル語
     auto: true

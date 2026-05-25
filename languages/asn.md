@@ -15,6 +15,9 @@ glottolog_family_name: Tupian
 glottolog_classification: "Tupian > Eastern Tupian > Maweti-Guarani > Aweti-Guarani > Tupi-Guarani > Tupi-Guarani Subgroup V > Xingú Asuriní"
 wikipedia_url: "https://en.wikipedia.org/wiki/Xingu_Asurini_language"
 translations:
+  - translation_iso: ara
+    name: اللغة أسورينيه شينجو
+    auto: true
   - translation_iso: jpn
     name: シング・アスリニ語
     auto: true

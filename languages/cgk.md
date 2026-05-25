@@ -15,6 +15,9 @@ glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Bodic > Bodish > Early Old Tibetan > Middle Old Tibetan > Late Old Tibetan > Southern Tibetic > Dzongkhic > Chocangacakha"
 wikipedia_url: "https://en.wikipedia.org/wiki/Chochangachakha_language"
 translations:
+  - translation_iso: ara
+    name: الشوتشانغاكاخا
+    auto: true
   - translation_iso: jpn
     name: チョチャガチャ語
   - translation_iso: zho

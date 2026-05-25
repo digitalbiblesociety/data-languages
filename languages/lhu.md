@@ -15,6 +15,9 @@ glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Burmo-Qiangic > Lolo-Burmese > Loloish > Lahoid > Lahu"
 wikipedia_url: "https://en.wikipedia.org/wiki/Lahu_language"
 translations:
+  - translation_iso: ara
+    name: لغة اهو
+    auto: true
   - translation_iso: jpn
     name: ラフ語
   - translation_iso: kor

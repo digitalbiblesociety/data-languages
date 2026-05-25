@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > North and Central Vanuatu > Northern Vanuatu > Espiritu Santo > West Santo > Tolomako"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tolomako_language"
 translations:
+  - translation_iso: ara
+    name: تولوماكو
+    auto: true
   - translation_iso: jpn
     name: トロマコ語
     auto: true

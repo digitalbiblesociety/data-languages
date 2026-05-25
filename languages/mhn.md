@@ -16,6 +16,9 @@ glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Germanic > Northwest Germanic > West Germanic > High German > Upper German > Middle-Modern High German > Modern High German > Bairisch > Global South Bavarian > Mòcheno"
 wikipedia_url: "https://en.wikipedia.org/wiki/M%C3%B2cheno_language"
 translations:
+  - translation_iso: ara
+    name: لغة موتشينو
+    auto: true
   - translation_iso: jpn
     name: モケーニ語
   - translation_iso: zho

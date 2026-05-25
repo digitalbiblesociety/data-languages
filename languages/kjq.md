@@ -14,6 +14,9 @@ glottolog_family_id: kere1287
 glottolog_family_name: Keresan
 glottolog_classification: "Keresan > Western Keres"
 translations:
+  - translation_iso: ara
+    name: لغة كيريس الغربية
+    auto: true
   - translation_iso: jpn
     name: ウェスタン・ケレス語
     auto: true

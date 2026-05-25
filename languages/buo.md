@@ -15,6 +15,9 @@ glottolog_family_name: South Bougainville
 glottolog_classification: "South Bougainville > Buinic > Buin > Terei"
 wikipedia_url: "https://en.wikipedia.org/wiki/Terei_language"
 translations:
+  - translation_iso: ara
+    name: تيري
+    auto: true
   - translation_iso: jpn
     name: ブイン語
   - translation_iso: zho

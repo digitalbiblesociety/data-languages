@@ -15,6 +15,9 @@ glottolog_family_name: Tai-Kadai
 glottolog_classification: "Tai-Kadai > Kadaic > Southwestern Kra > Western Kra > Gauic > Gelaoic > Central Gelao-Qau"
 wikipedia_url: "https://en.wikipedia.org/wiki/Qau_language"
 translations:
+  - translation_iso: ara
+    name: قآو
+    auto: true
   - translation_iso: jpn
     name: カウ語
     auto: true

@@ -15,6 +15,9 @@ glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > Biu-Mandara > North Biu-Mandara > Margi-Mandara-Mofu > Mofuic > Tokombere > Madaic > Muyang"
 wikipedia_url: "https://en.wikipedia.org/wiki/Muyang_language"
 translations:
+  - translation_iso: ara
+    name: لغة موايانج
+    auto: true
   - translation_iso: jpn
     name: ムヤン語
     auto: true

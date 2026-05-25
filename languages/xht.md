@@ -12,6 +12,9 @@ longitude: 40.333333
 glottocode: hatt1246
 wikipedia_url: "https://en.wikipedia.org/wiki/Hattic_language"
 translations:
+  - translation_iso: ara
+    name: هاتتيك
+    auto: true
   - translation_iso: jpn
     name: ハッティ語
   - translation_iso: kor

@@ -15,6 +15,9 @@ glottolog_family_name: Timor-Alor-Pantar
 glottolog_classification: "Timor-Alor-Pantar > Alor-Pantar > Nuclear Alor-Pantar > West Alor-Straits-Pantar > Pantar > Teiwa-Sar > Teiwa"
 wikipedia_url: "https://en.wikipedia.org/wiki/Teiwa_language"
 translations:
+  - translation_iso: ara
+    name: توا إندونيسيا
+    auto: true
   - translation_iso: jpn
     name: テワ語
     auto: true

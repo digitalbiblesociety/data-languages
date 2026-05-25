@@ -15,6 +15,9 @@ glottolog_family_name: Angan
 glottolog_classification: "Angan > Nuclear Angan > Kapau-Menya > Hamtai"
 wikipedia_url: "https://en.wikipedia.org/wiki/Hamtai_language"
 translations:
+  - translation_iso: ara
+    name: هامتاي
+    auto: true
   - translation_iso: jpn
     name: ハムタイ語
   - translation_iso: zho

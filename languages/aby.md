@@ -15,6 +15,9 @@ glottolog_family_name: Yareban
 glottolog_classification: "Yareban > Doriri-Abia > Aneme Wake"
 wikipedia_url: "https://en.wikipedia.org/wiki/Aneme_Wake_language"
 translations:
+  - translation_iso: ara
+    name: لغة أنيم ويك
+    auto: true
   - translation_iso: jpn
     name: アネメウェイク語
     auto: true

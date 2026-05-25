@@ -15,6 +15,9 @@ glottolog_family_name: Zaparoan
 glottolog_classification: "Zaparoan > Zaparo-Abishira > Záparo"
 wikipedia_url: "https://en.wikipedia.org/wiki/Z%C3%A1paro_language"
 translations:
+  - translation_iso: ara
+    name: زابارو
+    auto: true
   - translation_iso: jpn
     name: サパロ語
   - translation_iso: zho

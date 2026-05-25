@@ -15,6 +15,9 @@ glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Burmo-Qiangic > Na-Qiangic > Qiangic > Qiang > Southern Qiang"
 wikipedia_url: "https://en.wikipedia.org/wiki/Southern_Qiang_language"
 translations:
+  - translation_iso: ara
+    name: لغة تشيانج الجنوبية
+    auto: true
   - translation_iso: jpn
     name: 南部チャン語
   - translation_iso: zho

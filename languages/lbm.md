@@ -15,6 +15,9 @@ glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Indo-Aryan > Middle-Modern Indo-Aryan > Continental Indo-Aryan > Indo-Aryan Eastern zone > Oriya-Gauda-Kamrupa > Gauda-Kamrupa > Gauda-Banga > Lodhi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Lodhi_language"
 translations:
+  - translation_iso: ara
+    name: لودهي
+    auto: true
   - translation_iso: hin
     name: lodhi
   - translation_iso: jpn

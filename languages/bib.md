@@ -15,6 +15,9 @@ glottolog_family_name: Mande
 glottolog_classification: "Mande > Eastern Mande > Bisa-Busa > Bissa"
 wikipedia_url: "https://en.wikipedia.org/wiki/Bissa_language"
 translations:
+  - translation_iso: ara
+    name: بيسا
+    auto: true
   - translation_iso: jpn
     name: ビッサ語
     auto: true

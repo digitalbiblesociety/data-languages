@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Greater Central Philippine > Central Philippine > Bisayan > Negrosanon > Southern Binukidnon"
 wikipedia_url: "https://en.wikipedia.org/wiki/Magahat_language"
 translations:
+  - translation_iso: ara
+    name: لغة بينوكدنون الجنوبية
+    auto: true
   - translation_iso: jpn
     name: サザン・ビヌキドノン語
     auto: true

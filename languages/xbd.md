@@ -8,6 +8,9 @@ country_name: Australia
 status_id: "10"
 wikipedia_url: "https://en.wikipedia.org/wiki/Bindal_language"
 translations:
+  - translation_iso: ara
+    name: بيندال
+    auto: true
   - translation_iso: jpn
     name: ビンダル
   - translation_iso: zho

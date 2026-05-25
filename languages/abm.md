@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Ekoid-Mbe > Ekoid > Bakor-Ejagham > Bakor > Northern Bakor > Abanyom-Nkem-Nkum > Abanyom"
 wikipedia_url: "https://en.wikipedia.org/wiki/Abanyom_language"
 translations:
+  - translation_iso: ara
+    name: لغة أبنيوم
+    auto: true
   - translation_iso: jpn
     name: アバニョム語
   - translation_iso: zho

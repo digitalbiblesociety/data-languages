@@ -15,6 +15,9 @@ glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > Biu-Mandara > North Biu-Mandara > Musguic > Muskum"
 wikipedia_url: "https://en.wikipedia.org/wiki/Muskum_language"
 translations:
+  - translation_iso: ara
+    name: لغة موسكوم
+    auto: true
   - translation_iso: jpn
     name: ムスクム語
   - translation_iso: zho

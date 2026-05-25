@@ -15,6 +15,9 @@ glottolog_family_name: Chibchan
 glottolog_classification: "Chibchan > Core Chibchan > Isthmic Chibchan > Western Isthmic Chibchan > Boruca"
 wikipedia_url: "https://en.wikipedia.org/wiki/Boruca_language"
 translations:
+  - translation_iso: ara
+    name: بوروكا
+    auto: true
   - translation_iso: jpn
     name: ボルカ語
     auto: true

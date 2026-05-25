@@ -14,6 +14,9 @@ glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Burmo-Qiangic > Lolo-Burmese > Loloish > Ni-Li-Kazhouish > Lisoid > Nuclear Lisoid > Lisu-Laluba-Lavu > Laluba-Lavu > Lalo > Greater Lalo > Core Lalo > Central-Western Lalo > Xishanba Lalo"
 translations:
+  - translation_iso: ara
+    name: لغة زيشانبا لالو
+    auto: true
   - translation_iso: jpn
     name: シーシャンバ・ラロ語
     auto: true

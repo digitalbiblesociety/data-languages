@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Unclassified Volta-Congo > Mbre"
 wikipedia_url: "https://en.wikipedia.org/wiki/P%C9%9Br%C9%9B_language"
 translations:
+  - translation_iso: ara
+    name: لغة مبري
+    auto: true
   - translation_iso: jpn
     name: ムブレ語
   - translation_iso: zho

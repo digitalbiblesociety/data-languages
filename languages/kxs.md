@@ -15,6 +15,9 @@ glottolog_family_name: Mongolic-Khitan
 glottolog_classification: "Mongolic-Khitan > Mongolic > Southern Periphery Mongolic > Shirongol > Baoanic > Kangjia"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kangjia_language"
 translations:
+  - translation_iso: ara
+    name: كانجيا
+    auto: true
   - translation_iso: jpn
     name: 康家語
   - translation_iso: kor

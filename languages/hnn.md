@@ -16,6 +16,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Greater Central Philippine > South Mangyan > Hanunoo"
 wikipedia_url: "https://en.wikipedia.org/wiki/Hanunoo_language"
 translations:
+  - translation_iso: ara
+    name: هانونو
+    auto: true
   - translation_iso: jpn
     name: ハヌノオ語
   - translation_iso: zho

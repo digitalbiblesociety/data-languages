@@ -15,6 +15,9 @@ glottolog_family_name: Yam
 glottolog_classification: "Yam > Morehead-Maro > Tonda > Arammba"
 wikipedia_url: "https://en.wikipedia.org/wiki/Aramba_language"
 translations:
+  - translation_iso: ara
+    name: اللغة أرامبا
+    auto: true
   - translation_iso: jpn
     name: アランバ語
     auto: true

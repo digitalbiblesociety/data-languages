@@ -14,6 +14,9 @@ glottolog_family_name: Tor-Orya
 glottolog_classification: "Tor-Orya > Tor > Mander"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mander_language"
 translations:
+  - translation_iso: ara
+    name: لغة ماندير
+    auto: true
   - translation_iso: jpn
     name: マンデル語
     auto: true

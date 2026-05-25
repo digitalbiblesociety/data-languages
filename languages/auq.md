@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > North New Guinea linkage > Sarmi-Jayapura Bay > Sarmi > Anus-Podena > Korur"
 wikipedia_url: "https://en.wikipedia.org/wiki/Anus_language"
 translations:
+  - translation_iso: ara
+    name: اللغة أنوس
+    auto: true
   - translation_iso: jpn
     name: アヌス語
   - translation_iso: zho

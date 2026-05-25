@@ -15,6 +15,9 @@ glottolog_family_name: Yukaghir
 glottolog_classification: "Yukaghir > Malyj Anjuj Omok"
 wikipedia_url: "https://en.wikipedia.org/wiki/Omok_language"
 translations:
+  - translation_iso: ara
+    name: اللغة أوموك
+    auto: true
   - translation_iso: jpn
     name: オモク語
   - translation_iso: zho

@@ -15,6 +15,9 @@ glottolog_family_name: Unattested
 glottolog_classification: "Unattested > Arawakan (Unattested) > Aguano"
 wikipedia_url: "https://en.wikipedia.org/wiki/Aguano_language"
 translations:
+  - translation_iso: ara
+    name: لغة أغوانو
+    auto: true
   - translation_iso: jpn
     name: アグアーノ語
     auto: true

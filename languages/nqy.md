@@ -9,6 +9,9 @@ country_name: Myanmar
 status_id: 6a
 wikipedia_url: "https://en.wikipedia.org/wiki/Akyaung_Ari_language"
 translations:
+  - translation_iso: ara
+    name: أكياونغ آري ناغا
+    auto: true
   - translation_iso: jpn
     name: アキャウン・アリ・ナガ語
     auto: true

@@ -15,6 +15,9 @@ glottolog_family_name: Totonacan
 glottolog_classification: "Totonacan > Totonac > Central Totonacan > South-Central Totonacan > Lowland-Sierra Totonacan > Filomeno Mata Totonac"
 wikipedia_url: "https://en.wikipedia.org/wiki/Filomeno_Mata_Totonac"
 translations:
+  - translation_iso: ara
+    name: توتوناك فيلومينا ماتا كواويتلان
+    auto: true
   - translation_iso: jpn
     name: フィレメナ・マタ・コアウイトラン・トトナック語
     auto: true

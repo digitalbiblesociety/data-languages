@@ -15,6 +15,9 @@ glottolog_family_name: Nilotic
 glottolog_classification: "Nilotic > Southern Nilotic > Kalenjin > Central Kalenjin > Plateau Central Kalenjin > Tugen"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tugen_language"
 translations:
+  - translation_iso: ara
+    name: توجن
+    auto: true
   - translation_iso: jpn
     name: トゥゲン語
   - translation_iso: zho

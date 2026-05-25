@@ -15,6 +15,9 @@ glottolog_family_name: Athabaskan-Eyak-Tlingit
 glottolog_classification: "Athabaskan-Eyak-Tlingit > Athabaskan-Eyak > Athabaskan > Central Alaska-Yukon Athabaskan > Koyukonic > Koyukon"
 wikipedia_url: "https://en.wikipedia.org/wiki/Koyukon_language"
 translations:
+  - translation_iso: ara
+    name: لغة كويوكون
+    auto: true
   - translation_iso: jpn
     name: コユコン語
   - translation_iso: zho

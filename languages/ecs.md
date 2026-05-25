@@ -14,6 +14,9 @@ glottolog_family_name: Sign Language
 glottolog_classification: "Sign Language > L1 Sign Language > LSFic > ASLic > West-Central South American Sign > Ecuadorian Sign Language"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ecuadorian_Sign_Language"
 translations:
+  - translation_iso: ara
+    name: لغة الإشارة Ecuadorian
+    auto: true
   - translation_iso: jpn
     name: エクアドル手話
   - translation_iso: zho

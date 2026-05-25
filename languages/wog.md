@@ -15,6 +15,9 @@ glottolog_family_name: Sepik
 glottolog_classification: "Sepik > Iwam-Wogamus > Wogamusin-Chenapian > Wogamusin"
 wikipedia_url: "https://en.wikipedia.org/wiki/Wogamusin_language"
 translations:
+  - translation_iso: ara
+    name: ووغاموسين
+    auto: true
   - translation_iso: jpn
     name: ウォガムシン語
     auto: true

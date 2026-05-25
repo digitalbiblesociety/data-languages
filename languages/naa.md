@@ -14,6 +14,9 @@ glottolog_family_name: Namla-Tofanma
 glottolog_classification: "Namla-Tofanma > Namla"
 wikipedia_url: "https://en.wikipedia.org/wiki/Namla_language"
 translations:
+  - translation_iso: ara
+    name: نامالا
+    auto: true
   - translation_iso: jpn
     name: ナムラ語
     auto: true

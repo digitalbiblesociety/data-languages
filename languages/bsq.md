@@ -15,6 +15,9 @@ glottolog_family_name: Kru
 glottolog_classification: "Kru > Greater Western Kru > Western Kru > Wee-Bassa-Klao > Bassa-Klao > Bassaic > Bassa-Gbee > Bassa"
 wikipedia_url: "https://en.wikipedia.org/wiki/Bassa_language"
 translations:
+  - translation_iso: ara
+    name: باسّا
+    auto: true
   - translation_iso: jpn
     name: バッサ語
   - translation_iso: zho

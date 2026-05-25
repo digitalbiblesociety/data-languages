@@ -14,6 +14,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > West Central Maluku > Sula-Buru > Buruic > Hukumina"
 wikipedia_url: "https://en.wikipedia.org/wiki/Hukumina_language"
 translations:
+  - translation_iso: ara
+    name: هوكومينا
+    auto: true
   - translation_iso: jpn
     name: フクミナ語
   - translation_iso: zho

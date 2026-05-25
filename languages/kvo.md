@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Aru > Central Aru > Dobel-Koba > Dobel"
 wikipedia_url: "https://en.wikipedia.org/wiki/Dobel_language"
 translations:
+  - translation_iso: ara
+    name: دوبل
+    auto: true
   - translation_iso: jpn
     name: ドベル語
     auto: true

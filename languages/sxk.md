@@ -15,6 +15,9 @@ glottolog_family_name: Kalapuyan
 glottolog_classification: "Kalapuyan > Yoncalla"
 wikipedia_url: "https://en.wikipedia.org/wiki/Yoncalla_language"
 translations:
+  - translation_iso: ara
+    name: كالابويا الجنوبية
+    auto: true
   - translation_iso: jpn
     name: ヨンカラ語
   - translation_iso: zho

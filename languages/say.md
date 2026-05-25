@@ -15,6 +15,9 @@ glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > West Chadic > West Chadic B > West Chadic B.3 > South Bauchi West > Southwest South Bauchi > Zakse-Saya > Saya"
 wikipedia_url: "https://en.wikipedia.org/wiki/Saya_language"
 translations:
+  - translation_iso: ara
+    name: سايا
+    auto: true
   - translation_iso: jpn
     name: グウス語
     auto: true

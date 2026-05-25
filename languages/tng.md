@@ -15,6 +15,9 @@ glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > East Chadic > East Chadic A > East Chadic A.2 > East Chadic A.2 2 > Tobanga"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tobanga_language"
 translations:
+  - translation_iso: ara
+    name: توبانجا
+    auto: true
   - translation_iso: jpn
     name: トバンガ語
     auto: true

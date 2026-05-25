@@ -15,6 +15,9 @@ glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > West Chadic > West Chadic A > West Chadic A.4 > Ronic > Kulere"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kulere_language"
 translations:
+  - translation_iso: ara
+    name: كوليري
+    auto: true
   - translation_iso: jpn
     name: クレレ語
     auto: true

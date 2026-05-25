@@ -10,6 +10,9 @@ latitude: -11.58159
 longitude: -37.53797
 wikipedia_url: "https://en.wikipedia.org/wiki/Tingui-Bot%C3%B3_language"
 translations:
+  - translation_iso: ara
+    name: تينغوي بوتو
+    auto: true
   - translation_iso: jpn
     name: ティングイ・ボト語
     auto: true

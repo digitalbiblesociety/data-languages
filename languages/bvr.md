@@ -15,6 +15,9 @@ glottolog_family_name: Maningrida
 glottolog_classification: "Maningrida > Bureran > Burarra"
 wikipedia_url: "https://en.wikipedia.org/wiki/Burarra_language"
 translations:
+  - translation_iso: ara
+    name: بوراررا
+    auto: true
   - translation_iso: jpn
     name: ブラッラ語
     auto: true

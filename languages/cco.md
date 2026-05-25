@@ -14,6 +14,9 @@ glottolog_family_id: otom1299
 glottolog_family_name: Otomanguean
 glottolog_classification: "Otomanguean > Western Otomanguean > Otopame-Chinantecan > Chinantecan > Chinantec Group V > Comaltepec Chinantec"
 translations:
+  - translation_iso: ara
+    name: الكوماتيبك تشينانتك
+    auto: true
   - translation_iso: jpn
     name: コマルテペック・チナンテク語
     auto: true

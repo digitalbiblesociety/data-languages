@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Tanimbar-Bomberai > Nuclear Tanimbar-Bomberai > Yamdena-Onin > Yamdena"
 wikipedia_url: "https://en.wikipedia.org/wiki/Yamdena_language"
 translations:
+  - translation_iso: ara
+    name: لغة يامدينا
+    auto: true
   - translation_iso: jpn
     name: ヤムデナ語
   - translation_iso: zho

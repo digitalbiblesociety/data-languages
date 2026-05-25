@@ -14,6 +14,9 @@ glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Celtic > Nuclear Celtic > Cisalpine Celtic > Lepontic"
 wikipedia_url: "https://en.wikipedia.org/wiki/Lepontic_language"
 translations:
+  - translation_iso: ara
+    name: ليبونتية
+    auto: true
   - translation_iso: jpn
     name: レポント語
   - translation_iso: zho

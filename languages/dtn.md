@@ -14,6 +14,9 @@ glottolog_family_name: Gumuz
 glottolog_classification: "Gumuz > Daats'iin"
 wikipedia_url: "https://en.wikipedia.org/wiki/Daats%CA%BCiin_language"
 translations:
+  - translation_iso: ara
+    name: داتسيين
+    auto: true
   - translation_iso: jpn
     name: ダーツイン語
     auto: true

@@ -15,6 +15,9 @@ glottolog_family_name: Anim
 glottolog_classification: "Anim > Tirio > Abom"
 wikipedia_url: "https://en.wikipedia.org/wiki/Abom_language"
 translations:
+  - translation_iso: ara
+    name: لغة أبوم
+    auto: true
   - translation_iso: jpn
     name: アボム語
     auto: true

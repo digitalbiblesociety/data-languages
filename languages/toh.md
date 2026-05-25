@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > East Bantu > Southern Bantu > Nuclear Southern Bantu > Dimsuffix Southern Bantu > Nguni-Tsonga-Copi > Tsonga-Copi > Chopi (S.60) > Gitonga"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tonga_language_(Mozambique)"
 translations:
+  - translation_iso: ara
+    name: جيتونجا
+    auto: true
   - translation_iso: jpn
     name: ギトンガ語
     auto: true

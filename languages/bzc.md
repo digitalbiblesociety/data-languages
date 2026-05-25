@@ -14,6 +14,9 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Basap-Greater Barito > Greater Barito linkage > Southeast Barito > Malagasic > North-Central Malagasic > Central-Eastern Malagasic > Southern Betsimisaraka Malagasy"
 translations:
+  - translation_iso: ara
+    name: جنوب بيتسيميسارا مالْجاشي
+    auto: true
   - translation_iso: jpn
     name: 南ベツィミサラカ・マダガスカル語
   - translation_iso: zho

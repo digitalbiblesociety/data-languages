@@ -14,6 +14,9 @@ glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Madang > Croisilles > Greater Northern Adelbert > Kowan > Korak"
 wikipedia_url: "https://en.wikipedia.org/wiki/Amako_language"
 translations:
+  - translation_iso: ara
+    name: لغة كوراك
+    auto: true
   - translation_iso: jpn
     name: コラク語
     auto: true

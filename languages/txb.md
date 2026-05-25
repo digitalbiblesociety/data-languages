@@ -15,6 +15,9 @@ glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Tokharian > Tokharian B"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tocharian_B"
 translations:
+  - translation_iso: ara
+    name: توخاري ب
+    auto: true
   - translation_iso: jpn
     name: クチャ語
   - translation_iso: zho

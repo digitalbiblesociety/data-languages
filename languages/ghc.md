@@ -11,6 +11,9 @@ latitude: 55.932
 longitude: -5.222
 wikipedia_url: "https://en.wikipedia.org/wiki/Classical_Gaelic"
 translations:
+  - translation_iso: ara
+    name: الغيلية الهيبرنو-الاسكتلندية
+    auto: true
   - translation_iso: jpn
     name: ハイベルノ・スコティッシュゲール語
     auto: true

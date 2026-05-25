@@ -15,6 +15,9 @@ glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > Kalkatungic > Kalkatungu"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kalkatungu_language"
 translations:
+  - translation_iso: ara
+    name: كالكوتونج
+    auto: true
   - translation_iso: jpn
     name: カルクトゥン語
     auto: true

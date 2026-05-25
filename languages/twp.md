@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Admiralty Islands > Eastern Admiralty Islands > Manus > East Manus > Kurti-Kele-Ere > Ere"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ere_language"
 translations:
+  - translation_iso: ara
+    name: ايري
+    auto: true
   - translation_iso: jpn
     name: ナネ語
     auto: true

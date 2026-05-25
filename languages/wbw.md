@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > South Halmahera-West New Guinea > Cenderawasih Bay > Yapen > Central-Western Yapen > Ansus-Ambai > Woi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Woi_language"
 translations:
+  - translation_iso: ara
+    name: وي
+    auto: true
   - translation_iso: jpn
     name: ウォイ語
     auto: true

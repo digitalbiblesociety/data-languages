@@ -15,6 +15,9 @@ glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Dhimal-Lhokpu-Toto > Dhimal"
 wikipedia_url: "https://en.wikipedia.org/wiki/Dhimal_language"
 translations:
+  - translation_iso: ara
+    name: ديمال
+    auto: true
   - translation_iso: jpn
     name: ディマール語
   - translation_iso: zho

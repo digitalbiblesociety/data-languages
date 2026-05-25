@@ -15,6 +15,9 @@ glottolog_family_name: Pano-Tacanan
 glottolog_classification: "Pano-Tacanan > Panoan > Mayoruna Branch > Mayo Group > Matses subgroup > Kulina Pano"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kulina_language_(Panoan)"
 translations:
+  - translation_iso: ara
+    name: كولينا بانو
+    auto: true
   - translation_iso: jpn
     name: クリナ・パノ語
     auto: true

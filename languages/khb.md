@@ -16,6 +16,9 @@ glottolog_family_name: Tai-Kadai
 glottolog_classification: "Tai-Kadai > Kam-Tai > Daic-Beic > Daic > Central-Southwestern Tai > Wenma-Southwestern Tai > Sapa-Southwestern Tai > Southwestern Tai > Southwestern Tai P > Shanic > Sukaphic > Northern Shanic > Sipsongpannic > Lü"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tai_Lue_language"
 translations:
+  - translation_iso: ara
+    name: اللغة اللويه
+    auto: true
   - translation_iso: hin
     name: ताई लुए भाषा
   - translation_iso: jpn

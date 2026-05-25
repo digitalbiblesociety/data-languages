@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Kainji > Central Kainji > Basa-Eastern Kainji > Basa > Kontagora-Gumna-Koromba > Gumna-Kontagora > Basa-Gumna"
 wikipedia_url: "https://en.wikipedia.org/wiki/Basa-Gumna_language"
 translations:
+  - translation_iso: ara
+    name: باسا-جومْنا
+    auto: true
   - translation_iso: jpn
     name: バサ・グムナ語
   - translation_iso: zho

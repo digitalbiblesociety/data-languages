@@ -15,6 +15,9 @@ glottolog_family_name: Mayan
 glottolog_classification: "Mayan > Core Mayan > Western Mayan > Kanjobalan-Chujean > Kanjobalan > Mocho"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mocho%CA%BC_language"
 translations:
+  - translation_iso: ara
+    name: لغة موتشو
+    auto: true
   - translation_iso: jpn
     name: モチョ語
   - translation_iso: zho

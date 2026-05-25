@@ -15,6 +15,9 @@ glottolog_family_name: Nilotic
 glottolog_classification: "Nilotic > Western Nilotic > Lwoo > Northern Lwoo > Luwo-Thuri > Thuri"
 wikipedia_url: "https://en.wikipedia.org/wiki/Thuri_language"
 translations:
+  - translation_iso: ara
+    name: ثوري
+    auto: true
   - translation_iso: jpn
     name: トゥリ語
   - translation_iso: zho

@@ -15,6 +15,9 @@ glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Burmo-Qiangic > Lolo-Burmese > Ugong"
 wikipedia_url: "https://en.wikipedia.org/wiki/Gong_language"
 translations:
+  - translation_iso: ara
+    name: أوجونج
+    auto: true
   - translation_iso: jpn
     name: ウゴン語
   - translation_iso: zho

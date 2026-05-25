@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Kwa Volta-Congo > Nyo > Potou-Tano > Tano > Guang > South Guang > Hill South Guang > Larteh"
 wikipedia_url: "https://en.wikipedia.org/wiki/Larteh_language"
 translations:
+  - translation_iso: ara
+    name: لارتيه
+    auto: true
   - translation_iso: jpn
     name: ラルテ語
     auto: true

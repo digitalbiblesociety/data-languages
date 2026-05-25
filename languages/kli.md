@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Greater South Sulawesi > South Sulawesi > Northern South Sulawesi > Toraja-Duri > Torajic > Kalumpangic > Kalumpang"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kalumpang_language"
 translations:
+  - translation_iso: ara
+    name: لغة كالومبانج
+    auto: true
   - translation_iso: jpn
     name: カルムパン語
     auto: true

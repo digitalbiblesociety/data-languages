@@ -14,6 +14,9 @@ glottolog_family_id: west2434
 glottolog_family_name: Western Daly
 glottolog_classification: "Western Daly > Bringen > Marithielic > Maridan"
 translations:
+  - translation_iso: ara
+    name: اللغة ماريدان
+    auto: true
   - translation_iso: jpn
     name: マリダン語
     auto: true

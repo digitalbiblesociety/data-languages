@@ -15,6 +15,9 @@ glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Greater Binanderean > Binanderean > Nuclear Binanderean > South Binanderean > Orokaivic > Orokaiva"
 wikipedia_url: "https://en.wikipedia.org/wiki/Orokaiva_language"
 translations:
+  - translation_iso: ara
+    name: اللغة أوروكايفا
+    auto: true
   - translation_iso: jpn
     name: オロカイヴァ語
   - translation_iso: zho

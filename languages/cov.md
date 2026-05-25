@@ -15,6 +15,9 @@ glottolog_family_name: Tai-Kadai
 glottolog_classification: "Tai-Kadai > Kam-Tai > Kam-Sui > Mulam-Kam > Kamic > Northern Kam > Cao Miao"
 wikipedia_url: "https://en.wikipedia.org/wiki/Cao_Miao_language"
 translations:
+  - translation_iso: ara
+    name: كاو ميايو
+    auto: true
   - translation_iso: jpn
     name: カオ・ミャオ語
     auto: true

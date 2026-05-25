@@ -10,6 +10,9 @@ latitude: -2.93387
 longitude: 31.35945
 wikipedia_url: "https://en.wikipedia.org/wiki/Subi_language"
 translations:
+  - translation_iso: ara
+    name: سوبي
+    auto: true
   - translation_iso: jpn
     name: スビ語
     auto: true

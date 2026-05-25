@@ -9,6 +9,9 @@ status_id: "5"
 scripts: [Latn]
 wikipedia_url: "https://en.wikipedia.org/wiki/Dan_language"
 translations:
+  - translation_iso: ara
+    name: دان
+    auto: true
   - translation_iso: jpn
     name: ダン語
   - translation_iso: zho

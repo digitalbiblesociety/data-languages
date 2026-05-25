@@ -13,6 +13,9 @@ glottolog_family_name: Japonic
 glottolog_classification: "Japonic > Japanesic > Japan-Taiwan Japanese > Vernacular Atayalic Japanese"
 wikipedia_url: "https://en.wikipedia.org/wiki/Yilan_Creole"
 translations:
+  - translation_iso: ara
+    name: ييلان كريول
+    auto: true
   - translation_iso: jpn
     name: 宜蘭クレオール
   - translation_iso: kor

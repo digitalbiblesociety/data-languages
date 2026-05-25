@@ -15,6 +15,9 @@ glottolog_family_name: Central Sudanic
 glottolog_classification: "Central Sudanic > Sara-Bongo-Bagirmi > Baka-Beli > Morokodo-Beli > Lori > Jur Modo"
 wikipedia_url: "https://en.wikipedia.org/wiki/Jur_Modo_language"
 translations:
+  - translation_iso: ara
+    name: جور مودو
+    auto: true
   - translation_iso: jpn
     name: ジュル・モド語
     auto: true

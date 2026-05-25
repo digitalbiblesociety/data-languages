@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Central Pacific linkage > Tokalau Fijian > Polynesian > Nuclear Polynesian > East Uvean-Niuafo'ou > Niuafo'ou"
 wikipedia_url: "https://en.wikipedia.org/wiki/Niuafo%CA%BBou_language"
 translations:
+  - translation_iso: ara
+    name: "نيواتو'و"
+    auto: true
   - translation_iso: jpn
     name: ニウアフォオウ語
   - translation_iso: kor

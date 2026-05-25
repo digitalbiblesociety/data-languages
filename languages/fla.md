@@ -15,6 +15,9 @@ glottolog_family_name: Salishan
 glottolog_classification: "Salishan > Interior Salish > Southern Interior Salish > Okanaganic > Kalispel-Spokane > Kalispel-Pend d'Oreille"
 wikipedia_url: "https://en.wikipedia.org/wiki/Salish%E2%80%93Spokane%E2%80%93Kalispel_language"
 translations:
+  - translation_iso: ara
+    name: كاليسبيل-بند ديري
+    auto: true
   - translation_iso: hin
     name: सेलिश भाषा
   - translation_iso: jpn

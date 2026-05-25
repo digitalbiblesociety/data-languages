@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > Central-Western Bantu > Njila > Southern Njila > Chokwe-Lunda > Chokwe-Ngangela-Nyemba (K.20) > Chokwe-Lwena > Chokwe"
 wikipedia_url: "https://en.wikipedia.org/wiki/Chokwe_language"
 translations:
+  - translation_iso: ara
+    name: الشوكوي
+    auto: true
   - translation_iso: jpn
     name: チョクウェ語
   - translation_iso: zho

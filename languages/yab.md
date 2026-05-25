@@ -14,6 +14,9 @@ glottolog_family_id: nada1235
 glottolog_family_name: Naduhup
 glottolog_classification: "Naduhup > Eastern Naduhup > Hup-Yuhup > Yuhup"
 translations:
+  - translation_iso: ara
+    name: يوهوب
+    auto: true
   - translation_iso: jpn
     name: ユフップ語
     auto: true

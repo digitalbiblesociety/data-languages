@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Puyuma"
 wikipedia_url: "https://en.wikipedia.org/wiki/Puyuma_language"
 translations:
+  - translation_iso: ara
+    name: اللغة بويوما
+    auto: true
   - translation_iso: jpn
     name: プユマ語
   - translation_iso: kor

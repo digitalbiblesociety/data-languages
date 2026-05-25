@@ -15,6 +15,9 @@ glottolog_family_name: Songhay
 glottolog_classification: "Songhay > Eastern Songhay > Zarma-Kaado-Dendi > Dendi (Benin)"
 wikipedia_url: "https://en.wikipedia.org/wiki/Dendi_language"
 translations:
+  - translation_iso: ara
+    name: ديندي
+    auto: true
   - translation_iso: jpn
     name: デンディ語
   - translation_iso: zho

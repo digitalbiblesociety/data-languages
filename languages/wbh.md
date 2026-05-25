@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > East Bantu > Corridor Bantu > Mbozi > Mwika > Fipaic > Maluwawaru > Wanda"
 wikipedia_url: "https://en.wikipedia.org/wiki/Wanda_language"
 translations:
+  - translation_iso: ara
+    name: واندا
+    auto: true
   - translation_iso: jpn
     name: ワンダ語
     auto: true

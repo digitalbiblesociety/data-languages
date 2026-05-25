@@ -15,6 +15,9 @@ glottolog_family_name: Maiduan
 glottolog_classification: "Maiduan > Northeast Maidu"
 wikipedia_url: "https://en.wikipedia.org/wiki/Maidu_language"
 translations:
+  - translation_iso: ara
+    name: مايدو الشمالية الشرقية
+    auto: true
   - translation_iso: jpn
     name: マイドゥ語
   - translation_iso: zho

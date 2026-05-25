@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Cameroun-Ubangian > Ubangi > Ubangi Ka > Mundu-Baka > Western Mundu-Baka > River Western Mundu-Baka > Bwaka > Ngbaka Ma'bo"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mbaka_language"
 translations:
+  - translation_iso: ara
+    name: نجبكا ماقبو
+    auto: true
   - translation_iso: jpn
     name: ムバカ語
   - translation_iso: zho

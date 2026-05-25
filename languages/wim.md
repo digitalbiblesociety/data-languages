@@ -15,6 +15,9 @@ glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > Paman > Compromise Middle Pama > Wik > Kuku-Wik-Ep > Kuku-Wik > Mungkanic > Mungkan-Mungkanhu > Wik-Mungkan"
 wikipedia_url: "https://en.wikipedia.org/wiki/Wik_Mungkan_language"
 translations:
+  - translation_iso: ara
+    name: ويكمونغكان
+    auto: true
   - translation_iso: jpn
     name: ウィク・ムンカン語
   - translation_iso: zho

@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > Bantu A-B10-B20-B30 > Lundu-Balong (A.10) > Greater Manenguba > Bafaw-Balong-Manenguba > Manenguba > Bassossi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Sosi_language"
 translations:
+  - translation_iso: ara
+    name: باسّوسّي
+    auto: true
   - translation_iso: jpn
     name: バソッシ語
     auto: true

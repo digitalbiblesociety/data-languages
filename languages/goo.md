@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Central Pacific linkage > Tokalau Fijian > Eastern Fijian > Nuclear Eastern Fijian > Gone Dau"
 wikipedia_url: "https://en.wikipedia.org/wiki/Gone_Dau_language"
 translations:
+  - translation_iso: ara
+    name: غونإ دآو
+    auto: true
   - translation_iso: jpn
     name: ゴーン・ダウ語
     auto: true

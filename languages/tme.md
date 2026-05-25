@@ -15,6 +15,9 @@ glottolog_family_name: Unattested
 glottolog_classification: "Unattested > Tremembé"
 wikipedia_url: "https://en.wikipedia.org/wiki/Trememb%C3%A9_language"
 translations:
+  - translation_iso: ara
+    name: تريمينبي
+    auto: true
   - translation_iso: jpn
     name: トレメンベ語
     auto: true

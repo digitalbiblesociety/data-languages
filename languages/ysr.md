@@ -15,6 +15,9 @@ glottolog_family_name: Eskimo-Aleut
 glottolog_classification: "Eskimo-Aleut > Eskimo > Old Sirenik"
 wikipedia_url: "https://en.wikipedia.org/wiki/Sirenik_language"
 translations:
+  - translation_iso: ara
+    name: لغة سيرينيك يوبيك
+    auto: true
   - translation_iso: jpn
     name: シレニック語
   - translation_iso: kor

@@ -15,6 +15,9 @@ glottolog_family_name: Tor-Orya
 glottolog_classification: "Tor-Orya > Tor > Coastal Tor > Bonerif"
 wikipedia_url: "https://en.wikipedia.org/wiki/Bonerif_language"
 translations:
+  - translation_iso: ara
+    name: بونيريف
+    auto: true
   - translation_iso: jpn
     name: ボネリフ語
     auto: true

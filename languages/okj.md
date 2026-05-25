@@ -15,6 +15,9 @@ glottolog_family_name: Great Andamanese
 glottolog_classification: "Great Andamanese > Middle Great Andamanese > Okojuwoi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Okojuwoi"
 translations:
+  - translation_iso: ara
+    name: اللغة أوكو جووي
+    auto: true
   - translation_iso: jpn
     name: オコ・ジュウォイ語
     auto: true

@@ -15,6 +15,9 @@ glottolog_family_name: Wakashan
 glottolog_classification: "Wakashan > Southern Wakashan > Makah-Nitinat > Makah"
 wikipedia_url: "https://en.wikipedia.org/wiki/Makah_language"
 translations:
+  - translation_iso: ara
+    name: ماكاه
+    auto: true
   - translation_iso: jpn
     name: マカー語
   - translation_iso: zho

@@ -14,6 +14,9 @@ glottolog_family_id: drav1251
 glottolog_family_name: Dravidian
 glottolog_classification: "Dravidian > South Dravidian > South Dravidian II > Gondi > Southeast Gondi > South Bastar Gondi-Koya > Dandami Maria"
 translations:
+  - translation_iso: ara
+    name: داندامي ماريا
+    auto: true
   - translation_iso: jpn
     name: ダンダミ・マリア語
     auto: true

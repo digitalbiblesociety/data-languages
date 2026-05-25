@@ -15,6 +15,9 @@ glottolog_family_name: Guaicuruan
 glottolog_classification: "Guaicuruan > Guaicuru del Sur > Qom > Pilaga-Toba > Toba"
 wikipedia_url: "https://en.wikipedia.org/wiki/Toba_Qom_language"
 translations:
+  - translation_iso: ara
+    name: توبا
+    auto: true
   - translation_iso: jpn
     name: トバ語 (アルゼンチン)
   - translation_iso: zho

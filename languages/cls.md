@@ -8,6 +8,9 @@ latitude: 20
 longitude: 77
 wikipedia_url: "https://en.wikipedia.org/wiki/Classical_Sanskrit"
 translations:
+  - translation_iso: ara
+    name: السنسكريتية الكلاسيكية
+    auto: true
   - translation_iso: jpn
     name: 古典サンスクリット
   - translation_iso: zho

@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > North and Central Vanuatu > Central Vanuatu > Malakula > Eastern Malakula linkage > Central-Southeast Malakula > Aulua"
 wikipedia_url: "https://en.wikipedia.org/wiki/Aulua_language"
 translations:
+  - translation_iso: ara
+    name: اللغة أوليوا
+    auto: true
   - translation_iso: jpn
     name: アウルア語
     auto: true

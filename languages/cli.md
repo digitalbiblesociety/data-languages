@@ -14,6 +14,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Gur > Central Gur > Southern Central Gur > Grusi > East-West Grusi > Western Grusi > Sisaala-Chakali > Chakalic > Chakali-Tamprusi-Vagala > Chakali-Tamprusi > Chakali"
 wikipedia_url: "https://en.wikipedia.org/wiki/Chakali_language"
 translations:
+  - translation_iso: ara
+    name: الشاكالي
+    auto: true
   - translation_iso: jpn
     name: チャカリ語
     auto: true

@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Gur > Central Gur > Northern Central Gur > Bwamu-Oti-Volta > Oti-Volta > Nuclear Oti-Volta > Oti-Volta Oriental > Waama-Tayari-Ditammari > Waama"
 wikipedia_url: "https://en.wikipedia.org/wiki/Waama_language"
 translations:
+  - translation_iso: ara
+    name: وااما
+    auto: true
   - translation_iso: jpn
     name: ワマ語
     auto: true

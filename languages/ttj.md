@@ -16,6 +16,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > East Bantu > Northeast Savanna Bantu > Great Lakes Bantu > West Nyanza > Rutara > North Rutara > Nkore-Kiga-Nyoro-Tooro > Nyoro-Tooro > Tooro"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tooro_language"
 translations:
+  - translation_iso: ara
+    name: توورو
+    auto: true
   - translation_iso: jpn
     name: トーロ語
   - translation_iso: zho

@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > North and Central Vanuatu > Central Vanuatu > Malakula > Northern Malakula > North Coast Malakula > Botovro-Vovo-Vao > Mpotovoro"
 wikipedia_url: "https://en.wikipedia.org/wiki/Botovro_language"
 translations:
+  - translation_iso: ara
+    name: لغة مبوتوفورو
+    auto: true
   - translation_iso: jpn
     name: ムポトヴォロ語
     auto: true

@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Celebic > Kaili-Wolio > Southern Kaili-Wolio > Island Kaili-Wolio > Wolio-Kamaru > Kamaru"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kamaru_language"
 translations:
+  - translation_iso: ara
+    name: لغة كاماري
+    auto: true
   - translation_iso: jpn
     name: カマル語
     auto: true

@@ -15,6 +15,9 @@ glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Burmo-Qiangic > Lolo-Burmese > Loloish > Hani-Jino > Bisoid-Hanic > Hanic > Ha-Ya > Akhaic > Akha"
 wikipedia_url: "https://en.wikipedia.org/wiki/Akha_language"
 translations:
+  - translation_iso: ara
+    name: لغة أخا
+    auto: true
   - translation_iso: jpn
     name: アカ語
   - translation_iso: zho

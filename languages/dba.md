@@ -12,6 +12,9 @@ longitude: -3.77092
 glottocode: bang1363
 wikipedia_url: "https://en.wikipedia.org/wiki/Bangime_language"
 translations:
+  - translation_iso: ara
+    name: بانجيمي
+    auto: true
   - translation_iso: jpn
     name: バンギメ語
   - translation_iso: kor

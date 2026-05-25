@@ -15,6 +15,9 @@ glottolog_family_name: Naduhup
 glottolog_classification: "Naduhup > Nadëb"
 wikipedia_url: "https://en.wikipedia.org/wiki/Nad%C3%ABb_language"
 translations:
+  - translation_iso: ara
+    name: لغة نادباب
+    auto: true
   - translation_iso: jpn
     name: ナドゥブ語
   - translation_iso: zho

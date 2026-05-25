@@ -8,6 +8,9 @@ country_name: China
 status_id: 6a
 wikipedia_url: "https://en.wikipedia.org/wiki/Bumang_language"
 translations:
+  - translation_iso: ara
+    name: بومانج
+    auto: true
   - translation_iso: jpn
     name: ブマング語
     auto: true

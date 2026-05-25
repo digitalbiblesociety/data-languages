@@ -14,6 +14,9 @@ glottolog_family_name: Unattested
 glottolog_classification: "Unattested > Atlantic-Congo (Unattested) > Kaivi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kaivi_language"
 translations:
+  - translation_iso: ara
+    name: لغة كايفي
+    auto: true
   - translation_iso: jpn
     name: カイビ語
     auto: true

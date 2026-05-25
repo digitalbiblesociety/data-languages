@@ -14,6 +14,9 @@ glottolog_family_id: otom1299
 glottolog_family_name: Otomanguean
 glottolog_classification: "Otomanguean > Western Otomanguean > Subtiaba-Tlapanec > Mephaa > North-Central Mephaa > Malinaltepec Me'phaa"
 translations:
+  - translation_iso: ara
+    name: مي ‍ّفا
+    auto: true
   - translation_iso: jpn
     name: マリナルテペク・メファ語
     auto: true

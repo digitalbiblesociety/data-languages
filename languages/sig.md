@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Gur > Central Gur > Southern Central Gur > Grusi > East-West Grusi > Western Grusi > Sisaala-Chakali > Sisaala > Paasaal"
 wikipedia_url: "https://en.wikipedia.org/wiki/Paasaal_language"
 translations:
+  - translation_iso: ara
+    name: اللغة الباسال
+    auto: true
   - translation_iso: jpn
     name: サザン・シサーラ語
     auto: true

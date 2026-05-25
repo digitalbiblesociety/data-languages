@@ -14,6 +14,9 @@ glottolog_family_name: Bosavi
 glottolog_classification: "Bosavi > Bosavi Watershed > Kaluli-Sunia > Kaluli"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kaluli_language"
 translations:
+  - translation_iso: ara
+    name: اللغة كالولي
+    auto: true
   - translation_iso: jpn
     name: カルリ語
     auto: true

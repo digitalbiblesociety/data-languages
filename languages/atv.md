@@ -15,6 +15,9 @@ glottolog_family_name: Turkic
 glottolog_classification: "Turkic > Common Turkic > South Siberian Turkic > Northern Altai-Lower Chulym > Northern Altai"
 wikipedia_url: "https://en.wikipedia.org/wiki/Northern_Altai_language"
 translations:
+  - translation_iso: ara
+    name: اللغة ألتاي الشمالية
+    auto: true
   - translation_iso: jpn
     name: 北アルタイ語
   - translation_iso: kor

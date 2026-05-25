@@ -15,6 +15,9 @@ glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > Biu-Mandara > North Biu-Mandara > Margi-Mandara-Mofu > Bura-Marghi > Buraic > Nggwahyi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Nggwahyi_language"
 translations:
+  - translation_iso: ara
+    name: نججواهيا
+    auto: true
   - translation_iso: jpn
     name: ングワイ語
     auto: true

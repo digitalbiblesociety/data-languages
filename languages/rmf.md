@@ -16,6 +16,9 @@ glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Indo-Aryan > Middle-Modern Indo-Aryan > Continental Indo-Aryan > Midlands Indo-Aryan > Shaurasenic > Indo-Aryan Central zone > Romani > Anglo-Northwestern Romani > Northwestern Romani > Kalo Finnish Romani"
 wikipedia_url: "https://en.wikipedia.org/wiki/Finnish_Romani_language"
 translations:
+  - translation_iso: ara
+    name: كالو فنلندي رومانية
+    auto: true
   - translation_iso: jpn
     name: カロ・フィンランドロマ語
   - translation_iso: zho

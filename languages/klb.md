@@ -15,6 +15,9 @@ glottolog_family_name: Cochimi-Yuman
 glottolog_classification: "Cochimi-Yuman > Yuman > Kiliwa"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kiliwa_language"
 translations:
+  - translation_iso: ara
+    name: لغة كيليوا
+    auto: true
   - translation_iso: jpn
     name: キリワ語
   - translation_iso: zho

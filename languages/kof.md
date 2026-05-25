@@ -15,6 +15,9 @@ glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > West Chadic > West Chadic A > West Chadic A.2-3 > West Chadic A.2 > Boleic > Nuclear Boleic > Gera-Geruma-Kubi-Deno > Kubi-Deno > Kubi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kubi_language"
 translations:
+  - translation_iso: ara
+    name: لغة كوبي
+    auto: true
   - translation_iso: jpn
     name: クビ語
   - translation_iso: zho

@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > Central-Western Bantu > North Zaire River > Rivers Bantu > Ngiri > Ngiri Terrien > Ngombe-Ababuan > Ababuan > Old Bomokandian > Middle Bomokandian > Late Bomokandian > Pagabeteic > Pagibete"
 wikipedia_url: "https://en.wikipedia.org/wiki/Pagibete_language"
 translations:
+  - translation_iso: ara
+    name: اللغة باغيبيتي
+    auto: true
   - translation_iso: jpn
     name: パギベテ語
     auto: true

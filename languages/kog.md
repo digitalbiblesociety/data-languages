@@ -15,6 +15,9 @@ glottolog_family_name: Chibchan
 glottolog_classification: "Chibchan > Core Chibchan > Magdalenic > Northern Magdalenic > Arhuacic > Cogui"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kogi_language"
 translations:
+  - translation_iso: ara
+    name: لغة كوجويي
+    auto: true
   - translation_iso: jpn
     name: コギ語
   - translation_iso: zho

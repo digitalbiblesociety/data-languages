@@ -14,6 +14,9 @@ glottolog_family_id: worr1236
 glottolog_family_name: Worrorran
 glottolog_classification: "Worrorran > Western Worrorran > Unggumi"
 translations:
+  - translation_iso: ara
+    name: ونغغومي
+    auto: true
   - translation_iso: jpn
     name: ウングミ語
     auto: true

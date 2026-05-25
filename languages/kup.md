@@ -14,6 +14,9 @@ glottolog_family_name: Kunimaipan
 glottolog_classification: "Kunimaipan > Kunimaipa"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kunimaipa_language"
 translations:
+  - translation_iso: ara
+    name: كونيمايبا
+    auto: true
   - translation_iso: jpn
     name: クニマイパ語
     auto: true

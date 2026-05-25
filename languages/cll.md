@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Gur > Central Gur > Southern Central Gur > Grusi > East-West Grusi > Eastern Grusi > Tem-Chala > Bago-Delo-Cala > Delo-Cala > Chala"
 wikipedia_url: "https://en.wikipedia.org/wiki/Chala_language"
 translations:
+  - translation_iso: ara
+    name: الشالا
+    auto: true
   - translation_iso: jpn
     name: チャラ語
     auto: true

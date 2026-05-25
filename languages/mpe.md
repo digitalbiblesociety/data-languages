@@ -15,6 +15,9 @@ glottolog_family_name: Surmic
 glottolog_classification: "Surmic > Majang"
 wikipedia_url: "https://en.wikipedia.org/wiki/Majang_language"
 translations:
+  - translation_iso: ara
+    name: لغة ماجانج
+    auto: true
   - translation_iso: jpn
     name: マジャン語
   - translation_iso: zho

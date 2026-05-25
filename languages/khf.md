@@ -14,6 +14,9 @@ glottolog_family_id: aust1305
 glottolog_family_name: Austroasiatic
 glottolog_classification: "Austroasiatic > Khmuic > Khmu' > Khuen"
 translations:
+  - translation_iso: ara
+    name: لغة خوين
+    auto: true
   - translation_iso: jpn
     name: クエン語
     auto: true

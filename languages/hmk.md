@@ -8,6 +8,9 @@ country_name: South Korea
 status_id: null
 wikipedia_url: "https://en.wikipedia.org/wiki/Ye-Maek_language"
 translations:
+  - translation_iso: ara
+    name: ماك
+    auto: true
   - translation_iso: jpn
     name: 濊貊語
   - translation_iso: kor

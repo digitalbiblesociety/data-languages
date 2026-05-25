@@ -15,6 +15,9 @@ glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > Biu-Mandara > South Biu-Mandara > Bataic > Gudeic > Gude-Jimi-Zizilivakan > Fali-Gude > Gude"
 wikipedia_url: "https://en.wikipedia.org/wiki/Gude_language"
 translations:
+  - translation_iso: ara
+    name: غودي
+    auto: true
   - translation_iso: jpn
     name: グデ語
     auto: true

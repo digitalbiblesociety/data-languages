@@ -15,6 +15,9 @@ glottolog_family_name: Mataguayan
 glottolog_classification: "Mataguayan > Mataguayo I > Nivaclé"
 wikipedia_url: "https://en.wikipedia.org/wiki/Nivacl%C3%A9_language"
 translations:
+  - translation_iso: ara
+    name: نيڤاكلي
+    auto: true
   - translation_iso: jpn
     name: ニバクレ語
   - translation_iso: zho

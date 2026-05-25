@@ -15,6 +15,9 @@ glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Burmo-Qiangic > Lolo-Burmese > Mondzish > Thou-Kathu"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kathu_language"
 translations:
+  - translation_iso: ara
+    name: اللغة كاثو
+    auto: true
   - translation_iso: jpn
     name: カツ語
     auto: true

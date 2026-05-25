@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Cameroun-Ubangian > Ubangi > Ubangi Ka > Sereic > Sere-Indri > Ndogoic > Tagbu-Sere > Tagbu"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tagbo_language"
 translations:
+  - translation_iso: ara
+    name: تاغبو
+    auto: true
   - translation_iso: jpn
     name: タグブ語
     auto: true

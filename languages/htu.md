@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Nunusaku > Piru Bay > East Piru Bay > Solehua > Seram Straits > Ambonic > Northeast Ambon > Hitu"
 wikipedia_url: "https://en.wikipedia.org/wiki/Hitu_language"
 translations:
+  - translation_iso: ara
+    name: هيتو
+    auto: true
   - translation_iso: jpn
     name: ヒトゥ語
     auto: true

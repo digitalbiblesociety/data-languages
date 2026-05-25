@@ -14,6 +14,9 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > North-Central Atlantic > Wolof-BKK > Nyun > Bainounk > Bainounk-Gujaher"
 translations:
+  - translation_iso: ara
+    name: اللغة بايانوك-جونيونو
+    auto: true
   - translation_iso: jpn
     name: バイノック・グニュニョ語
     auto: true

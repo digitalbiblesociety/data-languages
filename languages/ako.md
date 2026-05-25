@@ -15,6 +15,9 @@ glottolog_family_name: Cariban
 glottolog_classification: "Cariban > Guianan > Taranoan > Tiriyoan > Akurio"
 wikipedia_url: "https://en.wikipedia.org/wiki/Akurio_language"
 translations:
+  - translation_iso: ara
+    name: لغة أكوريو
+    auto: true
   - translation_iso: jpn
     name: アクリオ語
     auto: true

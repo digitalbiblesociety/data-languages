@@ -15,6 +15,9 @@ glottolog_family_name: Pano-Tacanan
 glottolog_classification: "Pano-Tacanan > Panoan > Mainline Pano > Pano Nawa > Chama subgroup > Shipibo-Konibo-Kapanawa > Shipibo-Conibo"
 wikipedia_url: "https://en.wikipedia.org/wiki/Shipibo_language"
 translations:
+  - translation_iso: ara
+    name: اللغة الشيبيبو-كونيبو
+    auto: true
   - translation_iso: jpn
     name: シピボ語
     auto: true

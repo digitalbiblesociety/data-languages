@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > North and Central Vanuatu > Central Vanuatu > Malakula > Western Malakula linkage > Peripheral Western Malakula > Southwestern Malakula > Dixon Reef"
 wikipedia_url: "https://en.wikipedia.org/wiki/Dixon_Reef_language"
 translations:
+  - translation_iso: ara
+    name: ديكسون ريف
+    auto: true
   - translation_iso: jpn
     name: ディクソン・リーフ語
     auto: true

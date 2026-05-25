@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > North Borneo Malayo-Polynesian > North Sarawakan > Kenyahic > Lowland Kenyah > Western Lowland Kenyah-Penan > Western Lowland Kenyah"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tutoh_language"
 translations:
+  - translation_iso: ara
+    name: طويل وات
+    auto: true
   - translation_iso: jpn
     name: ロング・ワット語
     auto: true

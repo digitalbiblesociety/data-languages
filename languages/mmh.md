@@ -15,6 +15,9 @@ glottolog_family_name: Arawakan
 glottolog_classification: "Arawakan > Central-Eastern Maipuran > Central Maipuran > Xinguan Arawak > Waura-Mehinaku-Kustenau > Waura-Mehinaku > Mehináku"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mehinaku_language"
 translations:
+  - translation_iso: ara
+    name: لغة محيناكو
+    auto: true
   - translation_iso: jpn
     name: メイナク語
   - translation_iso: zho

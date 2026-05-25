@@ -15,6 +15,9 @@ glottolog_family_name: Tupian
 glottolog_classification: "Tupian > Arikem-Tupari > Tuparic > Nuclear Tuparic > Corumbiara > Mekens"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mek%C3%A9ns_language"
 translations:
+  - translation_iso: ara
+    name: اللغة ساكيرابيا
+    auto: true
   - translation_iso: jpn
     name: サキラビア語
     auto: true

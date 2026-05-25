@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Idomoid > Akweya > Etulo-Idoma > Nuclear Idoma > Idoma-Agatu-Okpogu > Idoma"
 wikipedia_url: "https://en.wikipedia.org/wiki/Idoma_language"
 translations:
+  - translation_iso: ara
+    name: إيدوما
+    auto: true
   - translation_iso: jpn
     name: イドマ語
   - translation_iso: zho

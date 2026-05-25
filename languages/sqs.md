@@ -14,6 +14,9 @@ glottolog_family_name: Sign Language
 glottolog_classification: "Sign Language > L1 Sign Language > BSLic > Sri Lankan Sign Language"
 wikipedia_url: "https://en.wikipedia.org/wiki/Sri_Lankan_Sign_Language"
 translations:
+  - translation_iso: ara
+    name: اللغة الإشارة السريلانكية
+    auto: true
   - translation_iso: jpn
     name: スリランカ手話
   - translation_iso: zho

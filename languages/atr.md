@@ -15,6 +15,9 @@ glottolog_family_name: Cariban
 glottolog_classification: "Cariban > Yawaperi > Waimiri-Atroari"
 wikipedia_url: "https://en.wikipedia.org/wiki/Waimiri-Atroar%C3%AD_language"
 translations:
+  - translation_iso: ara
+    name: اللغة وايميري-أترواري
+    auto: true
   - translation_iso: jpn
     name: ワイミリアトロアリ語
     auto: true

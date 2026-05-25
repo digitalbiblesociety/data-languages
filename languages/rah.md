@@ -15,6 +15,9 @@ glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Brahmaputran > Bodo-Garo > Kochic > Rabha"
 wikipedia_url: "https://en.wikipedia.org/wiki/Rabha_language"
 translations:
+  - translation_iso: ara
+    name: رابها
+    auto: true
   - translation_iso: hin
     name: रभा भाषा
   - translation_iso: jpn

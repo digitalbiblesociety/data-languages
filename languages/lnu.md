@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Gur > Central Gur > Tula-Longuda > Longuda"
 wikipedia_url: "https://en.wikipedia.org/wiki/Longuda_language"
 translations:
+  - translation_iso: ara
+    name: لغة ونجودا
+    auto: true
   - translation_iso: jpn
     name: ロングダ語
     auto: true

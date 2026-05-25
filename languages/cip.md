@@ -15,6 +15,9 @@ glottolog_family_name: Otomanguean
 glottolog_classification: "Otomanguean > Eastern Otomanguean > Manguean > Chiapanec"
 wikipedia_url: "https://en.wikipedia.org/wiki/Chiapanec_language"
 translations:
+  - translation_iso: ara
+    name: الشيابانك
+    auto: true
   - translation_iso: jpn
     name: チアパネック語
   - translation_iso: zho

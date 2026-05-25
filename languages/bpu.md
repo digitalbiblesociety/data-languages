@@ -14,6 +14,9 @@ glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Madang > Rai Coast > Mindjim > Lower Minjim > Coastal Minjim > Bongu"
 wikipedia_url: "https://en.wikipedia.org/wiki/Bongu_language"
 translations:
+  - translation_iso: ara
+    name: بونجو
+    auto: true
   - translation_iso: jpn
     name: ボング語
     auto: true

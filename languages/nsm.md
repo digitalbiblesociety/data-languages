@@ -15,6 +15,9 @@ glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Kuki-Chin-Naga > Angami-Ao > Angami-Pochuri > Rengma-Simi > Sumi Naga"
 wikipedia_url: "https://en.wikipedia.org/wiki/S%C3%BCmi_language"
 translations:
+  - translation_iso: ara
+    name: سومي ناغا
+    auto: true
   - translation_iso: hin
     name: सुमी भाषा
   - translation_iso: jpn

@@ -15,6 +15,9 @@ glottolog_family_name: Austroasiatic
 glottolog_classification: "Austroasiatic > Bahnaric > West Bahnaric > Nuclear West Bahnaric > Sapuan"
 wikipedia_url: "https://en.wikipedia.org/wiki/Sapuan_language"
 translations:
+  - translation_iso: ara
+    name: اللغة سابوان
+    auto: true
   - translation_iso: jpn
     name: セプアル語
     auto: true

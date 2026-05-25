@@ -13,6 +13,9 @@ glottolog_family_name: Unclassifiable
 glottolog_classification: "Unclassifiable > North Picene"
 wikipedia_url: "https://en.wikipedia.org/wiki/North_Picene_language"
 translations:
+  - translation_iso: ara
+    name: بيسيني الشمالية
+    auto: true
   - translation_iso: jpn
     name: 北ピケネ語
   - translation_iso: zho

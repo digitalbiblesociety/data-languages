@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Wide Grassfields > Narrow Grassfields > Mbam-Nkam > Southern Mbam-Nkam > Mbam-Nkam Nun > Bambalang"
 wikipedia_url: "https://en.wikipedia.org/wiki/Bambalang_language"
 translations:
+  - translation_iso: ara
+    name: بامبالانج
+    auto: true
   - translation_iso: jpn
     name: バンバラン語
     auto: true

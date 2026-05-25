@@ -15,6 +15,9 @@ glottolog_family_name: Pidgin
 glottolog_classification: "Pidgin > Zulu-based pidgin > Fanagalo"
 wikipedia_url: "https://en.wikipedia.org/wiki/Fanagalo"
 translations:
+  - translation_iso: ara
+    name: الفانجالو
+    auto: true
   - translation_iso: jpn
     name: ファナガロ語
   - translation_iso: zho

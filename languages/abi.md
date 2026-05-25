@@ -14,6 +14,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Kwa Volta-Congo > Nyo > Agneby > Abidji"
 wikipedia_url: "https://en.wikipedia.org/wiki/Abidji_language"
 translations:
+  - translation_iso: ara
+    name: لغة أبيدجي
+    auto: true
   - translation_iso: jpn
     name: アビッジ語
     auto: true

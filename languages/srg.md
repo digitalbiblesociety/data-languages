@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Greater Central Philippine > Central Philippine > Bisayan > West Bisayan > Kinarayan > Sulod"
 wikipedia_url: "https://en.wikipedia.org/wiki/Sulod_language"
 translations:
+  - translation_iso: ara
+    name: اللغة السولود
+    auto: true
   - translation_iso: jpn
     name: ブキドノン語
     auto: true

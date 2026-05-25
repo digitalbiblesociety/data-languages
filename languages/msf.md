@@ -15,6 +15,9 @@ glottolog_family_name: Nimboranic
 glottolog_classification: "Nimboranic > Outer Nimboranic > Mekwei"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mekwei_language"
 translations:
+  - translation_iso: ara
+    name: لغة مكوي
+    auto: true
   - translation_iso: jpn
     name: メクウェイ語
     auto: true

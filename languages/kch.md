@@ -15,6 +15,9 @@ glottolog_family_name: Unattested
 glottolog_classification: "Unattested > Atlantic-Congo (Unattested) > Vono"
 wikipedia_url: "https://en.wikipedia.org/wiki/Vono_language"
 translations:
+  - translation_iso: ara
+    name: لغة فونو
+    auto: true
   - translation_iso: jpn
     name: ボノ語
     auto: true

@@ -15,6 +15,9 @@ glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Indo-Aryan > Middle-Modern Indo-Aryan > Continental Indo-Aryan > Midlands Indo-Aryan > Shaurasenic > Indo-Aryan Central zone > Western Hindi > Hindustani > Andaman Creole Hindi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Andaman_Creole_Hindi"
 translations:
+  - translation_iso: ara
+    name: آندآمآن كرإولإ هيندي
+    auto: true
   - translation_iso: hin
     name: अण्डमान क्रियोल हिन्दी
   - translation_iso: jpn

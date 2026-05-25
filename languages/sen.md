@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Senufo > North Senufo > Nanerigé Sénoufo"
 wikipedia_url: "https://en.wikipedia.org/wiki/Nanerig%C3%A9_language"
 translations:
+  - translation_iso: ara
+    name: نانيريجي سينوفو
+    auto: true
   - translation_iso: jpn
     name: ナーニ語
     auto: true

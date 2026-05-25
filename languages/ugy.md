@@ -15,6 +15,9 @@ glottolog_family_name: Sign Language
 glottolog_classification: "Sign Language > L1 Sign Language > Uruguayan Sign Language"
 wikipedia_url: "https://en.wikipedia.org/wiki/Uruguayan_Sign_Language"
 translations:
+  - translation_iso: ara
+    name: اللغة الإشارة الأوروغوايانية
+    auto: true
   - translation_iso: jpn
     name: ウルグアイ手話
   - translation_iso: zho

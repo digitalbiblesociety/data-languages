@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Wide Grassfields > Narrow Grassfields > Mbam-Nkam > Southern Mbam-Nkam > Ngembaic > Unclassified Ngembaic > Kpati"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kpati_language"
 translations:
+  - translation_iso: ara
+    name: لغة كباتي
+    auto: true
   - translation_iso: jpn
     name: クパティ語
   - translation_iso: zho

@@ -15,6 +15,9 @@ glottolog_family_name: Tungusic
 glottolog_classification: "Tungusic > Northeastern Tungusic > Central-Eastern Tungusic > Oroch-Udihe > Oroch"
 wikipedia_url: "https://en.wikipedia.org/wiki/Oroch_language"
 translations:
+  - translation_iso: ara
+    name: اللغة أوروتش
+    auto: true
   - translation_iso: jpn
     name: オロチ語
   - translation_iso: kor

@@ -9,6 +9,9 @@ latitude: 4.04948
 longitude: 33.0412
 wikipedia_url: "https://en.wikipedia.org/wiki/Lango_language_(South_Sudan)"
 translations:
+  - translation_iso: ara
+    name: لغة انجو
+    auto: true
   - translation_iso: jpn
     name: ランゴ語
   - translation_iso: zho

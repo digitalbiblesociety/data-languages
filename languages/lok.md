@@ -14,6 +14,9 @@ glottolog_family_name: Mande
 glottolog_classification: "Mande > Western Mande > Manding-Kpelle > Southwest Mande > Mende-Loma > Mende-Bandi > Mende-Loko > Loko"
 wikipedia_url: "https://en.wikipedia.org/wiki/Loko_language"
 translations:
+  - translation_iso: ara
+    name: لغة وكو
+    auto: true
   - translation_iso: jpn
     name: ロコ語
     auto: true

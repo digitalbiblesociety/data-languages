@@ -15,6 +15,9 @@ glottolog_family_name: Tucanoan
 glottolog_classification: "Tucanoan > Eastern Tucanoan > Western Eastern Tucanoan > Cubeo-Desano > Yupua-Siriano-Desano > Siriano-Desano > Desano"
 wikipedia_url: "https://en.wikipedia.org/wiki/Desano_language"
 translations:
+  - translation_iso: ara
+    name: ديسانو
+    auto: true
   - translation_iso: jpn
     name: デサノ語
   - translation_iso: zho

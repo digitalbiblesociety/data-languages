@@ -8,6 +8,9 @@ country_name: Georgia
 status_id: null
 wikipedia_url: "https://en.wikipedia.org/wiki/Armazic_language"
 translations:
+  - translation_iso: ara
+    name: أرمازية
+    auto: true
   - translation_iso: jpn
     name: アルマジック語
     auto: true

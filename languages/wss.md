@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Kwa Volta-Congo > Nyo > Potou-Tano > Tano > Central Tano > Akanic > Wasa"
 wikipedia_url: "https://en.wikipedia.org/wiki/Wasa_language"
 translations:
+  - translation_iso: ara
+    name: واسا
+    auto: true
   - translation_iso: jpn
     name: ワサ語
   - translation_iso: zho

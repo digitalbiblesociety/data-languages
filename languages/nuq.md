@@ -14,6 +14,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Central Pacific linkage > Tokalau Fijian > Polynesian > Nuclear Polynesian > Northern Outlier Polynesian-East Polynesian > Solomons Northern Outlier Polynesian-East Polynesian > Central Northern Outlier Polynesian-East Polynesian > Central Northern Outlier Polynesian > Takuuic > Nukumanu"
 wikipedia_url: "https://en.wikipedia.org/wiki/Nukumanu_language"
 translations:
+  - translation_iso: ara
+    name: نوكومانو
+    auto: true
   - translation_iso: jpn
     name: ヌクマヌ語
   - translation_iso: kor

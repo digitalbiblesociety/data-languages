@@ -10,6 +10,9 @@ latitude: -8.01172
 longitude: -47.57738
 wikipedia_url: "https://en.wikipedia.org/wiki/Krah%C3%B4_dialect"
 translations:
+  - translation_iso: ara
+    name: كراهو
+    auto: true
   - translation_iso: jpn
     name: クラホ語
     auto: true

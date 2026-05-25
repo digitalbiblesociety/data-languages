@@ -14,6 +14,9 @@ glottolog_family_id: mixe1284
 glottolog_family_name: Mixe-Zoque
 glottolog_classification: "Mixe-Zoque > Zoque > Chiapas-Jitotolteco Zoque > Chiapas Zoque > Central-South Chiapas Zoque"
 translations:
+  - translation_iso: ara
+    name: سوكي كوبايناليا
+    auto: true
   - translation_iso: jpn
     name: コパイナラ・ゾケ語
     auto: true

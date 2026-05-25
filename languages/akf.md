@@ -14,6 +14,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Idomoid > Yatye-Akpa > Akpa"
 wikipedia_url: "https://en.wikipedia.org/wiki/Akpa_language"
 translations:
+  - translation_iso: ara
+    name: لغة أكپا
+    auto: true
   - translation_iso: jpn
     name: アクパ語
     auto: true

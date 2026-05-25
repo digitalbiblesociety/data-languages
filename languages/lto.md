@@ -14,6 +14,9 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > East Bantu > Northeast Savanna Bantu > Great Lakes Bantu > Greater Luyia > Luyia > Saamia-Wanga-Bukusu > Saamia-Wanga > Central-Eastern Luyia > Kisa-Marama-Tsotso > Tsotso"
 translations:
+  - translation_iso: ara
+    name: لغة سوتسو
+    auto: true
   - translation_iso: jpn
     name: ツォツォ語
   - translation_iso: zho

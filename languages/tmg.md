@@ -15,6 +15,9 @@ glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Italic > Latino-Faliscan > Latinic > Imperial Latin > Romance > Italo-Western Romance > Western Romance > Shifted Western Romance > Southwestern Shifted Romance > West Ibero-Romance > Castilic > South Castilic > Ternate-Zamboanga-Cavite > Ternateño"
 wikipedia_url: "https://en.wikipedia.org/wiki/Portugis"
 translations:
+  - translation_iso: ara
+    name: تيرناتينو
+    auto: true
   - translation_iso: jpn
     name: テルナテーニョ語
     auto: true

@@ -15,6 +15,9 @@ glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Germanic > Northwest Germanic > West Germanic > North Sea Germanic > Anglo-Frisian > Anglic > Later Anglic > Middle-Modern English > Macro-English > Guinea Coast Creole English > West African Creole English > Coastal Nigerian Krio > Cameroon Pidgin"
 wikipedia_url: "https://en.wikipedia.org/wiki/Cameroonian_Pidgin_English"
 translations:
+  - translation_iso: ara
+    name: بدجن كاميرون
+    auto: true
   - translation_iso: jpn
     name: カメルーン・ピジン
   - translation_iso: zho

@@ -14,6 +14,9 @@ glottolog_family_id: krua1234
 glottolog_family_name: Kru
 glottolog_classification: "Kru > Eastern Kru > Beteic > Western Bete > Guiberoua Béte"
 translations:
+  - translation_iso: ara
+    name: غيبيروا بيتي
+    auto: true
   - translation_iso: jpn
     name: ギベルア・ベテ語
     auto: true

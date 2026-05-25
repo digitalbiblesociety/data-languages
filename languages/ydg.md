@@ -15,6 +15,9 @@ glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Iranian-Nuristani > Iranian > Central Eastern Iranian > Yidgha-Munji > Yidgha"
 wikipedia_url: "https://en.wikipedia.org/wiki/Yidgha_language"
 translations:
+  - translation_iso: ara
+    name: يدغة
+    auto: true
   - translation_iso: jpn
     name: イドガ語
   - translation_iso: zho

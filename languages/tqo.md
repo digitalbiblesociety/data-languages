@@ -15,6 +15,9 @@ glottolog_family_name: Eleman
 glottolog_classification: "Eleman > Eastern Eleman > Toaripi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Toaripi_language"
 translations:
+  - translation_iso: ara
+    name: توارييبي
+    auto: true
   - translation_iso: jpn
     name: トアリピ語
   - translation_iso: zho

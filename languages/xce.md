@@ -15,6 +15,9 @@ glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Celtic > Celtiberian"
 wikipedia_url: "https://en.wikipedia.org/wiki/Celtiberian_language"
 translations:
+  - translation_iso: ara
+    name: كيلتيبيريان
+    auto: true
   - translation_iso: jpn
     name: ケルティベリア語
   - translation_iso: kor

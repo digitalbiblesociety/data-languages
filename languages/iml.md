@@ -15,6 +15,9 @@ glottolog_family_name: Coosan
 glottolog_classification: "Coosan > Miluk"
 wikipedia_url: "https://en.wikipedia.org/wiki/Miluk_language"
 translations:
+  - translation_iso: ara
+    name: ميلوك
+    auto: true
   - translation_iso: jpn
     name: ミルク語
     auto: true

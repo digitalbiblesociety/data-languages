@@ -15,6 +15,9 @@ glottolog_family_name: Sepik
 glottolog_classification: "Sepik > Amal"
 wikipedia_url: "https://en.wikipedia.org/wiki/Amal_language"
 translations:
+  - translation_iso: ara
+    name: اللغة الأمال
+    auto: true
   - translation_iso: jpn
     name: アマル語
     auto: true

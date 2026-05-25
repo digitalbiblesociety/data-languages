@@ -14,6 +14,9 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Cameroun-Ubangian > Ubangi > Ubangi Ka > Mundu-Baka > Western Mundu-Baka > Baka-Gundi > Gundi"
 translations:
+  - translation_iso: ara
+    name: الجوندي
+    auto: true
   - translation_iso: jpn
     name: グンディ語
   - translation_iso: zho

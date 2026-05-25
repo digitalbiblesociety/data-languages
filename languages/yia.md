@@ -15,6 +15,9 @@ glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > South-West Pama-Nyungan > Yinggarda"
 wikipedia_url: "https://en.wikipedia.org/wiki/Yinggarda_language"
 translations:
+  - translation_iso: ara
+    name: اللغة يينجاردا
+    auto: true
   - translation_iso: jpn
     name: インガーダ語
   - translation_iso: zho

@@ -12,6 +12,9 @@ glottolog_family_name: Artificial Language
 glottolog_classification: "Artificial Language > Romanova"
 wikipedia_url: "https://en.wikipedia.org/wiki/Romanova_language"
 translations:
+  - translation_iso: ara
+    name: روماڤا
+    auto: true
   - translation_iso: jpn
     name: ロマノヴァ
   - translation_iso: zho

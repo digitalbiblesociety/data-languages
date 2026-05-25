@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Ebira-Nupoid > Macro-Nupoid > Nupoid > Dibo-Kupa > Abawa > Kami-Gupa > Gupa"
 wikipedia_url: "https://en.wikipedia.org/wiki/Gupa-Abawa_language"
 translations:
+  - translation_iso: ara
+    name: غوبآ-آبآوآ
+    auto: true
   - translation_iso: jpn
     name: グパ・アバワ語
     auto: true

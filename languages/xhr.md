@@ -8,6 +8,9 @@ country_name: Italy
 status_id: null
 wikipedia_url: "https://en.wikipedia.org/wiki/Hernican_language"
 translations:
+  - translation_iso: ara
+    name: هيرنيكان
+    auto: true
   - translation_iso: jpn
     name: ヘルニカン語
     auto: true

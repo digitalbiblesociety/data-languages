@@ -12,6 +12,9 @@ longitude: 93.80636
 glottocode: shom1245
 wikipedia_url: "https://en.wikipedia.org/wiki/Shompen_language"
 translations:
+  - translation_iso: ara
+    name: اللغة شوم بينج
+    auto: true
   - translation_iso: hin
     name: शोम्पेन भाषा
   - translation_iso: jpn

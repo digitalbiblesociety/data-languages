@@ -16,6 +16,9 @@ glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Germanic > Northwest Germanic > West Germanic > High German > Upper German > Middle-Modern High German > Modern High German > Upper Franconian > Greater East Franconian > Ostfränkisch"
 wikipedia_url: "https://en.wikipedia.org/wiki/Main-Franconian_dialects"
 translations:
+  - translation_iso: ara
+    name: مين فرانكنكش
+    auto: true
   - translation_iso: jpn
     name: マインフランク語
   - translation_iso: kor

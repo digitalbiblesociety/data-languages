@@ -15,6 +15,9 @@ glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > Desert Nyungic > Wati > Pintupic > Nuclear Pintupic > Wangkatja-Tjarra > Tjarra > Yankunytjatjara"
 wikipedia_url: "https://en.wikipedia.org/wiki/Yankunytjatjara_dialect"
 translations:
+  - translation_iso: ara
+    name: لغة يانكونيتجاتجارا
+    auto: true
   - translation_iso: jpn
     name: ヤンクニチャチャラ語
   - translation_iso: zho

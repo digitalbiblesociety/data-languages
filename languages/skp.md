@@ -14,6 +14,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > North Borneo Malayo-Polynesian > Central Sarawak > Melanau-Kajang > Kajang > Sekapan"
 wikipedia_url: "https://en.wikipedia.org/wiki/Sekapan_language"
 translations:
+  - translation_iso: ara
+    name: اللغة سيكابان
+    auto: true
   - translation_iso: jpn
     name: セケパン語
     auto: true

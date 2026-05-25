@@ -15,6 +15,9 @@ glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > Biu-Mandara > North Biu-Mandara > Musguic > Musgu-Mbara > Musgu"
 wikipedia_url: "https://en.wikipedia.org/wiki/Musgu_language"
 translations:
+  - translation_iso: ara
+    name: لغة موسجو
+    auto: true
   - translation_iso: jpn
     name: ムスグ語
   - translation_iso: zho

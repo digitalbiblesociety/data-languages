@@ -14,6 +14,9 @@ glottolog_family_id: cari1283
 glottolog_family_name: Cariban
 glottolog_classification: "Cariban > Venezuelan Cariban > Mapoyo-Tamanaku > Mapoyo-Yawarana > Yabarana"
 translations:
+  - translation_iso: ara
+    name: يابارانا
+    auto: true
   - translation_iso: jpn
     name: ヤワラナ語
   - translation_iso: zho

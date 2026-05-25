@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Admiralty Islands > Western Admiralty Islands > Anchorite > Kaniet"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kaniet_language"
 translations:
+  - translation_iso: ara
+    name: كانييت
+    auto: true
   - translation_iso: jpn
     name: カニエット語
     auto: true

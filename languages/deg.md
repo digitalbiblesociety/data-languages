@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Akpes-Edoid > Edoid > Delta Edoid > Degema-Engenni > Degema"
 wikipedia_url: "https://en.wikipedia.org/wiki/Degema_language"
 translations:
+  - translation_iso: ara
+    name: ديجيما
+    auto: true
   - translation_iso: jpn
     name: デゲマ語
     auto: true

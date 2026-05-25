@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Central Pacific linkage > Tokalau Fijian > Polynesian > Nuclear Polynesian > Northern Outlier Polynesian-East Polynesian > Solomons Northern Outlier Polynesian-East Polynesian > Central Northern Outlier Polynesian-East Polynesian > East Polynesian > East Polynesian Proximal > Southern East Polynesian Proximal > Mangaia-Old Rapa"
 wikipedia_url: "https://en.wikipedia.org/wiki/Rapa_language"
 translations:
+  - translation_iso: ara
+    name: رابا
+    auto: true
   - translation_iso: jpn
     name: ラパ語
   - translation_iso: zho

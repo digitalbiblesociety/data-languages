@@ -14,6 +14,9 @@ glottolog_family_id: pama1250
 glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > Karnic > Central Karnic > Western Central Karnic > Yandruwandhic > Yawarawarga"
 translations:
+  - translation_iso: ara
+    name: اللغة ياوارواركا
+    auto: true
   - translation_iso: jpn
     name: ヤワラワーガ語
   - translation_iso: zho

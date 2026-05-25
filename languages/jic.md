@@ -15,6 +15,9 @@ glottolog_family_name: Jicaquean
 glottolog_classification: "Jicaquean > Tol"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tol_language"
 translations:
+  - translation_iso: ara
+    name: لغة تول
+    auto: true
   - translation_iso: jpn
     name: トル語
     auto: true

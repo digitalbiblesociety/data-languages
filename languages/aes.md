@@ -12,6 +12,9 @@ longitude: -123.94
 glottocode: alse1251
 wikipedia_url: "https://en.wikipedia.org/wiki/Alsea_language"
 translations:
+  - translation_iso: ara
+    name: لغة ألسي
+    auto: true
   - translation_iso: jpn
     name: アルシー語
   - translation_iso: zho

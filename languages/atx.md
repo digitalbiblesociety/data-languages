@@ -12,6 +12,9 @@ longitude: -63.12023
 glottocode: arut1244
 wikipedia_url: "https://en.wikipedia.org/wiki/Arutani_language"
 translations:
+  - translation_iso: ara
+    name: اللغة أروتاني
+    auto: true
   - translation_iso: jpn
     name: アルタニ語
     auto: true

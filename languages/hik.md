@@ -14,6 +14,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Nunusaku > Piru Bay > East Piru Bay > Solehua > Seram Straits > Ambonic > Central Ambon > Seit-Kaitetu"
 wikipedia_url: "https://en.wikipedia.org/wiki/Seit-Kaitetu_language"
 translations:
+  - translation_iso: ara
+    name: سيت-كايتيتو
+    auto: true
   - translation_iso: jpn
     name: セイト・カイテツ語
     auto: true

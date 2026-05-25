@@ -11,6 +11,9 @@ longitude: 147.09377
 glottocode: taua1242
 wikipedia_url: "https://en.wikipedia.org/wiki/Tauade_language"
 translations:
+  - translation_iso: ara
+    name: تاواديه
+    auto: true
   - translation_iso: jpn
     name: タウアタ語
     auto: true

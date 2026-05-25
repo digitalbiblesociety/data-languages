@@ -15,6 +15,9 @@ glottolog_family_name: Japonic
 glottolog_classification: "Japonic > Ryukyuan > Southern Ryukyu > Miyako"
 wikipedia_url: "https://en.wikipedia.org/wiki/Miyakoan_language"
 translations:
+  - translation_iso: ara
+    name: لغة ميياكو
+    auto: true
   - translation_iso: jpn
     name: 宮古語
   - translation_iso: kor

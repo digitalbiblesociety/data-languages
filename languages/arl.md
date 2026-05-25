@@ -15,6 +15,9 @@ glottolog_family_name: Zaparoan
 glottolog_classification: "Zaparoan > Iquito-Arabela > Arabela-Andoa > Arabela"
 wikipedia_url: "https://en.wikipedia.org/wiki/Arabela_language"
 translations:
+  - translation_iso: ara
+    name: اللغة أرابيلا
+    auto: true
   - translation_iso: jpn
     name: アラベラ語
   - translation_iso: zho

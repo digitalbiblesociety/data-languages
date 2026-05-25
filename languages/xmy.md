@@ -15,6 +15,9 @@ glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > Paman > Mayabic > Mayaguduna"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mayi-Kutuna_language"
 translations:
+  - translation_iso: ara
+    name: مايابودونا
+    auto: true
   - translation_iso: jpn
     name: マヤグドゥナ語
     auto: true

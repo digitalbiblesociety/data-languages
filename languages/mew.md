@@ -15,6 +15,9 @@ glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > West Chadic > West Chadic A > West Chadic A.2-3 > West Chadic A.2 > Boleic > Unclassified Boleic > Maaka"
 wikipedia_url: "https://en.wikipedia.org/wiki/Maaka_language"
 translations:
+  - translation_iso: ara
+    name: لغة ماكا
+    auto: true
   - translation_iso: jpn
     name: マアカ語
     auto: true

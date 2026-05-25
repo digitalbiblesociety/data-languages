@@ -14,6 +14,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Cameroun-Ubangian > Ubangi > Zandic > Barambo-Pambia > Pambia"
 wikipedia_url: "https://en.wikipedia.org/wiki/Pambia_language"
 translations:
+  - translation_iso: ara
+    name: اللغة بامبيا
+    auto: true
   - translation_iso: jpn
     name: パンビア語
     auto: true

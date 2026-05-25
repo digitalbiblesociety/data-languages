@@ -13,6 +13,9 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > North New Guinea linkage > Huon Gulf > South Huon Gulf linkage > Buang linkage > Mumeng > Dambi-Kumaru > Dambi"
 translations:
+  - translation_iso: ara
+    name: الدامبي
+    auto: true
   - translation_iso: jpn
     name: ダンビ語
     auto: true

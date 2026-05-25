@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > Central-Western Bantu > West-Coastal Bantu > Nzadic > Lweric > Dingic > Loange-Atlantic > Kwilu-Ngounie > Kasai-Ngounie > Kwa-Kasai North > Sakata-Tiinic > Sakata"
 wikipedia_url: "https://en.wikipedia.org/wiki/Sakata_language"
 translations:
+  - translation_iso: ara
+    name: اللغة ساكاتا
+    auto: true
   - translation_iso: jpn
     name: キサカタ語
     auto: true

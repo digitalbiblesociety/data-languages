@@ -15,6 +15,9 @@ glottolog_family_name: Mongolic-Khitan
 glottolog_classification: "Mongolic-Khitan > Mongolic > Eastern Mongolic > Khalkha-Buriat > Mongolian > Peripheral Mongolian"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mongolian_language_in_Inner_Mongolia"
 translations:
+  - translation_iso: ara
+    name: لغة منغولي الطرفية
+    auto: true
   - translation_iso: jpn
     name: 南部モンゴル語群
   - translation_iso: zho

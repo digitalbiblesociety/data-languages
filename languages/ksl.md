@@ -13,6 +13,9 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > North New Guinea linkage > Huon Gulf > South Huon Gulf linkage > Buang linkage > Mumeng > Dambi-Kumaru > Kumalu"
 translations:
+  - translation_iso: ara
+    name: كومالو
+    auto: true
   - translation_iso: jpn
     name: クマル語
     auto: true

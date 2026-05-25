@@ -14,6 +14,9 @@ glottolog_family_id: otom1299
 glottolog_family_name: Otomanguean
 glottolog_classification: "Otomanguean > Eastern Otomanguean > Amuzgo-Mixtecan > Amuzgoan > San Pedro Amuzgos Amuzgo"
 translations:
+  - translation_iso: ara
+    name: اللغة أموزجو سان بيدرو
+    auto: true
   - translation_iso: jpn
     name: サン・ペドロ・アムズゴス・アムズゴ語
     auto: true

@@ -15,6 +15,9 @@ glottolog_family_name: Central Sudanic
 glottolog_classification: "Central Sudanic > Mangbetu-Asua > Mangbetuic > Mangbetu"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mangbetu_language"
 translations:
+  - translation_iso: ara
+    name: لغة منجبيتو
+    auto: true
   - translation_iso: jpn
     name: マングベツ語
   - translation_iso: zho

@@ -15,6 +15,9 @@ glottolog_family_name: Nuclear Torricelli
 glottolog_classification: "Nuclear Torricelli > Marienberg > Elepi-Kamasau-Marienberg > Kamasau"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kamasau_language"
 translations:
+  - translation_iso: ara
+    name: لغة كاماساو
+    auto: true
   - translation_iso: jpn
     name: カマサウ語
     auto: true

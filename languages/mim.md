@@ -14,6 +14,9 @@ glottolog_family_id: otom1299
 glottolog_family_name: Otomanguean
 glottolog_classification: "Otomanguean > Eastern Otomanguean > Amuzgo-Mixtecan > Mixtecan > Mixtec-Cuicatec > Mixtec > Guerrero Mixtec > Nuclear Guerrero Mixtec > Alacatlatzala Mixtec"
 translations:
+  - translation_iso: ara
+    name: لغة مازاتك ألاكاتلاتزالا
+    auto: true
   - translation_iso: jpn
     name: アラカトラツァラ・ミステク語
     auto: true

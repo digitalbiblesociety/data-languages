@@ -15,6 +15,9 @@ glottolog_family_name: Nyulnyulan
 glottolog_classification: "Nyulnyulan > Eastern Nyulnyulan > Nyikinic > Nyigina"
 wikipedia_url: "https://en.wikipedia.org/wiki/Nyigina_language"
 translations:
+  - translation_iso: ara
+    name: نيايكينا
+    auto: true
   - translation_iso: jpn
     name: ニギナ語
   - translation_iso: zho

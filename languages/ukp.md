@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Bendic > Nuclear Bendic > Bukpic > Ukpe-Bayobiri"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ukpe-Bayobiri_language"
 translations:
+  - translation_iso: ara
+    name: أوكبيه-بايوبيري
+    auto: true
   - translation_iso: jpn
     name: ウクペ・バヨビリ語
     auto: true

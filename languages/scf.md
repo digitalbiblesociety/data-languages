@@ -11,6 +11,9 @@ latitude: 8.32601
 longitude: -81.25639
 wikipedia_url: "https://en.wikipedia.org/wiki/San_Miguel_Creole"
 translations:
+  - translation_iso: ara
+    name: كريول فرنسي سان ميجويل
+    auto: true
   - translation_iso: jpn
     name: パトワ語
     auto: true

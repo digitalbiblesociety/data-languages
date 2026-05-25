@@ -14,6 +14,9 @@ glottolog_family_name: Huitotoan
 glottolog_classification: "Huitotoan > Nonuya-Ocaina > Nonuya"
 wikipedia_url: "https://en.wikipedia.org/wiki/Nonuya_language"
 translations:
+  - translation_iso: ara
+    name: نونويا
+    auto: true
   - translation_iso: jpn
     name: ノヌヤ語
   - translation_iso: zho

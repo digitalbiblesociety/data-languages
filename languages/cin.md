@@ -15,6 +15,9 @@ glottolog_family_name: Tupian
 glottolog_classification: "Tupian > Monde > Gavianic > Nuclear Gavianic > Cinta Larga"
 wikipedia_url: "https://en.wikipedia.org/wiki/Cinta_Larga_language"
 translations:
+  - translation_iso: ara
+    name: سينتا لارغا
+    auto: true
   - translation_iso: jpn
     name: シンタ・ラルガ語
     auto: true

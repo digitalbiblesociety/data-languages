@@ -15,6 +15,9 @@ glottolog_family_name: Geelvink Bay
 glottolog_classification: "Geelvink Bay > Burate-Wate > Tunggare"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tarunggare_language"
 translations:
+  - translation_iso: ara
+    name: تونجاري
+    auto: true
   - translation_iso: jpn
     name: タルンガレ語
     auto: true

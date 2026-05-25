@@ -15,6 +15,9 @@ glottolog_family_name: Boran
 glottolog_classification: "Boran > Muinane"
 wikipedia_url: "https://en.wikipedia.org/wiki/Muinane_language"
 translations:
+  - translation_iso: ara
+    name: موينياني
+    auto: true
   - translation_iso: jpn
     name: ムイナネ語
   - translation_iso: zho

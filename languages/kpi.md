@@ -15,6 +15,9 @@ glottolog_family_name: Geelvink Bay
 glottolog_classification: "Geelvink Bay > Barapasi-Sauri-Kofei > Sauri-Kofei > Kofei"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kofei_language"
 translations:
+  - translation_iso: ara
+    name: لغة كوفي
+    auto: true
   - translation_iso: jpn
     name: コフェイ語
     auto: true

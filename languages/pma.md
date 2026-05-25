@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > North and Central Vanuatu > Central Vanuatu > Paama"
 wikipedia_url: "https://en.wikipedia.org/wiki/Paamese_language"
 translations:
+  - translation_iso: ara
+    name: اللغة بآما
+    auto: true
   - translation_iso: jpn
     name: パアマ語
     auto: true

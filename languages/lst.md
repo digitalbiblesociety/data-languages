@@ -15,6 +15,9 @@ glottolog_family_name: Sign Language
 glottolog_classification: "Sign Language > L1 Sign Language > LSFic > ASLic > American Sign > Modern Trinidad and Tobago Sign Language"
 wikipedia_url: "https://en.wikipedia.org/wiki/Trinidad_and_Tobago_Sign_Language"
 translations:
+  - translation_iso: ara
+    name: لغة الإشارة في ترينيداد وتوباغو
+    auto: true
   - translation_iso: jpn
     name: トリニダード・トバゴ手話
   - translation_iso: zho

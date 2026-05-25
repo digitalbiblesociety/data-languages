@@ -14,6 +14,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > Papuan Tip linkage > Nuclear Papuan Tip linkage > North Papuan Mainland-D'Entrecasteaux linkage > Dobu-Duau linkage > Duau"
 wikipedia_url: "https://en.wikipedia.org/wiki/Duau_language"
 translations:
+  - translation_iso: ara
+    name: دواو
+    auto: true
   - translation_iso: jpn
     name: ドゥアウ語
   - translation_iso: zho

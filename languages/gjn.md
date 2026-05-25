@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Kwa Volta-Congo > Nyo > Potou-Tano > Tano > Guang > North Guang > Gonja-Dompo > Gonja"
 wikipedia_url: "https://en.wikipedia.org/wiki/Gonja_language"
 translations:
+  - translation_iso: ara
+    name: غونجآ
+    auto: true
   - translation_iso: jpn
     name: ゴンジャ語
   - translation_iso: zho

@@ -15,6 +15,9 @@ glottolog_family_name: Chumashan
 glottolog_classification: "Chumashan > Southern Chumashan > Central Chumashan > Purisimeño"
 wikipedia_url: "https://en.wikipedia.org/wiki/Purisime%C3%B1o_language"
 translations:
+  - translation_iso: ara
+    name: اللغة بوريسيمينيو
+    auto: true
   - translation_iso: jpn
     name: プリシメーニョ語
     auto: true

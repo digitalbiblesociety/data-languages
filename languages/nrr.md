@@ -10,6 +10,9 @@ status_id: "10"
 latitude: 27.5088
 longitude: 98.45022
 translations:
+  - translation_iso: ara
+    name: نورا
+    auto: true
   - translation_iso: jpn
     name: ノッラ語
     auto: true

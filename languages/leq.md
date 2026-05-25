@@ -15,6 +15,9 @@ glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Enga-Kewa-Huli > Engan > Lembena"
 wikipedia_url: "https://en.wikipedia.org/wiki/Lembena_language"
 translations:
+  - translation_iso: ara
+    name: لغة يمبينا
+    auto: true
   - translation_iso: jpn
     name: レンベナ語
     auto: true

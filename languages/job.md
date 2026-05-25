@@ -14,6 +14,9 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > East Bantu > Northeast Savanna Bantu > Great Lakes Bantu > Western Lakes Bantu > Kivu > Forest Kivu > Fuliiric > Fuliiru-Vira > Joba"
 translations:
+  - translation_iso: ara
+    name: لغة جوبا
+    auto: true
   - translation_iso: jpn
     name: ジョバ語
     auto: true

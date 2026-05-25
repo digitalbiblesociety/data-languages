@@ -15,6 +15,9 @@ glottolog_family_name: Yuat
 glottolog_classification: "Yuat > Miyak-Bun-Biwat > Kyenele"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kyenele_language"
 translations:
+  - translation_iso: ara
+    name: لغة كيينيلي
+    auto: true
   - translation_iso: jpn
     name: キェネレ語
     auto: true

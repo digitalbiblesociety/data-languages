@@ -15,6 +15,9 @@ glottolog_family_name: Anim
 glottolog_classification: "Anim > Inland Gulf of Papua > Ipiko"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ipiko_language"
 translations:
+  - translation_iso: ara
+    name: إيبيكو
+    auto: true
   - translation_iso: jpn
     name: イピコ語
     auto: true

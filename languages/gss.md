@@ -14,6 +14,9 @@ glottolog_family_name: Sign Language
 glottolog_classification: "Sign Language > L1 Sign Language > LSFic > Greek Sign Language"
 wikipedia_url: "https://en.wikipedia.org/wiki/Greek_Sign_Language"
 translations:
+  - translation_iso: ara
+    name: لغة الإشارة اليونانية
+    auto: true
   - translation_iso: jpn
     name: ギリシャ手話
   - translation_iso: zho

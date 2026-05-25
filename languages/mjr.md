@@ -15,6 +15,9 @@ glottolog_family_name: Dravidian
 glottolog_classification: "Dravidian > South Dravidian > South Dravidian I > Tamil-Kannada > Tamil-Kota > Tamil-Toda > Tamil-Irula > Tamil-Kodagu > Tamil-Malayalam > Malayalamoid > Malavedan"
 wikipedia_url: "https://en.wikipedia.org/wiki/Malavedan_language"
 translations:
+  - translation_iso: ara
+    name: لغة مالافيدان
+    auto: true
   - translation_iso: jpn
     name: マラヴェダン語
     auto: true

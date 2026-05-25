@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Batanic > Yami-Itbayat > Yami"
 wikipedia_url: "https://en.wikipedia.org/wiki/Yami_language"
 translations:
+  - translation_iso: ara
+    name: يامي
+    auto: true
   - translation_iso: jpn
     name: タオ語
   - translation_iso: kor

@@ -14,6 +14,9 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Basap-Greater Barito > Greater Barito linkage > Southeast Barito > Malagasic > North-Central Malagasic > Central-Eastern Malagasic > Plateau Malagasy"
 translations:
+  - translation_iso: ara
+    name: اللغة ملغاسية البلاتو
+    auto: true
   - translation_iso: jpn
     name: プラトー・マダガスカル語
   - translation_iso: zho

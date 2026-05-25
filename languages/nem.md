@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Southern Melanesian > New Caledonian > Mainland New Caledonian > Northern New Caledonian > Mid-Northern New Caledonian > Nmi-Pij-Fwa-Pam-Pap > Nmi-Fij-Fwa > Hyenghene > Nemi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Nemi_language"
 translations:
+  - translation_iso: ara
+    name: نيمي
+    auto: true
   - translation_iso: jpn
     name: ネミ語
   - translation_iso: zho

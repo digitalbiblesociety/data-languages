@@ -14,6 +14,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Nunusaku > Three Rivers > Amalumute > Northwest Seram > Ulat Inai > Naka'ela"
 wikipedia_url: "https://en.wikipedia.org/wiki/Naka%CA%BCela_language"
 translations:
+  - translation_iso: ara
+    name: نكا إيلا
+    auto: true
   - translation_iso: jpn
     name: ナカエラ語
     auto: true

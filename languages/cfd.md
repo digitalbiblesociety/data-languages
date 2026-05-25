@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Benue-Congo Plateau > Beromic > Iten-Cara-Berom > Cara-Berom > Cara"
 wikipedia_url: "https://en.wikipedia.org/wiki/Cara_language"
 translations:
+  - translation_iso: ara
+    name: الكارا
+    auto: true
   - translation_iso: jpn
     name: カラ語
     auto: true

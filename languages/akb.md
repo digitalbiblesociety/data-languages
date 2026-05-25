@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Sumatran > Batakic > Central-Southern Batak > Southern Batak > Angkola-Mandailing > Batak Angkola"
 wikipedia_url: "https://en.wikipedia.org/wiki/Angkola_language"
 translations:
+  - translation_iso: ara
+    name: لغة باتاك أنجكولا
+    auto: true
   - translation_iso: jpn
     name: バタク・アンコーラ語
   - translation_iso: zho

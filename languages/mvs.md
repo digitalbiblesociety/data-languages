@@ -12,6 +12,9 @@ longitude: 138.2942
 glottocode: mass1263
 wikipedia_url: "https://en.wikipedia.org/wiki/Massep_language"
 translations:
+  - translation_iso: ara
+    name: لغة ماسيب
+    auto: true
   - translation_iso: jpn
     name: マッセップ語
     auto: true

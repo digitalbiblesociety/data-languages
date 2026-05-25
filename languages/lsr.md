@@ -15,6 +15,9 @@ glottolog_family_name: Nuclear Torricelli
 glottolog_classification: "Nuclear Torricelli > Wapei-Palei > Central Torricelli > Nuclear Palai > Bragat-Aruop-Amol > Srenge"
 wikipedia_url: "https://en.wikipedia.org/wiki/Aruop_language"
 translations:
+  - translation_iso: ara
+    name: لغة ارووپ
+    auto: true
   - translation_iso: jpn
     name: アルオップ語
     auto: true

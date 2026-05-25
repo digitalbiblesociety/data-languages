@@ -8,6 +8,9 @@ country_name: Italy
 status_id: null
 wikipedia_url: "https://en.wikipedia.org/wiki/Aequian_language"
 translations:
+  - translation_iso: ara
+    name: ايقويان
+    auto: true
   - translation_iso: jpn
     name: アエクイアン語
     auto: true

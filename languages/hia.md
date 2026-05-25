@@ -15,6 +15,9 @@ glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > Biu-Mandara > North Biu-Mandara > Lamang-Hdi > Lamang"
 wikipedia_url: "https://en.wikipedia.org/wiki/Lamang_language"
 translations:
+  - translation_iso: ara
+    name: لآمآنج
+    auto: true
   - translation_iso: jpn
     name: ラマング語
     auto: true

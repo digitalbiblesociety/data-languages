@@ -10,6 +10,9 @@ status_id: 6a
 latitude: 27.7686
 longitude: 92.18383
 translations:
+  - translation_iso: ara
+    name: تاوانج مونبا
+    auto: true
   - translation_iso: hin
     name: तवांग भाषा
   - translation_iso: jpn

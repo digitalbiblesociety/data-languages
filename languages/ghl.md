@@ -15,6 +15,9 @@ glottolog_family_name: Nubian
 glottolog_classification: "Nubian > Central Nubian > Kordofan Nubian > Eastern Kordofan Nubian > Uncunwee"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ghulfan_language"
 translations:
+  - translation_iso: ara
+    name: غولفآن
+    auto: true
   - translation_iso: jpn
     name: グルファン語
     auto: true

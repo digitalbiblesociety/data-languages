@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > North New Guinea linkage > Huon Gulf > Markham > Upper Markham > Adzera"
 wikipedia_url: "https://en.wikipedia.org/wiki/Adzera_language"
 translations:
+  - translation_iso: ara
+    name: لغة أدزيرا
+    auto: true
   - translation_iso: jpn
     name: アゼラ語
   - translation_iso: zho

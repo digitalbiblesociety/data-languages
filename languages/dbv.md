@@ -15,6 +15,9 @@ glottolog_family_name: Unattested
 glottolog_classification: "Unattested > Atlantic-Congo (Unattested) > Dungu"
 wikipedia_url: "https://en.wikipedia.org/wiki/Dungu_language"
 translations:
+  - translation_iso: ara
+    name: دونجو
+    auto: true
   - translation_iso: jpn
     name: ドゥング語
   - translation_iso: zho

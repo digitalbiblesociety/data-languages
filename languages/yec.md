@@ -15,6 +15,9 @@ glottolog_family_name: Mixed Language
 glottolog_classification: "Mixed Language > German-Yiddish-Romani-Rotwelsch > Yeniche"
 wikipedia_url: "https://en.wikipedia.org/wiki/Yenish_language"
 translations:
+  - translation_iso: ara
+    name: يينيتشي
+    auto: true
   - translation_iso: jpn
     name: イェニッシュ
   - translation_iso: kor

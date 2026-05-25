@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Malayo-Chamic > Malayic > Nuclear Malayic > Northern Sumatra Malay > Bangka-Belitung Malay > Bangka"
 wikipedia_url: "https://en.wikipedia.org/wiki/Bangka_Malay"
 translations:
+  - translation_iso: ara
+    name: لغة بانجكا
+    auto: true
   - translation_iso: jpn
     name: バンカ語
   - translation_iso: zho

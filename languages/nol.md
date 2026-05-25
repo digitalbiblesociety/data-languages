@@ -8,6 +8,9 @@ country_name: United States
 status_id: 8b
 wikipedia_url: "https://en.wikipedia.org/wiki/Nomlaki_language"
 translations:
+  - translation_iso: ara
+    name: نوملاكي
+    auto: true
   - translation_iso: jpn
     name: ノムラキ語
     auto: true

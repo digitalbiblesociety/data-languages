@@ -15,6 +15,9 @@ glottolog_family_name: Arawakan
 glottolog_classification: "Arawakan > Japura-Colombia > Nuclear Japura-Colombia > Northeast Japura-Colombia > Cassiquiare > Mandahuaca"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mandawaca_language"
 translations:
+  - translation_iso: ara
+    name: لغة مندتهواكا
+    auto: true
   - translation_iso: jpn
     name: マンダワカ語
   - translation_iso: zho

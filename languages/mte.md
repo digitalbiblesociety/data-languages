@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > Meso Melanesian linkage > New Ireland-Northwest Solomonic linkage > St George linkage > Northwest Solomonic > Mono-Uruavan > Mono-Alu"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mono-Alu_language"
 translations:
+  - translation_iso: ara
+    name: لغة مونو (جزر سليمان)
+    auto: true
   - translation_iso: jpn
     name: モノ語
     auto: true

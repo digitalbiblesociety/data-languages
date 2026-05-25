@@ -16,6 +16,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > Meso Melanesian linkage > New Ireland-Northwest Solomonic linkage > St George linkage > Northwest Solomonic > New Georgia > East New Georgia > Rovianic > Roviana"
 wikipedia_url: "https://en.wikipedia.org/wiki/Roviana_language"
 translations:
+  - translation_iso: ara
+    name: روفيانا
+    auto: true
   - translation_iso: jpn
     name: ロヴィアナ語
   - translation_iso: zho

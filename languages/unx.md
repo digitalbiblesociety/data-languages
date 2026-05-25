@@ -10,6 +10,9 @@ latitude: 25.03911
 longitude: 87.1792
 scripts: [Beng, Deva]
 translations:
+  - translation_iso: ara
+    name: موندا
+    auto: true
   - translation_iso: jpn
     name: ムンダ語
     auto: true

@@ -15,6 +15,9 @@ glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Kho-Bwa > Western Kho-Bwa > Sartang-Sherdukpen > Sartang"
 wikipedia_url: "https://en.wikipedia.org/wiki/Sartang_language"
 translations:
+  - translation_iso: ara
+    name: اللغة سارتانغ
+    auto: true
   - translation_iso: hin
     name: सरतंग भाषा
   - translation_iso: jpn

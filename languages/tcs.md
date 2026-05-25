@@ -15,6 +15,9 @@ glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Germanic > Northwest Germanic > West Germanic > North Sea Germanic > Anglo-Frisian > Anglic > Later Anglic > Middle-Modern English > Macro-English > Pacific Creole English > Early Melanesian Pidgin > Torres Strait-Lockhart River Creole"
 wikipedia_url: "https://en.wikipedia.org/wiki/Torres_Strait_Creole"
 translations:
+  - translation_iso: ara
+    name: كريولية جزر توريس
+    auto: true
   - translation_iso: jpn
     name: トレス海峡クレオール
   - translation_iso: zho

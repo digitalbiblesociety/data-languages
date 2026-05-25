@@ -14,6 +14,9 @@ glottolog_family_id: coch1271
 glottolog_family_name: Cochimi-Yuman
 glottolog_classification: "Cochimi-Yuman > Yuman > General Yuman > Pai > Havasupai-Walapai-Yavapai"
 translations:
+  - translation_iso: ara
+    name: لغة هافاسوباي-والاباي-يافاباي
+    auto: true
   - translation_iso: jpn
     name: ハヴァスパイ-ワラパイ-ヤヴァパイ語
     auto: true

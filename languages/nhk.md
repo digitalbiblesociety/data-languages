@@ -14,6 +14,9 @@ glottolog_family_id: utoa1244
 glottolog_family_name: Uto-Aztecan
 glottolog_classification: "Uto-Aztecan > Southern Uto-Aztecan > Corachol-Aztecan > Aztec > Eastern Nahuatl > Isthmus-Pipil Nahuatl > Isthmus Nahuatl > Isthmus-Cosoleacaque Nahuatl"
 translations:
+  - translation_iso: ara
+    name: إستموس كوسوليكاكاوي ناهواتل
+    auto: true
   - translation_iso: jpn
     name: 峡湾部・コソレアカケ・ナワトル語
     auto: true

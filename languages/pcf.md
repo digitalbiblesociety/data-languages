@@ -15,6 +15,9 @@ glottolog_family_name: Dravidian
 glottolog_classification: "Dravidian > South Dravidian > South Dravidian I > Tamil-Kannada > Tamil-Kota > Tamil-Toda > Tamil-Irula > Tamil-Kodagu > Tamil-Malayalam > Tamiloid > Tamil-Paliyan > Paliyan"
 wikipedia_url: "https://en.wikipedia.org/wiki/Paliyan_language"
 translations:
+  - translation_iso: ara
+    name: اللغة باليان
+    auto: true
   - translation_iso: jpn
     name: パリヤン語
     auto: true

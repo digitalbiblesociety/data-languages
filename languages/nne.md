@@ -14,6 +14,9 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > Central-Western Bantu > Njila > Southern Njila > Kunene > Cimbebasia > Ndonga (R.20) > Unclassified Ndonga (R.20) > Ngandyera"
 translations:
+  - translation_iso: ara
+    name: نغانديرا
+    auto: true
   - translation_iso: jpn
     name: ングアンディエラ語
     auto: true

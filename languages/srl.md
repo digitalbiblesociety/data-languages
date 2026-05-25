@@ -15,6 +15,9 @@ glottolog_family_name: Greater Kwerba
 glottolog_classification: "Greater Kwerba > Isirawa"
 wikipedia_url: "https://en.wikipedia.org/wiki/Isirawa_language"
 translations:
+  - translation_iso: ara
+    name: اللغة إسيراوا
+    auto: true
   - translation_iso: jpn
     name: イスィラワ語
   - translation_iso: zho

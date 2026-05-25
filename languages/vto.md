@@ -14,6 +14,9 @@ glottolog_family_name: Tor-Orya
 glottolog_classification: "Tor-Orya > Tor > Coastal Tor > Betaf-Vitou > Vitou"
 wikipedia_url: "https://en.wikipedia.org/wiki/Vitou_language"
 translations:
+  - translation_iso: ara
+    name: فيتو
+    auto: true
   - translation_iso: jpn
     name: ビトゥ語
     auto: true

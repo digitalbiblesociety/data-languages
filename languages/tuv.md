@@ -15,6 +15,9 @@ glottolog_family_name: Nilotic
 glottolog_classification: "Nilotic > Eastern Nilotic > Teso-Lotuxo-Maa > Teso-Turkana > Turkanic > Turkana"
 wikipedia_url: "https://en.wikipedia.org/wiki/Turkana_language"
 translations:
+  - translation_iso: ara
+    name: توركانا
+    auto: true
   - translation_iso: jpn
     name: トゥルカナ語
   - translation_iso: zho

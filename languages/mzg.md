@@ -15,6 +15,9 @@ glottolog_family_name: Sign Language
 glottolog_classification: "Sign Language > Auxiliary Sign Systems > Monastic Sign Language"
 wikipedia_url: "https://en.wikipedia.org/wiki/Monastic_sign_languages"
 translations:
+  - translation_iso: ara
+    name: لغة الإشارة الرهبانية
+    auto: true
   - translation_iso: jpn
     name: 修道院手話
   - translation_iso: zho

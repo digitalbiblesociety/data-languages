@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Celebic > Greater Eastern Celebic > Eastern Celebic > Southeastern Celebic > Bungku-Tolaki > Eastern Bungku-Tolaki > East Coast Bungku-Tolaki > Bahonsuai"
 wikipedia_url: "https://en.wikipedia.org/wiki/Bahonsuai_language"
 translations:
+  - translation_iso: ara
+    name: باهونْسوايي
+    auto: true
   - translation_iso: jpn
     name: バホンスアイ語
     auto: true

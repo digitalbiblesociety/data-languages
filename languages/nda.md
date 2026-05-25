@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > Bantu A-B10-B20-B30 > Bantu B20A > Siguic > Ndasa-Wumbvu > Ndasa"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ndasa_language"
 translations:
+  - translation_iso: ara
+    name: نداسا
+    auto: true
   - translation_iso: jpn
     name: ンダサ語
   - translation_iso: zho

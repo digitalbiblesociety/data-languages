@@ -15,6 +15,9 @@ glottolog_family_name: Ndu
 glottolog_classification: "Ndu > Nuclear Ndu > Sawosic > Burui-Gaikundi > Burui"
 wikipedia_url: "https://en.wikipedia.org/wiki/Burui_language"
 translations:
+  - translation_iso: ara
+    name: بوروي
+    auto: true
   - translation_iso: jpn
     name: ブルイ語
     auto: true

@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Southeast Solomonic > Longgu-Malaita-Makira > Malaita-Makira > Malaita > Central-Northern Malaita > North Malaitan > Lau"
 wikipedia_url: "https://en.wikipedia.org/wiki/Lau_language_(Malaita)"
 translations:
+  - translation_iso: ara
+    name: لغة او
+    auto: true
   - translation_iso: jpn
     name: ラウ語
   - translation_iso: zho

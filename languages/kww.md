@@ -14,6 +14,9 @@ glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Germanic > Northwest Germanic > West Germanic > North Sea Germanic > Anglo-Frisian > Anglic > Later Anglic > Middle-Modern English > Macro-English > Guinea Coast Creole English > Surinamese Creole English > Eastern Maroons > Ndyuka > Kwinti"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kwinti_language"
 translations:
+  - translation_iso: ara
+    name: كوينتي
+    auto: true
   - translation_iso: jpn
     name: クウィンティ語
     auto: true

@@ -15,6 +15,9 @@ glottolog_family_name: Otomanguean
 glottolog_classification: "Otomanguean > Eastern Otomanguean > Popoloca-Zapotecan > Zapotecan > Zapotec > Core Zapotec > Narrow Core Zapotec > Central Core Zapotec > Western Valley Zapotec > Extended Ocotepec Zapotec > Ocotlán Zapotec"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ocotl%C3%A1n_Zapotec"
 translations:
+  - translation_iso: ara
+    name: لغة زابوتيك أوكوتلان
+    auto: true
   - translation_iso: jpn
     name: オコトラン・サポテク語
     auto: true

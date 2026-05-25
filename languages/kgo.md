@@ -15,6 +15,9 @@ glottolog_family_name: Kadugli-Krongo
 glottolog_classification: "Kadugli-Krongo > Central-Western Kadugli-Krongo > Krongo-Tumtum > Krongo"
 wikipedia_url: "https://en.wikipedia.org/wiki/Krongo_language"
 translations:
+  - translation_iso: ara
+    name: لغة كرونجو
+    auto: true
   - translation_iso: jpn
     name: クロンゴ語
   - translation_iso: zho

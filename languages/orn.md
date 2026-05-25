@@ -14,6 +14,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Malayo-Chamic > Malayic > Nuclear Malayic > Greater Riau-Johoric > Orang Kanaq"
 wikipedia_url: "https://en.wikipedia.org/wiki/Orang_Kanaq_language"
 translations:
+  - translation_iso: ara
+    name: اللغة أورانغ كانق
+    auto: true
   - translation_iso: jpn
     name: オラン・カナック語
     auto: true

@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Bima-Lembata > Flores > Flores-Lembata > Lamaholot Tengah > West Lembata"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mingar_language"
 translations:
+  - translation_iso: ara
+    name: لغة يست يمباتا
+    auto: true
   - translation_iso: jpn
     name: 西レンバタ語
   - translation_iso: zho

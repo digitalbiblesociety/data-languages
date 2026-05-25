@@ -15,6 +15,9 @@ glottolog_family_name: Guahiboan
 glottolog_classification: "Guahiboan > Nuclear Guahiboan > Central Guahibo > Guahibo-Playero > Sikuani"
 wikipedia_url: "https://en.wikipedia.org/wiki/Guahibo_language"
 translations:
+  - translation_iso: ara
+    name: غوآهيبو
+    auto: true
   - translation_iso: jpn
     name: グアヒボ語
     auto: true

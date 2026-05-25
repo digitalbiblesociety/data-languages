@@ -15,6 +15,9 @@ glottolog_family_name: Austroasiatic
 glottolog_classification: "Austroasiatic > Khasi-Palaung > Khasian > Khasi-Pnar-Lyngngam > Lyngngamic > Bangladesh Lyngam"
 wikipedia_url: "https://en.wikipedia.org/wiki/Megam_language"
 translations:
+  - translation_iso: ara
+    name: لغة ميجام
+    auto: true
   - translation_iso: jpn
     name: メガム語
     auto: true

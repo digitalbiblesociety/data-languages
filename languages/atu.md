@@ -15,6 +15,9 @@ glottolog_family_name: Nilotic
 glottolog_classification: "Nilotic > Western Nilotic > Dinka-Nuer > Nuer-Reel > Reel"
 wikipedia_url: "https://en.wikipedia.org/wiki/Reel_language"
 translations:
+  - translation_iso: ara
+    name: اللغة ريل
+    auto: true
   - translation_iso: jpn
     name: Reel語
   - translation_iso: zho

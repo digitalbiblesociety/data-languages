@@ -15,6 +15,9 @@ glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Iranian-Nuristani > Iranian > Southwestern Iranian > Middle-Modern Persian > Modern Southwestern Iranian > Farsic-Caucasian Tat > Caucasian Tat > Judeo-Tat"
 wikipedia_url: "https://en.wikipedia.org/wiki/Judeo-Tat"
 translations:
+  - translation_iso: ara
+    name: لغة يهودية تاتية
+    auto: true
   - translation_iso: hin
     name: यहूदी-तात भाषा
   - translation_iso: jpn

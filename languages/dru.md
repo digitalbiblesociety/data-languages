@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Rukai"
 wikipedia_url: "https://en.wikipedia.org/wiki/Rukai_language"
 translations:
+  - translation_iso: ara
+    name: روكاي
+    auto: true
   - translation_iso: jpn
     name: ルカイ語
   - translation_iso: kor

@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Sumatran > Batakic > Central-Southern Batak > Batak Simalungun"
 wikipedia_url: "https://en.wikipedia.org/wiki/Batak_Simalungun_language"
 translations:
+  - translation_iso: ara
+    name: باتاك سيمالونْجون
+    auto: true
   - translation_iso: jpn
     name: バタク・シマルングン語
   - translation_iso: zho

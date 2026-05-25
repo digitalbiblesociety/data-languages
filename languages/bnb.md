@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > North Borneo Malayo-Polynesian > Sabahan > Southwest Sabahan > Greater Murutic > Murutic > Northern Murutic > Lowland Murut > Bookan"
 wikipedia_url: "https://en.wikipedia.org/wiki/Bookan_language"
 translations:
+  - translation_iso: ara
+    name: بوكان
+    auto: true
   - translation_iso: jpn
     name: ブカン語
     auto: true

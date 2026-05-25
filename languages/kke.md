@@ -15,6 +15,9 @@ glottolog_family_name: Mande
 glottolog_classification: "Mande > Western Mande > Manding-Kpelle > Central Mande > Manding-Jogo > Manding-Vai > Manding-Mokole > Nuclear Mokole > Mixiforic > Kakabe"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kakabe_language"
 translations:
+  - translation_iso: ara
+    name: لغة كاكابي
+    auto: true
   - translation_iso: jpn
     name: カカベ語
     auto: true

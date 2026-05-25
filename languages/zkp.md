@@ -15,6 +15,9 @@ glottolog_family_name: Nuclear-Macro-Je
 glottolog_classification: "Nuclear-Macro-Je > Je > Southern Je > Kaingang-Xokleng > Kaingangic > São Paulo Kaingáng"
 wikipedia_url: "https://en.wikipedia.org/wiki/S%C3%A3o_Paulo_Kaing%C3%A1ng_language"
 translations:
+  - translation_iso: ara
+    name: لغة ساو باولو كاينغانج
+    auto: true
   - translation_iso: jpn
     name: サウ・パウロ・カイングアング語
     auto: true

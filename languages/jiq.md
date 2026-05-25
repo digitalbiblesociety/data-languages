@@ -15,6 +15,9 @@ glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Burmo-Qiangic > Na-Qiangic > Qiangic > Gyalrongic > West Gyalrongic > Nuclear West Gyalrongic > Khroskyabs"
 wikipedia_url: "https://en.wikipedia.org/wiki/Khroskyabs_language"
 translations:
+  - translation_iso: ara
+    name: لغة غوانيينتشياو
+    auto: true
   - translation_iso: jpn
     name: ラヴロン語
   - translation_iso: zho

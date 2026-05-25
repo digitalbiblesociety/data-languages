@@ -15,6 +15,9 @@ glottolog_family_name: Kru
 glottolog_classification: "Kru > Eastern Kru > Beteic > Western Bete > Godié"
 wikipedia_url: "https://en.wikipedia.org/wiki/Godi%C3%A9_language"
 translations:
+  - translation_iso: ara
+    name: غوديé
+    auto: true
   - translation_iso: jpn
     name: ゴディエ語
     auto: true

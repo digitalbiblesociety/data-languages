@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Cameroun-Ubangian > Central Adamawa > Samba-Duru > Southern Samba-Duru > Sambaic > Samba-Leko-Perema-Mumbake > Samba Leko"
 wikipedia_url: "https://en.wikipedia.org/wiki/Chamba_Leko"
 translations:
+  - translation_iso: ara
+    name: سامبا ليكو
+    auto: true
   - translation_iso: jpn
     name: サンバ・レコ語
     auto: true

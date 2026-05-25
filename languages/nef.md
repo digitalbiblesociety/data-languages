@@ -14,6 +14,9 @@ glottolog_family_name: Pidgin
 glottolog_classification: "Pidgin > Assamese-based pidgin > Nefamese"
 wikipedia_url: "https://en.wikipedia.org/wiki/Nefamese_language"
 translations:
+  - translation_iso: ara
+    name: نيفاميسي
+    auto: true
   - translation_iso: jpn
     name: ネファメセ語
     auto: true

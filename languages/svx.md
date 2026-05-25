@@ -8,6 +8,9 @@ country_name: Lithuania
 status_id: null
 wikipedia_url: "https://en.wikipedia.org/wiki/Skalvian_language"
 translations:
+  - translation_iso: ara
+    name: سكالفيان
+    auto: true
   - translation_iso: jpn
     name: スカロヴィア語
   - translation_iso: zho

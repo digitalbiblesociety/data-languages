@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Greater Central Philippine > Central Philippine > Bisayan > Central Bisayan > Peripheral Central Bisayan > Masbate-Sorsogon > Masbatenyo"
 wikipedia_url: "https://en.wikipedia.org/wiki/Masbate%C3%B1o_language"
 translations:
+  - translation_iso: ara
+    name: لغة ماسباتينو
+    auto: true
   - translation_iso: jpn
     name: マスバテニョ語
   - translation_iso: zho

@@ -15,6 +15,9 @@ glottolog_family_name: Sepik
 glottolog_classification: "Sepik > Sepik Tama > Mayo-Pasi > Yimin-Bel > Pasi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Pasi_language"
 translations:
+  - translation_iso: ara
+    name: اللغة باسي
+    auto: true
   - translation_iso: jpn
     name: パシ語
     auto: true

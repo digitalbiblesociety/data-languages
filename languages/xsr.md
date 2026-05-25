@@ -16,6 +16,9 @@ glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Bodic > Bodish > Early Old Tibetan > Middle Old Tibetan > Late Old Tibetan > Central Tibetan > South-Western Tibetic > Sherpa-Jirel > Sherpaic > Solu-Khumbu Sherpa"
 wikipedia_url: "https://en.wikipedia.org/wiki/Sherpa_language"
 translations:
+  - translation_iso: ara
+    name: شيربا
+    auto: true
   - translation_iso: hin
     name: शेर्पा भाषा
   - translation_iso: jpn

@@ -15,6 +15,9 @@ glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Kuki-Chin-Naga > Kuki-Chin > Peripheral Kuki-Chin > Northeastern Kuki-Chin > Thadoic > Paiteic > Paite Chin"
 wikipedia_url: "https://en.wikipedia.org/wiki/Paite_language"
 translations:
+  - translation_iso: ara
+    name: اللغة بايتي تشين
+    auto: true
   - translation_iso: hin
     name: पिटे भाषा
   - translation_iso: jpn

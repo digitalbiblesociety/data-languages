@@ -15,6 +15,9 @@ glottolog_family_name: Timor-Alor-Pantar
 glottolog_classification: "Timor-Alor-Pantar > Alor-Pantar > Nuclear Alor-Pantar > Central Alor > Abuic > Kamang"
 wikipedia_url: "https://en.wikipedia.org/wiki/Woisika_language"
 translations:
+  - translation_iso: ara
+    name: كامانغ
+    auto: true
   - translation_iso: jpn
     name: カマン語
   - translation_iso: zho

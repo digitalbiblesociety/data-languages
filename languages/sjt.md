@@ -15,6 +15,9 @@ glottolog_family_name: Uralic
 glottolog_classification: "Uralic > Saami > Eastern Saami > Peninsular Eastern Saami > Ter Saami"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ter_S%C3%A1mi"
 translations:
+  - translation_iso: ara
+    name: اللغة تير سامي
+    auto: true
   - translation_iso: jpn
     name: テル・サーミ語
   - translation_iso: kor

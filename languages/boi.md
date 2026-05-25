@@ -15,6 +15,9 @@ glottolog_family_name: Chumashan
 glottolog_classification: "Chumashan > Southern Chumashan > Central Chumashan > Barbareño"
 wikipedia_url: "https://en.wikipedia.org/wiki/Barbare%C3%B1o_language"
 translations:
+  - translation_iso: ara
+    name: باربارينيو
+    auto: true
   - translation_iso: jpn
     name: バルバレーニョ語
     auto: true

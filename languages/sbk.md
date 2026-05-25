@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > East Bantu > Corridor Bantu > Mbozi > Mbeya > Safwa"
 wikipedia_url: "https://en.wikipedia.org/wiki/Safwa_language"
 translations:
+  - translation_iso: ara
+    name: سافوا
+    auto: true
   - translation_iso: jpn
     name: イシサファ語
     auto: true

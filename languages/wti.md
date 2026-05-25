@@ -12,6 +12,9 @@ longitude: 34.70415
 glottocode: bert1248
 wikipedia_url: "https://en.wikipedia.org/wiki/Berta_language"
 translations:
+  - translation_iso: ara
+    name: بيرتا
+    auto: true
   - translation_iso: jpn
     name: ベルタ語
     auto: true

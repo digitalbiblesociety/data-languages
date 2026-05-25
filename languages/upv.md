@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > North and Central Vanuatu > Central Vanuatu > Malakula > Eastern Malakula linkage > Uripiv-Wala-Rano-Atchin"
 wikipedia_url: "https://en.wikipedia.org/wiki/Northeast_Malakula_language"
 translations:
+  - translation_iso: ara
+    name: أوريبيف-والا-رانو-اتشين
+    auto: true
   - translation_iso: jpn
     name: ウリピブ語
   - translation_iso: zho

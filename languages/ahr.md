@@ -10,6 +10,9 @@ latitude: 21.552
 longitude: 73.685
 wikipedia_url: "https://en.wikipedia.org/wiki/Ahirani_language"
 translations:
+  - translation_iso: ara
+    name: لغة أهيراني
+    auto: true
   - translation_iso: jpn
     name: アヒラーニー語
   - translation_iso: zho

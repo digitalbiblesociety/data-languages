@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Kwa Volta-Congo > Nyo > Potou-Tano > Tano > Central Tano > Bia > Northern Bia > Anyinic > Anyin Morofo"
 wikipedia_url: "https://en.wikipedia.org/wiki/Morofo_language"
 translations:
+  - translation_iso: ara
+    name: لغة أنيين موروفو
+    auto: true
   - translation_iso: jpn
     name: アニン・モロフォ語
     auto: true

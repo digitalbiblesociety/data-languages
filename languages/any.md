@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Kwa Volta-Congo > Nyo > Potou-Tano > Tano > Central Tano > Bia > Northern Bia > Anyinic > Anyin"
 wikipedia_url: "https://en.wikipedia.org/wiki/Anyin_language"
 translations:
+  - translation_iso: ara
+    name: لغة أنيين
+    auto: true
   - translation_iso: jpn
     name: アニ語
   - translation_iso: zho

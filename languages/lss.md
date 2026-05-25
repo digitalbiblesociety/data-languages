@@ -15,6 +15,9 @@ glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Indo-Aryan > Middle-Modern Indo-Aryan > Continental Indo-Aryan > Indo-Aryan Northwestern zone > Sindhi-Lahnda > Sindhic > Lasi-Jadgali > Lasi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Lasi_dialect"
 translations:
+  - translation_iso: ara
+    name: لغة لاسي
+    auto: true
   - translation_iso: hin
     name: लासी
   - translation_iso: jpn

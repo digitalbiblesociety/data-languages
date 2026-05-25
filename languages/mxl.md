@@ -14,6 +14,9 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Kwa Volta-Congo > Gbe > Eastern Gbe > Fongbeic > Maxi Gbe"
 translations:
+  - translation_iso: ara
+    name: ماكسي جبي
+    auto: true
   - translation_iso: jpn
     name: マクシ・グベ語
     auto: true

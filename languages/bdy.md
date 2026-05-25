@@ -15,6 +15,9 @@ glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > Southeastern Pama-Nyungan > New South Wales Pama-Nyungan > Greater Bandjalangic > Bandjalangic > Inland Bandjalang > Middle Clarence Bandjalang"
 wikipedia_url: "https://en.wikipedia.org/wiki/Yugambeh%E2%80%93Bundjalung_languages"
 translations:
+  - translation_iso: ara
+    name: اللغة بانديالانج
+    auto: true
   - translation_iso: jpn
     name: バンジャランギック諸語
   - translation_iso: zho

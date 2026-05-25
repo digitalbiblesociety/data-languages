@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Bali-Sasak-Sumbawa > Sasak-Sumbawa > Sumbawa"
 wikipedia_url: "https://en.wikipedia.org/wiki/Sumbawa_language"
 translations:
+  - translation_iso: ara
+    name: اللغة سومباوا
+    auto: true
   - translation_iso: hin
     name: सुम्बावा भाषा
   - translation_iso: jpn

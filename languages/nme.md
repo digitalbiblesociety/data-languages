@@ -15,6 +15,9 @@ glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Kuki-Chin-Naga > Zemeic > Nuclear Zemeic > Mzieme-Zeme > Mzieme Naga"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mzieme_language"
 translations:
+  - translation_iso: ara
+    name: زيمي ناغا
+    auto: true
   - translation_iso: hin
     name: ज़ाईमे भाषा
   - translation_iso: jpn

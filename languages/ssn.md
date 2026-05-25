@@ -15,6 +15,9 @@ glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Cushitic > East Cushitic > Lowland East Cushitic > Southern Lowland East Cushitic > Mainstream Lowland East Cushitic > Oromoid > Nuclear Oromo > Central-Eastern Oromo > Central-Tana Oromo > Tana River Oromo > Waata"
 wikipedia_url: "https://en.wikipedia.org/wiki/Waata_language"
 translations:
+  - translation_iso: ara
+    name: اللغة واتا
+    auto: true
   - translation_iso: jpn
     name: ワアタ語
   - translation_iso: zho

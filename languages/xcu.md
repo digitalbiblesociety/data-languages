@@ -8,6 +8,9 @@ country_name: Germany
 status_id: null
 wikipedia_url: "https://en.wikipedia.org/wiki/Curonian_language"
 translations:
+  - translation_iso: ara
+    name: كورونيان
+    auto: true
   - translation_iso: jpn
     name: クロニア語
   - translation_iso: kor

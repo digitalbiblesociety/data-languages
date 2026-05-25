@@ -15,6 +15,9 @@ glottolog_family_name: Northern Daly
 glottolog_classification: "Northern Daly > Mullukmulluk"
 wikipedia_url: "https://en.wikipedia.org/wiki/Malak-Malak_language"
 translations:
+  - translation_iso: ara
+    name: لغة مالك مالك
+    auto: true
   - translation_iso: jpn
     name: マラク・マラク語
     auto: true

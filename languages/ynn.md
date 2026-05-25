@@ -12,6 +12,9 @@ longitude: -121.60762
 glottocode: yana1271
 wikipedia_url: "https://en.wikipedia.org/wiki/Yana_language"
 translations:
+  - translation_iso: ara
+    name: اللغة يانا
+    auto: true
   - translation_iso: jpn
     name: ヤナ語
   - translation_iso: zho

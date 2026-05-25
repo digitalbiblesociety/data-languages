@@ -15,6 +15,9 @@ glottolog_family_name: Western Daly
 glottolog_classification: "Western Daly > Bringen > Marithielic > Marithiel"
 wikipedia_url: "https://en.wikipedia.org/wiki/Marrithiyel_language"
 translations:
+  - translation_iso: ara
+    name: لغة ماريثيل
+    auto: true
   - translation_iso: jpn
     name: マルリ・ジャビン語
   - translation_iso: zho

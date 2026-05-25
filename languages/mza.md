@@ -15,6 +15,9 @@ glottolog_family_name: Otomanguean
 glottolog_classification: "Otomanguean > Eastern Otomanguean > Amuzgo-Mixtecan > Mixtecan > Mixtec-Cuicatec > Mixtec > Coast Mixtec > West Coast Mixtec > Santa María Zacatepec Mixtec"
 wikipedia_url: "https://en.wikipedia.org/wiki/Zacatepec_Mixtec"
 translations:
+  - translation_iso: ara
+    name: سانتا ماريا ساكاتيبيك ميكستك
+    auto: true
   - translation_iso: jpn
     name: サンタ・マリア・サカテペック・ミステク語
     auto: true

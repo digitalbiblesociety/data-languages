@@ -15,6 +15,9 @@ glottolog_family_name: Kiowa-Tanoan
 glottolog_classification: "Kiowa-Tanoan > Tiwa-Piro > Piro"
 wikipedia_url: "https://en.wikipedia.org/wiki/Piro_Pueblo_language"
 translations:
+  - translation_iso: ara
+    name: اللغة بيرو
+    auto: true
   - translation_iso: hin
     name: पीरो भाषा
   - translation_iso: jpn

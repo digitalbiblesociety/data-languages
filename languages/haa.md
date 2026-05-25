@@ -15,6 +15,9 @@ glottolog_family_name: Athabaskan-Eyak-Tlingit
 glottolog_classification: "Athabaskan-Eyak-Tlingit > Athabaskan-Eyak > Athabaskan > Central Alaska-Yukon Athabaskan > Gwichin-Han > Han"
 wikipedia_url: "https://en.wikipedia.org/wiki/H%C3%A4n_language"
 translations:
+  - translation_iso: ara
+    name: هآن
+    auto: true
   - translation_iso: jpn
     name: ハン語
     auto: true

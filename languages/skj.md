@@ -15,6 +15,9 @@ glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Bodic > Kaike-Ghale-Tamangic > Ghale-Tamangic > Tamangic > Seke (Nepal)"
 wikipedia_url: "https://en.wikipedia.org/wiki/Seke_language_(Nepal)"
 translations:
+  - translation_iso: ara
+    name: اللغة سيكي (نيبال)
+    auto: true
   - translation_iso: jpn
     name: セケ語
     auto: true

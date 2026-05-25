@@ -15,6 +15,9 @@ glottolog_family_name: Dravidian
 glottolog_classification: "Dravidian > South Dravidian > South Dravidian I > Tamil-Kannada > Tamil-Kota > Tamil-Toda > Tamil-Irula > Irula-Muduga > Irula of the Nilgiri"
 wikipedia_url: "https://en.wikipedia.org/wiki/Irula_language"
 translations:
+  - translation_iso: ara
+    name: إيرولا
+    auto: true
   - translation_iso: hin
     name: ईरुला भाषा
   - translation_iso: jpn

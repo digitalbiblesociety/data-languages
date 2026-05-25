@@ -14,6 +14,9 @@ glottolog_family_name: Ramu
 glottolog_classification: "Ramu > Goam > Tamolan > Breri-Romkun > Breri"
 wikipedia_url: "https://en.wikipedia.org/wiki/Iski_language"
 translations:
+  - translation_iso: ara
+    name: بريري
+    auto: true
   - translation_iso: jpn
     name: ブレリ語
     auto: true

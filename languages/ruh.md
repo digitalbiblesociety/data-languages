@@ -14,6 +14,9 @@ glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Brahmaputran > Bodo-Garo > Kochic > Ruga"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ruga_language"
 translations:
+  - translation_iso: ara
+    name: روجا
+    auto: true
   - translation_iso: hin
     name: रुगा भाषा
   - translation_iso: jpn

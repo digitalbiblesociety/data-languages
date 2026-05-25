@@ -15,6 +15,9 @@ glottolog_family_name: Austroasiatic
 glottolog_classification: "Austroasiatic > Khasi-Palaung > Palaungic > East Palaungic > Khao-Bit > Bit"
 wikipedia_url: "https://en.wikipedia.org/wiki/Bit_language"
 translations:
+  - translation_iso: ara
+    name: بت
+    auto: true
   - translation_iso: jpn
     name: ビット語
     auto: true

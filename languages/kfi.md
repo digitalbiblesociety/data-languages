@@ -11,6 +11,9 @@ latitude: 11.38236
 longitude: 76.52555
 wikipedia_url: "https://en.wikipedia.org/wiki/Kurumba_languages"
 translations:
+  - translation_iso: ara
+    name: لغة كانادا كوروما
+    auto: true
   - translation_iso: hin
     name: कुरुबा भाषा
   - translation_iso: jpn

@@ -15,6 +15,9 @@ glottolog_family_name: Austroasiatic
 glottolog_classification: "Austroasiatic > Nicobaric > Car Nicobarese"
 wikipedia_url: "https://en.wikipedia.org/wiki/Car_language"
 translations:
+  - translation_iso: ara
+    name: كار نيكوبارية
+    auto: true
   - translation_iso: hin
     name: कार भाषा
   - translation_iso: jpn

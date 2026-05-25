@@ -8,6 +8,9 @@ country_name: Italy
 status_id: null
 wikipedia_url: "https://en.wikipedia.org/wiki/Volscian_language"
 translations:
+  - translation_iso: ara
+    name: فولسكية
+    auto: true
   - translation_iso: jpn
     name: ウォルスキ語
   - translation_iso: zho

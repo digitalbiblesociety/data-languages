@@ -15,6 +15,9 @@ glottolog_family_name: Pano-Tacanan
 glottolog_classification: "Pano-Tacanan > Panoan > Mayoruna Branch > Mayo Group > Matses subgroup > Matsés"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mats%C3%A9s_language"
 translations:
+  - translation_iso: ara
+    name: لغة ماتسيس
+    auto: true
   - translation_iso: jpn
     name: マツェス語
     auto: true

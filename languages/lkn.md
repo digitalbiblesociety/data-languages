@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > North and Central Vanuatu > Northern Vanuatu > Torres-Banks linkage > Koto-Olrat-Lakon > Lakon"
 wikipedia_url: "https://en.wikipedia.org/wiki/Lakon_language"
 translations:
+  - translation_iso: ara
+    name: لغة اكون
+    auto: true
   - translation_iso: jpn
     name: ラコン語
     auto: true

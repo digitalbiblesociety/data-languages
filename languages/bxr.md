@@ -14,6 +14,9 @@ glottolog_family_id: mong1349
 glottolog_family_name: Mongolic-Khitan
 glottolog_classification: "Mongolic-Khitan > Mongolic > Eastern Mongolic > Khalkha-Buriat > Buriat > Russia Buriat"
 translations:
+  - translation_iso: ara
+    name: روسيا بورْيات
+    auto: true
   - translation_iso: jpn
     name: ロシアブリヤート語
   - translation_iso: zho

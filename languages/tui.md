@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Cameroun-Ubangian > Mbumic > Northern Mbum > Tupuri-Mundang-Mambai > Tupuri"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tupuri_language"
 translations:
+  - translation_iso: ara
+    name: توبوري
+    auto: true
   - translation_iso: jpn
     name: デマ語
     auto: true

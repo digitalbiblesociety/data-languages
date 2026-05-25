@@ -15,6 +15,9 @@ glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > Greater Maric > Guwa-Maric > Maric > Eastern Maric > Biri"
 wikipedia_url: "https://en.wikipedia.org/wiki/Biri_dialect"
 translations:
+  - translation_iso: ara
+    name: بيري
+    auto: true
   - translation_iso: jpn
     name: ビリ語
     auto: true

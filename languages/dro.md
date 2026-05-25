@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > North Borneo Malayo-Polynesian > Central Sarawak > Melanau-Kajang > Melanau > Daro-Matu Melanau"
 wikipedia_url: "https://en.wikipedia.org/wiki/Daro-Matu_language"
 translations:
+  - translation_iso: ara
+    name: دارو ماتو ميلانو
+    auto: true
   - translation_iso: jpn
     name: ダロマトゥ・メラナウ語
     auto: true

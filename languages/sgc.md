@@ -15,6 +15,9 @@ glottolog_family_name: Nilotic
 glottolog_classification: "Nilotic > Southern Nilotic > Kalenjin > Central Kalenjin > Kipsigis"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kipsigis_language"
 translations:
+  - translation_iso: ara
+    name: كيبسيجيس
+    auto: true
   - translation_iso: jpn
     name: キプシギ語
   - translation_iso: zho

@@ -15,6 +15,9 @@ glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Kho-Bwa > Western Kho-Bwa > Sartang-Sherdukpen > Sherdukpen"
 wikipedia_url: "https://en.wikipedia.org/wiki/Sherdukpen_language"
 translations:
+  - translation_iso: ara
+    name: شيردوكبين
+    auto: true
   - translation_iso: hin
     name: शेरडुकपेन भाषा
   - translation_iso: jpn

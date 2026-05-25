@@ -15,6 +15,9 @@ glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Kuki-Chin-Naga > Zemeic > Maram Naga"
 wikipedia_url: "https://en.wikipedia.org/wiki/Maram_language"
 translations:
+  - translation_iso: ara
+    name: مارام ناغا
+    auto: true
   - translation_iso: hin
     name: मरम भाषा
   - translation_iso: jpn

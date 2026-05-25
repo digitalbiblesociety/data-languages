@@ -15,6 +15,9 @@ glottolog_family_name: Tsimshian
 glottolog_classification: "Tsimshian > Nishga-Gitxsan > Nisga'a"
 wikipedia_url: "https://en.wikipedia.org/wiki/Nisga%CA%BCa_language"
 translations:
+  - translation_iso: ara
+    name: نسجايا
+    auto: true
   - translation_iso: jpn
     name: ニスガ語
     auto: true

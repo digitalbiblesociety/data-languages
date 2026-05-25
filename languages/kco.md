@@ -14,6 +14,9 @@ glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Finisterre-Huon > Huon > Western Huon > Cromwell > Dallman > Kinalakna-Kumukio > Kinalakna"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kinalakna_language"
 translations:
+  - translation_iso: ara
+    name: لغة كينالاكنا
+    auto: true
   - translation_iso: jpn
     name: キナラクナ語
     auto: true

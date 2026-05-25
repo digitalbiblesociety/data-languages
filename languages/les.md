@@ -15,6 +15,9 @@ glottolog_family_name: Central Sudanic
 glottolog_classification: "Central Sudanic > Membi-Mangbutu-Efe > Mangbutu-Efe > Baleseic > Nuclear Baleseic > Lese"
 wikipedia_url: "https://en.wikipedia.org/wiki/Lese_language"
 translations:
+  - translation_iso: ara
+    name: لغة يسي
+    auto: true
   - translation_iso: jpn
     name: エフェ語
   - translation_iso: zho

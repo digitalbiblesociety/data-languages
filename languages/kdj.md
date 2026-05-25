@@ -15,6 +15,9 @@ glottolog_family_name: Nilotic
 glottolog_classification: "Nilotic > Eastern Nilotic > Teso-Lotuxo-Maa > Teso-Turkana > Turkanic > Karamojong"
 wikipedia_url: "https://en.wikipedia.org/wiki/Karamojong_language"
 translations:
+  - translation_iso: ara
+    name: لغة كارامويونغ
+    auto: true
   - translation_iso: jpn
     name: カリモジョン語
   - translation_iso: zho

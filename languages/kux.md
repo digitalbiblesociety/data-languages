@@ -14,6 +14,9 @@ glottolog_family_id: pama1250
 glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > Desert Nyungic > Wati > Pintupic > Kukatja"
 translations:
+  - translation_iso: ara
+    name: كوكاتشا
+    auto: true
   - translation_iso: jpn
     name: クカトゥジャ語
     auto: true

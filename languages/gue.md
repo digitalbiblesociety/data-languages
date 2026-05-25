@@ -15,6 +15,9 @@ glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > Desert Nyungic > Ngumpin-Yapa > Ngumpin > Eastern Ngumpin > Ngumpit > Gurindji"
 wikipedia_url: "https://en.wikipedia.org/wiki/Gurindji_language"
 translations:
+  - translation_iso: ara
+    name: غوريندجي
+    auto: true
   - translation_iso: jpn
     name: グリンジ語
   - translation_iso: zho

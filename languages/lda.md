@@ -7,6 +7,9 @@ country_id: CI
 country_name: "Côte d'Ivoire"
 status_id: 6a
 translations:
+  - translation_iso: ara
+    name: كلا-دان
+    auto: true
   - translation_iso: jpn
     name: クラ・ダン語
     auto: true

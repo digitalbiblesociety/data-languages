@@ -10,6 +10,9 @@ latitude: 18.965
 longitude: 82.646
 wikipedia_url: "https://en.wikipedia.org/wiki/Desia_language"
 translations:
+  - translation_iso: ara
+    name: ديسيا
+    auto: true
   - translation_iso: jpn
     name: デシヤ語
     auto: true

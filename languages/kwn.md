@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > Central-Western Bantu > Njila > Southern Njila > Kunene > Kwangali-Diriku > Kwangali"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kwangali_language"
 translations:
+  - translation_iso: ara
+    name: كوانجالي
+    auto: true
   - translation_iso: jpn
     name: クワンガリ語
   - translation_iso: zho

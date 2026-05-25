@@ -14,6 +14,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Greater Central Philippine > Gorontalo-Mongondow > Gorontalic > Bintauna"
 wikipedia_url: "https://en.wikipedia.org/wiki/Bintauna_language"
 translations:
+  - translation_iso: ara
+    name: بينتاونا
+    auto: true
   - translation_iso: jpn
     name: ビンタウナ語
   - translation_iso: zho

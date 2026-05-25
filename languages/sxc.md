@@ -13,6 +13,9 @@ glottolog_family_id: uncl1493
 glottolog_family_name: Unclassifiable
 glottolog_classification: "Unclassifiable > Sicana"
 translations:
+  - translation_iso: ara
+    name: سيكاني
+    auto: true
   - translation_iso: jpn
     name: シカニア語
     auto: true

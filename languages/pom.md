@@ -15,6 +15,9 @@ glottolog_family_name: Pomoan
 glottolog_classification: "Pomoan > Southeastern Pomo"
 wikipedia_url: "https://en.wikipedia.org/wiki/Southeastern_Pomo_language"
 translations:
+  - translation_iso: ara
+    name: اللغة بومو الجنوبية الشرقية
+    auto: true
   - translation_iso: jpn
     name: 南東ポモ語
     auto: true

@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Ebira-Nupoid > Macro-Nupoid > Nupoid > Dibo-Kupa > Abawa > Dibo"
 wikipedia_url: "https://en.wikipedia.org/wiki/Dibo_language"
 translations:
+  - translation_iso: ara
+    name: ديبو
+    auto: true
   - translation_iso: jpn
     name: ディボ語
     auto: true

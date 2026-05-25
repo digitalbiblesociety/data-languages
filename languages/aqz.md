@@ -15,6 +15,9 @@ glottolog_family_name: Tupian
 glottolog_classification: "Tupian > Arikem-Tupari > Tuparic > Nuclear Tuparic > Corumbiara > Akuntsu"
 wikipedia_url: "https://en.wikipedia.org/wiki/Akuntsu_language"
 translations:
+  - translation_iso: ara
+    name: اللغة أكونتسو
+    auto: true
   - translation_iso: jpn
     name: アクンツ語
     auto: true

@@ -15,6 +15,9 @@ glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > Biu-Mandara > North Biu-Mandara > Higic > Hya"
 wikipedia_url: "https://en.wikipedia.org/wiki/Hya_language"
 translations:
+  - translation_iso: ara
+    name: هيا
+    auto: true
   - translation_iso: jpn
     name: ヒャ語
     auto: true

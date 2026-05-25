@@ -15,6 +15,9 @@ glottolog_family_name: Greater Kwerba
 glottolog_classification: "Greater Kwerba > Kwerba-Samarokena > Kwerbaic > Kwerba"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kwerba_language"
 translations:
+  - translation_iso: ara
+    name: كويربا
+    auto: true
   - translation_iso: jpn
     name: クウェルバ語
     auto: true

@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Greater South Sulawesi > Rampi-Seko-Badaic > Badaic-Limola > Lemolang"
 wikipedia_url: "https://en.wikipedia.org/wiki/Limola_language"
 translations:
+  - translation_iso: ara
+    name: لغة يمولانج
+    auto: true
   - translation_iso: jpn
     name: レモラン語
     auto: true

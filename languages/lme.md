@@ -15,6 +15,9 @@ glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > Masa > South Masa > Peveic > Peve"
 wikipedia_url: "https://en.wikipedia.org/wiki/Peve_language"
 translations:
+  - translation_iso: ara
+    name: لغة ف
+    auto: true
   - translation_iso: jpn
     name: ペベ語
     auto: true

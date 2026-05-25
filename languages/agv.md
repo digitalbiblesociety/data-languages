@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Central Luzon > Hatang Kayi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Hatang_Kayi_language"
 translations:
+  - translation_iso: ara
+    name: لغة ريمونتادو دوماغات
+    auto: true
   - translation_iso: jpn
     name: レモンタード・ドゥマガト語
     auto: true

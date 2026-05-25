@@ -15,6 +15,9 @@ glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Bodic > Bodish > Early Old Tibetan > Western Archaic Tibetan > Shamskatic > Purik-Sham-Nubra"
 wikipedia_url: "https://en.wikipedia.org/wiki/Purgi_language"
 translations:
+  - translation_iso: ara
+    name: اللغة بوريك
+    auto: true
   - translation_iso: hin
     name: पुरगी भाषा
   - translation_iso: jpn

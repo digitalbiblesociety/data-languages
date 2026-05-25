@@ -15,6 +15,9 @@ glottolog_family_name: Baining
 glottolog_classification: "Baining > Qaqet"
 wikipedia_url: "https://en.wikipedia.org/wiki/Qaqet_language"
 translations:
+  - translation_iso: ara
+    name: قاقيت
+    auto: true
   - translation_iso: jpn
     name: バイニン語
   - translation_iso: zho

@@ -14,6 +14,9 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Greater Central Philippine > Subanen > Western Subanen > Kolibugan Subanon"
 translations:
+  - translation_iso: ara
+    name: اللغة كوليبوجان سوبانون
+    auto: true
   - translation_iso: jpn
     name: スバヌン語
     auto: true

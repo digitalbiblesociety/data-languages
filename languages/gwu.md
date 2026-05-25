@@ -14,6 +14,9 @@ glottolog_family_id: pama1250
 glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > Greater Maric > Guwa-Maric > Maric > Southern Maric > Guwamu"
 translations:
+  - translation_iso: ara
+    name: غووآمو
+    auto: true
   - translation_iso: jpn
     name: グワム語
     auto: true

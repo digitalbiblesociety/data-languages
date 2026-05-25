@@ -15,6 +15,9 @@ glottolog_family_name: Austroasiatic
 glottolog_classification: "Austroasiatic > Khmuic > Phay-Pram > Ksingmul"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ksingmul_language"
 translations:
+  - translation_iso: ara
+    name: اللغة بووك
+    auto: true
   - translation_iso: jpn
     name: プオク語
     auto: true

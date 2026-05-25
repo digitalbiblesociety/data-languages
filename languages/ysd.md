@@ -15,6 +15,9 @@ glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Burmo-Qiangic > Lolo-Burmese > Loloish > Ni-Li-Kazhouish > Kazhouish > Samatao"
 wikipedia_url: "https://en.wikipedia.org/wiki/Samu_language"
 translations:
+  - translation_iso: ara
+    name: لغة سامتاو
+    auto: true
   - translation_iso: jpn
     name: サマタオ語
     auto: true

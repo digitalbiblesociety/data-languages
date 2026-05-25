@@ -15,6 +15,9 @@ glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Madang > Kalamic-South Adelbert > South Adelbert > Sogeram > Apalic > Greater West Sogeram > Manat"
 wikipedia_url: "https://en.wikipedia.org/wiki/Manat_language"
 translations:
+  - translation_iso: ara
+    name: اللغة بايناماار
+    auto: true
   - translation_iso: jpn
     name: パイナマル語
     auto: true

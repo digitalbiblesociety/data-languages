@@ -15,6 +15,9 @@ glottolog_family_name: Mixed Language
 glottolog_classification: "Mixed Language > Spanish-Quechua > Media Lengua"
 wikipedia_url: "https://en.wikipedia.org/wiki/Media_Lengua"
 translations:
+  - translation_iso: ara
+    name: لغة ميديا لينجوا
+    auto: true
   - translation_iso: jpn
     name: メディア・レングア
   - translation_iso: zho

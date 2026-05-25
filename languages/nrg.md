@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > North and Central Vanuatu > Northern Vanuatu > Espiritu Santo > West Santo > South-Central Santo > Narango"
 wikipedia_url: "https://en.wikipedia.org/wiki/Narango_language"
 translations:
+  - translation_iso: ara
+    name: نارانغو
+    auto: true
   - translation_iso: jpn
     name: ナランゴ語
     auto: true

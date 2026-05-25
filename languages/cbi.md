@@ -15,6 +15,9 @@ glottolog_family_name: Barbacoan
 glottolog_classification: "Barbacoan > Awa-Southern Barbacoan > Cayapa-Colorado > Cha'palaa"
 wikipedia_url: "https://en.wikipedia.org/wiki/Cha%CA%BCpalaa_language"
 translations:
+  - translation_iso: ara
+    name: الشاتشي
+    auto: true
   - translation_iso: jpn
     name: チャチ語
     auto: true

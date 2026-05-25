@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Celebic > Kaili-Wolio > Northern Kaili-Wolio > Greater Kaili > Kulawi > Tado-Lindu"
 wikipedia_url: "https://en.wikipedia.org/wiki/Lindu_language"
 translations:
+  - translation_iso: ara
+    name: لغة تادو
+    auto: true
   - translation_iso: jpn
     name: タド語
     auto: true

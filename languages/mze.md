@@ -14,6 +14,9 @@ glottolog_family_name: Mailuan
 glottolog_classification: "Mailuan > Morawa"
 wikipedia_url: "https://en.wikipedia.org/wiki/Morawa_language"
 translations:
+  - translation_iso: ara
+    name: موراوا
+    auto: true
   - translation_iso: jpn
     name: モラワ語
     auto: true

@@ -15,6 +15,9 @@ glottolog_family_name: Uto-Aztecan
 glottolog_classification: "Uto-Aztecan > Southern Uto-Aztecan > Corachol-Aztecan > Corachol > Huichol"
 wikipedia_url: "https://en.wikipedia.org/wiki/Huichol_language"
 translations:
+  - translation_iso: ara
+    name: هويتشول
+    auto: true
   - translation_iso: jpn
     name: ウイチョル語
   - translation_iso: zho

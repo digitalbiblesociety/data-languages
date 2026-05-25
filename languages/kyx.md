@@ -15,6 +15,9 @@ glottolog_family_name: North Bougainville
 glottolog_classification: "North Bougainville > Rapoisi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Rapoisi_language"
 translations:
+  - translation_iso: ara
+    name: رابويسي
+    auto: true
   - translation_iso: jpn
     name: クヌア語
   - translation_iso: zho

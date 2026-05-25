@@ -15,6 +15,9 @@ glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > West Chadic > West Chadic B > West Chadic B.3 > South Bauchi West > Southwest South Bauchi > Dass"
 wikipedia_url: "https://en.wikipedia.org/wiki/Dass_language"
 translations:
+  - translation_iso: ara
+    name: داس
+    auto: true
   - translation_iso: jpn
     name: ダス語
     auto: true

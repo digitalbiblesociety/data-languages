@@ -15,6 +15,9 @@ glottolog_family_name: Central Sudanic
 glottolog_classification: "Central Sudanic > Membi-Mangbutu-Efe > Mangbutu-Efe > Baleseic > Bendi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Bendi_language_(Central_Sudanic)"
 translations:
+  - translation_iso: ara
+    name: اللغة بندي
+    auto: true
   - translation_iso: jpn
     name: ベンディ語
     auto: true

@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Delta Cross > Upper Cross > Central Upper Cross > East-West Central Delta Cross > Mbembe-Legbo > Legboic > Lenyima-Leyigha > Lenyima"
 wikipedia_url: "https://en.wikipedia.org/wiki/Nyima_language"
 translations:
+  - translation_iso: ara
+    name: لينيما
+    auto: true
   - translation_iso: jpn
     name: レニマ語
     auto: true

@@ -15,6 +15,9 @@ glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Bodic > Bodish > Early Old Tibetan > Middle Old Tibetan > Late Old Tibetan > Central Tibetan > South-Western Tibetic > Kyirong-Kagate > Yolmo-Kagate > Kagate"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kagate_language"
 translations:
+  - translation_iso: ara
+    name: كاغاتي
+    auto: true
   - translation_iso: jpn
     name: カゲート語
     auto: true

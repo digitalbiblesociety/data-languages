@@ -15,6 +15,9 @@ glottolog_family_name: Unclassifiable
 glottolog_classification: "Unclassifiable > Polari"
 wikipedia_url: "https://en.wikipedia.org/wiki/Polari"
 translations:
+  - translation_iso: ara
+    name: اللغة بولاري
+    auto: true
   - translation_iso: jpn
     name: ポラリ
   - translation_iso: kor

@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Idomoid > Akweya > Etulo-Idoma > Nuclear Idoma > Yala"
 wikipedia_url: "https://en.wikipedia.org/wiki/Yala_language"
 translations:
+  - translation_iso: ara
+    name: يالا
+    auto: true
   - translation_iso: jpn
     name: ヤラ語
     auto: true

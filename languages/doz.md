@@ -15,6 +15,9 @@ glottolog_family_name: Ta-Ne-Omotic
 glottolog_classification: "Ta-Ne-Omotic > Ometo > North-West Ometo > Central Ometo > Dorze"
 wikipedia_url: "https://en.wikipedia.org/wiki/Dorze_language"
 translations:
+  - translation_iso: ara
+    name: دورزي
+    auto: true
   - translation_iso: jpn
     name: ドルゼ語
     auto: true

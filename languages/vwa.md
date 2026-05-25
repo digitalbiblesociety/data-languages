@@ -14,6 +14,9 @@ glottolog_family_id: aust1305
 glottolog_family_name: Austroasiatic
 glottolog_classification: "Austroasiatic > Khasi-Palaung > Palaungic > East Palaungic > Waic > Wa-Lawa > Nuclear Waic > Lavia-Awalai-Damangnuo Awa"
 translations:
+  - translation_iso: ara
+    name: آوا
+    auto: true
   - translation_iso: jpn
     name: アワ語
   - translation_iso: zho

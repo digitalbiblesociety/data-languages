@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Aru > Central Aru > Lola"
 wikipedia_url: "https://en.wikipedia.org/wiki/Lola_language"
 translations:
+  - translation_iso: ara
+    name: لولا
+    auto: true
   - translation_iso: jpn
     name: ロラ語
     auto: true

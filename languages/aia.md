@@ -14,6 +14,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Southeast Solomonic > Longgu-Malaita-Makira > Malaita-Makira > Makira > Arosi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Arosi_language"
 translations:
+  - translation_iso: ara
+    name: لغة أروسي
+    auto: true
   - translation_iso: jpn
     name: アロシ語
   - translation_iso: zho

@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Micronesian > Central Micronesian > Western Micronesian > Chuukic-Ponapeic > Trukic > Nuclear Trukic > Central Trukic > Eastern Trukic > Mortlockese-Trukese > Mortlockese"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mortlockese_language"
 translations:
+  - translation_iso: ara
+    name: لغة مورتلوكيسي
+    auto: true
   - translation_iso: jpn
     name: モートロック語
   - translation_iso: zho

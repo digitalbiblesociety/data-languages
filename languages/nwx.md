@@ -8,6 +8,9 @@ country_id: NP
 country_name: Nepal
 status_id: null
 translations:
+  - translation_iso: ara
+    name: نيوار الوسطى
+    auto: true
   - translation_iso: jpn
     name: 中部ネワール語
     auto: true

@@ -15,6 +15,9 @@ glottolog_family_name: Central Sudanic
 glottolog_classification: "Central Sudanic > Membi-Mangbutu-Efe > Ndo"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ndo_language"
 translations:
+  - translation_iso: ara
+    name: ندو
+    auto: true
   - translation_iso: jpn
     name: ンド語
     auto: true

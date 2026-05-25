@@ -15,6 +15,9 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > North-Central Atlantic > Central Atlantic > Bak > Balanta > Balanta-Ganja"
 translations:
+  - translation_iso: ara
+    name: بالانتا جانجا
+    auto: true
   - translation_iso: jpn
     name: バランタ・ガンジャ語
     auto: true

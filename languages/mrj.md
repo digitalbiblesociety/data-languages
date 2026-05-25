@@ -16,6 +16,9 @@ glottolog_family_name: Uralic
 glottolog_classification: "Uralic > Mari > Western Mari"
 wikipedia_url: "https://en.wikipedia.org/wiki/Hill_Mari_language"
 translations:
+  - translation_iso: ara
+    name: لغة ماري الغربية
+    auto: true
   - translation_iso: jpn
     name: 山地マリ語
   - translation_iso: kor

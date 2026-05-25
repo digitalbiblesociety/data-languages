@@ -12,6 +12,9 @@ longitude: -75.21832
 glottocode: abis1238
 wikipedia_url: "https://en.wikipedia.org/wiki/Aewa_language"
 translations:
+  - translation_iso: ara
+    name: اللغة أبيشيرا
+    auto: true
   - translation_iso: jpn
     name: アビシラ語
     auto: true

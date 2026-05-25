@@ -15,6 +15,9 @@ glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > Biu-Mandara > South Biu-Mandara > Bataic > Bata-Bwatiye > Bata"
 wikipedia_url: "https://en.wikipedia.org/wiki/Bata_language"
 translations:
+  - translation_iso: ara
+    name: باتا
+    auto: true
   - translation_iso: jpn
     name: バタ語
   - translation_iso: zho

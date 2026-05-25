@@ -16,6 +16,9 @@ glottolog_family_name: Hmong-Mien
 glottolog_classification: "Hmong-Mien > Hmongic > Nuclear Hmongic-Ho Ne > Nuclear Hmongic > West Hmongic > Greater Chuanqiandian > Diandongbei-Large Flowery Miao"
 wikipedia_url: "https://en.wikipedia.org/wiki/A-Hmao_language"
 translations:
+  - translation_iso: ara
+    name: لغة ميــاو الزهرية الكبرى
+    auto: true
   - translation_iso: jpn
     name: 大花苗語
   - translation_iso: zho

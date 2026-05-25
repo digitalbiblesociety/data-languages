@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Southern Melanesian > New Caledonian > Mainland New Caledonian > Southern New Caledonian > Extreme Southern New Caledonian > Numee"
 wikipedia_url: "https://en.wikipedia.org/wiki/Num%C3%A8%C3%A8_language"
 translations:
+  - translation_iso: ara
+    name: لغة نومي
+    auto: true
   - translation_iso: jpn
     name: クニェ語
   - translation_iso: zho

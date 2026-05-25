@@ -14,6 +14,9 @@ glottolog_family_id: quec1387
 glottolog_family_name: Quechuan
 glottolog_classification: "Quechuan > Quechua I > Central Quechua I > AP-AM-AH > Panao-Union > Margos-Yarowilca-Lauricocha Quechua"
 translations:
+  - translation_iso: ara
+    name: اللغة كويتشوا ماركوس-يارويلكا-لاوريكوتشا
+    auto: true
   - translation_iso: jpn
     name: マルゴスヤロウィルカロウリコチャケチュア語
     auto: true

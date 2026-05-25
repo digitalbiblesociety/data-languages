@@ -14,6 +14,9 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Basap-Greater Barito > Greater Barito linkage > Sama-Bajaw > Sulu-Borneo > Borneo Coast Bajaw > Indonesian Bajau"
 translations:
+  - translation_iso: ara
+    name: اللغة بجاو إندونيسيا
+    auto: true
   - translation_iso: jpn
     name: インドネシア・バジャウ語
     auto: true

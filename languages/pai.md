@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Benue-Congo Plateau > Tarokoid > Yangkam-Tarok-Pe > Tarok-Pe > Pye"
 wikipedia_url: "https://en.wikipedia.org/wiki/Pe_language"
 translations:
+  - translation_iso: ara
+    name: اللغة بي
+    auto: true
   - translation_iso: jpn
     name: ピ語
   - translation_iso: zho

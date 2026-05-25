@@ -12,6 +12,9 @@ glottolog_family_name: Unclassifiable
 glottolog_classification: "Unclassifiable > Raetic"
 wikipedia_url: "https://en.wikipedia.org/wiki/Rhaetic"
 translations:
+  - translation_iso: ara
+    name: رايتية
+    auto: true
   - translation_iso: jpn
     name: ラエティア語
   - translation_iso: kor

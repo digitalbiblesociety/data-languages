@@ -15,6 +15,9 @@ glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Finisterre-Huon > Finisterre-Saruwaged > Wantoatic > Tuma-Irumu"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tuma-Irumu_language"
 translations:
+  - translation_iso: ara
+    name: توما-إيروموو
+    auto: true
   - translation_iso: jpn
     name: トゥマ・イルム語
     auto: true

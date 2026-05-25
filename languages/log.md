@@ -15,6 +15,9 @@ glottolog_family_name: Central Sudanic
 glottolog_classification: "Central Sudanic > Moru-Madi > Central Moru-Madi > Avokayic > Logo"
 wikipedia_url: "https://en.wikipedia.org/wiki/Logo_language"
 translations:
+  - translation_iso: ara
+    name: لغة وجو
+    auto: true
   - translation_iso: jpn
     name: ロゴ語
     auto: true

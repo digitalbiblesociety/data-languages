@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Sumatran > Simeulue"
 wikipedia_url: "https://en.wikipedia.org/wiki/Simeulue_language"
 translations:
+  - translation_iso: ara
+    name: اللغة سيميولوي
+    auto: true
   - translation_iso: jpn
     name: シムル語
   - translation_iso: zho

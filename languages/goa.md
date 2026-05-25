@@ -15,6 +15,9 @@ glottolog_family_name: Mande
 glottolog_classification: "Mande > Eastern Mande > Southeastern Mande > Mano-Dan > Guro-Dan > Guro-Yaoure > Guro"
 wikipedia_url: "https://en.wikipedia.org/wiki/Guro_language"
 translations:
+  - translation_iso: ara
+    name: غورو
+    auto: true
   - translation_iso: jpn
     name: グロ語
   - translation_iso: zho

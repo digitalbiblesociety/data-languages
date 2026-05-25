@@ -15,6 +15,9 @@ glottolog_family_name: Pano-Tacanan
 glottolog_classification: "Pano-Tacanan > Panoan > Mayoruna Branch > Mayo Group > Matses subgroup > Korubo"
 wikipedia_url: "https://en.wikipedia.org/wiki/Korubo_language"
 translations:
+  - translation_iso: ara
+    name: كوروبو
+    auto: true
   - translation_iso: jpn
     name: コルボ語
     auto: true

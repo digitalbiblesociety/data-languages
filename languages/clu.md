@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Greater Central Philippine > Central Philippine > Bisayan > West Bisayan > Kuyan > Datagnon-Santa Teresa-Semirara > Caluyanun"
 wikipedia_url: "https://en.wikipedia.org/wiki/Caluyanon_language"
 translations:
+  - translation_iso: ara
+    name: الكالويانون
+    auto: true
   - translation_iso: jpn
     name: カルヤヌン語
     auto: true

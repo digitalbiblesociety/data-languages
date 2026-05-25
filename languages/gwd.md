@@ -15,6 +15,9 @@ glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Cushitic > East Cushitic > Lowland East Cushitic > Southern Lowland East Cushitic > Transversal Lowland East Cushitic > Dullay > Ale-Gawwada"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ale_language"
 translations:
+  - translation_iso: ara
+    name: غآووآدآ
+    auto: true
   - translation_iso: jpn
     name: Dullay諸語
   - translation_iso: zho

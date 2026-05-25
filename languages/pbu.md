@@ -15,6 +15,9 @@ glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Iranian-Nuristani > Iranian > Pashto > Nuclear Pashto > Northern Pashto"
 wikipedia_url: "https://en.wikipedia.org/wiki/Northern_Pashto"
 translations:
+  - translation_iso: ara
+    name: اللغة باشتو الشمالية
+    auto: true
   - translation_iso: jpn
     name: 北部パシュトー語
   - translation_iso: zho

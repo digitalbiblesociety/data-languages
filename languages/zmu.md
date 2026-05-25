@@ -15,6 +15,9 @@ glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > Southeastern Pama-Nyungan > New South Wales Pama-Nyungan > Muruwaric > Muruwari"
 wikipedia_url: "https://en.wikipedia.org/wiki/Muruwari_language"
 translations:
+  - translation_iso: ara
+    name: موروواري
+    auto: true
   - translation_iso: jpn
     name: ムルワリ語
   - translation_iso: zho

@@ -15,6 +15,9 @@ glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Brahmaputran > Jingpho-Luish > Luish > Chak"
 wikipedia_url: "https://en.wikipedia.org/wiki/Sak_language"
 translations:
+  - translation_iso: ara
+    name: الشاك
+    auto: true
   - translation_iso: jpn
     name: サク諸語
   - translation_iso: zho

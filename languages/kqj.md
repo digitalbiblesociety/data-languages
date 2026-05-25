@@ -15,6 +15,9 @@ glottolog_family_name: South Bougainville
 glottolog_classification: "South Bougainville > Nasioiic > Nasioi > South-Central Nasioi > South Nasioi > Koromira"
 wikipedia_url: "https://en.wikipedia.org/wiki/Koromira_language"
 translations:
+  - translation_iso: ara
+    name: لغة كوروميرا
+    auto: true
   - translation_iso: jpn
     name: コロミラ語
     auto: true

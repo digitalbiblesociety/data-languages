@@ -12,6 +12,9 @@ glottolog_family_name: Unclassifiable
 glottolog_classification: "Unclassifiable > Lemnian"
 wikipedia_url: "https://en.wikipedia.org/wiki/Lemnian_language"
 translations:
+  - translation_iso: ara
+    name: لمنية
+    auto: true
   - translation_iso: jpn
     name: レムニア語
   - translation_iso: zho

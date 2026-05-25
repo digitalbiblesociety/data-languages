@@ -15,6 +15,9 @@ glottolog_family_name: Dravidian
 glottolog_classification: "Dravidian > South Dravidian > South Dravidian I > South-Western Dravidian > Bellari"
 wikipedia_url: "https://en.wikipedia.org/wiki/Bellari_language"
 translations:
+  - translation_iso: ara
+    name: بيلاري
+    auto: true
   - translation_iso: hin
     name: बेल्लारी भाषा
   - translation_iso: jpn

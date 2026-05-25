@@ -8,6 +8,9 @@ country_name: Mexico
 status_id: null
 wikipedia_url: "https://en.wikipedia.org/wiki/Mamulique_language"
 translations:
+  - translation_iso: ara
+    name: الماموليك
+    auto: true
   - translation_iso: jpn
     name: マムリク語
     auto: true

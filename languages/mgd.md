@@ -14,6 +14,9 @@ glottolog_family_name: Central Sudanic
 glottolog_classification: "Central Sudanic > Moru-Madi > Moru"
 wikipedia_url: "https://en.wikipedia.org/wiki/Moru_language"
 translations:
+  - translation_iso: ara
+    name: لغة مورو
+    auto: true
   - translation_iso: jpn
     name: モル語
     auto: true

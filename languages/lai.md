@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > East Bantu > Corridor Bantu > Mbozi > Nyika-Lambya > Lambya"
 wikipedia_url: "https://en.wikipedia.org/wiki/Lambya_language"
 translations:
+  - translation_iso: ara
+    name: لامبيا
+    auto: true
   - translation_iso: jpn
     name: ランブヤ語
   - translation_iso: zho

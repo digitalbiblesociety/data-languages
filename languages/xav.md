@@ -16,6 +16,9 @@ glottolog_family_name: Nuclear-Macro-Je
 glottolog_classification: "Nuclear-Macro-Je > Je > Cerrado > Central Je > Xavánte"
 wikipedia_url: "https://en.wikipedia.org/wiki/Xavante_language"
 translations:
+  - translation_iso: ara
+    name: خافنتي
+    auto: true
   - translation_iso: jpn
     name: シャバンテ語
   - translation_iso: zho

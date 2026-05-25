@@ -15,6 +15,9 @@ glottolog_family_name: Unattested
 glottolog_classification: "Unattested > Sentinel"
 wikipedia_url: "https://en.wikipedia.org/wiki/Sentinelese_language"
 translations:
+  - translation_iso: ara
+    name: اللغة السنتينيل
+    auto: true
   - translation_iso: hin
     name: सेंटीनिली भाषा
   - translation_iso: jpn

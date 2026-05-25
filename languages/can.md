@@ -15,6 +15,9 @@ glottolog_family_name: Lower Sepik
 glottolog_classification: "Lower Sepik > Chambri"
 wikipedia_url: "https://en.wikipedia.org/wiki/Chambri_language"
 translations:
+  - translation_iso: ara
+    name: تشامْبري
+    auto: true
   - translation_iso: jpn
     name: チャンブリ語
     auto: true

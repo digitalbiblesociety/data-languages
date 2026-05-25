@@ -15,6 +15,9 @@ glottolog_family_name: Cariban
 glottolog_classification: "Cariban > Parukotoan > Waiwaian > Hixkaryána"
 wikipedia_url: "https://en.wikipedia.org/wiki/Hixkaryana_language"
 translations:
+  - translation_iso: ara
+    name: هيكسكاريانا
+    auto: true
   - translation_iso: jpn
     name: ヒシュカリヤナ語
   - translation_iso: kor

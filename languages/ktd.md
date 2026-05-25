@@ -15,6 +15,9 @@ glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > Desert Nyungic > Wati > Unclassified Wati > Kokata"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kokatha_dialect"
 translations:
+  - translation_iso: ara
+    name: كوكاتا
+    auto: true
   - translation_iso: jpn
     name: コカタ語
     auto: true

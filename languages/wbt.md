@@ -15,6 +15,9 @@ glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > Desert Nyungic > Wati > Martuwangkic > Warnman-Wangka > Wanman"
 wikipedia_url: "https://en.wikipedia.org/wiki/Warnman_language"
 translations:
+  - translation_iso: ara
+    name: وارنمان
+    auto: true
   - translation_iso: jpn
     name: ワーンマン語
     auto: true

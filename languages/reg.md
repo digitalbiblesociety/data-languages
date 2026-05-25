@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > East Bantu > Northeast Savanna Bantu > Great Lakes Bantu > East Nyanza > Suguti > Kara (Tanzania)"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kara_language_(Tanzania)"
 translations:
+  - translation_iso: ara
+    name: كارا
+    auto: true
   - translation_iso: jpn
     name: カラ語
   - translation_iso: zho

@@ -9,6 +9,9 @@ status_id: 6a
 latitude: -4.61444
 longitude: 16.72588
 translations:
+  - translation_iso: ara
+    name: لغة ونزو
+    auto: true
   - translation_iso: jpn
     name: ロンゾ語
     auto: true

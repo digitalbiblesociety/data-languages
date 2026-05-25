@@ -15,6 +15,9 @@ glottolog_family_name: Unclassifiable
 glottolog_classification: "Unclassifiable > Tartessian"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tartessian_language"
 translations:
+  - translation_iso: ara
+    name: تارتيسي
+    auto: true
   - translation_iso: jpn
     name: タルテッソス語
   - translation_iso: zho

@@ -16,6 +16,9 @@ glottolog_family_name: Austroasiatic
 glottolog_classification: "Austroasiatic > Mundaic > North Munda > Kherwarian > Mundaric > Ho-Mundari > Mundari"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mundari_language"
 translations:
+  - translation_iso: ara
+    name: موندارس
+    auto: true
   - translation_iso: hin
     name: मुंडारी भाषा
   - translation_iso: jpn

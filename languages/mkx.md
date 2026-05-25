@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Greater Central Philippine > Manobo > North Manobo > Kinamiguin-Bukidnon > Cinamiguin Manobo"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kamigin_language"
 translations:
+  - translation_iso: ara
+    name: لغة مانوبو كيناميجينج
+    auto: true
   - translation_iso: jpn
     name: キナミギング・マノボ語
     auto: true

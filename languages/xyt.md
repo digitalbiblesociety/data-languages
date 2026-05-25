@@ -7,6 +7,9 @@ country_id: AU
 country_name: Australia
 status_id: "10"
 translations:
+  - translation_iso: ara
+    name: مايي-ثاكورتي
+    auto: true
   - translation_iso: jpn
     name: マイイ・タクルティ語
     auto: true

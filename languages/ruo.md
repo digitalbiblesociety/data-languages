@@ -15,6 +15,9 @@ glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Italic > Latino-Faliscan > Latinic > Imperial Latin > Romance > Eastern Romance > Northern Romanian > Istro-Romanian"
 wikipedia_url: "https://en.wikipedia.org/wiki/Istro-Romanian_language"
 translations:
+  - translation_iso: ara
+    name: إسترو رومانية
+    auto: true
   - translation_iso: jpn
     name: イストロ・ルーマニア語
   - translation_iso: zho

@@ -14,6 +14,9 @@ glottolog_family_id: west2434
 glottolog_family_name: Western Daly
 glottolog_classification: "Western Daly > Bringen > Marithielic > Marriammu"
 translations:
+  - translation_iso: ara
+    name: مارياموا
+    auto: true
   - translation_iso: jpn
     name: マリアムム語
     auto: true

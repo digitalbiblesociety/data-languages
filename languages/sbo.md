@@ -15,6 +15,9 @@ glottolog_family_name: Austroasiatic
 glottolog_classification: "Austroasiatic > Aslian > Central-Northern Aslian > Senoic > Lanoh-Semnam-Temiar > Lanoh-Semnam > Lanohic > Sabüm"
 wikipedia_url: "https://en.wikipedia.org/wiki/Sab%C3%BCm_language"
 translations:
+  - translation_iso: ara
+    name: سابوم
+    auto: true
   - translation_iso: jpn
     name: サブウム語
     auto: true

@@ -15,6 +15,9 @@ glottolog_family_name: Austroasiatic
 glottolog_classification: "Austroasiatic > Khasi-Palaung > Khasian > War-Jaintia"
 wikipedia_url: "https://en.wikipedia.org/wiki/War_language"
 translations:
+  - translation_iso: ara
+    name: لغة وار-جايينتيا
+    auto: true
   - translation_iso: hin
     name: वार भाषा
   - translation_iso: jpn

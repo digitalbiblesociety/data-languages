@@ -15,6 +15,9 @@ glottolog_family_name: Nakh-Daghestanian
 glottolog_classification: "Nakh-Daghestanian > Daghestanian > Avar-Andic-Tsezic > Andic > Bagvalal-Tindi > Bagvalal"
 wikipedia_url: "https://en.wikipedia.org/wiki/Bagvalal_language"
 translations:
+  - translation_iso: ara
+    name: باغفالال
+    auto: true
   - translation_iso: jpn
     name: バグバリ語
   - translation_iso: kor

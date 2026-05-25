@@ -10,6 +10,9 @@ latitude: 17.4451
 longitude: -96.3144
 wikipedia_url: "https://en.wikipedia.org/wiki/Las_Delicias_Zapotec"
 translations:
+  - translation_iso: ara
+    name: لغة زابوتيك لاس ديليشياس
+    auto: true
   - translation_iso: jpn
     name: ラス・デリシアス・サポテク語
     auto: true

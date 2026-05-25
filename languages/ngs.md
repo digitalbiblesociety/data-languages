@@ -15,6 +15,9 @@ glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > Biu-Mandara > North Biu-Mandara > Margi-Mandara-Mofu > Mandaraic > Dghwedeic > Gvoko"
 wikipedia_url: "https://en.wikipedia.org/wiki/Gvoko_language"
 translations:
+  - translation_iso: ara
+    name: جفوكو
+    auto: true
   - translation_iso: jpn
     name: グボコ語
     auto: true

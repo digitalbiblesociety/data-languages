@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > North-Central Atlantic > Central Atlantic > Bak > Joola-Manjaku > Jola > FH-Jola > PF-Jola > Kwatay-Karon-Mlomp > Kuwaataay"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kwatay_language"
 translations:
+  - translation_iso: ara
+    name: كووتااي
+    auto: true
   - translation_iso: jpn
     name: クワータイ語
   - translation_iso: zho

@@ -14,6 +14,9 @@ glottolog_family_id: pama1250
 glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > Desert Nyungic > Wati > Pintupic > Nuclear Pintupic > Wangkatja-Tjarra > Pintiini"
 translations:
+  - translation_iso: ara
+    name: اللغة بينديينى
+    auto: true
   - translation_iso: jpn
     name: ピンディーニ語
     auto: true

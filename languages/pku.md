@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Basap-Greater Barito > Greater Barito linkage > Southeast Barito > Maanyan-Paku > Paku"
 wikipedia_url: "https://en.wikipedia.org/wiki/Paku_language_(Indonesia)"
 translations:
+  - translation_iso: ara
+    name: اللغة باكو
+    auto: true
   - translation_iso: jpn
     name: パク語
     auto: true

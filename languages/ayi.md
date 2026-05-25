@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Delta Cross > Upper Cross > Central Upper Cross > East-West Central Delta Cross > Mbembe-Legbo > Legboic > Lenyima-Leyigha > Leyigha"
 wikipedia_url: "https://en.wikipedia.org/wiki/Yigha_language"
 translations:
+  - translation_iso: ara
+    name: اللغة ليجيغا
+    auto: true
   - translation_iso: jpn
     name: レイイーグハ語
     auto: true

@@ -15,6 +15,9 @@ glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Finisterre-Huon > Huon > Eastern Huon > Trans Vitiaz > Huon Tip > Kate-Mape > Kâte"
 wikipedia_url: "https://en.wikipedia.org/wiki/K%C3%A2te_language"
 translations:
+  - translation_iso: ara
+    name: لغة كاتي
+    auto: true
   - translation_iso: jpn
     name: カーテ語
   - translation_iso: zho

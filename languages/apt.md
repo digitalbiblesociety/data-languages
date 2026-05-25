@@ -15,6 +15,9 @@ glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Macro-Tani > Tani > Pre-Western Tani > Western Tani > Apatani"
 wikipedia_url: "https://en.wikipedia.org/wiki/Apatani_language"
 translations:
+  - translation_iso: ara
+    name: اللغة أباتاني
+    auto: true
   - translation_iso: hin
     name: अपतानी भाषा
   - translation_iso: jpn

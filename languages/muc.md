@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Yemne-Kimbi > Ajumbu"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mbu%CA%BC_language"
 translations:
+  - translation_iso: ara
+    name: لغة أجومبو
+    auto: true
   - translation_iso: jpn
     name: アジュムブ語
     auto: true

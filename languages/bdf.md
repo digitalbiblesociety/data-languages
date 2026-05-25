@@ -13,6 +13,9 @@ glottolog_family_id: koia1260
 glottolog_family_name: Koiarian
 glottolog_classification: "Koiarian > Koiaric > Biage-Mountain Koiali > Biage"
 translations:
+  - translation_iso: ara
+    name: اللغة بياجي
+    auto: true
   - translation_iso: jpn
     name: ビアゲ語
     auto: true

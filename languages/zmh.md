@@ -15,6 +15,9 @@ glottolog_family_name: Baining
 glottolog_classification: "Baining > Unclassified Baining > Makolkol"
 wikipedia_url: "https://en.wikipedia.org/wiki/Makolkol_language"
 translations:
+  - translation_iso: ara
+    name: اللغة ماكولكول
+    auto: true
   - translation_iso: jpn
     name: マコルコル語
     auto: true

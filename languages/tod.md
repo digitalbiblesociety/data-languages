@@ -14,6 +14,9 @@ glottolog_family_id: mand1469
 glottolog_family_name: Mande
 glottolog_classification: "Mande > Western Mande > Manding-Kpelle > Southwest Mande > Mende-Loma > Loma > Toma"
 translations:
+  - translation_iso: ara
+    name: توما
+    auto: true
   - translation_iso: jpn
     name: トマ語
     auto: true

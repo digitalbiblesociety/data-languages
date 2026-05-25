@@ -14,6 +14,9 @@ glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Madang > Croisilles > Greater Northern Adelbert > Northern Adelbert > Numugenan > Karian-Usan-Yaben > Yaben"
 wikipedia_url: "https://en.wikipedia.org/wiki/Yaben_language"
 translations:
+  - translation_iso: ara
+    name: يابين
+    auto: true
   - translation_iso: jpn
     name: ヤベン語
     auto: true

@@ -15,6 +15,9 @@ glottolog_family_name: Mailuan
 glottolog_classification: "Mailuan > Laua"
 wikipedia_url: "https://en.wikipedia.org/wiki/Laua_language"
 translations:
+  - translation_iso: ara
+    name: لغة اوا
+    auto: true
   - translation_iso: jpn
     name: ラウア語
     auto: true

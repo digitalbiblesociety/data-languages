@@ -15,6 +15,9 @@ glottolog_family_name: Mande
 glottolog_classification: "Mande > Western Mande > Manding-Kpelle > Central Mande > Manding-Jogo > Manding-Vai > Manding-Mokole > Nuclear Mokole > Mixiforic > Mixifore"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mixifore_language"
 translations:
+  - translation_iso: ara
+    name: لغة موجوفين
+    auto: true
   - translation_iso: jpn
     name: モゴフィン語
     auto: true

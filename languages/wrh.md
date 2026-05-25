@@ -15,6 +15,9 @@ glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > Southeastern Pama-Nyungan > Wiradhuric > Wiradhuri"
 wikipedia_url: "https://en.wikipedia.org/wiki/Wiradjuri_language"
 translations:
+  - translation_iso: ara
+    name: ويرادجوري
+    auto: true
   - translation_iso: jpn
     name: ウィラドゥリ語
   - translation_iso: zho

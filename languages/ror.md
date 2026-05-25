@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Bima-Lembata > Flores > West-Central Flores > Central Flores-Paluqe > Central Flores > Ngada > Rongga"
 wikipedia_url: "https://en.wikipedia.org/wiki/Rongga_language"
 translations:
+  - translation_iso: ara
+    name: رونجا
+    auto: true
   - translation_iso: jpn
     name: ロンガ語
   - translation_iso: zho

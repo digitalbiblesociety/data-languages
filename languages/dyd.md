@@ -15,6 +15,9 @@ glottolog_family_name: Nyulnyulan
 glottolog_classification: "Nyulnyulan > Eastern Nyulnyulan > Yawuric > Dyugun"
 wikipedia_url: "https://en.wikipedia.org/wiki/Djukun_language"
 translations:
+  - translation_iso: ara
+    name: ديوجون
+    auto: true
   - translation_iso: jpn
     name: デュグン語
   - translation_iso: zho

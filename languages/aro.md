@@ -16,6 +16,9 @@ glottolog_family_name: Pano-Tacanan
 glottolog_classification: "Pano-Tacanan > Tacanan > Takanik-Chamik > Takanik > Araona-Toromono > Araona"
 wikipedia_url: "https://en.wikipedia.org/wiki/Araona_language"
 translations:
+  - translation_iso: ara
+    name: اللغة أراونا
+    auto: true
   - translation_iso: jpn
     name: アラオナ語
   - translation_iso: zho

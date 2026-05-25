@@ -15,6 +15,9 @@ glottolog_family_name: Cochimi-Yuman
 glottolog_classification: "Cochimi-Yuman > Yuman > General Yuman > River Yuman > Maricopa"
 wikipedia_url: "https://en.wikipedia.org/wiki/Maricopa_language"
 translations:
+  - translation_iso: ara
+    name: لغة ماريكوبا
+    auto: true
   - translation_iso: jpn
     name: マリコパ語
   - translation_iso: zho

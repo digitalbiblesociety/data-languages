@@ -15,6 +15,9 @@ glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Italic > Latino-Faliscan > Latinic > Imperial Latin > Romance > Eastern Romance > Northern Romanian > Eastern Romanian > Megleno-Romanian"
 wikipedia_url: "https://en.wikipedia.org/wiki/Megleno-Romanian_language"
 translations:
+  - translation_iso: ara
+    name: ميجلينو رومانية
+    auto: true
   - translation_iso: jpn
     name: メグレノ・ルーマニア語
   - translation_iso: zho

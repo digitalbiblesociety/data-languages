@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > North Borneo Malayo-Polynesian > Sabahan > Southwest Sabahan > Greater Murutic > Murutic > Northern Murutic > Sumambu-Tagal > Tidung-Bulusu > Tidung > Northern Tidung"
 wikipedia_url: "https://en.wikipedia.org/wiki/Sesayap_Tidung"
 translations:
+  - translation_iso: ara
+    name: تيدونغ الشمالية
+    auto: true
   - translation_iso: jpn
     name: 北ティドゥン語
     auto: true

@@ -15,6 +15,9 @@ glottolog_family_name: Aymaran
 glottolog_classification: "Aymaran > Central-Southern Aymara > Southern Aymara"
 wikipedia_url: "https://en.wikipedia.org/wiki/Southern_Aymara_language"
 translations:
+  - translation_iso: ara
+    name: اللغة أيمارا الجنوبية
+    auto: true
   - translation_iso: jpn
     name: 南アイマラ語
   - translation_iso: zho

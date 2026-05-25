@@ -14,6 +14,9 @@ glottolog_family_name: Namla-Tofanma
 glottolog_classification: "Namla-Tofanma > Tofanma"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tofanma_language"
 translations:
+  - translation_iso: ara
+    name: توفانما
+    auto: true
   - translation_iso: jpn
     name: トファンマ語
     auto: true

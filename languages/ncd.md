@@ -15,6 +15,9 @@ glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Himalayish > Mahakiranti > Kiranti > Eastern Kiranti > Khambu > Kulungic > Nachering"
 wikipedia_url: "https://en.wikipedia.org/wiki/Nachhiring_language"
 translations:
+  - translation_iso: ara
+    name: ناشرينج
+    auto: true
   - translation_iso: jpn
     name: ナチェリング語
     auto: true

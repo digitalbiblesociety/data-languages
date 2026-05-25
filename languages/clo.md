@@ -15,6 +15,9 @@ glottolog_family_name: Tequistlatecan
 glottolog_classification: "Tequistlatecan > Eastern Tequistlatecan > Lowland Oaxaca Chontal"
 wikipedia_url: "https://en.wikipedia.org/wiki/Huamelultec_language"
 translations:
+  - translation_iso: ara
+    name: السهل واخاكا تشونتال
+    auto: true
   - translation_iso: jpn
     name: ローランド・オアハカ・チョンタル語
     auto: true

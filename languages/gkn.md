@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Delta Cross > Ogonoid > East Ogonoid > Gokana"
 wikipedia_url: "https://en.wikipedia.org/wiki/Gokana_language"
 translations:
+  - translation_iso: ara
+    name: غوكانا
+    auto: true
   - translation_iso: jpn
     name: ゴカナ語
     auto: true

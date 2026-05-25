@@ -15,6 +15,9 @@ glottolog_family_name: Austroasiatic
 glottolog_classification: "Austroasiatic > Bahnaric > West Bahnaric > Nuclear West Bahnaric > Oy"
 wikipedia_url: "https://en.wikipedia.org/wiki/Oi_language"
 translations:
+  - translation_iso: ara
+    name: اللغة أوي
+    auto: true
   - translation_iso: jpn
     name: オイ語
     auto: true

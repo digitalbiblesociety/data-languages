@@ -12,6 +12,9 @@ longitude: 143.28359
 glottocode: fasu1242
 wikipedia_url: "https://en.wikipedia.org/wiki/Fasu_language"
 translations:
+  - translation_iso: ara
+    name: الفاسو
+    auto: true
   - translation_iso: jpn
     name: ファス語
     auto: true

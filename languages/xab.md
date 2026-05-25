@@ -14,6 +14,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Benue-Congo Plateau > Alumic > Hasha-Sambe > Sambe"
 wikipedia_url: "https://en.wikipedia.org/wiki/Sambe_language"
 translations:
+  - translation_iso: ara
+    name: سامبي
+    auto: true
   - translation_iso: jpn
     name: サンベ語
     auto: true

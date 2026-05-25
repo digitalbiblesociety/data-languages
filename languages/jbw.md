@@ -7,6 +7,9 @@ country_id: AU
 country_name: Australia
 status_id: "9"
 translations:
+  - translation_iso: ara
+    name: لغة ياويجيبايا
+    auto: true
   - translation_iso: jpn
     name: ヤウィジバヤ語
     auto: true

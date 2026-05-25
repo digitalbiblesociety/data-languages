@@ -15,6 +15,9 @@ glottolog_family_name: Otomanguean
 glottolog_classification: "Otomanguean > Eastern Otomanguean > Popoloca-Zapotecan > Zapotecan > Chatino > Core Chatino > Coastal Chatino > Tataltepec Chatino"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tataltepec_Chatino"
 translations:
+  - translation_iso: ara
+    name: تاتالتيبك تشاتينو
+    auto: true
   - translation_iso: jpn
     name: タタルテペク・チャティーノ語
     auto: true

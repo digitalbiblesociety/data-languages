@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Benue-Congo Plateau > Northern Benue-Congo Plateau > Nuclear Northern Benue-Congo Plateau > Kadara"
 wikipedia_url: "https://en.wikipedia.org/wiki/Adara_language"
 translations:
+  - translation_iso: ara
+    name: لغة أدارا
+    auto: true
   - translation_iso: jpn
     name: アダラ語
     auto: true

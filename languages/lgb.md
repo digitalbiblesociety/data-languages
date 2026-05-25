@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > Meso Melanesian linkage > New Ireland-Northwest Solomonic linkage > St George linkage > Northwest Solomonic > West Santa Isabel > Laghu"
 wikipedia_url: "https://en.wikipedia.org/wiki/Laghu_language"
 translations:
+  - translation_iso: ara
+    name: لغة اجهو
+    auto: true
   - translation_iso: jpn
     name: ラグ語
   - translation_iso: zho

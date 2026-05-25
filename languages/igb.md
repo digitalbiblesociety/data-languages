@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Ebira-Nupoid > Ebira"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ebira_language"
 translations:
+  - translation_iso: ara
+    name: إبيرا
+    auto: true
   - translation_iso: jpn
     name: エビラ語
   - translation_iso: zho

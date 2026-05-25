@@ -16,6 +16,9 @@ glottolog_family_name: Nilotic
 glottolog_classification: "Nilotic > Southern Nilotic > Kalenjin > Northern Kalenjin > Pökoot"
 wikipedia_url: "https://en.wikipedia.org/wiki/P%C3%B6koot_language"
 translations:
+  - translation_iso: ara
+    name: اللغة بوكوت
+    auto: true
   - translation_iso: jpn
     name: ポコット語
   - translation_iso: zho

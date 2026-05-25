@@ -15,6 +15,9 @@ glottolog_family_name: Mayan
 glottolog_classification: "Mayan > Core Mayan > Western Mayan > Kanjobalan-Chujean > Kanjobalan > Kanjobal-Jacaltec > Popti'"
 wikipedia_url: "https://en.wikipedia.org/wiki/Jakaltek_language"
 translations:
+  - translation_iso: ara
+    name: لغة بوبتي
+    auto: true
   - translation_iso: jpn
     name: ハカルテク語
   - translation_iso: kor

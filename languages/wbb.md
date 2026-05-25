@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > South Halmahera-West New Guinea > Cenderawasih Bay > Yapen > Eastern Yapen > Wabo"
 wikipedia_url: "https://en.wikipedia.org/wiki/Wabo_language"
 translations:
+  - translation_iso: ara
+    name: وابو
+    auto: true
   - translation_iso: jpn
     name: ワボ語
     auto: true

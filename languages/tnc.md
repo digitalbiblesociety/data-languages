@@ -15,6 +15,9 @@ glottolog_family_name: Tucanoan
 glottolog_classification: "Tucanoan > Eastern Tucanoan > South Eastern Tucanoan > Tanimuca-Retuarã"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tanimuca-Retuar%C3%A3_language"
 translations:
+  - translation_iso: ara
+    name: تانيموكا ريتواريا
+    auto: true
   - translation_iso: jpn
     name: タニムカ・レトゥアラ語
     auto: true

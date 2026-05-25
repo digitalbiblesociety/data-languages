@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > North New Guinea linkage > Schouten linkage > Kairiru-Manam > Kairiruic linkage > Kaiep-Terebu > Kaiep"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kaiep_language"
 translations:
+  - translation_iso: ara
+    name: لغة كايب
+    auto: true
   - translation_iso: jpn
     name: カイエプ語
     auto: true

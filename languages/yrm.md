@@ -8,6 +8,9 @@ country_name: Australia
 status_id: null
 wikipedia_url: "https://en.wikipedia.org/wiki/Yirrk-Thangalkl_dialect"
 translations:
+  - translation_iso: ara
+    name: لغة ييرك-مل
+    auto: true
   - translation_iso: jpn
     name: イリク-メル語
     auto: true

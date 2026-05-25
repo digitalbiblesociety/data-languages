@@ -14,6 +14,9 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > South Halmahera-West New Guinea > Raja Ampat-South Halmahera > Maya-Salawati-Matbat > Maya-Salawati > Raja Ampat Maya > Waigeo Maya > Wauyai"
 translations:
+  - translation_iso: ara
+    name: واوياي
+    auto: true
   - translation_iso: jpn
     name: ワウヤイ語
     auto: true

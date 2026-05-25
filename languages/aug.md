@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Kwa Volta-Congo > Gbe > Western Gbe > Eweic > Aguna"
 wikipedia_url: "https://en.wikipedia.org/wiki/Aguna_language"
 translations:
+  - translation_iso: ara
+    name: اللغة أجونا
+    auto: true
   - translation_iso: jpn
     name: アグナ語
     auto: true

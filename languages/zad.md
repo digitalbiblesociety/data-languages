@@ -15,6 +15,9 @@ glottolog_family_name: Otomanguean
 glottolog_classification: "Otomanguean > Eastern Otomanguean > Popoloca-Zapotecan > Zapotecan > Zapotec > Core Zapotec > Narrow Core Zapotec > Northern Core Zapotec > Cajonosic > Cajonos Zapotec"
 wikipedia_url: "https://en.wikipedia.org/wiki/Cajonos_Zapotec"
 translations:
+  - translation_iso: ara
+    name: لغة زابوتيك كاخونوس
+    auto: true
   - translation_iso: jpn
     name: カホノス・サポテク語
     auto: true

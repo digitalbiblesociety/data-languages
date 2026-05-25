@@ -15,6 +15,9 @@ glottolog_family_name: Yam
 glottolog_classification: "Yam > Kanum > Ngkrn-Ngkantr > Sota Kanum"
 wikipedia_url: "https://en.wikipedia.org/wiki/Nggarna_language"
 translations:
+  - translation_iso: ara
+    name: سوتا كانوم
+    auto: true
   - translation_iso: jpn
     name: ソタ・カヌム語
     auto: true

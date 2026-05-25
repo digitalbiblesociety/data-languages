@@ -15,6 +15,9 @@ glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Indo-Aryan > Middle-Modern Indo-Aryan > Eastern Dardic > Himachali > Nuclear Himachali > Mahasu Pahari"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mahasu_Pahari"
 translations:
+  - translation_iso: ara
+    name: ماهاسو باهاري
+    auto: true
   - translation_iso: hin
     name: महासु पहाड़ी
   - translation_iso: jpn

@@ -15,6 +15,9 @@ glottolog_family_name: Pauwasi
 glottolog_classification: "Pauwasi > Eastern Pauwasi > Emumu"
 wikipedia_url: "https://en.wikipedia.org/wiki/Emem_language"
 translations:
+  - translation_iso: ara
+    name: الإمومو
+    auto: true
   - translation_iso: jpn
     name: エムム語
     auto: true

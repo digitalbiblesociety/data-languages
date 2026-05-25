@@ -14,6 +14,9 @@ glottolog_family_id: taik1256
 glottolog_family_name: Tai-Kadai
 glottolog_classification: "Tai-Kadai > Kadaic > Southwestern Kra > Western Kra > Lachic > White Lachi"
 translations:
+  - translation_iso: ara
+    name: لغة هيتي اكهي
+    auto: true
   - translation_iso: jpn
     name: ホワイト・ラチ語
     auto: true

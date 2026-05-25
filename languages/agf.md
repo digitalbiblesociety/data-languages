@@ -14,6 +14,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Tanimbar-Bomberai > Nuta > Arguni"
 wikipedia_url: "https://en.wikipedia.org/wiki/Arguni_language"
 translations:
+  - translation_iso: ara
+    name: لغة أرغوني
+    auto: true
   - translation_iso: jpn
     name: アルグニ語
     auto: true

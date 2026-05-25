@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Gur > Central Gur > Northern Central Gur > Koromfé"
 wikipedia_url: "https://en.wikipedia.org/wiki/Koromfe_language"
 translations:
+  - translation_iso: ara
+    name: لغة كوروومفيه
+    auto: true
   - translation_iso: jpn
     name: クルンフェ語
   - translation_iso: zho

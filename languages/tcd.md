@@ -14,6 +14,9 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Kwa Volta-Congo > Ka-Togo > Avatime-Nyangbo > Nyangbo-Tafi > Tafi"
 translations:
+  - translation_iso: ara
+    name: تافي
+    auto: true
   - translation_iso: jpn
     name: タフィ語
     auto: true

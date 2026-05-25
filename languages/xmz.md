@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Celebic > Greater Eastern Celebic > Eastern Celebic > Southeastern Celebic > Bungku-Tolaki > Eastern Bungku-Tolaki > East Coast Bungku-Tolaki > Mori Bawah"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mori_Bawah_language"
 translations:
+  - translation_iso: ara
+    name: موري باوا
+    auto: true
   - translation_iso: jpn
     name: モリ・バワ語
     auto: true

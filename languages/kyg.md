@@ -15,6 +15,9 @@ glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Kainantu-Goroka > Goroka > Nuclear Goroka > Siane-Yagaria > Kamano-Yagaria > Keyagana"
 wikipedia_url: "https://en.wikipedia.org/wiki/Keyagana_language"
 translations:
+  - translation_iso: ara
+    name: كييجانا
+    auto: true
   - translation_iso: jpn
     name: キャガナ語
     auto: true

@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Southeast Solomonic > Longgu-Malaita-Makira > Malaita-Makira > Malaita > Central-Northern Malaita > North Malaitan > Fataleka"
 wikipedia_url: "https://en.wikipedia.org/wiki/Fataleka_language"
 translations:
+  - translation_iso: ara
+    name: الفاتاليكا
+    auto: true
   - translation_iso: jpn
     name: ファタレカ語
     auto: true

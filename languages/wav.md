@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Cameroun-Ubangian > Central Adamawa > Mumuye-Yandang > Yandangic > Waka-Yendang-Teme > Waka-Yandang > Waka"
 wikipedia_url: "https://en.wikipedia.org/wiki/Waka_language"
 translations:
+  - translation_iso: ara
+    name: واكا
+    auto: true
   - translation_iso: jpn
     name: ワカ語
     auto: true

@@ -15,6 +15,9 @@ glottolog_family_name: Austroasiatic
 glottolog_classification: "Austroasiatic > Bahnaric > West Bahnaric > South Bahnaric > Koho-Maa > Koho"
 wikipedia_url: "https://en.wikipedia.org/wiki/Koho_language"
 translations:
+  - translation_iso: ara
+    name: لغة كوهو
+    auto: true
   - translation_iso: jpn
     name: コホ語
     auto: true

@@ -15,6 +15,9 @@ glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Bodic > Bodish > Phobjib-Chali-Bumthangic > Chali-Bumthangic > Bumthangic > Bumthangkha"
 wikipedia_url: "https://en.wikipedia.org/wiki/Bumthang_language"
 translations:
+  - translation_iso: ara
+    name: لغة بومثانجخا
+    auto: true
   - translation_iso: jpn
     name: ブムタン語
   - translation_iso: zho

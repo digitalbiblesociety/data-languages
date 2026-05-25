@@ -14,6 +14,9 @@ glottolog_family_id: aust1305
 glottolog_family_name: Austroasiatic
 glottolog_classification: "Austroasiatic > Khasi-Palaung > Palaungic > West Palaungic > Riang > Yinchia"
 translations:
+  - translation_iso: ara
+    name: لغة ريانج لاي
+    auto: true
   - translation_iso: jpn
     name: リアング・ライ語
     auto: true

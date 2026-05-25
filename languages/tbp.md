@@ -15,6 +15,9 @@ glottolog_family_name: Lakes Plain
 glottolog_classification: "Lakes Plain > East Lakes Plain > Taworta"
 wikipedia_url: "https://en.wikipedia.org/wiki/Taworta_language"
 translations:
+  - translation_iso: ara
+    name: تاوورتا
+    auto: true
   - translation_iso: jpn
     name: タウォルタ語
     auto: true

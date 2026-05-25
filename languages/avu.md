@@ -15,6 +15,9 @@ glottolog_family_name: Central Sudanic
 glottolog_classification: "Central Sudanic > Moru-Madi > Central Moru-Madi > Avokayic > Avokaya"
 wikipedia_url: "https://en.wikipedia.org/wiki/Avokaya_language"
 translations:
+  - translation_iso: ara
+    name: اللغة أفوكايا
+    auto: true
   - translation_iso: jpn
     name: アヴォカヤ語
     auto: true

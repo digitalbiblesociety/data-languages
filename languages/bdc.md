@@ -15,6 +15,9 @@ glottolog_family_name: Chocoan
 glottolog_classification: "Chocoan > Embera > Atrato > Panama-Baudo-Atrato > Emberá-Baudó"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ember%C3%A1_Baud%C3%B3"
 translations:
+  - translation_iso: ara
+    name: اللغة إمبيريه-باودو
+    auto: true
   - translation_iso: jpn
     name: エンベラ・バウド語
     auto: true

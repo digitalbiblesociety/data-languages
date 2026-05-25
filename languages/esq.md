@@ -12,6 +12,9 @@ longitude: -121.86656
 glottocode: esse1238
 wikipedia_url: "https://en.wikipedia.org/wiki/Esselen_language"
 translations:
+  - translation_iso: ara
+    name: الإسيلين
+    auto: true
   - translation_iso: jpn
     name: エセレン語
   - translation_iso: zho

@@ -15,6 +15,9 @@ glottolog_family_name: Amto-Musan
 glottolog_classification: "Amto-Musan > Siawi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Siawi_language"
 translations:
+  - translation_iso: ara
+    name: لغة سياوي
+    auto: true
   - translation_iso: jpn
     name: シアウィ語
     auto: true

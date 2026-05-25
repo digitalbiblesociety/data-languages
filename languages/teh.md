@@ -15,6 +15,9 @@ glottolog_family_name: Chonan
 glottolog_classification: "Chonan > Nuclear Chonan > Tehuelche"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tehuelche_language"
 translations:
+  - translation_iso: ara
+    name: تيهويلتشي
+    auto: true
   - translation_iso: jpn
     name: テウェルチェ語
   - translation_iso: kor

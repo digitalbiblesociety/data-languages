@@ -15,6 +15,9 @@ glottolog_family_name: Mande
 glottolog_classification: "Mande > Eastern Mande > Southeastern Mande > Mano-Dan > Mann"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mano_language"
 translations:
+  - translation_iso: ara
+    name: لغة مانو
+    auto: true
   - translation_iso: jpn
     name: マノ語
   - translation_iso: zho

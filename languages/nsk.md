@@ -16,6 +16,9 @@ glottolog_family_name: Algic
 glottolog_classification: "Algic > Algonquian-Blackfoot > Algonquian > Cree-Montagnais-Naskapi > Naskapi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Naskapi_language"
 translations:
+  - translation_iso: ara
+    name: ناسكابي
+    auto: true
   - translation_iso: jpn
     name: ナスカピ語
   - translation_iso: zho

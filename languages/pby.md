@@ -12,6 +12,9 @@ longitude: 141.01776
 glottocode: pyuu1245
 wikipedia_url: "https://en.wikipedia.org/wiki/Pyu_language_(Papuan)"
 translations:
+  - translation_iso: ara
+    name: اللغة بيو
+    auto: true
   - translation_iso: jpn
     name: ピュー語
   - translation_iso: zho

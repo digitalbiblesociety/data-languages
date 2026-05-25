@@ -15,6 +15,9 @@ glottolog_family_name: Songhay
 glottolog_classification: "Songhay > Northwest Songhay > Northern Songhay > Tadaksahak"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tadaksahak"
 translations:
+  - translation_iso: ara
+    name: تاداكساهاك
+    auto: true
   - translation_iso: jpn
     name: タダクサハク語
     auto: true

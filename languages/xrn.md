@@ -15,6 +15,9 @@ glottolog_family_name: Yeniseian
 glottolog_classification: "Yeniseian > Arin"
 wikipedia_url: "https://en.wikipedia.org/wiki/Arin_language"
 translations:
+  - translation_iso: ara
+    name: آرين
+    auto: true
   - translation_iso: jpn
     name: アリン語
   - translation_iso: kor

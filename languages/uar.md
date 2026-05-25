@@ -14,6 +14,9 @@ glottolog_family_name: Eleman
 glottolog_classification: "Eleman > Eastern Eleman > Tairuma"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tairuma_language"
 translations:
+  - translation_iso: ara
+    name: تايرما
+    auto: true
   - translation_iso: jpn
     name: タイルマ語
   - translation_iso: zho

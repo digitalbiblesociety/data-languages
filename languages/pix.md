@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > North New Guinea linkage > Huon Gulf > South Huon Gulf linkage > Buang linkage > Piu"
 wikipedia_url: "https://en.wikipedia.org/wiki/Piu_language"
 translations:
+  - translation_iso: ara
+    name: اللغة بيو
+    auto: true
   - translation_iso: jpn
     name: ピウ語
     auto: true

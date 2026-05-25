@@ -15,6 +15,9 @@ glottolog_family_name: Arawakan
 glottolog_classification: "Arawakan > Southern Maipuran > Purus-Chamicuro > Purus > Iñapari"
 wikipedia_url: "https://en.wikipedia.org/wiki/I%C3%B1apari_language"
 translations:
+  - translation_iso: ara
+    name: إينابري
+    auto: true
   - translation_iso: jpn
     name: イニャパリ語
   - translation_iso: zho

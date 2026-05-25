@@ -15,6 +15,9 @@ glottolog_family_name: Nuclear-Macro-Je
 glottolog_classification: "Nuclear-Macro-Je > Jabuti > Arikapú"
 wikipedia_url: "https://en.wikipedia.org/wiki/Arikap%C3%BA_language"
 translations:
+  - translation_iso: ara
+    name: اللغة أريكابو
+    auto: true
   - translation_iso: jpn
     name: アリカプ語
     auto: true

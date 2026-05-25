@@ -14,6 +14,9 @@ glottolog_family_id: mong1349
 glottolog_family_name: Mongolic-Khitan
 glottolog_classification: "Mongolic-Khitan > Mongolic > Eastern Mongolic > Khalkha-Buriat > Buriat > China Buriat"
 translations:
+  - translation_iso: ara
+    name: تشين بورْيات
+    auto: true
   - translation_iso: jpn
     name: 中国ブリヤート語
   - translation_iso: zho

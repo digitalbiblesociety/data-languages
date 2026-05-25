@@ -15,6 +15,9 @@ glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Madang > Rai Coast > Evapia > Dumpu"
 wikipedia_url: "https://en.wikipedia.org/wiki/Watiwa_language"
 translations:
+  - translation_iso: ara
+    name: واتيوا
+    auto: true
   - translation_iso: jpn
     name: ワティワ語
     auto: true

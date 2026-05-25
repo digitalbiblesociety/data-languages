@@ -12,6 +12,9 @@ longitude: 22.19559
 glottocode: kuja1239
 wikipedia_url: "https://en.wikipedia.org/wiki/Kujarg%C3%A9_language"
 translations:
+  - translation_iso: ara
+    name: كوجارجي
+    auto: true
   - translation_iso: jpn
     name: クハルゲ語
     auto: true

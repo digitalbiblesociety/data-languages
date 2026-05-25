@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > East Bantu > Corridor Bantu > Mbozi > Nyika-Lambya > Nyika > Nyika (Tanzania)"
 wikipedia_url: "https://en.wikipedia.org/wiki/Nyika_language"
 translations:
+  - translation_iso: ara
+    name: نييكا
+    auto: true
   - translation_iso: jpn
     name: ニイカ語
   - translation_iso: zho

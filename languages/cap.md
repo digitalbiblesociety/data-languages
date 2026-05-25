@@ -15,6 +15,9 @@ glottolog_family_name: Uru-Chipaya
 glottolog_classification: "Uru-Chipaya > Chipaya"
 wikipedia_url: "https://en.wikipedia.org/wiki/Chipaya_language"
 translations:
+  - translation_iso: ara
+    name: تشيپايا
+    auto: true
   - translation_iso: jpn
     name: チパヤ語
   - translation_iso: kor

@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > North and Central Vanuatu > Northern Vanuatu > Espiritu Santo > Nuclear Santo > East Santo > Mafea-Tutuba > Mafea"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mav%CC%8Bea_language"
 translations:
+  - translation_iso: ara
+    name: لغة مافيا
+    auto: true
   - translation_iso: jpn
     name: マヴェア語
   - translation_iso: zho

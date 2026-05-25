@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Central Pacific linkage > Western Fijian > Namosi-Naitasiri-Serua"
 wikipedia_url: "https://en.wikipedia.org/wiki/Namosi-Naitasiri-Serua_language"
 translations:
+  - translation_iso: ara
+    name: ناموسي-نايتاسيري-سيروا
+    auto: true
   - translation_iso: jpn
     name: ナモシ・ナイタシリ・セルア語
     auto: true

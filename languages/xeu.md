@@ -15,6 +15,9 @@ glottolog_family_name: Eleman
 glottolog_classification: "Eleman > Western Eleman > Keoru-Ahia"
 wikipedia_url: "https://en.wikipedia.org/wiki/Keoru_language"
 translations:
+  - translation_iso: ara
+    name: كيورو-أهيا
+    auto: true
   - translation_iso: jpn
     name: ケオル・アヒア語
     auto: true

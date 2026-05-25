@@ -15,6 +15,9 @@ glottolog_family_name: Otomanguean
 glottolog_classification: "Otomanguean > Eastern Otomanguean > Popoloca-Zapotecan > Zapotecan > Chatino > Core Chatino > Zenzontepec Chatino"
 wikipedia_url: "https://en.wikipedia.org/wiki/Zenzontepec_Chatino"
 translations:
+  - translation_iso: ara
+    name: زينزونتيبك تشاتينو
+    auto: true
   - translation_iso: jpn
     name: セントソンテペク・チャティーノ語
     auto: true

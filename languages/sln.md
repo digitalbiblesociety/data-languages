@@ -12,6 +12,9 @@ longitude: -121.71773
 glottocode: sali1253
 wikipedia_url: "https://en.wikipedia.org/wiki/Salinan_language"
 translations:
+  - translation_iso: ara
+    name: اللغة السالينان
+    auto: true
   - translation_iso: jpn
     name: サリナ語
   - translation_iso: zho

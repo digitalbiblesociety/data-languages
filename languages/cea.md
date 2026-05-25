@@ -15,6 +15,9 @@ glottolog_family_name: Salishan
 glottolog_classification: "Salishan > Coast Salish > Tsamosan > Coastal Tsamosan > Lower Chehalis"
 wikipedia_url: "https://en.wikipedia.org/wiki/Lower_Chehalis_language"
 translations:
+  - translation_iso: ara
+    name: السفلى تشهاليس
+    auto: true
   - translation_iso: jpn
     name: 下チヘリス語
   - translation_iso: zho

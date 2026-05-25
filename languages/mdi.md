@@ -15,6 +15,9 @@ glottolog_family_name: Central Sudanic
 glottolog_classification: "Central Sudanic > Membi-Mangbutu-Efe > Mangbutu-Efe > Mamvu"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mamvu_language"
 translations:
+  - translation_iso: ara
+    name: لغة مامفو
+    auto: true
   - translation_iso: jpn
     name: マムブ語
   - translation_iso: zho

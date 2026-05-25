@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Sangiric-Minahasan > Sangiric > Southern Sangiric > Ratahan"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ratahan_language"
 translations:
+  - translation_iso: ara
+    name: راتاهان
+    auto: true
   - translation_iso: jpn
     name: ラタハン
   - translation_iso: zho

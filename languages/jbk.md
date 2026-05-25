@@ -13,6 +13,9 @@ glottolog_family_id: tura1263
 glottolog_family_name: Turama-Kikori
 glottolog_classification: "Turama-Kikori > Turama-Omatian > Barikewa"
 translations:
+  - translation_iso: ara
+    name: لغة باريكيوا
+    auto: true
   - translation_iso: jpn
     name: バリケワ語
     auto: true

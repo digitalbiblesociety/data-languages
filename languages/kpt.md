@@ -15,6 +15,9 @@ glottolog_family_name: Nakh-Daghestanian
 glottolog_classification: "Nakh-Daghestanian > Daghestanian > Avar-Andic-Tsezic > Andic > Karata-Tukita"
 wikipedia_url: "https://en.wikipedia.org/wiki/Karata-Tukita_language"
 translations:
+  - translation_iso: ara
+    name: لغة كاراتا
+    auto: true
   - translation_iso: jpn
     name: カラタ語
   - translation_iso: kor

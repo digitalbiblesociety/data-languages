@@ -9,6 +9,9 @@ country_name: Myanmar
 status_id: 6a
 wikipedia_url: "https://en.wikipedia.org/wiki/Songlai_language"
 translations:
+  - translation_iso: ara
+    name: سونغلاي تشين
+    auto: true
   - translation_iso: jpn
     name: ソンライ・チン語
     auto: true

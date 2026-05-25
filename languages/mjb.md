@@ -8,6 +8,9 @@ country_name: "Timor-Leste"
 status_id: null
 wikipedia_url: "https://en.wikipedia.org/wiki/Makalero"
 translations:
+  - translation_iso: ara
+    name: لغة ماكاليرو
+    auto: true
   - translation_iso: jpn
     name: マカレロ方言
   - translation_iso: zho

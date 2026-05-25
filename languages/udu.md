@@ -15,6 +15,9 @@ glottolog_family_name: Koman
 glottolog_classification: "Koman > Central Koman > Komo-Uduk > Uduk"
 wikipedia_url: "https://en.wikipedia.org/wiki/Uduk_language"
 translations:
+  - translation_iso: ara
+    name: أودوك
+    auto: true
   - translation_iso: jpn
     name: トゥワンパ語
     auto: true

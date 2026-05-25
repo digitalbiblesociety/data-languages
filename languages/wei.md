@@ -15,6 +15,9 @@ glottolog_family_name: Anim
 glottolog_classification: "Anim > Tirio > Nuclear Tirio > Were"
 wikipedia_url: "https://en.wikipedia.org/wiki/Were_language"
 translations:
+  - translation_iso: ara
+    name: كيونوم
+    auto: true
   - translation_iso: jpn
     name: キウヌム語
     auto: true

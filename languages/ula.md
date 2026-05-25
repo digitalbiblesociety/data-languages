@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Kainji > Central Kainji > Shiroro-Kamuku > Shiroro > Fungwa"
 wikipedia_url: "https://en.wikipedia.org/wiki/Fungwa_language"
 translations:
+  - translation_iso: ara
+    name: فونجوا
+    auto: true
   - translation_iso: jpn
     name: ウラ語
     auto: true

@@ -14,6 +14,9 @@ glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Indo-Aryan > Middle-Modern Indo-Aryan > Continental Indo-Aryan > Indo-Aryan Southern zone > Marathic > Marathi-Konkani > Goan Konkani"
 translations:
+  - translation_iso: ara
+    name: غوآن كونكآني
+    auto: true
   - translation_iso: jpn
     name: ゴア・コンカニ語
   - translation_iso: zho

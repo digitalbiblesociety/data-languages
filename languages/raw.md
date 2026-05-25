@@ -15,6 +15,9 @@ glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Nungish > Rawang"
 wikipedia_url: "https://en.wikipedia.org/wiki/Rawang_language"
 translations:
+  - translation_iso: ara
+    name: راوانج
+    auto: true
   - translation_iso: jpn
     name: ラワン語
   - translation_iso: zho

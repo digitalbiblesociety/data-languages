@@ -14,6 +14,9 @@ glottolog_family_id: sign1238
 glottolog_family_name: Sign Language
 glottolog_classification: "Sign Language > L1 Sign Language > Indo-Pakistani-Nepalese Sign > Indo-Pakistani Sign > Indian Sign Language"
 translations:
+  - translation_iso: ara
+    name: لغة الإشارة الهندية
+    auto: true
   - translation_iso: hin
     name: भारतीय सांकेतिक भाषा
   - translation_iso: jpn

@@ -15,6 +15,9 @@ glottolog_family_name: Mande
 glottolog_classification: "Mande > Western Mande > Northwestern Mande > Soninke-Bozo > Soninkean > Sininkere"
 wikipedia_url: "https://en.wikipedia.org/wiki/Sininkere_language"
 translations:
+  - translation_iso: ara
+    name: اللغة سينينكري
+    auto: true
   - translation_iso: jpn
     name: シランケ語
     auto: true

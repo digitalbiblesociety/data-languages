@@ -14,6 +14,9 @@ glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > Paman > Northern Pama > Yinwum"
 wikipedia_url: "https://en.wikipedia.org/wiki/Yinwum_dialect"
 translations:
+  - translation_iso: ara
+    name: اللغة يينووم
+    auto: true
   - translation_iso: jpn
     name: イインウム語
     auto: true

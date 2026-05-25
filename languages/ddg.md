@@ -15,6 +15,9 @@ glottolog_family_name: Timor-Alor-Pantar
 glottolog_classification: "Timor-Alor-Pantar > East Timor > Fataluku-Oirata > Fataluku"
 wikipedia_url: "https://en.wikipedia.org/wiki/Fataluku_language"
 translations:
+  - translation_iso: ara
+    name: فتالوكو
+    auto: true
   - translation_iso: jpn
     name: ファタルク語
   - translation_iso: zho

@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > North and Central Vanuatu > Northern Vanuatu > Espiritu Santo > Nuclear Santo > South Santo > Tamambo"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tamambo_language"
 translations:
+  - translation_iso: ara
+    name: لغة مالو
+    auto: true
   - translation_iso: jpn
     name: マロ語
     auto: true

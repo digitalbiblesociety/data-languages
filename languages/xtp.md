@@ -15,6 +15,9 @@ glottolog_family_name: Otomanguean
 glottolog_classification: "Otomanguean > Eastern Otomanguean > Amuzgo-Mixtecan > Mixtecan > Mixtec-Cuicatec > Mixtec > Eastern Alta Mixtec > Southeastern Alta Mixtec > Teozacoalco Mixtec > Sindihuic > San Miguel Piedras Mixtec"
 wikipedia_url: "https://en.wikipedia.org/wiki/San_Miguel_Piedras_Mixtec"
 translations:
+  - translation_iso: ara
+    name: سان ميجيل بيدراس ميكستيك
+    auto: true
   - translation_iso: jpn
     name: サンミゲル・ピエドラス・ミステク語
     auto: true

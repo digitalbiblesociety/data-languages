@@ -15,6 +15,9 @@ glottolog_family_name: Dravidian
 glottolog_classification: "Dravidian > South Dravidian > South Dravidian I > Tamil-Kannada > Tamil-Kota > Tamil-Toda > Tamil-Irula > Tamil-Kodagu > Urali of Idukki"
 wikipedia_url: "https://en.wikipedia.org/wiki/Urali_language"
 translations:
+  - translation_iso: ara
+    name: أورالي
+    auto: true
   - translation_iso: jpn
     name: オーラジ語
     auto: true

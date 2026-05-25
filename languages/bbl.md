@@ -15,6 +15,9 @@ glottolog_family_name: Nakh-Daghestanian
 glottolog_classification: "Nakh-Daghestanian > Nakh > Bats"
 wikipedia_url: "https://en.wikipedia.org/wiki/Bats_language"
 translations:
+  - translation_iso: ara
+    name: اللغة باتس
+    auto: true
   - translation_iso: jpn
     name: バツ語
   - translation_iso: kor

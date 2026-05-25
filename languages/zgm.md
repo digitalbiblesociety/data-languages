@@ -15,6 +15,9 @@ glottolog_family_name: Tai-Kadai
 glottolog_classification: "Tai-Kadai > Kam-Tai > Daic-Beic > Daic > Central-Southwestern Tai > Debao-Jingxi-Nung > Minz Zhuang"
 wikipedia_url: "https://en.wikipedia.org/wiki/Min_Zhuang_language"
 translations:
+  - translation_iso: ara
+    name: لغة مينز زوانغ
+    auto: true
   - translation_iso: jpn
     name: 民講語
   - translation_iso: zho

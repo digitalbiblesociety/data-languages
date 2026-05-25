@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Wide Grassfields > Narrow Grassfields > Southwest Grassfields > Manta"
 wikipedia_url: "https://en.wikipedia.org/wiki/Manta_language"
 translations:
+  - translation_iso: ara
+    name: مانتا
+    auto: true
   - translation_iso: jpn
     name: マンタ語
     auto: true

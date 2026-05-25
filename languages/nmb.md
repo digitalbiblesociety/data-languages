@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > North and Central Vanuatu > Central Vanuatu > Malakula > Western Malakula linkage > Peripheral Western Malakula > Northwestern Malakula > Big Nambas"
 wikipedia_url: "https://en.wikipedia.org/wiki/Big_Nambas_language"
 translations:
+  - translation_iso: ara
+    name: نامباس الكبيرة
+    auto: true
   - translation_iso: jpn
     name: ビッグナンバス語
   - translation_iso: zho

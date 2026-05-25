@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > Bantu A-B10-B20-B30 > Bafia (A.50) > Nuclear Bafia (A.50) > Dimbong"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kaalong_language"
 translations:
+  - translation_iso: ara
+    name: ديمبونج
+    auto: true
   - translation_iso: jpn
     name: ディンボング語
     auto: true

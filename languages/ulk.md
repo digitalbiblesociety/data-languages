@@ -15,6 +15,9 @@ glottolog_family_name: Eastern Trans-Fly
 glottolog_classification: "Eastern Trans-Fly > Binaturi > Kura > Meriam"
 wikipedia_url: "https://en.wikipedia.org/wiki/Meriam_language"
 translations:
+  - translation_iso: ara
+    name: ميريام مير
+    auto: true
   - translation_iso: jpn
     name: メリヤム・ミル語
   - translation_iso: zho

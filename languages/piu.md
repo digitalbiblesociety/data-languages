@@ -15,6 +15,9 @@ glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > Desert Nyungic > Wati > Pintupic > Nuclear Pintupic > Pintupi-Luritja"
 wikipedia_url: "https://en.wikipedia.org/wiki/Pintupi_dialect"
 translations:
+  - translation_iso: ara
+    name: اللغة بينتوبي-لوريتجا
+    auto: true
   - translation_iso: jpn
     name: ピントゥピ・ロリジャ語
   - translation_iso: zho

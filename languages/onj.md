@@ -14,6 +14,9 @@ glottolog_family_name: Dagan
 glottolog_classification: "Dagan > Onjob"
 wikipedia_url: "https://en.wikipedia.org/wiki/Onjob_language"
 translations:
+  - translation_iso: ara
+    name: اللغة أونجوب
+    auto: true
   - translation_iso: jpn
     name: オンジョブ語
     auto: true

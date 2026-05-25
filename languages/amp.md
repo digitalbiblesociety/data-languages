@@ -15,6 +15,9 @@ glottolog_family_name: Sepik
 glottolog_classification: "Sepik > Sepik Hill > Central-Eastern Sepik Hill > Eastern Sepik Hill > Alamblak"
 wikipedia_url: "https://en.wikipedia.org/wiki/Alamblak_language"
 translations:
+  - translation_iso: ara
+    name: لغة ألامبلاك
+    auto: true
   - translation_iso: jpn
     name: アランブラック語
   - translation_iso: zho

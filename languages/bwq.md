@@ -14,6 +14,9 @@ glottolog_family_id: mand1469
 glottolog_family_name: Mande
 glottolog_classification: "Mande > Western Mande > Northwestern Mande > Duun-Bobo > Bobo > Southern Bobo Madaré"
 translations:
+  - translation_iso: ara
+    name: جنوب بوبو مادري
+    auto: true
   - translation_iso: jpn
     name: 南ボボ・マダレ語
     auto: true

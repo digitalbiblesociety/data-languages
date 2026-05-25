@@ -12,6 +12,9 @@ longitude: 138.20315
 glottocode: burm1264
 wikipedia_url: "https://en.wikipedia.org/wiki/Burmeso_language"
 translations:
+  - translation_iso: ara
+    name: بورميسو
+    auto: true
   - translation_iso: jpn
     name: ブルメソ語
     auto: true

@@ -15,6 +15,9 @@ glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > Desert Nyungic > Ngumpin-Yapa > Ngumpin > Western Ngumpin > Ngardi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ngardi_language"
 translations:
+  - translation_iso: ara
+    name: نجاردي
+    auto: true
   - translation_iso: jpn
     name: ブナラ語
     auto: true

@@ -16,6 +16,9 @@ glottolog_family_name: Tungusic
 glottolog_classification: "Tungusic > Central-Western Tungusic > Nanai"
 wikipedia_url: "https://en.wikipedia.org/wiki/Nanai_language"
 translations:
+  - translation_iso: ara
+    name: نآنآي
+    auto: true
   - translation_iso: jpn
     name: ナナイ語
   - translation_iso: kor

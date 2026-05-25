@@ -14,6 +14,9 @@ glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Madang > Rai Coast > Nuru > Erimaic > Uya"
 wikipedia_url: "https://en.wikipedia.org/wiki/Uya_language"
 translations:
+  - translation_iso: ara
+    name: أويا
+    auto: true
   - translation_iso: jpn
     name: ウスゥ語
     auto: true

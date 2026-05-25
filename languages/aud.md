@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Central Pacific linkage > Tokalau Fijian > Polynesian > Nuclear Polynesian > Anuta"
 wikipedia_url: "https://en.wikipedia.org/wiki/Anuta_language"
 translations:
+  - translation_iso: ara
+    name: اللغة أنوتا
+    auto: true
   - translation_iso: jpn
     name: アヌータ語
   - translation_iso: zho

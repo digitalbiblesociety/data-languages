@@ -14,6 +14,9 @@ glottolog_family_name: Border
 glottolog_classification: "Border > Warisic > Nuclear Warisic > Simog-Daonda > Daonda"
 wikipedia_url: "https://en.wikipedia.org/wiki/Daonda_language"
 translations:
+  - translation_iso: ara
+    name: داوندا
+    auto: true
   - translation_iso: jpn
     name: ダオンダ語
     auto: true

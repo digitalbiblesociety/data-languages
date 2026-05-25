@@ -15,6 +15,9 @@ glottolog_family_name: Tucanoan
 glottolog_classification: "Tucanoan > Eastern Tucanoan > Western Eastern Tucanoan > Cubeo-Desano > Cubeo"
 wikipedia_url: "https://en.wikipedia.org/wiki/Cubeo_language"
 translations:
+  - translation_iso: ara
+    name: الكوبيو
+    auto: true
   - translation_iso: jpn
     name: クベオ語
     auto: true

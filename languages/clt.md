@@ -15,6 +15,9 @@ glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Kuki-Chin-Naga > Kuki-Chin > Central Kuki-Chin > Maraic > Nuclear Maraic > Lautu"
 wikipedia_url: "https://en.wikipedia.org/wiki/Lutuv_language"
 translations:
+  - translation_iso: ara
+    name: لاوتو تشين
+    auto: true
   - translation_iso: jpn
     name: ラウツ・チン語
     auto: true

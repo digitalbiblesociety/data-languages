@@ -10,6 +10,9 @@ latitude: -7.01666
 longitude: -37.99999
 wikipedia_url: "https://en.wikipedia.org/wiki/Potiguara_dialect"
 translations:
+  - translation_iso: ara
+    name: اللغة بوتيجوارا
+    auto: true
   - translation_iso: jpn
     name: ポティグアラ語
     auto: true

@@ -15,6 +15,9 @@ glottolog_family_name: Surmic
 glottolog_classification: "Surmic > South Surmic > Southeast Surmic > Kwegu"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kwegu_language"
 translations:
+  - translation_iso: ara
+    name: كويجو
+    auto: true
   - translation_iso: jpn
     name: クウェグ語
     auto: true

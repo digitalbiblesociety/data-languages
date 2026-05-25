@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Greater Central Philippine > Central Philippine > Mansakan > Eastern Mansakan > Mandaya"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mandaya_language"
 translations:
+  - translation_iso: ara
+    name: لغة ماندايا
+    auto: true
   - translation_iso: jpn
     name: マンダヤ語
   - translation_iso: zho

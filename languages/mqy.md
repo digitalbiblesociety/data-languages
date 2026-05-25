@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Bima-Lembata > Flores > West-Central Flores > Manggaraiic > Manggarai Khusus > Manggarai"
 wikipedia_url: "https://en.wikipedia.org/wiki/Manggarai_language"
 translations:
+  - translation_iso: ara
+    name: لغة مانجاراي
+    auto: true
   - translation_iso: jpn
     name: マンガライ語
   - translation_iso: zho

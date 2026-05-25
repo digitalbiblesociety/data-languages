@@ -8,6 +8,9 @@ country_id: PH
 country_name: Philippines
 status_id: 8a
 translations:
+  - translation_iso: ara
+    name: نورذرن بونتوك
+    auto: true
   - translation_iso: jpn
     name: 北ボントク語
   - translation_iso: zho

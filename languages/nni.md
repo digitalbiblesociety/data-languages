@@ -14,6 +14,9 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Nunusaku > Patakai-Manusela > Patakai > North Nuaulu"
 translations:
+  - translation_iso: ara
+    name: نوالو الشمالية
+    auto: true
   - translation_iso: jpn
     name: 北ヌアウル語
     auto: true

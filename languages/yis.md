@@ -14,6 +14,9 @@ glottolog_family_name: Nuclear Torricelli
 glottolog_classification: "Nuclear Torricelli > Wapei-Palei > Central Torricelli > Wapeic > Yau-Yis > Yis"
 wikipedia_url: "https://en.wikipedia.org/wiki/Yis_language"
 translations:
+  - translation_iso: ara
+    name: اللغة ييس
+    auto: true
   - translation_iso: jpn
     name: イス語
     auto: true

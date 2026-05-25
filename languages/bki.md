@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > North and Central Vanuatu > Central Vanuatu > Epi-Efate > Epi > Baki-Bierebo > Baki"
 wikipedia_url: "https://en.wikipedia.org/wiki/Baki_language"
 translations:
+  - translation_iso: ara
+    name: باكي
+    auto: true
   - translation_iso: jpn
     name: バキ語
     auto: true

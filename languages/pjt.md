@@ -15,6 +15,9 @@ glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > Desert Nyungic > Wati > Pintupic > Nuclear Pintupic > Wangkatja-Tjarra > Tjarra > Pitjantjatjara"
 wikipedia_url: "https://en.wikipedia.org/wiki/Pitjantjatjara_dialect"
 translations:
+  - translation_iso: ara
+    name: اللغة بيتجانتجاتجارا
+    auto: true
   - translation_iso: jpn
     name: ピッチャンチャジャーラ語
   - translation_iso: kor

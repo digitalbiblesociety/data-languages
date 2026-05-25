@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Cameroun-Ubangian > Bikwin-Jen > Southern Bikwin-Jen > Jen > Doso-Dza > Mingang Doso"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mingang_Doso_language"
 translations:
+  - translation_iso: ara
+    name: لغة مينجانج دوسو
+    auto: true
   - translation_iso: jpn
     name: ミンガン・ドソ語
     auto: true

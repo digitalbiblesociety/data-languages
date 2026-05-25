@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Kainji > Central Kainji > Kambari-Cicipu > Kambaric > East Kambaric > Baangi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Baangi_language"
 translations:
+  - translation_iso: ara
+    name: بااْنْجي
+    auto: true
   - translation_iso: jpn
     name: バアンギ語
     auto: true

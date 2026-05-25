@@ -15,6 +15,9 @@ glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Cushitic > East Cushitic > Highland East Cushitic > Sidaama-Hadiyya-Kambaata > Hadiyya-Kambaata > Hadiyyaic > Hadiyya"
 wikipedia_url: "https://en.wikipedia.org/wiki/Hadiyya_language"
 translations:
+  - translation_iso: ara
+    name: هآديييآ
+    auto: true
   - translation_iso: jpn
     name: ハディヤ語
   - translation_iso: zho

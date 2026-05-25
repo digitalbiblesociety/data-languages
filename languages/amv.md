@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > West Central Maluku > Ambelau"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ambelau_language"
 translations:
+  - translation_iso: ara
+    name: لغة أمبيلاو
+    auto: true
   - translation_iso: jpn
     name: アンベラウ語
     auto: true

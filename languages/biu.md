@@ -15,6 +15,9 @@ glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Kuki-Chin-Naga > Kuki-Chin > Central Kuki-Chin > Core Central Kuki-Chin > Mizoic > Hmaric > Biete"
 wikipedia_url: "https://en.wikipedia.org/wiki/Biate_language"
 translations:
+  - translation_iso: ara
+    name: بيتي
+    auto: true
   - translation_iso: hin
     name: बियाट भाषा
   - translation_iso: jpn

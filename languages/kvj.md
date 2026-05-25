@@ -15,6 +15,9 @@ glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > Biu-Mandara > North Biu-Mandara > Higic > Psikye"
 wikipedia_url: "https://en.wikipedia.org/wiki/Psiky%C9%9B_dialect"
 translations:
+  - translation_iso: ara
+    name: بسيكي
+    auto: true
   - translation_iso: jpn
     name: プシキエ語
     auto: true

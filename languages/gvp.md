@@ -15,6 +15,9 @@ glottolog_family_name: Nuclear-Macro-Je
 glottolog_classification: "Nuclear-Macro-Je > Je > Cerrado > Goyaz > Northern Je > Eastern Timbira > Southeastern Timbira > Pará Gavião"
 wikipedia_url: "https://en.wikipedia.org/wiki/Par%C3%A1_Gavi%C3%A3o_language"
 translations:
+  - translation_iso: ara
+    name: بآرá غآفيãو
+    auto: true
   - translation_iso: jpn
     name: パラ・ガヴィアン語
     auto: true

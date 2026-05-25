@@ -15,6 +15,9 @@ glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Iranian-Nuristani > Iranian > Central Iranian PBS > Central Iranian PB > Northwestern Iranian > Adharic > Tatic > Southern Tatic > Ramand-Karaj > Takestani"
 wikipedia_url: "https://en.wikipedia.org/wiki/Takestani_language"
 translations:
+  - translation_iso: ara
+    name: تاكستاني
+    auto: true
   - translation_iso: jpn
     name: タケスタニ語
     auto: true

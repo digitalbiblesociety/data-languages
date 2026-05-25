@@ -15,6 +15,9 @@ glottolog_family_name: Left May
 glottolog_classification: "Left May > Owiniga"
 wikipedia_url: "https://en.wikipedia.org/wiki/Owiniga_language"
 translations:
+  - translation_iso: ara
+    name: اللغة أوينيغا
+    auto: true
   - translation_iso: jpn
     name: オウィニガ語
     auto: true

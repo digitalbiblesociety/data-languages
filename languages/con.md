@@ -12,6 +12,9 @@ longitude: -77.064305
 glottocode: cofa1242
 wikipedia_url: "https://en.wikipedia.org/wiki/Cof%C3%A1n_language"
 translations:
+  - translation_iso: ara
+    name: الكوفان
+    auto: true
   - translation_iso: jpn
     name: アイ語
   - translation_iso: zho

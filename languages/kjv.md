@@ -14,6 +14,9 @@ glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Balto-Slavic > Slavic > South Slavic > Western South Slavic > Kajkavian"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kajkavian"
 translations:
+  - translation_iso: ara
+    name: لغة الأدب الكايكافياني
+    auto: true
   - translation_iso: jpn
     name: カイ方言
   - translation_iso: zho

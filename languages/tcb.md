@@ -15,6 +15,9 @@ glottolog_family_name: Athabaskan-Eyak-Tlingit
 glottolog_classification: "Athabaskan-Eyak-Tlingit > Athabaskan-Eyak > Athabaskan > Central Alaska-Yukon Athabaskan > Tanana-Tutchone > Tananaic > Upper Tananaic > Tanacross"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tanacross_language"
 translations:
+  - translation_iso: ara
+    name: تانا كروس
+    auto: true
   - translation_iso: jpn
     name: タナクロス語
     auto: true

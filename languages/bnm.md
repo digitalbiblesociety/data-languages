@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > Bantu A-B10-B20-B30 > Sawabantu > Bengaic > Batanga"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tanga_language"
 translations:
+  - translation_iso: ara
+    name: باتانجا
+    auto: true
   - translation_iso: jpn
     name: バタンガ語
     auto: true

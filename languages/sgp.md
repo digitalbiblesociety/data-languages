@@ -15,6 +15,9 @@ glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Brahmaputran > Jingpho-Luish > Jingpho > Northern Jinghpaw"
 wikipedia_url: "https://en.wikipedia.org/wiki/Singpho_dialect"
 translations:
+  - translation_iso: ara
+    name: سينجفو
+    auto: true
   - translation_iso: hin
     name: सिंगफ़ो भाषा
   - translation_iso: jpn

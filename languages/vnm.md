@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > North and Central Vanuatu > Central Vanuatu > Malakula > Western Malakula linkage > Central-Western Malakula > Neve'ei"
 wikipedia_url: "https://en.wikipedia.org/wiki/Neve%CA%BBei_language"
 translations:
+  - translation_iso: ara
+    name: فينماويس
+    auto: true
   - translation_iso: jpn
     name: ヴィンマヴィス語
   - translation_iso: zho

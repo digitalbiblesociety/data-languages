@@ -15,6 +15,9 @@ glottolog_family_name: Dogon
 glottolog_classification: "Dogon > North Plateau Dogon > Yanda-Bondum-Tebul > Najamba-Kindige"
 wikipedia_url: "https://en.wikipedia.org/wiki/Bondum_Dogon"
 translations:
+  - translation_iso: ara
+    name: بوندوم دوم دوجون
+    auto: true
   - translation_iso: jpn
     name: ボンドゥム・ドム・ドゴン語
     auto: true

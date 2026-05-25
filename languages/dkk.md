@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Greater South Sulawesi > South Sulawesi > Northern South Sulawesi > Pitu Ulunna Salu > Dakka"
 wikipedia_url: "https://en.wikipedia.org/wiki/Dakka_language"
 translations:
+  - translation_iso: ara
+    name: دكا
+    auto: true
   - translation_iso: jpn
     name: ダッカ
   - translation_iso: zho

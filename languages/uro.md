@@ -15,6 +15,9 @@ glottolog_family_name: Baining
 glottolog_classification: "Baining > Southern Baining > Ura (Papua New Guinea)"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ura_language_(Papua_New_Guinea)"
 translations:
+  - translation_iso: ara
+    name: أورا
+    auto: true
   - translation_iso: jpn
     name: アウラモット語
     auto: true

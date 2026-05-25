@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Southern Melanesian > New Caledonian > Mainland New Caledonian > Northern New Caledonian > Mid-Northern New Caledonian > Voh-Kone-Cem-Pac > Voh-Kone > Bwatooic > Haeke-Bwatoo > Haeke"
 wikipedia_url: "https://en.wikipedia.org/wiki/Haeke_language"
 translations:
+  - translation_iso: ara
+    name: لغة هايك
+    auto: true
   - translation_iso: jpn
     name: ハエケ語
     auto: true

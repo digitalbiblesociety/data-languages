@@ -9,6 +9,9 @@ country_name: Philippines
 status_id: 6a
 wikipedia_url: "https://en.wikipedia.org/wiki/Buhi%27non_Bikol_language"
 translations:
+  - translation_iso: ara
+    name: بيكول بوهي
+    auto: true
   - translation_iso: jpn
     name: ブヒノン・ビコール語
   - translation_iso: zho

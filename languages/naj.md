@@ -14,6 +14,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > North-Central Atlantic > Naluic > Nalu"
 wikipedia_url: "https://en.wikipedia.org/wiki/Nalu_language"
 translations:
+  - translation_iso: ara
+    name: نالو
+    auto: true
   - translation_iso: jpn
     name: ナル語
     auto: true

@@ -15,6 +15,9 @@ glottolog_family_name: South Bougainville
 glottolog_classification: "South Bougainville > Buinic > Siwai"
 wikipedia_url: "https://en.wikipedia.org/wiki/Motuna_language"
 translations:
+  - translation_iso: ara
+    name: اللغة السيواي
+    auto: true
   - translation_iso: jpn
     name: モトゥナ語
   - translation_iso: zho

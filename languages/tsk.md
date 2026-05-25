@@ -15,6 +15,9 @@ glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Bodic > Bodish > Early Old Tibetan > Middle Old Tibetan > Late Old Tibetan > Kham-Hor > Derong-nJol Tibetan"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tseku_language"
 translations:
+  - translation_iso: ara
+    name: تسيكو
+    auto: true
   - translation_iso: jpn
     name: ツク語
     auto: true

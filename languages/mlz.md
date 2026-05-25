@@ -9,6 +9,9 @@ status_id: 6a
 latitude: 11.85639
 longitude: 121.91924
 translations:
+  - translation_iso: ara
+    name: لغة مالايانون
+    auto: true
   - translation_iso: jpn
     name: マライノン語
     auto: true

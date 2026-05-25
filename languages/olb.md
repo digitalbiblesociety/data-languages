@@ -8,6 +8,9 @@ latitude: 4.33
 longitude: 9.8
 wikipedia_url: "https://en.wikipedia.org/wiki/Oli-Bodiman_language"
 translations:
+  - translation_iso: ara
+    name: اللغة أولي بوديمان
+    auto: true
   - translation_iso: jpn
     name: オリ・ボディマン語
     auto: true

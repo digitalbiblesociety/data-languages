@@ -14,6 +14,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > North Borneo Malayo-Polynesian > North Sarawakan > Dayic > Lengilu"
 wikipedia_url: "https://en.wikipedia.org/wiki/Lengilu_language"
 translations:
+  - translation_iso: ara
+    name: لغة ينجيلو
+    auto: true
   - translation_iso: jpn
     name: レンギル語
     auto: true

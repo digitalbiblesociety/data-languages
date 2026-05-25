@@ -15,6 +15,9 @@ glottolog_family_name: Arawakan
 glottolog_classification: "Arawakan > Southern Maipuran > Kampa-Amuesha > Pre-Andine Maipuran > Asha-Ashe-Kak-Matsi-Nan > Asha-Ashe-Kak > Ashe-Asha > Asháninka"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ash%C3%A1ninka_language"
 translations:
+  - translation_iso: ara
+    name: الأشانينكا
+    auto: true
   - translation_iso: jpn
     name: アシェニンカ語
   - translation_iso: zho

@@ -14,6 +14,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > North New Guinea linkage > Schouten linkage > Kairiru-Manam > Manamic linkage > Bam-Manam > Biem"
 wikipedia_url: "https://en.wikipedia.org/wiki/Biem_language"
 translations:
+  - translation_iso: ara
+    name: بيم
+    auto: true
   - translation_iso: jpn
     name: ビエム語
     auto: true

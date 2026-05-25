@@ -15,6 +15,9 @@ glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Bodic > Bodish > Early Old Tibetan > Middle Old Tibetan > Late Old Tibetan > Lahauli-Spiti > Spiti-Jad > Jad"
 wikipedia_url: "https://en.wikipedia.org/wiki/Jad_language"
 translations:
+  - translation_iso: ara
+    name: لغة جاد
+    auto: true
   - translation_iso: hin
     name: जाद भाषा
   - translation_iso: jpn

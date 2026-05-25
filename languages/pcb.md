@@ -15,6 +15,9 @@ glottolog_family_name: Austroasiatic
 glottolog_classification: "Austroasiatic > Pearic > Pear"
 wikipedia_url: "https://en.wikipedia.org/wiki/Pear_language"
 translations:
+  - translation_iso: ara
+    name: اللغة بير
+    auto: true
   - translation_iso: jpn
     name: ペアール語
   - translation_iso: zho

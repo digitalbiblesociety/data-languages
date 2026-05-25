@@ -14,6 +14,9 @@ glottolog_family_id: nucl1708
 glottolog_family_name: Nuclear Torricelli
 glottolog_classification: "Nuclear Torricelli > West Wapei > One > Central-Northern One > Inebu One"
 translations:
+  - translation_iso: ara
+    name: اللغة إينيبو وان
+    auto: true
   - translation_iso: jpn
     name: イネブ・ワン語
     auto: true

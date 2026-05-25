@@ -15,6 +15,9 @@ glottolog_family_name: Salishan
 glottolog_classification: "Salishan > Coast Salish > Central Salish > South Georgia Central Salish > Squamish"
 wikipedia_url: "https://en.wikipedia.org/wiki/Squamish_language"
 translations:
+  - translation_iso: ara
+    name: اللغة سكواميش
+    auto: true
   - translation_iso: jpn
     name: スクォミッシ語
   - translation_iso: zho

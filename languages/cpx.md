@@ -15,6 +15,9 @@ glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Sinitic > Min > Coastal Min > Southern Min-Pu-Xian > Pu-Xian Chinese"
 wikipedia_url: "https://en.wikipedia.org/wiki/Pu%E2%80%93Xian_Min"
 translations:
+  - translation_iso: ara
+    name: بو-شيان الصينية
+    auto: true
   - translation_iso: jpn
     name: 莆仙語
   - translation_iso: kor

@@ -15,6 +15,9 @@ glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Italic > Latino-Faliscan > Latinic > Imperial Latin > Romance > Italo-Western Romance > Western Romance > Shifted Western Romance > Southwestern Shifted Romance > West Ibero-Romance > Galician Romance > Macro-Portuguese > Luso-Asian Creole > Macanese"
 wikipedia_url: "https://en.wikipedia.org/wiki/Macanese_Patois"
 translations:
+  - translation_iso: ara
+    name: ماكايينسي
+    auto: true
   - translation_iso: jpn
     name: マカオ語
   - translation_iso: kor

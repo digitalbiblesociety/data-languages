@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Celebic > Greater Eastern Celebic > Eastern Celebic > Southeastern Celebic > Bungku-Tolaki > Western Bungku-Tolaki > West Coast Bungku-Tolaki > Rahambuu"
 wikipedia_url: "https://en.wikipedia.org/wiki/Rahambuu_language"
 translations:
+  - translation_iso: ara
+    name: رهامبو
+    auto: true
   - translation_iso: jpn
     name: ラハンブー語
     auto: true

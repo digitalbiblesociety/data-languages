@@ -9,6 +9,9 @@ country_name: India
 status_id: 8b
 wikipedia_url: "https://en.wikipedia.org/wiki/Mixed_Great_Andamanese"
 translations:
+  - translation_iso: ara
+    name: أندمانية عظيمة مختلطة
+    auto: true
   - translation_iso: jpn
     name: 混合大アンダマン語
     auto: true

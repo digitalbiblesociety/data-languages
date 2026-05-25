@@ -13,6 +13,9 @@ glottolog_family_name: Unclassifiable
 glottolog_classification: "Unclassifiable > Eteocretan"
 wikipedia_url: "https://en.wikipedia.org/wiki/Eteocretan_language"
 translations:
+  - translation_iso: ara
+    name: الإتيوكريتي
+    auto: true
   - translation_iso: jpn
     name: 純正クレタ語
   - translation_iso: zho

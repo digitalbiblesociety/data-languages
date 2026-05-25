@@ -15,6 +15,9 @@ glottolog_family_name: Austroasiatic
 glottolog_classification: "Austroasiatic > Mundaic > Sora-Juray-Gorum > Sora-Juray > Juray"
 wikipedia_url: "https://en.wikipedia.org/wiki/Juray_language"
 translations:
+  - translation_iso: ara
+    name: لغة جوراي
+    auto: true
   - translation_iso: jpn
     name: ジュレイ語
     auto: true

@@ -15,6 +15,9 @@ glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Burmo-Qiangic > Lolo-Burmese > Burmish > Southern Burmish > Achangic > Longchuan Achang"
 wikipedia_url: "https://en.wikipedia.org/wiki/Achang_language"
 translations:
+  - translation_iso: ara
+    name: لغة أتشانج
+    auto: true
   - translation_iso: jpn
     name: アチャン語
   - translation_iso: kor

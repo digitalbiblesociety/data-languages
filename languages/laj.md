@@ -16,6 +16,9 @@ glottolog_family_name: Nilotic
 glottolog_classification: "Nilotic > Western Nilotic > Lwoo > Southern Lwoo > Lango-Kumam > Lango (Uganda)"
 wikipedia_url: "https://en.wikipedia.org/wiki/Lango_language_(Uganda)"
 translations:
+  - translation_iso: ara
+    name: لانجو (أوغندا)
+    auto: true
   - translation_iso: jpn
     name: ランゴ語
   - translation_iso: zho

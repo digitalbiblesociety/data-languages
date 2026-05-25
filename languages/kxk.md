@@ -14,6 +14,9 @@ glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Karenic > Northern Karen > Lahta-Zayein Karen"
 translations:
+  - translation_iso: ara
+    name: كارين زايين
+    auto: true
   - translation_iso: jpn
     name: ザイイン・カレン語
     auto: true

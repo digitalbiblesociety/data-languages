@@ -15,6 +15,9 @@ glottolog_family_name: Tai-Kadai
 glottolog_classification: "Tai-Kadai > Kam-Tai > Daic-Beic > Daic > Central-Southwestern Tai > Wenma-Southwestern Tai > Sapa-Southwestern Tai > Southwestern Tai > Southwestern Tai P > Shanic > Sukaphic > Unclassified Sukaphic > Turung"
 wikipedia_url: "https://en.wikipedia.org/wiki/Turung_language"
 translations:
+  - translation_iso: ara
+    name: توروج
+    auto: true
   - translation_iso: jpn
     name: トゥルン語
   - translation_iso: zho

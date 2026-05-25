@@ -9,6 +9,9 @@ status_id: 6a
 latitude: -2.65261
 longitude: 15.2047
 translations:
+  - translation_iso: ara
+    name: اللغة تيكي نزيكو
+    auto: true
   - translation_iso: jpn
     name: テケ・ンジコウ語
     auto: true

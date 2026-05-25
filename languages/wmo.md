@@ -15,6 +15,9 @@ glottolog_family_name: Nuclear Torricelli
 glottolog_classification: "Nuclear Torricelli > Wom (Papua New Guinea)"
 wikipedia_url: "https://en.wikipedia.org/wiki/Wom_language_(Papua_New_Guinea)"
 translations:
+  - translation_iso: ara
+    name: ووم پاپوا نيو غوينيا
+    auto: true
   - translation_iso: jpn
     name: ウォム語（パプアニューギニア）
     auto: true

@@ -15,6 +15,9 @@ glottolog_family_name: Tai-Kadai
 glottolog_classification: "Tai-Kadai > Kam-Tai > Kam-Sui > Then-MMS > Maonan-Mak-Sui > Mak-Ai-Cham > Ai-Cham"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ai-Cham_language"
 translations:
+  - translation_iso: ara
+    name: لغة آي-تشام
+    auto: true
   - translation_iso: jpn
     name: アイチャム語
     auto: true

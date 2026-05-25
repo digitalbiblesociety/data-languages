@@ -14,6 +14,9 @@ glottolog_family_id: ayma1253
 glottolog_family_name: Aymaran
 glottolog_classification: "Aymaran > Central-Southern Aymara > Central Aymara"
 translations:
+  - translation_iso: ara
+    name: اللغة أيمارا الوسطى
+    auto: true
   - translation_iso: jpn
     name: 中央アイマラ語
   - translation_iso: zho

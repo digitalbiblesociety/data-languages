@@ -14,6 +14,9 @@ glottolog_family_name: Lakes Plain
 glottolog_classification: "Lakes Plain > Tariku > West Tariku > Fayu-Kirikiri > Fayu"
 wikipedia_url: "https://en.wikipedia.org/wiki/Fayu_language"
 translations:
+  - translation_iso: ara
+    name: الفايو
+    auto: true
   - translation_iso: jpn
     name: ファユ語
     auto: true

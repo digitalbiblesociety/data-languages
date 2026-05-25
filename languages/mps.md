@@ -15,6 +15,9 @@ glottolog_family_name: Teberan
 glottolog_classification: "Teberan > Dadibi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Dadibi_language"
 translations:
+  - translation_iso: ara
+    name: لغة دادبي
+    auto: true
   - translation_iso: jpn
     name: ダリビ語
   - translation_iso: zho

@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Benue-Congo Plateau > West-Central Benue-Congo Plateau > Zaric > Nuclear Zaric > Izeric > Izere"
 wikipedia_url: "https://en.wikipedia.org/wiki/Izere_language"
 translations:
+  - translation_iso: ara
+    name: لغة إيزيري
+    auto: true
   - translation_iso: jpn
     name: イゼレ語
     auto: true

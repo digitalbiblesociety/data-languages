@@ -15,6 +15,9 @@ glottolog_family_name: Tupian
 glottolog_classification: "Tupian > Eastern Tupian > Maweti-Guarani > Aweti-Guarani > Tupi-Guarani > Kamayurá"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kamayur%C3%A1_language"
 translations:
+  - translation_iso: ara
+    name: لغة كامايورا
+    auto: true
   - translation_iso: jpn
     name: カマユラ語
   - translation_iso: zho

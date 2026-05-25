@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Tivoid > Central Tivoid > Central Tivoid A > Tiv-Evand > Tiv-Iyive-Otanga > Iyive"
 wikipedia_url: "https://en.wikipedia.org/wiki/Iyive_language"
 translations:
+  - translation_iso: ara
+    name: إيفيه
+    auto: true
   - translation_iso: jpn
     name: ウイヴェ語
     auto: true

@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > North and Central Vanuatu > Northern Vanuatu > Espiritu Santo > West Santo > Cape Cumberland > Piamatsina"
 wikipedia_url: "https://en.wikipedia.org/wiki/Piamatsina_language"
 translations:
+  - translation_iso: ara
+    name: اللغة بيامتسينا
+    auto: true
   - translation_iso: jpn
     name: ピアマツィーナ語
     auto: true

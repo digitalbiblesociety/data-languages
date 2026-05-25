@@ -14,6 +14,9 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Northern Luzon > Meso-Cordilleran > South-Central Cordilleran > Central Cordilleran > Kalinga-Itneg > Itneg > Inlaod Itneg"
 translations:
+  - translation_iso: ara
+    name: إينلاود إيتنيغ
+    auto: true
   - translation_iso: jpn
     name: インラオド・イトネグ語
     auto: true

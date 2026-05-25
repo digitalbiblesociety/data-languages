@@ -15,6 +15,9 @@ glottolog_family_name: Tupian
 glottolog_classification: "Tupian > Eastern Tupian > Maweti-Guarani > Aweti-Guarani > Tupi-Guarani > Tupi-Guarani Subgroup IV > Tupi-Guarani Subgroup IV.B > Turiwára"
 wikipedia_url: "https://en.wikipedia.org/wiki/Turiw%C3%A1ra_language"
 translations:
+  - translation_iso: ara
+    name: توريوارا
+    auto: true
   - translation_iso: jpn
     name: トゥリウアラ語
     auto: true

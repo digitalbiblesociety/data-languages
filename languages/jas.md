@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Javanesic > Modern Javanese > Global Javanese > New Caledonian Javanese"
 wikipedia_url: "https://en.wikipedia.org/wiki/New_Caledonian_Javanese"
 translations:
+  - translation_iso: ara
+    name: لغة جاوية جديدة كاليدونية
+    auto: true
   - translation_iso: jpn
     name: 新カレドニア・ジャワ語
     auto: true

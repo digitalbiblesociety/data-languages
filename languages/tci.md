@@ -15,6 +15,9 @@ glottolog_family_name: Yam
 glottolog_classification: "Yam > Morehead-Maro > Tonda > Eastern Tonda > Anta-Komnzo-Wára-Wérè-Kémä"
 wikipedia_url: "https://en.wikipedia.org/wiki/Upper_Morehead_language"
 translations:
+  - translation_iso: ara
+    name: وارا
+    auto: true
   - translation_iso: jpn
     name: ワラ語
     auto: true

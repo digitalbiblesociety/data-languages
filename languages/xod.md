@@ -15,6 +15,9 @@ glottolog_family_name: "South Bird's Head"
 glottolog_classification: "South Bird's Head > Nuclear South Bird's Head > Kaburic > East South Bird's Head > Kokoda"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kokoda_language"
 translations:
+  - translation_iso: ara
+    name: كوكودا
+    auto: true
   - translation_iso: jpn
     name: ココダ語
     auto: true

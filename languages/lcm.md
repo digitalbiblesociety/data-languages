@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > Meso Melanesian linkage > New Ireland-Northwest Solomonic linkage > Tungak-Nalik > Tungag"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tungag_language"
 translations:
+  - translation_iso: ara
+    name: تونجاج
+    auto: true
   - translation_iso: jpn
     name: ラヴォンガイ語
   - translation_iso: zho

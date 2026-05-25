@@ -15,6 +15,9 @@ glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Bodic > Bodish > Phobjib-Chali-Bumthangic > Chali-Bumthangic > Chalikha"
 wikipedia_url: "https://en.wikipedia.org/wiki/Chali_language"
 translations:
+  - translation_iso: ara
+    name: تشاليخا
+    auto: true
   - translation_iso: jpn
     name: チャリ語
   - translation_iso: zho

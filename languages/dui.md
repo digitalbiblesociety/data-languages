@@ -14,6 +14,9 @@ glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Madang > Rai Coast > Greater Yaganon > Yaganon > Dumun"
 wikipedia_url: "https://en.wikipedia.org/wiki/Dumun_language"
 translations:
+  - translation_iso: ara
+    name: دومون
+    auto: true
   - translation_iso: jpn
     name: ドゥムン語
     auto: true

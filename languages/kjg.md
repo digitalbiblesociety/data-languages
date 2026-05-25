@@ -16,6 +16,9 @@ glottolog_family_name: Austroasiatic
 glottolog_classification: "Austroasiatic > Khmuic > Khmu' > Khmu"
 wikipedia_url: "https://en.wikipedia.org/wiki/Khmu_language"
 translations:
+  - translation_iso: ara
+    name: لغة خمو
+    auto: true
   - translation_iso: jpn
     name: クム語
   - translation_iso: kor

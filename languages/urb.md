@@ -15,6 +15,9 @@ glottolog_family_name: Tupian
 glottolog_classification: "Tupian > Eastern Tupian > Maweti-Guarani > Aweti-Guarani > Tupi-Guarani > Tupi-Guarani Subgroup VIII > Guaja-Kaapor-Ava > Urubú-Kaapor"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ka%CA%BCapor_language"
 translations:
+  - translation_iso: ara
+    name: أورورو-كاابور
+    auto: true
   - translation_iso: jpn
     name: ウルブ語
     auto: true

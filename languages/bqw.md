@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Buru-Angwe"
 wikipedia_url: "https://en.wikipedia.org/wiki/Buru%E2%80%93Angwe_language"
 translations:
+  - translation_iso: ara
+    name: بورو
+    auto: true
   - translation_iso: jpn
     name: ブル語
     auto: true

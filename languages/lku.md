@@ -15,6 +15,9 @@ glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > Karnic > Pirriya-Kungkari > Kuungkari of Barcoo River"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kungkari_language"
 translations:
+  - translation_iso: ara
+    name: لغة ونجكاري
+    auto: true
   - translation_iso: jpn
     name: クンカリ語
     auto: true

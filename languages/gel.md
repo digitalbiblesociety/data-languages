@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Kainji > Central Kainji > Northwestern Kainji > Dukaic > Main-Gwamhi > Ut-Main"
 wikipedia_url: "https://en.wikipedia.org/wiki/U%CC%A0t-Ma%27in_language"
 translations:
+  - translation_iso: ara
+    name: "وت-مآ'ين"
+    auto: true
   - translation_iso: jpn
     name: ウト・マイン語
     auto: true

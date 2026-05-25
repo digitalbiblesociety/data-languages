@@ -15,6 +15,9 @@ glottolog_family_name: Central Sudanic
 glottolog_classification: "Central Sudanic > Moru-Madi > Southern Moru-Madi > Olu'bo"
 wikipedia_url: "https://en.wikipedia.org/wiki/Olu%CA%BCbo_language"
 translations:
+  - translation_iso: ara
+    name: "لغة ولو'بو"
+    auto: true
   - translation_iso: jpn
     name: オルボ語
     auto: true

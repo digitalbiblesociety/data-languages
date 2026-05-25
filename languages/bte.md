@@ -14,6 +14,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Kainji > Central Kainji > Basa-Eastern Kainji > Eastern Kainji > Jos > Northern Jos > Ningic > Gamo-Ningi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Gamo-Ningi_language"
 translations:
+  - translation_iso: ara
+    name: جامو-نينْجي
+    auto: true
   - translation_iso: jpn
     name: ガモ・ニンギ語
   - translation_iso: zho

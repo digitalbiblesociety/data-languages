@@ -15,6 +15,9 @@ glottolog_family_name: North Halmahera
 glottolog_classification: "North Halmahera > Northern North Halmahera > Sahuan > Nuclear Sahuan > Sahu-Waioli > Sahu"
 wikipedia_url: "https://en.wikipedia.org/wiki/Sahu_language"
 translations:
+  - translation_iso: ara
+    name: ساهو
+    auto: true
   - translation_iso: jpn
     name: サフ語
   - translation_iso: zho

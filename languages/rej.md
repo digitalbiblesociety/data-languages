@@ -16,6 +16,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Rejang"
 wikipedia_url: "https://en.wikipedia.org/wiki/Rejang_language"
 translations:
+  - translation_iso: ara
+    name: ريجانج
+    auto: true
   - translation_iso: jpn
     name: レジャン語
   - translation_iso: kor

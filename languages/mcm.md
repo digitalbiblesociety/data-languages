@@ -15,6 +15,9 @@ glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Italic > Latino-Faliscan > Latinic > Imperial Latin > Romance > Italo-Western Romance > Western Romance > Shifted Western Romance > Southwestern Shifted Romance > West Ibero-Romance > Galician Romance > Macro-Portuguese > Luso-Asian Creole > Malacca-Batavia Portuguese Creole"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kristang_language"
 translations:
+  - translation_iso: ara
+    name: لغة كريول ملاكا البرتغالية
+    auto: true
   - translation_iso: jpn
     name: マラッカ・クレオール・ポルトガル語
   - translation_iso: zho

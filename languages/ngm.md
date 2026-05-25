@@ -15,6 +15,9 @@ glottolog_family_name: Speech Register
 glottolog_classification: "Speech Register > Indo-European Speech Register > Ngatik Men's Creole"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ngatikese_Creole"
 translations:
+  - translation_iso: ara
+    name: نجاتك رجال كريول
+    auto: true
   - translation_iso: jpn
     name: ギャチック語
   - translation_iso: kor

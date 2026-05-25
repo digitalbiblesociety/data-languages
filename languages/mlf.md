@@ -15,6 +15,9 @@ glottolog_family_name: Austroasiatic
 glottolog_classification: "Austroasiatic > Khmuic > Phay-Pram > Tinic > Tin > Mal"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mal_language"
 translations:
+  - translation_iso: ara
+    name: لغة مال
+    auto: true
   - translation_iso: jpn
     name: マル語
   - translation_iso: zho

@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Wide Grassfields > Ambele"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ambele_language"
 translations:
+  - translation_iso: ara
+    name: لغة أمبيل
+    auto: true
   - translation_iso: jpn
     name: アンベレ語
     auto: true

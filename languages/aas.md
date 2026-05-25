@@ -15,6 +15,9 @@ glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Cushitic > South Cushitic > Aasax"
 wikipedia_url: "https://en.wikipedia.org/wiki/Asa_language"
 translations:
+  - translation_iso: ara
+    name: لغة آسّاع
+    auto: true
   - translation_iso: jpn
     name: アアサックス語
     auto: true

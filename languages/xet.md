@@ -15,6 +15,9 @@ glottolog_family_name: Tupian
 glottolog_classification: "Tupian > Eastern Tupian > Maweti-Guarani > Aweti-Guarani > Tupi-Guarani > Southern Tupi-Guarani > Tupi-Guarani Subgroup I > Xetá"
 wikipedia_url: "https://en.wikipedia.org/wiki/Xeta_language"
 translations:
+  - translation_iso: ara
+    name: خيت
+    auto: true
   - translation_iso: jpn
     name: シェタ語
   - translation_iso: zho

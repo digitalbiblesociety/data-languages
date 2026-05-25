@@ -15,6 +15,9 @@ glottolog_family_name: Mixe-Zoque
 glottolog_classification: "Mixe-Zoque > Zoque > Gulf Zoque > Highland Popoluca"
 wikipedia_url: "https://en.wikipedia.org/wiki/Sierra_Popoluca"
 translations:
+  - translation_iso: ara
+    name: اللغة بوبولوكا الجبلية
+    auto: true
   - translation_iso: jpn
     name: シエラポポルカ語
   - translation_iso: kor

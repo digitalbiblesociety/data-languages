@@ -15,6 +15,9 @@ glottolog_family_name: Austroasiatic
 glottolog_classification: "Austroasiatic > Katuic > Katu > Phuong"
 wikipedia_url: "https://en.wikipedia.org/wiki/Phuong_language"
 translations:
+  - translation_iso: ara
+    name: اللغة فوونغ
+    auto: true
   - translation_iso: jpn
     name: フオン語
     auto: true

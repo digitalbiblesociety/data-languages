@@ -14,6 +14,9 @@ glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Chimbu-Wahgi > Simbu > Nuclear Simbu > Kuman-Dom-Gunaa > Dom"
 wikipedia_url: "https://en.wikipedia.org/wiki/Dom_language"
 translations:
+  - translation_iso: ara
+    name: دوم
+    auto: true
   - translation_iso: jpn
     name: ドム語
     auto: true

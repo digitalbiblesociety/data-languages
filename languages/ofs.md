@@ -15,6 +15,9 @@ glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Germanic > Northwest Germanic > West Germanic > North Sea Germanic > Anglo-Frisian > Frisian > Old Frisian"
 wikipedia_url: "https://en.wikipedia.org/wiki/Old_Frisian"
 translations:
+  - translation_iso: ara
+    name: اللغة الفريزية القديمة
+    auto: true
   - translation_iso: jpn
     name: 古フリジア語
   - translation_iso: kor

@@ -15,6 +15,9 @@ glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > Southeastern Pama-Nyungan > Victorian Pama-Nyungan > Kulin-Bunganditj > Kulin > Nuclear Kulin > Wathawurrung"
 wikipedia_url: "https://en.wikipedia.org/wiki/Wadawurrung_language"
 translations:
+  - translation_iso: ara
+    name: واتهاووررونغ
+    auto: true
   - translation_iso: jpn
     name: ワタウルング語
     auto: true

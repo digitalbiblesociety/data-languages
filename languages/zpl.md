@@ -15,6 +15,9 @@ glottolog_family_name: Otomanguean
 glottolog_classification: "Otomanguean > Eastern Otomanguean > Popoloca-Zapotecan > Zapotecan > Zapotec > West Zapotec > West-Central West Zapotec > Lachixío Zapotec"
 wikipedia_url: "https://en.wikipedia.org/wiki/Lachix%C3%ADo_Zapotec"
 translations:
+  - translation_iso: ara
+    name: زابوتيك لاتشيكسيو
+    auto: true
   - translation_iso: jpn
     name: ラチシオ・サポテク語
     auto: true

@@ -14,6 +14,9 @@ glottolog_family_name: Nakh-Daghestanian
 glottolog_classification: "Nakh-Daghestanian > Daghestanian > Dargwic > South Dargwa > Kajtak"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kaitag_language"
 translations:
+  - translation_iso: ara
+    name: كايتاغ
+    auto: true
   - translation_iso: jpn
     name: カジュタク語
   - translation_iso: zho

@@ -14,6 +14,9 @@ glottolog_family_id: utoa1244
 glottolog_family_name: Uto-Aztecan
 glottolog_classification: "Uto-Aztecan > Southern Uto-Aztecan > Corachol-Aztecan > Aztec > Eastern Nahuatl > Isthmus-Pipil Nahuatl > Isthmus Nahuatl > Isthmus-Mecayapan Nahuatl"
 translations:
+  - translation_iso: ara
+    name: إستموس ميكايابان ناهواتل
+    auto: true
   - translation_iso: jpn
     name: 地峡メカヤパン・ナワトル語
   - translation_iso: zho

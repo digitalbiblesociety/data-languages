@@ -15,6 +15,9 @@ glottolog_family_name: Tupian
 glottolog_classification: "Tupian > Eastern Tupian > Maweti-Guarani > Aweti-Guarani > Tupi-Guarani > Tupi-Guarani Subgroup VIII > Wayampi-Zoe-Emerillon > Zoe-Emerillon > Teko"
 wikipedia_url: "https://en.wikipedia.org/wiki/Emerillon_language"
 translations:
+  - translation_iso: ara
+    name: الإميريون
+    auto: true
   - translation_iso: jpn
     name: エメリヨン語
     auto: true

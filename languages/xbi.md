@@ -15,6 +15,9 @@ glottolog_family_name: Nuclear Torricelli
 glottolog_classification: "Nuclear Torricelli > Kombio-Arapesh-Urat > Kombio-Yambes > Kombioic > Kombio"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kombio_language"
 translations:
+  - translation_iso: ara
+    name: كومبيو
+    auto: true
   - translation_iso: jpn
     name: コンビオ語
     auto: true

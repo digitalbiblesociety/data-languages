@@ -14,6 +14,9 @@ glottolog_family_id: otom1299
 glottolog_family_name: Otomanguean
 glottolog_classification: "Otomanguean > Eastern Otomanguean > Amuzgo-Mixtecan > Mixtecan > Mixtec-Cuicatec > Mixtec > Eastern Alta Mixtec > Southeastern Alta Mixtec > Tlazoyal-Penoles > Tlazoyaltepec Mixtec"
 translations:
+  - translation_iso: ara
+    name: لغة ميكستك تلازويالتبيك
+    auto: true
   - translation_iso: jpn
     name: トラゾアルテペック・ミステク語
     auto: true

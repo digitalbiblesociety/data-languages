@@ -14,6 +14,9 @@ glottolog_family_id: krua1234
 glottolog_family_name: Kru
 glottolog_classification: "Kru > Greater Western Kru > Western Kru > Grebo-Aizi > Grebo > Liberian Grebo > Southern Grebo"
 translations:
+  - translation_iso: ara
+    name: سووثإرن غرإبو
+    auto: true
   - translation_iso: jpn
     name: サザン・グレボ語
     auto: true

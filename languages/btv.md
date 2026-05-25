@@ -16,6 +16,9 @@ glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Indo-Aryan > Middle-Modern Indo-Aryan > Eastern Dardic > Nuclear Eastern Dardic > Kohistani > Indus Kohistanic > Outer Indus Kohistani > Bateri-Mankiyali > Bateri"
 wikipedia_url: "https://en.wikipedia.org/wiki/Bateri_language"
 translations:
+  - translation_iso: ara
+    name: باتيري
+    auto: true
   - translation_iso: hin
     name: बटेरी भाषा
   - translation_iso: jpn

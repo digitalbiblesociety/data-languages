@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Central Timor > Kemak-Tukudede > Kemak"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kemak_language"
 translations:
+  - translation_iso: ara
+    name: لغة كيماك
+    auto: true
   - translation_iso: jpn
     name: ケマク語
   - translation_iso: zho

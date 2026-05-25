@@ -15,6 +15,9 @@ glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > Desert Nyungic > Ngumpin-Yapa > Yapa > Warlmanpa"
 wikipedia_url: "https://en.wikipedia.org/wiki/Warlmanpa_language"
 translations:
+  - translation_iso: ara
+    name: وارلمانپا
+    auto: true
   - translation_iso: jpn
     name: Warlmanpa語
   - translation_iso: zho

@@ -15,6 +15,9 @@ glottolog_family_name: Chapacuran
 glottolog_classification: "Chapacuran > Moreic-Waric > Waric > Wanham-Wari-Oro Win > Wari-Oro Win > Oro Win"
 wikipedia_url: "https://en.wikipedia.org/wiki/Oro_Win_language"
 translations:
+  - translation_iso: ara
+    name: اللغة أورو وين
+    auto: true
   - translation_iso: jpn
     name: オロ・ウィン語
   - translation_iso: zho

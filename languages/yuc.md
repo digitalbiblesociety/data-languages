@@ -12,6 +12,9 @@ longitude: -95.03933
 glottocode: yuch1247
 wikipedia_url: "https://en.wikipedia.org/wiki/Yuchi_language"
 translations:
+  - translation_iso: ara
+    name: اللغة يوتشي
+    auto: true
   - translation_iso: jpn
     name: ユチ語
   - translation_iso: kor

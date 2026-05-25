@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Cameroun-Ubangian > Ubangi > Zandic > Zande-Nzakara > Nzakara"
 wikipedia_url: "https://en.wikipedia.org/wiki/Nzakara_language"
 translations:
+  - translation_iso: ara
+    name: نزاكارا
+    auto: true
   - translation_iso: jpn
     name: ンザカラ語
     auto: true

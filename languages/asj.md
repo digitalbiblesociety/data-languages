@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Beboid > Eastern Beboid > Nsari-Nooni-Ncane > Nsari"
 wikipedia_url: "https://en.wikipedia.org/wiki/Saari_language"
 translations:
+  - translation_iso: ara
+    name: اللغة ساري
+    auto: true
   - translation_iso: jpn
     name: Saari語
   - translation_iso: zho

@@ -14,6 +14,9 @@ glottolog_family_name: Walioic
 glottolog_classification: "Walioic > Pai-Sinen-Walio > Walio"
 wikipedia_url: "https://en.wikipedia.org/wiki/Walio_language"
 translations:
+  - translation_iso: ara
+    name: واليو
+    auto: true
   - translation_iso: jpn
     name: ワリオ語
     auto: true

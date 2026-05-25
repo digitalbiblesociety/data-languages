@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Temotu > Utupua-Vanikoro > Utupua > Asumboa"
 wikipedia_url: "https://en.wikipedia.org/wiki/Asumbuo_language"
 translations:
+  - translation_iso: ara
+    name: اللغة أسومبوا
+    auto: true
   - translation_iso: jpn
     name: アスンボア語
   - translation_iso: zho

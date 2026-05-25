@@ -14,6 +14,9 @@ glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Himalayish > Mahakiranti > Kham-Magar-Chepang > Kham > Gamale-Parbate > Parbate Kham > Eastern Parbate Kham"
 translations:
+  - translation_iso: ara
+    name: لغة شرق باربات خام
+    auto: true
   - translation_iso: jpn
     name: イースタン・パルバテ・ハム語
     auto: true

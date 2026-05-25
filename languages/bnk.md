@@ -14,6 +14,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > North and Central Vanuatu > Central Vanuatu > Epi-Efate > Epi > Baki-Bierebo > Bierebo"
 wikipedia_url: "https://en.wikipedia.org/wiki/Bierebo_language"
 translations:
+  - translation_iso: ara
+    name: بيريبو
+    auto: true
   - translation_iso: jpn
     name: ビエレボ語
     auto: true

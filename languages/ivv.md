@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Batanic > Yami-Itbayat > Itbayat"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ivatan_language"
 translations:
+  - translation_iso: ara
+    name: لغة إيفاتان
+    auto: true
   - translation_iso: jpn
     name: イヴァタン語
   - translation_iso: kor

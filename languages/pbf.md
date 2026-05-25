@@ -15,6 +15,9 @@ glottolog_family_name: Otomanguean
 glottolog_classification: "Otomanguean > Eastern Otomanguean > Popoloca-Zapotecan > Popolocan-Mazatecan > Ixcatec-Chocho-Popolocan > Chocho-Popolocan > Popolocan > Southwestern Popolocan > Coyotepec Popoloca"
 wikipedia_url: "https://en.wikipedia.org/wiki/Coyotepec_Popoloca_language"
 translations:
+  - translation_iso: ara
+    name: اللغة بوبولوكا كويوتيبك
+    auto: true
   - translation_iso: jpn
     name: コヨテペック・ポポロカ語
     auto: true

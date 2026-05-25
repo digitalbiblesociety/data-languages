@@ -15,6 +15,9 @@ glottolog_family_name: Uralic
 glottolog_classification: "Uralic > Mari > Eastern Mari"
 wikipedia_url: "https://en.wikipedia.org/wiki/Meadow_Mari_language"
 translations:
+  - translation_iso: ara
+    name: لغة ماري الشرقية
+    auto: true
   - translation_iso: jpn
     name: 牧地マリ語
   - translation_iso: kor

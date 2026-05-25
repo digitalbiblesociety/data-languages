@@ -15,6 +15,9 @@ glottolog_family_name: Algic
 glottolog_classification: "Algic > Algonquian-Blackfoot > Algonquian > Eastern Algonquian > Maritimes-Southern New England Algonquian > Northern Eastern Algonquian > Abenaki > Western Abenaki"
 wikipedia_url: "https://en.wikipedia.org/wiki/Western_Abenaki_language"
 translations:
+  - translation_iso: ara
+    name: لغة ويسترن أبناكي
+    auto: true
   - translation_iso: jpn
     name: 西アベナキ語
   - translation_iso: zho

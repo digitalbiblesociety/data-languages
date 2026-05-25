@@ -15,6 +15,9 @@ glottolog_family_name: Athabaskan-Eyak-Tlingit
 glottolog_classification: "Athabaskan-Eyak-Tlingit > Athabaskan-Eyak > Athabaskan > Central British Columbia Athabaskan > Carrieric > Dakelh > Central Carrier"
 wikipedia_url: "https://en.wikipedia.org/wiki/Carrier_language"
 translations:
+  - translation_iso: ara
+    name: الكاريير
+    auto: true
   - translation_iso: jpn
     name: キャリア語
   - translation_iso: zho

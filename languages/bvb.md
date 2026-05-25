@@ -16,6 +16,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > Mbam-Bubi > Bube"
 wikipedia_url: "https://en.wikipedia.org/wiki/Bube_language"
 translations:
+  - translation_iso: ara
+    name: بوبي
+    auto: true
   - translation_iso: jpn
     name: ブビ語
   - translation_iso: zho

@@ -15,6 +15,9 @@ glottolog_family_name: Sign Language
 glottolog_classification: "Sign Language > L1 Sign Language > Vietnamese Sign > Hanoi Sign Language"
 wikipedia_url: "https://en.wikipedia.org/wiki/Hanoi_Sign_Language"
 translations:
+  - translation_iso: ara
+    name: لغة الإشارة بهانوي
+    auto: true
   - translation_iso: jpn
     name: ハノイ手話
   - translation_iso: zho

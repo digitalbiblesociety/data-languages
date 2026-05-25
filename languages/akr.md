@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > North and Central Vanuatu > Northern Vanuatu > Espiritu Santo > Nuclear Santo > South Santo > Araki-Tangoa > Araki"
 wikipedia_url: "https://en.wikipedia.org/wiki/Araki_language"
 translations:
+  - translation_iso: ara
+    name: لغة أراكي
+    auto: true
   - translation_iso: jpn
     name: アラキ語
   - translation_iso: zho

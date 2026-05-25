@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Cameroun-Ubangian > Ubangi > Ubangi Ka > Sereic > Sere-Indri > Ndogoic > Bai-Viri > Bai"
 wikipedia_url: "https://en.wikipedia.org/wiki/Bai_language_(South_Sudan)"
 translations:
+  - translation_iso: ara
+    name: اللغة باي
+    auto: true
   - translation_iso: jpn
     name: バイ語
     auto: true

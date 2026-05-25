@@ -14,6 +14,9 @@ glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Burmo-Qiangic > Lolo-Burmese > Loloish > Ni-Li-Kazhouish > Lisoid > Nuclear Lisoid > Lisu-Laluba-Lavu > Laluba-Lavu > Kuansi-Kuamasi-Sonaga > Kuansi-Kuamasi > Kuamasi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kuamasi_language"
 translations:
+  - translation_iso: ara
+    name: اللغة كوامسي
+    auto: true
   - translation_iso: jpn
     name: クアマシ語
     auto: true

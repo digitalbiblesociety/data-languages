@@ -14,6 +14,9 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Northern Luzon > Meso-Cordilleran > South-Central Cordilleran > Central Cordilleran > Nuclear Cordilleran > Bontok-Kankanay > Kankanay > Maeng-Northern Kankanay > Maeng Itneg"
 translations:
+  - translation_iso: ara
+    name: مايينغ إيتنيغ
+    auto: true
   - translation_iso: jpn
     name: マエング・イトネグ語
     auto: true

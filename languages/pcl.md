@@ -15,6 +15,9 @@ glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Indo-Aryan > Middle-Modern Indo-Aryan > Continental Indo-Aryan > Midlands Indo-Aryan > Bhil > Pardhi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Pardhi_language"
 translations:
+  - translation_iso: ara
+    name: اللغة بارذي
+    auto: true
   - translation_iso: jpn
     name: パルディ語
     auto: true

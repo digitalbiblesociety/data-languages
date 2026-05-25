@@ -14,6 +14,9 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > Mbam-Bubi > Mbam > Nuclear Mbam > Bati-Mbure-Yambassa > Mbure-Yambassa > Yambassa (A.60) > Mmala-Elip-Gunu > Elip-Gunu > Elip"
 translations:
+  - translation_iso: ara
+    name: الإليب
+    auto: true
   - translation_iso: jpn
     name: エリップ語
     auto: true

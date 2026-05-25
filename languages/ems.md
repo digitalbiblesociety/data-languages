@@ -15,6 +15,9 @@ glottolog_family_name: Eskimo-Aleut
 glottolog_classification: "Eskimo-Aleut > Eskimo > Yupik > Pacific Gulf Yupik"
 wikipedia_url: "https://en.wikipedia.org/wiki/Alutiiq_language"
 translations:
+  - translation_iso: ara
+    name: اليوبيك خليج الهادئ
+    auto: true
   - translation_iso: jpn
     name: アリュティーク語
   - translation_iso: kor

@@ -14,6 +14,9 @@ glottolog_family_name: Yam
 glottolog_classification: "Yam > Morehead-Maro > Tonda > Rema"
 wikipedia_url: "https://en.wikipedia.org/wiki/Rema_language"
 translations:
+  - translation_iso: ara
+    name: ريما
+    auto: true
   - translation_iso: jpn
     name: レマ語
     auto: true

@@ -15,6 +15,9 @@ glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > East Chadic > East Chadic A > East Chadic A.2 > East Chadic A.2 2 > Gabri-Kimre > Kimre"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kimr%C3%A9_language"
 translations:
+  - translation_iso: ara
+    name: لغة كيمري
+    auto: true
   - translation_iso: jpn
     name: キムレ語
     auto: true

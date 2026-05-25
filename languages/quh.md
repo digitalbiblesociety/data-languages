@@ -15,6 +15,9 @@ glottolog_family_name: Quechuan
 glottolog_classification: "Quechuan > Southern Quechua > Bolivian-Argentinian Quechua > South Bolivian-Argentinian Quechua > South Bolivian Quechua"
 wikipedia_url: "https://en.wikipedia.org/wiki/South_Bolivian_Quechua"
 translations:
+  - translation_iso: ara
+    name: اللغة كويتشوا بوليفيا الجنوبية
+    auto: true
   - translation_iso: jpn
     name: 南ボリビアンケチュア語
     auto: true

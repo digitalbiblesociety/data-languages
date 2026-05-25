@@ -15,6 +15,9 @@ glottolog_family_name: Kresh-Aja
 glottolog_classification: "Kresh-Aja > Aja (South Sudan)"
 wikipedia_url: "https://en.wikipedia.org/wiki/Aja_language_(Nilo-Saharan)"
 translations:
+  - translation_iso: ara
+    name: لغة أجا
+    auto: true
   - translation_iso: jpn
     name: アジャ語
     auto: true

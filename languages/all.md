@@ -15,6 +15,9 @@ glottolog_family_name: Dravidian
 glottolog_classification: "Dravidian > South Dravidian > South Dravidian I > Tamil-Kannada > Tamil-Kota > Tamil-Toda > Tamil-Irula > Tamil-Kodagu > Tamil-Malayalam > Malayalamoid > Allar"
 wikipedia_url: "https://en.wikipedia.org/wiki/Allar_language"
 translations:
+  - translation_iso: ara
+    name: لغة آلّار
+    auto: true
   - translation_iso: jpn
     name: アッラール語
     auto: true

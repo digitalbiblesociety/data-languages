@@ -14,6 +14,9 @@ glottolog_family_id: kiwa1251
 glottolog_family_name: Kiwaian
 glottolog_classification: "Kiwaian > Southern Kiwai"
 translations:
+  - translation_iso: ara
+    name: لغة كيواي الجنوبية
+    auto: true
   - translation_iso: hin
     name: दक्षिणी किवाई
   - translation_iso: jpn

@@ -15,6 +15,9 @@ glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Chimbu-Wahgi > Simbu > Nuclear Simbu > Kuman-Dom-Gunaa > Kuman"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kuman_language_(New_Guinea)"
 translations:
+  - translation_iso: ara
+    name: كومان (بابوا غينيا الجديدة)
+    auto: true
   - translation_iso: jpn
     name: クマン語
   - translation_iso: zho

@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Gur > Central Gur > Southern Central Gur > Grusi > Northern Grusi > Pana (Burkina Faso)"
 wikipedia_url: "https://en.wikipedia.org/wiki/Pana_language_(Gur)"
 translations:
+  - translation_iso: ara
+    name: اللغة بانا (بوركينا فاسو)
+    auto: true
   - translation_iso: jpn
     name: パナ語
   - translation_iso: zho

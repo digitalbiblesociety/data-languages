@@ -11,6 +11,9 @@ latitude: 20.17968
 longitude: 97.37906
 wikipedia_url: "https://en.wikipedia.org/wiki/Lahta_language"
 translations:
+  - translation_iso: ara
+    name: كارين لاهتا
+    auto: true
   - translation_iso: jpn
     name: ラータ・カレン語
     auto: true

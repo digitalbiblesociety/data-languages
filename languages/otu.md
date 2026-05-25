@@ -15,6 +15,9 @@ glottolog_family_name: Bororoan
 glottolog_classification: "Bororoan > Bororo-Otuke > Otuke"
 wikipedia_url: "https://en.wikipedia.org/wiki/Otuke_language"
 translations:
+  - translation_iso: ara
+    name: اللغة أوتوكي
+    auto: true
   - translation_iso: jpn
     name: オトゥケ語
     auto: true

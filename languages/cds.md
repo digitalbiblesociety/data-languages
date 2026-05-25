@@ -13,6 +13,9 @@ glottolog_family_id: sign1238
 glottolog_family_name: Sign Language
 glottolog_classification: "Sign Language > L1 Sign Language > LSFic > ASLic > American Sign > Chadian Sign Language"
 translations:
+  - translation_iso: ara
+    name: لغة الإشارة التشادية
+    auto: true
   - translation_iso: jpn
     name: チャド手話
   - translation_iso: zho

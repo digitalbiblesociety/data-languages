@@ -15,6 +15,9 @@ glottolog_family_name: Angan
 glottolog_classification: "Angan > Nuclear Angan > Baruya-Simbari > Baruya"
 wikipedia_url: "https://en.wikipedia.org/wiki/Yipma_language"
 translations:
+  - translation_iso: ara
+    name: بارويا
+    auto: true
   - translation_iso: jpn
     name: バルヤ語
   - translation_iso: zho

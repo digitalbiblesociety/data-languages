@@ -14,6 +14,9 @@ glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Madang > Croisilles > Greater Northern Adelbert > Northern Adelbert > Numugenan > Yarawata-Parawen-Ukuriguma > Yarawata"
 wikipedia_url: "https://en.wikipedia.org/wiki/Yarawata_language"
 translations:
+  - translation_iso: ara
+    name: اللغة يارواتا
+    auto: true
   - translation_iso: jpn
     name: ヤラワタ語
     auto: true

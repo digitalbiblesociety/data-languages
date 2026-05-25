@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Akpes-Edoid > Edoid > Southwestern Edoid > Urhobo"
 wikipedia_url: "https://en.wikipedia.org/wiki/Urhobo_language"
 translations:
+  - translation_iso: ara
+    name: أورهوبو
+    auto: true
   - translation_iso: jpn
     name: ウロボ語
   - translation_iso: zho

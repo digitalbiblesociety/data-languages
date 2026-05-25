@@ -15,6 +15,9 @@ glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > South-West Pama-Nyungan > Kartu-Nhanda > Kartu > Malgana"
 wikipedia_url: "https://en.wikipedia.org/wiki/Malgana_language"
 translations:
+  - translation_iso: ara
+    name: مالجانا
+    auto: true
   - translation_iso: jpn
     name: マルガナ語
     auto: true

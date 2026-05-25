@@ -15,6 +15,9 @@ glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > South-West Pama-Nyungan > Pilbara > Mantharta > Djiwarli-Thiin > Djiwarli"
 wikipedia_url: "https://en.wikipedia.org/wiki/Jiwarli_dialect"
 translations:
+  - translation_iso: ara
+    name: الدجيواري
+    auto: true
   - translation_iso: jpn
     name: ジウワルリ語
     auto: true

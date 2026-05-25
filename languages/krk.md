@@ -15,6 +15,9 @@ glottolog_family_name: Chukotko-Kamchatkan
 glottolog_classification: "Chukotko-Kamchatkan > Chukotian > R-Koryakic > J-Koryakic > Kerek"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kerek_language"
 translations:
+  - translation_iso: ara
+    name: كيريك
+    auto: true
   - translation_iso: jpn
     name: ケレク語
   - translation_iso: kor

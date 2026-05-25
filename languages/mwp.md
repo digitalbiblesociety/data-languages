@@ -15,6 +15,9 @@ glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > Kala Lagaw Ya"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kalaw_Lagaw_Ya"
 translations:
+  - translation_iso: ara
+    name: لغة كالا لاجاو يا
+    auto: true
   - translation_iso: jpn
     name: カラ・ラガウ・ヤ語
   - translation_iso: kor

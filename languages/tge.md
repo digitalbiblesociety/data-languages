@@ -14,6 +14,9 @@ glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Bodic > Kaike-Ghale-Tamangic > Ghale-Tamangic > Tamangic > Eastern Gorkha Tamang"
 translations:
+  - translation_iso: ara
+    name: تامانغ غوركها الشرقية
+    auto: true
   - translation_iso: jpn
     name: 東部ゴルカ・タマン語
     auto: true

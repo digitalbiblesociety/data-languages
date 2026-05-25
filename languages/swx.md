@@ -15,6 +15,9 @@ glottolog_family_name: Arawan
 glottolog_classification: "Arawan > Suruahá"
 wikipedia_url: "https://en.wikipedia.org/wiki/Zuruah%C3%A1_language"
 translations:
+  - translation_iso: ara
+    name: سوروهاّ
+    auto: true
   - translation_iso: jpn
     name: スルアハ語
     auto: true

@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Bima-Lembata > Flores > Flores-Lembata > Lamaholot Barat > Alorese"
 wikipedia_url: "https://en.wikipedia.org/wiki/Alorese_language"
 translations:
+  - translation_iso: ara
+    name: لغة ألور
+    auto: true
   - translation_iso: jpn
     name: アロール語
   - translation_iso: zho

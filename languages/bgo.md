@@ -14,6 +14,9 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Mel > Northern Mel > Baga Koga"
 translations:
+  - translation_iso: ara
+    name: باجا كوجا
+    auto: true
   - translation_iso: jpn
     name: バガ・コガ語
     auto: true

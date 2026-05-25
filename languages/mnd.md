@@ -15,6 +15,9 @@ glottolog_family_name: Tupian
 glottolog_classification: "Tupian > Monde > Gavianic > Salamãi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mond%C3%A9_language"
 translations:
+  - translation_iso: ara
+    name: لغة موندي
+    auto: true
   - translation_iso: jpn
     name: モンデ語
     auto: true

@@ -15,6 +15,9 @@ glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Germanic > Northwest Germanic > West Germanic > North Sea Germanic > Anglo-Frisian > Anglic > Later Anglic > Middle-Modern English > Macro-English > Pacific Creole English > Kriol"
 wikipedia_url: "https://en.wikipedia.org/wiki/Australian_Kriol"
 translations:
+  - translation_iso: ara
+    name: كريول
+    auto: true
   - translation_iso: jpn
     name: オーストラリア・クレオール言語
   - translation_iso: kor

@@ -14,6 +14,9 @@ glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Burmo-Qiangic > Lolo-Burmese > Loloish > Ni-Li-Kazhouish > Southeastern Ngwi > Nisoid > Nisu-Nyisu > Nisu > Nuclear Nisu > Northern Nisu > North-Central Nisu"
 translations:
+  - translation_iso: ara
+    name: نيسو الشرقية
+    auto: true
   - translation_iso: jpn
     name: 東ニス語
     auto: true

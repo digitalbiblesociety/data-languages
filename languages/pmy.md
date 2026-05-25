@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Malayo-Chamic > Malayic > Nuclear Malayic > Vehicular Malay > Eastern Indonesia Trade Malay > Papuan Malay"
 wikipedia_url: "https://en.wikipedia.org/wiki/Papuan_Malay"
 translations:
+  - translation_iso: ara
+    name: لغة ملايو بابوا
+    auto: true
   - translation_iso: jpn
     name: パプア・マレー語
   - translation_iso: zho

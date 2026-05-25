@@ -15,6 +15,9 @@ glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Kuki-Chin-Naga > Kuki-Chin > Peripheral Kuki-Chin > Northeastern Kuki-Chin > Sizangic > Zou"
 wikipedia_url: "https://en.wikipedia.org/wiki/Zou_language"
 translations:
+  - translation_iso: ara
+    name: زومي
+    auto: true
   - translation_iso: jpn
     name: ゾウ語
   - translation_iso: zho

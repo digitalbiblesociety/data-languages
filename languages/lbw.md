@@ -16,6 +16,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Celebic > Greater Eastern Celebic > Eastern Celebic > Southeastern Celebic > Bungku-Tolaki > Western Bungku-Tolaki > West Coast Bungku-Tolaki > Tolaki"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tolaki_language"
 translations:
+  - translation_iso: ara
+    name: تولاكي
+    auto: true
   - translation_iso: jpn
     name: トラキ語
   - translation_iso: zho

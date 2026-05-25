@@ -15,6 +15,9 @@ glottolog_family_name: Nyulnyulan
 glottolog_classification: "Nyulnyulan > Western Nyulnyulan > Bardic > Bardi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Bardi_language"
 translations:
+  - translation_iso: ara
+    name: اللغة باردي
+    auto: true
   - translation_iso: jpn
     name: Bardi語
   - translation_iso: kor

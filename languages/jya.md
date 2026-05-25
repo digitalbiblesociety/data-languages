@@ -10,6 +10,9 @@ latitude: 31.60295
 longitude: 102.22875
 wikipedia_url: "https://en.wikipedia.org/wiki/Gyalrong_languages"
 translations:
+  - translation_iso: ara
+    name: لغة جيارونغ
+    auto: true
   - translation_iso: jpn
     name: ギャロン語
   - translation_iso: kor

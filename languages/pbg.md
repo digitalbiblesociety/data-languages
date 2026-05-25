@@ -15,6 +15,9 @@ glottolog_family_name: Arawakan
 glottolog_classification: "Arawakan > Caribbean Arawakan > Guajiro-Paraujano > Paraujano"
 wikipedia_url: "https://en.wikipedia.org/wiki/Paraujano_language"
 translations:
+  - translation_iso: ara
+    name: اللغة باراوخانو
+    auto: true
   - translation_iso: jpn
     name: パラウハノ語
   - translation_iso: zho

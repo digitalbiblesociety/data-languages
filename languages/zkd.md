@@ -8,6 +8,9 @@ country_name: Myanmar
 status_id: 6b
 wikipedia_url: "https://en.wikipedia.org/wiki/Kadu_language"
 translations:
+  - translation_iso: ara
+    name: اللغة كادو
+    auto: true
   - translation_iso: jpn
     name: カドゥ語
     auto: true

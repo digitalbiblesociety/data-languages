@@ -14,6 +14,9 @@ glottolog_family_name: Sign Language
 glottolog_classification: "Sign Language > L1 Sign Language > Ban Khor Sign Language"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ban_Khor_Sign_Language"
 translations:
+  - translation_iso: ara
+    name: لغة بان خور الإشارية
+    auto: true
   - translation_iso: hin
     name: बान खोर सांकेतिक भाषा
   - translation_iso: jpn

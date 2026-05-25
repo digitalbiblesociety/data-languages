@@ -14,6 +14,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Bima-Lembata > Sumba-Hawu > Sumba > Central-East Sumbanese > Central Sumbanese > Wanukaka"
 wikipedia_url: "https://en.wikipedia.org/wiki/Wanukaka_language"
 translations:
+  - translation_iso: ara
+    name: وانوكاكا
+    auto: true
   - translation_iso: hin
     name: वानुकाका भाषा
   - translation_iso: jpn

@@ -15,6 +15,9 @@ glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Iranian-Nuristani > Iranian > Pashto > Nuclear Pashto > Central Pashto"
 wikipedia_url: "https://en.wikipedia.org/wiki/Central_Pashto"
 translations:
+  - translation_iso: ara
+    name: اللغة بشتو الوسطى
+    auto: true
   - translation_iso: jpn
     name: 中部パシュトー語
   - translation_iso: zho

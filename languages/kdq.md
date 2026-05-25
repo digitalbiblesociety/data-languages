@@ -15,6 +15,9 @@ glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Brahmaputran > Bodo-Garo > Kochic > Koch"
 wikipedia_url: "https://en.wikipedia.org/wiki/Koch_language"
 translations:
+  - translation_iso: ara
+    name: لغة كوتش
+    auto: true
   - translation_iso: hin
     name: कोच भाषा
   - translation_iso: jpn

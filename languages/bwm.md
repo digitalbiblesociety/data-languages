@@ -15,6 +15,9 @@ glottolog_family_name: Yuat
 glottolog_classification: "Yuat > Miyak-Bun-Biwat > Bun-Mundukumo > Biwat"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mundugumor_language"
 translations:
+  - translation_iso: ara
+    name: بيوات
+    auto: true
   - translation_iso: jpn
     name: ビワット語
     auto: true

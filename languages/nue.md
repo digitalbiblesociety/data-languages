@@ -14,6 +14,9 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Cameroun-Ubangian > Ubangi > Ubangi Ka > Bandaic > Nuclear Bandaic > Central Bandaic > Core Central Bandaic > Ngundu-Kpagua > Ngundu"
 translations:
+  - translation_iso: ara
+    name: نغوندو
+    auto: true
   - translation_iso: jpn
     name: ングンドゥ語
     auto: true

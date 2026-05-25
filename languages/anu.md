@@ -15,6 +15,9 @@ glottolog_family_name: Nilotic
 glottolog_classification: "Nilotic > Western Nilotic > Lwoo > Northern Lwoo > Anuak"
 wikipedia_url: "https://en.wikipedia.org/wiki/Anuak_language"
 translations:
+  - translation_iso: ara
+    name: لغة أنوّاك
+    auto: true
   - translation_iso: jpn
     name: アヌアク語
   - translation_iso: zho

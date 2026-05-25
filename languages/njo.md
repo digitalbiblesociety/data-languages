@@ -16,6 +16,9 @@ glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Kuki-Chin-Naga > Angami-Ao > Central Naga > Ao Naga"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ao_language"
 translations:
+  - translation_iso: ara
+    name: آو ناجا
+    auto: true
   - translation_iso: hin
     name: आओ भाषा
   - translation_iso: jpn

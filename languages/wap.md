@@ -15,6 +15,9 @@ glottolog_family_name: Arawakan
 glottolog_classification: "Arawakan > Negro-Roraima > Pidjanan > Wapishanan > Wapishana-Atorai > Wapishana"
 wikipedia_url: "https://en.wikipedia.org/wiki/Wapishana_language"
 translations:
+  - translation_iso: ara
+    name: وابيشانا
+    auto: true
   - translation_iso: jpn
     name: ワピシャナ語
   - translation_iso: zho

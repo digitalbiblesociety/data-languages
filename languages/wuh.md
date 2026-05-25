@@ -15,6 +15,9 @@ glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Sinitic > Classical-Middle-Modern Sinitic > Middle-Modern Sinitic > Northern Chinese > Mandarinic > Wutunhua"
 wikipedia_url: "https://en.wikipedia.org/wiki/Wutun_language"
 translations:
+  - translation_iso: ara
+    name: ووتونهوا
+    auto: true
   - translation_iso: jpn
     name: 五屯語
   - translation_iso: kor

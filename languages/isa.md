@@ -14,6 +14,9 @@ glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Kainantu-Goroka > Goroka > Unclassified Goroka > Isabi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Isabi_language"
 translations:
+  - translation_iso: ara
+    name: إيسابي
+    auto: true
   - translation_iso: jpn
     name: イサビ語
     auto: true

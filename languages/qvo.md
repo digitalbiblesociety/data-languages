@@ -14,6 +14,9 @@ glottolog_family_id: quec1387
 glottolog_family_name: Quechuan
 glottolog_classification: "Quechuan > Colombia-Ecuador Quechua > Ecuadorian Quechua B > Imbabura-Colombia-Oriente Quechua > Colombia-Oriente Quechua > Oriente Quechua > Napo Lowland Quechua"
 translations:
+  - translation_iso: ara
+    name: اللغة كويتشوا نابو المنخفضة
+    auto: true
   - translation_iso: jpn
     name: ナポ低地ケチュア語
     auto: true

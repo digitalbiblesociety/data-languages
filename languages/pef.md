@@ -15,6 +15,9 @@ glottolog_family_name: Pomoan
 glottolog_classification: "Pomoan > Northeastern Russian River Pomo"
 wikipedia_url: "https://en.wikipedia.org/wiki/Northeastern_Pomo_language"
 translations:
+  - translation_iso: ara
+    name: اللغة بومو الشمالية الشرقية
+    auto: true
   - translation_iso: jpn
     name: 北東ポモ語
     auto: true

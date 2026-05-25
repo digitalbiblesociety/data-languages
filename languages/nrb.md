@@ -12,6 +12,9 @@ longitude: 37.49899
 glottocode: nara1262
 wikipedia_url: "https://en.wikipedia.org/wiki/Nara_language"
 translations:
+  - translation_iso: ara
+    name: نارا
+    auto: true
   - translation_iso: jpn
     name: ナラ語
   - translation_iso: zho

@@ -15,6 +15,9 @@ glottolog_family_name: Tai-Kadai
 glottolog_classification: "Tai-Kadai > Kam-Tai > Daic-Beic > Beic > Lingao > Western Ong-Be"
 wikipedia_url: "https://en.wikipedia.org/wiki/Be_languages"
 translations:
+  - translation_iso: ara
+    name: اللغة لينغاو
+    auto: true
   - translation_iso: jpn
     name: オンベ語
   - translation_iso: kor

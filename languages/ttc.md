@@ -15,6 +15,9 @@ glottolog_family_name: Mayan
 glottolog_classification: "Mayan > Core Mayan > Quichean-Mamean > Greater Mamean > Mamean > Tektiteko"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tektitek_language"
 translations:
+  - translation_iso: ara
+    name: تيكتيتيكو
+    auto: true
   - translation_iso: jpn
     name: テクティテコ語
   - translation_iso: kor

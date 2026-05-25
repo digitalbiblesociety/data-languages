@@ -15,6 +15,9 @@ glottolog_family_name: Nuclear Torricelli
 glottolog_classification: "Nuclear Torricelli > Nuclear Maimai > Siliput"
 wikipedia_url: "https://en.wikipedia.org/wiki/Siliput_language"
 translations:
+  - translation_iso: ara
+    name: لغة سيليبوت
+    auto: true
   - translation_iso: jpn
     name: シリプット語
     auto: true

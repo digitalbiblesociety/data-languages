@@ -15,6 +15,9 @@ glottolog_family_name: Arawakan
 glottolog_classification: "Arawakan > Negro-Roraima > Pidjanan > Wapishanan > Wapishana-Atorai > Atorada"
 wikipedia_url: "https://en.wikipedia.org/wiki/Atorada_language"
 translations:
+  - translation_iso: ara
+    name: اللغة أتورادا
+    auto: true
   - translation_iso: jpn
     name: アトラダ語
   - translation_iso: zho

@@ -14,6 +14,9 @@ glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Madang > Rai Coast > Mindjim > Upper Minjim > Sgi Bara"
 wikipedia_url: "https://en.wikipedia.org/wiki/Jilim_language"
 translations:
+  - translation_iso: ara
+    name: لغة جيليم
+    auto: true
   - translation_iso: jpn
     name: ジリム語
     auto: true

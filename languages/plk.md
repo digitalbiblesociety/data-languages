@@ -15,6 +15,9 @@ glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Indo-Aryan > Middle-Modern Indo-Aryan > Eastern Dardic > Nuclear Eastern Dardic > Shinaic > Kohistanic Shina > Kohistani Shina"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kohistani_Shina"
 translations:
+  - translation_iso: ara
+    name: اللغة شينا كوهستاني
+    auto: true
   - translation_iso: jpn
     name: コヒスタニシナ語
     auto: true

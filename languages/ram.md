@@ -15,6 +15,9 @@ glottolog_family_name: Nuclear-Macro-Je
 glottolog_classification: "Nuclear-Macro-Je > Je > Cerrado > Goyaz > Northern Je > Eastern Timbira > Southeastern Timbira > Central-Southern Timbira"
 wikipedia_url: "https://en.wikipedia.org/wiki/Canela_dialect"
 translations:
+  - translation_iso: ara
+    name: كانيلا
+    auto: true
   - translation_iso: jpn
     name: カネラ語
   - translation_iso: zho

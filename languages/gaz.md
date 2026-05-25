@@ -14,6 +14,9 @@ glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Cushitic > East Cushitic > Lowland East Cushitic > Southern Lowland East Cushitic > Mainstream Lowland East Cushitic > Oromoid > Nuclear Oromo > West Central Oromo"
 translations:
+  - translation_iso: ara
+    name: الأرومية الغربية الوسطى
+    auto: true
   - translation_iso: jpn
     name: 西中央オロモ語
   - translation_iso: zho

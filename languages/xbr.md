@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Bima-Lembata > Sumba-Hawu > Sumba > Central-East Sumbanese > Kambera"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kambera_language"
 translations:
+  - translation_iso: ara
+    name: كامبيرا
+    auto: true
   - translation_iso: jpn
     name: カンベラ
   - translation_iso: zho

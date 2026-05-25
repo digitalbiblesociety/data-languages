@@ -10,6 +10,9 @@ latitude: 5.26123
 longitude: -67.56327
 wikipedia_url: "https://en.wikipedia.org/wiki/Avane_language"
 translations:
+  - translation_iso: ara
+    name: بانيڤا
+    auto: true
   - translation_iso: jpn
     name: バニバ語
   - translation_iso: zho

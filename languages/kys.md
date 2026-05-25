@@ -14,6 +14,9 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > North Borneo Malayo-Polynesian > Kayan-Murik-Modang > Kayan-Murik > Kayanic > Baram Kayan"
 translations:
+  - translation_iso: ara
+    name: كايان بارام
+    auto: true
   - translation_iso: jpn
     name: バラム・カヤン語
     auto: true

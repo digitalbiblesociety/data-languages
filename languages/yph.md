@@ -14,6 +14,9 @@ glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Burmo-Qiangic > Lolo-Burmese > Loloish > Ni-Li-Kazhouish > Southeastern Ngwi > Riverine Phula > Downriver Riverine Phula > Phupha-Alugu > Phupha"
 wikipedia_url: "https://en.wikipedia.org/wiki/Phupha_language"
 translations:
+  - translation_iso: ara
+    name: اللغة فوفا
+    auto: true
   - translation_iso: jpn
     name: フーファ語
     auto: true

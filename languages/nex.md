@@ -14,6 +14,9 @@ glottolog_family_name: Yam
 glottolog_classification: "Yam > Morehead-Maro > Nambu > Neme"
 wikipedia_url: "https://en.wikipedia.org/wiki/Neme_language"
 translations:
+  - translation_iso: ara
+    name: نيمي
+    auto: true
   - translation_iso: jpn
     name: ネメ語
     auto: true

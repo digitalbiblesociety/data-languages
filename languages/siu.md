@@ -15,6 +15,9 @@ glottolog_family_name: Nuclear Torricelli
 glottolog_classification: "Nuclear Torricelli > Wapei-Palei > Central Torricelli > Wapeic > Galu-Alu > Galu"
 wikipedia_url: "https://en.wikipedia.org/wiki/Sinagen_language"
 translations:
+  - translation_iso: ara
+    name: اللغة السينجن
+    auto: true
   - translation_iso: jpn
     name: ガル語
     auto: true

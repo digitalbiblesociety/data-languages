@@ -15,6 +15,9 @@ glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Kuki-Chin-Naga > Tangkhul-Maring > Maringic > Khoibu"
 wikipedia_url: "https://en.wikipedia.org/wiki/Uipo_language"
 translations:
+  - translation_iso: ara
+    name: خويبو ناغا
+    auto: true
   - translation_iso: hin
     name: खोइबु
   - translation_iso: jpn

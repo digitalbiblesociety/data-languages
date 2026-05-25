@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Greater Central Philippine > Central Philippine > Bikol > Northern Catanduanes Bicolano"
 wikipedia_url: "https://en.wikipedia.org/wiki/Pandan_Bikol_language"
 translations:
+  - translation_iso: ara
+    name: البيكول الشمالي كاتانديانيس
+    auto: true
   - translation_iso: jpn
     name: 北カタンドゥアネス・ビコール語
   - translation_iso: zho

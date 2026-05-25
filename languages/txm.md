@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Celebic > Greater Eastern Celebic > Tominic > Northern Tomini > Tomini"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tomini_language"
 translations:
+  - translation_iso: ara
+    name: توميني
+    auto: true
   - translation_iso: jpn
     name: ティアロ語
     auto: true

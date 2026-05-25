@@ -15,6 +15,9 @@ glottolog_family_name: Greater Kwerba
 glottolog_classification: "Greater Kwerba > Kwerba-Samarokena > Kwerbaic > Middle Mamberamo Kwerba > Kasonaic > Kauwera"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kauwera_language"
 translations:
+  - translation_iso: ara
+    name: كاوويرا
+    auto: true
   - translation_iso: jpn
     name: カウウェラ語
     auto: true

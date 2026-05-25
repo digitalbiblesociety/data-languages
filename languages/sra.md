@@ -14,6 +14,9 @@ glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Madang > Croisilles > Mabuso > Hanseman > Silopic > Saruga"
 wikipedia_url: "https://en.wikipedia.org/wiki/Saruga_language"
 translations:
+  - translation_iso: ara
+    name: اللغة ساروجا
+    auto: true
   - translation_iso: jpn
     name: サルガ語
     auto: true

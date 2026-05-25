@@ -15,6 +15,9 @@ glottolog_family_name: North-Eastern Tasmanian
 glottolog_classification: "North-Eastern Tasmanian > Ben-Lomond-Cape-Portland"
 wikipedia_url: "https://en.wikipedia.org/wiki/Pyemmairre_language"
 translations:
+  - translation_iso: ara
+    name: تاسماني الشمالية الشرقية
+    auto: true
   - translation_iso: jpn
     name: 北東タスマニア語
     auto: true

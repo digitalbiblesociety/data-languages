@@ -14,6 +14,9 @@ glottolog_family_id: pama1250
 glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > Greater Maric > Guwa-Maric > Maric > Southern Maric > Wadjigu"
 translations:
+  - translation_iso: ara
+    name: واديجو
+    auto: true
   - translation_iso: jpn
     name: ワジグ語
     auto: true

@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > Papuan Tip linkage > Peripheral Papuan Tip linkage > Central Papuan Oceanic > West Central Papuan linkage > Motu"
 wikipedia_url: "https://en.wikipedia.org/wiki/Motu_language"
 translations:
+  - translation_iso: ara
+    name: لغة موتو
+    auto: true
   - translation_iso: jpn
     name: モトゥ語
   - translation_iso: kor

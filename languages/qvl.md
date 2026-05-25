@@ -14,6 +14,9 @@ glottolog_family_id: quec1387
 glottolog_family_name: Quechuan
 glottolog_classification: "Quechuan > Quechua I > Central Quechua I > AP-AM-AH > Cajatambo North Lima Quechua"
 translations:
+  - translation_iso: ara
+    name: اللغة كويتشوا كاخاتامبو شمال ليما
+    auto: true
   - translation_iso: jpn
     name: カハタンボ北リマケチュア語
     auto: true

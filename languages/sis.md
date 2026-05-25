@@ -12,6 +12,9 @@ longitude: -124.3786
 glottocode: sius1254
 wikipedia_url: "https://en.wikipedia.org/wiki/Siuslaw_language"
 translations:
+  - translation_iso: ara
+    name: اللغة السيوسلاو
+    auto: true
   - translation_iso: jpn
     name: サイウスロー語
   - translation_iso: zho

@@ -15,6 +15,9 @@ glottolog_family_name: Blue Nile Mao
 glottolog_classification: "Blue Nile Mao > Bambassi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Bambassi_language"
 translations:
+  - translation_iso: ara
+    name: بامباسي
+    auto: true
   - translation_iso: jpn
     name: バンバッシ語
     auto: true

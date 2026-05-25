@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > North New Guinea linkage > Huon Gulf > South Huon Gulf linkage > Iwal"
 wikipedia_url: "https://en.wikipedia.org/wiki/Iwal_language"
 translations:
+  - translation_iso: ara
+    name: لغة إيوال
+    auto: true
   - translation_iso: jpn
     name: イワル語
     auto: true

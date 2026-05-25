@@ -12,6 +12,9 @@ longitude: 137.63227
 glottocode: demm1245
 wikipedia_url: "https://en.wikipedia.org/wiki/Dem_language"
 translations:
+  - translation_iso: ara
+    name: ديم
+    auto: true
   - translation_iso: jpn
     name: デム語
     auto: true

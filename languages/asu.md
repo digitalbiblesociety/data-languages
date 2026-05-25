@@ -15,6 +15,9 @@ glottolog_family_name: Tupian
 glottolog_classification: "Tupian > Eastern Tupian > Maweti-Guarani > Aweti-Guarani > Tupi-Guarani > Tupi-Guarani Subgroup IV > Tupi-Guarani Subgroup IV.A > Tocantins Asurini"
 wikipedia_url: "https://en.wikipedia.org/wiki/Akw%C3%A1wa_language"
 translations:
+  - translation_iso: ara
+    name: اللغة أسورينيه توكانتينس
+    auto: true
   - translation_iso: jpn
     name: アスリニ語
   - translation_iso: zho

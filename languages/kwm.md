@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > Central-Western Bantu > Njila > Southern Njila > Kunene > Cimbebasia > Ndonga (R.20) > Kwambi-Ndonga > Kwambi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kwambi_dialect"
 translations:
+  - translation_iso: ara
+    name: كوامبي
+    auto: true
   - translation_iso: jpn
     name: クワンビ語
   - translation_iso: zho

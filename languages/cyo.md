@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Greater Central Philippine > Central Philippine > Bisayan > West Bisayan > Kuyan > Cuyonon"
 wikipedia_url: "https://en.wikipedia.org/wiki/Cuyonon_language"
 translations:
+  - translation_iso: ara
+    name: كويونون
+    auto: true
   - translation_iso: jpn
     name: クヨノン語
     auto: true

@@ -15,6 +15,9 @@ glottolog_family_name: Bosavi
 glottolog_classification: "Bosavi > Etoro-Bedamini > Beami"
 wikipedia_url: "https://en.wikipedia.org/wiki/Beami_language"
 translations:
+  - translation_iso: ara
+    name: بيامي
+    auto: true
   - translation_iso: jpn
     name: ベアミ語
     auto: true

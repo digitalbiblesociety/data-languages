@@ -13,6 +13,9 @@ glottolog_family_id: pama1250
 glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > Ganaic > Birrdhawal"
 translations:
+  - translation_iso: ara
+    name: بيدهاوال
+    auto: true
   - translation_iso: jpn
     name: ビドハワル語
     auto: true

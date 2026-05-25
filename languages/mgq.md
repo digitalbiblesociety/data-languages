@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > East Bantu > Corridor Bantu > Mbozi > Mbeya > Malila"
 wikipedia_url: "https://en.wikipedia.org/wiki/Malila_language"
 translations:
+  - translation_iso: ara
+    name: لغة ماليلا
+    auto: true
   - translation_iso: jpn
     name: マリラ語
   - translation_iso: zho

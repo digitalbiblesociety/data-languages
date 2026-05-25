@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Greater South Sulawesi > South Sulawesi > Northern South Sulawesi > Toraja-Duri > Torajic > Toraja-Sa'dan"
 wikipedia_url: "https://en.wikipedia.org/wiki/Toraja-Sa%CA%BCdan_language"
 translations:
+  - translation_iso: ara
+    name: توراجا سادان
+    auto: true
   - translation_iso: jpn
     name: トラジャ＝サダン語
   - translation_iso: zho

@@ -16,6 +16,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Basap-Greater Barito > Greater Barito linkage > South West Greater Barito > Ngaju"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ngaju_language"
 translations:
+  - translation_iso: ara
+    name: نجاجو
+    auto: true
   - translation_iso: jpn
     name: ガジュ語
   - translation_iso: zho

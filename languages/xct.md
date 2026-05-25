@@ -15,6 +15,9 @@ glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Bodic > Bodish > Early Old Tibetan > Classical Tibetan"
 wikipedia_url: "https://en.wikipedia.org/wiki/Classical_Tibetan"
 translations:
+  - translation_iso: ara
+    name: كلاسسيكال تيبيتان
+    auto: true
   - translation_iso: jpn
     name: 古典チベット語
   - translation_iso: kor

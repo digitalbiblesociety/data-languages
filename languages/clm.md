@@ -15,6 +15,9 @@ glottolog_family_name: Salishan
 glottolog_classification: "Salishan > Coast Salish > Central Salish > Straits Salish > Clallam"
 wikipedia_url: "https://en.wikipedia.org/wiki/Klallam_language"
 translations:
+  - translation_iso: ara
+    name: الكلالام
+    auto: true
   - translation_iso: jpn
     name: クラーラム語
   - translation_iso: kor

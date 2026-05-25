@@ -15,6 +15,9 @@ glottolog_family_name: Narrow Talodi
 glottolog_classification: "Narrow Talodi > Buram-Saraf > Buram Hill Chain > Ngile"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ngile_language"
 translations:
+  - translation_iso: ara
+    name: لغة نغايل
+    auto: true
   - translation_iso: jpn
     name: ンギレ語
     auto: true

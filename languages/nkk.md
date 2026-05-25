@@ -14,6 +14,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > North and Central Vanuatu > Northern Vanuatu > Espiritu Santo > West Santo > Cape Cumberland > Nokuku"
 wikipedia_url: "https://en.wikipedia.org/wiki/Nokuku_language"
 translations:
+  - translation_iso: ara
+    name: نوكوكو
+    auto: true
   - translation_iso: jpn
     name: ノクク語
     auto: true

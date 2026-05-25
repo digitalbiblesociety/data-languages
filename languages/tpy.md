@@ -12,6 +12,9 @@ longitude: -53.5717
 glottocode: trum1247
 wikipedia_url: "https://en.wikipedia.org/wiki/Trumai_language"
 translations:
+  - translation_iso: ara
+    name: تروماي
+    auto: true
   - translation_iso: jpn
     name: トゥルマイ語
     auto: true

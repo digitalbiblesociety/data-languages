@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Gur > Central Gur > Southern Central Gur > Kaansa-Dogose > Kaansa"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kaansa_language"
 translations:
+  - translation_iso: ara
+    name: كآآنسآ
+    auto: true
   - translation_iso: jpn
     name: カアンサ語
     auto: true

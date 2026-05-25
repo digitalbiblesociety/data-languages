@@ -10,6 +10,9 @@ latitude: 31.4925
 longitude: 78.16268
 wikipedia_url: "https://en.wikipedia.org/wiki/Tukpa_language"
 translations:
+  - translation_iso: ara
+    name: توكبا
+    auto: true
   - translation_iso: hin
     name: तुकपा भाषा
   - translation_iso: jpn

@@ -15,6 +15,9 @@ glottolog_family_name: Otomanguean
 glottolog_classification: "Otomanguean > Eastern Otomanguean > Popoloca-Zapotecan > Zapotecan > Zapotec > Core Zapotec > Narrow Core Zapotec > Northern Core Zapotec > Cajonosic > Yalálag Zapotec"
 wikipedia_url: "https://en.wikipedia.org/wiki/Yal%C3%A1lag_Zapotec"
 translations:
+  - translation_iso: ara
+    name: زابوتيك يالاليغ
+    auto: true
   - translation_iso: jpn
     name: ヤララグ・サポテク語
     auto: true

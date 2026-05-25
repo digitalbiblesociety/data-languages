@@ -15,6 +15,9 @@ glottolog_family_name: Ramu
 glottolog_classification: "Ramu > Lower Ramu > Ruboni > Mikarewan > Sepen"
 wikipedia_url: "https://en.wikipedia.org/wiki/Akukem_language"
 translations:
+  - translation_iso: ara
+    name: اللغة أكوكيم
+    auto: true
   - translation_iso: jpn
     name: アクケム語
     auto: true

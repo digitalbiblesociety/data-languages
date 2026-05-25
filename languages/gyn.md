@@ -15,6 +15,9 @@ glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Germanic > Northwest Germanic > West Germanic > North Sea Germanic > Anglo-Frisian > Anglic > Later Anglic > Middle-Modern English > Macro-English > Guinea Coast Creole English > Caribbean English Creole > Eastern Caribbean Creole > Barbados-Eustatius > Barbados-Trinidad > Guyanese Creole English"
 wikipedia_url: "https://en.wikipedia.org/wiki/Guyanese_Creole"
 translations:
+  - translation_iso: ara
+    name: اللغة الكريول الإنجليزية الغيانية
+    auto: true
   - translation_iso: hin
     name: गयानी क्रेओल
   - translation_iso: jpn

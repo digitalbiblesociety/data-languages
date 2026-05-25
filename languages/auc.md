@@ -12,6 +12,9 @@ longitude: -76.68295
 glottocode: waor1240
 wikipedia_url: "https://en.wikipedia.org/wiki/Waorani_language"
 translations:
+  - translation_iso: ara
+    name: اللغة واورانيه
+    auto: true
   - translation_iso: jpn
     name: ワオラニ語
   - translation_iso: kor

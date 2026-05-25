@@ -15,6 +15,9 @@ glottolog_family_name: Kuliak
 glottolog_classification: "Kuliak > Ngangea-So > Nyang'i"
 wikipedia_url: "https://en.wikipedia.org/wiki/Nyang%27i_language"
 translations:
+  - translation_iso: ara
+    name: "نيانغ'i"
+    auto: true
   - translation_iso: jpn
     name: ニャンギ語
   - translation_iso: zho

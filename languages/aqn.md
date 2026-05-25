@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Northern Luzon > Meso-Cordilleran > Northern Alta"
 wikipedia_url: "https://en.wikipedia.org/wiki/Northern_Alta_language"
 translations:
+  - translation_iso: ara
+    name: اللغة ألتا الشمالية
+    auto: true
   - translation_iso: jpn
     name: 北部アルタ語
     auto: true

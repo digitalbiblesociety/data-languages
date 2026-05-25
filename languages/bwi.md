@@ -15,6 +15,9 @@ glottolog_family_name: Arawakan
 glottolog_classification: "Arawakan > Japura-Colombia > Nuclear Japura-Colombia > Northeast Japura-Colombia > Baniwa-Curripaco-Tariano > Baniwa-Curripaco > Baniwa do Icana"
 wikipedia_url: "https://en.wikipedia.org/wiki/Baniwa_of_I%C3%A7ana"
 translations:
+  - translation_iso: ara
+    name: بانيوا
+    auto: true
   - translation_iso: jpn
     name: バニワ語
   - translation_iso: zho

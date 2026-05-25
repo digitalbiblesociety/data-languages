@@ -15,6 +15,9 @@ glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Brahmaputran > Patkaian > North Patkaian > Tangsa > Pangwa Naga"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tangsa_language"
 translations:
+  - translation_iso: ara
+    name: تاسي ناغا
+    auto: true
   - translation_iso: hin
     name: तंग्सा भाषा
   - translation_iso: jpn

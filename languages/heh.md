@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > East Bantu > Northeast Savanna Bantu > Southern Tanzania Highlands Bantu > Bena-Hehe > Hehe"
 wikipedia_url: "https://en.wikipedia.org/wiki/Hehe_language"
 translations:
+  - translation_iso: ara
+    name: هإهإ
+    auto: true
   - translation_iso: jpn
     name: ヘヘ語
   - translation_iso: zho

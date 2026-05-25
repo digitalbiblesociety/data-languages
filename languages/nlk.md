@@ -14,6 +14,9 @@ glottolog_family_id: nucl1709
 glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Dani > Ngalik-Nduga > Yalic > Ninia Yali"
 translations:
+  - translation_iso: ara
+    name: نينيا يالي
+    auto: true
   - translation_iso: jpn
     name: ニニア・ヤリ語
     auto: true

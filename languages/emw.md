@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Timor-Babar > Southwest Maluku > Babar > South Babar > Southwest Babar > Emplawas"
 wikipedia_url: "https://en.wikipedia.org/wiki/Emplawas_language"
 translations:
+  - translation_iso: ara
+    name: الإمبلاواس
+    auto: true
   - translation_iso: jpn
     name: エムプラワス語
     auto: true

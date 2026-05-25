@@ -14,6 +14,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Greater Central Philippine > Central Philippine > Bisayan > West Bisayan > Aklanon"
 wikipedia_url: "https://en.wikipedia.org/wiki/Aklanon_language"
 translations:
+  - translation_iso: ara
+    name: لغة أكلانون
+    auto: true
   - translation_iso: jpn
     name: アクラノン語
   - translation_iso: kor

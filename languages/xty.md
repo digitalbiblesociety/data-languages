@@ -15,6 +15,9 @@ glottolog_family_name: Otomanguean
 glottolog_classification: "Otomanguean > Eastern Otomanguean > Amuzgo-Mixtecan > Mixtecan > Mixtec-Cuicatec > Mixtec > Guerrero Mixtec > Nuclear Guerrero Mixtec > Southwestern Guerrero Mixtec > Yoloxochitl Mixtec"
 wikipedia_url: "https://en.wikipedia.org/wiki/Yolox%C3%B3chitl_Mixtec"
 translations:
+  - translation_iso: ara
+    name: يولوكسوتشيتل ميكستيك
+    auto: true
   - translation_iso: jpn
     name: ヨロキソチトル・ミステク語
     auto: true

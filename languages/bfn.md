@@ -15,6 +15,9 @@ glottolog_family_name: Timor-Alor-Pantar
 glottolog_classification: "Timor-Alor-Pantar > Bunak"
 wikipedia_url: "https://en.wikipedia.org/wiki/Bunak_language"
 translations:
+  - translation_iso: ara
+    name: بونك
+    auto: true
   - translation_iso: jpn
     name: ブナク語
   - translation_iso: zho

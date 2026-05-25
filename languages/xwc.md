@@ -15,6 +15,9 @@ glottolog_family_name: Siouan
 glottolog_classification: "Siouan > Catawban > Woccon"
 wikipedia_url: "https://en.wikipedia.org/wiki/Woccon_language"
 translations:
+  - translation_iso: ara
+    name: ووكون
+    auto: true
   - translation_iso: jpn
     name: ウォッコン語
     auto: true

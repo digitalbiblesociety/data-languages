@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > Meso Melanesian linkage > Bali-Vitu > Uneapa"
 wikipedia_url: "https://en.wikipedia.org/wiki/Uneapa_language"
 translations:
+  - translation_iso: ara
+    name: اللغة أونيابا
+    auto: true
   - translation_iso: jpn
     name: ウネアパ語
     auto: true

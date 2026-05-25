@@ -14,6 +14,9 @@ glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > South-West Pama-Nyungan > Pilbara > Ngayarda > Northern Ngayarda > Ngarla"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ngarla_language"
 translations:
+  - translation_iso: ara
+    name: نغارلا
+    auto: true
   - translation_iso: jpn
     name: ングアルラ語
     auto: true

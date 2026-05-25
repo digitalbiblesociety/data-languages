@@ -14,6 +14,9 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Gbaya-Manza-Ngbaka > Gbaya Meridional-Occidental > Bokoto-Gbeya > Gbeya > Gbeya-Suma > Suma"
 translations:
+  - translation_iso: ara
+    name: اللغة سوما
+    auto: true
   - translation_iso: jpn
     name: ソウマ語
     auto: true

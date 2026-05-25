@@ -15,6 +15,9 @@ glottolog_family_name: Austroasiatic
 glottolog_classification: "Austroasiatic > Bahnaric > West Bahnaric > Nuclear West Bahnaric > Loven-Suq > Sou"
 wikipedia_url: "https://en.wikipedia.org/wiki/Su%27_language"
 translations:
+  - translation_iso: ara
+    name: اللغة سو
+    auto: true
   - translation_iso: jpn
     name: ソーク語
     auto: true

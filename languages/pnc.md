@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Greater South Sulawesi > South Sulawesi > Northern South Sulawesi > Pitu Ulunna Salu > Pannei"
 wikipedia_url: "https://en.wikipedia.org/wiki/Pannei_language"
 translations:
+  - translation_iso: ara
+    name: اللغة بانّي
+    auto: true
   - translation_iso: jpn
     name: パンネイ語
     auto: true

@@ -15,6 +15,9 @@ glottolog_family_name: Hmong-Mien
 glottolog_classification: "Hmong-Mien > Hmongic > Nuclear Hmongic-Ho Ne > Nuclear Hmongic > West Hmongic > Greater Chuanqiandian > Chuanqiandian > Gha-mu"
 wikipedia_url: "https://en.wikipedia.org/wiki/Gha-Mu_language"
 translations:
+  - translation_iso: ara
+    name: سمول فلاوري ميتاو
+    auto: true
   - translation_iso: jpn
     name: 小花苗語
   - translation_iso: zho

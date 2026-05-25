@@ -15,6 +15,9 @@ glottolog_family_name: Lower Sepik
 glottolog_classification: "Lower Sepik > Karawarian > Yimas"
 wikipedia_url: "https://en.wikipedia.org/wiki/Yimas_language"
 translations:
+  - translation_iso: ara
+    name: ييماس
+    auto: true
   - translation_iso: jpn
     name: イマス語
   - translation_iso: kor

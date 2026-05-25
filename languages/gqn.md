@@ -9,6 +9,9 @@ status_id: "9"
 latitude: -19.16665
 longitude: -54.03332
 translations:
+  - translation_iso: ara
+    name: غوآنآ
+    auto: true
   - translation_iso: jpn
     name: グアナ語
     auto: true

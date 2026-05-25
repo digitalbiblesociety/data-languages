@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Greater Central Philippine > Central Philippine > Alabat-Manide Agta > Alabat Island Agta"
 wikipedia_url: "https://en.wikipedia.org/wiki/Inagta_Alabat_language"
 translations:
+  - translation_iso: ara
+    name: ألابات آيسلاند أجتا
+    auto: true
   - translation_iso: jpn
     name: アラバット島アグタ語
     auto: true

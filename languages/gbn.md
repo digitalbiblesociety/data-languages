@@ -14,6 +14,9 @@ glottolog_family_id: cent2225
 glottolog_family_name: Central Sudanic
 glottolog_classification: "Central Sudanic > Sara-Bongo-Bagirmi > Baka-Beli > Morokodo-Beli > Gberi-Morokodo-Mittu > Mo'da"
 translations:
+  - translation_iso: ara
+    name: مودا
+    auto: true
   - translation_iso: jpn
     name: モダ語
     auto: true

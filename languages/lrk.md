@@ -10,6 +10,9 @@ latitude: 26.095
 longitude: 68.715
 wikipedia_url: "https://en.wikipedia.org/wiki/Loarki_language"
 translations:
+  - translation_iso: ara
+    name: لغة واركي
+    auto: true
   - translation_iso: jpn
     name: ロアルキ語
     auto: true

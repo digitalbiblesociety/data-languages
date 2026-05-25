@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Delta Cross > Central Delta > Abua-Odual > Obulom-Ochichi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Obulom_language"
 translations:
+  - translation_iso: ara
+    name: اللغة أوبولوم
+    auto: true
   - translation_iso: jpn
     name: オブロム語
     auto: true

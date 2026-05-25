@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Delta Cross > Upper Cross > Kiong-Korop > Korop"
 wikipedia_url: "https://en.wikipedia.org/wiki/Korop_language"
 translations:
+  - translation_iso: ara
+    name: كوروب
+    auto: true
   - translation_iso: jpn
     name: コロプ語
     auto: true

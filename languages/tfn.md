@@ -15,6 +15,9 @@ glottolog_family_name: Athabaskan-Eyak-Tlingit
 glottolog_classification: "Athabaskan-Eyak-Tlingit > Athabaskan-Eyak > Athabaskan > Southern Alaskan Athabaskan > Dena'ina"
 wikipedia_url: "https://en.wikipedia.org/wiki/Dena%CA%BCina_language"
 translations:
+  - translation_iso: ara
+    name: تانايناه
+    auto: true
   - translation_iso: jpn
     name: デナッイア語
   - translation_iso: zho

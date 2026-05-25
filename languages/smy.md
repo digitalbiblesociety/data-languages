@@ -15,6 +15,9 @@ glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Iranian-Nuristani > Iranian > Central Iranian PBS > Central Iranian PB > Northwestern Iranian > Semnani-Biyabuneki"
 wikipedia_url: "https://en.wikipedia.org/wiki/Semnani_language"
 translations:
+  - translation_iso: ara
+    name: اللغة السمناني
+    auto: true
   - translation_iso: jpn
     name: セムナーン語
   - translation_iso: zho

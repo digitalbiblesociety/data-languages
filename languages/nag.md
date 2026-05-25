@@ -15,6 +15,9 @@ glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Indo-Aryan > Middle-Modern Indo-Aryan > Continental Indo-Aryan > Indo-Aryan Eastern zone > Oriya-Gauda-Kamrupa > Gauda-Kamrupa > Kamrupa > Eastern Kamrupa > Naga Pidgin"
 wikipedia_url: "https://en.wikipedia.org/wiki/Nagamese_creole"
 translations:
+  - translation_iso: ara
+    name: بيدجن ناجا
+    auto: true
   - translation_iso: hin
     name: नागामी भाषा
   - translation_iso: jpn

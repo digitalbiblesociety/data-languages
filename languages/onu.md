@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > North and Central Vanuatu > Central Vanuatu > Malakula > Eastern Malakula linkage > Central-Southeast Malakula > Unua-Pangkumu > Unua"
 wikipedia_url: "https://en.wikipedia.org/wiki/Unua_language"
 translations:
+  - translation_iso: ara
+    name: اللغة أونوا
+    auto: true
   - translation_iso: jpn
     name: ウヌア語
     auto: true

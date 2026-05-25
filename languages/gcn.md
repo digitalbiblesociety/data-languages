@@ -14,6 +14,9 @@ glottolog_family_id: nucl1709
 glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Greater Binanderean > Binanderean > Nuclear Binanderean > South Binanderean > Coastal Binanderean > Gaena-Korafe > Gaina"
 translations:
+  - translation_iso: ara
+    name: الجاينا
+    auto: true
   - translation_iso: jpn
     name: ガイナ語
     auto: true

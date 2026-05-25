@@ -15,6 +15,9 @@ glottolog_family_name: Uto-Aztecan
 glottolog_classification: "Uto-Aztecan > Northern Uto-Aztecan > Takic > Cupan > Cahuilla-Cupeno > Cahuilla"
 wikipedia_url: "https://en.wikipedia.org/wiki/Cahuilla_language"
 translations:
+  - translation_iso: ara
+    name: الكاهويليا
+    auto: true
   - translation_iso: jpn
     name: カウィラ語
     auto: true

@@ -15,6 +15,9 @@ glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Madang > Croisilles > Mabuso > Kare (Papua New Guinea)"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kare_language_(Papuan)"
 translations:
+  - translation_iso: ara
+    name: لغة كاري
+    auto: true
   - translation_iso: jpn
     name: カレ語
     auto: true

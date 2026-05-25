@@ -15,6 +15,9 @@ glottolog_family_name: Tangkic
 glottolog_classification: "Tangkic > Southern Tangkic > Kayardild-Yangkaal > Kayardild"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kayardild_language"
 translations:
+  - translation_iso: ara
+    name: كآيآرديلد
+    auto: true
   - translation_iso: jpn
     name: ヤンカール語
   - translation_iso: kor

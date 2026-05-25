@@ -12,6 +12,9 @@ longitude: 130.881
 glottocode: kung1259
 wikipedia_url: "https://en.wikipedia.org/wiki/Kungarakany_language"
 translations:
+  - translation_iso: ara
+    name: كونجآرآكآني
+    auto: true
   - translation_iso: jpn
     name: クンガラカニ語
     auto: true

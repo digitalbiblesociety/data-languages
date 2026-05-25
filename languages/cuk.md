@@ -14,6 +14,9 @@ glottolog_family_id: chib1249
 glottolog_family_name: Chibchan
 glottolog_classification: "Chibchan > Core Chibchan > Isthmic Chibchan > Eastern Isthmic Chibchan > Kuna > San Blas Kuna"
 translations:
+  - translation_iso: ara
+    name: سان بلاس كونا
+    auto: true
   - translation_iso: jpn
     name: サンブラス・クナ語
     auto: true

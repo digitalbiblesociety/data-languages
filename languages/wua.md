@@ -15,6 +15,9 @@ glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > Paman > Compromise Middle Pama > Wikngenchera"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kugu_Nganhcara_language"
 translations:
+  - translation_iso: ara
+    name: ويكنغينكهيرا
+    auto: true
   - translation_iso: jpn
     name: ウィクネンチェラ語
     auto: true

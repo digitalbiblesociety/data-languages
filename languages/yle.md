@@ -12,6 +12,9 @@ longitude: 154.12664
 glottocode: yele1255
 wikipedia_url: "https://en.wikipedia.org/wiki/Yele_language"
 translations:
+  - translation_iso: ara
+    name: اللغة يلي
+    auto: true
   - translation_iso: jpn
     name: イェレ語
   - translation_iso: kor

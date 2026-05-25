@@ -13,6 +13,9 @@ glottolog_family_id: sign1238
 glottolog_family_name: Sign Language
 glottolog_classification: "Sign Language > L1 Sign Language > RSLic > Nuclear RSLic > Central RSLic > Moldova Sign Language"
 translations:
+  - translation_iso: ara
+    name: لغة الإشارة مولدوفا
+    auto: true
   - translation_iso: jpn
     name: モルドバ手話
   - translation_iso: zho

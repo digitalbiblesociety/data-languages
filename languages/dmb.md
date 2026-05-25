@@ -15,6 +15,9 @@ glottolog_family_name: Dogon
 glottolog_classification: "Dogon > West Dogon > Penangic > Mombo Dogon"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mombo_Dogon"
 translations:
+  - translation_iso: ara
+    name: مومبو دوجون
+    auto: true
   - translation_iso: jpn
     name: モンボ・ドゴン語
     auto: true

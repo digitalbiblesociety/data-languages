@@ -15,6 +15,9 @@ glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Italic > Unclassified Italic > Lusitanian"
 wikipedia_url: "https://en.wikipedia.org/wiki/Lusitanian_language"
 translations:
+  - translation_iso: ara
+    name: لوسيتانية
+    auto: true
   - translation_iso: jpn
     name: ルシタニア語
   - translation_iso: kor

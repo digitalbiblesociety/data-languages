@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Akpes-Edoid > Edoid > North-Central Edoid > Afenmai-Bendel > Uneme-Yekhee > Uneme"
 wikipedia_url: "https://en.wikipedia.org/wiki/Uneme_language"
 translations:
+  - translation_iso: ara
+    name: أونيمي
+    auto: true
   - translation_iso: jpn
     name: ウネメ・ネクア語
     auto: true

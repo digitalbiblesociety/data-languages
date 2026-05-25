@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Greater Central Philippine > Palawanic-Kalamian > Palawanic > Northern Palawanic > Central Tagbanwa"
 wikipedia_url: "https://en.wikipedia.org/wiki/Central_Tagbanwa_language"
 translations:
+  - translation_iso: ara
+    name: تاغبانوا الوسطى
+    auto: true
   - translation_iso: jpn
     name: タグバヌワ語
   - translation_iso: zho

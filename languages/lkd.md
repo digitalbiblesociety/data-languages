@@ -14,6 +14,9 @@ glottolog_family_id: namb1299
 glottolog_family_name: Nambiquaran
 glottolog_classification: "Nambiquaran > Nambikwara Complex > Northern Nambiquaran > Roosevelt > Lakondê"
 translations:
+  - translation_iso: ara
+    name: لغة اكوند
+    auto: true
   - translation_iso: jpn
     name: ラコンデ語
     auto: true

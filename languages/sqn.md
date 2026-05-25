@@ -15,6 +15,9 @@ glottolog_family_name: Iroquoian
 glottolog_classification: "Iroquoian > Northern Iroquoian > Lake Iroquoian > Greater Iroquois > Iroquois > Susquehannock"
 wikipedia_url: "https://en.wikipedia.org/wiki/Susquehannock_language"
 translations:
+  - translation_iso: ara
+    name: اللغة سوسكويهانوك
+    auto: true
   - translation_iso: hin
     name: सस्केहनॉक भाषा
   - translation_iso: jpn

@@ -14,6 +14,9 @@ glottolog_family_id: chib1249
 glottolog_family_name: Chibchan
 glottolog_classification: "Chibchan > Core Chibchan > Isthmic Chibchan > Eastern Isthmic Chibchan > Kuna > Border Kuna"
 translations:
+  - translation_iso: ara
+    name: كونا الحدية
+    auto: true
   - translation_iso: jpn
     name: ボーダー・クナ語
     auto: true

@@ -12,6 +12,9 @@ glottolog_family_name: Unattested
 glottolog_classification: "Unattested > Mangarrayi-Maran (Unattested) > Yugul"
 wikipedia_url: "https://en.wikipedia.org/wiki/Yugul_language"
 translations:
+  - translation_iso: ara
+    name: يوجول
+    auto: true
   - translation_iso: jpn
     name: ユグル語
     auto: true

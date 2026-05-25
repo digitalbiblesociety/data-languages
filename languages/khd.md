@@ -14,6 +14,9 @@ glottolog_family_id: more1255
 glottolog_family_name: Yam
 glottolog_classification: "Yam > Kanum > Ngkrn-Ngkantr > Ngkantr > Ngkontar Baedi"
 translations:
+  - translation_iso: ara
+    name: لغة بيدي كانوم
+    auto: true
   - translation_iso: jpn
     name: バディ・カヌム語
     auto: true

@@ -14,6 +14,9 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > North Borneo Malayo-Polynesian > North Sarawakan > Kenyahic > Lowland Kenyah > Western Lowland Kenyah-Penan > Penan > Western Penan-Sebop > Western Penan"
 translations:
+  - translation_iso: ara
+    name: اللغة بينان الغربية
+    auto: true
   - translation_iso: jpn
     name: 西ペナン語
     auto: true

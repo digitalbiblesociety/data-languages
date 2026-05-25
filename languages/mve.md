@@ -14,6 +14,9 @@ glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Indo-Aryan > Middle-Modern Indo-Aryan > Continental Indo-Aryan > Midlands Indo-Aryan > Apabhramsic > Gujarati-Rajasthani > Rajasthani > Western Rajasthani > Indus Rajasthani > Marwari (Pakistan)"
 translations:
+  - translation_iso: ara
+    name: لغة ماروري (باكستان)
+    auto: true
   - translation_iso: jpn
     name: マールワーリー語
   - translation_iso: zho

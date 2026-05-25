@@ -15,6 +15,9 @@ glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Madang > Rai Coast > Nuru > Duduela"
 wikipedia_url: "https://en.wikipedia.org/wiki/Duduela_language"
 translations:
+  - translation_iso: ara
+    name: أويجيتايا
+    auto: true
   - translation_iso: jpn
     name: ウヤジタヤ語
     auto: true

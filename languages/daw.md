@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Greater Central Philippine > Central Philippine > Mansakan > Davawenyo"
 wikipedia_url: "https://en.wikipedia.org/wiki/Davaoe%C3%B1o_language"
 translations:
+  - translation_iso: ara
+    name: داوافينيو
+    auto: true
   - translation_iso: jpn
     name: ダバウェニョ語
     auto: true

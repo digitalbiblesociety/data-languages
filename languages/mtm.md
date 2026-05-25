@@ -15,6 +15,9 @@ glottolog_family_name: Uralic
 glottolog_classification: "Uralic > Samoyedic > Mator-Taigi-Karagas"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mator_language"
 translations:
+  - translation_iso: ara
+    name: لغة ماتور
+    auto: true
   - translation_iso: jpn
     name: マトル語
   - translation_iso: kor

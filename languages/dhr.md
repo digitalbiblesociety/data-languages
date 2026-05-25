@@ -14,6 +14,9 @@ glottolog_family_id: pama1250
 glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > South-West Pama-Nyungan > Pilbara > Mantharta > Wariyangga-Dhargari > Dhargari"
 translations:
+  - translation_iso: ara
+    name: دارجاري
+    auto: true
   - translation_iso: jpn
     name: ダルガリ語
     auto: true

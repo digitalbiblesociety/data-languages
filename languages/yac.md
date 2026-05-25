@@ -14,6 +14,9 @@ glottolog_family_id: nucl1709
 glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Dani > Ngalik-Nduga > Yalic > Pass Valley Yali"
 translations:
+  - translation_iso: ara
+    name: باس فالي يالي
+    auto: true
   - translation_iso: jpn
     name: パスバレー・ヤリ語
     auto: true

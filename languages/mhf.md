@@ -15,6 +15,9 @@ glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Finisterre-Huon > Finisterre-Saruwaged > Erap > Finungwan-Mamaa-Gusan > Mamaa"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mamaa_language"
 translations:
+  - translation_iso: ara
+    name: لغة ماما
+    auto: true
   - translation_iso: jpn
     name: ママア語
     auto: true

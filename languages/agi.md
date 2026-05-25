@@ -15,6 +15,9 @@ glottolog_family_name: Unattested
 glottolog_classification: "Unattested > Dravidian (Unattested) > Agariya"
 wikipedia_url: "https://en.wikipedia.org/wiki/Agariya_language"
 translations:
+  - translation_iso: ara
+    name: لغة أغارييا
+    auto: true
   - translation_iso: jpn
     name: アガリア語
   - translation_iso: zho

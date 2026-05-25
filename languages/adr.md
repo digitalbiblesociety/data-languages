@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Bima-Lembata > Flores > Flores-Lembata > Lamaholot Barat > North Lembata-Adonara > Adonara"
 wikipedia_url: "https://en.wikipedia.org/wiki/Adonara_language"
 translations:
+  - translation_iso: ara
+    name: لغة أدونارا
+    auto: true
   - translation_iso: jpn
     name: アドナラ語
     auto: true

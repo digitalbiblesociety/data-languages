@@ -14,6 +14,9 @@ glottolog_family_name: Ramu
 glottolog_classification: "Ramu > Lower Ramu > Ottilien > Bosngun-Awar > Awar"
 wikipedia_url: "https://en.wikipedia.org/wiki/Awar_language"
 translations:
+  - translation_iso: ara
+    name: اللغة أوار
+    auto: true
   - translation_iso: jpn
     name: アワル語
     auto: true

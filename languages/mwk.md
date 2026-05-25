@@ -16,6 +16,9 @@ glottolog_family_name: Mande
 glottolog_classification: "Mande > Western Mande > Manding-Kpelle > Central Mande > Manding-Jogo > Manding-Vai > Manding-Mokole > Manding > West Manding > Kita-Kagoro > Kita Maninkakan"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kita_Maninka_language"
 translations:
+  - translation_iso: ara
+    name: لغة مانينكاكان كيتا
+    auto: true
   - translation_iso: jpn
     name: キタ・マリンカカン語
   - translation_iso: zho

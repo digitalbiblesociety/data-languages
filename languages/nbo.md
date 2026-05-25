@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Delta Cross > Upper Cross > Central Upper Cross > East-West Central Delta Cross > Lokoic > Lubila-Lokaa > Nkukoli"
 wikipedia_url: "https://en.wikipedia.org/wiki/Nkukoli_language"
 translations:
+  - translation_iso: ara
+    name: نكوكولي
+    auto: true
   - translation_iso: jpn
     name: ングクコリ語
     auto: true

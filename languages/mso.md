@@ -15,6 +15,9 @@ glottolog_family_name: Mombum-Koneraw
 glottolog_classification: "Mombum-Koneraw > Mombum"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mombum_language"
 translations:
+  - translation_iso: ara
+    name: لغة موبوم
+    auto: true
   - translation_iso: jpn
     name: モンブム語
     auto: true

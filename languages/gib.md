@@ -14,6 +14,9 @@ glottolog_family_id: pidg1258
 glottolog_family_name: Pidgin
 glottolog_classification: "Pidgin > Hausa-based pidgin > Gibanawa"
 translations:
+  - translation_iso: ara
+    name: غيبآنآوآ
+    auto: true
   - translation_iso: jpn
     name: ギバナワ語
     auto: true

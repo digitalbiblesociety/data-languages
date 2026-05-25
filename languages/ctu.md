@@ -15,6 +15,9 @@ glottolog_family_name: Mayan
 glottolog_classification: "Mayan > Core Mayan > Western Mayan > Cholan-Tzeltalan > Cholan > Chol-Chontal > Chol"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ch%CA%BCol_language"
 translations:
+  - translation_iso: ara
+    name: الشول
+    auto: true
   - translation_iso: jpn
     name: チョル語
   - translation_iso: kor

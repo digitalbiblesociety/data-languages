@@ -15,6 +15,9 @@ glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Burmo-Qiangic > Lolo-Burmese > Loloish > Ni-Li-Kazhouish > Lisoid > Lipo-Lolopo > Lolopo"
 wikipedia_url: "https://en.wikipedia.org/wiki/Lolopo_language"
 translations:
+  - translation_iso: ara
+    name: لوللوبو
+    auto: true
   - translation_iso: jpn
     name: リポ語
   - translation_iso: zho

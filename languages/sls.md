@@ -10,6 +10,9 @@ latitude: 1.33069
 longitude: 103.86376
 wikipedia_url: "https://en.wikipedia.org/wiki/Singapore_Sign_Language"
 translations:
+  - translation_iso: ara
+    name: اللغة الإشارة السنغافورية
+    auto: true
   - translation_iso: jpn
     name: シンガポール手話
   - translation_iso: zho

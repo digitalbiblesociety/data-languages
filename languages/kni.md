@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Benue-Congo Plateau > Ninzic > Kanufi-Ninkyob-Angan > Kanufi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kanufi_language"
 translations:
+  - translation_iso: ara
+    name: لغة كانوفي
+    auto: true
   - translation_iso: jpn
     name: カヌフィ語
     auto: true

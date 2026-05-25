@@ -15,6 +15,9 @@ glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Indo-Aryan > Middle-Modern Indo-Aryan > Continental Indo-Aryan > Midlands Indo-Aryan > Indo-Aryan Northern zone > Eastern Pahari > Dotyali"
 wikipedia_url: "https://en.wikipedia.org/wiki/Doteli"
 translations:
+  - translation_iso: ara
+    name: دوتيالي
+    auto: true
   - translation_iso: hin
     name: डोटेली भाषा
   - translation_iso: jpn

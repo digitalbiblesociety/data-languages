@@ -15,6 +15,9 @@ glottolog_family_name: Quechuan
 glottolog_classification: "Quechuan > Classical Quechua"
 wikipedia_url: "https://en.wikipedia.org/wiki/Classical_Quechua"
 translations:
+  - translation_iso: ara
+    name: اللغة كويتشوا الكلاسيكية
+    auto: true
   - translation_iso: jpn
     name: 古ケチュア語
   - translation_iso: zho

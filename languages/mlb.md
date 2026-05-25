@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > Mbam-Bubi > Mbam > Nuclear Mbam > Bati-Mbure-Yambassa > Mbure-Yambassa > Mbule"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mbule_language"
 translations:
+  - translation_iso: ara
+    name: لغة مبول
+    auto: true
   - translation_iso: jpn
     name: ムブレ語
     auto: true

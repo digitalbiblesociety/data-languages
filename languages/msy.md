@@ -15,6 +15,9 @@ glottolog_family_name: Ramu
 glottolog_classification: "Ramu > Lower Ramu > Ruboni > Mikarewan > Aruamu"
 wikipedia_url: "https://en.wikipedia.org/wiki/Aruamu_language"
 translations:
+  - translation_iso: ara
+    name: لغة أروامو
+    auto: true
   - translation_iso: jpn
     name: アルアム語
     auto: true

@@ -14,6 +14,9 @@ glottolog_family_id: tara1323
 glottolog_family_name: Tarascan
 glottolog_classification: "Tarascan > Western Highland Purepecha"
 translations:
+  - translation_iso: ara
+    name: لغة بوريبيتشا الجبلية الغربية
+    auto: true
   - translation_iso: jpn
     name: 西高地プレペチャ語
     auto: true

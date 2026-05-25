@@ -15,6 +15,9 @@ glottolog_family_name: Chumashan
 glottolog_classification: "Chumashan > Southern Chumashan > Central Chumashan > Ineseño"
 wikipedia_url: "https://en.wikipedia.org/wiki/Inese%C3%B1o_language"
 translations:
+  - translation_iso: ara
+    name: إينيسينو
+    auto: true
   - translation_iso: jpn
     name: イネセーニョ語
     auto: true

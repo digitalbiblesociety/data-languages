@@ -15,6 +15,9 @@ glottolog_family_name: Nilotic
 glottolog_classification: "Nilotic > Western Nilotic > Burun > Northern Burun"
 wikipedia_url: "https://en.wikipedia.org/wiki/Burun_language"
 translations:
+  - translation_iso: ara
+    name: اللغة بوران
+    auto: true
   - translation_iso: jpn
     name: ブルン語
   - translation_iso: zho

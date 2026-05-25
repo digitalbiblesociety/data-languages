@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Cameroun-Ubangian > Baa"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kwah_language"
 translations:
+  - translation_iso: ara
+    name: كوا
+    auto: true
   - translation_iso: jpn
     name: クワ語
     auto: true

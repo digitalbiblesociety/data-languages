@@ -15,6 +15,9 @@ glottolog_family_name: Teberan
 glottolog_classification: "Teberan > Folopa"
 wikipedia_url: "https://en.wikipedia.org/wiki/Folopa_language"
 translations:
+  - translation_iso: ara
+    name: اللغة فولوبا
+    auto: true
   - translation_iso: jpn
     name: フォロパ語
   - translation_iso: zho

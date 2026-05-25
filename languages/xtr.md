@@ -9,6 +9,9 @@ country_name: India
 status_id: null
 wikipedia_url: "https://en.wikipedia.org/wiki/Early_Tripuri_language"
 translations:
+  - translation_iso: ara
+    name: تريبوري المبكرة
+    auto: true
   - translation_iso: jpn
     name: 初期トリプリ語
     auto: true

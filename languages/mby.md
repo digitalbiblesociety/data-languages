@@ -15,6 +15,9 @@ glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Indo-Aryan > Middle-Modern Indo-Aryan > Continental Indo-Aryan > Indo-Aryan Northwestern zone > Sindhi-Lahnda > Sindhic > Unclassified Sindhic > Memoni"
 wikipedia_url: "https://en.wikipedia.org/wiki/Memoni_language"
 translations:
+  - translation_iso: ara
+    name: لغة ممونية
+    auto: true
   - translation_iso: jpn
     name: メモニ語
     auto: true

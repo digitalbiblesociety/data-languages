@@ -14,6 +14,9 @@ glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Madang > Croisilles > Mabuso > Kokon > Kein"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kein_language"
 translations:
+  - translation_iso: ara
+    name: كين
+    auto: true
   - translation_iso: jpn
     name: ケイン語
     auto: true

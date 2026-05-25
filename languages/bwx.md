@@ -15,6 +15,9 @@ glottolog_family_name: Hmong-Mien
 glottolog_classification: "Hmong-Mien > Hmongic > Nuclear Hmongic-Ho Ne > Nuclear Hmongic > West Hmongic > Bu-Nao-Bunu > Bunu"
 wikipedia_url: "https://en.wikipedia.org/wiki/Bu%E2%80%93Nao_languages"
 translations:
+  - translation_iso: ara
+    name: بو-ناو بونو
+    auto: true
   - translation_iso: jpn
     name: プヌ語
   - translation_iso: zho

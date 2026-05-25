@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > North Borneo Malayo-Polynesian > Sabahan > Southwest Sabahan > Greater Murutic > Tatana"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tatana_language"
 translations:
+  - translation_iso: ara
+    name: تاتانا
+    auto: true
   - translation_iso: jpn
     name: タタナ語
   - translation_iso: zho

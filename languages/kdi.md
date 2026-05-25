@@ -15,6 +15,9 @@ glottolog_family_name: Nilotic
 glottolog_classification: "Nilotic > Western Nilotic > Lwoo > Southern Lwoo > Lango-Kumam > Kumam"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kumam_dialect"
 translations:
+  - translation_iso: ara
+    name: لغة كومام
+    auto: true
   - translation_iso: jpn
     name: クマム語
   - translation_iso: zho

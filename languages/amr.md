@@ -15,6 +15,9 @@ glottolog_family_name: Harakmbut
 glottolog_classification: "Harakmbut > Amarakaeri"
 wikipedia_url: "https://en.wikipedia.org/wiki/Amarakaeri_language"
 translations:
+  - translation_iso: ara
+    name: لغة أراتبوتين هوا
+    auto: true
   - translation_iso: jpn
     name: アラトブテン・フアア語
     auto: true

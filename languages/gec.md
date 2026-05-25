@@ -14,6 +14,9 @@ glottolog_family_id: krua1234
 glottolog_family_name: Kru
 glottolog_classification: "Kru > Greater Western Kru > Western Kru > Grebo-Aizi > Grebo > Liberian Grebo > North-Central Liberian Grebo > Barclayville-Gboloo-Central Liberian Grebo > Gboloo-Central Grebo > Gboloo Grebo"
 translations:
+  - translation_iso: ara
+    name: جبولو جريبو
+    auto: true
   - translation_iso: jpn
     name: ボロー・グレボ語
     auto: true

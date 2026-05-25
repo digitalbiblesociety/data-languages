@@ -14,6 +14,9 @@ glottolog_family_name: Uto-Aztecan
 glottolog_classification: "Uto-Aztecan > Northern Uto-Aztecan > Takic > Serran > Tongva"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tongva_language"
 translations:
+  - translation_iso: ara
+    name: غابرييلينوفيرنانديو
+    auto: true
   - translation_iso: jpn
     name: ガブリエリーノ語
   - translation_iso: zho

@@ -14,6 +14,9 @@ glottolog_family_id: worr1236
 glottolog_family_name: Worrorran
 glottolog_classification: "Worrorran > Northern Worrorran > Forrest River > Kwini"
 translations:
+  - translation_iso: ara
+    name: كويني
+    auto: true
   - translation_iso: jpn
     name: クイニ語
     auto: true

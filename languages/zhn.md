@@ -15,6 +15,9 @@ glottolog_family_name: Tai-Kadai
 glottolog_classification: "Tai-Kadai > Kam-Tai > Daic-Beic > Daic > Central-Southwestern Tai > Debao-Jingxi-Nung > Nong Zhuang"
 wikipedia_url: "https://en.wikipedia.org/wiki/Nong_Zhuang_language"
 translations:
+  - translation_iso: ara
+    name: لغة نونغ زوانغ
+    auto: true
   - translation_iso: jpn
     name: 硯広チワン語
   - translation_iso: zho

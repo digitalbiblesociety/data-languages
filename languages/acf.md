@@ -15,6 +15,9 @@ glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Italic > Latino-Faliscan > Latinic > Imperial Latin > Romance > Italo-Western Romance > Western Romance > Shifted Western Romance > Northwestern Shifted Romance > Gallo-Rhaetian > Oil > Central Oil > Macro-French > Circum-Caribbean French > Lesser Antillean French Creole > Saint Lucian Creole French"
 wikipedia_url: "https://en.wikipedia.org/wiki/Saint_Lucian_Creole"
 translations:
+  - translation_iso: ara
+    name: لغة سان لوسيان كريول فرنش
+    auto: true
   - translation_iso: jpn
     name: セントルシア・クレオール
   - translation_iso: kor

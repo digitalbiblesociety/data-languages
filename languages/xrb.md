@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Senufo > Karaboro > Eastern Karaboro"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kar_language"
 translations:
+  - translation_iso: ara
+    name: كارابورو الشرقية
+    auto: true
   - translation_iso: jpn
     name: 東カラボロ語
     auto: true

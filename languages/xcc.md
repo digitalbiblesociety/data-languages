@@ -13,6 +13,9 @@ glottolog_family_name: Unclassifiable
 glottolog_classification: "Unclassifiable > Camunic"
 wikipedia_url: "https://en.wikipedia.org/wiki/Camunic_language"
 translations:
+  - translation_iso: ara
+    name: كامونيك
+    auto: true
   - translation_iso: jpn
     name: カムニック語
   - translation_iso: zho

@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Timor-Babar > Eastern Timor > Central Timoric A > Habu"
 wikipedia_url: "https://en.wikipedia.org/wiki/Habun_language"
 translations:
+  - translation_iso: ara
+    name: هآبو
+    auto: true
   - translation_iso: jpn
     name: ハブン語
   - translation_iso: zho

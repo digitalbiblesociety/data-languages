@@ -15,6 +15,9 @@ glottolog_family_name: Sentanic
 glottolog_classification: "Sentanic > Demta"
 wikipedia_url: "https://en.wikipedia.org/wiki/Demta_language"
 translations:
+  - translation_iso: ara
+    name: ديمتا
+    auto: true
   - translation_iso: jpn
     name: デムタ語
     auto: true

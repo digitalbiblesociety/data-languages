@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > Central-Western Bantu > North Zaire River > Rivers Bantu > Ngiri > Ngiri Terrien > Ngombe-Ababuan > Ababuan > Old Bomokandian > Ngbele-Ngenda > Ngendan > Unclassified Ngendan > Bodo (Central African Republic)"
 wikipedia_url: "https://en.wikipedia.org/wiki/Bodo_language_(Bantu)"
 translations:
+  - translation_iso: ara
+    name: بودو
+    auto: true
   - translation_iso: jpn
     name: ボド語
     auto: true

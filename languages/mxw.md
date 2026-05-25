@@ -15,6 +15,9 @@ glottolog_family_name: Yam
 glottolog_classification: "Yam > Morehead-Maro > Nambu > Namo-Len > Namo"
 wikipedia_url: "https://en.wikipedia.org/wiki/Namo_language"
 translations:
+  - translation_iso: ara
+    name: نامو
+    auto: true
   - translation_iso: jpn
     name: ナモ語
     auto: true

@@ -10,6 +10,9 @@ latitude: 20.64417
 longitude: 100.90354
 wikipedia_url: "https://en.wikipedia.org/wiki/Con_language"
 translations:
+  - translation_iso: ara
+    name: الكون
+    auto: true
   - translation_iso: jpn
     name: コン語
     auto: true

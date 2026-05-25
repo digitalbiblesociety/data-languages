@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > North New Guinea linkage > Huon Gulf > North Huon Gulf linkage > Yabem"
 wikipedia_url: "https://en.wikipedia.org/wiki/Yabem_language"
 translations:
+  - translation_iso: ara
+    name: لغة يابيم
+    auto: true
   - translation_iso: jpn
     name: ヤベム語
   - translation_iso: zho

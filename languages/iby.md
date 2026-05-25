@@ -14,6 +14,9 @@ glottolog_family_id: ijoi1239
 glottolog_family_name: Ijoid
 glottolog_classification: "Ijoid > Ijo > Eastern Ijo > Nikio > Kio Ijo > Ibani"
 translations:
+  - translation_iso: ara
+    name: إيباني
+    auto: true
   - translation_iso: jpn
     name: イバニ語
     auto: true

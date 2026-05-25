@@ -15,6 +15,9 @@ glottolog_family_name: Algic
 glottolog_classification: "Algic > Algonquian-Blackfoot > Algonquian > Cree-Montagnais-Naskapi > Cree > Woods Cree"
 wikipedia_url: "https://en.wikipedia.org/wiki/Woods_Cree"
 translations:
+  - translation_iso: ara
+    name: الكري الغابات
+    auto: true
   - translation_iso: jpn
     name: 森林クリー語
   - translation_iso: zho

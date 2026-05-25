@@ -15,6 +15,9 @@ glottolog_family_name: Chocoan
 glottolog_classification: "Chocoan > Embera > San Juan > Epena"
 wikipedia_url: "https://en.wikipedia.org/wiki/Eperara_language"
 translations:
+  - translation_iso: ara
+    name: اللغة إيبينا
+    auto: true
   - translation_iso: jpn
     name: サイジャ語
     auto: true

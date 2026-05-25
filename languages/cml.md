@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Greater South Sulawesi > South Sulawesi > Tamanic-Bugis > Bugis > Campalagian"
 wikipedia_url: "https://en.wikipedia.org/wiki/Campalagian_language"
 translations:
+  - translation_iso: ara
+    name: الكامبالاغيان
+    auto: true
   - translation_iso: jpn
     name: カンパラギアン語
     auto: true

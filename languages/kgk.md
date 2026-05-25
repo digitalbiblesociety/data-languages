@@ -15,6 +15,9 @@ glottolog_family_name: Tupian
 glottolog_classification: "Tupian > Eastern Tupian > Maweti-Guarani > Aweti-Guarani > Tupi-Guarani > Southern Tupi-Guarani > Tupi-Guarani Subgroup I > Tupi-Guarani Subgroup I.A > Paraguay-Brazil Guarani > Kaiowa > Kaiwá"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kaiw%C3%A1_language"
 translations:
+  - translation_iso: ara
+    name: لغة كايوا
+    auto: true
   - translation_iso: jpn
     name: カイワ語
   - translation_iso: zho

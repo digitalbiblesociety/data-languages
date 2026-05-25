@@ -9,6 +9,9 @@ country_name: United Kingdom
 status_id: null
 wikipedia_url: "https://en.wikipedia.org/wiki/Middle_Cornish"
 translations:
+  - translation_iso: ara
+    name: الكورنية الوسطى
+    auto: true
   - translation_iso: jpn
     name: コーニッシュ語
     auto: true

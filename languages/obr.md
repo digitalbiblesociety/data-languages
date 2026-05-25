@@ -15,6 +15,9 @@ glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Burmo-Qiangic > Lolo-Burmese > Burmish > Southern Burmish > Mranmaic > Nuclear Mranmaic > Old Burmese"
 wikipedia_url: "https://en.wikipedia.org/wiki/Old_Burmese"
 translations:
+  - translation_iso: ara
+    name: اللغة البورمية القديمة
+    auto: true
   - translation_iso: jpn
     name: 古ビルマ語
   - translation_iso: zho

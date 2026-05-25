@@ -8,6 +8,9 @@ country_name: Hungary
 status_id: null
 wikipedia_url: "https://en.wikipedia.org/wiki/Jassic_dialect"
 translations:
+  - translation_iso: ara
+    name: اللغة ياسيك
+    auto: true
   - translation_iso: jpn
     name: ヤッシック語
     auto: true

@@ -15,6 +15,9 @@ glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Himalayish > Mahakiranti > Kiranti > Upper Dudhkosi > Dumi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Dumi_language"
 translations:
+  - translation_iso: ara
+    name: دومي
+    auto: true
   - translation_iso: jpn
     name: ドゥミー語
   - translation_iso: zho

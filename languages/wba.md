@@ -12,6 +12,9 @@ longitude: -59.352763
 glottocode: wara1303
 wikipedia_url: "https://en.wikipedia.org/wiki/Warao_language"
 translations:
+  - translation_iso: ara
+    name: وراو
+    auto: true
   - translation_iso: jpn
     name: ワラオ語
   - translation_iso: kor

@@ -14,6 +14,9 @@ glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Macro-Bai > Baic > Northern Bai"
 translations:
+  - translation_iso: ara
+    name: بانيي باي
+    auto: true
   - translation_iso: jpn
     name: パニ・バイ語
     auto: true

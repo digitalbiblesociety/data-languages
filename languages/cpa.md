@@ -15,6 +15,9 @@ glottolog_family_name: Otomanguean
 glottolog_classification: "Otomanguean > Western Otomanguean > Otopame-Chinantecan > Chinantecan > Central-Eastern Chinantec > Northwestern Chinantec > Chinantec Group II > Palantla Chinantec"
 wikipedia_url: "https://en.wikipedia.org/wiki/Palantla_Chinantec"
 translations:
+  - translation_iso: ara
+    name: بالانتلا تشينانتك
+    auto: true
   - translation_iso: jpn
     name: パランラ・チナンテク語
     auto: true

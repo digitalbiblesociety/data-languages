@@ -14,6 +14,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Greater Central Philippine > Central Philippine > Bisayan > South Bisayan > Surigao > Surigaonon"
 wikipedia_url: "https://en.wikipedia.org/wiki/Surigaonon_language"
 translations:
+  - translation_iso: ara
+    name: سوريجاونون
+    auto: true
   - translation_iso: jpn
     name: スリガオノン語
   - translation_iso: kor

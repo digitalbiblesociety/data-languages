@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > Central-Western Bantu > North Zaire River > Rivers Bantu > Ngiri > Ngiri Terrien > Ngombe-Ababuan > Ngombe-Genja > Ngombe (Democratic Republic of Congo)"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ngombe_language"
 translations:
+  - translation_iso: ara
+    name: نجومبي
+    auto: true
   - translation_iso: jpn
     name: ンゴンベ語
   - translation_iso: zho

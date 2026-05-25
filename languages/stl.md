@@ -10,6 +10,9 @@ latitude: 52.89329
 longitude: 6.09112
 wikipedia_url: "https://en.wikipedia.org/wiki/Stellingwarfs_dialect"
 translations:
+  - translation_iso: ara
+    name: اللغة ستيلينغويرفس
+    auto: true
   - translation_iso: jpn
     name: ステリングワルフス語
     auto: true

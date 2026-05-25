@@ -13,6 +13,9 @@ glottolog_family_name: Artificial Language
 glottolog_classification: "Artificial Language > Kotava"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kotava"
 translations:
+  - translation_iso: ara
+    name: اللغة كوتافا
+    auto: true
   - translation_iso: jpn
     name: コタヴァ
   - translation_iso: kor

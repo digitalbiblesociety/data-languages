@@ -12,6 +12,9 @@ longitude: 151.89079
 glottocode: sulk1246
 wikipedia_url: "https://en.wikipedia.org/wiki/Sulka_language"
 translations:
+  - translation_iso: ara
+    name: اللغة سولكا
+    auto: true
   - translation_iso: jpn
     name: スルカ語
   - translation_iso: zho

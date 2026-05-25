@@ -15,6 +15,9 @@ glottolog_family_name: Dizoid
 glottolog_classification: "Dizoid > Sheko"
 wikipedia_url: "https://en.wikipedia.org/wiki/Sheko_language"
 translations:
+  - translation_iso: ara
+    name: اللغة الشيكو
+    auto: true
   - translation_iso: jpn
     name: シャック語
     auto: true

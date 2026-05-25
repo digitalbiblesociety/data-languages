@@ -16,6 +16,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Timor-Babar > Rote-Meto > West Rote > Dengka-Meto > Meto > Central Meto > Uab Meto"
 wikipedia_url: "https://en.wikipedia.org/wiki/Uab_Meto_language"
 translations:
+  - translation_iso: ara
+    name: اللغة أواب ميتو
+    auto: true
   - translation_iso: jpn
     name: ウアブ・メト語
   - translation_iso: kor

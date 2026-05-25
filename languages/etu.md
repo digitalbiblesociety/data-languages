@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Ekoid-Mbe > Ekoid > Bakor-Ejagham > Ejagham"
 wikipedia_url: "https://en.wikipedia.org/wiki/Jagham_language"
 translations:
+  - translation_iso: ara
+    name: الإجاغام
+    auto: true
   - translation_iso: jpn
     name: エコイ語
   - translation_iso: zho

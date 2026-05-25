@@ -12,6 +12,9 @@ longitude: -75.42107
 glottocode: urar1246
 wikipedia_url: "https://en.wikipedia.org/wiki/Urarina_language"
 translations:
+  - translation_iso: ara
+    name: أورارينا
+    auto: true
   - translation_iso: jpn
     name: ウラリナ語
   - translation_iso: zho

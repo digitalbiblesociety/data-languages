@@ -15,6 +15,9 @@ glottolog_family_name: Tucanoan
 glottolog_classification: "Tucanoan > Eastern Tucanoan > Western Eastern Tucanoan > Cubeo-Desano > Yupua-Siriano-Desano > Siriano-Desano > Siriano"
 wikipedia_url: "https://en.wikipedia.org/wiki/Siriano_language"
 translations:
+  - translation_iso: ara
+    name: اللغة سيريانو
+    auto: true
   - translation_iso: jpn
     name: スレーヤ語
     auto: true

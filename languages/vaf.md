@@ -15,6 +15,9 @@ glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Iranian-Nuristani > Iranian > Central Iranian PBS > Central Iranian PB > Northwestern Iranian > Adharic > Tatic > Southern Tatic > Vafsic > Vafsi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Vafsi_dialect"
 translations:
+  - translation_iso: ara
+    name: فافسي
+    auto: true
   - translation_iso: jpn
     name: ヴァフスィ語
     auto: true

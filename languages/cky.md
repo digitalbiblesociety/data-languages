@@ -15,6 +15,9 @@ glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > West Chadic > West Chadic A > West Chadic A.2-3 > West Chadic A.3 > Kofyar-Mushere-Chip > Cakfem-Mushere"
 wikipedia_url: "https://en.wikipedia.org/wiki/Cakfem-Mushere_language"
 translations:
+  - translation_iso: ara
+    name: الكاكفم-موشيري
+    auto: true
   - translation_iso: jpn
     name: カクフェム・ムシェレ語
     auto: true

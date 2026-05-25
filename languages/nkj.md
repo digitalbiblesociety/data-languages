@@ -15,6 +15,9 @@ glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Asmat-Awyu-Ok > Awyu-Ok > Ok-Oksapmin > Ok > Tangko-Nakai > Nakai"
 wikipedia_url: "https://en.wikipedia.org/wiki/Nakai_language"
 translations:
+  - translation_iso: ara
+    name: ناكاي
+    auto: true
   - translation_iso: jpn
     name: ナカイ語
     auto: true

@@ -15,6 +15,9 @@ glottolog_family_name: Kwomtari-Nai
 glottolog_classification: "Kwomtari-Nai > Nai"
 wikipedia_url: "https://en.wikipedia.org/wiki/Nai_language"
 translations:
+  - translation_iso: ara
+    name: ناي
+    auto: true
   - translation_iso: jpn
     name: ナイ語
   - translation_iso: zho

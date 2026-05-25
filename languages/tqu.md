@@ -12,6 +12,9 @@ longitude: 157.29578
 glottocode: touo1238
 wikipedia_url: "https://en.wikipedia.org/wiki/Touo_language"
 translations:
+  - translation_iso: ara
+    name: توو
+    auto: true
   - translation_iso: jpn
     name: ムバニアタ語
   - translation_iso: zho

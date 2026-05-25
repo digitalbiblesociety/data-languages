@@ -16,6 +16,9 @@ glottolog_family_name: Quechuan
 glottolog_classification: "Quechuan > Colombia-Ecuador Quechua > Ecuadorian Quechua A > Bolivar-North Chimborazo Highland Quichua"
 wikipedia_url: "https://en.wikipedia.org/wiki/Chimborazo_Highland_Quichua"
 translations:
+  - translation_iso: ara
+    name: اللغة كيتشوا تشيمبوراسو الجبلية
+    auto: true
   - translation_iso: jpn
     name: チンボラソ高地ケチュア語
   - translation_iso: zho

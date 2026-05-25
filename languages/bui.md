@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > Central-Western Bantu > North Zaire River > Rivers Bantu > Likouala-Sangha > Mokiba-Ngando > Bongili"
 wikipedia_url: "https://en.wikipedia.org/wiki/Bongili_language"
 translations:
+  - translation_iso: ara
+    name: بونْجيلي
+    auto: true
   - translation_iso: jpn
     name: ボンギリ語
   - translation_iso: zho

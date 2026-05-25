@@ -15,6 +15,9 @@ glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Indo-Aryan > Middle-Modern Indo-Aryan > Eastern Dardic > Himachali > Kangric-Chamealic-Bhattiyali > Chamealic > Gaddi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Gaddi_language"
 translations:
+  - translation_iso: ara
+    name: الجادي
+    auto: true
   - translation_iso: hin
     name: गदी
   - translation_iso: jpn

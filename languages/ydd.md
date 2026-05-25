@@ -15,6 +15,9 @@ glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Germanic > Northwest Germanic > West Germanic > High German > Middle German > East Middle German > Schlesisch-Wilmesau > Eastern Yiddish"
 wikipedia_url: "https://en.wikipedia.org/wiki/Eastern_Yiddish"
 translations:
+  - translation_iso: ara
+    name: يديش الشرقية
+    auto: true
   - translation_iso: jpn
     name: 東イディッシュ語
   - translation_iso: zho

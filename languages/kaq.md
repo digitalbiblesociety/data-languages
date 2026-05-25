@@ -15,6 +15,9 @@ glottolog_family_name: Pano-Tacanan
 glottolog_classification: "Pano-Tacanan > Panoan > Mainline Pano > Pano Nawa > Chama subgroup > Shipibo-Konibo-Kapanawa > Capanahua"
 wikipedia_url: "https://en.wikipedia.org/wiki/Capanahua_language"
 translations:
+  - translation_iso: ara
+    name: لغة كابانهوا
+    auto: true
   - translation_iso: jpn
     name: カパナウア語
     auto: true

@@ -15,6 +15,9 @@ glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Brahmaputran > Bodo-Garo > Boroic > Dimasa-Kokborok > Dimasa"
 wikipedia_url: "https://en.wikipedia.org/wiki/Dimasa_language"
 translations:
+  - translation_iso: ara
+    name: ديماسا
+    auto: true
   - translation_iso: hin
     name: दिमासा भाषा
   - translation_iso: jpn

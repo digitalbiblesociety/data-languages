@@ -15,6 +15,9 @@ glottolog_family_name: Kiowa-Tanoan
 glottolog_classification: "Kiowa-Tanoan > Tiwa-Piro > Tiwa > Southern Tiwa"
 wikipedia_url: "https://en.wikipedia.org/wiki/Southern_Tiwa_language"
 translations:
+  - translation_iso: ara
+    name: تيوا الجنوبية
+    auto: true
   - translation_iso: hin
     name: दक्षिणी तिवा भाषा
   - translation_iso: jpn

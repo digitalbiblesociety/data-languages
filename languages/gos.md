@@ -16,6 +16,9 @@ glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Germanic > Northwest Germanic > West Germanic > North Sea Germanic > Altsächsisch > Middle-Modern Low German > Low German > West Low German > North Low Saxon > Gronings"
 wikipedia_url: "https://en.wikipedia.org/wiki/Gronings_dialect"
 translations:
+  - translation_iso: ara
+    name: غرونينجس
+    auto: true
   - translation_iso: jpn
     name: フローニン語
   - translation_iso: zho

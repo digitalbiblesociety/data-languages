@@ -15,6 +15,9 @@ glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Graeco-Phrygian > Greek > South Greek > Central Greek > Koineic Greek > Modern Koineic Greek > Nuclear Modern Greek > Yevanic"
 wikipedia_url: "https://en.wikipedia.org/wiki/Yevanic"
 translations:
+  - translation_iso: ara
+    name: يفانيك
+    auto: true
   - translation_iso: jpn
     name: ユダヤ・ギリシア語
   - translation_iso: zho

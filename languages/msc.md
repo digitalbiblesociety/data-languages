@@ -14,6 +14,9 @@ glottolog_family_id: mand1469
 glottolog_family_name: Mande
 glottolog_classification: "Mande > Western Mande > Manding-Kpelle > Central Mande > Manding-Jogo > Manding-Vai > Manding-Mokole > Manding > East Manding > Manenkan > Sankaran Maninka"
 translations:
+  - translation_iso: ara
+    name: لغة سنكاران مانينكا
+    auto: true
   - translation_iso: jpn
     name: サンカラン・マニンカ語
   - translation_iso: zho

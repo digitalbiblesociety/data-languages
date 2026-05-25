@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Cameroun-Ubangian > Bena-Mboi > Mboi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mboi_language"
 translations:
+  - translation_iso: ara
+    name: لغة مبوي
+    auto: true
   - translation_iso: jpn
     name: ムボイ語
     auto: true

@@ -15,6 +15,9 @@ glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > Biu-Mandara > North Biu-Mandara > Margi-Mandara-Mofu > Mofuic > Meri > Dugwor-Merey > Dugwor"
 wikipedia_url: "https://en.wikipedia.org/wiki/%C6%8Augwor_language"
 translations:
+  - translation_iso: ara
+    name: دوجوور
+    auto: true
   - translation_iso: jpn
     name: ドゥグウォル語
     auto: true

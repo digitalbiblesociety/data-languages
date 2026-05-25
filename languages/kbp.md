@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Gur > Central Gur > Southern Central Gur > Grusi > East-West Grusi > Eastern Grusi > Kabiyeic > Kabiyé"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kabiye_language"
 translations:
+  - translation_iso: ara
+    name: لغة كابياه
+    auto: true
   - translation_iso: jpn
     name: カビエ語
   - translation_iso: zho

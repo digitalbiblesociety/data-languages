@@ -15,6 +15,9 @@ glottolog_family_name: Hmong-Mien
 glottolog_classification: "Hmong-Mien > Mienic > Mien-Mun > Iu Mien"
 wikipedia_url: "https://en.wikipedia.org/wiki/Iu_Mien_language"
 translations:
+  - translation_iso: ara
+    name: لغة يو ميين
+    auto: true
   - translation_iso: jpn
     name: ヤオ語
   - translation_iso: kor

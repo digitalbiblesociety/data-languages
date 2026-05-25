@@ -15,6 +15,9 @@ glottolog_family_name: Japonic
 glottolog_classification: "Japonic > Ryukyuan > Northern Ryukyuan > Amami > Yoron"
 wikipedia_url: "https://en.wikipedia.org/wiki/Yoron_language"
 translations:
+  - translation_iso: ara
+    name: اللغة يورون
+    auto: true
   - translation_iso: jpn
     name: 与論島方言
   - translation_iso: kor

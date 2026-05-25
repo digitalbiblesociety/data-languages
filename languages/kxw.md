@@ -14,6 +14,9 @@ glottolog_family_name: East Strickland
 glottolog_classification: "East Strickland > Konai"
 wikipedia_url: "https://en.wikipedia.org/wiki/Konai_language"
 translations:
+  - translation_iso: ara
+    name: كوناي
+    auto: true
   - translation_iso: jpn
     name: コナイ語
     auto: true

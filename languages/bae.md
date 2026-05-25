@@ -15,6 +15,9 @@ glottolog_family_name: Arawakan
 glottolog_classification: "Arawakan > Medio Rio Negro > Bareic > Baré"
 wikipedia_url: "https://en.wikipedia.org/wiki/Bar%C3%A9_language"
 translations:
+  - translation_iso: ara
+    name: اللغة بارايه
+    auto: true
   - translation_iso: jpn
     name: ギナオ語
   - translation_iso: zho

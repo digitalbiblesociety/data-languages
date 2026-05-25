@@ -14,6 +14,9 @@ glottolog_family_name: Ramu
 glottolog_classification: "Ramu > Goam > Ataitan > Tanguat"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tanguat_language"
 translations:
+  - translation_iso: ara
+    name: تانغوات
+    auto: true
   - translation_iso: jpn
     name: タングアット語
     auto: true

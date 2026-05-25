@@ -8,6 +8,9 @@ country_name: Tunisia
 status_id: null
 wikipedia_url: "https://en.wikipedia.org/wiki/Vandalic_language"
 translations:
+  - translation_iso: ara
+    name: فاندالية
+    auto: true
   - translation_iso: jpn
     name: ヴァンダル語
   - translation_iso: kor

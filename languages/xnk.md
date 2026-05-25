@@ -8,6 +8,9 @@ country_name: Australia
 status_id: "10"
 wikipedia_url: "https://en.wikipedia.org/wiki/Nhanhagardi_language"
 translations:
+  - translation_iso: ara
+    name: نجانكاكاتي
+    auto: true
   - translation_iso: jpn
     name: ンガナカルティ語
     auto: true

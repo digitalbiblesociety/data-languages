@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Wide Grassfields > Narrow Grassfields > Ring > Center-West Ring > Center Ring > Babanki"
 wikipedia_url: "https://en.wikipedia.org/wiki/Babanki_language"
 translations:
+  - translation_iso: ara
+    name: اللغة بابانكي
+    auto: true
   - translation_iso: jpn
     name: ババンキ語
     auto: true

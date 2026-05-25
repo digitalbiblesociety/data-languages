@@ -14,6 +14,9 @@ glottolog_family_id: unat1236
 glottolog_family_name: Unattested
 glottolog_classification: "Unattested > Atlantic-Congo (Unattested) > Nshi"
 translations:
+  - translation_iso: ara
+    name: نشي
+    auto: true
   - translation_iso: jpn
     name: シン語
     auto: true

@@ -14,6 +14,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > Central-Western Bantu > North Zaire River > Rivers Bantu > Ngiri > Lusengo"
 wikipedia_url: "https://en.wikipedia.org/wiki/Losengo_language"
 translations:
+  - translation_iso: ara
+    name: لغة وسينجو
+    auto: true
   - translation_iso: jpn
     name: ルセンゴ語
     auto: true

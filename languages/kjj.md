@@ -15,6 +15,9 @@ glottolog_family_name: Nakh-Daghestanian
 glottolog_classification: "Nakh-Daghestanian > Daghestanian > Khinalug"
 wikipedia_url: "https://en.wikipedia.org/wiki/Khinalug_language"
 translations:
+  - translation_iso: ara
+    name: لغة خينالوغ
+    auto: true
   - translation_iso: jpn
     name: ヒナルク語
   - translation_iso: kor

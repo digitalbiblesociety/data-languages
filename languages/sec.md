@@ -15,6 +15,9 @@ glottolog_family_name: Salishan
 glottolog_classification: "Salishan > Coast Salish > Central Salish > North Georgia Central Salish > Sechelt"
 wikipedia_url: "https://en.wikipedia.org/wiki/Sechelt_language"
 translations:
+  - translation_iso: ara
+    name: سيتشيلت
+    auto: true
   - translation_iso: jpn
     name: シーシェルト語
   - translation_iso: zho

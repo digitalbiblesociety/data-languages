@@ -15,6 +15,9 @@ glottolog_family_name: Algic
 glottolog_classification: "Algic > Algonquian-Blackfoot > Algonquian > Eastern Algonquian > Delawaran > Mahican-Woronoco-Pojassick > Mahican"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mohican_language"
 translations:
+  - translation_iso: ara
+    name: لغة ماهيكان
+    auto: true
   - translation_iso: jpn
     name: マヒカン語
   - translation_iso: kor

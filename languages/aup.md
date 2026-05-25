@@ -15,6 +15,9 @@ glottolog_family_name: Anim
 glottolog_classification: "Anim > Tirio > Nuclear Tirio > Makayam"
 wikipedia_url: "https://en.wikipedia.org/wiki/Makayam_language"
 translations:
+  - translation_iso: ara
+    name: اللغة ماكايام
+    auto: true
   - translation_iso: jpn
     name: マカヤム語
     auto: true

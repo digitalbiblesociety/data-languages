@@ -15,6 +15,9 @@ glottolog_family_name: Otomanguean
 glottolog_classification: "Otomanguean > Eastern Otomanguean > Popoloca-Zapotecan > Popolocan-Mazatecan > Mazatecan > Valley Mazatec > Ayautlic > Northern Baja Mazatec > Ixcatlán Mazatec"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ixcatl%C3%A1n_Mazatec"
 translations:
+  - translation_iso: ara
+    name: إكسكاتلان مازاتك
+    auto: true
   - translation_iso: jpn
     name: イクスカトラン・マサテク語
     auto: true

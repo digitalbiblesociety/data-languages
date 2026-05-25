@@ -16,6 +16,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Central Pacific linkage > Rotuman"
 wikipedia_url: "https://en.wikipedia.org/wiki/Rotuman_language"
 translations:
+  - translation_iso: ara
+    name: روتومان
+    auto: true
   - translation_iso: jpn
     name: ロツマ語
   - translation_iso: kor

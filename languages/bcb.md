@@ -9,6 +9,9 @@ status_id: 6b
 latitude: 12.5053
 longitude: -15.99689
 translations:
+  - translation_iso: ara
+    name: اللغة بايانوك-ساميك
+    auto: true
   - translation_iso: jpn
     name: バイノック・サミク語
     auto: true

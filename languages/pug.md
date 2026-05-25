@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Gur > Central Gur > Southern Central Gur > Grusi > East-West Grusi > Western Grusi > Phuie"
 wikipedia_url: "https://en.wikipedia.org/wiki/Puguli_language"
 translations:
+  - translation_iso: ara
+    name: اللغة فويي
+    auto: true
   - translation_iso: jpn
     name: フィエ語
     auto: true

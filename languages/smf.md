@@ -14,6 +14,9 @@ glottolog_family_name: Border
 glottolog_classification: "Border > Warisic > Nuclear Warisic > Simog-Daonda > Auwe"
 wikipedia_url: "https://en.wikipedia.org/wiki/Auwe-Daonda_language"
 translations:
+  - translation_iso: ara
+    name: اللغة أوي
+    auto: true
   - translation_iso: jpn
     name: シモッグ語
     auto: true

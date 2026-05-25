@@ -15,6 +15,9 @@ glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > Southeastern Pama-Nyungan > North Coast Pama-Nyungan > Waka-Kabic > Eastern Waka-Kabic > Gureng Gureng"
 wikipedia_url: "https://en.wikipedia.org/wiki/Taribelang_language"
 translations:
+  - translation_iso: ara
+    name: غورإنج غورإنج
+    auto: true
   - translation_iso: jpn
     name: グレング・グレング語
     auto: true

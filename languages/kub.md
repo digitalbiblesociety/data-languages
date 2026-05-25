@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Jukunoid > Kutep"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kuteb_language"
 translations:
+  - translation_iso: ara
+    name: كوتيب
+    auto: true
   - translation_iso: jpn
     name: クテプ語
     auto: true

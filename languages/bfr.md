@@ -14,6 +14,9 @@ glottolog_family_name: Unclassifiable
 glottolog_classification: "Unclassifiable > Bazigar"
 wikipedia_url: "https://en.wikipedia.org/wiki/Bazigar_language"
 translations:
+  - translation_iso: ara
+    name: بازيجار
+    auto: true
   - translation_iso: jpn
     name: バズィガル語
     auto: true

@@ -12,6 +12,9 @@ longitude: -82.313233
 glottocode: timu1245
 wikipedia_url: "https://en.wikipedia.org/wiki/Timucua_language"
 translations:
+  - translation_iso: ara
+    name: تيموكوا
+    auto: true
   - translation_iso: jpn
     name: ティムクア語
   - translation_iso: zho

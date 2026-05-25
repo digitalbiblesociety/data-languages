@@ -15,6 +15,9 @@ glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > West Chadic > West Chadic B > West Chadic B.2 > Nuclear West Chadic B.2 > Western West Chadic B.2 > Siri"
 wikipedia_url: "https://en.wikipedia.org/wiki/Siri_language"
 translations:
+  - translation_iso: ara
+    name: اللغة السيري
+    auto: true
   - translation_iso: jpn
     name: シラワ語
     auto: true

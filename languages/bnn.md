@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Bunun"
 wikipedia_url: "https://en.wikipedia.org/wiki/Bunun_language"
 translations:
+  - translation_iso: ara
+    name: بونون
+    auto: true
   - translation_iso: jpn
     name: ブヌン語
   - translation_iso: kor

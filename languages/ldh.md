@@ -14,6 +14,9 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Northern Bantoid > Dakoid > Taram-Dirim-Nnakenyare > Dirim-Nnakenyare > Lamja-Dengsa-Tola"
 translations:
+  - translation_iso: ara
+    name: لامجا-دينجسا-تولا
+    auto: true
   - translation_iso: jpn
     name: ラムジャ・デンサ・トラ語
     auto: true

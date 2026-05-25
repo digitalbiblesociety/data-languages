@@ -15,6 +15,9 @@ glottolog_family_name: Tungusic
 glottolog_classification: "Tungusic > Manchu-Jurchen > Manchu-Xibe > Xibe"
 wikipedia_url: "https://en.wikipedia.org/wiki/Xibe_language"
 translations:
+  - translation_iso: ara
+    name: اللغة الكسيبية
+    auto: true
   - translation_iso: jpn
     name: シベ語
   - translation_iso: kor

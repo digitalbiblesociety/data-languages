@@ -15,6 +15,9 @@ glottolog_family_name: Dravidian
 glottolog_classification: "Dravidian > South Dravidian > South Dravidian II > Konda-Kui > Manda-Kui > Manda-Pengo > Pengo"
 wikipedia_url: "https://en.wikipedia.org/wiki/Pengo_language"
 translations:
+  - translation_iso: ara
+    name: اللغة بينغو
+    auto: true
   - translation_iso: hin
     name: पेंगो भाषा
   - translation_iso: jpn

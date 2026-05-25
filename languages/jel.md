@@ -15,6 +15,9 @@ glottolog_family_name: Bulaka River
 glottolog_classification: "Bulaka River > Jelmek > Southern Yelmek"
 wikipedia_url: "https://en.wikipedia.org/wiki/Yelmek_language"
 translations:
+  - translation_iso: ara
+    name: لغة يلميك
+    auto: true
   - translation_iso: jpn
     name: イェルメク語
   - translation_iso: zho

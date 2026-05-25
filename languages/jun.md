@@ -15,6 +15,9 @@ glottolog_family_name: Austroasiatic
 glottolog_classification: "Austroasiatic > Mundaic > Juang"
 wikipedia_url: "https://en.wikipedia.org/wiki/Juang_language"
 translations:
+  - translation_iso: ara
+    name: لغة جوانغ
+    auto: true
   - translation_iso: hin
     name: जुआंग भाषा
   - translation_iso: jpn

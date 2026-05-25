@@ -14,6 +14,9 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Timor-Babar > Eastern Timor > Central Timoric A > Tetunic > Tetun Dili"
 translations:
+  - translation_iso: ara
+    name: تيتون ديلي
+    auto: true
   - translation_iso: jpn
     name: テトゥン・ディリ語
     auto: true

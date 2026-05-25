@@ -15,6 +15,9 @@ glottolog_family_name: Gunwinyguan
 glottolog_classification: "Gunwinyguan > Bininj Kun-Wok"
 wikipedia_url: "https://en.wikipedia.org/wiki/Bininj_Kunwok"
 translations:
+  - translation_iso: ara
+    name: غونوينجغو
+    auto: true
   - translation_iso: jpn
     name: グンウィング語
   - translation_iso: zho

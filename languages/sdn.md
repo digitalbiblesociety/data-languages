@@ -15,6 +15,9 @@ glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Italic > Latino-Faliscan > Latinic > Imperial Latin > Romance > Italo-Western Romance > Italo-Dalmatian > Italian Romance > Central Italian Romance > Corsic > Gallurese Sardinian"
 wikipedia_url: "https://en.wikipedia.org/wiki/Gallurese"
 translations:
+  - translation_iso: ara
+    name: جالورسي سردينية
+    auto: true
   - translation_iso: jpn
     name: ガッルーラ語
   - translation_iso: zho

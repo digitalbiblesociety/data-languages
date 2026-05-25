@@ -15,6 +15,9 @@ glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Germanic > Northwest Germanic > West Germanic > High German > Upper German > Middle-Modern High German > Modern High German > Upper Franconian > Global German > Unserdeutsch"
 wikipedia_url: "https://en.wikipedia.org/wiki/Unserdeutsch"
 translations:
+  - translation_iso: ara
+    name: أوبر دوتش
+    auto: true
   - translation_iso: jpn
     name: ドイツ語系クレオール語
   - translation_iso: kor

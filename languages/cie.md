@@ -15,6 +15,9 @@ glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > Biu-Mandara > North Biu-Mandara > Margi-Mandara-Mofu > Mandaraic > Dghwedeic > Gudufic > Cineni"
 wikipedia_url: "https://en.wikipedia.org/wiki/Cineni_language"
 translations:
+  - translation_iso: ara
+    name: السيني
+    auto: true
   - translation_iso: jpn
     name: シネニ語
     auto: true

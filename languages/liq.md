@@ -15,6 +15,9 @@ glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Cushitic > East Cushitic > Highland East Cushitic > Sidaama-Hadiyya-Kambaata > Hadiyya-Kambaata > Hadiyyaic > Libido"
 wikipedia_url: "https://en.wikipedia.org/wiki/Libido_language"
 translations:
+  - translation_iso: ara
+    name: لغة يبيدو
+    auto: true
   - translation_iso: jpn
     name: リビド語
   - translation_iso: zho

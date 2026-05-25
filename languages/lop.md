@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Kainji > Kainji Lake > Upper Niger Kainji > Oleran > Lopa"
 wikipedia_url: "https://en.wikipedia.org/wiki/Lopa_language"
 translations:
+  - translation_iso: ara
+    name: لغة وپا
+    auto: true
   - translation_iso: jpn
     name: ロパ語
     auto: true

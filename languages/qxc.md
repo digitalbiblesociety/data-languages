@@ -14,6 +14,9 @@ glottolog_family_id: quec1387
 glottolog_family_name: Quechuan
 glottolog_classification: "Quechuan > Quechua I > Yauyosic > Chincha Quechua"
 translations:
+  - translation_iso: ara
+    name: اللغة كويتشوا تشينتشا
+    auto: true
   - translation_iso: jpn
     name: チンチャケチュア語
     auto: true

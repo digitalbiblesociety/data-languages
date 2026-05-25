@@ -15,6 +15,9 @@ glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Kainantu-Goroka > Kainantu > Tairora > Binumarien"
 wikipedia_url: "https://en.wikipedia.org/wiki/Binumarien_language"
 translations:
+  - translation_iso: ara
+    name: بينومريين
+    auto: true
   - translation_iso: jpn
     name: ビヌマリエン語
   - translation_iso: zho

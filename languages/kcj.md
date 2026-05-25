@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > North-Central Atlantic > Wolof-BKK > Nyun > Buy > Kobiana"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kobiana_language"
 translations:
+  - translation_iso: ara
+    name: لغة كوبيانا
+    auto: true
   - translation_iso: jpn
     name: コビアナ語
     auto: true

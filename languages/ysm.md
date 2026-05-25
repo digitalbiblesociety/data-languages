@@ -14,6 +14,9 @@ glottolog_family_name: Sign Language
 glottolog_classification: "Sign Language > L1 Sign Language > Myanmar Sign > Yangon Myanmar Sign Language"
 wikipedia_url: "https://en.wikipedia.org/wiki/Burmese_sign_language"
 translations:
+  - translation_iso: ara
+    name: لغة ميانمار الإشارة
+    auto: true
   - translation_iso: jpn
     name: ビルマ手話
   - translation_iso: zho

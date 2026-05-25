@@ -15,6 +15,9 @@ glottolog_family_name: Yokutsan
 glottolog_classification: "Yokutsan > General Yokuts > Nim Yokuts > Northern Yokuts"
 wikipedia_url: "https://en.wikipedia.org/wiki/Yokuts_language"
 translations:
+  - translation_iso: ara
+    name: اللغة يوكوتس
+    auto: true
   - translation_iso: jpn
     name: ヨクツ語族
   - translation_iso: kor

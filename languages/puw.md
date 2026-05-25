@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Micronesian > Central Micronesian > Western Micronesian > Chuukic-Ponapeic > Trukic > Nuclear Trukic > Central Trukic > Eastern Trukic > Puluwatese-Pollapese > Puluwatese"
 wikipedia_url: "https://en.wikipedia.org/wiki/Puluwat_language"
 translations:
+  - translation_iso: ara
+    name: اللغة بولوواتسي
+    auto: true
   - translation_iso: jpn
     name: プルワット語
   - translation_iso: zho

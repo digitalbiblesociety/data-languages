@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Malayo-Chamic > Malayic > Nuclear Malayic > Betawic > Cocos Islands Malay"
 wikipedia_url: "https://en.wikipedia.org/wiki/Cocos_Malay"
 translations:
+  - translation_iso: ara
+    name: لغة جزر كوكوس الملايوية
+    auto: true
   - translation_iso: jpn
     name: ココスマレー語
   - translation_iso: kor

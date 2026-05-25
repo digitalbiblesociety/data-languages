@@ -9,6 +9,9 @@ latitude: 4.04948
 longitude: 33.0412
 wikipedia_url: "https://en.wikipedia.org/wiki/Logir_language"
 translations:
+  - translation_iso: ara
+    name: لغة وجير
+    auto: true
   - translation_iso: jpn
     name: ロギール語
     auto: true

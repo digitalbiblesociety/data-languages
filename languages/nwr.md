@@ -14,6 +14,9 @@ glottolog_family_name: Yareban
 glottolog_classification: "Yareban > Yareba-Bariji-Nawaru > Nawaru"
 wikipedia_url: "https://en.wikipedia.org/wiki/Nawaru_language"
 translations:
+  - translation_iso: ara
+    name: ناوارو
+    auto: true
   - translation_iso: jpn
     name: ナワル語
     auto: true

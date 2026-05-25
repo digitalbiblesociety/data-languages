@@ -8,6 +8,9 @@ country_name: Mexico
 status_id: null
 wikipedia_url: "https://en.wikipedia.org/wiki/Garza_language"
 translations:
+  - translation_iso: ara
+    name: غارزا
+    auto: true
   - translation_iso: jpn
     name: ガルサ語
     auto: true

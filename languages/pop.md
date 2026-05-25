@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Southern Melanesian > New Caledonian > Mainland New Caledonian > Northern New Caledonian > Mid-Northern New Caledonian > Nmi-Pij-Fwa-Pam-Pap > Pwapwa"
 wikipedia_url: "https://en.wikipedia.org/wiki/Pwapw%C3%A2_language"
 translations:
+  - translation_iso: ara
+    name: اللغة بوابوا
+    auto: true
   - translation_iso: jpn
     name: プワプワ語
     auto: true

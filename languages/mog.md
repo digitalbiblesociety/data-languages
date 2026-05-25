@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Greater Central Philippine > Gorontalo-Mongondow > Mongondowic > Mongondow"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mongondow_language"
 translations:
+  - translation_iso: ara
+    name: لغة مونجوندو
+    auto: true
   - translation_iso: jpn
     name: モンゴンドウ語
   - translation_iso: zho

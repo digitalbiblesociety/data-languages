@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Benue-Congo Plateau > Beromic > Iten-Cara-Berom > Eten"
 wikipedia_url: "https://en.wikipedia.org/wiki/Eten_language"
 translations:
+  - translation_iso: ara
+    name: الإتين
+    auto: true
   - translation_iso: jpn
     name: エテン語
     auto: true

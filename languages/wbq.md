@@ -16,6 +16,9 @@ glottolog_family_name: Dravidian
 glottolog_classification: "Dravidian > South Dravidian > South Dravidian II > Teluguic > Waddar"
 wikipedia_url: "https://en.wikipedia.org/wiki/Waddar_language"
 translations:
+  - translation_iso: ara
+    name: وادار
+    auto: true
   - translation_iso: jpn
     name: ワッダル語
     auto: true

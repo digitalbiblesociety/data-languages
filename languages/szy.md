@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > East Formosan > Central East Formosan > Sakizaya"
 wikipedia_url: "https://en.wikipedia.org/wiki/Sakizaya_language"
 translations:
+  - translation_iso: ara
+    name: ساكيزايا
+    auto: true
   - translation_iso: jpn
     name: サキザヤ語
   - translation_iso: zho

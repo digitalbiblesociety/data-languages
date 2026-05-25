@@ -14,6 +14,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Central Pacific linkage > Tokalau Fijian > Polynesian > Nuclear Polynesian > Northern Outlier Polynesian-East Polynesian > Solomons Northern Outlier Polynesian-East Polynesian > Sikaiana"
 wikipedia_url: "https://en.wikipedia.org/wiki/Sikaiana_language"
 translations:
+  - translation_iso: ara
+    name: اللغة سيكايانا
+    auto: true
   - translation_iso: jpn
     name: シカイアナ語
   - translation_iso: zho

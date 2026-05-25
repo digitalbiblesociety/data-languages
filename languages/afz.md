@@ -15,6 +15,9 @@ glottolog_family_name: Lakes Plain
 glottolog_classification: "Lakes Plain > Tariku > East Tariku > Eritai-Obokuitai-Biritai > Obokuitai"
 wikipedia_url: "https://en.wikipedia.org/wiki/Obokuitai_language"
 translations:
+  - translation_iso: ara
+    name: لغة أوبوكويتاي
+    auto: true
   - translation_iso: jpn
     name: オボクイタイ語
   - translation_iso: zho

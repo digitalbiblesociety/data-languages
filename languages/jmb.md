@@ -15,6 +15,9 @@ glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > West Chadic > West Chadic B > West Chadic B.2 > Nuclear West Chadic B.2 > Zumbun"
 wikipedia_url: "https://en.wikipedia.org/wiki/Zumbun_language"
 translations:
+  - translation_iso: ara
+    name: لغة زومبون
+    auto: true
   - translation_iso: jpn
     name: ズンブン語
   - translation_iso: zho

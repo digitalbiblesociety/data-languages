@@ -14,6 +14,9 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Limba > West-Central Limba"
 translations:
+  - translation_iso: ara
+    name: لغة يست-ينترال يمبا
+    auto: true
   - translation_iso: jpn
     name: 西中部リンバ語
     auto: true

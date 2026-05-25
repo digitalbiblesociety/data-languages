@@ -15,6 +15,9 @@ glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Kuki-Chin-Naga > Kuki-Chin > Peripheral Kuki-Chin > South Peripheral Kuki-Chin > Choic > Nga La"
 wikipedia_url: "https://en.wikipedia.org/wiki/Nga_La_language"
 translations:
+  - translation_iso: ara
+    name: لغة ماتو تشين
+    auto: true
   - translation_iso: jpn
     name: マトゥ・チン語
     auto: true

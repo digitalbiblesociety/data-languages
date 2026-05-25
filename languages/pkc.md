@@ -12,6 +12,9 @@ glottolog_family_name: Unclassifiable
 glottolog_classification: "Unclassifiable > Paekche"
 wikipedia_url: "https://en.wikipedia.org/wiki/Baekje_language"
 translations:
+  - translation_iso: ara
+    name: اللغة بايكتشي
+    auto: true
   - translation_iso: jpn
     name: 百済語
   - translation_iso: kor

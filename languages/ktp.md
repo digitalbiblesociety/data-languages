@@ -15,6 +15,9 @@ glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Burmo-Qiangic > Lolo-Burmese > Loloish > Hani-Jino > Bisoid-Hanic > Hanic > Bi-Ka > Kaduo"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kaduo_language"
 translations:
+  - translation_iso: ara
+    name: كادوو
+    auto: true
   - translation_iso: jpn
     name: カドゥオ語
     auto: true

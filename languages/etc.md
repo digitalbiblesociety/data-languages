@@ -12,6 +12,9 @@ glottolog_family_name: Unclassifiable
 glottolog_classification: "Unclassifiable > Etchemin"
 wikipedia_url: "https://en.wikipedia.org/wiki/Etchemin_language"
 translations:
+  - translation_iso: ara
+    name: الإتشيمين
+    auto: true
   - translation_iso: jpn
     name: エッチェミン語
     auto: true

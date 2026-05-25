@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Cameroun-Ubangian > Ubangi > Ubangi Ka > Mundu-Baka > Eastern Mundu-Baka > Mayogo-Bangba > Mayogo"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mayogo_language"
 translations:
+  - translation_iso: ara
+    name: لغة مايوجو
+    auto: true
   - translation_iso: jpn
     name: マヨゴ語
   - translation_iso: zho

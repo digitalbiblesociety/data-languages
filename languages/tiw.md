@@ -12,6 +12,9 @@ longitude: 130.94911
 glottocode: tiwi1244
 wikipedia_url: "https://en.wikipedia.org/wiki/Tiwi_language"
 translations:
+  - translation_iso: ara
+    name: تيوي
+    auto: true
   - translation_iso: jpn
     name: ティウィ語
   - translation_iso: kor

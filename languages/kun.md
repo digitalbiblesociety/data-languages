@@ -12,6 +12,9 @@ longitude: 37.529195
 glottocode: kuna1268
 wikipedia_url: "https://en.wikipedia.org/wiki/Kunama_language"
 translations:
+  - translation_iso: ara
+    name: كونامة
+    auto: true
   - translation_iso: jpn
     name: クナマ語
   - translation_iso: zho

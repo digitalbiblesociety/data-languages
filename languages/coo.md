@@ -15,6 +15,9 @@ glottolog_family_name: Salishan
 glottolog_classification: "Salishan > Coast Salish > Central Salish > North Georgia Central Salish > Comox"
 wikipedia_url: "https://en.wikipedia.org/wiki/Comox_language"
 translations:
+  - translation_iso: ara
+    name: الكوموكس
+    auto: true
   - translation_iso: jpn
     name: コモックス語
   - translation_iso: zho

@@ -15,6 +15,9 @@ glottolog_family_name: Pomoan
 glottolog_classification: "Pomoan > Russian River and Eastern > Russian River > Southern Pomoan-Kashaya > Southern Pomo"
 wikipedia_url: "https://en.wikipedia.org/wiki/Southern_Pomo_language"
 translations:
+  - translation_iso: ara
+    name: اللغة بومو الجنوبية
+    auto: true
   - translation_iso: jpn
     name: 南ポモ語
   - translation_iso: zho

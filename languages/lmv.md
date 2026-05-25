@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Central Pacific linkage > Tokalau Fijian > Eastern Fijian > Nuclear Eastern Fijian > Viwa-Lomaiviti-East Viti Levu > Lomaiviti"
 wikipedia_url: "https://en.wikipedia.org/wiki/Lomaiviti_language"
 translations:
+  - translation_iso: ara
+    name: لغة ومايفيتي
+    auto: true
   - translation_iso: jpn
     name: ロマイビティ語
     auto: true

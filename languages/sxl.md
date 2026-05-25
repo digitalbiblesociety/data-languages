@@ -8,6 +8,9 @@ country_name: Latvia
 status_id: null
 wikipedia_url: "https://en.wikipedia.org/wiki/Selonian_language"
 translations:
+  - translation_iso: ara
+    name: سيليان
+    auto: true
   - translation_iso: jpn
     name: セロニア語
   - translation_iso: kor

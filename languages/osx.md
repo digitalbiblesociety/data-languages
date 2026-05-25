@@ -15,6 +15,9 @@ glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Germanic > Northwest Germanic > West Germanic > North Sea Germanic > Altsächsisch > Old Saxon"
 wikipedia_url: "https://en.wikipedia.org/wiki/Old_Saxon"
 translations:
+  - translation_iso: ara
+    name: اللغة الساكسونية القديمة
+    auto: true
   - translation_iso: jpn
     name: 古ザクセン語
   - translation_iso: kor

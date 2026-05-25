@@ -11,6 +11,9 @@ latitude: 25.29726
 longitude: 93.73443
 wikipedia_url: "https://en.wikipedia.org/wiki/Puimei_language"
 translations:
+  - translation_iso: ara
+    name: بويمي ناغا
+    auto: true
   - translation_iso: jpn
     name: プイメイ・ナガ語
     auto: true

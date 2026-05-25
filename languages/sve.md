@@ -14,6 +14,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Timor-Babar > Southwest Maluku > Babar > South Babar > Masela-South Babar > Serili"
 wikipedia_url: "https://en.wikipedia.org/wiki/Serili_language"
 translations:
+  - translation_iso: ara
+    name: اللغة سيريلي
+    auto: true
   - translation_iso: jpn
     name: セリリ語
     auto: true

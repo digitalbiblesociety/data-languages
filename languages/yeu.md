@@ -15,6 +15,9 @@ glottolog_family_name: Dravidian
 glottolog_classification: "Dravidian > South Dravidian > South Dravidian I > Tamil-Kannada > Tamil-Kota > Tamil-Toda > Tamil-Irula > Tamil-Kodagu > Tamil-Malayalam > Tamiloid > Yerukula-Korava-Kaikadi > Yerukula"
 wikipedia_url: "https://en.wikipedia.org/wiki/Yerukala_language"
 translations:
+  - translation_iso: ara
+    name: ييروكولا
+    auto: true
   - translation_iso: hin
     name: कुर्रु भाषा
   - translation_iso: jpn

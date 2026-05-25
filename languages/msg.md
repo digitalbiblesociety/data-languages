@@ -15,6 +15,9 @@ glottolog_family_name: "West Bird's Head"
 glottolog_classification: "West Bird's Head > South West Bird's Head > Moraid"
 wikipedia_url: "https://en.wikipedia.org/wiki/Moraid_language"
 translations:
+  - translation_iso: ara
+    name: لغة موراد
+    auto: true
   - translation_iso: jpn
     name: モライド語
     auto: true

@@ -15,6 +15,9 @@ glottolog_family_name: Mande
 glottolog_classification: "Mande > Eastern Mande > Bisa-Busa > Samo-Busa > Busan > Kyenga-Shanga > Kyenga"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kyenga_language"
 translations:
+  - translation_iso: ara
+    name: كيانجا
+    auto: true
   - translation_iso: jpn
     name: テイエンガ語
     auto: true

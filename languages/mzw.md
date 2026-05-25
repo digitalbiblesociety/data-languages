@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Gur > Central Gur > Southern Central Gur > Grusi > East-West Grusi > Western Grusi > Sisaala-Chakali > Chakalic > Deg"
 wikipedia_url: "https://en.wikipedia.org/wiki/Deg_language"
 translations:
+  - translation_iso: ara
+    name: ديج
+    auto: true
   - translation_iso: jpn
     name: デグ語
     auto: true

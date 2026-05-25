@@ -15,6 +15,9 @@ glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Madang > Croisilles > Mabuso > Gum > Amele"
 wikipedia_url: "https://en.wikipedia.org/wiki/Amele_language"
 translations:
+  - translation_iso: ara
+    name: لغة أميل
+    auto: true
   - translation_iso: jpn
     name: アメレ語
     auto: true

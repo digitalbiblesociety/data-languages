@@ -14,6 +14,9 @@ glottolog_family_id: taik1256
 glottolog_family_name: Tai-Kadai
 glottolog_classification: "Tai-Kadai > Kam-Tai > Daic-Beic > Daic > Northern Daic-Sek > Northern Daic > Northern Tai > Hongshui He > Liuqian Zhuang"
 translations:
+  - translation_iso: ara
+    name: لغة ليوتشيان زوانغ
+    auto: true
   - translation_iso: jpn
     name: 柳黔チワン語
   - translation_iso: zho

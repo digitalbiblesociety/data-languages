@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Kwa Volta-Congo > Nyo > Potou-Tano > Tano > Guang > North Guang > Oti North Guang > Mountain Oti North Guang > Gikyode-Ginyanga > Gikyode-Foodo > Gikyode"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kyode_language"
 translations:
+  - translation_iso: ara
+    name: لغة جيكيود
+    auto: true
   - translation_iso: jpn
     name: ギチョーデ語
   - translation_iso: zho

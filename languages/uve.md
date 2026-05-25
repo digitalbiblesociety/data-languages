@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Central Pacific linkage > Tokalau Fijian > Polynesian > Nuclear Polynesian > Vanuatu-Loyalty Outliers > West Uvean"
 wikipedia_url: "https://en.wikipedia.org/wiki/West_Uvean_language"
 translations:
+  - translation_iso: ara
+    name: ويست أويفيان
+    auto: true
   - translation_iso: jpn
     name: 西ウベア語
   - translation_iso: kor

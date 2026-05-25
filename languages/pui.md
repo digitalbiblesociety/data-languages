@@ -12,6 +12,9 @@ longitude: -67.6886
 glottocode: puin1248
 wikipedia_url: "https://en.wikipedia.org/wiki/Puinave_language"
 translations:
+  - translation_iso: ara
+    name: اللغة بويناف
+    auto: true
   - translation_iso: jpn
     name: プイナベ語
     auto: true

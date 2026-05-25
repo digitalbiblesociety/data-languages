@@ -14,6 +14,9 @@ glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > Masa > South Masa > Peveic > Hede-Ngide > Ngete"
 translations:
+  - translation_iso: ara
+    name: نجيتي
+    auto: true
   - translation_iso: jpn
     name: ングエテ語
     auto: true

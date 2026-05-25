@@ -14,6 +14,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Celebic > Greater Eastern Celebic > Eastern Celebic > Southeastern Celebic > Muna-Buton > Nuclear Muna-Buton > Munan > Busoa"
 wikipedia_url: "https://en.wikipedia.org/wiki/Busoa_language"
 translations:
+  - translation_iso: ara
+    name: بوسوا
+    auto: true
   - translation_iso: jpn
     name: ブソア語
     auto: true

@@ -15,6 +15,9 @@ glottolog_family_name: North Bougainville
 glottolog_classification: "North Bougainville > Ramopa"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ramopa_language"
 translations:
+  - translation_iso: ara
+    name: لغة رامويا
+    auto: true
   - translation_iso: jpn
     name: ケリアカ語
   - translation_iso: zho

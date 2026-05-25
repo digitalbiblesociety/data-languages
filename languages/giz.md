@@ -15,6 +15,9 @@ glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > Biu-Mandara > North Biu-Mandara > Maroua > Giziga > South Giziga"
 wikipedia_url: "https://en.wikipedia.org/wiki/South_Giziga_language"
 translations:
+  - translation_iso: ara
+    name: سووث غيزيغآ
+    auto: true
   - translation_iso: jpn
     name: サウス・ギジガ語
     auto: true

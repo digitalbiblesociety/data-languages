@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Kainji > Central Kainji > Basa-Eastern Kainji > Eastern Kainji > Jos > Northern Jos > North-Central Jos > Janji"
 wikipedia_url: "https://en.wikipedia.org/wiki/Janji_language"
 translations:
+  - translation_iso: ara
+    name: لغة جانجي
+    auto: true
   - translation_iso: jpn
     name: ジャンジ語
     auto: true

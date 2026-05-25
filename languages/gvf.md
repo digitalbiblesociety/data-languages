@@ -15,6 +15,9 @@ glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Chimbu-Wahgi > Simbu > Nuclear Simbu > Golinic > Golin"
 wikipedia_url: "https://en.wikipedia.org/wiki/Golin_language"
 translations:
+  - translation_iso: ara
+    name: غولين
+    auto: true
   - translation_iso: jpn
     name: ゴリン語
   - translation_iso: zho

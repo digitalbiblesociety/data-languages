@@ -14,6 +14,9 @@ glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Kuki-Chin-Naga > Kuki-Chin > Northwestern Kuki-Chin > Central Old Kuki > Purum"
 wikipedia_url: "https://en.wikipedia.org/wiki/Purum_language"
 translations:
+  - translation_iso: ara
+    name: اللغة بورام
+    auto: true
   - translation_iso: hin
     name: पुरुम भाषा
   - translation_iso: jpn

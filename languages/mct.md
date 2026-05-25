@@ -10,6 +10,9 @@ latitude: 4.5932
 longitude: 11.39465
 wikipedia_url: "https://en.wikipedia.org/wiki/Mengisa_language"
 translations:
+  - translation_iso: ara
+    name: لغة منجيسا
+    auto: true
   - translation_iso: jpn
     name: メンギサ語
     auto: true

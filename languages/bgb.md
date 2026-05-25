@@ -14,6 +14,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Celebic > Greater Eastern Celebic > Eastern Celebic > Saluan-Banggai > Western Saluan-Banggai > Saluanic > Bobongko"
 wikipedia_url: "https://en.wikipedia.org/wiki/Bobongko_language"
 translations:
+  - translation_iso: ara
+    name: بوبونجكو
+    auto: true
   - translation_iso: jpn
     name: ボボンコ語
   - translation_iso: zho

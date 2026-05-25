@@ -15,6 +15,9 @@ glottolog_family_name: Dravidian
 glottolog_classification: "Dravidian > South Dravidian > South Dravidian II > Konda-Kui > Konda-Dora"
 wikipedia_url: "https://en.wikipedia.org/wiki/Konda_language_(Dravidian)"
 translations:
+  - translation_iso: ara
+    name: لغة كوندا دورا
+    auto: true
   - translation_iso: hin
     name: कोंडा भाषा
   - translation_iso: jpn

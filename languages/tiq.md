@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Gur > Tiefoic > Tiefo-Daramandugu"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tiefo_language"
 translations:
+  - translation_iso: ara
+    name: تييفو
+    auto: true
   - translation_iso: jpn
     name: ティエフォ語
     auto: true

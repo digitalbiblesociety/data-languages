@@ -14,6 +14,9 @@ glottolog_family_name: Unattested
 glottolog_classification: "Unattested > Atlantic-Congo (Unattested) > Esuma"
 wikipedia_url: "https://en.wikipedia.org/wiki/Esuma_language"
 translations:
+  - translation_iso: ara
+    name: الإسوما
+    auto: true
   - translation_iso: jpn
     name: エスマ語
   - translation_iso: zho

@@ -15,6 +15,9 @@ glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Indo-Aryan > Middle-Modern Indo-Aryan > Continental Indo-Aryan > Midlands Indo-Aryan > Shaurasenic > Indo-Aryan Central zone > Romani > Vlax Romani"
 wikipedia_url: "https://en.wikipedia.org/wiki/Vlax_Romani_language"
 translations:
+  - translation_iso: ara
+    name: فلاكس رومانية
+    auto: true
   - translation_iso: jpn
     name: ワラキア方言群
   - translation_iso: zho

@@ -14,6 +14,9 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > Central-Western Bantu > North Zaire River > Rivers Bantu > Ngiri > Ngiri Riverain Mongala > Motemboic > Motembo-Kunda"
 translations:
+  - translation_iso: ara
+    name: تيمبو
+    auto: true
   - translation_iso: jpn
     name: テンボ語
     auto: true

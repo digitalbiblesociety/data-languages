@@ -9,6 +9,9 @@ status_id: 8a
 latitude: -1.10038
 longitude: 17.82247
 translations:
+  - translation_iso: ara
+    name: مايكا
+    auto: true
   - translation_iso: jpn
     name: マエカ語
     auto: true

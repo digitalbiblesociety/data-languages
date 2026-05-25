@@ -15,6 +15,9 @@ glottolog_family_name: Otomanguean
 glottolog_classification: "Otomanguean > Eastern Otomanguean > Amuzgo-Mixtecan > Mixtecan > Mixtec-Cuicatec > Mixtec > Eastern Alta Mixtec > Tidaá Mixtec"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tida%C3%A1_Mixtec"
 translations:
+  - translation_iso: ara
+    name: لغة ميكستك تيداا
+    auto: true
   - translation_iso: jpn
     name: ティダア・ミステク語
     auto: true

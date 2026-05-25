@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Benue-Congo Plateau > Yukubenic > Kapya"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kapya_language"
 translations:
+  - translation_iso: ara
+    name: لغة كابيا
+    auto: true
   - translation_iso: jpn
     name: カピア語
     auto: true

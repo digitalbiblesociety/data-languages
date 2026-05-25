@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Cameroun-Ubangian > Ubangi > Ubangi Ka > Bandaic > Nuclear Bandaic > Central Bandaic > Core Central Bandaic > Mono (Democratic Republic of Congo)"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mono_language_(Congo)"
 translations:
+  - translation_iso: ara
+    name: لغة مونو (جمهورية الكونغو الديمقراطية)
+    auto: true
   - translation_iso: jpn
     name: モノ語
   - translation_iso: zho

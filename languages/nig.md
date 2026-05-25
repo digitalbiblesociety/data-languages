@@ -15,6 +15,9 @@ glottolog_family_name: Gunwinyguan
 glottolog_classification: "Gunwinyguan > Jala > Ngalakgan"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ngalakgan_language"
 translations:
+  - translation_iso: ara
+    name: نجالكجان
+    auto: true
   - translation_iso: jpn
     name: ングアラクガン語
     auto: true

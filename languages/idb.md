@@ -14,6 +14,9 @@ glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Italic > Latino-Faliscan > Latinic > Imperial Latin > Romance > Italo-Western Romance > Western Romance > Shifted Western Romance > Southwestern Shifted Romance > West Ibero-Romance > Galician Romance > Macro-Portuguese > Indo-Portuguesic > Northern Indo-Portuguesic > Daman-Diu Portuguese"
 wikipedia_url: "https://en.wikipedia.org/wiki/Daman_and_Diu_Portuguese_Creole"
 translations:
+  - translation_iso: ara
+    name: لغة الهند-البرتغالية
+    auto: true
   - translation_iso: hin
     name: हिन्द-पुर्तगाली क्रियोल
   - translation_iso: jpn

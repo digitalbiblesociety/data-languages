@@ -15,6 +15,9 @@ glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Unclassified Indo-European > Messapic"
 wikipedia_url: "https://en.wikipedia.org/wiki/Messapic_language"
 translations:
+  - translation_iso: ara
+    name: الميسابي
+    auto: true
   - translation_iso: jpn
     name: メッサピア語
   - translation_iso: zho

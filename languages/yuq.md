@@ -15,6 +15,9 @@ glottolog_family_name: Tupian
 glottolog_classification: "Tupian > Eastern Tupian > Maweti-Guarani > Aweti-Guarani > Tupi-Guarani > Southern Tupi-Guarani > Tupi-Guarani Subgroup II > Warazu-Sirionoid > Sirionoid > Yuqui"
 wikipedia_url: "https://en.wikipedia.org/wiki/Yuqui_language"
 translations:
+  - translation_iso: ara
+    name: اللغة يوكي
+    auto: true
   - translation_iso: jpn
     name: ユキ語
     auto: true

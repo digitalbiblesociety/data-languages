@@ -14,6 +14,9 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Delta Cross > Lower Cross > Nuclear Lower Cross > West Lower Cross > Oroic > Enwang-Uda > Uda"
 translations:
+  - translation_iso: ara
+    name: أودا
+    auto: true
   - translation_iso: jpn
     name: ウダ語
     auto: true

@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Bendic > Nuclear Bendic > Bete-Obanliku > Bete-Bendi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Bete-Bendi_language"
 translations:
+  - translation_iso: ara
+    name: بيتي-بيندي
+    auto: true
   - translation_iso: jpn
     name: ベテ・ベンディ語
     auto: true

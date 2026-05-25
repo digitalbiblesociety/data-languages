@@ -15,6 +15,9 @@ glottolog_family_name: Uto-Aztecan
 glottolog_classification: "Uto-Aztecan > Southern Uto-Aztecan > Opata-Eudeve > Teguima"
 wikipedia_url: "https://en.wikipedia.org/wiki/Opata_language"
 translations:
+  - translation_iso: ara
+    name: اللغة أوباتا
+    auto: true
   - translation_iso: jpn
     name: オパタ語
     auto: true

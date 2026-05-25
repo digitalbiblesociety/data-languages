@@ -15,6 +15,9 @@ glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Himalayish > Mahakiranti > Newaric > Thangmi-Baram > Baraamu"
 wikipedia_url: "https://en.wikipedia.org/wiki/Baram_language"
 translations:
+  - translation_iso: ara
+    name: باراامو
+    auto: true
   - translation_iso: jpn
     name: バラアム語
     auto: true

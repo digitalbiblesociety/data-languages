@@ -15,6 +15,9 @@ glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Iranian-Nuristani > Iranian > Central Eastern Iranian > Shughni-Yazgulami > Shughnic > Sarikoli"
 wikipedia_url: "https://en.wikipedia.org/wiki/Sarikoli_language"
 translations:
+  - translation_iso: ara
+    name: اللغة ساريكولي
+    auto: true
   - translation_iso: hin
     name: सरिकोली भाषा
   - translation_iso: jpn

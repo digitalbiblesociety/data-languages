@@ -7,6 +7,9 @@ country_id: AU
 country_name: Australia
 status_id: null
 translations:
+  - translation_iso: ara
+    name: لغة يان-نهانغو الإشارة
+    auto: true
   - translation_iso: jpn
     name: ヤン・ナハン手話
     auto: true

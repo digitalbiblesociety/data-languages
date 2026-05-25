@@ -15,6 +15,9 @@ glottolog_family_name: Cochimi-Yuman
 glottolog_classification: "Cochimi-Yuman > Cochimic > Cochimi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Cochim%C3%AD_language"
 translations:
+  - translation_iso: ara
+    name: الكوتشيمي
+    auto: true
   - translation_iso: jpn
     name: コチミ語
   - translation_iso: zho

@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > East Bantu > Northeast Savanna Bantu > Great Lakes Bantu > East Nyanza > Nyanza Mara > North Mara > Kuriaic > Suba-Simbiti"
 wikipedia_url: "https://en.wikipedia.org/wiki/Suba-Simbiti_language"
 translations:
+  - translation_iso: ara
+    name: اللغة سوبا-سيمبيتي
+    auto: true
   - translation_iso: jpn
     name: キシンビティ語
     auto: true

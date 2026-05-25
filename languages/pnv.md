@@ -15,6 +15,9 @@ glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > South-West Pama-Nyungan > Pilbara > Kanyara > Pinigura"
 wikipedia_url: "https://en.wikipedia.org/wiki/Pinikura_language"
 translations:
+  - translation_iso: ara
+    name: اللغة بينيجورا
+    auto: true
   - translation_iso: jpn
     name: ピニグラ語
     auto: true

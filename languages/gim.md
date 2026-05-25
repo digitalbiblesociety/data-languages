@@ -15,6 +15,9 @@ glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Kainantu-Goroka > Goroka > Nuclear Goroka > Fore-Gimi > Gimi (Eastern Highlands)"
 wikipedia_url: "https://en.wikipedia.org/wiki/Gimi_language"
 translations:
+  - translation_iso: ara
+    name: غيمي
+    auto: true
   - translation_iso: jpn
     name: ギミ語
   - translation_iso: kor

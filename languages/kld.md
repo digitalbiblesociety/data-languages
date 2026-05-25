@@ -15,6 +15,9 @@ glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > Southeastern Pama-Nyungan > Wiradhuric > Yuwaalaraay-Gamilaraay"
 wikipedia_url: "https://en.wikipedia.org/wiki/Gamilaraay_language"
 translations:
+  - translation_iso: ara
+    name: لغة جاميلاراي
+    auto: true
   - translation_iso: jpn
     name: カミラロイ語
   - translation_iso: zho

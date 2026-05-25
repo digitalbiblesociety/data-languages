@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > East Bantu > Rufiji-Ruvuma > Rufijic > Lwegu > Ndendeule-Ngindo-Nindi > Ngindo"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ngindo_language"
 translations:
+  - translation_iso: ara
+    name: نغيندو
+    auto: true
   - translation_iso: jpn
     name: ングインド語
     auto: true

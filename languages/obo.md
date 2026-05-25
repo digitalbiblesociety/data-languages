@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Greater Central Philippine > Manobo > Central and Southern Manobo > East-West-Central Manobo > West Manobo > Obo Manobo"
 wikipedia_url: "https://en.wikipedia.org/wiki/Obo_language"
 translations:
+  - translation_iso: ara
+    name: اللغة أوبو مانوبو
+    auto: true
   - translation_iso: jpn
     name: オボ・マノボ語
     auto: true

@@ -14,6 +14,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > Central-Western Bantu > West-Coastal Bantu > Nzadic > Lweric > Dingic > Loange-Atlantic > KLC Extended > Kikongo Language Cluster > Nuclear KLC > Yaka-Suku > Suku"
 wikipedia_url: "https://en.wikipedia.org/wiki/Suku_language"
 translations:
+  - translation_iso: ara
+    name: اللغة سوكو
+    auto: true
   - translation_iso: jpn
     name: スク語
   - translation_iso: zho

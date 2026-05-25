@@ -10,6 +10,9 @@ latitude: -8.6778
 longitude: 121.04764
 wikipedia_url: "https://en.wikipedia.org/wiki/So%CA%BCa_language"
 translations:
+  - translation_iso: ara
+    name: "اللغة سو'ا"
+    auto: true
   - translation_iso: jpn
     name: ソア語
     auto: true

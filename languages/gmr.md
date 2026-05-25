@@ -9,6 +9,9 @@ country_name: Australia
 status_id: null
 wikipedia_url: "https://en.wikipedia.org/wiki/Mirning_language"
 translations:
+  - translation_iso: ara
+    name: ميرنينج\ر
+    auto: true
   - translation_iso: jpn
     name: ミルニング語
     auto: true

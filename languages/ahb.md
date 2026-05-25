@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > North and Central Vanuatu > Central Vanuatu > Malakula > Eastern Malakula linkage > Central-Southeast Malakula > Southeastern Malakula linkage > Port Sandwich-Axamb-Avok > Axamb"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ahamb_language"
 translations:
+  - translation_iso: ara
+    name: لغة أكسامب
+    auto: true
   - translation_iso: jpn
     name: アクサンブ語
     auto: true

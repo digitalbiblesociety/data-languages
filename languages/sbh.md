@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Admiralty Islands > Eastern Admiralty Islands > Manus > West Manus > West Manus I > Sori-Harengan"
 wikipedia_url: "https://en.wikipedia.org/wiki/Sori-Harengan_language"
 translations:
+  - translation_iso: ara
+    name: سوري هارينجان
+    auto: true
   - translation_iso: jpn
     name: ソリハレンガン語
     auto: true

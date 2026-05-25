@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Cameroun-Ubangian > Bena-Mboi > Bena > Yungur-Voro > Bena (Nigeria)"
 wikipedia_url: "https://en.wikipedia.org/wiki/Bena_language_(Adamawa)"
 translations:
+  - translation_iso: ara
+    name: لغة بينا النيجيرية
+    auto: true
   - translation_iso: jpn
     name: ベナ語（ナイジェリア）
     auto: true

@@ -12,6 +12,9 @@ longitude: 35.22304
 glottocode: shab1252
 wikipedia_url: "https://en.wikipedia.org/wiki/Shabo_language"
 translations:
+  - translation_iso: ara
+    name: تشابو
+    auto: true
   - translation_iso: jpn
     name: シャボ語
   - translation_iso: zho

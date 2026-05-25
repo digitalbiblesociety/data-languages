@@ -15,6 +15,9 @@ glottolog_family_name: Central Sudanic
 glottolog_classification: "Central Sudanic > Membi-Mangbutu-Efe > Mangbutu-Efe > Baleseic > Nuclear Baleseic > Mvuba"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mvuba_language"
 translations:
+  - translation_iso: ara
+    name: موبا
+    auto: true
   - translation_iso: jpn
     name: ムヴバ語
     auto: true

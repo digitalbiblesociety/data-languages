@@ -9,6 +9,9 @@ latitude: 60.3
 longitude: -1.2
 wikipedia_url: "https://en.wikipedia.org/wiki/Shetland_dialect"
 translations:
+  - translation_iso: ara
+    name: شيتلان
+    auto: true
   - translation_iso: jpn
     name: シェトランド語の
   - translation_iso: kor

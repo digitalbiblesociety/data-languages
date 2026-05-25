@@ -15,6 +15,9 @@ glottolog_family_name: Pano-Tacanan
 glottolog_classification: "Pano-Tacanan > Tacanan > Takanik-Chamik > Takanik > Tacana"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tacana_language"
 translations:
+  - translation_iso: ara
+    name: تاكانا
+    auto: true
   - translation_iso: jpn
     name: タカナ語
   - translation_iso: zho

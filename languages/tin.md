@@ -15,6 +15,9 @@ glottolog_family_name: Nakh-Daghestanian
 glottolog_classification: "Nakh-Daghestanian > Daghestanian > Avar-Andic-Tsezic > Andic > Bagvalal-Tindi > Tindi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tindi_language"
 translations:
+  - translation_iso: ara
+    name: تندي
+    auto: true
   - translation_iso: jpn
     name: ティンディ語
   - translation_iso: kor

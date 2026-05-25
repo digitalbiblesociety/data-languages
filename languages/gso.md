@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Gbaya-Manza-Ngbaka > Gbaya Meridional-Occidental > Gbaya Meridional > Southwest Gbaya"
 wikipedia_url: "https://en.wikipedia.org/wiki/Biyanda-Buli_language"
 translations:
+  - translation_iso: ara
+    name: سووثوإست غبآيآ
+    auto: true
   - translation_iso: jpn
     name: 南西グバヤ語
   - translation_iso: zho

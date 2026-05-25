@@ -14,6 +14,9 @@ glottolog_family_id: cent2225
 glottolog_family_name: Central Sudanic
 glottolog_classification: "Central Sudanic > Moru-Madi > Southern Moru-Madi > Southern Ma'di"
 translations:
+  - translation_iso: ara
+    name: "اللغة ما'دي الجنوبية"
+    auto: true
   - translation_iso: jpn
     name: サザン・マディ語
     auto: true

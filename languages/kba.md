@@ -15,6 +15,9 @@ glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > South-West Pama-Nyungan > Mirning > Kalarko-Mirniny"
 wikipedia_url: "https://en.wikipedia.org/wiki/Galaagu_language"
 translations:
+  - translation_iso: ara
+    name: لغة كالاركو
+    auto: true
   - translation_iso: jpn
     name: カラルコ語
     auto: true

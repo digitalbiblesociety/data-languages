@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > South Halmahera-West New Guinea > Raja Ampat-South Halmahera > South Halmahera > Gebeic > Central-Eastern South Halmahera > Buli (Indonesia)"
 wikipedia_url: "https://en.wikipedia.org/wiki/Buli_language_(Indonesia)"
 translations:
+  - translation_iso: ara
+    name: بولي
+    auto: true
   - translation_iso: jpn
     name: ブリ語 (インドネシアの言語)
   - translation_iso: zho

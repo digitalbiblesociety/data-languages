@@ -14,6 +14,9 @@ glottolog_family_id: aust1305
 glottolog_family_name: Austroasiatic
 glottolog_classification: "Austroasiatic > Bahnaric > West Bahnaric > South Bahnaric > Mnong-Stieng-Chrau > Stieng > Bulo Stieng"
 translations:
+  - translation_iso: ara
+    name: اللغة بولو ستينج
+    auto: true
   - translation_iso: jpn
     name: ブディップ語
     auto: true

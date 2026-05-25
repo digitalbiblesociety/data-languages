@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Temotu > Reefs-Santa Cruz > Nanggu"
 wikipedia_url: "https://en.wikipedia.org/wiki/Nanggu_language"
 translations:
+  - translation_iso: ara
+    name: إنجديو
+    auto: true
   - translation_iso: jpn
     name: ナング語
   - translation_iso: zho

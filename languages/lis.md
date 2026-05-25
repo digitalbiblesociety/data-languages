@@ -16,6 +16,9 @@ glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Burmo-Qiangic > Lolo-Burmese > Loloish > Ni-Li-Kazhouish > Lisoid > Nuclear Lisoid > Lisu-Laluba-Lavu > Lisu"
 wikipedia_url: "https://en.wikipedia.org/wiki/Lisu_language"
 translations:
+  - translation_iso: ara
+    name: لغة يسو
+    auto: true
   - translation_iso: jpn
     name: リス語
   - translation_iso: kor

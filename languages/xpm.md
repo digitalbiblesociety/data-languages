@@ -15,6 +15,9 @@ glottolog_family_name: Yeniseian
 glottolog_classification: "Yeniseian > Pumpokol"
 wikipedia_url: "https://en.wikipedia.org/wiki/Pumpokol_language"
 translations:
+  - translation_iso: ara
+    name: بومبوكول
+    auto: true
   - translation_iso: jpn
     name: パンポコル語
   - translation_iso: zho

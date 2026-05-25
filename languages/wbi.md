@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > East Bantu > Northeast Savanna Bantu > Southern Tanzania Highlands Bantu > Wanji-Sangu > Vwanji"
 wikipedia_url: "https://en.wikipedia.org/wiki/Vwanji_language"
 translations:
+  - translation_iso: ara
+    name: فواينجي
+    auto: true
   - translation_iso: jpn
     name: ヴワンジ語
     auto: true

@@ -15,6 +15,9 @@ glottolog_family_name: Nuclear Torricelli
 glottolog_classification: "Nuclear Torricelli > Urim"
 wikipedia_url: "https://en.wikipedia.org/wiki/Urim_language"
 translations:
+  - translation_iso: ara
+    name: أوريم
+    auto: true
   - translation_iso: jpn
     name: カルプ語
     auto: true

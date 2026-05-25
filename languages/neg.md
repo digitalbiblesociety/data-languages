@@ -15,6 +15,9 @@ glottolog_family_name: Tungusic
 glottolog_classification: "Tungusic > Northeastern Tungusic > Northern Tungusic > Negidalic > Negidal"
 wikipedia_url: "https://en.wikipedia.org/wiki/Negidal_language"
 translations:
+  - translation_iso: ara
+    name: نيجيدال
+    auto: true
   - translation_iso: jpn
     name: ネギダール語
   - translation_iso: kor

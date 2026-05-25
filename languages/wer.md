@@ -14,6 +14,9 @@ glottolog_family_id: kuni1270
 glottolog_family_name: Kunimaipan
 glottolog_classification: "Kunimaipan > Weric > Weri"
 translations:
+  - translation_iso: ara
+    name: ويري
+    auto: true
   - translation_iso: jpn
     name: ウェリ語
     auto: true

@@ -14,6 +14,9 @@ glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Madang > Croisilles > Mabuso > Gum > Gumalu"
 wikipedia_url: "https://en.wikipedia.org/wiki/Gumalu_language"
 translations:
+  - translation_iso: ara
+    name: غومآلو
+    auto: true
   - translation_iso: jpn
     name: グマル語
     auto: true

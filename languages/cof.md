@@ -15,6 +15,9 @@ glottolog_family_name: Barbacoan
 glottolog_classification: "Barbacoan > Awa-Southern Barbacoan > Cayapa-Colorado > Tsafiki"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tsafiki_language"
 translations:
+  - translation_iso: ara
+    name: الكولورادو
+    auto: true
   - translation_iso: jpn
     name: コロラド語
     auto: true

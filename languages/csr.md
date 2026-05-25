@@ -14,6 +14,9 @@ glottolog_family_name: Sign Language
 glottolog_classification: "Sign Language > L1 Sign Language > LSFic > ASLic > Costa Rican Sign Language"
 wikipedia_url: "https://en.wikipedia.org/wiki/Costa_Rican_Sign_Language"
 translations:
+  - translation_iso: ara
+    name: لغة الإشارة كوستاريكية
+    auto: true
   - translation_iso: jpn
     name: コスタリカ手話
   - translation_iso: zho

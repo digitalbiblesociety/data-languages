@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Akpes-Edoid > Edoid > Northwestern Edoid > Southern Northwestern Edoid > Oloma"
 wikipedia_url: "https://en.wikipedia.org/wiki/Oloma_language"
 translations:
+  - translation_iso: ara
+    name: اللغة أولوما
+    auto: true
   - translation_iso: jpn
     name: オロマ語
     auto: true

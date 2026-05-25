@@ -15,6 +15,9 @@ glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > Paman > Compromise Middle Pama > Wik > Kuku-Wik-Ep > Ep-Meanha-Keyenganh > Wik-Me'anha"
 wikipedia_url: "https://en.wikipedia.org/wiki/Wik-Me%27nh_language"
 translations:
+  - translation_iso: ara
+    name: ويكميانها
+    auto: true
   - translation_iso: jpn
     name: ウィク・メアンハ語
     auto: true

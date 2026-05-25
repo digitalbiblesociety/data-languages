@@ -9,6 +9,9 @@ status_id: "7"
 latitude: 27.15945
 longitude: 87.35371
 translations:
+  - translation_iso: ara
+    name: اللغة فانغدووالي
+    auto: true
   - translation_iso: jpn
     name: ファンドゥワリ語
     auto: true

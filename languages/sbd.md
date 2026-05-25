@@ -14,6 +14,9 @@ glottolog_family_id: mand1469
 glottolog_family_name: Mande
 glottolog_classification: "Mande > Eastern Mande > Bisa-Busa > Samo-Busa > Mande Samo > Southern Samo"
 translations:
+  - translation_iso: ara
+    name: ساذرن سامو
+    auto: true
   - translation_iso: jpn
     name: サネ語
     auto: true

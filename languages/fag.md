@@ -15,6 +15,9 @@ glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Finisterre-Huon > Finisterre-Saruwaged > Erap > Finungwan-Mamaa-Gusan > Finongan"
 wikipedia_url: "https://en.wikipedia.org/wiki/Finongan_language"
 translations:
+  - translation_iso: ara
+    name: الفينونغان
+    auto: true
   - translation_iso: jpn
     name: フィノンガン語
     auto: true

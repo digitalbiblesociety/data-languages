@@ -15,6 +15,9 @@ glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Brahmaputran > Bodo-Garo > Boroic > Tiwa-Boro > Tiwa (India)"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tiwa_language_(India)"
 translations:
+  - translation_iso: ara
+    name: تيوا
+    auto: true
   - translation_iso: hin
     name: टिवा भाषा
   - translation_iso: jpn

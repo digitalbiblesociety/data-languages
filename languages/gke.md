@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Cameroun-Ubangian > Mbumic > Northern Mbum > Dama-Galke > Ndai"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ndai_language"
 translations:
+  - translation_iso: ara
+    name: ندآي
+    auto: true
   - translation_iso: jpn
     name: ンダイ語
     auto: true

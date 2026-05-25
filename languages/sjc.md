@@ -14,6 +14,9 @@ glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Sinitic > Min > Inland Min > Min Beic > Shaojiang Chinese"
 wikipedia_url: "https://en.wikipedia.org/wiki/Shao%E2%80%93Jiang_Min"
 translations:
+  - translation_iso: ara
+    name: اللغة شاوجيانج الصينية
+    auto: true
   - translation_iso: jpn
     name: 閩贛語
   - translation_iso: zho

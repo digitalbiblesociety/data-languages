@@ -14,6 +14,9 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Northern Luzon > Meso-Cordilleran > South-Central Cordilleran > Southern Cordilleran > West Southern Cordilleran > Nuclear Southern Cordilleran > Kalanguya > Keley-i Kallahan"
 translations:
+  - translation_iso: ara
+    name: كيلي-آي كالاهان
+    auto: true
   - translation_iso: jpn
     name: ケレイ・イ・カッラハン語
     auto: true

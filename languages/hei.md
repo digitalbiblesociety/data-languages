@@ -15,6 +15,9 @@ glottolog_family_name: Wakashan
 glottolog_classification: "Wakashan > Northern Wakashan > Kwakiutlan > Heiltsuk-Oowekyala"
 wikipedia_url: "https://en.wikipedia.org/wiki/Heiltsuk%E2%80%93Oowekyala_language"
 translations:
+  - translation_iso: ara
+    name: هإيلتسوك
+    auto: true
   - translation_iso: jpn
     name: ヘイルツク語
   - translation_iso: zho

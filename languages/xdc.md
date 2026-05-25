@@ -14,6 +14,9 @@ glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Unclassified Indo-European > Dacian"
 wikipedia_url: "https://en.wikipedia.org/wiki/Dacian_language"
 translations:
+  - translation_iso: ara
+    name: داكيان
+    auto: true
   - translation_iso: jpn
     name: ダキア語
   - translation_iso: kor

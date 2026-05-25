@@ -16,6 +16,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > Bantu A-B10-B20-B30 > Seki"
 wikipedia_url: "https://en.wikipedia.org/wiki/Seki_language"
 translations:
+  - translation_iso: ara
+    name: سيكي
+    auto: true
   - translation_iso: jpn
     name: セケ語
   - translation_iso: zho

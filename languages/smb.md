@@ -14,6 +14,9 @@ glottolog_family_name: Angan
 glottolog_classification: "Angan > Nuclear Angan > Baruya-Simbari > Simbari"
 wikipedia_url: "https://en.wikipedia.org/wiki/Simbari_language"
 translations:
+  - translation_iso: ara
+    name: اللغة السيمباري
+    auto: true
   - translation_iso: jpn
     name: シンバリ語
   - translation_iso: zho

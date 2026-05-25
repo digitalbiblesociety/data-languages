@@ -15,6 +15,9 @@ glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > West Chadic > West Chadic B > West Chadic B.2 > Nuclear West Chadic B.2 > Ciwogai"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ciwogai_language"
 translations:
+  - translation_iso: ara
+    name: تشيووغاي
+    auto: true
   - translation_iso: jpn
     name: ツィウォガイ語
     auto: true

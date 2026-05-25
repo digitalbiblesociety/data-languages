@@ -6,6 +6,9 @@ country_name: Tanzania
 latitude: -9.26671
 longitude: 35.0364
 translations:
+  - translation_iso: ara
+    name: بينامانجا
+    auto: true
   - translation_iso: jpn
     name: ベナマンガ語
     auto: true

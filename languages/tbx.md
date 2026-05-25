@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > North New Guinea linkage > Huon Gulf > South Huon Gulf linkage > Buang linkage > Kapin"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kapin_language"
 translations:
+  - translation_iso: ara
+    name: كابين
+    auto: true
   - translation_iso: jpn
     name: カピン語
     auto: true

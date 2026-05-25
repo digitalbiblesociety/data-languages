@@ -8,6 +8,9 @@ country_name: United Kingdom
 status_id: null
 wikipedia_url: "https://en.wikipedia.org/wiki/Cumbric"
 translations:
+  - translation_iso: ara
+    name: كومبريك
+    auto: true
   - translation_iso: hin
     name: कुम्ब्रिक भाषा
   - translation_iso: jpn

@@ -15,6 +15,9 @@ glottolog_family_name: Ndu
 glottolog_classification: "Ndu > Nuclear Ndu > Sawosic > Iatmulic > Sos Kundi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Sos_Kundi_language"
 translations:
+  - translation_iso: ara
+    name: سوس كندي
+    auto: true
   - translation_iso: jpn
     name: アグバーネ語
     auto: true

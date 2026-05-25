@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Kainji > Central Kainji > Basa-Eastern Kainji > Basa > Kontagora-Gumna-Koromba > Basa-Gurmana"
 wikipedia_url: "https://en.wikipedia.org/wiki/Koromba_language"
 translations:
+  - translation_iso: ara
+    name: باسا-جورْمانا
+    auto: true
   - translation_iso: jpn
     name: バサ・グルマナ語
     auto: true

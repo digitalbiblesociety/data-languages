@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > Bantu A-B10-B20-B30 > Makaa-Kako (A.80-90) > Pol"
 wikipedia_url: "https://en.wikipedia.org/wiki/Pol_language"
 translations:
+  - translation_iso: ara
+    name: اللغة بومو
+    auto: true
   - translation_iso: jpn
     name: ポモ語
     auto: true

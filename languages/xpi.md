@@ -15,6 +15,9 @@ glottolog_family_name: Unclassifiable
 glottolog_classification: "Unclassifiable > Pictish"
 wikipedia_url: "https://en.wikipedia.org/wiki/Pictish_language"
 translations:
+  - translation_iso: ara
+    name: بيكتية
+    auto: true
   - translation_iso: jpn
     name: ピクト語
   - translation_iso: kor

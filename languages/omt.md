@@ -15,6 +15,9 @@ glottolog_family_name: Nilotic
 glottolog_classification: "Nilotic > Southern Nilotic > Tatoga-Omotik > Omotik"
 wikipedia_url: "https://en.wikipedia.org/wiki/Omotik_language"
 translations:
+  - translation_iso: ara
+    name: اللغة أوموتيك
+    auto: true
   - translation_iso: jpn
     name: オモティク語
   - translation_iso: zho

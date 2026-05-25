@@ -14,6 +14,9 @@ glottolog_family_id: aust1305
 glottolog_family_name: Austroasiatic
 glottolog_classification: "Austroasiatic > Katuic > West Katuic > Kuy-Souei > Nyeu"
 translations:
+  - translation_iso: ara
+    name: نييو
+    auto: true
   - translation_iso: jpn
     name: ニェウ語
     auto: true

@@ -14,6 +14,9 @@ glottolog_family_id: aust1305
 glottolog_family_name: Austroasiatic
 glottolog_classification: "Austroasiatic > Bahnaric > West Bahnaric > South Bahnaric > Koho-Maa > Maa"
 translations:
+  - translation_iso: ara
+    name: الماا
+    auto: true
   - translation_iso: jpn
     name: マー語
     auto: true

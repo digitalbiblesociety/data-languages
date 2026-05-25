@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > Bantu A-B10-B20-B30 > Lundu-Balong (A.10) > Greater Manenguba > Bafaw-Balong-Manenguba > Bafawic-Bakweric > Bakweric > Mokpwe"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kpwe_language"
 translations:
+  - translation_iso: ara
+    name: موكْپوي
+    auto: true
   - translation_iso: jpn
     name: バクウェリ語
   - translation_iso: zho

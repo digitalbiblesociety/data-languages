@@ -14,6 +14,9 @@ glottolog_family_name: Maban
 glottolog_classification: "Maban > Mabang > Maba-Masalit > Macro-Masalit > Surbakhal"
 wikipedia_url: "https://en.wikipedia.org/wiki/Surbakhal_language"
 translations:
+  - translation_iso: ara
+    name: سوربخال
+    auto: true
   - translation_iso: jpn
     name: スルバカル語
     auto: true

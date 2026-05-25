@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Kwa Volta-Congo > Nyo > Potou-Tano > Tano > Guang > North Guang > Oti North Guang > River Oti North Guang > Chumbuli > Tchumbuli"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tchumbuli_language"
 translations:
+  - translation_iso: ara
+    name: تشومبولي
+    auto: true
   - translation_iso: jpn
     name: チュンブリ語
   - translation_iso: zho

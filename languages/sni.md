@@ -15,6 +15,9 @@ glottolog_family_name: Pano-Tacanan
 glottolog_classification: "Pano-Tacanan > Panoan > Mainline Pano > Pano Nawa > Chama subgroup > Sensi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Sensi_language"
 translations:
+  - translation_iso: ara
+    name: اللغة السينسي
+    auto: true
   - translation_iso: jpn
     name: テンティ語
     auto: true

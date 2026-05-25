@@ -15,6 +15,9 @@ glottolog_family_id: hmon1336
 glottolog_family_name: Hmong-Mien
 glottolog_classification: "Hmong-Mien > Hmongic > Nuclear Hmongic-Ho Ne > Nuclear Hmongic > West Hmongic > Greater Chuanqiandian > Chuanqiandian > First Vernacular Hmong > Far Western Miao > Hmong Daw"
 translations:
+  - translation_iso: ara
+    name: لغة همونج داو
+    auto: true
   - translation_iso: jpn
     name: 白苗語
   - translation_iso: zho

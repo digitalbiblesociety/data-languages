@@ -15,6 +15,9 @@ glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > West Chadic > West Chadic B > West Chadic B.3 > South Bauchi East > Guruntumic > Guruntum-Mbaaru"
 wikipedia_url: "https://en.wikipedia.org/wiki/Guruntum_language"
 translations:
+  - translation_iso: ara
+    name: غورونتوم-مبآآرو
+    auto: true
   - translation_iso: jpn
     name: グルントゥム・ムバール語
     auto: true

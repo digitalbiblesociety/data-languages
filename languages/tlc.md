@@ -15,6 +15,9 @@ glottolog_family_name: Totonacan
 glottolog_classification: "Totonacan > Totonac > Yecuatla Totonac"
 wikipedia_url: "https://en.wikipedia.org/wiki/Misantla_Totonac"
 translations:
+  - translation_iso: ara
+    name: توتوناك ييكواتلا
+    auto: true
   - translation_iso: jpn
     name: イェクアトラ・トトナック語
     auto: true

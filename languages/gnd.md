@@ -15,6 +15,9 @@ glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > Biu-Mandara > North Biu-Mandara > Margi-Mandara-Mofu > Mofuic > Meri > Zulgo-Gemzek"
 wikipedia_url: "https://en.wikipedia.org/wiki/Zulgo-Gemzek_language"
 translations:
+  - translation_iso: ara
+    name: زولغو-غإمزإك
+    auto: true
   - translation_iso: jpn
     name: ズルゴ・ゲムゼク語
     auto: true

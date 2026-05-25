@@ -15,6 +15,9 @@ glottolog_family_name: Sko
 glottolog_classification: "Sko > Skou-Serra-Piore > Skouic > Eastern Skouic > West Coast Skouic > Wutung"
 wikipedia_url: "https://en.wikipedia.org/wiki/Wutung_language"
 translations:
+  - translation_iso: ara
+    name: ووتونغ
+    auto: true
   - translation_iso: jpn
     name: ウトゥン語
     auto: true

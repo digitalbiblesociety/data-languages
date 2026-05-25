@@ -15,6 +15,9 @@ glottolog_family_name: Araucanian
 glottolog_classification: "Araucanian > Huilliche"
 wikipedia_url: "https://en.wikipedia.org/wiki/Huilliche_language"
 translations:
+  - translation_iso: ara
+    name: هويليتشي
+    auto: true
   - translation_iso: jpn
     name: ウィリチェ語
   - translation_iso: kor

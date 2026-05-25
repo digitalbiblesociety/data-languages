@@ -15,6 +15,9 @@ glottolog_family_name: Tupian
 glottolog_classification: "Tupian > Eastern Tupian > Maweti-Guarani > Aweti-Guarani > Tupi-Guarani > Tupi-Guarani Subgroup VIII > Wayampi-Zoe-Emerillon > Zoe-Emerillon > Zo'é"
 wikipedia_url: "https://en.wikipedia.org/wiki/Zo%CA%BC%C3%A9_language"
 translations:
+  - translation_iso: ara
+    name: اللغة زوايي
+    auto: true
   - translation_iso: jpn
     name: ゾエ語
   - translation_iso: zho

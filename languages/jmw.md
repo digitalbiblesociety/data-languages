@@ -13,6 +13,9 @@ glottolog_family_id: tura1263
 glottolog_family_name: Turama-Kikori
 glottolog_classification: "Turama-Kikori > Turama-Omatian > Mouwase"
 translations:
+  - translation_iso: ara
+    name: لغة موواسي
+    auto: true
   - translation_iso: jpn
     name: モウワセ語
     auto: true

@@ -14,6 +14,9 @@ glottolog_family_id: otom1299
 glottolog_family_name: Otomanguean
 glottolog_classification: "Otomanguean > Eastern Otomanguean > Popoloca-Zapotecan > Zapotecan > Chatino > Core Chatino > Coastal Chatino > Eastern Chatino > Western Highland Chatino"
 translations:
+  - translation_iso: ara
+    name: الشاتينو الغربي الأعلى
+    auto: true
   - translation_iso: jpn
     name: ウェスタン・ハイランド・チャティーノ語
     auto: true

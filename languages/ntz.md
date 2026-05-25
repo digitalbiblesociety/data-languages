@@ -15,6 +15,9 @@ glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Iranian-Nuristani > Iranian > Central Iranian PBS > Central Iranian PB > Northwestern Iranian > Central Iran Kermanic > Nuclear Central Iran Kermanic > Kashanic > Natanzic"
 wikipedia_url: "https://en.wikipedia.org/wiki/Natanzi_language"
 translations:
+  - translation_iso: ara
+    name: ناتانزي
+    auto: true
   - translation_iso: jpn
     name: ナタンズ語
   - translation_iso: zho

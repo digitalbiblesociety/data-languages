@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Nunusaku > Piru Bay > East Piru Bay > Solehua > Seram Straits > Uliase > Hatuhaha > Saparuan > Elpaputi > Nusa Laut"
 wikipedia_url: "https://en.wikipedia.org/wiki/Nusa_Laut_language"
 translations:
+  - translation_iso: ara
+    name: نوسا لاوت
+    auto: true
   - translation_iso: jpn
     name: ヌサ・ラウト語
     auto: true

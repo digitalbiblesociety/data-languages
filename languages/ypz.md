@@ -13,6 +13,9 @@ glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Burmo-Qiangic > Lolo-Burmese > Loloish > Ni-Li-Kazhouish > Southeastern Ngwi > Riverine Phula > Downriver Riverine Phula > Phupa-Phuza > Phuza"
 translations:
+  - translation_iso: ara
+    name: اللغة فوزا
+    auto: true
   - translation_iso: jpn
     name: フーザ語
     auto: true

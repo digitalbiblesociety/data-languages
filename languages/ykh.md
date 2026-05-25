@@ -13,6 +13,9 @@ glottolog_family_name: Mongolic-Khitan
 glottolog_classification: "Mongolic-Khitan > Mongolic > Eastern Mongolic > Khamnigan Mongol"
 wikipedia_url: "https://en.wikipedia.org/wiki/Khamnigan_Mongol"
 translations:
+  - translation_iso: ara
+    name: اللغة خامنيجان مونغول
+    auto: true
   - translation_iso: jpn
     name: ハムニガン族
   - translation_iso: kor

@@ -15,6 +15,9 @@ glottolog_family_name: Anim
 glottolog_classification: "Anim > Marind-Boazi-Yaqai > Boazi > Zimakani"
 wikipedia_url: "https://en.wikipedia.org/wiki/Zimakani_language"
 translations:
+  - translation_iso: ara
+    name: اللغة زيماكاني
+    auto: true
   - translation_iso: jpn
     name: ジマカニ語
     auto: true

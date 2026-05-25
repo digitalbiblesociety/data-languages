@@ -15,6 +15,9 @@ glottolog_family_id: utoa1244
 glottolog_family_name: Uto-Aztecan
 glottolog_classification: "Uto-Aztecan > Southern Uto-Aztecan > Corachol-Aztecan > Aztec > Eastern Nahuatl > Huasteca Nahuatl > Central Huasteca Nahuatl"
 translations:
+  - translation_iso: ara
+    name: سينترال هواستيكا ناهواتل
+    auto: true
   - translation_iso: jpn
     name: 中央ワステカ・ナワトル語
     auto: true

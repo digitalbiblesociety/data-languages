@@ -15,6 +15,9 @@ glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Bodic > Bodish > Early Old Tibetan > Middle Old Tibetan > Late Old Tibetan > Eastern Tibetic > Choni"
 wikipedia_url: "https://en.wikipedia.org/wiki/Choni_language"
 translations:
+  - translation_iso: ara
+    name: الشوني
+    auto: true
   - translation_iso: jpn
     name: チョニ語
     auto: true

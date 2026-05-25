@@ -14,6 +14,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > South Halmahera-West New Guinea > Tandia"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tandia_language"
 translations:
+  - translation_iso: ara
+    name: تانديا
+    auto: true
   - translation_iso: jpn
     name: タンディア語
     auto: true

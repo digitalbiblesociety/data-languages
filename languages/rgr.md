@@ -15,6 +15,9 @@ glottolog_family_name: Arawakan
 glottolog_classification: "Arawakan > Japura-Colombia > Nuclear Japura-Colombia > Caqueta > Resígaro"
 wikipedia_url: "https://en.wikipedia.org/wiki/Res%C3%ADgaro_language"
 translations:
+  - translation_iso: ara
+    name: ريسيجارو
+    auto: true
   - translation_iso: jpn
     name: レシガロ語
   - translation_iso: zho

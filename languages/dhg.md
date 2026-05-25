@@ -15,6 +15,9 @@ glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > Yuulngu > Southern Yolngu > Southern-Eastern Yolngu > Dhangu"
 wikipedia_url: "https://en.wikipedia.org/wiki/Dhangu-Djangu_language"
 translations:
+  - translation_iso: ara
+    name: ديانجو
+    auto: true
   - translation_iso: jpn
     name: ダングゥ・ジャングゥ語
     auto: true

@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Greater Central Philippine > Manobo > Central and Southern Manobo > East-West-Central Manobo > West Manobo > WBM-Livunganen-Ilianen > Western Bukidnon Manobo"
 wikipedia_url: "https://en.wikipedia.org/wiki/Western_Bukidnon_Manobo"
 translations:
+  - translation_iso: ara
+    name: لغة بوكيدنون الغربية
+    auto: true
   - translation_iso: jpn
     name: 西ブキドノン・マノボ語
   - translation_iso: zho

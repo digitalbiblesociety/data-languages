@@ -15,6 +15,9 @@ glottolog_family_name: Sign Language
 glottolog_classification: "Sign Language > L1 Sign Language > LSFic > ASLic > Puerto Rican Sign Language"
 wikipedia_url: "https://en.wikipedia.org/wiki/Puerto_Rican_Sign_Language"
 translations:
+  - translation_iso: ara
+    name: لغة الإشارة البورتوريكية
+    auto: true
   - translation_iso: jpn
     name: プエルトリコ手話
   - translation_iso: zho

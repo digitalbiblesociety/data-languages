@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > East Bantu > Northeast Savanna Bantu > Great Lakes Bantu > West Nyanza > Rutara > South Rutara > Nyambo"
 wikipedia_url: "https://en.wikipedia.org/wiki/Nyambo_language"
 translations:
+  - translation_iso: ara
+    name: نييامبو
+    auto: true
   - translation_iso: jpn
     name: ニャンボ語
     auto: true

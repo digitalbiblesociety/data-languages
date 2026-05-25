@@ -15,6 +15,9 @@ glottolog_family_name: Palaihnihan
 glottolog_classification: "Palaihnihan > Achumawi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Achumawi_language"
 translations:
+  - translation_iso: ara
+    name: لغة أتشومّاوي
+    auto: true
   - translation_iso: jpn
     name: アチョマウィ語
   - translation_iso: zho

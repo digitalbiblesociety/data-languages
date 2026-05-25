@@ -15,6 +15,9 @@ glottolog_family_name: Japonic
 glottolog_classification: "Japonic > Ryukyuan > Southern Ryukyu > Macro-Yaeyama > Yonaguni"
 wikipedia_url: "https://en.wikipedia.org/wiki/Yonaguni_language"
 translations:
+  - translation_iso: ara
+    name: لغة يونانغوني
+    auto: true
   - translation_iso: jpn
     name: 与那国語
   - translation_iso: kor

@@ -15,6 +15,9 @@ glottolog_family_name: Uto-Aztecan
 glottolog_classification: "Uto-Aztecan > Southern Uto-Aztecan > Cahitan > Yaqui"
 wikipedia_url: "https://en.wikipedia.org/wiki/Yaqui_language"
 translations:
+  - translation_iso: ara
+    name: ياكي
+    auto: true
   - translation_iso: jpn
     name: ヤキ語
   - translation_iso: zho

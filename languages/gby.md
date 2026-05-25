@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Ebira-Nupoid > Macro-Nupoid > Gbagyi-Gbari > Gbari"
 wikipedia_url: "https://en.wikipedia.org/wiki/Gwari_language"
 translations:
+  - translation_iso: ara
+    name: الجباري
+    auto: true
   - translation_iso: jpn
     name: グワリ語
   - translation_iso: zho

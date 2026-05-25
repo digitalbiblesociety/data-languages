@@ -15,6 +15,9 @@ glottolog_family_name: Tangkic
 glottolog_classification: "Tangkic > Lardil"
 wikipedia_url: "https://en.wikipedia.org/wiki/Lardil_language"
 translations:
+  - translation_iso: ara
+    name: لاردل
+    auto: true
   - translation_iso: jpn
     name: ラルディル語
   - translation_iso: zho

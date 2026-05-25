@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > Bantu A-B10-B20-B30 > Bafia (A.50) > Tibea"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tibea_language"
 translations:
+  - translation_iso: ara
+    name: تيبيا
+    auto: true
   - translation_iso: jpn
     name: ティベア語
     auto: true

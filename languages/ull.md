@@ -15,6 +15,9 @@ glottolog_family_name: Dravidian
 glottolog_classification: "Dravidian > South Dravidian > South Dravidian I > Tamil-Kannada > Tamil-Kota > Tamil-Toda > Tamil-Irula > Tamil-Kodagu > Tamil-Malayalam > Malayalamoid > Ullatan"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ullatan_language"
 translations:
+  - translation_iso: ara
+    name: أوللاتان
+    auto: true
   - translation_iso: jpn
     name: コチュ・ヴェラン語
     auto: true

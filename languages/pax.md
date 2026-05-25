@@ -14,6 +14,9 @@ glottolog_family_id: unat1236
 glottolog_family_name: Unattested
 glottolog_classification: "Unattested > Pankararé"
 translations:
+  - translation_iso: ara
+    name: اللغة بانكارري
+    auto: true
   - translation_iso: jpn
     name: パンカラレ語
     auto: true

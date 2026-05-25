@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > Central-Western Bantu > North Zaire River > Rivers Bantu > Likouala-Sangha > Dibole"
 wikipedia_url: "https://en.wikipedia.org/wiki/Bole_language_(Bantu)"
 translations:
+  - translation_iso: ara
+    name: ديبولي
+    auto: true
   - translation_iso: jpn
     name: ディボレ語
     auto: true

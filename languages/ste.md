@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Greater Seram Laut > East Seram > Setic > Liana-Seti"
 wikipedia_url: "https://en.wikipedia.org/wiki/Liana_language"
 translations:
+  - translation_iso: ara
+    name: اللغة ليانا-سيتي
+    auto: true
   - translation_iso: jpn
     name: リアナセティ語
     auto: true

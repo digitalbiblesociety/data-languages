@@ -15,6 +15,9 @@ glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > Southeastern Pama-Nyungan > North Coast Pama-Nyungan > Gumbaynggiric > Kumbainggar"
 wikipedia_url: "https://en.wikipedia.org/wiki/Gumbaynggirr_language"
 translations:
+  - translation_iso: ara
+    name: لغة كومبايينجار
+    auto: true
   - translation_iso: jpn
     name: クンバインガル語
     auto: true

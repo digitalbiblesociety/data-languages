@@ -15,6 +15,9 @@ glottolog_family_name: Mongolic-Khitan
 glottolog_classification: "Mongolic-Khitan > Mongolic > Southern Periphery Mongolic > Shirongol > Monguoric > Mongghul"
 wikipedia_url: "https://en.wikipedia.org/wiki/Monguor_language"
 translations:
+  - translation_iso: ara
+    name: لغة تو
+    auto: true
   - translation_iso: jpn
     name: モングォル語
   - translation_iso: kor

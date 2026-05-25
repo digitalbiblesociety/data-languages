@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > South Halmahera-West New Guinea > Cenderawasih Bay > Yapen > Central-Western Yapen > Central Yapen > Pom"
 wikipedia_url: "https://en.wikipedia.org/wiki/Pom_language"
 translations:
+  - translation_iso: ara
+    name: اللغة بوم
+    auto: true
   - translation_iso: jpn
     name: ポム語
   - translation_iso: zho

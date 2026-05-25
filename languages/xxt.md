@@ -11,6 +11,9 @@ longitude: 118
 glottocode: tamb1257
 wikipedia_url: "https://en.wikipedia.org/wiki/Tambora_language"
 translations:
+  - translation_iso: ara
+    name: تامبورا
+    auto: true
   - translation_iso: jpn
     name: タンボラ語
   - translation_iso: kor

@@ -14,6 +14,9 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Malayo-Chamic > Malayic > Nuclear Malayic > East Borneo Malay > Banjar-Berau-Brunei Malay > Berau-Brunei Malay > Bruneic Malay > Sabah Malay"
 translations:
+  - translation_iso: ara
+    name: لغة صابح مالاي
+    auto: true
   - translation_iso: jpn
     name: サバ・マレー語
   - translation_iso: zho

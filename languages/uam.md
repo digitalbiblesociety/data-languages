@@ -15,6 +15,9 @@ glottolog_family_name: Unclassifiable
 glottolog_classification: "Unclassifiable > Uamué"
 wikipedia_url: "https://en.wikipedia.org/wiki/Uamu%C3%A9_language"
 translations:
+  - translation_iso: ara
+    name: أوامويه
+    auto: true
   - translation_iso: jpn
     name: アティカム語
     auto: true

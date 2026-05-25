@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Bua-Kim-Day > Kim-Besme-Goundo > Kim"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kim_language"
 translations:
+  - translation_iso: ara
+    name: لغة كيم
+    auto: true
   - translation_iso: jpn
     name: キム語
     auto: true

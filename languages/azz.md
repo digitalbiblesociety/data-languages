@@ -14,6 +14,9 @@ glottolog_family_id: utoa1244
 glottolog_family_name: Uto-Aztecan
 glottolog_classification: "Uto-Aztecan > Southern Uto-Aztecan > Corachol-Aztecan > Aztec > Eastern Nahuatl > Sierra de Puebla Nahuatl > Highland Puebla Nahuatl"
 translations:
+  - translation_iso: ara
+    name: اللغة ناهوتل بويبلا الجبلية
+    auto: true
   - translation_iso: jpn
     name: 高地プエブラ・ナワトル語
     auto: true

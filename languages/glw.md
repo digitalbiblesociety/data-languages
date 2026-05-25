@@ -15,6 +15,9 @@ glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > Biu-Mandara > North Biu-Mandara > Margi-Mandara-Mofu > Mandaraic > Wandala-Malgwa-Glavda > Glavda"
 wikipedia_url: "https://en.wikipedia.org/wiki/Glavda_language"
 translations:
+  - translation_iso: ara
+    name: غلآفدآ
+    auto: true
   - translation_iso: jpn
     name: グラヴダ語
     auto: true

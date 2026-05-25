@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Western Plains Austronesian > Central Western Plains > Papora-Hoanya"
 wikipedia_url: "https://en.wikipedia.org/wiki/Papora-Hoanya_language"
 translations:
+  - translation_iso: ara
+    name: اللغة بابورا
+    auto: true
   - translation_iso: jpn
     name: パポラ・ホアンヤ語
   - translation_iso: kor

@@ -15,6 +15,9 @@ glottolog_family_name: Austroasiatic
 glottolog_classification: "Austroasiatic > Mundaic > North Munda > Kherwarian > Santalic > Kol (Bangladesh)"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kol_language_(Bangladesh)"
 translations:
+  - translation_iso: ara
+    name: الكول
+    auto: true
   - translation_iso: jpn
     name: コル語
   - translation_iso: kor

@@ -15,6 +15,9 @@ glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Kuki-Chin-Naga > Kuki-Chin > Central Kuki-Chin > Core Central Kuki-Chin > Lai Chin > Falamic > Bawm Chin"
 wikipedia_url: "https://en.wikipedia.org/wiki/Bawm_language"
 translations:
+  - translation_iso: ara
+    name: باوم تشين
+    auto: true
   - translation_iso: hin
     name: बॉम भाषा
   - translation_iso: jpn

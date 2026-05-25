@@ -15,6 +15,9 @@ glottolog_family_name: Sign Language
 glottolog_classification: "Sign Language > L1 Sign Language > JSLic > Taiwan Sign Language"
 wikipedia_url: "https://en.wikipedia.org/wiki/Taiwan_Sign_Language"
 translations:
+  - translation_iso: ara
+    name: لغة الإشارة التايوانية
+    auto: true
   - translation_iso: jpn
     name: 台湾手話
   - translation_iso: kor

@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > North New Guinea linkage > Schouten linkage > Siau > Sissano-Tumleo > Sera-Sissano > Sissanoic > Sissano"
 wikipedia_url: "https://en.wikipedia.org/wiki/Sissano_language"
 translations:
+  - translation_iso: ara
+    name: اللغة سيسانو
+    auto: true
   - translation_iso: jpn
     name: シサノ語
   - translation_iso: zho

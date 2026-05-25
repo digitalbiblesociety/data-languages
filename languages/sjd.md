@@ -15,6 +15,9 @@ glottolog_family_name: Uralic
 glottolog_classification: "Uralic > Saami > Eastern Saami > Peninsular Eastern Saami > Kildin Saami"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kildin_S%C3%A1mi"
 translations:
+  - translation_iso: ara
+    name: اللغة كيلدين سامي
+    auto: true
   - translation_iso: jpn
     name: キルディン・サーミ語
   - translation_iso: kor

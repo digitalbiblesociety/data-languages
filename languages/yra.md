@@ -12,6 +12,9 @@ longitude: 142.94708
 glottocode: yera1243
 wikipedia_url: "https://en.wikipedia.org/wiki/Yerakai_language"
 translations:
+  - translation_iso: ara
+    name: اللغة يراكاي
+    auto: true
   - translation_iso: jpn
     name: イェラカイ語
     auto: true

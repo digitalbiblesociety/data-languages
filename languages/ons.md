@@ -14,6 +14,9 @@ glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Finisterre-Huon > Huon > Eastern Huon > Kalasa > Ono"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ono_language"
 translations:
+  - translation_iso: ara
+    name: اللغة أونو
+    auto: true
   - translation_iso: jpn
     name: オノ語
     auto: true

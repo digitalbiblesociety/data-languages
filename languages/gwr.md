@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > East Bantu > Northeast Savanna Bantu > Great Lakes Bantu > West Nyanza > North Nyanza > South Kyoga > East Kyoga > Gwere"
 wikipedia_url: "https://en.wikipedia.org/wiki/Gwere_language"
 translations:
+  - translation_iso: ara
+    name: غوإرإ
+    auto: true
   - translation_iso: jpn
     name: グウェレ語
   - translation_iso: zho

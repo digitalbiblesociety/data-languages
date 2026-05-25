@@ -14,6 +14,9 @@ glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Anatolian > Luvo-Lydian > Luvo-Palaic > Luvic > Lyco-Carian > Lyco-Sidetic > Sidetic"
 wikipedia_url: "https://en.wikipedia.org/wiki/Sidetic_language"
 translations:
+  - translation_iso: ara
+    name: سيديتية
+    auto: true
   - translation_iso: jpn
     name: シデ語
   - translation_iso: kor

@@ -14,6 +14,9 @@ glottolog_family_name: Sign Language
 glottolog_classification: "Sign Language > L1 Sign Language > Afghan Sign Language"
 wikipedia_url: "https://en.wikipedia.org/wiki/Afghan_Sign_Language"
 translations:
+  - translation_iso: ara
+    name: لغة الإشارة الأفغانية
+    auto: true
   - translation_iso: jpn
     name: アフガン手話
   - translation_iso: zho

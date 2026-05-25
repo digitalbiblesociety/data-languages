@@ -15,6 +15,9 @@ glottolog_family_name: Mixe-Zoque
 glottolog_classification: "Mixe-Zoque > Zoque > Gulf Zoque > Texistepec-Ayapa Zoque > Texistepec Popoluca"
 wikipedia_url: "https://en.wikipedia.org/wiki/Texistepec_language"
 translations:
+  - translation_iso: ara
+    name: اللغة بوبولوكا تيكسيستيبك
+    auto: true
   - translation_iso: jpn
     name: テキステペックポプロッカ語
     auto: true

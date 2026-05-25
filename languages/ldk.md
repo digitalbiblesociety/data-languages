@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Cameroun-Ubangian > Bikwin-Jen > Southern Bikwin-Jen > Bambuka-Gomu-Leelau > Leelau"
 wikipedia_url: "https://en.wikipedia.org/wiki/Leelau_language"
 translations:
+  - translation_iso: ara
+    name: ليلاو
+    auto: true
   - translation_iso: jpn
     name: リーラウ語
     auto: true

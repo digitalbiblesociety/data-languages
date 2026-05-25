@@ -15,6 +15,9 @@ glottolog_family_name: Unattested
 glottolog_classification: "Unattested > Weyto"
 wikipedia_url: "https://en.wikipedia.org/wiki/Weyto_language"
 translations:
+  - translation_iso: ara
+    name: وييتو
+    auto: true
   - translation_iso: jpn
     name: ウェイトー語
   - translation_iso: zho

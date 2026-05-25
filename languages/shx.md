@@ -15,6 +15,9 @@ glottolog_family_name: Hmong-Mien
 glottolog_classification: "Hmong-Mien > Hmongic > Nuclear Hmongic-Ho Ne > Jiongnai-Ho Ne > Ho Neic > She"
 wikipedia_url: "https://en.wikipedia.org/wiki/She_language"
 translations:
+  - translation_iso: ara
+    name: اللغة الشي
+    auto: true
   - translation_iso: jpn
     name: シェ語
   - translation_iso: kor

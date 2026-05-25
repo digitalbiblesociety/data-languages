@@ -14,6 +14,9 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Beboid > Eastern Beboid > Bebe-Kemezung > Naki-Kemezung > Nakic > Mashi (Nigeria)"
 translations:
+  - translation_iso: ara
+    name: لغة ماشي
+    auto: true
   - translation_iso: jpn
     name: マシ語
     auto: true

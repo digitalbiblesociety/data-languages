@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > North New Guinea linkage > Ngero-Vitiaz linkage > Vitiaz linkage > Southwest New Britain linkage > Arawe-Pasismanua > Bebeli-Mangseng > Bebeli"
 wikipedia_url: "https://en.wikipedia.org/wiki/Bebeli_language"
 translations:
+  - translation_iso: ara
+    name: بيبيلي
+    auto: true
   - translation_iso: jpn
     name: カポレ語
   - translation_iso: zho

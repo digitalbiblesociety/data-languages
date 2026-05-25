@@ -9,6 +9,9 @@ country_name: Greece
 status_id: null
 wikipedia_url: "https://en.wikipedia.org/wiki/Gerai_language"
 translations:
+  - translation_iso: ara
+    name: جيراي
+    auto: true
   - translation_iso: jpn
     name: ゲライ語
     auto: true

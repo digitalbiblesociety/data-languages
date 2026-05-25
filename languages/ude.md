@@ -16,6 +16,9 @@ glottolog_family_name: Tungusic
 glottolog_classification: "Tungusic > Northeastern Tungusic > Central-Eastern Tungusic > Oroch-Udihe > Udihe"
 wikipedia_url: "https://en.wikipedia.org/wiki/Udege_language"
 translations:
+  - translation_iso: ara
+    name: أودياه
+    auto: true
   - translation_iso: jpn
     name: ウデゲ語
   - translation_iso: kor

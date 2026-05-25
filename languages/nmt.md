@@ -14,6 +14,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Micronesian > Central Micronesian > Western Micronesian > Chuukic-Ponapeic > Trukic > Nuclear Trukic > Central Trukic > Satawalese-Carolinian > Macro-Carolinian > Namonuito"
 wikipedia_url: "https://en.wikipedia.org/wiki/Namonuito_language"
 translations:
+  - translation_iso: ara
+    name: نامونويتو
+    auto: true
   - translation_iso: jpn
     name: ナモヌイト語
   - translation_iso: zho

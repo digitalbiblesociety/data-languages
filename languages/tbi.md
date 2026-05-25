@@ -15,6 +15,9 @@ glottolog_family_name: Eastern Jebel
 glottolog_classification: "Eastern Jebel > Gaam"
 wikipedia_url: "https://en.wikipedia.org/wiki/Gaam_language"
 translations:
+  - translation_iso: ara
+    name: غاام
+    auto: true
   - translation_iso: jpn
     name: ガアム語
     auto: true

@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > North-Central Atlantic > Tenda > Wamey"
 wikipedia_url: "https://en.wikipedia.org/wiki/Wamey"
 translations:
+  - translation_iso: ara
+    name: الوامي
+    auto: true
   - translation_iso: jpn
     name: コニアギ語
   - translation_iso: kor

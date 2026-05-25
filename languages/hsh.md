@@ -15,6 +15,9 @@ glottolog_family_name: Sign Language
 glottolog_classification: "Sign Language > L1 Sign Language > LSFic > Central European Sign > Nuclear Central European Sign > Hungarian Sign Language"
 wikipedia_url: "https://en.wikipedia.org/wiki/Hungarian_Sign_Language"
 translations:
+  - translation_iso: ara
+    name: لغة الإشارة المجرية
+    auto: true
   - translation_iso: jpn
     name: ハンガリー手話
   - translation_iso: zho

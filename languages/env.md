@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Akpes-Edoid > Edoid > Northwestern Edoid > Igwic > Ikpeshic > Enwan (Edo State)"
 wikipedia_url: "https://en.wikipedia.org/wiki/Enwan_language"
 translations:
+  - translation_iso: ara
+    name: الإنوان
+    auto: true
   - translation_iso: jpn
     name: エンワン語
     auto: true

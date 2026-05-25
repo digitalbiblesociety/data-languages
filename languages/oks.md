@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Oko-Eni-Osayen"
 wikipedia_url: "https://en.wikipedia.org/wiki/Oko_language"
 translations:
+  - translation_iso: ara
+    name: اللغة أوكو إني أوسايين
+    auto: true
   - translation_iso: jpn
     name: オコ語
   - translation_iso: zho

@@ -14,6 +14,9 @@ glottolog_family_id: utoa1244
 glottolog_family_name: Uto-Aztecan
 glottolog_classification: "Uto-Aztecan > Southern Uto-Aztecan > Corachol-Aztecan > Aztec > Western Nahuatl > Central Nahuatl > Tlaxcala-Southeastern Puebla Nahuatl > Southeast Puebla-Northern Oaxaca Nahuatl > Northern Oaxaca Nahuatl"
 translations:
+  - translation_iso: ara
+    name: نورثرن أواكاكا ناهواتل
+    auto: true
   - translation_iso: jpn
     name: 北オアハカ・ナワトル語
     auto: true

@@ -8,6 +8,9 @@ country_name: Australia
 status_id: 8b
 wikipedia_url: "https://en.wikipedia.org/wiki/Wergaia_dialect"
 translations:
+  - translation_iso: ara
+    name: ويرغايا
+    auto: true
   - translation_iso: jpn
     name: ウェルガイア語
     auto: true

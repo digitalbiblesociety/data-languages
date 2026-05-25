@@ -15,6 +15,9 @@ glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Germanic > Northwest Germanic > West Germanic > North Sea Germanic > Anglo-Frisian > Anglic > Later Anglic > Middle-Modern English > Macro-English > Guinea Coast Creole English > Caribbean English Creole > Eastern Caribbean Creole > Gullah-Nevis-Antigua > Gullah > Bahamian Gullah > Turks And Caicos Creole English"
 wikipedia_url: "https://en.wikipedia.org/wiki/Turks_and_Caicos_Creole"
 translations:
+  - translation_iso: ara
+    name: لغة الإنجليزية الكريولية بتوركس وكايكوس
+    auto: true
   - translation_iso: jpn
     name: タークス・カイコス・クレオール英語
     auto: true

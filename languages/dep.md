@@ -15,6 +15,9 @@ glottolog_family_name: Pidgin
 glottolog_classification: "Pidgin > Delaware-based pidgin > Pidgin Delaware"
 wikipedia_url: "https://en.wikipedia.org/wiki/Pidgin_Delaware"
 translations:
+  - translation_iso: ara
+    name: بيدجن ديلاوير
+    auto: true
   - translation_iso: jpn
     name: デラウェア・ピジン語
     auto: true

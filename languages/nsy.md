@@ -14,6 +14,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Sumatran > Nasal"
 wikipedia_url: "https://en.wikipedia.org/wiki/Nasal_language"
 translations:
+  - translation_iso: ara
+    name: ناسال
+    auto: true
   - translation_iso: jpn
     name: ナサル語
     auto: true

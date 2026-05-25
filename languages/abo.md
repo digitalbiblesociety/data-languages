@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Tivoid > North Tivoid > Abon"
 wikipedia_url: "https://en.wikipedia.org/wiki/Abon_language"
 translations:
+  - translation_iso: ara
+    name: لغة أبون
+    auto: true
   - translation_iso: jpn
     name: アボン語
     auto: true

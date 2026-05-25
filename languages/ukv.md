@@ -11,6 +11,9 @@ glottolog_family_name: Nilotic
 glottolog_classification: "Nilotic > Eastern Nilotic > Barian > Nuclear Barian > Kuku"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kuku_dialect"
 translations:
+  - translation_iso: ara
+    name: كوكو
+    auto: true
   - translation_iso: jpn
     name: クク語
     auto: true

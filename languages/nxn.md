@@ -15,6 +15,9 @@ glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > Paman > Mayabic > Nuclear Mayabic > Ngawun"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ngawun_language"
 translations:
+  - translation_iso: ara
+    name: نغاووون
+    auto: true
   - translation_iso: jpn
     name: ンガウン語
     auto: true

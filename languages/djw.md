@@ -15,6 +15,9 @@ glottolog_family_name: Nyulnyulan
 glottolog_classification: "Nyulnyulan > Western Nyulnyulan > Bardic > Djawi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Jawi_dialect"
 translations:
+  - translation_iso: ara
+    name: دجاوي
+    auto: true
   - translation_iso: jpn
     name: Jawi語
   - translation_iso: zho

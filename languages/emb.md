@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Greater South Sulawesi > South Sulawesi > Tamanic-Bugis > Tamanic > Embaloh"
 wikipedia_url: "https://en.wikipedia.org/wiki/Embaloh_language"
 translations:
+  - translation_iso: ara
+    name: الإمبالوه
+    auto: true
   - translation_iso: jpn
     name: エムバロー語
     auto: true

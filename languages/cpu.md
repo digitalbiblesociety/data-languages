@@ -15,6 +15,9 @@ glottolog_family_name: Arawakan
 glottolog_classification: "Arawakan > Southern Maipuran > Kampa-Amuesha > Pre-Andine Maipuran > Asha-Ashe-Kak-Matsi-Nan > Asha-Ashe-Kak > Ashe-Asha > Ashe-Asha Norte > Pichis Ashéninka"
 wikipedia_url: "https://en.wikipedia.org/wiki/Pichis_Ash%C3%A9ninka"
 translations:
+  - translation_iso: ara
+    name: بيتشيس أشينينكا
+    auto: true
   - translation_iso: jpn
     name: ピチス・アシェニンカ語
     auto: true

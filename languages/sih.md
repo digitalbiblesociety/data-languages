@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Southern Melanesian > New Caledonian > Mainland New Caledonian > Southern New Caledonian > Mid-Southern New Caledonian > Zire"
 wikipedia_url: "https://en.wikipedia.org/wiki/Zire_language"
 translations:
+  - translation_iso: ara
+    name: اللغة الزاير
+    auto: true
   - translation_iso: jpn
     name: ネレ語
     auto: true

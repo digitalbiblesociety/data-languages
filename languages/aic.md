@@ -15,6 +15,9 @@ glottolog_family_name: Border
 glottolog_classification: "Border > Bewani > Pagi-Kilmeri > Ainbai"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ainbai_language"
 translations:
+  - translation_iso: ara
+    name: لغة أينباي
+    auto: true
   - translation_iso: jpn
     name: アインバイ語
     auto: true

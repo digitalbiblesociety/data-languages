@@ -14,6 +14,9 @@ glottolog_family_name: Sepik
 glottolog_classification: "Sepik > Sepik Hill > Western Sepik Hill > Hewa-April River > Piame"
 wikipedia_url: "https://en.wikipedia.org/wiki/Piame_language"
 translations:
+  - translation_iso: ara
+    name: اللغة بيامية
+    auto: true
   - translation_iso: jpn
     name: ピアメ語
     auto: true

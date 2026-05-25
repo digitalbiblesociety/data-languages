@@ -15,6 +15,9 @@ glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > West Chadic > West Chadic A > West Chadic A.2-3 > West Chadic A.2 > Boleic > Nuclear Boleic > Gera-Geruma-Kubi-Deno > Kubi-Deno > Deno"
 wikipedia_url: "https://en.wikipedia.org/wiki/Deno_language"
 translations:
+  - translation_iso: ara
+    name: ديني
+    auto: true
   - translation_iso: jpn
     name: デノ語
     auto: true

@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > Meso Melanesian linkage > New Ireland-Northwest Solomonic linkage > St George linkage > Patpatar-Minigir-Tolai > Minigir-Tolai > Kuanua"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tolai_language"
 translations:
+  - translation_iso: ara
+    name: كوانوا
+    auto: true
   - translation_iso: jpn
     name: クアヌア語
   - translation_iso: zho

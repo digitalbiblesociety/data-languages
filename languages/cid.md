@@ -11,6 +11,9 @@ longitude: -123
 glottocode: chim1301
 wikipedia_url: "https://en.wikipedia.org/wiki/Chimariko_language"
 translations:
+  - translation_iso: ara
+    name: الشيماريكو
+    auto: true
   - translation_iso: jpn
     name: チマリコ語
   - translation_iso: zho

@@ -15,6 +15,9 @@ glottolog_family_name: Suki-Gogodala
 glottolog_classification: "Suki-Gogodala > Gogodalic > Ari-Waruna > Waruna"
 wikipedia_url: "https://en.wikipedia.org/wiki/Waruna_language"
 translations:
+  - translation_iso: ara
+    name: وارونا
+    auto: true
   - translation_iso: jpn
     name: ワルナ語
     auto: true

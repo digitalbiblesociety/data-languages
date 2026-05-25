@@ -15,6 +15,9 @@ glottolog_family_name: Eastern Daly
 glottolog_classification: "Eastern Daly > Madngele"
 wikipedia_url: "https://en.wikipedia.org/wiki/Matngala_language"
 translations:
+  - translation_iso: ara
+    name: اللغة ماتنغالا
+    auto: true
   - translation_iso: jpn
     name: マトゥンガラ語
     auto: true

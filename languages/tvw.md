@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Celebic > Kaili-Wolio > Northern Kaili-Wolio > Greater Kaili > Sedoa"
 wikipedia_url: "https://en.wikipedia.org/wiki/Sedoa_language"
 translations:
+  - translation_iso: ara
+    name: سيدوا
+    auto: true
   - translation_iso: jpn
     name: タワイリア語
     auto: true

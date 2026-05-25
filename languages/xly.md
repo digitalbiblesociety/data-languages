@@ -14,6 +14,9 @@ glottolog_family_name: Unclassifiable
 glottolog_classification: "Unclassifiable > Elymian"
 wikipedia_url: "https://en.wikipedia.org/wiki/Elymian_language"
 translations:
+  - translation_iso: ara
+    name: إيليمية
+    auto: true
   - translation_iso: jpn
     name: エリミアン語
     auto: true

@@ -14,6 +14,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > Meso Melanesian linkage > New Ireland-Northwest Solomonic linkage > St George linkage > Northwest Solomonic > Choiseul > East Choiseul > Ririo"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ririo_language"
 translations:
+  - translation_iso: ara
+    name: ريريو
+    auto: true
   - translation_iso: jpn
     name: リリオ語
     auto: true

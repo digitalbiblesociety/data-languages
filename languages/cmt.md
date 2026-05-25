@@ -14,6 +14,9 @@ glottolog_family_id: spee1234
 glottolog_family_name: Speech Register
 glottolog_classification: "Speech Register > Zulu-Sotho > Camtho"
 translations:
+  - translation_iso: ara
+    name: الكامثو
+    auto: true
   - translation_iso: jpn
     name: カムトー語
     auto: true

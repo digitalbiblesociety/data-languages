@@ -15,6 +15,9 @@ glottolog_family_name: Tucanoan
 glottolog_classification: "Tucanoan > Eastern Tucanoan > Eastern Eastern Tucanoan > Eastern Eastern Tucanoan I > Bara-Tatuyo > Waimaha"
 wikipedia_url: "https://en.wikipedia.org/wiki/Waimaj%C3%A3_language"
 translations:
+  - translation_iso: ara
+    name: اللغة وايمها
+    auto: true
   - translation_iso: jpn
     name: ワイマハ語
     auto: true

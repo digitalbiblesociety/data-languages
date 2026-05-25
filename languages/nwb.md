@@ -15,6 +15,9 @@ glottolog_family_name: Kru
 glottolog_classification: "Kru > Greater Western Kru > Western Kru > Wee-Bassa-Klao > Wee > Nuclear Wee > Nyabwa"
 wikipedia_url: "https://en.wikipedia.org/wiki/Nyabwa_language"
 translations:
+  - translation_iso: ara
+    name: نييابوا
+    auto: true
   - translation_iso: jpn
     name: ニャブワ語
   - translation_iso: zho

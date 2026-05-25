@@ -15,6 +15,9 @@ glottolog_family_name: Jarawa-Onge
 glottolog_classification: "Jarawa-Onge > Önge"
 wikipedia_url: "https://en.wikipedia.org/wiki/Onge_language"
 translations:
+  - translation_iso: ara
+    name: اللغة أونغي
+    auto: true
   - translation_iso: hin
     name: ओन्गी भाषा
   - translation_iso: jpn

@@ -8,6 +8,9 @@ country_name: South Korea
 status_id: null
 wikipedia_url: "https://en.wikipedia.org/wiki/Gaya_language"
 translations:
+  - translation_iso: ara
+    name: كارا
+    auto: true
   - translation_iso: jpn
     name: 伽耶語
   - translation_iso: kor

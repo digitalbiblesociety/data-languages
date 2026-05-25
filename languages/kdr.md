@@ -15,6 +15,9 @@ glottolog_family_name: Turkic
 glottolog_classification: "Turkic > Common Turkic > Kipchak-Turkestan > Kipchak > Northwest Kipchak > West Kipchak > Karaim"
 wikipedia_url: "https://en.wikipedia.org/wiki/Karaim_language"
 translations:
+  - translation_iso: ara
+    name: لغة كاراييم
+    auto: true
   - translation_iso: jpn
     name: カライム語
   - translation_iso: kor

@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Wide Grassfields > Narrow Grassfields > Mbam-Nkam > Southern Mbam-Nkam > Bamileke > East Bamileke > Nda'nda'"
 wikipedia_url: "https://en.wikipedia.org/wiki/Nda%CA%BCnda%CA%BC_language"
 translations:
+  - translation_iso: ara
+    name: "ندا'ندا'"
+    auto: true
   - translation_iso: jpn
     name: ンダンダ語
     auto: true

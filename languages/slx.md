@@ -14,6 +14,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > Central-Western Bantu > Njila > Southern Njila > Chokwe-Lunda > Ruund-Salampasu > Salampasu"
 wikipedia_url: "https://en.wikipedia.org/wiki/Salampasu_language"
 translations:
+  - translation_iso: ara
+    name: اللغة سالامباسو
+    auto: true
   - translation_iso: jpn
     name: チサランパス語
     auto: true

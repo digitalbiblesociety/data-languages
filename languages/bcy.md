@@ -15,6 +15,9 @@ glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > Biu-Mandara > South Biu-Mandara > Bataic > Bata-Bwatiye > Bacama"
 wikipedia_url: "https://en.wikipedia.org/wiki/Bacama_language"
 translations:
+  - translation_iso: ara
+    name: اللغة باكاما
+    auto: true
   - translation_iso: jpn
     name: バカマ語
     auto: true

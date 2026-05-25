@@ -15,6 +15,9 @@ glottolog_family_name: Eastern Jebel
 glottolog_classification: "Eastern Jebel > Aka-Kelo-Molo > Kelo"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kelo_language"
 translations:
+  - translation_iso: ara
+    name: كيلو
+    auto: true
   - translation_iso: jpn
     name: ケロ語
     auto: true

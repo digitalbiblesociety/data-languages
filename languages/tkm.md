@@ -12,6 +12,9 @@ longitude: -123.452
 glottocode: take1257
 wikipedia_url: "https://en.wikipedia.org/wiki/Takelma_language"
 translations:
+  - translation_iso: ara
+    name: تاكيلما
+    auto: true
   - translation_iso: jpn
     name: タケルマ語
   - translation_iso: zho

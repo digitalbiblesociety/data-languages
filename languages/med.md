@@ -15,6 +15,9 @@ glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Chimbu-Wahgi > Hagen > Melpa-Tembagla > Melpa"
 wikipedia_url: "https://en.wikipedia.org/wiki/Melpa_language"
 translations:
+  - translation_iso: ara
+    name: لغة ملبا
+    auto: true
   - translation_iso: jpn
     name: メルパ語
   - translation_iso: zho

@@ -15,6 +15,9 @@ glottolog_family_name: Mailuan
 glottolog_classification: "Mailuan > Mailu"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mailu_language"
 translations:
+  - translation_iso: ara
+    name: لغة مايلو
+    auto: true
   - translation_iso: jpn
     name: マイル語
     auto: true

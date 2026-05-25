@@ -15,6 +15,9 @@ glottolog_family_name: Central Sudanic
 glottolog_classification: "Central Sudanic > Moru-Madi > Central Moru-Madi > Avokayic > Kalikoic > Keliko"
 wikipedia_url: "https://en.wikipedia.org/wiki/Keliko_language"
 translations:
+  - translation_iso: ara
+    name: لغة كيليكو
+    auto: true
   - translation_iso: jpn
     name: ケリコ語
     auto: true

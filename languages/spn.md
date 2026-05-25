@@ -15,6 +15,9 @@ glottolog_family_name: Lengua-Mascoy
 glottolog_classification: "Lengua-Mascoy > Eastern Enlhet-Enenlhet > Sanapaná"
 wikipedia_url: "https://en.wikipedia.org/wiki/Sanapan%C3%A1_language"
 translations:
+  - translation_iso: ara
+    name: اللغة سانابانا
+    auto: true
   - translation_iso: jpn
     name: サナパナパイボマ語
     auto: true

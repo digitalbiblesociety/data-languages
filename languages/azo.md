@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Wide Grassfields > Narrow Grassfields > Mbam-Nkam > Southern Mbam-Nkam > Ngembaic > Awing"
 wikipedia_url: "https://en.wikipedia.org/wiki/Awing_language"
 translations:
+  - translation_iso: ara
+    name: اللغة أوينج
+    auto: true
   - translation_iso: jpn
     name: アウィング語
     auto: true

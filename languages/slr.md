@@ -15,6 +15,9 @@ glottolog_family_name: Turkic
 glottolog_classification: "Turkic > Common Turkic > Oghuz > Salar"
 wikipedia_url: "https://en.wikipedia.org/wiki/Salar_language"
 translations:
+  - translation_iso: ara
+    name: اللغة السالار
+    auto: true
   - translation_iso: jpn
     name: サラール語
   - translation_iso: kor

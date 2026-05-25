@@ -16,6 +16,9 @@ glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Iranian-Nuristani > Iranian > Southwestern Iranian > Middle-Modern Persian > Modern Southwestern Iranian > Luric-Dezfulic > Luric > Bakhtiari-Southern Lori > Southern Luri"
 wikipedia_url: "https://en.wikipedia.org/wiki/Southern_Luri_language"
 translations:
+  - translation_iso: ara
+    name: لغة ووتهيرن وري
+    auto: true
   - translation_iso: jpn
     name: 南ロル語
   - translation_iso: zho

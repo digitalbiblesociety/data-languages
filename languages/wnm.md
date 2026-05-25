@@ -15,6 +15,9 @@ glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > Karnic > Palku > Pitta-Pitta > Wanggamala"
 wikipedia_url: "https://en.wikipedia.org/wiki/Wanggamala_language"
 translations:
+  - translation_iso: ara
+    name: وانغغامالا
+    auto: true
   - translation_iso: jpn
     name: ワンガマラ語
     auto: true

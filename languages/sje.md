@@ -15,6 +15,9 @@ glottolog_family_name: Uralic
 glottolog_classification: "Uralic > Saami > Western Saami > Central Western Saami > Lule-Pite Saami > Pite Saami"
 wikipedia_url: "https://en.wikipedia.org/wiki/Pite_S%C3%A1mi"
 translations:
+  - translation_iso: ara
+    name: اللغة بيتي سامي
+    auto: true
   - translation_iso: jpn
     name: ピーテ・サーミ語
   - translation_iso: kor

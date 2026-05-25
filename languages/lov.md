@@ -9,6 +9,9 @@ status_id: 6a
 latitude: 25.08332
 longitude: 97.08332
 translations:
+  - translation_iso: ara
+    name: لغة وپي
+    auto: true
   - translation_iso: jpn
     name: ロピ語
     auto: true

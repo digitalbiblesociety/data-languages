@@ -15,6 +15,9 @@ glottolog_family_name: Tucanoan
 glottolog_classification: "Tucanoan > Eastern Tucanoan > Western Eastern Tucanoan > Barasano-Eduria-Macuna > Barasana-Eduria"
 wikipedia_url: "https://en.wikipedia.org/wiki/Barasana-Eduria_language"
 translations:
+  - translation_iso: ara
+    name: باراسانا-إدوريا
+    auto: true
   - translation_iso: jpn
     name: バラサナ・エドゥリア語
     auto: true

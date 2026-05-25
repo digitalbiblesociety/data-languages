@@ -15,6 +15,9 @@ glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Burmo-Qiangic > Lolo-Burmese > Loloish > Nusoish > Zauzou"
 wikipedia_url: "https://en.wikipedia.org/wiki/Zauzou_language"
 translations:
+  - translation_iso: ara
+    name: اللغة زاوزو
+    auto: true
   - translation_iso: jpn
     name: 柔若語
   - translation_iso: zho

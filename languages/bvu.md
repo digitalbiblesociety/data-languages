@@ -14,6 +14,9 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Malayo-Chamic > Malayic > Nuclear Malayic > East Borneo Malay > Banjar-Berau-Brunei Malay > Banjar-Bukit Malay > Bukit Malay"
 translations:
+  - translation_iso: ara
+    name: بوكيت مالاي
+    auto: true
   - translation_iso: jpn
     name: ブキット・マレー語
   - translation_iso: zho

@@ -15,6 +15,9 @@ glottolog_family_id: mand1469
 glottolog_family_name: Mande
 glottolog_classification: "Mande > Western Mande > Northwestern Mande > Soninke-Bozo > Bozo > Nuclear Bozo > Jenaama Bozo"
 translations:
+  - translation_iso: ara
+    name: جيناما بوزو
+    auto: true
   - translation_iso: jpn
     name: ジェナアマ・ボゾ語
     auto: true

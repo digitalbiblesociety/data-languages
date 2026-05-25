@@ -14,6 +14,9 @@ glottolog_family_name: Border
 glottolog_classification: "Border > Warisic > Nuclear Warisic > Waina-Punda > Umeda-Punda"
 wikipedia_url: "https://en.wikipedia.org/wiki/Umeda_language"
 translations:
+  - translation_iso: ara
+    name: أوميدا
+    auto: true
   - translation_iso: jpn
     name: ウメダ語
     auto: true

@@ -14,6 +14,9 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Kwa Volta-Congo > Ka-Togo > Avatime-Nyangbo > Nyangbo-Tafi > Nyangbo"
 translations:
+  - translation_iso: ara
+    name: نييانغبو
+    auto: true
   - translation_iso: jpn
     name: ニャングボ語
   - translation_iso: zho

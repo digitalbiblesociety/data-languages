@@ -15,6 +15,9 @@ glottolog_family_name: Chibchan
 glottolog_classification: "Chibchan > Core Chibchan > Votic Chibchan > Maléku Jaíka"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mal%C3%A9ku_language"
 translations:
+  - translation_iso: ara
+    name: مالكو خايكا
+    auto: true
   - translation_iso: jpn
     name: マレク・ハイカ語
     auto: true

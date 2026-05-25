@@ -15,6 +15,9 @@ glottolog_family_id: aust1305
 glottolog_family_name: Austroasiatic
 glottolog_classification: "Austroasiatic > Khasi-Palaung > Palaungic > East Palaungic > Waic > Wa-Lawa > Lawa > Eastern Lawa"
 translations:
+  - translation_iso: ara
+    name: لغة ياستيرن اوا
+    auto: true
   - translation_iso: jpn
     name: 東ラワ語
     auto: true

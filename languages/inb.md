@@ -15,6 +15,9 @@ glottolog_family_name: Quechuan
 glottolog_classification: "Quechuan > Colombia-Ecuador Quechua > Ecuadorian Quechua B > Imbabura-Colombia-Oriente Quechua > Colombia-Oriente Quechua > Colombian Inga"
 wikipedia_url: "https://en.wikipedia.org/wiki/Inga_Kichwa"
 translations:
+  - translation_iso: ara
+    name: إينجا
+    auto: true
   - translation_iso: jpn
     name: インガ語
     auto: true

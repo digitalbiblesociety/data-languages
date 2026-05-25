@@ -14,6 +14,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Ekoid-Mbe > Ekoid > Bakor-Ejagham > Bakor > Northern Bakor > Nnam-Ekajuk > Nnam"
 wikipedia_url: "https://en.wikipedia.org/wiki/Nnam_language"
 translations:
+  - translation_iso: ara
+    name: نام
+    auto: true
   - translation_iso: jpn
     name: ンナム語
     auto: true

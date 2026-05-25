@@ -11,6 +11,9 @@ latitude: -8.22674
 longitude: 125.57573
 wikipedia_url: "https://en.wikipedia.org/wiki/Adabe_language"
 translations:
+  - translation_iso: ara
+    name: لغة أدابي
+    auto: true
   - translation_iso: jpn
     name: アダベ語
     auto: true

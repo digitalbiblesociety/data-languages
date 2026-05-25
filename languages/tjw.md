@@ -8,6 +8,9 @@ country_name: Australia
 status_id: 8b
 wikipedia_url: "https://en.wikipedia.org/wiki/Djabwurrung_language"
 translations:
+  - translation_iso: ara
+    name: جابورونغ
+    auto: true
   - translation_iso: jpn
     name: ジャブウルン語
     auto: true

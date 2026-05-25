@@ -15,6 +15,9 @@ glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Kainantu-Goroka > Kainantu > Gauwa > Auyana > Usarufa"
 wikipedia_url: "https://en.wikipedia.org/wiki/Usarufa_language"
 translations:
+  - translation_iso: ara
+    name: أوسارفا
+    auto: true
   - translation_iso: jpn
     name: ウサルファ語
   - translation_iso: zho

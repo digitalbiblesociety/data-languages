@@ -15,6 +15,9 @@ glottolog_family_name: Austroasiatic
 glottolog_classification: "Austroasiatic > Mundaic > Kharia"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kharia_language"
 translations:
+  - translation_iso: ara
+    name: لغة خاريا
+    auto: true
   - translation_iso: hin
     name: खड़िया भाषा
   - translation_iso: jpn

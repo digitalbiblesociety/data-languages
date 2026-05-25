@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > North Borneo Malayo-Polynesian > Sabahan > Southwest Sabahan > Greater Murutic > Murutic > Northern Murutic > Lowland Murut > Keningau Murut"
 wikipedia_url: "https://en.wikipedia.org/wiki/Keningau_Murut_language"
 translations:
+  - translation_iso: ara
+    name: موروت كينينجاو
+    auto: true
   - translation_iso: jpn
     name: ケニンガウ・ムルット語
     auto: true

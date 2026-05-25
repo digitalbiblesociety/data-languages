@@ -15,6 +15,9 @@ glottolog_family_name: Mande
 glottolog_classification: "Mande > Eastern Mande > Bisa-Busa > Samo-Busa > Busan > Boko-Busa > Boko (Benin)"
 wikipedia_url: "https://en.wikipedia.org/wiki/Boko_language"
 translations:
+  - translation_iso: ara
+    name: بوكو
+    auto: true
   - translation_iso: jpn
     name: ボコ
   - translation_iso: zho

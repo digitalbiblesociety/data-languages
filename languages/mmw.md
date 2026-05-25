@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Central Pacific linkage > Tokalau Fijian > Polynesian > Nuclear Polynesian > Vanuatu-Loyalty Outliers > Emae"
 wikipedia_url: "https://en.wikipedia.org/wiki/Emae_language"
 translations:
+  - translation_iso: ara
+    name: لغة إماي
+    auto: true
   - translation_iso: jpn
     name: エマエ語
   - translation_iso: zho

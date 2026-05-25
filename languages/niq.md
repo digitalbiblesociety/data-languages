@@ -14,6 +14,9 @@ glottolog_family_name: Nilotic
 glottolog_classification: "Nilotic > Southern Nilotic > Kalenjin > Central Kalenjin > Plateau Central Kalenjin > Western Plateau Central Kalenjin > Nandi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Naandi_language"
 translations:
+  - translation_iso: ara
+    name: ناندي
+    auto: true
   - translation_iso: jpn
     name: ナンディ語
   - translation_iso: zho

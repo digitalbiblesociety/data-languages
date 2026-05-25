@@ -15,6 +15,9 @@ glottolog_family_name: Sahaptian
 glottolog_classification: "Sahaptian > Nez Perce"
 wikipedia_url: "https://en.wikipedia.org/wiki/Nez_Perce_language"
 translations:
+  - translation_iso: ara
+    name: نيز بيرس
+    auto: true
   - translation_iso: jpn
     name: ネズ・パース語
   - translation_iso: kor

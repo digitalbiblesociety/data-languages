@@ -15,6 +15,9 @@ glottolog_family_name: Sepik
 glottolog_classification: "Sepik > Sepik Hill > Western Sepik Hill > Saniyo-Hiyewe"
 wikipedia_url: "https://en.wikipedia.org/wiki/Sanio_language"
 translations:
+  - translation_iso: ara
+    name: اللغة سانيو-هيويي
+    auto: true
   - translation_iso: jpn
     name: ヒオウェ語
     auto: true

@@ -15,6 +15,9 @@ glottolog_family_name: Kru
 glottolog_classification: "Kru > Greater Western Kru > Western Kru > Wee-Bassa-Klao > Bassa-Klao > Klao-Tajuasohn > Tajuasohn"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tajuasohn_language"
 translations:
+  - translation_iso: ara
+    name: تاجواسوهن
+    auto: true
   - translation_iso: jpn
     name: タジュアソーン語
   - translation_iso: zho

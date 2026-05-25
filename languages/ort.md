@@ -14,6 +14,9 @@ glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Indo-Aryan > Middle-Modern Indo-Aryan > Continental Indo-Aryan > Indo-Aryan Eastern zone > Oriya-Gauda-Kamrupa > Macro-Oriya > Kotia-Adivasi Oriya-Desiya"
 translations:
+  - translation_iso: ara
+    name: اللغة أديفاسي أوريا
+    auto: true
   - translation_iso: hin
     name: And
   - translation_iso: jpn

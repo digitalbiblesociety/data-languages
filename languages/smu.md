@@ -15,6 +15,9 @@ glottolog_family_name: Austroasiatic
 glottolog_classification: "Austroasiatic > Pearic > Western Pearic > Somray of Battambang-Somre of Siem Reap"
 wikipedia_url: "https://en.wikipedia.org/wiki/Somray_language"
 translations:
+  - translation_iso: ara
+    name: اللغة سومراي
+    auto: true
   - translation_iso: jpn
     name: ノーザン・チョン語
     auto: true

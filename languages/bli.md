@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > Central-Western Bantu > North Zaire River > Inner Basin Bantu > Cuvette > Mongoic > Bolia-Ntomba > Bolia"
 wikipedia_url: "https://en.wikipedia.org/wiki/Lia-Ntomba_language"
 translations:
+  - translation_iso: ara
+    name: بوليا
+    auto: true
   - translation_iso: jpn
     name: ボリア語
     auto: true

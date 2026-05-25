@@ -15,6 +15,9 @@ glottolog_family_name: Khoe-Kwadi
 glottolog_classification: "Khoe-Kwadi > Khoe > Khoekhoe > South Khoekhoe > Korana"
 wikipedia_url: "https://en.wikipedia.org/wiki/Khoemana"
 translations:
+  - translation_iso: ara
+    name: لغة كورانا
+    auto: true
   - translation_iso: jpn
     name: コラナ語
   - translation_iso: zho

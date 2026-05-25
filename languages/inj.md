@@ -10,6 +10,9 @@ status_id: 6a
 latitude: 0.88872
 longitude: -76.65931
 translations:
+  - translation_iso: ara
+    name: إينجا الغابة
+    auto: true
   - translation_iso: jpn
     name: ジャングル・インガ語
     auto: true

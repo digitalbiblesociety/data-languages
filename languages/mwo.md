@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > North and Central Vanuatu > Northern Vanuatu > Maewo > Central Maewo"
 wikipedia_url: "https://en.wikipedia.org/wiki/Sungwadaga_language"
 translations:
+  - translation_iso: ara
+    name: لغة مايوو الوسطى
+    auto: true
   - translation_iso: jpn
     name: セントラル・マエウォ語
     auto: true

@@ -15,6 +15,9 @@ glottolog_family_name: Nilotic
 glottolog_classification: "Nilotic > Southern Nilotic > Kalenjin > Elgon-Mau Kalenjin > Kupsabiny"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kupsabiny_language"
 translations:
+  - translation_iso: ara
+    name: لغة كوبسابيني
+    auto: true
   - translation_iso: jpn
     name: クプサビニィ語
   - translation_iso: zho

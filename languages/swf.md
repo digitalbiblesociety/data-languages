@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Cameroun-Ubangian > Ubangi > Ubangi Ka > Sereic > Sere-Indri > Ndogoic > Tagbu-Sere > Sere"
 wikipedia_url: "https://en.wikipedia.org/wiki/Sere_language"
 translations:
+  - translation_iso: ara
+    name: سيري
+    auto: true
   - translation_iso: jpn
     name: セレ語
     auto: true

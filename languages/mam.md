@@ -15,6 +15,9 @@ glottolog_family_name: Mayan
 glottolog_classification: "Mayan > Core Mayan > Quichean-Mamean > Greater Mamean > Mamean > Mam"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mam_language"
 translations:
+  - translation_iso: ara
+    name: لغة مام
+    auto: true
   - translation_iso: jpn
     name: マム語
   - translation_iso: kor

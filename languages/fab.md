@@ -15,6 +15,9 @@ glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Italic > Latino-Faliscan > Latinic > Imperial Latin > Romance > Italo-Western Romance > Western Romance > Shifted Western Romance > Southwestern Shifted Romance > West Ibero-Romance > Galician Romance > Macro-Portuguese > Gulf Guinea Creole Portuguese > Bantu Layer Gulf Guinea Creole Portuguese > Annobonese"
 wikipedia_url: "https://en.wikipedia.org/wiki/Annobonese_Creole"
 translations:
+  - translation_iso: ara
+    name: فا دمبو
+    auto: true
   - translation_iso: jpn
     name: アノボネセ語
   - translation_iso: zho

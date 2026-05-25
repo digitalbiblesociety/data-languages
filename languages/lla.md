@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Cameroun-Ubangian > Bena-Mboi > Bena > Lala-Roba"
 wikipedia_url: "https://en.wikipedia.org/wiki/Lala-Roba_language"
 translations:
+  - translation_iso: ara
+    name: لغة الا-وبا
+    auto: true
   - translation_iso: jpn
     name: ララ・ロバ語
     auto: true

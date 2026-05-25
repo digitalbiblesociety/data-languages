@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Jukunoid > Central Jukunoid > Jukun-Mbembe-Wurbo > Tigon Mbembe"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tigon_language"
 translations:
+  - translation_iso: ara
+    name: تيغون مبيمبي
+    auto: true
   - translation_iso: jpn
     name: ティゴン・ムベンベ語
     auto: true

@@ -15,6 +15,9 @@ glottolog_family_name: Otomanguean
 glottolog_classification: "Otomanguean > Eastern Otomanguean > Popoloca-Zapotecan > Zapotecan > Zapotec > Core Zapotec > Narrow Core Zapotec > Central Core Zapotec > Tejalapan Zapotec"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tejalapan_Zapotec"
 translations:
+  - translation_iso: ara
+    name: زابوتيك تيخالابان
+    auto: true
   - translation_iso: jpn
     name: テハラパン・サポテク語
     auto: true

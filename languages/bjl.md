@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > Meso Melanesian linkage > Willaumez linkage > Bola-Bulu > Bulu (Papua New Guinea)"
 wikipedia_url: "https://en.wikipedia.org/wiki/Bulu_language_(Oceanic)"
 translations:
+  - translation_iso: ara
+    name: بولو
+    auto: true
   - translation_iso: jpn
     name: ブル語
   - translation_iso: zho

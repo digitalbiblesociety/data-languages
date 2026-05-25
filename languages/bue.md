@@ -12,6 +12,9 @@ longitude: -57
 glottocode: beot1247
 wikipedia_url: "https://en.wikipedia.org/wiki/Beothuk_language"
 translations:
+  - translation_iso: ara
+    name: بيوثوك
+    auto: true
   - translation_iso: jpn
     name: ベオスック語
   - translation_iso: kor

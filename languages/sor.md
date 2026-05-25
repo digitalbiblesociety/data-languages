@@ -15,6 +15,9 @@ glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > East Chadic > East Chadic A > East Chadic A.1 > Sumrayic > Sarwa-Sumray > Somrai"
 wikipedia_url: "https://en.wikipedia.org/wiki/Somrai_language"
 translations:
+  - translation_iso: ara
+    name: اللغة السومراي
+    auto: true
   - translation_iso: jpn
     name: シビネ語
     auto: true

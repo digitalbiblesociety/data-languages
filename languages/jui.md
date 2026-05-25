@@ -14,6 +14,9 @@ glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > Arandic-Thura-Yura > Thura-Yura > Core Thura Yura > Unclassified Core Thura-Yura > Ngadjuri"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ngadjuri_language"
 translations:
+  - translation_iso: ara
+    name: لغة نغاجوري
+    auto: true
   - translation_iso: jpn
     name: ンガジュリ語
     auto: true

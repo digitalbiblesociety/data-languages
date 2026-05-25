@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > Bantu A-B10-B20-B30 > Bantu B20A > Kotaic > Kota-Mahongwe > Mahongwe"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mahongwe_language"
 translations:
+  - translation_iso: ara
+    name: لغة ماهونجوي
+    auto: true
   - translation_iso: jpn
     name: マホングウェ語
   - translation_iso: zho

@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Malayo-Chamic > Malayic > Nuclear Malayic > Vehicular Malay > Eastern Indonesia Trade Malay > Manadoic Malay > Manado Malay"
 wikipedia_url: "https://en.wikipedia.org/wiki/Manado_Malay"
 translations:
+  - translation_iso: ara
+    name: ماناندو ميلايو
+    auto: true
   - translation_iso: jpn
     name: マナド語
   - translation_iso: kor

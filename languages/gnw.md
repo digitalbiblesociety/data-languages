@@ -15,6 +15,9 @@ glottolog_family_name: Tupian
 glottolog_classification: "Tupian > Eastern Tupian > Maweti-Guarani > Aweti-Guarani > Tupi-Guarani > Southern Tupi-Guarani > Tupi-Guarani Subgroup I > Tupi-Guarani Subgroup I.B > Western Bolivian Guaraní"
 wikipedia_url: "https://en.wikipedia.org/wiki/Western_Bolivian_Guarani"
 translations:
+  - translation_iso: ara
+    name: وإستإرن بوليفيآن غوآرآنí
+    auto: true
   - translation_iso: jpn
     name: 西部ボリビア・グアラニー語
   - translation_iso: zho

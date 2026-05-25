@@ -15,6 +15,9 @@ glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Nungish > Gunong > Nung (Myanmar)"
 wikipedia_url: "https://en.wikipedia.org/wiki/Nung_language_(Sino-Tibetan)"
 translations:
+  - translation_iso: ara
+    name: أنونغ
+    auto: true
   - translation_iso: jpn
     name: アヌン語
   - translation_iso: kor

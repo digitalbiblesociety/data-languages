@@ -15,6 +15,9 @@ glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > Nyawaygic > Nyawaygi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Nyawaygi_language"
 translations:
+  - translation_iso: ara
+    name: نيياوايجي
+    auto: true
   - translation_iso: jpn
     name: ニャワイギ語
     auto: true

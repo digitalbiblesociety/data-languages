@@ -15,6 +15,9 @@ glottolog_family_name: Austroasiatic
 glottolog_classification: "Austroasiatic > Monic > Nyahkur"
 wikipedia_url: "https://en.wikipedia.org/wiki/Nyah_Kur_language"
 translations:
+  - translation_iso: ara
+    name: نيهاكور
+    auto: true
   - translation_iso: jpn
     name: ニャークル語
   - translation_iso: zho

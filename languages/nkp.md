@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Central Pacific linkage > Tokalau Fijian > Polynesian > Nuclear Polynesian > East Uvean-Niuafo'ou > Niuatoputapu"
 wikipedia_url: "https://en.wikipedia.org/wiki/Niuatoputapu_language"
 translations:
+  - translation_iso: ara
+    name: نيواتوبوتابو
+    auto: true
   - translation_iso: jpn
     name: ニウアトプタプ語
   - translation_iso: kor

@@ -15,6 +15,9 @@ glottolog_family_name: Unattested
 glottolog_classification: "Unattested > Wakoná"
 wikipedia_url: "https://en.wikipedia.org/wiki/Wakon%C3%A1_language"
 translations:
+  - translation_iso: ara
+    name: واكونا
+    auto: true
   - translation_iso: jpn
     name: ワコナ語
     auto: true

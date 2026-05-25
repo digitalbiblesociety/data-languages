@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Cameroun-Ubangian > Mbumic > Northern Mbum > Tupuri-Mundang-Mambai > Mundangic > Mono (Cameroon)"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mono_language_(Cameroon)"
 translations:
+  - translation_iso: ara
+    name: لغة مونو (الكاميرون)
+    auto: true
   - translation_iso: jpn
     name: モノ語
     auto: true

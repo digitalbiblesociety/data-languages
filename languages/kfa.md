@@ -15,6 +15,9 @@ glottolog_family_name: Dravidian
 glottolog_classification: "Dravidian > South Dravidian > South Dravidian I > Tamil-Kannada > Tamil-Kota > Tamil-Toda > Tamil-Irula > Tamil-Kodagu > Kodava"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kodava_language"
 translations:
+  - translation_iso: ara
+    name: لغة كودافا
+    auto: true
   - translation_iso: hin
     name: कोडवा भाषा
   - translation_iso: jpn

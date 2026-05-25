@@ -15,6 +15,9 @@ glottolog_family_name: Hmong-Mien
 glottolog_classification: "Hmong-Mien > Mienic > Mien-Mun > Biao Mon"
 wikipedia_url: "https://en.wikipedia.org/wiki/Biao_Mon_language"
 translations:
+  - translation_iso: ara
+    name: بياو مون
+    auto: true
   - translation_iso: jpn
     name: ビャオ・モン語
     auto: true

@@ -15,6 +15,9 @@ glottolog_family_name: Quechuan
 glottolog_classification: "Quechuan > Southern Quechua > Cuscan Quechua > Puno Quechua"
 wikipedia_url: "https://en.wikipedia.org/wiki/Puno_Quechua"
 translations:
+  - translation_iso: ara
+    name: اللغة كويتشوا بونو
+    auto: true
   - translation_iso: jpn
     name: プノ・ケチュア語
   - translation_iso: zho

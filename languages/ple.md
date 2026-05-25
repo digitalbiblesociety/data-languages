@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Bima-Lembata > Flores > West-Central Flores > Central Flores-Paluqe > Palu'e"
 wikipedia_url: "https://en.wikipedia.org/wiki/Palu%CA%BCe_language"
 translations:
+  - translation_iso: ara
+    name: اللغة بالو
+    auto: true
   - translation_iso: jpn
     name: パルエ語
     auto: true

@@ -15,6 +15,9 @@ glottolog_family_name: Sign Language
 glottolog_classification: "Sign Language > L1 Sign Language > Tanzanian Sign Language"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tanzanian_sign_languages"
 translations:
+  - translation_iso: ara
+    name: لغة الإشارة التنزانية
+    auto: true
   - translation_iso: jpn
     name: タンザニア手話
   - translation_iso: zho

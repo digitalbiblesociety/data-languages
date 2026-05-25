@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Sumatran > Batakic > Northern Batak > Batak Alas-Kluet"
 wikipedia_url: "https://en.wikipedia.org/wiki/Alas_language"
 translations:
+  - translation_iso: ara
+    name: باتاك ألاس-كْلويت
+    auto: true
   - translation_iso: jpn
     name: バタク・アラス＝クルット語
   - translation_iso: zho

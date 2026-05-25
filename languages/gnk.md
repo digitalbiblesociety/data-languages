@@ -15,6 +15,9 @@ glottolog_family_name: Khoe-Kwadi
 glottolog_classification: "Khoe-Kwadi > Khoe > Non-Khoekhoe > West-Kxoe > Naro-Ana > Ana > //Gana"
 wikipedia_url: "https://en.wikipedia.org/wiki/G%C7%81ana_language"
 translations:
+  - translation_iso: ara
+    name: ǁغآنآ
+    auto: true
   - translation_iso: jpn
     name: ガーナ語
   - translation_iso: zho

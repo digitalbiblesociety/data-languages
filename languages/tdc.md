@@ -14,6 +14,9 @@ glottolog_family_id: choc1280
 glottolog_family_name: Chocoan
 glottolog_classification: "Chocoan > Embera > San Juan > Upper San Juan > Emberá-Tadó"
 translations:
+  - translation_iso: ara
+    name: إيمبيرا تادو
+    auto: true
   - translation_iso: jpn
     name: エンベラ・タド語
     auto: true

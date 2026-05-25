@@ -15,6 +15,9 @@ glottolog_family_name: Wakashan
 glottolog_classification: "Wakashan > Northern Wakashan > Haisla"
 wikipedia_url: "https://en.wikipedia.org/wiki/Haisla_language"
 translations:
+  - translation_iso: ara
+    name: هآيسلآ
+    auto: true
   - translation_iso: jpn
     name: ハイスラ語
     auto: true

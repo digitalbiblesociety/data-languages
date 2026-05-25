@@ -15,6 +15,9 @@ glottolog_family_name: Austroasiatic
 glottolog_classification: "Austroasiatic > Bahnaric > West Bahnaric > Tampuon-Bahnar > Bahnar"
 wikipedia_url: "https://en.wikipedia.org/wiki/Bahnar_language"
 translations:
+  - translation_iso: ara
+    name: اللغة بهنار
+    auto: true
   - translation_iso: jpn
     name: バナール語
   - translation_iso: zho

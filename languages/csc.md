@@ -15,6 +15,9 @@ glottolog_family_name: Sign Language
 glottolog_classification: "Sign Language > L1 Sign Language > Spanish Sign > Nuclear Spanish Sign > Catalan Sign Language"
 wikipedia_url: "https://en.wikipedia.org/wiki/Catalan_Sign_Language"
 translations:
+  - translation_iso: ara
+    name: لغة الإشارة الكاتالونية
+    auto: true
   - translation_iso: hin
     name: कैटलन सांकेतिक भाषा
   - translation_iso: jpn

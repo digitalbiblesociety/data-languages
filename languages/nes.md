@@ -14,6 +14,9 @@ glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Bodic > Bodish > Early Old Tibetan > Middle Old Tibetan > Late Old Tibetan > Lahauli-Spiti > Khunu-Töt"
 translations:
+  - translation_iso: ara
+    name: بهوتي كيناوري
+    auto: true
   - translation_iso: jpn
     name: ボティ・キンナウリ語
     auto: true

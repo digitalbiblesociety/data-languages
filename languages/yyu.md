@@ -15,6 +15,9 @@ glottolog_family_name: Nuclear Torricelli
 glottolog_classification: "Nuclear Torricelli > Wapei-Palei > Central Torricelli > Wapeic > Yau-Yis > Yau (Sandaun Province)"
 wikipedia_url: "https://en.wikipedia.org/wiki/Yau_language_(Torricelli)"
 translations:
+  - translation_iso: ara
+    name: لغة يو - ساندان
+    auto: true
   - translation_iso: jpn
     name: ヤウ語（サンダウン州）
     auto: true

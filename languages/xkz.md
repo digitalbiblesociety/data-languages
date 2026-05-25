@@ -15,6 +15,9 @@ glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Bodic > Bodish > Phobjib-Chali-Bumthangic > Chali-Bumthangic > Bumthangic > Kurtokha"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kurt%C3%B6p_language"
 translations:
+  - translation_iso: ara
+    name: كورتوخا
+    auto: true
   - translation_iso: jpn
     name: クルトプ語
   - translation_iso: zho

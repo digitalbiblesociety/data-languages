@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Greater Central Philippine > Central Philippine > Bisayan > Negrosanon > Northern Binukidnon"
 wikipedia_url: "https://en.wikipedia.org/wiki/Karolanos_language"
 translations:
+  - translation_iso: ara
+    name: بينوكيدنون الشمالية
+    auto: true
   - translation_iso: jpn
     name: 北ビヌキドノン語
     auto: true

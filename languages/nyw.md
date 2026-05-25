@@ -9,6 +9,9 @@ status_id: 6a
 latitude: 17.12133
 longitude: 104.15092
 translations:
+  - translation_iso: ara
+    name: نيياو
+    auto: true
   - translation_iso: jpn
     name: ニャウ語
     auto: true

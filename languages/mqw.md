@@ -14,6 +14,9 @@ glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Madang > Croisilles > Mabuso > Hanseman > Wamas-Samosa-Murupi-Mosimo > Murupi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Murupi_language"
 translations:
+  - translation_iso: ara
+    name: لغة موروبي
+    auto: true
   - translation_iso: jpn
     name: ムルピ語
     auto: true

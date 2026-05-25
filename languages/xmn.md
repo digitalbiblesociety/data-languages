@@ -10,6 +10,9 @@ status_id: null
 scripts: [Mani]
 wikipedia_url: "https://en.wikipedia.org/wiki/Manichaean_Middle_Persian"
 translations:
+  - translation_iso: ara
+    name: فارسية وسيطة مانوية
+    auto: true
   - translation_iso: jpn
     name: マニ教中期ペルシア語
     auto: true

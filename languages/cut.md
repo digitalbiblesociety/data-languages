@@ -15,6 +15,9 @@ glottolog_family_name: Otomanguean
 glottolog_classification: "Otomanguean > Eastern Otomanguean > Amuzgo-Mixtecan > Mixtecan > Mixtec-Cuicatec > Cuicatec > Teutila Cuicatec"
 wikipedia_url: "https://en.wikipedia.org/wiki/Teutila_Cuicatec_language"
 translations:
+  - translation_iso: ara
+    name: تيوتيلا كويكاتك
+    auto: true
   - translation_iso: jpn
     name: テウティラ・クイカテク語
     auto: true

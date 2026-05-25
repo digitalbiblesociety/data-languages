@@ -15,6 +15,9 @@ glottolog_family_name: Mixe-Zoque
 glottolog_classification: "Mixe-Zoque > Mixe > Sayula Popoluca"
 wikipedia_url: "https://en.wikipedia.org/wiki/Sayula_Popoluca"
 translations:
+  - translation_iso: ara
+    name: اللغة بوبولوكا سايولا
+    auto: true
   - translation_iso: jpn
     name: サユラ語
   - translation_iso: zho

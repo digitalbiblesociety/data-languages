@@ -15,6 +15,9 @@ glottolog_family_name: Austroasiatic
 glottolog_classification: "Austroasiatic > Aslian > South Aslian > Besisi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mah_Meri_language"
 translations:
+  - translation_iso: ara
+    name: لغة بيسيسي
+    auto: true
   - translation_iso: jpn
     name: ベシシ語
     auto: true

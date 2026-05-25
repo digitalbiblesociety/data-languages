@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Jukunoid > Central Jukunoid > Jukun-Mbembe-Wurbo > Wurbo-Wannu > Wurbo > Jiru"
 wikipedia_url: "https://en.wikipedia.org/wiki/Jiru_language"
 translations:
+  - translation_iso: ara
+    name: لغة جيرو
+    auto: true
   - translation_iso: jpn
     name: ジル語
     auto: true

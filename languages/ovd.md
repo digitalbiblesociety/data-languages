@@ -8,6 +8,9 @@ country_name: Sweden
 status_id: null
 wikipedia_url: "https://en.wikipedia.org/wiki/%C3%96vdalian"
 translations:
+  - translation_iso: ara
+    name: اللغة إلفدالية
+    auto: true
   - translation_iso: jpn
     name: エルヴダーレン語
   - translation_iso: zho

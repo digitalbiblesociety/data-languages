@@ -15,6 +15,9 @@ glottolog_family_name: Tupian
 glottolog_classification: "Tupian > Eastern Tupian > Maweti-Guarani > Aweti-Guarani > Awetí"
 wikipedia_url: "https://en.wikipedia.org/wiki/Awet%C3%AD_language"
 translations:
+  - translation_iso: ara
+    name: اللغة أويتي
+    auto: true
   - translation_iso: hin
     name: आवेति भाषा
   - translation_iso: jpn

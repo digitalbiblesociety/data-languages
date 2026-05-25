@@ -15,6 +15,9 @@ glottolog_family_name: Cochimi-Yuman
 glottolog_classification: "Cochimi-Yuman > Yuman > General Yuman > Delta-Californian Yuman > Cocopa"
 wikipedia_url: "https://en.wikipedia.org/wiki/Cocopah_language"
 translations:
+  - translation_iso: ara
+    name: الكوكوبا
+    auto: true
   - translation_iso: jpn
     name: ココパ語
   - translation_iso: zho

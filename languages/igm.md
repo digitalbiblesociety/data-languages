@@ -14,6 +14,9 @@ glottolog_family_name: Ramu
 glottolog_classification: "Ramu > Goam > Ataitan > Tangu-Igom > Kanggape"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kanggape_language"
 translations:
+  - translation_iso: ara
+    name: كانغغابي
+    auto: true
   - translation_iso: jpn
     name: カンガペ語
     auto: true

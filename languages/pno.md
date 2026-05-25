@@ -15,6 +15,9 @@ glottolog_family_name: Pano-Tacanan
 glottolog_classification: "Pano-Tacanan > Panoan > Mainline Pano > Pano Nawa > Chama subgroup > Panobo"
 wikipedia_url: "https://en.wikipedia.org/wiki/Wariapano_language"
 translations:
+  - translation_iso: ara
+    name: اللغة بانوبو
+    auto: true
   - translation_iso: jpn
     name: パノボ語
     auto: true

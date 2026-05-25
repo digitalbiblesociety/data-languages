@@ -15,6 +15,9 @@ glottolog_family_name: Ta-Ne-Omotic
 glottolog_classification: "Ta-Ne-Omotic > Bench"
 wikipedia_url: "https://en.wikipedia.org/wiki/Bench_language"
 translations:
+  - translation_iso: ara
+    name: اللغة بينتش
+    auto: true
   - translation_iso: jpn
     name: ベンチ語
   - translation_iso: zho

@@ -16,6 +16,9 @@ glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Indo-Aryan > Middle-Modern Indo-Aryan > Continental Indo-Aryan > Midlands Indo-Aryan > Indo-Aryan Northern zone > Central Pahari > Kumaoni"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kumaoni_language"
 translations:
+  - translation_iso: ara
+    name: اللغة الكومايونية
+    auto: true
   - translation_iso: hin
     name: कुमाऊँनी
   - translation_iso: jpn

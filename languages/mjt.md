@@ -15,6 +15,9 @@ glottolog_family_name: Dravidian
 glottolog_classification: "Dravidian > North Dravidian > Kurux-Malto > Malto > Sauria Paharia"
 wikipedia_url: "https://en.wikipedia.org/wiki/Malto_language"
 translations:
+  - translation_iso: ara
+    name: لغة ساوريا باهاريا
+    auto: true
   - translation_iso: hin
     name: माल्टो भाषा
   - translation_iso: jpn

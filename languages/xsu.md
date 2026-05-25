@@ -15,6 +15,9 @@ glottolog_family_name: Yanomamic
 glottolog_classification: "Yanomamic > Sanumá"
 wikipedia_url: "https://en.wikipedia.org/wiki/San%C3%B6ma_language"
 translations:
+  - translation_iso: ara
+    name: سانوما
+    auto: true
   - translation_iso: jpn
     name: サヌマ語
     auto: true

@@ -15,6 +15,9 @@ glottolog_family_name: Uto-Aztecan
 glottolog_classification: "Uto-Aztecan > Southern Uto-Aztecan > Tepiman > Piman > Tohono O'odham"
 wikipedia_url: "https://en.wikipedia.org/wiki/O%CA%BCodham_language"
 translations:
+  - translation_iso: ara
+    name: اللغة توهونو أودهام
+    auto: true
   - translation_iso: jpn
     name: パパゴ語
   - translation_iso: zho

@@ -15,6 +15,9 @@ glottolog_family_name: Siouan
 glottolog_classification: "Siouan > Mississippi Valley > Dhegiha > Osage-Kansa > Kansa"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kansa_language"
 translations:
+  - translation_iso: ara
+    name: كانسا
+    auto: true
   - translation_iso: jpn
     name: カンサ語
     auto: true

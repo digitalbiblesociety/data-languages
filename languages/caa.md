@@ -15,6 +15,9 @@ glottolog_family_name: Mayan
 glottolog_classification: "Mayan > Core Mayan > Western Mayan > Cholan-Tzeltalan > Cholan > Chorti-Cholti > Ch'orti'"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ch%CA%BCorti%CA%BC_language"
 translations:
+  - translation_iso: ara
+    name: تشورتي
+    auto: true
   - translation_iso: jpn
     name: チョルティ語
   - translation_iso: kor

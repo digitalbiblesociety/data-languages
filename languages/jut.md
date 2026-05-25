@@ -16,6 +16,9 @@ glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Germanic > Northwest Germanic > North Germanic > South Scandinavian > Jutish"
 wikipedia_url: "https://en.wikipedia.org/wiki/Jutlandic"
 translations:
+  - translation_iso: ara
+    name: لغة جوتية
+    auto: true
   - translation_iso: jpn
     name: ユトランド方言
   - translation_iso: zho

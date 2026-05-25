@@ -14,6 +14,9 @@ glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Madang > Croisilles > Mabuso > Hanseman > Wamas-Samosa-Murupi-Mosimo > Samosa"
 wikipedia_url: "https://en.wikipedia.org/wiki/Samosa_language"
 translations:
+  - translation_iso: ara
+    name: ساموسا
+    auto: true
   - translation_iso: jpn
     name: サモサ語
   - translation_iso: zho

@@ -15,6 +15,9 @@ glottolog_family_name: Great Andamanese
 glottolog_classification: "Great Andamanese > North Andamanese-Akakede > Northern Great Andamanese > Jeru-Kora > Akajeru"
 wikipedia_url: "https://en.wikipedia.org/wiki/Akajeru"
 translations:
+  - translation_iso: ara
+    name: لغة آكا-جيرو
+    auto: true
   - translation_iso: hin
     name: अका-जेरु भाषा
   - translation_iso: jpn

@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Southern Melanesian > New Caledonian > Loyalty Islands > Iaai"
 wikipedia_url: "https://en.wikipedia.org/wiki/Iaai_language"
 translations:
+  - translation_iso: ara
+    name: إياي
+    auto: true
   - translation_iso: jpn
     name: イアイ語
   - translation_iso: zho

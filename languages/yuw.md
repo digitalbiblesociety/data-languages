@@ -15,6 +15,9 @@ glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Finisterre-Huon > Finisterre-Saruwaged > Uruwa > Yau-Nungon"
 wikipedia_url: "https://en.wikipedia.org/wiki/Yau_language_(Trans%E2%80%93New_Guinea)"
 translations:
+  - translation_iso: ara
+    name: لغة يو - مورويب
+    auto: true
   - translation_iso: jpn
     name: ヤウ語（モロベ州）
     auto: true

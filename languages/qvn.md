@@ -15,6 +15,9 @@ glottolog_family_name: Quechuan
 glottolog_classification: "Quechuan > Quechua I > Central Quechua I > Yaru Quechua > North Junín Quechua"
 wikipedia_url: "https://en.wikipedia.org/wiki/North_Jun%C3%ADn_Quechua"
 translations:
+  - translation_iso: ara
+    name: اللغة كويتشوا خونين الشمالية
+    auto: true
   - translation_iso: jpn
     name: 北フニン語
     auto: true

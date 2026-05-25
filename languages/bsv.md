@@ -9,6 +9,9 @@ status_id: "10"
 latitude: 9.98865
 longitude: -13.90538
 translations:
+  - translation_iso: ara
+    name: باجا سوباني
+    auto: true
   - translation_iso: jpn
     name: バガ・ソバネ語
     auto: true

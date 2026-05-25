@@ -14,6 +14,9 @@ glottolog_family_id: quec1387
 glottolog_family_name: Quechuan
 glottolog_classification: "Quechuan > Southern Quechua > Ayacuchan Quechua > Arequipa-La Unión Quechua"
 translations:
+  - translation_iso: ara
+    name: اللغة كويتشوا أريكويبا-لا أونيون
+    auto: true
   - translation_iso: jpn
     name: アレキッパラウニオンケチュア語
     auto: true

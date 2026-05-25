@@ -8,6 +8,9 @@ country_id: RU
 country_name: Russia
 status_id: null
 translations:
+  - translation_iso: ara
+    name: كتابية أويرات
+    auto: true
   - translation_iso: jpn
     name: 書き言葉オイラート語
     auto: true

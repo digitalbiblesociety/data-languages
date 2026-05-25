@@ -15,6 +15,9 @@ glottolog_family_name: Nilotic
 glottolog_classification: "Nilotic > Southern Nilotic > Kalenjin > Northern Kalenjin > Markweeta"
 wikipedia_url: "https://en.wikipedia.org/wiki/Markwet_language"
 translations:
+  - translation_iso: ara
+    name: الماركويتا
+    auto: true
   - translation_iso: jpn
     name: マラクウェット語
   - translation_iso: zho

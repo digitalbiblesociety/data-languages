@@ -15,6 +15,9 @@ glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Kuki-Chin-Naga > Kuki-Chin > Central Kuki-Chin > Core Central Kuki-Chin > Lai Chin > Haka Chin"
 wikipedia_url: "https://en.wikipedia.org/wiki/Hakha_Chin"
 translations:
+  - translation_iso: ara
+    name: هاخا تشين
+    auto: true
   - translation_iso: hin
     name: हाखा चिन भाषा
   - translation_iso: jpn

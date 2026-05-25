@@ -15,6 +15,9 @@ glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Indo-Aryan > Middle-Modern Indo-Aryan > Continental Indo-Aryan > Indo-Aryan Northwestern zone > Sindhi-Lahnda > Sindhic > Khetrani"
 wikipedia_url: "https://en.wikipedia.org/wiki/Khetrani_language"
 translations:
+  - translation_iso: ara
+    name: كهيتراني
+    auto: true
   - translation_iso: hin
     name: खेतरानी
   - translation_iso: jpn

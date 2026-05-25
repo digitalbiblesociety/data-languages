@@ -9,6 +9,9 @@ status_id: 6a
 latitude: -5.94252
 longitude: -46.75038
 translations:
+  - translation_iso: ara
+    name: كريكاتي-تيمبيرا
+    auto: true
   - translation_iso: jpn
     name: クリカティ・ティムビラ語
     auto: true

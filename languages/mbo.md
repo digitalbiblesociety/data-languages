@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > Bantu A-B10-B20-B30 > Lundu-Balong (A.10) > Greater Manenguba > Bafaw-Balong-Manenguba > Manenguba > Mbo (Cameroon)"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mbo_language_(Cameroon)"
 translations:
+  - translation_iso: ara
+    name: لغة مبو
+    auto: true
   - translation_iso: jpn
     name: ムボ語
     auto: true

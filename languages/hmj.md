@@ -15,6 +15,9 @@ glottolog_family_name: Hmong-Mien
 glottolog_classification: "Hmong-Mien > Hmongic > Nuclear Hmongic-Ho Ne > Nuclear Hmongic > West Hmongic > Greater Chuanqiandian > Ge"
 wikipedia_url: "https://en.wikipedia.org/wiki/Gejia_language"
 translations:
+  - translation_iso: ara
+    name: "لغة جي / لغة ميــاو تشونغ'آن ريفر"
+    auto: true
   - translation_iso: jpn
     name: 革家語
   - translation_iso: zho

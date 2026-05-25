@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Benue-Congo Plateau > Southeastern Benue-Congo Plateau > Bo-Rukul"
 wikipedia_url: "https://en.wikipedia.org/wiki/Barkul_language"
 translations:
+  - translation_iso: ara
+    name: لغة و-وكول
+    auto: true
   - translation_iso: jpn
     name: ボ・ルクル語
     auto: true

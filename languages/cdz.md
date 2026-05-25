@@ -15,6 +15,9 @@ glottolog_family_name: Austroasiatic
 glottolog_classification: "Austroasiatic > Mundaic > North Munda > Kherwarian > Mundaric > Koda"
 wikipedia_url: "https://en.wikipedia.org/wiki/Koda_language"
 translations:
+  - translation_iso: ara
+    name: الكودا
+    auto: true
   - translation_iso: hin
     name: कोडा
   - translation_iso: jpn

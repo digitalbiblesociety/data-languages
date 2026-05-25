@@ -15,6 +15,9 @@ glottolog_family_name: Nyulnyulan
 glottolog_classification: "Nyulnyulan > Eastern Nyulnyulan > Nyikinic > Warrwa"
 wikipedia_url: "https://en.wikipedia.org/wiki/Warrwa_language"
 translations:
+  - translation_iso: ara
+    name: وارروا
+    auto: true
   - translation_iso: jpn
     name: ワラワ語
   - translation_iso: zho

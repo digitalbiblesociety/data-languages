@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Central Pacific linkage > Tokalau Fijian > Polynesian > Nuclear Polynesian > Northern Outlier Polynesian-East Polynesian > Carolinean Outlier Polynesian > Nukuoro"
 wikipedia_url: "https://en.wikipedia.org/wiki/Nukuoro_language"
 translations:
+  - translation_iso: ara
+    name: نوكوورو
+    auto: true
   - translation_iso: jpn
     name: ヌクオロ語
   - translation_iso: kor

@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Jukunoid > Central Jukunoid > Jukun-Mbembe-Wurbo > Wurbo-Wannu > Wurbo > Como Karim"
 wikipedia_url: "https://en.wikipedia.org/wiki/Como_Karim_language"
 translations:
+  - translation_iso: ara
+    name: كومو كاريم
+    auto: true
   - translation_iso: jpn
     name: コモ・カリム語
     auto: true

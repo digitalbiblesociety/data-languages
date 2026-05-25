@@ -15,6 +15,9 @@ glottolog_family_name: Uto-Aztecan
 glottolog_classification: "Uto-Aztecan > Northern Uto-Aztecan > Takic > Cupan > Cahuilla-Cupeno > Cupeño"
 wikipedia_url: "https://en.wikipedia.org/wiki/Cupe%C3%B1o_language"
 translations:
+  - translation_iso: ara
+    name: الكوپينو
+    auto: true
   - translation_iso: jpn
     name: クペニョ語
     auto: true

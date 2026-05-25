@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > North Borneo Malayo-Polynesian > Kayan-Murik-Modang > Modang-Segai > Modang"
 wikipedia_url: "https://en.wikipedia.org/wiki/Modang_language"
 translations:
+  - translation_iso: ara
+    name: مودانج
+    auto: true
   - translation_iso: jpn
     name: モダン語
     auto: true

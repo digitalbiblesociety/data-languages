@@ -14,6 +14,9 @@ glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Finisterre-Huon > Finisterre-Saruwaged > Erap > Finungwan-Mamaa-Gusan > Gusan"
 wikipedia_url: "https://en.wikipedia.org/wiki/Nema_language"
 translations:
+  - translation_iso: ara
+    name: نإمآ
+    auto: true
   - translation_iso: jpn
     name: ネマ語
     auto: true

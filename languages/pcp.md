@@ -15,6 +15,9 @@ glottolog_family_name: Pano-Tacanan
 glottolog_classification: "Pano-Tacanan > Panoan > Mainline Pano > Pano Nawa > Bolivian Nawa > Pacahuara"
 wikipedia_url: "https://en.wikipedia.org/wiki/Pakawara_language"
 translations:
+  - translation_iso: ara
+    name: اللغة باكاهوارا
+    auto: true
   - translation_iso: jpn
     name: パカワラ語
     auto: true

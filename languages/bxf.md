@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > Meso Melanesian linkage > New Ireland-Northwest Solomonic linkage > St George linkage > Label-Bilur > Bilur"
 wikipedia_url: "https://en.wikipedia.org/wiki/Bilur_language"
 translations:
+  - translation_iso: ara
+    name: بيلور
+    auto: true
   - translation_iso: jpn
     name: ビルル語
     auto: true

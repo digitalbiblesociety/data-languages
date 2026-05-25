@@ -14,6 +14,9 @@ glottolog_family_id: pama1250
 glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > Arandic-Thura-Yura > Thura-Yura > Core Thura Yura > Northern Thura-Yura > Guyani"
 translations:
+  - translation_iso: ara
+    name: غويآني
+    auto: true
   - translation_iso: jpn
     name: グヤニ語
     auto: true

@@ -15,6 +15,9 @@ glottolog_family_name: Austroasiatic
 glottolog_classification: "Austroasiatic > Pearic > Western Pearic > Southern Chong > Sa'och"
 wikipedia_url: "https://en.wikipedia.org/wiki/Sa%27och_language"
 translations:
+  - translation_iso: ara
+    name: ساؤوتش
+    auto: true
   - translation_iso: jpn
     name: チュン語
     auto: true

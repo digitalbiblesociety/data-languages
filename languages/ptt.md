@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Greater South Sulawesi > South Sulawesi > Northern South Sulawesi > Enrekang-Maiwa > Enrekang"
 wikipedia_url: "https://en.wikipedia.org/wiki/Enrekang_language"
 translations:
+  - translation_iso: ara
+    name: اللغة إنريكانج
+    auto: true
   - translation_iso: jpn
     name: エンレカン語
     auto: true

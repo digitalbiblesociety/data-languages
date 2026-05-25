@@ -16,6 +16,9 @@ glottolog_family_name: Muskogean
 glottolog_classification: "Muskogean > Alabaman-Koasati > Alabama"
 wikipedia_url: "https://en.wikipedia.org/wiki/Alabama_language"
 translations:
+  - translation_iso: ara
+    name: لغة ألاباما
+    auto: true
   - translation_iso: jpn
     name: アラバマ語
   - translation_iso: zho

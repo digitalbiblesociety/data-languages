@@ -15,6 +15,9 @@ glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Germanic > Northwest Germanic > West Germanic > High German > Upper German > Middle-Modern High German > Modern High German > Upper Franconian > Greater East Franconian > Western Yiddish"
 wikipedia_url: "https://en.wikipedia.org/wiki/Western_Yiddish_language"
 translations:
+  - translation_iso: ara
+    name: الاش الغربية
+    auto: true
   - translation_iso: jpn
     name: 西イディッシュ語
   - translation_iso: zho

@@ -16,6 +16,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > North-Central Atlantic > Fula-Sereer > Fula > Eastern Fula > Central-Eastern Niger Fulfulde"
 wikipedia_url: "https://en.wikipedia.org/wiki/Central-Eastern_Niger_Fulfulde"
 translations:
+  - translation_iso: ara
+    name: الفولفولدية النيجر الوسط-الشرقية
+    auto: true
   - translation_iso: jpn
     name: 中東部ニジェール・フルフルディ語
   - translation_iso: zho

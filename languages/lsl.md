@@ -14,6 +14,9 @@ glottolog_family_name: Sign Language
 glottolog_classification: "Sign Language > L1 Sign Language > Latvian Sign Language"
 wikipedia_url: "https://en.wikipedia.org/wiki/Latvian_Sign_Language"
 translations:
+  - translation_iso: ara
+    name: لغة الإشارة اللاتفية
+    auto: true
   - translation_iso: jpn
     name: ラトビア手話
   - translation_iso: zho

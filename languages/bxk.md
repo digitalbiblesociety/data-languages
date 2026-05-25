@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > East Bantu > Northeast Savanna Bantu > Great Lakes Bantu > Greater Luyia > Luyia > Saamia-Wanga-Bukusu > Northern Luyia > Bukusu"
 wikipedia_url: "https://en.wikipedia.org/wiki/Bukusu_dialect"
 translations:
+  - translation_iso: ara
+    name: بوكوسو
+    auto: true
   - translation_iso: jpn
     name: ブクス語
   - translation_iso: zho

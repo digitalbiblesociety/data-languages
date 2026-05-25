@@ -15,6 +15,9 @@ glottolog_family_name: Saliban
 glottolog_classification: "Saliban > Sáliba"
 wikipedia_url: "https://en.wikipedia.org/wiki/Saliba_language"
 translations:
+  - translation_iso: ara
+    name: اللغة سليبا
+    auto: true
   - translation_iso: jpn
     name: サリバ語
     auto: true

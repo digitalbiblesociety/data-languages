@@ -12,6 +12,9 @@ longitude: 132.4159
 glottocode: abun1252
 wikipedia_url: "https://en.wikipedia.org/wiki/Abun_language"
 translations:
+  - translation_iso: ara
+    name: لغة آبون
+    auto: true
   - translation_iso: jpn
     name: アブン語
     auto: true

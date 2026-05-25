@@ -14,6 +14,9 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Batanic > Ibatan"
 translations:
+  - translation_iso: ara
+    name: لغة إيباتان
+    auto: true
   - translation_iso: jpn
     name: イバタン語
   - translation_iso: zho

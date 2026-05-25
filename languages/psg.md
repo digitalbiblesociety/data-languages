@@ -15,6 +15,9 @@ glottolog_family_name: Sign Language
 glottolog_classification: "Sign Language > L1 Sign Language > Penang Sign Language"
 wikipedia_url: "https://en.wikipedia.org/wiki/Penang_Sign_Language"
 translations:
+  - translation_iso: ara
+    name: لغة الإشارة بينانج
+    auto: true
   - translation_iso: hin
     name: पेनांग सांकेतिक भाषा
   - translation_iso: jpn

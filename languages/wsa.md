@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > South Halmahera-West New Guinea > Lower Mamberamo > Warembori"
 wikipedia_url: "https://en.wikipedia.org/wiki/Warembori_language"
 translations:
+  - translation_iso: ara
+    name: واريمبوري
+    auto: true
   - translation_iso: jpn
     name: ワレンボリ語
     auto: true

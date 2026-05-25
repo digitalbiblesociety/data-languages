@@ -15,6 +15,9 @@ glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Semitic > West Semitic > Central Semitic > Northwest Semitic > Aramaic > Imperial-Middle-Modern Aramaic > Middle-Modern Aramaic > Eastern Aramaic > Central Eastern Aramaic > North-Eastern Neo-Aramaic > Northwestern Jewish Neo-Aramaic > Lishana Deni"
 wikipedia_url: "https://en.wikipedia.org/wiki/Jewish_Neo-Aramaic_dialect_of_Zakho"
 translations:
+  - translation_iso: ara
+    name: لشنا ديني
+    auto: true
   - translation_iso: jpn
     name: ディダン語
   - translation_iso: zho

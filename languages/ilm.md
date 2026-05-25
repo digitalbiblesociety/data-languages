@@ -7,6 +7,9 @@ country_id: MY
 country_name: Malaysia
 status_id: null
 translations:
+  - translation_iso: ara
+    name: إيرانون
+    auto: true
   - translation_iso: jpn
     name: イラヌン語
   - translation_iso: zho

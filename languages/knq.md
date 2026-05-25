@@ -15,6 +15,9 @@ glottolog_family_name: Austroasiatic
 glottolog_classification: "Austroasiatic > Aslian > Central-Northern Aslian > North Aslian > Maniq-Menraq-Batek > Maniqic > Kintaq"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kintaq_language"
 translations:
+  - translation_iso: ara
+    name: لغة كينتاق
+    auto: true
   - translation_iso: jpn
     name: キンタク語
     auto: true

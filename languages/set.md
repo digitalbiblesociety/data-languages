@@ -15,6 +15,9 @@ glottolog_family_name: Sentanic
 glottolog_classification: "Sentanic > Nuclear Sentanic > Sentani-Nafri > Sentani"
 wikipedia_url: "https://en.wikipedia.org/wiki/Sentani_language"
 translations:
+  - translation_iso: ara
+    name: سينتاني
+    auto: true
   - translation_iso: jpn
     name: ブヤカ語
     auto: true

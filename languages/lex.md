@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Timor-Babar > Southwest Maluku > Luangic-Kisaric > Luangic > Luang"
 wikipedia_url: "https://en.wikipedia.org/wiki/Luang_language"
 translations:
+  - translation_iso: ara
+    name: لغة وانج
+    auto: true
   - translation_iso: jpn
     name: ルアン語
     auto: true

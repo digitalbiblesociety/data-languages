@@ -15,6 +15,9 @@ glottolog_family_name: Austroasiatic
 glottolog_classification: "Austroasiatic > Pearic > Western Pearic > Chong of Chanthaburi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Chong_language"
 translations:
+  - translation_iso: ara
+    name: الشونغ
+    auto: true
   - translation_iso: jpn
     name: チョング語
     auto: true

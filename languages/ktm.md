@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Admiralty Islands > Eastern Admiralty Islands > Manus > East Manus > Kurti-Kele-Ere > Kurti-Elu > Kurti"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kurti_language"
 translations:
+  - translation_iso: ara
+    name: كورتي
+    auto: true
   - translation_iso: jpn
     name: クルティ語
     auto: true

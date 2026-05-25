@@ -14,6 +14,9 @@ glottolog_family_id: otom1299
 glottolog_family_name: Otomanguean
 glottolog_classification: "Otomanguean > Eastern Otomanguean > Amuzgo-Mixtecan > Mixtecan > Mixtec-Cuicatec > Mixtec > Tezoatlanic > Tezoatlán Mixtec"
 translations:
+  - translation_iso: ara
+    name: ميشتك تيزواتلان
+    auto: true
   - translation_iso: jpn
     name: テゾアトラン・ミステク語
     auto: true

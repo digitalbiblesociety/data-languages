@@ -14,6 +14,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > Meso Melanesian linkage > New Ireland-Northwest Solomonic linkage > St George linkage > Northwest Solomonic > North Bougainville Oceanic > Nuclear North Bougainville Oceanic > Buka > Saposa-Tinputz > Tinputzic > Teop"
 wikipedia_url: "https://en.wikipedia.org/wiki/Teop_language"
 translations:
+  - translation_iso: ara
+    name: تيوب
+    auto: true
   - translation_iso: jpn
     name: テオプ語
   - translation_iso: zho

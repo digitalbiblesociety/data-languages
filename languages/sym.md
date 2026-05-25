@@ -14,6 +14,9 @@ glottolog_family_id: mand1469
 glottolog_family_name: Mande
 glottolog_classification: "Mande > Eastern Mande > Bisa-Busa > Samo-Busa > Mande Samo > Maya Samo"
 translations:
+  - translation_iso: ara
+    name: مايا سامو
+    auto: true
   - translation_iso: jpn
     name: マヤ・サモ語
     auto: true

@@ -15,6 +15,9 @@ glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Himalayish > Mahakiranti > Kiranti > Chaurasiya > Jerung"
 wikipedia_url: "https://en.wikipedia.org/wiki/Jerung_language"
 translations:
+  - translation_iso: ara
+    name: لغة جيرونغ
+    auto: true
   - translation_iso: hin
     name: जेरुङ
   - translation_iso: jpn

@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Southern Melanesian > New Caledonian > Mainland New Caledonian > Northern New Caledonian > Mid-Northern New Caledonian > Voh-Kone-Cem-Pac > Voh-Kone > Vamale"
 wikipedia_url: "https://en.wikipedia.org/wiki/Vamale_language"
 translations:
+  - translation_iso: ara
+    name: لغة فامالي
+    auto: true
   - translation_iso: jpn
     name: ヴァマレ語
     auto: true

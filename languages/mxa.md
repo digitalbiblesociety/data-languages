@@ -14,6 +14,9 @@ glottolog_family_id: otom1299
 glottolog_family_name: Otomanguean
 glottolog_classification: "Otomanguean > Eastern Otomanguean > Amuzgo-Mixtecan > Mixtecan > Mixtec-Cuicatec > Mixtec > Central-Western Baja Mixtec > Northwest Oaxaca Mixtec"
 translations:
+  - translation_iso: ara
+    name: لغة ميكستك أواكساكا الشمالية الغربية
+    auto: true
   - translation_iso: jpn
     name: ノースウェスト・オアハカ・ミステク語
     auto: true

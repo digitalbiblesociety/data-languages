@@ -14,6 +14,9 @@ glottolog_family_id: giim1238
 glottolog_family_name: Giimbiyu
 glottolog_classification: "Giimbiyu > Mangerr"
 translations:
+  - translation_iso: ara
+    name: اللغة مانغير
+    auto: true
   - translation_iso: jpn
     name: マンゲル語
     auto: true

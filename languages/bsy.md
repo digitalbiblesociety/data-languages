@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > North Borneo Malayo-Polynesian > Sabahan > Southwest Sabahan > Greater Dusunic > Bisaya-Lotud > Sabah Bisaya"
 wikipedia_url: "https://en.wikipedia.org/wiki/Sabah_Bisaya"
 translations:
+  - translation_iso: ara
+    name: صباح بيسايا
+    auto: true
   - translation_iso: jpn
     name: タタナ語
   - translation_iso: zho

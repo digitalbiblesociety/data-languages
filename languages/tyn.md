@@ -14,6 +14,9 @@ glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Asmat-Awyu-Ok > Awyu-Ok > Greater Awyu > Awyu-Dumut > Ndeiram > Kombai"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kombai_language"
 translations:
+  - translation_iso: ara
+    name: كومباي
+    auto: true
   - translation_iso: jpn
     name: コンバイ語
   - translation_iso: zho

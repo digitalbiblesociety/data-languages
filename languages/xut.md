@@ -15,6 +15,9 @@ glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > Paman > Norman Pama > Kuthant-Gurdjar > Kuthant"
 wikipedia_url: "https://en.wikipedia.org/wiki/Gkuthaarn_language"
 translations:
+  - translation_iso: ara
+    name: كوثانت
+    auto: true
   - translation_iso: jpn
     name: クタント語
     auto: true

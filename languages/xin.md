@@ -10,6 +10,9 @@ latitude: 14.31028
 longitude: -89.82346
 wikipedia_url: "https://en.wikipedia.org/wiki/Xincan_languages"
 translations:
+  - translation_iso: ara
+    name: شينكا
+    auto: true
   - translation_iso: jpn
     name: シンカ語
   - translation_iso: kor

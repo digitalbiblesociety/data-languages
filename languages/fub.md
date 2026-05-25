@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > North-Central Atlantic > Fula-Sereer > Fula > Eastern Fula > Adamawa-Bagirmi Fulfulde > Adamawa Fulfulde"
 wikipedia_url: "https://en.wikipedia.org/wiki/Adamawa_Fulfulde"
 translations:
+  - translation_iso: ara
+    name: الفولفولدية آدمووا
+    auto: true
   - translation_iso: jpn
     name: アダマワ・フルフルディ語
   - translation_iso: zho

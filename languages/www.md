@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Northern Bantoid > Mambiloid > Nizaa-Mambila-Vute > Konja-Mambila-Vute > Mambila-Vute > Vutic > Vute-Wawa > Wawa"
 wikipedia_url: "https://en.wikipedia.org/wiki/Wawa_language"
 translations:
+  - translation_iso: ara
+    name: واوا
+    auto: true
   - translation_iso: jpn
     name: ワワ語
     auto: true

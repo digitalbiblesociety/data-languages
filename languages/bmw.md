@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > Bantu A-B10-B20-B30 > Makaa-Kako (A.80-90) > Makaa-Njem (A.80) > Bomwali"
 wikipedia_url: "https://en.wikipedia.org/wiki/Bomwali_language"
 translations:
+  - translation_iso: ara
+    name: بومولي
+    auto: true
   - translation_iso: jpn
     name: ボムワリ語
     auto: true

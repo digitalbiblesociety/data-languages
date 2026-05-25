@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > North and Central Vanuatu > Central Vanuatu > Malakula > Western Malakula linkage > Central-Western Malakula > Neverver"
 wikipedia_url: "https://en.wikipedia.org/wiki/Neverver_language"
 translations:
+  - translation_iso: ara
+    name: لغة ينجاراك
+    auto: true
   - translation_iso: jpn
     name: リンガラク語
   - translation_iso: zho

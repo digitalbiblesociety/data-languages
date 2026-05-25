@@ -15,6 +15,9 @@ glottolog_family_name: Otomanguean
 glottolog_classification: "Otomanguean > Eastern Otomanguean > Amuzgo-Mixtecan > Mixtecan > Mixtec-Cuicatec > Mixtec > Coast Mixtec > East Coast Mixtec > Tututepec Mixtec"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tututepec_Mixtec"
 translations:
+  - translation_iso: ara
+    name: لغة ميكستك توتوتيبك
+    auto: true
   - translation_iso: jpn
     name: トゥトゥテペック・ミステク語
     auto: true

@@ -15,6 +15,9 @@ glottolog_family_id: mand1469
 glottolog_family_name: Mande
 glottolog_classification: "Mande > Western Mande > Manding-Kpelle > Central Mande > Manding-Jogo > Manding-Vai > Manding-Mokole > Manding > West Manding > Xasonka > Xaasongaxango"
 translations:
+  - translation_iso: ara
+    name: لغة خاسونغاكسانغو
+    auto: true
   - translation_iso: jpn
     name: ハアソンガハンノ語
   - translation_iso: kor

@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > Central-Western Bantu > Njila > Southern Njila > Chokwe-Lunda > Chokwe-Ngangela-Nyemba (K.20) > Ngangela-Nyemba > Mbwela-Mbunda > Mbunda"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mbunda_language"
 translations:
+  - translation_iso: ara
+    name: لغة مبوندا
+    auto: true
   - translation_iso: jpn
     name: ムブンダ語
     auto: true

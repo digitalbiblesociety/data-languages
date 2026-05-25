@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > Central-Western Bantu > West-Coastal Bantu > Nzadic > Lweric > Dingic > Loange-Atlantic > KLC Extended > Kikongo Language Cluster > Nuclear KLC > Kikongoic > Kambakunyic Kikongo > Kilaadic Kikongo > Central-Southern Kikongo > West Kikongo > Vilic > Lumbuic > Ngubi-Sangu-Sira-Punu > Sangu-Sira-Punu > Sangu-Sira > Sangu (Gabon)"
 wikipedia_url: "https://en.wikipedia.org/wiki/Sangu_language_(Gabon)"
 translations:
+  - translation_iso: ara
+    name: اللغة سانجو (جابون)
+    auto: true
   - translation_iso: jpn
     name: サング語
   - translation_iso: zho

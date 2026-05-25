@@ -15,6 +15,9 @@ glottolog_family_name: Mayan
 glottolog_classification: "Mayan > Core Mayan > Western Mayan > Kanjobalan-Chujean > Chujean > Tojolabal"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tojolab%CA%BCal_language"
 translations:
+  - translation_iso: ara
+    name: توجولابال
+    auto: true
   - translation_iso: jpn
     name: トホラバル語
   - translation_iso: kor

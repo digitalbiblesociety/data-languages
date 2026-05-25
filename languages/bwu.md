@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Gur > Central Gur > Northern Central Gur > Bwamu-Oti-Volta > Oti-Volta > Buli-Koma > Buli (Ghana)"
 wikipedia_url: "https://en.wikipedia.org/wiki/Buli_language_(Ghana)"
 translations:
+  - translation_iso: ara
+    name: بولي
+    auto: true
   - translation_iso: jpn
     name: ブリ語
   - translation_iso: zho

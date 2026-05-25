@@ -15,6 +15,9 @@ glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Paniai Lakes > Mee-Wodani > Wolani"
 wikipedia_url: "https://en.wikipedia.org/wiki/Wolani_language"
 translations:
+  - translation_iso: ara
+    name: وولاني
+    auto: true
   - translation_iso: jpn
     name: ウォラニ語
     auto: true

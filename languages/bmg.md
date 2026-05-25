@@ -14,6 +14,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > Central-Western Bantu > North Zaire River > Rivers Bantu > Ngiri > Ngiri Terrien > Bamweic > Bamwe"
 wikipedia_url: "https://en.wikipedia.org/wiki/Bamwe_language"
 translations:
+  - translation_iso: ara
+    name: بامويي
+    auto: true
   - translation_iso: jpn
     name: バムウェ語
     auto: true

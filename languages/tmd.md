@@ -15,6 +15,9 @@ glottolog_family_name: Piawi
 glottolog_classification: "Piawi > Haruai"
 wikipedia_url: "https://en.wikipedia.org/wiki/Haruai_language"
 translations:
+  - translation_iso: ara
+    name: هاروعاي
+    auto: true
   - translation_iso: jpn
     name: ハルアイ語
     auto: true

@@ -10,6 +10,9 @@ latitude: 3.01294
 longitude: -57.92215
 wikipedia_url: "https://en.wikipedia.org/wiki/Sikiana_language"
 translations:
+  - translation_iso: ara
+    name: اللغة السيكيانا
+    auto: true
   - translation_iso: jpn
     name: カシュイアナ語
     auto: true

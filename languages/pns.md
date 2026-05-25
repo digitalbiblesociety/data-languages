@@ -14,6 +14,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Greater Central Philippine > Gorontalo-Mongondow > Mongondowic > Ponosakan"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ponosakan_language"
 translations:
+  - translation_iso: ara
+    name: اللغة بونوساكان
+    auto: true
   - translation_iso: jpn
     name: ポノサカン語
   - translation_iso: zho

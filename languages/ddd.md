@@ -15,6 +15,9 @@ glottolog_family_name: Nilotic
 glottolog_classification: "Nilotic > Eastern Nilotic > Teso-Lotuxo-Maa > Lotuxo-Maa > Lotuxo > Lopit-Dongotono > Dongotonic > Dongotono"
 wikipedia_url: "https://en.wikipedia.org/wiki/Dongotono_language"
 translations:
+  - translation_iso: ara
+    name: دونجوتونو
+    auto: true
   - translation_iso: jpn
     name: ドンゴトノ語
   - translation_iso: zho

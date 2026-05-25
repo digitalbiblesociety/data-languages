@@ -15,6 +15,9 @@ glottolog_family_name: Ta-Ne-Omotic
 glottolog_classification: "Ta-Ne-Omotic > Ometo > East Ometo > Zayse-Zergulla"
 wikipedia_url: "https://en.wikipedia.org/wiki/Zayse-Zergulla_language"
 translations:
+  - translation_iso: ara
+    name: اللغة زايسي-زيرغولا
+    auto: true
   - translation_iso: jpn
     name: ザイセ-ゼルグッラ語
     auto: true

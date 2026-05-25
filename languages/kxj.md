@@ -15,6 +15,9 @@ glottolog_family_name: Central Sudanic
 glottolog_classification: "Central Sudanic > Sara-Bongo-Bagirmi > SBB Occidental > Nuclear SBB Occidental > Saraic > Sara Peripherique > Koulfaic > Kulfa"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kaba_So_language"
 translations:
+  - translation_iso: ara
+    name: كولفا
+    auto: true
   - translation_iso: jpn
     name: クルファ語
     auto: true

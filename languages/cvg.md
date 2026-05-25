@@ -15,6 +15,9 @@ glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Kho-Bwa > Western Kho-Bwa > Chug-Lish > Duhumbi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Chug_language"
 translations:
+  - translation_iso: ara
+    name: الشوغ
+    auto: true
   - translation_iso: hin
     name: चुग भाषा
   - translation_iso: jpn

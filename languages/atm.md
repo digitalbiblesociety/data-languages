@@ -14,6 +14,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Greater Central Philippine > Central Philippine > Bisayan > Unclassified Bisayan > Ata"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ata_language_(Negros)"
 translations:
+  - translation_iso: ara
+    name: اللغة أتا
+    auto: true
   - translation_iso: jpn
     name: アタ語
     auto: true

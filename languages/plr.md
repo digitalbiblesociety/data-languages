@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Senufo > South Senufo > Palaka Senoufo"
 wikipedia_url: "https://en.wikipedia.org/wiki/Palaka_language"
 translations:
+  - translation_iso: ara
+    name: اللغة سينوفو بالاكا
+    auto: true
   - translation_iso: jpn
     name: パラカ語
   - translation_iso: zho

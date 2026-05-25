@@ -15,6 +15,9 @@ glottolog_family_name: North Halmahera
 glottolog_classification: "North Halmahera > Northern North Halmahera > Sahuan > Nuclear Sahuan > Sahu-Waioli > Waioli"
 wikipedia_url: "https://en.wikipedia.org/wiki/Waioli_language"
 translations:
+  - translation_iso: ara
+    name: وايولي
+    auto: true
   - translation_iso: jpn
     name: ワイオリ語
   - translation_iso: zho

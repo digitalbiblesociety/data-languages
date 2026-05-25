@@ -15,6 +15,9 @@ glottolog_family_name: Nilotic
 glottolog_classification: "Nilotic > Western Nilotic > Lwoo > Southern Lwoo > Adhola-Alur-Luo > Adhola-Luo > Adhola"
 wikipedia_url: "https://en.wikipedia.org/wiki/Adhola_dialect"
 translations:
+  - translation_iso: ara
+    name: لغة آدولا
+    auto: true
   - translation_iso: jpn
     name: アドラ語
   - translation_iso: zho

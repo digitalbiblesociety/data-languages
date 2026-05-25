@@ -8,6 +8,9 @@ country_name: Australia
 status_id: "10"
 wikipedia_url: "https://en.wikipedia.org/wiki/Nari-Nari_dialect"
 translations:
+  - translation_iso: ara
+    name: ناري ناري
+    auto: true
   - translation_iso: jpn
     name: ナリナリ語
     auto: true

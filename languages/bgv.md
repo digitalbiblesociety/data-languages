@@ -15,6 +15,9 @@ glottolog_family_name: Anim
 glottolog_classification: "Anim > Marind-Boazi-Yaqai > Yaqayic > Warkay-Bipim"
 wikipedia_url: "https://en.wikipedia.org/wiki/Bipim_language"
 translations:
+  - translation_iso: ara
+    name: وركاي بيبيم
+    auto: true
   - translation_iso: jpn
     name: ワルカイ・ビピム語
     auto: true

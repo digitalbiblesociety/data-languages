@@ -15,6 +15,9 @@ glottolog_family_name: Austroasiatic
 glottolog_classification: "Austroasiatic > Vietic > Chutic > East Chutic > Chut"
 wikipedia_url: "https://en.wikipedia.org/wiki/Chut_languages"
 translations:
+  - translation_iso: ara
+    name: تشوت
+    auto: true
   - translation_iso: jpn
     name: チュット語
   - translation_iso: kor

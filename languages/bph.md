@@ -15,6 +15,9 @@ glottolog_family_name: Nakh-Daghestanian
 glottolog_classification: "Nakh-Daghestanian > Daghestanian > Avar-Andic-Tsezic > Andic > Botlikh-Godoberi > Botlikh"
 wikipedia_url: "https://en.wikipedia.org/wiki/Botlikh_language"
 translations:
+  - translation_iso: ara
+    name: بوتليخ
+    auto: true
   - translation_iso: jpn
     name: ボトリフ語
   - translation_iso: kor

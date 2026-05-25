@@ -14,6 +14,9 @@ glottolog_family_name: Unclassifiable
 glottolog_classification: "Unclassifiable > Wakabunga"
 wikipedia_url: "https://en.wikipedia.org/wiki/Wakabunga_language"
 translations:
+  - translation_iso: ara
+    name: واكابونغا
+    auto: true
   - translation_iso: jpn
     name: ワカブンガ語
     auto: true

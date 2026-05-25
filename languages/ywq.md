@@ -14,6 +14,9 @@ glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Burmo-Qiangic > Lolo-Burmese > Loloish > Ni-Li-Kazhouish > Southeastern Ngwi > Nisoid > Nuclear Nisoid > Nasu-Nosu > Nesu-Nasu > Nasu-Gepu > Wuding-Luquan Yi"
 translations:
+  - translation_iso: ara
+    name: لغة ووديج-لوكوان يي
+    auto: true
   - translation_iso: jpn
     name: ウーディング-ルクアン・イー語
     auto: true

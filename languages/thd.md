@@ -15,6 +15,9 @@ glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > Paman > Southwest Pama > Upper Southwest Paman > Thayore"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kuuk_Thaayorre_language"
 translations:
+  - translation_iso: ara
+    name: كوك ثايور
+    auto: true
   - translation_iso: jpn
     name: クークターヨレ語
   - translation_iso: zho

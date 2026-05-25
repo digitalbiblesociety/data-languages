@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Greater Seram Laut > Banda-Geser > Seran Laut > Koiwai-Irarutu > Irarutic > Nabi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kuri_language_(Austronesian)"
 translations:
+  - translation_iso: ara
+    name: كوري
+    auto: true
   - translation_iso: jpn
     name: クリ語
     auto: true

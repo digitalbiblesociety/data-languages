@@ -15,6 +15,9 @@ glottolog_family_name: Katukinan
 glottolog_classification: "Katukinan > Katukína-Kanamarí"
 wikipedia_url: "https://en.wikipedia.org/wiki/Katuk%C3%ADna-Kanamar%C3%AD_language"
 translations:
+  - translation_iso: ara
+    name: لغة كانامي
+    auto: true
   - translation_iso: jpn
     name: カナマリ語
   - translation_iso: zho

@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > North New Guinea linkage > Schouten linkage > Kairiru-Manam > Manamic linkage > Bam-Manam > Manam-Sepa > Sepa (Papua New Guinea)"
 wikipedia_url: "https://en.wikipedia.org/wiki/Sepa_language_(Papua_New_Guinea)"
 translations:
+  - translation_iso: ara
+    name: اللغة سيبا (بابوا غينيا الجديدة)
+    auto: true
   - translation_iso: jpn
     name: セパ語
   - translation_iso: zho

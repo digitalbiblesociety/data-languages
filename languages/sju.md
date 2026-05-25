@@ -15,6 +15,9 @@ glottolog_family_name: Uralic
 glottolog_classification: "Uralic > Saami > Western Saami > Southwestern Saami > Ume Saami"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ume_S%C3%A1mi"
 translations:
+  - translation_iso: ara
+    name: اللغة أومي سامي
+    auto: true
   - translation_iso: jpn
     name: ウーメ・サーミ語
   - translation_iso: kor

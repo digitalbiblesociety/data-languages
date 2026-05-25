@@ -15,6 +15,9 @@ glottolog_family_name: Arafundi
 glottolog_classification: "Arafundi > Nanubae-Imangae"
 wikipedia_url: "https://en.wikipedia.org/wiki/Nanubae_language"
 translations:
+  - translation_iso: ara
+    name: لغة نانوبي
+    auto: true
   - translation_iso: jpn
     name: ナヌバエ語
     auto: true

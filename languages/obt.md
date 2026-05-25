@@ -8,6 +8,9 @@ country_id: FR
 country_name: France
 status_id: null
 translations:
+  - translation_iso: ara
+    name: اللغة البريتونية القديمة
+    auto: true
   - translation_iso: jpn
     name: 古ブルトン語
   - translation_iso: zho

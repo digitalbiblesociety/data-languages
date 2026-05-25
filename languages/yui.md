@@ -15,6 +15,9 @@ glottolog_family_name: Tucanoan
 glottolog_classification: "Tucanoan > Eastern Tucanoan > Eastern Eastern Tucanoan > Eastern Eastern Tucanoan II > Pisamira-Yuruti > Tuyuca-Yuruti > Yurutí"
 wikipedia_url: "https://en.wikipedia.org/wiki/Wajiara_language"
 translations:
+  - translation_iso: ara
+    name: اللغة يوروتي
+    auto: true
   - translation_iso: jpn
     name: ユルティ語
     auto: true

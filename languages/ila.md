@@ -14,6 +14,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Bima-Lembata > Flores > Flores-Lembata > Lamaholot Barat > North Lembata-Adonara > Ile Ape"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ile_Ape_language"
 translations:
+  - translation_iso: ara
+    name: إيل آبي
+    auto: true
   - translation_iso: jpn
     name: イレ・アペ語
     auto: true

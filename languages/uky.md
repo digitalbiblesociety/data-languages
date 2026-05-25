@@ -15,6 +15,9 @@ glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > Paman > Southwest Pama > Upper Southwest Paman > Kuuk-Yak"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kuuk_Yak_language"
 translations:
+  - translation_iso: ara
+    name: كوك-ياك
+    auto: true
   - translation_iso: jpn
     name: ココ・ヤク語
     auto: true

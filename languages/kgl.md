@@ -14,6 +14,9 @@ glottolog_family_id: pama1250
 glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > Greater Maric > Guwa-Maric > Maric > Southern Maric > Kunggari"
 translations:
+  - translation_iso: ara
+    name: لغة كونغاري
+    auto: true
   - translation_iso: jpn
     name: クングガリ語
     auto: true

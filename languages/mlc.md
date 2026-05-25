@@ -15,6 +15,9 @@ glottolog_family_name: Tai-Kadai
 glottolog_classification: "Tai-Kadai > Kam-Tai > Daic-Beic > Daic > Central-Southwestern Tai > Wenma-Southwestern Tai > Cao Lan"
 wikipedia_url: "https://en.wikipedia.org/wiki/Cao_Lan_language"
 translations:
+  - translation_iso: ara
+    name: لغة كاو لان
+    auto: true
   - translation_iso: jpn
     name: カオラン語
   - translation_iso: zho

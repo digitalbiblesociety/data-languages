@@ -15,6 +15,9 @@ glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Kho-Bwa > Western Kho-Bwa > Chug-Lish > Khispi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Lish_language"
 translations:
+  - translation_iso: ara
+    name: لغة ليش
+    auto: true
   - translation_iso: hin
     name: लिश भाषा
   - translation_iso: jpn

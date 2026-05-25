@@ -15,6 +15,9 @@ glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Dhimal-Lhokpu-Toto > Toto"
 wikipedia_url: "https://en.wikipedia.org/wiki/Toto_language"
 translations:
+  - translation_iso: ara
+    name: توتو
+    auto: true
   - translation_iso: hin
     name: टोटो भाषा
   - translation_iso: jpn

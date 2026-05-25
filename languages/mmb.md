@@ -10,6 +10,9 @@ latitude: -4.812
 longitude: 139.8208
 wikipedia_url: "https://en.wikipedia.org/wiki/Momina_language"
 translations:
+  - translation_iso: ara
+    name: لغة موميا
+    auto: true
   - translation_iso: jpn
     name: モミナ語
     auto: true

@@ -16,6 +16,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Kwa Volta-Congo > Nyo > Potou-Tano > Tano > Central Tano > Akanic > Abron"
 wikipedia_url: "https://en.wikipedia.org/wiki/Bono_dialect"
 translations:
+  - translation_iso: ara
+    name: لغة أبرون
+    auto: true
   - translation_iso: jpn
     name: アブロン語
   - translation_iso: zho

@@ -15,6 +15,9 @@ glottolog_family_name: Kru
 glottolog_classification: "Kru > Greater Western Kru > Western Kru > Wee-Bassa-Klao > Wee > Nuclear Wee > Guere-Krahn > Wobe-Wè Northern"
 wikipedia_url: "https://en.wikipedia.org/wiki/Wob%C3%A9_language"
 translations:
+  - translation_iso: ara
+    name: و نورتهيرن
+    auto: true
   - translation_iso: jpn
     name: ウェ・ノーザン語
     auto: true

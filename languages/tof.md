@@ -15,6 +15,9 @@ glottolog_family_name: Eastern Trans-Fly
 glottolog_classification: "Eastern Trans-Fly > Binaturi > Kura > Gizrra"
 wikipedia_url: "https://en.wikipedia.org/wiki/Gizrra_language"
 translations:
+  - translation_iso: ara
+    name: جيزرا
+    auto: true
   - translation_iso: jpn
     name: ギズラ語
     auto: true

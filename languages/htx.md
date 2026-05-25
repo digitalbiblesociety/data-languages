@@ -8,6 +8,9 @@ country_id: TR
 country_name: Turkey
 status_id: null
 translations:
+  - translation_iso: ara
+    name: لغة الحثيين الوسطى
+    auto: true
   - translation_iso: jpn
     name: ミドル・ヒッタイト語
     auto: true

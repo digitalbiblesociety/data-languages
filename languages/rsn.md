@@ -12,6 +12,9 @@ glottolog_family_name: Sign Language
 glottolog_classification: "Sign Language > L1 Sign Language > Unclassified L1 Sign Language > Rwandan Sign Language"
 wikipedia_url: "https://en.wikipedia.org/wiki/Rwandan_Sign_Language"
 translations:
+  - translation_iso: ara
+    name: لغة الإشارة الرواندية
+    auto: true
   - translation_iso: jpn
     name: ルワンダ手話
   - translation_iso: zho

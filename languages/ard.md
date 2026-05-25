@@ -15,6 +15,9 @@ glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > Karnic > Palku > Arabana-Wangganguru > Arabana"
 wikipedia_url: "https://en.wikipedia.org/wiki/Arabana_language"
 translations:
+  - translation_iso: ara
+    name: اللغة أرابانا
+    auto: true
   - translation_iso: jpn
     name: アラバナ語
   - translation_iso: zho

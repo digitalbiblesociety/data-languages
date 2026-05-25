@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Gur > Central Gur > Southern Central Gur > Grusi > Northern Grusi > Lyélé"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ly%C3%A9l%C3%A9_language"
 translations:
+  - translation_iso: ara
+    name: لغة يل
+    auto: true
   - translation_iso: jpn
     name: リエレ語
   - translation_iso: zho

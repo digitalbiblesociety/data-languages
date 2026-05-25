@@ -14,6 +14,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > Central-Western Bantu > North Zaire River > Rivers Bantu > Ngiri > Ngiri Riverain Ubangi > Ngiri Riverain Ubangi-Ripuaire > Bobangic > Bobangic Riverain > Bobangi-Bangala-Lingala > Lingala-Bangala > Bangala"
 wikipedia_url: "https://en.wikipedia.org/wiki/Bangala_language"
 translations:
+  - translation_iso: ara
+    name: بانْجالا
+    auto: true
   - translation_iso: jpn
     name: バンガラ語
   - translation_iso: zho

@@ -15,6 +15,9 @@ glottolog_family_name: Kru
 glottolog_classification: "Kru > Eastern Kru > Bakwe-Wane > Wané"
 wikipedia_url: "https://en.wikipedia.org/wiki/Wan%C3%A9_language"
 translations:
+  - translation_iso: ara
+    name: وان
+    auto: true
   - translation_iso: jpn
     name: ワネ語
     auto: true

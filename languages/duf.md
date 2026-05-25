@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Southern Melanesian > New Caledonian > Mainland New Caledonian > Southern New Caledonian > Extreme Southern New Caledonian > Dumbea"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ndrumbea_language"
 translations:
+  - translation_iso: ara
+    name: دومبيا
+    auto: true
   - translation_iso: jpn
     name: ンドゥベア語
   - translation_iso: zho

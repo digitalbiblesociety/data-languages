@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Timor-Babar > Southwest Maluku > Maku'a"
 wikipedia_url: "https://en.wikipedia.org/wiki/Makuva_language"
 translations:
+  - translation_iso: ara
+    name: "لغة اكو'ا"
+    auto: true
   - translation_iso: jpn
     name: マクヴァ語
   - translation_iso: zho

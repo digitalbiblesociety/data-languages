@@ -15,6 +15,9 @@ glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Bodic > Bodish > Dakpa-Dzala > Dakpakha"
 wikipedia_url: "https://en.wikipedia.org/wiki/Takpa_language"
 translations:
+  - translation_iso: ara
+    name: داكباخا
+    auto: true
   - translation_iso: hin
     name: दक्पा भाषा
   - translation_iso: jpn

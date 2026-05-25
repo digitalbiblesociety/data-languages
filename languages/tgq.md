@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > North Borneo Malayo-Polynesian > North Sarawakan > Dayic > Tring"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tring_language"
 translations:
+  - translation_iso: ara
+    name: ترينغ
+    auto: true
   - translation_iso: jpn
     name: トリン語
     auto: true

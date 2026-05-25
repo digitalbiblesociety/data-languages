@@ -12,6 +12,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Malayo-Chamic > Aceh-Chamic > Chamic > Cham > Old Cham"
 wikipedia_url: "https://en.wikipedia.org/wiki/Old_Cham"
 translations:
+  - translation_iso: ara
+    name: اللغة تشام القديمة
+    auto: true
   - translation_iso: jpn
     name: 古チャム語
     auto: true

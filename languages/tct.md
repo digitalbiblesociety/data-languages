@@ -15,6 +15,9 @@ glottolog_family_name: Tai-Kadai
 glottolog_classification: "Tai-Kadai > Kam-Tai > Kam-Sui > Then-MMS > T'en"
 wikipedia_url: "https://en.wikipedia.org/wiki/Then_language"
 translations:
+  - translation_iso: ara
+    name: تينّ
+    auto: true
   - translation_iso: jpn
     name: テン語
     auto: true

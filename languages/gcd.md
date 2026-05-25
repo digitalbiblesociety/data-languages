@@ -15,6 +15,9 @@ glottolog_family_name: Tangkic
 glottolog_classification: "Tangkic > Southern Tangkic > Ganggalida"
 wikipedia_url: "https://en.wikipedia.org/wiki/Yukulta_language"
 translations:
+  - translation_iso: ara
+    name: الجانجاليدا
+    auto: true
   - translation_iso: jpn
     name: ガンガリダ語
     auto: true

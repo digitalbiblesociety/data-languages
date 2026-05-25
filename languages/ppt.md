@@ -15,6 +15,9 @@ glottolog_family_name: Kamula-Elevala
 glottolog_classification: "Kamula-Elevala > Elevala > Pare"
 wikipedia_url: "https://en.wikipedia.org/wiki/Pa_language"
 translations:
+  - translation_iso: ara
+    name: اللغة باري
+    auto: true
   - translation_iso: jpn
     name: パレ語
     auto: true

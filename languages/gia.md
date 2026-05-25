@@ -15,6 +15,9 @@ glottolog_family_name: Jarrakan
 glottolog_classification: "Jarrakan > Kitja"
 wikipedia_url: "https://en.wikipedia.org/wiki/Gija_language"
 translations:
+  - translation_iso: ara
+    name: كيجآ
+    auto: true
   - translation_iso: jpn
     name: キジャ語
     auto: true

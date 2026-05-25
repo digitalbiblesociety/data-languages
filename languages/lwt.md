@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Bima-Lembata > Flores > Flores-Lembata > Lamaholot Barat > Flores Lamaholot > Lewotobi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Lewotobi_language"
 translations:
+  - translation_iso: ara
+    name: لغة يووتوبي
+    auto: true
   - translation_iso: jpn
     name: レウォトビ語
   - translation_iso: zho

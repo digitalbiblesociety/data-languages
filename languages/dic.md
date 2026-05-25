@@ -14,6 +14,9 @@ glottolog_family_id: krua1234
 glottolog_family_name: Kru
 glottolog_classification: "Kru > Eastern Kru > Neyo-Dida > Dida > Guebie-Lakota Dida > Lakota Dida"
 translations:
+  - translation_iso: ara
+    name: لاكوتا ديدا
+    auto: true
   - translation_iso: jpn
     name: ラコタ・ディダ語
     auto: true

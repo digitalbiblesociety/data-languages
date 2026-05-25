@@ -15,6 +15,9 @@ glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > Paman > Northern Pama > Gudang-Northeast Paman > Gudang"
 wikipedia_url: "https://en.wikipedia.org/wiki/Gudang_language"
 translations:
+  - translation_iso: ara
+    name: غودانغ
+    auto: true
   - translation_iso: jpn
     name: グダン語
     auto: true

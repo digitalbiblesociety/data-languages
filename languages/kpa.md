@@ -15,6 +15,9 @@ glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > West Chadic > West Chadic A > West Chadic A.2-3 > West Chadic A.2 > Tangalic > Nuclear Tangalic > Tangale-Kwami-Kupto > Kwami-Kupto > Kutto"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kutto_language"
 translations:
+  - translation_iso: ara
+    name: لغة كوتو
+    auto: true
   - translation_iso: jpn
     name: クット語
     auto: true

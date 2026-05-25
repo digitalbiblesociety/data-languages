@@ -15,6 +15,9 @@ glottolog_family_name: Nilotic
 glottolog_classification: "Nilotic > Southern Nilotic > Tatoga-Omotik > Gemein Datooga > North-Central Datooga > Barabayiiga-Gisamjanga"
 wikipedia_url: "https://en.wikipedia.org/wiki/Datooga_language"
 translations:
+  - translation_iso: ara
+    name: داتوغا
+    auto: true
   - translation_iso: jpn
     name: ダトガ語
   - translation_iso: zho

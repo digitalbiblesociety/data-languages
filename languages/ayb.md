@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Kwa Volta-Congo > Gbe > Eastern Gbe > Western Phla-Phera > Ayizo Gbe"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ayizo_language"
 translations:
+  - translation_iso: ara
+    name: اللغة أييزو جبي
+    auto: true
   - translation_iso: jpn
     name: アイゾ語
   - translation_iso: zho

@@ -15,6 +15,9 @@ glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Indo-Aryan > Middle-Modern Indo-Aryan > Continental Indo-Aryan > Indo-Aryan Southern zone > Maharastri Prakrit"
 wikipedia_url: "https://en.wikipedia.org/wiki/Maharashtri_Prakrit"
 translations:
+  - translation_iso: ara
+    name: اللغة ماهاراشتري براكريت
+    auto: true
   - translation_iso: hin
     name: महाराष्ट्री प्राकृत
   - translation_iso: jpn

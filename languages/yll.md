@@ -14,6 +14,9 @@ glottolog_family_name: Nuclear Torricelli
 glottolog_classification: "Nuclear Torricelli > Wapei-Palei > Central Torricelli > Wapeic > Ningil-Yil > Yil"
 wikipedia_url: "https://en.wikipedia.org/wiki/Yil_language"
 translations:
+  - translation_iso: ara
+    name: اللغة يل
+    auto: true
   - translation_iso: jpn
     name: イル語
     auto: true

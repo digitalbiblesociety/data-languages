@@ -14,6 +14,9 @@ glottolog_family_name: Sepik
 glottolog_classification: "Sepik > Yellow River > Ak"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ak_language"
 translations:
+  - translation_iso: ara
+    name: لغة آك
+    auto: true
   - translation_iso: jpn
     name: アク語
     auto: true

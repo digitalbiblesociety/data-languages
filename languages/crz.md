@@ -15,6 +15,9 @@ glottolog_family_name: Chumashan
 glottolog_classification: "Chumashan > Southern Chumashan > Cruzeño"
 wikipedia_url: "https://en.wikipedia.org/wiki/Island_Chumash_language"
 translations:
+  - translation_iso: ara
+    name: الكروزينو
+    auto: true
   - translation_iso: jpn
     name: 島嶼チュマシュ語
   - translation_iso: zho

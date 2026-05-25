@@ -15,6 +15,9 @@ glottolog_family_name: Ijoid
 glottolog_classification: "Ijoid > Defaka"
 wikipedia_url: "https://en.wikipedia.org/wiki/Defaka_language"
 translations:
+  - translation_iso: ara
+    name: لغة ديفاكا
+    auto: true
   - translation_iso: jpn
     name: デファカ語
   - translation_iso: zho

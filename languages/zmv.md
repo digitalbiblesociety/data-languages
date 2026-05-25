@@ -15,6 +15,9 @@ glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > Paman > Lamalamic > Rimanggudhinma"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mbariman-Gudhinma_language"
 translations:
+  - translation_iso: ara
+    name: مباريمان-غودهينما
+    auto: true
   - translation_iso: jpn
     name: ググ・ワラ語
   - translation_iso: zho

@@ -15,6 +15,9 @@ glottolog_family_name: Western Tasmanian
 glottolog_classification: "Western Tasmanian > Port Sorell"
 wikipedia_url: "https://en.wikipedia.org/wiki/Port_Sorell_language"
 translations:
+  - translation_iso: ara
+    name: تاسماني بورت سوريل
+    auto: true
   - translation_iso: jpn
     name: ポートソレル・タスマニア語
     auto: true

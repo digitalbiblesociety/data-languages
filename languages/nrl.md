@@ -15,6 +15,9 @@ glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > South-West Pama-Nyungan > Pilbara > Ngayarda > Central Ngayarda > Ngarluma-Kariyarra > Ngarluma"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ngarluma_language"
 translations:
+  - translation_iso: ara
+    name: نغارلوما
+    auto: true
   - translation_iso: jpn
     name: ングアルマ語
     auto: true

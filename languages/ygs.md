@@ -14,6 +14,9 @@ glottolog_family_name: Sign Language
 glottolog_classification: "Sign Language > L1 Sign Language > Yolngu Sign Language"
 wikipedia_url: "https://en.wikipedia.org/wiki/Yol%C5%8Bu_Sign_Language"
 translations:
+  - translation_iso: ara
+    name: لغة يولنغو الإشارة
+    auto: true
   - translation_iso: jpn
     name: ヨルング手話
   - translation_iso: zho

@@ -15,6 +15,9 @@ glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Chimbu-Wahgi > Wahgic > Wahgi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Wahgi_language"
 translations:
+  - translation_iso: ara
+    name: واهغي
+    auto: true
   - translation_iso: jpn
     name: ワギ語
   - translation_iso: zho

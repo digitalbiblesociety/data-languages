@@ -15,6 +15,9 @@ glottolog_family_name: Tor-Orya
 glottolog_classification: "Tor-Orya > Tor > Kwesten"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kwesten_language"
 translations:
+  - translation_iso: ara
+    name: كويستن
+    auto: true
   - translation_iso: jpn
     name: クウェステン語
     auto: true

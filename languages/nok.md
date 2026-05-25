@@ -15,6 +15,9 @@ glottolog_family_name: Salishan
 glottolog_classification: "Salishan > Coast Salish > Central Salish > South Georgia Central Salish > Nooksack"
 wikipedia_url: "https://en.wikipedia.org/wiki/Nooksack_language"
 translations:
+  - translation_iso: ara
+    name: نوكساك
+    auto: true
   - translation_iso: jpn
     name: ヌックサック語
   - translation_iso: zho

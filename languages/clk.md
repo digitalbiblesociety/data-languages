@@ -15,6 +15,9 @@ glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Digarish > Idu"
 wikipedia_url: "https://en.wikipedia.org/wiki/Idu_Mishmi_language"
 translations:
+  - translation_iso: ara
+    name: إيدو-ميشمي
+    auto: true
   - translation_iso: hin
     name: इदु मिश्मी भाषा
   - translation_iso: jpn

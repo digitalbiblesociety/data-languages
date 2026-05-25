@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Timor-Babar > Southwest Maluku > Babar > North Babaric > North Babar"
 wikipedia_url: "https://en.wikipedia.org/wiki/North_Babar_language"
 translations:
+  - translation_iso: ara
+    name: اللغة بابار الشمالية
+    auto: true
   - translation_iso: jpn
     name: 北ババル語
     auto: true

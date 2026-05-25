@@ -9,6 +9,9 @@ country_name: Philippines
 status_id: 8a
 wikipedia_url: "https://en.wikipedia.org/wiki/Southwestern_Bontoc"
 translations:
+  - translation_iso: ara
+    name: جنوب غربي بونتوك
+    auto: true
   - translation_iso: jpn
     name: 南西ボントク語
   - translation_iso: zho

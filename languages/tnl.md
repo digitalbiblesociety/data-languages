@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Southern Melanesian > Southern Vanuatu > Tanna > Northern Tanna linkage > Lenakel"
 wikipedia_url: "https://en.wikipedia.org/wiki/Lenakel_language"
 translations:
+  - translation_iso: ara
+    name: لينكيل
+    auto: true
   - translation_iso: jpn
     name: レナケル語
   - translation_iso: zho

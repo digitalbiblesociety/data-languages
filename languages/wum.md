@@ -14,6 +14,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > Bantu A-B10-B20-B30 > Bantu B20A > Siguic > Ndasa-Wumbvu > Wumbvu"
 wikipedia_url: "https://en.wikipedia.org/wiki/Wumbvu_language"
 translations:
+  - translation_iso: ara
+    name: وومبفو
+    auto: true
   - translation_iso: jpn
     name: Wumbvu語
   - translation_iso: zho

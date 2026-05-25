@@ -14,6 +14,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > Papuan Tip linkage > Nuclear Papuan Tip linkage > Suauic > Wagawaga"
 wikipedia_url: "https://en.wikipedia.org/wiki/Wagawaga_language_(New_Guinea)"
 translations:
+  - translation_iso: ara
+    name: واغاواغا
+    auto: true
   - translation_iso: jpn
     name: ワガワガ語
     auto: true

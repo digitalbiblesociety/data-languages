@@ -15,6 +15,9 @@ glottolog_family_name: Tucanoan
 glottolog_classification: "Tucanoan > Western Tucanoan > Koreguaje-Tama > Tama (Colombia)"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tama_language_(Colombia)"
 translations:
+  - translation_iso: ara
+    name: تاما
+    auto: true
   - translation_iso: jpn
     name: タマ語
     auto: true

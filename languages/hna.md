@@ -15,6 +15,9 @@ glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > Biu-Mandara > South Biu-Mandara > Dabaic > Mina (Cameroon)"
 wikipedia_url: "https://en.wikipedia.org/wiki/Hina_language"
 translations:
+  - translation_iso: ara
+    name: مينا
+    auto: true
   - translation_iso: jpn
     name: ミナ語
     auto: true

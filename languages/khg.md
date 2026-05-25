@@ -15,6 +15,9 @@ glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Bodic > Bodish > Early Old Tibetan > Middle Old Tibetan > Late Old Tibetan > Kham-Hor > Khams Tibetan"
 wikipedia_url: "https://en.wikipedia.org/wiki/Khams_Tibetan"
 translations:
+  - translation_iso: ara
+    name: اللغة التبتية خام
+    auto: true
   - translation_iso: hin
     name: खम्बा भाषा
   - translation_iso: jpn

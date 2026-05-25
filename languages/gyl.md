@@ -15,6 +15,9 @@ glottolog_family_name: South Omotic
 glottolog_classification: "South Omotic > AHK > Aari-Gayil > Gayil"
 wikipedia_url: "https://en.wikipedia.org/wiki/Gayil_language"
 translations:
+  - translation_iso: ara
+    name: غآييل
+    auto: true
   - translation_iso: jpn
     name: ガイル語
     auto: true

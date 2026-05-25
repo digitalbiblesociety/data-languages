@@ -10,6 +10,9 @@ latitude: 18.387
 longitude: 104.518
 wikipedia_url: "https://en.wikipedia.org/wiki/Laotian_sign_languages"
 translations:
+  - translation_iso: ara
+    name: لغة الإشارة اللاوية
+    auto: true
   - translation_iso: jpn
     name: ラオス手話
   - translation_iso: zho

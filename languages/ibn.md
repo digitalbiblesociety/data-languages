@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Delta Cross > Lower Cross > Nuclear Lower Cross > Central Lower Cross > Ibino-Iko > Ibino"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ibono_language"
 translations:
+  - translation_iso: ara
+    name: إيبينو
+    auto: true
   - translation_iso: jpn
     name: イビノ語
     auto: true

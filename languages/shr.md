@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > East Bantu > Northeast Savanna Bantu > Great Lakes Bantu > Western Lakes Bantu > Kivu > Forest Kivu > Shi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Shi_language"
 translations:
+  - translation_iso: ara
+    name: اللغة الشي
+    auto: true
   - translation_iso: jpn
     name: シ語
   - translation_iso: zho

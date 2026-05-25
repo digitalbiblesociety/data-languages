@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Igboid > Nuclear Igboid > Ogbah"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ogba_language"
 translations:
+  - translation_iso: ara
+    name: اللغة أوغباه
+    auto: true
   - translation_iso: jpn
     name: オグバ語
     auto: true

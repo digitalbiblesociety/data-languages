@@ -15,6 +15,9 @@ glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > South-West Pama-Nyungan > Kartu-Nhanda > Nhanda"
 wikipedia_url: "https://en.wikipedia.org/wiki/Nhanda_language"
 translations:
+  - translation_iso: ara
+    name: نهاندا
+    auto: true
   - translation_iso: jpn
     name: ンハンダ語
     auto: true

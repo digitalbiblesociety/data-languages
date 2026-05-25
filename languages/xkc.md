@@ -15,6 +15,9 @@ glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Iranian-Nuristani > Iranian > Central Iranian PBS > Central Iranian PB > Northwestern Iranian > Adharic > Tatic > Central Tatic > Kho'ini"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kho%27ini_dialect"
 translations:
+  - translation_iso: ara
+    name: خويني
+    auto: true
   - translation_iso: hin
     name: kho kho objeet
   - translation_iso: jpn

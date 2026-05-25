@@ -15,6 +15,9 @@ glottolog_family_name: Tungusic
 glottolog_classification: "Tungusic > Central-Western Tungusic > Ulchaic > Ulch"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ulch_language"
 translations:
+  - translation_iso: ara
+    name: ألتش
+    auto: true
   - translation_iso: jpn
     name: ウリチ語
   - translation_iso: kor

@@ -16,6 +16,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > North-Central Atlantic > Tenda > Bassari-Bedik-Bapen > Bedik-Bapen > Bedik"
 wikipedia_url: "https://en.wikipedia.org/wiki/Bedik_language"
 translations:
+  - translation_iso: ara
+    name: مينيك
+    auto: true
   - translation_iso: jpn
     name: メニク語
   - translation_iso: kor

@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Javanesic > Modern Javanese > Global Javanese > Caribbean Javanese"
 wikipedia_url: "https://en.wikipedia.org/wiki/Caribbean_Javanese"
 translations:
+  - translation_iso: ara
+    name: لغة جاوية كاريبية
+    auto: true
   - translation_iso: jpn
     name: カリブ海ジャワ語
     auto: true

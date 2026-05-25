@@ -15,6 +15,9 @@ glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Iranian-Nuristani > Nuristani > Ashkun-Kate-Waigali > Ashkun-Kate > Ashkun"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ashkun_language"
 translations:
+  - translation_iso: ara
+    name: اللغة أشكون
+    auto: true
   - translation_iso: hin
     name: आश्कूनू भाषा
   - translation_iso: jpn

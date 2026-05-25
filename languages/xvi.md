@@ -10,6 +10,9 @@ latitude: 30
 longitude: 70
 wikipedia_url: "https://en.wikipedia.org/wiki/Kamviri_dialect"
 translations:
+  - translation_iso: ara
+    name: كامفيري
+    auto: true
   - translation_iso: jpn
     name: カンヴィリ方言
   - translation_iso: zho

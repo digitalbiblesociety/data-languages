@@ -15,6 +15,9 @@ glottolog_family_name: Sign Language
 glottolog_classification: "Sign Language > L1 Sign Language > LSFic > Dutch-Belgian Sign > Dutch Sign Language"
 wikipedia_url: "https://en.wikipedia.org/wiki/Dutch_Sign_Language"
 translations:
+  - translation_iso: ara
+    name: دوتش ساين لانجويج
+    auto: true
   - translation_iso: jpn
     name: オランダ手話
   - translation_iso: zho

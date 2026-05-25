@@ -15,6 +15,9 @@ glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > Paman > Finasleigh Pama > Wamin"
 wikipedia_url: "https://en.wikipedia.org/wiki/Wamin_language"
 translations:
+  - translation_iso: ara
+    name: وامين
+    auto: true
   - translation_iso: jpn
     name: ワミン語
     auto: true

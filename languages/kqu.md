@@ -14,6 +14,9 @@ glottolog_family_name: Tuu
 glottolog_classification: "Tuu > !Ui > Eastern !Ui > Vaal-Orange"
 wikipedia_url: "https://en.wikipedia.org/wiki/Seroa"
 translations:
+  - translation_iso: ara
+    name: لغة سيروا
+    auto: true
   - translation_iso: jpn
     name: セロア語
     auto: true

@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Timor-Babar > Rote-Meto > West Rote > Dela-Oenale"
 wikipedia_url: "https://en.wikipedia.org/wiki/Dela%E2%80%93Oenale_language"
 translations:
+  - translation_iso: ara
+    name: ديلا أوينالي
+    auto: true
   - translation_iso: jpn
     name: デラオエナレ語
     auto: true

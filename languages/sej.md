@@ -14,6 +14,9 @@ glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Finisterre-Huon > Huon > Eastern Huon > Trans Vitiaz > Huon Tip > Sene"
 wikipedia_url: "https://en.wikipedia.org/wiki/Sene_language"
 translations:
+  - translation_iso: ara
+    name: سيني
+    auto: true
   - translation_iso: jpn
     name: セネ語
   - translation_iso: zho

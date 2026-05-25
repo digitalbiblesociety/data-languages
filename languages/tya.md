@@ -15,6 +15,9 @@ glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Madang > Rai Coast > Unclassified Rai Coast > Tauya"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tauya_language"
 translations:
+  - translation_iso: ara
+    name: تاويا
+    auto: true
   - translation_iso: jpn
     name: フォウポ語
     auto: true

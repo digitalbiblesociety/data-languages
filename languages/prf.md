@@ -14,6 +14,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Northern Luzon > Northeastern Luzon > Nuclear Northeastern Luzon > Paranan-Pahanan > Paranan"
 wikipedia_url: "https://en.wikipedia.org/wiki/Paranan_language"
 translations:
+  - translation_iso: ara
+    name: اللغة باراننان
+    auto: true
   - translation_iso: jpn
     name: パラナン
   - translation_iso: zho

@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Defoid > Yoruboid > Edekiri > Ede > Mokole"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mokole_language_(Benin)"
 translations:
+  - translation_iso: ara
+    name: لغة موكول
+    auto: true
   - translation_iso: jpn
     name: モコレ語
     auto: true

@@ -15,6 +15,9 @@ glottolog_family_name: Otomanguean
 glottolog_classification: "Otomanguean > Eastern Otomanguean > Popoloca-Zapotecan > Popolocan-Mazatecan > Mazatecan > Valley Mazatec > Ayautlic > Ayautla Mazatec"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ayautla_Mazatec"
 translations:
+  - translation_iso: ara
+    name: أيوتلا مازاتك
+    auto: true
   - translation_iso: jpn
     name: アヤウトラ・マサテク語
     auto: true

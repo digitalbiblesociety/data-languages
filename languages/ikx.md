@@ -15,6 +15,9 @@ glottolog_family_name: Kuliak
 glottolog_classification: "Kuliak > Ik"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ik_language"
 translations:
+  - translation_iso: ara
+    name: إيك
+    auto: true
   - translation_iso: jpn
     name: イク語
   - translation_iso: zho

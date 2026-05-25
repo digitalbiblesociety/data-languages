@@ -14,6 +14,9 @@ glottolog_family_id: pama1250
 glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > Paman > Compromise Middle Pama > Wik > Kuku-Wik-Ep > Kuku-Wik > Paman Kuku > Kuku-Muminh"
 translations:
+  - translation_iso: ara
+    name: كوجو-موميني
+    auto: true
   - translation_iso: jpn
     name: クグ・ムミンハ語
     auto: true

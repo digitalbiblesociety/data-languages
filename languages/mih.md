@@ -15,6 +15,9 @@ glottolog_family_name: Otomanguean
 glottolog_classification: "Otomanguean > Eastern Otomanguean > Amuzgo-Mixtecan > Mixtecan > Mixtec-Cuicatec > Mixtec > Coast Mixtec > East Coast Mixtec > Chayuco Mixtec"
 wikipedia_url: "https://en.wikipedia.org/wiki/Chayuco-Jamiltepec_Mixtec"
 translations:
+  - translation_iso: ara
+    name: لغة مازاتك تشايوكو
+    auto: true
   - translation_iso: jpn
     name: チャユコ・ミステク語
     auto: true

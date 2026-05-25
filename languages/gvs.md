@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > Papuan Tip linkage > Nuclear Papuan Tip linkage > North Papuan Mainland-D'Entrecasteaux linkage > Gumawana"
 wikipedia_url: "https://en.wikipedia.org/wiki/Gumawana_language"
 translations:
+  - translation_iso: ara
+    name: غومآوآنآ
+    auto: true
   - translation_iso: jpn
     name: グマワナ語
     auto: true

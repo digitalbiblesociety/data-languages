@@ -15,6 +15,9 @@ glottolog_family_name: Nakh-Daghestanian
 glottolog_classification: "Nakh-Daghestanian > Daghestanian > Avar-Andic-Tsezic > Andic > Andi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Andi_language"
 translations:
+  - translation_iso: ara
+    name: اللغة الأندية
+    auto: true
   - translation_iso: jpn
     name: アンディ語
   - translation_iso: kor

@@ -15,6 +15,9 @@ glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Kuki-Chin-Naga > Kuki-Chin > Central Kuki-Chin > Core Central Kuki-Chin > Mizoic > Hmaric > Hmar"
 wikipedia_url: "https://en.wikipedia.org/wiki/Hmar_language"
 translations:
+  - translation_iso: ara
+    name: همار
+    auto: true
   - translation_iso: hin
     name: म्हार भाषा
   - translation_iso: jpn

@@ -16,6 +16,9 @@ glottolog_family_name: Austroasiatic
 glottolog_classification: "Austroasiatic > Khmeric > Northern Khmer"
 wikipedia_url: "https://en.wikipedia.org/wiki/Northern_Khmer_dialect"
 translations:
+  - translation_iso: ara
+    name: خمير الشمالية
+    auto: true
   - translation_iso: jpn
     name: スリン・クメール語
   - translation_iso: zho

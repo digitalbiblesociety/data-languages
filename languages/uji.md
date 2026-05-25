@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Benue-Congo Plateau > Jilic-Eggonic > Jilic > Rjili"
 wikipedia_url: "https://en.wikipedia.org/wiki/Jijili_language"
 translations:
+  - translation_iso: ara
+    name: تانجيجيلي
+    auto: true
   - translation_iso: jpn
     name: タンジジリ語
     auto: true

@@ -15,6 +15,9 @@ glottolog_family_name: Nakh-Daghestanian
 glottolog_classification: "Nakh-Daghestanian > Daghestanian > Lezgic > Samur > Eastern Samur > Udi-Aghwan > Aghwan"
 wikipedia_url: "https://en.wikipedia.org/wiki/Caucasian_Albanian_language"
 translations:
+  - translation_iso: ara
+    name: اغهوان
+    auto: true
   - translation_iso: jpn
     name: 古ウディ語
   - translation_iso: zho

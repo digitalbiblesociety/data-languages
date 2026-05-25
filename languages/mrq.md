@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Central Pacific linkage > Tokalau Fijian > Polynesian > Nuclear Polynesian > Northern Outlier Polynesian-East Polynesian > Solomons Northern Outlier Polynesian-East Polynesian > Central Northern Outlier Polynesian-East Polynesian > East Polynesian > East Polynesian Distal > Marquesan > North Marquesan"
 wikipedia_url: "https://en.wikipedia.org/wiki/North_Marquesan_language"
 translations:
+  - translation_iso: ara
+    name: لغة ماركيزان الشمالية
+    auto: true
   - translation_iso: jpn
     name: 北マルキーズ語
   - translation_iso: zho

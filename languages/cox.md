@@ -15,6 +15,9 @@ glottolog_family_name: Arawakan
 glottolog_classification: "Arawakan > Southern Maipuran > Kampa-Amuesha > Pre-Andine Maipuran > Asha-Ashe-Kak-Matsi-Nan > Matsi-Nan > Nanti"
 wikipedia_url: "https://en.wikipedia.org/wiki/Nanti_language"
 translations:
+  - translation_iso: ara
+    name: النانتي
+    auto: true
   - translation_iso: jpn
     name: ナンティ語
     auto: true

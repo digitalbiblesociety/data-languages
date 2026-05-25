@@ -8,6 +8,9 @@ country_name: Kazakhstan
 status_id: null
 wikipedia_url: "https://en.wikipedia.org/wiki/Scythian_languages"
 translations:
+  - translation_iso: ara
+    name: سيثية
+    auto: true
   - translation_iso: jpn
     name: スキタイ語
   - translation_iso: kor

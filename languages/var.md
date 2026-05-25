@@ -15,6 +15,9 @@ glottolog_family_name: Uto-Aztecan
 glottolog_classification: "Uto-Aztecan > Southern Uto-Aztecan > Tarahumara-Guarijio > Huarijio"
 wikipedia_url: "https://en.wikipedia.org/wiki/Huarijio_language"
 translations:
+  - translation_iso: ara
+    name: هوارهيو
+    auto: true
   - translation_iso: jpn
     name: ヴァリヒオ語
     auto: true

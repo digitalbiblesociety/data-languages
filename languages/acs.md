@@ -15,6 +15,9 @@ glottolog_family_name: Nuclear-Macro-Je
 glottolog_classification: "Nuclear-Macro-Je > Je > Cerrado > Central Je > Acroá"
 wikipedia_url: "https://en.wikipedia.org/wiki/Acro%C3%A1_language"
 translations:
+  - translation_iso: ara
+    name: لغة أكروآ
+    auto: true
   - translation_iso: jpn
     name: アクロア語
     auto: true

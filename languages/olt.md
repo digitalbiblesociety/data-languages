@@ -8,6 +8,9 @@ country_id: LT
 country_name: Lithuania
 status_id: null
 translations:
+  - translation_iso: ara
+    name: اللغة الليتوانية القديمة
+    auto: true
   - translation_iso: jpn
     name: 古リトアニア語
     auto: true

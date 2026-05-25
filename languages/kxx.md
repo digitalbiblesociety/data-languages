@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > Central-Western Bantu > North Zaire River > Rivers Bantu > Ngiri > Ngiri Riverain Ubangi > Ngiri Riverain Ubangi-Ripuaire > Bobangic > Bobangic Riverain > Likwala-Likuba > Likuba"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kuba_language"
 translations:
+  - translation_iso: ara
+    name: ليكوبا
+    auto: true
   - translation_iso: jpn
     name: リクバ語
     auto: true

@@ -15,6 +15,9 @@ glottolog_family_name: Tai-Kadai
 glottolog_classification: "Tai-Kadai > Hlaic > Nuclear Hlaic > Hlai"
 wikipedia_url: "https://en.wikipedia.org/wiki/Hlai_language"
 translations:
+  - translation_iso: ara
+    name: لغة لاي
+    auto: true
   - translation_iso: jpn
     name: リー語
   - translation_iso: zho

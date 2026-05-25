@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > North New Guinea linkage > Ngero-Vitiaz linkage > Vitiaz linkage > Mengenic > Lote"
 wikipedia_url: "https://en.wikipedia.org/wiki/Lote_language"
 translations:
+  - translation_iso: ara
+    name: لوتي
+    auto: true
   - translation_iso: jpn
     name: ウヴォル語
   - translation_iso: zho

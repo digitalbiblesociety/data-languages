@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Nunusaku > Patakai-Manusela > Manusela-Huaulu > Manusela"
 wikipedia_url: "https://en.wikipedia.org/wiki/Manusela_language"
 translations:
+  - translation_iso: ara
+    name: سوو وپاا
+    auto: true
   - translation_iso: jpn
     name: ソゥ・ウパア語
     auto: true

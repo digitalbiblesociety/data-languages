@@ -15,6 +15,9 @@ glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Dani > Ngalik-Nduga > Silimo"
 wikipedia_url: "https://en.wikipedia.org/wiki/Silimo_language"
 translations:
+  - translation_iso: ara
+    name: سيليمو
+    auto: true
   - translation_iso: jpn
     name: シリモ語
     auto: true

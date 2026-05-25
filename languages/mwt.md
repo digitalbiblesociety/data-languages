@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Moken-Moklen > Moken"
 wikipedia_url: "https://en.wikipedia.org/wiki/Moken_language"
 translations:
+  - translation_iso: ara
+    name: لغة موكن
+    auto: true
   - translation_iso: jpn
     name: モーケン語
   - translation_iso: kor

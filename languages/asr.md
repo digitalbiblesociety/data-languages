@@ -15,6 +15,9 @@ glottolog_family_name: Austroasiatic
 glottolog_classification: "Austroasiatic > Mundaic > North Munda > Kherwarian > Mundaric > Asuric > Asuri"
 wikipedia_url: "https://en.wikipedia.org/wiki/Asur_language"
 translations:
+  - translation_iso: ara
+    name: اللغة أسوري
+    auto: true
   - translation_iso: hin
     name: असुर भाषा
   - translation_iso: jpn

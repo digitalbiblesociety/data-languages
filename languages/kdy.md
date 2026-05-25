@@ -15,6 +15,9 @@ glottolog_family_name: Tor-Orya
 glottolog_classification: "Tor-Orya > Tor > Coastal Tor > Keder"
 wikipedia_url: "https://en.wikipedia.org/wiki/Keijar_language"
 translations:
+  - translation_iso: ara
+    name: لغة كيدير
+    auto: true
   - translation_iso: jpn
     name: ケデル語
     auto: true

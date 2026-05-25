@@ -15,6 +15,9 @@ glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Germanic > Northwest Germanic > West Germanic > Macro-Dutch > Middle-Modern Dutch > Modern Dutch > Southwestern Dutch > Zeeuwic > Virgin Islands Dutch Creole"
 wikipedia_url: "https://en.wikipedia.org/wiki/Negerhollands"
 translations:
+  - translation_iso: ara
+    name: نيجرهولندس
+    auto: true
   - translation_iso: jpn
     name: ネーデルランド・クレオール語
     auto: true

@@ -15,6 +15,9 @@ glottolog_family_name: Kayagaric
 glottolog_classification: "Kayagaric > Kaygir-Tamagario > Kayagar"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kayagar_language"
 translations:
+  - translation_iso: ara
+    name: كايجار
+    auto: true
   - translation_iso: jpn
     name: カヤガル語
     auto: true

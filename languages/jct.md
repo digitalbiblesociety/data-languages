@@ -15,6 +15,9 @@ glottolog_family_name: Turkic
 glottolog_classification: "Turkic > Common Turkic > Kipchak-Turkestan > Kipchak > Northwest Kipchak > West Kipchak > Crimean Tatar-Urum > Crimeaic > Krymchak"
 wikipedia_url: "https://en.wikipedia.org/wiki/Krymchak_language"
 translations:
+  - translation_iso: ara
+    name: لغة كريمتشاك
+    auto: true
   - translation_iso: jpn
     name: クリムチャク語
   - translation_iso: kor

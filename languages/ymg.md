@@ -9,6 +9,9 @@ status_id: 6a
 latitude: -0.24248
 longitude: 22.3073
 translations:
+  - translation_iso: ara
+    name: اللغة يامونجري
+    auto: true
   - translation_iso: jpn
     name: ヤモンゲリ語
     auto: true

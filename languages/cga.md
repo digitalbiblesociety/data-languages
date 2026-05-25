@@ -14,6 +14,9 @@ glottolog_family_name: Yuat
 glottolog_classification: "Yuat > Changriwa"
 wikipedia_url: "https://en.wikipedia.org/wiki/Changriwa_language"
 translations:
+  - translation_iso: ara
+    name: الشانغريوا
+    auto: true
   - translation_iso: jpn
     name: チャングリワ語
     auto: true

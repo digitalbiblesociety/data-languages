@@ -10,6 +10,9 @@ latitude: 17.09386
 longitude: 121.02662
 wikipedia_url: "https://en.wikipedia.org/wiki/Bontoc_language"
 translations:
+  - translation_iso: ara
+    name: بونتوك
+    auto: true
   - translation_iso: jpn
     name: ボントック語
   - translation_iso: zho

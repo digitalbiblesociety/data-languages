@@ -15,6 +15,9 @@ glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > South-West Pama-Nyungan > Pilbara > Ngayarda > Central Ngayarda > Nyiyaparli-Palyku"
 wikipedia_url: "https://en.wikipedia.org/wiki/Nyiyaparli_language"
 translations:
+  - translation_iso: ara
+    name: نييابارلي
+    auto: true
   - translation_iso: jpn
     name: ニイャパーリ語
     auto: true

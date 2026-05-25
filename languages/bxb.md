@@ -15,6 +15,9 @@ glottolog_family_name: Nilotic
 glottolog_classification: "Nilotic > Western Nilotic > Lwoo > Northern Lwoo > Belanda Bor"
 wikipedia_url: "https://en.wikipedia.org/wiki/Belanda_Bor_language"
 translations:
+  - translation_iso: ara
+    name: بيلاندا بور
+    auto: true
   - translation_iso: jpn
     name: ベランダ・ボル語
   - translation_iso: zho

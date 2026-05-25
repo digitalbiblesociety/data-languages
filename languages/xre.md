@@ -15,6 +15,9 @@ glottolog_family_name: Nuclear-Macro-Je
 glottolog_classification: "Nuclear-Macro-Je > Je > Cerrado > Goyaz > Northern Je > Eastern Timbira > Northeastern Timbira"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kr%E1%BA%BDje_language"
 translations:
+  - translation_iso: ara
+    name: كرييي
+    auto: true
   - translation_iso: jpn
     name: クレイエ語
     auto: true

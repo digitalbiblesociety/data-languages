@@ -14,6 +14,9 @@ glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Chimbu-Wahgi > Jimi > Kandawo-Narak > Narak"
 wikipedia_url: "https://en.wikipedia.org/wiki/Narak_language"
 translations:
+  - translation_iso: ara
+    name: ناراك
+    auto: true
   - translation_iso: jpn
     name: ナラク語
   - translation_iso: zho

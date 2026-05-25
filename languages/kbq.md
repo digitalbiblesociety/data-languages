@@ -14,6 +14,9 @@ glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Kainantu-Goroka > Goroka > Nuclear Goroka > Siane-Yagaria > Kamano-Yagaria > Kamano"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kamano_language"
 translations:
+  - translation_iso: ara
+    name: لغة كامانو
+    auto: true
   - translation_iso: jpn
     name: カマノ語
   - translation_iso: zho

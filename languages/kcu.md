@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > East Bantu > Northeast Savanna Bantu > Northeast Coastal Bantu > Ruvu > East Ruvu > Central East Ruvu > Kami (Tanzania)"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kami_language_(Tanzania)"
 translations:
+  - translation_iso: ara
+    name: لغة كامي
+    auto: true
   - translation_iso: jpn
     name: カミ語
   - translation_iso: zho

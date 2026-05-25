@@ -15,6 +15,9 @@ glottolog_family_name: Otomanguean
 glottolog_classification: "Otomanguean > Western Otomanguean > Otopame-Chinantecan > Otopamean > Otomian > Otomi > Northwestern Otomi > Mezquital Otomi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mezquital_Otomi_language"
 translations:
+  - translation_iso: ara
+    name: اللغة أوتومي مثكيتال
+    auto: true
   - translation_iso: jpn
     name: メスキタル・オトミ語
     auto: true

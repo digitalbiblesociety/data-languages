@@ -15,6 +15,9 @@ glottolog_family_name: Athabaskan-Eyak-Tlingit
 glottolog_classification: "Athabaskan-Eyak-Tlingit > Athabaskan-Eyak > Athabaskan > Northwestern Canada Athabaskan > Cordillera Athabaskan > Nahanni > Kaska"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kaska_language"
 translations:
+  - translation_iso: ara
+    name: لغة كاسكا
+    auto: true
   - translation_iso: jpn
     name: カスカ語
     auto: true

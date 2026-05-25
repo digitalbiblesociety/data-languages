@@ -15,6 +15,9 @@ glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Himalayish > Mahakiranti > Kiranti > Upper Dudhkosi > Khaling"
 wikipedia_url: "https://en.wikipedia.org/wiki/Khaling_language"
 translations:
+  - translation_iso: ara
+    name: لغة خالينج
+    auto: true
   - translation_iso: jpn
     name: ハリン語
     auto: true

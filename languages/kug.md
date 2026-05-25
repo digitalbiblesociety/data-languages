@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Ebira-Nupoid > Macro-Nupoid > Nupoid > Dibo-Kupa > Kupa"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kupa_language"
 translations:
+  - translation_iso: ara
+    name: كوبا
+    auto: true
   - translation_iso: jpn
     name: クパ語
     auto: true

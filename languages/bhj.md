@@ -15,6 +15,9 @@ glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Himalayish > Mahakiranti > Kiranti > Northwestern Kiranti > Bahing-Sunwar > Bahing"
 wikipedia_url: "https://en.wikipedia.org/wiki/Bahing_language"
 translations:
+  - translation_iso: ara
+    name: باهينج
+    auto: true
   - translation_iso: jpn
     name: バヒング語
     auto: true

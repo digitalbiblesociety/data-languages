@@ -11,6 +11,9 @@ longitude: 102.01596
 glottocode: kena1236
 wikipedia_url: "https://en.wikipedia.org/wiki/Kenaboi_language"
 translations:
+  - translation_iso: ara
+    name: كينابوي
+    auto: true
   - translation_iso: jpn
     name: ケナボイ語
   - translation_iso: zho

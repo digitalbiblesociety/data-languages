@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > East Bantu > Tumbuka-Sena-Nyanja > Sena-Nyanja > Senaic > Nyungweic > Nyungwe"
 wikipedia_url: "https://en.wikipedia.org/wiki/Nyungwe_language"
 translations:
+  - translation_iso: ara
+    name: نيونغوي
+    auto: true
   - translation_iso: jpn
     name: ニュングウェ語
   - translation_iso: zho

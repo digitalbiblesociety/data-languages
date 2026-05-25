@@ -15,6 +15,9 @@ glottolog_family_name: Lower Sepik
 glottolog_classification: "Lower Sepik > Nor > Murik (Papua New Guinea)"
 wikipedia_url: "https://en.wikipedia.org/wiki/Nor_language"
 translations:
+  - translation_iso: ara
+    name: لغة موريك (بابوا غينيا الجديدة)
+    auto: true
   - translation_iso: jpn
     name: ムリク語
     auto: true

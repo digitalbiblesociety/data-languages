@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Temotu > Utupua-Vanikoro > Utupua > Amba (Solomon Islands)"
 wikipedia_url: "https://en.wikipedia.org/wiki/Amba_language_(Solomon_Islands)"
 translations:
+  - translation_iso: ara
+    name: أمبا
+    auto: true
   - translation_iso: jpn
     name: アンバ語
   - translation_iso: zho

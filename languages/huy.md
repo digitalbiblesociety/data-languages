@@ -15,6 +15,9 @@ glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Semitic > West Semitic > Central Semitic > Northwest Semitic > Aramaic > Imperial-Middle-Modern Aramaic > Middle-Modern Aramaic > Eastern Aramaic > Central Eastern Aramaic > North-Eastern Neo-Aramaic > Trans-Zab > Hulaulá"
 wikipedia_url: "https://en.wikipedia.org/wiki/Trans-Zab_Jewish_Neo-Aramaic"
 translations:
+  - translation_iso: ara
+    name: هولالا
+    auto: true
   - translation_iso: jpn
     name: ハラウラ語
   - translation_iso: zho

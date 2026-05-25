@@ -15,6 +15,9 @@ glottolog_family_name: Sepik
 glottolog_classification: "Sepik > Sepik Hill > Central-Eastern Sepik Hill > Central Sepik Hill > Nuclear Central Sepik Hill > Kaprimanic > Sumariup"
 wikipedia_url: "https://en.wikipedia.org/wiki/Sumariup_language"
 translations:
+  - translation_iso: ara
+    name: اللغة السومريوب
+    auto: true
   - translation_iso: jpn
     name: ラトマ語
     auto: true

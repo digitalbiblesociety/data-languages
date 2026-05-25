@@ -15,6 +15,9 @@ glottolog_family_name: Uto-Aztecan
 glottolog_classification: "Uto-Aztecan > Northern Uto-Aztecan > Tübatulabal"
 wikipedia_url: "https://en.wikipedia.org/wiki/T%C3%BCbatulabal_language"
 translations:
+  - translation_iso: ara
+    name: توباتولابال
+    auto: true
   - translation_iso: jpn
     name: トゥバトゥラバル語
   - translation_iso: zho

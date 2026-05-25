@@ -15,6 +15,9 @@ glottolog_family_name: Ta-Ne-Omotic
 glottolog_classification: "Ta-Ne-Omotic > Yemsa"
 wikipedia_url: "https://en.wikipedia.org/wiki/Yemsa_language"
 translations:
+  - translation_iso: ara
+    name: لغة ييمسا
+    auto: true
   - translation_iso: jpn
     name: イェム語
   - translation_iso: zho

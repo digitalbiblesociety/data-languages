@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Cameroun-Ubangian > Ubangi > Ubangi Ka > Mundu-Baka > Eastern Mundu-Baka > Mündü"
 wikipedia_url: "https://en.wikipedia.org/wiki/M%C3%BCnd%C3%BC_language"
 translations:
+  - translation_iso: ara
+    name: لغة موندو
+    auto: true
   - translation_iso: jpn
     name: ムンドゥ語
     auto: true

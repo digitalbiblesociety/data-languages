@@ -15,6 +15,9 @@ glottolog_family_name: Khoe-Kwadi
 glottolog_classification: "Khoe-Kwadi > Khoe > Non-Khoekhoe > West-Kxoe > Naro-Ana > Ana > /Gwi"
 wikipedia_url: "https://en.wikipedia.org/wiki/G%C7%80ui_dialect"
 translations:
+  - translation_iso: ara
+    name: ǀغوي
+    auto: true
   - translation_iso: jpn
     name: グイ語
   - translation_iso: zho

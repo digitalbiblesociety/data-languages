@@ -15,6 +15,9 @@ glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Burmo-Qiangic > Na-Qiangic > Ersuic > Ersu"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ersu_language"
 translations:
+  - translation_iso: ara
+    name: الإرسو
+    auto: true
   - translation_iso: jpn
     name: アルス語
   - translation_iso: zho

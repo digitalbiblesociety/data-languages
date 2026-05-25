@@ -15,6 +15,9 @@ glottolog_family_name: Kolopom
 glottolog_classification: "Kolopom > Kimaama-Riantana > Kimaama"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kimaghama_language"
 translations:
+  - translation_iso: ara
+    name: لغة كيماما
+    auto: true
   - translation_iso: jpn
     name: キマーマ語
     auto: true

@@ -15,6 +15,9 @@ glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Bodic > Bodish > Early Old Tibetan > Western Archaic Tibetan > Kenhatic > Zangskari"
 wikipedia_url: "https://en.wikipedia.org/wiki/Zangskari_language"
 translations:
+  - translation_iso: ara
+    name: اللغة زانغسكاري
+    auto: true
   - translation_iso: hin
     name: ज़ंग्सकरी भाषा
   - translation_iso: jpn

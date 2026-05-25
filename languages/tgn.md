@@ -13,6 +13,9 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Greater Central Philippine > Central Philippine > Bisayan > South Bisayan > Surigao > Tandaganon"
 translations:
+  - translation_iso: ara
+    name: تاندًاغانون
+    auto: true
   - translation_iso: jpn
     name: タンダガノン語
     auto: true

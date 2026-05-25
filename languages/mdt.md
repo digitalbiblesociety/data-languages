@@ -16,6 +16,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > Central-Western Bantu > West-Coastal Bantu > Nzadic > Lweric > Dingic > Loange-Atlantic > Kwilu-Ngounie > Kasai-Ngounie > Moyen Kasai-Ngounie > Interior Kasai-Ngounie > West Kasai-Ngounie > Northwest Kasai-Ngounie > Mbere (B.60) > Tsitsekeic > Lekaningic > Mbere-Mbamba"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mbere_language"
 translations:
+  - translation_iso: ara
+    name: لغة مبير
+    auto: true
   - translation_iso: jpn
     name: ムベレ語
     auto: true

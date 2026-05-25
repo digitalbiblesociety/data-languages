@@ -15,6 +15,9 @@ glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > East Chadic > East Chadic A > East Chadic A.1 > Gadang"
 wikipedia_url: "https://en.wikipedia.org/wiki/Gadang_language"
 translations:
+  - translation_iso: ara
+    name: الجادانج
+    auto: true
   - translation_iso: jpn
     name: ガダン語
     auto: true

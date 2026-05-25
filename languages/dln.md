@@ -14,6 +14,9 @@ glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Kuki-Chin-Naga > Kuki-Chin > Central Kuki-Chin > Core Central Kuki-Chin > Mizoic > Darlong"
 wikipedia_url: "https://en.wikipedia.org/wiki/Darlong_language"
 translations:
+  - translation_iso: ara
+    name: دارلونج
+    auto: true
   - translation_iso: hin
     name: दार्लोंग भाषा
   - translation_iso: jpn

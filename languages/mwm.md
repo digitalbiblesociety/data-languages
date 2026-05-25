@@ -15,6 +15,9 @@ glottolog_family_name: Central Sudanic
 glottolog_classification: "Central Sudanic > Sara-Bongo-Bagirmi > SBB Occidental > Nuclear SBB Occidental > Saraic > Sara Central > Sara Central Chari > Sar"
 wikipedia_url: "https://en.wikipedia.org/wiki/Sar_language"
 translations:
+  - translation_iso: ara
+    name: لغة سار
+    auto: true
   - translation_iso: jpn
     name: サール語
   - translation_iso: zho

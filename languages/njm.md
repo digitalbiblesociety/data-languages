@@ -15,6 +15,9 @@ glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Kuki-Chin-Naga > Angami-Ao > Angami-Pochuri > Angami-Mao > Angami-Chokri > Angami Naga"
 wikipedia_url: "https://en.wikipedia.org/wiki/Angami_language"
 translations:
+  - translation_iso: ara
+    name: أنجامي ناجا
+    auto: true
   - translation_iso: hin
     name: अंगामी भाषा
   - translation_iso: jpn

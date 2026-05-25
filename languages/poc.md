@@ -15,6 +15,9 @@ glottolog_family_name: Mayan
 glottolog_classification: "Mayan > Core Mayan > Quichean-Mamean > Greater Quichean > Poqom > Poqomam"
 wikipedia_url: "https://en.wikipedia.org/wiki/Poqomam_language"
 translations:
+  - translation_iso: ara
+    name: اللغة بوقومام
+    auto: true
   - translation_iso: jpn
     name: ポコマム語
   - translation_iso: kor

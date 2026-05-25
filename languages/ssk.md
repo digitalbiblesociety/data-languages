@@ -15,6 +15,9 @@ glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Bodic > West Himalayish > Eastern West Himalayish > Central-Eastern West Himalayish > Sunam"
 wikipedia_url: "https://en.wikipedia.org/wiki/Sunam_language"
 translations:
+  - translation_iso: ara
+    name: اللغة سونام
+    auto: true
   - translation_iso: jpn
     name: スナム語
   - translation_iso: zho

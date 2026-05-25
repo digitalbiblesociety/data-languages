@@ -15,6 +15,9 @@ glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Bodic > Bodish > Early Old Tibetan > Middle Old Tibetan > Late Old Tibetan > Central Tibetan > South-Western Tibetic > Kyirong-Kagate > Gyalsumdo-Nubri-Kyirong > Gyalsumdo-Nubri"
 wikipedia_url: "https://en.wikipedia.org/wiki/Nubri_language"
 translations:
+  - translation_iso: ara
+    name: نوبري
+    auto: true
   - translation_iso: hin
     name: नुबरी भाषा
   - translation_iso: jpn

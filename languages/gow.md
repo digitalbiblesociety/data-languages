@@ -15,6 +15,9 @@ glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Cushitic > South Cushitic > Greater West Rift South Cushitic > West Rift South Cushitic > Northern West Rift South Cushitic > Iraqwoid > Gorowa"
 wikipedia_url: "https://en.wikipedia.org/wiki/Gorowa_language"
 translations:
+  - translation_iso: ara
+    name: غورووآ
+    auto: true
   - translation_iso: jpn
     name: ゴロア語
   - translation_iso: zho

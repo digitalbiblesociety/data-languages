@@ -14,6 +14,9 @@ glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Kuki-Chin-Naga > Kuki-Chin > Peripheral Kuki-Chin > Khomic > Eastern Khumi Chin"
 translations:
+  - translation_iso: ara
+    name: الخومي الشرقية تشين
+    auto: true
   - translation_iso: jpn
     name: 東クミ・チン語
     auto: true

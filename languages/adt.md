@@ -15,6 +15,9 @@ glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > Arandic-Thura-Yura > Thura-Yura > Core Thura Yura > Northern Thura-Yura > Adnyamathanha"
 wikipedia_url: "https://en.wikipedia.org/wiki/Adnyamathanha_language"
 translations:
+  - translation_iso: ara
+    name: لغة أدنيماثانها
+    auto: true
   - translation_iso: jpn
     name: アドニャマタンハ語
     auto: true

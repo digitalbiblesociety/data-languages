@@ -15,6 +15,9 @@ glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > Dyirbal"
 wikipedia_url: "https://en.wikipedia.org/wiki/Dyirbal_language"
 translations:
+  - translation_iso: ara
+    name: ديربال
+    auto: true
   - translation_iso: jpn
     name: ジルバル語
   - translation_iso: kor

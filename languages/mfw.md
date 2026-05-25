@@ -15,6 +15,9 @@ glottolog_family_name: Kwalean
 glottolog_classification: "Kwalean > Mulaha"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mulaha_language"
 translations:
+  - translation_iso: ara
+    name: لغة مولاها
+    auto: true
   - translation_iso: jpn
     name: ムラハ語
     auto: true

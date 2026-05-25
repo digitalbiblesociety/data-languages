@@ -15,6 +15,9 @@ glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Albanian > Albanian-Tosk > Southern Tosk > Arbëreshë Albanian"
 wikipedia_url: "https://en.wikipedia.org/wiki/Arb%C3%ABresh_language"
 translations:
+  - translation_iso: ara
+    name: الألبانية الأربريشية
+    auto: true
   - translation_iso: jpn
     name: アルベレシュ方言
   - translation_iso: zho

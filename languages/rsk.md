@@ -10,6 +10,9 @@ latitude: 48.7171
 longitude: 22.9579
 wikipedia_url: "https://en.wikipedia.org/wiki/Pannonian_Rusyn"
 translations:
+  - translation_iso: ara
+    name: روثيني
+    auto: true
   - translation_iso: jpn
     name: パンノニア・ルシン語
   - translation_iso: zho

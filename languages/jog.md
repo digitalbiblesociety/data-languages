@@ -8,6 +8,9 @@ country_name: Pakistan
 status_id: null
 wikipedia_url: "https://en.wikipedia.org/wiki/Jogi_language"
 translations:
+  - translation_iso: ara
+    name: لغة جوغي
+    auto: true
   - translation_iso: jpn
     name: ジョギ語
     auto: true

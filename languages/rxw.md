@@ -14,6 +14,9 @@ glottolog_family_id: pama1250
 glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > Karnic > Central Karnic > Mithaka-Karuwali > Karruwali"
 translations:
+  - translation_iso: ara
+    name: كاروالي
+    auto: true
   - translation_iso: jpn
     name: ガラワリ語
     auto: true

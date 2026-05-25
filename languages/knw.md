@@ -15,6 +15,9 @@ glottolog_family_name: Kxa
 glottolog_classification: "Kxa > Ju-Kung > North-Central Ju"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ekoka_%C7%83Kung"
 translations:
+  - translation_iso: ara
+    name: لغة كونج إيكوكا
+    auto: true
   - translation_iso: jpn
     name: クング・エコカ語
     auto: true

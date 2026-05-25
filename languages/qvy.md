@@ -15,6 +15,9 @@ glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Burmo-Qiangic > Na-Qiangic > Qiangic > Queyu"
 wikipedia_url: "https://en.wikipedia.org/wiki/Choyo_language"
 translations:
+  - translation_iso: ara
+    name: لغة كويو
+    auto: true
   - translation_iso: jpn
     name: チョユ語
   - translation_iso: zho

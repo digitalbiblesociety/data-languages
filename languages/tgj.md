@@ -13,6 +13,9 @@ glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Macro-Tani > Tani > Pre-Western Tani > Western Tani > Subansiri > Bangni-Tagin > Tagin"
 translations:
+  - translation_iso: ara
+    name: تاغين
+    auto: true
   - translation_iso: jpn
     name: タギン語
     auto: true

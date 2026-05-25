@@ -15,6 +15,9 @@ glottolog_family_name: Turkic
 glottolog_classification: "Turkic > Common Turkic > Kipchak-Turkestan > Kipchak > Northwest Kipchak > West Kipchak > Crimean Tatar-Urum > Kipchak Urum"
 wikipedia_url: "https://en.wikipedia.org/wiki/Urum_language"
 translations:
+  - translation_iso: ara
+    name: أورم
+    auto: true
   - translation_iso: jpn
     name: ウルム語
   - translation_iso: kor

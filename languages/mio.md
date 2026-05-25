@@ -15,6 +15,9 @@ glottolog_family_name: Otomanguean
 glottolog_classification: "Otomanguean > Eastern Otomanguean > Amuzgo-Mixtecan > Mixtecan > Mixtec-Cuicatec > Mixtec > Coast Mixtec > West Coast Mixtec > Pinotepa Nacional Mixtec"
 wikipedia_url: "https://en.wikipedia.org/wiki/Pinotepa_Mixtec"
 translations:
+  - translation_iso: ara
+    name: لغة مازاتك بينوتبا الوطنية
+    auto: true
   - translation_iso: jpn
     name: ピノテパ・ナシオナル・ミステク語
     auto: true

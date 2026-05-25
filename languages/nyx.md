@@ -15,6 +15,9 @@ glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > Macleay-New England > Nganyaywana"
 wikipedia_url: "https://en.wikipedia.org/wiki/Anewan_language"
 translations:
+  - translation_iso: ara
+    name: نغانيايوانا
+    auto: true
   - translation_iso: jpn
     name: アネワン語
   - translation_iso: zho

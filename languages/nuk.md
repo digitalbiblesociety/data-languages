@@ -15,6 +15,9 @@ glottolog_family_name: Wakashan
 glottolog_classification: "Wakashan > Southern Wakashan > Nuu-chah-nulth"
 wikipedia_url: "https://en.wikipedia.org/wiki/Nuu-chah-nulth_language"
 translations:
+  - translation_iso: ara
+    name: نو-تشاه-نولث
+    auto: true
   - translation_iso: jpn
     name: ヌーチャヌルス語
   - translation_iso: zho

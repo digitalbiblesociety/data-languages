@@ -15,6 +15,9 @@ glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > West Chadic > West Chadic B > West Chadic B.2 > Nuclear West Chadic B.2 > Western West Chadic B.2 > Pa'a"
 wikipedia_url: "https://en.wikipedia.org/wiki/Pa%CA%BCa_language"
 translations:
+  - translation_iso: ara
+    name: اللغة باعا
+    auto: true
   - translation_iso: jpn
     name: パアー語
     auto: true

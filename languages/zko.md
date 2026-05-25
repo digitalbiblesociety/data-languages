@@ -15,6 +15,9 @@ glottolog_family_name: Yeniseian
 glottolog_classification: "Yeniseian > Kott-Assan"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kott_language"
 translations:
+  - translation_iso: ara
+    name: اللغة كوت
+    auto: true
   - translation_iso: jpn
     name: コット語
   - translation_iso: zho

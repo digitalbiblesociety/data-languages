@@ -14,6 +14,9 @@ glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Finisterre-Huon > Finisterre-Saruwaged > Erap > Boana > Nek-Nuk > Nek"
 wikipedia_url: "https://en.wikipedia.org/wiki/Nek_language"
 translations:
+  - translation_iso: ara
+    name: نك
+    auto: true
   - translation_iso: jpn
     name: ネク語
     auto: true

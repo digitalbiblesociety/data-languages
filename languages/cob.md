@@ -15,6 +15,9 @@ glottolog_family_name: Mayan
 glottolog_classification: "Mayan > Huastecan Mayan > Chicomuceltec"
 wikipedia_url: "https://en.wikipedia.org/wiki/Chicomuceltec_language"
 translations:
+  - translation_iso: ara
+    name: الشيكوموسيلتك
+    auto: true
   - translation_iso: jpn
     name: チコムセルテック語
   - translation_iso: kor

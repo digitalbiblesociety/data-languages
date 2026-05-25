@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > North Borneo Malayo-Polynesian > North Sarawakan > Dayic > Kelabit"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kelabit_language"
 translations:
+  - translation_iso: ara
+    name: كيلابيت
+    auto: true
   - translation_iso: jpn
     name: クラビト語
   - translation_iso: zho

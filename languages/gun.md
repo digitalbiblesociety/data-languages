@@ -15,6 +15,9 @@ glottolog_family_name: Tupian
 glottolog_classification: "Tupian > Eastern Tupian > Maweti-Guarani > Aweti-Guarani > Tupi-Guarani > Southern Tupi-Guarani > Tupi-Guarani Subgroup I > Tupi-Guarani Subgroup I.A > Mbyá Guaraní"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mby%C3%A1_Guaran%C3%AD_language"
 translations:
+  - translation_iso: ara
+    name: مبيá غوآرآنí
+    auto: true
   - translation_iso: jpn
     name: ムビア・グアラニー語
   - translation_iso: kor

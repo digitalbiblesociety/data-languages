@@ -14,6 +14,9 @@ glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Madang > Croisilles > Greater Northern Adelbert > Northern Adelbert > Numugenan > Karian-Usan-Yaben > Usan"
 wikipedia_url: "https://en.wikipedia.org/wiki/Usan_language"
 translations:
+  - translation_iso: ara
+    name: وسان
+    auto: true
   - translation_iso: jpn
     name: ウサン語
     auto: true

@@ -14,6 +14,9 @@ glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Finisterre-Huon > Finisterre-Saruwaged > Yupna > Kewieng-Bonkiman-Nokopo > Bonkiman"
 wikipedia_url: "https://en.wikipedia.org/wiki/Bonkiman_language"
 translations:
+  - translation_iso: ara
+    name: بونكيمان
+    auto: true
   - translation_iso: jpn
     name: ボンキマン語
     auto: true

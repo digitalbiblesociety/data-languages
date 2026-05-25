@@ -15,6 +15,9 @@ glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Germanic > Northwest Germanic > West Germanic > Macro-Dutch > Middle-Modern Dutch > Modern Dutch > Southwestern Dutch > Zeeuwic > Berbice Creole Dutch"
 wikipedia_url: "https://en.wikipedia.org/wiki/Berbice_Creole_Dutch"
 translations:
+  - translation_iso: ara
+    name: بِرْبيس كريول هولندي
+    auto: true
   - translation_iso: jpn
     name: バルビス・クレオール・オランダ語
     auto: true

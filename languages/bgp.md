@@ -15,6 +15,9 @@ glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Iranian-Nuristani > Iranian > Central Iranian PBS > Central Iranian PB > Northwestern Iranian > Balochic > Eastern Balochi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Eastern_Balochi_(dialect)"
 translations:
+  - translation_iso: ara
+    name: بلوشي شرقية
+    auto: true
   - translation_iso: jpn
     name: 東バローチー語
   - translation_iso: zho

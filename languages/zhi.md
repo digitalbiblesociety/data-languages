@@ -14,6 +14,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Benue-Congo Plateau > West-Central Benue-Congo Plateau > Northwestern Benue-Congo Plateau > Hyamic > Zhiric > Zhire"
 wikipedia_url: "https://en.wikipedia.org/wiki/Zhire_language"
 translations:
+  - translation_iso: ara
+    name: اللغة جيري
+    auto: true
   - translation_iso: jpn
     name: ズィレ語
     auto: true

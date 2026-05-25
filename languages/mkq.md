@@ -15,6 +15,9 @@ glottolog_family_name: Miwok-Costanoan
 glottolog_classification: "Miwok-Costanoan > Miwokan > Eastern Miwokan > Bay Miwok"
 wikipedia_url: "https://en.wikipedia.org/wiki/Bay_Miwok_language"
 translations:
+  - translation_iso: ara
+    name: لغة مويوك بيي
+    auto: true
   - translation_iso: jpn
     name: ベイ・ミウォク語
     auto: true

@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Timor-Babar > Rote-Meto > Nuclear Rote > Lole"
 wikipedia_url: "https://en.wikipedia.org/wiki/Lole_language"
 translations:
+  - translation_iso: ara
+    name: لغة ولي
+    auto: true
   - translation_iso: jpn
     name: ロレ語
     auto: true

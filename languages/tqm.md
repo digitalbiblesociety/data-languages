@@ -14,6 +14,9 @@ glottolog_family_name: Doso-Turumsa
 glottolog_classification: "Doso-Turumsa > Turumsa"
 wikipedia_url: "https://en.wikipedia.org/wiki/Turumsa_language"
 translations:
+  - translation_iso: ara
+    name: توروما سا
+    auto: true
   - translation_iso: jpn
     name: トゥルムサ語
     auto: true

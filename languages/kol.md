@@ -12,6 +12,9 @@ longitude: 151.58274
 glottocode: kolp1236
 wikipedia_url: "https://en.wikipedia.org/wiki/Kol_language_(Papua_New_Guinea)"
 translations:
+  - translation_iso: ara
+    name: لغة كول
+    auto: true
   - translation_iso: jpn
     name: コル語
   - translation_iso: kor

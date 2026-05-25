@@ -12,6 +12,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Northwest Formosan > Kulon"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kulon_language"
 translations:
+  - translation_iso: ara
+    name: كولون
+    auto: true
   - translation_iso: jpn
     name: クーロン語
   - translation_iso: zho

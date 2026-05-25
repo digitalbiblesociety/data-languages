@@ -14,6 +14,9 @@ glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > Biu-Mandara > North Biu-Mandara > Higic > Nkafa-Kirya-Bana > Nkafa-Kirya > Kirya-Konzel"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kirya-Konz%C9%99l_language"
 translations:
+  - translation_iso: ara
+    name: كيريا-كونزول
+    auto: true
   - translation_iso: jpn
     name: キルヤ・コンツェル語
     auto: true

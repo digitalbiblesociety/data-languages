@@ -15,6 +15,9 @@ glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Olekha"
 wikipedia_url: "https://en.wikipedia.org/wiki/%CA%BCOle_language"
 translations:
+  - translation_iso: ara
+    name: اللغة أوليكها
+    auto: true
   - translation_iso: jpn
     name: オレ語
   - translation_iso: zho

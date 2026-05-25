@@ -14,6 +14,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Greater Seram Laut > East Seram > East Rivers Seram > Masiwang"
 wikipedia_url: "https://en.wikipedia.org/wiki/Masiwang_language"
 translations:
+  - translation_iso: ara
+    name: ماسيوانج
+    auto: true
   - translation_iso: jpn
     name: マシワン語
     auto: true

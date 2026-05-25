@@ -14,6 +14,9 @@ glottolog_family_id: pama1250
 glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > Arandic-Thura-Yura > Arandic > South Arandic > Upper Arrernte > Anmatyerre"
 translations:
+  - translation_iso: ara
+    name: لغة أنماتييري
+    auto: true
   - translation_iso: jpn
     name: アンマティエッレ語
     auto: true

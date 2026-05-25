@@ -15,6 +15,9 @@ glottolog_family_name: Hmong-Mien
 glottolog_classification: "Hmong-Mien > Mienic > Mien-Mun > Kim Mun"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kim_Mun_language"
 translations:
+  - translation_iso: ara
+    name: لغة كيم مون
+    auto: true
   - translation_iso: jpn
     name: ムン語
   - translation_iso: zho

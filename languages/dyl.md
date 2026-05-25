@@ -8,6 +8,9 @@ latitude: 27.48405
 longitude: 89.33058
 wikipedia_url: "https://en.wikipedia.org/wiki/Bhutanese_Sign_Language"
 translations:
+  - translation_iso: ara
+    name: بهوتاني ساين لانجويج
+    auto: true
   - translation_iso: jpn
     name: ブータン手話
     auto: true

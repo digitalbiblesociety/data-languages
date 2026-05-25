@@ -15,6 +15,9 @@ glottolog_family_name: Arawakan
 glottolog_classification: "Arawakan > Southern Maipuran > Bolivian Arawakan > Baure"
 wikipedia_url: "https://en.wikipedia.org/wiki/Baure_language"
 translations:
+  - translation_iso: ara
+    name: باوري
+    auto: true
   - translation_iso: jpn
     name: バウレ語
   - translation_iso: zho

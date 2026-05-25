@@ -15,6 +15,9 @@ glottolog_family_name: Khoe-Kwadi
 glottolog_classification: "Khoe-Kwadi > Khoe > Non-Khoekhoe > Ost-Kxoe > Shua"
 wikipedia_url: "https://en.wikipedia.org/wiki/Shua_language"
 translations:
+  - translation_iso: ara
+    name: اللغة الشوا
+    auto: true
   - translation_iso: jpn
     name: シュア語
   - translation_iso: zho

@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Timor-Babar > Eastern Timor > Kawaimina > Kairui-Midiki"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kairui-Midiki_language"
 translations:
+  - translation_iso: ara
+    name: كايروي-ميديكي
+    auto: true
   - translation_iso: jpn
     name: カイルイ・ミディキ語
     auto: true

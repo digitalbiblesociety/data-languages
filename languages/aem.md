@@ -15,6 +15,9 @@ glottolog_family_name: Austroasiatic
 glottolog_classification: "Austroasiatic > Vietic > Chutic > East Chutic > Arem"
 wikipedia_url: "https://en.wikipedia.org/wiki/Arem_language"
 translations:
+  - translation_iso: ara
+    name: لغة أريم
+    auto: true
   - translation_iso: jpn
     name: アレム語
     auto: true

@@ -15,6 +15,9 @@ glottolog_family_name: Arawakan
 glottolog_classification: "Arawakan > Central-Eastern Maipuran > Central Maipuran > Xinguan Arawak > Yawalapití"
 wikipedia_url: "https://en.wikipedia.org/wiki/Yawalapit%C3%AD_language"
 translations:
+  - translation_iso: ara
+    name: ياوالابيتي
+    auto: true
   - translation_iso: jpn
     name: ヤワラピティ語
   - translation_iso: zho

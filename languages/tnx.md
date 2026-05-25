@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Temotu > Utupua-Vanikoro > Tanema"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tanema_language"
 translations:
+  - translation_iso: ara
+    name: تانيما
+    auto: true
   - translation_iso: jpn
     name: タネマ語
   - translation_iso: zho

@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Kwa Volta-Congo > Gbe > Eastern Gbe > Western Phla-Phera > Saxwe Gbe"
 wikipedia_url: "https://en.wikipedia.org/wiki/Saxwe_language"
 translations:
+  - translation_iso: ara
+    name: ساكسوي غبي
+    auto: true
   - translation_iso: jpn
     name: サクシェ・ゲベ語
     auto: true

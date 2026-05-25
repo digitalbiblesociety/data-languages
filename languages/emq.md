@@ -14,6 +14,9 @@ glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Burmo-Qiangic > Na-Qiangic > Qiangic > Muya > Eastern Muya"
 wikipedia_url: "https://en.wikipedia.org/wiki/Eastern_Minyag_language"
 translations:
+  - translation_iso: ara
+    name: الينياج الشرقية
+    auto: true
   - translation_iso: jpn
     name: 東ミニャン語
     auto: true

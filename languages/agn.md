@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Greater Central Philippine > Palawanic-Kalamian > Kalamian > Agutaynen"
 wikipedia_url: "https://en.wikipedia.org/wiki/Agutaynen_language"
 translations:
+  - translation_iso: ara
+    name: لغة أغوتايننيت
+    auto: true
   - translation_iso: jpn
     name: アグタイネン語
     auto: true

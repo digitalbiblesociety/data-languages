@@ -15,6 +15,9 @@ glottolog_family_name: Arawakan
 glottolog_classification: "Arawakan > Alto Orinoco > Parenic > Yavitero-Pareni"
 wikipedia_url: "https://en.wikipedia.org/wiki/Yavitero_language"
 translations:
+  - translation_iso: ara
+    name: اللغة يافيتيرو
+    auto: true
   - translation_iso: jpn
     name: ヤビテーロ語
   - translation_iso: zho

@@ -14,6 +14,9 @@ glottolog_family_name: Pano-Tacanan
 glottolog_classification: "Pano-Tacanan > Tacanan > Takanik-Chamik > Takanik > Araona-Toromono > Toromono"
 wikipedia_url: "https://en.wikipedia.org/wiki/Toromona_language"
 translations:
+  - translation_iso: ara
+    name: توروموني
+    auto: true
   - translation_iso: jpn
     name: トロモナ語
   - translation_iso: zho

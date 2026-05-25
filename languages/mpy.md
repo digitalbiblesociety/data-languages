@@ -14,6 +14,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Micronesian > Central Micronesian > Western Micronesian > Chuukic-Ponapeic > Trukic > Nuclear Trukic > Mapia"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mapia_language"
 translations:
+  - translation_iso: ara
+    name: لغة مابيا
+    auto: true
   - translation_iso: jpn
     name: マピア語
   - translation_iso: zho

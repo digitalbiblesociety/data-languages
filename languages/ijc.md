@@ -15,6 +15,9 @@ glottolog_family_name: Ijoid
 glottolog_classification: "Ijoid > Ijo > Western Ijo > Izon"
 wikipedia_url: "https://en.wikipedia.org/wiki/Izon_language"
 translations:
+  - translation_iso: ara
+    name: إيزون
+    auto: true
   - translation_iso: jpn
     name: イゾン語
   - translation_iso: zho

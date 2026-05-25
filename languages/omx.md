@@ -14,6 +14,9 @@ glottolog_family_id: aust1305
 glottolog_family_name: Austroasiatic
 glottolog_classification: "Austroasiatic > Monic > Old Mon"
 translations:
+  - translation_iso: ara
+    name: اللغة مون القديمة
+    auto: true
   - translation_iso: jpn
     name: 古モン語
     auto: true

@@ -14,6 +14,9 @@ glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Kuki-Chin-Naga > Kuki-Chin > Northwestern Kuki-Chin > Western Northwestern Kuki-Chin > Halam"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ranglong_language"
 translations:
+  - translation_iso: ara
+    name: رانجلونج
+    auto: true
   - translation_iso: jpn
     name: ラングロン語
     auto: true

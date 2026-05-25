@@ -15,6 +15,9 @@ glottolog_family_name: Austroasiatic
 glottolog_classification: "Austroasiatic > Nicobaric > Nuclear Nicobaric > Chowra-Teressa > Teressa"
 wikipedia_url: "https://en.wikipedia.org/wiki/Teressa_language"
 translations:
+  - translation_iso: ara
+    name: تيريسا
+    auto: true
   - translation_iso: hin
     name: तेरेस्सा भाषा
   - translation_iso: jpn

@@ -15,6 +15,9 @@ glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > West Chadic > West Chadic B > West Chadic B.3 > South Bauchi East > Guruntumic > Tala-Sho-Zangwal > Ju"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ju_language_(Chadic)"
 translations:
+  - translation_iso: ara
+    name: لغة جو
+    auto: true
   - translation_iso: jpn
     name: ユ語
     auto: true

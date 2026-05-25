@@ -9,6 +9,9 @@ country_name: Italy
 status_id: null
 wikipedia_url: "https://en.wikipedia.org/wiki/South_Picene_language"
 translations:
+  - translation_iso: ara
+    name: اللغة جنوب بيسيني
+    auto: true
   - translation_iso: jpn
     name: 南ピケネ語
   - translation_iso: zho

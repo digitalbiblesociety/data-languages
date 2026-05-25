@@ -15,6 +15,9 @@ glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > East Chadic > East Chadic B > East Chadic B.3 > Sokoroic > Saba-Sokoro-Tamki > Saba"
 wikipedia_url: "https://en.wikipedia.org/wiki/Saba_language"
 translations:
+  - translation_iso: ara
+    name: سابا
+    auto: true
   - translation_iso: jpn
     name: ジェルクング語
     auto: true

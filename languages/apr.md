@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > North New Guinea linkage > Ngero-Vitiaz linkage > Vitiaz linkage > Korap linkage > Arop-Lokep"
 wikipedia_url: "https://en.wikipedia.org/wiki/Arop-Lokep_language"
 translations:
+  - translation_iso: ara
+    name: اللغة أروب-لوكيب
+    auto: true
   - translation_iso: jpn
     name: シアッシ語
   - translation_iso: zho

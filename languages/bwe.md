@@ -15,6 +15,9 @@ glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Karenic > Central Karen > Geba-Bwe > Bwe Karen"
 wikipedia_url: "https://en.wikipedia.org/wiki/Bwe_Karen_language"
 translations:
+  - translation_iso: ara
+    name: بوي كاريْن
+    auto: true
   - translation_iso: jpn
     name: ブウェ・カレン語
     auto: true

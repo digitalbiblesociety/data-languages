@@ -9,6 +9,9 @@ status_id: 6b
 latitude: 22.75275
 longitude: 104.25078
 translations:
+  - translation_iso: ara
+    name: تو لاو
+    auto: true
   - translation_iso: jpn
     name: ウェン・マー・サザン・チュワン語
     auto: true

@@ -15,6 +15,9 @@ glottolog_family_name: Uralic
 glottolog_classification: "Uralic > Finnic > Coastal Finnic > Neva > North Finnic > Ladogan > East Ladoga > Livvi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Livvi-Karelian_language"
 translations:
+  - translation_iso: ara
+    name: اللغة ليفي
+    auto: true
   - translation_iso: jpn
     name: リッヴィ語
   - translation_iso: zho

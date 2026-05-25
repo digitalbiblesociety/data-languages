@@ -16,6 +16,9 @@ glottolog_family_name: Austroasiatic
 glottolog_classification: "Austroasiatic > Mundaic > Sora-Juray-Gorum > Sora-Juray > Sora"
 wikipedia_url: "https://en.wikipedia.org/wiki/Sora_language"
 translations:
+  - translation_iso: ara
+    name: اللغة سورا
+    auto: true
   - translation_iso: hin
     name: सोरा भाषा
   - translation_iso: jpn

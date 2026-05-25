@@ -15,6 +15,9 @@ glottolog_family_name: Bunaban
 glottolog_classification: "Bunaban > Bunaba"
 wikipedia_url: "https://en.wikipedia.org/wiki/Bunuba_language"
 translations:
+  - translation_iso: ara
+    name: اللغة بونوبا
+    auto: true
   - translation_iso: jpn
     name: ブヌバ語
     auto: true

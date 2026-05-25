@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Northern Bantoid > Mambiloid > Ndoola"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ndoro_language"
 translations:
+  - translation_iso: ara
+    name: ندولا
+    auto: true
   - translation_iso: jpn
     name: ンドゥラ語
     auto: true

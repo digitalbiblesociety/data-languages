@@ -14,6 +14,9 @@ glottolog_family_id: nilo1247
 glottolog_family_name: Nilotic
 glottolog_classification: "Nilotic > Western Nilotic > Dinka-Nuer > Dinka > Northwestern Dinka"
 translations:
+  - translation_iso: ara
+    name: نورثويسترن دينكا
+    auto: true
   - translation_iso: jpn
     name: 北西ディンカ語
   - translation_iso: zho

@@ -15,6 +15,9 @@ glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > West Chadic > West Chadic A > West Chadic A.2-3 > West Chadic A.3 > Goemaic > Montol"
 wikipedia_url: "https://en.wikipedia.org/wiki/Montol_language"
 translations:
+  - translation_iso: ara
+    name: لغة مونتول
+    auto: true
   - translation_iso: jpn
     name: Montol語
   - translation_iso: zho

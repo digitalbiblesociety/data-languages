@@ -15,6 +15,9 @@ glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > Southeastern Pama-Nyungan > North Coast Pama-Nyungan > Waka-Kabic > Eastern Waka-Kabic > Kabikabi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Gubbi_Gubbi_language"
 translations:
+  - translation_iso: ara
+    name: جابي-جابي
+    auto: true
   - translation_iso: jpn
     name: ガビ・ガビ語
     auto: true

@@ -15,6 +15,9 @@ glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > Biu-Mandara > South Biu-Mandara > Teraic > Western Tera > Jara"
 wikipedia_url: "https://en.wikipedia.org/wiki/Jara_language"
 translations:
+  - translation_iso: ara
+    name: لغة جارا
+    auto: true
   - translation_iso: jpn
     name: ジャラ語
     auto: true

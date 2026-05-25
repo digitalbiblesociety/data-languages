@@ -15,6 +15,9 @@ glottolog_family_name: Saharan
 glottolog_classification: "Saharan > Western Saharan > Kanuri-Kanembu > Kanuric > East Kanuri > Bilma-Mowar Kanuri"
 wikipedia_url: "https://en.wikipedia.org/wiki/Bilma_Kanuri"
 translations:
+  - translation_iso: ara
+    name: بيلما كانوري
+    auto: true
   - translation_iso: jpn
     name: ビルマ・カヌリ語
   - translation_iso: zho

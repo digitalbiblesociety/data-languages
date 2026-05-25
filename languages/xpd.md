@@ -12,6 +12,9 @@ longitude: 147.50061
 glottocode: oyst1235
 wikipedia_url: "https://en.wikipedia.org/wiki/Paredarerme_language"
 translations:
+  - translation_iso: ara
+    name: تاسماني أويستر باي
+    auto: true
   - translation_iso: jpn
     name: オイスターベイ・タスマニア語
     auto: true

@@ -14,6 +14,9 @@ glottolog_family_id: pama1250
 glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > Paman > Compromise Middle Pama > Wik > Kuku-Wik-Ep > Ep-Meanha-Keyenganh > Wik-Epa"
 translations:
+  - translation_iso: ara
+    name: ويكيپا
+    auto: true
   - translation_iso: jpn
     name: ウィク・エパ語
     auto: true

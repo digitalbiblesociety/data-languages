@@ -15,6 +15,9 @@ glottolog_family_name: Salishan
 glottolog_classification: "Salishan > Coast Salish > Tillamook"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tillamook_language"
 translations:
+  - translation_iso: ara
+    name: تيلاموك
+    auto: true
   - translation_iso: jpn
     name: ティラムック語
   - translation_iso: zho

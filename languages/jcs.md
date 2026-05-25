@@ -15,6 +15,9 @@ glottolog_family_name: Sign Language
 glottolog_classification: "Sign Language > L1 Sign Language > Jamaican Country Sign Language"
 wikipedia_url: "https://en.wikipedia.org/wiki/Jamaican_Country_Sign_Language"
 translations:
+  - translation_iso: ara
+    name: لغة جامايكا للغة الإشارة الريفية
+    auto: true
   - translation_iso: hin
     name: जमैका देश की सांकेतिक भाषा
   - translation_iso: jpn

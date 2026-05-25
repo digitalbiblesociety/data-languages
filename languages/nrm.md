@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > North Borneo Malayo-Polynesian > North Sarawakan > Berawan-Lower Baram > Lower Baram > Central Lower Baram B > Narom"
 wikipedia_url: "https://en.wikipedia.org/wiki/Narom_language"
 translations:
+  - translation_iso: ara
+    name: نارم
+    auto: true
   - translation_iso: jpn
     name: ナロム語
     auto: true

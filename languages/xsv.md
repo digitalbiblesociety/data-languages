@@ -8,6 +8,9 @@ country_name: Lithuania
 status_id: null
 wikipedia_url: "https://en.wikipedia.org/wiki/Sudovian_language"
 translations:
+  - translation_iso: ara
+    name: سودوفية
+    auto: true
   - translation_iso: jpn
     name: スドヴィア語
   - translation_iso: kor

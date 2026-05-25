@@ -14,6 +14,9 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Greater Central Philippine > South Mangyan > Buhid-Taubuid > Batangan > Eastern Tawbuid"
 translations:
+  - translation_iso: ara
+    name: تاوبويد شرقية
+    auto: true
   - translation_iso: jpn
     name: 東ボウユイド語
     auto: true

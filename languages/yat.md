@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > Mbam-Bubi > Mbam > Nuclear Mbam > Sanaga-West Mbam (A.40) > West Mbam (A.40) > Yambeta"
 wikipedia_url: "https://en.wikipedia.org/wiki/Yambeta_language"
 translations:
+  - translation_iso: ara
+    name: يامبيتا
+    auto: true
   - translation_iso: jpn
     name: ヤンベタ語
   - translation_iso: zho

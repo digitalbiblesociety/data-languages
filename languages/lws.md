@@ -12,6 +12,9 @@ glottolog_family_name: Sign Language
 glottolog_classification: "Sign Language > L1 Sign Language > Malawian Sign Language"
 wikipedia_url: "https://en.wikipedia.org/wiki/Malawian_Sign_Language"
 translations:
+  - translation_iso: ara
+    name: لغة الاويان يجن انجواجي
+    auto: true
   - translation_iso: jpn
     name: マラウイ手話
   - translation_iso: zho

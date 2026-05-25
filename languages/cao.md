@@ -15,6 +15,9 @@ glottolog_family_name: Pano-Tacanan
 glottolog_classification: "Pano-Tacanan > Panoan > Mainline Pano > Pano Nawa > Bolivian Nawa > Chácobo"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ch%C3%A1cobo_language"
 translations:
+  - translation_iso: ara
+    name: تشاكوبو
+    auto: true
   - translation_iso: jpn
     name: チャコボ語
     auto: true

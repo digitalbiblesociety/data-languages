@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Cameroun-Ubangian > Ubangi > Ubangi Ka > Bandaic > Nuclear Bandaic > Southwest Bandaic > Central North West Bandaic > West Central Banda"
 wikipedia_url: "https://en.wikipedia.org/wiki/West_Banda_language"
 translations:
+  - translation_iso: ara
+    name: اللغة بندا الوسطى الغربية
+    auto: true
   - translation_iso: jpn
     name: 中西部バンダ語
   - translation_iso: zho

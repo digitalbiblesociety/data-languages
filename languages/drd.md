@@ -15,6 +15,9 @@ glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Bodic > West Himalayish > Eastern West Himalayish > Pithauragarh > Darma-Byangsi-Chaudangsi > Darma-Byangsi > Zhangzhungic > Darma"
 wikipedia_url: "https://en.wikipedia.org/wiki/Darmiya_language"
 translations:
+  - translation_iso: ara
+    name: دارميا
+    auto: true
   - translation_iso: hin
     name: दर्मा भाषा
   - translation_iso: jpn

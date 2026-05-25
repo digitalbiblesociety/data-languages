@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Greater Seram Laut > East Seram > Setic > Salas"
 wikipedia_url: "https://en.wikipedia.org/wiki/Salas_language"
 translations:
+  - translation_iso: ara
+    name: سالاس
+    auto: true
   - translation_iso: jpn
     name: レンカイタヘ語
     auto: true

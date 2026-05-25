@@ -15,6 +15,9 @@ glottolog_family_name: Border
 glottolog_classification: "Border > Taikat-Awyi > Awyi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Awyi_language"
 translations:
+  - translation_iso: ara
+    name: اللغة أوي
+    auto: true
   - translation_iso: jpn
     name: アウィ語
     auto: true

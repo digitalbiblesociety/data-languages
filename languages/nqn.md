@@ -14,6 +14,9 @@ glottolog_family_name: Yam
 glottolog_classification: "Yam > Morehead-Maro > Nambu > Nen"
 wikipedia_url: "https://en.wikipedia.org/wiki/Nen_language_(Papuan)"
 translations:
+  - translation_iso: ara
+    name: نين
+    auto: true
   - translation_iso: jpn
     name: ネン語
     auto: true

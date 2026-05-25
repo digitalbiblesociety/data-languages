@@ -9,6 +9,9 @@ latitude: -3.3731
 longitude: 29.9189
 wikipedia_url: "https://en.wikipedia.org/wiki/Burundian_Sign_Language"
 translations:
+  - translation_iso: ara
+    name: لغة الإشارة البوروندية
+    auto: true
   - translation_iso: jpn
     name: ブルンジ手話
     auto: true

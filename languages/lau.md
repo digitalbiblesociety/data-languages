@@ -9,6 +9,9 @@ status_id: 6a
 latitude: 1.66675
 longitude: 127.58349
 translations:
+  - translation_iso: ara
+    name: لابا
+    auto: true
   - translation_iso: jpn
     name: ラバ語
     auto: true

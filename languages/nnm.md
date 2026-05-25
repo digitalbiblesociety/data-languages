@@ -15,6 +15,9 @@ glottolog_family_name: Sepik
 glottolog_classification: "Sepik > Yellow River > Namia"
 wikipedia_url: "https://en.wikipedia.org/wiki/Namia_language"
 translations:
+  - translation_iso: ara
+    name: نامia
+    auto: true
   - translation_iso: jpn
     name: ナミア語
   - translation_iso: zho

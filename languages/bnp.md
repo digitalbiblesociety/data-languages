@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > Meso Melanesian linkage > Willaumez linkage > Bola-Bulu > Bola"
 wikipedia_url: "https://en.wikipedia.org/wiki/Bola_language_(Austronesian)"
 translations:
+  - translation_iso: ara
+    name: بولا
+    auto: true
   - translation_iso: jpn
     name: ボラ語
   - translation_iso: zho

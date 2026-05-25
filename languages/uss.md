@@ -8,6 +8,9 @@ country_name: Nigeria
 status_id: null
 wikipedia_url: "https://en.wikipedia.org/wiki/Us-Saare_language"
 translations:
+  - translation_iso: ara
+    name: أوس-سااري
+    auto: true
   - translation_iso: jpn
     name: ドゥカ語
     auto: true

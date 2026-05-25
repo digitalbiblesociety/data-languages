@@ -15,6 +15,9 @@ glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Indo-Aryan > Middle-Modern Indo-Aryan > Continental Indo-Aryan > Midlands Indo-Aryan > Bhil > Vaagri Booli"
 wikipedia_url: "https://en.wikipedia.org/wiki/Vaagri_Booli_language"
 translations:
+  - translation_iso: ara
+    name: فاجري بولي
+    auto: true
   - translation_iso: jpn
     name: ハッキピッキ語
     auto: true

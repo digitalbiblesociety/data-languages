@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > North-Central Atlantic > Central Atlantic > Bak > Joola-Manjaku > Jola > Gusilay-Bandial > Gusilay"
 wikipedia_url: "https://en.wikipedia.org/wiki/Gusilay_language"
 translations:
+  - translation_iso: ara
+    name: غوسيلآي
+    auto: true
   - translation_iso: jpn
     name: グスィライ語
   - translation_iso: zho

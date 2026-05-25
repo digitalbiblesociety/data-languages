@@ -15,6 +15,9 @@ glottolog_family_name: Nakh-Daghestanian
 glottolog_classification: "Nakh-Daghestanian > Daghestanian > Avar-Andic-Tsezic > Andic > Botlikh-Godoberi > Godoberi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Godoberi_language"
 translations:
+  - translation_iso: ara
+    name: الغودوبيري
+    auto: true
   - translation_iso: jpn
     name: ゴドベリ語
   - translation_iso: kor

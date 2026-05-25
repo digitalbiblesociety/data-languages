@@ -15,6 +15,9 @@ glottolog_family_name: Nuclear Torricelli
 glottolog_classification: "Nuclear Torricelli > Wapei-Palei > West Palai > Walman"
 wikipedia_url: "https://en.wikipedia.org/wiki/Walman_language"
 translations:
+  - translation_iso: ara
+    name: فالمان
+    auto: true
   - translation_iso: jpn
     name: ワルマン語
   - translation_iso: zho

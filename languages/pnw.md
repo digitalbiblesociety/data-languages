@@ -15,6 +15,9 @@ glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > South-West Pama-Nyungan > Pilbara > Ngayarda > Central Ngayarda > Panytyima-Yinhawangka > Panytyima"
 wikipedia_url: "https://en.wikipedia.org/wiki/Panyjima_language"
 translations:
+  - translation_iso: ara
+    name: اللغة بانيجيما
+    auto: true
   - translation_iso: jpn
     name: バンジマ語
     auto: true

@@ -15,6 +15,9 @@ glottolog_family_name: Mangarrayi-Maran
 glottolog_classification: "Mangarrayi-Maran > Mangarrayi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mangarrayi_language"
 translations:
+  - translation_iso: ara
+    name: لغة مانجارايي
+    auto: true
   - translation_iso: jpn
     name: マンガライ語
   - translation_iso: zho

@@ -15,6 +15,9 @@ glottolog_family_name: Cariban
 glottolog_classification: "Cariban > Guianan > Wayanaic > Wayana"
 wikipedia_url: "https://en.wikipedia.org/wiki/Wayana_language"
 translations:
+  - translation_iso: ara
+    name: وايانا
+    auto: true
   - translation_iso: jpn
     name: ワヤナ語
   - translation_iso: zho

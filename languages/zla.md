@@ -13,6 +13,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > Central-Western Bantu > Luban > Luba-Kaonde > Zula"
 wikipedia_url: "https://en.wikipedia.org/wiki/Zula_language"
 translations:
+  - translation_iso: ara
+    name: اللغة زولا
+    auto: true
   - translation_iso: jpn
     name: ズラ語
     auto: true

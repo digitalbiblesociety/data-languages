@@ -10,6 +10,9 @@ latitude: 43.158056
 longitude: 44.156944
 wikipedia_url: "https://en.wikipedia.org/wiki/Digor_Ossetian"
 translations:
+  - translation_iso: ara
+    name: اللغة الأوسيتية ديجور
+    auto: true
   - translation_iso: jpn
     name: ディゴル方言
   - translation_iso: zho

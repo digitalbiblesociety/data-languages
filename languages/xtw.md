@@ -14,6 +14,9 @@ glottolog_family_id: namb1299
 glottolog_family_name: Nambiquaran
 glottolog_classification: "Nambiquaran > Nambikwara Complex > Northern Nambiquaran > Roosevelt > Tawandê"
 translations:
+  - translation_iso: ara
+    name: تاواندي
+    auto: true
   - translation_iso: jpn
     name: タワンデ語
     auto: true

@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Cameroun-Ubangian > Unclassified Cameroun-Ubangian > Oblo"
 wikipedia_url: "https://en.wikipedia.org/wiki/Oblo_language"
 translations:
+  - translation_iso: ara
+    name: اللغة أوبلو
+    auto: true
   - translation_iso: jpn
     name: オブロ語
     auto: true

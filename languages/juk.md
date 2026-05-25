@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Jukunoid > Central Jukunoid > Jukun-Mbembe-Wurbo > Jukun > Kororofa > Wapan"
 wikipedia_url: "https://en.wikipedia.org/wiki/Wapan_language"
 translations:
+  - translation_iso: ara
+    name: لغة وابان
+    auto: true
   - translation_iso: jpn
     name: ワパン語
     auto: true

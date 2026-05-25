@@ -15,6 +15,9 @@ glottolog_family_name: Guahiboan
 glottolog_classification: "Guahiboan > Nuclear Guahiboan > Central Guahibo > Guahibo-Playero > Playero"
 wikipedia_url: "https://en.wikipedia.org/wiki/Playero_language"
 translations:
+  - translation_iso: ara
+    name: بلآيإرو
+    auto: true
   - translation_iso: jpn
     name: プライェロ語
     auto: true

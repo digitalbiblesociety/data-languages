@@ -15,6 +15,9 @@ glottolog_family_name: Cariban
 glottolog_classification: "Cariban > Apalaí"
 wikipedia_url: "https://en.wikipedia.org/wiki/Apala%C3%AD_language"
 translations:
+  - translation_iso: ara
+    name: اللغة أبالايي
+    auto: true
   - translation_iso: jpn
     name: アパライ語
   - translation_iso: zho

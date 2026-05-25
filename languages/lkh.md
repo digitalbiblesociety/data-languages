@@ -15,6 +15,9 @@ glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Bodic > Bodish > Early Old Tibetan > Middle Old Tibetan > Late Old Tibetan > Southern Tibetic > Lakha"
 wikipedia_url: "https://en.wikipedia.org/wiki/Lakha_language"
 translations:
+  - translation_iso: ara
+    name: لغة اكها
+    auto: true
   - translation_iso: jpn
     name: ラ語
   - translation_iso: kor

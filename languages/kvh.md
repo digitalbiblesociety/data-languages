@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Bima-Lembata > Flores > West-Central Flores > Manggaraiic > Komodo"
 wikipedia_url: "https://en.wikipedia.org/wiki/Komodo_language"
 translations:
+  - translation_iso: ara
+    name: كوموندو
+    auto: true
   - translation_iso: jpn
     name: コモド語
   - translation_iso: zho

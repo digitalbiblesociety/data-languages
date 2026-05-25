@@ -15,6 +15,9 @@ glottolog_family_name: Arawakan
 glottolog_classification: "Arawakan > Caribbean Arawakan > Antillean Arawakan > Ineric > Island Carib-Garifuna > Garifuna"
 wikipedia_url: "https://en.wikipedia.org/wiki/Garifuna_language"
 translations:
+  - translation_iso: ara
+    name: جاريفونا
+    auto: true
   - translation_iso: jpn
     name: ガリフナ語
   - translation_iso: kor

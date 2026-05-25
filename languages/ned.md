@@ -9,6 +9,9 @@ status_id: 6a
 latitude: 7.065
 longitude: 10.47
 translations:
+  - translation_iso: ara
+    name: ندي جبيتي
+    auto: true
   - translation_iso: jpn
     name: ンデ・グビテ語
     auto: true

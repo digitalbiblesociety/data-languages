@@ -15,6 +15,9 @@ glottolog_family_name: Austroasiatic
 glottolog_classification: "Austroasiatic > Katuic > Katu > Nuclear Katu > Western Katu"
 wikipedia_url: "https://en.wikipedia.org/wiki/Katu_language"
 translations:
+  - translation_iso: ara
+    name: كاتو الغربية
+    auto: true
   - translation_iso: jpn
     name: カトゥ語
   - translation_iso: zho

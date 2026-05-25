@@ -12,6 +12,9 @@ longitude: 139.7523
 glottocode: mawe1251
 wikipedia_url: "https://en.wikipedia.org/wiki/Mawes_language"
 translations:
+  - translation_iso: ara
+    name: لغة ماويس
+    auto: true
   - translation_iso: jpn
     name: マウェス語
     auto: true

@@ -15,6 +15,9 @@ glottolog_family_name: Unattested
 glottolog_classification: "Unattested > Tupian (Unattested) > Tukumanféd"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kagwahiva_language"
 translations:
+  - translation_iso: ara
+    name: توكومانفيد
+    auto: true
   - translation_iso: jpn
     name: カワイブ語
   - translation_iso: zho

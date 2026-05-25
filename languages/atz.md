@@ -14,6 +14,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Northern Luzon > Arta"
 wikipedia_url: "https://en.wikipedia.org/wiki/Arta_language"
 translations:
+  - translation_iso: ara
+    name: اللغة أرتا
+    auto: true
   - translation_iso: jpn
     name: アルタ語
     auto: true

@@ -9,6 +9,9 @@ country_name: Philippines
 status_id: 6a
 wikipedia_url: "https://en.wikipedia.org/wiki/Libon_Bikol_language"
 translations:
+  - translation_iso: ara
+    name: ليبون بيكول
+    auto: true
   - translation_iso: jpn
     name: リボン・ビコール語
   - translation_iso: zho

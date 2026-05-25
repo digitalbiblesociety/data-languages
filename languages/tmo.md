@@ -15,6 +15,9 @@ glottolog_family_name: Austroasiatic
 glottolog_classification: "Austroasiatic > Aslian > South Aslian > Semelai-Semaq > Temoq"
 wikipedia_url: "https://en.wikipedia.org/wiki/Temoq_language"
 translations:
+  - translation_iso: ara
+    name: تيموق
+    auto: true
   - translation_iso: jpn
     name: テモク語
     auto: true

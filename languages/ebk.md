@@ -9,6 +9,9 @@ country_name: Philippines
 status_id: "5"
 wikipedia_url: "https://en.wikipedia.org/wiki/Eastern_Bontok_language"
 translations:
+  - translation_iso: ara
+    name: البونتوك الشرقية
+    auto: true
   - translation_iso: jpn
     name: 東ボントク語
   - translation_iso: zho

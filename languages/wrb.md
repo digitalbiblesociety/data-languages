@@ -15,6 +15,9 @@ glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > Ngarna > Southern Ngarna > Thawa > Warluwara"
 wikipedia_url: "https://en.wikipedia.org/wiki/Warluwarra_language"
 translations:
+  - translation_iso: ara
+    name: والوواررا
+    auto: true
   - translation_iso: jpn
     name: ワルワッラ語
     auto: true

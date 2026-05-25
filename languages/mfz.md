@@ -14,6 +14,9 @@ glottolog_family_id: nilo1247
 glottolog_family_name: Nilotic
 glottolog_classification: "Nilotic > Western Nilotic > Burun > Southern Burun > Mabaan"
 translations:
+  - translation_iso: ara
+    name: لغة مابان
+    auto: true
   - translation_iso: jpn
     name: マバアン語
     auto: true

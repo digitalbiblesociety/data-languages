@@ -14,6 +14,9 @@ glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Iranian-Nuristani > Iranian > Sanglechi-Ishkashimi > Sanglechi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Sanglechi_language"
 translations:
+  - translation_iso: ara
+    name: سانجليتشي
+    auto: true
   - translation_iso: jpn
     name: サングリチュ語
   - translation_iso: zho

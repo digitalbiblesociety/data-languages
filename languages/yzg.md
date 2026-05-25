@@ -14,6 +14,9 @@ glottolog_family_id: taik1256
 glottolog_family_name: Tai-Kadai
 glottolog_classification: "Tai-Kadai > Kadaic > Eastern Kra > Buyang > Northern Buyang > E'ma Buyang"
 translations:
+  - translation_iso: ara
+    name: لغة إيما بويانج
+    auto: true
   - translation_iso: jpn
     name: エマ・ブヤン語
     auto: true

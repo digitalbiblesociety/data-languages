@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > North and Central Vanuatu > Central Vanuatu > Epi-Efate > Efate-Shepherds > Efate > South Efatic > Eton (Vanuatu)"
 wikipedia_url: "https://en.wikipedia.org/wiki/Eton_language_(Vanuatu)"
 translations:
+  - translation_iso: ara
+    name: الإيتون
+    auto: true
   - translation_iso: jpn
     name: エトン語
     auto: true

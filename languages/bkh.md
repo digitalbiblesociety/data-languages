@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > Bantu A-B10-B20-B30 > Basaa-Yaunde (A40-70) > Basaa (A.40) > Basaa-Bakoko > Bakoko"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kogo_language"
 translations:
+  - translation_iso: ara
+    name: باكوكو
+    auto: true
   - translation_iso: jpn
     name: バココ語
   - translation_iso: zho

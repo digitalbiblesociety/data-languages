@@ -15,6 +15,9 @@ glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > East Chadic > East Chadic B > East Chadic B.1 > Mubic > Masmaje"
 wikipedia_url: "https://en.wikipedia.org/wiki/Masmaje_language"
 translations:
+  - translation_iso: ara
+    name: لغة ماسماجي
+    auto: true
   - translation_iso: jpn
     name: マスマエ語
     auto: true

@@ -14,6 +14,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Malayo-Chamic > Malayic > Nuclear Malayic > Vehicular Malay > Eastern Indonesia Trade Malay > Manadoic Malay > Gorap"
 wikipedia_url: "https://en.wikipedia.org/wiki/Gorap_language"
 translations:
+  - translation_iso: ara
+    name: غورآب
+    auto: true
   - translation_iso: jpn
     name: ゴラップ語
     auto: true

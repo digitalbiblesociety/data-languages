@@ -14,6 +14,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Wide Grassfields > Narrow Grassfields > Unclassified Narrow Grassfields > Viti"
 wikipedia_url: "https://en.wikipedia.org/wiki/Viti_language"
 translations:
+  - translation_iso: ara
+    name: فيتي
+    auto: true
   - translation_iso: jpn
     name: ヴォットー語
     auto: true

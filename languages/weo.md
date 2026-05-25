@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Nunusaku > Three Rivers > Wemale"
 wikipedia_url: "https://en.wikipedia.org/wiki/Wemale_language"
 translations:
+  - translation_iso: ara
+    name: ويمالي
+    auto: true
   - translation_iso: jpn
     name: ウェマレ語
     auto: true

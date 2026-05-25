@@ -15,6 +15,9 @@ glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Bodic > Kaike-Ghale-Tamangic > Ghale-Tamangic > Tamangic > Gurungic > Manangba-Nar-Phu > Manange"
 wikipedia_url: "https://en.wikipedia.org/wiki/Manang_language"
 translations:
+  - translation_iso: ara
+    name: مانانغبا
+    auto: true
   - translation_iso: jpn
     name: マナン語
   - translation_iso: zho

@@ -14,6 +14,9 @@ glottolog_family_id: krua1234
 glottolog_family_name: Kru
 glottolog_classification: "Kru > Greater Western Kru > Western Kru > Grebo-Aizi > Grebo > Ivorian Grebo > Tepo-Plapo > Plapo Krumen"
 translations:
+  - translation_iso: ara
+    name: كرومن بلابو
+    auto: true
   - translation_iso: jpn
     name: プラポ・クルメン語
     auto: true

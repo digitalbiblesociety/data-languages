@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Cameroun-Ubangian > Central Adamawa > Samba-Duru > Unclassified Samba-Duru > Nimbari"
 wikipedia_url: "https://en.wikipedia.org/wiki/Nimbari_language"
 translations:
+  - translation_iso: ara
+    name: نيمباري
+    auto: true
   - translation_iso: jpn
     name: ニンバリ語
     auto: true

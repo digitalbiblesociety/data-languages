@@ -14,6 +14,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > Papuan Tip linkage > Nuclear Papuan Tip linkage > North Papuan Mainland-D'Entrecasteaux linkage > Kakabai linkage > Kakabai"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kakabai_language"
 translations:
+  - translation_iso: ara
+    name: لغة كاكاباي
+    auto: true
   - translation_iso: jpn
     name: カカバイ語
     auto: true

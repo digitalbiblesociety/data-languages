@@ -15,6 +15,9 @@ glottolog_family_name: Siouan
 glottolog_classification: "Siouan > Ohio Valley Siouan > Southeastern Siouan > Ofo"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ofo_language"
 translations:
+  - translation_iso: ara
+    name: اللغة أوفو
+    auto: true
   - translation_iso: jpn
     name: オフォ語
     auto: true

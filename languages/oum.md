@@ -14,6 +14,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > Papuan Tip linkage > Peripheral Papuan Tip linkage > Central Papuan Oceanic > Oumic > Ouma"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ouma_language"
 translations:
+  - translation_iso: ara
+    name: اللغة أوما
+    auto: true
   - translation_iso: jpn
     name: ウマ語
     auto: true

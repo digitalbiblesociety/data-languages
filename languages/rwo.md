@@ -15,6 +15,9 @@ glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Finisterre-Huon > Finisterre-Saruwaged > Gusap-Mot > Ufim-Rawa-Nahu > Rawa"
 wikipedia_url: "https://en.wikipedia.org/wiki/Rawa_language"
 translations:
+  - translation_iso: ara
+    name: راوا
+    auto: true
   - translation_iso: jpn
     name: カロ語
     auto: true

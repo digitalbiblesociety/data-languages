@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Gur > Central Gur > Northern Central Gur > Bwamu-Oti-Volta > Oti-Volta > Buli-Koma > Konni"
 wikipedia_url: "https://en.wikipedia.org/wiki/Konni_language"
 translations:
+  - translation_iso: ara
+    name: لغة كوني
+    auto: true
   - translation_iso: jpn
     name: コンニ語
     auto: true

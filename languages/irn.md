@@ -12,6 +12,9 @@ longitude: -57.98063
 glottocode: iran1263
 wikipedia_url: "https://en.wikipedia.org/wiki/Irantxe_language"
 translations:
+  - translation_iso: ara
+    name: إيرانتخي
+    auto: true
   - translation_iso: jpn
     name: イランシェ語
   - translation_iso: zho

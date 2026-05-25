@@ -15,6 +15,9 @@ glottolog_family_name: Algic
 glottolog_classification: "Algic > Algonquian-Blackfoot > Algonquian > Eastern Great Lakes Algonquian > Ojibwa-Potawatomi > Ojibwa > Severn-Algonquin > Algonquin"
 wikipedia_url: "https://en.wikipedia.org/wiki/Algonquin_language"
 translations:
+  - translation_iso: ara
+    name: لغة ألغونكوين
+    auto: true
   - translation_iso: jpn
     name: アルゴンキン語
   - translation_iso: kor

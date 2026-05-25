@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Benue-Congo Plateau > Northern Benue-Congo Plateau > Nuclear Northern Benue-Congo Plateau > Ikulu"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kulu_language"
 translations:
+  - translation_iso: ara
+    name: إيكولو
+    auto: true
   - translation_iso: jpn
     name: イクル語
     auto: true

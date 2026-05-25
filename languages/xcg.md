@@ -15,6 +15,9 @@ glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Celtic > Nuclear Celtic > Cisalpine Celtic > Cisalpine Gaulish"
 wikipedia_url: "https://en.wikipedia.org/wiki/Cisalpine_Gaulish"
 translations:
+  - translation_iso: ara
+    name: كيسالپيني غاوليسه
+    auto: true
   - translation_iso: jpn
     name: シスアルパイン・ゴール語
   - translation_iso: zho

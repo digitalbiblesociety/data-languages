@@ -15,6 +15,9 @@ glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Kainantu-Goroka > Kainantu > Gauwa > Awa-Oweina > Awa (Papua New Guinea)"
 wikipedia_url: "https://en.wikipedia.org/wiki/Awa_language_(Papua_New_Guinea)"
 translations:
+  - translation_iso: ara
+    name: اللغة أوا
+    auto: true
   - translation_iso: jpn
     name: アワ語
   - translation_iso: zho

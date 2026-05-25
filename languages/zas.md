@@ -15,6 +15,9 @@ glottolog_family_name: Otomanguean
 glottolog_classification: "Otomanguean > Eastern Otomanguean > Popoloca-Zapotecan > Zapotecan > Zapotec > Core Zapotec > Narrow Core Zapotec > Central Core Zapotec > Santo Domingo Albarradas Zapotec"
 wikipedia_url: "https://en.wikipedia.org/wiki/Albarradas_Zapotec"
 translations:
+  - translation_iso: ara
+    name: لغة زابوتيك سانتو دومينغو ألبرادز
+    auto: true
   - translation_iso: jpn
     name: サント・ドミンゴ・アルバラダス・サポテク語
     auto: true

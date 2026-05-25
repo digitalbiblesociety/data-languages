@@ -8,6 +8,9 @@ country_name: Russia
 status_id: null
 wikipedia_url: "https://en.wikipedia.org/wiki/Yurats_language"
 translations:
+  - translation_iso: ara
+    name: يوراتس
+    auto: true
   - translation_iso: jpn
     name: ユラツ語
   - translation_iso: kor

@@ -8,6 +8,9 @@ country_id: PH
 country_name: Philippines
 status_id: 6a
 translations:
+  - translation_iso: ara
+    name: ميرايا بيكول
+    auto: true
   - translation_iso: jpn
     name: ミラヤ・ビコール語
   - translation_iso: zho

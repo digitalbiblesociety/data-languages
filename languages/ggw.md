@@ -15,6 +15,9 @@ glottolog_family_name: Suki-Gogodala
 glottolog_classification: "Suki-Gogodala > Gogodalic > Gogodala"
 wikipedia_url: "https://en.wikipedia.org/wiki/Gogodala_language"
 translations:
+  - translation_iso: ara
+    name: غوغودآلآ
+    auto: true
   - translation_iso: jpn
     name: ゴゴダラ語
     auto: true

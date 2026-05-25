@@ -16,6 +16,9 @@ glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Himalayish > Lepcha"
 wikipedia_url: "https://en.wikipedia.org/wiki/Lepcha_language"
 translations:
+  - translation_iso: ara
+    name: لغة يپكها
+    auto: true
   - translation_iso: hin
     name: लेप्चा
   - translation_iso: jpn

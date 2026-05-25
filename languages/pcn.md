@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Kainji > Central Kainji > Basa-Eastern Kainji > Eastern Kainji > Piti-Atsam > Piti"
 wikipedia_url: "https://en.wikipedia.org/wiki/Piti_language"
 translations:
+  - translation_iso: ara
+    name: اللغة بيتي
+    auto: true
   - translation_iso: jpn
     name: ピティ語
   - translation_iso: zho

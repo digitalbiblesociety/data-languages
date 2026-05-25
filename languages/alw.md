@@ -15,6 +15,9 @@ glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Cushitic > East Cushitic > Highland East Cushitic > Sidaama-Hadiyya-Kambaata > Hadiyya-Kambaata > Kambaataic > Alaba-K'abeena"
 wikipedia_url: "https://en.wikipedia.org/wiki/Alaba-K%CA%BCabeena_language"
 translations:
+  - translation_iso: ara
+    name: لغة ألابا-كابينا
+    auto: true
   - translation_iso: jpn
     name: アラバカベエナ語
     auto: true

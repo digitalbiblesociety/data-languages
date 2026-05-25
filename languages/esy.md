@@ -12,6 +12,9 @@ glottolog_family_name: Artificial Language
 glottolog_classification: "Artificial Language > Eskayan"
 wikipedia_url: "https://en.wikipedia.org/wiki/Eskayan_language"
 translations:
+  - translation_iso: ara
+    name: الإسكايان
+    auto: true
   - translation_iso: jpn
     name: エスカヤ語
   - translation_iso: kor

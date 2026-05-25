@@ -15,6 +15,9 @@ glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > Paman > Alaya-Athima > Southwestern Alaya-Athima > Kunjen"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kunjen_language"
 translations:
+  - translation_iso: ara
+    name: لغة كونجين
+    auto: true
   - translation_iso: jpn
     name: クンジェン語
     auto: true

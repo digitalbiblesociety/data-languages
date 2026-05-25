@@ -12,6 +12,9 @@ longitude: -4.92143
 glottocode: siam1242
 wikipedia_url: "https://en.wikipedia.org/wiki/Siamou_language"
 translations:
+  - translation_iso: ara
+    name: اللغة السيامو
+    auto: true
   - translation_iso: jpn
     name: シアモウ語
   - translation_iso: zho

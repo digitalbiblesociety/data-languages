@@ -16,6 +16,9 @@ glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Iranian-Nuristani > Iranian > Central Iranian PBS > Central Iranian PB > Northwestern Iranian > Adharic > Zaza > Kirmanjki"
 wikipedia_url: "https://en.wikipedia.org/wiki/Northern_Zaza"
 translations:
+  - translation_iso: ara
+    name: لغة كرمانجكي
+    auto: true
   - translation_iso: jpn
     name: キルマンジュキ語
   - translation_iso: zho

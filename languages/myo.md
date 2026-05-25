@@ -15,6 +15,9 @@ glottolog_family_name: Ta-Ne-Omotic
 glottolog_classification: "Ta-Ne-Omotic > Kefoid > Anfillo"
 wikipedia_url: "https://en.wikipedia.org/wiki/Anfillo_language"
 translations:
+  - translation_iso: ara
+    name: أنفيلو
+    auto: true
   - translation_iso: jpn
     name: アンフィッロ語
     auto: true

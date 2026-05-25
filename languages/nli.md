@@ -15,6 +15,9 @@ glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Indo-Aryan > Gawarbatic > Shumashtic > Grangali-Ningalami"
 wikipedia_url: "https://en.wikipedia.org/wiki/Nangalami_language"
 translations:
+  - translation_iso: ara
+    name: غرانغالي
+    auto: true
   - translation_iso: hin
     name: नंगलामी भाषा
   - translation_iso: jpn

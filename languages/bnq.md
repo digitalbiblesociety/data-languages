@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Sangiric-Minahasan > Sangiric > Southern Sangiric > Bantik"
 wikipedia_url: "https://en.wikipedia.org/wiki/Bantik_language"
 translations:
+  - translation_iso: ara
+    name: بانتيك
+    auto: true
   - translation_iso: jpn
     name: バンティック語
   - translation_iso: zho

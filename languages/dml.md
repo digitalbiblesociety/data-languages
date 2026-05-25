@@ -15,6 +15,9 @@ glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Iranian-Nuristani > Nuristani > Dameli"
 wikipedia_url: "https://en.wikipedia.org/wiki/Dameli_language"
 translations:
+  - translation_iso: ara
+    name: دمالي
+    auto: true
   - translation_iso: hin
     name: दामेली भाषा
   - translation_iso: jpn

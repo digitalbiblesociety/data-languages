@@ -15,6 +15,9 @@ glottolog_family_name: Austroasiatic
 glottolog_classification: "Austroasiatic > Bahnaric > West Bahnaric > Alak"
 wikipedia_url: "https://en.wikipedia.org/wiki/Alak_language"
 translations:
+  - translation_iso: ara
+    name: لغة ألاك
+    auto: true
   - translation_iso: jpn
     name: アラク語
     auto: true

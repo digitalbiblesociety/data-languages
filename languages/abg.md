@@ -15,6 +15,9 @@ glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Kainantu-Goroka > Goroka > Nuclear Goroka > Siane-Yagaria > Kamano-Yagaria > Unclassified Kamano-Yagaria > Abaga"
 wikipedia_url: "https://en.wikipedia.org/wiki/Abaga_language"
 translations:
+  - translation_iso: ara
+    name: لغة أباغا
+    auto: true
   - translation_iso: jpn
     name: アバガ語
     auto: true

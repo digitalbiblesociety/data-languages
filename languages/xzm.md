@@ -8,6 +8,9 @@ country_name: Latvia
 status_id: null
 wikipedia_url: "https://en.wikipedia.org/wiki/Semigallian_language"
 translations:
+  - translation_iso: ara
+    name: زيمجاليان
+    auto: true
   - translation_iso: jpn
     name: セミガリア語
   - translation_iso: kor

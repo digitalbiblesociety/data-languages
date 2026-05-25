@@ -15,6 +15,9 @@ glottolog_family_name: Arawakan
 glottolog_classification: "Arawakan > Medio Rio Negro > Marauia-Castana > Yabaâna-Mainatari"
 wikipedia_url: "https://en.wikipedia.org/wiki/Yaba%C3%A2na_language"
 translations:
+  - translation_iso: ara
+    name: يابااانا
+    auto: true
   - translation_iso: jpn
     name: ヤバーナ語
   - translation_iso: zho

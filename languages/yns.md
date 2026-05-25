@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > Central-Western Bantu > West-Coastal Bantu > Nzadic > Lweric > Dingic > Loange-Atlantic > Kwilu-Ngounie > Yansi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Yansi_language"
 translations:
+  - translation_iso: ara
+    name: اللغة يانسي
+    auto: true
   - translation_iso: jpn
     name: ヤンシ語
     auto: true

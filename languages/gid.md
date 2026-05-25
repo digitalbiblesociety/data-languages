@@ -15,6 +15,9 @@ glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > Biu-Mandara > North Biu-Mandara > Gidar"
 wikipedia_url: "https://en.wikipedia.org/wiki/Gidar_language"
 translations:
+  - translation_iso: ara
+    name: غيدآر
+    auto: true
   - translation_iso: jpn
     name: ギダル語
   - translation_iso: zho

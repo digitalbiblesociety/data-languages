@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Southeast Solomonic > Guadalcanal-Nggelic > Nuclear Guadalcanal-Nggelic > North and West Guadalcanal > Lengo"
 wikipedia_url: "https://en.wikipedia.org/wiki/Lengo_language"
 translations:
+  - translation_iso: ara
+    name: لغة ينجو
+    auto: true
   - translation_iso: jpn
     name: レンゴ語
   - translation_iso: zho

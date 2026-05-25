@@ -15,6 +15,9 @@ glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > Yarli-Baagandji > Paakantyi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Paakantyi_language"
 translations:
+  - translation_iso: ara
+    name: باكانتي
+    auto: true
   - translation_iso: jpn
     name: バーガンジ語
   - translation_iso: zho

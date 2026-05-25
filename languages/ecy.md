@@ -16,6 +16,9 @@ glottolog_family_name: Unclassifiable
 glottolog_classification: "Unclassifiable > Eteocypriot"
 wikipedia_url: "https://en.wikipedia.org/wiki/Eteocypriot_language"
 translations:
+  - translation_iso: ara
+    name: الإتيوسيبريوتي
+    auto: true
   - translation_iso: jpn
     name: エテオ・キュプロス語
   - translation_iso: zho

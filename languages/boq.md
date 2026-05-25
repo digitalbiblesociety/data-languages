@@ -12,6 +12,9 @@ longitude: 142.25459
 glottocode: boga1247
 wikipedia_url: "https://en.wikipedia.org/wiki/Pogaya_language"
 translations:
+  - translation_iso: ara
+    name: بوجايا
+    auto: true
   - translation_iso: jpn
     name: ボガヤ語
     auto: true

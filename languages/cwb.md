@@ -14,6 +14,9 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > East Bantu > North Mozambique Bantu > Chuwaboic > Chuwabo-Maindo > Maindo"
 translations:
+  - translation_iso: ara
+    name: مايندو
+    auto: true
   - translation_iso: jpn
     name: マインド語
     auto: true

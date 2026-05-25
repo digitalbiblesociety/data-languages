@@ -15,6 +15,9 @@ glottolog_family_name: Khoe-Kwadi
 glottolog_classification: "Khoe-Kwadi > Khoe > Non-Khoekhoe > West-Kxoe > Kxoe-Ani > Kxoe"
 wikipedia_url: "https://en.wikipedia.org/wiki/Khwe_language"
 translations:
+  - translation_iso: ara
+    name: كسو
+    auto: true
   - translation_iso: jpn
     name: クエ語
   - translation_iso: zho

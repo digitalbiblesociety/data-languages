@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > North New Guinea linkage > Ngero-Vitiaz linkage > Vitiaz linkage > Bel-Roinji-Nenaya > Bel > Eastern Bel > Awad Bing"
 wikipedia_url: "https://en.wikipedia.org/wiki/Awad_Bing_language"
 translations:
+  - translation_iso: ara
+    name: اللغة أواد بينج
+    auto: true
   - translation_iso: jpn
     name: アワド・ビング語
     auto: true

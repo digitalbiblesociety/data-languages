@@ -12,6 +12,9 @@ longitude: -55.869
 glottocode: mato1253
 wikipedia_url: "https://en.wikipedia.org/wiki/Mato_Grosso_Ar%C3%A1ra_language"
 translations:
+  - translation_iso: ara
+    name: اللغة أرارا ماتو جروسو
+    auto: true
   - translation_iso: jpn
     name: マト・グロッソ・アララ語
     auto: true

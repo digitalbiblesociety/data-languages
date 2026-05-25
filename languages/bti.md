@@ -14,6 +14,9 @@ glottolog_family_name: Geelvink Bay
 glottolog_classification: "Geelvink Bay > Burate-Wate > Burate"
 wikipedia_url: "https://en.wikipedia.org/wiki/Burate_language"
 translations:
+  - translation_iso: ara
+    name: بوراتي
+    auto: true
   - translation_iso: jpn
     name: ブラテ語
     auto: true

@@ -15,6 +15,9 @@ glottolog_family_name: Khoe-Kwadi
 glottolog_classification: "Khoe-Kwadi > Kwadi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kwadi_language"
 translations:
+  - translation_iso: ara
+    name: كوادي
+    auto: true
   - translation_iso: jpn
     name: クワディ語
   - translation_iso: kor

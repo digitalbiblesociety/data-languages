@@ -14,6 +14,9 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Wide Grassfields > Narrow Grassfields > Mbam-Nkam > Nkambe > Mfumteic > Kwaja-Ndaktup"
 translations:
+  - translation_iso: ara
+    name: لغة كواجا
+    auto: true
   - translation_iso: jpn
     name: クワジャ語
     auto: true

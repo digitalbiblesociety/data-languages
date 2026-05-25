@@ -15,6 +15,9 @@ glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Burmo-Qiangic > Lolo-Burmese > Loloish > Ni-Li-Kazhouish > Southeastern Ngwi > Highland Phula > Phowa > Hlepho-Phukha > Phukha"
 wikipedia_url: "https://en.wikipedia.org/wiki/Phukha_language"
 translations:
+  - translation_iso: ara
+    name: اللغة فوخا
+    auto: true
   - translation_iso: jpn
     name: プハ語
     auto: true

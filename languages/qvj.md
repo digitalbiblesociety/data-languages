@@ -14,6 +14,9 @@ glottolog_family_id: quec1387
 glottolog_family_name: Quechuan
 glottolog_classification: "Quechuan > Colombia-Ecuador Quechua > Ecuadorian Quechua B > Loja Highland Quichua"
 translations:
+  - translation_iso: ara
+    name: اللغة كيتشوا لوخا الجبلية
+    auto: true
   - translation_iso: jpn
     name: ロハハイランドキチュア語
     auto: true

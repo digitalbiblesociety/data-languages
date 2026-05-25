@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Delta Cross > Upper Cross > Central Upper Cross > East-West Central Delta Cross > Mbembe-Legbo > Cross River Mbembe"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mbembe_language"
 translations:
+  - translation_iso: ara
+    name: لغة مبيمب
+    auto: true
   - translation_iso: jpn
     name: クロス・リバー・ムベンベ語
     auto: true

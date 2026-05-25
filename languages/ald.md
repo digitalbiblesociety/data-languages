@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Kwa Volta-Congo > Nyo > Avikam-Alladian > Alladian"
 wikipedia_url: "https://en.wikipedia.org/wiki/Alladian_language"
 translations:
+  - translation_iso: ara
+    name: لغة ألّاديان
+    auto: true
   - translation_iso: jpn
     name: アッラディアン語
     auto: true

@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Delta Cross > Upper Cross > Agoi-Doko-Iyoniyong > Deko-Dusanga"
 wikipedia_url: "https://en.wikipedia.org/wiki/Uyanga_language"
 translations:
+  - translation_iso: ara
+    name: دوكو-أويانجا
+    auto: true
   - translation_iso: jpn
     name: イコ語
     auto: true

@@ -15,6 +15,9 @@ glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > West Chadic > West Chadic A > West Chadic A.2-3 > West Chadic A.2 > Boleic > Nuclear Boleic > Galambu-Bele > Galambu"
 wikipedia_url: "https://en.wikipedia.org/wiki/Galambu_language"
 translations:
+  - translation_iso: ara
+    name: غآلآمبو
+    auto: true
   - translation_iso: jpn
     name: ガラムブ語
     auto: true

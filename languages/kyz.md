@@ -15,6 +15,9 @@ glottolog_family_name: Tupian
 glottolog_classification: "Tupian > Eastern Tupian > Maweti-Guarani > Aweti-Guarani > Tupi-Guarani > Tupi-Guarani Subgroup VI > Kayabí"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kayabi_language"
 translations:
+  - translation_iso: ara
+    name: كايابي
+    auto: true
   - translation_iso: jpn
     name: カヤビ語
   - translation_iso: zho

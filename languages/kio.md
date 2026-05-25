@@ -15,6 +15,9 @@ glottolog_family_name: Kiowa-Tanoan
 glottolog_classification: "Kiowa-Tanoan > Kiowa"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kiowa_language"
 translations:
+  - translation_iso: ara
+    name: لغة كيوا
+    auto: true
   - translation_iso: hin
     name: कियोवा भाषा
   - translation_iso: jpn

@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > Central-Western Bantu > Njila > Northern Njila > Mbundu (H.20) > Nsongo"
 wikipedia_url: "https://en.wikipedia.org/wiki/Nsongo_language"
 translations:
+  - translation_iso: ara
+    name: نسونغو
+    auto: true
   - translation_iso: jpn
     name: ンソンゴ語
     auto: true

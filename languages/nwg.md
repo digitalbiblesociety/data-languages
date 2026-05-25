@@ -8,6 +8,9 @@ country_name: Australia
 status_id: "10"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ngayawung_language"
 translations:
+  - translation_iso: ara
+    name: نغايوانغ
+    auto: true
   - translation_iso: jpn
     name: ンガヤウング語
   - translation_iso: zho

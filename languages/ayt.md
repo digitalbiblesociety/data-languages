@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Central Luzon > Sambalic > Bataan Ayta"
 wikipedia_url: "https://en.wikipedia.org/wiki/Marivele%C3%B1o_language"
 translations:
+  - translation_iso: ara
+    name: اللغة أيتا ماجبوكون
+    auto: true
   - translation_iso: jpn
     name: マグブクン・アイタ語
     auto: true

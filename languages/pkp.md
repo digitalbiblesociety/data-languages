@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Central Pacific linkage > Tokalau Fijian > Polynesian > Nuclear Polynesian > Ellicean > Pukapukic > Pukapuka"
 wikipedia_url: "https://en.wikipedia.org/wiki/Pukapukan_language"
 translations:
+  - translation_iso: ara
+    name: اللغة بوكابوكا
+    auto: true
   - translation_iso: jpn
     name: プカプカ語
   - translation_iso: zho

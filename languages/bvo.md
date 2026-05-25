@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Bua-Kim-Day > Adamawa Bua > Inland Bua > Bolgo-Koke > Bolgo"
 wikipedia_url: "https://en.wikipedia.org/wiki/Bolgo_language"
 translations:
+  - translation_iso: ara
+    name: بولْجو
+    auto: true
   - translation_iso: jpn
     name: ボルゴ語
     auto: true

@@ -14,6 +14,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Benue-Congo Plateau > West-Central Benue-Congo Plateau > Unclassified Western Benue-Congo Plateau > Koro Nulu"
 wikipedia_url: "https://en.wikipedia.org/wiki/Koro_Nulu_language"
 translations:
+  - translation_iso: ara
+    name: كورو نولو
+    auto: true
   - translation_iso: jpn
     name: コロ・イハ語
     auto: true

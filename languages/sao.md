@@ -11,6 +11,9 @@ longitude: 139.62656
 glottocode: saus1247
 wikipedia_url: "https://en.wikipedia.org/wiki/Sause_language"
 translations:
+  - translation_iso: ara
+    name: سوسي
+    auto: true
   - translation_iso: jpn
     name: セウセ語
     auto: true

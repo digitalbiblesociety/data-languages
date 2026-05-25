@@ -14,6 +14,9 @@ glottolog_family_name: Sign Language
 glottolog_classification: "Sign Language > L1 Sign Language > RSLic > Nuclear RSLic > Central RSLic > Ukrainian Sign Language"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ukrainian_Sign_Language"
 translations:
+  - translation_iso: ara
+    name: لغة الإشارة الأوكرانية
+    auto: true
   - translation_iso: jpn
     name: ウクライナ手話
   - translation_iso: zho

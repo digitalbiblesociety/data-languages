@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Northern Luzon > Cagayan Valley > Ibanagic > Gaddangic > Cagayan-Baliwon Gaddang > Gaddang"
 wikipedia_url: "https://en.wikipedia.org/wiki/Gaddang_language"
 translations:
+  - translation_iso: ara
+    name: الجادانج
+    auto: true
   - translation_iso: jpn
     name: ガッダン語
     auto: true

@@ -15,6 +15,9 @@ glottolog_family_name: Nambiquaran
 glottolog_classification: "Nambiquaran > Nambikwara Complex > Northern Nambiquaran > Mamaindé"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mamaind%C3%AA_language"
 translations:
+  - translation_iso: ara
+    name: مامايند
+    auto: true
   - translation_iso: jpn
     name: ママインデ語
     auto: true

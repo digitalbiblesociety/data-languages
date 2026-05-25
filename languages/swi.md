@@ -15,6 +15,9 @@ glottolog_family_name: Tai-Kadai
 glottolog_classification: "Tai-Kadai > Kam-Tai > Kam-Sui > Then-MMS > Maonan-Mak-Sui > Sui"
 wikipedia_url: "https://en.wikipedia.org/wiki/Sui_language"
 translations:
+  - translation_iso: ara
+    name: سوي
+    auto: true
   - translation_iso: jpn
     name: スイ語
   - translation_iso: kor

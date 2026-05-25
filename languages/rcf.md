@@ -16,6 +16,9 @@ glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Italic > Latino-Faliscan > Latinic > Imperial Latin > Romance > Italo-Western Romance > Western Romance > Shifted Western Romance > Northwestern Shifted Romance > Gallo-Rhaetian > Oil > Central Oil > Macro-French > Réunion Creole French"
 wikipedia_url: "https://en.wikipedia.org/wiki/R%C3%A9union_Creole"
 translations:
+  - translation_iso: ara
+    name: كريول ريونيون الفرنسي
+    auto: true
   - translation_iso: hin
     name: रीयूनियन क्रेओल
   - translation_iso: jpn

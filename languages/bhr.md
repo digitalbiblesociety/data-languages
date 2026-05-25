@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Basap-Greater Barito > Greater Barito linkage > Southeast Barito > Malagasic > Southwestern Malagasic > South West-Central Malagasic > Nuclear South West-Central Malagasic > Inland-Western Malagasic > Bara-Tanosy > Bara Malagasy"
 wikipedia_url: "https://en.wikipedia.org/wiki/Bara_Malagasy"
 translations:
+  - translation_iso: ara
+    name: بارا ملاجاشي
+    auto: true
   - translation_iso: jpn
     name: バラ・マダガスカル語
   - translation_iso: zho

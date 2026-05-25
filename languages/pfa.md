@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Micronesian > Central Micronesian > Western Micronesian > Chuukic-Ponapeic > Trukic > Nuclear Trukic > Central Trukic > Satawalese-Carolinian > Macro-Carolinian > Murilo-Fanapanges > Pááfang"
 wikipedia_url: "https://en.wikipedia.org/wiki/P%C3%A1%C3%A1fang_language"
 translations:
+  - translation_iso: ara
+    name: اللغة بافانغ
+    auto: true
   - translation_iso: jpn
     name: パアファン語
     auto: true

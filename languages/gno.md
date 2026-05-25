@@ -15,6 +15,9 @@ glottolog_family_name: Dravidian
 glottolog_classification: "Dravidian > South Dravidian > South Dravidian II > Gondi > Northwest Gondi > Northern Gondi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Northern_Gondi_language"
 translations:
+  - translation_iso: ara
+    name: الغوندية الشمالية
+    auto: true
   - translation_iso: jpn
     name: 北部ゴーンディー語
   - translation_iso: zho

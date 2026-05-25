@@ -15,6 +15,9 @@ glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Germanic > Northwest Germanic > West Germanic > Macro-Dutch > Middle-Modern Dutch > Modern Dutch > Southwestern Dutch > Zeeuwic > Skepi Creole Dutch"
 wikipedia_url: "https://en.wikipedia.org/wiki/Skepi_Creole_Dutch"
 translations:
+  - translation_iso: ara
+    name: اللغة سكيبي كريول دتش
+    auto: true
   - translation_iso: jpn
     name: スケピクレオール・オランダ語
     auto: true

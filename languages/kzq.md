@@ -15,6 +15,9 @@ glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Bodic > Kaike-Ghale-Tamangic > Kaike"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kaike_language"
 translations:
+  - translation_iso: ara
+    name: كايكي
+    auto: true
   - translation_iso: jpn
     name: カイケ語
     auto: true

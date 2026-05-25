@@ -16,6 +16,9 @@ glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Indo-Aryan > Middle-Modern Indo-Aryan > Continental Indo-Aryan > Midlands Indo-Aryan > Indo-Aryan Northern zone > Central Pahari > Garhwali"
 wikipedia_url: "https://en.wikipedia.org/wiki/Garhwali_language"
 translations:
+  - translation_iso: ara
+    name: الجارهوالي
+    auto: true
   - translation_iso: hin
     name: गढ़वाली
   - translation_iso: jpn

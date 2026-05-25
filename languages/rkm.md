@@ -15,6 +15,9 @@ glottolog_family_name: Mande
 glottolog_classification: "Mande > Western Mande > Manding-Kpelle > Central Mande > Manding-Jogo > Manding-Vai > Manding-Mokole > Manding > East Manding > Marka"
 wikipedia_url: "https://en.wikipedia.org/wiki/Marka_language"
 translations:
+  - translation_iso: ara
+    name: ماركا
+    auto: true
   - translation_iso: jpn
     name: マルカ語
   - translation_iso: zho

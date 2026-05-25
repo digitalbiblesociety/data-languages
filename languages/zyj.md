@@ -15,6 +15,9 @@ glottolog_family_name: Tai-Kadai
 glottolog_classification: "Tai-Kadai > Kam-Tai > Daic-Beic > Daic > Northern Daic-Sek > Northern Daic > Northern Tai > Youjiang Zhuang"
 wikipedia_url: "https://en.wikipedia.org/wiki/Youjiang_Zhuang"
 translations:
+  - translation_iso: ara
+    name: تشوانغ يوجيانغ
+    auto: true
   - translation_iso: jpn
     name: 右江チワン語
   - translation_iso: zho

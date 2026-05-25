@@ -15,6 +15,9 @@ glottolog_family_name: Mongolic-Khitan
 glottolog_classification: "Mongolic-Khitan > Mongolic > Southern Periphery Mongolic > Shirongol > Baoanic > Bonan"
 wikipedia_url: "https://en.wikipedia.org/wiki/Bonan_language"
 translations:
+  - translation_iso: ara
+    name: اللغة بونان
+    auto: true
   - translation_iso: jpn
     name: バオアン語
   - translation_iso: kor

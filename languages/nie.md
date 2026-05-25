@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Bua-Kim-Day > Adamawa Bua > Riverine Bua > Bua-Lua > Niellim"
 wikipedia_url: "https://en.wikipedia.org/wiki/Niellim_language"
 translations:
+  - translation_iso: ara
+    name: نيليم
+    auto: true
   - translation_iso: jpn
     name: ニエリム語
   - translation_iso: zho

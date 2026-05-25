@@ -15,6 +15,9 @@ glottolog_family_name: Zaparoan
 glottolog_classification: "Zaparoan > Iquito-Arabela > Cahuarano-Iquito > Cahuarano"
 wikipedia_url: "https://en.wikipedia.org/wiki/Cahuarano_language"
 translations:
+  - translation_iso: ara
+    name: كاهوارانو
+    auto: true
   - translation_iso: jpn
     name: カワラノ語
   - translation_iso: zho

@@ -14,6 +14,9 @@ glottolog_family_name: Heibanic
 glottolog_classification: "Heibanic > West-Central Heibanic > Western Heibanic > Moro"
 wikipedia_url: "https://en.wikipedia.org/wiki/Moro_language"
 translations:
+  - translation_iso: ara
+    name: لغة مورو
+    auto: true
   - translation_iso: jpn
     name: モロ語
   - translation_iso: zho

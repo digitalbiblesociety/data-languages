@@ -14,6 +14,9 @@ glottolog_family_name: Kiwaian
 glottolog_classification: "Kiwaian > Waboda"
 wikipedia_url: "https://en.wikipedia.org/wiki/Waboda_language"
 translations:
+  - translation_iso: ara
+    name: لغة وابودا
+    auto: true
   - translation_iso: jpn
     name: ワボダ語
     auto: true

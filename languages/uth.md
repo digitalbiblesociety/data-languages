@@ -8,6 +8,9 @@ country_name: Nigeria
 status_id: null
 wikipedia_url: "https://en.wikipedia.org/wiki/Ut-Hun_language"
 translations:
+  - translation_iso: ara
+    name: أوت-هون
+    auto: true
   - translation_iso: jpn
     name: ドゥカ語
     auto: true

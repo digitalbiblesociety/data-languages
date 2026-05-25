@@ -15,6 +15,9 @@ glottolog_family_name: Nuclear-Macro-Je
 glottolog_classification: "Nuclear-Macro-Je > Maxakali-Borum > Borum"
 wikipedia_url: "https://en.wikipedia.org/wiki/Krenak_language"
 translations:
+  - translation_iso: ara
+    name: لغة كرينياك
+    auto: true
   - translation_iso: jpn
     name: クレナク語
     auto: true

@@ -16,6 +16,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Malayo-Chamic > Aceh-Chamic > Chamic > Cham > Western Cham"
 wikipedia_url: "https://en.wikipedia.org/wiki/Cham_language"
 translations:
+  - translation_iso: ara
+    name: الشام الغربية
+    auto: true
   - translation_iso: hin
     name: चाम भाषा
   - translation_iso: jpn

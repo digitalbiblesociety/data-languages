@@ -15,6 +15,9 @@ glottolog_family_name: Tai-Kadai
 glottolog_classification: "Tai-Kadai > Kam-Tai > Daic-Beic > Daic > Central-Southwestern Tai > Debao-Jingxi-Nung > Yang Zhuang"
 wikipedia_url: "https://en.wikipedia.org/wiki/Yang_Zhuang_language"
 translations:
+  - translation_iso: ara
+    name: تشوانغ يانغ
+    auto: true
   - translation_iso: jpn
     name: 徳靖チワン語
   - translation_iso: zho

@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Timor-Babar > Southwest Maluku > Luangic-Kisaric > Luangic > Leti (Indonesia)"
 wikipedia_url: "https://en.wikipedia.org/wiki/Leti_language"
 translations:
+  - translation_iso: ara
+    name: لغة يتي
+    auto: true
   - translation_iso: jpn
     name: レティ語
     auto: true

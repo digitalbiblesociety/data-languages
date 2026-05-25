@@ -14,6 +14,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > Meso Melanesian linkage > New Ireland-Northwest Solomonic linkage > St George linkage > Northwest Solomonic > Santa Isabel > East Santa Isabel > Gao"
 wikipedia_url: "https://en.wikipedia.org/wiki/Gao_language"
 translations:
+  - translation_iso: ara
+    name: غآو
+    auto: true
   - translation_iso: jpn
     name: ガオ語
     auto: true

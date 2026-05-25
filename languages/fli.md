@@ -15,6 +15,9 @@ glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > Biu-Mandara > South Biu-Mandara > Bataic > Gudeic > Gude-Jimi-Zizilivakan > Fali-Gude > Fali"
 wikipedia_url: "https://en.wikipedia.org/wiki/Fali_of_Mubi"
 translations:
+  - translation_iso: ara
+    name: الفالي
+    auto: true
   - translation_iso: jpn
     name: ファリ語
     auto: true

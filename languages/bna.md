@@ -14,6 +14,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Celebic > Greater Eastern Celebic > Eastern Celebic > Southeastern Celebic > Muna-Buton > Tukangbesi-Bonerate > Bonerate"
 wikipedia_url: "https://en.wikipedia.org/wiki/Bonerate_language"
 translations:
+  - translation_iso: ara
+    name: بونيريت
+    auto: true
   - translation_iso: jpn
     name: ボネラート語
     auto: true

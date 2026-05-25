@@ -15,6 +15,9 @@ glottolog_family_name: Pano-Tacanan
 glottolog_classification: "Pano-Tacanan > Panoan > Mainline Pano > Pano Nawa > Headwaters Pano > Cashinahua"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kashinawa_language"
 translations:
+  - translation_iso: ara
+    name: الكاشيناهوا
+    auto: true
   - translation_iso: jpn
     name: カシナワ語
   - translation_iso: zho

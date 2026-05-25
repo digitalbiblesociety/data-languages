@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Southeast Solomonic > Guadalcanal-Nggelic > Nuclear Guadalcanal-Nggelic > North and West Guadalcanal > Malango"
 wikipedia_url: "https://en.wikipedia.org/wiki/Malango_language"
 translations:
+  - translation_iso: ara
+    name: لغة مالانجو
+    auto: true
   - translation_iso: jpn
     name: マランゴ語
     auto: true

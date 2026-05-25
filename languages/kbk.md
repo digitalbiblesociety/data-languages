@@ -15,6 +15,9 @@ glottolog_family_name: Koiarian
 glottolog_classification: "Koiarian > Koiaric > Koita-Koiari > Grass Koiari"
 wikipedia_url: "https://en.wikipedia.org/wiki/Grass_Koiari_language"
 translations:
+  - translation_iso: ara
+    name: لغة كويري العشبية
+    auto: true
   - translation_iso: jpn
     name: グラス・コイアリ語
     auto: true

@@ -14,6 +14,9 @@ glottolog_family_name: Mande
 glottolog_classification: "Mande > Western Mande > Northwestern Mande > Duun-Bobo > Duun-Jo > Duun-Seenku > Duun > Samogogouanic > Kpeego"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kpee_language"
 translations:
+  - translation_iso: ara
+    name: الكبيغو
+    auto: true
   - translation_iso: jpn
     name: ペエゴ語
     auto: true

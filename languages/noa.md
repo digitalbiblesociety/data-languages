@@ -15,6 +15,9 @@ glottolog_family_name: Chocoan
 glottolog_classification: "Chocoan > Woun Meu"
 wikipedia_url: "https://en.wikipedia.org/wiki/Wounaan_language"
 translations:
+  - translation_iso: ara
+    name: ووون ميو
+    auto: true
   - translation_iso: jpn
     name: ワウン・メウ語
     auto: true

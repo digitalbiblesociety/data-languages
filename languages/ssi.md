@@ -15,6 +15,9 @@ glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Indo-Aryan > Middle-Modern Indo-Aryan > Continental Indo-Aryan > Indo-Aryan Northwestern zone > Sindhi-Lahnda > Greater Panjabic > Eastern Panjabic > Sansi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Sansi_language"
 translations:
+  - translation_iso: ara
+    name: اللغة سانسي
+    auto: true
   - translation_iso: jpn
     name: サンシボリ語
     auto: true

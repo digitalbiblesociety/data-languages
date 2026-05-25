@@ -14,6 +14,9 @@ glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Burmo-Qiangic > Lolo-Burmese > Loloish > Ni-Li-Kazhouish > Southeastern Ngwi > Riverine Phula > Upriver Riverine Phula > Pholic > Alo Phola"
 translations:
+  - translation_iso: ara
+    name: لغة ألو فولا
+    auto: true
   - translation_iso: jpn
     name: アロフォラ語
     auto: true

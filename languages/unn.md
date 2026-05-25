@@ -15,6 +15,9 @@ glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > Ganaic > Ganai"
 wikipedia_url: "https://en.wikipedia.org/wiki/Gunaikurnai_language"
 translations:
+  - translation_iso: ara
+    name: كورناي
+    auto: true
   - translation_iso: jpn
     name: ガナイ語
   - translation_iso: zho

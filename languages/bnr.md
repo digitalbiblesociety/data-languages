@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > North and Central Vanuatu > Northern Vanuatu > Espiritu Santo > Nuclear Santo > East Santo > Southeast Santo > Farafi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Butmas_language"
 translations:
+  - translation_iso: ara
+    name: بوتماس تور
+    auto: true
   - translation_iso: jpn
     name: ブトマス・トゥル語
     auto: true

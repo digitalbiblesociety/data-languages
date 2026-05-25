@@ -8,6 +8,9 @@ latitude: -10.9906
 longitude: 39.5133
 wikipedia_url: "https://en.wikipedia.org/wiki/Matambwe_language"
 translations:
+  - translation_iso: ara
+    name: ماتامبوي
+    auto: true
   - translation_iso: jpn
     name: マタンブウェ語
     auto: true

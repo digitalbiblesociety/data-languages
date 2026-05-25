@@ -14,6 +14,9 @@ glottolog_family_id: utoa1244
 glottolog_family_name: Uto-Aztecan
 glottolog_classification: "Uto-Aztecan > Southern Uto-Aztecan > Tepiman > Tepehuan > Southern Tepehuan > Southwestern Tepehuan"
 translations:
+  - translation_iso: ara
+    name: تيبيهوان الجنوبية الغربية
+    auto: true
   - translation_iso: jpn
     name: 南西テペフアン語
     auto: true

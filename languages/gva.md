@@ -15,6 +15,9 @@ glottolog_family_name: Lengua-Mascoy
 glottolog_classification: "Lengua-Mascoy > Eastern Enlhet-Enenlhet > Guaná (Paraguay)"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kaskih%C3%A1_language"
 translations:
+  - translation_iso: ara
+    name: غوآنآ
+    auto: true
   - translation_iso: jpn
     name: グアナ語
     auto: true

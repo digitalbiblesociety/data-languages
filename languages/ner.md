@@ -15,6 +15,9 @@ glottolog_family_name: Konda-Yahadian
 glottolog_classification: "Konda-Yahadian > Yahadian"
 wikipedia_url: "https://en.wikipedia.org/wiki/Yahadian_language"
 translations:
+  - translation_iso: ara
+    name: ياهاديان
+    auto: true
   - translation_iso: jpn
     name: ヤハディアン語
     auto: true

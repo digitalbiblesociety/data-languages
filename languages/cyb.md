@@ -12,6 +12,9 @@ longitude: -65.48219
 glottocode: cayu1262
 wikipedia_url: "https://en.wikipedia.org/wiki/Cayubaba_language"
 translations:
+  - translation_iso: ara
+    name: كايوباپا
+    auto: true
   - translation_iso: jpn
     name: カユババ語
     auto: true

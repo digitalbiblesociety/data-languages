@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > North and Central Vanuatu > Central Vanuatu > Ambrym > Orkon-West Ambrym > West Ambrym > Southwest Ambrym > Daakie"
 wikipedia_url: "https://en.wikipedia.org/wiki/Port_Vato_language"
 translations:
+  - translation_iso: ara
+    name: اللغة بورت فاتو
+    auto: true
   - translation_iso: jpn
     name: ポート・ヴァト語
   - translation_iso: zho

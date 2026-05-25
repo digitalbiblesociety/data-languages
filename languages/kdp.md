@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Benue-Congo Plateau > Ninzic > Kanufi-Ninkyob-Angan > Kaningdon-Nindem"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ninkyob-Nindem_language"
 translations:
+  - translation_iso: ara
+    name: لغة كانينغدون نيندم
+    auto: true
   - translation_iso: jpn
     name: カニングドン・ニンデム語
     auto: true

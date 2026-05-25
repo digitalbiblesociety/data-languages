@@ -14,6 +14,9 @@ glottolog_family_id: utoa1244
 glottolog_family_name: Uto-Aztecan
 glottolog_classification: "Uto-Aztecan > Southern Uto-Aztecan > Corachol-Aztecan > Aztec > Western Nahuatl > Central Nahuatl > Tlaxcala-Southeastern Puebla Nahuatl > Tlaxcala-Puebla-Pastoral Nahuatl > Santa María La Alta Nahuatl"
 translations:
+  - translation_iso: ara
+    name: سانتا ماريا لا ألتا ناهواتل
+    auto: true
   - translation_iso: jpn
     name: サンタ・マリア・ラ・アルタ・ナワトル語
     auto: true

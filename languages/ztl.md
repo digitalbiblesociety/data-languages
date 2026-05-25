@@ -15,6 +15,9 @@ glottolog_family_name: Otomanguean
 glottolog_classification: "Otomanguean > Eastern Otomanguean > Popoloca-Zapotecan > Zapotecan > Zapotec > Core Zapotec > Narrow Core Zapotec > Central Core Zapotec > Cisyautepequeño > Lapaguía-Guivini Zapotec"
 wikipedia_url: "https://en.wikipedia.org/wiki/Lapagu%C3%ADa_Zapotec"
 translations:
+  - translation_iso: ara
+    name: زابوتيك لاباغويا-غويفيني
+    auto: true
   - translation_iso: jpn
     name: ラパグア-グイビニ・サポテク語
     auto: true

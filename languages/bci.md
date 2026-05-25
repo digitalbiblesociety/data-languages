@@ -16,6 +16,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Kwa Volta-Congo > Nyo > Potou-Tano > Tano > Central Tano > Bia > Northern Bia > Baoulé"
 wikipedia_url: "https://en.wikipedia.org/wiki/Baoul%C3%A9_language"
 translations:
+  - translation_iso: ara
+    name: اللغة باولي
+    auto: true
   - translation_iso: jpn
     name: バウレ語
   - translation_iso: zho

@@ -8,6 +8,9 @@ country_name: Czechia
 status_id: null
 wikipedia_url: "https://en.wikipedia.org/wiki/Knaanic_language"
 translations:
+  - translation_iso: ara
+    name: الكناني
+    auto: true
   - translation_iso: jpn
     name: クナアン語
   - translation_iso: kor

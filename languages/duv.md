@@ -15,6 +15,9 @@ glottolog_family_name: Lakes Plain
 glottolog_classification: "Lakes Plain > Tariku > Duvle"
 wikipedia_url: "https://en.wikipedia.org/wiki/Duvle_language"
 translations:
+  - translation_iso: ara
+    name: دوفلي
+    auto: true
   - translation_iso: jpn
     name: ドゥヴレ語
     auto: true

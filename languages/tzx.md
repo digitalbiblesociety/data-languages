@@ -14,6 +14,9 @@ glottolog_family_name: Lower Sepik
 glottolog_classification: "Lower Sepik > Karawarian > Tabriak"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tabriak_language"
 translations:
+  - translation_iso: ara
+    name: تابرياك
+    auto: true
   - translation_iso: jpn
     name: カラワリ語
     auto: true

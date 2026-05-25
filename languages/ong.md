@@ -15,6 +15,9 @@ glottolog_family_name: Nuclear Torricelli
 glottolog_classification: "Nuclear Torricelli > Wapei-Palei > Central Torricelli > Wapeic > Au-Olo-Elkei > Olo-Elkei > Olo"
 wikipedia_url: "https://en.wikipedia.org/wiki/Olo_language"
 translations:
+  - translation_iso: ara
+    name: اللغة أولو
+    auto: true
   - translation_iso: jpn
     name: オロ語
   - translation_iso: zho

@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > South Halmahera-West New Guinea > Waropen"
 wikipedia_url: "https://en.wikipedia.org/wiki/Waropen_language"
 translations:
+  - translation_iso: ara
+    name: واروپين
+    auto: true
   - translation_iso: jpn
     name: ワロペン語
     auto: true

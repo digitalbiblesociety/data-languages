@@ -7,6 +7,9 @@ country_id: AU
 country_name: Australia
 status_id: 8b
 translations:
+  - translation_iso: ara
+    name: اللغة يارلويندي
+    auto: true
   - translation_iso: jpn
     name: ヤルユアンディ語
     auto: true

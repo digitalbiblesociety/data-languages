@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Gola"
 wikipedia_url: "https://en.wikipedia.org/wiki/Gola_language"
 translations:
+  - translation_iso: ara
+    name: غولآ
+    auto: true
   - translation_iso: jpn
     name: ゴラ語
   - translation_iso: zho

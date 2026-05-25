@@ -15,6 +15,9 @@ glottolog_family_name: Mande
 glottolog_classification: "Mande > Western Mande > Manding-Kpelle > Central Mande > Manding-Jogo > Manding-Vai > Manding-Mokole > Nuclear Mokole > Kuranko"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kuranko_language"
 translations:
+  - translation_iso: ara
+    name: لغة كورانكو
+    auto: true
   - translation_iso: jpn
     name: クランコ語
     auto: true

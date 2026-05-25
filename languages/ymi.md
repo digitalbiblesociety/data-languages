@@ -15,6 +15,9 @@ glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Burmo-Qiangic > Lolo-Burmese > Loloish > Ni-Li-Kazhouish > Southeastern Ngwi > Highland Phula > Muji > Moji"
 wikipedia_url: "https://en.wikipedia.org/wiki/Moji_language"
 translations:
+  - translation_iso: ara
+    name: اللغة موجي
+    auto: true
   - translation_iso: jpn
     name: モジ語
     auto: true

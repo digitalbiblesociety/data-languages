@@ -15,6 +15,9 @@ glottolog_family_name: Central Sudanic
 glottolog_classification: "Central Sudanic > Lenduic > Bale > Lendu"
 wikipedia_url: "https://en.wikipedia.org/wiki/Lendu_language"
 translations:
+  - translation_iso: ara
+    name: لغة يندو
+    auto: true
   - translation_iso: jpn
     name: レンドュ語
   - translation_iso: zho

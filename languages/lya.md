@@ -15,6 +15,9 @@ glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Bodic > Bodish > Early Old Tibetan > Middle Old Tibetan > Late Old Tibetan > Southern Tibetic > Dzongkhic > Nuclear Dzongkhic > Layakha"
 wikipedia_url: "https://en.wikipedia.org/wiki/Laya_dialect"
 translations:
+  - translation_iso: ara
+    name: لغة اياكها
+    auto: true
   - translation_iso: jpn
     name: ラヤ語
   - translation_iso: zho

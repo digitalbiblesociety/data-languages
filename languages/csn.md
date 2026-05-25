@@ -14,6 +14,9 @@ glottolog_family_name: Sign Language
 glottolog_classification: "Sign Language > L1 Sign Language > LSFic > ASLic > West-Central South American Sign > Colombian Sign Language"
 wikipedia_url: "https://en.wikipedia.org/wiki/Colombian_Sign_Language"
 translations:
+  - translation_iso: ara
+    name: لغة الإشارة الكولومبية
+    auto: true
   - translation_iso: hin
     name: कोलंबियाई सांकेतिक भाषा
   - translation_iso: jpn

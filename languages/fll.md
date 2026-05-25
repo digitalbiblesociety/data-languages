@@ -14,6 +14,9 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Unclassified Volta-Congo > Adamawa Fali > North Fali"
 translations:
+  - translation_iso: ara
+    name: الفالي
+    auto: true
   - translation_iso: jpn
     name: 北ファリ語
     auto: true

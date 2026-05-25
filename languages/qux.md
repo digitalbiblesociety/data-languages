@@ -15,6 +15,9 @@ glottolog_family_name: Quechuan
 glottolog_classification: "Quechuan > Quechua I > Yauyosic > Yauyos Quechua"
 wikipedia_url: "https://en.wikipedia.org/wiki/Yauyos_Quechua"
 translations:
+  - translation_iso: ara
+    name: اللغة كويتشوا ياويوس
+    auto: true
   - translation_iso: jpn
     name: ヤウヨスケチュア語
     auto: true

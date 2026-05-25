@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Gur > Central Gur > Southern Central Gur > Lobiri-Jaane > Lobi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Lobi_language"
 translations:
+  - translation_iso: ara
+    name: لغة وبي
+    auto: true
   - translation_iso: jpn
     name: ロビ語
   - translation_iso: zho

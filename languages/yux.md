@@ -15,6 +15,9 @@ glottolog_family_name: Yukaghir
 glottolog_classification: "Yukaghir > Kolymic > Southern Yukaghir"
 wikipedia_url: "https://en.wikipedia.org/wiki/Southern_Yukaghir_language"
 translations:
+  - translation_iso: ara
+    name: اللغة يوكاغيز الجنوبية
+    auto: true
   - translation_iso: jpn
     name: コリマ・ユカギール語
   - translation_iso: kor

@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Gbaya-Manza-Ngbaka > Gbaya Oriental > Gbanu-Manza-Ngbaka > Manza-Ngbaka > Ngbaka Minagende"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ngbaka_Minagende_language"
 translations:
+  - translation_iso: ara
+    name: نجبكا
+    auto: true
   - translation_iso: jpn
     name: ングバカ・バヤ語
   - translation_iso: zho

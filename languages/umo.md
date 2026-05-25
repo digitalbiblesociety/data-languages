@@ -15,6 +15,9 @@ glottolog_family_name: Bororoan
 glottolog_classification: "Bororoan > Umotína"
 wikipedia_url: "https://en.wikipedia.org/wiki/Umot%C3%ADna_language"
 translations:
+  - translation_iso: ara
+    name: أوموتينا
+    auto: true
   - translation_iso: jpn
     name: バルバドス語
     auto: true

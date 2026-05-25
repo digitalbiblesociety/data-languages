@@ -15,6 +15,9 @@ glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > Biu-Mandara > South Biu-Mandara > Dabaic > Mbedam"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mbudum_language"
 translations:
+  - translation_iso: ara
+    name: مبوندم
+    auto: true
   - translation_iso: jpn
     name: ムブドゥム語
     auto: true

@@ -15,6 +15,9 @@ glottolog_family_name: Austroasiatic
 glottolog_classification: "Austroasiatic > Bahnaric > North Bahnaric > Kayong-Jeh-Halang > Unclassified Kayong-Jeh-Halang > Halang Doan"
 wikipedia_url: "https://en.wikipedia.org/wiki/Duan_language_(Austroasiatic)"
 translations:
+  - translation_iso: ara
+    name: هالانغ دوان
+    auto: true
   - translation_iso: jpn
     name: ハラング・ドアン語
     auto: true

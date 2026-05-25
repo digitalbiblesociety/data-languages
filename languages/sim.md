@@ -15,6 +15,9 @@ glottolog_family_name: Sepik
 glottolog_classification: "Sepik > Nukuma > Kwanga-Mende > Mende (Papua New Guinea)"
 wikipedia_url: "https://en.wikipedia.org/wiki/Seim_language"
 translations:
+  - translation_iso: ara
+    name: اللغة ميندي (بابوا غينيا الجديدة)
+    auto: true
   - translation_iso: jpn
     name: セイム語
   - translation_iso: zho

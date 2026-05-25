@@ -13,6 +13,9 @@ glottolog_family_id: nort2923
 glottolog_family_name: North Halmahera
 glottolog_classification: "North Halmahera > Northern North Halmahera > Sahuan > Ibu"
 translations:
+  - translation_iso: ara
+    name: إيبو
+    auto: true
   - translation_iso: jpn
     name: イブ語
     auto: true

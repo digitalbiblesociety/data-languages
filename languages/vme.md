@@ -14,6 +14,9 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Timor-Babar > Southwest Maluku > Babar > South Babar > Masela-South Babar > East Masela"
 translations:
+  - translation_iso: ara
+    name: جزر ماسيلا الشرقية
+    auto: true
   - translation_iso: jpn
     name: 東マセラ語
   - translation_iso: zho

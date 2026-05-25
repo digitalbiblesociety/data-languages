@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > North and Central Vanuatu > Central Vanuatu > Malakula > Western Malakula linkage > Peripheral Western Malakula > Southwestern Malakula > Southwest Coastal Malekula > Na'ahai"
 wikipedia_url: "https://en.wikipedia.org/wiki/Malfaxal_language"
 translations:
+  - translation_iso: ara
+    name: لغة مالفاخال
+    auto: true
   - translation_iso: jpn
     name: マルファクサル語
     auto: true

@@ -15,6 +15,9 @@ glottolog_family_name: Algic
 glottolog_classification: "Algic > Algonquian-Blackfoot > Algonquian > Arapahoic > Nawathinehena"
 wikipedia_url: "https://en.wikipedia.org/wiki/Nawathinehena_language"
 translations:
+  - translation_iso: ara
+    name: ناواثينيهينا
+    auto: true
   - translation_iso: jpn
     name: ナワティネヘナ語
     auto: true

@@ -15,6 +15,9 @@ glottolog_family_name: Tai-Kadai
 glottolog_classification: "Tai-Kadai > Kadaic > Southwestern Kra > Western Kra > Lachic > Lachi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Lachi_language"
 translations:
+  - translation_iso: ara
+    name: لاتشي
+    auto: true
   - translation_iso: jpn
     name: ラチ語
   - translation_iso: zho

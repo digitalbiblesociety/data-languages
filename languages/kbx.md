@@ -15,6 +15,9 @@ glottolog_family_name: Keram
 glottolog_classification: "Keram > East Keram > Ap Ma"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kambot_language"
 translations:
+  - translation_iso: ara
+    name: لغة آب ما
+    auto: true
   - translation_iso: jpn
     name: アップ・マ語
     auto: true

@@ -15,6 +15,9 @@ glottolog_family_name: Tucanoan
 glottolog_classification: "Tucanoan > Eastern Tucanoan > Eastern Eastern Tucanoan > Eastern Eastern Tucanoan I > Tucano"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tucano_language"
 translations:
+  - translation_iso: ara
+    name: توكانو
+    auto: true
   - translation_iso: jpn
     name: トゥカノ語
   - translation_iso: zho

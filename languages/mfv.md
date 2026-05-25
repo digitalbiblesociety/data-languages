@@ -16,6 +16,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > North-Central Atlantic > Central Atlantic > Bak > Joola-Manjaku > Manjaku-Mankanya-Pepel > Cur-Bok-Cotier > Mandjak"
 wikipedia_url: "https://en.wikipedia.org/wiki/Manjak_language"
 translations:
+  - translation_iso: ara
+    name: لغة ماندجاك
+    auto: true
   - translation_iso: jpn
     name: マンジャク語
   - translation_iso: zho

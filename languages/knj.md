@@ -15,6 +15,9 @@ glottolog_family_name: Mayan
 glottolog_classification: "Mayan > Core Mayan > Western Mayan > Kanjobalan-Chujean > Kanjobalan > Kanjobal-Jacaltec > Akateko"
 wikipedia_url: "https://en.wikipedia.org/wiki/Akatek_language"
 translations:
+  - translation_iso: ara
+    name: لغة كانجوبال الغربية
+    auto: true
   - translation_iso: jpn
     name: アカテク語
   - translation_iso: kor

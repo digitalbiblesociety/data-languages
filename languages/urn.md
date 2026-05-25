@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Tanimbar-Bomberai > Nuclear Tanimbar-Bomberai > Yamdena-Onin > Oninic > Uruangnirin"
 wikipedia_url: "https://en.wikipedia.org/wiki/Uruangnirin_language"
 translations:
+  - translation_iso: ara
+    name: أورواننجيرين
+    auto: true
   - translation_iso: jpn
     name: ファウル語
     auto: true

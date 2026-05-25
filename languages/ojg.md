@@ -15,6 +15,9 @@ glottolog_family_name: Algic
 glottolog_classification: "Algic > Algonquian-Blackfoot > Algonquian > Eastern Great Lakes Algonquian > Ojibwa-Potawatomi > Ojibwa > Nuclear Ojibwe > Central-Eastern-Southwestern Ojibwa > Eastern Ojibwa"
 wikipedia_url: "https://en.wikipedia.org/wiki/Eastern_Ojibwa_language"
 translations:
+  - translation_iso: ara
+    name: اللغة أوجيبوا الشرقية
+    auto: true
   - translation_iso: jpn
     name: 東部オジブワ語
   - translation_iso: zho

@@ -15,6 +15,9 @@ glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Madang > Croisilles > Amaimon"
 wikipedia_url: "https://en.wikipedia.org/wiki/Amaimon_language"
 translations:
+  - translation_iso: ara
+    name: لغة أمايمون
+    auto: true
   - translation_iso: jpn
     name: アマイモン語
     auto: true

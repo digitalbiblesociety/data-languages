@@ -15,6 +15,9 @@ glottolog_family_name: Mirndi
 glottolog_classification: "Mirndi > Yirram > Jaminjung-Ngaliwurru"
 wikipedia_url: "https://en.wikipedia.org/wiki/Jaminjung_language"
 translations:
+  - translation_iso: ara
+    name: دجامينجونج
+    auto: true
   - translation_iso: jpn
     name: ジャミンジュング語
   - translation_iso: zho

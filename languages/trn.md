@@ -15,6 +15,9 @@ glottolog_family_name: Arawakan
 glottolog_classification: "Arawakan > Southern Maipuran > Bolivian Arawakan > Mojeno-Paunaca > Mojeño > Trinitario-Javeriano-Loretano"
 wikipedia_url: "https://en.wikipedia.org/wiki/Trinitario_language"
 translations:
+  - translation_iso: ara
+    name: تريينيتاريو
+    auto: true
   - translation_iso: jpn
     name: モホス語
     auto: true

@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > Central-Western Bantu > West-Coastal Bantu > Nzadic > Lweric > Dingic > Loange-Atlantic > KLC Extended > Nsong-Mpiin-Ngong > Nsong-Mpiin"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tsong_language"
 translations:
+  - translation_iso: ara
+    name: اللغة سونجو
+    auto: true
   - translation_iso: jpn
     name: エヤンシ語
     auto: true

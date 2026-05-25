@@ -15,6 +15,9 @@ glottolog_family_name: Salishan
 glottolog_classification: "Salishan > Bella Coola"
 wikipedia_url: "https://en.wikipedia.org/wiki/Nuxalk_language"
 translations:
+  - translation_iso: ara
+    name: بيلا كولا
+    auto: true
   - translation_iso: hin
     name: नूखल्क भाषा
   - translation_iso: jpn

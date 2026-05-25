@@ -12,6 +12,9 @@ longitude: -37.01665
 glottocode: pank1250
 wikipedia_url: "https://en.wikipedia.org/wiki/Pankarar%C3%BA_language"
 translations:
+  - translation_iso: ara
+    name: اللغة بانكاراري
+    auto: true
   - translation_iso: jpn
     name: パンカラル語
     auto: true

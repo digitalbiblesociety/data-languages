@@ -15,6 +15,9 @@ glottolog_family_name: Austroasiatic
 glottolog_classification: "Austroasiatic > Nicobaric > Nuclear Nicobaric > Central Nicobar > Southern Nicobarese"
 wikipedia_url: "https://en.wikipedia.org/wiki/Southern_Nicobarese_language"
 translations:
+  - translation_iso: ara
+    name: جنوب نيكوبارسي
+    auto: true
   - translation_iso: hin
     name: दक्षिण निकोबारी भाषा
   - translation_iso: jpn

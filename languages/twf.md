@@ -15,6 +15,9 @@ glottolog_family_name: Kiowa-Tanoan
 glottolog_classification: "Kiowa-Tanoan > Tiwa-Piro > Tiwa > Taos-Picuris > Taos Northern Tiwa"
 wikipedia_url: "https://en.wikipedia.org/wiki/Taos_language"
 translations:
+  - translation_iso: ara
+    name: توا الشمالية
+    auto: true
   - translation_iso: jpn
     name: タオス語
   - translation_iso: zho

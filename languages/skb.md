@@ -15,6 +15,9 @@ glottolog_family_name: Tai-Kadai
 glottolog_classification: "Tai-Kadai > Kam-Tai > Daic-Beic > Daic > Northern Daic-Sek > Saek"
 wikipedia_url: "https://en.wikipedia.org/wiki/Saek_language"
 translations:
+  - translation_iso: ara
+    name: اللغة الساك
+    auto: true
   - translation_iso: jpn
     name: 石語
   - translation_iso: kor

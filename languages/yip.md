@@ -15,6 +15,9 @@ glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Burmo-Qiangic > Lolo-Burmese > Loloish > Pholo"
 wikipedia_url: "https://en.wikipedia.org/wiki/Pholo_language"
 translations:
+  - translation_iso: ara
+    name: اللغة فولو
+    auto: true
   - translation_iso: jpn
     name: フォロ語
     auto: true

@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > South Halmahera-West New Guinea > Raja Ampat-South Halmahera > South Halmahera > Gebeic > Central-Eastern South Halmahera > Gamrange > Southern Gamrange > Patani"
 wikipedia_url: "https://en.wikipedia.org/wiki/Patani_language"
 translations:
+  - translation_iso: ara
+    name: اللغة باتاني
+    auto: true
   - translation_iso: jpn
     name: パタニ語
   - translation_iso: zho

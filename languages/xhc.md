@@ -8,6 +8,9 @@ country_name: Unknown or Invalid Territory
 status_id: null
 wikipedia_url: "https://en.wikipedia.org/wiki/Hunnic_language"
 translations:
+  - translation_iso: ara
+    name: هوننيك
+    auto: true
   - translation_iso: jpn
     name: フン語
   - translation_iso: kor

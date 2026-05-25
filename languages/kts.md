@@ -14,6 +14,9 @@ glottolog_family_id: nucl1709
 glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Asmat-Awyu-Ok > Awyu-Ok > Ok-Oksapmin > Ok > Lowland Ok > Division A Lowland Ok > South Muyu"
 translations:
+  - translation_iso: ara
+    name: موي الجنوبية
+    auto: true
   - translation_iso: jpn
     name: 南ムユ語
     auto: true

@@ -14,6 +14,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > East Bantu > Sabi > Malungu-Central Sabi > Bwile"
 wikipedia_url: "https://en.wikipedia.org/wiki/Bwile_language"
 translations:
+  - translation_iso: ara
+    name: بوايلي
+    auto: true
   - translation_iso: jpn
     name: ブワイレ語
     auto: true

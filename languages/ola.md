@@ -15,6 +15,9 @@ glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Bodic > Bodish > Early Old Tibetan > Middle Old Tibetan > Late Old Tibetan > Central Tibetan > South-Western Tibetic > Walungge"
 wikipedia_url: "https://en.wikipedia.org/wiki/Walungge_language"
 translations:
+  - translation_iso: ara
+    name: اللغة والونغي
+    auto: true
   - translation_iso: jpn
     name: ワルングゲ語
     auto: true

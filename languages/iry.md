@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > North Mangyan > Iraya"
 wikipedia_url: "https://en.wikipedia.org/wiki/Iraya_language"
 translations:
+  - translation_iso: ara
+    name: إيرايا
+    auto: true
   - translation_iso: jpn
     name: イラヤ語
     auto: true

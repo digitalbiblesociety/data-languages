@@ -15,6 +15,9 @@ glottolog_family_name: South Omotic
 glottolog_classification: "South Omotic > AHK > Hamer-Karo > Hamer-Banna"
 wikipedia_url: "https://en.wikipedia.org/wiki/Hamer_language"
 translations:
+  - translation_iso: ara
+    name: لغة هامر-بانا
+    auto: true
   - translation_iso: jpn
     name: ハマー語
   - translation_iso: zho

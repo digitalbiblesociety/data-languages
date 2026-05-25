@@ -15,6 +15,9 @@ glottolog_family_name: Lakes Plain
 glottolog_classification: "Lakes Plain > Tariku > Central Tariku > Iau"
 wikipedia_url: "https://en.wikipedia.org/wiki/Iau_language"
 translations:
+  - translation_iso: ara
+    name: ياو
+    auto: true
   - translation_iso: jpn
     name: イアウ語
     auto: true

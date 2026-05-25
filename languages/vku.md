@@ -15,6 +15,9 @@ glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > South-West Pama-Nyungan > Pilbara > Ngayarda > Central Ngayarda > Yindjibarndi-Kurrama > Kurrama"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kurrama_language"
 translations:
+  - translation_iso: ara
+    name: كوراما
+    auto: true
   - translation_iso: jpn
     name: グラマ語
     auto: true

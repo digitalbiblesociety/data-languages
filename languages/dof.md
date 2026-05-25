@@ -14,6 +14,9 @@ glottolog_family_name: Mailuan
 glottolog_classification: "Mailuan > Domu"
 wikipedia_url: "https://en.wikipedia.org/wiki/Domu_language"
 translations:
+  - translation_iso: ara
+    name: دومو
+    auto: true
   - translation_iso: jpn
     name: ドム語
     auto: true

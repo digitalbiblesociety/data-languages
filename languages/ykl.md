@@ -14,6 +14,9 @@ glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Burmo-Qiangic > Lolo-Burmese > Loloish > Ni-Li-Kazhouish > Southeastern Ngwi > Highland Phula > Phowa > Hlepho-Phukha > Khlula-Zokhuo > Khlula"
 wikipedia_url: "https://en.wikipedia.org/wiki/Khlula_language"
 translations:
+  - translation_iso: ara
+    name: اللغة خلولا
+    auto: true
   - translation_iso: jpn
     name: クルラ語
     auto: true

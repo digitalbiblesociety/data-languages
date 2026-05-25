@@ -15,6 +15,9 @@ glottolog_family_name: Great Andamanese
 glottolog_classification: "Great Andamanese > South Great Andamanese > Akabea"
 wikipedia_url: "https://en.wikipedia.org/wiki/Akabea"
 translations:
+  - translation_iso: ara
+    name: لغة آكا-بيا
+    auto: true
   - translation_iso: hin
     name: अका बिया भाषा
   - translation_iso: jpn

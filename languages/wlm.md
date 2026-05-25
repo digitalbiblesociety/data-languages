@@ -9,6 +9,9 @@ country_name: United Kingdom
 status_id: null
 wikipedia_url: "https://en.wikipedia.org/wiki/Middle_Welsh"
 translations:
+  - translation_iso: ara
+    name: ميددلي ويلسه
+    auto: true
   - translation_iso: jpn
     name: 中期ウェールズ語
   - translation_iso: zho

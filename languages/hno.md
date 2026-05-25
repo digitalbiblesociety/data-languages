@@ -16,6 +16,9 @@ glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Indo-Aryan > Middle-Modern Indo-Aryan > Continental Indo-Aryan > Indo-Aryan Northwestern zone > Sindhi-Lahnda > Greater Panjabic > Hindko-Siraiki > Hindko > Northern Hindko"
 wikipedia_url: "https://en.wikipedia.org/wiki/Northern_Hindko_language"
 translations:
+  - translation_iso: ara
+    name: لغة هندكو الشمالية
+    auto: true
   - translation_iso: jpn
     name: ノーザン・ヒンドコー語
     auto: true

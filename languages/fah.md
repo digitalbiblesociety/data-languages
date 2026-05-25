@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Unclassified Benue-Congo > Baissa Fali"
 wikipedia_url: "https://en.wikipedia.org/wiki/Fali_of_Baissa"
 translations:
+  - translation_iso: ara
+    name: فالي بايسا
+    auto: true
   - translation_iso: jpn
     name: バイッサ・ファリ語
     auto: true

@@ -15,6 +15,9 @@ glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Indo-Aryan > Middle-Modern Indo-Aryan > Continental Indo-Aryan > Midlands Indo-Aryan > Shaurasenic > Indo-Aryan Central zone > Western Hindi > Bundeli-Bharia > Bundeli"
 wikipedia_url: "https://en.wikipedia.org/wiki/Bundeli_language"
 translations:
+  - translation_iso: ara
+    name: بونديلي
+    auto: true
   - translation_iso: hin
     name: बुंदेली भाषा
   - translation_iso: jpn

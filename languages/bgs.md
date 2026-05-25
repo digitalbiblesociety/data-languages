@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Greater Central Philippine > Manobo > Central and Southern Manobo > South Manobo > Tagabawa"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tagabawa_language"
 translations:
+  - translation_iso: ara
+    name: تاجابوا
+    auto: true
   - translation_iso: jpn
     name: タガバワ語
     auto: true

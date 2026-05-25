@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Nunusaku > Three Rivers > Amalumute > Northwest Seram > Saleman"
 wikipedia_url: "https://en.wikipedia.org/wiki/Saleman_language"
 translations:
+  - translation_iso: ara
+    name: سالمان
+    auto: true
   - translation_iso: jpn
     name: サワイ語
     auto: true

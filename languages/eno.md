@@ -14,6 +14,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Sumatran > Enggano"
 wikipedia_url: "https://en.wikipedia.org/wiki/Enggano_language"
 translations:
+  - translation_iso: ara
+    name: الإنجانو
+    auto: true
   - translation_iso: jpn
     name: エンガーノ語
     auto: true

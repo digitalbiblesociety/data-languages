@@ -8,6 +8,9 @@ country_id: IN
 country_name: India
 status_id: null
 translations:
+  - translation_iso: ara
+    name: اللغة مانيبوري القديمة
+    auto: true
   - translation_iso: hin
     name: प्राचीन मणिपुरी भाषा
   - translation_iso: jpn

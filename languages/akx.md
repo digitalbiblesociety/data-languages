@@ -15,6 +15,9 @@ glottolog_family_name: Great Andamanese
 glottolog_classification: "Great Andamanese > North Andamanese-Akakede > Akakede"
 wikipedia_url: "https://en.wikipedia.org/wiki/Akakede"
 translations:
+  - translation_iso: ara
+    name: لغة آكا-كيدي
+    auto: true
   - translation_iso: jpn
     name: アカケデ語
     auto: true

@@ -15,6 +15,9 @@ glottolog_family_name: Mayan
 glottolog_classification: "Mayan > Core Mayan > Yucatecan > Nuclear Yucatecan > Yucatec-Lacandon > Lacandon"
 wikipedia_url: "https://en.wikipedia.org/wiki/Lacandon_language"
 translations:
+  - translation_iso: ara
+    name: لاكاندون
+    auto: true
   - translation_iso: jpn
     name: ラカンドン語
   - translation_iso: kor

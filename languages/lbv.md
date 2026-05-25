@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > Meso Melanesian linkage > New Ireland-Northwest Solomonic linkage > Madak linkage > Lavatbura-Lamusong"
 wikipedia_url: "https://en.wikipedia.org/wiki/Lavatbura-Lamusong_language"
 translations:
+  - translation_iso: ara
+    name: لافاتبورا-لاموسونج
+    auto: true
   - translation_iso: jpn
     name: ラヴァットブラ・ラムソン語
   - translation_iso: zho

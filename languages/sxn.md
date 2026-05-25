@@ -16,6 +16,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Sangiric-Minahasan > Sangiric > Northern Sangiric > Sangil-Sangir > Sangir"
 wikipedia_url: "https://en.wikipedia.org/wiki/Sangir_language"
 translations:
+  - translation_iso: ara
+    name: سانغير
+    auto: true
   - translation_iso: jpn
     name: サンギル語
   - translation_iso: zho

@@ -15,6 +15,9 @@ glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > West Chadic > West Chadic A > West Chadic A.2-3 > West Chadic A.2 > Boleic > Nuclear Boleic > Galambu-Bele > Kirfi-Bele > Ngamo-Bele > Bolanci-Bele > Bole"
 wikipedia_url: "https://en.wikipedia.org/wiki/Bole_language"
 translations:
+  - translation_iso: ara
+    name: بولي
+    auto: true
   - translation_iso: jpn
     name: ボレ語
   - translation_iso: zho

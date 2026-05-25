@@ -10,6 +10,9 @@ latitude: 2.07295
 longitude: 18.67837
 wikipedia_url: "https://en.wikipedia.org/wiki/Bozaba_language"
 translations:
+  - translation_iso: ara
+    name: بوزابا
+    auto: true
   - translation_iso: jpn
     name: ボザバ語
     auto: true

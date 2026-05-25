@@ -14,6 +14,9 @@ glottolog_family_id: otom1299
 glottolog_family_name: Otomanguean
 glottolog_classification: "Otomanguean > Western Otomanguean > Subtiaba-Tlapanec > Mephaa > Azoyú Me'phaa"
 translations:
+  - translation_iso: ara
+    name: ميفاع أزويو
+    auto: true
   - translation_iso: jpn
     name: メーファア語
     auto: true

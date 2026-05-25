@@ -12,6 +12,9 @@ longitude: 141.33615
 glottocode: odia1239
 wikipedia_url: "https://en.wikipedia.org/wiki/Busa_language_(Papuan)"
 translations:
+  - translation_iso: ara
+    name: أوديايي
+    auto: true
   - translation_iso: jpn
     name: ブサ語
   - translation_iso: zho

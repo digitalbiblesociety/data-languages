@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Northern Luzon > Meso-Cordilleran > South-Central Cordilleran > Central Cordilleran > Nuclear Cordilleran > Bontok-Kankanay > Bontok > Central Bontoc"
 wikipedia_url: "https://en.wikipedia.org/wiki/Central_Bontok_language"
 translations:
+  - translation_iso: ara
+    name: بونتوك الوسطى
+    auto: true
   - translation_iso: jpn
     name: 中央ボントク語
   - translation_iso: zho

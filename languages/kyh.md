@@ -12,6 +12,9 @@ longitude: -123.31534
 glottocode: karo1304
 wikipedia_url: "https://en.wikipedia.org/wiki/Karuk_language"
 translations:
+  - translation_iso: ara
+    name: كاروك
+    auto: true
   - translation_iso: jpn
     name: キャロック語
   - translation_iso: zho

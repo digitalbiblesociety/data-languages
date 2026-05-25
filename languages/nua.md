@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Southern Melanesian > New Caledonian > Mainland New Caledonian > Northern New Caledonian > Extreme Northern New Caledonian > Kum-Nel-Yua-Cac > Kum-Nel-Yua > Yuaga"
 wikipedia_url: "https://en.wikipedia.org/wiki/Yuanga_language"
 translations:
+  - translation_iso: ara
+    name: يوانغا
+    auto: true
   - translation_iso: jpn
     name: ユアンガ語
     auto: true

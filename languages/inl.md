@@ -15,6 +15,9 @@ glottolog_family_name: Sign Language
 glottolog_classification: "Sign Language > L1 Sign Language > LSFic > ASLic > Malaysian Sign > Indonesian Sign > Jakartan Sign Language"
 wikipedia_url: "https://en.wikipedia.org/wiki/Indonesian_Sign_Language"
 translations:
+  - translation_iso: ara
+    name: لغة الإشارة الإندونيسية
+    auto: true
   - translation_iso: hin
     name: इंडोनेशियाई सांकेतिक भाषा
   - translation_iso: jpn

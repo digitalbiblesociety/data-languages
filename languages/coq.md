@@ -14,6 +14,9 @@ glottolog_family_id: atha1245
 glottolog_family_name: Athabaskan-Eyak-Tlingit
 glottolog_classification: "Athabaskan-Eyak-Tlingit > Athabaskan-Eyak > Athabaskan > Pacific Coast Athabaskan > Oregon Athabaskan > Rogue River > Coquille"
 translations:
+  - translation_iso: ara
+    name: الكوكيل
+    auto: true
   - translation_iso: hin
     name: शंख
   - translation_iso: jpn

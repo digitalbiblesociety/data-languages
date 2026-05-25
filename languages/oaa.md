@@ -15,6 +15,9 @@ glottolog_family_name: Tungusic
 glottolog_classification: "Tungusic > Central-Western Tungusic > Ulchaic > Orok"
 wikipedia_url: "https://en.wikipedia.org/wiki/Uilta_language"
 translations:
+  - translation_iso: ara
+    name: اللغة أوروك
+    auto: true
   - translation_iso: jpn
     name: ウィルタ語
   - translation_iso: kor

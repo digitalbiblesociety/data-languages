@@ -8,6 +8,9 @@ country_name: Australia
 status_id: 8b
 wikipedia_url: "https://en.wikipedia.org/wiki/Ngarigo_language"
 translations:
+  - translation_iso: ara
+    name: نجاريجو
+    auto: true
   - translation_iso: jpn
     name: ンガリグ語
     auto: true

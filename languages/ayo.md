@@ -15,6 +15,9 @@ glottolog_family_name: Zamucoan
 glottolog_classification: "Zamucoan > Zamuco-Ayoreo > Ayoreo"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ayoreo_language"
 translations:
+  - translation_iso: ara
+    name: اللغة أيوريو
+    auto: true
   - translation_iso: jpn
     name: アヨレオ語
   - translation_iso: zho

@@ -15,6 +15,9 @@ glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > West Chadic > West Chadic B > West Chadic B.2 > Diri"
 wikipedia_url: "https://en.wikipedia.org/wiki/Diri_language"
 translations:
+  - translation_iso: ara
+    name: ديري
+    auto: true
   - translation_iso: jpn
     name: ディリ語
     auto: true

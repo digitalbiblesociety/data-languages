@@ -15,6 +15,9 @@ glottolog_family_name: Nilotic
 glottolog_classification: "Nilotic > Eastern Nilotic > Teso-Lotuxo-Maa > Teso-Turkana > Turkanic > Toposa"
 wikipedia_url: "https://en.wikipedia.org/wiki/Toposa_language"
 translations:
+  - translation_iso: ara
+    name: توبوسا
+    auto: true
   - translation_iso: jpn
     name: トポサ語
   - translation_iso: zho

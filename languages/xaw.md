@@ -15,6 +15,9 @@ glottolog_family_name: Uto-Aztecan
 glottolog_classification: "Uto-Aztecan > Northern Uto-Aztecan > Numic > Southern Numic > Kawaiisu"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kawaiisu_language"
 translations:
+  - translation_iso: ara
+    name: كاواييسو
+    auto: true
   - translation_iso: jpn
     name: カワイイス語
     auto: true

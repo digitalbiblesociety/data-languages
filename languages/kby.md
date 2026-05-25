@@ -15,6 +15,9 @@ glottolog_family_name: Saharan
 glottolog_classification: "Saharan > Western Saharan > Kanuri-Kanembu > Kanuric > Manga-Dagera Kanuri"
 wikipedia_url: "https://en.wikipedia.org/wiki/Manga_Kanuri"
 translations:
+  - translation_iso: ara
+    name: لغة مانغا كانوري
+    auto: true
   - translation_iso: jpn
     name: マンガ・カヌリ語
   - translation_iso: zho

@@ -14,6 +14,9 @@ glottolog_family_id: krua1234
 glottolog_family_name: Kru
 glottolog_classification: "Kru > Eastern Kru > Beteic > Eastern Bete > Gagnoa Bété"
 translations:
+  - translation_iso: ara
+    name: جاجْنوا بيتي
+    auto: true
   - translation_iso: jpn
     name: ベテ語
   - translation_iso: zho

@@ -14,6 +14,9 @@ glottolog_family_id: otom1299
 glottolog_family_name: Otomanguean
 glottolog_classification: "Otomanguean > Western Otomanguean > Otopame-Chinantecan > Chinantecan > Central-Eastern Chinantec > Southeastern Chinantec > Chinantec Group III > Valle Nacional Chinantec"
 translations:
+  - translation_iso: ara
+    name: فالي ناسيونال تشينانتك
+    auto: true
   - translation_iso: jpn
     name: バジェ・ナシオナル・チナンテク語
     auto: true

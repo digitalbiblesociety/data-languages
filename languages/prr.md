@@ -15,6 +15,9 @@ glottolog_family_name: Puri-Coroado
 glottolog_classification: "Puri-Coroado > Puri"
 wikipedia_url: "https://en.wikipedia.org/wiki/Puri_language"
 translations:
+  - translation_iso: ara
+    name: اللغة بوري
+    auto: true
   - translation_iso: jpn
     name: プリ語
     auto: true

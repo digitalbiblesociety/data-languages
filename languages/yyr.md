@@ -7,6 +7,9 @@ country_id: AU
 country_name: Australia
 status_id: null
 translations:
+  - translation_iso: ara
+    name: لغة يير يورونت
+    auto: true
   - translation_iso: jpn
     name: イル・ヨロント語
     auto: true

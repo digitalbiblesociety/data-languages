@@ -15,6 +15,9 @@ glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Indo-Aryan > Gawarbatic > Gawar-Bati"
 wikipedia_url: "https://en.wikipedia.org/wiki/Gawar-Bati_language"
 translations:
+  - translation_iso: ara
+    name: غآوآر-بآتي
+    auto: true
   - translation_iso: hin
     name: ग्वार-बती भाषा
   - translation_iso: jpn

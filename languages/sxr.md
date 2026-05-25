@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Tsouic > Kanakanavu-Saaroa > Saaroa"
 wikipedia_url: "https://en.wikipedia.org/wiki/Saaroa_language"
 translations:
+  - translation_iso: ara
+    name: ساروا
+    auto: true
   - translation_iso: jpn
     name: サアロア語
   - translation_iso: zho

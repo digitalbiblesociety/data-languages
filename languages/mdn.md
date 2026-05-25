@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > Central-Western Bantu > North Zaire River > Rivers Bantu > Likouala-Sangha > Bwamba-Ngondi-Pande-Mbati-Aka > Mbati"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mbati_language"
 translations:
+  - translation_iso: ara
+    name: لغة مباتي
+    auto: true
   - translation_iso: jpn
     name: Mbati語
   - translation_iso: zho

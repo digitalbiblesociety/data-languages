@@ -15,6 +15,9 @@ glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Macro-Bai > Baic > South-Central Bai > Central Bai"
 wikipedia_url: "https://en.wikipedia.org/wiki/Central_Bai_language"
 translations:
+  - translation_iso: ara
+    name: اللغة باي الوسطى
+    auto: true
   - translation_iso: jpn
     name: 中央バイ語
     auto: true

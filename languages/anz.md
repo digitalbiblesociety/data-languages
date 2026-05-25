@@ -12,6 +12,9 @@ longitude: 148.99315
 glottocode: anem1249
 wikipedia_url: "https://en.wikipedia.org/wiki/An%C3%AAm_language"
 translations:
+  - translation_iso: ara
+    name: لغة أنيم
+    auto: true
   - translation_iso: jpn
     name: アネム語
   - translation_iso: zho

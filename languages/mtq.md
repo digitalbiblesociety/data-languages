@@ -15,6 +15,9 @@ glottolog_family_name: Austroasiatic
 glottolog_classification: "Austroasiatic > Vietic > Viet-Muong > Muongic > Muong"
 wikipedia_url: "https://en.wikipedia.org/wiki/M%C6%B0%E1%BB%9Dng_language"
 translations:
+  - translation_iso: ara
+    name: لغة مويانج
+    auto: true
   - translation_iso: jpn
     name: ムオン語
   - translation_iso: kor

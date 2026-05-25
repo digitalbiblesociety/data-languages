@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Greater South Sulawesi > Rampi-Seko-Badaic > Badaic-Limola > Badaic > Besoa"
 wikipedia_url: "https://en.wikipedia.org/wiki/Behoa_language"
 translations:
+  - translation_iso: ara
+    name: بيسوا
+    auto: true
   - translation_iso: jpn
     name: ベソア語
     auto: true

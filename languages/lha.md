@@ -15,6 +15,9 @@ glottolog_family_name: Tai-Kadai
 glottolog_classification: "Tai-Kadai > Kadaic > Southwestern Kra > Southern Kra > Laha (Viet Nam)"
 wikipedia_url: "https://en.wikipedia.org/wiki/Laha_language"
 translations:
+  - translation_iso: ara
+    name: لغة اها
+    auto: true
   - translation_iso: jpn
     name: ラハ語
   - translation_iso: zho

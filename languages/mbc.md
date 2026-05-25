@@ -15,6 +15,9 @@ glottolog_family_name: Cariban
 glottolog_classification: "Cariban > Venezuelan Cariban > Pemong-Panare > Pemongan > Macushi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Macushi_language"
 translations:
+  - translation_iso: ara
+    name: لغة ماكوشي
+    auto: true
   - translation_iso: jpn
     name: マクシー語
   - translation_iso: zho

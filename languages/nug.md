@@ -15,6 +15,9 @@ glottolog_family_name: Mirndi
 glottolog_classification: "Mirndi > Yirram > Nungali"
 wikipedia_url: "https://en.wikipedia.org/wiki/Nungali_language"
 translations:
+  - translation_iso: ara
+    name: نونغالي
+    auto: true
   - translation_iso: jpn
     name: ヌンガリ語
     auto: true

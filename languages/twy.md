@@ -14,6 +14,9 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Basap-Greater Barito > Greater Barito linkage > North East Greater Barito > Tawoyan"
 translations:
+  - translation_iso: ara
+    name: تابويان
+    auto: true
   - translation_iso: jpn
     name: タボハン語
     auto: true

@@ -15,6 +15,9 @@ glottolog_family_name: Tupian
 glottolog_classification: "Tupian > Arikem-Tupari > Tuparic > Nuclear Tuparic > Wayoro-Tupari > Wayoró"
 wikipedia_url: "https://en.wikipedia.org/wiki/Wayor%C3%B3_language"
 translations:
+  - translation_iso: ara
+    name: وايور
+    auto: true
   - translation_iso: jpn
     name: ワイロ語
     auto: true

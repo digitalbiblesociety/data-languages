@@ -15,6 +15,9 @@ glottolog_family_name: Austroasiatic
 glottolog_classification: "Austroasiatic > Nicobaric > Nuclear Nicobaric > Chowra-Teressa > Chaura"
 wikipedia_url: "https://en.wikipedia.org/wiki/Chaura_language"
 translations:
+  - translation_iso: ara
+    name: الشاورا
+    auto: true
   - translation_iso: hin
     name: चौरा भाषा
   - translation_iso: jpn

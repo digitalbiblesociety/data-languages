@@ -12,6 +12,9 @@ longitude: 80.63092
 glottocode: kusu1250
 wikipedia_url: "https://en.wikipedia.org/wiki/Kusunda_language"
 translations:
+  - translation_iso: ara
+    name: لغة كوسوندا
+    auto: true
   - translation_iso: hin
     name: कुसुन्दा
   - translation_iso: jpn

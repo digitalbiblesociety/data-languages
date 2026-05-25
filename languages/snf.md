@@ -16,6 +16,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Cangin > Saafi-Noon-Lehar > Noon-Lehar > Noon"
 wikipedia_url: "https://en.wikipedia.org/wiki/Noon_language"
 translations:
+  - translation_iso: ara
+    name: اللغة النون
+    auto: true
   - translation_iso: jpn
     name: ノーン語
   - translation_iso: zho

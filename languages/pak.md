@@ -15,6 +15,9 @@ glottolog_family_name: Tupian
 glottolog_classification: "Tupian > Eastern Tupian > Maweti-Guarani > Aweti-Guarani > Tupi-Guarani > Tupi-Guarani Subgroup IV > Tupi-Guarani Subgroup IV.A > Parakanã"
 wikipedia_url: "https://en.wikipedia.org/wiki/Parakan%C3%A3_language"
 translations:
+  - translation_iso: ara
+    name: اللغة باراكانا
+    auto: true
   - translation_iso: jpn
     name: パラカナン語
     auto: true

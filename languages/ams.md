@@ -15,6 +15,9 @@ glottolog_family_name: Japonic
 glottolog_classification: "Japonic > Ryukyuan > Northern Ryukyuan > Amami > Nuclear Amami > Oshima > Southern Amami-Oshima"
 wikipedia_url: "https://en.wikipedia.org/wiki/Southern_Amami_%C5%8Cshima_language"
 translations:
+  - translation_iso: ara
+    name: لغة ساوثيرن أمامي-أوشيما
+    auto: true
   - translation_iso: jpn
     name: 奄美大島南部方言
   - translation_iso: kor

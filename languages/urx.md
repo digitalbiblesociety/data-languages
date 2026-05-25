@@ -14,6 +14,9 @@ glottolog_family_name: Nuclear Torricelli
 glottolog_classification: "Nuclear Torricelli > Marienberg > Elepi-Kamasau-Marienberg > Urimo"
 wikipedia_url: "https://en.wikipedia.org/wiki/Urimo_language"
 translations:
+  - translation_iso: ara
+    name: أوريمو
+    auto: true
   - translation_iso: jpn
     name: ヤウギバ語
     auto: true

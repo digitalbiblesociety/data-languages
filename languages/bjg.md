@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > North-Central Atlantic > Central Atlantic > Bijogo > Kanyaki-Kagbaaga-Kajoko Bidyogo"
 wikipedia_url: "https://en.wikipedia.org/wiki/Bijago_language"
 translations:
+  - translation_iso: ara
+    name: بيديوجو
+    auto: true
   - translation_iso: jpn
     name: ビジャゴ語
   - translation_iso: kor

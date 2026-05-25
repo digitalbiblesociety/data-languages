@@ -14,6 +14,9 @@ glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Karenic > Southern Karen > Sgaw > Wewaw"
 translations:
+  - translation_iso: ara
+    name: ويواو
+    auto: true
   - translation_iso: jpn
     name: ウェワウ語
     auto: true

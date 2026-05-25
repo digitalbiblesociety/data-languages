@@ -15,6 +15,9 @@ glottolog_family_name: Austroasiatic
 glottolog_classification: "Austroasiatic > Khasi-Palaung > Palaungic > East Palaungic > Angkuic > U"
 wikipedia_url: "https://en.wikipedia.org/wiki/U_language"
 translations:
+  - translation_iso: ara
+    name: أو
+    auto: true
   - translation_iso: jpn
     name: ポウマ語
     auto: true

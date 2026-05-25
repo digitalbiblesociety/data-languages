@@ -15,6 +15,9 @@ glottolog_family_name: Tai-Kadai
 glottolog_classification: "Tai-Kadai > Kam-Tai > Daic-Beic > Daic > Central-Southwestern Tai > Wenma-Southwestern Tai > Sapa-Southwestern Tai > Southwestern Tai > Southwestern Tai P > Shanic > Southern Shanic > Wuding-Yuanyang Tai > Tai Ya"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tai_Ya_language"
 translations:
+  - translation_iso: ara
+    name: تاي يا
+    auto: true
   - translation_iso: jpn
     name: 傣雅語
   - translation_iso: zho

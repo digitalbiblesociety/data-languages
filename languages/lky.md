@@ -15,6 +15,9 @@ glottolog_family_name: Nilotic
 glottolog_classification: "Nilotic > Eastern Nilotic > Teso-Lotuxo-Maa > Lotuxo-Maa > Lotuxo > Lotuko-Lokoya > Lokoya"
 wikipedia_url: "https://en.wikipedia.org/wiki/Lokoya_language"
 translations:
+  - translation_iso: ara
+    name: لغة وكويا
+    auto: true
   - translation_iso: jpn
     name: ロコヤ語
   - translation_iso: zho

@@ -15,6 +15,9 @@ glottolog_family_name: Mayan
 glottolog_classification: "Mayan > Core Mayan > Quichean-Mamean > Greater Quichean > Uspanteco"
 wikipedia_url: "https://en.wikipedia.org/wiki/Uspantek_language"
 translations:
+  - translation_iso: ara
+    name: أوسبانتيكو
+    auto: true
   - translation_iso: jpn
     name: ウスパンテコ語
   - translation_iso: kor

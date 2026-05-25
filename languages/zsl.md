@@ -14,6 +14,9 @@ glottolog_family_name: Sign Language
 glottolog_classification: "Sign Language > L1 Sign Language > Zambian Sign Language"
 wikipedia_url: "https://en.wikipedia.org/wiki/Zambian_Sign_Language"
 translations:
+  - translation_iso: ara
+    name: لغة الإشارة الزامبية
+    auto: true
   - translation_iso: jpn
     name: ザンビア手話
   - translation_iso: zho

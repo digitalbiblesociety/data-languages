@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Land Dayak > Benyadu-Bekati > Bakati' > Riuk Bekati'"
 wikipedia_url: "https://en.wikipedia.org/wiki/Bakati%CA%BC_language"
 translations:
+  - translation_iso: ara
+    name: بيكاتي
+    auto: true
   - translation_iso: jpn
     name: ベカティ語
     auto: true

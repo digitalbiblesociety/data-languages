@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Northern Luzon > Northeastern Luzon > Nuclear Northeastern Luzon > Paranan-Pahanan > Agta-Pahanan"
 wikipedia_url: "https://en.wikipedia.org/wiki/Paranan_Agta_language"
 translations:
+  - translation_iso: ara
+    name: اللغة باهانان أجتا
+    auto: true
   - translation_iso: jpn
     name: パハナン・アグタ語
     auto: true

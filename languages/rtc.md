@@ -9,6 +9,9 @@ country_name: Myanmar
 status_id: 6b
 wikipedia_url: "https://en.wikipedia.org/wiki/Rungtu_language"
 translations:
+  - translation_iso: ara
+    name: رونجتو تشين
+    auto: true
   - translation_iso: jpn
     name: ルングトゥチン語
     auto: true

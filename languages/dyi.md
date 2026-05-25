@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Senufo > South Senufo > Tagbana-Jimini > Djimini Senoufo"
 wikipedia_url: "https://en.wikipedia.org/wiki/Djimini_language"
 translations:
+  - translation_iso: ara
+    name: دجيميني سينوفو
+    auto: true
   - translation_iso: jpn
     name: ジミニ・セヌーフォ語
     auto: true

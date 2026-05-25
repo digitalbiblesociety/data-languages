@@ -15,6 +15,9 @@ glottolog_family_name: Walioic
 glottolog_classification: "Walioic > Tuwari"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tuwari_language"
 translations:
+  - translation_iso: ara
+    name: توواري
+    auto: true
   - translation_iso: jpn
     name: トゥワリ語
     auto: true

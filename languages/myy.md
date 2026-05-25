@@ -15,6 +15,9 @@ glottolog_family_name: Tucanoan
 glottolog_classification: "Tucanoan > Eastern Tucanoan > Western Eastern Tucanoan > Barasano-Eduria-Macuna > Macuna"
 wikipedia_url: "https://en.wikipedia.org/wiki/Macuna_language"
 translations:
+  - translation_iso: ara
+    name: ماكونا
+    auto: true
   - translation_iso: jpn
     name: マクナ語
     auto: true

@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > North New Guinea linkage > Sarmi-Jayapura Bay > Sarmi > Sobeic > Masimasi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Masimasi_language"
 translations:
+  - translation_iso: ara
+    name: ماسيماسي
+    auto: true
   - translation_iso: jpn
     name: マシマシ語
     auto: true

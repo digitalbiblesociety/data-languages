@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > Central-Western Bantu > North Zaire River > Rivers Bantu > Ngiri > Ngiri Riverain Mongala > Motemboic > Bujaic > Budja (C.37) > Budza"
 wikipedia_url: "https://en.wikipedia.org/wiki/Budza_language"
 translations:
+  - translation_iso: ara
+    name: بودزا
+    auto: true
   - translation_iso: jpn
     name: ブッザ語
     auto: true

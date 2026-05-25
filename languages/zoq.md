@@ -15,6 +15,9 @@ glottolog_family_name: Mixe-Zoque
 glottolog_classification: "Mixe-Zoque > Zoque > Gulf Zoque > Texistepec-Ayapa Zoque > Tabasco Zoque"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ayapa_Zoque"
 translations:
+  - translation_iso: ara
+    name: سوكي تاباسكو
+    auto: true
   - translation_iso: hin
     name: आयापानेको
   - translation_iso: jpn

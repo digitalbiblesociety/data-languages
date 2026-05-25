@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Northern Bantoid > Mambiloid > Nizaa-Mambila-Vute > Konja-Mambila-Vute > Mambila-Vute > Mambila-Mbongno > Mbongno-Mvano > Mvano-Ndunda > Mvano"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mvanip_language"
 translations:
+  - translation_iso: ara
+    name: لغة مفانيب
+    auto: true
   - translation_iso: jpn
     name: ムバニップ語
     auto: true

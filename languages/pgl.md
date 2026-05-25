@@ -9,6 +9,9 @@ country_name: Ireland
 status_id: null
 wikipedia_url: "https://en.wikipedia.org/wiki/Primitive_Irish"
 translations:
+  - translation_iso: ara
+    name: اللغة أيرلندية بدائية
+    auto: true
   - translation_iso: jpn
     name: 原アイルランド語
   - translation_iso: zho

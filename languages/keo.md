@@ -15,6 +15,9 @@ glottolog_family_name: Nilotic
 glottolog_classification: "Nilotic > Eastern Nilotic > Barian > Kakwa"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kakwa_language_(Africa)"
 translations:
+  - translation_iso: ara
+    name: لغة كاكوا
+    auto: true
   - translation_iso: jpn
     name: カクワ語
     auto: true

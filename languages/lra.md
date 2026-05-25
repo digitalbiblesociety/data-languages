@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Land Dayak > Benyadu-Bekati > Bakati' > Rara-Sara Bakati' > Rara Bakati'"
 wikipedia_url: "https://en.wikipedia.org/wiki/Lara%CA%BC_language"
 translations:
+  - translation_iso: ara
+    name: "لغة ارا اكاتي'"
+    auto: true
   - translation_iso: jpn
     name: ララ・バカティ語
     auto: true

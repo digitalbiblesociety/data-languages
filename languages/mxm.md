@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > Meso Melanesian linkage > Willaumez linkage > Nakanai-Meramera > Meramera"
 wikipedia_url: "https://en.wikipedia.org/wiki/Meramera_language"
 translations:
+  - translation_iso: ara
+    name: ميراميرا
+    auto: true
   - translation_iso: jpn
     name: メラメラ語
   - translation_iso: zho

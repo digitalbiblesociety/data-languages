@@ -15,6 +15,9 @@ glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Burmo-Qiangic > Lolo-Burmese > Loloish > Ni-Li-Kazhouish > Southeastern Ngwi > Nisoid > Unclassified Nisoid > Ache"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ache_Yi_language"
 translations:
+  - translation_iso: ara
+    name: اللغة آتشي
+    auto: true
   - translation_iso: jpn
     name: アチェ語
     auto: true

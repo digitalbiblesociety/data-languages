@@ -15,6 +15,9 @@ glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > Biu-Mandara > North Biu-Mandara > Margi-Mandara-Mofu > Bura-Marghi > Buraic > Cibak"
 wikipedia_url: "https://en.wikipedia.org/wiki/Cibak_language"
 translations:
+  - translation_iso: ara
+    name: السيباك
+    auto: true
   - translation_iso: jpn
     name: チボク語
   - translation_iso: zho

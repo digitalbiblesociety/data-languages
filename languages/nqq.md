@@ -14,6 +14,9 @@ glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Brahmaputran > Patkaian > South Patkaian > Southwestern Patkaian > Wanchoic > Chen Naga"
 translations:
+  - translation_iso: ara
+    name: كيان-كاريو ناغا
+    auto: true
   - translation_iso: jpn
     name: キャン・カリャウ・ナガ語
     auto: true

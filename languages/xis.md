@@ -7,6 +7,9 @@ country_id: IN
 country_name: India
 status_id: null
 translations:
+  - translation_iso: ara
+    name: كيسان
+    auto: true
   - translation_iso: jpn
     name: キサン語
     auto: true

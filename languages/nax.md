@@ -14,6 +14,9 @@ glottolog_family_name: Left May
 glottolog_classification: "Left May > Western Left May > Nimo-Nakwi > Nakwi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Nakwi_language"
 translations:
+  - translation_iso: ara
+    name: ناكوي
+    auto: true
   - translation_iso: jpn
     name: ナクウィ語
     auto: true

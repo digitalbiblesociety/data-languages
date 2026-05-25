@@ -8,6 +8,9 @@ country_name: Australia
 status_id: "10"
 wikipedia_url: "https://en.wikipedia.org/wiki/Turrbal_language"
 translations:
+  - translation_iso: ara
+    name: اللغة ياغارا
+    auto: true
   - translation_iso: jpn
     name: ヤガラ語
     auto: true

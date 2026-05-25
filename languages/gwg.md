@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Cameroun-Ubangian > Bikwin-Jen > Southern Bikwin-Jen > Bambuka-Gomu-Leelau > Moo"
 wikipedia_url: "https://en.wikipedia.org/wiki/Moo_language"
 translations:
+  - translation_iso: ara
+    name: موو
+    auto: true
   - translation_iso: jpn
     name: モー語
     auto: true

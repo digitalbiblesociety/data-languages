@@ -15,6 +15,9 @@ glottolog_family_name: Tungusic
 glottolog_classification: "Tungusic > Northeastern Tungusic > Northern Tungusic > Ewenic > Even"
 wikipedia_url: "https://en.wikipedia.org/wiki/Even_language"
 translations:
+  - translation_iso: ara
+    name: الإيفن
+    auto: true
   - translation_iso: jpn
     name: エヴェン語
   - translation_iso: kor

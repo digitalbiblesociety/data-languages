@@ -15,6 +15,9 @@ glottolog_family_name: Sign Language
 glottolog_classification: "Sign Language > L1 Sign Language > BSLic > South African Sign > South African Sign Language"
 wikipedia_url: "https://en.wikipedia.org/wiki/South_African_Sign_Language"
 translations:
+  - translation_iso: ara
+    name: لغة الإشارة جنوب أفريقيا
+    auto: true
   - translation_iso: jpn
     name: 南アフリカ手話
   - translation_iso: zho

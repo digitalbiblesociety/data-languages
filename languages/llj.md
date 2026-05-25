@@ -8,6 +8,9 @@ country_name: Australia
 status_id: "10"
 wikipedia_url: "https://en.wikipedia.org/wiki/Latji-Latji_dialect"
 translations:
+  - translation_iso: ara
+    name: لغة ادجي ادجي
+    auto: true
   - translation_iso: jpn
     name: ラジ・ラジ語
     auto: true

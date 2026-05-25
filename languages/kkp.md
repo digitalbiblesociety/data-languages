@@ -15,6 +15,9 @@ glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > Paman > Southwest Pama > Coastal Southwest Paman > Dhawa-Kaber > Gugubera"
 wikipedia_url: "https://en.wikipedia.org/wiki/Koko-Bera_language"
 translations:
+  - translation_iso: ara
+    name: لغة غوغوبيرا
+    auto: true
   - translation_iso: jpn
     name: ググベラ語
     auto: true

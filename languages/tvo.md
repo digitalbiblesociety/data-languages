@@ -15,6 +15,9 @@ glottolog_family_name: North Halmahera
 glottolog_classification: "North Halmahera > Northern North Halmahera > Ternatean > Tidore"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tidore_language"
 translations:
+  - translation_iso: ara
+    name: تيدوري
+    auto: true
   - translation_iso: jpn
     name: ティドレ語
   - translation_iso: zho

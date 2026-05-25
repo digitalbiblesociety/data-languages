@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Senufo > South Senufo > Tagbana-Jimini > Tagwana Senoufo"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tagwana_language"
 translations:
+  - translation_iso: ara
+    name: تاغوانا سينوفو
+    auto: true
   - translation_iso: jpn
     name: タグワナ・セヌフォ語
     auto: true

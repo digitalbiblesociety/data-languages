@@ -14,6 +14,9 @@ glottolog_family_id: aust1305
 glottolog_family_name: Austroasiatic
 glottolog_classification: "Austroasiatic > Khasi-Palaung > Palaungic > West Palaungic > Palaung > Shwe Palaung"
 translations:
+  - translation_iso: ara
+    name: اللغة شوي بالاونج
+    auto: true
   - translation_iso: jpn
     name: シュエパラウン語
     auto: true

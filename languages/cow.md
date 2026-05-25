@@ -15,6 +15,9 @@ glottolog_family_name: Salishan
 glottolog_classification: "Salishan > Coast Salish > Tsamosan > Inland Tsamosan > Cowlitz"
 wikipedia_url: "https://en.wikipedia.org/wiki/Cowlitz_language"
 translations:
+  - translation_iso: ara
+    name: كوليتز
+    auto: true
   - translation_iso: jpn
     name: カウリッツ語
   - translation_iso: zho

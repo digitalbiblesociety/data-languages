@@ -15,6 +15,9 @@ glottolog_family_name: Western Daly
 glottolog_classification: "Western Daly > Bringen > Maringarr-Matige > Marti Ke"
 wikipedia_url: "https://en.wikipedia.org/wiki/Marti_Ke_language"
 translations:
+  - translation_iso: ara
+    name: لغة مارتي كي
+    auto: true
   - translation_iso: jpn
     name: マティ・ケ語
   - translation_iso: zho

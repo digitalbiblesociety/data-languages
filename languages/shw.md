@@ -15,6 +15,9 @@ glottolog_family_name: Heibanic
 glottolog_classification: "Heibanic > West-Central Heibanic > Shwai"
 wikipedia_url: "https://en.wikipedia.org/wiki/Shwai_language"
 translations:
+  - translation_iso: ara
+    name: اللغة الشواي
+    auto: true
   - translation_iso: jpn
     name: シルムバ語
     auto: true

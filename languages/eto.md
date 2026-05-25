@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > Bantu A-B10-B20-B30 > Basaa-Yaunde (A40-70) > Yaunde-Fang (A.70) > Eton-Mengisa"
 wikipedia_url: "https://en.wikipedia.org/wiki/Eton_language"
 translations:
+  - translation_iso: ara
+    name: الإيتون
+    auto: true
   - translation_iso: jpn
     name: エトン語
   - translation_iso: zho

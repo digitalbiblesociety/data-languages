@@ -15,6 +15,9 @@ glottolog_family_name: Yam
 glottolog_classification: "Yam > Morehead-Maro > Yei"
 wikipedia_url: "https://en.wikipedia.org/wiki/Yei_language"
 translations:
+  - translation_iso: ara
+    name: لغة يي
+    auto: true
   - translation_iso: jpn
     name: イェイ語
     auto: true

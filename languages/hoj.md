@@ -16,6 +16,9 @@ glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Indo-Aryan > Middle-Modern Indo-Aryan > Continental Indo-Aryan > Midlands Indo-Aryan > Apabhramsic > Gujarati-Rajasthani > Rajasthani > Eastern Rajasthani > Hadothi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Hadauti_language"
 translations:
+  - translation_iso: ara
+    name: هادوثي
+    auto: true
   - translation_iso: hin
     name: हड़ौती भाषा
   - translation_iso: jpn

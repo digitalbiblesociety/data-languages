@@ -14,6 +14,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Bima-Lembata > Flores > West-Central Flores > Manggaraiic > Manggarai Khusus > Riung"
 wikipedia_url: "https://en.wikipedia.org/wiki/Riung_language"
 translations:
+  - translation_iso: ara
+    name: ريونج
+    auto: true
   - translation_iso: jpn
     name: リウン語
     auto: true

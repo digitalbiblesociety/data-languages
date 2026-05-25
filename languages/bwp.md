@@ -14,6 +14,9 @@ glottolog_family_id: nucl1709
 glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Asmat-Awyu-Ok > Awyu-Ok > Greater Awyu > Awyu-Dumut > Dumut > Mandobo > Mandobo Bawah"
 translations:
+  - translation_iso: ara
+    name: ماندوبو باواه
+    auto: true
   - translation_iso: jpn
     name: マンドボ・バワ語
     auto: true

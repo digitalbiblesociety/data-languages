@@ -15,6 +15,9 @@ glottolog_family_id: mand1469
 glottolog_family_name: Mande
 glottolog_classification: "Mande > Western Mande > Northwestern Mande > Soninke-Bozo > Bozo > Hainyaxo Bozo"
 translations:
+  - translation_iso: ara
+    name: كيلينْجاخو بوزو
+    auto: true
   - translation_iso: jpn
     name: ケレンガッソ・ボゾ語
     auto: true

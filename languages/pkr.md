@@ -15,6 +15,9 @@ glottolog_family_name: Dravidian
 glottolog_classification: "Dravidian > South Dravidian > South Dravidian I > Tamil-Kannada > Tamil-Kota > Tamil-Toda > Tamil-Irula > Irula-Muduga > Muduga-Palu > Attapady Kurumba"
 wikipedia_url: "https://en.wikipedia.org/wiki/Attapady_Kurumba_language"
 translations:
+  - translation_iso: ara
+    name: اللغة كوروما أتابادي
+    auto: true
   - translation_iso: jpn
     name: アッタパディクルンバ語
     auto: true

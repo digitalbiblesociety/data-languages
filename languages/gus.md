@@ -13,6 +13,9 @@ glottolog_family_id: sign1238
 glottolog_family_name: Sign Language
 glottolog_classification: "Sign Language > L1 Sign Language > LSFic > ASLic > Guinean Sign Language"
 translations:
+  - translation_iso: ara
+    name: لغة الإشارة الغينية
+    auto: true
   - translation_iso: jpn
     name: ギニア手話
   - translation_iso: zho

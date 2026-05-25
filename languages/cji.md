@@ -15,6 +15,9 @@ glottolog_family_name: Nakh-Daghestanian
 glottolog_classification: "Nakh-Daghestanian > Daghestanian > Avar-Andic-Tsezic > Andic > Chamalal"
 wikipedia_url: "https://en.wikipedia.org/wiki/Chamalal_language"
 translations:
+  - translation_iso: ara
+    name: الشاملال
+    auto: true
   - translation_iso: jpn
     name: チャマラル語
   - translation_iso: kor

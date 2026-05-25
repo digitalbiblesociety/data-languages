@@ -14,6 +14,9 @@ glottolog_family_id: pama1250
 glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > Yuulngu > Southern Yolngu > Southern-Eastern Yolngu > Dhuwal-Dhuwala > Eastern Dhuwal-Dhuwala > Djambarrpuyngu"
 translations:
+  - translation_iso: ara
+    name: دجامبارپونجو
+    auto: true
   - translation_iso: jpn
     name: ジャンバルプイング語
     auto: true

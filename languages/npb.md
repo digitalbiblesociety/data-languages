@@ -10,6 +10,9 @@ latitude: 27.43007
 longitude: 90.53395
 wikipedia_url: "https://en.wikipedia.org/wiki/Nupbi_language"
 translations:
+  - translation_iso: ara
+    name: نوبفيخا
+    auto: true
   - translation_iso: jpn
     name: ヌプビ語
   - translation_iso: zho

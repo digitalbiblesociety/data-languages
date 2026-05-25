@@ -14,6 +14,9 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > Bantu A-B10-B20-B30 > Sawabantu > Dualaic > Kole-Isubu > Bakole"
 translations:
+  - translation_iso: ara
+    name: لغة باكولي
+    auto: true
   - translation_iso: jpn
     name: バコレ語
     auto: true

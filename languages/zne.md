@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Cameroun-Ubangian > Ubangi > Zandic > Zande-Nzakara > Zande"
 wikipedia_url: "https://en.wikipedia.org/wiki/Zande_language"
 translations:
+  - translation_iso: ara
+    name: زاندي
+    auto: true
   - translation_iso: jpn
     name: ザンデ語
   - translation_iso: kor

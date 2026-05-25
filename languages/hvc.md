@@ -15,6 +15,9 @@ glottolog_family_name: Unclassifiable
 glottolog_classification: "Unclassifiable > Haitian Vodoun Culture Language"
 wikipedia_url: "https://en.wikipedia.org/wiki/Haitian_Vodoun_Culture_Language"
 translations:
+  - translation_iso: ara
+    name: لغة ثقافة الفودو الهاitian
+    auto: true
   - translation_iso: jpn
     name: ハイチ・ヴォードゥー・カルチャー言語
     auto: true

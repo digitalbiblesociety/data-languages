@@ -15,6 +15,9 @@ glottolog_family_name: Otomanguean
 glottolog_classification: "Otomanguean > Eastern Otomanguean > Popoloca-Zapotecan > Popolocan-Mazatecan > Mazatecan > Valley Mazatec > Ayautlic > Northern Baja Mazatec > Soyaltepec Mazatec"
 wikipedia_url: "https://en.wikipedia.org/wiki/Soyaltepec_Mazatec"
 translations:
+  - translation_iso: ara
+    name: سويالتيبك مازاتك
+    auto: true
   - translation_iso: jpn
     name: ソヤルテペク・マサテク語
     auto: true

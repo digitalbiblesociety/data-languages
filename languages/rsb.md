@@ -10,6 +10,9 @@ latitude: 45.25524
 longitude: 20.37623
 wikipedia_url: "https://en.wikipedia.org/wiki/Romano-Serbian_language"
 translations:
+  - translation_iso: ara
+    name: رومانو صربي
+    auto: true
   - translation_iso: jpn
     name: ロマーノセルビア語
     auto: true

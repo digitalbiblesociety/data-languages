@@ -10,6 +10,9 @@ latitude: 19.47335
 longitude: 77.71561
 wikipedia_url: "https://en.wikipedia.org/wiki/Andh_language"
 translations:
+  - translation_iso: ara
+    name: لغة أندّ
+    auto: true
   - translation_iso: jpn
     name: アンドゥ語
     auto: true

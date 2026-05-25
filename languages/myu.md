@@ -15,6 +15,9 @@ glottolog_family_name: Tupian
 glottolog_classification: "Tupian > Eastern Tupian > Mundurukuic > Mundurukú"
 wikipedia_url: "https://en.wikipedia.org/wiki/Munduruku_language"
 translations:
+  - translation_iso: ara
+    name: موندوروكو
+    auto: true
   - translation_iso: jpn
     name: ムンドゥルク
   - translation_iso: zho

@@ -15,6 +15,9 @@ glottolog_family_name: "West Bird's Head"
 glottolog_classification: "West Bird's Head > Seget-Moi > Moi (Indonesia)"
 wikipedia_url: "https://en.wikipedia.org/wiki/Moi_language"
 translations:
+  - translation_iso: ara
+    name: موي إندونيسيا
+    auto: true
   - translation_iso: jpn
     name: モイ語
     auto: true

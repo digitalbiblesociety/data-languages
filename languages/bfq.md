@@ -16,6 +16,9 @@ glottolog_family_name: Dravidian
 glottolog_classification: "Dravidian > South Dravidian > South Dravidian I > Tamil-Kannada > Badaga-Kannada > Badaga"
 wikipedia_url: "https://en.wikipedia.org/wiki/Badaga_language"
 translations:
+  - translation_iso: ara
+    name: بادقة
+    auto: true
   - translation_iso: hin
     name: बदगा भाषा
   - translation_iso: jpn

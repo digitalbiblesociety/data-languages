@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > East Bantu > Rufiji-Ruvuma > Ruvuma > Yaoic > Mwera (Chimwera)"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mwera_language"
 translations:
+  - translation_iso: ara
+    name: لغة مويرا
+    auto: true
   - translation_iso: jpn
     name: ムウェラ語
   - translation_iso: zho

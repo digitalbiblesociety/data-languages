@@ -15,6 +15,9 @@ glottolog_family_name: Nubian
 glottolog_classification: "Nubian > Midob"
 wikipedia_url: "https://en.wikipedia.org/wiki/Midob_language"
 translations:
+  - translation_iso: ara
+    name: لغة ميدوب
+    auto: true
   - translation_iso: jpn
     name: ミドブ語
   - translation_iso: zho

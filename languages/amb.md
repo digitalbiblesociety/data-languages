@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Tivoid > North Tivoid > Ambo"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ambo_language_(Nigeria)"
 translations:
+  - translation_iso: ara
+    name: اللغة الأمبو
+    auto: true
   - translation_iso: jpn
     name: アンボ語
     auto: true

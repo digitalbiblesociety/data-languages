@@ -15,6 +15,9 @@ glottolog_family_name: Tai-Kadai
 glottolog_classification: "Tai-Kadai > Kam-Tai > Daic-Beic > Daic > Northern Daic-Sek > Northern Daic > Yongnan-Yongbei > Yongbei Zhuang"
 wikipedia_url: "https://en.wikipedia.org/wiki/Yongbei_Zhuang"
 translations:
+  - translation_iso: ara
+    name: تشوانغ يونغبي
+    auto: true
   - translation_iso: jpn
     name: 邕北チワン語
   - translation_iso: zho

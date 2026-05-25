@@ -15,6 +15,9 @@ glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Bodic > Bodish > Early Old Tibetan > Middle Old Tibetan > Late Old Tibetan > Southern Tibetic > Dzongkhic > Nuclear Dzongkhic > Lunanakha"
 wikipedia_url: "https://en.wikipedia.org/wiki/Lunana_dialect"
 translations:
+  - translation_iso: ara
+    name: لغة وناناكها
+    auto: true
   - translation_iso: hin
     name: लुनाना बोली
   - translation_iso: jpn

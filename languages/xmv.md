@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Basap-Greater Barito > Greater Barito linkage > Southeast Barito > Malagasic > North-Central Malagasic > Northern Malagasic > Antankarana Malagasy"
 wikipedia_url: "https://en.wikipedia.org/wiki/Antakarana_dialect"
 translations:
+  - translation_iso: ara
+    name: ملغاشية أنتانكارانا
+    auto: true
   - translation_iso: jpn
     name: アンタンカラナ・マダガスカル語
   - translation_iso: zho

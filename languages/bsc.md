@@ -16,6 +16,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > North-Central Atlantic > Tenda > Bassari-Bedik-Bapen > Bassari-Tanda"
 wikipedia_url: "https://en.wikipedia.org/wiki/Bassari_language"
 translations:
+  - translation_iso: ara
+    name: بسّاري
+    auto: true
   - translation_iso: jpn
     name: バサリ語
   - translation_iso: kor

@@ -15,6 +15,9 @@ glottolog_family_name: Totonacan
 glottolog_classification: "Totonacan > Totonac > Central Totonacan > Northern Totonacan > Necaxan > Tecpatlán Totonac"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tecpatl%C3%A1n_Totonac"
 translations:
+  - translation_iso: ara
+    name: تيكبتلان توتوناك
+    auto: true
   - translation_iso: jpn
     name: テクパトラン・トトナック語
     auto: true

@@ -14,6 +14,9 @@ glottolog_family_name: Mande
 glottolog_classification: "Mande > Western Mande > Manding-Kpelle > Southwest Mande > Mende-Loma > Mende-Bandi > Bandi-Zialo > Zialo"
 wikipedia_url: "https://en.wikipedia.org/wiki/Zialo_language"
 translations:
+  - translation_iso: ara
+    name: اللغة زيالو
+    auto: true
   - translation_iso: jpn
     name: ジアロ語
     auto: true

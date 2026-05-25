@@ -9,6 +9,9 @@ country_name: South Korea
 status_id: null
 wikipedia_url: "https://en.wikipedia.org/wiki/Middle_Korean"
 translations:
+  - translation_iso: ara
+    name: اللغة الكورية الوسيطة
+    auto: true
   - translation_iso: jpn
     name: 中期朝鮮語
   - translation_iso: kor

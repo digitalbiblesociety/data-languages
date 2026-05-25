@@ -15,6 +15,9 @@ glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Madang > Kalamic-South Adelbert > South Adelbert > Sogeram > East Sogeram > Kulsab"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kursav_language"
 translations:
+  - translation_iso: ara
+    name: الفايتا
+    auto: true
   - translation_iso: jpn
     name: ファイタ語
     auto: true

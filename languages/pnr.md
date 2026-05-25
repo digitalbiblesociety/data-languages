@@ -14,6 +14,9 @@ glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Madang > Croisilles > Mabuso > Gum > Panim-Isebe-Bau > Panim"
 wikipedia_url: "https://en.wikipedia.org/wiki/Panim_language"
 translations:
+  - translation_iso: ara
+    name: اللغة بانيم
+    auto: true
   - translation_iso: jpn
     name: パニム語
     auto: true

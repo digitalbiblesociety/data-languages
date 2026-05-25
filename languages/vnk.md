@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Temotu > Utupua-Vanikoro > Lovono"
 wikipedia_url: "https://en.wikipedia.org/wiki/Lovono_language"
 translations:
+  - translation_iso: ara
+    name: فانو
+    auto: true
   - translation_iso: jpn
     name: ロヴォノ語
   - translation_iso: zho

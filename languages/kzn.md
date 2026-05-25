@@ -14,6 +14,9 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > East Bantu > North Mozambique Bantu > Chuwaboic > Lolo-Kokola > Kokola"
 translations:
+  - translation_iso: ara
+    name: كوكولا
+    auto: true
   - translation_iso: jpn
     name: ココラ語
     auto: true

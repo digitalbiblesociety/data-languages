@@ -14,6 +14,9 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Gbaya-Manza-Ngbaka > Gbaya Oriental > Gbanu-Manza-Ngbaka > Manza-Ngbaka > Manzaic > Ngbaka-Manza-Ali > Ngbaka Manza"
 translations:
+  - translation_iso: ara
+    name: نجبكا مانزا
+    auto: true
   - translation_iso: jpn
     name: ングバカ・マンザ語
     auto: true

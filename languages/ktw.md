@@ -15,6 +15,9 @@ glottolog_family_name: Athabaskan-Eyak-Tlingit
 glottolog_classification: "Athabaskan-Eyak-Tlingit > Athabaskan-Eyak > Athabaskan > Pacific Coast Athabaskan > California Athabaskan > Kato"
 wikipedia_url: "https://en.wikipedia.org/wiki/Cahto_language"
 translations:
+  - translation_iso: ara
+    name: كاتو
+    auto: true
   - translation_iso: jpn
     name: カト語
     auto: true

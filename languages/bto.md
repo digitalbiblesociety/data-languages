@@ -16,6 +16,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Greater Central Philippine > Central Philippine > Bikol > Inland Bikol > Iriga Bicolano"
 wikipedia_url: "https://en.wikipedia.org/wiki/Rinconada_Bikol_language"
 translations:
+  - translation_iso: ara
+    name: رينْكونادا بيكول
+    auto: true
   - translation_iso: jpn
     name: イリガ・ビコール語
   - translation_iso: zho

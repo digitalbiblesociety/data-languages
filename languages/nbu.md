@@ -15,6 +15,9 @@ glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Kuki-Chin-Naga > Zemeic > Rongmei Naga"
 wikipedia_url: "https://en.wikipedia.org/wiki/Rongmei_language"
 translations:
+  - translation_iso: ara
+    name: رونجمي ناجا
+    auto: true
   - translation_iso: hin
     name: नरूंगमई भाषा
   - translation_iso: jpn

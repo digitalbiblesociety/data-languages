@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Yemne-Kimbi > Mungbam"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mungbam_language"
 translations:
+  - translation_iso: ara
+    name: لغة أبار
+    auto: true
   - translation_iso: jpn
     name: アバル語
     auto: true

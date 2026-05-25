@@ -15,6 +15,9 @@ glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Cushitic > South Cushitic > Greater West Rift South Cushitic > West Rift South Cushitic > Northern West Rift South Cushitic > Iraqwoid > Iraqw"
 wikipedia_url: "https://en.wikipedia.org/wiki/Iraqw_language"
 translations:
+  - translation_iso: ara
+    name: إيراقو
+    auto: true
   - translation_iso: jpn
     name: イラク語
   - translation_iso: zho

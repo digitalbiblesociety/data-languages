@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > North and Central Vanuatu > Northern Vanuatu > Torres-Banks linkage > Hiw-Lo-Toga > Lo-Toga"
 wikipedia_url: "https://en.wikipedia.org/wiki/Lo-Toga_language"
 translations:
+  - translation_iso: ara
+    name: لغة و-وجا
+    auto: true
   - translation_iso: jpn
     name: ロ・トガ語
     auto: true

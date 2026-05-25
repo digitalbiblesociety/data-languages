@@ -14,6 +14,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Gur > Samu > Palen"
 wikipedia_url: "https://en.wikipedia.org/wiki/Paleni_language"
 translations:
+  - translation_iso: ara
+    name: اللغة بالني
+    auto: true
   - translation_iso: jpn
     name: パレニ語
     auto: true

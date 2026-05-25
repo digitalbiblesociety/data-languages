@@ -15,6 +15,9 @@ glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Celtic > Nuclear Celtic > Core Celtic > Continental Transalpine Celtic > Unclassified Continental Transalpine Celtic > Galatian"
 wikipedia_url: "https://en.wikipedia.org/wiki/Galatian_language"
 translations:
+  - translation_iso: ara
+    name: غالاتيان
+    auto: true
   - translation_iso: jpn
     name: ガラティア語
   - translation_iso: kor

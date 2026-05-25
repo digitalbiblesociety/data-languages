@@ -15,6 +15,9 @@ glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Kainantu-Goroka > Goroka > Nuclear Goroka > Siane-Yagaria > Benabena"
 wikipedia_url: "https://en.wikipedia.org/wiki/Benabena_language"
 translations:
+  - translation_iso: ara
+    name: بينابينا
+    auto: true
   - translation_iso: jpn
     name: ベナベナ語
   - translation_iso: zho

@@ -14,6 +14,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > North New Guinea linkage > Ngero-Vitiaz linkage > Vitiaz linkage > Korap linkage > Mur Pano"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mur_Pano_language"
 translations:
+  - translation_iso: ara
+    name: مور بانو
+    auto: true
   - translation_iso: jpn
     name: ムル・パノ語
     auto: true

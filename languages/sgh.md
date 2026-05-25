@@ -15,6 +15,9 @@ glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Iranian-Nuristani > Iranian > Central Eastern Iranian > Shughni-Yazgulami > Shughnic > Shughni"
 wikipedia_url: "https://en.wikipedia.org/wiki/Shughni_language"
 translations:
+  - translation_iso: ara
+    name: شوغني
+    auto: true
   - translation_iso: hin
     name: शुग़नी भाषा
   - translation_iso: jpn

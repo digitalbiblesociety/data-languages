@@ -15,6 +15,9 @@ glottolog_family_name: Arawakan
 glottolog_classification: "Arawakan > Southern Maipuran > Kampa-Amuesha > Pre-Andine Maipuran > Asha-Ashe-Kak-Matsi-Nan > Matsi-Nan > Machiguenga"
 wikipedia_url: "https://en.wikipedia.org/wiki/Matsigenka_language"
 translations:
+  - translation_iso: ara
+    name: لغة ماتشيجينجا
+    auto: true
   - translation_iso: jpn
     name: マチゲンガ語
   - translation_iso: zho

@@ -15,6 +15,9 @@ glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Dani > Central Dani > Western Dani"
 wikipedia_url: "https://en.wikipedia.org/wiki/Western_Dani_language"
 translations:
+  - translation_iso: ara
+    name: داني الغربية
+    auto: true
   - translation_iso: jpn
     name: 西ダニ語
   - translation_iso: zho

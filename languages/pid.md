@@ -15,6 +15,9 @@ glottolog_family_name: Saliban
 glottolog_classification: "Saliban > Maco-Piaroa > Piaroa"
 wikipedia_url: "https://en.wikipedia.org/wiki/Piaroa_language"
 translations:
+  - translation_iso: ara
+    name: اللغة بيارويا
+    auto: true
   - translation_iso: jpn
     name: ピアロア語
     auto: true

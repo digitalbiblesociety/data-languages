@@ -15,6 +15,9 @@ glottolog_family_name: Otomanguean
 glottolog_classification: "Otomanguean > Eastern Otomanguean > Amuzgo-Mixtecan > Mixtecan > Mixtec-Cuicatec > Mixtec > Tezoatlanic > Cacaloxtepec Mixtec"
 wikipedia_url: "https://en.wikipedia.org/wiki/Cacaloxtepec_Mixtec"
 translations:
+  - translation_iso: ara
+    name: لغة مازاتك كاكالوكستيبك
+    auto: true
   - translation_iso: jpn
     name: カカロクステペク・ミステク語
     auto: true

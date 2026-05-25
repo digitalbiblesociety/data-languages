@@ -14,6 +14,9 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Northern Luzon > Meso-Cordilleran > South-Central Cordilleran > Central Cordilleran > Kalinga-Itneg > Kalinga > Central and South Kalinga > South Kalinga > Southeastern Kalinga > Tanudan Kalinga"
 translations:
+  - translation_iso: ara
+    name: لغة تانودان كالينجا
+    auto: true
   - translation_iso: jpn
     name: タヌダン・カリンガ語
     auto: true

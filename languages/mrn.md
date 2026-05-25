@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > Meso Melanesian linkage > New Ireland-Northwest Solomonic linkage > St George linkage > Northwest Solomonic > Santa Isabel > East Santa Isabel > Cheke Holo"
 wikipedia_url: "https://en.wikipedia.org/wiki/Cheke_Holo_language"
 translations:
+  - translation_iso: ara
+    name: لغة تشيكي هولو
+    auto: true
   - translation_iso: jpn
     name: チェケ・ホロ語
     auto: true

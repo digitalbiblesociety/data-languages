@@ -15,6 +15,9 @@ glottolog_family_name: Austroasiatic
 glottolog_classification: "Austroasiatic > Bahnaric > West Bahnaric > South Bahnaric > Mnong-Stieng-Chrau > Mnong > Eastern Mnong"
 wikipedia_url: "https://en.wikipedia.org/wiki/Eastern_Mnong"
 translations:
+  - translation_iso: ara
+    name: لغة منونج الشرقية
+    auto: true
   - translation_iso: jpn
     name: イースタン・ムノング語
     auto: true

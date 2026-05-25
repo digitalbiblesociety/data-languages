@@ -15,6 +15,9 @@ glottolog_family_name: Mongolic-Khitan
 glottolog_classification: "Mongolic-Khitan > Mongolic > Eastern Mongolic > Khalkha-Buriat > Mongolian > Halh Mongolian"
 wikipedia_url: "https://en.wikipedia.org/wiki/Khalkha_Mongolian"
 translations:
+  - translation_iso: ara
+    name: اللغة المنغولية الخالخا
+    auto: true
   - translation_iso: jpn
     name: ハルハ・モンゴル語
   - translation_iso: kor

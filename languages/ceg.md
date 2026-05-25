@@ -15,6 +15,9 @@ glottolog_family_name: Zamucoan
 glottolog_classification: "Zamucoan > Chamacoco"
 wikipedia_url: "https://en.wikipedia.org/wiki/Chamacoco_language"
 translations:
+  - translation_iso: ara
+    name: الشاماكوكو
+    auto: true
   - translation_iso: jpn
     name: チャマココ語
     auto: true

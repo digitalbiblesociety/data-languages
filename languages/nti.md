@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Gur > Samu > Natioro"
 wikipedia_url: "https://en.wikipedia.org/wiki/Natioro_language"
 translations:
+  - translation_iso: ara
+    name: ناتيورو
+    auto: true
   - translation_iso: jpn
     name: ナティオロ語
     auto: true

@@ -15,6 +15,9 @@ glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Bodic > Bodish > Phobjib-Chali-Bumthangic > Upper Mangdep"
 wikipedia_url: "https://en.wikipedia.org/wiki/Nyen_language"
 translations:
+  - translation_iso: ara
+    name: نينكها
+    auto: true
   - translation_iso: jpn
     name: ニェン語
   - translation_iso: zho

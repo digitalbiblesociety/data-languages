@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > North and Central Vanuatu > Central Vanuatu > Malakula > Western Malakula linkage > Peripheral Western Malakula > Southwestern Malakula > Letemboi-Repanbitip"
 wikipedia_url: "https://en.wikipedia.org/wiki/Lendamboi_language"
 translations:
+  - translation_iso: ara
+    name: ليتيمبوي
+    auto: true
   - translation_iso: jpn
     name: ムボットゴテ語
   - translation_iso: zho

@@ -15,6 +15,9 @@ glottolog_family_name: Nyulnyulan
 glottolog_classification: "Nyulnyulan > Eastern Nyulnyulan > Unclassified Eastern Nyulnyulan > Ngumbarl"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ngumbarl_language"
 translations:
+  - translation_iso: ara
+    name: نجومبارل
+    auto: true
   - translation_iso: jpn
     name: Ngumbarl語
   - translation_iso: zho

@@ -15,6 +15,9 @@ glottolog_family_name: Athabaskan-Eyak-Tlingit
 glottolog_classification: "Athabaskan-Eyak-Tlingit > Athabaskan-Eyak > Athabaskan > Pacific Coast Athabaskan > California Athabaskan > Mattole-Bear River"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mattole_language"
 translations:
+  - translation_iso: ara
+    name: لغة ماتول
+    auto: true
   - translation_iso: jpn
     name: マットレ語
     auto: true

@@ -15,6 +15,9 @@ glottolog_family_name: Gunwinyguan
 glottolog_classification: "Gunwinyguan > Western Gunwinyguan > Jawoyn"
 wikipedia_url: "https://en.wikipedia.org/wiki/Jawoyn_language"
 translations:
+  - translation_iso: ara
+    name: جاوين
+    auto: true
   - translation_iso: jpn
     name: ジャウィン語
     auto: true

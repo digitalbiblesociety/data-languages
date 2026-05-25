@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Kainji > Central Kainji > Shiroro-Kamuku > Kamuku-Hungwarya > Kamuku > Rogo-Sagamuk-Sama-Sambuga > Sagamuk-Sama-Sambuga > Eastern Acipa"
 wikipedia_url: "https://en.wikipedia.org/wiki/Eastern_Acipa_language"
 translations:
+  - translation_iso: ara
+    name: لغة إيسترن أسيپا
+    auto: true
   - translation_iso: jpn
     name: 東部アシパ語
     auto: true

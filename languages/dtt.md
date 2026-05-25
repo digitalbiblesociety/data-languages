@@ -15,6 +15,9 @@ glottolog_family_name: Dogon
 glottolog_classification: "Dogon > Plains Dogon > Toro Tegu Dogon"
 wikipedia_url: "https://en.wikipedia.org/wiki/Toro-tegu_Dogon"
 translations:
+  - translation_iso: ara
+    name: تورو تيجو دوجون
+    auto: true
   - translation_iso: jpn
     name: トロ・テグ・ドゴン語
     auto: true

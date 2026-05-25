@@ -15,6 +15,9 @@ glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Indo-Aryan > Middle-Modern Indo-Aryan > Continental Indo-Aryan > Indo-Aryan Southern zone > Marathic > Marathi-Konkani > Old-Modern Marathi > Modern Marathi > Varhadi-Nagpuri"
 wikipedia_url: "https://en.wikipedia.org/wiki/Varhadi_dialect"
 translations:
+  - translation_iso: ara
+    name: فارهادي-ناجبوري
+    auto: true
   - translation_iso: hin
     name: वर्हाडी बोली
   - translation_iso: jpn

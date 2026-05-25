@@ -14,6 +14,9 @@ glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Finisterre-Huon > Huon > Western Huon > Rawlinson > Pindiu > Dedua"
 wikipedia_url: "https://en.wikipedia.org/wiki/Dedua_language"
 translations:
+  - translation_iso: ara
+    name: ديدوا
+    auto: true
   - translation_iso: jpn
     name: デドゥア語
     auto: true

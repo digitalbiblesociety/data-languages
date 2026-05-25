@@ -15,6 +15,9 @@ glottolog_family_name: Yawa-Saweru
 glottolog_classification: "Yawa-Saweru > Yawa"
 wikipedia_url: "https://en.wikipedia.org/wiki/Yawa_language"
 translations:
+  - translation_iso: ara
+    name: اللغة ياوا
+    auto: true
   - translation_iso: jpn
     name: ヤワ語
   - translation_iso: zho

@@ -15,6 +15,9 @@ glottolog_family_name: Arawakan
 glottolog_classification: "Arawakan > Southern Maipuran > Purus-Chamicuro > Purus > Yineic > Western Yineic > Mashco Piro"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mashco_Piro_language"
 translations:
+  - translation_iso: ara
+    name: ماشكو بيرو
+    auto: true
   - translation_iso: jpn
     name: マシコ・ピロ語
   - translation_iso: zho

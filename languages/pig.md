@@ -14,6 +14,9 @@ glottolog_family_name: Unattested
 glottolog_classification: "Unattested > Pano-Tacanan (Unattested) > Pisabo"
 wikipedia_url: "https://en.wikipedia.org/wiki/Pisabo_language"
 translations:
+  - translation_iso: ara
+    name: اللغة بيسابو
+    auto: true
   - translation_iso: jpn
     name: ピサボ語
     auto: true

@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Sumatran > Batakic > Northern Batak > Batak Dairi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Pakpak_language"
 translations:
+  - translation_iso: ara
+    name: باتاك دايري
+    auto: true
   - translation_iso: jpn
     name: バタク・ダイリ語
   - translation_iso: zho

@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > North and Central Vanuatu > Central Vanuatu > Malakula > Northern Malakula > Malua-Tepërav"
 wikipedia_url: "https://en.wikipedia.org/wiki/Malua_Bay_language"
 translations:
+  - translation_iso: ara
+    name: لغة مالوا بي
+    auto: true
   - translation_iso: jpn
     name: マルア・ベイ語
     auto: true

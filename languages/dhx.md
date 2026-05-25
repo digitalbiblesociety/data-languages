@@ -8,6 +8,9 @@ country_name: Australia
 status_id: "9"
 wikipedia_url: "https://en.wikipedia.org/wiki/Dhungaloo_language"
 translations:
+  - translation_iso: ara
+    name: دونجالو
+    auto: true
   - translation_iso: jpn
     name: ドゥンガル語
     auto: true

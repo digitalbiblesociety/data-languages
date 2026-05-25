@@ -15,6 +15,9 @@ glottolog_family_name: Algic
 glottolog_classification: "Algic > Algonquian-Blackfoot > Algonquian > Eastern Algonquian > Delawaran > Common Delaware > Munsee"
 wikipedia_url: "https://en.wikipedia.org/wiki/Munsee_language"
 translations:
+  - translation_iso: ara
+    name: مونسي
+    auto: true
   - translation_iso: jpn
     name: マンシー語
   - translation_iso: zho

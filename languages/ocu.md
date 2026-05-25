@@ -15,6 +15,9 @@ glottolog_family_name: Otomanguean
 glottolog_classification: "Otomanguean > Western Otomanguean > Otopame-Chinantecan > Otopamean > Matlatzincan > Atzingo Matlatzinca"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ocuiltec_language"
 translations:
+  - translation_iso: ara
+    name: اللغة ماتلاتزينكا أتزينغو
+    auto: true
   - translation_iso: jpn
     name: アッツィンゴ・マトラツィンカ語
     auto: true

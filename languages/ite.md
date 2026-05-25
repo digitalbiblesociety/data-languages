@@ -15,6 +15,9 @@ glottolog_family_name: Chapacuran
 glottolog_classification: "Chapacuran > Moreic-Waric > Moreic > Kujubim-More > Itene"
 wikipedia_url: "https://en.wikipedia.org/wiki/Itene_language"
 translations:
+  - translation_iso: ara
+    name: إيتيني
+    auto: true
   - translation_iso: jpn
     name: イテネ語
     auto: true

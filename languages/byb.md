@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Beboid > Bikya"
 wikipedia_url: "https://en.wikipedia.org/wiki/Bikya_language"
 translations:
+  - translation_iso: ara
+    name: بيكْيا
+    auto: true
   - translation_iso: jpn
     name: Bikya語
   - translation_iso: zho

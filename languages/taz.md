@@ -15,6 +15,9 @@ glottolog_family_name: Narrow Talodi
 glottolog_classification: "Narrow Talodi > Buram-Saraf > Acheron-Tocho > Tocho"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tocho_language"
 translations:
+  - translation_iso: ara
+    name: توتشو
+    auto: true
   - translation_iso: jpn
     name: トチョ語
     auto: true

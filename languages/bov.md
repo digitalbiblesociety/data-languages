@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Kwa Volta-Congo > Ka-Togo > Kposo-Ahlo-Bowili > Tuwuli"
 wikipedia_url: "https://en.wikipedia.org/wiki/Bowili_language"
 translations:
+  - translation_iso: ara
+    name: توولي
+    auto: true
   - translation_iso: jpn
     name: ボウィリ語
   - translation_iso: zho

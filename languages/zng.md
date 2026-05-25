@@ -15,6 +15,9 @@ glottolog_family_name: Austroasiatic
 glottolog_classification: "Austroasiatic > Mangic > Mang"
 wikipedia_url: "https://en.wikipedia.org/wiki/M%E1%BA%A3ng_language"
 translations:
+  - translation_iso: ara
+    name: مانغ
+    auto: true
   - translation_iso: jpn
     name: マン語
   - translation_iso: kor

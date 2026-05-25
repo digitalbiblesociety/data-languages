@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Kwa Volta-Congo > Nyo > Potou-Tano > Tano > Guang > North Guang > Oti North Guang > River Oti North Guang > Chumbuli > Chumburung"
 wikipedia_url: "https://en.wikipedia.org/wiki/Chumburung_language"
 translations:
+  - translation_iso: ara
+    name: تشومبورونج
+    auto: true
   - translation_iso: jpn
     name: チュムブルング語
     auto: true

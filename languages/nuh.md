@@ -14,6 +14,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Northern Bantoid > Mambiloid > Nizaa-Mambila-Vute > Konja-Mambila-Vute > Mambila-Vute > Mambila-Mbongno > Mbongno-Mvano > Mvano-Ndunda > Ndunda"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ndunda_language"
 translations:
+  - translation_iso: ara
+    name: ندوندا
+    auto: true
   - translation_iso: jpn
     name: ンドゥンダ語
     auto: true

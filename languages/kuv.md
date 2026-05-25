@@ -14,6 +14,9 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Tanimbar-Bomberai > Teor-Kur > Kur"
 translations:
+  - translation_iso: ara
+    name: كور
+    auto: true
   - translation_iso: jpn
     name: クル語
     auto: true

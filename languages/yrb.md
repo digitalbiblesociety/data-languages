@@ -15,6 +15,9 @@ glottolog_family_name: Yareban
 glottolog_classification: "Yareban > Yareba-Bariji-Nawaru > Yareba"
 wikipedia_url: "https://en.wikipedia.org/wiki/Yareba_language"
 translations:
+  - translation_iso: ara
+    name: اللغة ياربا
+    auto: true
   - translation_iso: jpn
     name: ヤレバ語
     auto: true

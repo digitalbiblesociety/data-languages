@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Delta Cross > Upper Cross > Central Upper Cross > East-West Central Delta Cross > Lokoic > Lokaa"
 wikipedia_url: "https://en.wikipedia.org/wiki/Yak%C3%B6_language"
 translations:
+  - translation_iso: ara
+    name: لوكاا
+    auto: true
   - translation_iso: jpn
     name: ロカア語
     auto: true

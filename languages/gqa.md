@@ -15,6 +15,9 @@ glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > Biu-Mandara > South Biu-Mandara > Teraic > Eastern Tera > Ga'anda"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ga%27anda_language"
 translations:
+  - translation_iso: ara
+    name: "غآ'آندآ"
+    auto: true
   - translation_iso: jpn
     name: ガアンダ語
     auto: true

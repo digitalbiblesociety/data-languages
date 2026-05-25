@@ -15,6 +15,9 @@ glottolog_family_name: Nuclear Torricelli
 glottolog_classification: "Nuclear Torricelli > Wapei-Palei > Central Torricelli > Wapeic > Ningil-Yil > Ningil"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ningil_language"
 translations:
+  - translation_iso: ara
+    name: نينجيل
+    auto: true
   - translation_iso: jpn
     name: ニンギル語
     auto: true

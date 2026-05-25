@@ -14,6 +14,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Beboid > Eastern Beboid > Nsari-Nooni-Ncane > Nooni-Ncane > Ncane-Cung > Cung-Mbuk > Chung"
 wikipedia_url: "https://en.wikipedia.org/wiki/Chung_language"
 translations:
+  - translation_iso: ara
+    name: الشونغ
+    auto: true
   - translation_iso: jpn
     name: チュング語
     auto: true

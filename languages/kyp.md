@@ -9,6 +9,9 @@ status_id: 6a
 latitude: 22.43734
 longitude: 100.671175
 translations:
+  - translation_iso: ara
+    name: كانج
+    auto: true
   - translation_iso: jpn
     name: カン語
     auto: true

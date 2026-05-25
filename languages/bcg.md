@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > North-Central Atlantic > Naluic > Pukur"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mboteni_language"
 translations:
+  - translation_iso: ara
+    name: اللغة باجا بوكور
+    auto: true
   - translation_iso: jpn
     name: プクル語
   - translation_iso: zho

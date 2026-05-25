@@ -15,6 +15,9 @@ glottolog_family_name: "East Bird's Head"
 glottolog_classification: "East Bird's Head > Sougb"
 wikipedia_url: "https://en.wikipedia.org/wiki/Sougb_language"
 translations:
+  - translation_iso: ara
+    name: لغة مانيكيون
+    auto: true
   - translation_iso: jpn
     name: マニキオン語
     auto: true

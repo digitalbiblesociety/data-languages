@@ -14,6 +14,9 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > North-Central Atlantic > Wolof-BKK > Wolofic > Gambian Wolof"
 translations:
+  - translation_iso: ara
+    name: غامبيان وولوف
+    auto: true
   - translation_iso: jpn
     name: ガンビア・ウォロフ語
     auto: true

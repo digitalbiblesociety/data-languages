@@ -15,6 +15,9 @@ glottolog_family_name: Hmong-Mien
 glottolog_classification: "Hmong-Mien > Hmongic > Paheng-Younuo > Paheng > Wunai Bunu"
 wikipedia_url: "https://en.wikipedia.org/wiki/Hm_Nai_language"
 translations:
+  - translation_iso: ara
+    name: وونايي بونو
+    auto: true
   - translation_iso: jpn
     name: 唔奈方言
   - translation_iso: zho

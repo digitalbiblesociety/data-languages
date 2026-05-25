@@ -14,6 +14,9 @@ glottolog_family_name: Yam
 glottolog_classification: "Yam > Morehead-Maro > Nambu > Namat"
 wikipedia_url: "https://en.wikipedia.org/wiki/Namat_language"
 translations:
+  - translation_iso: ara
+    name: نامات
+    auto: true
   - translation_iso: jpn
     name: ナマト語
     auto: true

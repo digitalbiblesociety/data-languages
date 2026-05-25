@@ -15,6 +15,9 @@ glottolog_family_name: Dravidian
 glottolog_classification: "Dravidian > South Dravidian > South Dravidian I > Tamil-Kannada > Tamil-Kota > Kota (India)"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kota_language_(India)"
 translations:
+  - translation_iso: ara
+    name: لغة كوتا
+    auto: true
   - translation_iso: hin
     name: कोटा भाषा
   - translation_iso: jpn

@@ -15,6 +15,9 @@ glottolog_family_name: Otomanguean
 glottolog_classification: "Otomanguean > Western Otomanguean > Otopame-Chinantecan > Chinantecan > Central-Eastern Chinantec > Northwestern Chinantec > Chinantec Group I > Ojitlán Chinantec"
 wikipedia_url: "https://en.wikipedia.org/wiki/Chinantec_of_Ojitl%C3%A1n"
 translations:
+  - translation_iso: ara
+    name: أوجيتلان تشينانتك
+    auto: true
   - translation_iso: jpn
     name: オヒトラン・チナンテク語
     auto: true

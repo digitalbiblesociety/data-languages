@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Greater Seram Laut > Banda-Geser > Seran Laut > Koiwai-Irarutu > Kowiai"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kowiai_language"
 translations:
+  - translation_iso: ara
+    name: كوواي
+    auto: true
   - translation_iso: jpn
     name: コウィアイ語
     auto: true

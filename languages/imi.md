@@ -15,6 +15,9 @@ glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Madang > Kalamic-South Adelbert > South Adelbert > Osum-Wadaginam-Pomoikan > Pomoikan > Anamuxric > Anamuxra"
 wikipedia_url: "https://en.wikipedia.org/wiki/Anamgura_language"
 translations:
+  - translation_iso: ara
+    name: أنامغورا
+    auto: true
   - translation_iso: jpn
     name: アナムグラ語
     auto: true

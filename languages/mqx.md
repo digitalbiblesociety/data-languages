@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Greater South Sulawesi > South Sulawesi > Northern South Sulawesi > Mamuju"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mamuju_language"
 translations:
+  - translation_iso: ara
+    name: لغة ماموجو
+    auto: true
   - translation_iso: jpn
     name: マムジュ語
     auto: true

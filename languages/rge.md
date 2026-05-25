@@ -15,6 +15,9 @@ glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Graeco-Phrygian > Greek > South Greek > Central Greek > Koineic Greek > Modern Koineic Greek > Nuclear Modern Greek > Romano-Greek"
 wikipedia_url: "https://en.wikipedia.org/wiki/Romano-Greek"
 translations:
+  - translation_iso: ara
+    name: رومانو يوناني
+    auto: true
   - translation_iso: jpn
     name: ロマノギリシャ語
     auto: true

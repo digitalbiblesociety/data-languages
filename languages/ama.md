@@ -15,6 +15,9 @@ glottolog_family_name: Tupian
 glottolog_classification: "Tupian > Eastern Tupian > Maweti-Guarani > Aweti-Guarani > Tupi-Guarani > Tupi-Guarani Subgroup V > Arawetic > Amanayé"
 wikipedia_url: "https://en.wikipedia.org/wiki/Amanay%C3%A9_language"
 translations:
+  - translation_iso: ara
+    name: لغة أمانايي
+    auto: true
   - translation_iso: jpn
     name: アマナエ語
     auto: true

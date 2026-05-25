@@ -15,6 +15,9 @@ glottolog_family_name: Muskogean
 glottolog_classification: "Muskogean > Mikasuki"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mikasuki_language"
 translations:
+  - translation_iso: ara
+    name: لغة ميكاسوكي
+    auto: true
   - translation_iso: jpn
     name: ミカスキ語
   - translation_iso: zho

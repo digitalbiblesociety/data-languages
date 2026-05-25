@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Greater Central Philippine > Central Philippine > Bikol > Inagta Bikol > Isarog Agta"
 wikipedia_url: "https://en.wikipedia.org/wiki/Inagta_Partido_language"
 translations:
+  - translation_iso: ara
+    name: لغة إيسارج أغتا
+    auto: true
   - translation_iso: jpn
     name: イサログ・アグタ語
     auto: true

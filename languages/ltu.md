@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Nunusaku > Piru Bay > East Piru Bay > Solehua > Seram Straits > Uliase > Hatuhaha > Saparuan > Saparua-Latu > Latu"
 wikipedia_url: "https://en.wikipedia.org/wiki/Latu_language"
 translations:
+  - translation_iso: ara
+    name: لغة اتو
+    auto: true
   - translation_iso: jpn
     name: ラトゥ語
   - translation_iso: zho

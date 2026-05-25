@@ -15,6 +15,9 @@ glottolog_family_name: Otomanguean
 glottolog_classification: "Otomanguean > Eastern Otomanguean > Amuzgo-Mixtecan > Mixtecan > Mixtec-Cuicatec > Mixtec > Coast Mixtec > Ixtayutla Mixtec"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ixtayutla_Mixtec"
 translations:
+  - translation_iso: ara
+    name: إكستايوتلا ميكستيك
+    auto: true
   - translation_iso: jpn
     name: イクスタユトラ・ミシテク語
     auto: true

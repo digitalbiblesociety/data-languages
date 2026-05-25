@@ -15,6 +15,9 @@ glottolog_family_name: Unattested
 glottolog_classification: "Unattested > Umbugarla (Unattested) > Ngurmbur"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ngurmbur_language"
 translations:
+  - translation_iso: ara
+    name: نغورمبور
+    auto: true
   - translation_iso: jpn
     name: ングルンブル語
   - translation_iso: zho

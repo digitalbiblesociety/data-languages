@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Benue-Congo Plateau > Ndunic"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ahwai_language"
 translations:
+  - translation_iso: ara
+    name: أهواي
+    auto: true
   - translation_iso: jpn
     name: アフワイ語
     auto: true

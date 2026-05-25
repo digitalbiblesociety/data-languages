@@ -9,6 +9,9 @@ latitude: 36.829499
 longitude: 44.28591
 wikipedia_url: "https://en.wikipedia.org/wiki/Kurdish_Sign_Language"
 translations:
+  - translation_iso: ara
+    name: لغة الإشارة الكردية
+    auto: true
   - translation_iso: hin
     name: कुर्द सांकेतिक भाषा
   - translation_iso: jpn

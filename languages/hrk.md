@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Nunusaku > Piru Bay > East Piru Bay > Solehua > Seram Straits > Uliase > Hatuhaha > Haruku"
 wikipedia_url: "https://en.wikipedia.org/wiki/Haruku_language"
 translations:
+  - translation_iso: ara
+    name: هاروكو
+    auto: true
   - translation_iso: jpn
     name: ハルク語
     auto: true

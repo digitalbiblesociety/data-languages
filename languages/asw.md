@@ -14,6 +14,9 @@ glottolog_family_name: Sign Language
 glottolog_classification: "Sign Language > Auxiliary Sign Systems > Australian Aborigines Sign Language"
 wikipedia_url: "https://en.wikipedia.org/wiki/Australian_Aboriginal_sign_languages"
 translations:
+  - translation_iso: ara
+    name: لغة الإشارة الأسترالية الأصلية
+    auto: true
   - translation_iso: jpn
     name: オーストラリア・アボリジニ手話
   - translation_iso: zho

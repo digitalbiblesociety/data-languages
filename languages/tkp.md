@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Central Pacific linkage > Tokalau Fijian > Polynesian > Nuclear Polynesian > Tikopia"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tikopia_language"
 translations:
+  - translation_iso: ara
+    name: تيكوبيا
+    auto: true
   - translation_iso: jpn
     name: ティコピア語
   - translation_iso: zho

@@ -15,6 +15,9 @@ glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Greater Binanderean > Binanderean > North Binanderean > Suena"
 wikipedia_url: "https://en.wikipedia.org/wiki/Suena_language"
 translations:
+  - translation_iso: ara
+    name: اللغة سويينا
+    auto: true
   - translation_iso: jpn
     name: スエナ語
     auto: true

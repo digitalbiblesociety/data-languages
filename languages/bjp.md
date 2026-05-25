@@ -7,6 +7,9 @@ country_id: PG
 country_name: Papua New Guinea
 status_id: 6a
 translations:
+  - translation_iso: ara
+    name: فانامكت
+    auto: true
   - translation_iso: jpn
     name: ファナマケット語
     auto: true

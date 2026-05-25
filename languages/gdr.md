@@ -15,6 +15,9 @@ glottolog_family_name: Eastern Trans-Fly
 glottolog_classification: "Eastern Trans-Fly > Binaturi > Wipi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Wipi_language"
 translations:
+  - translation_iso: ara
+    name: الويبي
+    auto: true
   - translation_iso: jpn
     name: ウィピ語
   - translation_iso: kor

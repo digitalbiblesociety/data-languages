@@ -8,6 +8,9 @@ country_name: Nigeria
 status_id: "10"
 wikipedia_url: "https://en.wikipedia.org/wiki/%E1%BB%8Cch%E1%BB%8Bch%E1%BB%8B_language"
 translations:
+  - translation_iso: ara
+    name: أوتشيتشي
+    auto: true
   - translation_iso: jpn
     name: オチチ語
     auto: true

@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Greater South Sulawesi > South Sulawesi > Northern South Sulawesi > Toraja-Duri > Torajic > Kalumpangic > Talondo'"
 wikipedia_url: "https://en.wikipedia.org/wiki/Talondo%CA%BC_language"
 translations:
+  - translation_iso: ara
+    name: تالوندو
+    auto: true
   - translation_iso: jpn
     name: タロンド語
     auto: true

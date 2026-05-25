@@ -16,6 +16,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Basap-Greater Barito > Greater Barito linkage > Southeast Barito > Malagasic > North-Central Malagasic > Kibosy Kiantalaotsy-Majunga"
 wikipedia_url: "https://en.wikipedia.org/wiki/Bushi_language"
 translations:
+  - translation_iso: ara
+    name: بوشي
+    auto: true
   - translation_iso: jpn
     name: ブシ語
   - translation_iso: zho

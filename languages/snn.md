@@ -15,6 +15,9 @@ glottolog_family_name: Tucanoan
 glottolog_classification: "Tucanoan > Western Tucanoan > Napo Tucanoan > Siona-Secoya > Sionan > Siona-Tetete"
 wikipedia_url: "https://en.wikipedia.org/wiki/Siona_language"
 translations:
+  - translation_iso: ara
+    name: اللغة سيونا
+    auto: true
   - translation_iso: jpn
     name: ガンテーヤコカ語
     auto: true

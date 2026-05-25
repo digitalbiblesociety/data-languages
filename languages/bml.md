@@ -14,6 +14,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > Central-Western Bantu > North Zaire River > Rivers Bantu > Ngiri > Ngiri Terrien > Bombomic > Bomboli-Bozaba"
 wikipedia_url: "https://en.wikipedia.org/wiki/Bomboli%E2%80%93Bozaba_language"
 translations:
+  - translation_iso: ara
+    name: بومبولي
+    auto: true
   - translation_iso: jpn
     name: ボンボリ語
     auto: true

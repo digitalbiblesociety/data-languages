@@ -14,6 +14,9 @@ glottolog_family_name: Sign Language
 glottolog_classification: "Sign Language > L1 Sign Language > LSFic > ASLic > Sierra Leone Sign Language"
 wikipedia_url: "https://en.wikipedia.org/wiki/Sierra_Leonean_Sign_Language"
 translations:
+  - translation_iso: ara
+    name: سييرا ليون لغة الإشارة
+    auto: true
   - translation_iso: jpn
     name: シエラレオネ手話
   - translation_iso: zho

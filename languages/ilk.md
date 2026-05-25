@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Northern Luzon > Meso-Cordilleran > South-Central Cordilleran > Southern Cordilleran > Ilongot"
 wikipedia_url: "https://en.wikipedia.org/wiki/Bugkalot_language"
 translations:
+  - translation_iso: ara
+    name: إيلونغوت
+    auto: true
   - translation_iso: jpn
     name: イロンゴット語
   - translation_iso: zho

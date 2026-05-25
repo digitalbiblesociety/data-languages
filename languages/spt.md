@@ -15,6 +15,9 @@ glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Bodic > Bodish > Early Old Tibetan > Middle Old Tibetan > Late Old Tibetan > Lahauli-Spiti > Spiti-Jad > Spiti Bhoti"
 wikipedia_url: "https://en.wikipedia.org/wiki/Spiti_Bhoti"
 translations:
+  - translation_iso: ara
+    name: اللغة سبيتي بوتي
+    auto: true
   - translation_iso: hin
     name: स्पीति भाषा
   - translation_iso: jpn

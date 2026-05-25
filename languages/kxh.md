@@ -15,6 +15,9 @@ glottolog_family_name: South Omotic
 glottolog_classification: "South Omotic > AHK > Hamer-Karo > Karo (Ethiopia)"
 wikipedia_url: "https://en.wikipedia.org/wiki/Karo_language_(Ethiopia)"
 translations:
+  - translation_iso: ara
+    name: كارو (إثيوبيا)
+    auto: true
   - translation_iso: jpn
     name: カロ語
   - translation_iso: zho

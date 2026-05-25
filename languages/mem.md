@@ -15,6 +15,9 @@ glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > Desert Nyungic > Marrngu > Mangala"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mangarla_language"
 translations:
+  - translation_iso: ara
+    name: لغة مانجالا
+    auto: true
   - translation_iso: jpn
     name: マンガラ語
     auto: true

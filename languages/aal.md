@@ -15,6 +15,9 @@ glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > Biu-Mandara > North Biu-Mandara > Kotoko-Buduma > Kotoko Septentrional > Kotoko Septentrional 1 > Afade"
 wikipedia_url: "https://en.wikipedia.org/wiki/Afade_language"
 translations:
+  - translation_iso: ara
+    name: اللغة الأفادي
+    auto: true
   - translation_iso: jpn
     name: アファデ語
     auto: true

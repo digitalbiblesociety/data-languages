@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Akpes-Edoid > Edoid > North-Central Edoid > Central Plains Edoid > Esan"
 wikipedia_url: "https://en.wikipedia.org/wiki/Esan_language"
 translations:
+  - translation_iso: ara
+    name: إيسان
+    auto: true
   - translation_iso: jpn
     name: エサン語
     auto: true

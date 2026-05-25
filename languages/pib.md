@@ -15,6 +15,9 @@ glottolog_family_name: Arawakan
 glottolog_classification: "Arawakan > Southern Maipuran > Purus-Chamicuro > Purus > Yineic > Western Yineic > Yine"
 wikipedia_url: "https://en.wikipedia.org/wiki/Yine_language"
 translations:
+  - translation_iso: ara
+    name: اللغة يين
+    auto: true
   - translation_iso: jpn
     name: イネ語
   - translation_iso: zho

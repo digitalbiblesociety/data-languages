@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Micronesian > Central Micronesian > Western Micronesian > Chuukic-Ponapeic > Trukic > Nuclear Trukic > Central Trukic > Satawalese-Carolinian > Macro-Carolinian > Carolinian"
 wikipedia_url: "https://en.wikipedia.org/wiki/Carolinian_language"
 translations:
+  - translation_iso: ara
+    name: كارولينيان
+    auto: true
   - translation_iso: jpn
     name: カロリン語
   - translation_iso: kor

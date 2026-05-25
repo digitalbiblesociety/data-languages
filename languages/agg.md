@@ -15,6 +15,9 @@ glottolog_family_name: Senagi
 glottolog_classification: "Senagi > Angor"
 wikipedia_url: "https://en.wikipedia.org/wiki/Angor_language"
 translations:
+  - translation_iso: ara
+    name: لغة أنغور
+    auto: true
   - translation_iso: jpn
     name: アンゴル語
     auto: true

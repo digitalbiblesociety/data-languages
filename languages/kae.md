@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > East Formosan > Northern East Formosan > Ketangalan"
 wikipedia_url: "https://en.wikipedia.org/wiki/Luilang_language"
 translations:
+  - translation_iso: ara
+    name: لغة كيتانغالان
+    auto: true
   - translation_iso: jpn
     name: ケタガラン語
   - translation_iso: kor

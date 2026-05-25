@@ -15,6 +15,9 @@ glottolog_family_name: Kru
 glottolog_classification: "Kru > Eastern Kru > Unclassified Eastern Kru > Kodia"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kwadia_language"
 translations:
+  - translation_iso: ara
+    name: كوديا
+    auto: true
   - translation_iso: jpn
     name: コディア語
     auto: true

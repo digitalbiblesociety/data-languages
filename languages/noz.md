@@ -15,6 +15,9 @@ glottolog_family_name: Dizoid
 glottolog_classification: "Dizoid > Nayi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Nayi_language"
 translations:
+  - translation_iso: ara
+    name: ناي
+    auto: true
   - translation_iso: jpn
     name: ナイ語
     auto: true

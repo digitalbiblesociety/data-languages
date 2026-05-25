@@ -15,6 +15,9 @@ glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > Arandic-Thura-Yura > Arandic > South Arandic > Lower Southern Aranda"
 wikipedia_url: "https://en.wikipedia.org/wiki/Lower_Arrernte_language"
 translations:
+  - translation_iso: ara
+    name: اللغة أرندا الجنوبية السفلى
+    auto: true
   - translation_iso: jpn
     name: 下アレンテ語
   - translation_iso: zho

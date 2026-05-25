@@ -15,6 +15,9 @@ glottolog_family_name: Otomanguean
 glottolog_classification: "Otomanguean > Eastern Otomanguean > Amuzgo-Mixtecan > Mixtecan > Mixtec-Cuicatec > Mixtec > Central-Western Baja Mixtec > Silacayoapan Mixtec"
 wikipedia_url: "https://en.wikipedia.org/wiki/Silacayoapan_Mixtec"
 translations:
+  - translation_iso: ara
+    name: لغة مازاتك سيلاكايوابان
+    auto: true
   - translation_iso: jpn
     name: シラカヨアパン・ミステク語
     auto: true

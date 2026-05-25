@@ -14,6 +14,9 @@ glottolog_family_name: North Halmahera
 glottolog_classification: "North Halmahera > Northern North Halmahera > Mainland North Halmaheran > Tabaru"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tabaru_language"
 translations:
+  - translation_iso: ara
+    name: تابارو
+    auto: true
   - translation_iso: jpn
     name: トバル語
   - translation_iso: zho

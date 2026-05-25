@@ -15,6 +15,9 @@ glottolog_family_name: Dajuic
 glottolog_classification: "Dajuic > Western Dajuic > Nyala Dajuic > Baygo"
 wikipedia_url: "https://en.wikipedia.org/wiki/Beigo_language"
 translations:
+  - translation_iso: ara
+    name: بايْجو
+    auto: true
   - translation_iso: jpn
     name: ベイゴ語
   - translation_iso: zho

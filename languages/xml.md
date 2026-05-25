@@ -15,6 +15,9 @@ glottolog_family_name: Sign Language
 glottolog_classification: "Sign Language > L1 Sign Language > LSFic > ASLic > Malaysian Sign > Malaysian Sign Language"
 wikipedia_url: "https://en.wikipedia.org/wiki/Malaysian_Sign_Language"
 translations:
+  - translation_iso: ara
+    name: لغة الإشارة الماليزية
+    auto: true
   - translation_iso: hin
     name: मलेशियाई सांकेतिक भाषा
   - translation_iso: jpn

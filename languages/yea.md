@@ -15,6 +15,9 @@ glottolog_family_name: Dravidian
 glottolog_classification: "Dravidian > South Dravidian > South Dravidian I > Tamil-Kannada > Tamil-Kota > Tamil-Toda > Tamil-Irula > Tamil-Kodagu > Tamil-Malayalam > Malayalamoid > Ravulic > Ravula"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ravula_language"
 translations:
+  - translation_iso: ara
+    name: رافولا
+    auto: true
   - translation_iso: jpn
     name: ラブラ語
     auto: true

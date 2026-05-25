@@ -16,6 +16,9 @@ glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Germanic > Northwest Germanic > West Germanic > North Sea Germanic > Anglo-Frisian > Anglic > Later Anglic > Middle-Modern English > Macro-English > Guinea Coast Creole English > Caribbean English Creole > Eastern Caribbean Creole > Barbados-Eustatius > Virgin Islands Creole English"
 wikipedia_url: "https://en.wikipedia.org/wiki/Virgin_Islands_Creole"
 translations:
+  - translation_iso: ara
+    name: لغة إنجليزية كريولية جزر العذراء
+    auto: true
   - translation_iso: jpn
     name: ネーザーランズ・アンティルズ・クレオール英語
     auto: true

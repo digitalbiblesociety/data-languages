@@ -15,6 +15,9 @@ glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Indo-Aryan > Middle-Modern Indo-Aryan > Eastern Dardic > Nuclear Eastern Dardic > Kohistani > Indus Kohistanic > Outer Indus Kohistani > Gowro"
 wikipedia_url: "https://en.wikipedia.org/wiki/Gowro_language"
 translations:
+  - translation_iso: ara
+    name: غوورو
+    auto: true
   - translation_iso: hin
     name: गोवरो भाषा
   - translation_iso: jpn

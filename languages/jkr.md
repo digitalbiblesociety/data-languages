@@ -15,6 +15,9 @@ glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Macro-Tani > Koro-Holon > Koro"
 wikipedia_url: "https://en.wikipedia.org/wiki/Koro_language_(India)"
 translations:
+  - translation_iso: ara
+    name: لغة كورو
+    auto: true
   - translation_iso: hin
     name: कोरो भाषा
   - translation_iso: jpn

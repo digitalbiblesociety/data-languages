@@ -16,6 +16,9 @@ glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Germanic > Northwest Germanic > West Germanic > High German > Middle German > West Middle German > Rhenish Franconian > Palatinate > Pfaelzisch-Lothringisch"
 wikipedia_url: "https://en.wikipedia.org/wiki/Palatine_German_dialects"
 translations:
+  - translation_iso: ara
+    name: اللغة بفالتسيش
+    auto: true
   - translation_iso: jpn
     name: プファルツ語
   - translation_iso: kor

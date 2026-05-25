@@ -15,6 +15,9 @@ glottolog_family_name: Cariban
 glottolog_classification: "Cariban > Guianan > Maquiritari-Wayumara > Ye'kwana"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ye%EA%9E%8Ckuana_language"
 translations:
+  - translation_iso: ara
+    name: لغة ماكويريتاري
+    auto: true
   - translation_iso: jpn
     name: マキリタリ語
     auto: true

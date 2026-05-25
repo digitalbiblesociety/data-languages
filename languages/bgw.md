@@ -15,6 +15,9 @@ glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Indo-Aryan > Middle-Modern Indo-Aryan > Continental Indo-Aryan > Indo-Aryan Eastern zone > Halbic > Bhatri"
 wikipedia_url: "https://en.wikipedia.org/wiki/Bhatri_language"
 translations:
+  - translation_iso: ara
+    name: بهاتري
+    auto: true
   - translation_iso: hin
     name: भातरी भाषा
   - translation_iso: jpn

@@ -15,6 +15,9 @@ glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Madang > Croisilles > Bargam"
 wikipedia_url: "https://en.wikipedia.org/wiki/Bargam_language"
 translations:
+  - translation_iso: ara
+    name: لغة بارجام
+    auto: true
   - translation_iso: jpn
     name: バルガム語
     auto: true

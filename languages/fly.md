@@ -14,6 +14,9 @@ glottolog_family_id: spee1234
 glottolog_family_name: Speech Register
 glottolog_classification: "Speech Register > Indo-European Speech Register > Tsotsitaal"
 translations:
+  - translation_iso: ara
+    name: الفلايتال
+    auto: true
   - translation_iso: jpn
     name: ツォツィタール
   - translation_iso: zho

@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Kwa Volta-Congo > Nyo > Potou-Tano > Tano > Guang > South Guang > Awutu"
 wikipedia_url: "https://en.wikipedia.org/wiki/Awutu_language"
 translations:
+  - translation_iso: ara
+    name: لغة أوتو
+    auto: true
   - translation_iso: jpn
     name: アウトゥ語
     auto: true

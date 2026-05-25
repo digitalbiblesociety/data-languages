@@ -15,6 +15,9 @@ glottolog_family_name: Eskimo-Aleut
 glottolog_classification: "Eskimo-Aleut > Aleutic > Mednyj Aleut"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mednyj_Aleut_language"
 translations:
+  - translation_iso: ara
+    name: لغة ألوت ميدني
+    auto: true
   - translation_iso: jpn
     name: メードヌイ・アレウト語
   - translation_iso: zho

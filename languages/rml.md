@@ -15,6 +15,9 @@ glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Indo-Aryan > Middle-Modern Indo-Aryan > Continental Indo-Aryan > Midlands Indo-Aryan > Shaurasenic > Indo-Aryan Central zone > Romani > Baltic Romani"
 wikipedia_url: "https://en.wikipedia.org/wiki/Baltic_Romani"
 translations:
+  - translation_iso: ara
+    name: بالتيك رومانية
+    auto: true
   - translation_iso: jpn
     name: バルト・ロマ語
   - translation_iso: zho

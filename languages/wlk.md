@@ -15,6 +15,9 @@ glottolog_family_name: Athabaskan-Eyak-Tlingit
 glottolog_classification: "Athabaskan-Eyak-Tlingit > Athabaskan-Eyak > Athabaskan > Pacific Coast Athabaskan > California Athabaskan > Eel River Athabaskan"
 wikipedia_url: "https://en.wikipedia.org/wiki/Wailaki_language"
 translations:
+  - translation_iso: ara
+    name: وايلاكي
+    auto: true
   - translation_iso: jpn
     name: ワイラキ語
     auto: true

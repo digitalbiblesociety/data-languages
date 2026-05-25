@@ -15,6 +15,9 @@ glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Kuki-Chin-Naga > Angami-Ao > Central Naga > Yimchingric > Yimchungru Naga"
 wikipedia_url: "https://en.wikipedia.org/wiki/Yimkhiungr%C3%BC_language"
 translations:
+  - translation_iso: ara
+    name: اللغة ييمتشونغرو ناغا
+    auto: true
   - translation_iso: hin
     name: यिमचुंगगुरु भाषा
   - translation_iso: jpn

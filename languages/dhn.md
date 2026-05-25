@@ -15,6 +15,9 @@ glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Indo-Aryan > Middle-Modern Indo-Aryan > Continental Indo-Aryan > Midlands Indo-Aryan > Khandesic > Dhanki"
 wikipedia_url: "https://en.wikipedia.org/wiki/Dhanki_language"
 translations:
+  - translation_iso: ara
+    name: دانكي
+    auto: true
   - translation_iso: jpn
     name: ダンキ語
     auto: true

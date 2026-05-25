@@ -16,6 +16,9 @@ glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Germanic > Northwest Germanic > West Germanic > North Sea Germanic > Altsächsisch > Middle-Modern Low German > Low German > Greater East Low German > Plautdietsch"
 wikipedia_url: "https://en.wikipedia.org/wiki/Plautdietsch"
 translations:
+  - translation_iso: ara
+    name: اللغة بلاوتديتش
+    auto: true
   - translation_iso: jpn
     name: メノナイト低地ドイツ語
   - translation_iso: kor

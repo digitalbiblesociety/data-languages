@@ -15,6 +15,9 @@ glottolog_family_name: "West Bird's Head"
 glottolog_classification: "West Bird's Head > South West Bird's Head > Kalabra"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kalabra_language"
 translations:
+  - translation_iso: ara
+    name: كالابرا
+    auto: true
   - translation_iso: jpn
     name: カラブラ語
     auto: true

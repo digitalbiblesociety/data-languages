@@ -12,6 +12,9 @@ glottolog_family_name: Unclassifiable
 glottolog_classification: "Unclassifiable > Koguryo"
 wikipedia_url: "https://en.wikipedia.org/wiki/Goguryeo_language"
 translations:
+  - translation_iso: ara
+    name: اللغة كوغوريو
+    auto: true
   - translation_iso: jpn
     name: 高句麗語
   - translation_iso: kor

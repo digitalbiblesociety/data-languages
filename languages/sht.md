@@ -15,6 +15,9 @@ glottolog_family_name: Shastan
 glottolog_classification: "Shastan > Nuclear Shastan > Shasta"
 wikipedia_url: "https://en.wikipedia.org/wiki/Shasta_language"
 translations:
+  - translation_iso: ara
+    name: اللغة الشاستا
+    auto: true
   - translation_iso: jpn
     name: サステアン語
     auto: true

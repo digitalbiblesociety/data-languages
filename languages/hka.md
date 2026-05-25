@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > East Bantu > Northeast Savanna Bantu > Kilimanjaro-Taita > Kilimanjaro Bantu > Chaga > Central Kilimanjaro > Kahe"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kahe_language"
 translations:
+  - translation_iso: ara
+    name: كاهي
+    auto: true
   - translation_iso: jpn
     name: カヘ語
   - translation_iso: zho

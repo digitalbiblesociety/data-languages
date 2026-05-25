@@ -12,6 +12,9 @@ longitude: -69.96108
 glottocode: puqu1242
 wikipedia_url: "https://en.wikipedia.org/wiki/Puquina_language"
 translations:
+  - translation_iso: ara
+    name: اللغة بوكينا
+    auto: true
   - translation_iso: jpn
     name: Puquina語
   - translation_iso: kor

@@ -15,6 +15,9 @@ glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Anatolian > Luvo-Lydian > Luvo-Palaic > Luvic > Luvian > Cuneiform Luwian"
 wikipedia_url: "https://en.wikipedia.org/wiki/Cuneiform_Luwian"
 translations:
+  - translation_iso: ara
+    name: لووية
+    auto: true
   - translation_iso: jpn
     name: 楔形文字ルウィ語
   - translation_iso: zho

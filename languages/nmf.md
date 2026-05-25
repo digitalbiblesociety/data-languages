@@ -15,6 +15,9 @@ glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Kuki-Chin-Naga > Tangkhul-Maring > Tangkhulic > Nuclear Tangkhulic > East-Central Tangkhul Naga"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tangkhul_language"
 translations:
+  - translation_iso: ara
+    name: تانخول ناغا (الهند)
+    auto: true
   - translation_iso: hin
     name: तांगखुल भाषा
   - translation_iso: jpn

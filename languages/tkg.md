@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Basap-Greater Barito > Greater Barito linkage > Southeast Barito > Malagasic > Southwestern Malagasic > South West-Central Malagasic > Tesaka Malagasy"
 wikipedia_url: "https://en.wikipedia.org/wiki/Antesaka_dialect"
 translations:
+  - translation_iso: ara
+    name: ماداغاسكار تيساكا
+    auto: true
   - translation_iso: jpn
     name: タイサカ・マダガスカル語
   - translation_iso: zho

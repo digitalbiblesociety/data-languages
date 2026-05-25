@@ -15,6 +15,9 @@ glottolog_family_name: Cariban
 glottolog_classification: "Cariban > Pekodian > Xinguan > Ikpeng"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ikpeng_language"
 translations:
+  - translation_iso: ara
+    name: إكبينج
+    auto: true
   - translation_iso: jpn
     name: イクペング語
     auto: true

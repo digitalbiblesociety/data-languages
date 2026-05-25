@@ -15,6 +15,9 @@ glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Bodic > West Himalayish > Western West Himalayish > Lahaulic > Pattani"
 wikipedia_url: "https://en.wikipedia.org/wiki/Pattani_language"
 translations:
+  - translation_iso: ara
+    name: باتاني
+    auto: true
   - translation_iso: hin
     name: मंचन्द भाषा
   - translation_iso: jpn

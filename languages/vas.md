@@ -15,6 +15,9 @@ glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Indo-Aryan > Middle-Modern Indo-Aryan > Continental Indo-Aryan > Midlands Indo-Aryan > Bhil > Vasave-Noiri > Vasavi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Vasavi_language"
 translations:
+  - translation_iso: ara
+    name: فاسافي
+    auto: true
   - translation_iso: jpn
     name: ヴァサヴィ語
   - translation_iso: zho

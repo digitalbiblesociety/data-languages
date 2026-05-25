@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Celebic > Greater Eastern Celebic > Eastern Celebic > Saluan-Banggai > Western Saluan-Banggai > Saluanic > Batui-Saluan > Saluan"
 wikipedia_url: "https://en.wikipedia.org/wiki/Saluan_language"
 translations:
+  - translation_iso: ara
+    name: لغة الوان
+    auto: true
   - translation_iso: jpn
     name: サルアン語
     auto: true

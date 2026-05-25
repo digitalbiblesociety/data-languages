@@ -15,6 +15,9 @@ glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Indo-Aryan > Middle-Modern Indo-Aryan > Continental Indo-Aryan > Indo-Aryan Southern zone > Marathic > Marathi-Konkani > Old-Modern Marathi > Modern Marathi > Western Marathi > Phudagi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Phudagi_language"
 translations:
+  - translation_iso: ara
+    name: اللغة فوداغي
+    auto: true
   - translation_iso: jpn
     name: プダギ語
     auto: true

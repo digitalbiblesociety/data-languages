@@ -9,6 +9,9 @@ status_id: 6a
 latitude: 22.06028
 longitude: 101.14386
 translations:
+  - translation_iso: ara
+    name: لغة كيميهوا
+    auto: true
   - translation_iso: jpn
     name: ケミエフア語
     auto: true

@@ -14,6 +14,9 @@ glottolog_family_name: Sign Language
 glottolog_classification: "Sign Language > L1 Sign Language > LSFic > Central European Sign > Romanian Sign Language"
 wikipedia_url: "https://en.wikipedia.org/wiki/Romanian_Sign_Language"
 translations:
+  - translation_iso: ara
+    name: اللغة الرومانية للإشارة
+    auto: true
   - translation_iso: jpn
     name: ルーマニア手話
   - translation_iso: zho

@@ -14,6 +14,9 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > North Borneo Malayo-Polynesian > Sabahan > Southwest Sabahan > Greater Dusunic > Paitanic > Upper Kinabatangan-Lobu > Upper Kinabatangan"
 translations:
+  - translation_iso: ara
+    name: أبر كينابتانجان
+    auto: true
   - translation_iso: jpn
     name: アッパー・キナバタンガン語
     auto: true

@@ -15,6 +15,9 @@ glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > Yimidhirr-Yalanji-Yidinic > Guugu Yimidhirr"
 wikipedia_url: "https://en.wikipedia.org/wiki/Guugu_Yimithirr_language"
 translations:
+  - translation_iso: ara
+    name: لغة غوغو ييميدير
+    auto: true
   - translation_iso: jpn
     name: グーグ・イミディル語
   - translation_iso: zho

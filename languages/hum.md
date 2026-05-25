@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > Central-Western Bantu > West-Coastal Bantu > Nzadic > Lweric > Dingic > Loange-Atlantic > KLC Extended > Kikongo Language Cluster > Hungan-Samba > Hungan"
 wikipedia_url: "https://en.wikipedia.org/wiki/Hungana_language"
 translations:
+  - translation_iso: ara
+    name: هونغانا
+    auto: true
   - translation_iso: jpn
     name: フンガナ語
     auto: true

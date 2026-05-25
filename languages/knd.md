@@ -15,6 +15,9 @@ glottolog_family_name: Konda-Yahadian
 glottolog_classification: "Konda-Yahadian > Yaben (Konda)"
 wikipedia_url: "https://en.wikipedia.org/wiki/Konda_language_(Papuan)"
 translations:
+  - translation_iso: ara
+    name: لغة كوندا
+    auto: true
   - translation_iso: jpn
     name: コンダ語
     auto: true

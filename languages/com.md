@@ -15,6 +15,9 @@ glottolog_family_name: Uto-Aztecan
 glottolog_classification: "Uto-Aztecan > Northern Uto-Aztecan > Numic > Central Numic > Comanche"
 wikipedia_url: "https://en.wikipedia.org/wiki/Comanche_language"
 translations:
+  - translation_iso: ara
+    name: الكومانتشي
+    auto: true
   - translation_iso: jpn
     name: コマンチェ語
   - translation_iso: kor

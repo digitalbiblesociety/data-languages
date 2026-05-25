@@ -15,6 +15,9 @@ glottolog_family_name: Worrorran
 glottolog_classification: "Worrorran > Western Worrorran > Worrorra"
 wikipedia_url: "https://en.wikipedia.org/wiki/Worrorra_language"
 translations:
+  - translation_iso: ara
+    name: وورروررا
+    auto: true
   - translation_iso: jpn
     name: ウォロッラ語
     auto: true

@@ -14,6 +14,9 @@ glottolog_family_name: Sign Language
 glottolog_classification: "Sign Language > L1 Sign Language > LSFic > Yugoslav Sign > Croatian Sign Language"
 wikipedia_url: "https://en.wikipedia.org/wiki/Croatian_Sign_Language"
 translations:
+  - translation_iso: ara
+    name: لغة الإشارة الكرواتية
+    auto: true
   - translation_iso: jpn
     name: クロアチア手話
   - translation_iso: zho

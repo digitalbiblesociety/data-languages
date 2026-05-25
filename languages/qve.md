@@ -14,6 +14,9 @@ glottolog_family_id: quec1387
 glottolog_family_name: Quechuan
 glottolog_classification: "Quechuan > Southern Quechua > Cuscan Quechua > Eastern Apurímac Quechua"
 translations:
+  - translation_iso: ara
+    name: اللغة كويتشوا أبورينتك الشرقية
+    auto: true
   - translation_iso: hin
     name: ईस्टर्न अपुरीमैक क्वेचुआ
   - translation_iso: jpn

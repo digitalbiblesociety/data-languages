@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > Central-Western Bantu > North Zaire River > Rivers Bantu > Ngiri > Ngiri Terrien > Ngombe-Ababuan > Ababuan > Old Bomokandian > Ngbele-Ngenda > Extreme North Vestigial Suffixes Bantu > Ngbee"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ngbee_language"
 translations:
+  - translation_iso: ara
+    name: لغة نغبي
+    auto: true
   - translation_iso: jpn
     name: ングベー語
   - translation_iso: zho

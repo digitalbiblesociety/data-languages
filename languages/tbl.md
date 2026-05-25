@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Bilic > Tboli-Blaan > Tboli"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tboli_language"
 translations:
+  - translation_iso: ara
+    name: تبولي
+    auto: true
   - translation_iso: jpn
     name: トボリ語
     auto: true

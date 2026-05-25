@@ -14,6 +14,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Greater Central Philippine > Central Philippine > Bisayan > Central Bisayan > Warayan > Samar-Waray > Kinabalian"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kabalian_language"
 translations:
+  - translation_iso: ara
+    name: الكينابالي
+    auto: true
   - translation_iso: jpn
     name: キナバリアン語
     auto: true

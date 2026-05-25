@@ -15,6 +15,9 @@ glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Indo-Aryan > Middle-Modern Indo-Aryan > Eastern Dardic > Nuclear Eastern Dardic > Shinaic > Western Shinaic > Dangari > Palula"
 wikipedia_url: "https://en.wikipedia.org/wiki/Palula_language"
 translations:
+  - translation_iso: ara
+    name: اللغة فالورا
+    auto: true
   - translation_iso: hin
     name: पालूला भाषा
   - translation_iso: jpn

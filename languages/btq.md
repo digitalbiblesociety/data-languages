@@ -15,6 +15,9 @@ glottolog_family_name: Austroasiatic
 glottolog_classification: "Austroasiatic > Aslian > Central-Northern Aslian > North Aslian > Maniq-Menraq-Batek > Menraq-Batek > Batekic > Batek"
 wikipedia_url: "https://en.wikipedia.org/wiki/Batek_language"
 translations:
+  - translation_iso: ara
+    name: باتيك
+    auto: true
   - translation_iso: jpn
     name: バテック語
     auto: true

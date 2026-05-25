@@ -15,6 +15,9 @@ glottolog_family_name: Harakmbut
 glottolog_classification: "Harakmbut > Huachipaeri"
 wikipedia_url: "https://en.wikipedia.org/wiki/Watipaeri_language"
 translations:
+  - translation_iso: ara
+    name: هواتشيبايري
+    auto: true
   - translation_iso: jpn
     name: フアチパエリ語
     auto: true

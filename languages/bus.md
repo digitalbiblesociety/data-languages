@@ -14,6 +14,9 @@ glottolog_family_id: mand1469
 glottolog_family_name: Mande
 glottolog_classification: "Mande > Eastern Mande > Bisa-Busa > Samo-Busa > Busan > Boko-Busa > Bokobaru"
 translations:
+  - translation_iso: ara
+    name: بوكوباروو
+    auto: true
   - translation_iso: jpn
     name: ボコバル語
     auto: true

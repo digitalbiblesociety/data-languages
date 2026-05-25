@@ -16,6 +16,9 @@ glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Kuki-Chin-Naga > Kuki-Chin > Peripheral Kuki-Chin > Northeastern Kuki-Chin > Thadoic > Tedim Chin"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tedim_language"
 translations:
+  - translation_iso: ara
+    name: تيديم تشين
+    auto: true
   - translation_iso: jpn
     name: ティディム・チン語
   - translation_iso: zho

@@ -15,6 +15,9 @@ glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > Desert Nyungic > Warumungu"
 wikipedia_url: "https://en.wikipedia.org/wiki/Warumungu_language"
 translations:
+  - translation_iso: ara
+    name: وارومونغو
+    auto: true
   - translation_iso: jpn
     name: ワルムング語
   - translation_iso: zho

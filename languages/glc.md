@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Bua-Kim-Day > Adamawa Bua > Inland Bua > Goulaic > Bon Gula"
 wikipedia_url: "https://en.wikipedia.org/wiki/Bon_Gula_language"
 translations:
+  - translation_iso: ara
+    name: بون غولآ
+    auto: true
   - translation_iso: jpn
     name: ボン・グラ語
     auto: true

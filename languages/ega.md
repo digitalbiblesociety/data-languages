@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Ega"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ega_language"
 translations:
+  - translation_iso: ara
+    name: الإيجا
+    auto: true
   - translation_iso: jpn
     name: エガ語
   - translation_iso: zho

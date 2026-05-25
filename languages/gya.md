@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Gbaya-Manza-Ngbaka > Gbaya Meridional-Occidental > Northwest Gbaya"
 wikipedia_url: "https://en.wikipedia.org/wiki/Northwest_Gbaya_language"
 translations:
+  - translation_iso: ara
+    name: نورثوإست غبآيآ
+    auto: true
   - translation_iso: jpn
     name: 北西グバヤ語
   - translation_iso: zho

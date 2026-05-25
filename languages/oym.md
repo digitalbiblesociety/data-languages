@@ -15,6 +15,9 @@ glottolog_family_name: Tupian
 glottolog_classification: "Tupian > Eastern Tupian > Maweti-Guarani > Aweti-Guarani > Tupi-Guarani > Tupi-Guarani Subgroup VIII > Wayampi-Zoe-Emerillon > Wayampi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Wayampi_language"
 translations:
+  - translation_iso: ara
+    name: اللغة وايامبي
+    auto: true
   - translation_iso: jpn
     name: ワヤンピ語
   - translation_iso: zho

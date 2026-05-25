@@ -15,6 +15,9 @@ glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Germanic > Northwest Germanic > West Germanic > North Sea Germanic > Anglo-Frisian > Anglic > Later Anglic > Middle-Modern English > Macro-English > Guinea Coast Creole English > Caribbean English Creole > Eastern Caribbean Creole > Vincent-Grenadian Creole > Grenada-Tobago Creole > Tobagonian Creole English"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tobagonian_Creole"
 translations:
+  - translation_iso: ara
+    name: لغة الإنجليزية الكريولية التوباغونية
+    auto: true
   - translation_iso: jpn
     name: トバゴ・クレオール語
   - translation_iso: zho

@@ -14,6 +14,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > North and Central Vanuatu > Northern Vanuatu > Maewo > Baetora"
 wikipedia_url: "https://en.wikipedia.org/wiki/Baetora_language"
 translations:
+  - translation_iso: ara
+    name: باتورا
+    auto: true
   - translation_iso: jpn
     name: バエトラ語
     auto: true

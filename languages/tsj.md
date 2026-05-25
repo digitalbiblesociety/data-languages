@@ -16,6 +16,9 @@ glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Bodic > Tshanglic > Tshangla"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tshangla_language"
 translations:
+  - translation_iso: ara
+    name: تشانغلا
+    auto: true
   - translation_iso: hin
     name: सांगला भाषा
   - translation_iso: jpn

@@ -15,6 +15,9 @@ glottolog_family_name: Uto-Aztecan
 glottolog_classification: "Uto-Aztecan > Southern Uto-Aztecan > Tepiman > Tepehuan > Southern Tepehuan > Tepecano"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tepecano_language"
 translations:
+  - translation_iso: ara
+    name: تيبيكانو
+    auto: true
   - translation_iso: jpn
     name: テペカーノ語
     auto: true

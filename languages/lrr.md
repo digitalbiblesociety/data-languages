@@ -14,6 +14,9 @@ glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Himalayish > Mahakiranti > Kiranti > Eastern Kiranti > Upper Arun > Lohorung-Yamphu > Yamphuic > Southern Yamphu"
 translations:
+  - translation_iso: ara
+    name: لغة ووتهيرن امپهو
+    auto: true
   - translation_iso: jpn
     name: 南ヤンフ語
     auto: true

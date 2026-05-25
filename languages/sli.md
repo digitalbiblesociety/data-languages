@@ -16,6 +16,9 @@ glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Germanic > Northwest Germanic > West Germanic > High German > Middle German > East Middle German > Schlesisch-Wilmesau > Lower Silesian"
 wikipedia_url: "https://en.wikipedia.org/wiki/Silesian_German_language"
 translations:
+  - translation_iso: ara
+    name: السيليزية السفلى
+    auto: true
   - translation_iso: jpn
     name: 低シレジア語
   - translation_iso: kor

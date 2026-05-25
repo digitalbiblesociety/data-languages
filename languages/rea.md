@@ -14,6 +14,9 @@ glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Madang > Rai Coast > Mindjim > Upper Minjim > Rerau"
 wikipedia_url: "https://en.wikipedia.org/wiki/Rerau_language"
 translations:
+  - translation_iso: ara
+    name: ريراو
+    auto: true
   - translation_iso: jpn
     name: レラウ語
     auto: true

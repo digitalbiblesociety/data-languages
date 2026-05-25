@@ -15,6 +15,9 @@ glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Sinitic > Min > Inland Min > Min Beic > Min Bei Chinese"
 wikipedia_url: "https://en.wikipedia.org/wiki/Northern_Min"
 translations:
+  - translation_iso: ara
+    name: لغة مين بي الصينية
+    auto: true
   - translation_iso: jpn
     name: 閩北語
   - translation_iso: kor

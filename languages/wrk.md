@@ -15,6 +15,9 @@ glottolog_family_name: Garrwan
 glottolog_classification: "Garrwan > Garrwa"
 wikipedia_url: "https://en.wikipedia.org/wiki/Garrwa_language"
 translations:
+  - translation_iso: ara
+    name: غارروا
+    auto: true
   - translation_iso: jpn
     name: ガルワ語
     auto: true

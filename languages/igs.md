@@ -12,6 +12,9 @@ glottolog_family_name: Artificial Language
 glottolog_classification: "Artificial Language > Interglossa"
 wikipedia_url: "https://en.wikipedia.org/wiki/Interglossa"
 translations:
+  - translation_iso: ara
+    name: إنتيرغلوسا
+    auto: true
   - translation_iso: jpn
     name: インターグロッサ
   - translation_iso: zho

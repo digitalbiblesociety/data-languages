@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Southern Melanesian > New Caledonian > Mainland New Caledonian > Southern New Caledonian > Mid-Southern New Caledonian > Tiri-Mea"
 wikipedia_url: "https://en.wikipedia.org/wiki/T%C3%AEr%C3%AE_language"
 translations:
+  - translation_iso: ara
+    name: الطيري
+    auto: true
   - translation_iso: jpn
     name: ティンリン語
   - translation_iso: zho

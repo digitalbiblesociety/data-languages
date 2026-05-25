@@ -14,6 +14,9 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > Central-Western Bantu > West-Coastal Bantu > Nzadic > Lweric > Dingic > Loange-Atlantic > KLC Extended > Kikongo Language Cluster > Nuclear KLC > Kikongoic > Kambakunyic Kikongo > Kilaadic Kikongo > Central-Southern Kikongo > Southeastern Kikongo > Southern Kikongo > Koongo-Kituba > Kituba (Democratic Republic of Congo)"
 translations:
+  - translation_iso: ara
+    name: كيتوبا
+    auto: true
   - translation_iso: jpn
     name: キトゥバ語
     auto: true

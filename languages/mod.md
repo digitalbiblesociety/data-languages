@@ -15,6 +15,9 @@ glottolog_family_name: Pidgin
 glottolog_classification: "Pidgin > Choctaw-based pidgin > Mobilian"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mobilian_Jargon"
 translations:
+  - translation_iso: ara
+    name: لغة موبيليان
+    auto: true
   - translation_iso: jpn
     name: モビリアン語
   - translation_iso: zho

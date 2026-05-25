@@ -15,6 +15,9 @@ glottolog_family_name: Athabaskan-Eyak-Tlingit
 glottolog_classification: "Athabaskan-Eyak-Tlingit > Athabaskan-Eyak > Athabaskan > Apachean > Southwestern Apachean > Western Southwestern Apachean > Western Apache"
 wikipedia_url: "https://en.wikipedia.org/wiki/Western_Apache_language"
 translations:
+  - translation_iso: ara
+    name: اللغة أباتشي الغربية
+    auto: true
   - translation_iso: jpn
     name: サンカルロス・アパッチ語
   - translation_iso: zho

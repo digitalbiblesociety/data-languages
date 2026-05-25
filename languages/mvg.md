@@ -14,6 +14,9 @@ glottolog_family_id: otom1299
 glottolog_family_name: Otomanguean
 glottolog_classification: "Otomanguean > Eastern Otomanguean > Amuzgo-Mixtecan > Mixtecan > Mixtec-Cuicatec > Mixtec > Western Alta Mixtec > Tlaxiacic > Yucuane-Teita > Yucuañe Mixtec"
 translations:
+  - translation_iso: ara
+    name: لغة ميكستك يوكويني
+    auto: true
   - translation_iso: jpn
     name: ユクアニェ・ミステク語
     auto: true

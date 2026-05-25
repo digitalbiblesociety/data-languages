@@ -15,6 +15,9 @@ glottolog_family_name: Kxa
 glottolog_classification: "Kxa > Ju-Kung > South-Eastern Ju"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ju%C7%80%CA%BChoan_language"
 translations:
+  - translation_iso: ara
+    name: جوهوان
+    auto: true
   - translation_iso: jpn
     name: ジューホアン方言
   - translation_iso: zho

@@ -15,6 +15,9 @@ glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Kuki-Chin-Naga > Angami-Ao > Angami-Pochuri > Pochuri-Northern Rengma > Pochuri Naga"
 wikipedia_url: "https://en.wikipedia.org/wiki/Pochuri_language"
 translations:
+  - translation_iso: ara
+    name: بوشوري ناغا
+    auto: true
   - translation_iso: hin
     name: पोचुरी भाषा
   - translation_iso: jpn

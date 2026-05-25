@@ -10,6 +10,9 @@ status_id: 6b
 latitude: 16.92147
 longitude: -95.67269
 translations:
+  - translation_iso: ara
+    name: اللغة ميكسي كويتزالتيبك
+    auto: true
   - translation_iso: jpn
     name: ケツァルテペックミクステ語
     auto: true

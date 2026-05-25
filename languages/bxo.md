@@ -14,6 +14,9 @@ glottolog_family_name: Pidgin
 glottolog_classification: "Pidgin > Hausa-based pidgin > Barikanchi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Barikanchi_pidgin"
 translations:
+  - translation_iso: ara
+    name: باريْكانْشي
+    auto: true
   - translation_iso: jpn
     name: バリカンチ語
     auto: true

@@ -15,6 +15,9 @@ glottolog_family_name: Yanomamic
 glottolog_classification: "Yanomamic > Ninam-Yanomam-Yaroame > Ninam"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ninam_language"
 translations:
+  - translation_iso: ara
+    name: نينام
+    auto: true
   - translation_iso: jpn
     name: ニナム語
     auto: true

@@ -15,6 +15,9 @@ glottolog_family_name: Japonic
 glottolog_classification: "Japonic > Ryukyuan > Southern Ryukyu > Macro-Yaeyama > Yaeyama"
 wikipedia_url: "https://en.wikipedia.org/wiki/Yaeyama_language"
 translations:
+  - translation_iso: ara
+    name: ياييما
+    auto: true
   - translation_iso: jpn
     name: 八重山語
   - translation_iso: kor

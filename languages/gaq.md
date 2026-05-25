@@ -15,6 +15,9 @@ glottolog_family_name: Austroasiatic
 glottolog_classification: "Austroasiatic > Mundaic > Gata'"
 wikipedia_url: "https://en.wikipedia.org/wiki/Gta%CA%BC_language"
 translations:
+  - translation_iso: ara
+    name: جاتا
+    auto: true
   - translation_iso: hin
     name: गेता भाषा
   - translation_iso: jpn

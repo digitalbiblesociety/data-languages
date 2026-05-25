@@ -15,6 +15,9 @@ glottolog_family_name: Mangarrayi-Maran
 glottolog_classification: "Mangarrayi-Maran > Maran > Marra"
 wikipedia_url: "https://en.wikipedia.org/wiki/Marra_language"
 translations:
+  - translation_iso: ara
+    name: لغة مرا
+    auto: true
   - translation_iso: jpn
     name: マッラ語
   - translation_iso: kor

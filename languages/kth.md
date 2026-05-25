@@ -15,6 +15,9 @@ glottolog_family_name: Maban
 glottolog_classification: "Maban > Mabang > Maba-Masalit > Macro-Maba > Karanga"
 wikipedia_url: "https://en.wikipedia.org/wiki/Karanga_language"
 translations:
+  - translation_iso: ara
+    name: كارانجا
+    auto: true
   - translation_iso: jpn
     name: カランガ語
     auto: true

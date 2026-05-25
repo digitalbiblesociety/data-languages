@@ -15,6 +15,9 @@ glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > Arandic-Thura-Yura > Thura-Yura > Core Thura Yura > Southern Thura-Yura > Kaurna"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kaurna_language"
 translations:
+  - translation_iso: ara
+    name: اللغة كاورنا
+    auto: true
   - translation_iso: jpn
     name: ガウナ語
   - translation_iso: zho

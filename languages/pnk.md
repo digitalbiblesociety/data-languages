@@ -15,6 +15,9 @@ glottolog_family_name: Arawakan
 glottolog_classification: "Arawakan > Southern Maipuran > Bolivian Arawakan > Mojeno-Paunaca > Paunaka"
 wikipedia_url: "https://en.wikipedia.org/wiki/Paunaka_language"
 translations:
+  - translation_iso: ara
+    name: اللغة باوناكا
+    auto: true
   - translation_iso: jpn
     name: パウナ語
   - translation_iso: zho

@@ -15,6 +15,9 @@ glottolog_family_name: Tai-Kadai
 glottolog_classification: "Tai-Kadai > Kam-Tai > Kam-Sui > Then-MMS > Maonan-Mak-Sui > Maonan-Chadong > Maonan"
 wikipedia_url: "https://en.wikipedia.org/wiki/Maonan_language"
 translations:
+  - translation_iso: ara
+    name: لغة ماونان
+    auto: true
   - translation_iso: jpn
     name: マオナン語
   - translation_iso: zho

@@ -12,6 +12,9 @@ longitude: -61.81669
 glottocode: pira1253
 wikipedia_url: "https://en.wikipedia.org/wiki/Pirah%C3%A3_language"
 translations:
+  - translation_iso: ara
+    name: بيراها
+    auto: true
   - translation_iso: jpn
     name: ピダハン語
   - translation_iso: kor

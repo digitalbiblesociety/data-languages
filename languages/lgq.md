@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Kwa Volta-Congo > Na-Togo > Ikpana"
 wikipedia_url: "https://en.wikipedia.org/wiki/Logba_language"
 translations:
+  - translation_iso: ara
+    name: لغة وجبا
+    auto: true
   - translation_iso: jpn
     name: ログバ語
     auto: true

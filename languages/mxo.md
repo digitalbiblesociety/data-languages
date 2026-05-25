@@ -14,6 +14,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > Central-Western Bantu > Greater Luyana > Eastern Greater Luyana > Mbowe"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mbowe_language"
 translations:
+  - translation_iso: ara
+    name: مبوي
+    auto: true
   - translation_iso: jpn
     name: ムボウェ語
     auto: true

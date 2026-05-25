@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Timor-Babar > Southwest Maluku > Teun-Nila-Serua > Nila-Serua > Nila"
 wikipedia_url: "https://en.wikipedia.org/wiki/Nila_language"
 translations:
+  - translation_iso: ara
+    name: نيلا
+    auto: true
   - translation_iso: jpn
     name: ニラ語
     auto: true

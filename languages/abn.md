@@ -14,6 +14,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Delta Cross > Central Delta > Abua-Odual > Abua"
 wikipedia_url: "https://en.wikipedia.org/wiki/Abua_language"
 translations:
+  - translation_iso: ara
+    name: لغة أبوّا
+    auto: true
   - translation_iso: jpn
     name: アブア語
     auto: true

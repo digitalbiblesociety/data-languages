@@ -15,6 +15,9 @@ glottolog_family_name: Salishan
 glottolog_classification: "Salishan > Interior Salish > Northern Interior Salish > Thompsonic > Thompson"
 wikipedia_url: "https://en.wikipedia.org/wiki/Thompson_language"
 translations:
+  - translation_iso: ara
+    name: ثومبسون
+    auto: true
   - translation_iso: hin
     name: थॉम्पसन नदी सलीशन भाषा
   - translation_iso: jpn

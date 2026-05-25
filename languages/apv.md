@@ -14,6 +14,9 @@ glottolog_family_id: unat1236
 glottolog_family_name: Unattested
 glottolog_classification: "Unattested > Nambiquaran (Unattested) > Alapmunte"
 translations:
+  - translation_iso: ara
+    name: اللغة نامبيكوارا الشمالية
+    auto: true
   - translation_iso: jpn
     name: 北部ナンビクワラ語
     auto: true

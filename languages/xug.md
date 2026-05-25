@@ -15,6 +15,9 @@ glottolog_family_name: Japonic
 glottolog_classification: "Japonic > Ryukyuan > Northern Ryukyuan > Okinawa > Kunigami"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kunigami_language"
 translations:
+  - translation_iso: ara
+    name: كونيجامي
+    auto: true
   - translation_iso: jpn
     name: 沖縄北部方言
   - translation_iso: kor

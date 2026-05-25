@@ -15,6 +15,9 @@ glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Finisterre-Huon > Finisterre-Saruwaged > Erap > Boana > Numanggang"
 wikipedia_url: "https://en.wikipedia.org/wiki/Numanggang_language"
 translations:
+  - translation_iso: ara
+    name: نومانغانغ
+    auto: true
   - translation_iso: jpn
     name: ヌマンガン語
     auto: true

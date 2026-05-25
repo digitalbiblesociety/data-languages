@@ -15,6 +15,9 @@ glottolog_family_name: Sign Language
 glottolog_classification: "Sign Language > L1 Sign Language > Turkish Sign Language"
 wikipedia_url: "https://en.wikipedia.org/wiki/Turkish_Sign_Language"
 translations:
+  - translation_iso: ara
+    name: لغة الإشارة التركية
+    auto: true
   - translation_iso: hin
     name: तुर्की सांकेतिक भाषा
   - translation_iso: jpn

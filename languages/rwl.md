@@ -8,6 +8,9 @@ latitude: -6.51503
 longitude: 32.1803
 wikipedia_url: "https://en.wikipedia.org/wiki/Ruwila_language"
 translations:
+  - translation_iso: ara
+    name: رويلا
+    auto: true
   - translation_iso: jpn
     name: ルウィラ語
     auto: true

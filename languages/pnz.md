@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Cameroun-Ubangian > Mbumic > Central Mbum > Karangic > Kare-Pana > Pana (Central African Republic)"
 wikipedia_url: "https://en.wikipedia.org/wiki/Pana_language"
 translations:
+  - translation_iso: ara
+    name: اللغة بانا (جمهورية أفريقيا الوسطى)
+    auto: true
   - translation_iso: jpn
     name: パナ語
   - translation_iso: zho

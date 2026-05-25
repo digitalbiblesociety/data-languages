@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Jarawan > Nigerian Jarawan > Jaku-Gubi > Labir"
 wikipedia_url: "https://en.wikipedia.org/wiki/Labir_language"
 translations:
+  - translation_iso: ara
+    name: لغة لابير
+    auto: true
   - translation_iso: jpn
     name: ラビル語
     auto: true

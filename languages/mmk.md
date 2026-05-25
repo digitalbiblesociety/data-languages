@@ -15,6 +15,9 @@ glottolog_family_name: Dravidian
 glottolog_classification: "Dravidian > South Dravidian > South Dravidian II > Teluguic > Mukha-Dora"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mukha-Dora_language"
 translations:
+  - translation_iso: ara
+    name: لغة موخا-دورا
+    auto: true
   - translation_iso: jpn
     name: ムカ・ドラ語
     auto: true

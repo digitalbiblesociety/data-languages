@@ -15,6 +15,9 @@ glottolog_family_name: Arawakan
 glottolog_classification: "Arawakan > Southern Maipuran > Kampa-Amuesha > Pre-Andine Maipuran > Asha-Ashe-Kak-Matsi-Nan > Asha-Ashe-Kak > Ashe-Asha > Asheninka > South Ucayali Ashéninka"
 wikipedia_url: "https://en.wikipedia.org/wiki/South_Ucayali_Ash%C3%A9ninka"
 translations:
+  - translation_iso: ara
+    name: جنوب أوكاياليي أشينينكا
+    auto: true
   - translation_iso: jpn
     name: サウス・ウカヤリ・アシェニンカ語
     auto: true

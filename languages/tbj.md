@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > Meso Melanesian linkage > New Ireland-Northwest Solomonic linkage > Tungak-Nalik > Tiang"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tiang_language"
 translations:
+  - translation_iso: ara
+    name: تيانغ
+    auto: true
   - translation_iso: jpn
     name: ティアン語
   - translation_iso: zho

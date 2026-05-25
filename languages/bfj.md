@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Wide Grassfields > Narrow Grassfields > Mbam-Nkam > Southern Mbam-Nkam > Mbam-Nkam Nun > Bafanji"
 wikipedia_url: "https://en.wikipedia.org/wiki/Fanji_language"
 translations:
+  - translation_iso: ara
+    name: بافانجي
+    auto: true
   - translation_iso: jpn
     name: バファンジ語
     auto: true

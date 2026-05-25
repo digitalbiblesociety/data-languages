@@ -15,6 +15,9 @@ glottolog_family_name: Chibchan
 glottolog_classification: "Chibchan > Core Chibchan > Isthmic Chibchan > Eastern Isthmic Chibchan > Guaymiic > Ngäbere"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ng%C3%A4bere"
 translations:
+  - translation_iso: ara
+    name: نجäبإرإ
+    auto: true
   - translation_iso: jpn
     name: グワイミ語
   - translation_iso: zho

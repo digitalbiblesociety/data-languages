@@ -15,6 +15,9 @@ glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Bodic > West Himalayish > Eastern West Himalayish > Pithauragarh > Darma-Byangsi-Chaudangsi > Darma-Byangsi > Byangsi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Byangsi_language"
 translations:
+  - translation_iso: ara
+    name: بيانجسي
+    auto: true
   - translation_iso: hin
     name: ब्यांग्सी भाषा
   - translation_iso: jpn

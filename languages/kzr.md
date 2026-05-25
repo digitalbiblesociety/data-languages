@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Cameroun-Ubangian > Mbumic > Central Mbum > Karangic > Karang"
 wikipedia_url: "https://en.wikipedia.org/wiki/Karang_language"
 translations:
+  - translation_iso: ara
+    name: كارانج
+    auto: true
   - translation_iso: jpn
     name: カラン語
     auto: true

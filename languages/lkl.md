@@ -15,6 +15,9 @@ glottolog_family_name: Nuclear Torricelli
 glottolog_classification: "Nuclear Torricelli > Laeko-Libuat"
 wikipedia_url: "https://en.wikipedia.org/wiki/Laeko_language"
 translations:
+  - translation_iso: ara
+    name: لغة ايكو-يبوات
+    auto: true
   - translation_iso: jpn
     name: ラエコ・リブアット語
     auto: true

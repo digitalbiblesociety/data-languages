@@ -12,6 +12,9 @@ glottolog_family_name: Unclassifiable
 glottolog_classification: "Unclassifiable > San Francisco Solano"
 wikipedia_url: "https://en.wikipedia.org/wiki/Solano_language"
 translations:
+  - translation_iso: ara
+    name: سولانو
+    auto: true
   - translation_iso: jpn
     name: ソラノ語
     auto: true

@@ -15,6 +15,9 @@ glottolog_family_name: Algic
 glottolog_classification: "Algic > Wiyot"
 wikipedia_url: "https://en.wikipedia.org/wiki/Wiyot_language"
 translations:
+  - translation_iso: ara
+    name: وييوت
+    auto: true
   - translation_iso: jpn
     name: ウィヨット語
   - translation_iso: kor

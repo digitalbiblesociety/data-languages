@@ -15,6 +15,9 @@ glottolog_family_name: Tai-Kadai
 glottolog_classification: "Tai-Kadai > Kam-Tai > Daic-Beic > Daic > Northern Daic-Sek > Northern Daic > Zuojiang Zhuang"
 wikipedia_url: "https://en.wikipedia.org/wiki/Zuojiang_Zhuang_languages"
 translations:
+  - translation_iso: ara
+    name: تشوانغ زوجيانغ
+    auto: true
   - translation_iso: jpn
     name: 左江チワン語
   - translation_iso: zho

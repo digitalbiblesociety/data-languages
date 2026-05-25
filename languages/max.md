@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Malayo-Chamic > Malayic > Nuclear Malayic > Vehicular Malay > Eastern Indonesia Trade Malay > Manadoic Malay > North Moluccan Malay"
 wikipedia_url: "https://en.wikipedia.org/wiki/North_Moluccan_Malay"
 translations:
+  - translation_iso: ara
+    name: لغة ملايو شمالية
+    auto: true
   - translation_iso: jpn
     name: 北モルッカ・マレー語
   - translation_iso: zho

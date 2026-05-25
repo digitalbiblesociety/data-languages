@@ -15,6 +15,9 @@ glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > Yimidhirr-Yalanji-Yidinic > Yidinic > Yidiñ"
 wikipedia_url: "https://en.wikipedia.org/wiki/Yidiny_language"
 translations:
+  - translation_iso: ara
+    name: اللغة ييديني
+    auto: true
   - translation_iso: jpn
     name: イディニ語
     auto: true

@@ -15,6 +15,9 @@ glottolog_family_name: Lakes Plain
 glottolog_classification: "Lakes Plain > Tariku > West Tariku > Tause"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tause_language"
 translations:
+  - translation_iso: ara
+    name: تاوسي
+    auto: true
   - translation_iso: jpn
     name: タウセ語
     auto: true

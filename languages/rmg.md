@@ -15,6 +15,9 @@ glottolog_family_name: Speech Register
 glottolog_classification: "Speech Register > Indo-European Speech Register > Scandinavian Romani > Traveller Norwegian"
 wikipedia_url: "https://en.wikipedia.org/wiki/Rodi_language"
 translations:
+  - translation_iso: ara
+    name: مسافر نرويجي
+    auto: true
   - translation_iso: jpn
     name: トラベラーノルウェー語
     auto: true

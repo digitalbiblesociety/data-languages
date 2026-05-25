@@ -15,6 +15,9 @@ glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > East Chadic > East Chadic B > East Chadic B.1 > Dangla-Mabire-Birgit > Mabire"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mabire_language"
 translations:
+  - translation_iso: ara
+    name: لغة مابيري
+    auto: true
   - translation_iso: jpn
     name: マビレ語
     auto: true

@@ -15,6 +15,9 @@ glottolog_family_name: Tai-Kadai
 glottolog_classification: "Tai-Kadai > Kam-Tai > Kam-Sui > Mulam-Kam > Kamic > Southern Dong"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kam_language"
 translations:
+  - translation_iso: ara
+    name: لغة دونج الجنوبية
+    auto: true
   - translation_iso: jpn
     name: トン語
   - translation_iso: kor

@@ -14,6 +14,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > North and Central Vanuatu > Northern Vanuatu > Espiritu Santo > West Santo > Central Santo > Tiale"
 wikipedia_url: "https://en.wikipedia.org/wiki/Merei-Tiale_language"
 translations:
+  - translation_iso: ara
+    name: لغة تيالي
+    auto: true
   - translation_iso: jpn
     name: ティアレ語
     auto: true

@@ -16,6 +16,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Greater Central Philippine > Danaw > Maguindanao"
 wikipedia_url: "https://en.wikipedia.org/wiki/Maguindanao_language"
 translations:
+  - translation_iso: ara
+    name: لغة مجندانايون
+    auto: true
   - translation_iso: jpn
     name: マギンダナオ語
   - translation_iso: kor

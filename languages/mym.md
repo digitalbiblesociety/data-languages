@@ -15,6 +15,9 @@ glottolog_family_name: Surmic
 glottolog_classification: "Surmic > South Surmic > Southeast Surmic > Pastoral Surmic > Me'en"
 wikipedia_url: "https://en.wikipedia.org/wiki/Me%CA%BCen_language"
 translations:
+  - translation_iso: ara
+    name: مي إن
+    auto: true
   - translation_iso: jpn
     name: メエン語
     auto: true

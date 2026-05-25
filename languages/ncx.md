@@ -15,6 +15,9 @@ glottolog_family_name: Uto-Aztecan
 glottolog_classification: "Uto-Aztecan > Southern Uto-Aztecan > Corachol-Aztecan > Aztec > Eastern Nahuatl > Central Puebla Nahuatl"
 wikipedia_url: "https://en.wikipedia.org/wiki/Central_Puebla_Nahuatl"
 translations:
+  - translation_iso: ara
+    name: سينترال بويبلا ناهواتل
+    auto: true
   - translation_iso: jpn
     name: 中央プエブラ・ナワトル語
     auto: true

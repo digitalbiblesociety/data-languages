@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Cameroun-Ubangian > Central Adamawa > Mumuye-Yandang > Mumuyic > Pangseng"
 wikipedia_url: "https://en.wikipedia.org/wiki/Pangseng_language"
 translations:
+  - translation_iso: ara
+    name: اللغة بانغسينغ
+    auto: true
   - translation_iso: jpn
     name: パングセン語
     auto: true

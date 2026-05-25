@@ -15,6 +15,9 @@ glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Bodic > Kaike-Ghale-Tamangic > Ghale-Tamangic > Ghale > Kutang Ghale"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kutang_language"
 translations:
+  - translation_iso: ara
+    name: كوكإ
+    auto: true
   - translation_iso: jpn
     name: クケ語
     auto: true

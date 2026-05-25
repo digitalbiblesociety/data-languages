@@ -15,6 +15,9 @@ glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Brahmaputran > Bodo-Garo > Deori"
 wikipedia_url: "https://en.wikipedia.org/wiki/Deori_language"
 translations:
+  - translation_iso: ara
+    name: ديوري
+    auto: true
   - translation_iso: hin
     name: डियोरी भाषा
   - translation_iso: jpn

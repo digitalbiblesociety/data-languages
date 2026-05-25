@@ -14,6 +14,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Kwa Volta-Congo > Nyo > Potou-Tano > Tano > Central Tano > Bia > Southern Bia > Ahanta"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ahanta_language"
 translations:
+  - translation_iso: ara
+    name: لغة أهانتا
+    auto: true
   - translation_iso: jpn
     name: アハンタ語
     auto: true

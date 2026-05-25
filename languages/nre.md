@@ -15,6 +15,9 @@ glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Kuki-Chin-Naga > Angami-Ao > Angami-Pochuri > Rengma-Simi > Southern Rengma Naga"
 wikipedia_url: "https://en.wikipedia.org/wiki/Rengma_language"
 translations:
+  - translation_iso: ara
+    name: رينغما ناغا الجنوبية
+    auto: true
   - translation_iso: hin
     name: रेंगमा भाषा
   - translation_iso: jpn

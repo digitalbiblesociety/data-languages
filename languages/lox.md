@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Nunusaku > Three Rivers > Amalumute > Northwest Seram > Loun"
 wikipedia_url: "https://en.wikipedia.org/wiki/Loun_language"
 translations:
+  - translation_iso: ara
+    name: لغة وون
+    auto: true
   - translation_iso: jpn
     name: ロウン語
     auto: true

@@ -15,6 +15,9 @@ glottolog_family_name: Central Sudanic
 glottolog_classification: "Central Sudanic > Sara-Bongo-Bagirmi > SBB Occidental > Nuclear SBB Occidental > Saraic > Sara Peripherique > Barh Keita > Sara-Kaba > Sara Kaba Deme"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kaba_Deme_language"
 translations:
+  - translation_iso: ara
+    name: سارا كابا ديمي
+    auto: true
   - translation_iso: jpn
     name: サラ・カバ・デメ語
     auto: true

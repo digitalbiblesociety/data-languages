@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Benue-Congo Plateau > Northern Benue-Congo Plateau > Nuclear Northern Benue-Congo Plateau > Kuturmi-Ajiya > Idon"
 wikipedia_url: "https://en.wikipedia.org/wiki/Idon_language"
 translations:
+  - translation_iso: ara
+    name: إيدون
+    auto: true
   - translation_iso: jpn
     name: イドン語
     auto: true

@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > Bantu A-B10-B20-B30 > Lundu-Balong (A.10) > Greater Manenguba > Bafaw-Balong-Manenguba > Manenguba > Central Manenguba > Bakaka"
 wikipedia_url: "https://en.wikipedia.org/wiki/Bakaka_language"
 translations:
+  - translation_iso: ara
+    name: باكاكا
+    auto: true
   - translation_iso: jpn
     name: バカカ語
     auto: true

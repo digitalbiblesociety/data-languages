@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Bima-Lembata > Flores > Flores-Lembata > Lamaholot Barat > Flores Lamaholot > Lamaholot"
 wikipedia_url: "https://en.wikipedia.org/wiki/Lamaholot_language"
 translations:
+  - translation_iso: ara
+    name: اللغة لاماهولوت
+    auto: true
   - translation_iso: jpn
     name: ラマホロット語
   - translation_iso: zho

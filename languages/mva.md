@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > North New Guinea linkage > Schouten linkage > Kairiru-Manam > Manamic linkage > Bam-Manam > Manam-Sepa > Manam"
 wikipedia_url: "https://en.wikipedia.org/wiki/Manam_language"
 translations:
+  - translation_iso: ara
+    name: لغة مانام
+    auto: true
   - translation_iso: jpn
     name: マナム語
   - translation_iso: zho

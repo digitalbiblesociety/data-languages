@@ -14,6 +14,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > North Borneo Malayo-Polynesian > Central Sarawak > Punan-Muller-Schwaner > Muller-Schwaner > Hovongan-Kereho > Hobongan"
 wikipedia_url: "https://en.wikipedia.org/wiki/Hovongan_language"
 translations:
+  - translation_iso: ara
+    name: هوفونغان
+    auto: true
   - translation_iso: jpn
     name: ホヴォンガン語
     auto: true

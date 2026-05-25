@@ -14,6 +14,9 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Gur > Tusia > Northern Toussian"
 translations:
+  - translation_iso: ara
+    name: توسيان الشمالية
+    auto: true
   - translation_iso: jpn
     name: ウィン語
     auto: true

@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Akpes-Edoid > Edoid > North-Central Edoid > Afenmai-Bendel > Uneme-Yekhee > Yekhee"
 wikipedia_url: "https://en.wikipedia.org/wiki/Afenmai_language"
 translations:
+  - translation_iso: ara
+    name: اليخي
+    auto: true
   - translation_iso: jpn
     name: イェッキー語
     auto: true

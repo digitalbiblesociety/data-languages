@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Land Dayak > Benyadu-Bekati > Benyadu'"
 wikipedia_url: "https://en.wikipedia.org/wiki/Nyadu%CA%BC_language"
 translations:
+  - translation_iso: ara
+    name: بينيادو
+    auto: true
   - translation_iso: jpn
     name: ベニャドゥ語
     auto: true

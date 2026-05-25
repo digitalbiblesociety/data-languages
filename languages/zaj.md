@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > East Bantu > Northeast Savanna Bantu > Northeast Coastal Bantu > Ruvu > East Ruvu > Central East Ruvu > Kutu-Zaramo > Zaramo"
 wikipedia_url: "https://en.wikipedia.org/wiki/Zaramo_language"
 translations:
+  - translation_iso: ara
+    name: اللغة زارامو
+    auto: true
   - translation_iso: jpn
     name: ザラモ語
   - translation_iso: zho

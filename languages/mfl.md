@@ -15,6 +15,9 @@ glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > Biu-Mandara > North Biu-Mandara > Margi-Mandara-Mofu > Bura-Marghi > Buraic > Putai"
 wikipedia_url: "https://en.wikipedia.org/wiki/Putai_language"
 translations:
+  - translation_iso: ara
+    name: لغة بوتاي
+    auto: true
   - translation_iso: jpn
     name: プタイ語
     auto: true

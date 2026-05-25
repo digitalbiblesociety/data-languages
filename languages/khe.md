@@ -14,6 +14,9 @@ glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Asmat-Awyu-Ok > Awyu-Ok > Greater Awyu > Becking-Dawi > Korowai"
 wikipedia_url: "https://en.wikipedia.org/wiki/Korowai_language"
 translations:
+  - translation_iso: ara
+    name: لغة كوروواي
+    auto: true
   - translation_iso: jpn
     name: コロワイ語
     auto: true

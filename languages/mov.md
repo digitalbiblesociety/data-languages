@@ -15,6 +15,9 @@ glottolog_family_name: Cochimi-Yuman
 glottolog_classification: "Cochimi-Yuman > Yuman > General Yuman > River Yuman > Mohave"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mojave_language"
 translations:
+  - translation_iso: ara
+    name: لغة موهافي
+    auto: true
   - translation_iso: jpn
     name: モハベ語
   - translation_iso: zho

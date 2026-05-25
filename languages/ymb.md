@@ -15,6 +15,9 @@ glottolog_family_name: Nuclear Torricelli
 glottolog_classification: "Nuclear Torricelli > Kombio-Arapesh-Urat > Kombio-Yambes > Yambes"
 wikipedia_url: "https://en.wikipedia.org/wiki/Yambes_language"
 translations:
+  - translation_iso: ara
+    name: اللغة يمبس
+    auto: true
   - translation_iso: jpn
     name: ヤンベス語
     auto: true

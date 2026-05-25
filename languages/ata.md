@@ -12,6 +12,9 @@ longitude: 151.05018
 glottocode: pele1245
 wikipedia_url: "https://en.wikipedia.org/wiki/Ata_language"
 translations:
+  - translation_iso: ara
+    name: اللغة بيليه-أتا
+    auto: true
   - translation_iso: jpn
     name: ペレアタ語
   - translation_iso: zho

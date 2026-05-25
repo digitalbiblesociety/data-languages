@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Northern Luzon > Cagayan Valley > Ibanagic > Gaddangic > Itawit"
 wikipedia_url: "https://en.wikipedia.org/wiki/Itawis_language"
 translations:
+  - translation_iso: ara
+    name: إيتاويت
+    auto: true
   - translation_iso: jpn
     name: イタウィット語
     auto: true

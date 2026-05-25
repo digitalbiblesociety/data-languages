@@ -15,6 +15,9 @@ glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > Masa > North Masa > Unclassified North Masa > Zumaya"
 wikipedia_url: "https://en.wikipedia.org/wiki/Zumaya_language"
 translations:
+  - translation_iso: ara
+    name: زومايا
+    auto: true
   - translation_iso: jpn
     name: ズマヤ語
     auto: true

@@ -15,6 +15,9 @@ glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Germanic > Northwest Germanic > West Germanic > North Sea Germanic > Anglo-Frisian > Anglic > Later Anglic > Middle-Modern English > Macro-English > Guinea Coast Creole English > West African Creole English > Krio"
 wikipedia_url: "https://en.wikipedia.org/wiki/Krio_language"
 translations:
+  - translation_iso: ara
+    name: كريو
+    auto: true
   - translation_iso: jpn
     name: クリオ語
   - translation_iso: kor

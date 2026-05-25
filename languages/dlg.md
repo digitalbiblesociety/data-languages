@@ -15,6 +15,9 @@ glottolog_family_name: Turkic
 glottolog_classification: "Turkic > Common Turkic > Sakha-Dolgan > Dolgan"
 wikipedia_url: "https://en.wikipedia.org/wiki/Dolgan_language"
 translations:
+  - translation_iso: ara
+    name: دولجان
+    auto: true
   - translation_iso: jpn
     name: ドルガン語
   - translation_iso: kor

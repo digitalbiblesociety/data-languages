@@ -15,6 +15,9 @@ glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Italic > Latino-Faliscan > Latinic > Imperial Latin > Romance > Southern Romance > Logudorese Sardinian"
 wikipedia_url: "https://en.wikipedia.org/wiki/Logudorese_Sardinian"
 translations:
+  - translation_iso: ara
+    name: اللغة اللوجودورية الساردينية
+    auto: true
   - translation_iso: jpn
     name: ログドーロ・サルデーニャ語
   - translation_iso: zho

@@ -15,6 +15,9 @@ glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > East Chadic > East Chadic B > East Chadic B.1 > Dangla-Mabire-Birgit > Birgit-Mogum-Toram > Birgit"
 wikipedia_url: "https://en.wikipedia.org/wiki/Birgit_language"
 translations:
+  - translation_iso: ara
+    name: بيرْجيت
+    auto: true
   - translation_iso: jpn
     name: ビルギット語
     auto: true

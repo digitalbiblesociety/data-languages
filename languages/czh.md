@@ -15,6 +15,9 @@ glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Sinitic > Classical-Middle-Modern Sinitic > Middle-Modern Sinitic > Wu-Hui Chinese > Hui Chinese"
 wikipedia_url: "https://en.wikipedia.org/wiki/Huizhou_Chinese"
 translations:
+  - translation_iso: ara
+    name: الهويتشو الصينية
+    auto: true
   - translation_iso: jpn
     name: 徽語
   - translation_iso: kor

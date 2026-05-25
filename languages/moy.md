@@ -15,6 +15,9 @@ glottolog_family_name: Ta-Ne-Omotic
 glottolog_classification: "Ta-Ne-Omotic > Kefoid > South Gonga > Shekkacho"
 wikipedia_url: "https://en.wikipedia.org/wiki/Shakacho_language"
 translations:
+  - translation_iso: ara
+    name: لغة شيكاتشو
+    auto: true
   - translation_iso: jpn
     name: シェッカチョ語
     auto: true

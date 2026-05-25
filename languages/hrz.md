@@ -15,6 +15,9 @@ glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Iranian-Nuristani > Iranian > Central Iranian PBS > Central Iranian PB > Northwestern Iranian > Adharic > Tatic > Northern Tatic > Harzani-Kilit"
 wikipedia_url: "https://en.wikipedia.org/wiki/Harzandi_dialect"
 translations:
+  - translation_iso: ara
+    name: هرزاني
+    auto: true
   - translation_iso: jpn
     name: Herzendī
   - translation_iso: zho

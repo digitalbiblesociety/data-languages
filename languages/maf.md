@@ -16,6 +16,9 @@ glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > Biu-Mandara > South Biu-Mandara > Matakam > Mafa"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mafa_language"
 translations:
+  - translation_iso: ara
+    name: لغة مافا
+    auto: true
   - translation_iso: jpn
     name: マファ語
   - translation_iso: kor

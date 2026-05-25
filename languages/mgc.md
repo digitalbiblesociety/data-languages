@@ -15,6 +15,9 @@ glottolog_family_name: Central Sudanic
 glottolog_classification: "Central Sudanic > Sara-Bongo-Bagirmi > Baka-Beli > Morokodo-Beli > Gberi-Morokodo-Mittu > Morokodo"
 wikipedia_url: "https://en.wikipedia.org/wiki/Morokodo_language"
 translations:
+  - translation_iso: ara
+    name: لغة موروكودو
+    auto: true
   - translation_iso: jpn
     name: モロコド語
   - translation_iso: zho

@@ -8,6 +8,9 @@ country_name: Australia
 status_id: 8b
 wikipedia_url: "https://en.wikipedia.org/wiki/Wadi_Wadi_dialect"
 translations:
+  - translation_iso: ara
+    name: وادي وادي
+    auto: true
   - translation_iso: jpn
     name: ワディ・ワディ語
     auto: true

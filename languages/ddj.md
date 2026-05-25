@@ -15,6 +15,9 @@ glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > Desert Nyungic > Ngumpin-Yapa > Ngumpin > Western Ngumpin > Jaru"
 wikipedia_url: "https://en.wikipedia.org/wiki/Djaru_language"
 translations:
+  - translation_iso: ara
+    name: جارو
+    auto: true
   - translation_iso: jpn
     name: ジャル語
   - translation_iso: zho

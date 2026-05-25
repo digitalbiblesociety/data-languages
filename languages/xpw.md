@@ -15,6 +15,9 @@ glottolog_family_name: Western Tasmanian
 glottolog_classification: "Western Tasmanian > Western Coastal Tasmanian > Northwestern Tasmanian"
 wikipedia_url: "https://en.wikipedia.org/wiki/Peerapper_language"
 translations:
+  - translation_iso: ara
+    name: تاسماني الشمالية الغربية
+    auto: true
   - translation_iso: jpn
     name: 北西タスマニア語
     auto: true

@@ -14,6 +14,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Basap-Greater Barito > Greater Barito linkage > Southeast Barito > Dusun Witu"
 wikipedia_url: "https://en.wikipedia.org/wiki/Dusun_Witu_language"
 translations:
+  - translation_iso: ara
+    name: دوسون ويتو
+    auto: true
   - translation_iso: jpn
     name: ドゥスン・ウィトゥ語
     auto: true

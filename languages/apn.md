@@ -15,6 +15,9 @@ glottolog_family_name: Nuclear-Macro-Je
 glottolog_classification: "Nuclear-Macro-Je > Je > Cerrado > Goyaz > Northern Je > Apinayé"
 wikipedia_url: "https://en.wikipedia.org/wiki/Apinay%C3%A9_language"
 translations:
+  - translation_iso: ara
+    name: اللغة أبيناييه
+    auto: true
   - translation_iso: jpn
     name: アピナエ語
     auto: true

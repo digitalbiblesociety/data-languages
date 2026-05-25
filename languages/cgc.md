@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Greater Central Philippine > Manobo > North Manobo > Kagayanen"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kagayanen_language"
 translations:
+  - translation_iso: ara
+    name: الكاغايانين
+    auto: true
   - translation_iso: jpn
     name: カガヤネン語
   - translation_iso: zho

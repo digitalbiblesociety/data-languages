@@ -15,6 +15,9 @@ glottolog_family_name: Border
 glottolog_classification: "Border > Warisic > Amanab"
 wikipedia_url: "https://en.wikipedia.org/wiki/Amanab_language"
 translations:
+  - translation_iso: ara
+    name: لغة أمانب
+    auto: true
   - translation_iso: jpn
     name: アマナブ語
     auto: true

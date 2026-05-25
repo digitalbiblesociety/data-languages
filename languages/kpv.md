@@ -15,6 +15,9 @@ glottolog_family_name: Uralic
 glottolog_classification: "Uralic > Permian > Komi > Komi-Zyrian"
 wikipedia_url: "https://en.wikipedia.org/wiki/Komi-Zyryan_language"
 translations:
+  - translation_iso: ara
+    name: لغة كومي زيريان
+    auto: true
   - translation_iso: jpn
     name: コミ・ジリエーン語
   - translation_iso: kor

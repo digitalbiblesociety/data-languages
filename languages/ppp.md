@@ -9,6 +9,9 @@ status_id: 6a
 latitude: -4.90877
 longitude: 17.3142
 translations:
+  - translation_iso: ara
+    name: اللغة بيليندي
+    auto: true
   - translation_iso: jpn
     name: ペレンデ語
     auto: true

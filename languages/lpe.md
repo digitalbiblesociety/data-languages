@@ -15,6 +15,9 @@ glottolog_family_name: Lepki-Murkim-Kembra
 glottolog_classification: "Lepki-Murkim-Kembra > Lepki"
 wikipedia_url: "https://en.wikipedia.org/wiki/Lepki_language"
 translations:
+  - translation_iso: ara
+    name: لغة يپكي
+    auto: true
   - translation_iso: jpn
     name: レプキ語
     auto: true

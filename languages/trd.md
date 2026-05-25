@@ -14,6 +14,9 @@ glottolog_family_name: Austroasiatic
 glottolog_classification: "Austroasiatic > Mundaic > North Munda > Kherwarian > Mundaric > Turi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Turi_language"
 translations:
+  - translation_iso: ara
+    name: توري
+    auto: true
   - translation_iso: hin
     name: तुरी भाषा
   - translation_iso: jpn

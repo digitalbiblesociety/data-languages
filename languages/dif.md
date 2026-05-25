@@ -15,6 +15,9 @@ glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > Karnic > Central Karnic > Western Central Karnic > Pirlatapa-Dieric > Dieric > Dieri"
 wikipedia_url: "https://en.wikipedia.org/wiki/Diyari_language"
 translations:
+  - translation_iso: ara
+    name: ديري
+    auto: true
   - translation_iso: jpn
     name: ディヤリ語
   - translation_iso: zho

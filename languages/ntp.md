@@ -14,6 +14,9 @@ glottolog_family_id: utoa1244
 glottolog_family_name: Uto-Aztecan
 glottolog_classification: "Uto-Aztecan > Southern Uto-Aztecan > Tepiman > Tepehuan > Northern Tepehuan"
 translations:
+  - translation_iso: ara
+    name: تيبيهوان الشمالية
+    auto: true
   - translation_iso: jpn
     name: 北テペワン語
     auto: true

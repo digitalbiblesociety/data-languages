@@ -14,6 +14,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Unclassified Benue-Congo > Tita"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tita_language"
 translations:
+  - translation_iso: ara
+    name: تيتا
+    auto: true
   - translation_iso: jpn
     name: ティタ語
     auto: true

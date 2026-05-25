@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > Papuan Tip linkage > Nuclear Papuan Tip linkage > Suauic > Buhutu"
 wikipedia_url: "https://en.wikipedia.org/wiki/Buhutu_language"
 translations:
+  - translation_iso: ara
+    name: بوهوتو
+    auto: true
   - translation_iso: jpn
     name: ブフトゥ語
     auto: true

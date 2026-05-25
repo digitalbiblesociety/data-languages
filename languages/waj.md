@@ -14,6 +14,9 @@ glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Kainantu-Goroka > Kainantu > Tairora > Waffa"
 wikipedia_url: "https://en.wikipedia.org/wiki/Waffa_language"
 translations:
+  - translation_iso: ara
+    name: وافا
+    auto: true
   - translation_iso: jpn
     name: ワッファ語
     auto: true

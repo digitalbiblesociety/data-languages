@@ -8,6 +8,9 @@ country_id: PH
 country_name: Philippines
 status_id: 6a
 translations:
+  - translation_iso: ara
+    name: البيكول البي الغربية
+    auto: true
   - translation_iso: jpn
     name: 西アルバイ・ビコール語
   - translation_iso: zho

@@ -15,6 +15,9 @@ glottolog_family_name: Athabaskan-Eyak-Tlingit
 glottolog_classification: "Athabaskan-Eyak-Tlingit > Athabaskan-Eyak > Athabaskan > Northwestern Canada Athabaskan > Cordillera Athabaskan > Beaver-Sekani > Sekani"
 wikipedia_url: "https://en.wikipedia.org/wiki/Sekani_language"
 translations:
+  - translation_iso: ara
+    name: سيكاني
+    auto: true
   - translation_iso: jpn
     name: セカニ語
   - translation_iso: zho

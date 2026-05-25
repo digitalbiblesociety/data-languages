@@ -15,6 +15,9 @@ glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Himalayish > Mahakiranti > Kiranti > Thulung-Tilung-Koyi > Koi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Koi_language"
 translations:
+  - translation_iso: ara
+    name: لغة كوي
+    auto: true
   - translation_iso: jpn
     name: コイ語
   - translation_iso: zho

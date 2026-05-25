@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Kainji > Central Kainji > Kambari-Cicipu > Kambaric > West Kambaric > Western-Kambari-Cishingini"
 wikipedia_url: "https://en.wikipedia.org/wiki/Shingini_language"
 translations:
+  - translation_iso: ara
+    name: اللغة تشيشينجيني
+    auto: true
   - translation_iso: jpn
     name: チシンギニ語
     auto: true

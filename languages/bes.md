@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Bua-Kim-Day > Kim-Besme-Goundo > Besme"
 wikipedia_url: "https://en.wikipedia.org/wiki/Besme_language"
 translations:
+  - translation_iso: ara
+    name: بيسمي
+    auto: true
   - translation_iso: jpn
     name: ベスメ語
     auto: true

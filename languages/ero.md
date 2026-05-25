@@ -15,6 +15,9 @@ glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Burmo-Qiangic > Na-Qiangic > Qiangic > Gyalrongic > West Gyalrongic > Nuclear West Gyalrongic > Horpa > Stau-Dgebshes"
 wikipedia_url: "https://en.wikipedia.org/wiki/Horpa_language"
 translations:
+  - translation_iso: ara
+    name: الهوربا
+    auto: true
   - translation_iso: jpn
     name: ホルパ語
   - translation_iso: zho

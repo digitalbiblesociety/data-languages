@@ -15,6 +15,9 @@ glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Kuki-Chin-Naga > Kuki-Chin > Northwestern Kuki-Chin > Central Old Kuki > Chiru"
 wikipedia_url: "https://en.wikipedia.org/wiki/Chiru_language"
 translations:
+  - translation_iso: ara
+    name: الشيرو
+    auto: true
   - translation_iso: jpn
     name: チル語
     auto: true

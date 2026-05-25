@@ -15,6 +15,9 @@ glottolog_family_name: Turkic
 glottolog_classification: "Turkic > Common Turkic > Oghuz > Nuclear Oghuz > Central Oghuz > North Azerbaijani"
 wikipedia_url: "https://en.wikipedia.org/wiki/North_Azerbaijani_language"
 translations:
+  - translation_iso: ara
+    name: اللغة أذربيجان الشمالية
+    auto: true
   - translation_iso: jpn
     name: 北アゼルバイジャン語
   - translation_iso: zho

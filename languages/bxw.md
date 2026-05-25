@@ -15,6 +15,9 @@ glottolog_family_name: Mande
 glottolog_classification: "Mande > Western Mande > Northwestern Mande > Duun-Bobo > Duun-Jo > Duun-Seenku > Duun > Bankagooma"
 wikipedia_url: "https://en.wikipedia.org/wiki/Banka_language"
 translations:
+  - translation_iso: ara
+    name: بانْكاجوما
+    auto: true
   - translation_iso: jpn
     name: バンカ語
   - translation_iso: zho

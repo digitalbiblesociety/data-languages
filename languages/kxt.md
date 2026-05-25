@@ -15,6 +15,9 @@ glottolog_family_name: Ndu
 glottolog_classification: "Ndu > Nuclear Ndu > Sawosic > Koiwat"
 wikipedia_url: "https://en.wikipedia.org/wiki/Koiwat_language"
 translations:
+  - translation_iso: ara
+    name: كويوات
+    auto: true
   - translation_iso: jpn
     name: コイワット語
     auto: true

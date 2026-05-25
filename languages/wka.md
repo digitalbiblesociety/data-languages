@@ -15,6 +15,9 @@ glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Cushitic > South Cushitic > Greater West Rift South Cushitic > Kw'adza"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kw%CA%BCadza_language"
 translations:
+  - translation_iso: ara
+    name: كوادزا
+    auto: true
   - translation_iso: jpn
     name: クァザ語
   - translation_iso: zho

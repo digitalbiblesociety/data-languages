@@ -15,6 +15,9 @@ glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Indo-Aryan > Middle-Modern Indo-Aryan > Continental Indo-Aryan > Indo-Aryan Eastern zone > Oriya-Gauda-Kamrupa > Macro-Oriya > Sambalpuri"
 wikipedia_url: "https://en.wikipedia.org/wiki/Sambalpuri_language"
 translations:
+  - translation_iso: ara
+    name: اللغة سامبالبوري
+    auto: true
   - translation_iso: hin
     name: सम्बलपुरी भाषा
   - translation_iso: jpn

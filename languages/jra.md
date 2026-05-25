@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Malayo-Chamic > Aceh-Chamic > Chamic > Rade-Jarai > Jarai"
 wikipedia_url: "https://en.wikipedia.org/wiki/Jarai_language"
 translations:
+  - translation_iso: ara
+    name: لغة جاراي
+    auto: true
   - translation_iso: jpn
     name: ジャライ語
   - translation_iso: zho

@@ -14,6 +14,9 @@ glottolog_family_name: Lower Sepik
 glottolog_classification: "Lower Sepik > Nor > Kopar"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kopar_language"
 translations:
+  - translation_iso: ara
+    name: كوبار
+    auto: true
   - translation_iso: jpn
     name: コパル語
     auto: true

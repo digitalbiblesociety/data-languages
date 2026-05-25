@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Greater Central Philippine > Central Philippine > Bikol > Coastal Bikol > Coastal-Virac Bikol"
 wikipedia_url: "https://en.wikipedia.org/wiki/Southern_Catanduanes_Bikol_language"
 translations:
+  - translation_iso: ara
+    name: بيكول كاتاندوانس الجنوبية
+    auto: true
   - translation_iso: jpn
     name: 南部カタンドゥアネス州ビトール語
   - translation_iso: zho

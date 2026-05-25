@@ -14,6 +14,9 @@ glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Bodic > Bodish > Early Old Tibetan > Middle Old Tibetan > Late Old Tibetan > Central Tibetan > South-Western Tibetic > Kyirong-Kagate > Gyalsumdo-Nubri-Kyirong > Kyerung"
 translations:
+  - translation_iso: ara
+    name: لغة كيرونج
+    auto: true
   - translation_iso: jpn
     name: キェルング語
     auto: true

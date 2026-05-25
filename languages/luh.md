@@ -13,6 +13,9 @@ glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Sinitic > Min > Coastal Min > Southern Min-Pu-Xian > Southern Min > Leiqiong > Leizhou Chinese"
 wikipedia_url: "https://en.wikipedia.org/wiki/Leizhou_Min"
 translations:
+  - translation_iso: ara
+    name: لغة ييزهوو هينيسي
+    auto: true
   - translation_iso: jpn
     name: 雷州語
   - translation_iso: kor

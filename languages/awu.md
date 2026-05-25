@@ -14,6 +14,9 @@ glottolog_family_id: nucl1709
 glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Asmat-Awyu-Ok > Awyu-Ok > Greater Awyu > Awyu-Dumut > Awyu > Mappi-Digul Awyu > Central Awyu"
 translations:
+  - translation_iso: ara
+    name: اللغة أويو الوسطى
+    auto: true
   - translation_iso: jpn
     name: 中央アウユ語
     auto: true

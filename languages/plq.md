@@ -15,6 +15,9 @@ glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Anatolian > Luvo-Lydian > Luvo-Palaic > Palaic"
 wikipedia_url: "https://en.wikipedia.org/wiki/Palaic_language"
 translations:
+  - translation_iso: ara
+    name: اللغة بالايك
+    auto: true
   - translation_iso: jpn
     name: パラ語
   - translation_iso: kor

@@ -15,6 +15,9 @@ glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Burmo-Qiangic > Lolo-Burmese > Burmish > Northern Burmish > Maruic > Pela"
 wikipedia_url: "https://en.wikipedia.org/wiki/Pela_language"
 translations:
+  - translation_iso: ara
+    name: بيلا
+    auto: true
   - translation_iso: jpn
     name: ペラ語
   - translation_iso: zho

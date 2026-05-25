@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > North New Guinea linkage > Huon Gulf > Markham > Upper Markham > Mountain Upper Markham > Mari (Madang Province)"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mari_language_(Madang_Province)"
 translations:
+  - translation_iso: ara
+    name: ماري
+    auto: true
   - translation_iso: jpn
     name: マリ語
   - translation_iso: zho

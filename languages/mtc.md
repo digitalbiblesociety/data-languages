@@ -15,6 +15,9 @@ glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Madang > Croisilles > Mabuso > Kokon > Munit"
 wikipedia_url: "https://en.wikipedia.org/wiki/Munit_language"
 translations:
+  - translation_iso: ara
+    name: لغة موني
+    auto: true
   - translation_iso: jpn
     name: ムニット語
     auto: true

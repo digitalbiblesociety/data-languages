@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > North-Central Atlantic > Jaad > Biafada"
 wikipedia_url: "https://en.wikipedia.org/wiki/Biafada_language"
 translations:
+  - translation_iso: ara
+    name: بيافادا
+    auto: true
   - translation_iso: jpn
     name: ビアファダ語
     auto: true

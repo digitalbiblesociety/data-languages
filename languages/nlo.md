@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > Central-Western Bantu > West-Coastal Bantu > Ngwii"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ngwii_language"
 translations:
+  - translation_iso: ara
+    name: نغول
+    auto: true
   - translation_iso: jpn
     name: ングル語
     auto: true

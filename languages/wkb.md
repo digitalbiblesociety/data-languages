@@ -8,6 +8,9 @@ country_name: India
 status_id: 6b
 wikipedia_url: "https://en.wikipedia.org/wiki/Kumbaran_language"
 translations:
+  - translation_iso: ara
+    name: كومباران
+    auto: true
   - translation_iso: jpn
     name: クンバラン語
     auto: true

@@ -16,6 +16,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Central Pacific linkage > Tokalau Fijian > Polynesian > Nuclear Polynesian > East Uvean-Niuafo'ou > East Uvean"
 wikipedia_url: "https://en.wikipedia.org/wiki/Wallisian_language"
 translations:
+  - translation_iso: ara
+    name: والليسيان
+    auto: true
   - translation_iso: jpn
     name: ウォリス語
   - translation_iso: zho

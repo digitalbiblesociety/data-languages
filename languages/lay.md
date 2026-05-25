@@ -11,6 +11,9 @@ latitude: 27.62373
 longitude: 98.46937
 wikipedia_url: "https://en.wikipedia.org/wiki/Lama_language_(Bai)"
 translations:
+  - translation_iso: ara
+    name: لاما باي
+    auto: true
   - translation_iso: jpn
     name: ラマ・バイ語
     auto: true

@@ -15,6 +15,9 @@ glottolog_family_name: Central Sudanic
 glottolog_classification: "Central Sudanic > Sara-Bongo-Bagirmi > SBB Occidental > Nuclear SBB Occidental > Fer-Gula > Gula (Central African Republic)"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tar_Gula_language"
 translations:
+  - translation_iso: ara
+    name: لغة غولا
+    auto: true
   - translation_iso: jpn
     name: グラ語
     auto: true

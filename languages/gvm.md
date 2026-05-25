@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Kainji > Central Kainji > Shiroro-Kamuku > Shiroro > Gurmana"
 wikipedia_url: "https://en.wikipedia.org/wiki/Gurmana_language"
 translations:
+  - translation_iso: ara
+    name: غورمآنآ
+    auto: true
   - translation_iso: jpn
     name: グルマナ語
     auto: true

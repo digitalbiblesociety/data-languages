@@ -15,6 +15,9 @@ glottolog_family_name: Austroasiatic
 glottolog_classification: "Austroasiatic > Mundaic > North Munda > Korku"
 wikipedia_url: "https://en.wikipedia.org/wiki/Korku_language"
 translations:
+  - translation_iso: ara
+    name: لغة كوركو
+    auto: true
   - translation_iso: hin
     name: कोरकू भाषा
   - translation_iso: jpn

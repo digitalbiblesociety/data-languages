@@ -15,6 +15,9 @@ glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > East Chadic > East Chadic A > East Chadic A.2 > East Chadic A.2 2 > Kabalai"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kabalai_language"
 translations:
+  - translation_iso: ara
+    name: كابالاي
+    auto: true
   - translation_iso: jpn
     name: カバライ語
     auto: true

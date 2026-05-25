@@ -12,6 +12,9 @@ longitude: 92.63
 glottocode: hrus1242
 wikipedia_url: "https://en.wikipedia.org/wiki/Hruso_language"
 translations:
+  - translation_iso: ara
+    name: هروسو
+    auto: true
   - translation_iso: hin
     name: अका भाषा
   - translation_iso: jpn

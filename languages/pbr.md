@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > East Bantu > Northeast Savanna Bantu > Southern Tanzania Highlands Bantu > Kisi-Pangwa > Pangwa"
 wikipedia_url: "https://en.wikipedia.org/wiki/Pangwa_language"
 translations:
+  - translation_iso: ara
+    name: اللغة بانغوا
+    auto: true
   - translation_iso: jpn
     name: パングワ語
     auto: true

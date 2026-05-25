@@ -15,6 +15,9 @@ glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Kuki-Chin-Naga > Kuki-Chin > Northwestern Kuki-Chin > Chothe"
 wikipedia_url: "https://en.wikipedia.org/wiki/Chothe_language"
 translations:
+  - translation_iso: ara
+    name: تشوتي ناجا
+    auto: true
   - translation_iso: jpn
     name: チョテ・ナガ語
     auto: true

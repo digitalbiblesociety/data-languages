@@ -15,6 +15,9 @@ glottolog_family_name: Mayan
 glottolog_classification: "Mayan > Core Mayan > Quichean-Mamean > Greater Quichean > Core Quichean > Quiche-Achi > Achi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Achi_language"
 translations:
+  - translation_iso: ara
+    name: لغة أتشي
+    auto: true
   - translation_iso: jpn
     name: アチ語
   - translation_iso: kor

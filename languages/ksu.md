@@ -15,6 +15,9 @@ glottolog_family_name: Tai-Kadai
 glottolog_classification: "Tai-Kadai > Kam-Tai > Daic-Beic > Daic > Central-Southwestern Tai > Wenma-Southwestern Tai > Sapa-Southwestern Tai > Southwestern Tai > Southwestern Tai P > Shanic > Sukaphic > Assam Tai B > Khamyang"
 wikipedia_url: "https://en.wikipedia.org/wiki/Khamyang_language"
 translations:
+  - translation_iso: ara
+    name: خام يانج
+    auto: true
   - translation_iso: hin
     name: खमयांग भाषा
   - translation_iso: jpn

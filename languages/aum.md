@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Ebira-Nupoid > Macro-Nupoid > Nupoid > Asu (Nigeria)"
 wikipedia_url: "https://en.wikipedia.org/wiki/Asu_language_(Nigeria)"
 translations:
+  - translation_iso: ara
+    name: اللغة أسو
+    auto: true
   - translation_iso: jpn
     name: アス語(ナイジェリア)
     auto: true

@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Kwa Volta-Congo > Na-Togo > Lelemic > Likpe-Santrokofi > Sekpele"
 wikipedia_url: "https://en.wikipedia.org/wiki/Likpe_language"
 translations:
+  - translation_iso: ara
+    name: لغة يكپيلي
+    auto: true
   - translation_iso: jpn
     name: セクペレ語
     auto: true

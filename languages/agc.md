@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Idomoid > Akweya > Etulo-Idoma > Nuclear Idoma > Idoma-Agatu-Okpogu > Agatu"
 wikipedia_url: "https://en.wikipedia.org/wiki/Agatu_language"
 translations:
+  - translation_iso: ara
+    name: لغة أغاتو
+    auto: true
   - translation_iso: jpn
     name: アガトゥ語
     auto: true

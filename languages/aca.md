@@ -15,6 +15,9 @@ glottolog_family_name: Arawakan
 glottolog_classification: "Arawakan > Japura-Colombia > Nuclear Japura-Colombia > Northeast Japura-Colombia > Piapoco-Achagua > Achagua"
 wikipedia_url: "https://en.wikipedia.org/wiki/Achagua_language"
 translations:
+  - translation_iso: ara
+    name: لغة أتشاغوّا
+    auto: true
   - translation_iso: jpn
     name: アチャワ語
   - translation_iso: zho

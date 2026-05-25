@@ -14,6 +14,9 @@ glottolog_family_id: otom1299
 glottolog_family_name: Otomanguean
 glottolog_classification: "Otomanguean > Eastern Otomanguean > Popoloca-Zapotecan > Zapotecan > Chatino > Core Chatino > Coastal Chatino > Eastern Chatino > Nopala Chatino"
 translations:
+  - translation_iso: ara
+    name: نوپالا تشاتينو
+    auto: true
   - translation_iso: jpn
     name: ノパラ・チャティーノ語
     auto: true

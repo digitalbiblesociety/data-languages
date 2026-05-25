@@ -15,6 +15,9 @@ glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Kuki-Chin-Naga > Kuki-Chin > Northwestern Kuki-Chin > Analic > Moyon-Monsang Naga > Moyon"
 wikipedia_url: "https://en.wikipedia.org/wiki/Moyon_language"
 translations:
+  - translation_iso: ara
+    name: مويون ناغا
+    auto: true
   - translation_iso: hin
     name: मोयोन भाषा
   - translation_iso: jpn

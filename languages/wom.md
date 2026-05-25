@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Cameroun-Ubangian > Central Adamawa > Samba-Duru > Southern Samba-Duru > Sambaic > Samba-Leko-Perema-Mumbake > Perema-Mumbake > Wom (Nigeria)"
 wikipedia_url: "https://en.wikipedia.org/wiki/Perema_language"
 translations:
+  - translation_iso: ara
+    name: ووم نيغيريا
+    auto: true
   - translation_iso: jpn
     name: ウォム語（ナイジェリア）
     auto: true

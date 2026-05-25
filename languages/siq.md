@@ -14,6 +14,9 @@ glottolog_family_name: Bosavi
 glottolog_classification: "Bosavi > Bosavi Watershed > Kaluli-Sunia > Sonia"
 wikipedia_url: "https://en.wikipedia.org/wiki/Sonia_language"
 translations:
+  - translation_iso: ara
+    name: اللغة السونيا
+    auto: true
   - translation_iso: jpn
     name: ソニア語
     auto: true

@@ -15,6 +15,9 @@ glottolog_family_name: Kwalean
 glottolog_classification: "Kwalean > Humene-Kwale > Humene"
 wikipedia_url: "https://en.wikipedia.org/wiki/Humene_language"
 translations:
+  - translation_iso: ara
+    name: هومين
+    auto: true
   - translation_iso: jpn
     name: フメネ語
     auto: true

@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Celebic > Kaili-Wolio > Northern Kaili-Wolio > Pamona-Tombelala > Pamona"
 wikipedia_url: "https://en.wikipedia.org/wiki/Pamona_language"
 translations:
+  - translation_iso: ara
+    name: اللغة بامونا
+    auto: true
   - translation_iso: jpn
     name: パモナ語
     auto: true

@@ -15,6 +15,9 @@ glottolog_family_name: Otomanguean
 glottolog_classification: "Otomanguean > Eastern Otomanguean > Amuzgo-Mixtecan > Mixtecan > Mixtec-Cuicatec > Mixtec > Guerrero Mixtec > Nuclear Guerrero Mixtec > Southwestern Guerrero Mixtec > Ayutla Mixtec"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ayutla_Mixtec"
 translations:
+  - translation_iso: ara
+    name: لغة مازاتك أيوتلا
+    auto: true
   - translation_iso: jpn
     name: アユトラ・ミステク語
     auto: true

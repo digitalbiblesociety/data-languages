@@ -15,6 +15,9 @@ glottolog_family_name: Nilotic
 glottolog_classification: "Nilotic > Southern Nilotic > Kalenjin > Central Kalenjin > Plateau Central Kalenjin > Western Plateau Central Kalenjin > Keiyo"
 wikipedia_url: "https://en.wikipedia.org/wiki/Keiyo_language"
 translations:
+  - translation_iso: ara
+    name: الكايو
+    auto: true
   - translation_iso: jpn
     name: ケイヨ語
   - translation_iso: zho

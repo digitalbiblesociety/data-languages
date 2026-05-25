@@ -15,6 +15,9 @@ glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > West Chadic > West Chadic A > West Chadic A.4 > Ronic > Mundat-Karfa > Duhwa"
 wikipedia_url: "https://en.wikipedia.org/wiki/Duhwa_language"
 translations:
+  - translation_iso: ara
+    name: لغة دوهوا
+    auto: true
   - translation_iso: jpn
     name: ドゥフワ語
     auto: true

@@ -14,6 +14,9 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > East Bantu > North Mozambique Bantu > Chuwaboic > Lolo-Kokola > Lolo"
 translations:
+  - translation_iso: ara
+    name: لغة ولو
+    auto: true
   - translation_iso: jpn
     name: ロロ語
     auto: true

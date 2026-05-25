@@ -15,6 +15,9 @@ glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > Masa > North Masa > Marba-Musey > Musey"
 wikipedia_url: "https://en.wikipedia.org/wiki/Musey_language"
 translations:
+  - translation_iso: ara
+    name: لغة موسي
+    auto: true
   - translation_iso: jpn
     name: ムセイ語
     auto: true

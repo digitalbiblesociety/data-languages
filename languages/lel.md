@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > Central-Western Bantu > North Zaire River > Inner Basin Bantu > Cuvette > Nkutsuic > Bushoong-Wongo-Lele > Lele (Democratic Republic of Congo)"
 wikipedia_url: "https://en.wikipedia.org/wiki/Lele_language_(Bantu)"
 translations:
+  - translation_iso: ara
+    name: لغة يلي
+    auto: true
   - translation_iso: jpn
     name: レレ語
     auto: true

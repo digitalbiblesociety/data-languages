@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Cameroun-Ubangian > Central Adamawa > Samba-Duru > Northern Samba-Duru > Vere-Gimme > Vere > Mom Jango"
 wikipedia_url: "https://en.wikipedia.org/wiki/Vere_language"
 translations:
+  - translation_iso: ara
+    name: موم جانجو
+    auto: true
   - translation_iso: jpn
     name: モム・ジャンゴ語
     auto: true

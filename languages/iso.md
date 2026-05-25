@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Akpes-Edoid > Edoid > Southwestern Edoid > Isoko"
 wikipedia_url: "https://en.wikipedia.org/wiki/Isoko_language"
 translations:
+  - translation_iso: ara
+    name: إيسوكو
+    auto: true
   - translation_iso: jpn
     name: イソコ語
   - translation_iso: zho

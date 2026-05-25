@@ -15,6 +15,9 @@ glottolog_family_name: Athabaskan-Eyak-Tlingit
 glottolog_classification: "Athabaskan-Eyak-Tlingit > Athabaskan-Eyak > Athabaskan > Pacific Coast Athabaskan > Oregon Athabaskan > Tolowa-Chetco"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tolowa_language"
 translations:
+  - translation_iso: ara
+    name: توللوا
+    auto: true
   - translation_iso: jpn
     name: トロワ語
     auto: true

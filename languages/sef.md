@@ -16,6 +16,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Senufo > Senari"
 wikipedia_url: "https://en.wikipedia.org/wiki/Cebaara_language"
 translations:
+  - translation_iso: ara
+    name: سيبارا سينوفو
+    auto: true
   - translation_iso: jpn
     name: セナリ語
     auto: true

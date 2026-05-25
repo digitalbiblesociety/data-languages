@@ -15,6 +15,9 @@ glottolog_family_name: Kadugli-Krongo
 glottolog_classification: "Kadugli-Krongo > Central-Western Kadugli-Krongo > Katcha-Kadugli-Miri-Kanga > Kanga"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kanga_language"
 translations:
+  - translation_iso: ara
+    name: لغة كانغا
+    auto: true
   - translation_iso: jpn
     name: カンガ語
     auto: true

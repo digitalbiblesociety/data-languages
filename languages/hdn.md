@@ -14,6 +14,9 @@ glottolog_family_id: haid1248
 glottolog_family_name: Haida
 glottolog_classification: "Haida > Northern Haida"
 translations:
+  - translation_iso: ara
+    name: نورثإرن هآيدآ
+    auto: true
   - translation_iso: jpn
     name: 北部ハイダ語
   - translation_iso: zho

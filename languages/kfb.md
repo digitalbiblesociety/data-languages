@@ -15,6 +15,9 @@ glottolog_family_name: Dravidian
 glottolog_classification: "Dravidian > Central Dravidian > Kolami-Naiki > Northwestern Kolami"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kolami"
 translations:
+  - translation_iso: ara
+    name: لغة كولامي الشمالية الغربية
+    auto: true
   - translation_iso: hin
     name: कोलामि भाषा
   - translation_iso: jpn

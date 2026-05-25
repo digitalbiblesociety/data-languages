@@ -12,6 +12,9 @@ longitude: -63.23631
 glottocode: sape1238
 wikipedia_url: "https://en.wikipedia.org/wiki/Sap%C3%A9_language"
 translations:
+  - translation_iso: ara
+    name: اللغة سابي
+    auto: true
   - translation_iso: jpn
     name: カリアナ語
     auto: true

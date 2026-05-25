@@ -15,6 +15,9 @@ glottolog_family_name: Maningrida
 glottolog_classification: "Maningrida > Nakkara-Ndjebbana > Nakara"
 wikipedia_url: "https://en.wikipedia.org/wiki/Nakkara_language"
 translations:
+  - translation_iso: ara
+    name: نا كارا
+    auto: true
   - translation_iso: jpn
     name: ナッカラ
   - translation_iso: zho

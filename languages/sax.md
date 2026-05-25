@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > North and Central Vanuatu > Central Vanuatu > South Pentecost > Sa"
 wikipedia_url: "https://en.wikipedia.org/wiki/Saa_language"
 translations:
+  - translation_iso: ara
+    name: سا
+    auto: true
   - translation_iso: jpn
     name: サ語
   - translation_iso: zho

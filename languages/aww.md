@@ -15,6 +15,9 @@ glottolog_family_name: Sepik
 glottolog_classification: "Sepik > Yellow River > Auwon"
 wikipedia_url: "https://en.wikipedia.org/wiki/Auwon_language"
 translations:
+  - translation_iso: ara
+    name: اللغة أون
+    auto: true
   - translation_iso: jpn
     name: アウン語
     auto: true

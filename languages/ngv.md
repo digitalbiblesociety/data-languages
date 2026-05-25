@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Jarawan > Nagumi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Nagumi_language"
 translations:
+  - translation_iso: ara
+    name: ناجومي
+    auto: true
   - translation_iso: jpn
     name: ナグミ語
   - translation_iso: zho

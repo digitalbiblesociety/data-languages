@@ -15,6 +15,9 @@ glottolog_family_name: Border
 glottolog_classification: "Border > Taikat-Awyi > Taikat"
 wikipedia_url: "https://en.wikipedia.org/wiki/Taikat_language"
 translations:
+  - translation_iso: ara
+    name: اللغة تايكات
+    auto: true
   - translation_iso: jpn
     name: タイカット語
     auto: true

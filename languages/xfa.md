@@ -14,6 +14,9 @@ glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Italic > Latino-Faliscan > Faliscan"
 wikipedia_url: "https://en.wikipedia.org/wiki/Faliscan_language"
 translations:
+  - translation_iso: ara
+    name: فاليسكان
+    auto: true
   - translation_iso: jpn
     name: ファリスク語
   - translation_iso: kor

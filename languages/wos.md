@@ -15,6 +15,9 @@ glottolog_family_name: Ndu
 glottolog_classification: "Ndu > Nuclear Ndu > Ambulas-Hanga-Hundi > Hanga Hundi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kwasengen_language"
 translations:
+  - translation_iso: ara
+    name: هانغا هوندي
+    auto: true
   - translation_iso: jpn
     name: ハンガ・フンディ語
     auto: true

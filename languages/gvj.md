@@ -15,6 +15,9 @@ glottolog_family_name: Tupian
 glottolog_classification: "Tupian > Eastern Tupian > Maweti-Guarani > Aweti-Guarani > Tupi-Guarani > Tupi-Guarani Subgroup VIII > Guaja-Kaapor-Ava > Guaja-Aure-Aura > Guajá"
 wikipedia_url: "https://en.wikipedia.org/wiki/Guaj%C3%A1_language"
 translations:
+  - translation_iso: ara
+    name: غوآجá
+    auto: true
   - translation_iso: jpn
     name: グアジャ語
   - translation_iso: zho

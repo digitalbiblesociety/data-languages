@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > North New Guinea linkage > Ngero-Vitiaz linkage > Vitiaz linkage > Southwest New Britain linkage > Arawe-Pasismanua > Bebeli-Mangseng > Mangseng"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mangseng_language"
 translations:
+  - translation_iso: ara
+    name: لغة مانجسينج
+    auto: true
   - translation_iso: jpn
     name: マンセン語
   - translation_iso: zho

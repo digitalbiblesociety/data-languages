@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Gur > Central Gur > Southern Central Gur > Kirma-Tyurama > Cerma"
 wikipedia_url: "https://en.wikipedia.org/wiki/Cerma_language"
 translations:
+  - translation_iso: ara
+    name: السيرما
+    auto: true
   - translation_iso: jpn
     name: セルマ語
     auto: true

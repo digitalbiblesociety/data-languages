@@ -14,6 +14,9 @@ glottolog_family_id: quec1387
 glottolog_family_name: Quechuan
 glottolog_classification: "Quechuan > Quechua I > Central Quechua I > Jauja-Huanca > Huaylla Wanca Quechua"
 translations:
+  - translation_iso: ara
+    name: اللغة كويتشوا هوايلا وانكا
+    auto: true
   - translation_iso: jpn
     name: ワイラワンカケチュア語
     auto: true

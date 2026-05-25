@@ -15,6 +15,9 @@ glottolog_family_name: Tai-Kadai
 glottolog_classification: "Tai-Kadai > Kam-Tai > Kam-Sui > Mulam-Kam > Mulam"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mulam_language"
 translations:
+  - translation_iso: ara
+    name: لغة مولام
+    auto: true
   - translation_iso: jpn
     name: ムーラオ語
   - translation_iso: zho

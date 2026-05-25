@@ -10,6 +10,9 @@ latitude: -6.36263
 longitude: 147.37562
 wikipedia_url: "https://en.wikipedia.org/wiki/Tobo_language"
 translations:
+  - translation_iso: ara
+    name: توبو
+    auto: true
   - translation_iso: jpn
     name: トボ語
     auto: true

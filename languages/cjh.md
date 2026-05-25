@@ -15,6 +15,9 @@ glottolog_family_name: Salishan
 glottolog_classification: "Salishan > Coast Salish > Tsamosan > Inland Tsamosan > Upper Chehalis"
 wikipedia_url: "https://en.wikipedia.org/wiki/Upper_Chehalis_language"
 translations:
+  - translation_iso: ara
+    name: الأعلى تشهاليس
+    auto: true
   - translation_iso: jpn
     name: 上チヘリス語
   - translation_iso: zho

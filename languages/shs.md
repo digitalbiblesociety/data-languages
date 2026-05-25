@@ -15,6 +15,9 @@ glottolog_family_name: Salishan
 glottolog_classification: "Salishan > Interior Salish > Northern Interior Salish > Thompsonic > Shuswap"
 wikipedia_url: "https://en.wikipedia.org/wiki/Shuswap_language"
 translations:
+  - translation_iso: ara
+    name: اللغة الشوسواب
+    auto: true
   - translation_iso: hin
     name: शुस्वाप भाषा
   - translation_iso: jpn

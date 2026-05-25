@@ -15,6 +15,9 @@ glottolog_family_name: Sepik
 glottolog_classification: "Sepik > Ram > Awtuw"
 wikipedia_url: "https://en.wikipedia.org/wiki/Awtuw_language"
 translations:
+  - translation_iso: ara
+    name: لغة أوتووو
+    auto: true
   - translation_iso: jpn
     name: アウトゥウ語
     auto: true

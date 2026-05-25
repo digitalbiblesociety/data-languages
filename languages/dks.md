@@ -14,6 +14,9 @@ glottolog_family_id: nilo1247
 glottolog_family_name: Nilotic
 glottolog_classification: "Nilotic > Western Nilotic > Dinka-Nuer > Dinka > Southeastern Dinka"
 translations:
+  - translation_iso: ara
+    name: ساوثيسترن دينكا
+    auto: true
   - translation_iso: jpn
     name: 南東ディンカ語
   - translation_iso: zho

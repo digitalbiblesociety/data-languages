@@ -14,6 +14,9 @@ glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Finisterre-Huon > Huon > Western Huon > Cromwell > Kabwum > Selepet-Komba > Komba"
 wikipedia_url: "https://en.wikipedia.org/wiki/Komba_language"
 translations:
+  - translation_iso: ara
+    name: لغة كومبا
+    auto: true
   - translation_iso: jpn
     name: コンバ語
     auto: true

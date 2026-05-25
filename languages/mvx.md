@@ -14,6 +14,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > South Halmahera-West New Guinea > Cenderawasih Bay > Biakic > Meoswar"
 wikipedia_url: "https://en.wikipedia.org/wiki/Meoswar_language"
 translations:
+  - translation_iso: ara
+    name: لغة ميوسوار
+    auto: true
   - translation_iso: jpn
     name: メオスワル語
     auto: true

@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > North Borneo Malayo-Polynesian > Central Sarawak > Melanau-Kajang > Melanau > Sibu-Kanowit-Tanjong > Kanowit-Tanjong Melanau"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kanowit_language"
 translations:
+  - translation_iso: ara
+    name: ميلاناو كانويت-تانجونج
+    auto: true
   - translation_iso: jpn
     name: カノウィット・タンジョン・メラナウ語
     auto: true

@@ -15,6 +15,9 @@ glottolog_family_name: Otomanguean
 glottolog_classification: "Otomanguean > Eastern Otomanguean > Amuzgo-Mixtecan > Mixtecan > Mixtec-Cuicatec > Mixtec > Eastern Alta Mixtec > Southeastern Alta Mixtec > Southeastern Nochixtlán Mixtec"
 wikipedia_url: "https://en.wikipedia.org/wiki/Nuxa%C3%A1_Mixtec"
 translations:
+  - translation_iso: ara
+    name: جنوب شرق نوتشيكستلان ميكستك
+    auto: true
   - translation_iso: jpn
     name: サウスイースタン・ノチクストラン・ミステク語
     auto: true

@@ -15,6 +15,9 @@ glottolog_family_id: atha1245
 glottolog_family_name: Athabaskan-Eyak-Tlingit
 glottolog_classification: "Athabaskan-Eyak-Tlingit > Athabaskan-Eyak > Athabaskan > Northwestern Canada Athabaskan > Slaveyic > Slave > North Slavey"
 translations:
+  - translation_iso: ara
+    name: نورث سلافي
+    auto: true
   - translation_iso: jpn
     name: 北スレイビー語
   - translation_iso: zho

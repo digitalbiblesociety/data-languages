@@ -15,6 +15,9 @@ glottolog_family_name: Nilotic
 glottolog_classification: "Nilotic > Western Nilotic > Lwoo > Northern Lwoo > Päri"
 wikipedia_url: "https://en.wikipedia.org/wiki/P%C3%A4ri_language"
 translations:
+  - translation_iso: ara
+    name: لغة ري
+    auto: true
   - translation_iso: jpn
     name: Päri語
   - translation_iso: zho

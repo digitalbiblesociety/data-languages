@@ -16,6 +16,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Greater South Sulawesi > South Sulawesi > Northern South Sulawesi > Toraja-Duri > Torajic > Tae'"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tae%CA%BC_language"
 translations:
+  - translation_iso: ara
+    name: تائي
+    auto: true
   - translation_iso: jpn
     name: タエ語
   - translation_iso: zho

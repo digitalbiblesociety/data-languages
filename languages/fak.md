@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Yemne-Kimbi > Fang (Cameroon)"
 wikipedia_url: "https://en.wikipedia.org/wiki/Fang_language_(Cameroon)"
 translations:
+  - translation_iso: ara
+    name: الفانج
+    auto: true
   - translation_iso: jpn
     name: ファン語
     auto: true

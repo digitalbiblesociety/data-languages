@@ -15,6 +15,9 @@ glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > Ngarna > Yanyuwa"
 wikipedia_url: "https://en.wikipedia.org/wiki/Yanyuwa_language"
 translations:
+  - translation_iso: ara
+    name: لغة يانيوا
+    auto: true
   - translation_iso: jpn
     name: ヤニュワ語
     auto: true

@@ -15,6 +15,9 @@ glottolog_family_name: Mongolic-Khitan
 glottolog_classification: "Mongolic-Khitan > Mongolic > Southern Periphery Mongolic > East Yugur"
 wikipedia_url: "https://en.wikipedia.org/wiki/Eastern_Yugur_language"
 translations:
+  - translation_iso: ara
+    name: لغة يوغور الشرقية
+    auto: true
   - translation_iso: jpn
     name: 東部ユグル語
   - translation_iso: kor

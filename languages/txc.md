@@ -15,6 +15,9 @@ glottolog_family_name: Athabaskan-Eyak-Tlingit
 glottolog_classification: "Athabaskan-Eyak-Tlingit > Athabaskan-Eyak > Athabaskan > Tsetsaut"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tsetsaut_language"
 translations:
+  - translation_iso: ara
+    name: تسيتساوت
+    auto: true
   - translation_iso: jpn
     name: ウェタル語
     auto: true

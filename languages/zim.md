@@ -15,6 +15,9 @@ glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > Masa > South Masa > Mesme"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mesme_language"
 translations:
+  - translation_iso: ara
+    name: اللغة ميسمي
+    auto: true
   - translation_iso: jpn
     name: メスメ語
     auto: true

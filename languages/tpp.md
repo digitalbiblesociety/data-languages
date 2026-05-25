@@ -15,6 +15,9 @@ glottolog_family_name: Totonacan
 glottolog_classification: "Totonacan > Tepehua > Pisaflores Tepehua"
 wikipedia_url: "https://en.wikipedia.org/wiki/Pisaflores_Tepehua"
 translations:
+  - translation_iso: ara
+    name: تيبيهوا بيسافلوريس
+    auto: true
   - translation_iso: jpn
     name: 北テペウア語
     auto: true

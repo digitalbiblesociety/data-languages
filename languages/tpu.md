@@ -15,6 +15,9 @@ glottolog_family_name: Austroasiatic
 glottolog_classification: "Austroasiatic > Bahnaric > West Bahnaric > Tampuon-Bahnar > Tampuan"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tampuan_language"
 translations:
+  - translation_iso: ara
+    name: تامبوان
+    auto: true
   - translation_iso: jpn
     name: タンプアン語
   - translation_iso: zho

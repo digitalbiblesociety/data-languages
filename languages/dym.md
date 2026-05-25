@@ -15,6 +15,9 @@ glottolog_family_name: Dogon
 glottolog_classification: "Dogon > North Plateau Dogon > Yanda-Bondum-Tebul > Yanda-Ana > Yanda Dom Dogon"
 wikipedia_url: "https://en.wikipedia.org/wiki/Yanda_Dogon"
 translations:
+  - translation_iso: ara
+    name: ياندا دوم دوجون
+    auto: true
   - translation_iso: jpn
     name: ヤンダ・ドム・ドゴン語
     auto: true

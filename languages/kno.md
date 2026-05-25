@@ -15,6 +15,9 @@ glottolog_family_name: Mande
 glottolog_classification: "Mande > Western Mande > Manding-Kpelle > Central Mande > Manding-Jogo > Manding-Vai > Vai-Kono > Kono (Sierra Leone)"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kono_language_(Sierra_Leone)"
 translations:
+  - translation_iso: ara
+    name: لغة كونو
+    auto: true
   - translation_iso: jpn
     name: コノ語
   - translation_iso: zho

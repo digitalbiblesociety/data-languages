@@ -14,6 +14,9 @@ glottolog_family_id: hmon1336
 glottolog_family_name: Hmong-Mien
 glottolog_classification: "Hmong-Mien > Hmongic > Nuclear Hmongic-Ho Ne > Nuclear Hmongic > East Hmongic > Northeastern Qiandongic Miao > Northern Qiandong Miao"
 translations:
+  - translation_iso: ara
+    name: نورثإرن قيآندونج ميآو
+    auto: true
   - translation_iso: jpn
     name: 北部黔東苗語
   - translation_iso: zho

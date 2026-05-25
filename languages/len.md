@@ -11,6 +11,9 @@ longitude: -88.042225
 scripts: [Latn]
 wikipedia_url: "https://en.wikipedia.org/wiki/Lencan_languages"
 translations:
+  - translation_iso: ara
+    name: لغة ينكا
+    auto: true
   - translation_iso: jpn
     name: レンカ語
   - translation_iso: kor

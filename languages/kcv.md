@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > Central-Western Bantu > Njila > Southern Njila > Chokwe-Lunda > Ruund-Salampasu > Lunda-Ruund-Kete > Ruund-Kete > Kete"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kete_language"
 translations:
+  - translation_iso: ara
+    name: لغة كيتي
+    auto: true
   - translation_iso: jpn
     name: ケテ語
   - translation_iso: zho

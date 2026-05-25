@@ -15,6 +15,9 @@ glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Bodic > Bodish > Early Old Tibetan > Middle Old Tibetan > Late Old Tibetan > Central Tibetan > South-Western Tibetic > Dolpo-Tichurong > Tichurong"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tichurong_language"
 translations:
+  - translation_iso: ara
+    name: تيتشورونغ
+    auto: true
   - translation_iso: jpn
     name: ティチュロン語
     auto: true

@@ -15,6 +15,9 @@ glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > Desert Nyungic > Wati > Unclassified Wati > Lake Carnegie Western Desert"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tjupan_dialect"
 translations:
+  - translation_iso: ara
+    name: تجوباني
+    auto: true
   - translation_iso: jpn
     name: チュパニ語
     auto: true

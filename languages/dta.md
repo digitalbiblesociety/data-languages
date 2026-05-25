@@ -15,6 +15,9 @@ glottolog_family_name: Mongolic-Khitan
 glottolog_classification: "Mongolic-Khitan > Mongolic > Dagur"
 wikipedia_url: "https://en.wikipedia.org/wiki/Dagur_language"
 translations:
+  - translation_iso: ara
+    name: داور
+    auto: true
   - translation_iso: jpn
     name: ダウール語
   - translation_iso: kor

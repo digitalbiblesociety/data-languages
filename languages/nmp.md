@@ -15,6 +15,9 @@ glottolog_family_name: Nyulnyulan
 glottolog_classification: "Nyulnyulan > Western Nyulnyulan > Nimanbur"
 wikipedia_url: "https://en.wikipedia.org/wiki/Nimanburru_language"
 translations:
+  - translation_iso: ara
+    name: نيمانبور
+    auto: true
   - translation_iso: jpn
     name: ニマンブル語
   - translation_iso: zho

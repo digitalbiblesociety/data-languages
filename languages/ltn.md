@@ -14,6 +14,9 @@ glottolog_family_id: namb1299
 glottolog_family_name: Nambiquaran
 glottolog_classification: "Nambiquaran > Nambikwara Complex > Northern Nambiquaran > Roosevelt > Latundê"
 translations:
+  - translation_iso: ara
+    name: لغة اتوند
+    auto: true
   - translation_iso: jpn
     name: ラトゥンデ語
     auto: true

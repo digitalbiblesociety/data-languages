@@ -14,6 +14,9 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Greater Central Philippine > Manobo > Central and Southern Manobo > East-West-Central Manobo > East and Central Manobo > East Manobo > Dibabawon Manobo"
 translations:
+  - translation_iso: ara
+    name: لغة ديبابوون مانوبو
+    auto: true
   - translation_iso: jpn
     name: ディババウォン・マノボ語
     auto: true

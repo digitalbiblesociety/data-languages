@@ -14,6 +14,9 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Northern Bantoid > Mambiloid > Nizaa-Mambila-Vute > Konja-Mambila-Vute > Mambila-Vute > Mambila-Mbongno > Mambila > Eastern Mambila > Donga Mambila"
 translations:
+  - translation_iso: ara
+    name: لغة مامبيلا الكاميرون
+    auto: true
   - translation_iso: jpn
     name: カメルーン・マンビラ語
     auto: true

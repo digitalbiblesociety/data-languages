@@ -15,6 +15,9 @@ glottolog_family_name: Limilngan-Wulna
 glottolog_classification: "Limilngan-Wulna > Wulna"
 wikipedia_url: "https://en.wikipedia.org/wiki/Wulna_language"
 translations:
+  - translation_iso: ara
+    name: وولنا
+    auto: true
   - translation_iso: jpn
     name: ウルナ語
     auto: true

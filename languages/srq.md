@@ -15,6 +15,9 @@ glottolog_family_name: Tupian
 glottolog_classification: "Tupian > Eastern Tupian > Maweti-Guarani > Aweti-Guarani > Tupi-Guarani > Southern Tupi-Guarani > Tupi-Guarani Subgroup II > Warazu-Sirionoid > Sirionoid > Sirionó"
 wikipedia_url: "https://en.wikipedia.org/wiki/Sirion%C3%B3_language"
 translations:
+  - translation_iso: ara
+    name: اللغة سيريونو
+    auto: true
   - translation_iso: jpn
     name: シリオノ語
   - translation_iso: zho

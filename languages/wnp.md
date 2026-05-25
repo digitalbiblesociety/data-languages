@@ -15,6 +15,9 @@ glottolog_family_name: Nuclear Torricelli
 glottolog_classification: "Nuclear Torricelli > Wapei-Palei > Wanap"
 wikipedia_url: "https://en.wikipedia.org/wiki/Wanap_language"
 translations:
+  - translation_iso: ara
+    name: واناپ
+    auto: true
   - translation_iso: jpn
     name: ワナプ語
     auto: true

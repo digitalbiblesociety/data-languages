@@ -15,6 +15,9 @@ glottolog_family_name: Misumalpan
 glottolog_classification: "Misumalpan > Mískito"
 wikipedia_url: "https://en.wikipedia.org/wiki/Miskito_language"
 translations:
+  - translation_iso: ara
+    name: لغة مسكيتو
+    auto: true
   - translation_iso: jpn
     name: ミスキート語
   - translation_iso: kor

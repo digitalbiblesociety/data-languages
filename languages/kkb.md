@@ -14,6 +14,9 @@ glottolog_family_name: Lakes Plain
 glottolog_classification: "Lakes Plain > Tariku > East Tariku > Doutai-Kai-Waritai > Kwerisa"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kwerisa_language"
 translations:
+  - translation_iso: ara
+    name: لغة كويريسا
+    auto: true
   - translation_iso: jpn
     name: クウェリサ語
     auto: true

@@ -14,6 +14,9 @@ glottolog_family_id: mand1469
 glottolog_family_name: Mande
 glottolog_classification: "Mande > Western Mande > Manding-Kpelle > Southwest Mande > Kpelle > Guinea Kpelle"
 translations:
+  - translation_iso: ara
+    name: غوينإآ كبإللإ
+    auto: true
   - translation_iso: jpn
     name: ギニア・クペレ語
   - translation_iso: zho

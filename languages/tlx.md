@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Admiralty Islands > Eastern Admiralty Islands > Manus > West Manus > West Manus II > Likum-Levei > Khehek"
 wikipedia_url: "https://en.wikipedia.org/wiki/Khehek_language"
 translations:
+  - translation_iso: ara
+    name: خيهيك
+    auto: true
   - translation_iso: jpn
     name: ケヘク語
     auto: true

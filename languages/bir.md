@@ -14,6 +14,9 @@ glottolog_family_id: nucl1709
 glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Enga-Kewa-Huli > Engan > Outer Enga > Bisorio"
 translations:
+  - translation_iso: ara
+    name: بيسوريو
+    auto: true
   - translation_iso: jpn
     name: ビソリオ語
     auto: true

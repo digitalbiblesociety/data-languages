@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Greater Central Philippine > Gorontalo-Mongondow > Gorontalic > Kaidipang"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kaidipang_language"
 translations:
+  - translation_iso: ara
+    name: كايديبانج
+    auto: true
   - translation_iso: jpn
     name: カイディパン語
   - translation_iso: zho

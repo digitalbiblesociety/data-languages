@@ -15,6 +15,9 @@ glottolog_family_name: Chiquitano
 glottolog_classification: "Chiquitano > Lomeriano-Ignaciano Chiquitano"
 wikipedia_url: "https://en.wikipedia.org/wiki/Chiquitano_language"
 translations:
+  - translation_iso: ara
+    name: تشيكيتانو
+    auto: true
   - translation_iso: jpn
     name: チキターノ語
     auto: true

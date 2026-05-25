@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Gbaya-Manza-Ngbaka > Gbaya Oriental > Gbanu-Manza-Ngbaka > Gbanu"
 wikipedia_url: "https://en.wikipedia.org/wiki/Gbanu_language"
 translations:
+  - translation_iso: ara
+    name: الجبانو
+    auto: true
   - translation_iso: jpn
     name: ガバヌ語
     auto: true

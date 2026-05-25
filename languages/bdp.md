@@ -14,6 +14,9 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > East Bantu > Northeast Savanna Bantu > Unclassified Northeast Savanna Bantu > Bende-Tongwe > Bende"
 translations:
+  - translation_iso: ara
+    name: اللغة بيندي
+    auto: true
   - translation_iso: jpn
     name: ベンデ語
     auto: true

@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Jukunoid > Central Jukunoid > Jukun-Mbembe-Wurbo > Jukun > Jibu-Wase > Wãpha"
 wikipedia_url: "https://en.wikipedia.org/wiki/W%C3%A3pha_language"
 translations:
+  - translation_iso: ara
+    name: لغة وافا
+    auto: true
   - translation_iso: jpn
     name: ワムファ語
     auto: true

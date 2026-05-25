@@ -15,6 +15,9 @@ glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > Warrgamay"
 wikipedia_url: "https://en.wikipedia.org/wiki/Warrgamay_language"
 translations:
+  - translation_iso: ara
+    name: واررغاماي
+    auto: true
   - translation_iso: jpn
     name: ワルガマイ語
   - translation_iso: zho

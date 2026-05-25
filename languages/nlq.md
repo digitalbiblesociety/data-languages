@@ -14,6 +14,9 @@ glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Brahmaputran > Patkaian > South Patkaian > Southwestern Patkaian > Lao Naga"
 translations:
+  - translation_iso: ara
+    name: لاو ناغا
+    auto: true
   - translation_iso: jpn
     name: ラオ・ナガ語
     auto: true

@@ -9,6 +9,9 @@ country_name: Latvia
 status_id: "1"
 wikipedia_url: "https://en.wikipedia.org/wiki/Standard_Latvian_language"
 translations:
+  - translation_iso: ara
+    name: لغة تاندارد اتفيان
+    auto: true
   - translation_iso: jpn
     name: 標準ラトビア語
     auto: true

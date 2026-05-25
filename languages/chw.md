@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > East Bantu > North Mozambique Bantu > Chuwaboic > Chuwabo-Maindo > Chuwabu"
 wikipedia_url: "https://en.wikipedia.org/wiki/Chuwabu_language"
 translations:
+  - translation_iso: ara
+    name: الشويابو
+    auto: true
   - translation_iso: jpn
     name: チュワブ語
     auto: true

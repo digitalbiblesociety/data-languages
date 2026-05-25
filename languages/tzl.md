@@ -12,6 +12,9 @@ glottolog_family_name: Artificial Language
 glottolog_classification: "Artificial Language > Talossan"
 wikipedia_url: "https://en.wikipedia.org/wiki/Talossan_language"
 translations:
+  - translation_iso: ara
+    name: تالوسان
+    auto: true
   - translation_iso: jpn
     name: タロッサ語
   - translation_iso: kor

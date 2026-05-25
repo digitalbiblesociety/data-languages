@@ -15,6 +15,9 @@ glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Burmo-Qiangic > Na-Qiangic > Naic > Namuyi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Namuyi_language"
 translations:
+  - translation_iso: ara
+    name: ناموي
+    auto: true
   - translation_iso: jpn
     name: ナムイ語
   - translation_iso: zho

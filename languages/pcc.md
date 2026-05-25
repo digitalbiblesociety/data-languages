@@ -15,6 +15,9 @@ glottolog_family_name: Tai-Kadai
 glottolog_classification: "Tai-Kadai > Kam-Tai > Daic-Beic > Daic > Northern Daic-Sek > Northern Daic > Northern Tai > Bouyei"
 wikipedia_url: "https://en.wikipedia.org/wiki/Bouyei_language"
 translations:
+  - translation_iso: ara
+    name: اللغة بويي
+    auto: true
   - translation_iso: jpn
     name: プイ語
   - translation_iso: kor

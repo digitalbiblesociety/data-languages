@@ -14,6 +14,9 @@ glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Unclassified Indo-European > Thracian"
 wikipedia_url: "https://en.wikipedia.org/wiki/Thracian_language"
 translations:
+  - translation_iso: ara
+    name: ثراقي
+    auto: true
   - translation_iso: jpn
     name: トラキア語
   - translation_iso: kor

@@ -14,6 +14,9 @@ glottolog_family_id: lake1255
 glottolog_family_name: Lakes Plain
 glottolog_classification: "Lakes Plain > Tariku > Central Tariku > Edopi"
 translations:
+  - translation_iso: ara
+    name: إيدوبي
+    auto: true
   - translation_iso: jpn
     name: エドピ語
     auto: true

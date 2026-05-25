@@ -15,6 +15,9 @@ glottolog_family_name: Sko
 glottolog_classification: "Sko > I'saka"
 wikipedia_url: "https://en.wikipedia.org/wiki/I%27saka_language"
 translations:
+  - translation_iso: ara
+    name: كريسا
+    auto: true
   - translation_iso: jpn
     name: クリサ語
     auto: true

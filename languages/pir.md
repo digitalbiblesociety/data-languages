@@ -15,6 +15,9 @@ glottolog_family_name: Tucanoan
 glottolog_classification: "Tucanoan > Eastern Tucanoan > Eastern Eastern Tucanoan > Eastern Eastern Tucanoan II > Kotiria-Piratapuyo > Piratapuyic > Wa'ikhana"
 wikipedia_url: "https://en.wikipedia.org/wiki/Piratapuyo_language"
 translations:
+  - translation_iso: ara
+    name: اللغة بيراتابويو
+    auto: true
   - translation_iso: jpn
     name: ピラタプーヨ語
     auto: true

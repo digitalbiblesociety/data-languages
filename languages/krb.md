@@ -14,6 +14,9 @@ glottolog_family_name: Miwok-Costanoan
 glottolog_classification: "Miwok-Costanoan > Costanoan > Karkin"
 wikipedia_url: "https://en.wikipedia.org/wiki/Karkin_language"
 translations:
+  - translation_iso: ara
+    name: كاركين
+    auto: true
   - translation_iso: jpn
     name: カルキン語
     auto: true

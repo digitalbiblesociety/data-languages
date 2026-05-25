@@ -15,6 +15,9 @@ glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > Yuulngu > Southern Yolngu > Ritharrngu"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ritharrngu_language"
 translations:
+  - translation_iso: ara
+    name: ريثارنجو
+    auto: true
   - translation_iso: jpn
     name: リサルングー語
     auto: true

@@ -15,6 +15,9 @@ glottolog_family_name: Uto-Aztecan
 glottolog_classification: "Uto-Aztecan > Southern Uto-Aztecan > Corachol-Aztecan > Aztec > Western Nahuatl > Central Nahuatl > Tetelcingo Nahuatl"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tetelcingo_Nahuatl"
 translations:
+  - translation_iso: ara
+    name: تيتيلسينجو ناهواتل
+    auto: true
   - translation_iso: jpn
     name: テテルシンゴ・ナワトル語
     auto: true

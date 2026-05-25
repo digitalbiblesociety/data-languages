@@ -12,6 +12,9 @@ longitude: 145.08142
 glottocode: pawa1255
 wikipedia_url: "https://en.wikipedia.org/wiki/Pawaia_language"
 translations:
+  - translation_iso: ara
+    name: اللغة باوايا
+    auto: true
   - translation_iso: jpn
     name: パワイア語
     auto: true

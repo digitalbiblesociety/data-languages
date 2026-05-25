@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Celebic > Greater Eastern Celebic > Eastern Celebic > Southeastern Celebic > Muna-Buton > Nuclear Muna-Buton > Butonic > Cia-Cia"
 wikipedia_url: "https://en.wikipedia.org/wiki/Cia-Cia_language"
 translations:
+  - translation_iso: ara
+    name: الشيا-شيا
+    auto: true
   - translation_iso: jpn
     name: チアチア語
   - translation_iso: kor

@@ -15,6 +15,9 @@ glottolog_family_name: Tai-Kadai
 glottolog_classification: "Tai-Kadai > Hlaic > Nuclear Hlaic > Cun-Nadou"
 wikipedia_url: "https://en.wikipedia.org/wiki/Cun_language"
 translations:
+  - translation_iso: ara
+    name: الكون
+    auto: true
   - translation_iso: jpn
     name: 村語
   - translation_iso: zho

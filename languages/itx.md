@@ -15,6 +15,9 @@ glottolog_family_name: Tor-Orya
 glottolog_classification: "Tor-Orya > Tor > Itik"
 wikipedia_url: "https://en.wikipedia.org/wiki/Itik_language"
 translations:
+  - translation_iso: ara
+    name: إيتك
+    auto: true
   - translation_iso: jpn
     name: イティク語
     auto: true

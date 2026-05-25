@@ -15,6 +15,9 @@ glottolog_family_name: Kuliak
 glottolog_classification: "Kuliak > Ngangea-So > Soo"
 wikipedia_url: "https://en.wikipedia.org/wiki/Soo_language"
 translations:
+  - translation_iso: ara
+    name: سو
+    auto: true
   - translation_iso: jpn
     name: ソ語
   - translation_iso: zho

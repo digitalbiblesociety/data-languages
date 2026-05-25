@@ -15,6 +15,9 @@ glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Germanic > Northwest Germanic > West Germanic > High German > Upper German > Middle-Modern High German > Modern High German > Alemannic > North Alemannic > Colonia Tovar German"
 wikipedia_url: "https://en.wikipedia.org/wiki/Colonia_Tovar_dialect"
 translations:
+  - translation_iso: ara
+    name: الألمانية كولونيا توفار
+    auto: true
   - translation_iso: jpn
     name: コロニア・トバール方言
   - translation_iso: kor

@@ -12,6 +12,9 @@ longitude: -100.5
 glottocode: cuit1236
 wikipedia_url: "https://en.wikipedia.org/wiki/Cuitlatec_language"
 translations:
+  - translation_iso: ara
+    name: الكويتلاتك
+    auto: true
   - translation_iso: jpn
     name: クイトラテック語
   - translation_iso: zho

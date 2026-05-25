@@ -15,6 +15,9 @@ glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Asmat-Awyu-Ok > Awyu-Ok > Ok-Oksapmin > Ok > Mountain Ok > Division A Mountain Ok > Tifal-Telefol > Tifalic > Faiwol-Seltaman > Setaman"
 wikipedia_url: "https://en.wikipedia.org/wiki/Setaman_language"
 translations:
+  - translation_iso: ara
+    name: اللغة سيتامان
+    auto: true
   - translation_iso: jpn
     name: セタマン語
     auto: true

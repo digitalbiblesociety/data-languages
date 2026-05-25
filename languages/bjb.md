@@ -15,6 +15,9 @@ glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > Arandic-Thura-Yura > Thura-Yura > Core Thura Yura > Northern Thura-Yura > Banggarla"
 wikipedia_url: "https://en.wikipedia.org/wiki/Barngarla_language"
 translations:
+  - translation_iso: ara
+    name: بانجارلا
+    auto: true
   - translation_iso: jpn
     name: バンガルラ語
     auto: true

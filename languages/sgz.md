@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > Meso Melanesian linkage > New Ireland-Northwest Solomonic linkage > St George linkage > Sursurunga"
 wikipedia_url: "https://en.wikipedia.org/wiki/Sursurunga_language"
 translations:
+  - translation_iso: ara
+    name: سورسورونجا
+    auto: true
   - translation_iso: jpn
     name: スルスルンガ語
   - translation_iso: zho

@@ -15,6 +15,9 @@ glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > Biu-Mandara > North Biu-Mandara > Margi-Mandara-Mofu > Mofuic > Mofu > Mofu-Gudur"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mofu-Gudur_language"
 translations:
+  - translation_iso: ara
+    name: لغة موفو جودور
+    auto: true
   - translation_iso: hin
     name: मोफू-गुडुर
   - translation_iso: jpn

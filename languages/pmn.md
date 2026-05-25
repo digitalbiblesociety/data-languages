@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Cameroun-Ubangian > Mbumic > Northern Mbum > Tupuri-Mundang-Mambai > Mundangic > Pam (Cameroon)"
 wikipedia_url: "https://en.wikipedia.org/wiki/Pam_language"
 translations:
+  - translation_iso: ara
+    name: لغة بام
+    auto: true
   - translation_iso: jpn
     name: パム語
     auto: true

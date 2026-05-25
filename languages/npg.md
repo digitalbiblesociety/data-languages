@@ -15,6 +15,9 @@ glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Brahmaputran > Patkaian > South Patkaian > Southeastern Patkaian > Lainongic > Khiamniungic > Pounyiu-Gongvan Naga"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ponyo_language"
 translations:
+  - translation_iso: ara
+    name: بونيو-غونغوانغ ناغا
+    auto: true
   - translation_iso: jpn
     name: ポンヨ・ゴングワン・ナガ語
     auto: true

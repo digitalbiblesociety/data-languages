@@ -15,6 +15,9 @@ glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > South-West Pama-Nyungan > Pilbara > Kanyara > Thalanyji-Burduna > Burduna"
 wikipedia_url: "https://en.wikipedia.org/wiki/Burduna_language"
 translations:
+  - translation_iso: ara
+    name: بوردونا
+    auto: true
   - translation_iso: jpn
     name: ブルドゥナ語
     auto: true

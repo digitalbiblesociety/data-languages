@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Aru > Central Aru > Lorang"
 wikipedia_url: "https://en.wikipedia.org/wiki/Lorang_language"
 translations:
+  - translation_iso: ara
+    name: لغة ورانج
+    auto: true
   - translation_iso: jpn
     name: ロラン語
     auto: true

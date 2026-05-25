@@ -15,6 +15,9 @@ glottolog_family_name: Athabaskan-Eyak-Tlingit
 glottolog_classification: "Athabaskan-Eyak-Tlingit > Athabaskan-Eyak > Athabaskan > Apachean > Southwestern Apachean > Western Southwestern Apachean > Mescalero-Chiricahua Apache"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mescalero-Chiricahua_language"
 translations:
+  - translation_iso: ara
+    name: اللغة مسكاليرو-تشيريكاهوا أباتشي
+    auto: true
   - translation_iso: jpn
     name: チリカワ語
   - translation_iso: zho

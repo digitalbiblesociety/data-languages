@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > North and Central Vanuatu > Central Vanuatu > Epi-Efate > Efate-Shepherds > Namakura"
 wikipedia_url: "https://en.wikipedia.org/wiki/Namakura_language"
 translations:
+  - translation_iso: ara
+    name: نامكورا
+    auto: true
   - translation_iso: jpn
     name: ナマクラ語
   - translation_iso: zho

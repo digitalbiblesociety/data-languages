@@ -15,6 +15,9 @@ glottolog_family_name: Arawakan
 glottolog_classification: "Arawakan > Southern Maipuran > Purus-Chamicuro > Chamicuro-Morike > Chamicuro"
 wikipedia_url: "https://en.wikipedia.org/wiki/Chamicuro_language"
 translations:
+  - translation_iso: ara
+    name: الشاميكورو
+    auto: true
   - translation_iso: jpn
     name: チャミクロ語
   - translation_iso: zho

@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > North and Central Vanuatu > Central Vanuatu > South Pentecost > Apma"
 wikipedia_url: "https://en.wikipedia.org/wiki/Apma_language"
 translations:
+  - translation_iso: ara
+    name: اللغة أبما
+    auto: true
   - translation_iso: jpn
     name: アプマ語
   - translation_iso: zho

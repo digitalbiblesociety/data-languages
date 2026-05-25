@@ -14,6 +14,9 @@ glottolog_family_id: huav1256
 glottolog_family_name: Huavean
 glottolog_classification: "Huavean > San Francisco-Santa María Huave > San Francisco del Mar Huave"
 translations:
+  - translation_iso: ara
+    name: لغة هوافي سان فرانسيسكو ديل مار
+    auto: true
   - translation_iso: jpn
     name: サン・フランシスコ・デル・マル・ウアベ語
     auto: true

@@ -15,6 +15,9 @@ glottolog_family_name: Tupian
 glottolog_classification: "Tupian > Eastern Tupian > Mundurukuic > Kuruáya"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kuruaya_language"
 translations:
+  - translation_iso: ara
+    name: كوروايا
+    auto: true
   - translation_iso: jpn
     name: クルアヤ語
     auto: true

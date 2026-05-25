@@ -14,6 +14,9 @@ glottolog_family_id: utoa1244
 glottolog_family_name: Uto-Aztecan
 glottolog_classification: "Uto-Aztecan > Southern Uto-Aztecan > Tarahumara-Guarijio > Tarahumaran > Central Tarahumara"
 translations:
+  - translation_iso: ara
+    name: تاراهومارا الوسطى
+    auto: true
   - translation_iso: jpn
     name: 中央タラウマラ語
     auto: true

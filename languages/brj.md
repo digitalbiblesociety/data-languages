@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > North and Central Vanuatu > Central Vanuatu > Epi-Efate > Epi > Bieria-Maii > Bieria"
 wikipedia_url: "https://en.wikipedia.org/wiki/Bieria_language"
 translations:
+  - translation_iso: ara
+    name: بيِريا
+    auto: true
   - translation_iso: jpn
     name: ビエリア語
     auto: true

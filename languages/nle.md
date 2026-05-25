@@ -14,6 +14,9 @@ glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > East Bantu > Northeast Savanna Bantu > Great Lakes Bantu > Greater Luyia > Luyia > Saamia-Wanga-Bukusu > Saamia-Wanga > Central-Eastern Luyia > Kabarasi-Tachoni-Nyala East > East Nyala"
 translations:
+  - translation_iso: ara
+    name: نييالا الشرقية
+    auto: true
   - translation_iso: jpn
     name: 東ニャラ語
     auto: true

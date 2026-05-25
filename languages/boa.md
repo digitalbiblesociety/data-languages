@@ -15,6 +15,9 @@ glottolog_family_name: Boran
 glottolog_classification: "Boran > Bora"
 wikipedia_url: "https://en.wikipedia.org/wiki/Bora_language"
 translations:
+  - translation_iso: ara
+    name: بورا
+    auto: true
   - translation_iso: jpn
     name: ボラ語
   - translation_iso: kor

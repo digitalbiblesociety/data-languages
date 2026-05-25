@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > North Borneo Malayo-Polynesian > Sabahan > Southwest Sabahan > Greater Murutic > Murutic > Northern Murutic > Sumambu-Tagal > Tagal Murut"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tagol_language"
 translations:
+  - translation_iso: ara
+    name: لغة تاجال موروت
+    auto: true
   - translation_iso: jpn
     name: タガル・ムルット語
     auto: true

@@ -14,6 +14,9 @@ glottolog_family_id: misu1242
 glottolog_family_name: Misumalpan
 glottolog_classification: "Misumalpan > Sumalpan > Sumuic > Mayangna"
 translations:
+  - translation_iso: ara
+    name: مايانجنا
+    auto: true
   - translation_iso: jpn
     name: マヤングナ語
     auto: true

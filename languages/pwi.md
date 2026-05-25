@@ -14,6 +14,9 @@ glottolog_family_name: Wintuan
 glottolog_classification: "Wintuan > Patwin"
 wikipedia_url: "https://en.wikipedia.org/wiki/Patwin_language"
 translations:
+  - translation_iso: ara
+    name: اللغة باتوين
+    auto: true
   - translation_iso: jpn
     name: パットウィン語
     auto: true

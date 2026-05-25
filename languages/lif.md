@@ -16,6 +16,9 @@ glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Himalayish > Mahakiranti > Kiranti > Eastern Kiranti > Tamar > Limbu"
 wikipedia_url: "https://en.wikipedia.org/wiki/Limbu_language"
 translations:
+  - translation_iso: ara
+    name: لغة يمبو
+    auto: true
   - translation_iso: hin
     name: लिंबू भाषा
   - translation_iso: jpn

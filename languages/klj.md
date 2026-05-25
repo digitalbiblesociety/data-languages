@@ -15,6 +15,9 @@ glottolog_family_name: Turkic
 glottolog_classification: "Turkic > Common Turkic > Khalaj Turkic"
 wikipedia_url: "https://en.wikipedia.org/wiki/Khalaj_language"
 translations:
+  - translation_iso: ara
+    name: اللغة التركمانية خالج
+    auto: true
   - translation_iso: jpn
     name: チュルク・ハラジ語
   - translation_iso: kor

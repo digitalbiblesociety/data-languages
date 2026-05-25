@@ -12,6 +12,9 @@ longitude: -47.95049
 glottocode: otii1244
 wikipedia_url: "https://en.wikipedia.org/wiki/Oti_language"
 translations:
+  - translation_iso: ara
+    name: اللغة أوتي
+    auto: true
   - translation_iso: jpn
     name: オティ語
     auto: true

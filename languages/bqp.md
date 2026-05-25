@@ -15,6 +15,9 @@ glottolog_family_name: Mande
 glottolog_classification: "Mande > Eastern Mande > Bisa-Busa > Samo-Busa > Busan > Boko-Busa > Busa"
 wikipedia_url: "https://en.wikipedia.org/wiki/Busa_language_(Mande)"
 translations:
+  - translation_iso: ara
+    name: بوسا
+    auto: true
   - translation_iso: jpn
     name: ブサ語
     auto: true

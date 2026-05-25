@@ -15,6 +15,9 @@ glottolog_family_name: Mayan
 glottolog_classification: "Mayan > Core Mayan > Quichean-Mamean > Greater Quichean > Q'eqchi'"
 wikipedia_url: "https://en.wikipedia.org/wiki/Q%CA%BCeqchi%CA%BC_language"
 translations:
+  - translation_iso: ara
+    name: لغة كيكتشي
+    auto: true
   - translation_iso: jpn
     name: ケクチ語
   - translation_iso: kor

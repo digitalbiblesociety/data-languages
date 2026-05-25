@@ -14,6 +14,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Benue-Congo Plateau > Alumic > Toro"
 wikipedia_url: "https://en.wikipedia.org/wiki/Toro_language"
 translations:
+  - translation_iso: ara
+    name: تورو
+    auto: true
   - translation_iso: jpn
     name: トロ語
     auto: true

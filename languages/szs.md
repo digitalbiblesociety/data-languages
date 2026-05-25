@@ -14,6 +14,9 @@ glottolog_family_name: Sign Language
 glottolog_classification: "Sign Language > L1 Sign Language > BSLic > BANZSL > Auslanic > Solomon Islands Sign Language"
 wikipedia_url: "https://en.wikipedia.org/wiki/Solomon_Islands_Sign_Language"
 translations:
+  - translation_iso: ara
+    name: لغة الإشارة بجزر سليمان
+    auto: true
   - translation_iso: jpn
     name: ソロモン諸島手話
   - translation_iso: zho

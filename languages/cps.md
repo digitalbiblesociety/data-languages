@@ -16,6 +16,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Greater Central Philippine > Central Philippine > Bisayan > Central Bisayan > Peripheral Central Bisayan > Capiznon-Ilonggo-Kawayan > Capiznon"
 wikipedia_url: "https://en.wikipedia.org/wiki/Capiznon_language"
 translations:
+  - translation_iso: ara
+    name: الكابيزنون
+    auto: true
   - translation_iso: jpn
     name: カピス語
   - translation_iso: kor

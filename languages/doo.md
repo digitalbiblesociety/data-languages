@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Cameroun-Ubangian > Ubangi > Ubangi Ka > Mbaic > Ndunga-Mba-Dongo > Dongo"
 wikipedia_url: "https://en.wikipedia.org/wiki/Dongo_language"
 translations:
+  - translation_iso: ara
+    name: دونجو
+    auto: true
   - translation_iso: jpn
     name: ドンゴ語
     auto: true

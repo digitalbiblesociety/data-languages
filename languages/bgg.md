@@ -15,6 +15,9 @@ glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Kho-Bwa > Bugun"
 wikipedia_url: "https://en.wikipedia.org/wiki/Bugun_language"
 translations:
+  - translation_iso: ara
+    name: بوجون
+    auto: true
   - translation_iso: hin
     name: बुगुन भाषा
   - translation_iso: jpn

@@ -12,6 +12,9 @@ longitude: -76.31254
 glottocode: paez1247
 wikipedia_url: "https://en.wikipedia.org/wiki/P%C3%A1ez_language"
 translations:
+  - translation_iso: ara
+    name: اللغة بايث
+    auto: true
   - translation_iso: jpn
     name: パエス語
   - translation_iso: kor

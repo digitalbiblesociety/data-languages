@@ -15,6 +15,9 @@ glottolog_family_name: Angan
 glottolog_classification: "Angan > Nuclear Angan > Ankave-Tainae-Akoye > Ankave"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ankave_language"
 translations:
+  - translation_iso: ara
+    name: اللغة الأنكافي
+    auto: true
   - translation_iso: jpn
     name: アンカベ語
     auto: true

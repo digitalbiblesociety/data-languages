@@ -14,6 +14,9 @@ glottolog_family_name: South Bougainville
 glottolog_classification: "South Bougainville > Nasioiic > Nasioi > Simekuic > Simeku"
 wikipedia_url: "https://en.wikipedia.org/wiki/Simeku_language"
 translations:
+  - translation_iso: ara
+    name: اللغة السيمكو
+    auto: true
   - translation_iso: jpn
     name: シメク語
     auto: true

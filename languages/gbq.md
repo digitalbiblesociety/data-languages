@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Gbaya-Manza-Ngbaka > Gbaya Meridional-Occidental > Bokoto-Gbeya > Gbeya > Gbaya-Bozoum"
 wikipedia_url: "https://en.wikipedia.org/wiki/Bozom_language"
 translations:
+  - translation_iso: ara
+    name: جبايا-بوزوم
+    auto: true
   - translation_iso: jpn
     name: グバヤ＝ボズム語
   - translation_iso: zho

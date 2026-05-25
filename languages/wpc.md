@@ -15,6 +15,9 @@ glottolog_family_name: Saliban
 glottolog_classification: "Saliban > Maco-Piaroa > Maco"
 wikipedia_url: "https://en.wikipedia.org/wiki/Wir%C3%B6_language"
 translations:
+  - translation_iso: ara
+    name: ماكو
+    auto: true
   - translation_iso: jpn
     name: マコ語
     auto: true

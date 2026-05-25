@@ -8,6 +8,9 @@ country_name: Nigeria
 status_id: "5"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mgbo_language"
 translations:
+  - translation_iso: ara
+    name: مغبوليزهيآ
+    auto: true
   - translation_iso: jpn
     name: ムボリジア語
     auto: true

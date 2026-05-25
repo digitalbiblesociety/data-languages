@@ -15,6 +15,9 @@ glottolog_family_name: Tupian
 glottolog_classification: "Tupian > Purubora-Ramarama > Puruborá"
 wikipedia_url: "https://en.wikipedia.org/wiki/Purubora_language"
 translations:
+  - translation_iso: ara
+    name: اللغة بوروبورا
+    auto: true
   - translation_iso: jpn
     name: プルボラ語
     auto: true

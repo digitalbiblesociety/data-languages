@@ -15,6 +15,9 @@ glottolog_family_name: Austroasiatic
 glottolog_classification: "Austroasiatic > Mundaic > North Munda > Kherwarian > Santalic > Mahali"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mahali_language"
 translations:
+  - translation_iso: ara
+    name: لغة ماهالي
+    auto: true
   - translation_iso: jpn
     name: マハリ語
     auto: true

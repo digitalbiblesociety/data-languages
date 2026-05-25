@@ -15,6 +15,9 @@ glottolog_family_name: Algic
 glottolog_classification: "Algic > Algonquian-Blackfoot > Algonquian > Eastern Great Lakes Algonquian > Shawnee"
 wikipedia_url: "https://en.wikipedia.org/wiki/Shawnee_language"
 translations:
+  - translation_iso: ara
+    name: اللغة الشوني
+    auto: true
   - translation_iso: jpn
     name: ショーニー語
   - translation_iso: zho

@@ -14,6 +14,9 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > North Borneo Malayo-Polynesian > Kayan-Murik-Modang > Kayan-Murik > Kayanic > Mendalam Kayan"
 translations:
+  - translation_iso: ara
+    name: منداالم كايان
+    auto: true
   - translation_iso: jpn
     name: メンダラム・カヤン語
     auto: true

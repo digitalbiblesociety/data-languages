@@ -14,6 +14,9 @@ glottolog_family_id: mixe1284
 glottolog_family_name: Mixe-Zoque
 glottolog_classification: "Mixe-Zoque > Mixe > Oaxaca Mixe > Lowland-Midland-South Highland Mixe > Lowland-Midland Mixe > Midland Mixe > North Central Mixe"
 translations:
+  - translation_iso: ara
+    name: شمال سنترال ميكسي
+    auto: true
   - translation_iso: jpn
     name: 北中央ミクセ語
     auto: true

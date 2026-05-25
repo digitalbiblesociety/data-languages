@@ -15,6 +15,9 @@ glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > Southeastern Pama-Nyungan > New South Wales Pama-Nyungan > Yuin-Kuri > Kuri > Sydney-Hawkesbury > Hawkesbury"
 wikipedia_url: "https://en.wikipedia.org/wiki/Darkinjung_language"
 translations:
+  - translation_iso: ara
+    name: داركينيونغ
+    auto: true
   - translation_iso: jpn
     name: ダルキニユング語
     auto: true

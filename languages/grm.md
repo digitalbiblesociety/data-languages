@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > North Borneo Malayo-Polynesian > Sabahan > Southwest Sabahan > Greater Dusunic > Dusunic > Kota Marudu Talantang"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kota_Marudu_Talantang_language"
 translations:
+  - translation_iso: ara
+    name: كوتآ مآرودو تآلآنتآنج
+    auto: true
   - translation_iso: jpn
     name: コタ・マルドゥ・タランタング語
     auto: true

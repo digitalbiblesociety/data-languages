@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Delta Cross > Lower Cross > Nuclear Lower Cross > Central Lower Cross > Efikic > Okop Usem > Anaang"
 wikipedia_url: "https://en.wikipedia.org/wiki/Anaang_language"
 translations:
+  - translation_iso: ara
+    name: لغة أناّانج
+    auto: true
   - translation_iso: jpn
     name: アナン語
   - translation_iso: zho

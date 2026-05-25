@@ -12,6 +12,9 @@ longitude: -96.75
 glottocode: tonk1249
 wikipedia_url: "https://en.wikipedia.org/wiki/Tonkawa_language"
 translations:
+  - translation_iso: ara
+    name: تونكاوا
+    auto: true
   - translation_iso: jpn
     name: トンカワ語
     auto: true

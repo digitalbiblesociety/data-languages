@@ -15,6 +15,9 @@ glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Finisterre-Huon > Huon > Western Huon > Rawlinson > Sankwep > Nabak"
 wikipedia_url: "https://en.wikipedia.org/wiki/Nabak_language"
 translations:
+  - translation_iso: ara
+    name: نابك
+    auto: true
   - translation_iso: jpn
     name: ナバク語
     auto: true

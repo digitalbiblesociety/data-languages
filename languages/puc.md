@@ -10,6 +10,9 @@ latitude: 3.10143
 longitude: 116.25113
 wikipedia_url: "https://en.wikipedia.org/wiki/Merap_language"
 translations:
+  - translation_iso: ara
+    name: اللغة بونان ميراب
+    auto: true
   - translation_iso: jpn
     name: プナンメラップ語
     auto: true

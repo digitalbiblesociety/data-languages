@@ -15,6 +15,9 @@ glottolog_family_name: Pano-Tacanan
 glottolog_classification: "Pano-Tacanan > Panoan > Mainline Pano > Pano Nawa > Headwaters Pano > Amahuaca"
 wikipedia_url: "https://en.wikipedia.org/wiki/Amahuaca_language"
 translations:
+  - translation_iso: ara
+    name: اللغة الأمهواكا
+    auto: true
   - translation_iso: jpn
     name: アマワカ語
     auto: true

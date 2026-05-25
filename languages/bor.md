@@ -15,6 +15,9 @@ glottolog_family_name: Bororoan
 glottolog_classification: "Bororoan > Bororo-Otuke > Bororo"
 wikipedia_url: "https://en.wikipedia.org/wiki/Bororo_language"
 translations:
+  - translation_iso: ara
+    name: بوروروا
+    auto: true
   - translation_iso: jpn
     name: ボロロ語
     auto: true

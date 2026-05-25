@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Kwa Volta-Congo > Nyo > Attié"
 wikipedia_url: "https://en.wikipedia.org/wiki/Atti%C3%A9_language"
 translations:
+  - translation_iso: ara
+    name: اللغة أتييه
+    auto: true
   - translation_iso: jpn
     name: アチェ語
   - translation_iso: zho

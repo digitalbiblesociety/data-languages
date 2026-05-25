@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Benue-Congo Plateau > Beromic > Iten-Cara-Berom > Cara-Berom > Berom"
 wikipedia_url: "https://en.wikipedia.org/wiki/Berom_language"
 translations:
+  - translation_iso: ara
+    name: بيروم
+    auto: true
   - translation_iso: jpn
     name: ビロム語
   - translation_iso: zho

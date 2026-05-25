@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Gur > Central Gur > Tula-Longuda > Tula-Waja > Tulaic > Tso"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tso_language"
 translations:
+  - translation_iso: ara
+    name: لغة سو
+    auto: true
   - translation_iso: jpn
     name: ツォ語
     auto: true

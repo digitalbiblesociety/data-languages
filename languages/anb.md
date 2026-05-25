@@ -15,6 +15,9 @@ glottolog_family_name: Zaparoan
 glottolog_classification: "Zaparoan > Iquito-Arabela > Arabela-Andoa > Andoa"
 wikipedia_url: "https://en.wikipedia.org/wiki/Andoa_language"
 translations:
+  - translation_iso: ara
+    name: لغة أندوا
+    auto: true
   - translation_iso: jpn
     name: アンドア語
   - translation_iso: zho

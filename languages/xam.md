@@ -15,6 +15,9 @@ glottolog_family_name: Tuu
 glottolog_classification: "Tuu > !Ui > /Xam"
 wikipedia_url: "https://en.wikipedia.org/wiki/%C7%80Xam_language"
 translations:
+  - translation_iso: ara
+    name: خام
+    auto: true
   - translation_iso: jpn
     name: カム語
   - translation_iso: kor

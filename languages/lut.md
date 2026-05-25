@@ -16,6 +16,9 @@ glottolog_family_name: Salishan
 glottolog_classification: "Salishan > Coast Salish > Central Salish > Lushootseed-Puget > Northern Lushootseed"
 wikipedia_url: "https://en.wikipedia.org/wiki/Lushootseed"
 translations:
+  - translation_iso: ara
+    name: لغة وسهووتسييد
+    auto: true
   - translation_iso: jpn
     name: ルシュツィード語
   - translation_iso: kor

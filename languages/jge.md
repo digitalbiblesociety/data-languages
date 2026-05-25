@@ -10,6 +10,9 @@ latitude: 31.5
 longitude: 34.75
 wikipedia_url: "https://en.wikipedia.org/wiki/Judaeo-Georgian"
 translations:
+  - translation_iso: ara
+    name: لغة يهودية جورجية
+    auto: true
   - translation_iso: jpn
     name: グルジン語
   - translation_iso: zho

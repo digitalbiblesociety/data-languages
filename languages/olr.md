@@ -8,6 +8,9 @@ country_name: Vanuatu
 status_id: 8b
 wikipedia_url: "https://en.wikipedia.org/wiki/Olrat_language"
 translations:
+  - translation_iso: ara
+    name: اللغة أولرات
+    auto: true
   - translation_iso: hin
     name: ओलरात भाषा
   - translation_iso: jpn

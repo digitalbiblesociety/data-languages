@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Delta Cross > Central Delta > Ogbronuagum"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ogbronuagum_language"
 translations:
+  - translation_iso: ara
+    name: اللغة أوغبرونواغوم
+    auto: true
   - translation_iso: jpn
     name: オグブロヌアグム語
     auto: true

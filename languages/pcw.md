@@ -15,6 +15,9 @@ glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > West Chadic > West Chadic A > West Chadic A.2-3 > West Chadic A.3 > Goemaic > Talic > Piapung-Koenoem > Pyapun"
 wikipedia_url: "https://en.wikipedia.org/wiki/Pyapun_language"
 translations:
+  - translation_iso: ara
+    name: اللغة بياپون
+    auto: true
   - translation_iso: jpn
     name: Pyapun語
   - translation_iso: zho

@@ -14,6 +14,9 @@ glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Kainantu-Goroka > Goroka > Nuclear Goroka > Fore-Gimi > Fore"
 wikipedia_url: "https://en.wikipedia.org/wiki/Fore_language"
 translations:
+  - translation_iso: ara
+    name: الفور
+    auto: true
   - translation_iso: jpn
     name: フォレ語
   - translation_iso: zho

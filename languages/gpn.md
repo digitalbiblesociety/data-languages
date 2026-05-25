@@ -12,6 +12,9 @@ longitude: 144.50616
 glottocode: taia1239
 wikipedia_url: "https://en.wikipedia.org/wiki/Tayap_language"
 translations:
+  - translation_iso: ara
+    name: تآيآب
+    auto: true
   - translation_iso: jpn
     name: タヤプ語
   - translation_iso: kor

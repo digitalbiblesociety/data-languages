@@ -15,6 +15,9 @@ glottolog_family_name: Cahuapanan
 glottolog_classification: "Cahuapanan > Shawi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Shawi_language"
 translations:
+  - translation_iso: ara
+    name: الشايهويتا
+    auto: true
   - translation_iso: jpn
     name: チャヤウイタ語
     auto: true

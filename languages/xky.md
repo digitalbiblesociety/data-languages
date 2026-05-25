@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > North Borneo Malayo-Polynesian > North Sarawakan > Kenyahic > Highland Kenyah > Upper Pujungan > Uma' Lasan"
 wikipedia_url: "https://en.wikipedia.org/wiki/Uma%CA%BC_Lasan_language"
 translations:
+  - translation_iso: ara
+    name: أوما لاسان
+    auto: true
   - translation_iso: jpn
     name: ウマラサン語
     auto: true

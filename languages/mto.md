@@ -15,6 +15,9 @@ glottolog_family_name: Mixe-Zoque
 glottolog_classification: "Mixe-Zoque > Mixe > Oaxaca Mixe > Totontepec Mixe"
 wikipedia_url: "https://en.wikipedia.org/wiki/Totontepec_Mixe"
 translations:
+  - translation_iso: ara
+    name: لغة ميكسي توتونتيبك
+    auto: true
   - translation_iso: jpn
     name: トトンテペック・ミクセ語
     auto: true

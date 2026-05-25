@@ -15,6 +15,9 @@ glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Iranian-Nuristani > Iranian > Central Iranian PBS > Central Iranian PB > Northwestern Iranian > Central Iran Kermanic > Sivandi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Sivandi_language"
 translations:
+  - translation_iso: ara
+    name: اللغة السيفندي
+    auto: true
   - translation_iso: jpn
     name: シーバンド語
   - translation_iso: zho

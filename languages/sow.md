@@ -15,6 +15,9 @@ glottolog_family_name: Border
 glottolog_classification: "Border > Warisic > Nuclear Warisic > Waina-Punda > Sowanda"
 wikipedia_url: "https://en.wikipedia.org/wiki/Sowanda_language"
 translations:
+  - translation_iso: ara
+    name: اللغة سوواندا
+    auto: true
   - translation_iso: jpn
     name: ワイナ語
     auto: true

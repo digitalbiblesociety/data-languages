@@ -15,6 +15,9 @@ glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Germanic > Northwest Germanic > West Germanic > High German > Upper German > Middle-Modern High German > Modern High German > Bairisch > Global South Bavarian > Cimbrian"
 wikipedia_url: "https://en.wikipedia.org/wiki/Cimbrian_language"
 translations:
+  - translation_iso: ara
+    name: السيمبري
+    auto: true
   - translation_iso: jpn
     name: チンブロ語
   - translation_iso: zho

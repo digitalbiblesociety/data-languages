@@ -15,6 +15,9 @@ glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > West Chadic > West Chadic B > West Chadic B.1 > Ngizim-Southwestern Bade > Shira-Southwestern Bade > Shira > Teshenawa"
 wikipedia_url: "https://en.wikipedia.org/wiki/Teshenawa_language"
 translations:
+  - translation_iso: ara
+    name: تيشيناوا
+    auto: true
   - translation_iso: jpn
     name: テシェナワ語
   - translation_iso: zho

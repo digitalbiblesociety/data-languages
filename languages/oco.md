@@ -14,6 +14,9 @@ glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Celtic > Nuclear Celtic > Core Celtic > Insular Celtic > Brythonic > Southwestern Brythonic > Old South-West British"
 translations:
+  - translation_iso: ara
+    name: اللغة الكورنية القديمة
+    auto: true
   - translation_iso: jpn
     name: 古コーンウォール語
     auto: true

@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Kainji > Central Kainji > Shiroro-Kamuku > Shiroro > Pongu"
 wikipedia_url: "https://en.wikipedia.org/wiki/Pongu_language"
 translations:
+  - translation_iso: ara
+    name: اللغة بونجو
+    auto: true
   - translation_iso: jpn
     name: ポング語
   - translation_iso: zho

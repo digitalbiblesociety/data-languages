@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Southeast Solomonic > Guadalcanal-Nggelic > Nuclear Guadalcanal-Nggelic > Nggelic > Gela"
 wikipedia_url: "https://en.wikipedia.org/wiki/Gela_language"
 translations:
+  - translation_iso: ara
+    name: جيلا
+    auto: true
   - translation_iso: jpn
     name: ンゲラ語
   - translation_iso: zho

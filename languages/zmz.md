@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Cameroun-Ubangian > Ubangi > Ubangi Ka > Bandaic > Nuclear Bandaic > Southwest Bandaic > Central North West Bandaic > Mbandja"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mbandja_language"
 translations:
+  - translation_iso: ara
+    name: مبانجا
+    auto: true
   - translation_iso: jpn
     name: ンバンジャ語
   - translation_iso: zho

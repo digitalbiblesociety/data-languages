@@ -14,6 +14,9 @@ glottolog_family_id: sali1255
 glottolog_family_name: Salishan
 glottolog_classification: "Salishan > Interior Salish > Southern Interior Salish > Okanaganic > Kalispel-Spokane > Spokane"
 translations:
+  - translation_iso: ara
+    name: اللغة سبوكان
+    auto: true
   - translation_iso: jpn
     name: スポケーン語
   - translation_iso: zho

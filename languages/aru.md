@@ -15,6 +15,9 @@ glottolog_family_name: Arawan
 glottolog_classification: "Arawan > Arawá (Amazonas State)"
 wikipedia_url: "https://en.wikipedia.org/wiki/Araw%C3%A1_language"
 translations:
+  - translation_iso: ara
+    name: اللغة أروا
+    auto: true
   - translation_iso: jpn
     name: アラワ語
   - translation_iso: zho

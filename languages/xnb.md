@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Tsouic > Kanakanavu-Saaroa > Kanakanavu"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kanakanavu_language"
 translations:
+  - translation_iso: ara
+    name: كاناكانابو
+    auto: true
   - translation_iso: jpn
     name: カナカナブ語
   - translation_iso: kor

@@ -12,6 +12,9 @@ longitude: -65.12241
 glottocode: yura1255
 wikipedia_url: "https://en.wikipedia.org/wiki/Yuracar%C3%A9_language"
 translations:
+  - translation_iso: ara
+    name: اللغة يوراكاري
+    auto: true
   - translation_iso: jpn
     name: ユラカレ語
     auto: true

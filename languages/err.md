@@ -14,6 +14,9 @@ glottolog_family_id: giim1238
 glottolog_family_name: Giimbiyu
 glottolog_classification: "Giimbiyu > Urninganggic > Erre"
 translations:
+  - translation_iso: ara
+    name: الإري
+    auto: true
   - translation_iso: jpn
     name: エレ語
     auto: true

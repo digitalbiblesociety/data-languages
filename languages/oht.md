@@ -8,6 +8,9 @@ country_id: TR
 country_name: Turkey
 status_id: null
 translations:
+  - translation_iso: ara
+    name: اللغة الحيثية القديمة
+    auto: true
   - translation_iso: jpn
     name: 古ヒッタイト語
     auto: true

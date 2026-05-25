@@ -16,6 +16,9 @@ glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Indo-Aryan > Middle-Modern Indo-Aryan > Eastern Dardic > Nuclear Eastern Dardic > Kohistani > Indus Kohistanic > Indus Kohistani"
 wikipedia_url: "https://en.wikipedia.org/wiki/Indus_Kohistani_language"
 translations:
+  - translation_iso: ara
+    name: لغة كوهستاني إندوس
+    auto: true
   - translation_iso: hin
     name: कोहिस्तानी भाषा
   - translation_iso: jpn

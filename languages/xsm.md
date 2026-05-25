@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Gur > Central Gur > Southern Central Gur > Grusi > Northern Grusi > Nuna-Kasem > Kasem"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kasena_language"
 translations:
+  - translation_iso: ara
+    name: كاسيم
+    auto: true
   - translation_iso: jpn
     name: カセム語
   - translation_iso: zho

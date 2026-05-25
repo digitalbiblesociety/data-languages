@@ -15,6 +15,9 @@ glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Himalayish > Mahakiranti > Kham-Magar-Chepang > Chepangic > Chepang"
 wikipedia_url: "https://en.wikipedia.org/wiki/Chepang_language"
 translations:
+  - translation_iso: ara
+    name: الشيبانغ
+    auto: true
   - translation_iso: hin
     name: चेपाङ भाषा
   - translation_iso: jpn

@@ -15,6 +15,9 @@ glottolog_family_name: Tupian
 glottolog_classification: "Tupian > Eastern Tupian > Maweti-Guarani > Aweti-Guarani > Tupi-Guarani > Southern Tupi-Guarani > Tupi-Guarani Subgroup I > Aché"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ach%C3%A9_language"
 translations:
+  - translation_iso: ara
+    name: آتشé
+    auto: true
   - translation_iso: jpn
     name: グアヤキ語
   - translation_iso: zho

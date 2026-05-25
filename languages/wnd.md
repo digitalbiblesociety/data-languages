@@ -15,6 +15,9 @@ glottolog_family_name: Mangarrayi-Maran
 glottolog_classification: "Mangarrayi-Maran > Maran > Wandarang"
 wikipedia_url: "https://en.wikipedia.org/wiki/Warndarrang_language"
 translations:
+  - translation_iso: ara
+    name: واندارانغ
+    auto: true
   - translation_iso: jpn
     name: ワンダラン語
     auto: true

@@ -15,6 +15,9 @@ glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Bodic > Kaike-Ghale-Tamangic > Ghale-Tamangic > Tamangic > Gurungic > Thakali-Chantyal > Thakali"
 wikipedia_url: "https://en.wikipedia.org/wiki/Thakali_language"
 translations:
+  - translation_iso: ara
+    name: ثاكالي
+    auto: true
   - translation_iso: jpn
     name: タカリ語
     auto: true

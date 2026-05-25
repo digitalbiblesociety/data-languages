@@ -14,6 +14,9 @@ glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Sinitic > Min > Coastal Min > Southern Min-Pu-Xian > Southern Min > Leiqiong > Hainanese"
 wikipedia_url: "https://en.wikipedia.org/wiki/Hainanese"
 translations:
+  - translation_iso: ara
+    name: اللغة الهاينانية
+    auto: true
   - translation_iso: jpn
     name: 海南語
   - translation_iso: kor

@@ -15,6 +15,9 @@ glottolog_family_name: Austroasiatic
 glottolog_classification: "Austroasiatic > Bahnaric > West Bahnaric > Nuclear West Bahnaric > Brao"
 wikipedia_url: "https://en.wikipedia.org/wiki/Brao_language"
 translations:
+  - translation_iso: ara
+    name: لاڤي
+    auto: true
   - translation_iso: jpn
     name: ラヴェ語
     auto: true

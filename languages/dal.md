@@ -15,6 +15,9 @@ glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Cushitic > East Cushitic > Dahalo"
 wikipedia_url: "https://en.wikipedia.org/wiki/Dahalo_language"
 translations:
+  - translation_iso: ara
+    name: داهالو
+    auto: true
   - translation_iso: jpn
     name: ダハロ語
   - translation_iso: zho

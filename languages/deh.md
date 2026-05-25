@@ -15,6 +15,9 @@ glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Iranian-Nuristani > Iranian > Southwestern Iranian > Middle-Modern Persian > Modern Southwestern Iranian > Farsic-Caucasian Tat > Farsic > Eastern Farsic > Dehwari"
 wikipedia_url: "https://en.wikipedia.org/wiki/Dehwari_language"
 translations:
+  - translation_iso: ara
+    name: دهواري
+    auto: true
   - translation_iso: hin
     name: देहवारी भाषा
   - translation_iso: jpn

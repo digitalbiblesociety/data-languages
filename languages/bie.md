@@ -14,6 +14,9 @@ glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Madang > Croisilles > Greater Northern Adelbert > Northern Adelbert > Kumil-Tibor > Kumil > Bepour"
 wikipedia_url: "https://en.wikipedia.org/wiki/Bepour_language"
 translations:
+  - translation_iso: ara
+    name: بيبور
+    auto: true
   - translation_iso: jpn
     name: ベプール語
     auto: true

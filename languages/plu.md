@@ -15,6 +15,9 @@ glottolog_family_name: Arawakan
 glottolog_classification: "Arawakan > Central-Eastern Maipuran > Palikúr"
 wikipedia_url: "https://en.wikipedia.org/wiki/Palik%C3%BAr_language"
 translations:
+  - translation_iso: ara
+    name: اللغة باليكور
+    auto: true
   - translation_iso: jpn
     name: パリクール語
   - translation_iso: zho

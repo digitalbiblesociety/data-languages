@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Idomoid > Akweya > Etulo-Idoma > Etulo"
 wikipedia_url: "https://en.wikipedia.org/wiki/Etulo_language"
 translations:
+  - translation_iso: ara
+    name: إتولو
+    auto: true
   - translation_iso: jpn
     name: エトゥロ語
     auto: true

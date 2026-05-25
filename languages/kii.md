@@ -14,6 +14,9 @@ glottolog_family_name: Caddoan
 glottolog_classification: "Caddoan > Northern Caddoan > Pawnee-Kitsai > Kitsai"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kitsai_language"
 translations:
+  - translation_iso: ara
+    name: لغة كيتسائي
+    auto: true
   - translation_iso: jpn
     name: キツァイ語
     auto: true

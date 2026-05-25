@@ -15,6 +15,9 @@ glottolog_family_name: Arawakan
 glottolog_classification: "Arawakan > Japura-Colombia > Nuclear Japura-Colombia > Northeast Japura-Colombia > Cabiyarí"
 wikipedia_url: "https://en.wikipedia.org/wiki/Cabiyari_language"
 translations:
+  - translation_iso: ara
+    name: كابيياري
+    auto: true
   - translation_iso: jpn
     name: カビヤリ語
   - translation_iso: zho

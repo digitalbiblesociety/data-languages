@@ -15,6 +15,9 @@ glottolog_family_name: Nilotic
 glottolog_classification: "Nilotic > Western Nilotic > Lwoo > Southern Lwoo > Adhola-Alur-Luo > Alur"
 wikipedia_url: "https://en.wikipedia.org/wiki/Alur_language"
 translations:
+  - translation_iso: ara
+    name: لغة ألور
+    auto: true
   - translation_iso: jpn
     name: アルール語
   - translation_iso: kor

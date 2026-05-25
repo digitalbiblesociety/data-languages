@@ -15,6 +15,9 @@ glottolog_family_name: Pidgin
 glottolog_classification: "Pidgin > English-based pidgin > Kru Pidgin English"
 wikipedia_url: "https://en.wikipedia.org/wiki/Liberian_Kreyol"
 translations:
+  - translation_iso: ara
+    name: الإنجليزية الليبيرية
+    auto: true
   - translation_iso: jpn
     name: リベリアン・イングリッシュ語
     auto: true

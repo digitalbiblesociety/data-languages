@@ -15,6 +15,9 @@ glottolog_family_name: Nuclear Torricelli
 glottolog_classification: "Nuclear Torricelli > Wapei-Palei > Central Torricelli > Wapeic > Minidien"
 wikipedia_url: "https://en.wikipedia.org/wiki/Minidien_language"
 translations:
+  - translation_iso: ara
+    name: مينيديين
+    auto: true
   - translation_iso: jpn
     name: ミニディエン語
     auto: true

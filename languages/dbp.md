@@ -15,6 +15,9 @@ glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > West Chadic > West Chadic B > West Chadic B.1 > Duwai"
 wikipedia_url: "https://en.wikipedia.org/wiki/%C6%8Auwai_language"
 translations:
+  - translation_iso: ara
+    name: دوواي
+    auto: true
   - translation_iso: jpn
     name: ドゥワイ語
     auto: true

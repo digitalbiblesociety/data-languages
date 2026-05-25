@@ -12,6 +12,9 @@ longitude: -76.28113
 glottocode: muni1258
 wikipedia_url: "https://en.wikipedia.org/wiki/Muniche_language"
 translations:
+  - translation_iso: ara
+    name: مونيتشي
+    auto: true
   - translation_iso: jpn
     name: ムニチェ語
     auto: true

@@ -15,6 +15,9 @@ glottolog_family_name: Timor-Alor-Pantar
 glottolog_classification: "Timor-Alor-Pantar > Alor-Pantar > Nuclear Alor-Pantar > West Alor-Straits-Pantar > Western Pantar"
 wikipedia_url: "https://en.wikipedia.org/wiki/Western_Pantar_language"
 translations:
+  - translation_iso: ara
+    name: لغة امما
+    auto: true
   - translation_iso: jpn
     name: ランマ語
     auto: true

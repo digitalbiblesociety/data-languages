@@ -15,6 +15,9 @@ glottolog_family_name: Dravidian
 glottolog_classification: "Dravidian > Central Dravidian > Parji-Ollari-Gadaba > Ollari-Gadaba > Pottangi Ollar Gadaba"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ollari_language"
 translations:
+  - translation_iso: ara
+    name: جادابا بوتانجي أولار
+    auto: true
   - translation_iso: jpn
     name: オッラーリ語
   - translation_iso: zho

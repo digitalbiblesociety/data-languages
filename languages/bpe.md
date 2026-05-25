@@ -14,6 +14,9 @@ glottolog_family_name: Sko
 glottolog_classification: "Sko > Skou-Serra-Piore > Barupu Lagoon > Bauni"
 wikipedia_url: "https://en.wikipedia.org/wiki/Bauni_language"
 translations:
+  - translation_iso: ara
+    name: باوني
+    auto: true
   - translation_iso: jpn
     name: バウニ語
     auto: true

@@ -14,6 +14,9 @@ glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > Nyawaygic > Yuru"
 wikipedia_url: "https://en.wikipedia.org/wiki/Yuru_language"
 translations:
+  - translation_iso: ara
+    name: لغة ورو
+    auto: true
   - translation_iso: jpn
     name: ユル語
     auto: true

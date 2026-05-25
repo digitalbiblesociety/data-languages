@@ -15,6 +15,9 @@ glottolog_family_name: Kartvelian
 glottolog_classification: "Kartvelian > Georgian-Zan > Georgic > Old Georgian"
 wikipedia_url: "https://en.wikipedia.org/wiki/Old_Georgian"
 translations:
+  - translation_iso: ara
+    name: اللغة الجورجية القديمة
+    auto: true
   - translation_iso: jpn
     name: 古ジョージア語
   - translation_iso: kor

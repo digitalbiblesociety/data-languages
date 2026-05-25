@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > Bantu A-B10-B20-B30 > Sawabantu > Bengaic > Yasa-Kombe > Yasa"
 wikipedia_url: "https://en.wikipedia.org/wiki/Yasa_language"
 translations:
+  - translation_iso: ara
+    name: اللغة ياسا
+    auto: true
   - translation_iso: jpn
     name: ヤサ語
     auto: true

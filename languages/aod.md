@@ -14,6 +14,9 @@ glottolog_family_name: Ramu
 glottolog_classification: "Ramu > Goam > Ataitan > Andarum"
 wikipedia_url: "https://en.wikipedia.org/wiki/Andarum_language"
 translations:
+  - translation_iso: ara
+    name: لغة أنّدارم
+    auto: true
   - translation_iso: jpn
     name: アンダルム語
     auto: true

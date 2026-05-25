@@ -15,6 +15,9 @@ glottolog_family_name: Sign Language
 glottolog_classification: "Sign Language > L1 Sign Language > LSFic > Dutch-Belgian Sign > Belgian Sign > Vlaamse Gebarentaal"
 wikipedia_url: "https://en.wikipedia.org/wiki/Flemish_Sign_Language"
 translations:
+  - translation_iso: ara
+    name: فلامسي جيبارنتال
+    auto: true
   - translation_iso: jpn
     name: フラマン手話
   - translation_iso: zho

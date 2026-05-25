@@ -15,6 +15,9 @@ glottolog_family_name: Algic
 glottolog_classification: "Algic > Algonquian-Blackfoot > Algonquian > Eastern Algonquian > Delawaran > Common Delaware > Unami"
 wikipedia_url: "https://en.wikipedia.org/wiki/Unami_language"
 translations:
+  - translation_iso: ara
+    name: أونامي
+    auto: true
   - translation_iso: jpn
     name: レナペ語
   - translation_iso: zho

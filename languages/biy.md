@@ -15,6 +15,9 @@ glottolog_family_name: Austroasiatic
 glottolog_classification: "Austroasiatic > Mundaic > North Munda > Kherwarian > Mundaric > Birhor"
 wikipedia_url: "https://en.wikipedia.org/wiki/Birhor_language"
 translations:
+  - translation_iso: ara
+    name: بيرهور
+    auto: true
   - translation_iso: hin
     name: बिरहोर भाषा
   - translation_iso: jpn

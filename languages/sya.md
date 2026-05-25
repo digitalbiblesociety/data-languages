@@ -14,6 +14,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Basap-Greater Barito > Greater Barito linkage > North West Greater Barito > Siang"
 wikipedia_url: "https://en.wikipedia.org/wiki/Siang_language"
 translations:
+  - translation_iso: ara
+    name: سيانغ
+    auto: true
   - translation_iso: jpn
     name: シアン語
     auto: true

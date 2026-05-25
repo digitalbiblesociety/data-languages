@@ -12,6 +12,9 @@ glottolog_family_name: Artificial Language
 glottolog_classification: "Artificial Language > Brithenig"
 wikipedia_url: "https://en.wikipedia.org/wiki/Brithenig"
 translations:
+  - translation_iso: ara
+    name: بريثينج
+    auto: true
   - translation_iso: jpn
     name: ブリゼニグ
   - translation_iso: kor

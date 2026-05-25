@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Malayo-Chamic > Malayic > Nuclear Malayic > Vehicular Malay > Eastern Indonesia Trade Malay > Kupang Malay"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kupang_Malay"
 translations:
+  - translation_iso: ara
+    name: لغة ملايو كوبانج
+    auto: true
   - translation_iso: jpn
     name: クパン・マレー語
     auto: true

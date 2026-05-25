@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > North New Guinea linkage > Sarmi-Jayapura Bay > Sarmi > Sobeic > Sobei-Liki > Sobei"
 wikipedia_url: "https://en.wikipedia.org/wiki/Sobei_language"
 translations:
+  - translation_iso: ara
+    name: اللغة سوبي
+    auto: true
   - translation_iso: jpn
     name: ソベイ語
   - translation_iso: zho

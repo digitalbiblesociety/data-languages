@@ -15,6 +15,9 @@ glottolog_family_name: Lakes Plain
 glottolog_classification: "Lakes Plain > Tariku > East Tariku > Doutai-Kai-Waritai > Doutai"
 wikipedia_url: "https://en.wikipedia.org/wiki/Doutai_language"
 translations:
+  - translation_iso: ara
+    name: دوتاي
+    auto: true
   - translation_iso: jpn
     name: ドウタイ語
     auto: true

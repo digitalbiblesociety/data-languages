@@ -15,6 +15,9 @@ glottolog_family_name: Keram
 glottolog_classification: "Keram > East Keram > Ambakich"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ambakich_language"
 translations:
+  - translation_iso: ara
+    name: لغة أمباكيت
+    auto: true
   - translation_iso: jpn
     name: アンバキッチ語
     auto: true

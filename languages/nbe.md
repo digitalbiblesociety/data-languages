@@ -15,6 +15,9 @@ glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Brahmaputran > Patkaian > South Patkaian > Southwestern Patkaian > Chang-Phom-Konyak > Konyak-Phom > Konyak Naga"
 wikipedia_url: "https://en.wikipedia.org/wiki/Konyak_language"
 translations:
+  - translation_iso: ara
+    name: كونيك ناجا
+    auto: true
   - translation_iso: hin
     name: कोन्यक भाषा
   - translation_iso: jpn

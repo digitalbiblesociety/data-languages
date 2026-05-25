@@ -15,6 +15,9 @@ glottolog_family_name: Algic
 glottolog_classification: "Algic > Algonquian-Blackfoot > Algonquian > Arapahoic > Arapaho-Gros Ventre-Besawunena > Gros Ventre"
 wikipedia_url: "https://en.wikipedia.org/wiki/Gros_Ventre_language"
 translations:
+  - translation_iso: ara
+    name: اللغة جروس فنتر
+    auto: true
   - translation_iso: jpn
     name: グロー・ヴァントル語
   - translation_iso: zho

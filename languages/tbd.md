@@ -12,6 +12,9 @@ longitude: 145.81569
 glottocode: kaki1249
 wikipedia_url: "https://en.wikipedia.org/wiki/Kaki_Ae_language"
 translations:
+  - translation_iso: ara
+    name: كاكي إيي
+    auto: true
   - translation_iso: jpn
     name: カキ・アエ語
   - translation_iso: zho

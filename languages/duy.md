@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Northern Luzon > Unclassified Northern Luzon > Dicamay Agta"
 wikipedia_url: "https://en.wikipedia.org/wiki/Dicamay_Agta_language"
 translations:
+  - translation_iso: ara
+    name: ديكاماي أجتا
+    auto: true
   - translation_iso: jpn
     name: ディカマイ・アグタ語
     auto: true

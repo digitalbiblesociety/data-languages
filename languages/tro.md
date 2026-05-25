@@ -15,6 +15,9 @@ glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Kuki-Chin-Naga > Kuki-Chin > Northwestern Kuki-Chin > Kolhrengic > Tarao"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tarao_language"
 translations:
+  - translation_iso: ara
+    name: تاراو ناجا
+    auto: true
   - translation_iso: hin
     name: तराओ भाषा
   - translation_iso: jpn

@@ -12,6 +12,9 @@ glottolog_family_name: Sign Language
 glottolog_classification: "Sign Language > L1 Sign Language > Kafr Qasem Sign Language"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kafr_Qasem_Sign_Language"
 translations:
+  - translation_iso: ara
+    name: اللغة لغة الإشارة قصر قاسم
+    auto: true
   - translation_iso: hin
     name: काफ़र कासेम सांकेतिक भाषा
   - translation_iso: jpn

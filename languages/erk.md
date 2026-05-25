@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > North and Central Vanuatu > Central Vanuatu > Epi-Efate > Efate-Shepherds > Efate > South Efatic > Nafsan"
 wikipedia_url: "https://en.wikipedia.org/wiki/Nafsan_language"
 translations:
+  - translation_iso: ara
+    name: الإفاتي الجنوبية
+    auto: true
   - translation_iso: jpn
     name: 南エファテ語
   - translation_iso: kor

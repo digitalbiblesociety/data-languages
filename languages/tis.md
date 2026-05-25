@@ -14,6 +14,9 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Northern Luzon > Meso-Cordilleran > South-Central Cordilleran > Central Cordilleran > Kalinga-Itneg > Kalinga > Masadiit > Masadiit Itneg"
 translations:
+  - translation_iso: ara
+    name: ماسديت إتنيغ
+    auto: true
   - translation_iso: jpn
     name: マサディイト・イトネグ語
     auto: true

@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > North-Central Atlantic > Central Atlantic > Bak > Joola-Manjaku > Jola > FH-Jola > PF-Jola > Kwatay-Karon-Mlomp > Karon-Mlomp > Mlomp"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mlomp_language"
 translations:
+  - translation_iso: ara
+    name: لغة ملومب
+    auto: true
   - translation_iso: jpn
     name: ムロンプ語
     auto: true

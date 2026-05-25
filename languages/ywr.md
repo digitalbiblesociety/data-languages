@@ -15,6 +15,9 @@ glottolog_family_name: Nyulnyulan
 glottolog_classification: "Nyulnyulan > Eastern Nyulnyulan > Yawuric > Yawuru"
 wikipedia_url: "https://en.wikipedia.org/wiki/Yawuru_language"
 translations:
+  - translation_iso: ara
+    name: اللغة ياووو
+    auto: true
   - translation_iso: jpn
     name: ヤウル語
   - translation_iso: zho

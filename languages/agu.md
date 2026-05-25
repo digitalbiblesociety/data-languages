@@ -15,6 +15,9 @@ glottolog_family_name: Mayan
 glottolog_classification: "Mayan > Core Mayan > Quichean-Mamean > Greater Mamean > Ixilan > Aguacateco"
 wikipedia_url: "https://en.wikipedia.org/wiki/Awakatek_language"
 translations:
+  - translation_iso: ara
+    name: لغة أغواكاتيكو
+    auto: true
   - translation_iso: jpn
     name: アワカテコ語
   - translation_iso: kor

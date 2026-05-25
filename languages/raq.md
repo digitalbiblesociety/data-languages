@@ -10,6 +10,9 @@ latitude: 26.84425
 longitude: 87.95341
 wikipedia_url: "https://en.wikipedia.org/wiki/Saam_language"
 translations:
+  - translation_iso: ara
+    name: سام
+    auto: true
   - translation_iso: jpn
     name: サアム語
     auto: true

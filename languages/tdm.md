@@ -12,6 +12,9 @@ longitude: -58.653
 glottocode: taru1236
 wikipedia_url: "https://en.wikipedia.org/wiki/Taruma_language"
 translations:
+  - translation_iso: ara
+    name: تاروما
+    auto: true
   - translation_iso: jpn
     name: タルマ語
     auto: true

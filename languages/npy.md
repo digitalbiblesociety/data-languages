@@ -14,6 +14,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Greater South Sulawesi > Rampi-Seko-Badaic > Badaic-Limola > Badaic > Napu"
 wikipedia_url: "https://en.wikipedia.org/wiki/Napu_language"
 translations:
+  - translation_iso: ara
+    name: نابو
+    auto: true
   - translation_iso: jpn
     name: ナプ語
     auto: true

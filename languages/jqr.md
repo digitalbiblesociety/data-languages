@@ -15,6 +15,9 @@ glottolog_family_name: Aymaran
 glottolog_classification: "Aymaran > Tupe > Jaqaru"
 wikipedia_url: "https://en.wikipedia.org/wiki/Jaqaru_language"
 translations:
+  - translation_iso: ara
+    name: لغة جاقارو
+    auto: true
   - translation_iso: jpn
     name: ジャカル語
     auto: true

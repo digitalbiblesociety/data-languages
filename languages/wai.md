@@ -14,6 +14,9 @@ glottolog_family_name: Unattested
 glottolog_classification: "Unattested > Tor-Orya (Unattested) > Wares"
 wikipedia_url: "https://en.wikipedia.org/wiki/Wares_language"
 translations:
+  - translation_iso: ara
+    name: وارز
+    auto: true
   - translation_iso: jpn
     name: ワレス語
     auto: true

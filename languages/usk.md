@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Delta Cross > Lower Cross > Nuclear Lower Cross > Usaghade"
 wikipedia_url: "https://en.wikipedia.org/wiki/Usaghade_language"
 translations:
+  - translation_iso: ara
+    name: أوساجادي
+    auto: true
   - translation_iso: jpn
     name: イサンゲレ語
     auto: true

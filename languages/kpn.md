@@ -15,6 +15,9 @@ glottolog_family_name: Tupian
 glottolog_classification: "Tupian > Kepkiriwát"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kepkiriw%C3%A1t_language"
 translations:
+  - translation_iso: ara
+    name: لغة كيبكيريوات
+    auto: true
   - translation_iso: jpn
     name: ケプキリワット語
     auto: true

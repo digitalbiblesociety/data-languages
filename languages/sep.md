@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Senufo > North Senufo > Supyiric > Sìcìté Sénoufo"
 wikipedia_url: "https://en.wikipedia.org/wiki/Sucite_language"
 translations:
+  - translation_iso: ara
+    name: سيسيتي سينوفو
+    auto: true
   - translation_iso: jpn
     name: シシレ語
     auto: true

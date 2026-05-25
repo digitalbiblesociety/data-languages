@@ -15,6 +15,9 @@ glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Kman-Meyor > Kman"
 wikipedia_url: "https://en.wikipedia.org/wiki/Miju_language"
 translations:
+  - translation_iso: ara
+    name: ميجو ميشمي
+    auto: true
   - translation_iso: hin
     name: मिजु भाषा
   - translation_iso: jpn

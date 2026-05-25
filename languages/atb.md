@@ -15,6 +15,9 @@ glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Burmo-Qiangic > Lolo-Burmese > Burmish > Northern Burmish > Maruic > Zaiwa"
 wikipedia_url: "https://en.wikipedia.org/wiki/Zaiwa_language"
 translations:
+  - translation_iso: ara
+    name: اللغة زايوا
+    auto: true
   - translation_iso: jpn
     name: 載瓦語
   - translation_iso: zho

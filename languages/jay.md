@@ -15,6 +15,9 @@ glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > Yuulngu > Nhangu"
 wikipedia_url: "https://en.wikipedia.org/wiki/Nhangu_language"
 translations:
+  - translation_iso: ara
+    name: لغة يان نهانغو
+    auto: true
   - translation_iso: jpn
     name: ヤン・ナング語
     auto: true

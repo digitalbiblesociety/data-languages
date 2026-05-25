@@ -12,6 +12,9 @@ longitude: 141.5659
 glottocode: yale1246
 wikipedia_url: "https://en.wikipedia.org/wiki/Yal%C3%AB_language"
 translations:
+  - translation_iso: ara
+    name: يل
+    auto: true
   - translation_iso: jpn
     name: ヤレ語
   - translation_iso: zho

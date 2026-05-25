@@ -15,6 +15,9 @@ glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Asmat-Awyu-Ok > Awyu-Ok > Ok-Oksapmin > Ok > Morop-Dintere"
 wikipedia_url: "https://en.wikipedia.org/wiki/Iwur_language"
 translations:
+  - translation_iso: ara
+    name: لغة إيور
+    auto: true
   - translation_iso: jpn
     name: イウル語
     auto: true

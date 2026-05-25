@@ -14,6 +14,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > North New Guinea linkage > Ngero-Vitiaz linkage > Vitiaz linkage > Mengenic > Mamusa-Mengen > Mengen"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mengen_language"
 translations:
+  - translation_iso: ara
+    name: لغة منجين
+    auto: true
   - translation_iso: jpn
     name: メンゲン語
   - translation_iso: zho

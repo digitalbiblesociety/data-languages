@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Greater Seram Laut > Banda-Geser > Banda (Indonesia)"
 wikipedia_url: "https://en.wikipedia.org/wiki/Banda_language_(Maluku)"
 translations:
+  - translation_iso: ara
+    name: باندا مالوكو
+    auto: true
   - translation_iso: jpn
     name: バンダ・マルク語
     auto: true

@@ -7,6 +7,9 @@ country_id: US
 country_name: United States
 status_id: null
 translations:
+  - translation_iso: ara
+    name: نوتوواي-ميهيرين
+    auto: true
   - translation_iso: jpn
     name: ノッタウェイ・メヘリン語
     auto: true

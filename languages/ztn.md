@@ -15,6 +15,9 @@ glottolog_family_name: Otomanguean
 glottolog_classification: "Otomanguean > Eastern Otomanguean > Popoloca-Zapotecan > Zapotecan > Zapotec > Core Zapotec > Narrow Core Zapotec > Central Core Zapotec > Santa Catarina Albarradas Zapotec"
 wikipedia_url: "https://en.wikipedia.org/wiki/Santa_Catarina_Albarradas_Zapotec"
 translations:
+  - translation_iso: ara
+    name: زابوتيك سانتا كاتارينا ألبارادس
+    auto: true
   - translation_iso: jpn
     name: サンタ・カタリナ・アルバラダス・サポテク語
     auto: true

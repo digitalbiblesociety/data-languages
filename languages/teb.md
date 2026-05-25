@@ -10,6 +10,9 @@ latitude: -0.02668
 longitude: -76.5761
 wikipedia_url: "https://en.wikipedia.org/wiki/Tetet%C3%A9_language"
 translations:
+  - translation_iso: ara
+    name: تيتيتي
+    auto: true
   - translation_iso: jpn
     name: テテテ語
     auto: true

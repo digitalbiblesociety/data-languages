@@ -14,6 +14,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > North Borneo Malayo-Polynesian > Central Sarawak > Punan-Muller-Schwaner > Muller-Schwaner > Aoheng-Seputan"
 wikipedia_url: "https://en.wikipedia.org/wiki/Aoheng_language"
 translations:
+  - translation_iso: ara
+    name: اللغة أوهينج
+    auto: true
   - translation_iso: jpn
     name: アオヘン語
     auto: true

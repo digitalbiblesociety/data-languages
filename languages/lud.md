@@ -15,6 +15,9 @@ glottolog_family_name: Uralic
 glottolog_classification: "Uralic > Finnic > Coastal Finnic > Neva > North Finnic > Ladogan > East Ladoga > Ludian"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ludic_language"
 translations:
+  - translation_iso: ara
+    name: لغة وديان
+    auto: true
   - translation_iso: jpn
     name: リュード語
   - translation_iso: zho

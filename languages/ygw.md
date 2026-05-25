@@ -15,6 +15,9 @@ glottolog_family_name: Angan
 glottolog_classification: "Angan > Nuclear Angan > Yagwoia"
 wikipedia_url: "https://en.wikipedia.org/wiki/Yagwoia_language"
 translations:
+  - translation_iso: ara
+    name: اللغة ياجووويا
+    auto: true
   - translation_iso: jpn
     name: ヤグウォイア語
   - translation_iso: zho

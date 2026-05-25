@@ -15,6 +15,9 @@ glottolog_family_name: Otomanguean
 glottolog_classification: "Otomanguean > Eastern Otomanguean > Popoloca-Zapotecan > Popolocan-Mazatecan > Mazatecan > Chiquihuitlán Mazatec"
 wikipedia_url: "https://en.wikipedia.org/wiki/Chiquihuitl%C3%A1n_Mazatec"
 translations:
+  - translation_iso: ara
+    name: لغة مازاتك تشيكيهويتلان
+    auto: true
   - translation_iso: jpn
     name: チキウィトラン・マサテク語
     auto: true

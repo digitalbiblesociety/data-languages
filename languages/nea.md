@@ -10,6 +10,9 @@ status_id: 6a
 latitude: -8.82745
 longitude: 121.12061
 translations:
+  - translation_iso: ara
+    name: إيسترن نجدا
+    auto: true
   - translation_iso: jpn
     name: 東ングアダ語
     auto: true

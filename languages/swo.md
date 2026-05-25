@@ -15,6 +15,9 @@ glottolog_family_name: Pano-Tacanan
 glottolog_classification: "Pano-Tacanan > Panoan > Mainline Pano > Pano Nawa > Headwaters Pano > Yaminawa Complex > Shanenawa"
 wikipedia_url: "https://en.wikipedia.org/wiki/Shanenawa_language"
 translations:
+  - translation_iso: ara
+    name: شانيناوا
+    auto: true
   - translation_iso: jpn
     name: シャネナワ語
     auto: true

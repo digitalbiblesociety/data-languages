@@ -14,6 +14,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Tanimbar-Bomberai > Nuta > Mbaruan"
 wikipedia_url: "https://en.wikipedia.org/wiki/Bedoanas_language"
 translations:
+  - translation_iso: ara
+    name: بيدوانا
+    auto: true
   - translation_iso: jpn
     name: ベドアナス語
     auto: true

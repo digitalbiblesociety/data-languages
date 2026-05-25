@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Central Pacific linkage > Tokalau Fijian > Polynesian > Nuclear Polynesian > Vanuatu-Loyalty Outliers > Mele-Futuna > Mele-Fila"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mele-Fila_language"
 translations:
+  - translation_iso: ara
+    name: ميلي فيلا
+    auto: true
   - translation_iso: jpn
     name: メレ・フィラ語
   - translation_iso: zho

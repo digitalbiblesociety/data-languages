@@ -16,6 +16,9 @@ glottolog_family_name: Tai-Kadai
 glottolog_classification: "Tai-Kadai > Kam-Tai > Daic-Beic > Daic > Central-Southwestern Tai > Wenma-Southwestern Tai > Sapa-Southwestern Tai > Southwestern Tai > Southwestern Tai P > Shanic > Sukaphic > Assam Tai B > Khamti"
 wikipedia_url: "https://en.wikipedia.org/wiki/Khamti_language"
 translations:
+  - translation_iso: ara
+    name: لغة خاميتي
+    auto: true
   - translation_iso: hin
     name: खाम्प्टी भाषा
   - translation_iso: jpn

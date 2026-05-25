@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > Papuan Tip linkage > Nuclear Papuan Tip linkage > North Papuan Mainland-D'Entrecasteaux linkage > Are-Taupota linkage > Are linkage > Ubir"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ubir_language"
 translations:
+  - translation_iso: ara
+    name: أوبير
+    auto: true
   - translation_iso: jpn
     name: ウビル語
     auto: true

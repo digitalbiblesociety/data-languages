@@ -15,6 +15,9 @@ glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Iranian-Nuristani > Iranian > Central Iranian PBS > Central Iranian PB > Northwestern Iranian > Adharic > Zaza > Dimli"
 wikipedia_url: "https://en.wikipedia.org/wiki/Southern_Zaza"
 translations:
+  - translation_iso: ara
+    name: ديملي
+    auto: true
   - translation_iso: jpn
     name: ディムリ語
   - translation_iso: zho

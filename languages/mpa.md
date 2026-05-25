@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > East Bantu > Rufiji-Ruvuma > Rufijic > Matengo-Rufiji > South Mbinda > Mpoto"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mpoto_language"
 translations:
+  - translation_iso: ara
+    name: لغة مبوتو
+    auto: true
   - translation_iso: jpn
     name: ムポト語
     auto: true

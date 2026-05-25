@@ -9,6 +9,9 @@ country_name: India
 status_id: null
 wikipedia_url: "https://en.wikipedia.org/wiki/Semandang_language"
 translations:
+  - translation_iso: ara
+    name: سيماندانج
+    auto: true
   - translation_iso: jpn
     name: バハサ・クアラン・セマンダン語
     auto: true

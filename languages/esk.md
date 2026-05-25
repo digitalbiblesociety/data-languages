@@ -14,6 +14,9 @@ glottolog_family_id: eski1264
 glottolog_family_name: Eskimo-Aleut
 glottolog_classification: "Eskimo-Aleut > Eskimo > Inuit > Alaskan Inupiaq > Seward Alaska Inupiatun"
 translations:
+  - translation_iso: ara
+    name: الإينوبياتون الأسكا الشمالية الغربية
+    auto: true
   - translation_iso: jpn
     name: 北西アラスカ・イヌピアツン語
   - translation_iso: zho

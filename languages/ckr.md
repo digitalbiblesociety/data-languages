@@ -14,6 +14,9 @@ glottolog_family_name: Baining
 glottolog_classification: "Baining > Southern Baining > Kairak"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kairak_language"
 translations:
+  - translation_iso: ara
+    name: الكايراك
+    auto: true
   - translation_iso: jpn
     name: カイラック語
     auto: true

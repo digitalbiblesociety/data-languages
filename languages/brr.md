@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Southeast Solomonic > Guadalcanal-Nggelic > Southeast Guadalcanal > Birao"
 wikipedia_url: "https://en.wikipedia.org/wiki/Birao_language"
 translations:
+  - translation_iso: ara
+    name: بيراو
+    auto: true
   - translation_iso: jpn
     name: ムビラオ語
   - translation_iso: zho

@@ -15,6 +15,9 @@ glottolog_family_name: Central Sudanic
 glottolog_classification: "Central Sudanic > Moru-Madi > Central Moru-Madi > Lugbaric > Aringa"
 wikipedia_url: "https://en.wikipedia.org/wiki/Aringa_language"
 translations:
+  - translation_iso: ara
+    name: لغة ارينجا
+    auto: true
   - translation_iso: jpn
     name: アリンガ語
     auto: true

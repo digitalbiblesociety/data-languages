@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Admiralty Islands > Eastern Admiralty Islands > Manus > East Manus > Andra-Hus"
 wikipedia_url: "https://en.wikipedia.org/wiki/Hus_language"
 translations:
+  - translation_iso: ara
+    name: لغة أندرا-هوس
+    auto: true
   - translation_iso: jpn
     name: アンドラフス語
     auto: true

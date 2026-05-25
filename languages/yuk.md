@@ -15,6 +15,9 @@ glottolog_family_name: Yuki-Wappo
 glottolog_classification: "Yuki-Wappo > Northern Yukian"
 wikipedia_url: "https://en.wikipedia.org/wiki/Northern_Yukian_language"
 translations:
+  - translation_iso: ara
+    name: اللغة يوكي
+    auto: true
   - translation_iso: jpn
     name: ユキ語
   - translation_iso: zho

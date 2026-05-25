@@ -15,6 +15,9 @@ glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Burmo-Qiangic > Na-Qiangic > Qiangic > Zhaba"
 wikipedia_url: "https://en.wikipedia.org/wiki/Zhaba_language"
 translations:
+  - translation_iso: ara
+    name: اللغة جابا
+    auto: true
   - translation_iso: jpn
     name: ジャバ語
   - translation_iso: zho

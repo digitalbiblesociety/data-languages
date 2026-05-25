@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > Central-Western Bantu > Luban > Luba-Kaonde > Kaonde-Shaba-Sanga > Sanga (Democratic Republic of Congo)"
 wikipedia_url: "https://en.wikipedia.org/wiki/Sanga_language_(Bantu)"
 translations:
+  - translation_iso: ara
+    name: اللغة سانجا (جمهورية الكونغو الديمقراطية)
+    auto: true
   - translation_iso: jpn
     name: サンガ語
   - translation_iso: zho

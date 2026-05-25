@@ -12,6 +12,9 @@ longitude: -79
 glottocode: moch1259
 wikipedia_url: "https://en.wikipedia.org/wiki/Mochica_language"
 translations:
+  - translation_iso: ara
+    name: اللغة موتشيكا
+    auto: true
   - translation_iso: jpn
     name: モチカ語
   - translation_iso: zho

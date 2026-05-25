@@ -14,6 +14,9 @@ glottolog_family_id: otom1299
 glottolog_family_name: Otomanguean
 glottolog_classification: "Otomanguean > Western Otomanguean > Otopame-Chinantecan > Otopamean > Otomian > Otomi > Northwestern Otomi > Querétaro Otomi"
 translations:
+  - translation_iso: ara
+    name: اللغة أوتومي كويريتارو
+    auto: true
   - translation_iso: jpn
     name: ケレタロ・オトミ語
     auto: true

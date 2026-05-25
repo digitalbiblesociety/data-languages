@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Timor-Babar > Wetar-Atauro > Galoli-Talur"
 wikipedia_url: "https://en.wikipedia.org/wiki/Galoli_language"
 translations:
+  - translation_iso: ara
+    name: الجالولين
+    auto: true
   - translation_iso: jpn
     name: ガロリ語
   - translation_iso: zho

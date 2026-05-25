@@ -14,6 +14,9 @@ glottolog_family_name: Algic
 glottolog_classification: "Algic > Algonquian-Blackfoot > Algonquian > Eastern Algonquian > Maritimes-Southern New England Algonquian > Southern New England Algonquian > Western Southern New England Algonquian > Wampano"
 wikipedia_url: "https://en.wikipedia.org/wiki/Quiripi_language"
 translations:
+  - translation_iso: ara
+    name: لغة كويريبي
+    auto: true
   - translation_iso: jpn
     name: キリピ
   - translation_iso: kor

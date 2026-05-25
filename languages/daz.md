@@ -15,6 +15,9 @@ glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Paniai Lakes > Auye-Dao > Dao"
 wikipedia_url: "https://en.wikipedia.org/wiki/Moi-Wadea_language"
 translations:
+  - translation_iso: ara
+    name: داو
+    auto: true
   - translation_iso: jpn
     name: ダオ語
     auto: true

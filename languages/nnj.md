@@ -15,6 +15,9 @@ glottolog_family_name: Nilotic
 glottolog_classification: "Nilotic > Eastern Nilotic > Teso-Lotuxo-Maa > Teso-Turkana > Turkanic > Nyangatom"
 wikipedia_url: "https://en.wikipedia.org/wiki/Nyangatom_language"
 translations:
+  - translation_iso: ara
+    name: نيانغاتوم
+    auto: true
   - translation_iso: jpn
     name: ニアンガトム語
   - translation_iso: zho

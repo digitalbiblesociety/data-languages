@@ -15,6 +15,9 @@ glottolog_family_name: Pano-Tacanan
 glottolog_classification: "Pano-Tacanan > Tacanan > Cavineña"
 wikipedia_url: "https://en.wikipedia.org/wiki/Cavine%C3%B1a_language"
 translations:
+  - translation_iso: ara
+    name: كافينيا
+    auto: true
   - translation_iso: jpn
     name: カビネニャ語
   - translation_iso: zho

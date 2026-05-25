@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Gbaya-Manza-Ngbaka > Gbaya Meridional-Occidental > Gbaya Meridional > Ngombe-Bangandu"
 wikipedia_url: "https://en.wikipedia.org/wiki/Bangandu_language"
 translations:
+  - translation_iso: ara
+    name: بانجاندو
+    auto: true
   - translation_iso: jpn
     name: ンゴンベ語
   - translation_iso: zho

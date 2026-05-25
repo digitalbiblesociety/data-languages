@@ -15,6 +15,9 @@ glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Brahmaputran > Bodo-Garo > Boroic > Tiwa-Boro > Bodo-Mech-Kachari > Kachari"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kachari_language"
 translations:
+  - translation_iso: ara
+    name: كاكهاري
+    auto: true
   - translation_iso: hin
     name: कछारी भाषा
   - translation_iso: jpn

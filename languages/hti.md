@@ -14,6 +14,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Greater Seram Laut > East Seram > Setic > Hoti of East Seram"
 wikipedia_url: "https://en.wikipedia.org/wiki/Hoti_language"
 translations:
+  - translation_iso: ara
+    name: هوتي
+    auto: true
   - translation_iso: jpn
     name: ホティ語
     auto: true

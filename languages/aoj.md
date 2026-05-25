@@ -15,6 +15,9 @@ glottolog_family_name: Nuclear Torricelli
 glottolog_classification: "Nuclear Torricelli > Kombio-Arapesh-Urat > Arapesh > Mufian-Bukiyip-Abu > Mufian"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mufian_language"
 translations:
+  - translation_iso: ara
+    name: لغة موفيان
+    auto: true
   - translation_iso: jpn
     name: 南部アラペシュ語
   - translation_iso: zho

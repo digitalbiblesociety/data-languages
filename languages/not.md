@@ -15,6 +15,9 @@ glottolog_family_name: Arawakan
 glottolog_classification: "Arawakan > Southern Maipuran > Kampa-Amuesha > Pre-Andine Maipuran > Nomatsiguenga"
 wikipedia_url: "https://en.wikipedia.org/wiki/Nomatsiguenga_language"
 translations:
+  - translation_iso: ara
+    name: نومات سيغويينغا
+    auto: true
   - translation_iso: jpn
     name: ノマツィゲンガ語
   - translation_iso: zho

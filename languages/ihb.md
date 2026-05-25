@@ -14,6 +14,9 @@ glottolog_family_id: pidg1258
 glottolog_family_name: Pidgin
 glottolog_classification: "Pidgin > Iha-based pidgin > Iha-based Pidgin"
 translations:
+  - translation_iso: ara
+    name: إيها بيسد بيدجن
+    auto: true
   - translation_iso: jpn
     name: イハ・ベースド・ピジン語
     auto: true

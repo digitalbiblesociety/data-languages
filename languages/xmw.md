@@ -14,6 +14,9 @@ glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Basap-Greater Barito > Greater Barito linkage > Southeast Barito > Malagasic > North-Central Malagasic > Northern Malagasic > Tsimihety-Betsimisaraka > Tsimihety Malagasy"
 translations:
+  - translation_iso: ara
+    name: ملغاشية تسيميهيتي
+    auto: true
   - translation_iso: jpn
     name: ツィミヘティ・マダガスカル語
   - translation_iso: zho

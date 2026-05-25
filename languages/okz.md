@@ -8,6 +8,9 @@ latitude: 13.4125
 longitude: 103.866667
 wikipedia_url: "https://en.wikipedia.org/wiki/Old_Khmer"
 translations:
+  - translation_iso: ara
+    name: اللغة الخمير القديمة
+    auto: true
   - translation_iso: jpn
     name: 古クメール語
     auto: true

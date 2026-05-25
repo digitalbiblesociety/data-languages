@@ -12,6 +12,9 @@ longitude: 138.89052
 glottocode: abin1243
 wikipedia_url: "https://en.wikipedia.org/wiki/Abinomn_language"
 translations:
+  - translation_iso: ara
+    name: أبينومن
+    auto: true
   - translation_iso: jpn
     name: アビノムン語
   - translation_iso: zho

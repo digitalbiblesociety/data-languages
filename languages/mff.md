@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Beboid > Eastern Beboid > Bebe-Kemezung > Naki-Kemezung > Nakic > Naki"
 wikipedia_url: "https://en.wikipedia.org/wiki/Naki_language"
 translations:
+  - translation_iso: ara
+    name: لغة ناكي
+    auto: true
   - translation_iso: jpn
     name: ナキ語
     auto: true

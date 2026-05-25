@@ -15,6 +15,9 @@ glottolog_family_name: Uto-Aztecan
 glottolog_classification: "Uto-Aztecan > Southern Uto-Aztecan > Corachol-Aztecan > Aztec > Western Nahuatl > Western Periphery-North Guerrero Nahuatl > Western Periphery Nahuatl > Michoacán Nahuatl"
 wikipedia_url: "https://en.wikipedia.org/wiki/Michoac%C3%A1n_Nahuatl"
 translations:
+  - translation_iso: ara
+    name: ميتشواكان ناهواتل
+    auto: true
   - translation_iso: jpn
     name: ミチョアカン・ナワトル語
     auto: true

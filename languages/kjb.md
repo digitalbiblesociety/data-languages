@@ -15,6 +15,9 @@ glottolog_family_name: Mayan
 glottolog_classification: "Mayan > Core Mayan > Western Mayan > Kanjobalan-Chujean > Kanjobalan > Kanjobal-Jacaltec > Q'anjob'al"
 wikipedia_url: "https://en.wikipedia.org/wiki/Q%CA%BCanjob%CA%BCal_language"
 translations:
+  - translation_iso: ara
+    name: لغة كانجوبال
+    auto: true
   - translation_iso: jpn
     name: カンホバル語
   - translation_iso: kor

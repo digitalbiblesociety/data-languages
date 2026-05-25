@@ -15,6 +15,9 @@ glottolog_family_name: Zaparoan
 glottolog_classification: "Zaparoan > Iquito-Arabela > Cahuarano-Iquito > Iquito"
 wikipedia_url: "https://en.wikipedia.org/wiki/Iquito_language"
 translations:
+  - translation_iso: ara
+    name: إيكيتو
+    auto: true
   - translation_iso: jpn
     name: イキト語
   - translation_iso: zho

@@ -15,6 +15,9 @@ glottolog_family_name: Yareban
 glottolog_classification: "Yareban > Doriri-Abia > Moikodi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Moikodi_language"
 translations:
+  - translation_iso: ara
+    name: لغة مويكودي
+    auto: true
   - translation_iso: jpn
     name: モイコディ語
     auto: true

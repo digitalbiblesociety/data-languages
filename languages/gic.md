@@ -15,6 +15,9 @@ glottolog_family_name: Unclassifiable
 glottolog_classification: "Unclassifiable > Gail"
 wikipedia_url: "https://en.wikipedia.org/wiki/Gayle_language"
 translations:
+  - translation_iso: ara
+    name: غآيل
+    auto: true
   - translation_iso: jpn
     name: ゲイル言語
   - translation_iso: kor

@@ -15,6 +15,9 @@ glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Burmo-Qiangic > Na-Qiangic > Naic > Naish > Narua"
 wikipedia_url: "https://en.wikipedia.org/wiki/Na_language"
 translations:
+  - translation_iso: ara
+    name: نارووا
+    auto: true
   - translation_iso: hin
     name: ना भाषा
   - translation_iso: jpn

@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Malayo-Chamic > Aceh-Chamic > Chamic > Rade-Jarai > Rade"
 wikipedia_url: "https://en.wikipedia.org/wiki/Rade_language"
 translations:
+  - translation_iso: ara
+    name: رادي
+    auto: true
   - translation_iso: jpn
     name: ラデー語
   - translation_iso: kor

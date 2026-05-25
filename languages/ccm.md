@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Malayo-Chamic > Malayic > Nuclear Malayic > Vehicular Malay > Malaccan Creole Malay"
 wikipedia_url: "https://en.wikipedia.org/wiki/Malay_Chetty_creole_language"
 translations:
+  - translation_iso: ara
+    name: الملاقي الكريول الملايوي
+    auto: true
   - translation_iso: jpn
     name: マラッカン・クレオール・マレー語
     auto: true

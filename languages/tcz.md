@@ -15,6 +15,9 @@ glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Kuki-Chin-Naga > Kuki-Chin > Peripheral Kuki-Chin > Northeastern Kuki-Chin > Thadoic > Thado Chin"
 wikipedia_url: "https://en.wikipedia.org/wiki/Thadou_language"
 translations:
+  - translation_iso: ara
+    name: ثادو تشين
+    auto: true
   - translation_iso: hin
     name: थडो भाषा
   - translation_iso: jpn

@@ -15,6 +15,9 @@ glottolog_family_name: Otomanguean
 glottolog_classification: "Otomanguean > Western Otomanguean > Otopame-Chinantecan > Chinantecan > Central-Eastern Chinantec > Northwestern Chinantec > Chinantec Group I > Sochiapam Chinantec"
 wikipedia_url: "https://en.wikipedia.org/wiki/Sochiapam_Chinantec"
 translations:
+  - translation_iso: ara
+    name: سوتشيابام تشينانتك
+    auto: true
   - translation_iso: jpn
     name: ソチアパム・チナンテク語
   - translation_iso: zho

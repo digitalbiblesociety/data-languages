@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Sangiric-Minahasan > Minahasan > North Minahasan > Northeast Minahasan > Tondano"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tondano_language"
 translations:
+  - translation_iso: ara
+    name: تونداونو
+    auto: true
   - translation_iso: jpn
     name: トンダノ語
   - translation_iso: zho

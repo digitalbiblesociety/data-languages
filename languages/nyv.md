@@ -15,6 +15,9 @@ glottolog_family_name: Nyulnyulan
 glottolog_classification: "Nyulnyulan > Western Nyulnyulan > Nyulnyulic > Nyulnyul"
 wikipedia_url: "https://en.wikipedia.org/wiki/Nyulnyul_language"
 translations:
+  - translation_iso: ara
+    name: نيولنيول
+    auto: true
   - translation_iso: jpn
     name: ニュルニュル語
   - translation_iso: kor

@@ -15,6 +15,9 @@ glottolog_family_name: Sko
 glottolog_classification: "Sko > Skou-Serra-Piore > Serra Hills > Puare"
 wikipedia_url: "https://en.wikipedia.org/wiki/Puari_language"
 translations:
+  - translation_iso: ara
+    name: اللغة بوآري
+    auto: true
   - translation_iso: jpn
     name: プアレ語
     auto: true

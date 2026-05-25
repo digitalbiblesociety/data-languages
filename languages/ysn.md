@@ -15,6 +15,9 @@ glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Burmo-Qiangic > Lolo-Burmese > Loloish > Ni-Li-Kazhouish > Southeastern Ngwi > Axioid > Sani-Axi-Azhe > Sani"
 wikipedia_url: "https://en.wikipedia.org/wiki/Sani_language"
 translations:
+  - translation_iso: ara
+    name: لغة ساني
+    auto: true
   - translation_iso: jpn
     name: 撒尼語
   - translation_iso: zho

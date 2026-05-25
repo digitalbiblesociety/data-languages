@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > North New Guinea linkage > Huon Gulf > Markham > Lower Markham > Labu"
 wikipedia_url: "https://en.wikipedia.org/wiki/Labu_language"
 translations:
+  - translation_iso: ara
+    name: لابو
+    auto: true
   - translation_iso: jpn
     name: ラブ語
     auto: true

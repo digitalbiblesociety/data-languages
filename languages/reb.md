@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Bima-Lembata > Flores > West-Central Flores > Manggaraiic > Rembong-Wangka"
 wikipedia_url: "https://en.wikipedia.org/wiki/Rembong_language"
 translations:
+  - translation_iso: ara
+    name: ريمبونج
+    auto: true
   - translation_iso: jpn
     name: レムボング語
   - translation_iso: zho

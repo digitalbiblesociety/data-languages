@@ -14,6 +14,9 @@ glottolog_family_name: Border
 glottolog_classification: "Border > Bewani > Pagi-Kilmeri > Kilmeri"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kilmeri_language"
 translations:
+  - translation_iso: ara
+    name: لغة كيلميري
+    auto: true
   - translation_iso: jpn
     name: キルメリ語
     auto: true

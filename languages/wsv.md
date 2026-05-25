@@ -15,6 +15,9 @@ glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Indo-Aryan > Middle-Modern Indo-Aryan > Eastern Dardic > Nuclear Eastern Dardic > Kohistani > Wotapuri-Katarqalai"
 wikipedia_url: "https://en.wikipedia.org/wiki/Wotapuri-Katarqalai_language"
 translations:
+  - translation_iso: ara
+    name: ووتاپوريكاتارقالاي
+    auto: true
   - translation_iso: hin
     name: वोटापूरी-कटारक़लाई भाषा
   - translation_iso: jpn

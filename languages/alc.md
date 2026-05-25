@@ -15,6 +15,9 @@ glottolog_family_name: Kawesqar
 glottolog_classification: "Kawesqar > North Central Alacufan > Qawasqar"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kaw%C3%A9sqar_language"
 translations:
+  - translation_iso: ara
+    name: لغة كاواسكار
+    auto: true
   - translation_iso: jpn
     name: カウェスカル語
   - translation_iso: zho

@@ -15,6 +15,9 @@ glottolog_family_name: North Halmahera
 glottolog_classification: "North Halmahera > Northern North Halmahera > Mainland North Halmaheran > Galela-Loloda > Loloda-Laba"
 wikipedia_url: "https://en.wikipedia.org/wiki/Loloda_language"
 translations:
+  - translation_iso: ara
+    name: لغة ولودا
+    auto: true
   - translation_iso: jpn
     name: ロロダ語
   - translation_iso: kor

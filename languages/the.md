@@ -14,6 +14,9 @@ glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Indo-Aryan > Middle-Modern Indo-Aryan > Continental Indo-Aryan > Midlands Indo-Aryan > Shaurasenic > Bihari > Tharuic > Eastern Tharu > Chitwania Tharu"
 translations:
+  - translation_iso: ara
+    name: تيتوانيا ثارو
+    auto: true
   - translation_iso: jpn
     name: チトワニア・タル語
     auto: true

@@ -15,6 +15,9 @@ glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Germanic > Northwest Germanic > West Germanic > North Sea Germanic > Anglo-Frisian > Anglic > Later Anglic > Middle-Modern English > Macro-English > Pacific Creole English > Hawai'i Creole English"
 wikipedia_url: "https://en.wikipedia.org/wiki/Hawaiian_Pidgin"
 translations:
+  - translation_iso: ara
+    name: اللغة الكريولية الهاواية الإنجليزية
+    auto: true
   - translation_iso: jpn
     name: ハワイ・クレオール英語
   - translation_iso: zho

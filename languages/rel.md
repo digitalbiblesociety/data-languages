@@ -15,6 +15,9 @@ glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Cushitic > East Cushitic > Lowland East Cushitic > Southern Lowland East Cushitic > Mainstream Lowland East Cushitic > Omo-Tana > Eastern Omo-Tana > Rendille"
 wikipedia_url: "https://en.wikipedia.org/wiki/Rendille_language"
 translations:
+  - translation_iso: ara
+    name: رينديلي
+    auto: true
   - translation_iso: jpn
     name: レンディーレ語
   - translation_iso: zho

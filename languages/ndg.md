@@ -15,6 +15,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > East Bantu > Rufiji-Ruvuma > Rufijic > Matengo-Rufiji > Matandu > Ndengereko"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ndengereko_language"
 translations:
+  - translation_iso: ara
+    name: ندينجيريكو
+    auto: true
   - translation_iso: jpn
     name: ンデンゲレコ語
     auto: true

@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > North Borneo Malayo-Polynesian > Sabahan > Southwest Sabahan > Greater Dusunic > Dusunic > Kimaragang"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kimaragang_language"
 translations:
+  - translation_iso: ara
+    name: لغة كيمارجانج
+    auto: true
   - translation_iso: jpn
     name: キマラガン語
     auto: true
