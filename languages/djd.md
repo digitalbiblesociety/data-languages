@@ -1,6 +1,8 @@
 ---
 iso: djd
 name: Djamindjung
+name_zh: 詹明詹语
+name_zh_auto: true
 autonym: Jaminjung
 alt_names: [Alura, Baj Subgroup, Djamadjong, Djamindjun, Djamindjung/Ngaliwuru, Djamundon, Djamunjun, Dyamindyung, Dyaminydyung, Engaliwuru, Jaminjang, Jaminjungan, Jilngali, Kaminjung, Murinyuwan, Murinyuwen, Ngaliwurru, Ngaliwuru, Tjamindjung, Tjaminjun, Yilngali]
 population: 29

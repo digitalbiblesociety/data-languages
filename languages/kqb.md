@@ -1,6 +1,8 @@
 ---
 iso: kqb
 name: Kovai
+name_zh: 科瓦伊语
+name_zh_auto: true
 autonym: Alngubin
 alt_names: [Kobai, Kowai, Umboi]
 population: 6000

@@ -1,6 +1,8 @@
 ---
 iso: mbd
 name: Dibabawon Manobo
+name_zh: 迪巴巴翁曼诺博语
+name_zh_auto: true
 autonym: Debabaon
 alt_names: [Dibabaon, Mandaya, "Manobo, Dibabawon"]
 population: 9060

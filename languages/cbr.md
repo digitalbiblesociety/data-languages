@@ -1,6 +1,8 @@
 ---
 iso: cbr
 name: Cashibo-Cacataibo
+name_zh: 卡什博-卡卡塔伊博语
+name_zh_auto: true
 autonym: Cacataibo
 alt_names: [Cachibo, Cacibo, Cahivo, Cashibo, Catcataibo, Caxibo, Caxinyo, Hagueti, Kachibeg, Kashibo, Kashibo-Kakataibo, Kashibu simi, Managua, Ra-txa Hu-ni-ku-i]
 population: 2780

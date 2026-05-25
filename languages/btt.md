@@ -1,6 +1,8 @@
 ---
 iso: btt
 name: "Bete-Bendi"
+name_zh: 贝特-本迪语
+name_zh_auto: true
 autonym: Bendi
 alt_names: [Bette-Bendi, Dama]
 population: 100000

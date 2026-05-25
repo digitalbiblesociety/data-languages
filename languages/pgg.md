@@ -1,6 +1,8 @@
 ---
 iso: pgg
 name: Pangwali
+name_zh: 潘瓦利语
+name_zh_auto: true
 autonym: Pahari
 alt_names: [Paharí pangwalí, Pangi, Pangvali, Pangwali Pahari, Satlaj]
 population: 17000

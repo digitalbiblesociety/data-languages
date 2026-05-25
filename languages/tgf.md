@@ -1,6 +1,8 @@
 ---
 iso: tgf
 name: Chalikha
+name_zh: 查利卡语
+name_zh_auto: true
 autonym: ཚ་ལི་ཁ
 alt_names: [Chali, Chali Kha, Chalimpa, Chalipkha, Tshali, Tshalingpa]
 population: 8200

@@ -1,6 +1,8 @@
 ---
 iso: pas
 name: Papasena
+name_zh: 帕帕塞纳语
+name_zh_auto: true
 autonym: bahasa Papasena
 alt_names: [Indonesia]
 population: 400

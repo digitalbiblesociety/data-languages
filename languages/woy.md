@@ -1,6 +1,8 @@
 ---
 iso: woy
 name: Weyto
+name_zh: 韦托语
+name_zh_auto: true
 autonym: (of Lake Tana)
 alt_names: [Wayto, "Weyt'o"]
 population: null

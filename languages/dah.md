@@ -1,6 +1,8 @@
 ---
 iso: dah
 name: Gwahatike
+name_zh: 瓜哈蒂克语
+name_zh_auto: true
 autonym: Dahating
 alt_names: [Gwatike]
 population: 1570

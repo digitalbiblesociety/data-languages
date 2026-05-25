@@ -1,6 +1,8 @@
 ---
 iso: ybj
 name: Hasha
+name_zh: 哈沙语
+name_zh_auto: true
 autonym: Yashi
 population: 3000
 country_id: NG

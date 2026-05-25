@@ -1,6 +1,8 @@
 ---
 iso: nyr
 name: Nyiha (Malawi)
+name_zh: 尼哈语
+name_zh_auto: true
 autonym: Ishinyiha
 alt_names: [Nyiha]
 population: 10000

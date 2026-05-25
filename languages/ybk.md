@@ -1,6 +1,8 @@
 ---
 iso: ybk
 name: Bokha
+name_zh: 博卡语
+name_zh_auto: true
 autonym: Bokha
 population: 10000
 country_id: CN

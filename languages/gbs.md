@@ -1,6 +1,8 @@
 ---
 iso: gbs
 name: Gbesi Gbe
+name_zh: 加贝西格贝语
+name_zh_auto: true
 autonym: null
 alt_names: [Benin, "Gbe, Gbesi"]
 population: 65000

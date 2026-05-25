@@ -1,6 +1,8 @@
 ---
 iso: bjk
 name: Barok
+name_zh: 巴罗克语
+name_zh_auto: true
 autonym: Kanalu
 alt_names: [Kanapit, Kolube, Komalu, Kulubi, Neu-Mecklenburg]
 population: 2120

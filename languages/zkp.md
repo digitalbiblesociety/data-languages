@@ -1,6 +1,8 @@
 ---
 iso: zkp
 name: São Paulo Kaingáng
+name_zh: 圣保罗凯因根语
+name_zh_auto: true
 autonym: kanhgág
 alt_names: [Bugre, Caingang, Coroado, Coroados, Kaingang, Kaingán, "Kaingáng, São Paolo", "Kaingáng, São Paulo", Sao Paulo Kaingang]
 population: null

@@ -1,6 +1,8 @@
 ---
 iso: pbi
 name: Parkwa
+name_zh: 帕克瓦语
+name_zh_auto: true
 autonym: Podoko
 alt_names: [Gwadi Parekwa, Kudala, Padogo, Padoko, Padokwa, Paduko, Parekwa, Pawdawkwa, Podogo, Podokwo]
 population: 30000

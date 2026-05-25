@@ -1,6 +1,8 @@
 ---
 iso: spn
 name: Sanapaná
+name_zh: 萨纳帕纳语
+name_zh_auto: true
 autonym: Sanapana payvoma
 alt_names: ["Kelya'mok", Kisapang, Quilyacmoc, "Saapa'ang", Sanapana]
 population: 980

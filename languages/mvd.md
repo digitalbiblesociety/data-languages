@@ -1,6 +1,8 @@
 ---
 iso: mvd
 name: Mamboru
+name_zh: 玛姆博鲁语
+name_zh_auto: true
 autonym: Memboro
 alt_names: [Mamboro]
 population: 16000

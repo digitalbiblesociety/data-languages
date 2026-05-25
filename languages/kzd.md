@@ -1,6 +1,8 @@
 ---
 iso: kzd
 name: Kadai
+name_zh: 卡代语
+name_zh_auto: true
 autonym: null
 population: 350
 country_id: ID

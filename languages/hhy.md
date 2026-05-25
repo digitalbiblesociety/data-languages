@@ -1,6 +1,8 @@
 ---
 iso: hhy
 name: Hoyahoya
+name_zh: 霍亚霍亚语
+name_zh_auto: true
 autonym: Hoyahoya
 population: 95
 country_id: PG

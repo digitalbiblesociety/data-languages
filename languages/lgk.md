@@ -1,6 +1,8 @@
 ---
 iso: lgk
 name: Lingarak
+name_zh: 林加拉克语
+name_zh_auto: true
 autonym: Lingarak
 alt_names: ["Bushman's Bay", Mallicolo, Neverver]
 population: 1250

@@ -1,6 +1,8 @@
 ---
 iso: mdz
 name: Suruí Do Pará
+name_zh: 苏鲁伊－帕拉语
+name_zh_auto: true
 autonym: Aikewara
 alt_names: ["\"Mudjetíre\"", "\"Mudjetíre-Suruí\"", Akewara, Akewere, Mudjetíre, Mudjétire, Surui Do Para, Suruí, Suruí do Tocantins]
 population: 180

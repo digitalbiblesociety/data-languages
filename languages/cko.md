@@ -1,6 +1,8 @@
 ---
 iso: cko
 name: Anufo
+name_zh: 阿努夫语
+name_zh_auto: true
 autonym: Anufo
 alt_names: [Chakosi, Chokosi, Chokossi, Kyokosi, Tchokossi, Tiokossi]
 population: 177200

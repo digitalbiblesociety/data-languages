@@ -1,6 +1,8 @@
 ---
 iso: kbm
 name: Iwal
+name_zh: 伊瓦尔语
+name_zh_auto: true
 autonym: Kaiwa
 alt_names: [Iwal language]
 population: 1500

@@ -1,6 +1,8 @@
 ---
 iso: bwg
 name: Barwe
+name_zh: 巴韦语
+name_zh_auto: true
 autonym: Balke
 alt_names: [Cibalke]
 population: 17000

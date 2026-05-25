@@ -1,6 +1,8 @@
 ---
 iso: tse
 name: Tunisian Sign Language
+name_zh: 突尼斯手语
+name_zh_auto: true
 autonym: null
 population: 21200
 country_id: TN

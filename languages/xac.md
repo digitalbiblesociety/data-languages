@@ -1,6 +1,8 @@
 ---
 iso: xac
 name: Kachari
+name_zh: 卡查里语
+name_zh_auto: true
 autonym: Cachari
 alt_names: [Bara, Boro, Bårå, Hill Kachari, Kachāri, Plains Kachari]
 population: 16000

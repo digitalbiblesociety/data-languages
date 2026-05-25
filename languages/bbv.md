@@ -1,6 +1,8 @@
 ---
 iso: bbv
 name: Karnai
+name_zh: 卡尔奈语
+name_zh_auto: true
 autonym: Barim
 alt_names: [Karnai language]
 population: 920

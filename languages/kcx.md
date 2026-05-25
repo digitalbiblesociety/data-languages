@@ -1,6 +1,8 @@
 ---
 iso: kcx
 name: "Kachama-Ganjule"
+name_zh: 卡恰马-甘朱勒语
+name_zh_auto: true
 autonym: null
 alt_names: [Gatame, "Gats'ame", "Gats'amé", Gatsama - ganjule - harro, Gatsame, "Get'eme", Gidicho, Harro, Haruro, Kachama, Qechem]
 population: 1002

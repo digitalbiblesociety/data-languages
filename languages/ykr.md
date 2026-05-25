@@ -1,6 +1,8 @@
 ---
 iso: ykr
 name: Yekora
+name_zh: 耶科拉语
+name_zh_auto: true
 autonym: null
 population: 1000
 country_id: PG

@@ -1,6 +1,8 @@
 ---
 iso: pos
 name: Sayula Popoluca
+name_zh: 萨尤拉波波卢卡语
+name_zh_auto: true
 autonym: Sayultec
 alt_names: [Popoluca, Popoluca (Sayula), Popoluca de Sayula, "Popoluca, Sayula", Sayula, Sayula Mijean, Sayula Mixean, Sayulateco, Sayulteko]
 population: 4000

@@ -1,6 +1,8 @@
 ---
 iso: gwu
 name: Guwamu
+name_zh: 古瓦姆语
+name_zh_auto: true
 autonym: Southern Maric
 alt_names: [Culgoa, Goamu, Gowamu, Gruwamu, Guamu, Guwa, Kaombal, Koambal, Koamu, Kooma, Kuam, Kuamu, Oamu]
 population: null

@@ -1,6 +1,8 @@
 ---
 iso: val
 name: Vehes
+name_zh: 韦赫斯语
+name_zh_auto: true
 autonym: Buasi
 alt_names: [Vehees]
 population: 70

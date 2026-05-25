@@ -1,6 +1,8 @@
 ---
 iso: kmm
 name: Kom (India)
+name_zh: 科姆语
+name_zh_auto: true
 autonym: Kom Rem
 alt_names: [Kolhreng, Kom]
 population: 15100

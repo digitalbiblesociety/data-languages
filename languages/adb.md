@@ -1,6 +1,8 @@
 ---
 iso: adb
 name: Adabe
+name_zh: 阿达贝语
+name_zh_auto: true
 autonym: Wetar
 alt_names: [Atauran]
 population: 1000

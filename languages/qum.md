@@ -1,6 +1,8 @@
 ---
 iso: qum
 name: Sipacapense
+name_zh: 西帕卡佩尼语
+name_zh_auto: true
 autonym: Sipacapeño
 alt_names: [Idioma sipacapense, Língua sipacapense, Sipacapa, Sipacapa Quiché, Sipacapansk, Sipacapeno, Sipacaperse, Sipakapa, Sipakapense, Sipakapense language, Sipakapenyo, Сипакапенсе јазик]
 population: 12000

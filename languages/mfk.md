@@ -1,6 +1,8 @@
 ---
 iso: mfk
 name: North Mofu
+name_zh: 北莫夫语
+name_zh_auto: true
 autonym: Douvangar
 alt_names: [Mofoueg an norzh, Mofu, "Mofu, North", Mofu-Douvangar, Mofu-Duvangar, Mofu-Nord, Mofu-North, Muffo, Muffu, Sjeverni mofu jezik]
 population: 27500

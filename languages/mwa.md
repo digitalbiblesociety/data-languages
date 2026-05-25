@@ -1,6 +1,8 @@
 ---
 iso: mwa
 name: Mwatebu
+name_zh: 姆瓦特布语
+name_zh_auto: true
 autonym: null
 population: 120
 country_id: PG

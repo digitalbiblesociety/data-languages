@@ -1,6 +1,8 @@
 ---
 iso: mug
 name: Musgu
+name_zh: 穆斯古语
+name_zh_auto: true
 autonym: Mulwi
 alt_names: [Mouloui, Mousgou, Mousgoum, Mousgoun, Munjuk, Musga, Musgum, Musuk, Muzuk]
 population: 164400

@@ -1,6 +1,8 @@
 ---
 iso: gih
 name: Githabul
+name_zh: 吉塔布尔语
+name_zh_auto: true
 autonym: Gidabul
 alt_names: [Gidabal, Gidhabal, Gidjoobal, Githebul, Kidabal, Kidjabal, Kita-bool, Kitabool, Kitapul, Kitta-bool, Kittabool, Kuttibul, Noowidal]
 population: null

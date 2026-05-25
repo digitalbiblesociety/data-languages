@@ -1,6 +1,8 @@
 ---
 iso: ihi
 name: Ihievbe
+name_zh: 伊希耶夫贝语
+name_zh_auto: true
 autonym: Aoma
 population: 100000
 country_id: NG

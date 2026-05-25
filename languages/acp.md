@@ -1,6 +1,8 @@
 ---
 iso: acp
 name: Eastern Acipa
+name_zh: 东部阿奇帕语
+name_zh_auto: true
 autonym: Zubazuba
 alt_names: [Achipa, "Acipa, Eastern", Acipanci, Sagamuk]
 population: 5000

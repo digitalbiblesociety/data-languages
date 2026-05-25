@@ -1,6 +1,8 @@
 ---
 iso: mgl
 name: "Maleu-Kilenge"
+name_zh: 玛勒-基伦热语
+name_zh_auto: true
 autonym: "Maleu-Kilenge"
 alt_names: [Idne, Kilenge, Maleu]
 population: 1561

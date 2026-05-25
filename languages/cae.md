@@ -1,6 +1,8 @@
 ---
 iso: cae
 name: Lehar
+name_zh: 勒哈尔语
+name_zh_auto: true
 autonym: Lala
 alt_names: [Laalaa]
 population: 12000

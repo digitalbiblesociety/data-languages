@@ -1,6 +1,8 @@
 ---
 iso: bib
 name: Bissa
+name_zh: 比萨语
+name_zh_auto: true
 autonym: Bisan
 alt_names: [Bisa]
 population: 781000

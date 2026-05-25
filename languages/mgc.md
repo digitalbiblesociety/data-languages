@@ -1,6 +1,8 @@
 ---
 iso: mgc
 name: Morokodo
+name_zh: 莫罗科多语
+name_zh_auto: true
 autonym: null
 alt_names: ["Ma'di", Morocodo]
 population: 50000

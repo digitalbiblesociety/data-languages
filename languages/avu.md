@@ -1,6 +1,8 @@
 ---
 iso: avu
 name: Avokaya
+name_zh: 阿沃卡亚语
+name_zh_auto: true
 autonym: Abukeia
 alt_names: [Avokayeg, Avukaya, Авокајаски јазик]
 population: 99000

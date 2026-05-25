@@ -1,6 +1,8 @@
 ---
 iso: kuc
 name: Kwinsu
+name_zh: 夸因苏语
+name_zh_auto: true
 autonym: Ansudu
 population: 500
 country_id: ID

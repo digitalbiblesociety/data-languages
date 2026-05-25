@@ -1,6 +1,8 @@
 ---
 iso: swu
 name: Suwawa
+name_zh: 苏瓦瓦语
+name_zh_auto: true
 autonym: "Suwawa-Bunda"
 alt_names: [Bonda, Bunda, Bune]
 population: 21000

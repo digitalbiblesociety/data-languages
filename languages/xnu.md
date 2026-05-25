@@ -1,6 +1,8 @@
 ---
 iso: xnu
 name: Nukunul
+name_zh: 努库努尔语
+name_zh_auto: true
 autonym: Mundjan
 population: null
 country_id: AU

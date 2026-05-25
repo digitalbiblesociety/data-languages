@@ -1,6 +1,8 @@
 ---
 iso: twb
 name: Western Tawbuid
+name_zh: 西陶布伊德语
+name_zh_auto: true
 autonym: Batangan Taubuid
 alt_names: [Fanawbuid, "Tawbuid, Western", Western Taubuid]
 population: 6810

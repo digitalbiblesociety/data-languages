@@ -1,6 +1,8 @@
 ---
 iso: yot
 name: Yotti
+name_zh: 约蒂语
+name_zh_auto: true
 autonym: Yoti
 population: null
 country_id: NG

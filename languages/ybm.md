@@ -1,6 +1,8 @@
 ---
 iso: ybm
 name: Yaben
+name_zh: 亚本语
+name_zh_auto: true
 autonym: Yamben
 population: 700
 country_id: PG

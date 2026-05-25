@@ -1,6 +1,8 @@
 ---
 iso: zad
 name: Cajonos Zapotec
+name_zh: 卡约诺斯-萨波特克语
+name_zh_auto: true
 autonym: "Zapoteco, Yaganiza"
 alt_names: [Rincón, Sierra de Villa Alta, Southern Sapoteko, Southern Villa Alta Zapotec, Villalta (non-preferred), Yalálog, Zapotec, "Zapotec, Cajonos", Zapoteco de Asunción Tlacolulita, Zapoteco de San Pedro Cajonos, "Zapotèque d'Asunción Tlacolulita", dill xhon]
 population: 5000

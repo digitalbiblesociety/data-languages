@@ -1,6 +1,8 @@
 ---
 iso: bkd
 name: Binukid
+name_zh: 比努基德语
+name_zh_auto: true
 autonym: Binukid
 alt_names: [Binokid, Binukid Manobo, Bukidnon, Talaandig]
 population: 122000

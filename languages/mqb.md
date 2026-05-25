@@ -1,6 +1,8 @@
 ---
 iso: mqb
 name: Mbuko
+name_zh: 姆布科语
+name_zh_auto: true
 autonym: null
 alt_names: [Mboko, Mbokou, Mboku, Mbuku]
 population: 15000

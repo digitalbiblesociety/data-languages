@@ -1,6 +1,8 @@
 ---
 iso: aaw
 name: Solong
+name_zh: 索隆语
+name_zh_auto: true
 autonym: Arawe
 alt_names: [Arare, Arove, Pililo]
 population: 2200

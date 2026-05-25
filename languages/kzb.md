@@ -1,6 +1,8 @@
 ---
 iso: kzb
 name: Kaibobo
+name_zh: 凯博博语
+name_zh_auto: true
 autonym: Kaibubu
 population: 500
 country_id: ID

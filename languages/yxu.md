@@ -1,6 +1,8 @@
 ---
 iso: yxu
 name: Yuyu
+name_zh: 尤尤语
+name_zh_auto: true
 autonym: Yirau
 population: null
 country_id: AU

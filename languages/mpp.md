@@ -1,6 +1,8 @@
 ---
 iso: mpp
 name: Migabac
+name_zh: 米加巴克语
+name_zh_auto: true
 autonym: null
 alt_names: ["Migaba'"]
 population: 1300

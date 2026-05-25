@@ -1,6 +1,8 @@
 ---
 iso: tuj
 name: Tugutil
+name_zh: 图古蒂尔语
+name_zh_auto: true
 autonym: bahasa Tugutil
 alt_names: [Indonesia]
 population: 2590

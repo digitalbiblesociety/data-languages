@@ -1,6 +1,8 @@
 ---
 iso: gya
 name: Northwest Gbaya
+name_zh: 西北吉巴亚语
+name_zh_auto: true
 autonym: Gbaya
 alt_names: ["'Bokoto", Baya, Gbanu, Gbaya (Northwest), Gbaya Kaka, Gbaya Kara, "Gbaya Kara 'Bodoe", Gbaya Nord-Ouest, "Gbaya, Northwest", Gbeya, Kaka, Kara, Southern Gbaya, Suma]
 population: 267000

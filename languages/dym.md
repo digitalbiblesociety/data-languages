@@ -1,6 +1,8 @@
 ---
 iso: dym
 name: Yanda Dom Dogon
+name_zh: 扬达多姆多贡语
+name_zh_auto: true
 autonym: Yanda Dom
 alt_names: ["Dogon, Yanda Dom"]
 population: 2000

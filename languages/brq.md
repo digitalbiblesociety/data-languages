@@ -1,6 +1,8 @@
 ---
 iso: brq
 name: Breri
+name_zh: 布雷里语
+name_zh_auto: true
 autonym: Kuanga
 population: 1100
 country_id: PG

@@ -1,6 +1,8 @@
 ---
 iso: wrz
 name: Waray (Australia)
+name_zh: 澳大利亚瓦瑞语
+name_zh_auto: true
 autonym: Arwur
 alt_names: [Awara, Awarai, Awarra, Awarrai, Gunwinyguan, Nawarray, Parlamarnyin, Warai, Waray, Waray (in Australia), Waray language, Warei, Warrai, Warray, Wolwonga, Woolwonga, Wulwongga]
 population: null

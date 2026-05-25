@@ -1,6 +1,8 @@
 ---
 iso: kfl
 name: Kung
+name_zh: 功语
+name_zh_auto: true
 autonym: null
 alt_names: [Cungo]
 population: 1750

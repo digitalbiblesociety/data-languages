@@ -1,6 +1,8 @@
 ---
 iso: dnw
 name: Western Dani
+name_zh: 西达尼语
+name_zh_auto: true
 autonym: Laani
 alt_names: [Dani, Dani Barat, "Dani, Western", Ilaga Western Dani, Laany, Lani, Ndani, Oeringoep, Timorini]
 population: 180000

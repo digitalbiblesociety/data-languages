@@ -1,6 +1,8 @@
 ---
 iso: bdy
 name: Bandjalang
+name_zh: 班贾拉语
+name_zh_auto: true
 autonym: Bandjelang
 alt_names: [Arakwal, Badjalang, Badjelang, Bandjalong, Bandjerang, Bogganger, Budulung, Buggul, Bundala, Bundel, Bundela, Bundjalung, Bunjellung, Dadarawa, Gidabal, Gundurimba, Paikalyung, Pangerang, Tugurimba, Watchee, Woomargou, Yugumbe]
 population: null

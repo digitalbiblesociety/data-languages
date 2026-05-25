@@ -1,6 +1,8 @@
 ---
 iso: era
 name: Eravallan
+name_zh: 埃拉瓦兰语
+name_zh_auto: true
 autonym: எரவல்லன்
 alt_names: [Ambuvilluvedar, Villu Vedan, Vilvedan]
 population: 1554

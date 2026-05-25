@@ -1,6 +1,8 @@
 ---
 iso: lma
 name: East Limba
+name_zh: 东林巴语
+name_zh_auto: true
 autonym: Yimba
 alt_names: [Limba, "Limba, East", Yumba]
 population: 4700

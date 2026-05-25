@@ -1,6 +1,8 @@
 ---
 iso: ngc
 name: Ngombe (Democratic Republic of Congo)
+name_zh: 恩贡贝语
+name_zh_auto: true
 autonym: Lingombe
 alt_names: [Doko, Ngombe, Ngombe (Bantu)]
 population: 150000

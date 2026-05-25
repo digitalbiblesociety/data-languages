@@ -1,6 +1,8 @@
 ---
 iso: nhc
 name: Tabasco Nahuatl
+name_zh: 塔巴斯科纳瓦特尔语
+name_zh_auto: true
 autonym: Nawat
 alt_names: [Isthmus, Mexicano, Nahua de Tabasco, Nahuatl, "Nahuatl, Tabasco", Náhuatl de Tabasco, "Náhuatl de l'Isthme", Tabasco Aztec]
 population: 30

@@ -1,6 +1,8 @@
 ---
 iso: tnw
 name: Tonsawang
+name_zh: 通萨旺语
+name_zh_auto: true
 autonym: Tombatu
 alt_names: ["Lo'bahikolai", Tanema, Toundanow]
 population: 20000

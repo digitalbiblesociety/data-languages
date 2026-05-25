@@ -1,6 +1,8 @@
 ---
 iso: yir
 name: North Awyu
+name_zh: 北阿乌语
+name_zh_auto: true
 autonym: Awyu
 alt_names: ["Awyu, North", Djair, Dyair, Jair, Yair]
 population: 1500

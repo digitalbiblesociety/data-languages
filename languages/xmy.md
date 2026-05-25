@@ -1,6 +1,8 @@
 ---
 iso: xmy
 name: Mayaguduna
+name_zh: 玛亚古杜纳语
+name_zh_auto: true
 autonym: Mayaguduna
 alt_names: [Maigudina, Maigudung, Maikudun, Maikudung, Maikudunu, Marago, Mayagoondoon, Mayagudunu, Maygudan, Mayi Yali, Mayi-KutanaMayaguduna, Mayi-Kutuna, Mika doon, Mika-doon, Mikoodoono, Mikoolun, Mygoodan, Mygoodano]
 population: null

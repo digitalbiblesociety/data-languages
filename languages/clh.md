@@ -1,6 +1,8 @@
 ---
 iso: clh
 name: Chilisso
+name_zh: 奇利索语
+name_zh_auto: true
 autonym: Chiliss
 alt_names: [Chiliso, Dardu, Galos, Lenga chilisso]
 population: 2300

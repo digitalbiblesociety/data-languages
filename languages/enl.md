@@ -1,6 +1,8 @@
 ---
 iso: enl
 name: Enlhet
+name_zh: 英莱特语
+name_zh_auto: true
 autonym: Enlhet
 alt_names: [Eenthlit, Enlhet Norte, Enxet, Lengua, Lengua Norte, Northern Lengua, Pwak, Vowak]
 population: 6440

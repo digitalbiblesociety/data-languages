@@ -1,6 +1,8 @@
 ---
 iso: pll
 name: Shwe Palaung
+name_zh: 掸帕劳语
+name_zh_auto: true
 autonym: "De'ang"
 alt_names: [De Ang, Gold Palaung, Golden Palaung, Nam Hsan Palaung, Palaung, "Palaung, Shwe", Shwe, Ta-Ang Palaung, Ta-ang]
 population: 233000

@@ -1,6 +1,8 @@
 ---
 iso: zar
 name: Rincón Zapotec
+name_zh: 林孔-萨波特克语
+name_zh_auto: true
 autonym: "Zapotec, Rincón"
 alt_names: [Choapan Zapotec, Northern Sapoteko, Northern Villa Alta Zapotec, Nothern Zapoteco, Rincon Zapotec, Rincón, Sierra de Villa Alta, Yalálog, Zapotec, Zapoteco de Choapan, Zapoteco de Yagallo, Zapoteco del Rincón]
 population: 29200

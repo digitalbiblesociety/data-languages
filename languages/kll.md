@@ -1,6 +1,8 @@
 ---
 iso: kll
 name: Kagan Kalagan
+name_zh: 卡甘卡拉甘语
+name_zh_auto: true
 autonym: Kaagan
 alt_names: ["Kalagan, Kagan"]
 population: 6000

@@ -1,6 +1,8 @@
 ---
 iso: dkg
 name: Kadung
+name_zh: 卡栋语
+name_zh_auto: true
 autonym: Kadun
 alt_names: [Kwanka, Tivaghat, Vaghat]
 population: 20000

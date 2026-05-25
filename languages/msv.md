@@ -1,6 +1,8 @@
 ---
 iso: msv
 name: Maslam
+name_zh: 玛斯兰语
+name_zh_auto: true
 autonym: Maltam
 alt_names: [Kotoko-Maltam, Mandage, Mandagué, Mendage]
 population: 250

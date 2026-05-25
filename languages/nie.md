@@ -1,6 +1,8 @@
 ---
 iso: nie
 name: Niellim
+name_zh: 尼埃利姆语
+name_zh_auto: true
 autonym: lwaà
 alt_names: [Lua, Mjillem, Nielim, Niellim jezik, Niellimeg, Nyilem]
 population: 1000

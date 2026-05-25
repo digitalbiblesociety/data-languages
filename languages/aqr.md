@@ -1,6 +1,8 @@
 ---
 iso: aqr
 name: Arhâ
+name_zh: 阿尔哈语
+name_zh_auto: true
 autonym: Ara
 alt_names: [Arha, Neukaledonien]
 population: 10

@@ -1,6 +1,8 @@
 ---
 iso: wli
 name: Waioli
+name_zh: 瓦约利语
+name_zh_auto: true
 autonym: Wajoli
 alt_names: [Wai, Wayoli]
 population: 3000

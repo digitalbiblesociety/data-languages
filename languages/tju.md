@@ -1,6 +1,8 @@
 ---
 iso: tju
 name: Tjurruru
+name_zh: 图鲁鲁语
+name_zh_auto: true
 autonym: Tjururu
 alt_names: [Chooraro, Chooraroo, Choororo, Churoro, Djuroro, Djururo, Djururu, Dyururu, Joruro, Jurruru, Tchuraru, Tjororo, Tjuroro, Tjururo, Yankurangku]
 population: null

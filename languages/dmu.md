@@ -1,6 +1,8 @@
 ---
 iso: dmu
 name: Dubu
+name_zh: 杜布语
+name_zh_auto: true
 autonym: Dubu
 alt_names: [Tebi]
 population: 220

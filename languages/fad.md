@@ -1,6 +1,8 @@
 ---
 iso: fad
 name: Wagi
+name_zh: 瓦吉语
+name_zh_auto: true
 autonym: Kamba
 alt_names: [Foran, Furan, Kemba, Mis, Mis-Kemba]
 population: 3380

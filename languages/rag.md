@@ -1,6 +1,8 @@
 ---
 iso: rag
 name: Logooli
+name_zh: 洛戈利语
+name_zh_auto: true
 autonym: Lulogooli
 alt_names: [Llogole, Llugule, Lugooli, Luragoli, Maragoli, Maragooli, Ragoli, Uluragooli]
 population: 335300

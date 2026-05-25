@@ -1,6 +1,8 @@
 ---
 iso: kyr
 name: Kuruáya
+name_zh: 库鲁亚语
+name_zh_auto: true
 autonym: Caravare
 alt_names: [Curuaia, Kuruaia, Kuruaya]
 population: 115

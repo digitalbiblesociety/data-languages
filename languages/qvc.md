@@ -1,6 +1,8 @@
 ---
 iso: qvc
 name: Cajamarca Quechua
+name_zh: 卡玛卡克丘亚语
+name_zh_auto: true
 autonym: Kashamarka Runashimi
 alt_names: [Cajamarca, Cajamarca Kechua, Cajamarca-Quechua, Chinchaysuyo, Kashamarka rimay, Northern Quechua, Quechua, Quechua (Cajamarca), Quechua cajamarquino, "Quechua, Cajamarca"]
 population: 30000

@@ -1,6 +1,8 @@
 ---
 iso: tny
 name: Tongwe
+name_zh: 通威语
+name_zh_auto: true
 autonym: Bende
 alt_names: [Kitongwe, Sitongwe]
 population: 13000

@@ -1,6 +1,8 @@
 ---
 iso: buo
 name: Terei
+name_zh: 特雷伊语
+name_zh_auto: true
 autonym: Buin
 alt_names: [Rugara, Telei]
 population: 26500

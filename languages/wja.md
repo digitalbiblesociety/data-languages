@@ -1,6 +1,8 @@
 ---
 iso: wja
 name: Waja
+name_zh: 瓦贾语
+name_zh_auto: true
 autonym: Wɪyáà
 alt_names: [Nyan Wiyau, Wadja, Wiyaa, Wuya]
 population: 60000

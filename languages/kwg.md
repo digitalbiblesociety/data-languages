@@ -1,6 +1,8 @@
 ---
 iso: kwg
 name: Sara Kaba Deme
+name_zh: 萨拉卡巴德梅语
+name_zh_auto: true
 autonym: Kaba Démé
 alt_names: ["Kaba 'Dem", Kaba Deme, Kaba Demi, Sara Kaba Dem, Tà Sàra]
 population: 40000

@@ -1,6 +1,8 @@
 ---
 iso: nge
 name: Ngemba
+name_zh: 恩格姆巴语
+name_zh_auto: true
 autonym: Ngemba
 alt_names: [Megimba, Mogimba, Mundum, Ngomba, Nguemba]
 population: 18800

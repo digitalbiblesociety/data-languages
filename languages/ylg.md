@@ -1,6 +1,8 @@
 ---
 iso: ylg
 name: Yelogu
+name_zh: 耶洛古语
+name_zh_auto: true
 autonym: Kaunga
 alt_names: [Buiamanambu, Bwiamanambu, Wanyima, Yalaku]
 population: 160

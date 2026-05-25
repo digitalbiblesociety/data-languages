@@ -1,6 +1,8 @@
 ---
 iso: okd
 name: Okodia
+name_zh: 奥科迪亚语
+name_zh_auto: true
 autonym: Akita
 alt_names: [Okordia, Ịjọ]
 population: 3600

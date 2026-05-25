@@ -1,6 +1,8 @@
 ---
 iso: jit
 name: Jita
+name_zh: 吉塔语
+name_zh_auto: true
 autonym: Ecijita
 alt_names: [Echijita]
 population: 365000

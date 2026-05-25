@@ -1,6 +1,8 @@
 ---
 iso: acd
 name: Gikyode
+name_zh: 吉基约德语
+name_zh_auto: true
 autonym: Gikyode
 alt_names: [Chode, Guang, Kyode]
 population: 10400

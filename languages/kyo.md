@@ -1,6 +1,8 @@
 ---
 iso: kyo
 name: Kelon
+name_zh: 克隆语
+name_zh_auto: true
 autonym: Klon
 alt_names: [Kalong, Kelong]
 population: 6000

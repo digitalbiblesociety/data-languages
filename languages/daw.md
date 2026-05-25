@@ -1,6 +1,8 @@
 ---
 iso: daw
 name: Davawenyo
+name_zh: 达瓦韦尼奥语
+name_zh_auto: true
 autonym: Dabawenyo / Davaoeño
 alt_names: [Davaoeño, Davaweño, Matino]
 population: 154000

@@ -1,6 +1,8 @@
 ---
 iso: mgy
 name: Mbunga
+name_zh: 姆布翁加语
+name_zh_auto: true
 autonym: Kimbunga
 alt_names: [Tanzania]
 population: 11600

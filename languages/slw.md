@@ -1,6 +1,8 @@
 ---
 iso: slw
 name: Sialum
+name_zh: 西亚卢姆语
+name_zh_auto: true
 autonym: null
 population: 640
 country_id: PG

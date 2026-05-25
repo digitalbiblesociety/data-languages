@@ -1,6 +1,8 @@
 ---
 iso: yba
 name: Yala
+name_zh: 亚拉语
+name_zh_auto: true
 autonym: Nkum
 alt_names: [Iyala]
 population: 264000

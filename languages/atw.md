@@ -1,6 +1,8 @@
 ---
 iso: atw
 name: Atsugewi
+name_zh: 阿特苏格维语
+name_zh_auto: true
 autonym: Atsugé
 alt_names: [Hat Creek]
 population: 1350

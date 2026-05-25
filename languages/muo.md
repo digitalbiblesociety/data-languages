@@ -1,6 +1,8 @@
 ---
 iso: muo
 name: Nyong
+name_zh: 尼翁语
+name_zh_auto: true
 autonym: Mumbake
 alt_names: [Chukkol, Daganonga, Daganyonga, Mubako, Ndagam, Nyoking, Nyongnepa, Peti, Samba Bali, Teteka, Yapeli]
 population: 39500

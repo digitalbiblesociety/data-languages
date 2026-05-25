@@ -1,6 +1,8 @@
 ---
 iso: psa
 name: Asue Awyu
+name_zh: 阿苏埃阿瓦尤语
+name_zh_auto: true
 autonym: Asuwe Awyu
 alt_names: [Awju Pisa, Awyu (Miaro), "Awyu, Asue", Miaro, Miaro Awyu, Pisa]
 population: 6500

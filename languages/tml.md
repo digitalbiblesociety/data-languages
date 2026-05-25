@@ -1,6 +1,8 @@
 ---
 iso: tml
 name: Tamnim Citak
+name_zh: 塔明尼姆齐塔克语
+name_zh_auto: true
 autonym: Asmat Darat
 alt_names: [Asmat, Asmat (Flamingo Bay), "Citak, Tamnim", Tamnim]
 population: 290

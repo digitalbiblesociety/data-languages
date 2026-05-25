@@ -1,6 +1,8 @@
 ---
 iso: ons
 name: Ono
+name_zh: 奥诺语
+name_zh_auto: true
 autonym: null
 population: 52
 country_id: PG

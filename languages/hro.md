@@ -1,6 +1,8 @@
 ---
 iso: hro
 name: Haroi
+name_zh: 哈罗伊语
+name_zh_auto: true
 autonym: Aroi
 alt_names: [Bahnar Cham, Hoi, Hroi, Hroy, Hrway]
 population: 35000

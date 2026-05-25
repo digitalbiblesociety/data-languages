@@ -1,6 +1,8 @@
 ---
 iso: jml
 name: Jumli
+name_zh: 朱姆利语
+name_zh_auto: true
 autonym: Central Nepali
 alt_names: [Eastern Pahari, Gorkhali, Khas Kura, Nepalese, Nepali, Parbatiya]
 population: 40000

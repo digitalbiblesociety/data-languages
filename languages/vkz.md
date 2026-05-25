@@ -1,6 +1,8 @@
 ---
 iso: vkz
 name: Koro Zuba
+name_zh: 科罗-祖巴语
+name_zh_auto: true
 population: 10000
 country_id: NG
 country_name: Nigeria

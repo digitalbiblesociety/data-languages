@@ -1,6 +1,8 @@
 ---
 iso: tvm
 name: "Tela-Masbuar"
+name_zh: 特拉-玛斯布阿尔语
+name_zh_auto: true
 autonym: "Tela-Masbuar"
 alt_names: [Masbuar-Tela, "Tela'a"]
 population: 1050

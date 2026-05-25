@@ -1,6 +1,8 @@
 ---
 iso: amz
 name: Atampaya
+name_zh: 阿坦帕亚语
+name_zh_auto: true
 autonym: Injinoo
 alt_names: [Atampaya jezik, Lenga atampaya]
 population: null

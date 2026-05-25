@@ -1,6 +1,8 @@
 ---
 iso: cla
 name: Ron
+name_zh: 龙语
+name_zh_auto: true
 autonym: Chala
 alt_names: ["\"Chala\"", "\"Challa\"", Baron, Bokkos, Challa, Daffo, Ron (Chadic)]
 population: 216000

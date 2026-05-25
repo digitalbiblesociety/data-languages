@@ -1,6 +1,8 @@
 ---
 iso: mjr
 name: Malavedan
+name_zh: 玛拉韦丹语
+name_zh_auto: true
 autonym: Malai Vedan
 alt_names: [Malavetan, Towetan, Vedans]
 population: 6186

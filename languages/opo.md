@@ -1,6 +1,8 @@
 ---
 iso: opo
 name: Opao
+name_zh: 奥帕奥语
+name_zh_auto: true
 autonym: null
 population: 1120
 country_id: PG

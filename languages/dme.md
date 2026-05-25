@@ -1,6 +1,8 @@
 ---
 iso: dme
 name: Dugwor
+name_zh: 杜格沃尔语
+name_zh_auto: true
 autonym: Dougour
 alt_names: [Memekere, Mofu, Mofu-Dugwor, Muffo, Muffu, Tchakidjebe]
 population: 5000

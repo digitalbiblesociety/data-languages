@@ -1,6 +1,8 @@
 ---
 iso: xhr
 name: Hernican
+name_zh: 赫尔尼卡语
+name_zh_auto: true
 autonym: null
 population: null
 country_id: IT

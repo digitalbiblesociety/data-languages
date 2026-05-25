@@ -1,6 +1,8 @@
 ---
 iso: grx
 name: Guriaso
+name_zh: 古里亚索语
+name_zh_auto: true
 autonym: null
 alt_names: [Menóu]
 population: 160

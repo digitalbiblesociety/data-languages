@@ -1,6 +1,8 @@
 ---
 iso: tcq
 name: Kaiy
+name_zh: 凯伊语
+name_zh_auto: true
 autonym: Kai
 alt_names: [Taori-Kaiy, Taori-Kei, Todi]
 population: 220

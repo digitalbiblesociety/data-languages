@@ -1,6 +1,8 @@
 ---
 iso: mew
 name: Maaka
+name_zh: 玛卡语
+name_zh_auto: true
 autonym: Maagha
 alt_names: [Maga, Magha, Maha, Maka]
 population: 10000

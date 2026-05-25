@@ -1,6 +1,8 @@
 ---
 iso: waj
 name: Waffa
+name_zh: 瓦法语
+name_zh_auto: true
 autonym: null
 population: 1300
 country_id: PG

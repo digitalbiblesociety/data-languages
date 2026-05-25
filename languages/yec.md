@@ -1,6 +1,8 @@
 ---
 iso: yec
 name: Yeniche
+name_zh: 耶尼舍语
+name_zh_auto: true
 autonym: German Travellers
 alt_names: [European Romany, Jenisch, Yenishe]
 population: 16000

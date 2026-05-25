@@ -1,6 +1,8 @@
 ---
 iso: yim
 name: Yimchungru Naga
+name_zh: 伊姆春古鲁-纳格语
+name_zh_auto: true
 autonym: Yachumi
 alt_names: ["Naga, Yimchungru", "Naga,Yimchungru", Tozhuma, Yachimi, Yanchunger, Yatśumi, Yimchunger, Yimchungre, Yimchungru, Yimchungrü, Yimtśurr]
 population: 83300

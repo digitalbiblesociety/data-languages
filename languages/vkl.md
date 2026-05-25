@@ -1,6 +1,8 @@
 ---
 iso: vkl
 name: Kulisusu
+name_zh: 库利苏苏语
+name_zh_auto: true
 autonym: Kalisusu
 alt_names: [Kolensusu, Kolinsusu]
 population: 22000

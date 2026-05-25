@@ -1,6 +1,8 @@
 ---
 iso: ekp
 name: Ekpeye
+name_zh: 埃克佩耶语
+name_zh_auto: true
 autonym: Ekkpahia
 alt_names: [Ekpabya, Ekpaffia]
 population: 30000

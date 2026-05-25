@@ -1,6 +1,8 @@
 ---
 iso: dig
 name: Digo
+name_zh: 迪戈语
+name_zh_auto: true
 autonym: Chidigo
 alt_names: [Język digo, Kidigo]
 population: 576000

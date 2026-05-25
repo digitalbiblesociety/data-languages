@@ -1,6 +1,8 @@
 ---
 iso: mgj
 name: Abureni
+name_zh: 阿布雷尼语
+name_zh_auto: true
 autonym: Mini
 population: 4000
 country_id: NG

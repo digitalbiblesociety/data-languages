@@ -1,6 +1,8 @@
 ---
 iso: hoz
 name: Hozo
+name_zh: 霍佐语
+name_zh_auto: true
 autonym: "Begi-Mao"
 alt_names: [Hozo-seco, Mao of Begi]
 population: 3000

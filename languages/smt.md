@@ -1,6 +1,8 @@
 ---
 iso: smt
 name: Simte
+name_zh: 西姆特语
+name_zh_auto: true
 autonym: Zomi
 alt_names: [India]
 population: 10200

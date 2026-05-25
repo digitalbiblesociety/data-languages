@@ -1,6 +1,8 @@
 ---
 iso: kmn
 name: Awtuw
+name_zh: 奥图乌语
+name_zh_auto: true
 autonym: Autu
 alt_names: [Kamnum]
 population: 510

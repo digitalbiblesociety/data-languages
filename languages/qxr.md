@@ -1,6 +1,8 @@
 ---
 iso: qxr
 name: Cañar Highland Quichua
+name_zh: 卡尼亚高地基楚亚语
+name_zh_auto: true
 autonym: Kichwa Shimi
 alt_names: ["\"quichua (Cotopaxi, Tungurahua et Chimborazo)\"", Calderón, Canar Highland Quichua, Chimborazo, Cotopaxi Quichua., Ecuador, Ecuador Quechua, Highland Ecuadorian Quichua, Highland Kichua, Imbabura Quichua, Kichua, Loja, Napo Quichua, Northern Pastaza Quichua, Quichua, Quichua (Cañar et Azuay), Quichua (Imbabura), Quichua (Loja), Quichua (Napo), Quichua (Pastaza), Quichua (Salasaca), "Quichua, Cañar Highland", Salasca, Tena Quichua]
 population: 100000

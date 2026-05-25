@@ -1,6 +1,8 @@
 ---
 iso: apt
 name: Apatani
+name_zh: 阿帕塔尼语
+name_zh_auto: true
 autonym: tanw
 alt_names: [Apa, Apa Tani, Patan]
 population: 44800

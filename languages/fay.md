@@ -1,6 +1,8 @@
 ---
 iso: fay
 name: Southwestern Fars
+name_zh: 西南法尔斯语
+name_zh_auto: true
 autonym: Southwestern Fars
 alt_names: ["\"Tajik\"", Davani dialect, Fars, "Fars, Southwestern"]
 population: 7500

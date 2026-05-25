@@ -1,6 +1,8 @@
 ---
 iso: nca
 name: Iyo
+name_zh: 伊约语
+name_zh_auto: true
 autonym: Nahu
 alt_names: [Bure, Nabu, Naho, Ndo]
 population: 6900

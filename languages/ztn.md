@@ -1,6 +1,8 @@
 ---
 iso: ztn
 name: Santa Catarina Albarradas Zapotec
+name_zh: 圣卡特琳娜阿尔瓦拉达斯萨波特克语
+name_zh_auto: true
 autonym: Zapoteco de Santa Catarina Albarradas
 alt_names: [Albarradas, Albarradas Zapotec, Northern Sapoteko, Santo Domingo Albarradas Zapotec, Zapotec, "Zapotec, Santa Catarina Albarradas", Zapoteco de Santo Domingo Albarradas]
 population: 1000

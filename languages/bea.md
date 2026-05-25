@@ -1,6 +1,8 @@
 ---
 iso: bea
 name: Beaver
+name_zh: 比弗尔语
+name_zh_auto: true
 autonym: ᑕᓀᖚ ᖚᗀᐥ
 alt_names: [Castor, Dane-Zaa (Beaver), Dane-zaa Záágéʔ, Dunne-za, dʌnneza, ᑕᓀ ᖚ]
 population: 1560

@@ -1,6 +1,8 @@
 ---
 iso: bav
 name: Vengo
+name_zh: 文戈语
+name_zh_auto: true
 autonym: Babungo
 alt_names: [Nge, Ngo, Nguu, Ngwa, Pengo, "Veng'o", Vengi, Vengoo]
 population: 27000

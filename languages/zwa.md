@@ -1,6 +1,8 @@
 ---
 iso: zwa
 name: Zay
+name_zh: 扎伊语
+name_zh_auto: true
 autonym: ዛይኘ
 alt_names: [Gelilla, "Lak'i", Laqi, Zai, Zaisé, Zayeg, Zoay, Zway]
 population: 4880

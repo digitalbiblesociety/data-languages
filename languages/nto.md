@@ -1,6 +1,8 @@
 ---
 iso: nto
 name: Ntomba
+name_zh: 恩通巴语
+name_zh_auto: true
 autonym: Bolia
 alt_names: [Lomtomba, Lontomba, Luntumba, Ntomba-Bolia, Ntumba]
 population: 100000

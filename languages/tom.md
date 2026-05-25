@@ -1,6 +1,8 @@
 ---
 iso: tom
 name: Tombulu
+name_zh: 通布鲁语
+name_zh_auto: true
 autonym: Minahasa
 alt_names: [Minhasa, Tombalu, Tombula, "Tombulu'", Toumbulu]
 population: 19000

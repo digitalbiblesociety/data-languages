@@ -1,6 +1,8 @@
 ---
 iso: mtc
 name: Munit
+name_zh: 穆尼特语
+name_zh_auto: true
 autonym: null
 alt_names: [Mataco, Matako, Wichí]
 population: 910

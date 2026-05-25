@@ -1,6 +1,8 @@
 ---
 iso: aga
 name: Aguano
+name_zh: 阿瓜诺语
+name_zh_auto: true
 autonym: Aguanu
 alt_names: [Awano, Santa Crucino, Uguano]
 population: null

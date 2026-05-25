@@ -1,6 +1,8 @@
 ---
 iso: geg
 name: Gengle
+name_zh: 根格勒语
+name_zh_auto: true
 autonym: Momu
 population: 4000
 country_id: NG

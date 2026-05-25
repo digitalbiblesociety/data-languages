@@ -1,6 +1,8 @@
 ---
 iso: xku
 name: Kaamba
+name_zh: 卡姆巴语
+name_zh_auto: true
 autonym: Kibeembe
 alt_names: [Kikaamba]
 population: 3020

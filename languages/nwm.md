@@ -1,6 +1,8 @@
 ---
 iso: nwm
 name: "Nyamusa-Molo"
+name_zh: 尼亚穆萨-莫洛语
+name_zh_auto: true
 autonym: null
 alt_names: [Sudan]
 population: 1200

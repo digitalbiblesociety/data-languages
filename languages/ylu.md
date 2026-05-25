@@ -1,6 +1,8 @@
 ---
 iso: ylu
 name: Aribwaung
+name_zh: 阿里布瓦翁语
+name_zh_auto: true
 autonym: Yalu
 alt_names: [Aribwaungg, Jaloc]
 population: 1000

@@ -1,6 +1,8 @@
 ---
 iso: twp
 name: Ere
+name_zh: 埃雷语
+name_zh_auto: true
 autonym: Nane
 alt_names: [Admiralitäts-inseln, E]
 population: 1030

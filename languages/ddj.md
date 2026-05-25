@@ -1,6 +1,8 @@
 ---
 iso: ddj
 name: Jaru
+name_zh: 亚鲁语
+name_zh_auto: true
 autonym: Djaru
 alt_names: [Charrau, Deharu, Djara, Djaro, Dyaru, Jaroo, Jarrau, Jarroo, Jarrou, Jaruo, Jaruru, "Ka:biri", Karbery, Kodjangana, Meening, Neening, Nining, Njinin, Njining, Nyinin, Ruby Creek, Tjaru, Waiangara, Waringari, Wawari]
 population: 340

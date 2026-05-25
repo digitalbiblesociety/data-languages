@@ -1,6 +1,8 @@
 ---
 iso: miw
 name: Akoye
+name_zh: 阿科耶语
+name_zh_auto: true
 autonym: Lohiki
 alt_names: [Akoinkake, Akoyi, Angoya, Mahigi, Mai-Hea-Ri, Maiheari, Maihiri, Obi]
 population: 800

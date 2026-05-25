@@ -1,6 +1,8 @@
 ---
 iso: kbq
 name: Kamano
+name_zh: 卡玛诺语
+name_zh_auto: true
 autonym: "Kamano-Kafe"
 population: 80000
 country_id: PG

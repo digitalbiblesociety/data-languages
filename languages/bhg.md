@@ -1,6 +1,8 @@
 ---
 iso: bhg
 name: Binandere
+name_zh: 比南德雷语
+name_zh_auto: true
 autonym: null
 alt_names: [Aiga, Ambasi, Binanderan, Binanderean Proper, Ioma Binandere, Tain-Daware, Upper Musa]
 population: 7000

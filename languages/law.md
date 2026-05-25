@@ -1,6 +1,8 @@
 ---
 iso: law
 name: Lauje
+name_zh: 劳杰语
+name_zh_auto: true
 autonym: Laudje
 alt_names: [Ampibabo-Lauje, Tinombo]
 population: 49800

@@ -1,6 +1,8 @@
 ---
 iso: svx
 name: Skalvian
+name_zh: 斯卡尔维亚语
+name_zh_auto: true
 autonym: Scalovian
 population: null
 country_id: LT

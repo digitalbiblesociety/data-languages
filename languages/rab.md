@@ -1,6 +1,8 @@
 ---
 iso: rab
 name: Camling
+name_zh: 卡姆林语
+name_zh_auto: true
 autonym: Rodong
 alt_names: [Camling jezik, Camlingish, Chamling, Chamlinge Rai, Chamlingo, Chāmbling, Kiranti, Rai, Rōdōng]
 population: 12100

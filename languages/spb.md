@@ -1,6 +1,8 @@
 ---
 iso: spb
 name: Sepa (Indonesia)
+name_zh: 塞帕语（印度尼西亚）
+name_zh_auto: true
 autonym: Tamilouw
 alt_names: [Indonesia, Sepa]
 population: 2600

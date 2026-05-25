@@ -1,6 +1,8 @@
 ---
 iso: adj
 name: Adioukrou
+name_zh: 阿迪乌克鲁语
+name_zh_auto: true
 autonym: Adjukru
 alt_names: [Adyoukrou, Adyukru, Ajukru]
 population: 140000

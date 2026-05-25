@@ -1,6 +1,8 @@
 ---
 iso: bch
 name: Bariai
+name_zh: 巴里艾语
+name_zh_auto: true
 autonym: Kabana
 alt_names: ["\"Kabana\"", Barriai]
 population: 1400

@@ -1,6 +1,8 @@
 ---
 iso: csz
 name: Coos
+name_zh: 库斯语
+name_zh_auto: true
 autonym: Coos
 alt_names: [Anasitch, Coos (Hanis), Hanis, Hanis Coos]
 population: 250

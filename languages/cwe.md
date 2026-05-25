@@ -1,6 +1,8 @@
 ---
 iso: cwe
 name: Kwere
+name_zh: 克维雷语
+name_zh_auto: true
 autonym: Kwere
 alt_names: [Kakwere, Kikwere, Kinghwele, Kwele, "Ng'were", Nghwele, Ngwele, Tsinghwele]
 population: 152000

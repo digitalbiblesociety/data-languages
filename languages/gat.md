@@ -1,6 +1,8 @@
 ---
 iso: gat
 name: Kenati
+name_zh: 凯纳蒂语
+name_zh_auto: true
 autonym: Aziana
 alt_names: [Ganati, Kenathi]
 population: 950

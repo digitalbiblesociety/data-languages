@@ -1,6 +1,8 @@
 ---
 iso: zmb
 name: Zimba
+name_zh: 津巴语
+name_zh_auto: true
 autonym: South Binja
 alt_names: [Democratic Republic of the Congo]
 population: 120000

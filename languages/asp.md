@@ -1,6 +1,8 @@
 ---
 iso: asp
 name: Algerian Sign Language
+name_zh: 阿尔及利亚手语
+name_zh_auto: true
 autonym: لغة الإشارة الجزائرية
 population: 240000
 country_id: DZ

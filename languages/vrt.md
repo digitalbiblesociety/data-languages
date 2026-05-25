@@ -1,6 +1,8 @@
 ---
 iso: vrt
 name: Burmbar
+name_zh: 布姆巴尔语
+name_zh_auto: true
 autonym: " Vartavo"
 alt_names: [Banam Bay, Banan Bay, Mallicolo]
 population: 900

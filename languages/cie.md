@@ -1,6 +1,8 @@
 ---
 iso: cie
 name: Cineni
+name_zh: 钦尼语
+name_zh_auto: true
 autonym: null
 alt_names: [Cineni jezik, Sinenieg]
 population: 3000

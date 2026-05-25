@@ -1,6 +1,8 @@
 ---
 iso: gui
 name: Eastern Bolivian Guaraní
+name_zh: 东玻利维亚瓜拉尼语
+name_zh_auto: true
 autonym: Western Argentine Guaraní
 alt_names: ["\"Chiriguano\"", Aba, Ava, Ava-guarani, Avá-guaraní, Bolivian Guaraní, Camba, Chané, Chiriguano, Chiriguano (Eth says this name is pejorative), Eastern Bolivian Guarani, Guarani, Guarani (Western Argentine), Guarani de Bolivie, Guaraní, Guaraní (Eastern Bolivian), Guaraní boliviano, Guaraní language area, "Guaraní, Eastern Bolivian", Isosó, Izoceño, Izozó, Simba, Tapiete, Tembeta, West Parana, Čiriguanų kalba]
 population: 69530

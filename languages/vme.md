@@ -1,6 +1,8 @@
 ---
 iso: vme
 name: East Masela
+name_zh: 东马塞拉语
+name_zh_auto: true
 autonym: Marsela
 alt_names: [East Marsela, "Masela, East"]
 population: 520

@@ -1,6 +1,8 @@
 ---
 iso: fal
 name: South Fali
+name_zh: 南法利语
+name_zh_auto: true
 autonym: null
 alt_names: [Fali, "Fali, South"]
 population: 20000

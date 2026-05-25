@@ -1,6 +1,8 @@
 ---
 iso: mkv
 name: Mafea
+name_zh: 玛费亚语
+name_zh_auto: true
 autonym: Mavea
 alt_names: [Mav̋ea]
 population: 250

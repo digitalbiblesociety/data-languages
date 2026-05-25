@@ -1,6 +1,8 @@
 ---
 iso: wlv
 name: Wichí Lhamtés Vejoz
+name_zh: 威奇-拉姆特斯-韦霍斯语
+name_zh_auto: true
 autonym: Mataco Vejoz
 alt_names: [Aiyo, Hueshuo, Mataco, Mataco Güisnay, Mataco Pilcomayo, Matako, Pilcomayo Wichí, Vejos, Vejoz, Wichi Lhamtes Vejoz, Wichí, Wichí Lhamtés Güisnay]
 population: 25000

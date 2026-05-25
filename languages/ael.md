@@ -1,6 +1,8 @@
 ---
 iso: ael
 name: Ambele
+name_zh: 安贝莱语
+name_zh_auto: true
 autonym: null
 alt_names: [Ambala, "Bata'o", Lembala, "Tentwa'", Tinta]
 population: 2600

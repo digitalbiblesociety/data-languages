@@ -1,6 +1,8 @@
 ---
 iso: nmk
 name: Namakura
+name_zh: 纳玛库拉语
+name_zh_auto: true
 autonym: Namakir
 alt_names: [Makura]
 population: 3750

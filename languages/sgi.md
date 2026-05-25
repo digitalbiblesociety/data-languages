@@ -1,6 +1,8 @@
 ---
 iso: sgi
 name: Suga
+name_zh: 苏加语
+name_zh_auto: true
 autonym: Nizaa
 alt_names: ["\"Jemjem\"", "\"Njemnjem\"", "\"Nyamnyam\"", Galim, Ssuga]
 population: 10000

@@ -1,6 +1,8 @@
 ---
 iso: ikr
 name: Ikaranggal
+name_zh: 伊卡兰加尔语
+name_zh_auto: true
 autonym: Gogo Mini
 alt_names: [Aghu Tharnggalu, Ikarranggali]
 population: null

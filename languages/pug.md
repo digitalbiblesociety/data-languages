@@ -1,6 +1,8 @@
 ---
 iso: pug
 name: Phuie
+name_zh: 普伊语
+name_zh_auto: true
 autonym: Phuie
 alt_names: [Buguli, Buguri, Phuien, Pougouli, Puguli, Pwa, Pwe, Pwie, Pwien, Pwo]
 population: 14300

@@ -1,6 +1,8 @@
 ---
 iso: lkb
 name: Kabras
+name_zh: 卡布拉斯语
+name_zh_auto: true
 autonym: Luyia
 alt_names: [Lukabaras]
 population: null

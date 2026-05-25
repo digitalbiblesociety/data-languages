@@ -1,6 +1,8 @@
 ---
 iso: bwe
 name: Bwe Karen
+name_zh: 布韦克伦语
+name_zh_auto: true
 autonym: Bghai
 alt_names: [Baghi, Bghai Karen, Brec, Bræ, Brè, Bwe, Karen (Bwe), "Karen, Bwe", "Karen,Bwe"]
 population: 15700

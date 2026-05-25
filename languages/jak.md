@@ -1,6 +1,8 @@
 ---
 iso: jak
 name: Jakun
+name_zh: 杰肯语
+name_zh_auto: true
 autonym: Orang Hulu
 alt_names: [Djakun, Jakoon, "Jaku'd", "Jakud'n", Yakuno]
 population: 25000

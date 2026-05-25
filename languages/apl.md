@@ -1,6 +1,8 @@
 ---
 iso: apl
 name: Lipan Apache
+name_zh: 利潘阿帕奇语
+name_zh_auto: true
 autonym: Lipan
 alt_names: [Apache, "Apache, Lipan", Eastern Apache, Lipán, Липан]
 population: 100

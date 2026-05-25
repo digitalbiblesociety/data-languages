@@ -1,6 +1,8 @@
 ---
 iso: fwe
 name: Fwe
+name_zh: 富韦语
+name_zh_auto: true
 autonym: cìfwè
 alt_names: [Namibia]
 population: 10200

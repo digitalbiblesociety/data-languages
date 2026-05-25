@@ -1,6 +1,8 @@
 ---
 iso: qur
 name: Yanahuanca Pasco Quechua
+name_zh: 亚那瓦卡帕斯科克丘亚语
+name_zh_auto: true
 autonym: Kichwa
 alt_names: ["\"quechua de Cajatambo, de Paso y de Junín septentrional.\"", Daniel Carrion, Junín, "Quechua, Yanahuanca Pasco", Quehcua de Cajatambo Pasco et du Junín nord, Tarma, Yanacocha, Yaru]
 population: 20500

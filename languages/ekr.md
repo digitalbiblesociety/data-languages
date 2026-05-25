@@ -1,6 +1,8 @@
 ---
 iso: ekr
 name: Yace
+name_zh: 亚切语
+name_zh_auto: true
 autonym: Yache
 alt_names: [Ekpari, Iyace, Yatye]
 population: 50000

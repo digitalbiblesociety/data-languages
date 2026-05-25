@@ -1,6 +1,8 @@
 ---
 iso: ugb
 name: "Kuku-Ugbanh"
+name_zh: 库库-乌格班语
+name_zh_auto: true
 autonym: "Wik-Muminh"
 alt_names: [Kugu-Ugbanh]
 population: null

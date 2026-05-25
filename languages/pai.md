@@ -1,6 +1,8 @@
 ---
 iso: pai
 name: Pe
+name_zh: 佩语
+name_zh_auto: true
 autonym: Pai
 alt_names: [Dalong]
 population: 4000

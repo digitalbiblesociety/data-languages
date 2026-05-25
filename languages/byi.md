@@ -1,6 +1,8 @@
 ---
 iso: byi
 name: Buyu
+name_zh: 布尤语
+name_zh_auto: true
 autonym: Bujwe
 alt_names: [Buyi, Kibuyu]
 population: 10000

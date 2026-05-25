@@ -1,6 +1,8 @@
 ---
 iso: mpo
 name: Miu
+name_zh: 米乌语
+name_zh_auto: true
 autonym: Myu
 alt_names: [My]
 population: 1250

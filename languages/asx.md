@@ -1,6 +1,8 @@
 ---
 iso: asx
 name: Muratayak
+name_zh: 穆拉塔亚克语
+name_zh_auto: true
 autonym: Asat
 alt_names: [Murataik]
 population: null

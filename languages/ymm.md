@@ -1,6 +1,8 @@
 ---
 iso: ymm
 name: Maay
+name_zh: 玛伊语
+name_zh_auto: true
 autonym: "Af- Mai-Mai"
 alt_names: [Af-Maay, Af-Maay Tiri, Af-May, Af-Maymay, May, Rahanween, Rahanweyn]
 population: 2608000

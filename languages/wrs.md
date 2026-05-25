@@ -1,6 +1,8 @@
 ---
 iso: wrs
 name: Waris
+name_zh: 瓦里斯语
+name_zh_auto: true
 autonym: Walsa/Waris
 alt_names: [Walsa]
 population: 2500

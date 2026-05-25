@@ -1,6 +1,8 @@
 ---
 iso: pbo
 name: Papel
+name_zh: 帕佩尔语
+name_zh_auto: true
 autonym: Moium
 alt_names: [Oium, Papei, Pepel]
 population: 173500

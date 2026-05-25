@@ -1,6 +1,8 @@
 ---
 iso: liq
 name: Libido
+name_zh: 利比多语
+name_zh_auto: true
 autonym: Marako
 alt_names: [Język libido, Libido hizkuntza, Maraqo]
 population: 14623

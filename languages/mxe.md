@@ -1,6 +1,8 @@
 ---
 iso: mxe
 name: "Mele-Fila"
+name_zh: 梅勒-菲拉语
+name_zh_auto: true
 autonym: "Ifira-Mele"
 alt_names: [Fila-Mele]
 population: 3500

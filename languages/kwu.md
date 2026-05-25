@@ -1,6 +1,8 @@
 ---
 iso: kwu
 name: Kwakum
+name_zh: 克瓦库姆语
+name_zh_auto: true
 autonym: Abakoum
 alt_names: [Abakum, Akpwakum, Bakum, Kpakum, Pakum]
 population: 10000

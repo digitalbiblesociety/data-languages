@@ -1,6 +1,8 @@
 ---
 iso: nqm
 name: Ndom
+name_zh: 恩多姆语
+name_zh_auto: true
 autonym: bahasa Ndom
 alt_names: [Indonesia]
 population: 1200

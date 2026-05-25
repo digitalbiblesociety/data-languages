@@ -1,6 +1,8 @@
 ---
 iso: ekk
 name: Standard Estonian
+name_zh: 爱沙尼亚语
+name_zh_auto: true
 autonym: eesti keel
 alt_names: [Estonian, "Estonian, Standard", estonien]
 population: 1160020

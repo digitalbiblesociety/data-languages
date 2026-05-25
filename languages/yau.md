@@ -1,6 +1,8 @@
 ---
 iso: yau
 name: Yuwana
+name_zh: 尤瓦纳语
+name_zh_auto: true
 autonym: Yuwana
 alt_names: [Chicano, Chikano, Hodi, Hodï, Hodï language, Hoti, Hotí, Idioma hoti, Jodi, Joti, Jotí, Waruwaru, Waruwaru Waruwádu, Yoana, Yuana]
 population: 300

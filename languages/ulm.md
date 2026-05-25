@@ -1,6 +1,8 @@
 ---
 iso: ulm
 name: "Ulumanda'"
+name_zh: 乌卢曼达语
+name_zh_auto: true
 autonym: "Awo-Sumakuyu"
 alt_names: [Botteng-Tappalang, Kado, Nordost-Celebes, Oeloemanda, Tubbi, Ulumandak, Ulunda]
 population: 18000

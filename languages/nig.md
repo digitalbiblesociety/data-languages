@@ -1,6 +1,8 @@
 ---
 iso: nig
 name: Ngalakgan
+name_zh: 恩加拉克甘语
+name_zh_auto: true
 autonym: Ngalakgan
 alt_names: [Bidungo, Engalakán, Gunwinyguan, Hongalla, Hongalla), Hongalla/Hongalla, Lenga ngalakan, Nala nalagen, Nala-nalagen, Nalagen, Nalakan, Nallakum, Ngalagan, Ngalagkan, Ngalakan, Ngalakan language, Ngalakant, Ngalangan, Ngalar kan, Ngalar-kan, Ngalarkan, Ngalbon, Ngulkpun, Nullakum, Nullakun, Nullikan, Nullikin]
 population: null

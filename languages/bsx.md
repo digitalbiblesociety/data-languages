@@ -1,6 +1,8 @@
 ---
 iso: bsx
 name: Yangkam
+name_zh: 扬卡姆语
+name_zh_auto: true
 autonym: Bashar
 alt_names: [Bachirí, Basharawa, Basherawa, Bashiri, Yankam]
 population: 100

@@ -1,6 +1,8 @@
 ---
 iso: rax
 name: Rang
+name_zh: 让语
+name_zh_auto: true
 autonym: null
 alt_names: [Nigeria]
 population: null

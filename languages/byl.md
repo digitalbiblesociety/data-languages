@@ -1,6 +1,8 @@
 ---
 iso: byl
 name: Bayono
+name_zh: 拜约诺语
+name_zh_auto: true
 autonym: Enamesi
 population: 100
 country_id: ID

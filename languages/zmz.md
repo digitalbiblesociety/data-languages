@@ -1,6 +1,8 @@
 ---
 iso: zmz
 name: Mbandja
+name_zh: 姆班贾语
+name_zh_auto: true
 autonym: Mbandza
 alt_names: [Banja, Mbanja, Mbanza]
 population: 367400

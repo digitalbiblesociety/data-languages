@@ -1,6 +1,8 @@
 ---
 iso: cbl
 name: Bualkhaw Chin
+name_zh: 布阿尔卡欧钦语
+name_zh_auto: true
 autonym: "Chin, Bualkhaw"
 alt_names: ["Chin,Bualkhaw"]
 population: 2500

@@ -1,6 +1,8 @@
 ---
 iso: khv
 name: Khvarshi
+name_zh: 克瓦尔希语
+name_zh_auto: true
 autonym: "Atl'ilqo"
 alt_names: ["C'hvarcheg", Hvaršin kieli, Inkhokvari, Javarsí, Język chwarszyjski, Kedaes hikwa, Khvarsh, Khvarshin, Khwarshi, Khwarshi language, Xvarshi, Xvarshik, Хваршинська мова, Хваршиски јазик, хваршинский язык, ხვარშიული ენა]
 population: 1870

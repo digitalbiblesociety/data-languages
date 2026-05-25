@@ -1,6 +1,8 @@
 ---
 iso: mmb
 name: Momina
+name_zh: 莫米纳语
+name_zh_auto: true
 autonym: Somahai
 population: 200
 country_id: ID

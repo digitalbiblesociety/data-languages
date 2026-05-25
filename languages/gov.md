@@ -1,6 +1,8 @@
 ---
 iso: gov
 name: Goo
+name_zh: 古语
+name_zh_auto: true
 autonym: gʋ̏ʋ̏
 population: 8000
 country_id: CI

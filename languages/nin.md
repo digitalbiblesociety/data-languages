@@ -1,6 +1,8 @@
 ---
 iso: nin
 name: Ninzo
+name_zh: 宁佐语
+name_zh_auto: true
 autonym: Ninzam
 alt_names: [Akiza, Amar Tita, Ancha, Fadan Wate, Gbhu D Amar Randfa, Hate, Incha, Kwasu, Nunzo, Sambe]
 population: 35000

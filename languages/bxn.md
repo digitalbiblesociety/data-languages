@@ -1,6 +1,8 @@
 ---
 iso: bxn
 name: Burduna
+name_zh: 布尔杜纳语
+name_zh_auto: true
 autonym: Bayungu
 alt_names: [Boordoona, Bootena, Boruna, Bu-tena, Budina, Budoona, Buduna, Burdana, Buruna, Peedona, Pinneegooroo, Poodena, Poordoona, Puduna, Purduma, Purduna, Talandji-Buduna, Wati Paruna, Wati Puruna]
 population: null

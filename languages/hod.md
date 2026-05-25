@@ -1,6 +1,8 @@
 ---
 iso: hod
 name: Holma
+name_zh: 霍尔玛语
+name_zh_auto: true
 autonym: Bali Holma
 alt_names: [Da Holmaci]
 population: null

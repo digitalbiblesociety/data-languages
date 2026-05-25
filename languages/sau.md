@@ -1,6 +1,8 @@
 ---
 iso: sau
 name: Saleman
+name_zh: 萨莱曼语
+name_zh_auto: true
 autonym: Sawai
 alt_names: [Hatue, Seleman, Wahai]
 population: 4800

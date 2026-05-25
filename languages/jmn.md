@@ -1,6 +1,8 @@
 ---
 iso: jmn
 name: Makuri Naga
+name_zh: 玛库里纳迦语
+name_zh_auto: true
 autonym: Makury Naga
 alt_names: ["Naga, Makuri", "Naga,Makuri", Shaera]
 population: 4000

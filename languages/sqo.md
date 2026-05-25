@@ -1,6 +1,8 @@
 ---
 iso: sqo
 name: Sorkhei
+name_zh: 索尔赫伊语
+name_zh_auto: true
 autonym: Sorkhei-Aftari
 alt_names: [Iran]
 population: 10000

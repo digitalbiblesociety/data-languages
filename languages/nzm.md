@@ -1,6 +1,8 @@
 ---
 iso: nzm
 name: Zeme Naga
+name_zh: 泽美纳加语
+name_zh_auto: true
 autonym: Zeliang
 alt_names: [Arung, Empeo, Empui, Jeme, Kacha, Kachcha, Kachcha Naga, Kachcha Nagas, Kutcha, Mezama, Naga, Naga (Kachcha), Naga (Zeme), "Naga, Zeme", "Naga,Zeme", Sangrima, Sengima, Western, Western Kuki, Zeliangrong, Zeme, Zeme Group, Zemi]
 population: 114000

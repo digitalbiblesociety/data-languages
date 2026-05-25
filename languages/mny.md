@@ -1,6 +1,8 @@
 ---
 iso: mny
 name: Manyawa
+name_zh: 曼亚瓦语
+name_zh_auto: true
 autonym: Emakuana
 alt_names: [Mozambique]
 population: 219000

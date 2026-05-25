@@ -1,6 +1,8 @@
 ---
 iso: tpp
 name: Pisaflores Tepehua
+name_zh: 皮萨弗洛雷斯特佩瓦语
+name_zh_auto: true
 autonym: North Tepehua
 alt_names: [Pisaflores Tepewa, Tepehua, Tepehua de Pisaflores, "Tepehua, Pisaflores", Tepehuano de Pisa Flores, Tepewa]
 population: 4000

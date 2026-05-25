@@ -1,6 +1,8 @@
 ---
 iso: kyd
 name: Karey
+name_zh: 卡雷语
+name_zh_auto: true
 autonym: Kerei
 alt_names: [Aru, Krei]
 population: 950

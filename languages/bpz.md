@@ -1,6 +1,8 @@
 ---
 iso: bpz
 name: Bilba
+name_zh: 比尔巴语
+name_zh_auto: true
 autonym: Eastern Rote
 alt_names: [Belubaa, Bilbaa, Rote, Rote Timur, Roti, Rotinese]
 population: 7000

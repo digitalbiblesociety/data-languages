@@ -1,6 +1,8 @@
 ---
 iso: srw
 name: Serua
+name_zh: 塞鲁阿语
+name_zh_auto: true
 autonym: bahasa Serua
 alt_names: [Indonesia]
 population: 2000

@@ -1,6 +1,8 @@
 ---
 iso: mbr
 name: Nukak Makú
+name_zh: 努卡克马库语
+name_zh_auto: true
 autonym: Guaviare
 alt_names: [Idioma nukak, Macusa, Maczsa, Makusa, Nukak, Nukak Maku, Nukak language, Nukak-makú, Waviare]
 population: 400

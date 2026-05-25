@@ -1,6 +1,8 @@
 ---
 iso: lll
 name: Lilau
+name_zh: 利劳语
+name_zh_auto: true
 autonym: Ngaimbom
 population: 450
 country_id: PG

@@ -1,6 +1,8 @@
 ---
 iso: kmy
 name: Koma
+name_zh: 科玛语
+name_zh_auto: true
 autonym: Kuma
 population: 35000
 country_id: NG

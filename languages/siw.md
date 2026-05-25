@@ -1,6 +1,8 @@
 ---
 iso: siw
 name: Siwai
+name_zh: 西瓦伊语
+name_zh_auto: true
 autonym: Siwai
 alt_names: [Motuna]
 population: 6600

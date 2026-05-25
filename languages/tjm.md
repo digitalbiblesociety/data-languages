@@ -1,6 +1,8 @@
 ---
 iso: tjm
 name: Timucua
+name_zh: 蒂木库亚语
+name_zh_auto: true
 autonym: null
 alt_names: [Timucua (Mocama dial.), Timuqua, Tumucua, Тимукуа]
 population: null

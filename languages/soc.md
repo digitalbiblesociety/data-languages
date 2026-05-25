@@ -1,6 +1,8 @@
 ---
 iso: soc
 name: So (Democratic Republic of Congo)
+name_zh: 索语（刚果民主共和国）
+name_zh_auto: true
 autonym: So
 alt_names: [Eso, Gesogo, Heso, Soa, Soko]
 population: 6000

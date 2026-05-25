@@ -1,6 +1,8 @@
 ---
 iso: xuo
 name: Kuo
+name_zh: 库奥语
+name_zh_auto: true
 autonym: Koh
 alt_names: [Ko, Koh (Lakka), Lakka]
 population: 20250

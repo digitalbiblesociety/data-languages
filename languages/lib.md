@@ -1,6 +1,8 @@
 ---
 iso: lib
 name: Likum
+name_zh: 利库姆语
+name_zh_auto: true
 autonym: null
 alt_names: [Admiralitäts-inseln]
 population: 80

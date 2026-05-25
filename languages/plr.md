@@ -1,6 +1,8 @@
 ---
 iso: plr
 name: Palaka Senoufo
+name_zh: 帕拉卡塞努福语
+name_zh_auto: true
 autonym: Kpalaka
 alt_names: [Kpalagha, KpalaƔa, Palaka, Palara, Pallakha, Pilara, "Senoufo, Palaka"]
 population: 8000

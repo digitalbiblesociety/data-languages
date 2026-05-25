@@ -1,6 +1,8 @@
 ---
 iso: abg
 name: Abaga
+name_zh: 阿巴加语
+name_zh_auto: true
 autonym: Wagaba
 alt_names: [Vaga, Wagama]
 population: 1200

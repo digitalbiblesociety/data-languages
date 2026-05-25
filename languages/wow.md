@@ -1,6 +1,8 @@
 ---
 iso: wow
 name: Wawonii
+name_zh: 瓦沃尼语
+name_zh_auto: true
 autonym: Wowoni
 alt_names: [Wowonii]
 population: 14000

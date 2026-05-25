@@ -1,6 +1,8 @@
 ---
 iso: abz
 name: Abui
+name_zh: 阿布伊语
+name_zh_auto: true
 autonym: Abui tanga
 alt_names: ["\"Barawahing\"", Barue, Lingua abui, Namatalaki]
 population: 16000

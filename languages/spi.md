@@ -1,6 +1,8 @@
 ---
 iso: spi
 name: Saponi
+name_zh: 萨波尼语
+name_zh_auto: true
 autonym: bahasa Saponi
 population: null
 country_id: ID

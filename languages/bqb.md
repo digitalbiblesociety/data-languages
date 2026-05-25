@@ -1,6 +1,8 @@
 ---
 iso: bqb
 name: Bagusa
+name_zh: 巴古萨语
+name_zh_auto: true
 autonym: Kapeso
 alt_names: [Suaseso]
 population: 300

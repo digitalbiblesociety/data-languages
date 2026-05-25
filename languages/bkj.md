@@ -1,6 +1,8 @@
 ---
 iso: bkj
 name: Pande
+name_zh: 潘德语
+name_zh_auto: true
 autonym: "Pande-Gongo"
 alt_names: [Ipande]
 population: 9700

@@ -1,6 +1,8 @@
 ---
 iso: rou
 name: Runga
+name_zh: 鲁恩加语
+name_zh_auto: true
 autonym: Runga
 alt_names: [Aiki, Aiki (Runga), Ayki, Aykindang, Rounga, Roungo, Runga de Ndele]
 population: 21500

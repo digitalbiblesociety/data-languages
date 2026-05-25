@@ -1,6 +1,8 @@
 ---
 iso: cuv
 name: Cuvok
+name_zh: 库沃克语
+name_zh_auto: true
 autonym: Tchouvok
 alt_names: [Chuvok]
 population: 5000

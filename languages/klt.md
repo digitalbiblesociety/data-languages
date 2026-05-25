@@ -1,6 +1,8 @@
 ---
 iso: klt
 name: Nukna
+name_zh: 努克纳语
+name_zh_auto: true
 autonym: Komutu
 population: 1000
 country_id: PG

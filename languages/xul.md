@@ -1,6 +1,8 @@
 ---
 iso: xul
 name: Ngunawal
+name_zh: 南古纳瓦尔语
+name_zh_auto: true
 autonym: Gundungurra
 alt_names: [Nunukul]
 population: 80

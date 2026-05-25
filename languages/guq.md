@@ -1,6 +1,8 @@
 ---
 iso: guq
 name: Aché
+name_zh: 阿切语
+name_zh_auto: true
 autonym: Guayakí
 alt_names: ["\"Guaiaqui\"", "\"Guayakí\"", "\"Guoyagui\"", Ache, Axe, Guaiaqui, Guajaki, Guayaki, Guayaki-Ache, Guayaquí, Guoyagui]
 population: 910

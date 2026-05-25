@@ -1,6 +1,8 @@
 ---
 iso: krp
 name: Korop
+name_zh: 科罗普语
+name_zh_auto: true
 autonym: Korop
 alt_names: [Durop, Dyurop, Erorup, Kurop, Ododop]
 population: 10200

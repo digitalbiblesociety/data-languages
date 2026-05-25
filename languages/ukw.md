@@ -1,6 +1,8 @@
 ---
 iso: ukw
 name: "Ukwuani-Aboh-Ndoni"
+name_zh: 乌克瓦尼-阿博-恩多尼语
+name_zh_auto: true
 autonym: Aboh
 alt_names: [Nigeria]
 population: 299000

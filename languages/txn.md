@@ -1,6 +1,8 @@
 ---
 iso: txn
 name: West Tarangan
+name_zh: 西塔兰甘语
+name_zh_auto: true
 autonym: Tarangan Barat
 alt_names: [Aroesch, Aru, Tarangan, Tarangan (West), "Tarangan, West", West Trangan]
 population: 6480

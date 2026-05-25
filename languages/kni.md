@@ -1,6 +1,8 @@
 ---
 iso: kni
 name: Kanufi
+name_zh: 卡努菲语
+name_zh_auto: true
 autonym: Anib
 alt_names: [Karshi]
 population: 10400

@@ -1,6 +1,8 @@
 ---
 iso: mbz
 name: Amoltepec Mixtec
+name_zh: 阿莫尔特佩克混台语
+name_zh_auto: true
 autonym: (Santiago Amoltepec)
 alt_names: [Central Misteko, Centreal Mixteco, "Mixtec, Amoltepec", Mixteco de Amoltepec, Western Sola de Vega Mixtec]
 population: 5630

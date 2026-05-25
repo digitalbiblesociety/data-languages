@@ -1,6 +1,8 @@
 ---
 iso: nmx
 name: Nama (Papua New Guinea)
+name_zh: 纳马语
+name_zh_auto: true
 autonym: null
 alt_names: [Nama]
 population: 1200

@@ -1,6 +1,8 @@
 ---
 iso: ngs
 name: Gvoko
+name_zh: 古沃科语
+name_zh_auto: true
 autonym: Gavoko
 alt_names: [Gevoko, Ghboko, Kuvoko, Nggweshe, Ngoshe Sama, Ngoshe-Ndhang, Ngoshi, Ngossi, Ngweshe, Ngweshe-Ndaghan]
 population: 20000

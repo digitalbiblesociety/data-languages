@@ -1,6 +1,8 @@
 ---
 iso: ctp
 name: Western Highland Chatino
+name_zh: 西高地查蒂诺语
+name_zh_auto: true
 autonym: Sierra Chatino
 alt_names: ["Cha't-An", Chatino, Chatino (Sierra Occidental), Chatino (Yaitepec), Chatino de Zacatepec, Chatino de Zacatepeco, Chatino de la Zona Alta Occidental, Chatino de la zona baja occidental, Chatino des basses-terres occidentales, Chatino language, "Chatino, Western Highland", Idioma chatino, Langues chatino, Língua chatina, Sierra Occidental Chatino, Tchatineg, Western Highland]
 population: 16000

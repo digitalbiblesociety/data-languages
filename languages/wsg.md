@@ -1,6 +1,8 @@
 ---
 iso: wsg
 name: Adilabad Gondi
+name_zh: 阿迪拉巴德贡德语
+name_zh_auto: true
 autonym: "गोण्डि, గోణ్డి, ଗୋଣ୍ଡି, 𑵶𑶓𑶕𑶂𑶋, 𑴎𑴽𑵀𑴘𑴳,"
 alt_names: ["Gondi, Adilabad", Utnoor]
 population: 300000

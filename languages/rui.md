@@ -1,6 +1,8 @@
 ---
 iso: rui
 name: Rufiji
+name_zh: 鲁菲吉语
+name_zh_auto: true
 autonym: Rufiji
 population: 6450
 country_id: TZ

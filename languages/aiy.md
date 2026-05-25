@@ -1,6 +1,8 @@
 ---
 iso: aiy
 name: Ali
+name_zh: 阿里语
+name_zh_auto: true
 autonym: null
 alt_names: ["'Bofi", Ngbaka, Ngbaka-Manza, Ngbaka-Minagende, Ngbaka-Minangende]
 population: 35000

@@ -1,6 +1,8 @@
 ---
 iso: kad
 name: Adara
+name_zh: 阿达拉语
+name_zh_auto: true
 autonym: Eda
 alt_names: [Kadara]
 population: 300000

@@ -1,6 +1,8 @@
 ---
 iso: xso
 name: Solano
+name_zh: 索拉诺语
+name_zh_auto: true
 autonym: Olelato
 population: null
 country_id: US

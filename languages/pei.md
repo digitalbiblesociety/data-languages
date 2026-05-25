@@ -1,6 +1,8 @@
 ---
 iso: pei
 name: "Chichimeca-Jonaz"
+name_zh: 奇奇梅卡-乔纳兹语
+name_zh_auto: true
 autonym: Jonaz
 alt_names: [Chichimec, Chichimeca, Chichimeca Jonaz language, Chichimeco, Chichimeko, Chichimèque, Meco, Pame de Chichimeca-Jonaz]
 population: 200

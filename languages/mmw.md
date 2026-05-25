@@ -1,6 +1,8 @@
 ---
 iso: mmw
 name: Emae
+name_zh: 埃玛埃语
+name_zh_auto: true
 autonym: Emai
 alt_names: [Emwae, Mae, Mai, Makatea, Mwae]
 population: 400

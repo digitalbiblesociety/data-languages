@@ -1,6 +1,8 @@
 ---
 iso: gob
 name: Playero
+name_zh: 玩耍罗语
+name_zh_auto: true
 autonym: Jiwi
 alt_names: [Pepojivi, Rio Arauca Guahibo, Yamarero]
 population: 240

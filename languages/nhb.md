@@ -1,6 +1,8 @@
 ---
 iso: nhb
 name: Beng
+name_zh: 本语
+name_zh_auto: true
 autonym: Ngain
 alt_names: [Ben, Ben (Gan), Gan, Ngan, Ngen, Ngin, Nguin]
 population: 17000

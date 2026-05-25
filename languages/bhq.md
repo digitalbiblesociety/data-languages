@@ -1,6 +1,8 @@
 ---
 iso: bhq
 name: Tukang Besi South
+name_zh: 南图康格贝西语
+name_zh_auto: true
 autonym: Buton
 alt_names: [Tukang Besi, Tukang-Besi, Wakatobi]
 population: 130000

@@ -1,6 +1,8 @@
 ---
 iso: tpy
 name: Trumai
+name_zh: 特鲁迈语
+name_zh_auto: true
 autonym: ho kod ke
 alt_names: [Tramalhy, Trumaí]
 population: 100

@@ -1,6 +1,8 @@
 ---
 iso: tuc
 name: Mutu
+name_zh: 穆图语
+name_zh_auto: true
 autonym: Tuam
 alt_names: [Tuam-Mutu, Tuom]
 population: 4000

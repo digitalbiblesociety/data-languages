@@ -1,6 +1,8 @@
 ---
 iso: alp
 name: Alune
+name_zh: 阿卢内语
+name_zh_auto: true
 autonym: bahasa Alune
 alt_names: [Patasiwa Alfoeren, Sapalewa]
 population: 17200

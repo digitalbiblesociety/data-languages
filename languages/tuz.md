@@ -1,6 +1,8 @@
 ---
 iso: tuz
 name: Turka
+name_zh: 图尔卡语
+name_zh_auto: true
 autonym: Tyurama
 alt_names: [Curama, Tourka, Turuka]
 population: 37000

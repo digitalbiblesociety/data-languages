@@ -1,6 +1,8 @@
 ---
 iso: bdc
 name: "Emberá-Baudó"
+name_zh: 埃姆贝拉-鲍多语
+name_zh_auto: true
 autonym: Catrú
 alt_names: [Baudo, Baudó, Catio, Embera-Baudo, Sia pedee, Southern Emberá]
 population: 5000

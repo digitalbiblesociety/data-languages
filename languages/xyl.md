@@ -1,6 +1,8 @@
 ---
 iso: xyl
 name: Yalakalore
+name_zh: 亚拉卡洛雷语
+name_zh_auto: true
 autonym: null
 alt_names: [Kithāulhú, Mamaindê, Mamande, Nakarothe, Negarotê, Northern Nambikuaran, Northern Nambikwara, Northern Nambiquara]
 population: null

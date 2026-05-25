@@ -1,6 +1,8 @@
 ---
 iso: tif
 name: Tifal
+name_zh: 蒂法尔语
+name_zh_auto: true
 autonym: Tifalmin
 alt_names: [Tifal language]
 population: 3600

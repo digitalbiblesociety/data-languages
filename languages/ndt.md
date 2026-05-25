@@ -1,6 +1,8 @@
 ---
 iso: ndt
 name: Ndunga
+name_zh: 恩端加语
+name_zh_auto: true
 autonym: Bondonga
 alt_names: [Modunga, Mondugu, Mondunga]
 population: 2500

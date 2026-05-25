@@ -1,6 +1,8 @@
 ---
 iso: hnd
 name: Southern Hindko
+name_zh: 南印度库语
+name_zh_auto: true
 autonym: ہندکو
 alt_names: [Bahasa Hindko, Hindko, Hindko language, "Hindko, Southern", Lahnda, Lingua Hindko, Northeastern Lahnda, ヒンドコ語]
 population: 1170000

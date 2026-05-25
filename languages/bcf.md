@@ -1,6 +1,8 @@
 ---
 iso: bcf
 name: Bamu
+name_zh: 巴穆语
+name_zh_auto: true
 autonym: Bamu Kiwai
 alt_names: [Sisiame]
 population: 6310

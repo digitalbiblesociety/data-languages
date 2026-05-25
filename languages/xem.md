@@ -1,6 +1,8 @@
 ---
 iso: xem
 name: Kembayan
+name_zh: 肯巴扬语
+name_zh_auto: true
 autonym: Mateq
 alt_names: [Indonesia]
 population: 11000

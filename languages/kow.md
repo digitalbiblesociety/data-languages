@@ -1,6 +1,8 @@
 ---
 iso: kow
 name: Kugama
+name_zh: 库加马语
+name_zh_auto: true
 autonym: Kugamma
 alt_names: [Wegam, Yamale, Yamalo]
 population: 5000

@@ -1,6 +1,8 @@
 ---
 iso: dix
 name: Dixon Reef
+name_zh: 迪克松礁语
+name_zh_auto: true
 autonym: Dixon Reef
 alt_names: [Aveteian]
 population: 50

@@ -1,6 +1,8 @@
 ---
 iso: ncr
 name: Ncane
+name_zh: 恩卡内语
+name_zh_auto: true
 autonym: Cane
 alt_names: [Nchanti, Ntshanti]
 population: 15500

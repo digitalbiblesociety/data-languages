@@ -1,6 +1,8 @@
 ---
 iso: kle
 name: Kulung (Nepal)
+name_zh: 库隆语
+name_zh_auto: true
 autonym: kulu riŋ
 alt_names: [Jindā, Khambu, Kholung, Khulung, Khulunge Rai, Kulu Ring, Kulung, Kulung (Tibeto-Burman), Kulungish, Kulungo, Rai]
 population: 33200

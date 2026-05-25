@@ -1,6 +1,8 @@
 ---
 iso: ppn
 name: Papapana
+name_zh: 帕帕帕纳语
+name_zh_auto: true
 autonym: null
 population: 120
 country_id: PG

@@ -1,6 +1,8 @@
 ---
 iso: bkn
 name: Bukitan
+name_zh: 布基坦语
+name_zh_auto: true
 autonym: Bakatan
 alt_names: [Bakitan, Beketan, Mangkettan, Manketa, Pakatan]
 population: 570

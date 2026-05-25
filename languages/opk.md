@@ -1,6 +1,8 @@
 ---
 iso: opk
 name: Kopkaka
+name_zh: 科普卡卡语
+name_zh_auto: true
 autonym: Kopka
 population: 400
 country_id: ID

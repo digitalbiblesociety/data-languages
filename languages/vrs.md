@@ -1,6 +1,8 @@
 ---
 iso: vrs
 name: Varisi
+name_zh: 瓦里西语
+name_zh_auto: true
 autonym: Varese
 population: 5160
 country_id: SB

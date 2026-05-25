@@ -1,6 +1,8 @@
 ---
 iso: mpw
 name: Mapidian
+name_zh: 玛皮迪安语
+name_zh_auto: true
 autonym: Mapidian
 alt_names: [Madipian, Mahuayana, Maiopitian, Maopidian, Maopityan, Mapidi, Mapidiana, Mawayana, Mawayana (Brésil), Mawayana (Guyana), Mawayana (Guyane), Uapixana, Vapidiana, Wapishana, Wapishana (Brésil), Wapishana (Guyana), Wapishana (Guyane), Wapisiana, Wapixana, Wapixiána]
 population: null

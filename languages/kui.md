@@ -1,6 +1,8 @@
 ---
 iso: kui
 name: "Kuikúro-Kalapálo"
+name_zh: 库伊库罗-卡拉帕洛语
+name_zh_auto: true
 autonym: "Kuikúro-Kalapálo"
 alt_names: [Amonap, Apalakiri, Apalaquiri, Cuicutl, Guicurú, Kalapalo, Kuikuro, Kuikuro-Kalapalo, Kuikuru, Kuikúru, Kurkuro, Matipu]
 population: 1110

@@ -1,6 +1,8 @@
 ---
 iso: ikp
 name: Ikpeshi
+name_zh: 伊克佩希语
+name_zh_auto: true
 autonym: Ekpeshe
 alt_names: [Ikpeshe]
 population: 5320

@@ -1,6 +1,8 @@
 ---
 iso: ida
 name: "Idakho-Isukha-Tiriki"
+name_zh: 伊达库霍语
+name_zh_auto: true
 autonym: Luidakho
 alt_names: [Kenya, Luidakho-Luisukha-Lutirichi]
 population: 156000

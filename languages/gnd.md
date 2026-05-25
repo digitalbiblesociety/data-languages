@@ -1,6 +1,8 @@
 ---
 iso: gnd
 name: "Zulgo-Gemzek"
+name_zh: 祖尔戈-吉姆泽克语
+name_zh_auto: true
 autonym: Zulgo
 alt_names: [Gemjek, Guemshek, Zoulgwaeg, Zulgo-Gemzek jezik]
 population: 26000

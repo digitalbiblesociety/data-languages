@@ -1,6 +1,8 @@
 ---
 iso: aph
 name: Athpariya
+name_zh: 阿特帕里亚语
+name_zh_auto: true
 autonym: Arthare
 alt_names: [Arthare-Khesang, Ath Paharia Rai, Athapre, Athpahariya, Athpare, Athpare language, Athpariya jezik, Athpariyish, Athpre, Atpariya, Jamindar Rai, Jindā, Rai]
 population: 5530

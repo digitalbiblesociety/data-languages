@@ -1,6 +1,8 @@
 ---
 iso: nrz
 name: Lala
+name_zh: 拉拉语
+name_zh_auto: true
 autonym: Nara
 alt_names: ["Ala'ala", Nala, Pokau]
 population: 3000

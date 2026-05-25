@@ -1,6 +1,8 @@
 ---
 iso: uis
 name: Uisai
+name_zh: 乌伊赛语
+name_zh_auto: true
 autonym: null
 population: 2500
 country_id: PG

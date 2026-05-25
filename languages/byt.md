@@ -1,6 +1,8 @@
 ---
 iso: byt
 name: Berti
+name_zh: 贝尔蒂语
+name_zh_auto: true
 autonym: null
 population: null
 country_id: SD

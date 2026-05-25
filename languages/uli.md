@@ -1,6 +1,8 @@
 ---
 iso: uli
 name: Ulithian
+name_zh: 乌利提安语
+name_zh_auto: true
 autonym: Yulidiy
 alt_names: [Ulithi, Ulithiano, Ulithische Sprache, Ulitiano, Ulitų kalba]
 population: 3000

@@ -1,6 +1,8 @@
 ---
 iso: jei
 name: Yei
+name_zh: 耶伊语
+name_zh_auto: true
 autonym: Yey
 alt_names: [Je, Jei, Jei-Makleu, Yei-Nan]
 population: 2390

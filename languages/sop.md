@@ -1,6 +1,8 @@
 ---
 iso: sop
 name: Songe
+name_zh: 松热语
+name_zh_auto: true
 autonym: Kalebwe
 alt_names: [Kisonge, Kisongi, Kisongye, Luba-Songi, Lusonge, "North Songye, South Songye", Northeast Luba, Songye, Yembe]
 population: 1000000

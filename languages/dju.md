@@ -1,6 +1,8 @@
 ---
 iso: dju
 name: Kapriman
+name_zh: 卡普里曼语
+name_zh_auto: true
 autonym: Mugumute
 alt_names: [Sare, Wasare]
 population: null

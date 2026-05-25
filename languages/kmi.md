@@ -1,6 +1,8 @@
 ---
 iso: kmi
 name: Kami (Nigeria)
+name_zh: 卡米语
+name_zh_auto: true
 autonym: null
 alt_names: [Kami, Nigeria]
 population: 5000

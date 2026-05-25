@@ -1,6 +1,8 @@
 ---
 iso: uba
 name: Ubang
+name_zh: 乌邦语
+name_zh_auto: true
 autonym: null
 alt_names: [Nigeria]
 population: 3420

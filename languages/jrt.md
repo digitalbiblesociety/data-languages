@@ -1,6 +1,8 @@
 ---
 iso: jrt
 name: Jorto
+name_zh: 乔尔托语
+name_zh_auto: true
 autonym: Jakato; Jorto
 alt_names: [Jakattoe, Nigeria]
 population: 17300

@@ -1,6 +1,8 @@
 ---
 iso: isn
 name: Isanzu
+name_zh: 伊桑祖语
+name_zh_auto: true
 autonym: Kinyihanzu
 alt_names: [Kinyisanzu]
 population: 26000

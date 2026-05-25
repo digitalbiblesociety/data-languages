@@ -1,6 +1,8 @@
 ---
 iso: bio
 name: Nai
+name_zh: 纳伊语
+name_zh_auto: true
 autonym: Biaka
 alt_names: [Amini, Lenga nai, Nai jezik, Nai-Biaka]
 population: 600

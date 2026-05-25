@@ -1,6 +1,8 @@
 ---
 iso: djr
 name: Djambarrpuyngu
+name_zh: 詹巴普因古语
+name_zh_auto: true
 autonym: "Dhay'yi"
 alt_names: [Djambar-pinga, Djambarbingo, Djambarbino, Djambarbwingo, Djambarbwingu, Djambarpingu, Djambarrpuyng, Djambarwingu, Gujula, Gwiyula, Jambapuing, Jambapuingo, Jambarboinga, Jum-bapoingo, Naladaer, Ngaladharr, Ngalado, Tchambarupi, Tjambarpoing, Tjambarupingu]
 population: 4280

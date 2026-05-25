@@ -1,6 +1,8 @@
 ---
 iso: ikx
 name: Ik
+name_zh: 伊克语
+name_zh_auto: true
 autonym: "Icé-tód"
 alt_names: [Icietot, "Ik (delete in favor of So (=Tepes)?)", Ngulak, Teuso, Teuth]
 population: 10000

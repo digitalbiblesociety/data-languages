@@ -1,6 +1,8 @@
 ---
 iso: yuw
 name: Yau (Morobe Province)
+name_zh: 尤语(莫罗贝省)
+name_zh_auto: true
 autonym: Uruwa
 alt_names: [Yau]
 population: 2380

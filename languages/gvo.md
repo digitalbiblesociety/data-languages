@@ -1,6 +1,8 @@
 ---
 iso: gvo
 name: Gavião Do Jiparaná
+name_zh: 吉帕拉纳加维奥语
+name_zh_auto: true
 autonym: Gavião of Rondônia
 alt_names: [Aruá, Cinta Larga, Digüt, Gaviao, Gaviao Do Jiparana, Gavio do Jiparan, Gavião, Gavião do Rondônia, Gavião du Rondônia, Ikõro, Ikõrõ, Zoró]
 population: 1120

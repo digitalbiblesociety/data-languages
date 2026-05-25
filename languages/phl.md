@@ -1,6 +1,8 @@
 ---
 iso: phl
 name: Phalura
+name_zh: 法卢拉语
+name_zh_auto: true
 autonym: پالولہ
 alt_names: [Biyori, Dangarik, Dangarīk, Dardu, Palola, Paloureg, Palula, Palula language, Palūla, Phalulo, ภาษาปาลูลา]
 population: 10000

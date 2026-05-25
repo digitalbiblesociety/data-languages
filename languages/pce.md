@@ -1,6 +1,8 @@
 ---
 iso: pce
 name: Ruching Palaung
+name_zh: 瑞钦帕劳恩语
+name_zh_auto: true
 autonym: "De'ang"
 alt_names: [Bulai, Bulei, Darang, Di-Ang, Dlang, Ngwe Palaung, Palaung, "Palaung, Pale", "Palaung, Ruching", Palaungo pale, Palay, Pale, Pale Palaung, Pulei, Rumai, Silver Palaung, "Southern Ta'ang", Southern Ta-Ang]
 population: 273300

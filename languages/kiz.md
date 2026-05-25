@@ -1,6 +1,8 @@
 ---
 iso: kiz
 name: Kisi
+name_zh: 基西语
+name_zh_auto: true
 autonym: Kikisi
 population: 11000
 country_id: TZ

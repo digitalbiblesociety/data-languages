@@ -1,6 +1,8 @@
 ---
 iso: npb
 name: Nupbikha
+name_zh: 努普比克哈语
+name_zh_auto: true
 autonym: Trongsakha
 population: 2200
 country_id: BT

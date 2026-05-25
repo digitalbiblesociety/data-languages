@@ -1,6 +1,8 @@
 ---
 iso: sdk
 name: Sos Kundi
+name_zh: 索斯昆迪语
+name_zh_auto: true
 autonym: Agbane
 alt_names: [Agbanekundi, Akbana, Gaikundi, Gaikunti, Keak, Kwaruwi Kwundi, Kwaruwikwundi, Kwongai, Sawos, Sepik Plains, Soskundi, Tshuosh, Tshwosh]
 population: null

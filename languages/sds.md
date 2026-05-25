@@ -1,6 +1,8 @@
 ---
 iso: sds
 name: Sened
+name_zh: 塞内德语
+name_zh_auto: true
 autonym: null
 alt_names: [Lingua sendi, Sened jezik, Senedeg, لغة سند]
 population: null

@@ -1,6 +1,8 @@
 ---
 iso: agn
 name: Agutaynen
+name_zh: 阿古塔伊嫩语
+name_zh_auto: true
 autonym: null
 alt_names: [Agutaynen jezik, Agutayno, Agutaynon, Lingua agutaynen]
 population: 15000

@@ -1,6 +1,8 @@
 ---
 iso: ges
 name: "Geser-Gorom"
+name_zh: 格塞尔-戈罗姆语
+name_zh_auto: true
 autonym: "Geser-Gorom"
 alt_names: [Gesa, Geser, Goram, Goran, Gorom, Gorong, Seram, Seran, Seran Laut]
 population: 36500

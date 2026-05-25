@@ -1,6 +1,8 @@
 ---
 iso: wod
 name: Wolani
+name_zh: 沃拉尼语
+name_zh_auto: true
 autonym: Woda
 alt_names: [Woda-Mo, Wodani]
 population: 5000

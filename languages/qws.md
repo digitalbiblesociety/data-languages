@@ -1,6 +1,8 @@
 ---
 iso: qws
 name: Sihuas Ancash Quechua
+name_zh: 西华斯安卡什克丘亚语
+name_zh_auto: true
 autonym: Huaylay
 alt_names: [Ancas, Ancash, Chinchaysuyo, Conchucos, North Central Kechua, Northern Quechua, "Quechua, Sihuas  Ancash"]
 population: 3000

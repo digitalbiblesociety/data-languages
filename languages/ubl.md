@@ -1,6 +1,8 @@
 ---
 iso: ubl
 name: "Buhi'non Bikol"
+name_zh: 布希农比科尔语
+name_zh_auto: true
 autonym: Bikol Buhi
 alt_names: ["Bikol, Buhi'non"]
 population: 73600

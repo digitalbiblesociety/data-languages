@@ -1,6 +1,8 @@
 ---
 iso: brv
 name: Western Bru
+name_zh: 西布鲁语
+name_zh_auto: true
 autonym: Bruu
 alt_names: ["B'ru", Baroo, Baru, Brou, Bru, Bru (Western), "Bru, Western", Leu, Leung, Muong Leong, Quàngtri Vân Kiêu, Tri, Western]
 population: 20000

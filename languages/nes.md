@@ -1,6 +1,8 @@
 ---
 iso: nes
 name: Bhoti Kinnauri
+name_zh: 克纳乌里语
+name_zh_auto: true
 autonym: Bhotea of Upper Kinnauri
 alt_names: [Bhōṭiā of Upper Kanawar, Bod-Skad, Bud-Kat, Kanāwri, "Kinnauri, Bhoti", "Kinnauri,Bhoti", Mnyam, Mnyamskad, Myamkat, Myamskad, Nyamkad, Nyamkat, Nyamskad, Sangs-Rgyas, Sangyas]
 population: 6790

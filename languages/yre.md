@@ -1,6 +1,8 @@
 ---
 iso: yre
 name: Yaouré
+name_zh: 亚乌雷语
+name_zh_auto: true
 autonym: null
 alt_names: [Yaoure, Yaure, Yohowré, Youré]
 population: 40000

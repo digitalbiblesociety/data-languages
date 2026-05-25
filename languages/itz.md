@@ -1,6 +1,8 @@
 ---
 iso: itz
 name: Itzá
+name_zh: 伊察语
+name_zh_auto: true
 autonym: " Itzaj"
 alt_names: [Icaiche Maya, Idioma itzá, Itz, Itza, Itza Maya, "Itza'", "Itza' language", Itzaj Maya, Língua itzá, Maya, Maya itzá, Petén Itzá Maya, Yucatec Maya, Ица јазик]
 population: 1800

@@ -1,6 +1,8 @@
 ---
 iso: bga
 name: "Gwamhi-Wuri"
+name_zh: 瓜姆希-乌里语
+name_zh_auto: true
 autonym: Lyase
 alt_names: ["\"Banganci\"", Gwamfi, Gwamhyə-Wuri-Mba, Lyase-Ne, Tchumbuli]
 population: 16000

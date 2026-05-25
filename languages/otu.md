@@ -1,6 +1,8 @@
 ---
 iso: otu
 name: Otuke
+name_zh: 奥图克语
+name_zh_auto: true
 autonym: Louxiru
 alt_names: [Louxiur, Otuké, Otuque, Otuqui, Otuqué]
 population: null

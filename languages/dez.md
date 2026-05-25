@@ -1,6 +1,8 @@
 ---
 iso: dez
 name: Dengese
+name_zh: 邓格塞语
+name_zh_auto: true
 autonym: Ileo
 alt_names: [Lengese, Ndengese]
 population: 8600

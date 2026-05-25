@@ -1,6 +1,8 @@
 ---
 iso: naj
 name: Nalu
+name_zh: 纳卢语
+name_zh_auto: true
 autonym: Nalou
 population: 13000
 country_id: GN

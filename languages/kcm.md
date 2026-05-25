@@ -1,6 +1,8 @@
 ---
 iso: kcm
 name: Gula (Central African Republic)
+name_zh: 古拉语（中非共和国）
+name_zh_auto: true
 autonym: Tar Gula
 alt_names: [Goula, Gula, Gula du Mamoun, Kara, Kara de Soudan, Kara of Sudan, Yamegi]
 population: 13000

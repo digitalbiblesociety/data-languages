@@ -1,6 +1,8 @@
 ---
 iso: ayd
 name: Ayabadhu
+name_zh: 艾亚巴杜语
+name_zh_auto: true
 autonym: Badhu
 alt_names: [Abadja, Ai ebadu, Aiabadu, Aiebadu, Aiyabotho, Aiyaboto, Ajabadha, Ajabatha, Ajibyrdu, Apatya, Ayapathu, Badja, Baldya, Balfja, Jabuda, Kikahiabilo, Koka Ai ebadu, Koka Ai-ebadu, Koka aiebadu, Koka-aiebadu, Koko Aiebadu, Koko Badja, Koko Baldya, Koko Baltja, Koko-Badja, Koko-Baldya, Koko-Baltjayiahjaba]
 population: null

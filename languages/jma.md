@@ -1,6 +1,8 @@
 ---
 iso: jma
 name: Dima
+name_zh: 迪玛语
+name_zh_auto: true
 autonym: Jimajima
 alt_names: [Dimadima, Jimjam]
 population: 750

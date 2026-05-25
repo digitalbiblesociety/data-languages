@@ -1,6 +1,8 @@
 ---
 iso: crq
 name: "Iyo'wujwa Chorote"
+name_zh: 伊约乌吉瓦乔罗特语
+name_zh_auto: true
 autonym: Chorote
 alt_names: [Choropi, Chorote iyojwa’ja, "Chorote, Iyo'wujwa", Choroti, "Choroti iyojwa'ja", Chorotí, Iyo’wujwa, Manjui, Manjuy, Yofúaha, Čorotų kalba]
 population: 1500

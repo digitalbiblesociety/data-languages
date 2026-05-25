@@ -1,6 +1,8 @@
 ---
 iso: myg
 name: Manta
+name_zh: 曼塔语
+name_zh_auto: true
 autonym: Anta
 alt_names: [Banta, Bantakpa, Kisam, Menta, Tinta]
 population: 5300

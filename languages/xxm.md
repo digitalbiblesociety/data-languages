@@ -1,6 +1,8 @@
 ---
 iso: xxm
 name: Minkin
+name_zh: 闽金语
+name_zh_auto: true
 autonym: Mingginda
 population: null
 country_id: AU

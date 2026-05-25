@@ -1,6 +1,8 @@
 ---
 iso: mzv
 name: Manza
+name_zh: 曼扎语
+name_zh_auto: true
 autonym: Mandja
 alt_names: [Manja]
 population: 220000

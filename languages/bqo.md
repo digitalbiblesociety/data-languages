@@ -1,6 +1,8 @@
 ---
 iso: bqo
 name: Balo
+name_zh: 巴洛语
+name_zh_auto: true
 autonym: null
 population: 2230
 country_id: CM

@@ -1,6 +1,8 @@
 ---
 iso: txi
 name: Ikpeng
+name_zh: 伊克佩恩格语
+name_zh_auto: true
 autonym: Ikpeng
 alt_names: [Chicao, Chikaon, Ikpéng, Tonore, Tunuli, Txicão, Txikao, Txikân, Txikão, Txikāo]
 population: 320

@@ -1,6 +1,8 @@
 ---
 iso: bme
 name: Limassa
+name_zh: 利马萨语
+name_zh_auto: true
 autonym: Bamassa
 alt_names: [Bomasa, Bomassa]
 population: null

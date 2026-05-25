@@ -1,6 +1,8 @@
 ---
 iso: sra
 name: Saruga
+name_zh: 萨鲁加语
+name_zh_auto: true
 autonym: null
 population: 130
 country_id: PG

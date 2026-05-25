@@ -1,6 +1,8 @@
 ---
 iso: ilv
 name: Ilue
+name_zh: 伊卢埃语
+name_zh_auto: true
 autonym: Idua
 population: 5000
 country_id: NG

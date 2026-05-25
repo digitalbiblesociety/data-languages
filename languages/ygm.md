@@ -1,6 +1,8 @@
 ---
 iso: ygm
 name: Yagomi
+name_zh: 亚戈米语
+name_zh_auto: true
 autonym: Asat
 population: 280
 country_id: PG

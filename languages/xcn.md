@@ -1,6 +1,8 @@
 ---
 iso: xcn
 name: Cotoname
+name_zh: 科托纳梅语
+name_zh_auto: true
 autonym: null
 population: null
 country_id: US

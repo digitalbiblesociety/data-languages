@@ -1,6 +1,8 @@
 ---
 iso: bqc
 name: Boko (Benin)
+name_zh: 博科语（贝宁）
+name_zh_auto: true
 autonym: Bokonya
 alt_names: [Bokko, Boko, Boo, Busa, Busa-Boko]
 population: 150000

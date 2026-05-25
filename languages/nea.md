@@ -1,6 +1,8 @@
 ---
 iso: nea
 name: "Eastern Ngad'a"
+name_zh: 东恩加达语
+name_zh_auto: true
 autonym: Bahasa Ngada
 alt_names: ["Ngad'a, Eastern"]
 population: 5000

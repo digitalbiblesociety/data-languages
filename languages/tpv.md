@@ -1,6 +1,8 @@
 ---
 iso: tpv
 name: Tanapag
+name_zh: 塔纳帕格语
+name_zh_auto: true
 autonym: Northern Carolinian
 alt_names: [Sprache der Marianen, Tallabwog]
 population: 4400

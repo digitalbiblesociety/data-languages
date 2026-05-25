@@ -1,6 +1,8 @@
 ---
 iso: nbs
 name: Namibian Sign Language
+name_zh: 纳米比亚手语
+name_zh_auto: true
 autonym: null
 population: 8310
 country_id: NA

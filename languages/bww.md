@@ -1,6 +1,8 @@
 ---
 iso: bww
 name: Bwa
+name_zh: 布瓦语
+name_zh_auto: true
 autonym: "Benge-Baati"
 alt_names: [Boa, Boua, Bua, Kibua, Kibwa, Libenge, Libua, Libwali]
 population: 200000

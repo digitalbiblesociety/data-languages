@@ -1,6 +1,8 @@
 ---
 iso: nla
 name: Ngombale
+name_zh: 恩贡巴莱语
+name_zh_auto: true
 autonym: "Bamileke-Ngombale"
 population: 53500
 country_id: CM

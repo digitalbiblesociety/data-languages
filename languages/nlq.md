@@ -1,6 +1,8 @@
 ---
 iso: nlq
 name: Lao Naga
+name_zh: 老纳加语
+name_zh_auto: true
 autonym: Tase
 alt_names: ["Naga, Lao"]
 population: null

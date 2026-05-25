@@ -1,6 +1,8 @@
 ---
 iso: nyf
 name: Giryama
+name_zh: 吉里亚玛语
+name_zh_auto: true
 autonym: Agiryama
 alt_names: [Giriama, Kigiriama, Kigiryama, Kinyika, Nika, Nyika]
 population: 1160000

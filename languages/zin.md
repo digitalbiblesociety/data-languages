@@ -1,6 +1,8 @@
 ---
 iso: zin
 name: Zinza
+name_zh: 津扎语
+name_zh_auto: true
 autonym: Ecizinza
 alt_names: [Dzinda, Dzindza, Echidzindza, Echijinja, Jinja, Kizinza, Zinja]
 population: 205000

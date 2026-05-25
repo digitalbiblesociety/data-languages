@@ -1,6 +1,8 @@
 ---
 iso: cwb
 name: Maindo
+name_zh: 迈因多语
+name_zh_auto: true
 autonym: Cuabo
 alt_names: [Chwambo]
 population: 21000

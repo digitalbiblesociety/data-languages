@@ -1,6 +1,8 @@
 ---
 iso: blx
 name: "Mag-Indi Ayta"
+name_zh: 麦-因蒂艾亚语
+name_zh_auto: true
 autonym: "Mag-indi"
 alt_names: ["Ayta, Mag-Indi", Baloga, Biloxi, Indi Ayta, Mag-Indi Sambal, ภาษามักอินดี]
 population: 5000

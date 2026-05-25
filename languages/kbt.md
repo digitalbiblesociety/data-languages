@@ -1,6 +1,8 @@
 ---
 iso: kbt
 name: Abadi
+name_zh: 阿巴迪语
+name_zh_auto: true
 autonym: Gabadi
 alt_names: [Kabadi]
 population: 4300

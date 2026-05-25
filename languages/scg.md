@@ -1,6 +1,8 @@
 ---
 iso: scg
 name: Sanggau
+name_zh: 桑高语
+name_zh_auto: true
 autonym: bahasa Sanggau
 alt_names: [Indonesia]
 population: 45000

@@ -1,6 +1,8 @@
 ---
 iso: kez
 name: Kukele
+name_zh: 库凯莱语
+name_zh_auto: true
 autonym: Kukelle
 alt_names: [Bakele, Ukele, Ukelle]
 population: 180000

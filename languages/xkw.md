@@ -1,6 +1,8 @@
 ---
 iso: xkw
 name: Kembra
+name_zh: 肯布拉语
+name_zh_auto: true
 autonym: bahasa Kembra
 alt_names: [Kembraeg]
 population: 20

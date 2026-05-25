@@ -1,6 +1,8 @@
 ---
 iso: tjg
 name: Tunjung
+name_zh: 通容语
+name_zh_auto: true
 autonym: Tunjung Dayak
 alt_names: [Dayak]
 population: 50000

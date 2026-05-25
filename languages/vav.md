@@ -1,6 +1,8 @@
 ---
 iso: vav
 name: Varli
+name_zh: 瓦尔利语
+name_zh_auto: true
 autonym: वारली
 alt_names: [Warli]
 population: 387000

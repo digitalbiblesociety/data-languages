@@ -1,6 +1,8 @@
 ---
 iso: sbl
 name: Botolan Sambal
+name_zh: 博托兰桑巴尔语
+name_zh_auto: true
 autonym: Botolan Sambal
 alt_names: [Aeta Negrito, Ayta Hambali, Botolan Zambal, "Sambal, Botolan"]
 population: 32900

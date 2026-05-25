@@ -1,6 +1,8 @@
 ---
 iso: pyn
 name: Poyanáwa
+name_zh: 波亚纳瓦语
+name_zh_auto: true
 autonym: Poyanáwa
 alt_names: [Poianáua, Poyanawa, Poyannawa, Puinahua, Puinaua, Puyanawa]
 population: 403

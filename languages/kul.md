@@ -1,6 +1,8 @@
 ---
 iso: kul
 name: Kulere
+name_zh: 库莱雷语
+name_zh_auto: true
 autonym: Akande
 alt_names: [Akandi, Kande, Korom Boye, Tof]
 population: 15600

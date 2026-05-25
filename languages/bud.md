@@ -1,6 +1,8 @@
 ---
 iso: bud
 name: Ntcham
+name_zh: 恩查姆语
+name_zh_auto: true
 autonym: Basari
 alt_names: [Basaal, Basar, Basare, Bassar, Bassari, Natchamba, Ncham, Tobote]
 population: 329000

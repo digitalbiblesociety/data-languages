@@ -1,6 +1,8 @@
 ---
 iso: mty
 name: Nabi
+name_zh: 纳比语
+name_zh_auto: true
 autonym: Metan
 alt_names: [Menandon, Minendon, Mitang, Nambi, Nambieb]
 population: 620

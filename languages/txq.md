@@ -1,6 +1,8 @@
 ---
 iso: txq
 name: Tii
+name_zh: 蒂伊语
+name_zh_auto: true
 autonym: Western Rote
 alt_names: [Rote, Rote Barat, Roti, Rotinese, Thie, Ti]
 population: 20000

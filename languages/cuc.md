@@ -1,6 +1,8 @@
 ---
 iso: cuc
 name: Usila Chinantec
+name_zh: 乌西拉奇南特克语
+name_zh_auto: true
 autonym: "Chinantec, Usila"
 alt_names: [Chinantec, Chinantec (San Felipe Usila), Chinanteco, Chinanteco (Usila), Chinanteco del oeste central alto, Chinanteko, San Felipe Usila, Upper West-Central Chinantec, Usila, Usila Chinanteko, jaú jm, "jmiih kia' dzä jii'"]
 population: 7410

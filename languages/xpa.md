@@ -1,6 +1,8 @@
 ---
 iso: xpa
 name: Pirriya
+name_zh: 皮里亚语
+name_zh_auto: true
 autonym: Birria
 alt_names: [Bidia, Biria, Piria]
 population: null

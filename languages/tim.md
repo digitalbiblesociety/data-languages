@@ -1,6 +1,8 @@
 ---
 iso: tim
 name: Timbe
+name_zh: 蒂姆贝语
+name_zh_auto: true
 autonym: null
 population: 11000
 country_id: PG

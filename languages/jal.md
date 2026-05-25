@@ -1,6 +1,8 @@
 ---
 iso: jal
 name: Yalahatan
+name_zh: 亚拉哈坦语
+name_zh_auto: true
 autonym: Atamanu
 alt_names: [Indonesia]
 population: 1700

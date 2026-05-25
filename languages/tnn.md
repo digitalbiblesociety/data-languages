@@ -1,6 +1,8 @@
 ---
 iso: tnn
 name: North Tanna
+name_zh: 北坦纳语
+name_zh_auto: true
 autonym: Nɨnakə
 alt_names: ["Tanna, North", Vanuatu]
 population: 5000

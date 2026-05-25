@@ -1,6 +1,8 @@
 ---
 iso: gmg
 name: Magɨyi
+name_zh: 马吉伊语
+name_zh_auto: true
 autonym: null
 population: null
 country_id: PG

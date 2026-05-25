@@ -1,6 +1,8 @@
 ---
 iso: bwy
 name: Cwi Bwamu
+name_zh: 彻伊布瓦木语
+name_zh_auto: true
 autonym: Bwamu Twĩ
 alt_names: ["Bwamu, Cwi", Coo, Cwi, Twi]
 population: 24000

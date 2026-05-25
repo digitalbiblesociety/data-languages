@@ -1,6 +1,8 @@
 ---
 iso: qun
 name: Quinault
+name_zh: 奎诺特语
+name_zh_auto: true
 autonym: Kʷínaył
 alt_names: [Queets, Queniut, kʷínayɬ]
 population: 2007

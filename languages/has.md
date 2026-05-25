@@ -1,6 +1,8 @@
 ---
 iso: has
 name: Haisla
+name_zh: 海斯拉语
+name_zh_auto: true
 autonym: X̄a’islak̓ala
 alt_names: [Haishilla, Kitamat, Kitlope, Northern Kwakiutl, "Xiʔslak'ala", "X̄a'islak̓ala", X̄enaksialak̓ala, "X̄enaksialak̓ala / X̄a'islak̓ala (Haisla)"]
 population: 1000

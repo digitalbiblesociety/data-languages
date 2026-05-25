@@ -1,6 +1,8 @@
 ---
 iso: nmm
 name: Manangba
+name_zh: 玛南巴语
+name_zh_auto: true
 autonym: Nyishang
 alt_names: [Gurung, Manang, Manangbhot, Manangbolt, Manange, Manangi, Ngyeshang, Northern Gurung, Nyeshang, Nyeshangba]
 population: 3740

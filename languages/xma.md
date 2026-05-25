@@ -1,6 +1,8 @@
 ---
 iso: xma
 name: Mushungulu
+name_zh: 穆舍乌古鲁语
+name_zh_auto: true
 autonym: Mushunguli
 population: 23000
 country_id: SO

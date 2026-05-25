@@ -1,6 +1,8 @@
 ---
 iso: fuu
 name: Furu
+name_zh: 富鲁语
+name_zh_auto: true
 autonym: Bagero
 alt_names: [Bagiro, Baguero, Baguiro]
 population: 12000

@@ -1,6 +1,8 @@
 ---
 iso: lur
 name: Laura
+name_zh: 劳拉语
+name_zh_auto: true
 autonym: West Sumbanese
 population: 10000
 country_id: ID

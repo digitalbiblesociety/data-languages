@@ -1,6 +1,8 @@
 ---
 iso: mpu
 name: Makuráp
+name_zh: 玛库拉普语
+name_zh_auto: true
 autonym: Macuráp
 alt_names: [Kurateg, Macurap, Macurape, Macurapi, Makurap, Makurape, Makurápi, Massaka]
 population: 110

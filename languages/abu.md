@@ -1,6 +1,8 @@
 ---
 iso: abu
 name: Abure
+name_zh: 阿布雷语
+name_zh_auto: true
 autonym: Abonwa
 alt_names: [Abouré, Abule, Akaplass]
 population: 93000

@@ -1,6 +1,8 @@
 ---
 iso: ldk
 name: Leelau
+name_zh: 利劳语
+name_zh_auto: true
 autonym: Bikwin
 alt_names: [Lelau, Lelo, Munga, Munga Lelau, Munga-Gomu-Bambuka]
 population: 5000

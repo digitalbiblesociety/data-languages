@@ -1,6 +1,8 @@
 ---
 iso: kji
 name: Zabana
+name_zh: 扎巴那语
+name_zh_auto: true
 autonym: Kia
 alt_names: [Kham]
 population: 3360

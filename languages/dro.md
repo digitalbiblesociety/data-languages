@@ -1,6 +1,8 @@
 ---
 iso: dro
 name: "Daro-Matu Melanau"
+name_zh: 达罗-玛图梅拉瑙语
+name_zh_auto: true
 autonym: null
 alt_names: ["Melanau, Daro-Matu"]
 population: 2800

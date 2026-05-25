@@ -1,6 +1,8 @@
 ---
 iso: lvk
 name: Lavukaleve
+name_zh: 拉武卡莱夫语
+name_zh_auto: true
 autonym: Laube
 alt_names: [Lakukaleve, Laumbe, Russell Island]
 population: 1780

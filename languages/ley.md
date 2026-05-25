@@ -1,6 +1,8 @@
 ---
 iso: ley
 name: Lemolang
+name_zh: 勒莫朗语
+name_zh_auto: true
 autonym: Limola
 alt_names: [Baebunta, Lemolango]
 population: 2000

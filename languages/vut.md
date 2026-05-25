@@ -1,6 +1,8 @@
 ---
 iso: vut
 name: Vute
+name_zh: 武特语
+name_zh_auto: true
 autonym: null
 alt_names: ["'Abotee", "'Abwetee", Baboute, Babute, Bamboute, Boute, Bubure, Bule, Bute, Buti, Foute, Luvure, Mbute, Mbutere, Mfuti, Nbule, Pute, Voute, Voutere, Vutere, Wetere, Woute, Wute]
 population: 21000

@@ -1,6 +1,8 @@
 ---
 iso: fiw
 name: Fiwaga
+name_zh: 菲瓦加语
+name_zh_auto: true
 autonym: Fimaga
 alt_names: [Fiwage]
 population: 300

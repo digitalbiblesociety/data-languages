@@ -1,6 +1,8 @@
 ---
 iso: xmg
 name: Mengaka
+name_zh: 门加卡语
+name_zh_auto: true
 autonym: " Bagam"
 alt_names: [Bamileke-Mengaka, Benzing, Ghap, Megaka]
 population: 38500

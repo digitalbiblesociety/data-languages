@@ -1,6 +1,8 @@
 ---
 iso: sxs
 name: Sasaru
+name_zh: 萨萨鲁语
+name_zh_auto: true
 autonym: null
 alt_names: [Nigeria]
 population: 12500

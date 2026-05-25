@@ -1,6 +1,8 @@
 ---
 iso: ktq
 name: Katabaga
+name_zh: 卡塔巴加语
+name_zh_auto: true
 autonym: Katabangan
 alt_names: [Catabaga]
 population: null

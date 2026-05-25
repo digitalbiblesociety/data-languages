@@ -1,6 +1,8 @@
 ---
 iso: poi
 name: Highland Popoluca
+name_zh: 高地波波卢卡语
+name_zh_auto: true
 autonym: Soteapanec
 alt_names: [Highland Sokean, Popoluca (Sierra), Popoluca de Sierra, Popoluca de la Sierra, "Popoluca, Highland", Populaca de la Sierra, Sierra Popoluca, Soke, Sokean (Highland), Soteapan Zoque, Soteapaneko, Zoque (Soteapan)]
 population: 37700

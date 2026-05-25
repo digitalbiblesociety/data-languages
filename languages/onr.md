@@ -1,6 +1,8 @@
 ---
 iso: onr
 name: Northern One
+name_zh: 北翁语
+name_zh_auto: true
 autonym: Aunalei
 alt_names: [Inebu One, Kabore One, Kuamtim, Kwamtim One, Molmo One, One, "One, Northern", Onele, Oni, Southern One]
 population: 2000

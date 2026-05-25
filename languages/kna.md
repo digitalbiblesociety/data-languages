@@ -1,6 +1,8 @@
 ---
 iso: kna
 name: Dera (Nigeria)
+name_zh: 德拉语
+name_zh_auto: true
 autonym: Kanakuru
 alt_names: [Dera, "Dera, Kanakuru"]
 population: 20000

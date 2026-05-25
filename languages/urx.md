@@ -1,6 +1,8 @@
 ---
 iso: urx
 name: Urimo
+name_zh: 乌里莫语
+name_zh_auto: true
 autonym: Yaugiba
 population: 800
 country_id: PG

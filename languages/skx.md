@@ -1,6 +1,8 @@
 ---
 iso: skx
 name: Seko Padang
+name_zh: 塞科帕当语
+name_zh_auto: true
 autonym: Seko
 alt_names: [Sua Tu Padang, Wono]
 population: 5000

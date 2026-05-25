@@ -1,6 +1,8 @@
 ---
 iso: kdl
 name: Tsikimba
+name_zh: 茨基金巴语
+name_zh_auto: true
 autonym: Tsikimba
 alt_names: [Agaushi, Akimba, Auna, Kambari, Kamberchi, Kamberri, Kimba]
 population: 100000

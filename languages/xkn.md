@@ -1,6 +1,8 @@
 ---
 iso: xkn
 name: Kayan River Kayan
+name_zh: 卡扬河卡扬语
+name_zh_auto: true
 autonym: Kajan
 alt_names: [Kajang, Kayan River Kajan, "Kayan, Kayan River"]
 population: 2000

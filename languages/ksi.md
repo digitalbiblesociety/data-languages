@@ -1,6 +1,8 @@
 ---
 iso: ksi
 name: Krisa
+name_zh: 克里萨语
+name_zh_auto: true
 autonym: Krisa
 alt_names: ["I'saka", "I'saka language", Isaka, Krisa jezik, 이사카어]
 population: 420

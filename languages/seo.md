@@ -1,6 +1,8 @@
 ---
 iso: seo
 name: Suarmin
+name_zh: 苏阿明语
+name_zh_auto: true
 autonym: Asaba
 alt_names: [Akiapmin, Duranmin, Suarmín, Wani]
 population: 140

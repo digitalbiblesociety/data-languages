@@ -1,6 +1,8 @@
 ---
 iso: pnq
 name: Pana (Burkina Faso)
+name_zh: 帕纳语(布基纳法索)
+name_zh_auto: true
 autonym: Sama
 alt_names: [Pana]
 population: 5000

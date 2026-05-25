@@ -1,6 +1,8 @@
 ---
 iso: hkh
 name: Khah
+name_zh: 卡语
+name_zh_auto: true
 alt_names: [Poguli]
 country_id: IN
 country_name: India

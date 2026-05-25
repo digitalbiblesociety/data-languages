@@ -1,6 +1,8 @@
 ---
 iso: pxm
 name: Quetzaltepec Mixe
+name_zh: 克特萨尔特佩克米克斯语
+name_zh_auto: true
 autonym: Central Mixe
 alt_names: ["Mixe, Quetzaltepec"]
 population: 6700

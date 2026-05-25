@@ -1,6 +1,8 @@
 ---
 iso: obu
 name: Obulom
+name_zh: 奥布洛姆语
+name_zh_auto: true
 autonym: Abuloma
 alt_names: [Obulomic, Obulum]
 population: 3420

@@ -1,6 +1,8 @@
 ---
 iso: sej
 name: Sene
+name_zh: 塞内语
+name_zh_auto: true
 autonym: null
 population: null
 country_id: PG

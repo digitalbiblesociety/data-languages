@@ -1,6 +1,8 @@
 ---
 iso: gnm
 name: Ginuman
+name_zh: 吉努曼语
+name_zh_auto: true
 autonym: Dime
 population: 1442
 country_id: PG

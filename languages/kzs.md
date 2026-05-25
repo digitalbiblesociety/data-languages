@@ -1,6 +1,8 @@
 ---
 iso: kzs
 name: Sugut Dusun
+name_zh: 苏古特杜顺语
+name_zh_auto: true
 autonym: Dusun
 alt_names: ["Dusun, Sugut", Kadayan, Sugut, Sugut Kadazan, Tanggal, Tilau-Ilau]
 population: 12200

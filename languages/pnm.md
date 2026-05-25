@@ -1,6 +1,8 @@
 ---
 iso: pnm
 name: Punan Batu 1
+name_zh: 普南巴图1号语
+name_zh_auto: true
 autonym: Punan Batu 1
 alt_names: [Punan batu]
 population: 30

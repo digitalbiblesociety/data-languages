@@ -1,6 +1,8 @@
 ---
 iso: bxq
 name: Beele
+name_zh: 贝埃莱语
+name_zh_auto: true
 autonym: Àɓéelé
 alt_names: [Bele, Bellawa, Àbéélé]
 population: 120

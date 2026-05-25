@@ -1,6 +1,8 @@
 ---
 iso: ksj
 name: Uare
+name_zh: 乌亚雷语
+name_zh_auto: true
 autonym: Kwale
 alt_names: [Kware]
 population: 1300

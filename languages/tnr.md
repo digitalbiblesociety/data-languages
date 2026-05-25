@@ -1,6 +1,8 @@
 ---
 iso: tnr
 name: Ménik
+name_zh: 梅尼克语
+name_zh_auto: true
 autonym: Ménik
 alt_names: [Bande, Basari du Bandemba, Bedik, Budik, Menik, Tandanke, Tenda, Tendanke]
 population: 3380

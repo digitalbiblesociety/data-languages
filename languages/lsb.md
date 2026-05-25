@@ -1,6 +1,8 @@
 ---
 iso: lsb
 name: Burundian Sign Language
+name_zh: 布隆迪手语
+name_zh_auto: true
 autonym: Langue des Signes Burundaise
 population: 5000
 country_id: BI

@@ -1,6 +1,8 @@
 ---
 iso: ppm
 name: Papuma
+name_zh: 帕普玛语
+name_zh_auto: true
 autonym: bahasa Papuma
 alt_names: [Indonesia]
 population: 600

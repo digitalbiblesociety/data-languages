@@ -1,6 +1,8 @@
 ---
 iso: sez
 name: Senthang Chin
+name_zh: 森塘钦语
+name_zh_auto: true
 autonym: Hsemtang
 alt_names: ["Chin, Senthang", "Chin,Senthang", Hsemtung, Senthang]
 population: 33000

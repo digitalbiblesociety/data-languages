@@ -1,6 +1,8 @@
 ---
 iso: tfo
 name: Tefaro
+name_zh: 特法罗语
+name_zh_auto: true
 autonym: Demba
 population: 100
 country_id: ID

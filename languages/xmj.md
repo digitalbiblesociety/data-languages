@@ -1,6 +1,8 @@
 ---
 iso: xmj
 name: Majera
+name_zh: 马杰拉语
+name_zh_auto: true
 autonym: Mazera
 alt_names: ["Da'a", Daa, Mayera, "Mida'a", Midah]
 population: 500

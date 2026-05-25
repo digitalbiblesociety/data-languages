@@ -1,6 +1,8 @@
 ---
 iso: drc
 name: Minderico
+name_zh: 米恩德里科语
+name_zh_auto: true
 autonym: Piação do Ninhou
 alt_names: [Minde]
 population: 500

@@ -1,6 +1,8 @@
 ---
 iso: kcy
 name: Korandje
+name_zh: 科兰杰语
+name_zh_auto: true
 autonym: Kwarandzyey
 alt_names: [Belbali, Korandje jezik, Korandjeg, Korandjé, Tabelbala, lbəlbaliyya, البلبالية‎‎]
 population: 3000

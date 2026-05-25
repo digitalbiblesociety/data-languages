@@ -1,6 +1,8 @@
 ---
 iso: ife
 name: Ifè
+name_zh: 伊费语
+name_zh_auto: true
 autonym: Ana
 alt_names: [Ana-Ife, Ana-Ifé, Anago, Baate, Ede Ife, Ife]
 population: 170600

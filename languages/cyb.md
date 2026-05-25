@@ -1,6 +1,8 @@
 ---
 iso: cyb
 name: Cayubaba
+name_zh: 卡尤巴巴语
+name_zh_auto: true
 autonym: Kayuvava
 alt_names: [Cavuhaba, Cayuvava, Cayuwaba]
 population: null

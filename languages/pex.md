@@ -1,6 +1,8 @@
 ---
 iso: pex
 name: Petats
+name_zh: 佩塔茨语
+name_zh_auto: true
 autonym: Majugan
 alt_names: [Petats language]
 population: 6340

@@ -1,6 +1,8 @@
 ---
 iso: tkm
 name: Takelma
+name_zh: 塔克尔玛语
+name_zh_auto: true
 autonym: "Ta:kɛlmàʔn"
 alt_names: [Idioma takelman, Lowland Takelma, Takelma hizkuntza, Takelman, Takelmeg, Takilma, Takilman, Такелма]
 population: null

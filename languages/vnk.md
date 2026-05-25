@@ -1,6 +1,8 @@
 ---
 iso: vnk
 name: Vano
+name_zh: 瓦诺语
+name_zh_auto: true
 autonym: Alavana
 alt_names: [Lovono, Vanikolo, Vanikoro]
 population: null

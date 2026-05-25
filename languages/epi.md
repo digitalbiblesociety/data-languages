@@ -1,6 +1,8 @@
 ---
 iso: epi
 name: Epie
+name_zh: 埃皮语
+name_zh_auto: true
 autonym: "Epie-Atissa"
 alt_names: [Epie language]
 population: 12000

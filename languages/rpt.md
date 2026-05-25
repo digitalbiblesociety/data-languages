@@ -1,6 +1,8 @@
 ---
 iso: rpt
 name: Rapting
+name_zh: 拉普廷语
+name_zh_auto: true
 autonym: null
 population: 330
 country_id: PG

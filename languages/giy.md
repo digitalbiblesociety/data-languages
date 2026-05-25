@@ -1,6 +1,8 @@
 ---
 iso: giy
 name: Giyug
+name_zh: 吉尤格语
+name_zh_auto: true
 autonym: Kiyuk
 alt_names: [Australia]
 population: 2

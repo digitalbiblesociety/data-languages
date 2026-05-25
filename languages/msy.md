@@ -1,6 +1,8 @@
 ---
 iso: msy
 name: Aruamu
+name_zh: 阿鲁阿穆语
+name_zh_auto: true
 autonym: Mikarew
 alt_names: [Ariawia, Ariawiai, Gumasi, Makarub, Makarup, Mikarew-Ariaw, Mikarup, Misegian]
 population: 8000

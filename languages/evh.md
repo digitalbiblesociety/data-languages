@@ -1,6 +1,8 @@
 ---
 iso: evh
 name: Uvbie
+name_zh: 乌夫比语
+name_zh_auto: true
 autonym: Evrie
 alt_names: ["\"Evhro\"", Effurun, Uvhria, Uvwie]
 population: 19800

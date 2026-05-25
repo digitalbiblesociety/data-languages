@@ -1,6 +1,8 @@
 ---
 iso: xnq
 name: Ngoni (Mozambique)
+name_zh: 莫桑比克恩戈尼语
+name_zh_auto: true
 autonym: Xingoni
 country_id: MZ
 country_name: Mozambique

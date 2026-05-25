@@ -1,6 +1,8 @@
 ---
 iso: kqu
 name: Seroa
+name_zh: 塞罗亚语
+name_zh_auto: true
 autonym: Seroa
 population: null
 country_id: ZA

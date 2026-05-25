@@ -1,6 +1,8 @@
 ---
 iso: sct
 name: Southern Katang
+name_zh: 南方卡塘语
+name_zh_auto: true
 autonym: null
 alt_names: ["Katang, Southern"]
 population: null

@@ -1,6 +1,8 @@
 ---
 iso: psm
 name: Pauserna
+name_zh: 保塞尔纳语
+name_zh_auto: true
 autonym: Guarasugwé
 alt_names: [Guarasu, Guarasugwe, Guarayu-Ta, Paucerne, Pauserna-Guarasugwé]
 population: 2017

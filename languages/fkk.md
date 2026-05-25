@@ -1,6 +1,8 @@
 ---
 iso: fkk
 name: "Kirya-Konzəl"
+name_zh: 基尔亚-康泽语
+name_zh_auto: true
 autonym: Fali
 population: 5800
 country_id: NG

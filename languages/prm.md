@@ -1,6 +1,8 @@
 ---
 iso: prm
 name: Kibiri
+name_zh: 基比里语
+name_zh_auto: true
 autonym: Kibiri
 alt_names: [Gibiri, Kibiri-Porome, Kibirieg, Polome, Porome, Porome language]
 population: 1100

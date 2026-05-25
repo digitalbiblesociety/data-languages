@@ -1,6 +1,8 @@
 ---
 iso: pgi
 name: Pagi
+name_zh: 帕吉语
+name_zh_auto: true
 autonym: Bembi
 alt_names: [Pagei]
 population: 2140

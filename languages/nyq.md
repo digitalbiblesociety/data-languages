@@ -1,6 +1,8 @@
 ---
 iso: nyq
 name: Nayini
+name_zh: 纳伊尼语
+name_zh_auto: true
 autonym: Biyabanak
 alt_names: [Nayiní]
 population: 7030

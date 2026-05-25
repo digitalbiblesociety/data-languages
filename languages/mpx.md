@@ -1,6 +1,8 @@
 ---
 iso: mpx
 name: "Misima-Panaeati"
+name_zh: 米西玛-帕那埃阿蒂语
+name_zh_auto: true
 autonym: "Misima-Panaeati"
 alt_names: [Misima-Paneati, Panaeati, Panaieti, Panayeti, Paneate, Paneyate]
 population: 20000

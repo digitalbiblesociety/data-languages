@@ -1,6 +1,8 @@
 ---
 iso: cnq
 name: Chung
+name_zh: 中语
+name_zh_auto: true
 autonym: Cung
 alt_names: [Chungmboko]
 population: 1400

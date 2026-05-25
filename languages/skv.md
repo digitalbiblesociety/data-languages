@@ -1,6 +1,8 @@
 ---
 iso: skv
 name: Skou
+name_zh: 斯库语
+name_zh_auto: true
 autonym: Tumawo
 alt_names: [Nuclear Skou, Seko, Sekol, Sekou, Sko, Skouw, Skow, Sukou, Səkou, Te Mawo, Te Máwo pílang nè ne]
 population: 700

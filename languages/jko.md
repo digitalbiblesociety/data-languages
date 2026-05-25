@@ -1,6 +1,8 @@
 ---
 iso: jko
 name: Kubo
+name_zh: 库博语
+name_zh_auto: true
 autonym: null
 population: 1000
 country_id: PG

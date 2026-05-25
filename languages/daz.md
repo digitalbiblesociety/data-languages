@@ -1,6 +1,8 @@
 ---
 iso: daz
 name: Dao
+name_zh: 刀语
+name_zh_auto: true
 autonym: Maniwo
 alt_names: ["\"X-Ray\"", Moi-Wadea]
 population: 250

@@ -1,6 +1,8 @@
 ---
 iso: zka
 name: Kaimbulawa
+name_zh: 凯姆布拉瓦语
+name_zh_auto: true
 autonym: null
 alt_names: [Indonesia]
 population: 2200

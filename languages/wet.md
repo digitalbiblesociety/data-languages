@@ -1,6 +1,8 @@
 ---
 iso: wet
 name: Perai
+name_zh: 佩莱语
+name_zh_auto: true
 autonym: Wetar
 alt_names: [Adabe jezik, Tutunohan, Wetarese languages, ภาษาเวตาร์]
 population: 280

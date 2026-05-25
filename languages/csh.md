@@ -1,6 +1,8 @@
 ---
 iso: csh
 name: Asho Chin
+name_zh: 阿肖钦语
+name_zh_auto: true
 autonym: Asho
 alt_names: [A-shö, Ashu, Ašo, Chin (Asho), Chin (South), "Chin, Asho", "Chin,Asho", Chinbon, Hyow, Khyang, Khyeng, Kyang, Lemyo, Minbu, Qin, Sho, Shoa, Shö, Thayetmo, Śo]
 population: 174000

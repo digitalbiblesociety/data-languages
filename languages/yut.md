@@ -1,6 +1,8 @@
 ---
 iso: yut
 name: Yopno
+name_zh: 约普诺语
+name_zh_auto: true
 autonym: null
 alt_names: [Isan, Jupna Valley, Kewieng, Nokopo, Wandabong, Yupna]
 population: 7200

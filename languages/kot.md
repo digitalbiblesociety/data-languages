@@ -1,6 +1,8 @@
 ---
 iso: kot
 name: Lagwan
+name_zh: 拉甘语
+name_zh_auto: true
 autonym: Logone
 alt_names: [Kotoko-Logone, Lagouane, Lagwan Kotoko, Lagwane, Logone-Birni Kotoko]
 population: 1500

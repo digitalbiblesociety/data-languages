@@ -1,6 +1,8 @@
 ---
 iso: brn
 name: Boruca
+name_zh: 博鲁卡语
+name_zh_auto: true
 autonym: Bronca
 alt_names: [Boruka, Borunca, Borunka, Brunca, Brunka, Brúncajc, Brúnkajk, Burnca, Burunca]
 population: 1000

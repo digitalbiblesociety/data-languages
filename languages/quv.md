@@ -1,6 +1,8 @@
 ---
 iso: quv
 name: Sacapulteco
+name_zh: 萨卡普尔特科语
+name_zh_auto: true
 autonym: Sacapulteco
 alt_names: [Idioma sacapulteco, Língua sacapulteca, "Sacapulas K'iche'", Sacapultec, Sacapulteeks, Sacapultekisk, Sakapultec, Sakapulteco, Sakapultek language, Sakapulteko, Sakapultèque, Сакапултечки јазик]
 population: 15000

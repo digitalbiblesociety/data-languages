@@ -1,6 +1,8 @@
 ---
 iso: xkb
 name: Northern Nago
+name_zh: 北纳戈语
+name_zh_auto: true
 autonym: Ana
 alt_names: ["Ede Nago, Manigri-Kambolé", Kambolé, Manigri, Manigri-Kambole Ede Nago, "Nago, Northern", Southwest Ede]
 population: 86800

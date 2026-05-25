@@ -1,6 +1,8 @@
 ---
 iso: piy
 name: "Piya-Kwonci"
+name_zh: 皮亚-昆西语
+name_zh_auto: true
 autonym: Ambandi
 alt_names: [Pia, Pitiko, Piya, Wurkum]
 population: 5000

@@ -1,6 +1,8 @@
 ---
 iso: gis
 name: North Giziga
+name_zh: 北吉齐加语
+name_zh_auto: true
 autonym: Dogba
 alt_names: [Gisiga, Gisika, Giziga, Giziga de Maroua, "Giziga, North", Guiziga, Marva, Mi Marva, North and Giziga, South, Tchere]
 population: 20000

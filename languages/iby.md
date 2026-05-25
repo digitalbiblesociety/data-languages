@@ -1,6 +1,8 @@
 ---
 iso: iby
 name: Ibani
+name_zh: 伊巴尼语
+name_zh_auto: true
 autonym: Ibani–Kalabari–Kirike
 alt_names: [Bonny, Ubani, Ịjọ]
 population: 60000

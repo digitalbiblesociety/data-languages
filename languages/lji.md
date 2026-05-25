@@ -1,6 +1,8 @@
 ---
 iso: lji
 name: Laiyolo
+name_zh: 莱约洛语
+name_zh_auto: true
 autonym: "Barang-Barang"
 alt_names: ["Da'ang"]
 population: 250

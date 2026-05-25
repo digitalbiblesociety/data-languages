@@ -1,6 +1,8 @@
 ---
 iso: prf
 name: Paranan
+name_zh: 帕拉南语
+name_zh_auto: true
 autonym: Palanan
 population: 15000
 country_id: PH

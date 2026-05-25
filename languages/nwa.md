@@ -1,6 +1,8 @@
 ---
 iso: nwa
 name: Nawathinehena
+name_zh: 纳瓦蒂涅赫纳语
+name_zh_auto: true
 autonym: "Nawathi'nehena, nawaθiʔnehena"
 alt_names: [Arapaho-Atsina, Northern Arapaho]
 population: null

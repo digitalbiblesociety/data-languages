@@ -1,6 +1,8 @@
 ---
 iso: nnn
 name: Ngete
+name_zh: 恩格特语
+name_zh_auto: true
 autonym: Lame
 alt_names: ["Ka'do Ngueté", "Nge'dé", Nguetté, Ngueté, Zime]
 population: 10000

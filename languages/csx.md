@@ -1,6 +1,8 @@
 ---
 iso: csx
 name: Cambodian Sign Language
+name_zh: 柬埔寨手语
+name_zh_auto: true
 alt_names: [CBDSL, CSL, KSL, Khmer Sign Language]
 population: 7500
 country_id: KH

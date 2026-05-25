@@ -1,6 +1,8 @@
 ---
 iso: vmf
 name: Mainfränkisch
+name_zh: 美因弗兰肯语
+name_zh_auto: true
 autonym: Ostfränkisch
 alt_names: [Franački jezik, Francique oriental, Franconian, Franconio oriental, High Franconian, Main-Franconian, Mainfranksch, Mainfränkische Dialekte, Upper Franconian]
 population: null

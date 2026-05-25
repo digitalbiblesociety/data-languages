@@ -1,6 +1,8 @@
 ---
 iso: ywg
 name: Yinhawangka
+name_zh: 伊因哈旺卡语
+name_zh_auto: true
 autonym: Ngarla
 alt_names: [Inawangga, Inawongga, Ngalawonga, Ngalawongga, Ngarla-warngga, Ngaunmardi. Nalawonga]
 population: 12

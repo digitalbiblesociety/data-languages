@@ -1,6 +1,8 @@
 ---
 iso: aaq
 name: Eastern Abnaki
+name_zh: 东部阿布纳基语
+name_zh_auto: true
 autonym: Wôbanakiôdwawôgan
 alt_names: [Abenaki, Abenakí oriental, Abnaki, "Abnaki, Eastern", Abénaqui oriental, Eastern Abenaki, Istočnoabnački jezik]
 population: null

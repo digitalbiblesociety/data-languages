@@ -1,6 +1,8 @@
 ---
 iso: pep
 name: Kunja
+name_zh: 昆雅语
+name_zh_auto: true
 autonym: Peremka
 alt_names: [Gambadi, Lower Morehead, Thundai-Kanza]
 population: 290

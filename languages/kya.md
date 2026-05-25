@@ -1,6 +1,8 @@
 ---
 iso: kya
 name: Kwaya
+name_zh: 夸亚语
+name_zh_auto: true
 autonym: Kikwaya
 alt_names: [Tanzania]
 population: 100000

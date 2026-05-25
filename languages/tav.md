@@ -1,6 +1,8 @@
 ---
 iso: tav
 name: Tatuyo
+name_zh: 塔图约语
+name_zh_auto: true
 autonym: Wa’ikhana
 alt_names: [Carapana (Brésil), Carapana (Colombia), Carapana (Colombie), Carapana-Tapuya, Carapano, Juna, Karapano, Karapaná, Mextã, Mochda, Moxdoa, Oa, Pamoa, Tatu-tapuya, Tatutapuyo]
 population: 330

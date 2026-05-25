@@ -1,6 +1,8 @@
 ---
 iso: bfh
 name: Blafe
+name_zh: 布拉夫语
+name_zh_auto: true
 autonym: Tonda
 alt_names: [Indorodoro]
 population: 670

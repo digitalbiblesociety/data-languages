@@ -1,6 +1,8 @@
 ---
 iso: skn
 name: Kolibugan Subanon
+name_zh: 科利布甘苏巴农语
+name_zh_auto: true
 autonym: " Subanun"
 alt_names: [Calibugan, Kalibugan, Kolibugan, "Subanon, Kolibugan"]
 population: 25100

@@ -1,6 +1,8 @@
 ---
 iso: zos
 name: Francisco León Zoque
+name_zh: 弗朗西斯科莱昂索克语
+name_zh_auto: true
 autonym: "Zoque, Francisco León"
 alt_names: [Chiapas Soke, Francisco Leon, Francisco Leon Zoque, Francisco León, Magdalena, North Zoque, Santa Magdalena Zoque, Soke, Sokean, Zoque, Zoque (Francisco Lain), Zoque (Francisco León), Zoque de Francisco León]
 population: 20000

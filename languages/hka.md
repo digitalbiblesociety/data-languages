@@ -1,6 +1,8 @@
 ---
 iso: hka
 name: Kahe
+name_zh: 卡赫语
+name_zh_auto: true
 autonym: Kikahe
 alt_names: [Tanzania]
 population: 2700

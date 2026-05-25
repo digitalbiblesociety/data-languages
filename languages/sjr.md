@@ -1,6 +1,8 @@
 ---
 iso: sjr
 name: "Siar-Lak"
+name_zh: 西亚尔-拉克语
+name_zh_auto: true
 autonym: Lak
 alt_names: [Lamassa, Lambom, Siar]
 population: 2500

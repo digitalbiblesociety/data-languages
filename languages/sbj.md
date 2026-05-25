@@ -1,6 +1,8 @@
 ---
 iso: sbj
 name: Surbakhal
+name_zh: 苏巴卡尔语
+name_zh_auto: true
 autonym: Sourbakhal
 population: 7890
 country_id: TD

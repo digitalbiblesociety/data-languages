@@ -1,6 +1,8 @@
 ---
 iso: sib
 name: Sebop
+name_zh: 塞博普语
+name_zh_auto: true
 autonym: Cebop
 alt_names: ["Kenyah, Sebob", Sabup, Sambup, Sebob, Sibop]
 population: 1730

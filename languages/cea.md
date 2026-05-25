@@ -1,6 +1,8 @@
 ---
 iso: cea
 name: Lower Chehalis
+name_zh: 下切哈利斯语
+name_zh_auto: true
 autonym: Łəw̓ál̕məš
 alt_names: [Bas-chehalis, "Chehalis, Lower", Chehalí bajo, ɬəwʼálʼməš]
 population: null

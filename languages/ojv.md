@@ -1,6 +1,8 @@
 ---
 iso: ojv
 name: Ontong Java
+name_zh: 昂通-爪哇语
+name_zh_auto: true
 autonym: Luangiua
 alt_names: [Leuangiua, Lord Howe, Ongtong Java]
 population: 2370

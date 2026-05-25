@@ -1,6 +1,8 @@
 ---
 iso: srl
 name: Isirawa
+name_zh: 伊西拉瓦语
+name_zh_auto: true
 autonym: Saberi
 alt_names: [Okwasar, Saweri, Sawuri-Hablifuri]
 population: 1800

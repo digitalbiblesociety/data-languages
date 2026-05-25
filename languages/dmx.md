@@ -1,6 +1,8 @@
 ---
 iso: dmx
 name: Dema
+name_zh: 德玛语
+name_zh_auto: true
 autonym: vaDoma
 population: 5000
 country_id: MZ

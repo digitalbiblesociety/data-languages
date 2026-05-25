@@ -1,6 +1,8 @@
 ---
 iso: pla
 name: Miani
+name_zh: 米亚尼语
+name_zh_auto: true
 autonym: Tani
 alt_names: [Bonaputa-Mapu, Bonaputa-Mopu, Miani North]
 population: 1500

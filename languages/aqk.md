@@ -1,6 +1,8 @@
 ---
 iso: aqk
 name: Aninka
+name_zh: 阿尼卡语
+name_zh_auto: true
 autonym: Nka
 population: 500
 country_id: NG

@@ -1,6 +1,8 @@
 ---
 iso: dib
 name: South Central Dinka
+name_zh: 南中丁卡语
+name_zh_auto: true
 autonym: Thuɔŋjäŋ
 alt_names: [Agar, Central Dinka, Dinka, "Dinka, South Central", Mittel-Dinka]
 population: 851000

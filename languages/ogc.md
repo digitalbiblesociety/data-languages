@@ -1,6 +1,8 @@
 ---
 iso: ogc
 name: Ogbah
+name_zh: 奥格巴语
+name_zh_auto: true
 autonym: Ogba
 alt_names: [Ogba language]
 population: 317000

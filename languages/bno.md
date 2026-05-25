@@ -1,6 +1,8 @@
 ---
 iso: bno
 name: Bantoanon
+name_zh: 班托亚农语
+name_zh_auto: true
 autonym: Asi
 alt_names: [Asiq, Asímál, Bisaya, ภาษาอาซี]
 population: 75000

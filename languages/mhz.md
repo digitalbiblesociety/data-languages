@@ -1,6 +1,8 @@
 ---
 iso: mhz
 name: Mor (Mor Islands)
+name_zh: 莫尔语（莫尔群岛）
+name_zh_auto: true
 autonym: Austronesian Mor
 alt_names: [Mor, "Mor (Mor Islands, Indonesia)"]
 population: 700

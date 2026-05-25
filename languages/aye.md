@@ -1,6 +1,8 @@
 ---
 iso: aye
 name: Ayere
+name_zh: 艾耶雷语
+name_zh_auto: true
 autonym: Uwu
 population: 3000
 country_id: NG

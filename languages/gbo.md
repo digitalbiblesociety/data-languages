@@ -1,6 +1,8 @@
 ---
 iso: gbo
 name: Northern Grebo
+name_zh: 北格雷博语
+name_zh_auto: true
 autonym: Kréébo
 alt_names: [Grebo, "Grebo, Northern"]
 population: 150000

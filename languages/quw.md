@@ -1,6 +1,8 @@
 ---
 iso: quw
 name: Tena Lowland Quichua
+name_zh: 特纳低地基楚亚语
+name_zh_auto: true
 autonym: Kichwa Shimi
 alt_names: [Calderón, Cañar Highland Quichua, Chimborazo, Cotopaxi Quichua., Ecuador, Ecuador Quechua, Highland Ecuadorian Quichua, Imbabura Quichua, Kichua, Loja, Napo Quichua, Northern Pastaza Quichua, Quichua, "Quichua, Tena Lowland", Salasca, Tena Quichua, Yumbo]
 population: 20000

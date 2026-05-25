@@ -1,6 +1,8 @@
 ---
 iso: nyj
 name: Nyanga
+name_zh: 尼昂加语
+name_zh_auto: true
 autonym: Kinyanga
 alt_names: [Inyanga]
 population: 150000

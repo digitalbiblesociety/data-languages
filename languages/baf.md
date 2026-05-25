@@ -1,6 +1,8 @@
 ---
 iso: baf
 name: Nubaca
+name_zh: 努巴卡语
+name_zh_auto: true
 autonym: Nubaca
 alt_names: [Baca, Bango, Bongo, Nu Baca]
 population: 4500

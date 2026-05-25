@@ -1,6 +1,8 @@
 ---
 iso: laj
 name: Lango (Uganda)
+name_zh: 兰戈语(乌干达)
+name_zh_auto: true
 autonym: Lwo
 alt_names: [Langi, Lango, Lango language, Leb-Lano, Lengua Lango, Lwoo, Língua langu, Ланго]
 population: 2130000

@@ -1,6 +1,8 @@
 ---
 iso: siq
 name: Sonia
+name_zh: 索尼亚语
+name_zh_auto: true
 autonym: null
 population: 300
 country_id: PG

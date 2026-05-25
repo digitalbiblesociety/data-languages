@@ -1,6 +1,8 @@
 ---
 iso: mgd
 name: Moru
+name_zh: 莫鲁语
+name_zh_auto: true
 autonym: Kala Moru
 population: 230000
 country_id: SS

@@ -1,6 +1,8 @@
 ---
 iso: bkq
 name: Bakairí
+name_zh: 巴凯里语
+name_zh_auto: true
 autonym: Bacairí
 alt_names: [Bakairi, Kura, Kurâ]
 population: 950

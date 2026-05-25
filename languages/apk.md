@@ -1,6 +1,8 @@
 ---
 iso: apk
 name: Kiowa Apache
+name_zh: 基奥瓦阿帕奇语
+name_zh_auto: true
 autonym: Kiowa Apache
 alt_names: [Apache, Apache de Kiowa, Apache des Plaines, "Apache, Kiowa", Kiowa, Kiowa-Apache, Llanero, "Na'isha", Na-isha, Oklahoma Apache, Plains Apache, Plains Apache language]
 population: 1000

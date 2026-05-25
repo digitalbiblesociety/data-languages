@@ -1,6 +1,8 @@
 ---
 iso: nuq
 name: Nukumanu
+name_zh: 努库马努语
+name_zh_auto: true
 autonym: Tasman
 population: 700
 country_id: PG

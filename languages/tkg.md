@@ -1,6 +1,8 @@
 ---
 iso: tkg
 name: Tesaka Malagasy
+name_zh: 特萨卡马拉加斯语
+name_zh_auto: true
 autonym: malagasy
 alt_names: ["Malagasy, Tesaka"]
 population: 1969000

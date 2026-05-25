@@ -1,6 +1,8 @@
 ---
 iso: rsn
 name: Rwandan Sign Language
+name_zh: 卢旺达手语
+name_zh_auto: true
 population: 33700
 country_id: RW
 country_name: Rwanda

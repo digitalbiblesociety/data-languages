@@ -1,6 +1,8 @@
 ---
 iso: nhh
 name: Nahari
+name_zh: 纳哈里语
+name_zh_auto: true
 autonym: Nahali
 alt_names: [ภาษานาฮารี]
 population: 20400

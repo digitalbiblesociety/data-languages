@@ -1,6 +1,8 @@
 ---
 iso: mdd
 name: Mbum
+name_zh: 姆蒙语
+name_zh_auto: true
 autonym: West Mbum
 alt_names: [Buna, Mboum, Mboumtiba, "Mbum (East), Mbum (West)", Wuna]
 population: 511000

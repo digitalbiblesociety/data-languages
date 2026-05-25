@@ -1,6 +1,8 @@
 ---
 iso: ckh
 name: Chak
+name_zh: 恰克语
+name_zh_auto: true
 autonym: Cak
 alt_names: [Sak, Sak (Bangladesh), Sak (Myanmar)]
 population: 20000

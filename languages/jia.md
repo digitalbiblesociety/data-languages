@@ -1,6 +1,8 @@
 ---
 iso: jia
 name: Jina
+name_zh: 吉纳语
+name_zh_auto: true
 autonym: Zina
 alt_names: [Zine]
 population: 1500

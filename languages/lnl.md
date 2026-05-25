@@ -1,6 +1,8 @@
 ---
 iso: lnl
 name: South Central Banda
+name_zh: 南中班达语
+name_zh_auto: true
 autonym: null
 alt_names: [Banda, Banda 1st division, "Banda, South Central"]
 population: 153000

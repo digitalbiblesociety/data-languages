@@ -1,6 +1,8 @@
 ---
 iso: mep
 name: Miriwoong
+name_zh: 米里乌翁语
+name_zh_auto: true
 autonym: Merong
 alt_names: [Lenga miriwung, Mariu, Mariyung, Mireau, Miriung, Miriwong, Miriwoong / Miriuwung, Miriwu, Miriwun, Miriwung, Mirong, Mirriwong, Mirung, Moreng]
 population: 110

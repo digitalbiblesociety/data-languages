@@ -1,6 +1,8 @@
 ---
 iso: dyy
 name: Djabugay
+name_zh: 詹布盖语
+name_zh_auto: true
 autonym: "Bulum-Bulum"
 alt_names: [Barron River dialect, Binggu, Check-Cull, Chewlie, Djabugai, Dyaabugay, Dyabugai, Dyabugandyi, Dyabugay, Hileman, Kikonjunkulu, Kodgotto, Koko-Tjumbundji, Koko-tjumbun, Kokonjunkulu, Kokonyungalo, Kokoyungalo, Lenga dyaabugay, Ngarlkajie, Njakali, Nyakali, Orlow, Tajbogaijanji, Tjabakai-Thandji, Tjabogaijanji, Tjabogaitjandji, Tjankir, Tjankun, Tjapukai, Tjapukandji, Tjapukanja, Tjapunkandji, Tjunbundji]
 population: 81

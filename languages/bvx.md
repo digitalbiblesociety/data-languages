@@ -1,6 +1,8 @@
 ---
 iso: bvx
 name: Dibole
+name_zh: 迪博莱语
+name_zh_auto: true
 autonym: Dibole
 alt_names: [Babole, Southern Bomitaba]
 population: 4000

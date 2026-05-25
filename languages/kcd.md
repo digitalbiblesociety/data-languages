@@ -1,6 +1,8 @@
 ---
 iso: kcd
 name: Ngkâlmpw Kanum
+name_zh: 恩格卡尔姆普卡努姆语
+name_zh_auto: true
 autonym: Ngkontar
 alt_names: [Enkelembu, Kanum, Kanum (Ngkâlmpw), "Kanum, Ngkâlmpw", Kenume, Knwne, Ngkalmpw Kanum, Ngkâlmpw]
 population: 150

@@ -1,6 +1,8 @@
 ---
 iso: dec
 name: Dagik
+name_zh: 达吉克语
+name_zh_auto: true
 autonym: Dengebu
 alt_names: [Buram, Dagig, Masakin, Masakin Dagig, Masakin Gusar, Reikha]
 population: 61000

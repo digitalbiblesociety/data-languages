@@ -1,6 +1,8 @@
 ---
 iso: dos
 name: Dogosé
+name_zh: 多戈塞语
+name_zh_auto: true
 autonym: Doghose
 alt_names: [Doghosie, Doghosié, Doghosye, Dogose, Dokhobe, Dokhosié, Dorhossié, Dorhosye, Doro Doghosié, Dorobé, Dorosie, Dorossé, Dɔɣɔse]
 population: 20000

@@ -1,6 +1,8 @@
 ---
 iso: ost
 name: Osatu
+name_zh: 奥萨图语
+name_zh_auto: true
 autonym: Ihatum
 alt_names: [Ossatu]
 population: 400

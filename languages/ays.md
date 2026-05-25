@@ -1,6 +1,8 @@
 ---
 iso: ays
 name: Sorsogon Ayta
+name_zh: 索尔索贡艾塔语
+name_zh_auto: true
 autonym: null
 alt_names: [Ayta, Ayta du sud, Ayta meridional, "Ayta, Sorsogon", Sorsogon]
 population: 180

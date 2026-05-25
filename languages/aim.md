@@ -1,6 +1,8 @@
 ---
 iso: aim
 name: Aimol
+name_zh: 艾莫尔语
+name_zh_auto: true
 autonym: null
 alt_names: [Aimal, Langrong]
 population: 2640

@@ -1,6 +1,8 @@
 ---
 iso: swr
 name: Saweru
+name_zh: 萨韦鲁语
+name_zh_auto: true
 autonym: Sarwar Use
 alt_names: [Saweroe]
 population: 300

@@ -1,6 +1,8 @@
 ---
 iso: tng
 name: Tobanga
+name_zh: 托班加语
+name_zh_auto: true
 autonym: Northern Gabri
 alt_names: [Gabri, Gabri-Nord, Gabri-North]
 population: 30000

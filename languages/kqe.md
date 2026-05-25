@@ -1,6 +1,8 @@
 ---
 iso: kqe
 name: Kalagan
+name_zh: 卡拉甘语
+name_zh_auto: true
 autonym: Kagan
 alt_names: [Philippines]
 population: 48900

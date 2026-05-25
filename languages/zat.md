@@ -1,6 +1,8 @@
 ---
 iso: zat
 name: Tabaa Zapotec
+name_zh: 塔巴-萨波特克语
+name_zh_auto: true
 autonym: "Zapotec, Tabaá"
 alt_names: [Cajonos Zapotec, Central Sapoteko, Central Villa Alta Zapotec, Rincón, Sierra de Villa Alta, Villalta (non-preferred), Yalálog, Zapotec, "Zapotec, Tabaa", Zapoteco de San Felipe Tejalápam, Zapoteco de Tabaa, Zapotèque de San Felipe Tejalapan, dill xhon]
 population: 2000

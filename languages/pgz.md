@@ -1,6 +1,8 @@
 ---
 iso: pgz
 name: Papua New Guinean Sign Language
+name_zh: 巴布亚新几内亚手语
+name_zh_auto: true
 autonym: PNGSL
 population: 30000
 country_id: PG

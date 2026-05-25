@@ -1,6 +1,8 @@
 ---
 iso: dgx
 name: Doghoro
+name_zh: 多格罗语
+name_zh_auto: true
 autonym: Bareji
 alt_names: [Dogoro]
 population: 270

@@ -1,6 +1,8 @@
 ---
 iso: kgu
 name: Kobol
+name_zh: 科博尔语
+name_zh_auto: true
 autonym: Koguman
 alt_names: [Kogumar]
 population: 720

@@ -1,6 +1,8 @@
 ---
 iso: lsa
 name: Lasgerdi
+name_zh: 拉斯格迪语
+name_zh_auto: true
 autonym: Läsgerdi
 alt_names: [Semnani]
 population: 1000

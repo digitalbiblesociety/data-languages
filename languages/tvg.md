@@ -1,6 +1,8 @@
 ---
 iso: tvg
 name: Tugunese
+name_zh: 图根内塞语
+name_zh_auto: true
 autonym: Papiá Tugu
 alt_names: [Batavian Portuguese Creole, "Creole, Batavian Portuguese", "Creole, Mardijker", Mardijker Creole]
 country_id: ID

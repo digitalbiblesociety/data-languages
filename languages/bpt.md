@@ -1,6 +1,8 @@
 ---
 iso: bpt
 name: Barrow Point
+name_zh: 巴罗点语
+name_zh_auto: true
 autonym: Mutumui
 alt_names: [Barrow Point language]
 population: null

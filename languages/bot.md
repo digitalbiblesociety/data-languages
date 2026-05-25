@@ -1,6 +1,8 @@
 ---
 iso: bot
 name: Bongo
+name_zh: 博恩戈语
+name_zh_auto: true
 autonym: Bungu
 alt_names: [Dor]
 population: 21000

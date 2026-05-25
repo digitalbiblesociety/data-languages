@@ -1,6 +1,8 @@
 ---
 iso: tcu
 name: Southeastern Tarahumara
+name_zh: 东南塔拉乌马拉语
+name_zh_auto: true
 autonym: "Rarámuri ra'ícha"
 alt_names: [Central, Rocoroibo, Samachique, South-western, Southwestern, Tarahumara, Tarahumara de Chinatú, Tarahumara del Sureste, Tarahumara del Suroeste, Tarahumara du sud-est, Tarahumara suroriental, "Tarahumara, Southeastern", Taraumara, Tubare, Vorohio]
 population: null

@@ -1,6 +1,8 @@
 ---
 iso: gwe
 name: Gweno
+name_zh: 格韦诺语
+name_zh_auto: true
 autonym: Kigweno
 alt_names: [Ghonu, Kighonu]
 population: 2000

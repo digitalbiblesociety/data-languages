@@ -1,6 +1,8 @@
 ---
 iso: mpn
 name: Mindiri
+name_zh: 明迪里语
+name_zh_auto: true
 autonym: null
 alt_names: [Mindiri language]
 population: 80

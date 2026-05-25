@@ -1,6 +1,8 @@
 ---
 iso: mlo
 name: Mlomp
+name_zh: 姆洛姆普语
+name_zh_auto: true
 autonym: Gulompaay
 alt_names: [Mlomp North, Mlompeg]
 population: 5400

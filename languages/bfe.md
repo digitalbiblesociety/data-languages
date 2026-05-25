@@ -1,6 +1,8 @@
 ---
 iso: bfe
 name: Betaf
+name_zh: 贝塔夫语
+name_zh_auto: true
 autonym: Tena
 alt_names: [Tebi]
 population: 600

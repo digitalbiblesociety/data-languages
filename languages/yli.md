@@ -1,6 +1,8 @@
 ---
 iso: yli
 name: Angguruk Yali
+name_zh: 昂古鲁克-亚里语
+name_zh_auto: true
 autonym: Yalimo
 alt_names: [Angguruk, Ngalik, Northern Yali, Yali, "Yali, Angguruk"]
 population: 15000

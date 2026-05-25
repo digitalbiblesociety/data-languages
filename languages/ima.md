@@ -1,6 +1,8 @@
 ---
 iso: ima
 name: Mala Malasar
+name_zh: 玛拉玛拉萨尔语
+name_zh_auto: true
 autonym: Maha Malasar
 alt_names: [Malai Malasar, "Malasar, Mala", Malasir]
 population: 1000

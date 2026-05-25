@@ -1,6 +1,8 @@
 ---
 iso: xby
 name: Batjala
+name_zh: 巴奇亚拉语
+name_zh_auto: true
 autonym: Kabikabi
 alt_names: [Batyala]
 population: null

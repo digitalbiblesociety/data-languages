@@ -1,6 +1,8 @@
 ---
 iso: tmj
 name: Samarokena
+name_zh: 萨马罗克纳语
+name_zh_auto: true
 autonym: Tamaja
 alt_names: [Karfasia, Samarkena, Tamaya]
 population: 400

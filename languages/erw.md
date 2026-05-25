@@ -1,6 +1,8 @@
 ---
 iso: erw
 name: Erokwanas
+name_zh: 埃罗克瓦纳斯语
+name_zh_auto: true
 autonym: bahasa Erokwanas
 population: 200
 country_id: ID

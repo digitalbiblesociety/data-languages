@@ -1,6 +1,8 @@
 ---
 iso: quy
 name: Ayacucho Quechua
+name_zh: 阿亚库乔克丘亚语
+name_zh_auto: true
 autonym: Chanka runasimi
 alt_names: [Ayacucho, Ayacucho Kechua, Ayacucho-Chanka, Chanka, Chanka-Quechua, Chinchaysuyo, Northern Quechua, Quechua (Ayacucho), Quechua A, Quechua ayacuchano, "Quechua d'Ayacucho", Quechua de Ayacucho, "Quechua, Ayacucho", Runasimi, Аякучанский кечуа]
 population: 900000

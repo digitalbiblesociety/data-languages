@@ -1,6 +1,8 @@
 ---
 iso: knw
 name: "Kung-Ekoka"
+name_zh: 功-埃科卡语
+name_zh_auto: true
 autonym: Western ǃXuun
 alt_names: ["!Hu", "!Khung", "!Ku", "!Kung", "!Kung, Qxû", "!Xu", "!Xun", "!Xun (Ekoka)", "!Xung", Ekoka, "Ekoka-!Xû", Ju, Kung, Qxü, "Qxü !Khung"]
 population: 1760

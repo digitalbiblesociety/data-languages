@@ -1,6 +1,8 @@
 ---
 iso: tms
 name: Tima
+name_zh: 蒂玛语
+name_zh_auto: true
 autonym: Domurik
 alt_names: [Lomorik, Lomuriki, Tamanik, Yibwa]
 population: null

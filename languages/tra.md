@@ -1,6 +1,8 @@
 ---
 iso: tra
 name: Tirahi
+name_zh: 蒂拉希语
+name_zh_auto: true
 autonym: "Tirāhī, Dardu"
 alt_names: [Dardu, Tirahí, Tirāhī]
 population: 100

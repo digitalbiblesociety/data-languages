@@ -1,6 +1,8 @@
 ---
 iso: xmd
 name: Mbudum
+name_zh: 姆布杜姆语
+name_zh_auto: true
 autonym: Mbədam
 alt_names: [Cameroon, Mbedam, Mbedam language]
 population: 6000

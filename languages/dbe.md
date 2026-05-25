@@ -1,6 +1,8 @@
 ---
 iso: dbe
 name: Dabe
+name_zh: 达贝语
+name_zh_auto: true
 autonym: bahasa Dabe
 alt_names: [Mangambilis]
 population: 440

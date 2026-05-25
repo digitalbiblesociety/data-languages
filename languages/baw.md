@@ -1,6 +1,8 @@
 ---
 iso: baw
 name: "Bambili-Bambui"
+name_zh: 邦比利-邦布伊语
+name_zh_auto: true
 autonym: Bambili
 alt_names: [Bambui, Mbele, Mbili, Mbogoe]
 population: 10000

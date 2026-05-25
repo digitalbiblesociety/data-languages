@@ -1,6 +1,8 @@
 ---
 iso: nku
 name: Bouna Kulango
+name_zh: 博纳库拉戈语
+name_zh_auto: true
 autonym: Nkuraeng
 alt_names: [Bouna Koulango, Buna Kulango, Koulango, Kulange, Kulango, "Kulango, Bouna", Nkurange]
 population: 29900

@@ -1,6 +1,8 @@
 ---
 iso: kty
 name: "Kango (Bas-Uélé District)"
+name_zh: 坎戈语(巴斯-韦莱区)
+name_zh_auto: true
 autonym: Likango
 alt_names: [Kango, Kango (Bas-Uele District)]
 population: 5900

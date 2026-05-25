@@ -1,6 +1,8 @@
 ---
 iso: ptp
 name: Patep
+name_zh: 帕特普语
+name_zh_auto: true
 autonym: null
 alt_names: [Buang, Dengalu, Mumeng, Ptep]
 population: 1700

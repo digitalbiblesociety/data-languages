@@ -1,6 +1,8 @@
 ---
 iso: xty
 name: Yoloxochitl Mixtec
+name_zh: 约洛克索奇特尔-米斯特克语
+name_zh_auto: true
 autonym: Mixteco de Yoloxóchitl
 alt_names: [Alacatlatzala Mixtec, Alcozauca Mixtec, Central Misteko, Guerrero Mixtec, Highland Guerrero Mixtec, Metlatónoc Mixtec, "Mixtec, Yoloxochitl", Mixteco de Alacatlatzala, Mixteco de Alocozauca, Mixteco de Xochapa, Southern Misteko, Southern Mixteco, To’on Savi, Yoloxóchitl Mixtec]
 population: 2540

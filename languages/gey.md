@@ -1,6 +1,8 @@
 ---
 iso: gey
 name: Enya
+name_zh: 埃尼亚语
+name_zh_auto: true
 autonym: Genya
 alt_names: [Ena, Tsheenya]
 population: 15000

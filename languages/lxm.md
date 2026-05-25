@@ -1,6 +1,8 @@
 ---
 iso: lxm
 name: Lakurumau
+name_zh: 拉库鲁毛语
+name_zh_auto: true
 autonym: Lakurumau
 alt_names: [Lakuramau, Laxudamau, Loxodumau]
 population: 800

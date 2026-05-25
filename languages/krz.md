@@ -1,6 +1,8 @@
 ---
 iso: krz
 name: Sota Kanum
+name_zh: 索塔卡努姆语
+name_zh_auto: true
 autonym: Sota
 alt_names: [Enkelembu, Kanum, "Kanum, Sota", Kenume, Knwne]
 population: 100

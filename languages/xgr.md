@@ -1,6 +1,8 @@
 ---
 iso: xgr
 name: Garza
+name_zh: 加尔扎语
+name_zh_auto: true
 autonym: Meakán
 population: null
 country_id: MX

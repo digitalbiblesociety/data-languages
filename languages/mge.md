@@ -1,6 +1,8 @@
 ---
 iso: mge
 name: Mango
+name_zh: 芒戈语
+name_zh_auto: true
 autonym: Doba
 alt_names: [Matepi, Mbay Doba, Mongo]
 population: 96000

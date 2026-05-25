@@ -1,6 +1,8 @@
 ---
 iso: pip
 name: Pero
+name_zh: 佩罗语
+name_zh_auto: true
 autonym: Péerò
 alt_names: ["Chong'e", Chonge, Filiya, Goji, Kushe, Kushi, Pipero]
 population: 25000

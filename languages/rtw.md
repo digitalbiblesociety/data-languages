@@ -1,6 +1,8 @@
 ---
 iso: rtw
 name: Rathawi
+name_zh: 拉塔威语
+name_zh_auto: true
 autonym: "Bal-La"
 alt_names: [Kohelia]
 population: 451000

@@ -1,6 +1,8 @@
 ---
 iso: pud
 name: Punan Aput
+name_zh: 普南阿普特语
+name_zh_auto: true
 autonym: Punan Aput
 alt_names: [Aput]
 population: 370

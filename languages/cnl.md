@@ -1,6 +1,8 @@
 ---
 iso: cnl
 name: Lalana Chinantec
+name_zh: 拉拉纳奇南特克语
+name_zh_auto: true
 autonym: "Chinantec, Lalana"
 alt_names: [Chinantec, Chinanteco, Chinanteco de San Juan Lalana, Chinanteco del sureste bajo, Chinanteko, Lalana, Lalana Chinanteko, Lower Southeastern Chinantec, "jujmi dsa m+ta'o", "jujmi dsa maji'i"]
 population: 10700

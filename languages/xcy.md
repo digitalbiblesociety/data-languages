@@ -1,6 +1,8 @@
 ---
 iso: xcy
 name: Cayuse
+name_zh: 凯尤斯语
+name_zh_auto: true
 autonym: Liksiyu
 alt_names: [Cailloux, Idioma cayuse, Willetpoos, Каюсе]
 population: null

@@ -1,6 +1,8 @@
 ---
 iso: adh
 name: Adhola
+name_zh: 阿德霍拉语
+name_zh_auto: true
 autonym: japadhola
 alt_names: [Adhola jezik, Dhopadhola, Jopadhola, Jopadhɔla, Ludama]
 population: 482000

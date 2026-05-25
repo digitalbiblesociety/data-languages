@@ -1,6 +1,8 @@
 ---
 iso: cav
 name: Cavineña
+name_zh: 卡维涅尼亚语
+name_zh_auto: true
 autonym: null
 alt_names: [Cavinena, Kavinenya, Kawiña simi, Кавиненья]
 population: 600

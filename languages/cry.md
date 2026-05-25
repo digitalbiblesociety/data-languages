@@ -1,6 +1,8 @@
 ---
 iso: cry
 name: Cori
+name_zh: 科里语
+name_zh_auto: true
 autonym: Chori
 alt_names: [Cori language]
 population: 1000

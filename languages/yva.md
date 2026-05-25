@@ -1,6 +1,8 @@
 ---
 iso: yva
 name: Yawa
+name_zh: 亚瓦语
+name_zh_auto: true
 autonym: Yava
 alt_names: [Iau, Mantembu, Mora, Turu, Yapanani]
 population: 10000

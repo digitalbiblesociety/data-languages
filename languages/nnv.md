@@ -1,6 +1,8 @@
 ---
 iso: nnv
 name: Nugunu (Australia)
+name_zh: 努古努语
+name_zh_auto: true
 autonym: Doora
 alt_names: [Barutadura, Eura, Lenga nugunu, Njuguna, Nokunna, Noocoona, Nookoona, Nu guna, Nu-guna, Nuguna, Nugunu, Nukana, Nukuna, Nukunna, Nukunnu, Nukunu, Nukunu language, Other Australian Indigenous Languages, Pukunna, Tjura, Tura, Tyra, Tyura, Wallaroo, Warra, Wongaidja, Wongaidya]
 population: null

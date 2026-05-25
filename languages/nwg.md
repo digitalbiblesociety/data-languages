@@ -1,6 +1,8 @@
 ---
 iso: nwg
 name: Ngayawung
+name_zh: 下河地语
+name_zh_auto: true
 autonym: Lower Riverland
 population: null
 country_id: AU

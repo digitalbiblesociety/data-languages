@@ -1,6 +1,8 @@
 ---
 iso: ret
 name: Retta
+name_zh: 雷塔语
+name_zh_auto: true
 autonym: bahasa Retta
 alt_names: [Indonesia]
 population: 2000

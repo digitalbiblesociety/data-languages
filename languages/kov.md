@@ -1,6 +1,8 @@
 ---
 iso: kov
 name: "Kudu-Camo"
+name_zh: 库杜-卡莫语
+name_zh_auto: true
 autonym: "Kuda-Chamo"
 alt_names: [Kudawa]
 population: 42

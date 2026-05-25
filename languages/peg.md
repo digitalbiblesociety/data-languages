@@ -1,6 +1,8 @@
 ---
 iso: peg
 name: Pengo
+name_zh: 彭戈语
+name_zh_auto: true
 autonym: Hengo
 alt_names: [Hengo Poraja, Jani, Muddali, Pango, Pango Paraja, Paraja, Pengu, Pengua]
 population: 350000

@@ -1,6 +1,8 @@
 ---
 iso: ckq
 name: Kajakse
+name_zh: 卡贾克语
+name_zh_auto: true
 autonym: Kadjakse
 alt_names: [Kajeske, Kawa Tadimini, Kujarge, Kujarke, Mini]
 population: 10000

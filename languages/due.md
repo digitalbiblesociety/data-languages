@@ -1,6 +1,8 @@
 ---
 iso: due
 name: Umiray Dumaget Agta
+name_zh: 乌米雷杜玛格特阿格塔语
+name_zh_auto: true
 autonym: Umiray Agta
 alt_names: ["Agta, Umiray Dumaget", Umirey Dumagat]
 population: 3000

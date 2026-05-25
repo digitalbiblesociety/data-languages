@@ -1,6 +1,8 @@
 ---
 iso: mqm
 name: South Marquesan
+name_zh: 南马克萨斯语
+name_zh_auto: true
 autonym: ʻEo ʻenana / ʻEo ʻenata
 alt_names: [Marquesan, "Marquesan, South", Marquesas, Marquesas-Inseln Sprache, South]
 population: 2100

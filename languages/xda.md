@@ -1,6 +1,8 @@
 ---
 iso: xda
 name: Darkinyung
+name_zh: 达尔金永语
+name_zh_auto: true
 autonym: Hawkesbury–MacDonald River
 alt_names: [Darginjang, Darginyung, Darkinjang, Darkinjung, Darkinoong, Darkinung, Darkinyun, Darkiñung, Darknung]
 population: null

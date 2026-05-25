@@ -1,6 +1,8 @@
 ---
 iso: mso
 name: Mombum
+name_zh: 蒙布姆语
+name_zh_auto: true
 autonym: Kemelom
 alt_names: [Kemelomsch, Komelom, Komolom]
 population: 250

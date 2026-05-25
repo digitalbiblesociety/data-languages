@@ -1,6 +1,8 @@
 ---
 iso: loa
 name: Loloda
+name_zh: 洛洛达语
+name_zh_auto: true
 autonym: Loda
 alt_names: [North Loloda]
 population: 15000

@@ -1,6 +1,8 @@
 ---
 iso: ztg
 name: Xanaguía Zapotec
+name_zh: 哈那古亚萨波特克语
+name_zh_auto: true
 autonym: (Santa Catarina Xanaguía)
 alt_names: [Southern Sapoteko, Xanaguia Zapotec, Zapotec, "Zapotec, Xanaguía", Zapoteco de Asunción Tlacolulita, "Zapotèque d'Asunción Tlacolulita"]
 population: 2500

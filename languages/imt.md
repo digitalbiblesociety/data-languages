@@ -1,6 +1,8 @@
 ---
 iso: imt
 name: Imotong
+name_zh: 伊莫通语
+name_zh_auto: true
 autonym: Lango–Logire–Logir
 population: 38000
 country_id: SS

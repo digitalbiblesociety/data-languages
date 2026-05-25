@@ -1,6 +1,8 @@
 ---
 iso: uvh
 name: Uri
+name_zh: 乌里语
+name_zh_auto: true
 autonym: Erap
 alt_names: [Uri Vehees, Urii]
 population: 2500

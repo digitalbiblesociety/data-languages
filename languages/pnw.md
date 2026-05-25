@@ -1,6 +1,8 @@
 ---
 iso: pnw
 name: Banyjima
+name_zh: 班吉玛语
+name_zh_auto: true
 autonym: Bandjima
 alt_names: [Bailko-Pandjima, Banjima, Banydyima, Lenga panytyima, Mandanjongo, Mandara, Paanjima, Panchima, "Pand'ima", Pandima, Pandjima, Panjima, Panjtjima, Panyima, Panyjima, Panyjima language, Panytyima, Papupadu]
 population: null

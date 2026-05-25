@@ -1,6 +1,8 @@
 ---
 iso: sso
 name: Sissano
+name_zh: 西萨诺语
+name_zh_auto: true
 autonym: Sinama
 alt_names: [Aissano, Siau, Sinano, Sisano]
 population: 3530

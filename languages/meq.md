@@ -1,6 +1,8 @@
 ---
 iso: meq
 name: Merey
+name_zh: 梅雷语
+name_zh_auto: true
 autonym: null
 alt_names: [Mere, Meri, Mofu, Mofu de Meri, Mofu of Meri, Muffo, Muffu]
 population: 10000

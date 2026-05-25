@@ -1,6 +1,8 @@
 ---
 iso: mbe
 name: Molale
+name_zh: 莫拉莱语
+name_zh_auto: true
 autonym: Molale
 alt_names: [Molala, Molalla, Molele]
 population: null

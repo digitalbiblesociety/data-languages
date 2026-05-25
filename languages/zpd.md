@@ -1,6 +1,8 @@
 ---
 iso: zpd
 name: Southeastern Ixtlán Zapotec
+name_zh: 东南伊克斯特兰萨波特克语
+name_zh_auto: true
 autonym: (Santa María Yavesía)
 alt_names: [Eastern Sapoteko, Ixtlan, Ixtlán, Ixtlán Zapoteco, Latuvi Zapotec, Northern Sapoteko, Sapateko, Serrano, Sierra de Juarez, Sierra de Juárez, Sierra de Juárez Zapotec, Southeastern Ixtlan Zapotec, Southern Sapoteko, Yavesía Zapotec, Zapateco (Ixtln Sureste), Zapotec, Zapotec (Ixtlan), Zapotec (Juárez), "Zapotec, Southeastern Ixtlán", Zapoteco ( Juarez Sierra), Zapoteco de Asunción Tlacolulita, Zapoteco de Atepec, Zapoteco del Sureste de Ixtlán, "Zapotèque d'Asunción Tlacolulita"]
 population: 6000

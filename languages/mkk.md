@@ -1,6 +1,8 @@
 ---
 iso: mkk
 name: Byep
+name_zh: 拜普语
+name_zh_auto: true
 autonym: Maka
 alt_names: [Makya, Meka, Mekae, Mekay, Mekey, Mekye, Mika, Moka, North Makaa]
 population: 9500

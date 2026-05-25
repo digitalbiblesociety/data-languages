@@ -1,6 +1,8 @@
 ---
 iso: ptt
 name: Enrekang
+name_zh: 恩雷康语
+name_zh_auto: true
 autonym: Endekan
 alt_names: [Endekan Timur, Nordost-Celebes]
 population: 94500

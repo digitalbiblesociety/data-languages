@@ -1,6 +1,8 @@
 ---
 iso: cur
 name: Chhulung
+name_zh: 楚隆语
+name_zh_auto: true
 autonym: Chhilling
 alt_names: ["Ch?l?ng", Chholung, ChhÃ»lÃ»ng RÃ»ng, Chhûlûng Rûng, Chilling, Chulung, Chulún, ChÃ¼lÃ¼ng, Chülüng, Chɨlɨng]
 population: 1310

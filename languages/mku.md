@@ -1,6 +1,8 @@
 ---
 iso: mku
 name: Konyanka Maninka
+name_zh: 科尼扬卡马尼卡语
+name_zh_auto: true
 autonym: Malinke
 alt_names: [Konianka, Konya, Konyakakan, "Maninka, Konyanka"]
 population: 559000

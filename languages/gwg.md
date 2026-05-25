@@ -1,6 +1,8 @@
 ---
 iso: gwg
 name: Moo
+name_zh: 莫语
+name_zh_auto: true
 autonym: Gomu
 alt_names: [Gwom, Gwomo, Gwomu, Ngwaa Móò, Yáá Mòò]
 population: 5000

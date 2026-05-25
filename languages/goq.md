@@ -1,6 +1,8 @@
 ---
 iso: goq
 name: Gorap
+name_zh: 戈拉普语
+name_zh_auto: true
 autonym: "Bahasa-Bahasa Melayu Dagang dan Kreol"
 population: 1000
 country_id: ID

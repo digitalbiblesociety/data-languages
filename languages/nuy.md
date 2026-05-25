@@ -1,6 +1,8 @@
 ---
 iso: nuy
 name: Nunggubuyu
+name_zh: 农格布尤语
+name_zh_auto: true
 autonym: Wubuy
 alt_names: [Lingua nunggubuyu, Nangabuya, Ningburia, Nuggaboju, Nugubuyu, Nun-guboiyu, Nungabuya, Nungabuyu, Nungbuju, Nunggabuyu, Nunggebuyu, Nungguboiju, Nungguboiyu, "Nunggubu'ju", Nunggubuju, Nunggubuju̇, Nungkubuyu, Nungubuju, Nungubuyu, Yingkwira]
 population: 280

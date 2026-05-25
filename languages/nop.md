@@ -1,6 +1,8 @@
 ---
 iso: nop
 name: Numanggang
+name_zh: 努曼冈语
+name_zh_auto: true
 autonym: null
 alt_names: [Boana, Kai, Manggang, Ngain, Numangan, Numangang, Sugu]
 population: 2500

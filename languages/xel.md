@@ -1,6 +1,8 @@
 ---
 iso: xel
 name: Kelo
+name_zh: 克洛语
+name_zh_auto: true
 autonym: "Kelo-Beni Sheko"
 alt_names: [Ndu-Faa-Keelo, Tornasi]
 population: 200

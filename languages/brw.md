@@ -1,6 +1,8 @@
 ---
 iso: brw
 name: Bellari
+name_zh: 贝拉里语
+name_zh_auto: true
 autonym: ಬೆಳ್ಳಾರಿ ബെല്ലാരി
 alt_names: [Belarí]
 population: 1350

@@ -1,6 +1,8 @@
 ---
 iso: sze
 name: Seze
+name_zh: 塞泽语
+name_zh_auto: true
 autonym: Sezo
 population: 3000
 country_id: ET

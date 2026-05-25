@@ -1,6 +1,8 @@
 ---
 iso: gbu
 name: Gagadu
+name_zh: 加加杜语
+name_zh_auto: true
 autonym: Abdedal
 alt_names: ["A:rwu:r", Abedal, Abiddul, Arwur, Auwur, Awoy, Awur, Gaagudju, Gaagudju language, Gagadju, Gagadyu, Gagadú, Gagudju, Gaguju, "Ka:ka:dju", Kadadju, Kakadju, Kakadu, Kakaju, Kakakta, Kakata, Kakatu, Kakdju, Kakdjuan, Kakudju, Karkadoo, Karkardoo, Katata, Kukata, Ngardok]
 population: null

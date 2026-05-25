@@ -1,6 +1,8 @@
 ---
 iso: ayc
 name: Southern Aymara
+name_zh: 南艾马拉语
+name_zh_auto: true
 autonym: Aymar aru
 alt_names: ["2 varieties: Aymara (Central)/Aymara (Southern)", Aimara, Aymara, "Aymara, Southern", Aymará, Southern, Tupe]
 population: 213000

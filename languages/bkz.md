@@ -1,6 +1,8 @@
 ---
 iso: bkz
 name: Bungku
+name_zh: 邦库语
+name_zh_auto: true
 autonym: Ikinyikiusa
 alt_names: [Nahine]
 population: 1000

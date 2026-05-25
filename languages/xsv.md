@@ -1,6 +1,8 @@
 ---
 iso: xsv
 name: Sudovian
+name_zh: 苏多维亚语
+name_zh_auto: true
 autonym: "Yotvingian, Jatvingian"
 population: null
 country_id: LT

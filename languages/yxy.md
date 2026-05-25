@@ -1,6 +1,8 @@
 ---
 iso: yxy
 name: Yabula Yabula
+name_zh: 亚布拉-亚布拉语
+name_zh_auto: true
 autonym: Jabalajabala
 population: null
 country_id: AU

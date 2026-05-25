@@ -1,6 +1,8 @@
 ---
 iso: njy
 name: Njyem
+name_zh: 恩杰姆语
+name_zh_auto: true
 autonym: Njyem
 alt_names: [Djem, Dzem, Ndjem, Ndjeme, Ndzem, Ngyeme, Njem, Nyem]
 population: 3500

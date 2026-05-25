@@ -1,6 +1,8 @@
 ---
 iso: dbv
 name: Dungu
+name_zh: 邦根语
+name_zh_auto: true
 autonym: Dingi
 alt_names: [Dungi, Dunjawa, Dwingi]
 population: 1100

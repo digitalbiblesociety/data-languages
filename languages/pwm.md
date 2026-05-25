@@ -1,6 +1,8 @@
 ---
 iso: pwm
 name: Molbog
+name_zh: 莫尔博格语
+name_zh_auto: true
 autonym: Balabak
 alt_names: [Molbog Palawan]
 population: 13360

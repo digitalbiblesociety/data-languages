@@ -1,6 +1,8 @@
 ---
 iso: sjg
 name: Assangori
+name_zh: 阿桑戈里语
+name_zh_auto: true
 autonym: Assangori
 alt_names: [Asong, Asongori, Assagori, Assoungor, Asungore, Azangori, Azanguri, Bognak-Asungorung, Erenga, Madungore, Shaale, Soungor, Sungor, Sungor language]
 population: 23500

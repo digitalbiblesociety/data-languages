@@ -1,6 +1,8 @@
 ---
 iso: bus
 name: Bokobaru
+name_zh: 博科巴鲁语
+name_zh_auto: true
 autonym: Bisã
 alt_names: [Busa-Bokobaru, Zongben, Zõgbe]
 population: 62000

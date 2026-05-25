@@ -1,6 +1,8 @@
 ---
 iso: bma
 name: Lame
+name_zh: 拉梅语
+name_zh_auto: true
 autonym: "Tu-Gura"
 population: 10000
 country_id: NG

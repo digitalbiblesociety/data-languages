@@ -1,6 +1,8 @@
 ---
 iso: xta
 name: Alcozauca Mixtec
+name_zh: 阿尔科萨乌卡米斯特克语
+name_zh_auto: true
 autonym: "Mixteco, Xochapa"
 alt_names: [Alacatlatzala Mixtec, Central Misteko, Centreal Mixteco, Guerrero Mixtec, Highland Guerrero Mixtec, Metlatónoc Mixtec, "Mixtec, Alcozauca", Mixteco de Alacatlatzala, Mixteco de Alocozauca, Mixteco de Xochapa, Mixteco de Yoloxóchitl, To’on Savi, Yoloxóchitl Mixtec]
 population: 10000

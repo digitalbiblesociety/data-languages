@@ -1,6 +1,8 @@
 ---
 iso: beh
 name: Biali
+name_zh: 比亚利语
+name_zh_auto: true
 autonym: Bieri
 alt_names: [Berba, Bjerb, Bjeri, Burba]
 population: 166080

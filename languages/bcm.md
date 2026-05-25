@@ -1,6 +1,8 @@
 ---
 iso: bcm
 name: Bannoni
+name_zh: 邦诺尼语
+name_zh_auto: true
 autonym: Banoni
 alt_names: [Tsunari]
 population: 1000

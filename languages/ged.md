@@ -1,6 +1,8 @@
 ---
 iso: ged
 name: Gade
+name_zh: 加德语
+name_zh_auto: true
 autonym: Gede
 population: 72100
 country_id: NG

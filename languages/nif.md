@@ -1,6 +1,8 @@
 ---
 iso: nif
 name: Nek
+name_zh: 内克语
+name_zh_auto: true
 autonym: null
 population: 2000
 country_id: PG

@@ -1,6 +1,8 @@
 ---
 iso: umd
 name: Umbindhamu
+name_zh: 翁宾达穆语
+name_zh_auto: true
 autonym: Umbindhamu
 alt_names: ["'Uuk-Umpithamu", Arummarbin, Baka, Banjigam, Barungguan, Barunguan, Dyrlwai, Ganganda, Janggulmbal, Janggurunggu, Jeteneru, Jintjingga, Koko Ompindamo, Kuuku-Umpinthamu, Lamalama, Njindingga, Ompindamo, Umbuigamu, Umpinthamu, Umpithamu, Uuku Umpithamu, Yintjingga, Yintjinggu]
 population: 10

@@ -1,6 +1,8 @@
 ---
 iso: tcz
 name: Thado Chin
+name_zh: 塔多钦语
+name_zh_auto: true
 autonym: Kuki
 alt_names: [Chin, Chin (North)/Thado, Chin (Thado), Chin tado, "Chin, Thado", "Chin,Thado", Kuki-Thado, Thaadou Kuki, Thado, Thado-Pao, Thado-Ubiphei, Thadou, Thādo-pao, သာဒိုး ချင်း]
 population: 346100

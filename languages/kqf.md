@@ -1,6 +1,8 @@
 ---
 iso: kqf
 name: Kakabai
+name_zh: 卡卡拜语
+name_zh_auto: true
 autonym: Igora
 population: 900
 country_id: PG

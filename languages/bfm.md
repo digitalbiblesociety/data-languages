@@ -1,6 +1,8 @@
 ---
 iso: bfm
 name: Mmen
+name_zh: 姆门语
+name_zh_auto: true
 autonym: Bafmeng
 alt_names: [Bafmen, Bafoumeng, Bafumen, Mme]
 population: 1000

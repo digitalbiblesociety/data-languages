@@ -1,6 +1,8 @@
 ---
 iso: bup
 name: Busoa
+name_zh: 布索阿语
+name_zh_auto: true
 autonym: Bosoa
 population: 2300
 country_id: ID

@@ -1,6 +1,8 @@
 ---
 iso: gak
 name: Gamkonora
+name_zh: 甘科莫拉语
+name_zh_auto: true
 autonym: bahasa Gamkonora
 alt_names: [Indonesia]
 population: 1500

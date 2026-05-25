@@ -1,6 +1,8 @@
 ---
 iso: agj
 name: Argobba
+name_zh: 阿尔戈巴语
+name_zh_auto: true
 autonym: ዓርጎባ (Argoba)
 alt_names: [Argoba, Argobba jezik, Argobeg, Język argobba, لغة أرغوبية]
 population: 43700

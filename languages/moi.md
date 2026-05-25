@@ -1,6 +1,8 @@
 ---
 iso: moi
 name: Mboi
+name_zh: 姆博伊语
+name_zh_auto: true
 autonym: Gena
 alt_names: [Mboire, Mboyi]
 population: 19000

@@ -1,6 +1,8 @@
 ---
 iso: kuw
 name: Kpagua
+name_zh: 克帕瓜语
+name_zh_auto: true
 autonym: Kpagwa
 population: 3830
 country_id: CF

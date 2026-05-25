@@ -1,6 +1,8 @@
 ---
 iso: wnb
 name: Wanambre
+name_zh: 瓦南布雷语
+name_zh_auto: true
 autonym: Mokati
 alt_names: [Vanambere, Vanembere, Wanambe]
 population: 590

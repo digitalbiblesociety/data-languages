@@ -1,6 +1,8 @@
 ---
 iso: bet
 name: Guiberoua Béte
+name_zh: 吉贝鲁亚贝特语
+name_zh_auto: true
 autonym: Beteic
 alt_names: [Bete, "Béte, Guiberoua", Bété, Central Bété, Guiberoua Bete, Western Bété]
 population: 130000

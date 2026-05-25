@@ -1,6 +1,8 @@
 ---
 iso: ppe
 name: Papi
+name_zh: 帕皮语
+name_zh_auto: true
 autonym: Baiyamo
 alt_names: [Paupe]
 population: 220

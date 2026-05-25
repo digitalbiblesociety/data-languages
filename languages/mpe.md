@@ -1,6 +1,8 @@
 ---
 iso: mpe
 name: Majang
+name_zh: 玛讲语
+name_zh_auto: true
 autonym: "Ato Majanger-Onk"
 alt_names: [Ajo, Ato Majang, Majanjiro, Masango, Masongo, Mesengo, Ojanjur, Tama]
 population: 30000

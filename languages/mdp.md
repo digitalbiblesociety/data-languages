@@ -1,6 +1,8 @@
 ---
 iso: mdp
 name: Mbala
+name_zh: 姆巴拉语
+name_zh_auto: true
 autonym: Gimbala
 alt_names: [Rumbala]
 population: 374500

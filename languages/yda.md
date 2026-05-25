@@ -1,6 +1,8 @@
 ---
 iso: yda
 name: Yanda
+name_zh: 扬达语
+name_zh_auto: true
 autonym: Janda
 alt_names: [Yunda]
 population: null

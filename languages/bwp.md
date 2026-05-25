@@ -1,6 +1,8 @@
 ---
 iso: bwp
 name: Mandobo Bawah
+name_zh: 曼多博语
+name_zh_auto: true
 autonym: Dumut
 alt_names: ["\"Kaeti\"", Kaeti, Kambon, Mandobbo, Nub]
 population: 2000

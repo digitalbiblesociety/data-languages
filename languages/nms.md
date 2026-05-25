@@ -1,6 +1,8 @@
 ---
 iso: nms
 name: Letemboi
+name_zh: 莱特姆博依语
+name_zh_auto: true
 autonym: " Small Nambas"
 alt_names: [Lendamboi]
 population: 800

@@ -1,6 +1,8 @@
 ---
 iso: sfw
 name: Sehwi
+name_zh: 塞赫维语
+name_zh_auto: true
 autonym: Esahie
 alt_names: [Asahyue, Sefwi]
 population: 305000

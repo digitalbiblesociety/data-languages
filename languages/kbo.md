@@ -1,6 +1,8 @@
 ---
 iso: kbo
 name: Keliko
+name_zh: 凯利科语
+name_zh_auto: true
 autonym: Kaliko
 alt_names: ["Kaliko-Ma'di", "Ma'di", Maditi]
 population: 42500

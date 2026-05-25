@@ -1,6 +1,8 @@
 ---
 iso: jod
 name: Wojenaka
+name_zh: 沃杰纳卡语
+name_zh_auto: true
 autonym: Malinke
 alt_names: [Malinké, Odiennekakan, Odienné Jula]
 population: 147000

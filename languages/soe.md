@@ -1,6 +1,8 @@
 ---
 iso: soe
 name: Songomeno
+name_zh: 松戈梅诺语
+name_zh_auto: true
 autonym: Songomeno
 alt_names: [Democratic Republic of the Congo]
 population: 50000

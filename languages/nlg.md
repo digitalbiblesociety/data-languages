@@ -1,6 +1,8 @@
 ---
 iso: nlg
 name: Gela
+name_zh: 盖拉语
+name_zh_auto: true
 autonym: Nggela
 alt_names: [Florida Islands, Lengua gela, Südliche Salomons-Inseln]
 population: 11900

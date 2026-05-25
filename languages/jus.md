@@ -1,6 +1,8 @@
 ---
 iso: jus
 name: Jumla Sign Language
+name_zh: 朱姆拉手语
+name_zh_auto: true
 autonym: जुम्ला साङ्केतिक भाषा
 population: 100
 country_id: NP

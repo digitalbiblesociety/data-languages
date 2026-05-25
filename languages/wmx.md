@@ -1,6 +1,8 @@
 ---
 iso: wmx
 name: Womo
+name_zh: 沃莫语
+name_zh_auto: true
 autonym: "Womo-Sumararu"
 population: null
 country_id: PG

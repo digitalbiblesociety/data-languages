@@ -1,6 +1,8 @@
 ---
 iso: wut
 name: Wutung
+name_zh: 乌通语
+name_zh_auto: true
 autonym: Sangke
 alt_names: [Udung, Woutoungeg, Wutung jezik]
 population: 900

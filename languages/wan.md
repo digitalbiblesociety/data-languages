@@ -1,6 +1,8 @@
 ---
 iso: wan
 name: Wan
+name_zh: 万语
+name_zh_auto: true
 autonym: Nwa
 alt_names: [Van]
 population: 22000

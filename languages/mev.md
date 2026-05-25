@@ -1,6 +1,8 @@
 ---
 iso: mev
 name: Mano
+name_zh: 玛诺语
+name_zh_auto: true
 autonym: Maa
 alt_names: [Mah, Mann, Manö, Mawe]
 population: 427900

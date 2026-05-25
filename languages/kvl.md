@@ -1,6 +1,8 @@
 ---
 iso: kvl
 name: Kayaw
+name_zh: 卡亚语
+name_zh_auto: true
 autonym: Brek
 alt_names: [Bre, Brec, Brek Karen, Brè, Bwe, "Karen, Brek", "Karen,Brek", Laku, Pramano, Pre]
 population: 16600

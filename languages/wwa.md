@@ -1,6 +1,8 @@
 ---
 iso: wwa
 name: Waama
+name_zh: 瓦玛语
+name_zh_auto: true
 autonym: Yoabu
 alt_names: [Wama, Woaba, Yoabou]
 population: 115000

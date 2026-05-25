@@ -1,6 +1,8 @@
 ---
 iso: mca
 name: Maca
+name_zh: 马卡语
+name_zh_auto: true
 autonym: Maká
 alt_names: [Enimaca, Enimaga, Macca, Macá, "Mak'á", Maka, Makų kalba, Nynaka, Toothle, Towolhi, Towothli]
 population: 1500

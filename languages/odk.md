@@ -1,6 +1,8 @@
 ---
 iso: odk
 name: Od
+name_zh: 奥德语
+name_zh_auto: true
 autonym: Odki
 alt_names: [Oad]
 population: 2076100

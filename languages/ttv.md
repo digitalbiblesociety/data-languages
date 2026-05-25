@@ -1,6 +1,8 @@
 ---
 iso: ttv
 name: Titan
+name_zh: 蒂坦语
+name_zh_auto: true
 autonym: Manus
 alt_names: [Admiralitäts-inseln, "M'bunai", Moanus, Tito]
 population: 3850

@@ -1,6 +1,8 @@
 ---
 iso: xlu
 name: Cuneiform Luwian
+name_zh: 楔形文字吕维亚语
+name_zh_auto: true
 autonym: "Luvian, Luish"
 alt_names: [Cuneiform Hittite, Cuneiform Luvian, Luwian, "Luwian, Cuneiform", West Luwian]
 population: null

@@ -1,6 +1,8 @@
 ---
 iso: nyb
 name: Nyangbo
+name_zh: 尼昂博语
+name_zh_auto: true
 autonym: Tafi
 alt_names: [Nyangbo-Tafi, Tutrugbu]
 population: 6400

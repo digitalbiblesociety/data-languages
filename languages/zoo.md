@@ -1,6 +1,8 @@
 ---
 iso: zoo
 name: Asunción Mixtepec Zapotec
+name_zh: 阿松西翁混特佩克萨波特克语
+name_zh_auto: true
 autonym: North Central Zimatlan Zapotec
 alt_names: [Asuncion Mixtepec Zapotec, Central Sapoteko, Central Zapotec, Northern Sapoteko, Zapotec, "Zapotec, Asunción Mixtepec", Zapoteco de Asunción Mixtepec, Zapoteco de San Felipe Tejalápam, Zapotèque de San Felipe Tejalapan]
 population: 100

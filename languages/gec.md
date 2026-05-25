@@ -1,6 +1,8 @@
 ---
 iso: gec
 name: Gboloo Grebo
+name_zh: 博洛格雷博语
+name_zh_auto: true
 autonym: Kréébo
 alt_names: [Gblou Grebo, Gboloo, Grebo, "Grebo, Gboloo"]
 population: 119000

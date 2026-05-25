@@ -1,6 +1,8 @@
 ---
 iso: nbm
 name: "Ngbaka Ma'bo"
+name_zh: 恩巴卡玛博语
+name_zh_auto: true
 autonym: "Ngbaka Ma'bo"
 alt_names: [Bouaka, Bwaka, Gbaka, Gbala, "Ma'bo", Mbacca, Mbaka, Mbwaka, Nbwaka, Ngbaka Limba, "Ngbaka-Ma'bo"]
 population: 258000

@@ -1,6 +1,8 @@
 ---
 iso: kpf
 name: Komba
+name_zh: 科姆巴语
+name_zh_auto: true
 autonym: Neng Den
 population: 15000
 country_id: PG

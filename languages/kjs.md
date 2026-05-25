@@ -1,6 +1,8 @@
 ---
 iso: kjs
 name: East Kewa
+name_zh: 东克瓦语
+name_zh_auto: true
 autonym: "Kewa, East"
 alt_names: [Eastern Kewa, Kewa]
 population: 50000

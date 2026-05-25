@@ -1,6 +1,8 @@
 ---
 iso: kps
 name: Tehit
+name_zh: 特希特语
+name_zh_auto: true
 autonym: Kaibus
 alt_names: [Tahit, Tehid, Teminabuan]
 population: 10000

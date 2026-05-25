@@ -1,6 +1,8 @@
 ---
 iso: hdy
 name: Hadiyya
+name_zh: 哈迪亚语
+name_zh_auto: true
 autonym: Adea
 alt_names: [Adiya, Adiye, Hadia, Hadiya, Hadiyya hizkuntza, Hadya, Język hadija, Lingua hadiya, Língua hadia]
 population: 1840000

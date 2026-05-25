@@ -1,6 +1,8 @@
 ---
 iso: mzm
 name: Mumuye
+name_zh: 穆姆耶语
+name_zh_auto: true
 autonym: Yoro
 alt_names: [Group 5, Zing]
 population: 745000

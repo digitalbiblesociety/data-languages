@@ -1,6 +1,8 @@
 ---
 iso: sxm
 name: Samre
+name_zh: 桑梅语
+name_zh_auto: true
 autonym: Northern Chong
 population: 200
 country_id: KH

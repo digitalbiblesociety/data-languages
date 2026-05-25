@@ -1,6 +1,8 @@
 ---
 iso: kwx
 name: Khirwar
+name_zh: 希尔瓦尔语
+name_zh_auto: true
 autonym: Kherwari
 alt_names: [Gonḍi, Gōṇḍī, Khirwara]
 population: 25800

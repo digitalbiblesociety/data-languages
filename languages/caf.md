@@ -1,6 +1,8 @@
 ---
 iso: caf
 name: Southern Carrier
+name_zh: 南开里埃语
+name_zh_auto: true
 autonym: Dakeł (ᑕᗸᒡ)
 alt_names: [Carrier, "Carrier, Southern", Lower, Lower Carrier, Southern, Ulgatcho, Ulkatcho]
 population: 2055

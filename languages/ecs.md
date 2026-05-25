@@ -1,6 +1,8 @@
 ---
 iso: ecs
 name: Ecuadorian Sign Language
+name_zh: 厄瓜多尔手语
+name_zh_auto: true
 autonym: Lengua de Señas de Ecuador
 population: 50000
 country_id: EC

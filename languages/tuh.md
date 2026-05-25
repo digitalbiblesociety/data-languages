@@ -1,6 +1,8 @@
 ---
 iso: tuh
 name: Taulil
+name_zh: 陶利尔语
+name_zh_auto: true
 autonym: Tulil
 alt_names: [Butam, Neu-Pommern, Taulil-butam]
 population: 800

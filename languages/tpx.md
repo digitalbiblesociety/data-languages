@@ -1,6 +1,8 @@
 ---
 iso: tpx
 name: "Acatepec Me'phaa"
+name_zh: 阿卡特佩克梅法语
+name_zh_auto: true
 autonym: Me̱ꞌpha̱a̱
 alt_names: [Acatepec Tlapanec, Guerrero, "Me'pa", "Me'pa Wí'ìn", "Me'phaa", "Me'phaa, Acatepec", Tlapanec, Tlapanec (Malinaltepec), "Tlapanec, Acatepec", Tlapaneca, Tlapaneco, Tlapaneco (Malinaltepec), Tlapaneco-Sutiaba, Tlapaneko, Tlappanec, Western Tlapanec]
 population: 15000

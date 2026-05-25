@@ -1,6 +1,8 @@
 ---
 iso: gkn
 name: Gokana
+name_zh: 戈卡纳语
+name_zh_auto: true
 autonym: null
 alt_names: [Nigeria]
 population: 100000

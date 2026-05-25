@@ -1,6 +1,8 @@
 ---
 iso: mlw
 name: Moloko
+name_zh: 莫洛科语
+name_zh_auto: true
 autonym: Məlokwo
 alt_names: [Melokwo, Mokyo, Molko, Molkoa, Molkwo, Molokwo]
 population: 8500

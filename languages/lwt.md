@@ -1,6 +1,8 @@
 ---
 iso: lwt
 name: Lewotobi
+name_zh: 勒沃托比语
+name_zh_auto: true
 autonym: Lewotobi Lamaholot
 alt_names: [Southwest Lamaholot]
 population: 6000

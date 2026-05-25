@@ -1,6 +1,8 @@
 ---
 iso: bhc
 name: Biga
+name_zh: 比加语
+name_zh_auto: true
 autonym: bahasa Biga
 population: 300
 country_id: ID

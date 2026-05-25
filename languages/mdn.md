@@ -1,6 +1,8 @@
 ---
 iso: mdn
 name: Mbati
+name_zh: 姆巴蒂语
+name_zh_auto: true
 autonym: Isongo
 alt_names: [Issongo, Lisongo, Lissongo, Songo]
 population: 60000

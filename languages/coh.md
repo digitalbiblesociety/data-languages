@@ -1,6 +1,8 @@
 ---
 iso: coh
 name: "Chonyi-Dzihana-Kauma"
+name_zh: 琼伊-兹伊哈纳-考马语
+name_zh_auto: true
 autonym: Chonyi
 alt_names: [Chichonyi, Chichonyi-Chidzihana-Chikauma]
 population: 309000

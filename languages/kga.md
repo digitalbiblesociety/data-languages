@@ -1,6 +1,8 @@
 ---
 iso: kga
 name: Koyaga
+name_zh: 科亚加语
+name_zh_auto: true
 autonym: Malinke
 alt_names: [Koya, Koyaa, Koyaga Jula, Koyagakan, Koyaka, Koyara]
 population: 84000

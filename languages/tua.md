@@ -1,6 +1,8 @@
 ---
 iso: tua
 name: Wiarumus
+name_zh: 威亚鲁木斯语
+name_zh_auto: true
 autonym: Mandi
 alt_names: [Imandi]
 population: 460

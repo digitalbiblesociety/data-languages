@@ -1,6 +1,8 @@
 ---
 iso: cle
 name: Lealao Chinantec
+name_zh: 勒亚劳奇南特克语
+name_zh_auto: true
 autonym: Latani Chinantec
 alt_names: [Central Chinantec, Chiltepec Chinantec, Chinantec, Chinantec (Lealao), "Chinantec, Lealao", Chinanteco, Chinanteco (Lealao), Chinanteco Central, Chinanteco de San Juan Lealao, Chinanteko, Palantla Chinantec, San Juan Chinanteco Lealao, Usila Chinantec, Valle Nacional Chinantec, jajme dzä mii, "jmiih kia' dzä mii"]
 population: 2000

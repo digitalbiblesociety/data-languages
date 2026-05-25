@@ -1,6 +1,8 @@
 ---
 iso: tld
 name: Talaud
+name_zh: 塔劳德语
+name_zh_auto: true
 autonym: Talaur
 alt_names: [Talaut, Talodda]
 population: 52100

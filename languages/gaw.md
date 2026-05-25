@@ -1,6 +1,8 @@
 ---
 iso: gaw
 name: Nobonob
+name_zh: 诺博诺布语
+name_zh_auto: true
 autonym: Garuh
 alt_names: [Butelkud-Guntabak, Nobanob, Nobnob, Nupanob]
 population: 5000

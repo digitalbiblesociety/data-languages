@@ -1,6 +1,8 @@
 ---
 iso: bmf
 name: "Bom-Kim"
+name_zh: 博姆-金语
+name_zh_auto: true
 autonym: Bom–Krim
 alt_names: [Bom, Bome, Bomo, Bum]
 population: 5580

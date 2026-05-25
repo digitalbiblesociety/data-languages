@@ -1,6 +1,8 @@
 ---
 iso: llf
 name: Hermit
+name_zh: 赫尔米特语
+name_zh_auto: true
 autonym: Agomes
 alt_names: [Admiralitäts-inseln, Luf, Maron]
 population: null

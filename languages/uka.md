@@ -1,6 +1,8 @@
 ---
 iso: uka
 name: Kaburi
+name_zh: 卡布里语
+name_zh_auto: true
 autonym: "Awe, Maweyo"
 alt_names: [Indonesia]
 population: 600

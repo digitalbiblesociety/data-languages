@@ -1,6 +1,8 @@
 ---
 iso: vaf
 name: Vafsi
+name_zh: 瓦夫西语
+name_zh_auto: true
 autonym: null
 alt_names: [Vafsí]
 population: 18000

@@ -1,6 +1,8 @@
 ---
 iso: wmc
 name: Wamas
+name_zh: 瓦玛斯语
+name_zh_auto: true
 autonym: null
 population: 220
 country_id: PG

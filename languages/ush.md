@@ -1,6 +1,8 @@
 ---
 iso: ush
 name: Ushojo
+name_zh: 乌肖乔语
+name_zh_auto: true
 autonym: Ushuji
 alt_names: [Dardu, Usoyo]
 population: 500

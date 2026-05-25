@@ -1,6 +1,8 @@
 ---
 iso: llk
 name: Lelak
+name_zh: 勒拉克语
+name_zh_auto: true
 autonym: null
 alt_names: [Malaysia]
 population: null

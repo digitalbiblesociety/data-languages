@@ -1,6 +1,8 @@
 ---
 iso: nbb
 name: Ndoe
+name_zh: 恩多埃语
+name_zh_auto: true
 autonym: "Ekparabong-Balep"
 alt_names: [Nigeria]
 population: 7340

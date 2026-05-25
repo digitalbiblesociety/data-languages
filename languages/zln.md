@@ -1,6 +1,8 @@
 ---
 iso: zln
 name: Lianshan Zhuang
+name_zh: 廉山壮语
+name_zh_auto: true
 autonym: Vahcuengh (za)
 alt_names: [Chuang, Lianshan, Zhuang, Zhuang (Northern), "Zhuang, Lianshan"]
 population: 205000

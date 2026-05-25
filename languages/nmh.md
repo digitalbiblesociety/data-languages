@@ -1,6 +1,8 @@
 ---
 iso: nmh
 name: Monsang Naga
+name_zh: 蒙桑纳加语
+name_zh_auto: true
 autonym: Siirti
 alt_names: ["Naga, Monsang"]
 population: 3200

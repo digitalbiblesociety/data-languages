@@ -1,6 +1,8 @@
 ---
 iso: muz
 name: Mursi
+name_zh: 穆尔西语
+name_zh_auto: true
 autonym: Dama
 alt_names: [Merdu, Meritu, Murzi, Murzu]
 population: 3155

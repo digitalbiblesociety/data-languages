@@ -1,6 +1,8 @@
 ---
 iso: kwa
 name: Dâw
+name_zh: 道语
+name_zh_auto: true
 autonym: "Kuri-Dou"
 alt_names: [Daw, Dow, Kam, Kaman, Kamarada, Kamá, Kamán, Kamã, Kamã Makú, Makú-Kamarada]
 population: 142

@@ -1,6 +1,8 @@
 ---
 iso: jaz
 name: Jawe
+name_zh: 贾韦语
+name_zh_auto: true
 autonym: Diahoue
 alt_names: [Neukaledonien, Njawe, Oubatch, Ubach]
 population: 730

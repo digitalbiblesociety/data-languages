@@ -1,6 +1,8 @@
 ---
 iso: bsy
 name: Sabah Bisaya
+name_zh: 沙巴比萨亚语
+name_zh_auto: true
 autonym: Sabah Bisaya
 alt_names: [Basaya, Besaya, Bisaia, "Bisaya, Sabah", Bisayah, Jilama Bawang, Jilama Sungai]
 population: 15800

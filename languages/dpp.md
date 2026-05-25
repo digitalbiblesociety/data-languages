@@ -1,6 +1,8 @@
 ---
 iso: dpp
 name: Papar
+name_zh: 帕帕尔语
+name_zh_auto: true
 autonym: Bajau Bukit
 population: 1000
 country_id: MY

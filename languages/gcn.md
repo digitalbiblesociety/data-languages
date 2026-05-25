@@ -1,6 +1,8 @@
 ---
 iso: gcn
 name: Gaina
+name_zh: 盖纳语
+name_zh_auto: true
 autonym: "Korafe-Yegha"
 alt_names: [Baredji]
 population: 1000

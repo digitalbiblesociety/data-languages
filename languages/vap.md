@@ -1,6 +1,8 @@
 ---
 iso: vap
 name: Vaiphei
+name_zh: 瓦依菲语
+name_zh_auto: true
 autonym: Bhaipei
 alt_names: [Vaipei, Veiphei]
 population: 42700

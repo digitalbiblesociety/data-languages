@@ -1,6 +1,8 @@
 ---
 iso: nlo
 name: Ngul
+name_zh: 恩古尔语
+name_zh_auto: true
 autonym: Di
 alt_names: [Ingul, Ngoli, Nguli, Ngulu]
 population: 8400

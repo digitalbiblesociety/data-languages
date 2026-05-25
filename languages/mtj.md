@@ -1,6 +1,8 @@
 ---
 iso: mtj
 name: Moskona
+name_zh: 莫斯科纳语
+name_zh_auto: true
 autonym: Moskona
 alt_names: [Meninggo, Meningo, Meyah, Sabena]
 population: 8000

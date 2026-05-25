@@ -1,6 +1,8 @@
 ---
 iso: bmu
 name: "Somba-Siawari"
+name_zh: 松巴-西亚瓦里语
+name_zh_auto: true
 autonym: Mindik
 alt_names: [Bulum, Burum, Burum-Mindik, Burumana, Yaknge]
 population: 10000

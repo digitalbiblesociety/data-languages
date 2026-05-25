@@ -1,6 +1,8 @@
 ---
 iso: ttn
 name: Towei
+name_zh: 托威语
+name_zh_auto: true
 autonym: Towe
 population: 120
 country_id: ID

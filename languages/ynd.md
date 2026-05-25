@@ -1,6 +1,8 @@
 ---
 iso: ynd
 name: Yandruwandha
+name_zh: 扬德鲁万达语
+name_zh_auto: true
 autonym: null
 alt_names: [Biraliba, Biralipa, Endawarra, Gandruwanda, Innamouka, Jandrawanda, Jandruwalda, Jandruwanda, Jandruwanta, Jandruwontha, Jandruwunta, Janduruwanda, Jendru wonta, Jendru-wonta, Jendruwonta, Ngurunta, Thayipilthirringuda, Yanderawantha, Yanderawartha, Yanderwartha, Yandra Wandra, Yandrawontha, Yandrinwantha, Yandruwanda, Yandruwandra, Yandruwanhdha, Yandruwanta, Yandruwonta, Yandruwunta, Yandu wulda, Yandu-wulda, Yanduwulda, Yantowannta, Yantruwanta, Yantruwunta]
 population: null

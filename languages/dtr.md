@@ -1,6 +1,8 @@
 ---
 iso: dtr
 name: Lotud
+name_zh: 洛图德语
+name_zh_auto: true
 autonym: Dusun Lotud
 alt_names: [Latod, Latud, Suang Lotud, Tuaran Dusun]
 population: 5000

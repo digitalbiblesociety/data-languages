@@ -1,6 +1,8 @@
 ---
 iso: ism
 name: Masimasi
+name_zh: 玛西玛西语
+name_zh_auto: true
 autonym: bahasa Masimasi
 alt_names: [Indonesia]
 population: 10

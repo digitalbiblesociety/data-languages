@@ -1,6 +1,8 @@
 ---
 iso: awu
 name: Central Awyu
+name_zh: 中部阿维尤语
+name_zh_auto: true
 autonym: Central Awyu
 alt_names: [Ajau, Auyu, Avio, Awju, Awya, "Awyu, Central", Nohon]
 population: 7500

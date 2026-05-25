@@ -1,6 +1,8 @@
 ---
 iso: mmq
 name: Musak
+name_zh: 穆萨克语
+name_zh_auto: true
 autonym: Musak
 alt_names: [Aisi, Blue Miao, Green Miao, Red Miao, White Miao]
 population: 360

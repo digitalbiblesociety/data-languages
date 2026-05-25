@@ -1,6 +1,8 @@
 ---
 iso: aea
 name: Areba
+name_zh: 阿瑞巴语
+name_zh_auto: true
 autonym: Kurtjar
 alt_names: ["A:rap", Araba, Ariba, Aripa, Ngariba, Rib, Ribh]
 population: null

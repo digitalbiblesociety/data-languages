@@ -1,6 +1,8 @@
 ---
 iso: mbh
 name: Mangseng
+name_zh: 曼格森语
+name_zh_auto: true
 autonym: null
 alt_names: [Mangsing, Masegi, Maseki]
 population: 2500

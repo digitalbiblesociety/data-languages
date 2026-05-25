@@ -1,6 +1,8 @@
 ---
 iso: aaa
 name: Ghotuo
+name_zh: 古托语
+name_zh_auto: true
 autonym: Otwa
 alt_names: [Ghotuo jezik, Otuo]
 population: 9000

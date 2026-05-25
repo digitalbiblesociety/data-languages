@@ -1,6 +1,8 @@
 ---
 iso: mwn
 name: Nyamwanga
+name_zh: 尼亚姆旺加语
+name_zh_auto: true
 autonym: Ichinamwanga
 alt_names: [Chinamwanga, Inamwanga, Kinamwanga, Kinyamwanga, Mwanga, Mwanga language, Namwanga, Njamuangoj]
 population: 281000

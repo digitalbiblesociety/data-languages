@@ -1,6 +1,8 @@
 ---
 iso: zpt
 name: San Vicente Coatlán Zapotec
+name_zh: 圣维森特科阿特兰萨波特克语
+name_zh_auto: true
 autonym: Southern Ejutla Zapotec
 alt_names: [Coatlán Zapotec, San Vicente Coatlan Zapotec, San Vicente Coatlán, Southern Sapoteko, Zapotec, "Zapotec, San Vicente Coatlán", Zapoteco de Asunción Tlacolulita, Zapoteco de San Vicente Coatlán, "Zapotèque d'Asunción Tlacolulita"]
 population: 3380

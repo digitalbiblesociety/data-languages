@@ -1,6 +1,8 @@
 ---
 iso: ull
 name: Ullatan
+name_zh: 乌拉坦语
+name_zh_auto: true
 autonym: Kochu Velan
 alt_names: [Katan, Kattalan, Kochuvelan, Ulladan]
 population: 16741

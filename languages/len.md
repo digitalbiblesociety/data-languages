@@ -1,6 +1,8 @@
 ---
 iso: len
 name: Lenca
+name_zh: 伦卡语
+name_zh_auto: true
 autonym: null
 population: null
 country_id: HN

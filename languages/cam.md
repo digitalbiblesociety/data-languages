@@ -1,6 +1,8 @@
 ---
 iso: cam
 name: Cemuhî
+name_zh: 塞木希语
+name_zh_auto: true
 autonym: Wagap
 alt_names: [Camuhi, Camuki, Cemuhi, Cèmuhî, Neukaledonien, Touho, Tyamuhi]
 population: 2050

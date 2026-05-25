@@ -1,6 +1,8 @@
 ---
 iso: hia
 name: Lamang
+name_zh: 拉芒语
+name_zh_auto: true
 autonym: Gbuhwe
 alt_names: [Hitkala, Laamang, Mandara Group B, Waha]
 population: 40000

@@ -1,6 +1,8 @@
 ---
 iso: ruh
 name: Ruga
+name_zh: 鲁加语
+name_zh_auto: true
 autonym: null
 population: 10
 country_id: IN

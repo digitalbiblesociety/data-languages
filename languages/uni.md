@@ -1,6 +1,8 @@
 ---
 iso: uni
 name: Uni
+name_zh: 乌尼语
+name_zh_auto: true
 autonym: Ramo
 population: 670
 country_id: PG

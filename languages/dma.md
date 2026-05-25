@@ -1,6 +1,8 @@
 ---
 iso: dma
 name: Duma
+name_zh: 杜玛语
+name_zh_auto: true
 autonym: Adouma
 alt_names: [Aduma, Badouma, Douma, Liduma]
 population: 9840

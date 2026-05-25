@@ -1,6 +1,8 @@
 ---
 iso: lto
 name: Tsotso
+name_zh: 措措语
+name_zh_auto: true
 autonym: Luyia
 alt_names: [Olutsotso]
 population: null

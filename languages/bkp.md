@@ -1,6 +1,8 @@
 ---
 iso: bkp
 name: Boko (Democratic Republic of Congo)
+name_zh: 博科语（刚果民主共和国）
+name_zh_auto: true
 autonym: Lobala
 alt_names: [Boko, Iboko]
 population: 21000

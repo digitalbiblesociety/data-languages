@@ -1,6 +1,8 @@
 ---
 iso: tls
 name: Tambotalo
+name_zh: 坦博塔洛语
+name_zh_auto: true
 autonym: Biliru
 population: 50
 country_id: VU

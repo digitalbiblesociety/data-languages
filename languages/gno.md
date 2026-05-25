@@ -1,6 +1,8 @@
 ---
 iso: gno
 name: Northern Gondi
+name_zh: 北岡迪语
+name_zh_auto: true
 autonym: गोंडी (खौइ़तौल़ु)
 alt_names: [Gaudi, Ghond, Godi, Gondi, Gondi (Raj), "Gondi, Northern", Gondiva, Gondu, Gondwadi, Gonḍi, Goondile, Goudi, Goudwal, Gônd, Gōṇḍī]
 population: 2910000

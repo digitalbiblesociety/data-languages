@@ -1,6 +1,8 @@
 ---
 iso: npg
 name: "Ponyo-Gongwang Naga"
+name_zh: 蓬约-贡旺纳加语
+name_zh_auto: true
 autonym: "Ponyo-Gongwang"
 alt_names: ["Naga, Ponyo-Gongwang"]
 population: 4500

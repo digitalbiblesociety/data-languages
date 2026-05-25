@@ -1,6 +1,8 @@
 ---
 iso: tcd
 name: Tafi
+name_zh: 塔菲语
+name_zh_auto: true
 autonym: Tafi
 alt_names: [Nyangbo-Tafi, Tegbo]
 population: 4400

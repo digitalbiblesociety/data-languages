@@ -1,6 +1,8 @@
 ---
 iso: mbl
 name: Maxakalí
+name_zh: 马克萨卡利语
+name_zh_auto: true
 autonym: "(Tikmũ'ũn) Yĩy'ax"
 alt_names: [Caposho, Capoxo, Cumanasho, Kapoxó, Kumanasho, Língua maxakalí, Machacali, Macuni, Makoní, Mashakali, Mashakalí, Maxacalí, Maxacari, Maxakali, Maŝakalia lingvo, Menacho, Momaxo, Monachobm, Monaxo, Monocho, Monosho, Monoxó]
 population: 1270

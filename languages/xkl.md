@@ -1,6 +1,8 @@
 ---
 iso: xkl
 name: Mainstream Kenyah
+name_zh: 主流肯雅语
+name_zh_auto: true
 autonym: Lepo’
 alt_names: [Bakong, Bakung, Bakung Kenya, Bakung Kenyah, Highland Kenyah, Kehja, Kelinjau, Kelinyau, Kenja, Kenya, Kenyah, "Kenyah, Kelinyau", Kindjin, Kinjin, Madang, Usun Apau Kenyah]
 population: 52000

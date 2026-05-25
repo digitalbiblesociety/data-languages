@@ -1,6 +1,8 @@
 ---
 iso: nki
 name: Thangal Naga
+name_zh: 坦加尔纳加语
+name_zh_auto: true
 autonym: Thangal Naga
 alt_names: [Khoirao, Khoirao Naga, Koirao, Kolya, Liyāng, Mayangkhang, Miyang-Khang, Miyāng Khāng, Naga, "Naga, Thangal", "Naga,Thangal", Ngari, Thangal, Thanggal, Tukaimi]
 population: 23600

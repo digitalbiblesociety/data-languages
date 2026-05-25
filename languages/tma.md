@@ -1,6 +1,8 @@
 ---
 iso: tma
 name: Tama (Chad)
+name_zh: 塔马语
+name_zh_auto: true
 autonym: Damut
 alt_names: [Jabaal, Miisiirii, Mileere, Tama, Tamok, Tamongobo, Tamot]
 population: 62900

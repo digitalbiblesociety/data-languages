@@ -1,6 +1,8 @@
 ---
 iso: npa
 name: Nar Phu
+name_zh: 纳尔普语
+name_zh_auto: true
 autonym: "Nar-Phu"
 alt_names: [Nar-Phuish, NarPhu, Narpa, Narpú, ภาษานัรพู]
 population: 800

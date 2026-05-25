@@ -1,6 +1,8 @@
 ---
 iso: ncd
 name: Nachering
+name_zh: 纳切林语
+name_zh_auto: true
 autonym: Bangdale
 alt_names: [Bangdel Tûm, Bangdile, Mathsereng, Nacchhering, Nacering Ra, Nachereng, Nachering Tûm, Nacherín, Nacherēng, Nachiring, Nasring, Natśhereng, Nāchhēreng]
 population: 3550

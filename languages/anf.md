@@ -1,6 +1,8 @@
 ---
 iso: anf
 name: Animere
+name_zh: 阿尼梅雷语
+name_zh_auto: true
 autonym: Anyimere
 alt_names: [Kunda]
 population: 700

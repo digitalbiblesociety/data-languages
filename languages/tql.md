@@ -1,6 +1,8 @@
 ---
 iso: tql
 name: Lehali
+name_zh: 勒哈利语
+name_zh_auto: true
 autonym: Loli
 alt_names: [Tekel, Teqel]
 population: 250

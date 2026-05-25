@@ -1,6 +1,8 @@
 ---
 iso: etu
 name: Ejagham
+name_zh: 埃贾姆语
+name_zh_auto: true
 autonym: Ejagham
 alt_names: [Edjagam, Ejagam, Ejaham, Ejwe, Ekoi, Etung, Keaka, Kwa, Obang]
 population: 116700

@@ -1,6 +1,8 @@
 ---
 iso: vkt
 name: Tenggarong Kutai Malay
+name_zh: 滕加隆库塔伊马来语
+name_zh_auto: true
 autonym: Kutai
 alt_names: [Malay, Malay (Tenggarong Kutai), "Malay, Tenggarong Kutai", Tenggarong]
 population: 210000

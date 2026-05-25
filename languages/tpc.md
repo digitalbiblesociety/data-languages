@@ -1,6 +1,8 @@
 ---
 iso: tpc
 name: "Azoyú Me'phaa"
+name_zh: 阿祖尤梅法语
+name_zh_auto: true
 autonym: Me̱ꞌpha̱a̱
 alt_names: ["Azoyu Me'phaa", Azoyú, Azoyú Tlapanec, Azoyú Tlapaneko, Guerrero, Idioma tlapaneco, Malinaltepec Tlapanec, "Me'pa", "Me'phaa", "Me'phaa, Azoyú", Tlapanec, Tlapanec language, "Tlapanec, Azoyú", Tlapaneco, Tlapaneco de Azoyú, Tlapaneco-Sutiaba, Tlapaneeks, Tlapaneko, Tlapanika simi, Tlappanec, Tsíndíí]
 population: 17000

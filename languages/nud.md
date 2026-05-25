@@ -1,6 +1,8 @@
 ---
 iso: nud
 name: Ngala
+name_zh: 恩加拉语
+name_zh_auto: true
 autonym: Sogap
 alt_names: [Gala, Kara, Nggala, Swagup]
 population: 180

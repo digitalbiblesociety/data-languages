@@ -1,6 +1,8 @@
 ---
 iso: kaq
 name: Capanahua
+name_zh: 卡潘瓦乌阿语
+name_zh_auto: true
 autonym: Noquen hihbaan joi
 alt_names: [Kapanawa]
 population: 380

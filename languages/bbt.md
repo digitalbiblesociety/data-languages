@@ -1,6 +1,8 @@
 ---
 iso: bbt
 name: Mburku
+name_zh: 姆布尔库语
+name_zh_auto: true
 autonym: Barke
 alt_names: [Barko, Burkanawa, Kanawa, Kariya Wuufu, Lipkawa, Mburkanci, Wudufu]
 population: 12000

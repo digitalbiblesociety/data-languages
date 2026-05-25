@@ -1,6 +1,8 @@
 ---
 iso: xnz
 name: Kenzi
+name_zh: 肯齐语
+name_zh_auto: true
 autonym: Mattokki
 alt_names: [Mattoki]
 population: 35000

@@ -1,6 +1,8 @@
 ---
 iso: gds
 name: Ghandruk Sign Language
+name_zh: 甘德鲁克手语
+name_zh_auto: true
 autonym: घान्द्रुक सांकेतिक भाषा
 population: 20
 country_id: NP

@@ -1,6 +1,8 @@
 ---
 iso: tdx
 name: "Tandroy-Mahafaly Malagasy"
+name_zh: 坦德罗伊-马哈法利马达加斯加语
+name_zh_auto: true
 autonym: malagasy
 alt_names: ["Malagasy, Tandroy-Mahafaly", Tandroy]
 population: 1300000

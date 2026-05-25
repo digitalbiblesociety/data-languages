@@ -1,6 +1,8 @@
 ---
 iso: rmd
 name: Traveller Danish
+name_zh: 丹麦旅行者语
+name_zh_auto: true
 autonym: Tater Language
 alt_names: ["Danish, Traveller", Rodi, Rotwelsch]
 population: 100

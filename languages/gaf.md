@@ -1,6 +1,8 @@
 ---
 iso: gaf
 name: Gende
+name_zh: 根德语
+name_zh_auto: true
 autonym: Bundi
 alt_names: [Gende-Siane-Gahuku-Kamano-Fore, Gendeka, Gene]
 population: 8000

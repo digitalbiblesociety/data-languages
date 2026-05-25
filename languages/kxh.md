@@ -1,6 +1,8 @@
 ---
 iso: kxh
 name: Karo (Ethiopia)
+name_zh: 卡罗语(埃塞俄比亚)
+name_zh_auto: true
 autonym: Cherre
 alt_names: ["\"etc.\"", Amar, Hamar-Koke, Hamer-Bana-Kara, Karo, Karo jezik, Karo language, Kere, Kerre]
 population: 1000

@@ -1,6 +1,8 @@
 ---
 iso: bes
 name: Besme
+name_zh: 贝斯梅语
+name_zh_auto: true
 autonym: Beseme
 alt_names: ["'Unar", Besemme, Bodor, Hounar, Huner]
 population: 1230

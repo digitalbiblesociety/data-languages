@@ -1,6 +1,8 @@
 ---
 iso: leu
 name: Kara (Papua New Guinea)
+name_zh: 卡拉语(巴布亚新几内亚)
+name_zh_auto: true
 autonym: Kara
 alt_names: [Kara (in Papua New Guinea), Lemakot, Lemusmus, Neu-Mecklenburg]
 population: 5000

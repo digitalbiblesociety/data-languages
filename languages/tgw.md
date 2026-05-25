@@ -1,6 +1,8 @@
 ---
 iso: tgw
 name: Tagwana Senoufo
+name_zh: 塔格瓦纳塞努福语
+name_zh_auto: true
 autonym: Tagbana
 alt_names: ["Senoufo, Tagwana", Tafile, Tafire, Tafiri, Tagbona, Tagouna, Tagwana, Takponi, Takponin]
 population: 138000

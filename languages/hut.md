@@ -1,6 +1,8 @@
 ---
 iso: hut
 name: Humla
+name_zh: 胡姆拉语
+name_zh_auto: true
 autonym: "Ü-Tsang"
 alt_names: [Dangali, "Humla \"Bhotia\"", Phoke]
 population: 4000

@@ -1,6 +1,8 @@
 ---
 iso: xin
 name: Xinca
+name_zh: 辛卡语
+name_zh_auto: true
 autonym: Szinca
 population: null
 country_id: GT

@@ -1,6 +1,8 @@
 ---
 iso: ldo
 name: Loo
+name_zh: 洛奥语
+name_zh_auto: true
 autonym: Shụŋọ
 alt_names: [Lo, Loh, Shungo, Shunhu]
 population: 8000

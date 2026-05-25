@@ -1,6 +1,8 @@
 ---
 iso: hbb
 name: Huba
+name_zh: 胡巴语
+name_zh_auto: true
 autonym: Kilba
 alt_names: [Chobba, Hildi, KChobba, Marghi South]
 population: 337000

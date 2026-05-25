@@ -1,6 +1,8 @@
 ---
 iso: aft
 name: Afitti
+name_zh: 阿菲蒂语
+name_zh_auto: true
 autonym: Affitti
 alt_names: [Affiti, Dinik, Ditti, Unietti]
 population: 4510

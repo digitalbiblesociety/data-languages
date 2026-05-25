@@ -1,6 +1,8 @@
 ---
 iso: ysm
 name: Myanmar Sign Language
+name_zh: 缅甸手语
+name_zh_auto: true
 autonym: Myanmar Sign Language
 alt_names: [Yangon Sign Language, Yangoon Myanmar Sign Language]
 population: 270000

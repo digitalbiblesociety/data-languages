@@ -1,6 +1,8 @@
 ---
 iso: tnx
 name: Tanema
+name_zh: 塔内马语
+name_zh_auto: true
 autonym: Tetawo
 alt_names: [Tanima]
 population: 4

@@ -1,6 +1,8 @@
 ---
 iso: jka
 name: Kaera
+name_zh: 凯拉语
+name_zh_auto: true
 autonym: null
 alt_names: [Dorit]
 population: 5500

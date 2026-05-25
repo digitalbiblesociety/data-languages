@@ -1,6 +1,8 @@
 ---
 iso: yis
 name: Yis
+name_zh: 伊斯语
+name_zh_auto: true
 autonym: null
 population: 320
 country_id: PG

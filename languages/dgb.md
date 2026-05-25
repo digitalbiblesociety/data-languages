@@ -1,6 +1,8 @@
 ---
 iso: dgb
 name: Bunoge Dogon
+name_zh: 布诺格多贡语
+name_zh_auto: true
 autonym: Bunɔɡɛ
 alt_names: [Budu-Tagu, Bunoge, "Dogon, Bunoge", Korandabo]
 population: 1000

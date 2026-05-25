@@ -1,6 +1,8 @@
 ---
 iso: cli
 name: Chakali
+name_zh: 恰卡利语
+name_zh_auto: true
 autonym: null
 population: 6000
 country_id: GH

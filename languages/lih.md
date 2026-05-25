@@ -1,6 +1,8 @@
 ---
 iso: lih
 name: Lihir
+name_zh: 利希尔语
+name_zh_auto: true
 autonym: Lir
 alt_names: [Lihir language]
 population: 12600

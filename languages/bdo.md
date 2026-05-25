@@ -1,6 +1,8 @@
 ---
 iso: bdo
 name: Morom
+name_zh: 莫罗姆语
+name_zh_auto: true
 autonym: Bernde
 alt_names: [Tar Murba]
 population: 4500

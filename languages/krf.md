@@ -1,6 +1,8 @@
 ---
 iso: krf
 name: Koro (Vanuatu)
+name_zh: 科罗语(瓦努阿图)
+name_zh_auto: true
 autonym: null
 alt_names: [Banks-Inseln, Koro]
 population: 160

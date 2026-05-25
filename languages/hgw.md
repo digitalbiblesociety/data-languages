@@ -1,6 +1,8 @@
 ---
 iso: hgw
 name: Haigwai
+name_zh: 海格瓦伊语
+name_zh_auto: true
 autonym: Garaghwaghi
 alt_names: [Kapulika, Naura]
 population: 1060

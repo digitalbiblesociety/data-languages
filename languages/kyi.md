@@ -1,6 +1,8 @@
 ---
 iso: kyi
 name: Kiput
+name_zh: 基普特语
+name_zh_auto: true
 autonym: null
 alt_names: [Malaysia]
 population: 2460

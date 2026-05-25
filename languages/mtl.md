@@ -1,6 +1,8 @@
 ---
 iso: mtl
 name: Montol
+name_zh: 蒙托尔语
+name_zh_auto: true
 autonym: Tɛɛl
 alt_names: [Baltap, Montal, Montoil, Teel]
 population: 21900

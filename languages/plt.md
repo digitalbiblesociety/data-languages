@@ -1,6 +1,8 @@
 ---
 iso: plt
 name: Plateau Malagasy
+name_zh: 高地马达加斯加语
+name_zh_auto: true
 autonym: malagasy
 alt_names: [Malagasi, "Malagasy, Plateau"]
 population: 7646100

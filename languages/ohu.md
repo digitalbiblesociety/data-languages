@@ -1,6 +1,8 @@
 ---
 iso: ohu
 name: Old Hungarian
+name_zh: 古匈牙利语
+name_zh_auto: true
 autonym: null
 alt_names: ["Hungarian, Old"]
 population: null

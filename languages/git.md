@@ -1,6 +1,8 @@
 ---
 iso: git
 name: Gitxsan
+name_zh: 吉特克桑语
+name_zh_auto: true
 autonym: Gitxsanimaax
 alt_names: [Giklsan, Gitksan, Gitksanimx, Gitsanimx̱, Gitsenimx̱, Gitskan, Gitxsen, Gityskyan, "Gyitska'n", Hazelton, Interior, Nass-Gitksan, Nass-gitskan]
 population: 1330

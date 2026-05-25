@@ -1,6 +1,8 @@
 ---
 iso: amj
 name: Amdang
+name_zh: 阿姆当语
+name_zh_auto: true
 autonym: sìmí amdangtí
 alt_names: [Amdangeg, Andang, Andangti, Biltine, Mima, Mime, Mimi, Mimi1, Mimi2, Mututu]
 population: 41100

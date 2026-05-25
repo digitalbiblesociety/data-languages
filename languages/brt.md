@@ -1,6 +1,8 @@
 ---
 iso: brt
 name: Bitare
+name_zh: 比塔雷语
+name_zh_auto: true
 autonym: Njwande
 alt_names: [Yukutare]
 population: 52300

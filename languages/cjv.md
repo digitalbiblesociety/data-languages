@@ -1,6 +1,8 @@
 ---
 iso: cjv
 name: Chuave
+name_zh: 丘瓦维语
+name_zh_auto: true
 autonym: null
 alt_names: [Tjuave]
 population: 25980

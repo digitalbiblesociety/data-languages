@@ -1,6 +1,8 @@
 ---
 iso: atd
 name: Ata Manobo
+name_zh: 阿塔曼诺博语
+name_zh_auto: true
 autonym: Ata Manobo
 alt_names: [Ata of Davao, Atao Manobo, Langilan, "Manobo, Ata"]
 population: 22700

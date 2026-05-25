@@ -1,6 +1,8 @@
 ---
 iso: mrq
 name: North Marquesan
+name_zh: 北马克萨斯语
+name_zh_auto: true
 autonym: ʻEo ʻenana / ʻEo ʻenata
 alt_names: [Marquesan, "Marquesan, North", Marquesas, Marquesas-Inseln Sprache]
 population: 3400

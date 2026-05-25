@@ -1,6 +1,8 @@
 ---
 iso: iri
 name: Rigwe
+name_zh: 里格韦语
+name_zh_auto: true
 autonym: Irigwe
 alt_names: [Aregwe, Idafan, Iregwe, Kwal, Kwan, Kwoll, Kwolla, Miango, Nkarigwe, Nnerigwe, Nyango]
 population: 40000

@@ -1,6 +1,8 @@
 ---
 iso: thr
 name: Rana Tharu
+name_zh: 拉纳塔鲁语
+name_zh_auto: true
 autonym: (polyphyletic)
 alt_names: [Rana Thakur, "Tharu, Rana"]
 population: 486000

@@ -1,6 +1,8 @@
 ---
 iso: vmg
 name: Lungalunga
+name_zh: 隆加隆加语
+name_zh_auto: true
 autonym: Minigir
 alt_names: [Minigir language]
 population: 1500

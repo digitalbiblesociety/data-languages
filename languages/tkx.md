@@ -1,6 +1,8 @@
 ---
 iso: tkx
 name: Tangko
+name_zh: 塘科语
+name_zh_auto: true
 autonym: Okdamor
 alt_names: [Indonesia]
 population: 100

@@ -1,6 +1,8 @@
 ---
 iso: ncu
 name: Chumburung
+name_zh: 楚姆布龙语
+name_zh_auto: true
 autonym: null
 alt_names: [Chumburu, Chumburung (Yeji), Guang, Kyongborong, Nchimburu, Nchumburu, Nchumburung, Nchummuru]
 population: 95000

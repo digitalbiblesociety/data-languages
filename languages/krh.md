@@ -1,6 +1,8 @@
 ---
 iso: krh
 name: Kurama
+name_zh: 库拉玛语
+name_zh_auto: true
 autonym: Tukurami
 alt_names: [Akurmi, Akurumi, Azumu, Bagwama, Bukurumi, Tikurami]
 population: 40300

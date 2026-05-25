@@ -1,6 +1,8 @@
 ---
 iso: eto
 name: Eton
+name_zh: 伊顿语
+name_zh_auto: true
 autonym: Ìtón
 alt_names: [Eton (Cameroon), Iton]
 population: 250000

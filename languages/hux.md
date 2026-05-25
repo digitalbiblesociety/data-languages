@@ -1,6 +1,8 @@
 ---
 iso: hux
 name: Nüpode Huitoto
+name_zh: 努波德惠托托语
+name_zh_auto: true
 autonym: Nɨpóde
 alt_names: [Huitoto (Muinane), Huitoto (Nipode), Huitoto Muinane, Huitoto Nipode, "Huitoto, Nüpode", Muinane, Muinane Huitoto, Nipode, Nipode Witoto, Nupode Huitoto, Nïpode, Nüpode, Uitoto-Kaimo, Witoto Muinane, Witoto nipode, Witoto-Kaimo]
 population: 100

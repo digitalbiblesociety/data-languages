@@ -1,6 +1,8 @@
 ---
 iso: kme
 name: Bakole
+name_zh: 巴科勒语
+name_zh_auto: true
 autonym: Mokpwe
 alt_names: [Bakolle, Bamusso, Kole]
 population: 300

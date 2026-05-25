@@ -1,6 +1,8 @@
 ---
 iso: noj
 name: Nonuya
+name_zh: 非努亚语
+name_zh_auto: true
 autonym: Nononota
 population: 2
 country_id: CO

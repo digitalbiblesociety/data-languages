@@ -1,6 +1,8 @@
 ---
 iso: taz
 name: Tocho
+name_zh: 托乔语
+name_zh_auto: true
 autonym: Tacho
 alt_names: [Toicho]
 population: 3800

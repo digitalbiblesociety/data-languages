@@ -1,6 +1,8 @@
 ---
 iso: dnd
 name: Daonda
+name_zh: 达翁达语
+name_zh_auto: true
 autonym: null
 population: 170
 country_id: PG

@@ -1,6 +1,8 @@
 ---
 iso: lri
 name: Marachi
+name_zh: 马拉奇语
+name_zh_auto: true
 autonym: Olumarachi
 population: null
 country_id: KE

@@ -1,6 +1,8 @@
 ---
 iso: kfx
 name: Kullu Pahari
+name_zh: 库卢·帕哈里语
+name_zh_auto: true
 autonym: Kullu
 alt_names: [Kauli, Kullui, Kulu Boli, Kulu Pahari, Kului, Kulvi, Kulwali, Pahari, Pahari Kullu, "Pahari, Kullu", Paharí de Kullu, Phari Kulu, Western Pahari]
 population: 195000

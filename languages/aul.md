@@ -1,6 +1,8 @@
 ---
 iso: aul
 name: Aulua
+name_zh: 奥卢亚语
+name_zh_auto: true
 autonym: Aulua Bay
 alt_names: [Mallicolo]
 population: 750

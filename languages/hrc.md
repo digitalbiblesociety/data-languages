@@ -1,6 +1,8 @@
 ---
 iso: hrc
 name: Niwer Mil
+name_zh: 尼韦尔米尔语
+name_zh_auto: true
 autonym: Tanga
 population: 9033
 country_id: PG

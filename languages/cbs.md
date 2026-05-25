@@ -1,6 +1,8 @@
 ---
 iso: cbs
 name: Cashinahua
+name_zh: 卡希纳瓦语
+name_zh_auto: true
 autonym: Kashinawa of the Ibuaçu River
 alt_names: [Cashinahua (Brésil), Cashinahua (Perú), Cashinahua (Pérou), Cashinahuá, Caxinawa, Caxinawá, Hãtxa Kuĩ (Huni Kuin), Kashinawa, Kashinawa Kaxinawá, Kaxinaua, Kaxinauá, Kaxinawa, Kaxinawá, Kaxynawa, Língua Caxinauá, Tuxinawa]
 population: 7420

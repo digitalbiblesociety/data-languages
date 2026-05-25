@@ -1,6 +1,8 @@
 ---
 iso: nzb
 name: Njebi
+name_zh: 恩杰比语
+name_zh_auto: true
 autonym: Yinjebi
 alt_names: [Bandzabi, Binzabi, Injebi, Ndjabi, Ndjevi, Njabi, Njevi, Nzebi, Yinzebi]
 population: 143000

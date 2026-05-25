@@ -1,6 +1,8 @@
 ---
 iso: bcv
 name: "Shoo-Minda-Nye"
+name_zh: 舒-明达-尼亚语
+name_zh_auto: true
 autonym: manda
 population: 10000
 country_id: NG

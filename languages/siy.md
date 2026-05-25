@@ -1,6 +1,8 @@
 ---
 iso: siy
 name: Sivandi
+name_zh: 西瓦迪语
+name_zh_auto: true
 autonym: زووآن ئ سیوندی
 alt_names: [Siwendî, زبان سیوندی]
 population: 7030

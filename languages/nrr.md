@@ -1,6 +1,8 @@
 ---
 iso: nrr
 name: Norra
+name_zh: 诺拉语
+name_zh_auto: true
 autonym: null
 alt_names: [Nora]
 population: null

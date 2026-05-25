@@ -1,6 +1,8 @@
 ---
 iso: kkn
 name: Kon Keu
+name_zh: 昆克乌语
+name_zh_auto: true
 autonym: Kon Keu
 population: 1000
 country_id: CN

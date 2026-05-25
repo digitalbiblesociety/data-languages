@@ -1,6 +1,8 @@
 ---
 iso: jbm
 name: Kwanka
+name_zh: 匡卡语
+name_zh_auto: true
 autonym: Kwang
 alt_names: [Bijim]
 population: 20000

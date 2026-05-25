@@ -1,6 +1,8 @@
 ---
 iso: bhv
 name: Bahau
+name_zh: 巴豪语
+name_zh_auto: true
 autonym: Kajan
 population: 19000
 country_id: ID

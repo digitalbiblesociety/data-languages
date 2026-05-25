@@ -1,6 +1,8 @@
 ---
 iso: byw
 name: Belhariya
+name_zh: 贝尔哈里亚语
+name_zh_auto: true
 autonym: Athpagari
 alt_names: [Athpahariya, Athpare, Athpariya, Belhare, Belhare language, Belhariye, ภาษาเบลฮาเร]
 population: 500

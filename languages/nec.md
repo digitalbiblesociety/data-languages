@@ -1,6 +1,8 @@
 ---
 iso: nec
 name: Nedebang
+name_zh: 内德邦语
+name_zh_auto: true
 autonym: Klamu
 alt_names: [Balungada, ภาษาเนเดบัง]
 population: 1380

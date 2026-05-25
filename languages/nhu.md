@@ -1,6 +1,8 @@
 ---
 iso: nhu
 name: Noone
+name_zh: 努纳语
+name_zh_auto: true
 autonym: Nooni
 alt_names: [Kumaju, Noni]
 population: 40000

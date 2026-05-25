@@ -1,6 +1,8 @@
 ---
 iso: tdf
 name: Talieng
+name_zh: 塔利恩语
+name_zh_auto: true
 autonym: Trieng
 alt_names: [Taliang, Tariang]
 population: 23100

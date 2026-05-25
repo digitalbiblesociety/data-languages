@@ -1,6 +1,8 @@
 ---
 iso: sif
 name: Siamou
+name_zh: 西亚莫乌语
+name_zh_auto: true
 autonym: Sɛmɛ
 alt_names: [Idioma siamou, Seme, Siemu, Siémou, Syémou, Sému]
 population: 20000

@@ -1,6 +1,8 @@
 ---
 iso: iks
 name: Inuit Sign Language
+name_zh: 因纽特手语
+name_zh_auto: true
 autonym: ᐃᓄᐃᑦ ᐆᒃᑐᐊᕋᐅᓯᖅ Inuit Uuktuarausiq
 alt_names: [IUR, Inuit Uukturausingit]
 population: 20

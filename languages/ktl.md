@@ -1,6 +1,8 @@
 ---
 iso: ktl
 name: Koroshi
+name_zh: 科罗希语
+name_zh_auto: true
 autonym: کوروشی
 alt_names: [Korochí]
 population: 180

@@ -1,6 +1,8 @@
 ---
 iso: tvw
 name: Sedoa
+name_zh: 塞多亚语
+name_zh_auto: true
 autonym: Tawailia
 alt_names: [Tawaelia]
 population: 600

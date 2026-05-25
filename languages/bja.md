@@ -1,6 +1,8 @@
 ---
 iso: bja
 name: Budza
+name_zh: 布扎语
+name_zh_auto: true
 autonym: Buja
 alt_names: [Budja, Ebuja, Embudja, Limbudza, Mbudja]
 population: 226000

@@ -1,6 +1,8 @@
 ---
 iso: lse
 name: Lusengo
+name_zh: 卢森戈语
+name_zh_auto: true
 autonym: Losengo
 population: 42000
 country_id: CD

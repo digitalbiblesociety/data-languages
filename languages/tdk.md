@@ -1,6 +1,8 @@
 ---
 iso: tdk
 name: Tambas
+name_zh: 坦巴斯语
+name_zh_auto: true
 autonym: Tambes
 alt_names: [Fier, Fyer, Tembis]
 population: 3000

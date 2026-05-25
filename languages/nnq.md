@@ -1,6 +1,8 @@
 ---
 iso: nnq
 name: Ngindo
+name_zh: 恩因多语
+name_zh_auto: true
 autonym: Kingindo
 alt_names: [Magingo, Njindo]
 population: 171000

@@ -1,6 +1,8 @@
 ---
 iso: jee
 name: Jerung
+name_zh: 杰龙语
+name_zh_auto: true
 autonym: Jero
 alt_names: [Jero Mala, Jerum, Jerunge, Jherung, Yerún, Zero, Zero Mala, Zerum]
 population: 2000

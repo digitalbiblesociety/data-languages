@@ -1,6 +1,8 @@
 ---
 iso: glb
 name: Belning
+name_zh: 贝尔宁语
+name_zh_auto: true
 autonym: Belning
 population: 500
 country_id: NG

@@ -1,6 +1,8 @@
 ---
 iso: kwv
 name: Sara Kaba Náà
+name_zh: 萨拉卡巴纳语
+name_zh_auto: true
 autonym: Sara Kaba
 alt_names: [Dana, Kaba Na, Kaba Naa, Kaba Nar, Na, Sara Kaba Naa]
 population: 39000

@@ -1,6 +1,8 @@
 ---
 iso: kkq
 name: Kaiku
+name_zh: 凯库语
+name_zh_auto: true
 autonym: Ikaiku
 alt_names: [Kaeku, Kaiko]
 population: 13000

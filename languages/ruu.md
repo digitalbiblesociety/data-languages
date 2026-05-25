@@ -1,6 +1,8 @@
 ---
 iso: ruu
 name: Lanas Lobu
+name_zh: 拉纳斯洛布语
+name_zh_auto: true
 autonym: Lobu
 alt_names: ["Lobu, Lanas", Malaysia]
 population: 2000

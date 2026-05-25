@@ -1,6 +1,8 @@
 ---
 iso: mcy
 name: South Watut
+name_zh: 南瓦图特语
+name_zh_auto: true
 autonym: null
 alt_names: ["Watut, South"]
 population: 890

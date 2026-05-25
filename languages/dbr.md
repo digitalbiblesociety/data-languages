@@ -1,6 +1,8 @@
 ---
 iso: dbr
 name: Dabarre
+name_zh: 达巴雷语
+name_zh_auto: true
 autonym: "Af-Dabarre"
 alt_names: [Dabarre hizkuntza]
 population: 23000

@@ -1,6 +1,8 @@
 ---
 iso: idc
 name: Idon
+name_zh: 伊东语
+name_zh_auto: true
 autonym: Ajiya
 alt_names: [Idong]
 population: 5000

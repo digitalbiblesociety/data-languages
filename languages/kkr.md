@@ -1,6 +1,8 @@
 ---
 iso: kkr
 name: "Kir-Balar"
+name_zh: 基尔-巴拉尔语
+name_zh_auto: true
 autonym: Kir
 alt_names: [Bogghom, Boghom, Boghorom, Bohom, Bokiyim, Borrom, Burma, Burom, Burrum, Burum, Kirr, Larbawa]
 population: 3050

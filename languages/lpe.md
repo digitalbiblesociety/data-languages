@@ -1,6 +1,8 @@
 ---
 iso: lpe
 name: Lepki
+name_zh: 勒普基语
+name_zh_auto: true
 autonym: bahasa Lepki
 alt_names: [Indonesia]
 population: 530

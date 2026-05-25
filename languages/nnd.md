@@ -1,6 +1,8 @@
 ---
 iso: nnd
 name: West Ambae
+name_zh: 西安巴埃语
+name_zh_auto: true
 autonym: Duidui
 alt_names: ["Ambae, West", Opa]
 population: 8700

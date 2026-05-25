@@ -1,6 +1,8 @@
 ---
 iso: ran
 name: Riantana
+name_zh: 里安塔纳语
+name_zh_auto: true
 autonym: Kimaam
 population: 1100
 country_id: ID

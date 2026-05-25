@@ -1,6 +1,8 @@
 ---
 iso: ynu
 name: Yahuna
+name_zh: 亚胡纳语
+name_zh_auto: true
 autonym: Yaúna
 alt_names: [Jaúna, Yauna, Yayuna]
 population: 95

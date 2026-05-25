@@ -1,6 +1,8 @@
 ---
 iso: awi
 name: Aekyom
+name_zh: 埃基约姆语
+name_zh_auto: true
 autonym: Awin
 alt_names: [Aiwin, Akium, West Awin]
 population: 21100

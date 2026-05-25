@@ -1,6 +1,8 @@
 ---
 iso: apv
 name: Northern Nambikwara
+name_zh: 北南比夸拉语
+name_zh_auto: true
 autonym: Mamaindê
 alt_names: [Alapmunte]
 population: null

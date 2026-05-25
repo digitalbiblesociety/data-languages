@@ -1,6 +1,8 @@
 ---
 iso: twg
 name: Tereweng
+name_zh: 特雷温语
+name_zh_auto: true
 autonym: Tereweng
 alt_names: [Indonesia]
 population: 800

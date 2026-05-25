@@ -1,6 +1,8 @@
 ---
 iso: gia
 name: Kija
+name_zh: 基哈语
+name_zh_auto: true
 autonym: Kija
 alt_names: [Djarak, "Gi:dj", Gidja, Gija, Guidj, Guwidji, Gwidji, Keha, Kidja, Kisah, Kisha, Kitja, Kityu, "Ku:tji", Kuitj, Kuitji, Kutnalawaru, Kwitj, Langgu, Lenga kitja, Liej, Longga, Loonga, Lunga, Lungga, Lungu, Miwa, Paljarri, Tjarak, Walki, War-ingari, Warrangari]
 population: 170

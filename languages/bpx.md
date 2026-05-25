@@ -1,6 +1,8 @@
 ---
 iso: bpx
 name: Palya Bareli
+name_zh: 帕利亚巴雷利语
+name_zh_auto: true
 autonym: Bareli
 alt_names: ["Bareli, Palya", Pali, Palodi]
 population: 10000

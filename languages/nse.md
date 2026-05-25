@@ -1,6 +1,8 @@
 ---
 iso: nse
 name: Nsenga
+name_zh: 恩塞恩加语
+name_zh_auto: true
 autonym: Chinsenga
 alt_names: [Cinsenga, Senga]
 population: 627100

@@ -1,6 +1,8 @@
 ---
 iso: vmj
 name: Ixtayutla Mixtec
+name_zh: 伊克斯塔尤特拉混特克语
+name_zh_auto: true
 autonym: (Santiago Ixtayutla)
 alt_names: ["Mixtec, Ixtayutla", Mixteco de Santiago Ixtayutla, Northeastern Jamiltepec Mixtec, Northern Misteko, Northern Mixteco]
 population: 2800

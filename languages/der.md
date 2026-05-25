@@ -1,6 +1,8 @@
 ---
 iso: der
 name: Deori
+name_zh: 德奥里语
+name_zh_auto: true
 autonym: Chutiya
 alt_names: [Chutia, Dari, Deori Chutiya, Deuri, Dewri, Drori]
 population: 32400

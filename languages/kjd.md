@@ -1,6 +1,8 @@
 ---
 iso: kjd
 name: Southern Kiwai
+name_zh: 南基瓦伊语
+name_zh_auto: true
 autonym: Kiwai
 alt_names: ["Kiwai, Southern"]
 population: 1000

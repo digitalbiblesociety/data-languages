@@ -1,6 +1,8 @@
 ---
 iso: amb
 name: Ambo
+name_zh: 安博语
+name_zh_auto: true
 autonym: null
 alt_names: [Andoa, Arabela, Arabela-Andoa, Chiripuno]
 population: 1000

@@ -1,6 +1,8 @@
 ---
 iso: ian
 name: Iatmul
+name_zh: 亚特穆尔语
+name_zh_auto: true
 autonym: gepmakudi
 alt_names: [Big Sepik, Gepma Kwudi, Gepma Kwundi, Middle Sepik, Ngepma Kwundi, No. 2 Sepik, Nyaura]
 population: 8440

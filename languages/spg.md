@@ -1,6 +1,8 @@
 ---
 iso: spg
 name: Sian
+name_zh: 西安语
+name_zh_auto: true
 autonym: Sihan
 population: 50
 country_id: MY

@@ -1,6 +1,8 @@
 ---
 iso: dgd
 name: Dagaari Dioula
+name_zh: 达加里迪乌拉语
+name_zh_auto: true
 autonym: Dagaari Jula
 alt_names: [Dagaare, Dagaari, Dagara, Dagari, Dagari Dyoula, Dagatri, Dagatsi, Jari, Wa, Wala, Yari]
 population: 21000

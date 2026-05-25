@@ -1,6 +1,8 @@
 ---
 iso: sok
 name: Sokoro
+name_zh: 索科罗语
+name_zh_auto: true
 autonym: null
 alt_names: [Bedanga]
 population: 5000

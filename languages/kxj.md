@@ -1,6 +1,8 @@
 ---
 iso: kxj
 name: Kulfa
+name_zh: 库尔法语
+name_zh_auto: true
 autonym: Kulfa
 alt_names: ["\"Kaba So\"", Koulfa, Kulfe, Kurmi, Kurumi]
 population: 2199

@@ -1,6 +1,8 @@
 ---
 iso: nsp
 name: Nepalese Sign Language
+name_zh: 尼泊尔手语
+name_zh_auto: true
 autonym: Nepali Sign Language
 population: 5743
 country_id: NP

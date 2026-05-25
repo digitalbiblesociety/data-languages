@@ -1,6 +1,8 @@
 ---
 iso: kvj
 name: Psikye
+name_zh: 普西克耶语
+name_zh_auto: true
 autonym: Kamsiki
 alt_names: [Kapsiki, Psikye jezik, Psikyeg, Ptsake]
 population: 525000

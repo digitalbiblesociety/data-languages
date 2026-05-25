@@ -1,6 +1,8 @@
 ---
 iso: esg
 name: Aheri Gondi
+name_zh: 阿赫里贡迪语
+name_zh_auto: true
 autonym: "गोण्डि, గోణ్డి, ଗୋଣ୍ଡି, 𑵶𑶓𑶕𑶂𑶋, 𑴎𑴽𑵀𑴘𑴳,"
 alt_names: [Aheri, "Gondi, Aheri"]
 population: 2980000

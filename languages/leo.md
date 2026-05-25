@@ -1,6 +1,8 @@
 ---
 iso: leo
 name: Leti (Cameroon)
+name_zh: 莱蒂语(喀麦隆)
+name_zh_auto: true
 autonym: null
 alt_names: [Cameroon, Leti]
 population: null

@@ -1,6 +1,8 @@
 ---
 iso: iso
 name: Isoko
+name_zh: 伊索科语
+name_zh_auto: true
 autonym: Biotu
 alt_names: ["\"Biotu\"", "\"Igabo\"", "\"Sobo\"", Sobo, Uzere dialect]
 population: 647000

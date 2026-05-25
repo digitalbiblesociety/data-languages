@@ -1,6 +1,8 @@
 ---
 iso: yxg
 name: Yagara
+name_zh: 亚加拉语
+name_zh_auto: true
 autonym: Yagara
 population: null
 country_id: AU

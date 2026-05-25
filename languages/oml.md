@@ -1,6 +1,8 @@
 ---
 iso: oml
 name: Ombo
+name_zh: 翁博语
+name_zh_auto: true
 autonym: Hombo
 alt_names: [Loombo, Songola]
 population: 8400

@@ -1,6 +1,8 @@
 ---
 iso: uru
 name: Urumi
+name_zh: 乌鲁米语
+name_zh_auto: true
 autonym: null
 alt_names: [Itanga, Ramarama, Ramarama-Urumí, Urumí]
 population: null

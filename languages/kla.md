@@ -1,6 +1,8 @@
 ---
 iso: kla
 name: "Klamath-Modoc"
+name_zh: 克拉马斯-莫多克语
+name_zh_auto: true
 autonym: " Lutuamian"
 alt_names: [E-ukshikni, Klamath, Klamathin kieli, Lutuami, Lutuamí-modoco, Modoc, Кламат-модокский язык]
 population: null

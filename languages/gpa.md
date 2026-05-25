@@ -1,6 +1,8 @@
 ---
 iso: gpa
 name: "Gupa-Abawa"
+name_zh: 古帕-阿巴瓦语
+name_zh_auto: true
 autonym: null
 alt_names: [Nigeria]
 population: 10000

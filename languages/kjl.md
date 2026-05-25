@@ -1,6 +1,8 @@
 ---
 iso: kjl
 name: Western Parbate Kham
+name_zh: 西帕巴特卡姆语
+name_zh_auto: true
 autonym: Kham language
 alt_names: [Kham, "Kham, Western Parbate", "Kham,WesternParbate", Kham-Magar, Khamkura, Khams, Magar, Maikoti Kham, Parbate, "Parbate, Western", Proto-Kham, Takale, Takale Kham, Western Parbate]
 population: 24500

@@ -1,6 +1,8 @@
 ---
 iso: kto
 name: Kuot
+name_zh: 库奥特语
+name_zh_auto: true
 autonym: Panaris
 alt_names: [Kuat, Neu-Pommern, Panaras]
 population: 2400

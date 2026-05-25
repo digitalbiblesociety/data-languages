@@ -1,6 +1,8 @@
 ---
 iso: kit
 name: Agob
+name_zh: 阿戈布语
+name_zh_auto: true
 autonym: Dabu
 alt_names: [Agöb]
 population: 1437

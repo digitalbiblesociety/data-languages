@@ -1,6 +1,8 @@
 ---
 iso: ndr
 name: Ndoola
+name_zh: 恩多拉语
+name_zh_auto: true
 autonym: Ndoola
 alt_names: [Ndola, Ndooro, Ndoro, Njoyame, Nundoro]
 population: 62520

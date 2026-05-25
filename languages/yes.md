@@ -1,6 +1,8 @@
 ---
 iso: "yes"
 name: Nyankpa
+name_zh: 尼扬卡语
+name_zh_auto: true
 autonym: Yeskwa
 alt_names: [Yasgua]
 population: 13000

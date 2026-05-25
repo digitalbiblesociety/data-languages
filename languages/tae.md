@@ -1,6 +1,8 @@
 ---
 iso: tae
 name: Tariana
+name_zh: 塔里亚纳语
+name_zh_auto: true
 autonym: Taliáseri
 alt_names: [Tariana (Brésil), Tariana (Colombie), Tariano, Tariano (Colombia), Tariâna, Tarîna]
 population: 1500

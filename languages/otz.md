@@ -1,6 +1,8 @@
 ---
 iso: otz
 name: Ixtenco Otomi
+name_zh: 伊克斯滕科奥托米语
+name_zh_auto: true
 autonym: Tlaxcala Otomi
 alt_names: [Ixtenco, Ixtenco Otomí, Otomi, "Otomi, Ixtenco", Otomí, Otomí (Ixtenco), "Otomí d'Ixtenco", Otomí de Ixtenco, Otomí de Mezquital, Otomí de la Sierra, Otomí del valle de Mezquital, Southeastern Otomí, Yühmü]
 population: 5356

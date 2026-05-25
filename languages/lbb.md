@@ -1,6 +1,8 @@
 ---
 iso: lbb
 name: Label
+name_zh: 拉贝尔语
+name_zh_auto: true
 autonym: null
 population: 150
 country_id: PG

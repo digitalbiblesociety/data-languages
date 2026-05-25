@@ -1,6 +1,8 @@
 ---
 iso: udg
 name: Muduga
+name_zh: 穆杜加语
+name_zh_auto: true
 autonym: Mudugar
 population: 3370
 country_id: IN

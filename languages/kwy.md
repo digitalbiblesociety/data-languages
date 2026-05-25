@@ -1,6 +1,8 @@
 ---
 iso: kwy
 name: San Salvador Kongo
+name_zh: 圣萨尔瓦多刚果语
+name_zh_auto: true
 autonym: Kikongo
 alt_names: [Cimbala-Cizali, Congo, Kikoongo, Kisikongo, "Kongo, San Salvador"]
 population: 537000

@@ -1,6 +1,8 @@
 ---
 iso: spe
 name: Sepa (Papua New Guinea)
+name_zh: 塞帕语（巴布亚新几内亚）
+name_zh_auto: true
 autonym: null
 alt_names: [Sepa]
 population: 700

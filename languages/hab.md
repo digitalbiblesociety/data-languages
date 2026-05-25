@@ -1,6 +1,8 @@
 ---
 iso: hab
 name: Hanoi Sign Language
+name_zh: 河内手语
+name_zh_auto: true
 autonym: null
 alt_names: [HNSL, Ha Noi Sign Language, NNKHHN, Northern Vietnamese Sign Language, Vietnamese Sign Language, ngôn ngữ ký hiệu Hà Nội]
 population: 39000

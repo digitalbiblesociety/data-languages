@@ -1,6 +1,8 @@
 ---
 iso: foi
 name: Foi
+name_zh: 福伊语
+name_zh_auto: true
 autonym: Foe
 alt_names: [Kutubu, Mubi River]
 population: 2800

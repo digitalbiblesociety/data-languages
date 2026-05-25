@@ -1,6 +1,8 @@
 ---
 iso: syb
 name: Central Subanen
+name_zh: 中苏巴嫩语
+name_zh_auto: true
 autonym: Subanon
 alt_names: [Sindangan Subanun, "Subanen, Central"]
 population: 140000

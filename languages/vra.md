@@ -1,6 +1,8 @@
 ---
 iso: vra
 name: "Vera'a"
+name_zh: 韦拉阿语
+name_zh_auto: true
 autonym: Vatrata
 alt_names: [Banks-Inseln]
 population: 500

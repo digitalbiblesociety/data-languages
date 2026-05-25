@@ -1,6 +1,8 @@
 ---
 iso: ktf
 name: Kwami
+name_zh: 克瓦米语
+name_zh_auto: true
 autonym: Kikwame
 alt_names: [Kikwami, Kwame]
 population: 400

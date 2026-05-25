@@ -1,6 +1,8 @@
 ---
 iso: amo
 name: Amo
+name_zh: 阿莫语
+name_zh_auto: true
 autonym: Amo
 alt_names: [Amap, Amon, Among, Ba, Timap]
 population: 12300

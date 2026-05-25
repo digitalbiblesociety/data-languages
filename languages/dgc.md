@@ -1,6 +1,8 @@
 ---
 iso: dgc
 name: Casiguran Dumagat Agta
+name_zh: 卡西古兰杜马加特阿格塔语
+name_zh_auto: true
 autonym: Casiguran Dumagat
 alt_names: [Agta, Agta (Casiguran Dumagat), "Agta, Casiguran Dumagat", Baler Dumagat, Casiguran, Dumagat (Casiguran)]
 population: 610

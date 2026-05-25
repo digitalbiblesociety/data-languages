@@ -1,6 +1,8 @@
 ---
 iso: zaz
 name: Zari
+name_zh: 扎里语
+name_zh_auto: true
 autonym: Zariwa
 alt_names: [Kopti, Kwapm, Zakshi]
 population: 1000

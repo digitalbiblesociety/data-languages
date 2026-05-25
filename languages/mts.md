@@ -1,6 +1,8 @@
 ---
 iso: mts
 name: Yora
+name_zh: 约拉语
+name_zh_auto: true
 autonym: Yaminahua
 alt_names: [Yora language]
 population: 380

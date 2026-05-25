@@ -1,6 +1,8 @@
 ---
 iso: rpn
 name: Repanbitip
+name_zh: 雷潘比蒂普语
+name_zh_auto: true
 autonym: Letemboi
 population: 125
 country_id: VU

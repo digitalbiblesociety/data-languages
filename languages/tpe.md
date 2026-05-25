@@ -1,6 +1,8 @@
 ---
 iso: tpe
 name: Tippera
+name_zh: 蒂佩拉语
+name_zh_auto: true
 autonym: Tripuri
 alt_names: [Tippera-Bengali, Tipperah, Tippurah, Tipra, Tipura, Triperah, Tripura]
 population: 85000

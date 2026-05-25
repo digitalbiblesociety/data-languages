@@ -1,6 +1,8 @@
 ---
 iso: tll
 name: Tetela
+name_zh: 特泰拉语
+name_zh_auto: true
 autonym: Ɔtɛtɛla
 alt_names: [Otetela, Sungu]
 population: 750000

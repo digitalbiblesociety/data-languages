@@ -1,6 +1,8 @@
 ---
 iso: mcs
 name: Mambai
+name_zh: 姆巴迈语
+name_zh_auto: true
 autonym: Mambay
 alt_names: [Mamgbay, Mamgbei, Manbai, Mangbai, Mangbaï de Biparé, Mangbei, Momboi, Mongbay]
 population: 10000

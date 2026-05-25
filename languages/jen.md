@@ -1,6 +1,8 @@
 ---
 iso: jen
 name: Dza
+name_zh: 扎语
+name_zh_auto: true
 autonym: Jen
 alt_names: [Janjo, Jenjo]
 population: 100000

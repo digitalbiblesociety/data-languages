@@ -1,6 +1,8 @@
 ---
 iso: pye
 name: Pye Krumen
+name_zh: 派克鲁门语
+name_zh_auto: true
 autonym: Kroumen
 alt_names: ["Krumen, Pye", Northeastern Krumen, Southeastern Krumen]
 population: 20000

@@ -1,6 +1,8 @@
 ---
 iso: trc
 name: Copala Triqui
+name_zh: 科帕拉特里基语
+name_zh_auto: true
 autonym: xnaꞌánj nu̱ꞌ
 alt_names: [Copala Trike, Copala Trique, Copala-Trique, Trike, Triki, Trique, Trique (Copala), Triqui, Triqui de San Juan Copala, "Triqui, Copala"]
 population: 30000

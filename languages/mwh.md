@@ -1,6 +1,8 @@
 ---
 iso: mwh
 name: "Mouk-Aria"
+name_zh: 莫克阿里亚语
+name_zh_auto: true
 autonym: "Aria-Mouk"
 alt_names: [Mouk-Aria language]
 population: 630

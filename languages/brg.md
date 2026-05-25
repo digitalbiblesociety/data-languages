@@ -1,6 +1,8 @@
 ---
 iso: brg
 name: Baure
+name_zh: 鲍雷语
+name_zh_auto: true
 autonym: Baure
 alt_names: [Bauré, Chiquimiti, Idioma bauré]
 population: 631

@@ -1,6 +1,8 @@
 ---
 iso: oru
 name: Ormuri
+name_zh: 奥尔穆里语
+name_zh_auto: true
 autonym: " Bargista"
 alt_names: [Baraki, Baraks, Burki, Logari dialect, Oormuri, Ormari, Ormui, Ormur, Ormurí, Urmuri, Warmaro]
 population: 1000

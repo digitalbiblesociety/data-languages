@@ -1,6 +1,8 @@
 ---
 iso: lew
 name: Ledo Kaili
+name_zh: 莱多凯利语
+name_zh_auto: true
 autonym: Ledo
 alt_names: [Kaili, Kaili (Ledo), "Kaili, Ledo", Paloesch, Palu]
 population: 215000

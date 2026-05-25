@@ -1,6 +1,8 @@
 ---
 iso: tlk
 name: Taloki
+name_zh: 塔洛基语
+name_zh_auto: true
 autonym: Talloki
 alt_names: [Taluki]
 population: 500

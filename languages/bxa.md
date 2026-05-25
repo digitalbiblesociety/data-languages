@@ -1,6 +1,8 @@
 ---
 iso: bxa
 name: Tairaha
+name_zh: 泰拉哈语
+name_zh_auto: true
 autonym: Tairaha
 alt_names: [Bauro, Mamarego, Marmaregho, Südliche Salomons-Inseln]
 population: 4980

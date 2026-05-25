@@ -1,6 +1,8 @@
 ---
 iso: kzf
 name: "Da'a Kaili"
+name_zh: 达亚凯利语
+name_zh_auto: true
 autonym: "Kaili, Da'a"
 alt_names: [Bunggu, "Da'a", Kaili]
 population: 3000

@@ -1,6 +1,8 @@
 ---
 iso: mcz
 name: Mawan
+name_zh: 马万语
+name_zh_auto: true
 autonym: null
 population: 470
 country_id: PG

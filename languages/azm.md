@@ -1,6 +1,8 @@
 ---
 iso: azm
 name: Ipalapa Amuzgo
+name_zh: 伊帕拉帕阿穆兹戈语
+name_zh_auto: true
 autonym: Amuzgoan
 alt_names: [Amusgo, Amuzgo, Amuzgo de Santa María Ipalapa, "Amuzgo, Ipalapa", Azmugo]
 population: 940

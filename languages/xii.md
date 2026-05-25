@@ -1,6 +1,8 @@
 ---
 iso: xii
 name: Xiri
+name_zh: 西里语
+name_zh_auto: true
 autonym: Griqua
 alt_names: [Cap-Dialekt, Cape Hottentot, Gri, Grikwa, Gry, Khiri, Língua Xiri, Xirikwa, Xrikwa, Ziri]
 population: 187

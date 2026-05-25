@@ -1,6 +1,8 @@
 ---
 iso: tlg
 name: Tofanma
+name_zh: 托凡玛语
+name_zh_auto: true
 autonym: Tofamna
 population: 250
 country_id: ID

@@ -1,6 +1,8 @@
 ---
 iso: jii
 name: Jiiddu
+name_zh: 吉伊德语
+name_zh_auto: true
 autonym: "Af-Jiiddu"
 alt_names: [Jiddu, Jiiddu hizkuntza, Lenga Jiiddu]
 population: 23000

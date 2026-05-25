@@ -1,6 +1,8 @@
 ---
 iso: kvy
 name: Yintale Karen
+name_zh: 因塔雷卡伦语
+name_zh_auto: true
 autonym: Kayah
 alt_names: ["Karen, Yintale", "Karen,Yintale", Tali, Taliak, Yangatalet, Yangtadai, Yintale, Yintalet]
 population: 10000

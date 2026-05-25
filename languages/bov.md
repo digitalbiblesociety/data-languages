@@ -1,6 +1,8 @@
 ---
 iso: bov
 name: Tuwuli
+name_zh: 图武利语
+name_zh_auto: true
 autonym: Tuwuli
 alt_names: [Bawuli, Bowili, Bowiri, Liwuli, Siwuri, Tuwili]
 population: 11400

@@ -1,6 +1,8 @@
 ---
 iso: axb
 name: Abipon
+name_zh: 阿比蓬语
+name_zh_auto: true
 autonym: Abipones
 alt_names: [Abipone, Abipón, Abipón language, Abipónok, Callaga]
 population: null

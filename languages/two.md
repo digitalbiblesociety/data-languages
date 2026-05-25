@@ -1,6 +1,8 @@
 ---
 iso: two
 name: Tswapong
+name_zh: 茨瓦蓬语
+name_zh_auto: true
 autonym: Pedi
 alt_names: [Setswapong]
 population: 2000

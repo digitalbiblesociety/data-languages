@@ -1,6 +1,8 @@
 ---
 iso: klf
 name: Kendeje
+name_zh: 肯德杰语
+name_zh_auto: true
 autonym: Kendeje
 alt_names: [Kedendje, Kendeye, Kindeje, Yaali]
 population: 1860

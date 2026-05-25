@@ -1,6 +1,8 @@
 ---
 iso: vis
 name: Vishavan
+name_zh: 维萨瓦语
+name_zh_auto: true
 autonym: Malankudi
 alt_names: [Malarkuti]
 population: 150

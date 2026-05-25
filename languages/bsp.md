@@ -1,6 +1,8 @@
 ---
 iso: bsp
 name: Baga Sitemu
+name_zh: 巴加西特穆语
+name_zh_auto: true
 autonym: Barka
 alt_names: [Baga, Baga sitemou, Rio Pongo Baga, Sitemuú, Stem Baga, Tchitem, Temne]
 population: 4000

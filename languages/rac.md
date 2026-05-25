@@ -1,6 +1,8 @@
 ---
 iso: rac
 name: Rasawa
+name_zh: 拉萨瓦语
+name_zh_auto: true
 autonym: bahasa Rasawa
 alt_names: [Indonesia]
 population: 200

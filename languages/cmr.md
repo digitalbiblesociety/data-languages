@@ -1,6 +1,8 @@
 ---
 iso: cmr
 name: "Mro-Khimi Chin"
+name_zh: 姆罗-希米钦语
+name_zh_auto: true
 autonym: Mro
 alt_names: ["Chin, Mro", "Chin, Mro-Khimi", "Chin,Mro", Mro Chin]
 population: 200000

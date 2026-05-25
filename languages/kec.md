@@ -1,6 +1,8 @@
 ---
 iso: kec
 name: Keiga
+name_zh: 凯加语
+name_zh_auto: true
 autonym: Aigang
 alt_names: [Demik, Keiga-Al-Kheil, Keiga-Timero, Yega]
 population: 6070

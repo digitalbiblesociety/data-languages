@@ -1,6 +1,8 @@
 ---
 iso: bqg
 name: "Bago-Kusuntu"
+name_zh: 巴戈-库松图语
+name_zh_auto: true
 autonym: Bago
 alt_names: [Koussountou]
 population: 7500

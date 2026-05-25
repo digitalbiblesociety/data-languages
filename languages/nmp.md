@@ -1,6 +1,8 @@
 ---
 iso: nmp
 name: Nimanbur
+name_zh: 尼曼布尔语
+name_zh_auto: true
 autonym: Nimanburru
 alt_names: [Nimanboro, Nimanboru, Wadiabulu]
 population: null

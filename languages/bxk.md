@@ -1,6 +1,8 @@
 ---
 iso: bxk
 name: Bukusu
+name_zh: 布库苏语
+name_zh_auto: true
 autonym: Lubukusu
 alt_names: [Boukousoueg, Lugha ya Bukusu]
 population: 1227100

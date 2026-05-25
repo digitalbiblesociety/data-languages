@@ -1,6 +1,8 @@
 ---
 iso: ckx
 name: Caka
+name_zh: 卡卡语
+name_zh_auto: true
 autonym: null
 population: 5000
 country_id: CM

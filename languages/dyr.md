@@ -1,6 +1,8 @@
 ---
 iso: dyr
 name: Dyarim
+name_zh: 迪亚里姆语
+name_zh_auto: true
 alt_names: [Dyarim Tə, Dyarum, Dyàrìm Tə́, Kaiwari, Kayaurinci, Ndyarim Tə]
 population: 400
 country_id: NG

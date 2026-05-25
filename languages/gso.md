@@ -1,6 +1,8 @@
 ---
 iso: gso
 name: Southwest Gbaya
+name_zh: 西南吉巴亚语
+name_zh_auto: true
 autonym: Southwest Gbaya
 alt_names: [Gbaya, Gbaya Sud-Ouest, "Gbaya, Southwest"]
 population: 220000

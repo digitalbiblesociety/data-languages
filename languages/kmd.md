@@ -1,6 +1,8 @@
 ---
 iso: kmd
 name: Majukayang Kalinga
+name_zh: 马朱卡扬卡林加语
+name_zh_auto: true
 autonym: Kalinga
 alt_names: ["Kalinga, Madukayang", "Kalinga, Majukayang", Majukayong]
 population: 1500

@@ -1,6 +1,8 @@
 ---
 iso: ckl
 name: Cibak
+name_zh: 西巴克语
+name_zh_auto: true
 autonym: Kyibaku
 alt_names: [Chibak, Chibbak, Chibbuk, Chibok, Chibuk, Cibak jezik, Kibbaku, Kikuk, Tchibakeg]
 population: 200000

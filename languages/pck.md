@@ -1,6 +1,8 @@
 ---
 iso: pck
 name: Paite Chin
+name_zh: 派特钦语
+name_zh_auto: true
 autonym: Zomi
 alt_names: [Chin, Chin (Paite), Chin paite, "Chin, Paite", "Chin,Paite", Haithe, Oarte, Paite, Paithe, Parte, Vuite, Zoukam]
 population: 79500

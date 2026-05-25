@@ -1,6 +1,8 @@
 ---
 iso: crb
 name: Island Carib
+name_zh: 岛屿加勒比语
+name_zh_auto: true
 autonym: Kalhíphona
 alt_names: [Black Carib, Caberne, Cabre, Calino, Calinya, Calinyaku, Callinago, Caraïbe, "Carib, Island", Caribe isleño, Kalhiphona, Kariphuna]
 population: null

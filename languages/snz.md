@@ -1,6 +1,8 @@
 ---
 iso: snz
 name: Kou
+name_zh: 库语
+name_zh_auto: true
 autonym: Sinsauru
 alt_names: [Kow]
 population: 500

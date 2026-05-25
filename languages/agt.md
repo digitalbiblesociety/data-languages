@@ -1,6 +1,8 @@
 ---
 iso: agt
 name: Central Cagayan Agta
+name_zh: 中卡加延艾塔语
+name_zh_auto: true
 autonym: Cagayan Agta
 alt_names: [Agta, Agta (Central Cagayan), Agta (Central), Agta de Cagayan central, Agta de Cagayán central, "Agta, Central Cagayan", Central Agta, Central Cagayan]
 population: 780

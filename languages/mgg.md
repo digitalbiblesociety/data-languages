@@ -1,6 +1,8 @@
 ---
 iso: mgg
 name: Mpumpong
+name_zh: 姆普姆邦语
+name_zh_auto: true
 autonym: Mpumpoŋ
 alt_names: [Bombo, Mbombo, Mpompo, Mpongmpong, Mpopo, Pongpong]
 population: 45000

@@ -1,6 +1,8 @@
 ---
 iso: mcl
 name: Macaguaje
+name_zh: 马卡瓜赫语
+name_zh_auto: true
 autonym: null
 alt_names: [Kakawahe, Piojé, Secoya]
 population: null

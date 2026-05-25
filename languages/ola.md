@@ -1,6 +1,8 @@
 ---
 iso: ola
 name: Walungge
+name_zh: 瓦伦格语
+name_zh_auto: true
 autonym: Ü-Tsang
 alt_names: [Halung, Halung tibetano, Olangchung Gola, Walung, Walungchung Gola, Walunggi Keccya]
 population: 15600

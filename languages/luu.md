@@ -1,6 +1,8 @@
 ---
 iso: luu
 name: "Lumba-Yakkha"
+name_zh: 龙巴-雅卡语
+name_zh_auto: true
 autonym: Yakkhaba Cea
 population: 1200
 country_id: NP

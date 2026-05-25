@@ -1,6 +1,8 @@
 ---
 iso: pbc
 name: Patamona
+name_zh: 帕塔蒙纳语
+name_zh_auto: true
 autonym: Ingarikó
 alt_names: [Eremagok, Ingariko, Kapon, Kapóng, Patamona (Brésil), Patamona (Guyana), Patamona (Guyane), Patamuna]
 population: 4700

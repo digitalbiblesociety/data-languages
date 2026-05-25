@@ -1,6 +1,8 @@
 ---
 iso: lal
 name: Lalia
+name_zh: 拉利亚语
+name_zh_auto: true
 autonym: null
 population: 55000
 country_id: CD

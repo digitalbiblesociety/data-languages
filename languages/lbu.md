@@ -1,6 +1,8 @@
 ---
 iso: lbu
 name: Labu
+name_zh: 拉布语
+name_zh_auto: true
 autonym: Hapa
 alt_names: [Labo, "Labu'"]
 population: 1600

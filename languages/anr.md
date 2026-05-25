@@ -1,6 +1,8 @@
 ---
 iso: anr
 name: Andh
+name_zh: 安德语
+name_zh_auto: true
 autonym: Andha
 population: 100000
 country_id: IN

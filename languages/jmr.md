@@ -1,6 +1,8 @@
 ---
 iso: jmr
 name: Kamara
+name_zh: 卡玛拉语
+name_zh_auto: true
 autonym: null
 alt_names: [Mara]
 population: 3000

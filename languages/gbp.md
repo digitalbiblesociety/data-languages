@@ -1,6 +1,8 @@
 ---
 iso: gbp
 name: "Gbaya-Bossangoa"
+name_zh: 加巴亚-博桑戈阿语
+name_zh_auto: true
 autonym: Gbaya de Bosangoa
 alt_names: [Gbaya, Gbaya of Borro, Gbaya of Bossangoa, Gbaya-Borro, Gbea, Gbeya, Gbeya Bossangoa, Gbeya-Bossangoa]
 population: 200000

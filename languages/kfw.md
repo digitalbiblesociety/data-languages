@@ -1,6 +1,8 @@
 ---
 iso: kfw
 name: Kharam Naga
+name_zh: 哈拉姆那加语
+name_zh_auto: true
 autonym: Duisalongmei
 alt_names: ["Naga, Kharam", "Naga,Kharam", Thinglong]
 population: 1400

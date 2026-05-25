@@ -1,6 +1,8 @@
 ---
 iso: mby
 name: Memoni
+name_zh: 梅蒙尼语
+name_zh_auto: true
 autonym: "ميمنی, મેમોની"
 alt_names: [Pakistan]
 population: null

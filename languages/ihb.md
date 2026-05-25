@@ -1,6 +1,8 @@
 ---
 iso: ihb
 name: Iha Based Pidgin
+name_zh: 伊哈皮钦语
+name_zh_auto: true
 autonym: Kapaur
 alt_names: [Indonesia]
 population: null

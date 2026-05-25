@@ -1,6 +1,8 @@
 ---
 iso: mmm
 name: Maii
+name_zh: 玛伊语
+name_zh_auto: true
 autonym: Mkir
 alt_names: [Mae-Morae, Mafilau]
 population: 180

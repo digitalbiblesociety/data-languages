@@ -1,6 +1,8 @@
 ---
 iso: pti
 name: Pindiini
+name_zh: 平迪伊尼语
+name_zh_auto: true
 autonym: Wati
 alt_names: [Bindinini, Bindunda, Mount Margaret, Pindini, Pintiini, Wangada, Wanggada, Wanggaji, Wangkatha, Wangkathaa, Wangkatja, Won-gaii, Wonga, Wongai-I, Wongaidya, Wonggai, Wonggaii, Wonkai]
 population: 250

@@ -1,6 +1,8 @@
 ---
 iso: kba
 name: Kalarko
+name_zh: 卡拉科尔语
+name_zh_auto: true
 autonym: Kalarko
 alt_names: [Beelia, Beeloo, Derbal, "Gala:gu", Galaagu, Galagu, Galagu/Kalako, Ilakuri wongi, Juadjag, Juadjek, Juadjuk, Kalaako, Kalaaku, Kalako, Kalaku, Kalakul, Kalarku, Kallaar, Karakata, Karrakatta, Malba, Malpa, Marlba, Minal njunga, Minalnjunga, Minnal Yungar, Mirning-Ngadjunma-Kalarko, Mooro, Murram, Ngadjunmaia, Ngadjunmaya, Ngatjunmay, Ngatjunmay Kalako, Njindango, Swan River Tribe, Takalako, Wadjug, Wadjuk, Wadjup, Wajuk, West Mirniny, Whadjuk, Whajook, "Witja:ri", Witjari, Yooadda, Yooard, Yoongar, Yuard, Yuatjek, Yungar, Yungur]
 population: null

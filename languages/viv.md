@@ -1,6 +1,8 @@
 ---
 iso: viv
 name: Iduna
+name_zh: 伊都纳语
+name_zh_auto: true
 autonym: Vivigani
 alt_names: [Vivigana]
 population: 6000

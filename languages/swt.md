@@ -1,6 +1,8 @@
 ---
 iso: swt
 name: Sawila
+name_zh: 萨威拉语
+name_zh_auto: true
 autonym: Tanglapui
 alt_names: ["\"Tanglapui\"", Manata, Sawali, Tanlapui, Wullili]
 population: 3000

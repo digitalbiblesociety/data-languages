@@ -1,6 +1,8 @@
 ---
 iso: noi
 name: Noiri
+name_zh: 诺伊里语
+name_zh_auto: true
 autonym: null
 alt_names: [Bhilori, Mathwadi]
 population: 100000

@@ -1,6 +1,8 @@
 ---
 iso: zpz
 name: Texmelucan Zapotec
+name_zh: 特克斯梅卢坎萨波特克语
+name_zh_auto: true
 autonym: (San Lorenzo Texmelucan)
 alt_names: [Central Sapoteko, Central Sola de Vega Zapotec, Central Zapoteco, Papabuco, Sapateko, Solteco, Texmelucan Papabuco, Zapotec, Zapotec (Texmelucan), "Zapotec, Texmelucan", Zapoteco (Texmelucan), Zapoteco de San Felipe Tejalápam, Zapoteco de San Lorenzo Texmelucan, Zapotèque de San Felipe Tejalapan]
 population: 4100

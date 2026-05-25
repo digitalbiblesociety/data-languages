@@ -1,6 +1,8 @@
 ---
 iso: wno
 name: Wano
+name_zh: 瓦诺语
+name_zh_auto: true
 autonym: Waano
 population: 7000
 country_id: ID

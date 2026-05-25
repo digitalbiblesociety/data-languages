@@ -1,6 +1,8 @@
 ---
 iso: ttj
 name: Tooro
+name_zh: 图罗语
+name_zh_auto: true
 autonym: Rutooro
 alt_names: [Orutoro, Rutoro, Toro]
 population: 846000

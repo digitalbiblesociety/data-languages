@@ -1,6 +1,8 @@
 ---
 iso: pmo
 name: Pom
+name_zh: 庞语
+name_zh_auto: true
 autonym: bahasa Pom
 alt_names: [Indonesia]
 population: 2000

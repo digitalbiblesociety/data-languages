@@ -1,6 +1,8 @@
 ---
 iso: nyh
 name: Nyikina
+name_zh: 尼基纳语
+name_zh_auto: true
 autonym: Njigina
 alt_names: ["Dja:ba", Lenga nyigina, Negena, Nigena, Niggene, Njigana, Njigena, Njikena, Njikin, Njikini, Nyegena, Nygina, Nyi gini, Nyi-gini, Nyigina, Nyigina language, Nyigini, Tjaba, Wanji, Yeeda]
 population: 61

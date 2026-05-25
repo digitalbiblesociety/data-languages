@@ -1,6 +1,8 @@
 ---
 iso: kgg
 name: Kusunda
+name_zh: 库松达语
+name_zh_auto: true
 autonym: Ban Raja
 alt_names: [Idioma kusunda, Kusanda, Kusundaish, Kusundu, Kusūndu, Lingua Kusunda, 쿠순다어]
 population: 164

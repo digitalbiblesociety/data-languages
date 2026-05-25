@@ -1,6 +1,8 @@
 ---
 iso: rml
 name: Baltic Romani
+name_zh: 波罗的海罗姆语
+name_zh_auto: true
 autonym: "Romani, Baltic"
 alt_names: [Baltic, European Romany, Romani, Romani (North Russian), Romany, Zigeuner]
 population: 34010

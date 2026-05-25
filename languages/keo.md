@@ -1,6 +1,8 @@
 ---
 iso: keo
 name: Kakwa
+name_zh: 卡库瓦语
+name_zh_auto: true
 autonym: Karo
 alt_names: [Bari Kakwa, Kakua, Kakwak, Kwakwak]
 population: 351000

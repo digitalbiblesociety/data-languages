@@ -1,6 +1,8 @@
 ---
 iso: kvh
 name: Komodo
+name_zh: 科莫多语
+name_zh_auto: true
 autonym: bahasa Komodo
 alt_names: [Indonesia]
 population: 700

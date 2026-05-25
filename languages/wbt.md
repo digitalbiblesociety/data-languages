@@ -1,6 +1,8 @@
 ---
 iso: wbt
 name: Warnman
+name_zh: 瓦恩曼语
+name_zh_auto: true
 autonym: Warnman
 alt_names: [Budijarra, Gardujarra, Giyajarra, Kartudjara, Keiadjara, Mandjildjara, Manyjilyjarra, Mardu, Nanid jara, Nanid-jara, Nanidjara, Nenidjara, Njanidjara, Nyaani, Potidjara, Wanman, Wanman Wanman, Wanmanba, Wanmin, Warumala]
 population: null

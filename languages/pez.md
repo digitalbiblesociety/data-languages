@@ -1,6 +1,8 @@
 ---
 iso: pez
 name: Eastern Penan
+name_zh: 东皮南语
+name_zh_auto: true
 autonym: Penan
 alt_names: ["\"Punan\"", "Penan, Eastern", Punan]
 population: 6400

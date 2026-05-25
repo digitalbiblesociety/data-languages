@@ -1,6 +1,8 @@
 ---
 iso: snx
 name: Sam
+name_zh: 萨姆语
+name_zh_auto: true
 autonym: Songum
 alt_names: [Eastern, Rendille-Boni]
 population: 780

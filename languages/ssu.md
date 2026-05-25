@@ -1,6 +1,8 @@
 ---
 iso: ssu
 name: Susuami
+name_zh: 苏苏阿米语
+name_zh_auto: true
 autonym: null
 alt_names: [Susuami language]
 population: 10

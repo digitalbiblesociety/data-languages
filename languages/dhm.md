@@ -1,6 +1,8 @@
 ---
 iso: dhm
 name: Zemba
+name_zh: 宗巴语
+name_zh_auto: true
 autonym: Dhimba
 alt_names: [Chimba, Dimba, Himba, Luzimba, Oluthimba, Otjidhimba, Simba, Tjimba]
 population: 25000

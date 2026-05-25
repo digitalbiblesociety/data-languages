@@ -1,6 +1,8 @@
 ---
 iso: boe
 name: Mundabli
+name_zh: 蒙达布利语
+name_zh_auto: true
 autonym: Buu
 alt_names: [Bu, Ji, Mundabli-Mufu]
 population: 1000

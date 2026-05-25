@@ -1,6 +1,8 @@
 ---
 iso: ahm
 name: Mobumrin Aizi
+name_zh: 莫布姆林艾兹语
+name_zh_auto: true
 autonym: Ahizi
 alt_names: [Aizi, "Aizi, Mobumrin"]
 population: 2000

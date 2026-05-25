@@ -1,6 +1,8 @@
 ---
 iso: kub
 name: Kutep
+name_zh: 库特普语
+name_zh_auto: true
 autonym: Ati
 alt_names: ["\"Jompre\"", Kuteb, Kutev, Mbarike, Zumper]
 population: 47600

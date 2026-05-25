@@ -1,6 +1,8 @@
 ---
 iso: uam
 name: Uamué
+name_zh: 乌亚梅语
+name_zh_auto: true
 autonym: Aticum
 alt_names: [Araticum, Atikum, Huamoi, Huamoé, Huamuê, Uame, Uamue, Umã, Wamoé]
 population: null

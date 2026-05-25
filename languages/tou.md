@@ -1,6 +1,8 @@
 ---
 iso: tou
 name: Tho
+name_zh: 佗语
+name_zh_auto: true
 autonym: Hung (hnu)Thổ (tou)
 alt_names: [Cuoi, Cuoi Cham, Ho Muong Meridional, Keo]
 population: 75000

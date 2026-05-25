@@ -1,6 +1,8 @@
 ---
 iso: kgf
 name: Kube
+name_zh: 库贝语
+name_zh_auto: true
 autonym: Mongi
 alt_names: [Hube]
 population: 6000

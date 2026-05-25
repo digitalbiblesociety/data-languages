@@ -1,6 +1,8 @@
 ---
 iso: zeg
 name: Zenag
+name_zh: 泽纳格语
+name_zh_auto: true
 autonym: Zenang
 population: 1818
 country_id: PG

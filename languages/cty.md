@@ -1,6 +1,8 @@
 ---
 iso: cty
 name: Moundadan Chetty
+name_zh: 蒙达丹切蒂语
+name_zh_auto: true
 population: 5400
 country_id: IN
 country_name: India

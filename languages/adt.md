@@ -1,6 +1,8 @@
 ---
 iso: adt
 name: Adnyamathanha
+name_zh: 阿德尼亚马塔尼亚语
+name_zh_auto: true
 autonym: yura ngarwala
 alt_names: ["Ad'n'amadana", Adiñamantana, Adjnjamatana, Adjnjamathanha, Adnamadana, Adnamatana, Adnjamadana, Adnjamadana Wailbi, Adnjamadhanha, Adnjamatana, Adnjamathanha, Adnjamathera, Adnjmadhanha, Adnjnjamathanha, Adnyamatana, Adnyamathana, Adnymathanha, Adnymathanta, Adyamatana, Adynyamathanha, Andjama Dana, Andyamatana, Anjamatana, Anjamutina, Anjimatana, Anjiwatana, Anjiwatina, Anyamatana, Archualda, Atjualda, Atnyamathanha, Atynyamatana, Atynyamathanha, Atʸnʸamat̪an̪a, Benbakanjamata, Benbakanjamatana, Binbarnja, Binbarnya, Gadjnjamada, Gadjnjamadja, Ganjamadna, Imatjara, Jadliaura, Jandali, Kanjamata, Kanjimata, Keidnamutha, Keydnjamarda, Keydnjmarda, Kudjamuther, Kudjchnamootha, Kudnamietha, Kutchamoota, Kutchhamootha, Kutchnamoota, Kutchnamootha, Lingua adynyamathanha, Mardala, Mardula, Ngatjuwalda, Ngudlawara, Nimalda, Nimbalda, Nimbaldi, Nuralda, Umbertana, Unyamatana, Unyamootha, Wadla, Wailbi, Wailpi, Wajalpi, Waljbi, Walypi, Wipie]
 population: 130

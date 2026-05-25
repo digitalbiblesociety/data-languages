@@ -1,6 +1,8 @@
 ---
 iso: cll
 name: Chala
+name_zh: 查拉语
+name_zh_auto: true
 autonym: Cala
 alt_names: [Cãla, Tsa, Tschala, Tshala]
 population: 3000

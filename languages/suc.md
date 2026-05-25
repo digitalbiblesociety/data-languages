@@ -1,6 +1,8 @@
 ---
 iso: suc
 name: Western Subanon
+name_zh: 西苏巴嫩语
+name_zh_auto: true
 autonym: Subanon
 alt_names: [Siocon, "Subanon, Western"]
 population: 125000

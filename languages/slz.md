@@ -1,6 +1,8 @@
 ---
 iso: slz
 name: "Ma'ya"
+name_zh: 玛亚语
+name_zh_auto: true
 autonym: Sailolof
 alt_names: [Maya, Maya (South Halmahera), Salawati, Salawati dialect, Samate]
 population: 4000

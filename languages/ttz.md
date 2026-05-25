@@ -1,6 +1,8 @@
 ---
 iso: ttz
 name: Tsum
+name_zh: 楚姆语
+name_zh_auto: true
 autonym: Tsumke
 alt_names: [Tsumge]
 population: 4790

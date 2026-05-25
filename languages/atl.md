@@ -1,6 +1,8 @@
 ---
 iso: atl
 name: Mt. Iraya Agta
+name_zh: 伊拉亚阿格塔山语
+name_zh_auto: true
 autonym: Buhi Agta
 alt_names: [Agta, Agta del Monte Iraya, Agta du Mont Iraya, "Agta, Mt. Iraya", Bikol, Inagta of Mt. Iraya, Itbeg Rugnot, Lake Buhi East, Mount Iraya Agta, Mt. Iraya, Rugnot of Lake Buhi East]
 population: 150

@@ -1,6 +1,8 @@
 ---
 iso: ovd
 name: Elfdalian
+name_zh: 埃尔夫达利安语
+name_zh_auto: true
 autonym: Övdalian
 population: 2000
 country_id: SE

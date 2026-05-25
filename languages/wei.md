@@ -1,6 +1,8 @@
 ---
 iso: wei
 name: Kiunum
+name_zh: 基乌努姆语
+name_zh_auto: true
 autonym: Kiunum
 alt_names: [Were, Wèré]
 population: 700

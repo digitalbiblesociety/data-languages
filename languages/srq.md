@@ -1,6 +1,8 @@
 ---
 iso: srq
 name: Sirionó
+name_zh: 西里奥诺语
+name_zh_auto: true
 autonym: Mbia chẽẽ
 alt_names: [Chori, Mbia, Mbia Chee, Mbya, Siriono]
 population: 190

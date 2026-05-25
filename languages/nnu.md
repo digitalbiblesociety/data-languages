@@ -1,6 +1,8 @@
 ---
 iso: nnu
 name: Dwang
+name_zh: 德旺语
+name_zh_auto: true
 autonym: Nchumunu
 alt_names: [Dwan, Guang]
 population: 1600

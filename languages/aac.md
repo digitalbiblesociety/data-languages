@@ -1,6 +1,8 @@
 ---
 iso: aac
 name: Ari
+name_zh: 阿里语
+name_zh_auto: true
 autonym: null
 alt_names: [Ari jezik, Lenga Ari]
 population: 50

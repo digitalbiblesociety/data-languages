@@ -1,6 +1,8 @@
 ---
 iso: rat
 name: Razajerdi
+name_zh: 拉扎杰尔迪语
+name_zh_auto: true
 autonym: null
 alt_names: [Iran]
 population: null

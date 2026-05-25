@@ -1,6 +1,8 @@
 ---
 iso: miu
 name: Cacaloxtepec Mixtec
+name_zh: 卡卡洛克特佩克混合语
+name_zh_auto: true
 autonym: (Santiago Cacaloxtepec)
 alt_names: [Huajuapan Mixtec, "Mixtec, Cacaloxtepec", Mixteco de Cacaloxtepec, Mixteco de Tezoatlán de Segura y Luna, Northern Misteko, Northern Mixteco, Tezoatlan Mixtec, Tezoatlán Mixtec]
 population: 1254

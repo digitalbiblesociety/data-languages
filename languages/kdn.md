@@ -1,6 +1,8 @@
 ---
 iso: kdn
 name: Kunda
+name_zh: 库达语
+name_zh_auto: true
 autonym: Cikunda
 alt_names: [Chicunda, Chikunda]
 population: 162760

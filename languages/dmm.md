@@ -1,6 +1,8 @@
 ---
 iso: dmm
 name: Dama
+name_zh: 达玛语
+name_zh_auto: true
 autonym: null
 population: null
 country_id: CM

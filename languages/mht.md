@@ -1,6 +1,8 @@
 ---
 iso: mht
 name: Mandahuaca
+name_zh: 曼达瓦卡语
+name_zh_auto: true
 autonym: Mandawaka
 alt_names: [Arihini, Cunipusana, Ihini, Maldavaca, Mandauaca, Mandawaca, Mandawáka, Mitua, Yavita]
 population: 3000

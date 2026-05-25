@@ -1,6 +1,8 @@
 ---
 iso: tte
 name: Bwanabwana
+name_zh: 布瓦纳布瓦纳语
+name_zh_auto: true
 autonym: Tubetube
 population: 2400
 country_id: PG

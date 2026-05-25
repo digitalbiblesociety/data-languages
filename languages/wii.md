@@ -1,6 +1,8 @@
 ---
 iso: wii
 name: Minidien
+name_zh: 米尼迪恩语
+name_zh_auto: true
 autonym: Minidien
 alt_names: [Menandon, Miniden, Wiakei, Wiaki]
 population: 1186

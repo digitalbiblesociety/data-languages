@@ -1,6 +1,8 @@
 ---
 iso: gga
 name: Gao
+name_zh: 高语
+name_zh_auto: true
 autonym: Nggao
 population: 2500
 country_id: SB

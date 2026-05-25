@@ -1,6 +1,8 @@
 ---
 iso: bri
 name: Mokpwe
+name_zh: 莫克普韦语
+name_zh_auto: true
 autonym: Mokpwe
 alt_names: [Bakpwe, Bakueri, Bakwedi, Bakwele, Bakweri, Bekwiri, Kwedi, Kweli, Kwili, Kwiri, Mokpe, Ujuwa, Vakweli, Vambeng]
 population: 20000

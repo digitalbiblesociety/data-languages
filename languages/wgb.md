@@ -1,6 +1,8 @@
 ---
 iso: wgb
 name: Wagawaga
+name_zh: 瓦加瓦加语
+name_zh_auto: true
 autonym: Baeaula
 population: 1900
 country_id: PG

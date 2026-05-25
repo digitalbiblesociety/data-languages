@@ -1,6 +1,8 @@
 ---
 iso: ypb
 name: Labo Phowa
+name_zh: 拉博-菲瓦语
+name_zh_auto: true
 autonym: Puwa
 alt_names: [Asaheipho, Asahopho, Ekhepho, Labopho, Pho, "Phowa, Labo", "Phowa,Labo", Phula, White Phu, Zemapho]
 population: 17000

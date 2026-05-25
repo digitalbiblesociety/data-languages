@@ -1,6 +1,8 @@
 ---
 iso: mgm
 name: Mambae
+name_zh: 玛姆巴埃语
+name_zh_auto: true
 autonym: Mambai
 alt_names: [Manbae]
 population: 230000

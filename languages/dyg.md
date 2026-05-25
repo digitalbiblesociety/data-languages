@@ -1,6 +1,8 @@
 ---
 iso: dyg
 name: Villa Viciosa Agta
+name_zh: 别别别山亚格塔语
+name_zh_auto: true
 autonym: null
 alt_names: ["Agta, Villa Viciosa"]
 population: null

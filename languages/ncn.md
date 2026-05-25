@@ -1,6 +1,8 @@
 ---
 iso: ncn
 name: Nauna
+name_zh: 瑙纳语
+name_zh_auto: true
 autonym: Naune
 alt_names: [Admiralitäts-inseln]
 population: 420

@@ -1,6 +1,8 @@
 ---
 iso: xtv
 name: Thawa
+name_zh: 塔瓦语
+name_zh_auto: true
 autonym: Baianga
 population: null
 country_id: AU

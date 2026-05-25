@@ -1,6 +1,8 @@
 ---
 iso: iou
 name: "Tuma-Irumu"
+name_zh: 图玛-伊鲁木语
+name_zh_auto: true
 autonym: Irumu
 alt_names: [Tuma, Upper Irumu]
 population: 1500

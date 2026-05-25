@@ -1,6 +1,8 @@
 ---
 iso: sgm
 name: Singa
+name_zh: 辛加语
+name_zh_auto: true
 autonym: Chula
 alt_names: [Lusinga]
 population: null

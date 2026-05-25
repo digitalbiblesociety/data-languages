@@ -1,6 +1,8 @@
 ---
 iso: ndd
 name: "Nde-Nsele-Nta"
+name_zh: 恩德-恩塞莱-恩塔语
+name_zh_auto: true
 autonym: Nde
 alt_names: [Nigeria]
 population: 12000

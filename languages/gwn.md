@@ -1,6 +1,8 @@
 ---
 iso: gwn
 name: Gwandara
+name_zh: 甘达拉语
+name_zh_auto: true
 autonym: Kwandara
 alt_names: [Gwandara language]
 population: 27300

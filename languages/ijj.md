@@ -1,6 +1,8 @@
 ---
 iso: ijj
 name: Ede Ije
+name_zh: 埃德伊杰语
+name_zh_auto: true
 autonym: Holi
 alt_names: [Ije]
 population: 155000

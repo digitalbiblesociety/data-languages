@@ -1,6 +1,8 @@
 ---
 iso: xar
 name: Karami
+name_zh: 卡拉米语
+name_zh_auto: true
 autonym: null
 alt_names: [Pepeha]
 population: null

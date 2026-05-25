@@ -1,6 +1,8 @@
 ---
 iso: bps
 name: Sarangani Blaan
+name_zh: 萨兰加尼布兰语
+name_zh_auto: true
 autonym: null
 alt_names: [Balud, Bilaan, Blaan, "Blaan, Sarangani", Tumanao]
 population: 90800

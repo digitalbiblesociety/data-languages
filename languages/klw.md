@@ -1,6 +1,8 @@
 ---
 iso: klw
 name: Tado
+name_zh: 塔多语
+name_zh_auto: true
 autonym: Tado
 alt_names: [Lindu]
 population: 3640

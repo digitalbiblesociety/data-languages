@@ -1,6 +1,8 @@
 ---
 iso: lpn
 name: Long Phuri Naga
+name_zh: 龙普里纳加语
+name_zh_auto: true
 autonym: Long Phuri Naga
 alt_names: ["Naga, Long Phuri"]
 population: 2000

@@ -1,6 +1,8 @@
 ---
 iso: pnz
 name: Pana (Central African Republic)
+name_zh: 帕纳语(中非共和国)
+name_zh_auto: true
 autonym: Pani
 alt_names: [Pana]
 population: 10000

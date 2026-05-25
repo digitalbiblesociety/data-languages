@@ -1,6 +1,8 @@
 ---
 iso: doh
 name: Dong
+name_zh: 侗语
+name_zh_auto: true
 autonym: Donga
 alt_names: [Dɔ]
 population: 5000

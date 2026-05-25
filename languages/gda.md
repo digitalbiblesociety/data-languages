@@ -1,6 +1,8 @@
 ---
 iso: gda
 name: Gade Lohar
+name_zh: 加德洛哈尔语
+name_zh_auto: true
 autonym: Gade Lohar
 alt_names: [Bagri Lohar, Belani, Bhubaliya Lohar, Chitodi Lohar, Chittoriya Lohar, Dhunkuria, Domba, Dombiali, Gade-Lohar, Gadia Lohar, Gaduliya Lohar, Gara, Kanwar Khati, "Lohar, Gade", Lohari, Lohpitta, Panchal Lohar, Rajput Lohar]
 population: 1010

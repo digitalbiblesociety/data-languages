@@ -1,6 +1,8 @@
 ---
 iso: msi
 name: Sabah Malay
+name_zh: 沙巴马来语
+name_zh_auto: true
 autonym: "Bahasa-Bahasa Melayu Dagang dan Kreol"
 alt_names: [Bazaar Malay, Brunei-Sabah Malay, "Malay, Sabah", Pasar Malay]
 population: null

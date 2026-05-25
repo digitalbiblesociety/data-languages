@@ -1,6 +1,8 @@
 ---
 iso: nxx
 name: Nafri
+name_zh: 纳夫里语
+name_zh_auto: true
 autonym: bahasa Nafri
 alt_names: [Indonesia]
 population: 1630

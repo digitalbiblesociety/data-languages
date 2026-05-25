@@ -1,6 +1,8 @@
 ---
 iso: nsw
 name: Navut
+name_zh: 纳瓦特语
+name_zh_auto: true
 autonym: Sinia
 alt_names: [Vanuatu]
 population: 520

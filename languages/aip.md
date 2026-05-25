@@ -1,6 +1,8 @@
 ---
 iso: aip
 name: Burumakok
+name_zh: 布鲁马科克语
+name_zh_auto: true
 autonym: bahasa Burumakok
 population: 40
 country_id: ID

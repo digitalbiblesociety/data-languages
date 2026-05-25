@@ -1,6 +1,8 @@
 ---
 iso: tnm
 name: Tabla
+name_zh: 塔布拉语
+name_zh_auto: true
 autonym: Tanah Merah
 alt_names: [Jakari, Tabi, Tanah Merah(2), Tanahmerah, Tanahmerah 2, Tanahmerah II, Tepera]
 population: 3750

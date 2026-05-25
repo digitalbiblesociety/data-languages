@@ -1,6 +1,8 @@
 ---
 iso: urw
 name: Sop
+name_zh: 索普语
+name_zh_auto: true
 autonym: Sob
 alt_names: [Kari, Usino]
 population: 2250

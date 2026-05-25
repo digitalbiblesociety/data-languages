@@ -1,6 +1,8 @@
 ---
 iso: ani
 name: Andi
+name_zh: 安迪语
+name_zh_auto: true
 autonym: къӀаваннаб мицӀцӀи qwavannab miċċi
 alt_names: [Andieg, Andii, Andin kieli, Andiy, Język andyjski, Llengua andi, Língua andi, Qandisel, Qwannab, qwavannab micci, Андиаг æвзаг, Андски јазик, Андійська мова, андийский язык, къIaваннаб мицци, ანდიური ენა]
 population: 40000

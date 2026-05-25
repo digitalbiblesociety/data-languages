@@ -1,6 +1,8 @@
 ---
 iso: bjh
 name: Bahinemo
+name_zh: 巴希内莫语
+name_zh_auto: true
 autonym: Bahenemo
 alt_names: [Babinemo, Gahom, Inaru, Wogu, Yigai]
 population: 550

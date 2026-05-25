@@ -1,6 +1,8 @@
 ---
 iso: mtg
 name: Una
+name_zh: 乌纳语
+name_zh_auto: true
 autonym: Goliath
 alt_names: [Langda, Langtub, Mt. Goliath, Oranje-Gebergte]
 population: 4000

@@ -1,6 +1,8 @@
 ---
 iso: kxq
 name: Smärky Kanum
+name_zh: 斯玛基卡努姆语
+name_zh_auto: true
 autonym: Kanum
 alt_names: ["Kanum, Smärky", Smarky Kanum, Smärky]
 population: 150

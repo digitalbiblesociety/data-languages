@@ -1,6 +1,8 @@
 ---
 iso: dam
 name: Damakawa
+name_zh: 达玛卡瓦语
+name_zh_auto: true
 autonym: null
 alt_names: [Damakawa jezik, "Tidama'un"]
 population: null

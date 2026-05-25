@@ -1,6 +1,8 @@
 ---
 iso: umr
 name: Umbugarla
+name_zh: 翁布加拉语
+name_zh_auto: true
 autonym: Mbukarla
 alt_names: [Ambugala, Bugula, Język umbugarla, Lenga umbugarla, Mbakarla, Numbugala, Puneitja, Umbugarla jezik]
 population: null

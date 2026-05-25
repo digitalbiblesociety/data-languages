@@ -1,6 +1,8 @@
 ---
 iso: mdj
 name: Mangbetu
+name_zh: 曼格贝图语
+name_zh_auto: true
 autonym: Nemangbetu
 alt_names: [Amangbetu, Kingbetu, Mambetto, Mangbettu]
 population: 620000

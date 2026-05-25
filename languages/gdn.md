@@ -1,6 +1,8 @@
 ---
 iso: gdn
 name: Umanakaina
+name_zh: 乌玛纳凯纳语
+name_zh_auto: true
 autonym: Gwedena
 alt_names: [Gvede, Gweda, Gwede, Umanikaina]
 population: 2810

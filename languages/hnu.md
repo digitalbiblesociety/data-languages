@@ -1,6 +1,8 @@
 ---
 iso: hnu
 name: Hung
+name_zh: 洪语
+name_zh_auto: true
 autonym: Hung (hnu)Thổ (tou)
 alt_names: [Cuói, "K'katiam-Pong-Houk", "P'eng", Pheng, Phong, Pong, Theng, ภาษาฮุง]
 population: 2000

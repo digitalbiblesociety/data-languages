@@ -1,6 +1,8 @@
 ---
 iso: ydk
 name: Yoidik
+name_zh: 约伊迪克语
+name_zh_auto: true
 autonym: null
 population: 770
 country_id: PG

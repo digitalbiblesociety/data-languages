@@ -1,6 +1,8 @@
 ---
 iso: zpu
 name: Yalálag Zapotec
+name_zh: 亚拉拉格萨波特克语
+name_zh_auto: true
 autonym: "Zapotec, Yalálag"
 alt_names: [Cajonos Zapotec, Northern Sapoteko, Villalta (non-preferred), Yalalag Zapotec, Zapotec, dill xhon]
 population: 3500

@@ -1,6 +1,8 @@
 ---
 iso: tbm
 name: Tagbu
+name_zh: 塔格布语
+name_zh_auto: true
 autonym: Tagba
 alt_names: [Tagbo]
 population: 17000

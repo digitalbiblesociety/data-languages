@@ -1,6 +1,8 @@
 ---
 iso: bhl
 name: Bimin
+name_zh: 比明语
+name_zh_auto: true
 autonym: Bim
 population: 2250
 country_id: PG

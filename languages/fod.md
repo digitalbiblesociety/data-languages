@@ -1,6 +1,8 @@
 ---
 iso: fod
 name: Foodo
+name_zh: 福多语
+name_zh_auto: true
 autonym: null
 alt_names: [Guang]
 population: 24500

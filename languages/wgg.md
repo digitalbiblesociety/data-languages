@@ -1,6 +1,8 @@
 ---
 iso: wgg
 name: Wangkangurru
+name_zh: 瓦甘甘乌卢语
+name_zh_auto: true
 autonym: Wongkanguru
 alt_names: [Arabana/Wangkangurru, Gongaru, Kanguru, Ongkongura, Ongkonguru, Partama, Unganoora, Wanganguru, Wangganguri, Wanggangurru, Wangganguru, Wangka-Jutjuru, Wangkadjera, Wangkanguru, Wingkungira, Wong kaooroo, Wong kongaru, Wonganguru, Wongganguru, Wonggongaru, Wongkaguru, Wongkangurru, Wongkaooroo, Wongkongaru, Wongo nooroo, Wongonooroo, Wonkagnurra, Wonkanguru, Wonkanooroo, Wonkaoora, Wonkaooroo, Wonkgongaru, Wonkongaru, Wonkongnuru, Wonkonguru, Wychinga]
 population: 3

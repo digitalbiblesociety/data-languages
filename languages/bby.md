@@ -1,6 +1,8 @@
 ---
 iso: bby
 name: Befang
+name_zh: 贝芳语
+name_zh_auto: true
 autonym: Befang
 alt_names: [Beba-Befang, Biba-Bifang, Bifang, Menchum]
 population: 2980

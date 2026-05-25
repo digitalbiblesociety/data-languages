@@ -1,6 +1,8 @@
 ---
 iso: bvf
 name: Boor
+name_zh: 博尔语
+name_zh_auto: true
 autonym: Bwara
 alt_names: [Damraw]
 population: 100

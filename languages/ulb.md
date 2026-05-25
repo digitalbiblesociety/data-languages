@@ -1,6 +1,8 @@
 ---
 iso: ulb
 name: Ulukwumi
+name_zh: 乌卢库米语
+name_zh_auto: true
 autonym: Olùkùmi
 alt_names: [Nigeria]
 population: 10000

@@ -1,6 +1,8 @@
 ---
 iso: oti
 name: Oti
+name_zh: 奥蒂语
+name_zh_auto: true
 autonym: Chavante
 alt_names: [Eochavante, Euchavante, Otí]
 population: null

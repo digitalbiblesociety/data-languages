@@ -1,6 +1,8 @@
 ---
 iso: rir
 name: Ribun
+name_zh: 里本语
+name_zh_auto: true
 autonym: bahasa Ribun
 alt_names: [Indonesia]
 population: 45000

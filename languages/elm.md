@@ -1,6 +1,8 @@
 ---
 iso: elm
 name: Eleme
+name_zh: 埃莱梅语
+name_zh_auto: true
 autonym: null
 alt_names: [Nigeria]
 population: 58000

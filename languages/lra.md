@@ -1,6 +1,8 @@
 ---
 iso: lra
 name: "Rara Bakati'"
+name_zh: 拉拉-巴卡蒂语
+name_zh_auto: true
 autonym: Luru
 alt_names: [Lara language, "Lara'"]
 population: 11300

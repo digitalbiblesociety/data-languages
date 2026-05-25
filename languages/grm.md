@@ -1,6 +1,8 @@
 ---
 iso: grm
 name: Kota Marudu Talantang
+name_zh: 科塔马鲁杜塔兰坦语
+name_zh_auto: true
 autonym: null
 alt_names: [Malaysia]
 population: 1800

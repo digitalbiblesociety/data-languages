@@ -1,6 +1,8 @@
 ---
 iso: sij
 name: Numbami
+name_zh: 努姆巴米语
+name_zh_auto: true
 autonym: Siboma
 alt_names: [Numbani, Sipoma]
 population: 270

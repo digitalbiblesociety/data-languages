@@ -1,6 +1,8 @@
 ---
 iso: stt
 name: Budeh Stieng
+name_zh: 布德斯蒂恩格语
+name_zh_auto: true
 autonym: Lower Stieng
 alt_names: [Budeh, Southern Stieng, Stieng, Stieng Budeh, "Stieng, Budeh"]
 population: null

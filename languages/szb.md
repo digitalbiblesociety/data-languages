@@ -1,6 +1,8 @@
 ---
 iso: szb
 name: Ngalum
+name_zh: 恩加卢姆语
+name_zh_auto: true
 autonym: Sibil
 population: 18000
 country_id: ID

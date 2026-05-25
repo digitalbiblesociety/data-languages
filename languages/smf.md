@@ -1,6 +1,8 @@
 ---
 iso: smf
 name: Auwe
+name_zh: 奥威语
+name_zh_auto: true
 autonym: Simog
 population: 410
 country_id: PG

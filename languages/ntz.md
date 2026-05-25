@@ -1,6 +1,8 @@
 ---
 iso: ntz
 name: Natanzi
+name_zh: 纳坦兹语
+name_zh_auto: true
 autonym: Natanzic
 alt_names: [Natanzí]
 population: 7030

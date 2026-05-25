@@ -1,6 +1,8 @@
 ---
 iso: mql
 name: Mbelime
+name_zh: 姆贝利梅语
+name_zh_auto: true
 autonym: "M'Bermè"
 alt_names: ["\"Niende\"", "\"Niendi\"", Mbilme, Nyende]
 population: 24500

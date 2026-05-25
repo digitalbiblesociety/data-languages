@@ -1,6 +1,8 @@
 ---
 iso: ywr
 name: Yawuru
+name_zh: 亚乌鲁语
+name_zh_auto: true
 autonym: null
 alt_names: [Djauor, Dyugun, Gawor, Jaoro, Jaudjibara, Jauor, Jauro, Jauur, Jawadjag, Jawdjibaia, Jawdjibara, Jawuru, Jukun, Kakudu Kakudu, Kakudu-Kakudu, Nawudu, Winjawindjagu, Yaora, Yaoro, Yaoru, Yaroro, Yaudijbaia, Yaudjibara, Yauera, Yauor, Yauro, Yawjibara, Yawoorroo, Yawur, Yawuri, Yawurr]
 population: 30

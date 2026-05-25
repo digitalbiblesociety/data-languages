@@ -1,6 +1,8 @@
 ---
 iso: pss
 name: Kaulong
+name_zh: 卡乌隆语
+name_zh_auto: true
 autonym: Pasismanua
 alt_names: [Kowlong]
 population: 4000

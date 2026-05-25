@@ -1,6 +1,8 @@
 ---
 iso: sht
 name: Shasta
+name_zh: 沙斯塔语
+name_zh_auto: true
 autonym: Sastean
 alt_names: [Ahútireʔécu, Iruʔáycu, Kammatwa, Klamath River, Konomihu, Oregon, Scotts Valley, Shasta Valley, Shasta de New River, Shasta proper, Shastan, Shastika, Watiru]
 population: null

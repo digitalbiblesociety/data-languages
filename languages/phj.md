@@ -1,6 +1,8 @@
 ---
 iso: phj
 name: Pahari
+name_zh: 帕哈里语
+name_zh_auto: true
 population: 3500
 country_id: NP
 country_name: Nepal

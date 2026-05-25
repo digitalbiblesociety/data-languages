@@ -1,6 +1,8 @@
 ---
 iso: kdg
 name: Seba
+name_zh: 塞巴语
+name_zh_auto: true
 autonym: Kunda
 alt_names: [Sewa, Shishi]
 population: 167000

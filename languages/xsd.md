@@ -1,6 +1,8 @@
 ---
 iso: xsd
 name: Sidetic
+name_zh: 西德蒂克语
+name_zh_auto: true
 autonym: null
 population: null
 country_id: TR

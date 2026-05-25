@@ -1,6 +1,8 @@
 ---
 iso: orc
 name: Orma
+name_zh: 奥尔玛语
+name_zh_auto: true
 autonym: Uardai
 alt_names: [Galla, Wadai, Warday, Wardei]
 population: 92100

@@ -1,6 +1,8 @@
 ---
 iso: sox
 name: Swo
+name_zh: 斯沃语
+name_zh_auto: true
 autonym: So
 alt_names: [Fo, Shwo, So (Cameroon), Sso]
 population: 9000

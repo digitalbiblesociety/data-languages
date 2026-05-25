@@ -1,6 +1,8 @@
 ---
 iso: taf
 name: Tapirapé
+name_zh: 塔皮拉佩语
+name_zh_auto: true
 autonym: apyãwa
 alt_names: ["Tapi'irape", Tapirape]
 population: 500

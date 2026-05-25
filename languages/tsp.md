@@ -1,6 +1,8 @@
 ---
 iso: tsp
 name: Northern Toussian
+name_zh: 北图西亚语
+name_zh_auto: true
 autonym: Wín
 alt_names: [Toussian, Toussian (Northern), Toussian (Southern), "Toussian, Northern", Tusia, Tusian]
 population: 1000

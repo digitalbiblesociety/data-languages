@@ -1,6 +1,8 @@
 ---
 iso: mwo
 name: Central Maewo
+name_zh: 中马埃沃语
+name_zh_auto: true
 autonym: " Peterara"
 alt_names: [Maevo, "Maewo, Central", Tanoriki]
 population: 1400

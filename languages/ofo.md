@@ -1,6 +1,8 @@
 ---
 iso: ofo
 name: Ofo
+name_zh: 奥佛语
+name_zh_auto: true
 autonym: null
 alt_names: [Ofogoula]
 population: null

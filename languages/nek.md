@@ -1,6 +1,8 @@
 ---
 iso: nek
 name: Neku
+name_zh: 内库语
+name_zh_auto: true
 autonym: null
 alt_names: [Neukaledonien]
 population: 220

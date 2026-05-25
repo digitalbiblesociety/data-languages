@@ -1,6 +1,8 @@
 ---
 iso: yvt
 name: Yavitero
+name_zh: 亚维特罗语
+name_zh_auto: true
 autonym: Paraene
 alt_names: [Yavitano]
 population: 2000

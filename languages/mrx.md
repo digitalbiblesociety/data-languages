@@ -1,6 +1,8 @@
 ---
 iso: mrx
 name: Maremgi
+name_zh: 玛瑞格语
+name_zh_auto: true
 autonym: Dineor
 alt_names: [Marengge]
 population: 55

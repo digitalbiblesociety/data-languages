@@ -1,6 +1,8 @@
 ---
 iso: ykk
 name: Yakaikeke
+name_zh: 亚卡伊克克语
+name_zh_auto: true
 autonym: Iakaikeke
 population: 100
 country_id: PG

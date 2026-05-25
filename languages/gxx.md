@@ -1,6 +1,8 @@
 ---
 iso: gxx
 name: Wè Southern
+name_zh: 韦南方语
+name_zh_auto: true
 autonym: Wè
 alt_names: [Central Guéré, Gere, Guere, Guéré, We Southern, Wèè]
 population: 20000

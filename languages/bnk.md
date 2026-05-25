@@ -1,6 +1,8 @@
 ---
 iso: bnk
 name: Bierebo
+name_zh: 比埃雷博语
+name_zh_auto: true
 autonym: "Bonkovia-Yevali"
 population: 800
 country_id: VU

@@ -1,6 +1,8 @@
 ---
 iso: wem
 name: Weme Gbe
+name_zh: 韦梅-格贝语
+name_zh_auto: true
 autonym: fɔ̀ngbè/fõbè
 alt_names: [Gbe, "Gbe, Weme", Weme, Wéménugbé]
 population: 284000

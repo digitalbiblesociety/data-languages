@@ -1,6 +1,8 @@
 ---
 iso: ztp
 name: Loxicha Zapotec
+name_zh: 洛希查萨波特克语
+name_zh_auto: true
 autonym: Diste
 alt_names: [Copalita Zapotec, Southern Sapoteko, Western Pochutla Zapotec, Zapotec, "Zapotec, Loxicha", Zapoteco de Asunción Tlacolulita, Zapoteco de Loxicha, "Zapotèque d'Asunción Tlacolulita"]
 population: 75000

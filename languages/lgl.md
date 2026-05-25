@@ -1,6 +1,8 @@
 ---
 iso: lgl
 name: Wala
+name_zh: 瓦拉语
+name_zh_auto: true
 autonym: Langalanga
 alt_names: [Lengua Wala, Südliche Salomons-Inseln]
 population: 6980

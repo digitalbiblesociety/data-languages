@@ -1,6 +1,8 @@
 ---
 iso: gmb
 name: "Gula'alaa"
+name_zh: 古拉阿拉语
+name_zh_auto: true
 autonym: Kwai
 alt_names: [Ngongosila, Südliche Salomons-Inseln]
 population: 1570

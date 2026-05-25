@@ -1,6 +1,8 @@
 ---
 iso: bkv
 name: Bekwarra
+name_zh: 贝克瓦拉语
+name_zh_auto: true
 autonym: Ebekwara
 alt_names: [Bekworra, Yakoro]
 population: 100000

@@ -1,6 +1,8 @@
 ---
 iso: bjb
 name: Banggarla
+name_zh: 邦加拉语
+name_zh_auto: true
 autonym: Parnkalla
 alt_names: [Arkaba tura, Arkaba-tura, "Ba:Nggala", "Ba:njgala", Bahanga la, Bahanga-La, Bahn gala, Bahngala, Bangala, Bangalla, Banggala, Barngarla, Bungala, Bungeha, Bungela, Kooapidna, Kooapudna, Kortabina, Pakarla, Pan karla, Pangkala, Pangkarla, Pankala, Pankalla, Pankarla, Parkalla, Parn kal la, Parn-ka-la, Parnkala, Punkalla, Punkirla, Wanbirujurari, Willara, Willeuroo]
 population: null

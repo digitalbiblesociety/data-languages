@@ -1,6 +1,8 @@
 ---
 iso: snv
 name: "Sa'ban"
+name_zh: 萨班语
+name_zh_auto: true
 autonym: Merau
 alt_names: ["Malaysia, Indonesia"]
 population: 1110

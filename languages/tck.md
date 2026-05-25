@@ -1,6 +1,8 @@
 ---
 iso: tck
 name: Tchitchege
+name_zh: 奇奇切格语
+name_zh_auto: true
 autonym: Tchitchege
 population: 2000
 country_id: GA

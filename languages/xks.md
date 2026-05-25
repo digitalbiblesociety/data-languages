@@ -1,6 +1,8 @@
 ---
 iso: xks
 name: Kumbewaha
+name_zh: 昆贝瓦哈语
+name_zh_auto: true
 autonym: Kumberaha
 alt_names: [Umbewaha]
 population: 3400

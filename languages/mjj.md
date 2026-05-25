@@ -1,6 +1,8 @@
 ---
 iso: mjj
 name: Mawak
+name_zh: 玛瓦克语
+name_zh_auto: true
 autonym: null
 population: 25
 country_id: PG

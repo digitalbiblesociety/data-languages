@@ -1,6 +1,8 @@
 ---
 iso: hla
 name: Halia
+name_zh: 哈利亚语
+name_zh_auto: true
 autonym: Selau
 alt_names: [Hanahan, Tasi]
 population: 25000

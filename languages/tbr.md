@@ -1,6 +1,8 @@
 ---
 iso: tbr
 name: Tumtum
+name_zh: 图图姆语
+name_zh_auto: true
 autonym: null
 population: 1300
 country_id: SD

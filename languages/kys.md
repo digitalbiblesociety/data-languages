@@ -1,6 +1,8 @@
 ---
 iso: kys
 name: Baram Kayan
+name_zh: 巴拉姆卡扬语
+name_zh_auto: true
 autonym: Kajan
 alt_names: [Baram Kajan, Kayan (Baram), "Kayan, Baram"]
 population: 4150

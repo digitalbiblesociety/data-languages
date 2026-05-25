@@ -1,6 +1,8 @@
 ---
 iso: taj
 name: Eastern Tamang
+name_zh: 东塔芒语
+name_zh_auto: true
 autonym: तामाङ
 alt_names: [Murmi, Tamang, Tamang language, "Tamang, Eastern", "Tamang,Eastern", Таманґ, तामाङ भाषा, ภาษาตามัง, 达芒语]
 population: 1180000

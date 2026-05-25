@@ -1,6 +1,8 @@
 ---
 iso: ynl
 name: Yangulam
+name_zh: 扬古拉姆语
+name_zh_auto: true
 autonym: null
 population: 400
 country_id: PG

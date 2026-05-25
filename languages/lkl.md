@@ -1,6 +1,8 @@
 ---
 iso: lkl
 name: "Laeko-Libuat"
+name_zh: 拉埃科-利布阿特语
+name_zh_auto: true
 autonym: "Laeko-Libuat"
 alt_names: [Laeko, Laeko-Limbuat, Waitalu, Watalu, Watulu]
 population: 518

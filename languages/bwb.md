@@ -1,6 +1,8 @@
 ---
 iso: bwb
 name: "Namosi-Naitasiri-Serua"
+name_zh: 纳莫西-奈塔西里-塞鲁阿语
+name_zh_auto: true
 autonym: "Namosi-Naitaasiri-Seerua"
 alt_names: [Fidji-Inseln, Lenga Namosi-Naitasiri-Serua, Namosi]
 population: 1630

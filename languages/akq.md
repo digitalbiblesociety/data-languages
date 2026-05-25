@@ -1,6 +1,8 @@
 ---
 iso: akq
 name: Ak
+name_zh: 阿克语
+name_zh_auto: true
 autonym: null
 population: 10
 country_id: PG

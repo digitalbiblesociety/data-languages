@@ -1,6 +1,8 @@
 ---
 iso: kcb
 name: Kawacha
+name_zh: 卡瓦恰语
+name_zh_auto: true
 autonym: Kawatsa
 population: 12
 country_id: PG

@@ -1,6 +1,8 @@
 ---
 iso: qug
 name: Chimborazo Highland Quichua
+name_zh: 钦博拉索高地基楚亚语
+name_zh_auto: true
 autonym: " Runa Shimi"
 alt_names: ["\"quichua (Cotopaxi, Tungurahua et Chimborazo)\"", Calderón, Cañar Highland Quichua, Chimborazo, Colta, Cotopaxi Quichua., Ecuador, Ecuador Quechua, Ecuadorean, Highland Ecuadorian Quichua, Highland Kichua, Imbabura Quichua, Kichua, Loja, Napo Quichua, Northern Pastaza Quichua, Quechua, Quechua (Ecuadorean), Quichua, Quichua (Cañar et Azuay), Quichua (Imbabura), Quichua (Loja), Quichua (Napo), Quichua (Pastaza), Quichua (Salasaca), "Quichua, Chimborazo Highland", Salasca, Tena Quichua]
 population: 800000

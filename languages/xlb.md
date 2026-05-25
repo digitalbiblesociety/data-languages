@@ -1,6 +1,8 @@
 ---
 iso: xlb
 name: Loup B
+name_zh: 路普B语
+name_zh_auto: true
 autonym: null
 population: null
 country_id: US

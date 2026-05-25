@@ -1,6 +1,8 @@
 ---
 iso: huk
 name: Hulung
+name_zh: 胡隆语
+name_zh_auto: true
 autonym: null
 population: 10
 country_id: ID

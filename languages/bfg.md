@@ -1,6 +1,8 @@
 ---
 iso: bfg
 name: Busang Kayan
+name_zh: 布桑卡扬语
+name_zh_auto: true
 autonym: Kajan
 alt_names: [Busang, Kajang, "Kayan, Busang"]
 population: 3000

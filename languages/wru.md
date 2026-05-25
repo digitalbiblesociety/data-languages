@@ -1,6 +1,8 @@
 ---
 iso: wru
 name: Waru
+name_zh: 瓦鲁语
+name_zh_auto: true
 autonym: Mopute
 alt_names: [Mapute]
 population: 350

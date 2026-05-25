@@ -1,6 +1,8 @@
 ---
 iso: bdm
 name: Buduma
+name_zh: 布杜玛语
+name_zh_auto: true
 autonym: Buduma
 alt_names: [Boudouma, Buduma-Kuri, Yadena, Yedana, Yedima, Yedina, Yidana, Yidena]
 population: 54800

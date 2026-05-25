@@ -1,6 +1,8 @@
 ---
 iso: skc
 name: Ma Manda
+name_zh: 马曼达语
+name_zh_auto: true
 autonym: Ma Manda
 alt_names: [Sauk]
 population: 600

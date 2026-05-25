@@ -1,6 +1,8 @@
 ---
 iso: ass
 name: Ipulo
+name_zh: 阿松博语
+name_zh_auto: true
 autonym: Assumbo
 alt_names: [Asumbo, Badzumbo]
 population: 2500

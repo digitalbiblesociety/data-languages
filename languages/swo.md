@@ -1,6 +1,8 @@
 ---
 iso: swo
 name: Shanenawa
+name_zh: 沙内纳瓦语
+name_zh_auto: true
 autonym: Yaminahua
 alt_names: [Katukina Shanenawa, Shenenawa]
 population: 360

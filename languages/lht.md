@@ -1,6 +1,8 @@
 ---
 iso: lht
 name: "Lo-Toga"
+name_zh: 洛-托加语
+name_zh_auto: true
 autonym: Loh
 alt_names: [Lo, Loh-Toga, Toga, Torres]
 population: 500

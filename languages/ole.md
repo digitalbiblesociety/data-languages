@@ -1,6 +1,8 @@
 ---
 iso: ole
 name: Olekha
+name_zh: 奥莱哈语
+name_zh_auto: true
 autonym: " Monkha"
 alt_names: ["'Olekha", Black Mountain, Monpa, Ole Mönpa]
 population: 1000

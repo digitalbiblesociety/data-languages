@@ -1,6 +1,8 @@
 ---
 iso: poy
 name: Pogolo
+name_zh: 波戈洛语
+name_zh_auto: true
 autonym: Chipogolo
 alt_names: [Chipogoro, Pogolu, Pogora, Pogoro, Shpogolu, Wapogoro]
 population: 201000

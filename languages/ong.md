@@ -1,6 +1,8 @@
 ---
 iso: ong
 name: Olo
+name_zh: 奥洛语
+name_zh_auto: true
 autonym: null
 alt_names: [Orlei, Wape, Wapi]
 population: 13700

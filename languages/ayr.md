@@ -1,6 +1,8 @@
 ---
 iso: ayr
 name: Central Aymara
+name_zh: 中部艾马拉语
+name_zh_auto: true
 autonym: Aymar aru
 alt_names: [Aimara, Aymara, "Aymara, Central", Lupaca, Lupacca, Tupe]
 population: 1464100

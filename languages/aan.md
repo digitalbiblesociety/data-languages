@@ -1,6 +1,8 @@
 ---
 iso: aan
 name: Anambé of Cairarí
+name_zh: 卡伊拉里的阿纳姆贝语
+name_zh_auto: true
 autonym: Anambé
 alt_names: [Amanage, Amanajo, Amanajé, Amanayé, Anambe, Guajá, "Ka'apór", Manajo, Manaxo, Manaze, Manazo, Urubú, Urubú-kaapor]
 population: 132

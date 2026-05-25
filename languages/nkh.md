@@ -1,6 +1,8 @@
 ---
 iso: nkh
 name: Khezha Naga
+name_zh: 凯扎纳加语
+name_zh_auto: true
 autonym: Khuzha
 alt_names: [Kezami, Kezhama, Keźama, Kheza, Khezha, Khezhama, Naga, "Naga, Khezha", "Naga,Khezha"]
 population: 23000

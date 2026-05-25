@@ -1,6 +1,8 @@
 ---
 iso: nti
 name: Natioro
+name_zh: 纳蒂奥罗语
+name_zh_auto: true
 autonym: Koo’ra
 alt_names: ["Koo'ra", Natjoro, Natyoro, Samukune]
 population: 2400

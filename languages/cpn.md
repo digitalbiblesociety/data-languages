@@ -1,6 +1,8 @@
 ---
 iso: cpn
 name: Cherepon
+name_zh: 切雷蓬语
+name_zh_auto: true
 autonym: Chiripon
 alt_names: [Chiripong, Guang, Kyerepong, Okere]
 population: 132000

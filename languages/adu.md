@@ -1,6 +1,8 @@
 ---
 iso: adu
 name: Aduge
+name_zh: 阿杜格语
+name_zh_auto: true
 autonym: null
 population: 1900
 country_id: NG

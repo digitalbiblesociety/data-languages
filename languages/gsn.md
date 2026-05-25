@@ -1,6 +1,8 @@
 ---
 iso: gsn
 name: Nema
+name_zh: 奈玛语
+name_zh_auto: true
 autonym: Gusan
 population: 790
 country_id: PG

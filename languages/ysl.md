@@ -1,6 +1,8 @@
 ---
 iso: ysl
 name: Yugoslavian Sign Language
+name_zh: 南斯拉夫手语
+name_zh_auto: true
 autonym: Bosnian / Kosovar Sign Language
 population: 25000
 country_id: RS

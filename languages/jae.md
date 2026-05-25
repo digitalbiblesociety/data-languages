@@ -1,6 +1,8 @@
 ---
 iso: jae
 name: Yabem
+name_zh: 雅贝姆语
+name_zh_auto: true
 autonym: Jabêm
 alt_names: [Jabem, Jabim, Laulabu, Yabim]
 population: 2080

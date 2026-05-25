@@ -1,6 +1,8 @@
 ---
 iso: xbe
 name: Bigambal
+name_zh: 比加姆巴尔语
+name_zh_auto: true
 autonym: Bigambul
 alt_names: [Bigumbil]
 population: null

@@ -1,6 +1,8 @@
 ---
 iso: heh
 name: Hehe
+name_zh: 赫赫语
+name_zh_auto: true
 autonym: Kihehe
 alt_names: [Wahehe]
 population: 1210000

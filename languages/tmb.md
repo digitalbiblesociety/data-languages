@@ -1,6 +1,8 @@
 ---
 iso: tmb
 name: Katbol
+name_zh: 卡特博尔语
+name_zh_auto: true
 autonym: Katbol
 alt_names: [Avava, Bangsa’, Mallicolo, Navava, Taremp, Tembimbe-Katbol, Tisvel]
 population: 700

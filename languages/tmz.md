@@ -1,6 +1,8 @@
 ---
 iso: tmz
 name: Tamanaku
+name_zh: 塔马纳库语
+name_zh_auto: true
 autonym: Tamañkú
 alt_names: [Tamanaco]
 population: null

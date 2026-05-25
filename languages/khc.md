@@ -1,6 +1,8 @@
 ---
 iso: khc
 name: Tukang Besi North
+name_zh: 北图康贝西语
+name_zh_auto: true
 autonym: Buton
 alt_names: [Tukang Besi, Wakatobi]
 population: 120000

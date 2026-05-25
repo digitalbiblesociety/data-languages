@@ -1,6 +1,8 @@
 ---
 iso: ybo
 name: Yabong
+name_zh: 亚邦语
+name_zh_auto: true
 autonym: null
 population: 370
 country_id: PG

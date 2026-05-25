@@ -1,6 +1,8 @@
 ---
 iso: tax
 name: Tamki
+name_zh: 塔姆基语
+name_zh_auto: true
 autonym: Temki
 alt_names: [Tamkieg, 𐍄𐌰𐌼𐌺𐌾𐌰𐍂𐌰𐌶𐌳𐌰]
 population: 500

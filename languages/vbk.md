@@ -1,6 +1,8 @@
 ---
 iso: vbk
 name: Southwestern Bontok
+name_zh: 西南邦托克语
+name_zh_auto: true
 autonym: Finallig
 alt_names: ["Bontok, Southwestern"]
 population: 2470

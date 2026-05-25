@@ -1,6 +1,8 @@
 ---
 iso: amt
 name: Amto
+name_zh: 阿姆托语
+name_zh_auto: true
 autonym: Ki
 alt_names: [Amteg, Amto jezik, Idioma amto, Siafli, Siawi, Siwai]
 population: 300

@@ -1,6 +1,8 @@
 ---
 iso: skj
 name: Seke (Nepal)
+name_zh: 塞克语（尼泊尔）
+name_zh_auto: true
 autonym: null
 alt_names: [Seke]
 population: 700

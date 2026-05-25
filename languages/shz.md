@@ -1,6 +1,8 @@
 ---
 iso: shz
 name: Syenara Senoufo
+name_zh: 西埃纳拉塞努福语
+name_zh_auto: true
 autonym: Senari
 alt_names: ["Senoufo, Syenara"]
 population: 155000

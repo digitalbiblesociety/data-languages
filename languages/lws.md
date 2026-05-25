@@ -1,6 +1,8 @@
 ---
 iso: lws
 name: Malawian Sign Language
+name_zh: 马拉维手语
+name_zh_auto: true
 autonym: null
 population: 93000
 country_id: MG

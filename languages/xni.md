@@ -1,6 +1,8 @@
 ---
 iso: xni
 name: Ngarigu
+name_zh: 恩加里古语
+name_zh_auto: true
 autonym: Jaitmathang
 population: null
 country_id: AU

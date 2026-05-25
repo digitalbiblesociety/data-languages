@@ -1,6 +1,8 @@
 ---
 iso: tqp
 name: Tomoip
+name_zh: 托莫伊普语
+name_zh_auto: true
 autonym: Tomoive
 alt_names: [Tomoyp, Tumie, Tumuip]
 population: 700

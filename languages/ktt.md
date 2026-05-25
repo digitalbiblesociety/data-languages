@@ -1,6 +1,8 @@
 ---
 iso: ktt
 name: Ketum
+name_zh: 克特姆语
+name_zh_auto: true
 autonym: Kitum
 alt_names: [Indonesia]
 population: 900

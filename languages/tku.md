@@ -1,6 +1,8 @@
 ---
 iso: tku
 name: Upper Necaxa Totonac
+name_zh: 上内卡萨托托纳克语
+name_zh_auto: true
 autonym: "Totonac, Upper Necaxa"
 alt_names: [Totonac, Totonacano de Patla, Totonacano filomeno mata-coahuillán, Totonaco, Totonako, Totonaque de Filomeno Mata, Totonaque de Patla-Chicontla]
 population: 5800

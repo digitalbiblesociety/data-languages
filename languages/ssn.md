@@ -1,6 +1,8 @@
 ---
 iso: ssn
 name: Waata
+name_zh: 瓦塔语
+name_zh_auto: true
 autonym: Sanye
 alt_names: [Ariangulu, Langulo, Oromo, Oromo (Waata), Sanya, Waat, Waata Oromo, Wasanye]
 population: 17400

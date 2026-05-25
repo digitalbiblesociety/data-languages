@@ -1,6 +1,8 @@
 ---
 iso: vmb
 name: Barbaram
+name_zh: 巴巴拉姆语
+name_zh_auto: true
 autonym: Barbaram
 alt_names: [Balbarum, Bar-barum, Barbarem, Barbarum, Boobu-ram, Booburam, Gugu-Mbabaram, Illagona, Koko-Beberam, Kumbulmara, Kwearriburra, Lenga mbabaram, Mbabaram, Mbabaram language, Mbara, Mitjamba, Mogmbabarum, Mogmnanarim, Morruburra, Oombarbarum, Oombarrmbarum, Queeariburra, Umbarbaram, Umbarbarem, Warrialgona, Woombarbarram, Woombarrmbar, Woombarrmbarra, Wumbabaram]
 population: null

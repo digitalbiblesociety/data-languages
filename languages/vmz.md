@@ -1,6 +1,8 @@
 ---
 iso: vmz
 name: Mazatlán Mazatec
+name_zh: 马萨特兰马萨特克语
+name_zh_auto: true
 autonym: (Mazatlán Villa de Flores)
 alt_names: [Huautla-Mazatlán Masateko, Masateko, Mazatec, "Mazatec, Mazatlán", Mazateco, Mazateco de MazatlÃ¡n Villa de Flores, Mazateco de Mazatlán, Mazateco de Tecóatl, Mazateco de la sierra, Mazatlan Mazatec, Mazatlan de Flores, "Mazatèque d'Eloxochitlán", Mazatèque de Huehuetlán, Mazatèque de Mazatlán, Mazatèque de Tecoatl, Mazatèque des hautes terres]
 population: 12900

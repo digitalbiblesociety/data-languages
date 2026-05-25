@@ -1,6 +1,8 @@
 ---
 iso: aya
 name: Awar
+name_zh: 阿瓦尔语
+name_zh_auto: true
 autonym: null
 population: 1090
 country_id: PG

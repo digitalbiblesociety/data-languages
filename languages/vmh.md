@@ -1,6 +1,8 @@
 ---
 iso: vmh
 name: Maraghei
+name_zh: 玛拉盖语
+name_zh_auto: true
 autonym: مراغى پگڠەرۉب
 alt_names: [Iran]
 population: null

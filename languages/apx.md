@@ -1,6 +1,8 @@
 ---
 iso: apx
 name: Aputai
+name_zh: 阿普泰语
+name_zh_auto: true
 autonym: Wetar
 alt_names: [Ilputih, Opotai, Tutunohan]
 population: 150

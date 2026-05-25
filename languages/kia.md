@@ -1,6 +1,8 @@
 ---
 iso: kia
 name: Kim
+name_zh: 金语
+name_zh_auto: true
 autonym: Kim (Garab)
 alt_names: [Group 14, Kosop, Kuasap, Kwasap, Masa]
 population: 15400

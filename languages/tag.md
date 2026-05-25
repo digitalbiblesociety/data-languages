@@ -1,6 +1,8 @@
 ---
 iso: tag
 name: Tagoi
+name_zh: 塔戈伊语
+name_zh_auto: true
 autonym: ŋɔ̹́ɡɔ̹́lɛ̹́
 alt_names: [Język tagoi, Lingua tagoi, Tagoieg, Tagoy, Tagoí, Tumale, Umāle]
 population: 1100

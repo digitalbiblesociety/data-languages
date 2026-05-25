@@ -1,6 +1,8 @@
 ---
 iso: llu
 name: Lau
+name_zh: 劳语
+name_zh_auto: true
 autonym: null
 alt_names: [Südliche Salomons-Inseln]
 population: 16900

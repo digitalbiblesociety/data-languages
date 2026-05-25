@@ -1,6 +1,8 @@
 ---
 iso: pfa
 name: Pááfang
+name_zh: 帕阿芳语
+name_zh_auto: true
 autonym: pworausen Pááféng
 alt_names: [Paafang, Pááfango]
 population: 1320

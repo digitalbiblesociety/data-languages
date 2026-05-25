@@ -1,6 +1,8 @@
 ---
 iso: wss
 name: Wasa
+name_zh: 瓦萨语
+name_zh_auto: true
 autonym: Akan
 alt_names: [Wasaw, Wassa]
 population: 273000

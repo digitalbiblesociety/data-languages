@@ -1,6 +1,8 @@
 ---
 iso: grq
 name: Gorovu
+name_zh: 戈罗武语
+name_zh_auto: true
 autonym: Gorova
 alt_names: [Yerani]
 population: 20

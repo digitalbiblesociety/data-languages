@@ -1,6 +1,8 @@
 ---
 iso: mkp
 name: Moikodi
+name_zh: 莫伊科迪语
+name_zh_auto: true
 autonym: Doriri
 alt_names: [Moikoidi]
 population: 570

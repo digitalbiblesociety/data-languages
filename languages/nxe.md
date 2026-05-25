@@ -1,6 +1,8 @@
 ---
 iso: nxe
 name: Nage
+name_zh: 纳格语
+name_zh_auto: true
 autonym: "Nage-Keo"
 alt_names: [Nagé]
 population: 50000

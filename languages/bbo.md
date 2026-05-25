@@ -1,6 +1,8 @@
 ---
 iso: bbo
 name: Northern Bobo Madaré
+name_zh: 北博博马达雷语
+name_zh_auto: true
 autonym: Bobo Fing
 alt_names: ["Bobo Madaré, Northern", Konabéré, Northern Bobo Madare]
 population: 60000

@@ -1,6 +1,8 @@
 ---
 iso: bzu
 name: Burmeso
+name_zh: 布尔梅索语
+name_zh_auto: true
 autonym: Taurap
 alt_names: [Boromeso, Borumeso, Borumesso, Borumessu, Bourmesoeg, Burumeso, Manau, Monao, Monau]
 population: 250

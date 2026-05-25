@@ -1,6 +1,8 @@
 ---
 iso: sdx
 name: Sibu Melanau
+name_zh: 西布梅拉瑙语
+name_zh_auto: true
 autonym: Central Melanau
 alt_names: ["Melanau, Sibu", Seduan-Banyok, Sibu, Siduan, Siduani]
 population: 420

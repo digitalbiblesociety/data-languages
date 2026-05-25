@@ -1,6 +1,8 @@
 ---
 iso: swk
 name: Malawi Sena
+name_zh: 马拉维塞纳语
+name_zh_auto: true
 autonym: Chisena
 alt_names: [Cisena, "Sena, Malawi"]
 population: 805000

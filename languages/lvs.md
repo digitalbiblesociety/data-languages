@@ -1,6 +1,8 @@
 ---
 iso: lvs
 name: Standard Latvian
+name_zh: 标准拉脱维亚语
+name_zh_auto: true
 autonym: Lettish
 alt_names: ["Latvian, Standard"]
 population: 1529720

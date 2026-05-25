@@ -1,6 +1,8 @@
 ---
 iso: abn
 name: Abua
+name_zh: 阿布亚语
+name_zh_auto: true
 autonym: Abuan
 population: 25000
 country_id: NG

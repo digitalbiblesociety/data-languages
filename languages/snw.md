@@ -1,6 +1,8 @@
 ---
 iso: snw
 name: Selee
+name_zh: 塞利语
+name_zh_auto: true
 autonym: Selee
 alt_names: [Bale, Santrokofi, Sele, Sentrokofi]
 population: 11300

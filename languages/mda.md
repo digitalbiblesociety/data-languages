@@ -1,6 +1,8 @@
 ---
 iso: mda
 name: Mada (Nigeria)
+name_zh: 马达语
+name_zh_auto: true
 autonym: Madda
 alt_names: [Mada, Mada (in Nigeria), Yidda]
 population: 100000

@@ -1,6 +1,8 @@
 ---
 iso: kyj
 name: Karao
+name_zh: 卡劳语
+name_zh_auto: true
 autonym: Karaw
 population: 1400
 country_id: PH

@@ -1,6 +1,8 @@
 ---
 iso: xbg
 name: Bunganditj
+name_zh: 邦甘迪奇语
+name_zh_auto: true
 autonym: Buwandik
 alt_names: [Bak-on-date, Bangandidj, Barconedeet, Boandik, Boandiks, Booandik, Booandik-ngolo, Booganitch, Borandikngolo, Buandic, Buandig, Buandik, Buanditj, Buganditch, Bungaditj, Bungandaetch, Bungandaetcha, Bungandaitj, Bungandidjk, Bungandit, Bunganditjngolo]
 population: null

@@ -1,6 +1,8 @@
 ---
 iso: zsk
 name: Kaskean
+name_zh: 卡斯克语
+name_zh_auto: true
 autonym: Kaška
 population: null
 country_id: TR

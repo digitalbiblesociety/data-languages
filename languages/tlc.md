@@ -1,6 +1,8 @@
 ---
 iso: tlc
 name: Yecuatla Totonac
+name_zh: 叶库特拉托托纳克语
+name_zh_auto: true
 autonym: Yecuatla Totonac
 alt_names: [Laakanaachiwiin, Misantla Totonac, Misantla Totonako, Southeastern Totonac, Totonac, Totonac (Misantla), "Totonac, Yecuatla", Totonaca (Yecuatla), Totonacano de Patla, Totonacano filomeno mata-coahuillán, Totonaco, Totonaco de Misantla, Totonakeg Yecuatla, Totonako, Totonaque de Filomeno Mata, Totonaque de Misantla, Totonaque de Patla-Chicontla]
 population: 500

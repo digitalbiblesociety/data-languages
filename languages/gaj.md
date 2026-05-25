@@ -1,6 +1,8 @@
 ---
 iso: gaj
 name: Gadsup
+name_zh: 加德苏普语
+name_zh_auto: true
 autonym: null
 population: 22100
 country_id: PG

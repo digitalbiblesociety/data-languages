@@ -1,6 +1,8 @@
 ---
 iso: jor
 name: Jorá
+name_zh: 乔拉语
+name_zh_auto: true
 autonym: Mbia chẽẽ
 alt_names: [Hora, Jora]
 population: null

@@ -1,6 +1,8 @@
 ---
 iso: cob
 name: Chicomuceltec
+name_zh: 奇科穆塞尔特克语
+name_zh_auto: true
 autonym: Chikomuselteko
 alt_names: ["Cac'chiquel Mam", Cakchiquel Mam, Chicomuceltekisk, Chicomukeltec, Chicomulcelteco, Cotoque, Język chicomuceltec, Kotoke, Língua chicomucelteca, Чикомукелтекски јазик]
 population: null

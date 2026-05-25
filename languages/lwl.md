@@ -1,6 +1,8 @@
 ---
 iso: lwl
 name: Eastern Lawa
+name_zh: 东拉瓦语
+name_zh_auto: true
 autonym: Bo Luang Lawa
 alt_names: [Khalo, "La'wa", Lawa, "Lawa, Eastern", Mae Rim Lawa, Northern Lawa, Phalo, Phalok, Wiang Papao Lua]
 population: 7000

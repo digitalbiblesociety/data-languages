@@ -1,6 +1,8 @@
 ---
 iso: bvu
 name: Bukit Malay
+name_zh: 布基特马来语
+name_zh_auto: true
 autonym: بهاس بنجر
 alt_names: [Bukit, "Malay, Bukit", Meratus]
 population: 59000

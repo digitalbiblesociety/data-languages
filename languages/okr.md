@@ -1,6 +1,8 @@
 ---
 iso: okr
 name: Kirike
+name_zh: 基里克语
+name_zh_auto: true
 autonym: Ibani–Kalabari–Kirike
 alt_names: [Okrika, Ịjọ]
 population: 440000

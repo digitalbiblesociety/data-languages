@@ -1,6 +1,8 @@
 ---
 iso: bpm
 name: Biyom
+name_zh: 比约姆语
+name_zh_auto: true
 autonym: Sasime
 population: 380
 country_id: PG

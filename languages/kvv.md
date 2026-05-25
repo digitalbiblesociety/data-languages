@@ -1,6 +1,8 @@
 ---
 iso: kvv
 name: Kola
+name_zh: 科拉语
+name_zh_auto: true
 autonym: Kulaha
 alt_names: [Aru, Marlasi, Warilau]
 population: 7700

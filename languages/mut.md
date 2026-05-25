@@ -1,6 +1,8 @@
 ---
 iso: mut
 name: Western Muria
+name_zh: 西穆里亚语
+name_zh_auto: true
 autonym: Jhoria
 alt_names: [Gonḍi, Gōṇḍī, Mudia, Muria Gondi, "Muria, Western"]
 population: 400000

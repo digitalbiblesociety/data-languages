@@ -1,6 +1,8 @@
 ---
 iso: pia
 name: Pima Bajo
+name_zh: 皮玛巴荷语
+name_zh_auto: true
 autonym: "Oob No'ok"
 alt_names: [Bas-pima du Chihuahua, Lower Piman, Mountain Pima, Mountain Piman, Nebome, Nebomi, Nevomi, Névome, "O'ob", Pima, Pima (Bajo), Pima (Lower), Pima bajo de Chihuahua, Tepiman]
 population: 1000

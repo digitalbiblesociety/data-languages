@@ -1,6 +1,8 @@
 ---
 iso: kpc
 name: Curripaco
+name_zh: 库里帕科语
+name_zh_auto: true
 autonym: Baniwa
 alt_names: ["\"curripaco (Colombia", "\"kurripako (Colombie", Curipaco, Curripako, Ipeka-Kurripako, Koripako, Korispaso, Kuripaco, Kurripaco, Kurripako, Kurripako (Brésil), Pacu, Paiorience, Payualiene, "République bolivarienne du Venezuela)\"", "Venezuela)\""]
 population: 12540

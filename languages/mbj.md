@@ -1,6 +1,8 @@
 ---
 iso: mbj
 name: Nadëb
+name_zh: 纳德卜语
+name_zh_auto: true
 autonym: Kaburi
 alt_names: [Anodöub, Kabari, Kabori, Kaburí language area, Macú nadeb, Makunadöbö, Makú Nadëb, Nadeb, Nadeb Macu, Nadobo, Nadëb branch, Nadöb, Nadöbo, Xiriwai, Xuriwai]
 population: 300

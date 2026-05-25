@@ -1,6 +1,8 @@
 ---
 iso: bzm
 name: Bolondo
+name_zh: 博隆多语
+name_zh_auto: true
 autonym: Balondo
 population: 3000
 country_id: CD

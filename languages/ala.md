@@ -1,6 +1,8 @@
 ---
 iso: ala
 name: Alago
+name_zh: 阿拉戈语
+name_zh_auto: true
 autonym: Idoma Noku
 alt_names: [Arago, Aragu, Argo, Idoma Nokwu]
 population: 100000

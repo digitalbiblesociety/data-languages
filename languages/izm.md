@@ -1,6 +1,8 @@
 ---
 iso: izm
 name: Kizamani
+name_zh: 基扎玛尼语
+name_zh_auto: true
 population: 1000
 country_id: NG
 country_name: Nigeria

@@ -1,6 +1,8 @@
 ---
 iso: xtr
 name: Early Tripuri
+name_zh: 早期特里普里语
+name_zh_auto: true
 autonym: null
 alt_names: ["Tripuri, Early"]
 population: null

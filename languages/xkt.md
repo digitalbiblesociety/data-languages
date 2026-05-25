@@ -1,6 +1,8 @@
 ---
 iso: xkt
 name: Kantosi
+name_zh: 坎托西语
+name_zh_auto: true
 autonym: "Dagaare-Dioula"
 alt_names: [Dagaari Dioula, Dagaari-Jula, Dagaari-Yula, Kantonsi, Yare, Yari, Yarsi]
 population: 2300

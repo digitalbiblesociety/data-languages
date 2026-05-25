@@ -1,6 +1,8 @@
 ---
 iso: kwm
 name: Kwambi
+name_zh: 克瓦姆比语
+name_zh_auto: true
 autonym: Oshikwambi
 alt_names: [Namibia]
 population: 39000

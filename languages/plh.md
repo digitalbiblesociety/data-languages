@@ -1,6 +1,8 @@
 ---
 iso: plh
 name: Paulohi
+name_zh: 保罗希语
+name_zh_auto: true
 autonym: Solehua
 population: null
 country_id: ID

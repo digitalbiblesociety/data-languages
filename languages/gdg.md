@@ -1,6 +1,8 @@
 ---
 iso: gdg
 name: "Ga'dang"
+name_zh: 加当语
+name_zh_auto: true
 autonym: Gaddang
 alt_names: [Baliwon, Ginabwal]
 population: 6000

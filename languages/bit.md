@@ -1,6 +1,8 @@
 ---
 iso: bit
 name: Berinomo
+name_zh: 贝里诺莫语
+name_zh_auto: true
 autonym: Berinomo
 alt_names: [Apowasi, Bitara, Perbi]
 population: 350

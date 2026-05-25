@@ -1,6 +1,8 @@
 ---
 iso: nqn
 name: Nen
+name_zh: 嫩语
+name_zh_auto: true
 autonym: null
 population: 250
 country_id: PG

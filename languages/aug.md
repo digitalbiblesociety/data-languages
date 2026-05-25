@@ -1,6 +1,8 @@
 ---
 iso: aug
 name: Aguna
+name_zh: 阿古纳语
+name_zh_auto: true
 autonym: Awuna
 alt_names: [Agunaco]
 population: 3470

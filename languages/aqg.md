@@ -1,6 +1,8 @@
 ---
 iso: aqg
 name: Arigidi
+name_zh: 阿里吉迪语
+name_zh_auto: true
 autonym: Arigidi
 alt_names: [Akoko language, North Akoko]
 population: 3000

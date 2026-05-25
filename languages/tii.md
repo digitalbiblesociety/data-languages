@@ -1,6 +1,8 @@
 ---
 iso: tii
 name: Tiene
+name_zh: 蒂埃内语
+name_zh_auto: true
 autonym: Tende
 alt_names: [Kitiene, Kitiini]
 population: 24500

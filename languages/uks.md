@@ -1,6 +1,8 @@
 ---
 iso: uks
 name: "Urubú-Kaapor Sign Language"
+name_zh: 乌鲁布-卡阿波尔手语
+name_zh_auto: true
 autonym: "Urubu(–Ka'apor) Sign Language"
 alt_names: [Kaapor Sign Language, Lengua de señas Urubu-Kaapor, Língua de Sinais Kaapor Brasileira, Urubu-Kaapor Sign Language, Urubú Sign Language, Urubú-tegnspråk]
 population: null

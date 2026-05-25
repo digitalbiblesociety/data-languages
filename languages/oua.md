@@ -1,6 +1,8 @@
 ---
 iso: oua
 name: Tagargrent
+name_zh: 塔加格伦特语
+name_zh_auto: true
 autonym: Twargrit
 alt_names: [Berber (Ouargla), Berber (Wargla), Ouargla, Ouargli, Teggargrent, Wargla]
 population: 5000

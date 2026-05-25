@@ -1,6 +1,8 @@
 ---
 iso: kyz
 name: Kayabí
+name_zh: 卡亚比语
+name_zh_auto: true
 autonym: "Kawaiwete, Caiabi"
 alt_names: [Caiabi, Caiabí, Kajabí, Kawaiwete, Kayabi, Maquiri, Parua, Paruá]
 population: 1000

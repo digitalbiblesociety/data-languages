@@ -1,6 +1,8 @@
 ---
 iso: gyz
 name: Gyaazi
+name_zh: 吉亚兹语
+name_zh_auto: true
 autonym: null
 alt_names: [Geji, Nuclear Geji]
 population: 8000

@@ -1,6 +1,8 @@
 ---
 iso: wlc
 name: Mwali Comorian
+name_zh: 姆瓦利-科摩里语
+name_zh_auto: true
 autonym: shikomori/شِكُمُرِ
 alt_names: ["Comorian, Mwali", Shimwali]
 population: 42500

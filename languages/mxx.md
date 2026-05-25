@@ -1,6 +1,8 @@
 ---
 iso: mxx
 name: Mahou
+name_zh: 玛侯语
+name_zh_auto: true
 autonym: Malinke
 alt_names: [Mahu, Maou, Mau, Mau(ka), Mauka, Mauke, Mawukakan]
 population: 300000

@@ -1,6 +1,8 @@
 ---
 iso: ati
 name: Attié
+name_zh: 阿蒂耶语
+name_zh_auto: true
 autonym: Akie
 alt_names: [Akye, Atche, Atie, Atshe, Attie]
 population: 642000

@@ -1,6 +1,8 @@
 ---
 iso: yee
 name: Yimas
+name_zh: 伊玛斯语
+name_zh_auto: true
 autonym: null
 alt_names: [Idioma Yimas, Język yimas, Yimaseg, Yimaso]
 population: 300

@@ -1,6 +1,8 @@
 ---
 iso: ukq
 name: Ukwa
+name_zh: 乌克瓦语
+name_zh_auto: true
 autonym: null
 alt_names: [Nigeria]
 population: 100

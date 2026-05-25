@@ -1,6 +1,8 @@
 ---
 iso: nqq
 name: "Kyan-Karyaw Naga"
+name_zh: 克扬-卡里亚纳加语
+name_zh_auto: true
 autonym: Tase
 alt_names: ["Naga, Kyan-Karyaw"]
 population: null

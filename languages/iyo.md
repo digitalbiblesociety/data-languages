@@ -1,6 +1,8 @@
 ---
 iso: iyo
 name: Mesaka
+name_zh: 梅萨卡语
+name_zh_auto: true
 autonym: Ugarə
 alt_names: [Banagere, Iyon, Messaga, Messaga-Ekol, Messaka, Ugare]
 population: 14000

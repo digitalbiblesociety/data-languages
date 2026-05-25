@@ -1,6 +1,8 @@
 ---
 iso: gdm
 name: Laal
+name_zh: 拉尔语
+name_zh_auto: true
 autonym: yəw láàl
 alt_names: [Gori, Język laal, Laaleg, لغة لال]
 population: 750

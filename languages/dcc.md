@@ -1,6 +1,8 @@
 ---
 iso: dcc
 name: Deccan
+name_zh: 德干语
+name_zh_auto: true
 autonym: Dakini
 population: 12800000
 country_id: IN

@@ -1,6 +1,8 @@
 ---
 iso: nyt
 name: Nyawaygi
+name_zh: 尼亚韦吉语
+name_zh_auto: true
 autonym: Nawagi
 alt_names: [Geugagi., Lolo, Nyawigi, Yi]
 population: null

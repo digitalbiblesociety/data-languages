@@ -1,6 +1,8 @@
 ---
 iso: kiu
 name: Kirmanjki
+name_zh: 克尔曼吉语
+name_zh_auto: true
 autonym: Alevica
 alt_names: [Dersimki, Dimilki, Kirmanjki (individual language), Northern Zaza, So-Bê, Zaza, Zazaki, Zonê Ma]
 population: 203000

@@ -1,6 +1,8 @@
 ---
 iso: gdl
 name: Dirasha
+name_zh: 迪拉沙语
+name_zh_auto: true
 autonym: Gidole
 alt_names: [Dhirasha, Diraasha, Dirayta, Gardula, Gardulla, Ghidole, Konso hizkuntza, Konso language, Lenga Komso]
 population: 10100

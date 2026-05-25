@@ -1,6 +1,8 @@
 ---
 iso: wwb
 name: Wakabunga
+name_zh: 瓦卡布尼亚语
+name_zh_auto: true
 autonym: Waggaboonyah
 population: null
 country_id: AU

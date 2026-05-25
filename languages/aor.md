@@ -1,6 +1,8 @@
 ---
 iso: aor
 name: Aore
+name_zh: 阿奥瑞语
+name_zh_auto: true
 autonym: null
 population: null
 country_id: VU

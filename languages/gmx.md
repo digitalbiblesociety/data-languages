@@ -1,6 +1,8 @@
 ---
 iso: gmx
 name: Magoma
+name_zh: 马戈马语
+name_zh_auto: true
 autonym: Ekikinga
 alt_names: [Kimagoma, Kinga]
 population: 9000

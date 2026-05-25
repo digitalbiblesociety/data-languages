@@ -1,6 +1,8 @@
 ---
 iso: uri
 name: Urim
+name_zh: 乌里姆语
+name_zh_auto: true
 autonym: Kalp
 alt_names: [Kurom, Tayon, Wan]
 population: 4000

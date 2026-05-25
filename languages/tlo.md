@@ -1,6 +1,8 @@
 ---
 iso: tlo
 name: Talodi
+name_zh: 塔洛迪语
+name_zh_auto: true
 autonym: Talodi
 alt_names: [Ajomang, Gajomang, Jomang, Talodí]
 population: 1500

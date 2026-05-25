@@ -1,6 +1,8 @@
 ---
 iso: sev
 name: Nyarafolo Senoufo
+name_zh: 尼亚拉福洛塞努福语
+name_zh_auto: true
 autonym: Senari
 alt_names: [Nyarafolo-Niafolo, Nyarofolo, "Senoufo, Nyarafolo"]
 population: 60000

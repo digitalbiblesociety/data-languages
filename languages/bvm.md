@@ -1,6 +1,8 @@
 ---
 iso: bvm
 name: Bamunka
+name_zh: 巴蒙卡语
+name_zh_auto: true
 autonym: Bamunka
 alt_names: [Bamunkun, Mbika, Muka, Ndop-Bamunka, Niemeng]
 population: 31000

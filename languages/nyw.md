@@ -1,6 +1,8 @@
 ---
 iso: nyw
 name: Nyaw
+name_zh: 尼亚语
+name_zh_auto: true
 autonym: Jo
 population: 80000
 country_id: TH

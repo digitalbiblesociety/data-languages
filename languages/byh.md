@@ -1,6 +1,8 @@
 ---
 iso: byh
 name: Bhujel
+name_zh: 布杰尔语
+name_zh_auto: true
 autonym: Bujhyal
 alt_names: [Bujal, Bujhel, Chepang, Gharti, Western Chepang]
 population: 3900

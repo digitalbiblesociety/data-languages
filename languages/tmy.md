@@ -1,6 +1,8 @@
 ---
 iso: tmy
 name: Tami
+name_zh: 塔米语
+name_zh_auto: true
 autonym: null
 population: 1500
 country_id: PG

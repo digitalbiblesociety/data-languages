@@ -1,6 +1,8 @@
 ---
 iso: aah
 name: "Abu' Arapesh"
+name_zh: 阿布阿拉佩什语
+name_zh_auto: true
 autonym: Ua
 alt_names: ["Abu'", Abu’ Arapesh, "Arapesh, Abu'"]
 population: 2560

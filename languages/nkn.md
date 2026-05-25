@@ -1,6 +1,8 @@
 ---
 iso: nkn
 name: Nkangala
+name_zh: 恩康加拉语
+name_zh_auto: true
 autonym: Mbúùnda
 alt_names: [Cangala, Ngangala]
 population: 22300

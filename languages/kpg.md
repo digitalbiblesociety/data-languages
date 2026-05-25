@@ -1,6 +1,8 @@
 ---
 iso: kpg
 name: Kapingamarangi
+name_zh: 卡平加马兰吉语
+name_zh_auto: true
 autonym: Kirinit
 population: 1500
 country_id: FM

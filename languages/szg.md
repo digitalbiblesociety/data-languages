@@ -1,6 +1,8 @@
 ---
 iso: szg
 name: Sengele
+name_zh: 塞恩格莱语
+name_zh_auto: true
 autonym: Kesengele
 alt_names: [Sengere]
 population: 17000

@@ -1,6 +1,8 @@
 ---
 iso: tla
 name: Southwestern Tepehuan
+name_zh: 西南特佩瓦语
+name_zh_auto: true
 autonym: "O'otham"
 alt_names: [South Tepehuane, South-west Tepewan, Southern Tepehuan, Southern Tepewan, Tepeguana, Tepehuan sud-occidental, "Tepehuan, Southwestern", Tepehuano suroccidental, Tepehuán del Suroeste, Tepiman]
 population: 8700

@@ -1,6 +1,8 @@
 ---
 iso: sbq
 name: Sileibi
+name_zh: 西莱比语
+name_zh_auto: true
 autonym: Sileibi
 alt_names: [Sirva]
 population: 260

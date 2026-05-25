@@ -1,6 +1,8 @@
 ---
 iso: vmr
 name: Marenje
+name_zh: 马伦杰语
+name_zh_auto: true
 autonym: Emakuana
 alt_names: [Emarendje, Marendje]
 population: 588000

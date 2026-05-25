@@ -1,6 +1,8 @@
 ---
 iso: xes
 name: Kesawai
+name_zh: 克萨瓦伊语
+name_zh_auto: true
 autonym: Kesawi
 alt_names: [Namuya]
 population: 770

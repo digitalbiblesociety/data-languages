@@ -1,6 +1,8 @@
 ---
 iso: ajz
 name: Amri Karbi
+name_zh: 阿姆里卡尔比语
+name_zh_auto: true
 autonym: Amri Karbi
 alt_names: [Amri, AmriKarbi, "Karbi, Amri"]
 population: 125000

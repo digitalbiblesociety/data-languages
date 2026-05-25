@@ -1,6 +1,8 @@
 ---
 iso: myo
 name: Anfillo
+name_zh: 安菲洛语
+name_zh_auto: true
 autonym: Mao
 alt_names: [Anfilo, Anfiloeg, Bahasa Anfillo, South Mao, Southern Mao]
 population: 1000

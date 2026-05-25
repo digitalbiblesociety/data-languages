@@ -1,6 +1,8 @@
 ---
 iso: kpl
 name: Kpala
+name_zh: 克帕拉语
+name_zh_auto: true
 autonym: Gbakpwa
 alt_names: [Daba-Kola, Kola, Kpwaala, Kwala]
 population: 3000

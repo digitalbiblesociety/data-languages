@@ -1,6 +1,8 @@
 ---
 iso: tgu
 name: Tanggu
+name_zh: 坦古语
+name_zh_auto: true
 autonym: Tanggum
 alt_names: [Tangu]
 population: 3000

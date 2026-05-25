@@ -1,6 +1,8 @@
 ---
 iso: mqx
 name: Mamuju
+name_zh: 玛穆朱语
+name_zh_auto: true
 autonym: Mamoedjoe
 alt_names: [Mamoedjoesch, Mamudju, Nordost-Celebes, Udai]
 population: 62900

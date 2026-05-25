@@ -1,6 +1,8 @@
 ---
 iso: rga
 name: Roria
+name_zh: 罗里亚语
+name_zh_auto: true
 autonym: Soisoru
 alt_names: [Mores, Morés, Toksiki]
 population: 75

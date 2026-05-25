@@ -1,6 +1,8 @@
 ---
 iso: jaq
 name: Yaqay
+name_zh: 雅盖语
+name_zh_auto: true
 autonym: Jakai
 alt_names: [Jaqai, Jaqai-Sohur, Mapi, Sohur, Yaqai]
 population: 10000

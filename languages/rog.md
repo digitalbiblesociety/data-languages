@@ -1,6 +1,8 @@
 ---
 iso: rog
 name: Northern Roglai
+name_zh: 北方罗格莱语
+name_zh_auto: true
 autonym: Adlai
 alt_names: [La-Oang, Noang, Northern, Ra-Glai, Radlai, Raglai (North), Rang Glai, Rayglay, Roglai, Roglai (Northern), "Roglai, Northern", Ríoglai]
 population: 22000

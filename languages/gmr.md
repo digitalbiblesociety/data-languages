@@ -1,6 +1,8 @@
 ---
 iso: gmr
 name: "Mirning\r"
+name_zh: 米尔宁语
+name_zh_auto: true
 autonym: Ngandatha
 alt_names: [Mirning, Mirniny]
 population: 4

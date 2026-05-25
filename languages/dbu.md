@@ -1,6 +1,8 @@
 ---
 iso: dbu
 name: Bondum Dom Dogon
+name_zh: 邦杜姆多姆多贡语
+name_zh_auto: true
 autonym: Bondum Dom
 alt_names: [Bondu So, Bondum-Dom, Dogon, "Dogon, Bondum Dom", Najamba-Kindige, North Plateau Dogon]
 population: 24700

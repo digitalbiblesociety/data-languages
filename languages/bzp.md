@@ -1,6 +1,8 @@
 ---
 iso: bzp
 name: Kemberano
+name_zh: 肯贝拉诺语
+name_zh_auto: true
 autonym: Weriagar
 alt_names: [Arandai, Barau, Kalitami, Wariagar]
 population: 1500

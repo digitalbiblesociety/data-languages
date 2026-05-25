@@ -1,6 +1,8 @@
 ---
 iso: kzo
 name: Kaningi
+name_zh: 卡宁基语
+name_zh_auto: true
 autonym: Lekaningi
 alt_names: [Bakanike]
 population: 6000

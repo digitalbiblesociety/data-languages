@@ -1,6 +1,8 @@
 ---
 iso: zpa
 name: Lachiguiri Zapotec
+name_zh: 拉奇吉里萨波特克语
+name_zh_auto: true
 autonym: (Santiago Lachiguiri)
 alt_names: [Eastern Zapotec, Northern Sapoteko, Northwestern Tehuantepec Zapotec, Petapa, Petapa Zapotec, Transyautepecan Zapotec, Transyautepecan Zapotec dialect continuum, Zapotec, "Zapotec, Lachiguiri", Zapoteco de Santa María Petapa, Zapoteco de Santiago Lachiguiri]
 population: 5000

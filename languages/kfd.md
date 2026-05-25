@@ -1,6 +1,8 @@
 ---
 iso: kfd
 name: Korra Koraga
+name_zh: 科拉·科拉加语
+name_zh_auto: true
 autonym: ಕೊರಗ
 alt_names: [Koraga, Koraga language, "Koraga, Korra", Koragar, Koragara, Korangi, Korra]
 population: 14000

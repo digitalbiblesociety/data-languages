@@ -1,6 +1,8 @@
 ---
 iso: wor
 name: Woria
+name_zh: 沃里亚语
+name_zh_auto: true
 autonym: null
 alt_names: [Yoki]
 population: null

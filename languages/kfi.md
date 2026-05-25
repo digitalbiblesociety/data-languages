@@ -1,6 +1,8 @@
 ---
 iso: kfi
 name: Kannada Kurumba
+name_zh: 卡纳达库鲁姆巴语
+name_zh_auto: true
 autonym: Canarese
 alt_names: ["Kurumba, Kannada"]
 population: 180000

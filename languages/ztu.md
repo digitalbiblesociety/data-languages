@@ -1,6 +1,8 @@
 ---
 iso: ztu
 name: Güilá Zapotec
+name_zh: 圭拉萨波特克语
+name_zh_auto: true
 autonym: (San Pablo Güilá)
 alt_names: [Eastern Sapoteko, Guila Zapotec, Zapotec, "Zapotec, Güilá", Zapoteco de Petapa, Zapoteco de San Bartolo Yautepec, Zapoteco de San Dionisio Ocotepec, Zapoteco de San Pablo Güilá, Zapoteco mixtepeco, Zapotèque de Mixtepe, Zapotèque de Petapa, Zapotèque de San Bartolo Yautepec]
 population: 2300

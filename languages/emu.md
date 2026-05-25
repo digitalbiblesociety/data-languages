@@ -1,6 +1,8 @@
 ---
 iso: emu
 name: Eastern Muria
+name_zh: 东穆里亚语
+name_zh_auto: true
 autonym: null
 alt_names: [Gonḍi, Gōṇḍī, "Muria, Eastern"]
 population: 200000

@@ -1,6 +1,8 @@
 ---
 iso: mxq
 name: Juquila Mixe
+name_zh: 胡基拉米克斯语
+name_zh_auto: true
 autonym: Central Mixe
 alt_names: [Cacalotepec, Juquila, Midland Mije, Mije, Mixe, "Mixe, Juquila", Oaxaca Mije, South Central Mixe, South Midland Mixe]
 population: 8000

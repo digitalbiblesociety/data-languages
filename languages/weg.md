@@ -1,6 +1,8 @@
 ---
 iso: weg
 name: Wergaia
+name_zh: 韦格亚语
+name_zh_auto: true
 autonym: Wergaya
 population: null
 country_id: AU

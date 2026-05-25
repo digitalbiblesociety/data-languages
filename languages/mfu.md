@@ -1,6 +1,8 @@
 ---
 iso: mfu
 name: Mbwela
+name_zh: 姆布韦拉语
+name_zh_auto: true
 autonym: Ngangela
 alt_names: [Ambuela, Ambuella, Mbuela, Mbwera, Shimbwera]
 population: 222000

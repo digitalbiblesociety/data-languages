@@ -1,6 +1,8 @@
 ---
 iso: dwr
 name: Dawro
+name_zh: 达乌罗语
+name_zh_auto: true
 autonym: null
 alt_names: [Konta, Kullo]
 population: 513000

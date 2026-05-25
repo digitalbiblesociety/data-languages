@@ -1,6 +1,8 @@
 ---
 iso: soj
 name: Soi
+name_zh: 索伊语
+name_zh_auto: true
 autonym: "Sohi, Soic"
 alt_names: [Iran, "So'i", Soh, Sohi]
 population: 7030

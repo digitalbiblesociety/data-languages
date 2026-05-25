@@ -1,6 +1,8 @@
 ---
 iso: mhk
 name: Mungaka
+name_zh: 芒加卡语
+name_zh_auto: true
 autonym: Bali
 alt_names: [Li, "Munga'ka", "Nga'ka", Ngaaka]
 population: 50100

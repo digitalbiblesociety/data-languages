@@ -1,6 +1,8 @@
 ---
 iso: tsv
 name: Tsogo
+name_zh: 索戈语
+name_zh_auto: true
 autonym: Ghetsogho
 alt_names: [Getsogo, Ghetsogo, Mitsogo]
 population: 9000

@@ -1,6 +1,8 @@
 ---
 iso: pua
 name: Western Highland Purepecha
+name_zh: 西部高地普雷佩查语
+name_zh_auto: true
 autonym: Tarascan
 alt_names: [Idioma purépecha, "P'urhépecha language", Purepecha, "Purepecha, Western Highland", Purépecha, Purépecha del Oeste de las Sierras, Sierra Occidental Purépecha, Tarasco, Taraska simi, Tarasko, Western Highland Purépecha, Пурепеча]
 population: 180000

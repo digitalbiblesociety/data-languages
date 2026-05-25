@@ -1,6 +1,8 @@
 ---
 iso: tbi
 name: Gaam
+name_zh: 盖亚姆语
+name_zh_auto: true
 autonym: Ingessana
 alt_names: ["Gaam, Tabi", Ingassana, Kamanidi, Mamedja, Mamidza, Metabi, Muntabi, Tabi, Tabi (Ingessana)]
 population: 104000

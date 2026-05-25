@@ -1,6 +1,8 @@
 ---
 iso: avo
 name: Agavotaguerra
+name_zh: 阿加沃塔格瓦语
+name_zh_auto: true
 autonym: Agavotokueng
 alt_names: [Agavo-queng, Agavotoküeng, Agavotoqueng, Agavotoqüeng]
 population: null

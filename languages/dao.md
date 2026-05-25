@@ -1,6 +1,8 @@
 ---
 iso: dao
 name: Daai Chin
+name_zh: 代钦语
+name_zh_auto: true
 autonym: Dai
 alt_names: ["Chin, Daai", "Chin,Daai", Daai, "M'kaang", Nitu]
 population: 37000

@@ -1,6 +1,8 @@
 ---
 iso: oue
 name: Oune
+name_zh: 欧内语
+name_zh_auto: true
 autonym: Ounge
 alt_names: [Dapera]
 population: 1000

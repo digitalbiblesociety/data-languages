@@ -1,6 +1,8 @@
 ---
 iso: zsa
 name: Sarasira
+name_zh: 萨拉西拉语
+name_zh_auto: true
 autonym: Sirasira
 population: 600
 country_id: PG

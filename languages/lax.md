@@ -1,6 +1,8 @@
 ---
 iso: lax
 name: Tiwa
+name_zh: 蒂瓦语
+name_zh_auto: true
 autonym: Lalung
 alt_names: [Dowyan, Tigua]
 population: 171000

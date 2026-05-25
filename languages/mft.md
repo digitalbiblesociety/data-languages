@@ -1,6 +1,8 @@
 ---
 iso: mft
 name: Mokerang
+name_zh: 莫克朗语
+name_zh_auto: true
 autonym: Mokareng
 alt_names: [Admiralitäts-inseln, Mokoreng]
 population: 200

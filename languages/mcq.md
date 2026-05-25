@@ -1,6 +1,8 @@
 ---
 iso: mcq
 name: Ese
+name_zh: 埃塞语
+name_zh_auto: true
 autonym: Managalasi
 alt_names: ["\"Managalasi\"", "\"Managulasi\""]
 population: 10000

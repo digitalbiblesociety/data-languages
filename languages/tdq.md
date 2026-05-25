@@ -1,6 +1,8 @@
 ---
 iso: tdq
 name: Tita
+name_zh: 蒂塔语
+name_zh_auto: true
 autonym: Hoai Petel
 population: 3420
 country_id: NG

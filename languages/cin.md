@@ -1,6 +1,8 @@
 ---
 iso: cin
 name: Cinta Larga
+name_zh: 辛塔拉加语
+name_zh_auto: true
 autonym: null
 alt_names: [Aruá, Cinta-larga, Gavião, Gavião du Rondônia, Zoró]
 population: 1300

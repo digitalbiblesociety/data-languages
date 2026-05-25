@@ -1,6 +1,8 @@
 ---
 iso: ndl
 name: Ndolo
+name_zh: 恩多洛语
+name_zh_auto: true
 autonym: Mosange
 alt_names: [Dollo, Ndoolo, Tando]
 population: 8000

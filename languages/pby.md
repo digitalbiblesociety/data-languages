@@ -1,6 +1,8 @@
 ---
 iso: pby
 name: Pyu (Papua New Guinea)
+name_zh: 皮尤语
+name_zh_auto: true
 autonym: bahasa Pyu
 alt_names: [Pyu, Pyu language]
 population: 100

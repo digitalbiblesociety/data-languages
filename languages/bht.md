@@ -1,6 +1,8 @@
 ---
 iso: bht
 name: Bhattiyali
+name_zh: 巴蒂亚利语
+name_zh_auto: true
 autonym: Bhateali
 alt_names: [Bhatiali Pahari, Bhatiyali]
 population: 24000

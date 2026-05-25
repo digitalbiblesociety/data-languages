@@ -1,6 +1,8 @@
 ---
 iso: kkl
 name: Kosarek Yale
+name_zh: 科萨雷克·耶鲁语
+name_zh_auto: true
 autonym: Kosarek Yale
 alt_names: [In-lom, Kosarek, Wanam, Yale (Kosarek), "Yale, Kosarek", Yale-Kosarek]
 population: 2300

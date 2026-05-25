@@ -1,6 +1,8 @@
 ---
 iso: hus
 name: Huastec
+name_zh: 瓦斯特克语
+name_zh_auto: true
 autonym: Huasteco
 alt_names: ["Huastec, Veracruz", Huasteci, Huasteco de Tantoyuca, Huastecos, Huastecs, Huasteekit, Huaxtechi, Huaxteeks, Idioma huasteco, "Te:nek", Teenek, Tenek, Veracruz, Wastek, Wastek language, Wasteko, Вастек јазик, 瓦斯蒂克族]
 population: 174000

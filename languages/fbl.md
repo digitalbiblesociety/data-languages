@@ -1,6 +1,8 @@
 ---
 iso: fbl
 name: West Albay Bikol
+name_zh: 西阿尔拜比科尔语
+name_zh_auto: true
 autonym: Bicol
 alt_names: ["Bikol, West Albay"]
 population: null

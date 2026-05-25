@@ -1,6 +1,8 @@
 ---
 iso: hoo
 name: Holoholo
+name_zh: 霍洛霍洛语
+name_zh_auto: true
 autonym: Kalanga
 alt_names: [Chikalanga, Guha, Horohoro, Ikalanga, Kiholoholo, Kikalanga, Lilima, Sekalaka]
 population: 15500

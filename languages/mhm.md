@@ -1,6 +1,8 @@
 ---
 iso: mhm
 name: "Makhuwa-Moniga"
+name_zh: 马库瓦-莫尼加语
+name_zh_auto: true
 autonym: "Makhuwa-Moniga"
 alt_names: [Emakhuwa-Emoniga, Emoniga, Moniga]
 population: 440000

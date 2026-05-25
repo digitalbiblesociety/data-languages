@@ -1,6 +1,8 @@
 ---
 iso: mzr
 name: Marúbo
+name_zh: 玛鲁博语
+name_zh_auto: true
 autonym: Kaniuá
 alt_names: [Katukína, Marobo, Marova, Maruba, Marubo, Marubo of the Javari Basin, Marúbu]
 population: 1040

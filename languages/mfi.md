@@ -1,6 +1,8 @@
 ---
 iso: mfi
 name: Wandala
+name_zh: 万达拉语
+name_zh_auto: true
 autonym: Mandara
 alt_names: [Gamergu, Malgwa, Mandara Montagnard, Ndara]
 population: 43500

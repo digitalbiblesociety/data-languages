@@ -1,6 +1,8 @@
 ---
 iso: tyy
 name: Kwanka
+name_zh: 夸卡语
+name_zh_auto: true
 autonym: Kadun
 alt_names: [Boi, Tiya, Tiyaa, Ya]
 population: 20000

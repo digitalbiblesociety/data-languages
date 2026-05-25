@@ -1,6 +1,8 @@
 ---
 iso: ted
 name: Tepo Krumen
+name_zh: 特波克鲁门语
+name_zh_auto: true
 autonym: Kroumen
 alt_names: [Kru, Krumen, "Krumen, Tepo", Southern Krumen, Southwestern Kroumen]
 population: 33910

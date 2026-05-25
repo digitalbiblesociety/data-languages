@@ -1,6 +1,8 @@
 ---
 iso: xpe
 name: Liberia Kpelle
+name_zh: 利比里亚克佩勒语
+name_zh_auto: true
 autonym: Kpɛlɛwoo
 alt_names: [Gbese, Guerze, Kpel(l)e, Kpele, Kpelle, "Kpelle, Liberia", Kpwessi, Liberia, Pessa, Pessy]
 population: 867000

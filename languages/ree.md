@@ -1,6 +1,8 @@
 ---
 iso: ree
 name: Rejang Kayan
+name_zh: 雷让卡岩语
+name_zh_auto: true
 autonym: Kajan
 alt_names: ["Kayan, Rejang", Rejang Kajan]
 population: 3030

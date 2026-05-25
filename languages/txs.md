@@ -1,6 +1,8 @@
 ---
 iso: txs
 name: Tonsea
+name_zh: 通塞亚语
+name_zh_auto: true
 autonym: "Tonsea'"
 population: 670
 country_id: ID

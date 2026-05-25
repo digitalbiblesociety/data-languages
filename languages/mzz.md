@@ -1,6 +1,8 @@
 ---
 iso: mzz
 name: Maiadomu
+name_zh: 玛亚多姆语
+name_zh_auto: true
 autonym: null
 alt_names: [Maiadom]
 population: 900

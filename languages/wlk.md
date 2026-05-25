@@ -1,6 +1,8 @@
 ---
 iso: wlk
 name: Wailaki
+name_zh: 瓦伊拉基语
+name_zh_auto: true
 autonym: Eel River
 alt_names: ["Athabaskan d'Eel River", Eel River Athabaskan, Eel River Athapaskan, Kenesti, Lassik, Nongatl, Saiaz, Sinkyone, Wailaki-Sinkyone, Wailaki-Sinkyone-Nongatl-Lassik, Wailakki]
 population: null

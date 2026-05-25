@@ -1,6 +1,8 @@
 ---
 iso: juk
 name: Wapan
+name_zh: 瓦潘语
+name_zh_auto: true
 autonym: Jukun
 alt_names: [Jinkum, Jukon, Juku, Juku Junkun, Jukum, Jukun Wapan, Jukun Wukari, Wakari, Wapã, Wukari, Wukari Jukun]
 population: 100000

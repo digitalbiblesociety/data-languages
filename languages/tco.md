@@ -1,6 +1,8 @@
 ---
 iso: tco
 name: Taungyo
+name_zh: 陶翁语
+name_zh_auto: true
 autonym: Dawei
 alt_names: [Dawai, Dawe, Dawé, Taru, Tavoya, Tavoyan, Tawe-Tavoy, Toru, Täru Tavoya(n)]
 population: 40000

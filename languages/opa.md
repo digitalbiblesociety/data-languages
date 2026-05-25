@@ -1,6 +1,8 @@
 ---
 iso: opa
 name: Okpamheri
+name_zh: 奥克帕姆赫里语
+name_zh_auto: true
 autonym: Opameri
 population: 30000
 country_id: NG

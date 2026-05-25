@@ -1,6 +1,8 @@
 ---
 iso: nol
 name: Nomlaki
+name_zh: 诺姆拉基语
+name_zh_auto: true
 autonym: Central Wintun
 population: null
 country_id: US

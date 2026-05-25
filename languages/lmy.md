@@ -1,6 +1,8 @@
 ---
 iso: lmy
 name: Lamboya
+name_zh: 兰博亚语
+name_zh_auto: true
 autonym: bahasa Lamboya
 alt_names: [Indonesia, Laboya]
 population: 25000

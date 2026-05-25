@@ -1,6 +1,8 @@
 ---
 iso: kxw
 name: Konai
+name_zh: 科奈语
+name_zh_auto: true
 autonym: Mirapmin
 population: 600
 country_id: PG

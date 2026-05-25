@@ -1,6 +1,8 @@
 ---
 iso: twn
 name: Twendi
+name_zh: 特温迪语
+name_zh_auto: true
 autonym: Cambap
 alt_names: [Tiwa (Northern)]
 population: 1000

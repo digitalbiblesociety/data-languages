@@ -1,6 +1,8 @@
 ---
 iso: udu
 name: Uduk
+name_zh: 乌杜克语
+name_zh_auto: true
 autonym: "T'wampa"
 alt_names: [Burun, Kebeirka, Korara, Kumus, Kwanim Pa, Othan, Twampa]
 population: 22000

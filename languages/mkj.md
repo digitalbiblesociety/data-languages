@@ -1,6 +1,8 @@
 ---
 iso: mkj
 name: Mokilese
+name_zh: 莫基莱塞语
+name_zh_auto: true
 autonym: Mwoakilloa
 alt_names: [Mokil, Moquilés, Mwoakilese, Mwoakiloa]
 population: 1000

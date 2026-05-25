@@ -1,6 +1,8 @@
 ---
 iso: tch
 name: Turks And Caicos Creole English
+name_zh: 特克斯和凯科斯克里奥尔英语
+name_zh_auto: true
 autonym: null
 alt_names: ["Creole English, Turks And Caicos"]
 population: 10700

@@ -1,6 +1,8 @@
 ---
 iso: mki
 name: Dhatki
+name_zh: 达特基语
+name_zh_auto: true
 autonym: Dhati
 alt_names: [Thar]
 population: 206400

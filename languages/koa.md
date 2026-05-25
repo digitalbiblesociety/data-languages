@@ -1,6 +1,8 @@
 ---
 iso: koa
 name: Konomala
+name_zh: 科诺马拉语
+name_zh_auto: true
 autonym: null
 population: 800
 country_id: PG

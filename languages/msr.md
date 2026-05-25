@@ -1,6 +1,8 @@
 ---
 iso: msr
 name: Mongolian Sign Language
+name_zh: 蒙古手语
+name_zh_auto: true
 autonym: Монгол дохионы хэл
 population: 10000
 country_id: MN

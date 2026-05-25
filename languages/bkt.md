@@ -1,6 +1,8 @@
 ---
 iso: bkt
 name: Boloki
+name_zh: 博洛基语
+name_zh_auto: true
 autonym: Boloki
 alt_names: [Baloki, Boleki, Buluki, River Ruki]
 population: 4200

@@ -1,6 +1,8 @@
 ---
 iso: gmm
 name: "Gbaya-Mbodomo"
+name_zh: 巴亚-姆博多莫语
+name_zh_auto: true
 autonym: Mbódɔ̀mɔ̀
 alt_names: [Bodomo, Gbaya, Mbodomo, Mbondomo]
 population: 20000

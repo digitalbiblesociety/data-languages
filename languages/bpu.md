@@ -1,6 +1,8 @@
 ---
 iso: bpu
 name: Bongu
+name_zh: 邦古语
+name_zh_auto: true
 autonym: null
 population: 854
 country_id: PG

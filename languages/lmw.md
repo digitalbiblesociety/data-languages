@@ -1,6 +1,8 @@
 ---
 iso: lmw
 name: Lake Miwok
+name_zh: 湖米沃克语
+name_zh_auto: true
 autonym: null
 alt_names: [Lake, Miwok, Miwok (Lake), Miwok du lac, "Miwok, Lake", Miwokano del lago]
 population: null

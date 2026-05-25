@@ -1,6 +1,8 @@
 ---
 iso: apo
 name: Ambul
+name_zh: 安布尔语
+name_zh_auto: true
 autonym: Apalik
 alt_names: [Palik]
 population: 370

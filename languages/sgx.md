@@ -1,6 +1,8 @@
 ---
 iso: sgx
 name: Sierra Leone Sign Language
+name_zh: 塞拉利昂手语
+name_zh_auto: true
 autonym: Lenguaje de Señas Bolivianas LSB
 population: 39000
 country_id: SL

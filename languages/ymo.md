@@ -1,6 +1,8 @@
 ---
 iso: ymo
 name: Yangum Mon
+name_zh: 扬古姆-蒙语
+name_zh_auto: true
 autonym: Aiku
 alt_names: [Malek, Menandon, Minendon, Monanda, Monandu, Umbrak-Aiku]
 population: 730

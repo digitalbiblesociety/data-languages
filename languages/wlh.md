@@ -1,6 +1,8 @@
 ---
 iso: wlh
 name: "Welaun\r"
+name_zh: 韦劳恩语
+name_zh_auto: true
 autonym: "Bekais, Wekais"
 alt_names: [Welaun]
 population: 5580

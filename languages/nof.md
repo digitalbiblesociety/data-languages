@@ -1,6 +1,8 @@
 ---
 iso: nof
 name: Nomane
+name_zh: 诺曼语
+name_zh_auto: true
 autonym: Kiari
 population: 4645
 country_id: PG

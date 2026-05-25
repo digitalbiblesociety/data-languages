@@ -1,6 +1,8 @@
 ---
 iso: aab
 name: "Alumu-Tesu"
+name_zh: 阿卢木-特苏语
+name_zh_auto: true
 autonym: Təsu
 alt_names: [Alumu, Arum-Cesu, Arum-Chessu, Arum-Tesu]
 population: 1000

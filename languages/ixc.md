@@ -1,6 +1,8 @@
 ---
 iso: ixc
 name: Ixcatec
+name_zh: 伊克斯卡特克语
+name_zh_auto: true
 autonym: "Xwja "
 alt_names: [Idioma ixcateco, Iskateko, Ixatèque, Ixcateco, Ixcatèque]
 population: 120

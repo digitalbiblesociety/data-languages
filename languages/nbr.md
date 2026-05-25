@@ -1,6 +1,8 @@
 ---
 iso: nbr
 name: Numana
+name_zh: 努玛纳语
+name_zh_auto: true
 autonym: Gwantu
 alt_names: [Numana-Nunku-Gbantu-Numbu, Sanga]
 population: 50000

@@ -1,6 +1,8 @@
 ---
 iso: kak
 name: Kalanguya
+name_zh: 卡兰古亚语
+name_zh_auto: true
 autonym: Kallahan
 alt_names: ["Kallahan, Kayapa", Kayapa Kallahan]
 population: 15000

@@ -1,6 +1,8 @@
 ---
 iso: ngx
 name: Nggwahyi
+name_zh: 恩瓦希语
+name_zh_auto: true
 autonym: Ngwaxi
 alt_names: [Ngwohi]
 population: 2000

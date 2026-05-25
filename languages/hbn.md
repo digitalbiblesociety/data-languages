@@ -1,6 +1,8 @@
 ---
 iso: hbn
 name: Heiban
+name_zh: 海班语
+name_zh_auto: true
 autonym: Ebang
 alt_names: [Abul, Heibán]
 population: 4410

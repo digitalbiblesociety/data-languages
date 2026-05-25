@@ -1,6 +1,8 @@
 ---
 iso: kzu
 name: Kayupulau
+name_zh: 卡尤普劳语
+name_zh_auto: true
 autonym: Kajupulau
 alt_names: [Kayapulau]
 population: 573

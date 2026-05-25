@@ -1,6 +1,8 @@
 ---
 iso: gbe
 name: Niksek
+name_zh: 尼克塞克语
+name_zh_auto: true
 autonym: Meiyari
 alt_names: [Gabiano, Paka, Setiali, Sumwari]
 population: 930

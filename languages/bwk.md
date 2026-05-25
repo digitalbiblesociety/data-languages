@@ -1,6 +1,8 @@
 ---
 iso: bwk
 name: Bauwaki
+name_zh: 鲍瓦基语
+name_zh_auto: true
 autonym: Bawaki
 alt_names: [Baukawi]
 population: 520

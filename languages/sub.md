@@ -1,6 +1,8 @@
 ---
 iso: sub
 name: Suku
+name_zh: 苏库语
+name_zh_auto: true
 autonym: Kisuku
 population: 80000
 country_id: CD

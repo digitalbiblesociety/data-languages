@@ -1,6 +1,8 @@
 ---
 iso: iya
 name: Iyayu
+name_zh: 伊亚尤语
+name_zh_auto: true
 autonym: Idoani
 population: 24700
 country_id: NG

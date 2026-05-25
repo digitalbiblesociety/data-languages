@@ -1,6 +1,8 @@
 ---
 iso: vmq
 name: Soyaltepec Mixtec
+name_zh: 索亚尔特佩克混特克语
+name_zh_auto: true
 autonym: (San Bartolo Soyaltepec)
 alt_names: [Apasco Mixtec, Apasco-Apoala Mixtec, Apoala Mixtec, "Mixtec, Soyaltepec", Mixteco de San Bartolo Soyaltepec, Mixteco de Santiago Apoala, Mixteco del noreste bajo, Northeastern Alta Mixtec, Northern Misteko, Northern Mixteco, Northern Nochixtlán Mixtec]
 population: 320

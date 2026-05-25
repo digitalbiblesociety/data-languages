@@ -1,6 +1,8 @@
 ---
 iso: sxc
 name: Sicanian
+name_zh: 西卡尼亚语
+name_zh_auto: true
 autonym: null
 population: null
 country_id: IT

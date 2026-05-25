@@ -1,6 +1,8 @@
 ---
 iso: roe
 name: Ronji
+name_zh: 荣吉语
+name_zh_auto: true
 autonym: Gali
 alt_names: [Roinji]
 population: 450

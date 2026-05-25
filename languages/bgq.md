@@ -1,6 +1,8 @@
 ---
 iso: bgq
 name: Bagri
+name_zh: 巴格里语
+name_zh_auto: true
 autonym: बागड़ी
 alt_names: [Bagari, Bagria, Bagris, Bahgri, Baorias, Rajasthani, பாக்ரி மொழி, ภาษาพาครี]
 population: 2196000

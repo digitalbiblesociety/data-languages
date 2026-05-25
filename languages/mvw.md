@@ -1,6 +1,8 @@
 ---
 iso: mvw
 name: Machinga
+name_zh: 马金加语
+name_zh_auto: true
 autonym: Chi(ni)makonde
 alt_names: [Tanzania]
 population: 36000

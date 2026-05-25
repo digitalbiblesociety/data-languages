@@ -1,6 +1,8 @@
 ---
 iso: teu
 name: Soo
+name_zh: 索奥语
+name_zh_auto: true
 autonym: Tepes
 alt_names: [So, Tepeth]
 population: 21534

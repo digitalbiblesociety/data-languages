@@ -1,6 +1,8 @@
 ---
 iso: cnx
 name: Middle Cornish
+name_zh: 中世康沃尔语
+name_zh_auto: true
 autonym: Kernewek
 alt_names: ["Cornish, Middle"]
 population: null

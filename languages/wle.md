@@ -1,6 +1,8 @@
 ---
 iso: wle
 name: Wolane
+name_zh: 沃拉内语
+name_zh_auto: true
 autonym: ስልጥኘ
 alt_names: [Olane, Walane, Welene, Weleni, Wäläne]
 population: null

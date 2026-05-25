@@ -1,6 +1,8 @@
 ---
 iso: mva
 name: Manam
+name_zh: 玛南语
+name_zh_auto: true
 autonym: null
 alt_names: [Manum]
 population: 7950

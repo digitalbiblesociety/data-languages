@@ -1,6 +1,8 @@
 ---
 iso: key
 name: Kupia
+name_zh: 库皮亚语
+name_zh_auto: true
 autonym: Valmiki
 alt_names: [Southern Oriya]
 population: 6600

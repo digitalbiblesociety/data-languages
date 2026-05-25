@@ -1,6 +1,8 @@
 ---
 iso: nax
 name: Nakwi
+name_zh: 纳克维语
+name_zh_auto: true
 autonym: null
 population: 280
 country_id: PG

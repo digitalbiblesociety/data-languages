@@ -1,6 +1,8 @@
 ---
 iso: yat
 name: Yambeta
+name_zh: 扬贝塔语
+name_zh_auto: true
 autonym: Njambeta
 alt_names: [Yambetta]
 population: 3700

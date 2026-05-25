@@ -1,6 +1,8 @@
 ---
 iso: kid
 name: Koshin
+name_zh: 科申语
+name_zh_auto: true
 autonym: Kaw
 alt_names: [Kosin]
 population: 1000

@@ -1,6 +1,8 @@
 ---
 iso: gyr
 name: Guarayu
+name_zh: 瓜拉尤语
+name_zh_auto: true
 autonym: Gwarayú
 alt_names: ["\"Guarayo\"", Chapacura, Guapore, Guarayo, Guarayú, Huachi, Iten, Maré, Tapacura, Ñañañe]
 population: 5930

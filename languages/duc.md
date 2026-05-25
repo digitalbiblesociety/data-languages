@@ -1,6 +1,8 @@
 ---
 iso: duc
 name: Duna
+name_zh: 杜纳语
+name_zh_auto: true
 autonym: Yuna
 population: 20000
 country_id: PG

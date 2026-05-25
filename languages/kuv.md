@@ -1,6 +1,8 @@
 ---
 iso: kuv
 name: Kur
+name_zh: 库尔语
+name_zh_auto: true
 autonym: null
 alt_names: [Indonesia]
 population: 3180

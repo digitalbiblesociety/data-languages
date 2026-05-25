@@ -1,6 +1,8 @@
 ---
 iso: kpk
 name: Kpan
+name_zh: 克潘语
+name_zh_auto: true
 autonym: Abakan
 alt_names: [Eregba, Hwaso, Hwaye, Ibukwo, Ikpan, Kpanten, Kpwate, Nyatso, Nyonyo, Yorda]
 population: 11400

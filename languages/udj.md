@@ -1,6 +1,8 @@
 ---
 iso: udj
 name: Ujir
+name_zh: 乌吉尔语
+name_zh_auto: true
 autonym: Udjir
 alt_names: [Aru]
 population: 980

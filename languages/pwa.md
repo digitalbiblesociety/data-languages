@@ -1,6 +1,8 @@
 ---
 iso: pwa
 name: Pawaia
+name_zh: 帕瓦亚语
+name_zh_auto: true
 autonym: Aurama
 alt_names: [Oyobe dialect, Pavaia, Pawaian, Sira, Tudahwe, Yasa]
 population: 4000

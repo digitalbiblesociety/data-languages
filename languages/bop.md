@@ -1,6 +1,8 @@
 ---
 iso: bop
 name: Bonkiman
+name_zh: 邦基曼语
+name_zh_auto: true
 autonym: null
 population: 175
 country_id: PG

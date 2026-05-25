@@ -1,6 +1,8 @@
 ---
 iso: thy
 name: Tha
+name_zh: 塔语
+name_zh_auto: true
 autonym: θá
 alt_names: [Joole Manga, Joole Marga, Kapawa]
 population: 1000

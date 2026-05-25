@@ -1,6 +1,8 @@
 ---
 iso: lkn
 name: Lakon
+name_zh: 拉孔语
+name_zh_auto: true
 autonym: Vure
 alt_names: [Banks-Inseln, Gaua, Gog, Lakona, Vurē]
 population: 700

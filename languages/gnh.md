@@ -1,6 +1,8 @@
 ---
 iso: gnh
 name: Lere
+name_zh: 莱雷语
+name_zh_auto: true
 autonym: null
 alt_names: [Nigeria]
 population: 16328

@@ -1,6 +1,8 @@
 ---
 iso: hti
 name: Hoti
+name_zh: 霍蒂语
+name_zh_auto: true
 autonym: bahasa Hoti
 population: null
 country_id: ID

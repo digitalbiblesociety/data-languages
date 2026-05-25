@@ -1,6 +1,8 @@
 ---
 iso: lok
 name: Loko
+name_zh: 洛科语
+name_zh_auto: true
 autonym: Landogo
 population: 179000
 country_id: SL

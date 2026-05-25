@@ -1,6 +1,8 @@
 ---
 iso: tno
 name: Toromono
+name_zh: 托罗莫诺语
+name_zh_auto: true
 autonym: Toromona
 population: 200
 country_id: BO

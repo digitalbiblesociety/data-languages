@@ -1,6 +1,8 @@
 ---
 iso: pgs
 name: Pangseng
+name_zh: 庞圣语
+name_zh_auto: true
 autonym: null
 alt_names: [Nigeria]
 population: null

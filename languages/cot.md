@@ -1,6 +1,8 @@
 ---
 iso: cot
 name: Caquinte
+name_zh: 卡基因特语
+name_zh_auto: true
 autonym: Poyenisati
 alt_names: ["\"Cachomashiri\"", Atiri, Campa, Caquinte Campa, Caquinté, Kakinte, Poyenisate]
 population: 300

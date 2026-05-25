@@ -1,6 +1,8 @@
 ---
 iso: ayz
 name: Mai Brat
+name_zh: 迈布拉特语
+name_zh_auto: true
 autonym: Ajamaru
 alt_names: [Aitinjo, Aitinyo, Ajamaroe, Asman, Atinjo, Ayamaru, Brat, Kaboro, Maibrat, Maite, Majbrat, Maybrat, Maybrat (Ayawasi), Maybrat-Karon, Mayhapeh dialect of Ayawasi village, Mey Brat, Meybrat, Mogetemin]
 population: 20000

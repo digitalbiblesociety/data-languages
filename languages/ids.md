@@ -1,6 +1,8 @@
 ---
 iso: ids
 name: Idesa
+name_zh: 伊德萨语
+name_zh_auto: true
 autonym: null
 population: 5690
 country_id: NG

@@ -1,6 +1,8 @@
 ---
 iso: mmf
 name: Mundat
+name_zh: 蒙达特语
+name_zh_auto: true
 autonym: null
 alt_names: [Nigeria]
 population: 1000

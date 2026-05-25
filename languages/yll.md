@@ -1,6 +1,8 @@
 ---
 iso: yll
 name: Yil
+name_zh: 伊尔语
+name_zh_auto: true
 autonym: null
 population: 2470
 country_id: PG

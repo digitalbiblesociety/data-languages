@@ -1,6 +1,8 @@
 ---
 iso: sbs
 name: Subiya
+name_zh: 苏比亚语
+name_zh_auto: true
 autonym: Subiya
 alt_names: [Chikuahane, Chikuhane, Chikwahane, Ciikuhane, Cisubiya, Echisubia, Kuahane, Kuhane, Kwahane, Mbalangwe, Sesubea, Sesubiya, Subia, Supia, Tjikuhane]
 population: 39570

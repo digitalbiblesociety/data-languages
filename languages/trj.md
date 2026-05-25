@@ -1,6 +1,8 @@
 ---
 iso: trj
 name: Toram
+name_zh: 托兰语
+name_zh_auto: true
 autonym: Torom
 alt_names: [Torum]
 population: 8460

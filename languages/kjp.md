@@ -1,6 +1,8 @@
 ---
 iso: kjp
 name: Pwo Eastern Karen
+name_zh: 普沃东卡伦语
+name_zh_auto: true
 autonym: " ဖၠုံယှိုဝ်"
 alt_names: [Eastern Pwo, Karen, Karen (Pwo), "Karen, Pwo Eastern", "Karen, Pwo Western Thailand", "Karen,PwoEastern", Moulmein Pwo Karen, Phlou, Pho of Moulmein, Pwo Eastern, Pwo Karen, Pwo Western, Southern Pwo Karen]
 population: 1050000

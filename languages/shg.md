@@ -1,6 +1,8 @@
 ---
 iso: shg
 name: Shua
+name_zh: 舒瓦语
+name_zh_auto: true
 autonym: Mashuakwe
 alt_names: [Deti, Shua-Khwe, Shwa language, Tshumakwe]
 population: 100

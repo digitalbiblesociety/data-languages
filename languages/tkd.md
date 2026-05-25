@@ -1,6 +1,8 @@
 ---
 iso: tkd
 name: Tukudede
+name_zh: 图库德德语
+name_zh_auto: true
 autonym: Tocod
 alt_names: [Tokodede, Tokodé, Tukude]
 population: 55400

@@ -1,6 +1,8 @@
 ---
 iso: dgz
 name: Daga
+name_zh: 达加语
+name_zh_auto: true
 autonym: null
 alt_names: [Dimuga, Nawp]
 population: 10000

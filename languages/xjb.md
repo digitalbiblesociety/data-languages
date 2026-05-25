@@ -1,6 +1,8 @@
 ---
 iso: xjb
 name: Minjungbal
+name_zh: 民金巴尔语
+name_zh_auto: true
 autonym: "Cood-jingburra"
 alt_names: [Cudgingberry, Gan-dowal, Gando Minjang, Gendo, Minjangbal, Minyangbal, Minyowa, Minyung, Ngandowul]
 population: 208

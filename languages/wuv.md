@@ -1,6 +1,8 @@
 ---
 iso: wuv
 name: "Wuvulu-Aua"
+name_zh: 乌武卢-奥阿语
+name_zh_auto: true
 autonym: "Wuvalu-Aua"
 alt_names: [Admiralitäts-inseln, Aua-Viwulu, Viwulu-Aua]
 population: 1600

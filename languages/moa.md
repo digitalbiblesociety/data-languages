@@ -1,6 +1,8 @@
 ---
 iso: moa
 name: Mwan
+name_zh: 姆万语
+name_zh_auto: true
 autonym: Mona
 alt_names: [Mouan, Muan, Muana, Mwa]
 population: 20000

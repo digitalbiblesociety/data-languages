@@ -1,6 +1,8 @@
 ---
 iso: thp
 name: Thompson
+name_zh: 汤普逊语
+name_zh_auto: true
 autonym: Nłeʔkepmxcín
 alt_names: [At-nah, Nikutamú, Nklapmx, "Nlaka'pamux", "Nle'kepmxcín", Nlha7kápmx, Ntlakapamux, Ntlakapmuk, Ntlakyapamuk, Nłeʔkepmxcin, Nłeʔkepmxcín (Thompson), "Salish, Thompson River", Thompson River Salish, nɬeʔkepmxcín]
 population: 3000

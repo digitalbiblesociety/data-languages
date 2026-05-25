@@ -1,6 +1,8 @@
 ---
 iso: bka
 name: Kyak
+name_zh: 基亚克语
+name_zh_auto: true
 autonym: Bambuka
 alt_names: [Nyakyak]
 population: 5000

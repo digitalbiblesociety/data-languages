@@ -1,6 +1,8 @@
 ---
 iso: lig
 name: Ligbi
+name_zh: 利格比语
+name_zh_auto: true
 autonym: Banda
 alt_names: [Dzowo, Huela, Hwela-Numu, Jogo, Ligwi, Namasa, Nigbi, Nigwi, Numu, Tsie, Tuba, Weela, Weila, Wiila]
 population: 15000

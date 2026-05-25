@@ -1,6 +1,8 @@
 ---
 iso: tsx
 name: Mubami
+name_zh: 穆巴米语
+name_zh_auto: true
 autonym: Tao
 alt_names: [Dausame, Dausuami, Ta, Tao-Suamato, Tao-Suame]
 population: 1730

@@ -1,6 +1,8 @@
 ---
 iso: gvy
 name: Guyani
+name_zh: 古亚尼语
+name_zh_auto: true
 autonym: yura ngarwala
 alt_names: [Cooyiannie, Gujani, Kijani, Kiyani, Koonarie, Kooteeuna, Kooteeunna, Kooyeeunna, Kooyiannie, Kujani, Kuyani, Kuyanni, Kwiana, Kwiani, Nganitjidi, Ngannityddi, Ngannityiddi, Owinia]
 population: null

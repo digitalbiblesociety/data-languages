@@ -1,6 +1,8 @@
 ---
 iso: rdb
 name: Rudbari
+name_zh: 鲁德巴里语
+name_zh_auto: true
 autonym: Tâti تاتی زبون
 alt_names: [Iran]
 population: null

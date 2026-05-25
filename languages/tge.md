@@ -1,6 +1,8 @@
 ---
 iso: tge
 name: Eastern Gorkha Tamang
+name_zh: 东高卡塔芒语
+name_zh_auto: true
 autonym: तामाङ
 alt_names: [Murmi, Tamang, "Tamang, Eastern Gorkha", "Tamang,EasternGorkha"]
 population: 3980

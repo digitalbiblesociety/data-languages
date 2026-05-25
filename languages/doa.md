@@ -1,6 +1,8 @@
 ---
 iso: doa
 name: Dom
+name_zh: 多姆语
+name_zh_auto: true
 autonym: "Dom [ndom˩˥]"
 population: 12000
 country_id: PG

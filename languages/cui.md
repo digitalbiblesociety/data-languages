@@ -1,6 +1,8 @@
 ---
 iso: cui
 name: Cuiba
+name_zh: 库伊巴语
+name_zh_auto: true
 autonym: null
 alt_names: [Chiricoa, Cuiba-Wámonae, Cuiva, Hiwi, Kuiva, Kviba lingvo, Maiben]
 population: 1500

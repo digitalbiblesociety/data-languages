@@ -1,6 +1,8 @@
 ---
 iso: cco
 name: Comaltepec Chinantec
+name_zh: 科马尔特佩克奇南特克语
+name_zh_auto: true
 autonym: Jmii’
 alt_names: [Chinantec, Chinantec (Comaltepec), "Chinantec, Comaltepec", Chinanteco, Chinanteco (Comaltepec), Chinanteco de la Sierra, Chinanteko, "Jmii'", Quiotepec Chinantec, Sierra Chinantec, Valle Nacional Chinantec, "jmiih dzä mo'"]
 population: 2000

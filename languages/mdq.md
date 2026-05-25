@@ -1,6 +1,8 @@
 ---
 iso: mdq
 name: Mbole
+name_zh: 姆博莱语
+name_zh_auto: true
 autonym: Lombole
 population: 100000
 country_id: CD

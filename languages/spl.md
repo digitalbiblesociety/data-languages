@@ -1,6 +1,8 @@
 ---
 iso: spl
 name: Selepet
+name_zh: 塞莱佩特语
+name_zh_auto: true
 autonym: null
 alt_names: [Selepe]
 population: 7240

@@ -1,6 +1,8 @@
 ---
 iso: dja
 name: Djadjawurrung
+name_zh: 詹詹武隆语
+name_zh_auto: true
 autonym: Djadja Wurrung
 population: null
 country_id: AU

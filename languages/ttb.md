@@ -1,6 +1,8 @@
 ---
 iso: ttb
 name: Gaa
+name_zh: 加语
+name_zh_auto: true
 autonym: Tiba
 alt_names: [Gà]
 population: 10000

@@ -1,6 +1,8 @@
 ---
 iso: pmz
 name: Southern Pame
+name_zh: 南部帕梅语
+name_zh_auto: true
 autonym: null
 alt_names: [Pame, "Pame, Southern", Pamean]
 population: null

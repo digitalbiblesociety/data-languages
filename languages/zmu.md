@@ -1,6 +1,8 @@
 ---
 iso: zmu
 name: Muruwari
+name_zh: 穆鲁瓦里语
+name_zh_auto: true
 autonym: Murawari
 alt_names: [Marawari, MarraaWarree, Maruwari, Moorawarree, Moorawarrie, Morewari, Morowari, Murawarri, Murra warri, Murra-warri, Murrawari, Murrawarri, Murri, Murruwurri, Murueri, Muruwarri, Muruworri, Muruwurri, Yacko Yacko]
 population: null

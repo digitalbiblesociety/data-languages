@@ -1,6 +1,8 @@
 ---
 iso: ttp
 name: Tombelala
+name_zh: 汤贝拉拉语
+name_zh_auto: true
 autonym: Tombelala
 population: 2240
 country_id: ID

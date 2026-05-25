@@ -1,6 +1,8 @@
 ---
 iso: asc
 name: Casuarina Coast Asmat
+name_zh: 红树林海岸阿斯玛特语
+name_zh_auto: true
 autonym: Kaweinag
 alt_names: [Asmat, "Asmat, Casuarina Coast"]
 population: 3400

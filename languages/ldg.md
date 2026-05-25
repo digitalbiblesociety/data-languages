@@ -1,6 +1,8 @@
 ---
 iso: ldg
 name: Lenyima
+name_zh: 伦伊玛语
+name_zh_auto: true
 autonym: Lenyima
 alt_names: [Anyima, Inyima]
 population: 13000

@@ -1,6 +1,8 @@
 ---
 iso: hag
 name: Hanga
+name_zh: 汉加语
+name_zh_auto: true
 autonym: Anga
 population: 6800
 country_id: GH

@@ -1,6 +1,8 @@
 ---
 iso: ikh
 name: "Ikhin-Aokho"
+name_zh: 伊金-奥克霍语
+name_zh_auto: true
 autonym: Arokho
 alt_names: [Ikhin-Arokho]
 population: null

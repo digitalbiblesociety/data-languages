@@ -1,6 +1,8 @@
 ---
 iso: zhi
 name: Zhire
+name_zh: 智雷语
+name_zh_auto: true
 autonym: Kenyi
 population: null
 country_id: NG

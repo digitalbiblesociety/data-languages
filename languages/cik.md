@@ -1,6 +1,8 @@
 ---
 iso: cik
 name: Chitkuli Kinnauri
+name_zh: 基特库利基纳乌里语
+name_zh_auto: true
 autonym: Kanawaringskad
 alt_names: [Chitkhuli, Chitkuli, Kanauri, Kanāwri, Kinauri, Kinnauri, "Kinnauri, Chitkuli", "Kinnauri,Chitkuli", Thebarskad, Tsitkhuli, Tsíhuli, Tśikhuli]
 population: 1060

@@ -1,6 +1,8 @@
 ---
 iso: ipo
 name: Ipiko
+name_zh: 伊皮科语
+name_zh_auto: true
 autonym: Epai
 alt_names: [Higa, Ipikoi]
 population: 200

@@ -1,6 +1,8 @@
 ---
 iso: yin
 name: Riang Lai
+name_zh: 日昂-莱语
+name_zh_auto: true
 autonym: Black Riang
 alt_names: [Ranei, Striped Karen, Yinchia, Yinnet]
 population: 12000

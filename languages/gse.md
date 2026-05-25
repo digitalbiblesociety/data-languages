@@ -1,6 +1,8 @@
 ---
 iso: gse
 name: Ghanaian Sign Language
+name_zh: 加纳手语
+name_zh_auto: true
 autonym: Lenguaje de Señas Bolivianas LSB
 population: 152000
 country_id: GH

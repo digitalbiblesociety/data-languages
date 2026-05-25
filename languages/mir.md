@@ -1,6 +1,8 @@
 ---
 iso: mir
 name: Isthmus Mixe
+name_zh: 地峡米克苏语
+name_zh_auto: true
 autonym: Lowland Mixe
 alt_names: [Eastern Mixe, Guichicovi, Guichicovi Mixe, Isthmus Sokean, Lowland Mije, Mije, Mixe, Mixe del Istmo, "Mixe, Isthmus", Oaxaca Mije]
 population: 22500

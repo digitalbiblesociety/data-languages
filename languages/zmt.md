@@ -1,6 +1,8 @@
 ---
 iso: zmt
 name: Maringarr
+name_zh: 马里恩格语
+name_zh_auto: true
 autonym: Matige
 alt_names: [Marengar, Marenggar, "Mari'ngar", Maringa, Maringar, Marri Ngarr, Marringarr, Merringar, Moil, Moyle, Muringa, Muringar, Murrinnga, Ngangikadre, Yaghanin]
 population: null

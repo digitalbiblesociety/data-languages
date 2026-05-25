@@ -1,6 +1,8 @@
 ---
 iso: tkq
 name: Tee
+name_zh: 蒂语
+name_zh_auto: true
 autonym: Tai
 alt_names: [Kana, Khana]
 population: 425000

@@ -1,6 +1,8 @@
 ---
 iso: zmy
 name: Mariyedi
+name_zh: 马里耶迪语
+name_zh_auto: true
 autonym: Berringen
 alt_names: [Marijadi, Marijedi, Murijadi]
 population: null

@@ -1,6 +1,8 @@
 ---
 iso: pma
 name: Paama
+name_zh: 帕玛语
+name_zh_auto: true
 autonym: Paama
 alt_names: [Paama-Lopevi, Paaman kieli, Paamese, Paamese of Vanuatu, Pauma]
 population: 6000

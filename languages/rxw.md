@@ -1,6 +1,8 @@
 ---
 iso: rxw
 name: Karuwali
+name_zh: 卡鲁瓦利语
+name_zh_auto: true
 autonym: "Gara-wali"
 alt_names: [Garuwali]
 population: null

@@ -1,6 +1,8 @@
 ---
 iso: bmg
 name: Bamwe
+name_zh: 巴姆韦语
+name_zh_auto: true
 autonym: null
 population: 20000
 country_id: CD

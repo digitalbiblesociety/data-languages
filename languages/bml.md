@@ -1,6 +1,8 @@
 ---
 iso: bml
 name: Bomboli
+name_zh: 博姆博利语
+name_zh_auto: true
 autonym: Bombongo
 population: 2500
 country_id: CD

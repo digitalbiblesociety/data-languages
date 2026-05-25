@@ -1,6 +1,8 @@
 ---
 iso: eno
 name: Enggano
+name_zh: 恩加诺语
+name_zh_auto: true
 autonym: Engganese
 population: 1500
 country_id: ID

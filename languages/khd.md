@@ -1,6 +1,8 @@
 ---
 iso: khd
 name: Bädi Kanum
+name_zh: 巴迪·卡努姆语
+name_zh_auto: true
 autonym: Ngkontar
 alt_names: [Badi Kanum, Bädi, Enkelembu, Kanum, Kanum (Bädi), "Kanum, Bädi", Kenume, Knwne]
 population: null

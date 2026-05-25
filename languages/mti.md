@@ -1,6 +1,8 @@
 ---
 iso: mti
 name: Maiwa (Papua New Guinea)
+name_zh: 玛依瓦语
+name_zh_auto: true
 autonym: Maiwa
 population: 1400
 country_id: PG

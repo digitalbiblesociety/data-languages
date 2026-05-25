@@ -1,6 +1,8 @@
 ---
 iso: sab
 name: Buglere
+name_zh: 布格莱雷语
+name_zh_auto: true
 autonym: Murire
 alt_names: [Bobota, Bocota, Bocotá, Bofota, Bogota, Bogotá, Bokota, Bokotá, Boncota, Bukueta, Muoy, Nortenyo, Sabanero, Veraguas Sabanero]
 population: 18000

@@ -1,6 +1,8 @@
 ---
 iso: wok
 name: Longto
+name_zh: 隆托语
+name_zh_auto: true
 autonym: Voko
 alt_names: [Boko, Gobeyo, Longa, Longbo, Lonto, Woko]
 population: 2400

@@ -1,6 +1,8 @@
 ---
 iso: mqc
 name: Mangole
+name_zh: 芒戈莱语
+name_zh_auto: true
 autonym: Mangoli
 population: 7280
 country_id: ID

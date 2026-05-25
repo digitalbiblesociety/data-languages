@@ -1,6 +1,8 @@
 ---
 iso: bdu
 name: Oroko
+name_zh: 奥罗科语
+name_zh_auto: true
 autonym: Balondo
 alt_names: [Bakundu, Bakundu-Balue, Balundu-Bima, Kundu, Londo, Lue, Lundu, Oroko (West), Oroko-East, Oroko-West]
 population: 106000

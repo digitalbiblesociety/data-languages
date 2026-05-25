@@ -1,6 +1,8 @@
 ---
 iso: dim
 name: Dime
+name_zh: 迪梅语
+name_zh_auto: true
 autonym: Dima
 alt_names: [Dime jezik, Dimme, Dimé, Lenga Dime]
 population: 4785

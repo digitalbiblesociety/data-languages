@@ -1,6 +1,8 @@
 ---
 iso: kbu
 name: Kabutra
+name_zh: 卡布特拉语
+name_zh_auto: true
 autonym: Sansiboli
 alt_names: [Nat, Natra]
 population: 1000

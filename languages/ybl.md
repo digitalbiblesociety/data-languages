@@ -1,6 +1,8 @@
 ---
 iso: ybl
 name: Yukuben
+name_zh: 尤库本语
+name_zh_auto: true
 autonym: Boritsu
 alt_names: [Ayikiben, Balaabe, Balaaben, Boritsũ, Gohum, Nyikobe, Nyikuben, Oohum, Uhumkhegi, Uuhum, Uuhum-Gigi]
 population: 15000

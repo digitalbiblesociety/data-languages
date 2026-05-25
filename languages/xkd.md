@@ -1,6 +1,8 @@
 ---
 iso: xkd
 name: Mendalam Kayan
+name_zh: 门达拉姆卡扬语
+name_zh_auto: true
 autonym: Kajan
 alt_names: ["Kayan, Mendalam", Mendalam Kajan]
 population: 1500

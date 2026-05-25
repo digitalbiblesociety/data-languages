@@ -1,6 +1,8 @@
 ---
 iso: akw
 name: Akwa
+name_zh: 阿库瓦语
+name_zh_auto: true
 autonym: null
 population: 24100
 country_id: CG

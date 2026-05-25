@@ -1,6 +1,8 @@
 ---
 iso: srg
 name: Sulod
+name_zh: 苏洛德语
+name_zh_auto: true
 autonym: Bukidnon
 alt_names: [Mondo]
 population: 14000

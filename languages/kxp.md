@@ -1,6 +1,8 @@
 ---
 iso: kxp
 name: Wadiyara Koli
+name_zh: 瓦迪亚拉科利语
+name_zh_auto: true
 autonym: Wadaria
 alt_names: ["Koli, Wadiyara", Wadhiara]
 population: 583000

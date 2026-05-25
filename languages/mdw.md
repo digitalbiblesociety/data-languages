@@ -1,6 +1,8 @@
 ---
 iso: mdw
 name: Mbosi
+name_zh: 姆博西语
+name_zh_auto: true
 autonym: Embosi
 alt_names: [Mbochi, Mboshe, Mboshi]
 population: 190000

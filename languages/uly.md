@@ -1,6 +1,8 @@
 ---
 iso: uly
 name: Buli
+name_zh: 布利语
+name_zh_auto: true
 autonym: Barawa
 alt_names: [Bili, Buli (Polci), Bələ, Bɨlɨ]
 population: 22000

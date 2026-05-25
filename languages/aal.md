@@ -1,6 +1,8 @@
 ---
 iso: aal
 name: Afade
+name_zh: 阿法德语
+name_zh_auto: true
 autonym: Afaɗə
 alt_names: [Afada, Afade jezik, Afadeg, Afadeh, Affade, Kotoko, Mandage, Mandagué, Mogari, Ngala]
 population: 5000

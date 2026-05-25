@@ -1,6 +1,8 @@
 ---
 iso: kbj
 name: Kari
+name_zh: 卡里语
+name_zh_auto: true
 autonym: "Li-Kari-Li"
 alt_names: [Carí, Kare]
 population: 1000

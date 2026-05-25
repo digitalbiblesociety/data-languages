@@ -1,6 +1,8 @@
 ---
 iso: kch
 name: Vono
+name_zh: 沃诺语
+name_zh_auto: true
 autonym: Kivɔnɔ
 alt_names: [Kiballo, Kiwollo]
 population: 500

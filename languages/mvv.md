@@ -1,6 +1,8 @@
 ---
 iso: mvv
 name: Tagal Murut
+name_zh: 塔加尔穆鲁特语
+name_zh_auto: true
 autonym: bahasa Murut Tahol
 alt_names: ["Murut, Tagal", Semambu, Semembu, Sumambu, Sumambu-Tagal, Sumambuq]
 population: 22000

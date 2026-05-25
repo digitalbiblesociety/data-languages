@@ -1,6 +1,8 @@
 ---
 iso: mnn
 name: Southern Mnong
+name_zh: 南蒙翁语
+name_zh_auto: true
 autonym: Bunong (ឞូន៝ង)
 alt_names: ["Mnong, Southern", Penong]
 population: 30000

@@ -1,6 +1,8 @@
 ---
 iso: mng
 name: Eastern Mnong
+name_zh: 东蒙翁语
+name_zh_auto: true
 autonym: Bunong (ឞូន៝ង)
 alt_names: [E Mnong, E. Mnong, Mnong (Eastern), "Mnong, Eastern", Nong, Penong, Rolom]
 population: 30000

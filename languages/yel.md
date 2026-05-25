@@ -1,6 +1,8 @@
 ---
 iso: yel
 name: Yela
+name_zh: 耶拉语
+name_zh_auto: true
 autonym: Yela
 alt_names: [Boyela, Kutu]
 population: 33000

@@ -1,6 +1,8 @@
 ---
 iso: sst
 name: Sinasina
+name_zh: 西纳西纳语
+name_zh_auto: true
 autonym: null
 alt_names: [Chimbu, Tabare]
 population: 21020

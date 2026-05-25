@@ -1,6 +1,8 @@
 ---
 iso: yuz
 name: Yuracare
+name_zh: 尤拉卡雷语
+name_zh_auto: true
 autonym: Yura
 alt_names: [Cuchi, Enete, Yourakareg, Yuracar, Yuracaré, Yuracaré language, Yurakare, Yurakaré, Yurucar, Yurujure, Юракаре]
 population: 1810

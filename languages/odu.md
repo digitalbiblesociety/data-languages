@@ -1,6 +1,8 @@
 ---
 iso: odu
 name: Odual
+name_zh: 奥杜阿尔语
+name_zh_auto: true
 autonym: Saka
 alt_names: [Odual language]
 population: 18000

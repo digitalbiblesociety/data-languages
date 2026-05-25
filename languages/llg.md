@@ -1,6 +1,8 @@
 ---
 iso: llg
 name: Lole
+name_zh: 洛莱语
+name_zh_auto: true
 autonym: Central Rote
 alt_names: ["Ba'a", Baä, Loleh, Rote, Rote Tengah, Roti, Rotinese]
 population: 20000

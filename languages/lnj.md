@@ -1,6 +1,8 @@
 ---
 iso: lnj
 name: Leningitij
+name_zh: 勒尼吉蒂语
+name_zh_auto: true
 autonym: Liningitij
 alt_names: [Adetingiti, Andyinit, Cabati, Ladamngid, Laini ngitti, Laini-ngitti, Latangeti, Latarngit, Leiningidi, Lenga leningitij, Leningit, Leningiti, Lenngeti, Lenngidgh, Linginiti, Lingitir, Linngidhigh, Linngithig, Linngithigh, Linngithigh language, Linngiti, Linŋit̯iγ, Ndraangit, Onnatangnit, Umngnity, Winda Winda, Winduwinda, not the same as Lengiti of Weipa]
 population: null

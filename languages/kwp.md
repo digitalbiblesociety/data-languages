@@ -1,6 +1,8 @@
 ---
 iso: kwp
 name: Kodia
+name_zh: 科迪亚语
+name_zh_auto: true
 autonym: Kodia
 alt_names: [Kwadia, Kwadya]
 population: 840

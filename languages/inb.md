@@ -1,6 +1,8 @@
 ---
 iso: inb
 name: Inga
+name_zh: 因加语
+name_zh_auto: true
 autonym: Ingano
 alt_names: [Colombia, Colombia Quechua, Highland Inga, Inga Kichwa, Inga-Kichwa, Ingo, Quichua inga]
 population: 22000

@@ -1,6 +1,8 @@
 ---
 iso: mzc
 name: Madagascar Sign Language
+name_zh: 马达加斯加手语
+name_zh_auto: true
 autonym: Norsk tegnspråk
 population: 135000
 country_id: MG

@@ -1,6 +1,8 @@
 ---
 iso: gou
 name: Gavar
+name_zh: 盖瓦尔语
+name_zh_auto: true
 autonym: Kortchi
 alt_names: [Gauar, Gawar, Gouwar, Ma-Gavar, Rtchi]
 population: 7000

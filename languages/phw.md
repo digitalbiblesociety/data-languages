@@ -1,6 +1,8 @@
 ---
 iso: phw
 name: Phangduwali
+name_zh: 法格度瓦利语
+name_zh_auto: true
 autonym: Phangduvali
 population: null
 country_id: NP

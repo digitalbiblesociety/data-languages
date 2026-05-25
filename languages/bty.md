@@ -1,6 +1,8 @@
 ---
 iso: bty
 name: Bobot
+name_zh: 博博特语
+name_zh_auto: true
 autonym: Ahtiago
 alt_names: [Atiahu, Hatumeten, Ntau, Werinama]
 population: 4500

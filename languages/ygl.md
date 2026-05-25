@@ -1,6 +1,8 @@
 ---
 iso: ygl
 name: Yangum Gel
+name_zh: 扬古姆-格尔语
+name_zh_auto: true
 autonym: Aiku
 population: null
 country_id: PG

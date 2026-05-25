@@ -1,6 +1,8 @@
 ---
 iso: oog
 name: Ong
+name_zh: 翁语
+name_zh_auto: true
 autonym: Ta Oi
 alt_names: [Hantong, "Hantong'", "Lower Ta'oih", Tong]
 population: 10300

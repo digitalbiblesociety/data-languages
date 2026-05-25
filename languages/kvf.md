@@ -1,6 +1,8 @@
 ---
 iso: kvf
 name: Kabalai
+name_zh: 卡巴莱语
+name_zh_auto: true
 autonym: Kaba Lai
 alt_names: [Gablai, Kaba-Lai, Kabalay, Kabalaye, Keb-Kaye, Lai, Lay]
 population: 17900

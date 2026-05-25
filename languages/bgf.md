@@ -1,6 +1,8 @@
 ---
 iso: bgf
 name: Bangandu
+name_zh: 邦甘杜语
+name_zh_auto: true
 autonym: Ngombe
 alt_names: [Bagando, Bangando, Bangantu, Southern Bangantu, Temne]
 population: 2700

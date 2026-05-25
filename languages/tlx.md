@@ -1,6 +1,8 @@
 ---
 iso: tlx
 name: Khehek
+name_zh: 克赫克语
+name_zh_auto: true
 autonym: "Levei-Ndrehet"
 alt_names: [Admiralitäts-inseln, Levei-Drehet]
 population: 1600

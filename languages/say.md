@@ -1,6 +1,8 @@
 ---
 iso: say
 name: Saya
+name_zh: 萨亚语
+name_zh_auto: true
 autonym: Guus
 alt_names: [Gambar Leere, Kal, Lusa, Sayanci, Sayara, Sayawa, Seiyara, Seiyawa, Seya, Seyawa, Vigzar, Vikzar, "Za:r", Zaar, vik-Zaar]
 population: 300000

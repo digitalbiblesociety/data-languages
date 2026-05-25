@@ -1,6 +1,8 @@
 ---
 iso: akd
 name: "Ukpet-Ehom"
+name_zh: 乌克佩特-埃霍姆语
+name_zh_auto: true
 autonym: "Ukpet-Ehom"
 alt_names: [Akpet-Ehom]
 population: 11400

@@ -1,6 +1,8 @@
 ---
 iso: ugn
 name: Ugandan Sign Language
+name_zh: 乌干达手语
+name_zh_auto: true
 autonym: USL
 population: 160000
 country_id: UG

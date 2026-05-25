@@ -1,6 +1,8 @@
 ---
 iso: ldp
 name: Tso
+name_zh: 佐语
+name_zh_auto: true
 autonym: nyi tsó
 alt_names: [Cibbo, Cuyi Tsó, Kitta, Lotsu-Piri, Pire, Piri, Tsóbó]
 population: 16000

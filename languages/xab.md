@@ -1,6 +1,8 @@
 ---
 iso: xab
 name: Sambe
+name_zh: 桑贝语
+name_zh_auto: true
 autonym: null
 population: null
 country_id: NG

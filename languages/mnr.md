@@ -1,6 +1,8 @@
 ---
 iso: mnr
 name: Mono (USA)
+name_zh: 莫诺语（美国）
+name_zh_auto: true
 autonym: Monachi
 alt_names: [Idioma mono, Monache, Mono, Mono (United States), Mono (in United States), Mono (occidental), Mono (oriental), Mono language, Monoeg, Saidyuka, لغة مونو]
 population: 103

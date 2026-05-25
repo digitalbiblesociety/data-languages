@@ -1,6 +1,8 @@
 ---
 iso: kcp
 name: Kanga
+name_zh: 康加语
+name_zh_auto: true
 autonym: null
 alt_names: [Abu Sinun, Canga, Chiroro-Kursi, Krongo Abdalla, Kufa, Kufa-Lima, Kufo]
 population: 8000

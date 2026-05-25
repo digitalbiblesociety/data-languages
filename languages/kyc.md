@@ -1,6 +1,8 @@
 ---
 iso: kyc
 name: Kyaka
+name_zh: 基亚卡语
+name_zh_auto: true
 autonym: null
 alt_names: [Baiyer, Enga, Enga (Kyaka), Enga-Kyaka, Kyaka Enga]
 population: 12000

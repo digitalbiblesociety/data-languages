@@ -1,6 +1,8 @@
 ---
 iso: kng
 name: Koongo
+name_zh: 孔戈语
+name_zh_auto: true
 autonym: Kikongo
 alt_names: [Cabinda, Congo, Fiote, Kikoongo, Kongo, South-Central Kikongo, West Kongo]
 population: 6236500

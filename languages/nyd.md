@@ -1,6 +1,8 @@
 ---
 iso: nyd
 name: Nyore
+name_zh: 尼奥雷语
+name_zh_auto: true
 autonym: Olunyole
 alt_names: [Lunyole, Lunyore, Nyole, Nyoole, Olunyore]
 population: 155000

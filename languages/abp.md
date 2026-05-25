@@ -1,6 +1,8 @@
 ---
 iso: abp
 name: Abellen Ayta
+name_zh: 阿贝伦艾塔语
+name_zh_auto: true
 autonym: Ayta Abellen
 alt_names: [Abellen language, Abenlen, Aburlin Negrito, Ayta Abenlen Sambal, "Ayta, Abellen", "Ayta, Abenlen", Sambal, ภาษาอาเบลเลน]
 population: 3000

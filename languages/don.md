@@ -1,6 +1,8 @@
 ---
 iso: don
 name: Toura (Papua New Guinea)
+name_zh: 图拉语
+name_zh_auto: true
 autonym: Doura
 alt_names: [Toura]
 population: 1800

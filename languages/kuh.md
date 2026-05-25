@@ -1,6 +1,8 @@
 ---
 iso: kuh
 name: Kushi
+name_zh: 库希语
+name_zh_auto: true
 autonym: " Chong'e"
 alt_names: [Chonge, Chongee, Filiya, Goji, Kushe, Pero, Pipero]
 population: 11000

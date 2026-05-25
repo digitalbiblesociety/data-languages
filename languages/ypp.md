@@ -1,6 +1,8 @@
 ---
 iso: ypp
 name: Phupa
+name_zh: 普帕语
+name_zh_auto: true
 autonym: Phuza
 population: 3000
 country_id: CN

@@ -1,6 +1,8 @@
 ---
 iso: bdl
 name: Indonesian Bajau
+name_zh: 印度尼西亚巴绍语
+name_zh_auto: true
 autonym: Bajo
 alt_names: [Badjaw, Badjo, Bajao, Bajau, Bajau (Indonesian), "Bajau, Indonesian", Bayo, Gaj, Luaan, Lutaos, Lutayaos, Orang Laut, Sama, Sama Bajau, "Turije'ne'"]
 population: 10000

@@ -1,6 +1,8 @@
 ---
 iso: emn
 name: Eman
+name_zh: 埃曼语
+name_zh_auto: true
 autonym: Emane
 alt_names: [Emán]
 population: 800

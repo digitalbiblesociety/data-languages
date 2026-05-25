@@ -1,6 +1,8 @@
 ---
 iso: xpz
 name: "Bruny Island Tasmanian\r"
+name_zh: 布鲁尼岛塔斯马尼亚语
+name_zh_auto: true
 autonym: Nuenonne
 alt_names: [Bruny Island Tasmanian, "Tasmanian, Bruny Island"]
 population: null

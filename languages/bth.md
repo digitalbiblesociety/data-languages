@@ -1,6 +1,8 @@
 ---
 iso: bth
 name: Biatah Bidayuh
+name_zh: 比亚他比达尤语
+name_zh_auto: true
 autonym: Bikuab
 alt_names: [Biatah, "Bidayuh, Biatah", Kuap, Quop, Sentah]
 population: 72380

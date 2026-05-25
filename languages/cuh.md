@@ -1,6 +1,8 @@
 ---
 iso: cuh
 name: Chuka
+name_zh: 朱卡语
+name_zh_auto: true
 autonym: Kimîîru
 alt_names: [Chuku, Gichuka, Suka]
 population: 70000

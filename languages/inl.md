@@ -1,6 +1,8 @@
 ---
 iso: inl
 name: Indonesian Sign Language
+name_zh: 印度尼西亚手语
+name_zh_auto: true
 autonym: Bahasa Isyarat Indonesia
 alt_names: [Jakarta Sign Language, Língua de Sinais Indonésia]
 population: 810000

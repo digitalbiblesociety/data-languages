@@ -1,6 +1,8 @@
 ---
 iso: sdf
 name: Sarli
+name_zh: 萨尔利语
+name_zh_auto: true
 autonym: گۆرانی
 population: 20000
 country_id: IQ

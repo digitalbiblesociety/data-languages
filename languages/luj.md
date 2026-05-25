@@ -1,6 +1,8 @@
 ---
 iso: luj
 name: Luna
+name_zh: 卢纳语
+name_zh_auto: true
 autonym: Northern Luba
 alt_names: [Inkongo, Kuba]
 population: 50000

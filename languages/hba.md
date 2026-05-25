@@ -1,6 +1,8 @@
 ---
 iso: hba
 name: Hamba
+name_zh: 汉巴语
+name_zh_auto: true
 autonym: Ɔtɛtɛla
 alt_names: [Democratic Republic of the Congo]
 population: 13000

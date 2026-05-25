@@ -1,6 +1,8 @@
 ---
 iso: bqu
 name: Boguru
+name_zh: 博古鲁语
+name_zh_auto: true
 autonym: Boguru
 alt_names: [Buguru, Kogoro, Koguru]
 population: 490

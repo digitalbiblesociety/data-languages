@@ -1,6 +1,8 @@
 ---
 iso: xtm
 name: Magdalena Peñasco Mixtec
+name_zh: 马格达莱纳-佩纳斯科-米斯特克语
+name_zh_auto: true
 autonym: (Santa María Magdalena Peñasco)
 alt_names: [Atatláhuca Mixtec, Central Misteko, Centreal Mixteco, Chalcatongo Mixtec, Eastern Putla Mixtec, Itundujia Mixtec, Magdalena Penasco Mixtec, "Mixtec, Magdalena Peñasco", Mixteco de San Antonio Sinicahua, Mixteco de San Bartolomé Yucuañe, Mixteco de San Esteban Atatláhuca, Mixteco de San Juan Teita, Mixteco de San Juan Ñumí, Mixteco de San Pablo Tijaltepec, Mixteco de San Pedro Molinos, Mixteco de Santa Cruz Itundujia, Mixteco de Santa Cruz Tacahua, Mixteco de Santa Lucía Monteverde, Mixteco de Santa María Yosoyúa, Mixteco de Santiago Nuyoo, Mixteco de Santiago Yosondúa, Mixteco de Santo Tomás Ocotepec, Mixteco de Sierra Sur Noroeste, Mixteco de Yosonotú, Mixteco del Sur Bajo, Mixteco del norte de Tlaxiaco, Mixteco del sur medio, Mixteco del sureste central, Mixteco del suroeste de Tlaxiaco, Northern Tlaxiaco Mixtec, Nuyoo Mixtec, Ocotepec Mixtec, San Esteban Atatláhuca Mixteco, San Juan Teita Mixtec, San Miguel el Grande Mixtec, Santa Lucía Monteverde Mixtec, Santo Tomás Ocotepec Mixtec, Sinicahua Mixtec, South Central Tlaxiaco Mixtec, Southeastern Ocotepec Mixtec, Southern Tlaxiaco Mixtec, Southwestern Tlaxiaco Mixtec, Tacahua Mixtec, Teita Mixtec, Tijaltepec Mixtec, Western Alta Mixtec, Yosondúa Mixtec, Yucuañe Mixtec, Ñumí Mixtec]
 population: 7350

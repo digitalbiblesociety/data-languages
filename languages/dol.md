@@ -1,6 +1,8 @@
 ---
 iso: dol
 name: Doso
+name_zh: 多索语
+name_zh_auto: true
 autonym: null
 population: 700
 country_id: PG

@@ -1,6 +1,8 @@
 ---
 iso: ese
 name: Ese Ejja
+name_zh: 埃塞埃哈语
+name_zh_auto: true
 autonym: Tiatinagua
 alt_names: ["\"Chama\"", Chama, Chama (Tiatinagua), Chuncho, Ese Eja, Ese Exa, "Ese'eha", "Ese'ejja", "Ese'jja", Ese-ejja, Eseejja, Eseʔexa, Essejja, Guacanawa, Huarayo, Tambopata-Guarayo, "“Chama\""]
 population: 1110

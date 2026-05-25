@@ -1,6 +1,8 @@
 ---
 iso: air
 name: Airoran
+name_zh: 艾罗兰语
+name_zh_auto: true
 autonym: Adora
 alt_names: [Aeroran, Iriemkena, Język airoran, Lenga Airoran, Lingua airoran]
 population: 1000

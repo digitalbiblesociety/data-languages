@@ -1,6 +1,8 @@
 ---
 iso: tgo
 name: Sudest
+name_zh: 苏德斯特语
+name_zh_auto: true
 autonym: Tagula
 alt_names: [Sud-Est, "Sud-Est, Tagula", Vanatina, Vanga]
 population: 2000

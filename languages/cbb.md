@@ -1,6 +1,8 @@
 ---
 iso: cbb
 name: Cabiyarí
+name_zh: 卡比亚里语
+name_zh_auto: true
 autonym: Kawillari
 alt_names: [Cabiuarí, Cabiyari, Cabiyari language, Caryari, Cauyari, Cauyarí, Caviyari, Caviyarí, Cuyare, Kabiyari, Kabiyarí, Kauyarí, Kaviyarí, Kawillary]
 population: 310

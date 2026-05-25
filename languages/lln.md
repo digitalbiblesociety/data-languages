@@ -1,6 +1,8 @@
 ---
 iso: lln
 name: Lele (Chad)
+name_zh: 勒勒语
+name_zh_auto: true
 autonym: null
 alt_names: [Chad, Lele]
 population: 26000

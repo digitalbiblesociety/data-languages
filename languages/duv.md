@@ -1,6 +1,8 @@
 ---
 iso: duv
 name: Duvle
+name_zh: 杜夫勒语
+name_zh_auto: true
 autonym: Duvde
 alt_names: [Duve, Duvele, Duvre, Wiri]
 population: 930

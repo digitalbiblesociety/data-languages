@@ -1,6 +1,8 @@
 ---
 iso: mxw
 name: Namo
+name_zh: 纳莫语
+name_zh_auto: true
 autonym: Dorro
 alt_names: [Dorro (formerly), Mari, Na]
 population: 380

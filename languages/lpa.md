@@ -1,6 +1,8 @@
 ---
 iso: lpa
 name: Lelepa
+name_zh: 勒勒帕语
+name_zh_auto: true
 autonym: Havannah Harbour
 population: 400
 country_id: VU

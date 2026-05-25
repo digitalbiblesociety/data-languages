@@ -1,6 +1,8 @@
 ---
 iso: paz
 name: Pankararú
+name_zh: 潘卡拉鲁语
+name_zh_auto: true
 autonym: Pankararé
 alt_names: [Brancararu, Brancararú, Pancararu, Pancararú, Pancaru, Pancarurú, Pancaré, Pankararu, Pankarará, Pankaravu, Pankaroru, Pankarú]
 population: null

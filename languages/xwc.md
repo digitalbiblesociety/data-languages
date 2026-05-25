@@ -1,6 +1,8 @@
 ---
 iso: xwc
 name: Woccon
+name_zh: 沃克康语
+name_zh_auto: true
 autonym: null
 alt_names: [Waccon, Wacon]
 population: null

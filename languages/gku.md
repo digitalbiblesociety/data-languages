@@ -1,6 +1,8 @@
 ---
 iso: gku
 name: ǂUngkue
+name_zh: 克恩语
+name_zh_auto: true
 autonym: null
 population: null
 country_id: ZA

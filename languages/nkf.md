@@ -1,6 +1,8 @@
 ---
 iso: nkf
 name: Inpui Naga
+name_zh: 因普依纳加语
+name_zh_auto: true
 autonym: Kabui
 alt_names: ["Naga, Inpui", Puiron]
 population: 54200

@@ -1,6 +1,8 @@
 ---
 iso: tmi
 name: Tutuba
+name_zh: 图图巴语
+name_zh_auto: true
 autonym: null
 population: 500
 country_id: VU

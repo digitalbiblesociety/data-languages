@@ -1,6 +1,8 @@
 ---
 iso: ghh
 name: Northern Ghale
+name_zh: 北加莱语
+name_zh_auto: true
 autonym: Lila
 alt_names: [Ghale, "Ghale, Northern", "Ghale,Northern"]
 population: 4440

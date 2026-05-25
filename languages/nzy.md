@@ -1,6 +1,8 @@
 ---
 iso: nzy
 name: Nzakambay
+name_zh: 恩扎坎巴伊语
+name_zh_auto: true
 autonym: Mbum
 alt_names: [Mbay, Mboum, Mbum Nzakambay, Njakambai, Nzak Mbai, Nzak Mbay, Nzaka Mbay, Nzakmbay]
 population: 18500

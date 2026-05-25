@@ -1,6 +1,8 @@
 ---
 iso: gef
 name: "Gerai\r"
+name_zh: 格莱语
+name_zh_auto: true
 autonym: bahasa Gerai
 alt_names: [Gerai]
 population: 2000

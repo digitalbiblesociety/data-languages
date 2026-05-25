@@ -1,6 +1,8 @@
 ---
 iso: tdl
 name: Sur
+name_zh: 苏尔语
+name_zh_auto: true
 autonym: Tapshin
 alt_names: [Dishili, Myet, Nsur, Suru, Tapshinawa]
 population: 5000

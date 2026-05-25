@@ -1,6 +1,8 @@
 ---
 iso: ino
 name: "Inoke-Yate"
+name_zh: 伊诺克-亚特语
+name_zh_auto: true
 autonym: Yate
 alt_names: [Inoke, Yate Proper, Yatê]
 population: 10000

@@ -1,6 +1,8 @@
 ---
 iso: klk
 name: Kono (Nigeria)
+name_zh: 科诺语
+name_zh_auto: true
 autonym: Konu
 alt_names: [Kono, Kowono, Kwono]
 population: 5520

@@ -1,6 +1,8 @@
 ---
 iso: kfh
 name: Kurichiya
+name_zh: 库里奇亚语
+name_zh_auto: true
 autonym: Kowohans
 alt_names: [Kurichchia, Kurichia, Kurichiyars, Kuruchans]
 population: 29400

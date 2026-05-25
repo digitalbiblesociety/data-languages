@@ -1,6 +1,8 @@
 ---
 iso: apq
 name: "A-Pucikwar"
+name_zh: 阿-普奇卡尔语
+name_zh_auto: true
 autonym: "A-Pucikwar"
 alt_names: [Aka-Bojígíab, Andamanese, Andamanese (Great Andaman), Andamanese (Great), Bahasa A-Pucikwar, Bogijiab, Godka a-pucikwar, Great Andaman dialect, Great Andamanese, Idioma pucikwar, Język a-pucikwar, Lingua a-pucikwar, Puchikwar, Pucikwar]
 population: null

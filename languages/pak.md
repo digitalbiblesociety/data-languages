@@ -1,6 +1,8 @@
 ---
 iso: pak
 name: Parakanã
+name_zh: 帕拉卡纳语
+name_zh_auto: true
 autonym: Awaeté
 alt_names: [Akuawa, Akwawa, Apiteréwa, Asurí, Mudjetire, Paracana, Paracanã, Parakana, Parakaná, Parakanân, Parocana, Suru do Tocantins]
 population: 900

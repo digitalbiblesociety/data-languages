@@ -1,6 +1,8 @@
 ---
 iso: gnb
 name: Gangte
+name_zh: 冈特语
+name_zh_auto: true
 autonym: Gante
 population: 15500
 country_id: IN

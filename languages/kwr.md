@@ -1,6 +1,8 @@
 ---
 iso: kwr
 name: Kwer
+name_zh: 克韦尔语
+name_zh_auto: true
 autonym: bahasa Kwer
 alt_names: [Indonesia]
 population: 100

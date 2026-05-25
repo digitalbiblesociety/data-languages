@@ -1,6 +1,8 @@
 ---
 iso: shc
 name: Sonde
+name_zh: 松德语
+name_zh_auto: true
 autonym: Kisoonde
 alt_names: [Kisonde, Soonde]
 population: 96000

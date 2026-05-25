@@ -1,6 +1,8 @@
 ---
 iso: pnv
 name: Pinigura
+name_zh: 皮尼古拉语
+name_zh_auto: true
 autonym: Binigura
 alt_names: [Biniguru, Binnigoora, Binnigora, Binniguru, Pinikura, Pinikurra, Pinneegoora]
 population: null

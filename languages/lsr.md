@@ -1,6 +1,8 @@
 ---
 iso: lsr
 name: Aruop
+name_zh: 阿鲁欧普语
+name_zh_auto: true
 autonym: Srenge
 alt_names: [Alatil, "Lau'u", Lauisaranga, Lausurankin, Lawu Srenge]
 population: 700

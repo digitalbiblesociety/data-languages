@@ -1,6 +1,8 @@
 ---
 iso: kkc
 name: Odoodee
+name_zh: 奥多迪语
+name_zh_auto: true
 autonym: Nomad
 alt_names: [Kalamo, Ododei, Tomu, Tomu River]
 population: 430

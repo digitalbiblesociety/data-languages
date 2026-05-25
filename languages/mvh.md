@@ -1,6 +1,8 @@
 ---
 iso: mvh
 name: Mulgi
+name_zh: 穆尔吉语
+name_zh_auto: true
 autonym: Mulgi
 alt_names: [Chad, Mire, Mire language]
 population: 1400

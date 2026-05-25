@@ -1,6 +1,8 @@
 ---
 iso: tve
 name: "Te'un"
+name_zh: 特温语
+name_zh_auto: true
 autonym: Te’un
 alt_names: ["Te'un (île de Seram)", "Te'un (île de Te'un)", "Teun (isla Te'un)"]
 population: 1200

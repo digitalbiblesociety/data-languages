@@ -1,6 +1,8 @@
 ---
 iso: gid
 name: Gidar
+name_zh: 吉达尔语
+name_zh_auto: true
 autonym: Kaɗa
 alt_names: [Baynawa, Gidder, Guidar, Guider, Kada]
 population: 65700

@@ -1,6 +1,8 @@
 ---
 iso: pcl
 name: Pardhi
+name_zh: 帕尔迪语
+name_zh_auto: true
 autonym: Bahelia
 alt_names: [Chita Pardhi, Lango Pardhi, Paidia, Paradi, Paria, Phans Pardhi, Takankar, Takia]
 population: 69100

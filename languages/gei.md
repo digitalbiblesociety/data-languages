@@ -1,6 +1,8 @@
 ---
 iso: gei
 name: Gebe
+name_zh: 格贝语
+name_zh_auto: true
 autonym: Minyaifuin
 alt_names: [Gebi]
 population: 2650

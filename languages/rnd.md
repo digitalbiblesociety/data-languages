@@ -1,6 +1,8 @@
 ---
 iso: rnd
 name: Ruund
+name_zh: 鲁翁德语
+name_zh_auto: true
 autonym: Chiluwunda
 alt_names: [Chilu Wunda, Lunda Kambove, Lunda-Kamboro, Luunda, Luwunda, Muatiamvua, Northern Lunda, Uruund]
 population: 251500

@@ -1,6 +1,8 @@
 ---
 iso: mjs
 name: Miship
+name_zh: 米希普语
+name_zh_auto: true
 autonym: Chip
 alt_names: [Cip, Ship]
 population: 6000

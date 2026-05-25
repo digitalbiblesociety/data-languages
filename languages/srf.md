@@ -1,6 +1,8 @@
 ---
 iso: srf
 name: Nafi
+name_zh: 纳菲语
+name_zh_auto: true
 autonym: Sirak
 population: 160
 country_id: PG

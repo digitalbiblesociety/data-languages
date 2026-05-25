@@ -1,6 +1,8 @@
 ---
 iso: pnr
 name: Panim
+name_zh: 帕尼姆语
+name_zh_auto: true
 autonym: null
 population: 420
 country_id: PG

@@ -1,6 +1,8 @@
 ---
 iso: obk
 name: Southern Bontok
+name_zh: 南博托克语
+name_zh_auto: true
 autonym: Finallig
 alt_names: ["Bontok, Southern"]
 population: null

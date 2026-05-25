@@ -1,6 +1,8 @@
 ---
 iso: bdn
 name: Baldemu
+name_zh: 巴尔德姆语
+name_zh_auto: true
 autonym: Mbazlam
 alt_names: [Balda, Baldamou, Baldamu, Baldare, Baldemu jezik, Mbazla]
 population: 4

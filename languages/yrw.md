@@ -1,6 +1,8 @@
 ---
 iso: yrw
 name: Yarawata
+name_zh: 亚拉瓦塔语
+name_zh_auto: true
 autonym: null
 population: 130
 country_id: PG

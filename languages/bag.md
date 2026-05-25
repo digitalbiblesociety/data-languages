@@ -1,6 +1,8 @@
 ---
 iso: bag
 name: Tuki
+name_zh: 图基语
+name_zh_auto: true
 autonym: Tuki
 alt_names: [Bacenga, Baki, Batchenga, Betsinga, Betzinga, Ki, Oki, Osa Nanga, Sanaga]
 population: 26000

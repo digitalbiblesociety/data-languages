@@ -1,6 +1,8 @@
 ---
 iso: khx
 name: Kanu
+name_zh: 卡努语
+name_zh_auto: true
 autonym: Kaanu
 alt_names: [Kano, Likanu]
 population: 3500

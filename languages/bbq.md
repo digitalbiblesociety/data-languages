@@ -1,6 +1,8 @@
 ---
 iso: bbq
 name: Bamali
+name_zh: 巴马利语
+name_zh_auto: true
 autonym: Chopechop
 alt_names: [Babatana, "Choiseul, Central-Eastern", Ngoobechop, Sisiqa]
 population: 10800

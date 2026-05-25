@@ -1,6 +1,8 @@
 ---
 iso: ruf
 name: Luguru
+name_zh: 卢古鲁语
+name_zh_auto: true
 autonym: Ikiruguru
 alt_names: [Guru, Kiluguru, Kiruguru, Lugulu, Ruguru]
 population: 404000

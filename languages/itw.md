@@ -1,6 +1,8 @@
 ---
 iso: itw
 name: Ito
+name_zh: 伊托语
+name_zh_auto: true
 autonym: null
 alt_names: [Nigeria]
 population: 5000

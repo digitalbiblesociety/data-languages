@@ -1,6 +1,8 @@
 ---
 iso: ksy
 name: Kharia Thar
+name_zh: 哈里亚塔尔语
+name_zh_auto: true
 autonym: null
 alt_names: [India]
 population: 25000

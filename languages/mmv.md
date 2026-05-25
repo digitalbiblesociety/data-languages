@@ -1,6 +1,8 @@
 ---
 iso: mmv
 name: Miriti
+name_zh: 米里蒂语
+name_zh_auto: true
 autonym: Neenoá
 alt_names: [Miriti-Tapuyo, Mirití]
 population: null

@@ -1,6 +1,8 @@
 ---
 iso: aon
 name: Bumbita Arapesh
+name_zh: 邦比塔阿拉佩什语
+name_zh_auto: true
 autonym: Arapesh
 alt_names: ["Arapesh, Bumbita", Arapeso bumbita, Bambita Arapesh, Bumbita, But Arapesh, Weri]
 population: 4340

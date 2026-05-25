@@ -1,6 +1,8 @@
 ---
 iso: tsw
 name: Tsishingini
+name_zh: 茨沙欣基尼语
+name_zh_auto: true
 autonym: null
 alt_names: [Ashingini, Kambari, Kamberchi, Kamberri, Salka]
 population: 100000

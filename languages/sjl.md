@@ -1,6 +1,8 @@
 ---
 iso: sjl
 name: Sajalong
+name_zh: 萨亚隆语
+name_zh_auto: true
 autonym: Dhammai
 alt_names: [Dammai, Hruso A, Miji]
 population: 6500

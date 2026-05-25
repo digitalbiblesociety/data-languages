@@ -1,6 +1,8 @@
 ---
 iso: tgi
 name: Lawunuia
+name_zh: 劳武努伊亚语
+name_zh_auto: true
 autonym: Piva
 alt_names: [Nagarege, Nagarige, Naghareghe]
 population: 550

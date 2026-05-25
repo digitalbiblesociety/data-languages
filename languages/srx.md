@@ -1,6 +1,8 @@
 ---
 iso: srx
 name: Sirmauri
+name_zh: 希尔毛里语
+name_zh_auto: true
 autonym: Himachali
 alt_names: [Sirmouri, Sirmuri]
 population: 400000

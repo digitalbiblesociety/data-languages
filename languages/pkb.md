@@ -1,6 +1,8 @@
 ---
 iso: pkb
 name: Pokomo
+name_zh: 波科莫语
+name_zh_auto: true
 autonym: Kipfokomo
 alt_names: [Kipokomo, Lower Pokomo, Malachini, Pfokomo, "Pokomo, Upper", Upper Pokomo]
 population: 112000

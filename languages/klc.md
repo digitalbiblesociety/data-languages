@@ -1,6 +1,8 @@
 ---
 iso: klc
 name: Kolbila
+name_zh: 科尔比拉语
+name_zh_auto: true
 autonym: Kolbilari
 alt_names: [Kolbili, Kolbilla, Kolena, Zoono]
 population: 2500

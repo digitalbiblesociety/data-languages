@@ -1,6 +1,8 @@
 ---
 iso: xmc
 name: "Makhuwa-Marrevone"
+name_zh: 马库瓦-马雷沃内语
+name_zh_auto: true
 autonym: Emakuana
 alt_names: [Coastal Makhuwa, Emaka, Maca, Maka, Marevone, Marrevone, South Maca]
 population: 438000

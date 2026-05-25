@@ -1,6 +1,8 @@
 ---
 iso: aos
 name: Taikat
+name_zh: 塔伊卡特语
+name_zh_auto: true
 autonym: Arso
 alt_names: [Abrap, Marap, Taigat, Tajkat]
 population: 500

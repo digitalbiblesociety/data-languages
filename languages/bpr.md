@@ -1,6 +1,8 @@
 ---
 iso: bpr
 name: Blaan
+name_zh: 布兰语
+name_zh_auto: true
 autonym: Bilaan
 alt_names: [Baraan, Bilanes, Biraan, "Blaan, Koronadal", Koronadal Bilaan, Koronadal Blaan, Tagalagad]
 population: 150000

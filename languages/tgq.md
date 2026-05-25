@@ -1,6 +1,8 @@
 ---
 iso: tgq
 name: Tring
+name_zh: 特林语
+name_zh_auto: true
 autonym: null
 alt_names: [Malaysia]
 population: 550

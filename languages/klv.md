@@ -1,6 +1,8 @@
 ---
 iso: klv
 name: Maskelynes
+name_zh: 马斯克莱尼斯语
+name_zh_auto: true
 autonym: " Uliveo"
 alt_names: [Kuliviu, Mallicolo, Maskelyne Islands]
 population: 1350

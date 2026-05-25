@@ -1,6 +1,8 @@
 ---
 iso: bco
 name: Kaluli
+name_zh: 卡卢利语
+name_zh_auto: true
 autonym: Bosavi
 population: 3100
 country_id: PG

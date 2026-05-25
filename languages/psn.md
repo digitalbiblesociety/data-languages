@@ -1,6 +1,8 @@
 ---
 iso: psn
 name: Panasuan
+name_zh: 潘苏安语
+name_zh_auto: true
 autonym: To Panasean
 alt_names: [To Pamosean]
 population: 800

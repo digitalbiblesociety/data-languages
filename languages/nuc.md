@@ -1,6 +1,8 @@
 ---
 iso: nuc
 name: Nukuini
+name_zh: 努库伊尼语
+name_zh_auto: true
 autonym: Nukuini
 alt_names: [Inukuini, Nucuini, Nukini, Nuquini]
 population: 2007

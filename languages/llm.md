@@ -1,6 +1,8 @@
 ---
 iso: llm
 name: Lasalimu
+name_zh: 拉萨利穆语
+name_zh_auto: true
 autonym: null
 alt_names: [Indonesia]
 population: 1700

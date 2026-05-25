@@ -1,6 +1,8 @@
 ---
 iso: nbn
 name: Kuri
+name_zh: 库里语
+name_zh_auto: true
 autonym: Nabi
 alt_names: [Modan]
 population: 500

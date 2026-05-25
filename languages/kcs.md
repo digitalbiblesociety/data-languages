@@ -1,6 +1,8 @@
 ---
 iso: kcs
 name: Koenoem
+name_zh: 克尼姆语
+name_zh_auto: true
 autonym: Kanam
 alt_names: [Korenoem]
 population: 3000

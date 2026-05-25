@@ -1,6 +1,8 @@
 ---
 iso: tul
 name: Tula
+name_zh: 图拉语
+name_zh_auto: true
 autonym: Kotule
 alt_names: [Kutule]
 population: 50000

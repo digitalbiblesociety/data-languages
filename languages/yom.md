@@ -1,6 +1,8 @@
 ---
 iso: yom
 name: Yombe
+name_zh: 扬贝语
+name_zh_auto: true
 autonym: Kikongo
 alt_names: [Bayombe, Iombe, Kiombi, Kiyombe]
 population: 734400

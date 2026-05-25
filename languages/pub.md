@@ -1,6 +1,8 @@
 ---
 iso: pub
 name: Purum
+name_zh: 普鲁姆语
+name_zh_auto: true
 autonym: Puram
 population: 300
 country_id: IN

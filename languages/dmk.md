@@ -1,6 +1,8 @@
 ---
 iso: dmk
 name: Domaaki
+name_zh: 多玛基语
+name_zh_auto: true
 autonym: Doma
 alt_names: ["\"Doma\"", Dardu, Dawudi, Domakí, Dumaki, Dumākī, Shina, ภาษาโดมาอากี]
 population: 500

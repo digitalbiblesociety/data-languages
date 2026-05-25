@@ -1,6 +1,8 @@
 ---
 iso: fue
 name: Borgu Fulfulde
+name_zh: 博尔古富尔富尔德语
+name_zh_auto: true
 autonym: Fulani
 alt_names: [Benin-Togo Fulfulde, Fulah-Idiome, Fulbe-Borgu, "Fulfulde, Borgu", Peul, Peulh]
 population: 730000

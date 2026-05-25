@@ -1,6 +1,8 @@
 ---
 iso: ney
 name: Neyo
+name_zh: 内约语
+name_zh_auto: true
 autonym: Gwibwen
 alt_names: [Towi]
 population: 9200

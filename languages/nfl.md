@@ -1,6 +1,8 @@
 ---
 iso: nfl
 name: Ayiwo
+name_zh: 艾约语
+name_zh_auto: true
 autonym: Reef
 alt_names: [Aiwo, Aïwo, Gnivo, Lomlom, Naaude, Nifilole, Nivo, Reef Islands, Reef Islands-Santa Cruz Sub-Family, Reefs, Äiwo, Äiwoo, Äiwoo language]
 population: 8400

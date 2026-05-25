@@ -1,6 +1,8 @@
 ---
 iso: kte
 name: Nubri
+name_zh: 努布里语
+name_zh_auto: true
 autonym: Kutang Bhotia
 alt_names: [Larkye]
 population: 2000

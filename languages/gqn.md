@@ -1,6 +1,8 @@
 ---
 iso: gqn
 name: Guana (Brazil)
+name_zh: 瓜纳语(巴西)
+name_zh_auto: true
 autonym: Chana
 population: null
 country_id: BR

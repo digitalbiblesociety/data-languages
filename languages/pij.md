@@ -1,6 +1,8 @@
 ---
 iso: pij
 name: Pijao
+name_zh: 皮霍语
+name_zh_auto: true
 autonym: Piajao
 population: null
 country_id: CO

@@ -1,6 +1,8 @@
 ---
 iso: tgc
 name: Tigak
+name_zh: 蒂加克语
+name_zh_auto: true
 autonym: Omo
 alt_names: [Neu-Mecklenburg]
 population: 6000

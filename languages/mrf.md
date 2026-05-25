@@ -1,6 +1,8 @@
 ---
 iso: mrf
 name: Elseng
+name_zh: 埃尔森语
+name_zh_auto: true
 autonym: Morwap
 alt_names: ["\"Morwap\"", Djanggu, Janggu, Lenga Elseng, Malluo, Maluak, Sawa, Tabu]
 population: 300

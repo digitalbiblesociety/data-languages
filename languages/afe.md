@@ -1,6 +1,8 @@
 ---
 iso: afe
 name: Putukwam
+name_zh: 普图科姆语
+name_zh_auto: true
 autonym: Ebe Cluster
 alt_names: [Mbe Afal, Mbube Eastern, Utugwang]
 population: 12000

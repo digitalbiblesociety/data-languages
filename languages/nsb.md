@@ -1,6 +1,8 @@
 ---
 iso: nsb
 name: "Lower Nossob\r"
+name_zh: 下诺索布语
+name_zh_auto: true
 autonym: null
 alt_names: [Lower Nossob]
 population: null

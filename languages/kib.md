@@ -1,6 +1,8 @@
 ---
 iso: kib
 name: Koalib
+name_zh: 科阿利布语
+name_zh_auto: true
 autonym: Rere
 alt_names: [Abri, Kawalib, Kowalib, Lgalige, Ngirere, Nirere]
 population: 100000

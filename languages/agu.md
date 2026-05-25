@@ -1,6 +1,8 @@
 ---
 iso: agu
 name: Aguacateco
+name_zh: 阿瓜卡特克语
+name_zh_auto: true
 autonym: "Qa'yol"
 alt_names: [Aguacatec, Aguacateeks, Aguacatekisk, Aguatec Maya, Aguateca, Awakatek, Awakatek language, Awakateko, Idioma aguacateco, Lingua aguacateca, Língua aguacateca, Авакатечки јазик]
 population: 12500

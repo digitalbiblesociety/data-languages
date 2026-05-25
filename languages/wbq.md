@@ -1,6 +1,8 @@
 ---
 iso: wbq
 name: Waddar
+name_zh: 瓦达尔语
+name_zh_auto: true
 autonym: Od
 alt_names: [Orh, Vadari, Vadda Beldar, Werders, Wodde]
 population: 198000

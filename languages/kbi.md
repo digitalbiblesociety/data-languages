@@ -1,6 +1,8 @@
 ---
 iso: kbi
 name: Kaptiau
+name_zh: 卡普蒂奥语
+name_zh_auto: true
 autonym: Kapitiauw
 alt_names: [Kaptiauw]
 population: 230

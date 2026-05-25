@@ -1,6 +1,8 @@
 ---
 iso: zyp
 name: Zyphe Chin
+name_zh: 齐菲钦语
+name_zh_auto: true
 autonym: "Chin, Zyphe"
 alt_names: ["Zac'hringeg", Zophei, Zoptei, Zyphe, Zyphe language]
 population: 20000

@@ -1,6 +1,8 @@
 ---
 iso: dws
 name: Dutton World Speedwords
+name_zh: 达顿世界速言语
+name_zh_auto: true
 autonym: Dutton Motez
 population: null
 country_id: GB

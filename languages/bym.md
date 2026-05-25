@@ -1,6 +1,8 @@
 ---
 iso: bym
 name: Bidjara
+name_zh: 比吉亚拉语
+name_zh_auto: true
 autonym: Southern Maric
 alt_names: [Bidjara / Bidyara, Bidjera, Bidyara, Bithara, Bitharra, Bitjara, Minkabari, Peachera, Peechera, Pitjara, Pitteroo, Wilya]
 population: null

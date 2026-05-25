@@ -1,6 +1,8 @@
 ---
 iso: tpq
 name: Tukpa
+name_zh: 图克帕语
+name_zh_auto: true
 autonym: Nesang
 population: 610
 country_id: IN

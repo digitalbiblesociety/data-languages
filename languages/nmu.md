@@ -1,6 +1,8 @@
 ---
 iso: nmu
 name: Northeast Maidu
+name_zh: 东北美都语
+name_zh_auto: true
 autonym: Májdy
 alt_names: [Maidu, Maidu (Mountain), Maidu (Moutain), Maidu (Northeast), Maidu language, "Maidu, Northeast", Maidú nororiental, Mountain Maidu, N.E. Maidu, NE Maidu, Northeastern Maidu]
 population: 110

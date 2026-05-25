@@ -1,6 +1,8 @@
 ---
 iso: xkp
 name: Kabatei
+name_zh: 卡巴特伊语
+name_zh_auto: true
 autonym: Tâti تاتی زبون
 alt_names: [Iran]
 population: null

@@ -1,6 +1,8 @@
 ---
 iso: ggt
 name: Gitua
+name_zh: 吉图亚语
+name_zh_auto: true
 autonym: Gitoa
 alt_names: [Kelana]
 population: 1085

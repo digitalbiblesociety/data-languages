@@ -1,6 +1,8 @@
 ---
 iso: mow
 name: Moi (Congo)
+name_zh: 莫伊语（刚果）
+name_zh_auto: true
 autonym: Bobangi
 alt_names: [Lemoi, Moi]
 population: 3020

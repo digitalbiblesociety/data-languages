@@ -1,6 +1,8 @@
 ---
 iso: gft
 name: Gafat
+name_zh: 加法特语
+name_zh_auto: true
 autonym: null
 alt_names: [Gafat jezik, Gafateg, Język gafat]
 population: null

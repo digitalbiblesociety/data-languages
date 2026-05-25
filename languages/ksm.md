@@ -1,6 +1,8 @@
 ---
 iso: ksm
 name: Kumba
+name_zh: 库姆巴语
+name_zh_auto: true
 autonym: Sate
 alt_names: [Isaro, Yofo]
 population: 3420

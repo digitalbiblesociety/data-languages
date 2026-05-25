@@ -1,6 +1,8 @@
 ---
 iso: lul
 name: "Olu'bo"
+name_zh: 奥卢博语
+name_zh_auto: true
 autonym: Lolubo
 alt_names: [Luluba, Lulubo, Olubogo, Oluboti, Ondoe]
 population: 15000

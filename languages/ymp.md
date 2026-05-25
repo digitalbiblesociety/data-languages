@@ -1,6 +1,8 @@
 ---
 iso: ymp
 name: Yamap
+name_zh: 亚玛普语
+name_zh_auto: true
 autonym: null
 population: 1580
 country_id: PG

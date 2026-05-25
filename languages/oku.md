@@ -1,6 +1,8 @@
 ---
 iso: oku
 name: Oku
+name_zh: 奥库语
+name_zh_auto: true
 autonym: Kuɔ
 alt_names: [Bvukoo, Ebkuo, Ekpwo, Kuo, Ukfwo, Uku]
 population: 87000

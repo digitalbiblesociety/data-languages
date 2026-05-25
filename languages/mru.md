@@ -1,6 +1,8 @@
 ---
 iso: mru
 name: Mono (Cameroon)
+name_zh: 喀麦隆莫诺语
+name_zh_auto: true
 autonym: "Mon-Non"
 alt_names: [Maru, Mono]
 population: 300

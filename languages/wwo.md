@@ -1,6 +1,8 @@
 ---
 iso: wwo
 name: Wetamut
+name_zh: 韦塔穆特语
+name_zh_auto: true
 autonym: Dōrig
 alt_names: [Banks-Inseln, Dorig]
 population: 160

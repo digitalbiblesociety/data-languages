@@ -1,6 +1,8 @@
 ---
 iso: yaq
 name: Yaqui
+name_zh: 亚基语
+name_zh_auto: true
 autonym: Yoem Noki
 alt_names: [Cahita, Kahita, Yaki, "Yaki (États-Unis d'Amérique)", Yaki simi, Yakieg, Yaqui (Estados Unidos), Yaqui (Mexique), Yaqui-Mayo, Yoeme]
 population: 20940

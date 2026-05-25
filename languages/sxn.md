@@ -1,6 +1,8 @@
 ---
 iso: sxn
 name: Sangir
+name_zh: 桑吉尔语
+name_zh_auto: true
 autonym: Siau
 alt_names: [Bahasa Sangihe, Sangi, Sangih, Sangihé, Sangirese]
 population: 165000

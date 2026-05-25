@@ -1,6 +1,8 @@
 ---
 iso: sni
 name: Sensi
+name_zh: 森西语
+name_zh_auto: true
 autonym: Tenti
 alt_names: [Mananahua, Senti]
 population: null

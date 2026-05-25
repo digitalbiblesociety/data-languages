@@ -1,6 +1,8 @@
 ---
 iso: cbi
 name: Chachi
+name_zh: 查奇语
+name_zh_auto: true
 autonym: Chaʼpalaa
 alt_names: [Cayapa, "Cha' Palaachi", "Cha'palaa", "Cha'palaachi", Chapalaa, Cha’palaachi, Kayapa, Nigua]
 population: 5870

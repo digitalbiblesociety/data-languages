@@ -1,6 +1,8 @@
 ---
 iso: wkb
 name: Kumbaran
+name_zh: 库姆巴兰语
+name_zh_auto: true
 autonym: null
 population: 20000
 country_id: IN

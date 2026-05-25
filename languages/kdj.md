@@ -1,6 +1,8 @@
 ---
 iso: kdj
 name: Karamojong
+name_zh: 卡拉莫琼语
+name_zh_auto: true
 autonym: Karimojong
 alt_names: [Karimonjong]
 population: 691000

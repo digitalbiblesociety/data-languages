@@ -1,6 +1,8 @@
 ---
 iso: lqr
 name: Logir
+name_zh: 洛吉尔语
+name_zh_auto: true
 autonym: Lango–Logire–Logir
 population: 15000
 country_id: SS

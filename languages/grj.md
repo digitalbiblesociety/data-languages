@@ -1,6 +1,8 @@
 ---
 iso: grj
 name: Southern Grebo
+name_zh: 南格雷博语
+name_zh_auto: true
 autonym: null
 alt_names: [Grebo, "Grebo, Southern", Jabo language]
 population: 187000

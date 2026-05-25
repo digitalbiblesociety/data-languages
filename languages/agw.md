@@ -1,6 +1,8 @@
 ---
 iso: agw
 name: Kahua
+name_zh: 卡华语
+name_zh_auto: true
 autonym: Anganiwai
 alt_names: [Anganiwei, Chaha, Narihua, Südliche Salomons-Inseln, Wanoni]
 population: 5170

@@ -1,6 +1,8 @@
 ---
 iso: nmt
 name: Namonuito
+name_zh: 纳莫努伊托语
+name_zh_auto: true
 autonym: Namon Weite
 population: 940
 country_id: FM

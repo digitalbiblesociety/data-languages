@@ -1,6 +1,8 @@
 ---
 iso: les
 name: Lese
+name_zh: 莱塞语
+name_zh_auto: true
 autonym: Efé
 alt_names: [Balese, Lesa, Lesse, Lissi, Mbuti, Walese, Walisi]
 population: 50000

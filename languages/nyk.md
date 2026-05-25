@@ -1,6 +1,8 @@
 ---
 iso: nyk
 name: Nyaneka
+name_zh: 尼亚内卡语
+name_zh_auto: true
 autonym: Lunyaneka
 alt_names: [Nhaneca, Nhaneka]
 population: 1000000

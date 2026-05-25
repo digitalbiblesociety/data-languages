@@ -1,6 +1,8 @@
 ---
 iso: mgv
 name: Matengo
+name_zh: 玛腾戈语
+name_zh_auto: true
 autonym: Chimatengo
 alt_names: [Kimatengo]
 population: 271000

@@ -1,6 +1,8 @@
 ---
 iso: yul
 name: Yulu
+name_zh: 尤卢语
+name_zh_auto: true
 autonym: Binga
 alt_names: [Youlou, Yulu-Binga dialects]
 population: 4000

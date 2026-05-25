@@ -1,6 +1,8 @@
 ---
 iso: kif
 name: Eastern Parbate Kham
+name_zh: 东帕巴特卡姆语
+name_zh_auto: true
 autonym: Kham language
 alt_names: [Eastern Parbate, Kham, "Kham, Eastern Parbate", "Kham,EasternParbate", Khamkura, Khams, Nisel, Nishel Kham, Nisi, Nisi Kham, Parbate, "Parbate, Eastern", Proto-Kham]
 population: 7500

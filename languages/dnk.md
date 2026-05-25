@@ -1,6 +1,8 @@
 ---
 iso: dnk
 name: Dengka
+name_zh: 邓卡语
+name_zh_auto: true
 autonym: Western Rote
 alt_names: [Rote, Rote Barat, Roti, Rotinese]
 population: 20000

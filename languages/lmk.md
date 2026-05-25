@@ -1,6 +1,8 @@
 ---
 iso: lmk
 name: Lamkang
+name_zh: 兰卡语
+name_zh_auto: true
 autonym: Ksen
 alt_names: ["\"Hiroi-Lamgang\"", "\"Lamgang\"", Hiroi-Lamgang, Lamgang, Lamkaang, Lamkang Naga]
 population: 10000

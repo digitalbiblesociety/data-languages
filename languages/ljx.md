@@ -1,6 +1,8 @@
 ---
 iso: ljx
 name: Yuru
+name_zh: 尤鲁语
+name_zh_auto: true
 autonym: "Arwur-angkana"
 population: null
 country_id: AU

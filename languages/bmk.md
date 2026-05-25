@@ -1,6 +1,8 @@
 ---
 iso: bmk
 name: Ghayavi
+name_zh: 盖亚维语
+name_zh_auto: true
 autonym: Boianaki
 alt_names: [Boanai, Boanaki, Boinaki, Galavi]
 population: 2810

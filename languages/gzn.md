@@ -1,6 +1,8 @@
 ---
 iso: gzn
 name: Gane
+name_zh: 加内语
+name_zh_auto: true
 autonym: Gani
 alt_names: [Giman]
 population: 2900

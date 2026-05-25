@@ -1,6 +1,8 @@
 ---
 iso: bbx
 name: Bubia
+name_zh: 布比亚语
+name_zh_auto: true
 autonym: Bobe
 population: 600
 country_id: CM

@@ -1,6 +1,8 @@
 ---
 iso: xpn
 name: Kapinawá
+name_zh: 卡皮纳瓦语
+name_zh_auto: true
 autonym: (unattested)
 alt_names: [Brazil, Kapinawa]
 population: null

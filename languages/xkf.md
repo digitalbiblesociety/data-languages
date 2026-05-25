@@ -1,6 +1,8 @@
 ---
 iso: xkf
 name: Khengkha
+name_zh: 克恒卡语
+name_zh_auto: true
 autonym: " ྨཕགལཔམཕ"
 alt_names: [Ken, Keng, Kenkha, Khen, Kheng, Khenkha, Kyengkha]
 population: 31500

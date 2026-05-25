@@ -1,6 +1,8 @@
 ---
 iso: sbm
 name: Sagala
+name_zh: 萨加拉语
+name_zh_auto: true
 autonym: Sagala
 alt_names: [Kisagala, Kisagara, Sagara, Southern Kisagala]
 population: 111000

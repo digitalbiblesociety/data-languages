@@ -1,6 +1,8 @@
 ---
 iso: kka
 name: Kakanda
+name_zh: 卡坎达语
+name_zh_auto: true
 autonym: Hyabe
 alt_names: [Adyaktye, Akanda]
 population: 20000

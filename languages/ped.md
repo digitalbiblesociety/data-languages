@@ -1,6 +1,8 @@
 ---
 iso: ped
 name: Mala (Papua New Guinea)
+name_zh: 马拉语
+name_zh_auto: true
 autonym: Pay
 alt_names: [Alam, Banara, Dagoi, Dagui, Hatzfeldhafen, Mala, Malala, Pai]
 population: null

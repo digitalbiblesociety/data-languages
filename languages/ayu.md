@@ -1,6 +1,8 @@
 ---
 iso: ayu
 name: Ayu
+name_zh: 艾语
+name_zh_auto: true
 autonym: Aya
 population: 800
 country_id: NG

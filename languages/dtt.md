@@ -1,6 +1,8 @@
 ---
 iso: dtt
 name: Toro Tegu Dogon
+name_zh: 托罗特古多贡语
+name_zh_auto: true
 autonym: Tɔrɔ tegu
 alt_names: [Dogon, "Dogon, Toro Tegu", Tandam]
 population: 2900

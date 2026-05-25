@@ -1,6 +1,8 @@
 ---
 iso: ksq
 name: Kwaami
+name_zh: 克瓦阿米语
+name_zh_auto: true
 autonym: Komawa
 alt_names: [Kwam, Kwamanchi, Kwami, Kwom]
 population: 10000

@@ -1,6 +1,8 @@
 ---
 iso: gbi
 name: Galela
+name_zh: 加莱拉语
+name_zh_auto: true
 autonym: bahasa Galela
 alt_names: [Indonesia]
 population: 79000

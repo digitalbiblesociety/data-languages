@@ -1,6 +1,8 @@
 ---
 iso: ahr
 name: Ahirani
+name_zh: 阿希拉尼语
+name_zh_auto: true
 autonym: Ahirani
 population: 1640000
 country_id: IN

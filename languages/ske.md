@@ -1,6 +1,8 @@
 ---
 iso: ske
 name: Seke (Vanuatu)
+name_zh: 塞克语（瓦努阿图）
+name_zh_auto: true
 autonym: Seke
 alt_names: [Ske, Ske language, Vanuatu]
 population: 600

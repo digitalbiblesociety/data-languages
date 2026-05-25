@@ -1,6 +1,8 @@
 ---
 iso: aek
 name: Haeke
+name_zh: 哈埃克语
+name_zh_auto: true
 autonym: Haekic
 alt_names: ["'Aeke", Aeke, Haeake, Neukaledonien]
 population: 100

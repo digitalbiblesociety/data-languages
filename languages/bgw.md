@@ -1,6 +1,8 @@
 ---
 iso: bgw
 name: Bhatri
+name_zh: 巴特里语
+name_zh_auto: true
 autonym: Basturia
 alt_names: [Bhatra, Bhattra, Bhattri, Bhottada, Bhottara]
 population: 334000

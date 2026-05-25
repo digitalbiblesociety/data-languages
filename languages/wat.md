@@ -1,6 +1,8 @@
 ---
 iso: wat
 name: Kaninuwa
+name_zh: 卡宁乌瓦语
+name_zh_auto: true
 autonym: Wataluma
 alt_names: [Kaokao]
 population: 800

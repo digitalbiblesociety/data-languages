@@ -1,6 +1,8 @@
 ---
 iso: ldl
 name: Kaan
+name_zh: 卡安语
+name_zh_auto: true
 autonym: Libo
 alt_names: [Kan, Libbo]
 population: 10000

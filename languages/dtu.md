@@ -1,6 +1,8 @@
 ---
 iso: dtu
 name: Tebul Ure Dogon
+name_zh: 特布尔乌雷多贡语
+name_zh_auto: true
 autonym: Tebul Ure
 alt_names: ["Dogon, Tebul Ure", Oru Yille, Tew Tegu]
 population: 3000

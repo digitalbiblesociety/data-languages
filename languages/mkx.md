@@ -1,6 +1,8 @@
 ---
 iso: mkx
 name: Kinamiging Manobo
+name_zh: 基纳米京曼诺博语
+name_zh_auto: true
 autonym: Kinamigin
 alt_names: [Cinamiguin, Kamigin, "Manobo, Cinamiguin", "Manobo, Kinamiging"]
 population: 12800

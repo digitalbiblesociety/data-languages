@@ -1,6 +1,8 @@
 ---
 iso: nvm
 name: Namiae
+name_zh: 纳米亚语
+name_zh_auto: true
 autonym: Namiai (Barai)
 alt_names: [Barai]
 population: 1200

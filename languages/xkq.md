@@ -1,6 +1,8 @@
 ---
 iso: xkq
 name: Koroni
+name_zh: 科罗尼语
+name_zh_auto: true
 autonym: Oengsongi
 population: 500
 country_id: ID

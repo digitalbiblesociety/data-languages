@@ -1,6 +1,8 @@
 ---
 iso: pdo
 name: Padoe
+name_zh: 帕多埃语
+name_zh_auto: true
 autonym: Alalao
 alt_names: [Mori, Padoé, South Mori]
 population: 6000

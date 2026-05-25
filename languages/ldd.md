@@ -1,6 +1,8 @@
 ---
 iso: ldd
 name: Luri
+name_zh: 卢里语
+name_zh_auto: true
 autonym: Barawa
 alt_names: [Lur, Lurí, Lúr]
 population: 22000

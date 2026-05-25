@@ -1,6 +1,8 @@
 ---
 iso: oco
 name: Old Cornish
+name_zh: 古康沃尔语
+name_zh_auto: true
 autonym: null
 alt_names: ["Cornish, Old"]
 population: null

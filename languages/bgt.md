@@ -1,6 +1,8 @@
 ---
 iso: bgt
 name: Bughotu
+name_zh: 布格霍图语
+name_zh_auto: true
 autonym: Bugotu
 alt_names: [Bugota, Bugoto, Mahaga, Mbughotu, Südliche Salomons-Inseln]
 population: 4050

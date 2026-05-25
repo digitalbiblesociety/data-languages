@@ -1,6 +1,8 @@
 ---
 iso: bxi
 name: Pirlatapa
+name_zh: 皮尔拉塔帕语
+name_zh_auto: true
 autonym: Dieri
 alt_names: [Berluppa, Biladaba, Biladapa, Biladepa, Biladhaba, Bilatappa, Billatapa, Billidapa, Birladapa, Jarikuna, Pidlatapa, Piladapa, Pilardapa, Pilatapa, Pilladapa, Pillatapa, Pilliapp, Pillitapa, Pulladapa, Yarri kuna, Yarri-kuna, Yarrikuna]
 population: null

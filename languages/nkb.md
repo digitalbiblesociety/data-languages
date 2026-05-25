@@ -1,6 +1,8 @@
 ---
 iso: nkb
 name: Khoibu Naga
+name_zh: 科伊布纳加语
+name_zh_auto: true
 autonym: Khoibu
 alt_names: [Khoibu Maring, Khoibu Maring Naga, "Naga, Khoibu", "Naga,Khoibu"]
 population: 25600

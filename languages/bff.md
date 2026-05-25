@@ -1,6 +1,8 @@
 ---
 iso: bff
 name: Bofi
+name_zh: 博菲语
+name_zh_auto: true
 autonym: Ɓòfì
 alt_names: ["'Bofi", Ali, Boffi, Ngbaka, Ngbaka-Manza, Ngbaka-Minagende, Ngbaka-Minangende]
 population: 23500

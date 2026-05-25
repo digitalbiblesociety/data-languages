@@ -1,6 +1,8 @@
 ---
 iso: lik
 name: Lika
+name_zh: 利卡语
+name_zh_auto: true
 autonym: Kilika
 alt_names: [Kpongo, Mabiti, Toriko]
 population: 60000

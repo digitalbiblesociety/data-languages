@@ -1,6 +1,8 @@
 ---
 iso: kdp
 name: "Kaningdon-Nindem"
+name_zh: 卡宁东-宁德姆语
+name_zh_auto: true
 autonym: "Kaningkom-Nindem"
 alt_names: [Nigeria]
 population: 12000

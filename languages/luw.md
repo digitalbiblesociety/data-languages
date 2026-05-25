@@ -1,6 +1,8 @@
 ---
 iso: luw
 name: Luo (Cameroon)
+name_zh: 卢奥语
+name_zh_auto: true
 autonym: null
 alt_names: [Cameroon, Luo]
 population: null

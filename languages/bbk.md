@@ -1,6 +1,8 @@
 ---
 iso: bbk
 name: Babanki
+name_zh: 巴班基语
+name_zh_auto: true
 autonym: Finge
 alt_names: [Kedjom, Kejeng, Kejom, Kidzem, Kidzom]
 population: 39000

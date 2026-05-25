@@ -1,6 +1,8 @@
 ---
 iso: gwr
 name: Gwere
+name_zh: 格韦雷语
+name_zh_auto: true
 autonym: (O)lugwere
 alt_names: [Lugwere, Olugwere]
 population: 621000

@@ -1,6 +1,8 @@
 ---
 iso: wrv
 name: Waruna
+name_zh: 瓦鲁纳语
+name_zh_auto: true
 autonym: null
 alt_names: [Ari-Waruna]
 population: 600

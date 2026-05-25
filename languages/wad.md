@@ -1,6 +1,8 @@
 ---
 iso: wad
 name: Wandamen
+name_zh: 万达门语
+name_zh_auto: true
 autonym: Wamesa
 alt_names: [Bentoeni, Bentuni, Bintuni, Wandamen-Windesi, Windesi, Windessi, Wondama]
 population: 5000

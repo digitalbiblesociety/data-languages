@@ -1,6 +1,8 @@
 ---
 iso: yrb
 name: Yareba
+name_zh: 亚雷巴语
+name_zh_auto: true
 autonym: null
 alt_names: [Middle Musa, Musa River]
 population: 750

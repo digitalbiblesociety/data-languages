@@ -1,6 +1,8 @@
 ---
 iso: plz
 name: Paluan
+name_zh: 帕鲁安语
+name_zh_auto: true
 autonym: null
 alt_names: [Peluan]
 population: 1000

@@ -1,6 +1,8 @@
 ---
 iso: niz
 name: Ningil
+name_zh: 宁吉尔语
+name_zh_auto: true
 autonym: null
 alt_names: [Gul, Ral]
 population: 950

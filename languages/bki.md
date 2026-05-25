@@ -1,6 +1,8 @@
 ---
 iso: bki
 name: Baki
+name_zh: 巴基语
+name_zh_auto: true
 autonym: Burumba
 alt_names: [Paki]
 population: 350

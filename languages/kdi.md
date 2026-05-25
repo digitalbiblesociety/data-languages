@@ -1,6 +1,8 @@
 ---
 iso: kdi
 name: Kumam
+name_zh: 库马姆语
+name_zh_auto: true
 autonym: Ikokolemu
 alt_names: [Akokolemu, Akum, Ikumama, Kuman, Kumum]
 population: 266000

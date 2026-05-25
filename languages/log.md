@@ -1,6 +1,8 @@
 ---
 iso: log
 name: Logo
+name_zh: 洛戈语
+name_zh_auto: true
 autonym: Logoti
 alt_names: [Логоски јазик]
 population: 210000

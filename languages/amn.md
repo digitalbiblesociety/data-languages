@@ -1,6 +1,8 @@
 ---
 iso: amn
 name: Amanab
+name_zh: 阿马纳布语
+name_zh_auto: true
 autonym: null
 alt_names: [Amanab jezik, Język amanab, Lingua amanab]
 population: 4420

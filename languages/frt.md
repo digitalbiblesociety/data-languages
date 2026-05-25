@@ -1,6 +1,8 @@
 ---
 iso: frt
 name: Fortsenal
+name_zh: 福尔茨纳尔语
+name_zh_auto: true
 autonym: Fortsenal
 alt_names: [Idioma de kiai, Kiai, Kiai language, Vanuatu, Киаи]
 population: 450

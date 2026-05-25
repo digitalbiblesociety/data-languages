@@ -1,6 +1,8 @@
 ---
 iso: yly
 name: Nyâlayu
+name_zh: 尼亚拉尤语
+name_zh_auto: true
 autonym: Nielaiou
 alt_names: [Belep, Neukaledonien, Nyelyâu, Nyelâyu, Yalayu, Yâlayu]
 population: 1520

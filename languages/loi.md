@@ -1,6 +1,8 @@
 ---
 iso: loi
 name: "Loma (Côte d'Ivoire)"
+name_zh: 洛玛语
+name_zh_auto: true
 autonym: Lomakka
 alt_names: [Loma, "Loma (Cote d'Ivoire)", Lomapo, Lomasse, Malinke]
 population: 8010

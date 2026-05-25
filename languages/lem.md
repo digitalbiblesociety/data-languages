@@ -1,6 +1,8 @@
 ---
 iso: lem
 name: Nomaande
+name_zh: 诺玛安德语
+name_zh_auto: true
 autonym: Lémandé
 alt_names: [Lemande, Mande, Mandi, Noomaante, Numand, Pimenc]
 population: 6000

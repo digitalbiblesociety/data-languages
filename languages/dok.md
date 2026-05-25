@@ -1,6 +1,8 @@
 ---
 iso: dok
 name: Dondo
+name_zh: 多恩多语
+name_zh_auto: true
 autonym: null
 population: 13000
 country_id: ID

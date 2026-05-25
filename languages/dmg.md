@@ -1,6 +1,8 @@
 ---
 iso: dmg
 name: Upper Kinabatangan
+name_zh: 上基那巴坦甘语
+name_zh_auto: true
 autonym: Lobu
 alt_names: ["Kinabatangan, Upper"]
 population: 5000

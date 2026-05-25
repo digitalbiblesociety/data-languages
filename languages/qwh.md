@@ -1,6 +1,8 @@
 ---
 iso: qwh
 name: Huaylas Ancash Quechua
+name_zh: 瓦亚拉斯安卡什克丘亚语
+name_zh_auto: true
 autonym: "Nunashimi "
 alt_names: [Ancas, Ancash, Ancash Kechua, Ancash Quechua, Caraz, Chinchaysuyo, Conchucos, Huaraz Quechua, Huaylas, Huaylas Quechua, Northern Quechua, Quechua ancashino, "Quechua, Huaylas  Ancash"]
 population: 173000

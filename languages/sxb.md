@@ -1,6 +1,8 @@
 ---
 iso: sxb
 name: Suba
+name_zh: 苏巴语
+name_zh_auto: true
 autonym: null
 alt_names: [Olusuba]
 population: 158000

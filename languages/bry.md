@@ -1,6 +1,8 @@
 ---
 iso: bry
 name: Burui
+name_zh: 布鲁伊语
+name_zh_auto: true
 autonym: null
 alt_names: [Sawos]
 population: 260

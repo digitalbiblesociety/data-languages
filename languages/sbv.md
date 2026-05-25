@@ -1,6 +1,8 @@
 ---
 iso: sbv
 name: Sabine
+name_zh: 萨宾语
+name_zh_auto: true
 autonym: lingua Sabina
 population: null
 country_id: IT

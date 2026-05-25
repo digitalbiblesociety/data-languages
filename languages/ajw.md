@@ -1,6 +1,8 @@
 ---
 iso: ajw
 name: Ajawa
+name_zh: 阿贾瓦语
+name_zh_auto: true
 autonym: Aja
 alt_names: [Ajanci, Ajawa jezik, Lingua ajawa]
 population: null

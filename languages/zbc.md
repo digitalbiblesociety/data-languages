@@ -1,6 +1,8 @@
 ---
 iso: zbc
 name: Central Berawan
+name_zh: 中贝拉旺语
+name_zh_auto: true
 autonym: Batu Belah
 alt_names: ["Berawan, Central"]
 population: 710

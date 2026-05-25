@@ -1,6 +1,8 @@
 ---
 iso: kup
 name: Kunimaipa
+name_zh: 库尼迈帕语
+name_zh_auto: true
 autonym: null
 population: 8200
 country_id: PG

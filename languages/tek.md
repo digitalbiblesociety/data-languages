@@ -1,6 +1,8 @@
 ---
 iso: tek
 name: Ibali Teke
+name_zh: 伊巴利特克语
+name_zh_auto: true
 autonym: Bali
 alt_names: [Eastern Teke, Ibali, Kiteke, Teke, "Teke, Ibali", Teke-Ibali]
 population: 202300

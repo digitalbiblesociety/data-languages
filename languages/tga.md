@@ -1,6 +1,8 @@
 ---
 iso: tga
 name: Sagalla
+name_zh: 萨加拉语
+name_zh_auto: true
 autonym: Kisagala
 alt_names: [Kisagalla, Sagala, Saghala, Teri]
 population: 100000

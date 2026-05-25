@@ -1,6 +1,8 @@
 ---
 iso: ypm
 name: Phuma
+name_zh: 普玛语
+name_zh_auto: true
 autonym: Bokha
 population: 8000
 country_id: CN

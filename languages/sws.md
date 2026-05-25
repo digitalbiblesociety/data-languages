@@ -1,6 +1,8 @@
 ---
 iso: sws
 name: Seluwasan
+name_zh: 塞卢瓦桑语
+name_zh_auto: true
 autonym: Selvasa
 alt_names: [Selwasa]
 population: 2100

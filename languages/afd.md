@@ -1,6 +1,8 @@
 ---
 iso: afd
 name: Andai
+name_zh: 安代语
+name_zh_auto: true
 autonym: Upper Arafundi
 alt_names: [Alfendio, Arafundi, Imboin, Meakambut, Pundungum, Wangkai]
 population: 400

@@ -1,6 +1,8 @@
 ---
 iso: gbq
 name: "Gbaya-Bozoum"
+name_zh: 加巴亚-博佐姆语
+name_zh_auto: true
 autonym: Bozom
 alt_names: [Gbaya, Gbaya de Bozoum]
 population: 32500

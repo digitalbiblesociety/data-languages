@@ -1,6 +1,8 @@
 ---
 iso: jbi
 name: Badjiri
+name_zh: 巴季里语
+name_zh_auto: true
 autonym: Budjari
 alt_names: [Baddyeri, Baderi, Badjedi, Badjeri, Badjidi, Badyidi, Byjerri, Bädjäri, Poidg-erry, Poidgerry]
 population: null

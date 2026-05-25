@@ -1,6 +1,8 @@
 ---
 iso: gnk
 name: ǁGana
+name_zh: "!加纳语"
+name_zh_auto: true
 autonym: Dxana
 alt_names: [//Gana, //Ganakhwe, /Khessakoe, "?gana", G//ana, G//anakhwe, Gana, Ganakue, Gxana, Gxanna, "G||ana", "G||ana-Khwe", Gǁana language, Kanakhoe, Kanakoe, "||Gana", ǁGana jezik, Лъгана-цъгви]
 population: 2000

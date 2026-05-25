@@ -1,6 +1,8 @@
 ---
 iso: anc
 name: Ngas
+name_zh: 恩加斯语
+name_zh_auto: true
 autonym: Angas
 alt_names: [Karang, Kerang, Lenga Ngas, Ngas jezik, Ngaseg]
 population: 659000

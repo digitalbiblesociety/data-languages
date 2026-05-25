@@ -1,6 +1,8 @@
 ---
 iso: lmq
 name: Lamatuka
+name_zh: 拉玛图卡语
+name_zh_auto: true
 autonym: Lamatoka
 population: 4000
 country_id: ID

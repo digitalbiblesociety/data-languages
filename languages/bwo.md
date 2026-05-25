@@ -1,6 +1,8 @@
 ---
 iso: bwo
 name: Boro (Ethiopia)
+name_zh: 博罗语
+name_zh_auto: true
 autonym: Boro
 alt_names: [Borna, Borna (Ethiopia), Boro (Omotic), Boro jezik, Boró, Bworo, Bòrná, Scinacia, Shinasha, Shinassha, Shinassha (Boro), Šinašša]
 population: 144

@@ -1,6 +1,8 @@
 ---
 iso: wib
 name: Southern Toussian
+name_zh: 南图西亚语
+name_zh_auto: true
 autonym: Wín
 alt_names: [Toussian, Toussian (Northern), Toussian (Southern), Toussian (Win), "Toussian, Southern", Tusia, Tusian, Tusya, Tusya(ng), Tusyã, Win]
 population: 19500

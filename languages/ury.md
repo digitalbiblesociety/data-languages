@@ -1,6 +1,8 @@
 ---
 iso: ury
 name: Orya
+name_zh: 奥里亚语
+name_zh_auto: true
 autonym: Oria
 alt_names: [Uria, Warpok, Warpu]
 population: 1600

@@ -1,6 +1,8 @@
 ---
 iso: nbi
 name: Mao Naga
+name_zh: 毛纳加语
+name_zh_auto: true
 autonym: Sopvoma
 alt_names: [Emela, Maikel, Mao, Memi, Māo Naga, Naga, Naga (Mao), "Naga, Mao", "Naga,Mao", Sopfomo, Spowama]
 population: 972000

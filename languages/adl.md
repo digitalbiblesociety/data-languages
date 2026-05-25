@@ -1,6 +1,8 @@
 ---
 iso: adl
 name: Galo
+name_zh: 加洛语
+name_zh_auto: true
 autonym: "Galo '"
 alt_names: [Abor, Adi, "Adi, Galo", "Adi,Galo", Adi-Gallong, Adi-Galo, Gallong, Galong]
 population: 29200

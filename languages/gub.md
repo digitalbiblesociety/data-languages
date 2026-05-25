@@ -1,6 +1,8 @@
 ---
 iso: gub
 name: Guajajára
+name_zh: 瓜雅查拉语
+name_zh_auto: true
 autonym: Guajajara
 population: 19500
 country_id: BR

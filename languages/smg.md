@@ -1,6 +1,8 @@
 ---
 iso: smg
 name: Simbali
+name_zh: 西姆巴利语
+name_zh_auto: true
 autonym: Asimbali
 alt_names: [Neu-Pommern]
 population: 390

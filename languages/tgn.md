@@ -1,6 +1,8 @@
 ---
 iso: tgn
 name: Tandaganon
+name_zh: 坦达甘农语
+name_zh_auto: true
 autonym: Tandaganon
 population: null
 country_id: PH

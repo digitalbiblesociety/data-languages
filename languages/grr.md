@@ -1,6 +1,8 @@
 ---
 iso: grr
 name: Taznatit
+name_zh: 塔兹纳蒂特语
+name_zh_auto: true
 autonym: تازناتيت / ⵜⴰⵣⵏⴰⵜⵉⵜ
 alt_names: [Garawa, Shilha, Touat, Zenati, Zenatia, Zenete, Znatiya]
 population: 11000

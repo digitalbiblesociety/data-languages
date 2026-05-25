@@ -1,6 +1,8 @@
 ---
 iso: sde
 name: Surubu
+name_zh: 苏鲁布语
+name_zh_auto: true
 autonym: Surubu
 alt_names: [Fiti, Skrubu, Srubu, Zurubu]
 population: 7170

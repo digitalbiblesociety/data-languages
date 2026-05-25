@@ -1,6 +1,8 @@
 ---
 iso: ukg
 name: Ukuriguma
+name_zh: 乌库里古马语
+name_zh_auto: true
 autonym: null
 population: 170
 country_id: PG

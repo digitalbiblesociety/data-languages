@@ -1,6 +1,8 @@
 ---
 iso: gog
 name: Gogo
+name_zh: 戈戈语
+name_zh_auto: true
 autonym: Cigogo
 alt_names: [Chigogo, Język gogo, Kigogo, Língua gogo]
 population: 1080000

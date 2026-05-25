@@ -1,6 +1,8 @@
 ---
 iso: wme
 name: Wambule
+name_zh: 瓦布莱语
+name_zh_auto: true
 autonym: Chourase
 alt_names: [Ambule, Chaurasia, Chaurasya, Chaurāsya, "Chouras'ya'", Chourasia, Ombule, Tsaurasya, Tśaurasya, Umbule, Wambouleg, Wambulish, ภาษาวัมบูเล]
 population: 1000

@@ -1,6 +1,8 @@
 ---
 iso: yde
 name: Yangum Dey
+name_zh: 扬古姆-德伊语
+name_zh_auto: true
 autonym: Aiku
 population: 180
 country_id: PG

@@ -1,6 +1,8 @@
 ---
 iso: yiz
 name: Azhe
+name_zh: 阿哲语
+name_zh_auto: true
 autonym: null
 alt_names: [Lolo, Yi, "Yi, Azhe"]
 population: 54000

@@ -1,6 +1,8 @@
 ---
 iso: bcj
 name: Bardi
+name_zh: 巴尔迪语
+name_zh_auto: true
 autonym: Baadi
 alt_names: ["Ba:d", "Ba:di", Baada, Baard, Baardi, Bad, Badi, Bard, Barda, Boardybahrde]
 population: 380

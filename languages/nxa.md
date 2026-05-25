@@ -1,6 +1,8 @@
 ---
 iso: nxa
 name: Nauete
+name_zh: 瑙埃特语
+name_zh_auto: true
 autonym: Naóti
 alt_names: [Naueti, Nauhete, Nauote, Nauoti]
 population: 1000

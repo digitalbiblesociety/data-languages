@@ -1,6 +1,8 @@
 ---
 iso: xww
 name: Wemba Wemba
+name_zh: 韦姆巴-韦姆巴语
+name_zh_auto: true
 autonym: Eastern Central Murray
 population: null
 country_id: AU

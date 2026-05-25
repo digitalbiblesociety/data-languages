@@ -1,6 +1,8 @@
 ---
 iso: dya
 name: Dyan
+name_zh: 甸语
+name_zh_auto: true
 autonym: Dan
 alt_names: [Dian, Dya, Dyane, Dyanu]
 population: 14100

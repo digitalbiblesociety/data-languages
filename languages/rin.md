@@ -1,6 +1,8 @@
 ---
 iso: rin
 name: Nungu
+name_zh: 农古语
+name_zh_auto: true
 autonym: Rindiri
 alt_names: [Lindiri, Rendre, Rindre]
 population: 50000

@@ -1,6 +1,8 @@
 ---
 iso: oos
 name: Old Ossetic
+name_zh: 古奥塞梯语
+name_zh_auto: true
 autonym: null
 alt_names: ["Ossetic, Old"]
 population: null

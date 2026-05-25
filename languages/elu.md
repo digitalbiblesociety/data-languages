@@ -1,6 +1,8 @@
 ---
 iso: elu
 name: Elu
+name_zh: 埃卢语
+name_zh_auto: true
 autonym: null
 alt_names: [Admiralitäts-inseln]
 population: 220

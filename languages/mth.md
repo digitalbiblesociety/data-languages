@@ -1,6 +1,8 @@
 ---
 iso: mth
 name: Munggui
+name_zh: 蒙古圭语
+name_zh_auto: true
 autonym: Natabui
 population: 800
 country_id: ID

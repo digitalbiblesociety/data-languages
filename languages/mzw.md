@@ -1,6 +1,8 @@
 ---
 iso: mzw
 name: Deg
+name_zh: 德格语
+name_zh_auto: true
 autonym: Mo
 alt_names: [Aculo, Buro, Buru, Degha, Dɛ, Janela, Mmfo]
 population: 44000

@@ -1,6 +1,8 @@
 ---
 iso: nsg
 name: Ngasa
+name_zh: 恩加萨语
+name_zh_auto: true
 autonym: Ongamo
 alt_names: [Nass-Gitksan, Nisgha, Ongamoeg, Shaka]
 population: 250

@@ -1,6 +1,8 @@
 ---
 iso: vau
 name: Vanuma
+name_zh: 瓦努玛语
+name_zh_auto: true
 autonym: South Nyali
 alt_names: [Bambutuku, Bvanuma, Livanuma]
 population: 6700

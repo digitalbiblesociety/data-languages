@@ -1,6 +1,8 @@
 ---
 iso: pio
 name: Piapoco
+name_zh: 皮亚波科语
+name_zh_auto: true
 autonym: Cháse
 alt_names: [Dzaze, Piapoko, Tsae]
 population: 6680

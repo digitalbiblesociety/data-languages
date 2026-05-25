@@ -1,6 +1,8 @@
 ---
 iso: xyy
 name: Yorta Yorta
+name_zh: 约尔塔-约尔塔语
+name_zh_auto: true
 autonym: Yotayota
 alt_names: ["'Ngarrimouro", Arramouro, Bangerang, Boonegatha, Echuca, Gunbowerooranditchgoole, Gunbowers, Jodajoda, Joti-jota, Jotijota, Kwart Kwart, Loddon tribe, Moira, Ngarrimowro, Unungun, Wol-lithiga, Woollathura, Yabola, Yoda-Yoda, Yodayoda, Yoorta, Yota, Yota Yota, Yota-Yota, Yoti Yoti, Yotta-Yotta, Youta]
 population: null

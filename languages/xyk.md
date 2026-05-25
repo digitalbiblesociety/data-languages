@@ -1,6 +1,8 @@
 ---
 iso: xyk
 name: "Mayi-Kulan"
+name_zh: 麦伊-库兰语
+name_zh_auto: true
 autonym: Maykulan
 population: null
 country_id: AU

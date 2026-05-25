@@ -1,6 +1,8 @@
 ---
 iso: dho
 name: Dhodia
+name_zh: 多迪亚语
+name_zh_auto: true
 autonym: "Kokna-Dhodia"
 alt_names: [Dhobi, Dhore, Dhori, Dhowari, Doria]
 population: 49100

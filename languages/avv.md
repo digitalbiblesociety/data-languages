@@ -1,6 +1,8 @@
 ---
 iso: avv
 name: "Avá-Canoeiro"
+name_zh: 阿瓦-卡诺埃罗语
+name_zh_auto: true
 autonym: Ãwa
 alt_names: [Abá, Ava, Ava-Canoeiro, Avá, Awana, Awá, Awá Guajá, Ayaya, Canoa, Canoe, Canoeiro, Canoeiros, Guajá, Wazaizara]
 population: 14

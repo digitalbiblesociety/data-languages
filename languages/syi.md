@@ -1,6 +1,8 @@
 ---
 iso: syi
 name: Seki
+name_zh: 塞基语
+name_zh_auto: true
 autonym: Sekiyani
 alt_names: [Beseki, Bulu, Seke, Sekiana, Sekiani, Sekyani, Seseki, Sheke, Shekiyana]
 population: 11000

@@ -1,6 +1,8 @@
 ---
 iso: gdi
 name: Gundi
+name_zh: 古迪语
+name_zh_auto: true
 autonym: Ngondi
 alt_names: [Ngundi]
 population: 9000

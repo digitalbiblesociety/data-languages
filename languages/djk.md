@@ -1,6 +1,8 @@
 ---
 iso: djk
 name: Eastern Maroon Creole
+name_zh: 东马荣克里奥尔语
+name_zh_auto: true
 autonym: Aukan
 alt_names: ["\"Djoeka\"", "\"Djuka\"", Aukaans, Businenge Tongo, Djoe-Tongo, Djuka, Dyuka, Ndjuka, Ndjuká, Ndyuka, Nenge, Njuká, Okanisi, Ндюка, 은쥬카어]
 population: 67300

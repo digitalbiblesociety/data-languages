@@ -1,6 +1,8 @@
 ---
 iso: njn
 name: Liangmai Naga
+name_zh: 梁迈纳加语
+name_zh_auto: true
 autonym: Kwoireng
 alt_names: [Kacha, Liangmai, Liangmei, Liyang, Lyangmay, Lyengmai, Naga, "Naga, Liangmai", "Naga,Liangmai"]
 population: 49800

@@ -1,6 +1,8 @@
 ---
 iso: bwd
 name: Bwaidoka
+name_zh: 布瓦伊多卡语
+name_zh_auto: true
 autonym: Bwaidoga
 population: 6500
 country_id: PG

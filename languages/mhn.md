@@ -1,6 +1,8 @@
 ---
 iso: mhn
 name: Mócheno
+name_zh: 莫凯诺语
+name_zh_auto: true
 autonym: Bersntoler sproch
 alt_names: [Mocheno, Mòcheno]
 population: 1000

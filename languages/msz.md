@@ -1,6 +1,8 @@
 ---
 iso: msz
 name: Momare
+name_zh: 莫马雷语
+name_zh_auto: true
 autonym: Momale
 alt_names: [Momole, Mumare]
 population: 650

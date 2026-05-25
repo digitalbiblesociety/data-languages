@@ -1,6 +1,8 @@
 ---
 iso: yix
 name: Axi Yi
+name_zh: 阿夕-伊语
+name_zh_auto: true
 autonym: Axipo
 alt_names: [Ahi, Axi, Axibo, Lolo, Yi, "Yi, Axi"]
 population: 170000

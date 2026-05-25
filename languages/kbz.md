@@ -1,6 +1,8 @@
 ---
 iso: kbz
 name: Duhwa
+name_zh: 杜瓦语
+name_zh_auto: true
 autonym: Karfa
 alt_names: [Kerifa, Nzuhwi, Sabei, Sore-Sabaut]
 population: 800

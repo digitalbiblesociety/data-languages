@@ -1,6 +1,8 @@
 ---
 iso: fuv
 name: Nigerian Fulfulde
+name_zh: 尼日利亚富尔富尔德语
+name_zh_auto: true
 autonym: Fulani
 alt_names: [Ful(ani), Fula (Nigerian), "Fula, Fulani", Fulah-Idiome, Fulbe, Fulfulde (Nigerian), "Fulfulde, Nigerian", Kano-Katsina-Bororo Fulfulde, Peul]
 population: 14500000

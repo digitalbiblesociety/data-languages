@@ -1,6 +1,8 @@
 ---
 iso: rim
 name: Nyaturu
+name_zh: 尼亚图鲁语
+name_zh_auto: true
 autonym: Nyaturu
 alt_names: [Keremi, Kinyaturu, Kiremi, Kirimi, Limi, Remi, Rimi, Turu]
 population: 892000

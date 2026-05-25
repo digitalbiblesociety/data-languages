@@ -1,6 +1,8 @@
 ---
 iso: rnb
 name: Brunca Sign Language
+name_zh: 布鲁卡手语
+name_zh_auto: true
 country_id: CR
 country_name: Costa Rica
 latitude: 9.978549

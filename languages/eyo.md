@@ -1,6 +1,8 @@
 ---
 iso: eyo
 name: Keiyo
+name_zh: 凯伊约语
+name_zh_auto: true
 autonym: Elgeyo
 alt_names: [Keyo]
 population: 251000

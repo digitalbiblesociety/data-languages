@@ -1,6 +1,8 @@
 ---
 iso: gho
 name: Ghomara
+name_zh: 加马拉语
+name_zh_auto: true
 autonym: Shilha
 alt_names: [Ghmara, Ghomara Berber, Ghumāra]
 population: 10000

@@ -1,6 +1,8 @@
 ---
 iso: kvo
 name: Dobel
+name_zh: 多贝尔语
+name_zh_auto: true
 autonym: Kobro’or
 alt_names: [Aru, Doibel, "Kobro'or", Kobroor, Sersifar Tannin]
 population: 1000

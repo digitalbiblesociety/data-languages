@@ -1,6 +1,8 @@
 ---
 iso: cmt
 name: Camtho
+name_zh: 卡姆托语
+name_zh_auto: true
 autonym: Flaaitaal
 alt_names: [Iscamtho, Isicamtho]
 population: null

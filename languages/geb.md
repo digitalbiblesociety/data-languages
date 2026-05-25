@@ -1,6 +1,8 @@
 ---
 iso: geb
 name: Kire
+name_zh: 基雷语
+name_zh_auto: true
 autonym: Giri
 alt_names: [Gire, Kire-Puire]
 population: 2420

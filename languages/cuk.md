@@ -1,6 +1,8 @@
 ---
 iso: cuk
 name: San Blas Kuna
+name_zh: 圣布拉斯库纳语
+name_zh_auto: true
 autonym: Dulegaya
 alt_names: [Caimán, Cueva, Cuna, Kuna, Kuna (Colombie), Kuna (Panama), Kuna (Panamá), "Kuna, San Blas", Paya-Pocuro, San Blas, San Blas Cuna]
 population: 57100

@@ -1,6 +1,8 @@
 ---
 iso: spc
 name: Sapé
+name_zh: 萨佩语
+name_zh_auto: true
 autonym: Kaliana
 alt_names: [Caliana, Calianá, Cariana, Chirichano, Idioma sapé, Kariana, Sape, Sape-kaliana, Sapea lingvo, Сапески јазик]
 population: 2019

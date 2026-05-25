@@ -1,6 +1,8 @@
 ---
 iso: nly
 name: Nyamal
+name_zh: 尼亚玛尔语
+name_zh_auto: true
 autonym: Gnamo
 alt_names: [Ibarga, Ibargo, Ibarrga, "N'amal", Namal, Namarl, Namel, Njalmal, Njamal, Njamarl, Njamat, Nyamarl, Nyamel, Pundju, Pundju Njamal, "Pundu N'amal", Pundu Namal, Tjingkai Njamal, Wanbarda, Weedokarry, Weedookary, Widagaree, Widagari, Wirdakarri, Witukari, Ñamal]
 population: 20

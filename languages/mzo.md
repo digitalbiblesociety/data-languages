@@ -1,6 +1,8 @@
 ---
 iso: mzo
 name: Matipuhy
+name_zh: 玛蒂普希语
+name_zh_auto: true
 autonym: "Kuikúro-Kalapálo"
 alt_names: [Amonap, Kalapalo, Kuikuro, Mariape-Nahuqua, Matipu, Matipú, Nahukwa]
 population: 10

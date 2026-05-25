@@ -1,6 +1,8 @@
 ---
 iso: haj
 name: Hajong
+name_zh: 哈琼语
+name_zh_auto: true
 autonym: হাজং ভাষা Hajong Bhasa
 alt_names: [Haijong, Hazong, হাজং ভাষা, ภาษาฮาชอง]
 population: 79800

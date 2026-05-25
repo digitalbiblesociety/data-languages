@@ -1,6 +1,8 @@
 ---
 iso: ppi
 name: Paipai
+name_zh: 派派伊语
+name_zh_auto: true
 autonym: "Akwa'ala"
 alt_names: [Cuñeil, "Pai'pai", Paipái]
 population: 300

@@ -1,6 +1,8 @@
 ---
 iso: nmr
 name: Nimbari
+name_zh: 尼姆巴里语
+name_zh_auto: true
 autonym: "Niam-Niam"
 alt_names: [Bari, Group 12, Niamniam, Nimbari-Kebi, Nyam-Nyam du Mayo-Kebi, Nyamnyam]
 population: null

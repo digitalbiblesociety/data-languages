@@ -1,6 +1,8 @@
 ---
 iso: blj
 name: Bolongan
+name_zh: 博隆干语
+name_zh_auto: true
 autonym: Punan Kelai
 alt_names: [Bulungan]
 population: 30000

@@ -1,6 +1,8 @@
 ---
 iso: pin
 name: Piame
+name_zh: 皮亚梅语
+name_zh_auto: true
 autonym: Biami
 population: 100
 country_id: PG

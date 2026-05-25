@@ -1,6 +1,8 @@
 ---
 iso: lbs
 name: Libyan Sign Language
+name_zh: 利比亚手语
+name_zh_auto: true
 autonym: null
 population: 20000
 country_id: LY

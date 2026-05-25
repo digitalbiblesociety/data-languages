@@ -1,6 +1,8 @@
 ---
 iso: nww
 name: Ndwewe
+name_zh: 恩德韦韦语
+name_zh_auto: true
 population: 30000
 country_id: TZ
 country_name: Tanzania

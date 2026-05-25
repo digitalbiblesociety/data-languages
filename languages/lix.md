@@ -1,6 +1,8 @@
 ---
 iso: lix
 name: Liabuku
+name_zh: 利亚布库语
+name_zh_auto: true
 autonym: bahasa Liabuku
 alt_names: [Liabuka]
 population: 75

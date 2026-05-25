@@ -1,6 +1,8 @@
 ---
 iso: agd
 name: Agarabi
+name_zh: 阿加拉比语
+name_zh_auto: true
 autonym: null
 alt_names: [Agarabe, Bare, Gadsup, Gadsup (Agarabi)]
 population: 27000

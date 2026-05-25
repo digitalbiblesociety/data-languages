@@ -1,6 +1,8 @@
 ---
 iso: nyl
 name: Nyeu
+name_zh: 尼欧语
+name_zh_auto: true
 autonym: Kui
 alt_names: [Yeu, Yoe]
 population: 200

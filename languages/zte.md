@@ -1,6 +1,8 @@
 ---
 iso: zte
 name: Elotepec Zapotec
+name_zh: 埃洛特佩克萨波特克语
+name_zh_auto: true
 autonym: (San Juan Elotepec)
 alt_names: [Elotepec, Elotepec Papabuco, Northern Sapoteko, Papabuco, Zapotec, "Zapotec, Elotepec", Zapoteco de San Juan Elotepec]
 population: 200

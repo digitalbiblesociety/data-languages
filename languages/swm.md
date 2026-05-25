@@ -1,6 +1,8 @@
 ---
 iso: swm
 name: Samosa
+name_zh: 萨莫萨语
+name_zh_auto: true
 autonym: null
 population: 90
 country_id: PG

@@ -1,6 +1,8 @@
 ---
 iso: aqd
 name: Ampari Dogon
+name_zh: 安帕里多贡语
+name_zh_auto: true
 autonym: Nyambeeŋge
 alt_names: [Ambeenge, Ampari, "Dogon, Ampari", Pignari]
 population: 5200

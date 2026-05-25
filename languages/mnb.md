@@ -1,6 +1,8 @@
 ---
 iso: mnb
 name: Muna
+name_zh: 穆纳语
+name_zh_auto: true
 autonym: Wamba Wuna
 alt_names: [Mounan, Wuna]
 population: 266000

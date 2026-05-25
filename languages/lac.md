@@ -1,6 +1,8 @@
 ---
 iso: lac
 name: Lacandon
+name_zh: 拉坎顿语
+name_zh_auto: true
 autonym: "Jach-tʼaan "
 alt_names: [Idioma lacandón, Lacandon Maya, Lacandonsk, Lacandón, Lakandonština, Lakantún, Língua lacandona, "Ma:ya", Лакандонски јазик]
 population: 600

@@ -1,6 +1,8 @@
 ---
 iso: xnn
 name: Northern Kankanay
+name_zh: 北坎卡纳语
+name_zh_auto: true
 autonym: "Kankana-ey"
 alt_names: ["Kankanay, Northern", Sagada Igorot, Western Bontoc]
 population: 94100

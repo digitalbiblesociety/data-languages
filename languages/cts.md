@@ -1,6 +1,8 @@
 ---
 iso: cts
 name: Northern Catanduanes Bikol
+name_zh: 北卡坦杜亚内斯比科尔语
+name_zh_auto: true
 autonym: Northern Catanduanes Bicolano
 alt_names: ["Bicolano, Northern Catanduanes", Bikol, "Bikol, Northern Catanduanes", Pandan]
 population: 77500

@@ -1,6 +1,8 @@
 ---
 iso: khf
 name: Khuen
+name_zh: 库恩语
+name_zh_auto: true
 autonym: ᨴᩱ᩠ᨿᨡᩨ᩠ᨶ
 alt_names: [Khouen, Khween, Kven, Kween]
 population: 8000

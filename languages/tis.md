@@ -1,6 +1,8 @@
 ---
 iso: tis
 name: Masadiit Itneg
+name_zh: 玛萨迪特伊特内格语
+name_zh_auto: true
 autonym: null
 alt_names: ["Itneg, Masadiit", Philippines]
 population: 7500

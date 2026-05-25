@@ -1,6 +1,8 @@
 ---
 iso: xte
 name: Ketengban
+name_zh: 克腾班语
+name_zh_auto: true
 autonym: Oktengban
 alt_names: [Kupel]
 population: 9970

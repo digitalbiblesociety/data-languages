@@ -1,6 +1,8 @@
 ---
 iso: ttc
 name: Tektiteko
+name_zh: 特克蒂特克语
+name_zh_auto: true
 autonym: Bʼaʼaj
 alt_names: ["\"Teko\"", Idioma tectiteco, Língua tectiteca, Maya-Tekiteko, Teco, Tectitec, Tectiteco, Tectiteeks, Tectitán Mam, Teko, Tektitek language, Tektitekisk, Tektitèque, Тектитечки јазик]
 population: 4900

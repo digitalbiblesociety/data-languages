@@ -1,6 +1,8 @@
 ---
 iso: lli
 name: "Teke-Laali"
+name_zh: 特克-拉阿利语
+name_zh_auto: true
 autonym: Ilaali
 population: 2100
 country_id: CG

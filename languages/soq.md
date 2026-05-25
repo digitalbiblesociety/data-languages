@@ -1,6 +1,8 @@
 ---
 iso: soq
 name: Kanasi
+name_zh: 卡纳西语
+name_zh_auto: true
 autonym: Sona
 population: 2460
 country_id: PG

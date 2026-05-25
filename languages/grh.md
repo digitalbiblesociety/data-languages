@@ -1,6 +1,8 @@
 ---
 iso: grh
 name: "Gbiri-Niragu"
+name_zh: 吉比里-尼拉古语
+name_zh_auto: true
 autonym: "Gure-Kahugu"
 population: 25000
 country_id: NG

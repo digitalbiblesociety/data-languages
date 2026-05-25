@@ -1,6 +1,8 @@
 ---
 iso: prr
 name: Puri
+name_zh: 普里语
+name_zh_auto: true
 autonym: Coroado
 alt_names: [Colorado]
 population: null

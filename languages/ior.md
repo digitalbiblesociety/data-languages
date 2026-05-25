@@ -1,6 +1,8 @@
 ---
 iso: ior
 name: Inor
+name_zh: 伊诺尔语
+name_zh_auto: true
 autonym: Ennemor
 alt_names: [Gurage, Idioma inor, Innämor, Inor jezik, Inär, Peripheral West Gurage]
 population: 280000

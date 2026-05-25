@@ -1,6 +1,8 @@
 ---
 iso: bmn
 name: Bina
+name_zh: 比纳语
+name_zh_auto: true
 autonym: null
 alt_names: [Bina (Papua New Guinea)]
 population: null

@@ -1,6 +1,8 @@
 ---
 iso: ktk
 name: Kaniet
+name_zh: 卡尼特语
+name_zh_auto: true
 autonym: null
 alt_names: [Admiralitäts-inseln]
 population: null

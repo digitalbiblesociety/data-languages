@@ -1,6 +1,8 @@
 ---
 iso: dwz
 name: Dewas Rai
+name_zh: 德瓦斯赖语
+name_zh_auto: true
 autonym: null
 alt_names: [Danuwar, Danuwar Rai, Danvar, Denwar, Dhanvar, Dhanwar, Dhanwar (Nepal), "Rai, Dewas"]
 population: null

@@ -1,6 +1,8 @@
 ---
 iso: wll
 name: Wali (Sudan)
+name_zh: 瓦利语（苏丹）
+name_zh_auto: true
 autonym: Walari
 alt_names: [Ajang, Nubian (Hill), Walarishe, Wali]
 population: 9000

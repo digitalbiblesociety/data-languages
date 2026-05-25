@@ -1,6 +1,8 @@
 ---
 iso: mdu
 name: Mboko
+name_zh: 姆博科语
+name_zh_auto: true
 autonym: Mboxo
 alt_names: [Mbuku]
 population: 47000

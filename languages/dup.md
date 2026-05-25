@@ -1,6 +1,8 @@
 ---
 iso: dup
 name: Duano
+name_zh: 杜阿诺语
+name_zh_auto: true
 autonym: Desin Dolak
 alt_names: ["Desin Dola'", "Duano'", Orang Kuala]
 population: 15000

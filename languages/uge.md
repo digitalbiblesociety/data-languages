@@ -1,6 +1,8 @@
 ---
 iso: uge
 name: Ughele
+name_zh: 乌格勒语
+name_zh_auto: true
 autonym: Ugele
 alt_names: [Ughele language]
 population: 1200

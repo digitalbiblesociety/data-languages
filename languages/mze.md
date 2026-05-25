@@ -1,6 +1,8 @@
 ---
 iso: mze
 name: Morawa
+name_zh: 莫拉瓦语
+name_zh_auto: true
 autonym: null
 population: 1100
 country_id: PG

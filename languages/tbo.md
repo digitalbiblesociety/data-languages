@@ -1,6 +1,8 @@
 ---
 iso: tbo
 name: Tawala
+name_zh: 塔瓦拉语
+name_zh_auto: true
 autonym: Kehelala
 alt_names: [Tavara, Tawara]
 population: 10000

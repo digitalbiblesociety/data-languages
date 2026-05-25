@@ -1,6 +1,8 @@
 ---
 iso: gta
 name: Guató
+name_zh: 瓜托语
+name_zh_auto: true
 autonym: go-t͡ʃéuvɨ́ i-ótɨ́
 alt_names: [Guato]
 population: 382

@@ -1,6 +1,8 @@
 ---
 iso: ail
 name: Aimele
+name_zh: 艾梅莱语
+name_zh_auto: true
 autonym: Kware
 alt_names: [Eibela]
 population: 140

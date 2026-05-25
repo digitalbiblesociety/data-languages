@@ -1,6 +1,8 @@
 ---
 iso: lww
 name: Lewo
+name_zh: 勒沃语
+name_zh_auto: true
 autonym: Varsu
 population: 2200
 country_id: VU

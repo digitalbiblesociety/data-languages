@@ -1,6 +1,8 @@
 ---
 iso: bjl
 name: Bulu (Papua New Guinea)
+name_zh: 布卢语（巴布亚新几内亚）
+name_zh_auto: true
 autonym: null
 alt_names: [Bulu]
 population: 910

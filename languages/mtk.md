@@ -1,6 +1,8 @@
 ---
 iso: mtk
 name: "Mbe'"
+name_zh: 姆贝语
+name_zh_auto: true
 autonym: Mbe’
 alt_names: [Mbaw, Mbe, Mbo]
 population: 1490

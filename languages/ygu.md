@@ -1,6 +1,8 @@
 ---
 iso: ygu
 name: Yugul
+name_zh: 尤古尔语
+name_zh_auto: true
 autonym: (unattested)
 population: null
 country_id: AU

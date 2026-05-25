@@ -1,6 +1,8 @@
 ---
 iso: txx
 name: Tatana
+name_zh: 塔塔纳语
+name_zh_auto: true
 autonym: Sabah Bisaya
 alt_names: ["Tatana'", Tatanaq]
 population: 5500

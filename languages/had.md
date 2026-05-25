@@ -1,6 +1,8 @@
 ---
 iso: had
 name: Hatam
+name_zh: 哈塔姆语
+name_zh_auto: true
 autonym: Adihup
 alt_names: [Atam, Borai, Hattam, Mansim, Miriei, Moi, Tinam, Uran]
 population: 16000

@@ -1,6 +1,8 @@
 ---
 iso: rrt
 name: Arritinngithigh
+name_zh: 阿瑞廷吉蒂格语
+name_zh_auto: true
 autonym: null
 alt_names: [Adetingiti, Adithinngithigh, Aritinngitigh]
 population: null

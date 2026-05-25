@@ -1,6 +1,8 @@
 ---
 iso: lip
 name: Sekpele
+name_zh: 塞克佩莱语
+name_zh_auto: true
 autonym: Sekpele
 alt_names: [Bosele, Likpe, Mu, Sɛkpɛlé]
 population: 23000

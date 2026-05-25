@@ -1,6 +1,8 @@
 ---
 iso: ptv
 name: Port Vato
+name_zh: 波特瓦图语
+name_zh_auto: true
 autonym: Daakie
 alt_names: [Vanuatu]
 population: 1300

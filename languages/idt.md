@@ -1,6 +1,8 @@
 ---
 iso: idt
 name: Idaté
+name_zh: 伊达特语
+name_zh_auto: true
 autonym: null
 alt_names: [East Timor, Idate]
 population: 5000

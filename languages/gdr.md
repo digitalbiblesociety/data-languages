@@ -1,6 +1,8 @@
 ---
 iso: gdr
 name: Wipi
+name_zh: 维皮语
+name_zh_auto: true
 autonym: Gidra
 alt_names: [Jibu, Oriomo]
 population: 3500

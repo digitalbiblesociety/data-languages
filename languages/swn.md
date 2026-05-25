@@ -1,6 +1,8 @@
 ---
 iso: swn
 name: Sawknah
+name_zh: 萨克纳语
+name_zh_auto: true
 autonym: Tasuknit
 alt_names: [Sawkna, Sawknah jezik, Sokna, Сокна]
 population: 5600

@@ -1,6 +1,8 @@
 ---
 iso: cuy
 name: Cuitlatec
+name_zh: 库伊特拉特克语
+name_zh_auto: true
 autonym: Uhpɨnéʔlu
 alt_names: [Kwitlateko]
 population: null

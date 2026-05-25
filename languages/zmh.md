@@ -1,6 +1,8 @@
 ---
 iso: zmh
 name: Makolkol
+name_zh: 马科尔科尔语
+name_zh_auto: true
 autonym: (unattested)
 alt_names: [Neu-Pommern]
 population: 1988

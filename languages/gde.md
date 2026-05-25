@@ -1,6 +1,8 @@
 ---
 iso: gde
 name: Gude
+name_zh: 古德语
+name_zh_auto: true
 autonym: Cheke
 alt_names: [Goude, Mapodi, Mapuda, Mocigin, Motchekin, Mubi, Mudaye, Shede, Tchade, Tcheke]
 population: 88000

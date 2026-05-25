@@ -1,6 +1,8 @@
 ---
 iso: kvb
 name: Kubu
+name_zh: 库布语
+name_zh_auto: true
 autonym: Rimba
 alt_names: [Indonesia]
 population: 10000

@@ -1,6 +1,8 @@
 ---
 iso: ukh
 name: Ukhwejo
+name_zh: 乌克韦乔语
+name_zh_auto: true
 autonym: Benkonjo
 population: 2000
 country_id: CF

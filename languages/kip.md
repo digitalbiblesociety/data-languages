@@ -1,6 +1,8 @@
 ---
 iso: kip
 name: Sheshi Kham
+name_zh: 谢什卡姆语
+name_zh_auto: true
 autonym: Kham language
 alt_names: [Kham, "Kham, Sheshi", "Kham,Sheshi", Khamkura, Khams, Proto-Kham, Sheshi]
 population: 20000

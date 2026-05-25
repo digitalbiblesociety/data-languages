@@ -1,6 +1,8 @@
 ---
 iso: mwg
 name: Aiklep
+name_zh: 艾克莱普语
+name_zh_auto: true
 autonym: Agerlep
 alt_names: [Eklep, Kaul, Moewehafen]
 population: 3700

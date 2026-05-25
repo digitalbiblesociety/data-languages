@@ -1,6 +1,8 @@
 ---
 iso: teb
 name: Tetete
+name_zh: 特特特语
+name_zh_auto: true
 autonym: Gantëya coca
 population: null
 country_id: EC

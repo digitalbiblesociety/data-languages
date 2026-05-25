@@ -1,6 +1,8 @@
 ---
 iso: amp
 name: Alamblak
+name_zh: 阿兰布拉克语
+name_zh_auto: true
 autonym: null
 alt_names: [Alamblakeg, Arambak, Język alamblak, Lenga Alamblak, Lingua alamblak]
 population: 1530

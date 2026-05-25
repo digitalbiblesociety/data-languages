@@ -1,6 +1,8 @@
 ---
 iso: dsn
 name: Dusner
+name_zh: 杜斯内尔语
+name_zh_auto: true
 autonym: Dusnir
 population: null
 country_id: ID

@@ -1,6 +1,8 @@
 ---
 iso: row
 name: "Dela-Oenale"
+name_zh: 德拉-欧埃纳莱语
+name_zh_auto: true
 autonym: Western Rote
 alt_names: [Dela, Delha, Oe Nale, Rote, Rote Barat, Roti, Rotinese, Rotti]
 population: 7000

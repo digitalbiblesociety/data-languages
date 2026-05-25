@@ -1,6 +1,8 @@
 ---
 iso: kms
 name: Kamasau
+name_zh: 卡马萨乌语
+name_zh_auto: true
 autonym: null
 alt_names: [Komasau, Komassau, Sagi, Wand Tuan]
 population: 960

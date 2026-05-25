@@ -1,6 +1,8 @@
 ---
 iso: agc
 name: Agatu
+name_zh: 阿加图语
+name_zh_auto: true
 autonym: North Idoma
 alt_names: [Ochekwu]
 population: 70000

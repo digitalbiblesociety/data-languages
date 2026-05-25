@@ -1,6 +1,8 @@
 ---
 iso: mkc
 name: Siliput
+name_zh: 西利普特语
+name_zh_auto: true
 autonym: Maimai
 alt_names: [Mai, Seleput, Sokorok]
 population: 242

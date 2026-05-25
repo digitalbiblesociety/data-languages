@@ -1,6 +1,8 @@
 ---
 iso: tmg
 name: Ternateño
+name_zh: 特纳特尼奥语
+name_zh_auto: true
 autonym: Ternateño
 alt_names: [Portugis language, Ternateno, Ternatenyo]
 population: null

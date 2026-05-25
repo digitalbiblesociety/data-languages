@@ -1,6 +1,8 @@
 ---
 iso: xdq
 name: Kaitag
+name_zh: 凯塔格语
+name_zh_auto: true
 autonym: хайдакьан кув
 alt_names: [Kaitak, Kajtak, Kaytak, Xajdak]
 population: 21000

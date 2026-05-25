@@ -1,6 +1,8 @@
 ---
 iso: mkq
 name: Bay Miwok
+name_zh: 湾迈沃克语
+name_zh_auto: true
 autonym: Saclan
 alt_names: ["Miwok, Bay", Sakaiakumni, Saklan]
 population: null

@@ -1,6 +1,8 @@
 ---
 iso: mbc
 name: Macushi
+name_zh: 马库西语
+name_zh_auto: true
 autonym: Macuší
 alt_names: [Macushi (Brésil), Macushi (Guyane), Macusi, Macussi, Macusí (Guyana), Macuxi, Macuxí, Makouchieg, Makuchi, Makushi, Makushí, Makusi, Makuxi, Makuxí, Makušių kalba, Teueia, Teweya, Макуши]
 population: 15930

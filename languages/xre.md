@@ -1,6 +1,8 @@
 ---
 iso: xre
 name: Kreye
+name_zh: 克雷耶语
+name_zh_auto: true
 autonym: Taje
 alt_names: [Bacabal, Canela, Crange, Crenge, Crengez, Crenye, Creye, Gavião du Pará, Gavião pukobiê, Kanela, Krahó, Krahô, Krem-Ye, Kremye, Krenjé, Krenjê, Krikati, Pukobyé, Pukobyê, Tage, Taze, Timbira]
 population: null

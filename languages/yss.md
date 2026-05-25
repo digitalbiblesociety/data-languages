@@ -1,6 +1,8 @@
 ---
 iso: yss
 name: "Yessan-Mayo"
+name_zh: 耶桑-玛约语
+name_zh_auto: true
 autonym: "Yessan-Mayo"
 alt_names: [Maio-Yesan, Mayo, Mayo-Yesan, Yamano, Yasi, Yasyin, Yesan]
 population: 1990

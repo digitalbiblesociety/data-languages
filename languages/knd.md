@@ -1,6 +1,8 @@
 ---
 iso: knd
 name: Konda
+name_zh: 孔达语
+name_zh_auto: true
 autonym: Ogit
 alt_names: [Yabin, Yabin-Konda]
 population: 500

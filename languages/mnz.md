@@ -1,6 +1,8 @@
 ---
 iso: mnz
 name: Moni
+name_zh: 莫尼语
+name_zh_auto: true
 autonym: Djonggunu
 alt_names: [Jonggunu, Migani]
 population: 20000

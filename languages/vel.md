@@ -1,6 +1,8 @@
 ---
 iso: vel
 name: Veluws
+name_zh: 韦卢斯语
+name_zh_auto: true
 autonym: Veluws
 population: 175000
 country_id: NL

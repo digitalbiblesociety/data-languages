@@ -1,6 +1,8 @@
 ---
 iso: bru
 name: Eastern Bru
+name_zh: 东布鲁语
+name_zh_auto: true
 autonym: Bruu
 alt_names: [Baroo, Brou, Bru, Bru (Eastern), "Bru, Eastern", Bru/Vankieu, Eastern, Leu, Leung, "Moi-Cà-lò'", Muong Leong, Quang Tri Bru, Quàngtri Vân Kiêu, Tri, Van Kieu]
 population: 112400

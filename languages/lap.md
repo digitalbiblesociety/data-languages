@@ -1,6 +1,8 @@
 ---
 iso: lap
 name: Laka (Chad)
+name_zh: 拉卡语(乍得)
+name_zh_auto: true
 autonym: Kabba Laka
 alt_names: [Laka]
 population: 57150

@@ -1,6 +1,8 @@
 ---
 iso: mrl
 name: Mortlockese
+name_zh: 莫特洛克语
+name_zh_auto: true
 autonym: " Kapsen Mwoshulók"
 alt_names: [Mortlock, Nomoi]
 population: 1000

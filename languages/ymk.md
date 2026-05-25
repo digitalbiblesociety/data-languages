@@ -1,6 +1,8 @@
 ---
 iso: ymk
 name: Makwe
+name_zh: 马克韦语
+name_zh_auto: true
 autonym: Kimakwe
 alt_names: [Macue, Maraba, Palma]
 population: 22000

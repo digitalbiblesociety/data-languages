@@ -1,6 +1,8 @@
 ---
 iso: tbd
 name: Kaki Ae
+name_zh: 卡基艾语
+name_zh_auto: true
 autonym: Tate
 alt_names: [Lorabada, Lou, Raepa Tati, Raepa-Tati, Takia language, Tate (Raepa-Tati), Tati]
 population: 1275

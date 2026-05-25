@@ -1,6 +1,8 @@
 ---
 iso: wlw
 name: Walak
+name_zh: 瓦拉克语
+name_zh_auto: true
 autonym: Lower Pyramid
 alt_names: [Wodo]
 population: 1500

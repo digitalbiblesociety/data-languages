@@ -1,6 +1,8 @@
 ---
 iso: gge
 name: "Gurr-goni"
+name_zh: 古尔-戈尼语
+name_zh_auto: true
 autonym: Gungurugoni
 alt_names: [Gorogone, Gudjartabiyi, Gun-Guragone, Gunagoragone, Gungarawoni, Gungoragone, Gungoragoni, "Gungoro:lgo:ngi", Gungorogone, Gungorragonni, Gungorrogone, Gungurulgungi, Guragone, Guragone language, Gurrgoni, Gurrogone, Gurrogoni, Gurugoni, Gutjertabia]
 population: 60

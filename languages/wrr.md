@@ -1,6 +1,8 @@
 ---
 iso: wrr
 name: Wardaman
+name_zh: 沃德曼语
+name_zh_auto: true
 autonym: Yangmanic
 alt_names: [Lenga wardaman, Wadaman, Wadderman, Waderman, Waduman, "Warda'man", Wardeman, Wardman, Warduman, Wartaman, Wordaman]
 population: 50

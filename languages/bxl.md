@@ -1,6 +1,8 @@
 ---
 iso: bxl
 name: Jalkunan
+name_zh: 贾尔库南语
+name_zh_auto: true
 autonym: Blé
 alt_names: [Dyala, Dyalanu, Jalakuna, Jalkuna, Jelkuna]
 population: 1000

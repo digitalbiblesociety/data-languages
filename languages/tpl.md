@@ -1,6 +1,8 @@
 ---
 iso: tpl
 name: "Tlacoapa Me'phaa"
+name_zh: 特拉科亚梅法语
+name_zh_auto: true
 autonym: Me̱ꞌpha̱a̱
 alt_names: [Guerrero, "Me'pa", "Me'phaa", "Me'phaa, Tlacoapa", Mínguíín, Tlacoapa Tlapanec, Tlapanec, "Tlapanec, Tlacoapa", Tlapaneco, Tlapaneco de Tlacoapa, Tlapaneco-Sutiaba, Tlapaneko, Tlappanec]
 population: 18000

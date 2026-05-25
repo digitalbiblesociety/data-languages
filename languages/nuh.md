@@ -1,6 +1,8 @@
 ---
 iso: nuh
 name: Ndunda
+name_zh: 恩敦达语
+name_zh_auto: true
 autonym: null
 population: 350
 country_id: NG

@@ -1,6 +1,8 @@
 ---
 iso: ntr
 name: Delo
+name_zh: 德洛语
+name_zh_auto: true
 autonym: Ntribu
 alt_names: [Ntribou, Ntrubo, Tribu]
 population: 18400

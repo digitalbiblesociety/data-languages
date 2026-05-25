@@ -1,6 +1,8 @@
 ---
 iso: ikz
 name: Ikizu
+name_zh: 伊基祖语
+name_zh_auto: true
 autonym: Ikikizu
 alt_names: [Ikikizo, Kiikizu]
 population: 52900

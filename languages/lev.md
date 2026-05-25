@@ -1,6 +1,8 @@
 ---
 iso: lev
 name: Lamma
+name_zh: 拉玛语
+name_zh_auto: true
 autonym: bahasa Lamma
 alt_names: ["Lamma'", Lemma, Mauta, Pantar Barat, Tubbe, Western Pantar, Western Pantar language, ภาษาปันตาร์ตะวันตก]
 population: 10000

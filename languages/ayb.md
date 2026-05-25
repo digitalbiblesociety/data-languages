@@ -1,6 +1,8 @@
 ---
 iso: ayb
 name: Ayizo Gbe
+name_zh: 艾伊佐格贝语
+name_zh_auto: true
 autonym: Ayizo
 alt_names: [Ayizo-Gbe, Ayzo, "Gbe, Ayizo"]
 population: 476000

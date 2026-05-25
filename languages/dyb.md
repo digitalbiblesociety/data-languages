@@ -1,6 +1,8 @@
 ---
 iso: dyb
 name: Dyaberdyaber
+name_zh: 贾伯迪亚伯语
+name_zh_auto: true
 autonym: Dyaberdyaber
 alt_names: [Djaba Djaba, Djaber Djaber, Djaberadjaber, Djaberadjabera, Djaberdjaber, Djabirdjabir, Djabirr Djabirr, Dyabir-Dyabir, Jabirr Jabirr, Jabirr-Jabirr, Jabirrjabirr, Tjabartjabara, Tjabiratjabir, Tjabirtjabira]
 population: null

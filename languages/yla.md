@@ -1,6 +1,8 @@
 ---
 iso: yla
 name: Yaul
+name_zh: 亚乌尔语
+name_zh_auto: true
 autonym: Ulwa
 population: 1210
 country_id: PG

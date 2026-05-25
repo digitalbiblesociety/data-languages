@@ -1,6 +1,8 @@
 ---
 iso: asj
 name: Sari
+name_zh: 萨里语
+name_zh_auto: true
 autonym: Nsari
 alt_names: [Akweto, Pesaa, Sali]
 population: 7000

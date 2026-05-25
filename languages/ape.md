@@ -1,6 +1,8 @@
 ---
 iso: ape
 name: Bukiyip
+name_zh: 布基伊普语
+name_zh_auto: true
 autonym: Mountain Arapesh
 alt_names: [Arapesh, Arapeso montañés, Bukiyúp, Kavu, Kawu]
 population: 16200

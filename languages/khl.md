@@ -1,6 +1,8 @@
 ---
 iso: khl
 name: Lusi
+name_zh: 卢西语
+name_zh_auto: true
 autonym: Kaliai
 alt_names: [Kaliai-Kove]
 population: 2000

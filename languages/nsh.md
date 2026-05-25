@@ -1,6 +1,8 @@
 ---
 iso: nsh
 name: Ngoshie
+name_zh: 恩戈什语
+name_zh_auto: true
 autonym: Ngishe
 alt_names: [Oshie]
 population: 9200

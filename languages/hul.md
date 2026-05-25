@@ -1,6 +1,8 @@
 ---
 iso: hul
 name: Hula
+name_zh: 胡拉语
+name_zh_auto: true
 autonym: "Vula'a"
 alt_names: [Vulaa]
 population: 3240

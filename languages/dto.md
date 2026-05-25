@@ -1,6 +1,8 @@
 ---
 iso: dto
 name: Tommo So Dogon
+name_zh: 托莫索多贡语
+name_zh_auto: true
 autonym: "Tombo-So"
 alt_names: ["Dogon, Tommo So"]
 population: 40000

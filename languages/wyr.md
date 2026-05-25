@@ -1,6 +1,8 @@
 ---
 iso: wyr
 name: Wayoró
+name_zh: 瓦约罗语
+name_zh_auto: true
 autonym: Ajurú
 alt_names: [Ajuru, Ayuru, Ayurú, Huayoró, Uaiora, Uaioró, Wajaru, Wayoro, Wayru, Wayurú]
 population: null

@@ -1,6 +1,8 @@
 ---
 iso: xyb
 name: Yandjibara
+name_zh: 扬季巴拉语
+name_zh_auto: true
 autonym: Southern Maric
 population: null
 country_id: AU

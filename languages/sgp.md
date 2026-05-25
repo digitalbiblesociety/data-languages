@@ -1,6 +1,8 @@
 ---
 iso: sgp
 name: Singpho
+name_zh: 辛光语
+name_zh_auto: true
 autonym: Jingphaw
 alt_names: [Kachin, Sing-Fo, Yingpho]
 population: 2500

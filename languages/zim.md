@@ -1,6 +1,8 @@
 ---
 iso: zim
 name: Mesme
+name_zh: 梅斯梅语
+name_zh_auto: true
 autonym: Zime
 alt_names: [Djime, Djiwe]
 population: 20100

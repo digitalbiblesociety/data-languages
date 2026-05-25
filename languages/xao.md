@@ -1,6 +1,8 @@
 ---
 iso: xao
 name: Khao
+name_zh: 卡奥语
+name_zh_auto: true
 autonym: Mang U’
 population: 10000
 country_id: VN

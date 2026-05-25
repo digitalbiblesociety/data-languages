@@ -1,6 +1,8 @@
 ---
 iso: mqv
 name: Mosimo
+name_zh: 莫西莫语
+name_zh_auto: true
 autonym: null
 population: 50
 country_id: PG

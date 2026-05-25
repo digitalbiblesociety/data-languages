@@ -1,6 +1,8 @@
 ---
 iso: bgb
 name: Bobongko
+name_zh: 博邦科语
+name_zh_auto: true
 autonym: bahasa Bobongko
 population: 1100
 country_id: ID

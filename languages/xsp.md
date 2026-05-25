@@ -1,6 +1,8 @@
 ---
 iso: xsp
 name: Silopi
+name_zh: 西洛皮语
+name_zh_auto: true
 autonym: null
 population: 180
 country_id: PG

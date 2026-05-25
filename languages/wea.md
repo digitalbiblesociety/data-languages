@@ -1,6 +1,8 @@
 ---
 iso: wea
 name: Wewaw
+name_zh: 韦瓦语
+name_zh_auto: true
 autonym: ကညီကျိာ်
 alt_names: [Wewau]
 population: null

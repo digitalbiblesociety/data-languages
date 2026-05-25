@@ -1,6 +1,8 @@
 ---
 iso: lko
 name: Khayo
+name_zh: 卡约语
+name_zh_auto: true
 autonym: Olukhayo
 population: null
 country_id: KE

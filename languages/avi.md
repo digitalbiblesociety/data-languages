@@ -1,6 +1,8 @@
 ---
 iso: avi
 name: Avikam
+name_zh: 阿维卡姆语
+name_zh_auto: true
 autonym: Avekom
 alt_names: [Brignan, Brinya, Gbanda, Kwakwa, Lahu, Lenga Avikam]
 population: 21000

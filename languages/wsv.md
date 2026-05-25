@@ -1,6 +1,8 @@
 ---
 iso: wsv
 name: "Wotapuri-Katarqalai"
+name_zh: 沃塔普里-卡塔尔卡莱语
+name_zh_auto: true
 autonym: null
 alt_names: [Dardu, Katarkalai, Votapurí, Wotapuri, Wotapūrī-Katāqalāī]
 population: null

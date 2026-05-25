@@ -1,6 +1,8 @@
 ---
 iso: hoy
 name: Holiya
+name_zh: 霍利亚语
+name_zh_auto: true
 autonym: Gohllaru
 alt_names: [Golari-Kannada, Holar, Holari, Hole, Holian, Holu]
 population: 500

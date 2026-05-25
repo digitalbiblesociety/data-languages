@@ -1,6 +1,8 @@
 ---
 iso: mfx
 name: Melo
+name_zh: 梅洛语
+name_zh_auto: true
 autonym: Malo
 alt_names: [Mello]
 population: 20200

@@ -1,6 +1,8 @@
 ---
 iso: poo
 name: Central Pomo
+name_zh: 中部波莫语
+name_zh_auto: true
 autonym: "Ballo-Kai-Pomo"
 alt_names: [Cabanapo, Central, "H'hana", Habenapo, Khabenapo, Khana, Kulanapan, Kulanapo, Kábinapek, Oat Valley, Pomo, Pomo (Central), Pomo central, "Pomo, Central", Venaambakaia, Venambakaiia, Yokaia, Yokaya]
 population: null

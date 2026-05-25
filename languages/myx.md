@@ -1,6 +1,8 @@
 ---
 iso: myx
 name: Masaaba
+name_zh: 玛萨巴语
+name_zh_auto: true
 autonym: Lumasaba
 alt_names: [Gisu, Język masaba, Lugisu, Língua masaba, Masaba, Masaba language]
 population: 1650000

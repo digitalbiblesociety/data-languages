@@ -1,6 +1,8 @@
 ---
 iso: jbr
 name: "Jofotek-Bromnya"
+name_zh: 乔弗特克-布罗姆尼亚语
+name_zh_auto: true
 autonym: bahasa Jofotek-Bromnya
 population: 200
 country_id: ID

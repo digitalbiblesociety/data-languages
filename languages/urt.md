@@ -1,6 +1,8 @@
 ---
 iso: urt
 name: Urat
+name_zh: 乌拉特语
+name_zh_auto: true
 autonym: null
 alt_names: [Urakin, Wasepnau]
 population: 7000

@@ -1,6 +1,8 @@
 ---
 iso: prz
 name: Providencia Sign Language
+name_zh: 普罗维登西亚手语
+name_zh_auto: true
 autonym: Provisle
 alt_names: [Lengua de señas de Providencia, Língua de Sinais da Providência, Providence Island Sign Language, Providencia-tegnspråk]
 population: 2500

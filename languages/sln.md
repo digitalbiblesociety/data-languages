@@ -1,6 +1,8 @@
 ---
 iso: sln
 name: Salinan
+name_zh: 萨利南语
+name_zh_auto: true
 autonym: null
 alt_names: [Idioma salinero, USA, Салинский язык]
 population: null

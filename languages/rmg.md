@@ -1,6 +1,8 @@
 ---
 iso: rmg
 name: Traveller Norwegian
+name_zh: 挪威旅行者语
+name_zh_auto: true
 autonym: Tater Language
 alt_names: [Norwegian Traveller, "Norwegian, Traveller", Rodi, Rodi language]
 population: 100

@@ -1,6 +1,8 @@
 ---
 iso: aby
 name: Aneme Wake
+name_zh: 安姆韦克语
+name_zh_auto: true
 autonym: Abia
 alt_names: [Abie]
 population: 650

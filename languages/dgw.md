@@ -1,6 +1,8 @@
 ---
 iso: dgw
 name: Daungwurrung
+name_zh: 东格武隆语
+name_zh_auto: true
 autonym: Daung Wurrung
 population: null
 country_id: AU

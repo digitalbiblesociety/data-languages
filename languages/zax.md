@@ -1,6 +1,8 @@
 ---
 iso: zax
 name: Xadani Zapotec
+name_zh: 夏达尼-萨波特克语
+name_zh_auto: true
 autonym: (Santa María Xadani)
 alt_names: [Southern Sapoteko, Zapotec, "Zapotec, Xadani", Zapoteco de Asunción Tlacolulita, "Zapotèque d'Asunción Tlacolulita"]
 population: 340

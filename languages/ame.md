@@ -1,6 +1,8 @@
 ---
 iso: ame
 name: "Yanesha'"
+name_zh: 亚内沙语
+name_zh_auto: true
 autonym: Yaneshac̈h
 alt_names: [Amage, Amagues, Amaje, Amajo, Amoesha, Amoishe, Amueixa, Amuese, Amuesha, Amuetamo, Amuexa, Lorenzo, Omage, Yanesha]
 population: 7520

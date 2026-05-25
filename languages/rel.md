@@ -1,6 +1,8 @@
 ---
 iso: rel
 name: Rendille
+name_zh: 伦迪莱语
+name_zh_auto: true
 autonym: Randile
 alt_names: [Kenyan Rendille, Rendile, Rendille hizkuntza]
 population: 96300

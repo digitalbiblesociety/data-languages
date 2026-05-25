@@ -1,6 +1,8 @@
 ---
 iso: xtc
 name: "Katcha-Kadugli-Miri"
+name_zh: 卡特查-卡杜格利-米里语
+name_zh_auto: true
 autonym: Central Kadu
 alt_names: [Kadugli, Katcha]
 population: 75000

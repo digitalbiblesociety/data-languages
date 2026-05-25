@@ -1,6 +1,8 @@
 ---
 iso: btr
 name: Baetora
+name_zh: 巴特劳拉语
+name_zh_auto: true
 autonym: South Maewo
 population: 1330
 country_id: VU

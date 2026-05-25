@@ -1,6 +1,8 @@
 ---
 iso: nrx
 name: Ngurmbur
+name_zh: 恩古尔布尔语
+name_zh_auto: true
 autonym: Ngomburr
 alt_names: [Ambugula, "Ambuku:la", Corm-bur, Gnormbur, Gnornbur, Gnumbu, Język ngurmbur, Koarnbut, Nambuguja, Ngombur, Ngorbu, Ngorbur, Ngorm-bur, Ngormbal, Ngormbu, Ngormbur, Ngumbu, Ngumbur, Ngurmbu, Ngurrumbudj, Numbu-gala, Oorm-bur, Oormbur]
 population: null

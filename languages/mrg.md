@@ -1,6 +1,8 @@
 ---
 iso: mrg
 name: Mising
+name_zh: 米辛语
+name_zh_auto: true
 autonym: Mising–Padam–Minyong
 alt_names: [Hill Miri, Miri, Mishing, Plains Miri, Takam]
 population: 630000

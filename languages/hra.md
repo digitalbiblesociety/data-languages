@@ -1,6 +1,8 @@
 ---
 iso: hra
 name: Hrangkhol
+name_zh: 赫朗科尔语
+name_zh_auto: true
 autonym: Hrangkhawl
 alt_names: [Hrangchol, Rancol, Rangkhol, Rāngkhōl]
 population: 18700

@@ -1,6 +1,8 @@
 ---
 iso: tal
 name: Tal
+name_zh: 塔尔语
+name_zh_auto: true
 autonym: null
 alt_names: [Amtul, Kwabzak]
 population: 10000

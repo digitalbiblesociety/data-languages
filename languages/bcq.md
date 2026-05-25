@@ -1,6 +1,8 @@
 ---
 iso: bcq
 name: Bench
+name_zh: 本奇语
+name_zh_auto: true
 autonym: Bencnon
 alt_names: ["Benc'", Bencho, Bensho, Dizu, Ghimarra, Gimarra, Gimira, Kaba, She]
 population: 348000

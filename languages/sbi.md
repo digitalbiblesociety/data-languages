@@ -1,6 +1,8 @@
 ---
 iso: sbi
 name: Seti
+name_zh: 塞蒂语
+name_zh_auto: true
 autonym: null
 alt_names: [Aunalei]
 population: 160

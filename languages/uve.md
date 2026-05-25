@@ -1,6 +1,8 @@
 ---
 iso: uve
 name: West Uvean
+name_zh: 西乌维阿语
+name_zh_auto: true
 autonym: Fagauvea
 alt_names: [Faga-Uvea, Fagauvea (nord), Fagauvea (sud), "Uvean, West", Uveano (meridional)]
 population: 1110

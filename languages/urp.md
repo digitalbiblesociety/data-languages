@@ -1,6 +1,8 @@
 ---
 iso: urp
 name: "Uru-Pa-In"
+name_zh: 乌鲁-帕-因语
+name_zh_auto: true
 autonym: null
 alt_names: [Brazil]
 population: 200

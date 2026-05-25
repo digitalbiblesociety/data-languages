@@ -1,6 +1,8 @@
 ---
 iso: slm
 name: Pangutaran Sama
+name_zh: 潘古塔兰萨玛语
+name_zh_auto: true
 autonym: Siyama
 alt_names: ["Sama, Pangutaran"]
 population: 35200

@@ -1,6 +1,8 @@
 ---
 iso: llq
 name: Lolak
+name_zh: 洛拉克语
+name_zh_auto: true
 autonym: bahasa Lolak
 population: 3000
 country_id: ID

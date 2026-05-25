@@ -1,6 +1,8 @@
 ---
 iso: mju
 name: "Manna-Dora"
+name_zh: 曼纳-多拉语
+name_zh_auto: true
 autonym: null
 population: 30000
 country_id: IN

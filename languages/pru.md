@@ -1,6 +1,8 @@
 ---
 iso: pru
 name: Puragi
+name_zh: 普拉吉语
+name_zh_auto: true
 autonym: Iwaro
 alt_names: [Mogao]
 population: 700

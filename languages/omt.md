@@ -1,6 +1,8 @@
 ---
 iso: omt
 name: Omotik
+name_zh: 奥莫蒂克语
+name_zh_auto: true
 autonym: Laamoot
 alt_names: ["\"Ndorobo\"", Omotic, Omótico]
 population: 200

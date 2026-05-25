@@ -1,6 +1,8 @@
 ---
 iso: dik
 name: Southwestern Dinka
+name_zh: 西南丁卡语
+name_zh_auto: true
 autonym: Thuɔŋjäŋ
 alt_names: [Dinka, "Dinka, Southwestern", Rek, West-Dinka, Western Dinka]
 population: 1370000

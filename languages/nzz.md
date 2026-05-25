@@ -1,6 +1,8 @@
 ---
 iso: nzz
 name: Nanga Dama Dogon
+name_zh: 南加达玛多贡语
+name_zh_auto: true
 autonym: Naŋa tegu
 alt_names: ["Dogon, Nanga Dama", Nanga, Nanga Dogon]
 population: 3000

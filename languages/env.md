@@ -1,6 +1,8 @@
 ---
 iso: env
 name: Enwan (Edu State)
+name_zh: 恩万语（埃多州）
+name_zh_auto: true
 autonym: null
 alt_names: [Enwan, Enwan (Edo State), Nigeria]
 population: 14000

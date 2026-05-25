@@ -1,6 +1,8 @@
 ---
 iso: bvd
 name: Baeggu
+name_zh: 拜古语
+name_zh_auto: true
 autonym: Mbaenggu
 alt_names: [Baegu, Südliche Salomons-Inseln]
 population: 5900

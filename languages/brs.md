@@ -1,6 +1,8 @@
 ---
 iso: brs
 name: Baras
+name_zh: 巴拉斯语
+name_zh_auto: true
 autonym: Ende
 alt_names: [ToriBara]
 population: 250

@@ -1,6 +1,8 @@
 ---
 iso: ruz
 name: Ruma
+name_zh: 鲁玛语
+name_zh_auto: true
 autonym: Turuma
 alt_names: [Bagwama, Rurama, Ruruma, Turama]
 population: 5090

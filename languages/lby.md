@@ -1,6 +1,8 @@
 ---
 iso: lby
 name: Lamalama
+name_zh: 拉马拉玛语
+name_zh_auto: true
 autonym: Mba Rumbathama
 alt_names: [Bakanambia, Barum Bathama, Korko Lama Lama, Lama-Lama, Lamu-Lamu, Lamulamul, Mba Rrumbathama, Mbarrumbathama]
 population: null

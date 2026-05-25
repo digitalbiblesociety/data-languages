@@ -1,6 +1,8 @@
 ---
 iso: mkt
 name: Vamale
+name_zh: 瓦玛勒语
+name_zh_auto: true
 autonym: Hmwaeke
 alt_names: [Moaeke, Neukaledonien, Pamale]
 population: 150

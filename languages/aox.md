@@ -1,6 +1,8 @@
 ---
 iso: aox
 name: Atorada
+name_zh: 阿托拉达语
+name_zh_auto: true
 autonym: Atoraí
 alt_names: ["Ator'ti", Atorad, Atorai, Atoroi, Dauri, Mawayana (Brésil), Mawayana (Guyana), Mawayana (Guyane), Uapixana, Vapidiana, Wapishana, Wapishana (Brésil), Wapishana (Guyana), Wapishana (Guyane), Wapisiana, Wapixana, Wapixiána]
 population: null

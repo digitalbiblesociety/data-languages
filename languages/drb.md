@@ -1,6 +1,8 @@
 ---
 iso: drb
 name: Dair
+name_zh: 黛尔语
+name_zh_auto: true
 autonym: Thaminyi
 alt_names: [Daier, Nubian (Hill)]
 population: 1000

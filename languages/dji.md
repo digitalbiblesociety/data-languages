@@ -1,6 +1,8 @@
 ---
 iso: dji
 name: Djinang
+name_zh: 詹纳语
+name_zh_auto: true
 autonym: Jandijinung
 alt_names: [Balmawi, Balmbi, Barlmawi, Djinaŋ, Djinhang, Djinnang, Dyinang, Jand-jinung, "Jandji:nangc", Jandjinang, Jandjinung, Jinang, Manarrngu, Manjarngi, Manyarrngi, Milingimbi, Millingimbi, Mun-narngo, Ullaki, Wulagi, Wulaki, Wullakki, Yandijinang, Yandjinang, Yandjinning, Yandjinung, Yändjinaŋ]
 population: 130

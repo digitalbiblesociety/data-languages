@@ -1,6 +1,8 @@
 ---
 iso: tgy
 name: Togoyo
+name_zh: 托格约语
+name_zh_auto: true
 autonym: Togoy
 population: null
 country_id: SS

@@ -1,6 +1,8 @@
 ---
 iso: twy
 name: Tawoyan
+name_zh: 塔沃扬语
+name_zh_auto: true
 autonym: Tabojan
 alt_names: [Dayak, Tabojan Tongka, Taboyan, Tabuyan, Tawoyan Dayak, Tewoyan]
 population: 20000

@@ -1,6 +1,8 @@
 ---
 iso: pmm
 name: Pomo
+name_zh: 波莫语
+name_zh_auto: true
 autonym: Congo Pol
 alt_names: [Pol, Pori, Pul]
 population: 44130

@@ -1,6 +1,8 @@
 ---
 iso: kep
 name: Kaikadi
+name_zh: 凯卡迪语
+name_zh_auto: true
 autonym: Kaikadia
 alt_names: [Kaikai, Kokadi]
 population: 23000

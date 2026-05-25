@@ -1,6 +1,8 @@
 ---
 iso: nuj
 name: Nyole
+name_zh: 尼奥莱语
+name_zh_auto: true
 autonym: Lunyole
 alt_names: [Nyule, Nyuli]
 population: 530000

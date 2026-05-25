@@ -1,6 +1,8 @@
 ---
 iso: tci
 name: Wára
+name_zh: 瓦拉语
+name_zh_auto: true
 autonym: Wára
 alt_names: [Ara, Kamindjo, Rouku, Semariji, Tjokwai, Tokwasa, Upper Morehead, Vara, Yumbar]
 population: 700

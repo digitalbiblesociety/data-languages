@@ -1,6 +1,8 @@
 ---
 iso: usa
 name: Usarufa
+name_zh: 乌萨鲁法语
+name_zh_auto: true
 autonym: null
 alt_names: [Auyana, Usurufa, Uturupa]
 population: 1200

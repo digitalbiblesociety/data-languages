@@ -1,6 +1,8 @@
 ---
 iso: kxk
 name: Zayein Karen
+name_zh: 扎耶因卡伦语
+name_zh_auto: true
 autonym: Gaungtou
 alt_names: ["Karen, Zayein", "Karen,Zayein", Khaungtou, Zayein]
 population: 9300

@@ -1,6 +1,8 @@
 ---
 iso: goi
 name: Gobasi
+name_zh: 戈巴西语
+name_zh_auto: true
 autonym: Nomad
 alt_names: [Nomad Dialects, Samo]
 population: 1100

@@ -1,6 +1,8 @@
 ---
 iso: mqg
 name: Kota Bangun Kutai Malay
+name_zh: 库泰马来语（科塔邦贡）
+name_zh_auto: true
 autonym: null
 alt_names: ["Malay, Kota Bangun Kutai"]
 population: 80000

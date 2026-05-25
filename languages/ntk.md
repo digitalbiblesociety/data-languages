@@ -1,6 +1,8 @@
 ---
 iso: ntk
 name: "Ikoma-Nata-Isenye"
+name_zh: 伊科玛-纳塔-伊塞尼耶语
+name_zh_auto: true
 autonym: "Ikoma-Nata-Isenye"
 alt_names: [Egiikɔma, Ekinata, Ikinata, Ikoma, Nata]
 population: 34700

@@ -1,6 +1,8 @@
 ---
 iso: nhz
 name: Santa María La Alta Nahuatl
+name_zh: 圣玛丽亚拉阿尔塔纳瓦特尔语
+name_zh_auto: true
 autonym: Southeastern Puebla Nahuatl
 alt_names: [Eastern Nawa, Mexicano, Nahua de la Huasteca, Nahuatl, "Nahuatl, Santa María la Alta", Náhuatl de Santa María la Alta, Náhuatl du Huasteca, Santa Maria La Alta Nahuatl]
 population: 2470

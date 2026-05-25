@@ -1,6 +1,8 @@
 ---
 iso: bzb
 name: Andio
+name_zh: 安迪奥语
+name_zh_auto: true
 autonym: Masama
 alt_names: ["Andio'o", "Imbao'o"]
 population: 1700

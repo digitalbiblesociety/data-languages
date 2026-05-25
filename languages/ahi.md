@@ -1,6 +1,8 @@
 ---
 iso: ahi
 name: Tiagbamrin Aizi
+name_zh: 蒂亚格巴姆林艾兹语
+name_zh_auto: true
 autonym: Lélé
 alt_names: [Ahizi, Aizi, "Aizi, Tiagbamrin", Lélémrin, Tiagba]
 population: 9000

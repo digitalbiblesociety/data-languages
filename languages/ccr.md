@@ -1,6 +1,8 @@
 ---
 iso: ccr
 name: Cacaopera
+name_zh: 卡卡奥佩拉语
+name_zh_auto: true
 autonym: null
 alt_names: [Kakaopera]
 population: null

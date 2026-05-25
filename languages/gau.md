@@ -1,6 +1,8 @@
 ---
 iso: gau
 name: Mudhili Gadaba
+name_zh: 穆德利加达巴语
+name_zh_auto: true
 autonym: Gadaba
 alt_names: ["Gadaba, Mudhili", Gol Gadaba, Kondekar, Kondekor, Kondekor Gadaba, Kondkor, Mudhili, Salur, Salur Gadba, Salur Ollar Gadaba]
 population: 8000

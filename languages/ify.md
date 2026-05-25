@@ -1,6 +1,8 @@
 ---
 iso: ify
 name: "Keley-I Kallahan"
+name_zh: 凯利-伊卡拉汉语
+name_zh_auto: true
 autonym: Kallahan
 alt_names: [Antipolo Ifugao, Hanalulo, "Kallahan, Keley-I", Keley-I, Keley-I Kalanguya, Keleyqiq Ifugao]
 population: 8000

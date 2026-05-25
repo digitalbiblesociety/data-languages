@@ -1,6 +1,8 @@
 ---
 iso: kcl
 name: Kela (Papua New Guinea)
+name_zh: 凯拉语（巴布亚新几内亚）
+name_zh_auto: true
 autonym: Kela
 alt_names: [Apoze, Gela, Kala, Kela (Apoze), Kelana, Laukanu]
 population: 2150

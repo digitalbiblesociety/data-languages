@@ -1,6 +1,8 @@
 ---
 iso: nkx
 name: Nkoroo
+name_zh: 恩科罗语
+name_zh_auto: true
 autonym: Nkoro
 alt_names: [Kirika, Ịjọ]
 population: 4550

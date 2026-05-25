@@ -1,6 +1,8 @@
 ---
 iso: nsv
 name: Southwestern Nisu
+name_zh: 西南尼苏语
+name_zh_auto: true
 autonym: Southern Yi
 alt_names: ["Nisu, Southwestern"]
 population: 15000

@@ -1,6 +1,8 @@
 ---
 iso: xmo
 name: Morerebi
+name_zh: 莫雷雷比语
+name_zh_auto: true
 autonym: Kawahib
 alt_names: [Diahoi, Diahói, Diarroi, Djahui, Jiahui, Juma, Karipuna, Kawahib/Paranawat/Pawaté-Wirafed, Parintintín, Parintintín/Tenharim/Juma, Tenharim, Tenharím, Tukumanfed, Uru-eu-uau-uau, Yuma]
 population: 100

@@ -1,6 +1,8 @@
 ---
 iso: mtn
 name: Matagalpa
+name_zh: 玛塔加尔帕语
+name_zh_auto: true
 autonym: Pantasmas
 alt_names: [Idioma matagalpa, Matagalpa language area, Pantasma]
 population: null

@@ -1,6 +1,8 @@
 ---
 iso: tdj
 name: Tajio
+name_zh: 塔吉奥语
+name_zh_auto: true
 autonym: Kasimbar
 alt_names: [Adjio, "Ta'adjio", Tadjio, Tobada, "Tobada'"]
 population: 12000

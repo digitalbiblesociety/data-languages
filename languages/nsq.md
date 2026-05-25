@@ -1,6 +1,8 @@
 ---
 iso: nsq
 name: Northern Sierra Miwok
+name_zh: 北内华达山米沃克语
+name_zh_auto: true
 autonym: Saclan
 alt_names: [Central Sierra Miwok, "Central Sierra Miwok: Tuolumne", Eastern Division, Me-Wuk, Meewoc, Mewoc, Miwoc, Miwok (Northern Sierra), Miwok de la Sierra du nord, "Miwok, Northern Sierra", Miwokano serrano septentrional, Mokélumne, Moquelumnan, N Sierra Miwok, "Northern Sierra Miwok: Seroushamne", San Raphael, Sawos, Seroushamne, Sierra Miwok, "Southern Sierra Miwok: Southern Sierra Miwok", Talatui, Talutui, Yosemite]
 population: null

@@ -1,6 +1,8 @@
 ---
 iso: dio
 name: Dibo
+name_zh: 迪波语
+name_zh_auto: true
 autonym: Ganagana
 alt_names: [Ganagawa, Shitako, Zhitako. Ganagana, Zitako]
 population: 204000

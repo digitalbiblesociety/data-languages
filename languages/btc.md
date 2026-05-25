@@ -1,6 +1,8 @@
 ---
 iso: btc
 name: Bati (Cameroon)
+name_zh: 巴蒂语（喀麦隆）
+name_zh_auto: true
 autonym: Bati Ba Ngong
 alt_names: [Bati, Bati (Cameroonh), Bati de Brousse]
 population: 800

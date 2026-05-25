@@ -1,6 +1,8 @@
 ---
 iso: tof
 name: Gizrra
+name_zh: 吉兹拉语
+name_zh_auto: true
 autonym: Gizra
 alt_names: [Toga]
 population: 1050

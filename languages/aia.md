@@ -1,6 +1,8 @@
 ---
 iso: aia
 name: Arosi
+name_zh: 阿罗西语
+name_zh_auto: true
 autonym: null
 population: 6750
 country_id: SB

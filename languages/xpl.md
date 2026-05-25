@@ -1,6 +1,8 @@
 ---
 iso: xpl
 name: "Port Sorell Tasmanian\r"
+name_zh: 索雷尔港塔斯马尼亚语
+name_zh_auto: true
 autonym: Port Sorell Tasmanian
 alt_names: ["Tasmanian, Port Sorell"]
 population: null

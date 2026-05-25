@@ -1,6 +1,8 @@
 ---
 iso: job
 name: Joba
+name_zh: 乔巴语
+name_zh_auto: true
 autonym: Kijoba
 alt_names: [Kivira, Loba, Vira]
 population: 10000

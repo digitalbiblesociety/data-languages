@@ -1,6 +1,8 @@
 ---
 iso: sue
 name: Suena
+name_zh: 苏埃纳语
+name_zh_auto: true
 autonym: null
 alt_names: [Yarawe, Yarawi, Yema, Yema-Yarawa]
 population: 3600

@@ -1,6 +1,8 @@
 ---
 iso: pbp
 name: Badyara
+name_zh: 巴迪亚拉语
+name_zh_auto: true
 autonym: Jaad
 alt_names: [Badara, Badian, Badiara, Badiaranké, Badjara, Badyaranke, Bandjana, Bigola, Gola, Padjade, Pajade, Pajadinka]
 population: 12730

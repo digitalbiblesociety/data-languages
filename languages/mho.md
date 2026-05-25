@@ -1,6 +1,8 @@
 ---
 iso: mho
 name: Mashi (Zambia)
+name_zh: 玛希语（赞比亚）
+name_zh_auto: true
 autonym: Masi
 alt_names: [Mashi]
 population: 21730

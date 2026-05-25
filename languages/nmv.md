@@ -1,6 +1,8 @@
 ---
 iso: nmv
 name: Ngamini
+name_zh: 恩加米尼语
+name_zh_auto: true
 autonym: Karangura
 alt_names: ["A:mini", Agamini, Agaminni, Ahminie, Ahminnie, Amini, Aumine, Aumini, Auminie, Aurnini, Awmani, Ganmeni, Gnameni, Jeljendi, Jeljujendi, Karanguru, Kurangooroo, Ngamani, Ngameni, Ngaminni, Ngnaminni, Ominee, Uminnie, Unminnie, Yarleeyandee, Yarluyandi, Yarluyandji, Yelyayendi]
 population: null

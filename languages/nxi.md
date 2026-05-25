@@ -1,6 +1,8 @@
 ---
 iso: nxi
 name: Nindi
+name_zh: 尼迪语
+name_zh_auto: true
 autonym: Kinindi
 alt_names: [Tanzania]
 population: 100

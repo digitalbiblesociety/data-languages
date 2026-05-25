@@ -1,6 +1,8 @@
 ---
 iso: ker
 name: Kera
+name_zh: 凯拉语
+name_zh_auto: true
 autonym: Tuburi
 alt_names: [East Chadic A.3, Kera Group, Kera jezik, Keraeg, Kere]
 population: 50500

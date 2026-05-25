@@ -1,6 +1,8 @@
 ---
 iso: lei
 name: Lemio
+name_zh: 莱米奥语
+name_zh_auto: true
 autonym: null
 population: 270
 country_id: PG

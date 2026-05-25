@@ -1,6 +1,8 @@
 ---
 iso: kwc
 name: Likwala
+name_zh: 利夸拉语
+name_zh_auto: true
 autonym: Likwala
 alt_names: [Ekwala, Kwala, Likouala]
 population: 79000

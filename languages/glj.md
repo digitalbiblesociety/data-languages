@@ -1,6 +1,8 @@
 ---
 iso: glj
 name: Gula Iro
+name_zh: 古拉伊罗语
+name_zh_auto: true
 autonym: "Goula d'Iro"
 alt_names: [Goula Iro, Iro, "Iro Gula, Kulaal", Kulaal]
 population: 165

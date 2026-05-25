@@ -1,6 +1,8 @@
 ---
 iso: slj
 name: Salumá
+name_zh: 萨卢马语
+name_zh_auto: true
 autonym: tarëno ijomi
 population: 240
 country_id: BR

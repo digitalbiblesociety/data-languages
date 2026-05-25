@@ -1,6 +1,8 @@
 ---
 iso: ziz
 name: Zizilivakan
+name_zh: 齐齐利瓦干语
+name_zh_auto: true
 autonym: Fali of Jilbu
 alt_names: [Ziliva, Zizilivakaneg, Ziziliveken, Àmzírív]
 population: 2800

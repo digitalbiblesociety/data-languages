@@ -1,6 +1,8 @@
 ---
 iso: rka
 name: Kraol
+name_zh: 克劳语
+name_zh_auto: true
 autonym: Bunong (ឞូន៝ង)
 alt_names: [Chrau, Crau, Southern-Central Mnong, Trao]
 population: 1960

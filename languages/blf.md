@@ -1,6 +1,8 @@
 ---
 iso: blf
 name: Buol
+name_zh: 布奥尔语
+name_zh_auto: true
 autonym: Apadu Vuolo
 alt_names: [Bual, "Bwo'ol", Dia]
 population: 90200

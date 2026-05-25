@@ -1,6 +1,8 @@
 ---
 iso: ums
 name: Pendau
+name_zh: 彭道语
+name_zh_auto: true
 autonym: Umalasa
 alt_names: [Ndaoe, Ndau]
 population: 4500

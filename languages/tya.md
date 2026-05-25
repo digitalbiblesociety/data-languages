@@ -1,6 +1,8 @@
 ---
 iso: tya
 name: Tauya
+name_zh: 陶亚语
+name_zh_auto: true
 autonym: "Fo'upo"
 alt_names: [Inafosa]
 population: 350

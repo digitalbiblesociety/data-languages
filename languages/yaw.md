@@ -1,6 +1,8 @@
 ---
 iso: yaw
 name: Yawalapití
+name_zh: 亚瓦拉皮蒂语
+name_zh_auto: true
 autonym: Jaulapiti
 alt_names: [Yaulapiti, Yawalapiti, Yawalpití]
 population: 220

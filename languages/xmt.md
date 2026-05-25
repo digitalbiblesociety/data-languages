@@ -1,6 +1,8 @@
 ---
 iso: xmt
 name: Matbat
+name_zh: 马特巴特语
+name_zh_auto: true
 autonym: Misool
 alt_names: [Me]
 population: 1250

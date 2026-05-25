@@ -1,6 +1,8 @@
 ---
 iso: tiu
 name: Adasen
+name_zh: 阿达森语
+name_zh_auto: true
 autonym: Isneg
 alt_names: [Adasen Itneg, Addasen, Addasen Tinguian, Itneg, "Itneg, Adasen"]
 population: 4000

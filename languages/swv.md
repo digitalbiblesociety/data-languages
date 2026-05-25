@@ -1,6 +1,8 @@
 ---
 iso: swv
 name: Shekhawati
+name_zh: 谢卡瓦蒂语
+name_zh_auto: true
 autonym: शेखावाटी
 alt_names: [Marwari, Rajasthani, Shekhawati-Marwari, ภาษาเสขวาตี]
 population: 3000000

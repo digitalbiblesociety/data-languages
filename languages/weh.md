@@ -1,6 +1,8 @@
 ---
 iso: weh
 name: Weh
+name_zh: 韦赫语
+name_zh_auto: true
 autonym: null
 alt_names: [Cameroon]
 population: 6900

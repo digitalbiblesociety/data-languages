@@ -1,6 +1,8 @@
 ---
 iso: pbf
 name: Coyotepec Popoloca
+name_zh: 科约特佩克波波洛卡语
+name_zh_auto: true
 autonym: null
 alt_names: [Chocho-Popoloka, Popoloc, Popoloca, Popoloca (San Vicente Coyotepec), "Popoloca, Coyotepec", Popoloka, San Vicente Coyotepec]
 population: 500

@@ -1,6 +1,8 @@
 ---
 iso: ldi
 name: Laari
+name_zh: 拉阿里语
+name_zh_auto: true
 autonym: Kikongo
 alt_names: [Kilari, Kongo, Laadi, Ladi, Lari]
 population: 159000

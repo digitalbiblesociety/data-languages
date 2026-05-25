@@ -1,6 +1,8 @@
 ---
 iso: mct
 name: Mengisa
+name_zh: 门吉萨语
+name_zh_auto: true
 autonym: Mangisa
 population: 20000
 country_id: CM

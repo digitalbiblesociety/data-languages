@@ -1,6 +1,8 @@
 ---
 iso: csd
 name: Chiangmai Sign Language
+name_zh: 清迈手语
+name_zh_auto: true
 autonym: Chiengmai Sign Language
 alt_names: [OCMSL, Old Chiangmai Sign Language, Original Chiangmai Sign Language]
 population: 10

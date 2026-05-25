@@ -1,6 +1,8 @@
 ---
 iso: txu
 name: Kayapó
+name_zh: 卡亚波语
+name_zh_auto: true
 autonym: Mẽbêngôkre kabẽn
 alt_names: [Cayapo, Cayapó, Gorotire, Kayapo, Kokairmoro, Kokraimoro, Mebengokre, Mebêngokrê, Put Karot, Southern Cayapo, Xikrin]
 population: 7270

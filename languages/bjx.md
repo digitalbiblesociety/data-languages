@@ -1,6 +1,8 @@
 ---
 iso: bjx
 name: Banao Itneg
+name_zh: 巴瑙伊特内格语
+name_zh_auto: true
 autonym: Banao
 alt_names: ["Itneg, Banao", Timggian, Tinguian]
 population: 3500

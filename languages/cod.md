@@ -1,6 +1,8 @@
 ---
 iso: cod
 name: "Cocama-Cocamilla"
+name_zh: 科卡玛-科卡米利亚语
+name_zh_auto: true
 autonym: Kokáma
 alt_names: [Cocama, Cocama Cocamilla, Cocama language, Cocama-cocamilla (Brésil), Cocama-cocamilla (Perú), Cocama-cocamilla (Pérou), Cocamas, Huallaga, Idioma cocama, Kokama, Kokama-Kokamilya, Kokoma lingvo, Kokomeg, Kokáma-Omágwa, Kukama Kukamiria, Kukama simi, Kukama-Kukamiria, Pampadeque, Pandequebo, Ucayali, Xibitaoan, Xibitaona, Xibitoana, Кокама]
 population: 15000

@@ -1,6 +1,8 @@
 ---
 iso: ypz
 name: Phuza
+name_zh: 普扎语
+name_zh_auto: true
 autonym: Phuza
 population: 6000
 country_id: CN

@@ -1,6 +1,8 @@
 ---
 iso: xcw
 name: Coahuilteco
+name_zh: 科阿韦尔特科语
+name_zh_auto: true
 autonym: Pajalate
 alt_names: [Coahuiltec, Coahuiltec Indijanci, Coahuiltecan, Coahuiltecan Family, Coahuilteeks, Coahuiltekisch, Idioma coahuilteco, Коавильтекский язык]
 population: null

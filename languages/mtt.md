@@ -1,6 +1,8 @@
 ---
 iso: mtt
 name: Mota
+name_zh: 莫塔语
+name_zh_auto: true
 autonym: null
 alt_names: [Banks-Inseln]
 population: 750

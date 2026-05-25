@@ -1,6 +1,8 @@
 ---
 iso: bso
 name: Buso
+name_zh: 布索语
+name_zh_auto: true
 autonym: Buso
 population: 17000
 country_id: TD

@@ -1,6 +1,8 @@
 ---
 iso: faz
 name: Northwestern Fars
+name_zh: 西北法尔斯语
+name_zh_auto: true
 autonym: null
 alt_names: ["Fars, Northwestern"]
 population: 7500

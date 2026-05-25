@@ -1,6 +1,8 @@
 ---
 iso: xok
 name: Xokleng
+name_zh: 绍克伦语
+name_zh_auto: true
 autonym: Aweikoma
 alt_names: [Botocudo, Botocudos, Bugre, Chocleng, Shocleng, Shokleng]
 population: 760

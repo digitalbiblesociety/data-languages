@@ -1,6 +1,8 @@
 ---
 iso: kqj
 name: Koromira
+name_zh: 科罗米拉语
+name_zh_auto: true
 autonym: null
 alt_names: [Koianu]
 population: 2300

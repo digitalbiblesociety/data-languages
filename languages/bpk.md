@@ -1,6 +1,8 @@
 ---
 iso: bpk
 name: Orowe
+name_zh: 奥罗韦语
+name_zh_auto: true
 autonym: "'Ôrôê"
 alt_names: [Boewe, Neukaledonien, Ôrôê]
 population: 590

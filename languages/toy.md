@@ -1,6 +1,8 @@
 ---
 iso: toy
 name: Topoiyo
+name_zh: 托波伊约语
+name_zh_auto: true
 autonym: bahasa Topoiyo
 alt_names: [Indonesia]
 population: 2000

@@ -1,6 +1,8 @@
 ---
 iso: tbx
 name: Kapin
+name_zh: 卡平语
+name_zh_auto: true
 autonym: Katumene
 alt_names: [Sambio, Taiak, Tayek]
 population: 2350

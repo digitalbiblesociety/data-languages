@@ -1,6 +1,8 @@
 ---
 iso: lon
 name: Malawi Lomwe
+name_zh: 马拉维隆韦语
+name_zh_auto: true
 autonym: Anguru
 alt_names: ["Lomwe, Malawi", Nguru]
 population: 3990000

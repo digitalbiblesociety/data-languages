@@ -1,6 +1,8 @@
 ---
 iso: mmh
 name: Mehináku
+name_zh: 梅希纳库语
+name_zh_auto: true
 autonym: Mahinaku
 alt_names: [Aura, Mahinacu, Mehinaco, Mehinacu, Mehinacú, Mehinaku, Mehinakú, Meinaku, Minaco, Uara, Wauja, Waurá-Meinaku]
 population: 200

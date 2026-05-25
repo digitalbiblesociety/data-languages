@@ -1,6 +1,8 @@
 ---
 iso: tnv
 name: Tangchangya
+name_zh: 坦昌亚语
+name_zh_auto: true
 autonym: Tanchangya
 population: 21600
 country_id: BD

@@ -1,6 +1,8 @@
 ---
 iso: zms
 name: Mbesa
+name_zh: 姆贝萨语
+name_zh_auto: true
 autonym: Mobesa
 alt_names: [Mombesa]
 population: 8400

@@ -1,6 +1,8 @@
 ---
 iso: mbn
 name: Macaguán
+name_zh: 马卡瓜恩语
+name_zh_auto: true
 autonym: Hitnü
 alt_names: [Agualinda Guahibo, Jitnu, Jitnu (macaguán), Macaguan, Macaguane]
 population: 1010

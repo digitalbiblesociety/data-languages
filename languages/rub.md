@@ -1,6 +1,8 @@
 ---
 iso: rub
 name: Gungu
+name_zh: 贡古语
+name_zh_auto: true
 autonym: Lugungu
 alt_names: [Rugungu]
 population: 84000

@@ -1,6 +1,8 @@
 ---
 iso: boj
 name: Anjam
+name_zh: 安姆语
+name_zh_auto: true
 autonym: Bom
 alt_names: [Bogadjim, Bogajim, Bogati, Lalok]
 population: 2020

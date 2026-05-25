@@ -1,6 +1,8 @@
 ---
 iso: mfh
 name: Matal
+name_zh: 玛塔尔语
+name_zh_auto: true
 autonym: Muktele
 alt_names: [Badda, Balda, Mouktele, Muktile]
 population: 18000

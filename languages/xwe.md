@@ -1,6 +1,8 @@
 ---
 iso: xwe
 name: Xwela Gbe
+name_zh: 克韦拉-格贝语
+name_zh_auto: true
 autonym: Xwela
 alt_names: ["Gbe, Xwela", Houeda, Peda, Phera, Xwela-Gba]
 population: 84700

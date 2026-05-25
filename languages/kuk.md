@@ -1,6 +1,8 @@
 ---
 iso: kuk
 name: "Kepo'"
+name_zh: 克波语
+name_zh_auto: true
 autonym: Kepoq
 alt_names: ["Ba'i", Kepo]
 population: 10600

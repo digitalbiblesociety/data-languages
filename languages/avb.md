@@ -1,6 +1,8 @@
 ---
 iso: avb
 name: Avau
+name_zh: 阿瓦乌语
+name_zh_auto: true
 autonym: Awau
 population: 620
 country_id: PG

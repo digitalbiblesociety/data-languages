@@ -1,6 +1,8 @@
 ---
 iso: pbm
 name: Puebla Mazatec
+name_zh: 普埃布拉马萨特克语
+name_zh_auto: true
 autonym: null
 alt_names: ["Mazatec, Puebla"]
 population: null

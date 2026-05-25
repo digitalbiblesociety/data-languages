@@ -1,6 +1,8 @@
 ---
 iso: hke
 name: Hunde
+name_zh: 胡德语
+name_zh_auto: true
 autonym: Kihunde
 alt_names: [Język hunde, Kobi, Rukobi]
 population: 200000

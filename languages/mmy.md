@@ -1,6 +1,8 @@
 ---
 iso: mmy
 name: Migaama
+name_zh: 米加阿玛语
+name_zh_auto: true
 autonym: Dionkor
 alt_names: [Djonkor, Djonkor Abou Telfane, Dyongor, Jongor, Jonkor, Jonkor of Abu Telfan, Migama]
 population: 2000

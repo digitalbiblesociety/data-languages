@@ -1,6 +1,8 @@
 ---
 iso: lgz
 name: Ligenza
+name_zh: 利根扎语
+name_zh_auto: true
 autonym: Ligendza
 alt_names: [Digenja, Gendja, Gendza-Bali]
 population: 43000

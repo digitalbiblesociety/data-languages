@@ -1,6 +1,8 @@
 ---
 iso: syw
 name: Kagate
+name_zh: 卡盖特语
+name_zh_auto: true
 autonym: Syuba
 alt_names: ["K?gate", Kagate Bhote, Kāgatē, Shuba, Shyuba]
 population: 1270

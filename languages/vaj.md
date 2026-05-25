@@ -1,6 +1,8 @@
 ---
 iso: vaj
 name: Sekele
+name_zh: 塞克莱语
+name_zh_auto: true
 autonym: Northern ǃKung
 alt_names: [Northwestern ǃKung, Vasekele, "ǃKung, Northwestern"]
 population: 14200

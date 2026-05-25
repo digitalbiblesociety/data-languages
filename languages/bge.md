@@ -1,6 +1,8 @@
 ---
 iso: bge
 name: Bauria
+name_zh: 鲍里亚语
+name_zh_auto: true
 autonym: Babri
 alt_names: [Badak, Baori, Basria, Bawari, Bawaria, Bhoria, Vaghri]
 population: 63000

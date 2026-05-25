@@ -1,6 +1,8 @@
 ---
 iso: okh
 name: "Koresh-e Rostam"
+name_zh: 科雷什-罗斯塔姆语
+name_zh_auto: true
 autonym: Koresh-e Rostam
 alt_names: [Iran, Khoresh-e Rostam]
 population: null

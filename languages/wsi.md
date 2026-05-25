@@ -1,6 +1,8 @@
 ---
 iso: wsi
 name: Wusi
+name_zh: 乌西语
+name_zh_auto: true
 autonym: Kula
 alt_names: [Wusi-Kerepua]
 population: 300

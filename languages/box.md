@@ -1,6 +1,8 @@
 ---
 iso: box
 name: Buamu
+name_zh: 布阿木语
+name_zh_auto: true
 autonym: Eastern Bobo Wule
 alt_names: [Bomu, Bouamou, Bwamu, Eastern Bobo Oule, Red Bobo]
 population: 268000

@@ -1,6 +1,8 @@
 ---
 iso: abw
 name: Pal
+name_zh: 帕尔语
+name_zh_auto: true
 autonym: Abasakur
 alt_names: [Abasaku]
 population: null

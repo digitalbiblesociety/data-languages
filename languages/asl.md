@@ -1,6 +1,8 @@
 ---
 iso: asl
 name: Asilulu
+name_zh: 阿西卢卢语
+name_zh_auto: true
 autonym: null
 population: 8760
 country_id: ID

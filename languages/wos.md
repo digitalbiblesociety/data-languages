@@ -1,6 +1,8 @@
 ---
 iso: wos
 name: Hanga Hundi
+name_zh: 汉加亨迪语
+name_zh_auto: true
 autonym: Hanga Hundi
 alt_names: [Kwasengen, West Wosera]
 population: 7200

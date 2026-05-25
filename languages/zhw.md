@@ -1,6 +1,8 @@
 ---
 iso: zhw
 name: Zhoa
+name_zh: 卓阿语
+name_zh_auto: true
 autonym: null
 alt_names: [Cameroon]
 population: 2000

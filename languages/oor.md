@@ -1,6 +1,8 @@
 ---
 iso: oor
 name: Oorlams
+name_zh: 奥尔拉姆斯语
+name_zh_auto: true
 autonym: null
 alt_names: [Língua oorlans, Oorlangs, Oorlans, Oorlansa lingvo]
 population: 32000

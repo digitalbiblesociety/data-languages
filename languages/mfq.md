@@ -1,6 +1,8 @@
 ---
 iso: mfq
 name: Moba
+name_zh: 莫巴语
+name_zh_auto: true
 autonym: Moba Lok
 alt_names: [Ben, Moa, Moab, Moare]
 population: 320800

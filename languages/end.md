@@ -1,6 +1,8 @@
 ---
 iso: end
 name: Ende
+name_zh: 恩德语
+name_zh_auto: true
 autonym: Endeh
 population: 110000
 country_id: ID

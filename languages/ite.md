@@ -1,6 +1,8 @@
 ---
 iso: ite
 name: Itene
+name_zh: 伊特内语
+name_zh_auto: true
 autonym: Moré
 alt_names: [Central Chapacuran, Central Chapakuran, Central Chapakúran, Guapore, Guapore Group, Guarayo, Iten, Iteneo, Itenez, Iténez, Maré, More]
 population: 90

@@ -1,6 +1,8 @@
 ---
 iso: tzn
 name: Tugun
+name_zh: 图贡语
+name_zh_auto: true
 autonym: Wetar
 alt_names: [Mahuan, Tutunohan]
 population: 1200

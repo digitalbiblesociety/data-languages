@@ -1,6 +1,8 @@
 ---
 iso: hud
 name: Huaulu
+name_zh: 华乌卢语
+name_zh_auto: true
 autonym: Alakamat
 alt_names: [Bahasa Asli]
 population: 300

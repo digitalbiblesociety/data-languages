@@ -1,6 +1,8 @@
 ---
 iso: lhi
 name: Lahu Shi
+name_zh: 拉胡施语
+name_zh_auto: true
 autonym: Ladhof
 alt_names: [Kui, Kur, Kwi, Lahu, Lahu Xi, LahuShi, Lâhū-ši, Shi, Yellow Lahu]
 population: 196200

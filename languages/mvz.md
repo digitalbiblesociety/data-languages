@@ -1,6 +1,8 @@
 ---
 iso: mvz
 name: Mesqan
+name_zh: 梅斯甘语
+name_zh_auto: true
 autonym: Masqan
 alt_names: [Meskan, Misqan, Mäsqan, Mäsqän]
 population: 25000

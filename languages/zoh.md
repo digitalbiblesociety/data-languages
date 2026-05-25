@@ -1,6 +1,8 @@
 ---
 iso: zoh
 name: Chimalapa Zoque
+name_zh: 奇马拉帕索克语
+name_zh_auto: true
 autonym: aŋpʉn tzaame
 alt_names: [Oaxaca Soke, Oaxaca Zoque, Soke, Sokean, Zoque, Zoque (Chimalapa), Zoque (San Miguel Chimalapa), "Zoque, Chimalapa"]
 population: 4500

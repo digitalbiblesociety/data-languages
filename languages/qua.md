@@ -1,6 +1,8 @@
 ---
 iso: qua
 name: Quapaw
+name_zh: 夸帕语
+name_zh_auto: true
 autonym: " O-gah-pah"
 alt_names: [Alkansea, Arkans, Arkansas, Capa, Kwapa, Kwapaw, Ogaxpa]
 population: 159

@@ -1,6 +1,8 @@
 ---
 iso: gnn
 name: Gumatj
+name_zh: 古玛吉语
+name_zh_auto: true
 autonym: "Dhay'yi"
 alt_names: [Dhuwal, Dhuwala, Go-maid, Gomadj, Gomaidj, Gumadj, Gumadji, Gumaidj, Gumait, Gumaitj, Gumaj, Komait]
 population: 120

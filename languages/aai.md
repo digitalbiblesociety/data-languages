@@ -1,6 +1,8 @@
 ---
 iso: aai
 name: "Arifama-Miniafia"
+name_zh: 阿里法玛-米尼亚菲亚语
+name_zh_auto: true
 autonym: Miniafia
 alt_names: [Miniafia-Arifama]
 population: 3470

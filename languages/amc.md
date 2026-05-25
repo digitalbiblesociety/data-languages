@@ -1,6 +1,8 @@
 ---
 iso: amc
 name: Amahuaca
+name_zh: 阿玛瓦卡语
+name_zh_auto: true
 autonym: Amaguaco
 alt_names: [Amawaka, Amawaka language area, Ameuhaque, Idioma amahuaca, Ipitineri, Sayaco]
 population: 110

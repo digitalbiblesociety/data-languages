@@ -1,6 +1,8 @@
 ---
 iso: bub
 name: Bua
+name_zh: 布阿语
+name_zh_auto: true
 autonym: Ba
 alt_names: ["'Ba", Boa, Boua, Boueg, Bwa]
 population: 7710

@@ -1,6 +1,8 @@
 ---
 iso: lsp
 name: Panamanian Sign Language
+name_zh: 巴拿马手语
+name_zh_auto: true
 autonym: Lenguaje de Señas Bolivianas LSB
 alt_names: [Lengua de Señas Panameñas, Lengua de Señas Panameñas (LSP), Spanish Sign Language]
 population: 9000

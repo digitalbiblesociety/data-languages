@@ -1,6 +1,8 @@
 ---
 iso: ndj
 name: Ndamba
+name_zh: 恩当巴语
+name_zh_auto: true
 autonym: null
 alt_names: [Tanzania]
 population: 196000

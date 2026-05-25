@@ -1,6 +1,8 @@
 ---
 iso: srm
 name: Saramaccan
+name_zh: 萨拉马卡语
+name_zh_auto: true
 autonym: Saamáka
 population: 36700
 country_id: SR

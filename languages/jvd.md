@@ -1,6 +1,8 @@
 ---
 iso: jvd
 name: Javindo
+name_zh: 爪哇印度语
+name_zh_auto: true
 autonym: Krontjong
 alt_names: [Javindo language]
 population: 10

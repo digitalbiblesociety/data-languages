@@ -1,6 +1,8 @@
 ---
 iso: aup
 name: Makayam
+name_zh: 马卡亚姆语
+name_zh_auto: true
 autonym: Tirio
 alt_names: [Adulu, Atura, Aturu, Makaeyam]
 population: 1300

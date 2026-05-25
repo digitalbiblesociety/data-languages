@@ -1,6 +1,8 @@
 ---
 iso: ghl
 name: Ghulfan
+name_zh: 古尔凡语
+name_zh_auto: true
 autonym: Uncunwee
 alt_names: [Gulfan, Nubian (Hill), Wunci, Wuncimbe]
 population: 16000

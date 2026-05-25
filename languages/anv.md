@@ -1,6 +1,8 @@
 ---
 iso: anv
 name: Denya
+name_zh: 德尼亚语
+name_zh_auto: true
 autonym: Anyah
 alt_names: [Agnang, Anyan, Anyang, Eyan, Nyang, Obonya, Takamanda]
 population: 11200

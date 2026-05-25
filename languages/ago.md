@@ -1,6 +1,8 @@
 ---
 iso: ago
 name: Tainae
+name_zh: 塔伊奈语
+name_zh_auto: true
 autonym: Ivori
 alt_names: [Andarum]
 population: 1000

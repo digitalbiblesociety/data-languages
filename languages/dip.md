@@ -1,6 +1,8 @@
 ---
 iso: dip
 name: Northeastern Dinka
+name_zh: 东北丁卡语
+name_zh_auto: true
 autonym: Thuɔŋjäŋ
 alt_names: [Agar, Dinka, "Dinka, Northeastern", Jieng (Dinka), Nord-Dinka, Padang, White Nile Dinka]
 population: 923000

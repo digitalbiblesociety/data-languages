@@ -1,6 +1,8 @@
 ---
 iso: xir
 name: Xiriâna
+name_zh: 西里亚纳语
+name_zh_auto: true
 autonym: Bahwana
 alt_names: [Chiriana, Shiriana, Shriana, Xiriana]
 population: null

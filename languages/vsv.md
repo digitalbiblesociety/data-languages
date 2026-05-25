@@ -1,6 +1,8 @@
 ---
 iso: vsv
 name: Valencian Sign Language
+name_zh: 瓦伦西亚手语
+name_zh_auto: true
 autonym: Llengua de signes valenciana
 population: 6000
 country_id: ES

@@ -1,6 +1,8 @@
 ---
 iso: auo
 name: Auyokawa
+name_zh: 奥约卡瓦语
+name_zh_auto: true
 autonym: Tirio
 alt_names: [Auyakawa, Auyo, Auyokawa jezik, Awiaka]
 population: null

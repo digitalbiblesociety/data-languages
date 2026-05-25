@@ -1,6 +1,8 @@
 ---
 iso: chh
 name: Chinook
+name_zh: 奇努克语
+name_zh_auto: true
 autonym: Tsinúk
 alt_names: [Chinook (Lower), Chinook proper, Chinookan, Coastal Chinook, Kiksht, Lower Chinook, Lower Chinookan]
 population: null

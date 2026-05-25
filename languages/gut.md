@@ -1,6 +1,8 @@
 ---
 iso: gut
 name: Maléku Jaíka
+name_zh: 马莱库哈伊卡语
+name_zh_auto: true
 autonym: Maléku Jaíka
 alt_names: [Guatuso, Guetar, Güetar, Idioma guatuso, Maleku, Maleku Jaika, Maléku language, Watuso, Watuso-Wétar]
 population: 1074

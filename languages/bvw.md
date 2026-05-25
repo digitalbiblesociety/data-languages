@@ -1,6 +1,8 @@
 ---
 iso: bvw
 name: Boga
+name_zh: 博加语
+name_zh_auto: true
 autonym: Boka
 alt_names: [Boga jezik, Bogaeg]
 population: 10000

@@ -1,6 +1,8 @@
 ---
 iso: msd
 name: Yucatec Maya Sign Language
+name_zh: 尤卡坦玛雅手语
+name_zh_auto: true
 autonym: Nohya Sign Language
 alt_names: [Línguas gestuais maias, Mayan sign languages]
 population: 500

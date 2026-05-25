@@ -1,6 +1,8 @@
 ---
 iso: xop
 name: Kopar
+name_zh: 科帕尔语
+name_zh_auto: true
 autonym: null
 population: 540
 country_id: PG

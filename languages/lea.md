@@ -1,6 +1,8 @@
 ---
 iso: lea
 name: "Lega-Shabunda"
+name_zh: 莱加-沙邦达语
+name_zh_auto: true
 autonym: Igonzabale
 alt_names: [Ileka-Igonzabale, Kilega, Kirega, Lega, Leka-Igonzabale, Rega]
 population: 400000

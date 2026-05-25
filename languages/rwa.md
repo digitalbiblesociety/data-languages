@@ -1,6 +1,8 @@
 ---
 iso: rwa
 name: Rawo
+name_zh: 拉沃语
+name_zh_auto: true
 autonym: null
 alt_names: [Poko, Poko-Rawo]
 population: 640

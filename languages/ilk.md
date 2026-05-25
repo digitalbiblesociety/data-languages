@@ -1,6 +1,8 @@
 ---
 iso: ilk
 name: Ilongot
+name_zh: 伊隆戈特语
+name_zh_auto: true
 autonym: Bugkalut
 alt_names: [Bukalot, Lingotes]
 population: 5710

@@ -1,6 +1,8 @@
 ---
 iso: npy
 name: Napu
+name_zh: 纳普语
+name_zh_auto: true
 autonym: Pekurehua
 population: 6240
 country_id: ID

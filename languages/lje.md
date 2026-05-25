@@ -1,6 +1,8 @@
 ---
 iso: lje
 name: Rampi
+name_zh: 拉皮语
+name_zh_auto: true
 autonym: "Ha'uwa"
 alt_names: [Leboni, Rampi-Leboni]
 population: 7500

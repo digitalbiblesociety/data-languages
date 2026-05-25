@@ -1,6 +1,8 @@
 ---
 iso: kbs
 name: Kande
+name_zh: 坎德语
+name_zh_auto: true
 autonym: Kanda
 alt_names: [Kaande, Okande, Okandé]
 population: 1000

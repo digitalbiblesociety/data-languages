@@ -1,6 +1,8 @@
 ---
 iso: mcx
 name: Mpiemo
+name_zh: 姆皮埃莫语
+name_zh_auto: true
 autonym: Mbimu
 alt_names: [Bimu, Mbimou, Mbyemo, Mpo, Mpyemo]
 population: 24000

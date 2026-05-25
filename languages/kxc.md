@@ -1,6 +1,8 @@
 ---
 iso: kxc
 name: Konso
+name_zh: 孔索语
+name_zh_auto: true
 autonym: Af Kareti
 alt_names: [Af-Kareti, Conso, Gato, Karate, Kareti, Khonso, Komso]
 population: 243300

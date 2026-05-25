@@ -1,6 +1,8 @@
 ---
 iso: sao
 name: Sause
+name_zh: 萨乌塞语
+name_zh_auto: true
 autonym: Seuce
 population: 250
 country_id: ID

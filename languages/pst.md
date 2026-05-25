@@ -1,6 +1,8 @@
 ---
 iso: pst
 name: Central Pashto
+name_zh: 中部普什图语
+name_zh_auto: true
 autonym: Mahsudi
 alt_names: [Pakhto, Pashto, "Pashto, Central", Peshwari]
 population: 6520000

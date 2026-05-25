@@ -1,6 +1,8 @@
 ---
 iso: msl
 name: Molof
+name_zh: 莫洛夫语
+name_zh_auto: true
 autonym: Poule
 alt_names: [Ampas, Powle-Ma]
 population: 200

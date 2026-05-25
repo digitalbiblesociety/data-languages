@@ -1,6 +1,8 @@
 ---
 iso: bnd
 name: Banda Maluku
+name_zh: 班达马鲁库语
+name_zh_auto: true
 autonym: null
 alt_names: [Banda, Banda (Indonesia)]
 population: 3000

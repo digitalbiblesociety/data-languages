@@ -1,6 +1,8 @@
 ---
 iso: auu
 name: Auye
+name_zh: 奥耶语
+name_zh_auto: true
 autonym: Auwje
 population: 350
 country_id: ID

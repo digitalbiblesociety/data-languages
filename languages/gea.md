@@ -1,6 +1,8 @@
 ---
 iso: gea
 name: Geruma
+name_zh: 格鲁玛语
+name_zh_auto: true
 autonym: Gyeermu
 alt_names: [Gerema, Germa, Gerumawa]
 population: 9030

@@ -1,6 +1,8 @@
 ---
 iso: ahs
 name: Ashe
+name_zh: 阿什语
+name_zh_auto: true
 autonym: Tinɔr
 alt_names: [Ache, Ala, Koro, Koro Makama, Koron Ache, Koron Ala]
 population: 40000

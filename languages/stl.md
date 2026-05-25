@@ -1,6 +1,8 @@
 ---
 iso: stl
 name: Stellingwerfs
+name_zh: 斯特林格沃夫语
+name_zh_auto: true
 autonym: Stellingwarfs
 population: 5000
 country_id: NL

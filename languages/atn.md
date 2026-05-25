@@ -1,6 +1,8 @@
 ---
 iso: atn
 name: Ashtiani
+name_zh: 阿什蒂亚尼语
+name_zh_auto: true
 autonym: Ashtiyani
 alt_names: [Astiani, Astianí]
 population: 21100

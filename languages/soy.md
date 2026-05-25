@@ -1,6 +1,8 @@
 ---
 iso: soy
 name: Miyobe
+name_zh: 米约贝语
+name_zh_auto: true
 autonym: Soruba
 alt_names: [Bijobe, Biyobe, Kayobe, Kuyobe, Kyobe, Meyobe, Mi yɔbɛ, Sola, Solamba, Solla, Sorouba, Uyobe]
 population: 17160

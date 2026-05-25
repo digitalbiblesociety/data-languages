@@ -1,6 +1,8 @@
 ---
 iso: moq
 name: Mor (Bomberai Peninsula)
+name_zh: 莫尔语（邦贝赖半岛）
+name_zh_auto: true
 autonym: Mor2
 alt_names: [Mor, "Mor (Bomberai Peninsula, Indonesia)", Mor (of Bomberai)]
 population: 30

@@ -1,6 +1,8 @@
 ---
 iso: iru
 name: Irula
+name_zh: 伊鲁拉语
+name_zh_auto: true
 autonym: இருளா
 alt_names: [Eravallan, Erukala, Irava, Irulan, Irular, Irular Mozhi, Irulavan, Iruliga, Iruligar, Iruḷa, Kad Chensu, Korava]
 population: 200000

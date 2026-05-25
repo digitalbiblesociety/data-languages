@@ -1,6 +1,8 @@
 ---
 iso: agy
 name: Southern Alta
+name_zh: 南阿尔塔语
+name_zh_auto: true
 autonym: Kabulowan
 alt_names: ["\"Baluga\"", "\"Kabalat\"", "Alta, Southern", Baluga, Ita, Kaboloan, Kabuluen, Kabuluwan, Kabuluwen, Pugot]
 population: 1000

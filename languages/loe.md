@@ -1,6 +1,8 @@
 ---
 iso: loe
 name: Saluan
+name_zh: 萨鲁安语
+name_zh_auto: true
 autonym: Loinang
 alt_names: [Coastal, Loindang, Madi, Mondono, "Saluan, Coastal"]
 population: 51900

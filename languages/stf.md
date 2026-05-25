@@ -1,6 +1,8 @@
 ---
 iso: stf
 name: Seta
+name_zh: 塞塔语
+name_zh_auto: true
 autonym: null
 alt_names: [Aunalei]
 population: 180

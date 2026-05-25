@@ -1,6 +1,8 @@
 ---
 iso: sqs
 name: Sri Lankan Sign Language
+name_zh: 斯里兰卡手语
+name_zh_auto: true
 autonym: null
 population: 73000
 country_id: LK

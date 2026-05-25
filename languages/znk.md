@@ -1,6 +1,8 @@
 ---
 iso: znk
 name: Manangkari
+name_zh: 曼南卡里语
+name_zh_auto: true
 autonym: null
 population: null
 country_id: AU

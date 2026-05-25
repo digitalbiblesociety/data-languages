@@ -1,6 +1,8 @@
 ---
 iso: thu
 name: Thuri
+name_zh: 图里语
+name_zh_auto: true
 autonym: Dhe Thuri
 alt_names: [Jo Thuri, Shatt, Wada Thuri]
 population: 6600

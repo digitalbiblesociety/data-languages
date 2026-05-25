@@ -1,6 +1,8 @@
 ---
 iso: vmy
 name: Ayautla Mazatec
+name_zh: 阿亚乌特拉马萨特克语
+name_zh_auto: true
 autonym: (San Bartolomé Ayautla)
 alt_names: [Ayautla Soyaltepec Masateko, Masateko, Mazatec, "Mazatec, Ayautla", Mazateco, Mazateco de Ayautla, Mazateco de Ixcatlán, Mazateco de Soyaltepec, "Mazatèque d'Ayautla", "Mazatèque d'Ixcatlán", Mazatèque de Soyaltepec]
 population: 2800

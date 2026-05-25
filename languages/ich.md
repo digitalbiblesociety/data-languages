@@ -1,6 +1,8 @@
 ---
 iso: ich
 name: Etkywan
+name_zh: 埃特基万语
+name_zh_auto: true
 autonym: Icen
 alt_names: [Etekwe, Ichen, Itchen, Kentu, Kyanton, Kyato, Nyidu]
 population: 50200

@@ -1,6 +1,8 @@
 ---
 iso: kgk
 name: Kaiwá
+name_zh: 凯瓦语
+name_zh_auto: true
 autonym: Kayova
 alt_names: [Apytare, Caiguá, Caingua, Caiová, Caiua, Caiwa, Cayua, Chiripá, Guarani-kaiowá, Guaraní kaiowá, Kaingwa, Kaingwá, Kaiova, Kaiowa, Kaiowá, Kaivų kalba, Kaiwa, Kaiwá/Kayová, Kayowá, Mbiá/Mbya/Mbua, Nhandeva, Pãi, Pãi-Tavyterã, Tsiripá, Txiripá, Ñandeva]
 population: 18000

@@ -1,6 +1,8 @@
 ---
 iso: kpo
 name: Ikposo
+name_zh: 伊克波索语
+name_zh_auto: true
 autonym: Ikpɔsɔ
 alt_names: [Akposo, Akposos, Akposso, Ikposso, Kposo, Kposso]
 population: 225500

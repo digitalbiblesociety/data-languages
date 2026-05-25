@@ -1,6 +1,8 @@
 ---
 iso: sig
 name: Paasaal
+name_zh: 帕萨尔语
+name_zh_auto: true
 autonym: Southern Sisaala
 alt_names: [Funsile, Pasaale, Pasaale Sisaala]
 population: 53000

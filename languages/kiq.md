@@ -1,6 +1,8 @@
 ---
 iso: kiq
 name: Kosadle
+name_zh: 科萨德勒语
+name_zh_auto: true
 autonym: Kosare
 population: 250
 country_id: ID

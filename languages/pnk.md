@@ -1,6 +1,8 @@
 ---
 iso: pnk
 name: Paunaka
+name_zh: 帕乌纳卡语
+name_zh_auto: true
 autonym: Paunaka
 alt_names: [Paiconeca, Pauna-Paicone, Pauna-Paikone, Paunaca]
 population: 10

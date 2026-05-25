@@ -1,6 +1,8 @@
 ---
 iso: bqt
 name: Bamukumbit
+name_zh: 巴穆库姆比特语
+name_zh_auto: true
 autonym: Bamenkombit
 alt_names: [Bamenkoumbit, Bamoukoumbit, Bamunkum, Mangkong]
 population: 12000

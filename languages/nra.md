@@ -1,6 +1,8 @@
 ---
 iso: nra
 name: Ngom
+name_zh: 恩贡语
+name_zh_auto: true
 autonym: Dikele
 alt_names: [Angom, Bangom, Bangomo, Ngomo, Ongom, Ungom]
 population: 12770

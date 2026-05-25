@@ -1,6 +1,8 @@
 ---
 iso: sym
 name: Maya Samo
+name_zh: 玛亚萨莫语
+name_zh_auto: true
 autonym: Sane
 alt_names: [Northeastern Samo, Northern Samo, Sa, Samo, "Samo, Maya", San, Somono]
 population: 38000

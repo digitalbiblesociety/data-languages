@@ -1,6 +1,8 @@
 ---
 iso: mor
 name: Moro
+name_zh: 莫罗语
+name_zh_auto: true
 autonym: Dhimorong
 population: 72000
 country_id: SD

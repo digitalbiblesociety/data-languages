@@ -1,6 +1,8 @@
 ---
 iso: phd
 name: Phudagi
+name_zh: 普鲁达吉语
+name_zh_auto: true
 autonym: Vadvali
 alt_names: [Vadval]
 population: 1010

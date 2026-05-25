@@ -1,6 +1,8 @@
 ---
 iso: pdu
 name: Kayan
+name_zh: 卡扬语
+name_zh_auto: true
 autonym: Kayan
 alt_names: [Kayang, Padaung, Padaung Karen]
 population: 133180

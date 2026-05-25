@@ -1,6 +1,8 @@
 ---
 iso: anx
 name: "Andra-Hus"
+name_zh: 安德拉-胡斯语
+name_zh_auto: true
 autonym: Ahus
 alt_names: [Admiralitäts-inseln, "Ha'us"]
 population: 1310

@@ -1,6 +1,8 @@
 ---
 iso: bdw
 name: Baham
+name_zh: 巴哈姆语
+name_zh_auto: true
 autonym: Patimuni
 population: 1100
 country_id: ID

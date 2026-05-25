@@ -1,6 +1,8 @@
 ---
 iso: mqj
 name: Mamasa
+name_zh: 玛玛萨语
+name_zh_auto: true
 autonym: null
 alt_names: [Nordost-Celebes]
 population: 89100

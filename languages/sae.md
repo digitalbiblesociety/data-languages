@@ -1,6 +1,8 @@
 ---
 iso: sae
 name: Sabanê
+name_zh: 萨班埃语
+name_zh_auto: true
 autonym: Sabanês Sabones
 alt_names: [Sabane, Sabané, Sabanés, Sabanês, Sabones]
 population: 3

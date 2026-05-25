@@ -1,6 +1,8 @@
 ---
 iso: spd
 name: Saep
+name_zh: 萨艾普语
+name_zh_auto: true
 autonym: null
 population: 550
 country_id: PG

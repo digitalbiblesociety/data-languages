@@ -1,6 +1,8 @@
 ---
 iso: lgr
 name: Lengo
+name_zh: 伦戈语
+name_zh_auto: true
 autonym: Doku
 alt_names: [Ruavatu, Südliche Salomons-Inseln, Tasemboko]
 population: 13800

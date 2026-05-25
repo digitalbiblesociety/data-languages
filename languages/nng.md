@@ -1,6 +1,8 @@
 ---
 iso: nng
 name: Maring Naga
+name_zh: 玛林纳加语
+name_zh_auto: true
 autonym: Maring
 alt_names: [Naga, Naga maring, "Naga, Maring", "Naga,Maring"]
 population: 25800

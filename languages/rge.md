@@ -1,6 +1,8 @@
 ---
 iso: rge
 name: "Romano-Greek"
+name_zh: 罗玛诺-希腊语
+name_zh_auto: true
 autonym: Hellenoromani
 alt_names: [European Romany, Portuguese Calão, Romika]
 population: null

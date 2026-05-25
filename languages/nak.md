@@ -1,6 +1,8 @@
 ---
 iso: nak
 name: Nakanai
+name_zh: 那卡奈语
+name_zh_auto: true
 autonym: Lakalai
 alt_names: [Bileki, Nakonai]
 population: 30000

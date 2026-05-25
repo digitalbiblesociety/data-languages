@@ -1,6 +1,8 @@
 ---
 iso: dtk
 name: Tene Kan Dogon
+name_zh: 特内坎多贡语
+name_zh_auto: true
 autonym: Kan Dogon
 alt_names: [Dogon, "Dogon, Tene Kan", Tene, Tene Kan, Tene Tingi]
 population: 127000

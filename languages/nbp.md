@@ -1,6 +1,8 @@
 ---
 iso: nbp
 name: Nnam
+name_zh: 恩南语
+name_zh_auto: true
 autonym: Ndem
 population: 3000
 country_id: NG

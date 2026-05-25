@@ -1,6 +1,8 @@
 ---
 iso: byx
 name: Qaqet
+name_zh: 卡克特语
+name_zh_auto: true
 autonym: Baining
 alt_names: [Kakat, Makakat, Maqaqet, Neu-Pommern]
 population: 6350

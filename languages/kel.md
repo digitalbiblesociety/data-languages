@@ -1,6 +1,8 @@
 ---
 iso: kel
 name: Kela (Democratic Republic of Congo)
+name_zh: 凯拉语
+name_zh_auto: true
 autonym: Yela
 population: 180000
 country_id: CD

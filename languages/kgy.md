@@ -1,6 +1,8 @@
 ---
 iso: kgy
 name: Kyerung
+name_zh: 克雍语
+name_zh_auto: true
 autonym: " Lende Kyerung "
 alt_names: [Gyirong, Kyirong]
 population: 4790

@@ -1,6 +1,8 @@
 ---
 iso: azt
 name: Faire Atta
+name_zh: 费尔阿塔语
+name_zh_auto: true
 autonym: Southern Atta
 alt_names: [Atta faire, Atta meridional, "Atta, Faire"]
 population: 300

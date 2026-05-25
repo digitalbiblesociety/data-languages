@@ -1,6 +1,8 @@
 ---
 iso: nsc
 name: Nshi
+name_zh: 恩什语
+name_zh_auto: true
 autonym: Babessi
 alt_names: [Nigeria]
 population: null

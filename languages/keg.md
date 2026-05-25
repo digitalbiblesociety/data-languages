@@ -1,6 +1,8 @@
 ---
 iso: keg
 name: Tese
+name_zh: 特塞语
+name_zh_auto: true
 autonym: Ţɛséʔ
 alt_names: [Dese, Keiga Girru, Keiga Jirru, Teis-Umm-Danab, Teis-um-Danab]
 population: 1400

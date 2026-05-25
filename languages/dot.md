@@ -1,6 +1,8 @@
 ---
 iso: dot
 name: Dass
+name_zh: 达斯语
+name_zh_auto: true
 autonym: Barawa
 alt_names: [Bandas, Barawa of Dass, Boodli, Dekshi, Dot, Durr-Baraza, Dwat, Lukshi, Wandi, Wangday, Zodi, Zumbul]
 population: 1130

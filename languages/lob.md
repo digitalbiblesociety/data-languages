@@ -1,6 +1,8 @@
 ---
 iso: lob
 name: Lobi
+name_zh: 洛比语
+name_zh_auto: true
 autonym: Lobiri
 alt_names: [Miwa]
 population: 490000

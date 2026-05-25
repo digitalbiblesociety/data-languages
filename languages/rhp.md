@@ -1,6 +1,8 @@
 ---
 iso: rhp
 name: Yahang
+name_zh: 雅汉语
+name_zh_auto: true
 autonym: Ruruhip
 alt_names: ["Rurihi'ip", "Ruruhi'ip", Ruruhi’ip, "Ya'unk", Ya’unk]
 population: 1116

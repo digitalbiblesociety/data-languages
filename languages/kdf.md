@@ -1,6 +1,8 @@
 ---
 iso: kdf
 name: Mamusi
+name_zh: 马木西语
+name_zh_auto: true
 autonym: Kakuna
 population: 6000
 country_id: PG

@@ -1,6 +1,8 @@
 ---
 iso: msu
 name: Musom
+name_zh: 穆松语
+name_zh_auto: true
 autonym: Misatik
 population: 200
 country_id: PG

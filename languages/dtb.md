@@ -1,6 +1,8 @@
 ---
 iso: dtb
 name: "Labuk-Kinabatangan Kadazan"
+name_zh: 拉布克-基那巴坦甘卡达让语
+name_zh_auto: true
 autonym: "Labuk-Kinabatangan Kadazan"
 alt_names: [Eastern Kadazan, Kadazan, "Kadazan, Labuk-Kinabatangan", Labuk Kadazan, Sogilitan, Tindakon, Tompulung]
 population: 20600

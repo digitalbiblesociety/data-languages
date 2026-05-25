@@ -1,6 +1,8 @@
 ---
 iso: bnr
 name: "Butmas-Tur"
+name_zh: 布特马斯-图尔语
+name_zh_auto: true
 autonym: "Butmas-Tur"
 alt_names: [Ati, Farafi]
 population: 520

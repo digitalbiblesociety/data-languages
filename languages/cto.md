@@ -1,6 +1,8 @@
 ---
 iso: cto
 name: "Emberá-Catío"
+name_zh: 埃姆贝拉-卡蒂奥语
+name_zh_auto: true
 autonym: "Emberá-Catío"
 alt_names: [Atrato, Catio, Catio-Embera language, Catío, Choco, Cholo, Dabeiba, Dariena, Darién, Eberã, "Eberã Bed'ea", Eberã Bed’ea, Embena, Ember-Cato, Embera (Colombie), Embera (Panama), Embera (Panamá), Embera-Catio, Emberá catío, Emperã, Epera), Eperã Pedea, "Eyabida (Alternate names in Panama:  Catío", Katio, Northern Emberá, Panama Embera]
 population: 15040

@@ -1,6 +1,8 @@
 ---
 iso: yik
 name: Dongshanba Lalo
+name_zh: 东山坝-拉罗语
+name_zh_auto: true
 autonym: Western Yi
 alt_names: [Lalo, "Lalo, Dongshanba", "Lalo,Dongshanba", Lalu, Lalupa, Lolo, Yi, "Yi, Xishan Lalu"]
 population: 30000

@@ -1,6 +1,8 @@
 ---
 iso: cte
 name: Tepinapa Chinantec
+name_zh: 特皮纳帕奇南特克语
+name_zh_auto: true
 autonym: Chinanteco del sureste medio
 alt_names: [Chinantec, "Chinantec, Tepinapa", Chinanteco, Chinanteko, Middle Southeastern Chinantec, Tepinapa, jujmi (del sureste medio)]
 population: 1500

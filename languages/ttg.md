@@ -1,6 +1,8 @@
 ---
 iso: ttg
 name: Tutong
+name_zh: 图通语
+name_zh_auto: true
 autonym: Tutong 2
 alt_names: [Tutung]
 population: 16600

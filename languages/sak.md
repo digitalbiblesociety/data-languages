@@ -1,6 +1,8 @@
 ---
 iso: sak
 name: Sake
+name_zh: 萨克语
+name_zh_auto: true
 autonym: Sake
 alt_names: [Asake, Saké, Shake]
 population: 1000

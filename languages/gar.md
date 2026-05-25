@@ -1,6 +1,8 @@
 ---
 iso: gar
 name: Galeya
+name_zh: 加莱亚语
+name_zh_auto: true
 autonym: Garea
 population: 3410
 country_id: PG

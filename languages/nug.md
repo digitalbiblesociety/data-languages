@@ -1,6 +1,8 @@
 ---
 iso: nug
 name: Nungali
+name_zh: 农加利语
+name_zh_auto: true
 autonym: Yilngali
 alt_names: [Ilngali, Jilngali, Nungulu]
 population: null

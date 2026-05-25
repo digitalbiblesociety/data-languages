@@ -1,6 +1,8 @@
 ---
 iso: kqa
 name: Mum
+name_zh: 穆姆语
+name_zh_auto: true
 autonym: Katiati
 population: 3290
 country_id: PG

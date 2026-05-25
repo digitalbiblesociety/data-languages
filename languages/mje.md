@@ -1,6 +1,8 @@
 ---
 iso: mje
 name: Muskum
+name_zh: 穆斯库姆语
+name_zh_auto: true
 autonym: Muzuk
 alt_names: [Muzgum]
 population: null

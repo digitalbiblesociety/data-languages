@@ -1,6 +1,8 @@
 ---
 iso: cfd
 name: Cara
+name_zh: 卡拉语
+name_zh_auto: true
 autonym: Teriya
 alt_names: [Chara, Fachara, Fakara, Nfachara, Pakara, Tariya, Tera, Terri]
 population: 3000

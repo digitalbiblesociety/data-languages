@@ -1,6 +1,8 @@
 ---
 iso: set
 name: Sentani
+name_zh: 塞塔尼语
+name_zh_auto: true
 autonym: Buyaka
 alt_names: [Sentani language]
 population: 30000

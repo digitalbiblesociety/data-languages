@@ -1,6 +1,8 @@
 ---
 iso: brp
 name: Barapasi
+name_zh: 巴拉帕西语
+name_zh_auto: true
 autonym: Baropasi
 population: 2500
 country_id: ID

@@ -1,6 +1,8 @@
 ---
 iso: svs
 name: Savosavo
+name_zh: 萨沃萨沃语
+name_zh_auto: true
 autonym: Savo
 alt_names: [Savo Island, Savsavo]
 population: 2420

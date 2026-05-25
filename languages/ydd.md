@@ -1,6 +1,8 @@
 ---
 iso: ydd
 name: Eastern Yiddish
+name_zh: 东意第绪语
+name_zh_auto: true
 autonym: ייִדיש
 alt_names: [Central Yiddish, Judeo-German, Yiddish, Yiddish (Bessarabian), Yiddish (Europe), Yiddish (Israel), Yiddish (Israël), Yiddish (Lithuanian), Yiddish (Lodz), "Yiddish, Eastern", d Judeo German]
 population: 371657

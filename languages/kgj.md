@@ -1,6 +1,8 @@
 ---
 iso: kgj
 name: Gamale Kham
+name_zh: 盖马勒卡姆语
+name_zh_auto: true
 autonym: Kham language
 alt_names: [Gamale, Jamí, Kham, "Kham, Gamale", "Kham,Gamale", Khamkura, Khams, Proto-Kham]
 population: 1000

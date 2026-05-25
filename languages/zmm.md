@@ -1,6 +1,8 @@
 ---
 iso: zmm
 name: Marimanindji
+name_zh: 马里马尼因地语
+name_zh_auto: true
 autonym: Berringen
 alt_names: [Akaja, Arkiya Dilik, Dilik, Lee wakya, Leewakya, Mangikurungu, Maramanandji, Maramanindji, Maramarandji, Marekaganda, Marimanindu, Maritjamiri, Marramananjsji, Marramanenjsji, Marramanindjdji, Marramaninjsji, Marramaninyshi, Marrimanindji, Murinmanindji, Murintjameri, Tjameri, Ukkia, Waagai, Waagi, Wagai, Wagaiau, Wagaja, Waggaia, Waggaja, Wakaja, Wakaya, Wakkaja, Warkaia, Warkya, Western Daly language., Wogaia, Woorkia, Worgai, Worgaia, Workaia, Workia, Workii]
 population: 15

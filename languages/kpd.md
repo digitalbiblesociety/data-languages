@@ -1,6 +1,8 @@
 ---
 iso: kpd
 name: Koba
+name_zh: 科巴语
+name_zh_auto: true
 autonym: null
 alt_names: [Aru]
 population: 600

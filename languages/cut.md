@@ -1,6 +1,8 @@
 ---
 iso: cut
 name: Teutila Cuicatec
+name_zh: 特乌蒂拉奎卡特克语
+name_zh_auto: true
 autonym: "Cuicatec, Teutila"
 alt_names: [Cuica, Cuicatec, Cuicateco, Kwikateko, Teutila]
 population: 3140

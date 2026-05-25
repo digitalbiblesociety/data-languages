@@ -1,6 +1,8 @@
 ---
 iso: cnu
 name: Chenoua
+name_zh: 切努阿语
+name_zh_auto: true
 autonym: Chenoua
 alt_names: [Chenoua jezik, Chenoueg, Chenoui, Idioma chenoua, Sheliff Basin, Shenowa, Shènoï, Tacenwit]
 population: 15250

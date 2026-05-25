@@ -1,6 +1,8 @@
 ---
 iso: soo
 name: Songo
+name_zh: 松戈语
+name_zh_auto: true
 autonym: Eyansi
 alt_names: [Itsong, Kisongo, Nsong]
 population: 23400

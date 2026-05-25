@@ -1,6 +1,8 @@
 ---
 iso: bgj
 name: Bangolan
+name_zh: 邦戈兰语
+name_zh_auto: true
 autonym: sɔ́ŋnə́ ŋgbáŋlɛ
 population: 13500
 country_id: CM

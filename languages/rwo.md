@@ -1,6 +1,8 @@
 ---
 iso: rwo
 name: Rawa
+name_zh: 拉瓦语
+name_zh_auto: true
 autonym: Karo
 alt_names: [Erawa, Erewa, Karo/Rawa, Raua]
 population: 11500

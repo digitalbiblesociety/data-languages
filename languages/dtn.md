@@ -1,6 +1,8 @@
 ---
 iso: dtn
 name: Daatsʼíin
+name_zh: 达茨音语
+name_zh_auto: true
 autonym: null
 population: 300
 country_id: ET

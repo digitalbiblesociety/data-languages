@@ -1,6 +1,8 @@
 ---
 iso: kuq
 name: Karipuna
+name_zh: 卡里普纳语
+name_zh_auto: true
 autonym: "Ah'e"
 alt_names: [Caripuna, "Diahoi [Jiahui", "Diarroi]", Djahui, Jau-Navo, Juanauo, Kagwahiva, Kari, Karipuna do Guapore, Karipuná de Rondônia, Karipúna do Guaporé, Kawahib/Paranawat/Pawaté-Wirafed, Parintintín/Tenharim/Juma, Tukumanfed]
 population: null

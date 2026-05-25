@@ -1,6 +1,8 @@
 ---
 iso: bls
 name: Balaesang
+name_zh: 巴拉桑语
+name_zh_auto: true
 autonym: Balaesan
 alt_names: [Balaesano, Balaisang, Baleasang, Pajo]
 population: 3200

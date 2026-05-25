@@ -1,6 +1,8 @@
 ---
 iso: muy
 name: Muyang
+name_zh: 穆阳语
+name_zh_auto: true
 autonym: null
 alt_names: [Mouyenge, Mouyengue, Muyenge, Myau, Myenge]
 population: 30000

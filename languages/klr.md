@@ -1,6 +1,8 @@
 ---
 iso: klr
 name: Khaling
+name_zh: 哈林语
+name_zh_auto: true
 autonym: खालिङ
 alt_names: ["C'halingeg", Jalingo, Kaling, Khael Baat, Khael Bra, Khalinge Rai, Rai]
 population: 14500

@@ -1,6 +1,8 @@
 ---
 iso: cme
 name: Cerma
+name_zh: 塞尔玛语
+name_zh_auto: true
 autonym: Gouin
 alt_names: [Guin, Gwe, Gwen, Kirma, Mbouin]
 population: 53600

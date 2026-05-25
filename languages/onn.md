@@ -1,6 +1,8 @@
 ---
 iso: onn
 name: Onobasulu
+name_zh: 奥诺巴苏鲁语
+name_zh_auto: true
 autonym: Onabasulu
 population: 700
 country_id: PG

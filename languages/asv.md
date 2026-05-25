@@ -1,6 +1,8 @@
 ---
 iso: asv
 name: Asoa
+name_zh: 阿索亚语
+name_zh_auto: true
 autonym: Aka
 alt_names: [Asua, Asuae, Asuati]
 population: 25500

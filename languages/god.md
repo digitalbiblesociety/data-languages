@@ -1,6 +1,8 @@
 ---
 iso: god
 name: Godié
+name_zh: 戈迪语
+name_zh_auto: true
 autonym: Godye
 alt_names: [Godie]
 population: 26400

@@ -1,6 +1,8 @@
 ---
 iso: zro
 name: Záparo
+name_zh: 萨帕罗语
+name_zh_auto: true
 autonym: Kayapwe
 alt_names: [Idioma záparo, Kayapi, Sapara simi, Sápara, Sáparo-Konambo, Zaparo, Zaparoeg, Zápara, Záparo jezik, Záparo-Conambo]
 population: 170

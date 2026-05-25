@@ -1,6 +1,8 @@
 ---
 iso: tri
 name: Trió
+name_zh: 特里奥语
+name_zh_auto: true
 autonym: tarëno ijomi
 alt_names: [Pianakoto, Tiriyo, Tiriyoeg, Tiriyó, Tiriyó language, Tirió, Tiríyo, Trio, Trio (Brésil), Trio (Suriname), Trió (Surinam), Tíríjó]
 population: 2460

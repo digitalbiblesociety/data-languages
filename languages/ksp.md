@@ -1,6 +1,8 @@
 ---
 iso: ksp
 name: Kaba
+name_zh: 卡巴语
+name_zh_auto: true
 autonym: Kabba of Gore
 alt_names: [Kaba de Baibokoum, Kaba de Paoua, Kabba, Sara, Sara Kaba, Western Kaba]
 population: 142000

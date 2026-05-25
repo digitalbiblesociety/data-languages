@@ -1,6 +1,8 @@
 ---
 iso: akf
 name: Akpa
+name_zh: 阿卡帕语
+name_zh_auto: true
 autonym: Akweya
 population: 26900
 country_id: NG

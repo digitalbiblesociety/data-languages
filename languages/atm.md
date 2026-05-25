@@ -1,6 +1,8 @@
 ---
 iso: atm
 name: Ata
+name_zh: 阿塔语
+name_zh_auto: true
 autonym: null
 population: null
 country_id: PH

@@ -1,6 +1,8 @@
 ---
 iso: bza
 name: Bandi
+name_zh: 班迪语
+name_zh_auto: true
 autonym: Bande
 alt_names: [Gbande, Gbandi, Gbunde, Mende-Bandi]
 population: 161000

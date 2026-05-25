@@ -1,6 +1,8 @@
 ---
 iso: ksx
 name: Kedang
+name_zh: 克当语
+name_zh_auto: true
 autonym: Dang
 alt_names: [Kdang, Kedangese, Kédang]
 population: 30000

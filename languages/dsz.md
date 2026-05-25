@@ -1,6 +1,8 @@
 ---
 iso: dsz
 name: Mardin Sign Language
+name_zh: 马尔丁手语
+name_zh_auto: true
 alt_names: [Dilsizce, Eski Işaretler]
 population: 40
 country_id: TR

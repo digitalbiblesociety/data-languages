@@ -1,6 +1,8 @@
 ---
 iso: jni
 name: Janji
+name_zh: 詹吉语
+name_zh_auto: true
 autonym: Tijanji
 alt_names: [Ajanji, Anafejanzi, Jenji]
 population: 1150

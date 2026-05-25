@@ -1,6 +1,8 @@
 ---
 iso: vnm
 name: Vinmavis
+name_zh: 文玛维斯语
+name_zh_auto: true
 autonym: Vinmavis
 alt_names: [Lambumbu, Mallicolo, "Neve'ei"]
 population: 500

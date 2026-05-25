@@ -1,6 +1,8 @@
 ---
 iso: mih
 name: Chayuco Mixtec
+name_zh: 查尤科混合语
+name_zh_auto: true
 autonym: "Cristobál-Chayuco"
 alt_names: [Eastern Jamiltepec-Chayuco Mixtec, Misteko, Mixtec, Mixtec (Chayuco), "Mixtec, Chayuco", Mixteco (Chayuco), Mixteco de Chayucu, Southern Misteko, Southern Mixteco]
 population: 10000

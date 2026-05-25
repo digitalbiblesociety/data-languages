@@ -1,6 +1,8 @@
 ---
 iso: ora
 name: Oroha
+name_zh: 奥罗哈语
+name_zh_auto: true
 autonym: "Mara Ma-Siki"
 alt_names: [Lenga Oroha, Oraha, Oroha jezik, Südliche Salomons-Inseln]
 population: 38

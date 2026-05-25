@@ -1,6 +1,8 @@
 ---
 iso: wah
 name: Watubela
+name_zh: 瓦图贝拉语
+name_zh_auto: true
 autonym: Esiriun
 alt_names: [Kasiui, Kasui, Kesui, Matabello, Snabi Watubela, Wesi]
 population: 4000

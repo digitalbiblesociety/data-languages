@@ -1,6 +1,8 @@
 ---
 iso: kcf
 name: Ukaan
+name_zh: 乌卡安语
+name_zh_auto: true
 autonym: "AIKA (Ayanran-Ishe-Kakumo-Auga)"
 alt_names: [Anyaran, Auga, Ikan, Kakumo]
 population: 18000

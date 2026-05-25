@@ -1,6 +1,8 @@
 ---
 iso: enn
 name: Engenni
+name_zh: 恩根尼语
+name_zh_auto: true
 autonym: Ẹgẹnẹ
 alt_names: [Egene, "Egene, Engene", Ngene]
 population: 20000

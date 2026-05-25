@@ -1,6 +1,8 @@
 ---
 iso: ayt
 name: Magbukun Ayta
+name_zh: 马格布昆艾塔语
+name_zh_auto: true
 autonym: Bataan Ayta
 alt_names: [Ayta, Ayta de Bataan, Ayta du Bataan, "Ayta, Bataan", "Ayta, Magbukun", Bataan, Bataan Sambal, Idioma mariveleño, Mariveles Ayta, Mariveleño language, ภาษามารีเวเลโญ]
 population: 1000

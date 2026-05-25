@@ -1,6 +1,8 @@
 ---
 iso: dmc
 name: Gavak
+name_zh: 加瓦克语
+name_zh_auto: true
 autonym: Gavak
 alt_names: [Bosiken, Boskien, Dimir]
 population: 3820

@@ -1,6 +1,8 @@
 ---
 iso: xpj
 name: Mpalitjanh
+name_zh: 姆帕利特詹语
+name_zh_auto: true
 autonym: Mbalidjan
 population: null
 country_id: AU

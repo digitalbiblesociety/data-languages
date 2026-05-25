@@ -1,6 +1,8 @@
 ---
 iso: ccl
 name: "Cutchi-Swahili"
+name_zh: 库奇-斯瓦希里语
+name_zh_auto: true
 autonym: Asian Swahili
 population: 45000
 country_id: TZ

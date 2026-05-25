@@ -1,6 +1,8 @@
 ---
 iso: obi
 name: Obispeño
+name_zh: 奥比斯佩尼奥语
+name_zh_auto: true
 autonym: tiłhini
 alt_names: [Chumasha Proper, Northern Chumash, Obispeno, Obsipeño, San Luis Obispo, Santa Rosa]
 population: null

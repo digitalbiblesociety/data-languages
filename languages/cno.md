@@ -1,6 +1,8 @@
 ---
 iso: cno
 name: Con
+name_zh: 康语
+name_zh_auto: true
 autonym: Kha Kior
 population: 1000
 country_id: LA

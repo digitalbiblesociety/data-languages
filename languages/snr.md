@@ -1,6 +1,8 @@
 ---
 iso: snr
 name: Sihan
+name_zh: 西汉语
+name_zh_auto: true
 autonym: null
 population: 570
 country_id: PG

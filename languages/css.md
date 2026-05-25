@@ -1,6 +1,8 @@
 ---
 iso: css
 name: Southern Ohlone
+name_zh: 南奥赫龙语
+name_zh_auto: true
 autonym: Costanoan
 alt_names: ["Ohlone, Southern"]
 population: null

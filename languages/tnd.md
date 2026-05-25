@@ -1,6 +1,8 @@
 ---
 iso: tnd
 name: Angosturas Tunebo
+name_zh: 安戈斯图拉斯图内博语
+name_zh_auto: true
 autonym: Tunebo
 alt_names: [Cobaría, Pedraza, Pedrazá, Sínsiga, Tame, Tegría, Tunebo (Central), "Tunebo, Angosturas", "U'w Cuwa", "U'w Kuwa", "U'wa", Uw Cuwa, Uwa]
 population: null

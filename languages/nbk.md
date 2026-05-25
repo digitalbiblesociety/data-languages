@@ -1,6 +1,8 @@
 ---
 iso: nbk
 name: Nake
+name_zh: 纳克语
+name_zh_auto: true
 autonym: Ale
 population: 170
 country_id: PG

@@ -1,6 +1,8 @@
 ---
 iso: esq
 name: Esselen
+name_zh: 埃塞伦语
+name_zh_auto: true
 autonym: Huelel
 alt_names: [Esselenian, Idioma esselen, USA, Эсселенский язык]
 population: null

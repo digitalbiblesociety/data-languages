@@ -1,6 +1,8 @@
 ---
 iso: lcc
 name: Legenyem
+name_zh: 莱根耶姆语
+name_zh_auto: true
 autonym: Laganyan
 population: 250
 country_id: ID

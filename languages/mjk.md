@@ -1,6 +1,8 @@
 ---
 iso: mjk
 name: Matukar
+name_zh: 玛图卡尔语
+name_zh_auto: true
 autonym: null
 alt_names: [Matukar language]
 population: 430

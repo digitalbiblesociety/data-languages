@@ -1,6 +1,8 @@
 ---
 iso: bjt
 name: "Balanta-Ganja"
+name_zh: 巴兰塔-甘加语
+name_zh_auto: true
 autonym: Alante
 alt_names: [Balanda, Balant, Balanta, Balante, Ballante, Belante, Brassa, Bulanda, Fjaa, Fraase]
 population: 116000

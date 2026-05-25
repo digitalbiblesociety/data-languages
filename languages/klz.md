@@ -1,6 +1,8 @@
 ---
 iso: klz
 name: Kabola
+name_zh: 卡博拉语
+name_zh_auto: true
 autonym: null
 alt_names: [Indonesia]
 population: 3900

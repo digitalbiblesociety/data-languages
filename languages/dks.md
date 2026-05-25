@@ -1,6 +1,8 @@
 ---
 iso: dks
 name: Southeastern Dinka
+name_zh: 东南丁卡语
+name_zh_auto: true
 autonym: Thuɔŋjäŋ
 alt_names: [Bor, Dinka, "Dinka, Southeastern", Eastern Dinka, Ost-Dinka]
 population: 989120

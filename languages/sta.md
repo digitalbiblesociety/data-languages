@@ -1,6 +1,8 @@
 ---
 iso: sta
 name: Settla
+name_zh: 塞特拉语
+name_zh_auto: true
 autonym: Settla
 alt_names: [Kisetla, Kisettla]
 population: null

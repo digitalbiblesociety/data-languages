@@ -1,6 +1,8 @@
 ---
 iso: nnm
 name: Namia
+name_zh: 纳米亚语
+name_zh_auto: true
 autonym: Edawapi
 alt_names: [Lujere, Namie, Nemia, Nemie, Watalu, Yellow River]
 population: 300

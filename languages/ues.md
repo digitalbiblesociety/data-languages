@@ -1,6 +1,8 @@
 ---
 iso: ues
 name: Kioko
+name_zh: 基奥科语
+name_zh_auto: true
 autonym: null
 alt_names: [Indonesia]
 population: 1000

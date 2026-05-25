@@ -1,6 +1,8 @@
 ---
 iso: bei
 name: "Bekati'"
+name_zh: 贝卡蒂语
+name_zh_auto: true
 autonym: Bakati Nyam
 alt_names: [Bakatiq]
 population: 4000

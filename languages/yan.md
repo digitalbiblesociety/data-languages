@@ -1,6 +1,8 @@
 ---
 iso: yan
 name: Mayangna
+name_zh: 玛央纳语
+name_zh_auto: true
 autonym: Sumu
 alt_names: [Sumo, Sumo-Mayangna, Ulua, Ulwa, Ulúa, Woolwa]
 population: 8700

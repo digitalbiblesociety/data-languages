@@ -1,6 +1,8 @@
 ---
 iso: cks
 name: Tayo
+name_zh: 塔约语
+name_zh_auto: true
 autonym: Patois
 alt_names: ["\"Caldoche\"", "\"Kaldosh\"", Bichelemar, Kaldosh, New Caledonia Pidgin French, Patois de St-Louis, タヨ語]
 population: 900

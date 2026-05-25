@@ -1,6 +1,8 @@
 ---
 iso: ppk
 name: Uma
+name_zh: 乌玛语
+name_zh_auto: true
 autonym: Pipikoro
 alt_names: [Oema]
 population: 18800

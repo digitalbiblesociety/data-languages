@@ -1,6 +1,8 @@
 ---
 iso: gwb
 name: Gwa
+name_zh: 瓜语
+name_zh_auto: true
 autonym: null
 population: 980
 country_id: NG

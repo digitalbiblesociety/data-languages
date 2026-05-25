@@ -1,6 +1,8 @@
 ---
 iso: nma
 name: Maram Naga
+name_zh: 玛拉姆纳加语
+name_zh_auto: true
 autonym: Maram Naga
 alt_names: [Maram, Naga, "Naga, Maram", "Naga,Maram"]
 population: 32500

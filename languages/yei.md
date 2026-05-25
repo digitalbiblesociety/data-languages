@@ -1,6 +1,8 @@
 ---
 iso: yei
 name: Yeni
+name_zh: 耶尼语
+name_zh_auto: true
 autonym: null
 alt_names: [Cameroon]
 population: null

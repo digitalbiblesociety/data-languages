@@ -1,6 +1,8 @@
 ---
 iso: lgm
 name: "Lega-Mwenga"
+name_zh: 勒加-姆韦恩加语
+name_zh_auto: true
 autonym: Ileka Ishile
 alt_names: [Ishile, Kilega, Kirega, Lega, Leka-Shile, Leka-Sile, Rega, Shile]
 population: 44900

@@ -1,6 +1,8 @@
 ---
 iso: twx
 name: Tewe
+name_zh: 特威语
+name_zh_auto: true
 autonym: Chimanyika
 alt_names: [Chiute, Ciute, Teve, Vateve, Wateve]
 population: 365000

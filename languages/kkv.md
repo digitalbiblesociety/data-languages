@@ -1,6 +1,8 @@
 ---
 iso: kkv
 name: Kangean
+name_zh: 康甘语
+name_zh_auto: true
 autonym: Bĕsa Kangėan
 alt_names: [Indonesia]
 population: 110000

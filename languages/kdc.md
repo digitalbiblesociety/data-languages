@@ -1,6 +1,8 @@
 ---
 iso: kdc
 name: Kutu
+name_zh: 库图语
+name_zh_auto: true
 autonym: null
 alt_names: [Khutu, Kikutu]
 population: 27500

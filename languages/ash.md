@@ -1,6 +1,8 @@
 ---
 iso: ash
 name: Abishira
+name_zh: 阿比希拉语
+name_zh_auto: true
 autonym: Aiwa
 alt_names: [Abigira, Abiquira, Agouisiri, Auishiri, Auishiri (tekiraka), Aushiri, Avirxiri, Avishiri, Avixiri, Ixignor, Tekiraka, Tequiraca, Tequraca, Vacacocha]
 population: 2010

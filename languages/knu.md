@@ -1,6 +1,8 @@
 ---
 iso: knu
 name: Kono (Guinea)
+name_zh: 科诺语
+name_zh_auto: true
 autonym: Kpɛlɛwoo
 alt_names: [Kono, Kpelle]
 population: 99300

@@ -1,6 +1,8 @@
 ---
 iso: sqm
 name: Suma
+name_zh: 苏玛语
+name_zh_auto: true
 autonym: Souma
 alt_names: ["'Bokoto", Gbanu, Gbaya, Gbeya, Kara, Southern Gbaya]
 population: 50000

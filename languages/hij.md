@@ -1,6 +1,8 @@
 ---
 iso: hij
 name: Hijuk
+name_zh: 希尤克语
+name_zh_auto: true
 autonym: null
 population: 400
 country_id: CM

@@ -1,6 +1,8 @@
 ---
 iso: bvz
 name: Bauzi
+name_zh: 鲍齐语
+name_zh_auto: true
 autonym: Baudi
 alt_names: [Baudji, Baudzi, Bauri]
 population: 1500

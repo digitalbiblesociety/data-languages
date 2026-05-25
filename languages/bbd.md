@@ -1,6 +1,8 @@
 ---
 iso: bbd
 name: Bau
+name_zh: 鲍语
+name_zh_auto: true
 autonym: null
 population: 3200
 country_id: PG

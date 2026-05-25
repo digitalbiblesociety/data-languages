@@ -1,6 +1,8 @@
 ---
 iso: clu
 name: Caluyanun
+name_zh: 卡卢亚农语
+name_zh_auto: true
 autonym: null
 alt_names: [Bisaya, Caluyanen, Caluyanhon, Caluyanon language, Caluyanon nga yinaknan, ภาษากาลูยานอน]
 population: 30000

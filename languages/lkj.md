@@ -1,6 +1,8 @@
 ---
 iso: lkj
 name: Remun
+name_zh: 雷蒙语
+name_zh_auto: true
 autonym: Milikin
 alt_names: [Millikin]
 population: 3500

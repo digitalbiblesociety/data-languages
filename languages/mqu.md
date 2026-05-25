@@ -1,6 +1,8 @@
 ---
 iso: mqu
 name: Mandari
+name_zh: 曼达里语
+name_zh_auto: true
 autonym: Chir
 alt_names: [Kir, Mondari, Mundari, Shir]
 population: 70000

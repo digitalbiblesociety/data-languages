@@ -1,6 +1,8 @@
 ---
 iso: nih
 name: Nyiha (Tanzania)
+name_zh: 尼亚语
+name_zh_auto: true
 autonym: Ishinyiha
 alt_names: [Kinyiha, Nyiha, Nyika, Nyixa, Shinyiha]
 population: 126000

@@ -1,6 +1,8 @@
 ---
 iso: hom
 name: Homa
+name_zh: 霍玛语
+name_zh_auto: true
 autonym: null
 population: null
 country_id: SS

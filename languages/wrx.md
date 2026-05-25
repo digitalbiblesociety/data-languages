@@ -1,6 +1,8 @@
 ---
 iso: wrx
 name: Wae Rana
+name_zh: 瓦埃拉纳语
+name_zh_auto: true
 autonym: Kolor
 alt_names: [Mbaen, Waerana]
 population: 4240

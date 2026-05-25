@@ -1,6 +1,8 @@
 ---
 iso: awx
 name: Awara
+name_zh: 阿瓦拉语
+name_zh_auto: true
 autonym: null
 population: 1800
 country_id: PG

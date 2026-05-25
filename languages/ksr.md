@@ -1,6 +1,8 @@
 ---
 iso: ksr
 name: Borong
+name_zh: 博龙语
+name_zh_auto: true
 autonym: Kosorong
 alt_names: [Naama]
 population: 2070

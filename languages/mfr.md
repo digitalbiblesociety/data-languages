@@ -1,6 +1,8 @@
 ---
 iso: mfr
 name: Marrithiyel
+name_zh: 玛利提耶尔语
+name_zh_auto: true
 autonym: Berringen
 alt_names: ["\"Bringen\"", "\"Brinken\"", Berinken, Berinkin, Berringin, Bringen, Brinkan, Brinken, Brinkin, Magatige, Marathiel, Maridhiel, Maridhiyel, Maridiel, Maridiyal, Maridiyel, Maridjiel, Marithid, Marithiel, Marithiyel, Maritige, Marri Ammu, Marridan, Marrisjefin, Matige, Muringa, Muringata, Muringe, Muritijel, Western Daly language., beringken, commonly adapted into English as Brinkin]
 population: 20

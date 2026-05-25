@@ -1,6 +1,8 @@
 ---
 iso: fni
 name: Fania
+name_zh: 范尼亚语
+name_zh_auto: true
 autonym: Kulaale
 alt_names: [Eywe, Fagnia, Fana, Fanian, Fanya, Fanyan, Fulfulde (Nigerian), Kobe, Mana]
 population: 1100

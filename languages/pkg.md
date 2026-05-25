@@ -1,6 +1,8 @@
 ---
 iso: pkg
 name: "Pak-Tong"
+name_zh: 帕克-通语
+name_zh_auto: true
 autonym: "Tong-Pak"
 alt_names: [Admiralitäts-inseln]
 population: 970

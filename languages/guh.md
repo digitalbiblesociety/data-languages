@@ -1,6 +1,8 @@
 ---
 iso: guh
 name: Guahibo
+name_zh: 瓜希博语
+name_zh_auto: true
 autonym: Jiwi
 alt_names: [Goahibo, Goahiva, Guaigua, Guajibo, Guayba, Guaybo, Gvahiba lingvo, Hiwi, Sicuane, Sicuani, Sicuari, Sikuani, Wahibo, Wahibo simi, Wahivo]
 population: 35000

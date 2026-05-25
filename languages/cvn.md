@@ -1,6 +1,8 @@
 ---
 iso: cvn
 name: Valle Nacional Chinantec
+name_zh: 瓦莱国家奇南特克语
+name_zh_auto: true
 autonym: Tlatepuzco Chinantec
 alt_names: [Chinantec, "Chinantec, Valle Nacional", Chinanteco, Chinanteco central bajo, Chinanteco de Valle Nacional, Chinanteko, Chinantèque de Valle Nacional, Lower Central Chinantec, j+g dsa k+, j+g ki tsomän, jumi dsa iin+n]
 population: 1500

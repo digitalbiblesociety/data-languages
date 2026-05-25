@@ -1,6 +1,8 @@
 ---
 iso: pnl
 name: Paleni
+name_zh: 帕莱尼语
+name_zh_auto: true
 autonym: Wara
 population: 260
 country_id: BF

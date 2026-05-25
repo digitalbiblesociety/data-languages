@@ -1,6 +1,8 @@
 ---
 iso: gyb
 name: Garus
+name_zh: 加鲁斯语
+name_zh_auto: true
 autonym: Ate
 alt_names: [Em, Kurupi]
 population: 2650

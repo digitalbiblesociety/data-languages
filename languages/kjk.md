@@ -1,6 +1,8 @@
 ---
 iso: kjk
 name: Highland Konjo
+name_zh: 高地孔若语
+name_zh_auto: true
 autonym: Konjo Pegunungan
 alt_names: ["Konjo, Highland", Konyo]
 population: 68500

@@ -1,6 +1,8 @@
 ---
 iso: csy
 name: Siyin Chin
+name_zh: 西伊因钦语
+name_zh_auto: true
 autonym: Siyin
 alt_names: [Chin (North), Chin (Siyin), "Chin, Siyin", "Chin,Siyin", Shi-zang, Siyang, Sizang]
 population: 10700

@@ -1,6 +1,8 @@
 ---
 iso: zik
 name: Zimakani
+name_zh: 齐马卡尼语
+name_zh_auto: true
 autonym: Baegwa
 alt_names: [Babwa, Bagwa Zimakani, Dea, Język zimakani, Village Z, Zimakaneg]
 population: 1500

@@ -1,6 +1,8 @@
 ---
 iso: opm
 name: Oksapmin
+name_zh: 奥克萨普敏语
+name_zh_auto: true
 autonym: Oksap
 alt_names: [Nalu, 오크사프민어]
 population: 8000

@@ -1,6 +1,8 @@
 ---
 iso: mrh
 name: Mara Chin
+name_zh: 玛拉钦语
+name_zh_auto: true
 autonym: Mara (Tlosaih)
 alt_names: [Chin, Chin (Mara), Chin mara, "Chin, Mara", "Chin,Mara", Hawthai, Lakher, Mara, Mara language, Maram, Mira, Sabeu, Tlongsai, Zao]
 population: 62400

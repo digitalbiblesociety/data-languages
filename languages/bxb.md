@@ -1,6 +1,8 @@
 ---
 iso: bxb
 name: Belanda Bor
+name_zh: 贝兰达博尔语
+name_zh_auto: true
 autonym: Belanda Bor
 alt_names: [Bor, "Bor, Belanda", Bor-Belanda, De Bor]
 population: 8000

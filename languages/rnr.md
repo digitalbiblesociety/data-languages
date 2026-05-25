@@ -1,6 +1,8 @@
 ---
 iso: rnr
 name: Nari Nari
+name_zh: 纳里纳里语
+name_zh_auto: true
 autonym: Eastern Central Murray
 population: null
 country_id: AU

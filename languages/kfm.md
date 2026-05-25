@@ -1,6 +1,8 @@
 ---
 iso: kfm
 name: Khunsari
+name_zh: 胡恩萨里语
+name_zh_auto: true
 autonym: Khusaari
 alt_names: [Khwanshari, Kuk]
 population: 21100

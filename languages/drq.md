@@ -1,6 +1,8 @@
 ---
 iso: drq
 name: Dura
+name_zh: 杜拉语
+name_zh_auto: true
 autonym: दरा ु भुँ
 population: null
 country_id: NP

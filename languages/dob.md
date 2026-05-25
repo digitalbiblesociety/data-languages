@@ -1,6 +1,8 @@
 ---
 iso: dob
 name: Dobu
+name_zh: 多布语
+name_zh_auto: true
 autonym: Dobuan
 population: 10000
 country_id: PG

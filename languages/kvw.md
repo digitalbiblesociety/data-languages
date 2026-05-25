@@ -1,6 +1,8 @@
 ---
 iso: kvw
 name: Wersing
+name_zh: 韦塞语
+name_zh_auto: true
 autonym: Kolana
 alt_names: [Kolana-Wersin, Warsina, Wersin]
 population: 3700

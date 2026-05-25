@@ -1,6 +1,8 @@
 ---
 iso: noc
 name: Nuk
+name_zh: 努克语
+name_zh_auto: true
 autonym: null
 population: 1010
 country_id: PG

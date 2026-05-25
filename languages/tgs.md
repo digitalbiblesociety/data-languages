@@ -1,6 +1,8 @@
 ---
 iso: tgs
 name: Nume
+name_zh: 努梅语
+name_zh_auto: true
 autonym: Tarasag
 alt_names: [Banks-Inseln, Gaua, Tasarag]
 population: 900

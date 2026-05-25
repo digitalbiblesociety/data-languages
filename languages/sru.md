@@ -1,6 +1,8 @@
 ---
 iso: sru
 name: Suruí
+name_zh: 苏鲁伊语
+name_zh_auto: true
 autonym: Paíter
 alt_names: [Paiter, Paitér, Surui, Surui Paiter, Suruí de Rondônia, Suruí do Jiparaná]
 population: 920

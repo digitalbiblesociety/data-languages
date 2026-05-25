@@ -1,6 +1,8 @@
 ---
 iso: zaj
 name: Zaramo
+name_zh: 扎拉莫语
+name_zh_auto: true
 autonym: Dzalamo
 alt_names: [Kizaramo, Myagatwa, Saramo, Zalamo, Zaramu]
 population: 657000

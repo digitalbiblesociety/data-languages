@@ -1,6 +1,8 @@
 ---
 iso: gyf
 name: Gungabula
+name_zh: 甘加布拉语
+name_zh_auto: true
 autonym: Southern Maric
 alt_names: [Gongabula, Khungabula, Khungabulal, Kongabula, Kungabula, Kungalburra, Ongabula]
 population: null

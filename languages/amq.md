@@ -1,6 +1,8 @@
 ---
 iso: amq
 name: Amahai
+name_zh: 阿玛哈伊语
+name_zh_auto: true
 autonym: Amahei
 population: 50
 country_id: ID

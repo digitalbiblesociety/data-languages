@@ -1,6 +1,8 @@
 ---
 iso: xsi
 name: Sio
+name_zh: 西奥语
+name_zh_auto: true
 autonym: null
 alt_names: [Sigawa, Sio jezik]
 population: 3500

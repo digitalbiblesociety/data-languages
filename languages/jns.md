@@ -1,6 +1,8 @@
 ---
 iso: jns
 name: Jaunsari
+name_zh: 焦恩萨里语
+name_zh_auto: true
 autonym: जौनसारी
 alt_names: [Jansauri, Janusari, Jaunsauri, Pahari]
 population: 137000

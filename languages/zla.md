@@ -1,6 +1,8 @@
 ---
 iso: zla
 name: Zula
+name_zh: 祖拉语
+name_zh_auto: true
 autonym: Genya
 population: 15000
 country_id: CD

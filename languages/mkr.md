@@ -1,6 +1,8 @@
 ---
 iso: mkr
 name: Malas
+name_zh: 玛拉斯语
+name_zh_auto: true
 autonym: Malas
 population: 650
 country_id: PG

@@ -1,6 +1,8 @@
 ---
 iso: xnm
 name: "Ngumbarl\r"
+name_zh: 恩古姆巴尔语
+name_zh_auto: true
 autonym: null
 alt_names: [Ngombaru, Ngormbal, Ngumbarl]
 population: null

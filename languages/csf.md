@@ -1,6 +1,8 @@
 ---
 iso: csf
 name: Cuba Sign Language
+name_zh: 古巴手语
+name_zh_auto: true
 autonym: Fingerspelling of LSC
 population: 34000
 country_id: CU

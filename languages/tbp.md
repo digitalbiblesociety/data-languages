@@ -1,6 +1,8 @@
 ---
 iso: tbp
 name: Taworta
+name_zh: 塔沃尔塔语
+name_zh_auto: true
 autonym: Diebroud
 alt_names: [Bok, Dabra, Taburta, Taria, Taworta-Aero]
 population: 140

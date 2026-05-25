@@ -1,6 +1,8 @@
 ---
 iso: mcc
 name: Bitur
+name_zh: 比图尔语
+name_zh_auto: true
 autonym: Mutum
 alt_names: [Bituri, Dudi, Paswam, Paswarn]
 population: 860

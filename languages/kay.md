@@ -1,6 +1,8 @@
 ---
 iso: kay
 name: Kamayurá
+name_zh: 卡玛尤拉语
+name_zh_auto: true
 autonym: Camaiura
 alt_names: [Camaiurá, Kamaiura, Kamaiurá, Kamayirá, Kamayur, Kamayura]
 population: 360

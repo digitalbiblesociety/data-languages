@@ -1,6 +1,8 @@
 ---
 iso: net
 name: Nete
+name_zh: 内特语
+name_zh_auto: true
 autonym: Bisorio
 alt_names: [Iniai, Malamauda, Malaumanda]
 population: 750

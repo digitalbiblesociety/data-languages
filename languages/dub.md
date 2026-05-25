@@ -1,6 +1,8 @@
 ---
 iso: dub
 name: Dubli
+name_zh: 杜布利语
+name_zh_auto: true
 autonym: Dubala
 alt_names: [Dubla, Rathod, Talavia]
 population: 252000

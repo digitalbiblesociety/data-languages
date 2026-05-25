@@ -1,6 +1,8 @@
 ---
 iso: kqz
 name: Korana
+name_zh: 科拉纳语
+name_zh_auto: true
 autonym: Griqua
 alt_names: ["!Gora", "!Kora", "!Ora", Gorachouqua, Kora, Korana Hottentot, Koranna, Koraqua, Língua korana]
 population: null

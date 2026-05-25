@@ -1,6 +1,8 @@
 ---
 iso: tdh
 name: Thulung
+name_zh: 图鲁恩语
+name_zh_auto: true
 autonym: Tholong Lo
 alt_names: [Rai, Thulu Luwa, Thululoa, Thulung Jemu, Thulung La, Thulunge Rai, Thulungish, Thulungo, Toaku Lwa, Touloungeg, Тхулунґ, ภาษาทูลุง]
 population: 20700

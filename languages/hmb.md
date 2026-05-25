@@ -1,6 +1,8 @@
 ---
 iso: hmb
 name: Humburi Senni Songhay
+name_zh: 洪布里森尼松哈伊语
+name_zh_auto: true
 autonym: Central Songai
 alt_names: [Hombori Songhay, Songai, Songay, Songay Senni, Songhai, Songhay, "Songhay, Humburi Senni", Songhoy, Songoi, Songoy, Sonrai, Sonrhai]
 population: 25000

@@ -1,6 +1,8 @@
 ---
 iso: dia
 name: Dia
+name_zh: 蒂亚语
+name_zh_auto: true
 autonym: Metru
 alt_names: [Alu, Galu, Sinagen]
 population: 1840

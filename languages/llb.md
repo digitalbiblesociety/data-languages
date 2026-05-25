@@ -1,6 +1,8 @@
 ---
 iso: llb
 name: Lolo
+name_zh: 洛洛语
+name_zh_auto: true
 autonym: Emakuana
 alt_names: [Ilolo, Lolo-Moso, Loloish, Yi]
 population: 330000

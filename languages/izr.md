@@ -1,6 +1,8 @@
 ---
 iso: izr
 name: Izere
+name_zh: 伊泽雷语
+name_zh_auto: true
 autonym: Afusare
 alt_names: [Afizare, Afizarek, Feserek, Fezere, Fizere, Hill Jarawa, Izarek, Jarawa, Jarawan Dutse, Jari, Jos-Zarazon]
 population: 50000

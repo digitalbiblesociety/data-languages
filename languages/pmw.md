@@ -1,6 +1,8 @@
 ---
 iso: pmw
 name: Plains Miwok
+name_zh: 平原米沃克语
+name_zh_auto: true
 autonym: Valley Miwok
 alt_names: [Eastern Division, Miwok, Miwok (Plains), "Miwok, Plains", Plains]
 population: null

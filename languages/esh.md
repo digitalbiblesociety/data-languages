@@ -1,6 +1,8 @@
 ---
 iso: esh
 name: Eshtehardi
+name_zh: 埃什特哈尔迪语
+name_zh_auto: true
 autonym: Tâti تاتی زبون
 alt_names: [Iran]
 population: null

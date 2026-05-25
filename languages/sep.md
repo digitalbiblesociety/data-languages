@@ -1,6 +1,8 @@
 ---
 iso: sep
 name: Sìcìté Sénoufo
+name_zh: 西西特塞努福语
+name_zh_auto: true
 autonym: Sìcìré
 alt_names: [Sicite Senoufo, Sisiteg, Sucite, Sucite language, "Sénoufo, Sìcìté", Sìcìté, Sìpììté, Tagba]
 population: 38000

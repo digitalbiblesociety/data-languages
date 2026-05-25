@@ -1,6 +1,8 @@
 ---
 iso: pcp
 name: Pacahuara
+name_zh: 帕卡瓦拉语
+name_zh_auto: true
 autonym: "Chokobo-Pakawara"
 alt_names: [Acahuara, Pacaguara, Pacawara, Pakaguara, Pakawara]
 population: null

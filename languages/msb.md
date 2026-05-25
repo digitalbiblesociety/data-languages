@@ -1,6 +1,8 @@
 ---
 iso: msb
 name: Masbatenyo
+name_zh: 马斯巴特语
+name_zh_auto: true
 autonym: Minasbate
 alt_names: [Bisaya, Masbatenyo nga yinaknan, Masbateño, Masbateño language, Minasbatenyo, ภาษามัสบาเตนโย]
 population: 474000

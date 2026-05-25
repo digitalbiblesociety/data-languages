@@ -1,6 +1,8 @@
 ---
 iso: mcj
 name: Mvanip
+name_zh: 姆瓦尼普语
+name_zh_auto: true
 autonym: Mvano
 alt_names: [Magu, Mvanlip, Mvanon, Mvanöp]
 population: 100

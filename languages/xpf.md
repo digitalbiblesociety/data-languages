@@ -1,6 +1,8 @@
 ---
 iso: xpf
 name: "Southeast Tasmanian\r"
+name_zh: 东南塔斯马尼亚语
+name_zh_auto: true
 autonym: (Mainland) Southeast Tasmanian
 alt_names: [Nuenonne, Southeast Tasmanian, "Tasmanian, Southeast"]
 population: null

@@ -1,6 +1,8 @@
 ---
 iso: zpf
 name: San Pedro Quiatoni Zapotec
+name_zh: 圣佩德罗基亚托尼萨波特克语
+name_zh_auto: true
 autonym: (San Pedro Quiatoni)
 alt_names: [Eastern Sapoteko, Eastern Tlacolula Zapotec, Quiatoni Zapotec, Tlacolula, Zapotec, "Zapotec, San Pedro Quiatoni", Zapoteco de Petapa, Zapoteco de San Bartolo Yautepec, Zapoteco de San Pedro Quiatoni, Zapoteco mixtepeco, Zapotèque de Mixtepe, Zapotèque de Petapa, Zapotèque de San Bartolo Yautepec]
 population: 14800

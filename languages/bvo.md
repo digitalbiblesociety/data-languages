@@ -1,6 +1,8 @@
 ---
 iso: bvo
 name: Bolgo
+name_zh: 博尔戈语
+name_zh_auto: true
 autonym: Bólɡònî
 alt_names: [Bolgo language]
 population: 1800

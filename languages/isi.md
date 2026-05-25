@@ -1,6 +1,8 @@
 ---
 iso: isi
 name: "Nkem-Nkum"
+name_zh: 恩克姆-恩库姆语
+name_zh_auto: true
 autonym: Isibiri
 alt_names: [Nigeria, Nkem]
 population: 16500

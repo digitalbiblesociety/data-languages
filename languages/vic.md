@@ -1,6 +1,8 @@
 ---
 iso: vic
 name: Virgin Islands Creole English
+name_zh: 维尔京群岛克里奥尔英语
+name_zh_auto: true
 autonym: Netherlands Antilles Creole English
 alt_names: ["Creole English, Virgin Islands"]
 population: 90900

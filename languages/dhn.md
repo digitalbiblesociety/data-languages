@@ -1,6 +1,8 @@
 ---
 iso: dhn
 name: Dhanki
+name_zh: 丹基语
+name_zh_auto: true
 autonym: Dangi
 alt_names: [Dangri, Dangs Bhil, Dhanka, Kakachhu-Ki Boli, Tadavi, Tadvi Bhil]
 population: 203000

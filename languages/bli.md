@@ -1,6 +1,8 @@
 ---
 iso: bli
 name: Bolia
+name_zh: 博利亚语
+name_zh_auto: true
 autonym: " Lia"
 alt_names: [Bokoki, Bulia, Ntomba]
 population: 100000

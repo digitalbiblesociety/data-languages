@@ -1,6 +1,8 @@
 ---
 iso: kwe
 name: Kwerba
+name_zh: 克韦巴语
+name_zh_auto: true
 autonym: Sasawa
 alt_names: [Air Mati, Airmati, Armati, Kaowerawedj, Koassa, Mataweja, Naibedj, Segar Tor, Serikenam, Tekutameso]
 population: 2500

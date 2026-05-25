@@ -1,6 +1,8 @@
 ---
 iso: diq
 name: Dimli
+name_zh: 迪姆利语
+name_zh_auto: true
 autonym: Dimili
 alt_names: [Dimli (individual language), Dimlī, Southern Zaza, Zaza, Zazaki]
 population: 1280000

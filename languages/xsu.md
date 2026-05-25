@@ -1,6 +1,8 @@
 ---
 iso: xsu
 name: Sanumá
+name_zh: 萨努玛语
+name_zh_auto: true
 autonym: Kohoroxitari
 alt_names: [Chirichano, Guaika, Idioma Sanemá, Samatali, Samatari, Samatli, Sanema, Sanema (Brésil), Sanema (République bolivarienne du Venezuela), Sanemá, Sanemá (Venezuela), Sanima, Sanma, Sanum, Sanuma, Sanɨma, Shiriana, Tsanuma, Xamatari]
 population: 3500

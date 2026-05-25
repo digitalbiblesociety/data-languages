@@ -1,6 +1,8 @@
 ---
 iso: bmd
 name: Baga Manduri
+name_zh: 巴加曼杜里语
+name_zh_auto: true
 autonym: Barka
 alt_names: [Baga, Baga Mandun, Maduri, Mandari, Manduri, "Manduri, Baga", Temne]
 population: 4000

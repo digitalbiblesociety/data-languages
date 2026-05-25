@@ -1,6 +1,8 @@
 ---
 iso: bpq
 name: Banda Malay
+name_zh: 班达马来语
+name_zh_auto: true
 autonym: "Bahasa-Bahasa Melayu Dagang dan Kreol"
 alt_names: ["Malay, Banda"]
 population: 3690

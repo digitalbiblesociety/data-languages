@@ -1,6 +1,8 @@
 ---
 iso: csj
 name: Songlai Chin
+name_zh: 颂来钦语
+name_zh_auto: true
 autonym: Hio
 alt_names: ["Chin, Songlai"]
 population: 7300

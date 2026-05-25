@@ -1,6 +1,8 @@
 ---
 iso: pwr
 name: Powari
+name_zh: 波瓦里语
+name_zh_auto: true
 autonym: बघेली
 alt_names: [India]
 population: 2000000

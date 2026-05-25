@@ -1,6 +1,8 @@
 ---
 iso: mfl
 name: Putai
+name_zh: 普泰语
+name_zh_auto: true
 autonym: Marghi West
 alt_names: [Poutaieg, Putai jezik, West Marg]
 population: 50

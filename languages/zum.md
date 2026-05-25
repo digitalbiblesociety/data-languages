@@ -1,6 +1,8 @@
 ---
 iso: zum
 name: Kumzari
+name_zh: 库姆扎里语
+name_zh_auto: true
 autonym: Kumzai
 alt_names: [Idioma kumzari, Kamzáree, Komzari, Komzāri, Koumzareg, Kumzarų kalba, Kumzāri, Kûmzarî, Luenga kumzari, زبان کمزاری, شاريَْکُ, شاریَْکُ, كمزارى, ภาษากุมซารี]
 population: 1700

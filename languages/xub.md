@@ -1,6 +1,8 @@
 ---
 iso: xub
 name: Betta Kurumba
+name_zh: 贝塔-库鲁姆巴语
+name_zh_auto: true
 autonym: Beṭṭa Kurumba (பெட்டா குறும்ப)
 alt_names: [Betta, Betta Kurumba Nonstandard Tamil, Kadu Kurumba, Kurumba, "Kurumba, Betta", Urali Kurumba, பெட்டக் குறும்பர் மொழி]
 population: 32000

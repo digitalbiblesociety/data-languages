@@ -1,6 +1,8 @@
 ---
 iso: bvc
 name: Baelelea
+name_zh: 拜莱莱阿语
+name_zh_auto: true
 autonym: Mbaelelea
 alt_names: [Südliche Salomons-Inseln]
 population: 8800

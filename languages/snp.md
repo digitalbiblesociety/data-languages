@@ -1,6 +1,8 @@
 ---
 iso: snp
 name: Siane
+name_zh: 西亚内语
+name_zh_auto: true
 autonym: Siane (Lambau)
 alt_names: [Siani]
 population: 29000

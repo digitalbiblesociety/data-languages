@@ -1,6 +1,8 @@
 ---
 iso: gve
 name: Duwet
+name_zh: 杜韦特语
+name_zh_auto: true
 autonym: " Waing"
 alt_names: [Guwet, Guwot]
 population: 400

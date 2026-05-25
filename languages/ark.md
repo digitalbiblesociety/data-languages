@@ -1,6 +1,8 @@
 ---
 iso: ark
 name: Arikapú
+name_zh: 阿里卡普语
+name_zh_auto: true
 autonym: Maxubí
 alt_names: [Aricapu, Aricapú, Arikapu, Mashubi]
 population: null

@@ -1,6 +1,8 @@
 ---
 iso: nce
 name: Yale
+name_zh: 耶鲁语
+name_zh_auto: true
 autonym: Nagatman
 alt_names: [Nagatiman, Yade, Yadë, Yaleg, Yalë, Yalë language, Yare, YarÃ«, Yarë]
 population: 600

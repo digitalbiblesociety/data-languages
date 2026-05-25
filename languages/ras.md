@@ -1,6 +1,8 @@
 ---
 iso: ras
 name: Tegali
+name_zh: 特加利语
+name_zh_auto: true
 autonym: Tagale
 alt_names: [Orig, Rashad, Tegele, Tekele, Togole, Turjok]
 population: 99000

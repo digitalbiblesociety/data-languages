@@ -1,6 +1,8 @@
 ---
 iso: maw
 name: Mampruli
+name_zh: 曼普鲁利语
+name_zh_auto: true
 autonym: Mamprusi
 alt_names: [Mampelle, Mamprule, Mamprussi, Manpelle, Ngmamperli, Ŋmampəlli]
 population: 326000

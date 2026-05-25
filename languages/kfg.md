@@ -1,6 +1,8 @@
 ---
 iso: kfg
 name: Kudiya
+name_zh: 库迪亚语
+name_zh_auto: true
 autonym: Male Kudiya
 alt_names: [Kurku]
 population: 2800

@@ -1,6 +1,8 @@
 ---
 iso: met
 name: Mato
+name_zh: 玛托语
+name_zh_auto: true
 autonym: Nenaya
 alt_names: [Nengaya, Nineia]
 population: 700

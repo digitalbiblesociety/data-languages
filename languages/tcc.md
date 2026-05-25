@@ -1,6 +1,8 @@
 ---
 iso: tcc
 name: Datooga
+name_zh: 达陶加语
+name_zh_auto: true
 autonym: Datog
 alt_names: ["\"Mangati\"", Datoga, Tatog, Tatoga, Taturu]
 population: 161000

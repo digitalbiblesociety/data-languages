@@ -1,6 +1,8 @@
 ---
 iso: awh
 name: Awbono
+name_zh: 奥博诺语
+name_zh_auto: true
 autonym: Kvolyab
 population: 100
 country_id: ID

@@ -1,6 +1,8 @@
 ---
 iso: mwb
 name: Juwal
+name_zh: 朱瓦尔语
+name_zh_auto: true
 autonym: Muniwara
 alt_names: [Mambe, Tumara, Tumaru]
 population: 1440

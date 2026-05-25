@@ -1,6 +1,8 @@
 ---
 iso: shm
 name: Shahrudi
+name_zh: 沙赫鲁迪语
+name_zh_auto: true
 autonym: null
 alt_names: [Iran, Koluri]
 population: null

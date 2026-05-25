@@ -1,6 +1,8 @@
 ---
 iso: unz
 name: Unde Kaili
+name_zh: 翁德-开伊利语
+name_zh_auto: true
 autonym: Banava
 alt_names: [Banawa, "Kaili, Unde"]
 population: 20000

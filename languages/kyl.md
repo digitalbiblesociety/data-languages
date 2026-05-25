@@ -1,6 +1,8 @@
 ---
 iso: kyl
 name: Kalapuya
+name_zh: 卡拉普亚语
+name_zh_auto: true
 autonym: Lukamiute
 alt_names: [Atfalati, Atfálati, Central Kalapuya, Central Kalapuyan, Kalapuya central, Kalapuyan, Kalapuyan languages, Langues kalapuyanes, Lenguas kalapuya, Santaim, Santiam, Tfalati, Tualatin, Wapatu, Wappato Lake, Yezhoù kalapouyek, Калапуянские языки]
 population: null

@@ -1,6 +1,8 @@
 ---
 iso: zah
 name: Zangwal
+name_zh: 赞瓦尔语
+name_zh_auto: true
 autonym: Twar
 alt_names: [Zwangal]
 population: 100

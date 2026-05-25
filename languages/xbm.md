@@ -1,6 +1,8 @@
 ---
 iso: xbm
 name: Middle Breton
+name_zh: 中布里顿语
+name_zh_auto: true
 autonym: null
 alt_names: ["Breton, Middle"]
 population: null

@@ -1,6 +1,8 @@
 ---
 iso: mxu
 name: Mada (Cameroon)
+name_zh: 喀麦隆玛达语
+name_zh_auto: true
 autonym: null
 alt_names: ["Ma'da", Mada, Mada (Chadic), Mada (in Cameroon), Mada language]
 population: 17000

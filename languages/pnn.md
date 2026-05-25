@@ -1,6 +1,8 @@
 ---
 iso: pnn
 name: "Pinai-Hagahai"
+name_zh: 皮奈哈加海伊语
+name_zh_auto: true
 autonym: Pinai
 alt_names: [Aramaue, Aramo, Erem, Hagahai, Miamia, Pinaye, Wapi]
 population: 600

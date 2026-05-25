@@ -1,6 +1,8 @@
 ---
 iso: bdk
 name: Budukh
+name_zh: 布杜克语
+name_zh_auto: true
 autonym: Будад мез budad mez
 alt_names: [Boudoukh, Buduchische Sprache, Budug, Budugh, Budugi, Buduhin kieli, Buduj, Buduk, Buduq dili, Budux, Bukukhi, Język buduchyjski, budad mez, Будуська мова, будад мез, будугский язык, будухский язык]
 population: 1000

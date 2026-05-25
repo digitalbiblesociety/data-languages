@@ -1,6 +1,8 @@
 ---
 iso: mes
 name: Masmaje
+name_zh: 玛斯玛杰语
+name_zh_auto: true
 autonym: Masmadje
 alt_names: [Mesmedje]
 population: 45000

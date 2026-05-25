@@ -1,6 +1,8 @@
 ---
 iso: lia
 name: "West-Central Limba"
+name_zh: 西中林巴语
+name_zh_auto: true
 autonym: Yimba
 alt_names: [Limba, "Limba, West-Central", Yumba]
 population: 445000

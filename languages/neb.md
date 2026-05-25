@@ -1,6 +1,8 @@
 ---
 iso: neb
 name: "Toura (Côte d'Ivoire)"
+name_zh: 托拉语
+name_zh_auto: true
 autonym: Ween
 alt_names: [Toura, "Toura (Cote d'Ivoire)", Tura]
 population: 67000

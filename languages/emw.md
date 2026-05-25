@@ -1,6 +1,8 @@
 ---
 iso: emw
 name: Emplawas
+name_zh: 埃姆普劳瓦斯语
+name_zh_auto: true
 autonym: null
 alt_names: [Emplavas]
 population: 250

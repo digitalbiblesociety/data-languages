@@ -1,6 +1,8 @@
 ---
 iso: kli
 name: Kalumpang
+name_zh: 卡隆帕语
+name_zh_auto: true
 autonym: Galumpang
 alt_names: [Azarbaydjanian, "Ma'ki", Maki, Makki, Mangki, Mangkir, Nordost-Celebes]
 population: 12000

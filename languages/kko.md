@@ -1,6 +1,8 @@
 ---
 iso: kko
 name: Karko
+name_zh: 卡尔科语
+name_zh_auto: true
 autonym: Kakenbi
 alt_names: [Ajang, Garko, Karko (Sudan), Kithonirishe, Nubian (Hill)]
 population: 13000

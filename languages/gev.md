@@ -1,6 +1,8 @@
 ---
 iso: gev
 name: Eviya
+name_zh: 埃维亚语
+name_zh_auto: true
 autonym: Eviya
 alt_names: [Avia, Gevia, Geviya, Ivéa]
 population: 50

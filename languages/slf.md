@@ -1,6 +1,8 @@
 ---
 iso: slf
 name: "Swiss-Italian Sign Language"
+name_zh: 瑞士-意大利手语
+name_zh_auto: true
 autonym: Lingua dei Segni Italiana
 alt_names: [LIS-SI]
 population: 200

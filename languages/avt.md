@@ -1,6 +1,8 @@
 ---
 iso: avt
 name: Au
+name_zh: 奥语
+name_zh_auto: true
 autonym: null
 alt_names: [Język au]
 population: 8000

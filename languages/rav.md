@@ -1,6 +1,8 @@
 ---
 iso: rav
 name: Sampang
+name_zh: 桑邦语
+name_zh_auto: true
 autonym: Sampang Gun
 alt_names: [Jindā, Rai, Sampange Rai, Sampangish, Sangpang, Sangpang Gun, Sangpang Gîn, Sangpang Kha]
 population: 18300

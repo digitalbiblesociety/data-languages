@@ -1,6 +1,8 @@
 ---
 iso: ktw
 name: Kato
+name_zh: 卡托语
+name_zh_auto: true
 autonym: Cahto
 alt_names: [Batem-Da-Kai-Ee, Kai Po-Mo, Kuta, Tlokeang]
 population: null

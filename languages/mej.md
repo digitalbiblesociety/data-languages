@@ -1,6 +1,8 @@
 ---
 iso: mej
 name: Meyah
+name_zh: 梅雅语
+name_zh_auto: true
 autonym: Arfak
 alt_names: [Mansibaber, Meah, Meax, Mejach, Mejah, Meyach]
 population: 14800

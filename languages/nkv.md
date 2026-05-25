@@ -1,6 +1,8 @@
 ---
 iso: nkv
 name: Nyika
+name_zh: 尼亚卡语
+name_zh_auto: true
 autonym: Kinyika
 alt_names: [Nyika (Malawi and Zambia)]
 population: 10000

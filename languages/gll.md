@@ -1,6 +1,8 @@
 ---
 iso: gll
 name: Garlali
+name_zh: 加尔拉利语
+name_zh_auto: true
 autonym: Garlali
 alt_names: [Galali, Gaḷali, Kalali, Kullali, Kullally, Kullila]
 population: null

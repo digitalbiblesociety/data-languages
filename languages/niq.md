@@ -1,6 +1,8 @@
 ---
 iso: niq
 name: Nandi
+name_zh: 南迪语
+name_zh_auto: true
 autonym: Naandi
 population: 938000
 country_id: KE

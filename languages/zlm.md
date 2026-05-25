@@ -1,6 +1,8 @@
 ---
 iso: zlm
 name: Malay
+name_zh: 马来语
+name_zh_auto: true
 autonym: " Indonesian Malaysian "
 alt_names: [Bahasa Malaysia, Bahasa Malayu, Borneo, Colloquial Malay, Malaiisch, Malay (individual language), Malayisch, Malayu, Melaju, Melayu, Standard Malay]
 population: 10296000

@@ -1,6 +1,8 @@
 ---
 iso: mkf
 name: Miya
+name_zh: 米亚语
+name_zh_auto: true
 autonym: Miyawa
 alt_names: [Muya]
 population: 30000

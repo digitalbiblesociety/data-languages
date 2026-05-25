@@ -1,6 +1,8 @@
 ---
 iso: ndg
 name: Ndengereko
+name_zh: 恩登格雷科语
+name_zh_auto: true
 autonym: Rufiji
 alt_names: [Kingengereko, Ndengeleko]
 population: 72000

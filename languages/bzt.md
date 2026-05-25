@@ -1,6 +1,8 @@
 ---
 iso: bzt
 name: Brithenig
+name_zh: 不列颠尼格语
+name_zh_auto: true
 autonym: "Brithenig, Comroig"
 population: null
 country_id: NZ

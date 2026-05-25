@@ -1,6 +1,8 @@
 ---
 iso: bda
 name: Bayot
+name_zh: 巴约特语
+name_zh_auto: true
 autonym: Baiot
 alt_names: [Baiote, Bayote, Bayotte]
 population: 28340

@@ -1,6 +1,8 @@
 ---
 iso: mdm
 name: Mayogo
+name_zh: 马约戈语
+name_zh_auto: true
 autonym: Kiyogo
 alt_names: [Maigo, Maiko, Majugu, Mayko, Mayugo]
 population: 100000

@@ -1,6 +1,8 @@
 ---
 iso: orr
 name: Oruma
+name_zh: 奥鲁玛语
+name_zh_auto: true
 autonym: null
 alt_names: [Ịjọ]
 population: 5000

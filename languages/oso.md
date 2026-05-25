@@ -1,6 +1,8 @@
 ---
 iso: oso
 name: Ososo
+name_zh: 奥索索语
+name_zh_auto: true
 autonym: Ọ̀sọ́sọ̀
 alt_names: [Nigeria]
 population: 19000

@@ -1,6 +1,8 @@
 ---
 iso: coq
 name: Coquille
+name_zh: 科基尔语
+name_zh_auto: true
 autonym: Tutudin
 alt_names: [Chasta Costa, Mishikhwutmetunee, Tutuni-Chasta Costa-Coquille, Tututni, Upper Coquille]
 population: null

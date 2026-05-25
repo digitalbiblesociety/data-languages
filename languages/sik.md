@@ -1,6 +1,8 @@
 ---
 iso: sik
 name: Sikiana
+name_zh: 西基亚纳语
+name_zh_auto: true
 autonym: Kaxuiâna (Katxúyana)
 population: 12
 country_id: BR

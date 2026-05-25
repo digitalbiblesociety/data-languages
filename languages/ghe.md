@@ -1,6 +1,8 @@
 ---
 iso: ghe
 name: Southern Ghale
+name_zh: 南加莱语
+name_zh_auto: true
 autonym: Galle Gurung
 alt_names: [Ghale, "Ghale, Southern", "Ghale,Southern", Gurung, Lila Ke, Ril-Lila, Southern]
 population: 2000

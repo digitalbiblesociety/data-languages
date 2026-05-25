@@ -1,6 +1,8 @@
 ---
 iso: kkt
 name: Koi
+name_zh: 科伊语
+name_zh_auto: true
 autonym: Kohi
 alt_names: ["Koi Bo'o", Koyi, Koyu, "Koyu Bo'"]
 population: 2640

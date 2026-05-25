@@ -1,6 +1,8 @@
 ---
 iso: cao
 name: Chácobo
+name_zh: 查科博语
+name_zh_auto: true
 autonym: "Chokobo-Pakawara"
 alt_names: [Chacobo, Chakobo-Pakawara, Chákobo, Shinabo]
 population: 550

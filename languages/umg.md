@@ -1,6 +1,8 @@
 ---
 iso: umg
 name: Morrobalama
+name_zh: 莫罗巴拉马语
+name_zh_auto: true
 autonym: Morrobalama
 alt_names: [Ajarumbal, Aradal, Baka, Banjigam, Barungguan, Barunguan, Bungkol, Burlngulu, Ganganda, Jintjingga, Juwinbadha, Kuuku yani, Kuuku-yani, Lamalama, Lamalamic, Moroba-Lama, Morrabalama, Morroba Lama, Morrobolam, Njindingga, Umbindhamu, Umbuigamu, Umbuygamu, Umbuykamu, Umpuykumu, Yindyingga, Yintjingga]
 population: null

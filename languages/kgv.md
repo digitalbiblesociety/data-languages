@@ -1,6 +1,8 @@
 ---
 iso: kgv
 name: Karas
+name_zh: 卡拉斯语
+name_zh_auto: true
 autonym: Kalamang
 alt_names: [Kalamang-mang, Karas Laut (Seaside Karas)]
 population: 240

@@ -1,6 +1,8 @@
 ---
 iso: kza
 name: Western Karaboro
+name_zh: 西卡拉博罗语
+name_zh_auto: true
 autonym: Western Karaboro
 alt_names: [Karaboro, "Karaboro, Western", Syer-Tenyer, Tenyer]
 population: 30200

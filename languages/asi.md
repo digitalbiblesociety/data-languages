@@ -1,6 +1,8 @@
 ---
 iso: asi
 name: Buruwai
+name_zh: 布鲁瓦伊语
+name_zh_auto: true
 autonym: Sabakor
 alt_names: [Asianara, Asienara, Karufa, Madidwana]
 population: 1000

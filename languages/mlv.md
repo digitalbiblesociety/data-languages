@@ -1,6 +1,8 @@
 ---
 iso: mlv
 name: Motlav
+name_zh: 莫特拉夫语
+name_zh_auto: true
 autonym: Motlav
 alt_names: [Banks-Inseln, Motalava, Mwotlap, Valuwa, Volow, Мвотлап]
 population: 2200

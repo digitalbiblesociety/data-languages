@@ -1,6 +1,8 @@
 ---
 iso: bjy
 name: Bayali
+name_zh: 巴亚利语
+name_zh_auto: true
 autonym: Biyali
 alt_names: [Baiali, Bajali, Bayelle, Biele, Bieli, Byelle, Byellee, Byellel, Charumbul, Darambal, Darawal, Darumbal, Dharumbal, Guñmal, Koinjmal, Kooinmarburra, Kooinmerburra, Kuinmurbara, Kungalburra, Kungmal, Mamburra, Ningebal, Orambul, Tarumbal, Tarumbul, Tharumbal, Urambal, "Wandandian (?)", Warabal, Yetimarala]
 population: null

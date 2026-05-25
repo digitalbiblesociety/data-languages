@@ -1,6 +1,8 @@
 ---
 iso: lcm
 name: Tungag
+name_zh: 通加格语
+name_zh_auto: true
 autonym: Lavongai
 alt_names: [Dang, Lavangai, Neu-Mecklenburg, Tungak]
 population: 16000

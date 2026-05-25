@@ -1,6 +1,8 @@
 ---
 iso: wtk
 name: Watakataui
+name_zh: 瓦塔卡塔乌伊语
+name_zh_auto: true
 autonym: Waxei
 alt_names: [Waxe]
 population: 750

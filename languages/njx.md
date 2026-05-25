@@ -1,6 +1,8 @@
 ---
 iso: njx
 name: Kunyi
+name_zh: 昆依语
+name_zh_auto: true
 autonym: Kikunyi
 alt_names: [Kugni]
 population: 137000

@@ -1,6 +1,8 @@
 ---
 iso: wag
 name: "Wa'ema"
+name_zh: 瓦埃玛语
+name_zh_auto: true
 autonym: Waiema
 population: 1020
 country_id: PG

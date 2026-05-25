@@ -1,6 +1,8 @@
 ---
 iso: yme
 name: Yameo
+name_zh: 亚梅奥语
+name_zh_auto: true
 autonym: Nijyamïï Nikyejaada
 alt_names: [Camuchivo, Llameo, Masamae, Masamae Yameo, Mazan, Parara, Yaméo]
 population: null

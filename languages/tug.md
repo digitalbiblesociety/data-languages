@@ -1,6 +1,8 @@
 ---
 iso: tug
 name: Tunia
+name_zh: 图尼亚语
+name_zh_auto: true
 autonym: Tounia
 alt_names: [Tun, Tunya]
 population: 2260

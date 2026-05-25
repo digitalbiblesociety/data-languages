@@ -1,6 +1,8 @@
 ---
 iso: atc
 name: Atsahuaca
+name_zh: 阿特萨瓦卡语
+name_zh_auto: true
 autonym: "Atsahuaca-Yamiaca"
 alt_names: [Astahuaca, Atsawaka-Yamiaka, Yamiaca, Yamiaka]
 population: 20

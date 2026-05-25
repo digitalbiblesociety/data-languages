@@ -1,6 +1,8 @@
 ---
 iso: bwm
 name: Biwat
+name_zh: 比瓦特语
+name_zh_auto: true
 autonym: Biwat
 alt_names: [Mundokuma, Munduguma, Mundugumor, Mundukumo]
 population: 3040

@@ -1,6 +1,8 @@
 ---
 iso: tti
 name: Tobati
+name_zh: 托巴蒂语
+name_zh_auto: true
 autonym: Yotafa
 alt_names: [Enggros, Humboldt Jotafa, Jayapura, Jotafa, Tobwadic, Yautefa]
 population: 350

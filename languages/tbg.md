@@ -1,6 +1,8 @@
 ---
 iso: tbg
 name: North Tairora
+name_zh: 北泰罗拉语
+name_zh_auto: true
 autonym: Tairora (Arau)
 alt_names: [Northern Tairora, Tairora, "Tairora, North"]
 population: 5000

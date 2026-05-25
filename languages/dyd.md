@@ -1,6 +1,8 @@
 ---
 iso: dyd
 name: Dyugun
+name_zh: 鼓贡语
+name_zh_auto: true
 autonym: Jukun
 alt_names: [Djugan, Djugkan, Djugun, Djukan, Djukun, Djurgun, Dyugans, Joogan, Jugun, Jukan, Jukannganga, Kularrabulu, Lenga dyugun, Tjugan, Tjugun, Tjukun, Tjunung]
 population: null

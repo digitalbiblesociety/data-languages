@@ -1,6 +1,8 @@
 ---
 iso: clt
 name: Lautu Chin
+name_zh: 劳图钦语
+name_zh_auto: true
 autonym: Lawhtu
 alt_names: ["Chin, Lautu"]
 population: 18000

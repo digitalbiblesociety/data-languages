@@ -1,6 +1,8 @@
 ---
 iso: ztq
 name: "Quioquitani-Quierí Zapotec"
+name_zh: 基奥基塔尼-基埃里萨波特克语
+name_zh_auto: true
 autonym: (Santa Catarina Quioquitani)
 alt_names: [Eastern Sapoteko, Quioquitani-Quieri Zapotec, Zapotec, "Zapotec, Quioquitani-Quierí", Zapoteco de Petapa, Zapoteco de Quioquitani Y Quierí, Zapoteco de San Bartolo Yautepec, Zapoteco mixtepeco, Zapotèque de Mixtepe, Zapotèque de Petapa, Zapotèque de San Bartolo Yautepec]
 population: 4000

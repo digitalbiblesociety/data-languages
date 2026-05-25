@@ -1,6 +1,8 @@
 ---
 iso: qvz
 name: Northern Pastaza Quichua
+name_zh: 北帕斯塔萨基楚亚语
+name_zh_auto: true
 autonym: Kichwa Shimi
 alt_names: [Alama, Bobonaza, Bobonaza Quichua, Calderón, Canelo, Canelos Quichua, Cañar Highland Quichua, Chimborazo, Cotopaxi Quichua., Ecuador, Ecuador Quechua, Highland Ecuadorian Quichua, Imbabura Quichua, Kichua, Loja, Loreto, Napo Quichua, Pastaza Quichua, Puyo Pongo, Quichua, "Quichua, Northern Pastaza", Salasca, Sarayacu Quichua, Tena Quichua, Tigre Quechua]
 population: 10000

@@ -1,6 +1,8 @@
 ---
 iso: knm
 name: Kanamarí
+name_zh: 卡那马里语
+name_zh_auto: true
 autonym: "Katukina-Kanamari"
 alt_names: [Bendiapa, Beñdiapá, Canamari, Canamarí, Djapá, Dyapá, "Hondiapa/Hon-Dyapá)])", Kanamari, Kanamaré, Kanamarí) (perhaps the same as Tucundiapa (Tucano Dyapa, Paraua, Parawa, Southern Katukinan, "Tshom-Djapá [Txunhuã-Djapá]"]
 population: 1650

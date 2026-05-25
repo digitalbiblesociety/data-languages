@@ -1,6 +1,8 @@
 ---
 iso: njd
 name: Ndonde Hamba
+name_zh: 恩东德汉巴语
+name_zh_auto: true
 autonym: Chi(ni)makonde
 population: 10000
 country_id: TZ

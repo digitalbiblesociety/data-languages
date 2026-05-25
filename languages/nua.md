@@ -1,6 +1,8 @@
 ---
 iso: nua
 name: Yuanga
+name_zh: 尤昂加语
+name_zh_auto: true
 autonym: Bondé
 alt_names: [Juanga, Neukaledonien, Nua, Nyua, Thuanga, Yuaga]
 population: 1990

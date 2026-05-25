@@ -1,6 +1,8 @@
 ---
 iso: tdt
 name: Tetun Dili
+name_zh: 迪力岱都语
+name_zh_auto: true
 autonym: Tetun Prasa
 alt_names: [Dili Tetum, Tetum, Tetum Dili, Tetum Prasa, Tetum Praça, Tetun]
 population: 50000

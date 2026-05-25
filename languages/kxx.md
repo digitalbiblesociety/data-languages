@@ -1,6 +1,8 @@
 ---
 iso: kxx
 name: Likuba
+name_zh: 利库巴语
+name_zh_auto: true
 autonym: Likuba
 alt_names: [Kuba]
 population: 53000

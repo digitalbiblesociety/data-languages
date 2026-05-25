@@ -1,6 +1,8 @@
 ---
 iso: icl
 name: Icelandic Sign Language
+name_zh: 冰岛手语
+name_zh_auto: true
 autonym: Íslenskt táknmál
 alt_names: [Isländskt teckenspråk]
 population: 275

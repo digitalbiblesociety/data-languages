@@ -1,6 +1,8 @@
 ---
 iso: ung
 name: Ngarinyin
+name_zh: 恩加里尼因语
+name_zh_auto: true
 autonym: Eastern Worrorran
 alt_names: [Andedja, Andidja, Angarinjin, Arawari, Arkarin-jindja, Engariñín, Gular, Ingarinjindja, Kandjalngari, Lenga ngarinyin, Marangana, Molyamidi, Narrinyind, Ngaring-ngyan, Ngarinjin, Ngerringun, Njingarinjanja, Oladjau, Ungarin-jen, Ungarinjin, Ungarinyin, Unŋarinjin, Walmidi, Wangarinjinu, Warnarinjin, "Wol'jamidi", Yamandil]
 population: 59

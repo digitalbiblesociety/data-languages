@@ -1,6 +1,8 @@
 ---
 iso: alf
 name: Alege
+name_zh: 阿莱格语
+name_zh_auto: true
 autonym: Alegi
 alt_names: [Ugbe, Uge]
 population: 1200

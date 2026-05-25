@@ -1,6 +1,8 @@
 ---
 iso: keq
 name: Kamar
+name_zh: 卡马语
+name_zh_auto: true
 autonym: null
 alt_names: [India]
 population: 40000

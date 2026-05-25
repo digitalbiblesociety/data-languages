@@ -1,6 +1,8 @@
 ---
 iso: sse
 name: Balangingi
+name_zh: 巴兰金吉语
+name_zh_auto: true
 autonym: Bajau
 alt_names: [Bangingih Sama, Sama (Balangingi), Sama (North), Sama (Northern), "Sama, Bangingih"]
 population: 85000

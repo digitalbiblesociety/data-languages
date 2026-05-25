@@ -1,6 +1,8 @@
 ---
 iso: mbb
 name: Western Bukidnon Manobo
+name_zh: 西布基德农曼诺博语
+name_zh_auto: true
 autonym: Western Bukidnon Manobo
 alt_names: [Bukidnon, Manobo (Western Bukidnon), "Manobo, Western Bukidnon", West Bukidnon Manobo, Western Bukidnon]
 population: 15000

@@ -1,6 +1,8 @@
 ---
 iso: bju
 name: Busuu
+name_zh: 布苏乌语
+name_zh_auto: true
 autonym: Awa
 alt_names: [Busú, Furu]
 population: null

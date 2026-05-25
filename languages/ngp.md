@@ -1,6 +1,8 @@
 ---
 iso: ngp
 name: Ngulu
+name_zh: 恩古卢语
+name_zh_auto: true
 autonym: Kingulu
 alt_names: [Geja, Nguru, Nguu, Wayomba]
 population: 215000

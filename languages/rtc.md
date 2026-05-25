@@ -1,6 +1,8 @@
 ---
 iso: rtc
 name: Rungtu Chin
+name_zh: 荣图钦语
+name_zh_auto: true
 autonym: Taungtha
 alt_names: ["Chin, Rungtu"]
 population: 4000

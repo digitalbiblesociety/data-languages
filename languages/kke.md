@@ -1,6 +1,8 @@
 ---
 iso: kke
 name: Kakabe
+name_zh: 卡卡贝语
+name_zh_auto: true
 autonym: Fulajon Kan
 alt_names: [Jon Kule, Ourekabakan]
 population: 4100

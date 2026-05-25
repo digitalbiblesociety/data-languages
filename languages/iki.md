@@ -1,6 +1,8 @@
 ---
 iso: iki
 name: Iko
+name_zh: 伊科语
+name_zh_auto: true
 autonym: null
 alt_names: [Nigeria]
 population: 5000

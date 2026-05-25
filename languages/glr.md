@@ -1,6 +1,8 @@
 ---
 iso: glr
 name: "Glaro-Twabo"
+name_zh: 格拉罗-特瓦博语
+name_zh_auto: true
 autonym: null
 alt_names: ["Liberia, Côte d'Ivoire"]
 population: 4270

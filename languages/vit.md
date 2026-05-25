@@ -1,6 +1,8 @@
 ---
 iso: vit
 name: Viti
+name_zh: 维蒂语
+name_zh_auto: true
 autonym: Vötö
 population: null
 country_id: NG

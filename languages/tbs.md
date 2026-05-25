@@ -1,6 +1,8 @@
 ---
 iso: tbs
 name: Tanguat
+name_zh: 坦古阿特语
+name_zh_auto: true
 autonym: null
 population: 740
 country_id: PG

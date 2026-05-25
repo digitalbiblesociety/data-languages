@@ -1,6 +1,8 @@
 ---
 iso: ywa
 name: Kalou
+name_zh: 卡劳语
+name_zh_auto: true
 autonym: Yawa
 population: 1370
 country_id: PG

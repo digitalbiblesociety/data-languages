@@ -1,6 +1,8 @@
 ---
 iso: yab
 name: Yuhup
+name_zh: 尤胡普语
+name_zh_auto: true
 autonym: Hupdë
 alt_names: ["\"Maku\"", Kariana, Macu, Macú, Maku, Makú-Yahup, Sapé, Yahup, Yahup Makú, Yuhud, Yuhup (Brésil), Yuhup (Colombie), Yuhupo (Colombia), Yëhup, “Maku”]
 population: 360

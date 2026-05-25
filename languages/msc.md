@@ -1,6 +1,8 @@
 ---
 iso: msc
 name: Sankaran Maninka
+name_zh: 桑卡兰马林凯语
+name_zh_auto: true
 autonym: Malinke
 alt_names: [Faranah, "Maninka, Sankaran", Sankarankan]
 population: 77000

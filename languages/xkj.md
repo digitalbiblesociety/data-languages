@@ -1,6 +1,8 @@
 ---
 iso: xkj
 name: Kajali
+name_zh: 卡贾里语
+name_zh_auto: true
 autonym: null
 alt_names: [Iran]
 population: null

@@ -1,6 +1,8 @@
 ---
 iso: nhy
 name: Northern Oaxaca Nahuatl
+name_zh: 北瓦哈卡纳瓦特尔语
+name_zh_auto: true
 autonym: Southeastern Puebla Nahuatl
 alt_names: [Mexicano, Nahuatl, "Nahuatl, Northern Oaxaca", Northern Nahuatl, Northern Nawa, Náhuatl del Norte de Oaxaca]
 population: 8130

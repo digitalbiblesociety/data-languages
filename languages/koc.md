@@ -1,6 +1,8 @@
 ---
 iso: koc
 name: Kpati
+name_zh: 克帕蒂语
+name_zh_auto: true
 autonym: null
 alt_names: [Nigeria]
 population: null

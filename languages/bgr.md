@@ -1,6 +1,8 @@
 ---
 iso: bgr
 name: Bawm Chin
+name_zh: 巴姆钦语
+name_zh_auto: true
 autonym: Banjogi
 alt_names: [Bawm, Bawn, Bawng, Bom, Chin, Chin (Bawm), Chin (Central), Chin bom, "Chin, Bawm", "Chin,Bawm"]
 population: 15140

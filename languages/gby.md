@@ -1,6 +1,8 @@
 ---
 iso: gby
 name: Gbari
+name_zh: 加巴里语
+name_zh_auto: true
 autonym: Gbari Yamma
 alt_names: [Gwari, Gwari Yamma, Nkwa, West Gwari]
 population: 523000

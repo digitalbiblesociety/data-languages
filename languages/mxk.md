@@ -1,6 +1,8 @@
 ---
 iso: mxk
 name: Monumbo
+name_zh: 莫努姆博语
+name_zh_auto: true
 autonym: null
 alt_names: [Mambuwan]
 population: 410

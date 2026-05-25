@@ -1,6 +1,8 @@
 ---
 iso: kws
 name: Kwese
+name_zh: 克韦塞语
+name_zh_auto: true
 autonym: Kikwese
 alt_names: [Pindi, Ukwese]
 population: 60000

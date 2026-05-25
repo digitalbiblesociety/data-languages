@@ -1,6 +1,8 @@
 ---
 iso: pfe
 name: Peere
+name_zh: 佩雷语
+name_zh_auto: true
 autonym: Peere
 alt_names: [Kotofo, Kotopo, Kotpojo, Koutin, Koutine, Kutin, Kutine, Kutinn, Pare, Patapori, Peer, Pere, Potopo, Potopore]
 population: 50000

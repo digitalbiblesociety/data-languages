@@ -1,6 +1,8 @@
 ---
 iso: mnx
 name: Manikion
+name_zh: 玛尼基翁语
+name_zh_auto: true
 autonym: Manikion
 alt_names: [Mantion, Sogh, Sougb]
 population: 12000

@@ -1,6 +1,8 @@
 ---
 iso: bxs
 name: Busam
+name_zh: 布萨姆语
+name_zh_auto: true
 autonym: null
 population: 1490
 country_id: CM

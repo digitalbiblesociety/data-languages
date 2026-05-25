@@ -1,6 +1,8 @@
 ---
 iso: das
 name: "Daho-Doo"
+name_zh: 达霍-杜语
+name_zh_auto: true
 autonym: null
 population: 4000
 country_id: CI

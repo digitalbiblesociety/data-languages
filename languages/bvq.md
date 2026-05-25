@@ -1,6 +1,8 @@
 ---
 iso: bvq
 name: Birri
+name_zh: 比里语
+name_zh_auto: true
 autonym: Biri
 alt_names: [Bviri, Viri]
 population: 200

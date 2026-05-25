@@ -1,6 +1,8 @@
 ---
 iso: ant
 name: Antakarinya
+name_zh: 安塔卡里尼亚语
+name_zh_auto: true
 autonym: Andagarinya
 alt_names: [Aldolinga, Alinjerra, Aluna, Aluna Aluna, Andagarindja, Andagarinja, Andagirinja, Andakirinja, Andayarinja, Andegilliga, Andekarinja, Andekerinja, Anderkerinja, Andgari, Andigari, Andigarina, Andigarinya, Andigidini, Andigiri, Andigirinji, Andigiriny, Andingari, Andingiri, Andjirigna, Andjiringna, Andongerry, Andrgrinji, Andugarinja, Anjirigna, Antakarinja, Antakarinya jezik, Antakariña, Antakerinya, Antakerrinya, Antakirinha, Antakirinja, Antakirinya, Antegarinya, Antekarinja, Anterrikanya, Antigari, Antigerinya, Antikarinya, Antikirinya, Antin gari, Antin-gari, Antingari, Antingerrie, Gunmarang, Kadjilaranda, Lenga antakarinya, Lingua antakarinya, Maduntara, Madutara, Maiuladjara, Maiulatara, Manangari, Matjutu, Matuntara, Matutara, Mau, Maung, Mauung, Mbenderinga, Mularatara, Ngonde, Njuntundjara, Southern Loritja, Tangara, Untergerrie, Unterrgerrie, Walarangunja, Walarenunga, Yandairunga, Yanido]
 population: null

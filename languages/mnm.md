@@ -1,6 +1,8 @@
 ---
 iso: mnm
 name: Mapena
+name_zh: 玛佩纳语
+name_zh_auto: true
 autonym: null
 population: 450
 country_id: PG

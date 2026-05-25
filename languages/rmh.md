@@ -1,6 +1,8 @@
 ---
 iso: rmh
 name: Murkim
+name_zh: 默尔基姆语
+name_zh_auto: true
 autonym: bahasa Murkim
 alt_names: [Indonesia]
 population: 290

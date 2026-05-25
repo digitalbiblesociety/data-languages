@@ -1,6 +1,8 @@
 ---
 iso: nwb
 name: Nyabwa
+name_zh: 尼亚布瓦语
+name_zh_auto: true
 autonym: Nyaboa
 alt_names: [Niaboua, Nyabwa-Nyédébwa]
 population: 72000

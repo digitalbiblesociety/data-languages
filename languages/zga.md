@@ -1,6 +1,8 @@
 ---
 iso: zga
 name: Kinga
+name_zh: 金加语
+name_zh_auto: true
 autonym: Ekikinga
 alt_names: [Kikinga]
 population: 217000

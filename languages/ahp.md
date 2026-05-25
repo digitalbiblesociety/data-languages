@@ -1,6 +1,8 @@
 ---
 iso: ahp
 name: Aproumu Aizi
+name_zh: 阿普罗乌穆艾兹语
+name_zh_auto: true
 autonym: Aproumu
 alt_names: [Ahizi, Aizi, "Aizi, Aproumu", Aprou, Aprwe, Oprou]
 population: 6500

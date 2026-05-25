@@ -1,6 +1,8 @@
 ---
 iso: gly
 name: Gule
+name_zh: 古莱语
+name_zh_auto: true
 autonym: Anej
 alt_names: [Fecakomodiyo, Hamej]
 population: null

@@ -1,6 +1,8 @@
 ---
 iso: agk
 name: Isarog Agta
+name_zh: 伊萨罗格艾塔语
+name_zh_auto: true
 autonym: Isarog Agta
 alt_names: ["Agta d'Isarog", Agta de Isarog, "Agta, Isarog", Bikol]
 population: 1000

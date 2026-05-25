@@ -1,6 +1,8 @@
 ---
 iso: siu
 name: Sinagen
+name_zh: 西纳根语
+name_zh_auto: true
 autonym: Galu
 alt_names: [Metru]
 population: 330

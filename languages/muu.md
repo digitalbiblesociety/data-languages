@@ -1,6 +1,8 @@
 ---
 iso: muu
 name: Yaaku
+name_zh: 亚库语
+name_zh_auto: true
 autonym: Mogogodo
 alt_names: ["\"Ndorobo\"", Lenga Yaaku, Mukogodo, Mukoquodo, Siegu, Yaaku hizkuntza, Yaakua, Yaakuan, Yakunte, Yiaku, Yiakunte]
 population: 250

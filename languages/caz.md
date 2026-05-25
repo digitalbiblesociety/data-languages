@@ -1,6 +1,8 @@
 ---
 iso: caz
 name: Canichana
+name_zh: 卡尼查纳语
+name_zh_auto: true
 autonym: Joaquiniano
 alt_names: [Avishiri, Canesi, Canisiana, Kanichana, Tekiraka, Tequiraca]
 population: 2004

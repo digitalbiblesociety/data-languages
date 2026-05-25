@@ -1,6 +1,8 @@
 ---
 iso: kzn
 name: Kokola
+name_zh: 科科拉语
+name_zh_auto: true
 autonym: Emakuana
 alt_names: [Kokhola]
 population: 482000

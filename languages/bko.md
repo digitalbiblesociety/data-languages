@@ -1,6 +1,8 @@
 ---
 iso: bko
 name: "Kwa'"
+name_zh: 瓜语
+name_zh_auto: true
 autonym: Bakoa
 alt_names: [Bakwa, Bamileke-Kwa]
 population: 1000

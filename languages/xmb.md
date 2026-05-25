@@ -1,6 +1,8 @@
 ---
 iso: xmb
 name: Mbonga
+name_zh: 姆邦加语
+name_zh_auto: true
 autonym: Mbonga
 alt_names: [Mboa, Mboŋa]
 population: 1490

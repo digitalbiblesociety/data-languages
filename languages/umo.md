@@ -1,6 +1,8 @@
 ---
 iso: umo
 name: Umotína
+name_zh: 乌莫蒂纳语
+name_zh_auto: true
 autonym: Barbados
 alt_names: [Barbado, Umotina, Umutina]
 population: null

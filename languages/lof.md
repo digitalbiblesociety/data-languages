@@ -1,6 +1,8 @@
 ---
 iso: lof
 name: Logol
+name_zh: 洛戈尔语
+name_zh_auto: true
 autonym: Lukha
 population: 2600
 country_id: SD

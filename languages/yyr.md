@@ -1,6 +1,8 @@
 ---
 iso: yyr
 name: Yir Yoront
+name_zh: 伊尔-约龙特语
+name_zh_auto: true
 autonym: null
 population: null
 country_id: AU

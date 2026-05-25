@@ -1,6 +1,8 @@
 ---
 iso: hnh
 name: ǁAni
+name_zh: "!阿尼语"
+name_zh_auto: true
 autonym: Kxoe
 alt_names: [//Ani, /Anda, "?ani", Ani, Handa-Khwe, Handakwe-Dam, Handá, Handádam, "Khwe-||Ani", "Ts'éxa", "|Anda", "||Ani", "||Anikhwe"]
 population: 1000

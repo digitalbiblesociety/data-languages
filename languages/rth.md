@@ -1,6 +1,8 @@
 ---
 iso: rth
 name: Ratahan
+name_zh: 拉塔汉语
+name_zh_auto: true
 autonym: Toratán
 alt_names: [Bentenan, Pasan]
 population: 30000

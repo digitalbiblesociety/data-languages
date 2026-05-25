@@ -1,6 +1,8 @@
 ---
 iso: bfx
 name: Bantayanon
+name_zh: 邦塔亚侬语
+name_zh_auto: true
 autonym: Bantayanon
 population: null
 country_id: PH

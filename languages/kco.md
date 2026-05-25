@@ -1,6 +1,8 @@
 ---
 iso: kco
 name: Kinalakna
+name_zh: 基纳拉克纳语
+name_zh_auto: true
 autonym: null
 population: 220
 country_id: PG

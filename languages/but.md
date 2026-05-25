@@ -1,6 +1,8 @@
 ---
 iso: but
 name: Bungain
+name_zh: 邦盖因语
+name_zh_auto: true
 autonym: null
 population: 3600
 country_id: PG

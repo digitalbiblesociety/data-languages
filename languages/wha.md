@@ -1,6 +1,8 @@
 ---
 iso: wha
 name: Sou Upaa
+name_zh: 索乌-乌帕语
+name_zh_auto: true
 autonym: Wahinama
 alt_names: [Manusela, Wahai]
 population: 7000

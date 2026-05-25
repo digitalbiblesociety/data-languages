@@ -1,6 +1,8 @@
 ---
 iso: faj
 name: Faita
+name_zh: 法伊塔语
+name_zh_auto: true
 autonym: Kulsab
 alt_names: [Kursav]
 population: 10

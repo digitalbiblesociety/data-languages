@@ -1,6 +1,8 @@
 ---
 iso: kpb
 name: Mullu Kurumba
+name_zh: 穆卢库鲁姆巴语
+name_zh_auto: true
 autonym: null
 alt_names: [India, "Kurumba, Mullu"]
 population: 1000

@@ -1,6 +1,8 @@
 ---
 iso: ymr
 name: Malasar
+name_zh: 玛拉萨尔语
+name_zh_auto: true
 autonym: Malayar
 population: 7760
 country_id: IN

@@ -1,6 +1,8 @@
 ---
 iso: ynq
 name: Yendang
+name_zh: 延当语
+name_zh_auto: true
 autonym: Kuseki
 population: 50000
 country_id: NG

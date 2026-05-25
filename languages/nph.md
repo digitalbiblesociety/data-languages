@@ -1,6 +1,8 @@
 ---
 iso: nph
 name: Phom Naga
+name_zh: 普姆纳加语
+name_zh_auto: true
 autonym: Assiringia
 alt_names: [Chingmengnu, Chingmengu, Naga, "Naga, Phom", "Naga,Phom", Phom, Phon, Tamlu, Tamlu Naga, Tśingmegnu]
 population: 54400

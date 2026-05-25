@@ -1,6 +1,8 @@
 ---
 iso: tpr
 name: Tuparí
+name_zh: 图帕里语
+name_zh_auto: true
 autonym: null
 alt_names: [Tupari]
 population: 300

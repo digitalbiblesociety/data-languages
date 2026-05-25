@@ -1,6 +1,8 @@
 ---
 iso: yaf
 name: Yaka (Democratic Republic of Congo)
+name_zh: 亚卡语(刚果民主共和国)
+name_zh_auto: true
 autonym: Iyaka
 alt_names: [Iaca, Iaka, Kiyaka, Yaka, "Yaka (Bantu, Zone H)", Yaka (in Democratic Republic of Congo)]
 population: 900000

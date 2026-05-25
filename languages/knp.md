@@ -1,6 +1,8 @@
 ---
 iso: knp
 name: Kwanja
+name_zh: 克万贾语
+name_zh_auto: true
 autonym: Konja
 alt_names: [Kondja]
 population: 10000

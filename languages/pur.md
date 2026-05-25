@@ -1,6 +1,8 @@
 ---
 iso: pur
 name: Puruborá
+name_zh: 普鲁博拉语
+name_zh_auto: true
 autonym: Aurã
 alt_names: [Boruborá, Burubora, Cujubi, Kuyubi, Miguelenho, Migueleno, Pumbora, Puroborá, Puruba, Purubora]
 population: null

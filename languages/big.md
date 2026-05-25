@@ -1,6 +1,8 @@
 ---
 iso: big
 name: Biangai
+name_zh: 比昂盖语
+name_zh_auto: true
 autonym: null
 population: 6230
 country_id: PG

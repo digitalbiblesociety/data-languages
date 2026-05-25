@@ -1,6 +1,8 @@
 ---
 iso: mat
 name: San Francisco Matlatzinca
+name_zh: 圣弗朗西斯科马特拉特平卡语
+name_zh_auto: true
 autonym: "pjiekak'joo"
 alt_names: [Atzinca, "Bot'una", Matlatzinca, Matlatzinca de San Francisco de los Ranchos, "Matlatzinca, San Francisco", Matlatzinkan, Matlazinca, Ocuiltec, Ocuilteco, Pirinda]
 population: 1167

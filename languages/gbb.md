@@ -1,6 +1,8 @@
 ---
 iso: gbb
 name: Kaytetye
+name_zh: 凯特特耶语
+name_zh_auto: true
 autonym: Gaididj
 alt_names: [Gaidij, Kadda kie, Kadda-kie, Kaddakie, Kaiditj, Kaitej, Kaitidji, Kaitije, Kaitiji, Kaitish, Kaititj, Kaititja, Kaititje, Kat tit ya, Kat titch a, Kat-tit-ya, Kat-titch-a, Katitch a, Katitch-a, Katitcha, Katitja, Katitya, Kattitch a, Kaytej, Kaytetj, Kayteye, Keytetye]
 population: 200

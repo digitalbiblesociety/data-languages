@@ -1,6 +1,8 @@
 ---
 iso: ttu
 name: Torau
+name_zh: 托劳语
+name_zh_auto: true
 autonym: Rorovana
 population: 605
 country_id: PG

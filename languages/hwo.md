@@ -1,6 +1,8 @@
 ---
 iso: hwo
 name: Hwana
+name_zh: 华纳语
+name_zh_auto: true
 autonym: Fiterya
 alt_names: ["C'hwaneg", Hona, Hwana jezik, Hwona, Língua hwana, Tuftera]
 population: 32000

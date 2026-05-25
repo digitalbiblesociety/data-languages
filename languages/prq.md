@@ -1,6 +1,8 @@
 ---
 iso: prq
 name: Ashéninka Perené
+name_zh: 阿什尼卡佩雷内语
+name_zh_auto: true
 autonym: Campa
 alt_names: ["\"Perené Campa\"", Ashaninca (Brésil), Ashaninka (Pérou), Asheninka Perene, Asháninca, Ashéninca Perené, Ashéninga, Atiri, Cogapacorí, Nanti, Perené Ashéninka, Upper Perené]
 population: 5500

@@ -1,6 +1,8 @@
 ---
 iso: opt
 name: Opata
+name_zh: 奥帕塔语
+name_zh_auto: true
 autonym: Eudeve
 alt_names: [Cahita, Dohema, Endeve, Heve, Opata-Eudeve, Opatan, Teguima, Ópata]
 population: null

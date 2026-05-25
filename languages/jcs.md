@@ -1,6 +1,8 @@
 ---
 iso: jcs
 name: Jamaican Country Sign Language
+name_zh: 牙买加乡村手语
+name_zh_auto: true
 autonym: " Konchri Sain Language"
 alt_names: [Country Sign, Konchri Sain]
 population: 40

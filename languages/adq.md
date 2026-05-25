@@ -1,6 +1,8 @@
 ---
 iso: adq
 name: Adangbe
+name_zh: 阿当贝语
+name_zh_auto: true
 autonym: Adangbe
 alt_names: [Adan, Adantonwi, Agotime, Dangbe]
 population: 2200

@@ -1,6 +1,8 @@
 ---
 iso: tks
 name: Takestani
+name_zh: 塔克斯坦尼语
+name_zh_auto: true
 autonym: Tâti تاتی زبون
 alt_names: [Dialectes tats, S. Tati, Southern, Southern Tati, Takistani, Tati, Tati (Southern), Тати, تاتی تبار زوونون, زبان‌های تاتی‌تبار]
 population: 395000

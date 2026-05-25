@@ -1,6 +1,8 @@
 ---
 iso: lss
 name: Lasi
+name_zh: 拉西语
+name_zh_auto: true
 autonym: "سنڌي&"
 alt_names: [Lassi]
 population: 15000

@@ -1,6 +1,8 @@
 ---
 iso: sry
 name: Sera
+name_zh: 塞拉语
+name_zh_auto: true
 autonym: Serra
 alt_names: [Ssia]
 population: 510

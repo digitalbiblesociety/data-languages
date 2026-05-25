@@ -1,6 +1,8 @@
 ---
 iso: bnb
 name: Bookan
+name_zh: 布坎语
+name_zh_auto: true
 autonym: Baukan Murut
 alt_names: [Baukan]
 population: 2760

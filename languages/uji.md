@@ -1,6 +1,8 @@
 ---
 iso: uji
 name: Tanjijili
+name_zh: 坦吉吉利语
+name_zh_auto: true
 autonym: Tanjijili
 alt_names: [Jijili, Koro Funtu of Kafin Koro, Koro Funtu of Minna, Koro of Shakoyi, Ujijili]
 population: 8540

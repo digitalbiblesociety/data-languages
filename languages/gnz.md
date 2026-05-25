@@ -1,6 +1,8 @@
 ---
 iso: gnz
 name: Ganzi
+name_zh: 甘子语
+name_zh_auto: true
 autonym: null
 alt_names: [Central African Republic]
 population: 1400

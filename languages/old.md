@@ -1,6 +1,8 @@
 ---
 iso: old
 name: Mochi
+name_zh: 莫奇语
+name_zh_auto: true
 autonym: Central Chaga
 alt_names: [Chaga, Chagga, Kimochi, Kimoshi, Moshi, Mosi, Old Moshi]
 population: 362000

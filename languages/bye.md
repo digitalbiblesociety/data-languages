@@ -1,6 +1,8 @@
 ---
 iso: bye
 name: Pouye
+name_zh: 普耶语
+name_zh_auto: true
 autonym: Bouye
 alt_names: [Buiye]
 population: 960

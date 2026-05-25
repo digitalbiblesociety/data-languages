@@ -1,6 +1,8 @@
 ---
 iso: jer
 name: Jere
+name_zh: 杰雷语
+name_zh_auto: true
 autonym: Jeere
 alt_names: [Jera]
 population: 23000

@@ -1,6 +1,8 @@
 ---
 iso: psp
 name: Philippine Sign Language
+name_zh: 菲律宾手语
+name_zh_auto: true
 autonym: Filipino Sign Language
 alt_names: [FSL, Local Sign Language, Wikang pasenyas ng mga Pilipino]
 population: 540000

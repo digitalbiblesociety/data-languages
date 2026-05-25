@@ -1,6 +1,8 @@
 ---
 iso: xwd
 name: Wadi Wadi
+name_zh: 瓦迪-瓦迪语
+name_zh_auto: true
 autonym: Biangil
 population: null
 country_id: AU

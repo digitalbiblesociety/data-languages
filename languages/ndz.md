@@ -1,6 +1,8 @@
 ---
 iso: ndz
 name: Ndogo
+name_zh: 恩多戈语
+name_zh_auto: true
 autonym: null
 alt_names: [Sudan]
 population: 48000

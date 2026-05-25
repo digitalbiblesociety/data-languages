@@ -1,6 +1,8 @@
 ---
 iso: mot
 name: Barí
+name_zh: 巴里语
+name_zh_auto: true
 autonym: " Cunausaya"
 alt_names: [Barira, Barí (Chibchan), Dobocubi, Dobocubí, Dobokubí, Idioma barí, Motiln, Motilon, Motilone, Motilone (Chibchan), Motilón, Motilón (Chibchan)]
 population: 3620

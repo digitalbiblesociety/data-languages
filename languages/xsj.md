@@ -1,6 +1,8 @@
 ---
 iso: xsj
 name: Subi
+name_zh: 苏比语
+name_zh_auto: true
 autonym: null
 population: 105000
 country_id: TZ

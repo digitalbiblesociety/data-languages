@@ -1,6 +1,8 @@
 ---
 iso: inm
 name: Minaean
+name_zh: 米那艾亚语
+name_zh_auto: true
 autonym: null
 alt_names: [Epigraphic South Arabian, Madhabic, Minaic, Máini nyelv, لغة معينية]
 population: null

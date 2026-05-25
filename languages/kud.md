@@ -1,6 +1,8 @@
 ---
 iso: kud
 name: "'Auhelawa"
+name_zh: 奥赫拉瓦语
+name_zh_auto: true
 autonym: Kurada
 alt_names: ["'Urada", Nuakata]
 population: 950

@@ -1,6 +1,8 @@
 ---
 iso: hmt
 name: Hamtai
+name_zh: 哈姆泰语
+name_zh_auto: true
 autonym: Hamday
 alt_names: ["\"Kukukuku\"", Hamtai (=Kapau), Hamtai (Kapau), Kamea, Kapau, Kukukuku, Watut]
 population: 66000

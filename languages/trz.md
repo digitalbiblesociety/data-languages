@@ -1,6 +1,8 @@
 ---
 iso: trz
 name: Torá
+name_zh: 托拉语
+name_zh_auto: true
 autonym: Toraz
 alt_names: [Tora]
 population: 2018

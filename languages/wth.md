@@ -1,6 +1,8 @@
 ---
 iso: wth
 name: Wathawurrung
+name_zh: 瓦塔乌伦语
+name_zh_auto: true
 autonym: Wathaurong
 alt_names: [Wada wurrung, Wadawio, Waddorow, Wadhaurung, Wadjawuru, Wadourer, Wadthaurung, Waitowrung, Warra, Wathaurung, Wathawurung, Wathurung, Watorrong, Wiityahuurong, Wioura, Witaoro, Witawurong, Witoura, Witouro, Witowro, Witowurong. Witowurrong, Witowurrong, Witowurrung, Witowurung, Wittyawhuurong, Wod-dowrong, Woddowro, Woddowrong, Wollowurong, Wooeewoorong, Wothowurong, Wuddyawurra, Wuddyawurru, Wudja-wurung, Wudjawuru, Wudjawurung, Wudthaurung]
 population: null

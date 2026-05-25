@@ -1,6 +1,8 @@
 ---
 iso: csv
 name: Sumtu Chin
+name_zh: 苏木图钦语
+name_zh_auto: true
 autonym: Ahmyo
 alt_names: ["Chin, Sumtu"]
 population: 14000

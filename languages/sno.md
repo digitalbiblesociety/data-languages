@@ -1,6 +1,8 @@
 ---
 iso: sno
 name: Snohomish
+name_zh: 斯诺霍米什语
+name_zh_auto: true
 autonym: "Skagit-Nisqually"
 population: 800
 country_id: US

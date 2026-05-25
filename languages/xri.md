@@ -1,6 +1,8 @@
 ---
 iso: xri
 name: "Krikati-Timbira"
+name_zh: 克里卡蒂-廷比拉语
+name_zh_auto: true
 autonym: "Canela-Krahô"
 population: 420
 country_id: BR

@@ -1,6 +1,8 @@
 ---
 iso: enr
 name: Emumu
+name_zh: 埃姆姆语
+name_zh_auto: true
 autonym: Emumu
 alt_names: [Emem, Imimkal, Kiamerop]
 population: 2000

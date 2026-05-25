@@ -1,6 +1,8 @@
 ---
 iso: kcv
 name: Kete
+name_zh: 凯特语
+name_zh_auto: true
 autonym: Kikete
 alt_names: [Lukete]
 population: 8400

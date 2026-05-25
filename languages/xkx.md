@@ -1,6 +1,8 @@
 ---
 iso: xkx
 name: Karore
+name_zh: 卡罗雷语
+name_zh_auto: true
 autonym: null
 alt_names: [Karore language]
 population: 550

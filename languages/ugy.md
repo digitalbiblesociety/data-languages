@@ -1,6 +1,8 @@
 ---
 iso: ugy
 name: Uruguayan Sign Language
+name_zh: 乌拉圭手语
+name_zh_auto: true
 autonym: Lengua de Señas Uruguaya
 alt_names: [LSU]
 population: 7000

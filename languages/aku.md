@@ -1,6 +1,8 @@
 ---
 iso: aku
 name: Akum
+name_zh: 阿库姆语
+name_zh_auto: true
 autonym: Anyar
 alt_names: [Okum]
 population: 1400

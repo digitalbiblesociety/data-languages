@@ -1,6 +1,8 @@
 ---
 iso: zmp
 name: Mpuono
+name_zh: 姆普翁诺语
+name_zh_auto: true
 autonym: Mpuun
 alt_names: [Democratic Republic of the Congo, Mbuun]
 population: 165000

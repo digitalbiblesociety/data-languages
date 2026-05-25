@@ -1,6 +1,8 @@
 ---
 iso: bwc
 name: Bwile
+name_zh: 布维莱语
+name_zh_auto: true
 autonym: null
 population: 12400
 country_id: ZM

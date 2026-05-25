@@ -1,6 +1,8 @@
 ---
 iso: kei
 name: Kei
+name_zh: 凯语
+name_zh_auto: true
 autonym: Kai
 alt_names: [Kei-Fordata, Keiese, Veveu Evav]
 population: 4500

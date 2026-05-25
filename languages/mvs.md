@@ -1,6 +1,8 @@
 ---
 iso: mvs
 name: Massep
+name_zh: 玛塞普语
+name_zh_auto: true
 autonym: Wotaf
 alt_names: [Masep, Masepo, Potafa]
 population: 25

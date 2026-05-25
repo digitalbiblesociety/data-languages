@@ -1,6 +1,8 @@
 ---
 iso: pth
 name: "Pataxó Hã-Ha-Hãe"
+name_zh: 帕塔肖哈哈哈埃语
+name_zh_auto: true
 autonym: "Pataxó Hã-Ha-Hãe"
 alt_names: [Patasho, Patasho-Hanhanhain, Patashó, Pataxi, Pataxo Ha-Ha-Hae, Pataxo-Hahahahe, Pataxó, Pataxó-Hanhanhain, Pataxó-Hãhaãi, Pataxó-Hãhãhãe, Patoxó]
 population: null

@@ -1,6 +1,8 @@
 ---
 iso: ald
 name: Alladian
+name_zh: 阿拉迪亚语
+name_zh_auto: true
 autonym: Alladyan
 alt_names: [Aladian, Allagia, Allagian]
 population: 23000

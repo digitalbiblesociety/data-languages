@@ -1,6 +1,8 @@
 ---
 iso: bfp
 name: Beba
+name_zh: 贝巴语
+name_zh_auto: true
 autonym: Babadji
 alt_names: ["Baba'zhi", Batadji, Bazhi, "Beba'", Bebadji, Biba, Bombe, Mubadji, Shishong]
 population: 3000

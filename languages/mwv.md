@@ -1,6 +1,8 @@
 ---
 iso: mwv
 name: Mentawai
+name_zh: 门塔瓦伊语
+name_zh_auto: true
 autonym: Behase Mentawei
 alt_names: [Bahasa Mentawai, Mentavajų kalba, Mentawaiera, Mentawain kieli, Mentawei, Mentawei-Engano, Mentawi, ภาษาเม็นตาไว]
 population: 58000

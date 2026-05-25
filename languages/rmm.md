@@ -1,6 +1,8 @@
 ---
 iso: rmm
 name: Roma
+name_zh: 罗玛语
+name_zh_auto: true
 autonym: Roma
 alt_names: [Romang, Romang language]
 population: 1700

@@ -1,6 +1,8 @@
 ---
 iso: ekm
 name: Elip
+name_zh: 埃利普语
+name_zh_auto: true
 autonym: Belibi
 alt_names: [Belip, Libie, Nuasue, Nulibie]
 population: 6400

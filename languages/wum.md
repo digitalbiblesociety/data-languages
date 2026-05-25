@@ -1,6 +1,8 @@
 ---
 iso: wum
 name: Wumbvu
+name_zh: 乌姆布武语
+name_zh_auto: true
 autonym: Wumvu
 population: 18300
 country_id: GA

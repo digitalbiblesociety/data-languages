@@ -1,6 +1,8 @@
 ---
 iso: xbi
 name: Kombio
+name_zh: 科姆比奥语
+name_zh_auto: true
 autonym: Kombio Wampukuamp
 alt_names: [Anamagi, Endangen]
 population: 2970

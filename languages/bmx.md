@@ -1,6 +1,8 @@
 ---
 iso: bmx
 name: Baimak
+name_zh: 拜马克语
+name_zh_auto: true
 autonym: null
 population: 653
 country_id: PG

@@ -1,6 +1,8 @@
 ---
 iso: pig
 name: Pisabo
+name_zh: 皮萨博语
+name_zh_auto: true
 autonym: Mayoruna
 population: 600
 country_id: PE

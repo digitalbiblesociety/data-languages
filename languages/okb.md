@@ -1,6 +1,8 @@
 ---
 iso: okb
 name: Okobo
+name_zh: 奥科博语
+name_zh_auto: true
 autonym: null
 alt_names: [Nigeria]
 population: 50000

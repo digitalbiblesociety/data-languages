@@ -1,6 +1,8 @@
 ---
 iso: mpq
 name: Matís
+name_zh: 玛蒂斯语
+name_zh_auto: true
 autonym: matses
 alt_names: [Matis, Matse, Matsés (Perú), Mayoruna (Brésil), Mayoruna (Pérou), Mayoruna-Matsés]
 population: 240

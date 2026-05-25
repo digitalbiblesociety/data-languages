@@ -1,6 +1,8 @@
 ---
 iso: sxk
 name: Southern Kalapuya
+name_zh: 南卡拉普亚语
+name_zh_auto: true
 autonym: Southern Kalapuya
 alt_names: ["Kalapuya, Southern"]
 population: null

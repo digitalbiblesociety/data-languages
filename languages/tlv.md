@@ -1,6 +1,8 @@
 ---
 iso: tlv
 name: Taliabu
+name_zh: 塔利亚布语
+name_zh_auto: true
 autonym: Taliabo
 population: 1500
 country_id: ID

@@ -1,6 +1,8 @@
 ---
 iso: idd
 name: Ede Idaca
+name_zh: 埃德伊达卡语
+name_zh_auto: true
 autonym: Idaaca
 alt_names: [Idaasa, Idaca, Idáìtsà]
 population: 170000

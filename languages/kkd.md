@@ -1,6 +1,8 @@
 ---
 iso: kkd
 name: Kinuku
+name_zh: 基努库语
+name_zh_auto: true
 autonym: Nu
 alt_names: [Kinugu, Kinuka]
 population: 500

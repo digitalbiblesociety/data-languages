@@ -1,6 +1,8 @@
 ---
 iso: trb
 name: Terebu
+name_zh: 特雷布语
+name_zh_auto: true
 autonym: Terepu
 alt_names: [Turubu, Turupu]
 population: 128

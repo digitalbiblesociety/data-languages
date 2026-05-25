@@ -1,6 +1,8 @@
 ---
 iso: cby
 name: Carabayo
+name_zh: 卡拉巴约语
+name_zh_auto: true
 autonym: Aroje
 alt_names: ["\"Amazonas Macusa\"", Amazonas Macusa (pejorative)]
 population: 150

@@ -1,6 +1,8 @@
 ---
 iso: kod
 name: Kodi
+name_zh: 科迪语
+name_zh_auto: true
 autonym: Kudi
 alt_names: [Kodi-Gaura]
 population: 20000

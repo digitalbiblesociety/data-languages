@@ -1,6 +1,8 @@
 ---
 iso: roc
 name: Cacgia Roglai
+name_zh: 卡其亚罗格莱语
+name_zh_auto: true
 autonym: "Ra-Glai"
 alt_names: ["Roglai, Cacgia"]
 population: 3000

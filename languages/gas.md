@@ -1,6 +1,8 @@
 ---
 iso: gas
 name: Adiwasi Garasia
+name_zh: 阿迪瓦西加拉西亚语
+name_zh_auto: true
 autonym: भीली
 alt_names: [Adiwasi Girasia, Adiwasi Gujarati, "Garasia, Adiwasi", Girasia]
 population: 100000

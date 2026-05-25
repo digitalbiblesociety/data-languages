@@ -1,6 +1,8 @@
 ---
 iso: gnw
 name: Western Bolivian Guaraní
+name_zh: 西玻利维亚瓜拉尼语
+name_zh_auto: true
 autonym: " Simba Guarani"
 alt_names: [Ava, Ava-guarani, Avá-guaraní, Bolivian Guaraní, Chiriguano, GuaraSimba, Guarani, Guarani de Bolivie, Guaraní, Guaraní boliviano, Guaraní language area, "Guaraní, Western Bolivian", Simba, Simba Guaraní, Simba kalba, Western Bolivian Guarani]
 population: 7000

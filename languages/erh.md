@@ -1,6 +1,8 @@
 ---
 iso: erh
 name: Eruwa
+name_zh: 埃鲁瓦语
+name_zh_auto: true
 autonym: Arokwa
 alt_names: [Erakwa, Erohwa]
 population: 2000

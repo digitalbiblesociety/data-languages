@@ -1,6 +1,8 @@
 ---
 iso: wig
 name: Wik Ngathan
+name_zh: 威克-恩加赞语
+name_zh_auto: true
 autonym: "Wik-Iinjtjenj"
 alt_names: [Lenga wik-ngathana, Mimungkum, Natanya, Ngadanja, Wig Ngadhan, Wik, Wik Epa, Wik Kalkan, Wik Meanha, Wik Mungkana, Wik Natan, Wik Ngartona, Wik Ngathana, Wik Ngathanya, Wik Ngathara, Wik Ompom, Wik ngatona, Wik-Ngathan language, Wik-Ngathana, Wik-Ngathàna, Wikampama, Wikatinda, Wikepa, Wikmean, Wiknantjara, Wiknatanja, Wikngatan, Wikngatara]
 population: 130

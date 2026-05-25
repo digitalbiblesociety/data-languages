@@ -1,6 +1,8 @@
 ---
 iso: fwa
 name: Fwâi
+name_zh: 富瓦伊语
+name_zh_auto: true
 autonym: Poai
 alt_names: [Fwai, Fûai, Neukaledonien, Po-Ai, Yehen, Yengen]
 population: 1130

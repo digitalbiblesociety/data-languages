@@ -1,6 +1,8 @@
 ---
 iso: nkt
 name: Nyika
+name_zh: 尼亚卡语
+name_zh_auto: true
 autonym: Kinyika
 alt_names: [Nyika (Tanzania)]
 population: 25000

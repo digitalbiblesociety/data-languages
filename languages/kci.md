@@ -1,6 +1,8 @@
 ---
 iso: kci
 name: Kamantan
+name_zh: 卡曼坦语
+name_zh_auto: true
 autonym: Kamantan
 alt_names: [Angan, Kamanton, Ngyian]
 population: 10000

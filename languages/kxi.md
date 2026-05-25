@@ -1,6 +1,8 @@
 ---
 iso: kxi
 name: Keningau Murut
+name_zh: 肯尼高穆鲁特语
+name_zh_auto: true
 autonym: Central Murut
 alt_names: ["Murut, Keningau"]
 population: 1000

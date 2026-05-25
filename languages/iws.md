@@ -1,6 +1,8 @@
 ---
 iso: iws
 name: Sepik Iwam
+name_zh: 塞皮克伊瓦姆语
+name_zh_auto: true
 autonym: Yawenian
 alt_names: ["Iwam, Sepik"]
 population: 2500

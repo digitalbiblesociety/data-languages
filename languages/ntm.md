@@ -1,6 +1,8 @@
 ---
 iso: ntm
 name: Nateni
+name_zh: 纳特尼语
+name_zh_auto: true
 autonym: null
 alt_names: [Natimba, Tayari]
 population: 102000

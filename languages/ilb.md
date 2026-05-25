@@ -1,6 +1,8 @@
 ---
 iso: ilb
 name: Ila
+name_zh: 伊拉语
+name_zh_auto: true
 autonym: Lundwe
 alt_names: [Chiila, Shukulumbwe, Sukulumbwe]
 population: 82900

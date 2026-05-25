@@ -1,6 +1,8 @@
 ---
 iso: mee
 name: Mengen
+name_zh: 门根语
+name_zh_auto: true
 autonym: Poeng
 population: 8400
 country_id: PG

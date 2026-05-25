@@ -1,6 +1,8 @@
 ---
 iso: nyg
 name: Nyindu
+name_zh: 尼因杜语
+name_zh_auto: true
 autonym: Kishi
 alt_names: [Democratic Republic of the Congo]
 population: 8400

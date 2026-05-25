@@ -1,6 +1,8 @@
 ---
 iso: tfr
 name: Teribe
+name_zh: 特里贝语
+name_zh_auto: true
 autonym: " Norteño"
 alt_names: [Naso, Naso (Panamá), Norteno, Nortenyo, Quequexque, Teribe (Costa Rica), Teribe (Panama), Terraba, Tiribi, Tiribí, Tirribi, Tirub]
 population: 3000

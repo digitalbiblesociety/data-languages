@@ -1,6 +1,8 @@
 ---
 iso: zpx
 name: San Baltazar Loxicha Zapotec
+name_zh: 圣巴尔塔萨洛希查萨波特克语
+name_zh_auto: true
 autonym: Northwestern Pochutla Zapotec
 alt_names: [Coatec Zapotec, Coatlán-Loxicha Zapotec (non-preferred), Northern Sapoteko, San Baltázar Loxicha Zapotec, Zapotec, "Zapotec, San Baltazar Loxicha", Zapoteco de San Baltázar Loxicha]
 population: 1500

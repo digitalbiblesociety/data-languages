@@ -1,6 +1,8 @@
 ---
 iso: pum
 name: Puma
+name_zh: 普玛语
+name_zh_auto: true
 autonym: पुमा
 alt_names: [Poumeg, Puma Kala, Puma La, Puma Pima, Pumaish, Пума, ภาษาปูมา]
 population: 4310

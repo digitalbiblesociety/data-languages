@@ -1,6 +1,8 @@
 ---
 iso: swj
 name: Sira
+name_zh: 西拉语
+name_zh_auto: true
 autonym: Eshira
 alt_names: [Gisira, Ichira, Ishira, Isira, Shira, Shire, Yichira]
 population: 39400

@@ -1,6 +1,8 @@
 ---
 iso: ntu
 name: Natügu
+name_zh: 纳图古语
+name_zh_auto: true
 autonym: Natügu
 alt_names: [Lödäi, Nambakaengö, Natqgu, Natugu, Northern Santa Cruz, Santa Cruz]
 population: 4280

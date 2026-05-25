@@ -1,6 +1,8 @@
 ---
 iso: cpo
 name: Kpeego
+name_zh: 克皮戈语
+name_zh_auto: true
 autonym: Numu
 population: 2000
 country_id: BF

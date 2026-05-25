@@ -1,6 +1,8 @@
 ---
 iso: bxo
 name: Barikanchi
+name_zh: 巴里坎奇语
+name_zh_auto: true
 autonym: null
 population: null
 country_id: NG

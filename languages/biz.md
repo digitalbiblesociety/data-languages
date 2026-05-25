@@ -1,6 +1,8 @@
 ---
 iso: biz
 name: Baloi
+name_zh: 巴洛伊语
+name_zh_auto: true
 autonym: Baato Baloi
 alt_names: [Boloi, Loi, Loi language, Rebu]
 population: 20000

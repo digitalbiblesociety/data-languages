@@ -1,6 +1,8 @@
 ---
 iso: yak
 name: Yakama
+name_zh: 亚卡玛语
+name_zh_auto: true
 autonym: Ichishkíin
 alt_names: [Klickitat, Klikitat, Northwestern, Sahaptin, Sahaptin (Northern), Yakima]
 population: 3000

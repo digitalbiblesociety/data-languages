@@ -1,6 +1,8 @@
 ---
 iso: dnt
 name: Mid Grand Valley Dani
+name_zh: 中大瓦利达尼语
+name_zh_auto: true
 autonym: Baliem Valley Dani
 alt_names: [Central Grand Valley Dani, Dani, "Dani, Mid Grand Valley", Ndani, Tulem]
 population: 50000

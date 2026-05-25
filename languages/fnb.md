@@ -1,6 +1,8 @@
 ---
 iso: fnb
 name: Fanbak
+name_zh: 范巴克语
+name_zh_auto: true
 autonym: "Fanbak, Orkon"
 alt_names: [Orkon]
 population: 95

@@ -1,6 +1,8 @@
 ---
 iso: gsl
 name: Gusilay
+name_zh: 古西莱语
+name_zh_auto: true
 autonym: Gusiilaay
 alt_names: [Gusiilay, Gusilaay, Kusiilaay, Kusilay]
 population: 15400

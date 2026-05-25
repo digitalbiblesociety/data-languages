@@ -1,6 +1,8 @@
 ---
 iso: pek
 name: Penchal
+name_zh: 彭查尔语
+name_zh_auto: true
 autonym: null
 alt_names: [Admiralitäts-inseln]
 population: 550

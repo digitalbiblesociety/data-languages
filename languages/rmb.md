@@ -1,6 +1,8 @@
 ---
 iso: rmb
 name: Rembarrnga
+name_zh: 仁巴伦加语
+name_zh_auto: true
 autonym: Rembarunga
 alt_names: [Gunwinyguan, Kaltuy, "Maia:li", Maiali, Maieli, Maielli, Majali, Rainbargo, Rainbarngo, Rainbarno, Rambarrna, Rambarrnga, Ranjbarngo, Ranjbarngu, Reinbaranga, Rem barrna, Rem branga, Rembaranga, Rembarn nga, Rembarnga, Rembarranga, Rembarrna, Rembarrngu, Rembarrunga, Remberanga, Rembranga]
 population: 51

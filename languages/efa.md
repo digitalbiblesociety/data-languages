@@ -1,6 +1,8 @@
 ---
 iso: efa
 name: Efai
+name_zh: 埃法伊语
+name_zh_auto: true
 autonym: Effiat
 population: 6320
 country_id: NG

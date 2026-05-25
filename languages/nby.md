@@ -1,6 +1,8 @@
 ---
 iso: nby
 name: Ningera
+name_zh: 宁格拉语
+name_zh_auto: true
 autonym: Nagira
 alt_names: [Negira, Ninggera]
 population: 150

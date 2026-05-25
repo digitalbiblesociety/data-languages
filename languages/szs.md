@@ -1,6 +1,8 @@
 ---
 iso: szs
 name: Solomon Islands Sign Language
+name_zh: 所罗门群岛手语
+name_zh_auto: true
 autonym: SISL
 population: 3000
 country_id: SB

@@ -1,6 +1,8 @@
 ---
 iso: nid
 name: Ngandi
+name_zh: 恩甘迪语
+name_zh_auto: true
 autonym: null
 alt_names: [Engandi, Gunwinyguan, "N'gundi", Nagandi, Nagandji, Nanda, Nandi, Ngalbon, Ngalgbun, Ngundi]
 population: null

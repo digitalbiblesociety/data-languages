@@ -1,6 +1,8 @@
 ---
 iso: rmk
 name: Romkun
+name_zh: 罗姆昆语
+name_zh_auto: true
 autonym: Kuanga
 alt_names: [Romkuin]
 population: 630

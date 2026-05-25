@@ -1,6 +1,8 @@
 ---
 iso: zhk
 name: Kurdish Sign Language
+name_zh: 库尔德手语
+name_zh_auto: true
 autonym: ZHK
 population: 1000
 country_id: IQ

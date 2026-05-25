@@ -1,6 +1,8 @@
 ---
 iso: lnu
 name: Longuda
+name_zh: 龙乌达语
+name_zh_auto: true
 autonym: Nyà Núngúrá
 alt_names: [Group 10, Languda, Longura, Nunguda, Nungura, Nunguraba]
 population: 99000

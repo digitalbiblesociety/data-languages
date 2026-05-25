@@ -1,6 +1,8 @@
 ---
 iso: fpe
 name: Fernando Po Creole English
+name_zh: 费南多波手语英语
+name_zh_auto: true
 autonym: Fernando Po Creole English
 alt_names: ["Creole English, Fernando Po"]
 population: 6000

@@ -1,6 +1,8 @@
 ---
 iso: tqb
 name: Tembé
+name_zh: 特姆贝语
+name_zh_auto: true
 autonym: Guajajara
 alt_names: [Guajajára, Guazazzara, Tembe, Tenetehara, Tenetehára, Timbé]
 population: 180

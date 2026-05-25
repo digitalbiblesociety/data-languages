@@ -1,6 +1,8 @@
 ---
 iso: hch
 name: Huichol
+name_zh: 惠乔尔语
+name_zh_auto: true
 autonym: Wixárika Niukiyari
 alt_names: [Houitcholeg, Hujĉola lingvo, Idioma huichol, Vixaritari Vaniuqui, Vizaritari Vaniuki, Wichol, Wichol simi, Уичоль]
 population: 52500

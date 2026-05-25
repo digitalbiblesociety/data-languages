@@ -1,6 +1,8 @@
 ---
 iso: goy
 name: Goundo
+name_zh: 古多语
+name_zh_auto: true
 autonym: null
 alt_names: [Gundo]
 population: 30

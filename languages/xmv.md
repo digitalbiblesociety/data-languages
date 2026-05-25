@@ -1,6 +1,8 @@
 ---
 iso: xmv
 name: Antankarana Malagasy
+name_zh: 安坦卡拉马尔加什语
+name_zh_auto: true
 autonym: malagasy
 alt_names: ["Malagasy, Antankarana", "Malagasy, Tankarana", Tankarana, Tankarana Malagasy]
 population: 156000

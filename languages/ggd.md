@@ -1,6 +1,8 @@
 ---
 iso: ggd
 name: Gugadj
+name_zh: 古加德语
+name_zh_auto: true
 autonym: Gugadj
 alt_names: [Gudadj, Gudadji, Gugadji, Gugady, Gugatj, Kalibamu, Kokatj, Konggada, Kukatj, Kukatja, Kukatji, Kukatyi, Marago]
 population: null

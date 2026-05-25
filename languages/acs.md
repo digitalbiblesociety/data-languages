@@ -1,6 +1,8 @@
 ---
 iso: acs
 name: Acroá
+name_zh: 阿克罗亚语
+name_zh_auto: true
 autonym: Coroá
 alt_names: [Acroa, Acroamirim, Akroá, Koroá]
 population: null

@@ -1,6 +1,8 @@
 ---
 iso: tbe
 name: Tanimbili
+name_zh: 塔尼姆比利语
+name_zh_auto: true
 autonym: Tanibili
 alt_names: [Nyisunggu]
 population: 15

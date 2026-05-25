@@ -1,6 +1,8 @@
 ---
 iso: ego
 name: Eggon
+name_zh: 埃贡语
+name_zh_auto: true
 autonym: Onumu Egon
 alt_names: [Egon, Hill Mada, Mada Dutse, Mada Eggon, Mo Egon]
 population: 254000

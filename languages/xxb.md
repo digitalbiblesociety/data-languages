@@ -1,6 +1,8 @@
 ---
 iso: xxb
 name: Boro (Ghana)
+name_zh: 博罗语(加纳)
+name_zh_auto: true
 autonym: null
 population: null
 country_id: GH

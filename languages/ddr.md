@@ -1,6 +1,8 @@
 ---
 iso: ddr
 name: Dhudhuroa
+name_zh: 杜杜罗亚语
+name_zh_auto: true
 autonym: Victorian Alpine
 population: null
 country_id: AU

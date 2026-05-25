@@ -1,6 +1,8 @@
 ---
 iso: emp
 name: Northern Emberá
+name_zh: 北埃姆贝拉语
+name_zh_auto: true
 autonym: Cholo
 alt_names: [Andagueda, Atrato, Choco, Darien, Darien Embera, Dariena, Darién, Ebera Bedea, Eberã, "Eberã Bed'ea", Eberã Bed’ea, Eerã, Embera, Embera (Colombie), Embera (Panama), Embera (Panamá), Emberá, Emberá (North), "Emberá, Northern", Empera, Emperá, Emperã, Eperã Pedea, Northern, Northern Ember, Northern Embera, Northern Ępęra, Panama Embera, Sambú]
 population: 72200

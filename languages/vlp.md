@@ -1,6 +1,8 @@
 ---
 iso: vlp
 name: Valpei
+name_zh: 瓦尔佩语
+name_zh_auto: true
 autonym: Valpay
 alt_names: [Valpei-Hukua]
 population: 300

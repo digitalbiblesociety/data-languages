@@ -1,6 +1,8 @@
 ---
 iso: blq
 name: "Baluan-Pam"
+name_zh: 巴卢安-帕姆语
+name_zh_auto: true
 autonym: Paluai
 alt_names: [Pam-Baluan]
 population: 1000

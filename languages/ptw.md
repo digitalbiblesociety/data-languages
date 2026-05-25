@@ -1,6 +1,8 @@
 ---
 iso: ptw
 name: Pentlatch
+name_zh: 彭特拉奇语
+name_zh_auto: true
 autonym: Pənƛ’áč
 alt_names: [Pentlatc, Puntlatch, pənƛʼáč]
 population: 2023

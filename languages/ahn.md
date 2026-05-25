@@ -1,6 +1,8 @@
 ---
 iso: ahn
 name: Àhàn
+name_zh: 阿汉语
+name_zh_auto: true
 autonym: Ahaan
 alt_names: [Ahan]
 population: 300

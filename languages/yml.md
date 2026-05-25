@@ -1,6 +1,8 @@
 ---
 iso: yml
 name: Iamalele
+name_zh: 伊亚马莱莱语
+name_zh_auto: true
 autonym: null
 alt_names: [Yamalele]
 population: 2800

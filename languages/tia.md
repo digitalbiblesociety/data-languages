@@ -1,6 +1,8 @@
 ---
 iso: tia
 name: Tidikelt Tamazight
+name_zh: 蒂迪克尔特塔玛齐格特语
+name_zh_auto: true
 autonym: Tit
 alt_names: [Tamazight, "Tamazight, Tidikelt", Tidikelt, Tidikelt Berber]
 population: 9000

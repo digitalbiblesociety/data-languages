@@ -1,6 +1,8 @@
 ---
 iso: dbn
 name: Duriankere
+name_zh: 杜里安克雷语
+name_zh_auto: true
 autonym: Duriankari
 alt_names: [Esaro, Sailen]
 population: null

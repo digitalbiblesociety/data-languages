@@ -1,6 +1,8 @@
 ---
 iso: xkz
 name: Kurtokha
+name_zh: 库尔托卡语
+name_zh_auto: true
 autonym: " Zhâke"
 alt_names: [Au Gemale, Gurtü, Kurteopkha, Kurthopkha, Kurtobikha, Kurtopakha, Kurtöbikha, Kurtöp, Kurtöp language, Kurtöpkha, Kürthöpka]
 population: 10000

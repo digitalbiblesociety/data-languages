@@ -1,6 +1,8 @@
 ---
 iso: dmd
 name: Madhi Madhi
+name_zh: 玛迪玛迪语
+name_zh_auto: true
 autonym: Madhimadhi
 population: null
 country_id: AU

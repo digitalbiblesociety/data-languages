@@ -1,6 +1,8 @@
 ---
 iso: mlq
 name: Western Maninkakan
+name_zh: 西部曼尼卡语
+name_zh_auto: true
 autonym: Western Maninka
 alt_names: [Malinka, Malinke, Maninga, Maninka, Maninka (Western), Maninka-Western, Maninkakan (Western), "Maninkakan, Western", Northwestern Maninka, Western Malinke]
 population: 2067260

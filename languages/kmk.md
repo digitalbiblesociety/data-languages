@@ -1,6 +1,8 @@
 ---
 iso: kmk
 name: Limos Kalinga
+name_zh: 利莫斯卡林加语
+name_zh_auto: true
 autonym: null
 alt_names: ["Kalinga, Limos", Limos-Liwan Kalinga, Northern Kalinga]
 population: 12700

@@ -1,6 +1,8 @@
 ---
 iso: nrt
 name: Northern Kalapuya
+name_zh: 北卡拉普亚语
+name_zh_auto: true
 autonym: "Tualatin-Yamhill"
 alt_names: ["Kalapuya, Northern"]
 population: null

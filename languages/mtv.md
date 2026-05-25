@@ -1,6 +1,8 @@
 ---
 iso: mtv
 name: "Asaro'o"
+name_zh: 阿萨罗语
+name_zh_auto: true
 autonym: Morafa
 population: 1250
 country_id: PG

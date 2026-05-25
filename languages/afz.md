@@ -1,6 +1,8 @@
 ---
 iso: afz
 name: Obokuitai
+name_zh: 奥博库伊泰语
+name_zh_auto: true
 autonym: Aliki
 alt_names: [Ati, Baburiwa, Obogwitai, Obokuitái]
 population: 120

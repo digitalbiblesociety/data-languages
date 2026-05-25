@@ -1,6 +1,8 @@
 ---
 iso: psg
 name: Penang Sign Language
+name_zh: 槟城手语
+name_zh_auto: true
 autonym: Bahasa Isyarat Pulau Pinang
 alt_names: [Língua de Sinais de Penang]
 population: 1000

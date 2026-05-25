@@ -1,6 +1,8 @@
 ---
 iso: nsy
 name: Nasal
+name_zh: 鼻音语
+name_zh_auto: true
 autonym: bahasa Nasal
 population: 6000
 country_id: ID

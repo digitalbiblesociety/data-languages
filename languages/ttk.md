@@ -1,6 +1,8 @@
 ---
 iso: ttk
 name: Totoro
+name_zh: 托托罗语
+name_zh_auto: true
 autonym: Namrrik
 alt_names: [Polindara, Totoró]
 population: 4130

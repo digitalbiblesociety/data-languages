@@ -1,6 +1,8 @@
 ---
 iso: ste
 name: "Liana-Seti"
+name_zh: 利亚纳-塞蒂语
+name_zh_auto: true
 autonym: "Liana-Seti"
 alt_names: [Liambata-Kobi, Liana, Lianan, Teula, Uhei Kachlakan, Uhei Kaclakin, Uhei Kahlakim]
 population: 3000

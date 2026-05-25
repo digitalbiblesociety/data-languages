@@ -1,6 +1,8 @@
 ---
 iso: hir
 name: Himarimã
+name_zh: 希马里玛语
+name_zh_auto: true
 autonym: "Hi-Merima"
 alt_names: [Hi-Marimã, Hi-Merimã, Himarima, Maimã]
 population: 40

@@ -1,6 +1,8 @@
 ---
 iso: pcf
 name: Paliyan
+name_zh: 帕利扬语
+name_zh_auto: true
 autonym: പാലിയൻ
 alt_names: [Makkal, Malai Paliyar, Palani, Palaya, Palayan, Paliyar, Palleyan, Palliyar, Poliyar, Seramar]
 population: 9520

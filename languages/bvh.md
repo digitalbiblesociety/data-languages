@@ -1,6 +1,8 @@
 ---
 iso: bvh
 name: Bure
+name_zh: 布雷语
+name_zh_auto: true
 autonym: Bubure
 alt_names: [Bubbure, Bubburè, Bure jezik]
 population: 500

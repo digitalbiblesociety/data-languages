@@ -1,6 +1,8 @@
 ---
 iso: lop
 name: Lopa
+name_zh: 洛帕语
+name_zh_auto: true
 autonym: Rerang
 alt_names: [Djiri, Kirikjir, Lopawa, Lupa]
 population: 5000

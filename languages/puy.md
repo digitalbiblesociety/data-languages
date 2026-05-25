@@ -1,6 +1,8 @@
 ---
 iso: puy
 name: Purisimeño
+name_zh: 普里西梅尼奥语
+name_zh_auto: true
 autonym: null
 alt_names: [Chumasha Proper, La Purisima, Purisimeno, Purismeño, Purísima, Santa Rosa]
 population: null

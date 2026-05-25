@@ -1,6 +1,8 @@
 ---
 iso: kgx
 name: Kamaru
+name_zh: 卡马鲁语
+name_zh_auto: true
 autonym: bahasa Kamaru
 alt_names: [Indonesia]
 population: 3500

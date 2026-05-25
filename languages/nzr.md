@@ -1,6 +1,8 @@
 ---
 iso: nzr
 name: Dir-Nyamzak-Mbarimi
+name_zh: 迪尔-尼亚姆扎克-姆巴里米语
+name_zh_auto: true
 autonym: Barawa
 alt_names: [Lundur]
 population: 22000

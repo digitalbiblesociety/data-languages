@@ -1,6 +1,8 @@
 ---
 iso: lhm
 name: Lhomi
+name_zh: 卢米语
+name_zh_auto: true
 autonym: "Ü-Tsang"
 alt_names: [Central Tibetan, Kar Bhote, Kath Bhote, Lhoket, Shing Saapa]
 population: 5660

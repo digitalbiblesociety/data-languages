@@ -1,6 +1,8 @@
 ---
 iso: tgh
 name: Tobagonian Creole English
+name_zh: 托巴哥克里奥尔英语
+name_zh_auto: true
 autonym: Tobagonian Dialect
 alt_names: ["Creole English, Tobagonian"]
 population: 300000

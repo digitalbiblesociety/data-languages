@@ -1,6 +1,8 @@
 ---
 iso: doy
 name: Dompo
+name_zh: 多姆波语
+name_zh_auto: true
 autonym: Dumpo
 alt_names: [Guang, Ndmpo]
 population: 965

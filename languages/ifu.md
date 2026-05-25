@@ -1,6 +1,8 @@
 ---
 iso: ifu
 name: Mayoyao Ifugao
+name_zh: 马约亚伊富高语
+name_zh_auto: true
 autonym: Ifugaw
 alt_names: ["Ifugao, Mayoyao", Ifugu, Mayaoyaw, Mayoyao]
 population: 30000

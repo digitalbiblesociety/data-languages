@@ -1,6 +1,8 @@
 ---
 iso: kmx
 name: Waboda
+name_zh: 瓦博达语
+name_zh_auto: true
 autonym: Wabuda
 population: null
 country_id: PG

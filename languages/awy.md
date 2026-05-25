@@ -1,6 +1,8 @@
 ---
 iso: awy
 name: Edera Awyu
+name_zh: 埃德拉阿维尤语
+name_zh_auto: true
 autonym: Jenimu
 alt_names: ["Awyu, Edera", Ederah, Oser, Siagha, Sjiagha, Syiagha, Yenimu]
 population: 3870

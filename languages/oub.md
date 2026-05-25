@@ -1,6 +1,8 @@
 ---
 iso: oub
 name: "Glio-Oubi"
+name_zh: 格利奥-乌比语
+name_zh_auto: true
 autonym: Glio
 alt_names: [Oubi, Ubi]
 population: 3500

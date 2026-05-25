@@ -1,6 +1,8 @@
 ---
 iso: cow
 name: Cowlitz
+name_zh: 考利茨语
+name_zh_auto: true
 autonym: Lower Cowlitz
 alt_names: ["Sƛ'púmš", sƛʼpúlmš]
 population: null

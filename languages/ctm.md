@@ -1,6 +1,8 @@
 ---
 iso: ctm
 name: Chitimacha
+name_zh: 奇提玛查语
+name_zh_auto: true
 autonym: Čitimaaša
 alt_names: [Chatimacha, Chetimacha, Chitimacha Cluster, Chitimachan, Shetimacha, Shetimasha, Читимача]
 population: null

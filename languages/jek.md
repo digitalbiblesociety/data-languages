@@ -1,6 +1,8 @@
 ---
 iso: jek
 name: Jeri Kuo
+name_zh: 杰里库奥语
+name_zh_auto: true
 autonym: Celle
 alt_names: [Jeli, Jeli Kuo, Jeri, Jeri.kuo]
 population: 1500

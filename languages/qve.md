@@ -1,6 +1,8 @@
 ---
 iso: qve
 name: Eastern Apurímac Quechua
+name_zh: 东部阿普里马克克丘亚语
+name_zh_auto: true
 autonym: Qosqo runasimi
 alt_names: [East Apurimac Quechua, Eastern Apurimac Quechua, "Quechua, Eastern ApurÃ\u00admac", "Quechua, Eastern Apurímac"]
 population: 200000

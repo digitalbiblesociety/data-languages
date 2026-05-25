@@ -1,6 +1,8 @@
 ---
 iso: omb
 name: East Ambae
+name_zh: 东安巴埃语
+name_zh_auto: true
 autonym: Aoba
 alt_names: [(Lolovoli Northeast), Ambae, Ambae (Lolovoli Northeast), Ambae (Lolovoli), "Ambae, East", Aoban (Northeast), North-East Ambae (Lolovoli), Northeast Ambae, Northeast Aoba, Oba, Omba, Walurigi]
 population: 5000

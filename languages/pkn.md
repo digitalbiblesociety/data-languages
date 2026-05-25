@@ -1,6 +1,8 @@
 ---
 iso: pkn
 name: Pakanha
+name_zh: 帕卡尼亚语
+name_zh_auto: true
 autonym: Ayabakan
 alt_names: [Aiabakan, Ajabakan, Ajabatha, Aw Ayan, Baganu, Bakanh, Bakanha, Bakanu, Gugu Jan, Jan, Koko-Jan, Kokojan, Pakanh, Pakanhu, Uw Ayan, Uw-Ayan, Yir Mayan, YirrqMayvn, u]
 population: null

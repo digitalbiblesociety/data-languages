@@ -1,6 +1,8 @@
 ---
 iso: bky
 name: Bokyi
+name_zh: 博基语
+name_zh_auto: true
 autonym: Boki
 alt_names: [Byoki, Nfua, Nki, Okii, Osikom, Osukam, Uki, Vaaneroki]
 population: 268900

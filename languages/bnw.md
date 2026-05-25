@@ -1,6 +1,8 @@
 ---
 iso: bnw
 name: Bisis
+name_zh: 比西斯语
+name_zh_auto: true
 autonym: Yambiyambi
 population: 500
 country_id: PG

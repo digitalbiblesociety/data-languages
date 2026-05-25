@@ -1,6 +1,8 @@
 ---
 iso: nmi
 name: Nyam
+name_zh: 尼亚姆语
+name_zh_auto: true
 autonym: Nyambolo
 alt_names: [Nyam language]
 population: 100

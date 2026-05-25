@@ -1,6 +1,8 @@
 ---
 iso: zbe
 name: East Berawan
+name_zh: 东贝拉旺语
+name_zh_auto: true
 autonym: Long Jegan Berawan
 alt_names: ["Berawan, East", Long Jegan]
 population: 1100

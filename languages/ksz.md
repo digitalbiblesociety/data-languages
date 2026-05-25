@@ -1,6 +1,8 @@
 ---
 iso: ksz
 name: Kodaku
+name_zh: 科达库语
+name_zh_auto: true
 autonym: Koraku
 alt_names: [Korku]
 population: 15700

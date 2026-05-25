@@ -1,6 +1,8 @@
 ---
 iso: bsj
 name: Bangwinji
+name_zh: 邦温吉语
+name_zh_auto: true
 autonym: Bangjinge
 alt_names: [Bangunji]
 population: 6000

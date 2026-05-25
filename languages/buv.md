@@ -1,6 +1,8 @@
 ---
 iso: buv
 name: Bun
+name_zh: 邦语
+name_zh_auto: true
 autonym: null
 population: 480
 country_id: PG

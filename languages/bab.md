@@ -1,6 +1,8 @@
 ---
 iso: bab
 name: "Bainouk-Gunyuño"
+name_zh: 拜努克-古尼翁语
+name_zh_auto: true
 autonym: " Nyun"
 alt_names: [Bagnoun, Bainuk, Banhum, Banyuk, Banyum, Banyun, Banyung, Baïnounk Gujaher, Elomay, Elunay]
 population: 8860

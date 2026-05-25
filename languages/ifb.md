@@ -1,6 +1,8 @@
 ---
 iso: ifb
 name: Batad Ifugao
+name_zh: 巴塔德伊富高语
+name_zh_auto: true
 autonym: Ayangan Ifugao
 alt_names: [Batad, Ifugao, Ifugao (Batad), Ifugao language, "Ifugao, Ayangan", "Ifugao, Batad", Ifugu]
 population: 10100

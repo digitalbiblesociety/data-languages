@@ -1,6 +1,8 @@
 ---
 iso: nlm
 name: Mankiyali
+name_zh: 曼基亚利语
+name_zh_auto: true
 autonym: null
 population: 500
 country_id: PK

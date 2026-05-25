@@ -1,6 +1,8 @@
 ---
 iso: bws
 name: Bomboma
+name_zh: 博姆博马语
+name_zh_auto: true
 autonym: Boba
 population: 1279
 country_id: CD

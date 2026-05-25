@@ -1,6 +1,8 @@
 ---
 iso: yuj
 name: "Karkar-Yuri"
+name_zh: 卡尔卡尔-尤里语
+name_zh_auto: true
 autonym: Yuri
 alt_names: [Idioma Yuri, Karkar, Karkar-Yuri jezik, Yuri (Karkar)]
 population: 1140

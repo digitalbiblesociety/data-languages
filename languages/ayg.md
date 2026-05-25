@@ -1,6 +1,8 @@
 ---
 iso: ayg
 name: Ginyanga
+name_zh: 金亚加语
+name_zh_auto: true
 autonym: Ginyanga
 alt_names: [Agnagan, Anyanga, Genyanga, Guang]
 population: 12000

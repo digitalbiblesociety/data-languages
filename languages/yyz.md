@@ -1,6 +1,8 @@
 ---
 iso: yyz
 name: Ayizi
+name_zh: 艾伊兹语
+name_zh_auto: true
 autonym: null
 alt_names: [阿夷子語]
 population: null

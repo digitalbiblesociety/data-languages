@@ -1,6 +1,8 @@
 ---
 iso: aji
 name: Ajië
+name_zh: 阿吉埃语
+name_zh_auto: true
 autonym: "A'jie"
 alt_names: [Ajie, Anjie, Baladea, Houailou, Lingua ajië, Neukaledonien, Wai, Wailu]
 population: 4040

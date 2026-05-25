@@ -1,6 +1,8 @@
 ---
 iso: biu
 name: Biete
+name_zh: 比埃特语
+name_zh_auto: true
 autonym: Biate
 alt_names: [Baite, Bete]
 population: 19000

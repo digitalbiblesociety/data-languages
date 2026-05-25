@@ -1,6 +1,8 @@
 ---
 iso: mzl
 name: Mazatlán Mixe
+name_zh: 玛萨特兰米克斯语
+name_zh_auto: true
 autonym: Lowland Mixe
 alt_names: [East Central Mixe, Eastern Mixe, Guichicovi Mixe, Isthmus Mixe, Lowland Mije, Mazatlan Mixe, Mazatlán, Mije, Mixe, Mixe del Istmo, "Mixe, Mazatlán", "Mixe, Mazatlín", Oaxaca Mije, Tutla Mixe]
 population: 19200

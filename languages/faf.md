@@ -1,6 +1,8 @@
 ---
 iso: faf
 name: Fagani
+name_zh: 法加尼语
+name_zh_auto: true
 autonym: Faghani
 alt_names: [Gani, Südliche Salomons-Inseln]
 population: 900

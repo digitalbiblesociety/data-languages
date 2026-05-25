@@ -1,6 +1,8 @@
 ---
 iso: yxm
 name: Yinwum
+name_zh: 伊因温语
+name_zh_auto: true
 autonym: Yeemwoom
 population: null
 country_id: AU

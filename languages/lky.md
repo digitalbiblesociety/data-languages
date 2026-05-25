@@ -1,6 +1,8 @@
 ---
 iso: lky
 name: Lokoya
+name_zh: 洛科亚语
+name_zh_auto: true
 autonym: Lokoya
 alt_names: [Ellyria, Koyo, Loirya, Lokoiya, Lokoja, Loquia, Lowoi, Oirya, Owoi, Oxoriok, Oxoryok]
 population: 12400

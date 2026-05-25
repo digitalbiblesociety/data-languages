@@ -1,6 +1,8 @@
 ---
 iso: pup
 name: Pulabu
+name_zh: 普拉布语
+name_zh_auto: true
 autonym: null
 population: 120
 country_id: PG

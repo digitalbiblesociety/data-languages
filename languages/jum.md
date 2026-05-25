@@ -1,6 +1,8 @@
 ---
 iso: jum
 name: Jumjum
+name_zh: 朱姆朱姆语
+name_zh_auto: true
 autonym: Mabaan
 alt_names: [Berin, Olga, Wadega]
 population: 25000

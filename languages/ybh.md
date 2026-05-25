@@ -1,6 +1,8 @@
 ---
 iso: ybh
 name: Yakha
+name_zh: 亚卡语
+name_zh_auto: true
 autonym: Dewansala
 alt_names: [Rōi, Yakeg, Yakkha, Yakkhaba, Yakkhaba Cea, Yakkhaba Sala, Yakthomba, Yākhā, Якха]
 population: 14600

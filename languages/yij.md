@@ -1,6 +1,8 @@
 ---
 iso: yij
 name: Yindjibarndi
+name_zh: 伊因季巴尔迪语
+name_zh_auto: true
 autonym: Burnugundi
 alt_names: [Binjiebandie, Een ge pan ty, Indjiban, Indjibandi, Indjibandje, Indjibandji, Ingi bandi, Ingi-bandi, Ingibandi, Injibandi, "Jana:ri", Jaurnmalu, "Jind'iparndi", Jindiparndi, Jindjaparndi, Jindjibandi, Jindjibandji, Jindjibanji, Jindjibarndi, Jindjiparndi, Kakardi, Kurama, Kurama-Jindjibandi, Mandanjingu, Mandanjong, Mandanjongo, Mardanjungu, Yanari, Yingiebandie, Yinjibarndi, Yinjtjiparnrti, Yinjtjipartnti, Yinytjiparnti]
 population: 380

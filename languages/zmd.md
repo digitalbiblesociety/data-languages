@@ -1,6 +1,8 @@
 ---
 iso: zmd
 name: Maridan
+name_zh: 马里丹语
+name_zh_auto: true
 autonym: Berringen
 alt_names: [Brinken, Maredan, Marri Ammu, Marridan, Marrisjefin, Marrisyefin, Marrithiyel, Matige, Meradan, Murindan, Nordanimin, Western Daly language.]
 population: null

@@ -1,6 +1,8 @@
 ---
 iso: mpg
 name: Marba
+name_zh: 玛尔巴语
+name_zh_auto: true
 autonym: Marba / Azumeina
 alt_names: ["'Azumeina", Azumeina, Kolong, Kulong, Kulung, Maraba, Marba hizkuntza, Marba jezik, Marbaeg]
 population: 271000

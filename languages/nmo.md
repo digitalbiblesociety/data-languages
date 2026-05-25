@@ -1,6 +1,8 @@
 ---
 iso: nmo
 name: Moyon Naga
+name_zh: 莫永纳加语
+name_zh_auto: true
 autonym: Moyon Naga
 alt_names: [Mayol, Mayon Naga, Moyon, "Naga, Moyon", "Naga,Moyon"]
 population: 3700

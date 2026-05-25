@@ -1,6 +1,8 @@
 ---
 iso: mmk
 name: "Mukha-Dora"
+name_zh: 穆卡-多拉语
+name_zh_auto: true
 autonym: "Conta-Reddi"
 alt_names: [Mukha Dhora, Nooka Dora, Nuka-Dora, Reddi, Reddi-Dora, Riddi]
 population: 29700

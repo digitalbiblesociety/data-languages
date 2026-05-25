@@ -1,6 +1,8 @@
 ---
 iso: nsr
 name: Maritime Sign Language
+name_zh: 海事手语
+name_zh_auto: true
 autonym: Langue des Signes Maritime
 alt_names: [Língua Gestual das Províncias Marítimas, Nova Scotian Sign Language]
 population: 90

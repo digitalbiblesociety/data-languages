@@ -1,6 +1,8 @@
 ---
 iso: tsd
 name: Tsakonian
+name_zh: 萨克尼亚语
+name_zh_auto: true
 autonym: τσακώνικα
 alt_names: [Cakončina, Gresianeg Tsakonia, Lingua tsakonia, Tsaconia, Tsakonia, Tsakonian kieli, Tsakoniano, Tsakonien, Tsakonisch, Τσακωνική διάλεκτος, Цаконски език, Цаконский язык, Цаконська мова]
 population: 2000

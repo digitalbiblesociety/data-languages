@@ -1,6 +1,8 @@
 ---
 iso: bmb
 name: Bembe
+name_zh: 贝贝语
+name_zh_auto: true
 autonym: Ebeembe
 alt_names: [Baga maduri, Baga manduri, Beembe, Ebembe, Ibembe, Kibembe]
 population: 274000

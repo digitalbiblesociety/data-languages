@@ -1,6 +1,8 @@
 ---
 iso: bqk
 name: "Banda-Mbrès"
+name_zh: 班达-姆布雷斯语
+name_zh_auto: true
 autonym: Banda of Mbrès
 alt_names: [Banda-Mbre, Banda-Mbres]
 population: 42500

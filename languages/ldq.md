@@ -1,6 +1,8 @@
 ---
 iso: ldq
 name: Lufu
+name_zh: 卢富语
+name_zh_auto: true
 autonym: null
 alt_names: [Lufueg, Nigeria]
 population: 3200

@@ -1,6 +1,8 @@
 ---
 iso: psq
 name: Pasi
+name_zh: 帕西语
+name_zh_auto: true
 autonym: Besi
 alt_names: [Warasai, Yau]
 population: 360

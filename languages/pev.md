@@ -1,6 +1,8 @@
 ---
 iso: pev
 name: Pémono
+name_zh: 佩莫诺语
+name_zh_auto: true
 autonym: Mapoyo–Yavarana
 alt_names: [Pemono, Pemonoa lingvo]
 population: null

@@ -1,6 +1,8 @@
 ---
 iso: nny
 name: Nyangga
+name_zh: 尼扬加语
+name_zh_auto: true
 autonym: Janga
 alt_names: [Aniula, Anjula, Anula, Anuwa, Anyoola, Anyula, Anyuwa, Djirukurumbant, Iangkala, Jang-Kala, Jangaa, Jangga, Janjula, Leanawa, Leeanuwa, Njangga, Njanggala, Njangkala, South Wellesley, Southern Tangkic, Unalla, Yangala, Yangarella, Yanggal, Yangkaal, Yangkaal-Kayardild, Yanula, Yanular, Yanyuwa, Yuckamurri, Yuggamurra]
 population: null

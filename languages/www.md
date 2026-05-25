@@ -1,6 +1,8 @@
 ---
 iso: www
 name: Wawa
+name_zh: 瓦瓦语
+name_zh_auto: true
 autonym: null
 alt_names: [Cameroon]
 population: 3000

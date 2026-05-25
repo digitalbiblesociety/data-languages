@@ -1,6 +1,8 @@
 ---
 iso: tye
 name: Kyanga
+name_zh: 基扬加语
+name_zh_auto: true
 autonym: Tyenga
 alt_names: [Cenka, Kenga, Kyenga, Tienga, Tyanga]
 population: 15000

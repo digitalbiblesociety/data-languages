@@ -1,6 +1,8 @@
 ---
 iso: aub
 name: Alugu
+name_zh: 阿卢古语
+name_zh_auto: true
 autonym: Phuza
 population: 3500
 country_id: CN

@@ -1,6 +1,8 @@
 ---
 iso: tro
 name: Tarao Naga
+name_zh: 塔劳纳加语
+name_zh_auto: true
 autonym: Tarao Naga
 alt_names: [Naga, Naga (Tarao), "Naga, Tarao", "Naga,Tarao", Tarao, Taraotrong, Tarau]
 population: 870

@@ -1,6 +1,8 @@
 ---
 iso: scz
 name: Shaetlan
+name_zh: 谢特兰语
+name_zh_auto: true
 autonym: Shaetlan
 population: 6500
 country_id: GB

@@ -1,6 +1,8 @@
 ---
 iso: bze
 name: Jenaama Bozo
+name_zh: 热纳玛博佐语
+name_zh_auto: true
 autonym: Boso
 alt_names: ["\"Boso\" Bozo", "Bozo, Jenaama", Corogaama, Corogama, Djenaama, Gbunde, Jenama, Nononke, Sarkanci, Sarkawa, Sorko, Sorogaama, Sorogama]
 population: 197000

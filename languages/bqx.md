@@ -1,6 +1,8 @@
 ---
 iso: bqx
 name: Baangi
+name_zh: 巴昂吉语
+name_zh_auto: true
 autonym: Cibaangi
 alt_names: [Kambari]
 population: 15000

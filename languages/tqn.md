@@ -1,6 +1,8 @@
 ---
 iso: tqn
 name: Tenino
+name_zh: 特尼诺语
+name_zh_auto: true
 autonym: Warm Springs
 alt_names: [Columbia River, Sahaptin, Southern, Tenaino]
 population: 1000

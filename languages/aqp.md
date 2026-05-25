@@ -1,6 +1,8 @@
 ---
 iso: aqp
 name: Atakapa
+name_zh: 阿塔卡帕语
+name_zh_auto: true
 autonym: Yukhiti
 alt_names: [Atakapa hizkuntza, Atakapan, Atakapeg, Attacapa, Attacapan, Eastern Atakapa, Idioma atakapa, Western Atakapa, Атакапа]
 population: null

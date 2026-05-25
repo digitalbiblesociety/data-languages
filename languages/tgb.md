@@ -1,6 +1,8 @@
 ---
 iso: tgb
 name: Tobilung
+name_zh: 托比隆语
+name_zh_auto: true
 autonym: Tabilong
 alt_names: [Tebilung, Tobilang]
 population: 8850

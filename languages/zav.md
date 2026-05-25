@@ -1,6 +1,8 @@
 ---
 iso: zav
 name: Yatzachi Zapotec
+name_zh: 亚茨阿奇-萨波特克语
+name_zh_auto: true
 autonym: "Dižə'əxon"
 alt_names: [Cajonos Zapotec, Eastern Sapoteko, Rincón, Sapoteko, Sierra de Villa Alta, Villalta (non-preferred), Yalálog, Zapotec, Zapotec (Yatzachi), "Zapotec, Yatzachi", Zapoteco de Petapa, Zapoteco de San Bartolo Yautepec, Zapoteco mixtepeco, Zapotèque de Mixtepe, Zapotèque de Petapa, Zapotèque de San Bartolo Yautepec, dill xhon]
 population: 2500

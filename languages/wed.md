@@ -1,6 +1,8 @@
 ---
 iso: wed
 name: Wedau
+name_zh: 韦道语
+name_zh_auto: true
 autonym: Wedau (Topura)
 alt_names: [Wedaun, Wedawan]
 population: 2700

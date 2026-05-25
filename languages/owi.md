@@ -1,6 +1,8 @@
 ---
 iso: owi
 name: Owiniga
+name_zh: 奥维尼加语
+name_zh_auto: true
 autonym: Bero
 alt_names: [Samo, Taina]
 population: 330

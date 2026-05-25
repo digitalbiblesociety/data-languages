@@ -1,6 +1,8 @@
 ---
 iso: prw
 name: Parawen
+name_zh: 帕拉温语
+name_zh_auto: true
 autonym: Para
 population: 430
 country_id: PG

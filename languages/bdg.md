@@ -1,6 +1,8 @@
 ---
 iso: bdg
 name: Bonggi
+name_zh: 邦吉语
+name_zh_auto: true
 autonym: Bangay
 alt_names: [Banggi, Banggi Dusun]
 population: 1400

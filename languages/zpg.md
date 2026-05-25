@@ -1,6 +1,8 @@
 ---
 iso: zpg
 name: Guevea De Humboldt Zapotec
+name_zh: 圭韦亚德温博尔特萨波特克语
+name_zh_auto: true
 autonym: Guevea de Humboldt Zapotec
 alt_names: [Eastern Zapotec, Northern Isthmus Zapotec, Northern Sapoteko, Petapa, Petapa Zapotec, Transyautepecan Zapotec, Transyautepecan Zapotec dialect continuum, Zapotec, "Zapotec, Guevea de Humboldt", Zapoteco de Guevea de Humboldt, Zapoteco de Santa María Petapa]
 population: 4720

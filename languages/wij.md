@@ -1,6 +1,8 @@
 ---
 iso: wij
 name: "Wik-Iiyanh"
+name_zh: 威克-伊扬语
+name_zh_auto: true
 autonym: "Wik-Muminh"
 alt_names: [Wik-Iiyanyi, Wik-Iiyeny, Wik-Iyanh, Wik-Iyena, Wikianji, Wikianyi]
 population: null

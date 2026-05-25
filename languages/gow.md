@@ -1,6 +1,8 @@
 ---
 iso: gow
 name: Gorowa
+name_zh: 戈罗瓦语
+name_zh_auto: true
 autonym: Fiome
 alt_names: [Fiomi, Goroa, Gorwaa, Kimbulu, Ufiomi, Ufromi]
 population: 113000

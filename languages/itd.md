@@ -1,6 +1,8 @@
 ---
 iso: itd
 name: Southern Tidung
+name_zh: 南蒂冬语
+name_zh_auto: true
 autonym: Southern Tidung
 alt_names: ["Tidung, Southern"]
 population: 27000

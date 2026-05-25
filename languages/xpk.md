@@ -1,6 +1,8 @@
 ---
 iso: xpk
 name: Kulina Pano
+name_zh: 库利纳帕诺语
+name_zh_auto: true
 autonym: Kulina Pano
 alt_names: [Culina, Culino, Kulina, Kulina páno, Kulino, "Pano, Kulina"]
 population: 32

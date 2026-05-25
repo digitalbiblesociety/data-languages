@@ -1,6 +1,8 @@
 ---
 iso: mcr
 name: Menya
+name_zh: 梅尼亚语
+name_zh_auto: true
 autonym: Menyama
 alt_names: [Menye]
 population: 25000

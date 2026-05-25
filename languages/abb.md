@@ -1,6 +1,8 @@
 ---
 iso: abb
 name: Bankon
+name_zh: 班孔语
+name_zh_auto: true
 autonym: Abo
 alt_names: [Abaw, Bo, Bon]
 population: 12000

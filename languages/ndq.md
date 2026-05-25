@@ -1,6 +1,8 @@
 ---
 iso: ndq
 name: Ndombe
+name_zh: 恩东贝语
+name_zh_auto: true
 autonym: Dombe
 population: 22300
 country_id: AO

@@ -1,6 +1,8 @@
 ---
 iso: twl
 name: Tawara
+name_zh: 塔瓦拉语
+name_zh_auto: true
 autonym: chiShona
 alt_names: [Tawala]
 population: 110000

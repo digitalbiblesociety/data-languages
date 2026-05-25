@@ -1,6 +1,8 @@
 ---
 iso: aww
 name: Awun
+name_zh: 阿温语
+name_zh_auto: true
 autonym: Awon
 alt_names: [Auwan]
 population: 400

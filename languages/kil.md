@@ -1,6 +1,8 @@
 ---
 iso: kil
 name: Kariya
+name_zh: 卡里亚语
+name_zh_auto: true
 autonym: Vìnà Hə̀
 alt_names: [Kariyu, Kauyawa, Lipkawa, Vinahe, Wihe]
 population: 2000

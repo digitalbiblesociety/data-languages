@@ -1,6 +1,8 @@
 ---
 iso: laa
 name: Southern Subanen
+name_zh: 南苏班嫩语
+name_zh_auto: true
 autonym: Subanon
 alt_names: [Lapuyen, Margosatubig, Subanen, "Subanen, Southern", "Subanun, Lapuyan"]
 population: 25000

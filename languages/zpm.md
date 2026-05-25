@@ -1,6 +1,8 @@
 ---
 iso: zpm
 name: Mixtepec Zapotec
+name_zh: 混特佩克萨波特克语
+name_zh_auto: true
 autonym: (San Juan Mixtepec)
 alt_names: [Eastern Miahuatlán Zapotec, Eastern Sapoteko, Eastern Zapoteco, Miahuatec, Miahuatlan, Mixtepec, San Juan Mixtepec Zapoteco, Sapoteko, Southern Mountain Zapotec, Zapotec, Zapotec (Mixtepec), "Zapotec, Mixtepec", Zapoteco (Mixtepec), Zapoteco de Petapa, Zapoteco de San Bartolo Yautepec, Zapoteco de San Juan Mixtepec, Zapoteco mixtepeco, Zapotèque de Mixtepe, Zapotèque de Petapa, Zapotèque de San Bartolo Yautepec]
 population: 7000

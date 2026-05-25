@@ -1,6 +1,8 @@
 ---
 iso: nmw
 name: Nimoa
+name_zh: 尼莫亚语
+name_zh_auto: true
 autonym: Rifao
 alt_names: [Nimowa]
 population: 1100

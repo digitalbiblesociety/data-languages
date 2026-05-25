@@ -1,6 +1,8 @@
 ---
 iso: raz
 name: Rahambuu
+name_zh: 拉哈姆布语
+name_zh_auto: true
 autonym: Lellewao
 alt_names: [Wiaoe, Wiau]
 population: 5000

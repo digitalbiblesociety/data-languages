@@ -1,6 +1,8 @@
 ---
 iso: toz
 name: To
+name_zh: 托语
+name_zh_auto: true
 autonym: null
 alt_names: ["Central African Republic, Cameroon"]
 population: null

@@ -1,6 +1,8 @@
 ---
 iso: kef
 name: Kpessi
+name_zh: 克佩西语
+name_zh_auto: true
 autonym: Èʋegbe
 alt_names: [Kpesi, Kpétsi]
 population: 4000

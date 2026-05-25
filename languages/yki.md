@@ -1,6 +1,8 @@
 ---
 iso: yki
 name: Yoke
+name_zh: 约克语
+name_zh_auto: true
 autonym: Pauwi
 alt_names: [Jauke, Pauwi I, Pauwi II, Yauke, Yoki]
 population: 200

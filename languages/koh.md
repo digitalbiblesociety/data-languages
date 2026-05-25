@@ -1,6 +1,8 @@
 ---
 iso: koh
 name: Koyo
+name_zh: 科约语
+name_zh_auto: true
 autonym: Ekoyo
 alt_names: [Kouyou]
 population: 1000

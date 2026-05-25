@@ -1,6 +1,8 @@
 ---
 iso: ksn
 name: Kasiguranin
+name_zh: 卡西古拉宁语
+name_zh_auto: true
 autonym: Casiguranin
 population: 10000
 country_id: PH

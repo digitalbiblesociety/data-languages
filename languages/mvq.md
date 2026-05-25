@@ -1,6 +1,8 @@
 ---
 iso: mvq
 name: Moere
+name_zh: 莫雷语
+name_zh_auto: true
 autonym: null
 population: 50
 country_id: PG

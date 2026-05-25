@@ -1,6 +1,8 @@
 ---
 iso: cen
 name: Cen
+name_zh: 琴语
+name_zh_auto: true
 autonym: Afusare
 population: 50000
 country_id: NG

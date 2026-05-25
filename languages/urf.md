@@ -1,6 +1,8 @@
 ---
 iso: urf
 name: Uradhi
+name_zh: 乌拉迪语
+name_zh_auto: true
 autonym: Injinoo
 population: null
 country_id: AU

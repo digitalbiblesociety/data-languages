@@ -1,6 +1,8 @@
 ---
 iso: kdy
 name: Keder
+name_zh: 凯德语
+name_zh_auto: true
 autonym: Keder
 alt_names: [Keijar]
 population: 370

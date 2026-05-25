@@ -1,6 +1,8 @@
 ---
 iso: oda
 name: Odut
+name_zh: 奥杜特语
+name_zh_auto: true
 autonym: null
 population: 100000
 country_id: NG

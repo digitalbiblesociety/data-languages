@@ -1,6 +1,8 @@
 ---
 iso: xrm
 name: Armazic
+name_zh: 阿尔马齐克语
+name_zh_auto: true
 autonym: Armazian
 population: null
 country_id: GE

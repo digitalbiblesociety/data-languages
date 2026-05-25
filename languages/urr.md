@@ -1,6 +1,8 @@
 ---
 iso: urr
 name: Lehalurup
+name_zh: 勒哈卢鲁普语
+name_zh_auto: true
 autonym: Divers Bay
 alt_names: [Banks-Inseln, East Ureparapara, Löyöp, Ureparapara]
 population: 250

@@ -1,6 +1,8 @@
 ---
 iso: kqg
 name: Khe
+name_zh: 科语
+name_zh_auto: true
 autonym: Kheso
 alt_names: [Bambadion-Kheso]
 population: 1300

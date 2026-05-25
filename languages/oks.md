@@ -1,6 +1,8 @@
 ---
 iso: oks
 name: "Oko-Eni-Osayen"
+name_zh: 奥科-埃尼-奥萨延语
+name_zh_auto: true
 autonym: "Ogori-Magongo"
 alt_names: [Oko]
 population: 10000

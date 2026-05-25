@@ -1,6 +1,8 @@
 ---
 iso: woc
 name: Wogeo
+name_zh: 沃格欧语
+name_zh_auto: true
 autonym: Uageo
 alt_names: [Wokeo]
 population: 1620

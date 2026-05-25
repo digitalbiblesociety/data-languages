@@ -1,6 +1,8 @@
 ---
 iso: kvx
 name: Parkari Koli
+name_zh: 帕尔卡里科利语
+name_zh_auto: true
 autonym: Parkari
 alt_names: ["Koli, Parkari", Lenga koli parkari, باركري كولي]
 population: 358000

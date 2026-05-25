@@ -1,6 +1,8 @@
 ---
 iso: bnx
 name: Bangubangu
+name_zh: 班古班古语
+name_zh_auto: true
 autonym: Bangobango
 alt_names: [Kibangobango, Kibangubangu]
 population: 246000

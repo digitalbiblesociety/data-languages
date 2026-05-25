@@ -1,6 +1,8 @@
 ---
 iso: kww
 name: Kwinti
+name_zh: 克温蒂语
+name_zh_auto: true
 autonym: null
 population: 130
 country_id: SR

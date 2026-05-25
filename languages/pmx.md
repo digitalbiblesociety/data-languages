@@ -1,6 +1,8 @@
 ---
 iso: pmx
 name: Poumei Naga
+name_zh: 玻梅伊那加语
+name_zh_auto: true
 autonym: Sopvoma
 alt_names: ["Naga, Poumei", "Naga,Poumei", Paumei, Pomai, Pome, Poumei]
 population: 143000

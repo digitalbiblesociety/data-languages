@@ -1,6 +1,8 @@
 ---
 iso: lbr
 name: Lohorung
+name_zh: 洛霍龙语
+name_zh_auto: true
 autonym: Loharung
 alt_names: [Balai, Lohorong, Lohrung, Lohrung Khanawa, Lorung, "Lorung, Northern", "Lorung,Northern", Lōhōrōng, Northern, Northern Lorung]
 population: 3720

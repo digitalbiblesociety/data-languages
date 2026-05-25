@@ -1,6 +1,8 @@
 ---
 iso: vnp
 name: Vunapu
+name_zh: 武纳普语
+name_zh_auto: true
 autonym: null
 alt_names: [Vanuatu]
 population: 380

@@ -1,6 +1,8 @@
 ---
 iso: ymb
 name: Yambes
+name_zh: 扬贝斯语
+name_zh_auto: true
 autonym: null
 alt_names: [East Sepik Province, Maprik District, east and southeast of Kombio, northwest of Wom]
 population: 1080

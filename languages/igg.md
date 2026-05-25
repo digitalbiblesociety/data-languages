@@ -1,6 +1,8 @@
 ---
 iso: igg
 name: Igana
+name_zh: 伊加纳语
+name_zh_auto: true
 autonym: null
 population: 200
 country_id: PG

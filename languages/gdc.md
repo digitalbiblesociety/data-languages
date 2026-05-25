@@ -1,6 +1,8 @@
 ---
 iso: gdc
 name: Gugu Badhun
+name_zh: 古古巴顿语
+name_zh_auto: true
 autonym: Northern Maric
 alt_names: [Gugu-Badhun, Koko Padun, Koko Patun, Koko-Patun, Kokopatun, Patun]
 population: null

@@ -1,6 +1,8 @@
 ---
 iso: kkb
 name: Kwerisa
+name_zh: 克韦里萨语
+name_zh_auto: true
 autonym: Taogwe
 population: 130
 country_id: ID

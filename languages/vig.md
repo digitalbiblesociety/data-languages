@@ -1,6 +1,8 @@
 ---
 iso: vig
 name: Viemo
+name_zh: 维莫语
+name_zh_auto: true
 autonym: Vige
 alt_names: [Vigué, Vigye]
 population: 8000

@@ -1,6 +1,8 @@
 ---
 iso: rmp
 name: Rempi
+name_zh: 伦皮语
+name_zh_auto: true
 autonym: "A'e"
 alt_names: [Erempi, Rempin]
 population: 1590

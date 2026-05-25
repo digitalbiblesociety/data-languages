@@ -1,6 +1,8 @@
 ---
 iso: wur
 name: Wurrugu
+name_zh: 乌鲁古语
+name_zh_auto: true
 autonym: Popham Bay
 alt_names: [Auwul warwak, Iji, Iyi, Jalo, Jarle, Limba Karadjee, Limpapiu, Lyi, Urugu, Uruku, Warange, Wareidbug, Warooko, Warragu, Warrka, Warrooka, Woreidbug, Wurango, Wurangu, Wurengo, Wurrango, Wurruga, Wurrunga, Wuruku, Yarlo, iwaidjan]
 population: null

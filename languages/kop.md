@@ -1,6 +1,8 @@
 ---
 iso: kop
 name: Waube
+name_zh: 瓦乌贝语
+name_zh_auto: true
 autonym: Waupe
 alt_names: [Kwato]
 population: 780

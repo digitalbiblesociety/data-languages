@@ -1,6 +1,8 @@
 ---
 iso: eit
 name: Eitiep
+name_zh: 埃缇普语
+name_zh_auto: true
 autonym: null
 alt_names: [Endangen, Indiang]
 population: 500

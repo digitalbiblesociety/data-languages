@@ -1,6 +1,8 @@
 ---
 iso: gyl
 name: Gayil
+name_zh: 盖伊尔语
+name_zh_auto: true
 autonym: Galila
 alt_names: [Ari-Galila, Boko]
 population: 55700

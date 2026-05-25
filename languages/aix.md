@@ -1,6 +1,8 @@
 ---
 iso: aix
 name: Aighon
+name_zh: 艾戈恩语
+name_zh_auto: true
 autonym: Psohoh
 alt_names: [Aighon jezik, Aigon, Aigon language, Apsokok, Bao]
 population: 2000

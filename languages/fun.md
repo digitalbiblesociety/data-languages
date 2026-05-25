@@ -1,6 +1,8 @@
 ---
 iso: fun
 name: Fulniô
+name_zh: 富尔尼奥语
+name_zh_auto: true
 autonym: Carnijó
 alt_names: [Fornió, Fulino, Fulnio, Fulnió, Furniô, Fórnio, Iate, Iaté, Iatê, Yathé, Yathê, Yaté, Yatê]
 population: 2930

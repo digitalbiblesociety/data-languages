@@ -1,6 +1,8 @@
 ---
 iso: puw
 name: Puluwatese
+name_zh: 普卢瓦特语
+name_zh_auto: true
 autonym: Puluwat
 alt_names: [Carolinian]
 population: 1360

@@ -1,6 +1,8 @@
 ---
 iso: pcg
 name: Paniya
+name_zh: 帕尼亚语
+name_zh_auto: true
 autonym: പണിയ
 alt_names: [Nil, Pania, Paniyan, Panyah]
 population: 22800

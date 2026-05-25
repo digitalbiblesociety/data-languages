@@ -1,6 +1,8 @@
 ---
 iso: hmc
 name: Central Huishui Hmong
+name_zh: 中惠水苗语
+name_zh_auto: true
 autonym: Mhong
 alt_names: [Central Huishui Miao, Hmo, Hmong, "Hmong, Central Huishui", Hmung, Hsiung, Hunan Miao, Miao, "Miao, Central Huishui"]
 population: 40000

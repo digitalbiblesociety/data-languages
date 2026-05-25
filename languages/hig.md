@@ -1,6 +1,8 @@
 ---
 iso: hig
 name: Kamwe
+name_zh: 卡姆韦语
+name_zh_auto: true
 autonym: Higgi
 alt_names: [Higi, Hiji, Kamwe jezik, Kamweg, Vacamwe]
 population: 577000

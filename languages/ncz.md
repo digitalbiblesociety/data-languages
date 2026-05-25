@@ -1,6 +1,8 @@
 ---
 iso: ncz
 name: Natchez
+name_zh: 纳奇兹语
+name_zh_auto: true
 autonym: Naacee
 alt_names: ["Na'htchi", Nachez]
 population: 6

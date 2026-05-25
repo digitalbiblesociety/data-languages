@@ -1,6 +1,8 @@
 ---
 iso: mmz
 name: Mabaale
+name_zh: 玛巴莱语
+name_zh_auto: true
 autonym: Lomabaale
 alt_names: [Mabale, Mbali]
 population: 42000

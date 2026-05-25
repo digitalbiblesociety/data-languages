@@ -1,6 +1,8 @@
 ---
 iso: csn
 name: Colombian Sign Language
+name_zh: 哥伦比亚手语
+name_zh_auto: true
 autonym: Lengua de Señas Colombiana
 population: 151000
 country_id: CO

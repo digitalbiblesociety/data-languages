@@ -1,6 +1,8 @@
 ---
 iso: hum
 name: Hungana
+name_zh: 洪加纳语
+name_zh_auto: true
 autonym: Huana
 alt_names: [Hungaan, Hungana-Saamba, Hunganna, Kihungana]
 population: 400

@@ -1,6 +1,8 @@
 ---
 iso: kqt
 name: Klias River Kadazan
+name_zh: 克利亚河卡达赞语
+name_zh_auto: true
 autonym: null
 alt_names: [Kadazan, "Kadazan, Klias River"]
 population: 1000

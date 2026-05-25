@@ -1,6 +1,8 @@
 ---
 iso: smq
 name: Samo
+name_zh: 萨莫语
+name_zh_auto: true
 autonym: Daba
 alt_names: [Nomad, Supei]
 population: 900

@@ -1,6 +1,8 @@
 ---
 iso: dww
 name: Dawawa
+name_zh: 达瓦瓦语
+name_zh_auto: true
 autonym: null
 alt_names: [Dawana]
 population: 2280

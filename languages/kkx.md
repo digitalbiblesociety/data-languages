@@ -1,6 +1,8 @@
 ---
 iso: kkx
 name: Kohin
+name_zh: 科欣语
+name_zh_auto: true
 autonym: Seruyan
 alt_names: [Bahasa Seruyan]
 population: 8000

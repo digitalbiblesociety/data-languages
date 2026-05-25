@@ -1,6 +1,8 @@
 ---
 iso: bpv
 name: Bian Marind
+name_zh: 比安马林德语
+name_zh_auto: true
 autonym: Bian
 alt_names: [Boven Mbian, Boven-Mbian, "Marind, Bian", Northwest Marind]
 population: 2900

@@ -1,6 +1,8 @@
 ---
 iso: auk
 name: Heyo
+name_zh: 海约语
+name_zh_auto: true
 autonym: Arinua
 alt_names: [Arima, Arinwa, Lolopani, Ruruhip, Wan Wan, Wanib, Wanwan]
 population: 2710

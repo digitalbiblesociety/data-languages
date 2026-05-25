@@ -1,6 +1,8 @@
 ---
 iso: igm
 name: Kanggape
+name_zh: 康盖佩语
+name_zh_auto: true
 autonym: Igom
 population: 1080
 country_id: PG

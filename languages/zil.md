@@ -1,6 +1,8 @@
 ---
 iso: zil
 name: Zialo
+name_zh: 齐亚罗语
+name_zh_auto: true
 autonym: Ziolo
 population: 25000
 country_id: GN

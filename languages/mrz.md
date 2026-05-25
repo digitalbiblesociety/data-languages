@@ -1,6 +1,8 @@
 ---
 iso: mrz
 name: Marind
+name_zh: 玛琳德语
+name_zh_auto: true
 autonym: Gawir
 alt_names: [Holifoersch, Marind (Eastern), Southeast Marind, Tugeri]
 population: 7000

@@ -1,6 +1,8 @@
 ---
 iso: faa
 name: Fasu
+name_zh: 法苏语
+name_zh_auto: true
 autonym: West Kutubuan
 alt_names: [Fasu (Namo Me), Namome, Namumi, Some]
 population: 1100

@@ -1,6 +1,8 @@
 ---
 iso: urm
 name: Urapmin
+name_zh: 乌拉普民语
+name_zh_auto: true
 autonym: Tifalmin
 alt_names: [Urapmin jezik]
 population: 370

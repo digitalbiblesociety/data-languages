@@ -1,6 +1,8 @@
 ---
 iso: its
 name: Isekiri
+name_zh: 伊塞基里语
+name_zh_auto: true
 autonym: Itsekiri
 alt_names: [Chekiri, Irhobo, Iselema-Otu, Ishekiri, Iwere, Jekri, Selemo, Shekiri, Warri]
 population: 893000

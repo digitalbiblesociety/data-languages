@@ -1,6 +1,8 @@
 ---
 iso: rji
 name: Raji
+name_zh: 拉吉语
+name_zh_auto: true
 autonym: Ban Raji
 alt_names: [Rajibar]
 population: 2410

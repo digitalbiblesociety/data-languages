@@ -1,6 +1,8 @@
 ---
 iso: sie
 name: Simaa
+name_zh: 西玛亚语
+name_zh_auto: true
 autonym: null
 alt_names: [Zambia]
 population: 19700

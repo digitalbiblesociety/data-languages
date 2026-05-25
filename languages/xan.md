@@ -1,6 +1,8 @@
 ---
 iso: xan
 name: Xamtanga
+name_zh: 沙姆坦加语
+name_zh_auto: true
 autonym: Xamir
 alt_names: [Agawinya, Kamir, Khamir, Khamta, Khamtanga, "Simt'anga", Xamta]
 population: 213000

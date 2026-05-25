@@ -1,6 +1,8 @@
 ---
 iso: axx
 name: Xârâgurè
+name_zh: 夏拉古雷语
+name_zh_auto: true
 autonym: Aragure
 alt_names: ["'Aragure", Haragure, Neukaledonien, Thio, Xaragure]
 population: 570

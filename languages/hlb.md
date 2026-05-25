@@ -1,6 +1,8 @@
 ---
 iso: hlb
 name: Halbi
+name_zh: 哈尔比语
+name_zh_auto: true
 autonym: ହଲବୀ
 alt_names: [Bastari, Halabi, Halba, Halvas, Halvi, Lenga halbi, Lingua Halbi, Mahari, Mehari, ภาษาฮัลบี]
 population: 766000

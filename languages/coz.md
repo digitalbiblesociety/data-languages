@@ -1,6 +1,8 @@
 ---
 iso: coz
 name: Chochotec
+name_zh: 乔乔特克语
+name_zh_auto: true
 autonym: Chochotec
 alt_names: [Chocho, Chocho Proper, Chocho language, Chocho méridional, Chocho oriental, Chocholtec, Chocholteco, Chochoteco, Chochoteco meridional, Chuchona, Idioma chocho]
 population: 770

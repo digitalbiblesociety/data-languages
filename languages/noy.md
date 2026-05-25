@@ -1,6 +1,8 @@
 ---
 iso: noy
 name: Noy
+name_zh: 诺伊语
+name_zh_auto: true
 autonym: Loo
 population: 36
 country_id: TD

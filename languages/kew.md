@@ -1,6 +1,8 @@
 ---
 iso: kew
 name: West Kewa
+name_zh: 西克瓦语
+name_zh_auto: true
 autonym: null
 alt_names: [Kewa, "Kewa, West", Pasuma, Western Kewa]
 population: 45000

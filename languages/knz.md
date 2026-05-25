@@ -1,6 +1,8 @@
 ---
 iso: knz
 name: Kalamsé
+name_zh: 卡拉梅语
+name_zh_auto: true
 autonym: Sàmòmá
 alt_names: [Kalamse, Kalemsé, Kalenga, Sàmó]
 population: 9570

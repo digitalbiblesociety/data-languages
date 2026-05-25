@@ -1,6 +1,8 @@
 ---
 iso: xup
 name: Upper Umpqua
+name_zh: 上翁普夸语
+name_zh_auto: true
 autonym: Etnemitane
 alt_names: ["Umpqua, Upper"]
 population: null

@@ -1,6 +1,8 @@
 ---
 iso: lrn
 name: Lorang
+name_zh: 洛兰语
+name_zh_auto: true
 autonym: null
 alt_names: [Aru]
 population: 320

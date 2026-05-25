@@ -1,6 +1,8 @@
 ---
 iso: bmm
 name: Northern Betsimisaraka Malagasy
+name_zh: 北贝茨米萨拉卡马尔加什语
+name_zh_auto: true
 autonym: malagasy
 alt_names: ["Malagasy, Northern Betsimisaraka"]
 population: 1270000

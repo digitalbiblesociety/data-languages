@@ -1,6 +1,8 @@
 ---
 iso: wmi
 name: Wamin
+name_zh: 瓦敏语
+name_zh_auto: true
 autonym: Wamin
 alt_names: [Agwamin, Ak Waumin, Ak-Waumin, Egwamin, Ewamin, Gwamin, Wailoolo, Wakaman, Walamin, Walming, Warkaman, Warkamin, Warkeeman, Warkeemon, Waumin, Wawmin, Wimanja, Wommin]
 population: null

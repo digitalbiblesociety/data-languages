@@ -1,6 +1,8 @@
 ---
 iso: gsp
 name: Wasembo
+name_zh: 瓦塞姆博语
+name_zh_auto: true
 autonym: Biapim
 alt_names: [Gusap, Yankowan]
 population: 590

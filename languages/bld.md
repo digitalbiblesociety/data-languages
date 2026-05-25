@@ -1,6 +1,8 @@
 ---
 iso: bld
 name: Bolango
+name_zh: 博兰戈语
+name_zh_auto: true
 autonym: "Bulanga-Uki"
 alt_names: [Bulanga, Diu]
 population: 15000

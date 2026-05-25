@@ -1,6 +1,8 @@
 ---
 iso: mbi
 name: Ilianen Manobo
+name_zh: 伊利亚嫩曼诺博语
+name_zh_auto: true
 autonym: Ilianen Manobo
 alt_names: [Ilianen, "Manobo, Ilianen"]
 population: 14600

@@ -1,6 +1,8 @@
 ---
 iso: mdg
 name: Massalat
+name_zh: 马萨拉特语
+name_zh_auto: true
 autonym: kana masalaka/masaraka
 alt_names: [Mesalit]
 population: 29800

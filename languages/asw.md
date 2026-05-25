@@ -1,6 +1,8 @@
 ---
 iso: asw
 name: Australian Aborigines Sign Language
+name_zh: 澳大利亚土著手语
+name_zh_auto: true
 autonym: null
 population: null
 country_id: AU

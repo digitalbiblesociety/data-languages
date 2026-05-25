@@ -1,6 +1,8 @@
 ---
 iso: nml
 name: Ndemli
+name_zh: 恩登利语
+name_zh_auto: true
 autonym: Bandem
 alt_names: [Bayong, Ndemba]
 population: 5950

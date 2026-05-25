@@ -1,6 +1,8 @@
 ---
 iso: ktm
 name: Kurti
+name_zh: 库尔蒂语
+name_zh_auto: true
 autonym: Ndrukul
 alt_names: [Admiralitäts-inseln, Kuruti, Kuruti-Pare, Ndrugul]
 population: 3000

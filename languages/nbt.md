@@ -1,6 +1,8 @@
 ---
 iso: nbt
 name: Na
+name_zh: 纳语
+name_zh_auto: true
 autonym: Bangni
 alt_names: [India]
 population: 1500

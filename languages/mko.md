@@ -1,6 +1,8 @@
 ---
 iso: mko
 name: Mingang Doso
+name_zh: 米刚多索语
+name_zh_auto: true
 autonym: Məŋgáŋ Dosó
 alt_names: [Doso, Munga, Munga Doso, Ngwai Mungàn]
 population: 3000

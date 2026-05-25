@@ -1,6 +1,8 @@
 ---
 iso: nir
 name: Nimboran
+name_zh: 尼姆博兰语
+name_zh_auto: true
 autonym: Namblong
 alt_names: [Nambrong]
 population: 2000

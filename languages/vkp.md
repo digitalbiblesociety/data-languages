@@ -1,6 +1,8 @@
 ---
 iso: vkp
 name: Korlai Creole Portuguese
+name_zh: 科尔莱-克里奥尔葡萄牙语
+name_zh_auto: true
 autonym: Kristi
 alt_names: ["Creole Portuguese, Korlai", Crioulo de Korlai]
 population: 750

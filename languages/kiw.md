@@ -1,6 +1,8 @@
 ---
 iso: kiw
 name: Northeast Kiwai
+name_zh: 东北基瓦伊语
+name_zh_auto: true
 autonym: Gibaio
 alt_names: [Kiwai, "Kiwai, Northeast", Northeastern Kiwai, Urama]
 population: 6000

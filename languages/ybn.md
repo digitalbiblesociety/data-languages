@@ -1,6 +1,8 @@
 ---
 iso: ybn
 name: Yabaâna
+name_zh: 亚巴阿纳语
+name_zh_auto: true
 autonym: Jabaana
 alt_names: [Yabaana, Yabarana, Yabaána]
 population: null

@@ -1,6 +1,8 @@
 ---
 iso: wmo
 name: Wom (Papua New Guinea)
+name_zh: 沃姆语
+name_zh_auto: true
 autonym: Wam
 alt_names: [Wom, Wom language]
 population: 4260

@@ -1,6 +1,8 @@
 ---
 iso: kxb
 name: Krobu
+name_zh: 克罗布语
+name_zh_auto: true
 autonym: Krobou
 population: 9920
 country_id: CI

@@ -1,6 +1,8 @@
 ---
 iso: xke
 name: Kereho
+name_zh: 克雷荷语
+name_zh_auto: true
 autonym: Kereho
 alt_names: [Kereho-Uheng, Keriau Punan]
 population: 500

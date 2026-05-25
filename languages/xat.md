@@ -1,6 +1,8 @@
 ---
 iso: xat
 name: Katawixi
+name_zh: 卡塔维希语
+name_zh_auto: true
 autonym: Catauichi
 alt_names: [Catahuichí, Catauichí, Catauisi, Catauixi, Catawishi, Catawixi, Hewadie, Katawishi, Katawishí, Katawixí, Quatausi]
 population: 10

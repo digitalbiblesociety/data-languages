@@ -1,6 +1,8 @@
 ---
 iso: ate
 name: Atemble
+name_zh: 阿坦布雷语
+name_zh_auto: true
 autonym: Atemble
 alt_names: [Apris, Atemple, Atemple-Apris, Mand]
 population: null

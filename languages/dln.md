@@ -1,6 +1,8 @@
 ---
 iso: dln
 name: Darlong
+name_zh: 达隆语
+name_zh_auto: true
 autonym: Dalong
 population: 6000
 country_id: IN

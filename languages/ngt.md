@@ -1,6 +1,8 @@
 ---
 iso: ngt
 name: Kriang
+name_zh: 克里昂语
+name_zh_auto: true
 autonym: Ta Oi
 alt_names: [Dutch Sign Language, Língua de Sinais Holandesa, Nederlanda signolingvo, Nederlandse Gebarentaal, Ngae, "Nge'", Ngeh, Ngeq, Nkriang]
 population: 12200

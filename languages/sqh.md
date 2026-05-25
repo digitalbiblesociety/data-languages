@@ -1,6 +1,8 @@
 ---
 iso: sqh
 name: Shau
+name_zh: 沙乌语
+name_zh_auto: true
 autonym: Lìsháù
 alt_names: [Sho]
 population: null

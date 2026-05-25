@@ -1,6 +1,8 @@
 ---
 iso: mgk
 name: Mawes
+name_zh: 玛韦斯语
+name_zh_auto: true
 autonym: bahasa Mawes
 alt_names: [Indonesia]
 population: 850

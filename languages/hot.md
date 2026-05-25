@@ -1,6 +1,8 @@
 ---
 iso: hot
 name: Hote
+name_zh: 霍特语
+name_zh_auto: true
 autonym: Malê
 alt_names: ["Ho'tei", Hotec, Malei]
 population: 4500

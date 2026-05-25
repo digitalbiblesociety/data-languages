@@ -1,6 +1,8 @@
 ---
 iso: ndw
 name: Ndobo
+name_zh: 恩多博语
+name_zh_auto: true
 autonym: Ndoobo
 population: 10200
 country_id: CD

@@ -1,6 +1,8 @@
 ---
 iso: mzb
 name: Tumzabt
+name_zh: 图姆扎布特语
+name_zh_auto: true
 autonym: تونژابت
 alt_names: [Berber (Mzab), Ghardaia, Mozabite, Mozabite language, Mzab, Mzab-Wargla, Mzabi, Tamzabit, Tumzabí, Tumẓabt]
 population: 150000

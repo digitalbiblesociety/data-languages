@@ -1,6 +1,8 @@
 ---
 iso: kti
 name: North Muyu
+name_zh: 北穆尤语
+name_zh_auto: true
 autonym: Kati
 alt_names: [Kataut, Kati Ninanti, Kati-Ninanti, Muyu, "Muyu, North", Niinati, Ninatie, North Kati, North Moejoe, Northern Kati, Upper Muju, Yonggom, Yongkom, Yongom]
 population: 8000

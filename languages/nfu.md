@@ -1,6 +1,8 @@
 ---
 iso: nfu
 name: Mfumte
+name_zh: 姆方特语
+name_zh_auto: true
 autonym: Nfumte
 population: 24700
 country_id: CM

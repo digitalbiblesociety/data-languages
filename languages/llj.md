@@ -1,6 +1,8 @@
 ---
 iso: llj
 name: Ladji Ladji
+name_zh: 拉吉-拉吉语
+name_zh_auto: true
 autonym: Acaxee
 population: 10
 country_id: AU

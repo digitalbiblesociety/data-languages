@@ -1,6 +1,8 @@
 ---
 iso: aey
 name: Amele
+name_zh: 阿梅莱语
+name_zh_auto: true
 autonym: Sona
 alt_names: [Amale]
 population: 5300

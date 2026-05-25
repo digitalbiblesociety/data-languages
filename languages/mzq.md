@@ -1,6 +1,8 @@
 ---
 iso: mzq
 name: Mori Atas
+name_zh: 莫里阿塔斯语
+name_zh_auto: true
 autonym: Aikoa
 alt_names: [Upper Mori, West Mori]
 population: 14000

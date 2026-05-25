@@ -1,6 +1,8 @@
 ---
 iso: sku
 name: Sakao
+name_zh: 萨考语
+name_zh_auto: true
 autonym: Wanohe
 alt_names: [Hog Harbour, "N'kep", Sakau, Santo]
 population: 4000

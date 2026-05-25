@@ -1,6 +1,8 @@
 ---
 iso: zbt
 name: Batui
+name_zh: 巴图伊语
+name_zh_auto: true
 autonym: Baha
 alt_names: [Pamona]
 population: 2900

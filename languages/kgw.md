@@ -1,6 +1,8 @@
 ---
 iso: kgw
 name: Karon Dori
+name_zh: 卡龙·多里语
+name_zh_auto: true
 autonym: Maiyach
 alt_names: [Mari, Meon]
 population: 5000

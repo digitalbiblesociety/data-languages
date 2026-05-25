@@ -1,6 +1,8 @@
 ---
 iso: unu
 name: Unubahe
+name_zh: 乌努巴赫语
+name_zh_auto: true
 autonym: "Unoba'i"
 population: null
 country_id: PG

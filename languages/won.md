@@ -1,6 +1,8 @@
 ---
 iso: won
 name: Wongo
+name_zh: 翁戈语
+name_zh_auto: true
 autonym: Tukongo
 alt_names: [Bakong, Gongo, Ndjembe, Tukkongo]
 population: 12700

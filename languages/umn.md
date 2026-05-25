@@ -1,6 +1,8 @@
 ---
 iso: umn
 name: Makyan Naga
+name_zh: 马卡扬那加语
+name_zh_auto: true
 autonym: Makyan
 alt_names: [Makyam-Kuku Naga, "Naga, Makyan"]
 population: 3000

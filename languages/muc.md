@@ -1,6 +1,8 @@
 ---
 iso: muc
 name: Ajumbu
+name_zh: 阿朱姆布语
+name_zh_auto: true
 autonym: Ajumbu
 alt_names: [Cameroon, "Mbu'"]
 population: 1000

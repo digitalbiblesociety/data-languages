@@ -1,6 +1,8 @@
 ---
 iso: lgn
 name: "T'apo"
+name_zh: 塔波语
+name_zh_auto: true
 autonym: Tʼapo
 alt_names: ["\"Langa\"", Ansita, Ciita, Cita, Kina, Kwina, Opo, Opo-Shita, Opuo, Opuuo, Opuuo language, Opúo, Shiita, Shita, Shitta, Upo]
 population: 1000

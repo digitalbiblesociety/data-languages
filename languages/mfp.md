@@ -1,6 +1,8 @@
 ---
 iso: mfp
 name: Makassar Malay
+name_zh: 望加锡马来语
+name_zh_auto: true
 autonym: "Bahasa-Bahasa Melayu Dagang dan Kreol"
 alt_names: [Indonesia, "Malay, Makassar"]
 population: 950

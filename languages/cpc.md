@@ -1,6 +1,8 @@
 ---
 iso: cpc
 name: Ajyíninka Apurucayali
+name_zh: 阿吉尼卡-阿普鲁卡亚利语
+name_zh_auto: true
 autonym: Ajyéninka
 alt_names: ["\"Apurucayali Campa\"", "\"Axininka Campa\"", "\"Campa\"", Ajyininka Apurucayali, Apurucayali, Ashaninca, Ashaninca (Brésil), Ashaninka (Pérou), Asháninca, Ashéninca Apurucayali, Ashéninga, Atiri, Axininca language, Campa, Cogapacorí, Lenga ajyíninka apurucayali, Lingua ajyíninka apurucayali, Nanti]
 population: 4000

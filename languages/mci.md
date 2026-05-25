@@ -1,6 +1,8 @@
 ---
 iso: mci
 name: Mese
+name_zh: 梅塞语
+name_zh_auto: true
 autonym: null
 alt_names: [Mesem, Momalili, Momolili]
 population: 4000

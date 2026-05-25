@@ -1,6 +1,8 @@
 ---
 iso: dnr
 name: Danaru
+name_zh: 达那鲁语
+name_zh_auto: true
 autonym: null
 population: 260
 country_id: PG

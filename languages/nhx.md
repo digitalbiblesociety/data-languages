@@ -1,6 +1,8 @@
 ---
 iso: nhx
 name: "Isthmus-Mecayapan Nahuatl"
+name_zh: 地峡梅卡亚潘纳瓦特尔语
+name_zh_auto: true
 autonym: "mela'tájto̲l"
 alt_names: [Isthmus, Isthmus Aztec-Mecayapan, Isthumus Nahuatl, Mecayapan, Mecayapan Isthumus Nahuatl, Mexicano, Nahua de Tabasco, Nahuatl, Nahuatl (Isthmus), Nahuatl (Istmo-Mecayapan), Nahuatl (Mecayapan Isthmus), Nahuatl (Mecayapan), "Nahuatl, Isthmus-Mecayapan", Nawa, Náhuat de Mecayapan, Náhuatl de Tabasco, "Náhuatl de l'Isthme"]
 population: 26600

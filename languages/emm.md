@@ -1,6 +1,8 @@
 ---
 iso: emm
 name: Mamulique
+name_zh: 马穆利克语
+name_zh_auto: true
 autonym: Xat estok
 population: null
 country_id: MX

@@ -1,6 +1,8 @@
 ---
 iso: xgw
 name: Guwa
+name_zh: 古瓦语
+name_zh_auto: true
 autonym: Goa
 alt_names: [Coa, Coah, Goamulgo, Koa]
 population: null

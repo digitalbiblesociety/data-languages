@@ -1,6 +1,8 @@
 ---
 iso: stk
 name: Arammba
+name_zh: 阿拉姆巴语
+name_zh_auto: true
 autonym: Aramba
 alt_names: [Kamindjo, Rouku, Serki, Serkisetavi, Tjokwasi, Upper Morehead]
 population: 750

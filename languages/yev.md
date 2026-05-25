@@ -1,6 +1,8 @@
 ---
 iso: yev
 name: Yapunda
+name_zh: 亚普达语
+name_zh_auto: true
 autonym: Yeri
 alt_names: [Giro, Hiro, Reiwo]
 population: 60

@@ -1,6 +1,8 @@
 ---
 iso: pmd
 name: Pallanganmiddang
+name_zh: 帕兰甘米丁语
+name_zh_auto: true
 autonym: Waywurru
 population: null
 country_id: AU

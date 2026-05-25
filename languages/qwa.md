@@ -1,6 +1,8 @@
 ---
 iso: qwa
 name: Corongo Ancash Quechua
+name_zh: 科龙戈安卡什克丘亚语
+name_zh_auto: true
 autonym: Huaylay
 alt_names: [Ancas, Ancash, Chinchaysuyo, Conchucos, North Central Kechua, Northern Quechua, "Quechua, Corongo Ancash"]
 population: 1700

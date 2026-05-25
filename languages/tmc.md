@@ -1,6 +1,8 @@
 ---
 iso: tmc
 name: Tumak
+name_zh: 图玛克语
+name_zh_auto: true
 autonym: null
 alt_names: [Dije, Sara Toumak, Toumak, Tumac, Tumag, Tummok]
 population: 25200

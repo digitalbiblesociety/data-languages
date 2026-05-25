@@ -1,6 +1,8 @@
 ---
 iso: kfv
 name: Kurmukar
+name_zh: 库尔穆卡尔语
+name_zh_auto: true
 autonym: Kamar
 alt_names: [Karmakar, Kumar, Kumbhakar, Kumhar]
 population: 3000

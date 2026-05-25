@@ -1,6 +1,8 @@
 ---
 iso: nnk
 name: Nankina
+name_zh: 南金纳语
+name_zh_auto: true
 autonym: null
 population: null
 country_id: PG

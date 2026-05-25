@@ -1,6 +1,8 @@
 ---
 iso: mkn
 name: Kupang Malay
+name_zh: 古邦马来语
+name_zh_auto: true
 autonym: "Bahasa-Bahasa Melayu Dagang dan Kreol"
 alt_names: [Basa Kupang, Kupang, "Malay, Kupang"]
 population: 200000

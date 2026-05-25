@@ -1,6 +1,8 @@
 ---
 iso: tuy
 name: Tugen
+name_zh: 图根语
+name_zh_auto: true
 autonym: North Tugen
 alt_names: [Kamasya, Nandi, North Tuken, South Tugen, "Tugen, North", Tuken]
 population: 198000

@@ -1,6 +1,8 @@
 ---
 iso: oro
 name: Orokolo
+name_zh: 奥罗科洛语
+name_zh_auto: true
 autonym: Bailala
 alt_names: [Elema, Haira, Kaipi, Kairi-Kaura, Kairu-Kaura, Muro, Muru, Vailala, West Elema]
 population: 7500

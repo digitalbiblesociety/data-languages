@@ -1,6 +1,8 @@
 ---
 iso: sja
 name: Epena
+name_zh: 埃佩纳语
+name_zh_auto: true
 autonym: Saija
 alt_names: [Catío, Chamí, Chocó, Cholo, Ember-Saija, Embera, Embera-Saija, Emberá, Emberá (South), Emberá Group, Emberá-Saija, Emperá, Epena Pedee, Epená Saija, Epéna Pedée, Napipí River, Saixa, Saixa-Baudo, Sambú, Sia pedee, Southern Embera, Southern Emberá, Southern Empera, Southern Ępęra]
 population: 3500

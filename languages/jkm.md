@@ -1,6 +1,8 @@
 ---
 iso: jkm
 name: Mobwa Karen
+name_zh: 莫布瓦卡伦语
+name_zh_auto: true
 autonym: ကညီကျိာ်
 alt_names: ["Karen, Mobwa"]
 population: null

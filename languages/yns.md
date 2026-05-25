@@ -1,6 +1,8 @@
 ---
 iso: yns
 name: Yansi
+name_zh: 扬西语
+name_zh_auto: true
 autonym: Eyansi
 alt_names: [Eyanzi, Kiyanzi, Yans, Yans(i), Yanzi]
 population: 100000

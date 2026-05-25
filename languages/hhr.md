@@ -1,6 +1,8 @@
 ---
 iso: hhr
 name: Kerak
+name_zh: 克拉克语
+name_zh_auto: true
 autonym: "Jola-Felupe"
 alt_names: [Her, Keerak, Keeraku]
 population: 13200

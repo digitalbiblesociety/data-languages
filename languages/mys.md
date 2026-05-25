@@ -1,6 +1,8 @@
 ---
 iso: mys
 name: Mesmes
+name_zh: 梅斯梅斯语
+name_zh_auto: true
 autonym: null
 alt_names: [Indegegn, Mäsmäs]
 population: null

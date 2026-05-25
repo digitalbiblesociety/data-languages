@@ -1,6 +1,8 @@
 ---
 iso: sbr
 name: Sembakung Murut
+name_zh: 森巴昆格穆鲁特语
+name_zh_auto: true
 autonym: Tidong
 alt_names: [Sembakoeng, Sembakong, Simbakong, Tidoeng, Tidung, Tingalun, Tinggalan, Tinggalum]
 population: 3200

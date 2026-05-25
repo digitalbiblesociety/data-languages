@@ -1,6 +1,8 @@
 ---
 iso: brl
 name: Birwa
+name_zh: 比尔瓦语
+name_zh_auto: true
 autonym: Pedi
 population: 15000
 country_id: BW

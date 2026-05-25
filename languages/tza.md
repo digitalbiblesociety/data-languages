@@ -1,6 +1,8 @@
 ---
 iso: tza
 name: Tanzanian Sign Language
+name_zh: 坦桑尼亚手语
+name_zh_auto: true
 autonym: Lugha Ya Alama
 alt_names: ["\"Lugha Ya Bubu\"", Tanzania Sign Language]
 population: 290000

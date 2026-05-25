@@ -1,6 +1,8 @@
 ---
 iso: ksg
 name: Kusaghe
+name_zh: 库萨格语
+name_zh_auto: true
 autonym: Kusage
 alt_names: [Kushage]
 population: 2400

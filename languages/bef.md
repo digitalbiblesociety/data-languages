@@ -1,6 +1,8 @@
 ---
 iso: bef
 name: Benabena
+name_zh: 贝纳贝纳语
+name_zh_auto: true
 autonym: "Bena-bena"
 alt_names: [Bena]
 population: 45000

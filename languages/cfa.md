@@ -1,6 +1,8 @@
 ---
 iso: cfa
 name: "Dijim-Bwilim"
+name_zh: 迪吉-布威利姆语
+name_zh_auto: true
 autonym: Cham
 population: 25000
 country_id: NG

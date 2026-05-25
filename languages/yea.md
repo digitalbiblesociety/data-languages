@@ -1,6 +1,8 @@
 ---
 iso: yea
 name: Ravula
+name_zh: 拉乌拉语
+name_zh_auto: true
 autonym: Yerava
 alt_names: [Adiya, Adiyan, Iryavula, Panjiri Yerava, Yoruba]
 population: 26900

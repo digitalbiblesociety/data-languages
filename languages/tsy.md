@@ -1,6 +1,8 @@
 ---
 iso: tsy
 name: Tebul Sign Language
+name_zh: 泰布尔手语
+name_zh_auto: true
 autonym: null
 population: 500
 country_id: ML

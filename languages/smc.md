@@ -1,6 +1,8 @@
 ---
 iso: smc
 name: Som
+name_zh: 索姆语
+name_zh_auto: true
 autonym: Dinanget
 alt_names: [Somm]
 population: 500

@@ -1,6 +1,8 @@
 ---
 iso: now
 name: Nyambo
+name_zh: 尼扬博语
+name_zh_auto: true
 autonym: Ekinyambo
 alt_names: [Karagwe, Kinyambo, Ragwe, Rukaragwe, Runyambo, Ururagwe]
 population: 381000

@@ -1,6 +1,8 @@
 ---
 iso: cib
 name: Ci Gbe
+name_zh: 慈格贝语
+name_zh_auto: true
 autonym: fɔ̀ngbè/fõbè
 alt_names: [Ayizo-Ci, Ci, Cigbe, "Gbe, Ci", Tchi, Tschi]
 population: 25000

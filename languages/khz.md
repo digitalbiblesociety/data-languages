@@ -1,6 +1,8 @@
 ---
 iso: khz
 name: Keapara
+name_zh: 凯亚帕拉语
+name_zh_auto: true
 autonym: Kalo (Keapara)
 alt_names: [Keopara, Kerepunu]
 population: 19400

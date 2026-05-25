@@ -1,6 +1,8 @@
 ---
 iso: bba
 name: Baatonum
+name_zh: 巴阿托努姆语
+name_zh_auto: true
 autonym: baatɔnum
 alt_names: [Baatombu, Baatonu, Baatonun-Kwara, Barba, Barganchi, Bargawa, Bargu, Bariba, Baruba, Batonnum, Batonu, Berba, Bogung, Borgawa, Burgu, Zana]
 population: 1041000

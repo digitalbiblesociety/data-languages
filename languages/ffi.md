@@ -1,6 +1,8 @@
 ---
 iso: ffi
 name: Foia Foia
+name_zh: 福亚福亚语
+name_zh_auto: true
 autonym: Minanibai
 population: 180
 country_id: PG

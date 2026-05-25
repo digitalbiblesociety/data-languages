@@ -1,6 +1,8 @@
 ---
 iso: brr
 name: Birao
+name_zh: 比拉奥语
+name_zh_auto: true
 autonym: Mbirao
 alt_names: [Guadalcanar, Südliche Salomons-Inseln]
 population: 5900

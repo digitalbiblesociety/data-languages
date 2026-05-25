@@ -1,6 +1,8 @@
 ---
 iso: pdn
 name: Podena
+name_zh: 波德纳语
+name_zh_auto: true
 autonym: Fedan
 alt_names: [Indonesia]
 population: 280

@@ -1,6 +1,8 @@
 ---
 iso: bxz
 name: Binahari
+name_zh: 比纳哈里语
+name_zh_auto: true
 autonym: null
 alt_names: [Nemea]
 population: 630

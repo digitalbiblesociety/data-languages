@@ -1,6 +1,8 @@
 ---
 iso: hlt
 name: Matu Chin
+name_zh: 马图钦语
+name_zh_auto: true
 autonym: Matupi Chin
 alt_names: ["Chin, Matu", Lawthve, Matupi, Nga La, NgaLa, Thlan Tan]
 population: 40000

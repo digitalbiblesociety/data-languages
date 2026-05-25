@@ -1,6 +1,8 @@
 ---
 iso: spy
 name: Sabaot
+name_zh: 萨巴奥特语
+name_zh_auto: true
 autonym: Sebei
 alt_names: ["Bong'om", Kony, Mt. Elgon Maasai, Pok, Sore-Sabaut]
 population: 296000

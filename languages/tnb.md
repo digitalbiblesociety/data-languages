@@ -1,6 +1,8 @@
 ---
 iso: tnb
 name: Western Tunebo
+name_zh: 西图内博语
+name_zh_auto: true
 autonym: Tunebo
 alt_names: [Agua Blanca, Aguas Blancas, Cobaría, Pedraza, Sinsiga, Sínsiga, Tame, Tegría, "Tunebo, Western", "U'w Cuwa", "U'w Kuwa", "U'wa", Uwa]
 population: 700

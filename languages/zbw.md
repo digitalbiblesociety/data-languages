@@ -1,6 +1,8 @@
 ---
 iso: zbw
 name: West Berawan
+name_zh: 西贝拉旺语
+name_zh_auto: true
 autonym: Berawan
 alt_names: ["Berawan, West", Long Terawan]
 population: 720

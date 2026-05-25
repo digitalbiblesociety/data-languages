@@ -1,6 +1,8 @@
 ---
 iso: kjy
 name: Erave
+name_zh: 埃拉韦语
+name_zh_auto: true
 autonym: Kewa South
 alt_names: [Pole, South Kewa, Southern Kewa]
 population: 10000

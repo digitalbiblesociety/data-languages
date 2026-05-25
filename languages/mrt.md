@@ -1,6 +1,8 @@
 ---
 iso: mrt
 name: Marghi Central
+name_zh: 中马格希语
+name_zh_auto: true
 autonym: Marghi
 alt_names: [Margi, Margi Central, Margi language]
 population: 226000

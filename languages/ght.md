@@ -1,6 +1,8 @@
 ---
 iso: ght
 name: Kuke
+name_zh: 库克语
+name_zh_auto: true
 autonym: Kuke
 alt_names: [Bhotte, Ghale, "Ghale, Kutang", "Ghale,Kutang", Kutang Ghale]
 population: 1300

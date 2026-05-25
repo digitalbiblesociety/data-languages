@@ -1,6 +1,8 @@
 ---
 iso: yaa
 name: Yaminahua
+name_zh: 亚米那瓦语
+name_zh_auto: true
 autonym: Yaminahua
 alt_names: ["\"yaminawa (État plurinational de Bolivie, Pérou)\"", Jaminawá, Morunahua, Shanenawa, Yamanawa, Yaminahua (Brasil), Yaminawa, Yaminawa (Brésil), Yawanawa, Yawanawá, Yuminahua]
 population: 1951

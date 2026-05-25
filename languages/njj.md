@@ -1,6 +1,8 @@
 ---
 iso: njj
 name: Njen
+name_zh: 恩任语
+name_zh_auto: true
 autonym: Nen
 alt_names: [Nyen, Nzin]
 population: 1800

@@ -1,6 +1,8 @@
 ---
 iso: aom
 name: Ömie
+name_zh: 欧米亚语
+name_zh_auto: true
 autonym: Aomie
 alt_names: [Omie, Upper Managalasi]
 population: 1190

@@ -1,6 +1,8 @@
 ---
 iso: sny
 name: "Saniyo-Hiyewe"
+name_zh: 萨尼约-希耶韦语
+name_zh_auto: true
 autonym: Hiowe
 alt_names: [Sanio, Sanio-Hiowe]
 population: 1300

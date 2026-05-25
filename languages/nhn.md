@@ -1,6 +1,8 @@
 ---
 iso: nhn
 name: Central Nahuatl
+name_zh: 中部纳瓦特尔语
+name_zh_auto: true
 autonym: Central Nahuatl
 alt_names: [Central Aztec, Central Nawa, Mexicano, Nahua central, Nahuatl, Nahuatl (Central), "Nahuatl, Central", Nawa, Náhuatl central, Náhuatl del Centro, Tlaxcala-Puebla Nahuatl, Tlaxcala-Puebla Náhuatl]
 population: 1000

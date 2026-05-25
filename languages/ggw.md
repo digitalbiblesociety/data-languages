@@ -1,6 +1,8 @@
 ---
 iso: ggw
 name: Gogodala
+name_zh: 戈戈达拉语
+name_zh_auto: true
 autonym: Gogodara
 alt_names: [Gogodala language]
 population: 26000

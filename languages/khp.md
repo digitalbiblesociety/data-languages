@@ -1,6 +1,8 @@
 ---
 iso: khp
 name: Kapori
+name_zh: 卡波里语
+name_zh_auto: true
 autonym: Kapauri
 population: 200
 country_id: ID

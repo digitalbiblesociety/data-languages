@@ -1,6 +1,8 @@
 ---
 iso: slx
 name: Salampasu
+name_zh: 萨兰帕苏语
+name_zh_auto: true
 autonym: Chisalampasu
 population: 60000
 country_id: CD

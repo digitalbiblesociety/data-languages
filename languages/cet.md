@@ -1,6 +1,8 @@
 ---
 iso: cet
 name: Centúúm
+name_zh: 琴图语
+name_zh_auto: true
 autonym: Centúúm
 alt_names: [Cen Tuum, Centuum, Jalaa, Jalaa hizkuntza, Jalaa language, Kentumeg, Джалаа]
 population: 200

@@ -1,6 +1,8 @@
 ---
 iso: emb
 name: Embaloh
+name_zh: 埃姆巴洛语
+name_zh_auto: true
 autonym: Malo
 alt_names: [Dayak, Maloh, Matoh, Mbaloh, Memaloh, Palin, Pari, Sangau, Sanggau]
 population: 10000

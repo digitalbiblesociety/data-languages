@@ -1,6 +1,8 @@
 ---
 iso: inp
 name: Iñapari
+name_zh: 伊纳帕里语
+name_zh_auto: true
 autonym: Inamari
 alt_names: [Inaparic]
 population: 4

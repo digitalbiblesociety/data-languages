@@ -1,6 +1,8 @@
 ---
 iso: bpg
 name: Bonggo
+name_zh: 邦戈语
+name_zh_auto: true
 autonym: Armopa
 alt_names: [Bgu, Bogu, Bongo]
 population: 790

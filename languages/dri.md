@@ -1,6 +1,8 @@
 ---
 iso: dri
 name: "C'Lela"
+name_zh: 克莱拉语
+name_zh_auto: true
 autonym: C’lela
 alt_names: [Cala-Cala, Chilala, Chilela, Dakakari, Dakarkari, Dakkarkari, Kolela, Lalawa, Lela]
 population: 90000

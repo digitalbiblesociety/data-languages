@@ -1,6 +1,8 @@
 ---
 iso: bcu
 name: Awad Bing
+name_zh: 阿瓦德宾语
+name_zh_auto: true
 autonym: Biliau
 alt_names: [Awad Gey, Bing, Samang, Semang, Sengam]
 population: 1450

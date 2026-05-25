@@ -1,6 +1,8 @@
 ---
 iso: dtm
 name: Tomo Kan Dogon
+name_zh: 托莫坎多贡语
+name_zh_auto: true
 autonym: Kan Dogon
 alt_names: [Dogon, "Dogon, Tomo Kan", Tomo-Kan]
 population: 133000

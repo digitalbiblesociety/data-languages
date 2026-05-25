@@ -1,6 +1,8 @@
 ---
 iso: lgb
 name: Laghu
+name_zh: 拉古语
+name_zh_auto: true
 autonym: Katova
 alt_names: [Lagu]
 population: null

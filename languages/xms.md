@@ -1,6 +1,8 @@
 ---
 iso: xms
 name: Moroccan Sign Language
+name_zh: 摩洛哥手语
+name_zh_auto: true
 autonym: Lenguaje de Señas Bolivianas LSB
 population: 63400
 country_id: MA

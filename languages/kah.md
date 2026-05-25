@@ -1,6 +1,8 @@
 ---
 iso: kah
 name: Kara (Central African Republic)
+name_zh: 卡拉语（中非共和国）
+name_zh_auto: true
 autonym: Kara of Birao
 alt_names: [Dam Fer, Fer, Fer language, Fertit, Kara, Kara (in Central African Rep), Kara (in Central African Republic)]
 population: 4800

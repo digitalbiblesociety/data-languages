@@ -1,6 +1,8 @@
 ---
 iso: ans
 name: Anserma
+name_zh: 安塞玛语
+name_zh_auto: true
 autonym: Anserna
 population: 100
 country_id: CO

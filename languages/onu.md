@@ -1,6 +1,8 @@
 ---
 iso: onu
 name: Unua
+name_zh: 乌努阿语
+name_zh_auto: true
 autonym: Onua
 alt_names: [Mallicolo]
 population: 520

@@ -1,6 +1,8 @@
 ---
 iso: yra
 name: Yerakai
+name_zh: 耶拉开语
+name_zh_auto: true
 autonym: Yerekai
 alt_names: [Garamambu]
 population: 380

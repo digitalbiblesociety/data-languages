@@ -1,6 +1,8 @@
 ---
 iso: muj
 name: Mabire
+name_zh: 玛比雷语
+name_zh_auto: true
 autonym: null
 alt_names: [Lenga Mabire, Mabiri]
 population: null

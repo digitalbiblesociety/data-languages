@@ -1,6 +1,8 @@
 ---
 iso: ogu
 name: Ogbronuagum
+name_zh: 奥格布罗努阿古姆语
+name_zh_auto: true
 autonym: Bukuma
 alt_names: [Obronuagum]
 population: 12000

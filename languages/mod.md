@@ -1,6 +1,8 @@
 ---
 iso: mod
 name: Mobilian
+name_zh: 莫比利安语
+name_zh_auto: true
 autonym: Yamá
 alt_names: [Chicasa Trade Jargon, Chickasaw(-Choctaw) Trade Language, Mobile, Mobilian Jargon, Mobilian Trade Jargon, Mobilian Trade Language]
 population: null

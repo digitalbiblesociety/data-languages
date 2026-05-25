@@ -1,6 +1,8 @@
 ---
 iso: nrk
 name: Ngarla
+name_zh: 恩加拉语
+name_zh_auto: true
 autonym: null
 population: null
 country_id: AU

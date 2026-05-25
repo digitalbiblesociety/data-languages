@@ -1,6 +1,8 @@
 ---
 iso: inn
 name: Isinai
+name_zh: 伊西奈语
+name_zh_auto: true
 autonym: Isinay
 alt_names: [Inmeas, Insinai, Isnay, Malaates]
 population: 5520

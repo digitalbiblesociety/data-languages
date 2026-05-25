@@ -1,6 +1,8 @@
 ---
 iso: tna
 name: Tacana
+name_zh: 塔卡纳语
+name_zh_auto: true
 autonym: null
 alt_names: [Takana, Tupamasa]
 population: 7350

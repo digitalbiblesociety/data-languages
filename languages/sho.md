@@ -1,6 +1,8 @@
 ---
 iso: sho
 name: Shanga
+name_zh: 尚加语
+name_zh_auto: true
 autonym: Shangawa
 alt_names: [Shonga, Shongawa]
 population: 5000

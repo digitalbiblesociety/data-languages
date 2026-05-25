@@ -1,6 +1,8 @@
 ---
 iso: xpx
 name: "Southwestern Tasmanian\r"
+name_zh: 西南塔斯马尼亚语
+name_zh_auto: true
 autonym: Southwestern Tasmanian
 alt_names: ["Tasmanian, Southwestern", Toogee]
 population: null

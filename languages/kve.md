@@ -1,6 +1,8 @@
 ---
 iso: kve
 name: Kalabakan
+name_zh: 卡拉巴坎语
+name_zh_auto: true
 autonym: Tidong
 alt_names: [Kalabakan Murut, Tawau Murut, Tidung]
 population: 2230

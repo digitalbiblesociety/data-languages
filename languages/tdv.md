@@ -1,6 +1,8 @@
 ---
 iso: tdv
 name: Toro
+name_zh: 托罗语
+name_zh_auto: true
 autonym: Turkwam
 population: 3930
 country_id: NG

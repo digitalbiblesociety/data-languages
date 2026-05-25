@@ -1,6 +1,8 @@
 ---
 iso: kie
 name: Kibet
+name_zh: 基贝特语
+name_zh_auto: true
 autonym: Runga
 alt_names: [Kaben, Kabentang, Kibeet, Kibeit]
 population: 18500

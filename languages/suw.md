@@ -1,6 +1,8 @@
 ---
 iso: suw
 name: Sumbwa
+name_zh: 苏姆瓦语
+name_zh_auto: true
 autonym: Kisumbwa
 population: 361000
 country_id: TZ

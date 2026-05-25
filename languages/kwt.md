@@ -1,6 +1,8 @@
 ---
 iso: kwt
 name: Kwesten
+name_zh: 克韦斯滕语
+name_zh_auto: true
 autonym: bahasa Kwesten
 alt_names: [Kwalhioqua, Kwalhioqua-Clatskanie]
 population: 2000

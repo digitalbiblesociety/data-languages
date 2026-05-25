@@ -1,6 +1,8 @@
 ---
 iso: pne
 name: Western Penan
+name_zh: 西部佩南语
+name_zh_auto: true
 autonym: Penan
 alt_names: ["\"Punan\"", Nibon, Nibong, "Penan, Western"]
 population: 3400

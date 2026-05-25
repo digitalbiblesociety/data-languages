@@ -1,6 +1,8 @@
 ---
 iso: diw
 name: Northwestern Dinka
+name_zh: 西北丁卡语
+name_zh_auto: true
 autonym: Thuɔŋjäŋ
 alt_names: [Dinka, "Dinka, Northwestern", Nord-Dinka, Ruweng]
 population: 93000

@@ -1,6 +1,8 @@
 ---
 iso: lsy
 name: Mauritian Sign Language
+name_zh: 毛里求斯手语
+name_zh_auto: true
 autonym: null
 population: 1000
 country_id: MU

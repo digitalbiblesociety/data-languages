@@ -1,6 +1,8 @@
 ---
 iso: nyv
 name: Nyulnyul
+name_zh: 尼乌尔尼乌尔语
+name_zh_auto: true
 autonym: null
 alt_names: [Kimberley Area Languages, Lenga nyulnyul, Ngulnyul, Niol Niol, Niol-Niol, Njolnjol, Njul Njul, Njul-Njul, Njulnjul, Nyolnyol, Nyool Nyool, Nyul nyul, Nyul-Nyul, Nyulnyul jezici, Yowera]
 population: null

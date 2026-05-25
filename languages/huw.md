@@ -1,6 +1,8 @@
 ---
 iso: huw
 name: Hukumina
+name_zh: 胡库米纳语
+name_zh_auto: true
 autonym: Bambaa
 population: null
 country_id: ID

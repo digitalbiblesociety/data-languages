@@ -1,6 +1,8 @@
 ---
 iso: wka
 name: "Kw'adza"
+name_zh: 夸扎语
+name_zh_auto: true
 autonym: Ngomvia
 alt_names: ["Kw'adza hizkuntza", Kwadza, Ngomvya, Ng’omvia, Qwadza, Wangomvia]
 population: null

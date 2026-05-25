@@ -1,6 +1,8 @@
 ---
 iso: kig
 name: Kimaama
+name_zh: 基马马语
+name_zh_auto: true
 autonym: Kimaama
 alt_names: [Kaladdarsch, Kimaghama, Kimaghana, Kimaghima, Teri-Kalwasch, Teri-Kawalsch]
 population: 3000

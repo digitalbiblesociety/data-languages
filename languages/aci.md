@@ -1,6 +1,8 @@
 ---
 iso: aci
 name: "Aka-Cari"
+name_zh: 阿卡-卡里语
+name_zh_auto: true
 autonym: "Aka-Cari"
 alt_names: [Aka-Charíar, Andamanese, Cari, Chariar, Great Andamanese, Lèngua Aka-Cari, Tšari]
 population: null

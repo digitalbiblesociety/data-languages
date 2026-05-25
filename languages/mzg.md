@@ -1,6 +1,8 @@
 ---
 iso: mzg
 name: Monastic Sign Language
+name_zh: 修道院手语
+name_zh_auto: true
 autonym: null
 alt_names: [Vatican State]
 population: null

@@ -1,6 +1,8 @@
 ---
 iso: knb
 name: Lubuagan Kalinga
+name_zh: 卢布阿甘卡林加语
+name_zh_auto: true
 autonym: null
 alt_names: ["Kalinga, Lubuagan", Philippines]
 population: 30000

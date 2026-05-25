@@ -1,6 +1,8 @@
 ---
 iso: jgb
 name: Ngbee
+name_zh: 恩格贝语
+name_zh_auto: true
 autonym: Lingbee
 alt_names: [Lingbe, Majuu, Mangbele]
 population: null

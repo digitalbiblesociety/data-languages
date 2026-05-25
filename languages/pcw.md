@@ -1,6 +1,8 @@
 ---
 iso: pcw
 name: Pyapun
+name_zh: 皮亚普恩语
+name_zh_auto: true
 autonym: null
 alt_names: [Pyapum]
 population: 17300

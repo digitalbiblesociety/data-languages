@@ -1,6 +1,8 @@
 ---
 iso: aid
 name: Alngith
+name_zh: 艾尔尼吉特语
+name_zh_auto: true
 autonym: null
 alt_names: [Alingid, Alingit, Alngid, Alngidh, Alngith jezik, Alŋit̯, Laynngith, Laynngithy, Laynŋit̯, Lenga alngith, Lengiti, Lenngiti, Limrett, Winduwinda]
 population: null

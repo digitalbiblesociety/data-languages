@@ -1,6 +1,8 @@
 ---
 iso: yax
 name: Yauma
+name_zh: 亚乌玛语
+name_zh_auto: true
 autonym: " Chimbúùnda"
 population: 29100
 country_id: AO

@@ -1,6 +1,8 @@
 ---
 iso: laf
 name: Lafofa
+name_zh: 拉福法语
+name_zh_auto: true
 autonym: Tegem–Amira
 alt_names: [Kidie, Tegem]
 population: 600

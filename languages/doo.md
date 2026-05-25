@@ -1,6 +1,8 @@
 ---
 iso: doo
 name: Dongo
+name_zh: 东戈语
+name_zh_auto: true
 autonym: Donga
 alt_names: ["'Dongo", Dongo Ko]
 population: 12900

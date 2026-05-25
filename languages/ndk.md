@@ -1,6 +1,8 @@
 ---
 iso: ndk
 name: Ndaka
+name_zh: 恩达卡语
+name_zh_auto: true
 autonym: Indaaka
 alt_names: [Ndaaka]
 population: 25000

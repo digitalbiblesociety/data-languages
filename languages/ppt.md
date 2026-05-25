@@ -1,6 +1,8 @@
 ---
 iso: ppt
 name: Pare
+name_zh: 帕雷语
+name_zh_auto: true
 autonym: Pare
 alt_names: [Akium-Pare, Pa]
 population: 6500

@@ -1,6 +1,8 @@
 ---
 iso: bwa
 name: Bwatoo
+name_zh: 布瓦图语
+name_zh_auto: true
 autonym: null
 alt_names: [Dialectes de Voh-Koné, Dialectos de Voh-Koné, Neukaledonien]
 population: 300

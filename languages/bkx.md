@@ -1,6 +1,8 @@
 ---
 iso: bkx
 name: Baikeno
+name_zh: 拜克诺语
+name_zh_auto: true
 autonym: Uab Metô
 alt_names: [Ambeno, Ambenu, Baikenu, Biqueno, Oe Cusi, Oecussi, Oekusi, Uab Meto, Uab Pah Meto, Vaikenu, Vaikino]
 population: 81700

@@ -1,6 +1,8 @@
 ---
 iso: sug
 name: Suganga
+name_zh: 苏甘加语
+name_zh_auto: true
 autonym: North Mianmin
 alt_names: [Blimo, Wagarabai]
 population: 350

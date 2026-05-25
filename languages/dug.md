@@ -1,6 +1,8 @@
 ---
 iso: dug
 name: Duruma
+name_zh: 杜鲁玛语
+name_zh_auto: true
 autonym: null
 alt_names: [Chiduruma]
 population: 555000

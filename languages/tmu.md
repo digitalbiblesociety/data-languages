@@ -1,6 +1,8 @@
 ---
 iso: tmu
 name: Iau
+name_zh: 伊奥语
+name_zh_auto: true
 autonym: Edopi
 alt_names: [Foi, Iaw, Turu, Urundi, Ururi, Yau]
 population: 1500

@@ -1,6 +1,8 @@
 ---
 iso: not
 name: Nomatsiguenga
+name_zh: 诺玛齐古恩加语
+name_zh_auto: true
 autonym: inato
 alt_names: ["\"Nomatsiguenga Campa\"", Atiri, Campa, Machinguenga, "Nomachiguenga: Atiri", Nomatsigenga, Nomatsiguenga Campa]
 population: 8020

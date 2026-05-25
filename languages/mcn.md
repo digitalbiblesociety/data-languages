@@ -1,6 +1,8 @@
 ---
 iso: mcn
 name: Masana
+name_zh: 马萨纳语
+name_zh_auto: true
 autonym: Masana
 alt_names: ["\"Banana\"", Banana, Llengua massa, Masa, Masana hizkuntza, Masana jezik, Masaneg, Massa, Massa language, Walia, Масаски език]
 population: 342000

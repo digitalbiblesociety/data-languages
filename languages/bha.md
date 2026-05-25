@@ -1,6 +1,8 @@
 ---
 iso: bha
 name: Bharia
+name_zh: 巴里亚语
+name_zh_auto: true
 autonym: भरीयाटी
 alt_names: [Bhar, Bharat, Bhumia, Bhumiya, Paliha]
 population: 197000

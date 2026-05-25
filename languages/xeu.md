@@ -1,6 +1,8 @@
 ---
 iso: xeu
 name: "Keoru-Ahia"
+name_zh: 克欧鲁-阿希亚语
+name_zh_auto: true
 autonym: "Lower Ahia - Kouri"
 alt_names: [Belepa, Haura, Haura Haela, Keuro, Keuru]
 population: 194

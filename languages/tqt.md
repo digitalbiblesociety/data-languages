@@ -1,6 +1,8 @@
 ---
 iso: tqt
 name: Western Totonac
+name_zh: 西托托纳克语
+name_zh_auto: true
 autonym: Ozomatlán Totonac
 alt_names: [Totonac, "Totonac, Ozumatlán", "Totonac, Western", Totonacano de Patla, Totonacano filomeno mata-coahuillán, Totonaco, Totonaco de Ozumatlán, Totonako, Totonaque de Filomeno Mata, Totonaque de Patla-Chicontla]
 population: 1610

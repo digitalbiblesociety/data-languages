@@ -1,6 +1,8 @@
 ---
 iso: rak
 name: "Tulu-Bohuai"
+name_zh: 图卢-博怀语
+name_zh_auto: true
 autonym: Bohuai
 alt_names: [Admiralitäts-inseln, Bohuai-Tulu, Bowai, Pahavai, Pelipowai, Pohuai]
 population: 1400

@@ -1,6 +1,8 @@
 ---
 iso: glc
 name: Bon Gula
+name_zh: 邦古拉语
+name_zh_auto: true
 autonym: Bon
 alt_names: [Bon Goula, Bun, Gula Guera, Poun, Taataal, Êeni]
 population: 1200

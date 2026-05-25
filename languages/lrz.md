@@ -1,6 +1,8 @@
 ---
 iso: lrz
 name: Lemerig
+name_zh: 勒梅里格语
+name_zh_auto: true
 autonym: Bek
 alt_names: [Banks-Inseln, Sasar]
 population: null

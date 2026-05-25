@@ -1,6 +1,8 @@
 ---
 iso: wrl
 name: Warlmanpa
+name_zh: 沃尔曼帕语
+name_zh_auto: true
 autonym: Walmala
 alt_names: [Albura, Alpira, Alpiri, Elpira, Ilpara, Ilpira, Ilpirra, Lenga warlmanpa, Nam bulatji, Nam-bulatji, Njambalatji, Ulperra, Wailbri, Wal bri, Wal-bri, Walbiri, Walbrai, Waljbiri, Waljpiri, Walmamba, Walmanba, Walmanpa, Walmunba, Walpari, Walpiri, Wanaeka, Wanajaga, Wanajaga., Wanajaka, Wanajeka, Waneiga, Wanmampa, Wanmanpa, Waringari, Warlmanba, Warrabri, Wolperi, Wolpirra]
 population: 30

@@ -1,6 +1,8 @@
 ---
 iso: yro
 name: Yaroamë
+name_zh: 亚罗阿梅语
+name_zh_auto: true
 autonym: Jawari
 population: 430
 country_id: BR

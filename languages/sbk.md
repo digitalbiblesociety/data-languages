@@ -1,6 +1,8 @@
 ---
 iso: sbk
 name: Safwa
+name_zh: 萨夫瓦语
+name_zh_auto: true
 autonym: " Ishisafwa"
 alt_names: [Cisafwa, Kisafwa]
 population: 322000

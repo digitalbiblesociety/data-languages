@@ -1,6 +1,8 @@
 ---
 iso: cbj
 name: Ede Cabe
+name_zh: 埃德卡贝语
+name_zh_auto: true
 autonym: Caabe
 alt_names: [Cabe]
 population: 3750

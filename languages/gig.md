@@ -1,6 +1,8 @@
 ---
 iso: gig
 name: Goaria
+name_zh: 戈阿里亚语
+name_zh_auto: true
 autonym: null
 alt_names: [Lingua goaria, Pakistan, கோவாரியா மொழி, ภาษาคอเรีย]
 population: 25400

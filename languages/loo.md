@@ -1,6 +1,8 @@
 ---
 iso: loo
 name: Lombo
+name_zh: 龙博语
+name_zh_auto: true
 autonym: Olombo
 alt_names: [Turumbu, Ulumbu]
 population: 10000

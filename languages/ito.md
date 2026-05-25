@@ -1,6 +1,8 @@
 ---
 iso: ito
 name: Itonama
+name_zh: 伊托纳玛语
+name_zh_auto: true
 autonym: Machoto
 alt_names: [Idioma itonama, Itonameg, Saramo, Итонама]
 population: 5090

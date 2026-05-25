@@ -1,6 +1,8 @@
 ---
 iso: xaj
 name: Ararandewára
+name_zh: 阿拉兰德瓦拉语
+name_zh_auto: true
 autonym: Ararandeūara
 population: null
 country_id: BR

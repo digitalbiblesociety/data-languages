@@ -1,6 +1,8 @@
 ---
 iso: mnf
 name: Mundani
+name_zh: 蒙达尼语
+name_zh_auto: true
 autonym: null
 alt_names: [Cameroon, Lower Mundani]
 population: 34000

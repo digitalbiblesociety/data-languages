@@ -1,6 +1,8 @@
 ---
 iso: ipi
 name: Ipili
+name_zh: 伊皮利语
+name_zh_auto: true
 autonym: null
 alt_names: [Ipili-Paiela, Ipili-Payala]
 population: 26000

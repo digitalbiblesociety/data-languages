@@ -1,6 +1,8 @@
 ---
 iso: goj
 name: Gowlan
+name_zh: 高兰语
+name_zh_auto: true
 autonym: null
 population: 20200
 country_id: IN

@@ -1,6 +1,8 @@
 ---
 iso: djn
 name: Jawoyn
+name_zh: 贾沃因语
+name_zh_auto: true
 autonym: Djauan
 alt_names: [Adowen, Charmong, Chau an, Chau-an, Chauan, Djauun, Djauwung, Djauwuny, Djawan, Djawanj, Djawin, Djawun, Djouan, Djowan, Djowei, Gundjawan, Jauan, Jawan, Jawin, Jawonj, Jawony, Juauan, Kumertuo, Lebryryd, Nggandindmi, Tjauen, Tjawen, Tjouen, Tweinbol, Wonborngu]
 population: 15

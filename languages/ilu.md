@@ -1,6 +1,8 @@
 ---
 iso: ilu
 name: "Ili'uun"
+name_zh: 伊利乌恩语
+name_zh_auto: true
 autonym: Wetar
 alt_names: [Erai, Hahutan, Hahutau, Iliun, Ilmaumau, Limera]
 population: 1400

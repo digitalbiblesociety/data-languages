@@ -1,6 +1,8 @@
 ---
 iso: nnl
 name: Northern Rengma Naga
+name_zh: 北伦格玛纳加语
+name_zh_auto: true
 autonym: Northern Rengma
 alt_names: [Naga, "Naga, Northern Rengma", "Naga,NorthernRengma", Ntenyi, Ntenyi Naga, Nthenyi, Rengma, Rengma North]
 population: 13000

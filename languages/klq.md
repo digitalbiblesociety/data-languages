@@ -1,6 +1,8 @@
 ---
 iso: klq
 name: Rumu
+name_zh: 鲁木语
+name_zh_auto: true
 autonym: Kairi
 alt_names: [Dumu, Kai-Iri, Kairi (Dumu), Kibiri, Miyak, Rumuwa, Tumu]
 population: 3870

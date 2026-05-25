@@ -1,6 +1,8 @@
 ---
 iso: btg
 name: Gagnoa Bété
+name_zh: 甘农贝特语
+name_zh_auto: true
 autonym: Beteic
 alt_names: [Bete, Bété, "Bété, Gagnoa", Eastern Bété, Gagnoa Bete, Gagnoua-Bété, Shyen]
 population: 150000

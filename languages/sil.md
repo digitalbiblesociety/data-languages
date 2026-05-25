@@ -1,6 +1,8 @@
 ---
 iso: sil
 name: Tumulung Sisaala
+name_zh: 图穆隆西萨拉语
+name_zh_auto: true
 autonym: Sissala
 alt_names: [Hissala, Isaalung, Isala, Issala, Shom peng, Shompen, "Sisaala, Tumulung", Sisai, Sisala, Sisala Tumu]
 population: 105000

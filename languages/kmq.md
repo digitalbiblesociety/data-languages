@@ -1,6 +1,8 @@
 ---
 iso: kmq
 name: Kwama
+name_zh: 夸马语
+name_zh_auto: true
 autonym: Afan Mao
 alt_names: [Amam, Gogwama, Goma, Gwama, Koma of Asosa, Mao, Nokanoka, North Koma, Qewama, "T'wa Kwama", Takwama]
 population: 15000

@@ -1,6 +1,8 @@
 ---
 iso: gyo
 name: Gyalsumdo
+name_zh: 吉亚尔松多语
+name_zh_auto: true
 autonym: ग्याल्सुस्दो
 population: 200
 country_id: NP

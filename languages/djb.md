@@ -1,6 +1,8 @@
 ---
 iso: djb
 name: Djinba
+name_zh: 詹巴语
+name_zh_auto: true
 autonym: null
 alt_names: [Daii, Diakui, Djimba, Djinang, Dyinba, Ganalbwingu, Gunalbingu, Jinba, Kurkamarnapia, Outjanbah, Ritharngu, Yolngu]
 population: 53

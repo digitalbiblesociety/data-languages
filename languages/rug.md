@@ -1,6 +1,8 @@
 ---
 iso: rug
 name: Roviana
+name_zh: 罗维亚纳语
+name_zh_auto: true
 autonym: Robiana
 alt_names: [Rubiana, Ruviana]
 population: 25870

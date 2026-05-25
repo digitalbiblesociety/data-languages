@@ -1,6 +1,8 @@
 ---
 iso: kpn
 name: Kepkiriwát
+name_zh: 凯普基里瓦特语
+name_zh_auto: true
 autonym: Kepkeriwát
 alt_names: [Kepkiriwat, Kepkiriwate, Quepiquiriquat, Quepiquiriuate]
 population: null

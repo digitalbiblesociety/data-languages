@@ -1,6 +1,8 @@
 ---
 iso: gna
 name: Kaansa
+name_zh: 卡恩萨语
+name_zh_auto: true
 autonym: Gan
 alt_names: [Gane, Gã, Kaan, Kaanse, Kan, Kpɔdɔɣo, Kãasa, Padorho]
 population: 6000

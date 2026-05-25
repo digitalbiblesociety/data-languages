@@ -1,6 +1,8 @@
 ---
 iso: ssj
 name: Sausi
+name_zh: 萨乌西语
+name_zh_auto: true
 autonym: Uya
 population: 1450
 country_id: PG

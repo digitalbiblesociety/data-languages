@@ -1,6 +1,8 @@
 ---
 iso: ott
 name: Temoaya Otomi
+name_zh: 特莫亚亚奥托米语
+name_zh_auto: true
 autonym: Toluca Otomí
 alt_names: [Othomí, Otomi, "Otomi, Temoaya", Otomí, Otomí de Mezquital, Otomí de la Sierra, Otomí del valle de Mezquital, Southwest]
 population: 37000

@@ -1,6 +1,8 @@
 ---
 iso: awm
 name: Arawum
+name_zh: 阿瓦鲁姆语
+name_zh_auto: true
 autonym: null
 population: 60
 country_id: PG

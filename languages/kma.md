@@ -1,6 +1,8 @@
 ---
 iso: kma
 name: Konni
+name_zh: 康尼语
+name_zh_auto: true
 autonym: Koma
 alt_names: [Komung, Koni]
 population: 3800

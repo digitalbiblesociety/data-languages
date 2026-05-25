@@ -1,6 +1,8 @@
 ---
 iso: cdi
 name: Chodri
+name_zh: 乔德里语
+name_zh_auto: true
 autonym: Chowdhary
 alt_names: [Chaudhari, Chaudri, Chodhari, Choudhara, Choudhary]
 population: 111000

@@ -1,6 +1,8 @@
 ---
 iso: kwb
 name: Kwa
+name_zh: 克瓦语
+name_zh_auto: true
 autonym: Baa
 alt_names: [Kwah]
 population: 7000

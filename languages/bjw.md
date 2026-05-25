@@ -1,6 +1,8 @@
 ---
 iso: bjw
 name: Bakwé
+name_zh: 巴克韦语
+name_zh_auto: true
 autonym: null
 alt_names: [Bakwe]
 population: 10300

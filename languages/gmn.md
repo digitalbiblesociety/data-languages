@@ -1,6 +1,8 @@
 ---
 iso: gmn
 name: Gimnime
+name_zh: 吉姆尼梅语
+name_zh_auto: true
 autonym: Gimbe
 alt_names: [Kadam, Koma Kadam, Komlama, Laame, Yotubo]
 population: 3000

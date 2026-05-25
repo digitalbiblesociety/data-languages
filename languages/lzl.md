@@ -1,6 +1,8 @@
 ---
 iso: lzl
 name: Litzlitz
+name_zh: 利茨利茨语
+name_zh_auto: true
 autonym: Naman
 alt_names: [Litzlitz-Visele, Mallicolo]
 population: 15

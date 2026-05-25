@@ -1,6 +1,8 @@
 ---
 iso: nnc
 name: Nancere
+name_zh: 南塞雷语
+name_zh_auto: true
 autonym: Nangjere
 alt_names: [East Chadic A.2, Lele Group, Nancere Group, Nanchere, Nangcere, Nangire, Nanjeri, Nantcere]
 population: 144000

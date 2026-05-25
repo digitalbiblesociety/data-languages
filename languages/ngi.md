@@ -1,6 +1,8 @@
 ---
 iso: ngi
 name: Ngizim
+name_zh: 恩吉齐姆语
+name_zh_auto: true
 autonym: Ngezzim
 alt_names: [Ngizimanci, Ngizmawa, "Ngo:djin", Ngojin]
 population: 80000

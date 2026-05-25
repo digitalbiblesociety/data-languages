@@ -1,6 +1,8 @@
 ---
 iso: stw
 name: Satawalese
+name_zh: 萨塔瓦莱塞语
+name_zh_auto: true
 autonym: kepesaen Saetaewan
 alt_names: [Satawal, Satawalés]
 population: 460

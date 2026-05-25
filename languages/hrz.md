@@ -1,6 +1,8 @@
 ---
 iso: hrz
 name: Harzani
+name_zh: 哈尔扎尼语
+name_zh_auto: true
 autonym: Harzani
 alt_names: [Harzandi, Iran]
 population: 34900

@@ -1,6 +1,8 @@
 ---
 iso: jmb
 name: Zumbun
+name_zh: 祖姆邦语
+name_zh_auto: true
 autonym: Jimbin
 alt_names: [Jimbinawa, Zoumbouneg, Zumbun jezik]
 population: 2000

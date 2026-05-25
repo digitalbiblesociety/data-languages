@@ -1,6 +1,8 @@
 ---
 iso: pnc
 name: Pannei
+name_zh: 潘内伊语
+name_zh_auto: true
 autonym: Tapango
 alt_names: [Nordost-Celebes]
 population: 9000

@@ -1,6 +1,8 @@
 ---
 iso: kks
 name: Giiwo
+name_zh: 吉伊沃语
+name_zh_auto: true
 autonym: Bu Giiwo
 alt_names: [Kirfi, Kirifawa, Kirifi]
 population: 14000

@@ -1,6 +1,8 @@
 ---
 iso: knj
 name: Western Kanjobal
+name_zh: 西坎若巴尔语
+name_zh_auto: true
 autonym: Acateco
 alt_names: [Acatec, Acateeks, Acatèque (Guatemala), Acatèque (Mexique), Akatek language, Akatekisk, Akateko, Canjobalés occidental (México), Conob, Idioma acateco, Kanjobal, Kanjobal (Western), Kanjobal de San Miguel Acatán, "Kanjobal, Western", Língua acateca, Qanjobal, San Miguel Acatán Kanjobal, Western, "Western Q'anjob'al", Акатечки јазик]
 population: 66930

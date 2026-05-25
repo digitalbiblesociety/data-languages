@@ -1,6 +1,8 @@
 ---
 iso: jge
 name: "Judeo-Georgian"
+name_zh: 犹太-格鲁吉亚语
+name_zh_auto: true
 autonym: ყივრული Kivruli
 population: 85000
 country_id: IL

@@ -1,6 +1,8 @@
 ---
 iso: lmb
 name: Merei
+name_zh: 梅雷伊语
+name_zh_auto: true
 autonym: Malmariv
 alt_names: [Lametin, Tiale]
 population: 400

@@ -1,6 +1,8 @@
 ---
 iso: aax
 name: Mandobo Atas
+name_zh: 曼多博阿塔斯语
+name_zh_auto: true
 autonym: Dumut
 alt_names: ["\"Kaeti\"", Kaeti, Kambon, Kwem, Mandobbo, Nub, Wambon]
 population: 1000

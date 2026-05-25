@@ -1,6 +1,8 @@
 ---
 iso: jrr
 name: Jiru
+name_zh: 吉鲁语
+name_zh_auto: true
 autonym: Atak
 alt_names: [Kir, Wiyap, Zhiru]
 population: 3420

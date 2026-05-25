@@ -1,6 +1,8 @@
 ---
 iso: aob
 name: Abom
+name_zh: 阿邦语
+name_zh_auto: true
 autonym: null
 alt_names: [Abom language]
 population: null

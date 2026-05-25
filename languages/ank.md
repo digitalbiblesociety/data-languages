@@ -1,6 +1,8 @@
 ---
 iso: ank
 name: Goemai
+name_zh: 格埃迈语
+name_zh_auto: true
 autonym: Ankwai
 alt_names: [Ankwe, Ankwei, Ankwé, Goemai jezik, Goemaieg, Kemai]
 population: 361000

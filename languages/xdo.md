@@ -1,6 +1,8 @@
 ---
 iso: xdo
 name: Kwandu
+name_zh: 克万都语
+name_zh_auto: true
 autonym: null
 population: null
 country_id: ZM

@@ -1,6 +1,8 @@
 ---
 iso: wri
 name: Wariyangga
+name_zh: 瓦里扬加语
+name_zh_auto: true
 autonym: Warriyangka
 alt_names: [Malgaru, Malygaru, Malykaru, Wadi, Wadiwangga, Wari wonga, Wari-wonga, Warianga, Wariangga, Warienga, Wariengga, Wariwonga, Wariwongga, Wariyanga, Warrijangga, Warriwonga, Warriyangga, Woorenga, Woorienga, Worrienga, iengga]
 population: null

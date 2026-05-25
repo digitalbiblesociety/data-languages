@@ -1,6 +1,8 @@
 ---
 iso: nsz
 name: Nisenan
+name_zh: 尼塞南语
+name_zh_auto: true
 autonym: Southern Maidu
 alt_names: [Maidu (Southern), Neeshenam, Nisenan (Central Hill), Nishinam, Pujuni, S Maidu, S. Maidu, South Maidu, Wapumni]
 population: null

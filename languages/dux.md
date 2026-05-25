@@ -1,6 +1,8 @@
 ---
 iso: dux
 name: Duungooma
+name_zh: 杜翁戈玛语
+name_zh_auto: true
 autonym: Du
 alt_names: [Duungo, Mali Duun, Samogho, Samogo, Samoro, Western Duun]
 population: 150000

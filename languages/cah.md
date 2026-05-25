@@ -1,6 +1,8 @@
 ---
 iso: cah
 name: Cahuarano
+name_zh: 卡瓦拉诺语
+name_zh_auto: true
 autonym: null
 alt_names: [Hamacore, Ikito-Kawarano, Iquito, Iquito-Cahuarano, Kahouaraneg, Puca-Uma, Quiturran]
 population: null

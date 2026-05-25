@@ -1,6 +1,8 @@
 ---
 iso: cey
 name: Ekai Chin
+name_zh: 埃凯钦语
+name_zh_auto: true
 autonym: Läoktü
 alt_names: ["Chin, Ekai"]
 population: 6650

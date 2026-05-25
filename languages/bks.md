@@ -1,6 +1,8 @@
 ---
 iso: bks
 name: Northern Sorsoganon
+name_zh: 北索尔索加农语
+name_zh_auto: true
 autonym: Masbate Sorsogon
 alt_names: [Bisaya, Northern Sorsogon, "Sorsoganon, Northern", Sorsogon Bicolano, "Sorsogon, Masbate"]
 population: 85000

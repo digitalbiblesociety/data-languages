@@ -1,6 +1,8 @@
 ---
 iso: cux
 name: Tepeuxila Cuicatec
+name_zh: 特佩乌克西拉奎卡特克语
+name_zh_auto: true
 autonym: "Cuicatec, Tepeuxila"
 alt_names: [Cuica, Cuicatec, Cuicateco, Kwikateko, Teutila]
 population: 8680

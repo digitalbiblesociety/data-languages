@@ -1,6 +1,8 @@
 ---
 iso: ndy
 name: Lutos
+name_zh: 卢托斯语
+name_zh_auto: true
 autonym: Ruto
 population: 18980
 country_id: CF

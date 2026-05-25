@@ -1,6 +1,8 @@
 ---
 iso: ide
 name: Idere
+name_zh: 伊德雷语
+name_zh_auto: true
 autonym: null
 alt_names: [Nigeria]
 population: 5000

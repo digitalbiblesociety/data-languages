@@ -1,6 +1,8 @@
 ---
 iso: vsi
 name: Moldova Sign Language
+name_zh: 摩尔多瓦手语
+name_zh_auto: true
 autonym: Русский Жестовый Язык
 population: 5000
 country_id: MD

@@ -1,6 +1,8 @@
 ---
 iso: yon
 name: Yongkom
+name_zh: 永科姆语
+name_zh_auto: true
 autonym: Yongkom
 alt_names: [Iongom, Kate, "Kati (in West Papua, Indonesia)", "Northern Kati, Southern Kati", Yonggom, Yongom]
 population: 6000

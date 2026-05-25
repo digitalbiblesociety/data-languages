@@ -1,6 +1,8 @@
 ---
 iso: tto
 name: "Lower Ta'oih"
+name_zh: 下塔欧伊语
+name_zh_auto: true
 autonym: Ta Oi
 alt_names: ["Ta'oih, Lower", Tong]
 population: 15800

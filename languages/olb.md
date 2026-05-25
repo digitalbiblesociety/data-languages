@@ -1,6 +1,8 @@
 ---
 iso: olb
 name: Oli-Bodiman
+name_zh: 奥利-博迪曼语
+name_zh_auto: true
 autonym: Duálá
 country_id: CM
 country_name: Cameroon

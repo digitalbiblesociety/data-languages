@@ -1,6 +1,8 @@
 ---
 iso: snm
 name: "Southern Ma'di"
+name_zh: 南方马迪语
+name_zh_auto: true
 autonym: null
 alt_names: ["Ma'di, Southern"]
 population: 60000

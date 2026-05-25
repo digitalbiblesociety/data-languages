@@ -1,6 +1,8 @@
 ---
 iso: ojg
 name: Eastern Ojibwa
+name_zh: 东部奥吉布瓦语
+name_zh_auto: true
 autonym: Ojibway
 alt_names: [Anishinaabemowin, E Ojibwa, E. Ojibwa, Eastern Ojibwe, Mississauga, Ojibwa, Ojibwa (Eastern), "Ojibwa, Eastern", Ojibwe, "Ojibwe de l'est", Oyibua oriental]
 population: 25900

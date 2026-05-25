@@ -1,6 +1,8 @@
 ---
 iso: mrk
 name: Hmwaveke
+name_zh: 赫姆瓦韦克语
+name_zh_auto: true
 autonym: Ceta
 alt_names: [Faa Ceta, Moaveke, Neukaledonien]
 population: 300

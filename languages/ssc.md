@@ -1,6 +1,8 @@
 ---
 iso: ssc
 name: "Suba-Simbiti"
+name_zh: 苏巴-西姆比提语
+name_zh_auto: true
 autonym: Kisimbiti
 alt_names: [Kisuba]
 population: 113000

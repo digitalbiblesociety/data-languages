@@ -1,6 +1,8 @@
 ---
 iso: kmg
 name: Kâte
+name_zh: 卡特语
+name_zh_auto: true
 autonym: null
 alt_names: [Kai, Kate, Kâte Dong]
 population: 6130

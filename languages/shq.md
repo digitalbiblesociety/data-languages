@@ -1,6 +1,8 @@
 ---
 iso: shq
 name: Sala
+name_zh: 萨拉语
+name_zh_auto: true
 autonym: Lundwe
 alt_names: [Zambia]
 population: 20400

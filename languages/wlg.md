@@ -1,6 +1,8 @@
 ---
 iso: wlg
 name: Kunbarlang
+name_zh: 昆巴兰语
+name_zh_auto: true
 autonym: Warlang
 alt_names: [Gambalang, Gambalanga, Geimbio, Gimbarlang, "Gunba:lan", "Gunba:lang", Gunbalag, Gunbalang, Gunbalong, Gunbarlang, Gunbulan, Gungalang, Gurmadja madja, Muralidban, Walang]
 population: null

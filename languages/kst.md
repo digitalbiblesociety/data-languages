@@ -1,6 +1,8 @@
 ---
 iso: kst
 name: Winyé
+name_zh: 温耶语
+name_zh_auto: true
 autonym: Kolsi
 alt_names: [Ko, Ko (Winye), Kols, Kõ, Winye]
 population: 20000

@@ -1,6 +1,8 @@
 ---
 iso: lsc
 name: Albarradas Sign Language
+name_zh: 阿尔巴拉达斯手语
+name_zh_auto: true
 autonym: Didxa ná’
 alt_names: [Lengua de señas Albarradas]
 population: 1000

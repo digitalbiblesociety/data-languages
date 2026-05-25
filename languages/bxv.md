@@ -1,6 +1,8 @@
 ---
 iso: bxv
 name: Berakou
+name_zh: 贝拉库语
+name_zh_auto: true
 autonym: Babalia
 alt_names: [Bubalia]
 population: null

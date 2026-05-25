@@ -1,6 +1,8 @@
 ---
 iso: gvm
 name: Gurmana
+name_zh: 古尔马纳语
+name_zh_auto: true
 autonym: null
 alt_names: [Gura]
 population: 3000

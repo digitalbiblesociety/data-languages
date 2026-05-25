@@ -1,6 +1,8 @@
 ---
 iso: aca
 name: Achagua
+name_zh: 阿恰瓜语
+name_zh_auto: true
 autonym: Achawa
 alt_names: [Achugua, Ajagua, Xagua]
 population: 250

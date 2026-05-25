@@ -1,6 +1,8 @@
 ---
 iso: uhn
 name: Damal
+name_zh: 达玛尔语
+name_zh_auto: true
 autonym: Damal
 alt_names: [Amung, Amung Kal, Amungme, Amuy, Enggipiloe, Hamung, Oehoendoeni, Uhunduni, Uhunduní]
 population: 14000

@@ -1,6 +1,8 @@
 ---
 iso: lpx
 name: Lopit
+name_zh: 洛皮特语
+name_zh_auto: true
 autonym: Lafiit
 alt_names: [Lafit, Lafite, Lofit, Lopid, Loppit]
 population: 117000

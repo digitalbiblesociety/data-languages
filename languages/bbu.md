@@ -1,6 +1,8 @@
 ---
 iso: bbu
 name: Kulung (Nigeria)
+name_zh: 库隆语
+name_zh_auto: true
 autonym: Bakuli
 alt_names: [Bakulu, Bakulung, Bambur, Kukulung, Kulu, Kulung, Kuluno, Wo, Wurkum]
 population: 15000

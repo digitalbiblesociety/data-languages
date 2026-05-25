@@ -1,6 +1,8 @@
 ---
 iso: nee
 name: "Nêlêmwa-Nixumwak"
+name_zh: 内莱姆瓦-尼克苏姆瓦克语
+name_zh_auto: true
 autonym: "Nêlêmwa-Nixumwak"
 alt_names: [Fwa-Goumak, Koumac, Kumak, Nelemwa, Neukaledonien]
 population: 950

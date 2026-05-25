@@ -1,6 +1,8 @@
 ---
 iso: trn
 name: Trinitario
+name_zh: 三一达里奥语
+name_zh_auto: true
 autonym: Mojos
 alt_names: [Moxo, Moxos, Trimitarios]
 population: 30000

@@ -1,6 +1,8 @@
 ---
 iso: adn
 name: Adang
+name_zh: 阿当语
+name_zh_auto: true
 autonym: Alor
 alt_names: [Lingua adang]
 population: 3000

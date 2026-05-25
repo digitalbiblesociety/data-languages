@@ -1,6 +1,8 @@
 ---
 iso: doz
 name: Dorze
+name_zh: 多尔泽语
+name_zh_auto: true
 autonym: null
 alt_names: [Dorzé, Geresé]
 population: 20800

@@ -1,6 +1,8 @@
 ---
 iso: mkw
 name: Kituba (Congo)
+name_zh: 基图巴语（刚果）
+name_zh_auto: true
 autonym: Monokutuba
 alt_names: [Kikongo/Kituba, Kikoongo, Kituba, Kituba language, Kituba lingvo, Língua kituba, Munukutuba, Китуба, 吉土巴语]
 population: 1750000

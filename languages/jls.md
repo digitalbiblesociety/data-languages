@@ -1,6 +1,8 @@
 ---
 iso: jls
 name: Jamaican Sign Language
+name_zh: 牙买加手语
+name_zh_auto: true
 autonym: Lenguaje de Señas Bolivianas LSB
 population: 7500
 country_id: JM

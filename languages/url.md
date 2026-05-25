@@ -1,6 +1,8 @@
 ---
 iso: url
 name: Urali
+name_zh: 乌拉利语
+name_zh_auto: true
 autonym: Oorazhi
 alt_names: [Uraly, Urli]
 population: null

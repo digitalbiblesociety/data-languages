@@ -1,6 +1,8 @@
 ---
 iso: ctc
 name: Chetco
+name_zh: 切特科语
+name_zh_auto: true
 autonym: "Taa-laa-wa Dee-ni’ Wee-ya’"
 population: null
 country_id: US

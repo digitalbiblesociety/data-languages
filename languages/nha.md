@@ -1,6 +1,8 @@
 ---
 iso: nha
 name: Nhanda
+name_zh: 恩汉达语
+name_zh_auto: true
 autonym: Nanda
 alt_names: [Amangu, Bulgulu, Buluguda, Champion Bay tribe, Daguda, Eau, Eaw, Jau, Nanta, Nhanta, Nubda, Nunta, Tamala, Watchandi, Watchandie, Wathandi, Watjandi, Wilunya, Yau, Yaw]
 population: null

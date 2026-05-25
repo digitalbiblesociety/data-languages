@@ -1,6 +1,8 @@
 ---
 iso: wny
 name: Wanyi
+name_zh: 万伊语
+name_zh_auto: true
 autonym: Waanji
 alt_names: [Waangyee, Waanyi, Wainyi, Wanee, Wanji, Wanyee, Wanyu, Wonyee]
 population: 16

@@ -1,6 +1,8 @@
 ---
 iso: mfw
 name: Mulaha
+name_zh: 穆拉哈语
+name_zh_auto: true
 autonym: null
 alt_names: [Laibu]
 population: null

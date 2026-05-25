@@ -1,6 +1,8 @@
 ---
 iso: bds
 name: Burunge
+name_zh: 布伦格语
+name_zh_auto: true
 autonym: Bulunge
 alt_names: [Burunge hizkuntza, Burunge jezik, Burungi, Burunguí, Lenga Burunge, Mbulugwe, Mbulunge]
 population: 13000

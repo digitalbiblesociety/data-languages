@@ -1,6 +1,8 @@
 ---
 iso: ogg
 name: Ogbogolo
+name_zh: 奥格博戈洛语
+name_zh_auto: true
 autonym: Obogolo
 population: 10000
 country_id: NG

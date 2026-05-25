@@ -1,6 +1,8 @@
 ---
 iso: wbm
 name: Wa
+name_zh: 瓦语
+name_zh_auto: true
 autonym: Va
 alt_names: [Awa, Baraog, "K'awa", Kawa, Paraok, Parauk, Praok, Vo, Vü, Wa Pwi, Wa-Vü, Wakut, ဝ, 佤語]
 population: 40700

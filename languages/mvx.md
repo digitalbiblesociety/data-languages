@@ -1,6 +1,8 @@
 ---
 iso: mvx
 name: Meoswar
+name_zh: 梅奥斯瓦语
+name_zh_auto: true
 autonym: War
 population: 250
 country_id: ID

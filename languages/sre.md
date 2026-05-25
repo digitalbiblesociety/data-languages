@@ -1,6 +1,8 @@
 ---
 iso: sre
 name: Sara
+name_zh: 萨拉语
+name_zh_auto: true
 autonym: Riok
 alt_names: [Indonesia, Lenga Sara, Sar, Sara Bakati’]
 population: 4000

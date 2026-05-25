@@ -1,6 +1,8 @@
 ---
 iso: kyp
 name: Kang
+name_zh: 坎语
+name_zh_auto: true
 autonym: Tai Khang
 population: 81700
 country_id: LA

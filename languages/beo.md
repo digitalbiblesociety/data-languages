@@ -1,6 +1,8 @@
 ---
 iso: beo
 name: Beami
+name_zh: 贝阿米语
+name_zh_auto: true
 autonym: Bedamini
 alt_names: [Bedamuni, Beothuc, Beothuk, Bethuck, Bethuk, Mougulu, Newfoundland, Red Indians]
 population: 5000

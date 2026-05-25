@@ -1,6 +1,8 @@
 ---
 iso: kyu
 name: Western Kayah
+name_zh: 西卡亚语
+name_zh_auto: true
 autonym: Kayah
 alt_names: [Karenni, Karennyi, Karieng Daeng, Kaya, Kayah Li, "Kayah, Western", "Kayah,Western", Red Karen, Yang Daeng]
 population: 150000

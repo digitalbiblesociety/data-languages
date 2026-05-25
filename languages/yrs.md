@@ -1,6 +1,8 @@
 ---
 iso: yrs
 name: Yarsun
+name_zh: 亚尔松语
+name_zh_auto: true
 autonym: "Sarmi-Jayapura Bay"
 population: 200
 country_id: ID

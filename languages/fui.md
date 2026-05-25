@@ -1,6 +1,8 @@
 ---
 iso: fui
 name: Bagirmi Fulfulde
+name_zh: 巴吉尔米富尔富尔德语
+name_zh_auto: true
 autonym: " Peul"
 alt_names: [Baghirmi Peul, Bagirmi Fula, Fulah-Idiome, Fulani, "Fulfulde, Bagirmi"]
 population: 180000

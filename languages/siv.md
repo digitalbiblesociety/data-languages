@@ -1,6 +1,8 @@
 ---
 iso: siv
 name: Sumariup
+name_zh: 苏马留普语
+name_zh_auto: true
 autonym: Latoma
 alt_names: [Sogoba]
 population: 80

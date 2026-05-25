@@ -1,6 +1,8 @@
 ---
 iso: rbp
 name: Barababaraba
+name_zh: 巴拉巴巴拉巴语
+name_zh_auto: true
 autonym: Baraparapa
 population: null
 country_id: AU

@@ -1,6 +1,8 @@
 ---
 iso: wul
 name: Silimo
+name_zh: 西利莫语
+name_zh_auto: true
 autonym: Wulik
 alt_names: [Paiyage, Pschem, South Ngalik, Southern Ngalik, Usak]
 population: 5000

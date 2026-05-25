@@ -1,6 +1,8 @@
 ---
 iso: tpk
 name: Tupinikin
+name_zh: 图皮尼金语
+name_zh_auto: true
 autonym: Tupinambá
 population: null
 country_id: BR

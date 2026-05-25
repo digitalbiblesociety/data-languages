@@ -1,6 +1,8 @@
 ---
 iso: slp
 name: Lamaholot
+name_zh: 拉玛霍洛特语
+name_zh_auto: true
 autonym: Solorese
 alt_names: [Solor]
 population: 225000

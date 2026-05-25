@@ -1,6 +1,8 @@
 ---
 iso: gry
 name: Barclayville Grebo
+name_zh: 巴克莱维尔格雷博语
+name_zh_auto: true
 autonym: Kréébo
 alt_names: [Grebo, "Grebo, Barclayville", Wedebo Grebo]
 population: 23700

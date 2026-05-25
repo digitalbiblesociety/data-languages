@@ -1,6 +1,8 @@
 ---
 iso: byb
 name: Bikya
+name_zh: 比基亚语
+name_zh_auto: true
 autonym: Furu
 alt_names: [Bikyeg]
 population: null

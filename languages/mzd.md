@@ -1,6 +1,8 @@
 ---
 iso: mzd
 name: Malimba
+name_zh: 玛林巴语
+name_zh_auto: true
 autonym: Malimba
 alt_names: [Lemba, Limba, Mudima, Mulimba]
 population: 2230

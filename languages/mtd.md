@@ -1,6 +1,8 @@
 ---
 iso: mtd
 name: Mualang
+name_zh: 穆阿朗语
+name_zh_auto: true
 autonym: Mualang
 alt_names: [Indonesia]
 population: 40000

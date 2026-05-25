@@ -1,6 +1,8 @@
 ---
 iso: xgu
 name: Unggumi
+name_zh: 翁古米语
+name_zh_auto: true
 autonym: Ngarangari
 alt_names: [Ong Komi, Ongaranjan, Oonggoomi, Ungami, Ungkami, Ungumi, Uŋgumi, Wongkami, Wongkomi, Wungami, Wunggumi]
 population: null

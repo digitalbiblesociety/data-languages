@@ -1,6 +1,8 @@
 ---
 iso: dsi
 name: Disa
+name_zh: 迪萨语
+name_zh_auto: true
 autonym: null
 population: 2370
 country_id: TD

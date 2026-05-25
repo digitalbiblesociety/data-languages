@@ -1,6 +1,8 @@
 ---
 iso: ets
 name: Yekhee
+name_zh: 耶赫语
+name_zh_auto: true
 autonym: AfenmaiKukuruku (outdated)
 alt_names: ["\"Kukuruku\"", Afenmai, Etsako, Etsako (Yekhee), Etsakor, Iyekhee, Kukuruku, Sako]
 population: 486000

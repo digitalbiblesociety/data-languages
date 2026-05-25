@@ -1,6 +1,8 @@
 ---
 iso: ptr
 name: Piamatsina
+name_zh: 皮亚玛特西纳语
+name_zh_auto: true
 autonym: null
 alt_names: [Vanuatu]
 population: 150

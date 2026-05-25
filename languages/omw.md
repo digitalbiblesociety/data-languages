@@ -1,6 +1,8 @@
 ---
 iso: omw
 name: South Tairora
+name_zh: 南泰伊罗拉语
+name_zh_auto: true
 autonym: Omwunra Toqura (Aatasara)
 alt_names: [Omwunra-Toqura, Southern Tairora, Tairora, "Tairora, South"]
 population: 8000

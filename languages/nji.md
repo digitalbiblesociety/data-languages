@@ -1,6 +1,8 @@
 ---
 iso: nji
 name: Gudanji
+name_zh: 古达尼语
+name_zh_auto: true
 autonym: Ngarnka
 alt_names: [Anga, Angee, Gnanji, Godangee, Goodanji, Gudandji, Gundangee, Kakaringa, Koodangie, Koodanjee, Kooringee, Kotandji, Kudandji, Kudenji, Kundanja, Kurdanji, Kutandji, Kutanji, Kutanjtjii, Nandi, Ngandji, Ngangi, Nganji, Ngarndji, Ngarnga]
 population: null

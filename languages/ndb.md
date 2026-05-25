@@ -1,6 +1,8 @@
 ---
 iso: ndb
 name: Kenswei Nsei
+name_zh: 肯西韦恩塞伊语
+name_zh_auto: true
 autonym: Kenswei Nsei
 alt_names: [Bamessing, Befi, Calebasses, Kensense, Melamba, Mesing, Ndop-Bamessing, Nsei, Veteng, Vetweng]
 population: 25000

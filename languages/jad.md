@@ -1,6 +1,8 @@
 ---
 iso: jad
 name: Jahanka
+name_zh: 贾汉卡语
+name_zh_auto: true
 autonym: Diakhanke
 alt_names: [Diakkanke, Dyakanke, Jahanque, Jahonque]
 population: 12600

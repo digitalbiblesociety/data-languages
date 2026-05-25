@@ -1,6 +1,8 @@
 ---
 iso: xay
 name: Kayan Mahakam
+name_zh: 卡延马哈卡姆语
+name_zh_auto: true
 autonym: Kajan
 alt_names: [Indonesia]
 population: 1300

@@ -1,6 +1,8 @@
 ---
 iso: kjt
 name: Phrae Pwo Karen
+name_zh: 普拉普沃卡伦语
+name_zh_auto: true
 autonym: Northeastern Pwo
 alt_names: ["Karen, Phrae Pwo", "Karen,PhraePwo", Northeastern Pwo Karen, Phrae, Prae, Pwo Karen, Pwo Phrae]
 population: 6000

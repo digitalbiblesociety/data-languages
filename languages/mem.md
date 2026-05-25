@@ -1,6 +1,8 @@
 ---
 iso: mem
 name: Mangala
+name_zh: 曼加拉语
+name_zh_auto: true
 autonym: Mangala
 alt_names: [Djawali, Djualin, Djuwali, Djuwalia, Jiwali, Jiwarli, Koalgurdi, Manala, Mangai, Mangal, Mangalaa, Mangarla, Mangula, Mangunda, Marrngu, Maŋala, Minala, Mungala, Yalmbau]
 population: 68

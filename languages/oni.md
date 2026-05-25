@@ -1,6 +1,8 @@
 ---
 iso: oni
 name: Onin
+name_zh: 奥尼语
+name_zh_auto: true
 autonym: Onim
 alt_names: [Sepa]
 population: 500

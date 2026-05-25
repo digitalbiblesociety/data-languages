@@ -1,6 +1,8 @@
 ---
 iso: kyt
 name: Kayagar
+name_zh: 卡亚加尔语
+name_zh_auto: true
 autonym: Kaygir
 alt_names: [Kajagar, Kajakaja, Kaygi, Wiyagar]
 population: 10000

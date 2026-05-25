@@ -1,6 +1,8 @@
 ---
 iso: xod
 name: Kokoda
+name_zh: 科科达语
+name_zh_auto: true
 autonym: Kasuweri
 alt_names: [Komudago, Nebes, Oderago, Samalek, Tarof]
 population: 3700

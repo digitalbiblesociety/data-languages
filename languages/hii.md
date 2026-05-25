@@ -1,6 +1,8 @@
 ---
 iso: hii
 name: Hinduri
+name_zh: 欣杜里语
+name_zh_auto: true
 autonym: Handuri
 population: 47800
 country_id: IN

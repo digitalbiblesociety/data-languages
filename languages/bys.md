@@ -1,6 +1,8 @@
 ---
 iso: bys
 name: Burak
+name_zh: 布拉克语
+name_zh_auto: true
 autonym: Ɓúúrák
 alt_names: [Buurak]
 population: 4000

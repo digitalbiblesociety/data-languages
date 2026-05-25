@@ -1,6 +1,8 @@
 ---
 iso: nks
 name: North Asmat
+name_zh: 北阿斯马特语
+name_zh_auto: true
 autonym: Keenok
 alt_names: [Asmat, "Asmat, North"]
 population: 1000

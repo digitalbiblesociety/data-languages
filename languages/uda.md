@@ -1,6 +1,8 @@
 ---
 iso: uda
 name: Uda
+name_zh: 乌达语
+name_zh_auto: true
 autonym: null
 alt_names: [Nigeria]
 population: 10000

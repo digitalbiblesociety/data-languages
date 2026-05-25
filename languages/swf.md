@@ -1,6 +1,8 @@
 ---
 iso: swf
 name: Sere
+name_zh: 塞雷语
+name_zh_auto: true
 autonym: Basili
 alt_names: [Basiri, Chere, Serre, Shaire, Shere, Sheri, Sili, Siri]
 population: 2500

@@ -1,6 +1,8 @@
 ---
 iso: xgm
 name: Dharumbal
+name_zh: 达鲁姆巴尔语
+name_zh_auto: true
 autonym: Guwinmal
 alt_names: [Baiali, Bayali, Bieli, Biyali, Byellee, Byellel, Charumbul, Darambal, Darawal, Darumbal, Guñmal, Koinbal, Koinjmal, Kooinmarburra, Kooinmerburra, Kuinmurbara, Kungalburra, Kungmal, Mamburra, Ningebal, Orambul, Tarumbal, Tarumbul, Tharumbal, Urambal, "Wandandian (?)", Warabal, Yetimarala]
 population: null

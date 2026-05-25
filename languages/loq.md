@@ -1,6 +1,8 @@
 ---
 iso: loq
 name: Lobala
+name_zh: 洛巴拉语
+name_zh_auto: true
 autonym: Lobala
 alt_names: [Democratic Republic of the Congo]
 population: 60000

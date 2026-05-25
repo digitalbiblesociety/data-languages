@@ -1,6 +1,8 @@
 ---
 iso: mgf
 name: Maklew
+name_zh: 玛克鲁语
+name_zh_auto: true
 autonym: Makleunga
 alt_names: [Makleu]
 population: 120

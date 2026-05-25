@@ -1,6 +1,8 @@
 ---
 iso: shk
 name: Shilluk
+name_zh: 希卢克语
+name_zh_auto: true
 autonym: Dhøg Cøllø
 alt_names: [Chulla, Colo, Colo (Shilluk), Dhocolo, Schilluk, Shulla, Šilluk]
 population: 574000

@@ -1,6 +1,8 @@
 ---
 iso: wng
 name: Wanggom
+name_zh: 万戈姆语
+name_zh_auto: true
 autonym: Wanggo
 alt_names: [Kombai, Wangom]
 population: 1180

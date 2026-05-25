@@ -1,6 +1,8 @@
 ---
 iso: sdl
 name: Saudi Arabian Sign Language
+name_zh: 沙特阿拉伯手语
+name_zh_auto: true
 autonym: لغة الإشارة السعودية
 population: 100000
 country_id: SA

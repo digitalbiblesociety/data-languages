@@ -1,6 +1,8 @@
 ---
 iso: kjr
 name: Kurudu
+name_zh: 库鲁杜语
+name_zh_auto: true
 autonym: bahasa Kurudu
 alt_names: [Indonesia]
 population: 2180

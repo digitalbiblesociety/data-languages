@@ -1,6 +1,8 @@
 ---
 iso: dge
 name: Degenan
+name_zh: 德格南语
+name_zh_auto: true
 autonym: Dingana
 population: 790
 country_id: PG

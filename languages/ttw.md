@@ -1,6 +1,8 @@
 ---
 iso: ttw
 name: Long Wat
+name_zh: 龙瓦特语
+name_zh_auto: true
 autonym: Long Wat
 alt_names: [Kenyah, "Kenyah, Tutoh", "Lebo' Vo' Kenyah", Long San Kenyah, Tutoh Kenya]
 population: 600

@@ -1,6 +1,8 @@
 ---
 iso: zrs
 name: Mairasi
+name_zh: 迈拉西语
+name_zh_auto: true
 autonym: Faranyao
 alt_names: [Faranjao, Faranjo, Kaniran, Northeastern Mairasi]
 population: 3300

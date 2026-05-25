@@ -1,6 +1,8 @@
 ---
 iso: bon
 name: Bine
+name_zh: 比内语
+name_zh_auto: true
 autonym: Masingara
 alt_names: [Kunini, Oriomo, Pine]
 population: 2050

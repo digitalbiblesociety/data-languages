@@ -1,6 +1,8 @@
 ---
 iso: bbm
 name: Babango
+name_zh: 巴班戈语
+name_zh_auto: true
 autonym: Mobango
 population: 2550
 country_id: CD

@@ -1,6 +1,8 @@
 ---
 iso: mqq
 name: Minokok
+name_zh: 米诺科克语
+name_zh_auto: true
 autonym: null
 alt_names: [Malaysia]
 population: 1200

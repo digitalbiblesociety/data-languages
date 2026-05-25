@@ -1,6 +1,8 @@
 ---
 iso: can
 name: Chambri
+name_zh: 尚布里语
+name_zh_auto: true
 autonym: Tchambuli
 alt_names: [Achang, Tshamberi]
 population: 1700

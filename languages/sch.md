@@ -1,6 +1,8 @@
 ---
 iso: sch
 name: Sakachep
+name_zh: 萨卡切普语
+name_zh_auto: true
 autonym: Khelma
 alt_names: [Sakechep, Sankechep]
 population: 25000

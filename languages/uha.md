@@ -1,6 +1,8 @@
 ---
 iso: uha
 name: Uhami
+name_zh: 乌哈米语
+name_zh_auto: true
 autonym: Ishua
 population: 13600
 country_id: NG

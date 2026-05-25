@@ -1,6 +1,8 @@
 ---
 iso: stm
 name: Setaman
+name_zh: 塞塔曼语
+name_zh_auto: true
 autonym: null
 alt_names: [Setamin]
 population: 280

@@ -1,6 +1,8 @@
 ---
 iso: mcp
 name: Makaa
+name_zh: 马卡语
+name_zh_auto: true
 autonym: null
 alt_names: [Meka, Mekaa, Nyaana, South Makaa, South Mekaa, Toma]
 population: 80000

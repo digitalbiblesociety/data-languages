@@ -1,6 +1,8 @@
 ---
 iso: aas
 name: Aasáx
+name_zh: 阿萨克斯语
+name_zh_auto: true
 autonym: Aasá
 alt_names: ["\"Dorobo\"", "\"Ndorobo\"", Aasax, Aasax hizkuntza, Aasáx jezik, Asa, Asak, Asakeg, Asax, Assa, Asá, Il Konono, Lamanik]
 population: 350

@@ -1,6 +1,8 @@
 ---
 iso: bgu
 name: Mbongno
+name_zh: 姆邦格诺语
+name_zh_auto: true
 autonym: Kamkam
 alt_names: [Bungnu, Bungun, Bunu, Gbunhu, Kakaba, Mbogno]
 population: 3000

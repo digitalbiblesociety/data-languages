@@ -1,6 +1,8 @@
 ---
 iso: nsx
 name: Nsongo
+name_zh: 恩松戈语
+name_zh_auto: true
 autonym: Nsongo
 alt_names: [Songo, Sungu]
 population: 50000

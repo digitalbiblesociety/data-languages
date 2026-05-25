@@ -1,6 +1,8 @@
 ---
 iso: mjm
 name: Medebur
+name_zh: 梅德布尔语
+name_zh_auto: true
 autonym: null
 population: 510
 country_id: PG

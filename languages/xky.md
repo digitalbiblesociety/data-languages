@@ -1,6 +1,8 @@
 ---
 iso: xky
 name: "Uma' Lasan"
+name_zh: 乌玛拉桑语
+name_zh_auto: true
 autonym: Kanyay
 alt_names: [Kenja, "Kenyah, Western", Kindjin, Kinjin, Western Kenya]
 population: 1250

@@ -1,6 +1,8 @@
 ---
 iso: xse
 name: Sempan
+name_zh: 瑟潘语
+name_zh_auto: true
 autonym: Nararapi
 alt_names: [Sempan jezik]
 population: 1000

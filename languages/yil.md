@@ -1,6 +1,8 @@
 ---
 iso: yil
 name: Yindjilandji
+name_zh: 伊因季兰季语
+name_zh_auto: true
 autonym: Ngarru
 alt_names: [Bularnu, Dhidhanu, Gulbilangu, Inchalachee, Inchalanche, Inchalanchee, Inchalanchi, Inchilachee, Indilandji, Indjiladji, Indjilandji, Indjilindji, Indjilinji, Indjillnji, Indjurandji, Indkilindji, Indkilindji), Injdjiladji, Injeelanjee, Injilinji, Intjilantji, Intjilatja, Intyilatya, Yinjilanji]
 population: null

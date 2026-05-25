@@ -1,6 +1,8 @@
 ---
 iso: quq
 name: Quinqui
+name_zh: 昆基语
+name_zh_auto: true
 autonym: null
 alt_names: [Spain]
 population: null

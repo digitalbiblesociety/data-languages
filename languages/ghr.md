@@ -1,6 +1,8 @@
 ---
 iso: ghr
 name: Ghera
+name_zh: 格拉语
+name_zh_auto: true
 autonym: Bara
 alt_names: [Sindhi Ghera]
 population: 10000

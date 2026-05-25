@@ -1,6 +1,8 @@
 ---
 iso: nkg
 name: Nekgini
+name_zh: 内格基尼语
+name_zh_auto: true
 autonym: null
 population: 430
 country_id: PG

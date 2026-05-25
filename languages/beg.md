@@ -1,6 +1,8 @@
 ---
 iso: beg
 name: Belait
+name_zh: 贝莱特语
+name_zh_auto: true
 autonym: Lemeting
 alt_names: [Balait Jati, Meting]
 population: 1000

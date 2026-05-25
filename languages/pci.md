@@ -1,6 +1,8 @@
 ---
 iso: pci
 name: Duruwa
+name_zh: 杜鲁瓦语
+name_zh_auto: true
 autonym: ପରଜିधुरवा
 alt_names: [Dhruva, Dhurwa, Durva, Paraja, Parajhi, Parjhi, Parji, Parji (Dravidian), Tagara, Thakara, Tugara]
 population: 52300

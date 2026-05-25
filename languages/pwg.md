@@ -1,6 +1,8 @@
 ---
 iso: pwg
 name: Gapapaiwa
+name_zh: 加帕帕伊瓦语
+name_zh_auto: true
 autonym: null
 alt_names: [Gapa, "Gapapaiwa (Paiwa, Manape)", Manape, Paiwa]
 population: 3000

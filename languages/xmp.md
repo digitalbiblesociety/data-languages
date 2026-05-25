@@ -1,6 +1,8 @@
 ---
 iso: xmp
 name: "Kuku-Mu'inh"
+name_zh: 库库-穆伊尼语
+name_zh_auto: true
 autonym: "Wik-Muminh"
 alt_names: ["Kugu-Mu'inh"]
 population: null

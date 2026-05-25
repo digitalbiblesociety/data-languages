@@ -1,6 +1,8 @@
 ---
 iso: pil
 name: Yom
+name_zh: 约姆语
+name_zh_auto: true
 autonym: Pila
 alt_names: [Kpilakpila, Pilapila]
 population: 214000

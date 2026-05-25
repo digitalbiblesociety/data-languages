@@ -1,6 +1,8 @@
 ---
 iso: koe
 name: "Kacipo-Balesi"
+name_zh: 卡奇波-巴雷西语
+name_zh_auto: true
 autonym: Balesi
 alt_names: [Baale, Bale, Kacipo-Bale Suri, "Suri, Kacipo-Bale", Zilmamu]
 population: 10000

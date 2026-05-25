@@ -1,6 +1,8 @@
 ---
 iso: nlc
 name: Nalca
+name_zh: 纳尔卡语
+name_zh_auto: true
 autonym: Hmanggona
 alt_names: [Hmonono, Kimjal, Kimyal, Monomor, Naltje, Naltya]
 population: 16000

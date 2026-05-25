@@ -1,6 +1,8 @@
 ---
 iso: bgv
 name: "Warkay-Bipim"
+name_zh: 瓦尔卡-比皮姆语
+name_zh_auto: true
 autonym: "Warkay-Bipim"
 alt_names: [Bipim, Bipim As-So, Warkay]
 population: 300

@@ -1,6 +1,8 @@
 ---
 iso: hol
 name: Holu
+name_zh: 霍卢语
+name_zh_auto: true
 autonym: Kiholo
 alt_names: [Holo, Kiholu]
 population: 28200

@@ -1,6 +1,8 @@
 ---
 iso: txt
 name: Citak
+name_zh: 齐塔克语
+name_zh_auto: true
 autonym: Asmat Darat
 alt_names: [Asmat, Cicak, Citak Asmat, Kaunak, Tjitak, Tjitjak]
 population: 8000

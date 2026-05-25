@@ -1,6 +1,8 @@
 ---
 iso: gne
 name: Ganang
+name_zh: 加南语
+name_zh_auto: true
 autonym: Afusare
 alt_names: [Gangang, Gashish]
 population: 3000

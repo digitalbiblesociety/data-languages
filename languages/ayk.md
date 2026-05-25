@@ -1,6 +1,8 @@
 ---
 iso: ayk
 name: Akuku
+name_zh: 阿库库语
+name_zh_auto: true
 autonym: null
 population: null
 country_id: NG

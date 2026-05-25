@@ -1,6 +1,8 @@
 ---
 iso: tyx
 name: "Teke-Tyee"
+name_zh: 特克-蒂伊语
+name_zh_auto: true
 autonym: West Teke
 population: 14400
 country_id: CG

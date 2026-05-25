@@ -1,6 +1,8 @@
 ---
 iso: bcz
 name: "Bainouk-Gunyaamolo"
+name_zh: 拜努克-古尼亚莫罗语
+name_zh_auto: true
 autonym: Bainouk
 alt_names: [Bagnoun, Bainuk, Bainuko-gunyaamolo, Banhum, Banyuk, Banyum, Banyun, Banyung, Elomay, Elunay, Gunyaamolo, Guñaamolo, Niamone, Ñuñ]
 population: 30000

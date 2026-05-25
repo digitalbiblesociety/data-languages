@@ -1,6 +1,8 @@
 ---
 iso: tak
 name: Tala
+name_zh: 塔拉语
+name_zh_auto: true
 autonym: null
 alt_names: [Gurdu-mbaaru, Gurdung, Guruntum, Guruntum-Mbaaru]
 population: 1000

@@ -1,6 +1,8 @@
 ---
 iso: btp
 name: Budibud
+name_zh: 布迪布德语
+name_zh_auto: true
 autonym: null
 alt_names: [Nada]
 population: 310

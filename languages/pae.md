@@ -1,6 +1,8 @@
 ---
 iso: pae
 name: Pagibete
+name_zh: 帕吉贝特语
+name_zh_auto: true
 autonym: Apagibete
 alt_names: [Apagibeti, Apakabeti, Apakibeti, Pagabete]
 population: 28000

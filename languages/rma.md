@@ -1,6 +1,8 @@
 ---
 iso: rma
 name: Rama
+name_zh: 拉玛语
+name_zh_auto: true
 autonym: Rama
 alt_names: [Arama, Arrama, Boto, Melchora, Voto]
 population: 900

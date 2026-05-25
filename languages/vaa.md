@@ -1,6 +1,8 @@
 ---
 iso: vaa
 name: Vaagri Booli
+name_zh: 瓦格里-布利语
+name_zh_auto: true
 autonym: Hakkipikki
 alt_names: [Guvvalollu, Haki Piki, Hakkipikkaru, Karikkorava, Kuruvikkaran, Marattiyan, Narakureavar, Narikkorava, Rattiyan, Shikarijanam, Wogri Boli]
 population: 12000

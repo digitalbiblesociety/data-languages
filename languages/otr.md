@@ -1,6 +1,8 @@
 ---
 iso: otr
 name: Otoro
+name_zh: 奥托罗语
+name_zh_auto: true
 autonym: Utoro
 alt_names: [Dhitoro, Kawama, Kawarma, Litoro]
 population: 10000

@@ -1,6 +1,8 @@
 ---
 iso: xwa
 name: Kwaza
+name_zh: 夸扎语
+name_zh_auto: true
 autonym: Koaiá
 alt_names: [Arara, Koaia, Koayá, Koiyá, Quaiá]
 population: 54

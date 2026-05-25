@@ -1,6 +1,8 @@
 ---
 iso: nlw
 name: Walangama
+name_zh: 瓦兰加马语
+name_zh_auto: true
 autonym: Boogoolmurra
 population: null
 country_id: AU

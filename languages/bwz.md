@@ -1,6 +1,8 @@
 ---
 iso: bwz
 name: Bwisi
+name_zh: 布伊西语
+name_zh_auto: true
 autonym: Ibwisi
 alt_names: [Mbwisi, Talinga-bwisi]
 population: 3020

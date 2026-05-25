@@ -1,6 +1,8 @@
 ---
 iso: tmf
 name: "Toba-Maskoy"
+name_zh: 托巴-玛斯科伊语
+name_zh_auto: true
 autonym: Toba
 alt_names: [Cabanatit, Cabanatith, Emok, Enenlhet, Enenlhet apayvoma, Enenlhit, Machicui, Mascoi, Mascoy, Maskoi, Quilyilhrayrom, Toba of Paraguay, Toba-Emok, Toba-mascói, Tujetge]
 population: 1260

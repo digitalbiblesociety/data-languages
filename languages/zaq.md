@@ -1,6 +1,8 @@
 ---
 iso: zaq
 name: Aloápam Zapotec
+name_zh: 阿洛阿帕姆-萨波特克语
+name_zh_auto: true
 autonym: "Zapoteco, Aloápam"
 alt_names: [Aloapam Zapotec, Ixtlan, Ixtlán, Ixtlán Zapoteco, Northern Sapoteko, Serrano, Sierra de Juarez, Sierra de Juárez, Sierra de Juárez Zapotec, Zapotec, Zapotec (Juárez), "Zapotec, Aloápam", Zapoteco ( Juarez Sierra), Zapoteco de Aloápam, Zapoteco de Atepec]
 population: 3400

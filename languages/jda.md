@@ -1,6 +1,8 @@
 ---
 iso: jda
 name: Jad
+name_zh: 贾德语
+name_zh_auto: true
 autonym: Dzad
 alt_names: [Bhotia]
 population: 300

@@ -1,6 +1,8 @@
 ---
 iso: plu
 name: Palikúr
+name_zh: 帕利库尔语
+name_zh_auto: true
 autonym: Karipuna
 alt_names: [Paikwene, Palicur, Palijur, Palikour, Palikr, Palikur, Palikur (Brésil), Palikur (Guayana Francesa), Palikur (Guyane Française), Palincur, Paricores, Paricuria, Parikurene, Parinkur-lene]
 population: 1540

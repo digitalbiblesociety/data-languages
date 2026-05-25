@@ -1,6 +1,8 @@
 ---
 iso: enx
 name: Enxet
+name_zh: 恩克塞特语
+name_zh_auto: true
 autonym: Énxet nempeywa
 alt_names: [Chánepyeyam, Enhlit, Enlhit, Enlhit Nipiyam, Enxet Sur, Lengua, Lengua Sur, Southern Lengua]
 population: 3840

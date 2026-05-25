@@ -1,6 +1,8 @@
 ---
 iso: cji
 name: Chamalal
+name_zh: 查马拉尔语
+name_zh_auto: true
 autonym: чамалалдуб мичIчI (çamalaldub miçʿçʿ)
 alt_names: [Camalal, Chamali  чамалинский язык, Chamalin, Język czamalalski, Tchamalaleg, Tšamalalin kieli, çamalaldub miçʿçʿ, Чамалинский язык, Чамалинська мова, чамалалдуб мичIчI, ჭამალალური ენა]
 population: 5000

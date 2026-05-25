@@ -1,6 +1,8 @@
 ---
 iso: lup
 name: Lumbu
+name_zh: 龙布语
+name_zh_auto: true
 autonym: Ilumbu
 alt_names: [Baloumbou]
 population: 19700

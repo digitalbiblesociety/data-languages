@@ -1,6 +1,8 @@
 ---
 iso: wbb
 name: Wabo
+name_zh: 瓦博语
+name_zh_auto: true
 autonym: Woriasi
 alt_names: [Nusari]
 population: 1500

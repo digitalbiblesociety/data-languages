@@ -1,6 +1,8 @@
 ---
 iso: bgi
 name: Giangan
+name_zh: 吉安根语
+name_zh_auto: true
 autonym: Klata
 alt_names: [Atto, Bagaba, Bagobo, Bakhtiari, Clata, Eto, Guanga, Gulanga, Jangan]
 population: 58500

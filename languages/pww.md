@@ -1,6 +1,8 @@
 ---
 iso: pww
 name: Pwo Northern Karen
+name_zh: 普沃北部卡伦语
+name_zh_auto: true
 autonym: "Karen Pwo, Northern"
 alt_names: [Karen, "Karen, Pwo Northern", "Karen,PwoNorthern", Phlon, Phlong, Pho (Pwo), Pwo Karen, Pwo Northern]
 population: 60000

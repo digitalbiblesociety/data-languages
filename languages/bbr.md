@@ -1,6 +1,8 @@
 ---
 iso: bbr
 name: Girawa
+name_zh: 吉拉瓦语
+name_zh_auto: true
 autonym: Bagasin
 alt_names: [Begasin, Begesin]
 population: 3630

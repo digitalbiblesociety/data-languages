@@ -1,6 +1,8 @@
 ---
 iso: kax
 name: Kao
+name_zh: 卡奥语
+name_zh_auto: true
 autonym: Kau
 alt_names: ["Ka'u"]
 population: 400

@@ -1,6 +1,8 @@
 ---
 iso: muv
 name: Muthuvan
+name_zh: 穆图瓦语
+name_zh_auto: true
 autonym: முதுவன்
 alt_names: [Mudavan, Mudugar, Muduvan, Muduvar, Mutuvar]
 population: 16800

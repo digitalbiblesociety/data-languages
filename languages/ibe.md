@@ -1,6 +1,8 @@
 ---
 iso: ibe
 name: Akpes
+name_zh: 阿克佩斯语
+name_zh_auto: true
 autonym: Abesabesi
 alt_names: [Akpes jezici, Akpeseg, Ibaram-Efifa, Lenga Akpes, Lingua akpes]
 population: 10000

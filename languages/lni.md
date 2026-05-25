@@ -1,6 +1,8 @@
 ---
 iso: lni
 name: "Daantanai'"
+name_zh: 达昂塔那伊语
+name_zh_auto: true
 autonym: Daantanai’
 alt_names: [Lantanai]
 population: 600

@@ -1,6 +1,8 @@
 ---
 iso: gwd
 name: Gawwada
+name_zh: 高瓦达语
+name_zh_auto: true
 autonym: Gauwada
 alt_names: [Dullay, Dullay (Gollango), Gawata, Gawwada hizkuntza, Gobeze, Golango, Gowase, "Kawwad'a", Kawwada, Orase, W. Bussa, Welango]
 population: 84300

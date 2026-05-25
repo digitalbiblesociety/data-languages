@@ -1,6 +1,8 @@
 ---
 iso: gym
 name: Ngäbere
+name_zh: 恩盖贝雷语
+name_zh_auto: true
 autonym: Movere
 alt_names: [Chiriqui, Guaymi, Guaymí, Guaymí (Ngäbere), Guaymí (Panamá), Idioma ngäbere, Mobe, Move, Mycenaean Linear B, Ngabere, Ngawbere, Ngobere, Ngäbere (Costa Rica), Ngäbere (Panama), Norteño, Penonomeño, Valiente, Waymiyi simi, gymimí]
 population: 171840

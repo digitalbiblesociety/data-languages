@@ -1,6 +1,8 @@
 ---
 iso: sui
 name: Suki
+name_zh: 苏基语
+name_zh_auto: true
 autonym: Wiram
 alt_names: [Suki jezik]
 population: 3510

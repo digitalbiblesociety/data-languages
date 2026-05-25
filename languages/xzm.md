@@ -1,6 +1,8 @@
 ---
 iso: xzm
 name: Zemgalian
+name_zh: 泽姆加利亚语
+name_zh_auto: true
 autonym: Zemgalian
 population: null
 country_id: LV

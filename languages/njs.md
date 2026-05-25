@@ -1,6 +1,8 @@
 ---
 iso: njs
 name: Nisa
+name_zh: 尼萨语
+name_zh_auto: true
 autonym: "Nisa-Anasi"
 alt_names: [Bonefa, Kerema]
 population: 500

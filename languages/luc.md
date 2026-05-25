@@ -1,6 +1,8 @@
 ---
 iso: luc
 name: Aringa
+name_zh: 阿林加语
+name_zh_auto: true
 autonym: Low Lugbara
 alt_names: [Aringeg, Арингаски јазик]
 population: 495000

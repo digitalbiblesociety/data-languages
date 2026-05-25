@@ -1,6 +1,8 @@
 ---
 iso: nka
 name: Nkoya
+name_zh: 恩科亚语
+name_zh_auto: true
 autonym: Shinkoya
 population: 36200
 country_id: ZM

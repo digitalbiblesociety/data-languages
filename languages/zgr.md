@@ -1,6 +1,8 @@
 ---
 iso: zgr
 name: Magori
+name_zh: 玛戈里语
+name_zh_auto: true
 autonym: null
 alt_names: [Yoba]
 population: 100

@@ -1,6 +1,8 @@
 ---
 iso: byc
 name: Ubaghara
+name_zh: 乌巴加拉语
+name_zh_auto: true
 autonym: null
 population: 24000
 country_id: NG

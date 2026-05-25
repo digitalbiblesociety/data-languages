@@ -1,6 +1,8 @@
 ---
 iso: mrb
 name: Marino
+name_zh: 玛里诺语
+name_zh_auto: true
 autonym: Marino
 alt_names: [Naone, North Maewo, Sunwadia, Suñwadia]
 population: 1400

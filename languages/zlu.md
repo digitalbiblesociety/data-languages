@@ -1,6 +1,8 @@
 ---
 iso: zlu
 name: Zul
+name_zh: 祖尔语
+name_zh_auto: true
 autonym: Barawa
 alt_names: [Barma, Bi Zule, Mbarmi, Zulawa, Zull, Zùl]
 population: 4000

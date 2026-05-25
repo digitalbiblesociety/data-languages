@@ -1,6 +1,8 @@
 ---
 iso: kpu
 name: Kafoa
+name_zh: 卡福阿语
+name_zh_auto: true
 autonym: Jafoo
 alt_names: [Afoa, Aikoli, Fanating, Pailelang, Ruilak]
 population: 1000

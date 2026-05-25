@@ -1,6 +1,8 @@
 ---
 iso: ajs
 name: Algerian Jewish Sign Language
+name_zh: 阿尔及利亚犹太手语
+name_zh_auto: true
 autonym: שפת הסימנים הע׳רדאית
 country_id: DZ
 country_name: Algeria

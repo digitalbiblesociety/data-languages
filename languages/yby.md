@@ -1,6 +1,8 @@
 ---
 iso: yby
 name: Yaweyuha
+name_zh: 亚韦尤哈语
+name_zh_auto: true
 autonym: null
 alt_names: [Yabiyufa, Yawiyuha]
 population: 2340

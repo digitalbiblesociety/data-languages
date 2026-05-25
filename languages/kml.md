@@ -1,6 +1,8 @@
 ---
 iso: kml
 name: Tanudan Kalinga
+name_zh: 塔努丹卡林加语
+name_zh_auto: true
 autonym: Lower Tanudan
 alt_names: ["Kalinga, Lower Tanudan", "Kalinga, Tanudan", Lower Tanudan Kalinga]
 population: 11200

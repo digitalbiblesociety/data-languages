@@ -1,6 +1,8 @@
 ---
 iso: kxf
 name: Manumanaw Karen
+name_zh: 玛努玛瑙卡伦语
+name_zh_auto: true
 autonym: Kayah
 alt_names: ["Karen, Manumanaw", "Karen,Manumanaw", Mano, Manu, Manumanaw, Manö, Monu]
 population: 10000

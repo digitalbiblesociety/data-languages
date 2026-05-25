@@ -1,6 +1,8 @@
 ---
 iso: tnh
 name: Maiani
+name_zh: 迈亚尼语
+name_zh_auto: true
 autonym: Tani
 alt_names: [Banara, Maiari, Miani South, Wagimuda]
 population: 3040

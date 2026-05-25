@@ -1,6 +1,8 @@
 ---
 iso: mrm
 name: Merlav
+name_zh: 梅拉夫语
+name_zh_auto: true
 autonym: Merelava
 alt_names: [Banks-Inseln, Merlav-Merig, Mwerlap]
 population: 1550

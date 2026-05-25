@@ -1,6 +1,8 @@
 ---
 iso: tyj
 name: Tai Do
+name_zh: 泰多语
+name_zh_auto: true
 autonym: Tay Muoi
 alt_names: [Tai Yo, Tay Quy Chau, Tay Yo, Tay-Jo]
 population: 300

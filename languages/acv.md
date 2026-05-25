@@ -1,6 +1,8 @@
 ---
 iso: acv
 name: Achumawi
+name_zh: 阿楚马维语
+name_zh_auto: true
 autonym: Achomawi
 alt_names: ["Achoma'wi", Achoumawieg, Achowawi, Lingua achumawi, Pitt River]
 population: 1000

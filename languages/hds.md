@@ -1,6 +1,8 @@
 ---
 iso: hds
 name: Honduras Sign Language
+name_zh: 洪都拉斯手语
+name_zh_auto: true
 autonym: Honduran Sign Language
 alt_names: [LESHO, Língua Gestual das Honduras]
 population: 40000

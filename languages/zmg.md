@@ -1,6 +1,8 @@
 ---
 iso: zmg
 name: Marti Ke
+name_zh: 马蒂克语
+name_zh_auto: true
 autonym: Matige
 alt_names: [Madige, Magadige, Magati Gair, Magati Ke, Magati-Ge, Magatige, Marri-ge, Marrige, Mati Ke, Muringair, Murrinh Ke, Murrinh-ge]
 population: 100

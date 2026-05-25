@@ -1,6 +1,8 @@
 ---
 iso: asz
 name: As
+name_zh: 阿什语
+name_zh_auto: true
 autonym: null
 population: 230
 country_id: ID

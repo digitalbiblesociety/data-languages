@@ -1,6 +1,8 @@
 ---
 iso: tnc
 name: "Tanimuca-Retuarã"
+name_zh: 塔尼穆卡-瑞图亚拉语
+name_zh_auto: true
 autonym: Wejeñememajã oka y Ũp̵airã oka
 alt_names: [Letuama, Letuhama, Retuama, Retuarã, Tanimuca, Tanimuca-Letuama, Tanimuca-Retuar, Tanimuca-Retuara, Uairã, Ufaina]
 population: 1800

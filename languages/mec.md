@@ -1,6 +1,8 @@
 ---
 iso: mec
 name: Marra
+name_zh: 玛拉语
+name_zh_auto: true
 autonym: Marranbala
 alt_names: [Leelalwarra, Leelawarra, Maarra, Mala, Mara]
 population: 5

@@ -1,6 +1,8 @@
 ---
 iso: sdu
 name: Sarudu
+name_zh: 萨鲁杜语
+name_zh_auto: true
 autonym: "Doda'"
 population: 4000
 country_id: ID

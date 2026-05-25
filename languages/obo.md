@@ -1,6 +1,8 @@
 ---
 iso: obo
 name: Obo Manobo
+name_zh: 奥博马诺博语
+name_zh_auto: true
 autonym: Obo Manobo
 alt_names: [Bagobo, Kidapawan Manobo, "Manobo, Obo", Obo Bagobo]
 population: 60000

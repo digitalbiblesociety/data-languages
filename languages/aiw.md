@@ -1,6 +1,8 @@
 ---
 iso: aiw
 name: Aari
+name_zh: 阿里语
+name_zh_auto: true
 autonym: Aarai
 alt_names: [Aari jezik, Aarin kieli, Ara, Ari, Ari-Galila, Aro, Bako, Boko, Idioma arí, Lingua aari, Luenga aari, لغة آري]
 population: 285000

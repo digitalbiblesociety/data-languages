@@ -1,6 +1,8 @@
 ---
 iso: dyl
 name: Bhutanese Sign Language
+name_zh: 不丹手语
+name_zh_auto: true
 autonym: Drukgi Lagdai Khakay
 country_id: BT
 country_name: Bhutan

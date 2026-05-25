@@ -1,6 +1,8 @@
 ---
 iso: stu
 name: Samtao
+name_zh: 萨姆陶语
+name_zh_auto: true
 autonym: Pulang
 alt_names: [Angku, Samtau, Samtuan, Āng-kú]
 population: 9550

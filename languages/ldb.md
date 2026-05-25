@@ -1,6 +1,8 @@
 ---
 iso: ldb
 name: Dũya
+name_zh: 杜亚语
+name_zh_auto: true
 autonym: Dũya
 alt_names: [Adong, Idun, Lungu, Ungu]
 population: 78000

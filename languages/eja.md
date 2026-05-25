@@ -1,6 +1,8 @@
 ---
 iso: eja
 name: Ejamat
+name_zh: 埃贾马特语
+name_zh_auto: true
 autonym: "Jola-Felupe"
 alt_names: [Ediamat, Eyamat, Feloup, Felup, Felupe, Floup, Flup, Fulup]
 population: 8230

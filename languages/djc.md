@@ -1,6 +1,8 @@
 ---
 iso: djc
 name: Dar Daju Daju
+name_zh: 达尔达朱达朱语
+name_zh_auto: true
 autonym: Daju
 alt_names: [Dadjo, Dadju, Dagu of Dar Dagu, Dajo, Dajou, Daju Mongo, Daju Oum Hadjer, "Daju, Dar Daju", Mongo, Saaronge, Wadai]
 population: 60000

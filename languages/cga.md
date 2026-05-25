@@ -1,6 +1,8 @@
 ---
 iso: cga
 name: Changriwa
+name_zh: 昌日瓦语
+name_zh_auto: true
 autonym: null
 population: 690
 country_id: PG

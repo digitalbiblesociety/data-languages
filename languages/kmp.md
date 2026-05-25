@@ -1,6 +1,8 @@
 ---
 iso: kmp
 name: Gimme
+name_zh: 吉梅语
+name_zh_auto: true
 autonym: Koma Kompana
 alt_names: [Gimma, Kompana, Kompara, Panbe]
 population: 3000

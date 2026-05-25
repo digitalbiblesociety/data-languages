@@ -1,6 +1,8 @@
 ---
 iso: upv
 name: "Uripiv-Wala-Rano-Atchin"
+name_zh: 乌里皮夫-瓦拉-拉诺-阿其金语
+name_zh_auto: true
 autonym: "Uripiv-Wala-Rano-Atchin"
 alt_names: [Atchin, Idioma uripiv, Malekula, Mallicolo, Uripiv language]
 population: 9000

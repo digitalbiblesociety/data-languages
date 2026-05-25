@@ -1,6 +1,8 @@
 ---
 iso: pda
 name: Anam
+name_zh: 阿纳姆语
+name_zh_auto: true
 autonym: Pondoma
 population: 1070
 country_id: PG

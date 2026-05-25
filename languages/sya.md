@@ -1,6 +1,8 @@
 ---
 iso: sya
 name: Siang
+name_zh: 西昂语
+name_zh_auto: true
 autonym: Ot Siang
 population: 60000
 country_id: ID

@@ -1,6 +1,8 @@
 ---
 iso: mfc
 name: Mba
+name_zh: 姆巴语
+name_zh_auto: true
 autonym: Kimanga
 alt_names: [Bamanga, Kimbanga, Manga, Mbane]
 population: 36100

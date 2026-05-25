@@ -1,6 +1,8 @@
 ---
 iso: kav
 name: Katukína
+name_zh: 卡图基纳语
+name_zh_auto: true
 autonym: "Katukina-Kanamari"
 population: 289
 country_id: BR

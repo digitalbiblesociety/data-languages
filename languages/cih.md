@@ -1,6 +1,8 @@
 ---
 iso: cih
 name: Chinali
+name_zh: 奇纳利语
+name_zh_auto: true
 autonym: chinali
 alt_names: [Chana, Channali, Chinal, Dagi, Harijan, Shipi]
 population: 750

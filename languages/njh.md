@@ -1,6 +1,8 @@
 ---
 iso: njh
 name: Lotha Naga
+name_zh: 洛撒纳加语
+name_zh_auto: true
 autonym: Chizima
 alt_names: [Choimi, Hlota, Kantsii, Kyon, Kyong, Kyontsü, Kyõ, Lhota, Lota, Lotaeg, Lotha, Lotha language, Lutha, Miklai, Naga, Naga (Lotha), "Naga, Lotha", "Naga,Lotha", Tsindir, Tsontsii, Tsōntsü, ภาษาโลทา]
 population: 179000

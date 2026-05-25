@@ -1,6 +1,8 @@
 ---
 iso: rea
 name: Rerau
+name_zh: 雷劳语
+name_zh_auto: true
 autonym: null
 population: 590
 country_id: PG

@@ -1,6 +1,8 @@
 ---
 iso: eiv
 name: Askopan
+name_zh: 阿斯科潘语
+name_zh_auto: true
 autonym: Eivo
 population: 1200
 country_id: PG

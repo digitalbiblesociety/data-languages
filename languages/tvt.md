@@ -1,6 +1,8 @@
 ---
 iso: tvt
 name: Tutsa Naga
+name_zh: 图萨纳加语
+name_zh_auto: true
 autonym: Totcha
 alt_names: ["Naga, Tutsa", "Naga,Tutsa", Tutsa]
 population: 25000

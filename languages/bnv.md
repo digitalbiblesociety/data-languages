@@ -1,6 +1,8 @@
 ---
 iso: bnv
 name: Bonerif
+name_zh: 博内里夫语
+name_zh_auto: true
 autonym: Boneraf
 alt_names: [Beneraf, Edwas]
 population: 200

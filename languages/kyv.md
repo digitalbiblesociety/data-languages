@@ -1,6 +1,8 @@
 ---
 iso: kyv
 name: Kayort
+name_zh: 卡约尔特语
+name_zh_auto: true
 autonym: "केवट, कयोर्ट"
 population: 22000
 country_id: NP

@@ -1,6 +1,8 @@
 ---
 iso: akc
 name: Mpur
+name_zh: 姆普尔语
+name_zh_auto: true
 autonym: Amberbaken
 alt_names: [Dekwambre, Ekware, Kebar]
 population: 7000

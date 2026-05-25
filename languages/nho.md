@@ -1,6 +1,8 @@
 ---
 iso: nho
 name: Takuu
+name_zh: 塔库语
+name_zh_auto: true
 autonym: null
 alt_names: [Gagana Takuu, Mortlock, Taku, Tau, Tauu]
 population: 1750

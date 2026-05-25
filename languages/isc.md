@@ -1,6 +1,8 @@
 ---
 iso: isc
 name: Isconahua
+name_zh: 伊斯科纳瓦语
+name_zh_auto: true
 autonym: Iscobaquebo (iskobakebo)
 alt_names: [Iscobakebo, Iscobaquebu, Iskonawa]
 population: 82

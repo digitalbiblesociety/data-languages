@@ -1,6 +1,8 @@
 ---
 iso: mwm
 name: Sar
+name_zh: 萨尔语
+name_zh_auto: true
 autonym: Madjingay
 alt_names: [Sara, Sara Madjingay]
 population: 183000

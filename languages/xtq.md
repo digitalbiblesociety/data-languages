@@ -1,6 +1,8 @@
 ---
 iso: xtq
 name: Tumshuqese
+name_zh: 图姆舒克语
+name_zh_auto: true
 autonym: 𑀕𑁆𑀬𑀸𑀰𑁆𑀤𑀺
 alt_names: [Tumshuqese Sakan]
 population: null

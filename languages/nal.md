@@ -1,6 +1,8 @@
 ---
 iso: nal
 name: Nalik
+name_zh: 那利克语
+name_zh_auto: true
 autonym: Fesoa
 alt_names: [Fessoa, Lugagon, Neu-Mecklenburg]
 population: 5140

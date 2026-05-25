@@ -1,6 +1,8 @@
 ---
 iso: bbg
 name: Barama
+name_zh: 巴拉玛语
+name_zh_auto: true
 autonym: Barama
 alt_names: [Bavarama, Ghibarama, Gibarama, Yibarambu]
 population: 6000

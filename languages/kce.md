@@ -1,6 +1,8 @@
 ---
 iso: kce
 name: Kaivi
+name_zh: 卡依维语
+name_zh_auto: true
 autonym: Kaibi
 population: 2320
 country_id: NG

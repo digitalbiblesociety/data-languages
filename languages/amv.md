@@ -1,6 +1,8 @@
 ---
 iso: amv
 name: Ambelau
+name_zh: 安贝劳语
+name_zh_auto: true
 autonym: Bahasa Ambelau
 alt_names: [Amblau]
 population: 5700

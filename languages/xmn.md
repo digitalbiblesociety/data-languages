@@ -1,6 +1,8 @@
 ---
 iso: xmn
 name: Manichaean Middle Persian
+name_zh: 摩尼教中期波斯语
+name_zh_auto: true
 autonym: "𐭯𐭠𐭫𐭮𐭩𐭪 (, )"
 alt_names: ["Persian, Manichaean Middle"]
 population: null

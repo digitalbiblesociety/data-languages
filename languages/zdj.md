@@ -1,6 +1,8 @@
 ---
 iso: zdj
 name: Ngazidja Comorian
+name_zh: 恩加齐迪亚-科莫里亚语
+name_zh_auto: true
 autonym: shikomori/شِكُمُرِ
 alt_names: ["Comorian, Ngazidja", Ngazidja, Shingazidja]
 population: 412000

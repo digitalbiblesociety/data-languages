@@ -1,6 +1,8 @@
 ---
 iso: dkk
 name: Dakka
+name_zh: 达卡语
+name_zh_auto: true
 autonym: bahasa Dakka
 alt_names: [Nordost-Celebes]
 population: 1500

@@ -1,6 +1,8 @@
 ---
 iso: bex
 name: Jur Modo
+name_zh: 朱尔莫多语
+name_zh_auto: true
 autonym: Jur
 alt_names: [Jur Mödö, Modo, Morokodo, Mödö]
 population: 180000

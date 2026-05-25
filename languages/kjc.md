@@ -1,6 +1,8 @@
 ---
 iso: kjc
 name: Coastal Konjo
+name_zh: 沿海孔若语
+name_zh_auto: true
 autonym: Kondjo
 alt_names: [Konjo, Konjo (Coastal), "Konjo, Coastal", Makassarese, Tana, Tiro]
 population: 10000

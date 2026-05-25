@@ -1,6 +1,8 @@
 ---
 iso: hov
 name: Hovongan
+name_zh: 霍冯甘语
+name_zh_auto: true
 autonym: Punan Bungan
 population: 1000
 country_id: ID

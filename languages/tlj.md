@@ -1,6 +1,8 @@
 ---
 iso: tlj
 name: "Talinga-Bwisi"
+name_zh: 塔林加-布威西语
+name_zh_auto: true
 autonym: Bwisi
 alt_names: [Bwissi, Kitalinga, Lubwisi, Lubwissi, Mawissi, Olubwisi, Talinga, Talinge]
 population: 131900

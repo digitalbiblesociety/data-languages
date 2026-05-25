@@ -1,6 +1,8 @@
 ---
 iso: bll
 name: Biloxi
+name_zh: 比洛克西语
+name_zh_auto: true
 autonym: Tanêksąyaa ade
 alt_names: [Biloxi language]
 population: null

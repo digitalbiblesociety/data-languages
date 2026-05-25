@@ -1,6 +1,8 @@
 ---
 iso: gac
 name: Mixed Great Andamanese
+name_zh: 混合大安达曼语
+name_zh_auto: true
 autonym: "Aka-Jeru"
 alt_names: ["Great Andamanese, Mixed"]
 population: null

@@ -1,6 +1,8 @@
 ---
 iso: kic
 name: Kickapoo
+name_zh: 基卡普语
+name_zh_auto: true
 autonym: "Meskwaki-Sauk-Kickapoo"
 alt_names: [Kickapoo (Kansas), Kickapoo (Mexique), Kickapoo (Oklahoma), Kickapoo (Texas), Kikapoo, Kikapú, Quicapú (Texas)]
 population: 1120

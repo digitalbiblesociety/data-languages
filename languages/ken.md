@@ -1,6 +1,8 @@
 ---
 iso: ken
 name: Kenyang
+name_zh: 肯扬语
+name_zh_auto: true
 autonym: Nyang
 alt_names: [Banjangi, Banyang, Banyangi, Bayangi, "Lower Kenyang, Upper Kenyang", Manyang]
 population: 65000

@@ -1,6 +1,8 @@
 ---
 iso: bqq
 name: Biritai
+name_zh: 比里泰语
+name_zh_auto: true
 autonym: Aliki
 alt_names: [Ati, Biri]
 population: 250

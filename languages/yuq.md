@@ -1,6 +1,8 @@
 ---
 iso: yuq
 name: Yuqui
+name_zh: 尤基语
+name_zh_auto: true
 autonym: Mbia chẽẽ
 alt_names: [Bia, Yuki, Yuquí, Yúki, mbiá]
 population: 120

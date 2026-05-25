@@ -1,6 +1,8 @@
 ---
 iso: bbb
 name: Barai
+name_zh: 巴拉伊语
+name_zh_auto: true
 autonym: null
 population: 3500
 country_id: PG

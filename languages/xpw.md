@@ -1,6 +1,8 @@
 ---
 iso: xpw
 name: "Northwestern Tasmanian\r"
+name_zh: 西北塔斯马尼亚语
+name_zh_auto: true
 autonym: Northwestern Tasmanian
 alt_names: [Peerapper, "Tasmanian, Northwestern"]
 population: null

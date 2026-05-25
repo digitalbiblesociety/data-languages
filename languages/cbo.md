@@ -1,6 +1,8 @@
 ---
 iso: cbo
 name: Izora
+name_zh: 伊佐拉语
+name_zh_auto: true
 autonym: Izora
 alt_names: [Azora, Chikobo, Chokobo, Cikobu, Cokobanci, Cokobo, Zora]
 population: 1500

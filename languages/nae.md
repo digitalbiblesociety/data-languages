@@ -1,6 +1,8 @@
 ---
 iso: nae
 name: "Naka'ela"
+name_zh: 纳卡埃拉语
+name_zh_auto: true
 autonym: Naka’ela
 population: null
 country_id: ID

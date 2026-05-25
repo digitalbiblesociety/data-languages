@@ -1,6 +1,8 @@
 ---
 iso: ulk
 name: Meriam Mir
+name_zh: 梅里亚姆-米尔语
+name_zh_auto: true
 autonym: Eastern Torres Strait
 alt_names: [Boigu, Buibatyalli, East Torres, Errob, Erub, Garamir, Gaurareg, Maer, Maralaig, Mer, Meriam, Meriam language, Meryam, Meryam Mir, Mir, Miriam, Miriam-Mir, Morolag, Sabai, Saibai, Tagota, Torres Strait Islander language, Torres Strait Islander people, Ugar]
 population: 220

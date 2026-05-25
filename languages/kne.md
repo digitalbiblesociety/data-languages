@@ -1,6 +1,8 @@
 ---
 iso: kne
 name: Kankanaey
+name_zh: 坎卡内语
+name_zh_auto: true
 autonym: "Kankana-ey"
 alt_names: [Central Kankanaey, Kankanai, Kankanay, Kankanay (Central)]
 population: 261000

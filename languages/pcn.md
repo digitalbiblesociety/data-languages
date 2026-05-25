@@ -1,6 +1,8 @@
 ---
 iso: pcn
 name: Piti
+name_zh: 皮蒂语
+name_zh_auto: true
 autonym: Bishi
 alt_names: [Abisi, Bisi, Pitti]
 population: 5530

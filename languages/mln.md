@@ -1,6 +1,8 @@
 ---
 iso: mln
 name: Malango
+name_zh: 玛兰戈语
+name_zh_auto: true
 autonym: Teha
 alt_names: [Guadalcanar, Südliche Salomons-Inseln]
 population: 4140

@@ -1,6 +1,8 @@
 ---
 iso: oak
 name: Noakhali
+name_zh: 诺瓦克哈利语
+name_zh_auto: true
 autonym: নোয়াখাইল্লা
 alt_names: [Noakhailla]
 population: 70

@@ -1,6 +1,8 @@
 ---
 iso: bzh
 name: Mapos Buang
+name_zh: 马波斯布昂语
+name_zh_auto: true
 autonym: Central Buang
 alt_names: ["Buang, Mapos", Mapos]
 population: 7000

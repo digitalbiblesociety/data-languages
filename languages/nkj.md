@@ -1,6 +1,8 @@
 ---
 iso: nkj
 name: Nakai
+name_zh: 纳凯语
+name_zh_auto: true
 autonym: "Na'ai"
 alt_names: ["Na'i", Nagai, Na’ai, Na’i]
 population: 700

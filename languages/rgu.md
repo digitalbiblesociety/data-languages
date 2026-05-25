@@ -1,6 +1,8 @@
 ---
 iso: rgu
 name: Ringgou
+name_zh: 林古语
+name_zh_auto: true
 autonym: Rikou
 alt_names: [Eastern Rote, Rote, Rote Timur, Roti, Rotinese, Rotti]
 population: 12000

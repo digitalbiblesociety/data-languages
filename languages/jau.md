@@ -1,6 +1,8 @@
 ---
 iso: jau
 name: Yaur
+name_zh: 亚乌尔语
+name_zh_auto: true
 autonym: Jaur
 population: 350
 country_id: ID

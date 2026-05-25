@@ -1,6 +1,8 @@
 ---
 iso: bwh
 name: Bishuo
+name_zh: 比舒奥语
+name_zh_auto: true
 autonym: Biyam
 alt_names: [Furu]
 population: null

@@ -1,6 +1,8 @@
 ---
 iso: slc
 name: Sáliba
+name_zh: 萨利巴语
+name_zh_auto: true
 autonym: Sáliva
 alt_names: [Saliba, Saliva, Sáliba (in Colombia)]
 population: 1310

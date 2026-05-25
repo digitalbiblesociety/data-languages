@@ -1,6 +1,8 @@
 ---
 iso: toh
 name: Gitonga
+name_zh: 吉通加语
+name_zh_auto: true
 autonym: "Tonga-Inhambane"
 alt_names: [Bitonga, Inhambane, Shengwe, Tonga]
 population: 327000

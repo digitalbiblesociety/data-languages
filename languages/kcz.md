@@ -1,6 +1,8 @@
 ---
 iso: kcz
 name: Konongo
+name_zh: 科农戈语
+name_zh_auto: true
 autonym: Kikonongo
 population: 51000
 country_id: TZ

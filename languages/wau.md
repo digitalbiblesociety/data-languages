@@ -1,6 +1,8 @@
 ---
 iso: wau
 name: Waurá
+name_zh: 瓦乌拉语
+name_zh_auto: true
 autonym: Aura
 alt_names: [Mahinacu, Mehinakú, Mehináku, Uara, Uaura, Uaurá, Wauja, Waura, Waurá-Meinaku, Xinguan Group]
 population: 320

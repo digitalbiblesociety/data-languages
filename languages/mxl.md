@@ -1,6 +1,8 @@
 ---
 iso: mxl
 name: Maxi Gbe
+name_zh: 玛克西格贝语
+name_zh_auto: true
 autonym: fɔ̀ngbè/fõbè
 alt_names: ["Gbe, Maxi", Mahi, Maxi, Maxi-Gbe]
 population: 401000

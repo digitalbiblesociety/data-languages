@@ -1,6 +1,8 @@
 ---
 iso: ggk
 name: Kungarakany
+name_zh: 昆加拉卡尼语
+name_zh_auto: true
 autonym: Gungaragany
 alt_names: [Cunerakan, Gundrakan, Gunerakan, Gungaragan, Gungaraganj, Gungarakanj, Gungarakayn, Kangarraga, Kangarranga, Koongurrukuñ, Kumerakainj, Kungarakan, Kungarakayn, Ungnakan, Warnunger]
 population: null

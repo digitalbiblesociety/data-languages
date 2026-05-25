@@ -1,6 +1,8 @@
 ---
 iso: ktc
 name: Kholok
+name_zh: 克霍洛克语
+name_zh_auto: true
 autonym: Kode
 alt_names: [Koode, Kwoode, Pia, Pitiko, Piya, Widala, Wurkum]
 population: 2500

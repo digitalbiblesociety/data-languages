@@ -1,6 +1,8 @@
 ---
 iso: mkz
 name: Makasae
+name_zh: 玛卡塞语
+name_zh_auto: true
 autonym: "Ma'asae"
 alt_names: [Idioma makasae, Macassai, Makasai, Makassai, ภาษามากาแซ, 마카사이어]
 population: 145000

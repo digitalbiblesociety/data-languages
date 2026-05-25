@@ -1,6 +1,8 @@
 ---
 iso: bva
 name: Barein
+name_zh: 巴雷因语
+name_zh_auto: true
 autonym: Baraïn
 alt_names: [Barain, Guilia, Jalkia]
 population: 4100

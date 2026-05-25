@@ -1,6 +1,8 @@
 ---
 iso: oin
 name: Inebu One
+name_zh: 因内布翁语
+name_zh_auto: true
 autonym: Aunalei
 alt_names: [Inebu, Kabore One, Kuamtim, Kwamtim One, Molmo One, Northern One, One, "One, Inebu", Onele, Oni, Southern One]
 population: 1300

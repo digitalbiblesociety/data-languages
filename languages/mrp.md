@@ -1,6 +1,8 @@
 ---
 iso: mrp
 name: Morouas
+name_zh: 莫鲁阿斯语
+name_zh_auto: true
 autonym: Morouas
 alt_names: [Ko, Mores, Moruas]
 population: 150

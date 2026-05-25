@@ -1,6 +1,8 @@
 ---
 iso: lot
 name: Otuho
+name_zh: 奥图霍语
+name_zh_auto: true
 autonym: Lotuko
 alt_names: [Latooka, Lattuka, Latuka, Latuko, Lotoukoeg, Lotuho, Lotuka, Lotuxo, Lowudo, Olotorit, Otuxo]
 population: 312000

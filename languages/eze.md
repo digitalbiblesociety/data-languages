@@ -1,6 +1,8 @@
 ---
 iso: eze
 name: Uzekwe
+name_zh: 乌泽夸语
+name_zh_auto: true
 autonym: Uzekwe
 alt_names: [Ezekwe]
 population: 5000

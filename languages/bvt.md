@@ -1,6 +1,8 @@
 ---
 iso: bvt
 name: Bati (Indonesia)
+name_zh: 巴蒂语（印度尼西亚）
+name_zh_auto: true
 autonym: Gah
 alt_names: [Bati]
 population: 3500

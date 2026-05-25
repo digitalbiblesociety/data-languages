@@ -1,6 +1,8 @@
 ---
 iso: gbh
 name: Defi Gbe
+name_zh: 德菲格贝语
+name_zh_auto: true
 autonym: fɔ̀ngbè/fõbè
 alt_names: [Benin, "Gbe, Defi"]
 population: 13500

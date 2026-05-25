@@ -1,6 +1,8 @@
 ---
 iso: bqn
 name: Bulgarian Sign Language
+name_zh: 保加利亚手语
+name_zh_auto: true
 autonym: Български жестомимичен език
 population: 21000
 country_id: BG

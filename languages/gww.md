@@ -1,6 +1,8 @@
 ---
 iso: gww
 name: Kwini
+name_zh: 奎尼语
+name_zh_auto: true
 autonym: Worrorran
 alt_names: [Bagu, Belaa, Boola, Caloombooroo, Cuini, Galumburu, Ginan, Gonin, Goonan, Guini, Guna, Gunan, Gunin, Gunin/Kwini, Gwiini, "Gwin:ni", Gwini, Gɨnan, Kaianu, Kalumbura, Kalumburu, Kianu, Kimberley Area Languages, Konan, Konin, Konun, Koonange, Kuini, Kuna, Kunan, Kunange, Kuwiyini, Kwiini, Kyanoo, Manda, Mande, Manunggu, Manungu, Miwa, Murgura, Northern Language, Pago, Pela, Pelah, Pelange, Ulagu Wulau, Ulangu, Umari, Wadaja, Walar, Winggir, Wirngir, Wola, Wulanggur, Wular, Wunambal]
 population: null

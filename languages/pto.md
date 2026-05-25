@@ -1,6 +1,8 @@
 ---
 iso: pto
 name: "Zo'é"
+name_zh: 佐埃语
+name_zh_auto: true
 autonym: Poturu
 alt_names: [Buré, "Jo'é", Poturujara, Poturú, Putur, Tupí of Cuminapanema, "Zo'e", Zoé, Zoés, zoe]
 population: 150

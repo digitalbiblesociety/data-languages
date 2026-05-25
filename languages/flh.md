@@ -1,6 +1,8 @@
 ---
 iso: flh
 name: Foau
+name_zh: 福奥语
+name_zh_auto: true
 autonym: Doa
 population: 230
 country_id: ID

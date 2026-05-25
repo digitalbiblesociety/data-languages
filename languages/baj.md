@@ -1,6 +1,8 @@
 ---
 iso: baj
 name: Barakai
+name_zh: 巴拉凯语
+name_zh_auto: true
 autonym: Workai
 alt_names: [Aru]
 population: 4300

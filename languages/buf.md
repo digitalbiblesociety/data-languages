@@ -1,6 +1,8 @@
 ---
 iso: buf
 name: Bushoong
+name_zh: 布肖翁语
+name_zh_auto: true
 autonym: Bushoong
 alt_names: [Bamongo, Bukuba, Bushona, Bushong, "Bushong, Kuba", Bushonga, Bushongo, Busoong, Ganga, Kuba, Mbale, Mongo, Shongo]
 population: 155000

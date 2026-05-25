@@ -1,6 +1,8 @@
 ---
 iso: una
 name: North Watut
+name_zh: 北瓦图特语
+name_zh_auto: true
 autonym: Onank
 alt_names: [Unangg, Unank, Watut, "Watut, North"]
 population: 460

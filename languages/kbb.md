@@ -1,6 +1,8 @@
 ---
 iso: kbb
 name: Kaxuiâna
+name_zh: 卡许伊阿纳语
+name_zh_auto: true
 autonym: Kaxuiâna (Katxúyana)
 alt_names: [Cachuana-warikyana, Ingarïnyana, Ingarüna, Kachuana, Kahyana, Kashujana, Kashuyana, Kashuyana-Warikyana, Katxúyana, Kaxuiana, Kaxuiâna-xikuyána, Kaxuyâna, Kaxúyana, Pauxi, Txikuyana, Txikïyana, Warikiana, Warikyana, Werikyana, Xikuyana, Xikïyana]
 population: 12

@@ -1,6 +1,8 @@
 ---
 iso: awr
 name: Awera
+name_zh: 阿韦拉语
+name_zh_auto: true
 autonym: bahasa Awera
 population: 70
 country_id: ID

@@ -1,6 +1,8 @@
 ---
 iso: tan
 name: Tangale
+name_zh: 坦加莱语
+name_zh_auto: true
 autonym: Tangle
 alt_names: [Tanagale]
 population: 258000

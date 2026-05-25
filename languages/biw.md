@@ -1,6 +1,8 @@
 ---
 iso: biw
 name: Kol (Cameroon)
+name_zh: 喀麦隆科尔语
+name_zh_auto: true
 autonym: Bekol
 alt_names: [Bikele-Bikay, Bikele-Bikeng, Kol, Kol language]
 population: 1000

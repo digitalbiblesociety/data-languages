@@ -1,6 +1,8 @@
 ---
 iso: oav
 name: Old Avar
+name_zh: 古阿瓦尔语
+name_zh_auto: true
 autonym: "اوار ماض, авар мацӏ, ;"
 alt_names: ["Avar, Old"]
 population: null

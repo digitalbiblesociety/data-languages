@@ -1,6 +1,8 @@
 ---
 iso: upi
 name: Umeda
+name_zh: 乌梅达语
+name_zh_auto: true
 autonym: null
 population: 290
 country_id: PG

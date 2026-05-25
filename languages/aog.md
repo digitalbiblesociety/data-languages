@@ -1,6 +1,8 @@
 ---
 iso: aog
 name: Angoram
+name_zh: 安戈拉姆语
+name_zh_auto: true
 autonym: Pondo
 alt_names: [Kanda, Maramba, Olem, Sepik No. 1, Tjimundo]
 population: 8220

@@ -1,6 +1,8 @@
 ---
 iso: eip
 name: Eipomek
+name_zh: 埃波梅克语
+name_zh_auto: true
 autonym: Lik
 alt_names: [Eipo, Eipo-mek, T-Valley]
 population: 3000

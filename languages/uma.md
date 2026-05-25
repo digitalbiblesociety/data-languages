@@ -1,6 +1,8 @@
 ---
 iso: uma
 name: Umatilla
+name_zh: 乌马蒂拉语
+name_zh_auto: true
 autonym: Columbia River Sahaptin
 alt_names: [Sahaptin, Sahaptin (Umatilla)]
 population: 120

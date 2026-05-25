@@ -1,6 +1,8 @@
 ---
 iso: dbb
 name: Deno
+name_zh: 德诺语
+name_zh_auto: true
 autonym: Be
 alt_names: [Denawa, Denwa, Kuba, Kubawa, Kubi]
 population: 6000

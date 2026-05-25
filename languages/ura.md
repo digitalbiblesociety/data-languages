@@ -1,6 +1,8 @@
 ---
 iso: ura
 name: Urarina
+name_zh: 乌拉里纳语
+name_zh_auto: true
 autonym: Itucale
 alt_names: [Itucali, Itukale, Kachá, Oruarina, Shimacu, Shimaku, Simacu, Urariña]
 population: 3000

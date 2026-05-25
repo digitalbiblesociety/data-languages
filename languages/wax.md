@@ -1,6 +1,8 @@
 ---
 iso: wax
 name: Watam
+name_zh: 瓦塔姆语
+name_zh_auto: true
 autonym: Watam
 alt_names: [Marangis]
 population: 590

@@ -1,6 +1,8 @@
 ---
 iso: kyy
 name: Kambaira
+name_zh: 坎拜拉语
+name_zh_auto: true
 autonym: null
 population: 140
 country_id: PG

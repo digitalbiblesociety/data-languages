@@ -1,6 +1,8 @@
 ---
 iso: hmi
 name: Northern Huishui Hmong
+name_zh: 北惠水苗语
+name_zh_auto: true
 autonym: Mhong
 alt_names: [Hmo, Hmong, "Hmong, Northern Huishui", Hmung, Hsiung, Hunan Miao, Miao, "Miao, Northern Huishui", Northern Huishui Miao]
 population: 70000

@@ -1,6 +1,8 @@
 ---
 iso: baa
 name: Babatana
+name_zh: 巴巴塔纳语
+name_zh_auto: true
 autonym: East Choiseul
 alt_names: [Mbambatana]
 population: 7070

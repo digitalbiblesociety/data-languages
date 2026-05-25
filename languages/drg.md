@@ -1,6 +1,8 @@
 ---
 iso: drg
 name: Rungus
+name_zh: 容古斯语
+name_zh_auto: true
 autonym: Dusun Dayak
 alt_names: [Dayak, Melobong Rungus, Memagun, Memogun, Momogun, Roongas, Rungus Dusun]
 population: 55000

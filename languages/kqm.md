@@ -1,6 +1,8 @@
 ---
 iso: kqm
 name: Khisa
+name_zh: 基萨语
+name_zh_auto: true
 autonym: Khi Khipa
 alt_names: [Khi, Khi-sa, Khi-sɛ, Khise, Komono, Kumwenu]
 population: 5000

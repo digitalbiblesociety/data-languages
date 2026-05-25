@@ -1,6 +1,8 @@
 ---
 iso: gae
 name: Guarequena
+name_zh: 瓜雷基纳语
+name_zh_auto: true
 autonym: Baniwa of Maroa
 alt_names: [Arequena, Guarekena, Guarenquena, Guarequena (Venezuela), Uerequema, Urequema, Warekana (République bolivarienne du Venezuela), Warekena, Warekena (Anamoim), Warekena (Brésil), Warekéna, Werikena]
 population: 160

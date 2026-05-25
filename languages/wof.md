@@ -1,6 +1,8 @@
 ---
 iso: wof
 name: Gambian Wolof
+name_zh: 冈比亚沃洛夫语
+name_zh_auto: true
 autonym: Wolof
 alt_names: [Gambia, "Wolof, Gambian"]
 population: 314000

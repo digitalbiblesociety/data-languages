@@ -1,6 +1,8 @@
 ---
 iso: knv
 name: Tabo
+name_zh: 塔博语
+name_zh_auto: true
 autonym: Tabo
 alt_names: [Hibaradai, Hiwi, Waia, Waya]
 population: 3000

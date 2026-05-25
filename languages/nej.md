@@ -1,6 +1,8 @@
 ---
 iso: nej
 name: Neko
+name_zh: 内科语
+name_zh_auto: true
 autonym: Yarete
 alt_names: [Bedawi, Beja]
 population: 320

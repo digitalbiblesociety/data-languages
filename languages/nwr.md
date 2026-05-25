@@ -1,6 +1,8 @@
 ---
 iso: nwr
 name: Nawaru
+name_zh: 纳瓦鲁语
+name_zh_auto: true
 autonym: Sirio
 population: 190
 country_id: PG

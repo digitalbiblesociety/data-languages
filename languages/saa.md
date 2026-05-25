@@ -1,6 +1,8 @@
 ---
 iso: saa
 name: Saba
+name_zh: 萨巴语
+name_zh_auto: true
 autonym: Jelkung
 alt_names: [Saba language]
 population: 1340

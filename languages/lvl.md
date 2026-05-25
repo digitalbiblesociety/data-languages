@@ -1,6 +1,8 @@
 ---
 iso: lvl
 name: Lwel
+name_zh: 卢埃尔语
+name_zh_auto: true
 autonym: Di
 country_id: CD
 country_name: DR Congo

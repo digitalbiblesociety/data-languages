@@ -1,6 +1,8 @@
 ---
 iso: gie
 name: Gaɓogbo
+name_zh: 加博博语
+name_zh_auto: true
 autonym: null
 alt_names: [Guébie]
 population: null

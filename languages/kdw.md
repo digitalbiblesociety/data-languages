@@ -1,6 +1,8 @@
 ---
 iso: kdw
 name: Koneraw
+name_zh: 科内劳语
+name_zh_auto: true
 autonym: Konorau
 population: 1200
 country_id: ID

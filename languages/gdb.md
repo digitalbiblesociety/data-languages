@@ -1,6 +1,8 @@
 ---
 iso: gdb
 name: Pottangi Ollar Gadaba
+name_zh: 波坦吉奥拉尔加达巴语
+name_zh_auto: true
 autonym: Gadaba
 alt_names: [Allar, "Gadaba, Pottangi Ollar", Gadba, Hallari, Hollar Gadbas, Kondekar, Kondkor, Ollar Gadaba, Ollari, Ollaro, Pottangi, Pottangi Gadba, Pottangi Ollar, San Gadaba, Sano]
 population: 15000

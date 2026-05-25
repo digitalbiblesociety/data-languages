@@ -1,6 +1,8 @@
 ---
 iso: tba
 name: Aikanã
+name_zh: 艾卡纳语
+name_zh_auto: true
 autonym: Tubarão
 alt_names: [Aikana, Aikana language, Aikaná, Corumbiara, Huari, Huarí, Kasupá, Kolumbiara, Masaká, Massaká, Mundé, Tubaro, Uari, Wari, Warí]
 population: 150

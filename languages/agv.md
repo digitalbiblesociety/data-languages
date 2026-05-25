@@ -1,6 +1,8 @@
 ---
 iso: agv
 name: Remontado Dumagat
+name_zh: 雷蒙塔多杜马加特语
+name_zh_auto: true
 autonym: Sinauna
 alt_names: ["Agta, Remontado", "Dumagat, Remontado", Hatang-Kayey, Remontado Agta]
 population: 2530

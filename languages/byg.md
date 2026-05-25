@@ -1,6 +1,8 @@
 ---
 iso: byg
 name: Baygo
+name_zh: 拜戈语
+name_zh_auto: true
 autonym: Baigo
 alt_names: [Bego, Beigo, Beko, Beygo, Béogé]
 population: null

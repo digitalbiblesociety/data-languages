@@ -1,6 +1,8 @@
 ---
 iso: bdx
 name: "Budong-Budong"
+name_zh: 布东-布东语
+name_zh_auto: true
 autonym: Tongkou
 alt_names: [Bubudong, Budón-budón, Tangkou, To Budo-Budo]
 population: 180

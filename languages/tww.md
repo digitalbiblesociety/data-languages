@@ -1,6 +1,8 @@
 ---
 iso: tww
 name: Tuwari
+name_zh: 图瓦里语
+name_zh_auto: true
 autonym: null
 alt_names: [Akiapmin]
 population: 122

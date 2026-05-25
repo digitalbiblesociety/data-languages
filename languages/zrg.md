@@ -1,6 +1,8 @@
 ---
 iso: zrg
 name: Mirgan
+name_zh: 米尔甘语
+name_zh_auto: true
 autonym: Panika
 population: 60000
 country_id: IN

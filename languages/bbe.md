@@ -1,6 +1,8 @@
 ---
 iso: bbe
 name: Bangba
+name_zh: 邦巴语
+name_zh_auto: true
 autonym: Abangba
 population: 11000
 country_id: CD

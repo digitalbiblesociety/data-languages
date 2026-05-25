@@ -1,6 +1,8 @@
 ---
 iso: kvn
 name: Border Kuna
+name_zh: 边境库纳语
+name_zh_auto: true
 autonym: Dulegaya
 alt_names: [Caiman Nuevo, Caimán, Colombia Cuna, Columbia Cuna, Cueva, Cuna, Kuna, Kuna (Border), Kuna (Colombie), Kuna (Panama), Kuna (Panamá), Kuna de la Frontiera, "Kuna, Border", Paya-Pocuro, Paya-Pucuro, Paya-Pucuro Kuna]
 population: 3500

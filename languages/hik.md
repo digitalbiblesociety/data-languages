@@ -1,6 +1,8 @@
 ---
 iso: hik
 name: "Seit-Kaitetu"
+name_zh: 塞伊特-凯特图语
+name_zh_auto: true
 autonym: "Hila-Kaitetu"
 population: 10200
 country_id: ID

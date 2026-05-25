@@ -1,6 +1,8 @@
 ---
 iso: koz
 name: Korak
+name_zh: 科拉克语
+name_zh_auto: true
 autonym: Amako
 population: 512
 country_id: PG

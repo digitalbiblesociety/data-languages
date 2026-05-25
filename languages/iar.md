@@ -1,6 +1,8 @@
 ---
 iso: iar
 name: Purari
+name_zh: 普拉里语
+name_zh_auto: true
 autonym: Evorra
 alt_names: [Iai, Koriki, Maipua, Namau]
 population: 7000

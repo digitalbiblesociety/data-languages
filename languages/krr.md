@@ -1,6 +1,8 @@
 ---
 iso: krr
 name: Krung
+name_zh: 克龙语
+name_zh_auto: true
 autonym: Brao Krung
 population: 18400
 country_id: KH

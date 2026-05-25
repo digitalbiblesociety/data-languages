@@ -1,6 +1,8 @@
 ---
 iso: itx
 name: Itik
+name_zh: 伊蒂克语
+name_zh_auto: true
 autonym: Betef
 alt_names: [Borto, Ittik, Ittik-Tor]
 population: 200

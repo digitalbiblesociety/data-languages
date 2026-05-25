@@ -1,6 +1,8 @@
 ---
 iso: lke
 name: Kenyi
+name_zh: 肯尼语
+name_zh_auto: true
 autonym: Lusoga
 alt_names: [Lukenyi]
 population: 99900

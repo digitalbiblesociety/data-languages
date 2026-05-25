@@ -1,6 +1,8 @@
 ---
 iso: zai
 name: Isthmus Zapotec
+name_zh: 地峡-萨波特克语
+name_zh_auto: true
 autonym: Juchitán Zapotec
 alt_names: [Eastern Sapoteko, Isthmus, Landengte-Zapoteeks, Sapoteko, Zapotec, Zapotec (Isthmus), "Zapotec, Isthmus", Zapoteco (Istmo), Zapoteco de Petapa, Zapoteco de San Bartolo Yautepec, Zapoteco del Istmo, Zapoteco mixtepeco, Zapotekeg Isthmus, Zapotèque de Mixtepe, Zapotèque de Petapa, Zapotèque de San Bartolo Yautepec]
 population: 85000

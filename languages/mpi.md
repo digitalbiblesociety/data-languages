@@ -1,6 +1,8 @@
 ---
 iso: mpi
 name: Mpade
+name_zh: 姆帕德语
+name_zh_auto: true
 autonym: Makari
 alt_names: [Kotoko-Makari, Mackeri, Makary, Mandage, Mandague, Mandagué, Mendage]
 population: 16000

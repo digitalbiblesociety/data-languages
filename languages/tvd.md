@@ -1,6 +1,8 @@
 ---
 iso: tvd
 name: Tsuvadi
+name_zh: 楚瓦迪语
+name_zh_auto: true
 autonym: tsɨVaɗi
 alt_names: [Abadi, Avadi, Evadi, Ibeto, Kambari, Kamberi, "Tsuva'di"]
 population: 130000

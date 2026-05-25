@@ -1,6 +1,8 @@
 ---
 iso: bfj
 name: Bafanji
+name_zh: 巴范吉语
+name_zh_auto: true
 autonym: Bafanji
 alt_names: [Bafangi, Bafanji jezik, Bafanyi, Chuufi, Nchufie]
 population: 17000

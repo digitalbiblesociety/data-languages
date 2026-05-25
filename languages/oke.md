@@ -1,6 +1,8 @@
 ---
 iso: oke
 name: Okpe (Southwestern Edo)
+name_zh: 奥克佩语
+name_zh_auto: true
 autonym: null
 alt_names: [Nigeria, Okpe]
 population: 25400

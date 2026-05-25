@@ -1,6 +1,8 @@
 ---
 iso: aur
 name: Aruek
+name_zh: 阿鲁埃克语
+name_zh_auto: true
 autonym: Djang
 alt_names: [Jang]
 population: 740

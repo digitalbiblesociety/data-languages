@@ -1,6 +1,8 @@
 ---
 iso: uky
 name: "Kuuk-Yak"
+name_zh: 库克-亚克语
+name_zh_auto: true
 autonym: Koko Yak
 alt_names: [Kuku Yak, Kuuk Yak]
 population: null

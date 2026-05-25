@@ -1,6 +1,8 @@
 ---
 iso: emq
 name: Eastern Minyag
+name_zh: 东米尼亚语
+name_zh_auto: true
 autonym: Munya
 alt_names: [Eastern Muya, "Minyag, Eastern"]
 population: 2000

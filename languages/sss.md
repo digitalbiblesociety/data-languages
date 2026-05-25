@@ -1,6 +1,8 @@
 ---
 iso: sss
 name: Sô
+name_zh: 索语
+name_zh_auto: true
 autonym: Bruu
 alt_names: [Bru, Kah So, Kha, Kha So, Makong, Mang Cong, Mang-Koong, Mangkong, Mankoong, So, So Makon, Thro]
 population: 233000

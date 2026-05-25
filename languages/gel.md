@@ -1,6 +1,8 @@
 ---
 iso: gel
 name: "ut-Ma'in"
+name_zh: 乌特-玛因语
+name_zh_auto: true
 autonym: Fakanchi
 alt_names: [Fakanci, Fakkanci, Kag-Fer-Jiir-Koor-Ror-Us-Zuksun, Puku-Geeri-Keri-Wipsi]
 population: 36000

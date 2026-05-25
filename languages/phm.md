@@ -1,6 +1,8 @@
 ---
 iso: phm
 name: Phimbi
+name_zh: 菲姆比语
+name_zh_auto: true
 autonym: Chinsenga
 alt_names: [Pimbi]
 population: 6000

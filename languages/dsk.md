@@ -1,6 +1,8 @@
 ---
 iso: dsk
 name: Dokshi
+name_zh: 多克希语
+name_zh_auto: true
 alt_names: [Lukshi, Lushi]
 population: 400
 country_id: NG

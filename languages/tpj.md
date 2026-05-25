@@ -1,6 +1,8 @@
 ---
 iso: tpj
 name: Tapieté
+name_zh: 塔皮埃特语
+name_zh_auto: true
 autonym: Western Argentine Guaraní
 alt_names: [Apytare, Ava, Caingua, Chané, Chiriguano, Chiripá, Chiripá-Nyandeva, Guarayo, Guarayu (Paraguay), Guarayú, Guaráyoan, Guasurango, Guasurangue, "Izoceño [Isosó", "Izozó]", Kaiwá, Kayová, Mbiá, Mbua, Mbya, Nandeva, Nhandeva, Simba, Tapiete, Tapietų kalba, Tirumbae, Tsiripá, Txiripá, Yanaigua, Ñanagua, Ñandeva]
 population: 1759

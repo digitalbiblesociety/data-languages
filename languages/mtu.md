@@ -1,6 +1,8 @@
 ---
 iso: mtu
 name: Tututepec Mixtec
+name_zh: 图图特佩克米克斯特克语
+name_zh_auto: true
 autonym: (San Pedro Tututepec)
 alt_names: ["Mixtec, Tututepec", Mixteco de San Pedro Tututepec, Southern Misteko, Southern Mixteco]
 population: 1020

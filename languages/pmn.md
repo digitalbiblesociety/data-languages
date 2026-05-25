@@ -1,6 +1,8 @@
 ---
 iso: pmn
 name: Pam
+name_zh: 帕姆语
+name_zh_auto: true
 autonym: null
 alt_names: [Cameroon]
 population: 30

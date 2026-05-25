@@ -1,6 +1,8 @@
 ---
 iso: dgl
 name: Andaandi
+name_zh: 安达迪语
+name_zh_auto: true
 autonym: Andaandi
 alt_names: [Dongolawi]
 population: 35000

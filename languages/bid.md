@@ -1,6 +1,8 @@
 ---
 iso: bid
 name: Bidiyo
+name_zh: 比迪约语
+name_zh_auto: true
 autonym: Bidio
 alt_names: ["'Bidio", "'Bidiyo", Bidiya, Bidiyo-Waana, Bidyo]
 population: 14000

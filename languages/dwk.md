@@ -1,6 +1,8 @@
 ---
 iso: dwk
 name: Dawik Kui
+name_zh: 达威库依语
+name_zh_auto: true
 autonym: କୁଈ
 alt_names: ["Kui, Dawik"]
 population: 941000

@@ -1,6 +1,8 @@
 ---
 iso: khe
 name: Korowai
+name_zh: 科罗瓦伊语
+name_zh_auto: true
 autonym: Kolufaup
 population: 3000
 country_id: ID

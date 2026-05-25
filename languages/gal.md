@@ -1,6 +1,8 @@
 ---
 iso: gal
 name: Galolen
+name_zh: 加洛伦语
+name_zh_auto: true
 autonym: Galolen
 alt_names: [Galole, Galoli]
 population: 20080

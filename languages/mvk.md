@@ -1,6 +1,8 @@
 ---
 iso: mvk
 name: Mekmek
+name_zh: 梅克梅克语
+name_zh_auto: true
 autonym: null
 population: 1400
 country_id: PG

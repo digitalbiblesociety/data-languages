@@ -1,6 +1,8 @@
 ---
 iso: tby
 name: Tabaru
+name_zh: 塔巴鲁语
+name_zh_auto: true
 autonym: Tobaru
 population: 15800
 country_id: ID

@@ -1,6 +1,8 @@
 ---
 iso: djm
 name: Jamsay Dogon
+name_zh: 詹赛多贡语
+name_zh_auto: true
 autonym: Jamsay
 alt_names: [Dogon, "Dogon, Jamsay", Dyamsay Tegu]
 population: 130000

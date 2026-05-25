@@ -1,6 +1,8 @@
 ---
 iso: wun
 name: Bungu
+name_zh: 本古语
+name_zh_auto: true
 autonym: Iciwungu
 alt_names: [Echiungu, Kibungu, Wungu]
 population: 30000

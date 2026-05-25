@@ -1,6 +1,8 @@
 ---
 iso: dgs
 name: Dogoso
+name_zh: 多戈索语
+name_zh_auto: true
 autonym: Black Dogose
 alt_names: [Bambadion-Dogoso, Bambadion-Dokhosié, Dorhosié-Finng, Dorhosié-Noirs, Dorossié-Fing]
 population: 9000

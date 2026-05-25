@@ -1,6 +1,8 @@
 ---
 iso: vmv
 name: Valley Maidu
+name_zh: 山谷美都语
+name_zh_auto: true
 autonym: Valley Maidu
 alt_names: [Chico language, Maidu, "Maidu, Valley", Maidú nororiental]
 population: null

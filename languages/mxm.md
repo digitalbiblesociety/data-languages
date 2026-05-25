@@ -1,6 +1,8 @@
 ---
 iso: mxm
 name: Meramera
+name_zh: 梅拉梅拉语
+name_zh_auto: true
 autonym: Melamela
 alt_names: [Ubili]
 population: 2000

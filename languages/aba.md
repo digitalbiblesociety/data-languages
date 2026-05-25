@@ -1,6 +1,8 @@
 ---
 iso: aba
 name: Abé
+name_zh: 阿贝语
+name_zh_auto: true
 autonym: Abbé
 alt_names: [Abbey, Abe, Abi, Abé jezik, Lenga Abé, Lingua abé]
 population: 268000

@@ -1,6 +1,8 @@
 ---
 iso: gyg
 name: Gbayi
+name_zh: 吉巴伊语
+name_zh_auto: true
 autonym: Kpasiya
 population: 5000
 country_id: CF

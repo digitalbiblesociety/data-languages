@@ -1,6 +1,8 @@
 ---
 iso: ibh
 name: Bih
+name_zh: 比赫语
+name_zh_auto: true
 autonym: null
 population: null
 country_id: VN

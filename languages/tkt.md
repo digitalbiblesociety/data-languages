@@ -1,6 +1,8 @@
 ---
 iso: tkt
 name: Kathoriya Tharu
+name_zh: 卡瑟里亚塔鲁语
+name_zh_auto: true
 autonym: (polyphyletic)
 alt_names: [Kathariya, "Tharu, Kathoriya"]
 population: 106000

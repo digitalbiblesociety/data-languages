@@ -1,6 +1,8 @@
 ---
 iso: brj
 name: Bieria
+name_zh: 比埃里亚语
+name_zh_auto: true
 autonym: Vovo
 alt_names: [Bieri, Wowo]
 population: 70

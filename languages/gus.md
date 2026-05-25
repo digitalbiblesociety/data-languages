@@ -1,6 +1,8 @@
 ---
 iso: gus
 name: Guinean Sign Language
+name_zh: 几内亚手语
+name_zh_auto: true
 autonym: Lenguaje de Señas Bolivianas LSB
 population: 64000
 country_id: GN

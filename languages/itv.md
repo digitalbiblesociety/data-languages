@@ -1,6 +1,8 @@
 ---
 iso: itv
 name: Itawit
+name_zh: 伊塔维特语
+name_zh_auto: true
 autonym: Itawes
 alt_names: [Itawis, Tawit]
 population: 253000

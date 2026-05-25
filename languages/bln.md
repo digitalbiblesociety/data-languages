@@ -1,6 +1,8 @@
 ---
 iso: bln
 name: Southern Catanduanes Bikol
+name_zh: 南卡坦都亚内斯比克语
+name_zh_auto: true
 autonym: Virac
 alt_names: ["Bicolano, Southern Catanduanes", Bikol, "Bikol, Southern Catanduanes", Southern Catanduanes Bicolano]
 population: 135000

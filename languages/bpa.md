@@ -1,6 +1,8 @@
 ---
 iso: bpa
 name: Daakaka
+name_zh: 达卡卡语
+name_zh_auto: true
 autonym: Baiap
 alt_names: [Dakaka, South Ambrym]
 population: 1200

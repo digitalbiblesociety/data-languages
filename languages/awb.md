@@ -1,6 +1,8 @@
 ---
 iso: awb
 name: Awa (Papua New Guinea)
+name_zh: 阿瓦语
+name_zh_auto: true
 autonym: Awa
 alt_names: [Chana, Mobuta]
 population: 2050

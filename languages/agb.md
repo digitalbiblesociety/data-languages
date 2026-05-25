@@ -1,6 +1,8 @@
 ---
 iso: agb
 name: Legbo
+name_zh: 莱格博语
+name_zh_auto: true
 autonym: Legbo
 alt_names: [Agbo, Gbo, Igbo, Imaban, Itigidi]
 population: 60000

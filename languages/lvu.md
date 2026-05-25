@@ -1,6 +1,8 @@
 ---
 iso: lvu
 name: Levuka
+name_zh: 勒武卡语
+name_zh_auto: true
 autonym: Lembata
 alt_names: [Lewokukun, Lewuka, Painara]
 population: 4000

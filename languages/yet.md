@@ -1,6 +1,8 @@
 ---
 iso: yet
 name: Yetfa
+name_zh: 耶特法语
+name_zh_auto: true
 autonym: Biksi
 alt_names: [Biaksi, Inisine, Yetfa-Biksi]
 population: 1000

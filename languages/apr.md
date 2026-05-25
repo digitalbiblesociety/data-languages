@@ -1,6 +1,8 @@
 ---
 iso: apr
 name: "Arop-Lokep"
+name_zh: 阿罗普-洛克普语
+name_zh_auto: true
 autonym: null
 alt_names: [Arop-Lukep, Lukep, Moromiranga, Siasi, Siassi, Tolokiwa]
 population: 3020

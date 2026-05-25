@@ -1,6 +1,8 @@
 ---
 iso: ynb
 name: Yamben
+name_zh: 扬本语
+name_zh_auto: true
 autonym: Yaben
 country_id: PG
 country_name: Papua New Guinea

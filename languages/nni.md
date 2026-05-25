@@ -1,6 +1,8 @@
 ---
 iso: nni
 name: North Nuaulu
+name_zh: 北努阿乌卢语
+name_zh_auto: true
 autonym: Fatakai
 alt_names: [Alfurisch, Nuaulu, "Nuaulu, North", Patakai]
 population: 500

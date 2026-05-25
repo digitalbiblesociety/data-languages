@@ -1,6 +1,8 @@
 ---
 iso: mgn
 name: Mbangi
+name_zh: 姆班吉语
+name_zh_auto: true
 autonym: Mbangui
 population: 2750
 country_id: CF

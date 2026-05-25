@@ -1,6 +1,8 @@
 ---
 iso: bxw
 name: Bankagooma
+name_zh: 班卡古玛语
+name_zh_auto: true
 autonym: Bankagooma
 alt_names: [Banka, Bankagoma, Bankagoroma, Bankaje]
 population: 6000

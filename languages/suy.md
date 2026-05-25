@@ -1,6 +1,8 @@
 ---
 iso: suy
 name: Suyá
+name_zh: 苏亚语
+name_zh_auto: true
 autonym: Kĩsêdjê
 alt_names: [Kisêdjê, Suiá, Suya]
 population: 330

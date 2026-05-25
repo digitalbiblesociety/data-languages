@@ -1,6 +1,8 @@
 ---
 iso: ttl
 name: Totela
+name_zh: 托泰拉语
+name_zh_auto: true
 autonym: Echitotela
 population: 14000
 country_id: ZM

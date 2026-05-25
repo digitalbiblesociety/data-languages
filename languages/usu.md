@@ -1,6 +1,8 @@
 ---
 iso: usu
 name: Uya
+name_zh: 乌亚语
+name_zh_auto: true
 autonym: Usu
 population: 270
 country_id: PG

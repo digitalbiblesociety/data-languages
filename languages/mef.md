@@ -1,6 +1,8 @@
 ---
 iso: mef
 name: Megam
+name_zh: 梅甘语
+name_zh_auto: true
 autonym: Lyngam
 alt_names: [Migam]
 population: 6870

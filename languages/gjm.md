@@ -1,6 +1,8 @@
 ---
 iso: gjm
 name: Gunditjmara
+name_zh: 古迪特吉马拉语
+name_zh_auto: true
 autonym: Dhauwurd Wurrung
 alt_names: [Dhauhurtwurru, Gournditch-mara, Gurnditschmara, Kirurndit, Kuunditjmara, Kuurn Kopan Noot, Kuurn-kopan-noot, Ngutuk, Nil-can-cone-deets, Tourahonong, Warrnambool, Weeritch-Weeritch]
 population: null

@@ -1,6 +1,8 @@
 ---
 iso: bvv
 name: Baniva
+name_zh: 巴尼瓦语
+name_zh_auto: true
 autonym: Baniwa
 population: null
 country_id: VE

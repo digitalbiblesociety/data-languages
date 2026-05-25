@@ -1,6 +1,8 @@
 ---
 iso: dau
 name: Dar Sila Daju
+name_zh: 达尔西拉达朱语
+name_zh_auto: true
 autonym: Dar Sila
 alt_names: [Bokor, Bokorike, Bokoruge, Dadjo, Dajou, Daju, Daju (Dar Sila), "Daju, Dar Sila", Mongo, Mongo-Sila, Shila, Sila, Sula]
 population: 70100

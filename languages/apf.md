@@ -1,6 +1,8 @@
 ---
 iso: apf
 name: Pahanan Agta
+name_zh: 帕哈南艾塔语
+name_zh_auto: true
 autonym: Paranan Agta
 alt_names: ["Agta, Pahanan"]
 population: 1700

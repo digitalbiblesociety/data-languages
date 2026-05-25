@@ -1,6 +1,8 @@
 ---
 iso: waf
 name: Wakoná
+name_zh: 瓦科纳语
+name_zh_auto: true
 autonym: Aconã
 alt_names: [Brazil, Wakona]
 population: null

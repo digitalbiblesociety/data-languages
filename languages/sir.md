@@ -1,6 +1,8 @@
 ---
 iso: sir
 name: Siri
+name_zh: 西里语
+name_zh_auto: true
 autonym: Sirawa
 alt_names: [Siri language]
 population: 3800

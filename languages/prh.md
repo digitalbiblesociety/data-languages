@@ -1,6 +1,8 @@
 ---
 iso: prh
 name: Porohanon
+name_zh: 波罗哈农语
+name_zh_auto: true
 autonym: Camotes
 alt_names: [Bisaya, ภาษาโปโรฮานอน]
 population: 23000

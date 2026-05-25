@@ -1,6 +1,8 @@
 ---
 iso: mco
 name: Coatlán Mixe
+name_zh: 科特兰米克斯语
+name_zh_auto: true
 autonym: Lowland Mixe
 alt_names: [Coatlan, Coatlan Mixe, Coatlán, Eastern Mixe, Guichicovi Mixe, Isthmus Mixe, Lowland Mije, Mije, Mixe, Mixe (Coatlan), Mixe (Coatlán), Mixe (San José El Paraiso), Mixe del Istmo, "Mixe, Coatlán", "Mixe, Coatlín", Oaxaca Mije, San José El Paraíso, Southeastern Mixe]
 population: 5000

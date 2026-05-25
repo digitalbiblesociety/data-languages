@@ -1,6 +1,8 @@
 ---
 iso: nxk
 name: Koki Naga
+name_zh: 科基纳加语
+name_zh_auto: true
 autonym: Koki Naga
 alt_names: ["Naga, Koki"]
 population: 2000

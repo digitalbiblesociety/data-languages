@@ -1,6 +1,8 @@
 ---
 iso: bfr
 name: Bazigar
+name_zh: 巴兹格尔语
+name_zh_auto: true
 autonym: Goaar
 population: 58200
 country_id: IN

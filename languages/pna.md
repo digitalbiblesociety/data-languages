@@ -1,6 +1,8 @@
 ---
 iso: pna
 name: "Punan Bah-Biau"
+name_zh: 普南巴巴乌语
+name_zh_auto: true
 autonym: "Bah-Biau"
 alt_names: [Malaysia]
 population: 450

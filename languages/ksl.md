@@ -1,6 +1,8 @@
 ---
 iso: ksl
 name: Kumalu
+name_zh: 库马卢语
+name_zh_auto: true
 autonym: Kumara
 population: 2580
 country_id: PG

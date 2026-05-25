@@ -1,6 +1,8 @@
 ---
 iso: kbh
 name: Camsá
+name_zh: 卡姆萨语
+name_zh_auto: true
 autonym: Coche
 alt_names: [Cams, Camsa, Camëntsëá, Kame.ntzá, Kamemtxa, Kamsa, Kamse, Kamsá, Kamtsá, Mocoa, Sibundoy, Sibundoy-Gaché]
 population: 4770

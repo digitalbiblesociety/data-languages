@@ -1,6 +1,8 @@
 ---
 iso: nyc
 name: "Nyanga-li"
+name_zh: 尼亚加利语
+name_zh_auto: true
 autonym: "Linyanga-le"
 alt_names: [Nyanga-li language]
 population: 69000

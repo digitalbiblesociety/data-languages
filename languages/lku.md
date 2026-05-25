@@ -1,6 +1,8 @@
 ---
 iso: lku
 name: Kungkari
+name_zh: 孔克里语
+name_zh_auto: true
 autonym: Kuungkari of Barcoo River
 alt_names: [Gunggari, Koongerri, Koonkerri, Kungeri, Kunggari, Kuungkari]
 population: null

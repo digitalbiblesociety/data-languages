@@ -1,6 +1,8 @@
 ---
 iso: lej
 name: Lengola
+name_zh: 伦戈拉语
+name_zh_auto: true
 autonym: Kilengola
 alt_names: [Lengora]
 population: 100000

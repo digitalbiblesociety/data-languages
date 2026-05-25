@@ -1,6 +1,8 @@
 ---
 iso: anj
 name: Anor
+name_zh: 阿诺尔语
+name_zh_auto: true
 autonym: Atemble
 population: 980
 country_id: PG

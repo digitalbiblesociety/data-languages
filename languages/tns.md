@@ -1,6 +1,8 @@
 ---
 iso: tns
 name: Tenis
+name_zh: 特尼斯语
+name_zh_auto: true
 autonym: Tench
 population: 30
 country_id: PG

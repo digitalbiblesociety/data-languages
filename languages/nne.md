@@ -1,6 +1,8 @@
 ---
 iso: nne
 name: Ngandyera
+name_zh: 恩甘德耶拉语
+name_zh_auto: true
 autonym: Oshiwambo
 alt_names: [Angola]
 population: 13100

@@ -1,6 +1,8 @@
 ---
 iso: wrn
 name: Warnang
+name_zh: 瓦尔南语
+name_zh_auto: true
 autonym: Warnang
 alt_names: [Warnango, Werni]
 population: 1100

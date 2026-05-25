@@ -1,6 +1,8 @@
 ---
 iso: qvp
 name: Pacaraos Quechua
+name_zh: 帕卡劳斯克丘亚语
+name_zh_auto: true
 autonym: Pakaraw runasimi
 alt_names: [Pacaraos, Quechua Pacaraos, Quechua de Pacaraos, "Quechua, Pacaraos"]
 population: 250

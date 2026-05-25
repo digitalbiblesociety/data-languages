@@ -1,6 +1,8 @@
 ---
 iso: wav
 name: Waka
+name_zh: 瓦卡语
+name_zh_auto: true
 autonym: null
 alt_names: [Nigeria]
 population: 5000

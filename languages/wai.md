@@ -1,6 +1,8 @@
 ---
 iso: wai
 name: Wares
+name_zh: 瓦雷斯语
+name_zh_auto: true
 autonym: null
 population: 200
 country_id: ID

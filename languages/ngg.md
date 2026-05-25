@@ -1,6 +1,8 @@
 ---
 iso: ngg
 name: Ngbaka Manza
+name_zh: 恩巴卡曼扎语
+name_zh_auto: true
 autonym: null
 alt_names: ["'Bofi", Ali, Ngbaka, Ngbaka-Manza, Ngbaka-Minagende, Ngbaka-Minangende]
 population: 29000

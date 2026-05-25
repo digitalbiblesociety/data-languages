@@ -1,6 +1,8 @@
 ---
 iso: cdn
 name: Chaudangsi
+name_zh: 乔当西语
+name_zh_auto: true
 autonym: Bangba Lo
 alt_names: [Bangba Lwo, Bangbani, Chandāngsī, Chanpa Lo, Chaudans Lo, Chaudāngsī, Sauka, Saukas, Shauka, Shaukas, Tsaudangsi, Tśaudangsi]
 population: 1830

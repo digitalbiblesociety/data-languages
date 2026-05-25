@@ -1,6 +1,8 @@
 ---
 iso: uta
 name: Otank
+name_zh: 奥坦克语
+name_zh_auto: true
 autonym: Itang
 alt_names: [Otang, Otanga, Utanga, Utange, Utank]
 population: 3000

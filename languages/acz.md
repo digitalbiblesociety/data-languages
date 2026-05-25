@@ -1,6 +1,8 @@
 ---
 iso: acz
 name: Acheron
+name_zh: 阿凯伦语
+name_zh_auto: true
 autonym: Aceron
 alt_names: [Achurun, Asheron, Garme]
 population: 20000

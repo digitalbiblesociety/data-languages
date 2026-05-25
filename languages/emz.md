@@ -1,6 +1,8 @@
 ---
 iso: emz
 name: Mbessa
+name_zh: 姆贝萨语
+name_zh_auto: true
 country_id: CM
 country_name: Cameroon
 latitude: 6.31

@@ -1,6 +1,8 @@
 ---
 iso: dbj
 name: "Ida'an"
+name_zh: 伊达安语
+name_zh_auto: true
 autonym: Begak
 alt_names: ["Begak-Ida'an", Begak-Idaan, Bulud Upi, Eraans, Idaan, Idahan, Idan, Idayan, Ida’an]
 population: 1500

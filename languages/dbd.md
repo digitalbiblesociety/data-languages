@@ -1,6 +1,8 @@
 ---
 iso: dbd
 name: Dadiya
+name_zh: 达迪亚语
+name_zh_auto: true
 autonym: Lodiya
 alt_names: [Daadiya, Dadia, Loodiya]
 population: 70000

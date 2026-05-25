@@ -1,6 +1,8 @@
 ---
 iso: bev
 name: Daloa Bété
+name_zh: 达洛阿贝特语
+name_zh_auto: true
 autonym: Beteic
 alt_names: [Bete, Bété, "Bété, Daloa", Daloa Bete, Daloua Bété, Gbadi, Northern Bété]
 population: 130000

@@ -1,6 +1,8 @@
 ---
 iso: nmd
 name: Ndumu
+name_zh: 恩杜姆语
+name_zh_auto: true
 autonym: Bandoumou
 alt_names: [Doumbou, Dumbu, Lendumu, Mbere, Mindoumou, Mindumbu, Minduumo, Ndumbo, Ndumbu, Nduumo, Ondoumbo, Ondumbo]
 population: 4310

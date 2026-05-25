@@ -1,6 +1,8 @@
 ---
 iso: lla
 name: "Lala-Roba"
+name_zh: 拉拉-罗巴语
+name_zh_auto: true
 autonym: Gworam
 alt_names: [Roba]
 population: 46000

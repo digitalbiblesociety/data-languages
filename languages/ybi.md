@@ -1,6 +1,8 @@
 ---
 iso: ybi
 name: Yamphu
+name_zh: 扬普语
+name_zh_auto: true
 autonym: Yamphe
 alt_names: [Jindā, Rai, Yamphu Kha, Yamphu Rai, Yamphuish, Yampoueg, Yanphu]
 population: 1720

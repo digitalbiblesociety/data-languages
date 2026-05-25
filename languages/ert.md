@@ -1,6 +1,8 @@
 ---
 iso: ert
 name: Eritai
+name_zh: 埃里泰语
+name_zh_auto: true
 autonym: Baburiwa
 alt_names: [Aliki, Babiruwa, Babrua, Babruwa, Barua, Editode Edai, Erai, Eri, Haya]
 population: 530

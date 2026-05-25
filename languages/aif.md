@@ -1,6 +1,8 @@
 ---
 iso: aif
 name: Agi
+name_zh: 阿吉语
+name_zh_auto: true
 autonym: null
 alt_names: [Metru]
 population: 960

@@ -1,6 +1,8 @@
 ---
 iso: avs
 name: Aushiri
+name_zh: 奥希里语
+name_zh_auto: true
 autonym: Auxira
 alt_names: [Abigira, Abiquira, Abishira, Agouisiri, Aouchirieg, Auishiri, Aushiri jezik, Avishiri, Avixiri, Ixignor, Tekiraka, Tequiraca, Vacacocha, Аушириски јазик]
 population: null

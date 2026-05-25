@@ -1,6 +1,8 @@
 ---
 iso: mfm
 name: Marghi South
+name_zh: 玛格希南语
+name_zh_auto: true
 autonym: null
 alt_names: [Chobba, Hildi, KChobba, Margi]
 population: 166000

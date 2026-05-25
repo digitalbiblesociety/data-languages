@@ -1,6 +1,8 @@
 ---
 iso: krw
 name: Western Krahn
+name_zh: 西克兰语
+name_zh_auto: true
 autonym: Krahn
 alt_names: ["Krahn, Western", Kran, Northern Krahn, Western Kran]
 population: 113020

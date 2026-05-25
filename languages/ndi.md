@@ -1,6 +1,8 @@
 ---
 iso: ndi
 name: Samba Leko
+name_zh: 桑巴莱科语
+name_zh_auto: true
 autonym: Samba Leekɔ
 alt_names: [(Samba) Leko, Chamba, Chamba Leko, Lego, Leko, Lekon, Ndi, Samba, Samba Leeko, Suntai]
 population: 62000

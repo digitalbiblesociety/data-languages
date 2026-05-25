@@ -1,6 +1,8 @@
 ---
 iso: tip
 name: Trimuris
+name_zh: 特里穆里斯语
+name_zh_auto: true
 autonym: null
 alt_names: [Indonesia]
 population: 300

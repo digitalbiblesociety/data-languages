@@ -1,6 +1,8 @@
 ---
 iso: bta
 name: Bata
+name_zh: 巴塔语
+name_zh_auto: true
 autonym: Gbwata
 alt_names: [Bata Group, Batta, Bete, Birsa, Biu-Mandara A.8, Demsa Bata, Dii, Dunu, Gboati, Gbwate, Gwate, Kofa, Kota, Muleng]
 population: 289500

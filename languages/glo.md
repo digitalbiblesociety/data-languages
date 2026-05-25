@@ -1,6 +1,8 @@
 ---
 iso: glo
 name: Galambu
+name_zh: 加朗布语
+name_zh_auto: true
 autonym: Galambe
 alt_names: [Galambi, Galembi]
 population: 25000

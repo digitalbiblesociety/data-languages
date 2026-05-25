@@ -1,6 +1,8 @@
 ---
 iso: mdc
 name: Male (Papua New Guinea)
+name_zh: 马莱语
+name_zh_auto: true
 autonym: Koliku
 alt_names: [Kolika, Male, Soq]
 population: 970

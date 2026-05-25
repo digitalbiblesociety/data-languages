@@ -1,6 +1,8 @@
 ---
 iso: kbn
 name: Kare (Central African Republic)
+name_zh: 卡雷语（中非共和国）
+name_zh_auto: true
 autonym: nzáà kã́rĩ́
 alt_names: [Kali, Kare, Kari, Karré, Kerɛ]
 population: 97460

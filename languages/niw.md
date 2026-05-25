@@ -1,6 +1,8 @@
 ---
 iso: niw
 name: Nimo
+name_zh: 尼莫语
+name_zh_auto: true
 autonym: "Nimo-Wasawai"
 alt_names: [Birua, Nimo-Wasuai]
 population: 350

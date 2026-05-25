@@ -1,6 +1,8 @@
 ---
 iso: hor
 name: Horo
+name_zh: 霍罗语
+name_zh_auto: true
 autonym: Hor
 population: null
 country_id: TD

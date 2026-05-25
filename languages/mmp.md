@@ -1,6 +1,8 @@
 ---
 iso: mmp
 name: Siawi
+name_zh: 西亚维语
+name_zh_auto: true
 autonym: Musan
 alt_names: [Musa, Musa jezik, Musian, Siafli, Siwai]
 population: 220

@@ -1,6 +1,8 @@
 ---
 iso: mff
 name: Naki
+name_zh: 纳基语
+name_zh_auto: true
 autonym: Munkaf
 alt_names: [Bunaki, Mekaf, Nkap]
 population: 3000

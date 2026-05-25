@@ -1,6 +1,8 @@
 ---
 iso: byp
 name: Bumaji
+name_zh: 布马吉语
+name_zh_auto: true
 autonym: null
 population: 11400
 country_id: NG

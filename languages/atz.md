@@ -1,6 +1,8 @@
 ---
 iso: atz
 name: Arta
+name_zh: 阿尔塔语
+name_zh_auto: true
 autonym: null
 population: 150
 country_id: PH

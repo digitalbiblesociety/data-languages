@@ -1,6 +1,8 @@
 ---
 iso: kkg
 name: Mabaka Valley Kalinga
+name_zh: 马巴卡谷卡林加语
+name_zh_auto: true
 autonym: "Kal-Uwan"
 alt_names: ["Kalinga, Mabaka Valley", Mabaka, Mabaka Itneg]
 population: null

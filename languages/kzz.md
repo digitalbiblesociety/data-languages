@@ -1,6 +1,8 @@
 ---
 iso: kzz
 name: Kalabra
+name_zh: 卡拉布拉语
+name_zh_auto: true
 autonym: Beraur
 alt_names: [Klabra]
 population: 3290

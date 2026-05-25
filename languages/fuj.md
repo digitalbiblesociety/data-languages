@@ -1,6 +1,8 @@
 ---
 iso: fuj
 name: Ko
+name_zh: 科语
+name_zh_auto: true
 autonym: Ko
 alt_names: [Fungor, Fungur, Kau]
 population: 2680

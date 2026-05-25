@@ -1,6 +1,8 @@
 ---
 iso: xai
 name: Kaimbé
+name_zh: 凯姆贝语
+name_zh_auto: true
 autonym: null
 alt_names: [Brazil, Kaimbe]
 population: null

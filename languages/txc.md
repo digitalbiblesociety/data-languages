@@ -1,6 +1,8 @@
 ---
 iso: txc
 name: Tsetsaut
+name_zh: 策察乌特语
+name_zh_auto: true
 autonym: "Wetaŀ, Wetaɬ, Wetał"
 alt_names: [Mountain, "Ts'ets'aut"]
 population: null

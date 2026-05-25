@@ -1,6 +1,8 @@
 ---
 iso: kkz
 name: Kaska
+name_zh: 卡斯卡语
+name_zh_auto: true
 autonym: Dene Zágéʼ
 alt_names: [Caska, "Danezāgé' (Kaska)", Eastern Nahane, Idioma kaska, Kaska Dena, Nahane, Nahani]
 population: 400

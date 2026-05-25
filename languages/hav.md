@@ -1,6 +1,8 @@
 ---
 iso: hav
 name: Havu
+name_zh: 哈武语
+name_zh_auto: true
 autonym: Kihavu
 alt_names: [Haavu]
 population: 506000

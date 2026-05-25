@@ -1,6 +1,8 @@
 ---
 iso: mnd
 name: Mondé
+name_zh: 蒙德语
+name_zh_auto: true
 autonym: Salamãi
 alt_names: [Monde, Mondé-Sanamai, Salamai, Salamaikã, Sanamaica, Sanamaika, Sanamaiká, Sanamaikã, Sanamaykã, Sanamaí]
 population: null

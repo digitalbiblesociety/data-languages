@@ -1,6 +1,8 @@
 ---
 iso: etz
 name: Semimi
+name_zh: 塞米米语
+name_zh_auto: true
 autonym: Etna Bay
 alt_names: [Muri, Semini, Wesrau]
 population: 1000

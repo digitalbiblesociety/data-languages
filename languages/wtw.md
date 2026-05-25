@@ -1,6 +1,8 @@
 ---
 iso: wtw
 name: Wotu
+name_zh: 沃图语
+name_zh_auto: true
 autonym: Wadu
 population: 5000
 country_id: ID

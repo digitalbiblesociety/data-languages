@@ -1,6 +1,8 @@
 ---
 iso: bnu
 name: Bentong
+name_zh: 本通语
+name_zh_auto: true
 autonym: "Bentong-Dentong"
 alt_names: [Dentong]
 population: 25000

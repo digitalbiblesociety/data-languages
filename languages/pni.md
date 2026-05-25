@@ -1,6 +1,8 @@
 ---
 iso: pni
 name: Aoheng
+name_zh: 阿欧亨语
+name_zh_auto: true
 autonym: Penihing
 population: 2630
 country_id: ID

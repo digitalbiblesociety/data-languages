@@ -1,6 +1,8 @@
 ---
 iso: tei
 name: Torricelli
+name_zh: 托里切利语
+name_zh_auto: true
 autonym: Lou
 alt_names: [Anamagi, Aro]
 population: 520

@@ -1,6 +1,8 @@
 ---
 iso: kqh
 name: Kisankasa
+name_zh: 基桑卡萨语
+name_zh_auto: true
 autonym: Dorobo
 population: 4670
 country_id: TZ

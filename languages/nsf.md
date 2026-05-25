@@ -1,6 +1,8 @@
 ---
 iso: nsf
 name: Northwestern Nisu
+name_zh: 西北尼苏语
+name_zh_auto: true
 autonym: Southern Yi
 alt_names: ["Nisu, Northwestern"]
 population: null

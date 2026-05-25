@@ -1,6 +1,8 @@
 ---
 iso: tme
 name: Tremembé
+name_zh: 特雷姆贝语
+name_zh_auto: true
 autonym: Teremembé
 alt_names: [Brazil, Tremembe]
 population: null

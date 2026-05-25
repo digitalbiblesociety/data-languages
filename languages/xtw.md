@@ -1,6 +1,8 @@
 ---
 iso: xtw
 name: Tawandê
+name_zh: 塔万德语
+name_zh_auto: true
 autonym: Northern Nambikwara
 alt_names: [Kithāulhú, Mamaindê, Mamande, Nakarothe, Northern Nambikuaran, Northern Nambiquara, Tawande, Tawandé, Tawanxte, Taxmainite, Taxwensite]
 population: null

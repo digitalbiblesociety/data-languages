@@ -1,6 +1,8 @@
 ---
 iso: igo
 name: Isebe
+name_zh: 伊塞贝语
+name_zh_auto: true
 autonym: Balahaim
 population: 910
 country_id: PG

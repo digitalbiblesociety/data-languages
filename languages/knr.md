@@ -1,6 +1,8 @@
 ---
 iso: knr
 name: Kaningra
+name_zh: 卡宁格拉语
+name_zh_auto: true
 autonym: Kaningara
 population: 300
 country_id: PG

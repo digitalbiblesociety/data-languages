@@ -1,6 +1,8 @@
 ---
 iso: zak
 name: Zanaki
+name_zh: 扎纳基语
+name_zh_auto: true
 autonym: Ekizanaki
 alt_names: [Ikizanaki, Kizanaki]
 population: 97400

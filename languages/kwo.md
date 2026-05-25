@@ -1,6 +1,8 @@
 ---
 iso: kwo
 name: Kwomtari
+name_zh: 克沃姆塔里语
+name_zh_auto: true
 autonym: null
 population: 600
 country_id: PG

@@ -1,6 +1,8 @@
 ---
 iso: xoc
 name: "O'chi'chi'"
+name_zh: 欧奇奇语
+name_zh_auto: true
 autonym: O’chi’chi’
 population: null
 country_id: NG

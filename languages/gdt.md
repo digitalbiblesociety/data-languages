@@ -1,6 +1,8 @@
 ---
 iso: gdt
 name: Kungardutyi
+name_zh: 昆加杜蒂语
+name_zh_auto: true
 autonym: Palpakunu
 population: null
 country_id: AU

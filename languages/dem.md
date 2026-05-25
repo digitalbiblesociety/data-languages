@@ -1,6 +1,8 @@
 ---
 iso: dem
 name: Dem
+name_zh: 德姆语
+name_zh_auto: true
 autonym: Lem
 alt_names: [Ndem]
 population: 1000

@@ -1,6 +1,8 @@
 ---
 iso: bsb
 name: Brunei Bisaya
+name_zh: 文莱比萨亚语
+name_zh_auto: true
 autonym: Tutong 1
 alt_names: [Basaya, Bekiau, Besaya, Bisaia, Bisaya, Bisaya Bukit, "Bisaya, Brunei", Bisayah, Dusun, Jilama Bawang, Jilama Sungai, Lorang Bukit, Southern Bisaya, Visayak]
 population: 57600

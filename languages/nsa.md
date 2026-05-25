@@ -1,6 +1,8 @@
 ---
 iso: nsa
 name: Sangtam Naga
+name_zh: 桑格塔姆纳加语
+name_zh_auto: true
 autonym: Thukumi
 alt_names: [Isachanure, Lophomi, "Naga, Sangtam", "Naga,Sangtam", Sangtam, Tukumi]
 population: 76000

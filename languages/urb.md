@@ -1,6 +1,8 @@
 ---
 iso: urb
 name: "Urubú-Kaapor"
+name_zh: 乌鲁布-卡阿波尔语
+name_zh_auto: true
 autonym: Urubu
 alt_names: [Amanage, Amanajo, Amanajé, Amanayé, Anambé, Caapor, Guajá, "Ka'apor", "Ka'apór", Kaapor, Kaaporté, Manajo, Manaxo, Manaze, Manazo, Urubu-Kaapor, Urubú, "Urubú-Ka'apór"]
 population: 800

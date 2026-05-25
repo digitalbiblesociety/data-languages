@@ -1,6 +1,8 @@
 ---
 iso: mjq
 name: Malaryan
+name_zh: 玛拉让语
+name_zh_auto: true
 autonym: മലർയൻ
 alt_names: [Arayans, Karingal, Malai Arayan, Malayarayan, Malayarayar, Male Arayans, Maley Arayan, Vazhiyammar]
 population: null

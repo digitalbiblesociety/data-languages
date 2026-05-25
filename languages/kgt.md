@@ -1,6 +1,8 @@
 ---
 iso: kgt
 name: Somyev
+name_zh: 索米耶夫语
+name_zh_auto: true
 autonym: Kila
 alt_names: [Fur, Kila Yang, Kilayen, Sombe, Sombə, Somieve, Somyewe, Somyiwe, Somyɛwɛ]
 population: 15

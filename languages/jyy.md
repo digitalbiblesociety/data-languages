@@ -1,6 +1,8 @@
 ---
 iso: jyy
 name: Jaya
+name_zh: 雅亚语
+name_zh_auto: true
 autonym: null
 alt_names: [Yaya]
 population: 2200

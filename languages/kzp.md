@@ -1,6 +1,8 @@
 ---
 iso: kzp
 name: Kaidipang
+name_zh: 凯迪班语
+name_zh_auto: true
 autonym: Dio
 alt_names: [Kaidipan]
 population: 6660

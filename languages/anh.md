@@ -1,6 +1,8 @@
 ---
 iso: anh
 name: Nend
+name_zh: 嫩德语
+name_zh_auto: true
 autonym: Angaua
 alt_names: [Nent]
 population: 2000

@@ -1,6 +1,8 @@
 ---
 iso: lwo
 name: Luwo
+name_zh: 卢沃语
+name_zh_auto: true
 autonym: Luwo
 alt_names: [Dhe Luwo, Dhe Lwo, Giur, Jo Lwo, Jur, Jur Luo, Jur Luwo, Jur Lwo, Lwo]
 population: 257000

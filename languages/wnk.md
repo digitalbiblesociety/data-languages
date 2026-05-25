@@ -1,6 +1,8 @@
 ---
 iso: wnk
 name: Wanukaka
+name_zh: 瓦努卡卡语
+name_zh_auto: true
 autonym: Wanokaka
 population: 10000
 country_id: ID

@@ -1,6 +1,8 @@
 ---
 iso: fie
 name: Fyer
+name_zh: 费耶尔语
+name_zh_auto: true
 autonym: Fier
 alt_names: [Fyer jezik, Ron Group B]
 population: 26100

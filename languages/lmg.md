@@ -1,6 +1,8 @@
 ---
 iso: lmg
 name: Lamogai
+name_zh: 拉莫盖语
+name_zh_auto: true
 autonym: Akiuru
 alt_names: [Mulakaino]
 population: 3650

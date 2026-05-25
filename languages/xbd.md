@@ -1,6 +1,8 @@
 ---
 iso: xbd
 name: Bindal
+name_zh: 宾德尔语
+name_zh_auto: true
 autonym: Nyawaygi
 population: null
 country_id: AU

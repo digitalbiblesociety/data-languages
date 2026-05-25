@@ -1,6 +1,8 @@
 ---
 iso: ztm
 name: San Agustín Mixtepec Zapotec
+name_zh: 圣奥古斯丁混特佩克萨波特克语
+name_zh_auto: true
 autonym: null
 alt_names: [Eastern Sapoteko, San Agustin Mixtepec Zapotec, San Agustín Mixtepec, Zapotec, "Zapotec, San Agustín Mixtepec", Zapoteco de Petapa, Zapoteco de San Bartolo Yautepec, Zapoteco mixtepeco, Zapotèque de Mixtepe, Zapotèque de Petapa, Zapotèque de San Bartolo Yautepec]
 population: 59

@@ -1,6 +1,8 @@
 ---
 iso: tex
 name: Tennet
+name_zh: 特内特语
+name_zh_auto: true
 autonym: Tenet
 population: 10000
 country_id: SS

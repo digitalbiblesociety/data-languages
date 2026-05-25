@@ -1,6 +1,8 @@
 ---
 iso: tpa
 name: Taupota
+name_zh: 陶波塔语
+name_zh_auto: true
 autonym: null
 population: 1280
 country_id: PG

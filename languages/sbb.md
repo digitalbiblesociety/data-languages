@@ -1,6 +1,8 @@
 ---
 iso: sbb
 name: Simbo
+name_zh: 西姆博语
+name_zh_auto: true
 autonym: Madeggusu
 alt_names: [Mandeghughusu, Sibo]
 population: 2700

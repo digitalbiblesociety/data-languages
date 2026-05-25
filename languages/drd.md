@@ -1,6 +1,8 @@
 ---
 iso: drd
 name: Darmiya
+name_zh: 达米亚语
+name_zh_auto: true
 autonym: Darmiya
 alt_names: [Darimiya, Darma, Darma Lwo, Darmani, Darmiyā, Dārmūyā, Sauka, Saukas, Shauka, Shaukas]
 population: 1750

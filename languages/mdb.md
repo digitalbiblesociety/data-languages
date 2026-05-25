@@ -1,6 +1,8 @@
 ---
 iso: mdb
 name: Morigi
+name_zh: 莫里吉语
+name_zh_auto: true
 autonym: Dabura
 alt_names: [Morigi Island, Turama, Turama River Kiwai, Wariadai]
 population: 700

@@ -1,6 +1,8 @@
 ---
 iso: duq
 name: Dusun Malang
+name_zh: 杜顺玛朗语
+name_zh_auto: true
 autonym: Dusun Malang
 population: 2000
 country_id: ID

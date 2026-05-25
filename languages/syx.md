@@ -1,6 +1,8 @@
 ---
 iso: syx
 name: Samay
+name_zh: 萨玛伊语
+name_zh_auto: true
 autonym: Osamayi
 population: 1000
 country_id: GA

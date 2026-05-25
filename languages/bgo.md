@@ -1,6 +1,8 @@
 ---
 iso: bgo
 name: Baga Koga
+name_zh: 巴加科加语
+name_zh_auto: true
 autonym: Barka
 alt_names: [Baga, Koba, Koga, Temne]
 population: 5000

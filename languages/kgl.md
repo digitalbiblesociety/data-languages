@@ -1,6 +1,8 @@
 ---
 iso: kgl
 name: Kunggari
+name_zh: 庚加里语
+name_zh_auto: true
 autonym: Southern Maric
 alt_names: [Congaro, Coongurri, Goon garee, Goon-garree, Goongurri, Gungar, Gungari, Gunggari, Kogai, Kogurre, Kokaburra, Koongerri, Koonkerri, Koonkurri, Kungeri, Kungri, Kunkari, Kunngkari, Kuungkari, Nebine Gunggari, Ngaragari, Tarawalla, Torraburri, Ungerri, Unggari, Unggri, Unghi, Ungorri, Yangeberra, Yangeeberra, Yangeeburra, Yankibura, Yankiburra]
 population: null

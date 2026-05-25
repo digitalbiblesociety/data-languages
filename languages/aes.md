@@ -1,6 +1,8 @@
 ---
 iso: aes
 name: Alsea
+name_zh: 阿尔塞亚语
+name_zh_auto: true
 autonym: Yakonan
 alt_names: [Alsean, Alséya, Aslean, Iakon, Yakona, Yakwina, Yaquina]
 population: null

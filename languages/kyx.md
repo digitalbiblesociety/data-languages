@@ -1,6 +1,8 @@
 ---
 iso: kyx
 name: Rapoisi
+name_zh: 拉波伊西语
+name_zh_auto: true
 autonym: Rapoisi
 alt_names: [Konua, Kunua]
 population: 3500

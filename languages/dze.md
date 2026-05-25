@@ -1,6 +1,8 @@
 ---
 iso: dze
 name: Djiwarli
+name_zh: 詹瓦利语
+name_zh_auto: true
 autonym: Djiwali
 alt_names: [Djwarli, Dyiwarli, Guwari, Jivali, Jiwali, Jiwarli, Juwali, Kuwari, Tcheewarlee, Tci-warli, "Te:n", Teen, Tenma, Thiin, Tivali, Tjiwali, Tjiwarli]
 population: null

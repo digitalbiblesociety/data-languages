@@ -1,6 +1,8 @@
 ---
 iso: gtu
 name: "Aghu-Tharnggala"
+name_zh: 阿古-塔尔恩加拉语
+name_zh_auto: true
 autonym: Gogo Mini
 population: null
 country_id: AU

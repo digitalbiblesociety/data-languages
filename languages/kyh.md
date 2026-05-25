@@ -1,6 +1,8 @@
 ---
 iso: kyh
 name: Karok
+name_zh: 卡罗克语
+name_zh_auto: true
 autonym: araráhih
 alt_names: [Charoc, Karuk, Karuk language, Quoratean, Quoratem, Карук]
 population: 1900

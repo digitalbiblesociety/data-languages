@@ -1,6 +1,8 @@
 ---
 iso: ddg
 name: Fataluku
+name_zh: 法塔卢库语
+name_zh_auto: true
 autonym: Dagada
 alt_names: [Bahasa Fataluku, Dagaga, Dagoda, "Dagoda'", Fataloukoueg, Fataluco, Idioma fataluco, ภาษาฟาตาลูกู]
 population: 48400

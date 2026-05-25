@@ -1,6 +1,8 @@
 ---
 iso: afp
 name: Tapei
+name_zh: 塔佩伊语
+name_zh_auto: true
 autonym: Imboin
 alt_names: [Alfendio, Arafundi, Aunda, Kapagmai, Lower Arafundi, Nanubae, Upper Arafundi]
 population: 290

@@ -1,6 +1,8 @@
 ---
 iso: mqf
 name: Momuna
+name_zh: 莫穆纳语
+name_zh_auto: true
 autonym: Somahai
 alt_names: [Somage, Sumohai]
 population: 2000

@@ -1,6 +1,8 @@
 ---
 iso: kym
 name: Kpatili
+name_zh: 克帕蒂利语
+name_zh_auto: true
 autonym: Kpatere
 population: 4500
 country_id: CF

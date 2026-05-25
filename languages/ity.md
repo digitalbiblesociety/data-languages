@@ -1,6 +1,8 @@
 ---
 iso: ity
 name: Moyadan Itneg
+name_zh: 莫亚丹伊特内格语
+name_zh_auto: true
 autonym: Tinggian
 alt_names: ["Itneg, Moyadan", Tinguian]
 population: 12000

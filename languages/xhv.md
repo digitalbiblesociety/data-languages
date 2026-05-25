@@ -1,6 +1,8 @@
 ---
 iso: xhv
 name: Khua
+name_zh: 库亚语
+name_zh_auto: true
 autonym: Bruu
 population: 3000
 country_id: VN

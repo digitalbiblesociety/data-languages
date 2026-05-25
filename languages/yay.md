@@ -1,6 +1,8 @@
 ---
 iso: yay
 name: Agwagwune
+name_zh: 阿格瓦格武内语
+name_zh_auto: true
 autonym: Agwagwune
 alt_names: ["\"Akunakuna\"", Agwaguna, Akunakuna, Akurakura, Gwune, Okurikan]
 population: 20000

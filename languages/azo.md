@@ -1,6 +1,8 @@
 ---
 iso: azo
 name: Awing
+name_zh: 阿温语
+name_zh_auto: true
 autonym: "Mbwe'wi"
 alt_names: [Awi, Bambuluwe]
 population: 19000

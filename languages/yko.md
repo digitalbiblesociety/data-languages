@@ -1,6 +1,8 @@
 ---
 iso: yko
 name: Yasa
+name_zh: 亚萨语
+name_zh_auto: true
 autonym: Bongwe
 alt_names: ["\"Ndowe\"", Iyaasa, Iyasa, Iyassa, Lyaasa, Lyassa, Maasa, Yassa]
 population: 1490

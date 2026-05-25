@@ -1,6 +1,8 @@
 ---
 iso: auh
 name: Aushi
+name_zh: 奥希语
+name_zh_auto: true
 autonym: Ushi
 alt_names: [Avaushi, Usi, Uzhil, Uzhili, Vouaousi]
 population: 100000

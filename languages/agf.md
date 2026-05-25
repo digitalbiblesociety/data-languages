@@ -1,6 +1,8 @@
 ---
 iso: agf
 name: Arguni
+name_zh: 阿尔古尼语
+name_zh_auto: true
 autonym: Argoeni
 population: 150
 country_id: ID

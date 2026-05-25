@@ -1,6 +1,8 @@
 ---
 iso: bkw
 name: Bekwel
+name_zh: 贝克韦尔语
+name_zh_auto: true
 autonym: Bakwele
 alt_names: [Bakwil, Bekwie, Bekwil, Okpele]
 population: 12060

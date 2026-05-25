@@ -1,6 +1,8 @@
 ---
 iso: vto
 name: Vitou
+name_zh: 维图语
+name_zh_auto: true
 autonym: Takar
 population: 630
 country_id: ID

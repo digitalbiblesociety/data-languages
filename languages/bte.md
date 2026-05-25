@@ -1,6 +1,8 @@
 ---
 iso: bte
 name: "Gamo-Ningi"
+name_zh: 加莫-宁吉语
+name_zh_auto: true
 autonym: "tì-Gamo"
 population: null
 country_id: NG

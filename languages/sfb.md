@@ -1,6 +1,8 @@
 ---
 iso: sfb
 name: Langue des signes de Belgique Francophone
+name_zh: 比利时法语手语
+name_zh_auto: true
 autonym: Langue des signes de Belgique francophone (LSFB)
 alt_names: [French Belgian Sign Language, LSFB, Langue des Signes Belge Francophone, North Belgium Sign Language, South Belgium Sign Language]
 population: 4000

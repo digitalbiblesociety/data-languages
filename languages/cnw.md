@@ -1,6 +1,8 @@
 ---
 iso: cnw
 name: Ngawn Chin
+name_zh: 恩高恩钦语
+name_zh_auto: true
 autonym: Ngawn
 alt_names: ["Chin, Ngawn", "Chin,Ngawn", Ngon, Ngorn]
 population: 18600

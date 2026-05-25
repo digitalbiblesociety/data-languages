@@ -1,6 +1,8 @@
 ---
 iso: anb
 name: Andoa
+name_zh: 安多亚语
+name_zh_auto: true
 autonym: Gae
 alt_names: [Andoan, Andoeg, Arabela-Andoa, Gaye, Idioma andoa-shimigae, Semigae, Shimigae, Siaviri]
 population: null

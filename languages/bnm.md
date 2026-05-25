@@ -1,6 +1,8 @@
 ---
 iso: bnm
 name: Batanga
+name_zh: 巴唐加语
+name_zh_auto: true
 autonym: Noho
 alt_names: ["Bano'o", Banoho, Banoo, Nohu, Noku]
 population: 15000

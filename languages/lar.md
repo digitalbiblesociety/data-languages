@@ -1,6 +1,8 @@
 ---
 iso: lar
 name: Larteh
+name_zh: 拉尔特语
+name_zh_auto: true
 autonym: Gua
 alt_names: [Guang, Late, Lete]
 population: 107000

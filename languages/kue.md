@@ -1,6 +1,8 @@
 ---
 iso: kue
 name: Kuman (Papua New Guinea)
+name_zh: 库曼语(巴布亚新几内亚)
+name_zh_auto: true
 autonym: Kuman
 alt_names: [Chimbu, Simbu]
 population: 115000

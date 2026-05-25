@@ -1,6 +1,8 @@
 ---
 iso: gnq
 name: Gana
+name_zh: 加纳语
+name_zh_auto: true
 autonym: Ganaq
 alt_names: ["Gana'", Keningau Dusun, Minansut]
 population: 1000

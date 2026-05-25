@@ -1,6 +1,8 @@
 ---
 iso: ywl
 name: Western Lalu
+name_zh: 西拉卢语
+name_zh_auto: true
 autonym: Western Yi
 alt_names: ["Lalu, Western", "Lalu,Western", Lolo, Yi, "Yi, Western Lalu"]
 population: 38000

@@ -1,6 +1,8 @@
 ---
 iso: fau
 name: Fayu
+name_zh: 法尤语
+name_zh_auto: true
 autonym: Sehudate
 population: 350
 country_id: ID

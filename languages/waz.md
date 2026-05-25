@@ -1,6 +1,8 @@
 ---
 iso: waz
 name: Wampur
+name_zh: 瓦姆普尔语
+name_zh_auto: true
 autonym: Wampul
 population: 320
 country_id: PG

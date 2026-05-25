@@ -1,6 +1,8 @@
 ---
 iso: wdg
 name: Wadaginam
+name_zh: 瓦达基纳姆语
+name_zh_auto: true
 autonym: Wadaginamb
 population: 950
 country_id: PG

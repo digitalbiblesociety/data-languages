@@ -1,6 +1,8 @@
 ---
 iso: lmx
 name: Laimbue
+name_zh: 莱姆布埃语
+name_zh_auto: true
 autonym: null
 alt_names: [Cameroon]
 population: 5000

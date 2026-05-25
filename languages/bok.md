@@ -1,6 +1,8 @@
 ---
 iso: bok
 name: Bonjo
+name_zh: 邦约语
+name_zh_auto: true
 autonym: Impfondo
 population: 3000
 country_id: CG

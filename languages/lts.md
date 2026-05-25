@@ -1,6 +1,8 @@
 ---
 iso: lts
 name: Tachoni
+name_zh: 塔乔尼语
+name_zh_auto: true
 autonym: Lumasaba
 alt_names: [Lutachoni]
 population: null

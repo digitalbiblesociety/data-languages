@@ -1,6 +1,8 @@
 ---
 iso: bay
 name: Batuley
+name_zh: 巴图莱语
+name_zh_auto: true
 autonym: Gwataley
 alt_names: [Aru, Watulai]
 population: 3840

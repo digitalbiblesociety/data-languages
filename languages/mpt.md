@@ -1,6 +1,8 @@
 ---
 iso: mpt
 name: Mian
+name_zh: 米安语
+name_zh_auto: true
 autonym: Mian Weng
 alt_names: [Mianmin, Miyanmin]
 population: 3500

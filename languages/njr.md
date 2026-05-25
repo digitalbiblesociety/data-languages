@@ -1,6 +1,8 @@
 ---
 iso: njr
 name: Njerep
+name_zh: 恩杰雷普语
+name_zh_auto: true
 autonym: Njerup
 population: 2018
 country_id: NG

@@ -1,6 +1,8 @@
 ---
 iso: ibn
 name: Ibino
+name_zh: 伊比诺语
+name_zh_auto: true
 autonym: Ibeno
 alt_names: [Ibuno]
 population: 10000

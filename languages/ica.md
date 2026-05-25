@@ -1,6 +1,8 @@
 ---
 iso: ica
 name: Ede Ica
+name_zh: 埃德伊卡语
+name_zh_auto: true
 autonym: Ica
 population: 48800
 country_id: BJ

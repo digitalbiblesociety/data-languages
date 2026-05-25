@@ -1,6 +1,8 @@
 ---
 iso: yiv
 name: Northern Nisu
+name_zh: 北尼苏语
+name_zh_auto: true
 autonym: Southern Yi
 alt_names: [E-Xin Yi, Lolo, "Nisu, Northern", "Nisu,Northern", Yi, "Yi, Eshan-Xinping"]
 population: 160000

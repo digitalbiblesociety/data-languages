@@ -1,6 +1,8 @@
 ---
 iso: txj
 name: Tarjumo
+name_zh: 塔尔朱莫语
+name_zh_auto: true
 autonym: Tarjumo
 population: null
 country_id: NG

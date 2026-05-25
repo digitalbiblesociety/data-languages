@@ -1,6 +1,8 @@
 ---
 iso: yum
 name: Quechan
+name_zh: 克查语
+name_zh_auto: true
 autonym: Yuma
 alt_names: [Cuchan, Kechan, Kwtsaan, Kwtsan, Quecl, Yuma (Yuman), Yuma Proper]
 population: 150

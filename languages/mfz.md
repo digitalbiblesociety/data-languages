@@ -1,6 +1,8 @@
 ---
 iso: mfz
 name: Mabaan
+name_zh: 玛巴安语
+name_zh_auto: true
 autonym: Mabaan
 alt_names: [Barga, Gura, Maaban, Maban, Meban, Southern Burun, Süd-Burun, Tonko, Tungan, Ulu]
 population: 90000

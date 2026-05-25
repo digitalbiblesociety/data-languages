@@ -1,6 +1,8 @@
 ---
 iso: tec
 name: Terik
+name_zh: 特里克语
+name_zh_auto: true
 autonym: Nyang’ori
 alt_names: ["Nyang'ori"]
 population: 120000

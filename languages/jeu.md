@@ -1,6 +1,8 @@
 ---
 iso: jeu
 name: Jonkor Bourmataguil
+name_zh: 琼科尔-布尔马塔圭尔语
+name_zh_auto: true
 autonym: Djongor Bourmataguil
 alt_names: [Dougne, Karakir]
 population: 1500

@@ -1,6 +1,8 @@
 ---
 iso: hdn
 name: Northern Haida
+name_zh: 北海达语
+name_zh_auto: true
 autonym: " X̱aadas Kíl"
 alt_names: [Haida, Haida (Northern), "Haida, Northern", Masset Haida]
 population: 1100

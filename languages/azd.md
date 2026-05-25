@@ -1,6 +1,8 @@
 ---
 iso: azd
 name: Eastern Durango Nahuatl
+name_zh: 东杜兰戈纳瓦特尔语
+name_zh_auto: true
 autonym: Durango Aztec
 alt_names: ["Nahuatl, Eastern Durango"]
 population: null

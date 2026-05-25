@@ -1,6 +1,8 @@
 ---
 iso: jas
 name: New Caledonian Javanese
+name_zh: 新喀里多尼亚爪哇语
+name_zh_auto: true
 autonym: ꦧꦱꦗꦮباسا جاوا
 alt_names: ["Javanese, New Caledonian", New Caledonia]
 population: 6750

@@ -1,6 +1,8 @@
 ---
 iso: bbs
 name: Bakpinka
+name_zh: 巴克平卡语
+name_zh_auto: true
 autonym: Bakpinka
 alt_names: [Begbungba, Iyongiyong, Iyoniyong, Uwet]
 population: 4000

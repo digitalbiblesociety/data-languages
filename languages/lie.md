@@ -1,6 +1,8 @@
 ---
 iso: lie
 name: Likila
+name_zh: 利基拉语
+name_zh_auto: true
 autonym: Balobo
 alt_names: [Bangela]
 population: 8400

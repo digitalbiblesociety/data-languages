@@ -1,6 +1,8 @@
 ---
 iso: rgs
 name: Southern Roglai
+name_zh: 南部罗格莱语
+name_zh_auto: true
 autonym: Rai
 alt_names: [Roglai, "Roglai, Southern", Ríoglai, Southern]
 population: 18000

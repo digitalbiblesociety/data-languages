@@ -1,6 +1,8 @@
 ---
 iso: ulu
 name: "Uma' Lung"
+name_zh: 乌玛-隆语
+name_zh_auto: true
 autonym: Oma Longh
 alt_names: ["Kenyah (Uma' Lung)", Òma Lóngh]
 population: 3000

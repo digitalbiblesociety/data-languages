@@ -1,6 +1,8 @@
 ---
 iso: nix
 name: Hema
+name_zh: 赫马语
+name_zh_auto: true
 autonym: Ruhema
 alt_names: [Congo Nyoro, Hema-Sud, Kihema, Nyoro, Runyoro, Southern Hema]
 population: 125000

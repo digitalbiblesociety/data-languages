@@ -1,6 +1,8 @@
 ---
 iso: kwj
 name: Kwanga
+name_zh: 克旺加语
+name_zh_auto: true
 autonym: null
 alt_names: [Gawanga, Język kwanga, Kawanga, Mende, Nihamber, Nihamber Sambu, Sambu, Seim, Womsak]
 population: 10000

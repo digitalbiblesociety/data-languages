@@ -1,6 +1,8 @@
 ---
 iso: wob
 name: Wè Northern
+name_zh: 北韦语
+name_zh_auto: true
 autonym: Northern Wèè
 alt_names: [Ouobe, Wobe, Wobé, Wèè]
 population: 265000

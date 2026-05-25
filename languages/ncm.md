@@ -1,6 +1,8 @@
 ---
 iso: ncm
 name: Nambo
+name_zh: 纳姆博语
+name_zh_auto: true
 autonym: Nambu
 alt_names: [Arufe, Namna]
 population: 710

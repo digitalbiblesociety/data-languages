@@ -1,6 +1,8 @@
 ---
 iso: mmi
 name: Musar
+name_zh: 穆萨尔语
+name_zh_auto: true
 autonym: Aregerek
 alt_names: [Amben, Hember Avu]
 population: 684

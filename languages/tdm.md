@@ -1,6 +1,8 @@
 ---
 iso: tdm
 name: Taruma
+name_zh: 塔鲁玛语
+name_zh_auto: true
 autonym: hodjasu dzudzu
 alt_names: [Aroaqui, Taruamá]
 population: null

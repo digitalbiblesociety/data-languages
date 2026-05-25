@@ -1,6 +1,8 @@
 ---
 iso: xpm
 name: Pumpokol
+name_zh: 蓬波科尔语
+name_zh_auto: true
 autonym: "Gebéŋ-aj, Gebèng-ai"
 alt_names: [Poumpokole, Poumpokoleg, Pumpokolin kieli, Pumpokolsk, Пумпокольский язык]
 population: null

@@ -1,6 +1,8 @@
 ---
 iso: lbv
 name: "Lavatbura-Lamusong"
+name_zh: 拉瓦特布拉-拉穆松语
+name_zh_auto: true
 autonym: Lamasong
 alt_names: [Neu-Mecklenburg]
 population: 1310

@@ -1,6 +1,8 @@
 ---
 iso: aoj
 name: Mufian
+name_zh: 姆菲亚语
+name_zh_auto: true
 autonym: Southern Arapesh
 alt_names: [Mufwian, Muhian, Muhiang, Souther Arapesh]
 population: 11000

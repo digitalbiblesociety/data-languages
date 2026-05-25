@@ -1,6 +1,8 @@
 ---
 iso: mox
 name: Molima
+name_zh: 莫利玛语
+name_zh_auto: true
 autonym: Salakahadi
 alt_names: [Ebadidi, Fagululu, Morima]
 population: 4010

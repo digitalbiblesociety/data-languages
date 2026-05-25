@@ -1,6 +1,8 @@
 ---
 iso: wiv
 name: Vitu
+name_zh: 维图语
+name_zh_auto: true
 autonym: Muduapa
 alt_names: [Bali-Vitu, Muduapa jezik, Witu]
 population: 7000

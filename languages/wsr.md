@@ -1,6 +1,8 @@
 ---
 iso: wsr
 name: Owenia
+name_zh: 欧韦尼亚语
+name_zh_auto: true
 autonym: Waisara
 alt_names: [Owena, Owenda, Waijara]
 population: 350

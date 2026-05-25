@@ -1,6 +1,8 @@
 ---
 iso: dva
 name: Duau
+name_zh: 杜劳语
+name_zh_auto: true
 autonym: null
 population: 3550
 country_id: PG

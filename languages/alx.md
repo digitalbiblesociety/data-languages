@@ -1,6 +1,8 @@
 ---
 iso: alx
 name: Amol
+name_zh: 阿莫尔语
+name_zh_auto: true
 autonym: Alatil
 alt_names: [Alang, Aru, Eru]
 population: 270

@@ -1,6 +1,8 @@
 ---
 iso: scx
 name: Sicel
+name_zh: 西采尔语
+name_zh_auto: true
 autonym: Sicel
 population: null
 country_id: IT

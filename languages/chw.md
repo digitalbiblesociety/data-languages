@@ -1,6 +1,8 @@
 ---
 iso: chw
 name: Chuwabu
+name_zh: 楚瓦布语
+name_zh_auto: true
 autonym: Cuabo
 alt_names: [Chichwabo, Chuabo, Chuwabo, Chwabo, Cicuabo, Cuwabo, Echuabo, Echuwabo, Txuwabo]
 population: 970000

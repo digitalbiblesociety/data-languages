@@ -1,6 +1,8 @@
 ---
 iso: pef
 name: Northeastern Pomo
+name_zh: 东北波莫语
+name_zh_auto: true
 autonym: Salt Pomo
 alt_names: [Northeast Pomo, Northeastern Russian River, Pomo du Nord-Ouest, Pomo du nord-est, Pomo nororiental, "Pomo, Northeastern", Sonoma]
 population: null

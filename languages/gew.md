@@ -1,6 +1,8 @@
 ---
 iso: gew
 name: Gera
+name_zh: 格拉语
+name_zh_auto: true
 autonym: Fyandigere
 alt_names: [Gerawa]
 population: 200000

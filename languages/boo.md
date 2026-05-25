@@ -1,6 +1,8 @@
 ---
 iso: boo
 name: Tiemacèwè Bozo
+name_zh: 提埃马塞韦博佐语
+name_zh_auto: true
 autonym: Boso
 alt_names: ["Bozo, Tiemacèwè", "Bozo, Tièma Cièwè", Tiemacewe Bozo, Tièma Cièwè, Tié]
 population: 1315

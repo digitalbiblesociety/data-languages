@@ -1,6 +1,8 @@
 ---
 iso: sbd
 name: Southern Samo
+name_zh: 南方萨莫语
+name_zh_auto: true
 autonym: Sane
 alt_names: [Samo, "Samo, Southern", San, Somono]
 population: 85000

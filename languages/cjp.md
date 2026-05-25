@@ -1,6 +1,8 @@
 ---
 iso: cjp
 name: Cabécar
+name_zh: 卡贝卡尔语
+name_zh_auto: true
 autonym: Chirripó
 alt_names: [Cabecar, Chiripo, Estrella, Kabékar, Tucurrique]
 population: 7072

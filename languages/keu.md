@@ -1,6 +1,8 @@
 ---
 iso: keu
 name: Akebu
+name_zh: 阿克布语
+name_zh_auto: true
 autonym: Kebu
 alt_names: [Akebou, Ekpeebhe, Kabu, Kegberike]
 population: 73000

@@ -1,6 +1,8 @@
 ---
 iso: xkc
 name: "Kho'ini"
+name_zh: 克霍伊尼语
+name_zh_auto: true
 autonym: Di
 alt_names: [Iran]
 population: null

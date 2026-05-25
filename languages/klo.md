@@ -1,6 +1,8 @@
 ---
 iso: klo
 name: Kapya
+name_zh: 卡皮亚语
+name_zh_auto: true
 autonym: null
 alt_names: [Nigeria]
 population: 200

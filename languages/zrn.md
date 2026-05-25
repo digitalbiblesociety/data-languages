@@ -1,6 +1,8 @@
 ---
 iso: zrn
 name: Zerenkel
+name_zh: 泽伦克尔语
+name_zh_auto: true
 autonym: Zirenkel
 alt_names: [Zirenkel language]
 population: 2240

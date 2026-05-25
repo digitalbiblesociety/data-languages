@@ -1,6 +1,8 @@
 ---
 iso: nou
 name: "Ewage-Notu"
+name_zh: 埃瓦热-诺图语
+name_zh_auto: true
 autonym: Notu
 alt_names: [Ewage, Yega]
 population: 12000

@@ -1,6 +1,8 @@
 ---
 iso: chj
 name: Ojitlán Chinantec
+name_zh: 奥吉特兰奇南特克语
+name_zh_auto: true
 autonym: Chinantec
 alt_names: [Chehalis, "Chinantec, Ojitlán", Chinanteco, Chinanteco del norte, Chinanteko, Comaltepec, Copalis, Northern Chinantec, Ojitlan, Ojitlan Chinantec, Ojitlán, Ojitlán Chinanteko, "jmiih kia' dzä 'vï ï", jujmi (del norte), "jujmi tsa kö 'w++"]
 population: 2800

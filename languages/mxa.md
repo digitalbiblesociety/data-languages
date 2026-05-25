@@ -1,6 +1,8 @@
 ---
 iso: mxa
 name: Northwest Oaxaca Mixtec
+name_zh: 西北瓦哈卡米克斯特克语
+name_zh_auto: true
 autonym: Mixteco de Yucuná
 alt_names: [Central Baja Mixtec, "Mixtec, Northwest Oaxaca", Mixteco del Noroeste de Oaxaca, Mixteco del noroeste, Northern Misteko, Northern Mixteco, Silacayoapan Mixtec]
 population: 5430

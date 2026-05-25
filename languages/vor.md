@@ -1,6 +1,8 @@
 ---
 iso: vor
 name: Voro
+name_zh: 沃罗语
+name_zh_auto: true
 autonym: Yungur
 alt_names: [Bena, Buna, Ebina, Ebuna, Woro]
 population: null

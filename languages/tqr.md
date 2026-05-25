@@ -1,6 +1,8 @@
 ---
 iso: tqr
 name: Torona
+name_zh: 托罗纳语
+name_zh_auto: true
 autonym: null
 alt_names: [Sudan]
 population: null

@@ -1,6 +1,8 @@
 ---
 iso: jat
 name: Jakati
+name_zh: 贾卡蒂语
+name_zh_auto: true
 autonym: Jat
 alt_names: [Baluj, Jataki, Jati, Jatu, Kayani, Lahnda, Musali]
 population: null

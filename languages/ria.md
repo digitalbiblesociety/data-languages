@@ -1,6 +1,8 @@
 ---
 iso: ria
 name: Riang (India)
+name_zh: 里昂语(印度)
+name_zh_auto: true
 autonym: Tripuri
 alt_names: [Kau Bru, Reang, Riang, Tipra]
 population: 59000

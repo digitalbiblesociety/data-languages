@@ -1,6 +1,8 @@
 ---
 iso: hoa
 name: Hoava
+name_zh: 霍阿瓦语
+name_zh_auto: true
 autonym: null
 alt_names: [Hoava-Kusaghe]
 population: 460

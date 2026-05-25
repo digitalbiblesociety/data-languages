@@ -1,6 +1,8 @@
 ---
 iso: grs
 name: Gresi
+name_zh: 格雷西语
+name_zh_auto: true
 autonym: Geresi
 alt_names: [Glesi, Gresik, Klesi]
 population: 2500

@@ -1,6 +1,8 @@
 ---
 iso: brc
 name: Berbice Creole Dutch
+name_zh: 伯比斯克里奥尔荷兰语
+name_zh_auto: true
 autonym: null
 alt_names: [Batava Berbicensis, Berbice, Berbice Dutch, Berbice Dutch Creole, Berbice-Nederlands, Berbice-Niederländisch, Berbice-nederlandsk, Berbiceko nederlandera, Creole (Berbice Dutch), "Creole Dutch, Berbice", Créole néerlandais de Berbice, Dutch Creole]
 population: null

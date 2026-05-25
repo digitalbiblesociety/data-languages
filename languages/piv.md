@@ -1,6 +1,8 @@
 ---
 iso: piv
 name: Pileni
+name_zh: 皮伦尼语
+name_zh_auto: true
 autonym: Pileni
 alt_names: [Bahasa Pileni, Pilheni, Taumako, Vaeakau-Taumako]
 population: 1660

@@ -1,6 +1,8 @@
 ---
 iso: mbq
 name: Maisin
+name_zh: 迈辛语
+name_zh_auto: true
 autonym: Maisan
 alt_names: [Maisin language]
 population: 2610

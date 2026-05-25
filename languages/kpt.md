@@ -1,6 +1,8 @@
 ---
 iso: kpt
 name: Karata
+name_zh: 卡拉塔语
+name_zh_auto: true
 autonym: Karatai
 alt_names: [Karatay, Karatin, Kirdi, КIкIирлIи мацIцIи, каратинский язык, კარატაული ენა]
 population: 5000

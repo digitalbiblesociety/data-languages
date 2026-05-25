@@ -1,6 +1,8 @@
 ---
 iso: gzi
 name: Gazi
+name_zh: 加齐语
+name_zh_auto: true
 autonym: گەازى ئگڤەڕم
 population: 7030
 country_id: IR

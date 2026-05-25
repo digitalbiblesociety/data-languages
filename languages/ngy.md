@@ -1,6 +1,8 @@
 ---
 iso: ngy
 name: Tibea
+name_zh: 蒂贝亚语
+name_zh_auto: true
 autonym: Tibea
 alt_names: [Djanti, Minjanti, Ngayaba, Njanti, Nyabea, Zangnte]
 population: 1400

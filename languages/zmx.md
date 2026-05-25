@@ -1,6 +1,8 @@
 ---
 iso: zmx
 name: Bomitaba
+name_zh: 博米塔巴语
+name_zh_auto: true
 autonym: Bamitaba
 alt_names: [Mbomitaba, Mbomotaba]
 population: 9600

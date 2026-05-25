@@ -1,6 +1,8 @@
 ---
 iso: kzc
 name: Bondoukou Kulango
+name_zh: 邦杜库库朗戈语
+name_zh_auto: true
 autonym: Nkuraeng
 alt_names: [Bonduku Kulango, Kolango, Koulango, Kulange, Kulango, "Kulango, Bondoukou", Nkurange]
 population: 104000

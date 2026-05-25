@@ -1,6 +1,8 @@
 ---
 iso: kvd
 name: Kui (Indonesia)
+name_zh: 库伊语(印度尼西亚)
+name_zh_auto: true
 autonym: Lerabain
 alt_names: [Kui, Kui (in Indonesia), Masin-Lak]
 population: 4240

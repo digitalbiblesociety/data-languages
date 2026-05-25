@@ -1,6 +1,8 @@
 ---
 iso: gsm
 name: Guatemalan Sign Language
+name_zh: 危地马拉手语
+name_zh_auto: true
 autonym: Lenguaje de señas guatemalteco
 alt_names: [Lensegua, Língua Gestual da Guatemala]
 population: 50000

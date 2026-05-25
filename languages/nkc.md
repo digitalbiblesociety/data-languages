@@ -1,6 +1,8 @@
 ---
 iso: nkc
 name: Nkongho
+name_zh: 恩贡戈语
+name_zh_auto: true
 autonym: Kinkwa
 alt_names: [Lekongo, Upper Mbo]
 population: 2230

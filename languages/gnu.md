@@ -1,6 +1,8 @@
 ---
 iso: gnu
 name: Gnau
+name_zh: 纳乌语
+name_zh_auto: true
 autonym: null
 alt_names: [Gnau language]
 population: 1330

@@ -1,6 +1,8 @@
 ---
 iso: bpi
 name: Bagupi
+name_zh: 巴古比语
+name_zh_auto: true
 autonym: null
 population: 125
 country_id: PG

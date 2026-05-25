@@ -1,6 +1,8 @@
 ---
 iso: buj
 name: "Basa-Gurmana"
+name_zh: 巴萨-古尔曼纳语
+name_zh_auto: true
 autonym: "Basa-Gurmana"
 alt_names: [Basa, Koromba]
 population: 2000

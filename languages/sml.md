@@ -1,6 +1,8 @@
 ---
 iso: sml
 name: Central Sama
+name_zh: 中部萨玛语
+name_zh_auto: true
 autonym: Bajau
 alt_names: [Central Sinama, "Sama, Central", Samal, Siasi Sama, Sinama]
 population: 105000

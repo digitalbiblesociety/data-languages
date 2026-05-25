@@ -1,6 +1,8 @@
 ---
 iso: twt
 name: Turiwára
+name_zh: 图里瓦拉语
+name_zh_auto: true
 autonym: Turiuara
 alt_names: [Turiwara]
 population: null

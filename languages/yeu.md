@@ -1,6 +1,8 @@
 ---
 iso: yeu
 name: Yerukula
+name_zh: 耶鲁库拉语
+name_zh_auto: true
 autonym: ஏறுகள
 alt_names: [Erukala, Eruku Bhasha, Korava, Korchi, Kurru, Kurru Bhasha, Kurutha, Yarukula, Yerkula, Yerukala, Yerukala-Korava, Yerukla, Yerukula-Bhasha]
 population: 68500

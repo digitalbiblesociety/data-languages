@@ -1,6 +1,8 @@
 ---
 iso: skt
 name: Sakata
+name_zh: 萨卡塔语
+name_zh_auto: true
 autonym: Kisakata
 alt_names: [Lesa, Odual, Saka]
 population: 75000

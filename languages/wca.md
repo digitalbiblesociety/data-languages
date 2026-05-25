@@ -1,6 +1,8 @@
 ---
 iso: wca
 name: Yanomámi
+name_zh: 亚诺玛米语
+name_zh_auto: true
 autonym: Yąnomamɨ
 alt_names: [Central Waica, Central Waicá, Parahuri, Surara, Waica, Waica (Central), Waicá, Waiká, Xurima, Yanam, Yanoam, Yanomam, Yanomaman language area, Yanomami, Yanomamé, Yanomaé]
 population: 6000

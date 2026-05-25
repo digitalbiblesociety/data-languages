@@ -1,6 +1,8 @@
 ---
 iso: kzv
 name: Komyandaret
+name_zh: 科迈达雷特语
+name_zh_auto: true
 autonym: bahasa Komyandaret
 alt_names: [Indonesia]
 population: 300

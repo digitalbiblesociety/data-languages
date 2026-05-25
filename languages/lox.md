@@ -1,6 +1,8 @@
 ---
 iso: lox
 name: Loun
+name_zh: 路恩语
+name_zh_auto: true
 autonym: bahasa Loun
 alt_names: [Loun language]
 population: null

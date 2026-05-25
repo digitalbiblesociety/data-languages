@@ -1,6 +1,8 @@
 ---
 iso: wga
 name: Wagaya
+name_zh: 瓦盖亚语
+name_zh_auto: true
 autonym: Ngarru
 alt_names: [Akaja, Arkiya, Lee wakya, Lee-wakya, Leewakya, Leeweakya, Other Australian Indigenous Languages, Ukkia, Waagai, Waagi, Wagai, Wagaia, Wagaiau, Wagaja, Waggaia, Wakaja, Wakaya, Wakkaja, Warkaia, Warkya, Wogaia, Woorkia, Worgai, Worgaia, Workaia, Worki a, Workia, Workii, Worrkii, Wuga]
 population: null

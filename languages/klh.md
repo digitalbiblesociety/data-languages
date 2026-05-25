@@ -1,6 +1,8 @@
 ---
 iso: klh
 name: Weliki
+name_zh: 韦利基语
+name_zh_auto: true
 autonym: Karangi
 alt_names: [Weleki]
 population: 200

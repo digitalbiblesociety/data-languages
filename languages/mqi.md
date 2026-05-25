@@ -1,6 +1,8 @@
 ---
 iso: mqi
 name: Mariri
+name_zh: 玛里里语
+name_zh_auto: true
 autonym: Mairiri
 alt_names: [Aru]
 population: 390

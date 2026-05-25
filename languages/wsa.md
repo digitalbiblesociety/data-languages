@@ -1,6 +1,8 @@
 ---
 iso: wsa
 name: Warembori
+name_zh: 瓦瑞姆博里语
+name_zh_auto: true
 autonym: Waremboivoro
 alt_names: [Warenbori, Warenborieg]
 population: 600

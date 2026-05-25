@@ -1,6 +1,8 @@
 ---
 iso: pnd
 name: Mpinda
+name_zh: 姆平达语
+name_zh_auto: true
 autonym: null
 population: 18000
 country_id: AO

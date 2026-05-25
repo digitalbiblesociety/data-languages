@@ -1,6 +1,8 @@
 ---
 iso: elk
 name: Elkei
+name_zh: 埃尔凯语
+name_zh_auto: true
 autonym: Olkoi
 population: 1640
 country_id: PG

@@ -1,6 +1,8 @@
 ---
 iso: tvu
 name: Tunen
+name_zh: 图嫩语
+name_zh_auto: true
 autonym: Tunen
 population: 35000
 country_id: CM

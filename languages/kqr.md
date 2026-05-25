@@ -1,6 +1,8 @@
 ---
 iso: kqr
 name: Kimaragang
+name_zh: 基马拉甘语
+name_zh_auto: true
 autonym: Kimaragan
 alt_names: [Kimaragangan, Maragang, Marigang]
 population: 25000

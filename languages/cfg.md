@@ -1,6 +1,8 @@
 ---
 iso: cfg
 name: Como Karim
+name_zh: 科莫卡里姆语
+name_zh_auto: true
 autonym: Asom
 alt_names: [Chomo, Kinzimba, Kirim, Kiyu, Nuadhu, Shomo Karim, Shomoh, Shomong]
 population: 11400

@@ -1,6 +1,8 @@
 ---
 iso: gqr
 name: Gor
+name_zh: 戈尔语
+name_zh_auto: true
 autonym: Gorontalo
 alt_names: [Bodo]
 population: 159000

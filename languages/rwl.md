@@ -1,6 +1,8 @@
 ---
 iso: rwl
 name: Ruwila
+name_zh: 鲁维拉语
+name_zh_auto: true
 population: 51000
 country_id: TZ
 country_name: Tanzania

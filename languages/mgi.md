@@ -1,6 +1,8 @@
 ---
 iso: mgi
 name: Lijili
+name_zh: 利吉利语
+name_zh_auto: true
 autonym: Lijili
 alt_names: [Koro Lafia, Koro of Lafia, Ligili, Megili, Migili, Mijili]
 population: 40000

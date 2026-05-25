@@ -1,6 +1,8 @@
 ---
 iso: mgp
 name: Eastern Magar
+name_zh: 东迈格语
+name_zh_auto: true
 autonym: " मगर भाषा"
 alt_names: [E Magar, E. Magar, Magar, Magar (Eastern), Magar (Tanahu), Magar language, "Magar, Eastern", "Magar,Eastern", Magari, Magarkura, Magarí, Magarī, Mangari, Manggar, Mãgari, Маґар, ภาษามาคัร, 马嘉尔语]
 population: 533700

@@ -1,6 +1,8 @@
 ---
 iso: onx
 name: Onin Based Pidgin
+name_zh: 翁因衍基皮钦语
+name_zh_auto: true
 autonym: null
 alt_names: [Indonesia]
 population: 500

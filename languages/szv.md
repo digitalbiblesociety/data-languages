@@ -1,6 +1,8 @@
 ---
 iso: szv
 name: Isu (Fako Division)
+name_zh: 伊苏语
+name_zh_auto: true
 autonym: Subu
 alt_names: [Bimbia, Isu, Isubu, Isuwu, Su, Suwu]
 population: 800

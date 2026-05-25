@@ -1,6 +1,8 @@
 ---
 iso: fam
 name: Fam
+name_zh: 法姆语
+name_zh_auto: true
 autonym: Awol Fam
 alt_names: [Nigeria]
 population: 1000

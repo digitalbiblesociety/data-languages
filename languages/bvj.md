@@ -1,6 +1,8 @@
 ---
 iso: bvj
 name: Baan
+name_zh: 巴安语
+name_zh_auto: true
 autonym: Ogoi
 alt_names: [Baan-Ogoi, Goi]
 population: 5000

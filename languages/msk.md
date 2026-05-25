@@ -1,6 +1,8 @@
 ---
 iso: msk
 name: Mansaka
+name_zh: 曼萨卡语
+name_zh_auto: true
 autonym: Minansaka
 alt_names: [Mandaya Mansaka]
 population: 26100

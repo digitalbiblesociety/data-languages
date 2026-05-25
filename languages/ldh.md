@@ -1,6 +1,8 @@
 ---
 iso: ldh
 name: "Lamja-Dengsa-Tola"
+name_zh: 拉姆加-登萨-托拉语
+name_zh_auto: true
 autonym: null
 alt_names: [Nigeria]
 population: 3420

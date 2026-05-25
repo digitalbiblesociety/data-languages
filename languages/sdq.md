@@ -1,6 +1,8 @@
 ---
 iso: sdq
 name: "Semandang\r"
+name_zh: 塞曼当语
+name_zh_auto: true
 autonym: bahasa Kualan-Semandang
 alt_names: [Semandang]
 population: 100000

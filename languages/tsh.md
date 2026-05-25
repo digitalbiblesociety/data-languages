@@ -1,6 +1,8 @@
 ---
 iso: tsh
 name: Tsuvan
+name_zh: 楚万语
+name_zh_auto: true
 autonym: Matsuvan
 alt_names: [Motsuvan, Tchede, Telaki, Teleki, Terki]
 population: 2300

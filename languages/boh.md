@@ -1,6 +1,8 @@
 ---
 iso: boh
 name: Boma
+name_zh: 博马语
+name_zh_auto: true
 autonym: Kiboma
 alt_names: [Boma Kasai, Buma]
 population: 20500

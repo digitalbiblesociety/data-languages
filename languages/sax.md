@@ -1,6 +1,8 @@
 ---
 iso: sax
 name: Sa
+name_zh: 萨语
+name_zh_auto: true
 autonym: Saa
 alt_names: [Vanuatu]
 population: 2500

@@ -1,6 +1,8 @@
 ---
 iso: fap
 name: Paloor
+name_zh: 帕洛尔语
+name_zh_auto: true
 autonym: Falor
 alt_names: [Palar, Palor, Sili, Sili-Sili, Waro]
 population: 10700

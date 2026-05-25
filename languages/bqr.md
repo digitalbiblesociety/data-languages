@@ -1,6 +1,8 @@
 ---
 iso: bqr
 name: Burusu
+name_zh: 布鲁苏语
+name_zh_auto: true
 autonym: Berusuh
 population: 4350
 country_id: ID

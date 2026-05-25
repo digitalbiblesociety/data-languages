@@ -1,6 +1,8 @@
 ---
 iso: bmv
 name: Bum
+name_zh: 布姆语
+name_zh_auto: true
 autonym: Bom
 population: 21400
 country_id: CM

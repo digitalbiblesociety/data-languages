@@ -1,6 +1,8 @@
 ---
 iso: etb
 name: Etebi
+name_zh: 埃特比语
+name_zh_auto: true
 autonym: null
 alt_names: [Nigeria]
 population: 15000

@@ -1,6 +1,8 @@
 ---
 iso: zmq
 name: Mituku
+name_zh: 米图库语
+name_zh_auto: true
 autonym: "Kinya-Mituku"
 alt_names: [Metoko]
 population: 50900

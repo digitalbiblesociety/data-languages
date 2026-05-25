@@ -1,6 +1,8 @@
 ---
 iso: gwj
 name: ǀGwi
+name_zh: "!吉语"
+name_zh_auto: true
 autonym: Dcui
 alt_names: [/Gwi, G/wi, Gwi, "G|wi", Gǀwi language, "|Gui", "|Gwi", Лъгана-цъгви]
 population: 2500

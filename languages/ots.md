@@ -1,6 +1,8 @@
 ---
 iso: ots
 name: Estado de México Otomi
+name_zh: 墨西哥州奥托米语
+name_zh_auto: true
 autonym: State of Mexico Otomi
 alt_names: [Estado de Mexico Otomi, Hñatho, Othomí, Otomi, "Otomi, Estado de México", OtomÃ­ de San Felipe Santiago, OtomÃ­ del Estado de MÃ©xico, Otomí, Otomí de Mezquital, Otomí de San Felipe Santiago, Otomí de la Sierra, Otomí del Estado de México, Otomí del valle de Mezquital, State of Mexico Otomiatho]
 population: 20000

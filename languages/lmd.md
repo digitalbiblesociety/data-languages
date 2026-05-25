@@ -1,6 +1,8 @@
 ---
 iso: lmd
 name: Lumun
+name_zh: 卢蒙语
+name_zh_auto: true
 autonym: "Kuku-Lumun"
 alt_names: [Lomon, Lomón]
 population: 20000

@@ -1,6 +1,8 @@
 ---
 iso: twc
 name: Teshenawa
+name_zh: 特什纳瓦语
+name_zh_auto: true
 autonym: Teshenanchi
 alt_names: [Techenaweg, Teshena]
 population: null

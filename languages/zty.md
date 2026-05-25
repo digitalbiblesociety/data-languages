@@ -1,6 +1,8 @@
 ---
 iso: zty
 name: Yatee Zapotec
+name_zh: 亚蒂萨波特克语
+name_zh_auto: true
 autonym: Lachirioag Zapotec
 alt_names: [Northern Sapoteko, Zapotec, "Zapotec, Yatee", Zapoteco de Yatee]
 population: 5000

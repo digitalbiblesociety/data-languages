@@ -1,6 +1,8 @@
 ---
 iso: gix
 name: Gilima
+name_zh: 吉利玛语
+name_zh_auto: true
 autonym: "Ngbaka Ma'bo"
 alt_names: [Democratic Republic of the Congo]
 population: 12000

@@ -1,6 +1,8 @@
 ---
 iso: cwa
 name: Kabwa
+name_zh: 卡布瓦语
+name_zh_auto: true
 autonym: Ekikabhwa
 population: 14000
 country_id: TZ

@@ -1,6 +1,8 @@
 ---
 iso: xnk
 name: Nganakarti
+name_zh: 恩甘卡蒂语
+name_zh_auto: true
 autonym: Nanakarti
 population: null
 country_id: AU

@@ -1,6 +1,8 @@
 ---
 iso: tzx
 name: Tabriak
+name_zh: 塔布里亚克语
+name_zh_auto: true
 autonym: Karawari
 population: 2080
 country_id: PG

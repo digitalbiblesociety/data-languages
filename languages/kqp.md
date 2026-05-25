@@ -1,6 +1,8 @@
 ---
 iso: kqp
 name: Kimré
+name_zh: 金梅语
+name_zh_auto: true
 autonym: Gabri
 alt_names: [Gabri-Kimré]
 population: 20000

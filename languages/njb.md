@@ -1,6 +1,8 @@
 ---
 iso: njb
 name: Nocte Naga
+name_zh: 诺克特纳加语
+name_zh_auto: true
 autonym: Borduria
 alt_names: [Jaipuria, Mohongia, Naga, "Naga, Nocte", "Naga,Nocte", Namsang, Namsangia, Nocte, Nokte, Paniduria]
 population: 30800

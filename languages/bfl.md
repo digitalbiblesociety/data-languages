@@ -1,6 +1,8 @@
 ---
 iso: bfl
 name: "Banda-Ndélé"
+name_zh: 班达-恩德莱语
+name_zh_auto: true
 autonym: Banda of Ndélé
 alt_names: [Banda, Banda-Ndele, Nyele]
 population: 35500

@@ -1,6 +1,8 @@
 ---
 iso: bfc
 name: Panyi Bai
+name_zh: 白语
+name_zh_auto: true
 autonym: 白语 Báiyǔ
 alt_names: [Bai, "Bai, Northern", "Bai, Panyi", "Bai,Northern", Bijang Bai, Laemae, Lama, Northern Bai]
 population: 35000

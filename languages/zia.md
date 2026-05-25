@@ -1,6 +1,8 @@
 ---
 iso: zia
 name: Zia
+name_zh: 齐亚语
+name_zh_auto: true
 autonym: null
 alt_names: [Lenga Zia, Lower Waria, Mawae, Tsia, Ziya]
 population: 6550

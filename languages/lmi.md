@@ -1,6 +1,8 @@
 ---
 iso: lmi
 name: Lombi
+name_zh: 龙比语
+name_zh_auto: true
 autonym: Nemangbetu
 alt_names: [Lumbi, Odyalombito, Rombi, Rumli]
 population: 12000

@@ -1,6 +1,8 @@
 ---
 iso: pkh
 name: Pankhu
+name_zh: 潘库语
+name_zh_auto: true
 autonym: Pangkhu
 alt_names: [Paang, Pang, Pang Khua, Pangkhua, Pankho, Pankhua, Panko, Pankua]
 population: 2500

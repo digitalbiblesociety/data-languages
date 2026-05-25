@@ -1,6 +1,8 @@
 ---
 iso: mqz
 name: Pano
+name_zh: 帕诺语
+name_zh_auto: true
 autonym: Pano
 alt_names: [Malasanga, Malasanga language]
 population: 900

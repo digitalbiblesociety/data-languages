@@ -1,6 +1,8 @@
 ---
 iso: kzi
 name: Kelabit
+name_zh: 克拉比特语
+name_zh_auto: true
 autonym: Kalabit
 alt_names: [Kerabit]
 population: 1500

@@ -1,6 +1,8 @@
 ---
 iso: apn
 name: Apinayé
+name_zh: 阿皮纳耶语
+name_zh_auto: true
 autonym: Panhĩ kapẽr
 alt_names: [Apinage, Apinagé, Apinajé, Apinaye]
 population: 1500

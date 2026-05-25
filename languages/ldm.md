@@ -1,6 +1,8 @@
 ---
 iso: ldm
 name: Landoma
+name_zh: 兰多玛语
+name_zh_auto: true
 autonym: Cocoli
 alt_names: [Landouman, Landuma, Temne, Tiapi, Tyapi, Tyop, Tyopi]
 population: 14400

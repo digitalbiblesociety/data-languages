@@ -1,6 +1,8 @@
 ---
 iso: ckn
 name: Kaang Chin
+name_zh: 卡昂钦语
+name_zh_auto: true
 autonym: Kang
 alt_names: ["Chin, Kaang"]
 population: 35000

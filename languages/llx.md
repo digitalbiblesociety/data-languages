@@ -1,6 +1,8 @@
 ---
 iso: llx
 name: Lauan
+name_zh: 劳安语
+name_zh_auto: true
 autonym: Lau
 alt_names: [Fidji-Inseln]
 population: 16000

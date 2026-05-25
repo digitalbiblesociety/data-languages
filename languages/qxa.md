@@ -1,6 +1,8 @@
 ---
 iso: qxa
 name: Chiquián Ancash Quechua
+name_zh: 奇基安安卡什克丘亚语
+name_zh_auto: true
 autonym: kichwa
 alt_names: [Ancas, Ancash, Chinchaysuyo, Chiquian Ancash Quechua, Huaylas, Northern Quechua, Quechua, Quechua (Ancash), "Quechua, Chiquián Ancash"]
 population: 10000

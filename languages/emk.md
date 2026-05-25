@@ -1,6 +1,8 @@
 ---
 iso: emk
 name: Eastern Maninkakan
+name_zh: 东马宁卡语
+name_zh_auto: true
 autonym: Malinke
 alt_names: [Eastern, Eastern Malinke, Kankan Maninka, Madingo, Mande, Mandingo, Maninka, Maninka-Mori, Maninkakan, "Maninkakan, Eastern", Southern Maninka]
 population: 3700300

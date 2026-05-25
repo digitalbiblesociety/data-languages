@@ -1,6 +1,8 @@
 ---
 iso: thz
 name: Tayart Tamajeq
+name_zh: 塔亚尔特塔玛杰克语
+name_zh_auto: true
 autonym: Tamajeq
 alt_names: [Amazigh, Tamachek, Tamacheq tahoua, Tamajekeg, "Tamajeq, Tayart", Tamazheq, Tomacheck, Touareg, Tuareg]
 population: 250000

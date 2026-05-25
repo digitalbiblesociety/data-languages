@@ -1,6 +1,8 @@
 ---
 iso: yob
 name: Yoba
+name_zh: 约巴语
+name_zh_auto: true
 autonym: null
 population: null
 country_id: PG

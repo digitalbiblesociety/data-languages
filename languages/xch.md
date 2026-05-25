@@ -1,6 +1,8 @@
 ---
 iso: xch
 name: Chemakum
+name_zh: 切马库姆语
+name_zh_auto: true
 autonym: Aqoʞúlo
 alt_names: [Chimakum]
 population: null

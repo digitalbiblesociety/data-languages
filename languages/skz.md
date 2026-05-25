@@ -1,6 +1,8 @@
 ---
 iso: skz
 name: Sekar
+name_zh: 塞卡尔语
+name_zh_auto: true
 autonym: Seka
 population: 450
 country_id: ID

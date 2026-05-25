@@ -1,6 +1,8 @@
 ---
 iso: sdr
 name: Oraon Sadri
+name_zh: 奥腊翁萨德里语
+name_zh_auto: true
 autonym: Nagpuri
 alt_names: [Chotar Nagpuri, Dikkukaji, Sadani, Sadri, "Sadri, Oraon"]
 population: 166000

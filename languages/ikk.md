@@ -1,6 +1,8 @@
 ---
 iso: ikk
 name: Ika
+name_zh: 伊卡语
+name_zh_auto: true
 autonym: null
 alt_names: [Nigeria]
 population: 22800

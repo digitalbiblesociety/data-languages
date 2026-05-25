@@ -1,6 +1,8 @@
 ---
 iso: shl
 name: Shendu
+name_zh: 申杜语
+name_zh_auto: true
 autonym: Khieng
 alt_names: [Khyen, Khyeng, Sandu, Shandu]
 population: null

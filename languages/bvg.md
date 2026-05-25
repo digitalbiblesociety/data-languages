@@ -1,6 +1,8 @@
 ---
 iso: bvg
 name: Bonkeng
+name_zh: 邦肯语
+name_zh_auto: true
 autonym: Bongken
 alt_names: [Bonkeng-Pendia, Bonkenge]
 population: 2980

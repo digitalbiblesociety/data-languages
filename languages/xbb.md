@@ -1,6 +1,8 @@
 ---
 iso: xbb
 name: Lower Burdekin
+name_zh: 下伯德金语
+name_zh_auto: true
 autonym: "Bindal ?"
 alt_names: ["Burdekin, Lower"]
 population: null

@@ -1,6 +1,8 @@
 ---
 iso: weo
 name: Wemale
+name_zh: 韦玛莱语
+name_zh_auto: true
 autonym: Honitetu
 alt_names: [Indonesia, North Wemale, "Wemale, North"]
 population: 3091

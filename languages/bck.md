@@ -1,6 +1,8 @@
 ---
 iso: bck
 name: Bunuba
+name_zh: 布努巴语
+name_zh_auto: true
 autonym: "Bunaba, Bunapa, Punuba, Punapa, Punaba, Buniba"
 alt_names: [Booneba, Booneba Bunaba, Boonooba, Bunaba, Bunapa, Buniba, Bunuban, Kunamba, Punaba, Punamba, Punapa, Punuba, Punupa]
 population: 160

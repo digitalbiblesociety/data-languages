@@ -1,6 +1,8 @@
 ---
 iso: xoo
 name: Xukurú
+name_zh: 许库鲁语
+name_zh_auto: true
 autonym: Kirirí
 alt_names: [Ichikile, Kirirí-Xokó, Shukuru, Shukurú, Xucuru, Xukuru]
 population: null

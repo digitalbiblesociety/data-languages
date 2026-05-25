@@ -1,6 +1,8 @@
 ---
 iso: and
 name: Ansus
+name_zh: 安苏斯语
+name_zh_auto: true
 autonym: bahasa Ansus
 alt_names: [Ansus jezik]
 population: 4600

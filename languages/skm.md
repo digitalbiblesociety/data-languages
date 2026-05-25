@@ -1,6 +1,8 @@
 ---
 iso: skm
 name: Kutong
+name_zh: 库同语
+name_zh_auto: true
 autonym: Kutong
 alt_names: [Sakam]
 population: 510

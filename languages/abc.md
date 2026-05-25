@@ -1,6 +1,8 @@
 ---
 iso: abc
 name: Ambala Ayta
+name_zh: 安巴拉艾塔语
+name_zh_auto: true
 autonym: Ambala Ayta
 alt_names: [Ambala Agta, Ambala Sambal, Ambala language, "Ayta, Ambala", ภาษาอัมบาลา]
 population: null

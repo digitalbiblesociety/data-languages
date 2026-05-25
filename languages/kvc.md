@@ -1,6 +1,8 @@
 ---
 iso: kvc
 name: Kove
+name_zh: 科韦语
+name_zh_auto: true
 autonym: null
 alt_names: ["\"Kombe\"", Kaliai-Kove]
 population: 6750

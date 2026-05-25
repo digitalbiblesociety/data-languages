@@ -1,6 +1,8 @@
 ---
 iso: urg
 name: Urigina
+name_zh: 乌里吉纳语
+name_zh_auto: true
 autonym: Origanau
 alt_names: [Uriginau]
 population: 1400

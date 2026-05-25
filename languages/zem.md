@@ -1,6 +1,8 @@
 ---
 iso: zem
 name: Zeem
+name_zh: 泽姆语
+name_zh_auto: true
 alt_names: [Zeemo]
 population: 400
 country_id: NG

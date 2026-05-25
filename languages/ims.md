@@ -1,6 +1,8 @@
 ---
 iso: ims
 name: Marsian
+name_zh: 马尔西安语
+name_zh_auto: true
 autonym: null
 population: null
 country_id: IT

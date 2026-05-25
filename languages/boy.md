@@ -1,6 +1,8 @@
 ---
 iso: boy
 name: Bodo (Central African Republic)
+name_zh: 博多语（中非共和国）
+name_zh_auto: true
 autonym: null
 alt_names: [Bodo]
 population: 15

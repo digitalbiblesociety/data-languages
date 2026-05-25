@@ -1,6 +1,8 @@
 ---
 iso: ruk
 name: Che
+name_zh: 切语
+name_zh_auto: true
 autonym: Rukuba
 alt_names: [Bache, Inchazi, Kuche, Sale]
 population: 100000

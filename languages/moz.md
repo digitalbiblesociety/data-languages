@@ -1,6 +1,8 @@
 ---
 iso: moz
 name: Mukulu
+name_zh: 穆库卢语
+name_zh_auto: true
 autonym: Mukulu
 alt_names: [Diongor Guera, Djonkor Guera, Dyongor Guera, Gergiko, Jonkor of Guera, Jonkor-Gera, Mokilko, Mokoulou, Mokulu]
 population: 12000

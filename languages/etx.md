@@ -1,6 +1,8 @@
 ---
 iso: etx
 name: Eten
+name_zh: 埃腾语
+name_zh_auto: true
 autonym: Ganawuri
 alt_names: [Aten, Etien, Iten, Jal, Niten, Ten]
 population: 40000

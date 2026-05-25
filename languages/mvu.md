@@ -1,6 +1,8 @@
 ---
 iso: mvu
 name: Marfa
+name_zh: 玛尔法语
+name_zh_auto: true
 autonym: Marba
 population: 7500
 country_id: TD

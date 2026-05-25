@@ -1,6 +1,8 @@
 ---
 iso: mch
 name: Maquiritari
+name_zh: 马基里塔里语
+name_zh_auto: true
 autonym: Dekwana
 alt_names: ["Carib (De'kwana)", Cunuana, "De'cuana", "De'kwana Carib", Maiongom, Maiongong, Makiritare, Maquiritai, Maquiritare, Mayongong, Pauana, Pawana, Soto, "Ye'cuana", "Ye'cuana (Venezuela)", "Ye'cuana' Maquiritare", "Ye'kuana", Yecuana, Yecuana (Brésil), Yecuana (République bolivarienne du Venezuela), Yekuana]
 population: 5520

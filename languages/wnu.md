@@ -1,6 +1,8 @@
 ---
 iso: wnu
 name: Usan
+name_zh: 乌桑语
+name_zh_auto: true
 autonym: Wanuma
 population: 1400
 country_id: PG

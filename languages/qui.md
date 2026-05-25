@@ -1,6 +1,8 @@
 ---
 iso: qui
 name: Quileute
+name_zh: 奎留特语
+name_zh_auto: true
 autonym: Kʷòʔlíyotʼ
 alt_names: [Quile-ute, Quileutés, Quillayute]
 population: 300

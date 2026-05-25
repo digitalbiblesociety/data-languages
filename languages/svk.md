@@ -1,6 +1,8 @@
 ---
 iso: svk
 name: Slovakian Sign Language
+name_zh: 斯洛伐克手语
+name_zh_auto: true
 autonym: Slovenský posunkový jazyk
 population: 15000
 country_id: SK

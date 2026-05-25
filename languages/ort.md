@@ -1,6 +1,8 @@
 ---
 iso: ort
 name: Adivasi Oriya
+name_zh: 阿迪瓦西奥里亚语
+name_zh_auto: true
 autonym: ଓଡ଼ିଆ
 alt_names: [Adiwasi Oriya, Kotia Oriya, Kotiya, Oriya, Oriya (Adivasi), Oriya (Kotia), "Oriya, Adivasi", Southern Oriya, Tribal Oriya]
 population: 200000

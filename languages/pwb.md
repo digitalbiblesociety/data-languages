@@ -1,6 +1,8 @@
 ---
 iso: pwb
 name: Panawa
+name_zh: 帕纳瓦语
+name_zh_auto: true
 autonym: Bugel
 population: 3500
 country_id: NG

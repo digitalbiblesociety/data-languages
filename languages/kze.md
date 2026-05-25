@@ -1,6 +1,8 @@
 ---
 iso: kze
 name: Kosena
+name_zh: 科塞纳语
+name_zh_auto: true
 autonym: null
 population: 2000
 country_id: PG

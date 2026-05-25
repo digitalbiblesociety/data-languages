@@ -1,6 +1,8 @@
 ---
 iso: kry
 name: Kryts
+name_zh: 克里茨语
+name_zh_auto: true
 autonym: кърыцIаь мез ġrəċä mez
 alt_names: [Dzek, Dzhek, Dzheki, Język kryzyjski, Katsy, Kjruaj mez, Kriz, Kryc, Krysische Sprache, Krytsin kieli, Kryz, Kryzy, Qrız dili, c’eka mez, qryc’ä mez, Кризька мова, джекский язык, крызский язык, кърыцIаь мез, цIека meз]
 population: 6000

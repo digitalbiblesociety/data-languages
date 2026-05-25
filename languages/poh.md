@@ -1,6 +1,8 @@
 ---
 iso: poh
 name: "Poqomchi'"
+name_zh: 波寇姆奇语
+name_zh_auto: true
 autonym: "Poqomchi, Occidental"
 alt_names: [Eastern Pokomchí, Idioma poqomchi, Língua pocomchi, Pocomchí, Poconchí, Pokomchi, Pokomchí, Pokonchí, Poqomchi, "Poqomchi', Eastern", Poqomchí, Tactic Pokomchí, Покомчиски јазик]
 population: 177000

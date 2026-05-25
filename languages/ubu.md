@@ -1,6 +1,8 @@
 ---
 iso: ubu
 name: "Umbu-Ungu"
+name_zh: 翁布-翁古语
+name_zh_auto: true
 autonym: Kakoli
 alt_names: [Hagen, Kaugel]
 population: 32000

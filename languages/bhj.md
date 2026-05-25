@@ -1,6 +1,8 @@
 ---
 iso: bhj
 name: Bahing
+name_zh: 巴欣语
+name_zh_auto: true
 autonym: Baying
 alt_names: [Bahing jezik, Bahingeg, Bayung, Bhojpuri, Bāhing, Khaling, Kiranti-Bayung, Lenga Bahing, Rai, ภาษาบาฮิง]
 population: 10000

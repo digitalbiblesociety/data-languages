@@ -1,6 +1,8 @@
 ---
 iso: tty
 name: Sikaritai
+name_zh: 西卡里塔伊语
+name_zh_auto: true
 autonym: Tori Aikwakai
 alt_names: [Aikwakai, Araikurioko, Ati, Sikari, Tori]
 population: 800

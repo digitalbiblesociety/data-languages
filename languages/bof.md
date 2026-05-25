@@ -1,6 +1,8 @@
 ---
 iso: bof
 name: Bolon
+name_zh: 博隆语
+name_zh_auto: true
 autonym: Bo
 alt_names: [Boka]
 population: 17000

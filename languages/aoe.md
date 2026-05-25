@@ -1,6 +1,8 @@
 ---
 iso: aoe
 name: Angal Enen
+name_zh: 安加尔埃嫩语
+name_zh_auto: true
 autonym: Mendi
 alt_names: [Nembi, South Angal Heneng, South Mendi]
 population: 34420

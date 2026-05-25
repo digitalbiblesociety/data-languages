@@ -1,6 +1,8 @@
 ---
 iso: jub
 name: Wannu
+name_zh: 瓦努语
+name_zh_auto: true
 autonym: Abinsi
 alt_names: [Awannu, Jukun Abinsi, River Jukun]
 population: 4000

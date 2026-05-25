@@ -1,6 +1,8 @@
 ---
 iso: buk
 name: Bugawac
+name_zh: 布加瓦克语
+name_zh_auto: true
 autonym: null
 alt_names: [Bukaua, Bukawa, Bukawa language, Bukawac, Kawa, Kawac, Yom Gawac]
 population: 12000

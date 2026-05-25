@@ -1,6 +1,8 @@
 ---
 iso: sur
 name: Mwaghavul
+name_zh: 穆瓦盖哈武尔语
+name_zh_auto: true
 autonym: Sura
 alt_names: [Cakfem-Mushere, Chakfem, Chakfem-Mushere, Chokfem, Jajura, Kadim-Kaban, Maghavul, Mupun, Mwaghavul (Mupun)]
 population: 150000

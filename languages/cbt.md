@@ -1,6 +1,8 @@
 ---
 iso: cbt
 name: Chayahuita
+name_zh: 查亚瓦塔语
+name_zh_auto: true
 autonym: Cahuapana
 alt_names: [Balsapuertino, Balsopuertino, Cahuapa, Chaui, Chawi, Chayabita, Chayawita, Chayawita simi, Chayhuita, Kahuapana, Paranapura, Shawi, Shayabit, Tchayahouiteg, Tsaawí, Tschaahui, Tshaahui]
 population: 14000

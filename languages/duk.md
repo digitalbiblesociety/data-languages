@@ -1,6 +1,8 @@
 ---
 iso: duk
 name: Uyajitaya
+name_zh: 乌亚吉塔亚语
+name_zh_auto: true
 autonym: Abowe
 alt_names: [Duduela]
 population: 470

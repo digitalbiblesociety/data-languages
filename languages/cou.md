@@ -1,6 +1,8 @@
 ---
 iso: cou
 name: Wamey
+name_zh: 瓦梅语
+name_zh_auto: true
 autonym: Konyagi
 alt_names: [Cogniagui, Conhague, Coniagui, Koniagi, Koniagui, Tenda, Wamay, Wamei]
 population: 50200

@@ -1,6 +1,8 @@
 ---
 iso: poc
 name: Poqomam
+name_zh: 波寇玛姆语
+name_zh_auto: true
 autonym: Pocomán
 alt_names: [Central Pocomam, Pocomam, Pocomam Oriental, Pocomám, Pokomam, Pokomam (Eastern), "Pokomam, Central"]
 population: 8600

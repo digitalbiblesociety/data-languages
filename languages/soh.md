@@ -1,6 +1,8 @@
 ---
 iso: soh
 name: Aka
+name_zh: 阿卡语
+name_zh_auto: true
 autonym: Aka
 alt_names: [Fa-C-Aka, Jebel Silak, Jebels Sillok, Sillok, Акаски јазик]
 population: 300

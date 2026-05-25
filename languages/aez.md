@@ -1,6 +1,8 @@
 ---
 iso: aez
 name: Aeka
+name_zh: 艾卡语
+name_zh_auto: true
 autonym: Ajeka
 alt_names: [Aeka (orokaivic)]
 population: 3400

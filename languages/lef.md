@@ -1,6 +1,8 @@
 ---
 iso: lef
 name: Lelemi
+name_zh: 莱莱米语
+name_zh_auto: true
 autonym: Lefana
 alt_names: [Buem, Lafana, Lelemi (Bwem)]
 population: 72000

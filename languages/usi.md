@@ -1,6 +1,8 @@
 ---
 iso: usi
 name: Usui
+name_zh: 乌苏伊语
+name_zh_auto: true
 autonym: Tripuri
 alt_names: [Unshoi, Unsuiy, Ushoi, Usoi]
 population: 22400

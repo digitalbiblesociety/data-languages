@@ -1,6 +1,8 @@
 ---
 iso: mom
 name: Mangue
+name_zh: 曼格语
+name_zh_auto: true
 autonym: Chorotega
 alt_names: [Choluteca, Dirian, Mange, Monimbo, Nagranda, Orotiña]
 population: null

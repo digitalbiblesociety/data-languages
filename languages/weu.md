@@ -1,6 +1,8 @@
 ---
 iso: weu
 name: Rawngtu Chin
+name_zh: 朗图-钦语
+name_zh_auto: true
 autonym: Rawngtu Chin
 alt_names: ["Chin, Rawngtu"]
 population: 9550

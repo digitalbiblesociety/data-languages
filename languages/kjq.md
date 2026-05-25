@@ -1,6 +1,8 @@
 ---
 iso: kjq
 name: Western Keres
+name_zh: 西克雷斯语
+name_zh_auto: true
 autonym: Western Keres Pueblo
 alt_names: [Acoma, Acoma-Laguna, Keres, Keres (Western), "Keres, Western", Keresan, Keresan (Western), Queresano occidental, Western Keresan]
 population: 1695

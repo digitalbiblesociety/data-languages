@@ -1,6 +1,8 @@
 ---
 iso: leq
 name: Lembena
+name_zh: 伦贝纳语
+name_zh_auto: true
 autonym: Lembena Pii
 alt_names: [Nanimba Pii, Uyalipa Pii, Wapi Pii]
 population: 1760

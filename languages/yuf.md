@@ -1,6 +1,8 @@
 ---
 iso: yuf
 name: "Havasupai-Walapai-Yavapai"
+name_zh: 哈瓦苏派-瓦拉派-亚瓦派语
+name_zh_auto: true
 autonym: "Havasupai-WalapaiUpland Yuman"
 alt_names: [Havasupai, Hualapai, Northern Pai, Pai, Upland, Upland Yuman, Upper Colorado River Yuman, Upper River Yuman, Walapai, Walapai-Havasupai-Yavapai, Yavapai, Yavapái, Yuman (Upland)]
 population: null

@@ -1,6 +1,8 @@
 ---
 iso: kug
 name: Kupa
+name_zh: 库帕语
+name_zh_auto: true
 autonym: null
 alt_names: [Nigeria]
 population: 20000

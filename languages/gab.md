@@ -1,6 +1,8 @@
 ---
 iso: gab
 name: Gabri
+name_zh: 加夫里语
+name_zh_auto: true
 autonym: Southern Gabri
 alt_names: [Gabere, Gaberi, Gabri-Nord, Ngabre, Northern Gabri]
 population: 34400

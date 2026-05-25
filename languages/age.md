@@ -1,6 +1,8 @@
 ---
 iso: age
 name: Angal
+name_zh: 安加尔语
+name_zh_auto: true
 autonym: Mendi
 alt_names: [East Angal, North Mendi]
 population: 18600

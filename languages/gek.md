@@ -1,6 +1,8 @@
 ---
 iso: gek
 name: Ywom
+name_zh: 伊翁语
+name_zh_auto: true
 autonym: Gerka
 alt_names: [Angas Group B, Gerkanchi, Gerkawa, Gurka, Yiwom]
 population: 14100

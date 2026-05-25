@@ -1,6 +1,8 @@
 ---
 iso: nlx
 name: Nahali
+name_zh: 纳哈利语
+name_zh_auto: true
 autonym: Nahali
 alt_names: [Kalteg, Kalto, Kalto language, Lenga nahali, Nahal, Nahale, Nahalí, Nihali, Нихали, カルト語]
 population: 15000

@@ -1,6 +1,8 @@
 ---
 iso: mxo
 name: Mbowe
+name_zh: 姆博韦语
+name_zh_auto: true
 autonym: Esimbowe
 population: 2690
 country_id: ZM

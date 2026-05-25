@@ -1,6 +1,8 @@
 ---
 iso: mfo
 name: Mbe
+name_zh: 姆贝语
+name_zh_auto: true
 autonym: Mbe
 alt_names: [Nigeria]
 population: 14300

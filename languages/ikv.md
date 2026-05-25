@@ -1,6 +1,8 @@
 ---
 iso: ikv
 name: "Iku-Gora-Ankwa"
+name_zh: 伊库-戈拉-安克瓦语
+name_zh_auto: true
 autonym: "Iku-Gora-Ankwa"
 alt_names: [Iku]
 population: 13000

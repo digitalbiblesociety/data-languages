@@ -1,6 +1,8 @@
 ---
 iso: amy
 name: Ami
+name_zh: 阿米语
+name_zh_auto: true
 autonym: Maranunggu
 alt_names: [Ame, Ami Ami, Amijanal, Amijangal, Arnhem Land, Berringin, Daly River Region Languages, Emi, Emmi, Emmi Yangal, Emmi/Merranunggu, Emmiyangal, Manhthi Yangal, Maran-ungo, Maranjwarrgat, Maranuka, Maranunga, Maranunggo, Maranungku, Marinunggo, Marra Warrgat, Marranj Warrgat, Marranunga, Marranungga, Menhtha, Merranunggu, Murrinh Emi, Murrinh Menthe, Murununga, Warrgat, Western Daly language.]
 population: 30

@@ -1,6 +1,8 @@
 ---
 iso: tui
 name: Tupuri
+name_zh: 图普里语
+name_zh_auto: true
 autonym: Dema
 alt_names: [Honya, Mata, Ndoore, Ndore, Tongoyna, Toubouri, Toupoureg, Toupouri, Tuburi, Wina]
 population: 321000

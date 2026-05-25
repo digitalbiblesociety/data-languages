@@ -1,6 +1,8 @@
 ---
 iso: gap
 name: Gal
+name_zh: 加尔语
+name_zh_auto: true
 autonym: Baimak
 alt_names: [Weim]
 population: 340

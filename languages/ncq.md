@@ -1,6 +1,8 @@
 ---
 iso: ncq
 name: Northern Katang
+name_zh: 北卡当语
+name_zh_auto: true
 autonym: null
 alt_names: ["Katang, Northern"]
 population: 65000

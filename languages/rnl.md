@@ -1,6 +1,8 @@
 ---
 iso: rnl
 name: Ranglong
+name_zh: 让隆语
+name_zh_auto: true
 autonym: Ronglong
 population: 8000
 country_id: IN

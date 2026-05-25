@@ -1,6 +1,8 @@
 ---
 iso: bpd
 name: "Banda-Banda"
+name_zh: 班达-班达语
+name_zh_auto: true
 autonym: null
 alt_names: [Banda]
 population: 102000

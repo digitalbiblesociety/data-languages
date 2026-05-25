@@ -1,6 +1,8 @@
 ---
 iso: ikw
 name: Ikwere
+name_zh: 伊克韦雷语
+name_zh_auto: true
 autonym: null
 alt_names: [Ikwerre, Ikwerre language, Ikwerri]
 population: 619000

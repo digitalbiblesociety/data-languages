@@ -1,6 +1,8 @@
 ---
 iso: arl
 name: Arabela
+name_zh: 阿拉贝拉语
+name_zh_auto: true
 autonym: Tapweyokwaka
 alt_names: [Andoa, Arabela-Andoa, Arabeleg, Chiripuno, Chiripunu, Idioma arabela]
 population: 400

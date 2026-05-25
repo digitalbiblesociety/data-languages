@@ -1,6 +1,8 @@
 ---
 iso: nvh
 name: Nasarian
+name_zh: 纳萨里亚语
+name_zh_auto: true
 autonym: null
 alt_names: [Mallicolo, Nasariano]
 population: null

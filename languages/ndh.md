@@ -1,6 +1,8 @@
 ---
 iso: ndh
 name: Ndali
+name_zh: 恩达利语
+name_zh_auto: true
 autonym: Chindali
 alt_names: [Chisukwa dialect, Ici-Ndali, Kindali]
 population: 263000

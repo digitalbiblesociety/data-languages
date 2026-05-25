@@ -1,6 +1,8 @@
 ---
 iso: bhr
 name: Bara Malagasy
+name_zh: 巴拉马拉加斯语
+name_zh_auto: true
 autonym: malagasy
 alt_names: [Malagassy, "Malagasy, Bara"]
 population: 724000

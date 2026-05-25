@@ -1,6 +1,8 @@
 ---
 iso: lrk
 name: Loarki
+name_zh: 洛阿尔基语
+name_zh_auto: true
 autonym: Gade Lohar
 population: 20000
 country_id: PK

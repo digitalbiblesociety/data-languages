@@ -1,6 +1,8 @@
 ---
 iso: tyu
 name: Kua
+name_zh: 夸语
+name_zh_auto: true
 autonym: Kua
 alt_names: [Cua, Macua, Tyhua, Tyua]
 population: 820

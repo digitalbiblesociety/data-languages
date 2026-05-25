@@ -1,6 +1,8 @@
 ---
 iso: azn
 name: Western Durango Nahuatl
+name_zh: 西杜兰戈纳瓦特尔语
+name_zh_auto: true
 autonym: Durango Aztec
 alt_names: ["Nahuatl, Western Durango"]
 population: null

@@ -1,6 +1,8 @@
 ---
 iso: fag
 name: Finongan
+name_zh: 芬农根语
+name_zh_auto: true
 autonym: Finungwa
 alt_names: [Finungwan]
 population: 1300

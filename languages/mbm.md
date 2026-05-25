@@ -1,6 +1,8 @@
 ---
 iso: mbm
 name: Ombamba
+name_zh: 翁巴姆巴语
+name_zh_auto: true
 autonym: Ombamba
 population: 15100
 country_id: CG

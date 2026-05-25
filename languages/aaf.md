@@ -1,6 +1,8 @@
 ---
 iso: aaf
 name: Aranadan
+name_zh: 阿兰丹语
+name_zh_auto: true
 autonym: Eranadan
 alt_names: [Aranatan, Eranadans]
 population: 200

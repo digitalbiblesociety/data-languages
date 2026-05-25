@@ -1,6 +1,8 @@
 ---
 iso: nco
 name: Sibe
+name_zh: 锡伯语
+name_zh_auto: true
 autonym: Sibe
 alt_names: [Nagovisi, Sibbe, Sibe-Nagovisi]
 population: 5000

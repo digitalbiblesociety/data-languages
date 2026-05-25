@@ -1,6 +1,8 @@
 ---
 iso: naa
 name: Namla
+name_zh: 纳姆拉语
+name_zh_auto: true
 autonym: bahasa Namla
 population: 30
 country_id: ID

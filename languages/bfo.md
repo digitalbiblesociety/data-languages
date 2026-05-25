@@ -1,6 +1,8 @@
 ---
 iso: bfo
 name: Malba Birifor
+name_zh: 马尔巴比里福语
+name_zh_auto: true
 autonym: "Birifor, Northern"
 alt_names: [Birifo, "Birifor, Malba", Malba-Birifor, Northern Birifor]
 population: 108000

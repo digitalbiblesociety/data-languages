@@ -1,6 +1,8 @@
 ---
 iso: mtb
 name: Anyin Morofo
+name_zh: 安依莫罗弗语
+name_zh_auto: true
 autonym: Anyi
 alt_names: [Morofo]
 population: 300000

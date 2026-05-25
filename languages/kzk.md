@@ -1,6 +1,8 @@
 ---
 iso: kzk
 name: Kazukuru
+name_zh: 卡祖库鲁语
+name_zh_auto: true
 autonym: null
 alt_names: [Kazukuru language]
 population: null

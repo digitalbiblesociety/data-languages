@@ -1,6 +1,8 @@
 ---
 iso: mzj
 name: Manya
+name_zh: 曼雅语
+name_zh_auto: true
 autonym: Malinke
 alt_names: [Mandingo, Maniya, Manya Kan]
 population: 120800

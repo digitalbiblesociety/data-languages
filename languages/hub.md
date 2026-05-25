@@ -1,6 +1,8 @@
 ---
 iso: hub
 name: Huambisa
+name_zh: 瓦姆比萨语
+name_zh_auto: true
 autonym: null
 alt_names: [Achual, Achuale, Achuall, Achuar chicham, Achuar-Shiwiar, Achuara, Chiwaro, Hivaro, Huambisa (wampis), Huambiseg, Huambiza, Hívaro, Jibaro, Jivaro, Jíbaro, Jívaro, Maina, Shiwiar chicham, Shuar, Shuar chicham, Shuar-Huampis, Shuara, Wambisa, Wampis, Xivaro, Xívaro]
 population: 10200

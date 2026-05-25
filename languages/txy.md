@@ -1,6 +1,8 @@
 ---
 iso: txy
 name: Tanosy Malagasy
+name_zh: 坦诺西马拉加斯语
+name_zh_auto: true
 autonym: malagasy
 alt_names: ["Malagasy, Tanosy"]
 population: 639000

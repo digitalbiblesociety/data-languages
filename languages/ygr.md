@@ -1,6 +1,8 @@
 ---
 iso: ygr
 name: Yagaria
+name_zh: 亚加利亚语
+name_zh_auto: true
 autonym: null
 alt_names: [Hua, Move dialect]
 population: 21100

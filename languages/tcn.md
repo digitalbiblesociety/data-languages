@@ -1,6 +1,8 @@
 ---
 iso: tcn
 name: Tichurong
+name_zh: 提楚龙语
+name_zh_auto: true
 autonym: "Ü-Tsang"
 alt_names: [Ticherong]
 population: 2420

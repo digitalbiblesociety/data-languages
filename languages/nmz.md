@@ -1,6 +1,8 @@
 ---
 iso: nmz
 name: Nawdm
+name_zh: 纳务德姆语
+name_zh_auto: true
 autonym: Losso
 alt_names: [Losu, Naoudem, Naudem, Naudm, Nawdam]
 population: 146000

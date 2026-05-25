@@ -1,6 +1,8 @@
 ---
 iso: reb
 name: Rembong
+name_zh: 仁邦语
+name_zh_auto: true
 autonym: bahasa Rembong
 alt_names: [Indonesia]
 population: 2120

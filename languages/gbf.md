@@ -1,6 +1,8 @@
 ---
 iso: gbf
 name: Gaikundi
+name_zh: 盖昆迪语
+name_zh_auto: true
 autonym: Gaikunti
 alt_names: [Gaikwundi, Sawos]
 population: 1200

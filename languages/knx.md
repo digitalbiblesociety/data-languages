@@ -1,6 +1,8 @@
 ---
 iso: knx
 name: Kendayan
+name_zh: 肯达扬语
+name_zh_auto: true
 autonym: " Salako"
 alt_names: [Baicit, Damea, Dayak, Kenayatn, Kendayan Dayak, Kendayan-Ambawang, Salakau, Selakau, Selako, Silakau]
 population: 331700

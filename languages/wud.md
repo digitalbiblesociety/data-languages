@@ -1,6 +1,8 @@
 ---
 iso: wud
 name: Wudu
+name_zh: 乌杜语
+name_zh_auto: true
 autonym: null
 alt_names: [Togo]
 population: 2000

@@ -1,6 +1,8 @@
 ---
 iso: nar
 name: Iguta
+name_zh: 伊古塔语
+name_zh_auto: true
 autonym: Naragutawa
 alt_names: [Anaguta, Naraguta]
 population: 6120

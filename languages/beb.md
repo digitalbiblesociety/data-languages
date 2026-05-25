@@ -1,6 +1,8 @@
 ---
 iso: beb
 name: Bebele
+name_zh: 贝贝勒语
+name_zh_auto: true
 autonym: Bamvele
 population: 24000
 country_id: CM

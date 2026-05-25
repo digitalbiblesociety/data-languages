@@ -1,6 +1,8 @@
 ---
 iso: nkr
 name: Nukuoro
+name_zh: 努库奥罗语
+name_zh_auto: true
 autonym: Nukuoro
 alt_names: [Lingua Nukuoro, Nuguor, Nukoro, Nukuoro kalba, Nukuoron kieli, Nukuoru]
 population: 125

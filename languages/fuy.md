@@ -1,6 +1,8 @@
 ---
 iso: fuy
 name: Fuyug
+name_zh: 富尤格语
+name_zh_auto: true
 autonym: Fuyuge
 alt_names: [Fuyughe, Mafufu, Mafulu]
 population: 14000

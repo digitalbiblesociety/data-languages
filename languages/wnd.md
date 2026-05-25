@@ -1,6 +1,8 @@
 ---
 iso: wnd
 name: Wandarang
+name_zh: 万达兰语
+name_zh_auto: true
 autonym: Wandaran
 alt_names: [Wamdarang, Wandarung, Wanderang, Wangarong, Warndarang, Warndarrang, Wuyarrawala]
 population: null

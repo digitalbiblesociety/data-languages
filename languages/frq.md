@@ -1,6 +1,8 @@
 ---
 iso: frq
 name: Forak
+name_zh: 福拉克语
+name_zh_auto: true
 autonym: Forak
 population: 283
 country_id: PG

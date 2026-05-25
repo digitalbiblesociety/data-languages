@@ -1,6 +1,8 @@
 ---
 iso: aqn
 name: Northern Alta
+name_zh: 北阿尔塔语
+name_zh_auto: true
 autonym: Edimala
 alt_names: [Alta, Alta du nord, Alta septentrional, "Alta, Northern", Baler Negrito, Ditaylin Alta, Ditaylin Dumagat, Northern]
 population: 200

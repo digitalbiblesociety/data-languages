@@ -1,6 +1,8 @@
 ---
 iso: woe
 name: Woleaian
+name_zh: 沃莱艾语
+name_zh_auto: true
 autonym: kapetali Weleya
 alt_names: [Woleai, Woleayano]
 population: 1630

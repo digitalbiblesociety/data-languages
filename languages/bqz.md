@@ -1,6 +1,8 @@
 ---
 iso: bqz
 name: Bakaka
+name_zh: 巴卡卡语
+name_zh_auto: true
 autonym: Ngoe
 alt_names: [Central Mbo]
 population: 30000

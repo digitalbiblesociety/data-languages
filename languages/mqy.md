@@ -1,6 +1,8 @@
 ---
 iso: mqy
 name: Manggarai
+name_zh: 芒加赖语
+name_zh_auto: true
 autonym: bahasa Manggarai
 alt_names: [Indonesia]
 population: 900000

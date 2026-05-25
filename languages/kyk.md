@@ -1,6 +1,8 @@
 ---
 iso: kyk
 name: Kamayo
+name_zh: 卡马约语
+name_zh_auto: true
 autonym: Davaweño
 alt_names: [Korean Sign Language]
 population: 153000

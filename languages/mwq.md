@@ -1,6 +1,8 @@
 ---
 iso: mwq
 name: Mün Chin
+name_zh: 蒙钦语
+name_zh_auto: true
 autonym: Ng’men
 alt_names: ["\"Chinbok\"", "Chin, Mün", "Chin,Mün", Chinbe, Chinbok, Cho, Mindat, Mun, Mun Chin, Mün, "Ng'men", Tśinbok, Yawdwin]
 population: 15000

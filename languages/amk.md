@@ -1,6 +1,8 @@
 ---
 iso: amk
 name: Ambai
+name_zh: 安拜语
+name_zh_auto: true
 autonym: bahasa Ambai
 alt_names: [Ambai-Menawi]
 population: 10100

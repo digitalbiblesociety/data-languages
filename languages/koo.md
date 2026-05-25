@@ -1,6 +1,8 @@
 ---
 iso: koo
 name: Konzo
+name_zh: 孔佐语
+name_zh_auto: true
 autonym: Olhukonzo
 alt_names: [Konjo, Konjo people, Konzot, Lhukonzo, Olukonjo, Olukonzo, Rukonjo]
 population: 893000

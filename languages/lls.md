@@ -1,6 +1,8 @@
 ---
 iso: lls
 name: Lithuanian Sign Language
+name_zh: 立陶宛手语
+name_zh_auto: true
 autonym: LGK
 population: 8000
 country_id: LT

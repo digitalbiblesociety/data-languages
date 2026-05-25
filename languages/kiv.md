@@ -1,6 +1,8 @@
 ---
 iso: kiv
 name: Kimbu
+name_zh: 金布语
+name_zh_auto: true
 autonym: Kikimbu
 alt_names: [Ikibungu, Yanzi]
 population: 62700

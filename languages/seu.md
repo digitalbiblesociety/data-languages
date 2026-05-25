@@ -1,6 +1,8 @@
 ---
 iso: seu
 name: "Serui-Laut"
+name_zh: 塞鲁伊-劳特语
+name_zh_auto: true
 autonym: Arui
 population: 1200
 country_id: ID

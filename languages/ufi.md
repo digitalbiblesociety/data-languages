@@ -1,6 +1,8 @@
 ---
 iso: ufi
 name: Ufim
+name_zh: 乌芬语
+name_zh_auto: true
 autonym: null
 population: 550
 country_id: PG

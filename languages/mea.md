@@ -1,6 +1,8 @@
 ---
 iso: mea
 name: Menka
+name_zh: 门卡语
+name_zh_auto: true
 autonym: Mamwoh
 alt_names: [Wando Bando]
 population: 5200

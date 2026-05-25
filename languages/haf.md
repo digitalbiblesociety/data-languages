@@ -1,6 +1,8 @@
 ---
 iso: haf
 name: Haiphong Sign Language
+name_zh: 海防手语
+name_zh_auto: true
 autonym: null
 alt_names: [HPSL, Hai Phong Sign Language, NNKHHP, Vietnamese Sign Language, ngôn ngữ ký hiệu Hải Phòng]
 population: 1800

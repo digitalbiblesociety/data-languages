@@ -1,6 +1,8 @@
 ---
 iso: bsi
 name: Bassossi
+name_zh: 巴索西语
+name_zh_auto: true
 autonym: Ngoe
 alt_names: [Asobse, Basosi, Basossi, Ngen, Nsose, Nswase, Nswose, Sosi, Swose]
 population: 5000

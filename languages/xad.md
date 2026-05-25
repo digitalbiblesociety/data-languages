@@ -1,6 +1,8 @@
 ---
 iso: xad
 name: Adai
+name_zh: 阿代语
+name_zh_auto: true
 autonym: Tenánat Hadéyas
 alt_names: [Adaes, Adahi, Adaise, Adaize, Adaizi, Adees, Adái]
 population: null

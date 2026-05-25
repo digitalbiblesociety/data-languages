@@ -1,6 +1,8 @@
 ---
 iso: vay
 name: Wayu
+name_zh: 瓦尤语
+name_zh_auto: true
 autonym: Hayu (हायु)
 alt_names: [Hayu, Vayu, Vāyu, Wayo]
 population: 1740

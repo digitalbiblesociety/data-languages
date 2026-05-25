@@ -1,6 +1,8 @@
 ---
 iso: giz
 name: South Giziga
+name_zh: 南吉齐加语
+name_zh_auto: true
 autonym: Gisiga
 alt_names: [Gisiga-South, Gisika, Giziga, "Giziga, South", Giziga-South, Guiziga, North and Giziga, South, South Gisiga]
 population: 60000

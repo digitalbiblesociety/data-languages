@@ -1,6 +1,8 @@
 ---
 iso: kja
 name: Mlap
+name_zh: 姆拉普语
+name_zh_auto: true
 autonym: Kwansu
 alt_names: [Kuangsu, Kuangsu-Bonggrang, Kuansu, Kwangsu-Bonggrang, Kwansu-Bonggrang]
 population: 300

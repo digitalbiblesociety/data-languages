@@ -1,6 +1,8 @@
 ---
 iso: yrm
 name: "Yirrk-Mel"
+name_zh: 伊里克-梅尔语
+name_zh_auto: true
 autonym: Yirrk-Mel
 population: null
 country_id: AU

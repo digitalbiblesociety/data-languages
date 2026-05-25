@@ -1,6 +1,8 @@
 ---
 iso: lmv
 name: Lomaiviti
+name_zh: 洛迈维蒂语
+name_zh_auto: true
 autonym: null
 alt_names: [Fidji-Inseln, Lomaiviti jezik]
 population: 1630

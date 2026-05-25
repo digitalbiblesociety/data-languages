@@ -1,6 +1,8 @@
 ---
 iso: bbf
 name: Baibai
+name_zh: 拜拜语
+name_zh_auto: true
 autonym: bahasa Baibai
 population: 340
 country_id: PG

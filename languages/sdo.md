@@ -1,6 +1,8 @@
 ---
 iso: sdo
 name: "Bukar-Sadung Bidayuh"
+name_zh: 布卡-萨东比达尤语
+name_zh_auto: true
 autonym: Buka
 alt_names: ["Bidayuh, Bukar-Sadung", Bukar, Bukar Sadong, Mentu, Mentuh Tapuh, Sabutan, Sadong, Saputan, Seputan, Serian, Tebakang]
 population: 49100

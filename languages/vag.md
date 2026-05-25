@@ -1,6 +1,8 @@
 ---
 iso: vag
 name: Vagla
+name_zh: 瓦格拉语
+name_zh_auto: true
 autonym: Konosarola
 alt_names: [Kira, Paxala, Siti, Sitigo, Vagala]
 population: 13900

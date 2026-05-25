@@ -1,6 +1,8 @@
 ---
 iso: blv
 name: Kibala
+name_zh: 基巴拉语
+name_zh_auto: true
 autonym: Ngoya
 alt_names: ["\"Ngoya\"", Bolo, Haka, Ipala, Kibala-Ngoya, Kimbundu de Kwanza Sul, Libolo, Lubolo, Pala, Quibala]
 population: 2630

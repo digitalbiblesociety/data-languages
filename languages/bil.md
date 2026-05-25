@@ -1,6 +1,8 @@
 ---
 iso: bil
 name: Bile
+name_zh: 比莱语
+name_zh_auto: true
 autonym: Bille
 alt_names: [Bili, Billanchi, Kunbille]
 population: 42000

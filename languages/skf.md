@@ -1,6 +1,8 @@
 ---
 iso: skf
 name: Sakirabiá
+name_zh: 萨基拉比亚语
+name_zh_auto: true
 autonym: Sakirabiá
 alt_names: [Amiapé, Amniapa, Amniapé, Canoé, Kanoé, Mekem, Mekens, Meké, Mekém, Mekéns, Mequem Amniapé, Mequens, Sakirabiák, Sakirabiáp, Sakirabiát, Sakirap, Sakiriabar, Sakurabiat, Waratégaya]
 population: 22

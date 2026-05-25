@@ -1,6 +1,8 @@
 ---
 iso: kxn
 name: "Kanowit-Tanjong Melanau"
+name_zh: 卡诺威特-坦蓬美拉瑙语
+name_zh_auto: true
 autonym: Tanjong
 alt_names: [Kanowit, Kanowit-Tanjong, "Melanau, Kanowit-Tanjong"]
 population: 200

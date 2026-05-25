@@ -1,6 +1,8 @@
 ---
 iso: ayi
 name: Leyigha
+name_zh: 莱伊格哈语
+name_zh_auto: true
 autonym: Leyigha
 alt_names: [Asiga, Assiga, Ayiga, Ayigha, Yigha]
 population: 10000

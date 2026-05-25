@@ -1,6 +1,8 @@
 ---
 iso: arj
 name: Arapaso
+name_zh: 阿拉帕索语
+name_zh_auto: true
 autonym: Dahseyé
 alt_names: [Arapasso, Arapaço, Arapáso, Araspaso, Koneá]
 population: null

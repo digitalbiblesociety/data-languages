@@ -1,6 +1,8 @@
 ---
 iso: bmi
 name: Bagirmi
+name_zh: 巴吉尔米语
+name_zh_auto: true
 autonym: ɓarma
 alt_names: [Baghirmi, Bagirmieg, Bagrima, Bagrimi, Bagrimma, Baguirme, Baguirmi, Barma, Lis, Lisi, Mbarma, Tar Bagrimma, Tar Barma]
 population: 44800

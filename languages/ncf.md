@@ -1,6 +1,8 @@
 ---
 iso: ncf
 name: Notsi
+name_zh: 诺特西语
+name_zh_auto: true
 autonym: Nochi
 population: 1840
 country_id: PG

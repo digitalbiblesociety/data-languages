@@ -1,6 +1,8 @@
 ---
 iso: cdr
 name: "Cinda-Regi-Tiyal"
+name_zh: 辛达-雷吉-蒂亚尔语
+name_zh_auto: true
 autonym: ‘Yara
 alt_names: [Kamuku]
 population: 45000

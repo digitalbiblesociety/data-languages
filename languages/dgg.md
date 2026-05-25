@@ -1,6 +1,8 @@
 ---
 iso: dgg
 name: Doga
+name_zh: 多加语
+name_zh_auto: true
 autonym: Magabara
 population: 200
 country_id: PG

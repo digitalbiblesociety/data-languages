@@ -1,6 +1,8 @@
 ---
 iso: kss
 name: Southern Kisi
+name_zh: 南基西语
+name_zh_auto: true
 autonym: Gisi
 alt_names: [Gissi, Gizi, Kisi, Kisi (Southern), "Kisi, Southern", Kissi, Kissien, Southern dialect]
 population: 318000

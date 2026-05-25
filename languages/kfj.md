@@ -1,6 +1,8 @@
 ---
 iso: kfj
 name: Kemiehua
+name_zh: 克米埃华语
+name_zh_auto: true
 autonym: Kemie
 population: 1000
 country_id: CN

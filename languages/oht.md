@@ -1,6 +1,8 @@
 ---
 iso: oht
 name: Old Hittite
+name_zh: 古赫梯语
+name_zh_auto: true
 autonym: null
 alt_names: ["Hittite, Old"]
 population: null

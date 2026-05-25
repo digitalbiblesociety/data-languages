@@ -1,6 +1,8 @@
 ---
 iso: dde
 name: Doondo
+name_zh: 多恩多语
+name_zh_auto: true
 autonym: Kibeembe
 alt_names: [Dondo, Kidoondo]
 population: 30000

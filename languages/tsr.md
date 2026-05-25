@@ -1,6 +1,8 @@
 ---
 iso: tsr
 name: Akei
+name_zh: 阿凯语
+name_zh_auto: true
 autonym: Tasiriki
 population: 650
 country_id: VU

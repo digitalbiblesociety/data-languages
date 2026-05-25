@@ -1,6 +1,8 @@
 ---
 iso: mma
 name: Mama
+name_zh: 玛玛语
+name_zh_auto: true
 autonym: Kantana
 alt_names: [Kwarra]
 population: 20000

@@ -1,6 +1,8 @@
 ---
 iso: huc
 name: ǂHua
+name_zh: "!华语"
+name_zh_auto: true
 autonym: Formerly ǂHoan
 alt_names: ["=|Hoa", "=|Hoan", "=|Hua", "=|Hua-Owani", Eastern ǂHuan, "|Hua", "|Hû", "ǂ'Amkhoe", ǂHoa, ǂHoan, ǂHua-Owani, ǂHuan, ǂHõã, ǂHũã, ǂQhôã, ≠Hû]
 population: 200

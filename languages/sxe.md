@@ -1,6 +1,8 @@
 ---
 iso: sxe
 name: Sighu
+name_zh: 西古语
+name_zh_auto: true
 autonym: Sighu
 alt_names: [Lesighu, Mississiou]
 population: 1000

@@ -1,6 +1,8 @@
 ---
 iso: bly
 name: Notre
+name_zh: 诺特雷语
+name_zh_auto: true
 autonym: Boulba
 alt_names: [Bulba, Burusa, Nootre, Nõtre]
 population: 1500

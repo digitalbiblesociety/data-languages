@@ -1,6 +1,8 @@
 ---
 iso: tsa
 name: Tsaangi
+name_zh: 察昂吉语
+name_zh_auto: true
 autonym: Icaangi
 alt_names: [Batsangui, Icaangui, Itsaangi, Itsangi, Tcengui, Tchangui, Tsangi]
 population: 13600

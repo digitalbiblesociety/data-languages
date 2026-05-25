@@ -1,6 +1,8 @@
 ---
 iso: hob
 name: Mari (Madang Province)
+name_zh: 玛丽语(马当省)
+name_zh_auto: true
 autonym: Hop
 alt_names: [Mari]
 population: 810

@@ -1,6 +1,8 @@
 ---
 iso: dsq
 name: Tadaksahak
+name_zh: 塔达克萨哈克语
+name_zh_auto: true
 autonym: Tadáksahak
 alt_names: [Daosahaq, Daoussahaq, Daoussak, Dausahaq, Dawsahaq]
 population: 159800

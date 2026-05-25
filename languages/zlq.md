@@ -1,6 +1,8 @@
 ---
 iso: zlq
 name: Liuqian Zhuang
+name_zh: 柳州壮语
+name_zh_auto: true
 autonym: Vahcuengh (za)
 alt_names: [Chuang, Zhuang, Zhuang (Northern), "Zhuang, Liuqian"]
 population: 370000

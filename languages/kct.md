@@ -1,6 +1,8 @@
 ---
 iso: kct
 name: Kaian
+name_zh: 凯扬语
+name_zh_auto: true
 autonym: Kayan
 population: 600
 country_id: PG

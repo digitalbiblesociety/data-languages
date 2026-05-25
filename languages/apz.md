@@ -1,6 +1,8 @@
 ---
 iso: apz
 name: Safeyoka
+name_zh: 萨费约卡语
+name_zh_auto: true
 autonym: Ampale
 alt_names: [Ambari, Ampeeli, Ampeeli-Wojokeso, Ampele, Safayoka (Ampale)]
 population: 2390

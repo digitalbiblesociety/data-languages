@@ -1,6 +1,8 @@
 ---
 iso: ait
 name: Arikem
+name_zh: 阿里克姆语
+name_zh_auto: true
 autonym: Ariken
 alt_names: [Arikém, Ariqueme, Ariquemes, Ariquême]
 population: null

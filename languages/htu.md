@@ -1,6 +1,8 @@
 ---
 iso: htu
 name: Hitu
+name_zh: 希图语
+name_zh_auto: true
 autonym: null
 alt_names: [Itu]
 population: 16000

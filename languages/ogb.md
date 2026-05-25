@@ -1,6 +1,8 @@
 ---
 iso: ogb
 name: Ogbia
+name_zh: 奥格比亚语
+name_zh_auto: true
 autonym: Ogbinya
 population: 374000
 country_id: NG

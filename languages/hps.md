@@ -1,6 +1,8 @@
 ---
 iso: hps
 name: "Hawai'i Sign Language (HSL)"
+name_zh: 夏威夷手语
+name_zh_auto: true
 autonym: Hoailona ʻŌlelo o Hawaiʻi
 alt_names: ["Hawai'i Pidgin Sign Language", "Hawai'i Sign Language", Hawaii Pidgin Sign Language, Hawaii Sign Language, Língua de Sinais Havaiana, Pidgin Sign Language]
 population: 6000

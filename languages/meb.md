@@ -1,6 +1,8 @@
 ---
 iso: meb
 name: Ikobi
+name_zh: 伊科比语
+name_zh_auto: true
 autonym: Mena
 alt_names: [Ikobi Kairi, Ikobi-Mena, Kasere, Kopo-Monia, Meni, Wailemi]
 population: 300

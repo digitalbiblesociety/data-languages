@@ -1,6 +1,8 @@
 ---
 iso: elo
 name: El Molo
+name_zh: 埃尔莫洛语
+name_zh_auto: true
 autonym: Dehes
 alt_names: ["\"Ndorobo\"", El Molo hizkuntza, Elmolo, Emolo, Fura-Pawa, Ldes, Lenga El Molo]
 population: 700

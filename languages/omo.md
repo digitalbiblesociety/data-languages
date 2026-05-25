@@ -1,6 +1,8 @@
 ---
 iso: omo
 name: Utarmbung
+name_zh: 乌塔姆邦语
+name_zh_auto: true
 autonym: Utarmbung
 alt_names: [Osum]
 population: 1170

@@ -1,6 +1,8 @@
 ---
 iso: puu
 name: Punu
+name_zh: 普努语
+name_zh_auto: true
 autonym: Bapunu
 alt_names: [Ipounou, Ipunu, Pouno, Puno, Yipounou, Yipunu]
 population: 168500

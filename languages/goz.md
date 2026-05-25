@@ -1,6 +1,8 @@
 ---
 iso: goz
 name: Gozarkhani
+name_zh: 戈扎尔汗语
+name_zh_auto: true
 autonym: Alamuti
 alt_names: [Iran]
 population: null

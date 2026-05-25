@@ -1,6 +1,8 @@
 ---
 iso: xuj
 name: Jennu Kurumba
+name_zh: 杰努-库鲁姆巴语
+name_zh_auto: true
 autonym: "Kurumba, Jennu"
 alt_names: [Jen Kurumba, Jennu Kurumba Nonstandard Kannada, Jennu Nudi, Kattu Nayaka, Naik Kurumba, Naikan, Ten Kurumba]
 population: 101000

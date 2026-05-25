@@ -1,6 +1,8 @@
 ---
 iso: blp
 name: Blablanga
+name_zh: 布拉布兰加语
+name_zh_auto: true
 autonym: Gema
 alt_names: [Goi]
 population: 1770

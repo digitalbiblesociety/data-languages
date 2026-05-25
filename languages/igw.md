@@ -1,6 +1,8 @@
 ---
 iso: igw
 name: Igwe
+name_zh: 伊格韦语
+name_zh_auto: true
 autonym: null
 alt_names: [Nigeria]
 population: 47800

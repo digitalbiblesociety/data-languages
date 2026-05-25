@@ -1,6 +1,8 @@
 ---
 iso: imo
 name: Imbongu
+name_zh: 伊蒙邦古语
+name_zh_auto: true
 autonym: Kakoli
 alt_names: [Imbo Ungu]
 population: 30000

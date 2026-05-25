@@ -1,6 +1,8 @@
 ---
 iso: mli
 name: Malimpung
+name_zh: 玛林庞语
+name_zh_auto: true
 autonym: null
 alt_names: [Nordost-Celebes]
 population: 5000

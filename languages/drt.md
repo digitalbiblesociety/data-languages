@@ -1,6 +1,8 @@
 ---
 iso: drt
 name: Drents
+name_zh: 德伦茨语
+name_zh_auto: true
 autonym: Dreins
 population: 255000
 country_id: NL

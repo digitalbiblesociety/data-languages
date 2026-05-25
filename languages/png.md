@@ -1,6 +1,8 @@
 ---
 iso: png
 name: Pongu
+name_zh: 庞古语
+name_zh_auto: true
 autonym: Rin
 alt_names: [Akwa, Arringeu, Pana, Pangu, Pnogu, Pongo, Ri, Tarya, ポング語]
 population: 30000

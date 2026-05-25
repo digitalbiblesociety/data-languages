@@ -1,6 +1,8 @@
 ---
 iso: mnv
 name: "Rennell-Bellona"
+name_zh: 伦内尔-贝洛纳语
+name_zh_auto: true
 autonym: "Rennell-Bellona"
 alt_names: [Ren(n)ellese, Rennell, Rennell-Belona, Rennellese, Rennellese-Bellonese]
 population: 4390

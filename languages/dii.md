@@ -1,6 +1,8 @@
 ---
 iso: dii
 name: Dimbong
+name_zh: 丁邦语
+name_zh_auto: true
 autonym: Dimbong
 alt_names: [Bape, Bumbong, Dimbongo, Kaalong, Kalong, Lakaalong, Lambong, Mbong, Palong]
 population: 140

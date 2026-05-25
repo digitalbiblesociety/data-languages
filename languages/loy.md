@@ -1,6 +1,8 @@
 ---
 iso: loy
 name: Loke
+name_zh: 洛克语
+name_zh_auto: true
 autonym: "Ü-Tsang"
 alt_names: [Baragaon, Baragaunle, Gurung, Lo Ke, Lo Montang, Loba, Lopa, Lowa, Loyu, Mustangi]
 population: 2500

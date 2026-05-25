@@ -1,6 +1,8 @@
 ---
 iso: jnl
 name: Rawat
+name_zh: 拉瓦特语
+name_zh_auto: true
 autonym: Ban Manus
 alt_names: [Ban Rauts, Bhulla, Dzanggali, Dźanggali, Jang(g)alī, Jangali, Janggali, Jhangar, Raji, Raut]
 population: 23000

@@ -1,6 +1,8 @@
 ---
 iso: xph
 name: "North Midlands Tasmanian\r"
+name_zh: 北中部塔斯马尼亚语
+name_zh_auto: true
 autonym: "North Midland Tasmanian, \"Cheranotipana\""
 alt_names: [NE Tasmanian Dialect Chain, North Midlands Tasmanian, "Tasmanian, North Midlands", Tyerrenoterpanner]
 population: null

@@ -1,6 +1,8 @@
 ---
 iso: nuw
 name: Nguluwan
+name_zh: 恩古卢万语
+name_zh_auto: true
 autonym: null
 alt_names: [Phonology from Ulithian and grammar and lexicon from Yapese.]
 population: 50

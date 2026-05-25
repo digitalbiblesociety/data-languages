@@ -1,6 +1,8 @@
 ---
 iso: qxu
 name: "Arequipa-La Unión Quechua"
+name_zh: 阿雷基帕-拉乌尼翁克丘亚语
+name_zh_auto: true
 autonym: Chanka runasimi
 alt_names: [Arequipa-La Union Quechua, "Quechua, Arequipa-La Unión"]
 population: 32000

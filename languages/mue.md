@@ -1,6 +1,8 @@
 ---
 iso: mue
 name: Media Lengua
+name_zh: 媒体伦瓜语
+name_zh_auto: true
 autonym: Quichuañol
 alt_names: [Ecuador, Медиа-ленгуа]
 population: 1000

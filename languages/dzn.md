@@ -1,6 +1,8 @@
 ---
 iso: dzn
 name: Dzando
+name_zh: 扎恩多语
+name_zh_auto: true
 autonym: null
 population: 6000
 country_id: CD

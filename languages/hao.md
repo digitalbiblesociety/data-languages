@@ -1,6 +1,8 @@
 ---
 iso: hao
 name: Hakö
+name_zh: 哈库语
+name_zh_auto: true
 autonym: Haku
 alt_names: [Hako]
 population: 5000

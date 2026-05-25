@@ -1,6 +1,8 @@
 ---
 iso: okc
 name: Kobo
+name_zh: 科博语
+name_zh_auto: true
 autonym: null
 population: 50000
 country_id: CD

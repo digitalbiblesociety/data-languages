@@ -1,6 +1,8 @@
 ---
 iso: kvq
 name: Geba Karen
+name_zh: 格巴卡伦语
+name_zh_auto: true
 autonym: Daneh
 alt_names: [Brè, Bwe, Eastern Bwe, Geba, Gebo, Kaba, "Karen, Geba", "Karen,Geba", Karenbyu, Kayinbyu, White Karen]
 population: 10000

@@ -1,6 +1,8 @@
 ---
 iso: atu
 name: Reel
+name_zh: 里尔语
+name_zh_auto: true
 autonym: Atwot
 alt_names: [Atuot, Thok Cieng Reel, Thok Reel]
 population: 116000

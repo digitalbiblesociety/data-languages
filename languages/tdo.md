@@ -1,6 +1,8 @@
 ---
 iso: tdo
 name: Teme
+name_zh: 特梅语
+name_zh_auto: true
 autonym: Tema
 population: 4000
 country_id: NG

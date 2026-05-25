@@ -1,6 +1,8 @@
 ---
 iso: pog
 name: Potiguára
+name_zh: 波蒂瓜拉语
+name_zh_auto: true
 autonym: Pitonara
 population: null
 country_id: BR

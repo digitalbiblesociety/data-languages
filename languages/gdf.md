@@ -1,6 +1,8 @@
 ---
 iso: gdf
 name: "Guduf-Gava"
+name_zh: 古杜夫-加瓦语
+name_zh_auto: true
 autonym: Afkabiye
 alt_names: [Gavoko, Gavoko (Guduf), Guduf, Gudupe, Kdupe]
 population: 55900

@@ -1,6 +1,8 @@
 ---
 iso: rkm
 name: Marka
+name_zh: 马尔卡语
+name_zh_auto: true
 autonym: Marka Dafing
 alt_names: [Dafing, Marka-Dafin, Meka]
 population: 185800

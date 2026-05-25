@@ -1,6 +1,8 @@
 ---
 iso: kiy
 name: Kirikiri
+name_zh: 基里基里语
+name_zh_auto: true
 autonym: Faia
 alt_names: [Kirira]
 population: 250

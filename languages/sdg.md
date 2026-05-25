@@ -1,6 +1,8 @@
 ---
 iso: sdg
 name: Savi
+name_zh: 萨维语
+name_zh_auto: true
 autonym: Sau
 alt_names: [Dardu, Sauji, Saví, Sawi, Shina]
 population: 3000

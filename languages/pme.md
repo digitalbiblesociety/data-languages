@@ -1,6 +1,8 @@
 ---
 iso: pme
 name: Pwaamei
+name_zh: 普瓦梅伊语
+name_zh_auto: true
 autonym: Poamei
 alt_names: [Neukaledonien, Pwaamèi]
 population: 220

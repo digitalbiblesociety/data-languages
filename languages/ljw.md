@@ -1,6 +1,8 @@
 ---
 iso: ljw
 name: Yirandali
+name_zh: 伊兰达利语
+name_zh_auto: true
 autonym: Dalebura
 population: null
 country_id: AU

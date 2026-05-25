@@ -1,6 +1,8 @@
 ---
 iso: rbk
 name: Northern Bontok
+name_zh: 北邦托克语
+name_zh_auto: true
 autonym: Finallig
 alt_names: ["Bontok, Northern"]
 population: null

@@ -1,6 +1,8 @@
 ---
 iso: txm
 name: Tomini
+name_zh: 托米尼语
+name_zh_auto: true
 autonym: Tialo
 alt_names: [Mouton, Tiadje]
 population: 19700

@@ -1,6 +1,8 @@
 ---
 iso: kyq
 name: Kenga
+name_zh: 肯加语
+name_zh_auto: true
 autonym: null
 alt_names: [Cenge, Kenge]
 population: 40000

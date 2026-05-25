@@ -1,6 +1,8 @@
 ---
 iso: ltn
 name: Latundê
+name_zh: 拉图恩德语
+name_zh_auto: true
 autonym: Northern Nambikwara
 alt_names: [Kithāulhú, Laconde, Lacondê, Latunde, Mamaindê, Mamande, Nakarothe, Nambikuára septentrional, Nambikwara du nord, Northern Nambikuaran, Northern Nambiquara, Yalapmunxte]
 population: null

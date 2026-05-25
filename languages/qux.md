@@ -1,6 +1,8 @@
 ---
 iso: qux
 name: Yauyos Quechua
+name_zh: 亚乌约斯克丘亚语
+name_zh_auto: true
 autonym: Huangáscar–Topará
 alt_names: [Huangascar-Topara-Yauyos Quechua, Huangascar-Topará, Quechua, Quechua de Yauyos, Quechua de Yauyos., "Quechua, Yauyos", Yauyos, Yauyos Kechua]
 population: 6500

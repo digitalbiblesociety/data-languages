@@ -1,6 +1,8 @@
 ---
 iso: nql
 name: Ngendelengo
+name_zh: 恩根德伦戈语
+name_zh_auto: true
 autonym: null
 population: null
 country_id: AO

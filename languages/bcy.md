@@ -1,6 +1,8 @@
 ---
 iso: bcy
 name: Bacama
+name_zh: 巴卡玛语
+name_zh_auto: true
 autonym: Abacama
 alt_names: [Bacama jezik, Bachama, Bachama-Bata, Bashamma, Batchameg, Besema, Bwareba, Gboare]
 population: 289000

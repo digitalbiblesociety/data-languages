@@ -1,6 +1,8 @@
 ---
 iso: ngv
 name: Nagumi
+name_zh: 纳古米语
+name_zh_auto: true
 autonym: Ngong
 alt_names: [Bama, Mbama]
 population: null

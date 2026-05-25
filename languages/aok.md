@@ -1,6 +1,8 @@
 ---
 iso: aok
 name: Arhö
+name_zh: 阿尔霍语
+name_zh_auto: true
 autonym: Aro
 alt_names: [Arho, Neukaledonien]
 population: 10

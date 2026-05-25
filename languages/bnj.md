@@ -1,6 +1,8 @@
 ---
 iso: bnj
 name: Eastern Tawbuid
+name_zh: 东陶布乌伊德语
+name_zh_auto: true
 autonym: "Tawbuid, Eastern"
 alt_names: [Bangon, Barangan, Batangan, Binatangan, Fanawbuid, Suri, Tabuid, Taubuid, Tiron]
 population: 7190

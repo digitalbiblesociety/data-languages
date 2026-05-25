@@ -1,6 +1,8 @@
 ---
 iso: ccd
 name: Cafundo Creole
+name_zh: 卡丰多克里奥尔语
+name_zh_auto: true
 autonym: Cupópia
 alt_names: ["Creole, Cafundo"]
 population: 40

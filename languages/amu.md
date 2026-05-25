@@ -1,6 +1,8 @@
 ---
 iso: amu
 name: Guerrero Amuzgo
+name_zh: 格雷罗阿木戈语
+name_zh_auto: true
 autonym: Ñomndaa
 alt_names: [Amusgo, Amuzgo, "Amuzgo, Guerrero", Azmugo, Guerrero, Nomndaa]
 population: 45900

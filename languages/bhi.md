@@ -1,6 +1,8 @@
 ---
 iso: bhi
 name: Bhilali
+name_zh: 比拉利语
+name_zh_auto: true
 autonym: Bhilala
 population: 753000
 country_id: IN

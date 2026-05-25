@@ -1,6 +1,8 @@
 ---
 iso: rmz
 name: Marma
+name_zh: 马尔玛语
+name_zh_auto: true
 autonym: Rakhine
 population: 186700
 country_id: BD

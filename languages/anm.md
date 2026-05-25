@@ -1,6 +1,8 @@
 ---
 iso: anm
 name: Anal
+name_zh: 阿纳尔语
+name_zh_auto: true
 autonym: Namfau
 population: 27250
 country_id: IN

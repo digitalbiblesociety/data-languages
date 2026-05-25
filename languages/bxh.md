@@ -1,6 +1,8 @@
 ---
 iso: bxh
 name: Buhutu
+name_zh: 布胡图语
+name_zh_auto: true
 autonym: null
 alt_names: [Bohutu, Buhulu, Siasiada, Yaleba]
 population: 166080

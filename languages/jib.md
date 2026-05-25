@@ -1,6 +1,8 @@
 ---
 iso: jib
 name: Jibu
+name_zh: 吉布语
+name_zh_auto: true
 autonym: Jibanci
 alt_names: [Jibawa]
 population: 30000

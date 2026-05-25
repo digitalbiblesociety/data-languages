@@ -1,6 +1,8 @@
 ---
 iso: nkm
 name: Namat
+name_zh: 纳马特语
+name_zh_auto: true
 autonym: null
 population: 180
 country_id: PG

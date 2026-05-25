@@ -1,6 +1,8 @@
 ---
 iso: blm
 name: Beli (South Sudan)
+name_zh: 贝利语（南苏丹）
+name_zh_auto: true
 autonym: Jur ’Bëlï
 alt_names: ["'Beli", Behli, Beili, Beli, Beli (Sudan), Jur Beli]
 population: 65000

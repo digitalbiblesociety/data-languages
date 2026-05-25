@@ -1,6 +1,8 @@
 ---
 iso: bdd
 name: Bunama
+name_zh: 布纳玛语
+name_zh_auto: true
 autonym: null
 population: 4000
 country_id: PG

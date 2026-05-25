@@ -1,6 +1,8 @@
 ---
 iso: cds
 name: Chadian Sign Language
+name_zh: 乍得手语
+name_zh_auto: true
 autonym: Lenguaje de Señas Bolivianas LSB
 population: 390
 country_id: TD

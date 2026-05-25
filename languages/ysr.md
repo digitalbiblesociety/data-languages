@@ -1,6 +1,8 @@
 ---
 iso: ysr
 name: Sirenik Yupik
+name_zh: 西雷尼克-尤皮克语
+name_zh_auto: true
 autonym: Сиӷы́ных
 alt_names: [Eskimo (Sirenik), Idioma sirenik, Old Sirenik, Old Sirinek, Sirenik, Sirenik Eskimo, Sirenik antiguo, Sirenikeg, Sirenikgbe, Sireniki Eskimo language, Sirenikin kieli, Sirenikski, Szirenyiki eszkimó nyelv, Vieux sirenik, Vuteen, "Yup'ik (Sirenik)", Yupik (Sirenik), "Yupik, Sirenik", Сиреникский язык]
 population: 2010

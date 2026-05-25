@@ -1,6 +1,8 @@
 ---
 iso: pax
 name: Pankararé
+name_zh: 潘卡拉雷语
+name_zh_auto: true
 autonym: Pankararé
 alt_names: [Pankarare, Pankaré]
 population: null

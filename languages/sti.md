@@ -1,6 +1,8 @@
 ---
 iso: sti
 name: Bulo Stieng
+name_zh: 布洛斯蒂恩格语
+name_zh_auto: true
 autonym: Budíp
 alt_names: [Bulo, Kajiang, Kediang, Northern Stieng, Rangah, Rmang, Stieng, "Stieng, Bulo", Upper Stieng, Xa-Dieng, Xtieng]
 population: 6060

@@ -1,6 +1,8 @@
 ---
 iso: pnh
 name: Penrhyn
+name_zh: 彭里恩语
+name_zh_auto: true
 autonym: Mangarongaro
 alt_names: [Penrhynese, Tongareva, Tongarevski jezik]
 population: 600

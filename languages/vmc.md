@@ -1,6 +1,8 @@
 ---
 iso: vmc
 name: Juxtlahuaca Mixtec
+name_zh: 胡克斯特拉瓦卡混特克语
+name_zh_auto: true
 autonym: Central Juxtlahuaca Mixtec
 alt_names: [Ayutla Mixtec, Central Misteko, Centreal Mixteco, Coastal Guerrero Mixtec, Coicoyán Mixtec, "Mixtec, Juxtlahuaca", Mixteco de Ayutla, Mixteco de Juxtlahuaca, Mixteco del Oeste de Juxtlahuaca, Southern Baja Mixtec, Western Juxtlahuaca Mixtec]
 population: 16000

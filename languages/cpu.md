@@ -1,6 +1,8 @@
 ---
 iso: cpu
 name: Pichis Ashéninka
+name_zh: 皮奇斯阿什尼卡语
+name_zh_auto: true
 autonym: Campa
 alt_names: ["\"Pichis Campa\"", Ashaninca (Brésil), Ashaninka (Pérou), Asháninca, Ashéninga, "Ashéninka, Pichis", Atiri, Cogapacorí, "Lenga ashéninka, pichis", Nanti, Pichis, Pichis Asheninka, Pichis Ashéninca]
 population: 10700

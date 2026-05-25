@@ -1,6 +1,8 @@
 ---
 iso: xbw
 name: Kambiwá
+name_zh: 坎比瓦语
+name_zh_auto: true
 autonym: Cambioá
 alt_names: [Brazil, Kambiwa]
 population: null

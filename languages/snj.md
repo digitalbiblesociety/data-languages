@@ -1,6 +1,8 @@
 ---
 iso: snj
 name: Riverain Sango
+name_zh: 河滨桑戈语
+name_zh_auto: true
 autonym: yângâ tî sängö
 alt_names: ["Sango, Riverain"]
 population: 34500

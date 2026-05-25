@@ -1,6 +1,8 @@
 ---
 iso: ttq
 name: Tawallammat Tamajaq
+name_zh: 塔瓦拉玛特塔马杰克语
+name_zh_auto: true
 autonym: Tawəlləmmət
 alt_names: [Abinawa, Amazigh, Buzu, Tahoua, Tahoua Tamajeq, Tajag, Tamachek, Tamajaq, "Tamajaq, Tawallammat", Tamajeq, Tamashekin, Tamasheq, Tamazheq, Tawallammat, Tewellemet, Tomacheck, Touareg, Tourage, Tuareg]
 population: 870000

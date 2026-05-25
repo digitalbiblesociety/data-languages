@@ -1,6 +1,8 @@
 ---
 iso: ado
 name: Abu
+name_zh: 阿布语
+name_zh_auto: true
 autonym: Abu
 alt_names: [Adjora, Adjoria, Azao]
 population: 3380

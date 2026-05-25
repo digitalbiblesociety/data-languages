@@ -1,6 +1,8 @@
 ---
 iso: xet
 name: Xetá
+name_zh: 塞塔语
+name_zh_auto: true
 autonym: Aré
 alt_names: [Botocudo, Cheta, Chetá, Heta, Notobotocudo, Seta, Setá, Sheta, Shetá, Ssetá, Xeta, Yvaparé, Šetá]
 population: null

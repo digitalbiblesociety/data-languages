@@ -1,6 +1,8 @@
 ---
 iso: djo
 name: Jangkang
+name_zh: 将康语
+name_zh_auto: true
 autonym: Djongkang
 population: 37000
 country_id: ID

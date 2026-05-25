@@ -1,6 +1,8 @@
 ---
 iso: rod
 name: Rogo
+name_zh: 罗戈语
+name_zh_auto: true
 autonym: Burogo
 alt_names: [Ucanja Kamuku, Urogo]
 population: null

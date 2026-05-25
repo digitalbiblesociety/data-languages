@@ -1,6 +1,8 @@
 ---
 iso: dhg
 name: "Dhangu-Djangu"
+name_zh: 丹古-詹古语
+name_zh_auto: true
 autonym: Djangu
 alt_names: [Dangu, Dhaangu, Dhangu, "Dhangu'mi", Dhaŋu, Gaalpu, Warameri, Waramiri, Yirgala, Yuulngu]
 population: 230

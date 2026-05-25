@@ -1,6 +1,8 @@
 ---
 iso: jac
 name: "Popti'"
+name_zh: 波普蒂语
+name_zh_auto: true
 autonym: Poptiʼ
 alt_names: [Eastern, Idioma jacalteco, Jacaltec, Jacalteco, Jacalteeks, Jakalteco, Jakaltek, Jakaltek language, Jakaltekisk, Jakalteko, "Jakalteko, Eastern", Língua jacalteca, Poptí, Хакалтекски јазик, 하칼테크어]
 population: 33130

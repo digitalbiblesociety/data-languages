@@ -1,6 +1,8 @@
 ---
 iso: bor
 name: Borôro
+name_zh: 博罗罗语
+name_zh_auto: true
 autonym: Boe Wadáru
 alt_names: [Boe, Bororo, Bororo proper, Borro, Eastern Bororo, Western Bororo]
 population: 1392

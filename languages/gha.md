@@ -1,6 +1,8 @@
 ---
 iso: gha
 name: Ghadamès
+name_zh: 加达梅斯语
+name_zh_auto: true
 autonym: Ghadāmis
 alt_names: [Gadamés, Ghadames, Ghadamès jezik, Гхадамесский язык]
 population: 10000

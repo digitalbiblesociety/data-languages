@@ -1,6 +1,8 @@
 ---
 iso: gnt
 name: Guntai
+name_zh: 古塔伊语
+name_zh_auto: true
 autonym: Warta Thuntai
 population: 350
 country_id: PG

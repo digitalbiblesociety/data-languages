@@ -1,6 +1,8 @@
 ---
 iso: bnl
 name: Boon
+name_zh: 布恩语
+name_zh_auto: true
 autonym: "Af-Boon"
 alt_names: [Boni, Boon hizkuntza]
 population: 60

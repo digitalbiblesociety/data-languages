@@ -1,6 +1,8 @@
 ---
 iso: ocm
 name: Old Cham
+name_zh: 古占语
+name_zh_auto: true
 alt_names: ["Cham, Old"]
 country_id: VN
 country_name: Vietnam

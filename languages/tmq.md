@@ -1,6 +1,8 @@
 ---
 iso: tmq
 name: Tumleo
+name_zh: 图姆莱奥语
+name_zh_auto: true
 autonym: null
 population: 790
 country_id: PG

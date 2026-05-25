@@ -1,6 +1,8 @@
 ---
 iso: mpy
 name: Mapia
+name_zh: 玛皮亚语
+name_zh_auto: true
 autonym: Mapian
 population: null
 country_id: ID

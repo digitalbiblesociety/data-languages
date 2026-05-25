@@ -1,6 +1,8 @@
 ---
 iso: yer
 name: Tarok
+name_zh: 塔罗克语
+name_zh_auto: true
 autonym: Yergam
 alt_names: [Appa, Yergum]
 population: 494000

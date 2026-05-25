@@ -1,6 +1,8 @@
 ---
 iso: duh
 name: Dungra Bhil
+name_zh: 邓格拉巴尔语
+name_zh_auto: true
 autonym: null
 population: 100000
 country_id: IN

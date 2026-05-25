@@ -1,6 +1,8 @@
 ---
 iso: lmj
 name: West Lembata
+name_zh: 西伦巴塔语
+name_zh_auto: true
 autonym: West Lembata
 alt_names: [Labalekan, "Lembata, West", Mingar]
 population: 8000

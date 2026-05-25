@@ -1,6 +1,8 @@
 ---
 iso: mrn
 name: Cheke Holo
+name_zh: 切克·霍洛语
+name_zh_auto: true
 autonym: "A'ara"
 alt_names: [Holo, Kubonitu, Maring, Maring (Trans New Guinea), Maringe]
 population: 10800

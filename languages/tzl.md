@@ -1,6 +1,8 @@
 ---
 iso: tzl
 name: Talossan
+name_zh: 塔洛桑语
+name_zh_auto: true
 autonym: Talossan
 population: null
 country_id: ZZ

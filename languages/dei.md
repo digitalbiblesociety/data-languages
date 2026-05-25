@@ -1,6 +1,8 @@
 ---
 iso: dei
 name: Demisa
+name_zh: 德米萨语
+name_zh_auto: true
 autonym: Desawa
 alt_names: [Dewesa]
 population: 400

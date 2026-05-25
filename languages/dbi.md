@@ -1,6 +1,8 @@
 ---
 iso: dbi
 name: Doka
+name_zh: 多卡语
+name_zh_auto: true
 autonym: Ejuele
 population: 11400
 country_id: NG

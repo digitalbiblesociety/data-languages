@@ -1,6 +1,8 @@
 ---
 iso: bcp
 name: Bali (Democratic Republic of Congo)
+name_zh: 刚果民主共和国巴利语
+name_zh_auto: true
 autonym: Dhibali
 alt_names: [Baali, Bali, Kibaali, Kibala, Kibali, Libaali]
 population: 42000

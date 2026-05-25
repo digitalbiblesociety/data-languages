@@ -1,6 +1,8 @@
 ---
 iso: jwi
 name: "Jwira-Pepesa"
+name_zh: 吉维拉-佩佩萨语
+name_zh_auto: true
 autonym: "Pepesa-Jwira"
 population: 18000
 country_id: GH

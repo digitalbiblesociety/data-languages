@@ -1,6 +1,8 @@
 ---
 iso: aeq
 name: Aer
+name_zh: 埃尔语
+name_zh_auto: true
 autonym: آیر
 population: 150
 country_id: PK

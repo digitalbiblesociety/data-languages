@@ -1,6 +1,8 @@
 ---
 iso: mzk
 name: Nigeria Mambila
+name_zh: 尼日利亚曼比拉语
+name_zh_auto: true
 autonym: Bang
 alt_names: [Lagubi, Mabila, Mambere, Mambila, "Mambila, Nigeria", Mambilla, Nor, Nor Tagbo, Tongbo]
 population: 55600

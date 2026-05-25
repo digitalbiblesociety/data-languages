@@ -1,6 +1,8 @@
 ---
 iso: cpb
 name: "Ucayali-Yurúa Ashéninka"
+name_zh: 乌卡亚利-尤鲁瓦阿什尼卡语
+name_zh_auto: true
 autonym: Campa
 alt_names: [Ashaninca (Brésil), Ashaninka (Pérou), Asháninca, Ashéninga, "Ashéninka, Ucayali-Yurúa", Cogapacorí, Nanti, Ucayali, Ucayali Ashéninca, Ucayali-Yurua Asheninka]
 population: 7000

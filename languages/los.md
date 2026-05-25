@@ -1,6 +1,8 @@
 ---
 iso: los
 name: Loniu
+name_zh: 洛尼乌语
+name_zh_auto: true
 autonym: Lonio
 alt_names: [Admiralitäts-inseln, Ndroku]
 population: 460

@@ -1,6 +1,8 @@
 ---
 iso: kpr
 name: "Korafe-Yegha"
+name_zh: 科拉费-耶格哈语
+name_zh_auto: true
 autonym: "Korafe-Yegha"
 alt_names: [Korafe]
 population: 3630

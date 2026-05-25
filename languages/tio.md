@@ -1,6 +1,8 @@
 ---
 iso: tio
 name: Teop
+name_zh: 特奥普语
+name_zh_auto: true
 autonym: Teapu
 population: 5000
 country_id: PG

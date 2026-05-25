@@ -1,6 +1,8 @@
 ---
 iso: smm
 name: Musasa
+name_zh: 穆萨萨语
+name_zh_auto: true
 autonym: Musahar
 alt_names: [Rishaidep]
 population: 172434

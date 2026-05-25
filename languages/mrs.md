@@ -1,6 +1,8 @@
 ---
 iso: mrs
 name: Maragus
+name_zh: 马拉古斯语
+name_zh_auto: true
 autonym: Maragus
 alt_names: [Mallicolo, Maragaus, Tape]
 population: 15

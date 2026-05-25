@@ -1,6 +1,8 @@
 ---
 iso: ubi
 name: Ubi
+name_zh: 乌比语
+name_zh_auto: true
 autonym: Oubi
 alt_names: [Ubi language]
 population: 1100

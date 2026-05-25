@@ -1,6 +1,8 @@
 ---
 iso: gvf
 name: Golin
+name_zh: 戈林语
+name_zh_auto: true
 autonym: null
 alt_names: [Chimbu, Gollum, Gumine]
 population: 51100

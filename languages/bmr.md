@@ -1,6 +1,8 @@
 ---
 iso: bmr
 name: Muinane
+name_zh: 穆伊纳内语
+name_zh_auto: true
 autonym: Muìnánɨ
 alt_names: [Bora, Bora-Muinane, Boran, Feenemɨna, Muename, Muiname, Muinana, Muinane Bora, Muinani, Proto-Bora-Muinane]
 population: 150

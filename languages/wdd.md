@@ -1,6 +1,8 @@
 ---
 iso: wdd
 name: Wandji
+name_zh: 万吉语
+name_zh_auto: true
 autonym: Wandji
 alt_names: [Bawandji]
 population: 10500

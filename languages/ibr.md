@@ -1,6 +1,8 @@
 ---
 iso: ibr
 name: Ibuoro
+name_zh: 伊布奥罗语
+name_zh_auto: true
 autonym: null
 alt_names: [Nigeria]
 population: 5000

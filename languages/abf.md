@@ -1,6 +1,8 @@
 ---
 iso: abf
 name: Abai Sungai
+name_zh: 阿拜松盖语
+name_zh_auto: true
 autonym: null
 population: 1000
 country_id: MY

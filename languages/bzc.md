@@ -1,6 +1,8 @@
 ---
 iso: bzc
 name: Southern Betsimisaraka Malagasy
+name_zh: 南贝齐米萨拉卡马拉加斯语
+name_zh_auto: true
 autonym: malagasy
 alt_names: ["Malagasy, Southern Betsimisaraka"]
 population: null

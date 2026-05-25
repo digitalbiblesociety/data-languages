@@ -1,6 +1,8 @@
 ---
 iso: sih
 name: Zire
+name_zh: 齐雷语
+name_zh_auto: true
 autonym: Nerë
 alt_names: [Neukaledonien, Siche, Sirhe, Sishee, Sîshëë, Yirhe, Yirhee, Ziche, Zira]
 population: 19

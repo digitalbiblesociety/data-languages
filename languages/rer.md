@@ -1,6 +1,8 @@
 ---
 iso: rer
 name: Rer Bare
+name_zh: 雷尔巴雷语
+name_zh_auto: true
 autonym: Adona
 alt_names: [Rerebere]
 population: null

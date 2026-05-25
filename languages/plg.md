@@ -1,6 +1,8 @@
 ---
 iso: plg
 name: Pilagá
+name_zh: 皮拉加语
+name_zh_auto: true
 autonym: Pilaca
 alt_names: [Pilaga]
 population: 4000

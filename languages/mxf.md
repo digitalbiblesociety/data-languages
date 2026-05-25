@@ -1,6 +1,8 @@
 ---
 iso: mxf
 name: Malgbe
+name_zh: 玛尔格贝语
+name_zh_auto: true
 autonym: Gulfey
 alt_names: [Goulfei, Goulfey, Gulfe, Gulfei, Kotoko-Gulfei, Malbe, Malgwe, Mandage, Ngwalkwe, Sanbalbe]
 population: 6000

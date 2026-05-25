@@ -1,6 +1,8 @@
 ---
 iso: kmv
 name: Karipúna Creole French
+name_zh: 卡里普纳克里奥尔语
+name_zh_auto: true
 autonym: Amapá French Creole
 alt_names: ["Creole French, Karipúna", Crioulo, Karipuna Creole French, "Karipuna de l'Amapá", Karipuna del Amapá]
 population: 1710

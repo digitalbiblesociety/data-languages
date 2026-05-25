@@ -1,6 +1,8 @@
 ---
 iso: nkw
 name: Nkutu
+name_zh: 恩库图语
+name_zh_auto: true
 autonym: Bankutu
 alt_names: [Nkuchu, Nkutshu]
 population: 40000

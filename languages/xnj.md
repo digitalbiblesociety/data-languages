@@ -1,6 +1,8 @@
 ---
 iso: xnj
 name: Chingoni
+name_zh: 钦贡尼语
+name_zh_auto: true
 autonym: Songea
 alt_names: [Ngoni (Tanzania)]
 population: 311000

@@ -1,6 +1,8 @@
 ---
 iso: zmv
 name: "Mbariman-Gudhinma"
+name_zh: 姆巴里曼-古丁玛语
+name_zh_auto: true
 autonym: Gugu Warra
 alt_names: [Bariman Gudinhma, Bariman Gutinhma, Parimankutinma, Port Stewart Lamalama, Rima-nggudininhma, Rimang-Gudinhma, Rimanggudinhma]
 population: null

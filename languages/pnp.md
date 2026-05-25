@@ -1,6 +1,8 @@
 ---
 iso: pnp
 name: Pancana
+name_zh: 潘卡纳语
+name_zh_auto: true
 autonym: Pantjana
 population: 6000
 country_id: ID

@@ -1,6 +1,8 @@
 ---
 iso: wry
 name: Merwari
+name_zh: 梅瓦里语
+name_zh_auto: true
 autonym: मारवाड़ी/مارواڑی‎
 alt_names: [Ajmeri]
 population: 3900000

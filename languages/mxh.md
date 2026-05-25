@@ -1,6 +1,8 @@
 ---
 iso: mxh
 name: Mvuba
+name_zh: 姆武巴语
+name_zh_auto: true
 autonym: Bambuba
 alt_names: [Bamvuba, Mbuba, Mvuba-A, Obiye]
 population: 5100

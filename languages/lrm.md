@@ -1,6 +1,8 @@
 ---
 iso: lrm
 name: Marama
+name_zh: 马拉玛语
+name_zh_auto: true
 autonym: Luyia
 alt_names: [Olumarama]
 population: null

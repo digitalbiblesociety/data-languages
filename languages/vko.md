@@ -1,6 +1,8 @@
 ---
 iso: vko
 name: Kodeoha
+name_zh: 科德欧哈语
+name_zh_auto: true
 autonym: Kondea
 alt_names: [Kondeha]
 population: 1500

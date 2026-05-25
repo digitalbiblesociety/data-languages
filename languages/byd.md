@@ -1,6 +1,8 @@
 ---
 iso: byd
 name: "Benyadu'"
+name_zh: 本亚杜语
+name_zh_auto: true
 autonym: Benyadu’
 alt_names: [Balantian, Balantiang, Njadu, Nyadu]
 population: 54000

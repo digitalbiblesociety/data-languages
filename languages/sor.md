@@ -1,6 +1,8 @@
 ---
 iso: sor
 name: Somrai
+name_zh: 索姆赖语
+name_zh_auto: true
 autonym: Sibine
 alt_names: [East Chadic A.1, Shibne, Somrai Group, Somre, Somrei, Soumrai, Soumray, Sounrai, Sumrai]
 population: 7410

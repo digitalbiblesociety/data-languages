@@ -1,6 +1,8 @@
 ---
 iso: dev
 name: Domung
+name_zh: 多蒙语
+name_zh_auto: true
 autonym: Gabutamon
 population: 2000
 country_id: PG

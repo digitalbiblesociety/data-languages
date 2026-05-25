@@ -1,6 +1,8 @@
 ---
 iso: nue
 name: Ngundu
+name_zh: 恩贡杜语
+name_zh_auto: true
 autonym: null
 alt_names: [Democratic Republic of the Congo]
 population: 5100

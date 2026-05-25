@@ -1,6 +1,8 @@
 ---
 iso: hwa
 name: Wané
+name_zh: 瓦内语
+name_zh_auto: true
 autonym: Hwane
 alt_names: [Ngwané, Wane]
 population: 2100

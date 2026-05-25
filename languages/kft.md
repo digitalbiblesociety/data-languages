@@ -1,6 +1,8 @@
 ---
 iso: kft
 name: Kanjari
+name_zh: 坎贾里语
+name_zh_auto: true
 autonym: Kagari
 alt_names: [Kangar Bhat, Kangri, Kanjri]
 population: 91200

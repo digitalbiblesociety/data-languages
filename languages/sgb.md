@@ -1,6 +1,8 @@
 ---
 iso: sgb
 name: "Mag-antsi Ayta"
+name_zh: 马格-安茨艾亚语
+name_zh_auto: true
 autonym: "Mag-antsi"
 alt_names: ["Ayta, Mag-Anchi", "Ayta, Mag-antsi", Mag-Anchi Sambal, ภาษามักอันซี]
 population: 8200

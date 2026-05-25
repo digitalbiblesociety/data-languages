@@ -1,6 +1,8 @@
 ---
 iso: rms
 name: Romanian Sign Language
+name_zh: 罗马尼亚手语
+name_zh_auto: true
 autonym: Limba semnelor române
 population: 24600
 country_id: RO

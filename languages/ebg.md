@@ -1,6 +1,8 @@
 ---
 iso: ebg
 name: Ebughu
+name_zh: 埃布古语
+name_zh_auto: true
 autonym: Oron
 alt_names: [Ebughu jezik]
 population: 5000

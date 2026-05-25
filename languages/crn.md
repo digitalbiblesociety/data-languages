@@ -1,6 +1,8 @@
 ---
 iso: crn
 name: El Nayar Cora
+name_zh: 埃尔纳亚尔科拉语
+name_zh_auto: true
 autonym: naáyarite
 alt_names: [Cora, Cora de el Nayar, Cora language, "Cora, El Nayar", Idioma cora, Kora, Náayeri, Pinome]
 population: 5370

@@ -1,6 +1,8 @@
 ---
 iso: ntp
 name: Northern Tepehuan
+name_zh: 北特佩瓦语
+name_zh_auto: true
 autonym: "O'otham"
 alt_names: [N Tepehuan, N. Tepehuan, North Tepehuane, Northern Tepehuán, Northern Tepewan, Tepahue (Northern), Tepeguana, Tepehuan (Northern), "Tepehuan, Northern", Tepehuán (Norte), Tepehuán del Norte, Tepiman]
 population: 9570

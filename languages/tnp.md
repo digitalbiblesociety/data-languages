@@ -1,6 +1,8 @@
 ---
 iso: tnp
 name: Whitesands
+name_zh: 怀特桑兹语
+name_zh_auto: true
 autonym: East Tanna
 alt_names: [Napuanmen, Tepehuan septentrional, Tepehuano septentrional, Whitsands]
 population: 7500

@@ -1,6 +1,8 @@
 ---
 iso: orn
 name: Orang Kanaq
+name_zh: 奥朗卡纳克语
+name_zh_auto: true
 autonym: Kanaq
 population: null
 country_id: MY

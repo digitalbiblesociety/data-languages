@@ -1,6 +1,8 @@
 ---
 iso: xau
 name: Kauwera
+name_zh: 考韦拉语
+name_zh_auto: true
 autonym: Kabera
 alt_names: [Kaowerawedj, Kauwerawec, Kauwerawet, Kauwerawetj, Kawera, Koassa, Tekutameso]
 population: 400

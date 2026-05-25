@@ -1,6 +1,8 @@
 ---
 iso: nzd
 name: Nzadi
+name_zh: 恩扎迪语
+name_zh_auto: true
 autonym: Indzéé
 population: null
 country_id: CD

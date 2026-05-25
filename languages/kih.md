@@ -1,6 +1,8 @@
 ---
 iso: kih
 name: Kilmeri
+name_zh: 基尔梅里语
+name_zh_auto: true
 autonym: Kilmera
 population: 1970
 country_id: PG

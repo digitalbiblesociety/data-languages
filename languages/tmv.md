@@ -1,6 +1,8 @@
 ---
 iso: tmv
 name: Tembo (Motembo)
+name_zh: 特姆博语
+name_zh_auto: true
 autonym: Buja
 alt_names: [Litembo, Motembo, Motembo-Kunda-Buja, Tembo]
 population: 5000

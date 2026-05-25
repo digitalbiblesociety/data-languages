@@ -1,6 +1,8 @@
 ---
 iso: tgz
 name: Tagalaka
+name_zh: 塔加拉卡语
+name_zh_auto: true
 autonym: "Da:galag"
 alt_names: [Dagalag, Dagalang, Tagalag, Takalak, Targa-lag, Targalag, Tarkalag]
 population: null

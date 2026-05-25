@@ -1,6 +1,8 @@
 ---
 iso: ddd
 name: Dongotono
+name_zh: 东戈托诺语
+name_zh_auto: true
 autonym: Dongotono
 alt_names: [Dɔngɔtɔnɔ, Lorwama]
 population: 1000

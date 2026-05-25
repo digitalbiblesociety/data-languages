@@ -1,6 +1,8 @@
 ---
 iso: kvp
 name: Kompane
+name_zh: 孔帕内语
+name_zh_auto: true
 autonym: Komfana
 alt_names: [Aru, Kongampani]
 population: 330

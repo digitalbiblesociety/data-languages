@@ -1,6 +1,8 @@
 ---
 iso: bbp
 name: West Central Banda
+name_zh: 西中部班达语
+name_zh_auto: true
 autonym: Golo
 alt_names: ["Banda, West Central"]
 population: 1000

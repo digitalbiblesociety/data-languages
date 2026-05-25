@@ -1,6 +1,8 @@
 ---
 iso: kqv
 name: Okolod
+name_zh: 奥科洛德语
+name_zh_auto: true
 autonym: Okolod
 alt_names: [Kolod, Kolour, Kolur, Okolod Murut]
 population: 3390

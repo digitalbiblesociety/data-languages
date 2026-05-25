@@ -1,6 +1,8 @@
 ---
 iso: wly
 name: Waling
+name_zh: 瓦林语
+name_zh_auto: true
 autonym: Walung
 alt_names: [Walüng, Wāling]
 population: null

@@ -1,6 +1,8 @@
 ---
 iso: xwl
 name: Western Xwla Gbe
+name_zh: 西克斯拉-格贝语
+name_zh_auto: true
 autonym: Xwla
 alt_names: ["Gbe, Western Xwla", Phla, Xwla-Gbe]
 population: null

@@ -1,6 +1,8 @@
 ---
 iso: tde
 name: Tiranige Diga Dogon
+name_zh: 蒂拉尼格迪加多贡语
+name_zh_auto: true
 autonym: Tiranige dige
 alt_names: ["Dogon, Tiranige Diga", Duleri, Duleri Dom, Tiranige, Tiranige Diga]
 population: 4200

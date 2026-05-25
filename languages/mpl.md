@@ -1,6 +1,8 @@
 ---
 iso: mpl
 name: Middle Watut
+name_zh: 中沃特特语
+name_zh_auto: true
 autonym: Maraliinan
 alt_names: [Maralinan, Silisili, Watut, "Watut, Middle"]
 population: 1350

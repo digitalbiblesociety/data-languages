@@ -1,6 +1,8 @@
 ---
 iso: bwf
 name: Boselewa
+name_zh: 博塞莱瓦语
+name_zh_auto: true
 autonym: Bosalewa
 alt_names: [Bosilewa, "Mwani'u"]
 population: 1525

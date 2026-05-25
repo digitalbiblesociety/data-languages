@@ -1,6 +1,8 @@
 ---
 iso: rem
 name: Remo
+name_zh: 雷莫语
+name_zh_auto: true
 autonym: Môa Remo
 alt_names: [Kukuini, Rheno, Sakuya]
 population: null

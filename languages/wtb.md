@@ -1,6 +1,8 @@
 ---
 iso: wtb
 name: Matambwe
+name_zh: 马坦布韦语
+name_zh_auto: true
 autonym: Chi(ni)makonde
 country_id: TZ
 country_name: Tanzania

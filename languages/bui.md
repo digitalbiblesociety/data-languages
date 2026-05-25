@@ -1,6 +1,8 @@
 ---
 iso: bui
 name: Bongili
+name_zh: 邦吉利语
+name_zh_auto: true
 autonym: Bokiba
 alt_names: [Bongiri, Bungili, Bungiri]
 population: 4000

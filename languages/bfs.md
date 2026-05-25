@@ -1,6 +1,8 @@
 ---
 iso: bfs
 name: Southern Bai
+name_zh: 南白族语
+name_zh_auto: true
 autonym: 白语 Báiyǔ
 alt_names: [Bai, "Bai, Southern", "Bai,Southern"]
 population: 680000

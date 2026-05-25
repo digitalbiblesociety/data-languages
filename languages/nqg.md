@@ -1,6 +1,8 @@
 ---
 iso: nqg
 name: Southern Nago
+name_zh: 南纳戈语
+name_zh_auto: true
 autonym: Ede Nago
 alt_names: [Nago, "Nago, Southern", Nagot, Nagots]
 population: 200000

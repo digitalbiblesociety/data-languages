@@ -1,6 +1,8 @@
 ---
 iso: hap
 name: Hupla
+name_zh: 胡普拉语
+name_zh_auto: true
 autonym: Soba
 population: 3000
 country_id: ID

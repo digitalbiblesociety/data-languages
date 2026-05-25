@@ -1,6 +1,8 @@
 ---
 iso: dhl
 name: Dhalandji
+name_zh: 达兰吉语
+name_zh_auto: true
 autonym: Dalandji
 alt_names: [Dalaindji, Dalanchi, Dalangi, Dalanjdji, Dalendi, Djalandi, Djalandji, Djalendi, Inikurdira, Jarungura, Jinigudera, Jinigudira, Jinigura, Jiniguri, Mulgarnu, Other Australian Indigenous Languages, Tal lainga, Tal-lainga, Talaindji, Talainji, Talandi, Talandji, Talandji-Buduna, Talangee, Talanjee, Talanji, Taliandji, Talinje, Tallainga, Tallainji, Taloinga, Thalanji, Thalantji, Thalanyji, Tharkarri, Yinikurtira]
 population: null

@@ -1,6 +1,8 @@
 ---
 iso: tka
 name: Truká
+name_zh: 特鲁卡语
+name_zh_auto: true
 autonym: null
 alt_names: [Brazil, Truka]
 population: null

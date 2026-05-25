@@ -1,6 +1,8 @@
 ---
 iso: kgn
 name: Karingani
+name_zh: 卡林加尼语
+name_zh_auto: true
 autonym: Keringani
 alt_names: [Iran]
 population: 17600

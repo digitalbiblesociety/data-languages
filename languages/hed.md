@@ -1,6 +1,8 @@
 ---
 iso: hed
 name: Herdé
+name_zh: 赫尔德语
+name_zh_auto: true
 autonym: Lame
 alt_names: ["\"Kado\"", "He'dé", "Ka'do Herdé", Zime]
 population: 40000

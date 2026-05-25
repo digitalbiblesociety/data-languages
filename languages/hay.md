@@ -1,6 +1,8 @@
 ---
 iso: hay
 name: Haya
+name_zh: 哈亚语
+name_zh_auto: true
 autonym: Ziba
 alt_names: [Ekihaya, Hayum, Język haya, Kihaya, Língua haya, Ruhaya]
 population: 1940000

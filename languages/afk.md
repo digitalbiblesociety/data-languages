@@ -1,6 +1,8 @@
 ---
 iso: afk
 name: Nanubae
+name_zh: 纳努拜语
+name_zh_auto: true
 autonym: Lower Arafundi
 alt_names: [Alfendio, Arafundi, Aunda, Imboin, Kapagmai, Tapei, Upper Arafundi]
 population: null

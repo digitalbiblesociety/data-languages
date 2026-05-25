@@ -1,6 +1,8 @@
 ---
 iso: smx
 name: Samba
+name_zh: 桑巴语
+name_zh_auto: true
 autonym: Kiholo
 alt_names: [Ntsambaan, Shankadi, Tsaam, Tsamba, Usamba]
 population: 4200

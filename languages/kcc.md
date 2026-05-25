@@ -1,6 +1,8 @@
 ---
 iso: kcc
 name: Lubila
+name_zh: 卢比拉语
+name_zh_auto: true
 autonym: Kabila
 alt_names: [Kabire, Lubilo, Ofor, Ojor]
 population: 11400

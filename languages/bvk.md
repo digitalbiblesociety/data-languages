@@ -1,6 +1,8 @@
 ---
 iso: bvk
 name: Bukat
+name_zh: 布卡特语
+name_zh_auto: true
 autonym: null
 population: 400
 country_id: ID

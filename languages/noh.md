@@ -1,6 +1,8 @@
 ---
 iso: noh
 name: Nomu
+name_zh: 诺穆语
+name_zh_auto: true
 autonym: null
 population: 400
 country_id: PG

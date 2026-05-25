@@ -1,6 +1,8 @@
 ---
 iso: aha
 name: Ahanta
+name_zh: 阿汉塔语
+name_zh_auto: true
 autonym: Ayɩnda
 population: 175000
 country_id: GH

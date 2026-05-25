@@ -1,6 +1,8 @@
 ---
 iso: jup
 name: Hupdë
+name_zh: 胡普德语
+name_zh_auto: true
 autonym: Hupdë
 alt_names: [Hubde, Hup, Hup language, Hupd, Hupda, Hupda (Brésil), Hupda (Colombie), Hupde, Hupdá Makú, Hupdé macú (Colombia), Jupda, Jupdá Macú, Macú, Macú de Tucano, Makú, Makú-Hupdá, Ubde-Nehern, Ubdé]
 population: 1210

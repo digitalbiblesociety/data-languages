@@ -1,6 +1,8 @@
 ---
 iso: nyp
 name: "Nyang'i"
+name_zh: 尼昂伊语
+name_zh_auto: true
 autonym: Nyangia
 alt_names: [Gyangiya, Ik, Ngangea, Ngapore, Ngiangeya, Niporen, Nipori, Nuangeya, Nyangeya, Nyangi, Nyangiya, Nyuangia, Poren, Upale, Ñangui]
 population: null

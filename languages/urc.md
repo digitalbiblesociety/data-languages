@@ -1,6 +1,8 @@
 ---
 iso: urc
 name: Urningangg
+name_zh: 乌尔宁甘格语
+name_zh_auto: true
 autonym: Mangerr
 alt_names: [Mirarr, Uninganangk, Uningangg, Uningangk, Urningangga, Urningangk, Wata, Wuningag, Wuningak, Wuningangk]
 population: null

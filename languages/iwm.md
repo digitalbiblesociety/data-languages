@@ -1,6 +1,8 @@
 ---
 iso: iwm
 name: Iwam
+name_zh: 伊瓦姆语
+name_zh_auto: true
 autonym: May River
 alt_names: [Język iwam, May River Iwam]
 population: 3000

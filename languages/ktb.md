@@ -1,6 +1,8 @@
 ---
 iso: ktb
 name: Kambaata
+name_zh: 坎巴塔语
+name_zh_auto: true
 autonym: Donga
 alt_names: [Kambaata hizkuntza, Kambara, Kambata, Kambatta, Kemata, Kembata]
 population: 743000

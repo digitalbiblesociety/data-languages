@@ -1,6 +1,8 @@
 ---
 iso: kai
 name: Karekare
+name_zh: 卡雷卡雷语
+name_zh_auto: true
 autonym: Karai Karai
 alt_names: [Karaikarai, Kerekere, Kerrikerri]
 population: 366000

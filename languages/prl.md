@@ -1,6 +1,8 @@
 ---
 iso: prl
 name: Peruvian Sign Language
+name_zh: 秘鲁手语
+name_zh_auto: true
 autonym: null
 alt_names: [LSP, Lengua de Signos Peruana, Lenguaje de Señas Peruanas, Lenguaje de Señas Peruano]
 population: 98000

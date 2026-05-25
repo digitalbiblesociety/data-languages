@@ -1,6 +1,8 @@
 ---
 iso: mxz
 name: Central Masela
+name_zh: 中马塞拉语
+name_zh_auto: true
 autonym: Marsela
 alt_names: [Central Marsela, Marsela-South Babar, "Masela, Central"]
 population: 511

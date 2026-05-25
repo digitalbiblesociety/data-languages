@@ -1,6 +1,8 @@
 ---
 iso: oyd
 name: Oyda
+name_zh: 奥伊达语
+name_zh_auto: true
 autonym: null
 alt_names: [Oida, Oyda jezik]
 population: 14075

@@ -1,6 +1,8 @@
 ---
 iso: zca
 name: Coatecas Altas Zapotec
+name_zh: 科阿特卡斯-阿尔塔斯-萨波特克语
+name_zh_auto: true
 autonym: (San Juan Coatecas Altas)
 alt_names: [Amatec Zapotec, Amatlán Zapotec, Central Sapoteko, Zapotec, "Zapotec, Coatecas Altas", Zapoteco de San Felipe Tejalápam, Zapoteco de San Juan Coatecas Altas, Zapotèque de San Felipe Tejalapan]
 population: 4880

@@ -1,6 +1,8 @@
 ---
 iso: tjn
 name: Tonjon
+name_zh: 通琼语
+name_zh_auto: true
 autonym: null
 population: null
 country_id: CI

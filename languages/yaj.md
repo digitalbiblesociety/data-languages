@@ -1,6 +1,8 @@
 ---
 iso: yaj
 name: "Banda-Yangere"
+name_zh: 班达-扬盖雷语
+name_zh_auto: true
 autonym: Yangere
 alt_names: [Banda, Yanguere]
 population: 26500

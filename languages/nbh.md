@@ -1,6 +1,8 @@
 ---
 iso: nbh
 name: Ngamo
+name_zh: 恩加莫语
+name_zh_auto: true
 autonym: Gamawa
 alt_names: [Gamo, Ngamawa]
 population: 60000

@@ -1,6 +1,8 @@
 ---
 iso: kzy
 name: Kango (Tshopo District)
+name_zh: 坎戈语(楚波区)
+name_zh_auto: true
 autonym: Forest Bira
 alt_names: ["\"Dibatchua\"", "\"Kibatchua\"", Dikango, Kango, Kango Pygmy, Kikango, Likango]
 population: 2000

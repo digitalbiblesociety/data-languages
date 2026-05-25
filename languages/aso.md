@@ -1,6 +1,8 @@
 ---
 iso: aso
 name: Dano
+name_zh: 达诺语
+name_zh_auto: true
 autonym: Upper Asaro
 alt_names: [Asaro]
 population: 30000

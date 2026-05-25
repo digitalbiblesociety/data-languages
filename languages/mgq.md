@@ -1,6 +1,8 @@
 ---
 iso: mgq
 name: Malila
+name_zh: 玛利拉语
+name_zh_auto: true
 autonym: Ishimalilia
 alt_names: [Kimalila, Malilia, Shimalilia]
 population: 78000

@@ -1,6 +1,8 @@
 ---
 iso: bek
 name: Bebeli
+name_zh: 贝贝利语
+name_zh_auto: true
 autonym: Banaule
 alt_names: [Beli, Benaule, Kapore]
 population: 1050

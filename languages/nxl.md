@@ -1,6 +1,8 @@
 ---
 iso: nxl
 name: South Nuaulu
+name_zh: 南努阿乌鲁语
+name_zh_auto: true
 autonym: Fatakai
 alt_names: [Nuaulu, "Nuaulu, South", Patakai]
 population: 1500

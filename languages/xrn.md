@@ -1,6 +1,8 @@
 ---
 iso: xrn
 name: Arin
+name_zh: 阿林语
+name_zh_auto: true
 autonym: "Ar, Ara"
 alt_names: [Arine, Arineg, Arinin kieli, Arinsk, Arintzi, Аринский язык]
 population: null

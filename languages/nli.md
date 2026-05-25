@@ -1,6 +1,8 @@
 ---
 iso: nli
 name: Grangali
+name_zh: 格朗加利语
+name_zh_auto: true
 autonym: Grangali
 alt_names: [Dardu, Gelangali, Glangali, Jumiaki, Nangalami, Nangalāmi, Nigalāmi, Ningalami, Ningalamí]
 population: 5000

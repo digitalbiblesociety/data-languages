@@ -1,6 +1,8 @@
 ---
 iso: cek
 name: Eastern Khumi Chin
+name_zh: 东库米钦语
+name_zh_auto: true
 autonym: Khumi Chin
 alt_names: ["Chin, Eastern Khumi"]
 population: 12000

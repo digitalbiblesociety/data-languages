@@ -1,6 +1,8 @@
 ---
 iso: tcl
 name: Taman (Myanmar)
+name_zh: 缅甸塔曼语
+name_zh_auto: true
 autonym: null
 alt_names: [Taman]
 population: 2015

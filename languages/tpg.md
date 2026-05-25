@@ -1,6 +1,8 @@
 ---
 iso: tpg
 name: Kula
+name_zh: 库拉语
+name_zh_auto: true
 autonym: Tanglapui
 alt_names: ["\"Tanglapui\"", Kola, Lamtoka, Lantoka]
 population: 5000

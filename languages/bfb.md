@@ -1,6 +1,8 @@
 ---
 iso: bfb
 name: Pauri Bareli
+name_zh: 保里巴雷利语
+name_zh_auto: true
 autonym: Bareli
 alt_names: ["Bareli, Pauri", Barewali, Barli]
 population: 991000

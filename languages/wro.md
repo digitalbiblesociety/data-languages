@@ -1,6 +1,8 @@
 ---
 iso: wro
 name: Worrorra
+name_zh: 沃罗拉语
+name_zh_auto: true
 autonym: Maialnga
 alt_names: [Ong Komi, "Wo'rora", Worora, Wororra, Worrara, Worrora, Wurara, Wurora, Wurura, Yangibaia]
 population: 7

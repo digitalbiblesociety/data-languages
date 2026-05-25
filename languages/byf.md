@@ -1,6 +1,8 @@
 ---
 iso: byf
 name: Bete
+name_zh: 贝特语
+name_zh_auto: true
 autonym: null
 alt_names: [Bete language]
 population: 3000

@@ -1,6 +1,8 @@
 ---
 iso: moj
 name: Monzombo
+name_zh: 蒙宗博语
+name_zh_auto: true
 autonym: Mondjembo
 alt_names: [Monjombo, Mono-Jembo, Munzombo]
 population: 12600

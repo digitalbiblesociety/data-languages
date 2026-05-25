@@ -1,6 +1,8 @@
 ---
 iso: aew
 name: Ambakich
+name_zh: 安巴基其语
+name_zh_auto: true
 autonym: Ambakich
 alt_names: [Aion, Porapora]
 population: 1964

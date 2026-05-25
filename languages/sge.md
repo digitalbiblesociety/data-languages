@@ -1,6 +1,8 @@
 ---
 iso: sge
 name: Segai
+name_zh: 塞盖语
+name_zh_auto: true
 autonym: Punan Kelai
 alt_names: [Indonesia]
 population: 2000

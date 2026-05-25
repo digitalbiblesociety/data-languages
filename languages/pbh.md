@@ -1,6 +1,8 @@
 ---
 iso: pbh
 name: "E'ñapa Woromaipu"
+name_zh: 埃尼亚帕沃罗迈普语
+name_zh_auto: true
 autonym: E’ñapa Woromaipu
 alt_names: [Abira, "E'ñepa", Eye, Eñepa, Panara lingvo, Panare, Panareg, Panari]
 population: 4180

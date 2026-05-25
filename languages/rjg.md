@@ -1,6 +1,8 @@
 ---
 iso: rjg
 name: Rajong
+name_zh: 拉琼语
+name_zh_auto: true
 autonym: Razong
 alt_names: [Pai]
 population: 4240

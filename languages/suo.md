@@ -1,6 +1,8 @@
 ---
 iso: suo
 name: Bouni
+name_zh: 博乌尼语
+name_zh_auto: true
 autonym: Sumo
 country_id: PG
 country_name: Papua New Guinea

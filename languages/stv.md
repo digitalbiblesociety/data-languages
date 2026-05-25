@@ -1,6 +1,8 @@
 ---
 iso: stv
 name: "Silt'e"
+name_zh: 西尔特语
+name_zh_auto: true
 autonym: ስልጥኘ
 alt_names: [East Gurage, Gurage, Selti, "Silt'i", Silte, Silti]
 population: 881000

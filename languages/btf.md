@@ -1,6 +1,8 @@
 ---
 iso: btf
 name: Birgit
+name_zh: 比尔吉特语
+name_zh_auto: true
 autonym: Bergit
 alt_names: [Berguid, Birgid]
 population: 10400

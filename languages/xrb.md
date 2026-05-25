@@ -1,6 +1,8 @@
 ---
 iso: xrb
 name: Eastern Karaboro
+name_zh: 东卡拉博罗语
+name_zh_auto: true
 autonym: Karaboro
 alt_names: [Kar, "Karaboro, Eastern", Ker, Kler]
 population: 40610

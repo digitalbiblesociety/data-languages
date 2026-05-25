@@ -1,6 +1,8 @@
 ---
 iso: jan
 name: Jandai
+name_zh: 詹代语
+name_zh_auto: true
 autonym: Coobenpil
 population: null
 country_id: AU

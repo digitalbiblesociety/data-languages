@@ -1,6 +1,8 @@
 ---
 iso: ana
 name: Andaqui
+name_zh: 安达基语
+name_zh_auto: true
 autonym: Jirara
 alt_names: [Andaki, Andakí, Andaquí]
 population: null

@@ -1,6 +1,8 @@
 ---
 iso: bhy
 name: Bhele
+name_zh: 贝勒语
+name_zh_auto: true
 autonym: Piri
 alt_names: [Bili, Ebhele, Ipere, Kipere, Kipili, Pere, Peri, Pili]
 population: 15000

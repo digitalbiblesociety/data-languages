@@ -1,6 +1,8 @@
 ---
 iso: fln
 name: Flinders Island
+name_zh: 弗林德斯岛语
+name_zh_auto: true
 autonym: Yalgawarra
 alt_names: [Ambydher, Flinders Island (retired), Gambilmugu, Itu, Kokomiabilo, Mairughan, Manpirlmung wa, Mbambylmu, Mbyrlmurl, Miabilo, Mutumui, Oko Wurriima, Pipon Island, Walmbar, Walmbaria, Wurima, Yalnga bar]
 population: null

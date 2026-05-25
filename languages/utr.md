@@ -1,6 +1,8 @@
 ---
 iso: utr
 name: Etulo
+name_zh: 埃图罗语
+name_zh_auto: true
 autonym: Eturo
 alt_names: [Turumawa, Utur]
 population: 10000

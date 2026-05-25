@@ -1,6 +1,8 @@
 ---
 iso: noz
 name: Nayi
+name_zh: 纳伊语
+name_zh_auto: true
 autonym: Nao
 alt_names: [Lenga Nayi, "Na'o", Naya, Nayi jezik, Nayí]
 population: 1137

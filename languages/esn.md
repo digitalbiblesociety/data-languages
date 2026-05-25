@@ -1,6 +1,8 @@
 ---
 iso: esn
 name: Salvadoran Sign Language
+name_zh: 萨尔瓦多手语
+name_zh_auto: true
 autonym: El Salvadoran Sign Language
 alt_names: [LESSA, Lengua de Señas Salvadoreñas]
 population: 26000

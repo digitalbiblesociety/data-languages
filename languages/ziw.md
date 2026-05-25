@@ -1,6 +1,8 @@
 ---
 iso: ziw
 name: Zigula
+name_zh: 齐古拉语
+name_zh_auto: true
 autonym: Mushunguli
 alt_names: [Zigulaic]
 population: 442000

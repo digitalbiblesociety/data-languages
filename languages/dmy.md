@@ -1,6 +1,8 @@
 ---
 iso: dmy
 name: Demta
+name_zh: 德姆塔语
+name_zh_auto: true
 autonym: Sowari
 alt_names: [Muris]
 population: 1300

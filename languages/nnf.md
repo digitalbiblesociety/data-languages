@@ -1,6 +1,8 @@
 ---
 iso: nnf
 name: Ngaing
+name_zh: 恩盖英语
+name_zh_auto: true
 autonym: Mailang
 alt_names: [Sor]
 population: null

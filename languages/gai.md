@@ -1,6 +1,8 @@
 ---
 iso: gai
 name: Borei
+name_zh: 博雷语
+name_zh_auto: true
 autonym: Gamei
 alt_names: [Gamai, Gamay, Mbore, Mborei]
 population: 2090

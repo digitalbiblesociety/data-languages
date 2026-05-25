@@ -1,6 +1,8 @@
 ---
 iso: atg
 name: "Ivbie North-Okpela-Arhe"
+name_zh: 伊夫比北-奥克佩拉-阿尔赫语
+name_zh_auto: true
 autonym: Ivbie North – Okpela – Arhe
 population: 20000
 country_id: NG

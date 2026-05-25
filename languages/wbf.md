@@ -1,6 +1,8 @@
 ---
 iso: wbf
 name: Wara
+name_zh: 瓦拉语
+name_zh_auto: true
 autonym: Wara
 alt_names: [Ouala, Ouara, Samoe, Wára]
 population: 4500

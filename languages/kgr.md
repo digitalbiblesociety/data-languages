@@ -1,6 +1,8 @@
 ---
 iso: kgr
 name: Abun
+name_zh: 阿本语
+name_zh_auto: true
 autonym: A Nden
 alt_names: [Karon, Karon Pantai, Madik, Manif, Yimbun]
 population: 3000

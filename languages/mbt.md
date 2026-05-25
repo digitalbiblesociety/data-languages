@@ -1,6 +1,8 @@
 ---
 iso: mbt
 name: Matigsalug Manobo
+name_zh: 马蒂格萨卢格曼诺博语
+name_zh_auto: true
 autonym: "Matig-Salug Manobo"
 alt_names: [Kulamanen, "Manobo, Matigsalug"]
 population: 50000

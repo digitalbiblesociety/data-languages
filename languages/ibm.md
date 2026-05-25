@@ -1,6 +1,8 @@
 ---
 iso: ibm
 name: Agoi
+name_zh: 阿戈伊语
+name_zh_auto: true
 autonym: Ibami
 alt_names: [Ro Bambami, Wa Bambani, Wagoi]
 population: 12000

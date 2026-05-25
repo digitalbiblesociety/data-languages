@@ -1,6 +1,8 @@
 ---
 iso: swq
 name: Sharwa
+name_zh: 沙尔瓦语
+name_zh_auto: true
 autonym: Sarwaye
 alt_names: [Sherwin, Tchevi]
 population: 5100

@@ -1,6 +1,8 @@
 ---
 iso: fli
 name: Fali
+name_zh: 法利语
+name_zh_auto: true
 autonym: Fali of Mubi
 alt_names: [Fali jezik, Fali of Muchella, Falieg, Group 11, Vimtim, Yimtim]
 population: 25000

@@ -1,6 +1,8 @@
 ---
 iso: eli
 name: Nding
+name_zh: 恩丁语
+name_zh_auto: true
 autonym: Eliri
 population: 400
 country_id: SD

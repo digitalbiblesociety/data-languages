@@ -1,6 +1,8 @@
 ---
 iso: mdy
 name: Male (Ethiopia)
+name_zh: 马勒语
+name_zh_auto: true
 autonym: Male
 alt_names: [Maale, Maalé, Male (Omotic), Malé]
 population: 94700

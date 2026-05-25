@@ -1,6 +1,8 @@
 ---
 iso: xla
 name: Kamula
+name_zh: 卡穆拉语
+name_zh_auto: true
 autonym: Wawoi
 population: 1100
 country_id: PG

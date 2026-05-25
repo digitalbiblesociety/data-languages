@@ -1,6 +1,8 @@
 ---
 iso: ssg
 name: Seimat
+name_zh: 塞马特语
+name_zh_auto: true
 autonym: null
 alt_names: [Admiralitäts-inseln, Ninigo]
 population: 1400

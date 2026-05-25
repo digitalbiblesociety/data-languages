@@ -1,6 +1,8 @@
 ---
 iso: kof
 name: Kubi
+name_zh: 库比语
+name_zh_auto: true
 autonym: Kuba
 alt_names: [Be, Denawa, Deno, Denwa, Kubawa]
 population: null

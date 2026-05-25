@@ -1,6 +1,8 @@
 ---
 iso: grv
 name: Central Grebo
+name_zh: 中格雷博语
+name_zh_auto: true
 autonym: Kréébo
 alt_names: [Grebo, "Grebo, Central"]
 population: 56100

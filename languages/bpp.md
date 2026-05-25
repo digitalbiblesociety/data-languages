@@ -1,6 +1,8 @@
 ---
 iso: bpp
 name: Kaure
+name_zh: 考雷语
+name_zh_auto: true
 autonym: Kaureh
 alt_names: [Kaure Proper, Kaurne]
 population: 450

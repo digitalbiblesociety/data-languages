@@ -1,6 +1,8 @@
 ---
 iso: piz
 name: Pije
+name_zh: 皮杰语
+name_zh_auto: true
 autonym: Pindje
 alt_names: [Neukaledonien, Pinje]
 population: 160

@@ -1,6 +1,8 @@
 ---
 iso: ned
 name: "Nde-Gbite"
+name_zh: 恩德-格比特语
+name_zh_auto: true
 autonym: Biti
 population: null
 country_id: NG

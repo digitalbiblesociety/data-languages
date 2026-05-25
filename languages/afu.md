@@ -1,6 +1,8 @@
 ---
 iso: afu
 name: Awutu
+name_zh: 阿武图语
+name_zh_auto: true
 autonym: Efutu
 alt_names: [Guang]
 population: 129000

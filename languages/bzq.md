@@ -1,6 +1,8 @@
 ---
 iso: bzq
 name: Buli (Indonesia)
+name_zh: 布利语
+name_zh_auto: true
 autonym: null
 alt_names: [Buli, Buli (Indonesian), Buli (in Indonesia)]
 population: 2520

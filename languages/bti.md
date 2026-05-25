@@ -1,6 +1,8 @@
 ---
 iso: bti
 name: Burate
+name_zh: 布拉特语
+name_zh_auto: true
 autonym: bahasa Burate
 population: 100
 country_id: ID

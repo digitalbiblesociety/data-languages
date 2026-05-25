@@ -1,6 +1,8 @@
 ---
 iso: kpx
 name: Mountain Koiali
+name_zh: 山地科亚利语
+name_zh_auto: true
 autonym: null
 alt_names: [Koiali (Mountain), "Koiali, Mountain", Koiari (Mountain), Mountain Koiari]
 population: 4000

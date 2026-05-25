@@ -1,6 +1,8 @@
 ---
 iso: dgn
 name: Dagoman
+name_zh: 达戈曼语
+name_zh_auto: true
 autonym: Yangmanic
 alt_names: [Airiman, Dogeman, Tagoman, Togeman, Togiman, Wagiman, Wagoman, Wogba]
 population: null

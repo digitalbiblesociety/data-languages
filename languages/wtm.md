@@ -1,6 +1,8 @@
 ---
 iso: wtm
 name: Mewati
+name_zh: 梅瓦蒂语
+name_zh_auto: true
 autonym: मेवाती
 alt_names: [Język mewati, Lenga mewati, Lingua Mevati, Mewathi]
 population: 857000

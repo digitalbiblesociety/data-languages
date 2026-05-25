@@ -1,6 +1,8 @@
 ---
 iso: lee
 name: Lyélé
+name_zh: 莱莱语
+name_zh_auto: true
 autonym: Lele
 alt_names: [Lyele]
 population: 213000

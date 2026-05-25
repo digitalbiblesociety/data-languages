@@ -1,6 +1,8 @@
 ---
 iso: dsh
 name: Daasanach
+name_zh: 达桑纳克语
+name_zh_auto: true
 autonym: Daasanech
 alt_names: ["\"Shangilla\"", Daasanach hizkuntza, Daasenech, Dama, Dasenech, Dassanakh, Dathanaic, Dathanaik, Dathanik, Dhaasanac, Gallab, Galuba, Gelab, Geleb, Geleba, Gelebinya, Gelubba, Gheleba, Marille, Merile, Merille, Morille, Reshiat, Russia, Sorbian]
 population: 66400

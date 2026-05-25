@@ -1,6 +1,8 @@
 ---
 iso: dep
 name: Pidgin Delaware
+name_zh: 皮钦特拉华语
+name_zh_auto: true
 autonym: null
 alt_names: [Delaware, "Delaware, Pidgin"]
 population: null

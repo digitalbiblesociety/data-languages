@@ -1,6 +1,8 @@
 ---
 iso: xdy
 name: Malayic Dayak
+name_zh: 马来亚克达亚克语
+name_zh_auto: true
 autonym: Delang–Kayung–Banana’
 alt_names: [Dayak, "Dayak, Malayic"]
 population: 520000

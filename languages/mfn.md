@@ -1,6 +1,8 @@
 ---
 iso: mfn
 name: Cross River Mbembe
+name_zh: 克罗斯河姆贝姆贝语
+name_zh_auto: true
 autonym: Ekokoma
 alt_names: [Ifunubwa, "Mbembe, Cross River", Oderiga, Ofunobwam, Okam, Wakande]
 population: 225000

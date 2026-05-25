@@ -1,6 +1,8 @@
 ---
 iso: mkl
 name: Mokole
+name_zh: 莫科莱语
+name_zh_auto: true
 autonym: Èdè Mɔ̄kɔ́lé
 alt_names: [Féri, Mokollé, Mokwale, Monkole]
 population: 35900

@@ -1,6 +1,8 @@
 ---
 iso: gex
 name: Garre
+name_zh: 加雷语
+name_zh_auto: true
 autonym: "Af-Garre"
 alt_names: [Garre hizkuntza, Lenga Garre]
 population: 685600

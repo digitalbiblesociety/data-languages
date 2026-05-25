@@ -1,6 +1,8 @@
 ---
 iso: kee
 name: Eastern Keres
+name_zh: 东克雷斯语
+name_zh_auto: true
 autonym: Eastern Keres Pueblo
 alt_names: [Eastern, Eastern Keresan, Keres, Keres (Eastern), Keres (Santa Ana Pueblo), "Keres, Eastern", Keresan, Keresan (Eastern), Keresan (Santa Ana), Rio Grande Keresan, Santa Ana, Santa Ana Keresan, Santa Ana Pueblo, d Eastern Keres Pueblo]
 population: 6880

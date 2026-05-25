@@ -1,6 +1,8 @@
 ---
 iso: mhc
 name: Mocho
+name_zh: 莫乔语
+name_zh_auto: true
 autonym: Motozintleco
 alt_names: [Cotoque, "Mocho'", Mochó, Motocintlec, Motocintlèque, Motozintlec, Tuzantec]
 population: 170

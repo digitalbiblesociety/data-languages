@@ -1,6 +1,8 @@
 ---
 iso: ruc
 name: Ruuli
+name_zh: 鲁乌利语
+name_zh_auto: true
 autonym: Luduuli
 alt_names: [Ruli, Ruruli]
 population: 238000

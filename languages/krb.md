@@ -1,6 +1,8 @@
 ---
 iso: krb
 name: Karkin
+name_zh: 卡尔金语
+name_zh_auto: true
 autonym: Carquin
 population: null
 country_id: US

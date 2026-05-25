@@ -1,6 +1,8 @@
 ---
 iso: seb
 name: Shempire Senoufo
+name_zh: 谢姆皮雷塞努福语
+name_zh_auto: true
 autonym: Shenpire
 alt_names: ["Senoufo, Shempire"]
 population: 114800

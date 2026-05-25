@@ -1,6 +1,8 @@
 ---
 iso: ako
 name: Akurio
+name_zh: 阿库里奥语
+name_zh_auto: true
 autonym: Akoerio
 alt_names: [Akuliyo, Akuri, Akurijo, Akuriyo, Oyaricoulet, Tiriyometesem, Triometesem, Triometesen, Wama, Wayaricuri]
 population: 2012

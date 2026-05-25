@@ -1,6 +1,8 @@
 ---
 iso: dov
 name: Dombe
+name_zh: 多姆贝语
+name_zh_auto: true
 autonym: Zambezi
 population: null
 country_id: ZW

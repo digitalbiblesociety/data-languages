@@ -1,6 +1,8 @@
 ---
 iso: gof
 name: Gofa
+name_zh: 戈法语
+name_zh_auto: true
 autonym: Goffa
 population: 359000
 country_id: ET

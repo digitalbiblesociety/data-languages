@@ -1,6 +1,8 @@
 ---
 iso: fmu
 name: Far Western Muria
+name_zh: 远西穆里亚语
+name_zh_auto: true
 autonym: Gondi
 alt_names: [Gonḍi, Gōṇḍī, "Muria, Far Western"]
 population: 400000

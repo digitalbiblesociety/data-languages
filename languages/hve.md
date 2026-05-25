@@ -1,6 +1,8 @@
 ---
 iso: hve
 name: San Dionisio Del Mar Huave
+name_zh: 圣迪奥尼西奥德尔玛尔瓦夫语
+name_zh_auto: true
 autonym: Ombeayiiüts
 alt_names: [Huave, Huave de San Dionisio, Huave de San Dionisio del Mar, Huave de San Francisco del Mar, Huave de San Mateo del Mar, Huave de Santa María del Mar, "Huave, San Dionisio del Mar", San Dionisio, Wave, Wavi]
 population: 4940

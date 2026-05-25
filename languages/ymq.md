@@ -1,6 +1,8 @@
 ---
 iso: ymq
 name: Qila Muji
+name_zh: 基拉-穆吉语
+name_zh_auto: true
 autonym: Bokha
 alt_names: [Doka, Muji, "Muji, Qila", "Muji,Qila", Mujitsu, Phula, Phutsu, Phuzu]
 population: 1500

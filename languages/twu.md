@@ -1,6 +1,8 @@
 ---
 iso: twu
 name: Termanu
+name_zh: 特尔玛努语
+name_zh_auto: true
 autonym: "Pa'da"
 alt_names: [Central Rote, Rote, Rote Tengah, Roti, Rotinese, Rottinese]
 population: 30000

@@ -1,6 +1,8 @@
 ---
 iso: skq
 name: Sininkere
+name_zh: 西尼因克雷语
+name_zh_auto: true
 autonym: Silanke
 alt_names: [Silinkere]
 population: 6000

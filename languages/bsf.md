@@ -1,6 +1,8 @@
 ---
 iso: bsf
 name: Bauchi
+name_zh: 包奇语
+name_zh_auto: true
 autonym: Bauci
 alt_names: [Baushi, Kushi]
 population: 20000

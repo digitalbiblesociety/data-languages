@@ -1,6 +1,8 @@
 ---
 iso: urn
 name: Uruangnirin
+name_zh: 乌鲁昂尼林语
+name_zh_auto: true
 autonym: Faur
 alt_names: [Tubiruasa]
 population: 400

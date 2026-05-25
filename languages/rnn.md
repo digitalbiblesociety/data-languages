@@ -1,6 +1,8 @@
 ---
 iso: rnn
 name: Roon
+name_zh: 罗恩语
+name_zh_auto: true
 autonym: Ron
 population: 1100
 country_id: ID

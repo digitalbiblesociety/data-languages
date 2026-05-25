@@ -1,6 +1,8 @@
 ---
 iso: afo
 name: Eloyi
+name_zh: 埃洛伊语
+name_zh_auto: true
 autonym: Afu
 alt_names: [Afao, Afo, Aho, Epe, Keffi]
 population: 25000

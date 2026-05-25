@@ -1,6 +1,8 @@
 ---
 iso: ked
 name: Kerewe
+name_zh: 凯雷韦语
+name_zh_auto: true
 autonym: Kerewe
 alt_names: [Ekikerebe, Kerebe]
 population: 241000

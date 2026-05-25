@@ -1,6 +1,8 @@
 ---
 iso: bji
 name: Burji
+name_zh: 布尔吉语
+name_zh_auto: true
 autonym: Bambala
 alt_names: [Bembala, Buryí, Daashi]
 population: 83000

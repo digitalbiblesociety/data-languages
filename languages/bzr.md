@@ -1,6 +1,8 @@
 ---
 iso: bzr
 name: Biri
+name_zh: 比里语
+name_zh_auto: true
 autonym: Eastern Maric
 alt_names: [Biragaba, Biria, Biriaba, Birigaba, Birri Gubba, Breeaba, Garingbal, Juipera, Perembba, Perenbba, Widi, Wierdi, Wiri, Wiriwiri, Wirri]
 population: null

@@ -1,6 +1,8 @@
 ---
 iso: lek
 name: Leipon
+name_zh: 莱伊邦语
+name_zh_auto: true
 autonym: Pitilu
 alt_names: [Admiralitäts-inseln, Pityilu]
 population: 650

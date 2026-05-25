@@ -1,6 +1,8 @@
 ---
 iso: cbw
 name: Kinabalian
+name_zh: 基纳巴利亚语
+name_zh_auto: true
 autonym: Cabalianon
 population: 14000
 country_id: PH

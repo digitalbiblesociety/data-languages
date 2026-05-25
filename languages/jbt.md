@@ -1,6 +1,8 @@
 ---
 iso: jbt
 name: Jabutí
+name_zh: 雅布蒂语
+name_zh_auto: true
 autonym: Jabuti
 alt_names: [Djeoromitxi, Djeoromitxi language, Jabotí, Jeoromitxi, Kipiu, Língua jabuti, Quipiu, Yabuti, Yabutí, Ябути]
 population: 40

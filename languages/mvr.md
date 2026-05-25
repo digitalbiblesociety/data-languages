@@ -1,6 +1,8 @@
 ---
 iso: mvr
 name: Marau
+name_zh: 玛劳语
+name_zh_auto: true
 autonym: bahasa Marau
 alt_names: [Indonesia]
 population: 1700

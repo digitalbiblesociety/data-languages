@@ -1,6 +1,8 @@
 ---
 iso: kny
 name: Kanyok
+name_zh: 坎约克语
+name_zh_auto: true
 autonym: Kanioka
 alt_names: [Kanyoka]
 population: 200000

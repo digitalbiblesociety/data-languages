@@ -1,6 +1,8 @@
 ---
 iso: ptn
 name: Patani
+name_zh: 帕塔尼语
+name_zh_auto: true
 autonym: null
 alt_names: [Indonesia]
 population: 10600

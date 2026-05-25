@@ -1,6 +1,8 @@
 ---
 iso: nsn
 name: Nehan
+name_zh: 内汉语
+name_zh_auto: true
 autonym: Nissan
 alt_names: [Nihan]
 population: 6500

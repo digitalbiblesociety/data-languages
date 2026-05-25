@@ -1,6 +1,8 @@
 ---
 iso: wlx
 name: Wali (Ghana)
+name_zh: 瓦利语（加纳）
+name_zh_auto: true
 autonym: Ala
 alt_names: [Ouala, Waali, Wala, Wali]
 population: 70000

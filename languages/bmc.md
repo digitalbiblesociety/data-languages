@@ -1,6 +1,8 @@
 ---
 iso: bmc
 name: Biem
+name_zh: 比埃姆语
+name_zh_auto: true
 autonym: Bam
 population: 2200
 country_id: PG

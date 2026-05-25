@@ -1,6 +1,8 @@
 ---
 iso: okl
 name: Old Kentish Sign Language
+name_zh: 古肯特手语
+name_zh_auto: true
 autonym: OKSL
 alt_names: ["Kentish Sign Language, Old", Old Kent Sign Language]
 population: null

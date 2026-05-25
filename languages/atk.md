@@ -1,6 +1,8 @@
 ---
 iso: atk
 name: Ati
+name_zh: 阿蒂语
+name_zh_auto: true
 autonym: Inati
 alt_names: ["A'i", Ari, Ati (Philippines), Bisaya]
 population: 1500

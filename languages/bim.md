@@ -1,6 +1,8 @@
 ---
 iso: bim
 name: Bimoba
+name_zh: 比莫巴语
+name_zh_auto: true
 autonym: Moar
 alt_names: [Moba, Moor]
 population: 200000

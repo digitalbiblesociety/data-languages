@@ -1,6 +1,8 @@
 ---
 iso: qvj
 name: Loja Highland Quichua
+name_zh: 洛哈高地基楚亚语
+name_zh_auto: true
 autonym: Kichwa Shimi
 alt_names: ["\"quichua (Cotopaxi, Tungurahua et Chimborazo)\"", Calderón, Cañar Highland Quichua, Chimborazo, Cotopaxi Quichua., Ecuador, Ecuador Quechua, Highland Ecuadorian Quichua, Highland Kichua, Imbabura Quichua, Kichua, Loja, Loja Quichua, Napo Quichua, Northern Pastaza Quichua, Quichua, Quichua (Cañar et Azuay), Quichua (Imbabura), Quichua (Loja), Quichua (Napo), Quichua (Pastaza), Quichua (Salasaca), "Quichua, Loja Highland", Salasca, Saraguro, Saraguro Quichua, Tena Quichua]
 population: 30500

@@ -1,6 +1,8 @@
 ---
 iso: lkm
 name: Kalaamaya
+name_zh: 卡拉阿玛亚语
+name_zh_auto: true
 autonym: Karlamay
 population: 10
 country_id: AU

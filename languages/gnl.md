@@ -1,6 +1,8 @@
 ---
 iso: gnl
 name: Gangulu
+name_zh: 冈古卢语
+name_zh_auto: true
 autonym: Eastern Maric
 alt_names: [Cangoolootha, Gangu, Ghangulu, Ghungalu, Ka ngool lo, Ka-ngool-lo, Kaangooloo, Kangalo, Kangool lo, Kangulu, Kanolu, Khang, Khangalu, Kongalu, Konguli, Kongulu]
 population: null

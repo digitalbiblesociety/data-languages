@@ -1,6 +1,8 @@
 ---
 iso: nbo
 name: Nkukoli
+name_zh: 恩库科利语
+name_zh_auto: true
 autonym: Ekuri
 alt_names: [Lokoli, Lokukoli, Nkokolle]
 population: 1000

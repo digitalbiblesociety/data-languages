@@ -1,6 +1,8 @@
 ---
 iso: dbo
 name: Dulbu
+name_zh: 杜尔布语
+name_zh_auto: true
 autonym: null
 population: 100
 country_id: NG

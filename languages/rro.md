@@ -1,6 +1,8 @@
 ---
 iso: rro
 name: Waima
+name_zh: 瓦伊玛语
+name_zh_auto: true
 autonym: null
 alt_names: [Roro]
 population: 12000

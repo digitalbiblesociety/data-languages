@@ -1,6 +1,8 @@
 ---
 iso: bfn
 name: Bunak
+name_zh: 布纳克语
+name_zh_auto: true
 autonym: Buna
 alt_names: ["Buna'", Bunake, Bunaq]
 population: 97000

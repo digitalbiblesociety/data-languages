@@ -1,6 +1,8 @@
 ---
 iso: pwo
 name: Pwo Western Karen
+name_zh: 普沃西部卡伦语
+name_zh_auto: true
 autonym: ဖျိၩ့
 alt_names: [Bassein Pwo Karen, Delta Pwo Karen, Karen, Karen (Pwo), "Karen, Pwo Western", "Karen,PwoWestern", Mutheit, Phlon, Phlong Sho, Pho, Pho of Bassein, Pwo, Pwo Eastern, Pwo Karen, Pwo Western, Shu, Western Pwo]
 population: 210000

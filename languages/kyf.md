@@ -1,6 +1,8 @@
 ---
 iso: kyf
 name: Kouya
+name_zh: 库亚语
+name_zh_auto: true
 autonym: null
 alt_names: [Kowya, Kuya, Sokya]
 population: 10100

@@ -1,6 +1,8 @@
 ---
 iso: nsl
 name: Norwegian Sign Language
+name_zh: 挪威手语
+name_zh_auto: true
 autonym: Norsk tegnspråk
 alt_names: [Norskt teckenspråk]
 population: 4000

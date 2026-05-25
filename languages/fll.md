@@ -1,6 +1,8 @@
 ---
 iso: fll
 name: North Fali
+name_zh: 北法利语
+name_zh_auto: true
 autonym: null
 alt_names: [Fali, "Fali, North"]
 population: 16000

@@ -1,6 +1,8 @@
 ---
 iso: nja
 name: Nzanyi
+name_zh: 恩扎尼语
+name_zh_auto: true
 autonym: Jeng
 alt_names: [Jenge, Kobochi, Kobotshi, Mzangyim, Njai, Njanyi, Njegn, Njei, Njeing, Njeng, Njeny, Nzangi, Zani, Zany]
 population: 86000

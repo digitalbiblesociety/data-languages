@@ -1,6 +1,8 @@
 ---
 iso: kbk
 name: Grass Koiari
+name_zh: 草地科亚里语
+name_zh_auto: true
 autonym: Koiari
 alt_names: [Coyarí, Grass, Koiari (Grass), "Koiari, Grass"]
 population: 1700

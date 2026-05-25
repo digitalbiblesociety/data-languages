@@ -1,6 +1,8 @@
 ---
 iso: tdn
 name: Tondano
+name_zh: 通达诺语
+name_zh_auto: true
 autonym: Tolou
 alt_names: [Tolour, Tondanou, Toulour]
 population: 9560

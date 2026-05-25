@@ -1,6 +1,8 @@
 ---
 iso: ndu
 name: Dugun
+name_zh: 杜贡语
+name_zh_auto: true
 autonym: Duru
 alt_names: ["Pa'non", Pani, Panon, Pape, Saa, Sari]
 population: 7000

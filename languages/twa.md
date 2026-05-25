@@ -1,6 +1,8 @@
 ---
 iso: twa
 name: Twana
+name_zh: 特瓦纳语
+name_zh_auto: true
 autonym: Skokomish
 alt_names: [Sqʷuqʷúʔbəšq, Tuana]
 population: null

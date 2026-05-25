@@ -1,6 +1,8 @@
 ---
 iso: bdf
 name: Biage
+name_zh: 比亚格语
+name_zh_auto: true
 autonym: null
 population: null
 country_id: PG

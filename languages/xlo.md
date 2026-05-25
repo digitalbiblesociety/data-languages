@@ -1,6 +1,8 @@
 ---
 iso: xlo
 name: Loup A
+name_zh: 路普A语
+name_zh_auto: true
 autonym: null
 alt_names: [Loup, Nipmuc, "Nipmuck?"]
 population: null

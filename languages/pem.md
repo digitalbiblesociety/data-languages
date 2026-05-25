@@ -1,6 +1,8 @@
 ---
 iso: pem
 name: Phende
+name_zh: 芬德语
+name_zh_auto: true
 autonym: Giphende
 alt_names: [Gipende, Kipende, Pende, Pindi, Pinji]
 population: 420000

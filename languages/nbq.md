@@ -1,6 +1,8 @@
 ---
 iso: nbq
 name: Nggem
+name_zh: 恩格姆语
+name_zh_auto: true
 autonym: bahasa Nggem
 alt_names: [Indonesia]
 population: 4400

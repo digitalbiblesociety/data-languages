@@ -1,6 +1,8 @@
 ---
 iso: tcm
 name: Tanahmerah
+name_zh: 塔纳梅拉语
+name_zh_auto: true
 autonym: Sumeri
 alt_names: [Sumerine, Tanah Merah, Tanahmerah I]
 population: 500

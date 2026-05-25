@@ -1,6 +1,8 @@
 ---
 iso: lsw
 name: Seychelles Sign Language
+name_zh: 塞舌尔手语
+name_zh_auto: true
 autonym: Lalang Siny Seselwa
 alt_names: [Langue des Signes Seychelloise]
 population: 100

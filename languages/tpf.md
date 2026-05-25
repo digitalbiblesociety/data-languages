@@ -1,6 +1,8 @@
 ---
 iso: tpf
 name: Tarpia
+name_zh: 塔尔皮亚语
+name_zh_auto: true
 autonym: Sufrai
 alt_names: [Tarfia]
 population: 630

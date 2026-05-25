@@ -1,6 +1,8 @@
 ---
 iso: pux
 name: Puare
+name_zh: 普阿雷语
+name_zh_auto: true
 autonym: Bkwala
 alt_names: [Puari]
 population: 35

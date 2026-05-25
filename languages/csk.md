@@ -1,6 +1,8 @@
 ---
 iso: csk
 name: "Jola-Kasa"
+name_zh: 约拉-卡萨语
+name_zh_auto: true
 autonym: "Jóola-Kaasa"
 alt_names: [Casa, Diola-Kasa, Jola-kassa, Jóola-Kasa, Kasa]
 population: 45100

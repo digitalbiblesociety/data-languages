@@ -1,6 +1,8 @@
 ---
 iso: shw
 name: Shwai
+name_zh: 沙瓦伊语
+name_zh_auto: true
 autonym: Shirumba
 alt_names: [Chirumba, Cwaya, Ludumor, Shuway]
 population: 3500

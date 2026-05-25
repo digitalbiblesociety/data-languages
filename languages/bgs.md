@@ -1,6 +1,8 @@
 ---
 iso: bgs
 name: Tagabawa
+name_zh: 塔加巴瓦语
+name_zh_auto: true
 autonym: null
 alt_names: [Tagabawa Bagobo, Tagabawa Manobo]
 population: 43000

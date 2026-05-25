@@ -1,6 +1,8 @@
 ---
 iso: isd
 name: Isnag
+name_zh: 伊斯纳格语
+name_zh_auto: true
 autonym: Isneg
 alt_names: [Dibagat-Kabugao-Isneg, Maragat]
 population: 32600

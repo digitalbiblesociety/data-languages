@@ -1,6 +1,8 @@
 ---
 iso: grg
 name: Madi
+name_zh: 马迪语
+name_zh_auto: true
 autonym: Gira
 alt_names: [Girara, Gorovu]
 population: 380

@@ -1,6 +1,8 @@
 ---
 iso: tov
 name: Upper Taromi
+name_zh: 上塔罗米语
+name_zh_auto: true
 autonym: Tâti تاتی زبون
 alt_names: [Iran, Taromi, "Taromi, Upper", Upper]
 population: null

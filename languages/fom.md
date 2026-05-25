@@ -1,6 +1,8 @@
 ---
 iso: fom
 name: Foma
+name_zh: 福玛语
+name_zh_auto: true
 autonym: Lokele
 population: 13000
 country_id: CD

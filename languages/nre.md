@@ -1,6 +1,8 @@
 ---
 iso: nre
 name: Southern Rengma Naga
+name_zh: 南伦格玛纳加语
+name_zh_auto: true
 autonym: Southern Rengma
 alt_names: [Central Rengma, Injang, Moiyui, Mon, Mozhumi, "Naga, Southern Rengma", "Naga,SouthernRengma", Nzong, Nzonyu, Rengma, Rengma Naga, Rengma Proper, Terüpvunyu, Unza, Western Rengma]
 population: 21000

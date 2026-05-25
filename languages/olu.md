@@ -1,6 +1,8 @@
 ---
 iso: olu
 name: Kuvale
+name_zh: 库瓦莱语
+name_zh_auto: true
 autonym: null
 population: null
 country_id: AO

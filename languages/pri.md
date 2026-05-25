@@ -1,6 +1,8 @@
 ---
 iso: pri
 name: Paicî
+name_zh: 帕伊西语
+name_zh_auto: true
 autonym: null
 alt_names: [Ci, Neukaledonien, Paaci, Paici, Pati, Ponerihouen]
 population: 5500

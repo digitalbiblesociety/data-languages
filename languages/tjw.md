@@ -1,6 +1,8 @@
 ---
 iso: tjw
 name: Djabwurrung
+name_zh: 贾布武伦语
+name_zh_auto: true
 autonym: Tjapwurrung
 population: 17
 country_id: AU

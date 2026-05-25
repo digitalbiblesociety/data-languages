@@ -1,6 +1,8 @@
 ---
 iso: enq
 name: Enga
+name_zh: 恩加语
+name_zh_auto: true
 autonym: null
 alt_names: [Caga, Tchaga, Tsaga]
 population: 300000

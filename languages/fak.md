@@ -1,6 +1,8 @@
 ---
 iso: fak
 name: Fang (Cameroon)
+name_zh: 方言（喀麦隆）
+name_zh_auto: true
 autonym: null
 alt_names: [Cameroon, Fang]
 population: 2400

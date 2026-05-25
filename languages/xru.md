@@ -1,6 +1,8 @@
 ---
 iso: xru
 name: Marriammu
+name_zh: 玛里亚姆鲁语
+name_zh_auto: true
 autonym: Berringen
 alt_names: [MareAmmu, Marri Ammu]
 population: null

@@ -1,6 +1,8 @@
 ---
 iso: thq
 name: Kochila Tharu
+name_zh: 科奇拉塔鲁语
+name_zh_auto: true
 autonym: Saptariya Tharu
 alt_names: ["Nepal, India", "Tharu, Kochila"]
 population: 258000

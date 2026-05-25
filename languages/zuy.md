@@ -1,6 +1,8 @@
 ---
 iso: zuy
 name: Zumaya
+name_zh: 祖玛亚语
+name_zh_auto: true
 autonym: null
 alt_names: [Llengua zumaia, Zoumayeg, Zumaia hizkuntza, Zumaya jezik]
 population: null

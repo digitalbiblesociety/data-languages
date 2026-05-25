@@ -1,6 +1,8 @@
 ---
 iso: dms
 name: Dampelas
+name_zh: 丹佩拉斯语
+name_zh_auto: true
 autonym: Dampelasa
 alt_names: [Dampal, Dian]
 population: 10300

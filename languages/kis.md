@@ -1,6 +1,8 @@
 ---
 iso: kis
 name: Kis
+name_zh: 基斯语
+name_zh_auto: true
 autonym: null
 population: 220
 country_id: PG

@@ -1,6 +1,8 @@
 ---
 iso: mkb
 name: Mal Paharia
+name_zh: 玛尔帕哈里亚语
+name_zh_auto: true
 autonym: Dehri
 alt_names: [Mad, Mader, Mal, Mal Pahariya, Mal Pahoria, Maler, Malpaharia, Malti, Malto, Maltu, Manlati, Mar, Marpaharia, Maw, Mawdo, Mawer, Mawer Nondi, Paharia, Parsi, ภาษามัล ปาฮาเรีย]
 population: 51000

@@ -1,6 +1,8 @@
 ---
 iso: pch
 name: Pardhan
+name_zh: 帕尔德汉语
+name_zh_auto: true
 autonym: Pradhan
 alt_names: [Gonḍi, Gōṇḍī, Pradhani]
 population: 347000

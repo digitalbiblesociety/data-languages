@@ -1,6 +1,8 @@
 ---
 iso: juu
 name: Ju
+name_zh: 朱语
+name_zh_auto: true
 autonym: null
 alt_names: [Sho]
 population: 900

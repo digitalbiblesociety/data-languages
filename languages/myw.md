@@ -1,6 +1,8 @@
 ---
 iso: myw
 name: Muyuw
+name_zh: 穆尤语
+name_zh_auto: true
 autonym: null
 alt_names: [Murua, Muruwa, Muyu, Muyua, Muyuwa]
 population: 4000

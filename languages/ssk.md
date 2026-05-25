@@ -1,6 +1,8 @@
 ---
 iso: ssk
 name: Sunam
+name_zh: 苏纳姆语
+name_zh_auto: true
 autonym: Central Kinnauri
 alt_names: [Kanāwri, Sangnaur, Sungam, Sungnam, Thebarshad, Thebor, Thebör Skadd]
 population: 560

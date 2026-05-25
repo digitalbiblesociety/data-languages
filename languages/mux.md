@@ -1,6 +1,8 @@
 ---
 iso: mux
 name: "Bo-Ung"
+name_zh: 博翁语
+name_zh_auto: true
 autonym: Tembagla
 alt_names: [Mbo-Ung]
 population: 30000

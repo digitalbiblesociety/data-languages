@@ -1,6 +1,8 @@
 ---
 iso: eko
 name: Koti
+name_zh: 科蒂语
+name_zh_auto: true
 autonym: Ekoti
 alt_names: [Angoche, Angoxe, Bahasa Ekoti, Coti]
 population: 140000

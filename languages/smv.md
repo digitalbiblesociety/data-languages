@@ -1,6 +1,8 @@
 ---
 iso: smv
 name: Samvedi
+name_zh: 萨姆维迪语
+name_zh_auto: true
 autonym: Samavedi
 alt_names: [India]
 population: 60000

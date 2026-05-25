@@ -1,6 +1,8 @@
 ---
 iso: wdt
 name: Wendat
+name_zh: 温达特语
+name_zh_auto: true
 autonym: Waⁿdat
 country_id: CA
 country_name: Canada

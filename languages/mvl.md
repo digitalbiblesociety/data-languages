@@ -1,6 +1,8 @@
 ---
 iso: mvl
 name: Mbara (Australia)
+name_zh: 澳大利亚姆巴拉语
+name_zh_auto: true
 autonym: Midjamba
 alt_names: [Ambara, Balgalu, Bargal, Kumbulmara, Mbara, Mitjamba]
 population: null

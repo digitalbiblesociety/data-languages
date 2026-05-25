@@ -1,6 +1,8 @@
 ---
 iso: teq
 name: Temein
+name_zh: 特梅因语
+name_zh_auto: true
 autonym: Ronge
 alt_names: [Rone, Temainian, Temeino]
 population: 13000

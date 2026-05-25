@@ -1,6 +1,8 @@
 ---
 iso: dun
 name: Dusun Deyah
+name_zh: 杜顺德亚语
+name_zh_auto: true
 autonym: Dusun Deyah
 alt_names: [Deah, Dejah]
 population: 20000

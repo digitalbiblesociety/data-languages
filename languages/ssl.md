@@ -1,6 +1,8 @@
 ---
 iso: ssl
 name: Western Sisaala
+name_zh: 西锡萨拉语
+name_zh_auto: true
 autonym: Sissala
 alt_names: [Busillu Sisala, Hissala, Isala, Issala, Sisaala, Sisaala (Western), "Sisaala, Western", Sisai, Sisala, Сисала]
 population: 30000

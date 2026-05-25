@@ -1,6 +1,8 @@
 ---
 iso: uth
 name: "ut-Hun"
+name_zh: 乌特-洪语
+name_zh_auto: true
 autonym: Duka
 population: 50000
 country_id: NG

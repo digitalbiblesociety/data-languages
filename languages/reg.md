@@ -1,6 +1,8 @@
 ---
 iso: reg
 name: Kara (Tanzania)
+name_zh: 卡拉语(坦桑尼亚)
+name_zh_auto: true
 autonym: Regi
 alt_names: [Kara]
 population: 115000

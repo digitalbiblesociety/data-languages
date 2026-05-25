@@ -1,6 +1,8 @@
 ---
 iso: cbq
 name: Tsucuba
+name_zh: 茨库巴语
+name_zh_auto: true
 autonym: Tsucuba
 alt_names: [Cuba]
 population: 1000

@@ -1,6 +1,8 @@
 ---
 iso: kye
 name: Krache
+name_zh: 克拉切语
+name_zh_auto: true
 autonym: Kaakyi
 alt_names: [Guang, Krachi, Krakye]
 population: 83000

@@ -1,6 +1,8 @@
 ---
 iso: thk
 name: Tharaka
+name_zh: 塔拉卡语
+name_zh_auto: true
 autonym: Kimîîru
 alt_names: [Kitharaka, Saraka, Sharoka]
 population: 220000

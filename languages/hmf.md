@@ -1,6 +1,8 @@
 ---
 iso: hmf
 name: Hmong Don
+name_zh: 东苗语
+name_zh_auto: true
 autonym: lus Hmoob / lug Moob / lol Hmongb
 alt_names: [Ha Giang Province, Hmo, Hmong, Hmung, Hsiung, Hua Binh, Hunan Miao, Miao, Nghia Lo., YenBai]
 population: null

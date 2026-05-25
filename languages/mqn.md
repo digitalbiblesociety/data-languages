@@ -1,6 +1,8 @@
 ---
 iso: mqn
 name: Moronene
+name_zh: 莫罗内内语
+name_zh_auto: true
 autonym: Maronene
 population: 26300
 country_id: ID

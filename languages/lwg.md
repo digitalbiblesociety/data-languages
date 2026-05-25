@@ -1,6 +1,8 @@
 ---
 iso: lwg
 name: Wanga
+name_zh: 旺加语
+name_zh_auto: true
 autonym: Luyia
 alt_names: [Oluwanga]
 population: null

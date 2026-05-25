@@ -1,6 +1,8 @@
 ---
 iso: gdh
 name: Gadjerawang
+name_zh: 加德杰拉旺语
+name_zh_auto: true
 autonym: Gadjerong
 alt_names: [Gadjarawang, Gadyerong, Gadyerrong, Gajirrabeng, Gajirrabeng language, Gajirrawoong, Garjirrabeng, Ginmu, Kadjarong, Kadjerawang, Kadjeroen, Kadjerong, Kajirrawung, Kujera, Lenga gadjerawang]
 population: 10

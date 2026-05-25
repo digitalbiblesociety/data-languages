@@ -1,6 +1,8 @@
 ---
 iso: daq
 name: Dandami Maria
+name_zh: 丹达米玛丽亚语
+name_zh_auto: true
 autonym: Madiya
 alt_names: [Bison Horn Maria, Dandami Madiya, Dhuru, Gondi (Maṛia), Gonḍi, Gōṇḍī, Maria Gond, "Maria, Dandami"]
 population: 200000

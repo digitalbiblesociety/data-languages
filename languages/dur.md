@@ -1,6 +1,8 @@
 ---
 iso: dur
 name: Dii
+name_zh: 迪伊语
+name_zh_auto: true
 autonym: Duru
 alt_names: [Dourou, Durru, Nyag Dii, Yag Dii, Zaa]
 population: 50000

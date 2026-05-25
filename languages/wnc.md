@@ -1,6 +1,8 @@
 ---
 iso: wnc
 name: Wantoat
+name_zh: 万托亚特语
+name_zh_auto: true
 autonym: Taap
 alt_names: [Bam, Yagawak]
 population: 8000

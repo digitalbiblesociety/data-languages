@@ -1,6 +1,8 @@
 ---
 iso: usk
 name: Usaghade
+name_zh: 乌萨加德语
+name_zh_auto: true
 autonym: Isangele
 alt_names: [Usakade, Usakedet]
 population: 10000

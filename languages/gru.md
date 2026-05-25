@@ -1,6 +1,8 @@
 ---
 iso: gru
 name: Kistane
+name_zh: 基斯塔内语
+name_zh_auto: true
 autonym: Kəstane
 alt_names: [Aymallal, Aymellel, Gogot, Gurage, Kestane, Kistane jezik, North Gurage, Soddo, Soddo Gurage, Soddo language, Sodoeg]
 population: 255000

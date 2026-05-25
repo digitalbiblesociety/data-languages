@@ -1,6 +1,8 @@
 ---
 iso: drn
 name: West Damar
+name_zh: 西达马尔语
+name_zh_auto: true
 autonym: North Damar
 alt_names: ["Damar, West"]
 population: 800

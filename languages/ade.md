@@ -1,6 +1,8 @@
 ---
 iso: ade
 name: Adele
+name_zh: 阿德莱语
+name_zh_auto: true
 autonym: Gidire
 alt_names: [Adelen kieli, Adelska, Bedere, Bidire, Gadre, Idioma adele, Lenga Adele, Lingau adele, Língua adele]
 population: 37400

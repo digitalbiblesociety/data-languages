@@ -1,6 +1,8 @@
 ---
 iso: shr
 name: Shi
+name_zh: 希语
+name_zh_auto: true
 autonym: Kishi
 alt_names: [Mashi]
 population: 654000

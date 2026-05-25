@@ -1,6 +1,8 @@
 ---
 iso: soi
 name: Sonha
+name_zh: 松哈语
+name_zh_auto: true
 autonym: (polyphyletic)
 alt_names: [Soi, Sonaha, Sonahaa, Sunah, Sunha]
 population: 14700

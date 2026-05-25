@@ -1,6 +1,8 @@
 ---
 iso: mjb
 name: Makalero
+name_zh: 玛卡勒罗语
+name_zh_auto: true
 autonym: null
 population: 8000
 country_id: TL

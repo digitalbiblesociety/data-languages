@@ -1,6 +1,8 @@
 ---
 iso: snl
 name: Sangil
+name_zh: 桑吉尔语
+name_zh_auto: true
 autonym: Sanggil
 alt_names: [Sangiré]
 population: 15000

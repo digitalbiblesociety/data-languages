@@ -1,6 +1,8 @@
 ---
 iso: rai
 name: Ramoaaina
+name_zh: 拉莫阿依纳语
+name_zh_auto: true
 autonym: Duke of York
 alt_names: [Ramuaina]
 population: 10300

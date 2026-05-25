@@ -1,6 +1,8 @@
 ---
 iso: crz
 name: Cruzeño
+name_zh: 克鲁塞尼奥语
+name_zh_auto: true
 autonym: Isleño
 alt_names: [Chumash, Chumasha Proper, Chumasho, Cruzeno, Island Chumash, Island Chumashan, Santa Rosa, Ysleño]
 population: null

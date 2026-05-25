@@ -1,6 +1,8 @@
 ---
 iso: klb
 name: Kiliwa
+name_zh: 基利瓦语
+name_zh_auto: true
 autonym: Koléew Ñaja
 alt_names: [Kiliwan Subfamily, Kiliwi, Quiligua]
 population: null

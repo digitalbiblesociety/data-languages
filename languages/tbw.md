@@ -1,6 +1,8 @@
 ---
 iso: tbw
 name: Tagbanwa
+name_zh: 塔格邦瓦语
+name_zh_auto: true
 autonym: Aborlan Tagbanwa
 alt_names: [Aborlan-Tagbanwa, Apurawnon, Tagbanua, Tagbanwa (Aborlan)]
 population: 17200

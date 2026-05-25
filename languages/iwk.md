@@ -1,6 +1,8 @@
 ---
 iso: iwk
 name: "I-Wak"
+name_zh: 伊-瓦克语
+name_zh_auto: true
 autonym: "I-wak"
 alt_names: [Iwaak]
 population: 3260

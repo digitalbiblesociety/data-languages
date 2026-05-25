@@ -1,6 +1,8 @@
 ---
 iso: dhs
 name: Dhaiso
+name_zh: 达伊索语
+name_zh_auto: true
 autonym: Kikamba
 alt_names: [Daisa, Daiso, Daisu, Kidhaiso, Kiseguju]
 population: 5000

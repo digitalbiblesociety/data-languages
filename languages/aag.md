@@ -1,6 +1,8 @@
 ---
 iso: aag
 name: Ambrak
+name_zh: 安布拉克语
+name_zh_auto: true
 autonym: null
 population: 290
 country_id: PG

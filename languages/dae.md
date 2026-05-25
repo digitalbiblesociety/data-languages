@@ -1,6 +1,8 @@
 ---
 iso: dae
 name: Duupa
+name_zh: 杜乌帕语
+name_zh_auto: true
 autonym: Duru
 alt_names: [Doupa, Dupa, Nduupa, Saa]
 population: 5000

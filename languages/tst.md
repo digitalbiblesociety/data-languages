@@ -1,6 +1,8 @@
 ---
 iso: tst
 name: Tondi Songway Kiini
+name_zh: 通迪松格韦基伊尼语
+name_zh_auto: true
 autonym: TSK
 alt_names: ["Songway Kiini, Tondi"]
 population: 3000

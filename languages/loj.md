@@ -1,6 +1,8 @@
 ---
 iso: loj
 name: Lou
+name_zh: 洛乌语
+name_zh_auto: true
 autonym: null
 alt_names: [Admiralitäts-inseln, Baluan-Lou-Pam]
 population: 1000

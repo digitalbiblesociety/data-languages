@@ -1,6 +1,8 @@
 ---
 iso: zma
 name: Manda (Australia)
+name_zh: 曼达语(澳大利亚)
+name_zh_auto: true
 autonym: Maranunggu
 alt_names: [Daktjerat, Manda, Manhthe, Manthi Yangal, Mendajangal, Menhthe, Menthajangal, Menthe, Menthe Yangal, Murinwargad, Murrinh Menthe, Murrinh Mentherr, Wagaid, Wagaidj, Wagait, Wagaitj, Wagatsch, Waggait, Waggate, Waggite, Waggote, Waggute, Wagite, Waogatsch, Wargad, Western Daly language., Wodadj, Wogadj, Wogait, Wogaity, Wogatj, Wogaty, Wogite, Worgaid, Worgaidj, Worgait, Worgite]
 population: null

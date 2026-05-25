@@ -1,6 +1,8 @@
 ---
 iso: bed
 name: Bedoanas
+name_zh: 贝多亚纳斯语
+name_zh_auto: true
 autonym: bahasa Bedoanas
 population: 180
 country_id: ID

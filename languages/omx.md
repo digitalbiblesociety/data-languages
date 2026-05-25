@@ -1,6 +1,8 @@
 ---
 iso: omx
 name: Old Mon
+name_zh: 古孟语
+name_zh_auto: true
 autonym: null
 alt_names: ["Mon, Old"]
 population: null

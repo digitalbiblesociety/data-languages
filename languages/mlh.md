@@ -1,6 +1,8 @@
 ---
 iso: mlh
 name: Mape
+name_zh: 玛佩语
+name_zh_auto: true
 autonym: null
 population: 5120
 country_id: PG

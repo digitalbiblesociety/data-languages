@@ -1,6 +1,8 @@
 ---
 iso: gwa
 name: Mbato
+name_zh: 姆巴托语
+name_zh_auto: true
 autonym: Goaa
 alt_names: [Gwa, "M'bato", Mbatto, Mgbato, N-Batto, Ogwia, Potu]
 population: 25000

@@ -1,6 +1,8 @@
 ---
 iso: nga
 name: Ngbaka
+name_zh: 恩巴卡语
+name_zh_auto: true
 autonym: Ngbaka Minagende
 alt_names: ["'Bofi", Ali, Mbaka, Ngbaka Gbaya, Ngbaka Minangende, Ngbaka-Manza, Ngbaka-Minagende, Ngbaka-Minangende]
 population: 1016650

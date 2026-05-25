@@ -1,6 +1,8 @@
 ---
 iso: lga
 name: Lungga
+name_zh: 龙加语
+name_zh_auto: true
 autonym: Luga
 alt_names: [Luqa]
 population: 2770

@@ -1,6 +1,8 @@
 ---
 iso: opy
 name: Ofayé
+name_zh: 奥法耶语
+name_zh_auto: true
 autonym: "Ofaié-Xavante"
 alt_names: [Guachi, Ofaié, Ofaye, Ofayé-Xavante, Opaie, Opaié-Shavante, Opaye, Opaye-Chavante, Opayé]
 population: null

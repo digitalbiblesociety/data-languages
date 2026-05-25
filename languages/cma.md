@@ -1,6 +1,8 @@
 ---
 iso: cma
 name: Maa
+name_zh: 玛语
+name_zh_auto: true
 autonym: Kơho
 alt_names: [Chau-Ma, Chauma, Che Ma, Ma, Ma Krung, Ma Ngan, Ma To, Ma Xop, "Maa'", Maaq]
 population: 41400

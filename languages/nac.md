@@ -1,6 +1,8 @@
 ---
 iso: nac
 name: Narak
+name_zh: 纳拉克语
+name_zh_auto: true
 autonym: Ganja
 population: 6220
 country_id: PG

@@ -1,6 +1,8 @@
 ---
 iso: kse
 name: Kuni
+name_zh: 库尼语
+name_zh_auto: true
 autonym: null
 population: 2400
 country_id: PG

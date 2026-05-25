@@ -1,6 +1,8 @@
 ---
 iso: deg
 name: Degema
+name_zh: 德格玛语
+name_zh_auto: true
 autonym: Dekema
 alt_names: [Udekama]
 population: 10000

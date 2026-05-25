@@ -1,6 +1,8 @@
 ---
 iso: six
 name: Sumau
+name_zh: 苏毛语
+name_zh_auto: true
 autonym: Garia
 alt_names: [Kari, Karigari, Sumau-Garia]
 population: 2580

@@ -1,6 +1,8 @@
 ---
 iso: xkr
 name: Xakriabá
+name_zh: 沙克里亚巴语
+name_zh_auto: true
 autonym: Chakriaba
 alt_names: [Chicriaba, Chikriaba, Sakiriabá, Shacriaba, Shakriabá, Xacriabá, Xakriaba]
 population: null

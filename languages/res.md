@@ -1,6 +1,8 @@
 ---
 iso: res
 name: Reshe
+name_zh: 雷歇语
+name_zh_auto: true
 autonym: Tsureshe
 alt_names: [Bareshe, Gunga, Gunganchi, Gungawa, Tsureja, Yaurawa]
 population: 44000

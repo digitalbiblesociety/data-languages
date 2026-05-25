@@ -1,6 +1,8 @@
 ---
 iso: ldj
 name: Lemoro
+name_zh: 莱莫罗语
+name_zh_auto: true
 autonym: Emoro
 alt_names: [Anemoro, Anowuru, Limoro, Limorro]
 population: 10000

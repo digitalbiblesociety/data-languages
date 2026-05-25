@@ -1,6 +1,8 @@
 ---
 iso: mif
 name: "Mofu-Gudur"
+name_zh: 莫夫-古都尔语
+name_zh_auto: true
 autonym: Mofou
 alt_names: [Mofou de Goudour, Mofu, Mofu (South), Mofu South, Mofu-Sud, Muffo, Muffu]
 population: 90000

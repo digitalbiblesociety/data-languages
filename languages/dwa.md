@@ -1,6 +1,8 @@
 ---
 iso: dwa
 name: Diri
+name_zh: 迪里语
+name_zh_auto: true
 autonym: Diriya
 alt_names: [Dirya, Diryawa]
 population: 7200

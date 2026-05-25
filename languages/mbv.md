@@ -1,6 +1,8 @@
 ---
 iso: mbv
 name: Mbulungish
+name_zh: 姆布隆吉什语
+name_zh_auto: true
 autonym: Baga Foré
 alt_names: [Baga Monson, Black Baga, Bulunits, Longich, Monchon, Monshon]
 population: 5000

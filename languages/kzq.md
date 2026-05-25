@@ -1,6 +1,8 @@
 ---
 iso: kzq
 name: Kaike
+name_zh: 凯克语
+name_zh_auto: true
 autonym: Magar Kaike
 alt_names: [Tarali Kham]
 population: 790

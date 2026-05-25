@@ -1,6 +1,8 @@
 ---
 iso: grw
 name: Gweda
+name_zh: 格韦达语
+name_zh_auto: true
 autonym: Garuwahi
 alt_names: [Garuvahi]
 population: 26

@@ -1,6 +1,8 @@
 ---
 iso: for
 name: Fore
+name_zh: 福雷语
+name_zh_auto: true
 autonym: null
 population: 30190
 country_id: PG

@@ -1,6 +1,8 @@
 ---
 iso: aod
 name: Andarum
+name_zh: 安达鲁姆语
+name_zh_auto: true
 autonym: null
 population: 1080
 country_id: PG

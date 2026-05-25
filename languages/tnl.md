@@ -1,6 +1,8 @@
 ---
 iso: tnl
 name: Lenakel
+name_zh: 勒纳克尔语
+name_zh_auto: true
 autonym: West Tanna
 alt_names: [Tanna, Vanuatu]
 population: 11500

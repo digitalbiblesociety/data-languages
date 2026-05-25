@@ -1,6 +1,8 @@
 ---
 iso: aua
 name: Asumboa
+name_zh: 阿苏姆博亚语
+name_zh_auto: true
 autonym: Asubuo
 alt_names: [Asumbua, Asumbuo, Asumuo]
 population: 10

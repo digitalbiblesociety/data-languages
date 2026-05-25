@@ -1,6 +1,8 @@
 ---
 iso: tda
 name: Tagdal
+name_zh: 塔格达尔语
+name_zh_auto: true
 autonym: "Tagdal-Tabarog"
 alt_names: [Niger]
 population: 60600

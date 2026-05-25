@@ -1,6 +1,8 @@
 ---
 iso: kyb
 name: Butbut Kalinga
+name_zh: 布特布特卡林加语
+name_zh_auto: true
 autonym: Butbut
 alt_names: ["Kalinga, Butbut"]
 population: 8000

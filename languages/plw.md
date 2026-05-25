@@ -1,6 +1,8 @@
 ---
 iso: plw
 name: "Brooke's Point Palawano"
+name_zh: 布鲁克斯波因特帕劳瓦诺语
+name_zh_auto: true
 autonym: null
 alt_names: ["Brooke's Point Palawan", Palawan, "Palawano, Brooke's Point", Palawanun, Palaweño]
 population: 14400

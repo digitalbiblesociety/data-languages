@@ -1,6 +1,8 @@
 ---
 iso: lnb
 name: Mbalanhu
+name_zh: 姆巴兰胡语
+name_zh_auto: true
 autonym: Oshiwambo
 alt_names: [Mbaanhu, Mbalantu, Mbaluntu]
 population: 200

@@ -1,6 +1,8 @@
 ---
 iso: nxr
 name: Ninggerum
+name_zh: 宁格鲁姆语
+name_zh_auto: true
 autonym: Muyu
 alt_names: [Eastern Tedi, Kasiwa, Kativa, Muju, Ningerum, Ninggeroem, Ninggirum, Ninggrum, Niyium, Obgwo, Orgwo, Tedi, Tidi, Upper Tedi]
 population: 5150

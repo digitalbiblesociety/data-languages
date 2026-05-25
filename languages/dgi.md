@@ -1,6 +1,8 @@
 ---
 iso: dgi
 name: Northern Dagara
+name_zh: 北达加拉语
+name_zh_auto: true
 autonym: "Dagara, Wule"
 alt_names: [Dagaare, Dagaari, Dagara, "Dagara, Northern", Dagari, Dagati, Dagatri, Dagatsi, Degati, Dogaari, Northern Dagaare]
 population: 247000

@@ -1,6 +1,8 @@
 ---
 iso: mme
 name: Mae
+name_zh: 玛埃语
+name_zh_auto: true
 autonym: " Dirak"
 alt_names: [Emwae, Mallicolo, Tirax]
 population: 1000

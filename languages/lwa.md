@@ -1,6 +1,8 @@
 ---
 iso: lwa
 name: Lwalu
+name_zh: 卢瓦卢语
+name_zh_auto: true
 autonym: Lwalwa
 alt_names: [Democratic Republic of the Congo]
 population: 21000

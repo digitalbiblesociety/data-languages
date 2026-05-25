@@ -1,6 +1,8 @@
 ---
 iso: knl
 name: Keninjal
+name_zh: 肯因贾尔语
+name_zh_auto: true
 autonym: Dayak Kaninjal
 alt_names: [Dayak, Kaninjal, Kaninjal Dayak]
 population: 32000

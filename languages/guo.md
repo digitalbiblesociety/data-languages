@@ -1,6 +1,8 @@
 ---
 iso: guo
 name: Guayabero
+name_zh: 瓜亚贝罗语
+name_zh_auto: true
 autonym: Jiw
 alt_names: [Cunimía, Hiw, Mítua, Mítus, Wayavero]
 population: 1000

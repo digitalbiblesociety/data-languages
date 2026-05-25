@@ -1,6 +1,8 @@
 ---
 iso: nvo
 name: Nyokon
+name_zh: 尼奥孔语
+name_zh_auto: true
 autonym: "Nyo'o"
 population: 3900
 country_id: CM

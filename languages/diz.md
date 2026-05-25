@@ -1,6 +1,8 @@
 ---
 iso: diz
 name: Ding
+name_zh: 定语
+name_zh_auto: true
 autonym: Di
 alt_names: [Din, Dzing]
 population: 155000

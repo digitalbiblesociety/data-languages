@@ -1,6 +1,8 @@
 ---
 iso: thn
 name: Thachanadan
+name_zh: 塔恰纳丹语
+name_zh_auto: true
 autonym: Moopan
 population: 3000
 country_id: IN

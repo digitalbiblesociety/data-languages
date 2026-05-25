@@ -1,6 +1,8 @@
 ---
 iso: sdj
 name: Suundi
+name_zh: 苏翁迪语
+name_zh_auto: true
 autonym: Kisuundi
 alt_names: [Suundi de Kimongo]
 population: 216000

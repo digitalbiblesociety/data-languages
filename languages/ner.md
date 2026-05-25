@@ -1,6 +1,8 @@
 ---
 iso: ner
 name: Yahadian
+name_zh: 亚哈迪亚语
+name_zh_auto: true
 autonym: Nerigo
 alt_names: [Jahadian, Yabin Yahadian]
 population: 500

@@ -1,6 +1,8 @@
 ---
 iso: kwl
 name: Kofyar
+name_zh: 科菲亚尔语
+name_zh_auto: true
 autonym: Pan
 alt_names: [Nigeria]
 population: 110000

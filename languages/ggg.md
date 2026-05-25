@@ -1,6 +1,8 @@
 ---
 iso: ggg
 name: Gurgula
+name_zh: 古尔古拉语
+name_zh_auto: true
 autonym: Marwari Ghera
 population: 35300
 country_id: PK

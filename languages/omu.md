@@ -1,6 +1,8 @@
 ---
 iso: omu
 name: Omurano
+name_zh: 奥穆拉诺语
+name_zh_auto: true
 autonym: Mayna
 alt_names: [Humurana, Maina, Numurana, Omouraneg, Rimachu, Roamaina, Roamaino, Umurano]
 population: 10

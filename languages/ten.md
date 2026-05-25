@@ -1,6 +1,8 @@
 ---
 iso: ten
 name: Tama (Colombia)
+name_zh: 哥伦比亚塔玛语
+name_zh_auto: true
 autonym: null
 alt_names: [Tama]
 population: null

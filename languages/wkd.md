@@ -1,6 +1,8 @@
 ---
 iso: wkd
 name: Wakde
+name_zh: 瓦克德语
+name_zh_auto: true
 autonym: Mo
 alt_names: [Indonesia]
 population: 550

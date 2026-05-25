@@ -1,6 +1,8 @@
 ---
 iso: naf
 name: Nabak
+name_zh: 纳巴克语
+name_zh_auto: true
 autonym: null
 alt_names: [Naba, Wain]
 population: 16000

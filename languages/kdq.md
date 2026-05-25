@@ -1,6 +1,8 @@
 ---
 iso: kdq
 name: Koch
+name_zh: 科赫语
+name_zh_auto: true
 autonym: Koc
 alt_names: [Kocch, Koce, Kochboli, Konch, কোচ ভাষা]
 population: 42400

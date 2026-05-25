@@ -1,6 +1,8 @@
 ---
 iso: fut
 name: "Futuna-Aniwa"
+name_zh: 富图纳-阿尼瓦语
+name_zh_auto: true
 autonym: Erronan
 alt_names: [Aniwa, Futua, Futuna, W. Futuna-Aniwa, West Futuna-Aniwa, Western Futuna]
 population: 1500

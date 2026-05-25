@@ -1,6 +1,8 @@
 ---
 iso: the
 name: Chitwania Tharu
+name_zh: 奇特瓦尼亚塔鲁语
+name_zh_auto: true
 autonym: (polyphyletic)
 alt_names: [Chitawan Tharu, Chituan Tharu, "Tharu, Chitwania"]
 population: 285000

@@ -1,6 +1,8 @@
 ---
 iso: bxc
 name: Molengue
+name_zh: 莫伦格语
+name_zh_auto: true
 autonym: Molengue
 alt_names: [Balengue, Molendji]
 population: 1000

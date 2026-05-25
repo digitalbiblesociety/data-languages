@@ -1,6 +1,8 @@
 ---
 iso: pca
 name: Santa Inés Ahuatempan Popoloca
+name_zh: 圣内斯阿瓦坦潘波波洛卡语
+name_zh_auto: true
 autonym: Popoloca de Santa Inés Ahuatempan
 alt_names: [Chocho-Popoloka, Ngigua, Popoloca, "Popoloca, Santa Inés Ahuatempan", Santa Ines Ahuatempan Popoloca]
 population: 4000

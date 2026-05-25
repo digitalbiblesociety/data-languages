@@ -1,6 +1,8 @@
 ---
 iso: mpa
 name: Mpoto
+name_zh: 姆波托语
+name_zh_auto: true
 autonym: Chimpoto
 alt_names: [Kinyasa, Nyasa]
 population: 72800

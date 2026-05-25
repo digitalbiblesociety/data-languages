@@ -1,6 +1,8 @@
 ---
 iso: cjn
 name: Chenapian
+name_zh: 切纳皮亚语
+name_zh_auto: true
 autonym: Chenap
 alt_names: [Tsenap, Zenap]
 population: 180

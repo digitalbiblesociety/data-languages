@@ -1,6 +1,8 @@
 ---
 iso: lsv
 name: Sivia Sign Language
+name_zh: 西维亚手语
+name_zh_auto: true
 autonym: null
 population: 62
 country_id: PE

@@ -1,6 +1,8 @@
 ---
 iso: bbw
 name: Baba
+name_zh: 巴巴语
+name_zh_auto: true
 autonym: Papiak
 alt_names: [Bapa, Bapakum, Papia]
 population: 24500

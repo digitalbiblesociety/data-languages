@@ -1,6 +1,8 @@
 ---
 iso: eot
 name: "Beti (Côte d'Ivoire)"
+name_zh: 贝蒂语（科特迪瓦）
+name_zh_auto: true
 autonym: Beti
 alt_names: ["Beti (Cote d'Ivoire)", Eotile, Metyibo, Éotilé]
 population: 200

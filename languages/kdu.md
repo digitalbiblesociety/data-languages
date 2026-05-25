@@ -1,6 +1,8 @@
 ---
 iso: kdu
 name: Kadaru
+name_zh: 卡达鲁语
+name_zh_auto: true
 autonym: Kodhin
 alt_names: [Kadaro, Kadero, Kaderu, Kodhinniai, Kodoro, Koldagi, Nubian (Hill)]
 population: 7000

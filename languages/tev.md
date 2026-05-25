@@ -1,6 +1,8 @@
 ---
 iso: tev
 name: Teor
+name_zh: 特奥尔语
+name_zh_auto: true
 autonym: "Tio'or"
 population: 1100
 country_id: ID

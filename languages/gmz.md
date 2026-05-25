@@ -1,6 +1,8 @@
 ---
 iso: gmz
 name: Mgbolizhia
+name_zh: 姆博利日亚语
+name_zh_auto: true
 autonym: Mgbolizhia
 population: 190000
 country_id: NG

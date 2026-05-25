@@ -1,6 +1,8 @@
 ---
 iso: srv
 name: Southern Sorsoganon
+name_zh: 南索尔索加农语
+name_zh_auto: true
 autonym: Waray Sorsogon
 alt_names: [Bikol Sorsogon, Bisaya, Gubat, "Sorsoganon, Southern", "Sorsogon, Waray", Southern Sorsogon]
 population: 185000

@@ -1,6 +1,8 @@
 ---
 iso: mnu
 name: Mer
+name_zh: 梅尔语
+name_zh_auto: true
 autonym: Miere
 alt_names: [Mer (Indonesia), Muri]
 population: 85

@@ -1,6 +1,8 @@
 ---
 iso: myz
 name: Classical Mandaic
+name_zh: 古代曼底语
+name_zh_auto: true
 autonym: Mandāyì
 alt_names: [Classical Mandaean, Mandaic, "Mandaic, Classical"]
 population: null

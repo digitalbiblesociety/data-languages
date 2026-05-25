@@ -1,6 +1,8 @@
 ---
 iso: mba
 name: Higaonon
+name_zh: 希加翁语
+name_zh_auto: true
 autonym: Misamis Higaonon Manobo
 population: 30000
 country_id: PH

@@ -1,6 +1,8 @@
 ---
 iso: ycn
 name: Yucuna
+name_zh: 尤库纳语
+name_zh_auto: true
 autonym: Jukuna
 alt_names: [Chucuna, Matapi, Matapí, Yukuna]
 population: 770

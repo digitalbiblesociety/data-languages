@@ -1,6 +1,8 @@
 ---
 iso: nbg
 name: Nagarchal
+name_zh: 纳加尔恰尔语
+name_zh_auto: true
 autonym: Nagar
 alt_names: [Gonḍi, Gōṇḍī, Nagarchi]
 population: null

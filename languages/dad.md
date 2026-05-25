@@ -1,6 +1,8 @@
 ---
 iso: dad
 name: Marik
+name_zh: 玛里克语
+name_zh_auto: true
 autonym: Ham
 alt_names: [Dami]
 population: 3500

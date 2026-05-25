@@ -1,6 +1,8 @@
 ---
 iso: mxs
 name: Huitepec Mixtec
+name_zh: 韦特佩克米克斯特克语
+name_zh_auto: true
 autonym: Eastern Mixtec
 alt_names: [Central Misteko, Central Nochistlán Mixtec, Centreal Mixteco, Diuxi-Tilantongo Mixtec, Eastern Alta Mixtec, Mitlatongo Mixtec, "Mixtec, Huitepec", Mixteco bajo de Valles, Mixteco de Diuxi-Tilantongo, Mixteco de Huitepec, Mixteco de Mitlatongo, Mixteco de San Antonio Huitepec, Mixteco de San Juan Tamazola, Mixteco de San Miguel Piedras, Mixteco de San Pedro Tidaá, Mixteco de Santa María Peñoles, Mixteco de Santiago Tlazoyaltepec, Mixteco de Santo Domingo Nuxaá, Mixteco de Tidaá, Mixteco de Yutanduchi, Mixteco de Yutanduchi de Guerrero, Mixteco de Zaachila, Mixteco del Sureste de Nochixtlán, Mixteco del este central, North Central Nochixtlán Mixtec, Peñoles Mixtec, San Miguel Piedras Mixtec, Sindihui Mixtec, Southeastern Nochixtlán Mixtec, Southern Nochixtlan Mixtec, Tamazola Mixtec, Tidaá Mixtec, Tlazoyaltepec Mixtec, Yutanduchi Mixtec]
 population: 2000

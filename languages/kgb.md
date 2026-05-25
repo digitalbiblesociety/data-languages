@@ -1,6 +1,8 @@
 ---
 iso: kgb
 name: Kawe
+name_zh: 卡韦语
+name_zh_auto: true
 autonym: null
 alt_names: [Indonesia]
 population: 600

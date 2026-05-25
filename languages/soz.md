@@ -1,6 +1,8 @@
 ---
 iso: soz
 name: Temi
+name_zh: 特米语
+name_zh_auto: true
 autonym: Temi
 alt_names: [Kisonjo, Sonjo, Sonjo language, Sonyo, Wasonjo, Watemi]
 population: 24600

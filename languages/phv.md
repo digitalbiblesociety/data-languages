@@ -1,6 +1,8 @@
 ---
 iso: phv
 name: Pahlavani
+name_zh: 帕赫拉瓦尼语
+name_zh_auto: true
 autonym: null
 alt_names: [Afghanistan]
 population: 2100

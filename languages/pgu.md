@@ -1,6 +1,8 @@
 ---
 iso: pgu
 name: Pagu
+name_zh: 帕古语
+name_zh_auto: true
 autonym: Pago
 alt_names: [Pagoe]
 population: 3310

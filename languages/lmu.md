@@ -1,6 +1,8 @@
 ---
 iso: lmu
 name: Lamenu
+name_zh: 拉梅努语
+name_zh_auto: true
 autonym: " Varmali"
 alt_names: [Lamen, Lewo]
 population: 850

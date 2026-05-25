@@ -1,6 +1,8 @@
 ---
 iso: ypo
 name: Alo Phola
+name_zh: 阿罗-佛拉语
+name_zh_auto: true
 autonym: Pula
 alt_names: [Bola, "Phola, Alo", "Phola,Alo"]
 population: null

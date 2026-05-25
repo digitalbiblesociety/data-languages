@@ -1,6 +1,8 @@
 ---
 iso: tjj
 name: Tjungundji
+name_zh: 图容德吉语
+name_zh_auto: true
 autonym: null
 population: null
 country_id: AU

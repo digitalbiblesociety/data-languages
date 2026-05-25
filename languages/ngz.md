@@ -1,6 +1,8 @@
 ---
 iso: ngz
 name: Ngungwel
+name_zh: 恩贡格韦尔语
+name_zh_auto: true
 autonym: Eboo
 alt_names: [Engungwel, Ngangoulou, Ngungulu, Northeastern Teke]
 population: 45000

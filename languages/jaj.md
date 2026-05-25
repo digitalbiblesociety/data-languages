@@ -1,6 +1,8 @@
 ---
 iso: jaj
 name: Zazao
+name_zh: 扎扎奥语
+name_zh_auto: true
 autonym: Jajao
 alt_names: [Kilokaka]
 population: 10

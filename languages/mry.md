@@ -1,6 +1,8 @@
 ---
 iso: mry
 name: Mandaya
+name_zh: 曼达亚语
+name_zh_auto: true
 autonym: Caraga
 alt_names: [Carraga Mandaya, Karaga Mandaya, Manay Mandayan, "Mandaya, Karaga", Mangaragan Mandaya]
 population: 3000

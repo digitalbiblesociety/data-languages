@@ -1,6 +1,8 @@
 ---
 iso: lue
 name: Luvale
+name_zh: 卢瓦莱语
+name_zh_auto: true
 autonym: Chiluvale
 alt_names: [Lovale, Lubale, Luena, Lwena, Lwena (Luvale)]
 population: 475000

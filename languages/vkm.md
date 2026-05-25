@@ -1,6 +1,8 @@
 ---
 iso: vkm
 name: Kamakan
+name_zh: 卡马坎语
+name_zh_auto: true
 autonym: Ezeshio
 alt_names: [Camacán, Kamakán, Kamakán language area/complex]
 population: null

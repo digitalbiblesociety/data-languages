@@ -1,6 +1,8 @@
 ---
 iso: luq
 name: Lucumi
+name_zh: 卢库米语
+name_zh_auto: true
 autonym: null
 alt_names: [Cuba]
 population: null

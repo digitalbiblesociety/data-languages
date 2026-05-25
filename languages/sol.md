@@ -1,6 +1,8 @@
 ---
 iso: sol
 name: Solos
+name_zh: 索洛斯语
+name_zh_auto: true
 autonym: Toros
 population: 3200
 country_id: PG

@@ -1,6 +1,8 @@
 ---
 iso: plb
 name: Polonombauk
+name_zh: 波隆玛瑙克语
+name_zh_auto: true
 autonym: Meris
 alt_names: [Narmoris]
 population: 220

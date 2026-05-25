@@ -1,6 +1,8 @@
 ---
 iso: tgv
 name: "Tingui-Boto"
+name_zh: 廷圭-博托语
+name_zh_auto: true
 autonym: Kiriri
 population: null
 country_id: BR

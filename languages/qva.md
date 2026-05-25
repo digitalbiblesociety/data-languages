@@ -1,6 +1,8 @@
 ---
 iso: qva
 name: "Ambo-Pasco Quechua"
+name_zh: 安博帕斯科克丘亚语
+name_zh_auto: true
 autonym: Kichwa
 alt_names: [Alto Marañón, Alto Pativilca, Chiquian-Bolognesi and Cajatambo Quechua, "Quechua, Ambo-Pasco", San Rafael-Huariaca Quechua]
 population: 18300

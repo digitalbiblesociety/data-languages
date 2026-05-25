@@ -1,6 +1,8 @@
 ---
 iso: njl
 name: Njalgulgule
+name_zh: 恩贾尔古古勒语
+name_zh_auto: true
 autonym: Njalgulgule
 alt_names: [Bege, Begi, Beko, Ngulgule, Njangulgule, Nyalgulgule, Nyolge, Nyoolne]
 population: 900

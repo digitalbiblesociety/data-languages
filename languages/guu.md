@@ -1,6 +1,8 @@
 ---
 iso: guu
 name: Yanomamö
+name_zh: 亚诺玛默语
+name_zh_auto: true
 autonym: Yąnomamɨ
 alt_names: [Cobari Kobali, Cobariwa, Guaharibo, Guaica, Guaicá, Guajaribo, Shaathari, Shamatari, Shamateri, Shamatri, Yamomame, Yanomaman language area, Yanomame, Yanomami, Yanomamo, Yanomamï, Yanomamɨ, Yanomani]
 population: 16200

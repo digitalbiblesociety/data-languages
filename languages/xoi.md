@@ -1,6 +1,8 @@
 ---
 iso: xoi
 name: Kominimung
+name_zh: 科米尼蒙语
+name_zh_auto: true
 autonym: null
 population: 320
 country_id: PG

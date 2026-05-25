@@ -1,6 +1,8 @@
 ---
 iso: gqa
 name: "Ga'anda"
+name_zh: 加安达语
+name_zh_auto: true
 autonym: "Ga'andu"
 alt_names: ["Ga'ana", Ganda, Gandaeg, Ga’anda jezik, Makwar, Mokar]
 population: 43000

@@ -1,6 +1,8 @@
 ---
 iso: ysp
 name: Southern Lolopo
+name_zh: 南洛罗波语
+name_zh_auto: true
 autonym: Central Yi
 alt_names: ["Lolopo, Southern"]
 population: 190000

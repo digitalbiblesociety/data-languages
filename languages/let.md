@@ -1,6 +1,8 @@
 ---
 iso: let
 name: "Lesing-Gelimi"
+name_zh: 莱辛-格利米语
+name_zh_auto: true
 autonym: "Lesing-Atui"
 alt_names: [Amio-Gelimi, Atui]
 population: 930

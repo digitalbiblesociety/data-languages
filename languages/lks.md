@@ -1,6 +1,8 @@
 ---
 iso: lks
 name: Kisa
+name_zh: 基萨语
+name_zh_auto: true
 autonym: Luyia
 alt_names: [Lushisa, Olushisa, Shisa]
 population: null

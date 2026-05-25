@@ -1,6 +1,8 @@
 ---
 iso: yww
 name: Yawarawarga
+name_zh: 亚瓦拉瓦尔加语
+name_zh_auto: true
 autonym: null
 alt_names: [Janweraworga, Jarawurga, Jauraworka, Jaurorka, Jawarawarga, Jawarawarka, Jawarawonga, Jawaraworga, Yalaurawarka, Yara wuarka, Yara-wuarka, Yarawuarka, Yarrawaurka, Yarrawoorka, Yarrawurka, Yarroworka, Yauarawaka, Yaurawakka, Yauraworga, Yauroka, Yaurorka, Yauroworka, Yawarawarka, Yawarrawarka, Yawarrawarrka, Yawarraworga, Yerawaka, Yowerawarrika, Yowerawoolka]
 population: null

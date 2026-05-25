@@ -1,6 +1,8 @@
 ---
 iso: jvn
 name: Caribbean Javanese
+name_zh: 加勒比爪哇语
+name_zh_auto: true
 autonym: ꦧꦱꦗꦮباسا جاوا
 alt_names: ["Javanese, Caribbean", Suriname Javanese]
 population: 78370

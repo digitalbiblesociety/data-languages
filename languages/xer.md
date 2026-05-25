@@ -1,6 +1,8 @@
 ---
 iso: xer
 name: Xerénte
+name_zh: 塞伦特语
+name_zh_auto: true
 autonym: Sherenté
 alt_names: [Sherente, Xerente, Xerenti]
 population: 2570

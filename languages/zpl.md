@@ -1,6 +1,8 @@
 ---
 iso: zpl
 name: Lachixío Zapotec
+name_zh: 拉奇西奥萨波特克语
+name_zh_auto: true
 autonym: East Sola de Vega Zapotec
 alt_names: [Coyachilla, Coyachilla dialect continuum, Dialu, Eastern Sapoteko, Eastern Sola de Vega Zapotec, Lachixio Zapotec, Solteco, Western Zapotec (non-preferred), Zapotec, "Zapotec, Lachixío", Zapoteco de Lachixío, Zapoteco de Petapa, Zapoteco de San Bartolo Yautepec, Zapoteco mixtepeco, Zapotèque de Mixtepe, Zapotèque de Petapa, Zapotèque de San Bartolo Yautepec, Zimatlán, Zimatlán Zapotec]
 population: 6500

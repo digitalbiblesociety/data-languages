@@ -1,6 +1,8 @@
 ---
 iso: aky
 name: "Aka-Kol"
+name_zh: 阿卡-科尔语
+name_zh_auto: true
 autonym: "Aka-Kol"
 alt_names: [Great Andamanese, Kol, Lèngua Aka-Kol]
 population: null

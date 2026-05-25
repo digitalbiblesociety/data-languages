@@ -1,6 +1,8 @@
 ---
 iso: wrp
 name: Waropen
+name_zh: 瓦罗本语
+name_zh_auto: true
 autonym: Aropen
 alt_names: [Wonti, Worpen]
 population: 6000

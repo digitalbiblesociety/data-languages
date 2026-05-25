@@ -1,6 +1,8 @@
 ---
 iso: wma
 name: Mawa (Nigeria)
+name_zh: 玛瓦语（尼日利亚）
+name_zh_auto: true
 autonym: null
 alt_names: [Mawa, Nigeria]
 population: null

@@ -1,6 +1,8 @@
 ---
 iso: gng
 name: Ngangam
+name_zh: 恩甘加姆语
+name_zh_auto: true
 autonym: Gulimancema
 alt_names: [Dye, Gamgan, Gangam, Gangum, Gbanyang, Migangam, Mijiem, Nbangam, Ngangan, Ngãngã]
 population: 217400

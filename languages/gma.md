@@ -1,6 +1,8 @@
 ---
 iso: gma
 name: Gambera
+name_zh: 甘贝拉语
+name_zh_auto: true
 autonym: Worrorran
 alt_names: [Barurungari, Gaambera, Gambere, Gamberre, Gambre, Gamgre, Guwan, Kambera, Kamberange, Kambre, Kambumiri, Kambure, Kanbre, Kularri/Gularri south westerners, Northern Language, Purungari]
 population: null

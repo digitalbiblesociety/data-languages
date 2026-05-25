@@ -1,6 +1,8 @@
 ---
 iso: tud
 name: Tuxá
+name_zh: 图夏语
+name_zh_auto: true
 autonym: Todela
 alt_names: [Rodela, Tusha, Tushá, Tuxa]
 population: null

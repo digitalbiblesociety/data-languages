@@ -1,6 +1,8 @@
 ---
 iso: kwf
 name: "Kwara'ae"
+name_zh: 克瓦拉埃语
+name_zh_auto: true
 autonym: Fiu
 alt_names: [Südliche Salomons-Inseln]
 population: 32400

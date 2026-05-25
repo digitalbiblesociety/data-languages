@@ -1,6 +1,8 @@
 ---
 iso: mbx
 name: Mari (East Sepik Province)
+name_zh: 马里语
+name_zh_auto: true
 autonym: null
 alt_names: [Mari]
 population: 80

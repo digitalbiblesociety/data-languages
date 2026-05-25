@@ -1,6 +1,8 @@
 ---
 iso: srz
 name: Shahmirzadi
+name_zh: 沙赫米尔扎迪语
+name_zh_auto: true
 autonym: "Mazandarani مازندرانی  Tabari طبری "
 alt_names: [Iran]
 population: null

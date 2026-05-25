@@ -1,6 +1,8 @@
 ---
 iso: flr
 name: Fuliiru
+name_zh: 富利鲁语
+name_zh_auto: true
 autonym: Fulero
 alt_names: [Fuliiru people, Fuliru, Kifulero, Kifuliiru]
 population: 400000

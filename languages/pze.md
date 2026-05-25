@@ -1,6 +1,8 @@
 ---
 iso: pze
 name: Pesse
+name_zh: 佩塞语
+name_zh_auto: true
 autonym: Barawa
 alt_names: [Groupe Polci, Palchi, Palci, Polchi, Polci, Polshi, Posa, Posanchi, Posi, Posə, Pəlci]
 population: 22000

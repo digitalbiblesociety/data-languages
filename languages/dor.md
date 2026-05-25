@@ -1,6 +1,8 @@
 ---
 iso: dor
 name: "Dori'o"
+name_zh: 多里欧语
+name_zh_auto: true
 autonym: Kwarekwareo
 alt_names: [Südliche Salomons-Inseln]
 population: 2410

@@ -1,6 +1,8 @@
 ---
 iso: sbe
 name: Saliba
+name_zh: 萨利巴语
+name_zh_auto: true
 autonym: null
 alt_names: [Saliba (PNG), Saliba (in Papua New Guinea), Suau]
 population: 2500

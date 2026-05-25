@@ -1,6 +1,8 @@
 ---
 iso: bwq
 name: Southern Bobo Madaré
+name_zh: 南博博马达雷语
+name_zh_auto: true
 autonym: Bobo Fing
 alt_names: [Black Bobo, Bobo, Bobo Fi, "Bobo Madaré, Southern", Bobo-fing, Southern Bobo Madare, Sya]
 population: 181000

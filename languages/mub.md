@@ -1,6 +1,8 @@
 ---
 iso: mub
 name: Mubi
+name_zh: 穆比语
+name_zh_auto: true
 autonym: Moubi
 alt_names: [Minjile]
 population: 35300

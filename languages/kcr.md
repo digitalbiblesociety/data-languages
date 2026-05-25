@@ -1,6 +1,8 @@
 ---
 iso: kcr
 name: Katla
+name_zh: 卡特拉语
+name_zh_auto: true
 autonym: Kaalak
 alt_names: [Akalak, Catla, Kalak]
 population: 14200

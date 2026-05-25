@@ -1,6 +1,8 @@
 ---
 iso: byr
 name: Baruya
+name_zh: 巴鲁亚语
+name_zh_auto: true
 autonym: Baruya
 alt_names: [Barua, Hipma, Yipma]
 population: 6600

@@ -1,6 +1,8 @@
 ---
 iso: nbv
 name: Ngamambo
+name_zh: 恩加马姆博语
+name_zh_auto: true
 autonym: Bafuchu
 alt_names: [Banja, Mbu, Mungyen, Nga, Ngembo]
 population: 8000

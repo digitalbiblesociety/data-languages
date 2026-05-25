@@ -1,6 +1,8 @@
 ---
 iso: fer
 name: Feroge
+name_zh: 费罗热语
+name_zh_auto: true
 autonym: Kaligi
 alt_names: [Feroghe, Ferroge, Kalige, Kalike, Kaliki]
 population: 8000

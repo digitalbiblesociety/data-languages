@@ -1,6 +1,8 @@
 ---
 iso: pbn
 name: Kpasam
+name_zh: 克帕萨姆语
+name_zh_auto: true
 autonym: Nyesam
 alt_names: ["'Balo", Kpasham, Nyisam, Passam]
 population: 3000

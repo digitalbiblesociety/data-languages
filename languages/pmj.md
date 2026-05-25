@@ -1,6 +1,8 @@
 ---
 iso: pmj
 name: Southern Pumi
+name_zh: 南部普米语
+name_zh_auto: true
 autonym: Prinmi
 alt_names: [Northern, "P'rome", "P'umi", "P'ömi", Pimi, Primi, Primmi, Pruumi, Pumi, "Pumi, Southern", "Pumi,Southern", Southern, Southern Prinmi, 南普米語]
 population: 19000

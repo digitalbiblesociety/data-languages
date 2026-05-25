@@ -1,6 +1,8 @@
 ---
 iso: coj
 name: Cochimi
+name_zh: 科奇米语
+name_zh_auto: true
 autonym: Laymón
 alt_names: [Cadegomeno, Cadegomeño, Cadegomo, Cochetimi, Cochima, Cochimtee, Cochimí, Didiu, Laimon, Laimón, Laymon, Laymon-Cochimi, Laymonem, Northern Cochimí, Peninsula Yuman, San Francesco Saverio Mission, San Francisco Xavier de Viggé-Biaundo Mission, San Javier, San Joaquín, San Xavier, Southern Cochimí]
 population: null

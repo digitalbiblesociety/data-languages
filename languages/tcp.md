@@ -1,6 +1,8 @@
 ---
 iso: tcp
 name: Tawr Chin
+name_zh: 陶尔钦语
+name_zh_auto: true
 autonym: Tawr Chin
 alt_names: ["Chin, Tawr", "Chin,Tawr", Tawr, Torr]
 population: 700

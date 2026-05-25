@@ -1,6 +1,8 @@
 ---
 iso: cta
 name: Tataltepec Chatino
+name_zh: 塔塔尔特佩克查蒂诺语
+name_zh_auto: true
 autonym: Lowland Chatino
 alt_names: [Chatino, Chatino (Tataltepec), Chatino de Zacatepec, Chatino de Zacatepeco, Chatino de la zona baja occidental, Chatino des basses-terres occidentales, "Chatino, Tataltepec", Tatalpepec Chatino]
 population: 4000

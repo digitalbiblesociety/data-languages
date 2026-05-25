@@ -1,6 +1,8 @@
 ---
 iso: agl
 name: Fembe
+name_zh: 芬贝语
+name_zh_auto: true
 autonym: Agala
 alt_names: [Sinale]
 population: 350

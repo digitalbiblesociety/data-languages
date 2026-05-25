@@ -1,6 +1,8 @@
 ---
 iso: nhd
 name: Chiripá
+name_zh: 奇里帕语
+name_zh_auto: true
 autonym: Ava
 alt_names: [Apytare, Ava Guaraní, Chiriguano-Ava, Chiripa, Chiripá Guaraní, Guarani-ñandeva, Guaraní language area, Guaraní ñandeva, "Guaraní, Ava", Gvaranių čiripų kalba, Nhandeva, Nhandéva, Tsiripá, Txiripá, Ñandeva]
 population: 16350

@@ -1,6 +1,8 @@
 ---
 iso: aad
 name: Amal
+name_zh: 阿玛尔语
+name_zh_auto: true
 autonym: Alai
 alt_names: [Amal jezik, Amaleg, Amel]
 population: 830

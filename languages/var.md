@@ -1,6 +1,8 @@
 ---
 iso: var
 name: Huarijio
+name_zh: 华里希奥语
+name_zh_auto: true
 autonym: Varihío
 alt_names: [Guarijío, Guarijío del norte, Guarijío du nord, Huarijío, Huaríjo, Maculai, Maculái, Macurawe, Macurái, Varijío, Varohio, Vorijío, Warihío, Warijiyo]
 population: 1207

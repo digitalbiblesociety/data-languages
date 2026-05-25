@@ -1,6 +1,8 @@
 ---
 iso: kvg
 name: "Kuni-Boazi"
+name_zh: 库尼-博阿齐语
+name_zh_auto: true
 autonym: Kuni
 alt_names: [Boadji, Boazi, Bwadji, Kuini]
 population: 4500

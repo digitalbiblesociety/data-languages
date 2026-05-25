@@ -1,6 +1,8 @@
 ---
 iso: rsw
 name: Rishiwa
+name_zh: 瑞希瓦语
+name_zh_auto: true
 population: 1000
 country_id: NG
 country_name: Nigeria

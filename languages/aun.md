@@ -1,6 +1,8 @@
 ---
 iso: aun
 name: Molmo One
+name_zh: 莫尔莫一语
+name_zh_auto: true
 autonym: Aunalei
 alt_names: [Inebu One, Kabore One, Kuamtim, Kwamtim One, Molmo, Northern One, One, "One, Molmo", Onele, Oni, Southern One]
 population: 500

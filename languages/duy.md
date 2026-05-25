@@ -1,6 +1,8 @@
 ---
 iso: duy
 name: Dicamay Agta
+name_zh: 迪卡迈阿格塔语
+name_zh_auto: true
 autonym: Dicamay Dumagat
 alt_names: [Agta de Dicamay, "Agta, Dicamay"]
 population: null

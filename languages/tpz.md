@@ -1,6 +1,8 @@
 ---
 iso: tpz
 name: Tinputz
+name_zh: 廷普图茨语
+name_zh_auto: true
 autonym: Vasuii
 alt_names: [Timputs, Vasui, Wasoi]
 population: 5350

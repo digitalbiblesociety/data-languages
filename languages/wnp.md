@@ -1,6 +1,8 @@
 ---
 iso: wnp
 name: Wanap
+name_zh: 瓦纳普语
+name_zh_auto: true
 autonym: Kayik
 alt_names: [Menandon, Minendon]
 population: 1070

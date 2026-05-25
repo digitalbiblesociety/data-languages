@@ -1,6 +1,8 @@
 ---
 iso: ler
 name: Lenkau
+name_zh: 伦考语
+name_zh_auto: true
 autonym: null
 alt_names: [Admiralitäts-inseln]
 population: 250

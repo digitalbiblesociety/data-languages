@@ -1,6 +1,8 @@
 ---
 iso: twf
 name: Northern Tiwa
+name_zh: 北蒂瓦语
+name_zh_auto: true
 autonym: null
 alt_names: [N. Tiwa, Northern, Picuris, "Picuris, Taos", Taos, Taos language, Tiwa, Tiwa (Northern), "Tiwa, Northern"]
 population: 1080

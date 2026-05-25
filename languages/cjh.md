@@ -1,6 +1,8 @@
 ---
 iso: cjh
 name: Upper Chehalis
+name_zh: 上切哈利斯语
+name_zh_auto: true
 autonym: Q̉ʷay̓áyiłq̉
 alt_names: [Chehalis, Chehalis (Upper), "Chehalis, Upper", Chehalí alto, Haut-chehalis, Kwaiailk, Oakville, Oakville Chehalis, "Q'ʷay'áyiłq'", Satsop, qʼʷayʼáyiɬqʼ]
 population: null

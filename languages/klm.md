@@ -1,6 +1,8 @@
 ---
 iso: klm
 name: Migum
+name_zh: 米古姆语
+name_zh_auto: true
 autonym: Migum
 alt_names: [Kolom]
 population: 470

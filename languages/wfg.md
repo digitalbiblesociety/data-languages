@@ -1,6 +1,8 @@
 ---
 iso: wfg
 name: Yafi
+name_zh: 亚菲语
+name_zh_auto: true
 autonym: Zorop
 alt_names: [Jafi, Jafi Wagarindem, Jafí, Wagarindem, Wargarindem, Warlef, Yaffi]
 population: 230

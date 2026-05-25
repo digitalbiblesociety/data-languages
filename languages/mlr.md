@@ -1,6 +1,8 @@
 ---
 iso: mlr
 name: Vame
+name_zh: 瓦梅语
+name_zh_auto: true
 autonym: Pəlasla
 alt_names: [Hurza, Hurza-Vame, Maslava, Ndreme, Pelasla]
 population: 8500

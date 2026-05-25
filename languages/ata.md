@@ -1,6 +1,8 @@
 ---
 iso: ata
 name: "Pele-Ata"
+name_zh: 佩莱-阿塔语
+name_zh_auto: true
 autonym: "Pele-Ata"
 alt_names: [Ata, Ata language, Neu-Pommern, Peleata, Uase, Uasi, Uasilau, Wasi]
 population: 2000

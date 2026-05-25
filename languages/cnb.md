@@ -1,6 +1,8 @@
 ---
 iso: cnb
 name: Chinbon Chin
+name_zh: 钦邦钦语
+name_zh_auto: true
 autonym: Chindwin Chin
 alt_names: ["Chin, Chinbon", "Chin,Chinbon", Chinbon, Sho, Shö, Ütbü]
 population: 19600

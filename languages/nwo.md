@@ -1,6 +1,8 @@
 ---
 iso: nwo
 name: Nauo
+name_zh: 瑙奥语
+name_zh_auto: true
 autonym: Battara
 population: null
 country_id: AU

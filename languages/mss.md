@@ -1,6 +1,8 @@
 ---
 iso: mss
 name: West Masela
+name_zh: 西马塞拉语
+name_zh_auto: true
 autonym: Marsela
 alt_names: ["Masela, West", West Marsela]
 population: 850

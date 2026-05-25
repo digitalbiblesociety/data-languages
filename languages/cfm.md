@@ -1,6 +1,8 @@
 ---
 iso: cfm
 name: Falam Chin
+name_zh: 法兰钦语
+name_zh_auto: true
 autonym: Lai
 alt_names: [Chin, "Chin, Falam", "Chin,Falam", Falam, Fallam, Halam, Hallam, Hallam Chin, Tipura, Zahao, ဖလမ်းချင်း]
 population: 107900

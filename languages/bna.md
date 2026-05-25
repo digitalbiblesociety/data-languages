@@ -1,6 +1,8 @@
 ---
 iso: bna
 name: Bonerate
+name_zh: 博内拉特语
+name_zh_auto: true
 autonym: null
 population: 9500
 country_id: ID

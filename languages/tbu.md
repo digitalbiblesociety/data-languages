@@ -1,6 +1,8 @@
 ---
 iso: tbu
 name: Tubar
+name_zh: 图巴尔语
+name_zh_auto: true
 autonym: Tubare
 alt_names: [Idioma tubar]
 population: null

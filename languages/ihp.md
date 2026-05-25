@@ -1,6 +1,8 @@
 ---
 iso: ihp
 name: Iha
+name_zh: 伊哈语
+name_zh_auto: true
 autonym: Kapaur
 population: 5500
 country_id: ID

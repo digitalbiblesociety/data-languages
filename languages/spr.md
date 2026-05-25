@@ -1,6 +1,8 @@
 ---
 iso: spr
 name: Saparua
+name_zh: 萨帕鲁阿语
+name_zh_auto: true
 autonym: Iha
 population: 10200
 country_id: ID

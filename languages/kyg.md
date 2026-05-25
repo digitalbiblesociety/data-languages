@@ -1,6 +1,8 @@
 ---
 iso: kyg
 name: Keyagana
+name_zh: 基亚加纳语
+name_zh_auto: true
 autonym: null
 alt_names: ["Ke'yagana", Keiagana, Keigana]
 population: 11540

@@ -1,6 +1,8 @@
 ---
 iso: doq
 name: Dominican Sign Language
+name_zh: 多米尼加加语
+name_zh_auto: true
 autonym: Lenguaje de Señas Bolivianas LSB
 population: 32000
 country_id: DO

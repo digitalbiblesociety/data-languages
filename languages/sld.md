@@ -1,6 +1,8 @@
 ---
 iso: sld
 name: Sissala
+name_zh: 西萨拉语
+name_zh_auto: true
 autonym: Sissala
 alt_names: [Sisaali, Sisala]
 population: 13000

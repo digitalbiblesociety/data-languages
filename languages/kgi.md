@@ -1,6 +1,8 @@
 ---
 iso: kgi
 name: Selangor Sign Language
+name_zh: 雪兰莪手语
+name_zh_auto: true
 autonym: Lenguaje de Señas Bolivianas LSB
 alt_names: [KLSL, Kuala Lumpur Sign Language, Língua de Sinais de Selangor]
 population: 500

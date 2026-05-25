@@ -1,6 +1,8 @@
 ---
 iso: aie
 name: Amara
+name_zh: 阿玛拉语
+name_zh_auto: true
 autonym: Bibling
 alt_names: [Longa]
 population: 1170

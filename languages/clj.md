@@ -1,6 +1,8 @@
 ---
 iso: clj
 name: Laitu Chin
+name_zh: 来图钦语
+name_zh_auto: true
 autonym: Daitu
 alt_names: ["Chin, Laitu"]
 population: 15000

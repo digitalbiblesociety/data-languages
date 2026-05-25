@@ -1,6 +1,8 @@
 ---
 iso: aaz
 name: Amarasi
+name_zh: 阿马拉西语
+name_zh_auto: true
 autonym: Bahasa Amarasi
 alt_names: [Timor Amarasi]
 population: 70000

@@ -1,6 +1,8 @@
 ---
 iso: thl
 name: Dangaura Tharu
+name_zh: 当加乌拉塔鲁语
+name_zh_auto: true
 autonym: (polyphyletic)
 alt_names: [Chaudary, Chaudary Tharu, Chaudhari, Chaudhari Tharu, Chaudhuri, Dang, Dangali, Dangauli, Dangha, Dangora, Dangura, "Tharu, Dangaura"]
 population: 674000

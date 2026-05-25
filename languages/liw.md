@@ -1,6 +1,8 @@
 ---
 iso: liw
 name: Col
+name_zh: 科尔语
+name_zh_auto: true
 autonym: Base Lembak
 alt_names: [Co, Cor, Cul, Dot, Kol, Kor, Lembak, Linggau, Sindang, Yot]
 population: 145000

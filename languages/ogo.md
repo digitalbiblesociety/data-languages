@@ -1,6 +1,8 @@
 ---
 iso: ogo
 name: Khana
+name_zh: 哈纳语
+name_zh_auto: true
 autonym: Ogoni
 alt_names: [Kana]
 population: 413000

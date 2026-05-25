@@ -1,6 +1,8 @@
 ---
 iso: vae
 name: Vale
+name_zh: 瓦莱语
+name_zh_auto: true
 autonym: null
 alt_names: [Central African Republic]
 population: 5400

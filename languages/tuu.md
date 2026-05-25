@@ -1,6 +1,8 @@
 ---
 iso: tuu
 name: Tututni
+name_zh: 图图特尼语
+name_zh_auto: true
 autonym: " Lower Rogue River"
 alt_names: [Mishikhwutmetunee, Tutuni-Chasta Costa-Coquille, Upper Coquille]
 population: 2006

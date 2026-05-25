@@ -1,6 +1,8 @@
 ---
 iso: ndx
 name: Nduga
+name_zh: 恩杜加语
+name_zh_auto: true
 autonym: Dauwa
 alt_names: [Dawa, Ndauwa, Ndugwa, Pesecham, Pesechem, Pesegem, Peseghem]
 population: 10000

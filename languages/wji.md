@@ -1,6 +1,8 @@
 ---
 iso: wji
 name: Warji
+name_zh: 瓦吉语
+name_zh_auto: true
 autonym: Sar
 alt_names: [Aja, Ajanci, Ajawa, Sarawa, Sirzakwai, Warja, Warjawa, Werji]
 population: 77700

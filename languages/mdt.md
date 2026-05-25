@@ -1,6 +1,8 @@
 ---
 iso: mdt
 name: Mbere
+name_zh: 姆贝雷语
+name_zh_auto: true
 autonym: " Limbede"
 alt_names: [Ambede, Mbede, Mbédé, Mbété]
 population: 151500

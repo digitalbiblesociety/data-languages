@@ -1,6 +1,8 @@
 ---
 iso: kpq
 name: "Korupun-Sela"
+name_zh: 科鲁普恩-塞拉语
+name_zh_auto: true
 autonym: Sela
 alt_names: [Kimyal of Korupun, Korapun]
 population: 8000

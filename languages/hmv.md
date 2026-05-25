@@ -1,6 +1,8 @@
 ---
 iso: hmv
 name: Hmong Dô
+name_zh: 东苗语
+name_zh_auto: true
 autonym: lus Hmoob / lug Moob / lol Hmongb
 alt_names: [Hmo, Hmong, Hmong Do, Hmung, Hsiung, Hunan Miao, Miao]
 population: null

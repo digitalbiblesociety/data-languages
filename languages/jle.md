@@ -1,6 +1,8 @@
 ---
 iso: jle
 name: Ngile
+name_zh: 恩吉雷语
+name_zh_auto: true
 autonym: Daloka
 alt_names: [Darra, Masakin, Mesakin, Taloca, Taloka]
 population: 11700

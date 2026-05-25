@@ -1,6 +1,8 @@
 ---
 iso: wdu
 name: Wadjigu
+name_zh: 瓦吉古语
+name_zh_auto: true
 autonym: Southern Maric
 alt_names: [Maudalgo, Wadja, Wadjainggo, Wadju, Wadya, Waindjago, Wainggo, Wainjago, Wainjigo, Watjigu]
 population: null

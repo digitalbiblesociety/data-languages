@@ -1,6 +1,8 @@
 ---
 iso: liu
 name: Logorik
+name_zh: 洛戈里克语
+name_zh_auto: true
 autonym: Logorik
 alt_names: [Liguri, Logori]
 population: 2000

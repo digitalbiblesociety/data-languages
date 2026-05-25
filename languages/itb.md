@@ -1,6 +1,8 @@
 ---
 iso: itb
 name: Binongan Itneg
+name_zh: 比农根伊特内格语
+name_zh_auto: true
 autonym: Tingguian
 alt_names: ["Itneg, Binongan", Tinguian]
 population: 7500

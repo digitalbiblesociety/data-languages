@@ -1,6 +1,8 @@
 ---
 iso: tyi
 name: "Teke-Tsaayi"
+name_zh: 特克-察伊语
+name_zh_auto: true
 autonym: Getsaayi
 alt_names: [Tsaya, Tsaye, Tsayi]
 population: 95900

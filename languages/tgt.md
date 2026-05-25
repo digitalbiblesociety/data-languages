@@ -1,6 +1,8 @@
 ---
 iso: tgt
 name: Central Tagbanwa
+name_zh: 中塔格邦瓦语
+name_zh_auto: true
 autonym: null
 alt_names: ["Tagbanwa, Central", Totonacano de Ozumatlán, "Totonaque d'Ozomatlán"]
 population: 2000

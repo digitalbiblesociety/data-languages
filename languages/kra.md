@@ -1,6 +1,8 @@
 ---
 iso: kra
 name: Kumhali
+name_zh: 库姆哈利语
+name_zh_auto: true
 autonym: Kumali
 alt_names: ["Kum?le", Kumbale, Kumhale, Kumkale]
 population: 6530

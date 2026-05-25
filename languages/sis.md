@@ -1,6 +1,8 @@
 ---
 iso: sis
 name: Siuslaw
+name_zh: 西乌斯劳语
+name_zh_auto: true
 autonym: Lower Umpqua
 alt_names: [Ku-itc (Kuitsh), Siuslawan, Umpqua, Umpqua (Lower)]
 population: null

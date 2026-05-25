@@ -1,6 +1,8 @@
 ---
 iso: wux
 name: Wulna
+name_zh: 乌尔纳语
+name_zh_auto: true
 autonym: Beriguruk
 alt_names: [Berrigurruk, Berugurruk, Birrigarak, Djeramanga, Djerimanga, Erei, Eri, Jermangel, Perrigurruk, Rereri, Reveri for Beriguruk, Waak, Wolna, Woolna, Woolnah, Woolner, Woolner for Djerimanga, Woolnough, Wulnar, Wuna, Wunna]
 population: 1981

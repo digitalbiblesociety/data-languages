@@ -1,6 +1,8 @@
 ---
 iso: ebr
 name: Ebrié
+name_zh: 埃布里埃语
+name_zh_auto: true
 autonym: Cama
 alt_names: [Caman, Ebrie, Kyama, Tchaman, Tsama, Tyama]
 population: 152000

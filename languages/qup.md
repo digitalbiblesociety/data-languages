@@ -1,6 +1,8 @@
 ---
 iso: qup
 name: Southern Pastaza Quechua
+name_zh: 南帕斯塔萨基楚亚语
+name_zh_auto: true
 autonym: Kichwa Shimi
 alt_names: [Inga, Lowland Kichua, Puyo Pongo, "Quechua, Southern Pastaza"]
 population: 1550

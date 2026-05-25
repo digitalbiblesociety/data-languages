@@ -1,6 +1,8 @@
 ---
 iso: msn
 name: Vurës
+name_zh: 武雷斯语
+name_zh_auto: true
 autonym: Vureas
 alt_names: [Banks-Inseln, Mosin, Mosina, Mwesen, Vures]
 population: 1050

@@ -1,6 +1,8 @@
 ---
 iso: iml
 name: Miluk
+name_zh: 米卢克语
+name_zh_auto: true
 autonym: miluk tɬiis
 alt_names: [Lower Coquille, Mulluk]
 population: null

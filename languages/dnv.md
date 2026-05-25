@@ -1,6 +1,8 @@
 ---
 iso: dnv
 name: Danu
+name_zh: 达努语
+name_zh_auto: true
 autonym: Taruw
 population: null
 country_id: MM

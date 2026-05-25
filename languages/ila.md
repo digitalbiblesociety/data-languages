@@ -1,6 +1,8 @@
 ---
 iso: ila
 name: Ile Ape
+name_zh: 伊莱阿佩语
+name_zh_auto: true
 autonym: Nusa Tadon
 population: 15000
 country_id: ID

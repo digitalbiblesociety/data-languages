@@ -1,6 +1,8 @@
 ---
 iso: gce
 name: Galice
+name_zh: 加利塞语
+name_zh_auto: true
 autonym: Upper Rogue River
 alt_names: [Applegate-Galice, Galice-Applegate]
 population: null

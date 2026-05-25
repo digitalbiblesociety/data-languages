@@ -1,6 +1,8 @@
 ---
 iso: bec
 name: "Iceve-Maci"
+name_zh: 冰塞夫-马西语
+name_zh_auto: true
 autonym: Oliti
 alt_names: [Bacheve, Bechere, Becheve, Icheve, Ocebe, Oceve, Ochebe, Ocheve, Utse, Utser, Utseu]
 population: 12000

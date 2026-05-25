@@ -1,6 +1,8 @@
 ---
 iso: djw
 name: Djawi
+name_zh: 詹威语
+name_zh_auto: true
 autonym: " Djaui"
 alt_names: [Chowie, Djaoi, Djau, Dyao, Dyawi, Ewanji, Ewenu, Ewenyoon, Ewenyun, "I:wanja", Jarrau, Jawi, Jawi dialect, Lenga djawi, Tohau-i, Tohawi, Towahi]
 population: null

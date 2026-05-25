@@ -1,6 +1,8 @@
 ---
 iso: mzp
 name: Movima
+name_zh: 莫维马语
+name_zh_auto: true
 autonym: "Chosineɬ di' mowi"
 alt_names: [Idioma movima, Mobima, Movime, Mowima simi, Moyma, Móbima, Móvima]
 population: 1170

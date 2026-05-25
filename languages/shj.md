@@ -1,6 +1,8 @@
 ---
 iso: shj
 name: Shatt
+name_zh: 沙特语
+name_zh_auto: true
 autonym: Canning
 alt_names: [Caning]
 population: 30000

@@ -1,6 +1,8 @@
 ---
 iso: ugh
 name: Kubachi
+name_zh: 库巴奇语
+name_zh_auto: true
 autonym: гӀюгъбугъан куб/гъай
 population: 7000
 country_id: RU

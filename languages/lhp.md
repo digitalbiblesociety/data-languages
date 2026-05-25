@@ -1,6 +1,8 @@
 ---
 iso: lhp
 name: Lhokpu
+name_zh: 卢克普语
+name_zh_auto: true
 autonym: Lhobikha
 alt_names: [Lokpu, Taba-Damey-Bikha]
 population: 2500

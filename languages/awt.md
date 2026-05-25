@@ -1,6 +1,8 @@
 ---
 iso: awt
 name: Araweté
+name_zh: 阿拉韦特语
+name_zh_auto: true
 autonym: Bïde
 alt_names: [Arawete, Asuriní, Asuriní do Coatinema, Asuriní do Xingú, Awaeté]
 population: 290

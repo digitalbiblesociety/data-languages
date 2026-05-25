@@ -1,6 +1,8 @@
 ---
 iso: las
 name: Lama (Togo)
+name_zh: 拉玛语(多哥)
+name_zh_auto: true
 autonym: Lamba
 alt_names: [Lama, Losso]
 population: 258000

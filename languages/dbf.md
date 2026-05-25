@@ -1,6 +1,8 @@
 ---
 iso: dbf
 name: Edopi
+name_zh: 埃多皮语
+name_zh_auto: true
 autonym: Edopi
 alt_names: [Dosobou, Dou, Doufou, Elopi, Foi, Iau, Turu, Urundi, Ururi, Yau]
 population: 1000

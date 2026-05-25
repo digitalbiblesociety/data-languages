@@ -1,6 +1,8 @@
 ---
 iso: bdt
 name: Bokoto
+name_zh: 博科托语
+name_zh_auto: true
 autonym: Bhogoto
 alt_names: ["'Bokoto", Bogodo, Bogoto, Bokodo, Bokpoto, Gbanu, Gbaya, Gbeya, Kara, Southern Gbaya, Suma]
 population: 130000

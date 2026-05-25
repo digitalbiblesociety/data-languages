@@ -1,6 +1,8 @@
 ---
 iso: ktu
 name: Kituba
+name_zh: 基图巴语
+name_zh_auto: true
 autonym: Monokutuba
 alt_names: [Kibulamatadi, Kikongo Commercial, Kikongo Simplifié, Kikongo Ya Leta, Kikongo-Kutuba, Kileta, Kituba (Democratic Republic of Congo)]
 population: 4200000

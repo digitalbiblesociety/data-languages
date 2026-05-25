@@ -1,6 +1,8 @@
 ---
 iso: llp
 name: North Efate
+name_zh: 北埃法特语
+name_zh_auto: true
 autonym: Nakanamanga
 alt_names: [Efate (North), "Efate, North", Nguna, Tongoa, Vanuatu]
 population: 9500

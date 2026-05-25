@@ -1,6 +1,8 @@
 ---
 iso: kfu
 name: Katkari
+name_zh: 卡特卡里语
+name_zh_auto: true
 autonym: Katakari
 alt_names: [Katari, Kathodi, Katvadi]
 population: 12000

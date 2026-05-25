@@ -1,6 +1,8 @@
 ---
 iso: dac
 name: Dambi
+name_zh: 达姆比语
+name_zh_auto: true
 autonym: null
 population: 710
 country_id: PG

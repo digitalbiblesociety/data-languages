@@ -1,6 +1,8 @@
 ---
 iso: kcq
 name: Kamo
+name_zh: 卡莫语
+name_zh_auto: true
 autonym: Ma
 alt_names: [Kamu, Nubama, Nyima]
 population: 20000

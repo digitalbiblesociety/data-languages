@@ -1,6 +1,8 @@
 ---
 iso: nrl
 name: Ngarluma
+name_zh: 恩加卢玛语
+name_zh_auto: true
 autonym: Kariyarra
 alt_names: ["\"Nickol Bay\" tribe", Engarluma, Gnalluma, Gnalooma, Gnalouma, Jaburarra, Jaburrara ngarluma, Kariera-Ngaluma, Karira Ngaluma, Kymurra, Naluma, Ngalama, Ngallooma, Ngalluma, Ngalooma, Ngaluma, Ngar luma, Ngar-luma, Nickol Bay tribe, Paljari, Qualluana]
 population: 11

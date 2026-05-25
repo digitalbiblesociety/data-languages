@@ -1,6 +1,8 @@
 ---
 iso: xki
 name: Kenyan Sign Language
+name_zh: 肯尼亚手语
+name_zh_auto: true
 autonym: KSL
 alt_names: [Língua Gestual Queniana]
 population: 600000

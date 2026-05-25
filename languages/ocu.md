@@ -1,6 +1,8 @@
 ---
 iso: ocu
 name: Atzingo Matlatzinca
+name_zh: 阿特津戈马特拉特辛卡语
+name_zh_auto: true
 autonym: "pjiekak'joo"
 alt_names: [Atzinca, Atzingo, Atzinteco, Matlatzinca, Matlatzinca (Atzingo), "Matlatzinca, Atzingo", Matlatzinka, Matlatzinkan, Ocuiltec, Ocuilteco, Okwilteko, Pirinda, Tlahuica, Tlahura]
 population: 642

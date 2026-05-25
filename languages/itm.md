@@ -1,6 +1,8 @@
 ---
 iso: itm
 name: Itu Mbon Uzo
+name_zh: 伊图姆邦乌佐语
+name_zh_auto: true
 autonym: Itu Mbon Uso
 alt_names: [Ito Mbonuso, Itu Mbuzo]
 population: 5000

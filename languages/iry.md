@@ -1,6 +1,8 @@
 ---
 iso: iry
 name: Iraya
+name_zh: 伊拉亚语
+name_zh_auto: true
 autonym: null
 alt_names: [Philippines]
 population: 10000

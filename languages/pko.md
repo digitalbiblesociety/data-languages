@@ -1,6 +1,8 @@
 ---
 iso: pko
 name: Pökoot
+name_zh: 珀科特语
+name_zh_auto: true
 autonym: Pakot
 alt_names: [Lenga Pökoot, Peukouteg, Pokoot, Pokot, Pökot, Suk]
 population: 883000

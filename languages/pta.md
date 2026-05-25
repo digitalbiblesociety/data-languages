@@ -1,6 +1,8 @@
 ---
 iso: pta
 name: Pai Tavytera
+name_zh: 帕伊塔维特拉语
+name_zh_auto: true
 autonym: Ava
 alt_names: [Chané, Chiriguano, Izoceño, Pai, Simba, Tapiete, Tavytera]
 population: 15000

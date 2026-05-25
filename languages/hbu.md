@@ -1,6 +1,8 @@
 ---
 iso: hbu
 name: Habu
+name_zh: 哈布语
+name_zh_auto: true
 autonym: null
 alt_names: [Kairui]
 population: 1260

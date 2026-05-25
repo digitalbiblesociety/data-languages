@@ -1,6 +1,8 @@
 ---
 iso: nen
 name: Nengone
+name_zh: 嫩贡内语
+name_zh_auto: true
 autonym: Iwatenu
 alt_names: [Maré]
 population: 6500

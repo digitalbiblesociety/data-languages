@@ -1,6 +1,8 @@
 ---
 iso: kqn
 name: Kaonde
+name_zh: 卡翁德语
+name_zh_auto: true
 autonym: Kiikaonde
 alt_names: [Chikahonde, Chikaonde, Kawonde, Luba Kaonde]
 population: 242000

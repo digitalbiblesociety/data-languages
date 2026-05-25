@@ -1,6 +1,8 @@
 ---
 iso: xpd
 name: "Oyster Bay Tasmanian\r"
+name_zh: 牡蛎湾塔斯马尼亚语
+name_zh_auto: true
 autonym: Oyster Bay
 alt_names: [Oyster Bay Tasmanian, "Tasmanian, Oyster Bay"]
 population: null

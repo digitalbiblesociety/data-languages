@@ -1,6 +1,8 @@
 ---
 iso: rau
 name: Raute
+name_zh: 劳特语
+name_zh_auto: true
 autonym: Boto boli
 alt_names: [Bot̪o Boli, Harka Gurung, Khamchi, Khāmci, Rautye]
 population: 130

@@ -1,6 +1,8 @@
 ---
 iso: bxf
 name: Bilur
+name_zh: 比卢尔语
+name_zh_auto: true
 autonym: Minigir
 alt_names: [Birar]
 population: 2300

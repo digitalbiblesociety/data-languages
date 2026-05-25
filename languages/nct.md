@@ -1,6 +1,8 @@
 ---
 iso: nct
 name: Chothe Naga
+name_zh: 乔瑟纳加语
+name_zh_auto: true
 autonym: Chothe Naga
 alt_names: [Chawte, Chote, Chothe, Chowte, "Naga, Chothe", "Naga,Chothe"]
 population: 3590

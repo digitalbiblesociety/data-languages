@@ -1,6 +1,8 @@
 ---
 iso: esm
 name: Esuma
+name_zh: 埃苏马语
+name_zh_auto: true
 autonym: Essouma
 population: null
 country_id: CI

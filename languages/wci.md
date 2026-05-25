@@ -1,6 +1,8 @@
 ---
 iso: wci
 name: Waci Gbe
+name_zh: 瓦西-格贝语
+name_zh_auto: true
 autonym: Ouatchi
 alt_names: ["Gbe, Waci", Wachi, Waci, Waci-Gbe, Watyi, Watyu]
 population: 884300

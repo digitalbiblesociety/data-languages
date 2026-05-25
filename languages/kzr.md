@@ -1,6 +1,8 @@
 ---
 iso: kzr
 name: Karang
+name_zh: 卡朗语
+name_zh_auto: true
 autonym: Mbum
 alt_names: [Eastern Mbum, Kareng, Laka, Lakka, Lakka Mbum, Mbum Bakal, Mbum-East, Nzák Kàráng]
 population: 17000

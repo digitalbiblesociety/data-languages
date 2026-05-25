@@ -1,6 +1,8 @@
 ---
 iso: bpj
 name: Binji
+name_zh: 比尼吉语
+name_zh_auto: true
 autonym: Bindji
 population: 165000
 country_id: CD

@@ -1,6 +1,8 @@
 ---
 iso: mvt
 name: Mpotovoro
+name_zh: 姆波托沃罗语
+name_zh_auto: true
 autonym: Mpotovoro
 alt_names: [Botovro, Mallicolo]
 population: 430

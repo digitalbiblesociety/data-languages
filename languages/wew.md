@@ -1,6 +1,8 @@
 ---
 iso: wew
 name: Wejewa
+name_zh: 韦杰瓦语
+name_zh_auto: true
 autonym: West Sumbanese
 alt_names: [Veveva, Waidjewa, Waijewa, Wajewa, West-Soembasch, Wewewa, Wewjewa, Weyewa]
 population: 55000

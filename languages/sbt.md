@@ -1,6 +1,8 @@
 ---
 iso: sbt
 name: Kimki
+name_zh: 金基语
+name_zh_auto: true
 autonym: Sukubatom
 alt_names: [Aipki, Biksi, Kimgi, Sukubatong]
 population: 500

@@ -1,6 +1,8 @@
 ---
 iso: bog
 name: Bamako Sign Language
+name_zh: 巴马科手语
+name_zh_auto: true
 autonym: Malian Sign Language
 alt_names: [LSM, LaSiMa, Langue des Signes Malienne, Langue des signes bambara, Mali Sign Language]
 population: 25000

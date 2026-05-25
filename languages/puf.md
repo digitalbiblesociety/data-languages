@@ -1,6 +1,8 @@
 ---
 iso: puf
 name: Punan Merah
+name_zh: 普南梅拉语
+name_zh_auto: true
 autonym: null
 alt_names: [Indonesia]
 population: 140

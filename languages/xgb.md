@@ -1,6 +1,8 @@
 ---
 iso: xgb
 name: Gbin
+name_zh: 吉宾语
+name_zh_auto: true
 autonym: Gbĩ
 population: null
 country_id: CI

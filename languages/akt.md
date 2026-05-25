@@ -1,6 +1,8 @@
 ---
 iso: akt
 name: Akolet
+name_zh: 阿科莱特语
+name_zh_auto: true
 autonym: null
 population: 950
 country_id: PG

@@ -1,6 +1,8 @@
 ---
 iso: udl
 name: Wuzlam
+name_zh: 武兹拉姆语
+name_zh_auto: true
 autonym: Mizlime
 alt_names: [Ouldeme, Udlam, Uldeme, Uzam, Uzlam]
 population: 10500

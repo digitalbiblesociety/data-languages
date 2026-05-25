@@ -1,6 +1,8 @@
 ---
 iso: bct
 name: Bendi
+name_zh: 本迪语
+name_zh_auto: true
 autonym: Mabendi
 alt_names: [Mabeni]
 population: 32000

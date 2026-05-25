@@ -1,6 +1,8 @@
 ---
 iso: laz
 name: Aribwatsa
+name_zh: 阿里布瓦特萨语
+name_zh_auto: true
 autonym: Lae
 alt_names: [Aribuacha, Lahe]
 population: null

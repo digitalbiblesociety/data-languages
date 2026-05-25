@@ -1,6 +1,8 @@
 ---
 iso: kcj
 name: Kobiana
+name_zh: 科比亚纳语
+name_zh_auto: true
 autonym: Buy
 alt_names: [Cobiana, Guboy, Uboi]
 population: 1090

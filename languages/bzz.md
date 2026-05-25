@@ -1,6 +1,8 @@
 ---
 iso: bzz
 name: Evant
+name_zh: 埃万特语
+name_zh_auto: true
 autonym: Avand
 alt_names: [Avande, Balegete, Belegete, Evand, Ovand, Ovande, Ovando]
 population: 10000

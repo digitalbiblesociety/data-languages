@@ -1,6 +1,8 @@
 ---
 iso: scw
 name: Sha
+name_zh: 沙语
+name_zh_auto: true
 autonym: null
 alt_names: [Nigeria]
 population: 3000

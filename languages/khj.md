@@ -1,6 +1,8 @@
 ---
 iso: khj
 name: Kuturmi
+name_zh: 库图尔米语
+name_zh_auto: true
 autonym: null
 alt_names: [Ada]
 population: 10500

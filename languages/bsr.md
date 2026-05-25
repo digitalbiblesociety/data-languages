@@ -1,6 +1,8 @@
 ---
 iso: bsr
 name: "Bassa-Kontagora"
+name_zh: 巴萨-孔塔戈拉语
+name_zh_auto: true
 autonym: null
 alt_names: [Basa, Basa-Kontagora]
 population: 30000

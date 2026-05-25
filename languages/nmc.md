@@ -1,6 +1,8 @@
 ---
 iso: nmc
 name: Ngam
+name_zh: 恩甘语
+name_zh_auto: true
 autonym: Sara Ngam
 alt_names: [Ngahm, Ngama, Ngamh, Sarngam]
 population: 61400

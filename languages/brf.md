@@ -1,6 +1,8 @@
 ---
 iso: brf
 name: Bera
+name_zh: 贝拉语
+name_zh_auto: true
 autonym: Kibira
 alt_names: [Bira, Plains Bira]
 population: 120000

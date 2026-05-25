@@ -1,6 +1,8 @@
 ---
 iso: jie
 name: Jilbe
+name_zh: 吉尔贝语
+name_zh_auto: true
 autonym: Zoulbou
 alt_names: [Yilbe]
 population: 100

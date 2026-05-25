@@ -1,6 +1,8 @@
 ---
 iso: bjo
 name: "Mid-Southern Banda"
+name_zh: 中南班达语
+name_zh_auto: true
 autonym: Banda Central Sud
 alt_names: [Banda, "Banda, Mid-Southern"]
 population: 102000

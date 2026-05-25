@@ -1,6 +1,8 @@
 ---
 iso: kvt
 name: Lahta Karen
+name_zh: 拉塔卡伦语
+name_zh_auto: true
 autonym: Kangan
 alt_names: ["Karen, Lahta", Lahta]
 population: 9550

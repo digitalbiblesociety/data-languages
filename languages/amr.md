@@ -1,6 +1,8 @@
 ---
 iso: amr
 name: Aratbuten huaʼa
+name_zh: 阿拉特布滕胡亚语
+name_zh_auto: true
 autonym: Harákmbut
 alt_names: ["\"Mashco\"", Amaracaeri, Amaracaire, Amarakaeri, Amarakaire, Amarakaéri, Harakambeto, Harakmbet, Hate, "Mashco (\"Mashco\" is a derogatory term.)", Tuyoneri]
 population: 1910

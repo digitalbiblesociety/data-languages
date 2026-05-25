@@ -1,6 +1,8 @@
 ---
 iso: glw
 name: Glavda
+name_zh: 格拉夫达语
+name_zh_auto: true
 autonym: Galvaxdaxa
 alt_names: [Galavda, Gelebda, Gelvaxdaxa, Glanda, Guelebda, Vale]
 population: 31300

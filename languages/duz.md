@@ -1,6 +1,8 @@
 ---
 iso: duz
 name: "Duli-Gey"
+name_zh: 杜利-盖语
+name_zh_auto: true
 autonym: "Duli-Gewe"
 alt_names: [Dui, Duli]
 population: null

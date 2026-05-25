@@ -1,6 +1,8 @@
 ---
 iso: boz
 name: Tiéyaxo Bozo
+name_zh: 蒂埃亚克索博佐语
+name_zh_auto: true
 autonym: Boso
 alt_names: [Bozo, Bozo (Tigemaxo), "Bozo, Tiéyaxo", Tie, Tiemaxo, Tieyaxo, Tieyaxo Bozo, Tigemaxo, Tiguémakho, Tiéyakho, Tiéyaxo, Tyeyaxo, Tégué]
 population: 118000

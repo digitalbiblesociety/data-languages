@@ -1,6 +1,8 @@
 ---
 iso: ceg
 name: Chamacoco
+name_zh: 查马科科语
+name_zh_auto: true
 autonym: Ishír
 alt_names: [Bahía Negra, Chamakoko, Ebidoso, Ishiro, Jeywo, Tchamakokoeg, Tumarahá, Tumerehã, Tumraha, Yshyro, Čamakokų kalba]
 population: 2000

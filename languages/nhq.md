@@ -1,6 +1,8 @@
 ---
 iso: nhq
 name: Huaxcaleca Nahuatl
+name_zh: 瓦克萨莱卡纳瓦特尔语
+name_zh_auto: true
 autonym: Southeastern Puebla Nahuatl
 alt_names: [Eastern Nawa, Huaxcaleca Aztec, Mexicano, Nahua de la Huasteca, Nahuatl, "Nahuatl, Huaxcaleca", Náhuatl de Chichiquila, Náhuatl du Huasteca]
 population: 7000

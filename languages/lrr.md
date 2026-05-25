@@ -1,6 +1,8 @@
 ---
 iso: lrr
 name: Southern Yamphu
+name_zh: 南扬普语
+name_zh_auto: true
 autonym: Loharung
 alt_names: [Balai, Lohorong, Lohrung, Lohrung Khap, Lohrung Khate, Lorung, "Lorung, Southern", "Lorung,Southern", Lōhōrōng, Southern, Southern Lorung, Yakkhaba Lorung, "Yamphu, Southern"]
 population: 1250

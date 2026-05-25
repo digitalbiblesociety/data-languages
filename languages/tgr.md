@@ -1,6 +1,8 @@
 ---
 iso: tgr
 name: Tareng
+name_zh: 塔伦语
+name_zh_auto: true
 autonym: Trieng
 population: 5000
 country_id: LA

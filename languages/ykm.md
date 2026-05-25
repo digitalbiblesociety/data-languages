@@ -1,6 +1,8 @@
 ---
 iso: ykm
 name: Kap
+name_zh: 卡普语
+name_zh_auto: true
 autonym: Kap
 alt_names: [Ali, Yakamul]
 population: 3460

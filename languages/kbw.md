@@ -1,6 +1,8 @@
 ---
 iso: kbw
 name: Kaiep
+name_zh: 卡伊普语
+name_zh_auto: true
 autonym: Samap
 alt_names: [Sumup, Terebu, Terepu, Turupu]
 population: 300

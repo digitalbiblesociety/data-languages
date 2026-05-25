@@ -1,6 +1,8 @@
 ---
 iso: kou
 name: Koke
+name_zh: 科凯语
+name_zh_auto: true
 autonym: Khoke
 alt_names: [Koké]
 population: 600

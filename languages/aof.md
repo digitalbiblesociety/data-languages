@@ -1,6 +1,8 @@
 ---
 iso: aof
 name: Bragat
+name_zh: 布拉加特语
+name_zh_auto: true
 autonym: Alauagat
 alt_names: [Alang, Braget, Yauan]
 population: 460

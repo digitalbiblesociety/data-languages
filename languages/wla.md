@@ -1,6 +1,8 @@
 ---
 iso: wla
 name: Walio
+name_zh: 瓦利奥语
+name_zh_auto: true
 autonym: null
 population: 227
 country_id: PG

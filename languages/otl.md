@@ -1,6 +1,8 @@
 ---
 iso: otl
 name: Tilapa Otomi
+name_zh: 蒂拉帕奥托米语
+name_zh_auto: true
 autonym: Ñųhų
 alt_names: [Othomí, Otomi, "Otomi, Tilapa", Otomí, Otomí de Mezquital, Otomí de Tilapa, Otomí de la Sierra, Otomí del valle de Mezquital, Tilapa, Tilapa Otomí]
 population: 400

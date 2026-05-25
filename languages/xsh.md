@@ -1,6 +1,8 @@
 ---
 iso: xsh
 name: Shamang
+name_zh: 沙芒语
+name_zh_auto: true
 autonym: Samang
 alt_names: [Samban]
 population: null

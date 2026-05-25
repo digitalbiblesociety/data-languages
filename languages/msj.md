@@ -1,6 +1,8 @@
 ---
 iso: msj
 name: Ma (Democratic Republic of Congo)
+name_zh: 马语
+name_zh_auto: true
 autonym: Amadi
 alt_names: [Ma, Madi, Madyo]
 population: 4700

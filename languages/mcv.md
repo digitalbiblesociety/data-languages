@@ -1,6 +1,8 @@
 ---
 iso: mcv
 name: Minanibai
+name_zh: 米纳尼拜语
+name_zh_auto: true
 autonym: Minanibai
 alt_names: [Eme-Eme, Hei, Mahigi, Pepeha]
 population: 300

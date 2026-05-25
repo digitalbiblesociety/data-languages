@@ -1,6 +1,8 @@
 ---
 iso: wbi
 name: Vwanji
+name_zh: 夫万吉语
+name_zh_auto: true
 autonym: Kivwanji
 alt_names: [Kiwanji, Wanji]
 population: 41800

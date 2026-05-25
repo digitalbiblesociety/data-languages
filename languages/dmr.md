@@ -1,6 +1,8 @@
 ---
 iso: dmr
 name: East Damar
+name_zh: 东达马尔语
+name_zh_auto: true
 autonym: South Damar
 alt_names: ["Damar, East"]
 population: 2800

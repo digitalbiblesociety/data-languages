@@ -1,6 +1,8 @@
 ---
 iso: bjv
 name: Bedjond
+name_zh: 贝德容德语
+name_zh_auto: true
 autonym: Nangnda
 alt_names: [Bediondo, Bediondo Mbai, Bedjondo, Bédjonde, Mbay Bediondo, Mbay Bejondo]
 population: 36000

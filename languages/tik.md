@@ -1,6 +1,8 @@
 ---
 iso: tik
 name: Tikar
+name_zh: 蒂卡尔语
+name_zh_auto: true
 autonym: Ndob
 alt_names: [Ndome, Tikali, Tikar-East, Tikari, Tingkala]
 population: 110000

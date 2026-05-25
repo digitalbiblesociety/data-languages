@@ -1,6 +1,8 @@
 ---
 iso: tke
 name: Takwane
+name_zh: 塔克瓦内语
+name_zh_auto: true
 autonym: Emakuana
 alt_names: [Thakwani]
 population: 368000

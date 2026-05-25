@@ -1,6 +1,8 @@
 ---
 iso: jaf
 name: Jara
+name_zh: 贾拉语
+name_zh_auto: true
 autonym: Jera
 alt_names: [Djaraeg, Jara jezik]
 population: 46300

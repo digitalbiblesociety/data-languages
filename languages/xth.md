@@ -1,6 +1,8 @@
 ---
 iso: xth
 name: Yitha Yitha
+name_zh: 伊萨-伊萨语
+name_zh_auto: true
 autonym: Lower Darling–Lower Lachlan
 population: 10
 country_id: AU

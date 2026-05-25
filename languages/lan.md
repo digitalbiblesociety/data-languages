@@ -1,6 +1,8 @@
 ---
 iso: lan
 name: Laru
+name_zh: 拉鲁语
+name_zh_auto: true
 autonym: Shen
 alt_names: [Laranchi, Larawa, Laro]
 population: 5000

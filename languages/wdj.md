@@ -1,6 +1,8 @@
 ---
 iso: wdj
 name: Wadjiginy
+name_zh: 瓦吉吉尼语
+name_zh_auto: true
 autonym: Wogait
 alt_names: [Ami, Amijangal, Bachamal, Bajamala, Batjamal, Batjamalh, Batjemal, Batjjamalh, Batyamal, Batymal, Daly River language., Kuwama, Murinwargad, Murrinh Bathemarl, Murrinh Patjtjamalh, Patjtjamal, Patjtjamalh, Pungupungu, Their langauge Wadyiginy, Wa gait, Wa(o)gatsch, Wa-gait, Wadadjingi, Wadjagidj, Wadjigany, "Wadjigi:n", Wadjigin, Wadjiginj, Wadjinginj, Wadjingy, Wadyiginy, Wadyiginy Proper, Wadyiginy has several variant spellings, Wagaidj, Wagait, Wagaitj, Wagatsch, Wagaydy, Waggait, Waggate, Waggite, Waggites, Waggote, Waggute, Wagite, Wagjingi, Wangites, Waogatsch, Wargad, Wargite, Wdadjingi, Wogadj, Wogaidj, Wogait is a misnomer for Wadyiginy, Wogaity, Wogath, Wogati, Wogatj, Wogite, Wogites, Worgaid, Worgaidj, Worgait, Worgite, namely, which has another sub dialect called Batyamal]
 population: 5

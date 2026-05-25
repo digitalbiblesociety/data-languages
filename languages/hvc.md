@@ -1,6 +1,8 @@
 ---
 iso: hvc
 name: Haitian Vodoun Culture Language
+name_zh: 海地伏都文化语言
+name_zh_auto: true
 autonym: Langay
 alt_names: [Langaj, Langaj jezik]
 population: null

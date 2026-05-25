@@ -1,6 +1,8 @@
 ---
 iso: ral
 name: Ralte
+name_zh: 拉尔特语
+name_zh_auto: true
 autonym: null
 alt_names: ["India, Myanmar"]
 population: 24800

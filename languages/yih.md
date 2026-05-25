@@ -1,6 +1,8 @@
 ---
 iso: yih
 name: Western Yiddish
+name_zh: 西意第绪语
+name_zh_auto: true
 autonym: ייִדיש
 alt_names: [Central Yiddish, Judeo-German, Western, Yiddish, "Yiddish, Western", Yidish]
 population: 600000

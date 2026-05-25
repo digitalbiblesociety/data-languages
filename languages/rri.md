@@ -1,6 +1,8 @@
 ---
 iso: rri
 name: Ririo
+name_zh: 里里奥语
+name_zh_auto: true
 autonym: null
 population: 18
 country_id: SB

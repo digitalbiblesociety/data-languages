@@ -1,6 +1,8 @@
 ---
 iso: dbp
 name: Duwai
+name_zh: 杜瓦伊语
+name_zh_auto: true
 autonym: Eastern Bade
 alt_names: [Evji]
 population: 11400

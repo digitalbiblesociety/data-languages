@@ -1,6 +1,8 @@
 ---
 iso: nnp
 name: Wancho Naga
+name_zh: 旺乔纳加语
+name_zh_auto: true
 autonym: Banpara Naga
 alt_names: [Banpara, Joboka, Naga, "Naga, Wancho", "Naga,Wancho", Wancho]
 population: 59200

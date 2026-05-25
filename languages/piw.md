@@ -1,6 +1,8 @@
 ---
 iso: piw
 name: Pimbwe
+name_zh: 平布韦语
+name_zh_auto: true
 autonym: Cipimbwe
 alt_names: [Ichipimbwe, Kipimbwe]
 population: 12000

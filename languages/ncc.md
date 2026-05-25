@@ -1,6 +1,8 @@
 ---
 iso: ncc
 name: Ponam
+name_zh: 波南语
+name_zh_auto: true
 autonym: null
 alt_names: [Admiralitäts-inseln]
 population: 420

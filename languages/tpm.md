@@ -1,6 +1,8 @@
 ---
 iso: tpm
 name: Tampulma
+name_zh: 坦普尔玛语
+name_zh_auto: true
 autonym: Tampele
 alt_names: [Tamplima, Tampole, Tampolem, Tampolene, Tampolense, Tamprusi, Tamprussi]
 population: 16000

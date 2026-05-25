@@ -1,6 +1,8 @@
 ---
 iso: ham
 name: Hewa
+name_zh: 赫瓦语
+name_zh_auto: true
 autonym: Sisimin
 alt_names: [Umairof, Yoliapi]
 population: 1600

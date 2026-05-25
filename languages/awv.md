@@ -1,6 +1,8 @@
 ---
 iso: awv
 name: Jair Awyu
+name_zh: 杰尔阿维尤语
+name_zh_auto: true
 autonym: Jair
 alt_names: ["Awyu, Jair"]
 population: 2300

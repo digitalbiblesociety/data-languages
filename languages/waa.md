@@ -1,6 +1,8 @@
 ---
 iso: waa
 name: Walla Walla
+name_zh: 瓦拉瓦拉语
+name_zh_auto: true
 autonym: Ichishkíin
 alt_names: [North Sahaptin, Northeast Sahaptin, Northeastern, Sahaptin, Sahaptin (Northern), Waluulapam]
 population: 100

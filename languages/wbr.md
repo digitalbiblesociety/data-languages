@@ -1,6 +1,8 @@
 ---
 iso: wbr
 name: Wagdi
+name_zh: 瓦格迪语
+name_zh_auto: true
 autonym: Bhilodi
 alt_names: [Bhili, Mina Bhil, Vagadi, Vagari, Vagdi, Vaged, Vageri, Vagi, Wagadi, Wagari, Waghari, Wagholi, Wagri]
 population: 3390000

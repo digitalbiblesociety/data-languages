@@ -1,6 +1,8 @@
 ---
 iso: saf
 name: Safaliba
+name_zh: 萨法利巴语
+name_zh_auto: true
 autonym: Safalaba
 alt_names: [Safalba, Safali]
 population: 4000

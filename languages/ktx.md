@@ -1,6 +1,8 @@
 ---
 iso: ktx
 name: Kaxararí
+name_zh: 卡沙拉里语
+name_zh_auto: true
 autonym: Kaxariri
 alt_names: [Cacharari, Kashararí, Kaxarari]
 population: 270

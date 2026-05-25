@@ -1,6 +1,8 @@
 ---
 iso: raf
 name: Western Meohang
+name_zh: 西部美奥汉语
+name_zh_auto: true
 autonym: Mewahang
 alt_names: [Jindā, Meohang, "Meohang, Western", "Meohang,Western", Newahang, Newahang Jimi, Newang, Newange Rai, Rai, Western, Western Mewahang]
 population: 3000

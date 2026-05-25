@@ -1,6 +1,8 @@
 ---
 iso: ssd
 name: Siroi
+name_zh: 西罗伊语
+name_zh_auto: true
 autonym: null
 alt_names: [Suroi]
 population: 1310

@@ -1,6 +1,8 @@
 ---
 iso: cuj
 name: Mashco Piro
+name_zh: 马什科皮罗语
+name_zh_auto: true
 autonym: Cujareño
 alt_names: ["\"Mashco\"", Cujareno, Mashco, Piro, Yine]
 population: 60

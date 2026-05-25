@@ -1,6 +1,8 @@
 ---
 iso: pbr
 name: Pangwa
+name_zh: 潘瓜语
+name_zh_auto: true
 autonym: Ekipangwa
 alt_names: [Kipangwa]
 population: 95100

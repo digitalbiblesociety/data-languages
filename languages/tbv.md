@@ -1,6 +1,8 @@
 ---
 iso: tbv
 name: Tobo
+name_zh: 托博语
+name_zh_auto: true
 autonym: null
 population: 2230
 country_id: PG

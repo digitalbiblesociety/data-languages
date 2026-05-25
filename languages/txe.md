@@ -1,6 +1,8 @@
 ---
 iso: txe
 name: Totoli
+name_zh: 托托利语
+name_zh_auto: true
 autonym: Gage
 alt_names: [Tolitoli, Tontoli]
 population: 25000

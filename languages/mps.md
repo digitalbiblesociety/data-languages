@@ -1,6 +1,8 @@
 ---
 iso: mps
 name: Dadibi
+name_zh: 达迪比语
+name_zh_auto: true
 autonym: null
 alt_names: ["Dadibi (Daribi, Mikaru)", Daribi, Karimui, Mikaru]
 population: 12580

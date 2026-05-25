@@ -1,6 +1,8 @@
 ---
 iso: kqw
 name: Kandas
+name_zh: 坎达斯语
+name_zh_auto: true
 autonym: null
 alt_names: [King]
 population: 480

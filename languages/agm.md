@@ -1,6 +1,8 @@
 ---
 iso: agm
 name: Angaataha
+name_zh: 安加塔哈语
+name_zh_auto: true
 autonym: Angaatiya
 alt_names: [Angaatiha, Angataha, Langimar]
 population: 2500

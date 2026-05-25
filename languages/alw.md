@@ -1,6 +1,8 @@
 ---
 iso: alw
 name: "Alaba-K’abeena"
+name_zh: 阿拉巴-卡贝那语
+name_zh_auto: true
 autonym: Wanbasana
 alt_names: [Alaba, Alaba hizkuntza, "Alaba-K'abeena language", Alaba-K’abeena jezik, Alabeg, Allaaba, Halaba, Lingua alaba]
 population: 278000

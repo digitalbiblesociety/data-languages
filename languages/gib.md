@@ -1,6 +1,8 @@
 ---
 iso: gib
 name: Gibanawa
+name_zh: 吉巴纳瓦语
+name_zh_auto: true
 autonym: " هَرْشَن هَوْسَ"
 alt_names: [Gembanawa, Gimbanawa, Jega]
 population: null

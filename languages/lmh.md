@@ -1,6 +1,8 @@
 ---
 iso: lmh
 name: Lambichhong
+name_zh: 兰比奇宏语
+name_zh_auto: true
 autonym: Lambicchong
 population: 500
 country_id: NP

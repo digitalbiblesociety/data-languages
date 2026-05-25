@@ -1,6 +1,8 @@
 ---
 iso: plo
 name: Oluta Popoluca
+name_zh: 奥卢塔波波卢卡语
+name_zh_auto: true
 autonym: Olutec
 alt_names: [Oluta, Oluta Mijean, Oluta Mixean, Oluta Popoluc, Oluteco (Popoluca de Oluta), Oluteko, Otula Popoluca, Popoluca, Popoluca (Oluta), Popoluca de Oluta, "Popoluca, Oluta"]
 population: 10000

@@ -1,6 +1,8 @@
 ---
 iso: aau
 name: Abau
+name_zh: 阿包语
+name_zh_auto: true
 autonym: null
 alt_names: [Abaoeg, Abau jezik, Djarok, Green River, Język abau, Limba abau, Lingua abau]
 population: 7500

@@ -1,6 +1,8 @@
 ---
 iso: lgt
 name: Pahi
+name_zh: 帕希语
+name_zh_auto: true
 autonym: Lugitama
 alt_names: [Riahoma, Riahorna, Wansum]
 population: 840

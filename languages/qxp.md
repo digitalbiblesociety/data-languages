@@ -1,6 +1,8 @@
 ---
 iso: qxp
 name: Puno Quechua
+name_zh: 普诺克丘亚语
+name_zh_auto: true
 autonym: Quechua Collao
 alt_names: [Colla, Collao, Cuzco-Collao, Quechua Qollaw, Quechua cuzqueño, Quechua de Cuzco, "Quechua, Puno", Southern Kechua]
 population: 500000

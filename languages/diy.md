@@ -1,6 +1,8 @@
 ---
 iso: diy
 name: Diuwe
+name_zh: 迪乌韦语
+name_zh_auto: true
 autonym: bahasa Diuwe
 population: 100
 country_id: ID

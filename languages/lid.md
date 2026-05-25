@@ -1,6 +1,8 @@
 ---
 iso: lid
 name: Nyindrou
+name_zh: 尼因德鲁语
+name_zh_auto: true
 autonym: null
 alt_names: [Admiralitäts-inseln, Lindau, Lindrou, Nyada, Salien]
 population: 4200

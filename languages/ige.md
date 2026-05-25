@@ -1,6 +1,8 @@
 ---
 iso: ige
 name: Igede
+name_zh: 伊格德语
+name_zh_auto: true
 autonym: Egede
 alt_names: [Igedde]
 population: 438000

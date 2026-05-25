@@ -1,6 +1,8 @@
 ---
 iso: bsl
 name: "Basa-Gumna"
+name_zh: 巴萨-古姆纳语
+name_zh_auto: true
 autonym: Basa Kuta
 alt_names: [Basa, Basa-Kaduna, Bassa-Kaduna, Gwadara Basa]
 population: null

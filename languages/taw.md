@@ -1,6 +1,8 @@
 ---
 iso: taw
 name: Tai
+name_zh: 泰语
+name_zh_auto: true
 autonym: Ti
 alt_names: [Tay]
 population: 1000

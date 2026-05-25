@@ -1,6 +1,8 @@
 ---
 iso: hae
 name: Eastern Oromo
+name_zh: 东奥罗莫语
+name_zh_auto: true
 autonym: Harar
 alt_names: ["\"Kwottu\"", "\"Qottu\"", "\"Qotu\" Oromo", "\"Quottu\"", "\"Qwottu\"", Eastern, Harar Oromo, Harar of Dirre Dawa town, Harer, Ittu, Oromo, Oromo (Dirre Dawa Harar), Oromo (Eastern), Oromo (Harar), Oromo Proper, "Oromo, Eastern"]
 population: 9710000

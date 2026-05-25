@@ -1,6 +1,8 @@
 ---
 iso: aqm
 name: Atohwaim
+name_zh: 阿托瓦伊姆语
+name_zh_auto: true
 autonym: Kaugat
 population: 1000
 country_id: ID

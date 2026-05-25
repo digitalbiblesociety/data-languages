@@ -1,6 +1,8 @@
 ---
 iso: bep
 name: Besoa
+name_zh: 贝索亚语
+name_zh_auto: true
 autonym: Besoa
 alt_names: [Bada, Behoa]
 population: 4280

@@ -1,6 +1,8 @@
 ---
 iso: bxp
 name: Bebil
+name_zh: 贝比尔语
+name_zh_auto: true
 autonym: Gbïgbïl
 alt_names: [Bobilis, Gbigbil]
 population: 6000

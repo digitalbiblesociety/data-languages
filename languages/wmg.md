@@ -1,6 +1,8 @@
 ---
 iso: wmg
 name: Western Minyag
+name_zh: 西明雅格语
+name_zh_auto: true
 autonym: Munya
 alt_names: ["Minyag, Western", Western Muya]
 population: 2000

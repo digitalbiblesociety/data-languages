@@ -1,6 +1,8 @@
 ---
 iso: mqk
 name: Rajah Kabunsuwan Manobo
+name_zh: 拉惹卡布苏万曼诺博语
+name_zh_auto: true
 autonym: Rajah Kabungsuan Manobo
 alt_names: ["Manobo, Rajah Kabunsuwan"]
 population: 7570

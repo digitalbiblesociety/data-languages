@@ -1,6 +1,8 @@
 ---
 iso: vkn
 name: Koro Nulu
+name_zh: 科罗-努鲁语
+name_zh_auto: true
 autonym: Koro Ija
 population: 4000
 country_id: NG

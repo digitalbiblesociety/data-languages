@@ -1,6 +1,8 @@
 ---
 iso: mws
 name: "Mwimbi-Muthambi"
+name_zh: 姆温比-穆塔姆比语
+name_zh_auto: true
 autonym: Kimîîru
 alt_names: [Kenya]
 population: 70000

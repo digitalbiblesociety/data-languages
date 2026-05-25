@@ -1,6 +1,8 @@
 ---
 iso: vam
 name: Vanimo
+name_zh: 瓦尼莫语
+name_zh_auto: true
 autonym: Duso
 alt_names: [Dumo, Manimo, Wanimo]
 population: 2670

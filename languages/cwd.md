@@ -1,6 +1,8 @@
 ---
 iso: cwd
 name: Woods Cree
+name_zh: 林地克里语
+name_zh_auto: true
 autonym: Nīhithawīwin ᓀᐦᐃᖬᐍᐏᐣ
 alt_names: [Clisteno del bosque, Cree, Cree des bois, "Cree, Woods"]
 population: 1840

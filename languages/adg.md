@@ -1,6 +1,8 @@
 ---
 iso: adg
 name: Andegerebinha
+name_zh: 安德格雷比尼亚语
+name_zh_auto: true
 autonym: Andigibinha
 alt_names: [Andagerebina, Andakerebina, Andeberegina, Andegerebenha, Antakiripina, Antekerrepenh, Antekerrepenhe, Antekerrepinhe, Arandic, Undekerebina, Walwallie, Willi willi, Willi-willi, Williwilli, Yanindo]
 population: null

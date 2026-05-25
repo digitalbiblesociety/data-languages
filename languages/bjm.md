@@ -1,6 +1,8 @@
 ---
 iso: bjm
 name: Bajelani
+name_zh: 巴杰拉尼语
+name_zh_auto: true
 autonym: گۆرانیî
 alt_names: [Bajalani, Bajoran, Bejwan, Chichamachu, Gurani, Hawrami]
 population: 20000

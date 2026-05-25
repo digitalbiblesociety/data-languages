@@ -1,6 +1,8 @@
 ---
 iso: aks
 name: Akaselem
+name_zh: 阿卡塞莱姆语
+name_zh_auto: true
 autonym: Basari
 alt_names: [Akasele, Akassele, Cemba, Chamba, Djamba, Kamba, Kasele, Kiamba, Sama, Tchamba, Tsamba, Tschamba]
 population: 59200

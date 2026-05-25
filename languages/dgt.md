@@ -1,6 +1,8 @@
 ---
 iso: dgt
 name: "Ndra'ngith"
+name_zh: 恩德拉格瑞思语
+name_zh_auto: true
 autonym: Ndra’ngith
 population: null
 country_id: AU

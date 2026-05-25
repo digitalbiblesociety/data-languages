@@ -1,6 +1,8 @@
 ---
 iso: bqj
 name: Bandial
+name_zh: 班迪亚尔语
+name_zh_auto: true
 autonym: Banjaal
 alt_names: [Bandal, Banjal]
 population: 15700

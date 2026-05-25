@@ -1,6 +1,8 @@
 ---
 iso: kqi
 name: Koitabu
+name_zh: 科伊塔布语
+name_zh_auto: true
 autonym: Koita
 alt_names: [Coita]
 population: 2700

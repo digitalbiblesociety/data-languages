@@ -1,6 +1,8 @@
 ---
 iso: hug
 name: Huachipaeri
+name_zh: 瓦奇帕埃里语
+name_zh_auto: true
 autonym: Huachipaire
 alt_names: ["\"Mashco\"", Amarakaire, Greachipari, Harakmbet, Harakmbut, Harákmbut, Hate, Huachipairi, Mashco, Toyeri, Toyoneri, Tuyoneri, Wachipairi, Wachipayri, Wachipaéri, Wacipaire]
 population: 310

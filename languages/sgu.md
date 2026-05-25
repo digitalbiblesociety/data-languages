@@ -1,6 +1,8 @@
 ---
 iso: sgu
 name: Salas
+name_zh: 萨拉斯语
+name_zh_auto: true
 autonym: Lenkaitahe
 alt_names: [Liambata, Salas Gunung]
 population: 50

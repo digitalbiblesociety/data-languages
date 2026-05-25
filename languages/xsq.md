@@ -1,6 +1,8 @@
 ---
 iso: xsq
 name: "Makhuwa-Saka"
+name_zh: 马库瓦-萨卡语
+name_zh_auto: true
 autonym: Emakuana
 alt_names: [Esaaka, Isaanga, Ishanga, Saaka, Saanga, Saka, Sanga]
 population: 432000

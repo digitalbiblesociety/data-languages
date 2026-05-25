@@ -1,6 +1,8 @@
 ---
 iso: mel
 name: Central Melanau
+name_zh: 中部美拉瑙语
+name_zh_auto: true
 autonym: Central Melanau
 alt_names: ["Belana'u", Melanau, Melanau language, "Melanau, Central", Milanau, Milano]
 population: 113280

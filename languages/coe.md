@@ -1,6 +1,8 @@
 ---
 iso: coe
 name: Koreguaje
+name_zh: 科雷瓜赫语
+name_zh_auto: true
 autonym: "Ko'reuaju"
 alt_names: [Caquetá, Chaocha Pai, Coreguaja, Coreguaje, Corehuaje, Correguaje, Correguaje-Tama, Korewahe]
 population: 2100

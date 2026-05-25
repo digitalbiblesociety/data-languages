@@ -1,6 +1,8 @@
 ---
 iso: lgs
 name: Guinea-Bissau Sign Language
+name_zh: 几内亚比绍手语
+name_zh_auto: true
 alt_names: [Língua Gestual Guineense]
 country_id: GW
 country_name: Guinea-Bissau

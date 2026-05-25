@@ -1,6 +1,8 @@
 ---
 iso: wbh
 name: Wanda
+name_zh: 万达语
+name_zh_auto: true
 autonym: Iciwanda
 alt_names: [Ichiwanda, Kiwanda, Vanda, Wandia]
 population: 24000

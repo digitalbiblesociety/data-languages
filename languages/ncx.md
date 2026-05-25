@@ -1,6 +1,8 @@
 ---
 iso: ncx
 name: Central Puebla Nahuatl
+name_zh: 中普埃布拉纳瓦特尔语
+name_zh_auto: true
 autonym: Xochiltepec–Huatlatlauca Nahuatl
 alt_names: [Central Nawa, Central Puebla Aztec, Mexicano, Nahua central, Nahuatl, "Nahuatl, Central Puebla", Náhuatl central, Náhuatl del Suroeste de Puebla, Southwestern Puebla Nahuatl, Western Nawa]
 population: 1430

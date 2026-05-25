@@ -1,6 +1,8 @@
 ---
 iso: shb
 name: Ninam
+name_zh: 尼南语
+name_zh_auto: true
 autonym: Ninam
 alt_names: [Casapare, Crichana, Jawaperi, Jawari, Kasrapai, Nimam, Ninam (Brésil), Ninam (République bolivarienne du Venezuela), Ninam (Venezuela), Samatari, Shiriana, Shiriana Casapare, Shirianá, Xirianá, Xiriâna, Yanam, Yanam-Ninam]
 population: 1030

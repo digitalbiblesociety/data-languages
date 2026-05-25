@@ -1,6 +1,8 @@
 ---
 iso: eth
 name: Ethiopian Sign Language
+name_zh: 埃塞俄比亚手语
+name_zh_auto: true
 autonym: null
 population: 250000
 country_id: ET

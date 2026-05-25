@@ -1,6 +1,8 @@
 ---
 iso: nbj
 name: Ngarinyman
+name_zh: 恩加里尼曼语
+name_zh_auto: true
 autonym: Gurinji
 alt_names: [Agarinman, Airiman, Bilinara, Engarinmán, Hainman, Hairiman, Heineman, Hyneman, Nariman, Narinman, Ngaiman, Ngaimmun, Ngainman, Ngainmun, Ngaringman, Ngarinman, Ngarinmany, Ngarnman, Ngraimun, Ngrainmun, Ngrainmunynhgahri, Ngrarmun, ainman]
 population: 170

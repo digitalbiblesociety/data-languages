@@ -1,6 +1,8 @@
 ---
 iso: mpb
 name: Malak Malak
+name_zh: 玛拉克玛拉克语
+name_zh_auto: true
 autonym: Mullukmulluk
 alt_names: [Akana, Djiramo, Djiramö, Gamu, Junggor, Kamor, Madngela, Malack malack, Malack-malack, Malag Malag, Malag-Malag, Malagmalag, Malak-Malak, Malak-Malak language, MalakMalak, Mallackmallack, Mallak mallak, Mallak-mallak, Matngela, Mollak mollak, Mollak-mollak, Mollakmollak, Mollok Mollok, Mullik mullik, Mullik-Mullik, Mullikmullik, Mullu Mulluc, Mullu-Mulluc, Mulluc-Mulluc, Mulluck Mulluck, Mulluk Mulluk, Mulluk-Mulluk, Mulukmuluk, Mulukomuluko, Ngolak wonga, Ngolak-Wanggar, Ngolak-Wonga, Ngolok Wangar, Ngolok-Wangar, Ngolokwangga, Ngoluk wanggar, Ngulugwanga, Ngulugwongga, Nguluk Wangkar, Ngulukwongga, Ngulul Wanggar, Ngululwanga, Nguluwongga, Northern Daly language, Valli valli, Valli-valli, Wooliana, Yunggor]
 population: 10

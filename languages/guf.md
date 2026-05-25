@@ -1,6 +1,8 @@
 ---
 iso: guf
 name: Gupapuyngu
+name_zh: 古帕普英古语
+name_zh_auto: true
 autonym: "Dhay'yi"
 alt_names: [Ba-babingo, Dajoror, Gababingo, Gababoinu, Goba-buinggu, Gobabingo, Gobabwingo, Gobabwingu, Gobagwingo, Guba, Gubabuingu, Gubabuyngu, Gubabwingu, Gububuinung, Gupapuyna, Gupapuynu, Gupapuyŋu, Kopapaingo, Kopapingo, Kopapingu, Kopapoingo, Koparpingu, Kupapuyngu, Kuppapoingo]
 population: 300

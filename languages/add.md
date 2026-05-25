@@ -1,6 +1,8 @@
 ---
 iso: add
 name: Lidzonka
+name_zh: 利德宗卡语
+name_zh_auto: true
 autonym: Adere
 alt_names: [Adiri, Arderi, Dzodinka, Dzodzinka]
 population: 2600

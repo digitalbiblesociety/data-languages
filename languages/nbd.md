@@ -1,6 +1,8 @@
 ---
 iso: nbd
 name: Ngbinda
+name_zh: 恩古宾达语
+name_zh_auto: true
 autonym: Bangbinda
 alt_names: [Bungbinda]
 population: 4200

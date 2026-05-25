@@ -1,6 +1,8 @@
 ---
 iso: eso
 name: Estonian Sign Language
+name_zh: 爱沙尼亚手语
+name_zh_auto: true
 autonym: Eesti viipekeel (EVK)
 alt_names: [Língua de Sinais da Estónia, Viipekeel]
 population: 6300

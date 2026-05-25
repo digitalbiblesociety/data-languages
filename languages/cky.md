@@ -1,6 +1,8 @@
 ---
 iso: cky
 name: "Cakfem-Mushere"
+name_zh: 卡克费姆-穆舍雷语
+name_zh_auto: true
 autonym: Chakfem
 alt_names: [Cakfem-Mushere-Jibyal, Chakfem-Mushere, Chokfem, Jajura, Kadim-Kaban, Mupun, Mwaghavul, Sura]
 population: 5000

@@ -1,6 +1,8 @@
 ---
 iso: ele
 name: Elepi
+name_zh: 埃莱皮语
+name_zh_auto: true
 autonym: " Samap"
 alt_names: [Blabla, Elapi, Sumup]
 population: 330

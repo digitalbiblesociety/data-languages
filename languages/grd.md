@@ -1,6 +1,8 @@
 ---
 iso: grd
 name: "Guruntum-Mbaaru"
+name_zh: 古伦图姆-姆巴鲁语
+name_zh_auto: true
 autonym: "Guruntum-Mbaaru"
 alt_names: [Gurdu-mbaaru, Gurdung, Guruntum, Guruntum language, Gùrdùŋ, Gùrùntùm, Tala]
 population: 15000

@@ -1,6 +1,8 @@
 ---
 iso: uya
 name: "Doko-Uyanga"
+name_zh: 多科-乌扬加语
+name_zh_auto: true
 autonym: " Iko"
 alt_names: [Basanga, Dosanga, Uyanga]
 population: 200

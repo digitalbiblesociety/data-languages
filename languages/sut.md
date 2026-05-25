@@ -1,6 +1,8 @@
 ---
 iso: sut
 name: Subtiaba
+name_zh: 萨布蒂阿巴语
+name_zh_auto: true
 autonym: null
 alt_names: [Idioma subtiaba, Sutiaba, Tlapanec, Tlapaneco, Tlapaneco-Sutiaba, Tlapaneko]
 population: null

@@ -1,6 +1,8 @@
 ---
 iso: scs
 name: North Slavey
+name_zh: 北方奴隶语
+name_zh_auto: true
 autonym: "Dene K'e"
 alt_names: ["Slavey, North"]
 population: 770

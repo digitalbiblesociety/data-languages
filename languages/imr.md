@@ -1,6 +1,8 @@
 ---
 iso: imr
 name: Imroing
+name_zh: 伊姆罗因语
+name_zh_auto: true
 autonym: Imroin
 population: 560
 country_id: ID

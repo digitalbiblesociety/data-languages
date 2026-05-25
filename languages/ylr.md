@@ -1,6 +1,8 @@
 ---
 iso: ylr
 name: Yalarnnga
+name_zh: 亚拉纽加语
+name_zh_auto: true
 autonym: Jalanga
 alt_names: [Jalannga, Jalarnnga, Lenga yalarnnga, Wonganja, Yalannga, Yalarnga, Yalarrnga, Yallunga, Yelina, Yellanga, Yellunga]
 population: null

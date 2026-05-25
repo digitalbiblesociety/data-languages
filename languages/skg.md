@@ -1,6 +1,8 @@
 ---
 iso: skg
 name: Sakalava Malagasy
+name_zh: 萨卡拉瓦马拉加斯语
+name_zh_auto: true
 autonym: malagasy
 alt_names: ["Malagasy, Sakalava"]
 population: 1210000

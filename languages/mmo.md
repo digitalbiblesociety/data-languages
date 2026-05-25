@@ -1,6 +1,8 @@
 ---
 iso: mmo
 name: Mangga Buang
+name_zh: 曼加布昂语
+name_zh_auto: true
 autonym: Mangga Buang
 alt_names: ["Buang, Mangga", Kaidemui, Manga Buang]
 population: 1500

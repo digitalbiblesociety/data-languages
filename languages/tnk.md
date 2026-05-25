@@ -1,6 +1,8 @@
 ---
 iso: tnk
 name: Kwamera
+name_zh: 夸梅拉语
+name_zh_auto: true
 autonym: South Tanna
 alt_names: [Vanuatu]
 population: 3500

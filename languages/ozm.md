@@ -1,6 +1,8 @@
 ---
 iso: ozm
 name: Koonzime
+name_zh: 昆齐梅语
+name_zh_auto: true
 autonym: " Koozime"
 alt_names: [Djimu, Dzimou, Kooncimo, Koozhime, Nzime, Zimu]
 population: 40000

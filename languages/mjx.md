@@ -1,6 +1,8 @@
 ---
 iso: mjx
 name: Mahali
+name_zh: 玛哈利语
+name_zh_auto: true
 autonym: ᱥᱟᱱᱛᱟᱲᱤ
 alt_names: [Mahili, Mahle, Mahli]
 population: 29400

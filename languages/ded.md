@@ -1,6 +1,8 @@
 ---
 iso: ded
 name: Dedua
+name_zh: 德杜亚语
+name_zh_auto: true
 autonym: null
 population: 3800
 country_id: PG

@@ -1,6 +1,8 @@
 ---
 iso: msq
 name: Caac
+name_zh: 卡克语
+name_zh_auto: true
 autonym: Moenebeng
 alt_names: [Caawac, Mwelebeng, Neukaledonien]
 population: 890

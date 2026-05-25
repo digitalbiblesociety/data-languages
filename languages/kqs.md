@@ -1,6 +1,8 @@
 ---
 iso: kqs
 name: Northern Kissi
+name_zh: 北基西语
+name_zh_auto: true
 autonym: Gizi
 alt_names: [Kisi, Kisie, Kissi, "Kissi, Northern", Kissien]
 population: 562000

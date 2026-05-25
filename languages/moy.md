@@ -1,6 +1,8 @@
 ---
 iso: moy
 name: Shekkacho
+name_zh: 谢卡乔语
+name_zh_auto: true
 autonym: Mocha
 alt_names: [Kafa (Mo...a dialect), Kaffa, Kafficho, Kefa-Mocha, Moca, Shakacho, Shekka]
 population: 80100

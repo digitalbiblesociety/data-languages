@@ -1,6 +1,8 @@
 ---
 iso: nbc
 name: Chang Naga
+name_zh: 昌纳加语
+name_zh_auto: true
 autonym: Mochungrr
 alt_names: [Chang, Changyanguh, Machongrr, Mochumi, Mojung, Naga, "Naga, Chang", "Naga,Chang", Tśang]
 population: 66900

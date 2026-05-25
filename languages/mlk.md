@@ -1,6 +1,8 @@
 ---
 iso: mlk
 name: Ilwana
+name_zh: 伊尔瓦纳语
+name_zh_auto: true
 autonym: Malakote
 alt_names: [Kiwilwana, “Malakote”]
 population: 8000

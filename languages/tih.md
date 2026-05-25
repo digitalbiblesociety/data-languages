@@ -1,6 +1,8 @@
 ---
 iso: tih
 name: Timugon Murut
+name_zh: 提穆贡木鲁特语
+name_zh_auto: true
 autonym: Temogun
 alt_names: [Murut, "Murut, Timugon", Tenom Murut, Timigan, Timigun, Timogon, Timogun, Timugon, Tumugun]
 population: 9000

@@ -1,6 +1,8 @@
 ---
 iso: gra
 name: Rajput Garasia
+name_zh: 拉杰普特-加拉西亚语
+name_zh_auto: true
 autonym: भीली
 alt_names: [Dhungri Garasia, Dungari Garasia, Dungri Grasia, "Garasia, Rajput", Girasia, Grasia]
 population: 76700

@@ -1,6 +1,8 @@
 ---
 iso: jna
 name: Jangshung
+name_zh: 降松语
+name_zh_auto: true
 autonym: Kanawaringskad
 alt_names: [Central Kinnauri, Jangiam, Jangrami, Kanāwri, Thebarskad, Thebor, Thebör Skadd, Yansún, Zangram, Zhang-Zhung]
 population: 1990

@@ -1,6 +1,8 @@
 ---
 iso: xmw
 name: Tsimihety Malagasy
+name_zh: 西米赫蒂马尔加什语
+name_zh_auto: true
 autonym: malagasy
 alt_names: ["Malagasy, Tsimihety", Tsimihety]
 population: 1615000

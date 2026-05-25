@@ -1,6 +1,8 @@
 ---
 iso: xpb
 name: "Northeastern Tasmanian\r"
+name_zh: 东北塔斯马尼亚语
+name_zh_auto: true
 autonym: Northeastern Tasmanian
 alt_names: [Pyemmairrener, "Tasmanian, Northeastern"]
 population: null

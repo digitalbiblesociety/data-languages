@@ -1,6 +1,8 @@
 ---
 iso: nza
 name: Tigon Mbembe
+name_zh: 蒂贡姆贝姆贝语
+name_zh_auto: true
 autonym: Tigon
 alt_names: [Akonto, Akwanto, Mbembe, "Mbembe, Tigon", Noale, Tigim, Tigong, Tigum, Tigun, Tikun, Tukun]
 population: 60000

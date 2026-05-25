@@ -1,6 +1,8 @@
 ---
 iso: mfg
 name: Mogofin
+name_zh: 莫戈芬语
+name_zh_auto: true
 autonym: Mogofin
 alt_names: [Mikifore, Mixifore]
 population: 3600

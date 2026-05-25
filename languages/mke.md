@@ -1,6 +1,8 @@
 ---
 iso: mke
 name: Mawchi
+name_zh: 莫奇语
+name_zh_auto: true
 autonym: Mauchi
 alt_names: [Gamti, Mavchi, Mawachi, Mawchi Bhil, Mowchi]
 population: 98500

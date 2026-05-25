@@ -1,6 +1,8 @@
 ---
 iso: bvn
 name: Buna
+name_zh: 布纳语
+name_zh_auto: true
 autonym: null
 population: 750
 country_id: PG

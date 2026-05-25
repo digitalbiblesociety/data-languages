@@ -1,6 +1,8 @@
 ---
 iso: esy
 name: Eskayan
+name_zh: 埃斯卡扬语
+name_zh_auto: true
 autonym: Bisaya
 population: 550
 country_id: PH

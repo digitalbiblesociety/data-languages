@@ -1,6 +1,8 @@
 ---
 iso: izz
 name: Izii
+name_zh: 伊兹伊语
+name_zh_auto: true
 autonym: Izii
 population: 540000
 country_id: NG

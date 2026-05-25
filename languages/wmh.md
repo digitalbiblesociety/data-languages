@@ -1,6 +1,8 @@
 ---
 iso: wmh
 name: "Waima'a"
+name_zh: 瓦伊玛语
+name_zh_auto: true
 autonym: "Uai Ma'a"
 alt_names: ["Uaimo'a", Vaimaa, Waimaha, Waimoa, Waimoa language]
 population: 3000

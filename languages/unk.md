@@ -1,6 +1,8 @@
 ---
 iso: unk
 name: "Enawené-Nawé"
+name_zh: 埃纳韦内-纳韦语
+name_zh_auto: true
 autonym: Salumã
 alt_names: [Enawene Nawe language, Enawene-Nawe, Enawenê-nawê, Eneuene-Mare, Salumá]
 population: 320

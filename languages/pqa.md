@@ -1,6 +1,8 @@
 ---
 iso: pqa
 name: "Pa'a"
+name_zh: 帕阿语
+name_zh_auto: true
 autonym: Afa
 alt_names: [Afanci, Afawa, "Fa'awa", Foni, Fucaka, Fuuceka, "Pa'anci", "Pa'awa", Paa, Paanci, Pala]
 population: 8000

@@ -1,6 +1,8 @@
 ---
 iso: aps
 name: "Arop-Sissano"
+name_zh: 阿罗普-西萨诺语
+name_zh_auto: true
 autonym: Arop
 population: 1150
 country_id: PG

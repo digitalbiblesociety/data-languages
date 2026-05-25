@@ -1,6 +1,8 @@
 ---
 iso: org
 name: Oring
+name_zh: 奥林语
+name_zh_auto: true
 autonym: Koring
 alt_names: [Orri, Orrin, Orringorrin]
 population: 12300

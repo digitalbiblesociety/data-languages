@@ -1,6 +1,8 @@
 ---
 iso: kwh
 name: Kowiai
+name_zh: 科瓦伊语
+name_zh_auto: true
 autonym: South Bomberai
 alt_names: [Adi, Aiduma, Kaiwai, Kajumerah, Kayumerah, Koiwai, Kuiwai, Namatota, Namatote]
 population: 600

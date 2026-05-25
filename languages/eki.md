@@ -1,6 +1,8 @@
 ---
 iso: eki
 name: Eki
+name_zh: 厄基语
+name_zh_auto: true
 autonym: null
 population: 5000
 country_id: NG

@@ -1,6 +1,8 @@
 ---
 iso: gss
 name: Greek Sign Language
+name_zh: 希腊手语
+name_zh_auto: true
 autonym: Ελληνική νοηματική γλώσσα
 population: 11000
 country_id: GR

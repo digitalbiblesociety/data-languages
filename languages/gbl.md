@@ -1,6 +1,8 @@
 ---
 iso: gbl
 name: Gamit
+name_zh: 加米特语
+name_zh_auto: true
 autonym: Gamati
 alt_names: [Gameti, Gamith, Gamta, Gamti, Gavit]
 population: 139000

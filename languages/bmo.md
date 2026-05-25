@@ -1,6 +1,8 @@
 ---
 iso: bmo
 name: Bambalang
+name_zh: 巴姆巴兰语
+name_zh_auto: true
 autonym: Chrambo
 alt_names: [Bambolang, Mboyakum, Tshirambo]
 population: 29000

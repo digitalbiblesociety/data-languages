@@ -1,6 +1,8 @@
 ---
 iso: rgk
 name: Rangkas
+name_zh: 让卡斯语
+name_zh_auto: true
 autonym: Canpa
 alt_names: [Chyanam, Johari, Kyonam, Rangas language, Sankiyā, Saukas, Saukiya Khun, Shaukas]
 population: null

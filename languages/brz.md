@@ -1,6 +1,8 @@
 ---
 iso: brz
 name: Bilbil
+name_zh: 比尔比尔语
+name_zh_auto: true
 autonym: Bilibil
 alt_names: [Bil Bil language, Bilbil jezik]
 population: 1250

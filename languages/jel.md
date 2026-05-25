@@ -1,6 +1,8 @@
 ---
 iso: jel
 name: Yelmek
+name_zh: 耶尔梅克语
+name_zh_auto: true
 autonym: Jab
 alt_names: [Jabsch, Jelmek, Jelmik]
 population: 400

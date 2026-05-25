@@ -1,6 +1,8 @@
 ---
 iso: mle
 name: Manambu
+name_zh: 玛纳姆布语
+name_zh_auto: true
 autonym: null
 population: 2110
 country_id: PG

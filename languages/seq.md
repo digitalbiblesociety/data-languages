@@ -1,6 +1,8 @@
 ---
 iso: seq
 name: Senara Sénoufo
+name_zh: 塞纳拉塞努福语
+name_zh_auto: true
 autonym: Senari
 alt_names: [Niangolo, Senara Senoufo, Sénoufo, "Sénoufo, Senara"]
 population: 50000

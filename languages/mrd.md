@@ -1,6 +1,8 @@
 ---
 iso: mrd
 name: Western Magar
+name_zh: 西部迈格语
+name_zh_auto: true
 autonym: " मगर भाषा"
 alt_names: [Magar, Magar (Syangja), Magar (Western), Magar Nuwakot, "Magar, Western", "Magar,Western", Magari, Magarī, Manggar, Mãgari, Syangja Magar]
 population: 789000

@@ -1,6 +1,8 @@
 ---
 iso: jng
 name: Yangman
+name_zh: 杨曼语
+name_zh_auto: true
 autonym: Yangmanic
 alt_names: [Dagoman, Jangman, Jongman, Jungman, Yung munni, Yungman, Yungmanni, Yungmun, Yungmunee, Yungmunnee, Yungmunni]
 population: null

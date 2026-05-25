@@ -1,6 +1,8 @@
 ---
 iso: keh
 name: Keak
+name_zh: 克亚克语
+name_zh_auto: true
 autonym: Kwaruwikwundi
 alt_names: [Gaikunti, Kwongai, Sawos, Sepik Plains, Tshuosh, Tshwosh]
 population: 6000

@@ -1,6 +1,8 @@
 ---
 iso: lnm
 name: Langam
+name_zh: 兰加姆语
+name_zh_auto: true
 autonym: Pondi
 population: 420
 country_id: PG

@@ -1,6 +1,8 @@
 ---
 iso: klx
 name: Koluwawa
+name_zh: 科卢瓦瓦语
+name_zh_auto: true
 autonym: Kalokalo
 population: 900
 country_id: PG

@@ -1,6 +1,8 @@
 ---
 iso: dby
 name: Dibiyaso
+name_zh: 迪比亚索语
+name_zh_auto: true
 autonym: Bainapi
 alt_names: [Dibiasu, Pikiwa]
 population: 1950

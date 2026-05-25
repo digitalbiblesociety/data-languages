@@ -1,6 +1,8 @@
 ---
 iso: sve
 name: Serili
+name_zh: 塞里利语
+name_zh_auto: true
 autonym: bahasa Serili
 population: 330
 country_id: ID

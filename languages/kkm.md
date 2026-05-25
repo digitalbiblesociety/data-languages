@@ -1,6 +1,8 @@
 ---
 iso: kkm
 name: Kiong
+name_zh: 基翁语
+name_zh_auto: true
 autonym: Kayon
 alt_names: [Akayon, Akoiyang, Iyoniyong, Okonyong, Okoyong]
 population: 100

@@ -1,6 +1,8 @@
 ---
 iso: bdp
 name: Bende
+name_zh: 本德语
+name_zh_auto: true
 autonym: Bende
 alt_names: [Kibende, "Si'bende", Sibhende]
 population: 27000

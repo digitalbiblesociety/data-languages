@@ -1,6 +1,8 @@
 ---
 iso: kjx
 name: Ramopa
+name_zh: 拉莫帕语
+name_zh_auto: true
 autonym: Ramopa
 alt_names: [Kereaka, Keriaka]
 population: 1000

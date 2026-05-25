@@ -1,6 +1,8 @@
 ---
 iso: kql
 name: Kyenele
+name_zh: 克耶内勒语
+name_zh_auto: true
 autonym: Miyak
 alt_names: [Bulang, Kenen Birang, Kenying, Kenying Bulang, Keyele, Keñele, Kyenying-Barang]
 population: 1250

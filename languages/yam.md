@@ -1,6 +1,8 @@
 ---
 iso: yam
 name: Yamba
+name_zh: 扬巴语
+name_zh_auto: true
 autonym: Bebaroe
 alt_names: ["\"Kaka\"", Boenga Ko Muzok, Kakayamba, Mbem, Mbubem, "Swe'nga"]
 population: 80000

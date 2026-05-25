@@ -1,6 +1,8 @@
 ---
 iso: asy
 name: Yaosakor Asmat
+name_zh: 亚奥萨科尔阿斯马特语
+name_zh_auto: true
 autonym: Yaosakor
 alt_names: [Asmat, "Asmat, Yaosakor"]
 population: 2000

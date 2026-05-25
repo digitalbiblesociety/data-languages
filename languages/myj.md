@@ -1,6 +1,8 @@
 ---
 iso: myj
 name: Mangayat
+name_zh: 曼加亚特语
+name_zh_auto: true
 autonym: " Buga"
 alt_names: [Bug, Mangaya, Mongaiyat]
 population: 400

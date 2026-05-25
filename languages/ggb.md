@@ -1,6 +1,8 @@
 ---
 iso: ggb
 name: Gbii
+name_zh: 格比语
+name_zh_auto: true
 autonym: Gbee
 alt_names: [Gbi-Dowlu]
 population: 5600

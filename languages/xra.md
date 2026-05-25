@@ -1,6 +1,8 @@
 ---
 iso: xra
 name: Krahô
+name_zh: 克拉霍语
+name_zh_auto: true
 autonym: "Canela-Krahô"
 population: 2000
 country_id: BR

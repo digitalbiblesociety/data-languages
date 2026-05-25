@@ -1,6 +1,8 @@
 ---
 iso: luv
 name: Luwati
+name_zh: 卢瓦蒂语
+name_zh_auto: true
 autonym: Lawatiyya
 alt_names: [Khojki, Lawatiya, Luvatí]
 population: 5000

@@ -1,6 +1,8 @@
 ---
 iso: noe
 name: Nimadi
+name_zh: 尼玛迪语
+name_zh_auto: true
 autonym: Nemadi
 alt_names: [Nimari, Nimiadi, निमाड़ी]
 population: 2310000

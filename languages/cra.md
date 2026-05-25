@@ -1,6 +1,8 @@
 ---
 iso: cra
 name: Chara
+name_zh: 查拉语
+name_zh_auto: true
 autonym: Ciara
 alt_names: ["C'ara"]
 population: 5556

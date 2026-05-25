@@ -1,6 +1,8 @@
 ---
 iso: ifk
 name: Tuwali Ifugao
+name_zh: 图瓦利伊富高语
+name_zh_auto: true
 autonym: Gilipanes
 alt_names: ["Ifugao, Tuwali", Ifugu, Kiangan Ifugao, Quiangan, Tuwali]
 population: 30000

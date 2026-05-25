@@ -1,6 +1,8 @@
 ---
 iso: kag
 name: Kajaman
+name_zh: 卡贾曼语
+name_zh_auto: true
 autonym: Kayaman
 alt_names: [Kajaman-Sekapan, Kejaman]
 population: 500

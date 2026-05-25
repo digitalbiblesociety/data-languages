@@ -1,6 +1,8 @@
 ---
 iso: nnb
 name: Nande
+name_zh: 南德语
+name_zh_auto: true
 autonym: Yira
 alt_names: [Kinande, Kinandi, Nandi, Ndande, Northern Nande, Orundande]
 population: 903000

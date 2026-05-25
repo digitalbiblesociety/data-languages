@@ -1,6 +1,8 @@
 ---
 iso: enb
 name: Markweeta
+name_zh: 马克韦塔语
+name_zh_auto: true
 autonym: Marakwet
 alt_names: [Endo, Endo-Marakwet, Marakuet, Markweta, Talai]
 population: 129000

@@ -1,6 +1,8 @@
 ---
 iso: sky
 name: Sikaiana
+name_zh: 西卡亚纳语
+name_zh_auto: true
 autonym: Sikayana
 population: 730
 country_id: SB

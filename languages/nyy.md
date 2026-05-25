@@ -1,6 +1,8 @@
 ---
 iso: nyy
 name: "Nyakyusa-Ngonde"
+name_zh: 尼亚基尤萨-恩贡德语
+name_zh_auto: true
 autonym: Ngonde
 alt_names: [Ikingonde, Ikinyakyusa, Kinyakyusa, Konde, Kukwe, Mombe, Nkhonde, Nkonde, Nyakusa, Nyekyosa, Nyikyusa, Sochile, Sokile, Sokili]
 population: 1359000

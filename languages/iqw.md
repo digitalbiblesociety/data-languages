@@ -1,6 +1,8 @@
 ---
 iso: iqw
 name: Ikwo
+name_zh: 伊克沃语
+name_zh_auto: true
 autonym: null
 population: 260000
 country_id: NG

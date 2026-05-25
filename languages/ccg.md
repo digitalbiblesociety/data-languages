@@ -1,6 +1,8 @@
 ---
 iso: ccg
 name: Samba Daka
+name_zh: 桑巴达卡语
+name_zh_auto: true
 autonym: Chamba Daka
 alt_names: [Daka, "Daka, Samba", Dakka, Dekka, Deng, Jama, Nakanyare, Sama, Samba, Tchamba, Tikk, Tsamba]
 population: 107000

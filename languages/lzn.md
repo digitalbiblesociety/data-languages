@@ -1,6 +1,8 @@
 ---
 iso: lzn
 name: Leinong Naga
+name_zh: 莱伊农纳加语
+name_zh_auto: true
 autonym: Htang Ngan
 alt_names: ["Naga, Leinong"]
 population: 8000

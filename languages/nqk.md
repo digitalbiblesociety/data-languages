@@ -1,6 +1,8 @@
 ---
 iso: nqk
 name: Kura Ede Nago
+name_zh: 库拉埃德纳戈语
+name_zh_auto: true
 autonym: Nago
 alt_names: ["Ede Nago, Kura"]
 population: 25000

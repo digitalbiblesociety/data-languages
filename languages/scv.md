@@ -1,6 +1,8 @@
 ---
 iso: scv
 name: Sheni
+name_zh: 舍尼语
+name_zh_auto: true
 autonym: Sheni
 alt_names: [Seni, Shaini, Shani, Shenanci, Shenic]
 population: 1500

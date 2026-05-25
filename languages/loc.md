@@ -1,6 +1,8 @@
 ---
 iso: loc
 name: Inonhan
+name_zh: 伊农汉语
+name_zh_auto: true
 autonym: Loocnon
 alt_names: ["\"Unhan\"", Bisaya, Looknon, Onhan language, ภาษาออนฮัน]
 population: 85800

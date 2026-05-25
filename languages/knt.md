@@ -1,6 +1,8 @@
 ---
 iso: knt
 name: Panoan Katukína
+name_zh: 帕诺安卡图基纳语
+name_zh_auto: true
 autonym: Katukína
 alt_names: [Arara-shawanawa, Catuquina, Catuquina del Acre, Kamanawa, Kamannaua, Katukina, "Katukina de l'Acre", Katukina do Acre, Katukina do Juruá, "Katukína, Panoan", Panoan, Panoan Katukina, Waninnawa, Wanninawa]
 population: 315

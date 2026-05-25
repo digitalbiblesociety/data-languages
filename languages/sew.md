@@ -1,6 +1,8 @@
 ---
 iso: sew
 name: Sewa Bay
+name_zh: 塞瓦湾语
+name_zh_auto: true
 autonym: Duau Pwata
 population: 1520
 country_id: PG

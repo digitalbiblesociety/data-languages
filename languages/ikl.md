@@ -1,6 +1,8 @@
 ---
 iso: ikl
 name: Ikulu
+name_zh: 伊库卢语
+name_zh_auto: true
 autonym: Ikulu
 alt_names: [Ankulu, Ikolu]
 population: 50000

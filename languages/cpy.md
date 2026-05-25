@@ -1,6 +1,8 @@
 ---
 iso: cpy
 name: South Ucayali Ashéninka
+name_zh: 南乌卡亚利阿什尼卡语
+name_zh_auto: true
 autonym: Campa
 alt_names: ["Ashéninka, South Ucayali"]
 population: 13000

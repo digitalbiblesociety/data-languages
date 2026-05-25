@@ -1,6 +1,8 @@
 ---
 iso: umi
 name: Ukit
+name_zh: 乌基特语
+name_zh_auto: true
 autonym: null
 alt_names: [Malaysia]
 population: 120

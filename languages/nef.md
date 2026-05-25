@@ -1,6 +1,8 @@
 ---
 iso: nef
 name: Nefamese
+name_zh: 内法梅塞语
+name_zh_auto: true
 autonym: Arunamese
 population: null
 country_id: IN

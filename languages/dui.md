@@ -1,6 +1,8 @@
 ---
 iso: dui
 name: Dumun
+name_zh: 杜蒙语
+name_zh_auto: true
 autonym: Bai
 population: 120
 country_id: PG

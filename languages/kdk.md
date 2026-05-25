@@ -1,6 +1,8 @@
 ---
 iso: kdk
 name: Numèè
+name_zh: 努梅语
+name_zh_auto: true
 autonym: Kwényi
 alt_names: [Duauru, Kapone, Kunie, Kwenyii, Naa Numee, Naa-Wee, Neukaledonien, Numee, Nââ Numèè, Ouen, Touaouru, Tuauru, Uen, Wen]
 population: 1810

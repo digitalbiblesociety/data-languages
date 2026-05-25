@@ -1,6 +1,8 @@
 ---
 iso: gke
 name: Ndai
+name_zh: 恩代语
+name_zh_auto: true
 autonym: Galke
 alt_names: [Dai, Pormi]
 population: null

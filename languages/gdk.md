@@ -1,6 +1,8 @@
 ---
 iso: gdk
 name: Gadang
+name_zh: 加当语
+name_zh_auto: true
 autonym: null
 alt_names: [Gadangeg, Gadango]
 population: 2500

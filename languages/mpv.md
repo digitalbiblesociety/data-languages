@@ -1,6 +1,8 @@
 ---
 iso: mpv
 name: Mungkip
+name_zh: 芒基普语
+name_zh_auto: true
 autonym: Munkip
 population: 670
 country_id: PG

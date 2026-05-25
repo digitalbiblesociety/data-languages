@@ -1,6 +1,8 @@
 ---
 iso: tds
 name: Doutai
+name_zh: 都陶语
+name_zh_auto: true
 autonym: "Taori-So"
 alt_names: [Taori, Tolitai]
 population: 335

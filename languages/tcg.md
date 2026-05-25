@@ -1,6 +1,8 @@
 ---
 iso: tcg
 name: Tamagario
+name_zh: 塔玛加里奥语
+name_zh_auto: true
 autonym: Buru
 alt_names: [Tamaraw, Tamágario, Wagow]
 population: 3500

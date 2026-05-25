@@ -1,6 +1,8 @@
 ---
 iso: ylb
 name: Yaleba
+name_zh: 亚莱巴语
+name_zh_auto: true
 autonym: Aisana
 population: null
 country_id: PG

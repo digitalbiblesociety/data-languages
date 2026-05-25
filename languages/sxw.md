@@ -1,6 +1,8 @@
 ---
 iso: sxw
 name: Saxwe Gbe
+name_zh: 萨克韦格贝语
+name_zh_auto: true
 autonym: Tsáphɛ
 alt_names: ["Gbe, Saxwe", Saxwe, Saxwe-Gbe]
 population: 284000

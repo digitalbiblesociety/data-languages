@@ -1,6 +1,8 @@
 ---
 iso: lgi
 name: Lengilu
+name_zh: 伦吉鲁语
+name_zh_auto: true
 autonym: bahasa Lengilu
 population: null
 country_id: ID

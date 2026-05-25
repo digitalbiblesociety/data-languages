@@ -1,6 +1,8 @@
 ---
 iso: kej
 name: Kadar
+name_zh: 卡达语
+name_zh_auto: true
 autonym: Kada
 alt_names: [Kadir]
 population: 1960

@@ -1,6 +1,8 @@
 ---
 iso: kqo
 name: Eastern Krahn
+name_zh: 东克兰语
+name_zh_auto: true
 autonym: Eastern Krahn
 alt_names: [Eastern Kran, "Krahn, Eastern", Kran]
 population: 109800

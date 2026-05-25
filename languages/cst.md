@@ -1,6 +1,8 @@
 ---
 iso: cst
 name: Northern Ohlone
+name_zh: 北奥赫龙语
+name_zh_auto: true
 autonym: Costanoan
 alt_names: [Chochenyo, Chocheño, Northern Costanoan, "Ohlone, Northern", San Francisco Bay Costanoan, Čočenyo]
 population: null

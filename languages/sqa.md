@@ -1,6 +1,8 @@
 ---
 iso: sqa
 name: "Shama-Sambuga"
+name_zh: 沙马-桑布加语
+name_zh_auto: true
 autonym: Tushama
 alt_names: [Bushama]
 population: 5000

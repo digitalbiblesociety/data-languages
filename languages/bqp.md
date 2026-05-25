@@ -1,6 +1,8 @@
 ---
 iso: bqp
 name: Busa
+name_zh: 布萨语
+name_zh_auto: true
 autonym: Bisã
 alt_names: [Bisayã, Busa (in Nigeria), Busa-Bisa, Busa-Bisã, Busano, Bussanchi]
 population: 15000

@@ -1,6 +1,8 @@
 ---
 iso: sav
 name: "Saafi-Saafi"
+name_zh: 萨菲-萨菲语
+name_zh_auto: true
 autonym: "Saafi-Saafi"
 alt_names: [Saafi, Safen, Safi, Safi-Safi, Sereer Saafen, Serer-Safen, Serere-Saafen]
 population: 200000

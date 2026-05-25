@@ -1,6 +1,8 @@
 ---
 iso: ack
 name: "Aka-Kora"
+name_zh: 阿卡-科拉语
+name_zh_auto: true
 autonym: "Aka-Kora"
 alt_names: [Aka-Cora, Aka-Khora, Bahasa Aka-Kora, Great Andamanese, Idioma kora, Khora, Kora, Koran kieli, Lèngua Aka-Kora]
 population: null

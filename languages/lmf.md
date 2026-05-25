@@ -1,6 +1,8 @@
 ---
 iso: lmf
 name: South Lembata
+name_zh: 南伦巴塔语
+name_zh_auto: true
 autonym: South Lembata
 alt_names: [Indonesia, "Lembata, South"]
 population: 7000

@@ -1,6 +1,8 @@
 ---
 iso: irx
 name: Kamberau
+name_zh: 卡姆贝劳语
+name_zh_auto: true
 autonym: Asienara
 alt_names: [Iria, Kamrau]
 population: 1570

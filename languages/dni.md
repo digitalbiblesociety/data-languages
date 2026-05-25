@@ -1,6 +1,8 @@
 ---
 iso: dni
 name: Lower Grand Valley Dani
+name_zh: 下大瓦利达尼语
+name_zh_auto: true
 autonym: null
 alt_names: [Dani, Dani (Grand Valley), Dani (Lower Grand Valley), "Dani, Lower Grand Valley", Grand Valley Dani, Ndani]
 population: 20000

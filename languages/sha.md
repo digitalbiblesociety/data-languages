@@ -1,6 +1,8 @@
 ---
 iso: sha
 name: "Shall-Zwall"
+name_zh: 沙尔-兹瓦尔语
+name_zh_auto: true
 autonym: null
 alt_names: [Nigeria]
 population: 8900

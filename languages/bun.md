@@ -1,6 +1,8 @@
 ---
 iso: bun
 name: Sherbro
+name_zh: 舍尔布罗语
+name_zh_auto: true
 autonym: Amampa
 alt_names: [Bullom, Bulom, Cherbroeg, Mampa, Mampwa, Shiba, Southern Bullom]
 population: 179000

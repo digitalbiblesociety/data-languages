@@ -1,6 +1,8 @@
 ---
 iso: xor
 name: Korubo
+name_zh: 科鲁博语
+name_zh_auto: true
 autonym: Cacetero
 alt_names: [Caceteiros, Chankuëshbo, Korúbo]
 population: 250

@@ -1,6 +1,8 @@
 ---
 iso: cdh
 name: Chambeali
+name_zh: 尚贝阿利语
+name_zh_auto: true
 autonym: 𑚏𑚢𑚶𑚠𑚣𑚭𑚥𑚯
 alt_names: [Cameali, Chamaya, Chambiali, Chambiyali, Chameali, Chamiyali Pahari, Chamya]
 population: 126000

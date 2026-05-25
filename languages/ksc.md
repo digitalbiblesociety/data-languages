@@ -1,6 +1,8 @@
 ---
 iso: ksc
 name: Southern Kalinga
+name_zh: 南卡林加语
+name_zh_auto: true
 autonym: Madlango Kalinga
 alt_names: ["Kalinga, Southern", Tinglayan Kalinga]
 population: 13000

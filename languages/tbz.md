@@ -1,6 +1,8 @@
 ---
 iso: tbz
 name: Ditammari
+name_zh: 迪塔马里语
+name_zh_auto: true
 autonym: Ditammari
 alt_names: ["\"Somba\"", Ditamari, Soma, Somba, Some, Tamari, Tamberma]
 population: 245300

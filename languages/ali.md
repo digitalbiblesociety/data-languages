@@ -1,6 +1,8 @@
 ---
 iso: ali
 name: Amaimon
+name_zh: 阿迈蒙语
+name_zh_auto: true
 autonym: Mabulap
 alt_names: [Język amaimon, Lenga Amaimon, Lingua amaimon]
 population: 1780

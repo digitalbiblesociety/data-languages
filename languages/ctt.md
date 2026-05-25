@@ -1,6 +1,8 @@
 ---
 iso: ctt
 name: Wayanad Chetti
+name_zh: 瓦亚纳德切蒂语
+name_zh_auto: true
 autonym: Chetti
 alt_names: ["Chetti, Wayanad"]
 population: 5000

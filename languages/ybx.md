@@ -1,6 +1,8 @@
 ---
 iso: ybx
 name: Yawiyo
+name_zh: 亚威约语
+name_zh_auto: true
 autonym: Yabio
 population: 66
 country_id: PG

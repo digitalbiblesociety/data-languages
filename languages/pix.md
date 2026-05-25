@@ -1,6 +1,8 @@
 ---
 iso: pix
 name: Piu
+name_zh: 皮乌语
+name_zh_auto: true
 autonym: Kuruko
 alt_names: [Lanzog, Sanbiau]
 population: 100

@@ -1,6 +1,8 @@
 ---
 iso: kqy
 name: Koorete
+name_zh: 库瑞特语
+name_zh_auto: true
 autonym: Amaarro
 alt_names: [Amarro, Badditu, Badittu, Baditu, Gidiccho, Koore, Koré, Koyra, Kwera, Nuna]
 population: 157000

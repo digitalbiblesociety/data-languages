@@ -1,6 +1,8 @@
 ---
 iso: rmc
 name: Carpathian Romani
+name_zh: 喀尔巴阡罗姆语
+name_zh_auto: true
 autonym: Central Romani
 alt_names: [Bashaldo, Carpathian, Cigány, European Romany, Hungarian-Slovak Romani, Romani, "Romani, Carpathian", Romany, Romaní, Romungro, Zigeuner]
 population: 157110

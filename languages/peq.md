@@ -1,6 +1,8 @@
 ---
 iso: peq
 name: Southern Pomo
+name_zh: 南波莫语
+name_zh_auto: true
 autonym: Gallinoméro
 alt_names: [Lenga pomo meridional, Pomo, Pomo du Sud, Pomo meridional, "Pomo, Southern", Russian River, South Pomo, Southern]
 population: null

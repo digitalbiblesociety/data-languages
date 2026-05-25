@@ -1,6 +1,8 @@
 ---
 iso: jil
 name: Jilim
+name_zh: 吉利姆语
+name_zh_auto: true
 autonym: null
 population: 650
 country_id: PG

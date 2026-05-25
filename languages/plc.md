@@ -1,6 +1,8 @@
 ---
 iso: plc
 name: Central Palawano
+name_zh: 中部帕劳瓦诺语
+name_zh_auto: true
 autonym: Palawanen
 alt_names: ["Palawano, Central", Palaweño, Quezon Palawano]
 population: 12000

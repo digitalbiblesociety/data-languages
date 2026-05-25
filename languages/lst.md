@@ -1,6 +1,8 @@
 ---
 iso: lst
 name: Trinidad and Tobago Sign Language
+name_zh: 特立尼达和多巴哥手语
+name_zh_auto: true
 autonym: Trinidadian Sign Language (TSL)
 alt_names: [TSL, TTSL, Trinidad Sign Language]
 population: 1360

@@ -1,6 +1,8 @@
 ---
 iso: qwt
 name: "Kwalhioqua-Tlatskanai"
+name_zh: 克瓦尔希奥昆-特拉茨卡奈语
+name_zh_auto: true
 autonym: Kwalhioqua–Tlatskanai
 population: null
 country_id: US

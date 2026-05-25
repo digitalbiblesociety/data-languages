@@ -1,6 +1,8 @@
 ---
 iso: gol
 name: Gola
+name_zh: 戈拉语
+name_zh_auto: true
 autonym: "Gola, ꖑꕞ"
 alt_names: [Gula]
 population: 190000

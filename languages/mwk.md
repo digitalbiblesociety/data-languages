@@ -1,6 +1,8 @@
 ---
 iso: mwk
 name: Kita Maninkakan
+name_zh: 基塔曼林卡语
+name_zh_auto: true
 autonym: Central Malinke
 alt_names: [Kita Maninka, Malinke, "Maninkakan, Kita", Nandi]
 population: 434000

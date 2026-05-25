@@ -1,6 +1,8 @@
 ---
 iso: olr
 name: Olrat
+name_zh: 奥尔拉特语
+name_zh_auto: true
 autonym: Ōlrat
 population: null
 country_id: VU

@@ -1,6 +1,8 @@
 ---
 iso: hkk
 name: "Hunjara-Kaina Ke"
+name_zh: 胡恩贾拉-凯纳克语
+name_zh_auto: true
 autonym: null
 alt_names: [Hunjara]
 population: 8770

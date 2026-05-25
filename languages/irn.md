@@ -1,6 +1,8 @@
 ---
 iso: irn
 name: Irántxe
+name_zh: 伊兰特克语
+name_zh_auto: true
 autonym: "Irántxe-Münkü"
 alt_names: [Iranche, Iranshe, Irantxe, Irantxe language, Irantxe-mynky, Iranxe, Irntxe, Lenga irantxe, Manoki, Menki, Myky, Mynky, Münkü]
 population: 190

@@ -1,6 +1,8 @@
 ---
 iso: atq
 name: "Aralle-Tabulahan"
+name_zh: 阿拉莱-塔布拉汉语
+name_zh_auto: true
 autonym: Ahalle
 population: 29300
 country_id: ID

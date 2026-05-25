@@ -1,6 +1,8 @@
 ---
 iso: tij
 name: Tilung
+name_zh: 蒂隆语
+name_zh_auto: true
 autonym: Tiling
 alt_names: [Halesidanda, Tilling, Tilung Blama]
 population: 310

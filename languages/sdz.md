@@ -1,6 +1,8 @@
 ---
 iso: sdz
 name: Sallands
+name_zh: 萨兰茨语
+name_zh_auto: true
 autonym: Sallan
 population: null
 country_id: NL

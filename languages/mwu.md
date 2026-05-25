@@ -1,6 +1,8 @@
 ---
 iso: mwu
 name: Mittu
+name_zh: 米图语
+name_zh_auto: true
 autonym: null
 alt_names: [Sudan]
 population: 50000

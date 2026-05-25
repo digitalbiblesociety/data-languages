@@ -1,6 +1,8 @@
 ---
 iso: wsu
 name: Wasu
+name_zh: 瓦苏语
+name_zh_auto: true
 autonym: Waçu
 alt_names: [Wassú]
 population: null

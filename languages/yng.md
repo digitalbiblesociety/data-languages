@@ -1,6 +1,8 @@
 ---
 iso: yng
 name: Yango
+name_zh: 扬戈语
+name_zh_auto: true
 autonym: Gbendere
 population: 3000
 country_id: CD

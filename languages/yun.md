@@ -1,6 +1,8 @@
 ---
 iso: yun
 name: Bena (Nigeria)
+name_zh: 贝纳语(尼日利亚)
+name_zh_auto: true
 autonym: Yungur
 alt_names: ["\"Lala\"", Bena, Binna, Buna, Ebina, Ebuna, Gbinna, Purra, Yangeru, Yongor]
 population: 95000

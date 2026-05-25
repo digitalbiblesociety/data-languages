@@ -1,6 +1,8 @@
 ---
 iso: cmo
 name: Central Mnong
+name_zh: 中蒙语
+name_zh_auto: true
 autonym: Bunong (ឞូន៝ង)
 alt_names: [Bhiét, Biat, Biet, Bu Nong, Budang, Budong, Bunong, Central, Central Mong, Mnong, Mnong central, "Mnong, Central", Penong, Phanong, Phnong, Phong, Pnong]
 population: 70000

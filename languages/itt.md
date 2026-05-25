@@ -1,6 +1,8 @@
 ---
 iso: itt
 name: Maeng Itneg
+name_zh: 玛英伊特内格语
+name_zh_auto: true
 autonym: "Kankana-ey"
 alt_names: ["Itneg, Maeng", Luba-Tiempo Itneg, Southern Itneg]
 population: 18000

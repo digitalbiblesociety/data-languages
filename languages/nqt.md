@@ -1,6 +1,8 @@
 ---
 iso: nqt
 name: Nteng
+name_zh: 恩腾语
+name_zh_auto: true
 population: 2000
 country_id: NG
 country_name: Nigeria

@@ -1,6 +1,8 @@
 ---
 iso: mmg
 name: North Ambrym
+name_zh: 北安布里姆语
+name_zh_auto: true
 autonym: null
 alt_names: [Ambrym, "Ambrym, North", North, Vanuatu]
 population: 5250

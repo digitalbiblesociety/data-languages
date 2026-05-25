@@ -1,6 +1,8 @@
 ---
 iso: rnp
 name: Rongpo
+name_zh: 容波语
+name_zh_auto: true
 autonym: Manchhi Bhassa
 alt_names: ["\"Manchhi Bhassa\"", "\"Marchha Pahari\"", "\"Marchha\"", "\"Tolcha\"", "\"Tolchha\"", Marchcha, Marchha, Rang Po Bhasa, Rangkas, Rangpa, Rangpo, Sankiyā]
 population: 7500

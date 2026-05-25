@@ -1,6 +1,8 @@
 ---
 iso: ygs
 name: Yolŋu Sign Language
+name_zh: 约尔纽-手语
+name_zh_auto: true
 autonym: Penguin Sign Language
 population: 50
 country_id: AU

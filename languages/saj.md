@@ -1,6 +1,8 @@
 ---
 iso: saj
 name: Sahu
+name_zh: 萨胡语
+name_zh_auto: true
 autonym: "Sahu'u"
 alt_names: ["Pa'disua", Palisua, "Sa'u", Sau, Waioli]
 population: 7500

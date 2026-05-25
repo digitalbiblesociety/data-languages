@@ -1,6 +1,8 @@
 ---
 iso: mre
 name: "Martha's Vineyard Sign Language"
+name_zh: 玛莎葡萄园手语
+name_zh_auto: true
 autonym: Martha’s Vineyard Sign Language
 alt_names: [MVSL, Martha’s Vineyard-tegnspråk, Martha’s Vineyards Gebärdensprache]
 population: null

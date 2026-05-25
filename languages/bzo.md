@@ -1,6 +1,8 @@
 ---
 iso: bzo
 name: Bozaba
+name_zh: 博扎巴语
+name_zh_auto: true
 autonym: Budzaba
 population: 5500
 country_id: CD

@@ -1,6 +1,8 @@
 ---
 iso: yac
 name: Pass Valley Yali
+name_zh: 帕斯-瓦利-亚里语
+name_zh_auto: true
 autonym: Yalimo
 alt_names: [Abendago, North Ngalik, Pass Valley, Western Yali, Yali, "Yali, Pass Valley", Yaly]
 population: 5000

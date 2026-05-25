@@ -1,6 +1,8 @@
 ---
 iso: ssx
 name: Samberigi
+name_zh: 桑贝里吉语
+name_zh_auto: true
 autonym: Sau
 alt_names: [Sanaberigi]
 population: 3130

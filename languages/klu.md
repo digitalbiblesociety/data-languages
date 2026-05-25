@@ -1,6 +1,8 @@
 ---
 iso: klu
 name: Klao
+name_zh: 克劳语
+name_zh_auto: true
 autonym: Kru
 alt_names: [Klaoh, Klau, Krawi, Kroo]
 population: 400000

@@ -1,6 +1,8 @@
 ---
 iso: bde
 name: Bade
+name_zh: 巴德语
+name_zh_auto: true
 autonym: Bedde
 alt_names: [Bade Group, Badeg, Badé, Bede, Gidgid, Gusha Bade, West Chadic B.1, Баде]
 population: 338000

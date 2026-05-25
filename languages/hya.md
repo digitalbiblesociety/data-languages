@@ -1,6 +1,8 @@
 ---
 iso: hya
 name: Hya
+name_zh: 海亚语
+name_zh_auto: true
 autonym: Ghye
 alt_names: [Hya jezik, Hyaeg, Za]
 population: 940

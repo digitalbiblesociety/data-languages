@@ -1,6 +1,8 @@
 ---
 iso: svb
 name: "Ulau-Suain"
+name_zh: 乌劳-苏艾语
+name_zh_auto: true
 autonym: Suain
 population: 2800
 country_id: PG

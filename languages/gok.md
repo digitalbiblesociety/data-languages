@@ -1,6 +1,8 @@
 ---
 iso: gok
 name: Gowli
+name_zh: 高夫利语
+name_zh_auto: true
 autonym: Nand
 population: 35000
 country_id: IN

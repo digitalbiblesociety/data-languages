@@ -1,6 +1,8 @@
 ---
 iso: kbx
 name: Ap Ma
+name_zh: 阿普玛语
+name_zh_auto: true
 autonym: Ap Ma
 alt_names: [Ap Ma Botin, Botin, Kambot, Kambot (Keram), Karaube, Keram]
 population: 10000

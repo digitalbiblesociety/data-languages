@@ -1,6 +1,8 @@
 ---
 iso: ppo
 name: Folopa
+name_zh: 福洛帕语
+name_zh_auto: true
 autonym: null
 alt_names: [Foraba, Keai, Podoba, Podopa, Polopa, Ro, Sesa, Worugi]
 population: 3200

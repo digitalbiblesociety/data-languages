@@ -1,6 +1,8 @@
 ---
 iso: nyx
 name: Nganyaywana
+name_zh: 恩甘雅武纳语
+name_zh_auto: true
 autonym: Anewan
 alt_names: [Amberu, Anaiwan, Anaywan, Aneewan, Aniwan, Dariwan, Ee na won, Ee-na-won, Eenewon, En nee win, En-nee-win, Eneewin, Enni won, Enni-won, Enniwon, Enuin, Inuwan, Inuwen, Inuwon, Narwo, Narwon, Nee inuwon, Nee-inuwon, Newana, Nganjaywana, Nowan, Southern Anaiwan, Yenniwon]
 population: null

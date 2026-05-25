@@ -1,6 +1,8 @@
 ---
 iso: trh
 name: Turaka
+name_zh: 图拉卡语
+name_zh_auto: true
 autonym: null
 population: 25
 country_id: PG

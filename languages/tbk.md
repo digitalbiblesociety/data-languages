@@ -1,6 +1,8 @@
 ---
 iso: tbk
 name: Calamian Tagbanwa
+name_zh: 卡拉米安塔格邦瓦语
+name_zh_auto: true
 autonym: ᝦᝲᝨᝪᝯ
 alt_names: [Calamiano, Kalamian, Kalamianon, Karamiananen, "Tagbanwa, Calamian"]
 population: 10000

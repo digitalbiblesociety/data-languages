@@ -1,6 +1,8 @@
 ---
 iso: mjl
 name: Mandeali
+name_zh: 曼德阿利语
+name_zh_auto: true
 autonym: मंडयाली
 alt_names: [Himachali, Mandi, Mandiali, Pahari Mandiyali]
 population: 623000

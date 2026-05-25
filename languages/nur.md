@@ -1,6 +1,8 @@
 ---
 iso: nur
 name: Nukuria
+name_zh: 努库里亚语
+name_zh_auto: true
 autonym: Fead
 alt_names: [Nahoa, Nuguria]
 population: 550

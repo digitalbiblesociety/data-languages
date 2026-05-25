@@ -1,6 +1,8 @@
 ---
 iso: sod
 name: Songoora
+name_zh: 松戈拉语
+name_zh_auto: true
 autonym: North Binja
 alt_names: [Binja, Kesongola, Songola, Sonγai]
 population: 1300

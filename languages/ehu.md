@@ -1,6 +1,8 @@
 ---
 iso: ehu
 name: Ehueun
+name_zh: 埃韦恩语
+name_zh_auto: true
 autonym: Ekpenmen
 alt_names: [Ekpimi, Epimi]
 population: 14200

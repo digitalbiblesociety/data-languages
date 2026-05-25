@@ -1,6 +1,8 @@
 ---
 iso: jid
 name: Bu
+name_zh: 布语
+name_zh_auto: true
 autonym: "Jida-Abu"
 alt_names: [Bu (Kaduna State), Ibut, Jida, Jidda-Abu, Nakare]
 population: 20000

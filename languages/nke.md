@@ -1,6 +1,8 @@
 ---
 iso: nke
 name: Duke
+name_zh: 杜克语
+name_zh_auto: true
 autonym: Duke
 alt_names: [Kolombangara, Ndughore, Nduke]
 population: 2310

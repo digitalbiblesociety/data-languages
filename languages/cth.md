@@ -1,6 +1,8 @@
 ---
 iso: cth
 name: Thaiphum Chin
+name_zh: 泰芬钦语
+name_zh_auto: true
 autonym: Thui Phum
 alt_names: ["Chin, Thaiphum"]
 population: 1000

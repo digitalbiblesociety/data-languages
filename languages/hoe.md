@@ -1,6 +1,8 @@
 ---
 iso: hoe
 name: Horom
+name_zh: 霍罗姆语
+name_zh_auto: true
 autonym: Horom
 alt_names: ["\"Kaleri\"", Kaleri]
 population: 1500

@@ -1,6 +1,8 @@
 ---
 iso: kzl
 name: Kayeli
+name_zh: 卡耶利语
+name_zh_auto: true
 autonym: Bahasa Kayeli
 alt_names: [Caeli, Cajeli, Gaeli, Kajeli, Liliali]
 population: 800

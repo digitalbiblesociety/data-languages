@@ -1,6 +1,8 @@
 ---
 iso: biq
 name: Bipi
+name_zh: 比皮语
+name_zh_auto: true
 autonym: "Sisi-Bipi"
 alt_names: [Admiralitäts-inseln]
 population: 1200

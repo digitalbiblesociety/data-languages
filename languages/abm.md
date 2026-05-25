@@ -1,6 +1,8 @@
 ---
 iso: abm
 name: Abanyom
+name_zh: 阿班约姆语
+name_zh_auto: true
 autonym: Bakor
 alt_names: [Abanjom, Abanjommál, Abanyom jezik, Abanyum, Befun, Bofon, Lenga Abanyom, Lingua abanyom, Mbofon, அபன்யோம் மொழி]
 population: 12500

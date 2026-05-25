@@ -1,6 +1,8 @@
 ---
 iso: kes
 name: Kugbo
+name_zh: 库格博语
+name_zh_auto: true
 autonym: null
 alt_names: [Nigeria]
 population: 2000

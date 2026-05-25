@@ -1,6 +1,8 @@
 ---
 iso: rkh
 name: "Rakahanga-Manihiki"
+name_zh: 拉卡汉加-马尼希基语
+name_zh_auto: true
 autonym: "Manihiki-Rakahanga"
 alt_names: [Manihiki, Rakahanga-manihikin kieli]
 population: 2500

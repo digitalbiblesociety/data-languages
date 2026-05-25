@@ -1,6 +1,8 @@
 ---
 iso: juw
 name: Wãpha
+name_zh: 瓦菲语
+name_zh_auto: true
 autonym: Wase
 alt_names: [Jukun Wase, Wapha, Wase Tofa]
 population: 1610

@@ -1,6 +1,8 @@
 ---
 iso: lmp
 name: Limbum
+name_zh: 林布姆语
+name_zh_auto: true
 autonym: Limbum
 alt_names: [Bojiin, Kambu, Limbom, Llimbumi, Ndzungle, Ndzungli, Njungene, Nsungali, Nsungli, Nsungni, Wimbum]
 population: 130000

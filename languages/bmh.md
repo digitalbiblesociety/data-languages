@@ -1,6 +1,8 @@
 ---
 iso: bmh
 name: Kein
+name_zh: 凯因语
+name_zh_auto: true
 autonym: Bemal
 population: 1750
 country_id: PG

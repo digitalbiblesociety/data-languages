@@ -1,6 +1,8 @@
 ---
 iso: zkn
 name: Kanan
+name_zh: 卡南语
+name_zh_auto: true
 autonym: Kanan
 population: 9000
 country_id: MM

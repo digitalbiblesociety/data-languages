@@ -1,6 +1,8 @@
 ---
 iso: jmi
 name: Jimi (Nigeria)
+name_zh: 吉米语（尼日利亚）
+name_zh_auto: true
 autonym: "Bi-Gimu"
 alt_names: [Jimi, Jimi language]
 population: 1000

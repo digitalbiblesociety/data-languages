@@ -1,6 +1,8 @@
 ---
 iso: pty
 name: Pathiya
+name_zh: 帕蒂亚语
+name_zh_auto: true
 autonym: null
 population: 1000
 country_id: IN

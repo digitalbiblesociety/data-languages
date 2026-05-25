@@ -1,6 +1,8 @@
 ---
 iso: qul
 name: North Bolivian Quechua
+name_zh: 北玻利维亚克丘亚语
+name_zh_auto: true
 autonym: North La Paz Quechua
 alt_names: [Bolivia Quechua, Bolivian Quechua, Boliviano, Northern Bolivian Quechua, Quechua (Bolivian), Quechua boliviano meridional, Quechua boliviano septentrional, Quechua bolivien du nord, Quechua bolivien du sud, "Quechua, North Bolivian"]
 population: 116000

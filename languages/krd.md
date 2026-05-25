@@ -1,6 +1,8 @@
 ---
 iso: krd
 name: "Kairui-Midiki"
+name_zh: 开鲁伊-米迪基语
+name_zh_auto: true
 autonym: Cairui
 alt_names: [Midiki]
 population: 2000

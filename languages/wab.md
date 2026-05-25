@@ -1,6 +1,8 @@
 ---
 iso: wab
 name: Wab
+name_zh: 瓦布语
+name_zh_auto: true
 autonym: Som
 alt_names: [Yote]
 population: 120

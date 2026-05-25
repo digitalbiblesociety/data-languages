@@ -1,6 +1,8 @@
 ---
 iso: rmx
 name: Romam
+name_zh: 罗玛语
+name_zh_auto: true
 autonym: Ro Mam
 alt_names: [Lamam]
 population: 250

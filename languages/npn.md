@@ -1,6 +1,8 @@
 ---
 iso: npn
 name: Mondropolon
+name_zh: 蒙德罗波隆语
+name_zh_auto: true
 autonym: null
 alt_names: [Admiralitäts-inseln]
 population: 300

@@ -1,6 +1,8 @@
 ---
 iso: tbc
 name: Takia
+name_zh: 塔基亚语
+name_zh_auto: true
 autonym: null
 population: 25000
 country_id: PG

@@ -1,6 +1,8 @@
 ---
 iso: ccj
 name: Kasanga
+name_zh: 卡桑加语
+name_zh_auto: true
 autonym: Cassanga
 alt_names: [Haal, I-Hadja, Kassanga]
 population: 690

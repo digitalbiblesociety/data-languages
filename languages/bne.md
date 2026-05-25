@@ -1,6 +1,8 @@
 ---
 iso: bne
 name: Bintauna
+name_zh: 宾陶纳语
+name_zh_auto: true
 autonym: Bintaoena
 population: 12000
 country_id: ID

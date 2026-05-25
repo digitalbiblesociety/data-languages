@@ -1,6 +1,8 @@
 ---
 iso: kva
 name: Bagvalal
+name_zh: 巴格瓦拉尔语
+name_zh_auto: true
 autonym: Bagulal
 alt_names: [Bagval, Bagvalaleg, Bagvalin, Bagvalin kieli, Bagwalal, Barbalin, Język bagulalski, Kvanada, Kvanadin, Багвалинська мова, багвалинский язык, багулальский язык, кванадинский язык, ბაგვალალური ენა]
 population: 6500

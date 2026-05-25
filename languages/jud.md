@@ -1,6 +1,8 @@
 ---
 iso: jud
 name: Worodougou
+name_zh: 沃罗都古语
+name_zh_auto: true
 autonym: Malinke
 alt_names: [Bakokan, Ouorodougou, Worodougou Jula, Worodougoukakan, Worodugu]
 population: 115000

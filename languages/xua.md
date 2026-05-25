@@ -1,6 +1,8 @@
 ---
 iso: xua
 name: Alu Kurumba
+name_zh: 阿鲁-库鲁姆巴语
+name_zh_auto: true
 autonym: Alu Kurumba Nonstandard Kannada
 alt_names: [Alu, Hal Kurumba, Kurumba, "Kurumba, Alu", Pal Kurumba]
 population: 2500

@@ -1,6 +1,8 @@
 ---
 iso: nss
 name: Nali
+name_zh: 纳利语
+name_zh_auto: true
 autonym: null
 alt_names: [Admiralitäts-inseln, Yiru]
 population: 2900

@@ -1,6 +1,8 @@
 ---
 iso: tgd
 name: Ciwogai
+name_zh: 西沃盖语
+name_zh_auto: true
 autonym: Tsagu
 alt_names: [Sago]
 population: 2000

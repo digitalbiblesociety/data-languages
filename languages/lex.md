@@ -1,6 +1,8 @@
 ---
 iso: lex
 name: Luang
+name_zh: 卢昂语
+name_zh_auto: true
 autonym: Literi Lagona
 alt_names: [Letri Lgona, Lgona, Wetan]
 population: 18000

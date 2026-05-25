@@ -1,6 +1,8 @@
 ---
 iso: gbv
 name: Gbanu
+name_zh: 加巴努语
+name_zh_auto: true
 autonym: Banu
 alt_names: ["'Bokoto", Gbanou, Gbaya, Gbeya, Kara, Southern Gbaya, Suma]
 population: 95000

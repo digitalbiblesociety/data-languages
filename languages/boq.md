@@ -1,6 +1,8 @@
 ---
 iso: boq
 name: Bogaya
+name_zh: 博盖亚语
+name_zh_auto: true
 autonym: Bogaya
 alt_names: [Bogaia, Pogaya]
 population: 300

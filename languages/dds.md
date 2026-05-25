@@ -1,6 +1,8 @@
 ---
 iso: dds
 name: Donno So Dogon
+name_zh: 多诺索多贡语
+name_zh_auto: true
 autonym: Kamba So
 alt_names: ["Dogon, Donno So", Donno So]
 population: 45300

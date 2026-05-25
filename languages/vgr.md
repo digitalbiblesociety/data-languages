@@ -1,6 +1,8 @@
 ---
 iso: vgr
 name: Vaghri
+name_zh: 瓦格里语
+name_zh_auto: true
 autonym: Bavri
 alt_names: [Salavta, Vaghri Koli]
 population: 10000

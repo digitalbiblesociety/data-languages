@@ -1,6 +1,8 @@
 ---
 iso: sgy
 name: Sanglechi
+name_zh: 桑格莱奇语
+name_zh_auto: true
 autonym: Dargi
 population: 2200
 country_id: AF

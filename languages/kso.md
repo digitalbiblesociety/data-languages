@@ -1,6 +1,8 @@
 ---
 iso: kso
 name: Kofa
+name_zh: 科法语
+name_zh_auto: true
 autonym: Gbwata
 population: 1100
 country_id: NG

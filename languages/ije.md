@@ -1,6 +1,8 @@
 ---
 iso: ije
 name: Biseni
+name_zh: 比塞尼语
+name_zh_auto: true
 autonym: Amegi
 alt_names: [Buseni, Northeast Central Ijo, Ịjọ]
 population: 4800

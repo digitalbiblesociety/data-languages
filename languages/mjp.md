@@ -1,6 +1,8 @@
 ---
 iso: mjp
 name: Malapandaram
+name_zh: 玛拉潘达拉姆语
+name_zh_auto: true
 autonym: Hill Pantaram
 alt_names: [Malapantaram, Malepantaram, Pandaram Basha]
 population: 5850

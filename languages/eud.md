@@ -1,6 +1,8 @@
 ---
 iso: eud
 name: Eudeve
+name_zh: 埃乌德韦语
+name_zh_auto: true
 autonym: Dóhmenerít
 alt_names: [Dohema, Endeve, Heve, Opata-Eudeve, Opatan]
 country_id: MX

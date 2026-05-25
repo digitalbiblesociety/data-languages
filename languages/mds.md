@@ -1,6 +1,8 @@
 ---
 iso: mds
 name: Maria (Papua New Guinea)
+name_zh: 玛丽亚语
+name_zh_auto: true
 autonym: Manubara
 alt_names: [Gebi, Maria, Maria language]
 population: 1350

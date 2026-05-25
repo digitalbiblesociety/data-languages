@@ -1,6 +1,8 @@
 ---
 iso: did
 name: Didinga
+name_zh: 迪丁加语
+name_zh_auto: true
 autonym: Lango
 alt_names: ["'Di'dinga", Toi, Xaroxa]
 population: 100000

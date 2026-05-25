@@ -1,6 +1,8 @@
 ---
 iso: nkq
 name: Nkami
+name_zh: 恩卡米语
+name_zh_auto: true
 autonym: null
 population: 7000
 country_id: GH

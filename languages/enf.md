@@ -1,6 +1,8 @@
 ---
 iso: enf
 name: Forest Enets
+name_zh: 森林埃涅茨语
+name_zh_auto: true
 autonym: Онэй база
 alt_names: [Bai Enets, Baicha-Dialekt, Bay Enets, Enec, Enets, Enets des forêts, "Enets, Forest", Enzisch, Eńeć, Jenisei, Jenisej-Samojedisch, Jenissei-Dialekt, Pe-Bae, Samojedi, Samojedimanzela, Yenets, Yenisei Samoyed, Yenisei Samoyedic, Yenisei Somoyed, Yenisey, Yenisey Samoyedic, Yenisey-Samoyedic, Yensisei-Samoyed, enete, enetj, enetsin kieli, enyec nyelv, iénisséi, "ona' bazaan", Éncico de los bosques, èncy, лесной энецкий, онаь базаан, пэ-бай]
 population: 198

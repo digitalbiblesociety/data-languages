@@ -1,6 +1,8 @@
 ---
 iso: yui
 name: Yurutí
+name_zh: 尤鲁蒂语
+name_zh_auto: true
 autonym: Wajiara
 alt_names: [Anana, Guanano, Juriti, Juriti-Tapuia, Juruti, Jurutí, Kotiria, Kótedia, Kótirya, Luruty-Tapuya, Luruty-Tapuya Juriti, Patsoka, Pira-Tapuya, Pira-tapuya (Colombia), Piratapuya (Brésil), Piratapuya (Colombie), Totsoca, Uaiana, Uaicana, Uaikena, Uainana, Uanana, Uiquina, Urubu-Tapuya, Wadzana, Waikana, Waikena, Waikhara, Waikina, Waikino, Waimasá, Waina, Wajiaraye, Wanana, Wanano-Piratapuyo, Wanâna, Wayhara, Yuriti, Yuruti, Yuruti-Tapuya, Yurutiye, Yurutí (Brésil), Yurutí (Colombia), Yurutí (Colombie), kotirya (Brésil), kotirya (Colombie), kótedia (Colombia)]
 population: 450

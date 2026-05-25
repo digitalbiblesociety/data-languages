@@ -1,6 +1,8 @@
 ---
 iso: neh
 name: Nyenkha
+name_zh: 尼扬卡语
+name_zh_auto: true
 autonym: Henkha
 alt_names: [Lap, Mangsdekha, Ngenkha, Nyg Ked, Nyn Kha]
 population: 10000

@@ -1,6 +1,8 @@
 ---
 iso: szp
 name: Suabo
+name_zh: 苏阿博语
+name_zh_auto: true
 autonym: Iagu
 alt_names: [Bira, Inanwatan, Itigo, Mirabo, Solowat, Suabau]
 population: 1100

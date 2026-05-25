@@ -1,6 +1,8 @@
 ---
 iso: bqw
 name: Buru (Nigeria)
+name_zh: 布鲁语（尼日利亚）
+name_zh_auto: true
 autonym: null
 alt_names: [Buru]
 population: 1000

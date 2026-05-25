@@ -1,6 +1,8 @@
 ---
 iso: lgg
 name: Lugbara
+name_zh: 卢格巴拉语
+name_zh_auto: true
 autonym: null
 alt_names: [High Lugbara, Logbara, Língua lugbara, Western, Лугбара јазик]
 population: 1940000

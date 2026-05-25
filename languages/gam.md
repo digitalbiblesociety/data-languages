@@ -1,6 +1,8 @@
 ---
 iso: gam
 name: Kandawo
+name_zh: 坎达沃语
+name_zh_auto: true
 autonym: Narake
 alt_names: [Gambera]
 population: 4000

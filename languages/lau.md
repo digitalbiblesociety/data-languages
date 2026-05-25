@@ -1,6 +1,8 @@
 ---
 iso: lau
 name: Laba
+name_zh: 拉巴语
+name_zh_auto: true
 autonym: Loda
 population: 2000
 country_id: ID

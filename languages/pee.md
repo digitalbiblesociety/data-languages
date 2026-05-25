@@ -1,6 +1,8 @@
 ---
 iso: pee
 name: Taje
+name_zh: 塔杰语
+name_zh_auto: true
 autonym: Petapa
 population: 350
 country_id: ID

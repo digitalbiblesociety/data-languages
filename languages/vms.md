@@ -1,6 +1,8 @@
 ---
 iso: vms
 name: Moksela
+name_zh: 莫克塞拉语
+name_zh_auto: true
 autonym: Maksela
 alt_names: [Opselan]
 population: null

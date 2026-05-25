@@ -1,6 +1,8 @@
 ---
 iso: gii
 name: Girirra
+name_zh: 吉里拉语
+name_zh_auto: true
 autonym: Af Girirra
 population: 50000
 country_id: ET

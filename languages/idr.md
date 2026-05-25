@@ -1,6 +1,8 @@
 ---
 iso: idr
 name: Indri
+name_zh: 印德里语
+name_zh_auto: true
 autonym: Yanderika
 alt_names: [Yandirika]
 population: 700

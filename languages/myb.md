@@ -1,6 +1,8 @@
 ---
 iso: myb
 name: Mbay
+name_zh: 姆贝语
+name_zh_auto: true
 autonym: Sara Mbay
 alt_names: [Mbai, Mbay Moissala, Mbaye, Moissala Mbai, Sara Mbai]
 population: 88300

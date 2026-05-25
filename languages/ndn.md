@@ -1,6 +1,8 @@
 ---
 iso: ndn
 name: Ngundi
+name_zh: 恩贡迪语
+name_zh_auto: true
 autonym: Ingundi
 alt_names: [Ngondi]
 population: 3000

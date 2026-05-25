@@ -1,6 +1,8 @@
 ---
 iso: jow
 name: Jowulu
+name_zh: 乔武卢语
+name_zh_auto: true
 autonym: Jɔ
 alt_names: [Jo, Samogho]
 population: 10000

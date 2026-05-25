@@ -1,6 +1,8 @@
 ---
 iso: smk
 name: Bolinao
+name_zh: 博利瑙语
+name_zh_auto: true
 autonym: "Binu-Bolinao"
 alt_names: [Binobolinao, Bolinao Sambal, Bolinao Zambal, Wikang Bolinao, ภาษาโบลิเนา, ボリナオ語]
 population: 51200

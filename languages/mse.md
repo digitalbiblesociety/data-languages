@@ -1,6 +1,8 @@
 ---
 iso: mse
 name: Musey
+name_zh: 穆塞语
+name_zh_auto: true
 autonym: Bananna
 alt_names: [Bananna Ho Ho, Mosi, Moussei, Moussey, Musaya, Musei, Museyna, Musiina, Musoi, Mussoi, Mussoy]
 population: 433000

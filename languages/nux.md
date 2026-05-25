@@ -1,6 +1,8 @@
 ---
 iso: nux
 name: Mehek
+name_zh: 梅赫克语
+name_zh_auto: true
 autonym: Driafleisuma
 alt_names: [Indinogosima, "Me'ek", Me’ek, Nuku]
 population: 6300

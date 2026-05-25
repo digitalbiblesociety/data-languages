@@ -1,6 +1,8 @@
 ---
 iso: kix
 name: Khiamniungan Naga
+name_zh: 基亚姆尼翁甘那加语
+name_zh_auto: true
 autonym: Aoshedd
 alt_names: [Kalyokengnyu, Khiamngan, Khiamniungan, Khiemnungan, Naga, "Naga, Khiamniungan", "Naga,Khiamniungan", Nokaw, Welam]
 population: 72000

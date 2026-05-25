@@ -1,6 +1,8 @@
 ---
 iso: aqz
 name: Akuntsu
+name_zh: 阿昆苏语
+name_zh_auto: true
 autonym: Akunsu
 alt_names: ["Akunts'u", Akuntsú]
 population: null

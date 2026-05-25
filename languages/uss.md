@@ -1,6 +1,8 @@
 ---
 iso: uss
 name: "us-Saare"
+name_zh: 乌斯-萨雷语
+name_zh_auto: true
 autonym: Duka
 population: 73000
 country_id: NG

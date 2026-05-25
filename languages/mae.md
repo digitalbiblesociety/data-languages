@@ -1,6 +1,8 @@
 ---
 iso: mae
 name: "Bo-Rukul"
+name_zh: 博-鲁库尔语
+name_zh_auto: true
 autonym: "Bo-Rukul"
 alt_names: ["\"Kaleri\"", Kaleri, Mabo-Barkul, Mabo-Barukul]
 population: 1000

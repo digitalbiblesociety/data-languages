@@ -1,6 +1,8 @@
 ---
 iso: sks
 name: Maia
+name_zh: 玛亚语
+name_zh_auto: true
 autonym: Pila
 alt_names: [Banar, Maya, Saki, Suaro, Turutap, Yakiba]
 population: 3712

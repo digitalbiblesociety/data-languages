@@ -1,6 +1,8 @@
 ---
 iso: nib
 name: Nakame
+name_zh: 纳卡梅语
+name_zh_auto: true
 autonym: Nakama
 population: 980
 country_id: PG

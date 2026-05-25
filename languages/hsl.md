@@ -1,6 +1,8 @@
 ---
 iso: hsl
 name: Hausa Sign Language
+name_zh: 豪萨手语
+name_zh_auto: true
 autonym: Kano Sign Language
 alt_names: [Língua Gestual Hausa, Maganar Bebaye, Maganar Hannu]
 population: 20000

@@ -1,6 +1,8 @@
 ---
 iso: gnr
 name: Gureng Gureng
+name_zh: 古伦古伦语
+name_zh_auto: true
 autonym: "Gureng-Gureng"
 alt_names: [Corine, Curang Curang, Curang gurang, Curang-gurang, Curanggurang, GOORENG GOORENG, Goeng, Goonine, Goorang Goorang, Goorang-goorang, Gooranggorang, Goreng Goreng, Gurang, Gurang Gurang, Gurang-gurang, Guranggurang, Gureng gureng Curang gurang, Gurenggureng, Gurreng Gurreng, Kooranga, Koreng, Koreng Goreng, Koreng Koreng, Koreng-koreng, Korenggoreng, Korrengkorreng, Korrlup, Kuriny, Kurranga, Maroonee, Meeroni, Meerooni, Qualup tribe, Taribulung, Tulua, Warangu, Wide Bay tribe, Yamma, YungkonoCaracterrup]
 population: null

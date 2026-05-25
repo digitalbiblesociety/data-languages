@@ -1,6 +1,8 @@
 ---
 iso: lcl
 name: Lisela
+name_zh: 利塞拉语
+name_zh_auto: true
 autonym: bahasa Lisela
 alt_names: [Buru, Li Enyorot, Liet Enjorot, North Buru, Wayapo]
 population: 11900

@@ -1,6 +1,8 @@
 ---
 iso: pym
 name: Fyam
+name_zh: 菲亚姆语
+name_zh_auto: true
 autonym: Pyem
 alt_names: [Fem, Fyem, Genawa, Gyem, Gyema, Paiem, Pem]
 population: 31000

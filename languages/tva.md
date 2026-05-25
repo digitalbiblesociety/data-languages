@@ -1,6 +1,8 @@
 ---
 iso: tva
 name: Vaghua
+name_zh: 瓦古亚语
+name_zh_auto: true
 autonym: Tavula
 alt_names: [Tavola, Vagua]
 population: 1960

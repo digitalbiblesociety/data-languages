@@ -1,6 +1,8 @@
 ---
 iso: txa
 name: Tombonuo
+name_zh: 通博努奥语
+name_zh_auto: true
 autonym: Lobu
 alt_names: [Paitan, Sungai, Sungei, Tambanua, Tambanuo, Tambanuva, Tambanwas, Tambenua, Tambunwas, Tembenua, Tombonuva, Tombonuwo, Tumbunwha, Tunbumohas]
 population: 10000

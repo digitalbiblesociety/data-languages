@@ -1,6 +1,8 @@
 ---
 iso: anl
 name: "Anu-Hkongso Chin"
+name_zh: 安努-恒贡索秦语
+name_zh_auto: true
 autonym: "Anu "
 alt_names: [Añú, "Chin, Anu-Hkongso"]
 population: 4000

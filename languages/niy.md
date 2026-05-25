@@ -1,6 +1,8 @@
 ---
 iso: niy
 name: Ngiti
+name_zh: 恩吉蒂语
+name_zh_auto: true
 autonym: South Lendu
 alt_names: [Balendru, Bindi, Dru, Druna, Kingeti, Kingiti, Lendu-Sud, Ndruna, Ngeti]
 population: 100000

@@ -1,6 +1,8 @@
 ---
 iso: luk
 name: Lunanakha
+name_zh: 龙纳卡语
+name_zh_auto: true
 autonym: ལུང་ནག་ན་ཁ་
 alt_names: [Bhutan]
 population: 700

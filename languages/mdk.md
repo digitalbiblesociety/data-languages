@@ -1,6 +1,8 @@
 ---
 iso: mdk
 name: Mangbutu
+name_zh: 曼古布图语
+name_zh_auto: true
 autonym: "Mangu-Ngutu"
 alt_names: [Mombuttu, Wambutu]
 population: 1200

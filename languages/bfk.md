@@ -1,6 +1,8 @@
 ---
 iso: bfk
 name: Ban Khor Sign Language
+name_zh: 班柯手语
+name_zh_auto: true
 autonym: Pasa Kidd
 population: 400
 country_id: TH

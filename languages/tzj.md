@@ -1,6 +1,8 @@
 ---
 iso: tzj
 name: "Tz'utujil"
+name_zh: 茨乌图希尔语
+name_zh_auto: true
 autonym: Tzʼutujiil
 alt_names: [Santiago AtitlÃ¡n Tzutujil, "Tz'utujil, Eastern", Tzutuhil, Tzutujil, Tzutujil Oriental, Tz’utujil, Zutuguilés]
 population: 106000

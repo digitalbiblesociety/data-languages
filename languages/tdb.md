@@ -1,6 +1,8 @@
 ---
 iso: tdb
 name: Panchpargania
+name_zh: 潘奇帕尔甘尼亚语
+name_zh_auto: true
 autonym: Panchpargania
 alt_names: [Bedia, Chik Barik, Pan, Pan Sawasi, Tair, Tamara, Tamaria, Tanti, Temoral, Tumariya]
 population: 257000

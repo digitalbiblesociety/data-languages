@@ -1,6 +1,8 @@
 ---
 iso: kpa
 name: Kutto
+name_zh: 库托语
+name_zh_auto: true
 autonym: Kupto
 alt_names: [Kúttò]
 population: 3000

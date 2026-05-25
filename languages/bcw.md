@@ -1,6 +1,8 @@
 ---
 iso: bcw
 name: Bana
+name_zh: 巴纳语
+name_zh_auto: true
 autonym: koma kabana
 alt_names: [Bana jezik, Banaeg, Baza, Ka-Bana, Koma, Mbana, Mizeran, Parole des Bana]
 population: 23000

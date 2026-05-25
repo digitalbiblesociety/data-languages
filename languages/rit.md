@@ -1,6 +1,8 @@
 ---
 iso: rit
 name: Ritharrngu
+name_zh: 里塔尔尼古语
+name_zh_auto: true
 autonym: Ritarungo
 alt_names: [Buranad-jini, Dhiyakuy, Diakui, Dijogoi, Djikai, Jikai, Ridarngo, Ridarngu, Ridarno, Ridharrngu, Ritar-ingo, Ritaringo, Ritarngo, Ritarngu, Ritarnugu, Ritarrngu, Ritharingau, Ritharngu, Ritharrŋu, Rittarungo, Tchikai, Wagelak, Wawilag, Yakuy]
 population: null

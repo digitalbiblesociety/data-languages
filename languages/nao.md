@@ -1,6 +1,8 @@
 ---
 iso: nao
 name: Naaba
+name_zh: 纳巴语
+name_zh_auto: true
 autonym: Naapa
 alt_names: [Naapaa, Naba, Nawa Sherpa, Sherpa]
 population: 770

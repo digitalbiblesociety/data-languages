@@ -1,6 +1,8 @@
 ---
 iso: bmp
 name: Bulgebi
+name_zh: 布尔盖比语
+name_zh_auto: true
 autonym: null
 population: 125
 country_id: PG

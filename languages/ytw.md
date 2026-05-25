@@ -1,6 +1,8 @@
 ---
 iso: ytw
 name: Yout Wam
+name_zh: 尤特-瓦姆语
+name_zh_auto: true
 autonym: Gabutamon
 population: null
 country_id: PG

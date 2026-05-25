@@ -1,6 +1,8 @@
 ---
 iso: dkr
 name: Kuijau
+name_zh: 库伊尧语
+name_zh_auto: true
 autonym: Hill Dusun
 alt_names: [Kijau, Koijoe, Kuiyow, Kujau, Kuliow, Kuriyo, Kwijau, Menindal, Menindaq, Minansut, Tidung, Tindal]
 population: 7910

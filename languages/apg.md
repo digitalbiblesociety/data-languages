@@ -1,6 +1,8 @@
 ---
 iso: apg
 name: Ampanang
+name_zh: 安帕南语
+name_zh_auto: true
 autonym: Behasa Ampanang
 population: 30000
 country_id: ID

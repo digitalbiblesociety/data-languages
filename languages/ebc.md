@@ -1,6 +1,8 @@
 ---
 iso: ebc
 name: "Beginci\r"
+name_zh: 贝金西语
+name_zh_auto: true
 autonym: bahasa Beginci
 alt_names: [Beginci]
 population: 7500

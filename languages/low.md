@@ -1,6 +1,8 @@
 ---
 iso: low
 name: Tampias Lobu
+name_zh: 坦皮亚斯洛布语
+name_zh_auto: true
 autonym: Lobu
 alt_names: ["Lobu, Tampias", Malaysia]
 population: 1800

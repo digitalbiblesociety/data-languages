@@ -1,6 +1,8 @@
 ---
 iso: imi
 name: Anamgura
+name_zh: 阿纳姆古拉语
+name_zh_auto: true
 autonym: Ikundun
 alt_names: [Anamuxra, Mindivi]
 population: 1250

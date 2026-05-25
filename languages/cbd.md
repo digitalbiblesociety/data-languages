@@ -1,6 +1,8 @@
 ---
 iso: cbd
 name: Carijona
+name_zh: 卡里霍纳语
+name_zh_auto: true
 autonym: Hianacoto
 alt_names: [Carifuna, Carihona, Guaque, Hianacoto-Umaua, Hianakoto, Hianácoto, Hianákoto, Huaque, Jianacoto, Jianácoto, Kaliohona, Karihona, Karijona, Koto, Omagua, Umaua, Umawa]
 population: 310

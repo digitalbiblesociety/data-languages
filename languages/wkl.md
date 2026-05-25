@@ -1,6 +1,8 @@
 ---
 iso: wkl
 name: Kalanadi
+name_zh: 卡拉纳迪语
+name_zh_auto: true
 autonym: null
 population: 750
 country_id: IN

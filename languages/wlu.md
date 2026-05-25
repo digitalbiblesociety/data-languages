@@ -1,6 +1,8 @@
 ---
 iso: wlu
 name: Wuliwuli
+name_zh: 武利武利语
+name_zh_auto: true
 autonym: "Wuli Wuli, Wulli Wulli"
 alt_names: [Wilili, Wililililee, Willillee, Wuli Wuli, Wuli-wuli, Wulili, Wulilli, Wulli Wulli]
 population: null

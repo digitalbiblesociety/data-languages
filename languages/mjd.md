@@ -1,6 +1,8 @@
 ---
 iso: mjd
 name: Northwest Maidu
+name_zh: 西北毛伊都语
+name_zh_auto: true
 autonym: "Koyoom k'awi"
 alt_names: ["\"Digger\"", Concow, "Digger\"\"", Holólupai, Konkau, Konkow, Konkow language, Maidu, Maidu (Northwest), "Maidu, Northwest", Maiduan, Maidú noroccidental, Meidoo, Michopdo, Northwest, Northwestern Maidu, Nákum, Secumne, Sekumne, Tsamak, Yuba]
 population: 200

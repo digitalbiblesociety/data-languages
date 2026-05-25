@@ -1,6 +1,8 @@
 ---
 iso: lum
 name: Luimbi
+name_zh: 卢因比语
+name_zh_auto: true
 autonym: Chiluimbi
 alt_names: [Luimbe, Lwimbe, Lwimbi]
 population: 43900

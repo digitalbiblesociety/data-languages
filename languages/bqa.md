@@ -1,6 +1,8 @@
 ---
 iso: bqa
 name: Tchumbuli
+name_zh: 楚姆布利语
+name_zh_auto: true
 autonym: Akan
 alt_names: [Basa, Chombulon, Tchombolo, Tshummbuli]
 population: 2500

@@ -1,6 +1,8 @@
 ---
 iso: bgy
 name: Benggoi
+name_zh: 本戈语
+name_zh_auto: true
 autonym: Bengoi
 alt_names: [Isal, Kobi-Benggoi, Uhei Kachlakan, Uhei-Kaclakin, Uhei-Kahlakim]
 population: 350

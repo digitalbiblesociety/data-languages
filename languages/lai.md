@@ -1,6 +1,8 @@
 ---
 iso: lai
 name: Lambya
+name_zh: 兰比亚语
+name_zh_auto: true
 autonym: Ichilambya
 alt_names: [Ici-Rambia, Icilambya, Iramba, Lambia, Lambwa, Rambia]
 population: 106900

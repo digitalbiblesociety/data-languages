@@ -1,6 +1,8 @@
 ---
 iso: duf
 name: Dumbea
+name_zh: 栋贝亚语
+name_zh_auto: true
 autonym: Naa Dubea
 alt_names: [Drubea, Drùbea, Dubea, Ndrumbea language, Ndumbea, Neukaledonien, Nââ drubea, Paita]
 population: 950

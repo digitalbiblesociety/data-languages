@@ -1,6 +1,8 @@
 ---
 iso: kzx
 name: Kamarian
+name_zh: 卡马里亚语
+name_zh_auto: true
 autonym: Kamariang
 alt_names: [Seruawan]
 population: null

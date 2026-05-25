@@ -1,6 +1,8 @@
 ---
 iso: awe
 name: Awetí
+name_zh: 阿韦蒂语
+name_zh_auto: true
 autonym: Awytyza ti’ingku
 alt_names: [Arauine, Arauite, Aueti, Aueto, Auetö, Auiti, Auití, Aweti, Awety, Awetö]
 population: 140

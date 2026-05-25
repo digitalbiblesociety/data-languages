@@ -1,6 +1,8 @@
 ---
 iso: dzl
 name: Dzalakha
+name_zh: 扎拉卡语
+name_zh_auto: true
 autonym: "Dzala 'Mat"
 alt_names: [Dzalamat, Yangtsebikha]
 population: 22000

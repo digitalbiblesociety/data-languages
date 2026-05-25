@@ -1,6 +1,8 @@
 ---
 iso: suq
 name: Suri
+name_zh: 苏里语
+name_zh_auto: true
 autonym: Surma
 alt_names: [Chai, Churi, Cirma, Dhuri, Dirma, Eastern Suri, Shuri, Shuro, "Suri, Tirmaga-Chai", Terema, Terna, Tid, Tirima, Tirma, Tirmaga, Tirmaga-Chai Suri, Tirmagi]
 population: 18640

@@ -1,6 +1,8 @@
 ---
 iso: rmu
 name: Tavringer Romani
+name_zh: 塔夫林格罗姆语
+name_zh_auto: true
 autonym: Tater Language
 alt_names: ["\"Tattare\"", Romani rakripa, "Romani, Tavringer", Rommani, Scandinavisch Romani, Scandoromani language, Skandinavisches Romani, Skando-romski jezik, Svensk Rommani, Svensk romani, Traveller Swedish]
 population: 25000

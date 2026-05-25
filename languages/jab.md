@@ -1,6 +1,8 @@
 ---
 iso: jab
 name: Hyam
+name_zh: 海亚姆语
+name_zh_auto: true
 autonym: Jabba
 alt_names: [Geba, Ham, Hyamhum, Jaba, Jeba]
 population: 300000

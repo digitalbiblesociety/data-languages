@@ -1,6 +1,8 @@
 ---
 iso: rkb
 name: Rikbaktsa
+name_zh: 里克巴克特萨语
+name_zh_auto: true
 autonym: erigpaksá
 alt_names: [Aripaktsa, Aripaktsá, Canoeiro, Caoeiro, Eribatsa, Erikbatsa, Erikpatsa, Eripatsa, Rikbaktsá]
 population: 910

@@ -1,6 +1,8 @@
 ---
 iso: tey
 name: Tulishi
+name_zh: 图利希语
+name_zh_auto: true
 autonym: Kuntulishi
 alt_names: [Thulishi, Tulesh, Tuleshi]
 population: 2500

@@ -1,6 +1,8 @@
 ---
 iso: mjh
 name: Mwera (Nyasa)
+name_zh: 姆韦拉语（尼亚萨）
+name_zh_auto: true
 autonym: Nyasa
 alt_names: [Kinyasa, Mwera, Nyanza]
 population: 6000

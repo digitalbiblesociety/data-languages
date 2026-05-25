@@ -1,6 +1,8 @@
 ---
 iso: sob
 name: Sobei
+name_zh: 索贝伊语
+name_zh_auto: true
 autonym: Biga
 alt_names: [Imasi, Liki]
 population: 1000

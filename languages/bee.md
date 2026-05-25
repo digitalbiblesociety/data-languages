@@ -1,6 +1,8 @@
 ---
 iso: bee
 name: Byangsi
+name_zh: 比扬西语
+name_zh_auto: true
 autonym: Byangkho Lwo
 alt_names: [Bhotia, Byangkhopa, Byanshi, Byansi, Byasi, Byāngsī, Jaba, Rang, Saukas, Shaukas]
 population: 2830

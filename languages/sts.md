@@ -1,6 +1,8 @@
 ---
 iso: sts
 name: Shumashti
+name_zh: 舒玛什蒂语
+name_zh_auto: true
 autonym: Shumasht
 alt_names: [Chumashtí, Dardu, Šumāštī, ภาษาสุมัสติ]
 population: 1000

@@ -1,6 +1,8 @@
 ---
 iso: ktj
 name: Plapo Krumen
+name_zh: 普拉波克鲁门语
+name_zh_auto: true
 autonym: Plapo
 alt_names: [Krumen, "Krumen, Plapo"]
 population: 100

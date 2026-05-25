@@ -1,6 +1,8 @@
 ---
 iso: aui
 name: Anuki
+name_zh: 阿努基语
+name_zh_auto: true
 autonym: null
 alt_names: [Gabobora]
 population: 900

@@ -1,6 +1,8 @@
 ---
 iso: ssq
 name: "So'a"
+name_zh: 索阿语
+name_zh_auto: true
 autonym: Soa
 population: 10000
 country_id: ID

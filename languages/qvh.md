@@ -1,6 +1,8 @@
 ---
 iso: qvh
 name: "Huamalíes-Dos de Mayo Huánuco Quechua"
+name_zh: 瓦马利埃斯-多斯德梅约瓦努科克丘亚语
+name_zh_auto: true
 autonym: Huaylay
 alt_names: [Alto Pativilca, Chiquian-Bolognesi and Cajatambo Quechua, Huallaga Quechua, Huamalies-Dos de Mayo Huanuco Quechua, Quechua, Quechua (Huallaga), "Quechua, Huamalíes-Dos de Mayo Huánuco"]
 population: 80000

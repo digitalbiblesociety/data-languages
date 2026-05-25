@@ -1,6 +1,8 @@
 ---
 iso: nlu
 name: Nchumbulu
+name_zh: 恩乔姆布卢语
+name_zh_auto: true
 autonym: Nchumbulu
 alt_names: [Guang]
 population: 1800

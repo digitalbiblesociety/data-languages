@@ -1,6 +1,8 @@
 ---
 iso: ksv
 name: Kusu
+name_zh: 库苏语
+name_zh_auto: true
 autonym: Fuluka
 alt_names: [Kikusu, Kongola, Kutsu, Lokutsu]
 population: 100000

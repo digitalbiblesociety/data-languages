@@ -1,6 +1,8 @@
 ---
 iso: ska
 name: Skagit
+name_zh: 斯卡吉特语
+name_zh_auto: true
 autonym: "Skagit-Nisqually"
 population: 100
 country_id: US

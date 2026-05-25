@@ -1,6 +1,8 @@
 ---
 iso: juh
 name: Hõne
+name_zh: 霍内语
+name_zh_auto: true
 autonym: null
 alt_names: [Gaateri, Hone, Kona Jukun, Nigeria, Pindiga-Jukun, Wapan Gwana]
 population: 7000

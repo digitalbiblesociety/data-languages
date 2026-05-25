@@ -1,6 +1,8 @@
 ---
 iso: tfi
 name: Tofin Gbe
+name_zh: 托芬格贝语
+name_zh_auto: true
 autonym: Toffi
 alt_names: [Benin, "Gbe, Tofin"]
 population: 143000

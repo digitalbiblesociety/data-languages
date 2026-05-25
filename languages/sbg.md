@@ -1,6 +1,8 @@
 ---
 iso: sbg
 name: Seget
+name_zh: 塞格特语
+name_zh_auto: true
 autonym: null
 alt_names: [Indonesia]
 population: 1200

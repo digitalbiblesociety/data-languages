@@ -1,6 +1,8 @@
 ---
 iso: bpc
 name: Mbuk
+name_zh: 姆布克语
+name_zh_auto: true
 autonym: Mboko
 population: 600
 country_id: CM

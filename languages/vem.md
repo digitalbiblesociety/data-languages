@@ -1,6 +1,8 @@
 ---
 iso: vem
 name: "Vemgo-Mabas"
+name_zh: 韦姆戈-玛巴斯语
+name_zh_auto: true
 autonym: null
 alt_names: [Mabas]
 population: 10000

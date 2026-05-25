@@ -1,6 +1,8 @@
 ---
 iso: brk
 name: Birked
+name_zh: 比尔克德语
+name_zh_auto: true
 autonym: Birgid
 alt_names: [Birguid, Birkit, Birqed, Kajjara, Murgi]
 population: null

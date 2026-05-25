@@ -1,6 +1,8 @@
 ---
 iso: sjb
 name: Sajau Basap
+name_zh: 萨考巴萨普语
+name_zh_auto: true
 autonym: " Sajau-Latti"
 alt_names: [Sajau, Sujau]
 population: 6000

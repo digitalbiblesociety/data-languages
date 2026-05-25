@@ -1,6 +1,8 @@
 ---
 iso: kly
 name: Kalao
+name_zh: 卡劳语
+name_zh_auto: true
 autonym: Kalaotoa
 alt_names: [Lambego]
 population: 500

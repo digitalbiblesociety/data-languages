@@ -1,6 +1,8 @@
 ---
 iso: hem
 name: Hemba
+name_zh: 海姆巴语
+name_zh_auto: true
 autonym: Eastern Luba
 alt_names: [Emba, Kiemba, Kihemba, Kiluba-Hemba, Luba-Hemba]
 population: 181000

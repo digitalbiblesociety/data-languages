@@ -1,6 +1,8 @@
 ---
 iso: lcs
 name: "Lisabata-Nuniali"
+name_zh: 利萨巴塔-努尼亚利语
+name_zh_auto: true
 autonym: Lisabata
 alt_names: [Noniali, Nuniali]
 population: 1830

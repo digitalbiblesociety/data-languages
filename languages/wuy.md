@@ -1,6 +1,8 @@
 ---
 iso: wuy
 name: Wauyai
+name_zh: 瓦乌亚伊语
+name_zh_auto: true
 autonym: null
 alt_names: [Indonesia]
 population: 300

@@ -1,6 +1,8 @@
 ---
 iso: amf
 name: "Hamer-Banna"
+name_zh: 哈默-班纳语
+name_zh_auto: true
 autonym: Banna
 alt_names: ["\"etc.\"", Amar, Amarcocche, Amer, Ammar, Bana, Beshada, Cocche, Hamar, Hamar-Koke, Hamer, Hamer-Bana-Kara, Hamer-Banna jezik, Hammer, Hammercoche, Kara Kerre, Karo, Luenga amer-banna]
 population: 74400

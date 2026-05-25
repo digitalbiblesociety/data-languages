@@ -1,6 +1,8 @@
 ---
 iso: mhw
 name: Mbukushu
+name_zh: 姆布库苏语
+name_zh_auto: true
 autonym: Thimbukushu
 alt_names: [Cusso, Gova, Kusso, Mambukush, Mampukush, Mbukuhu, Mbukushi]
 population: 88300

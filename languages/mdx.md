@@ -1,6 +1,8 @@
 ---
 iso: mdx
 name: Dizin
+name_zh: 迪津语
+name_zh_auto: true
 autonym: Dizi
 alt_names: [Dizi jezik, Dizi-Maji, Dizu, Maji, Sizi, Twoyu]
 population: 33900

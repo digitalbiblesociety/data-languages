@@ -1,6 +1,8 @@
 ---
 iso: bux
 name: Boghom
+name_zh: 博戈姆语
+name_zh_auto: true
 autonym: Bogghom
 alt_names: [Bogham, Boghorom, Bohom, Bokiyim, Borrom, Burma, Burom, Burrum, Burum, Kir, Kir-Balar, Kirr, Larbawa, Saya Group C, Zaar Group C]
 population: 50000

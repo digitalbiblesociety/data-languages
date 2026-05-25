@@ -1,6 +1,8 @@
 ---
 iso: waw
 name: Waiwai
+name_zh: 瓦伊瓦伊语
+name_zh_auto: true
 autonym: Ouayeone
 alt_names: [Katawiana, Parukota, Parukotó, Tunayana, Tunayana (Guyane), Uai Uai, Uaieue, Uaiuai, Wabui, Wai Wai, Waiwai (Brésil), Waiwai (Surinam), Waiwai (Suriname)]
 population: 2910

@@ -1,6 +1,8 @@
 ---
 iso: kda
 name: Worimi
+name_zh: 沃里米语
+name_zh_auto: true
 autonym: Gadhang
 alt_names: [Bahree, Birbay, Biribi, Birippi, Birpai, Birrapee, Birripai, Birrpayi, Bripi, Carapath, Cottong, Gadang, Gadjang, Gingai, Gooreenggai, Gringai, Gutthan, Karrapath, Kattang, Kutthack, Kutthung, Lenga worimi, Molo, Port Stephens tribe, Pt. Stevens tribe, Wannungine, Warimi, Warramie, Warrangine, Warrimay, Warrimay tribe, Warrimee, Warrimi, Watthungk, Wattung]
 population: null

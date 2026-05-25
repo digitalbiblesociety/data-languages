@@ -1,6 +1,8 @@
 ---
 iso: nhi
 name: "Zacatlán-Ahuacatlán-Tepetzintla Nahuatl"
+name_zh: 萨卡特兰纳瓦特尔语
+name_zh_auto: true
 autonym: masehual tla’tol (ncj)
 alt_names: [Eastern Nawa, Mexicano, Nahua de la Huasteca, Nahuatl, "Nahuatl, Tenango", "Nahuatl, Zacatlán-Ahuacatlán-Tepetzintla", Náhuatl du Huasteca, San Miguel Tenango Náhuatl, Tenango Aztec, Zacatlan-Ahuacatlan-Tepetzintla Nahuatl]
 population: 17100

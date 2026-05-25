@@ -1,6 +1,8 @@
 ---
 iso: kdz
 name: Kwaja
+name_zh: 科瓦贾语
+name_zh_auto: true
 autonym: null
 alt_names: [Cameroon]
 population: 2980

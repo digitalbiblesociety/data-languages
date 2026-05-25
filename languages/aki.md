@@ -1,6 +1,8 @@
 ---
 iso: aki
 name: Aiome
+name_zh: 艾欧梅语
+name_zh_auto: true
 autonym: Ayom
 population: 750
 country_id: PG

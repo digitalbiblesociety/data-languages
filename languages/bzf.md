@@ -1,6 +1,8 @@
 ---
 iso: bzf
 name: Boikin
+name_zh: 博伊金语
+name_zh_auto: true
 autonym: Boiken
 alt_names: [Nucum, Yangoru, Yengoru]
 population: 35000

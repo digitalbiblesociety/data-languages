@@ -1,6 +1,8 @@
 ---
 iso: buy
 name: Bullom So
+name_zh: 布罗姆索语
+name_zh_auto: true
 autonym: Bolom
 alt_names: [Bulem, Bullin, Bullom, Bullun, Bulom, Mandenyi, Mandingi, Mani, Mmani, Northern Bullom, Soeg]
 population: 8350

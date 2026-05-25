@@ -1,6 +1,8 @@
 ---
 iso: jnd
 name: Jandavra
+name_zh: 詹达夫拉语
+name_zh_auto: true
 autonym: Jhandoria
 population: 5000
 country_id: PK

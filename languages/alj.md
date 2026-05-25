@@ -1,6 +1,8 @@
 ---
 iso: alj
 name: Alangan
+name_zh: 阿兰甘语
+name_zh_auto: true
 autonym: null
 alt_names: [Alangan jezik, Lingua alangan, Wikang Alangan]
 population: 14600

@@ -1,6 +1,8 @@
 ---
 iso: nle
 name: East Nyala
+name_zh: 东尼亚拉语
+name_zh_auto: true
 autonym: Luyia
 alt_names: ["Nyala, East"]
 population: 227000

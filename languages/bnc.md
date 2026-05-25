@@ -1,6 +1,8 @@
 ---
 iso: bnc
 name: Bontok
+name_zh: 邦托克语
+name_zh_auto: true
 autonym: Finallig
 population: null
 country_id: PH

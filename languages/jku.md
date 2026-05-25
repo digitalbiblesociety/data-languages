@@ -1,6 +1,8 @@
 ---
 iso: jku
 name: Labir
+name_zh: 拉比尔语
+name_zh_auto: true
 autonym: Jaku
 alt_names: [Jakanci, Jakun]
 population: 13000

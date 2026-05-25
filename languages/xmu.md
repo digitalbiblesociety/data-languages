@@ -1,6 +1,8 @@
 ---
 iso: xmu
 name: Kamu
+name_zh: 卡姆语
+name_zh_auto: true
 autonym: Gamor
 alt_names: [Eastern Daly language, Gamu, Gamu/Kamor, Gamy, Junggor, Kamor, Kamorrkir, Kapsiki, Komorrkir, Madngela, Malak Malak, Matngela, Mulluk Mulluk, Murra Kamangee, Ngangigamor, Ngangigmor, Ngulul Wanggar, Psikye, Wooliana, Yunggor]
 population: null

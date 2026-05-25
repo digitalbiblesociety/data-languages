@@ -1,6 +1,8 @@
 ---
 iso: mwz
 name: Moingi
+name_zh: 莫因吉语
+name_zh_auto: true
 autonym: null
 alt_names: [Democratic Republic of the Congo]
 population: 4200

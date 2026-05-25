@@ -1,6 +1,8 @@
 ---
 iso: biv
 name: Southern Birifor
+name_zh: 南比里福语
+name_zh_auto: true
 autonym: Birifo
 alt_names: ["Birifor, Southern", Ghana Birifor]
 population: 187310

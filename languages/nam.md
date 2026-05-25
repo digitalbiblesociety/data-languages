@@ -1,6 +1,8 @@
 ---
 iso: nam
 name: "Ngan'gityemerri"
+name_zh: 恩冈吉蒂耶梅里语
+name_zh_auto: true
 autonym: Nangikurrunggurr
 alt_names: [Marityemeri, Moil, Nangikurunggurr, Nangityemeri, "Ngan'gikurunggurr", "Ngan'gityemeri", Ngangikarangurr, Ngangikurongor, Ngangikurrunggurr, Ngangikurrunggurr language, Ngangikurrungur, Ngankikurrunkurr, Ngankikurungkurr, Ngenkikurrunggur, Ngenkikurunggkur, Ngenkityemeri, Tyemeri]
 population: 220

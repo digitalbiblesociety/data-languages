@@ -1,6 +1,8 @@
 ---
 iso: gbx
 name: Eastern Xwla Gbe
+name_zh: 东克瓦拉格贝语
+name_zh_auto: true
 autonym: Xwla
 alt_names: ["Gbe, Eastern Xwla", Houla, Kpla, Offra, Ophra, Phla, Pla, Popo]
 population: 800000

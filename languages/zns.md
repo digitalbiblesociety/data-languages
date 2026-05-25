@@ -1,6 +1,8 @@
 ---
 iso: zns
 name: Mangas
+name_zh: 曼加斯语
+name_zh_auto: true
 autonym: Pyik Mantsi
 alt_names: [Nigeria]
 population: 100

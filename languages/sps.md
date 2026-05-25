@@ -1,6 +1,8 @@
 ---
 iso: sps
 name: Saposa
+name_zh: 萨波萨语
+name_zh_auto: true
 autonym: Taiof
 population: 2000
 country_id: PG

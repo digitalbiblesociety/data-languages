@@ -1,6 +1,8 @@
 ---
 iso: ilp
 name: Iranun (Philippines)
+name_zh: 伊兰农语（菲律宾）
+name_zh_auto: true
 autonym: null
 population: null
 country_id: PH

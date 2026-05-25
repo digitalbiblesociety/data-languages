@@ -1,6 +1,8 @@
 ---
 iso: dne
 name: Ndendeule
+name_zh: 恩德德乌莱语
+name_zh_auto: true
 autonym: Ndwewe
 alt_names: [Kindendeule, Kindendeuli, Ndendeuli]
 population: 140000

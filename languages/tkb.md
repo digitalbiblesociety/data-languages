@@ -1,6 +1,8 @@
 ---
 iso: tkb
 name: Buksa
+name_zh: 布克萨语
+name_zh_auto: true
 autonym: Bhoksa
 alt_names: [India]
 population: 59000

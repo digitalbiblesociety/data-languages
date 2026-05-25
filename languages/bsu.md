@@ -1,6 +1,8 @@
 ---
 iso: bsu
 name: Bahonsuai
+name_zh: 巴洪苏艾语
+name_zh_auto: true
 autonym: "Bahoe-soeaai"
 alt_names: [Bahonsuái]
 population: 200

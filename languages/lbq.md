@@ -1,6 +1,8 @@
 ---
 iso: lbq
 name: Wampar
+name_zh: 瓦姆帕尔语
+name_zh_auto: true
 autonym: Laewomba
 alt_names: [Laewamba, Laiwomba]
 population: 5150

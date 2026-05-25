@@ -1,6 +1,8 @@
 ---
 iso: nkz
 name: Nkari
+name_zh: 恩卡里语
+name_zh_auto: true
 autonym: null
 alt_names: [Nigeria]
 population: 5000

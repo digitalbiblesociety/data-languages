@@ -1,6 +1,8 @@
 ---
 iso: sww
 name: Sowa
+name_zh: 索瓦语
+name_zh_auto: true
 autonym: null
 alt_names: [Vanuatu]
 population: null

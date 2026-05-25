@@ -1,6 +1,8 @@
 ---
 iso: wmd
 name: Mamaindé
+name_zh: 玛玛因德语
+name_zh_auto: true
 autonym: Northern Nambikwara
 alt_names: [Kithāulhú, Mamainde, Mamaindê, Mamande, Nakarothe, Northern Nambikuaran, Northern Nambikuára, Northern Nambiquara]
 population: 300

@@ -1,6 +1,8 @@
 ---
 iso: omi
 name: Omi
+name_zh: 奥米语
+name_zh_auto: true
 autonym: "Kaliko-Omi"
 alt_names: [Omieg, Омиски јазик]
 population: 91000

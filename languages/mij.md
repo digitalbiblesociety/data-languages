@@ -1,6 +1,8 @@
 ---
 iso: mij
 name: Abar
+name_zh: 阿巴尔语
+name_zh_auto: true
 autonym: Missong
 alt_names: [Mijong, Mungbam]
 population: 2000

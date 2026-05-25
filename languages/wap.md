@@ -1,6 +1,8 @@
 ---
 iso: wap
 name: Wapishana
+name_zh: 瓦皮沙纳语
+name_zh_auto: true
 autonym: Wapichan
 alt_names: [Aruma, Mawayana (Brésil), Mawayana (Guyana), Mawayana (Guyane), Uapixana, Upichana, Vapidiana, Wapichana, Wapisana, Wapishana (Brésil), Wapishana (Guyana), Wapishana (Guyane), Wapishiana, Wapishshiana, Wapisiana, Wapitxana, Wapitxano, Wapixana, Wapixiana, Wapixiána]
 population: 12500

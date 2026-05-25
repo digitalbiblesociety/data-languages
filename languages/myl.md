@@ -1,6 +1,8 @@
 ---
 iso: myl
 name: Moma
+name_zh: 莫玛语
+name_zh_auto: true
 autonym: Kulawi
 population: 9940
 country_id: ID

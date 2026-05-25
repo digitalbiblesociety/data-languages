@@ -1,6 +1,8 @@
 ---
 iso: lhn
 name: Lahanan
+name_zh: 拉哈南语
+name_zh_auto: true
 autonym: Lanan
 alt_names: [Lanun]
 population: 350

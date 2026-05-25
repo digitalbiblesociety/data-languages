@@ -1,6 +1,8 @@
 ---
 iso: nko
 name: Nkonya
+name_zh: 恩科尼亚语
+name_zh_auto: true
 autonym: null
 population: 20400
 country_id: GH

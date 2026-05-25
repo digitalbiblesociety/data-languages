@@ -1,6 +1,8 @@
 ---
 iso: mvn
 name: Minaveha
+name_zh: 米纳维哈语
+name_zh_auto: true
 autonym: Kukuya
 alt_names: [Minavega]
 population: 2300

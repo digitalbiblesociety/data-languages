@@ -1,6 +1,8 @@
 ---
 iso: agz
 name: Mt. Iriga Agta
+name_zh: 伊里加山艾塔语
+name_zh_auto: true
 autonym: West Buhi Agta
 alt_names: ["Agta, Mt. Iriga", Bikol, Lake Buhi West, Mt. Iriga Negrito, San Ramon Inagta]
 population: 1500

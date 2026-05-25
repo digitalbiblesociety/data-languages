@@ -1,6 +1,8 @@
 ---
 iso: cbg
 name: Chimila
+name_zh: 奇米拉语
+name_zh_auto: true
 autonym: Caca Weranos
 alt_names: [Chamila, Chimile, Ette Ennaka, Ette Taara, San Jorge, Shimizya, Simiza]
 population: 2000

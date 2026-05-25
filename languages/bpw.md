@@ -1,6 +1,8 @@
 ---
 iso: bpw
 name: Bo (Papua New Guinea)
+name_zh: 博语（巴布亚新几内亚）
+name_zh_auto: true
 autonym: Sorimi
 alt_names: [Bo, Po]
 population: 85

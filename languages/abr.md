@@ -1,6 +1,8 @@
 ---
 iso: abr
 name: Abron
+name_zh: 阿布隆语
+name_zh_auto: true
 autonym: Bron
 alt_names: [Abron jezik, Brong, Doma, Gyaman, Lenga Abron, Lingua abrón, Língua abron]
 population: 1393000

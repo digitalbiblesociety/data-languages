@@ -1,6 +1,8 @@
 ---
 iso: nkk
 name: Nokuku
+name_zh: 诺库库语
+name_zh_auto: true
 autonym: Nogugu
 population: 160
 country_id: VU

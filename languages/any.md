@@ -1,6 +1,8 @@
 ---
 iso: any
 name: Anyin
+name_zh: 安伊语
+name_zh_auto: true
 autonym: Anyi
 alt_names: [Agni, "Agni'", Anyieg, Língua anyin, அன்யின் மொழி]
 population: 1506400

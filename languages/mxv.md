@@ -1,6 +1,8 @@
 ---
 iso: mxv
 name: Metlatónoc Mixtec
+name_zh: 梅特拉托诺克米克斯特克语
+name_zh_auto: true
 autonym: null
 alt_names: [Alacatlatzala Mixtec, Alcozauca Mixtec, Central Misteko, Centreal Mixteco, Guerrero Mixtec, Highland Guerrero Mixtec, Metlatonoc Mixtec, "Mixtec, Metlatónoc", Mixteco de Alacatlatzala, Mixteco de Alocozauca, Mixteco de San Rafael, Mixteco de Xochapa, Mixteco de Yoloxóchitl, To’on Savi, Yoloxóchitl Mixtec]
 population: 46600

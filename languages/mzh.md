@@ -1,6 +1,8 @@
 ---
 iso: mzh
 name: Wichí Lhamtés Güisnay
+name_zh: 维奇·拉姆特斯·吉斯瑙语
+name_zh_auto: true
 autonym: Wiznay
 alt_names: [Güisnay, Mataco, Mataco Güisnay, Mataco Pilcomayo, Matako, Pilcomayo Wichí, Wichi, Wichi Lhamtes Guisnay, Wichí, Wichí Lhamtés]
 population: 15000

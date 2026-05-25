@@ -1,6 +1,8 @@
 ---
 iso: acb
 name: Áncá
+name_zh: 安卡语
+name_zh_auto: true
 autonym: Anta
 population: 300
 country_id: NG

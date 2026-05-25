@@ -1,6 +1,8 @@
 ---
 iso: liz
 name: Libinza
+name_zh: 利宾扎语
+name_zh_auto: true
 autonym: Libinza
 alt_names: [Libinja]
 population: 10000

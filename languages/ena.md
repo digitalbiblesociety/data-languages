@@ -1,6 +1,8 @@
 ---
 iso: ena
 name: Apali
+name_zh: 阿帕利语
+name_zh_auto: true
 autonym: Emerum
 alt_names: [Apal]
 population: 980

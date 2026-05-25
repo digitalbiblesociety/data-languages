@@ -1,6 +1,8 @@
 ---
 iso: nim
 name: Nilamba
+name_zh: 尼兰巴语
+name_zh_auto: true
 autonym: Nilamba
 alt_names: [Ikinilamba, Ikiniramba, Ilamba, Iramba, Kinilamba, Kiniramba, Nilyamba, Niramba, Nyilamba]
 population: 682000

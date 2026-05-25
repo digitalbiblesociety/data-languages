@@ -1,6 +1,8 @@
 ---
 iso: hng
 name: Hungu
+name_zh: 洪古语
+name_zh_auto: true
 autonym: Kiholo
 population: null
 country_id: AO

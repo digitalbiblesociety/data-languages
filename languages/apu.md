@@ -1,6 +1,8 @@
 ---
 iso: apu
 name: Apurinã
+name_zh: 阿普里纳语
+name_zh_auto: true
 autonym: Ipurina
 alt_names: [Apurina, Apuriná, Cacharary, Cangaiti, Ipuriná, Ipurinãn, Kangite, Popengare]
 population: 6990

@@ -1,6 +1,8 @@
 ---
 iso: zuh
 name: Tokano
+name_zh: 托卡诺语
+name_zh_auto: true
 autonym: Gamuso
 alt_names: [Tokama, Yufiyufa, Zaka, Zuhozuho, Zuhuzuho]
 population: 6000

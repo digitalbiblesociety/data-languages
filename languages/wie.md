@@ -1,6 +1,8 @@
 ---
 iso: wie
 name: "Wik-Epa"
+name_zh: 威克-埃帕语
+name_zh_auto: true
 autonym: "Wik-Ep"
 alt_names: [Eba, Epa, Eppe, Mimungkum, Wik, Wik Ep, Wik Ep Wik Eppa, Wik Epa, Wik Epa/Wikepa, Wik Eppa, Wik Iit, Wik Iita, Wik Kalkan, Wik Meanha, Wik Mungkana, Wik Ngathara, Wik Ompom, Wik-Eppa, Wik-Iita, WikMeAnh, Wikampama, Wikatinda, Wikep, Wikepa, Wikeppe, Wikmean, Wiknantjara, Wiknatanja, Wikʔep]
 population: null

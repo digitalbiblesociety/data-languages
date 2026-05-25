@@ -1,6 +1,8 @@
 ---
 iso: mfj
 name: Mefele
+name_zh: 梅费莱语
+name_zh_auto: true
 autonym: Boulahay
 alt_names: [Bula, Bulahai]
 population: 11000

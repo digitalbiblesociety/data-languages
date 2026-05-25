@@ -1,6 +1,8 @@
 ---
 iso: bmw
 name: Bomwali
+name_zh: 博姆瓦利语
+name_zh_auto: true
 autonym: Bomali
 alt_names: [Boumoali, Bumali, Lino, Sangasanga]
 population: 55100

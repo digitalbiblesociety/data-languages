@@ -1,6 +1,8 @@
 ---
 iso: tbj
 name: Tiang
+name_zh: 蒂昂语
+name_zh_auto: true
 autonym: Djaul
 alt_names: [Neu-Mecklenburg]
 population: 790

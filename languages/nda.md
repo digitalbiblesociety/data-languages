@@ -1,6 +1,8 @@
 ---
 iso: nda
 name: Ndasa
+name_zh: 恩达萨语
+name_zh_auto: true
 autonym: Andasa
 alt_names: [Ndash, Ndassa]
 population: 4530

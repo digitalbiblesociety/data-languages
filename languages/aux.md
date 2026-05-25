@@ -1,6 +1,8 @@
 ---
 iso: aux
 name: Aurá
+name_zh: 奥拉语
+name_zh_auto: true
 autonym: Aurê
 alt_names: [Auré, Aurê-aurá]
 population: null

@@ -1,6 +1,8 @@
 ---
 iso: zib
 name: Zimbabwe Sign Language
+name_zh: 津巴布韦手语
+name_zh_auto: true
 autonym: Zimsign
 population: 73000
 country_id: ZW

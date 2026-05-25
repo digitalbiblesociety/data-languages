@@ -1,6 +1,8 @@
 ---
 iso: zsu
 name: Sukurum
+name_zh: 苏库鲁姆语
+name_zh_auto: true
 autonym: null
 population: 1160
 country_id: PG

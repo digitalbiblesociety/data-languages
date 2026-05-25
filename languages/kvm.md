@@ -1,6 +1,8 @@
 ---
 iso: kvm
 name: Kendem
+name_zh: 肯德姆语
+name_zh_auto: true
 autonym: "Bokwa-Kendem"
 population: 1500
 country_id: CM

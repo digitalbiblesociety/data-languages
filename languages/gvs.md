@@ -1,6 +1,8 @@
 ---
 iso: gvs
 name: Gumawana
+name_zh: 古玛瓦纳语
+name_zh_auto: true
 autonym: Gumasi
 alt_names: [Domdom, Gumasi (Domdom)]
 population: 470

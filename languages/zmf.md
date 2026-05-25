@@ -1,6 +1,8 @@
 ---
 iso: zmf
 name: Mfinu
+name_zh: 姆费努语
+name_zh_auto: true
 autonym: Emfinu
 alt_names: [Funika, Mfununga]
 population: 8400

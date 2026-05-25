@@ -1,6 +1,8 @@
 ---
 iso: mgz
 name: Mbugwe
+name_zh: 姆布格韦语
+name_zh_auto: true
 autonym: Kimbugwe
 alt_names: [Mbuwe]
 population: 24000

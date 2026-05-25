@@ -1,6 +1,8 @@
 ---
 iso: psl
 name: Puerto Rican Sign Language
+name_zh: 波多黎各手语
+name_zh_auto: true
 autonym: Lenguaje de Señas Bolivianas LSB
 alt_names: [PRSL]
 population: 10000

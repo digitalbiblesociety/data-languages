@@ -1,6 +1,8 @@
 ---
 iso: tln
 name: "Talondo'"
+name_zh: 塔隆多语
+name_zh_auto: true
 autonym: Talondo Kondo
 alt_names: [Nordost-Celebes, Talondo]
 population: 400

@@ -1,6 +1,8 @@
 ---
 iso: nis
 name: Nimi
+name_zh: 尼米语
+name_zh_auto: true
 autonym: null
 population: 1380
 country_id: PG

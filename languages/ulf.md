@@ -1,6 +1,8 @@
 ---
 iso: ulf
 name: Usku
+name_zh: 乌斯库语
+name_zh_auto: true
 autonym: Afra
 alt_names: [Usku language]
 population: 110

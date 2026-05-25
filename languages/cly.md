@@ -1,6 +1,8 @@
 ---
 iso: cly
 name: Eastern Highland Chatino
+name_zh: 东高地查蒂诺语
+name_zh_auto: true
 autonym: Sierra Chatino
 alt_names: [Chatino, Chatino de Zacatepec, Chatino de Zacatepeco, Chatino de la Zona Alta Oriental, Chatino de la zona baja occidental, Chatino des basses-terres occidentales, "Chatino, Eastern Highland", Lachao-Yolotepec Chatino, Sierra Oriental Chatino]
 population: 2000

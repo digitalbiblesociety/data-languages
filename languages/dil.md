@@ -1,6 +1,8 @@
 ---
 iso: dil
 name: Dilling
+name_zh: 迪林语
+name_zh_auto: true
 autonym: Warki
 alt_names: [Debri, Delen, Dillingo, Nubian (Hill), Warkimbe]
 population: 5300

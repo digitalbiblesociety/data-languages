@@ -1,6 +1,8 @@
 ---
 iso: bqv
 name: Koro Wachi
+name_zh: 科罗瓦基语
+name_zh_auto: true
 autonym: Tinɔr
 alt_names: [Agere, Begbere-Ejar, Koro, Koro Agwe, Koro Makama, Koro Myamya, Miamia, Miamiya]
 population: 106000

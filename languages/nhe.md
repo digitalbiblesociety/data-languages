@@ -1,6 +1,8 @@
 ---
 iso: nhe
 name: Eastern Huasteca Nahuatl
+name_zh: 东瓦斯特卡纳瓦特尔语
+name_zh_auto: true
 autonym: "Náhuatl, Huasteca Oriental"
 alt_names: [Eastern Nahua, Eastern Nawa, Lingua nahuatl huaxteca orientale, Mexicano, Nahua de la Huasteca, Nahuatl, Nahuatl (Huasteca), "Nahuatl, Eastern Huasteca", Náhuatl du Huasteca]
 population: 1730000

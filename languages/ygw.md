@@ -1,6 +1,8 @@
 ---
 iso: ygw
 name: Yagwoia
+name_zh: 亚格沃亚语
+name_zh_auto: true
 autonym: Kokwaiyakwa
 alt_names: [Yeghuye]
 population: 10000

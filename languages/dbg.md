@@ -1,6 +1,8 @@
 ---
 iso: dbg
 name: Dogul Dom Dogon
+name_zh: 多古尔多姆多贡语
+name_zh_auto: true
 autonym: Dogul Dom
 alt_names: [Dogon, "Dogon, Dogul Dom", Dogul-Dom, Dogul-Dom Dogon, Dogulu, North Plateau Dogon]
 population: 15700

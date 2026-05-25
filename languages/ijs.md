@@ -1,6 +1,8 @@
 ---
 iso: ijs
 name: Southeast Ijo
+name_zh: 东南伊乔语
+name_zh_auto: true
 autonym: Akassa
 alt_names: [Brass Ijo, Ijaw, "Ijo, Southeast", Ịjọ]
 population: 71500

@@ -1,6 +1,8 @@
 ---
 iso: ltu
 name: Latu
+name_zh: 拉图语
+name_zh_auto: true
 autonym: null
 alt_names: [Indonesia]
 population: 2130

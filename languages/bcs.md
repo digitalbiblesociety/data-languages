@@ -1,6 +1,8 @@
 ---
 iso: bcs
 name: Kohumono
+name_zh: 科胡莫诺语
+name_zh_auto: true
 autonym: Kohumono
 alt_names: [Bahumono, Ediba, Ekumuru, Humono, Ohumono]
 population: 30000

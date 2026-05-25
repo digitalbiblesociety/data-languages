@@ -1,6 +1,8 @@
 ---
 iso: duw
 name: Dusun Witu
+name_zh: 杜顺维图语
+name_zh_auto: true
 autonym: Dusun Witu
 population: 5000
 country_id: ID

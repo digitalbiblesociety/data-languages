@@ -1,6 +1,8 @@
 ---
 iso: dbq
 name: Daba
+name_zh: 达巴语
+name_zh_auto: true
 autonym: Dabba
 alt_names: [Kola]
 population: 25000

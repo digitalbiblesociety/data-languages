@@ -1,6 +1,8 @@
 ---
 iso: pny
 name: Pinyin
+name_zh: 平音语
+name_zh_auto: true
 autonym: Bapinyi
 alt_names: [Pelimpo]
 population: 24600

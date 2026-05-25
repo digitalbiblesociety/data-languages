@@ -1,6 +1,8 @@
 ---
 iso: lcp
 name: Western Lawa
+name_zh: 西拉瓦语
+name_zh_auto: true
 autonym: Lava
 alt_names: ["L'wa", "La'wa", Lavua, Lavüa, Lawa, "Lawa, Western", Lua, Luwa, Mae Sariang, Mountain Lawa, Wa, Wa Proper]
 population: 8000

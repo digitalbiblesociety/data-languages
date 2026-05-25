@@ -1,6 +1,8 @@
 ---
 iso: lns
 name: "Lamnso'"
+name_zh: 兰姆索语
+name_zh_auto: true
 autonym: Lamnsɔ’
 alt_names: [Bansaw, Banso, "Banso'", Lamnso, Lamnsok, Lamso, Nsaw, "Nsho'", Nso, "Nso'", Panso]
 population: 240000

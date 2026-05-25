@@ -1,6 +1,8 @@
 ---
 iso: czt
 name: Zotung Chin
+name_zh: 左通钦语
+name_zh_auto: true
 autonym: Zo
 alt_names: [Bandzhogi, Bandžogi, Banjogi, "Chin, Zotung", "Chin,Zotung", Zobya, Zotung]
 population: 40000

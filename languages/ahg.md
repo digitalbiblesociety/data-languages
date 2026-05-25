@@ -1,6 +1,8 @@
 ---
 iso: ahg
 name: Qimant
+name_zh: 齐曼特语
+name_zh_auto: true
 autonym: Kemantney
 alt_names: [Agaw, Chemant, Falasha, Falaša, "K'emant", Kamant, Kemanat, Kemant, Kimant, Kimanteney, Kwara, Lenga Qimant, Qemant, Qimant hizkuntza, Qimant jezik, Western Agaw]
 population: 1650

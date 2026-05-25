@@ -1,6 +1,8 @@
 ---
 iso: col
 name: "Columbia-Wenatchi"
+name_zh: 哥伦比亚-韦纳特基语
+name_zh_auto: true
 autonym: "Columbia-Wenatchi"
 alt_names: [Chelan, Columbia, Columbian, Columbiano, Middle Columbia Cluster, Moses Columbia, Moses Columbian, Moses-Colombia Salish, Moses-Columbia, Moses-Columbian, Nxaʔamxcín, Wenatchee, Wenatchi-Columbia]
 population: 500

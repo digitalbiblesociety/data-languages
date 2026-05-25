@@ -1,6 +1,8 @@
 ---
 iso: jay
 name: "Yan-nhangu"
+name_zh: 燕-南汉古语
+name_zh_auto: true
 autonym: "Yan-nhaŋu"
 alt_names: ["Djina?", Djinaŋ, Gunbirrdji, Gunbirri, Jaer-nungo, Jaernungo, "Jan:angu", Janango, Jandango, Janjango, Jannangu, Jarnango, Jarnangu, Jarrangu, Kokolango, Malara, Malarra, "Murru?un", Murrungun, Murruŋun, Mälarra, Mälarrai, Nango, Nangu, Nhangu, Yaernungo, Yaerungo, Yalnumata, Yanango, Yanangu, Yandango, "Yanna?u", Yannangu, Yannaŋu, Yannhangu, Yannhaŋu, Yarenango, Yarnango, Yarrnangu, Yorngar]
 population: null

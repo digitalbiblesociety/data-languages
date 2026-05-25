@@ -1,6 +1,8 @@
 ---
 iso: ehs
 name: Miyakubo Sign Language
+name_zh: 宫窪手语
+name_zh_auto: true
 autonym: 宮窪手話
 population: 70
 country_id: JP

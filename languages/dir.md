@@ -1,6 +1,8 @@
 ---
 iso: dir
 name: Dirim
+name_zh: 迪里姆语
+name_zh_auto: true
 autonym: Daka
 alt_names: [Dakka, Dirin, Dirrim]
 population: 9000

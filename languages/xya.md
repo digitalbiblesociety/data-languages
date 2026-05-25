@@ -1,6 +1,8 @@
 ---
 iso: xya
 name: Yaygir
+name_zh: 亚伊吉尔语
+name_zh_auto: true
 autonym: Jeigir
 alt_names: [Jungai, Yaygirr, Yegera, Yegir, Yiegera, Youngai]
 population: 5

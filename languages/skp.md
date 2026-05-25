@@ -1,6 +1,8 @@
 ---
 iso: skp
 name: Sekapan
+name_zh: 塞卡潘语
+name_zh_auto: true
 autonym: Sekepan
 population: 750
 country_id: MY

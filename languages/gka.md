@@ -1,6 +1,8 @@
 ---
 iso: gka
 name: Guya
+name_zh: 圭亚语
+name_zh_auto: true
 autonym: Guiarak
 alt_names: [Guyarak]
 population: 130

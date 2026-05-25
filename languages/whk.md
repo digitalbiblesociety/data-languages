@@ -1,6 +1,8 @@
 ---
 iso: whk
 name: Wahau Kenyah
+name_zh: 瓦豪肯雅语
+name_zh_auto: true
 autonym: "Lebu' Kulit"
 alt_names: [Kenyah, "Kenyah, Wahau", Wahau, Wahau Kenya]
 population: 8000

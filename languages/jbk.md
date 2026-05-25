@@ -1,6 +1,8 @@
 ---
 iso: jbk
 name: Barikewa
+name_zh: 巴里克瓦语
+name_zh_auto: true
 autonym: Iba
 population: null
 country_id: PG

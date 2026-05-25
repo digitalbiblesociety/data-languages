@@ -1,6 +1,8 @@
 ---
 iso: vid
 name: Vidunda
+name_zh: 维都达语
+name_zh_auto: true
 autonym: null
 alt_names: [Chividunda, Kividunda, Ndunda]
 population: 12000

@@ -1,6 +1,8 @@
 ---
 iso: wiu
 name: Wiru
+name_zh: 威鲁语
+name_zh_auto: true
 autonym: Witu
 population: 20000
 country_id: PG

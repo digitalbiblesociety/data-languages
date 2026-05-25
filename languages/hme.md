@@ -1,6 +1,8 @@
 ---
 iso: hme
 name: Eastern Huishui Hmong
+name_zh: 东惠水苗语
+name_zh_auto: true
 autonym: Mhong
 alt_names: [Eastern Huishui Miao, Hmo, Hmong, "Hmong, Eastern Huishui", Hmung, Hsiung, Hunan Miao, Miao, "Miao, Eastern Huishui"]
 population: 14000

@@ -1,6 +1,8 @@
 ---
 iso: mqo
 name: Modole
+name_zh: 莫多莱语
+name_zh_auto: true
 autonym: Madole
 population: 2000
 country_id: ID

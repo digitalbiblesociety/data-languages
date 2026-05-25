@@ -1,6 +1,8 @@
 ---
 iso: buq
 name: Brem
+name_zh: 布雷姆语
+name_zh_auto: true
 autonym: Kambuar
 alt_names: [Barem, Bububun, Bunabun, Bunu, Bunubun]
 population: 1190

@@ -1,6 +1,8 @@
 ---
 iso: naw
 name: Nawuri
+name_zh: 纳武里语
+name_zh_auto: true
 autonym: null
 alt_names: [Guang]
 population: 9300

@@ -1,6 +1,8 @@
 ---
 iso: she
 name: Sheko
+name_zh: 谢科语
+name_zh_auto: true
 autonym: Shak
 alt_names: [Shakko, Shako, Shekka, Shekko, Tschako]
 population: 43820

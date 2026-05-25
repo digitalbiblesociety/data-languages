@@ -1,6 +1,8 @@
 ---
 iso: tth
 name: "Upper Ta'oih"
+name_zh: 上塔欧伊语
+name_zh_auto: true
 autonym: Ta Oi
 alt_names: [(Kha)Tahoi, Kantua, Kha Tahoï, Kon-Tu, Kontu, Ta Hoi, "Ta'oih", "Ta'oih, Upper", Ta-Oi, Ta-Oy, Ta-ôih, Tau Oi, Toi-Oi, Tà-Oi, Tă-hoi]
 population: 49900

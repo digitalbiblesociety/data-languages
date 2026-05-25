@@ -1,6 +1,8 @@
 ---
 iso: bsg
 name: Bashkardi
+name_zh: 巴什卡迪语
+name_zh_auto: true
 autonym: " Bashaka"
 alt_names: [Baskardí]
 population: 7030

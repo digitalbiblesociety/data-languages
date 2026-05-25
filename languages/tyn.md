@@ -1,6 +1,8 @@
 ---
 iso: tyn
 name: Kombai
+name_zh: 孔拜语
+name_zh_auto: true
 autonym: Komboy
 population: 4000
 country_id: ID

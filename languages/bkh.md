@@ -1,6 +1,8 @@
 ---
 iso: bkh
 name: Bakoko
+name_zh: 巴科科语
+name_zh_auto: true
 autonym: Bakoko
 alt_names: [Basoo]
 population: 50000

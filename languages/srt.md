@@ -1,6 +1,8 @@
 ---
 iso: srt
 name: Sauri
+name_zh: 萨乌里语
+name_zh_auto: true
 autonym: bahasa Sauri
 alt_names: [Indonesia]
 population: 100

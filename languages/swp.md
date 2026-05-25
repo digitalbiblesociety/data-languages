@@ -1,6 +1,8 @@
 ---
 iso: swp
 name: Suau
+name_zh: 苏奥语
+name_zh_auto: true
 autonym: Iou
 population: 7810
 country_id: PG

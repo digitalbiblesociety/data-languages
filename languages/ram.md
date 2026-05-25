@@ -1,6 +1,8 @@
 ---
 iso: ram
 name: Canela
+name_zh: 卡内拉语
+name_zh_auto: true
 autonym: Kanela
 alt_names: [Canela apaniekra, Canela ramkokomekra, Canela rankokamekra, Canela-Krahô, Krahó, Krenjé, Pukobyé, Timbira]
 population: 2500

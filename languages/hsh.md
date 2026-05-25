@@ -1,6 +1,8 @@
 ---
 iso: hsh
 name: Hungarian Sign Language
+name_zh: 匈牙利手语
+name_zh_auto: true
 autonym: Magyar Jelnyelv
 alt_names: [Jelnyelv, Magyar]
 population: 11200

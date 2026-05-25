@@ -1,6 +1,8 @@
 ---
 iso: rol
 name: Romblomanon
+name_zh: 隆布洛曼农语
+name_zh_auto: true
 autonym: Romblon
 alt_names: [Bisaya]
 population: 157000

@@ -1,6 +1,8 @@
 ---
 iso: dre
 name: Dolpo
+name_zh: 多尔波语
+name_zh_auto: true
 autonym: "Ü-Tsang"
 alt_names: ["D'ölpo", Dolpa Tibetan, Dolpike, Phoke Dolpa]
 population: 5000

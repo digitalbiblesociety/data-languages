@@ -1,6 +1,8 @@
 ---
 iso: dif
 name: Dieri
+name_zh: 迪耶里语
+name_zh_auto: true
 autonym: Dieri
 alt_names: [Dayerrie, Deerie, Dhirari, Diari, Dickeri, Dieyerie, Dieyrie, Dijari, Dirari, Diyari, Diyari language, Diyeri, Dthee eri, Dthee-eri, Jarawurga, Koonarie, Kunari, "Ti:ari", Tirari, Urrominna, Urronminna, Wanggainara, Wongkadieri, Wonkadieri]
 population: 600

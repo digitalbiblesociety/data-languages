@@ -1,6 +1,8 @@
 ---
 iso: bzv
 name: Naami
+name_zh: 纳阿米语
+name_zh_auto: true
 autonym: Naami
 alt_names: [Bebe, Yi Be Wu]
 population: 2500

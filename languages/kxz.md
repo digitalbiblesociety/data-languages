@@ -1,6 +1,8 @@
 ---
 iso: kxz
 name: Kerewo
+name_zh: 克雷沃语
+name_zh_auto: true
 autonym: Kerewa
 alt_names: [Kerewa-Goari]
 population: 2200

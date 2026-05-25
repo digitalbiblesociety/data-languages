@@ -1,6 +1,8 @@
 ---
 iso: ula
 name: Fungwa
+name_zh: 芬格瓦语
+name_zh_auto: true
 autonym: Ura
 alt_names: [Afungwa, Tufungwa, Ula]
 population: 1000

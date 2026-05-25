@@ -1,6 +1,8 @@
 ---
 iso: tpt
 name: Tlachichilco Tepehua
+name_zh: 特拉奇奇尔科特佩瓦语
+name_zh_auto: true
 autonym: West Tepehua
 alt_names: [Tepehua, Tepehua de Tlachichilco, "Tepehua, Tlachichilco", Tepehuano de Tlachichilco, Tepewa, Tlachichilco, Tlachichilco Tepewa, TlachichilcoTepewa]
 population: 3000

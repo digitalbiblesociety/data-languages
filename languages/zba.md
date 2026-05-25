@@ -1,6 +1,8 @@
 ---
 iso: zba
 name: "Balaibalan\r"
+name_zh: 巴莱巴兰语
+name_zh_auto: true
 autonym: باليبلن
 alt_names: [Balaibalan]
 population: null

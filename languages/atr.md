@@ -1,6 +1,8 @@
 ---
 iso: atr
 name: "Waimiri-Atroari"
+name_zh: 瓦伊米里-阿特罗阿里语
+name_zh_auto: true
 autonym: "Waimiri-Atroarí"
 alt_names: [Atroahy, Atroahí, Atroarí, Atroaí, Atrowari, Atruahi, Atruahí, "Ki'nya", Krishaná, Waimirí, Waimirí-Atroarí, Yawaperí]
 population: 930

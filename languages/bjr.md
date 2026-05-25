@@ -1,6 +1,8 @@
 ---
 iso: bjr
 name: Binumarien
+name_zh: 比努马里恩语
+name_zh_auto: true
 autonym: Afaqina
 alt_names: [Binamarir, Binumaria]
 population: 1200

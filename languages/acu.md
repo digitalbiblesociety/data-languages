@@ -1,6 +1,8 @@
 ---
 iso: acu
 name: "Achuar-Shiwiar"
+name_zh: 阿楚阿尔-希维亚尔语
+name_zh_auto: true
 autonym: Shiwiar
 alt_names: [Achual, Achuale, Achuall, Achuar, Achuar chicham, Achuara, Chiwaro, Hivaro, Huambisa, Huambisa (wampis), Hívaro, Jibaro, Jivaro, Jíbaro, Jívaro, Maina, Shiwiar chicham, Shuar, Shuar chicham, Shuara, Xivaro, Xívaro]
 population: 7940

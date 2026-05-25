@@ -1,6 +1,8 @@
 ---
 iso: ngq
 name: Ngurimi
+name_zh: 恩古里米语
+name_zh_auto: true
 autonym: Dengurume
 alt_names: [Ikingurimi, Ngoreme, Ngruimi, Nguruimi]
 population: 52400

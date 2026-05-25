@@ -1,6 +1,8 @@
 ---
 iso: spk
 name: Sengo
+name_zh: 森戈语
+name_zh_auto: true
 autonym: null
 alt_names: [Manambu]
 population: 520

@@ -1,6 +1,8 @@
 ---
 iso: iti
 name: Inlaod Itneg
+name_zh: 因劳德伊特内格语
+name_zh_auto: true
 autonym: Tinggian
 alt_names: [Inlaod, "Itneg, Inlaod", Tinguian]
 population: 9000

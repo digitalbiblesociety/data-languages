@@ -1,6 +1,8 @@
 ---
 iso: iko
 name: "Olulumo-Ikom"
+name_zh: 卢卢莫-伊科姆语
+name_zh_auto: true
 autonym: Lulumo
 population: 25000
 country_id: NG

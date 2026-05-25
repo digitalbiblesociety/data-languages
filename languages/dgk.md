@@ -1,6 +1,8 @@
 ---
 iso: dgk
 name: Dagba
+name_zh: 达格巴语
+name_zh_auto: true
 autonym: null
 population: 44000
 country_id: CF

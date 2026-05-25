@@ -1,6 +1,8 @@
 ---
 iso: zpo
 name: Amatlán Zapotec
+name_zh: 阿马特兰萨波特克语
+name_zh_auto: true
 autonym: (San Cristóbal Amatlán)
 alt_names: [Amatec Zapotec, Amatlan Zapotec, Coatecas Altas Zapotec, Dizhe, Miahuatec, Miahuatlan, Southern Mountain Zapotec, Southern Sapoteko, Zapotec, "Zapotec, Amatlán", Zapoteco de Asunción Tlacolulita, Zapoteco de San Cristóbal Amatlán, Zapoteco del Noreste de Miahuatlán, "Zapotèque d'Asunción Tlacolulita"]
 population: 10000

@@ -1,6 +1,8 @@
 ---
 iso: mtw
 name: Southern Binukidnon
+name_zh: 南比努基德农语
+name_zh_auto: true
 autonym: Southern Binukidnon
 alt_names: [Ata-Man, "Binukidnon, Southern", Bukidnon, Magahat]
 population: 7570

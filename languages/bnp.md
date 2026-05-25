@@ -1,6 +1,8 @@
 ---
 iso: bnp
 name: Bola
+name_zh: 博拉语
+name_zh_auto: true
 autonym: Bakovi
 alt_names: [Bola-Bakovi]
 population: 13700

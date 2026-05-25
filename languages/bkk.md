@@ -1,6 +1,8 @@
 ---
 iso: bkk
 name: Brokskat
+name_zh: 布罗克斯卡特语
+name_zh_auto: true
 autonym: Brokpa
 alt_names: [Brok-skad, Brokpa of Dah-Hanu, Broskatí, Dardu, Dokskat, Hanu, Kyango, Shina]
 population: 10000

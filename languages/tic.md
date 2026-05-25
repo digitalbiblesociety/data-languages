@@ -1,6 +1,8 @@
 ---
 iso: tic
 name: Tira
+name_zh: 蒂拉语
+name_zh_auto: true
 autonym: Kanderma
 alt_names: [Lithiro, Thiro, Tiro]
 population: null

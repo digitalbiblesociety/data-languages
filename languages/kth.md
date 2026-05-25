@@ -1,6 +1,8 @@
 ---
 iso: kth
 name: Karanga
+name_zh: 卡兰加语
+name_zh_auto: true
 autonym: Kurunga
 alt_names: [Karango]
 population: 1419

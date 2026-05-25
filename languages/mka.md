@@ -1,6 +1,8 @@
 ---
 iso: mka
 name: Mbre
+name_zh: 姆布雷语
+name_zh_auto: true
 autonym: Pere
 alt_names: [Bere, Bre, Pre, Pre Pisia]
 population: 200

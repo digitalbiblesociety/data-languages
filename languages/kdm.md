@@ -1,6 +1,8 @@
 ---
 iso: kdm
 name: Kagoma
+name_zh: 卡戈马语
+name_zh_auto: true
 autonym: Kagoma
 alt_names: [Agoma, Gwong, Gyong, Kagoma (Gyong), Kwong]
 population: 25400

@@ -1,6 +1,8 @@
 ---
 iso: trt
 name: Tunggare
+name_zh: 通噶雷语
+name_zh_auto: true
 autonym: Tarunggare
 alt_names: [Język turunggare, Turunggare]
 population: 500

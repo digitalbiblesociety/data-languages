@@ -1,6 +1,8 @@
 ---
 iso: szn
 name: Sula
+name_zh: 苏拉语
+name_zh_auto: true
 autonym: Sanana
 alt_names: [Sulaic]
 population: 20000

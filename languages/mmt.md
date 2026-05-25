@@ -1,6 +1,8 @@
 ---
 iso: mmt
 name: Malalamai
+name_zh: 玛拉拉迈语
+name_zh_auto: true
 autonym: Bonga
 population: 550
 country_id: PG

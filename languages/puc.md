@@ -1,6 +1,8 @@
 ---
 iso: puc
 name: Punan Merap
+name_zh: 普南梅拉普语
+name_zh_auto: true
 autonym: bahasa Punan Merap
 population: 200
 country_id: ID

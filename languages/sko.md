@@ -1,6 +1,8 @@
 ---
 iso: sko
 name: Seko Tengah
+name_zh: 塞科滕加语
+name_zh_auto: true
 autonym: Pewanean
 alt_names: [Pewaneang, Pohoneang, Seko]
 population: 2500

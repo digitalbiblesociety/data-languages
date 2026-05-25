@@ -1,6 +1,8 @@
 ---
 iso: psw
 name: Port Sandwich
+name_zh: 波特桑威奇语
+name_zh_auto: true
 autonym: Lamap
 alt_names: [Mallicolo, Nisvai]
 population: 1200

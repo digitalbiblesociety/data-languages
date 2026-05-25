@@ -1,6 +1,8 @@
 ---
 iso: ciy
 name: Chaima
+name_zh: 查伊马语
+name_zh_auto: true
 autonym: Kumana
 alt_names: ["Chaima: Chayma", Chayma, Cumanagoto, Cumaná, Guaga-Tagare, Kumaná, Sayma, Warapiche]
 population: null

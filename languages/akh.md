@@ -1,6 +1,8 @@
 ---
 iso: akh
 name: Angal Heneng
+name_zh: 安加尔海嫩语
+name_zh_auto: true
 autonym: Mendi
 alt_names: [Agarar, Augu, Katinja, Wage, West Angal Heneng, West Mendi]
 population: 40000

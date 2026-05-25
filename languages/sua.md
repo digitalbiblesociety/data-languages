@@ -1,6 +1,8 @@
 ---
 iso: sua
 name: Sulka
+name_zh: 苏尔卡语
+name_zh_auto: true
 autonym: null
 alt_names: [Język sulka, Neu-Pommern]
 population: 3500

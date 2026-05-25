@@ -1,6 +1,8 @@
 ---
 iso: wwr
 name: Warrwa
+name_zh: 瓦罗瓦语
+name_zh_auto: true
 autonym: Warrawai
 alt_names: [Kolaruma, "Wa:rwa", Warrwai, Waruwa, Warwa, Warwai]
 population: null

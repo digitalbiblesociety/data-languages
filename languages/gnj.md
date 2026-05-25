@@ -1,6 +1,8 @@
 ---
 iso: gnj
 name: Ngen
+name_zh: 恩根语
+name_zh_auto: true
 autonym: null
 population: null
 country_id: VU

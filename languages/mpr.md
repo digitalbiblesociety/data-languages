@@ -1,6 +1,8 @@
 ---
 iso: mpr
 name: Vangunu
+name_zh: 瓦恩古努语
+name_zh_auto: true
 autonym: null
 alt_names: [Lenga Vangunu, Solomon Islands]
 population: 399

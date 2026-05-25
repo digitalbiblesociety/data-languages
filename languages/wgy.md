@@ -1,6 +1,8 @@
 ---
 iso: wgy
 name: Warrgamay
+name_zh: 瓦尔加梅语
+name_zh_auto: true
 autonym: Biyay
 alt_names: [Bandjin, Bijai, Bungabara, Herbert River tribe, Ikelbara, Waragamai, Warakamai, Wargamay, Wargamaygan, Warkamai]
 population: null

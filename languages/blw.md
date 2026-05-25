@@ -1,6 +1,8 @@
 ---
 iso: blw
 name: Balangao
+name_zh: 巴兰高语
+name_zh_auto: true
 autonym: Balangaw
 alt_names: [Balangao Bontoc, Farangao]
 population: 11500

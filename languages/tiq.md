@@ -1,6 +1,8 @@
 ---
 iso: tiq
 name: Tiéfo
+name_zh: 蒂埃福语
+name_zh_auto: true
 autonym: "cɛ̀fɔ́-mìì"
 alt_names: [Foro, Kiefo, Tiefo, Tyefo, Tyeforo]
 population: 1000

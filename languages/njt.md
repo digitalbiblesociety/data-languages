@@ -1,6 +1,8 @@
 ---
 iso: njt
 name: "Ndyuka-Trio Pidgin"
+name_zh: 恩迪尤卡-特里奥皮钦语
+name_zh_auto: true
 autonym: null
 alt_names: [Suriname]
 population: null

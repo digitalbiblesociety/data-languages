@@ -1,6 +1,8 @@
 ---
 iso: bse
 name: Wushi
+name_zh: 武什语
+name_zh_auto: true
 autonym: Babessi
 alt_names: [Pesii, Sii, Vesi]
 population: 25000

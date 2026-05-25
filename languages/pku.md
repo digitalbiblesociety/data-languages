@@ -1,6 +1,8 @@
 ---
 iso: pku
 name: Paku
+name_zh: 帕库语
+name_zh_auto: true
 autonym: Bakau
 alt_names: [Indonesia]
 population: 3500

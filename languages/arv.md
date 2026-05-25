@@ -1,6 +1,8 @@
 ---
 iso: arv
 name: Arbore
+name_zh: 阿尔博雷语
+name_zh_auto: true
 autonym: Arbora
 alt_names: [Arbore hizkuntza, Arbore jezik, Arborie, Arboré, Erbore, Irbore, Lenga Arbore]
 population: 3907

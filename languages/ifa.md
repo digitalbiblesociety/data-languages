@@ -1,6 +1,8 @@
 ---
 iso: ifa
 name: Amganad Ifugao
+name_zh: 阿姆甘纳德伊富高语
+name_zh_auto: true
 autonym: Central Ifugao
 alt_names: [Amganad, "Ifugao, Amganad", Ifugu]
 population: 27100

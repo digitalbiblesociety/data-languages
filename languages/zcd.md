@@ -1,6 +1,8 @@
 ---
 iso: zcd
 name: Las Delicias Zapotec
+name_zh: 拉斯-德利西亚斯-萨波特克语
+name_zh_auto: true
 autonym: Didza Xidza
 alt_names: ["Zapotec, Las Delicias"]
 population: 41000

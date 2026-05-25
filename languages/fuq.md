@@ -1,6 +1,8 @@
 ---
 iso: fuq
 name: "Central-Eastern Niger Fulfulde"
+name_zh: 中东尼日富尔富尔德语
+name_zh_auto: true
 autonym: Fulani
 alt_names: [Fula, Fulah-Idiome, Fulbe, "Fulfulde, Central-Eastern Niger", Peul, Peulh]
 population: 813000

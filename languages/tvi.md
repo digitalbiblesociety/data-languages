@@ -1,6 +1,8 @@
 ---
 iso: tvi
 name: Tulai
+name_zh: 图莱语
+name_zh_auto: true
 alt_names: [Nuclear Zeem, Tule]
 population: 400
 country_id: NG

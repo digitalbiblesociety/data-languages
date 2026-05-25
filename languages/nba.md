@@ -1,6 +1,8 @@
 ---
 iso: nba
 name: Nyemba
+name_zh: 尼延巴语
+name_zh_auto: true
 autonym: Ngangela
 alt_names: [Gangela, Ganguela, Ganguella, Nhemba]
 population: 950540

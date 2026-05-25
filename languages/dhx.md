@@ -1,6 +1,8 @@
 ---
 iso: dhx
 name: Dhungaloo
+name_zh: 丹加卢语
+name_zh_auto: true
 autonym: (unconfirmed)
 population: null
 country_id: AU

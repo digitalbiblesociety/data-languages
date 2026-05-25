@@ -1,6 +1,8 @@
 ---
 iso: ukp
 name: "Ukpe-Bayobiri"
+name_zh: 乌克佩-贝亚奥比里语
+name_zh_auto: true
 autonym: null
 alt_names: [Nigeria]
 population: 12000

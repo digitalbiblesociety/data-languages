@@ -1,6 +1,8 @@
 ---
 iso: nnr
 name: Narungga
+name_zh: 纳龙加语
+name_zh_auto: true
 autonym: Nanunga
 alt_names: [Adjabdurah, Adjadura, Adjahdurah, Adjahdural, Moor in nunjie, Moor-in-nunjie, Murinandji, Nar anga, Nar-anga, Naranga, Narangga, Narangga language, Narangka, Narrang gu, Narrang u, Narrang-gu, Narrang-u, Narranga, Narrangga, Narranggu, Narrangu, Narrunga, Narunga, Narungga/Nharangga, Nharangga, Turra, Wallaroo tribe]
 population: null

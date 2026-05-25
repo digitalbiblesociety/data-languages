@@ -1,6 +1,8 @@
 ---
 iso: ptu
 name: Bambam
+name_zh: 班班姆语
+name_zh_auto: true
 autonym: Pitu Ulunna Salu
 alt_names: [Nordost-Celebes, Pitu Ilunna Salo, Pitu Ulunna Salo, Pitu-Ulunna-Salu]
 population: 42100

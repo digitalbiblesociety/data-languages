@@ -1,6 +1,8 @@
 ---
 iso: une
 name: Uneme
+name_zh: 乌内梅语
+name_zh_auto: true
 autonym: uneme nnekua
 alt_names: [Ileme, Ineme, Uleme]
 population: 19800

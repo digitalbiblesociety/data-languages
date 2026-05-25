@@ -1,6 +1,8 @@
 ---
 iso: pop
 name: Pwapwâ
+name_zh: 普瓦普瓦语
+name_zh_auto: true
 autonym: Poapoa
 alt_names: [Neukaledonien, Pwapwa]
 population: 40

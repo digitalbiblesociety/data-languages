@@ -1,6 +1,8 @@
 ---
 iso: kmt
 name: Kemtuik
+name_zh: 克姆图伊克语
+name_zh_auto: true
 autonym: Kamtuk
 alt_names: [Kemtuk]
 population: 2500

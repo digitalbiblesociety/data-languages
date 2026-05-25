@@ -1,6 +1,8 @@
 ---
 iso: beq
 name: Beembe
+name_zh: 贝恩贝语
+name_zh_auto: true
 autonym: Kibeembe
 alt_names: [Beembe (H.11), Bembe, Bembe (CK if same Bembe), Bembe (Congo)]
 population: 100000

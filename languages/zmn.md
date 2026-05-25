@@ -1,6 +1,8 @@
 ---
 iso: zmn
 name: Mbangwe
+name_zh: 姆班格语
+name_zh_auto: true
 autonym: Mbaŋwe
 alt_names: ["M'bahouin", Mbahouin]
 population: 3690

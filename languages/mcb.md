@@ -1,6 +1,8 @@
 ---
 iso: mcb
 name: Machiguenga
+name_zh: 马奇格恩加语
+name_zh_auto: true
 autonym: Matsigenka
 alt_names: [Amachengue, Machaguenga, Macheyenga, Matsiganga, Matsigenga, Matsiguenga, Mañaries]
 population: 21400

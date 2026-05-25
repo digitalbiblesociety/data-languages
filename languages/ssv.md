@@ -1,6 +1,8 @@
 ---
 iso: ssv
 name: Shark Bay
+name_zh: 鲨鱼湾语
+name_zh_auto: true
 autonym: Shark Bay
 alt_names: [Lengua de la Bahía del Tiburón, Ngen]
 population: 450

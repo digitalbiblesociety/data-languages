@@ -1,6 +1,8 @@
 ---
 iso: swc
 name: Congo Swahili
+name_zh: 刚果斯瓦希里语
+name_zh_auto: true
 autonym: Kiswahili
 alt_names: ["Swahili, Congo", Zaïre Swahili]
 population: 2043000

@@ -1,6 +1,8 @@
 ---
 iso: xsl
 name: South Slavey
+name_zh: 南斯拉夫语
+name_zh_auto: true
 autonym: "Dene K'e"
 alt_names: ["\"Slave\"", "Acha'otinne", Dene, "Dene K'e (Slavey)", Dene Tha (ᑌᓀ ᒐ), "Dene Tha'", Dené, Eslavi meridional, Mackenzian, Slave, Slavey, Slavey du sud, "Slavey, South", Slavi]
 population: 3600

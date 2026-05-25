@@ -1,6 +1,8 @@
 ---
 iso: kuo
 name: Kumukio
+name_zh: 库穆基奥语
+name_zh_auto: true
 autonym: Kumokio
 population: 550
 country_id: PG

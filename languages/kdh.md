@@ -1,6 +1,8 @@
 ---
 iso: kdh
 name: Tem
+name_zh: 特姆语
+name_zh_auto: true
 autonym: Kotokoli
 alt_names: [Cotocoli, Temba, Tim, Timu]
 population: 390200

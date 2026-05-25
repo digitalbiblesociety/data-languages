@@ -1,6 +1,8 @@
 ---
 iso: tlt
 name: Sou Nama
+name_zh: 索乌纳马语
+name_zh_auto: true
 autonym: Silen
 alt_names: [Taluti, Tehoru, Teluti, Tihoru, Wolu]
 population: 17000

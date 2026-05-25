@@ -1,6 +1,8 @@
 ---
 iso: nnz
 name: "Nda'nda'"
+name_zh: 恩达恩达语
+name_zh_auto: true
 autonym: "Bamileke-Nda'nda'"
 alt_names: [Bamileke-Nda’nda’, Bangwa]
 population: 10000

@@ -1,6 +1,8 @@
 ---
 iso: ahh
 name: Aghu
+name_zh: 阿古语
+name_zh_auto: true
 autonym: Central Awyu
 alt_names: [Aghu jezik, Auju, Awju, Djair, Dyair, Język aghu, ภาษาอาคู]
 population: 3000

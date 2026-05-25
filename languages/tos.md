@@ -1,6 +1,8 @@
 ---
 iso: tos
 name: Highland Totonac
+name_zh: 高地托托纳克语
+name_zh_auto: true
 autonym: Highland Totonac
 alt_names: [Highland, Highland Totonako, Santo Domingo Totonac, Sierra Totonac, Totonac, Totonac (Sierra), "Totonac, Highland", Totonacano de Patla, Totonacano de Sierra, Totonacano filomeno mata-coahuillán, Totonaco, Totonaco de Coyutla, Totonaco de Filomena Mata-Coahuitlán, Totonaco de Ozumatlán, Totonaco de la Sierra, Totonakeg Sierra, Totonako, Totonaque de Filomeno Mata, Totonaque de Patla-Chicontla, Totonaque de la sierra]
 population: 120000

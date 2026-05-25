@@ -1,6 +1,8 @@
 ---
 iso: xwr
 name: Kwerba Mamberamo
+name_zh: 克韦尔巴-曼贝拉莫语
+name_zh_auto: true
 autonym: Nopuk
 alt_names: [Napok, Nobuk, Nogukwabai, Nopukw, Tatsewalem]
 population: 300

@@ -1,6 +1,8 @@
 ---
 iso: khh
 name: Kehu
+name_zh: 克胡语
+name_zh_auto: true
 autonym: Kehu
 alt_names: [Indonesia]
 population: 200

@@ -1,6 +1,8 @@
 ---
 iso: dhr
 name: Dhargari
+name_zh: 达尔加里语
+name_zh_auto: true
 autonym: "Dal'gari"
 alt_names: [Dalgari, Dargari, Targari, Tarkari, Tarkarri, Tarl garri, Tarl-garri, Tarlgarri, Tarugari, Thadgarri, Thargari, Tharkarri, Tharrgari, Tharrkari]
 population: null

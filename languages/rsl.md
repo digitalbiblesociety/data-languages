@@ -1,6 +1,8 @@
 ---
 iso: rsl
 name: Russian Sign Language
+name_zh: 俄罗斯手语
+name_zh_auto: true
 autonym: Русский Жестовый Язык
 alt_names: [Russisk tegnspråk]
 population: 909000

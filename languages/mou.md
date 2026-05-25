@@ -1,6 +1,8 @@
 ---
 iso: mou
 name: Mogum
+name_zh: 莫古姆语
+name_zh_auto: true
 autonym: Mogoum
 alt_names: [Mogum language]
 population: 7000

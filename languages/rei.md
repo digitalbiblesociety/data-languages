@@ -1,6 +1,8 @@
 ---
 iso: rei
 name: Reli
+name_zh: 雷利语
+name_zh_auto: true
 autonym: Relli
 population: 19000
 country_id: IN

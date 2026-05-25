@@ -1,6 +1,8 @@
 ---
 iso: yog
 name: Yogad
+name_zh: 约加德语
+name_zh_auto: true
 autonym: null
 alt_names: [Philippines]
 population: 16000

@@ -1,6 +1,8 @@
 ---
 iso: lbl
 name: Libon Bikol
+name_zh: 利邦比科尔语
+name_zh_auto: true
 autonym: Libongeño
 alt_names: ["Bikol, Libon"]
 population: 700000

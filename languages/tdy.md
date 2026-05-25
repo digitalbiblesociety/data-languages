@@ -1,6 +1,8 @@
 ---
 iso: tdy
 name: Tadyawan
+name_zh: 塔迪亚万语
+name_zh_auto: true
 autonym: Balaban
 alt_names: [Pula, Tadianan]
 population: 4150

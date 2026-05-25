@@ -1,6 +1,8 @@
 ---
 iso: nbe
 name: Konyak Naga
+name_zh: 科尼亚克纳加语
+name_zh_auto: true
 autonym: Kanyak
 alt_names: [Coñac, Konyak, Naga, "Naga, Konyak", "Naga,Konyak", Tableng]
 population: 246000

@@ -1,6 +1,8 @@
 ---
 iso: tkv
 name: Mur Pano
+name_zh: 穆尔帕诺语
+name_zh_auto: true
 autonym: Pano
 population: 700
 country_id: PG

@@ -1,6 +1,8 @@
 ---
 iso: orz
 name: Ormu
+name_zh: 奥尔姆语
+name_zh_auto: true
 autonym: bahasa Ormu
 population: 500
 country_id: ID

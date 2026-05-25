@@ -1,6 +1,8 @@
 ---
 iso: afi
 name: Akrukay
+name_zh: 阿克鲁凯语
+name_zh_auto: true
 autonym: Chini
 alt_names: [Akruray]
 population: 250

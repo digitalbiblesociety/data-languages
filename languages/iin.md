@@ -1,6 +1,8 @@
 ---
 iso: iin
 name: Thiin
+name_zh: 蒂因语
+name_zh_auto: true
 autonym: Deen
 alt_names: [Deenma, Denma, Dhiyin, Dhiyinma, "Te:n", Teen, Teenma, Tenma, Thenma, Thiinma]
 population: null

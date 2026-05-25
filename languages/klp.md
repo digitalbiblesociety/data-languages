@@ -1,6 +1,8 @@
 ---
 iso: klp
 name: Kamasa
+name_zh: 卡马萨语
+name_zh_auto: true
 autonym: null
 population: null
 country_id: PG

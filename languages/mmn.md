@@ -1,6 +1,8 @@
 ---
 iso: mmn
 name: Mamanwa
+name_zh: 玛曼瓦语
+name_zh_auto: true
 autonym: Mamanwa Negrito
 alt_names: [Minamanwa]
 population: 5150

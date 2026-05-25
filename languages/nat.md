@@ -1,6 +1,8 @@
 ---
 iso: nat
 name: Ca̱hungwa̱rya̱
+name_zh: 卡洪古瓦里亚语
+name_zh_auto: true
 autonym: Ngwe
 alt_names: [Cahungwarya, Hungworo, Huŋgwəryə, Ingwe, Ingwo, Ngwoi, Nkwoi, Ungwai, Ungwe, ũngwāī]
 population: 20000

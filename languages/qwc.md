@@ -1,6 +1,8 @@
 ---
 iso: qwc
 name: Classical Quechua
+name_zh: 古典克丘亚语
+name_zh_auto: true
 autonym: "Quechua II-C"
 alt_names: [Imperial Kechua, "Quechua, Classical"]
 population: null

@@ -1,6 +1,8 @@
 ---
 iso: bya
 name: Batak
+name_zh: 巴塔克语
+name_zh_auto: true
 autonym: Palawan Batak
 alt_names: [Babuyan, Bataco, Battak, Tinitianes]
 population: 2041

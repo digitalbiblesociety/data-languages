@@ -1,6 +1,8 @@
 ---
 iso: lrv
 name: Larevat
+name_zh: 拉雷瓦特语
+name_zh_auto: true
 autonym: Laravat
 alt_names: [Larëvat, Mallicolo]
 population: 680

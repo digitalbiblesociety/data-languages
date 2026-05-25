@@ -1,6 +1,8 @@
 ---
 iso: mbk
 name: Malol
+name_zh: 马洛尔语
+name_zh_auto: true
 autonym: Malolo
 alt_names: [Malon]
 population: 3330

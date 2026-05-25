@@ -1,6 +1,8 @@
 ---
 iso: mgb
 name: Mararit
+name_zh: 玛拉里特语
+name_zh_auto: true
 autonym: Abiri
 alt_names: [Abiyi, Ebiri, Mararet, Marariteg, Merarit]
 population: 15376

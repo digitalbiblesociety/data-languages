@@ -1,6 +1,8 @@
 ---
 iso: ama
 name: Amanayé
+name_zh: 阿曼纳耶语
+name_zh_auto: true
 autonym: Amanage
 alt_names: [Amanajo, Amanajé, Amanaye, Amanayé language area, Amanyé, Anambé, Guajá, "Ka'apór", Manajo, Manaxo, Manaze, Manazo, Urubú, Urubú-kaapor]
 population: null

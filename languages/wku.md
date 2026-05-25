@@ -1,6 +1,8 @@
 ---
 iso: wku
 name: Kunduvadi
+name_zh: 库杜瓦迪语
+name_zh_auto: true
 autonym: null
 population: 1000
 country_id: IN

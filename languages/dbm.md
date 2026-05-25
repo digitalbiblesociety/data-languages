@@ -1,6 +1,8 @@
 ---
 iso: dbm
 name: Duguri
+name_zh: 杜古里语
+name_zh_auto: true
 autonym: Doori
 alt_names: [Dugarwa, Duguranchi, Dugurawa, Dukuri]
 population: 20000

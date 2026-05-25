@@ -1,6 +1,8 @@
 ---
 iso: dof
 name: Domu
+name_zh: 多穆语
+name_zh_auto: true
 autonym: Dom
 population: 950
 country_id: PG

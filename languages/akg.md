@@ -1,6 +1,8 @@
 ---
 iso: akg
 name: Anakalangu
+name_zh: 阿纳卡兰古语
+name_zh_auto: true
 autonym: Anakalang
 population: 14000
 country_id: ID

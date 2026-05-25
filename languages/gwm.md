@@ -1,6 +1,8 @@
 ---
 iso: gwm
 name: Awngthim
+name_zh: 奥恩蒂姆语
+name_zh_auto: true
 autonym: Angutimi
 population: null
 country_id: AU

@@ -1,6 +1,8 @@
 ---
 iso: uvl
 name: Lote
+name_zh: 洛特语
+name_zh_auto: true
 autonym: null
 alt_names: [Uvol]
 population: 6000

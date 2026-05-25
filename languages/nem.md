@@ -1,6 +1,8 @@
 ---
 iso: nem
 name: Nemi
+name_zh: 内米语
+name_zh_auto: true
 autonym: null
 alt_names: [Neukaledonien]
 population: 320

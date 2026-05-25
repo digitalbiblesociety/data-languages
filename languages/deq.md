@@ -1,6 +1,8 @@
 ---
 iso: deq
 name: Dendi (Central African Republic)
+name_zh: 邓迪语
+name_zh_auto: true
 autonym: null
 alt_names: [Dendi]
 population: 10000

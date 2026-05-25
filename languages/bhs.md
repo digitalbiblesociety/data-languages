@@ -1,6 +1,8 @@
 ---
 iso: bhs
 name: Buwal
+name_zh: 布瓦尔语
+name_zh_auto: true
 autonym: Gadala
 alt_names: [Bual, Ma Buwal]
 population: 7000

@@ -1,6 +1,8 @@
 ---
 iso: ivb
 name: Ibatan
+name_zh: 伊巴坦语
+name_zh_auto: true
 autonym: Ibatan
 alt_names: [Babuyan, Ibataan, Ivatan]
 population: 1240

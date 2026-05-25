@@ -1,6 +1,8 @@
 ---
 iso: nrg
 name: Narango
+name_zh: 纳兰戈语
+name_zh_auto: true
 autonym: Farsaf
 alt_names: [Nambel, Several dialects.]
 population: 160

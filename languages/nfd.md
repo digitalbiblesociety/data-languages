@@ -1,6 +1,8 @@
 ---
 iso: nfd
 name: Ahwai
+name_zh: 艾瓦依语
+name_zh_auto: true
 autonym: Ndunic
 alt_names: [Hanyeng, Indun, Isakara, Nandu, Ndun, Ningon, Nyeng, Shakara, Tari]
 population: 3000

@@ -1,6 +1,8 @@
 ---
 iso: myr
 name: Muniche
+name_zh: 穆尼切语
+name_zh_auto: true
 autonym: Muniche
 alt_names: [Munichi, Munichino, Otanabe, Otanave, Otonabe, Paranapura]
 population: 2023

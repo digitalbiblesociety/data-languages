@@ -1,6 +1,8 @@
 ---
 iso: msx
 name: Moresada
+name_zh: 莫雷萨达语
+name_zh_auto: true
 autonym: Murisapa
 alt_names: [Murusapa, Murusapa-Sarewa]
 population: 200

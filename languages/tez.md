@@ -1,6 +1,8 @@
 ---
 iso: tez
 name: Tetserret
+name_zh: 特塞雷特语
+name_zh_auto: true
 autonym: Tətsərret
 population: 2000
 country_id: NE

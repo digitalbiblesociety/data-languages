@@ -1,6 +1,8 @@
 ---
 iso: bbi
 name: Barombi
+name_zh: 巴罗姆比语
+name_zh_auto: true
 autonym: Balombi
 alt_names: [Bankon, Barumbi, Lambi, Lombe, Lombi, Nkon, Rambi, Rombi, Rombi language]
 population: 3000

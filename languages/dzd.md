@@ -1,6 +1,8 @@
 ---
 iso: dzd
 name: Daza
+name_zh: 达扎语
+name_zh_auto: true
 autonym: Dazawa
 alt_names: [Ampika, Bolanchi, Bolawa, Bole, Bolewa, Borpika]
 population: 100

@@ -1,6 +1,8 @@
 ---
 iso: typ
 name: Thaypan
+name_zh: 泰潘语
+name_zh_auto: true
 autonym: Awu Alaya
 alt_names: [AghuLaia, AkuLaia, Ambaram, Angandjan, Arlga, Awu Laya, Awu-Alaya, Awu-Laya, Awurangung, Bariman Cudhinma, BarimanCutinma, Barimangudinma, Barinangndinma, Barinman Guthinma, Cocobathan, Coo coo warra, Coo-coo-warra, Daiban, Dhayban, Gugu Dhayban, Jadeneni, Jeteneru, Jetieneru, Koko Laia, Kokowara, Koogabatha, Kookoobathy, Kuku Taipan, Kuku Thaypan, Kuku-Thaypan, Kuku-Thaypan language, Laia, Laya, Lenga thaypan, Ompindamo, Owynggan, Parimankutinma, Parinman Gutinma, Purangunuma, Taipan, Taypan, Wu Laya, Wu-Laya, Wurangung, Yadaneru, Yananeru]
 population: null

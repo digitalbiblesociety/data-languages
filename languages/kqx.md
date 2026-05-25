@@ -1,6 +1,8 @@
 ---
 iso: kqx
 name: Mser
+name_zh: 姆塞尔语
+name_zh_auto: true
 autonym: Kuseri
 alt_names: [Klesem, Kotoko-Kuseri, Kouseri, Kousseri, Mandage, Mandague, Mendage]
 population: 500

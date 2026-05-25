@@ -1,6 +1,8 @@
 ---
 iso: kmu
 name: Kanite
+name_zh: 卡尼特语
+name_zh_auto: true
 autonym: null
 population: 9300
 country_id: PG

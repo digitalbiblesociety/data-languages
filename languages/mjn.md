@@ -1,6 +1,8 @@
 ---
 iso: mjn
 name: Ma (Papua New Guinea)
+name_zh: 玛语（巴布亚新几内亚）
+name_zh_auto: true
 autonym: Mebu
 alt_names: [Ma, Mawam]
 population: 570

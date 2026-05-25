@@ -1,6 +1,8 @@
 ---
 iso: tqo
 name: Toaripi
+name_zh: 托阿里皮语
+name_zh_auto: true
 autonym: East Elema
 alt_names: [Elema, Motumotu]
 population: 25200

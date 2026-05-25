@@ -1,6 +1,8 @@
 ---
 iso: gbg
 name: Gbanziri
+name_zh: 加邦齐里语
+name_zh_auto: true
 autonym: Banziri
 alt_names: [Gbandere, Gbanzili, "Gbanzili-'Bolaka"]
 population: 14500

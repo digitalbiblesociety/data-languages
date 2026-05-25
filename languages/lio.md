@@ -1,6 +1,8 @@
 ---
 iso: lio
 name: Liki
+name_zh: 利基语
+name_zh_auto: true
 autonym: Moar
 alt_names: [Sobei]
 population: 320

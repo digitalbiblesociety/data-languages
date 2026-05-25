@@ -1,6 +1,8 @@
 ---
 iso: nlj
 name: Nyali
+name_zh: 尼亚利语
+name_zh_auto: true
 autonym: Linyali
 alt_names: [Huku, North Nyali, Nyali-Kilo, Nyari]
 population: 43000

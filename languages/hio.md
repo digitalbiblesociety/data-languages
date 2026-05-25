@@ -1,6 +1,8 @@
 ---
 iso: hio
 name: Tsoa
+name_zh: 措阿语
+name_zh_auto: true
 autonym: Kua
 alt_names: [Chuwau, Chware, Cire-cire, Cua, Cuaa, G//abake, Gabake-Ntshori, "G||abake", Haitshuari, Haitshuwau, Hiechware, Hietshware, Hiochuwau, Hiotshuwau, Kwe, Kwe-Etshori Kwee, Kwe-Tshori, Kwee, Masarwa, Sarwa, Sesarwa, Shua, Tati, Tati Bushman, Tshoa, Tshuwau, Tshwa]
 population: 3000

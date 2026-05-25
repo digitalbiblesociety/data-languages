@@ -1,6 +1,8 @@
 ---
 iso: wog
 name: Wogamusin
+name_zh: 沃加木新语
+name_zh_auto: true
 autonym: Wongamusin
 alt_names: [Język wogamusin, Wogamuosineg]
 population: 700

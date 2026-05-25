@@ -1,6 +1,8 @@
 ---
 iso: bwt
 name: "Bafaw-Balong"
+name_zh: 巴法-巴隆语
+name_zh_auto: true
 autonym: Balong
 alt_names: [Ngoe]
 population: 8400

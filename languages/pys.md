@@ -1,6 +1,8 @@
 ---
 iso: pys
 name: Paraguayan Sign Language
+name_zh: 巴拉圭手语
+name_zh_auto: true
 autonym: Lengua de Señas del Paraguay
 population: 15000
 country_id: PY

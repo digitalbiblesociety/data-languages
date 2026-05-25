@@ -1,6 +1,8 @@
 ---
 iso: amm
 name: Ama (Papua New Guinea)
+name_zh: 阿玛语
+name_zh_auto: true
 autonym: Sawiyanu
 alt_names: [Ama, Neinbonei, Waniabu, Wanibu]
 population: 480

@@ -1,6 +1,8 @@
 ---
 iso: mbw
 name: Maring
+name_zh: 马林语
+name_zh_auto: true
 autonym: " Yoadabe-Watoare"
 alt_names: [Mareng]
 population: 13000

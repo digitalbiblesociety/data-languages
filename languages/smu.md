@@ -1,6 +1,8 @@
 ---
 iso: smu
 name: Somray
+name_zh: 索姆雷语
+name_zh_auto: true
 autonym: Northern Chong
 alt_names: [Samrai, Samray, Samre, Western Pear]
 population: 4100

@@ -1,6 +1,8 @@
 ---
 iso: xcu
 name: Curonian
+name_zh: 库隆语
+name_zh_auto: true
 autonym: null
 population: null
 country_id: DE

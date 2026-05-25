@@ -1,6 +1,8 @@
 ---
 iso: kkf
 name: Kalaktang Monpa
+name_zh: 卡拉克唐蒙帕语
+name_zh_auto: true
 autonym: Sharchop
 alt_names: [Kalaktang, Monpa, "Monpa, Kalaktang", "Monpa,Kalaktang", Southern Monpa, Tsangla Monpa]
 population: 8000

@@ -1,6 +1,8 @@
 ---
 iso: auw
 name: Awyi
+name_zh: 奥维语
+name_zh_auto: true
 autonym: Awje
 alt_names: [Auyi, Aviú, Awji, Awye, Beapawa, Embiawo, Njao, Nyao]
 population: 350

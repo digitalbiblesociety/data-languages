@@ -1,6 +1,8 @@
 ---
 iso: mqw
 name: Murupi
+name_zh: 穆鲁皮语
+name_zh_auto: true
 autonym: null
 population: 300
 country_id: PG

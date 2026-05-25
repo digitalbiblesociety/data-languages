@@ -1,6 +1,8 @@
 ---
 iso: mgw
 name: Matumbi
+name_zh: 玛图姆比语
+name_zh_auto: true
 autonym: Kimatuumbi
 alt_names: [Kimatumbi, Matuumbi]
 population: 227000

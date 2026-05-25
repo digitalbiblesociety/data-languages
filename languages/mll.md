@@ -1,6 +1,8 @@
 ---
 iso: mll
 name: Malua Bay
+name_zh: 玛卢亚湾语
+name_zh_auto: true
 autonym: Middle Nambas
 alt_names: [Espiegle Bay, "Espiegle's Bay", Malakula, Mallicolo, Petarmur (Petarmul)]
 population: 500

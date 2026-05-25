@@ -1,6 +1,8 @@
 ---
 iso: nxo
 name: Ndambomo
+name_zh: 恩达姆博莫语
+name_zh_auto: true
 autonym: null
 population: 2000
 country_id: GA

@@ -1,6 +1,8 @@
 ---
 iso: uiv
 name: Iyive
+name_zh: 依维维语
+name_zh_auto: true
 autonym: Uive
 alt_names: [Asumbo, Ndir, Yiive]
 population: 1000

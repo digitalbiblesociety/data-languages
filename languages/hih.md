@@ -1,6 +1,8 @@
 ---
 iso: hih
 name: Pamosu
+name_zh: 帕莫苏语
+name_zh_auto: true
 autonym: Hinihon
 population: 1500
 country_id: PG

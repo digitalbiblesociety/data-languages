@@ -1,6 +1,8 @@
 ---
 iso: lna
 name: Langbashe
+name_zh: 兰巴谢语
+name_zh_auto: true
 autonym: Langbase
 alt_names: [Langbashi, Langbasi, Langbwasse, Langwasi]
 population: 43000

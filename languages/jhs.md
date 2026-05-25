@@ -1,6 +1,8 @@
 ---
 iso: jhs
 name: Jhankot Sign Language
+name_zh: 詹科特手语
+name_zh_auto: true
 autonym: झान्कोट साङ्केतिक भाषा
 population: null
 country_id: NP

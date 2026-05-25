@@ -1,6 +1,8 @@
 ---
 iso: lwe
 name: Lewo Eleng
+name_zh: 勒沃-埃伦语
+name_zh_auto: true
 autonym: bahasa Lewo Eleng
 alt_names: [Indonesia]
 population: 4000

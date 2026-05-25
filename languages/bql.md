@@ -1,6 +1,8 @@
 ---
 iso: bql
 name: Bilakura
+name_zh: 比拉库拉语
+name_zh_auto: true
 autonym: Karian
 alt_names: [Banks-Inseln, Karen]
 population: 34

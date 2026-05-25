@@ -1,6 +1,8 @@
 ---
 iso: dbw
 name: Bankan Tey Dogon
+name_zh: 班坎特伊多贡语
+name_zh_auto: true
 autonym: "Walo-Kumbe"
 alt_names: [Bankan Tey, "Dogon, Bankan Tey", Oualo, Walo]
 population: null

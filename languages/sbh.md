@@ -1,6 +1,8 @@
 ---
 iso: sbh
 name: "Sori-Harengan"
+name_zh: 索里-哈伦甘语
+name_zh_auto: true
 autonym: null
 alt_names: [Admiralitäts-inseln]
 population: 570

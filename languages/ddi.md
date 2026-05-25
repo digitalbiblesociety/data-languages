@@ -1,6 +1,8 @@
 ---
 iso: ddi
 name: West Goodenough
+name_zh: 西古德依夫语
+name_zh_auto: true
 autonym: West Goodenough
 alt_names: ["Goodenough, West"]
 population: 2180

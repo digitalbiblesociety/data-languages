@@ -1,6 +1,8 @@
 ---
 iso: zkk
 name: Karankawa
+name_zh: 卡兰卡瓦语
+name_zh_auto: true
 autonym: Keles
 population: null
 country_id: US

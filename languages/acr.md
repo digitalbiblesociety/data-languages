@@ -1,6 +1,8 @@
 ---
 iso: acr
 name: Achi
+name_zh: 阿奇语
+name_zh_auto: true
 autonym: Achiʼ
 alt_names: ["Achi'", "Achi', Rabinal", Achí, Idioma achí, Língua achi, "Rabinal K'iche'", Ачиски јазик]
 population: 124000

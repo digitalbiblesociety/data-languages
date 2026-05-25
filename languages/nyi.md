@@ -1,6 +1,8 @@
 ---
 iso: nyi
 name: Ama (Sudan)
+name_zh: 阿玛语
+name_zh_auto: true
 autonym: Ama
 alt_names: [Ama-nosa, Inyimang, Nyima, Nyiman, Nyimang, nOsa]
 population: 158000

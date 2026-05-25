@@ -1,6 +1,8 @@
 ---
 iso: xiy
 name: Xipaya
+name_zh: 西帕亚语
+name_zh_auto: true
 autonym: Shipaja
 alt_names: [Achipaie, Chipaia, Chipaya, Língua xipaia, Shipaya, Xipaia, Xipáya, Šipajų kalba, Šipaya]
 population: 595

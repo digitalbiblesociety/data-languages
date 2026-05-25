@@ -1,6 +1,8 @@
 ---
 iso: zna
 name: Zan Gula
+name_zh: 赞古拉语
+name_zh_auto: true
 autonym: Goula
 alt_names: [Gula Guera, Moriil, Morre, mòrḭ̀ḭ̀l]
 population: 5000

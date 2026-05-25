@@ -1,6 +1,8 @@
 ---
 iso: bnz
 name: Beezen
+name_zh: 比泽恩语
+name_zh_auto: true
 autonym: null
 alt_names: [Bezen]
 population: 450

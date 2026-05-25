@@ -1,6 +1,8 @@
 ---
 iso: ttf
 name: Tuotomb
+name_zh: 图奥图姆语
+name_zh_auto: true
 autonym: Bonek
 alt_names: [Ponek, Tuotom, Tuotombo]
 population: 1000

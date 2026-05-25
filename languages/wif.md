@@ -1,6 +1,8 @@
 ---
 iso: wif
 name: "Wik-Keyangan"
+name_zh: 威克-凯扬根语
+name_zh_auto: true
 autonym: null
 alt_names: [Wik-Keyenganh]
 population: null

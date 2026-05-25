@@ -1,6 +1,8 @@
 ---
 iso: kki
 name: Kagulu
+name_zh: 卡古卢语
+name_zh_auto: true
 autonym: Chikagulu
 alt_names: [Kaguru, Kigaguru, Kigalulu, Kiningo, Northern Sagara, Solwa]
 population: 337000

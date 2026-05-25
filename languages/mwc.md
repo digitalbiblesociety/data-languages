@@ -1,6 +1,8 @@
 ---
 iso: mwc
 name: Are
+name_zh: 阿雷语
+name_zh_auto: true
 autonym: Mukawa
 alt_names: [Doga language]
 population: 1700

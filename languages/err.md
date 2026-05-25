@@ -1,6 +1,8 @@
 ---
 iso: err
 name: Erre
+name_zh: 埃雷语
+name_zh_auto: true
 autonym: Mangerr
 alt_names: [Ari, Arra, Ere, Erei, Eri, Rereri]
 population: null

@@ -1,6 +1,8 @@
 ---
 iso: tja
 name: Tajuasohn
+name_zh: 塔朱阿松语
+name_zh_auto: true
 autonym: Tajuason
 alt_names: [Kru, Tajuoso, Tajuosohn]
 population: 9600

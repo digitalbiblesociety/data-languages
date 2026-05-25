@@ -1,6 +1,8 @@
 ---
 iso: ahl
 name: Igo
+name_zh: 伊戈语
+name_zh_auto: true
 autonym: Igo
 alt_names: [Achlo, Ago, Ahlon, Ahlon-Bogo, Ahlõ, Ahonlan, Anlo]
 population: 6000

@@ -1,6 +1,8 @@
 ---
 iso: rsb
 name: "Romano-Serbian"
+name_zh: 罗玛-塞尔维亚语
+name_zh_auto: true
 autonym: "Serbo-Romany"
 population: 78000
 country_id: RS

@@ -1,6 +1,8 @@
 ---
 iso: zmo
 name: Molo
+name_zh: 莫洛语
+name_zh_auto: true
 autonym: Malkan
 alt_names: [Tura-Ka-Molo]
 population: 100

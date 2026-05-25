@@ -1,6 +1,8 @@
 ---
 iso: lbi
 name: "La'bi"
+name_zh: 拉比语
+name_zh_auto: true
 autonym: La’bi
 alt_names: [Cameroon]
 population: 4400

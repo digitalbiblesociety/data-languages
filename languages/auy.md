@@ -1,6 +1,8 @@
 ---
 iso: auy
 name: Awiyaana
+name_zh: 阿维亚纳语
+name_zh_auto: true
 autonym: Auyana
 population: 11100
 country_id: PG

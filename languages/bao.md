@@ -1,6 +1,8 @@
 ---
 iso: bao
 name: Waimaha
+name_zh: 瓦伊马哈语
+name_zh_auto: true
 autonym: Bará
 alt_names: [Barasano, Barasano (Northern), Bará-Tuyuka, Northern Barasano, Waimaja, Waípinõmakã]
 population: 131

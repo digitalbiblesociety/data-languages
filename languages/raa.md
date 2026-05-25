@@ -1,6 +1,8 @@
 ---
 iso: raa
 name: Dungmali
+name_zh: 邓姆加利语
+name_zh_auto: true
 autonym: Arthare
 alt_names: [Arthare-Khesang, Dungmali Pûk, Dungmali-Bantawa, Dūngmālī]
 population: 220

@@ -1,6 +1,8 @@
 ---
 iso: wni
 name: Ndzwani Comorian
+name_zh: 恩津瓦尼科摩里语
+name_zh_auto: true
 autonym: shikomori/شِكُمُرِ
 alt_names: ["Comorian, Ndzwani", Shindzwani]
 population: 361000

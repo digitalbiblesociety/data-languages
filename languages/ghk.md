@@ -1,6 +1,8 @@
 ---
 iso: ghk
 name: Geko Karen
+name_zh: 格科凯伦语
+name_zh_auto: true
 autonym: Gaikho
 alt_names: ["Gek'o", Gekho, Ghekhol, Ghekhu, Gheko, "Karen, Geko", "Karen,Geko", Kekaungdu, Kekhong, Keku, Padaung]
 population: 9500

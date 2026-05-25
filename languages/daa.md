@@ -1,6 +1,8 @@
 ---
 iso: daa
 name: Dangaléat
+name_zh: 当加勒亚特语
+name_zh_auto: true
 autonym: Dangla
 alt_names: [Danal, Dangal, Dangaleat, Dangaléat (Western), Western]
 population: 60000

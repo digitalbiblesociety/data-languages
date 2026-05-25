@@ -1,6 +1,8 @@
 ---
 iso: bdi
 name: Burun
+name_zh: 布伦语
+name_zh_auto: true
 autonym: Northern Burun
 alt_names: [Barun, Borun, Cai, Lange, Nord-Burun]
 population: 18000

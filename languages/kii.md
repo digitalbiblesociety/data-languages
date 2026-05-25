@@ -1,6 +1,8 @@
 ---
 iso: kii
 name: Kitsai
+name_zh: 基特塞语
+name_zh_auto: true
 autonym: Kichai
 population: null
 country_id: US

@@ -1,6 +1,8 @@
 ---
 iso: gmu
 name: Gumalu
+name_zh: 古马卢语
+name_zh_auto: true
 autonym: null
 population: 580
 country_id: PG

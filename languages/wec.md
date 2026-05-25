@@ -1,6 +1,8 @@
 ---
 iso: wec
 name: Wè Western
+name_zh: 韦西部语
+name_zh_auto: true
 autonym: Wè
 alt_names: [Gere, Guere, Guéré, Neyo, We Western, Wèè]
 population: 20000

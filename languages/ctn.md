@@ -1,6 +1,8 @@
 ---
 iso: ctn
 name: Chhintange
+name_zh: 钦塔恩格语
+name_zh_auto: true
 autonym: छिन्ताङ्
 alt_names: [Chhintang, Chintang, Chintang RÃ»ng, Chintang Rûng, Chintang language, Chintán, Tchintangeg, Teli]
 population: 1500

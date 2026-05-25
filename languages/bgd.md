@@ -1,6 +1,8 @@
 ---
 iso: bgd
 name: Rathwi Bareli
+name_zh: 拉思维巴雷利语
+name_zh_auto: true
 autonym: Bareli
 alt_names: [Barel, "Bareli, Rathwi", Pauri, Pawari, Pawri, Rathi, Rathia, Rathwi Pauri]
 population: 359000

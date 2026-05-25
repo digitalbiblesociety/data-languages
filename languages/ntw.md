@@ -1,6 +1,8 @@
 ---
 iso: ntw
 name: Nottoway
+name_zh: 诺托韦语
+name_zh_auto: true
 autonym: null
 alt_names: [Meherrin, Nottaway-Meherrin]
 population: null

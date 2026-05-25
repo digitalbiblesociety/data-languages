@@ -1,6 +1,8 @@
 ---
 iso: msp
 name: Maritsauá
+name_zh: 马里萨乌亚语
+name_zh_auto: true
 autonym: Manitsawá
 alt_names: [Maintsawá, Manitsauá, Manitsawa, Manitzula, Mantizula, Maritsaua]
 population: null

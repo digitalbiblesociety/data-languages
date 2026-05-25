@@ -1,6 +1,8 @@
 ---
 iso: mmu
 name: Mmaala
+name_zh: 玛阿拉语
+name_zh_auto: true
 autonym: Benyi
 alt_names: [Mmala, Nuasue]
 population: 5300

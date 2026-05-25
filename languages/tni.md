@@ -1,6 +1,8 @@
 ---
 iso: tni
 name: Tandia
+name_zh: 坦迪亚语
+name_zh_auto: true
 autonym: null
 population: null
 country_id: ID

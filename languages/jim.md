@@ -1,6 +1,8 @@
 ---
 iso: jim
 name: Jimi (Cameroon)
+name_zh: 吉米语（喀麦隆）
+name_zh_auto: true
 autonym: Jimjimən
 alt_names: ["'Um Falin", Bi-Gimu, Djimi, Jimi, Jimi language, Jimjimen]
 population: 3500

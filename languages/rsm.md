@@ -1,6 +1,8 @@
 ---
 iso: rsm
 name: Miriwoong Sign Language
+name_zh: 米里乌恩格手语
+name_zh_auto: true
 autonym: null
 population: 3
 country_id: AU

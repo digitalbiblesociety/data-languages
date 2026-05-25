@@ -1,6 +1,8 @@
 ---
 iso: lnd
 name: Lundayeh
+name_zh: 龙达耶语
+name_zh_auto: true
 autonym: " Southern Murut"
 alt_names: [Brunei Murut, Lun Bawang, Lun Bawang language, Lun Daya, Lun Dayah, Lun Daye, Lun Dayeh, Lun Dayoh, Lundaya, Murut]
 population: 47500

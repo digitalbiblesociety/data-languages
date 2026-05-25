@@ -1,6 +1,8 @@
 ---
 iso: eza
 name: Ezaa
+name_zh: 埃扎语
+name_zh_auto: true
 autonym: Ezza
 population: 700000
 country_id: NG

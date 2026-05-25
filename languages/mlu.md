@@ -1,6 +1,8 @@
 ---
 iso: mlu
 name: "To'abaita"
+name_zh: 托阿巴伊塔语
+name_zh_auto: true
 autonym: Malu’u
 alt_names: [Malaita (North), Malu, "Malu'u", North Malaita, Südliche Salomons-Inseln, "To'aba'ita", "To'ambaita", Toabaita, Toqabaqita]
 population: 12600

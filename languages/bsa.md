@@ -1,6 +1,8 @@
 ---
 iso: bsa
 name: Abinomn
+name_zh: 阿比诺姆语
+name_zh_auto: true
 autonym: Foia
 alt_names: ["\"Baso\"", Abinomneg, Avinomen, Foja, Foya, Lingua abinomn, Llingua Abinomn]
 population: 300

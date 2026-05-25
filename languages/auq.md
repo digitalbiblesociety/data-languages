@@ -1,6 +1,8 @@
 ---
 iso: auq
 name: Anus
+name_zh: 阿努斯语
+name_zh_auto: true
 autonym: Korur
 alt_names: [Koroernoes, Sobei, Анус, ภาษาอานุส, アヌス語]
 population: 320

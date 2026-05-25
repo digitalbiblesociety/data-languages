@@ -1,6 +1,8 @@
 ---
 iso: goo
 name: Gone Dau
+name_zh: 贡达乌语
+name_zh_auto: true
 autonym: Gonedau
 alt_names: [Fidji-Inseln]
 population: 690

@@ -1,6 +1,8 @@
 ---
 iso: ssi
 name: Sansi
+name_zh: 桑西语
+name_zh_auto: true
 autonym: Sansiboli
 alt_names: [Bhilki]
 population: 80000

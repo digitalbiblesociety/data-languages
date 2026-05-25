@@ -1,6 +1,8 @@
 ---
 iso: mfd
 name: "Mendankwe-Nkwen"
+name_zh: 门丹克韦-恩奎恩语
+name_zh_auto: true
 autonym: Mandankwe
 alt_names: [Mendankwe]
 population: 23100

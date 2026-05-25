@@ -1,6 +1,8 @@
 ---
 iso: dmv
 name: Dumpas
+name_zh: 邓帕斯语
+name_zh_auto: true
 autonym: Doompas
 population: 1080
 country_id: MY

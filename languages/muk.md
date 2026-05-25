@@ -1,6 +1,8 @@
 ---
 iso: muk
 name: Mugom
+name_zh: 穆戈姆语
+name_zh_auto: true
 autonym: Mugali
 alt_names: [Mugu, Mugum]
 population: 6500

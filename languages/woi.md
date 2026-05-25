@@ -1,6 +1,8 @@
 ---
 iso: woi
 name: Kamang
+name_zh: 卡芒语
+name_zh_auto: true
 autonym: Kamang
 alt_names: [Kamana-Kamang, Waisika, Woisika]
 population: 16500

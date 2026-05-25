@@ -1,6 +1,8 @@
 ---
 iso: nme
 name: Mzieme Naga
+name_zh: 姆齐梅纳加语
+name_zh_auto: true
 autonym: Northern Zeme
 alt_names: [Mzieme, Naga, "Naga, Mzieme", "Naga,Mzieme", Zeme]
 population: 29000

@@ -1,6 +1,8 @@
 ---
 iso: xcm
 name: Comecrudo
+name_zh: 科梅克鲁多语
+name_zh_auto: true
 autonym: "Carrizo, Yué"
 alt_names: [Carrizo, Comecrudan, Comecrudan Subfamily, Mulato]
 population: null

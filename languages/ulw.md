@@ -1,6 +1,8 @@
 ---
 iso: ulw
 name: Ulwa
+name_zh: 乌尔瓦语
+name_zh_auto: true
 autonym: Sumu
 population: null
 country_id: NI

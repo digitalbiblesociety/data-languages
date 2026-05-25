@@ -1,6 +1,8 @@
 ---
 iso: ibu
 name: Ibu
+name_zh: 伊布语
+name_zh_auto: true
 autonym: null
 population: 200
 country_id: ID

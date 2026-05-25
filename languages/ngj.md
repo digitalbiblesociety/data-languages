@@ -1,6 +1,8 @@
 ---
 iso: ngj
 name: Ngie
+name_zh: 恩吉语
+name_zh_auto: true
 autonym: Angie
 alt_names: [Baminge, Baninge, Mingi, Ngi, Ugie, Ungie]
 population: 37000

@@ -1,6 +1,8 @@
 ---
 iso: mhl
 name: Mauwake
+name_zh: 毛瓦克语
+name_zh_auto: true
 autonym: Ulingan
 alt_names: [Mawake]
 population: 2390

@@ -1,6 +1,8 @@
 ---
 iso: kvz
 name: Tsakwambo
+name_zh: 察夸姆博语
+name_zh_auto: true
 autonym: Tsakwambo
 alt_names: [Kotogut, Kotogüt, Kotogأƒآ¼t, Tsaukambo, Tsokwambo]
 population: 780

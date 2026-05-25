@@ -1,6 +1,8 @@
 ---
 iso: ymn
 name: Yamna
+name_zh: 亚姆纳语
+name_zh_auto: true
 autonym: Sunum
 alt_names: [Indonesia]
 population: 560

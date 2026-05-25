@@ -1,6 +1,8 @@
 ---
 iso: far
 name: Fataleka
+name_zh: 法塔莱卡语
+name_zh_auto: true
 autonym: null
 alt_names: [Südliche Salomons-Inseln]
 population: 6700

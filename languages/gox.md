@@ -1,6 +1,8 @@
 ---
 iso: gox
 name: Gobu
+name_zh: 戈布语
+name_zh_auto: true
 autonym: Gabou
 alt_names: [Gabu, Gubu, Ngobo, Ngobu]
 population: 12000

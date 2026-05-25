@@ -1,6 +1,8 @@
 ---
 iso: gmv
 name: Gamo
+name_zh: 加莫语
+name_zh_auto: true
 autonym: null
 alt_names: [Dache, Gemu, Gereze]
 population: 1630000

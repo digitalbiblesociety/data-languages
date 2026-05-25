@@ -1,6 +1,8 @@
 ---
 iso: emg
 name: Eastern Meohang
+name_zh: 东梅欧汉语
+name_zh_auto: true
 autonym: Mewahang
 alt_names: [Eastern, Jindā, Meohang, "Meohang, Eastern", "Meohang,Eastern", Newahang, Newahang Jimi, Newang, Newange Rai, Rai]
 population: 3000

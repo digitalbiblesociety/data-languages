@@ -1,6 +1,8 @@
 ---
 iso: mna
 name: Mbula
+name_zh: 姆布拉语
+name_zh_auto: true
 autonym: null
 alt_names: [Mangaaba, Mangaava, Mangaawa, Mangap, Mangap Mbula, Mangap-Mbula, Mangap. Kaimanga]
 population: 4500

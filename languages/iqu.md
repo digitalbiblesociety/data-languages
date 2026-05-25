@@ -1,6 +1,8 @@
 ---
 iso: iqu
 name: Iquito
+name_zh: 伊基托语
+name_zh_auto: true
 autonym: Amacacore
 alt_names: [Akanoini, Hamacore, Idioma iquito, Ikiteg, Ikito, Ikito-Kawarano, Ikitu, Iquita, Iquito-Cahuarano, Puca-Uma, Quiturran]
 population: 500

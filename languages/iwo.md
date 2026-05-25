@@ -1,6 +1,8 @@
 ---
 iso: iwo
 name: Iwur
+name_zh: 伊武尔语
+name_zh_auto: true
 autonym: Morop
 alt_names: [Dintere, Iwoer, Iworo]
 population: 6900

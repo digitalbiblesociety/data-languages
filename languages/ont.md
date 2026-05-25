@@ -1,6 +1,8 @@
 ---
 iso: ont
 name: Ontenu
+name_zh: 翁特努语
+name_zh_auto: true
 autonym: Ontena
 population: 3000
 country_id: PG

@@ -1,6 +1,8 @@
 ---
 iso: qvo
 name: Napo Lowland Quechua
+name_zh: 纳波低地克丘亚语
+name_zh_auto: true
 autonym: Kichwa Shimi
 alt_names: [Ingano, Kicho, Lowland Ecuadorian Quichua, Lowland Kichua, Lowland Napo Quichua, Napo, Napo Kichua, Napo Quichua, "Quechua, Napo Lowland", "Quichua, Napo Lowland", Quijo, Quixo, Runa Shimi, Santa Rosa Quechua, Santarrosino, Yumbo]
 population: 24000

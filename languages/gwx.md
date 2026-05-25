@@ -1,6 +1,8 @@
 ---
 iso: gwx
 name: Gua
+name_zh: 瓜语
+name_zh_auto: true
 autonym: "Anum-Boso"
 alt_names: [Guang, Gwa]
 population: 17600

@@ -1,6 +1,8 @@
 ---
 iso: xed
 name: Hdi
+name_zh: 赫迪语
+name_zh_auto: true
 autonym: Xədi
 alt_names: [Ftour, Hde, Hedi, Hide, Tourou, Tur, Turu, Turu-Hide, Xadi, Xdi, Xedi]
 population: 29000

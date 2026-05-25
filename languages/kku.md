@@ -1,6 +1,8 @@
 ---
 iso: kku
 name: Tumi
+name_zh: 图米语
+name_zh_auto: true
 autonym: Kitimi
 alt_names: [Tutumi]
 population: 2270

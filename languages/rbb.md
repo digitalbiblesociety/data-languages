@@ -1,6 +1,8 @@
 ---
 iso: rbb
 name: Rumai Palaung
+name_zh: 鲁迈帕劳语
+name_zh_auto: true
 autonym: " Ta'ang"
 alt_names: [Humai, Palaung, Palaung Rumai, "Palaung, Rumai", Rumai, Ruomai, Shan States Palaung]
 population: 162100

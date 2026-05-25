@@ -1,6 +1,8 @@
 ---
 iso: nhf
 name: Nhuwala
+name_zh: 努瓦拉语
+name_zh_auto: true
 autonym: null
 alt_names: [Jawanmala, Ngoala, Noala, Noalla, Noanamaronga, Noella, Nooanamaronga, Nooanamarongo, Nooela, Nornamaronga, Nuala, Nuela, Nunkaberi, Nuwala]
 population: null

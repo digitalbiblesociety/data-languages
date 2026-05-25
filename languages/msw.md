@@ -1,6 +1,8 @@
 ---
 iso: msw
 name: Mansoanka
+name_zh: 曼索安卡语
+name_zh_auto: true
 autonym: Mansoanka
 alt_names: [Kunant, Kunante, Mansoanca, Maswanka, Sua]
 population: 20730

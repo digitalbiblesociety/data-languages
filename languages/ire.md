@@ -1,6 +1,8 @@
 ---
 iso: ire
 name: Iresim
+name_zh: 伊雷西姆语
+name_zh_auto: true
 autonym: Iresim
 alt_names: [Beduba, Iroquois, Yeresiam, Yerisiam]
 population: 70

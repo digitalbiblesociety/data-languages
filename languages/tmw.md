@@ -1,6 +1,8 @@
 ---
 iso: tmw
 name: Temuan
+name_zh: 特木安语
+name_zh_auto: true
 autonym: Bahasak Temuan
 alt_names: [Beduanda, Benua, Niap, Temuano]
 population: 22162

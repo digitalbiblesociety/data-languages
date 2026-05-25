@@ -1,6 +1,8 @@
 ---
 iso: gjk
 name: Kachi Koli
+name_zh: 卡奇科利语
+name_zh_auto: true
 autonym: Kachi
 alt_names: [Bajania, Kachi Gujarati, Katchi, Kohli, Kolhi, Koli, "Koli, Kachi", Kori, Kuchi, Kuchikoli, Vagari, Vagaria, Vaghri]
 population: 530000

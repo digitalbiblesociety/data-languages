@@ -1,6 +1,8 @@
 ---
 iso: aqt
 name: Angaité
+name_zh: 安盖泰语
+name_zh_auto: true
 autonym: Enenlhet
 alt_names: [Angaite, Enlit, Nempayvvoma]
 population: null

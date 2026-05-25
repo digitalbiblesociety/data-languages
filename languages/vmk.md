@@ -1,6 +1,8 @@
 ---
 iso: vmk
 name: "Makhuwa-Shirima"
+name_zh: 马库瓦-希里玛语
+name_zh_auto: true
 autonym: Emakuana
 alt_names: [Chirima, Eshirima, Makhuwa-Exirima, Makhuwa-Niassa, Makhuwa-Xirima, Shirima, West Makua, Xirima]
 population: 729000

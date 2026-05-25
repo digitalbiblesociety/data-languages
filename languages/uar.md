@@ -1,6 +1,8 @@
 ---
 iso: uar
 name: Tairuma
+name_zh: 泰鲁马语
+name_zh_auto: true
 autonym: Uaripi
 population: 4500
 country_id: PG

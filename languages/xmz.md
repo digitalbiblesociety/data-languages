@@ -1,6 +1,8 @@
 ---
 iso: xmz
 name: Mori Bawah
+name_zh: 莫里下语
+name_zh_auto: true
 autonym: "Beneden-Tomori"
 alt_names: [East Mori, Lower Mori, Nahina]
 population: 14000

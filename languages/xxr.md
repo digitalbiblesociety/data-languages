@@ -1,6 +1,8 @@
 ---
 iso: xxr
 name: Koropó
+name_zh: 科罗波语
+name_zh_auto: true
 autonym: Coropó
 alt_names: [Coropa, Coropo, Koropo]
 population: null

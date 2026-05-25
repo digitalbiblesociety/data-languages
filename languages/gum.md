@@ -1,6 +1,8 @@
 ---
 iso: gum
 name: Guambiano
+name_zh: 瓜姆比亚诺语
+name_zh_auto: true
 autonym: Namrrik
 alt_names: [Guambia, Guambiana, Guambiano-Moguez, Guambino, Guambía, Misak, Moguex, Moguez, Mogés, Mogües, Namdrik, Wam, Wambiano, Wambiano-Mogés]
 population: 21000

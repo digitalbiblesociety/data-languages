@@ -1,6 +1,8 @@
 ---
 iso: sjm
 name: Mapun
+name_zh: 马普恩语
+name_zh_auto: true
 autonym: Bajo
 alt_names: [Bajau Kagayan, Cagayan de Sulu, Cagayano, Cagayanon, Jama Mapun, Kagayan, Orang Cagayan, Sama Mapun]
 population: 58000

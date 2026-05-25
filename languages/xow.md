@@ -1,6 +1,8 @@
 ---
 iso: xow
 name: Kowaki
+name_zh: 科瓦基语
+name_zh_auto: true
 autonym: null
 population: 25
 country_id: PG

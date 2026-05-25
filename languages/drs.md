@@ -1,6 +1,8 @@
 ---
 iso: drs
 name: Gedeo
+name_zh: 格德奥语
+name_zh_auto: true
 autonym: Darasa
 alt_names: [Darassa, Derasa, Derasanya, Deresa, Geddeo, Gedeo hizkuntza, Lenga Gedeo]
 population: 1410000

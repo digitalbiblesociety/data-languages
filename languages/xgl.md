@@ -1,6 +1,8 @@
 ---
 iso: xgl
 name: Galindan
+name_zh: 加林丹语
+name_zh_auto: true
 autonym: West Galindan
 population: null
 country_id: PL

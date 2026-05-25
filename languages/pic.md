@@ -1,6 +1,8 @@
 ---
 iso: pic
 name: Pinji
+name_zh: 平吉语
+name_zh_auto: true
 autonym: Pinji
 alt_names: [Apindje, Apindji, Apinji, Gapinji]
 population: 5000

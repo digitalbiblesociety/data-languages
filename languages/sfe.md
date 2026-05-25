@@ -1,6 +1,8 @@
 ---
 iso: sfe
 name: Eastern Subanen
+name_zh: 东方苏巴嫩语
+name_zh_auto: true
 autonym: Subanon
 alt_names: ["Subanen, Eastern"]
 population: null

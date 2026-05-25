@@ -1,6 +1,8 @@
 ---
 iso: pof
 name: Poke
+name_zh: 波克语
+name_zh_auto: true
 autonym: Puki
 alt_names: [Tofoke, Topoke, Tovoke]
 population: 46000

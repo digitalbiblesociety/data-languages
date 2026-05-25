@@ -1,6 +1,8 @@
 ---
 iso: cbv
 name: Cacua
+name_zh: 卡库亚语
+name_zh_auto: true
 autonym: Kakua
 alt_names: [Bada, Bará, Báda, Cakua, Kakwa, Kakwa language, Kákwa, Macu de Cubeo, Macu de Desano, Macu de Guanano, Macú-Paraná, Wacara]
 population: 220

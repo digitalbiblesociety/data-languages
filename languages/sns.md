@@ -1,6 +1,8 @@
 ---
 iso: sns
 name: South West Bay
+name_zh: 西南湾语
+name_zh_auto: true
 autonym: " Siesip"
 alt_names: [Mallicolo, "Na'ahai", Nahavaq, Seniang, Sinesip]
 population: 355

@@ -1,6 +1,8 @@
 ---
 iso: lom
 name: Loma (Liberia)
+name_zh: 洛玛语
+name_zh_auto: true
 autonym: Looma
 alt_names: ["\"Bouze\"", "\"Busy\"", "\"Buzi\"", Buzi, Loghoma, Logoma, Loma, Lorma, Toma]
 population: 299000

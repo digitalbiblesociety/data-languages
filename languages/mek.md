@@ -1,6 +1,8 @@
 ---
 iso: mek
 name: Mekeo
+name_zh: 梅克奥语
+name_zh_auto: true
 autonym: null
 alt_names: [Kovio, Mekeo-Kovio]
 population: 20000

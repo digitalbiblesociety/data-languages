@@ -1,6 +1,8 @@
 ---
 iso: hah
 name: Hahon
+name_zh: 哈宏语
+name_zh_auto: true
 autonym: Hanon
 population: 1300
 country_id: PG

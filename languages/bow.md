@@ -1,6 +1,8 @@
 ---
 iso: bow
 name: Rema
+name_zh: 雷马语
+name_zh_auto: true
 autonym: Bothar
 population: 12
 country_id: PG

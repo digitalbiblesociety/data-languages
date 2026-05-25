@@ -1,6 +1,8 @@
 ---
 iso: gop
 name: Yeretuar
+name_zh: 耶雷图阿尔语
+name_zh_auto: true
 autonym: Umar
 alt_names: [Goni, Umari]
 population: 350

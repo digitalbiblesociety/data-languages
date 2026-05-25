@@ -1,6 +1,8 @@
 ---
 iso: lka
 name: Lakalei
+name_zh: 拉卡莱语
+name_zh_auto: true
 autonym: null
 alt_names: [East Timor]
 population: 5000

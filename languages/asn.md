@@ -1,6 +1,8 @@
 ---
 iso: asn
 name: Xingú Asuriní
+name_zh: 辛古阿苏里尼语
+name_zh_auto: true
 autonym: Asuriní de Koatinema
 alt_names: [Akwaya, Assurini, Assurinikin, Assuriní do Xingú, Asurini, Asurini do Xingu, Asuriní, Asuriní de coatinema, Asuriní do Coatinema, Asuriní do Koatinema, Asuriní do Xingu, Asuriní do Xingú, Asuriní du Xingu, Asuriní of Xingú, "Asuriní, Xingú", Awaeté, Awaté, Xingu Asurini, Xingu Asuriní, Xingú]
 population: 110

@@ -1,6 +1,8 @@
 ---
 iso: zpw
 name: Zaniza Zapotec
+name_zh: 扎尼萨萨波特克语
+name_zh_auto: true
 autonym: (Santa María Zaniza)
 alt_names: [Solteco, Southern Sapoteko, Zaniza Papabuco, Zapotec, "Zapotec, Zaniza", Zapoteco de Asunción Tlacolulita, "Zapotèque d'Asunción Tlacolulita"]
 population: 770

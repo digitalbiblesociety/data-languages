@@ -1,6 +1,8 @@
 ---
 iso: aic
 name: Ainbai
+name_zh: 艾因拜语
+name_zh_auto: true
 autonym: null
 alt_names: [Ainba]
 population: 100

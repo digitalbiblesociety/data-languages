@@ -1,6 +1,8 @@
 ---
 iso: bqm
 name: Wumboko
+name_zh: 武姆博科语
+name_zh_auto: true
 autonym: Mokpwe
 alt_names: [Bamboko, Bambuku, Bomboko, Bumboko, Mboko, Womboko]
 population: 4000

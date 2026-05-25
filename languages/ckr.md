@@ -1,6 +1,8 @@
 ---
 iso: ckr
 name: Kairak
+name_zh: 凯拉克语
+name_zh_auto: true
 autonym: null
 population: 750
 country_id: PG

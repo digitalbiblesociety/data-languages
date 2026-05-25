@@ -1,6 +1,8 @@
 ---
 iso: dry
 name: Darai
+name_zh: 达瑞语
+name_zh_auto: true
 autonym: null
 population: 10200
 country_id: NP

@@ -1,6 +1,8 @@
 ---
 iso: btj
 name: Bacanese Malay
+name_zh: 巴恰尼斯马来语
+name_zh_auto: true
 autonym: "Bahasa-Bahasa Melayu Dagang dan Kreol"
 alt_names: [Bacan, Batjan, "Malay, Bacanese"]
 population: 1000

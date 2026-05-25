@@ -1,6 +1,8 @@
 ---
 iso: xgd
 name: Gudang
+name_zh: 古当语
+name_zh_auto: true
 autonym: Alauikeno
 alt_names: [Kuta]
 population: null

@@ -1,6 +1,8 @@
 ---
 iso: sby
 name: Soli
+name_zh: 索利语
+name_zh_auto: true
 autonym: Chisoli
 population: 34100
 country_id: ZM

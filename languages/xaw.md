@@ -1,6 +1,8 @@
 ---
 iso: xaw
 name: Kawaiisu
+name_zh: 卡瓦伊苏语
+name_zh_auto: true
 autonym: "Nɨwɨ'abigidɨ"
 alt_names: [Kawaiisu language]
 population: 150

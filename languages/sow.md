@@ -1,6 +1,8 @@
 ---
 iso: sow
 name: Sowanda
+name_zh: 索万达语
+name_zh_auto: true
 autonym: Waina
 alt_names: [Punda-Umeda, Pundina, Waina-Sowanda, Wanja, Wanya, Wina]
 population: 1180

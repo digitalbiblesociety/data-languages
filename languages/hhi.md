@@ -1,6 +1,8 @@
 ---
 iso: hhi
 name: Hoia Hoia
+name_zh: 霍亚霍亚语
+name_zh_auto: true
 autonym: Hoyahoya
 population: null
 country_id: PG

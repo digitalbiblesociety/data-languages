@@ -1,6 +1,8 @@
 ---
 iso: xkg
 name: Kagoro
+name_zh: 卡戈罗语
+name_zh_auto: true
 autonym: Central Malinke
 alt_names: [Kakolo]
 population: 15000

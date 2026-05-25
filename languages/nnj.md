@@ -1,6 +1,8 @@
 ---
 iso: nnj
 name: Nyangatom
+name_zh: 尼扬加托姆语
+name_zh_auto: true
 autonym: Dongiro
 alt_names: [Donyiro, Idongiro, Inyangatom, Ngiangatom]
 population: 24300

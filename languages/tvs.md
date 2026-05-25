@@ -1,6 +1,8 @@
 ---
 iso: tvs
 name: Taveta
+name_zh: 塔维塔语
+name_zh_auto: true
 autonym: Kitaveta
 alt_names: [Kitubeta, Tubeta]
 population: 24300

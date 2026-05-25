@@ -1,6 +1,8 @@
 ---
 iso: pzn
 name: Para Naga
+name_zh: 帕拉那加语
+name_zh_auto: true
 autonym: Jejara
 alt_names: [Bara Naga, Jejara Naga, Naga, "Naga, Jejara", "Naga, Para", "Naga,Para", Para, Parasar]
 population: 2000

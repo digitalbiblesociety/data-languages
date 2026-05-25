@@ -1,6 +1,8 @@
 ---
 iso: dth
 name: Adithinngithigh
+name_zh: 阿迪辛吉提语
+name_zh_auto: true
 autonym: Adetingiti
 population: null
 country_id: AU

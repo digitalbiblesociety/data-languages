@@ -1,6 +1,8 @@
 ---
 iso: skw
 name: Skepi Creole Dutch
+name_zh: 斯克皮克里奥尔荷兰语
+name_zh_auto: true
 autonym: null
 alt_names: ["Creole Dutch, Skepi", Skepi]
 population: null

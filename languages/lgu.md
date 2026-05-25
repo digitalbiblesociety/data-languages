@@ -1,6 +1,8 @@
 ---
 iso: lgu
 name: Longgu
+name_zh: 龙古语
+name_zh_auto: true
 autonym: Logu
 alt_names: [Südliche Salomons-Inseln]
 population: 1890

@@ -1,6 +1,8 @@
 ---
 iso: ppq
 name: Pei
+name_zh: 佩伊语
+name_zh_auto: true
 autonym: Pai
 population: 200
 country_id: PG

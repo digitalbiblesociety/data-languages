@@ -1,6 +1,8 @@
 ---
 iso: gao
 name: Gants
+name_zh: 甘茨语
+name_zh_auto: true
 autonym: Gaj
 population: 1880
 country_id: PG

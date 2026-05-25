@@ -1,6 +1,8 @@
 ---
 iso: axl
 name: Lower Southern Aranda
+name_zh: 下南阿兰达语
+name_zh_auto: true
 autonym: Lower Aranda
 alt_names: [Aldolanga, Aldolinga, Alitera, Aranda, "Aranda, Lower Southern", Aranta, Arinta, Arranda, Arrinda, Arrundta, Arrunta, Arunda, Arunndta, Arunta, Arunta Bu, Arunta Ulpma, Eastern Aranda, Southern Aranda, Western Aranda]
 population: null

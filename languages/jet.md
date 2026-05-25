@@ -1,6 +1,8 @@
 ---
 iso: jet
 name: Manem
+name_zh: 玛内姆语
+name_zh_auto: true
 autonym: Jeti
 alt_names: [Manam, Skofro, Wembi, Yeti]
 population: 500

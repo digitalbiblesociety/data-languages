@@ -1,6 +1,8 @@
 ---
 iso: gye
 name: Gyem
+name_zh: 吉姆语
+name_zh_auto: true
 autonym: Gema
 alt_names: [Gemawa, Gyam, Gyemawa]
 population: 1000

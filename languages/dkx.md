@@ -1,6 +1,8 @@
 ---
 iso: dkx
 name: Mazagway
+name_zh: 马扎格韦语
+name_zh_auto: true
 autonym: "Mazagway-Hidi"
 alt_names: [Daba]
 population: 17000

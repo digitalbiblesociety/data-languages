@@ -1,6 +1,8 @@
 ---
 iso: kmo
 name: Kwoma
+name_zh: 夸玛语
+name_zh_auto: true
 autonym: Washkuk
 alt_names: [Kuome, Kwoma Proper]
 population: 3000

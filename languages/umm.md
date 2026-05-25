@@ -1,6 +1,8 @@
 ---
 iso: umm
 name: Umon
+name_zh: 乌蒙语
+name_zh_auto: true
 autonym: Amon
 population: 20000
 country_id: NG

@@ -1,6 +1,8 @@
 ---
 iso: ngw
 name: Ngwaba
+name_zh: 恩瓜巴语
+name_zh_auto: true
 autonym: Goba
 alt_names: [Enguaba, Gombi]
 population: 10000

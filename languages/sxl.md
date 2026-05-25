@@ -1,6 +1,8 @@
 ---
 iso: sxl
 name: Selian
+name_zh: 塞利安语
+name_zh_auto: true
 autonym: Selian
 population: null
 country_id: LV

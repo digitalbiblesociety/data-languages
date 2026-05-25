@@ -1,6 +1,8 @@
 ---
 iso: mzu
 name: Inapang
+name_zh: 伊纳潘语
+name_zh_auto: true
 autonym: Midsivindi
 alt_names: [Itutang]
 population: 1830

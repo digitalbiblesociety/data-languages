@@ -1,6 +1,8 @@
 ---
 iso: kwd
 name: Kwaio
+name_zh: 夸伊奥语
+name_zh_auto: true
 autonym: Koio
 alt_names: [Südliche Salomons-Inseln]
 population: 13200

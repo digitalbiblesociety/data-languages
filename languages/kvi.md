@@ -1,6 +1,8 @@
 ---
 iso: kvi
 name: Kwang
+name_zh: 克旺语
+name_zh_auto: true
 autonym: Buso
 alt_names: [Kouang, Kuang, Kwong]
 population: 10000

@@ -1,6 +1,8 @@
 ---
 iso: dza
 name: Tunzu
+name_zh: 图恩祖语
+name_zh_auto: true
 autonym: Tunzuii
 alt_names: [Dugusa, Duguza]
 population: 2500

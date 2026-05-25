@@ -1,6 +1,8 @@
 ---
 iso: hvn
 name: Sabu
+name_zh: 萨布语
+name_zh_auto: true
 autonym: Sabu
 alt_names: [Havunese, Hawu, Savu, Savunese, Sawu, Sawunese]
 population: 110000

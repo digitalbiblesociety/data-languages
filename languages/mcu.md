@@ -1,6 +1,8 @@
 ---
 iso: mcu
 name: Cameroon Mambila
+name_zh: 喀麦隆曼比拉语
+name_zh_auto: true
 autonym: Mambila
 alt_names: [Bang, Bea, Ble, Juli, Lagubi, Mambere, "Mambila, Cameroon", Mambilla, Nor, Tagbo, Tongbo, Torbi]
 population: 30000

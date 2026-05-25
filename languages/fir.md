@@ -1,6 +1,8 @@
 ---
 iso: fir
 name: Firan
+name_zh: 菲兰语
+name_zh_auto: true
 autonym: Fəràn
 alt_names: [Faran, Foron, Frisian, Fəran, Kwakwi, Yes Firan]
 population: 2500

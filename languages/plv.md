@@ -1,6 +1,8 @@
 ---
 iso: plv
 name: Southwest Palawano
+name_zh: 西南帕劳瓦诺语
+name_zh_auto: true
 autonym: null
 alt_names: ["Palawano, Southwest", Philippines]
 population: 12000

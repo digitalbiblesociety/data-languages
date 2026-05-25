@@ -1,6 +1,8 @@
 ---
 iso: sef
 name: Cebaara Senoufo
+name_zh: 塞巴阿拉塞努福语
+name_zh_auto: true
 autonym: Senari
 alt_names: [Senadi, "Senoufo, Cebaara", Senoufou (Cebaara), Syenere, Tara, Tiebaara, Tyebaara Senoufo, Tyebala]
 population: 862000

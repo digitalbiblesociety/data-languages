@@ -1,6 +1,8 @@
 ---
 iso: mdi
 name: Mamvu
+name_zh: 姆巴姆武语
+name_zh_auto: true
 autonym: null
 alt_names: [Tengo]
 population: 60000

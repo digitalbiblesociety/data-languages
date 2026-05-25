@@ -1,6 +1,8 @@
 ---
 iso: dbt
 name: Ben Tey Dogon
+name_zh: 本特伊多贡语
+name_zh_auto: true
 autonym: null
 alt_names: [Ben Tey, Beni, "Dogon, Ben Tey"]
 population: 3000

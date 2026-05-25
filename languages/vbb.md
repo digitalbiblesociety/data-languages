@@ -1,6 +1,8 @@
 ---
 iso: vbb
 name: Southeast Babar
+name_zh: 东巴巴尔语
+name_zh_auto: true
 autonym: null
 alt_names: ["Babar, Southeast", Indonesia]
 population: 4460

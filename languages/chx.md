@@ -1,6 +1,8 @@
 ---
 iso: chx
 name: Chantyal
+name_zh: 尚蒂亚尔语
+name_zh_auto: true
 autonym: Chantel
 alt_names: [Chantyalish, Chentel, Chhantel, ภาษาชันเตียล]
 population: 2000

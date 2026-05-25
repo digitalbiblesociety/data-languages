@@ -1,6 +1,8 @@
 ---
 iso: bvi
 name: Belanda Viri
+name_zh: 贝兰达维里语
+name_zh_auto: true
 autonym: Bviri
 alt_names: [Belanda, Biri, Gamba, Gumba, Mbegumba, Mvegumba, Viri]
 population: 16000

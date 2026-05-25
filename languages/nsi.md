@@ -1,6 +1,8 @@
 ---
 iso: nsi
 name: Nigerian Sign Language
+name_zh: 尼日利亚手语
+name_zh_auto: true
 autonym: Lenguaje de Señas Bolivianas LSB
 population: 800000
 country_id: NG

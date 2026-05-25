@@ -1,6 +1,8 @@
 ---
 iso: beu
 name: Blagar
+name_zh: 布拉加尔语
+name_zh_auto: true
 autonym: Tereweng
 alt_names: [Balagur, Belagar, Kaera, Pi Abaŋ Hur, Pura, Tarang]
 population: 11000

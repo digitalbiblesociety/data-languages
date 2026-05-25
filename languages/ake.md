@@ -1,6 +1,8 @@
 ---
 iso: ake
 name: Akawaio
+name_zh: 阿卡瓦约语
+name_zh_auto: true
 autonym: Ingarikó
 alt_names: ["\"akawaio (Guyana, Venezuela)\"", "\"akawaio (Guyane, République bolivarienne du Venezuela)\"", Acahuayo, Acawayo, Accawai, Acewaio, Akavajo, Akavajų kalba, Akawai, Akawaieg, Akawaio (Brésil), Akawayo, Akaŭaja lingvo, Idioma akawayo, Kapon, Kapong, Kapóng, Lingua akawaio, Waicá]
 population: 4500

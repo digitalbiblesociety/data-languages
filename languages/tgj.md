@@ -1,6 +1,8 @@
 ---
 iso: tgj
 name: Tagin
+name_zh: 塔金语
+name_zh_auto: true
 autonym: Nil
 population: null
 country_id: IN

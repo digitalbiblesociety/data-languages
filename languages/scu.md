@@ -1,6 +1,8 @@
 ---
 iso: scu
 name: Shumcho
+name_zh: 舒姆乔语
+name_zh_auto: true
 autonym: Kanawaringskad
 alt_names: [Central Kinnauri, Kanāwri, Shumcu, Sumcho, Sumchu, Sumtsu, Sumtśu, Thebarskad, Thebor, Thebör Skadd]
 population: 2170

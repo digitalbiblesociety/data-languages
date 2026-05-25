@@ -1,6 +1,8 @@
 ---
 iso: mum
 name: Maiwala
+name_zh: 迈瓦拉语
+name_zh_auto: true
 autonym: null
 population: 2450
 country_id: PG

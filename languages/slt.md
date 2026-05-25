@@ -1,6 +1,8 @@
 ---
 iso: slt
 name: Sila
+name_zh: 西拉语
+name_zh_auto: true
 autonym: Sida
 alt_names: [Asong, Kha Pai]
 population: 1770

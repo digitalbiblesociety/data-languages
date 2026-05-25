@@ -1,6 +1,8 @@
 ---
 iso: ifm
 name: "Teke-Fuumu"
+name_zh: 特克-富乌姆语
+name_zh_auto: true
 autonym: Wuumu
 alt_names: [Central Teke, Fumu, Ifumu, Kiteke, South Central Teke, Teke (South Central), Teke du Pool]
 population: 8150

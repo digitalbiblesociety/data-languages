@@ -1,6 +1,8 @@
 ---
 iso: cnt
 name: Tepetotutla Chinantec
+name_zh: 特佩托图特拉奇南特克语
+name_zh_auto: true
 autonym: "Chinantec, Tepetotutla"
 alt_names: [Chinantec, Chinantec (Tepetotutla), Chinanteco, Chinanteco (Tepetotutla), Chinanteco del oeste central bajo, Chinanteko, Lower West-Central Chinantec, Usila Chinantec, "jajmi dzä  kï ï '", jejmei, jejmi]
 population: 1850

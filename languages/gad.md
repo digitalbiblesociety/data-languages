@@ -1,6 +1,8 @@
 ---
 iso: gad
 name: Gaddang
+name_zh: 加甘语
+name_zh_auto: true
 autonym: Cagayan
 alt_names: [Pagsasao nga Gaddang]
 population: 30300

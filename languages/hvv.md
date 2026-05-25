@@ -1,6 +1,8 @@
 ---
 iso: hvv
 name: Santa María Del Mar Huave
+name_zh: 圣玛丽亚德尔玛尔瓦夫语
+name_zh_auto: true
 autonym: Ombeayiiüts
 alt_names: [Huave, Huave de San Dionisio, Huave de San Dionisio del Mar, Huave de San Francisco del Mar, Huave de San Mateo del Mar, Huave de Santa María del Mar, "Huave, Santa María del Mar", Santa Maria Del Mar Huave, Santa María, Wave, Wavi]
 population: 500

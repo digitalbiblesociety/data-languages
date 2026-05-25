@@ -1,6 +1,8 @@
 ---
 iso: erg
 name: Sie
+name_zh: 西埃语
+name_zh_auto: true
 autonym: Erromangan
 alt_names: [Eromanga, Erramanga, Erromanga, Erromango, Sye]
 population: 1900

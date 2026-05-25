@@ -1,6 +1,8 @@
 ---
 iso: kzm
 name: Kais
+name_zh: 凯斯语
+name_zh_auto: true
 autonym: Kampong Baru
 alt_names: [Aiso, Atori, Kampung Baru, Mintamani]
 population: 700

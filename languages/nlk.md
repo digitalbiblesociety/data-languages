@@ -1,6 +1,8 @@
 ---
 iso: nlk
 name: Ninia Yali
+name_zh: 尼尼亚亚利语
+name_zh_auto: true
 autonym: Yalimo
 alt_names: [Jaly, Jalأƒآ¨, Ninia, North Ngalik, Northern Ngalik, Southern Yali, Yali, Yali Selatan, "Yali, Ninia"]
 population: 10500

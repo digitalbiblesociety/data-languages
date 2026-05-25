@@ -1,6 +1,8 @@
 ---
 iso: ukv
 name: Kuku
+name_zh: 库库语
+name_zh_auto: true
 country_id: SS
 country_name: South Sudan
 latitude: 3.9613

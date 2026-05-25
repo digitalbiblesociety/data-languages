@@ -1,6 +1,8 @@
 ---
 iso: lor
 name: Téén
+name_zh: 特恩语
+name_zh_auto: true
 autonym: Téén
 alt_names: [Loghon, Lorhon, Loron, Nabe, Teen, Tegesie, Tegesye, Tese, Ténhé]
 population: 6100

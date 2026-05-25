@@ -1,6 +1,8 @@
 ---
 iso: mjo
 name: Malankuravan
+name_zh: 玛兰库拉万语
+name_zh_auto: true
 autonym: Mala Koravan
 alt_names: [Mala Koravanm, Malaikuravan, Malakkuravan, Male Kuravan]
 population: 18600

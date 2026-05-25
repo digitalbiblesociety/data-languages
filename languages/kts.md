@@ -1,6 +1,8 @@
 ---
 iso: kts
 name: South Muyu
+name_zh: 南穆尤语
+name_zh_auto: true
 autonym: Kati
 alt_names: [Digoel, Digoeleesch, Digul, Kati Metomka, Kati-Metomka, Lower Muju, Metomka, Moejoe, Muyu, "Muyu, South", Ok Bari, South Kati, South Moejoe, Southern Kati, Yonggom, Yongkom, Yongom]
 population: 4000

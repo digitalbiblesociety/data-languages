@@ -1,6 +1,8 @@
 ---
 iso: gvl
 name: Gulay
+name_zh: 古莱语
+name_zh_auto: true
 autonym: Pen
 alt_names: [Goulai, Goulaye, Goulei, Gulai, Gulei]
 population: 163000

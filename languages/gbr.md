@@ -1,6 +1,8 @@
 ---
 iso: gbr
 name: Gbagyi
+name_zh: 加巴吉语
+name_zh_auto: true
 autonym: East Gwari
 alt_names: [Gbagye, Gwari, Gwari Matai, Ibagyi]
 population: 1230000

@@ -1,6 +1,8 @@
 ---
 iso: xtd
 name: "Diuxi-Tilantongo Mixtec"
+name_zh: 迪乌克西-蒂兰通戈-米斯特克语
+name_zh_auto: true
 autonym: "Diuxi-Tilantongo Mixtec"
 alt_names: [Central Misteko, Central Nochistlán Mixtec, Centreal Mixteco, Eastern Alta Mixtec, Eastern Mixtec, Huitepec Mixtec, Mitlatongo Mixtec, "Mixtec, Diuxi-Tilantongo", Mixteco bajo de Valles, Mixteco de Diuxi-Tilantongo, Mixteco de Huitepec, Mixteco de Mitlatongo, Mixteco de San Antonio Huitepec, Mixteco de San Juan Tamazola, Mixteco de San Miguel Piedras, Mixteco de San Pedro Tidaá, Mixteco de Santa María Peñoles, Mixteco de Santiago Tlazoyaltepec, Mixteco de Santo Domingo Nuxaá, Mixteco de Tidaá, Mixteco de Yutanduchi, Mixteco de Yutanduchi de Guerrero, Mixteco de Zaachila, Mixteco del Sureste de Nochixtlán, Mixteco del este central, North Central Nochixtlán Mixtec, Peñoles Mixtec, San Miguel Piedras Mixtec, Sindihui Mixtec, Southeastern Nochixtlán Mixtec, Southern Nochixtlan Mixtec, Tamazola Mixtec, Tidaá Mixtec, Tlazoyaltepec Mixtec, Yutanduchi Mixtec]
 population: 4220

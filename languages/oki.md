@@ -1,6 +1,8 @@
 ---
 iso: oki
 name: Okiek
+name_zh: 奥基克语
+name_zh_auto: true
 autonym: Akie
 alt_names: ["\"Ndorobo\"", Akiek, Kinare, Ogiek, Ogiek language, Okiekeg, Sogoo]
 population: 250

@@ -1,6 +1,8 @@
 ---
 iso: kqc
 name: "Doromu-Koki"
+name_zh: 多罗木-科基语
+name_zh_auto: true
 autonym: "Doromu-Koki"
 alt_names: [Doram, Doromu]
 population: 2000

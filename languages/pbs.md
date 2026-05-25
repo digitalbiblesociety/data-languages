@@ -1,6 +1,8 @@
 ---
 iso: pbs
 name: Central Pame
+name_zh: 中帕梅语
+name_zh_auto: true
 autonym: "Pame, Central"
 alt_names: [Chichimeca, Chichimeco, Chichimeko, Jiliapan Pame, Pame, Pame central, Pame de Santa María Acapulco, Pame del Centro, Pamean, Pamé central]
 population: 4350

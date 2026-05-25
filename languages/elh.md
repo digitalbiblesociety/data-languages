@@ -1,6 +1,8 @@
 ---
 iso: elh
 name: El Hugeirat
+name_zh: 埃尔胡吉拉特语
+name_zh_auto: true
 autonym: El Hagarat
 alt_names: [Nubian (Hill)]
 population: 50

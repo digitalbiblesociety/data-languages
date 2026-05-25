@@ -1,6 +1,8 @@
 ---
 iso: bip
 name: Bila
+name_zh: 比拉语
+name_zh_auto: true
 autonym: Forest Bira
 alt_names: [Bira, Ebila, Kibila, Western Bila]
 population: 40000

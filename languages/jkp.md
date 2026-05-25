@@ -1,6 +1,8 @@
 ---
 iso: jkp
 name: Paku Karen
+name_zh: 帕库卡伦语
+name_zh_auto: true
 autonym: ကညီကျိာ်
 alt_names: ["Karen, Paku", "Karen,Paku", Mogpha, Mogwa, Monebwa, Monnepwa, Mopaga, Mopha, Mopwa, Pagu, Paku, Thalwepwe]
 population: 6710

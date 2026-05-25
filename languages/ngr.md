@@ -1,6 +1,8 @@
 ---
 iso: ngr
 name: Engdewu
+name_zh: 恩格德瓦语
+name_zh_auto: true
 autonym: Nanggu
 alt_names: [Nagu]
 population: 210

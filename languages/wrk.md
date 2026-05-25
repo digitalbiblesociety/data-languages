@@ -1,6 +1,8 @@
 ---
 iso: wrk
 name: Garrwa
+name_zh: 盖瓦语
+name_zh_auto: true
 autonym: Gaarwa
 alt_names: [Garawa, Garuwa, Grawa, Karawa, Kariwa, Karrawar, Karrwa, Karrwaz, Karwa, Korrawa, Kurrawar, Leearawa, Leearrawa, Wollongorang, Wulungwara]
 population: 130

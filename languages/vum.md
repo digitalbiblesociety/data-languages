@@ -1,6 +1,8 @@
 ---
 iso: vum
 name: Vumbu
+name_zh: 武布语
+name_zh_auto: true
 autonym: Vumbu
 alt_names: [Vumba, Yivoumbou]
 population: 2460

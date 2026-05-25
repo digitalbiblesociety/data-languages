@@ -1,6 +1,8 @@
 ---
 iso: oie
 name: Okolie
+name_zh: 奥科利语
+name_zh_auto: true
 autonym: Dongotono
 population: 5000
 country_id: SS

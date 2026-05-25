@@ -1,6 +1,8 @@
 ---
 iso: dmo
 name: Kemedzung
+name_zh: 肯梅宗语
+name_zh_auto: true
 autonym: Dumbo
 alt_names: [Dzumbo, Kemezung, Kemezung language, Kumaju]
 population: 4500

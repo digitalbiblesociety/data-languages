@@ -1,6 +1,8 @@
 ---
 iso: boi
 name: Barbareño
+name_zh: 巴尔巴雷尼奥语
+name_zh_auto: true
 autonym: null
 alt_names: [Barbareno, Barbareno Chumash, Chumash, Chumash (Barbareno), Chumash (Barbareño), Chumash barbareño, Chumasha Proper, Chumashan, Emigdiano, Santa Barbara, Santa Rosa, Šmuwič]
 population: null

@@ -1,6 +1,8 @@
 ---
 iso: qvs
 name: San Martín Quechua
+name_zh: 圣马丁克丘亚语
+name_zh_auto: true
 autonym: San Martín Quechua
 alt_names: [Canelo, Lama, Lamano, Lamanyo, Lamas Quechua, Lamas-Luritu, Lamas-Quechua, Lamaño, Lamista, Lamista Kichua, Lamista Quechua, Lamisto, Loreto, Motilón, Quechua lamista, "Quechua, San Martín", San Martin Quechua, San Martín, Ucayali]
 population: 15000

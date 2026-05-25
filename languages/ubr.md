@@ -1,6 +1,8 @@
 ---
 iso: ubr
 name: Ubir
+name_zh: 乌比尔语
+name_zh_auto: true
 autonym: null
 alt_names: [Kubiri, Ubiri]
 population: 2560

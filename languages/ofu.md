@@ -1,6 +1,8 @@
 ---
 iso: ofu
 name: Efutop
+name_zh: 埃夫图普语
+name_zh_auto: true
 autonym: Agbaragba
 alt_names: [Ofutop]
 population: 10000

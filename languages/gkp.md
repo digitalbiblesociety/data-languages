@@ -1,6 +1,8 @@
 ---
 iso: gkp
 name: Guinea Kpelle
+name_zh: 几内亚克佩莱语
+name_zh_auto: true
 autonym: Kpɛlɛwoo
 alt_names: [Akpese, Gbese, Gerse, Gerze, Guerze, Kpele, Kpelese, Kpelesetina, Kpelle, "Kpelle, Guinea", Kperese, Kpese, Kpwessi, Northern Kpele, Pessa, Pessy]
 population: 497000

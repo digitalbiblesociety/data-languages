@@ -1,6 +1,8 @@
 ---
 iso: mzy
 name: Mozambican Sign Language
+name_zh: 莫桑比克手语
+name_zh_auto: true
 autonym: null
 population: 150000
 country_id: MZ

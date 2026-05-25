@@ -1,6 +1,8 @@
 ---
 iso: tlr
 name: Talise
+name_zh: 塔利塞语
+name_zh_auto: true
 autonym: Tolo
 alt_names: [Guadalcanar, Südliche Salomons-Inseln, Talisi]
 population: 12500

@@ -1,6 +1,8 @@
 ---
 iso: amx
 name: Anmatyerre
+name_zh: 安玛蒂埃瑞语
+name_zh_auto: true
 autonym: Arrernte
 alt_names: [Anmatjara, Anmatjera, Anmatjirra, Imatjera, Inmatjera, Janmadjara, Janmatjiri, Nmatjera, Unmatjera, Urmitchee, Yandmadjari, Yanmedjara]
 population: 640

@@ -1,6 +1,8 @@
 ---
 iso: blh
 name: Kuwaa
+name_zh: 库瓦语
+name_zh_auto: true
 autonym: Belleh
 alt_names: [Belle, Kowaao, Kwaa]
 population: 27000

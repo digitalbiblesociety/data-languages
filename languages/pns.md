@@ -1,6 +1,8 @@
 ---
 iso: pns
 name: Ponosakan
+name_zh: 波诺萨干语
+name_zh_auto: true
 autonym: Ponasakan
 population: 3000
 country_id: ID

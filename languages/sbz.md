@@ -1,6 +1,8 @@
 ---
 iso: sbz
 name: Sara Kaba
+name_zh: 萨拉卡巴语
+name_zh_auto: true
 autonym: Sara Kaba
 alt_names: [Ta Sara]
 population: 13600

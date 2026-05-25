@@ -1,6 +1,8 @@
 ---
 iso: pld
 name: Polari
+name_zh: 波拉里语
+name_zh_auto: true
 autonym: " Parlary"
 alt_names: [Palari, Palarie, Parlare, Parlyaree, Polarieg]
 population: null

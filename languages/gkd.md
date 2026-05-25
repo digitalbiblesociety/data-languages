@@ -1,6 +1,8 @@
 ---
 iso: gkd
 name: Magɨ (Madang Province)
+name_zh: 玛吉语（马当省）
+name_zh_auto: true
 autonym: Magi
 population: 50
 country_id: PG

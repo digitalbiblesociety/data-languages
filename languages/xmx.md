@@ -1,6 +1,8 @@
 ---
 iso: xmx
 name: Maden
+name_zh: 玛登语
+name_zh_auto: true
 autonym: Palamul
 alt_names: ["\"Maden\"", Salawati, Saparan, Sapran]
 population: 600

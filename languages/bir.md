@@ -1,6 +1,8 @@
 ---
 iso: bir
 name: Bisorio
+name_zh: 比索里奥语
+name_zh_auto: true
 autonym: " Malamauda"
 alt_names: [Bi, Bigalu, Bikaru, Bugalu, Gne, Iniai, Inyai-Gadio-Bisorio, Pikaru, Sidi]
 population: 260

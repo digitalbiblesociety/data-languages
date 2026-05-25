@@ -1,6 +1,8 @@
 ---
 iso: ebk
 name: Eastern Bontok
+name_zh: 东邦托克语
+name_zh_auto: true
 autonym: Finallig
 alt_names: ["Bontok, Eastern"]
 population: 6170

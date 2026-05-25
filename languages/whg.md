@@ -1,6 +1,8 @@
 ---
 iso: whg
 name: North Wahgi
+name_zh: 北瓦希语
+name_zh_auto: true
 autonym: null
 alt_names: [Mid-Wahgi, Wahgi, "Wahgi, North"]
 population: 58000

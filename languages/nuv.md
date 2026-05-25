@@ -1,6 +1,8 @@
 ---
 iso: nuv
 name: Northern Nuni
+name_zh: 北努尼语
+name_zh_auto: true
 autonym: Nunuma
 alt_names: [Nibulu, Nouni, Nounouma, Nuna, Nune, Nuni, Nuni (Northern), "Nuni, Northern", Nuruma]
 population: 15000

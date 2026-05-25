@@ -1,6 +1,8 @@
 ---
 iso: pom
 name: Southeastern Pomo
+name_zh: 东南波莫语
+name_zh_auto: true
 autonym: Lower Lake Pomo
 alt_names: [Lower Lake, Pomo, Pomo (Southeastern), Pomo du sud-est, Pomo suroriental, "Pomo, Southeastern", Pomoan, S.E. Pomo, SE Pomo, Southeast Clear Lake Pomo, Southeast Pomo, Southeastern, Southeastern Pomoan Subfamily]
 population: null

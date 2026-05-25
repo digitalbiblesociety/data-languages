@@ -1,6 +1,8 @@
 ---
 iso: pka
 name: Ardhamāgadhī Prākrit
+name_zh: 阿尔德玛格达普拉克里特语
+name_zh_auto: true
 autonym: "Brahmi: 𑀅𑀭𑁆𑀥𑀫𑀸𑀕𑀥𑀻"
 alt_names: ["Prākrit, Ardhamāgadhī"]
 population: null

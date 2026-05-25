@@ -1,6 +1,8 @@
 ---
 iso: gua
 name: Shiki
+name_zh: 希基语
+name_zh_auto: true
 autonym: Gubi
 alt_names: [Guba, Gubawa, Mashiki]
 population: 1200

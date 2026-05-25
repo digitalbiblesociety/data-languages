@@ -1,6 +1,8 @@
 ---
 iso: mwi
 name: Labo
+name_zh: 拉博语
+name_zh_auto: true
 autonym: null
 alt_names: [Meaun, Mewun, Nide, Ninde]
 population: 1100

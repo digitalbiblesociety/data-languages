@@ -1,6 +1,8 @@
 ---
 iso: liy
 name: "Banda-Bambari"
+name_zh: 班达-班巴里语
+name_zh_auto: true
 autonym: Banda of Bambari
 alt_names: [Banda, Banda Linda, Banda-Linda, Linda]
 population: 183000

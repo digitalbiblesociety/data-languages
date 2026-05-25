@@ -1,6 +1,8 @@
 ---
 iso: gyy
 name: Gunya
+name_zh: 古尼亚语
+name_zh_auto: true
 autonym: Southern Maric
 alt_names: ["Gu:nja", Gunja, Kunja, Kunya, Kurnja]
 population: null

@@ -1,6 +1,8 @@
 ---
 iso: bxg
 name: Bangala
+name_zh: 邦加拉语
+name_zh_auto: true
 autonym: Ngala
 population: null
 country_id: CD

@@ -1,6 +1,8 @@
 ---
 iso: mhd
 name: Mbugu
+name_zh: 姆布古语
+name_zh_auto: true
 autonym: Maʼa
 alt_names: ["Inner Ma'á", Kibwyo, Kimbugu, "Ma'a", "Ma'á", Mbougou, Mbugu Inner Mbugu, "Mixed Ma'a/Mbugu", Wa Maathi, "Wama'a"]
 population: 32000

@@ -1,6 +1,8 @@
 ---
 iso: hos
 name: Ho Chi Minh City Sign Language
+name_zh: 胡志明市手语
+name_zh_auto: true
 autonym: Saigon Sign
 alt_names: [HCMCSL, NNKHTPHCM, Southern Vietnamese Sign Language, Vietnamese Sign Language, ngôn ngữ ký hiệu thành phố Hồ Chí Minh]
 population: 45000

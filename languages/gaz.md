@@ -1,6 +1,8 @@
 ---
 iso: gaz
 name: West Central Oromo
+name_zh: 西中部奥罗莫语
+name_zh_auto: true
 autonym: Afaan Oromoo
 alt_names: ["\"Galla\"", Afan Oromo, Galla, Oromiffa, Oromo, Oromo (Mechaa), Oromo (West-Central), Oromo (Western), Oromo Proper, "Oromo, West Central", Oromoo, West-Central]
 population: 30000000

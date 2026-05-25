@@ -1,6 +1,8 @@
 ---
 iso: ndp
 name: Ndo
+name_zh: 恩多语
+name_zh_auto: true
 autonym: Ke’bu
 alt_names: ["Ke'bu", Kebu, Kebutu, Ndu, "Oke'bu"]
 population: 154100

@@ -1,6 +1,8 @@
 ---
 iso: idi
 name: Idi
+name_zh: 伊地语
+name_zh_auto: true
 autonym: Diblaeg
 alt_names: [Dibolug, Dimisi, Dimsisi, Tame]
 population: 1610

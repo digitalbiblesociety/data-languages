@@ -1,6 +1,8 @@
 ---
 iso: bjc
 name: Bariji
+name_zh: 巴里吉语
+name_zh_auto: true
 autonym: Bariji
 alt_names: [Aga Bereho]
 population: 460

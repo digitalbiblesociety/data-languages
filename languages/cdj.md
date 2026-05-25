@@ -1,6 +1,8 @@
 ---
 iso: cdj
 name: Churahi
+name_zh: 丘拉希语
+name_zh_auto: true
 autonym: भद्रवाही بھدرواہی
 alt_names: [Chaurahi, Churahi Pahari, Churai Pahari]
 population: 75600

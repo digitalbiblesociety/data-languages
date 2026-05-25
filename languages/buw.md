@@ -1,6 +1,8 @@
 ---
 iso: buw
 name: Bubi
+name_zh: 布比语
+name_zh_auto: true
 autonym: "ɣè-βòβè"
 alt_names: [Bhubhi, Eviia, Ibhubhi, Ibubi, Pove]
 population: 5000

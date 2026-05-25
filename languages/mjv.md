@@ -1,6 +1,8 @@
 ---
 iso: mjv
 name: Mannan
+name_zh: 曼南语
+name_zh_auto: true
 autonym: Mannan Pasha
 alt_names: [Manne, Mannyod]
 population: 7850

@@ -1,6 +1,8 @@
 ---
 iso: sxo
 name: Sorothaptic
+name_zh: 索罗萨普蒂克语
+name_zh_auto: true
 autonym: null
 population: null
 country_id: IT

@@ -1,6 +1,8 @@
 ---
 iso: zsl
 name: Zambian Sign Language
+name_zh: 赞比亚手语
+name_zh_auto: true
 autonym: ZSL
 population: 14400
 country_id: ZM

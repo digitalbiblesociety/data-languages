@@ -1,6 +1,8 @@
 ---
 iso: bsm
 name: Busami
+name_zh: 布萨米语
+name_zh_auto: true
 autonym: null
 population: 700
 country_id: ID

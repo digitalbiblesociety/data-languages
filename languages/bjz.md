@@ -1,6 +1,8 @@
 ---
 iso: bjz
 name: Baruga
+name_zh: 巴鲁加语
+name_zh_auto: true
 autonym: Bareji
 population: 2230
 country_id: PG

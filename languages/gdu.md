@@ -1,6 +1,8 @@
 ---
 iso: gdu
 name: Gudu
+name_zh: 古杜语
+name_zh_auto: true
 autonym: Gudo
 alt_names: [Gombi, Gutu]
 population: 5000

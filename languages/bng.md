@@ -1,6 +1,8 @@
 ---
 iso: bng
 name: Benga
+name_zh: 贝恩加语
+name_zh_auto: true
 autonym: bɛŋga
 alt_names: [Qaqet]
 population: 5500

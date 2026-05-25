@@ -1,6 +1,8 @@
 ---
 iso: tor
 name: "Togbo-Vara Banda"
+name_zh: 托格博-瓦拉班达语
+name_zh_auto: true
 autonym: null
 alt_names: [Banda, "Banda, Togbo-Vara"]
 population: 12000

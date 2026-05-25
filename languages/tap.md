@@ -1,6 +1,8 @@
 ---
 iso: tap
 name: Taabwa
+name_zh: 塔阿布瓦语
+name_zh_auto: true
 autonym: Ichitaabwa
 alt_names: [Rungu, Tabwa, Zabwa]
 population: 281600

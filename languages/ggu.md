@@ -1,6 +1,8 @@
 ---
 iso: ggu
 name: Gagu
+name_zh: 加古语
+name_zh_auto: true
 autonym: Gagou
 alt_names: [Gban, Kago, Kagu]
 population: 60000

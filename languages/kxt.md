@@ -1,6 +1,8 @@
 ---
 iso: kxt
 name: Koiwat
+name_zh: 科伊瓦特语
+name_zh_auto: true
 autonym: null
 alt_names: [Sawos]
 population: 800

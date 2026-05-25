@@ -1,6 +1,8 @@
 ---
 iso: ffm
 name: Maasina Fulfulde
+name_zh: 马阿西纳富尔富尔德语
+name_zh_auto: true
 autonym: Maasinankoore
 alt_names: ["Ful (East Maasina), Ful (West Maasina)", Fula, Fulah-Idiome, Fulani, Fulbe, Fulfulde (Maasina), "Fulfulde, Maasina", Maacina, Macina, Peul]
 population: 1523240

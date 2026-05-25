@@ -1,6 +1,8 @@
 ---
 iso: tad
 name: Tause
+name_zh: 陶塞语
+name_zh_auto: true
 autonym: Darha
 alt_names: [Doa, ภาษาตัวเซ]
 population: 300

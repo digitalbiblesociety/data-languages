@@ -1,6 +1,8 @@
 ---
 iso: xrw
 name: Karawa
+name_zh: 卡拉瓦语
+name_zh_auto: true
 autonym: Bulawa
 population: 63
 country_id: PG

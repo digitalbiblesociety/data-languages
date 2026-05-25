@@ -1,6 +1,8 @@
 ---
 iso: xrt
 name: "Aranama-Tamique"
+name_zh: 阿拉纳马-塔米克语
+name_zh_auto: true
 autonym: "Tamique, Hanáma"
 population: null
 country_id: US

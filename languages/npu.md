@@ -1,6 +1,8 @@
 ---
 iso: npu
 name: Puimei Naga
+name_zh: 普伊梅依纳加语
+name_zh_auto: true
 autonym: Kabui
 alt_names: ["Naga, Puimei"]
 population: 3000

@@ -1,6 +1,8 @@
 ---
 iso: wub
 name: Wunambal
+name_zh: 乌纳姆巴尔语
+name_zh_auto: true
 autonym: Jeidji
 alt_names: [Jeithi, Northern Language, Unambal, Woonambal, Wumnabal, Wunambul, Wunambullu, Wunumabal, Yeidji, Yeithi]
 population: null

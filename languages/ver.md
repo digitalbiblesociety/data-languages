@@ -1,6 +1,8 @@
 ---
 iso: ver
 name: Mom Jango
+name_zh: 妈妈姜戈语
+name_zh_auto: true
 autonym: Mom Jango
 alt_names: [Kobo, Vere, Verre, Were]
 population: 110520

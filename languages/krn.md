@@ -1,6 +1,8 @@
 ---
 iso: krn
 name: Sapo
+name_zh: 萨波语
+name_zh_auto: true
 autonym: Sarpo
 alt_names: [Southern Krahn]
 population: 66700

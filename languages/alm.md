@@ -1,6 +1,8 @@
 ---
 iso: alm
 name: Amblong
+name_zh: 安布隆语
+name_zh_auto: true
 autonym: Varavara
 alt_names: [Aje]
 population: 300

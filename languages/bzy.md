@@ -1,6 +1,8 @@
 ---
 iso: bzy
 name: Obanliku
+name_zh: 奥班利库语
+name_zh_auto: true
 autonym: Banliku
 alt_names: [Abanliku, Gayi]
 population: 65000

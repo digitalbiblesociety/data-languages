@@ -1,6 +1,8 @@
 ---
 iso: dic
 name: Lakota Dida
+name_zh: 拉科塔迪达语
+name_zh_auto: true
 autonym: Brabori
 alt_names: [Dida, "Dida, Lakota", Dieko, Gabo, Guébie, Satro, Vata, Ziki]
 population: 93800

@@ -1,6 +1,8 @@
 ---
 iso: mav
 name: "Sateré-Mawé"
+name_zh: 萨特雷-马韦语
+name_zh_auto: true
 autonym: Sataré
 alt_names: [Andira, Andirá, Arapium, Mabue, Maragua, Maue, Maué, Mawé, Mawé-Sateré, Satere-Mawe, Sateré]
 population: 6220

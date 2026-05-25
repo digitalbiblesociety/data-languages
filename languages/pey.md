@@ -1,6 +1,8 @@
 ---
 iso: pey
 name: Petjo
+name_zh: 佩特乔语
+name_zh_auto: true
 autonym: "Peco' Creole"
 alt_names: [Bahasa Pecok, Criollo petjo, Créole pecok, Pecok, Petjoh]
 population: null

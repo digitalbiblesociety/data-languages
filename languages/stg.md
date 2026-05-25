@@ -1,6 +1,8 @@
 ---
 iso: stg
 name: Trieng
+name_zh: 特林格语
+name_zh_auto: true
 autonym: Trieng
 alt_names: [Dgiéh, Giang Ray, Gie-Trieng, Pin, Strieng, Ta-Rieng, Talieng, Tareh, Treng]
 population: 15000

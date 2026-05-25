@@ -1,6 +1,8 @@
 ---
 iso: mha
 name: Manda (India)
+name_zh: 曼达语（印度）
+name_zh_auto: true
 autonym: null
 alt_names: [Manda, Manḍa]
 population: 4040

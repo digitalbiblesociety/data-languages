@@ -1,6 +1,8 @@
 ---
 iso: gdx
 name: Godwari
+name_zh: 戈德瓦利语
+name_zh_auto: true
 autonym: गोद्वाली
 alt_names: [India]
 population: 3000000

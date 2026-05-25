@@ -1,6 +1,8 @@
 ---
 iso: yyu
 name: Yau (Sandaun Province)
+name_zh: 瓦尤语
+name_zh_auto: true
 autonym: null
 alt_names: [Yau]
 population: 140

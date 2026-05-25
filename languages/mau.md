@@ -1,6 +1,8 @@
 ---
 iso: mau
 name: Huautla Mazatec
+name_zh: 瓦乌特拉马萨特克语
+name_zh_auto: true
 autonym: En Ngixo
 alt_names: [Highland Mazatec, Huantla de Jimenez, Huautla-Mazatlán Masateko, Masateko, Mazatec, Mazatec (Huautla), "Mazatec, Huautla", Mazateco, Mazateco (Huautla), Mazateco de Huautla de Jimenez, Mazateco de Mazatlán, Mazateco de Tecóatl, Mazateco de la Sierra, "Mazatèque d'Eloxochitlán", Mazatèque de Huehuetlán, Mazatèque de Mazatlán, Mazatèque de Tecoatl, Mazatèque des hautes terres]
 population: 22400

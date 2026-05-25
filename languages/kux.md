@@ -1,6 +1,8 @@
 ---
 iso: kux
 name: Kukatja
+name_zh: 库卡查语
+name_zh_auto: true
 autonym: Wati
 alt_names: [Aluridja, Bedengo, Bidong, Bidungo, Boonara, Bunara, Gogada, Gogadja, Gogadya, Gogoda, Gogodj, Gogodja, Gugada, Gugadja, Gugadji, Gugudja, Ilbaridja, Julbaritja, Julbre, Juluridja, Jumu, Kokata, Kokatja, Koonggada, Ku kuruba, Ku-kuruba, Kukacha, Kukada, Kukadja, Kukaja, Kukata, Kukatji, Kukuruba, Loorudgee, Loorudgie, Loritcha, Loritja, Luritcha, Luritja, Lurritji, Maduntara, Maiulatara, Manggai, Nambulatji, Panara, Pardoo, Peedona, Peedong, Pidung, Pidunga, Wanaeka, Wangatjunga, Wangatunga, Wangkadjungga, Wangkatjunga, Wangkatunga, Wangu, Wankutjunga]
 population: 580

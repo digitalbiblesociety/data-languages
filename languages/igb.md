@@ -1,6 +1,8 @@
 ---
 iso: igb
 name: Ebira
+name_zh: 埃比拉语
+name_zh_auto: true
 autonym: Egbira
 alt_names: [Egbura, Ibara, Igbarra, Igbira, Igbirra, Katawa, Kotokori, Kwotto]
 population: 2000000

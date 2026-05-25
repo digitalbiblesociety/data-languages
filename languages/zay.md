@@ -1,6 +1,8 @@
 ---
 iso: zay
 name: "Zayse-Zergulla"
+name_zh: 扎伊塞-泽尔古拉语
+name_zh_auto: true
 autonym: Zaisse
 alt_names: [Zayse, Zaysete, Zaysse, Zaysé, Zaysé-Zergulla, Zeyse]
 population: 18500

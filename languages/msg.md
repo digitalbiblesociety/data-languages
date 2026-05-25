@@ -1,6 +1,8 @@
 ---
 iso: msg
 name: Moraid
+name_zh: 莫拉伊德语
+name_zh_auto: true
 autonym: bahasa Moraid
 alt_names: [Ogit]
 population: 1000

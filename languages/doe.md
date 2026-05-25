@@ -1,6 +1,8 @@
 ---
 iso: doe
 name: Doe
+name_zh: 多埃语
+name_zh_auto: true
 autonym: Dohe
 alt_names: [Kidoe]
 population: 24000

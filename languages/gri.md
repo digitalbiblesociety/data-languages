@@ -1,6 +1,8 @@
 ---
 iso: gri
 name: Ghari
+name_zh: 加哈里语
+name_zh_auto: true
 autonym: Gari
 alt_names: [Guadalcanar, Sughu, Südliche Salomons-Inseln, Tangarare, West Guadalcanal]
 population: 12100

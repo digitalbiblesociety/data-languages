@@ -1,6 +1,8 @@
 ---
 iso: gud
 name: Yocoboué Dida
+name_zh: 约科博韦迪达语
+name_zh_auto: true
 autonym: null
 alt_names: ["Côte d'Ivoire", "Dida, Yocoboué", Yocoboue Dida]
 population: 102000

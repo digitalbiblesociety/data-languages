@@ -1,6 +1,8 @@
 ---
 iso: mxt
 name: Jamiltepec Mixtec
+name_zh: 贾米尔特佩克米克斯特克语
+name_zh_auto: true
 autonym: "Cristobál-Chayuco"
 alt_names: [Central Misteko, Centreal Mixteco, Eastern Jamiltepec-San Cristobal Mixtec, Misteko, Mixtec, Mixtec (Jamiltepec), "Mixtec, Jamiltepec", Mixteco ( Jamiltepec), Mixteco de Jamiltepec, Southern Misteko, Southern Mixteco]
 population: 9760

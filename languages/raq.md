@@ -1,6 +1,8 @@
 ---
 iso: raq
 name: Saam
+name_zh: 萨姆语
+name_zh_auto: true
 autonym: Saam Rai
 population: 530
 country_id: NP

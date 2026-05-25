@@ -1,6 +1,8 @@
 ---
 iso: loh
 name: Narim
+name_zh: 纳里姆语
+name_zh_auto: true
 autonym: Narim
 alt_names: [Laarim, Lariim, Larim, Lariminit, Larimo, Longarim, Nariim]
 population: 3620

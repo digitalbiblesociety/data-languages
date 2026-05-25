@@ -1,6 +1,8 @@
 ---
 iso: fmp
 name: "Fe'fe'"
+name_zh: 费费语
+name_zh_auto: true
 autonym: " Fotouni"
 alt_names: [Bafang, "Bamileke-Fe'fe'", "Fe'efe'e", "Fe'fe", "Fe'fe' jezik", "Fe?fe?", Feefee, Fefe, Nufi]
 population: 140000

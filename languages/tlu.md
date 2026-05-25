@@ -1,6 +1,8 @@
 ---
 iso: tlu
 name: Tulehu
+name_zh: 图勒胡语
+name_zh_auto: true
 autonym: Northeast Ambon
 population: 18800
 country_id: ID

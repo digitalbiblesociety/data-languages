@@ -1,6 +1,8 @@
 ---
 iso: xwg
 name: Kwegu
+name_zh: 克韦古语
+name_zh_auto: true
 autonym: Bacha
 alt_names: [Koegu, Koyego, Kwegi, Menja, Nidi]
 population: 450

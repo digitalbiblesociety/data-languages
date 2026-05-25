@@ -1,6 +1,8 @@
 ---
 iso: ghn
 name: Ghanongga
+name_zh: 加农加语
+name_zh_auto: true
 autonym: Ganongga
 alt_names: [Kubokota, Kumbokota]
 population: 2510

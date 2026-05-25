@@ -1,6 +1,8 @@
 ---
 iso: byz
 name: Banaro
+name_zh: 巴纳罗语
+name_zh_auto: true
 autonym: Waran
 alt_names: [Banar, Banara]
 population: 2480

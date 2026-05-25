@@ -1,6 +1,8 @@
 ---
 iso: irh
 name: Irarutu
+name_zh: 伊拉鲁图语
+name_zh_auto: true
 autonym: Irahutu
 alt_names: [Arguni Bay, Irutu, Kaitero, Kasira]
 population: 4000

@@ -1,6 +1,8 @@
 ---
 iso: bbn
 name: Uneapa
+name_zh: 乌内阿帕语
+name_zh_auto: true
 autonym: Bali
 alt_names: [Bali-Vitu, Uneapa jezik]
 population: 10000

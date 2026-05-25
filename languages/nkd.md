@@ -1,6 +1,8 @@
 ---
 iso: nkd
 name: Koireng
+name_zh: 科伊伦语
+name_zh_auto: true
 autonym: Koren
 alt_names: [Koirng, Kolren, Kwoireng, Liangmai, Liangmei, Liyang, Liyangmai, Lyengmai, Quoireng]
 population: 1056

@@ -1,6 +1,8 @@
 ---
 iso: nbu
 name: Rongmei Naga
+name_zh: 容梅伊纳加语
+name_zh_auto: true
 autonym: Songbu
 alt_names: [Kabiu, Kabui, Maruongmai, Naga, "Naga, Rongmei", "Naga,Rongmei", Nruanghmei, Rongmai, Rongmei]
 population: 66700

@@ -1,6 +1,8 @@
 ---
 iso: noq
 name: Ngongo
+name_zh: 恩贡戈语
+name_zh_auto: true
 autonym: Iyaka
 alt_names: [Democratic Republic of the Congo]
 population: 4080

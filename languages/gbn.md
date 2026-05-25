@@ -1,6 +1,8 @@
 ---
 iso: gbn
 name: "Mo'da"
+name_zh: 莫达语
+name_zh_auto: true
 autonym: Gbara
 alt_names: [Gberi, Gweri, Moda, Muda]
 population: 600

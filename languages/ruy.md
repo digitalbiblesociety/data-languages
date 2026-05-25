@@ -1,6 +1,8 @@
 ---
 iso: ruy
 name: Mala (Nigeria)
+name_zh: 马拉语（尼日利亚）
+name_zh_auto: true
 autonym: Rumaya
 alt_names: [Amala, Mala, Rumaiya, Tumala]
 population: 6630

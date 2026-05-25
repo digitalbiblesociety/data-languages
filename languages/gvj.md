@@ -1,6 +1,8 @@
 ---
 iso: gvj
 name: Guajá
+name_zh: 瓜雅语
+name_zh_auto: true
 autonym: Awá
 alt_names: [Amanage, Amanajo, Amanajé, Amanayé, Anambé, Avá, Awá Guajá, Ayaya, Guaja, Guaxare, Guažá, "Ka'apór", Manajo, Manaxo, Manaze, Manazo, Urubú, Urubú-kaapor, Wazaizara]
 population: 370

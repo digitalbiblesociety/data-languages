@@ -1,6 +1,8 @@
 ---
 iso: kph
 name: Kplang
+name_zh: 克普朗语
+name_zh_auto: true
 autonym: Prang
 alt_names: [Guang]
 population: 1600

@@ -1,6 +1,8 @@
 ---
 iso: lkd
 name: Lakondê
+name_zh: 拉孔德语
+name_zh_auto: true
 autonym: Northern Nambikwara
 alt_names: [Kithāulhú, Laconde, Lacondê, Lakonde, Latundê, Mamaindê, Mamande, Nakarothe, Nambikuára septentrional, Nambikwara du nord, Northern Nambikuaran, Northern Nambiquara, Yalapmunxte]
 population: null

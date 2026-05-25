@@ -1,6 +1,8 @@
 ---
 iso: cns
 name: Central Asmat
+name_zh: 中阿斯玛特语
+name_zh_auto: true
 autonym: Jas
 alt_names: [Asmat, "Asmat, Central", Manowee, Yas]
 population: 7000

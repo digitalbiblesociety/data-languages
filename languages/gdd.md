@@ -1,6 +1,8 @@
 ---
 iso: gdd
 name: Gedaged
+name_zh: 格达格德语
+name_zh_auto: true
 autonym: Bel
 alt_names: [Graged, Mitebog, Ragetta, Rio, Sek, Star, Star-Ragetta, Szeak-Bagili, Tiara]
 population: 6950

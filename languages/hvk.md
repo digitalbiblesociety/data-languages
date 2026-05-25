@@ -1,6 +1,8 @@
 ---
 iso: hvk
 name: Haveke
+name_zh: 哈韦克语
+name_zh_auto: true
 autonym: Aveke
 alt_names: ["'Aveke", Haeke, Hmwaveke, Neukaledonien]
 population: 300

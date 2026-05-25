@@ -1,6 +1,8 @@
 ---
 iso: omg
 name: Omagua
+name_zh: 奥玛瓜语
+name_zh_auto: true
 autonym: Agua
 alt_names: [Anapia, Ariana, Cambeba, Cambeeba, Cambela, Campeba, Canga-Peba, Compeva, Janbeba, Kambeba, Macanipa, Omagua (Brésil), Omagua (Perú), Omagua (Pérou), Omagua-Campeva, Omagua-Yete, Omawa-Kampeva, Pariana, Umaua, Yhuata]
 population: 100

@@ -1,6 +1,8 @@
 ---
 iso: mlb
 name: Mbule
+name_zh: 姆布莱语
+name_zh_auto: true
 autonym: Dumbule
 alt_names: [Mbola]
 population: 100

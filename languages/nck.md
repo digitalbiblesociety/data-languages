@@ -1,6 +1,8 @@
 ---
 iso: nck
 name: "Na-kara"
+name_zh: 纳卡拉语
+name_zh_auto: true
 autonym: Kokori
 alt_names: [Gukari, Gukariya, Kukkori, Na kara, Nackara, "Naga:ra", Nagara, "Naka:ra", Nakara, Nakarra, Nakkara, Narkarrar, Ngara]
 population: 58

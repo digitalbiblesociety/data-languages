@@ -1,6 +1,8 @@
 ---
 iso: mzx
 name: Mawayana
+name_zh: 玛瓦亚纳语
+name_zh_auto: true
 autonym: Mapidian
 population: 2
 country_id: GY

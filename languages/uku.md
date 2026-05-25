@@ -1,6 +1,8 @@
 ---
 iso: uku
 name: Ukue
+name_zh: 乌库埃语
+name_zh_auto: true
 autonym: Ekpenmen
 alt_names: [Ekpenmi, Epinmi, Ukpe]
 population: 14100

@@ -1,6 +1,8 @@
 ---
 iso: itr
 name: Iteri
+name_zh: 伊特里语
+name_zh_auto: true
 autonym: Rocky Peak
 alt_names: [Alowiemino, Iyo, Laro, Yinibu]
 population: 480

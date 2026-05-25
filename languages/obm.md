@@ -1,6 +1,8 @@
 ---
 iso: obm
 name: Moabite
+name_zh: 摩押语
+name_zh_auto: true
 autonym: null
 population: null
 country_id: JO

@@ -1,6 +1,8 @@
 ---
 iso: abx
 name: Inabaknon
+name_zh: 伊那巴克农语
+name_zh_auto: true
 autonym: Capul Sinama
 alt_names: [Abaknon, Abaknon Sama, Capul, Capuleño, Kapul, Sama]
 population: 26400

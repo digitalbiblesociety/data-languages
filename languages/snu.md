@@ -1,6 +1,8 @@
 ---
 iso: snu
 name: Senggi
+name_zh: 森吉语
+name_zh_auto: true
 autonym: Viid
 alt_names: [Sengi]
 population: 250

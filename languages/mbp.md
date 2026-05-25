@@ -1,6 +1,8 @@
 ---
 iso: mbp
 name: Malayo
+name_zh: 马拉约语
+name_zh_auto: true
 autonym: Malayo
 alt_names: [Aisario, Arosario, Arsario, Atanque, Bustintana, Damana, Guamaca, Guamaka, Huihua, Kampanake, Maracasero, Marocacero, Marocasero, Nabela, Sancá, Sanha, Sanja, Sanka, Sanká, Wamaka, Wiwa]
 population: 1920

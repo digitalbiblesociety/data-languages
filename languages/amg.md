@@ -1,6 +1,8 @@
 ---
 iso: amg
 name: Amurdak
+name_zh: 阿穆尔达克语
+name_zh_auto: true
 autonym: Amarag
 alt_names: ["A'moordiyu", Amarak, Amardak, Amooridiyu, Amurag, Amurdag, Amurdag language, Amurrag, Amurrak, Amurtak, Amuruk, Iwaidjan, Mamurug, Mono bar, Monobar, Namurug, "Nga:mr:rak", "Nga:mu:rak", Ngamrrak, Ngamurag, Ngamurak, Umoordak, Umoreo, Umoriu, Umorrdak, Wardadjbak, Woraidbug, Wureidbug]
 population: null

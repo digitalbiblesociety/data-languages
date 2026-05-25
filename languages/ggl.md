@@ -1,6 +1,8 @@
 ---
 iso: ggl
 name: Ganglau
+name_zh: 甘格劳语
+name_zh_auto: true
 autonym: null
 population: 470
 country_id: PG

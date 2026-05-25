@@ -1,6 +1,8 @@
 ---
 iso: jiu
 name: Youle Jinuo
+name_zh: 优乐基诺语
+name_zh_auto: true
 autonym: " 基諾語補遠方言"
 alt_names: [Jino, Jinuo, "Jinuo, Youle", "Jinuo,Youle", Youle, 攸樂基諾語]
 population: 10000

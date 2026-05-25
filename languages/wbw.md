@@ -1,6 +1,8 @@
 ---
 iso: wbw
 name: Woi
+name_zh: 沃伊语
+name_zh_auto: true
 autonym: "Wo'oi"
 alt_names: [Woi language]
 population: 1300

@@ -1,6 +1,8 @@
 ---
 iso: tix
 name: Southern Tiwa
+name_zh: 南蒂瓦语
+name_zh_auto: true
 autonym: "Tiwa, Southern"
 alt_names: [Isleta, Isleta-Sandia, S Tiwa, S. Tiwa, Tiwa, Tiwa (Southern), Tiwa meridional (Sandía), Tiwa méridional (Pueblo Isleta), Tiwa méridional (Pueblo Sandia)]
 population: 1600

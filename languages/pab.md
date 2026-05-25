@@ -1,6 +1,8 @@
 ---
 iso: pab
 name: Parecís
+name_zh: 帕雷西斯语
+name_zh_auto: true
 autonym: Arití
 alt_names: [Arawak, Ariti, Haliti, Pareche, Pareci, Parecis, Paresi, Paressi, Paressí, Paresí, Paretí]
 population: 1800

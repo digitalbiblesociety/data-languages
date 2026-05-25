@@ -1,6 +1,8 @@
 ---
 iso: xgg
 name: Goreng
+name_zh: 戈伦语
+name_zh_auto: true
 autonym: Noongar
 population: 240
 country_id: AU

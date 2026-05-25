@@ -1,6 +1,8 @@
 ---
 iso: onj
 name: Onjob
+name_zh: 翁乔布语
+name_zh_auto: true
 autonym: Onjab
 population: 150
 country_id: PG

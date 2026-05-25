@@ -1,6 +1,8 @@
 ---
 iso: til
 name: Tillamook
+name_zh: 蒂拉莫克语
+name_zh_auto: true
 autonym: "Hutyáyu, Hutyéyu"
 alt_names: [Hutyéyu, Nehalin, Tilamuco, Tillamooks]
 population: null

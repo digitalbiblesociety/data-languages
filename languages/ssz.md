@@ -1,6 +1,8 @@
 ---
 iso: ssz
 name: Sengseng
+name_zh: 塞恩塞恩语
+name_zh_auto: true
 autonym: Asengseng
 alt_names: [Sengseng language]
 population: 1750

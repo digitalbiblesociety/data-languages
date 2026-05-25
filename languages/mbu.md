@@ -1,6 +1,8 @@
 ---
 iso: mbu
 name: "Mbula-Bwazza"
+name_zh: 姆布拉-布瓦扎语
+name_zh_auto: true
 autonym: Ɓwázà
 alt_names: [Nigeria]
 population: 100000

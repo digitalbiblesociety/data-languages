@@ -1,6 +1,8 @@
 ---
 iso: fgr
 name: Fongoro
+name_zh: 丰戈罗语
+name_zh_auto: true
 autonym: Formona
 population: 1000
 country_id: TD

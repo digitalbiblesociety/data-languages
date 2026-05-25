@@ -1,6 +1,8 @@
 ---
 iso: tnt
 name: Tontemboan
+name_zh: 通滕博安语
+name_zh_auto: true
 autonym: Pakewa
 alt_names: [Tompakewa, Tountemboan]
 population: 14860

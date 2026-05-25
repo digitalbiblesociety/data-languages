@@ -1,6 +1,8 @@
 ---
 iso: jur
 name: Jurúna
+name_zh: 朱鲁纳语
+name_zh_auto: true
 autonym: Iuruna
 alt_names: [Djudjá, Jaruna, Jurna, Juruna, Yudja, Yudjá, Yudya, Yuruna, Yurúna]
 population: 278

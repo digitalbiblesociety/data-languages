@@ -1,6 +1,8 @@
 ---
 iso: cir
 name: Tiri
+name_zh: 蒂里语
+name_zh_auto: true
 autonym: Méa
 alt_names: [Ciri, Ha-Tiri, Haméa, Neukaledonien, Tinrin, Tiri (Grand Couli), Tîrî]
 population: 260

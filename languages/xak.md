@@ -1,6 +1,8 @@
 ---
 iso: xak
 name: Máku
+name_zh: 马库语
+name_zh_auto: true
 autonym: Jukude
 alt_names: [Maku]
 population: null

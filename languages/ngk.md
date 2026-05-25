@@ -1,6 +1,8 @@
 ---
 iso: ngk
 name: Dalabon
+name_zh: 达拉本语
+name_zh_auto: true
 autonym: Ngalkbun
 alt_names: [Bouin, Boun, "Bu:wan", Buan, Buin, Buwan, "Dalabon ?Gundangbon", Dangbon, Dangbon/Dalabon, Dangbun, Gundalabon, Gundangbon, Hongalla), Lenga ngalkbun, Nalabon, Ngalabon, Ngalagan, Ngalakan, Ngalbon, Ngalgbon, Ngalgbun, Ngalkbon, "Ngalkbon consist of the word for 'mouth? in the relevant language plus an element bon", Njalkpon, Nullakun, Nullikan, Nullikin]
 population: null

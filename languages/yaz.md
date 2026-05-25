@@ -1,6 +1,8 @@
 ---
 iso: yaz
 name: Lokaa
+name_zh: 洛卡语
+name_zh_auto: true
 autonym: Lokaa
 alt_names: [Loke, Loko, Luko, Yako, Yakurr, Yakö]
 population: 270000

@@ -1,6 +1,8 @@
 ---
 iso: muh
 name: Mündü
+name_zh: 蒙杜语
+name_zh_auto: true
 autonym: Mondo
 alt_names: [Gbanzili 4th division, Mondu, Mountou, Mundo, Mundu]
 population: 25800

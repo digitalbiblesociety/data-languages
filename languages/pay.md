@@ -1,6 +1,8 @@
 ---
 iso: pay
 name: Pech
+name_zh: 佩奇语
+name_zh_auto: true
 autonym: Paya
 alt_names: [Bayano, Culmí dialect, Paya (Culmí), Pechí, Seco, Taia, Towka]
 population: 2586

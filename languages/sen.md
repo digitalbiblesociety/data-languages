@@ -1,6 +1,8 @@
 ---
 iso: sen
 name: Nanerigé Sénoufo
+name_zh: 纳内里格塞努福语
+name_zh_auto: true
 autonym: Naani
 alt_names: [Nandereke, Nandergé, Nanergué, Nanergé, Nanerige Senoufo, "Sénoufo, Nanerigé"]
 population: 50000

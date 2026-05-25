@@ -1,6 +1,8 @@
 ---
 iso: tdi
 name: Tomadino
+name_zh: 托马迪诺语
+name_zh_auto: true
 autonym: bahasa Tomadino
 population: 600
 country_id: ID

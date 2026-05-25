@@ -1,6 +1,8 @@
 ---
 iso: sgc
 name: Kipsigis
+name_zh: 基普西吉斯语
+name_zh_auto: true
 autonym: Kipsiikis
 alt_names: [Kipsigiseg, Kipsikis]
 population: 1910000

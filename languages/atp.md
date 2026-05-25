@@ -1,6 +1,8 @@
 ---
 iso: atp
 name: Pudtol Atta
+name_zh: 普德托尔阿塔语
+name_zh_auto: true
 autonym: null
 alt_names: ["Atta, Pudtol"]
 population: 710

@@ -1,6 +1,8 @@
 ---
 iso: zpk
 name: Tlacolulita Zapotec
+name_zh: 特拉科卢利塔萨波特克语
+name_zh_auto: true
 autonym: (Asunción Tlacolulita)
 alt_names: [Southeastern Yautepec Zapotec, "Zapotec, Tlacolulita", Zapoteco de Asunción Tlacolulita]
 population: 140

@@ -1,6 +1,8 @@
 ---
 iso: inj
 name: Jungle Inga
+name_zh: 丛林因加语
+name_zh_auto: true
 autonym: Ingano
 alt_names: ["Inga, Jungle"]
 population: 11200

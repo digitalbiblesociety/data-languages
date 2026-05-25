@@ -1,6 +1,8 @@
 ---
 iso: awo
 name: Awak
+name_zh: 阿瓦克语
+name_zh_auto: true
 autonym: Awak
 alt_names: [Awok, Yebu]
 population: 6000

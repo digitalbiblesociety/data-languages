@@ -1,6 +1,8 @@
 ---
 iso: vkk
 name: Kaur
+name_zh: 考尔语
+name_zh_auto: true
 autonym: Ka’ur
 alt_names: [Bintuhan, "Ka'ur", Mulak]
 population: 40000

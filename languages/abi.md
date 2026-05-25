@@ -1,6 +1,8 @@
 ---
 iso: abi
 name: Abidji
+name_zh: 阿比吉语
+name_zh_auto: true
 autonym: Abiji
 population: 85000
 country_id: CI

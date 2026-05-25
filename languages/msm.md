@@ -1,6 +1,8 @@
 ---
 iso: msm
 name: Agusan Manobo
+name_zh: 阿古桑曼诺博语
+name_zh_auto: true
 autonym: "Manobo, Agusan"
 alt_names: [Agusan]
 population: 60000

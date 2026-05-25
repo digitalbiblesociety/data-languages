@@ -1,6 +1,8 @@
 ---
 iso: pel
 name: Pekal
+name_zh: 佩卡尔语
+name_zh_auto: true
 autonym: bahasa Pekal
 alt_names: [Indonesia]
 population: 30000

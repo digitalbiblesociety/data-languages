@@ -1,6 +1,8 @@
 ---
 iso: wer
 name: Weri
+name_zh: 韦里语
+name_zh_auto: true
 autonym: null
 alt_names: [Biaru]
 population: 6900

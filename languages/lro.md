@@ -1,6 +1,8 @@
 ---
 iso: lro
 name: Laro
+name_zh: 拉罗语
+name_zh_auto: true
 autonym: Laru
 alt_names: [Aaleira, Ngwullaro, Yillaro]
 population: 40000

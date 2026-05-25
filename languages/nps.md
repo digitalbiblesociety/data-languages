@@ -1,6 +1,8 @@
 ---
 iso: nps
 name: Nipsan
+name_zh: 尼普桑语
+name_zh_auto: true
 autonym: Southern Jale
 alt_names: [Yale-Nipsan, Yali]
 population: 2500

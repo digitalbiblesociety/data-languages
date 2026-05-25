@@ -1,6 +1,8 @@
 ---
 iso: isa
 name: Isabi
+name_zh: 伊萨比语
+name_zh_auto: true
 autonym: Maruhia
 population: 280
 country_id: PG

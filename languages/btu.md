@@ -1,6 +1,8 @@
 ---
 iso: btu
 name: Batu
+name_zh: 巴图语
+name_zh_auto: true
 autonym: Afi
 population: 25000
 country_id: NG

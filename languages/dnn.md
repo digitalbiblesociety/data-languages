@@ -1,6 +1,8 @@
 ---
 iso: dnn
 name: Dzùùngoo
+name_zh: 祖恩戈语
+name_zh_auto: true
 autonym: Eastern Duun
 alt_names: [Dzuungoo, Kpango, Samogho, Samogo, Samoro]
 population: 13400

@@ -1,6 +1,8 @@
 ---
 iso: esi
 name: North Alaskan Inupiatun
+name_zh: 北阿拉斯加因纽皮亚特语
+name_zh_auto: true
 autonym: Iñupiatun
 alt_names: ["\"Eskimo\"", Alaskan Inuit, Alaskan Inupiaq, Bering Strait, Eskimo, Inudiatun, Inuit, Inupiaq, "Inupiaq de nord de l'Alaska (North Slope)", "Inupiaq du nord de l'Alaska  (Golfe de Kotzebue)", "Inupiaq du nord de l'Alaska (Canada)", Inupiat, Inupiatun (North Alaskan), "Inupiatun, North Alaskan", Inuí alaskiano septentrional (zona ártica septentrional), Iñupiaq, North Alaska Inupiaq, North Alaska Iñupiaq, North Alaskan Eskimo, North Alaskan Inupiaq, North Alaskan Inupiat]
 population: 6420

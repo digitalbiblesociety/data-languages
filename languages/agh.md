@@ -1,6 +1,8 @@
 ---
 iso: agh
 name: Ngelima
+name_zh: 恩格利玛语
+name_zh_auto: true
 autonym: Angba
 alt_names: [Bangalema, Bangelima, Beo, Leangba, Lebeo]
 population: 13600

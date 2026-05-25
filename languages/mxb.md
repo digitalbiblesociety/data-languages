@@ -1,6 +1,8 @@
 ---
 iso: mxb
 name: Tezoatlán Mixtec
+name_zh: 特佐特兰米克斯特克语
+name_zh_auto: true
 autonym: "Mixtec, Tezoatlán"
 alt_names: [Cacaloxtepec Mixtec, Huajuapan Mixtec, Mixteco de Cacaloxtepec, Mixteco de Tezoatlán de Segura y Luna, Northern Misteko, Northern Mixteco, Tezoatlan Mixtec]
 population: 5080

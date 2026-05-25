@@ -1,6 +1,8 @@
 ---
 iso: app
 name: Apma
+name_zh: 阿普玛语
+name_zh_auto: true
 autonym: Central Raga
 alt_names: [Abma]
 population: 7800

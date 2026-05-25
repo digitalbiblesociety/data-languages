@@ -1,6 +1,8 @@
 ---
 iso: toq
 name: Toposa
+name_zh: 托波萨语
+name_zh_auto: true
 autonym: Toposa–Jiye
 alt_names: [Akara, Kare, Kumi, Taposa, Topotha]
 population: 315000

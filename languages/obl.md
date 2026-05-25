@@ -1,6 +1,8 @@
 ---
 iso: obl
 name: Oblo
+name_zh: 奥卜洛语
+name_zh_auto: true
 autonym: null
 alt_names: [Cameroon]
 population: null

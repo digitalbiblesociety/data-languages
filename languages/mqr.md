@@ -1,6 +1,8 @@
 ---
 iso: mqr
 name: Mander
+name_zh: 曼德语
+name_zh_auto: true
 autonym: bahasa Mander
 population: 200
 country_id: ID

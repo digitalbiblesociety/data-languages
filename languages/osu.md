@@ -1,6 +1,8 @@
 ---
 iso: osu
 name: Southern One
+name_zh: 南翁语
+name_zh_auto: true
 autonym: Aunalei
 alt_names: [Inebu One, Kabore One, Kuamtim, Kwamtim One, Molmo One, Northern One, One, "One, Southern", Onele, Oni]
 population: 200

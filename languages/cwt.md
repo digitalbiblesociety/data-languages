@@ -1,6 +1,8 @@
 ---
 iso: cwt
 name: Kuwaataay
+name_zh: 库瓦塔艾语
+name_zh_auto: true
 autonym: Kuwaataay
 alt_names: [Kwatay]
 population: 8710

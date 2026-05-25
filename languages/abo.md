@@ -1,6 +1,8 @@
 ---
 iso: abo
 name: Abon
+name_zh: 阿邦语
+name_zh_auto: true
 autonym: Abõ
 alt_names: [Abong, "Ba'ban"]
 population: 1000

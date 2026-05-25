@@ -1,6 +1,8 @@
 ---
 iso: ahb
 name: Axamb
+name_zh: 阿克桑布语
+name_zh_auto: true
 autonym: Ahamb
 alt_names: [Akamb, Akhamb, Mallicolo, "naujin sdrato [nauˈtʃin sndraˈto] ‘our language’"]
 population: 750

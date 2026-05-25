@@ -1,6 +1,8 @@
 ---
 iso: grz
 name: Guramalum
+name_zh: 古拉马卢姆语
+name_zh_auto: true
 autonym: null
 population: null
 country_id: PG

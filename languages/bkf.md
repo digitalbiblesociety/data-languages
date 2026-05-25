@@ -1,6 +1,8 @@
 ---
 iso: bkf
 name: Beeke
+name_zh: 贝克语
+name_zh_auto: true
 autonym: Ibeeke
 alt_names: [Beke]
 population: 1000

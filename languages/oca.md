@@ -1,6 +1,8 @@
 ---
 iso: oca
 name: Ocaina
+name_zh: 奥卡伊纳语
+name_zh_auto: true
 autonym: "Xáfahxajoh'"
 alt_names: [Ocaina (Colombie), Ocaina (Perú), Ocaina (Pérou), Okaina, Okaineg, 𐍉𐌺𐌰𐌹𐌽𐌰𐍂𐌰𐌶𐌳𐌰]
 population: 190

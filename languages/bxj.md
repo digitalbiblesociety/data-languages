@@ -1,6 +1,8 @@
 ---
 iso: bxj
 name: Bayungu
+name_zh: 巴永古语
+name_zh_auto: true
 autonym: Bayungu
 alt_names: [Baijungo, Baijungu, Baiong, Baiung, Baiyungu, Bajungu, Binnigoora, Biong, Giong, Mulgarnoo, Paiunggu, Pajungu, Payu, Payungu, Pinneegoora]
 population: null

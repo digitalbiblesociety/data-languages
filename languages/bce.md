@@ -1,6 +1,8 @@
 ---
 iso: bce
 name: Bamenyam
+name_zh: 巴梅尼亚姆语
+name_zh_auto: true
 autonym: Bamenyan
 alt_names: [Mamenyan, Mengambo, Pamenyan]
 population: 4000

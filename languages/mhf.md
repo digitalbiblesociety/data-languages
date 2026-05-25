@@ -1,6 +1,8 @@
 ---
 iso: mhf
 name: Mamaa
+name_zh: 玛玛阿语
+name_zh_auto: true
 autonym: Doloman
 alt_names: [Mama]
 population: 200

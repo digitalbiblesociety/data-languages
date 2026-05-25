@@ -1,6 +1,8 @@
 ---
 iso: trx
 name: "Tringgus-Sembaan Bidayuh"
+name_zh: 三吉斯-森巴安比达尤语
+name_zh_auto: true
 autonym: Tringus
 alt_names: ["Bidayuh, Tringgus-Sembaan", Tringgus]
 population: 850

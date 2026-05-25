@@ -1,6 +1,8 @@
 ---
 iso: bie
 name: Bepour
+name_zh: 贝普尔语
+name_zh_auto: true
 autonym: null
 population: 125
 country_id: PG

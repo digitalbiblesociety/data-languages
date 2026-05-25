@@ -1,6 +1,8 @@
 ---
 iso: zao
 name: Ozolotepec Zapotec
+name_zh: 奥索洛特佩克-萨波特克语
+name_zh_auto: true
 autonym: "Zapotec, Ozolotepec"
 alt_names: [Southern Sapoteko, Zapotec, Zapoteco de Asunción Tlacolulita, Zapoteco de Ozolotepec, "Zapotèque d'Asunción Tlacolulita"]
 population: 6500

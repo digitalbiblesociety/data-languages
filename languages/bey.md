@@ -1,6 +1,8 @@
 ---
 iso: bey
 name: Beli (Papua New Guinea)
+name_zh: 巴布亚新几内亚贝利语
+name_zh_auto: true
 autonym: Akuwagel
 alt_names: [Beli, Makarim, Mukili]
 population: 2200

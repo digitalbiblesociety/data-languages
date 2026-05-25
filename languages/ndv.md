@@ -1,6 +1,8 @@
 ---
 iso: ndv
 name: Ndut
+name_zh: 恩杜特语
+name_zh_auto: true
 autonym: Ndoute
 population: 52000
 country_id: SN

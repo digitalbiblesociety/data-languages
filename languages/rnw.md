@@ -1,6 +1,8 @@
 ---
 iso: rnw
 name: Rungwa
+name_zh: 鲁恩瓦语
+name_zh_auto: true
 autonym: Icilungwa
 alt_names: [Ichirungwa, Lungwa, Runga]
 population: 18000

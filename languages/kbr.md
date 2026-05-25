@@ -1,6 +1,8 @@
 ---
 iso: kbr
 name: Kafa
+name_zh: 卡法语
+name_zh_auto: true
 autonym: Kafi noono
 alt_names: [Bosha, Caffino, Garo, Kafa-språket, Kaffa, Kafficho, Kaficho, Kefa, Kefa-Mocha, Keffa, Manjo]
 population: 1190000

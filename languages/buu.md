@@ -1,6 +1,8 @@
 ---
 iso: buu
 name: Budu
+name_zh: 布杜语
+name_zh_auto: true
 autonym: Bodo
 alt_names: [Ebudu, Kibudu]
 population: 180000

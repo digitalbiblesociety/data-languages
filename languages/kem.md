@@ -1,6 +1,8 @@
 ---
 iso: kem
 name: Kemak
+name_zh: 克马克语
+name_zh_auto: true
 autonym: Ema
 alt_names: [ภาษาเกมัก]
 population: 90000

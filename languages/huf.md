@@ -1,6 +1,8 @@
 ---
 iso: huf
 name: Humene
+name_zh: 胡梅内语
+name_zh_auto: true
 autonym: null
 alt_names: [Lakume, Manukolu]
 population: 940

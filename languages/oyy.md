@@ -1,6 +1,8 @@
 ---
 iso: oyy
 name: "Oya'oya"
+name_zh: 奥亚奥亚语
+name_zh_auto: true
 autonym: Daiomuni
 alt_names: [Kuiaro, Loani, Simagahi]
 population: 370

@@ -1,6 +1,8 @@
 ---
 iso: wmn
 name: Waamwang
+name_zh: 瓦姆旺语
+name_zh_auto: true
 autonym: Wamoang
 alt_names: [Neukaledonien]
 population: null

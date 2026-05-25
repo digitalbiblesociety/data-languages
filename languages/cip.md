@@ -1,6 +1,8 @@
 ---
 iso: cip
 name: Chiapanec
+name_zh: 恰帕内克语
+name_zh_auto: true
 autonym: Chiapaneco
 alt_names: [Chaipanec, Chiapaneko]
 population: null

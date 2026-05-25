@@ -1,6 +1,8 @@
 ---
 iso: wbe
 name: Waritai
+name_zh: 瓦里泰语
+name_zh_auto: true
 autonym: Waritai
 alt_names: [Wari, Weretai]
 population: 150

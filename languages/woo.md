@@ -1,6 +1,8 @@
 ---
 iso: woo
 name: Manombai
+name_zh: 马诺姆拜语
+name_zh_auto: true
 autonym: Manobai
 alt_names: [Aru, Wamar, Wokam]
 population: 7480

@@ -1,6 +1,8 @@
 ---
 iso: dyi
 name: Djimini Senoufo
+name_zh: 吉米尼塞努弗语
+name_zh_auto: true
 autonym: "Senoufo, Djimini"
 alt_names: [Djimini, Dyimini, Gimini, Guimini, Jinmini, Senoufou (Djimini)]
 population: 95500

@@ -1,6 +1,8 @@
 ---
 iso: bku
 name: Buhid
+name_zh: 布希德语
+name_zh_auto: true
 autonym: ᝊᝓᝑᝒ
 alt_names: [Bangon, Batangan, Bukil, ภาษาบูฮิด]
 population: 11600

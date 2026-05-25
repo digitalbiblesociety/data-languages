@@ -1,6 +1,8 @@
 ---
 iso: vif
 name: Vili
+name_zh: 维利语
+name_zh_auto: true
 autonym: Civili
 alt_names: [Fiot, Fiote, Tsivili]
 population: 11000

@@ -1,6 +1,8 @@
 ---
 iso: yar
 name: Yabarana
+name_zh: 亚巴拉纳语
+name_zh_auto: true
 autonym: Mapoyo–Yavarana
 alt_names: [Jabarana lingvo, Mapoyo-Yavarana, Yabaraneg, Yauarana, Yavarana, Yawarana]
 population: null

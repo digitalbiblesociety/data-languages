@@ -1,6 +1,8 @@
 ---
 iso: bwj
 name: Láá Láá Bwamu
+name_zh: 拉拉布瓦木语
+name_zh_auto: true
 autonym: Kàdenbà
 alt_names: ["Bwamu, Láá Láá", Laa Laa Bwamu, Yere]
 population: 69200

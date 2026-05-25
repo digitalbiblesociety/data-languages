@@ -1,6 +1,8 @@
 ---
 iso: vku
 name: Kurrama
+name_zh: 库拉玛语
+name_zh_auto: true
 autonym: Gurama
 alt_names: [Gurrama, "Jana:ri", Janari, Jardira, Jawunmara, Karama, Karima, Karlamay, Kerama, Korama, Korima, Kurama, Kurama-Jindjibandi, Lenga kurrama, Marntartka, Mijarranypa, Ngamangamara, Other Australian Indigenous Languages, Yarnarri, Yinyjiwarnti Kurrama]
 population: 10

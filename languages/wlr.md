@@ -1,6 +1,8 @@
 ---
 iso: wlr
 name: Wailapa
+name_zh: 瓦伊拉帕语
+name_zh_auto: true
 autonym: Ale
 alt_names: [Vanuatu]
 population: 100

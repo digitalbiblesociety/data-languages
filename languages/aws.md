@@ -1,6 +1,8 @@
 ---
 iso: aws
 name: South Awyu
+name_zh: 南阿维尤语
+name_zh_auto: true
 autonym: South Awyu
 alt_names: ["Awyu, South", Jenimu, Oser, Siagha, Siagha-Yenimu, Sjiagha, Syiagha, Syiagha-Yenimu, Yenimu]
 population: 9340

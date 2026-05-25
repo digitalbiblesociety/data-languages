@@ -1,6 +1,8 @@
 ---
 iso: wnm
 name: Wanggamala
+name_zh: 万加马拉语
+name_zh_auto: true
 autonym: "Wangka-Yutjurru"
 alt_names: [Tharlimanha, Wanggamanha, Wangkamadla, Wangkamala, Wangkamana, Wangkamanha, Wonggaman, Wonggawan, Wongkamala, Wonkamala, Wonkamudla]
 population: 2003

@@ -1,6 +1,8 @@
 ---
 iso: luf
 name: Laua
+name_zh: 劳亚语
+name_zh_auto: true
 autonym: Labu
 alt_names: [Lauwa]
 population: null

@@ -1,6 +1,8 @@
 ---
 iso: wsk
 name: Waskia
+name_zh: 瓦斯基亚语
+name_zh_auto: true
 autonym: null
 alt_names: [Vaskia, Woskia]
 population: 20000

@@ -1,6 +1,8 @@
 ---
 iso: mcd
 name: Sharanahua
+name_zh: 沙拉那瓦语
+name_zh_auto: true
 autonym: Yaminahua
 alt_names: [Marinahua, Mastanahua, Parquenahua, Sharanawa]
 population: 499

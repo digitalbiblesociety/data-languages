@@ -1,6 +1,8 @@
 ---
 iso: myh
 name: Makah
+name_zh: 玛卡语
+name_zh_auto: true
 autonym: qʷi·qʷi·diččaq
 alt_names: [Kwe-Nee-Chee-Aht, Kweedishchaaht, Macaw]
 population: 2224

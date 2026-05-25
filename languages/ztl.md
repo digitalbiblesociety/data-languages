@@ -1,6 +1,8 @@
 ---
 iso: ztl
 name: "Lapaguía-Guivini Zapotec"
+name_zh: 拉帕古亚-吉维尼萨波特克语
+name_zh_auto: true
 autonym: (Santiago Lapaguia)
 alt_names: [Lapaguia-Guivini Zapotec, Southern Sapoteko, Zapotec, "Zapotec, Lapaguía-Guivini", "Zapotec, Santiago Lapaguía", Zapoteco de Asunción Tlacolulita, Zapoteco de Santiago Lapaguía, "Zapotèque d'Asunción Tlacolulita"]
 population: 4200

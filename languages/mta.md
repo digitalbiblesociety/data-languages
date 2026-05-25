@@ -1,6 +1,8 @@
 ---
 iso: mta
 name: Cotabato Manobo
+name_zh: 科塔瓦托曼诺博语
+name_zh_auto: true
 autonym: "Manobo, Cotabato"
 alt_names: [Dulangan Manobo]
 population: 30000

@@ -1,6 +1,8 @@
 ---
 iso: alu
 name: "'Are'are"
+name_zh: 阿瑞亚瑞语
+name_zh_auto: true
 autonym: Areare
 alt_names: [Südliche Salomons-Inseln, ʻAreʻare, ’Are’are jezik]
 population: 17900

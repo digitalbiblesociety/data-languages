@@ -1,6 +1,8 @@
 ---
 iso: tux
 name: Tuxináwa
+name_zh: 图希纳瓦语
+name_zh_auto: true
 autonym: Tuchinaua
 alt_names: [Tushinawa, Tutxinawa, Tuxinaua, Tuxinawa]
 population: null

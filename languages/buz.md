@@ -1,6 +1,8 @@
 ---
 iso: buz
 name: Bukwen
+name_zh: 布克文语
+name_zh_auto: true
 autonym: Munkaf
 population: 1000
 country_id: NG

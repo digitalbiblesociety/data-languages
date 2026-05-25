@@ -1,6 +1,8 @@
 ---
 iso: lva
 name: "Maku'a"
+name_zh: 马库亚语
+name_zh_auto: true
 autonym: " Lóvaia"
 alt_names: [Lovaea, Lovaia]
 population: 1950

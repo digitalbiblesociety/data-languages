@@ -1,6 +1,8 @@
 ---
 iso: dax
 name: Dayi
+name_zh: 达依语
+name_zh_auto: true
 autonym: "Dhay'yi"
 alt_names: [Daii, Dalwango, Dalwongu, Darlwongo, "Dha'i", "Dha'yi", "Dha?i", Dhalwangu, Dhayyi, "Djarlwa:g", Djawark, Taii Tai]
 population: null

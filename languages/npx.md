@@ -1,6 +1,8 @@
 ---
 iso: npx
 name: Noipx
+name_zh: 诺伊普克斯语
+name_zh_auto: true
 autonym: null
 population: 5000
 country_id: SB

@@ -1,6 +1,8 @@
 ---
 iso: sbc
 name: Kele (Papua New Guinea)
+name_zh: 克莱语（巴布亚新几内亚）
+name_zh_auto: true
 autonym: "Gele'"
 alt_names: [Admiralitäts-inseln, Gele, Gele (Ere-Lele-Gele-Kuruti), Kele, Kele (in Papua New Guinea), Kele language]
 population: 600

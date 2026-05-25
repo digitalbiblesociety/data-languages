@@ -1,6 +1,8 @@
 ---
 iso: dno
 name: Ndrulo
+name_zh: 恩德鲁洛语
+name_zh_auto: true
 autonym: Northern Lendu
 alt_names: ["Lendu, Northern"]
 population: null

@@ -1,6 +1,8 @@
 ---
 iso: act
 name: Achterhoeks
+name_zh: 阿赫特霍克斯语
+name_zh_auto: true
 autonym: Achterhoek
 population: 211000
 country_id: NL

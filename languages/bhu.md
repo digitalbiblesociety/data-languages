@@ -1,6 +1,8 @@
 ---
 iso: bhu
 name: Bhunjia
+name_zh: 布门吉亚语
+name_zh_auto: true
 autonym: ହଲବୀ
 alt_names: [Bhumjiya, Bhunjiya, Bunija, Bunjia]
 population: 6790

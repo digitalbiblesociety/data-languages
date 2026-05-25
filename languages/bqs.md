@@ -1,6 +1,8 @@
 ---
 iso: bqs
 name: Bosngun
+name_zh: 博斯贡语
+name_zh_auto: true
 autonym: Bosngun
 alt_names: [Bosman, Bosmun]
 population: 1300

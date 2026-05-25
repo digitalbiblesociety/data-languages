@@ -1,6 +1,8 @@
 ---
 iso: goc
 name: Gorakor
+name_zh: 戈拉克语
+name_zh_auto: true
 autonym: null
 population: null
 country_id: PG

@@ -1,6 +1,8 @@
 ---
 iso: kkk
 name: Kokota
+name_zh: 科科塔语
+name_zh_auto: true
 autonym: Ooe Kokota
 population: 530
 country_id: SB

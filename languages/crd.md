@@ -1,6 +1,8 @@
 ---
 iso: crd
 name: "Coeur d'Alene"
+name_zh: 库尔德阿莱尼语
+name_zh_auto: true
 autonym: Snchitsu’umshtsn
 alt_names: [Coeur d’Alene, Cordaleno, "Cœur d'Alène", Skitswish, "Snchitsu'umshtsn", snčícuʔumšcn]
 population: 800

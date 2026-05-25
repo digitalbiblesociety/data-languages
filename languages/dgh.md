@@ -1,6 +1,8 @@
 ---
 iso: dgh
 name: Dghwede
+name_zh: 德格韦德语
+name_zh_auto: true
 autonym: Azaghvana
 alt_names: [Dehoxde, Dghwede jezik, Dgwede, Dgwedeg, Hude, Johode, Tghuade, Toghwede, Traude, Truade, "Wa'a", Zaghvana]
 population: 30000

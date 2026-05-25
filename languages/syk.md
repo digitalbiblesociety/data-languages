@@ -1,6 +1,8 @@
 ---
 iso: syk
 name: Sukur
+name_zh: 苏库尔语
+name_zh_auto: true
 autonym: Sakwun
 alt_names: [Adikimmu Sukur, Gemasakun, Sakul, Sakun, Sugur]
 population: 14800

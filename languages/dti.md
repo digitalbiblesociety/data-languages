@@ -1,6 +1,8 @@
 ---
 iso: dti
 name: Ana Tinga Dogon
+name_zh: 安那廷加多贡语
+name_zh_auto: true
 autonym: Ana Tiŋa
 alt_names: ["Dogon, Ana Tinga"]
 population: 500

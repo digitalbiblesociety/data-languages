@@ -1,6 +1,8 @@
 ---
 iso: bpe
 name: Bauni
+name_zh: 巴乌尼语
+name_zh_auto: true
 autonym: Warapu, Barupu
 alt_names: [Barupu, Barupu language, Varapú, Varofu, Warapoueg, Warapu, Warapu jezik, Waropu]
 population: 300

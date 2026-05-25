@@ -1,6 +1,8 @@
 ---
 iso: zpi
 name: Santa María Quiegolani Zapotec
+name_zh: 圣玛丽亚基埃戈拉尼萨波特克语
+name_zh_auto: true
 autonym: (Santa María Quiegolani)
 alt_names: [Quiegolani Zapotec, Santa Maria Quiegolani Zapotec, Sapoteko, Southern Sapoteko, Western Yautepec Zapotec, Zapotec, Zapotec (Quiegolani), "Zapotec, Santa María Quiegolani", Zapoteco (Santa Maria Quiegolani), Zapoteco de Asunción Tlacolulita, Zapoteco de Santa María Quiegolani, "Zapotèque d'Asunción Tlacolulita"]
 population: 3000

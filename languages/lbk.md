@@ -1,6 +1,8 @@
 ---
 iso: lbk
 name: Central Bontok
+name_zh: 中心博托克语
+name_zh_auto: true
 autonym: Finallig
 alt_names: ["Bontok, Central"]
 population: 19600

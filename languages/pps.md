@@ -1,6 +1,8 @@
 ---
 iso: pps
 name: San Luís Temalacayuca Popoloca
+name_zh: 圣路易斯特玛拉卡尤卡波波卡语
+name_zh_auto: true
 autonym: Popoloca de San Luis Temalacayuca
 alt_names: [Chocho-Popoloka, Popoloca, "Popoloca, San Luís Temalacayuca", San Luis Temalacayuca Popoloca]
 population: 4730

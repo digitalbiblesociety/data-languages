@@ -1,6 +1,8 @@
 ---
 iso: seg
 name: Segeju
+name_zh: 塞格朱语
+name_zh_auto: true
 autonym: Kisegeju
 alt_names: [Daiso, Sageju, Sengeju]
 population: 15000

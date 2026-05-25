@@ -1,6 +1,8 @@
 ---
 iso: zom
 name: Zou
+name_zh: 祖语
+name_zh_auto: true
 autonym: " Zomi"
 alt_names: [Jo, Kuki Chin, Zo, Zome, Zomeg, Zorni, ဇိုမီး]
 population: 87500

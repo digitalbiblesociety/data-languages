@@ -1,6 +1,8 @@
 ---
 iso: srk
 name: Serudung Murut
+name_zh: 塞鲁顿木鲁特语
+name_zh_auto: true
 autonym: Tidong
 alt_names: [Serudong, Tawau Murut, Tidung]
 population: 350

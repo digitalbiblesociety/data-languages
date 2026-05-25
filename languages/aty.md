@@ -1,6 +1,8 @@
 ---
 iso: aty
 name: Aneityum
+name_zh: 阿内蒂厄姆语
+name_zh_auto: true
 autonym: Aneiteum
 alt_names: [Aneiteumese, Aneityum jezik, Anejom, Anejom̃, Aneytum, Annatom]
 population: 900

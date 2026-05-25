@@ -1,6 +1,8 @@
 ---
 iso: nlz
 name: Nalögo
+name_zh: 纳洛戈语
+name_zh_auto: true
 autonym: Natügu
 alt_names: [Nalogo, Nalrgo, Nea, Santa Cruz, South-Western Santa Cruz, Southern Santa Cruz]
 population: 1500

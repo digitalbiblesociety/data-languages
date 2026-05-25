@@ -1,6 +1,8 @@
 ---
 iso: pie
 name: Piro
+name_zh: 皮罗语
+name_zh_auto: true
 autonym: null
 alt_names: [Senecu, Tompiro]
 population: null

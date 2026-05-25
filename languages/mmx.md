@@ -1,6 +1,8 @@
 ---
 iso: mmx
 name: Madak
+name_zh: 玛达克语
+name_zh_auto: true
 autonym: null
 alt_names: [Lelet, Mandak, Neu-Mecklenburg]
 population: 3000

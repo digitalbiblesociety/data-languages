@@ -1,6 +1,8 @@
 ---
 iso: urv
 name: Uruava
+name_zh: 乌鲁瓦语
+name_zh_auto: true
 autonym: null
 alt_names: [Uruava language]
 population: null

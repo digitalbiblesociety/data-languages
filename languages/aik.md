@@ -1,6 +1,8 @@
 ---
 iso: aik
 name: Ake
+name_zh: 阿克语
+name_zh_auto: true
 autonym: Aike
 alt_names: [Akye]
 population: 3000

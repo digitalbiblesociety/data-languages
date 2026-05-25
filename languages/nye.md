@@ -1,6 +1,8 @@
 ---
 iso: nye
 name: Nyengo
+name_zh: 尼恩戈语
+name_zh_auto: true
 autonym: Nhengo
 population: 9380
 country_id: AO
