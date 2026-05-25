@@ -1,0 +1,38 @@
+---
+iso: nsm
+name: Sumi Naga
+autonym: Sümi (Naga)
+population: 10800
+country_id: IN
+country_name: India
+status_id: "4"
+latitude: 25.99964
+longitude: 94.42351
+glottocode: sumi1235
+glottolog_family_id: sino1245
+glottolog_family_name: Sino-Tibetan
+glottolog_classification: "Sino-Tibetan > Kuki-Chin-Naga > Angami-Ao > Angami-Pochuri > Rengma-Simi > Sumi Naga"
+wikipedia_url: "https://en.wikipedia.org/wiki/S%C3%BCmi_language"
+rolv_dialects:
+  - rolv_code: 868
+    language_tag: nsm-x-HIS00868
+    name: Dhyang
+    country_id: IN
+    location: "India, Assam"
+  - rolv_code: 14585
+    language_tag: nsm-x-HIS14585
+    name: "Naga, Sumi: Lazemi"
+    country_id: IN
+    location: "India, Nagaland"
+  - rolv_code: 14586
+    language_tag: nsm-x-HIS14586
+    name: "Naga, Sumi: Zhimomi"
+    country_id: IN
+    location: "India, Nagaland"
+  - rolv_code: 14587
+    language_tag: nsm-x-HIS14587
+    name: "Naga, Sumi: Zumomi"
+    country_id: IN
+    location: "India, Nagaland"
+---
+Sümi, also Sema, is a Sino-Tibetan language spoken in Nagaland, India. It is spoken by the Sümi Naga people. It differs from every other Naga languages due to the presence of guttural sounds.

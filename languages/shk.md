@@ -1,0 +1,17 @@
+---
+iso: shk
+name: Shilluk
+autonym: Dhøg Cøllø
+population: 574000
+country_id: SS
+country_name: South Sudan
+status_id: "4"
+latitude: 9.85472
+longitude: 31.79263
+glottocode: shil1265
+glottolog_family_id: nilo1247
+glottolog_family_name: Nilotic
+glottolog_classification: "Nilotic > Western Nilotic > Lwoo > Northern Lwoo > Shilluk"
+wikipedia_url: "https://en.wikipedia.org/wiki/Shilluk_language"
+---
+Shilluk is a language spoken by the Shilluk people of South Sudan. It is closely related to other Luo languages. The term Shilluk is a pronunciation of Arabic origin.

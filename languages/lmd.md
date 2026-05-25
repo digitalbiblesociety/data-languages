@@ -1,0 +1,17 @@
+---
+iso: lmd
+name: Lumun
+autonym: "Kuku-Lumun"
+population: 20000
+country_id: SD
+country_name: Sudan
+status_id: "4"
+latitude: 10.83084
+longitude: 30.25298
+glottocode: lumu1239
+glottolog_family_id: narr1279
+glottolog_family_name: Narrow Talodi
+glottolog_classification: "Narrow Talodi > Lumun-Torona > Lumun"
+wikipedia_url: "https://en.wikipedia.org/wiki/Lumun_language"
+---
+Lumun (Lomon), also Kuku-Lumun, is a Niger–Congo language in the Talodi family spoken in the Nuba Mountains, Sudan.

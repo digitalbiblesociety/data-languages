@@ -1,0 +1,28 @@
+---
+iso: beo
+name: Beami
+autonym: Bedamini
+population: 5000
+country_id: PG
+country_name: Papua New Guinea
+status_id: "5"
+latitude: -6.14949
+longitude: 142.50775
+glottocode: beam1240
+glottolog_family_id: bosa1245
+glottolog_family_name: Bosavi
+glottolog_classification: "Bosavi > Etoro-Bedamini > Beami"
+wikipedia_url: "https://en.wikipedia.org/wiki/Beami_language"
+rolv_dialects:
+  - rolv_code: 7899
+    language_tag: beo-x-HIS07899
+    name: "Beami: Komofio"
+    country_id: PG
+    location: "Papua New Guinea, Western"
+  - rolv_code: 7900
+    language_tag: beo-x-HIS07900
+    name: "Beami: North Beami"
+    country_id: PG
+    location: "Papua New Guinea, Western"
+---
+Beami is a Papuan language of Papua New Guinea. Komofio is a dialect.

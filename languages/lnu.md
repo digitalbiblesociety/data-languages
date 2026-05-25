@@ -1,0 +1,43 @@
+---
+iso: lnu
+name: Longuda
+autonym: Nyà Núngúrá
+population: 99000
+country_id: NG
+country_name: Nigeria
+status_id: 6a
+latitude: 9.75787
+longitude: 11.83779
+glottocode: long1389
+glottolog_family_id: atla1278
+glottolog_family_name: Atlantic-Congo
+glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Gur > Central Gur > Tula-Longuda > Longuda"
+wikipedia_url: "https://en.wikipedia.org/wiki/Longuda_language"
+rolv_dialects:
+  - rolv_code: 2643
+    language_tag: lnu-x-HIS02643
+    name: "Longuda: Nyuwar"
+    country_id: NG
+    location: "Nigeria, Adamawa"
+  - rolv_code: 2644
+    language_tag: lnu-x-HIS02644
+    name: "Longuda: Jessu"
+    country_id: NG
+    location: "Nigeria, Adamawa"
+  - rolv_code: 6324
+    language_tag: lnu-x-HIS06324
+    name: "Longuda: Guyuk"
+    country_id: NG
+    location: "Nigeria, Adamawa"
+  - rolv_code: 13079
+    language_tag: lnu-x-HIS13079
+    name: "Longuda: Nya Ceriya"
+    country_id: NG
+    location: "Nigeria, Adamawa"
+  - rolv_code: 13080
+    language_tag: lnu-x-HIS13080
+    name: "Longuda: Nya Tariya"
+    country_id: NG
+    location: "Nigeria, Adamawa"
+---
+Lunguda (Nʋngʋra) is a Niger–Congo language spoken in Nigeria. They settle in the western part of Gongola mainly in and around the hills of the volcanic Lunguda Plateau, Adamawa state. Joseph Greenberg counted it as a distinct branch, G10, within the Adamawa family. When Blench (2008) broke up Adamawa, Lunguda was made a branch of the Bambukic languages.

@@ -1,0 +1,23 @@
+---
+iso: ahg
+name: Qimant
+autonym: Kemantney
+population: 1650
+country_id: ET
+country_name: Ethiopia
+status_id: 6a
+latitude: 12.81193
+longitude: 37.05424
+glottocode: qima1242
+glottolog_family_id: afro1255
+glottolog_family_name: Afro-Asiatic
+glottolog_classification: "Afro-Asiatic > Cushitic > Agaw > Northern-Eastern-Western Agaw > Qimant"
+wikipedia_url: "https://en.wikipedia.org/wiki/Qimant_language"
+rolv_dialects:
+  - rolv_code: 6725
+    language_tag: ahg-x-HIS06725
+    name: "Qimant: Kayla"
+    country_id: ET
+    location: Ethiopia
+---
+The Qimant language is a highly endangered language spoken by a small and elderly fraction of the Qemant people in northern Ethiopia, mainly in the Chilga woreda in Semien Gondar Zone between Gondar and Metemma.

@@ -1,0 +1,23 @@
+---
+iso: dsn
+name: Dusner
+autonym: Dusnir
+population: null
+country_id: ID
+country_name: Indonesia
+status_id: "9"
+latitude: -2.73859
+longitude: 134.39057
+glottocode: dusn1237
+glottolog_family_id: aust1307
+glottolog_family_name: Austronesian
+glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > South Halmahera-West New Guinea > Cenderawasih Bay > Biakic > Dusner"
+wikipedia_url: "https://en.wikipedia.org/wiki/Dusner_language"
+rolv_dialects:
+  - rolv_code: 1257
+    language_tag: dsn-x-HIS01257
+    name: Dusnir
+    country_id: ID
+    location: "Indonesia, Papua Barat"
+---
+Dusner is a language spoken in the village of Dusner in the province of West Papua, Indonesia. Dusner is highly endangered, and has been reported to have just three remaining speakers.

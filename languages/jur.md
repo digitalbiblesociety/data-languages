@@ -1,0 +1,17 @@
+---
+iso: jur
+name: Jurúna
+autonym: Iuruna
+population: 278
+country_id: BR
+country_name: Brazil
+status_id: 6a
+latitude: -10.93541
+longitude: -53.34717
+glottocode: juru1256
+glottolog_family_id: tupi1275
+glottolog_family_name: Tupian
+glottolog_classification: "Tupian > Eastern Tupian > Jurunic > Yudja"
+wikipedia_url: "https://en.wikipedia.org/wiki/Juruna_language"
+---
+The Juruna language, also known as Yudjá, is spoken in Brazil. It is spoken in the Xingu Indigenous Park of Mato Grosso state. In 2001 there were 278 native speakers. It is the last survivor of the Yuruna languages.

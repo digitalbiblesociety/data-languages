@@ -1,0 +1,38 @@
+---
+iso: aup
+name: Makayam
+autonym: Tirio
+population: 1300
+country_id: PG
+country_name: Papua New Guinea
+status_id: 6a
+latitude: -8.37312
+longitude: 142.70555
+glottocode: maka1315
+glottolog_family_id: anim1240
+glottolog_family_name: Anim
+glottolog_classification: "Anim > Tirio > Nuclear Tirio > Makayam"
+wikipedia_url: "https://en.wikipedia.org/wiki/Makayam_language"
+rolv_dialects:
+  - rolv_code: 540
+    language_tag: aup-x-HIS00540
+    name: Weridai
+    country_id: PG
+    location: "Papua New Guinea, Western"
+  - rolv_code: 543
+    language_tag: aup-x-HIS00543
+    name: Mataru
+    country_id: PG
+    location: "Papua New Guinea, Madang"
+  - rolv_code: 3932
+    language_tag: aup-x-HIS03932
+    name: Dudi
+    country_id: PG
+    location: "Papua New Guinea, Western"
+  - rolv_code: 24296
+    language_tag: aup-x-HIS24296
+    name: "Makayam: Giribam"
+    country_id: PG
+    location: "Papua New Guinea, Western"
+---
+Tirio is Papuan language of Western Province, Papua New Guinea. The Giribam 'dialect' may be a distinct language.

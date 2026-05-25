@@ -1,0 +1,23 @@
+---
+iso: cml
+name: Campalagian
+autonym: Tallumpanuae
+population: 2830
+country_id: ID
+country_name: Indonesia
+status_id: 6a
+latitude: -3.45795
+longitude: 119.18235
+glottocode: camp1262
+glottolog_family_id: aust1307
+glottolog_family_name: Austronesian
+glottolog_classification: "Austronesian > Malayo-Polynesian > Greater South Sulawesi > South Sulawesi > Tamanic-Bugis > Bugis > Campalagian"
+wikipedia_url: "https://en.wikipedia.org/wiki/Campalagian_language"
+rolv_dialects:
+  - rolv_code: 8626
+    language_tag: cml-x-HIS08626
+    name: "Koneq-Koneq: Campalagian"
+    country_id: ID
+    location: "Indonesia, Sulawesi Barat (West)"
+---
+Campalagian (Koneq-Koneq'e) is an Austronesian language spoken in West Sulawesi, Indonesia. It is closely related to Bugis.

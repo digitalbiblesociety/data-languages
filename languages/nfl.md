@@ -1,0 +1,28 @@
+---
+iso: nfl
+name: Ayiwo
+autonym: Reef
+population: 8400
+country_id: SB
+country_name: Solomon Islands
+status_id: 6a
+latitude: -10.23022
+longitude: 166.21038
+glottocode: ayiw1239
+glottolog_family_id: aust1307
+glottolog_family_name: Austronesian
+glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Temotu > Reefs-Santa Cruz > Äiwoo"
+wikipedia_url: "https://en.wikipedia.org/wiki/%C3%84iwoo_language"
+rolv_dialects:
+  - rolv_code: 3652
+    language_tag: nfl-x-HIS03652
+    name: Nieuwa
+    country_id: SB
+    location: "Solomon Islands, Temotu"
+  - rolv_code: 3653
+    language_tag: nfl-x-HIS03653
+    name: Nonivia
+    country_id: SB
+    location: "Solomon Islands, Temotu, Santa Cruz Islands"
+---
+Äiwoo is an Oceanic language spoken on the Santa Cruz Islands and the Reef Islands in the Temotu Province of the Solomon Islands.

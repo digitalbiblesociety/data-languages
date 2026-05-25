@@ -1,0 +1,48 @@
+---
+iso: tsz
+name: Purepecha
+autonym: Tarascan
+population: 55000
+country_id: MX
+country_name: Mexico
+status_id: "5"
+latitude: 19.24665
+longitude: -101.6314
+glottocode: pure1242
+glottolog_family_id: tara1323
+glottolog_family_name: Tarascan
+glottolog_classification: "Tarascan > Purepecha"
+wikipedia_url: "https://en.wikipedia.org/wiki/Pur%C3%A9pecha_language"
+rolv_dialects:
+  - rolv_code: 25402
+    language_tag: tsz-x-HIS25402
+    name: "Purepecha: Cienega de Zacapu"
+    country_id: MX
+    location: "Mexico, Michoacan"
+  - rolv_code: 25403
+    language_tag: tsz-x-HIS25403
+    name: "Purepecha: Cuanajo"
+    country_id: MX
+    location: "Mexico, Michoacan"
+  - rolv_code: 25404
+    language_tag: tsz-x-HIS25404
+    name: "Purepecha: Ihuatzio"
+    country_id: MX
+    location: "Mexico, Michoacan"
+  - rolv_code: 25406
+    language_tag: tsz-x-HIS25406
+    name: "Purepecha: Puacuaro"
+    country_id: MX
+    location: "Mexico, Michoacan"
+  - rolv_code: 25407
+    language_tag: tsz-x-HIS25407
+    name: "Purepecha: San Jeronimo"
+    country_id: MX
+    location: "Mexico, Michoacan"
+  - rolv_code: 26059
+    language_tag: tsz-x-HIS26059
+    name: "Purepecha: Isla Janitzio"
+    country_id: MX
+    location: "Mexico, Michoacan"
+---
+Purépecha, often called Tarascan, a term coined by Spanish settlers that can be seen as pejorative to some, is a language isolate or small language family that is spoken by some 140,000 Purépecha in the highlands of Michoacán, Mexico.

@@ -1,0 +1,36 @@
+---
+iso: dts
+name: Toro So Dogon
+autonym: Bomu Tegu
+population: 50000
+country_id: ML
+country_name: Mali
+status_id: "4"
+latitude: 14.40749
+longitude: -3.10006
+glottocode: toro1252
+glottolog_family_id: dogo1299
+glottolog_family_name: Dogon
+glottolog_classification: "Dogon > Escarpment Dogon > Toro So Dogon"
+rolv_dialects:
+  - rolv_code: 24866
+    language_tag: dts-x-HIS24866
+    name: "Dogon, Toro So: Ibi"
+    country_id: ML
+    location: Mali
+  - rolv_code: 24867
+    language_tag: dts-x-HIS24867
+    name: "Dogon, Toro So: Ireli"
+    country_id: ML
+    location: Mali
+  - rolv_code: 24869
+    language_tag: dts-x-HIS24869
+    name: "Dogon, Toro So: Yorno"
+    country_id: ML
+    location: Mali
+  - rolv_code: 24870
+    language_tag: dts-x-HIS24870
+    name: "Dogon, Toro So: Youga"
+    country_id: ML
+    location: Mali
+---

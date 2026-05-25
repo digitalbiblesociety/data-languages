@@ -1,0 +1,43 @@
+---
+iso: kpq
+name: "Korupun-Sela"
+autonym: Sela
+population: 8000
+country_id: ID
+country_name: Indonesia
+status_id: "5"
+latitude: -4.53497
+longitude: 139.67832
+glottocode: koru1245
+glottolog_family_id: nucl1709
+glottolog_family_name: Nuclear Trans New Guinea
+glottolog_classification: "Nuclear Trans New Guinea > Mek > Western Mek > Korupun-Sela"
+wikipedia_url: "https://en.wikipedia.org/wiki/Korupun_language"
+rolv_dialects:
+  - rolv_code: 12292
+    language_tag: kpq-x-HIS12292
+    name: "Korupun-Sela: Dagi"
+    country_id: ID
+    location: "Indonesia, Papua"
+  - rolv_code: 12293
+    language_tag: kpq-x-HIS12293
+    name: "Korupun-Sela: Deibula"
+    country_id: ID
+    location: "Indonesia, Papua"
+  - rolv_code: 12294
+    language_tag: kpq-x-HIS12294
+    name: "Korupun-Sela: Korupun"
+    country_id: ID
+    location: "Indonesia, Papua"
+  - rolv_code: 12295
+    language_tag: kpq-x-HIS12295
+    name: "Korupun-Sela: Sela"
+    country_id: ID
+    location: "Indonesia, Papua"
+  - rolv_code: 12296
+    language_tag: kpq-x-HIS12296
+    name: "Korupun-Sela: Sisibna"
+    country_id: ID
+    location: "Indonesia, Papua"
+---
+Korupun (Korapun) is a Papuan language spoken in Yahukimo Regency, Highland Papua. Dialects are Korupun (Duram), Dagi, Sisibna (Gobugdua), Deibula, (Western) Sela. It is also known as Kimyal of Korupun; Kimyal is another name for Nalca. Indonesian Kemendikbud classified the former as Mek Nalca, while Korupun-Sela is classified as Kimyal.

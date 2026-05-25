@@ -1,0 +1,17 @@
+---
+iso: rrt
+name: Arritinngithigh
+autonym: null
+population: null
+country_id: AU
+country_name: Australia
+status_id: null
+latitude: -12.96
+longitude: 141.95
+glottocode: arit1239
+glottolog_family_id: pama1250
+glottolog_family_name: Pama-Nyungan
+glottolog_classification: "Pama-Nyungan > Paman > Northern Pama > Arritinngithigh"
+wikipedia_url: "https://en.wikipedia.org/wiki/Arritinngithigh_language"
+---
+Aritinngithigh is an Australian Aboriginal language once spoken in Cape York in Queensland.

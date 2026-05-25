@@ -1,0 +1,17 @@
+---
+iso: acx
+name: Omani Arabic
+autonym: اللهجة العمانية
+population: 2851200
+country_id: OM
+country_name: Oman
+status_id: "5"
+latitude: 23.25
+longitude: 58.5
+glottocode: oman1239
+glottolog_family_id: afro1255
+glottolog_family_name: Afro-Asiatic
+glottolog_classification: "Afro-Asiatic > Semitic > West Semitic > Central Semitic > Arabian > Arabic > Arabian Peninsula Arabic > North Arabian Beduin Arabic > Omani Arabic"
+wikipedia_url: "https://en.wikipedia.org/wiki/Omani_Arabic"
+---
+Omani Arabic is a variety of Arabic spoken in the Al Hajar Mountains of Oman and the UAE and in a few neighboring coastal regions. It is the easternmost traditional Arabic dialect. It was formerly spoken by colonists in Kenya and Tanzania, but these days, it mainly remains spoken on the island of Zanzibar.

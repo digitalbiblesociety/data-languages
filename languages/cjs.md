@@ -1,0 +1,29 @@
+---
+iso: cjs
+name: Shor
+autonym: Шор тили
+population: 6210
+country_id: RU
+country_name: Russia
+status_id: 6b
+latitude: 52.32607
+longitude: 88.4344
+scripts: [Cyrl]
+glottocode: shor1247
+glottolog_family_id: turk1311
+glottolog_family_name: Turkic
+glottolog_classification: "Turkic > Common Turkic > South Siberian Turkic > Sayan-Yenisei Turkic > Yenisey Turkic > Mrassu Shor-Tutal"
+wikipedia_url: "https://en.wikipedia.org/wiki/Shor_language"
+rolv_dialects:
+  - rolv_code: 16641
+    language_tag: cjs-x-HIS16641
+    name: "Shor: Kondoma"
+    country_id: RU
+    location: Russia
+  - rolv_code: 16642
+    language_tag: cjs-x-HIS16642
+    name: "Shor: Mrassa"
+    country_id: RU
+    location: Russia
+---
+Shor, or Kuznets Tatar, is a critically endangered Turkic language spoken by about 2,800 people in a region called Mountain Shoriya, in Kemerovo Oblast in Southwest Siberia, although the entire Shor population in this area is over 12,000 people. Presently, not all ethnic Shors speak Shor and the language suffered a decline from the late 1930s to the early 1980s. During this period the Shor language was neither written nor taught in schools. However, since the 1980s and 1990s there has been a Shor language revival. The language is now taught at the Novokuznetsk branch of the Kemerovo State University.

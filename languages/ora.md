@@ -1,0 +1,17 @@
+---
+iso: ora
+name: Oroha
+autonym: "Mara Ma-Siki"
+population: 38
+country_id: SB
+country_name: Solomon Islands
+status_id: "7"
+latitude: -9.7386
+longitude: 161.51281
+glottocode: oroh1237
+glottolog_family_id: aust1307
+glottolog_family_name: Austronesian
+glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Southeast Solomonic > Longgu-Malaita-Makira > Malaita-Makira > Malaita > Southern Malaita > Oroha"
+wikipedia_url: "https://en.wikipedia.org/wiki/Oroha_language"
+---
+Oroha, categorized as an Austronesian language, is one of many languages spoken by Melanesian people in the Solomon Islands. It is also known as Maramasike, Mara Ma-Siki, Oraha, and Oloha, and is used primarily in the southern part of Malaita Island within the Malaita Province. Little Mala is composed of three indigenous languages of the 'Tolo' people which are Na’oni, Pau, and Oroha. They are all slightly different, yet come from the same origin. The three languages may be thought of as different dialects of the same language. The three Tolo villages now harbor schools under the Melanesian Mission.

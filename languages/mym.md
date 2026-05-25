@@ -1,0 +1,33 @@
+---
+iso: mym
+name: "Me'en"
+autonym: Mɛʼɛn
+population: 151000
+country_id: ET
+country_name: Ethiopia
+status_id: "4"
+latitude: 6.63207
+longitude: 35.62555
+glottocode: meen1242
+glottolog_family_id: surm1244
+glottolog_family_name: Surmic
+glottolog_classification: "Surmic > South Surmic > Southeast Surmic > Pastoral Surmic > Me'en"
+wikipedia_url: "https://en.wikipedia.org/wiki/Me%CA%BCen_language"
+rolv_dialects:
+  - rolv_code: 13954
+    language_tag: mym-x-HIS13954
+    name: "Meen: Bodi"
+    country_id: ET
+    location: Ethiopia
+  - rolv_code: 26726
+    language_tag: mym-x-HIS26726
+    name: "Me'en: Banio"
+    country_id: ET
+    location: Ethiopia
+  - rolv_code: 26727
+    language_tag: mym-x-HIS26727
+    name: "Me'en: Koruwo"
+    country_id: ET
+    location: Ethiopia
+---
+Meʼen is a Nilo-Saharan language spoken in Ethiopia by the Meʼen people. In recent years, it has been written with the Geʽez alphabet, but in 2007 a decision was made to use the Latin alphabet. Dialects include Bodi (Podi) and Tishena.

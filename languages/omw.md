@@ -1,0 +1,46 @@
+---
+iso: omw
+name: South Tairora
+autonym: Omwunra Toqura (Aatasara)
+population: 8000
+country_id: PG
+country_name: Papua New Guinea
+status_id: "5"
+latitude: -6.35337
+longitude: 145.88287
+glottocode: sout2943
+glottolog_family_id: nucl1709
+glottolog_family_name: Nuclear Trans New Guinea
+glottolog_classification: "Nuclear Trans New Guinea > Kainantu-Goroka > Kainantu > Tairora > South Tairora"
+rolv_dialects:
+  - rolv_code: 17072
+    language_tag: omw-x-HIS17072
+    name: "Tairora, South: Vaira-Ntosara"
+    country_id: PG
+    location: "Papua New Guinea, Eastern Highlands"
+  - rolv_code: 20104
+    language_tag: omw-x-HIS20104
+    name: "Tairora, South: Veqaura"
+    country_id: PG
+    location: "Papua New Guinea, Eastern Highlands"
+  - rolv_code: 20105
+    language_tag: omw-x-HIS20105
+    name: "Tairora, South: Vinata-Konkompira"
+    country_id: PG
+    location: "Papua New Guinea, Eastern Highlands"
+  - rolv_code: 20113
+    language_tag: omw-x-HIS20113
+    name: "Tairora, South: Omwunra-Toqura"
+    country_id: PG
+    location: "Papua New Guinea, Eastern Highlands"
+  - rolv_code: 25320
+    language_tag: omw-x-HIS25320
+    name: "Tairora, South: Aatasaara"
+    country_id: PG
+    location: "Papua New Guinea, Eastern Highlands"
+  - rolv_code: 25321
+    language_tag: omw-x-HIS25321
+    name: "Tairora, South: Haaviqinra-Oraura"
+    country_id: PG
+    location: "Papua New Guinea, Eastern Highlands"
+---

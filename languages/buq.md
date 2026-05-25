@@ -1,0 +1,23 @@
+---
+iso: buq
+name: Brem
+autonym: Kambuar
+population: 1190
+country_id: PG
+country_name: Papua New Guinea
+status_id: 6a
+latitude: -4.67372
+longitude: 145.56213
+glottocode: brem1238
+glottolog_family_id: nucl1709
+glottolog_family_name: Nuclear Trans New Guinea
+glottolog_classification: "Nuclear Trans New Guinea > Madang > Croisilles > Greater Northern Adelbert > Northern Adelbert > Manep-Barem > Barem"
+wikipedia_url: "https://en.wikipedia.org/wiki/Barem_language"
+rolv_dialects:
+  - rolv_code: 30355
+    language_tag: buq-x-HIS30355
+    name: "Brem: Gabag"
+    country_id: PG
+    location: "Papua New Guinea, Madang"
+---
+Barem (Brem), also known as Bunabun, is a Papuan language of Sumgilbar Rural LLG, Madang Province, Papua New Guinea.

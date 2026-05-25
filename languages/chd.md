@@ -1,0 +1,17 @@
+---
+iso: chd
+name: Highland Oaxaca Chontal
+autonym: Slijuala xanuk
+population: 3600
+country_id: MX
+country_name: Mexico
+status_id: 6b
+latitude: 16.18489
+longitude: -95.73011
+glottocode: high1242
+glottolog_family_id: tequ1244
+glottolog_family_name: Tequistlatecan
+glottolog_classification: "Tequistlatecan > Highland Oaxaca Chontal"
+wikipedia_url: "https://en.wikipedia.org/wiki/Highland_Oaxaca_Chontal"
+---
+Highland Oaxaca Chontal, or Chontal de la Sierra de Oaxaca, is one of the Chontal languages of Oaxaca, Mexico. It is sometimes called Tequistlatec, but is not the same as Tequistlatec proper, which is extinct.

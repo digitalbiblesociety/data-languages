@@ -1,0 +1,29 @@
+---
+iso: hil
+name: Hiligaynon
+autonym: Ilonggo
+population: 6246880
+country_id: PH
+country_name: Philippines
+status_id: "3"
+latitude: 10.40179
+longitude: 122.97428
+scripts: [Latn]
+glottocode: hili1240
+glottolog_family_id: aust1307
+glottolog_family_name: Austronesian
+glottolog_classification: "Austronesian > Malayo-Polynesian > Greater Central Philippine > Central Philippine > Bisayan > Central Bisayan > Peripheral Central Bisayan > Capiznon-Ilonggo-Kawayan > Hiligaynon"
+wikipedia_url: "https://en.wikipedia.org/wiki/Hiligaynon_language"
+rolv_dialects:
+  - rolv_code: 10631
+    language_tag: hil-x-HIS10631
+    name: "Hiligaynon: Kawayan"
+    country_id: PH
+    location: "Philippines, Mindanao"
+  - rolv_code: 26107
+    language_tag: hil-x-HIS26107
+    name: "Hiligaynon: Kari"
+    country_id: PH
+    location: "Philippines, Mindanao"
+---
+Hiligaynon, also often referred to as Ilonggo or Binisayâ/Bisayâ nga Hiniligaynon/Inilonggo, is an Austronesian regional language spoken in the Philippines by about 9.1 million people, predominantly in Panay Island, Negros Occidental, and Soccsksargen, most of whom belong to the Hiligaynon people. It is the second-most widely spoken language in the Visayas and belongs to the Bisayan languages. It is more distantly related to other Philippine languages.

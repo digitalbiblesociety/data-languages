@@ -1,0 +1,23 @@
+---
+iso: kwt
+name: Kwesten
+autonym: bahasa Kwesten
+population: 2000
+country_id: ID
+country_name: Indonesia
+status_id: "7"
+latitude: -2.03622
+longitude: 138.85315
+glottocode: kwes1245
+glottolog_family_id: toro1256
+glottolog_family_name: Tor-Orya
+glottolog_classification: "Tor-Orya > Tor > Kwesten"
+wikipedia_url: "https://en.wikipedia.org/wiki/Kwesten_language"
+rolv_dialects:
+  - rolv_code: 1244
+    language_tag: kwt-x-HIS01244
+    name: "Aujefor & Mafena Mur"
+    country_id: ID
+    location: "Indonesia, Papua"
+---
+Kwesten is a Papuan language of Indonesia.

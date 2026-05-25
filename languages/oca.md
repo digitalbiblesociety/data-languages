@@ -1,0 +1,28 @@
+---
+iso: oca
+name: Ocaina
+autonym: "Xáfahxajoh'"
+population: 190
+country_id: PE
+country_name: Peru
+status_id: 8a
+latitude: -2.159
+longitude: -72.14215
+glottocode: ocai1244
+glottolog_family_id: huit1251
+glottolog_family_name: Huitotoan
+glottolog_classification: "Huitotoan > Nonuya-Ocaina > Ocaina"
+wikipedia_url: "https://en.wikipedia.org/wiki/Ocaina_language"
+rolv_dialects:
+  - rolv_code: 15227
+    language_tag: oca-x-HIS15227
+    name: "Ocaina: Dukaiya"
+    country_id: PE
+    location: Peru
+  - rolv_code: 15228
+    language_tag: oca-x-HIS15228
+    name: "Ocaina: Ibo'tsa"
+    country_id: PE
+    location: Peru
+---
+Ocaina is an indigenous American language spoken in western South America.

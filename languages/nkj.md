@@ -1,0 +1,17 @@
+---
+iso: nkj
+name: Nakai
+autonym: "Na'ai"
+population: 700
+country_id: ID
+country_name: Indonesia
+status_id: 6a
+latitude: -5.19377
+longitude: 140.51225
+glottocode: naka1265
+glottolog_family_id: nucl1709
+glottolog_family_name: Nuclear Trans New Guinea
+glottolog_classification: "Nuclear Trans New Guinea > Asmat-Awyu-Ok > Awyu-Ok > Ok-Oksapmin > Ok > Tangko-Nakai > Nakai"
+wikipedia_url: "https://en.wikipedia.org/wiki/Nakai_language"
+---
+Nakai [na'ʁaj] is an Ok language of Highland Papua. Two of the three dialects, which pronounce the ethnonym Nagi, may be a distinct language.

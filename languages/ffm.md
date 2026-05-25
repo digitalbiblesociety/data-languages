@@ -1,0 +1,29 @@
+---
+iso: ffm
+name: Maasina Fulfulde
+autonym: Maasinankoore
+population: 1523240
+country_id: ML
+country_name: Mali
+status_id: "4"
+latitude: 11.132407
+longitude: -3.647633
+scripts: [Latn]
+glottocode: maas1239
+glottolog_family_id: atla1278
+glottolog_family_name: Atlantic-Congo
+glottolog_classification: "Atlantic-Congo > North-Central Atlantic > Fula-Sereer > Fula > Maasina Fulfulde"
+wikipedia_url: "https://en.wikipedia.org/wiki/Maasina_Fulfulde"
+rolv_dialects:
+  - rolv_code: 9928
+    language_tag: ffm-x-HIS09928
+    name: "Fulfude, Maasina: Eastern"
+    country_id: ML
+    location: Mali
+  - rolv_code: 9929
+    language_tag: ffm-x-HIS09929
+    name: "Fulfude, Maasina: Western"
+    country_id: ML
+    location: Mali
+---
+Maasina Fulfulde is a variety of the Fula language. It is spoken mainly in Mali, Ivory Coast, and Ghana by 4.6 million people. The language has several mutually intelligible dialects albeit with some differences. The variety is named after the Macina region in Mali.

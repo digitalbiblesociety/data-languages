@@ -1,0 +1,31 @@
+---
+iso: ghe
+name: Southern Ghale
+autonym: Galle Gurung
+population: 2000
+country_id: NP
+country_name: Nepal
+status_id: 6a
+latitude: 28.10603
+longitude: 84.85113
+glottocode: sout2715
+glottolog_family_id: sino1245
+glottolog_family_name: Sino-Tibetan
+glottolog_classification: "Sino-Tibetan > Bodic > Kaike-Ghale-Tamangic > Ghale-Tamangic > Ghale > Nuclear Ghale > Southern Ghale"
+rolv_dialects:
+  - rolv_code: 10201
+    language_tag: ghe-x-HIS10201
+    name: "Ghale, Southern: Barpak"
+    country_id: NP
+    location: Nepal
+  - rolv_code: 10202
+    language_tag: ghe-x-HIS10202
+    name: "Ghale, Southern: Kyaura"
+    country_id: NP
+    location: Nepal
+  - rolv_code: 10203
+    language_tag: ghe-x-HIS10203
+    name: "Ghale, Southern: Laprak"
+    country_id: NP
+    location: Nepal
+---

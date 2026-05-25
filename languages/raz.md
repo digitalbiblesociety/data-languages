@@ -1,0 +1,17 @@
+---
+iso: raz
+name: Rahambuu
+autonym: Lellewao
+population: 5000
+country_id: ID
+country_name: Indonesia
+status_id: 6b
+latitude: -3.24627
+longitude: 121.0587
+glottocode: raha1237
+glottolog_family_id: aust1307
+glottolog_family_name: Austronesian
+glottolog_classification: "Austronesian > Malayo-Polynesian > Celebic > Greater Eastern Celebic > Eastern Celebic > Southeastern Celebic > Bungku-Tolaki > Western Bungku-Tolaki > West Coast Bungku-Tolaki > Rahambuu"
+wikipedia_url: "https://en.wikipedia.org/wiki/Rahambuu_language"
+---
+Rahambuu is an Austronesian language of Southeast Sulawesi, Indonesia.

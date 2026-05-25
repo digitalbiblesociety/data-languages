@@ -1,0 +1,18 @@
+---
+iso: wls
+name: Wallisian
+autonym: Faka
+population: 25040
+country_id: WF
+country_name: "Wallis & Futuna"
+status_id: "5"
+latitude: -13.290304
+longitude: -176.207027
+scripts: [Latn]
+glottocode: wall1257
+glottolog_family_id: aust1307
+glottolog_family_name: Austronesian
+glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Central Pacific linkage > Tokalau Fijian > Polynesian > Nuclear Polynesian > East Uvean-Niuafo'ou > East Uvean"
+wikipedia_url: "https://en.wikipedia.org/wiki/Wallisian_language"
+---
+Wallisian, or ʻUvean, is the Polynesian language spoken on Wallis Island. The language is also known as East Uvean to distinguish it from the related West Uvean language spoken on the outlier island of Ouvéa near New Caledonia. The latter island was colonised from Wallis Island in the 18th century.

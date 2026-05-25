@@ -1,0 +1,33 @@
+---
+iso: qul
+name: North Bolivian Quechua
+autonym: North La Paz Quechua
+population: 116000
+country_id: BO
+country_name: Bolivia
+status_id: "2"
+latitude: -14.40136
+longitude: -68.78939
+glottocode: nort2976
+glottolog_family_id: quec1387
+glottolog_family_name: Quechuan
+glottolog_classification: "Quechuan > Southern Quechua > Bolivian-Argentinian Quechua > North Bolivian Quechua"
+wikipedia_url: "https://en.wikipedia.org/wiki/North_Bolivian_Quechua"
+rolv_dialects:
+  - rolv_code: 15867
+    language_tag: qu-BO-x-HIS15867
+    name: Apolo
+    country_id: BO
+    location: "Bolivia, La Paz, Larecaja"
+  - rolv_code: 15868
+    language_tag: qu-BO-x-HIS15868
+    name: "Quechua, North Bolivian: Charazani"
+    country_id: BO
+    location: Bolivia
+  - rolv_code: 15869
+    language_tag: qu-BO-x-HIS15869
+    name: "Quechua, North Bolivian: Muneca"
+    country_id: BO
+    location: "Bolivia, La Paz, Muneca"
+---
+North Bolivian Quechua is a dialect of the Southern Quechua language, spoken in northern Bolivia on the Peruvian border, as well as by immigrants in Peru.

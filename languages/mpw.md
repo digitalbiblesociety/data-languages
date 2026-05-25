@@ -1,0 +1,17 @@
+---
+iso: mpw
+name: Mapidian
+autonym: Mapidian
+population: null
+country_id: BR
+country_name: Brazil
+status_id: 8b
+latitude: 1.9145
+longitude: -59.6155
+glottocode: mapi1252
+glottolog_family_id: araw1281
+glottolog_family_name: Arawakan
+glottolog_classification: "Arawakan > Negro-Roraima > Pidjanan > Mapidian-Mawayana"
+wikipedia_url: "https://en.wikipedia.org/wiki/Mapidian_language"
+---
+Mawayana (Mahuayana), also known as Mapidian (Maopidyán), is a moribund Arawakan language of northern South America. It used to be spoken by Mawayana people living in ethnic Wai-wai and Tiriyó villages in Brazil, Guyana and Suriname. As of 2015, the last two speakers of the language are living in Kwamalasamutu.

@@ -1,0 +1,17 @@
+---
+iso: mxo
+name: Mbowe
+autonym: Esimbowe
+population: 2690
+country_id: ZM
+country_name: Zambia
+status_id: 6a
+latitude: -14.29407
+longitude: 23.98192
+glottocode: mbow1246
+glottolog_family_id: atla1278
+glottolog_family_name: Atlantic-Congo
+glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > Central-Western Bantu > Greater Luyana > Eastern Greater Luyana > Mbowe"
+wikipedia_url: "https://en.wikipedia.org/wiki/Mbowe_language"
+---
+Mbowe (Esimbowe) is a Bantu language of Zambia.

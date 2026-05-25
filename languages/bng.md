@@ -1,0 +1,17 @@
+---
+iso: bng
+name: Benga
+autonym: bɛŋga
+population: 5500
+country_id: GQ
+country_name: Equatorial Guinea
+status_id: 6b
+latitude: 0.8897
+longitude: 9.40336
+glottocode: beng1282
+glottolog_family_id: atla1278
+glottolog_family_name: Atlantic-Congo
+glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > Bantu A-B10-B20-B30 > Sawabantu > Bengaic > Benga"
+wikipedia_url: "https://en.wikipedia.org/wiki/Benga_language"
+---
+Benga is a Bantu language spoken by the Benga people of Equatorial Guinea and Gabon. It has a dialectal variation called Bapuku. Benga speakers inhabit a small coastal portion of Río Muni, the Cape of San Juan, suburban enclaves of Rio Benito and Bata, the islands of Corisco, Small Elobey and Great Elobey.

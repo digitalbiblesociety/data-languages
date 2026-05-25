@@ -1,0 +1,23 @@
+---
+iso: mtv
+name: "Asaro'o"
+autonym: Morafa
+population: 1250
+country_id: PG
+country_name: Papua New Guinea
+status_id: 6a
+latitude: -5.68263
+longitude: 146.50794
+glottocode: asar1240
+glottolog_family_id: nucl1709
+glottolog_family_name: Nuclear Trans New Guinea
+glottolog_classification: "Nuclear Trans New Guinea > Finisterre-Huon > Finisterre-Saruwaged > Warup > Nuclear Warup > Molet-Asaroo > Asaro'o"
+wikipedia_url: "https://en.wikipedia.org/wiki/Asaro%27o_language"
+rolv_dialects:
+  - rolv_code: 26298
+    language_tag: mtv-x-HIS26298
+    name: "Asaro'o: Molet"
+    country_id: PG
+    location: "Papua New Guinea, Madang"
+---
+Asaro'o, or Morafa, is one of the Finisterre languages of Papua New Guinea. Molet may be a dialect or a closely related language.

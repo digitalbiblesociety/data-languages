@@ -1,0 +1,38 @@
+---
+iso: szw
+name: Sawai
+autonym: Weda
+population: 12000
+country_id: ID
+country_name: Indonesia
+status_id: 6b
+latitude: 0.51111
+longitude: 128.08564
+glottocode: sawa1247
+glottolog_family_id: aust1307
+glottolog_family_name: Austronesian
+glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > South Halmahera-West New Guinea > Raja Ampat-South Halmahera > South Halmahera > Gebeic > Central-Eastern South Halmahera > Gamrange > Sawai"
+wikipedia_url: "https://en.wikipedia.org/wiki/Sawai_language"
+rolv_dialects:
+  - rolv_code: 16384
+    language_tag: szw-x-HIS16384
+    name: "Sawai: Kobe"
+    country_id: ID
+    location: "Indonesia, Maluku Utara"
+  - rolv_code: 16386
+    language_tag: szw-x-HIS16386
+    name: "Sawai: Weda"
+    country_id: ID
+    location: "Indonesia, Maluku Utara"
+  - rolv_code: 25955
+    language_tag: szw-x-HIS25955
+    name: "Sawai: Faya-Mafa"
+    country_id: ID
+    location: "Indonesia, Maluku Utara"
+  - rolv_code: 25956
+    language_tag: szw-x-HIS25956
+    name: "Sawai: Messa-Dote"
+    country_id: ID
+    location: "Indonesia, Maluku Utara"
+---
+The Sawai language is a South Halmahera language of the Austronesian language family spoken in the Weda, Weda Selatan and Gane Timor districts of southern Halmahera, in North Maluku Province of Indonesia. There are approximately 12,000 speakers.

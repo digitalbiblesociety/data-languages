@@ -1,0 +1,28 @@
+---
+iso: gcf
+name: Guadeloupean Creole French
+autonym: " patois"
+population: 433500
+country_id: GP
+country_name: Guadeloupe
+status_id: 6a
+latitude: 14.49894
+longitude: -61.02281
+glottocode: guad1242
+glottolog_family_id: indo1319
+glottolog_family_name: Indo-European
+glottolog_classification: "Indo-European > Classical Indo-European > Italic > Latino-Faliscan > Latinic > Imperial Latin > Romance > Italo-Western Romance > Western Romance > Shifted Western Romance > Northwestern Shifted Romance > Gallo-Rhaetian > Oil > Central Oil > Macro-French > Circum-Caribbean French > Lesser Antillean French Creole > Guadeloupe-Martinique Creole French"
+wikipedia_url: "https://en.wikipedia.org/wiki/Guadeloupe_Creole"
+rolv_dialects:
+  - rolv_code: 12898
+    language_tag: fr-GP-x-HIS12898
+    name: Saint Barthelemy French Creole
+    country_id: GP
+    location: Guadeloupe
+  - rolv_code: 27822
+    language_tag: fr-GP-x-HIS27822
+    name: "Guadeloupean French Creole: Marie Galante"
+    country_id: GP
+    location: Guadeloupe
+---
+Antillean Creole is a creole language that is primarily spoken in the Lesser Antilles. Its grammar and vocabulary include elements of Indigenous languages, African languages, French, and English.

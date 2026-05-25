@@ -1,0 +1,17 @@
+---
+iso: tbe
+name: Tanimbili
+autonym: Tanibili
+population: 15
+country_id: SB
+country_name: Solomon Islands
+status_id: 8b
+latitude: -11.29748
+longitude: 166.50726
+glottocode: tani1255
+glottolog_family_id: aust1307
+glottolog_family_name: Austronesian
+glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Temotu > Utupua-Vanikoro > Utupua > Tanimbili"
+wikipedia_url: "https://en.wikipedia.org/wiki/Tanimbili_language"
+---
+Tanimbili (Tanibili), or Nyisunggu, is a nearly-extinct language spoken on the island of Utupua, in the easternmost province of the Solomon Islands.

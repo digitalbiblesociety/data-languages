@@ -1,0 +1,17 @@
+---
+iso: kgv
+name: Karas
+autonym: Kalamang
+population: 240
+country_id: ID
+country_name: Indonesia
+status_id: 8a
+latitude: -3.47037
+longitude: 132.67789
+glottocode: kara1499
+glottolog_family_id: west2604
+glottolog_family_name: West Bomberai
+glottolog_classification: "West Bomberai > Kalamang"
+wikipedia_url: "https://en.wikipedia.org/wiki/Kalamang_language"
+---
+Kalamang, sometimes also called Karas, is a divergent Trans–New Guinea language spoken on the biggest of the Karas Islands off the Bomberai Peninsula, that is part of the West Bomberai family. It is spoken in Antalisa and Mas villages on Karas Island.

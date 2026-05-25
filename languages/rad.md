@@ -1,0 +1,38 @@
+---
+iso: rad
+name: Rade
+autonym: klei Êđê
+population: 331000
+country_id: VN
+country_name: Vietnam
+status_id: "5"
+latitude: 12.979
+longitude: 108.40989
+glottocode: rade1240
+glottolog_family_id: aust1307
+glottolog_family_name: Austronesian
+glottolog_classification: "Austronesian > Malayo-Polynesian > Malayo-Chamic > Aceh-Chamic > Chamic > Rade-Jarai > Rade"
+wikipedia_url: "https://en.wikipedia.org/wiki/Rade_language"
+rolv_dialects:
+  - rolv_code: 15908
+    language_tag: rad-x-HIS15908
+    name: "Rade: Adham"
+    country_id: VN
+    location: Vietnam
+  - rolv_code: 15910
+    language_tag: rad-x-HIS15910
+    name: "Rade: Blo"
+    country_id: VN
+    location: Vietnam
+  - rolv_code: 15912
+    language_tag: rad-x-HIS15912
+    name: "Rade: Krung"
+    country_id: VN
+    location: Vietnam
+  - rolv_code: 15914
+    language_tag: rad-x-HIS15914
+    name: "Rade: Rde Kpa"
+    country_id: VN
+    location: Vietnam
+---
+Rade is an Austronesian language of southern Vietnam. There may be some speakers in Cambodia. It is a member of the Chamic subgroup, and is closely related to the Cham language of central Vietnam.

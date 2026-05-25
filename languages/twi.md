@@ -1,0 +1,47 @@
+---
+iso: twi
+name: Twi
+autonym: Akwapem Twi
+population: 24000
+country_id: GH
+country_name: Ghana
+status_id: null
+wikipedia_url: "https://en.wikipedia.org/wiki/Twi"
+rolv_dialects:
+  - rolv_code: 360
+    language_tag: tw-x-HIS00360
+    name: "Twi: Asante"
+    country_id: GH
+    location: Ghana
+  - rolv_code: 2272
+    language_tag: tw-x-HIS02272
+    name: "Twi: Akwapem"
+    country_id: GH
+    location: Ghana
+  - rolv_code: 6810
+    language_tag: tw-x-HIS06810
+    name: "Twi: Agona"
+    country_id: GH
+    location: Ghana
+  - rolv_code: 6812
+    language_tag: tw-x-HIS06812
+    name: "Twi: Akyem Bosome"
+    country_id: GH
+    location: Ghana
+  - rolv_code: 6813
+    language_tag: tw-x-HIS06813
+    name: "Twi: Asen"
+    country_id: GH
+    location: Ghana
+  - rolv_code: 6814
+    language_tag: tw-x-HIS06814
+    name: "Twi: Dankyira"
+    country_id: GH
+    location: Ghana
+  - rolv_code: 6815
+    language_tag: tw-x-HIS06815
+    name: "Twi: Kwawu"
+    country_id: GH
+    location: Ghana
+---
+Twi-Fante, commonly referred to by its speakers as either Twi or Fante and academically and institutionally known by the broader term Akan, is the most widely spoken language of Ghana, and the main native language of the Akan people, spoken over much of the southern half of Ghana. About 44% of Ghanaians are native speakers, and about 80% of Ghana's population speak Akan as a first or second language. The Bono dialect is also spoken across the border in Ivory Coast.

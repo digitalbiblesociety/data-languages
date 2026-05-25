@@ -1,0 +1,17 @@
+---
+iso: kbm
+name: Iwal
+autonym: Kaiwa
+population: 1500
+country_id: PG
+country_name: Papua New Guinea
+status_id: "5"
+latitude: -7.20938
+longitude: 146.98309
+glottocode: iwal1237
+glottolog_family_id: aust1307
+glottolog_family_name: Austronesian
+glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > North New Guinea linkage > Huon Gulf > South Huon Gulf linkage > Iwal"
+wikipedia_url: "https://en.wikipedia.org/wiki/Iwal_language"
+---
+Iwal is an Austronesian language spoken by about 1,900 people from nine villages in Morobe Province, Papua New Guinea. Although it appears most closely related to the South Huon Gulf languages, it is the most conservative member of its subgroup.

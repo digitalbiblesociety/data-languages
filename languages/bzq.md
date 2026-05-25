@@ -1,0 +1,23 @@
+---
+iso: bzq
+name: Buli (Indonesia)
+autonym: null
+population: 2520
+country_id: ID
+country_name: Indonesia
+status_id: 6a
+latitude: 1.0008
+longitude: 128.44294
+glottocode: buli1255
+glottolog_family_id: aust1307
+glottolog_family_name: Austronesian
+glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > South Halmahera-West New Guinea > Raja Ampat-South Halmahera > South Halmahera > Gebeic > Central-Eastern South Halmahera > Buli (Indonesia)"
+wikipedia_url: "https://en.wikipedia.org/wiki/Buli_language_(Indonesia)"
+rolv_dialects:
+  - rolv_code: 8449
+    language_tag: bzq-x-HIS08449
+    name: "Buli: Wayamli"
+    country_id: ID
+    location: "Indonesia, Maluku Utara"
+---
+Buli is an Austronesian language of southern Halmahera, Indonesia.

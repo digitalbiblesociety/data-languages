@@ -1,0 +1,24 @@
+---
+iso: mct
+name: Mengisa
+autonym: Mangisa
+population: 20000
+country_id: CM
+country_name: Cameroon
+status_id: 6b
+latitude: 4.5932
+longitude: 11.39465
+wikipedia_url: "https://en.wikipedia.org/wiki/Mengisa_language"
+rolv_dialects:
+  - rolv_code: 31207
+    language_tag: mct-x-HIS31207
+    name: "Mengisa: Lekoe"
+    country_id: CM
+    location: "Cameroon, Centre"
+  - rolv_code: 31208
+    language_tag: mct-x-HIS31208
+    name: "Mengisa: Nke"
+    country_id: CM
+    location: "Cameroon, Centre"
+---
+Leti, or Mangisa, is a Bantu language of Cameroon, spoken by the Mengisa people. Most Mengisa have switched to the Eton language, though a number of them continue to use Leti as a secret ritual language. A smaller number speak Leti as their mother tongue.

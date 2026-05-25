@@ -1,0 +1,22 @@
+---
+iso: nhe
+name: Eastern Huasteca Nahuatl
+autonym: "Náhuatl, Huasteca Oriental"
+population: 1730000
+country_id: MX
+country_name: Mexico
+status_id: "5"
+latitude: 21.06392
+longitude: -97.90768
+scripts: [Latn]
+glottocode: east2538
+glottolog_family_id: utoa1244
+glottolog_family_name: Uto-Aztecan
+glottolog_classification: "Uto-Aztecan > Southern Uto-Aztecan > Corachol-Aztecan > Aztec > Eastern Nahuatl > Huasteca Nahuatl > Eastern Huasteca Nahuatl"
+rolv_dialects:
+  - rolv_code: 25384
+    language_tag: nhe-x-HIS25384
+    name: "Nahuatl, Eastern Huasteca: Southeastern"
+    country_id: MX
+    location: "Mexico, Veracruz"
+---

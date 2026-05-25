@@ -1,0 +1,26 @@
+---
+iso: yiv
+name: Northern Nisu
+autonym: Southern Yi
+population: 160000
+country_id: CN
+country_name: China
+status_id: 6b
+latitude: 24.408
+longitude: 102.456
+glottocode: nort2718
+glottolog_family_id: sino1245
+glottolog_family_name: Sino-Tibetan
+glottolog_classification: "Sino-Tibetan > Burmo-Qiangic > Lolo-Burmese > Loloish > Ni-Li-Kazhouish > Southeastern Ngwi > Nisoid > Nisu-Nyisu > Nisu > Nuclear Nisu > Northern Nisu > Northwestern Nisu"
+rolv_dialects:
+  - rolv_code: 27051
+    language_tag: yiv-x-HIS27051
+    name: "Nisu, Northern: Nasu"
+    country_id: CN
+    location: "China, Yunnan"
+  - rolv_code: 27052
+    language_tag: yiv-x-HIS27052
+    name: "Nisu, Northern: Nisu"
+    country_id: CN
+    location: "China, Yunnan"
+---

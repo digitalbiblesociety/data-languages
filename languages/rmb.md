@@ -1,0 +1,17 @@
+---
+iso: rmb
+name: Rembarrnga
+autonym: Rembarunga
+population: 51
+country_id: AU
+country_name: Australia
+status_id: 6b
+latitude: -12.96079
+longitude: 134.30755
+glottocode: remb1249
+glottolog_family_id: gunw1250
+glottolog_family_name: Gunwinyguan
+glottolog_classification: "Gunwinyguan > Jala > Rembarrnga"
+wikipedia_url: "https://en.wikipedia.org/wiki/Rembarrnga_language"
+---
+Rembarrnga (Rembarunga) is an Australian Aboriginal language. It is one of the Northern Non-Pama–Nyungan languages, spoken in the Roper River region of the Northern Territory. There are three dialects of Rembarrnga, namely Galduyh, Gikkik and Mappurn. It is a highly endangered language, with very few remaining fluent speakers. It is very likely that the language is no longer being learned by children. Instead, the children of Rembarrnga speakers are now learning neighbouring languages such as Kriol in south central Arnhem Land, and Kunwinjku, a dialect of Bininj Kunwok, in north central Arnhem Land.

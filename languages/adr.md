@@ -1,0 +1,33 @@
+---
+iso: adr
+name: Adonara
+autonym: Adonara
+population: 17000
+country_id: ID
+country_name: Indonesia
+status_id: 6a
+latitude: -8.32027
+longitude: 123.15864
+glottocode: adon1237
+glottolog_family_id: aust1307
+glottolog_family_name: Austronesian
+glottolog_classification: "Austronesian > Malayo-Polynesian > Bima-Lembata > Flores > Flores-Lembata > Lamaholot Barat > North Lembata-Adonara > Adonara"
+wikipedia_url: "https://en.wikipedia.org/wiki/Adonara_language"
+rolv_dialects:
+  - rolv_code: 6683
+    language_tag: adr-x-HIS06683
+    name: "Adonara: East"
+    country_id: ID
+    location: "Indonesia, Nusa Tenggara Timur (East)"
+  - rolv_code: 6684
+    language_tag: adr-x-HIS06684
+    name: "Adonara: East Solor"
+    country_id: ID
+    location: "Indonesia, Nusa Tenggara Timur (East)"
+  - rolv_code: 6685
+    language_tag: adr-x-HIS06685
+    name: "Adonara: West"
+    country_id: ID
+    location: "Indonesia, Nusa Tenggara Timur (East)"
+---
+Adonara is a Central Malayo-Polynesian language of the island of Adonara and the eastern end of the neighbouring island of Solor, both situated east of Flores in Indonesia.

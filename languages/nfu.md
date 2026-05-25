@@ -1,0 +1,68 @@
+---
+iso: nfu
+name: Mfumte
+autonym: Nfumte
+population: 24700
+country_id: CM
+country_name: Cameroon
+status_id: 6a
+latitude: 6.63304
+longitude: 10.99428
+glottocode: mfum1238
+glottolog_family_id: atla1278
+glottolog_family_name: Atlantic-Congo
+glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Wide Grassfields > Narrow Grassfields > Mbam-Nkam > Nkambe > Mfumteic > Central-Southern Mfumte > Southern Mfumte"
+wikipedia_url: "https://en.wikipedia.org/wiki/Mfumte_language"
+rolv_dialects:
+  - rolv_code: 910
+    language_tag: nfu-x-HIS00910
+    name: "Mfumte: Lus"
+    country_id: CM
+    location: "Cameroon, Nord-Ouest"
+  - rolv_code: 6183
+    language_tag: nfu-x-HIS06183
+    name: "Nfumte: Bang"
+    country_id: CM
+    location: "Cameroon, Nord-Ouest"
+  - rolv_code: 14048
+    language_tag: nfu-x-HIS14048
+    name: "Mfumte: Jui"
+    country_id: CM
+    location: "Cameroon, Nord-Ouest"
+  - rolv_code: 14050
+    language_tag: nfu-x-HIS14050
+    name: "Mfumte: Kom"
+    country_id: CM
+    location: "Cameroon, Nord-Ouest"
+  - rolv_code: 14051
+    language_tag: nfu-x-HIS14051
+    name: "Mfumte: Manang"
+    country_id: CM
+    location: "Cameroon, Nord-Ouest"
+  - rolv_code: 14052
+    language_tag: nfu-x-HIS14052
+    name: "Mfumte: Mbah"
+    country_id: CM
+    location: "Cameroon, Nord-Ouest"
+  - rolv_code: 14053
+    language_tag: nfu-x-HIS14053
+    name: "Mfumte: Mballa"
+    country_id: CM
+    location: "Cameroon, Nord-Ouest"
+  - rolv_code: 14054
+    language_tag: nfu-x-HIS14054
+    name: "Mfumte: Mbat"
+    country_id: CM
+    location: "Cameroon, Nord-Ouest"
+  - rolv_code: 14055
+    language_tag: nfu-x-HIS14055
+    name: "Mfumte: Mbibji"
+    country_id: CM
+    location: "Cameroon, Nord-Ouest"
+  - rolv_code: 31622
+    language_tag: nfu-x-HIS31622
+    name: "Mfumte: Ngang"
+    country_id: CM
+    location: "Cameroon, Nord-Ouest"
+---
+Mfumte (Nfumte) is a Grassfields Bantu language of Cameroon. It is not clear if the four varieties spoken by ethnic Mfumte—Ndaktup, Kwaja, Fum and Mfumte proper—are mutually intelligible or distinct languages; ability to communicate may be either due to inherent intelligibility or to bilingualism, while Fum and Mfumte may simply be the Nigerian and Cameroonian names for the same language.

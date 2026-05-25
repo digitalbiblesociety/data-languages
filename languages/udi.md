@@ -1,0 +1,33 @@
+---
+iso: udi
+name: Udi
+autonym: удин муз
+population: 4200
+country_id: AZ
+country_name: Azerbaijan
+status_id: "5"
+latitude: 40.9
+longitude: 47.7236
+glottocode: udii1243
+glottolog_family_id: nakh1245
+glottolog_family_name: Nakh-Daghestanian
+glottolog_classification: "Nakh-Daghestanian > Daghestanian > Lezgic > Samur > Eastern Samur > Udi-Aghwan > Udi"
+wikipedia_url: "https://en.wikipedia.org/wiki/Udi_language"
+rolv_dialects:
+  - rolv_code: 17886
+    language_tag: udi-x-HIS17886
+    name: "Udi: Nidzh"
+    country_id: AZ
+    location: Azerbaijan
+  - rolv_code: 17887
+    language_tag: udi-x-HIS17887
+    name: "Udi: Oghuz"
+    country_id: AZ
+    location: Azerbaijan
+  - rolv_code: 17888
+    language_tag: udi-x-HIS17888
+    name: "Udi: Oktomberi"
+    country_id: AZ
+    location: Azerbaijan
+---
+Udi is a language spoken by the Udi people and a member of the Lezgic branch of the Northeast Caucasian language family. It is believed an earlier form of it was the main language of Caucasian Albania, which stretched from south Dagestan to current day Azerbaijan. The Old Udi language is also called the Caucasian Albanian language and possibly corresponds to the "Gargarian" language identified by medieval Armenian historians. Modern Udi is known simply as Udi.

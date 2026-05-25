@@ -1,0 +1,17 @@
+---
+iso: rod
+name: Rogo
+autonym: Burogo
+population: null
+country_id: NG
+country_name: Nigeria
+status_id: 6a
+latitude: 10.56
+longitude: 6.946
+glottocode: rogo1238
+glottolog_family_id: atla1278
+glottolog_family_name: Atlantic-Congo
+glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Kainji > Central Kainji > Shiroro-Kamuku > Kamuku-Hungwarya > Kamuku > Rogo-Sagamuk-Sama-Sambuga > Rogo"
+wikipedia_url: "https://en.wikipedia.org/wiki/Rogo_language"
+---
+Rogo is a Kainji language of Nigeria. It is spoken around the town of Ucanja in the Rafi and Mariga Local Government Areas of Niger State, as well as the Birnin Gwari LGA of neighbouring Kaduna State.

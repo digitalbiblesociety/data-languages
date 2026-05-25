@@ -1,0 +1,33 @@
+---
+iso: nsn
+name: Nehan
+autonym: Nissan
+population: 6500
+country_id: PG
+country_name: Papua New Guinea
+status_id: "5"
+latitude: -4.56875
+longitude: 154.19964
+glottocode: neha1247
+glottolog_family_id: aust1307
+glottolog_family_name: Austronesian
+glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > Meso Melanesian linkage > New Ireland-Northwest Solomonic linkage > St George linkage > Northwest Solomonic > North Bougainville Oceanic > Nuclear North Bougainville Oceanic > Nehan"
+wikipedia_url: "https://en.wikipedia.org/wiki/Nehan_language"
+rolv_dialects:
+  - rolv_code: 14814
+    language_tag: nsn-x-HIS14814
+    name: "Nehan: Pinipel"
+    country_id: PG
+    location: "Papua New Guinea, North Solomons"
+  - rolv_code: 26313
+    language_tag: nsn-x-HIS26313
+    name: "Nehan: Sirouatan"
+    country_id: PG
+    location: "Papua New Guinea, North Solomons"
+  - rolv_code: 26314
+    language_tag: nsn-x-HIS26314
+    name: "Nehan: Uanuleik"
+    country_id: PG
+    location: "Papua New Guinea, North Solomons"
+---
+Nehan, also known as Nissan or Nihan, is an Austronesian language spoken on the Green Islands, north of Bougainville, Papua New Guinea.

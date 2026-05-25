@@ -1,0 +1,28 @@
+---
+iso: krk
+name: Kerek
+autonym: аӈӄалҕакку
+population: 2020
+country_id: RU
+country_name: Russia
+status_id: "9"
+latitude: 62.17769
+longitude: 175.06969
+glottocode: kere1280
+glottolog_family_id: chuk1271
+glottolog_family_name: Chukotko-Kamchatkan
+glottolog_classification: "Chukotko-Kamchatkan > Chukotian > R-Koryakic > J-Koryakic > Kerek"
+wikipedia_url: "https://en.wikipedia.org/wiki/Kerek_language"
+rolv_dialects:
+  - rolv_code: 11878
+    language_tag: krk-x-HIS11878
+    name: "Kerek: Khatyrka"
+    country_id: RU
+    location: Russia
+  - rolv_code: 11879
+    language_tag: krk-x-HIS11879
+    name: "Kerek: Mainypilgino"
+    country_id: RU
+    location: Russia
+---
+Kerek is an extinct indigenous language in Russia of the Chukotkan branch of the Chukotko-Kamchatkan languages. Before its extinction, it was spoken by the Kereks of the Russian Far East. It went extinct in 2005 with the death of Ekaterina Khatkana.

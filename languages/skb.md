@@ -1,0 +1,28 @@
+---
+iso: skb
+name: Saek
+autonym: Sek
+population: 14000
+country_id: LA
+country_name: Laos
+status_id: "7"
+latitude: 17.455755
+longitude: 104.787095
+glottocode: saek1240
+glottolog_family_id: taik1256
+glottolog_family_name: Tai-Kadai
+glottolog_classification: "Tai-Kadai > Kam-Tai > Daic-Beic > Daic > Northern Daic-Sek > Saek"
+wikipedia_url: "https://en.wikipedia.org/wiki/Saek_language"
+rolv_dialects:
+  - rolv_code: 16166
+    language_tag: skb-x-HIS16166
+    name: "Saek: Khammouan"
+    country_id: LA
+    location: Laos
+  - rolv_code: 16167
+    language_tag: skb-x-HIS16167
+    name: "Saek: Na Kadok"
+    country_id: LA
+    location: Laos
+---
+Saek is a Tai language spoken in at least ten villages in Khammouane Province, Laos, and at least four villages in Nakhon Phanom Province in northeastern Thailand, just across the Mekong River. It is spoken by the Saek people.

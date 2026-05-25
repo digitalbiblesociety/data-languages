@@ -1,0 +1,64 @@
+---
+iso: ron
+name: Romanian
+autonym: "Daco-Romanian"
+population: 24300000
+country_id: RO
+country_name: Romania
+status_id: "1"
+latitude: 46.391292
+longitude: 24.22557
+scripts: [Cyrl, Latn]
+glottocode: roma1327
+glottolog_family_id: indo1319
+glottolog_family_name: Indo-European
+glottolog_classification: "Indo-European > Classical Indo-European > Italic > Latino-Faliscan > Latinic > Imperial Latin > Romance > Eastern Romance > Northern Romanian > Eastern Romanian > Romanian"
+wikipedia_url: "https://en.wikipedia.org/wiki/Romanian_language"
+rolv_dialects:
+  - rolv_code: 3368
+    language_tag: ro-x-HIS03368
+    name: "Romanian: Moldova"
+    country_id: MD
+    location: Moldova
+  - rolv_code: 16058
+    language_tag: ro-x-HIS16058
+    name: "Romanian: Banat"
+    country_id: RO
+    location: Romania
+  - rolv_code: 16059
+    language_tag: ro-x-HIS16059
+    name: "Romanian: Bayash"
+    country_id: RO
+    location: Romania
+  - rolv_code: 16061
+    language_tag: ro-x-HIS16061
+    name: "Romanian: Chrishana"
+    country_id: MD
+    location: Moldova
+  - rolv_code: 16062
+    language_tag: ro-x-HIS16062
+    name: "Romanian: Maramuresh"
+    country_id: MD
+    location: Moldova
+  - rolv_code: 16063
+    language_tag: ro-x-HIS16063
+    name: "Bayash: Muntean"
+    country_id: HR
+    location: Croatia
+  - rolv_code: 16065
+    language_tag: ro-x-HIS16065
+    name: "Romanian: Transylvanian"
+    country_id: RO
+    location: Romania
+  - rolv_code: 28634
+    language_tag: ro-x-HIS28634
+    name: "Romanian: Bessarabian"
+    country_id: RO
+    location: Romania
+  - rolv_code: 30545
+    language_tag: ro-x-HIS30545
+    name: "Bayash: Ardelean"
+    country_id: HR
+    location: Croatia
+---
+Romanian is the official and main language of Romania and Moldova. Romanian is part of the Eastern Romance sub-branch of Romance languages, a linguistic group that evolved from several dialects of Vulgar Latin which separated from the Western Romance languages in the course of the period from the 5th to the 8th centuries. To distinguish it within the Eastern Romance languages, in comparative linguistics it is called Daco-Romanian as opposed to its closest relatives, Aromanian, Megleno-Romanian, and Istro-Romanian. It is also spoken as a minority language by stable communities in the countries surrounding Romania, and by the large Romanian diaspora. In total, it is spoken by 22 million people as a first language.

@@ -1,0 +1,28 @@
+---
+iso: tnt
+name: Tontemboan
+autonym: Pakewa
+population: 14860
+country_id: ID
+country_name: Indonesia
+status_id: 6b
+latitude: 1.24813
+longitude: 124.65429
+glottocode: tont1239
+glottolog_family_id: aust1307
+glottolog_family_name: Austronesian
+glottolog_classification: "Austronesian > Malayo-Polynesian > Sangiric-Minahasan > Minahasan > North Minahasan > Tontemboan"
+wikipedia_url: "https://en.wikipedia.org/wiki/Tontemboan_language"
+rolv_dialects:
+  - rolv_code: 17590
+    language_tag: tnt-x-HIS17590
+    name: "Tontemboan: Sonder"
+    country_id: ID
+    location: "Indonesia, Sulawesi Utara (North)"
+  - rolv_code: 17591
+    language_tag: tnt-x-HIS17591
+    name: "Tontemboan: Tompaso"
+    country_id: ID
+    location: "Indonesia, Sulawesi Utara (North)"
+---
+Tontemboan is an Austronesian language, of northern Sulawesi, Indonesia. It is a Minahasan language, a sub-group of the Philippine languages.

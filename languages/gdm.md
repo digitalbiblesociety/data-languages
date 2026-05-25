@@ -1,0 +1,15 @@
+---
+iso: gdm
+name: Laal
+autonym: yəw láàl
+population: 750
+country_id: TD
+country_name: Chad
+status_id: "7"
+latitude: 10.00633
+longitude: 17.61425
+glottocode: laal1242
+wikipedia_url: "https://en.wikipedia.org/wiki/Laal_language"
+---
+Laal is an endangered language isolate spoken by 750 people in two villages in the Moyen-Chari prefecture of Chad on opposite banks of the Chari River, 
+called Gori (lá), and Damtar (ɓual). It represents an isolated survival of an earlier language group of Central Africa. It is unwritten except in transcription by linguists. According to former Summer Institute of Linguistics-Chad member David Faris, it is in danger of extinction, with most people under 25 shifting to the locally more widespread Bagirmi.

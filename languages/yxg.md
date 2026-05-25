@@ -1,0 +1,11 @@
+---
+iso: yxg
+name: Yagara
+autonym: Yagara
+population: null
+country_id: AU
+country_name: Australia
+status_id: "10"
+wikipedia_url: "https://en.wikipedia.org/wiki/Turrbal_language"
+---
+Turrbal is an Aboriginal Australian language of the Turrbal people of the Brisbane area of Queensland.

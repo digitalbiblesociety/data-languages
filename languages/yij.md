@@ -1,0 +1,17 @@
+---
+iso: yij
+name: Yindjibarndi
+autonym: Burnugundi
+population: 380
+country_id: AU
+country_name: Australia
+status_id: 6a
+latitude: -21.53794
+longitude: 117.00104
+glottocode: yind1247
+glottolog_family_id: pama1250
+glottolog_family_name: Pama-Nyungan
+glottolog_classification: "Pama-Nyungan > South-West Pama-Nyungan > Pilbara > Ngayarda > Central Ngayarda > Yindjibarndi-Kurrama > Yindjibarndi"
+wikipedia_url: "https://en.wikipedia.org/wiki/Yinjibarndi_language"
+---
+Yinjibarndi is a Pama–Nyungan language spoken by the Yindjibarndi people of the Pilbara region in north-western Australia.

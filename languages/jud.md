@@ -1,0 +1,31 @@
+---
+iso: jud
+name: Worodougou
+autonym: Malinke
+population: 115000
+country_id: CI
+country_name: "Côte d'Ivoire"
+status_id: 6a
+latitude: 8.23453
+longitude: -6.72244
+glottocode: woro1256
+glottolog_family_id: mand1469
+glottolog_family_name: Mande
+glottolog_classification: "Mande > Western Mande > Manding-Kpelle > Central Mande > Manding-Jogo > Manding-Vai > Manding-Mokole > Manding > East Manding > Maninka-Mori > Worodougou"
+rolv_dialects:
+  - rolv_code: 11221
+    language_tag: jud-x-HIS11221
+    name: "Worodougou: Kanika"
+    country_id: CI
+    location: "Côte d'Ivoire"
+  - rolv_code: 11222
+    language_tag: jud-x-HIS11222
+    name: "Worodougou: Karanjan"
+    country_id: CI
+    location: "Côte d'Ivoire"
+  - rolv_code: 20861
+    language_tag: jud-x-HIS20861
+    name: "Worodougou: Worodougouka"
+    country_id: CI
+    location: "Côte d'Ivoire"
+---

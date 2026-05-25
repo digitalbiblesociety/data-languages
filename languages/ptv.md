@@ -1,0 +1,17 @@
+---
+iso: ptv
+name: Port Vato
+autonym: Daakie
+population: 1300
+country_id: VU
+country_name: Vanuatu
+status_id: 6a
+latitude: -16.30825
+longitude: 168.04551
+glottocode: port1286
+glottolog_family_id: aust1307
+glottolog_family_name: Austronesian
+glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > North and Central Vanuatu > Central Vanuatu > Ambrym > Orkon-West Ambrym > West Ambrym > Southwest Ambrym > Daakie"
+wikipedia_url: "https://en.wikipedia.org/wiki/Port_Vato_language"
+---
+Port Vato, locally known as Daakie, is a language of Ambrym Island, Vanuatu.

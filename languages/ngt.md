@@ -1,0 +1,51 @@
+---
+iso: ngt
+name: Kriang
+autonym: Ta Oi
+population: 12200
+country_id: LA
+country_name: Laos
+status_id: 6a
+latitude: 15.62109
+longitude: 106.8773
+glottocode: ngeq1245
+glottolog_family_id: aust1305
+glottolog_family_name: Austroasiatic
+glottolog_classification: "Austroasiatic > Katuic > Ta'oihic > Kriang-Khlor"
+rolv_dialects:
+  - rolv_code: 1026
+    language_tag: ngt-x-HIS01026
+    name: "Kriang: Se Kong"
+    country_id: LA
+    location: Laos
+  - rolv_code: 1804
+    language_tag: ngt-x-HIS01804
+    name: "Kriang: Ban Ko"
+    country_id: LA
+    location: Laos
+  - rolv_code: 1806
+    language_tag: ngt-x-HIS01806
+    name: "Kriang: Ban Bang"
+    country_id: LA
+    location: Laos
+  - rolv_code: 25272
+    language_tag: ngt-x-HIS25272
+    name: "Kriang: Khlor"
+    country_id: LA
+    location: Laos
+  - rolv_code: 26818
+    language_tag: ngt-x-HIS26818
+    name: "Kriang: Tha Taeng"
+    country_id: LA
+    location: Laos
+  - rolv_code: 30788
+    language_tag: ngt-x-HIS30788
+    name: "Kriang: Chatong"
+    country_id: LA
+    location: Laos
+  - rolv_code: 30789
+    language_tag: ngt-x-HIS30789
+    name: "Kriang: Dakkang"
+    country_id: LA
+    location: Laos
+---

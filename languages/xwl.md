@@ -1,0 +1,15 @@
+---
+iso: xwl
+name: Western Xwla Gbe
+autonym: Xwla
+population: null
+country_id: BJ
+country_name: Benin
+status_id: 6a
+latitude: 6.33455
+longitude: 2.03904
+glottocode: west2456
+glottolog_family_id: atla1278
+glottolog_family_name: Atlantic-Congo
+glottolog_classification: "Atlantic-Congo > Volta-Congo > Kwa Volta-Congo > Gbe > Eastern Gbe > Western Phla-Phera > Western Xwla Gbe"
+---

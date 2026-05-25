@@ -1,0 +1,15 @@
+---
+iso: nhq
+name: Huaxcaleca Nahuatl
+autonym: Southeastern Puebla Nahuatl
+population: 7000
+country_id: MX
+country_name: Mexico
+status_id: "7"
+latitude: 18.89894
+longitude: -96.95374
+glottocode: huax1236
+glottolog_family_id: utoa1244
+glottolog_family_name: Uto-Aztecan
+glottolog_classification: "Uto-Aztecan > Southern Uto-Aztecan > Corachol-Aztecan > Aztec > Eastern Nahuatl > Sierra de Puebla Nahuatl > Huaxcaleca Nahuatl"
+---

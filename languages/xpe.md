@@ -1,0 +1,15 @@
+---
+iso: xpe
+name: Liberia Kpelle
+autonym: Kpɛlɛwoo
+population: 867000
+country_id: LR
+country_name: Liberia
+status_id: "5"
+latitude: 6.92048
+longitude: -9.96128
+glottocode: libe1247
+glottolog_family_id: mand1469
+glottolog_family_name: Mande
+glottolog_classification: "Mande > Western Mande > Manding-Kpelle > Southwest Mande > Kpelle > Liberia Kpelle"
+---

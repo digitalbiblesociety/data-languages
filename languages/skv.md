@@ -1,0 +1,17 @@
+---
+iso: skv
+name: Skou
+autonym: Tumawo
+population: 700
+country_id: ID
+country_name: Indonesia
+status_id: 6a
+latitude: -2.64378
+longitude: 140.90195
+glottocode: nucl1634
+glottolog_family_id: skoo1245
+glottolog_family_name: Sko
+glottolog_classification: "Sko > Skou-Serra-Piore > Skouic > Skou"
+wikipedia_url: "https://en.wikipedia.org/wiki/Skou_language"
+---
+Skou, or Tumawo, is a Papuan language of Indonesia.

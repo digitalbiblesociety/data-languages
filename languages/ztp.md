@@ -1,0 +1,28 @@
+---
+iso: ztp
+name: Loxicha Zapotec
+autonym: Diste
+population: 75000
+country_id: MX
+country_name: Mexico
+status_id: 6a
+latitude: 15.8442
+longitude: -96.69968
+glottocode: loxi1235
+glottolog_family_id: otom1299
+glottolog_family_name: Otomanguean
+glottolog_classification: "Otomanguean > Eastern Otomanguean > Popoloca-Zapotecan > Zapotecan > Zapotec > Core Zapotec > Narrow Core Zapotec > Miahuatecano > Miahuateco > Loxicha Zapotec"
+wikipedia_url: "https://en.wikipedia.org/wiki/Loxicha_Zapotec"
+rolv_dialects:
+  - rolv_code: 25437
+    language_tag: ztp-x-HIS25437
+    name: "Zapotec, Loxicha: San Agustin"
+    country_id: MX
+    location: "Mexico, Oaxaca, Pochutla"
+  - rolv_code: 25441
+    language_tag: ztp-x-HIS25441
+    name: "Zapotec, Loxicha: Lachirioag"
+    country_id: MX
+    location: "Mexico, Oaxaca, Pochutla"
+---
+Loxicha Zapotec is a Zapotec language of Oaxaca, Mexico. It is one of the most populous varieties of Zapotec, and the majority of speakers are monolingual.

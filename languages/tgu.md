@@ -1,0 +1,17 @@
+---
+iso: tgu
+name: Tanggu
+autonym: Tanggum
+population: 3000
+country_id: PG
+country_name: Papua New Guinea
+status_id: "5"
+latitude: -4.4621
+longitude: 144.91557
+glottocode: tang1355
+glottolog_family_id: ramu1234
+glottolog_family_name: Ramu
+glottolog_classification: "Ramu > Goam > Ataitan > Tangu-Igom > Tanggu"
+wikipedia_url: "https://en.wikipedia.org/wiki/Tanggu_language"
+---
+Tanggu is a Ramu language of Papua New Guinea.

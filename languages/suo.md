@@ -1,0 +1,21 @@
+---
+iso: suo
+name: Bouni
+autonym: Sumo
+country_id: PG
+country_name: Papua New Guinea
+latitude: -3.067293
+longitude: 141.932259
+glottocode: boun1246
+glottolog_family_id: skoo1245
+glottolog_family_name: Sko
+glottolog_classification: "Sko > Skou-Serra-Piore > Barupu Lagoon > Bouni-Bobe"
+wikipedia_url: "https://en.wikipedia.org/wiki/Bouni_language"
+rolv_dialects:
+  - rolv_code: 26183
+    language_tag: suo-x-HIS26183
+    name: "Bouni: Bobe"
+    country_id: PG
+    location: "Papua New Guinea, Sandaun"
+---
+Bouni (Sumo) is a Skou language of Papua New Guinea. It is spoken in Sumo village of West Aitape Rural LLG, Sandaun Province, located near the border with Indonesia.

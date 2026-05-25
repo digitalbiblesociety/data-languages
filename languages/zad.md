@@ -1,0 +1,33 @@
+---
+iso: zad
+name: Cajonos Zapotec
+autonym: "Zapoteco, Yaganiza"
+population: 5000
+country_id: MX
+country_name: Mexico
+status_id: "5"
+latitude: 17.14274
+longitude: -96.33521
+glottocode: cajo1238
+glottolog_family_id: otom1299
+glottolog_family_name: Otomanguean
+glottolog_classification: "Otomanguean > Eastern Otomanguean > Popoloca-Zapotecan > Zapotecan > Zapotec > Core Zapotec > Narrow Core Zapotec > Northern Core Zapotec > Cajonosic > Cajonos Zapotec"
+wikipedia_url: "https://en.wikipedia.org/wiki/Cajonos_Zapotec"
+rolv_dialects:
+  - rolv_code: 25426
+    language_tag: zad-x-HIS25426
+    name: "Zapotec, Cajonos: San Mateo"
+    country_id: MX
+    location: "Mexico, Oaxaca"
+  - rolv_code: 25427
+    language_tag: zad-x-HIS25427
+    name: "Zapotec, Cajonos: Xagacia"
+    country_id: MX
+    location: "Mexico, Oaxaca"
+  - rolv_code: 25428
+    language_tag: zad-x-HIS25428
+    name: "Zapotec, Cajonos: Yaganiza"
+    country_id: MX
+    location: "Mexico, Oaxaca"
+---
+Cajonos Zapotec is a Zapotec language of Oaxaca, Mexico. It is spoken in several towns named Cajonos, as well as, San Pedro Cajonos, San Pablo Yaganiza and Xagacía. There are significant differences with the dialects of the latter.

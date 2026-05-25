@@ -1,0 +1,17 @@
+---
+iso: enl
+name: Enlhet
+autonym: Enlhet
+population: 6440
+country_id: PY
+country_name: Paraguay
+status_id: null
+latitude: -22.54
+longitude: -58.98
+glottocode: nort2971
+glottolog_family_id: leng1261
+glottolog_family_name: Lengua-Mascoy
+glottolog_classification: "Lengua-Mascoy > Lengua > Enlhet Norte"
+wikipedia_url: "https://en.wikipedia.org/wiki/Enlhet_language"
+---
+Enlhet (Eenlhit), or Northern Lengua, is a language of the Paraguayan Chaco, spoken by the northern Enxet people. It is also known as Vowak and Powok.

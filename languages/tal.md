@@ -1,0 +1,43 @@
+---
+iso: tal
+name: Tal
+autonym: null
+population: 10000
+country_id: NG
+country_name: Nigeria
+status_id: 6a
+latitude: 9.15354
+longitude: 9.50774
+glottocode: tall1250
+glottolog_family_id: afro1255
+glottolog_family_name: Afro-Asiatic
+glottolog_classification: "Afro-Asiatic > Chadic > West Chadic > West Chadic A > West Chadic A.2-3 > West Chadic A.3 > Goemaic > Talic > Tal"
+wikipedia_url: "https://en.wikipedia.org/wiki/Tal_language"
+rolv_dialects:
+  - rolv_code: 23995
+    language_tag: tal-x-HIS23995
+    name: "Tal: Bongmuut"
+    country_id: NG
+    location: "Nigeria, Plateau"
+  - rolv_code: 23996
+    language_tag: tal-x-HIS23996
+    name: "Tal: Buzuk"
+    country_id: NG
+    location: "Nigeria, Plateau"
+  - rolv_code: 23998
+    language_tag: tal-x-HIS23998
+    name: "Tal: Muɗak"
+    country_id: NG
+    location: "Nigeria, Plateau"
+  - rolv_code: 23999
+    language_tag: tal-x-HIS23999
+    name: "Tal: Takong"
+    country_id: NG
+    location: "Nigeria, Plateau"
+  - rolv_code: 24054
+    language_tag: tal-x-HIS24054
+    name: "Tal: Muɗong"
+    country_id: NG
+    location: "Nigeria, Plateau"
+---
+Tal is an Afroasiatic language spoken in Plateau State, Nigeria. Tal is spoken in a cluster of 53 villages located east of the Panyam-Shendam road. There are 6 dialects of Tal, namely Bongmuut, Buzuk, Nbaal, Muɗak, Muɗong, and Takong.

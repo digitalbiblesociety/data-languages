@@ -1,0 +1,20 @@
+---
+iso: tba
+name: Aikanã
+autonym: Tubarão
+population: 150
+country_id: BR
+country_name: Brazil
+status_id: 6b
+latitude: -12.66946
+longitude: -60.53527
+glottocode: aika1237
+wikipedia_url: "https://en.wikipedia.org/wiki/Aikan%C3%A3_language"
+rolv_dialects:
+  - rolv_code: 17718
+    language_tag: tba-x-HIS17718
+    name: "Aikana: Masaka"
+    country_id: BR
+    location: "Brazil, Rondônia"
+---
+Aikanã is an endangered language isolate spoken by about 200 Aikanã people in Rondônia, Brazil. It is morphologically complex and has SOV word order. Aikanã uses the Latin script. The people live with speakers of Koaia (Kwaza).

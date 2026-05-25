@@ -1,0 +1,33 @@
+---
+iso: hia
+name: Lamang
+autonym: Gbuhwe
+population: 40000
+country_id: NG
+country_name: Nigeria
+status_id: 6a
+latitude: 11.02429
+longitude: 13.7362
+glottocode: lama1288
+glottolog_family_id: afro1255
+glottolog_family_name: Afro-Asiatic
+glottolog_classification: "Afro-Asiatic > Chadic > Biu-Mandara > North Biu-Mandara > Lamang-Hdi > Lamang"
+wikipedia_url: "https://en.wikipedia.org/wiki/Lamang_language"
+rolv_dialects:
+  - rolv_code: 1767
+    language_tag: hia-x-HIS01767
+    name: "Lamang: Ghumbagha"
+    country_id: NG
+    location: "Nigeria, Borno"
+  - rolv_code: 12726
+    language_tag: hia-x-HIS12726
+    name: "Lamang: Zaladva"
+    country_id: NG
+    location: "Nigeria, Borno"
+  - rolv_code: 12727
+    language_tag: hia-x-HIS12727
+    name: "Lamang: Ghudavan"
+    country_id: NG
+    location: "Nigeria, Borno"
+---
+Lamang (Laamang) is an Afro-Asiatic language cluster of Nigeria. Blench (2006) classifies the Woga variety as a separate language.

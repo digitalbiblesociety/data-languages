@@ -1,0 +1,26 @@
+---
+iso: lia
+name: "West-Central Limba"
+autonym: Yimba
+population: 445000
+country_id: SL
+country_name: Sierra Leone
+status_id: "5"
+latitude: 9.52392
+longitude: -12.31378
+glottocode: west2450
+glottolog_family_id: atla1278
+glottolog_family_name: Atlantic-Congo
+glottolog_classification: "Atlantic-Congo > Limba > West-Central Limba"
+rolv_dialects:
+  - rolv_code: 12957
+    language_tag: lia-x-HIS12957
+    name: "Limba, West-Central: Central"
+    country_id: SL
+    location: Sierra Leone
+  - rolv_code: 12958
+    language_tag: lia-x-HIS12958
+    name: "Limba, West-Central: Western"
+    country_id: SL
+    location: "Sierra Leone, Northern"
+---

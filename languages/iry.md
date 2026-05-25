@@ -1,0 +1,48 @@
+---
+iso: iry
+name: Iraya
+autonym: null
+population: 10000
+country_id: PH
+country_name: Philippines
+status_id: "5"
+latitude: 13.38103
+longitude: 120.64995
+glottocode: iray1237
+glottolog_family_id: aust1307
+glottolog_family_name: Austronesian
+glottolog_classification: "Austronesian > Malayo-Polynesian > North Mangyan > Iraya"
+wikipedia_url: "https://en.wikipedia.org/wiki/Iraya_language"
+rolv_dialects:
+  - rolv_code: 2137
+    language_tag: iry-x-HIS02137
+    name: "Iraya: San Teodoro"
+    country_id: PH
+    location: "Philippines, Luzon, Mimaropa Region, Occidental Mindoro"
+  - rolv_code: 10938
+    language_tag: iry-x-HIS10938
+    name: Abra-De-Ilog
+    country_id: PH
+    location: "Philippines, Luzon, Mimaropa Region, Occidental Mindoro"
+  - rolv_code: 10940
+    language_tag: iry-x-HIS10940
+    name: "Iraya: Pagbahan"
+    country_id: PH
+    location: "Philippines, Luzon, Mimaropa Region, Occidental Mindoro"
+  - rolv_code: 10941
+    language_tag: iry-x-HIS10941
+    name: "Iraya: Palauan-Calavite"
+    country_id: PH
+    location: "Philippines, Luzon, Mimaropa Region, Occidental Mindoro"
+  - rolv_code: 10942
+    language_tag: iry-x-HIS10942
+    name: "Iraya: Pambuhan"
+    country_id: PH
+    location: "Philippines, Luzon, Mimaropa Region, Occidental Mindoro"
+  - rolv_code: 10943
+    language_tag: iry-x-HIS10943
+    name: "Iraya: Santa Cruz"
+    country_id: PH
+    location: "Philippines, Luzon, Mimaropa Region, Occidental Mindoro"
+---
+The Iraya language is a language spoken by Mangyans on the island of Mindoro in the Philippines. Zorc (1974) places the Iraya language within the North Mangyan group of Malayo-Polynesian languages, though Lobel (2013) notes that it shows "considerable differences" to Tadyawan and Alangan, the other languages in this group. There are 6,000 to 8,000 Iraya speakers, and that number is growing. The language status of Iraya is developing, meaning that this language is being put to use in a strong and healthy manner by its speakers, and it also has its own writing system.

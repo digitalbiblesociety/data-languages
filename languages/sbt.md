@@ -1,0 +1,14 @@
+---
+iso: sbt
+name: Kimki
+autonym: Sukubatom
+population: 500
+country_id: ID
+country_name: Indonesia
+status_id: 6b
+latitude: -4.2742
+longitude: 140.88383
+glottocode: kimk1238
+wikipedia_url: "https://en.wikipedia.org/wiki/Kimki_language"
+---
+Kimki (Aipki) or Sukubatom (Sukubatong) is a South Pauwasi language of Batom District, Pegunungan Bintang Regency, Papua, Indonesia. Foley classifies Kimki as a language isolate, although he notes some similarities with Murkim. Usher demonstrates a connection to the other South Pauwasi languages.

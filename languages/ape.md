@@ -1,0 +1,33 @@
+---
+iso: ape
+name: Bukiyip
+autonym: Mountain Arapesh
+population: 16200
+country_id: PG
+country_name: Papua New Guinea
+status_id: 6b
+latitude: -3.47169
+longitude: 143.11061
+glottocode: buki1249
+glottolog_family_id: nucl1708
+glottolog_family_name: Nuclear Torricelli
+glottolog_classification: "Nuclear Torricelli > Kombio-Arapesh-Urat > Arapesh > Mufian-Bukiyip-Abu > Bukiyip-Abu > Bukiyip"
+wikipedia_url: "https://en.wikipedia.org/wiki/Bukiyip_language"
+rolv_dialects:
+  - rolv_code: 8441
+    language_tag: ape-x-HIS08441
+    name: "Bukiyip: But"
+    country_id: PG
+    location: "Papua New Guinea, East Sepik"
+  - rolv_code: 27999
+    language_tag: ape-x-HIS27999
+    name: "Bukiyip: Cemaun"
+    country_id: PG
+    location: "Papua New Guinea, East Sepik"
+  - rolv_code: 28000
+    language_tag: ape-x-HIS28000
+    name: "Bukiyip: Rohwim"
+    country_id: PG
+    location: "Papua New Guinea, East Sepik"
+---
+Bukiyip (Bukiyúp), or Mountain Arapesh, is an Arapesh language (Torricelli) spoken by around 16,000 people between Yangoru and Maprik in the East Sepik Province of Papua New Guinea. Bukiyip follows the SVO typology. The Arapesh languages are known for their complex noun-phrase agreement system.

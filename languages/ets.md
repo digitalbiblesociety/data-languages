@@ -1,0 +1,58 @@
+---
+iso: ets
+name: Yekhee
+autonym: AfenmaiKukuruku (outdated)
+population: 486000
+country_id: NG
+country_name: Nigeria
+status_id: "5"
+latitude: 7.10204
+longitude: 6.44919
+glottocode: yekh1238
+glottolog_family_id: atla1278
+glottolog_family_name: Atlantic-Congo
+glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Akpes-Edoid > Edoid > North-Central Edoid > Afenmai-Bendel > Uneme-Yekhee > Yekhee"
+wikipedia_url: "https://en.wikipedia.org/wiki/Afenmai_language"
+rolv_dialects:
+  - rolv_code: 18523
+    language_tag: ets-x-HIS18523
+    name: "Yekhee: Auchi"
+    country_id: NG
+    location: "Nigeria, Edo"
+  - rolv_code: 18524
+    language_tag: ets-x-HIS18524
+    name: "Yekhee: Avianwu"
+    country_id: NG
+    location: "Nigeria, Edo"
+  - rolv_code: 18525
+    language_tag: ets-x-HIS18525
+    name: "Yekhee: Aviele"
+    country_id: NG
+    location: "Nigeria, Edo"
+  - rolv_code: 18527
+    language_tag: ets-x-HIS18527
+    name: "Yekhee: Ivhiadaobi"
+    country_id: NG
+    location: "Nigeria, Edo"
+  - rolv_code: 18528
+    language_tag: ets-x-HIS18528
+    name: "Yekhee: South Ibie"
+    country_id: NG
+    location: "Nigeria, Edo"
+  - rolv_code: 18529
+    language_tag: ets-x-HIS18529
+    name: "Yekhee: Uwepa-Uwano"
+    country_id: NG
+    location: "Nigeria, Edo"
+  - rolv_code: 18530
+    language_tag: ets-x-HIS18530
+    name: "Yekhee: Uzairue"
+    country_id: NG
+    location: "Nigeria, Edo"
+  - rolv_code: 30587
+    language_tag: ets-x-HIS30587
+    name: "Yekhee: Ekpheri"
+    country_id: NG
+    location: "Nigeria, Edo"
+---
+Afenmai (Afemai), Yekhee, or Iyekhe, is an Edoid language spoken in Edo State, Nigeria by the Afenmai people. Not all speakers recognize the name Yekhee; some use the district name Etsako.

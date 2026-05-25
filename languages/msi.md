@@ -1,0 +1,15 @@
+---
+iso: msi
+name: Sabah Malay
+autonym: "Bahasa-Bahasa Melayu Dagang dan Kreol"
+population: null
+country_id: MY
+country_name: Malaysia
+status_id: "3"
+latitude: 4.64808
+longitude: 117.02407
+glottocode: saba1263
+glottolog_family_id: aust1307
+glottolog_family_name: Austronesian
+glottolog_classification: "Austronesian > Malayo-Polynesian > Malayo-Chamic > Malayic > Nuclear Malayic > East Borneo Malay > Banjar-Berau-Brunei Malay > Berau-Brunei Malay > Bruneic Malay > Sabah Malay"
+---

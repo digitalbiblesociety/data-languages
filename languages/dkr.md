@@ -1,0 +1,17 @@
+---
+iso: dkr
+name: Kuijau
+autonym: Hill Dusun
+population: 7910
+country_id: MY
+country_name: Malaysia
+status_id: 6b
+latitude: 5.47179
+longitude: 116.10842
+glottocode: kuij1237
+glottolog_family_id: aust1307
+glottolog_family_name: Austronesian
+glottolog_classification: "Austronesian > Malayo-Polynesian > North Borneo Malayo-Polynesian > Sabahan > Southwest Sabahan > Greater Dusunic > Dusunic > Kuijau"
+wikipedia_url: "https://en.wikipedia.org/wiki/Kuijau_language"
+---
+Kuijau (Kuiyow), also known as Hill Dusun, is an Austronesian language of Sabah, Malaysia.

@@ -1,0 +1,29 @@
+---
+iso: arq
+name: Algerian Arabic
+autonym: دارجة
+population: 29400000
+country_id: DZ
+country_name: Algeria
+status_id: "3"
+latitude: 35.42078
+longitude: 3.23033
+scripts: [Arab]
+glottocode: alge1239
+glottolog_family_id: afro1255
+glottolog_family_name: Afro-Asiatic
+glottolog_classification: "Afro-Asiatic > Semitic > West Semitic > Central Semitic > Arabian > Arabic > North African Arabic > Western Middle Arabic > Maghrebi > Algerian Arabic"
+wikipedia_url: "https://en.wikipedia.org/wiki/Algerian_Arabic"
+rolv_dialects:
+  - rolv_code: 6373
+    language_tag: ar-DZ-x-HIS06373
+    name: "Arabic, Algerian: Constantine"
+    country_id: DZ
+    location: "Algeria, Northeast"
+  - rolv_code: 7075
+    language_tag: ar-DZ-x-HIS07075
+    name: "Arabic, Algerian: Oran"
+    country_id: DZ
+    location: Algeria
+---
+Algerian Arabic, natively known as Dziria, Darja or Derja, is a variety of Arabic spoken in Algeria. It belongs to the Maghrebi Arabic dialect continuum and is mostly intelligible with the Tunisian and Moroccan dialects. Darja (الدارجة) means 'everyday/colloquial dialect'.

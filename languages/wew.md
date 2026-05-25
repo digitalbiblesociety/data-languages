@@ -1,0 +1,23 @@
+---
+iso: wew
+name: Wejewa
+autonym: West Sumbanese
+population: 55000
+country_id: ID
+country_name: Indonesia
+status_id: 6a
+latitude: -9.55099
+longitude: 119.34902
+glottocode: weje1237
+glottolog_family_id: aust1307
+glottolog_family_name: Austronesian
+glottolog_classification: "Austronesian > Malayo-Polynesian > Bima-Lembata > Sumba-Hawu > Sumba > Wewewa-Laboya > Wewewa"
+wikipedia_url: "https://en.wikipedia.org/wiki/Wejewa_language"
+rolv_dialects:
+  - rolv_code: 693
+    language_tag: wew-x-HIS00693
+    name: Lauli
+    country_id: ID
+    location: "Indonesia, Nusa Tenggara Timur (East), West Sumba"
+---
+Wejewa is an Austronesian language spoken on Sumba, Indonesia.

@@ -1,0 +1,48 @@
+---
+iso: khk
+name: Halh Mongolian
+autonym: монгол хэлᠮᠣᠩᠭᠣᠯ ᠬᠡᠯᠡ
+population: 2704000
+country_id: MN
+country_name: Mongolia
+status_id: "1"
+latitude: 48.32397
+longitude: 106.288735
+glottocode: halh1238
+glottolog_family_id: mong1349
+glottolog_family_name: Mongolic-Khitan
+glottolog_classification: "Mongolic-Khitan > Mongolic > Eastern Mongolic > Khalkha-Buriat > Mongolian > Halh Mongolian"
+wikipedia_url: "https://en.wikipedia.org/wiki/Khalkha_Mongolian"
+rolv_dialects:
+  - rolv_code: 9139
+    language_tag: mn-MN-x-HIS09139
+    name: "Mongolian, Halh: Darkhat"
+    country_id: MN
+    location: Mongolia
+  - rolv_code: 14230
+    language_tag: mn-MN-x-HIS14230
+    name: "Mongolian, Halh: Dariganga"
+    country_id: MN
+    location: Mongolia
+  - rolv_code: 14232
+    language_tag: mn-MN-x-HIS14232
+    name: "Mongolian, Halh: Khotogoit"
+    country_id: MN
+    location: Mongolia
+  - rolv_code: 14234
+    language_tag: mn-MN-x-HIS14234
+    name: "Mongolian, Halh: Tsongol"
+    country_id: MN
+    location: Mongolia
+  - rolv_code: 28904
+    language_tag: mn-MN-x-HIS28904
+    name: "Mongolian, Halh: Khotgoid"
+    country_id: RU
+    location: Russia
+  - rolv_code: 28905
+    language_tag: mn-x-HIS28905
+    name: "Mongolian, Halh: Sartuul"
+    country_id: MN
+    location: Mongolia
+---
+The Khalkha dialect is a dialect of central Mongolian widely spoken in Mongolia. According to some classifications, the Khalkha dialect includes Inner Mongolian varieties such as Shiliin gol, Ulaanchab and Sönid. As it was the basis for the Cyrillic orthography of Mongolian, it is de facto the national language of Mongolia. The name of the dialect is related to the name of the Khalkha Mongols and the Khalkha River.

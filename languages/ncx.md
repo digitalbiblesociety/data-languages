@@ -1,0 +1,17 @@
+---
+iso: ncx
+name: Central Puebla Nahuatl
+autonym: Xochiltepec–Huatlatlauca Nahuatl
+population: 1430
+country_id: MX
+country_name: Mexico
+status_id: 6b
+latitude: 18.75453
+longitude: -98.12635
+glottocode: cent2133
+glottolog_family_id: utoa1244
+glottolog_family_name: Uto-Aztecan
+glottolog_classification: "Uto-Aztecan > Southern Uto-Aztecan > Corachol-Aztecan > Aztec > Eastern Nahuatl > Central Puebla Nahuatl"
+wikipedia_url: "https://en.wikipedia.org/wiki/Central_Puebla_Nahuatl"
+---
+The Central Puebla Nahuatl language is a Nahuan language spoken by 16,000 people in Mexico with 1,430 monolinguals. It is also known as Central Puebla Aztec, Náhuatl del Suroeste de Puebla, and Southwestern Puebla Nahuatl. The language is spoken in the area south of the city of Puebla in the towns of Teopantlán, Tepatlaxco de Hidalgo, La Magdalena Yancuitlalpan, Atoyatempan, Huatlatlauca, and Huehuetlán near Molcaxac. It is written in the Latin script and is taught in most grammar schools of the area.

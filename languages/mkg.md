@@ -1,0 +1,38 @@
+---
+iso: mkg
+name: Mak (China)
+autonym: ʼai3 ma꞉k8
+population: 10000
+country_id: CN
+country_name: China
+status_id: "7"
+latitude: 25.59464
+longitude: 107.72616
+glottocode: makc1235
+glottolog_family_id: taik1256
+glottolog_family_name: Tai-Kadai
+glottolog_classification: "Tai-Kadai > Kam-Tai > Kam-Sui > Then-MMS > Maonan-Mak-Sui > Mak-Ai-Cham > Mak (China)"
+wikipedia_url: "https://en.wikipedia.org/wiki/Mak_language"
+rolv_dialects:
+  - rolv_code: 13342
+    language_tag: mkg-x-HIS13342
+    name: "Mak: Chi"
+    country_id: CN
+    location: "China, Guizhou, Qiannan Buyei Miao, Libo"
+  - rolv_code: 13343
+    language_tag: mkg-x-HIS13343
+    name: "Mak: Hwa"
+    country_id: CN
+    location: "China, Guizhou, Qiannan Buyei Miao, Libo"
+  - rolv_code: 13344
+    language_tag: mkg-x-HIS13344
+    name: "Mak: Lyo"
+    country_id: CN
+    location: "China, Guizhou, Qiannan Buyei Miao, Libo"
+  - rolv_code: 20894
+    language_tag: mkg-x-HIS20894
+    name: "Mak: Ching"
+    country_id: CN
+    location: "China, Guizhou, Qiannan Buyei Miao, Libo"
+---
+Maká is a Matacoan language spoken in Argentina and Paraguay by the Maká people. Its 1,500 speakers live primarily in Presidente Hayes Department near the Río Negro, as well as in and around Asunción.

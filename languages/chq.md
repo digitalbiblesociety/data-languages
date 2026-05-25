@@ -1,0 +1,23 @@
+---
+iso: chq
+name: Quiotepec Chinantec
+autonym: Jmii’
+population: 8000
+country_id: MX
+country_name: Mexico
+status_id: 6a
+latitude: 17.56211
+longitude: -96.60203
+glottocode: quio1240
+glottolog_family_id: otom1299
+glottolog_family_name: Otomanguean
+glottolog_classification: "Otomanguean > Western Otomanguean > Otopame-Chinantecan > Chinantecan > Chinantec Group V > Quiotepec Chinantec"
+wikipedia_url: "https://en.wikipedia.org/wiki/Highland_Chinantec_language"
+rolv_dialects:
+  - rolv_code: 8810
+    language_tag: chq-x-HIS08810
+    name: "Chinantec, Quiotepec: Yolox"
+    country_id: MX
+    location: "Mexico, Oaxaca, Ixtlan"
+---
+Highland Chinantec is a Chinantecan language of Mexico, spoken in Comaltepec, San Juan Quiotepec, and surrounding towns in northern Oaxaca. It has a complex system of tone and vowel length compared to other Chinantec languages. The two principal varieties, Quiotepec and Comaltepec, have marginal mutual intelligibility. Yolox Chinantec is somewhat less divergent.

@@ -1,0 +1,58 @@
+---
+iso: swp
+name: Suau
+autonym: Iou
+population: 7810
+country_id: PG
+country_name: Papua New Guinea
+status_id: "5"
+latitude: -10.66062
+longitude: 150.20977
+glottocode: suau1242
+glottolog_family_id: aust1307
+glottolog_family_name: Austronesian
+glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > Papuan Tip linkage > Nuclear Papuan Tip linkage > Suauic > Suau chain > Suau"
+wikipedia_url: "https://en.wikipedia.org/wiki/Suau_language"
+rolv_dialects:
+  - rolv_code: 2015
+    language_tag: swp-x-HIS02015
+    name: "Suau: Sagaho-Savaia"
+    country_id: PG
+    location: "Papua New Guinea, Milne Bay"
+  - rolv_code: 5150
+    language_tag: swp-x-HIS05150
+    name: "Suau: Lausaha"
+    country_id: PG
+    location: "Papua New Guinea, Milne Bay"
+  - rolv_code: 5151
+    language_tag: swp-x-HIS05151
+    name: "Suau: Sinaki"
+    country_id: PG
+    location: "Papua New Guinea, Milne Bay"
+  - rolv_code: 5152
+    language_tag: swp-x-HIS05152
+    name: "Suau: Bona Bona"
+    country_id: PG
+    location: "Papua New Guinea, Milne Bay"
+  - rolv_code: 5174
+    language_tag: swp-x-HIS05174
+    name: "Suau: Maisafana"
+    country_id: PG
+    location: "Papua New Guinea, Milne Bay"
+  - rolv_code: 16899
+    language_tag: swp-x-HIS16899
+    name: "Suau: Bonarua"
+    country_id: PG
+    location: "Papua New Guinea, Milne Bay"
+  - rolv_code: 16900
+    language_tag: swp-x-HIS16900
+    name: "Suau: Dahuni"
+    country_id: PG
+    location: "Papua New Guinea, Milne Bay"
+  - rolv_code: 16902
+    language_tag: swp-x-HIS16902
+    name: "Suau: Leileiafa"
+    country_id: PG
+    location: "Papua New Guinea, Milne Bay"
+---
+Suau, also known as Iou, is an Oceanic language spoken in the Milne Bay Province of Papua New Guinea. It is spoken by 6,800 people and a further 14,000 as a lingua franca.

@@ -1,0 +1,38 @@
+---
+iso: tci
+name: Wára
+autonym: Wára
+population: 700
+country_id: PG
+country_name: Papua New Guinea
+status_id: 6a
+latitude: -8.64917
+longitude: 141.52007
+glottocode: wara1294
+glottolog_family_id: more1255
+glottolog_family_name: Yam
+glottolog_classification: "Yam > Morehead-Maro > Tonda > Eastern Tonda > Anta-Komnzo-Wára-Wérè-Kémä"
+wikipedia_url: "https://en.wikipedia.org/wiki/Upper_Morehead_language"
+rolv_dialects:
+  - rolv_code: 25505
+    language_tag: tci-x-HIS25505
+    name: "Wára: Komnzo"
+    country_id: PG
+    location: "Papua New Guinea, Western"
+  - rolv_code: 25506
+    language_tag: tci-x-HIS25506
+    name: "Wára: Anta"
+    country_id: PG
+    location: "Papua New Guinea, Western"
+  - rolv_code: 25508
+    language_tag: tci-x-HIS25508
+    name: "Wára: Were"
+    country_id: PG
+    location: "Papua New Guinea, Western"
+  - rolv_code: 29956
+    language_tag: tci-x-HIS29956
+    name: "Wára: Kema"
+    country_id: PG
+    location: "Papua New Guinea, Western"
+---
+Upper Morehead, also known as Wára, is a Papuan language of New Guinea. Varieties are Wára (Vara), Kómnjo (Rouku), Anta, and Wèré (Wärä); these are divergent enough to sometimes be listed as distinct languages.

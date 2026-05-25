@@ -1,0 +1,17 @@
+---
+iso: nui
+name: Ngumbi
+autonym: Ngumbi
+population: 4000
+country_id: GQ
+country_name: Equatorial Guinea
+status_id: 6a
+latitude: 1.72096
+longitude: 9.73613
+glottocode: ngum1255
+glottolog_family_id: atla1278
+glottolog_family_name: Atlantic-Congo
+glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > Bantu A-B10-B20-B30 > Sawabantu > Bengaic > Yasa-Kombe > Ngumbi"
+wikipedia_url: "https://en.wikipedia.org/wiki/Kombe_language"
+---
+The Kombe language, or Ngumbi, is a Coastal Bantu language spoken by the Kombe people of Equatorial Guinea, one of the Ndowe peoples of the coast. It is mutually intelligible with Yasa.

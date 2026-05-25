@@ -1,0 +1,23 @@
+---
+iso: kpd
+name: Koba
+autonym: null
+population: 600
+country_id: ID
+country_name: Indonesia
+status_id: 6a
+latitude: -6.47901
+longitude: 134.60959
+glottocode: koba1240
+glottolog_family_id: aust1307
+glottolog_family_name: Austronesian
+glottolog_classification: "Austronesian > Malayo-Polynesian > Aru > Central Aru > Dobel-Koba > Koba"
+wikipedia_url: "https://en.wikipedia.org/wiki/Koba_language"
+rolv_dialects:
+  - rolv_code: 25867
+    language_tag: kpd-x-HIS25867
+    name: "Koba: Southeast"
+    country_id: ID
+    location: "Indonesia, Maluku"
+---
+Koba is a language spoken on the Aru Islands of eastern Indonesia. It is close to Dobel, though mutual comprehension is low.

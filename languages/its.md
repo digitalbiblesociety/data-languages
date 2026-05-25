@@ -1,0 +1,17 @@
+---
+iso: its
+name: Isekiri
+autonym: Itsekiri
+population: 893000
+country_id: NG
+country_name: Nigeria
+status_id: "5"
+latitude: 5.81898
+longitude: 5.5862
+glottocode: isek1239
+glottolog_family_id: atla1278
+glottolog_family_name: Atlantic-Congo
+glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Defoid > Yoruboid > Edekiri > Isekiri"
+wikipedia_url: "https://en.wikipedia.org/wiki/Itsekiri_language"
+---
+The Itsekiri language is a major branch of the Yoruboid group of languages, which as a group, is a key member of the Volta–Niger sub-family of the Niger–Congo family of African languages. Itsekiri is spoken by nearly 1,000,000 people in Nigeria as a first language and by many others as an additional language notably in the Niger Delta and in parts of Edo and Ondo states of Nigeria. The other key members of the Yoruboid group are Yoruba and Igala along with the various Yoruba dialects spoken in Benin and Togo.

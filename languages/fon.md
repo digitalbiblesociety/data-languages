@@ -1,0 +1,29 @@
+---
+iso: fon
+name: Fon
+autonym: fɔ̀ngbè/fõbè
+population: 2067900
+country_id: BJ
+country_name: Benin
+status_id: "3"
+latitude: 7.154835
+longitude: 1.664945
+scripts: [Latn]
+glottocode: fonn1241
+glottolog_family_id: atla1278
+glottolog_family_name: Atlantic-Congo
+glottolog_classification: "Atlantic-Congo > Volta-Congo > Kwa Volta-Congo > Gbe > Eastern Gbe > Fongbeic > Fon"
+wikipedia_url: "https://en.wikipedia.org/wiki/Fon_language"
+rolv_dialects:
+  - rolv_code: 9853
+    language_tag: fon-x-HIS09853
+    name: "Fon: Agbome"
+    country_id: BJ
+    location: Benin
+  - rolv_code: 24894
+    language_tag: fon-x-HIS24894
+    name: "Fon: Kpase"
+    country_id: BJ
+    location: Benin
+---
+Fon, also known as Dahomean or Beninese, is the language of the Fon people. It belongs to the Gbe group within the larger Atlantic–Congo family. It is primarily spoken in Benin, as well as in Nigeria and Togo by approximately 2.3 million speakers. Like the other Gbe languages, Fon is an isolating language with a SVO basic word order.

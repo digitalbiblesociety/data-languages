@@ -1,0 +1,17 @@
+---
+iso: bht
+name: Bhattiyali
+autonym: Bhateali
+population: 24000
+country_id: IN
+country_name: India
+status_id: 6a
+latitude: 32.40218
+longitude: 76.03107
+glottocode: bhat1263
+glottolog_family_id: indo1319
+glottolog_family_name: Indo-European
+glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Indo-Aryan > Middle-Modern Indo-Aryan > Eastern Dardic > Himachali > Kangric-Chamealic-Bhattiyali > Chamealic > Bhattiyali"
+wikipedia_url: "https://en.wikipedia.org/wiki/Bhateali"
+---
+Bhateali, or Bhattiyali, is a Western Pahari language of Himachal Pradesh in northern India. It Is spoken majorily in the Bhattiyat division of Chamba, Dalhousie as well as Nurpur division of Kangra and hilly parts of Pathankot district of Punjab. The 2011 Indian Census counted 15,347 speakers, of which 15,107 were found in Chamba district of Himachal Pradesh.

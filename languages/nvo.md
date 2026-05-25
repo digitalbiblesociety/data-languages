@@ -1,0 +1,17 @@
+---
+iso: nvo
+name: Nyokon
+autonym: "Nyo'o"
+population: 3900
+country_id: CM
+country_name: Cameroon
+status_id: 6a
+latitude: 4.75
+longitude: 10.5
+glottocode: nyok1243
+glottolog_family_id: atla1278
+glottolog_family_name: Atlantic-Congo
+glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > Mbam-Bubi > Mbam > Nuclear Mbam > Sanaga-West Mbam (A.40) > West Mbam (A.40) > Mandi-Nyokon > Nyokon"
+wikipedia_url: "https://en.wikipedia.org/wiki/Nyokon_language"
+---
+The Nyokon language, also known as Nyo'o (ninyɔ̃'ɔ̃), is a Southern Bantoid language of Cameroon.

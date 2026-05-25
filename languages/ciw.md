@@ -1,0 +1,38 @@
+---
+iso: ciw
+name: Chippewa
+autonym: Ojibwa
+population: 104000
+country_id: US
+country_name: United States
+status_id: "7"
+latitude: 47.34704
+longitude: -94.27376
+glottocode: chip1241
+glottolog_family_id: algi1248
+glottolog_family_name: Algic
+glottolog_classification: "Algic > Algonquian-Blackfoot > Algonquian > Eastern Great Lakes Algonquian > Ojibwa-Potawatomi > Ojibwa > Nuclear Ojibwe > Central-Eastern-Southwestern Ojibwa > Chippewa"
+wikipedia_url: "https://en.wikipedia.org/wiki/Chippewa_language"
+rolv_dialects:
+  - rolv_code: 8887
+    language_tag: ciw-x-HIS08887
+    name: "Chippewa: Minnesota Border"
+    country_id: US
+    location: "United States of America, Michigan"
+  - rolv_code: 8888
+    language_tag: ciw-x-HIS08888
+    name: "Chippewa: Red Lake Chippewa"
+    country_id: US
+    location: "United States of America, Michigan"
+  - rolv_code: 8889
+    language_tag: ciw-x-HIS08889
+    name: "Chippewa: Upper Michigan-Wisconsin"
+    country_id: US
+    location: "United States of America, Michigan"
+  - rolv_code: 20788
+    language_tag: ciw-x-HIS20788
+    name: "Chippewa: Central Minnesota"
+    country_id: US
+    location: "United States of America, Michigan"
+---
+Chippewa is an Algonquian language spoken from upper Michigan westward to North Dakota in the United States. It represents the southern component of the Ojibwe language.

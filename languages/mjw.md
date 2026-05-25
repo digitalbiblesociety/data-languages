@@ -1,0 +1,38 @@
+---
+iso: mjw
+name: Karbi
+autonym: Arleng
+population: 529000
+country_id: IN
+country_name: India
+status_id: "5"
+latitude: 25.7317
+longitude: 93.04624
+glottocode: karb1241
+glottolog_family_id: sino1245
+glottolog_family_name: Sino-Tibetan
+glottolog_classification: "Sino-Tibetan > Kuki-Chin-Naga > Karbic > Hills Karbi"
+wikipedia_url: "https://en.wikipedia.org/wiki/Karbi_language"
+rolv_dialects:
+  - rolv_code: 6172
+    language_tag: mjw-x-HIS06172
+    name: "Karbi: Amri"
+    country_id: IN
+    location: "India, Assam"
+  - rolv_code: 25218
+    language_tag: mjw-x-HIS25218
+    name: "Karbi: Chingthang"
+    country_id: IN
+    location: "India, Assam"
+  - rolv_code: 25219
+    language_tag: mjw-x-HIS25219
+    name: "Karbi: Rong Kethang"
+    country_id: IN
+    location: "India, Assam"
+  - rolv_code: 25796
+    language_tag: mjw-x-HIS25796
+    name: "Karbi: Mirlong"
+    country_id: IN
+    location: "India, Assam"
+---
+The Karbi language is a Tibeto-Burman language spoken by the Karbi people of Northeastern India. It is also called Hills Karbi to differentiate it from Plains Karbi which is variously treated as a variety of Karbi or its own language.

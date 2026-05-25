@@ -1,0 +1,38 @@
+---
+iso: mrt
+name: Marghi Central
+autonym: Marghi
+population: 226000
+country_id: NG
+country_name: Nigeria
+status_id: 6a
+latitude: 10.83854
+longitude: 12.99521
+glottocode: marg1265
+glottolog_family_id: afro1255
+glottolog_family_name: Afro-Asiatic
+glottolog_classification: "Afro-Asiatic > Chadic > Biu-Mandara > North Biu-Mandara > Margi-Mandara-Mofu > Bura-Marghi > Marghic > Marghi Central"
+wikipedia_url: "https://en.wikipedia.org/wiki/Margi_language"
+rolv_dialects:
+  - rolv_code: 13716
+    language_tag: mrt-x-HIS13716
+    name: "Marghi Central: Gulak"
+    country_id: NG
+    location: "Nigeria, Borno"
+  - rolv_code: 13718
+    language_tag: mrt-x-HIS13718
+    name: "Marghi Central: Madube"
+    country_id: NG
+    location: "Nigeria, Borno"
+  - rolv_code: 13719
+    language_tag: mrt-x-HIS13719
+    name: "Marghi Central: Mulgwe"
+    country_id: NG
+    location: "Nigeria, Borno"
+  - rolv_code: 13720
+    language_tag: mrt-x-HIS13720
+    name: "Marghi Central: Wurga"
+    country_id: NG
+    location: "Nigeria, Borno"
+---
+Margi, also known as Marghi and Marghi Central, is a Chadic language spoken in Nigeria, Cameroon, and Chad. It is perhaps the best described of the Biu–Mandara branch of that family. Marghi South language and Putai are closely related and sometimes considered dialects of Margi.

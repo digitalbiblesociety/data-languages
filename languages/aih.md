@@ -1,0 +1,28 @@
+---
+iso: aih
+name: "Ai-Cham"
+autonym: Atsam
+population: 2700
+country_id: CN
+country_name: China
+status_id: 6b
+latitude: 25.49083
+longitude: 107.84359
+glottocode: aich1238
+glottolog_family_id: taik1256
+glottolog_family_name: Tai-Kadai
+glottolog_classification: "Tai-Kadai > Kam-Tai > Kam-Sui > Then-MMS > Maonan-Mak-Sui > Mak-Ai-Cham > Ai-Cham"
+wikipedia_url: "https://en.wikipedia.org/wiki/Ai-Cham_language"
+rolv_dialects:
+  - rolv_code: 6769
+    language_tag: aih-x-HIS06769
+    name: "Ai-Cham: Boyao"
+    country_id: CN
+    location: "China, Guizhou, Qiannan Buyei Miao, Libo"
+  - rolv_code: 6770
+    language_tag: aih-x-HIS06770
+    name: "Ai-Cham: Di'e"
+    country_id: CN
+    location: "China, Guizhou, Qiannan Buyei Miao, Libo"
+---
+Ai-Cham is a Kam–Sui language spoken mainly in Diwo 地莪 and Boyao 播尧 Townships, Jialiang District, Libo County, Qiannan Prefecture, Guizhou, China. Alternative names for the language are Jiamuhua, Jinhua and Atsam. Fang-Kuei Li first distinguished the language in 1943. Nearby languages include Bouyei and Mak. However, Yang (2000) considers Ai-Cham and Mak to be different dialects of an identical language.

@@ -1,0 +1,13 @@
+---
+iso: sik
+name: Sikiana
+autonym: Kaxuiâna (Katxúyana)
+population: 12
+country_id: BR
+country_name: Brazil
+status_id: 8a
+latitude: 3.01294
+longitude: -57.92215
+wikipedia_url: "https://en.wikipedia.org/wiki/Sikiana_language"
+---
+Sikiana, or Kashuyana, is a Carib language that is spoken by no more than 12 people in Suriname. It was previously spoken in Venezuela at one time and is now probably extinct there. The Warikyana dialect became extinct around 2000, and the language frequently goes by the name of the surviving dialect, Sikiana.

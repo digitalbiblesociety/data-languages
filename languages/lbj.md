@@ -1,0 +1,33 @@
+---
+iso: lbj
+name: Ladakhi
+autonym: ལ་དྭགས་ཀྱི་སྐད།
+population: 27000
+country_id: IN
+country_name: India
+status_id: "5"
+latitude: 33.468005
+longitude: 80.601305
+glottocode: lada1244
+glottolog_family_id: sino1245
+glottolog_family_name: Sino-Tibetan
+glottolog_classification: "Sino-Tibetan > Bodic > Bodish > Early Old Tibetan > Western Archaic Tibetan > Kenhatic > Leh Ladakhi"
+wikipedia_url: "https://en.wikipedia.org/wiki/Ladakhi_language"
+rolv_dialects:
+  - rolv_code: 12657
+    language_tag: lbj-x-HIS12657
+    name: "Ladakhi: Leh"
+    country_id: IN
+    location: "India, Jammu and Kashmir"
+  - rolv_code: 12658
+    language_tag: lbj-x-HIS12658
+    name: "Ladakhi: Nubra"
+    country_id: IN
+    location: "India, Jammu and Kashmir"
+  - rolv_code: 12659
+    language_tag: lbj-x-HIS12659
+    name: "Ladakhi: Shamma"
+    country_id: IN
+    location: "India, Jammu and Kashmir"
+---
+The Ladakhi language is a Tibetic language spoken in the Indian union territory of Ladakh. It is the predominant language in the Buddhist-dominated district of Leh, and a minority language in the district of Kargil.

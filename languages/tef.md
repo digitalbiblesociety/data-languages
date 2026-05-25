@@ -1,0 +1,23 @@
+---
+iso: tef
+name: Teressa
+autonym: "Taih-Long"
+population: 2080
+country_id: IN
+country_name: India
+status_id: 6a
+latitude: 8.23716
+longitude: 93.12972
+glottocode: tere1272
+glottolog_family_id: aust1305
+glottolog_family_name: Austroasiatic
+glottolog_classification: "Austroasiatic > Nicobaric > Nuclear Nicobaric > Chowra-Teressa > Teressa"
+wikipedia_url: "https://en.wikipedia.org/wiki/Teressa_language"
+rolv_dialects:
+  - rolv_code: 17391
+    language_tag: tef-x-HIS17391
+    name: "Teressa: Bompoka"
+    country_id: IN
+    location: "India, Andaman and Nicobar Islands"
+---
+Teressa, or Taih-Long is one of the Nicobarese languages spoken on the Teressa Island of Nicobar Islands in India. Bompoka dialect (Pauhut) is distinct. As of 2001, there are 2,080 speakers.

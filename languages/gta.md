@@ -1,0 +1,14 @@
+---
+iso: gta
+name: Guató
+autonym: go-t͡ʃéuvɨ́ i-ótɨ́
+population: 382
+country_id: BR
+country_name: Brazil
+status_id: 8b
+latitude: -17.86961
+longitude: -57.28974
+glottocode: guat1253
+wikipedia_url: "https://en.wikipedia.org/wiki/Guat%C3%B3_language"
+---
+Guató is a language isolate spoken by two of the Guató people of Brazil. It has variously been claimed to be of Macro-Jê or isolate affiliation. Guató is a VSO language, has agglutination, and has ergative alignment.

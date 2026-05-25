@@ -1,0 +1,23 @@
+---
+iso: sjp
+name: Surjapuri
+autonym: Sura
+population: 2260000
+country_id: IN
+country_name: India
+status_id: 6a
+latitude: 25.686
+longitude: 85.792
+glottocode: surj1235
+glottolog_family_id: indo1319
+glottolog_family_name: Indo-European
+glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Indo-Aryan > Middle-Modern Indo-Aryan > Continental Indo-Aryan > Indo-Aryan Eastern zone > Oriya-Gauda-Kamrupa > Gauda-Kamrupa > Kamrupa > Kamta > Western Kamta > Surjapuri"
+wikipedia_url: "https://en.wikipedia.org/wiki/Surjapuri_language"
+rolv_dialects:
+  - rolv_code: 30256
+    language_tag: sjp-x-HIS30256
+    name: "Suryapuri: Musalmani"
+    country_id: IN
+    location: "India, Bihar"
+---
+Surjapuri is an Indo-Aryan language of the Bengali-Assamese branch, spoken in Eastern India, in the Kosi-Seemanchal region, including some eastern parts of Purnia division of Bihar, parts of Uttar Dinajpur district in West Bengal and Goalpara Division of Assam in India, as well as parts of Thakurgaon district in Bangladesh and Jhapa district in Nepal. Among speakers in some regions, it is known as 'Deshi Bhasa'. It possesses similarities with Kamatapuri, Assamese, Bengali, Maithili, Urdu, and Hindi.

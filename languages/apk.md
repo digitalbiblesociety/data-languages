@@ -1,0 +1,17 @@
+---
+iso: apk
+name: Kiowa Apache
+autonym: Kiowa Apache
+population: 1000
+country_id: US
+country_name: United States
+status_id: 8b
+latitude: 34.90771
+longitude: -98.24612
+glottocode: kiow1264
+glottolog_family_id: atha1245
+glottolog_family_name: Athabaskan-Eyak-Tlingit
+glottolog_classification: "Athabaskan-Eyak-Tlingit > Athabaskan-Eyak > Athabaskan > Apachean > Kiowa Apache"
+wikipedia_url: "https://en.wikipedia.org/wiki/Plains_Apache_language"
+---
+The Plains Apache language is a Southern Athabaskan language formerly spoken by the Plains Apache, organized as the Apache Tribe of Oklahoma, living primarily around Anadarko in southwest Oklahoma. The language is extinct as of 2008, when Alfred Chalepah, Jr., the last native speaker, died.

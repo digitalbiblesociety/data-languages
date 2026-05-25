@@ -1,0 +1,21 @@
+---
+iso: vmc
+name: Juxtlahuaca Mixtec
+autonym: Central Juxtlahuaca Mixtec
+population: 16000
+country_id: MX
+country_name: Mexico
+status_id: 6a
+latitude: 17.3518
+longitude: -98.01463
+glottocode: juxt1235
+glottolog_family_id: otom1299
+glottolog_family_name: Otomanguean
+glottolog_classification: "Otomanguean > Eastern Otomanguean > Amuzgo-Mixtecan > Mixtecan > Mixtec-Cuicatec > Mixtec > Juxtlahuaca Mixtec"
+rolv_dialects:
+  - rolv_code: 20034
+    language_tag: vmc-x-HIS20034
+    name: "Mixtec: San Martin Duraznos"
+    country_id: MX
+    location: "Mexico, Oaxaca"
+---

@@ -1,0 +1,17 @@
+---
+iso: mqi
+name: Mariri
+autonym: Mairiri
+population: 390
+country_id: ID
+country_name: Indonesia
+status_id: 6a
+latitude: -6.15619
+longitude: 134.87268
+glottocode: mari1430
+glottolog_family_id: aust1307
+glottolog_family_name: Austronesian
+glottolog_classification: "Austronesian > Malayo-Polynesian > Aru > Batuley-Mariri > Mariri"
+wikipedia_url: "https://en.wikipedia.org/wiki/Mariri_language"
+---
+Mariri (Mairiri) is an Austronesian language spoken on the Aru Islands of eastern Indonesia. It is close to Batuley.

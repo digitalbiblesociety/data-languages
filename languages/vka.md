@@ -1,0 +1,15 @@
+---
+iso: vka
+name: Kariyarra
+autonym: Kariyarra
+population: null
+country_id: AU
+country_name: Australia
+status_id: "10"
+latitude: -20.445
+longitude: 118.613
+glottocode: kari1304
+glottolog_family_id: pama1250
+glottolog_family_name: Pama-Nyungan
+glottolog_classification: "Pama-Nyungan > South-West Pama-Nyungan > Pilbara > Ngayarda > Central Ngayarda > Ngarluma-Kariyarra > Kariyarra"
+---

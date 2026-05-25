@@ -1,0 +1,33 @@
+---
+iso: gui
+name: Eastern Bolivian Guaraní
+autonym: Western Argentine Guaraní
+population: 69530
+country_id: BO
+country_name: Bolivia
+status_id: "5"
+latitude: -21.090935
+longitude: -61.717855
+glottocode: east2555
+glottolog_family_id: tupi1275
+glottolog_family_name: Tupian
+glottolog_classification: "Tupian > Eastern Tupian > Maweti-Guarani > Aweti-Guarani > Tupi-Guarani > Southern Tupi-Guarani > Tupi-Guarani Subgroup I > Tupi-Guarani Subgroup I.B > Chiriguanic > Eastern Bolivian Guaraní"
+wikipedia_url: "https://en.wikipedia.org/wiki/Eastern_Bolivian_Guaran%C3%AD_language"
+rolv_dialects:
+  - rolv_code: 180
+    language_tag: gn-BO-x-HIS00180
+    name: "Guarani, Eastern Bolivian: Ava"
+    country_id: BO
+    location: Bolivia
+  - rolv_code: 10373
+    language_tag: gui-x-HIS10373
+    name: "Guarani, Western Argentine: Chane"
+    country_id: AR
+    location: "Argentina, Jujuy"
+  - rolv_code: 10376
+    language_tag: gui-x-HIS10376
+    name: "Guarani, Eastern Bolivian: Izoceno"
+    country_id: BO
+    location: "Bolivia, Santa Cruz"
+---
+Eastern Bolivian Guaraní, known locally as Chawuncu or Chiriguano (pejorative), is a Guaraní language spoken in South America. In Bolivia 33,670 speakers, called the Ava Guaraní people were counted in the year 2000, in the south-central Parapeti River area and in the city of Tarija. In Argentina, there were approximately 15,000 speakers, mostly in Jujuy, but also in Salta Province, and 304 counted in the Paraguayan Chaco.

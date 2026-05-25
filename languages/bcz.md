@@ -1,0 +1,31 @@
+---
+iso: bcz
+name: "Bainouk-Gunyaamolo"
+autonym: Bainouk
+population: 30000
+country_id: SN
+country_name: Senegal
+status_id: 6b
+latitude: 12.867215
+longitude: -16.22898
+glottocode: bain1261
+glottolog_family_id: atla1278
+glottolog_family_name: Atlantic-Congo
+glottolog_classification: "Atlantic-Congo > North-Central Atlantic > Wolof-BKK > Nyun > Bainounk > Bainouk-Gunyaamolo-Gutobor"
+rolv_dialects:
+  - rolv_code: 1852
+    language_tag: bcz-x-HIS01852
+    name: Banhum
+    country_id: SN
+    location: Senegal
+  - rolv_code: 7545
+    language_tag: bcz-x-HIS07545
+    name: "Bainouk-Gunyaamolo: Gujaaxet"
+    country_id: SN
+    location: Senegal
+  - rolv_code: 7546
+    language_tag: bcz-x-HIS07546
+    name: "Bainouk-Gunyaamolo: Gunyamoolo"
+    country_id: SN
+    location: Senegal
+---

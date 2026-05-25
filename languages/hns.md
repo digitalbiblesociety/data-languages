@@ -1,0 +1,23 @@
+---
+iso: hns
+name: Caribbean Hindustani
+autonym: "Caribbean Hindi-Urdu"
+population: 298600
+country_id: SR
+country_name: Suriname
+status_id: "5"
+latitude: 7.67349
+longitude: -58.56973
+glottocode: cari1275
+glottolog_family_id: indo1319
+glottolog_family_name: Indo-European
+glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Indo-Aryan > Middle-Modern Indo-Aryan > Continental Indo-Aryan > Midlands Indo-Aryan > Shaurasenic > Bihari > Magadhan > Bhojpuric > Caribbean Hindustani"
+wikipedia_url: "https://en.wikipedia.org/wiki/Caribbean_Hindustani"
+rolv_dialects:
+  - rolv_code: 10639
+    language_tag: hns-x-HIS10639
+    name: "Hindustani, Caribbean: Trinidad Bhojpuri"
+    country_id: SR
+    location: Suriname
+---
+Caribbean Hindustani is an Indo-Aryan language spoken by Indo-Caribbean people and the Indo-Caribbean diaspora. It is a koiné language mainly based on the Bhojpuri. It is the most-spoken language of the Indians who came as immigrants to the Caribbean from India as indentured laborers. It is closely related to Fiji Hindi and the Bhojpuri spoken in Mauritius and South Africa. Caribbean Hindustani is a unique form of Bhojpuri that evolved out of various speech forms brought by the Indian indentured immigrants.

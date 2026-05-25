@@ -1,0 +1,21 @@
+---
+iso: xdo
+name: Kwandu
+autonym: null
+population: null
+country_id: ZM
+country_name: Zambia
+status_id: null
+latitude: -13.80147
+longitude: 13.11922
+glottocode: kwan1289
+glottolog_family_id: atla1278
+glottolog_family_name: Atlantic-Congo
+glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > Central-Western Bantu > Njila > Southern Njila > Kunene > Cimbebasia > Kwandu"
+rolv_dialects:
+  - rolv_code: 29223
+    language_tag: xdo-x-HIS29223
+    name: "Kwandu: Zambia"
+    country_id: ZM
+    location: Zambia
+---

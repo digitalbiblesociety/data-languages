@@ -1,0 +1,17 @@
+---
+iso: spg
+name: Sian
+autonym: Sihan
+population: 50
+country_id: MY
+country_name: Malaysia
+status_id: "7"
+latitude: 2.66154
+longitude: 113.84266
+glottocode: sian1255
+glottolog_family_id: aust1307
+glottolog_family_name: Austronesian
+glottolog_classification: "Austronesian > Malayo-Polynesian > North Borneo Malayo-Polynesian > Central Sarawak > Punan-Muller-Schwaner > Punan > Aput-Busang-Merah-Kohi > Sihan"
+wikipedia_url: "https://en.wikipedia.org/wiki/Sian_language"
+---
+Sian (Sihan) is a Kajang language of Brunei and Sarawak.

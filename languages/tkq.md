@@ -1,0 +1,17 @@
+---
+iso: tkq
+name: Tee
+autonym: Tai
+population: 425000
+country_id: NG
+country_name: Nigeria
+status_id: 6a
+latitude: 4.73213
+longitude: 7.37553
+glottocode: teee1242
+glottolog_family_id: atla1278
+glottolog_family_name: Atlantic-Congo
+glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Delta Cross > Ogonoid > East Ogonoid > Tai-Kana > Tee"
+wikipedia_url: "https://en.wikipedia.org/wiki/Tee_language"
+---
+Tẹẹ, or Tai, is an Ogoni language and the language of the Tai tribe of the Ogoni people of Rivers State, Nigeria. It is to a limited degree mutually intelligible with Khana, the main Ogoni language, but its speakers consider it to be a separate language.

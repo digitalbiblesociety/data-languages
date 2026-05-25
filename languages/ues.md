@@ -1,0 +1,21 @@
+---
+iso: ues
+name: Kioko
+autonym: null
+population: 1000
+country_id: ID
+country_name: Indonesia
+status_id: 6b
+latitude: -4.99012
+longitude: 122.95138
+glottocode: kiok1239
+glottolog_family_id: aust1307
+glottolog_family_name: Austronesian
+glottolog_classification: "Austronesian > Malayo-Polynesian > Celebic > Greater Eastern Celebic > Eastern Celebic > Southeastern Celebic > Muna-Buton > Nuclear Muna-Buton > Munan > Munic > Western Munic > Kioko"
+rolv_dialects:
+  - rolv_code: 12030
+    language_tag: ues-x-HIS12030
+    name: "Kioko: Kambowa"
+    country_id: ID
+    location: "Indonesia, Sulawesi Tenggara (Southeast)"
+---

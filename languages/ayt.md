@@ -1,0 +1,23 @@
+---
+iso: ayt
+name: Magbukun Ayta
+autonym: Bataan Ayta
+population: 1000
+country_id: PH
+country_name: Philippines
+status_id: 6b
+latitude: 14.41534
+longitude: 120.48961
+glottocode: bata1297
+glottolog_family_id: aust1307
+glottolog_family_name: Austronesian
+glottolog_classification: "Austronesian > Malayo-Polynesian > Central Luzon > Sambalic > Bataan Ayta"
+wikipedia_url: "https://en.wikipedia.org/wiki/Marivele%C3%B1o_language"
+rolv_dialects:
+  - rolv_code: 4736
+    language_tag: ayt-x-HIS04736
+    name: "Ayta: Kadmang"
+    country_id: PH
+    location: "Philippines, Luzon, Central Luzon, Bataan"
+---
+Mariveleño is a Sambalic language. It has around 500 speakers and is spoken within an Aeta community in Mariveles in the Philippines.

@@ -1,0 +1,28 @@
+---
+iso: asl
+name: Asilulu
+autonym: null
+population: 8760
+country_id: ID
+country_name: Indonesia
+status_id: 6b
+latitude: -3.67302
+longitude: 127.9523
+glottocode: asil1242
+glottolog_family_id: aust1307
+glottolog_family_name: Austronesian
+glottolog_classification: "Austronesian > Malayo-Polynesian > Nunusaku > Piru Bay > West Piru Bay > Asilulu"
+wikipedia_url: "https://en.wikipedia.org/wiki/Asilulu_language"
+rolv_dialects:
+  - rolv_code: 7280
+    language_tag: asl-x-HIS07280
+    name: "Asilulu: Negeri Lima"
+    country_id: ID
+    location: "Indonesia, Maluku"
+  - rolv_code: 7281
+    language_tag: asl-x-HIS07281
+    name: "Asilulu: Ureng"
+    country_id: ID
+    location: "Indonesia, Maluku"
+---
+Asilulu is an Austronesian language of Ambon Island in the Moluccas, with some speakers on west Seram. It is a local trade language.

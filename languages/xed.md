@@ -1,0 +1,23 @@
+---
+iso: xed
+name: Hdi
+autonym: Xədi
+population: 29000
+country_id: CM
+country_name: Cameroon
+status_id: "5"
+latitude: 10.94202
+longitude: 13.68811
+glottocode: hdii1240
+glottolog_family_id: afro1255
+glottolog_family_name: Afro-Asiatic
+glottolog_classification: "Afro-Asiatic > Chadic > Biu-Mandara > North Biu-Mandara > Lamang-Hdi > Hdi"
+wikipedia_url: "https://en.wikipedia.org/wiki/Hdi_language"
+rolv_dialects:
+  - rolv_code: 2813
+    language_tag: xed-x-HIS02813
+    name: "Hdi: Tur"
+    country_id: NG
+    location: "Nigeria, Borno"
+---
+Hdi is an Afro-Asiatic language of Cameroon and Nigeria.

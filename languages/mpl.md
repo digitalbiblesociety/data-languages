@@ -1,0 +1,36 @@
+---
+iso: mpl
+name: Middle Watut
+autonym: Maraliinan
+population: 1350
+country_id: PG
+country_name: Papua New Guinea
+status_id: 6a
+latitude: -6.81404
+longitude: 146.32061
+glottocode: midd1327
+glottolog_family_id: aust1307
+glottolog_family_name: Austronesian
+glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > North New Guinea linkage > Huon Gulf > Markham > Watut > Middle Watut"
+rolv_dialects:
+  - rolv_code: 25231
+    language_tag: mpl-x-HIS25231
+    name: "Kodut, Middle: Tsangg"
+    country_id: PG
+    location: "Papua New Guinea, Morobe"
+  - rolv_code: 25232
+    language_tag: mpl-x-HIS25232
+    name: "Kodut, Middle: Zowents"
+    country_id: PG
+    location: "Papua New Guinea, Morobe"
+  - rolv_code: 26295
+    language_tag: mpl-x-HIS26295
+    name: "Kodut, Middle: Babuaf"
+    country_id: PG
+    location: "Papua New Guinea, Morobe"
+  - rolv_code: 26296
+    language_tag: mpl-x-HIS26296
+    name: "Kodut, Middle: Borar"
+    country_id: PG
+    location: "Papua New Guinea, Morobe"
+---

@@ -1,0 +1,28 @@
+---
+iso: bwt
+name: "Bafaw-Balong"
+autonym: Balong
+population: 8400
+country_id: CM
+country_name: Cameroon
+status_id: 6a
+latitude: 4.53307
+longitude: 9.522
+glottocode: bafa1247
+glottolog_family_id: atla1278
+glottolog_family_name: Atlantic-Congo
+glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > Bantu A-B10-B20-B30 > Lundu-Balong (A.10) > Greater Manenguba > Bafaw-Balong-Manenguba > Bafawic-Bakweric > Bafawic > Bafaw-Balong"
+wikipedia_url: "https://en.wikipedia.org/wiki/Bafaw-Balong_language"
+rolv_dialects:
+  - rolv_code: 2635
+    language_tag: bwt-x-HIS02635
+    name: "Bafaw-Balong: Bafo"
+    country_id: CM
+    location: "Cameroon, Sud-Ouest"
+  - rolv_code: 24567
+    language_tag: bwt-x-HIS24567
+    name: "Bafaw-Balong: Balong"
+    country_id: CM
+    location: "Cameroon, Sud-Ouest"
+---
+Bafaw-Balong is a Bantu language of Cameroon. There are two divergent varieties, Fo’ and Long, which are sometimes considered distinct languages.

@@ -1,0 +1,15 @@
+---
+iso: sdx
+name: Sibu Melanau
+autonym: Central Melanau
+population: 420
+country_id: MY
+country_name: Malaysia
+status_id: "7"
+latitude: 2.26758
+longitude: 111.76305
+glottocode: sibu1258
+glottolog_family_id: aust1307
+glottolog_family_name: Austronesian
+glottolog_classification: "Austronesian > Malayo-Polynesian > North Borneo Malayo-Polynesian > Central Sarawak > Melanau-Kajang > Melanau > Sibu-Kanowit-Tanjong > Sibu Melanau"
+---

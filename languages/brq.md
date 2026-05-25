@@ -1,0 +1,28 @@
+---
+iso: brq
+name: Breri
+autonym: Kuanga
+population: 1100
+country_id: PG
+country_name: Papua New Guinea
+status_id: 6a
+latitude: -4.73271
+longitude: 144.70718
+glottocode: brer1240
+glottolog_family_id: ramu1234
+glottolog_family_name: Ramu
+glottolog_classification: "Ramu > Goam > Tamolan > Breri-Romkun > Breri"
+wikipedia_url: "https://en.wikipedia.org/wiki/Iski_language"
+rolv_dialects:
+  - rolv_code: 28505
+    language_tag: brq-x-HIS28505
+    name: "Breri: Kwanga"
+    country_id: PG
+    location: "Papua New Guinea, Madang"
+  - rolv_code: 28506
+    language_tag: brq-x-HIS28506
+    name: "Breri: Misingi"
+    country_id: PG
+    location: "Papua New Guinea, Madang"
+---
+Iski is a Ramu language of Papua New Guinea. Dialects are Breri a.k.a. Kuanga and Romkun.

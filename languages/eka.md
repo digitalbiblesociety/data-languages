@@ -1,0 +1,39 @@
+---
+iso: eka
+name: Ekajuk
+autonym: Akajo
+population: 63000
+country_id: NG
+country_name: Nigeria
+status_id: 6a
+latitude: 6.45731
+longitude: 8.55058
+scripts: [Latn]
+glottocode: ekaj1238
+glottolog_family_id: atla1278
+glottolog_family_name: Atlantic-Congo
+glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Ekoid-Mbe > Ekoid > Bakor-Ejagham > Bakor > Northern Bakor > Nnam-Ekajuk > Ekajuk"
+wikipedia_url: "https://en.wikipedia.org/wiki/Kajuk_language"
+rolv_dialects:
+  - rolv_code: 23937
+    language_tag: eka-x-HIS23937
+    name: "Ekajuk: Ebanimbim"
+    country_id: NG
+    location: "Nigeria, Cross River"
+  - rolv_code: 23938
+    language_tag: eka-x-HIS23938
+    name: "Ekajuk: Ekagongho"
+    country_id: NG
+    location: "Nigeria, Cross River"
+  - rolv_code: 23939
+    language_tag: eka-x-HIS23939
+    name: "Ekajuk: Esham"
+    country_id: NG
+    location: "Nigeria, Cross River"
+  - rolv_code: 23940
+    language_tag: eka-x-HIS23940
+    name: "Ekajuk: Mfom"
+    country_id: NG
+    location: "Nigeria, Cross River"
+---
+The Kajuk language, Ekajuk, is an Ekoid language spoken in the Cross River State and some surrounding regions of Nigeria.

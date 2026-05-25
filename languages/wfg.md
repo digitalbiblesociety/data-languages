@@ -1,0 +1,17 @@
+---
+iso: wfg
+name: Yafi
+autonym: Zorop
+population: 230
+country_id: ID
+country_name: Indonesia
+status_id: "7"
+latitude: -3.39765
+longitude: 140.89701
+glottocode: yafi1240
+glottolog_family_id: pauw1244
+glottolog_family_name: Pauwasi
+glottolog_classification: "Pauwasi > Eastern Pauwasi > Yafi"
+wikipedia_url: "https://en.wikipedia.org/wiki/Yafi_language"
+---
+Yafi, also known as Zorop, is an Eastern Pauwasi language of West New Guinea. It is spoken in Warlef village, Senggi District, Keerom Regency.

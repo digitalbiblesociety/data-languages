@@ -1,0 +1,15 @@
+---
+iso: gvy
+name: Guyani
+autonym: yura ngarwala
+population: null
+country_id: AU
+country_name: Australia
+status_id: "10"
+latitude: -34.739
+longitude: 137.661
+glottocode: guya1249
+glottolog_family_id: pama1250
+glottolog_family_name: Pama-Nyungan
+glottolog_classification: "Pama-Nyungan > Arandic-Thura-Yura > Thura-Yura > Core Thura Yura > Northern Thura-Yura > Guyani"
+---

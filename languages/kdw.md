@@ -1,0 +1,18 @@
+---
+iso: kdw
+name: Koneraw
+autonym: Konorau
+population: 1200
+country_id: ID
+country_name: Indonesia
+status_id: "7"
+latitude: -8.37424
+longitude: 138.0675
+glottocode: kone1241
+glottolog_family_id: momb1255
+glottolog_family_name: Mombum-Koneraw
+glottolog_classification: "Mombum-Koneraw > Koneraw"
+wikipedia_url: "https://en.wikipedia.org/wiki/Koneraw_language"
+---
+Koneraw is a Trans–New Guinea language spoken in West New Guinea, Indonesia. It was missed by classifications of Papuan languages until recently, but is clearly close to 
+Mombum.

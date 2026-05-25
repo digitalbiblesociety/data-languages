@@ -1,0 +1,17 @@
+---
+iso: kpn
+name: Kepkiriwát
+autonym: Kepkeriwát
+population: null
+country_id: BR
+country_name: Brazil
+status_id: "10"
+latitude: -11.663
+longitude: -61.246
+glottocode: kepk1241
+glottolog_family_id: tupi1275
+glottolog_family_name: Tupian
+glottolog_classification: "Tupian > Kepkiriwát"
+wikipedia_url: "https://en.wikipedia.org/wiki/Kepkiriw%C3%A1t_language"
+---
+Kepkiriwát (Quêpi-quiri-uáte) is an extinct Tupian language of the state of Rondônia, in the Amazon region of Brazil.

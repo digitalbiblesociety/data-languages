@@ -1,0 +1,15 @@
+---
+iso: rmv
+name: Romanova
+autonym: null
+population: null
+country_id: ZZ
+country_name: Unknown or Invalid Territory
+status_id: null
+glottocode: roma1338
+glottolog_family_id: arti1236
+glottolog_family_name: Artificial Language
+glottolog_classification: "Artificial Language > Romanova"
+wikipedia_url: "https://en.wikipedia.org/wiki/Romanova_language"
+---
+A pan-Romance language or Romance interlanguage is a codified linguistic variety which synthesizes the variation of the Romance languages and is representative of these as a whole. It can be seen as a standard language proposal for the whole language family but is generally considered a zonal constructed language because it's the result of intense codification. Zonal languages are, according to interlinguist Detlev Blanke, constructed languages which "arise by choosing or mixing linguistic elements in a language group".

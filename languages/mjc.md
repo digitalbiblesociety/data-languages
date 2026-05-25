@@ -1,0 +1,15 @@
+---
+iso: mjc
+name: San Juan Colorado Mixtec
+autonym: Jicaltepec Mixtec
+population: 5580
+country_id: MX
+country_name: Mexico
+status_id: "5"
+latitude: 16.39642
+longitude: -97.92788
+glottocode: sanj1281
+glottolog_family_id: otom1299
+glottolog_family_name: Otomanguean
+glottolog_classification: "Otomanguean > Eastern Otomanguean > Amuzgo-Mixtecan > Mixtecan > Mixtec-Cuicatec > Mixtec > Coast Mixtec > West Coast Mixtec > San Juan Colorado Mixtec"
+---

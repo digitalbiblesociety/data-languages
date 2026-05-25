@@ -1,0 +1,11 @@
+---
+iso: ntx
+name: Tangkhul Naga (Myanmar)
+autonym: Tangkhul
+population: 4000
+country_id: MM
+country_name: Myanmar
+status_id: 6a
+wikipedia_url: "https://en.wikipedia.org/wiki/Somra_language"
+---
+Somra, also known as Burmese Tangkhul, is a Sino-Tibetan language spoken in Myanmar. The two ethnic Tangkhul languages are related, but are not mutually intelligible, being only 30% lexically similar. Somra is closer to Akyaung Ari.

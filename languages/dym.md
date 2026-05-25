@@ -1,0 +1,17 @@
+---
+iso: dym
+name: Yanda Dom Dogon
+autonym: Yanda Dom
+population: 2000
+country_id: ML
+country_name: Mali
+status_id: 6a
+latitude: 14.63
+longitude: -3.15
+glottocode: yand1257
+glottolog_family_id: dogo1299
+glottolog_family_name: Dogon
+glottolog_classification: "Dogon > North Plateau Dogon > Yanda-Bondum-Tebul > Yanda-Ana > Yanda Dom Dogon"
+wikipedia_url: "https://en.wikipedia.org/wiki/Yanda_Dogon"
+---
+Yanda Dogon is a Dogon language spoken in Mali. It is reported to be lexically similar to Nanga, which is only known from one report from 1953.

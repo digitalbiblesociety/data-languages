@@ -1,0 +1,15 @@
+---
+iso: gbh
+name: Defi Gbe
+autonym: fɔ̀ngbè/fõbè
+population: 13500
+country_id: BJ
+country_name: Benin
+status_id: 6a
+latitude: 6.40718
+longitude: 2.68609
+glottocode: defi1235
+glottolog_family_id: atla1278
+glottolog_family_name: Atlantic-Congo
+glottolog_classification: "Atlantic-Congo > Volta-Congo > Kwa Volta-Congo > Gbe > Eastern Gbe > Fongbeic > Defi Gbe"
+---

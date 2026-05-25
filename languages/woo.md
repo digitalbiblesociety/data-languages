@@ -1,0 +1,17 @@
+---
+iso: woo
+name: Manombai
+autonym: Manobai
+population: 7480
+country_id: ID
+country_name: Indonesia
+status_id: 6a
+latitude: -5.94468
+longitude: 134.3295
+glottocode: mano1275
+glottolog_family_id: aust1307
+glottolog_family_name: Austronesian
+glottolog_classification: "Austronesian > Malayo-Polynesian > Aru > Central Aru > Manombai"
+wikipedia_url: "https://en.wikipedia.org/wiki/Manombai_language"
+---
+Manombai is one of the Aru languages, spoken by inhabitants of the Aru Islands, Indonesia.

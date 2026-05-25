@@ -1,0 +1,18 @@
+---
+iso: laj
+name: Lango (Uganda)
+autonym: Lwo
+population: 2130000
+country_id: UG
+country_name: Uganda
+status_id: "4"
+latitude: 2.13867
+longitude: 33.05527
+scripts: [Latn]
+glottocode: lang1324
+glottolog_family_id: nilo1247
+glottolog_family_name: Nilotic
+glottolog_classification: "Nilotic > Western Nilotic > Lwoo > Southern Lwoo > Lango-Kumam > Lango (Uganda)"
+wikipedia_url: "https://en.wikipedia.org/wiki/Lango_language_(Uganda)"
+---
+Lango is a Nilotic language spoken in the Lango sub-region of Northern Uganda.

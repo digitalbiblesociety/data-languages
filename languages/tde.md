@@ -1,0 +1,17 @@
+---
+iso: tde
+name: Tiranige Diga Dogon
+autonym: Tiranige dige
+population: 4200
+country_id: ML
+country_name: Mali
+status_id: 6a
+latitude: 14.76
+longitude: -3.7
+glottocode: tira1258
+glottolog_family_id: dogo1299
+glottolog_family_name: Dogon
+glottolog_classification: "Dogon > West Dogon > Tiranige Diga Dogon"
+wikipedia_url: "https://en.wikipedia.org/wiki/Duleri_Dogon"
+---
+Duleri Dogon or Duleri Dom, also known as Tiranige dige, is a Dogon language spoken in Mali.

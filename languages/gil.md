@@ -1,0 +1,34 @@
+---
+iso: gil
+name: Gilbertese
+autonym: Kiribati
+population: 118620
+country_id: KI
+country_name: Kiribati
+status_id: "1"
+latitude: 0.64049
+longitude: 173.219604
+scripts: [Latn]
+glottocode: gilb1244
+glottolog_family_id: aust1307
+glottolog_family_name: Austronesian
+glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Micronesian > Central Micronesian > Gilbertese"
+wikipedia_url: "https://en.wikipedia.org/wiki/Gilbertese_language"
+rolv_dialects:
+  - rolv_code: 5111
+    language_tag: gil-x-HIS05111
+    name: "Kiribati: Solomon Islands"
+    country_id: SB
+    location: "Solomon Islands, Choiseul"
+  - rolv_code: 12043
+    language_tag: gil-x-HIS12043
+    name: "Kiribati: Banaban"
+    country_id: FJ
+    location: Fiji
+  - rolv_code: 12044
+    language_tag: gil-x-HIS12044
+    name: "Kiribati: Nui"
+    country_id: TV
+    location: Tuvalu
+---
+Gilbertese, also known as Kiribati, is an Austronesian language spoken mainly in Kiribati. It belongs to the Micronesian branch of the Oceanic languages.

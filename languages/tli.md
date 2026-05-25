@@ -1,0 +1,29 @@
+---
+iso: tli
+name: Tlingit
+autonym: Lingít
+population: 1242
+country_id: US
+country_name: United States
+status_id: 8a
+latitude: 59.444665
+longitude: -135.29031
+scripts: [Latn]
+glottocode: tlin1245
+glottolog_family_id: atha1245
+glottolog_family_name: Athabaskan-Eyak-Tlingit
+glottolog_classification: "Athabaskan-Eyak-Tlingit > Tlingit"
+wikipedia_url: "https://en.wikipedia.org/wiki/Tlingit_language"
+rolv_dialects:
+  - rolv_code: 26459
+    language_tag: tli-x-HIS26459
+    name: "Thlinget: Northern"
+    country_id: US
+    location: "United States of America, Alaska"
+  - rolv_code: 26461
+    language_tag: tli-x-HIS26461
+    name: "Thlinget: Tongass"
+    country_id: US
+    location: "United States of America, Alaska"
+---
+Tlingit is an endangered language indigenous to Southeast Alaska and Western Canada spoken by the Tlingit people. It is generally agreed to form an independent branch of the Na-Dene language family. Although the number of speakers is declining, there are several revitalization and second-language programs in Southeast Alaska.

@@ -1,0 +1,28 @@
+---
+iso: tzj
+name: "Tz'utujil"
+autonym: Tzʼutujiil
+population: 106000
+country_id: GT
+country_name: Guatemala
+status_id: null
+latitude: 14.63507
+longitude: -91.20122
+glottocode: tzut1248
+glottolog_family_id: maya1287
+glottolog_family_name: Mayan
+glottolog_classification: "Mayan > Core Mayan > Quichean-Mamean > Greater Quichean > Core Quichean > Cakchiquel-Tzutujil > Tz'utujil"
+wikipedia_url: "https://en.wikipedia.org/wiki/Tz%CA%BCutujil_language"
+rolv_dialects:
+  - rolv_code: 374
+    language_tag: tzj-x-HIS00374
+    name: "Tzutujil: Western"
+    country_id: GT
+    location: "Guatemala, Solola"
+  - rolv_code: 19301
+    language_tag: tzj-x-HIS19301
+    name: "Tz'utujil: Eastern"
+    country_id: GT
+    location: "Guatemala, Solola"
+---
+Tzʼutujil is a Mayan language spoken by the Tzʼutujil people in the region to the south of Lake Atitlán in Guatemala. Tzʼutujil is closely related to its larger neighbors, Kaqchikel and Kʼicheʼ. The 2002 census found that 60,000 people speak Tzʼutujil as their mother tongue. The two Tzʼutujil dialects are Eastern and Western.

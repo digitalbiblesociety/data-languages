@@ -1,0 +1,34 @@
+---
+iso: izh
+name: Ingrian
+autonym: ižoran keel
+population: 360
+country_id: RU
+country_name: Russia
+status_id: 8b
+latitude: 59.47403
+longitude: 29.71145
+scripts: [Latn]
+glottocode: ingr1248
+glottolog_family_id: ural1272
+glottolog_family_name: Uralic
+glottolog_classification: "Uralic > Finnic > Coastal Finnic > Neva > North Finnic > Ladogan > Ingrian"
+wikipedia_url: "https://en.wikipedia.org/wiki/Ingrian_language"
+rolv_dialects:
+  - rolv_code: 10897
+    language_tag: izh-x-HIS10897
+    name: "Ingrian: Oredeži"
+    country_id: RU
+    location: Russia
+  - rolv_code: 10898
+    language_tag: izh-x-HIS10898
+    name: "Ingrian: Soikkola"
+    country_id: RU
+    location: Russia
+  - rolv_code: 28894
+    language_tag: izh-x-HIS28894
+    name: "Ingrian: Hevaha"
+    country_id: RU
+    location: Russia
+---
+Ingrian, also called Izhorian, is a Finnic language spoken by the Izhorians of Ingria. It has approximately 70 native speakers left, most of whom are elderly.

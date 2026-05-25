@@ -1,0 +1,15 @@
+---
+iso: gyf
+name: Gungabula
+autonym: Southern Maric
+population: null
+country_id: AU
+country_name: Australia
+status_id: "10"
+latitude: -25.68965
+longitude: 148.60445
+glottocode: gung1248
+glottolog_family_id: pama1250
+glottolog_family_name: Pama-Nyungan
+glottolog_classification: "Pama-Nyungan > Greater Maric > Guwa-Maric > Maric > Southern Maric > Gungabula"
+---

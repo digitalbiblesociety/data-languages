@@ -1,0 +1,34 @@
+---
+iso: brx
+name: Bodo (India)
+autonym: Boro language
+population: 1474380
+country_id: IN
+country_name: India
+status_id: "4"
+latitude: 26.725455
+longitude: 89.333235
+scripts: [Deva]
+glottocode: bodo1269
+glottolog_family_id: sino1245
+glottolog_family_name: Sino-Tibetan
+glottolog_classification: "Sino-Tibetan > Brahmaputran > Bodo-Garo > Boroic > Tiwa-Boro > Bodo-Mech-Kachari > Bodo-Mech"
+wikipedia_url: "https://en.wikipedia.org/wiki/Boro_language_(India)"
+rolv_dialects:
+  - rolv_code: 3838
+    language_tag: brx-x-HIS03838
+    name: "Bodo: Chote"
+    country_id: IN
+    location: "India, Assam"
+  - rolv_code: 3890
+    language_tag: brx-x-HIS03890
+    name: "Bodo: South Bank Assam"
+    country_id: IN
+    location: "India, Assam"
+  - rolv_code: 6478
+    language_tag: brx-x-HIS06478
+    name: "Boro: Lower Assam"
+    country_id: IN
+    location: "India, Assam"
+---
+Boro, also rendered Bodo, is a Tibeto-Burman language spoken primarily by the Boro ethnic group of Northeast India and the neighboring countries of Nepal and Bangladesh. It is an official language of the Indian state of Assam, predominantly spoken in the Bodoland Territorial Region. It is also one of the twenty-two languages listed in the Eighth Schedule of the Constitution of India. Since 1975 the language has been written using the Devanagari script. It was formerly written using Latin and Eastern-Nagari scripts. Some scholars have suggested that the language used to have its own now lost script known as Deodhai.

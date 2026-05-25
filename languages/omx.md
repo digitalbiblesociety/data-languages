@@ -1,0 +1,15 @@
+---
+iso: omx
+name: Old Mon
+autonym: null
+population: null
+country_id: MM
+country_name: Myanmar
+status_id: null
+latitude: 14.83
+longitude: 100.5
+glottocode: oldm1242
+glottolog_family_id: aust1305
+glottolog_family_name: Austroasiatic
+glottolog_classification: "Austroasiatic > Monic > Old Mon"
+---

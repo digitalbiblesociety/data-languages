@@ -1,0 +1,17 @@
+---
+iso: mwc
+name: Are
+autonym: Mukawa
+population: 1700
+country_id: PG
+country_name: Papua New Guinea
+status_id: "5"
+latitude: -9.67147
+longitude: 149.9994
+glottocode: aree1239
+glottolog_family_id: aust1307
+glottolog_family_name: Austronesian
+glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > Papuan Tip linkage > Nuclear Papuan Tip linkage > North Papuan Mainland-D'Entrecasteaux linkage > Are-Taupota linkage > Are linkage > Are-Doga > Are"
+wikipedia_url: "https://en.wikipedia.org/wiki/Are_language"
+---
+The Are language is an Austronesian language of the eastern Papua New Guinean mainland.

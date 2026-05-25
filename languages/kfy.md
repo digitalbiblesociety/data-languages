@@ -1,0 +1,54 @@
+---
+iso: kfy
+name: Kumaoni
+autonym: कुमाँऊनी
+population: 2080000
+country_id: IN
+country_name: India
+status_id: "4"
+latitude: 29.562155
+longitude: 80.0171
+scripts: [Deva]
+glottocode: kuma1273
+glottolog_family_id: indo1319
+glottolog_family_name: Indo-European
+glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Indo-Aryan > Middle-Modern Indo-Aryan > Continental Indo-Aryan > Midlands Indo-Aryan > Indo-Aryan Northern zone > Central Pahari > Kumaoni"
+wikipedia_url: "https://en.wikipedia.org/wiki/Kumaoni_language"
+rolv_dialects:
+  - rolv_code: 12461
+    language_tag: kfy-x-HIS12461
+    name: "Kumauni: Central"
+    country_id: IN
+    location: "India, Uttarakhand"
+  - rolv_code: 12468
+    language_tag: kfy-x-HIS12468
+    name: "Kumauni: Northeastern"
+    country_id: IN
+    location: "India, Uttarakhand"
+  - rolv_code: 12469
+    language_tag: kfy-x-HIS12469
+    name: "Kumauni: Pashchimi"
+    country_id: IN
+    location: "India, Uttarakhand"
+  - rolv_code: 12473
+    language_tag: kfy-x-HIS12473
+    name: "Kumauni: Soriyali"
+    country_id: IN
+    location: "India, Uttarakhand"
+  - rolv_code: 12474
+    language_tag: kfy-x-HIS12474
+    name: "Kumauni: Southeastern"
+    country_id: IN
+    location: "India, Uttarakhand"
+  - rolv_code: 12475
+    language_tag: kfy-x-HIS12475
+    name: "Kumauni: Western"
+    country_id: IN
+    location: "India, Uttarakhand"
+  - rolv_code: 31234
+    language_tag: kfy-x-HIS31234
+    name: "Kumaoni: Chandpuria"
+    country_id: IN
+    location: "India, Uttarakhand"
+---
+Kumaoni is an Indo-Aryan language spoken by over two million people of the Kumaon region of the state of Uttarakhand in Northern India, and the distant northwestern Sudurpashchim Province of Nepal. As per 1961 survey there were 1,030,254 Kumaoni speakers in India. The number of speakers increased to 2.0 million in 2011.

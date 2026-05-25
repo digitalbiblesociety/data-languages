@@ -1,0 +1,23 @@
+---
+iso: bsb
+name: Brunei Bisaya
+autonym: Tutong 1
+population: 57600
+country_id: BN
+country_name: Brunei
+status_id: "5"
+latitude: 4.60791
+longitude: 114.51713
+glottocode: brun1245
+glottolog_family_id: aust1307
+glottolog_family_name: Austronesian
+glottolog_classification: "Austronesian > Malayo-Polynesian > North Borneo Malayo-Polynesian > Sabahan > Southwest Sabahan > Greater Dusunic > Bisaya-Lotud > Brunei Bisaya-Dusun"
+wikipedia_url: "https://en.wikipedia.org/wiki/Brunei_Bisaya_language"
+rolv_dialects:
+  - rolv_code: 17855
+    language_tag: bsb-x-HIS17855
+    name: "Bisaya, Brunei: Tutong 1"
+    country_id: BN
+    location: Brunei
+---
+Bisaya, also known as Southern Bisaya, Brunei Bisaya, Brunei Dusun or Tutong 1, is a Sabahan language spoken in Brunei and Sarawak, Malaysia.

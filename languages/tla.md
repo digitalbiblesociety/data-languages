@@ -1,0 +1,21 @@
+---
+iso: tla
+name: Southwestern Tepehuan
+autonym: "O'otham"
+population: 8700
+country_id: MX
+country_name: Mexico
+status_id: 6a
+latitude: 23.25534
+longitude: -104.68847
+glottocode: sout2977
+glottolog_family_id: utoa1244
+glottolog_family_name: Uto-Aztecan
+glottolog_classification: "Uto-Aztecan > Southern Uto-Aztecan > Tepiman > Tepehuan > Southern Tepehuan > Southwestern Tepehuan"
+rolv_dialects:
+  - rolv_code: 29236
+    language_tag: tla-x-HIS29236
+    name: "Tepehuán del Suroeste: Santiago Teneraca"
+    country_id: MX
+    location: "Mexico, Durango"
+---

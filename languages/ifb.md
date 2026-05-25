@@ -1,0 +1,21 @@
+---
+iso: ifb
+name: Batad Ifugao
+autonym: Ayangan Ifugao
+population: 10100
+country_id: PH
+country_name: Philippines
+status_id: "5"
+latitude: 16.82656
+longitude: 121.23011
+glottocode: bata1298
+glottolog_family_id: aust1307
+glottolog_family_name: Austronesian
+glottolog_classification: "Austronesian > Malayo-Polynesian > Northern Luzon > Meso-Cordilleran > South-Central Cordilleran > Central Cordilleran > Nuclear Cordilleran > Ifugaw > Batad-Mayoyao > Batad Ifugao"
+rolv_dialects:
+  - rolv_code: 10799
+    language_tag: ifb-x-HIS10799
+    name: "Ifugao, Batad: Ducligan"
+    country_id: PH
+    location: "Philippines, Luzon, Cordillera Region, Ifugao"
+---

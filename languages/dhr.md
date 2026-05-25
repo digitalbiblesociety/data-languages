@@ -1,0 +1,15 @@
+---
+iso: dhr
+name: Dhargari
+autonym: "Dal'gari"
+population: null
+country_id: AU
+country_name: Australia
+status_id: 8a
+latitude: -24.06008
+longitude: 114.84667
+glottocode: dhar1247
+glottolog_family_id: pama1250
+glottolog_family_name: Pama-Nyungan
+glottolog_classification: "Pama-Nyungan > South-West Pama-Nyungan > Pilbara > Mantharta > Wariyangga-Dhargari > Dhargari"
+---

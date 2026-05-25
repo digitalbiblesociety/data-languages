@@ -1,0 +1,23 @@
+---
+iso: akf
+name: Akpa
+autonym: Akweya
+population: 26900
+country_id: NG
+country_name: Nigeria
+status_id: 6a
+latitude: 7.32586
+longitude: 8.01629
+glottocode: akpa1238
+glottolog_family_id: atla1278
+glottolog_family_name: Atlantic-Congo
+glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Idomoid > Yatye-Akpa > Akpa"
+wikipedia_url: "https://en.wikipedia.org/wiki/Akpa_language"
+rolv_dialects:
+  - rolv_code: 2132
+    language_tag: akf-x-HIS02132
+    name: "Idoma: Akpa"
+    country_id: NG
+    location: "Nigeria, Benue"
+---
+Akpa (Akweya) is an Idomoid language spoken in Ohimini and Oturkpo LGAs, Benue State, central Nigeria.

@@ -1,0 +1,23 @@
+---
+iso: yiz
+name: Azhe
+autonym: null
+population: 54000
+country_id: CN
+country_name: China
+status_id: 6a
+latitude: 24.405
+longitude: 103.441
+glottocode: azhe1235
+glottolog_family_id: sino1245
+glottolog_family_name: Sino-Tibetan
+glottolog_classification: "Sino-Tibetan > Burmo-Qiangic > Lolo-Burmese > Loloish > Ni-Li-Kazhouish > Southeastern Ngwi > Axioid > Sani-Axi-Azhe > Sani-Axi > Azhe"
+wikipedia_url: "https://en.wikipedia.org/wiki/Azhe_language"
+rolv_dialects:
+  - rolv_code: 21209
+    language_tag: yiz-x-HIS21209
+    name: "YI: Dahei, Wushan"
+    country_id: CN
+    location: "China, Yunnan"
+---
+Azhe is one of the Loloish languages spoken by the Yi people of China.

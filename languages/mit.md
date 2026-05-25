@@ -1,0 +1,23 @@
+---
+iso: mit
+name: Southern Puebla Mixtec
+autonym: Acatlán Mixtec
+population: 3180
+country_id: MX
+country_name: Mexico
+status_id: "7"
+latitude: 18.21229
+longitude: -97.95722
+glottocode: sout3001
+glottolog_family_id: otom1299
+glottolog_family_name: Otomanguean
+glottolog_classification: "Otomanguean > Eastern Otomanguean > Amuzgo-Mixtecan > Mixtecan > Mixtec-Cuicatec > Mixtec > Northern Baja Mixtec > Southern Puebla Mixtec"
+wikipedia_url: "https://en.wikipedia.org/wiki/Southern_Puebla_Mixtec"
+rolv_dialects:
+  - rolv_code: 2767
+    language_tag: mit-x-HIS02767
+    name: "Mixtec, Acatlan: Tonahuixtla"
+    country_id: MX
+    location: "Mexico, Puebla"
+---
+Southern Puebla Mixtec, denominated by INALI as Puebla-Oaxaca borderline Mixtec, and also known as Acatlán Mixtec, is a Mixtec language of Puebla and Oaxaca State in Mexico. It is spoken in the towns of Acatlán, Xayacatlán de Bravo, San Jerónimo Xayacatlán, Petlalcingo, and Zapotitlán Palmas.

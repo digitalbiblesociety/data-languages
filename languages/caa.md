@@ -1,0 +1,17 @@
+---
+iso: caa
+name: Chortí
+autonym: Chʼortiʼ
+population: 16700
+country_id: GT
+country_name: Guatemala
+status_id: "5"
+latitude: 14.81804
+longitude: -89.236325
+glottocode: chor1273
+glottolog_family_id: maya1287
+glottolog_family_name: Mayan
+glottolog_classification: "Mayan > Core Mayan > Western Mayan > Cholan-Tzeltalan > Cholan > Chorti-Cholti > Ch'orti'"
+wikipedia_url: "https://en.wikipedia.org/wiki/Ch%CA%BCorti%CA%BC_language"
+---
+The Chʼortiʼ language is a Mayan language, spoken by the indigenous Maya people who are also known as the Chʼortiʼ or Chʼortiʼ Maya. Chʼortiʼ is a direct descendant of the Classic Maya language in which many of the pre-Columbian inscriptions using the Maya script were written. Chʼortiʼ is the modern version of the ancient Mayan language Chʼolan.

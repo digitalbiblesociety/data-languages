@@ -1,0 +1,17 @@
+---
+iso: hux
+name: Nüpode Huitoto
+autonym: Nɨpóde
+population: 100
+country_id: PE
+country_name: Peru
+status_id: 8a
+latitude: -2.34495
+longitude: -70.95587
+glottocode: nupo1240
+glottolog_family_id: huit1251
+glottolog_family_name: Huitotoan
+glottolog_classification: "Huitotoan > Nuclear Witotoan > Nüpode Huitoto"
+wikipedia_url: "https://en.wikipedia.org/wiki/N%C3%BCpode_Huitoto_language"
+---
+Nüpode Huitoto or Nɨpode is an indigenous American language spoken in western South America. It has occasionally been referred to as Muinane Witoto, not to be confused with the Muinane language.

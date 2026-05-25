@@ -1,0 +1,33 @@
+---
+iso: yih
+name: Western Yiddish
+autonym: ייִדיש
+population: 600000
+country_id: DE
+country_name: Germany
+status_id: "7"
+latitude: 51.68892
+longitude: 12.26013
+glottocode: west2361
+glottolog_family_id: indo1319
+glottolog_family_name: Indo-European
+glottolog_classification: "Indo-European > Classical Indo-European > Germanic > Northwest Germanic > West Germanic > High German > Upper German > Middle-Modern High German > Modern High German > Upper Franconian > Greater East Franconian > Western Yiddish"
+wikipedia_url: "https://en.wikipedia.org/wiki/Western_Yiddish_language"
+rolv_dialects:
+  - rolv_code: 18575
+    language_tag: yih-x-HIS18575
+    name: "Yiddish, Western: Midwestern Yiddish"
+    country_id: DE
+    location: Germany
+  - rolv_code: 18576
+    language_tag: yih-x-HIS18576
+    name: "Yiddish, Western: Northwestern Yiddish"
+    country_id: DE
+    location: Germany
+  - rolv_code: 18577
+    language_tag: yih-x-HIS18577
+    name: "Yiddish, Western: Southwestern Yiddish"
+    country_id: DE
+    location: Germany
+---
+Yiddish, historically Judeo-German or Jewish German, is a West Germanic language historically spoken by Ashkenazi Jews. It originated in the Holy Roman Empire during the Middle Ages, and provided the nascent Ashkenazi community with a vernacular based on High German fused with many elements taken from Hebrew and to some extent Aramaic. Most varieties of Yiddish include elements of Slavic languages, and the vocabulary contains traces of Romance languages. Yiddish has traditionally been written using the Hebrew alphabet.

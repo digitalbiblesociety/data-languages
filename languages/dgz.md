@@ -1,0 +1,23 @@
+---
+iso: dgz
+name: Daga
+autonym: null
+population: 10000
+country_id: PG
+country_name: Papua New Guinea
+status_id: "5"
+latitude: -9.9747
+longitude: 149.26296
+glottocode: daga1275
+glottolog_family_id: daga1274
+glottolog_family_name: Dagan
+glottolog_classification: "Dagan > Central Dagan > Southwest Dagan > Daga"
+wikipedia_url: "https://en.wikipedia.org/wiki/Daga_language"
+rolv_dialects:
+  - rolv_code: 24781
+    language_tag: dgz-x-HIS24781
+    name: "Daga: Lower"
+    country_id: PG
+    location: "Papua New Guinea, Central"
+---
+Daga is a non-Austronesian language of Papua New Guinea. Daga is spoken by about 9,000 people as of 2007. The peoples that speak Daga are located in the Rabaraba subdistrict of Milne Bay district, and in the Abau subdistrict of the Central district of Papua New Guinea.

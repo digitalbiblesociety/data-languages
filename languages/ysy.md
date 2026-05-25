@@ -1,0 +1,48 @@
+---
+iso: ysy
+name: Sanie
+autonym: Bai Lolo
+population: 8000
+country_id: CN
+country_name: China
+status_id: 8a
+latitude: 25.2
+longitude: 102.12
+glottocode: sani1265
+glottolog_family_id: sino1245
+glottolog_family_name: Sino-Tibetan
+glottolog_classification: "Sino-Tibetan > Burmo-Qiangic > Lolo-Burmese > Loloish > Ni-Li-Kazhouish > Southeastern Ngwi > Nisoid > Nuclear Nisoid > Nasu-Nosu > Nesu-Nasu > Nasu-Gepu > Sanie"
+wikipedia_url: "https://en.wikipedia.org/wiki/Sanie_language"
+rolv_dialects:
+  - rolv_code: 25579
+    language_tag: ysy-x-HIS25579
+    name: "Sanie: East"
+    country_id: CN
+    location: China
+  - rolv_code: 25580
+    language_tag: ysy-x-HIS25580
+    name: "Sanie: Northeast"
+    country_id: CN
+    location: China
+  - rolv_code: 25581
+    language_tag: ysy-x-HIS25581
+    name: "Sanie: North"
+    country_id: CN
+    location: China
+  - rolv_code: 25582
+    language_tag: ysy-x-HIS25582
+    name: "Sanie: Northwest"
+    country_id: CN
+    location: China
+  - rolv_code: 25583
+    language_tag: ysy-x-HIS25583
+    name: "Sanie: Southeast"
+    country_id: CN
+    location: China
+  - rolv_code: 25584
+    language_tag: ysy-x-HIS25584
+    name: "Sanie: Southwest"
+    country_id: CN
+    location: China
+---
+Sanie is a Loloish language of Yunnan, China. It is similar to Samataw. There were 17,320 ethnic Sanie in 1998, but only about 8,000 spoke the Sanie language fluently. The Sanie are also known as the White Yi (白彝).

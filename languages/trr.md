@@ -1,0 +1,14 @@
+---
+iso: trr
+name: Taushiro
+autonym: Pinche
+population: 1
+country_id: PE
+country_name: Peru
+status_id: 8b
+latitude: -3.22497
+longitude: -75.5603
+glottocode: taus1253
+wikipedia_url: "https://en.wikipedia.org/wiki/Taushiro_language"
+---
+Taushiro, also known as Pinche or Pinchi, is a nearly extinct language isolate of the Peruvian Amazon near Ecuador. The last living speaker of Taushiro is Amadeo García García. The language is poorly described, and was only documented beginning in the 1970s.

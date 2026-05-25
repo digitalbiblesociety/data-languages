@@ -1,0 +1,17 @@
+---
+iso: ksy
+name: Kharia Thar
+autonym: null
+population: 25000
+country_id: IN
+country_name: India
+status_id: 6a
+latitude: 22.24496
+longitude: 83.799
+glottocode: khar1283
+glottolog_family_id: indo1319
+glottolog_family_name: Indo-European
+glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Indo-Aryan > Middle-Modern Indo-Aryan > Continental Indo-Aryan > Indo-Aryan Eastern zone > Oriya-Gauda-Kamrupa > Gauda-Kamrupa > Gauda-Banga > Kharia Thar"
+wikipedia_url: "https://en.wikipedia.org/wiki/Kharia_Thar_language"
+---
+Kharia Thar is an Indic language spoken by the Hill Kharia culture of India.

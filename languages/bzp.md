@@ -1,0 +1,28 @@
+---
+iso: bzp
+name: Kemberano
+autonym: Weriagar
+population: 1500
+country_id: ID
+country_name: Indonesia
+status_id: 6a
+latitude: -2.24495
+longitude: 132.98754
+glottocode: kemb1235
+glottolog_family_id: sout3418
+glottolog_family_name: "South Bird's Head"
+glottolog_classification: "South Bird's Head > Nuclear South Bird's Head > Kaburic > East South Bird's Head > Kemberanic > Kemberano"
+wikipedia_url: "https://en.wikipedia.org/wiki/Kemberano_language"
+rolv_dialects:
+  - rolv_code: 11789
+    language_tag: bzp-x-HIS11789
+    name: "Kemberano: Barau"
+    country_id: ID
+    location: "Indonesia, Papua Barat"
+  - rolv_code: 11790
+    language_tag: bzp-x-HIS11790
+    name: "Kemberano: Weriagar"
+    country_id: ID
+    location: "Indonesia, Papua Barat"
+---
+Kemberano is a Papuan language of the Bird's Head Peninsula of West Papua, Indonesia. It is considered "endangered" by Ethnologue.

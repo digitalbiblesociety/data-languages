@@ -1,0 +1,23 @@
+---
+iso: cry
+name: Cori
+autonym: Chori
+population: 1000
+country_id: NG
+country_name: Nigeria
+status_id: 6a
+latitude: 9.37832
+longitude: 7.95163
+glottocode: cori1240
+glottolog_family_id: atla1278
+glottolog_family_name: Atlantic-Congo
+glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Benue-Congo Plateau > West-Central Benue-Congo Plateau > Northwestern Benue-Congo Plateau > Hyamic > Kyoli"
+wikipedia_url: "https://en.wikipedia.org/wiki/Kyoli_language"
+rolv_dialects:
+  - rolv_code: 23936
+    language_tag: cry-x-HIS23936
+    name: "Kyoli: Bobang"
+    country_id: NG
+    location: "Nigeria, Kaduna"
+---
+The Kyoli or Cori (Chori) language is a Plateau language spoken in Southern Kaduna State, Nigeria.

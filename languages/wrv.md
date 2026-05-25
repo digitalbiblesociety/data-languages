@@ -1,0 +1,17 @@
+---
+iso: wrv
+name: Waruna
+autonym: null
+population: 600
+country_id: PG
+country_name: Papua New Guinea
+status_id: 6a
+latitude: -8.23565
+longitude: 142.46979
+glottocode: waru1267
+glottolog_family_id: suki1244
+glottolog_family_name: Suki-Gogodala
+glottolog_classification: "Suki-Gogodala > Gogodalic > Ari-Waruna > Waruna"
+wikipedia_url: "https://en.wikipedia.org/wiki/Waruna_language"
+---
+The Waruna language is a Papuan language of the New Guinea, spoken in a bend of the Fly River. It has 50% lexical similarity with Ari, its closest relative. It is spoken in the single village of Waruna in Gogodala Rural LLG.

@@ -1,0 +1,17 @@
+---
+iso: gll
+name: Garlali
+autonym: Garlali
+population: null
+country_id: AU
+country_name: Australia
+status_id: "10"
+latitude: -28.136
+longitude: 143.929
+glottocode: kala1380
+glottolog_family_id: pama1250
+glottolog_family_name: Pama-Nyungan
+glottolog_classification: "Pama-Nyungan > Karnic > Badjiri-Eastern Karnic > Eastern Karnic > Bulloo River"
+wikipedia_url: "https://en.wikipedia.org/wiki/Kalali_language"
+---
+Kalali, also written Kullili, Galali, Garlali, Kullilla and other variants, is an Australian Aboriginal language, of Queensland, Australia.

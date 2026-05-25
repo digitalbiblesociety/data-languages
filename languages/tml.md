@@ -1,0 +1,15 @@
+---
+iso: tml
+name: Tamnim Citak
+autonym: Asmat Darat
+population: 290
+country_id: ID
+country_name: Indonesia
+status_id: 6a
+latitude: -5.57962
+longitude: 139.23298
+glottocode: tamn1235
+glottolog_family_id: nucl1709
+glottolog_family_name: Nuclear Trans New Guinea
+glottolog_classification: "Nuclear Trans New Guinea > Asmat-Awyu-Ok > Asmat-Kamrau Bay > Asmat-Kamoro > Asmat > Citak Asmat > Tamnim Citak"
+---

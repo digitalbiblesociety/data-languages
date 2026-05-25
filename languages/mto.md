@@ -1,0 +1,28 @@
+---
+iso: mto
+name: Totontepec Mixe
+autonym: North Highland Mixe
+population: 5470
+country_id: MX
+country_name: Mexico
+status_id: "5"
+latitude: 17.21565
+longitude: -96.0179
+glottocode: toto1305
+glottolog_family_id: mixe1284
+glottolog_family_name: Mixe-Zoque
+glottolog_classification: "Mixe-Zoque > Mixe > Oaxaca Mixe > Totontepec Mixe"
+wikipedia_url: "https://en.wikipedia.org/wiki/Totontepec_Mixe"
+rolv_dialects:
+  - rolv_code: 27835
+    language_tag: mto-x-HIS27835
+    name: "Mixe, Totontepec: Huitepec"
+    country_id: MX
+    location: "Mexico, Oaxaca, Mixe"
+  - rolv_code: 27837
+    language_tag: mto-x-HIS27837
+    name: "Mixe de Totontepec: Yalalag"
+    country_id: MX
+    location: "Mexico, Oaxaca, Mixe"
+---
+Totontepec Mixe, called North Highland Mixe in Wichmann (1995), is a Mixe language spoken in Mexico, in the town of Totontepec Villa de Morelos, Oaxaca.

@@ -1,0 +1,38 @@
+---
+iso: sez
+name: Senthang Chin
+autonym: Hsemtang
+population: 33000
+country_id: MM
+country_name: Myanmar
+status_id: 6b
+latitude: 21.89355
+longitude: 93.80869
+glottocode: sent1260
+glottolog_family_id: sino1245
+glottolog_family_name: Sino-Tibetan
+glottolog_classification: "Sino-Tibetan > Kuki-Chin-Naga > Kuki-Chin > Central Kuki-Chin > Maraic > Senthang Chin"
+wikipedia_url: "https://en.wikipedia.org/wiki/Senthang_language"
+rolv_dialects:
+  - rolv_code: 25453
+    language_tag: sez-x-HIS25453
+    name: "Chin, Senthang: Central"
+    country_id: MM
+    location: Myanmar
+  - rolv_code: 25454
+    language_tag: sez-x-HIS25454
+    name: "Chin, Senthang: Sakta"
+    country_id: MM
+    location: Myanmar
+  - rolv_code: 25455
+    language_tag: sez-x-HIS25455
+    name: "Chin, Senthang: Shoneshi"
+    country_id: MM
+    location: Myanmar
+  - rolv_code: 25456
+    language_tag: sez-x-HIS25456
+    name: "Chin, Senthang: Surkhua-Lungrang"
+    country_id: MM
+    location: Myanmar
+---
+Senthang is a Kuki-Chin-Mizo language of Myanmar. The Senthang dialects share 79% to 95% lexical similarity.

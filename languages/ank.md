@@ -1,0 +1,17 @@
+---
+iso: ank
+name: Goemai
+autonym: Ankwai
+population: 361000
+country_id: NG
+country_name: Nigeria
+status_id: 6b
+latitude: 8.74455
+longitude: 9.72453
+glottocode: goem1240
+glottolog_family_id: afro1255
+glottolog_family_name: Afro-Asiatic
+glottolog_classification: "Afro-Asiatic > Chadic > West Chadic > West Chadic A > West Chadic A.2-3 > West Chadic A.3 > Goemaic > Goemai"
+wikipedia_url: "https://en.wikipedia.org/wiki/Goemai_language"
+---
+Goemai is an Afro-Asiatic language spoken in the Great Muri Plains region of Plateau State in central Nigeria, between the Jos Plateau and Benue River. Goemai is also the name of the ethnic group of speakers of the Goemai language. The name 'Ankwe' has been used to refer to the people, especially in older literature and to outsiders. As of 2020, it is estimated that there are around 380,000 Goemai speakers.

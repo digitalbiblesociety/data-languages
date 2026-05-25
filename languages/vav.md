@@ -1,0 +1,33 @@
+---
+iso: vav
+name: Varli
+autonym: वारली
+population: 387000
+country_id: IN
+country_name: India
+status_id: "5"
+latitude: 20.56353
+longitude: 73.29746
+glottocode: varl1238
+glottolog_family_id: indo1319
+glottolog_family_name: Indo-European
+glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Indo-Aryan > Middle-Modern Indo-Aryan > Continental Indo-Aryan > Indo-Aryan Southern zone > Marathic > Marathi-Konkani > Old-Modern Marathi > Modern Marathi > Dungar Varli"
+wikipedia_url: "https://en.wikipedia.org/wiki/Varli_language"
+rolv_dialects:
+  - rolv_code: 18019
+    language_tag: vav-x-HIS18019
+    name: "Varli: Davari"
+    country_id: IN
+    location: "India, Maharashtra"
+  - rolv_code: 18020
+    language_tag: vav-x-HIS18020
+    name: "Varli: Eastern Nihiri"
+    country_id: IN
+    location: "India, Maharashtra"
+  - rolv_code: 18021
+    language_tag: vav-x-HIS18021
+    name: "Varli: Western Nihiri"
+    country_id: IN
+    location: "India, Maharashtra"
+---
+Varali, also written Warali, Warli and Varli, is an Indo-Aryan language spoken by the Warli people. The language is usually classified as Marathi, but sometimes as Konkani or Bhil.

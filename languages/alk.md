@@ -1,0 +1,43 @@
+---
+iso: alk
+name: Alak
+autonym: Harak
+population: 4000
+country_id: LA
+country_name: Laos
+status_id: 6a
+latitude: 15.5565
+longitude: 106.59719
+glottocode: alak1253
+glottolog_family_id: aust1305
+glottolog_family_name: Austroasiatic
+glottolog_classification: "Austroasiatic > Bahnaric > West Bahnaric > Alak"
+wikipedia_url: "https://en.wikipedia.org/wiki/Alak_language"
+rolv_dialects:
+  - rolv_code: 1811
+    language_tag: alk-x-HIS01811
+    name: "Alak: Ban Takiaw"
+    country_id: LA
+    location: Laos
+  - rolv_code: 1812
+    language_tag: alk-x-HIS01812
+    name: "Alak: Kamkok"
+    country_id: LA
+    location: Laos
+  - rolv_code: 1814
+    language_tag: alk-x-HIS01814
+    name: "Alak: Lak Sipet"
+    country_id: LA
+    location: Laos
+  - rolv_code: 1826
+    language_tag: alk-x-HIS01826
+    name: "Alak: Ban Kathu Neua"
+    country_id: LA
+    location: Laos
+  - rolv_code: 1827
+    language_tag: alk-x-HIS01827
+    name: "Alak: Ta Put Kok Hai"
+    country_id: LA
+    location: Laos
+---
+Alak is a language spoken by some 4,000 people in southern Laos, especially in the Provinces of Salavan and Sekong. It is closely related to the language spoken by the Bahnars of Vietnam. It includes two dialects, Alak proper and Harak.

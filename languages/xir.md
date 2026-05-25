@@ -1,0 +1,17 @@
+---
+iso: xir
+name: Xiriâna
+autonym: Bahwana
+population: null
+country_id: BR
+country_name: Brazil
+status_id: "9"
+latitude: 2.69932
+longitude: -62.54131
+glottocode: xiri1243
+glottolog_family_id: araw1281
+glottolog_family_name: Arawakan
+glottolog_classification: "Arawakan > Negro-Roraima > Bahuanaic > Xiriâna"
+wikipedia_url: "https://en.wikipedia.org/wiki/Bahuana_language"
+---
+Bahuana (Bahwana), or Shiriana, is an Arawakan language most closely related to Manao and Kariaí, once spoken by the Shiriana people of Roraima, Brazil. It had an active–stative syntax.

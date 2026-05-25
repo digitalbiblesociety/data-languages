@@ -1,0 +1,33 @@
+---
+iso: pci
+name: Duruwa
+autonym: ପରଜିधुरवा
+population: 52300
+country_id: IN
+country_name: India
+status_id: 6a
+latitude: 19.05339
+longitude: 82.48808
+glottocode: duru1236
+glottolog_family_id: drav1251
+glottolog_family_name: Dravidian
+glottolog_classification: "Dravidian > Central Dravidian > Parji-Ollari-Gadaba > Duruwa"
+wikipedia_url: "https://en.wikipedia.org/wiki/Duruwa_language"
+rolv_dialects:
+  - rolv_code: 9451
+    language_tag: pci-x-HIS09451
+    name: "Duruwa: Dharba"
+    country_id: IN
+    location: "India, Chhattisgarh"
+  - rolv_code: 9452
+    language_tag: pci-x-HIS09452
+    name: "Duruwa: Kukanar"
+    country_id: IN
+    location: "India, Chhattisgarh"
+  - rolv_code: 9454
+    language_tag: pci-x-HIS09454
+    name: "Duruwa: Tiriya"
+    country_id: IN
+    location: "India, Chhattisgarh"
+---
+Duruwa or Dhuruwa or Durua is a Central Dravidian language spoken by the Duruwa people of India, in the districts of Koraput in Odisha and Bastar in Chhattisgarh. The language is related to Ollari and Kolami, which is also spoken by other neighbouring tribes.

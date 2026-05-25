@@ -1,0 +1,17 @@
+---
+iso: ror
+name: Rongga
+autonym: bahasa Rongga
+population: 2120
+country_id: ID
+country_name: Indonesia
+status_id: 6a
+latitude: -8.84604
+longitude: 120.70212
+glottocode: rong1269
+glottolog_family_id: aust1307
+glottolog_family_name: Austronesian
+glottolog_classification: "Austronesian > Malayo-Polynesian > Bima-Lembata > Flores > West-Central Flores > Central Flores-Paluqe > Central Flores > Ngada > Rongga"
+wikipedia_url: "https://en.wikipedia.org/wiki/Rongga_language"
+---
+Rongga is a language of central Flores, in East Nusa Tenggara province, Indonesia. Rongga is closely related to Ngadha, and more distantly to Manggarai.

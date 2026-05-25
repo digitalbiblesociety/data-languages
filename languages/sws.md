@@ -1,0 +1,23 @@
+---
+iso: sws
+name: Seluwasan
+autonym: Selvasa
+population: 2100
+country_id: ID
+country_name: Indonesia
+status_id: 6b
+latitude: -7.59918
+longitude: 131.25029
+glottocode: selu1242
+glottolog_family_id: aust1307
+glottolog_family_name: Austronesian
+glottolog_classification: "Austronesian > Malayo-Polynesian > Timor-Babar > Southwest Maluku > South Tanimbar > Seluwasan"
+wikipedia_url: "https://en.wikipedia.org/wiki/Seluwasan_language"
+rolv_dialects:
+  - rolv_code: 16454
+    language_tag: sws-x-HIS16454
+    name: "Seluwasan: Makatian"
+    country_id: ID
+    location: "Indonesia, Maluku"
+---
+Seluwasan is an Austronesian language of Yamdena, in the Maluku Islands of Indonesia. It is not close to Selaru. The Makatian dialect is distinct.

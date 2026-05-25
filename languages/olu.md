@@ -1,0 +1,23 @@
+---
+iso: olu
+name: Kuvale
+autonym: null
+population: null
+country_id: AO
+country_name: Angola
+status_id: null
+latitude: -15.3065
+longitude: 12.7148
+glottocode: kuva1244
+glottolog_family_id: atla1278
+glottolog_family_name: Atlantic-Congo
+glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > Central-Western Bantu > Njila > Southern Njila > Kunene > Cimbebasia > Kuvale"
+wikipedia_url: "https://en.wikipedia.org/wiki/Kuvale_language"
+rolv_dialects:
+  - rolv_code: 30502
+    language_tag: olu-x-HIS30502
+    name: "Olukuvale: Himba"
+    country_id: AO
+    location: Angola
+---
+Kuvale is a Southern Bantu language spoken in Angola, in the middle of a large Umbundu-speaking area. It has traditionally been considered a dialect of Herero; however, Maho (2009) has moved it from Bantu Zone R.30 to Zone R.10, which includes Umbundu and a few smaller languages. Ngendelengo may be a distinct language.

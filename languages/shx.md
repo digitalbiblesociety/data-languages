@@ -1,0 +1,28 @@
+---
+iso: shx
+name: She
+autonym: Ho Ne
+population: 709000
+country_id: CN
+country_name: China
+status_id: 8b
+latitude: 23.03995
+longitude: 114.81419
+glottocode: shee1238
+glottolog_family_id: hmon1336
+glottolog_family_name: Hmong-Mien
+glottolog_classification: "Hmong-Mien > Hmongic > Nuclear Hmongic-Ho Ne > Jiongnai-Ho Ne > Ho Neic > She"
+wikipedia_url: "https://en.wikipedia.org/wiki/She_language"
+rolv_dialects:
+  - rolv_code: 16602
+    language_tag: shx-x-HIS16602
+    name: "She: Lianhua"
+    country_id: CN
+    location: "China, Guangdong"
+  - rolv_code: 16603
+    language_tag: shx-x-HIS16603
+    name: "She: Luofu"
+    country_id: CN
+    location: "China, Guangdong"
+---
+The She language, autonym Ho Le or Ho Ne, or Ho Nte, is a critically endangered Hmong–Mien language spoken by the She people. Most of the over 709,000 She people today speak She Chinese. Those who speak Sheyu—approximately 1,200 individuals in Guangdong Province—call themselves Ho Ne, "mountain people".

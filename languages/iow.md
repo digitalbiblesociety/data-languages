@@ -1,0 +1,33 @@
+---
+iso: iow
+name: "Iowa-Oto"
+autonym: "Báxoje-Jíwere-Ñútˀachi"
+population: 33
+country_id: US
+country_name: United States
+status_id: "9"
+latitude: 40.05114
+longitude: -95.52135
+glottocode: iowa1245
+glottolog_family_id: siou1252
+glottolog_family_name: Siouan
+glottolog_classification: "Siouan > Mississippi Valley > Winnebago-Chiwere > Iowa-Oto"
+wikipedia_url: "https://en.wikipedia.org/wiki/Chiwere_language"
+rolv_dialects:
+  - rolv_code: 25097
+    language_tag: iow-x-HIS25097
+    name: "Iowa-Oto: Iowa"
+    country_id: US
+    location: United States of America
+  - rolv_code: 25098
+    language_tag: iow-x-HIS25098
+    name: "Iowa-Oto: Chiwere"
+    country_id: US
+    location: United States of America
+  - rolv_code: 26441
+    language_tag: iow-x-HIS26441
+    name: "Iowa-Oto: Missouria"
+    country_id: US
+    location: United States of America
+---
+Chiwere is a Siouan language originally spoken by the Missouria, Otoe, and Iowa peoples, who originated in the Great Lakes region but later moved throughout the Midwest and plains. The language is closely related to Ho-Chunk, also known as Winnebago.

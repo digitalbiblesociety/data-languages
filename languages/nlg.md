@@ -1,0 +1,17 @@
+---
+iso: nlg
+name: Gela
+autonym: Nggela
+population: 11900
+country_id: SB
+country_name: Solomon Islands
+status_id: "5"
+latitude: -9.04587
+longitude: 160.1865
+glottocode: gela1263
+glottolog_family_id: aust1307
+glottolog_family_name: Austronesian
+glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Southeast Solomonic > Guadalcanal-Nggelic > Nuclear Guadalcanal-Nggelic > Nggelic > Gela"
+wikipedia_url: "https://en.wikipedia.org/wiki/Gela_language"
+---
+Gela, also known as Nggela and formerly as Florida, is an Oceanic language spoken in the Nggela Islands, in the middle of the Solomon Islands. It belongs to the Southeast Solomonic group of the Oceanic family.

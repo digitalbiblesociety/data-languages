@@ -1,0 +1,26 @@
+---
+iso: gud
+name: Yocoboué Dida
+autonym: null
+population: 102000
+country_id: CI
+country_name: "Côte d'Ivoire"
+status_id: "5"
+latitude: 5.40126
+longitude: -5.12242
+glottocode: yoco1235
+glottolog_family_id: krua1234
+glottolog_family_name: Kru
+glottolog_classification: "Kru > Eastern Kru > Neyo-Dida > Dida > Yocoboué Dida"
+rolv_dialects:
+  - rolv_code: 9253
+    language_tag: gud-x-HIS09253
+    name: "Dida, Yocoboue: Divo"
+    country_id: CI
+    location: "Côte d'Ivoire"
+  - rolv_code: 9254
+    language_tag: gud-x-HIS09254
+    name: "Dida, Yocoboue: Lozoua"
+    country_id: CI
+    location: "Côte d'Ivoire"
+---

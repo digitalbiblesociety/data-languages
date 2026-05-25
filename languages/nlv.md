@@ -1,0 +1,23 @@
+---
+iso: nlv
+name: Orizaba Nahuatl
+autonym: Āwilisāpan Nāwatl
+population: 120000
+country_id: MX
+country_name: Mexico
+status_id: 6a
+latitude: 18.63995
+longitude: -96.97648
+glottocode: oriz1235
+glottolog_family_id: utoa1244
+glottolog_family_name: Uto-Aztecan
+glottolog_classification: "Uto-Aztecan > Southern Uto-Aztecan > Corachol-Aztecan > Aztec > Eastern Nahuatl > Orizaba Nahuatl"
+wikipedia_url: "https://en.wikipedia.org/wiki/Orizaba_Nahuatl"
+rolv_dialects:
+  - rolv_code: 14635
+    language_tag: nlv-x-HIS14635
+    name: "Nahuatl, Orizaba: Ixhuatlancillo"
+    country_id: MX
+    location: "Mexico, Veracruz"
+---
+Orizaba Nahuatl is a native American language spoken in the southeastern Mexican state of Veracruz mostly in the area to the south of the city of Orizaba. It is also known as Orizaba Aztec and Náhuatl de la Sierra de Zongolica. It has 79 percent intelligibility with Morelos Nahuatl. There is a dialect called Ixhuatlancillo Nahuatl which is spoken in a town to the north of Orizaba. There is one secondary school which uses this language.

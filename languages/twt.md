@@ -1,0 +1,17 @@
+---
+iso: twt
+name: Turiwára
+autonym: Turiuara
+population: null
+country_id: BR
+country_name: Brazil
+status_id: "9"
+latitude: -2
+longitude: -49.5
+glottocode: turi1247
+glottolog_family_id: tupi1275
+glottolog_family_name: Tupian
+glottolog_classification: "Tupian > Eastern Tupian > Maweti-Guarani > Aweti-Guarani > Tupi-Guarani > Tupi-Guarani Subgroup IV > Tupi-Guarani Subgroup IV.B > Turiwára"
+wikipedia_url: "https://en.wikipedia.org/wiki/Turiw%C3%A1ra_language"
+---
+Turiwára is an extinct Tupi–Guaraní language of the state of Pará, in the Amazon region of Brazil.

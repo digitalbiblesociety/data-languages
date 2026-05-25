@@ -1,0 +1,17 @@
+---
+iso: ruf
+name: Luguru
+autonym: Ikiruguru
+population: 404000
+country_id: TZ
+country_name: Tanzania
+status_id: 6a
+latitude: -6.86828
+longitude: 37.55569
+glottocode: lugu1238
+glottolog_family_id: atla1278
+glottolog_family_name: Atlantic-Congo
+glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > East Bantu > Northeast Savanna Bantu > Northeast Coastal Bantu > Ruvu > East Ruvu > Luguru"
+wikipedia_url: "https://en.wikipedia.org/wiki/Luguru_language"
+---
+Luguru is a Bantu language spoken by the Luguru people of the Morogoro region and the Pwani region of Tanzania. The name is also spelled Lughuru, Lugulu, Ruguru. It is closely related to Gogo and Zaramo, but is not intelligible with other languages.

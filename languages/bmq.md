@@ -1,0 +1,34 @@
+---
+iso: bmq
+name: Bomu
+autonym: Western Bobo Wule
+population: 153000
+country_id: ML
+country_name: Mali
+status_id: "5"
+latitude: 12.381555
+longitude: -4.538
+scripts: [Latn]
+glottocode: bomu1247
+glottolog_family_id: atla1278
+glottolog_family_name: Atlantic-Congo
+glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Gur > Central Gur > Northern Central Gur > Bwamu-Oti-Volta > Bwamu > Bomu"
+wikipedia_url: "https://en.wikipedia.org/wiki/Bomu_language"
+rolv_dialects:
+  - rolv_code: 8287
+    language_tag: bmq-x-HIS08287
+    name: "Bomu: Dahanmu"
+    country_id: ML
+    location: "Mali, Mopti"
+  - rolv_code: 8288
+    language_tag: bmq-x-HIS08288
+    name: "Bomu: Dwemu"
+    country_id: ML
+    location: "Mali, Mopti"
+  - rolv_code: 24468
+    language_tag: bmq-x-HIS24468
+    name: "Bomu: Mao"
+    country_id: ML
+    location: "Mali, Mopti"
+---
+The Bo language of West Africa, Bomu (Boomu), also identified as Western Bobo Wule, is a Gur language of Burkina Faso and Mali.

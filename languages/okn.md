@@ -1,0 +1,28 @@
+---
+iso: okn
+name: "Oki-No-Erabu"
+autonym: 島ムニ / Shimamuni
+population: 3200
+country_id: JP
+country_name: Japan
+status_id: "7"
+latitude: 27.37384
+longitude: 128.6187
+glottocode: okin1246
+glottolog_family_id: japo1237
+glottolog_family_name: Japonic
+glottolog_classification: "Japonic > Ryukyuan > Northern Ryukyuan > Amami > Nuclear Amami > Okinoerabu-Tokunoshima > Oki-No-Erabu"
+wikipedia_url: "https://en.wikipedia.org/wiki/Okinoerabu_dialect_cluster"
+rolv_dialects:
+  - rolv_code: 15263
+    language_tag: okn-x-HIS15263
+    name: "Oki-No-Erabu: East"
+    country_id: JP
+    location: Japan
+  - rolv_code: 15264
+    language_tag: okn-x-HIS15264
+    name: "Oki-No-Erabu: West"
+    country_id: JP
+    location: Japan
+---
+The Okinoerabu dialect cluster, also Oki-no-Erabu, is a dialect cluster spoken on Okinoerabu Island, Kagoshima Prefecture of southwestern Japan. It is part of the Amami–Okinawan languages, which are part of the Japonic languages.

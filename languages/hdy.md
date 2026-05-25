@@ -1,0 +1,28 @@
+---
+iso: hdy
+name: Hadiyya
+autonym: Adea
+population: 1840000
+country_id: ET
+country_name: Ethiopia
+status_id: 6b
+latitude: 7.57377
+longitude: 37.75771
+glottocode: hadi1240
+glottolog_family_id: afro1255
+glottolog_family_name: Afro-Asiatic
+glottolog_classification: "Afro-Asiatic > Cushitic > East Cushitic > Highland East Cushitic > Sidaama-Hadiyya-Kambaata > Hadiyya-Kambaata > Hadiyyaic > Hadiyya"
+wikipedia_url: "https://en.wikipedia.org/wiki/Hadiyya_language"
+rolv_dialects:
+  - rolv_code: 10510
+    language_tag: hdy-x-HIS10510
+    name: "Hadiyya: Leemo"
+    country_id: ET
+    location: Ethiopia
+  - rolv_code: 10511
+    language_tag: hdy-x-HIS10511
+    name: "Hadiyya: Soro"
+    country_id: ET
+    location: Ethiopia
+---
+Hadiyya is the language of the Hadiya people of Ethiopia. Over 1.2 million people speak Hadiyya, making it one of the ten major languages in Ethiopia. It is a Highland East Cushitic language of the Afroasiatic family. Most speakers live in the Hadiya Zone of the Southern Nations, Nationalities, and People's Region (SNNPR). The language has four recognized dialects—Leemo, Badawacho, Shashogo, and Sooro. These are mutually intelligible, with slight regional variations.

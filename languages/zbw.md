@@ -1,0 +1,15 @@
+---
+iso: zbw
+name: West Berawan
+autonym: Berawan
+population: 720
+country_id: MY
+country_name: Malaysia
+status_id: 6b
+latitude: 3.9815
+longitude: 114.52796
+glottocode: west2564
+glottolog_family_id: aust1307
+glottolog_family_name: Austronesian
+glottolog_classification: "Austronesian > Malayo-Polynesian > North Borneo Malayo-Polynesian > North Sarawakan > Berawan-Lower Baram > Berawan > West Berawan"
+---

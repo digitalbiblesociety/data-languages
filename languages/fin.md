@@ -1,0 +1,49 @@
+---
+iso: fin
+name: Finnish
+autonym: suomen kieli
+population: 5770040
+country_id: FI
+country_name: Finland
+status_id: "1"
+latitude: 64.762825
+longitude: 25.55767
+scripts: [Latn]
+glottocode: finn1318
+glottolog_family_id: ural1272
+glottolog_family_name: Uralic
+glottolog_classification: "Uralic > Finnic > Coastal Finnic > Neva > North Finnic > Nuclear Finnish > Finnish"
+wikipedia_url: "https://en.wikipedia.org/wiki/Finnish_language"
+rolv_dialects:
+  - rolv_code: 9819
+    language_tag: fi-x-HIS09819
+    name: "Finnish: Central and North Pohjanmaa"
+    country_id: FI
+    location: Finland
+  - rolv_code: 9820
+    language_tag: fi-x-HIS09820
+    name: "Finnish: Hame"
+    country_id: FI
+    location: Finland
+  - rolv_code: 9821
+    language_tag: fi-x-HIS09821
+    name: "Finnish: Perapohja"
+    country_id: FI
+    location: Finland
+  - rolv_code: 9822
+    language_tag: fi-x-HIS09822
+    name: "Finnish: Savo"
+    country_id: FI
+    location: Finland
+  - rolv_code: 9823
+    language_tag: fi-x-HIS09823
+    name: "Finnish: South Pohjanmaa"
+    country_id: FI
+    location: Finland
+  - rolv_code: 9825
+    language_tag: fi-x-HIS09825
+    name: "Finnish: Southwestern"
+    country_id: FI
+    location: Finland
+---
+Finnish is a Finnic language of the Uralic language family, spoken by the majority of the population in Finland and by ethnic Finns outside of Finland. Finnish is one of the two official languages of Finland, alongside Swedish. In Sweden, both Finnish and Meänkieli are official minority languages. Kven, which like Meänkieli is mutually intelligible with Finnish, is spoken in the Norwegian counties of Troms and Finnmark by a minority of Finnish descent. However, these are recognized as independent languages in their relative countries for sociohistorical reasons.

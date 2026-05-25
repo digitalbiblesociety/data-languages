@@ -1,0 +1,17 @@
+---
+iso: csy
+name: Siyin Chin
+autonym: Siyin
+population: 10700
+country_id: MM
+country_name: Myanmar
+status_id: "5"
+latitude: 23.81919
+longitude: 93.68843
+glottocode: siyi1240
+glottolog_family_id: sino1245
+glottolog_family_name: Sino-Tibetan
+glottolog_classification: "Sino-Tibetan > Kuki-Chin-Naga > Kuki-Chin > Peripheral Kuki-Chin > Northeastern Kuki-Chin > Sizangic > Sizang Chin"
+wikipedia_url: "https://en.wikipedia.org/wiki/Sizang_language"
+---
+Sizang, or Siyin, is a Kuki-Chin language spoken by the Sizang people in southern Tedim Township, Chin State, Burma. A written script for Siyin was created in 1891 by Captain F.M. Rundal.

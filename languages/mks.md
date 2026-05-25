@@ -1,0 +1,38 @@
+---
+iso: mks
+name: Silacayoapan Mixtec
+autonym: "Mixtec, Silacayoapan"
+population: 18700
+country_id: MX
+country_name: Mexico
+status_id: "5"
+latitude: 17.55407
+longitude: -98.11629
+glottocode: sila1250
+glottolog_family_id: otom1299
+glottolog_family_name: Otomanguean
+glottolog_classification: "Otomanguean > Eastern Otomanguean > Amuzgo-Mixtecan > Mixtecan > Mixtec-Cuicatec > Mixtec > Central-Western Baja Mixtec > Silacayoapan Mixtec"
+wikipedia_url: "https://en.wikipedia.org/wiki/Silacayoapan_Mixtec"
+rolv_dialects:
+  - rolv_code: 4182
+    language_tag: mks-x-HIS04182
+    name: "Mixtec, Silacayoapan: San Jorge Nuchita"
+    country_id: MX
+    location: "Mexico, Oaxaca, Huajuapan, San Jorge Nuchita"
+  - rolv_code: 4198
+    language_tag: mks-x-HIS04198
+    name: "Mixtec, Silacayoapan: Atenango"
+    country_id: MX
+    location: "Mexico, Oaxaca, Silacayoapan"
+  - rolv_code: 4779
+    language_tag: mks-x-HIS04779
+    name: "Mixtec, Silacayoapan: Zahuatlan"
+    country_id: MX
+    location: "Mexico, Oaxaca"
+  - rolv_code: 6365
+    language_tag: mks-x-HIS06365
+    name: "Mixtec, Silacayoapan: San Antonio de las Mesas"
+    country_id: MX
+    location: "Mexico, Oaxaca"
+---
+Silacayoapan is one of the more extensive Mixtec languages. It is spoken by 150,000 people in Puebla and across the border in Guerrero, as well as by emigrants to the United States.

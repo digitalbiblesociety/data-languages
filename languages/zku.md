@@ -1,0 +1,17 @@
+---
+iso: zku
+name: Kaurna
+autonym: Kaurna Warra
+population: null
+country_id: AU
+country_name: Australia
+status_id: null
+latitude: -34.349661
+longitude: 138.480079
+glottocode: kaur1267
+glottolog_family_id: pama1250
+glottolog_family_name: Pama-Nyungan
+glottolog_classification: "Pama-Nyungan > Arandic-Thura-Yura > Thura-Yura > Core Thura Yura > Southern Thura-Yura > Kaurna"
+wikipedia_url: "https://en.wikipedia.org/wiki/Kaurna_language"
+---
+Kaurna is a Pama-Nyungan language historically spoken by the Kaurna peoples of the Adelaide Plains of South Australia. The Kaurna peoples are made up of various tribal clan groups, each with their own parnkarra district of land and local dialect. These dialects were historically spoken in the area bounded by Crystal Brook and Clare in the north, Cape Jervis in the south, and just over the Mount Lofty Ranges. Kaurna ceased to be spoken on an everyday basis in the 19th century and the last known native speaker, Ivaritji, died in 1929. Language revival efforts began in the 1980s, with the language now frequently used for ceremonial purposes, such as dual naming and welcome to country ceremonies.

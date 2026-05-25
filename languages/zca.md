@@ -1,0 +1,17 @@
+---
+iso: zca
+name: Coatecas Altas Zapotec
+autonym: (San Juan Coatecas Altas)
+population: 4880
+country_id: MX
+country_name: Mexico
+status_id: 6a
+latitude: 16.56088
+longitude: -96.73363
+glottocode: coat1244
+glottolog_family_id: otom1299
+glottolog_family_name: Otomanguean
+glottolog_classification: "Otomanguean > Eastern Otomanguean > Popoloca-Zapotecan > Zapotecan > Zapotec > Core Zapotec > Macrocoatecano > Coatecas Altas Zapotec"
+wikipedia_url: "https://en.wikipedia.org/wiki/Coatecas_Altas_Zapotec"
+---
+Coatecas Altas Zapotec is a Zapotec language spoken in southern Oaxaca, Mexico, in and around the town of Coatecas Altas, in the Ejutla District, south of Oaxaca City. It is 83% intelligible with Ozolotepec Zapotec, and similar to Miahuatlán Zapotec.

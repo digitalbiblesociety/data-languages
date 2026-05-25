@@ -1,0 +1,48 @@
+---
+iso: xsm
+name: Kasem
+autonym: Kassena
+population: 232600
+country_id: BF
+country_name: Burkina Faso
+status_id: "5"
+latitude: 11.082395
+longitude: -1.390755
+glottocode: kase1253
+glottolog_family_id: atla1278
+glottolog_family_name: Atlantic-Congo
+glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Gur > Central Gur > Southern Central Gur > Grusi > Northern Grusi > Nuna-Kasem > Kasem"
+wikipedia_url: "https://en.wikipedia.org/wiki/Kasena_language"
+rolv_dialects:
+  - rolv_code: 11656
+    language_tag: xsm-x-HIS11656
+    name: "Kasem: Eastern"
+    country_id: BF
+    location: Burkina Faso
+  - rolv_code: 11657
+    language_tag: xsm-x-HIS11657
+    name: "Kasem: Fere"
+    country_id: GH
+    location: "Ghana, Upper East"
+  - rolv_code: 11658
+    language_tag: xsm-x-HIS11658
+    name: "Kasem: Kasem"
+    country_id: GH
+    location: "Ghana, Upper East"
+  - rolv_code: 11659
+    language_tag: xsm-x-HIS11659
+    name: "Kasem: Lela"
+    country_id: GH
+    location: "Ghana, Upper East"
+  - rolv_code: 11660
+    language_tag: xsm-x-HIS11660
+    name: "Kasem: Nunuma"
+    country_id: GH
+    location: "Ghana, Upper East"
+  - rolv_code: 11661
+    language_tag: xsm-x-HIS11661
+    name: "Kasem: Western"
+    country_id: BF
+    location: Burkina Faso
+---
+Kasena or Kassena is the language of the Kassena ethnic group and is a Gur language spoken in the Upper East Region of northern Ghana and in Burkina Faso.

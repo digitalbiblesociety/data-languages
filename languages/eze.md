@@ -1,0 +1,17 @@
+---
+iso: eze
+name: Uzekwe
+autonym: Uzekwe
+population: 5000
+country_id: NG
+country_name: Nigeria
+status_id: 6a
+latitude: 6.58841
+longitude: 8.31399
+glottocode: uzek1238
+glottolog_family_id: atla1278
+glottolog_family_name: Atlantic-Congo
+glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Delta Cross > Upper Cross > Central Upper Cross > North-South Central Delta Cross > Koring-Kukele > Kukele-Uzekwe > Uzekwe"
+wikipedia_url: "https://en.wikipedia.org/wiki/Zekwe_language"
+---
+The Zekwe language, Uzekwe, is an Upper Cross River language of Nigeria.

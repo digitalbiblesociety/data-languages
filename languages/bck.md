@@ -1,0 +1,17 @@
+---
+iso: bck
+name: Bunuba
+autonym: "Bunaba, Bunapa, Punuba, Punapa, Punaba, Buniba"
+population: 160
+country_id: AU
+country_name: Australia
+status_id: 8a
+latitude: -17.82967
+longitude: 125.63098
+glottocode: buna1275
+glottolog_family_id: buna1274
+glottolog_family_name: Bunaban
+glottolog_classification: "Bunaban > Bunaba"
+wikipedia_url: "https://en.wikipedia.org/wiki/Bunuba_language"
+---
+Bunuba is an Australian Aboriginal language spoken by some 41 older Bunuba adults, most of whom live in Junjuwa, an Aboriginal community in Fitzroy Crossing in Western Australia. Bunuba is not related to the Pama-Nyungan language family that spans the majority of Australia; however, it is a relative of Guniyandi. Both are subgroups of the Bunuban language family. Bunuba consists of two dialects, 'light' and 'heavy' Bunuba.

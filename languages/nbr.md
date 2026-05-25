@@ -1,0 +1,43 @@
+---
+iso: nbr
+name: Numana
+autonym: Gwantu
+population: 50000
+country_id: NG
+country_name: Nigeria
+status_id: 6a
+latitude: 9.16563
+longitude: 8.4657
+glottocode: numa1252
+glottolog_family_id: atla1278
+glottolog_family_name: Atlantic-Congo
+glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Benue-Congo Plateau > Ninzic > Numana"
+wikipedia_url: "https://en.wikipedia.org/wiki/Numana_language"
+rolv_dialects:
+  - rolv_code: 15105
+    language_tag: nbr-x-HIS15105
+    name: "Numana: Numbu"
+    country_id: NG
+    location: "Nigeria, Kaduna"
+  - rolv_code: 15106
+    language_tag: nbr-x-HIS15106
+    name: "Numana: Nunku"
+    country_id: NG
+    location: "Nigeria, Kaduna"
+  - rolv_code: 23877
+    language_tag: nbr-x-HIS23877
+    name: "Numana: Janda"
+    country_id: NG
+    location: "Nigeria, Kaduna"
+  - rolv_code: 23878
+    language_tag: nbr-x-HIS23878
+    name: "Numana: Ningye"
+    country_id: NG
+    location: "Nigeria, Kaduna"
+  - rolv_code: 24037
+    language_tag: nbr-x-HIS24037
+    name: "Numana: Gbantu"
+    country_id: NG
+    location: "Nigeria, Kaduna"
+---
+Numana is a dialect cluster of Plateau languages in Nigeria.

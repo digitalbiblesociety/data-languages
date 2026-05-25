@@ -1,0 +1,33 @@
+---
+iso: ati
+name: Attié
+autonym: Akie
+population: 642000
+country_id: CI
+country_name: "Côte d'Ivoire"
+status_id: "5"
+latitude: 5.9977
+longitude: -3.8209
+glottocode: atti1239
+glottolog_family_id: atla1278
+glottolog_family_name: Atlantic-Congo
+glottolog_classification: "Atlantic-Congo > Volta-Congo > Kwa Volta-Congo > Nyo > Attié"
+wikipedia_url: "https://en.wikipedia.org/wiki/Atti%C3%A9_language"
+rolv_dialects:
+  - rolv_code: 7336
+    language_tag: ati-x-HIS07336
+    name: Bodin
+    country_id: CI
+    location: "Côte d'Ivoire"
+  - rolv_code: 7337
+    language_tag: ati-x-HIS07337
+    name: Ketin
+    country_id: CI
+    location: "Côte d'Ivoire"
+  - rolv_code: 7338
+    language_tag: ati-x-HIS07338
+    name: "Attie: Naindin"
+    country_id: CI
+    location: "Côte d'Ivoire"
+---
+Attié is a language of uncertain classification within the Kwa branch of the Niger–Congo family. It is spoken by perhaps half a million people in Ivory Coast.

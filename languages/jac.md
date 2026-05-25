@@ -1,0 +1,23 @@
+---
+iso: jac
+name: "Popti'"
+autonym: Poptiʼ
+population: 33130
+country_id: GT
+country_name: Guatemala
+status_id: "5"
+latitude: 15.66095
+longitude: -91.66327
+glottocode: popt1235
+glottolog_family_id: maya1287
+glottolog_family_name: Mayan
+glottolog_classification: "Mayan > Core Mayan > Western Mayan > Kanjobalan-Chujean > Kanjobalan > Kanjobal-Jacaltec > Popti'"
+wikipedia_url: "https://en.wikipedia.org/wiki/Jakaltek_language"
+rolv_dialects:
+  - rolv_code: 542
+    language_tag: jac-x-HIS00542
+    name: "Jakalteko: Eastern"
+    country_id: GT
+    location: "Guatemala, Huehuetenango"
+---
+The Jakaltek (Jacaltec) language, also known as Jakalteko (Jacalteco) or Poptiʼ, is a Mayan language from the Q’anjob’alan-chujean branch spoken by the Jakaltek people in some municipalities in the state of Chiapas, Mexico and the municipality of Jacaltenango in the department of Huehuetenango, Guatemala in the border between both countries. Jakaltek is closely related with the Q'anjob'al and Akatek language and more distantly related with the Tojol-ab'al, Chuj and Mocho'. In Mexico it is also known as Ab'xub'al.

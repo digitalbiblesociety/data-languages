@@ -1,0 +1,23 @@
+---
+iso: hre
+name: Hre
+autonym: "Cham-Re"
+population: 127000
+country_id: VN
+country_name: Vietnam
+status_id: "5"
+latitude: 14.63082
+longitude: 108.69418
+glottocode: hree1244
+glottolog_family_id: aust1305
+glottolog_family_name: Austroasiatic
+glottolog_classification: "Austroasiatic > Bahnaric > North Bahnaric > Hre-Sedang-Todrah-Monam > Hre-Sedang > Hre"
+wikipedia_url: "https://en.wikipedia.org/wiki/Hr%C3%AA_language"
+rolv_dialects:
+  - rolv_code: 3328
+    language_tag: hre-x-HIS03328
+    name: "Hre: Son-Ha"
+    country_id: VN
+    location: Vietnam
+---
+Hrê is a North Bahnaric language of central Vietnam. At the 2009 census, there were 127,000 ethnic Hrê.

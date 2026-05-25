@@ -1,0 +1,33 @@
+---
+iso: atv
+name: Northern Altai
+autonym: тÿндÿк алтай тили
+population: 1570
+country_id: RU
+country_name: Russia
+status_id: 6b
+latitude: 50.89984
+longitude: 88.06722
+glottocode: nort2686
+glottolog_family_id: turk1311
+glottolog_family_name: Turkic
+glottolog_classification: "Turkic > Common Turkic > South Siberian Turkic > Northern Altai-Lower Chulym > Northern Altai"
+wikipedia_url: "https://en.wikipedia.org/wiki/Northern_Altai_language"
+rolv_dialects:
+  - rolv_code: 24293
+    language_tag: atv-x-HIS24293
+    name: "Altai, Northern: Chalkan"
+    country_id: RU
+    location: Russia
+  - rolv_code: 24294
+    language_tag: atv-x-HIS24294
+    name: "Altai, Northern: Kumandy"
+    country_id: RU
+    location: Russia
+  - rolv_code: 24295
+    language_tag: atv-x-HIS24295
+    name: "Altai, Northern: Tuba"
+    country_id: RU
+    location: Russia
+---
+Northern Altai or Northern Altay is a collective name for a grouping of three moribund Turkic dialects spoken in the Altai Republic of Russia. Though traditionally considered one language, Southern and Northern Altai are not fully mutually intelligible. Written Altai is based on Southern Altai, and is rejected by Northern Altai children.

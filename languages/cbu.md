@@ -1,0 +1,20 @@
+---
+iso: cbu
+name: "Candoshi-Shapra"
+autonym: "Kandozi-Chapra"
+population: 3260
+country_id: PE
+country_name: Peru
+status_id: "5"
+latitude: -4.23835
+longitude: -76.93474
+glottocode: cand1248
+wikipedia_url: "https://en.wikipedia.org/wiki/Candoshi-Shapra_language"
+rolv_dialects:
+  - rolv_code: 8628
+    language_tag: cbu-x-HIS08628
+    name: "Kandozi-Chapra: Chapra"
+    country_id: PE
+    location: Peru
+---
+Candoshi-Shapra is an indigenous American language isolate, spoken by several thousand people in western South America along the Chapuli, Huitoyacu, Pastaza, and Morona river valleys. There are two dialects, Chapara and Kandoashi (Kandozi). It is an official language of Peru, like other native languages in the areas in which they are spoken and are the predominant language in use. Around 88.5 percent of the speakers are bilingual with Spanish. The literacy rate in Candoshi-Shapra is 10 to 30 percent and 15 to 25 percent in the second language Spanish. There is a Candoshi-Shapra dictionary, and grammar rules have been codified.

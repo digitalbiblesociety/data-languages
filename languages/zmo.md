@@ -1,0 +1,17 @@
+---
+iso: zmo
+name: Molo
+autonym: Malkan
+population: 100
+country_id: SD
+country_name: Sudan
+status_id: 8b
+latitude: 10.79304
+longitude: 33.56769
+glottocode: molo1257
+glottolog_family_id: east2386
+glottolog_family_name: Eastern Jebel
+glottolog_classification: "Eastern Jebel > Aka-Kelo-Molo > Molo"
+wikipedia_url: "https://en.wikipedia.org/wiki/Molo_language"
+---
+Molo (Malkan) is a moribund Nilo-Saharan language spoken by a few of the Molo people of Sudan. It is considered "Critically Endangered" according to UNESCO's Atlas of the World's Languages in Danger, with around 100 speakers, according to data from 1988.

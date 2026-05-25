@@ -1,0 +1,41 @@
+---
+iso: thk
+name: Tharaka
+autonym: Kimîîru
+population: 220000
+country_id: KE
+country_name: Kenya
+status_id: "5"
+latitude: -0.13221
+longitude: 38.07303
+glottocode: thar1283
+glottolog_family_id: atla1278
+glottolog_family_name: Atlantic-Congo
+glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > East Bantu > Northeast Savanna Bantu > Central Kenya Bantu > Eastern Kirinyaga > Northern Kirinyaga > Tharaka"
+rolv_dialects:
+  - rolv_code: 17434
+    language_tag: thk-x-HIS17434
+    name: "Kitharaka: Gatue"
+    country_id: KE
+    location: "Kenya, Embu"
+  - rolv_code: 17435
+    language_tag: thk-x-HIS17435
+    name: "Kitharaka: Ntugi"
+    country_id: KE
+    location: "Kenya, Embu"
+  - rolv_code: 17436
+    language_tag: thk-x-HIS17436
+    name: "Kitharaka: Thagicu"
+    country_id: KE
+    location: "Kenya, Embu"
+  - rolv_code: 20666
+    language_tag: thk-x-HIS20666
+    name: "Kitharaka: Tharaka"
+    country_id: KE
+    location: "Kenya, Embu"
+  - rolv_code: 26041
+    language_tag: thk-x-HIS26041
+    name: "Kitharaka: Igoki"
+    country_id: KE
+    location: "Kenya, Embu"
+---

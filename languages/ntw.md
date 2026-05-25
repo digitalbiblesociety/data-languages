@@ -1,0 +1,17 @@
+---
+iso: ntw
+name: Nottoway
+autonym: null
+population: null
+country_id: US
+country_name: United States
+status_id: "9"
+latitude: 36.72
+longitude: -77.115
+glottocode: nott1246
+glottolog_family_id: iroq1247
+glottolog_family_name: Iroquoian
+glottolog_classification: "Iroquoian > Northern Iroquoian > Tuscarora-Nottoway > Nottoway"
+wikipedia_url: "https://en.wikipedia.org/wiki/Nottoway_language"
+---
+Nottoway, also called Cheroenhaka and Nottoway-Meherrin, was an extinct language spoken by the Meherrin and Nottoway peoples. Nottoway is closely related to Tuscarora within the Iroquoian language family. Two tribes of Nottoway are recognized by the state of Virginia: the Nottoway Indian Tribe of Virginia and the Cheroenhaka (Nottoway) Indian Tribe. Other Nottoway descendants live in Wisconsin and Canada, where some of their ancestors fled in the 18th century. The last known speaker, Edith Turner, died in 1838. The Nottoway people are undertaking work for language revival.

@@ -1,0 +1,17 @@
+---
+iso: lgb
+name: Laghu
+autonym: Katova
+population: null
+country_id: SB
+country_name: Solomon Islands
+status_id: 8b
+latitude: -8.00509
+longitude: 158.96112
+glottocode: lagh1246
+glottolog_family_id: aust1307
+glottolog_family_name: Austronesian
+glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > Meso Melanesian linkage > New Ireland-Northwest Solomonic linkage > St George linkage > Northwest Solomonic > West Santa Isabel > Laghu"
+wikipedia_url: "https://en.wikipedia.org/wiki/Laghu_language"
+---
+Laghu, also known as Hoatana or Katova, is an extinct language of Santa Isabel in the Solomon Islands. Its last speaker died in 1984. People in the villages of Baolo and Samasodu, where it used to be spoken, now speak the neighboring Zabana language, which is more widely spoken and still expanding.

@@ -1,0 +1,17 @@
+---
+iso: yso
+name: Nisi (China)
+autonym: mã˥˧ tsi˥˧
+population: 36000
+country_id: CN
+country_name: China
+status_id: 6a
+latitude: 23.418
+longitude: 104.85
+glottocode: nisi1238
+glottolog_family_id: sino1245
+glottolog_family_name: Sino-Tibetan
+glottolog_classification: "Sino-Tibetan > Burmo-Qiangic > Lolo-Burmese > Loloish > Ni-Li-Kazhouish > Southeastern Ngwi > Unclassified Southeastern Ngwi > Nisi (China)"
+wikipedia_url: "https://en.wikipedia.org/wiki/Nisi_language_(China)"
+---
+The Nisoish or Yi languages, which contains both the Northern Loloish and Southeastern Loloish branches, are a branch of the Loloish languages proposed by Lama (2012). Northern Loloish and Southeastern Loloish were established by Bradley (1997), while the Nisoish group combining Bradley's two branches was proposed by Ziwo Lama (2012). Lama (2012) refers to Northern Loloish as Nisoid or Nisu–Lope, and Southeastern Loloish as Axi–Puoid.

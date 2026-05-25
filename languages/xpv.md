@@ -1,0 +1,11 @@
+---
+iso: xpv
+name: "Northern Tasmanian\r"
+autonym: Northern Tasmanian
+population: null
+country_id: AU
+country_name: Australia
+status_id: null
+wikipedia_url: "https://en.wikipedia.org/wiki/Tommeginne_language"
+---
+Northern Tasmanian, or Tommeginne (Tommeeginnee), is an Aboriginal language of Tasmania in the reconstruction of Claire Bowern.

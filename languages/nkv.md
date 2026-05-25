@@ -1,0 +1,15 @@
+---
+iso: nkv
+name: Nyika
+autonym: Kinyika
+population: 10000
+country_id: MW
+country_name: Malawi
+status_id: 6a
+latitude: -10.0231
+longitude: 33.481
+glottocode: nyik1246
+glottolog_family_id: atla1278
+glottolog_family_name: Atlantic-Congo
+glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > East Bantu > Corridor Bantu > Mbozi > Nyika-Lambya > Nyika > Central and Southern Nyika > Nyika (Malawi and Zambia)"
+---

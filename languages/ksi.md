@@ -1,0 +1,17 @@
+---
+iso: ksi
+name: Krisa
+autonym: Krisa
+population: 420
+country_id: PG
+country_name: Papua New Guinea
+status_id: 6a
+latitude: -2.80084
+longitude: 141.30335
+glottocode: kris1246
+glottolog_family_id: skoo1245
+glottolog_family_name: Sko
+glottolog_classification: "Sko > I'saka"
+wikipedia_url: "https://en.wikipedia.org/wiki/I%27saka_language"
+---
+Isaka (I’saka) is the language spoken by the people of the villages of Krisa and Pasi in Sandaun Province, Papua New Guinea. It has also been referred to as Krisa, after the village, although this name is not actually a possible word in the language itself. The sole published source for the language is Donohue and San Roque (2004), although the authors of this have also Identified I’saka material in Donald Laycock's unpublished fieldnotes.

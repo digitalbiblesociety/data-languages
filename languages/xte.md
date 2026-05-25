@@ -1,0 +1,38 @@
+---
+iso: xte
+name: Ketengban
+autonym: Oktengban
+population: 9970
+country_id: ID
+country_name: Indonesia
+status_id: "5"
+latitude: -4.50417
+longitude: 140.44268
+glottocode: kete1254
+glottolog_family_id: nucl1709
+glottolog_family_name: Nuclear Trans New Guinea
+glottolog_classification: "Nuclear Trans New Guinea > Mek > Eastern Mek > Ketengban"
+wikipedia_url: "https://en.wikipedia.org/wiki/Ketengban_language"
+rolv_dialects:
+  - rolv_code: 11891
+    language_tag: xte-x-HIS11891
+    name: "Ketengban: Bime"
+    country_id: ID
+    location: "Indonesia, Papua, Bime"
+  - rolv_code: 11892
+    language_tag: xte-x-HIS11892
+    name: "Ketengban: Okbap"
+    country_id: ID
+    location: "Indonesia, Papua"
+  - rolv_code: 11893
+    language_tag: xte-x-HIS11893
+    name: "Ketengban: Omban"
+    country_id: ID
+    location: "Indonesia, Papua"
+  - rolv_code: 11894
+    language_tag: xte-x-HIS11894
+    name: "Ketengban: Onya"
+    country_id: ID
+    location: "Indonesia, Papua"
+---
+Ketengban, also known as Kupel, is a Papuan language spoken in Pegunungan Bintang Regency, Highland Papua, Indonesia, near the Papua New Guinea border.

@@ -1,0 +1,17 @@
+---
+iso: mky
+name: East Makian
+autonym: Makian Dalam
+population: 18000
+country_id: ID
+country_name: Indonesia
+status_id: 6b
+latitude: 0.07337
+longitude: 127.42329
+glottocode: east2440
+glottolog_family_id: aust1307
+glottolog_family_name: Austronesian
+glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > South Halmahera-West New Guinea > Raja Ampat-South Halmahera > South Halmahera > East Makian-Gane > East Makian"
+wikipedia_url: "https://en.wikipedia.org/wiki/Taba_language"
+---
+Taba is a Malayo-Polynesian language of the South Halmahera–West New Guinea group. It is spoken mostly on the islands of Makian, Kayoa and southern Halmahera in North Maluku province of Indonesia by about 20,000 people.

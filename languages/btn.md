@@ -1,0 +1,23 @@
+---
+iso: btn
+name: Ratagnon
+autonym: Aradigi
+population: 2000
+country_id: PH
+country_name: Philippines
+status_id: 8b
+latitude: 12.27848
+longitude: 121.18703
+glottocode: rata1245
+glottolog_family_id: aust1307
+glottolog_family_name: Austronesian
+glottolog_classification: "Austronesian > Malayo-Polynesian > Greater Central Philippine > Central Philippine > Bisayan > West Bisayan > Kuyan > Datagnon-Santa Teresa-Semirara > Ratagnon"
+wikipedia_url: "https://en.wikipedia.org/wiki/Ratagnon_language"
+rolv_dialects:
+  - rolv_code: 15942
+    language_tag: btn-x-HIS15942
+    name: "Ratagnon: Santa Teresa"
+    country_id: PH
+    location: "Philippines, Luzon, Mimaropa Region, Occidental Mindoro"
+---
+Ratagnon is a regional language spoken by the Ratagnon people, an indigenous group from Occidental Mindoro. It is a part of the Bisayan language family and is closely related to other Philippine languages. Its speakers are shifting to Tagalog. In 2000, there were only two to five speakers of the language. However, in 2010 Ethnologue had reported there were 310 new speakers.

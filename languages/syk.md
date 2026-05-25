@@ -1,0 +1,17 @@
+---
+iso: syk
+name: Sukur
+autonym: Sakwun
+population: 14800
+country_id: NG
+country_name: Nigeria
+status_id: 6a
+latitude: 10.8933
+longitude: 13.64369
+glottocode: suku1272
+glottolog_family_id: afro1255
+glottolog_family_name: Afro-Asiatic
+glottolog_classification: "Afro-Asiatic > Chadic > Biu-Mandara > South Biu-Mandara > Sukur"
+wikipedia_url: "https://en.wikipedia.org/wiki/Sukur_language"
+---
+Sukur is a Biu–Mandara language of Madagali LGA, Adamawa State, Nigeria.

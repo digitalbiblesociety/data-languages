@@ -1,0 +1,9 @@
+---
+iso: xgi
+name: Garingbal
+autonym: Eastern Maric
+population: null
+country_id: AU
+country_name: Australia
+status_id: "10"
+---

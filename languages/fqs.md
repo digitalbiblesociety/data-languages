@@ -1,0 +1,33 @@
+---
+iso: fqs
+name: Fas
+autonym: Momu
+population: 2500
+country_id: PG
+country_name: Papua New Guinea
+status_id: "4"
+latitude: -3.10868
+longitude: 141.64043
+glottocode: fass1245
+glottolog_family_id: baib1250
+glottolog_family_name: Baibai-Fas
+glottolog_classification: "Baibai-Fas > Momu-Fas"
+wikipedia_url: "https://en.wikipedia.org/wiki/Fas_language"
+rolv_dialects:
+  - rolv_code: 1231
+    language_tag: fqs-x-HIS01231
+    name: Bembi
+    country_id: PG
+    location: "Papua New Guinea, Sandaun"
+  - rolv_code: 9786
+    language_tag: fqs-x-HIS09786
+    name: "Fas: Eastern"
+    country_id: PG
+    location: "Papua New Guinea, Sandaun"
+  - rolv_code: 9787
+    language_tag: fqs-x-HIS09787
+    name: "Fas: Western"
+    country_id: PG
+    location: "Papua New Guinea, Sandaun"
+---
+Fas is the eponymous language of the small Fas language family of Sandaun Province, Papua New Guinea.

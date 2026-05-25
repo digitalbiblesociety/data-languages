@@ -1,0 +1,38 @@
+---
+iso: knt
+name: Panoan Katukína
+autonym: Katukína
+population: 315
+country_id: BR
+country_name: Brazil
+status_id: "5"
+latitude: -7.97456
+longitude: -71.56151
+glottocode: pano1254
+glottolog_family_id: pano1259
+glottolog_family_name: Pano-Tacanan
+glottolog_classification: "Pano-Tacanan > Panoan > Mainline Pano > Pano Nawa > Marubo Subgroup > Panoan Katukína"
+wikipedia_url: "https://en.wikipedia.org/wiki/Waninawa_language"
+rolv_dialects:
+  - rolv_code: 11700
+    language_tag: knt-x-HIS11700
+    name: "Katukina, Panoan: Ararapina"
+    country_id: BR
+    location: "Brazil, Amazonas"
+  - rolv_code: 11701
+    language_tag: knt-x-HIS11701
+    name: "Katukina, Panoan: Arara-Shawanawa"
+    country_id: BR
+    location: "Brazil, Amazonas"
+  - rolv_code: 11702
+    language_tag: knt-x-HIS11702
+    name: "Katukina, Panoan: Ararawa"
+    country_id: BR
+    location: "Brazil, Amazonas"
+  - rolv_code: 11703
+    language_tag: knt-x-HIS11703
+    name: "Katukina, Panoan: Sanainawa"
+    country_id: BR
+    location: "Brazil, Amazonas"
+---
+Waninawa, also known as Kamanawa and Panoan Katukína, is a Panoan language of Brazil.

@@ -1,0 +1,33 @@
+---
+iso: tau
+name: Upper Tanana
+autonym: Neeʼaandeegnʼ
+population: 300
+country_id: US
+country_name: United States
+status_id: "7"
+latitude: 62.686735
+longitude: -141.369535
+glottocode: uppe1437
+glottolog_family_id: atha1245
+glottolog_family_name: Athabaskan-Eyak-Tlingit
+glottolog_classification: "Athabaskan-Eyak-Tlingit > Athabaskan-Eyak > Athabaskan > Central Alaska-Yukon Athabaskan > Tanana-Tutchone > Tananaic > Upper Tananaic > Upper Tanana"
+wikipedia_url: "https://en.wikipedia.org/wiki/Upper_Tanana_language"
+rolv_dialects:
+  - rolv_code: 26454
+    language_tag: tau-x-HIS26454
+    name: "Tanana, Upper: Northway"
+    country_id: US
+    location: "United States of America, Alaska"
+  - rolv_code: 26455
+    language_tag: tau-x-HIS26455
+    name: "Tanana, Upper: Scottie Creek"
+    country_id: US
+    location: "United States of America, Alaska"
+  - rolv_code: 26456
+    language_tag: tau-x-HIS26456
+    name: "Tanana, Upper: Tetlin"
+    country_id: US
+    location: "United States of America, Alaska"
+---
+Upper Tanana is an endangered Athabaskan language spoken in eastern Interior Alaska, United States, mainly in the villages of Northway, Tetlin, and Tok, and adjacent areas of the Canadian territory of Yukon. In 2000 there were fewer than 100 speakers, and the language was no longer being acquired by children.

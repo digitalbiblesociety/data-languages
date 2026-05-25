@@ -1,0 +1,17 @@
+---
+iso: ysd
+name: Samatao
+autonym: Samatao
+population: 400
+country_id: CN
+country_name: China
+status_id: 8a
+latitude: 25.012
+longitude: 102.2
+glottocode: sama1295
+glottolog_family_id: sino1245
+glottolog_family_name: Sino-Tibetan
+glottolog_classification: "Sino-Tibetan > Burmo-Qiangic > Lolo-Burmese > Loloish > Ni-Li-Kazhouish > Kazhouish > Samatao"
+wikipedia_url: "https://en.wikipedia.org/wiki/Samu_language"
+---
+The Samu language, or Samatao, also known as Eastern Samadu, is a Loloish language spoken by older adults in Zijun Village 子君村, Yiliu Township 矣六乡, Guandu District 官渡区, Kunming, China. Although there was an ethnic population of 2,465 in 1999, there are no fluent speakers under 50 years of age.

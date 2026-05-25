@@ -1,0 +1,17 @@
+---
+iso: mbz
+name: Amoltepec Mixtec
+autonym: (Santiago Amoltepec)
+population: 5630
+country_id: MX
+country_name: Mexico
+status_id: 6b
+latitude: 16.65209
+longitude: -97.45179
+glottocode: amol1236
+glottolog_family_id: otom1299
+glottolog_family_name: Otomanguean
+glottolog_classification: "Otomanguean > Eastern Otomanguean > Amuzgo-Mixtecan > Mixtecan > Mixtec-Cuicatec > Mixtec > Amoltepec Mixtec"
+wikipedia_url: "https://en.wikipedia.org/wiki/Amoltepec_Mixtec"
+---
+Amoltepec Mixtec is a Mixtec language of Oaxaca. It is not close to other varieties of Mixtec.

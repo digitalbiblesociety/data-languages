@@ -1,0 +1,33 @@
+---
+iso: yba
+name: Yala
+autonym: Nkum
+population: 264000
+country_id: NG
+country_name: Nigeria
+status_id: "5"
+latitude: 6.73852
+longitude: 8.60748
+glottocode: yala1263
+glottolog_family_id: atla1278
+glottolog_family_name: Atlantic-Congo
+glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Idomoid > Akweya > Etulo-Idoma > Nuclear Idoma > Yala"
+wikipedia_url: "https://en.wikipedia.org/wiki/Yala_language"
+rolv_dialects:
+  - rolv_code: 6328
+    language_tag: yba-x-HIS06328
+    name: "Yala: Yala Ogoja"
+    country_id: NG
+    location: "Nigeria, Cross River"
+  - rolv_code: 18418
+    language_tag: yba-x-HIS18418
+    name: "Yala: Nkum"
+    country_id: NG
+    location: "Nigeria, Cross River"
+  - rolv_code: 18419
+    language_tag: yba-x-HIS18419
+    name: "Yala: Nkum Akpambe"
+    country_id: NG
+    location: "Nigeria, Cross River"
+---
+Yala (Iyala) is an Idomoid language of Ogoja, Nigeria. Blench (2019) lists dialects as Ikom, Obubra, and Ogoja.

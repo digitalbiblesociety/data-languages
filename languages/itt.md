@@ -1,0 +1,21 @@
+---
+iso: itt
+name: Maeng Itneg
+autonym: "Kankana-ey"
+population: 18000
+country_id: PH
+country_name: Philippines
+status_id: 6a
+latitude: 17.24531
+longitude: 120.71816
+glottocode: maen1235
+glottolog_family_id: aust1307
+glottolog_family_name: Austronesian
+glottolog_classification: "Austronesian > Malayo-Polynesian > Northern Luzon > Meso-Cordilleran > South-Central Cordilleran > Central Cordilleran > Nuclear Cordilleran > Bontok-Kankanay > Kankanay > Maeng-Northern Kankanay > Maeng Itneg"
+rolv_dialects:
+  - rolv_code: 27287
+    language_tag: itt-x-HIS27287
+    name: "Itneg, Maeng: Kankanaey"
+    country_id: PH
+    location: "Philippines, Luzon, Cordillera Region, Abra"
+---

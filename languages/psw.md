@@ -1,0 +1,23 @@
+---
+iso: psw
+name: Port Sandwich
+autonym: Lamap
+population: 1200
+country_id: VU
+country_name: Vanuatu
+status_id: 8b
+latitude: -16.49524
+longitude: 167.77966
+glottocode: port1285
+glottolog_family_id: aust1307
+glottolog_family_name: Austronesian
+glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > North and Central Vanuatu > Central Vanuatu > Malakula > Eastern Malakula linkage > Central-Southeast Malakula > Southeastern Malakula linkage > Port Sandwich-Axamb-Avok > Port Sandwich"
+wikipedia_url: "https://en.wikipedia.org/wiki/Port_Sandwich_language"
+rolv_dialects:
+  - rolv_code: 4712
+    language_tag: psw-x-HIS04712
+    name: Lamap
+    country_id: VU
+    location: "Vanuatu, Malekula"
+---
+Port Sandwich, or Lamap, is an Oceanic language spoken in southeast Malekula, Vanuatu, on the eastern tip of the island. It was first described in 1979 by French linguist Jean-Michel Charpentier.

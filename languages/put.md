@@ -1,0 +1,11 @@
+---
+iso: put
+name: Putoh
+autonym: Lundayeh
+population: 6000
+country_id: ID
+country_name: Indonesia
+status_id: 6b
+latitude: 3.42467
+longitude: 116.44253
+---

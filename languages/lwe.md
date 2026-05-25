@@ -1,0 +1,17 @@
+---
+iso: lwe
+name: Lewo Eleng
+autonym: bahasa Lewo Eleng
+population: 4000
+country_id: ID
+country_name: Indonesia
+status_id: 6a
+latitude: -8.35741
+longitude: 123.65163
+glottocode: lewo1243
+glottolog_family_id: aust1307
+glottolog_family_name: Austronesian
+glottolog_classification: "Austronesian > Malayo-Polynesian > Bima-Lembata > Flores > Flores-Lembata > Lamaholot Timur > Lewo Eleng"
+wikipedia_url: "https://en.wikipedia.org/wiki/Lewo_Eleng_language"
+---
+Lewo Eleng is a Central Malayo-Polynesian language of the island of Lembata, east of Flores in Indonesia.

@@ -1,0 +1,17 @@
+---
+iso: pso
+name: Polish Sign Language
+autonym: Polski Język Migowy
+population: 25000
+country_id: PL
+country_name: Poland
+status_id: "5"
+latitude: 52.00414
+longitude: 20.76105
+glottocode: poli1259
+glottolog_family_id: sign1238
+glottolog_family_name: Sign Language
+glottolog_classification: "Sign Language > L1 Sign Language > LSFic > Central European Sign > Polish Sign Language"
+wikipedia_url: "https://en.wikipedia.org/wiki/Polish_Sign_Language"
+---
+Polish Sign Language is the language of the deaf community in Poland. Polish Sign Language uses a distinctive one-handed manual alphabet based on the alphabet used in Old French Sign Language and therefore appears to be related to French Sign Language. It may also have common features with Russian Sign Language and German Sign Language, which is related to the history of Poland during the Partitions, when Russification and Germanization influenced the Polish language, and may also have borrowings from the sign language used in the Austrian partition. Its lexicon and grammar are distinct from the Polish language, although there is a manually coded version of Polish known as System Językowo-Migowy, which is often used by interpreters on television and by teachers in schools.

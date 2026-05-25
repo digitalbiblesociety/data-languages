@@ -1,0 +1,38 @@
+---
+iso: lbt
+name: Lachi
+autonym: Cù Te
+population: 1450
+country_id: VN
+country_name: Vietnam
+status_id: 6b
+latitude: 22.85489
+longitude: 104.77576
+glottocode: lach1248
+glottolog_family_id: taik1256
+glottolog_family_name: Tai-Kadai
+glottolog_classification: "Tai-Kadai > Kadaic > Southwestern Kra > Western Kra > Lachic > Lachi"
+wikipedia_url: "https://en.wikipedia.org/wiki/Lachi_language"
+rolv_dialects:
+  - rolv_code: 12651
+    language_tag: lbt-x-HIS12651
+    name: "Lachi: Lipuke"
+    country_id: CN
+    location: "China, Yunnan"
+  - rolv_code: 12653
+    language_tag: lbt-x-HIS12653
+    name: "Lachi: Lipupi"
+    country_id: VN
+    location: Vietnam
+  - rolv_code: 12654
+    language_tag: lbt-x-HIS12654
+    name: "Lachi: Liputcio"
+    country_id: CN
+    location: "China, Yunnan"
+  - rolv_code: 12656
+    language_tag: lbt-x-HIS12656
+    name: "Lachi: Liputio"
+    country_id: VN
+    location: Vietnam
+---
+The Lachi language is a Kra language spoken in Yunnan, China and in northern Vietnam. There were 9,500 Lachi speakers in Vietnam in 1990. Edmondson (2008) reports another 2,500 in Maguan County, Yunnan, China for 1995, but Li Yunbing (2000) reports 60 speakers in Maguan out of an ethnic population of 1,600.

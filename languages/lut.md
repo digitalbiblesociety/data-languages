@@ -1,0 +1,34 @@
+---
+iso: lut
+name: Lushootseed
+autonym: "Skagit-Nisqually"
+population: 2000
+country_id: US
+country_name: United States
+status_id: 8b
+latitude: 48.42
+longitude: -122.52874
+scripts: [Latn]
+glottocode: lush1252
+glottolog_family_id: sali1255
+glottolog_family_name: Salishan
+glottolog_classification: "Salishan > Coast Salish > Central Salish > Lushootseed-Puget > Northern Lushootseed"
+wikipedia_url: "https://en.wikipedia.org/wiki/Lushootseed"
+rolv_dialects:
+  - rolv_code: 13166
+    language_tag: lut-x-HIS13166
+    name: "Lushootseed: Northern"
+    country_id: US
+    location: "United States of America, Washington"
+  - rolv_code: 13167
+    language_tag: lut-x-HIS13167
+    name: "Lushootseed: Southern Lushootseed"
+    country_id: US
+    location: "United States of America, Washington"
+  - rolv_code: 26444
+    language_tag: lut-x-HIS26444
+    name: "Lushootseed: Sauk-Suiattle"
+    country_id: US
+    location: "United States of America, Washington"
+---
+Lushootseed, historically known as Puget Salish, Puget Sound Salish, or Skagit-Nisqually, is a Central Coast Salish language of the Salishan language family. Lushootseed is the general name for the dialect continuum composed of two main dialects, Northern Lushootseed and Southern Lushootseed, which are further separated into smaller sub-dialects.

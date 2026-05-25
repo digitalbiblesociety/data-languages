@@ -1,0 +1,38 @@
+---
+iso: lhu
+name: Lahu
+autonym: Ladhof
+population: 540850
+country_id: CN
+country_name: China
+status_id: "4"
+latitude: 21.270104
+longitude: 100.21372
+glottocode: lahu1253
+glottolog_family_id: sino1245
+glottolog_family_name: Sino-Tibetan
+glottolog_classification: "Sino-Tibetan > Burmo-Qiangic > Lolo-Burmese > Loloish > Lahoid > Lahu"
+wikipedia_url: "https://en.wikipedia.org/wiki/Lahu_language"
+rolv_dialects:
+  - rolv_code: 85
+    language_tag: lhu-x-black
+    name: "Lahu: Na"
+    country_id: CN
+    location: "China, Yunnan"
+  - rolv_code: 566
+    language_tag: lhu-x-HIS00566
+    name: "Lahu: Nyi"
+    country_id: TH
+    location: Thailand
+  - rolv_code: 12683
+    language_tag: lhu-x-HIS12683
+    name: "Lahu: Shehleh"
+    country_id: CN
+    location: "China, Yunnan"
+  - rolv_code: 26816
+    language_tag: lhu-x-HIS26816
+    name: White Lahu
+    country_id: CN
+    location: "China, Yunnan"
+---
+Lahu is a Tibeto-Burman language spoken by the Lahu people of China, Thailand, Myanmar, Vietnam and Laos. It is widely used in China, both by Lahu people, and by other ethnic minorities in Yunnan, who use it as a lingua franca. However, the language is not widely used nor taught in any schools in Thailand, where many Lahu are refugees and illegal immigrants, having crossed into Thailand from Myanmar.

@@ -1,0 +1,14 @@
+---
+iso: fun
+name: Fulniô
+autonym: Carnijó
+population: 2930
+country_id: BR
+country_name: Brazil
+status_id: "7"
+latitude: -9.02591
+longitude: -37.14017
+glottocode: fuln1247
+wikipedia_url: "https://en.wikipedia.org/wiki/Iat%C3%AA_language"
+---
+Iatê, Yatê or Fulniô is a language isolate of Brazil, and the only indigenous language remaining in the northeastern part of that country. The two dialects, Fulniô and Yatê, are very close. The Fulniô dialect is used primarily during a three-month religious retreat. Today, the language is spoken in Águas Belas, Pernambuco.

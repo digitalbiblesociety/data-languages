@@ -1,0 +1,17 @@
+---
+iso: and
+name: Ansus
+autonym: bahasa Ansus
+population: 4600
+country_id: ID
+country_name: Indonesia
+status_id: 6b
+latitude: -1.7543
+longitude: 135.86627
+glottocode: ansu1237
+glottolog_family_id: aust1307
+glottolog_family_name: Austronesian
+glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > South Halmahera-West New Guinea > Cenderawasih Bay > Yapen > Central-Western Yapen > Ansus-Ambai > Ansus"
+wikipedia_url: "https://en.wikipedia.org/wiki/Ansus_language"
+---
+Ansus is an Austronesian language spoken by the Ansus people in the Papua Province of Western New Guinea, Indonesia.

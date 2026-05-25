@@ -1,0 +1,43 @@
+---
+iso: dbl
+name: Dyirbal
+autonym: Djirubal
+population: 8
+country_id: AU
+country_name: Australia
+status_id: 8a
+latitude: -17.45162
+longitude: 145.5442
+glottocode: dyir1250
+glottolog_family_id: pama1250
+glottolog_family_name: Pama-Nyungan
+glottolog_classification: "Pama-Nyungan > Dyirbal"
+wikipedia_url: "https://en.wikipedia.org/wiki/Dyirbal_language"
+rolv_dialects:
+  - rolv_code: 24755
+    language_tag: dbl-x-HIS24755
+    name: "Dyirbal: Dyiru"
+    country_id: AU
+    location: "Australia, Queensland"
+  - rolv_code: 24756
+    language_tag: dbl-x-HIS24756
+    name: "Dyirbal: Girramay"
+    country_id: AU
+    location: "Australia, Queensland"
+  - rolv_code: 24757
+    language_tag: dbl-x-HIS24757
+    name: "Dyirbal: Gulnguy"
+    country_id: AU
+    location: "Australia, Queensland"
+  - rolv_code: 24758
+    language_tag: dbl-x-HIS24758
+    name: "Dyirbal: Mamu"
+    country_id: AU
+    location: "Australia, Queensland"
+  - rolv_code: 24759
+    language_tag: dbl-x-HIS24759
+    name: "Dyirbal: Ngadjan"
+    country_id: AU
+    location: "Australia, Queensland"
+---
+Dyirbal is an Australian Aboriginal language spoken in northeast Queensland by the Dyirbal people. According to the Australian Bureau of Statistics there were eight speakers of the language in 2016 and 24 speakers in 2021. It is a member of the small Dyirbalic branch of the Pama–Nyungan family. It possesses many outstanding features that have made it well known among linguists.

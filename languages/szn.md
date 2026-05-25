@@ -1,0 +1,17 @@
+---
+iso: szn
+name: Sula
+autonym: Sanana
+population: 20000
+country_id: ID
+country_name: Indonesia
+status_id: 6a
+latitude: -2.30765
+longitude: 125.9656
+glottocode: sula1248
+glottolog_family_id: aust1307
+glottolog_family_name: Austronesian
+glottolog_classification: "Austronesian > Malayo-Polynesian > West Central Maluku > Sula-Buru > Sula"
+wikipedia_url: "https://en.wikipedia.org/wiki/Sula_language"
+---
+Sula (Sanana) is a Malayo-Polynesian language of the Central Maluku branch. It is related to the Buru language. Sula is spoken mainly on the Sulabesi, with the Sanana as its center.

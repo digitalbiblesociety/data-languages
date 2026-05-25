@@ -1,0 +1,21 @@
+---
+iso: sti
+name: Bulo Stieng
+autonym: Budíp
+population: 6060
+country_id: VN
+country_name: Vietnam
+status_id: 6a
+latitude: 11.97773
+longitude: 106.798205
+glottocode: bulo1242
+glottolog_family_id: aust1305
+glottolog_family_name: Austroasiatic
+glottolog_classification: "Austroasiatic > Bahnaric > West Bahnaric > South Bahnaric > Mnong-Stieng-Chrau > Stieng > Bulo Stieng"
+rolv_dialects:
+  - rolv_code: 16888
+    language_tag: sti-x-HIS16888
+    name: "Stieng, Bulo: Budip"
+    country_id: VN
+    location: "Vietnam, South East, Binh Phuoc"
+---

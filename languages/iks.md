@@ -1,0 +1,17 @@
+---
+iso: iks
+name: Inuit Sign Language
+autonym: ᐃᓄᐃᑦ ᐆᒃᑐᐊᕋᐅᓯᖅ Inuit Uuktuarausiq
+population: 20
+country_id: CA
+country_name: Canada
+status_id: null
+latitude: 63.748611
+longitude: -68.519722
+glottocode: inui1247
+glottolog_family_id: sign1238
+glottolog_family_name: Sign Language
+glottolog_classification: "Sign Language > L1 Sign Language > Inuit Sign Language"
+wikipedia_url: "https://en.wikipedia.org/wiki/Inuit_Sign_Language"
+---
+Inuit Sign Language is one of the Inuit languages and the indigenous sign language of Inuit. It is a language isolate native to Inuit communities in the Canadian Arctic. It is currently only attested within certain communities in Nunavut, particularly Baker Lake and Rankin Inlet. Although there is a possibility that it may be used in other places where Inuit live in the Arctic, this has not been confirmed.

@@ -1,0 +1,17 @@
+---
+iso: scu
+name: Shumcho
+autonym: Kanawaringskad
+population: 2170
+country_id: IN
+country_name: India
+status_id: 6a
+latitude: 31.68622
+longitude: 78.38646
+glottocode: shum1243
+glottolog_family_id: sino1245
+glottolog_family_name: Sino-Tibetan
+glottolog_classification: "Sino-Tibetan > Bodic > West Himalayish > Western West Himalayish > Kinnauric > Thebor > Shumcho"
+wikipedia_url: "https://en.wikipedia.org/wiki/Shumcho_language"
+---
+Shumcho is an underdocumented Sino-Tibetan language spoken in Kinnaur district, Himachal Pradesh, India.

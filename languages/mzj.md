@@ -1,0 +1,15 @@
+---
+iso: mzj
+name: Manya
+autonym: Malinke
+population: 120800
+country_id: LR
+country_name: Liberia
+status_id: 6a
+latitude: 8.561855
+longitude: -9.44257
+glottocode: many1261
+glottolog_family_id: mand1469
+glottolog_family_name: Mande
+glottolog_classification: "Mande > Western Mande > Manding-Kpelle > Central Mande > Manding-Jogo > Manding-Vai > Manding-Mokole > Manding > East Manding > Manenkan > Konya-Manya > Manya"
+---

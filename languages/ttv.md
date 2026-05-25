@@ -1,0 +1,17 @@
+---
+iso: ttv
+name: Titan
+autonym: Manus
+population: 3850
+country_id: PG
+country_name: Papua New Guinea
+status_id: 6a
+latitude: -2.18168
+longitude: 146.88795
+glottocode: tita1241
+glottolog_family_id: aust1307
+glottolog_family_name: Austronesian
+glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Admiralty Islands > Eastern Admiralty Islands > Manus > East Manus > Koro-Lele-Nali-Titan > Titan"
+wikipedia_url: "https://en.wikipedia.org/wiki/Titan_language"
+---
+Titan, also known as Manus, is an East Manus language of the Austronesian language family spoken in the southeastern part of Manus Island, New Guinea, and neighboring islands by about 4,000 people.

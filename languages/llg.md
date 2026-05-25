@@ -1,0 +1,28 @@
+---
+iso: llg
+name: Lole
+autonym: Central Rote
+population: 20000
+country_id: ID
+country_name: Indonesia
+status_id: 6a
+latitude: -10.80695
+longitude: 123.08513
+glottocode: lole1239
+glottolog_family_id: aust1307
+glottolog_family_name: Austronesian
+glottolog_classification: "Austronesian > Malayo-Polynesian > Timor-Babar > Rote-Meto > Nuclear Rote > Lole"
+wikipedia_url: "https://en.wikipedia.org/wiki/Lole_language"
+rolv_dialects:
+  - rolv_code: 25880
+    language_tag: llg-x-HIS25880
+    name: "Lole: North"
+    country_id: ID
+    location: "Indonesia, Nusa Tenggara Timur (East), Rote"
+  - rolv_code: 25881
+    language_tag: llg-x-HIS25881
+    name: "Lole: South"
+    country_id: ID
+    location: "Indonesia, Nusa Tenggara Timur (East), Rote"
+---
+Lole and Ba'a are a Central Malayo-Polynesian language of Roti Island, off Timor, Indonesia.

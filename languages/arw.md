@@ -1,0 +1,18 @@
+---
+iso: arw
+name: Arawak
+autonym: Lokono
+population: 2051
+country_id: SR
+country_name: Suriname
+status_id: 8a
+latitude: 5.642953
+longitude: -56.924345
+scripts: [Latn]
+glottocode: araw1276
+glottolog_family_id: araw1281
+glottolog_family_name: Arawakan
+glottolog_classification: "Arawakan > Caribbean Arawakan > Antillean Arawakan > Ineric > Lokono"
+wikipedia_url: "https://en.wikipedia.org/wiki/Lokono_language"
+---
+Lokono, also known as Arawak, is an Arawakan language spoken by the Lokono (Arawak) Indigenous peoples of South America in eastern Venezuela, Guyana, Trinidad and Tobago, Suriname, and French Guiana. It is the eponymous language of the Indigenous Arawakan language family.

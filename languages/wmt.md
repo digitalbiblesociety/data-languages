@@ -1,0 +1,28 @@
+---
+iso: wmt
+name: Walmajarri
+autonym: Pililuna
+population: 280
+country_id: AU
+country_name: Australia
+status_id: "4"
+latitude: -19.72293
+longitude: 126.11319
+glottocode: walm1241
+glottolog_family_id: pama1250
+glottolog_family_name: Pama-Nyungan
+glottolog_classification: "Pama-Nyungan > Desert Nyungic > Ngumpin-Yapa > Ngumpin > Western Ngumpin > Walmajarri-Juwaliny"
+wikipedia_url: "https://en.wikipedia.org/wiki/Walmajarri_language"
+rolv_dialects:
+  - rolv_code: 18137
+    language_tag: wmt-x-HIS18137
+    name: "Walmajarri: Djuwarliny"
+    country_id: AU
+    location: Australia
+  - rolv_code: 19464
+    language_tag: wmt-x-HIS19464
+    name: "Walmajarri: Eastern"
+    country_id: AU
+    location: Australia
+---
+Walmajarri is a Pama–Nyungan language spoken in the Kimberley region of Western Australia by the Walmadjari and related peoples.

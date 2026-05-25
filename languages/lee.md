@@ -1,0 +1,38 @@
+---
+iso: lee
+name: Lyélé
+autonym: Lele
+population: 213000
+country_id: BF
+country_name: Burkina Faso
+status_id: "5"
+latitude: 12.4305
+longitude: -2.59229
+glottocode: lyel1241
+glottolog_family_id: atla1278
+glottolog_family_name: Atlantic-Congo
+glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Gur > Central Gur > Southern Central Gur > Grusi > Northern Grusi > Lyélé"
+wikipedia_url: "https://en.wikipedia.org/wiki/Ly%C3%A9l%C3%A9_language"
+rolv_dialects:
+  - rolv_code: 13190
+    language_tag: lee-x-HIS13190
+    name: "Lyele: Central"
+    country_id: BF
+    location: Burkina Faso
+  - rolv_code: 13191
+    language_tag: lee-x-HIS13191
+    name: "Lyele: Kandere"
+    country_id: BF
+    location: Burkina Faso
+  - rolv_code: 13192
+    language_tag: lee-x-HIS13192
+    name: "Lyele: Northern"
+    country_id: BF
+    location: Burkina Faso
+  - rolv_code: 13193
+    language_tag: lee-x-HIS13193
+    name: "Lyele: Southern"
+    country_id: BF
+    location: Burkina Faso
+---
+The Lyélé language (Lele) is spoken in the Sanguié Province of Burkina Faso by approximately 130,000 people known as Lyéla, Léla, Gourounsi or Gurunsi. It is spoken in the towns of Réo, Kyon, Tenado, Dassa, Didyr, Godyr, Kordié, Pouni and Zawara. The language is also sometimes known by the wider term Gurunsi.

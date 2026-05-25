@@ -1,0 +1,33 @@
+---
+iso: ydd
+name: Eastern Yiddish
+autonym: ייִדיש
+population: 371657
+country_id: UA
+country_name: Ukraine
+status_id: "4"
+latitude: 51.75
+longitude: 19.42
+glottocode: east2295
+glottolog_family_id: indo1319
+glottolog_family_name: Indo-European
+glottolog_classification: "Indo-European > Classical Indo-European > Germanic > Northwest Germanic > West Germanic > High German > Middle German > East Middle German > Schlesisch-Wilmesau > Eastern Yiddish"
+wikipedia_url: "https://en.wikipedia.org/wiki/Eastern_Yiddish"
+rolv_dialects:
+  - rolv_code: 18571
+    language_tag: ydd-x-HIS18571
+    name: "Yiddish, Eastern: Mideastern"
+    country_id: IL
+    location: Israel
+  - rolv_code: 18572
+    language_tag: ydd-x-HIS18572
+    name: "Yiddish, Eastern: Northeastern"
+    country_id: IL
+    location: Israel
+  - rolv_code: 18573
+    language_tag: ydd-x-HIS18573
+    name: "Yiddish, Eastern: Southeastern"
+    country_id: IL
+    location: Israel
+---
+Yiddish dialects are varieties of the Yiddish language and are divided according to the region in Europe where each developed its distinctiveness. Linguistically, Yiddish is divided in distinct Eastern and Western dialects. While the Western dialects mostly died out in the 19th century due to Jewish language assimilation into mainstream culture, the Eastern dialects were very vital until most of Eastern European Jewry was wiped out by the Holocaust, called the Khurbn in Yiddish.

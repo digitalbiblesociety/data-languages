@@ -1,0 +1,17 @@
+---
+iso: apf
+name: Pahanan Agta
+autonym: Paranan Agta
+population: 1700
+country_id: PH
+country_name: Philippines
+status_id: "4"
+latitude: 17.0538
+longitude: 122.2802
+glottocode: agta1234
+glottolog_family_id: aust1307
+glottolog_family_name: Austronesian
+glottolog_classification: "Austronesian > Malayo-Polynesian > Northern Luzon > Northeastern Luzon > Nuclear Northeastern Luzon > Paranan-Pahanan > Agta-Pahanan"
+wikipedia_url: "https://en.wikipedia.org/wiki/Paranan_Agta_language"
+---
+Pahanan Agta, also called Palanan Agta, is an Aeta language of Palanan, Isabela northern Philippines. Lexically but not grammatically it is extremely close to Paranan, a non-Negrito language with a very similar name. Speaker groups of both languages were together isolated from other communities and remained in constant interaction.

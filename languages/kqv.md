@@ -1,0 +1,17 @@
+---
+iso: kqv
+name: Okolod
+autonym: Okolod
+population: 3390
+country_id: ID
+country_name: Indonesia
+status_id: 6a
+latitude: 4.539885
+longitude: 115.752765
+glottocode: okol1241
+glottolog_family_id: aust1307
+glottolog_family_name: Austronesian
+glottolog_classification: "Austronesian > Malayo-Polynesian > North Borneo Malayo-Polynesian > Sabahan > Southwest Sabahan > Greater Murutic > Murutic > Eastern Murutic > Okolod"
+wikipedia_url: "https://en.wikipedia.org/wiki/Okolod_language"
+---
+Okolod, or Kolod, is a language spoken by the Murut people of Borneo.

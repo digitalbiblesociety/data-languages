@@ -1,0 +1,14 @@
+---
+iso: boq
+name: Bogaya
+autonym: Bogaya
+population: 300
+country_id: PG
+country_name: Papua New Guinea
+status_id: 6a
+latitude: -5.54487
+longitude: 142.25459
+glottocode: boga1247
+wikipedia_url: "https://en.wikipedia.org/wiki/Pogaya_language"
+---
+Bogaya (Pogaya) is a Papuan language of Papua New Guinea. In Western Province, Bogaya is spoken in Olsobip Rural LLG and Nomad Rural LLG. It is also spoken in Koroba-Kopiago District, Hela Province.

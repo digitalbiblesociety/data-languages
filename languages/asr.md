@@ -1,0 +1,29 @@
+---
+iso: asr
+name: Asuri
+autonym: Ashree
+population: 16600
+country_id: IN
+country_name: India
+status_id: 6a
+latitude: 21.57205
+longitude: 83.45622
+glottocode: asur1254
+glottolog_family_id: aust1305
+glottolog_family_name: Austroasiatic
+glottolog_classification: "Austroasiatic > Mundaic > North Munda > Kherwarian > Mundaric > Asuric > Asuri"
+wikipedia_url: "https://en.wikipedia.org/wiki/Asur_language"
+rolv_dialects:
+  - rolv_code: 4880
+    language_tag: asr-x-HIS04880
+    name: "Asuri: Brijia"
+    country_id: IN
+    location: "India, Jharkhand"
+  - rolv_code: 7309
+    language_tag: asr-x-HIS07309
+    name: "Asuri: Manjhi"
+    country_id: IN
+    location: "India, Chhattisgarh"
+---
+Asuri is an Austroasiatic language spoken by the Asur people, part of the Munda branch.
+Asuri has many Dravidian loanwords due to contact with Kurukh.

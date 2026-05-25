@@ -1,0 +1,17 @@
+---
+iso: vko
+name: Kodeoha
+autonym: Kondea
+population: 1500
+country_id: ID
+country_name: Indonesia
+status_id: 6a
+latitude: -3.39566
+longitude: 120.93713
+glottocode: kode1237
+glottolog_family_id: aust1307
+glottolog_family_name: Austronesian
+glottolog_classification: "Austronesian > Malayo-Polynesian > Celebic > Greater Eastern Celebic > Eastern Celebic > Southeastern Celebic > Bungku-Tolaki > Western Bungku-Tolaki > West Coast Bungku-Tolaki > Kodeoha"
+wikipedia_url: "https://en.wikipedia.org/wiki/Kodeoha_language"
+---
+Kodeoha (Kondeha) is an Austronesian language of Southeast Sulawesi, Indonesia.

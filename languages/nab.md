@@ -1,0 +1,68 @@
+---
+iso: nab
+name: Southern Nambikuára
+autonym: " Nambiquara"
+population: 720
+country_id: BR
+country_name: Brazil
+status_id: "4"
+latitude: -14.37074
+longitude: -59.51871
+glottocode: sout2994
+glottolog_family_id: namb1299
+glottolog_family_name: Nambiquaran
+glottolog_classification: "Nambiquaran > Nambikwara Complex > Southern Nambikuára"
+wikipedia_url: "https://en.wikipedia.org/wiki/Nambikwara_language"
+rolv_dialects:
+  - rolv_code: 10545
+    language_tag: nab-x-HIS10545
+    name: "Nambijuara: Halotesu"
+    country_id: BR
+    location: Brazil
+  - rolv_code: 14673
+    language_tag: nab-x-HIS14673
+    name: "Nambikuara, Southern: Alatesu"
+    country_id: BR
+    location: Brazil
+  - rolv_code: 14674
+    language_tag: nab-x-HIS14674
+    name: "Nambikuara, Southern: Galera"
+    country_id: BR
+    location: Brazil
+  - rolv_code: 14675
+    language_tag: nab-x-HIS14675
+    name: "Nambikuara, Southern: Hahaintesu"
+    country_id: BR
+    location: Brazil
+  - rolv_code: 14676
+    language_tag: nab-x-HIS14676
+    name: "Nambikuara, Southern: Khithaulhu"
+    country_id: BR
+    location: Brazil
+  - rolv_code: 14679
+    language_tag: nab-x-HIS14679
+    name: "Nambikuara, Southern: Waikisu"
+    country_id: BR
+    location: Brazil
+  - rolv_code: 14680
+    language_tag: nab-x-HIS14680
+    name: "Nambikuara, Southern: Wasusu"
+    country_id: BR
+    location: Brazil
+  - rolv_code: 16342
+    language_tag: nab-x-HIS16342
+    name: "Nambikuara: Sarare"
+    country_id: BR
+    location: "Brazil, Mato Grosso"
+  - rolv_code: 25610
+    language_tag: nab-x-HIS25610
+    name: "Nambikuara, Southern: Saxwentesu"
+    country_id: BR
+    location: Brazil
+  - rolv_code: 25611
+    language_tag: nab-x-HIS25611
+    name: "Nambikuara, Southern: Wakalitesu"
+    country_id: BR
+    location: Brazil
+---
+Nambikwara is an indigenous language spoken by the Nambikwara, who reside on federal reserves covering approximately 50,000 square kilometres of land in Mato Grosso and neighbouring parts of Rondônia in Brazil. UNESCO’s Atlas of the World Languages in Danger classifies Nambikwara as vulnerable.

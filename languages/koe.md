@@ -1,0 +1,23 @@
+---
+iso: koe
+name: "Kacipo-Balesi"
+autonym: Balesi
+population: 10000
+country_id: SS
+country_name: South Sudan
+status_id: 6a
+latitude: 6.16512
+longitude: 34.94355
+glottocode: kaci1244
+glottolog_family_id: surm1244
+glottolog_family_name: Surmic
+glottolog_classification: "Surmic > South Surmic > Southwest Surmic > Baale-Olam > Kacipo-Balesi"
+wikipedia_url: "https://en.wikipedia.org/wiki/Baale_language"
+rolv_dialects:
+  - rolv_code: 11271
+    language_tag: koe-x-HIS11271
+    name: "Kacipo-Balesi: Balesi"
+    country_id: SS
+    location: South Sudan
+---
+The Baale language, Baleesi or Baalesi is a Surmic language spoken by the Baale or Zilmamo people of Ethiopia, and by the Kachepo of South Sudan. It is a member of the southwest branch of the Surmic cluster; the self-name of the language and the community is Suri, which is the same as that of the Suri language, evoking an ethnonym that embraces the Tirma, Chai, and Baale communities, although linguistically the languages of these communities are different. There are currently 9,000 native speakers of Baleesi, 5,000 in South Sudan and 4,100 in Ethiopia; almost all of these are monolingual.

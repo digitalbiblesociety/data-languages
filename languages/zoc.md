@@ -1,0 +1,21 @@
+---
+iso: zoc
+name: Copainalá Zoque
+autonym: Zoque de Copainalá
+population: 10000
+country_id: MX
+country_name: Mexico
+status_id: 6a
+latitude: 17.21575
+longitude: -93.31825
+glottocode: copa1236
+glottolog_family_id: mixe1284
+glottolog_family_name: Mixe-Zoque
+glottolog_classification: "Mixe-Zoque > Zoque > Chiapas-Jitotolteco Zoque > Chiapas Zoque > Central-South Chiapas Zoque"
+rolv_dialects:
+  - rolv_code: 18724
+    language_tag: zoc-x-HIS18724
+    name: "Zoque, Copainala: Ocotepec"
+    country_id: MX
+    location: "Mexico, Chiapas"
+---

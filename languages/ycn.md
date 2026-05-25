@@ -1,0 +1,17 @@
+---
+iso: ycn
+name: Yucuna
+autonym: Jukuna
+population: 770
+country_id: CO
+country_name: Colombia
+status_id: "5"
+latitude: -0.76075
+longitude: -71.00327
+glottocode: yucu1253
+glottolog_family_id: araw1281
+glottolog_family_name: Arawakan
+glottolog_classification: "Arawakan > Japura-Colombia > Nuclear Japura-Colombia > Caqueta > Yucuna"
+wikipedia_url: "https://en.wikipedia.org/wiki/Yucuna_language"
+---
+Yucuna (Jukuna), also known as Matapi, Yucuna-Matapi, and Yukunais, is an Arawakan language spoken in several communities along the Mirití-Paraná River in Colombia. Extinct Guarú (Garú) was either a dialect or a closely related language. Yucuna is a polysynthetic language, and it uses SVO word order.

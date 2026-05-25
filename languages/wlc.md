@@ -1,0 +1,15 @@
+---
+iso: wlc
+name: Mwali Comorian
+autonym: shikomori/شِكُمُرِ
+population: 42500
+country_id: KM
+country_name: Comoros
+status_id: 6a
+latitude: -12.31641
+longitude: 43.74103
+glottocode: mwal1237
+glottolog_family_id: atla1278
+glottolog_family_name: Atlantic-Congo
+glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > East Bantu > Northeast Savanna Bantu > Northeast Coastal Bantu > Coastal NEC Bantu > Mijikenda-Pokomo-Comorian > Comorian Bantu > Mwali Comorian"
+---

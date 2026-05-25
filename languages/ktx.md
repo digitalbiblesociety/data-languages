@@ -1,0 +1,17 @@
+---
+iso: ktx
+name: Kaxararí
+autonym: Kaxariri
+population: 270
+country_id: BR
+country_name: Brazil
+status_id: "7"
+latitude: -9.47288
+longitude: -66.33286
+glottocode: kaxa1239
+glottolog_family_id: pano1259
+glottolog_family_name: Pano-Tacanan
+glottolog_classification: "Pano-Tacanan > Panoan > Mainline Pano > Kaxararí"
+wikipedia_url: "https://en.wikipedia.org/wiki/Kasharari_language"
+---
+Kaxararí is a Panoan language of Brazil. It is spoken around the northwest border of the State of Rondônia. The Kaxarari language is the most divergent of the Mainline Panoan branch.

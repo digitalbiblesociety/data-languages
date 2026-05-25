@@ -1,0 +1,44 @@
+---
+iso: hno
+name: Northern Hindko
+autonym: ہندکو
+population: 3570000
+country_id: PK
+country_name: Pakistan
+status_id: "5"
+latitude: 34.32024
+longitude: 73.3844
+scripts: [Arab]
+glottocode: nort2662
+glottolog_family_id: indo1319
+glottolog_family_name: Indo-European
+glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Indo-Aryan > Middle-Modern Indo-Aryan > Continental Indo-Aryan > Indo-Aryan Northwestern zone > Sindhi-Lahnda > Greater Panjabic > Hindko-Siraiki > Hindko > Northern Hindko"
+wikipedia_url: "https://en.wikipedia.org/wiki/Northern_Hindko_language"
+rolv_dialects:
+  - rolv_code: 25089
+    language_tag: hno-x-HIS25089
+    name: "Hindko, Northern: Mansehra"
+    country_id: PK
+    location: "Pakistan, Azad Jammu and Kashmir"
+  - rolv_code: 26089
+    language_tag: hno-x-HIS26089
+    name: "Hindko, Northern: Abbottabad"
+    country_id: PK
+    location: "Pakistan, Azad Jammu and Kashmir"
+  - rolv_code: 26090
+    language_tag: hno-x-HIS26090
+    name: "Hindko, Northern: Galiyat"
+    country_id: PK
+    location: "Pakistan, Azad Jammu and Kashmir"
+  - rolv_code: 26091
+    language_tag: hno-x-HIS26091
+    name: "Hindko, Northern: Haripur"
+    country_id: PK
+    location: "Pakistan, Azad Jammu and Kashmir"
+  - rolv_code: 26092
+    language_tag: hno-x-HIS26092
+    name: "Hindko, Northern: Tanoli"
+    country_id: PK
+    location: "Pakistan, Azad Jammu and Kashmir"
+---
+Hindko is a cover term for a diverse group of Lahnda dialects spoken by several million people of various ethnic backgrounds in several areas in northwestern Pakistan, primarily in the province of Khyber Pakhtunkhwa and northwestern regions of Punjab.

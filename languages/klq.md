@@ -1,0 +1,17 @@
+---
+iso: klq
+name: Rumu
+autonym: Kairi
+population: 3870
+country_id: PG
+country_name: Papua New Guinea
+status_id: "5"
+latitude: -7.17149
+longitude: 144.17851
+glottocode: rumu1243
+glottolog_family_id: tura1263
+glottolog_family_name: Turama-Kikori
+glottolog_classification: "Turama-Kikori > Rumu"
+wikipedia_url: "https://en.wikipedia.org/wiki/Rumu_language"
+---
+Rumu (Rumuwa), or Kairi (Kai-Iri), is a Papuan language of Papua New Guinea. Other names for it are Dumu (Tumu) and Kibiri.

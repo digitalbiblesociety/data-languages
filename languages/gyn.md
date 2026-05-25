@@ -1,0 +1,33 @@
+---
+iso: gyn
+name: Guyanese Creole English
+autonym: Creolese
+population: 715200
+country_id: GY
+country_name: Guyana
+status_id: "4"
+latitude: 5.623205
+longitude: -56.94513
+glottocode: creo1235
+glottolog_family_id: indo1319
+glottolog_family_name: Indo-European
+glottolog_classification: "Indo-European > Classical Indo-European > Germanic > Northwest Germanic > West Germanic > North Sea Germanic > Anglo-Frisian > Anglic > Later Anglic > Middle-Modern English > Macro-English > Guinea Coast Creole English > Caribbean English Creole > Eastern Caribbean Creole > Barbados-Eustatius > Barbados-Trinidad > Guyanese Creole English"
+wikipedia_url: "https://en.wikipedia.org/wiki/Guyanese_Creole"
+rolv_dialects:
+  - rolv_code: 10490
+    language_tag: gyn-x-HIS10490
+    name: Afro-Guyanese Creole
+    country_id: GY
+    location: Guyana
+  - rolv_code: 10491
+    language_tag: gyn-x-HIS10491
+    name: "Guyanese Creole English: Indo-Guyanese"
+    country_id: GY
+    location: Guyana
+  - rolv_code: 10492
+    language_tag: gyn-x-HIS10492
+    name: "Guyanese Creole English: Rupununi"
+    country_id: GY
+    location: Guyana
+---
+Guyanese English Creole is an English-based creole language spoken in various forms by the majority of Guyanese people. It emerged during the Atlantic Slave Trade among enslaved Africans who were brought to Dutch, and later, British Guiana from West and Central Africa, between the mid-1600s and 1834. Many of these Africans arrived via the Caribbean islands of Barbados, and the Leeward Islands. As a result, Guyanese Creole shares key features with other Afro-Caribbean English-based creoles, particularly those of the Eastern Caribbean. It contains many African retentions and has loan words from indigenous-American languages, as well as Hindustani due to Indian acculturation.

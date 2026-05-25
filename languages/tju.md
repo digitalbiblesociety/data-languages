@@ -1,0 +1,17 @@
+---
+iso: tju
+name: Tjurruru
+autonym: Tjururu
+population: null
+country_id: AU
+country_name: Australia
+status_id: "10"
+latitude: -22.842
+longitude: 118.267
+glottocode: tjur1240
+glottolog_family_id: pama1250
+glottolog_family_name: Pama-Nyungan
+glottolog_classification: "Pama-Nyungan > South-West Pama-Nyungan > Pilbara > Ngayarda > Central Ngayarda > Tjurruru"
+wikipedia_url: "https://en.wikipedia.org/wiki/Jurruru_language"
+---
+Jurruru is an extinct Australian Aboriginal language formerly spoken in the Pilbara region of Western Australia, particularly near the Ashburton River. It is classified as part of the Pama–Nyungan language family, within the Ngayarda subgroup. There were two speakers left in 1967 and no speakers by 1986, leading to its extinction.

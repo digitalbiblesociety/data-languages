@@ -1,0 +1,28 @@
+---
+iso: wja
+name: Waja
+autonym: Wɪyáà
+population: 60000
+country_id: NG
+country_name: Nigeria
+status_id: 6a
+latitude: 9.91175
+longitude: 11.72062
+glottocode: waja1259
+glottolog_family_id: atla1278
+glottolog_family_name: Atlantic-Congo
+glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Gur > Central Gur > Tula-Longuda > Tula-Waja > Waja"
+wikipedia_url: "https://en.wikipedia.org/wiki/Waja_language"
+rolv_dialects:
+  - rolv_code: 1788
+    language_tag: wja-x-HIS01788
+    name: "Wagga: Vemngo"
+    country_id: NG
+    location: "Nigeria, Adamawa"
+  - rolv_code: 18112
+    language_tag: wja-x-HIS18112
+    name: "Waja: Deruwo"
+    country_id: NG
+    location: "Nigeria, Adamawa"
+---
+Waja is a Savannas language of North eastern Nigeria. Dialectical differences between Deruwo and Waja proper are slight.

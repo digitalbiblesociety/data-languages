@@ -1,0 +1,23 @@
+---
+iso: gid
+name: Gidar
+autonym: Kaɗa
+population: 65700
+country_id: CM
+country_name: Cameroon
+status_id: "5"
+latitude: 9.874715
+longitude: 14.07845
+glottocode: gida1247
+glottolog_family_id: afro1255
+glottolog_family_name: Afro-Asiatic
+glottolog_classification: "Afro-Asiatic > Chadic > Biu-Mandara > North Biu-Mandara > Gidar"
+wikipedia_url: "https://en.wikipedia.org/wiki/Gidar_language"
+rolv_dialects:
+  - rolv_code: 10216
+    language_tag: gid-x-HIS10216
+    name: "Gidar: Zlam"
+    country_id: CM
+    location: "Cameroon, Nord"
+---
+Gidar (Gidder), or Kaɗa, is a Biu–Mandara (Chadic) language of Cameroon and Chad.

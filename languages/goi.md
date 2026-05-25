@@ -1,0 +1,28 @@
+---
+iso: goi
+name: Gobasi
+autonym: Nomad
+population: 1100
+country_id: PG
+country_name: Papua New Guinea
+status_id: 6a
+latitude: -6.48678
+longitude: 142.20124
+glottocode: goba1246
+glottolog_family_id: east2433
+glottolog_family_name: East Strickland
+glottolog_classification: "East Strickland > Kubo-Samo-Bibo > Gobasi"
+wikipedia_url: "https://en.wikipedia.org/wiki/Gobasi_language"
+rolv_dialects:
+  - rolv_code: 10267
+    language_tag: goi-x-HIS10267
+    name: "Gobasi: Honibo"
+    country_id: PG
+    location: "Papua New Guinea, Western"
+  - rolv_code: 10268
+    language_tag: goi-x-HIS10268
+    name: "Gobasi: Oibae"
+    country_id: PG
+    location: "Papua New Guinea, Western"
+---
+Gobasi, also known as Gebusi, Gobosi or Nomad, is a Trans–New Guinea language of New Guinea, spoken in the plains east of the Strickland River.

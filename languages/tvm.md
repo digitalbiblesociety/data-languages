@@ -1,0 +1,17 @@
+---
+iso: tvm
+name: "Tela-Masbuar"
+autonym: "Tela-Masbuar"
+population: 1050
+country_id: ID
+country_name: Indonesia
+status_id: 6b
+latitude: -8.01195
+longitude: 129.68667
+glottocode: tela1241
+glottolog_family_id: aust1307
+glottolog_family_name: Austronesian
+glottolog_classification: "Austronesian > Malayo-Polynesian > Timor-Babar > Southwest Maluku > Babar > South Babar > Southwest Babar > Tela-Masbuar"
+wikipedia_url: "https://en.wikipedia.org/wiki/Tela%CA%BCa_language"
+---
+Telaʼa, or Tela-Masbuar (Masbuar-Tela) is an Austronesian language spoken in the two villages with those names on Babar Island in South Maluku, Indonesia.

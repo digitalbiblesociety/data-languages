@@ -1,0 +1,17 @@
+---
+iso: chl
+name: Cahuilla
+autonym: Ivilyuat
+population: 6
+country_id: US
+country_name: United States
+status_id: 8a
+latitude: 33.53238
+longitude: -116.69146
+glottocode: cahu1264
+glottolog_family_id: utoa1244
+glottolog_family_name: Uto-Aztecan
+glottolog_classification: "Uto-Aztecan > Northern Uto-Aztecan > Takic > Cupan > Cahuilla-Cupeno > Cahuilla"
+wikipedia_url: "https://en.wikipedia.org/wiki/Cahuilla_language"
+---
+Cahuilla, or Ivilyuat, is an endangered Uto-Aztecan language, spoken by the various tribes of the Cahuilla Nation, living in the Coachella Valley, San Gorgonio Pass and San Jacinto Mountains region of southern California. The Cahuilla demonyms include Ɂívil̃uwenetem or Iviatam – speakers of Ivilyuat (Iviɂa) – or táxliswet meaning "person." A 1990 census revealed 35 speakers in an ethnic population of 800. With such a decline, Ivilyuat is classified as "critically endangered" by the UNESCO Atlas of the World's Languages in Danger as most speakers are middle-aged or older with limited transmission rates to children.

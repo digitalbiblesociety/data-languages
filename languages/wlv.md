@@ -1,0 +1,17 @@
+---
+iso: wlv
+name: Wichí Lhamtés Vejoz
+autonym: Mataco Vejoz
+population: 25000
+country_id: AR
+country_name: Argentina
+status_id: "5"
+latitude: -24.21891
+longitude: -61.91171
+glottocode: wich1263
+glottolog_family_id: mata1289
+glottolog_family_name: Mataguayan
+glottolog_classification: "Mataguayan > Mataguayo II > Wichi > Vejoz"
+wikipedia_url: "https://en.wikipedia.org/wiki/Wich%C3%AD_Lhamt%C3%A9s_Vejoz"
+---
+Wichí Lhamtés Vejoz is a Mataco-Guaicuru language of Argentina and Bolivia. Speakers are concentrated in northern parts of Chaco, Formosa, Salta, Jujuy Provinces, as well as west of Toba, the upper Bermejo River valley, and Pilcomayo River. The language is also called Mataco Vejoz and Vejos.

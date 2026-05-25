@@ -1,0 +1,43 @@
+---
+iso: bcl
+name: Central Bikol
+autonym: Bikol Sentral
+population: 3890000
+country_id: PH
+country_name: Philippines
+status_id: "3"
+latitude: 13.75743
+longitude: 123.40331
+glottocode: cent2087
+glottolog_family_id: aust1307
+glottolog_family_name: Austronesian
+glottolog_classification: "Austronesian > Malayo-Polynesian > Greater Central Philippine > Central Philippine > Bikol > Coastal Bikol > Coastal-Naga Bikol"
+wikipedia_url: "https://en.wikipedia.org/wiki/Central_Bikol"
+rolv_dialects:
+  - rolv_code: 335
+    language_tag: bcl-x-HIS00335
+    name: Bicol
+    country_id: PH
+    location: "Philippines, Luzon"
+  - rolv_code: 8118
+    language_tag: bcl-x-HIS08118
+    name: "Bikol, Central: Naga"
+    country_id: PH
+    location: "Philippines, Luzon, Bicol Region, Camarines Sur"
+  - rolv_code: 8119
+    language_tag: bcl-x-HIS08119
+    name: "Bikol, Central: Legazpi"
+    country_id: PH
+    location: "Philippines, Luzon, Bicol Region, Camarines Sur"
+  - rolv_code: 22647
+    language_tag: bcl-x-HIS22647
+    name: "Bikol, Central: Daet"
+    country_id: PH
+    location: "Philippines, Luzon, Bicol Region, Camarines Sur"
+  - rolv_code: 24338
+    language_tag: bcl-x-HIS24338
+    name: "Bikol, Central: Canaman"
+    country_id: PH
+    location: "Philippines, Luzon, Bicol Region, Camarines Sur"
+---
+Central Bikol, commonly called Bikol Naga or simply Bikol, is an Austronesian language spoken by the Bicolanos, primarily in the Bicol Region of southern Luzon, Philippines. It is spoken in the northern and western part of Camarines Sur, the second congressional district of Camarines Norte, the eastern part of Albay, the northeastern part of Sorsogon, San Pascual town in Masbate, and the southwestern part of Catanduanes. Central Bikol speakers can be found in all provinces of Bicol, and it is a majority language in Camarines Sur. The standard sprachraum form is based on the Canaman dialect. The language has also speakers outside their native regional homeland, especially in Metro Manila, Mindoro, Palawan, and Mindanao. It is considered a category 1 language.

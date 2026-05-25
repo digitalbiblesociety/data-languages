@@ -1,0 +1,17 @@
+---
+iso: tlm
+name: Tolomako
+autonym: Bigbay
+population: 900
+country_id: VU
+country_name: Vanuatu
+status_id: 6b
+latitude: -15.15686
+longitude: 166.7723
+glottocode: tolo1255
+glottolog_family_id: aust1307
+glottolog_family_name: Austronesian
+glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > North and Central Vanuatu > Northern Vanuatu > Espiritu Santo > West Santo > Tolomako"
+wikipedia_url: "https://en.wikipedia.org/wiki/Tolomako_language"
+---
+Tolomako is a language of the Oceanic subgroup of Austronesian languages. It is spoken on Santo island in Vanuatu.

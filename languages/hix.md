@@ -1,0 +1,17 @@
+---
+iso: hix
+name: Hixkaryána
+autonym: null
+population: 1200
+country_id: BR
+country_name: Brazil
+status_id: "4"
+latitude: -0.16265
+longitude: -58.80153
+glottocode: hixk1239
+glottolog_family_id: cari1283
+glottolog_family_name: Cariban
+glottolog_classification: "Cariban > Parukotoan > Waiwaian > Hixkaryána"
+wikipedia_url: "https://en.wikipedia.org/wiki/Hixkaryana_language"
+---
+Hixkaryana is a Cariban language spoken by 600 people on the Nhamundá River, a tributary of the Amazon River in Brazil. It is one of 17 languages that have object–verb–subject word order, initially described by linguist Desmond C. Derbyshire.

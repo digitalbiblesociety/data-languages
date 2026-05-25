@@ -1,0 +1,28 @@
+---
+iso: cae
+name: Lehar
+autonym: Lala
+population: 12000
+country_id: SN
+country_name: Senegal
+status_id: 6a
+latitude: 14.93872
+longitude: -16.88157
+glottocode: leha1242
+glottolog_family_id: atla1278
+glottolog_family_name: Atlantic-Congo
+glottolog_classification: "Atlantic-Congo > Cangin > Saafi-Noon-Lehar > Noon-Lehar > Lehar"
+wikipedia_url: "https://en.wikipedia.org/wiki/Laalaa_language"
+rolv_dialects:
+  - rolv_code: 27536
+    language_tag: cae-x-HIS27536
+    name: "LaaLaa: Yendane-Terokh"
+    country_id: SN
+    location: Senegal
+  - rolv_code: 27537
+    language_tag: cae-x-HIS27537
+    name: "LaaLaa: Yung"
+    country_id: SN
+    location: Senegal
+---
+Lehar or Laalaa is one of the Cangin languages spoken in Senegal in the Laa Region, north of Thies as well as the Tambacounda area. The speakers are ethnically Serers, however just like the Ndut, Palor, Saafi and Noon languages, they are closely related to each other than to the Serer-Sine language. The Lehar language which is closer to Noon, is part of the Niger–Congo family. The number of speakers based on 2002 figures were 10,925.

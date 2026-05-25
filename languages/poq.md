@@ -1,0 +1,17 @@
+---
+iso: poq
+name: Texistepec Popoluca
+autonym: "Wää 'oot"
+population: 15779
+country_id: MX
+country_name: Mexico
+status_id: 8a
+latitude: 17.89257
+longitude: -94.80765
+glottocode: texi1237
+glottolog_family_id: mixe1284
+glottolog_family_name: Mixe-Zoque
+glottolog_classification: "Mixe-Zoque > Zoque > Gulf Zoque > Texistepec-Ayapa Zoque > Texistepec Popoluca"
+wikipedia_url: "https://en.wikipedia.org/wiki/Texistepec_language"
+---
+Texistepec, commonly called either Texistepec Popoluca or Texistepec Zoque, is a Mixe–Zoquean language of the Zoquean branch spoken by a hundred indigenous Popoluca people in and around the town of Texistepec in Southern Veracruz, Mexico.

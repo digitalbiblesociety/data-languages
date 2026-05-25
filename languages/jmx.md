@@ -1,0 +1,31 @@
+---
+iso: jmx
+name: Western Juxtlahuaca Mixtec
+autonym: Coicoyán Mixtec
+population: 2000
+country_id: MX
+country_name: Mexico
+status_id: 6a
+latitude: 17.30034
+longitude: -98.2096
+glottocode: west2643
+glottolog_family_id: otom1299
+glottolog_family_name: Otomanguean
+glottolog_classification: "Otomanguean > Eastern Otomanguean > Amuzgo-Mixtecan > Mixtecan > Mixtec-Cuicatec > Mixtec > Guerrero Mixtec > Coicoyan-Metlatonoc > Western Juxtlahuaca Mixtec"
+rolv_dialects:
+  - rolv_code: 4415
+    language_tag: jmx-x-HIS04415
+    name: "Mixtec, Western Juxtlahuaca: San Martin Peras"
+    country_id: MX
+    location: "Mexico, Oaxaca"
+  - rolv_code: 25373
+    language_tag: jmx-x-HIS25373
+    name: "Mixtec, Western Juxtlahuaca: Coicoyan"
+    country_id: MX
+    location: "Mexico, Oaxaca"
+  - rolv_code: 25374
+    language_tag: jmx-x-HIS25374
+    name: "Mixtec, Western Juxtlahuaca: San Juan Pinas"
+    country_id: MX
+    location: "Mexico, Oaxaca"
+---

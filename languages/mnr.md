@@ -1,0 +1,28 @@
+---
+iso: mnr
+name: Mono (USA)
+autonym: Monachi
+population: 103
+country_id: US
+country_name: United States
+status_id: 8a
+latitude: 37.1935
+longitude: -119.34741
+glottocode: mono1275
+glottolog_family_id: utoa1244
+glottolog_family_name: Uto-Aztecan
+glottolog_classification: "Uto-Aztecan > Northern Uto-Aztecan > Numic > Western Numic > Mono (USA)"
+wikipedia_url: "https://en.wikipedia.org/wiki/Mono_language_(California)"
+rolv_dialects:
+  - rolv_code: 25223
+    language_tag: mnr-x-HIS25223
+    name: "Mono: Eastern"
+    country_id: US
+    location: "United States of America, Oklahoma"
+  - rolv_code: 25224
+    language_tag: mnr-x-HIS25224
+    name: "Mono: Western"
+    country_id: US
+    location: "United States of America, Oklahoma"
+---
+Mono is a Native American language of the Numic group of Uto-Aztecan languages, the ancestral language of the Mono people. Mono consists of two dialects, Eastern and Western. The name "Monachi" is commonly used in reference to Western Mono and "Owens Valley Paiute" in reference to Eastern Mono. In 1925, Alfred Kroeber estimated that Mono had 3,000 to 4,000 speakers. Hinton (1994) reports only 90 elderly people spoke Mono as their first language. Mono is classified as critically endangered by UNESCO. It is spoken in the southern Sierra Nevada, the Mono Basin, and the Owens Valley of central-eastern California. Mono is most closely related to Northern Paiute; these two are classified as the Western group of the Numic branch of the Uto-Aztecan language family.

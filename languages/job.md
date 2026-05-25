@@ -1,0 +1,26 @@
+---
+iso: job
+name: Joba
+autonym: Kijoba
+population: 10000
+country_id: CD
+country_name: DR Congo
+status_id: 6a
+latitude: -3.45787
+longitude: 28.99784
+glottocode: joba1238
+glottolog_family_id: atla1278
+glottolog_family_name: Atlantic-Congo
+glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > East Bantu > Northeast Savanna Bantu > Great Lakes Bantu > Western Lakes Bantu > Kivu > Forest Kivu > Fuliiric > Fuliiru-Vira > Joba"
+rolv_dialects:
+  - rolv_code: 28768
+    language_tag: job-x-HIS28768
+    name: "Joba: Kiviila"
+    country_id: CD
+    location: "Congo, Democratic Republic of"
+  - rolv_code: 28769
+    language_tag: job-x-HIS28769
+    name: "Joba: Masanze"
+    country_id: CD
+    location: "Congo, Democratic Republic of"
+---

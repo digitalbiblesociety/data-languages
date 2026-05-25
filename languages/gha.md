@@ -1,0 +1,28 @@
+---
+iso: gha
+name: Ghadamès
+autonym: Ghadāmis
+population: 10000
+country_id: LY
+country_name: Libya
+status_id: 6b
+latitude: 30.11683
+longitude: 10.01654
+glottocode: ghad1239
+glottolog_family_id: afro1255
+glottolog_family_name: Afro-Asiatic
+glottolog_classification: "Afro-Asiatic > Berber > Ghadames"
+wikipedia_url: "https://en.wikipedia.org/wiki/Ghadam%C3%A8s_language"
+rolv_dialects:
+  - rolv_code: 10189
+    language_tag: gha-x-HIS10189
+    name: "Ghadames: Ayt Waziten"
+    country_id: LY
+    location: Libya
+  - rolv_code: 10190
+    language_tag: gha-x-HIS10190
+    name: "Ghadames: Elt Ulid"
+    country_id: LY
+    location: Libya
+---
+Ghadamès is an Eastern Berber language that is spoken in, and named after, the oasis town of Ghadames in the Nalut District of western Libya.

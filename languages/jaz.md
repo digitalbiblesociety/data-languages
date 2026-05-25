@@ -1,0 +1,17 @@
+---
+iso: jaz
+name: Jawe
+autonym: Diahoue
+population: 730
+country_id: NC
+country_name: New Caledonia
+status_id: 6b
+latitude: -20.66477
+longitude: 164.67594
+glottocode: jawe1237
+glottolog_family_id: aust1307
+glottolog_family_name: Austronesian
+glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Southern Melanesian > New Caledonian > Mainland New Caledonian > Northern New Caledonian > Mid-Northern New Caledonian > Jawe"
+wikipedia_url: "https://en.wikipedia.org/wiki/Jawe_language"
+---
+Jawe is one of the Kanak languages spoken in the northern province of the largest island of New Caledonia named Grande Terre. Jawe speakers are located along the northeast coast of the island, north of Hienghène and south of Pouébo; primarily in the Cascada de Tao region, Tchambouenne, and in the upper valleys of both sides of the centrally dividing mountain range.

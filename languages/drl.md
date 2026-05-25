@@ -1,0 +1,38 @@
+---
+iso: drl
+name: Paakantyi
+autonym: Paakantyi
+population: 110
+country_id: AU
+country_name: Australia
+status_id: 8b
+latitude: -32.70212
+longitude: 142.69519
+glottocode: darl1243
+glottolog_family_id: pama1250
+glottolog_family_name: Pama-Nyungan
+glottolog_classification: "Pama-Nyungan > Yarli-Baagandji > Paakantyi"
+wikipedia_url: "https://en.wikipedia.org/wiki/Paakantyi_language"
+rolv_dialects:
+  - rolv_code: 7720
+    language_tag: drl-x-HIS07720
+    name: "Paakantyi: Pantyikali"
+    country_id: AU
+    location: "Australia, New South Wales"
+  - rolv_code: 9143
+    language_tag: drl-x-HIS09143
+    name: "Paakantyi: Wilyaali"
+    country_id: AU
+    location: "Australia, New South Wales"
+  - rolv_code: 24838
+    language_tag: drl-x-HIS24838
+    name: "Paakantyi: Thangkaali"
+    country_id: AU
+    location: "Australia, New South Wales"
+  - rolv_code: 24839
+    language_tag: drl-x-HIS24839
+    name: "Paakantyi: Wanyuparlku"
+    country_id: AU
+    location: "Australia, New South Wales"
+---
+The Paakantyi language, also spelt Paakantji, Barkindji, Barkandji, and Baagandji, and is also known as the Darling language, is a nearly extinct Australian Aboriginal language spoken along the Darling River in New South Wales from the present-day Queensland border to Bourke, then along the river to Wentworth. It includes much of the backcountry around the Paroo River, plus an area along Coopers Creek into Queensland and also through the Broken Hill district.

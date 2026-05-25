@@ -1,0 +1,31 @@
+---
+iso: kga
+name: Koyaga
+autonym: Malinke
+population: 84000
+country_id: CI
+country_name: "Côte d'Ivoire"
+status_id: 6a
+latitude: 8.29177
+longitude: -6.23255
+glottocode: koya1253
+glottolog_family_id: mand1469
+glottolog_family_name: Mande
+glottolog_classification: "Mande > Western Mande > Manding-Kpelle > Central Mande > Manding-Jogo > Manding-Vai > Manding-Mokole > Manding > East Manding > Maninka-Mori > Koro-Koyaga > Koyaga"
+rolv_dialects:
+  - rolv_code: 11210
+    language_tag: kga-x-HIS11210
+    name: "Koyaga: Nigbi"
+    country_id: CI
+    location: "Côte d'Ivoire"
+  - rolv_code: 11211
+    language_tag: kga-x-HIS11211
+    name: "Koyaga: Sagaka"
+    country_id: CI
+    location: "Côte d'Ivoire"
+  - rolv_code: 11212
+    language_tag: kga-x-HIS11212
+    name: "Koyaga: Siaka"
+    country_id: CI
+    location: "Côte d'Ivoire"
+---

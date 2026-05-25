@@ -1,0 +1,28 @@
+---
+iso: bgw
+name: Bhatri
+autonym: Basturia
+population: 334000
+country_id: IN
+country_name: India
+status_id: "3"
+latitude: 19.26078
+longitude: 82.24055
+glottocode: bhat1265
+glottolog_family_id: indo1319
+glottolog_family_name: Indo-European
+glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Indo-Aryan > Middle-Modern Indo-Aryan > Continental Indo-Aryan > Indo-Aryan Eastern zone > Halbic > Bhatri"
+wikipedia_url: "https://en.wikipedia.org/wiki/Bhatri_language"
+rolv_dialects:
+  - rolv_code: 3392
+    language_tag: bgw-x-HIS03392
+    name: Bhatra
+    country_id: IN
+    location: "India, Andhra Pradesh"
+  - rolv_code: 4219
+    language_tag: bgw-x-HIS04219
+    name: Bhatt
+    country_id: IN
+    location: "India, Andhra Pradesh"
+---
+Bhatri is an Eastern Indo-Aryan language spoken by the Bhottada tribe in Chhattisgarh and Odisha, India. The language is spoken predominantly in eastern Bastar district and in Koraput and Nabarangpur districts of Odisha.

@@ -1,0 +1,44 @@
+---
+iso: asm
+name: Assamese
+autonym: অসমীয়া
+population: 14800000
+country_id: IN
+country_name: India
+status_id: "2"
+latitude: 26.08763
+longitude: 91.293155
+scripts: [Beng]
+glottocode: assa1263
+glottolog_family_id: indo1319
+glottolog_family_name: Indo-European
+glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Indo-Aryan > Middle-Modern Indo-Aryan > Continental Indo-Aryan > Indo-Aryan Eastern zone > Oriya-Gauda-Kamrupa > Gauda-Kamrupa > Kamrupa > Eastern Kamrupa > Assamese"
+wikipedia_url: "https://en.wikipedia.org/wiki/Assamese_language"
+rolv_dialects:
+  - rolv_code: 7292
+    language_tag: as-x-HIS07292
+    name: "Assamese: Jharwa"
+    country_id: IN
+    location: "India, Assam"
+  - rolv_code: 7293
+    language_tag: as-x-HIS07293
+    name: "Assamese: Mayang"
+    country_id: IN
+    location: "India, Assam"
+  - rolv_code: 7294
+    language_tag: as-x-HIS07294
+    name: "Assamese: Musulmani"
+    country_id: IN
+    location: "India, Arunachal Pradesh"
+  - rolv_code: 7295
+    language_tag: as-x-HIS07295
+    name: "Assamese: Western"
+    country_id: IN
+    location: "India, Assam"
+  - rolv_code: 31378
+    language_tag: as-x-HIS31378
+    name: "Assamese: Bagani"
+    country_id: IN
+    location: "India, Assam"
+---
+Assamese, Asamiya or Oxomiya is an Indo-Aryan language spoken mainly in the north-eastern Indian state of Assam, where it is an official language. It has long served as a lingua franca in parts of Northeast India. It has over 15 million native speakers and 8.3 million second language speakers according to Ethnologue, although this claim is widely disputed.

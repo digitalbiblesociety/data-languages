@@ -1,0 +1,14 @@
+---
+iso: yau
+name: Yuwana
+autonym: Yuwana
+population: 300
+country_id: VE
+country_name: Venezuela
+status_id: 6a
+latitude: 5.63879
+longitude: -65.4267
+glottocode: yuwa1244
+wikipedia_url: "https://en.wikipedia.org/wiki/Hod%C3%AF_language"
+---
+The Hodï language, also known as Yuwana (Yoana), Waruwaru, or Chikano (Chicano), is a small unclassified language spoken by the Hodï people of Venezuela. Very little is known of it; its several hundred speakers are monolingual hunter-gatherers. The people call themselves Jojodö or Wįlǫ̈, and their language Jojodö tjįwęnę. The two communities with the most speakers are San José de Kayamá and Caño Iguana, with several hundred speakers total.

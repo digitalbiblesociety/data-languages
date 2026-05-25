@@ -1,0 +1,17 @@
+---
+iso: llq
+name: Lolak
+autonym: bahasa Lolak
+population: 3000
+country_id: ID
+country_name: Indonesia
+status_id: 8b
+latitude: 0.85544
+longitude: 124.11656
+glottocode: lola1250
+glottolog_family_id: aust1307
+glottolog_family_name: Austronesian
+glottolog_classification: "Austronesian > Malayo-Polynesian > Greater Central Philippine > Gorontalo-Mongondow > Gorontalic > Lolak"
+wikipedia_url: "https://en.wikipedia.org/wiki/Lolak_language"
+---
+Lolak is a Philippine language spoken in Lolak town, Bolaang Mongondow Regency, North Sulawesi (Celebes), Indonesia. There are fewer than 50 speakers.

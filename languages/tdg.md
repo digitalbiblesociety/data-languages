@@ -1,0 +1,49 @@
+---
+iso: tdg
+name: Western Tamang
+autonym: तामाङ
+population: 323000
+country_id: NP
+country_name: Nepal
+status_id: "5"
+latitude: 28.02386
+longitude: 85.05628
+scripts: [Deva, Tibt]
+glottocode: west2415
+glottolog_family_id: sino1245
+glottolog_family_name: Sino-Tibetan
+glottolog_classification: "Sino-Tibetan > Bodic > Kaike-Ghale-Tamangic > Ghale-Tamangic > Tamangic > Nuclear Tamang > Western Tamang"
+wikipedia_url: "https://en.wikipedia.org/wiki/Western_Tamang"
+rolv_dialects:
+  - rolv_code: 4094
+    language_tag: tdg-x-HIS04094
+    name: "Tamang, Western: Northeastern"
+    country_id: NP
+    location: Nepal
+  - rolv_code: 4935
+    language_tag: tdg-x-HIS04935
+    name: "Tamang, Northwestern"
+    country_id: NP
+    location: Nepal
+  - rolv_code: 17144
+    language_tag: tmk-x-HIS17144
+    name: "Tamang, Northwestern: Dhading"
+    country_id: NP
+    location: Nepal
+  - rolv_code: 17145
+    language_tag: tdg-x-HIS17145
+    name: "Tamang, Western: Southern"
+    country_id: NP
+    location: Nepal
+  - rolv_code: 27632
+    language_tag: tdg-x-HIS27632
+    name: "Tamang, Western: Dakshin Purba"
+    country_id: NP
+    location: Nepal
+  - rolv_code: 27665
+    language_tag: tmk-x-HIS27665
+    name: "Tamang, Northwestern: Madhya Uttar"
+    country_id: NP
+    location: Nepal
+---
+Western Tamang, also known as Gyot Tamang, is a Tibeto-Burman language spoken by the Tamang people in Nepal. It belongs to the Tamangic branch within the Tamang languages, which is part of the Sino-Tibetan language family.

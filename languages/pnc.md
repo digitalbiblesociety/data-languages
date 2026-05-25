@@ -1,0 +1,28 @@
+---
+iso: pnc
+name: Pannei
+autonym: Tapango
+population: 9000
+country_id: ID
+country_name: Indonesia
+status_id: 6a
+latitude: -3.21973
+longitude: 119.19136
+glottocode: pann1239
+glottolog_family_id: aust1307
+glottolog_family_name: Austronesian
+glottolog_classification: "Austronesian > Malayo-Polynesian > Greater South Sulawesi > South Sulawesi > Northern South Sulawesi > Pitu Ulunna Salu > Pannei"
+wikipedia_url: "https://en.wikipedia.org/wiki/Pannei_language"
+rolv_dialects:
+  - rolv_code: 15482
+    language_tag: pnc-x-HIS15482
+    name: "Pannei: Bulo"
+    country_id: ID
+    location: "Indonesia, Sulawesi Barat (West)"
+  - rolv_code: 15483
+    language_tag: pnc-x-HIS15483
+    name: "Pannei: Tapango"
+    country_id: ID
+    location: "Indonesia, Sulawesi Barat (West)"
+---
+Pannei is an Austronesian language of Sulawesi, Indonesia. It is nearly intelligible with other Pitu Ulunna Salu languages.

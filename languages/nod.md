@@ -1,0 +1,34 @@
+---
+iso: nod
+name: Northern Thai
+autonym: " Kam Mueangคำเมือง"
+population: 6000000
+country_id: TH
+country_name: Thailand
+status_id: "4"
+latitude: 18.857495
+longitude: 100.20739
+scripts: [Lana]
+glottocode: nort2740
+glottolog_family_id: taik1256
+glottolog_family_name: Tai-Kadai
+glottolog_classification: "Tai-Kadai > Kam-Tai > Daic-Beic > Daic > Central-Southwestern Tai > Wenma-Southwestern Tai > Sapa-Southwestern Tai > Southwestern Tai > Southwestern Tai P > Shanic > Southern Shanic > Yuanic > Northern Thai"
+wikipedia_url: "https://en.wikipedia.org/wiki/Northern_Thai_language"
+rolv_dialects:
+  - rolv_code: 17421
+    language_tag: nod-x-HIS17421
+    name: "Thai, Northern: Bandu"
+    country_id: TH
+    location: Thailand
+  - rolv_code: 17422
+    language_tag: nod-x-HIS17422
+    name: "Thai, Northern: Nan"
+    country_id: TH
+    location: "Thailand, Northern, Chiang Mai"
+  - rolv_code: 17423
+    language_tag: nod-x-HIS17423
+    name: "Thai, Northern: Tai Wang"
+    country_id: TH
+    location: Thailand
+---
+Northern Thai, also called Kam Mueang, Lanna or Tai Yuan, is the language spoken by the Northern Thai people of Thailand. It is a Southwestern Tai language. The language has approximately six million speakers, most of whom live in Northern Thailand, with a smaller community of speakers in northwestern Laos.

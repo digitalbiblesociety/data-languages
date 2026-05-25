@@ -1,0 +1,28 @@
+---
+iso: szb
+name: Ngalum
+autonym: Sibil
+population: 18000
+country_id: ID
+country_name: Indonesia
+status_id: "5"
+latitude: -4.67682
+longitude: 141.03032
+glottocode: ngal1298
+glottolog_family_id: nucl1709
+glottolog_family_name: Nuclear Trans New Guinea
+glottolog_classification: "Nuclear Trans New Guinea > Asmat-Awyu-Ok > Awyu-Ok > Ok-Oksapmin > Ok > Ngalum"
+wikipedia_url: "https://en.wikipedia.org/wiki/Ngalum_language"
+rolv_dialects:
+  - rolv_code: 4597
+    language_tag: szb-x-HIS04597
+    name: "Ngalum: Kowelmin"
+    country_id: ID
+    location: "Indonesia, Papua Barat"
+  - rolv_code: 14852
+    language_tag: szb-x-HIS14852
+    name: "Ngalum: Sibil"
+    country_id: ID
+    location: "Indonesia, Papua"
+---
+Ngalum is the most populous of the Ok languages in Highland Papua and Papua New Guinea.

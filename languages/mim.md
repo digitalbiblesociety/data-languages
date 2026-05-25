@@ -1,0 +1,51 @@
+---
+iso: mim
+name: Alacatlatzala Mixtec
+autonym: "Mixteco, Alacatlatzala"
+population: 30000
+country_id: MX
+country_name: Mexico
+status_id: "5"
+latitude: 17.49437
+longitude: -98.46738
+glottocode: alac1244
+glottolog_family_id: otom1299
+glottolog_family_name: Otomanguean
+glottolog_classification: "Otomanguean > Eastern Otomanguean > Amuzgo-Mixtecan > Mixtecan > Mixtec-Cuicatec > Mixtec > Guerrero Mixtec > Nuclear Guerrero Mixtec > Alacatlatzala Mixtec"
+rolv_dialects:
+  - rolv_code: 4382
+    language_tag: mim-x-HIS04382
+    name: "Mixtec, Alacatlatzala: Guerrero Alto"
+    country_id: MX
+    location: "Mexico, Guerrero"
+  - rolv_code: 6043
+    language_tag: mim-x-HIS06043
+    name: "Mixtec, Alacatlatzala: Potoichan"
+    country_id: MX
+    location: "Mexico, Guerrero"
+  - rolv_code: 6200
+    language_tag: mim-x-HIS06200
+    name: "Mixtec, Alacatlatzala: Cahuatache"
+    country_id: MX
+    location: "Mexico, Guerrero"
+  - rolv_code: 6431
+    language_tag: mim-x-HIS06431
+    name: "Mixtec, Alacatlatzala: Atlamajalcingo"
+    country_id: MX
+    location: "Mexico, Guerrero"
+  - rolv_code: 6434
+    language_tag: mim-x-HIS06434
+    name: "Mixtec, Alacatlatzala: Mixtecapa"
+    country_id: MX
+    location: "Mexico, Guerrero, San Luis Acatlan"
+  - rolv_code: 21224
+    language_tag: mim-x-HIS21224
+    name: "Mixtec, Alacatlatzala: Xonacatlan"
+    country_id: MX
+    location: "Mexico, Guerrero"
+  - rolv_code: 25379
+    language_tag: mim-x-HIS25379
+    name: "Mixtec, Alacatlatzala: Cuatzoquitengo"
+    country_id: MX
+    location: "Mexico, Guerrero"
+---

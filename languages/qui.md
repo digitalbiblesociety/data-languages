@@ -1,0 +1,23 @@
+---
+iso: qui
+name: Quileute
+autonym: Kʷòʔlíyotʼ
+population: 300
+country_id: US
+country_name: United States
+status_id: "9"
+latitude: 47.91056
+longitude: -124.60311
+glottocode: quil1240
+glottolog_family_id: chim1311
+glottolog_family_name: Chimakuan
+glottolog_classification: "Chimakuan > Quileute"
+wikipedia_url: "https://en.wikipedia.org/wiki/Quileute_language"
+rolv_dialects:
+  - rolv_code: 15903
+    language_tag: qui-x-HIS15903
+    name: "Quileute: Hoh"
+    country_id: US
+    location: United States of America
+---
+Quileute is the language of the Quileute people, located on the western coast of the Olympic Peninsula in Washington state. The language went extinct in 1999, though today there are several second-language speakers and the Quileute Nation is working to revitalize the language in daily life. Quileute is one of two Chimakuan languages, and was the last Chimakuan language spoken natively.

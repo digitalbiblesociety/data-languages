@@ -1,0 +1,17 @@
+---
+iso: aan
+name: Anambé of Cairarí
+autonym: Anambé
+population: 132
+country_id: BR
+country_name: Brazil
+status_id: 8b
+latitude: -2.71119
+longitude: -49.30296
+glottocode: anam1249
+glottolog_family_id: tupi1275
+glottolog_family_name: Tupian
+glottolog_classification: "Tupian > Eastern Tupian > Maweti-Guarani > Aweti-Guarani > Tupi-Guarani > Tupi-Guarani Subgroup V > Arawetic > Anambé"
+wikipedia_url: "https://en.wikipedia.org/wiki/Anamb%C3%A9_language"
+---
+Anambé, or more specifically Anambe of Cairari, is a possibly extinct Tupi language spoken in Pará, on the Cairari River in Brazil. It is being supplanted by Portuguese.

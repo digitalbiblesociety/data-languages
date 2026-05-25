@@ -1,0 +1,23 @@
+---
+iso: tpa
+name: Taupota
+autonym: null
+population: 1280
+country_id: PG
+country_name: Papua New Guinea
+status_id: "5"
+latitude: -10.2275
+longitude: 150.37277
+glottocode: taup1242
+glottolog_family_id: aust1307
+glottolog_family_name: Austronesian
+glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > Papuan Tip linkage > Nuclear Papuan Tip linkage > North Papuan Mainland-D'Entrecasteaux linkage > Are-Taupota linkage > Taupota linkage > Nuclear Taupota linkage > Eastern Taupota > Taupota-Waiema > Taupota"
+wikipedia_url: "https://en.wikipedia.org/wiki/Taupota_language"
+rolv_dialects:
+  - rolv_code: 2013
+    language_tag: tpa-x-HIS02013
+    name: Maivara
+    country_id: PG
+    location: "Papua New Guinea, Milne Bay"
+---
+Taupota is an Oceanic language of the Milne Bay Province, Papua New Guinea. It appears to be a dialect chain, with southern varieties called Wa'ema and western Wedau.

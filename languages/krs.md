@@ -1,0 +1,53 @@
+---
+iso: krs
+name: Gbaya (Sudan)
+autonym: "Kresh-Aja"
+population: 16000
+country_id: SS
+country_name: South Sudan
+status_id: "4"
+latitude: 8.43391
+longitude: 25.51728
+glottocode: gbay1288
+glottolog_family_id: kres1240
+glottolog_family_name: Kresh-Aja
+glottolog_classification: "Kresh-Aja > Kreshic > Kresh-Woro"
+wikipedia_url: "https://en.wikipedia.org/wiki/Kresh_language"
+rolv_dialects:
+  - rolv_code: 4351
+    language_tag: krs-x-HIS04351
+    name: "Gbaya: Gbaya-Ndogo"
+    country_id: SS
+    location: South Sudan
+  - rolv_code: 10126
+    language_tag: krs-x-HIS10126
+    name: "Gbaya: Dongo"
+    country_id: SS
+    location: South Sudan
+  - rolv_code: 10127
+    language_tag: krs-x-HIS10127
+    name: "Gbaya: Gbaya-Dara"
+    country_id: SS
+    location: South Sudan
+  - rolv_code: 10128
+    language_tag: krs-x-HIS10128
+    name: "Gbaya: Gbaya-Gboko"
+    country_id: SS
+    location: South Sudan
+  - rolv_code: 10129
+    language_tag: krs-x-HIS10129
+    name: "Gbaya: Gbaya-Ngbongbo"
+    country_id: SS
+    location: South Sudan
+  - rolv_code: 10130
+    language_tag: krs-x-HIS10130
+    name: "Gbaya: Naka"
+    country_id: SS
+    location: South Sudan
+  - rolv_code: 10131
+    language_tag: krs-x-HIS10131
+    name: "Gbaya: Orlo"
+    country_id: SS
+    location: South Sudan
+---
+Kresh, also known ambiguously as Gbaya, is a Central Sudanic language of South Sudan.

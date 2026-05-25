@@ -1,0 +1,18 @@
+---
+iso: pag
+name: Pangasinan
+autonym: Pangasinense
+population: 1243660
+country_id: PH
+country_name: Philippines
+status_id: "3"
+latitude: 15.93774
+longitude: 120.36519
+scripts: [Latn]
+glottocode: pang1290
+glottolog_family_id: aust1307
+glottolog_family_name: Austronesian
+glottolog_classification: "Austronesian > Malayo-Polynesian > Northern Luzon > Meso-Cordilleran > South-Central Cordilleran > Southern Cordilleran > West Southern Cordilleran > Pangasinan"
+wikipedia_url: "https://en.wikipedia.org/wiki/Pangasinan_language"
+---
+Pangasinan (Pangasinense) is an Austronesian language, and one of the eight major languages of the Philippines. It is the primary and predominant language of the entire province of Pangasinan and northern Tarlac, on the northern part of Luzon's central plains geographic region, most of whom belong to the Pangasinan ethnic group. Pangasinan is also spoken in southwestern La Union, as well as in the municipalities of Benguet, Nueva Vizcaya, Nueva Ecija, and Zambales that border Pangasinan. A few Aeta groups and most Sambal in Central Luzon's northern part also understand and even speak Pangasinan as well.

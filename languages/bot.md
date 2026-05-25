@@ -1,0 +1,38 @@
+---
+iso: bot
+name: Bongo
+autonym: Bungu
+population: 21000
+country_id: SS
+country_name: South Sudan
+status_id: 6b
+latitude: 7.4145
+longitude: 27.99183
+glottocode: bong1285
+glottolog_family_id: cent2225
+glottolog_family_name: Central Sudanic
+glottolog_classification: "Central Sudanic > Sara-Bongo-Bagirmi > Bongo"
+wikipedia_url: "https://en.wikipedia.org/wiki/Bongo_language"
+rolv_dialects:
+  - rolv_code: 3983
+    language_tag: bot-x-HIS03983
+    name: "Bongo: Karagiti"
+    country_id: SS
+    location: South Sudan
+  - rolv_code: 8303
+    language_tag: bot-x-HIS08303
+    name: "Bongo: Bungo"
+    country_id: SS
+    location: South Sudan
+  - rolv_code: 8304
+    language_tag: bot-x-HIS08304
+    name: "Bongo: Busere"
+    country_id: SS
+    location: South Sudan
+  - rolv_code: 20909
+    language_tag: bot-x-HIS20909
+    name: "Bongo: Tonj"
+    country_id: SS
+    location: South Sudan
+---
+Bongo (Bungu), also known as Dor, is a Central Sudanic language spoken by the Bongo people in sparsely populated areas of Bahr al Ghazal in South Sudan.

@@ -1,0 +1,28 @@
+---
+iso: tmu
+name: Iau
+autonym: Edopi
+population: 1500
+country_id: ID
+country_name: Indonesia
+status_id: "5"
+latitude: -3.14537
+longitude: 137.68981
+glottocode: iauu1242
+glottolog_family_id: lake1255
+glottolog_family_name: Lakes Plain
+glottolog_classification: "Lakes Plain > Tariku > Central Tariku > Iau"
+wikipedia_url: "https://en.wikipedia.org/wiki/Iau_language"
+rolv_dialects:
+  - rolv_code: 10752
+    language_tag: tmu-x-HIS10752
+    name: "Iau: Foi"
+    country_id: ID
+    location: "Indonesia, Papua Barat"
+  - rolv_code: 10754
+    language_tag: tmu-x-HIS10754
+    name: "Iau: Turu"
+    country_id: ID
+    location: "Indonesia, Papua Barat"
+---
+Iau or Turu is a Lakes Plain language of West Papua, Indonesia, spoken by about 2,100 people, native speakers of this language are the Turu people (Iau). Most speakers are monolingual, and their number is growing. Other peoples in the western Lakes Plain area speak basic Iau. Iau is heavily tonal, with 11 tones on nouns and 19 simple and compound tones on verbs.

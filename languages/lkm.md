@@ -1,0 +1,17 @@
+---
+iso: lkm
+name: Kalaamaya
+autonym: Karlamay
+population: 10
+country_id: AU
+country_name: Australia
+status_id: "10"
+latitude: -30.245
+longitude: 120.223
+glottocode: kala1401
+glottolog_family_id: pama1250
+glottolog_family_name: Pama-Nyungan
+glottolog_classification: "Pama-Nyungan > South-West Pama-Nyungan > Mirning > Kalaamaya"
+wikipedia_url: "https://en.wikipedia.org/wiki/Kalaamaya_language"
+---
+Kalaamaya, also spelled Karlamay, is a Pama–Nyungan language of Western Australia. It is poorly attested, but appears to be a close relative of Noongar.

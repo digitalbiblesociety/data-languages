@@ -1,0 +1,17 @@
+---
+iso: kuk
+name: "Kepo'"
+autonym: Kepoq
+population: 10600
+country_id: ID
+country_name: Indonesia
+status_id: 6b
+latitude: -8.58908
+longitude: 120.83973
+glottocode: kepo1237
+glottolog_family_id: aust1307
+glottolog_family_name: Austronesian
+glottolog_classification: "Austronesian > Malayo-Polynesian > Bima-Lembata > Flores > West-Central Flores > Manggaraiic > Kepo'"
+wikipedia_url: "https://en.wikipedia.org/wiki/Kepo%CA%BC_language"
+---
+Kepoʼ (Kepoq) is a Malayo-Polynesian language spoken on Flores in Indonesia.

@@ -1,0 +1,29 @@
+---
+iso: sxn
+name: Sangir
+autonym: Siau
+population: 165000
+country_id: ID
+country_name: Indonesia
+status_id: "5"
+latitude: 4.459695
+longitude: 125.604075
+scripts: [Latn]
+glottocode: sang1336
+glottolog_family_id: aust1307
+glottolog_family_name: Austronesian
+glottolog_classification: "Austronesian > Malayo-Polynesian > Sangiric-Minahasan > Sangiric > Northern Sangiric > Sangil-Sangir > Sangir"
+wikipedia_url: "https://en.wikipedia.org/wiki/Sangir_language"
+rolv_dialects:
+  - rolv_code: 709
+    language_tag: sxn-x-HIS00709
+    name: Sangir.
+    country_id: ID
+    location: "Indonesia, Sulawesi Utara (North), Sangir"
+  - rolv_code: 16284
+    language_tag: sxn-x-HIS16284
+    name: "Sangir: Manganitu"
+    country_id: ID
+    location: "Indonesia, Sulawesi Utara (North)"
+---
+Sangir, also known as Sangihé, Sangi, Sangil, or Sangih, is an Austronesian language spoken on the islands linking northern Sulawesi, Indonesia, with Mindanao, Philippines by the Sangir people. It belongs to the Philippine group within the Austronesian language family.

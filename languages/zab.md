@@ -1,0 +1,48 @@
+---
+iso: zab
+name: Western Tlacolula Valley Zapotec
+autonym: Valley Zapotec
+population: 28000
+country_id: MX
+country_name: Mexico
+status_id: "5"
+latitude: 17.03317
+longitude: -96.59675
+glottocode: sanj1284
+glottolog_family_id: otom1299
+glottolog_family_name: Otomanguean
+glottolog_classification: "Otomanguean > Eastern Otomanguean > Popoloca-Zapotecan > Zapotecan > Zapotec > Core Zapotec > Narrow Core Zapotec > Central Core Zapotec > Western Valley Zapotec > Western Tlacolula Valley Zapotec"
+wikipedia_url: "https://en.wikipedia.org/wiki/Western_Tlacolula_Valley_Zapotec"
+rolv_dialects:
+  - rolv_code: 2726
+    language_tag: zab-x-HIS02726
+    name: "Zapotec, Guelavia: Valle"
+    country_id: MX
+    location: "Mexico, Quintana Roo"
+  - rolv_code: 6203
+    language_tag: zab-x-HIS06203
+    name: "Zapotec, Guelavia: Quialana"
+    country_id: MX
+    location: "Mexico, Oaxaca"
+  - rolv_code: 6369
+    language_tag: zab-x-HIS06369
+    name: "Zapotec, Guelavia: Teotitlan del Valle"
+    country_id: MX
+    location: "Mexico, Oaxaca"
+  - rolv_code: 18683
+    language_tag: zab-x-HIS18683
+    name: "Zapotec, Guelavia: Jalieza"
+    country_id: MX
+    location: "Mexico, Oaxaca"
+  - rolv_code: 18684
+    language_tag: zab-x-HIS18684
+    name: "Zapoteco, San Juan Guelavia: San Martín Tilcajete"
+    country_id: MX
+    location: "Mexico, Oaxaca"
+  - rolv_code: 25586
+    language_tag: zab-x-HIS25586
+    name: "Zapotec, Guelavia: San Lucas Quiavini"
+    country_id: MX
+    location: "Mexico, Oaxaca"
+---
+Tlacolula Valley Zapotec or Valley Zapotec, known by its regional name Dizhsa, and formerly known by the varietal name Guelavia Zapotec is a Zapotec language of Oaxaca, Mexico.

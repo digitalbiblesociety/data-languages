@@ -1,0 +1,17 @@
+---
+iso: haf
+name: Haiphong Sign Language
+autonym: null
+population: 1800
+country_id: VN
+country_name: Vietnam
+status_id: 6a
+latitude: 20.8537
+longitude: 106.68927
+glottocode: haip1238
+glottolog_family_id: sign1238
+glottolog_family_name: Sign Language
+glottolog_classification: "Sign Language > L1 Sign Language > Vietnamese Sign > Haiphong Sign Language"
+wikipedia_url: "https://en.wikipedia.org/wiki/Haiphong_Sign_Language"
+---
+Haiphong Sign Language is the deaf-community sign language of the city of Haiphong in Vietnam. It is about 50% cognate with the other sign languages of Vietnam, and has been less influenced than them by the French Sign Language once taught in Vietnamese schools for the deaf. It shares cognates with the languages of the Old Chiangmai–Bangkok Sign Language family of Thailand; the deaf-community sign languages of Vietnam, Thailand and Laos may be genealogically related, or there may be a history of population movement that has cause them to have words in common.

@@ -1,0 +1,29 @@
+---
+iso: lil
+name: Lillooet
+autonym: St̓át̓imcets / Sƛ’aƛ’imxǝc
+population: 200
+country_id: CA
+country_name: Canada
+status_id: "7"
+latitude: 50.72722
+longitude: -122.04027
+scripts: [Latn]
+glottocode: lill1248
+glottolog_family_id: sali1255
+glottolog_family_name: Salishan
+glottolog_classification: "Salishan > Interior Salish > Northern Interior Salish > Lillooet"
+wikipedia_url: "https://en.wikipedia.org/wiki/Lillooet_language"
+rolv_dialects:
+  - rolv_code: 25176
+    language_tag: lil-x-HIS25176
+    name: "Lillooet: Lower"
+    country_id: CA
+    location: "Canada, British Columbia"
+  - rolv_code: 25177
+    language_tag: lil-x-HIS25177
+    name: "Lillooet: Upper"
+    country_id: CA
+    location: "Canada, British Columbia"
+---
+Lillooet, also Lilʼwat, is a Salishan language of the Interior branch spoken by the Stʼatʼimc in southern British Columbia, Canada, around the middle Fraser and Lillooet Rivers. The language of the Lower Lillooet people uses the name Ucwalmícwts, because St̓át̓imcets means "the language of the people of Sat̓", i.e. the Upper Lillooet of the Fraser River.

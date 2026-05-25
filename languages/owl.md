@@ -1,0 +1,17 @@
+---
+iso: owl
+name: Old Welsh
+autonym: null
+population: null
+country_id: GB
+country_name: United Kingdom
+status_id: null
+latitude: 52.582
+longitude: -4.089
+glottocode: oldw1239
+glottolog_family_id: indo1319
+glottolog_family_name: Indo-European
+glottolog_classification: "Indo-European > Classical Indo-European > Celtic > Nuclear Celtic > Core Celtic > Insular Celtic > Brythonic > Old-Modern Welsh > Old-Middle Welsh"
+wikipedia_url: "https://en.wikipedia.org/wiki/Old_Welsh"
+---
+Old Welsh is the stage of the Welsh language from about 800 AD until the early 12th century when it developed into Middle Welsh. The preceding period, from the time Welsh became distinct from Common Brittonic around 550, has been called "Primitive" or "Archaic Welsh".

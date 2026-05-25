@@ -1,0 +1,15 @@
+---
+iso: bme
+name: Limassa
+autonym: Bamassa
+population: null
+country_id: CF
+country_name: Central African Republic
+status_id: 6a
+latitude: 2.268084
+longitude: 16.187439
+glottocode: lima1246
+glottolog_family_id: atla1278
+glottolog_family_name: Atlantic-Congo
+glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Cameroun-Ubangian > Ubangi > Ubangi Ka > Mundu-Baka > Western Mundu-Baka > Baka-Gundi > Limassa"
+---

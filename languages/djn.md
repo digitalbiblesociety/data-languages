@@ -1,0 +1,17 @@
+---
+iso: djn
+name: Jawoyn
+autonym: Djauan
+population: 15
+country_id: AU
+country_name: Australia
+status_id: 8b
+latitude: -14.13608
+longitude: 133.00152
+glottocode: djau1244
+glottolog_family_id: gunw1250
+glottolog_family_name: Gunwinyguan
+glottolog_classification: "Gunwinyguan > Western Gunwinyguan > Jawoyn"
+wikipedia_url: "https://en.wikipedia.org/wiki/Jawoyn_language"
+---
+Jawoyn, also known as Kumertuo, is a moribund Gunwinyguan language spoken only by elders in Arnhem Land, Australia.

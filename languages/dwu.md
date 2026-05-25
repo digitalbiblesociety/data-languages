@@ -1,0 +1,40 @@
+---
+iso: dwu
+name: Dhuwal
+autonym: null
+population: null
+country_id: AU
+country_name: Australia
+status_id: null
+rolv_dialects:
+  - rolv_code: 9243
+    language_tag: dwu-x-HIS09243
+    name: Datiwuy
+    country_id: AU
+    location: "Australia, Northern Territory, North-East Arnhem land"
+  - rolv_code: 9245
+    language_tag: dwu-x-HIS09245
+    name: Djapu
+    country_id: AU
+    location: "Australia, Northern Territory, North-East Arnhem land"
+  - rolv_code: 9246
+    language_tag: dwu-x-HIS09246
+    name: Liyagalawumirr
+    country_id: AU
+    location: "Australia, Northern Territory, North-East Arnhem land"
+  - rolv_code: 9247
+    language_tag: dwu-x-HIS09247
+    name: Liyagawumirr
+    country_id: AU
+    location: "Australia, Northern Territory, North-East Arnhem land"
+  - rolv_code: 9248
+    language_tag: dwu-x-HIS09248
+    name: Marrakulu
+    country_id: AU
+    location: "Australia, Northern Territory, North-East Arnhem land"
+  - rolv_code: 9249
+    language_tag: dwu-x-HIS09249
+    name: Marrangu
+    country_id: AU
+    location: "Australia, Northern Territory, North-East Arnhem land"
+---

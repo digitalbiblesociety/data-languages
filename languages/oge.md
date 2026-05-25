@@ -1,0 +1,17 @@
+---
+iso: oge
+name: Old Georgian
+autonym: ႤႬႠჂ ႵႠႰႧႭჃႪႨ
+population: null
+country_id: GE
+country_name: Georgia
+status_id: null
+latitude: 41.604313
+longitude: 43.06151
+glottocode: oldg1234
+glottolog_family_id: kart1248
+glottolog_family_name: Kartvelian
+glottolog_classification: "Kartvelian > Georgian-Zan > Georgic > Old Georgian"
+wikipedia_url: "https://en.wikipedia.org/wiki/Old_Georgian"
+---
+Old Georgian is a literary language of the Georgian monarchies attested from the 5th century. The language remains in use as the liturgical language of the Georgian Orthodox Church and for the most part is still intelligible. Spoken Old Georgian gave way to what is classified as Middle Georgian in the 11th century, which in turn developed into the Modern Georgian in the 18th century.

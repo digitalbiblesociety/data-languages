@@ -1,0 +1,17 @@
+---
+iso: iai
+name: Iaai
+autonym: hwen iaai
+population: 4080
+country_id: NC
+country_name: New Caledonia
+status_id: 6a
+latitude: -20.63012
+longitude: 166.59048
+glottocode: iaai1238
+glottolog_family_id: aust1307
+glottolog_family_name: Austronesian
+glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Southern Melanesian > New Caledonian > Loyalty Islands > Iaai"
+wikipedia_url: "https://en.wikipedia.org/wiki/Iaai_language"
+---
+Iaai is a language of Ouvéa Island. It shares the island of Ouvéa with Fagauvea, a Polynesian outlier language.

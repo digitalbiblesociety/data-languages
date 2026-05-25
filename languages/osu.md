@@ -1,0 +1,15 @@
+---
+iso: osu
+name: Southern One
+autonym: Aunalei
+population: 200
+country_id: PG
+country_name: Papua New Guinea
+status_id: 6b
+latitude: -3.41913
+longitude: 141.85212
+glottocode: sout2932
+glottolog_family_id: nucl1708
+glottolog_family_name: Nuclear Torricelli
+glottolog_classification: "Nuclear Torricelli > West Wapei > One > Southern One"
+---

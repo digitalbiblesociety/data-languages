@@ -1,0 +1,23 @@
+---
+iso: krd
+name: "Kairui-Midiki"
+autonym: Cairui
+population: 2000
+country_id: TL
+country_name: "Timor-Leste"
+status_id: 6b
+latitude: -8.74034
+longitude: 126.05874
+glottocode: kair1265
+glottolog_family_id: aust1307
+glottolog_family_name: Austronesian
+glottolog_classification: "Austronesian > Malayo-Polynesian > Timor-Babar > Eastern Timor > Kawaimina > Kairui-Midiki"
+wikipedia_url: "https://en.wikipedia.org/wiki/Kairui-Midiki_language"
+rolv_dialects:
+  - rolv_code: 30461
+    language_tag: krd-x-HIS30461
+    name: "Kairui-Midiki: Tenun"
+    country_id: TL
+    location: Timor-Leste
+---
+Kairui-Midiki is a language of East Timor spoken by 18,600 people in 2015, primarily in Venilale Administrative Post in Baucau, parts of the Viqueque Municipality, and suco Kairui.

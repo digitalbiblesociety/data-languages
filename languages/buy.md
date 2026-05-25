@@ -1,0 +1,28 @@
+---
+iso: buy
+name: Bullom So
+autonym: Bolom
+population: 8350
+country_id: SL
+country_name: Sierra Leone
+status_id: "5"
+latitude: 9
+longitude: -13.16
+glottocode: bull1247
+glottolog_family_id: atla1278
+glottolog_family_name: Atlantic-Congo
+glottolog_classification: "Atlantic-Congo > Mel > Southern Mel > Bullom > Northern Bullom > Bullom So"
+wikipedia_url: "https://en.wikipedia.org/wiki/Bullom_So_language"
+rolv_dialects:
+  - rolv_code: 8451
+    language_tag: buy-x-HIS08451
+    name: "Bullom So: Kafu"
+    country_id: SL
+    location: Sierra Leone
+  - rolv_code: 8452
+    language_tag: buy-x-HIS08452
+    name: "Bullom So: Mmani"
+    country_id: SL
+    location: Sierra Leone
+---
+The Bullom So language, also called Mmani, Mani, or Mandingi, is an endangered language currently spoken in a few villages in Samu region of Sierra Leone's Kambia District, near the border of Guinea. It belongs to the Mel branch of the Niger–Congo language family and is particularly closely related to the Bom language. Intermarriage between Bullom So speakers and speakers of Temne and Susu is common. As the few remaining speakers of Bullom So are all over 60, the language is considered moribund.

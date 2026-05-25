@@ -1,0 +1,28 @@
+---
+iso: tvy
+name: Timor Pidgin
+autonym: Timor Pidgin
+population: null
+country_id: TL
+country_name: "Timor-Leste"
+status_id: "10"
+latitude: -8.65995
+longitude: 125.58973
+glottocode: timo1258
+glottolog_family_id: indo1319
+glottolog_family_name: Indo-European
+glottolog_classification: "Indo-European > Classical Indo-European > Italic > Latino-Faliscan > Latinic > Imperial Latin > Romance > Italo-Western Romance > Western Romance > Shifted Western Romance > Southwestern Shifted Romance > West Ibero-Romance > Galician Romance > Macro-Portuguese > Luso-Asian Creole > Timor Pidgin"
+wikipedia_url: "https://en.wikipedia.org/wiki/Bidau_Creole_Portuguese"
+rolv_dialects:
+  - rolv_code: 15658
+    language_tag: tvy-x-HIS15658
+    name: "Pidgin, Timor: Macaista"
+    country_id: TL
+    location: Timor-Leste
+  - rolv_code: 15659
+    language_tag: tvy-x-HIS15659
+    name: "Pidgin, Timor: Portugues De Bidau"
+    country_id: TL
+    location: Timor-Leste
+---
+Bidau Creole Portuguese, also known as Timor Pidgin was a Portuguese-based creole language that was spoken in Bidau, Nain Feto, an eastern suburb of Dili, East Timor.

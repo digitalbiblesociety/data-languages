@@ -1,0 +1,33 @@
+---
+iso: shv
+name: Shehri
+autonym: Jibbali
+population: 25000
+country_id: OM
+country_name: Oman
+status_id: 6b
+latitude: 17.29154
+longitude: 53.99526
+glottocode: sheh1240
+glottolog_family_id: afro1255
+glottolog_family_name: Afro-Asiatic
+glottolog_classification: "Afro-Asiatic > Semitic > West Semitic > Modern South Arabian > Eastern MSA > Jibbali"
+wikipedia_url: "https://en.wikipedia.org/wiki/Shehri_language"
+rolv_dialects:
+  - rolv_code: 11148
+    language_tag: shv-x-HIS11148
+    name: "Jibbali: Central"
+    country_id: OM
+    location: Oman
+  - rolv_code: 11149
+    language_tag: shv-x-HIS11149
+    name: "Jibbali: Eastern"
+    country_id: OM
+    location: Oman
+  - rolv_code: 11150
+    language_tag: shv-x-HIS11150
+    name: "Jibbali: Western"
+    country_id: OM
+    location: Oman
+---
+Shehri, also known as Jibbali, is a Modern South Arabian language. It, along with the three island varieties of Soqoṭri, comprises the eastern branch of Modern South Arabian. The language is chiefly spoken by two groups of people, whose autonyms are Śḥɛrí and Əḥklí respectively. They inhabit the coastal towns, the mountains, and wilderness areas upland from Salalah, located in the Dhofar Governorate in southern Oman.

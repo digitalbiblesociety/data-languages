@@ -1,0 +1,130 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://github.com/digitalbiblesociety/languages/schema.json",
+  "title": "Languages of the World",
+  "description": "Schema for language frontmatter (one file per ISO 639-3 code).",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "iso",
+    "name"
+  ],
+  "propertyNames": {
+    "enum": [
+      "iso",
+      "name",
+      "autonym",
+      "population",
+      "country_id",
+      "country_name",
+      "status_id",
+      "latitude",
+      "longitude",
+      "scripts",
+      "glottocode",
+      "glottolog_family_id",
+      "glottolog_family_name",
+      "glottolog_classification",
+      "wikipedia_url",
+      "rolv_dialects"
+    ]
+  },
+  "$comment": "Property order below is the canonical emission order. Tools that write these files must preserve it.",
+  "properties": {
+    "iso": {
+      "description": "ISO 639-3 three-letter code, lowercase.",
+      "type": "string",
+      "pattern": "^[a-z]{3}$"
+    },
+    "name": {
+      "description": "Common English name of the language.",
+      "type": "string",
+      "minLength": 1
+    },
+    "autonym": {
+      "description": "Endonym (the language's name written in the language itself).",
+      "type": "string"
+    },
+    "population": {
+      "description": "Approximate number of speakers.",
+      "type": "integer",
+      "minimum": 0
+    },
+    "country_id": {
+      "description": "Primary country, ISO 3166-1 alpha-2 (uppercase).",
+      "type": "string",
+      "pattern": "^[A-Z]{2}$"
+    },
+    "country_name": {
+      "description": "Primary country name (free text).",
+      "type": "string"
+    },
+    "status_id": {
+      "description": "EGIDS vitality (Expanded Graded Intergenerational Disruption Scale).",
+      "type": "string",
+      "enum": ["0", "1", "2", "3", "4", "5", "6a", "6b", "7", "8a", "8b", "9", "10"]
+    },
+    "latitude": {
+      "description": "Centroid latitude in decimal degrees.",
+      "type": "number",
+      "minimum": -90,
+      "maximum": 90
+    },
+    "longitude": {
+      "description": "Centroid longitude in decimal degrees.",
+      "type": "number",
+      "minimum": -180,
+      "maximum": 180
+    },
+    "scripts": {
+      "description": "ISO 15924 codes for the writing systems this language uses (primary + secondary). Populated by tools/sources/cldr.go. Cross-references the sibling `scripts/` repo.",
+      "type": "array",
+      "items": { "type": "string", "pattern": "^[A-Z][a-z]{3}$" },
+      "minItems": 1,
+      "uniqueItems": true
+    },
+    "glottocode": {
+      "description": "Glottolog languoid ID, e.g. 'aari1239'. Populated by tools/sources/glottolog.go.",
+      "type": "string",
+      "pattern": "^[a-z0-9]{4}\\d{4}$"
+    },
+    "glottolog_family_id": {
+      "description": "Glottolog ID of the top-level family this language belongs to.",
+      "type": "string",
+      "pattern": "^[a-z0-9]{4}\\d{4}$"
+    },
+    "glottolog_family_name": {
+      "description": "Human-readable name of the Glottolog family.",
+      "type": "string"
+    },
+    "glottolog_classification": {
+      "description": "Top-down genealogical path from family to leaf, joined with ' > '.",
+      "type": "string"
+    },
+    "wikipedia_url": {
+      "description": "English Wikipedia article URL. Populated by tools/sources/wikipedia.go via Wikidata P220.",
+      "type": "string",
+      "format": "uri",
+      "pattern": "^https://en\\.wikipedia\\.org/wiki/.+$"
+    },
+    "rolv_dialects": {
+      "description": "GRN Registry of Language Varieties (ROLV) entries that fall under this ISO 639-3 code. Populated by tools/sources/rolv.go.",
+      "type": "array",
+      "items": { "$ref": "#/$defs/dialect" }
+    }
+  },
+  "$defs": {
+    "dialect": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["rolv_code", "name"],
+      "properties": {
+        "rolv_code":    { "type": "integer", "minimum": 1, "maximum": 99999, "description": "Unique 5-digit GRN ROLV code." },
+        "language_tag": { "type": "string", "pattern": "^[a-z]{2,3}(-[A-Za-z0-9]+)*$", "description": "BCP-47 language tag; most rows are `<iso>-x-HIS#####` but a small minority use plain BCP-47 (e.g. `en-US`, `zh-Hans-x-HIS04837`)." },
+        "name":         { "type": "string", "minLength": 1, "description": "Variety name as published by GRN." },
+        "country_id":   { "type": "string", "pattern": "^[A-Z]{2}$", "description": "Primary country of the variety (ISO 3166-1 alpha-2)." },
+        "location":     { "type": "string", "description": "Free-text location, often country with sub-region." }
+      }
+    }
+  }
+}

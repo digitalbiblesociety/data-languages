@@ -1,0 +1,38 @@
+---
+iso: kij
+name: Kilivila
+autonym: Kiriwina
+population: 40000
+country_id: PG
+country_name: Papua New Guinea
+status_id: "5"
+latitude: -8.72574
+longitude: 151.0724
+glottocode: kili1267
+glottolog_family_id: aust1307
+glottolog_family_name: Austronesian
+glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > Papuan Tip linkage > Peripheral Papuan Tip linkage > Kilivila-Misima > Kilivilic > Kilivila-Muyuw > Kilivila"
+wikipedia_url: "https://en.wikipedia.org/wiki/Kilivila_language"
+rolv_dialects:
+  - rolv_code: 2123
+    language_tag: kij-x-HIS02123
+    name: Sim Simla
+    country_id: PG
+    location: "Papua New Guinea, Milne Bay"
+  - rolv_code: 11998
+    language_tag: kij-x-HIS11998
+    name: "Kilivila: Sinaketa"
+    country_id: PG
+    location: "Papua New Guinea, Milne Bay"
+  - rolv_code: 11999
+    language_tag: kij-x-HIS11999
+    name: "Kilivila: Vakuta"
+    country_id: PG
+    location: "Papua New Guinea, Milne Bay"
+  - rolv_code: 20866
+    language_tag: kij-x-HIS20866
+    name: "Kilivila: Kitava"
+    country_id: PG
+    location: "Papua New Guinea, Milne Bay"
+---
+Kilivila (Kiriwina) is one of the Kilivila–Louisiades languages, spoken by the Trobriand people of the Trobriand Islands. It is used in local schools.

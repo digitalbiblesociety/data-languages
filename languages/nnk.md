@@ -1,0 +1,23 @@
+---
+iso: nnk
+name: Nankina
+autonym: null
+population: null
+country_id: PG
+country_name: Papua New Guinea
+status_id: "5"
+latitude: -5.80804
+longitude: 146.46444
+glottocode: nank1250
+glottolog_family_id: nucl1709
+glottolog_family_name: Nuclear Trans New Guinea
+glottolog_classification: "Nuclear Trans New Guinea > Finisterre-Huon > Finisterre-Saruwaged > Yupna > Nankina"
+wikipedia_url: "https://en.wikipedia.org/wiki/Nankina_language"
+rolv_dialects:
+  - rolv_code: 30314
+    language_tag: nnk-x-HIS30314
+    name: "Nankina: Datomane"
+    country_id: PG
+    location: "Papua New Guinea, Madang"
+---
+Nankina is one of the Finisterre languages of Papua New Guinea.

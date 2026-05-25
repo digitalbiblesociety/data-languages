@@ -1,0 +1,17 @@
+---
+iso: ppq
+name: Pei
+autonym: Pai
+population: 200
+country_id: PG
+country_name: Papua New Guinea
+status_id: 6b
+latitude: -4.43974
+longitude: 142.24694
+glottocode: peii1238
+glottolog_family_id: wali1264
+glottolog_family_name: Walioic
+glottolog_classification: "Walioic > Pai-Sinen-Walio > Pei"
+wikipedia_url: "https://en.wikipedia.org/wiki/Pei_language"
+---
+Pei (Pai) is a nearly extinct Sepik language spoken in Ambunti Rural LLG, East Sepik Province, Papua-New Guinea. It is spoken in villages such as Hauna of Ambunti Rural LLG.

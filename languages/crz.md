@@ -1,0 +1,17 @@
+---
+iso: crz
+name: Cruzeño
+autonym: Isleño
+population: null
+country_id: US
+country_name: United States
+status_id: "9"
+latitude: 34.046515
+longitude: -119.864044
+glottocode: cruz1243
+glottolog_family_id: chum1262
+glottolog_family_name: Chumashan
+glottolog_classification: "Chumashan > Southern Chumashan > Cruzeño"
+wikipedia_url: "https://en.wikipedia.org/wiki/Island_Chumash_language"
+---
+Island Chumash, also known as Isleño (Ysleño) or by the dialect name Cruzeño, is one of the extinct Chumashan languages spoken along the coastal areas of Southern California.

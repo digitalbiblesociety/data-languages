@@ -1,0 +1,21 @@
+---
+iso: ncr
+name: Ncane
+autonym: Cane
+population: 15500
+country_id: CM
+country_name: Cameroon
+status_id: 6a
+latitude: 6.50696
+longitude: 10.53117
+glottocode: ncan1245
+glottolog_family_id: atla1278
+glottolog_family_name: Atlantic-Congo
+glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Beboid > Eastern Beboid > Nsari-Nooni-Ncane > Nooni-Ncane > Ncane-Cung > Ncane-Mungong"
+rolv_dialects:
+  - rolv_code: 14410
+    language_tag: ncr-x-HIS14410
+    name: "Nchane: Mungong"
+    country_id: CM
+    location: "Cameroon, Nord-Ouest"
+---

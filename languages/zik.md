@@ -1,0 +1,28 @@
+---
+iso: zik
+name: Zimakani
+autonym: Baegwa
+population: 1500
+country_id: PG
+country_name: Papua New Guinea
+status_id: "5"
+latitude: -7.3701
+longitude: 141.45194
+glottocode: zima1244
+glottolog_family_id: anim1240
+glottolog_family_name: Anim
+glottolog_classification: "Anim > Marind-Boazi-Yaqai > Boazi > Zimakani"
+wikipedia_url: "https://en.wikipedia.org/wiki/Zimakani_language"
+rolv_dialects:
+  - rolv_code: 3928
+    language_tag: zik-x-HIS03928
+    name: Bagwa
+    country_id: PG
+    location: "Papua New Guinea, Western"
+  - rolv_code: 18716
+    language_tag: zik-x-HIS18716
+    name: "Zimakani: Dea"
+    country_id: PG
+    location: "Papua New Guinea, Western"
+---
+Zimakani is a Papuan language spoken in Papua New Guinea by approximately 1,500 people.

@@ -1,0 +1,33 @@
+---
+iso: aix
+name: Aighon
+autonym: Psohoh
+population: 2000
+country_id: PG
+country_name: Papua New Guinea
+status_id: 6a
+latitude: -5.99488
+longitude: 150.27247
+glottocode: aigh1235
+glottolog_family_id: aust1307
+glottolog_family_name: Austronesian
+glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > North New Guinea linkage > Ngero-Vitiaz linkage > Vitiaz linkage > Southwest New Britain linkage > Arawe-Pasismanua > Pasismanua > Aighon"
+wikipedia_url: "https://en.wikipedia.org/wiki/Aigon_language"
+rolv_dialects:
+  - rolv_code: 15777
+    language_tag: aix-x-HIS15777
+    name: Psohoh
+    country_id: PG
+    location: "Papua New Guinea, West New Britain"
+  - rolv_code: 15778
+    language_tag: aix-x-HIS15778
+    name: "Psohoh: Aigon"
+    country_id: PG
+    location: "Papua New Guinea, West New Britain"
+  - rolv_code: 15779
+    language_tag: aix-x-HIS15779
+    name: "Psohoh: Bao"
+    country_id: PG
+    location: "Papua New Guinea, West New Britain"
+---
+Aigon (Aighon) is an Austronesian language spoken by about 2000 individuals between the Avio and Amgen rivers in West New Britain Province, Papua New Guinea on the island of New Britain.

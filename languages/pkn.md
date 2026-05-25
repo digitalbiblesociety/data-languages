@@ -1,0 +1,17 @@
+---
+iso: pkn
+name: Pakanha
+autonym: Ayabakan
+population: null
+country_id: AU
+country_name: Australia
+status_id: 8b
+latitude: -15.09085
+longitude: 142.73992
+glottocode: paka1251
+glottolog_family_id: pama1250
+glottolog_family_name: Pama-Nyungan
+glottolog_classification: "Pama-Nyungan > Paman > Compromise Middle Pama > Wik > Kuku-Wik-Ep > Kuku-Wik > Mungkanic > Pakanha"
+wikipedia_url: "https://en.wikipedia.org/wiki/Pakanha_language"
+---
+Pakanha (Bakanha), or Ayabakan, is a nearly extinct Paman language spoken on the Cape York Peninsula of Queensland, Australia. In 1981, there were 10 speakers of the language, originally spoken by the aboriginal Pakanha people in the central part of the Cape York Peninsula.

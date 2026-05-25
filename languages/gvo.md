@@ -1,0 +1,23 @@
+---
+iso: gvo
+name: Gavião Do Jiparaná
+autonym: Gavião of Rondônia
+population: 1120
+country_id: BR
+country_name: Brazil
+status_id: "4"
+latitude: -10.7235
+longitude: -61.67521
+glottocode: gavi1246
+glottolog_family_id: tupi1275
+glottolog_family_name: Tupian
+glottolog_classification: "Tupian > Monde > Gavianic > Nuclear Gavianic > Gavião Do Jiparaná"
+wikipedia_url: "https://en.wikipedia.org/wiki/Gavi%C3%A3o_of_Jiparan%C3%A1"
+rolv_dialects:
+  - rolv_code: 10063
+    language_tag: gvo-x-HIS10063
+    name: "Gaviao do Rondonia: Zoro"
+    country_id: BR
+    location: "Brazil, Rondônia"
+---
+Gaviao of Jiparana, also known as "Digüt", Ikolen and Gavião do Rondônia, or in the language itself, Ikó̱ló̱éhj, is the language of the Gavião of Rondônia, Brazil. It is a Tupian language of the Monde branch. It is partially intelligible with Suruí. The Zoró dialect spoken by the Zoró people is sometimes considered a separate language.

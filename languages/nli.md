@@ -1,0 +1,28 @@
+---
+iso: nli
+name: Grangali
+autonym: Grangali
+population: 5000
+country_id: AF
+country_name: Afghanistan
+status_id: 6a
+latitude: 34.64848
+longitude: 70.73232
+glottocode: gran1245
+glottolog_family_id: indo1319
+glottolog_family_name: Indo-European
+glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Indo-Aryan > Gawarbatic > Shumashtic > Grangali-Ningalami"
+wikipedia_url: "https://en.wikipedia.org/wiki/Nangalami_language"
+rolv_dialects:
+  - rolv_code: 10326
+    language_tag: nli-x-HIS10326
+    name: "Grangali: Nangalami"
+    country_id: AF
+    location: Afghanistan
+  - rolv_code: 10327
+    language_tag: nli-x-HIS10327
+    name: "Grangali: Zemiaki"
+    country_id: AF
+    location: Afghanistan
+---
+Nangalami, or Grangali, is an Indo-Aryan language spoken in Afghanistan. Zemiaki was formerly considered a Nangalami dialect, but has been reassessed and placed in the Nuristani language group being close to Waigali. Moreover, the pronouns are fundamentally different.

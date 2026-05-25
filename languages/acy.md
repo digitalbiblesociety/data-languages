@@ -1,0 +1,17 @@
+---
+iso: acy
+name: Cypriot Arabic
+autonym: Sanna
+population: 1300
+country_id: CY
+country_name: Cyprus
+status_id: "7"
+latitude: 35.16744
+longitude: 33.0943
+glottocode: cypr1248
+glottolog_family_id: afro1255
+glottolog_family_name: Afro-Asiatic
+glottolog_classification: "Afro-Asiatic > Semitic > West Semitic > Central Semitic > Arabian > Arabic > Levantine-Cypriot Arabic > Cypriot Arabic"
+wikipedia_url: "https://en.wikipedia.org/wiki/Cypriot_Arabic"
+---
+Cypriot Arabic, also known as Cypriot Maronite Arabic or Sanna, is a moribund variety of Arabic spoken by the Maronite community of Cyprus. Formerly speakers were mostly situated in Kormakitis, but following the Turkish invasion of Cyprus in 1974, the majority relocated to the south and dispersed, leading to the decline of the language. Traditionally bilingual in Cypriot Greek, as of some time prior to 2000, all remaining speakers of Cypriot Arabic were over 30 years of age. A 2011 census reported that, of the 3,656 Maronite Cypriots in Republic of Cyprus-controlled areas, none declared Cypriot Arabic as their first language.

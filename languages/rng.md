@@ -1,0 +1,39 @@
+---
+iso: rng
+name: Ronga
+autonym: Gironga
+population: 618000
+country_id: MZ
+country_name: Mozambique
+status_id: "5"
+latitude: -26.732945
+longitude: 32.61667
+scripts: [Latn]
+glottocode: rong1268
+glottolog_family_id: atla1278
+glottolog_family_name: Atlantic-Congo
+glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > East Bantu > Southern Bantu > Nuclear Southern Bantu > Dimsuffix Southern Bantu > Nguni-Tsonga-Copi > Tsonga-Copi > Tswa-Ronga (S.50) > Tsongan > Ronga"
+wikipedia_url: "https://en.wikipedia.org/wiki/Ronga_language"
+rolv_dialects:
+  - rolv_code: 16078
+    language_tag: rng-x-HIS16078
+    name: "Ronga: Kalanga"
+    country_id: MZ
+    location: Mozambique
+  - rolv_code: 16079
+    language_tag: rng-x-HIS16079
+    name: "Ronga: Konde"
+    country_id: MZ
+    location: Mozambique
+  - rolv_code: 16080
+    language_tag: rng-x-HIS16080
+    name: "Ronga: Putru"
+    country_id: MZ
+    location: Mozambique
+  - rolv_code: 31558
+    language_tag: rng-x-HIS31558
+    name: "Ronga: Xindindindi"
+    country_id: MZ
+    location: Mozambique
+---
+Ronga, also known as XiRonga and Xizronga is a Bantu language spoken in Maputo in Mozambique. It extends slightly into South Africa. The Xizronga language has its own dialects, which are: Xinondzrwana, Xizingili, Xihlanganu and Xilwandle.

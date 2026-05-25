@@ -1,0 +1,34 @@
+---
+iso: ngl
+name: Lomwe
+autonym: Western Makhuwa
+population: 2520000
+country_id: MZ
+country_name: Mozambique
+status_id: "5"
+latitude: -16.03812
+longitude: 37.24366
+scripts: [Latn]
+glottocode: lomw1241
+glottolog_family_id: atla1278
+glottolog_family_name: Atlantic-Congo
+glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > East Bantu > North Mozambique Bantu > Makua-Lomwe > Lomweic > Mozambique Lomwe"
+wikipedia_url: "https://en.wikipedia.org/wiki/Lomwe_language"
+rolv_dialects:
+  - rolv_code: 1106
+    language_tag: ngl-x-HIS01106
+    name: "Lomwe: Mehavani"
+    country_id: MZ
+    location: Mozambique
+  - rolv_code: 1107
+    language_tag: ngl-x-HIS01107
+    name: "Lomwe: Cishirima"
+    country_id: MZ
+    location: Mozambique
+  - rolv_code: 1301
+    language_tag: ngl-x-HIS01301
+    name: "Lomwe: Macua-Mehavani"
+    country_id: MZ
+    location: Mozambique
+---
+The Lomwe (Lowe) language, Elomwe, also known as Western Makua, is the Bantu language of Mozambique. It belongs with Makua in the group of distinctive Bantu languages in the northern part of the country.

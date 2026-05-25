@@ -1,0 +1,17 @@
+---
+iso: lnh
+name: Lanoh
+autonym: Jengjeng
+population: 220
+country_id: MY
+country_name: Malaysia
+status_id: 6b
+latitude: 4.90934
+longitude: 100.98621
+glottocode: lano1248
+glottolog_family_id: aust1305
+glottolog_family_name: Austroasiatic
+glottolog_classification: "Austroasiatic > Aslian > Central-Northern Aslian > Senoic > Lanoh-Semnam-Temiar > Lanoh-Semnam > Lanohic > Lanoh"
+wikipedia_url: "https://en.wikipedia.org/wiki/Lanoh_language"
+---
+Lanoh, also known by the alternative name Jengjeng, is an endangered aboriginal Aslian language spoken in Perak, a state of western Malaysia.

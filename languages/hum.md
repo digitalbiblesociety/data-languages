@@ -1,0 +1,17 @@
+---
+iso: hum
+name: Hungana
+autonym: Huana
+population: 400
+country_id: CD
+country_name: DR Congo
+status_id: 6b
+latitude: -3.69695
+longitude: 18.43121
+glottocode: hung1278
+glottolog_family_id: atla1278
+glottolog_family_name: Atlantic-Congo
+glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > Central-Western Bantu > West-Coastal Bantu > Nzadic > Lweric > Dingic > Loange-Atlantic > KLC Extended > Kikongo Language Cluster > Hungan-Samba > Hungan"
+wikipedia_url: "https://en.wikipedia.org/wiki/Hungana_language"
+---
+Hungana is an endangered Bantu language of the Democratic Republic of the Congo.

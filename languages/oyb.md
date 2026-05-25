@@ -1,0 +1,63 @@
+---
+iso: oyb
+name: Oy
+autonym: Huei
+population: 14900
+country_id: LA
+country_name: Laos
+status_id: 6a
+latitude: 15.42002
+longitude: 106.65752
+glottocode: oyyy1238
+glottolog_family_id: aust1305
+glottolog_family_name: Austroasiatic
+glottolog_classification: "Austroasiatic > Bahnaric > West Bahnaric > Nuclear West Bahnaric > Oy"
+wikipedia_url: "https://en.wikipedia.org/wiki/Oi_language"
+rolv_dialects:
+  - rolv_code: 1817
+    language_tag: oyb-x-HIS01817
+    name: "Oi: Konghang"
+    country_id: LA
+    location: Laos
+  - rolv_code: 1828
+    language_tag: oyb-x-HIS01828
+    name: "Oy: Jeng"
+    country_id: LA
+    location: Laos
+  - rolv_code: 2019
+    language_tag: oyb-x-HIS02019
+    name: "Oi: Inn Tea"
+    country_id: LA
+    location: Laos
+  - rolv_code: 2020
+    language_tag: oyb-x-HIS02020
+    name: "Oi: Khen Sang"
+    country_id: LA
+    location: Laos
+  - rolv_code: 2021
+    language_tag: oyb-x-HIS02021
+    name: "Oy: La-Nyao"
+    country_id: LA
+    location: Laos
+  - rolv_code: 2023
+    language_tag: oyb-x-HIS02023
+    name: "Oy: Sok"
+    country_id: LA
+    location: Laos
+  - rolv_code: 15384
+    language_tag: oyb-x-HIS15384
+    name: "Oy: Riyao"
+    country_id: LA
+    location: Laos
+  - rolv_code: 15385
+    language_tag: oyb-x-HIS15385
+    name: "Oy: Tamal Euy"
+    country_id: LA
+    location: Laos
+  - rolv_code: 17439
+    language_tag: oyb-x-HIS17439
+    name: The
+    country_id: LA
+    location: Laos
+---
+Oi is an Austroasiatic dialect cluster of Attapeu Province, southern Laos. The dominant variety is Oy proper, with 11,000 speakers who are 80% monolinguals. The Jeng (Cheng) speak the same language but are ethnically distinct. Speakers follow traditional religions.

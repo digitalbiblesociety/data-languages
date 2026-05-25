@@ -1,0 +1,17 @@
+---
+iso: wrb
+name: Waluwarra
+autonym: Kapula
+population: null
+country_id: AU
+country_name: Australia
+status_id: "10"
+latitude: -22.29092
+longitude: 138.73801
+glottocode: warl1256
+glottolog_family_id: pama1250
+glottolog_family_name: Pama-Nyungan
+glottolog_classification: "Pama-Nyungan > Ngarna > Southern Ngarna > Thawa > Warluwara"
+wikipedia_url: "https://en.wikipedia.org/wiki/Warluwarra_language"
+---
+Warluwarra is an extinct Australian Aboriginal language of Queensland. Waluwarra is the traditional language region in the local government area of Shire of Boulia, including Walgra Station and Wolga, from Roxborough Downs north to Carandotta Station and Urandangi on the Georgina River, on Moonah Creek to Rochedale, south-east of Pituri Creek.

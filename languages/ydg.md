@@ -1,0 +1,17 @@
+---
+iso: ydg
+name: Yidgha
+autonym: یدغہ
+population: 6150
+country_id: PK
+country_name: Pakistan
+status_id: 6b
+latitude: 36.01403
+longitude: 71.50765
+glottocode: yidg1240
+glottolog_family_id: indo1319
+glottolog_family_name: Indo-European
+glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Iranian-Nuristani > Iranian > Central Eastern Iranian > Yidgha-Munji > Yidgha"
+wikipedia_url: "https://en.wikipedia.org/wiki/Yidgha_language"
+---
+The Yidgha language is an Eastern Iranian language of the Pamir group spoken in the upper Lotkoh Valley of Chitral in the Khyber Pakhtunkhwa province of Pakistan. Yidgha is similar to the Munji language spoken on the Afghan side of the border.

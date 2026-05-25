@@ -1,0 +1,28 @@
+---
+iso: onb
+name: Lingao
+autonym: Lingao
+population: 600000
+country_id: CN
+country_name: China
+status_id: 6a
+latitude: 19.86337
+longitude: 109.97126
+glottocode: ling1262
+glottolog_family_id: taik1256
+glottolog_family_name: Tai-Kadai
+glottolog_classification: "Tai-Kadai > Kam-Tai > Daic-Beic > Beic > Lingao > Western Ong-Be"
+wikipedia_url: "https://en.wikipedia.org/wiki/Be_languages"
+rolv_dialects:
+  - rolv_code: 12972
+    language_tag: onb-x-HIS12972
+    name: "Lingao: Lincheng"
+    country_id: CN
+    location: China
+  - rolv_code: 12973
+    language_tag: onb-x-HIS12973
+    name: "Lingao: Qiongshan"
+    country_id: CN
+    location: China
+---
+Be, also known as Ong Be, Bê, or Vo Limgao, is a pair of languages spoken by 600,000 people, 100,000 of them monolingual, on the north-central coast of Hainan Island, including the suburbs of the provincial capital Haikou. The speakers are counted as part of the Han Chinese nationality in census. According to Ethnologue, it is taught in primary schools.

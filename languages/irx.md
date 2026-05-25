@@ -1,0 +1,23 @@
+---
+iso: irx
+name: Kamberau
+autonym: Asienara
+population: 1570
+country_id: ID
+country_name: Indonesia
+status_id: "7"
+latitude: -3.53189
+longitude: 133.51841
+glottocode: kamb1302
+glottolog_family_id: nucl1709
+glottolog_family_name: Nuclear Trans New Guinea
+glottolog_classification: "Nuclear Trans New Guinea > Asmat-Awyu-Ok > Asmat-Kamrau Bay > Sabakor > Kamberau > North Kamrau"
+wikipedia_url: "https://en.wikipedia.org/wiki/Kamberau_language"
+rolv_dialects:
+  - rolv_code: 1247
+    language_tag: irx-x-HIS01247
+    name: Amuku
+    country_id: ID
+    location: "Indonesia, Papua Barat"
+---
+Kamberau or Kamrau is either of two Asmat–Kamoro languages spoken in Kambrau (Kamberau) District, Kaimana Regency, West Papua Province. North Kamberau is also known as Iria, and South Kamberau as Asienara, a name that has been mistakenly used for the related language Buruwai.

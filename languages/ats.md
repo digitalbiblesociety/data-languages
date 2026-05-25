@@ -1,0 +1,17 @@
+---
+iso: ats
+name: Gros Ventre
+autonym: Ahahnelin
+population: 2000
+country_id: US
+country_name: United States
+status_id: 8b
+latitude: 48.48341
+longitude: -108.73841
+glottocode: gros1243
+glottolog_family_id: algi1248
+glottolog_family_name: Algic
+glottolog_classification: "Algic > Algonquian-Blackfoot > Algonquian > Arapahoic > Arapaho-Gros Ventre-Besawunena > Gros Ventre"
+wikipedia_url: "https://en.wikipedia.org/wiki/Gros_Ventre_language"
+---
+Atsina, or Gros Ventre, is the ancestral language of the Gros Ventre people of what is today Montana. The last fluent speaker, Theresa Lamebull, died in 2007, though revitalization efforts are underway.

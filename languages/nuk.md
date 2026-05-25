@@ -1,0 +1,103 @@
+---
+iso: nuk
+name: "Nuu-chah-nulth"
+autonym: Nootka
+population: 280
+country_id: CA
+country_name: Canada
+status_id: 8b
+latitude: 49.67
+longitude: -126.67
+glottocode: nuuc1236
+glottolog_family_id: waka1280
+glottolog_family_name: Wakashan
+glottolog_classification: "Wakashan > Southern Wakashan > Nuu-chah-nulth"
+wikipedia_url: "https://en.wikipedia.org/wiki/Nuu-chah-nulth_language"
+rolv_dialects:
+  - rolv_code: 4821
+    language_tag: nuk-x-HIS04821
+    name: "Nootka: Nitinat"
+    country_id: CA
+    location: "Canada, British Columbia"
+  - rolv_code: 25303
+    language_tag: nuk-x-HIS25303
+    name: "Nuu-chah-nulth: Ahousaht."
+    country_id: CA
+    location: "Canada, British Columbia"
+  - rolv_code: 25305
+    language_tag: nuk-x-HIS25305
+    name: "Nuu-chah-nulth: Cheklesaht"
+    country_id: CA
+    location: "Canada, British Columbia"
+  - rolv_code: 25306
+    language_tag: nuk-x-HIS25306
+    name: "Nuu-chah-nulth: Ehattesaht"
+    country_id: CA
+    location: "Canada, British Columbia"
+  - rolv_code: 25307
+    language_tag: nuk-x-HIS25307
+    name: "Nuu-chah-nulth: Hesquiaht"
+    country_id: CA
+    location: "Canada, British Columbia"
+  - rolv_code: 25308
+    language_tag: nuk-x-HIS25308
+    name: "Nuu-chah-nulth: Hupacasath"
+    country_id: CA
+    location: "Canada, British Columbia"
+  - rolv_code: 25702
+    language_tag: nuk-x-HIS25702
+    name: "Nuu-chah-nulth: Ahousaht"
+    country_id: CA
+    location: "Canada, British Columbia"
+  - rolv_code: 25703
+    language_tag: nuk-x-HIS25703
+    name: "Nuu-chah-nulth: Muchalaht"
+    country_id: CA
+    location: "Canada, British Columbia"
+  - rolv_code: 25704
+    language_tag: nuk-x-HIS25704
+    name: "Nuu-chah-nulth: Nuchatlaht"
+    country_id: CA
+    location: "Canada, British Columbia"
+  - rolv_code: 25705
+    language_tag: nuk-x-HIS25705
+    name: "Nuu-chah-nulth: Tla-o-qui-aht"
+    country_id: CA
+    location: "Canada, British Columbia"
+  - rolv_code: 25706
+    language_tag: nuk-x-HIS25706
+    name: "Nuu-chah-nulth: Toquaht"
+    country_id: CA
+    location: "Canada, British Columbia"
+  - rolv_code: 25707
+    language_tag: nuk-x-HIS25707
+    name: "Nuu-chah-nulth: Tseshaht"
+    country_id: CA
+    location: "Canada, British Columbia"
+  - rolv_code: 25708
+    language_tag: nuk-x-HIS25708
+    name: "Nuu-chah-nulth: Uchucklesaht"
+    country_id: CA
+    location: "Canada, British Columbia"
+  - rolv_code: 25709
+    language_tag: nuk-x-HIS25709
+    name: "Nuu-chah-nulth: Ucluelet"
+    country_id: CA
+    location: "Canada, British Columbia"
+  - rolv_code: 25712
+    language_tag: nuk-x-HIS25712
+    name: "Nuu-chah-nulth: Huu-ay-aht"
+    country_id: CA
+    location: "Canada, British Columbia"
+  - rolv_code: 25713
+    language_tag: nuk-x-HIS25713
+    name: "Nuu-chah-nulth: Kyuquot"
+    country_id: CA
+    location: "Canada, British Columbia"
+  - rolv_code: 25714
+    language_tag: nuk-x-HIS25714
+    name: "Nuu-chah-nulth: Mowachaht"
+    country_id: CA
+    location: "Canada, British Columbia"
+---
+Nuu-chah-nulth, a.k.a. Nootka, is a Wakashan language in the Pacific Northwest of North America on the west coast of Vancouver Island, from Barkley Sound to Quatsino Sound in British Columbia by the Nuu-chah-nulth peoples. Nuu-chah-nulth is a Southern Wakashan language related to Nitinaht and Makah.

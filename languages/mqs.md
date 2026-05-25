@@ -1,0 +1,17 @@
+---
+iso: mqs
+name: West Makian
+autonym: Moi
+population: 12000
+country_id: ID
+country_name: Indonesia
+status_id: 6a
+latitude: 0.45332
+longitude: 127.63028
+glottocode: west2600
+glottolog_family_id: nort2923
+glottolog_family_name: North Halmahera
+glottolog_classification: "North Halmahera > West Makian"
+wikipedia_url: "https://en.wikipedia.org/wiki/West_Makian_language"
+---
+West Makian is a divergent North Halmahera language of Indonesia. It is spoken on the coast near Makian Island, and on the western half of that island.

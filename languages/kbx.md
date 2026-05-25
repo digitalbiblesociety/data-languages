@@ -1,0 +1,28 @@
+---
+iso: kbx
+name: Ap Ma
+autonym: Ap Ma
+population: 10000
+country_id: PG
+country_name: Papua New Guinea
+status_id: "5"
+latitude: -4.35147
+longitude: 144.08524
+glottocode: apma1241
+glottolog_family_id: kera1258
+glottolog_family_name: Keram
+glottolog_classification: "Keram > East Keram > Ap Ma"
+wikipedia_url: "https://en.wikipedia.org/wiki/Kambot_language"
+rolv_dialects:
+  - rolv_code: 460
+    language_tag: kbx-x-HIS00460
+    name: Karobe
+    country_id: PG
+    location: "Papua New Guinea, Eastern Highlands"
+  - rolv_code: 4031
+    language_tag: kbx-x-HIS04031
+    name: Karaube
+    country_id: PG
+    location: "Papua New Guinea, Madang"
+---
+Kambot a.k.a. Ap Ma, is a Keram language of Papua New Guinea. Compared to its nearest relative, Ambakich, Kambot drops the first segment from polysyllabic words.

@@ -1,0 +1,33 @@
+---
+iso: wsg
+name: Adilabad Gondi
+autonym: "गोण्डि, గోణ్డి, ଗୋଣ୍ଡି, 𑵶𑶓𑶕𑶂𑶋, 𑴎𑴽𑵀𑴘𑴳,"
+population: 300000
+country_id: IN
+country_name: India
+status_id: null
+latitude: 18.75
+longitude: 80.2
+glottocode: utno1237
+glottolog_family_id: drav1251
+glottolog_family_name: Dravidian
+glottolog_classification: "Dravidian > South Dravidian > South Dravidian II > Gondi > Northwest Gondi > Southwest Gondi > Southern Gondi > Adilabad Gondi"
+wikipedia_url: "https://en.wikipedia.org/wiki/Adilabad_Gondi_language"
+rolv_dialects:
+  - rolv_code: 10299
+    language_tag: wsg-x-HIS10299
+    name: "Gondi, Adilabad: Nirmal"
+    country_id: IN
+    location: "India, Andhra Pradesh"
+  - rolv_code: 10300
+    language_tag: wsg-x-HIS10300
+    name: "Gondi, Adilabad: Rajura"
+    country_id: IN
+    location: "India, Andhra Pradesh"
+  - rolv_code: 10302
+    language_tag: wsg-x-HIS10302
+    name: "Gondi, Adilabad: Utnoor"
+    country_id: IN
+    location: "India, Andhra Pradesh"
+---
+Gondi, natively known as Koitur, is a South-Central Dravidian language, spoken by about three million Gondi people, chiefly in the Indian states of Madhya Pradesh, Maharashtra, Chhattisgarh, Andhra Pradesh, Telangana and by small minorities in neighbouring states. Although it is the language of the Gond people, it is highly endangered, with only one fifth of Gonds speaking the language. Gondi has a rich folk literature, examples of which are wedding songs and narrations. Gondi people are ethnically related to the Telugus. Gondi is the largest minor Dravidian language by number of speakers.

@@ -1,0 +1,17 @@
+---
+iso: bgj
+name: Bangolan
+autonym: sɔ́ŋnə́ ŋgbáŋlɛ
+population: 13500
+country_id: CM
+country_name: Cameroon
+status_id: 6a
+latitude: 6.0125
+longitude: 10.66697
+glottocode: bang1356
+glottolog_family_id: atla1278
+glottolog_family_name: Atlantic-Congo
+glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Wide Grassfields > Narrow Grassfields > Mbam-Nkam > Southern Mbam-Nkam > Mbam-Nkam Nun > Bangolan"
+wikipedia_url: "https://en.wikipedia.org/wiki/Bangolan_language"
+---
+Bangolan is a Grassfields Bantu language of Cameroon.

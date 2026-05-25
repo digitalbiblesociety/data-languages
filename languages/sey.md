@@ -1,0 +1,28 @@
+---
+iso: sey
+name: Secoya
+autonym: Paikoka
+population: 1005
+country_id: EC
+country_name: Ecuador
+status_id: "5"
+latitude: -0.459785
+longitude: -75.554725
+glottocode: seco1241
+glottolog_family_id: tuca1253
+glottolog_family_name: Tucanoan
+glottolog_classification: "Tucanoan > Western Tucanoan > Napo Tucanoan > Siona-Secoya > Secoya"
+wikipedia_url: "https://en.wikipedia.org/wiki/Secoya_language"
+rolv_dialects:
+  - rolv_code: 16414
+    language_tag: sey-x-HIS16414
+    name: "Secoya: Angotero"
+    country_id: PE
+    location: "Peru, Loreto"
+  - rolv_code: 16416
+    language_tag: sey-x-HIS16416
+    name: "Secoya: Pioje"
+    country_id: PE
+    location: "Peru, Loreto"
+---
+Secoya is a Western Tucanoan language spoken by the Secoya people of Ecuador and Peru.

@@ -1,0 +1,17 @@
+---
+iso: zts
+name: Tilquiapan Zapotec
+autonym: San Miguel Tilquiápam
+population: 7000
+country_id: MX
+country_name: Mexico
+status_id: 6a
+latitude: 16.85291
+longitude: -96.63213
+glottocode: tilq1235
+glottolog_family_id: otom1299
+glottolog_family_name: Otomanguean
+glottolog_classification: "Otomanguean > Eastern Otomanguean > Popoloca-Zapotecan > Zapotecan > Zapotec > Core Zapotec > Narrow Core Zapotec > Central Core Zapotec > Western Valley Zapotec > Extended Ocotepec Zapotec > Tilquiapanic > Tilquiapan Zapotec"
+wikipedia_url: "https://en.wikipedia.org/wiki/Tilquiapan_Zapotec"
+---
+Tilquiapan Zapotec is an Oto-Manguean language of the Zapotecan branch, spoken in southern Oaxaca, Mexico.

@@ -1,0 +1,28 @@
+---
+iso: mnh
+name: Mono (Democratic Republic of Congo)
+autonym: Amono
+population: 65000
+country_id: CD
+country_name: DR Congo
+status_id: 6a
+latitude: 4.57915
+longitude: 19.82638
+glottocode: mono1270
+glottolog_family_id: atla1278
+glottolog_family_name: Atlantic-Congo
+glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Cameroun-Ubangian > Ubangi > Ubangi Ka > Bandaic > Nuclear Bandaic > Central Bandaic > Core Central Bandaic > Mono (Democratic Republic of Congo)"
+wikipedia_url: "https://en.wikipedia.org/wiki/Mono_language_(Congo)"
+rolv_dialects:
+  - rolv_code: 1380
+    language_tag: mnh-x-HIS01380
+    name: Mono
+    country_id: CD
+    location: "Congo, Democratic Republic of, Equateur"
+  - rolv_code: 1418
+    language_tag: mnh-x-HIS01418
+    name: "Mono: Bubanda"
+    country_id: CD
+    location: "Congo, Democratic Republic of, Equateur"
+---
+Mono is an indigenous language spoken by about 65,000 people in the northwestern corner of the Democratic Republic of the Congo. It is one of the Banda languages, a subbranch of the Ubangian branch of the Niger–Congo languages. It has five dialects: Bili, Bubanda, Mpaka, Galaba, and Kaga.

@@ -1,0 +1,49 @@
+---
+iso: aeb
+name: Tunisian Arabic
+autonym: "تونسي "
+population: 11600000
+country_id: TN
+country_name: Tunisia
+status_id: "3"
+latitude: 33.79658
+longitude: 9.56156
+scripts: [Arab]
+glottocode: tuni1259
+glottolog_family_id: afro1255
+glottolog_family_name: Afro-Asiatic
+glottolog_classification: "Afro-Asiatic > Semitic > West Semitic > Central Semitic > Arabian > Arabic > North African Arabic > Western Middle Arabic > Maghrebi > Malta-Tunisian Arabic > Tunisian Arabic"
+wikipedia_url: "https://en.wikipedia.org/wiki/Tunisian_Arabic"
+rolv_dialects:
+  - rolv_code: 7106
+    language_tag: ajt
+    name: "Arabic, Tunisian: Judeo"
+    country_id: IL
+    location: Israel
+  - rolv_code: 7155
+    language_tag: ar-TN-x-HIS07155
+    name: "Arabic, Tunisian: Southeastern"
+    country_id: TN
+    location: Tunisia
+  - rolv_code: 7156
+    language_tag: ar-TN-x-HIS07156
+    name: "Arabic, Tunisian: Northwestern"
+    country_id: TN
+    location: Tunisia
+  - rolv_code: 7157
+    language_tag: ar-TN-x-HIS07157
+    name: "Arabic, Tunisian: Sahil"
+    country_id: TN
+    location: Tunisia
+  - rolv_code: 7158
+    language_tag: ar-TN-x-HIS07158
+    name: "Arabic, Tunisian: Southwestern"
+    country_id: TN
+    location: Tunisia
+  - rolv_code: 24198
+    language_tag: ar-TN-x-HIS24198
+    name: "Arabic, Tunisian: Sfax"
+    country_id: TN
+    location: Tunisia
+---
+Tunisian Arabic, or simply Tunisian, is a variety of Arabic spoken in Tunisia. It is known among its 13 million speakers as Tūnsi, "Tunisian" or Derja to distinguish it from Modern Standard Arabic, the official language of Tunisia. Tunisian Arabic is mostly similar to eastern Algerian Arabic and western Libyan Arabic.

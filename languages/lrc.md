@@ -1,0 +1,59 @@
+---
+iso: lrc
+name: Northern Luri
+autonym: زۊن لٛوْری
+population: 1820000
+country_id: IR
+country_name: Iran
+status_id: 6a
+latitude: 32.54384
+longitude: 47.91602
+scripts: [Arab]
+glottocode: nort2645
+glottolog_family_id: indo1319
+glottolog_family_name: Indo-European
+glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Iranian-Nuristani > Iranian > Southwestern Iranian > Middle-Modern Persian > Modern Southwestern Iranian > Luric-Dezfulic > Luric > Northern Luri"
+wikipedia_url: "https://en.wikipedia.org/wiki/Northern_Luri_language"
+rolv_dialects:
+  - rolv_code: 27123
+    language_tag: lrc-x-HIS27123
+    name: "Luri, Northern: Andimeshki"
+    country_id: IR
+    location: Iran
+  - rolv_code: 27124
+    language_tag: lrc-x-HIS27124
+    name: "Luri, Northern: Borujerdi"
+    country_id: IR
+    location: Iran
+  - rolv_code: 27125
+    language_tag: lrc-x-HIS27125
+    name: "Luri, Northern: Cagani"
+    country_id: IR
+    location: Iran
+  - rolv_code: 27126
+    language_tag: lrc-x-HIS27126
+    name: "Luri, Northern: Khorramabadi"
+    country_id: IR
+    location: Iran
+  - rolv_code: 27127
+    language_tag: lrc-x-HIS27127
+    name: "Luri, Northern: Mahali"
+    country_id: IR
+    location: Iran
+  - rolv_code: 27128
+    language_tag: lrc-x-HIS27128
+    name: "Luri, Northern: Nahavandi"
+    country_id: IR
+    location: Iran
+  - rolv_code: 27130
+    language_tag: lrc-x-HIS27130
+    name: "Luri, Northern: Solasi"
+    country_id: IR
+    location: Iran
+  - rolv_code: 29094
+    language_tag: lrc-x-HIS29094
+    name: "Luri, Northern: Bala-Gariva'i"
+    country_id: IR
+    location: Iran
+---
+Luri (لری) is a Southwestern Iranian language, existing as a dialect continuum, spoken by the Lur people in the Zagros Mountains of Iran. The Luri dialects are descended from Middle Persian and are Central Luri, Bakhtiari, and Southern Luri. This language is spoken mainly by the Bakhtiari and the Northern and Southern Lurs in Iran.

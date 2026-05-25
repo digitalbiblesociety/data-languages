@@ -1,0 +1,23 @@
+---
+iso: pmy
+name: Papuan Malay
+autonym: Irian Malay
+population: 500000
+country_id: ID
+country_name: Indonesia
+status_id: "3"
+latitude: -2.534817
+longitude: 139.650878
+glottocode: papu1250
+glottolog_family_id: aust1307
+glottolog_family_name: Austronesian
+glottolog_classification: "Austronesian > Malayo-Polynesian > Malayo-Chamic > Malayic > Nuclear Malayic > Vehicular Malay > Eastern Indonesia Trade Malay > Papuan Malay"
+wikipedia_url: "https://en.wikipedia.org/wiki/Papuan_Malay"
+rolv_dialects:
+  - rolv_code: 1647
+    language_tag: pmy-x-HIS01647
+    name: "Malay: Papuan"
+    country_id: ID
+    location: "Indonesia, Papua"
+---
+Papuan Malay or Irian Malay is a Malay-based creole language spoken in the Indonesian part of New Guinea. It emerged as a contact language among tribes in Indonesian New Guinea for trading and daily communication. Nowadays, it has a growing number of native speakers. More recently, the vernacular of Indonesian Papuans has been influenced by Standard Indonesian, the national standard dialect. It is spoken in Indonesian New Guinea alongside 274 other languages and functions as a lingua franca.

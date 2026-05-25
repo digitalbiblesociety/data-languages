@@ -1,0 +1,17 @@
+---
+iso: tpv
+name: Tanapag
+autonym: Northern Carolinian
+population: 4400
+country_id: MP
+country_name: Northern Mariana Islands
+status_id: "7"
+latitude: 15.23702
+longitude: 145.75662
+glottocode: tana1281
+glottolog_family_id: aust1307
+glottolog_family_name: Austronesian
+glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Micronesian > Central Micronesian > Western Micronesian > Chuukic-Ponapeic > Trukic > Nuclear Trukic > Central Trukic > Satawalese-Carolinian > Macro-Carolinian > Murilo-Fanapanges > Tanapag"
+wikipedia_url: "https://en.wikipedia.org/wiki/Tanapag_language"
+---
+Tanapag is a nearly extinct Micronesian language of the Austronesian language family. It is spoken in the Tanapag settlement of the island of Saipan in the Northern Mariana Islands. Younger people speak Chamorro instead of Tanapag, but there are also efforts being made to promote the language.

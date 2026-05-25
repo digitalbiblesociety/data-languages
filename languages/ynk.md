@@ -1,0 +1,17 @@
+---
+iso: ynk
+name: Naukan Yupik
+autonym: Naukan
+population: 350
+country_id: RU
+country_name: Russia
+status_id: 8b
+latitude: 65.51842
+longitude: -171.7554
+glottocode: nauk1242
+glottolog_family_id: eski1264
+glottolog_family_name: Eskimo-Aleut
+glottolog_classification: "Eskimo-Aleut > Eskimo > Yupik > Naukan Yupik"
+wikipedia_url: "https://en.wikipedia.org/wiki/Naukan_Yupik_language"
+---
+Naukan Yupik language or Naukan Siberian Yupik language is a critically endangered Eskaleut language spoken by c. 70 Naukan persons (нывуӄаӷмит) on the Chukotka peninsula. It is one of the four Yupik languages, along with Central Siberian Yupik, Central Alaskan Yup'ik and Pacific Gulf Yupik.

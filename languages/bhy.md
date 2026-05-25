@@ -1,0 +1,23 @@
+---
+iso: bhy
+name: Bhele
+autonym: Piri
+population: 15000
+country_id: CD
+country_name: DR Congo
+status_id: 6b
+latitude: 0.24553
+longitude: 28.66809
+glottocode: bhel1238
+glottolog_family_id: atla1278
+glottolog_family_name: Atlantic-Congo
+glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > Central-Western Bantu > North Zaire River > Rivers Bantu > Ngiri > Ngiri Terrien > Ngombe-Ababuan > Ababuan > Old Bomokandian > Komoic > Bilaic > Bhele"
+wikipedia_url: "https://en.wikipedia.org/wiki/Bhele_language"
+rolv_dialects:
+  - rolv_code: 8034
+    language_tag: bhy-x-HIS08034
+    name: "Bhele: Bugombe"
+    country_id: CD
+    location: "Congo, Democratic Republic of"
+---
+Bhele (Ebhele), or Piri (Kipiri), is a Bantu language of the Democratic Republic of the Congo.

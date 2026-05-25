@@ -1,0 +1,41 @@
+---
+iso: kiw
+name: Northeast Kiwai
+autonym: Gibaio
+population: 6000
+country_id: PG
+country_name: Papua New Guinea
+status_id: "5"
+latitude: -7.39215
+longitude: 144.66697
+glottocode: nort2930
+glottolog_family_id: kiwa1251
+glottolog_family_name: Kiwaian
+glottolog_classification: "Kiwaian > Northeast Kiwai"
+rolv_dialects:
+  - rolv_code: 1222
+    language_tag: kiw-x-HIS01222
+    name: "Kiwai, Northeast: Kope"
+    country_id: PG
+    location: "Papua New Guinea, Gulf"
+  - rolv_code: 5022
+    language_tag: kiw-x-HIS05022
+    name: "Kiwai, Northeast: Arigibi"
+    country_id: PG
+    location: "Papua New Guinea, Gulf"
+  - rolv_code: 5023
+    language_tag: kiw-x-HIS05023
+    name: "Kiwai, Northeast: Gibaio"
+    country_id: PG
+    location: "Papua New Guinea, Gulf"
+  - rolv_code: 5025
+    language_tag: kiw-x-HIS05025
+    name: "Kiwai, Northeast: Urama"
+    country_id: PG
+    location: "Papua New Guinea, Gulf"
+  - rolv_code: 26259
+    language_tag: kiw-x-HIS26259
+    name: "Kiwai, Northeast: Fomomoto"
+    country_id: PG
+    location: "Papua New Guinea, Gulf"
+---

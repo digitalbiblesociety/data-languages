@@ -1,0 +1,17 @@
+---
+iso: lsh
+name: Lish
+autonym: " Khispi"
+population: 2340
+country_id: IN
+country_name: India
+status_id: 6a
+latitude: 27.7686
+longitude: 92.18383
+glottocode: lish1235
+glottolog_family_id: sino1245
+glottolog_family_name: Sino-Tibetan
+glottolog_classification: "Sino-Tibetan > Kho-Bwa > Western Kho-Bwa > Chug-Lish > Khispi"
+wikipedia_url: "https://en.wikipedia.org/wiki/Lish_language"
+---
+Lish is a Kho-Bwa language of West Kameng district, Arunachal Pradesh in India. It is a dialect of the same language as Chug and Gompatse.

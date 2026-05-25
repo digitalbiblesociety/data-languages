@@ -1,0 +1,17 @@
+---
+iso: nzk
+name: Nzakara
+autonym: Ansakara
+population: 50000
+country_id: CF
+country_name: Central African Republic
+status_id: 6a
+latitude: 4.795675
+longitude: 22.825365
+glottocode: nzak1247
+glottolog_family_id: atla1278
+glottolog_family_name: Atlantic-Congo
+glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Cameroun-Ubangian > Ubangi > Zandic > Zande-Nzakara > Nzakara"
+wikipedia_url: "https://en.wikipedia.org/wiki/Nzakara_language"
+---
+Nzakara is a Zande language spoken in eastern Central African Republic, spilling over into the Democratic Republic of the Congo. It may be intelligible with Zande proper, at least for some speakers.

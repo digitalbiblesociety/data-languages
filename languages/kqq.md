@@ -1,0 +1,17 @@
+---
+iso: kqq
+name: Krenak
+autonym: Borum
+population: 150
+country_id: BR
+country_name: Brazil
+status_id: 8a
+latitude: -18.99884
+longitude: -41.22993
+glottocode: kren1239
+glottolog_family_id: nucl1710
+glottolog_family_name: Nuclear-Macro-Je
+glottolog_classification: "Nuclear-Macro-Je > Maxakali-Borum > Borum"
+wikipedia_url: "https://en.wikipedia.org/wiki/Krenak_language"
+---
+The Krenak language, also Borum or Botocudo, is the sole surviving language of a small family believed to be part of the Macro-Gê languages. It was once spoken by the Botocudo people in Minas Gerais, but is known primarily by older women today.

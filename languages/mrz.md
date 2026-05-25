@@ -1,0 +1,48 @@
+---
+iso: mrz
+name: Marind
+autonym: Gawir
+population: 7000
+country_id: ID
+country_name: Indonesia
+status_id: 6b
+latitude: -8.15651
+longitude: 140.00939
+glottocode: nucl1622
+glottolog_family_id: anim1240
+glottolog_family_name: Anim
+glottolog_classification: "Anim > Marind-Boazi-Yaqai > Marindic > Marind"
+wikipedia_url: "https://en.wikipedia.org/wiki/Marind_language"
+rolv_dialects:
+  - rolv_code: 13750
+    language_tag: mrz-x-HIS13750
+    name: "Marind: Gawir"
+    country_id: ID
+    location: "Indonesia, Papua"
+  - rolv_code: 13751
+    language_tag: mrz-x-HIS13751
+    name: "Marind: Halifoersch"
+    country_id: ID
+    location: "Indonesia, Papua"
+  - rolv_code: 13752
+    language_tag: mrz-x-HIS13752
+    name: "Marind: Southeast"
+    country_id: ID
+    location: "Indonesia, Papua"
+  - rolv_code: 13753
+    language_tag: mrz-x-HIS13753
+    name: "Marind: Tugeri"
+    country_id: ID
+    location: "Indonesia, Papua"
+  - rolv_code: 31131
+    language_tag: mrz-x-HIS31131
+    name: "Marind: Central"
+    country_id: ID
+    location: "Indonesia, Papua"
+  - rolv_code: 31132
+    language_tag: mrz-x-HIS31132
+    name: "Marind: Coastal"
+    country_id: ID
+    location: "Indonesia, Papua"
+---
+Marind is a Papuan language spoken in Malind District, Merauke Regency, Indonesia by over ten thousand people. Dialects are Southeast Marind, Gawir, Holifoersch, and Tugeri. Bian Marind, also known as Boven-Mbian, is divergent enough to not be mutually intelligible, and has been assigned a separate ISO code.

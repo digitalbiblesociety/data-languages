@@ -1,0 +1,33 @@
+---
+iso: nmz
+name: Nawdm
+autonym: Losso
+population: 146000
+country_id: TG
+country_name: Togo
+status_id: "5"
+latitude: 7.17037
+longitude: 0.58553
+glottocode: nawd1238
+glottolog_family_id: atla1278
+glottolog_family_name: Atlantic-Congo
+glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Gur > Central Gur > Northern Central Gur > Bwamu-Oti-Volta > Oti-Volta > Nuclear Oti-Volta > Gurma-Yom-Oti-Volta Occidental > Gurma-Yom-Naudem > Yom-Nawdm > Nawdm"
+wikipedia_url: "https://en.wikipedia.org/wiki/Nawdm_language"
+rolv_dialects:
+  - rolv_code: 2803
+    language_tag: nmz-x-HIS02803
+    name: "Nawdm: West"
+    country_id: TG
+    location: "Togo, Kara, Niamtougou"
+  - rolv_code: 6496
+    language_tag: nmz-x-HIS06496
+    name: "Nawdm: East"
+    country_id: TG
+    location: Togo
+  - rolv_code: 25280
+    language_tag: nmz-x-HIS25280
+    name: "Nawdm: Central"
+    country_id: TG
+    location: Togo
+---
+Nawdm is a Gur language of Togo and Ghana. There are approximately 190,000 speakers in Togo and 8,000 in Ghana.

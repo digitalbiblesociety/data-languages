@@ -1,0 +1,23 @@
+---
+iso: thd
+name: Kuuk Thaayorre
+autonym: Behran
+population: 210
+country_id: AU
+country_name: Australia
+status_id: 6b
+latitude: -14.8159
+longitude: 142.03413
+glottocode: thay1249
+glottolog_family_id: pama1250
+glottolog_family_name: Pama-Nyungan
+glottolog_classification: "Pama-Nyungan > Paman > Southwest Pama > Upper Southwest Paman > Thayore"
+wikipedia_url: "https://en.wikipedia.org/wiki/Kuuk_Thaayorre_language"
+rolv_dialects:
+  - rolv_code: 25759
+    language_tag: thd-x-HIS25759
+    name: "Kuuk Thayorre: Kuuk-Yak"
+    country_id: AU
+    location: "Australia, Queensland"
+---
+Kuuk Thaayorre (Thayore) is a Paman language spoken in the settlement Pormpuraaw on the western part of the Cape York Peninsula, Queensland in Australia by the Thaayorre people. As of 2006, 250 of the 350 ethnic Thaayorre spoke the language. It is in a robust position compared to many indigenous Australian languages, as it is still being acquired by children and used in daily interaction.

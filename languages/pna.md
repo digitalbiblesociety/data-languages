@@ -1,0 +1,28 @@
+---
+iso: pna
+name: "Punan Bah-Biau"
+autonym: "Bah-Biau"
+population: 450
+country_id: MY
+country_name: Malaysia
+status_id: 6b
+latitude: 2.27377
+longitude: 113.15607
+glottocode: puna1275
+glottolog_family_id: aust1307
+glottolog_family_name: Austronesian
+glottolog_classification: "Austronesian > Malayo-Polynesian > North Borneo Malayo-Polynesian > Central Sarawak > Punan-Muller-Schwaner > Punan > Punan Tubu-Bah > Punan Bah-Biau"
+wikipedia_url: "https://en.wikipedia.org/wiki/Bah-Biau_Punan_language"
+rolv_dialects:
+  - rolv_code: 15795
+    language_tag: pna-x-HIS15795
+    name: "Punan Bah-Biau: Bah"
+    country_id: MY
+    location: Malaysia
+  - rolv_code: 15796
+    language_tag: pna-x-HIS15796
+    name: "Punan Bah-Biau: Biau"
+    country_id: MY
+    location: Malaysia
+---
+Bah-Biau Punan is an Austronesian language spoken by the Punan Bah and Punan Biau people of Borneo in Indonesia, Malaysia and Brunei.

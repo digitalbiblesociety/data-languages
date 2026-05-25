@@ -1,0 +1,37 @@
+---
+iso: bze
+name: Jenaama Bozo
+autonym: Boso
+population: 197000
+country_id: ML
+country_name: Mali
+status_id: "5"
+latitude: 15.5
+longitude: -4
+scripts: [Latn]
+glottocode: jena1242
+glottolog_family_id: mand1469
+glottolog_family_name: Mande
+glottolog_classification: "Mande > Western Mande > Northwestern Mande > Soninke-Bozo > Bozo > Nuclear Bozo > Jenaama Bozo"
+rolv_dialects:
+  - rolv_code: 8345
+    language_tag: bze-x-HIS08345
+    name: "Bozo, Sorogama: Debo"
+    country_id: ML
+    location: Mali
+  - rolv_code: 8346
+    language_tag: bze-x-HIS08346
+    name: "Bozo, Jenaama: Kotya"
+    country_id: ML
+    location: "Mali, Mopti"
+  - rolv_code: 8347
+    language_tag: bze-x-HIS08347
+    name: "Bozo, Jenaama: Korondougou"
+    country_id: ML
+    location: Mali
+  - rolv_code: 8348
+    language_tag: bze-x-HIS08348
+    name: "Bozo, Jenaama: Pondori"
+    country_id: ML
+    location: Mali
+---

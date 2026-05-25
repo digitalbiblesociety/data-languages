@@ -1,0 +1,28 @@
+---
+iso: zyp
+name: Zyphe Chin
+autonym: "Chin, Zyphe"
+population: 20000
+country_id: MM
+country_name: Myanmar
+status_id: "5"
+latitude: 22.524
+longitude: 93.264
+glottocode: zyph1238
+glottolog_family_id: sino1245
+glottolog_family_name: Sino-Tibetan
+glottolog_classification: "Sino-Tibetan > Kuki-Chin-Naga > Kuki-Chin > Central Kuki-Chin > Maraic > Nuclear Maraic > Zyphe"
+wikipedia_url: "https://en.wikipedia.org/wiki/Zyphe_language"
+rolv_dialects:
+  - rolv_code: 18664
+    language_tag: zyp-x-HIS18664
+    name: "Zyphe: Lower"
+    country_id: MM
+    location: Myanmar
+  - rolv_code: 18665
+    language_tag: zyp-x-HIS18665
+    name: "Zyphe: Upper"
+    country_id: MM
+    location: Myanmar
+---
+Zyphe is a Kuki-Chin language spoken primarily in Thantlang township, Chin State, Myanmar, and also spoken in India. It is spoken by 17,000 Burmese and 3,000 Indians. There are 2 dialects, east Zyphe and west Zyphe. A written script for Zyphe was created in 1998 by Rev. Dr. Ral Bawi and Prof. Kenneth Gregerson.

@@ -1,0 +1,17 @@
+---
+iso: msb
+name: Masbatenyo
+autonym: Minasbate
+population: 474000
+country_id: PH
+country_name: Philippines
+status_id: "3"
+latitude: 12.21453
+longitude: 123.63579
+glottocode: masb1238
+glottolog_family_id: aust1307
+glottolog_family_name: Austronesian
+glottolog_classification: "Austronesian > Malayo-Polynesian > Greater Central Philippine > Central Philippine > Bisayan > Central Bisayan > Peripheral Central Bisayan > Masbate-Sorsogon > Masbatenyo"
+wikipedia_url: "https://en.wikipedia.org/wiki/Masbate%C3%B1o_language"
+---
+Masbateño or Minasbate is a member of Central Philippine languages and of the Bisayan subgroup of the Austronesian language family and spoken by more than 724,000 people in the province of Masbate and some parts of Sorsogon in the Philippines. Masbatenyo is the name used by the speakers of the language and for themselves, although the term Minásbate is sometimes also used to distinguish the language from the people. It has 350,000 speakers as of 2002, with 50,000 who speak it as their first language. About 250,000 speakers use it as their second language.

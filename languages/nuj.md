@@ -1,0 +1,43 @@
+---
+iso: nuj
+name: Nyole
+autonym: Lunyole
+population: 530000
+country_id: UG
+country_name: Uganda
+status_id: "5"
+latitude: 0.88072
+longitude: 33.91812
+glottocode: nyol1238
+glottolog_family_id: atla1278
+glottolog_family_name: Atlantic-Congo
+glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > East Bantu > Northeast Savanna Bantu > Great Lakes Bantu > Greater Luyia > Luyia > Saamia-Wanga-Bukusu > Saamia-Wanga > Western Luyia > Saamiaic > Nyole"
+wikipedia_url: "https://en.wikipedia.org/wiki/Nyole_language_(Uganda)"
+rolv_dialects:
+  - rolv_code: 1156
+    language_tag: nuj-x-HIS01156
+    name: Lunyule
+    country_id: UG
+    location: Uganda
+  - rolv_code: 15193
+    language_tag: nuj-x-HIS15193
+    name: "Nyole: Hadyo"
+    country_id: UG
+    location: Uganda
+  - rolv_code: 15194
+    language_tag: nuj-x-HIS15194
+    name: "Nyole: Menya"
+    country_id: UG
+    location: Uganda
+  - rolv_code: 15195
+    language_tag: nuj-x-HIS15195
+    name: "Nyole: Sabi"
+    country_id: UG
+    location: Uganda
+  - rolv_code: 15196
+    language_tag: nuj-x-HIS15196
+    name: "Nyole: Wesa"
+    country_id: UG
+    location: Uganda
+---
+Nyole is a Bantu language spoken by the Banyole in Butaleja District, Uganda. There is 61% lexical similarity with a related but different Nyole language in Kenya.

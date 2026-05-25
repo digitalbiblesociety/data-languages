@@ -1,0 +1,28 @@
+---
+iso: nee
+name: "Nêlêmwa-Nixumwak"
+autonym: "Nêlêmwa-Nixumwak"
+population: 950
+country_id: NC
+country_name: New Caledonia
+status_id: 6b
+latitude: -20.4035
+longitude: 164.19283
+glottocode: kuma1276
+glottolog_family_id: aust1307
+glottolog_family_name: Austronesian
+glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Southern Melanesian > New Caledonian > Mainland New Caledonian > Northern New Caledonian > Extreme Northern New Caledonian > Kum-Nel-Yua-Cac > Kum-Nel-Yua > Nêlêmwa-Nixumwak"
+wikipedia_url: "https://en.wikipedia.org/wiki/Kumak_language"
+rolv_dialects:
+  - rolv_code: 12456
+    language_tag: nee-x-HIS12456
+    name: "Nêlêmwa-Nixumwak: Nelemwa"
+    country_id: NC
+    location: New Caledonia
+  - rolv_code: 25261
+    language_tag: nee-x-HIS25261
+    name: "Nêlêmwa-Nixumwak: Nixumwak"
+    country_id: NC
+    location: New Caledonia
+---
+Kumak, also known as Nêlêmwa-Nixumwak after its two dialects, is a Kanak language of northern New Caledonia.

@@ -1,0 +1,15 @@
+---
+iso: ywt
+name: Xishanba Lalo
+autonym: Western Yi
+population: 213000
+country_id: CN
+country_name: China
+status_id: 6b
+latitude: 24.8709
+longitude: 100.71057
+glottocode: xish1235
+glottolog_family_id: sino1245
+glottolog_family_name: Sino-Tibetan
+glottolog_classification: "Sino-Tibetan > Burmo-Qiangic > Lolo-Burmese > Loloish > Ni-Li-Kazhouish > Lisoid > Nuclear Lisoid > Lisu-Laluba-Lavu > Laluba-Lavu > Lalo > Greater Lalo > Core Lalo > Central-Western Lalo > Xishanba Lalo"
+---

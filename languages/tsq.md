@@ -1,0 +1,17 @@
+---
+iso: tsq
+name: Thai Sign Language
+autonym: ภาษามือไทย
+population: 200000
+country_id: TH
+country_name: Thailand
+status_id: "5"
+latitude: 13.7837
+longitude: 100.44545
+glottocode: thai1240
+glottolog_family_id: sign1238
+glottolog_family_name: Sign Language
+glottolog_classification: "Sign Language > L1 Sign Language > LSFic > ASLic > Thai Sign Language"
+wikipedia_url: "https://en.wikipedia.org/wiki/Thai_Sign_Language"
+---
+Thai Sign Language, or Modern Standard Thai Sign Language (MSTSL), is the national sign language of Thailand's deaf community and is used in most parts of the country by the 20 percent of the estimated 56,000 pre-linguistically deaf people who go to school.

@@ -1,0 +1,36 @@
+---
+iso: bjo
+name: "Mid-Southern Banda"
+autonym: Banda Central Sud
+population: 102000
+country_id: CF
+country_name: Central African Republic
+status_id: 6a
+latitude: 5.878933
+longitude: 22.46664
+glottocode: mids1243
+glottolog_family_id: atla1278
+glottolog_family_name: Atlantic-Congo
+glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Cameroun-Ubangian > Ubangi > Ubangi Ka > Bandaic > Nuclear Bandaic > Central Bandaic > Core Central Bandaic > Lindaic > Mid-Southern Banda"
+rolv_dialects:
+  - rolv_code: 1495
+    language_tag: bjo-x-HIS01495
+    name: "Banda, Mid-Southern: Yakpa"
+    country_id: CD
+    location: "Congo, Democratic Republic of, Equateur"
+  - rolv_code: 7660
+    language_tag: bjo-x-HIS07660
+    name: "Banda, Mid-Southern: Bongo"
+    country_id: CF
+    location: Central African Republic
+  - rolv_code: 7661
+    language_tag: bjo-x-HIS07661
+    name: "Banda, Mid-Southern: Dukpu"
+    country_id: CF
+    location: Central African Republic
+  - rolv_code: 7662
+    language_tag: bjo-x-HIS07662
+    name: "Banda, Mid-Southern: Wasa"
+    country_id: CF
+    location: Central African Republic
+---

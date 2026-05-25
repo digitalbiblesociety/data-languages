@@ -1,0 +1,15 @@
+---
+iso: nnn
+name: Ngete
+autonym: Lame
+population: 10000
+country_id: TD
+country_name: Chad
+status_id: 6a
+latitude: 9.31902
+longitude: 15.29053
+glottocode: nget1241
+glottolog_family_id: afro1255
+glottolog_family_name: Afro-Asiatic
+glottolog_classification: "Afro-Asiatic > Chadic > Masa > South Masa > Peveic > Hede-Ngide > Ngete"
+---

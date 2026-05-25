@@ -1,0 +1,17 @@
+---
+iso: lbz
+name: Lardil
+autonym: Leerdil
+population: 65
+country_id: AU
+country_name: Australia
+status_id: 8b
+latitude: -16.56152
+longitude: 139.4343
+glottocode: lard1243
+glottolog_family_id: tang1340
+glottolog_family_name: Tangkic
+glottolog_classification: "Tangkic > Lardil"
+wikipedia_url: "https://en.wikipedia.org/wiki/Lardil_language"
+---
+Lardil, also spelled Leerdil or Leertil, is a moribund language spoken by the Lardil people on Mornington Island (Kunhanha), in the Wellesley Islands of Queensland in northern Australia. Lardil is unusual among Aboriginal Australian languages in that it features a ceremonial register, called Damin. Damin is regarded by Lardil-speakers as a separate language and has the only phonological system outside Africa to use click consonants.

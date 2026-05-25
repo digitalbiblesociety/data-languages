@@ -1,0 +1,23 @@
+---
+iso: bgr
+name: Bawm Chin
+autonym: Banjogi
+population: 15140
+country_id: IN
+country_name: India
+status_id: 6b
+latitude: 22.440523
+longitude: 92.92553
+glottocode: bawm1236
+glottolog_family_id: sino1245
+glottolog_family_name: Sino-Tibetan
+glottolog_classification: "Sino-Tibetan > Kuki-Chin-Naga > Kuki-Chin > Central Kuki-Chin > Core Central Kuki-Chin > Lai Chin > Falamic > Bawm Chin"
+wikipedia_url: "https://en.wikipedia.org/wiki/Bawm_language"
+rolv_dialects:
+  - rolv_code: 5110
+    language_tag: bgr-x-HIS05110
+    name: Bonjugi
+    country_id: IN
+    location: "India, Mizoram"
+---
+Bawm or Bawm Zo, also known as Banjogi, is a Kuki-Chin language primarily spoken in Bangladesh. It is also spoken in adjacent regions of Northeast India and Myanmar. The Bawms that live on the Chittagong Hill Tracts of Bangladesh call their settlements "Bawmram", which literally means an area or location inhabited by Bawms.

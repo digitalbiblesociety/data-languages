@@ -1,0 +1,14 @@
+---
+iso: bsa
+name: Abinomn
+autonym: Foia
+population: 300
+country_id: ID
+country_name: Indonesia
+status_id: 6a
+latitude: -2.92281
+longitude: 138.89052
+glottocode: abin1243
+wikipedia_url: "https://en.wikipedia.org/wiki/Abinomn_language"
+---
+The Abinomn language is a likely language isolate spoken in Papua province, Indonesia. Abinomn was initially reported by Mark Donohue. It is also known as Avinomen, Baso (deprecated) and Foia. There are about 300 speakers.

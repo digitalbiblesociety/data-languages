@@ -1,0 +1,28 @@
+---
+iso: bec
+name: "Iceve-Maci"
+autonym: Oliti
+population: 12000
+country_id: CM
+country_name: Cameroon
+status_id: 6a
+latitude: 6.424265
+longitude: 9.502635
+glottocode: icev1238
+glottolog_family_id: atla1278
+glottolog_family_name: Atlantic-Congo
+glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Tivoid > Central Tivoid > Central Tivoid A > Iceve-Maci"
+wikipedia_url: "https://en.wikipedia.org/wiki/Iceve-Maci_language"
+rolv_dialects:
+  - rolv_code: 4356
+    language_tag: bec-x-HIS04356
+    name: "Iceve-Maci: Oliti"
+    country_id: CM
+    location: "Cameroon, Sud-Ouest"
+  - rolv_code: 10780
+    language_tag: bec-x-HIS10780
+    name: "Iceve-Maci: Maci"
+    country_id: CM
+    location: "Cameroon, Sud-Ouest"
+---
+Ceve (Iceve), or Iceve-Maci, is a Tivoid language of the Cameroons. The divergent dialects are Ceve proper (Becheve), and Maci.

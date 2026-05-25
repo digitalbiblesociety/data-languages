@@ -1,0 +1,48 @@
+---
+iso: diq
+name: Dimli
+autonym: Dimili
+population: 1280000
+country_id: TR
+country_name: Turkey
+status_id: "4"
+latitude: 38.61469
+longitude: 39.63882
+glottocode: diml1238
+glottolog_family_id: indo1319
+glottolog_family_name: Indo-European
+glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Iranian-Nuristani > Iranian > Central Iranian PBS > Central Iranian PB > Northwestern Iranian > Adharic > Zaza > Dimli"
+wikipedia_url: "https://en.wikipedia.org/wiki/Southern_Zaza"
+rolv_dialects:
+  - rolv_code: 9273
+    language_tag: diq-x-HIS09273
+    name: "Zazaki, Southern: Dumbuli"
+    country_id: TR
+    location: Turkey
+  - rolv_code: 9274
+    language_tag: diq-x-HIS09274
+    name: "Zazaki, Southern: Hazzu"
+    country_id: TR
+    location: Turkey
+  - rolv_code: 9275
+    language_tag: diq-x-HIS09275
+    name: "Zazaki, Southern: Kori"
+    country_id: TR
+    location: Turkey
+  - rolv_code: 9278
+    language_tag: diq-x-HIS09278
+    name: "Zazaki, Southern: Sivereki"
+    country_id: TR
+    location: Turkey
+  - rolv_code: 24795
+    language_tag: diq-x-HIS24795
+    name: "Zazaki, Southern: Dersimki"
+    country_id: TR
+    location: Turkey
+  - rolv_code: 28499
+    language_tag: diq-x-HIS28499
+    name: "Zazaki, Southern: Motki"
+    country_id: TR
+    location: Turkey
+---
+Southern Zaza, is one of the three primary dialects of the Zaza language, spoken by the Zaza people. The dialect is also referred to as Dımli, Dımıli or Dımılki, which are believed to be historically and linguistically derived from the words Daylam and Daylamite.

@@ -1,0 +1,38 @@
+---
+iso: wnc
+name: Wantoat
+autonym: Taap
+population: 8000
+country_id: PG
+country_name: Papua New Guinea
+status_id: 8a
+latitude: -6.15216
+longitude: 146.51343
+glottocode: want1252
+glottolog_family_id: nucl1709
+glottolog_family_name: Nuclear Trans New Guinea
+glottolog_classification: "Nuclear Trans New Guinea > Finisterre-Huon > Finisterre-Saruwaged > Wantoatic > Wantoat-Awara > Wantoat"
+wikipedia_url: "https://en.wikipedia.org/wiki/Wantoat_language"
+rolv_dialects:
+  - rolv_code: 18180
+    language_tag: wnc-x-HIS18180
+    name: "Wantoat: Bam"
+    country_id: PG
+    location: "Papua New Guinea, Morobe"
+  - rolv_code: 18181
+    language_tag: wnc-x-HIS18181
+    name: "Wantoat: Central"
+    country_id: PG
+    location: "Papua New Guinea, Morobe"
+  - rolv_code: 18182
+    language_tag: wnc-x-HIS18182
+    name: "Wantoat: Wapu"
+    country_id: PG
+    location: "Papua New Guinea, Morobe"
+  - rolv_code: 18183
+    language_tag: wnc-x-HIS18183
+    name: "Wantoat: Yagawak"
+    country_id: PG
+    location: "Papua New Guinea, Morobe"
+---
+Wantoat, named after the Wantoat River, is one of the Finisterre languages of Papua New Guinea. Dialects are Wapu (Leron), Central Wantoat, Bam, Yagawak (Kandomin), continuing on to Awara, though the last is only 60–70% lexically similar with Wantoat and Wapu. Major Wantoat villages are Gwabogwat, Mamabam, Matap, Ginonga, Kupung.

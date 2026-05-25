@@ -1,0 +1,28 @@
+---
+iso: yah
+name: Yazgulyam
+autonym: yuzdami zevég
+population: 4000
+country_id: TJ
+country_name: Tajikistan
+status_id: 6b
+latitude: 38.28006
+longitude: 71.56505
+glottocode: yazg1240
+glottolog_family_id: indo1319
+glottolog_family_name: Indo-European
+glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Iranian-Nuristani > Iranian > Central Eastern Iranian > Shughni-Yazgulami > Yazgulyam"
+wikipedia_url: "https://en.wikipedia.org/wiki/Yazghulami_language"
+rolv_dialects:
+  - rolv_code: 18516
+    language_tag: yah-x-HIS18516
+    name: "Yazgulyam: Lower"
+    country_id: TJ
+    location: Tajikistan
+  - rolv_code: 18517
+    language_tag: yah-x-HIS18517
+    name: "Yazgulyam: Upper"
+    country_id: TJ
+    location: Tajikistan
+---
+The Yazghulami language is a member of the Southeastern subgroup of the Iranian languages, spoken by around 9,000 people along the Yazghulom River in Gorno-Badakhshan, Tajikistan. Together with Shugni, it is classified in a Shugni-Yazgulami subgroup of the areal group of Pamir languages. Virtually all speakers of Yazghulami are bilingual in Tajik, the variety of the Persian language spoken in Tajikistan and Uzbekistan.

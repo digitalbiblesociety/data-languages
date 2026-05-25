@@ -1,0 +1,17 @@
+---
+iso: lbb
+name: Label
+autonym: null
+population: 150
+country_id: PG
+country_name: Papua New Guinea
+status_id: 6b
+latitude: -4.46971
+longitude: 152.67791
+glottocode: labe1239
+glottolog_family_id: aust1307
+glottolog_family_name: Austronesian
+glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > Meso Melanesian linkage > New Ireland-Northwest Solomonic linkage > St George linkage > Label-Bilur > Label"
+wikipedia_url: "https://en.wikipedia.org/wiki/Label_language"
+---
+Label is a small Oceanic language spoken on New Ireland in Papua New Guinea. It is one of many Meso-Melanesian languages spoken on the island. The Label language is largely spoken on the south west of the island in a small pocket of space. It is not known to be spoken in any significant way outside of Papua New Guinea.

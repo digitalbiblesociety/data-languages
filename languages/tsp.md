@@ -1,0 +1,36 @@
+---
+iso: tsp
+name: Northern Toussian
+autonym: Wín
+population: 1000
+country_id: BF
+country_name: Burkina Faso
+status_id: 6b
+latitude: 11.13303
+longitude: -4.88274
+glottocode: nort2787
+glottolog_family_id: atla1278
+glottolog_family_name: Atlantic-Congo
+glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Gur > Tusia > Northern Toussian"
+rolv_dialects:
+  - rolv_code: 17627
+    language_tag: tsp-x-HIS17627
+    name: "Toussian, Northern: Kebeenton"
+    country_id: BF
+    location: Burkina Faso
+  - rolv_code: 17628
+    language_tag: tsp-x-HIS17628
+    name: "Toussian, Northern: Ter"
+    country_id: BF
+    location: Burkina Faso
+  - rolv_code: 17629
+    language_tag: tsp-x-HIS17629
+    name: "Toussian, Northern: Wenteene"
+    country_id: BF
+    location: Burkina Faso
+  - rolv_code: 22745
+    language_tag: tsp-x-HIS22745
+    name: "Toussian, Northern: Tru"
+    country_id: BF
+    location: Burkina Faso
+---

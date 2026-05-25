@@ -1,0 +1,15 @@
+---
+iso: wem
+name: Weme Gbe
+autonym: fɔ̀ngbè/fõbè
+population: 284000
+country_id: BJ
+country_name: Benin
+status_id: 6a
+latitude: 6.77227
+longitude: 2.47457
+glottocode: weme1239
+glottolog_family_id: atla1278
+glottolog_family_name: Atlantic-Congo
+glottolog_classification: "Atlantic-Congo > Volta-Congo > Kwa Volta-Congo > Gbe > Eastern Gbe > Fongbeic > Weme Gbe"
+---

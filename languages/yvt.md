@@ -1,0 +1,17 @@
+---
+iso: yvt
+name: Yavitero
+autonym: Paraene
+population: 2000
+country_id: VE
+country_name: Venezuela
+status_id: 8b
+latitude: 9.8194
+longitude: -67.42829
+glottocode: yavi1244
+glottolog_family_id: araw1281
+glottolog_family_name: Arawakan
+glottolog_classification: "Arawakan > Alto Orinoco > Parenic > Yavitero-Pareni"
+wikipedia_url: "https://en.wikipedia.org/wiki/Yavitero_language"
+---
+Yavitero or Paraene is an extinct Maipurean language of Venezuela.

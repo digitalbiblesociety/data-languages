@@ -1,0 +1,25 @@
+---
+iso: yyr
+name: Yir Yoront
+autonym: null
+population: null
+country_id: AU
+country_name: Australia
+status_id: null
+rolv_dialects:
+  - rolv_code: 18587
+    language_tag: yyr-x-HIS18587
+    name: "Yir Yoront: Dangedl"
+    country_id: AU
+    location: Australia
+  - rolv_code: 18588
+    language_tag: yyr-x-HIS18588
+    name: "Yir Yoront: Gorminang"
+    country_id: AU
+    location: Australia
+  - rolv_code: 18589
+    language_tag: yyr-x-HIS18589
+    name: "Yir Yoront: Jir'jorond"
+    country_id: AU
+    location: Australia
+---

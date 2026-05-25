@@ -1,0 +1,89 @@
+---
+iso: iba
+name: Iban
+autonym: Jaku Iban
+population: 782800
+country_id: MY
+country_name: Malaysia
+status_id: "3"
+latitude: 2.090413
+longitude: 112.934183
+scripts: [Latn]
+glottocode: iban1264
+glottolog_family_id: aust1307
+glottolog_family_name: Austronesian
+glottolog_classification: "Austronesian > Malayo-Polynesian > Malayo-Chamic > Malayic > Ibanic > Iban-Mualang-Seberuang > Iban-Seberuang > Northern Iban > Iban"
+wikipedia_url: "https://en.wikipedia.org/wiki/Iban_language"
+rolv_dialects:
+  - rolv_code: 772
+    language_tag: iba-x-HIS00772
+    name: Randuk
+    country_id: MY
+    location: "Malaysia, Sarawak"
+  - rolv_code: 818
+    language_tag: iba-x-HIS00818
+    name: Desa
+    country_id: MY
+    location: "Malaysia, Sarawak"
+  - rolv_code: 3797
+    language_tag: iba-x-HIS03797
+    name: Ketungau
+    country_id: ID
+    location: "Indonesia, Kalimantan Barat"
+  - rolv_code: 3803
+    language_tag: iba-x-HIS03803
+    name: Sungkung
+    country_id: ID
+    location: "Indonesia, Kalimantan Barat"
+  - rolv_code: 4278
+    language_tag: iba-x-HIS04278
+    name: Undau
+    country_id: ID
+    location: "Indonesia, Kalimantan Barat"
+  - rolv_code: 4520
+    language_tag: iba-x-HIS04520
+    name: "Iban: Kuching"
+    country_id: MY
+    location: "Malaysia, Sarawak"
+  - rolv_code: 4521
+    language_tag: iba-x-HIS04521
+    name: "Iban: Sibu"
+    country_id: MY
+    location: "Malaysia, Sarawak"
+  - rolv_code: 4639
+    language_tag: iba-x-HIS04639
+    name: Kobahan Rondk
+    country_id: ID
+    location: "Indonesia, Kalimantan Barat"
+  - rolv_code: 4874
+    language_tag: iba-x-HIS04874
+    name: Empeyeh
+    country_id: ID
+    location: "Indonesia, Kalimantan Barat"
+  - rolv_code: 5057
+    language_tag: iba-x-HIS05057
+    name: Senuruk
+    country_id: ID
+    location: "Indonesia, Kalimantan Barat"
+  - rolv_code: 5079
+    language_tag: iba-x-HIS05079
+    name: "Kantu'k"
+    country_id: ID
+    location: "Indonesia, Kalimantan Barat"
+  - rolv_code: 16411
+    language_tag: iba-x-HIS16411
+    name: "Iban: Sebuyau"
+    country_id: MY
+    location: Malaysia
+  - rolv_code: 22351
+    language_tag: iba-x-HIS22351
+    name: Menyumbung
+    country_id: MY
+    location: Malaysia
+  - rolv_code: 26210
+    language_tag: iba-x-HIS26210
+    name: "Iban: Balau"
+    country_id: MY
+    location: Malaysia
+---
+The Iban language is spoken by the Iban, one of the Dayak ethnic groups who live in Brunei, the Indonesian province of West Kalimantan and in the Malaysian state of Sarawak. It belongs to the Malayic subgroup, a Malayo-Polynesian branch of the Austronesian language family.

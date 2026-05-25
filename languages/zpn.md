@@ -1,0 +1,23 @@
+---
+iso: zpn
+name: Santa Inés Yatzechi Zapotec
+autonym: (Santa Inés Yatzeche)
+population: 2240
+country_id: MX
+country_name: Mexico
+status_id: 6a
+latitude: 16.88416
+longitude: -96.75273
+glottocode: sant1447
+glottolog_family_id: otom1299
+glottolog_family_name: Otomanguean
+glottolog_classification: "Otomanguean > Eastern Otomanguean > Popoloca-Zapotecan > Zapotecan > Zapotec > Core Zapotec > Narrow Core Zapotec > Central Core Zapotec > Western Valley Zapotec > Extended Ocotepec Zapotec > Tilquiapanic > Santa Inés Yatzechi Zapotec"
+wikipedia_url: "https://en.wikipedia.org/wiki/Yatzeche_Zapotec"
+rolv_dialects:
+  - rolv_code: 20740
+    language_tag: zpn-x-HIS20740
+    name: "Zapotec, Zegache: Zaachila"
+    country_id: MX
+    location: "Mexico, Oaxaca, Zaachila"
+---
+Yatzeche or Zegache Zapotec is a Zapotec language spoken in the Santa Ana Zegache and Santa Inés Yatzeche municipalities of Zimatlán District of Oaxaca, Mexico.

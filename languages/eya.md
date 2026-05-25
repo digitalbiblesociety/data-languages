@@ -1,0 +1,17 @@
+---
+iso: eya
+name: Eyak
+autonym: I·ya·q
+population: null
+country_id: US
+country_name: United States
+status_id: "9"
+latitude: 60.4232
+longitude: -144.76186
+glottocode: eyak1241
+glottolog_family_id: atha1245
+glottolog_family_name: Athabaskan-Eyak-Tlingit
+glottolog_classification: "Athabaskan-Eyak-Tlingit > Athabaskan-Eyak > Eyak"
+wikipedia_url: "https://en.wikipedia.org/wiki/Eyak_language"
+---
+Eyak is an extinct Na-Dené language, historically spoken by the Eyak people, indigenous to south-central Alaska, near the mouth of the Copper River. The name Eyak comes from a Chugach Sugpiaq name for an Eyak village at the mouth of the Eyak River.

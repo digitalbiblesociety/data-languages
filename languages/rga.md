@@ -1,0 +1,23 @@
+---
+iso: rga
+name: Roria
+autonym: Soisoru
+population: 75
+country_id: VU
+country_name: Vanuatu
+status_id: 6b
+latitude: -15.40476
+longitude: 166.84305
+glottocode: rori1237
+glottolog_family_id: aust1307
+glottolog_family_name: Austronesian
+glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > North and Central Vanuatu > Northern Vanuatu > Espiritu Santo > Nuclear Santo > South Santo > Mores"
+wikipedia_url: "https://en.wikipedia.org/wiki/Toksiki_language"
+rolv_dialects:
+  - rolv_code: 30707
+    language_tag: rga-x-HIS30707
+    name: "Roria: Tapunai"
+    country_id: VU
+    location: Vanuatu
+---
+Toksiki is an Oceanic language spoken in central Espiritu Santo Island in Vanuatu.

@@ -1,0 +1,28 @@
+---
+iso: ras
+name: Tegali
+autonym: Tagale
+population: 99000
+country_id: SD
+country_name: Sudan
+status_id: 6a
+latitude: 11.95226
+longitude: 31.11123
+glottocode: tega1236
+glottolog_family_id: rash1249
+glottolog_family_name: Rashad
+glottolog_classification: "Rashad > Tegali"
+wikipedia_url: "https://en.wikipedia.org/wiki/Tegali_language"
+rolv_dialects:
+  - rolv_code: 17290
+    language_tag: ras-x-HIS17290
+    name: "Tegali: Rashad"
+    country_id: SD
+    location: Sudan
+  - rolv_code: 28631
+    language_tag: ras-x-HIS28631
+    name: "Tegali: Tingal"
+    country_id: SD
+    location: Sudan
+---
+Tegali is a Kordofanian language in the Rashad family, which is thought by some to belong to the hypothetical Niger–Congo phylum. It is spoken in South Kordofan state, Sudan.

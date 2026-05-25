@@ -1,0 +1,17 @@
+---
+iso: rkb
+name: Rikbaktsa
+autonym: erigpaksá
+population: 910
+country_id: BR
+country_name: Brazil
+status_id: 8a
+latitude: -11.18865
+longitude: -58.19424
+glottocode: rikb1245
+glottolog_family_id: nucl1710
+glottolog_family_name: Nuclear-Macro-Je
+glottolog_classification: "Nuclear-Macro-Je > Rikbaktsa"
+wikipedia_url: "https://en.wikipedia.org/wiki/Rikbaktsa_language"
+---
+The Rikbaktsa language, also spelled Aripaktsa, Erikbatsa or Erikpatsa and known ambiguously as Canoeiro, is a language spoken by 40 of the Rikbaktsa people of Mato Grosso, Brazil, that forms its own branch of the Macro-Gê languages, or is a language isolate.

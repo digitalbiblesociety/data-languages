@@ -1,0 +1,33 @@
+---
+iso: chh
+name: Chinook
+autonym: Tsinúk
+population: null
+country_id: US
+country_name: United States
+status_id: 8b
+latitude: 45.17285
+longitude: -119.1656
+glottocode: chin1286
+glottolog_family_id: chin1490
+glottolog_family_name: Chinookan
+glottolog_classification: "Chinookan > Lower Chinookan > Clatsop-Shoalwater Chinook"
+wikipedia_url: "https://en.wikipedia.org/wiki/Lower_Chinook"
+rolv_dialects:
+  - rolv_code: 8882
+    language_tag: chh-x-HIS08882
+    name: "Chinook: Clackama"
+    country_id: US
+    location: "United States of America, Oregon"
+  - rolv_code: 8883
+    language_tag: chh-x-HIS08883
+    name: "Chinook: Kiksht"
+    country_id: US
+    location: "United States of America, Oregon"
+  - rolv_code: 8884
+    language_tag: chh-x-HIS08884
+    name: "Chinook: Klatsop"
+    country_id: US
+    location: "United States of America, Oregon"
+---
+Lower Chinook is an extinct Chinookan language historically spoken at the mouth of the Columbia River on the west coast of North America.

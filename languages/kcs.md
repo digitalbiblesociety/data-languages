@@ -1,0 +1,17 @@
+---
+iso: kcs
+name: Koenoem
+autonym: Kanam
+population: 3000
+country_id: NG
+country_name: Nigeria
+status_id: 6a
+latitude: 9.01129
+longitude: 9.46622
+glottocode: koen1239
+glottolog_family_id: afro1255
+glottolog_family_name: Afro-Asiatic
+glottolog_classification: "Afro-Asiatic > Chadic > West Chadic > West Chadic A > West Chadic A.2-3 > West Chadic A.3 > Goemaic > Talic > Piapung-Koenoem > Koenoem"
+wikipedia_url: "https://en.wikipedia.org/wiki/Koenoem_language"
+---
+Koenoem is an Afro-Asiatic language spoken in Plateau State, Nigeria. It is spoken in about 6 villages east of the Panyam-Shendam road.

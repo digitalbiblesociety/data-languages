@@ -1,0 +1,18 @@
+---
+iso: gnb
+name: Gangte
+autonym: Gante
+population: 15500
+country_id: IN
+country_name: India
+status_id: "4"
+latitude: 24.511315
+longitude: 94.168105
+glottocode: gang1266
+glottolog_family_id: sino1245
+glottolog_family_name: Sino-Tibetan
+glottolog_classification: "Sino-Tibetan > Kuki-Chin-Naga > Kuki-Chin > Peripheral Kuki-Chin > Northeastern Kuki-Chin > Sizangic > Gangte-Vaiphei > Gangte"
+wikipedia_url: "https://en.wikipedia.org/wiki/Gangte_language"
+---
+Gangte is a Sino-Tibetan language of Kuki-Chin linguistic sub branch of Northeastern India. Its speakers primarily live in Manipur and the adjacent areas of Meghalaya and Assam. The language appears to be homogeneous with no known dialectal variation and exhibits at least partial mutual intelligibility with the other Chin-Kuki-Mizo dialects of the area including Thadou, Hmar, Vaiphei, Simte, Kom and Paite languages.
+The speakers of this language use Meitei language as their second language (L2) according to the Ethnologue.

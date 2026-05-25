@@ -1,0 +1,17 @@
+---
+iso: ate
+name: Atemble
+autonym: Atemble
+population: null
+country_id: PG
+country_name: Papua New Guinea
+status_id: "7"
+latitude: -5.08137
+longitude: 144.80568
+glottocode: atem1241
+glottolog_family_id: nucl1709
+glottolog_family_name: Nuclear Trans New Guinea
+glottolog_classification: "Nuclear Trans New Guinea > Madang > Kalamic-South Adelbert > South Adelbert > Sogeram > Apalic > Greater West Sogeram > West Sogeram > Mand"
+wikipedia_url: "https://en.wikipedia.org/wiki/Mand_language"
+---
+Mand, or Atemble, is a Papuan language of Madang Province, Papua New Guinea.

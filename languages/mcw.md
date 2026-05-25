@@ -1,0 +1,28 @@
+---
+iso: mcw
+name: Mawa (Chad)
+autonym: Mahoua
+population: 6560
+country_id: TD
+country_name: Chad
+status_id: 6a
+latitude: 11.74608
+longitude: 18.2999
+glottocode: mawa1270
+glottolog_family_id: afro1255
+glottolog_family_name: Afro-Asiatic
+glottolog_classification: "Afro-Asiatic > Chadic > East Chadic > East Chadic B > East Chadic B.3 > Mawa (Chad)"
+wikipedia_url: "https://en.wikipedia.org/wiki/Mawa_language_(Chad)"
+rolv_dialects:
+  - rolv_code: 25205
+    language_tag: mcw-x-HIS25205
+    name: "Mawa: Gura"
+    country_id: TD
+    location: "Chad, Guéra"
+  - rolv_code: 25206
+    language_tag: mcw-x-HIS25206
+    name: "Mawa: Reupan"
+    country_id: TD
+    location: "Chad, Guéra"
+---
+Mawa is an Afro-Asiatic language spoken in central Chad.

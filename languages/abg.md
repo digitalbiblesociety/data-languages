@@ -1,0 +1,17 @@
+---
+iso: abg
+name: Abaga
+autonym: Wagaba
+population: 1200
+country_id: PG
+country_name: Papua New Guinea
+status_id: 8b
+latitude: -6.12028
+longitude: 145.66459
+glottocode: abag1245
+glottolog_family_id: nucl1709
+glottolog_family_name: Nuclear Trans New Guinea
+glottolog_classification: "Nuclear Trans New Guinea > Kainantu-Goroka > Goroka > Nuclear Goroka > Siane-Yagaria > Kamano-Yagaria > Unclassified Kamano-Yagaria > Abaga"
+wikipedia_url: "https://en.wikipedia.org/wiki/Abaga_language"
+---
+Abaga is a nearly extinct Trans–New Guinea language of Papua New Guinea. It appears to be related to Kamono and Yagaria.

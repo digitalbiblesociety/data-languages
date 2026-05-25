@@ -1,0 +1,28 @@
+---
+iso: kmc
+name: Southern Dong
+autonym: Gaeml
+population: 1000000
+country_id: CN
+country_name: China
+status_id: 6a
+latitude: 25.8874
+longitude: 109.22191
+glottocode: sout2741
+glottolog_family_id: taik1256
+glottolog_family_name: Tai-Kadai
+glottolog_classification: "Tai-Kadai > Kam-Tai > Kam-Sui > Mulam-Kam > Kamic > Southern Dong"
+wikipedia_url: "https://en.wikipedia.org/wiki/Kam_language"
+rolv_dialects:
+  - rolv_code: 6036
+    language_tag: kmc-x-HIS06036
+    name: "Dong: Sanjiang"
+    country_id: CN
+    location: "China, Guangxi Zhuang"
+  - rolv_code: 6107
+    language_tag: kmc-x-HIS06107
+    name: "Dong: Longsheng"
+    country_id: CN
+    location: "China, Guangxi Zhuang"
+---
+The Kam or Gam language, also known as Dong, is a Kam–Sui language spoken by the Dong people. Ethnologue distinguishes three Kam varieties as separate but closely related languages.

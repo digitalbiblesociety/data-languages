@@ -1,0 +1,17 @@
+---
+iso: lrn
+name: Lorang
+autonym: null
+population: 320
+country_id: ID
+country_name: Indonesia
+status_id: 6a
+latitude: -6.30338
+longitude: 134.40953
+glottocode: lora1237
+glottolog_family_id: aust1307
+glottolog_family_name: Austronesian
+glottolog_classification: "Austronesian > Malayo-Polynesian > Aru > Central Aru > Lorang"
+wikipedia_url: "https://en.wikipedia.org/wiki/Lorang_language"
+---
+Lorang is an Austronesian language of the Aru Islands in eastern Indonesia. It is spoken in one village on Koba Island.

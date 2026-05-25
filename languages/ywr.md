@@ -1,0 +1,33 @@
+---
+iso: ywr
+name: Yawuru
+autonym: null
+population: 30
+country_id: AU
+country_name: Australia
+status_id: 8b
+latitude: -18.00405
+longitude: 122.69265
+glottocode: yawu1244
+glottolog_family_id: nyul1248
+glottolog_family_name: Nyulnyulan
+glottolog_classification: "Nyulnyulan > Eastern Nyulnyulan > Yawuric > Yawuru"
+wikipedia_url: "https://en.wikipedia.org/wiki/Yawuru_language"
+rolv_dialects:
+  - rolv_code: 25763
+    language_tag: ywr-x-HIS25763
+    name: "Yawuru: Eastern Inland Yawuru"
+    country_id: AU
+    location: "Australia, Western Australia, Kimberley"
+  - rolv_code: 25764
+    language_tag: ywr-x-HIS25764
+    name: "Yawuru: Northern Yawuru"
+    country_id: AU
+    location: "Australia, Western Australia, Kimberley"
+  - rolv_code: 25765
+    language_tag: ywr-x-HIS25765
+    name: "Yawuru: Southern Coastal Yawuru"
+    country_id: AU
+    location: "Australia, Western Australia, Kimberley"
+---
+Yawuru is a Western Nyulnyulan language spoken on the coast south of Broome in Western Australia.

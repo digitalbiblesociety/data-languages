@@ -1,0 +1,23 @@
+---
+iso: mpr
+name: Vangunu
+autonym: null
+population: 399
+country_id: SB
+country_name: Solomon Islands
+status_id: 6a
+latitude: -8.66826
+longitude: 157.99717
+glottocode: vang1243
+glottolog_family_id: aust1307
+glottolog_family_name: Austronesian
+glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > Meso Melanesian linkage > New Ireland-Northwest Solomonic linkage > St George linkage > Northwest Solomonic > New Georgia > East New Georgia > Marovo-Vangunu > Vangunu"
+wikipedia_url: "https://en.wikipedia.org/wiki/Vangunu_language"
+rolv_dialects:
+  - rolv_code: 3606
+    language_tag: mpr-x-HIS03606
+    name: Bareke
+    country_id: SB
+    location: "Solomon Islands, Western"
+---
+Vangunu is an Oceanic language spoken by about 900 people on Vangunu Island, Solomon Islands. Speakers of Vangunu also use the closely related Marovo.

@@ -1,0 +1,24 @@
+---
+iso: heb
+name: Hebrew
+autonym: Israeli Hebrew
+population: 5000000
+country_id: IL
+country_name: Israel
+status_id: "1"
+latitude: 31.10565
+longitude: 35.01788
+scripts: [Hebr]
+glottocode: hebr1245
+glottolog_family_id: afro1255
+glottolog_family_name: Afro-Asiatic
+glottolog_classification: "Afro-Asiatic > Semitic > West Semitic > Central Semitic > Northwest Semitic > Canaanite > Hebrewic > Modern Hebrew"
+wikipedia_url: "https://en.wikipedia.org/wiki/Modern_Hebrew"
+rolv_dialects:
+  - rolv_code: 10609
+    language_tag: he-x-HIS10609
+    name: "Hebrew: Oriental"
+    country_id: IL
+    location: Israel
+---
+Modern Hebrew, also known as Israeli Hebrew or simply Hebrew, is the standard form of the Hebrew language spoken today. It is the only extant Canaanite language of the Semitic language family, as well as one of the oldest attested languages to be spoken as a first language in the modern day, on account of Hebrew being attested since the 2nd millennium BC. It uses the Hebrew Alphabet, an abjad script written from right-to-left. The current standard was codified as part of the revival of Hebrew in the late 19th and early 20th centuries, and now serves as the official and national language of the State of Israel, where it is predominantly spoken by its over 10 million people. Thus, Modern Hebrew is nearly universally regarded as the most successful instance of language revitalization in history.

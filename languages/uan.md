@@ -1,0 +1,17 @@
+---
+iso: uan
+name: Kuan
+autonym: null
+population: 2500
+country_id: LA
+country_name: Laos
+status_id: 6a
+latitude: 18.07692
+longitude: 105.31038
+glottocode: kuan1246
+glottolog_family_id: taik1256
+glottolog_family_name: Tai-Kadai
+glottolog_classification: "Tai-Kadai > Kam-Tai > Daic-Beic > Daic > Central-Southwestern Tai > Wenma-Southwestern Tai > Sapa-Southwestern Tai > Southwestern Tai > Southwestern Tai P > Kuan"
+wikipedia_url: "https://en.wikipedia.org/wiki/Kuan_language_(Laos)"
+---
+Kuan (Guan) is a Tai language of Laos. It is not easily classified within Tai, possibly due to migration.

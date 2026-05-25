@@ -1,0 +1,17 @@
+---
+iso: sev
+name: Nyarafolo Senoufo
+autonym: Senari
+population: 60000
+country_id: CI
+country_name: "Côte d'Ivoire"
+status_id: 6a
+latitude: 9.66934
+longitude: -5.11685
+glottocode: nyar1245
+glottolog_family_id: atla1278
+glottolog_family_name: Atlantic-Congo
+glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Senufo > South Senufo > Nyarafolo Senoufo"
+wikipedia_url: "https://en.wikipedia.org/wiki/Nyarafolo_language"
+---
+Nyarafolo (Niafolo), one of a cluster of languages called Senari, is a Senufo language of Ivory Coast.

@@ -1,0 +1,35 @@
+---
+iso: kgr
+name: Abun
+autonym: A Nden
+population: 3000
+country_id: ID
+country_name: Indonesia
+status_id: "5"
+latitude: -0.57073
+longitude: 132.4159
+glottocode: abun1252
+wikipedia_url: "https://en.wikipedia.org/wiki/Abun_language"
+rolv_dialects:
+  - rolv_code: 1336
+    language_tag: kgr-x-HIS01336
+    name: "Karon: Pantai"
+    country_id: ID
+    location: "Indonesia, Papua Barat"
+  - rolv_code: 6644
+    language_tag: kgr-x-HIS06644
+    name: "Abun: Je"
+    country_id: ID
+    location: "Indonesia, Papua Barat"
+  - rolv_code: 6645
+    language_tag: kgr-x-HIS06645
+    name: "Abun: Ji"
+    country_id: ID
+    location: "Indonesia, Papua Barat"
+  - rolv_code: 6646
+    language_tag: kgr-x-HIS06646
+    name: "Abun: Tat"
+    country_id: ID
+    location: "Indonesia, Papua Barat"
+---
+Abun, also known as Yimbun, Anden, Manif, or Karon Pantai, is a Papuan language spoken by the Abun people along the northern coast of the Bird's Head Peninsula in Sausapor District, Tambrauw Regency. It is not closely related to any other language, and though Ross (2005) assigned it to the West Papuan family, based on similarities in pronouns, Palmer (2018), Ethnologue, and Glottolog list it as a language isolate.

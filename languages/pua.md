@@ -1,0 +1,51 @@
+---
+iso: pua
+name: Western Highland Purepecha
+autonym: Tarascan
+population: 180000
+country_id: MX
+country_name: Mexico
+status_id: "4"
+latitude: 19.53924
+longitude: -102.154
+glottocode: west2631
+glottolog_family_id: tara1323
+glottolog_family_name: Tarascan
+glottolog_classification: "Tarascan > Western Highland Purepecha"
+rolv_dialects:
+  - rolv_code: 25387
+    language_tag: pua-x-HIS25387
+    name: "Purepecha, Sierra Occidental: Anguhuan"
+    country_id: MX
+    location: "Mexico, Michoacan"
+  - rolv_code: 25388
+    language_tag: pua-x-HIS25388
+    name: "Purepecha, Sierra Occidental: Arantepacua"
+    country_id: MX
+    location: "Mexico, Michoacan"
+  - rolv_code: 25389
+    language_tag: pua-x-HIS25389
+    name: "Purepecha, Sierra Occidental: Canada de los Once Pueblos"
+    country_id: MX
+    location: "Mexico, Michoacan"
+  - rolv_code: 25390
+    language_tag: pua-x-HIS25390
+    name: "Purepecha, Sierra Occidental: Cantera"
+    country_id: MX
+    location: "Mexico, Michoacan"
+  - rolv_code: 25391
+    language_tag: pua-x-HIS25391
+    name: "Purepecha, Sierra Occidental: Cheran"
+    country_id: MX
+    location: "Mexico, Michoacan"
+  - rolv_code: 25392
+    language_tag: pua-x-HIS25392
+    name: "Purepecha, Sierra Occidental: Nurio"
+    country_id: MX
+    location: "Mexico, Michoacan"
+  - rolv_code: 25394
+    language_tag: pua-x-HIS25394
+    name: "Purepecha, Sierra Occidental: Pamatacuaro"
+    country_id: MX
+    location: "Mexico, Michoacan"
+---

@@ -1,0 +1,33 @@
+---
+iso: nsb
+name: "Lower Nossob\r"
+autonym: null
+population: null
+country_id: ZA
+country_name: South Africa
+status_id: null
+latitude: -25.54522
+longitude: 20.588827
+glottocode: lowe1407
+glottolog_family_id: tuuu1241
+glottolog_family_name: Tuu
+glottolog_classification: "Tuu > Hua > Lower-Nosop"
+wikipedia_url: "https://en.wikipedia.org/wiki/Lower_Nossob_language"
+rolv_dialects:
+  - rolv_code: 25287
+    language_tag: nsb-x-HIS25287
+    name: "Lower Nossob: Kiǀhazi"
+    country_id: ZA
+    location: South Africa
+  - rolv_code: 25288
+    language_tag: nsb-x-HIS25288
+    name: "Lower Nossob: Auni"
+    country_id: ZA
+    location: South Africa
+  - rolv_code: 25289
+    language_tag: nsb-x-HIS25289
+    name: "Lower Nossob: Xatia"
+    country_id: ZA
+    location: South Africa
+---
+Lower Nossob is an extinct Khoisan language once spoken along the Nossob River on the border of South Africa and Botswana, near Namibia. It was closely related to the Taa language.

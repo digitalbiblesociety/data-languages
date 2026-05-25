@@ -1,0 +1,23 @@
+---
+iso: alf
+name: Alege
+autonym: Alegi
+population: 1200
+country_id: NG
+country_name: Nigeria
+status_id: 6a
+latitude: 6.59423
+longitude: 9.00394
+glottocode: aleg1238
+glottolog_family_id: atla1278
+glottolog_family_name: Atlantic-Congo
+glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Bendic > Nuclear Bendic > Bukpic > Alege"
+wikipedia_url: "https://en.wikipedia.org/wiki/Alege_language"
+rolv_dialects:
+  - rolv_code: 2106
+    language_tag: alf-x-HIS02106
+    name: Ugbe
+    country_id: NG
+    location: "Nigeria, Cross River"
+---
+Alege is a Bendi language of Nigeria.

@@ -1,0 +1,23 @@
+---
+iso: muo
+name: Nyong
+autonym: Mumbake
+population: 39500
+country_id: CM
+country_name: Cameroon
+status_id: 6a
+latitude: 7.274185
+longitude: 11.061485
+glottocode: nyon1241
+glottolog_family_id: atla1278
+glottolog_family_name: Atlantic-Congo
+glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Cameroun-Ubangian > Central Adamawa > Samba-Duru > Southern Samba-Duru > Sambaic > Samba-Leko-Perema-Mumbake > Perema-Mumbake > Nyong"
+wikipedia_url: "https://en.wikipedia.org/wiki/Nyong_language"
+rolv_dialects:
+  - rolv_code: 4424
+    language_tag: muo-x-HIS04424
+    name: Nyongyangah
+    country_id: CM
+    location: "Cameroon, Nord-Ouest"
+---
+Nyong (Daganyonga), also known as Mubako and Bali-Kumbat, is a Leko language spoken in two well-separated enclaves in Cameroon and Nigeria. Cameroonian speakers consider themselves to be ethnically Chamba.

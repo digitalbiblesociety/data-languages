@@ -1,0 +1,29 @@
+---
+iso: yat
+name: Yambeta
+autonym: Njambeta
+population: 3700
+country_id: CM
+country_name: Cameroon
+status_id: "5"
+latitude: 4.83615
+longitude: 10.93686
+glottocode: yamb1252
+glottolog_family_id: atla1278
+glottolog_family_name: Atlantic-Congo
+glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > Mbam-Bubi > Mbam > Nuclear Mbam > Sanaga-West Mbam (A.40) > West Mbam (A.40) > Yambeta"
+wikipedia_url: "https://en.wikipedia.org/wiki/Yambeta_language"
+rolv_dialects:
+  - rolv_code: 18443
+    language_tag: yat-x-HIS18443
+    name: "Yambeta: Nedek"
+    country_id: CM
+    location: "Cameroon, Centre"
+  - rolv_code: 18444
+    language_tag: yat-x-HIS18444
+    name: "Yambeta: Nigii"
+    country_id: CM
+    location: "Cameroon, Centre"
+---
+Yambeta or Nigi is a Southern Bantoid language of Cameroon. Yambeta has four dialects. The two main dialects are Nigii and Nɛdɛk, and the two
+lesser dialects are Begi and Nibum. Nigii is the largest dialect, and the one used in this article.

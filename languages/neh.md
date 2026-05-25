@@ -1,0 +1,28 @@
+---
+iso: neh
+name: Nyenkha
+autonym: Henkha
+population: 10000
+country_id: BT
+country_name: Bhutan
+status_id: 6a
+latitude: 27.37317
+longitude: 90.39465
+glottocode: nyen1254
+glottolog_family_id: sino1245
+glottolog_family_name: Sino-Tibetan
+glottolog_classification: "Sino-Tibetan > Bodic > Bodish > Phobjib-Chali-Bumthangic > Upper Mangdep"
+wikipedia_url: "https://en.wikipedia.org/wiki/Nyen_language"
+rolv_dialects:
+  - rolv_code: 15187
+    language_tag: neh-x-HIS15187
+    name: "Nyenkha: Chutobikha"
+    country_id: BT
+    location: Bhutan
+  - rolv_code: 15188
+    language_tag: neh-x-HIS15188
+    name: "Nyenkha: Phobjikha"
+    country_id: BT
+    location: Bhutan
+---
+Nyenkha is an East Bodish language spoken by about 10,000 people in the eastern, northern, and western areas of the Black Mountains. Speakers live primarily between the Tang Chuu to the east and Mangde Chhu to the west, from the town of Trongsa in Trongsa District; along Black River passes in the Trongsa District villages of Taktse and Usar; to in Ridha and Tashiding villages, and Phobji, Dangchu, and Sephu Gewogs and surrounding villages in southeast Wangdue Phodrang District.

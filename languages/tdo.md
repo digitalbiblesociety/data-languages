@@ -1,0 +1,17 @@
+---
+iso: tdo
+name: Teme
+autonym: Tema
+population: 4000
+country_id: NG
+country_name: Nigeria
+status_id: 6a
+latitude: 8.74437
+longitude: 11.38936
+glottocode: teme1252
+glottolog_family_id: atla1278
+glottolog_family_name: Atlantic-Congo
+glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Cameroun-Ubangian > Central Adamawa > Mumuye-Yandang > Yandangic > Waka-Yendang-Teme > Teme"
+wikipedia_url: "https://en.wikipedia.org/wiki/Teme_language"
+---
+Teme is an Adamawa language of Nigeria.

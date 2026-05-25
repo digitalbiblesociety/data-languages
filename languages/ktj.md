@@ -1,0 +1,15 @@
+---
+iso: ktj
+name: Plapo Krumen
+autonym: Plapo
+population: 100
+country_id: CI
+country_name: "Côte d'Ivoire"
+status_id: 6b
+latitude: 4.56109
+longitude: -7.30644
+glottocode: plap1239
+glottolog_family_id: krua1234
+glottolog_family_name: Kru
+glottolog_classification: "Kru > Greater Western Kru > Western Kru > Grebo-Aizi > Grebo > Ivorian Grebo > Tepo-Plapo > Plapo Krumen"
+---

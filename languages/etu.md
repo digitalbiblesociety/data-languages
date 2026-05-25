@@ -1,0 +1,43 @@
+---
+iso: etu
+name: Ejagham
+autonym: Ejagham
+population: 116700
+country_id: NG
+country_name: Nigeria
+status_id: "5"
+latitude: 5.54442
+longitude: 8.90959
+glottocode: ejag1239
+glottolog_family_id: atla1278
+glottolog_family_name: Atlantic-Congo
+glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Ekoid-Mbe > Ekoid > Bakor-Ejagham > Ejagham"
+wikipedia_url: "https://en.wikipedia.org/wiki/Jagham_language"
+rolv_dialects:
+  - rolv_code: 1745
+    language_tag: etu-x-HIS01745
+    name: Etung
+    country_id: NG
+    location: "Nigeria, Cross River"
+  - rolv_code: 2637
+    language_tag: etu-x-HIS02637
+    name: Keaka
+    country_id: NG
+    location: "Nigeria, Cross River"
+  - rolv_code: 2962
+    language_tag: etu-x-HIS02962
+    name: "Ejagham: Qua"
+    country_id: NG
+    location: "Nigeria, Cross River"
+  - rolv_code: 9521
+    language_tag: etu-x-HIS09521
+    name: "Ejagham: Eastern"
+    country_id: CM
+    location: "Cameroon, Sud-Ouest, Buea"
+  - rolv_code: 9522
+    language_tag: etu-x-HIS09522
+    name: "Ejagham: Western"
+    country_id: NG
+    location: "Nigeria, Cross River"
+---
+The Jagham language, Ejagham, also known as Ekoi, is an Ekoid language of Nigeria and Cameroon spoken by the Ekoi people. The E- in Ejagham represents the class prefix for "language", analogous to the Bantu ki- in KiSwahili

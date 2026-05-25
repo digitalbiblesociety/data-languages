@@ -1,0 +1,17 @@
+---
+iso: lgt
+name: Pahi
+autonym: Lugitama
+population: 840
+country_id: PG
+country_name: Papua New Guinea
+status_id: 6a
+latitude: -3.79935
+longitude: 142.29906
+glottocode: pahi1246
+glottolog_family_id: sepi1257
+glottolog_family_name: Sepik
+glottolog_classification: "Sepik > Sepik Tama > Mehek-Pahi > Pahi"
+wikipedia_url: "https://en.wikipedia.org/wiki/Pahi_language"
+---
+Pahi, or Lugitama, is a Sepik language of Sandaun Province, Papua-New Guinea.

@@ -1,0 +1,48 @@
+---
+iso: buf
+name: Bushoong
+autonym: Bushoong
+population: 155000
+country_id: CD
+country_name: DR Congo
+status_id: 6a
+latitude: -4.69463
+longitude: 21.45558
+glottocode: bush1247
+glottolog_family_id: atla1278
+glottolog_family_name: Atlantic-Congo
+glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > Central-Western Bantu > North Zaire River > Inner Basin Bantu > Cuvette > Nkutsuic > Bushoong-Wongo-Lele > Bushoong"
+wikipedia_url: "https://en.wikipedia.org/wiki/Bushong_language"
+rolv_dialects:
+  - rolv_code: 1220
+    language_tag: buf-x-HIS01220
+    name: "Bushoong: Ngende"
+    country_id: CD
+    location: "Congo, Democratic Republic of, Kasai-Occidental"
+  - rolv_code: 8567
+    language_tag: buf-x-HIS08567
+    name: "Bushoong: Djembe"
+    country_id: CD
+    location: "Congo, Democratic Republic of"
+  - rolv_code: 8568
+    language_tag: buf-x-HIS08568
+    name: "Bushoong: Ngombe"
+    country_id: CD
+    location: "Congo, Democratic Republic of"
+  - rolv_code: 8569
+    language_tag: buf-x-HIS08569
+    name: "Bushoong: Ngongo"
+    country_id: CD
+    location: "Congo, Democratic Republic of"
+  - rolv_code: 8570
+    language_tag: buf-x-HIS08570
+    name: "Bushoong: Pianga"
+    country_id: CD
+    location: "Congo, Democratic Republic of"
+  - rolv_code: 24549
+    language_tag: buf-x-HIS24549
+    name: "Bushoong: Shuwa"
+    country_id: CD
+    location: "Congo, Democratic Republic of"
+---
+Bushong is a Bantu language of the Kasai Province of Democratic Republic of the Congo. It was the language of the Kuba Kingdom.

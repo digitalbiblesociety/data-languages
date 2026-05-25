@@ -1,0 +1,43 @@
+---
+iso: mwp
+name: Kala Lagaw Ya
+autonym: Western Torres Strait
+population: 960
+country_id: AU
+country_name: Australia
+status_id: "4"
+latitude: -10.67483
+longitude: 142.19566
+glottocode: kala1377
+glottolog_family_id: pama1250
+glottolog_family_name: Pama-Nyungan
+glottolog_classification: "Pama-Nyungan > Kala Lagaw Ya"
+wikipedia_url: "https://en.wikipedia.org/wiki/Kalaw_Lagaw_Ya"
+rolv_dialects:
+  - rolv_code: 11369
+    language_tag: mwp-x-HIS11369
+    name: "Kala Lagaw Ya: Kalaw Kawaw"
+    country_id: AU
+    location: Australia
+  - rolv_code: 19440
+    language_tag: mwp-x-HIS19440
+    name: "Mabuiag: Saibai"
+    country_id: AU
+    location: Australia
+  - rolv_code: 31147
+    language_tag: mwp-x-HIS31147
+    name: "Kala Lagaw Ya: Kawrareg"
+    country_id: AU
+    location: Australia
+  - rolv_code: 31148
+    language_tag: mwp-x-HIS31148
+    name: "Kala Lagaw Ya: Kulkalgau Ya"
+    country_id: AU
+    location: "Australia, Queensland"
+  - rolv_code: 31149
+    language_tag: mwp-x-HIS31149
+    name: "Kala Lagaw Ya: Mabuyag"
+    country_id: AU
+    location: "Australia, Queensland"
+---
+Kalau Lagau Ya, Kalaw Lagaw Ya, Kala Lagaw Ya, or the Western Torres Strait language is the language indigenous to the central and western Torres Strait Islands, Queensland, Australia. On some islands, it has now largely been replaced by Torres Strait Creole.

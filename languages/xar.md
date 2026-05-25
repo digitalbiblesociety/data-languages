@@ -1,0 +1,14 @@
+---
+iso: xar
+name: Karami
+autonym: null
+population: null
+country_id: PG
+country_name: Papua New Guinea
+status_id: "10"
+latitude: -7.13333
+longitude: 143.11666
+glottocode: kara1497
+wikipedia_url: "https://en.wikipedia.org/wiki/Karami_language"
+---
+Karami is an extinct and unclassified Papuan language of southern Papua New Guinea. It is attested from only a short word list, which include many loans from Foia Foia.

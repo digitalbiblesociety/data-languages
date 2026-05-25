@@ -1,0 +1,23 @@
+---
+iso: nyj
+name: Nyanga
+autonym: Kinyanga
+population: 150000
+country_id: CD
+country_name: DR Congo
+status_id: 6a
+latitude: -1.29357
+longitude: 28.31546
+glottocode: nyan1304
+glottolog_family_id: atla1278
+glottolog_family_name: Atlantic-Congo
+glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > East Bantu > Greater Lega > Nyanga"
+wikipedia_url: "https://en.wikipedia.org/wiki/Nyanga_language"
+rolv_dialects:
+  - rolv_code: 15162
+    language_tag: nyj-x-HIS15162
+    name: "Nyanga: Itiri"
+    country_id: CD
+    location: "Congo, Democratic Republic of"
+---
+The Nyanga language is a language spoken by the Nyanga people in Kivu province, north-eastern Democratic Republic of the Congo. Speaker estimates range from 27,000 to 150,000. Many of the Nyanga speak Congo Swahili, the dominant regional lingua franca, as a second language. Nyanga is a Bantu language. Most of the (scarce) linguistic research conducted on Nyanga has been based on the materials published by Biebuyck and Mateene.

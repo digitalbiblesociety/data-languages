@@ -1,0 +1,17 @@
+---
+iso: taf
+name: Tapirapé
+autonym: apyãwa
+population: 500
+country_id: BR
+country_name: Brazil
+status_id: "4"
+latitude: -10.53729
+longitude: -50.54379
+glottocode: tapi1254
+glottolog_family_id: tupi1275
+glottolog_family_name: Tupian
+glottolog_classification: "Tupian > Eastern Tupian > Maweti-Guarani > Aweti-Guarani > Tupi-Guarani > Tupi-Guarani Subgroup IV > Tapirapé"
+wikipedia_url: "https://en.wikipedia.org/wiki/Tapirap%C3%A9_language"
+---
+Tapirapé is a Tupí-Guaraní language of Brazil spoken near the Araguaia River, in the border of the states of Mato Grosso and Tocantins. As of 2020, the language has around 917 speakers, who belong to the Tapirapé ethnic group.

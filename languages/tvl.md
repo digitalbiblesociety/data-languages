@@ -1,0 +1,29 @@
+---
+iso: tvl
+name: Tuvalu
+autonym: Te Ggana Tuuvalu
+population: 14290
+country_id: TV
+country_name: Tuvalu
+status_id: "3"
+latitude: -8.5
+longitude: 179.17
+scripts: [Latn]
+glottocode: tuva1244
+glottolog_family_id: aust1307
+glottolog_family_name: Austronesian
+glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Central Pacific linkage > Tokalau Fijian > Polynesian > Nuclear Polynesian > Ellicean > Tuvalu"
+wikipedia_url: "https://en.wikipedia.org/wiki/Tuvaluan_language"
+rolv_dialects:
+  - rolv_code: 17858
+    language_tag: tvl-x-HIS17858
+    name: "Tuvaluan: Northern"
+    country_id: TV
+    location: Tuvalu
+  - rolv_code: 17859
+    language_tag: tvl-x-HIS17859
+    name: "Tuvaluan: Southern"
+    country_id: TV
+    location: Tuvalu
+---
+Tuvaluan is a Polynesian language of the Ellicean group native to Tuvalu. It is more or less distantly related to all other Polynesian languages, such as Hawaiian, Māori, Tahitian, Samoan, Tokelauan and Tongan, and most closely related to the languages spoken on the Polynesian Outliers in Micronesia and Northern and Central Melanesia. Tuvaluan has borrowed considerably from Samoan, the language of Christian missionaries in the late 19th and early 20th centuries.

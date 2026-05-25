@@ -1,0 +1,33 @@
+---
+iso: cjh
+name: Upper Chehalis
+autonym: Q̉ʷay̓áyiłq̉
+population: null
+country_id: US
+country_name: United States
+status_id: "9"
+latitude: 46.79807
+longitude: -123.16929
+glottocode: uppe1439
+glottolog_family_id: sali1255
+glottolog_family_name: Salishan
+glottolog_classification: "Salishan > Coast Salish > Tsamosan > Inland Tsamosan > Upper Chehalis"
+wikipedia_url: "https://en.wikipedia.org/wiki/Upper_Chehalis_language"
+rolv_dialects:
+  - rolv_code: 24626
+    language_tag: cjh-x-HIS24626
+    name: "Chehalis, Upper: Oakville"
+    country_id: US
+    location: United States of America
+  - rolv_code: 24627
+    language_tag: cjh-x-HIS24627
+    name: "Chehalis, Upper: Satsop"
+    country_id: US
+    location: United States of America
+  - rolv_code: 24628
+    language_tag: cjh-x-HIS24628
+    name: "Chehalis, Upper: Tenino"
+    country_id: US
+    location: United States of America
+---
+Upper Chehalis is a Tsamosan language historically spoken by the Satsop and Upper Chehalis people in western Washington state.

@@ -1,0 +1,17 @@
+---
+iso: tpp
+name: Pisaflores Tepehua
+autonym: North Tepehua
+population: 4000
+country_id: MX
+country_name: Mexico
+status_id: 6a
+latitude: 20.70392
+longitude: -98.03053
+glottocode: pisa1237
+glottolog_family_id: toto1251
+glottolog_family_name: Totonacan
+glottolog_classification: "Totonacan > Tepehua > Pisaflores Tepehua"
+wikipedia_url: "https://en.wikipedia.org/wiki/Pisaflores_Tepehua"
+---
+Pisaflores Tepehua is a Tepehua language of Veracruz, Mexico. It is spoken in the towns of Ixhuatlán de Madero and Pisaflores.

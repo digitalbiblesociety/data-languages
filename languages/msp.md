@@ -1,0 +1,23 @@
+---
+iso: msp
+name: Maritsauá
+autonym: Manitsawá
+population: null
+country_id: BR
+country_name: Brazil
+status_id: "10"
+latitude: -11.58332
+longitude: -53.96666
+glottocode: mari1442
+glottolog_family_id: tupi1275
+glottolog_family_name: Tupian
+glottolog_classification: "Tupian > Eastern Tupian > Jurunic > Unclassified Jurunic > Manitsauá"
+wikipedia_url: "https://en.wikipedia.org/wiki/Manitsau%C3%A1_language"
+rolv_dialects:
+  - rolv_code: 25238
+    language_tag: msp-x-HIS25238
+    name: Maritsaua; Arupai
+    country_id: BR
+    location: Brazil
+---
+Manitsawá is an extinct Tupian language of the state of Mato Grosso, in the Amazon region of Brazil.

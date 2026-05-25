@@ -1,0 +1,17 @@
+---
+iso: zav
+name: Yatzachi Zapotec
+autonym: "Dižə'əxon"
+population: 2500
+country_id: MX
+country_name: Mexico
+status_id: "5"
+latitude: 17.1869
+longitude: -96.28398
+glottocode: yatz1235
+glottolog_family_id: otom1299
+glottolog_family_name: Otomanguean
+glottolog_classification: "Otomanguean > Eastern Otomanguean > Popoloca-Zapotecan > Zapotecan > Zapotec > Core Zapotec > Narrow Core Zapotec > Northern Core Zapotec > Cajonosic > Yatzachi Zapotec"
+wikipedia_url: "https://en.wikipedia.org/wiki/Yatzachi_Zapotec"
+---
+Yatzachi Zapotec is an Oto-Manguean language of the Zapotecan branch, spoken in northern central Oaxaca, Mexico. 2,500 self-reported being Yatzachi speakers for the 1990 Mexican census, but the actual number of speakers is unknown. The Yatzachi dialect belongs to the Villa Alta group of Zapotec dialects, of which the main dialect is San Bartolomé Zoogocho. The degree of mutual intelligibility between Yatzachi and the San Bartolomé Zoogocho dialect is estimated to be around 90 percent.

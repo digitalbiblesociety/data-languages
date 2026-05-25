@@ -1,0 +1,17 @@
+---
+iso: nxi
+name: Nindi
+autonym: Kinindi
+population: 100
+country_id: TZ
+country_name: Tanzania
+status_id: "7"
+latitude: -11.25694
+longitude: 36.31156
+glottocode: nind1242
+glottolog_family_id: atla1278
+glottolog_family_name: Atlantic-Congo
+glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > East Bantu > Rufiji-Ruvuma > Rufijic > Lwegu > Ndendeule-Ngindo-Nindi > Nindi"
+wikipedia_url: "https://en.wikipedia.org/wiki/Nindi_language"
+---
+Nindi is a minor Bantu language of Tanzania. Classified as Bantu N.10 by Guthrie and said to be close to Ndendeule, it is presumably one of the Rufiji–Ruvuma languages with the rest of the N.10 group.

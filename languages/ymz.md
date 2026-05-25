@@ -1,0 +1,17 @@
+---
+iso: ymz
+name: Muzi
+autonym: Muji
+population: 10000
+country_id: CN
+country_name: China
+status_id: "7"
+latitude: 23.086
+longitude: 103.464
+glottocode: muzi1235
+glottolog_family_id: sino1245
+glottolog_family_name: Sino-Tibetan
+glottolog_classification: "Sino-Tibetan > Burmo-Qiangic > Lolo-Burmese > Loloish > Ni-Li-Kazhouish > Southeastern Ngwi > Highland Phula > Muji > Laghuu-Core Muji > Thopho-Core Muji > Core Muji > Nuclear Core Muji > Muzi"
+wikipedia_url: "https://en.wikipedia.org/wiki/Muzi_language"
+---
+Muzi, or Muji, is a Loloish language spoken by the Phula people of China. It is one of several such languages to go by the name Muji.

@@ -1,0 +1,17 @@
+---
+iso: gek
+name: Ywom
+autonym: Gerka
+population: 14100
+country_id: NG
+country_name: Nigeria
+status_id: 6a
+latitude: 8.97395
+longitude: 9.78757
+glottocode: yiwo1237
+glottolog_family_id: afro1255
+glottolog_family_name: Afro-Asiatic
+glottolog_classification: "Afro-Asiatic > Chadic > West Chadic > West Chadic A > West Chadic A.2-3 > West Chadic A.3 > Goemaic > Yiwom"
+wikipedia_url: "https://en.wikipedia.org/wiki/Yiwom_language"
+---
+Yiwom (Ywom), also known as Gerka or Gerkawa by the Hausa, is a Chadic (Afro-Asiatic) language spoken in Plateau State, Nigeria.

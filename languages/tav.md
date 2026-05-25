@@ -1,0 +1,17 @@
+---
+iso: tav
+name: Tatuyo
+autonym: Wa’ikhana
+population: 330
+country_id: CO
+country_name: Colombia
+status_id: "5"
+latitude: 0.55582
+longitude: -70.53265
+glottocode: tatu1247
+glottolog_family_id: tuca1253
+glottolog_family_name: Tucanoan
+glottolog_classification: "Tucanoan > Eastern Tucanoan > Eastern Eastern Tucanoan > Eastern Eastern Tucanoan I > Bara-Tatuyo > Tatuyo"
+wikipedia_url: "https://en.wikipedia.org/wiki/Tatuyo_language"
+---
+Tatuyo is a Tucanoan language of Colombia. Lexically, its closest relative is Carapano: the two languages' lexicons are 96.3% cognate.

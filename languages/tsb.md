@@ -1,0 +1,17 @@
+---
+iso: tsb
+name: Tsamai
+autonym: Tsamako
+population: 18000
+country_id: ET
+country_name: Ethiopia
+status_id: 6a
+latitude: 5.3097
+longitude: 36.9139
+glottocode: tsam1247
+glottolog_family_id: afro1255
+glottolog_family_name: Afro-Asiatic
+glottolog_classification: "Afro-Asiatic > Cushitic > East Cushitic > Lowland East Cushitic > Southern Lowland East Cushitic > Transversal Lowland East Cushitic > Dullay > Tsamai"
+wikipedia_url: "https://en.wikipedia.org/wiki/Tsamai_language"
+---
+Tsamai is an Afroasiatic language spoken in Ethiopia. Tsamai is a member of the Dullay dialect continuum. Cule and evidently Dume (pseudo-pygmies) were apparently varieties.

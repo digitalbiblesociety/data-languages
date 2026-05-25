@@ -1,0 +1,49 @@
+---
+iso: lif
+name: Limbu
+autonym: ᤕᤠᤰᤌᤢᤱ ᤐᤠᤴ
+population: 384800
+country_id: NP
+country_name: Nepal
+status_id: "5"
+latitude: 27.270335
+longitude: 87.885935
+scripts: [Deva, Limb]
+glottocode: limb1266
+glottolog_family_id: sino1245
+glottolog_family_name: Sino-Tibetan
+glottolog_classification: "Sino-Tibetan > Himalayish > Mahakiranti > Kiranti > Eastern Kiranti > Tamar > Limbu"
+wikipedia_url: "https://en.wikipedia.org/wiki/Limbu_language"
+rolv_dialects:
+  - rolv_code: 12960
+    language_tag: lif-x-HIS12960
+    name: "Limbu: Chhatthare"
+    country_id: NP
+    location: Nepal
+  - rolv_code: 12961
+    language_tag: lif-x-HIS12961
+    name: "Limbu: Panthare"
+    country_id: NP
+    location: Nepal
+  - rolv_code: 12962
+    language_tag: lif-x-HIS12962
+    name: "Limbu: Phedappe"
+    country_id: NP
+    location: Nepal
+  - rolv_code: 12963
+    language_tag: lif-x-HIS12963
+    name: "Limbu: Tamorkhole"
+    country_id: NP
+    location: Nepal
+  - rolv_code: 25174
+    language_tag: lif-x-HIS25174
+    name: "Limbu: Chaubise"
+    country_id: NP
+    location: Nepal
+  - rolv_code: 25175
+    language_tag: lif-x-HIS25175
+    name: "Limbu: Yanggrokke"
+    country_id: NP
+    location: Nepal
+---
+Limbu is a Sino-Tibetan language spoken by the Limbu people of Nepal and Northeastern India as well as expatriate communities in Bhutan. The Limbu refer to themselves as Yakthung and their language as Yakthungpan. Yakthungpan has four main dialects: Phedape, Chhathare, Tambarkhole and Panthare dialects.

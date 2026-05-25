@@ -1,0 +1,39 @@
+---
+iso: nmf
+name: Tangkhul Naga (India)
+autonym: Luhupa
+population: 187000
+country_id: IN
+country_name: India
+status_id: "4"
+latitude: 25.0489
+longitude: 94.35673
+glottocode: tang1336
+glottolog_family_id: sino1245
+glottolog_family_name: Sino-Tibetan
+glottolog_classification: "Sino-Tibetan > Kuki-Chin-Naga > Tangkhul-Maring > Tangkhulic > Nuclear Tangkhulic > East-Central Tangkhul Naga"
+wikipedia_url: "https://en.wikipedia.org/wiki/Tangkhul_language"
+rolv_dialects:
+  - rolv_code: 3855
+    language_tag: nmf-x-HIS03855
+    name: Than-Gal
+    country_id: IN
+    location: "India, Manipur"
+  - rolv_code: 14590
+    language_tag: nmf-x-HIS14590
+    name: "Naga, Tangkhul: Kupome"
+    country_id: IN
+    location: "India, Manipur"
+  - rolv_code: 14591
+    language_tag: nmf-x-HIS14591
+    name: "Naga, Tangkhul: Phadang"
+    country_id: IN
+    location: "India, Manipur"
+  - rolv_code: 14592
+    language_tag: nmf-x-HIS14592
+    name: "Naga, Tangkhul: Ukhrul"
+    country_id: IN
+    location: "India, Manipur"
+---
+Tangkhul is a Sino-Tibetan language of the Tangkhulic branch, spoken in different villages of Ukhrul district, Manipur, India. The term "Tangkhul" is derived from the Meitei language terms, tāng and khūl .
+According to another theory, the term "Tangkhul" is derived from "Thankhul", meaning "Than village" in Meitei language.

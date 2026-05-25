@@ -1,0 +1,15 @@
+---
+iso: jbk
+name: Barikewa
+autonym: Iba
+population: null
+country_id: PG
+country_name: Papua New Guinea
+status_id: 6a
+latitude: -7.09739
+longitude: 143.99279
+glottocode: bari1298
+glottolog_family_id: tura1263
+glottolog_family_name: Turama-Kikori
+glottolog_classification: "Turama-Kikori > Turama-Omatian > Barikewa"
+---

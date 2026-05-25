@@ -1,0 +1,23 @@
+---
+iso: mih
+name: Chayuco Mixtec
+autonym: "Cristobál-Chayuco"
+population: 10000
+country_id: MX
+country_name: Mexico
+status_id: 6b
+latitude: 16.31585
+longitude: -97.81145
+glottocode: chay1249
+glottolog_family_id: otom1299
+glottolog_family_name: Otomanguean
+glottolog_classification: "Otomanguean > Eastern Otomanguean > Amuzgo-Mixtecan > Mixtecan > Mixtec-Cuicatec > Mixtec > Coast Mixtec > East Coast Mixtec > Chayuco Mixtec"
+wikipedia_url: "https://en.wikipedia.org/wiki/Chayuco-Jamiltepec_Mixtec"
+rolv_dialects:
+  - rolv_code: 26047
+    language_tag: mih-x-HIS26047
+    name: "Mixtec, Chayuco: Mechoan"
+    country_id: MX
+    location: "Mexico, Oaxaca, Jamiltepec"
+---
+Chayuco-Jamiltepec Mixtec is a Mixtec language of Oaxaca, spoken in the towns of San Agustín Chayuco, Santa Catarina Mechoacán, Santiago Jamiltepec, San Andrés Huaxpaltepec, Santa María Huazolotitlán, Santiago Tetepec, and Santa Elena Comaltepec.

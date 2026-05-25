@@ -1,0 +1,17 @@
+---
+iso: cin
+name: Cinta Larga
+autonym: null
+population: 1300
+country_id: BR
+country_name: Brazil
+status_id: 6a
+latitude: -10.58788
+longitude: -60.83115
+glottocode: cint1239
+glottolog_family_id: tupi1275
+glottolog_family_name: Tupian
+glottolog_classification: "Tupian > Monde > Gavianic > Nuclear Gavianic > Cinta Larga"
+wikipedia_url: "https://en.wikipedia.org/wiki/Cinta_Larga_language"
+---
+Cinta Larga is a Tupian dialect cluster of Brazil, the largest language of the Monde branch.

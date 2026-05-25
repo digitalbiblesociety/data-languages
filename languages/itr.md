@@ -1,0 +1,23 @@
+---
+iso: itr
+name: Iteri
+autonym: Rocky Peak
+population: 480
+country_id: PG
+country_name: Papua New Guinea
+status_id: 8a
+latitude: -4.11998
+longitude: 141.58528
+glottocode: iter1241
+glottolog_family_id: left1242
+glottolog_family_name: Left May
+glottolog_classification: "Left May > Western Left May > Iteri-Bo > Iteri"
+wikipedia_url: "https://en.wikipedia.org/wiki/Iteri_language"
+rolv_dialects:
+  - rolv_code: 3447
+    language_tag: itr-x-HIS03447
+    name: Agrame
+    country_id: PG
+    location: "Papua New Guinea, Sandaun"
+---
+Iteri is a Left May language of Papua New Guinea, in the Rocky Peak Mountains of Sandaun Province. There are about 475 speakers in all.

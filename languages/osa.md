@@ -1,0 +1,18 @@
+---
+iso: osa
+name: Osage
+autonym: Wažáže ie
+population: 11000
+country_id: US
+country_name: United States
+status_id: 8b
+latitude: 36.78282
+longitude: -96.29489
+scripts: [Latn, Osge]
+glottocode: osag1243
+glottolog_family_id: siou1252
+glottolog_family_name: Siouan
+glottolog_classification: "Siouan > Mississippi Valley > Dhegiha > Osage-Kansa > Osage"
+wikipedia_url: "https://en.wikipedia.org/wiki/Osage_language"
+---
+Osage is a Siouan language spoken by the people of the Osage Nation in northern Oklahoma. Their original territory was in the present-day Ohio River Valley, which they shared with other Siouan language nations. Slowly they migrated to present-day Missouri and Kansas areas, but they were gradually pushed west by pressure from invading colonial forces and settlement by other displaced Native American nations.

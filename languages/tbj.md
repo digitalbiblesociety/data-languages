@@ -1,0 +1,23 @@
+---
+iso: tbj
+name: Tiang
+autonym: Djaul
+population: 790
+country_id: PG
+country_name: Papua New Guinea
+status_id: 6a
+latitude: -2.95505
+longitude: 150.93502
+glottocode: tian1237
+glottolog_family_id: aust1307
+glottolog_family_name: Austronesian
+glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > Meso Melanesian linkage > New Ireland-Northwest Solomonic linkage > Tungak-Nalik > Tiang"
+wikipedia_url: "https://en.wikipedia.org/wiki/Tiang_language"
+rolv_dialects:
+  - rolv_code: 1476
+    language_tag: tbj-x-HIS01476
+    name: Dyaul
+    country_id: PG
+    location: "Papua New Guinea, New Ireland"
+---
+The Tiang language, also known as Djaul, is a language spoken in Papua New Guinea.

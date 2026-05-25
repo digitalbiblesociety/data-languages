@@ -1,0 +1,17 @@
+---
+iso: xlp
+name: Lepontic
+autonym: null
+population: null
+country_id: IT
+country_name: Italy
+status_id: null
+latitude: 45.98
+longitude: 8.92
+glottocode: lepo1240
+glottolog_family_id: indo1319
+glottolog_family_name: Indo-European
+glottolog_classification: "Indo-European > Classical Indo-European > Celtic > Nuclear Celtic > Cisalpine Celtic > Lepontic"
+wikipedia_url: "https://en.wikipedia.org/wiki/Lepontic_language"
+---
+Lepontic is an extinct ancient Alpine Celtic language that was spoken in parts of Rhaetia and Cisalpine Gaul between 550 and 100 BC. Lepontic is attested in inscriptions found in an area centered on Lugano, Switzerland, and including the Lake Como and Lake Maggiore areas of Italy. As a Celtic language, its name could derive from Proto-Celtic *leikʷontio-.

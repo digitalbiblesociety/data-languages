@@ -1,0 +1,41 @@
+---
+iso: bxu
+name: China Buriat
+autonym: Buriat
+population: 14000
+country_id: CN
+country_name: China
+status_id: "7"
+latitude: 48.75926
+longitude: 117.7863
+glottocode: chin1476
+glottolog_family_id: mong1349
+glottolog_family_name: Mongolic-Khitan
+glottolog_classification: "Mongolic-Khitan > Mongolic > Eastern Mongolic > Khalkha-Buriat > Buriat > China Buriat"
+rolv_dialects:
+  - rolv_code: 8521
+    language_tag: bxu-x-HIS08521
+    name: "Buriat, China: Aga"
+    country_id: CN
+    location: "China, Nei Mongol"
+  - rolv_code: 8522
+    language_tag: bxu-x-HIS08522
+    name: "Buriat, China: New Bargu"
+    country_id: CN
+    location: "China, Nei Mongol"
+  - rolv_code: 8523
+    language_tag: bxu-x-HIS08523
+    name: "Buriat, China: Khori"
+    country_id: CN
+    location: "China, Nei Mongol"
+  - rolv_code: 24572
+    language_tag: bxu-x-HIS24572
+    name: "Buriat, China: Buriat"
+    country_id: RU
+    location: Russia
+  - rolv_code: 24573
+    language_tag: bxu-x-HIS24573
+    name: "Buriat, China: Old Bargu"
+    country_id: RU
+    location: Russia
+---

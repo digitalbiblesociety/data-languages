@@ -1,0 +1,17 @@
+---
+iso: cyo
+name: Cuyonon
+autonym: Cuyo
+population: 278000
+country_id: PH
+country_name: Philippines
+status_id: "5"
+latitude: 10.32008
+longitude: 119.30028
+glottocode: cuyo1237
+glottolog_family_id: aust1307
+glottolog_family_name: Austronesian
+glottolog_classification: "Austronesian > Malayo-Polynesian > Greater Central Philippine > Central Philippine > Bisayan > West Bisayan > Kuyan > Cuyonon"
+wikipedia_url: "https://en.wikipedia.org/wiki/Cuyonon_language"
+---
+Cuyonon is a regional Bisayan language spoken on the coast of Palawan and the Cuyo Islands in the Philippines. Cuyonon had been the lingua franca of the province of Palawan until recently when migration flow into the region rapidly increased. Forty-three percent of the total population of Palawan during the late 1980s spoke and used Cuyonon as a language. Later studies showed a significant decrease in the number of speakers due to an increase of Tagalog-speaking immigrants from Luzon.

@@ -1,0 +1,26 @@
+---
+iso: nbj
+name: Ngarinyman
+autonym: Gurinji
+population: 170
+country_id: AU
+country_name: Australia
+status_id: "7"
+latitude: -15.46607
+longitude: 130.65096
+glottocode: ngar1235
+glottolog_family_id: pama1250
+glottolog_family_name: Pama-Nyungan
+glottolog_classification: "Pama-Nyungan > Desert Nyungic > Ngumpin-Yapa > Ngumpin > Eastern Ngumpin > Ngumpit > Ngarinman"
+rolv_dialects:
+  - rolv_code: 14875
+    language_tag: nbj-x-HIS14875
+    name: "Ngarinyman: Bilinara"
+    country_id: AU
+    location: Australia
+  - rolv_code: 31175
+    language_tag: nbj-x-HIS31175
+    name: "Ngarinyman: Eastern"
+    country_id: AU
+    location: Australia
+---

@@ -1,0 +1,15 @@
+---
+iso: twy
+name: Tawoyan
+autonym: Tabojan
+population: 20000
+country_id: ID
+country_name: Indonesia
+status_id: "5"
+latitude: -1.30017
+longitude: 115.20393
+glottocode: tawo1243
+glottolog_family_id: aust1307
+glottolog_family_name: Austronesian
+glottolog_classification: "Austronesian > Malayo-Polynesian > Basap-Greater Barito > Greater Barito linkage > North East Greater Barito > Tawoyan"
+---

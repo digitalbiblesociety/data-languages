@@ -1,0 +1,17 @@
+---
+iso: gdh
+name: Gadjerawang
+autonym: Gadjerong
+population: 10
+country_id: AU
+country_name: Australia
+status_id: 8b
+latitude: -15.47863
+longitude: 129.15553
+glottocode: gadj1243
+glottolog_family_id: jarr1235
+glottolog_family_name: Jarrakan
+glottolog_classification: "Jarrakan > Miriwunic > Gajirrabeng"
+wikipedia_url: "https://en.wikipedia.org/wiki/Gajirrawoong_dialect"
+---
+Gajirrawoong, also written Gajirrabeng, Gadjerawang, Gadjerong, Gadyerong and Kajirrawung, is an Australian Aboriginal language of the Kimberley region in Western Australia. It is at least endangered and possibly extinct; as of 2004 it was known by only three or four fluent speakers, and in the 2016 Australian Census, there were no recorded speakers using it at home. It is in the Jarrakan language family, and is the language of the Gajirrawoong people.

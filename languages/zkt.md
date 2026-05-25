@@ -1,0 +1,17 @@
+---
+iso: zkt
+name: Kitan
+autonym: 51px
+population: null
+country_id: CN
+country_name: China
+status_id: null
+latitude: 44.37727
+longitude: 115.986325
+glottocode: kita1247
+glottolog_family_id: mong1349
+glottolog_family_name: Mongolic-Khitan
+glottolog_classification: "Mongolic-Khitan > Kitan"
+wikipedia_url: "https://en.wikipedia.org/wiki/Khitan_language"
+---
+Khitan or Kitan, also known as Liao, is an extinct language once spoken in Northeast Asia by the Khitan people. It was the official language of the Liao Empire (907–1125) and the Qara Khitai (1124–1218). Owing to a narrow corpus of known words and a partially undeciphered script, the language has yet to be completely reconstructed.

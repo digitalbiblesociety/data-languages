@@ -1,0 +1,17 @@
+---
+iso: chc
+name: Catawba
+autonym: Katapa
+population: null
+country_id: US
+country_name: United States
+status_id: 8b
+latitude: 34.96848
+longitude: -80.88569
+glottocode: cata1286
+glottolog_family_id: siou1252
+glottolog_family_name: Siouan
+glottolog_classification: "Siouan > Catawban > Catawba"
+wikipedia_url: "https://en.wikipedia.org/wiki/Catawba_language"
+---
+Catawba is one of two Eastern Siouan languages of the eastern US, which together with the Western Siouan languages formed the Siouan language family. The last native, fluent speaker of Catawba was Samuel Taylor Blue, who died in 1959. The Catawba people are now working to revitalize and preserve the Catawba language.

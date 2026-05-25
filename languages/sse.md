@@ -1,0 +1,41 @@
+---
+iso: sse
+name: Balangingi
+autonym: Bajau
+population: 85000
+country_id: PH
+country_name: Philippines
+status_id: "5"
+latitude: 6.231445
+longitude: 119.299715
+glottocode: bala1311
+glottolog_family_id: aust1307
+glottolog_family_name: Austronesian
+glottolog_classification: "Austronesian > Malayo-Polynesian > Basap-Greater Barito > Greater Barito linkage > Sama-Bajaw > Sulu-Borneo > Inner Sulu Sama > Balangingi"
+rolv_dialects:
+  - rolv_code: 16231
+    language_tag: sse-x-HIS16231
+    name: "Sama, Balangingi: Daongdung"
+    country_id: PH
+    location: "Philippines, Mindanao"
+  - rolv_code: 16232
+    language_tag: sse-x-HIS16232
+    name: "Sama, Balangingi: Kabinga'an"
+    country_id: PH
+    location: "Philippines, Mindanao"
+  - rolv_code: 16233
+    language_tag: sse-x-HIS16233
+    name: "Sama, Balangingi: Lutangan"
+    country_id: PH
+    location: "Philippines, Mindanao"
+  - rolv_code: 16234
+    language_tag: sse-x-HIS16234
+    name: "Sama, Balangingi: Sibuco-Vitali"
+    country_id: PH
+    location: "Philippines, Mindanao"
+  - rolv_code: 16235
+    language_tag: sse-x-HIS16235
+    name: "Sama, Balangingi: Sibuguey"
+    country_id: PH
+    location: "Philippines, Mindanao"
+---

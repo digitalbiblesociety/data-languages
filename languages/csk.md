@@ -1,0 +1,48 @@
+---
+iso: csk
+name: "Jola-Kasa"
+autonym: "Jóola-Kaasa"
+population: 45100
+country_id: SN
+country_name: Senegal
+status_id: "5"
+latitude: 12.50885
+longitude: -16.55386
+glottocode: jola1262
+glottolog_family_id: atla1278
+glottolog_family_name: Atlantic-Congo
+glottolog_classification: "Atlantic-Congo > North-Central Atlantic > Central Atlantic > Bak > Joola-Manjaku > Jola > FH-Jola > Jola-Esulalu"
+wikipedia_url: "https://en.wikipedia.org/wiki/Kasa_language"
+rolv_dialects:
+  - rolv_code: 1884
+    language_tag: csk-x-HIS01884
+    name: "Jola-Kasa: Esulalu"
+    country_id: SN
+    location: Senegal
+  - rolv_code: 11185
+    language_tag: csk-x-HIS11185
+    name: "Jola-Kasa: Ayun"
+    country_id: SN
+    location: Senegal
+  - rolv_code: 11186
+    language_tag: csk-x-HIS11186
+    name: "Jola-Kasa: Bliss"
+    country_id: SN
+    location: Senegal
+  - rolv_code: 11187
+    language_tag: csk-x-HIS11187
+    name: "Jola-Kasa: Fluvial"
+    country_id: SN
+    location: Senegal
+  - rolv_code: 11188
+    language_tag: csk-x-HIS11188
+    name: "Jola-Kasa: Huluf"
+    country_id: SN
+    location: Senegal
+  - rolv_code: 11189
+    language_tag: csk-x-HIS11189
+    name: "Jola-Kasa: Selek"
+    country_id: SN
+    location: Senegal
+---
+Kasa, or Jóola-Kaasa is a Jola language of the Casamance region of Senegal and neighboring Gambia.

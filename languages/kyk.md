@@ -1,0 +1,38 @@
+---
+iso: kyk
+name: Kamayo
+autonym: Davaweño
+population: 153000
+country_id: PH
+country_name: Philippines
+status_id: 6a
+latitude: 8.10796
+longitude: 126.31393
+glottocode: kama1363
+glottolog_family_id: aust1307
+glottolog_family_name: Austronesian
+glottolog_classification: "Austronesian > Malayo-Polynesian > Greater Central Philippine > Central Philippine > Mansakan > Kamayo"
+wikipedia_url: "https://en.wikipedia.org/wiki/Kamayo_language"
+rolv_dialects:
+  - rolv_code: 11458
+    language_tag: kyk-x-HIS11458
+    name: "Kamayo: North"
+    country_id: PH
+    location: "Philippines, Mindanao, Caraga Region, Surigao del Sur"
+  - rolv_code: 11459
+    language_tag: kyk-x-HIS11459
+    name: "Kamayo: South"
+    country_id: PH
+    location: "Philippines, Mindanao, Caraga Region, Surigao del Sur"
+  - rolv_code: 27284
+    language_tag: kyk-x-HIS27284
+    name: "Kamayo: Guinilayon"
+    country_id: PH
+    location: "Philippines, Mindanao, Caraga Region, Surigao del Sur"
+  - rolv_code: 27858
+    language_tag: kyk-x-HIS27858
+    name: "Kamayo: Kadi"
+    country_id: PH
+    location: "Philippines, Mindanao, Caraga Region, Surigao del Sur"
+---
+Kamayo, also called Kadi, Kinadi, or Mandaya, is a minor Austronesian language of the central eastern coast of Mindanao in the Philippines.

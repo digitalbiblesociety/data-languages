@@ -1,0 +1,17 @@
+---
+iso: bzs
+name: Brazilian Sign Language
+autonym: Libras
+population: 630000
+country_id: BR
+country_name: Brazil
+status_id: 6a
+latitude: -15.49999
+longitude: -47.99999
+glottocode: braz1236
+glottolog_family_id: sign1238
+glottolog_family_name: Sign Language
+glottolog_classification: "Sign Language > L1 Sign Language > LSFic > Brazilian Sign Language"
+wikipedia_url: "https://en.wikipedia.org/wiki/Brazilian_Sign_Language"
+---
+Brazilian Sign Language is the sign language used by deaf communities of Brazil. It is also known in short as Libras and variously abbreviated as LSB, LGB or LSCB.

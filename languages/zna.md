@@ -1,0 +1,17 @@
+---
+iso: zna
+name: Zan Gula
+autonym: Goula
+population: 5000
+country_id: TD
+country_name: Chad
+status_id: 6a
+latitude: 10.58847
+longitude: 19.14163
+glottocode: zang1249
+glottolog_family_id: atla1278
+glottolog_family_name: Atlantic-Congo
+glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Bua-Kim-Day > Adamawa Bua > Inland Bua > Goulaic > Zan-Kulaalic > Zan Gula"
+wikipedia_url: "https://en.wikipedia.org/wiki/Zan_Gula_language"
+---
+Zan Gula, or Zan, is an Adamawa language of Chad.

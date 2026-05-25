@@ -1,0 +1,23 @@
+---
+iso: brj
+name: Bieria
+autonym: Vovo
+population: 70
+country_id: VU
+country_name: Vanuatu
+status_id: 6b
+latitude: -16.78672
+longitude: 168.23249
+glottocode: bier1246
+glottolog_family_id: aust1307
+glottolog_family_name: Austronesian
+glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > North and Central Vanuatu > Central Vanuatu > Epi-Efate > Epi > Bieria-Maii > Bieria"
+wikipedia_url: "https://en.wikipedia.org/wiki/Bieria_language"
+rolv_dialects:
+  - rolv_code: 8135
+    language_tag: brj-x-HIS08135
+    name: "Bieria: Vovo"
+    country_id: VU
+    location: Vanuatu
+---
+Bieria is an Oceanic language spoken on Epi Island, in Vanuatu.

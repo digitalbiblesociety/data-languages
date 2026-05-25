@@ -1,0 +1,17 @@
+---
+iso: gwx
+name: Gua
+autonym: "Anum-Boso"
+population: 17600
+country_id: GH
+country_name: Ghana
+status_id: 6a
+latitude: 6.52106
+longitude: 0.16932
+glottocode: guaa1238
+glottolog_family_id: atla1278
+glottolog_family_name: Atlantic-Congo
+glottolog_classification: "Atlantic-Congo > Volta-Congo > Kwa Volta-Congo > Nyo > Potou-Tano > Tano > Guang > South Guang > Hill South Guang > Gua-Cherepon > Gua"
+wikipedia_url: "https://en.wikipedia.org/wiki/Gua_language"
+---
+Gua is a Guang language spoken in many parts of Ghana including the Gonja, in the northern Savannah Region, the Nchumurus in the Northern, Oti and Bono East Regions, the people of Larteh, Okere, Anum and Boso, the people of Winneba, Senya Beraku, Buem, Achode, Nkonya, Krachi, Santrokofi, Adele and Wuripong all in the Oti Region.

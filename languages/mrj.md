@@ -1,0 +1,29 @@
+---
+iso: mrj
+name: Western Mari
+autonym: Кырык мары йӹлмӹ
+population: 30000
+country_id: RU
+country_name: Russia
+status_id: "5"
+latitude: 57.08
+longitude: 58.83
+scripts: [Cyrl]
+glottocode: west2392
+glottolog_family_id: ural1272
+glottolog_family_name: Uralic
+glottolog_classification: "Uralic > Mari > Western Mari"
+wikipedia_url: "https://en.wikipedia.org/wiki/Hill_Mari_language"
+rolv_dialects:
+  - rolv_code: 13726
+    language_tag: mrj-x-HIS13726
+    name: "Mari, High: Kozymodemyan"
+    country_id: RU
+    location: Russia
+  - rolv_code: 13727
+    language_tag: mrj-x-HIS13727
+    name: "Mari, High: Yaran"
+    country_id: RU
+    location: Russia
+---
+Hill Mari or Western Mari is a Uralic language closely related to Northwestern Mari and Meadow Mari, in which Hill Mari forms a Western Mari group with the former.

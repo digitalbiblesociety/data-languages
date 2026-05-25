@@ -1,0 +1,28 @@
+---
+iso: ers
+name: Ersu
+autonym: "Bu'erci"
+population: 20000
+country_id: CN
+country_name: China
+status_id: "7"
+latitude: 29.28674
+longitude: 102.21339
+glottocode: ersu1241
+glottolog_family_id: sino1245
+glottolog_family_name: Sino-Tibetan
+glottolog_classification: "Sino-Tibetan > Burmo-Qiangic > Na-Qiangic > Ersuic > Ersu"
+wikipedia_url: "https://en.wikipedia.org/wiki/Ersu_language"
+rolv_dialects:
+  - rolv_code: 9646
+    language_tag: ers-x-HIS09646
+    name: Duoxu
+    country_id: CN
+    location: "China, Sichuan"
+  - rolv_code: 9647
+    language_tag: ers-x-HIS09647
+    name: Lizu
+    country_id: CN
+    location: "China, Sichuan"
+---
+The Ersu language proper is a Sino-Tibetan spoken in western Sichuan, China. It is the most widely spoken of the three Ersu languages. There are 13,000 speakers according to Sun (1982).

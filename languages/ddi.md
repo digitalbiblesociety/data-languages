@@ -1,0 +1,43 @@
+---
+iso: ddi
+name: West Goodenough
+autonym: West Goodenough
+population: 2180
+country_id: PG
+country_name: Papua New Guinea
+status_id: 6a
+latitude: -9.38654
+longitude: 150.16758
+glottocode: diod1237
+glottolog_family_id: aust1307
+glottolog_family_name: Austronesian
+glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > Papuan Tip linkage > Nuclear Papuan Tip linkage > North Papuan Mainland-D'Entrecasteaux linkage > Bwaidoga linkage > Diodio"
+wikipedia_url: "https://en.wikipedia.org/wiki/Diodio_language"
+rolv_dialects:
+  - rolv_code: 2219
+    language_tag: ddi-x-HIS02219
+    name: "Goodenough, West: Miufau"
+    country_id: PG
+    location: "Papua New Guinea, Milne Bay, Goodenough"
+  - rolv_code: 9305
+    language_tag: ddi-x-HIS09305
+    name: "Goodenough, West: Awale"
+    country_id: PG
+    location: "Papua New Guinea, Milne Bay"
+  - rolv_code: 9306
+    language_tag: ddi-x-HIS09306
+    name: "Goodenough, West: Central Diodio"
+    country_id: PG
+    location: "Papua New Guinea, Milne Bay"
+  - rolv_code: 9307
+    language_tag: ddi-x-HIS09307
+    name: "Goodenough, West: Iauiaula"
+    country_id: PG
+    location: "Papua New Guinea, Milne Bay"
+  - rolv_code: 9308
+    language_tag: ddi-x-HIS09308
+    name: "Goodenough, West: Utalo"
+    country_id: PG
+    location: "Papua New Guinea, Milne Bay"
+---
+Diodio, or West Goodenough, is an Austronesian language spoken in Milne Bay Province, Papua New Guinea, on Goodenough Island, which it shares with Bwaidoka, Iduna, and Kaninuwa.

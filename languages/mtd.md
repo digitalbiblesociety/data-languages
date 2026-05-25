@@ -1,0 +1,23 @@
+---
+iso: mtd
+name: Mualang
+autonym: Mualang
+population: 40000
+country_id: ID
+country_name: Indonesia
+status_id: "5"
+latitude: 0.31083
+longitude: 111.07699
+glottocode: mual1241
+glottolog_family_id: aust1307
+glottolog_family_name: Austronesian
+glottolog_classification: "Austronesian > Malayo-Polynesian > Malayo-Chamic > Malayic > Ibanic > Iban-Mualang-Seberuang > Mualang"
+wikipedia_url: "https://en.wikipedia.org/wiki/Mualang_language"
+rolv_dialects:
+  - rolv_code: 4875
+    language_tag: mtd-x-HIS04875
+    name: Gali
+    country_id: ID
+    location: "Indonesia, Kalimantan Barat"
+---
+Mualang is an Ibanic Dayak language of Borneo. It is mostly spoken by the Dayak Mualang in parts of the Sekadau Regency and Sintang Regency in Indonesia.

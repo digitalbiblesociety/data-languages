@@ -1,0 +1,17 @@
+---
+iso: mmk
+name: "Mukha-Dora"
+autonym: "Conta-Reddi"
+population: 29700
+country_id: IN
+country_name: India
+status_id: 6a
+latitude: 17.44672
+longitude: 81.56633
+glottocode: mukh1238
+glottolog_family_id: drav1251
+glottolog_family_name: Dravidian
+glottolog_classification: "Dravidian > South Dravidian > South Dravidian II > Teluguic > Mukha-Dora"
+wikipedia_url: "https://en.wikipedia.org/wiki/Mukha-Dora_language"
+---
+Mukha-Dora (Nuka-Dora) is one of the Dravidian languages spoken in India. It is spoken by a scheduled tribe, who use Telugu as their primary language. It is spoken by the eponymous Scheduled Tribe in the state of Andhra Pradesh, India.

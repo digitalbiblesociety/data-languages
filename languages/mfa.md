@@ -1,0 +1,39 @@
+---
+iso: mfa
+name: Pattani Malay
+autonym: Baso PattaniBaso Kelaté
+population: 1470000
+country_id: TH
+country_name: Thailand
+status_id: "5"
+latitude: 6.38148
+longitude: 101.4103
+scripts: [Arab]
+glottocode: patt1249
+glottolog_family_id: aust1307
+glottolog_family_name: Austronesian
+glottolog_classification: "Austronesian > Malayo-Polynesian > Malayo-Chamic > Malayic > Nuclear Malayic > Greater Riau-Johoric > Northeastern Peninsular Malay > Kelantan-Pattani Malay"
+wikipedia_url: "https://en.wikipedia.org/wiki/Kelantan%E2%80%93Pattani_Malay"
+rolv_dialects:
+  - rolv_code: 29783
+    language_tag: mfa-x-HIS29783
+    name: "Malay, Pattani: Kelantan"
+    country_id: TH
+    location: "Thailand, Southern, Narathiwat"
+  - rolv_code: 29784
+    language_tag: mfa-x-HIS29784
+    name: "Malay, Pattani: Pahang"
+    country_id: TH
+    location: "Thailand, Southern, Narathiwat"
+  - rolv_code: 29785
+    language_tag: mfa-x-HIS29785
+    name: "Malay, Pattani: Pattani-Nonthaburi"
+    country_id: TH
+    location: "Thailand, Southern, Narathiwat"
+  - rolv_code: 29786
+    language_tag: mfa-x-HIS29786
+    name: "Malay, Pattani: Terengganu"
+    country_id: TH
+    location: "Thailand, Southern, Narathiwat"
+---
+Kelantan–Pattani Malay is an Austronesian language of the Malayic subfamily spoken in the Malaysian state of Kelantan, as well as in Besut and Setiu districts of Terengganu state and the Perhentian Islands, and in the southernmost provinces of Thailand. It is the primary spoken language of Thai Malays and used as a lingua franca by ethnic Southern Thais in rural areas, Muslim and non-Muslim and the Sam-Sam, a mostly Thai-speaking population of mixed Malay and Thai ancestry.

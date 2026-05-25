@@ -1,0 +1,11 @@
+---
+iso: dgt
+name: "Ndra'ngith"
+autonym: Ndra’ngith
+population: null
+country_id: AU
+country_name: Australia
+status_id: "10"
+wikipedia_url: "https://en.wikipedia.org/wiki/Ndra%27ngith_language"
+---
+Ndra'ngith (Ntra'angith) is an extinct Australian language once spoken in the Cape York Peninsula of Queensland. Donohue (1991) identifies Ndra'ngith as the same dialect as Ntrwa'ngayth, but Sutton (2001) presents it as being distinct. Sutton also distinguishes it from the similar-sounding Ndrangith language and Ndwa'ngith language.

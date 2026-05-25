@@ -1,0 +1,18 @@
+---
+iso: hch
+name: Huichol
+autonym: Wixárika Niukiyari
+population: 52500
+country_id: MX
+country_name: Mexico
+status_id: "5"
+latitude: 21.95399
+longitude: -104.06228
+glottocode: huic1243
+glottolog_family_id: utoa1244
+glottolog_family_name: Uto-Aztecan
+glottolog_classification: "Uto-Aztecan > Southern Uto-Aztecan > Corachol-Aztecan > Corachol > Huichol"
+wikipedia_url: "https://en.wikipedia.org/wiki/Huichol_language"
+---
+The Huichol language is an indigenous language of Mexico which belongs to the Uto-Aztecan language family. It is spoken by the ethnic group widely known as the Huichol, whose mountainous territory extends over portions of the Mexican states of Jalisco, San Luis Potosí, Nayarit, Zacatecas, and Durango, mostly in Jalisco. 
+United States: La Habra, California; Houston, Texas. Under the 2003 Law on Indigenous Language Rights, the indigenous languages of Mexico along with Spanish are recognized as "national languages".

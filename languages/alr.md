@@ -1,0 +1,33 @@
+---
+iso: alr
+name: Alutor
+autonym: nəməlʔu
+population: 100
+country_id: RU
+country_name: Russia
+status_id: 8b
+latitude: 60.38443
+longitude: 165.65285
+glottocode: alut1245
+glottolog_family_id: chuk1271
+glottolog_family_name: Chukotko-Kamchatkan
+glottolog_classification: "Chukotko-Kamchatkan > Chukotian > Alutor"
+wikipedia_url: "https://en.wikipedia.org/wiki/Alyutor_language"
+rolv_dialects:
+  - rolv_code: 6911
+    language_tag: alr-x-HIS06911
+    name: "Alutor: Karaginskij"
+    country_id: RU
+    location: Russia
+  - rolv_code: 6912
+    language_tag: alr-x-HIS06912
+    name: "Alutor: Palanskij"
+    country_id: RU
+    location: Russia
+  - rolv_code: 20756
+    language_tag: alr-x-HIS20756
+    name: "Alutor: Alutorskij"
+    country_id: RU
+    location: Russia
+---
+Alyutor is a severely endangered language of Russia that belongs to the Chukotkan branch of the Chukotko-Kamchatkan languages, by the Alyutors. It is spoken by 172 speakers in the 2021 Russian census.

@@ -1,0 +1,17 @@
+---
+iso: bwy
+name: Cwi Bwamu
+autonym: Bwamu Twĩ
+population: 24000
+country_id: BF
+country_name: Burkina Faso
+status_id: 6a
+latitude: 11.41824
+longitude: -2.95115
+glottocode: cwib1235
+glottolog_family_id: atla1278
+glottolog_family_name: Atlantic-Congo
+glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Gur > Central Gur > Northern Central Gur > Bwamu-Oti-Volta > Bwamu > Nuclear Bwamu > Cwi Bwamu"
+wikipedia_url: "https://en.wikipedia.org/wiki/Cwi_Bwamu_language"
+---
+Cwi Bwamu, or simply Cwi (Twĩ), is a Gur language of Burkina Faso.

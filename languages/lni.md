@@ -1,0 +1,17 @@
+---
+iso: lni
+name: "Daantanai'"
+autonym: Daantanai’
+population: 600
+country_id: PG
+country_name: Papua New Guinea
+status_id: 6a
+latitude: -6.43363
+longitude: 155.74759
+glottocode: daan1235
+glottolog_family_id: sout2948
+glottolog_family_name: South Bougainville
+glottolog_classification: "South Bougainville > Nasioiic > Nasioi > South-Central Nasioi > South Nasioi > Daantanai'"
+wikipedia_url: "https://en.wikipedia.org/wiki/Daantanai%CA%BC_language"
+---
+Lantanai (Daantanaiʼ) is an East Papuan language spoken in the mountains of southern Bougainville Province, Papua New Guinea. It is spoken in Piruneuʼ and Warana villages.

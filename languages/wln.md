@@ -1,0 +1,39 @@
+---
+iso: wln
+name: Walloon
+autonym: walon
+population: 600000
+country_id: BE
+country_name: Belgium
+status_id: 6b
+latitude: 50.22351
+longitude: 5.14509
+scripts: [Latn]
+glottocode: wall1255
+glottolog_family_id: indo1319
+glottolog_family_name: Indo-European
+glottolog_classification: "Indo-European > Classical Indo-European > Italic > Latino-Faliscan > Latinic > Imperial Latin > Romance > Italo-Western Romance > Western Romance > Shifted Western Romance > Northwestern Shifted Romance > Gallo-Rhaetian > Oil > Walloon"
+wikipedia_url: "https://en.wikipedia.org/wiki/Walloon_language"
+rolv_dialects:
+  - rolv_code: 9899
+    language_tag: wa-x-HIS09899
+    name: "Walloon: Central"
+    country_id: BE
+    location: Belgium
+  - rolv_code: 9900
+    language_tag: wa-x-HIS09900
+    name: "Walloon: Eastern"
+    country_id: BE
+    location: Belgium
+  - rolv_code: 26514
+    language_tag: wa-x-HIS26514
+    name: "Walloon: Southern"
+    country_id: BE
+    location: Belgium
+  - rolv_code: 26515
+    language_tag: wa-x-HIS26515
+    name: "Walloon: Western"
+    country_id: BE
+    location: Belgium
+---
+Walloon is a Romance language that is spoken in much of Wallonia and, to a very small extent, in Brussels, Belgium; some villages near Givet, northern France; and a clutch of communities in northeastern Wisconsin, United States.

@@ -1,0 +1,43 @@
+---
+iso: bcu
+name: Awad Bing
+autonym: Biliau
+population: 1450
+country_id: PG
+country_name: Papua New Guinea
+status_id: "4"
+latitude: -5.59896
+longitude: 146.35521
+glottocode: awad1244
+glottolog_family_id: aust1307
+glottolog_family_name: Austronesian
+glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > North New Guinea linkage > Ngero-Vitiaz linkage > Vitiaz linkage > Bel-Roinji-Nenaya > Bel > Eastern Bel > Awad Bing"
+wikipedia_url: "https://en.wikipedia.org/wiki/Awad_Bing_language"
+rolv_dialects:
+  - rolv_code: 615
+    language_tag: bcu-x-HIS00615
+    name: "Awad Bing: Biliau"
+    country_id: PG
+    location: "Papua New Guinea, Madang"
+  - rolv_code: 7383
+    language_tag: bcu-x-HIS07383
+    name: "Awad Bing: Galeg"
+    country_id: PG
+    location: "Papua New Guinea, Madang"
+  - rolv_code: 7384
+    language_tag: bcu-x-HIS07384
+    name: "Awad Bing: Suit"
+    country_id: PG
+    location: "Papua New Guinea, Madang"
+  - rolv_code: 7385
+    language_tag: bcu-x-HIS07385
+    name: "Awad Bing: Yamai"
+    country_id: PG
+    location: "Papua New Guinea, Madang"
+  - rolv_code: 24342
+    language_tag: bcu-x-HIS24342
+    name: "Awad Bing: Yori"
+    country_id: PG
+    location: "Papua New Guinea, Madang"
+---
+Awad Bing, or Biliau, is an Austronesian language spoken by about 1,100 people in seven villages near Astrolabe Bay, Madang Province, Papua New Guinea. Almost all speakers also use Tok Pisin as a second language. Awad Bing is also spoken by a few Ngaing for trading purposes.

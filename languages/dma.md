@@ -1,0 +1,17 @@
+---
+iso: dma
+name: Duma
+autonym: Adouma
+population: 9840
+country_id: GA
+country_name: Gabon
+status_id: 6a
+latitude: -0.91927
+longitude: 13.00456
+glottocode: duma1253
+glottolog_family_id: atla1278
+glottolog_family_name: Atlantic-Congo
+glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > Central-Western Bantu > West-Coastal Bantu > Nzadic > Lweric > Dingic > Loange-Atlantic > Kwilu-Ngounie > Kasai-Ngounie > Moyen Kasai-Ngounie > Interior Kasai-Ngounie > West Kasai-Ngounie > Northwest Kasai-Ngounie > Nzebi-Laali-Yaa > Njebi (B.50) > Ndjavi B > Duma"
+wikipedia_url: "https://en.wikipedia.org/wiki/Duma_language"
+---
+Duma is a Bantu language spoken in Gabon.

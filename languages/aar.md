@@ -1,0 +1,39 @@
+---
+iso: aar
+name: Afar
+autonym: Qafar af
+population: 2541000
+country_id: ET
+country_name: Ethiopia
+status_id: "2"
+latitude: 12.228107
+longitude: 41.808293
+scripts: [Latn]
+glottocode: afar1241
+glottolog_family_id: afro1255
+glottolog_family_name: Afro-Asiatic
+glottolog_classification: "Afro-Asiatic > Cushitic > East Cushitic > Lowland East Cushitic > Saho-Afar > Afar"
+wikipedia_url: "https://en.wikipedia.org/wiki/Afar_language"
+rolv_dialects:
+  - rolv_code: 6708
+    language_tag: aa-x-HIS06708
+    name: "Afar: Aussa"
+    country_id: ET
+    location: Ethiopia
+  - rolv_code: 6709
+    language_tag: aa-x-HIS06709
+    name: "Afar: Baadu"
+    country_id: ET
+    location: Ethiopia
+  - rolv_code: 6711
+    language_tag: aa-x-HIS06711
+    name: "Afar: Central"
+    country_id: ET
+    location: Ethiopia
+  - rolv_code: 6712
+    language_tag: aa-x-HIS06712
+    name: "Afar: Northern"
+    country_id: ET
+    location: Ethiopia
+---
+Afar, also known as ’Afar af, Qafar af, or عَفَر أَف, is an Afroasiatic language belonging to the Cushitic branch, primarily spoken by the Afar people, native to parts of Djibouti, Eritrea and Ethiopia. It is an official language in Ethiopia; and a national language in Djibouti and Eritrea. Afar is officially written in the Latin script and has over 2.6 million speakers.

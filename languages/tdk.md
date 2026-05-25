@@ -1,0 +1,17 @@
+---
+iso: tdk
+name: Tambas
+autonym: Tambes
+population: 3000
+country_id: NG
+country_name: Nigeria
+status_id: 6a
+latitude: 9.36039
+longitude: 9.32836
+glottocode: tamb1267
+glottolog_family_id: afro1255
+glottolog_family_name: Afro-Asiatic
+glottolog_classification: "Afro-Asiatic > Chadic > West Chadic > West Chadic A > West Chadic A.4 > Fyer-Tambas > Tambas"
+wikipedia_url: "https://en.wikipedia.org/wiki/Tambas_language"
+---
+Tambas is a West Chadic language spoken in Plateau State, Nigeria.

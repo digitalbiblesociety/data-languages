@@ -1,0 +1,23 @@
+---
+iso: klx
+name: Koluwawa
+autonym: Kalokalo
+population: 900
+country_id: PG
+country_name: Papua New Guinea
+status_id: "5"
+latitude: -9.42742
+longitude: 150.46185
+glottocode: kolu1245
+glottolog_family_id: aust1307
+glottolog_family_name: Austronesian
+glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > Papuan Tip linkage > Nuclear Papuan Tip linkage > North Papuan Mainland-D'Entrecasteaux linkage > Bwaidoga linkage > Koluwawa"
+wikipedia_url: "https://en.wikipedia.org/wiki/Koluwawa_language"
+rolv_dialects:
+  - rolv_code: 2216
+    language_tag: klx-x-HIS02216
+    name: Kalo Kalo
+    country_id: PG
+    location: "Papua New Guinea, Milne Bay"
+---
+Koluwawa is an Austronesian language spoken in Milne Bay Province of Papua New Guinea.

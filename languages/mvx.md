@@ -1,0 +1,17 @@
+---
+iso: mvx
+name: Meoswar
+autonym: War
+population: 250
+country_id: ID
+country_name: Indonesia
+status_id: 6a
+latitude: -2.07828
+longitude: 134.37813
+glottocode: meos1237
+glottolog_family_id: aust1307
+glottolog_family_name: Austronesian
+glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > South Halmahera-West New Guinea > Cenderawasih Bay > Biakic > Meoswar"
+wikipedia_url: "https://en.wikipedia.org/wiki/Meoswar_language"
+---
+Meoswar is an Austronesian language of Cenderawasih Bay in the province of West Papua, Indonesia.

@@ -1,0 +1,12 @@
+---
+iso: okm
+name: "Middle Korean (10th-16th cent.)"
+autonym: 중세 한국어
+population: null
+country_id: KR
+country_name: South Korea
+status_id: null
+wikipedia_url: "https://en.wikipedia.org/wiki/Middle_Korean"
+---
+Middle Korean is the period in the history of the Korean language succeeding Old Korean and yielding to Early Modern Korean in the late 16th century.
+The boundary between the Old and Middle periods is traditionally identified with the establishment of Goryeo in 918 and the associated transition of the prestige dialect from the Southeast to the center of the peninsula, but some scholars have argued for the Mongol invasions of Korea in the mid-13th century. Middle Korean is divided into Early and Late periods corresponding to Goryeo and Joseon respectively.
