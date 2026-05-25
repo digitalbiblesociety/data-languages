@@ -1,7 +1,9 @@
 ---
 iso: mal
 name: Malayalam
+name_zh: 马拉雅拉姆语
 autonym: മലയാളം
+alt_names: [Bahasa Malayalam, Fiteny malayalam, Język malajalam, Kerala Portuguese Creole, Lingua Malabarica, Lingua malayalam, Língua malaiala, Malabar Indo-Portuguese Creole, Malaiàlam, Malajala lingvo, Malajalam, Malajalam jezik, Malajalių kalba, Malajalščina, Malajálam nyelv, Malajálamčina, Malajálamština, Malayalam simi, Malayalameg, Malayâlam, Malayâḷam, Malayāḷam, Malyalam, Малаялам, Малајалам језик, מלאיאלאם, لغة ماليالامية, مالايالامچە, މަލަޔާޅަމް, मलयालम भाषा, मलयाळम्‌, মালয়ালম ভাষা, મલયાલમ ભાષા, மலையாளம், మలయాళ భాష, ಮಲಯಾಳಂ, ภาษามาลายาลัม, მალაიალამი, ማላያላም, マラヤーラム語, 马拉雅南语, 马拉雅拉姆语, 말라얄람어]
 population: 37100000
 country_id: IN
 country_name: India

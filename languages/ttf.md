@@ -2,6 +2,7 @@
 iso: ttf
 name: Tuotomb
 autonym: Bonek
+alt_names: [Ponek, Tuotom, Tuotombo]
 population: 1000
 country_id: CM
 country_name: Cameroon

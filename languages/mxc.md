@@ -1,7 +1,9 @@
 ---
 iso: mxc
 name: Manyika
+name_zh: 马尼卡方言
 autonym: Chimanyika
+alt_names: [Bamanyeka, Manika, Wamanyika, Wanyika]
 population: 551000
 country_id: ZW
 country_name: Zimbabwe

@@ -1,7 +1,9 @@
 ---
 iso: jmc
 name: Machame
+name_zh: 马切姆语
 autonym: West Chaga
+alt_names: [Chaga, Chagga, Kimashami, Machambe]
 population: 195000
 country_id: TZ
 country_name: Tanzania

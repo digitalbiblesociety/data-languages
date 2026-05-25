@@ -2,6 +2,7 @@
 iso: ksy
 name: Kharia Thar
 autonym: null
+alt_names: [India]
 population: 25000
 country_id: IN
 country_name: India

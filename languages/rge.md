@@ -2,6 +2,7 @@
 iso: rge
 name: "Romano-Greek"
 autonym: Hellenoromani
+alt_names: [European Romany, Portuguese Calão, Romika]
 population: null
 country_id: GR
 country_name: Greece

@@ -1,7 +1,9 @@
 ---
 iso: wam
 name: Wampanoag
+name_zh: 麻薩諸塞語
 autonym: Massachusett unnontꝏwaonk
+alt_names: [Massachusett, Massachusett-Narragansett, Massachusetts, Natick, Wamponoag, Wôpanâak]
 population: 400
 country_id: US
 country_name: United States

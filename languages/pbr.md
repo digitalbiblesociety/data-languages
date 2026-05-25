@@ -2,6 +2,7 @@
 iso: pbr
 name: Pangwa
 autonym: Ekipangwa
+alt_names: [Kipangwa]
 population: 95100
 country_id: TZ
 country_name: Tanzania

@@ -2,6 +2,7 @@
 iso: skx
 name: Seko Padang
 autonym: Seko
+alt_names: [Sua Tu Padang, Wono]
 population: 5000
 country_id: ID
 country_name: Indonesia

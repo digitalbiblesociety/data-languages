@@ -1,7 +1,9 @@
 ---
 iso: dse
 name: Dutch Sign Language
+name_zh: 荷兰手语
 autonym: Nederlandse Gebarentaal (NGT)
+alt_names: [NGT, Nederlandse Gebarentaal, SLN, Sign Language of the Netherlands]
 population: 17300
 country_id: NL
 country_name: Netherlands

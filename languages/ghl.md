@@ -2,6 +2,7 @@
 iso: ghl
 name: Ghulfan
 autonym: Uncunwee
+alt_names: [Gulfan, Nubian (Hill), Wunci, Wuncimbe]
 population: 16000
 country_id: SD
 country_name: Sudan

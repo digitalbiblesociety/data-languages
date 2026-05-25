@@ -2,6 +2,7 @@
 iso: ckz
 name: "Cakchiquel-Quiché"
 autonym: Cakchiquel–Quiché Mixed Language
+alt_names: [Cakchiquel-Quiche Mixed Language, Cakchiquel-Quiché Mixed Language, Cauque Mixed Language, "Kaqchikel-K'iche' Mixed Language"]
 population: 2000
 country_id: GT
 country_name: Guatemala

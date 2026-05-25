@@ -2,6 +2,7 @@
 iso: bdt
 name: Bokoto
 autonym: Bhogoto
+alt_names: ["'Bokoto", Bogodo, Bogoto, Bokodo, Bokpoto, Gbanu, Gbaya, Gbeya, Kara, Southern Gbaya, Suma]
 population: 130000
 country_id: CF
 country_name: Central African Republic

@@ -2,6 +2,7 @@
 iso: low
 name: Tampias Lobu
 autonym: Lobu
+alt_names: ["Lobu, Tampias", Malaysia]
 population: 1800
 country_id: MY
 country_name: Malaysia

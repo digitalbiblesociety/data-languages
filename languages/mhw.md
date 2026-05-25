@@ -2,6 +2,7 @@
 iso: mhw
 name: Mbukushu
 autonym: Thimbukushu
+alt_names: [Cusso, Gova, Kusso, Mambukush, Mampukush, Mbukuhu, Mbukushi]
 population: 88300
 country_id: NA
 country_name: Namibia

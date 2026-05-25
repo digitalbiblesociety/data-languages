@@ -2,6 +2,7 @@
 iso: xpo
 name: Pochutec
 autonym: "Naguál, nawal"
+alt_names: [Idioma pochuteco, Mexicano, Nahuatl, Nahuatl (Pochutla), Pochuteeks, Pochutekisk, Pochuteko, Pochutl, Pochutla]
 population: null
 country_id: MX
 country_name: Mexico

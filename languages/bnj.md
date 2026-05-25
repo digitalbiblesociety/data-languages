@@ -2,6 +2,7 @@
 iso: bnj
 name: Eastern Tawbuid
 autonym: "Tawbuid, Eastern"
+alt_names: [Bangon, Barangan, Batangan, Binatangan, Fanawbuid, Suri, Tabuid, Taubuid, Tiron]
 population: 7190
 country_id: PH
 country_name: Philippines

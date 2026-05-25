@@ -2,6 +2,7 @@
 iso: ssc
 name: "Suba-Simbiti"
 autonym: Kisimbiti
+alt_names: [Kisuba]
 population: 113000
 country_id: TZ
 country_name: Tanzania

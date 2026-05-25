@@ -1,6 +1,7 @@
 ---
 iso: cls
 name: Classical Sanskrit
+name_zh: 古典梵语
 autonym: संस्कृत, संस्कृतम्
 country_id: IN
 country_name: India

@@ -2,6 +2,7 @@
 iso: kzw
 name: "Karirí-Xocó"
 autonym: Karirian
+alt_names: [Cariri, Caririan, Cariris, Carirí, Kariri, Kariri Xucó, Kariri languages, Kariri-Xoc, Kariri-Xoco, Karirí, Kipea, Kipea Kiriri, Kipeá, Kiriri, Kirirí, Lenguas karirí, Quipea, Quirirí, Sapuia, Sapuya, Xocó, Xokó, Xokó-Karirí, Xukuru Kariri, Xukurú]
 population: null
 country_id: BR
 country_name: Brazil

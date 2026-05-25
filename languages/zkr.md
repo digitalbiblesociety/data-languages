@@ -1,7 +1,9 @@
 ---
 iso: zkr
 name: Zakhring
+name_zh: 扎话
 autonym: Meyor
+alt_names: [Charumba, Zaiwa, Zha, 扎話, 扎語]
 population: 300
 country_id: CN
 country_name: China

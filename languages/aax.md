@@ -2,6 +2,7 @@
 iso: aax
 name: Mandobo Atas
 autonym: Dumut
+alt_names: ["\"Kaeti\"", Kaeti, Kambon, Kwem, Mandobbo, Nub, Wambon]
 population: 1000
 country_id: ID
 country_name: Indonesia

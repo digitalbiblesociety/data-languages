@@ -2,6 +2,7 @@
 iso: mmh
 name: Mehináku
 autonym: Mahinaku
+alt_names: [Aura, Mahinacu, Mehinaco, Mehinacu, Mehinacú, Mehinaku, Mehinakú, Meinaku, Minaco, Uara, Wauja, Waurá-Meinaku]
 population: 200
 country_id: BR
 country_name: Brazil

@@ -1,7 +1,9 @@
 ---
 iso: mus
 name: Creek
+name_zh: 克里克语
 autonym: Creek
+alt_names: [Creek-Seminole, Creekin kieli, Idioma creek, Język krik, Maskoke, Maskoki Proper, Maskoki simi, Muskogee, Muskogeeg, Muskoguí, Muskokee, Mvskoke, Northern Muskogean, Seminole, Крикский язык, 克里克语]
 population: 4300
 country_id: US
 country_name: United States

@@ -1,7 +1,9 @@
 ---
 iso: tah
 name: Tahitian
+name_zh: 塔希提语
 autonym: Reo TahitiReo Māꞌohi
+alt_names: [Idioma tahitiano, Język tahitański, Lengua tahitiann-a, Língua taitiana, Reo Tahiti, Tahiti, Tahiti simi, Tahitiaans, Tahitianische Sprache, Tahitieg, Tahitien, Tahitin kieli, Tahitisk, Tahitiska, Tahitià, Tahityan, Tahitïeg, Taitiečių kalba, Таитянский язык, Таіцянская мова, لغة تاهيتية, ‘Ōlelo Kahiki, タヒチ語, 타히티어]
 population: 68610
 country_id: PF
 country_name: French Polynesia

@@ -2,6 +2,7 @@
 iso: aba
 name: Abé
 autonym: Abbé
+alt_names: [Abbey, Abe, Abi, Abé jezik, Lenga Abé, Lingua abé]
 population: 268000
 country_id: CI
 country_name: "Côte d'Ivoire"

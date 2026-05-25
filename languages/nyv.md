@@ -2,6 +2,7 @@
 iso: nyv
 name: Nyulnyul
 autonym: null
+alt_names: [Kimberley Area Languages, Lenga nyulnyul, Ngulnyul, Niol Niol, Niol-Niol, Njolnjol, Njul Njul, Njul-Njul, Njulnjul, Nyolnyol, Nyool Nyool, Nyul nyul, Nyul-Nyul, Nyulnyul jezici, Yowera]
 population: null
 country_id: AU
 country_name: Australia

@@ -2,6 +2,7 @@
 iso: bjy
 name: Bayali
 autonym: Biyali
+alt_names: [Baiali, Bajali, Bayelle, Biele, Bieli, Byelle, Byellee, Byellel, Charumbul, Darambal, Darawal, Darumbal, Dharumbal, Guñmal, Koinjmal, Kooinmarburra, Kooinmerburra, Kuinmurbara, Kungalburra, Kungmal, Mamburra, Ningebal, Orambul, Tarumbal, Tarumbul, Tharumbal, Urambal, "Wandandian (?)", Warabal, Yetimarala]
 population: null
 country_id: AU
 country_name: Australia

@@ -1,7 +1,9 @@
 ---
 iso: zkt
 name: Kitan
+name_zh: 契丹语
 autonym: 51px
+alt_names: [Bahasa Khitan, Język kitański, Khitan, Khitan language, Kitaanin kieli, Kitaj nyelv, Liao, Кидански јазик, Кидань чĕлхи, Киданьский язык, ภาษาคีตัน, 거란어]
 population: null
 country_id: CN
 country_name: China

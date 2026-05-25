@@ -1,6 +1,7 @@
 ---
 iso: pmb
 name: Pambia
+name_zh: 潘比亞語
 autonym: Apambia
 population: 21000
 country_id: CD

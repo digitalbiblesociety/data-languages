@@ -2,6 +2,7 @@
 iso: spo
 name: Spokane
 autonym: Séliš (fla)Npoqínišcn (spo)
+alt_names: [Espokane, Flathead-Kalispel-Spokane, "Flathead-Pend d'Oreille-Spokane", Montana Salish-Kalispel-Spokane, "Montana Salish-Pend d'Oreille-Spokane", Npoqínišcn, Spokan, Spokane-Kalispel-Flathead]
 population: 1000
 country_id: US
 country_name: United States

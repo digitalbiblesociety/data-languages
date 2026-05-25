@@ -2,6 +2,7 @@
 iso: yac
 name: Pass Valley Yali
 autonym: Yalimo
+alt_names: [Abendago, North Ngalik, Pass Valley, Western Yali, Yali, "Yali, Pass Valley", Yaly]
 population: 5000
 country_id: ID
 country_name: Indonesia

@@ -2,6 +2,7 @@
 iso: byr
 name: Baruya
 autonym: Baruya
+alt_names: [Barua, Hipma, Yipma]
 population: 6600
 country_id: PG
 country_name: Papua New Guinea

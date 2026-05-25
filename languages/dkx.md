@@ -2,6 +2,7 @@
 iso: dkx
 name: Mazagway
 autonym: "Mazagway-Hidi"
+alt_names: [Daba]
 population: 17000
 country_id: CM
 country_name: Cameroon

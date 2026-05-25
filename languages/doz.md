@@ -2,6 +2,7 @@
 iso: doz
 name: Dorze
 autonym: null
+alt_names: [Dorzé, Geresé]
 population: 20800
 country_id: ET
 country_name: Ethiopia

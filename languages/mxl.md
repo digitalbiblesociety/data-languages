@@ -2,6 +2,7 @@
 iso: mxl
 name: Maxi Gbe
 autonym: fɔ̀ngbè/fõbè
+alt_names: ["Gbe, Maxi", Mahi, Maxi, Maxi-Gbe]
 population: 401000
 country_id: BJ
 country_name: Benin

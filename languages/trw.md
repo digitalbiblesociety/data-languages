@@ -1,7 +1,9 @@
 ---
 iso: trw
 name: Torwali
+name_zh: 托瓦利语
 autonym: Turvali
+alt_names: [Dardu, Torvalí, Torwālī]
 population: 114000
 country_id: PK
 country_name: Pakistan

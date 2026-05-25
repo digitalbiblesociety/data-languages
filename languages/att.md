@@ -2,6 +2,7 @@
 iso: att
 name: Pamplona Atta
 autonym: null
+alt_names: ["Atta, Pamplona", Northern Cagayan Negrito]
 population: 1000
 country_id: PH
 country_name: Philippines

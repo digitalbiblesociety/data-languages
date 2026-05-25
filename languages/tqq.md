@@ -1,7 +1,9 @@
 ---
 iso: tqq
 name: Tunni
+name_zh: 吞尼语
 autonym: "Af-Tunni"
+alt_names: [Tunni language]
 population: 23000
 country_id: SO
 country_name: Somalia

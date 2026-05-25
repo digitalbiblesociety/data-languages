@@ -2,6 +2,7 @@
 iso: hsl
 name: Hausa Sign Language
 autonym: Kano Sign Language
+alt_names: [Língua Gestual Hausa, Maganar Bebaye, Maganar Hannu]
 population: 20000
 country_id: NG
 country_name: Nigeria

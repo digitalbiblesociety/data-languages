@@ -2,6 +2,7 @@
 iso: tme
 name: Tremembé
 autonym: Teremembé
+alt_names: [Brazil, Tremembe]
 population: null
 country_id: BR
 country_name: Brazil

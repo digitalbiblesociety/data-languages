@@ -1,6 +1,7 @@
 ---
 iso: mlg
 name: Malagasy
+name_zh: 马达加斯加语
 autonym: مَلَغَسِ
 population: 25000000
 country_id: MG

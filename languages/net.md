@@ -2,6 +2,7 @@
 iso: net
 name: Nete
 autonym: Bisorio
+alt_names: [Iniai, Malamauda, Malaumanda]
 population: 750
 country_id: PG
 country_name: Papua New Guinea

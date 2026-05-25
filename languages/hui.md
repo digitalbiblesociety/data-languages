@@ -1,7 +1,9 @@
 ---
 iso: hui
 name: Huli
+name_zh: 胡里語
 autonym: Huli Wigman from Hela Province
+alt_names: [Bahuli, Huli-Hulidana, Huri, Lenga Huli, Urahuli]
 population: 200000
 country_id: PG
 country_name: Papua New Guinea

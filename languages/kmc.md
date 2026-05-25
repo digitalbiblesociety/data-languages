@@ -1,7 +1,9 @@
 ---
 iso: kmc
 name: Southern Dong
+name_zh: 侗语
 autonym: Gaeml
+alt_names: [Dong, "Dong, Southern", Gam, Kam, Tong, Tung, Tung-Chia]
 population: 1000000
 country_id: CN
 country_name: China

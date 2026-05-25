@@ -2,6 +2,7 @@
 iso: nua
 name: Yuanga
 autonym: Bondé
+alt_names: [Juanga, Neukaledonien, Nua, Nyua, Thuanga, Yuaga]
 population: 1990
 country_id: NC
 country_name: New Caledonia

@@ -2,6 +2,7 @@
 iso: lee
 name: Lyélé
 autonym: Lele
+alt_names: [Lyele]
 population: 213000
 country_id: BF
 country_name: Burkina Faso

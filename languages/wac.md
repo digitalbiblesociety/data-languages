@@ -2,6 +2,7 @@
 iso: wac
 name: "Wasco-Wishram"
 autonym: Kiksht
+alt_names: [Cathlamet, Chinook (Upper), Columbia Chinook, Kathlamet, Upper Chinook, Upper Chinookan, Wasco, Waskoeg-wichrameg, Wishram]
 population: null
 country_id: US
 country_name: United States

@@ -2,6 +2,7 @@
 iso: wrv
 name: Waruna
 autonym: null
+alt_names: [Ari-Waruna]
 population: 600
 country_id: PG
 country_name: Papua New Guinea

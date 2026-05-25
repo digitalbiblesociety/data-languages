@@ -2,6 +2,7 @@
 iso: blp
 name: Blablanga
 autonym: Gema
+alt_names: [Goi]
 population: 1770
 country_id: SB
 country_name: Solomon Islands

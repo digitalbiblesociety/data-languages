@@ -2,6 +2,7 @@
 iso: kqx
 name: Mser
 autonym: Kuseri
+alt_names: [Klesem, Kotoko-Kuseri, Kouseri, Kousseri, Mandage, Mandague, Mendage]
 population: 500
 country_id: CM
 country_name: Cameroon

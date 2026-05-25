@@ -1,7 +1,9 @@
 ---
 iso: cgg
 name: Chiga
+name_zh: 奇加语
 autonym: Chiga
+alt_names: [Ciga, Kiga, Kiga language, Língua rukiga, Nkore, Nkore-Kiga, Oluchiga, Orukiga, Rukiga]
 population: 2390000
 country_id: UG
 country_name: Uganda

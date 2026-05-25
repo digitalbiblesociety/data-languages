@@ -2,6 +2,7 @@
 iso: add
 name: Lidzonka
 autonym: Adere
+alt_names: [Adiri, Arderi, Dzodinka, Dzodzinka]
 population: 2600
 country_id: CM
 country_name: Cameroon

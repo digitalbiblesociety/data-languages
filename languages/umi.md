@@ -2,6 +2,7 @@
 iso: umi
 name: Ukit
 autonym: null
+alt_names: [Malaysia]
 population: 120
 country_id: MY
 country_name: Malaysia

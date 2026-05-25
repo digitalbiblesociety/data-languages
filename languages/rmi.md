@@ -1,7 +1,9 @@
 ---
 iso: rmi
 name: Lomavren
+name_zh: 羅美語
 autonym: Armenian Bosa
+alt_names: [Areminian Romany, Armenian Bosha, Arnebuab Bisa, Bosa, Bosha, Lomavrenski, Ломаврен, Լոմավրեն, ლომავრენი]
 population: 50
 country_id: AM
 country_name: Armenia

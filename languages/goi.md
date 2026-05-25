@@ -2,6 +2,7 @@
 iso: goi
 name: Gobasi
 autonym: Nomad
+alt_names: [Nomad Dialects, Samo]
 population: 1100
 country_id: PG
 country_name: Papua New Guinea

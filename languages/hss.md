@@ -1,7 +1,9 @@
 ---
 iso: hss
 name: Harsusi
+name_zh: 哈尔苏西语
 autonym: Harsiyyet
+alt_names: [Bahasa Harsusi, "Harsi `Aforit", Harsouseg, Harsusi hizkuntza, Hersyet, Ḥarsusi, Lenga Harsusi, South Arabian, اللغة الحرسوسية, Ḥarsusi, Ḥarsūsī]
 population: 600
 country_id: OM
 country_name: Oman

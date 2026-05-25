@@ -2,6 +2,7 @@
 iso: jku
 name: Labir
 autonym: Jaku
+alt_names: [Jakanci, Jakun]
 population: 13000
 country_id: NG
 country_name: Nigeria

@@ -1,7 +1,9 @@
 ---
 iso: mos
 name: Mossi
+name_zh: 莫西语
 autonym: Mooré
+alt_names: [Język mossi, Lingua more, Língua more, Mole, Moore, Mooren kieli, Moose, More, Morea lingvo, Moré, Moshi, Mòoré, Mòoré language, Мооре, モシ語]
 population: 7984800
 country_id: BF
 country_name: Burkina Faso

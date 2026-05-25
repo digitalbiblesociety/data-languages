@@ -2,6 +2,7 @@
 iso: xcy
 name: Cayuse
 autonym: Liksiyu
+alt_names: [Cailloux, Idioma cayuse, Willetpoos, Каюсе]
 population: null
 country_id: US
 country_name: United States

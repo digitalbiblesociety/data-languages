@@ -2,6 +2,7 @@
 iso: xmo
 name: Morerebi
 autonym: Kawahib
+alt_names: [Diahoi, Diahói, Diarroi, Djahui, Jiahui, Juma, Karipuna, Kawahib/Paranawat/Pawaté-Wirafed, Parintintín, Parintintín/Tenharim/Juma, Tenharim, Tenharím, Tukumanfed, Uru-eu-uau-uau, Yuma]
 population: 100
 country_id: BR
 country_name: Brazil

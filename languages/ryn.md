@@ -1,7 +1,9 @@
 ---
 iso: ryn
 name: "Northern Amami-Oshima"
+name_zh: 北奄美大島語
 autonym: Amami Ōshima
+alt_names: ["Amami-Oshima, Northern", Amami-Osima, Northern Amami-Osima, Northern Ryukyuan, Oosima, Oshima, Osima, Ryukyuan]
 population: 10000
 country_id: JP
 country_name: Japan

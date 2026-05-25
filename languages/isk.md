@@ -1,7 +1,9 @@
 ---
 iso: isk
 name: Ishkashimi
+name_zh: 伊什卡什米語
 autonym: škošmi zəvůk
+alt_names: [Eshkashimi, Eškāšmī, Ishkashim, Ishkashmi]
 population: 800
 country_id: AF
 country_name: Afghanistan

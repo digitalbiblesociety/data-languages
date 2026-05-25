@@ -2,6 +2,7 @@
 iso: wng
 name: Wanggom
 autonym: Wanggo
+alt_names: [Kombai, Wangom]
 population: 1180
 country_id: ID
 country_name: Indonesia

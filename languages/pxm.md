@@ -2,6 +2,7 @@
 iso: pxm
 name: Quetzaltepec Mixe
 autonym: Central Mixe
+alt_names: ["Mixe, Quetzaltepec"]
 population: 6700
 country_id: MX
 country_name: Mexico

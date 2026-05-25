@@ -2,6 +2,7 @@
 iso: jud
 name: Worodougou
 autonym: Malinke
+alt_names: [Bakokan, Ouorodougou, Worodougou Jula, Worodougoukakan, Worodugu]
 population: 115000
 country_id: CI
 country_name: "Côte d'Ivoire"

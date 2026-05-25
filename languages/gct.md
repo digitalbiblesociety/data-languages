@@ -1,7 +1,9 @@
 ---
 iso: gct
 name: Colonia Tovar German
+name_zh: 科洛尼亚托瓦尔方言
 autonym: Alemán Coloniero
+alt_names: [Aleman Kolonyero, Alemán Coloneiro, "German, Colonia Tovar", Koloni-alemana lingvo, Nýlendualemanníska, 알레만 콜로네이로어]
 population: 1500
 country_id: VE
 country_name: Venezuela

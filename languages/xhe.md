@@ -1,7 +1,9 @@
 ---
 iso: xhe
 name: Khetrani
+name_zh: 赫特兰语
 autonym: null
+alt_names: [Lahnda]
 population: 4000
 country_id: PK
 country_name: Pakistan

@@ -2,6 +2,7 @@
 iso: myz
 name: Classical Mandaic
 autonym: Mandāyì
+alt_names: [Classical Mandaean, Mandaic, "Mandaic, Classical"]
 population: null
 country_id: IR
 country_name: Iran

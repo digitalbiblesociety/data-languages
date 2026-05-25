@@ -2,6 +2,7 @@
 iso: lby
 name: Lamalama
 autonym: Mba Rumbathama
+alt_names: [Bakanambia, Barum Bathama, Korko Lama Lama, Lama-Lama, Lamu-Lamu, Lamulamul, Mba Rrumbathama, Mbarrumbathama]
 population: null
 country_id: AU
 country_name: Australia

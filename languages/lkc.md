@@ -1,7 +1,9 @@
 ---
 iso: lkc
 name: Kucong
+name_zh: 苦聪话
 autonym: Cosung
+alt_names: [Cosung (Chine), Cosung (Vietnam), Cosung (kucong), Lahlu, Lahu, 苦聰話]
 population: 45400
 country_id: VN
 country_name: Vietnam

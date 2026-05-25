@@ -2,6 +2,7 @@
 iso: rhp
 name: Yahang
 autonym: Ruruhip
+alt_names: ["Rurihi'ip", "Ruruhi'ip", Ruruhi’ip, "Ya'unk", Ya’unk]
 population: 1116
 country_id: PG
 country_name: Papua New Guinea

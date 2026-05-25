@@ -2,6 +2,7 @@
 iso: vag
 name: Vagla
 autonym: Konosarola
+alt_names: [Kira, Paxala, Siti, Sitigo, Vagala]
 population: 13900
 country_id: GH
 country_name: Ghana

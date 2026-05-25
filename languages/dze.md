@@ -2,6 +2,7 @@
 iso: dze
 name: Djiwarli
 autonym: Djiwali
+alt_names: [Djwarli, Dyiwarli, Guwari, Jivali, Jiwali, Jiwarli, Juwali, Kuwari, Tcheewarlee, Tci-warli, "Te:n", Teen, Tenma, Thiin, Tivali, Tjiwali, Tjiwarli]
 population: null
 country_id: AU
 country_name: Australia

@@ -1,7 +1,9 @@
 ---
 iso: rah
 name: Rabha
+name_zh: 拉巴语
 autonym: Rába katha
+alt_names: [Rava]
 population: 374000
 country_id: IN
 country_name: India

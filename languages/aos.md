@@ -2,6 +2,7 @@
 iso: aos
 name: Taikat
 autonym: Arso
+alt_names: [Abrap, Marap, Taigat, Tajkat]
 population: 500
 country_id: ID
 country_name: Indonesia

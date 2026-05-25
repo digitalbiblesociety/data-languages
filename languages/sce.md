@@ -1,7 +1,9 @@
 ---
 iso: sce
 name: Dongxiang
+name_zh: 东乡语
 autonym: لھجکءاءل
+alt_names: [Bahasa Dongxiang, Bahsa Dongxiang, Dongchiangeg, Dongxiangca, Donxiang, Dunshan, Dunsyan, Język santyjski, Santa, Tsung-hsiang, Tung, Tunghsiang, Дунсијански јазик, Дунсянский язык, دۇڭشياڭ تىلى, 东乡语, 東鄉語]
 population: 200000
 country_id: CN
 country_name: China

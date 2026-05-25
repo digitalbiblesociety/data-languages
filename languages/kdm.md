@@ -2,6 +2,7 @@
 iso: kdm
 name: Kagoma
 autonym: Kagoma
+alt_names: [Agoma, Gwong, Gyong, Kagoma (Gyong), Kwong]
 population: 25400
 country_id: NG
 country_name: Nigeria

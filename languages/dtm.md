@@ -2,6 +2,7 @@
 iso: dtm
 name: Tomo Kan Dogon
 autonym: Kan Dogon
+alt_names: [Dogon, "Dogon, Tomo Kan", Tomo-Kan]
 population: 133000
 country_id: ML
 country_name: Mali

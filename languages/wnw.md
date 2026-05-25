@@ -1,6 +1,7 @@
 ---
 iso: wnw
 name: Wintu
+name_zh: 溫騰語
 autonym: Northern Wintun
 population: 5
 country_id: US

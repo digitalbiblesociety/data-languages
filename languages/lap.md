@@ -2,6 +2,7 @@
 iso: lap
 name: Laka (Chad)
 autonym: Kabba Laka
+alt_names: [Laka]
 population: 57150
 country_id: TD
 country_name: Chad

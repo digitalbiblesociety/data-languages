@@ -2,6 +2,7 @@
 iso: yir
 name: North Awyu
 autonym: Awyu
+alt_names: ["Awyu, North", Djair, Dyair, Jair, Yair]
 population: 1500
 country_id: ID
 country_name: Indonesia

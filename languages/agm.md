@@ -2,6 +2,7 @@
 iso: agm
 name: Angaataha
 autonym: Angaatiya
+alt_names: [Angaatiha, Angataha, Langimar]
 population: 2500
 country_id: PG
 country_name: Papua New Guinea

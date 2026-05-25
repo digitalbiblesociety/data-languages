@@ -2,6 +2,7 @@
 iso: gha
 name: Ghadamès
 autonym: Ghadāmis
+alt_names: [Gadamés, Ghadames, Ghadamès jezik, Гхадамесский язык]
 population: 10000
 country_id: LY
 country_name: Libya

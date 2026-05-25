@@ -1,7 +1,9 @@
 ---
 iso: kfp
 name: Korwa
+name_zh: 科尔瓦语
 autonym: Koraku
+alt_names: [Ernga, Erngga, Mundari, Mundari-Ho, Singli]
 population: 28500
 country_id: IN
 country_name: India

@@ -1,7 +1,9 @@
 ---
 iso: bue
 name: Beothuk
+name_zh: 贝奥图克语
 autonym: Beothukan
+alt_names: [Beothuc, Bethuck, Bethuk, Newfoundland, Red Indians]
 population: null
 country_id: CA
 country_name: Canada

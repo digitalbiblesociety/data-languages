@@ -1,7 +1,9 @@
 ---
 iso: lbm
 name: Lodhi
+name_zh: 罗地语
 autonym: Lodha
+alt_names: [Lodi, Lohi, Lozi]
 population: 25000
 country_id: IN
 country_name: India

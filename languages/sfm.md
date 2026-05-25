@@ -1,7 +1,9 @@
 ---
 iso: sfm
 name: Small Flowery Miao
+name_zh: 小花苗语
 autonym: "Gha-Mu"
+alt_names: [Atse, Ghab-Mvb Ghab-Svd, Ghuab-Hmongb Ghuab-Soud, Hsiao Hwa Miao, "Miao, Small Flowery", Xiao Hua Miao]
 population: 84000
 country_id: CN
 country_name: China

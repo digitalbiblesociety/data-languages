@@ -1,7 +1,9 @@
 ---
 iso: ach
 name: Acoli
+name_zh: 阿乔利语
 autonym: Lwo
+alt_names: [Acholi, Acholi language, Acoli jezik, Acooli, Akoli, Atcholeg, Atscholi, Bahasa Acholi, Dok Acoli, Gang, Labwor, Log Acoli, Lwoo, Língua acholi, Shuli, Ачоли, アチョリ語]
 population: 1588000
 country_id: UG
 country_name: Uganda

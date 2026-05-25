@@ -2,6 +2,7 @@
 iso: gel
 name: "ut-Ma'in"
 autonym: Fakanchi
+alt_names: [Fakanci, Fakkanci, Kag-Fer-Jiir-Koor-Ror-Us-Zuksun, Puku-Geeri-Keri-Wipsi]
 population: 36000
 country_id: NG
 country_name: Nigeria

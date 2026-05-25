@@ -2,6 +2,7 @@
 iso: ted
 name: Tepo Krumen
 autonym: Kroumen
+alt_names: [Kru, Krumen, "Krumen, Tepo", Southern Krumen, Southwestern Kroumen]
 population: 33910
 country_id: CI
 country_name: "Côte d'Ivoire"

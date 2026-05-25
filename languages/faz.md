@@ -2,6 +2,7 @@
 iso: faz
 name: Northwestern Fars
 autonym: null
+alt_names: ["Fars, Northwestern"]
 population: 7500
 country_id: IR
 country_name: Iran

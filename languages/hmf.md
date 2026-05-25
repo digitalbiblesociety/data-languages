@@ -2,6 +2,7 @@
 iso: hmf
 name: Hmong Don
 autonym: lus Hmoob / lug Moob / lol Hmongb
+alt_names: [Ha Giang Province, Hmo, Hmong, Hmung, Hsiung, Hua Binh, Hunan Miao, Miao, Nghia Lo., YenBai]
 population: null
 country_id: VN
 country_name: Vietnam

@@ -2,6 +2,7 @@
 iso: swq
 name: Sharwa
 autonym: Sarwaye
+alt_names: [Sherwin, Tchevi]
 population: 5100
 country_id: CM
 country_name: Cameroon

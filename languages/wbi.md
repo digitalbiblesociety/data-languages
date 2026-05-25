@@ -2,6 +2,7 @@
 iso: wbi
 name: Vwanji
 autonym: Kivwanji
+alt_names: [Kiwanji, Wanji]
 population: 41800
 country_id: TZ
 country_name: Tanzania

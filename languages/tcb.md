@@ -1,7 +1,9 @@
 ---
 iso: tcb
 name: Tanacross
+name_zh: 塔納克羅斯語
 autonym: Neeʼaandegʼ
+alt_names: ["Nee'anděg'", Tanana, Tanana-Upper Kuskokwim, Transitional 2, Transitional Tanana]
 population: 120
 country_id: US
 country_name: United States

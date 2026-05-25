@@ -2,6 +2,7 @@
 iso: aab
 name: "Alumu-Tesu"
 autonym: Təsu
+alt_names: [Alumu, Arum-Cesu, Arum-Chessu, Arum-Tesu]
 population: 1000
 country_id: NG
 country_name: Nigeria

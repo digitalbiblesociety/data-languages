@@ -1,6 +1,7 @@
 ---
 iso: omn
 name: Minoan
+name_zh: 米诺斯语
 autonym: null
 population: null
 country_id: GR

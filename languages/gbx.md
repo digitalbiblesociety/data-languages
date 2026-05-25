@@ -2,6 +2,7 @@
 iso: gbx
 name: Eastern Xwla Gbe
 autonym: Xwla
+alt_names: ["Gbe, Eastern Xwla", Houla, Kpla, Offra, Ophra, Phla, Pla, Popo]
 population: 800000
 country_id: BJ
 country_name: Benin

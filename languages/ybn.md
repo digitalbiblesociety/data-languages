@@ -2,6 +2,7 @@
 iso: ybn
 name: Yabaâna
 autonym: Jabaana
+alt_names: [Yabaana, Yabarana, Yabaána]
 population: null
 country_id: BR
 country_name: Brazil

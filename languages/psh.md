@@ -1,7 +1,9 @@
 ---
 iso: psh
 name: Southwest Pashai
+name_zh: 西南帕沙伊语
 autonym: Pashai
+alt_names: [Dardu, "Pashai, Southwest", "Pashayi, Southwest", Southwest Pashayi, Southwestern Pašaī]
 population: 100000
 country_id: AF
 country_name: Afghanistan

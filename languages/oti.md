@@ -2,6 +2,7 @@
 iso: oti
 name: Oti
 autonym: Chavante
+alt_names: [Eochavante, Euchavante, Otí]
 population: null
 country_id: BR
 country_name: Brazil

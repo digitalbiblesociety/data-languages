@@ -2,6 +2,7 @@
 iso: mqz
 name: Pano
 autonym: Pano
+alt_names: [Malasanga, Malasanga language]
 population: 900
 country_id: PG
 country_name: Papua New Guinea

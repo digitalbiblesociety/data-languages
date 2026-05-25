@@ -1,7 +1,9 @@
 ---
 iso: swi
 name: Sui
+name_zh: 水语
 autonym: Suī
+alt_names: [Ai Sui, Shui, Sui Li, Suipo, ภาษาสุ่ย, 水語]
 population: 300120
 country_id: CN
 country_name: China

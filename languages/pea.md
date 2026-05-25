@@ -1,7 +1,9 @@
 ---
 iso: pea
 name: Peranakan Indonesian
+name_zh: 印尼峇峇話
 autonym: "Bahasa-Bahasa Melayu Dagang dan Kreol"
+alt_names: [Baba Indonesian, Chinese Indonesian, "Indonesian, Peranakan", Peranakan]
 population: 20000
 country_id: ID
 country_name: Indonesia

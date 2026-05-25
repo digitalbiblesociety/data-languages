@@ -2,6 +2,7 @@
 iso: pek
 name: Penchal
 autonym: null
+alt_names: [Admiralitäts-inseln]
 population: 550
 country_id: PG
 country_name: Papua New Guinea

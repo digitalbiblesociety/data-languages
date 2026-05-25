@@ -2,6 +2,7 @@
 iso: nyl
 name: Nyeu
 autonym: Kui
+alt_names: [Yeu, Yoe]
 population: 200
 country_id: TH
 country_name: Thailand

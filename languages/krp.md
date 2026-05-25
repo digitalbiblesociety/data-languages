@@ -2,6 +2,7 @@
 iso: krp
 name: Korop
 autonym: Korop
+alt_names: [Durop, Dyurop, Erorup, Kurop, Ododop]
 population: 10200
 country_id: NG
 country_name: Nigeria

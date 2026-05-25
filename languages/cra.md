@@ -2,6 +2,7 @@
 iso: cra
 name: Chara
 autonym: Ciara
+alt_names: ["C'ara"]
 population: 5556
 country_id: ET
 country_name: Ethiopia

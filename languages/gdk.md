@@ -2,6 +2,7 @@
 iso: gdk
 name: Gadang
 autonym: null
+alt_names: [Gadangeg, Gadango]
 population: 2500
 country_id: TD
 country_name: Chad

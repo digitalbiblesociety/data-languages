@@ -2,6 +2,7 @@
 iso: dtr
 name: Lotud
 autonym: Dusun Lotud
+alt_names: [Latod, Latud, Suang Lotud, Tuaran Dusun]
 population: 5000
 country_id: MY
 country_name: Malaysia

@@ -2,6 +2,7 @@
 iso: twr
 name: Southwestern Tarahumara
 autonym: "Rarámuri ra'ícha"
+alt_names: [Rocoroibo, South-western, Southwestern, Tarahumara, Tarahumara del Suroeste, Tarahumara nord-occidental, Tarahumara noroccidental, "Tarahumara, Southwestern", Taraumara, Tubare, Vorohio, Western]
 population: 100
 country_id: MX
 country_name: Mexico

@@ -1,7 +1,9 @@
 ---
 iso: lez
 name: Lezghian
+name_zh: 列兹金语
 autonym: "лезги чӏал lezgi č'al"
+alt_names: [Curali, Język lezgiński, Kiurinsty, Kiurinty, Lesgische Sprache, Lesguià, Lezga lingvo, Lezghi, Lezgi, Lezgian, Lezgian language, Lezgice, Lezgieg, Lezgin, Lezgin kieli, Lezgisch, Lezguien, Lezguio, Língua lezgui, lezghien, Лезгинский язык, Лезгиски јазик, Лезгінська мова, زبان لزگی, ภาษาเลซกี, 레즈긴어]
 population: 623700
 country_id: RU
 country_name: Russia

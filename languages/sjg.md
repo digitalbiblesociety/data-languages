@@ -2,6 +2,7 @@
 iso: sjg
 name: Assangori
 autonym: Assangori
+alt_names: [Asong, Asongori, Assagori, Assoungor, Asungore, Azangori, Azanguri, Bognak-Asungorung, Erenga, Madungore, Shaale, Soungor, Sungor, Sungor language]
 population: 23500
 country_id: TD
 country_name: Chad

@@ -2,6 +2,7 @@
 iso: cnu
 name: Chenoua
 autonym: Chenoua
+alt_names: [Chenoua jezik, Chenoueg, Chenoui, Idioma chenoua, Sheliff Basin, Shenowa, Shènoï, Tacenwit]
 population: 15250
 country_id: DZ
 country_name: Algeria

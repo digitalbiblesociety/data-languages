@@ -1,7 +1,9 @@
 ---
 iso: tet
 name: Tetum
+name_zh: 德顿语
 autonym: Tetun Prasa
+alt_names: [Bahasa Tetum, Bahasa Tetun, Basa Tetun, Belo, Belu, Fehan, Idioma tetun, Lenga Tetun, Lia-tetun, Lingua tetum, Teto, Tettum, Tetu, Tetum kalba, Tetuma lingvo, Tetumin kieli, Tetun, Tetun (Fehan), Tetun Belu, Tetung, Tetunu valoda, Tetwm, Tétoum, Tétum, Тетум, Тетун, ภาษาเตตุม, テトゥン語, 德顿语, 테툼어]
 population: 463500
 country_id: ID
 country_name: Indonesia

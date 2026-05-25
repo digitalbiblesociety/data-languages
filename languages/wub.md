@@ -2,6 +2,7 @@
 iso: wub
 name: Wunambal
 autonym: Jeidji
+alt_names: [Jeithi, Northern Language, Unambal, Woonambal, Wumnabal, Wunambul, Wunambullu, Wunumabal, Yeidji, Yeithi]
 population: null
 country_id: AU
 country_name: Australia

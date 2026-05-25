@@ -2,6 +2,7 @@
 iso: ulm
 name: "Ulumanda'"
 autonym: "Awo-Sumakuyu"
+alt_names: [Botteng-Tappalang, Kado, Nordost-Celebes, Oeloemanda, Tubbi, Ulumandak, Ulunda]
 population: 18000
 country_id: ID
 country_name: Indonesia

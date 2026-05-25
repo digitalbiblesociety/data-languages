@@ -2,6 +2,7 @@
 iso: qvl
 name: Cajatambo North Lima Quechua
 autonym: kichwa
+alt_names: ["\"quechua de Cajatambo, de Paso y de Junín septentrional.\"", Junín, "Quechua, Cajatambo North Lima", Quehcua de Cajatambo Pasco et du Junín nord, Tarma, Yaru]
 population: 2800
 country_id: PE
 country_name: Peru

@@ -2,6 +2,7 @@
 iso: aah
 name: "Abu' Arapesh"
 autonym: Ua
+alt_names: ["Abu'", Abu’ Arapesh, "Arapesh, Abu'"]
 population: 2560
 country_id: PG
 country_name: Papua New Guinea

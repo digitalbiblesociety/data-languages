@@ -2,6 +2,7 @@
 iso: lnu
 name: Longuda
 autonym: Nyà Núngúrá
+alt_names: [Group 10, Languda, Longura, Nunguda, Nungura, Nunguraba]
 population: 99000
 country_id: NG
 country_name: Nigeria

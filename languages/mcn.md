@@ -2,6 +2,7 @@
 iso: mcn
 name: Masana
 autonym: Masana
+alt_names: ["\"Banana\"", Banana, Llengua massa, Masa, Masana hizkuntza, Masana jezik, Masaneg, Massa, Massa language, Walia, Масаски език]
 population: 342000
 country_id: TD
 country_name: Chad

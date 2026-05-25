@@ -2,6 +2,7 @@
 iso: ati
 name: Attié
 autonym: Akie
+alt_names: [Akye, Atche, Atie, Atshe, Attie]
 population: 642000
 country_id: CI
 country_name: "Côte d'Ivoire"

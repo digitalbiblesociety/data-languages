@@ -2,6 +2,7 @@
 iso: vmr
 name: Marenje
 autonym: Emakuana
+alt_names: [Emarendje, Marendje]
 population: 588000
 country_id: MZ
 country_name: Mozambique

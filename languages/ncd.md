@@ -2,6 +2,7 @@
 iso: ncd
 name: Nachering
 autonym: Bangdale
+alt_names: [Bangdel Tûm, Bangdile, Mathsereng, Nacchhering, Nacering Ra, Nachereng, Nachering Tûm, Nacherín, Nacherēng, Nachiring, Nasring, Natśhereng, Nāchhēreng]
 population: 3550
 country_id: NP
 country_name: Nepal

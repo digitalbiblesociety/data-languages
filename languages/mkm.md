@@ -1,6 +1,7 @@
 ---
 iso: mkm
 name: Moklen
+name_zh: 莫克倫語
 autonym: Chau Pok
 population: 1500
 country_id: TH

@@ -2,6 +2,7 @@
 iso: ldj
 name: Lemoro
 autonym: Emoro
+alt_names: [Anemoro, Anowuru, Limoro, Limorro]
 population: 10000
 country_id: NG
 country_name: Nigeria

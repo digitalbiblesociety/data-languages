@@ -1,7 +1,9 @@
 ---
 iso: tso
 name: Tsonga
+name_zh: 聪加语
 autonym: Xitsonga
+alt_names: [Bahasa Tsonga, Changana, Conga lingvo, Gjuha tsonga, Gwamba, Idioma tsonga, Język tsonga, Lingua tsonga, Língua tsonga, Shangaan, Shangana, Shitsonga, Thonga, Tonga, Tsongan kieli, Tsongeg, Tsongum, Xichangana, Èdè Tsonga, Тсонга, Цонга, ツォンガ語]
 population: 6603500
 country_id: ZA
 country_name: South Africa

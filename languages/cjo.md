@@ -2,6 +2,7 @@
 iso: cjo
 name: Ashéninka Pajonal
 autonym: Campa
+alt_names: ["\"Campa\"", Ashaninca (Brésil), Ashaninka (Pérou), Asheninka Pajonal, Ashninca Pajonal, Asháninca, Ashéninca, Ashéninga, Atiri, Atsiri, Campa Pajonal Asheninca, Cogapacorí, Kampa, Nanti, Pajonal, Pajonal Ashéninka]
 population: 12000
 country_id: PE
 country_name: Peru

@@ -2,6 +2,7 @@
 iso: pez
 name: Eastern Penan
 autonym: Penan
+alt_names: ["\"Punan\"", "Penan, Eastern", Punan]
 population: 6400
 country_id: MY
 country_name: Malaysia

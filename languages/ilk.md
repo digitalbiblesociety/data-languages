@@ -2,6 +2,7 @@
 iso: ilk
 name: Ilongot
 autonym: Bugkalut
+alt_names: [Bukalot, Lingotes]
 population: 5710
 country_id: PH
 country_name: Philippines

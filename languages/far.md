@@ -2,6 +2,7 @@
 iso: far
 name: Fataleka
 autonym: null
+alt_names: [Südliche Salomons-Inseln]
 population: 6700
 country_id: SB
 country_name: Solomon Islands

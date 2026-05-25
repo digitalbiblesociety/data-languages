@@ -1,7 +1,9 @@
 ---
 iso: cdm
 name: Chepang
+name_zh: 切彭语
 autonym: "Chyo-bang"
+alt_names: [Chēpāng, Tsepang, Tśepang]
 population: 48500
 country_id: NP
 country_name: Nepal

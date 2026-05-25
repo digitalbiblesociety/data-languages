@@ -2,6 +2,7 @@
 iso: lrn
 name: Lorang
 autonym: null
+alt_names: [Aru]
 population: 320
 country_id: ID
 country_name: Indonesia

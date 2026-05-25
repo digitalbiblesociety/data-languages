@@ -2,6 +2,7 @@
 iso: blx
 name: "Mag-Indi Ayta"
 autonym: "Mag-indi"
+alt_names: ["Ayta, Mag-Indi", Baloga, Biloxi, Indi Ayta, Mag-Indi Sambal, ภาษามักอินดี]
 population: 5000
 country_id: PH
 country_name: Philippines

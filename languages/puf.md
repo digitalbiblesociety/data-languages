@@ -2,6 +2,7 @@
 iso: puf
 name: Punan Merah
 autonym: null
+alt_names: [Indonesia]
 population: 140
 country_id: ID
 country_name: Indonesia

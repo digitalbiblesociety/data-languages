@@ -2,6 +2,7 @@
 iso: pmq
 name: Northern Pame
 autonym: Pame del Norte
+alt_names: [Northern, Pame, "Pame, Northern", Pamean, Pamé septentrional, "Xi'iuy"]
 population: 5620
 country_id: MX
 country_name: Mexico

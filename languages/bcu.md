@@ -2,6 +2,7 @@
 iso: bcu
 name: Awad Bing
 autonym: Biliau
+alt_names: [Awad Gey, Bing, Samang, Semang, Sengam]
 population: 1450
 country_id: PG
 country_name: Papua New Guinea

@@ -2,6 +2,7 @@
 iso: sbr
 name: Sembakung Murut
 autonym: Tidong
+alt_names: [Sembakoeng, Sembakong, Simbakong, Tidoeng, Tidung, Tingalun, Tinggalan, Tinggalum]
 population: 3200
 country_id: ID
 country_name: Indonesia

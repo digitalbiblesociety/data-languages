@@ -2,6 +2,7 @@
 iso: uji
 name: Tanjijili
 autonym: Tanjijili
+alt_names: [Jijili, Koro Funtu of Kafin Koro, Koro Funtu of Minna, Koro of Shakoyi, Ujijili]
 population: 8540
 country_id: NG
 country_name: Nigeria

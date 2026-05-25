@@ -1,7 +1,9 @@
 ---
 iso: tyh
 name: "O'du"
+name_zh: 俄都语
 autonym: Ơ Đu
+alt_names: ["\"Tay Hat\"", "'Iduh", Haat, Hat, Iduh, O Du, Tay Hat]
 population: 300
 country_id: VN
 country_name: Vietnam

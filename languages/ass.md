@@ -2,6 +2,7 @@
 iso: ass
 name: Ipulo
 autonym: Assumbo
+alt_names: [Asumbo, Badzumbo]
 population: 2500
 country_id: CM
 country_name: Cameroon

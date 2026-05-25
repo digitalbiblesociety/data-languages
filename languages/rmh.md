@@ -2,6 +2,7 @@
 iso: rmh
 name: Murkim
 autonym: bahasa Murkim
+alt_names: [Indonesia]
 population: 290
 country_id: ID
 country_name: Indonesia

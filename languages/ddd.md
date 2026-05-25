@@ -2,6 +2,7 @@
 iso: ddd
 name: Dongotono
 autonym: Dongotono
+alt_names: [Dɔngɔtɔnɔ, Lorwama]
 population: 1000
 country_id: SS
 country_name: South Sudan

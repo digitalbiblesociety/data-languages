@@ -1,6 +1,7 @@
 ---
 iso: afg
 name: Afghan Sign Language
+name_zh: 阿富汗手语
 autonym: Jalalabad Sign Language
 population: 500
 country_id: AF

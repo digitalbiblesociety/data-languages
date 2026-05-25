@@ -2,6 +2,7 @@
 iso: noa
 name: Woun Meu
 autonym: Noanamá
+alt_names: [Chanco, Chocama, Huaunana, Noanama, Noenama, Nonama, Waumeo, Waumeo (Panamá), Waun Meo, Waunana, Waunana (Colombie), Waunana (Panama), Wounaan, Wouneg, Wounmeu]
 population: 10800
 country_id: CO
 country_name: Colombia

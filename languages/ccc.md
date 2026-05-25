@@ -1,7 +1,9 @@
 ---
 iso: ccc
 name: Chamicuro
+name_zh: 查米库罗语
 autonym: Chamicolo
+alt_names: [Chamekolo, Chamicura, Chamikuro, Chamikuru, Lingua chamicura, Tchamikoureg]
 population: 2
 country_id: PE
 country_name: Peru

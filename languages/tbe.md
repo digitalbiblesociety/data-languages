@@ -2,6 +2,7 @@
 iso: tbe
 name: Tanimbili
 autonym: Tanibili
+alt_names: [Nyisunggu]
 population: 15
 country_id: SB
 country_name: Solomon Islands

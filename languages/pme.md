@@ -2,6 +2,7 @@
 iso: pme
 name: Pwaamei
 autonym: Poamei
+alt_names: [Neukaledonien, Pwaamèi]
 population: 220
 country_id: NC
 country_name: New Caledonia

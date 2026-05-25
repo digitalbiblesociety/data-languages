@@ -2,6 +2,7 @@
 iso: ait
 name: Arikem
 autonym: Ariken
+alt_names: [Arikém, Ariqueme, Ariquemes, Ariquême]
 population: null
 country_id: BR
 country_name: Brazil

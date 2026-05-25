@@ -2,6 +2,7 @@
 iso: url
 name: Urali
 autonym: Oorazhi
+alt_names: [Uraly, Urli]
 population: null
 country_id: IN
 country_name: India

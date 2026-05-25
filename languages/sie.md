@@ -2,6 +2,7 @@
 iso: sie
 name: Simaa
 autonym: null
+alt_names: [Zambia]
 population: 19700
 country_id: ZM
 country_name: Zambia

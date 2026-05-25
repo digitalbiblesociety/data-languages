@@ -1,7 +1,9 @@
 ---
 iso: bzl
 name: Boano (Sulawesi)
+name_zh: 博亚诺语
 autonym: Bolano
+alt_names: [Boano, "Boano (Sulawesi, Indonesia)", Djidja]
 population: 2700
 country_id: ID
 country_name: Indonesia

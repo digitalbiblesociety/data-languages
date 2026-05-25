@@ -1,7 +1,9 @@
 ---
 iso: bmj
 name: "Bote-Darai"
+name_zh: 勃底語
 autonym: null
+alt_names: [Bote-Majhi, Kushar, Majhi]
 population: 11000
 country_id: NP
 country_name: Nepal

@@ -2,6 +2,7 @@
 iso: zmc
 name: Margany
 autonym: Southern Maric
+alt_names: [Gunya, Mandandanji, Maranganji, Maranj, Mardigan, Marganj, Marnganji, Marngany, Marrganj, Marukanji, Murgoan, Murgoin, Murngain]
 population: null
 country_id: AU
 country_name: Australia

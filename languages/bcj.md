@@ -2,6 +2,7 @@
 iso: bcj
 name: Bardi
 autonym: Baadi
+alt_names: ["Ba:d", "Ba:di", Baada, Baard, Baardi, Bad, Badi, Bard, Barda, Boardybahrde]
 population: 380
 country_id: AU
 country_name: Australia

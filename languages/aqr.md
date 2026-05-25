@@ -2,6 +2,7 @@
 iso: aqr
 name: Arhâ
 autonym: Ara
+alt_names: [Arha, Neukaledonien]
 population: 10
 country_id: NC
 country_name: New Caledonia

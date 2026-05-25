@@ -2,6 +2,7 @@
 iso: xta
 name: Alcozauca Mixtec
 autonym: "Mixteco, Xochapa"
+alt_names: [Alacatlatzala Mixtec, Central Misteko, Centreal Mixteco, Guerrero Mixtec, Highland Guerrero Mixtec, Metlatónoc Mixtec, "Mixtec, Alcozauca", Mixteco de Alacatlatzala, Mixteco de Alocozauca, Mixteco de Xochapa, Mixteco de Yoloxóchitl, To’on Savi, Yoloxóchitl Mixtec]
 population: 10000
 country_id: MX
 country_name: Mexico

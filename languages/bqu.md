@@ -2,6 +2,7 @@
 iso: bqu
 name: Boguru
 autonym: Boguru
+alt_names: [Buguru, Kogoro, Koguru]
 population: 490
 country_id: CD
 country_name: DR Congo

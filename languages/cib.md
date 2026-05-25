@@ -2,6 +2,7 @@
 iso: cib
 name: Ci Gbe
 autonym: fɔ̀ngbè/fõbè
+alt_names: [Ayizo-Ci, Ci, Cigbe, "Gbe, Ci", Tchi, Tschi]
 population: 25000
 country_id: BJ
 country_name: Benin

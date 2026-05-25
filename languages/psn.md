@@ -2,6 +2,7 @@
 iso: psn
 name: Panasuan
 autonym: To Panasean
+alt_names: [To Pamosean]
 population: 800
 country_id: ID
 country_name: Indonesia

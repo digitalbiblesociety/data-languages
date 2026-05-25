@@ -2,6 +2,7 @@
 iso: mbs
 name: Sarangani Manobo
 autonym: Sarangani Manobo
+alt_names: ["Manobo, Sarangani", Philippines]
 population: 58000
 country_id: PH
 country_name: Philippines

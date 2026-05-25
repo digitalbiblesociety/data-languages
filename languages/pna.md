@@ -2,6 +2,7 @@
 iso: pna
 name: "Punan Bah-Biau"
 autonym: "Bah-Biau"
+alt_names: [Malaysia]
 population: 450
 country_id: MY
 country_name: Malaysia

@@ -2,6 +2,7 @@
 iso: mvz
 name: Mesqan
 autonym: Masqan
+alt_names: [Meskan, Misqan, Mäsqan, Mäsqän]
 population: 25000
 country_id: ET
 country_name: Ethiopia

@@ -2,6 +2,7 @@
 iso: bbi
 name: Barombi
 autonym: Balombi
+alt_names: [Bankon, Barumbi, Lambi, Lombe, Lombi, Nkon, Rambi, Rombi, Rombi language]
 population: 3000
 country_id: CM
 country_name: Cameroon

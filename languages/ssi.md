@@ -2,6 +2,7 @@
 iso: ssi
 name: Sansi
 autonym: Sansiboli
+alt_names: [Bhilki]
 population: 80000
 country_id: IN
 country_name: India

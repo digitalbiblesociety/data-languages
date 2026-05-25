@@ -2,6 +2,7 @@
 iso: kcv
 name: Kete
 autonym: Kikete
+alt_names: [Lukete]
 population: 8400
 country_id: CD
 country_name: DR Congo

@@ -2,6 +2,7 @@
 iso: hba
 name: Hamba
 autonym: Ɔtɛtɛla
+alt_names: [Democratic Republic of the Congo]
 population: 13000
 country_id: CD
 country_name: DR Congo

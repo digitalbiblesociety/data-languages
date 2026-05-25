@@ -2,6 +2,7 @@
 iso: wos
 name: Hanga Hundi
 autonym: Hanga Hundi
+alt_names: [Kwasengen, West Wosera]
 population: 7200
 country_id: PG
 country_name: Papua New Guinea

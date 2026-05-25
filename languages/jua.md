@@ -2,6 +2,7 @@
 iso: jua
 name: Júma
 autonym: Kawahib
+alt_names: [Arara, Cabahyba, Cauaiua, Cauhib, Cawahib, Diahoi, Diahói, Diarroi, Djahui, Jauareta-Tapiia, Jiahui, Juma, Kagwahibm, Kagwahiph, Kagwahiv, Kagwahiva, Karipuna, Katauixi, Kavahiva, Kawahib/Paranawat/Pawaté-Wirafed, Kawahip, Kawaib, Paranawat, Parintintín, Parintintín/Tenharim/Juma, Pawaté-Wirafed, Tenharim, Tenharím, Tenharín, Tukumanfed, Uru-eu-uau-uau, Yuma, Yumá]
 population: 300
 country_id: BR
 country_name: Brazil

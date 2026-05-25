@@ -2,6 +2,7 @@
 iso: ptt
 name: Enrekang
 autonym: Endekan
+alt_names: [Endekan Timur, Nordost-Celebes]
 population: 94500
 country_id: ID
 country_name: Indonesia

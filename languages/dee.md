@@ -1,7 +1,9 @@
 ---
 iso: dee
 name: Dewoin
+name_zh: 代沃因语
 autonym: De
+alt_names: [Dei, Dewoi, Dey]
 population: 8100
 country_id: LR
 country_name: Liberia

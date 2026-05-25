@@ -2,6 +2,7 @@
 iso: tou
 name: Tho
 autonym: Hung (hnu)Thổ (tou)
+alt_names: [Cuoi, Cuoi Cham, Ho Muong Meridional, Keo]
 population: 75000
 country_id: VN
 country_name: Vietnam

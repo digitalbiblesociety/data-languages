@@ -1,7 +1,9 @@
 ---
 iso: shy
 name: Tachawit
+name_zh: 沙維雅語
 autonym: Chaouïa
+alt_names: [Aurès (Ait Frah), Awras, Awrās, Berber (Chaouia), Chaoui, Chaouia, Chaouia language, Chawi, Chawiyek, Lingua tashawit, Shaui, Shawia, Shawiya, Tacawit, Tachawit jezik, Xawia, Šavija]
 population: 2300000
 country_id: DZ
 country_name: Algeria

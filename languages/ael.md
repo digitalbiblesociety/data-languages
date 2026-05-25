@@ -2,6 +2,7 @@
 iso: ael
 name: Ambele
 autonym: null
+alt_names: [Ambala, "Bata'o", Lembala, "Tentwa'", Tinta]
 population: 2600
 country_id: CM
 country_name: Cameroon

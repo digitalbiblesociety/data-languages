@@ -2,6 +2,7 @@
 iso: ksp
 name: Kaba
 autonym: Kabba of Gore
+alt_names: [Kaba de Baibokoum, Kaba de Paoua, Kabba, Sara, Sara Kaba, Western Kaba]
 population: 142000
 country_id: CF
 country_name: Central African Republic

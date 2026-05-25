@@ -2,6 +2,7 @@
 iso: tgo
 name: Sudest
 autonym: Tagula
+alt_names: [Sud-Est, "Sud-Est, Tagula", Vanatina, Vanga]
 population: 2000
 country_id: PG
 country_name: Papua New Guinea

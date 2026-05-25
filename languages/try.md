@@ -1,7 +1,9 @@
 ---
 iso: try
 name: Turung
+name_zh: 土隆語
 autonym: Tai Turung
+alt_names: [Tailung, Tairong]
 population: 1000
 country_id: IN
 country_name: India

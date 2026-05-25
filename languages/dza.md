@@ -2,6 +2,7 @@
 iso: dza
 name: Tunzu
 autonym: Tunzuii
+alt_names: [Dugusa, Duguza]
 population: 2500
 country_id: NG
 country_name: Nigeria

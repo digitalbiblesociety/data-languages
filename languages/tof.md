@@ -2,6 +2,7 @@
 iso: tof
 name: Gizrra
 autonym: Gizra
+alt_names: [Toga]
 population: 1050
 country_id: PG
 country_name: Papua New Guinea

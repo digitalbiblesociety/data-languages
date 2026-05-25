@@ -2,6 +2,7 @@
 iso: okh
 name: "Koresh-e Rostam"
 autonym: Koresh-e Rostam
+alt_names: [Iran, Khoresh-e Rostam]
 population: null
 country_id: IR
 country_name: Iran

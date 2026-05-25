@@ -2,6 +2,7 @@
 iso: vko
 name: Kodeoha
 autonym: Kondea
+alt_names: [Kondeha]
 population: 1500
 country_id: ID
 country_name: Indonesia

@@ -2,6 +2,7 @@
 iso: ukp
 name: "Ukpe-Bayobiri"
 autonym: null
+alt_names: [Nigeria]
 population: 12000
 country_id: NG
 country_name: Nigeria

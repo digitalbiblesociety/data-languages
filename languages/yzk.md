@@ -1,6 +1,7 @@
 ---
 iso: yzk
 name: Zokhuo
+name_zh: "仆拉语?"
 autonym: Cowtail Phula
 population: 13000
 country_id: CN

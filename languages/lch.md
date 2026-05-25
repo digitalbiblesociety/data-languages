@@ -1,7 +1,9 @@
 ---
 iso: lch
 name: Luchazi
+name_zh: 卢查齐语
 autonym: Ngangela
+alt_names: [Chiluchazi, Cujazi, Lucazi, Lujash, Lujasi, Lujazi, Lutchaz, Lutshase, Luxage, Ponda]
 population: 431000
 country_id: AO
 country_name: Angola

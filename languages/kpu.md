@@ -2,6 +2,7 @@
 iso: kpu
 name: Kafoa
 autonym: Jafoo
+alt_names: [Afoa, Aikoli, Fanating, Pailelang, Ruilak]
 population: 1000
 country_id: ID
 country_name: Indonesia

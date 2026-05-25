@@ -2,6 +2,7 @@
 iso: hmu
 name: Hamap
 autonym: null
+alt_names: [Indonesia]
 population: 1290
 country_id: ID
 country_name: Indonesia

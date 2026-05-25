@@ -2,6 +2,7 @@
 iso: bus
 name: Bokobaru
 autonym: Bisã
+alt_names: [Busa-Bokobaru, Zongben, Zõgbe]
 population: 62000
 country_id: NG
 country_name: Nigeria

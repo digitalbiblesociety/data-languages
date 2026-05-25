@@ -2,6 +2,7 @@
 iso: tzn
 name: Tugun
 autonym: Wetar
+alt_names: [Mahuan, Tutunohan]
 population: 1200
 country_id: ID
 country_name: Indonesia

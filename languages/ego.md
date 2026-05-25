@@ -2,6 +2,7 @@
 iso: ego
 name: Eggon
 autonym: Onumu Egon
+alt_names: [Egon, Hill Mada, Mada Dutse, Mada Eggon, Mo Egon]
 population: 254000
 country_id: NG
 country_name: Nigeria

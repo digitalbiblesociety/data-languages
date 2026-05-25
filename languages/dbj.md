@@ -2,6 +2,7 @@
 iso: dbj
 name: "Ida'an"
 autonym: Begak
+alt_names: ["Begak-Ida'an", Begak-Idaan, Bulud Upi, Eraans, Idaan, Idahan, Idan, Idayan, Ida’an]
 population: 1500
 country_id: MY
 country_name: Malaysia

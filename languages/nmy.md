@@ -1,7 +1,9 @@
 ---
 iso: nmy
 name: Namuyi
+name_zh: 納木依語
 autonym: Namuyi
+alt_names: [Namuzi, 納木依, 納木義, 納木茲]
 population: 200
 country_id: CN
 country_name: China

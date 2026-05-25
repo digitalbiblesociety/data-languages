@@ -2,6 +2,7 @@
 iso: nss
 name: Nali
 autonym: null
+alt_names: [Admiralitäts-inseln, Yiru]
 population: 2900
 country_id: PG
 country_name: Papua New Guinea

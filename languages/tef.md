@@ -1,7 +1,9 @@
 ---
 iso: tef
 name: Teressa
+name_zh: 特雷沙语
 autonym: "Taih-Long"
+alt_names: [Luro, Pauhut, Powahat, Teressa-Bompoka, Təih-lɔng]
 population: 2080
 country_id: IN
 country_name: India

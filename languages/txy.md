@@ -2,6 +2,7 @@
 iso: txy
 name: Tanosy Malagasy
 autonym: malagasy
+alt_names: ["Malagasy, Tanosy"]
 population: 639000
 country_id: MG
 country_name: Madagascar

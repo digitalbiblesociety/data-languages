@@ -2,6 +2,7 @@
 iso: roc
 name: Cacgia Roglai
 autonym: "Ra-Glai"
+alt_names: ["Roglai, Cacgia"]
 population: 3000
 country_id: VN
 country_name: Vietnam

@@ -1,7 +1,9 @@
 ---
 iso: cpi
 name: Chinese Pidgin English
+name_zh: 洋泾浜英语
 autonym: "Melanesian-Chinese Mixed Pidgin English"
+alt_names: [China coast pidgin, Chiński pidżyn, Melanesian-Chinese Mixed Pidgin English in Nauru, NPP, Nauru Pacific Pidgin, "Pidgin English, Chinese", Pidginengelska, 洋泾浜英语]
 population: null
 country_id: NR
 country_name: Nauru

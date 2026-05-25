@@ -1,7 +1,9 @@
 ---
 iso: mhx
 name: Maru
+name_zh: 浪速语
 autonym: Lhao Vo
+alt_names: [Diso, Lang, "Lang'e", Langsu, Lansu, Laungaw, Laungwaw, Lawng, Lawngvaw, Lhaovo, Malu, Matu, Mulu, Nyky, Zi]
 population: 124500
 country_id: MM
 country_name: Myanmar

@@ -1,7 +1,9 @@
 ---
 iso: lbw
 name: Tolaki
+name_zh: 托拉吉语
 autonym: Laki
+alt_names: ["\"Akido\"", "\"Nahina\"", "\"Nehina\"", "\"Nohina\"", "\"Noie\"", "\"Noihe\"", Kolaka, Lalaki, Lolaki, "To'olaki"]
 population: 238000
 country_id: ID
 country_name: Indonesia

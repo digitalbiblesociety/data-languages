@@ -2,6 +2,7 @@
 iso: zbe
 name: East Berawan
 autonym: Long Jegan Berawan
+alt_names: ["Berawan, East", Long Jegan]
 population: 1100
 country_id: MY
 country_name: Malaysia

@@ -2,6 +2,7 @@
 iso: awi
 name: Aekyom
 autonym: Awin
+alt_names: [Aiwin, Akium, West Awin]
 population: 21100
 country_id: PG
 country_name: Papua New Guinea

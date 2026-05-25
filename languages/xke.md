@@ -2,6 +2,7 @@
 iso: xke
 name: Kereho
 autonym: Kereho
+alt_names: [Kereho-Uheng, Keriau Punan]
 population: 500
 country_id: ID
 country_name: Indonesia

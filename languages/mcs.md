@@ -2,6 +2,7 @@
 iso: mcs
 name: Mambai
 autonym: Mambay
+alt_names: [Mamgbay, Mamgbei, Manbai, Mangbai, Mangbaï de Biparé, Mangbei, Momboi, Mongbay]
 population: 10000
 country_id: CM
 country_name: Cameroon

@@ -1,7 +1,9 @@
 ---
 iso: pcc
 name: Bouyei
+name_zh: 布依语
 autonym: Giay (Yay)
+alt_names: [Bo-I, Bui, Buyei, Buyi, Buyui, Chung-Chia, Dioi, Giây, Nhang, Pu-I, Pu-Jui, Pui, Pujai, Puyi, Puyoi, Shuihu, Tujia, Yay, Zhongjia]
 population: 2664440
 country_id: CN
 country_name: China

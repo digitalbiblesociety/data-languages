@@ -1,6 +1,7 @@
 ---
 iso: cnr
 name: Montenegrin
+name_zh: 黑山语
 autonym: црногорски језик
 population: 232600
 country_id: ME

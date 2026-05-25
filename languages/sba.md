@@ -1,7 +1,9 @@
 ---
 iso: sba
 name: Ngambay
+name_zh: 甘拜语
 autonym: Gamba
+alt_names: [Gamb-Lai, Gambai, Gambaye, Gamblai, Ngambai, Sara, Sara Ngambai, Sara-Ngambay]
 population: 1377000
 country_id: TD
 country_name: Chad

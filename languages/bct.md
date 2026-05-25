@@ -2,6 +2,7 @@
 iso: bct
 name: Bendi
 autonym: Mabendi
+alt_names: [Mabeni]
 population: 32000
 country_id: CD
 country_name: DR Congo

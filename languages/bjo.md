@@ -2,6 +2,7 @@
 iso: bjo
 name: "Mid-Southern Banda"
 autonym: Banda Central Sud
+alt_names: [Banda, "Banda, Mid-Southern"]
 population: 102000
 country_id: CF
 country_name: Central African Republic

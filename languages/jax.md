@@ -1,7 +1,9 @@
 ---
 iso: jax
 name: Jambi Malay
+name_zh: 占碑馬來語
 autonym: Baso Jambi
+alt_names: ["Lenga Malay, Jambi", "Malay, Jambi"]
 population: 1000000
 country_id: ID
 country_name: Indonesia

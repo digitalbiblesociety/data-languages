@@ -2,6 +2,7 @@
 iso: ulf
 name: Usku
 autonym: Afra
+alt_names: [Usku language]
 population: 110
 country_id: ID
 country_name: Indonesia

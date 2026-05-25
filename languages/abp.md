@@ -2,6 +2,7 @@
 iso: abp
 name: Abellen Ayta
 autonym: Ayta Abellen
+alt_names: [Abellen language, Abenlen, Aburlin Negrito, Ayta Abenlen Sambal, "Ayta, Abellen", "Ayta, Abenlen", Sambal, ภาษาอาเบลเลน]
 population: 3000
 country_id: PH
 country_name: Philippines

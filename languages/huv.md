@@ -2,6 +2,7 @@
 iso: huv
 name: San Mateo Del Mar Huave
 autonym: Ombeayiiüts
+alt_names: [Huave, Huave (San Mateo del Mar), Huave de San Dionisio, Huave de San Dionisio del Mar, Huave de San Francisco del Mar, Huave de San Mateo del Mar, Huave de Santa María del Mar, "Huave, San Mateo del Mar", "San Francisco del Mar dialect is Maddieson's name", San Mateo, Wave, Wavi, apparent error]
 population: 11000
 country_id: MX
 country_name: Mexico

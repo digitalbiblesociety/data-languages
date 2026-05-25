@@ -1,7 +1,9 @@
 ---
 iso: pms
 name: Piemontese
+name_zh: 皮埃蒙特语
 autonym: piemontèis
+alt_names: [Bahasa Piedmont, Idioma piamontés, Idioma piemontés, Italian, Italian (Turinese), Język piemoncki, Lenga piemontèisa, Lengua piemonteise, Lengua piemuntesa, Lengua piemuntese, Lingua pedemontese, Lingua piemontesa, Lingua piemontese, Língua piemontesa, Phì-âi-mùng-thi̍t-ngî, Piamontés, Piedmontese, Piedmontese language, Piemont-gí, Piemonta lingvo, Piemontana linguo, Piemonten kieli, Piemontera, Piemontesische Sprache, Piemontesisk, Piemontesiska, Piemontish, Piemontès, Piemontés, Piemontês, Pijemontski jezik, Pinulongang Pyemontes, Piyemontece, Piémontais, Piëmontees, Piëmontisch, Pjemontiešu valoda, Pjemonto kalba, "П'ємонтська мова", Пьемонтский язык, פיימונטית, ภาษาพีดมอนต์, ፒድሞንትኛ, ピエモンテ語, 皮埃蒙特語]
 population: 700000
 country_id: IT
 country_name: Italy

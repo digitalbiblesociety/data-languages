@@ -2,6 +2,7 @@
 iso: boo
 name: Tiemacèwè Bozo
 autonym: Boso
+alt_names: ["Bozo, Tiemacèwè", "Bozo, Tièma Cièwè", Tiemacewe Bozo, Tièma Cièwè, Tié]
 population: 1315
 country_id: ML
 country_name: Mali

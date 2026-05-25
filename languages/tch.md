@@ -2,6 +2,7 @@
 iso: tch
 name: Turks And Caicos Creole English
 autonym: null
+alt_names: ["Creole English, Turks And Caicos"]
 population: 10700
 country_id: TC
 country_name: Turks and Caicos

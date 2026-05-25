@@ -1,7 +1,9 @@
 ---
 iso: fsl
 name: French Sign Language
+name_zh: 法国手语
 autonym: Langue des Signes Française
+alt_names: [FSL, Franca mansigna lingvo, LSF, Lengua de señas francesa, フランス手話]
 population: 103405
 country_id: FR
 country_name: France

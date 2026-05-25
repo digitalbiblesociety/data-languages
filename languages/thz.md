@@ -2,6 +2,7 @@
 iso: thz
 name: Tayart Tamajeq
 autonym: Tamajeq
+alt_names: [Amazigh, Tamachek, Tamacheq tahoua, Tamajekeg, "Tamajeq, Tayart", Tamazheq, Tomacheck, Touareg, Tuareg]
 population: 250000
 country_id: NE
 country_name: Niger

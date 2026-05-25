@@ -2,6 +2,7 @@
 iso: nrb
 name: Nara
 autonym: Barea
+alt_names: ["\"Barea\"", "\"Baria\"", "\"Barya\"", Barya, Higir, Koyta, Língua nara, Mogareb, Nara (in Ethiopia), Nera, Santora, Нара, Нара јазик]
 population: 103000
 country_id: ER
 country_name: Eritrea

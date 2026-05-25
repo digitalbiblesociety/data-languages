@@ -1,7 +1,9 @@
 ---
 iso: sar
 name: Saraveca
+name_zh: 萨拉维卡语
 autonym: "Sarave, Xaráy"
+alt_names: [Idioma yagán, Sarave, Saraveka, Zarabe]
 population: null
 country_id: BO
 country_name: Bolivia

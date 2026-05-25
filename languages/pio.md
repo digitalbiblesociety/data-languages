@@ -2,6 +2,7 @@
 iso: pio
 name: Piapoco
 autonym: Cháse
+alt_names: [Dzaze, Piapoko, Tsae]
 population: 6680
 country_id: CO
 country_name: Colombia

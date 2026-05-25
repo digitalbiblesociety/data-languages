@@ -1,6 +1,7 @@
 ---
 iso: svm
 name: Slavomolisano
+name_zh: 斯拉夫莫利塞语
 autonym: Molise Croatian
 population: 1000
 country_id: IT

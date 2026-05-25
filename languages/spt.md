@@ -1,7 +1,9 @@
 ---
 iso: spt
 name: Spiti Bhoti
+name_zh: 藏语斯比迪方言
 autonym: Spiti
+alt_names: ["Bhoti, Spiti", Piti Bhoti, SpitiBhoti, Spitian]
 population: 10000
 country_id: IN
 country_name: India

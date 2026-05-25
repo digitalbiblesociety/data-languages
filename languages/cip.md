@@ -2,6 +2,7 @@
 iso: cip
 name: Chiapanec
 autonym: Chiapaneco
+alt_names: [Chaipanec, Chiapaneko]
 population: null
 country_id: MX
 country_name: Mexico

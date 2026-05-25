@@ -2,6 +2,7 @@
 iso: kew
 name: West Kewa
 autonym: null
+alt_names: [Kewa, "Kewa, West", Pasuma, Western Kewa]
 population: 45000
 country_id: PG
 country_name: Papua New Guinea

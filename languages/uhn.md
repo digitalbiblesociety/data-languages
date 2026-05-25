@@ -2,6 +2,7 @@
 iso: uhn
 name: Damal
 autonym: Damal
+alt_names: [Amung, Amung Kal, Amungme, Amuy, Enggipiloe, Hamung, Oehoendoeni, Uhunduni, Uhunduní]
 population: 14000
 country_id: ID
 country_name: Indonesia

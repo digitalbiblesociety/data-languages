@@ -2,6 +2,7 @@
 iso: yig
 name: Wusa Nasu
 autonym: Eastern Yi
+alt_names: [Lolo, "Nasu, Wusa", "Nasu,Wusa", Southeastern Yi, Yi, "Yi, Guizhou"]
 population: 700000
 country_id: CN
 country_name: China

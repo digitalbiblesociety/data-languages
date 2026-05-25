@@ -2,6 +2,7 @@
 iso: foi
 name: Foi
 autonym: Foe
+alt_names: [Kutubu, Mubi River]
 population: 2800
 country_id: PG
 country_name: Papua New Guinea

@@ -2,6 +2,7 @@
 iso: ktd
 name: Kokata
 autonym: Wati
+alt_names: [Aluna, Cocotah, Cookutta, Geebera, Gogada, Gogoda, Gugada, Gugadja, Kakarrura, Keibara, Kikataja, Kokatha, Kokatja, Kokit ta, Kokit-ta, Kokitta, Koocatho, Koogatho, Koogathoo, Koogurda, Kookata, Kookatha, Kotit ta, Kotit-ta, Ku gurda, Ku-gurda, "Ku:gurda wongga", Kugurda, Kukada, Kukarta, Kukata, Kukataja, Kukatha, Kukatja, Madu wonga, Madu-wonga, Madun tara, Madun-tara, Madutara, Maduwonga, Maiuladjara, Maiulatara, Maiulatara for Matuntara, Matuntara, Nganitjiddia, Nganitjidi, Nganitjini, Wanggamadu, Wongamardu, Yallingarra, Yallingarra for Kokata]
 population: 16
 country_id: AU
 country_name: Australia

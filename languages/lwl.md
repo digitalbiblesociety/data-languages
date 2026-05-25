@@ -2,6 +2,7 @@
 iso: lwl
 name: Eastern Lawa
 autonym: Bo Luang Lawa
+alt_names: [Khalo, "La'wa", Lawa, "Lawa, Eastern", Mae Rim Lawa, Northern Lawa, Phalo, Phalok, Wiang Papao Lua]
 population: 7000
 country_id: TH
 country_name: Thailand

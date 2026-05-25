@@ -2,6 +2,7 @@
 iso: kez
 name: Kukele
 autonym: Kukelle
+alt_names: [Bakele, Ukele, Ukelle]
 population: 180000
 country_id: NG
 country_name: Nigeria

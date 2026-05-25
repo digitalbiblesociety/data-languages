@@ -2,6 +2,7 @@
 iso: lnj
 name: Leningitij
 autonym: Liningitij
+alt_names: [Adetingiti, Andyinit, Cabati, Ladamngid, Laini ngitti, Laini-ngitti, Latangeti, Latarngit, Leiningidi, Lenga leningitij, Leningit, Leningiti, Lenngeti, Lenngidgh, Linginiti, Lingitir, Linngidhigh, Linngithig, Linngithigh, Linngithigh language, Linngiti, Linŋit̯iγ, Ndraangit, Onnatangnit, Umngnity, Winda Winda, Winduwinda, not the same as Lengiti of Weipa]
 population: null
 country_id: AU
 country_name: Australia

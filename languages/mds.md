@@ -2,6 +2,7 @@
 iso: mds
 name: Maria (Papua New Guinea)
 autonym: Manubara
+alt_names: [Gebi, Maria, Maria language]
 population: 1350
 country_id: PG
 country_name: Papua New Guinea

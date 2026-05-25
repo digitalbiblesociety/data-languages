@@ -2,6 +2,7 @@
 iso: lji
 name: Laiyolo
 autonym: "Barang-Barang"
+alt_names: ["Da'ang"]
 population: 250
 country_id: ID
 country_name: Indonesia

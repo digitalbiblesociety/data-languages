@@ -2,6 +2,7 @@
 iso: lts
 name: Tachoni
 autonym: Lumasaba
+alt_names: [Lutachoni]
 population: null
 country_id: KE
 country_name: Kenya

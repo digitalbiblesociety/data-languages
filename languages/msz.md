@@ -2,6 +2,7 @@
 iso: msz
 name: Momare
 autonym: Momale
+alt_names: [Momole, Mumare]
 population: 650
 country_id: PG
 country_name: Papua New Guinea

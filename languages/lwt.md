@@ -2,6 +2,7 @@
 iso: lwt
 name: Lewotobi
 autonym: Lewotobi Lamaholot
+alt_names: [Southwest Lamaholot]
 population: 6000
 country_id: ID
 country_name: Indonesia

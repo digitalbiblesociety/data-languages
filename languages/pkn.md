@@ -2,6 +2,7 @@
 iso: pkn
 name: Pakanha
 autonym: Ayabakan
+alt_names: [Aiabakan, Ajabakan, Ajabatha, Aw Ayan, Baganu, Bakanh, Bakanha, Bakanu, Gugu Jan, Jan, Koko-Jan, Kokojan, Pakanh, Pakanhu, Uw Ayan, Uw-Ayan, Yir Mayan, YirrqMayvn, u]
 population: null
 country_id: AU
 country_name: Australia

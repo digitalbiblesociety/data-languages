@@ -1,7 +1,9 @@
 ---
 iso: tmo
 name: Temoq
+name_zh: 特莫克语
 autonym: null
+alt_names: [Ulu Indau]
 population: null
 country_id: MY
 country_name: Malaysia

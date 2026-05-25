@@ -1,6 +1,7 @@
 ---
 iso: xbn
 name: Kenaboi
+name_zh: 克纳博伊语
 autonym: null
 population: null
 country_id: MY

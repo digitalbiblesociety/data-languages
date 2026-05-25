@@ -1,7 +1,9 @@
 ---
 iso: zhn
 name: Nong Zhuang
+name_zh: 砚广壮语
 autonym: Kauqnuangz
+alt_names: [Kau Nong, Khaau Nong, Nong hua, Phu Nong, Phu Tei, Yan-Guang, Yan-Guang Southern Zhuang, Yenkuang, "Yung-ch'un", Yung-shun, Zhuang, "Zhuang, Nong", Zhuangyu Nanbu fanyan Yan-Guang tuyu]
 population: 600000
 country_id: CN
 country_name: China

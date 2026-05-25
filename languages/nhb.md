@@ -2,6 +2,7 @@
 iso: nhb
 name: Beng
 autonym: Ngain
+alt_names: [Ben, Ben (Gan), Gan, Ngan, Ngen, Ngin, Nguin]
 population: 17000
 country_id: CI
 country_name: "Côte d'Ivoire"

@@ -2,6 +2,7 @@
 iso: lum
 name: Luimbi
 autonym: Chiluimbi
+alt_names: [Luimbe, Lwimbe, Lwimbi]
 population: 43900
 country_id: AO
 country_name: Angola

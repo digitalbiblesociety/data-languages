@@ -2,6 +2,7 @@
 iso: wru
 name: Waru
 autonym: Mopute
+alt_names: [Mapute]
 population: 350
 country_id: ID
 country_name: Indonesia

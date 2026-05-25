@@ -2,6 +2,7 @@
 iso: knm
 name: Kanamarí
 autonym: "Katukina-Kanamari"
+alt_names: [Bendiapa, Beñdiapá, Canamari, Canamarí, Djapá, Dyapá, "Hondiapa/Hon-Dyapá)])", Kanamari, Kanamaré, Kanamarí) (perhaps the same as Tucundiapa (Tucano Dyapa, Paraua, Parawa, Southern Katukinan, "Tshom-Djapá [Txunhuã-Djapá]"]
 population: 1650
 country_id: BR
 country_name: Brazil

@@ -2,6 +2,7 @@
 iso: gna
 name: Kaansa
 autonym: Gan
+alt_names: [Gane, Gã, Kaan, Kaanse, Kan, Kpɔdɔɣo, Kãasa, Padorho]
 population: 6000
 country_id: BF
 country_name: Burkina Faso

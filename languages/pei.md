@@ -2,6 +2,7 @@
 iso: pei
 name: "Chichimeca-Jonaz"
 autonym: Jonaz
+alt_names: [Chichimec, Chichimeca, Chichimeca Jonaz language, Chichimeco, Chichimeko, Chichimèque, Meco, Pame de Chichimeca-Jonaz]
 population: 200
 country_id: MX
 country_name: Mexico

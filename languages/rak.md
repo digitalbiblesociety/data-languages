@@ -2,6 +2,7 @@
 iso: rak
 name: "Tulu-Bohuai"
 autonym: Bohuai
+alt_names: [Admiralitäts-inseln, Bohuai-Tulu, Bowai, Pahavai, Pelipowai, Pohuai]
 population: 1400
 country_id: PG
 country_name: Papua New Guinea

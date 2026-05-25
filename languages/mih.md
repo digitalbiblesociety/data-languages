@@ -2,6 +2,7 @@
 iso: mih
 name: Chayuco Mixtec
 autonym: "Cristobál-Chayuco"
+alt_names: [Eastern Jamiltepec-Chayuco Mixtec, Misteko, Mixtec, Mixtec (Chayuco), "Mixtec, Chayuco", Mixteco (Chayuco), Mixteco de Chayucu, Southern Misteko, Southern Mixteco]
 population: 10000
 country_id: MX
 country_name: Mexico

@@ -1,6 +1,7 @@
 ---
 iso: ykl
 name: Khlula
+name_zh: 科鲁拉语
 autonym: Alapha
 population: 21000
 country_id: CN

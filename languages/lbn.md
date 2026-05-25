@@ -1,7 +1,9 @@
 ---
 iso: lbn
 name: Rmeet
+name_zh: 拉墨语
 autonym: Rmeet
+alt_names: [Kamet, Kha, Kha Lamet, Kha-Lamet, Khamed, Khamet, Lamet, Le-Met, Lemet]
 population: 16700
 country_id: LA
 country_name: Laos

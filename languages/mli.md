@@ -2,6 +2,7 @@
 iso: mli
 name: Malimpung
 autonym: null
+alt_names: [Nordost-Celebes]
 population: 5000
 country_id: ID
 country_name: Indonesia

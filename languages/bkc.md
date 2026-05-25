@@ -2,6 +2,7 @@
 iso: bkc
 name: Baka (Cameroon)
 autonym: Babinga
+alt_names: ["\"Babinga\"", Baka, "Baka (East Region, Cameroon)", Baka (in Cameroon), Bayaga, Bayaka, Bebayaga, Bebayaka, Bibaya, Pygmee, "Pygmees de L'est", Pygmy-E]
 population: 15000
 country_id: CM
 country_name: Cameroon

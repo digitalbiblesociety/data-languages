@@ -1,7 +1,9 @@
 ---
 iso: sei
 name: Seri
+name_zh: 塞里語
 autonym: Cmiique Iitom
+alt_names: [Bahasa Seri, Idioma seri, Język seri, Língua seri, Serian, Serieg, Σέρι, Сери, セリ語]
 population: 750
 country_id: MX
 country_name: Mexico

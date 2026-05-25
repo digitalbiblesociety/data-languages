@@ -2,6 +2,7 @@
 iso: wsk
 name: Waskia
 autonym: null
+alt_names: [Vaskia, Woskia]
 population: 20000
 country_id: PG
 country_name: Papua New Guinea

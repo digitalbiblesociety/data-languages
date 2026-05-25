@@ -1,6 +1,8 @@
 ---
 iso: luh
 name: Leizhou Chinese
+name_zh: 雷州话
+alt_names: ["Chinese, Leizhou", Lei Hua, Leizhou, Li Hua]
 population: 2800000
 country_id: CN
 country_name: China

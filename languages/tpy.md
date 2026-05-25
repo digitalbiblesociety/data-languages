@@ -2,6 +2,7 @@
 iso: tpy
 name: Trumai
 autonym: ho kod ke
+alt_names: [Tramalhy, Trumaí]
 population: 100
 country_id: BR
 country_name: Brazil

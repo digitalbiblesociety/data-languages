@@ -2,6 +2,7 @@
 iso: yea
 name: Ravula
 autonym: Yerava
+alt_names: [Adiya, Adiyan, Iryavula, Panjiri Yerava, Yoruba]
 population: 26900
 country_id: IN
 country_name: India

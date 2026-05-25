@@ -2,6 +2,7 @@
 iso: kng
 name: Koongo
 autonym: Kikongo
+alt_names: [Cabinda, Congo, Fiote, Kikoongo, Kongo, South-Central Kikongo, West Kongo]
 population: 6236500
 country_id: CD
 country_name: DR Congo

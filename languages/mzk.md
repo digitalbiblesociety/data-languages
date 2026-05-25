@@ -2,6 +2,7 @@
 iso: mzk
 name: Nigeria Mambila
 autonym: Bang
+alt_names: [Lagubi, Mabila, Mambere, Mambila, "Mambila, Nigeria", Mambilla, Nor, Nor Tagbo, Tongbo]
 population: 55600
 country_id: NG
 country_name: Nigeria

@@ -2,6 +2,7 @@
 iso: zaa
 name: Sierra de Juárez Zapotec
 autonym: "Zapotec, Sierra de Juárez"
+alt_names: [Ixtlan, Ixtlán, Ixtlán Zapoteco, Northern Sapoteko, Sapoteko, Serrano, Sierra de Juarez, Sierra de Juarez Zapotec, Sierra de Juárez, Zapotec, Zapotec (Juárez), Zapoteco ( Juarez Sierra), Zapoteco de Atepec]
 population: 4000
 country_id: MX
 country_name: Mexico

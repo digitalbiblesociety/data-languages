@@ -2,6 +2,7 @@
 iso: zpe
 name: Petapa Zapotec
 autonym: (Santa María Petapa)
+alt_names: [Eastern Sapoteko, Eastern Zapotec, Petapa, Transyautepecan Zapotec, Transyautepecan Zapotec dialect continuum, Zapotec, "Zapotec, Petapa", Zapoteco de Petapa, Zapoteco de San Bartolo Yautepec, Zapoteco de Santa María Petapa, Zapoteco mixtepeco, Zapotèque de Mixtepe, Zapotèque de Petapa, Zapotèque de San Bartolo Yautepec]
 population: 220
 country_id: MX
 country_name: Mexico

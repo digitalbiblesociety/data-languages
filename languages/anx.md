@@ -2,6 +2,7 @@
 iso: anx
 name: "Andra-Hus"
 autonym: Ahus
+alt_names: [Admiralitäts-inseln, "Ha'us"]
 population: 1310
 country_id: PG
 country_name: Papua New Guinea

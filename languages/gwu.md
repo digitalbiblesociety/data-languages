@@ -2,6 +2,7 @@
 iso: gwu
 name: Guwamu
 autonym: Southern Maric
+alt_names: [Culgoa, Goamu, Gowamu, Gruwamu, Guamu, Guwa, Kaombal, Koambal, Koamu, Kooma, Kuam, Kuamu, Oamu]
 population: null
 country_id: AU
 country_name: Australia

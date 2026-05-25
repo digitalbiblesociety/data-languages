@@ -1,7 +1,9 @@
 ---
 iso: pnt
 name: Pontic
+name_zh: 旁狄希臘語
 autonym: ποντιακά
+alt_names: [Bahasa Yunani Pontus, Grec pontique, Gresianeg Pontos, Język pontyjski, Lingua pontica, Pontic Greek, Ponties, Pontisch, Pontische Sprache, Pontisk grekiska, Pontisk gresk, Pontus lehçesi, Pontčina, Póntico, Romeika, Romeyka, Rumca, Rumcika, Ποντιακή διάλεκτος, Ποντιακόν λαλίαν, Понтийски език, Понтийский язык, Понтиски јазик, Понтійська мова, 폰토스 그리스어]
 population: 778000
 country_id: GR
 country_name: Greece

@@ -1,7 +1,9 @@
 ---
 iso: yky
 name: Yakoma
+name_zh: 亚科马语
 autonym: null
+alt_names: [Sango]
 population: 110000
 country_id: CF
 country_name: Central African Republic

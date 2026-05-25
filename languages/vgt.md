@@ -1,7 +1,9 @@
 ---
 iso: vgt
 name: Vlaamse Gebarentaal
+name_zh: 弗拉芒手语
 autonym: Vlaamse Gebarentaal (VGT)
+alt_names: [Flemish Sign Language, North Belgium Sign Language, South Belgium Sign Language, VGT]
 population: 6000
 country_id: BE
 country_name: Belgium

@@ -2,6 +2,7 @@
 iso: peg
 name: Pengo
 autonym: Hengo
+alt_names: [Hengo Poraja, Jani, Muddali, Pango, Pango Paraja, Paraja, Pengu, Pengua]
 population: 350000
 country_id: IN
 country_name: India

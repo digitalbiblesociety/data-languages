@@ -1,7 +1,9 @@
 ---
 iso: mwf
 name: "Murrinh-Patha"
+name_zh: 穆林帕塔语
 autonym: Garama
+alt_names: [Bahasa Murrinh-patha, Garrama, Garramung, Karama, Karaman, Luenga murrinhpatha, Mariwada, Mariwuda, Marri-wutha, Murinbada, Murinbata, Murinhpatha, Murinjbada, Murinjpata, Murinkura, Murinpatha, Murinypata, Murrinhpatha, Murrinpatha, Murriny Patha, Nagor, Nangu]
 population: 1430
 country_id: AU
 country_name: Australia

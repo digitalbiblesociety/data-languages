@@ -2,6 +2,7 @@
 iso: ppt
 name: Pare
 autonym: Pare
+alt_names: [Akium-Pare, Pa]
 population: 6500
 country_id: PG
 country_name: Papua New Guinea

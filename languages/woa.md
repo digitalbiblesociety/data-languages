@@ -2,6 +2,7 @@
 iso: woa
 name: Kuwema
 autonym: Mullukmulluk
+alt_names: [Cherait, Cherite, Cherites, Dak Tjerratj, Daktjerat, Daktyerat, Daktyeraty, Dek Tjerratj, Dek Tjirratj, Djeradj, Djerag, Djeraidj, Djeraidy, Djerait, Djeraity, Djiratj, Dyeraidy, Guwe, Guwema, Jeerite, Kuwama, Nguluk Angguwe, Northern Daly language, Paperbark natives, Ponga Ponga, Ponga-ponga, Pungupungu, Scherits, Sherait, Tjerait, Tjerratj, Tjiras, Tyaraity, Tyeraity, Tyerratj, Tyerraty]
 population: null
 country_id: AU
 country_name: Australia

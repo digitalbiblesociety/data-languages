@@ -2,6 +2,7 @@
 iso: mku
 name: Konyanka Maninka
 autonym: Malinke
+alt_names: [Konianka, Konya, Konyakakan, "Maninka, Konyanka"]
 population: 559000
 country_id: GN
 country_name: Guinea

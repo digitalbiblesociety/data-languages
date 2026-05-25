@@ -2,6 +2,7 @@
 iso: nmm
 name: Manangba
 autonym: Nyishang
+alt_names: [Gurung, Manang, Manangbhot, Manangbolt, Manange, Manangi, Ngyeshang, Northern Gurung, Nyeshang, Nyeshangba]
 population: 3740
 country_id: NP
 country_name: Nepal

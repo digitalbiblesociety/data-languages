@@ -2,6 +2,7 @@
 iso: qxt
 name: Santa Ana de Tusi Pasco Quechua
 autonym: Kichwa
+alt_names: ["Quechua, Santa Ana de Tusi Pasco"]
 population: 10000
 country_id: PE
 country_name: Peru

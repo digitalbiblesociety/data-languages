@@ -1,7 +1,9 @@
 ---
 iso: lsi
 name: Lashi
+name_zh: 勒期语
 autonym: လရှီ / လချစ်
+alt_names: ["Ac'ye", Acye, Chashan, Chashanhua, Lachi, Lachik, Lachikwaw, Lacid, Lacik, Lashi-Maru, Lasi, "Lech'i", Lechi, Leqi, "Lets'i", Letsi, Maru, "Ngac'ang"]
 population: 31800
 country_id: MM
 country_name: Myanmar

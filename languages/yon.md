@@ -2,6 +2,7 @@
 iso: yon
 name: Yongkom
 autonym: Yongkom
+alt_names: [Iongom, Kate, "Kati (in West Papua, Indonesia)", "Northern Kati, Southern Kati", Yonggom, Yongom]
 population: 6000
 country_id: PG
 country_name: Papua New Guinea

@@ -2,6 +2,7 @@
 iso: sfe
 name: Eastern Subanen
 autonym: Subanon
+alt_names: ["Subanen, Eastern"]
 population: null
 country_id: PH
 country_name: Philippines

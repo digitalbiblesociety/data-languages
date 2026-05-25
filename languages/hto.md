@@ -2,6 +2,7 @@
 iso: hto
 name: Minica Huitoto
 autonym: Mɨnɨka
+alt_names: ["\"huitoto (Colombia, Perú)\"", "\"huitoto (Colombie, Pérou)\"", Huitoto, Huitoto (Brésil), Huitoto (Minica), Huitoto Meneca, "Huitoto, Minica", Meneca, Meneka, Meneka-Witoto, Minica, Mɨnɨca, Uitoto, Witoto, Witoto (Minica), Witoto Meneca, Witoto minica]
 population: 6800
 country_id: CO
 country_name: Colombia

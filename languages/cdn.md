@@ -2,6 +2,7 @@
 iso: cdn
 name: Chaudangsi
 autonym: Bangba Lo
+alt_names: [Bangba Lwo, Bangbani, Chandāngsī, Chanpa Lo, Chaudans Lo, Chaudāngsī, Sauka, Saukas, Shauka, Shaukas, Tsaudangsi, Tśaudangsi]
 population: 1830
 country_id: IN
 country_name: India

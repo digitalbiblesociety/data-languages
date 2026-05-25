@@ -1,7 +1,9 @@
 ---
 iso: doc
 name: Northern Dong
+name_zh: 北侗語
 autonym: Gaeml
+alt_names: [Dong, "Dong, Northern", Gam, Kam, Kam (Zhanglu), Tong, Tung, Tung-Chia, Zhanglu dialect]
 population: 2880000
 country_id: CN
 country_name: China

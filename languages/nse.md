@@ -2,6 +2,7 @@
 iso: nse
 name: Nsenga
 autonym: Chinsenga
+alt_names: [Cinsenga, Senga]
 population: 627100
 country_id: ZM
 country_name: Zambia

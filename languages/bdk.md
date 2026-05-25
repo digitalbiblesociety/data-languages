@@ -2,6 +2,7 @@
 iso: bdk
 name: Budukh
 autonym: Будад мез budad mez
+alt_names: [Boudoukh, Buduchische Sprache, Budug, Budugh, Budugi, Buduhin kieli, Buduj, Buduk, Buduq dili, Budux, Bukukhi, Język buduchyjski, budad mez, Будуська мова, будад мез, будугский язык, будухский язык]
 population: 1000
 country_id: AZ
 country_name: Azerbaijan

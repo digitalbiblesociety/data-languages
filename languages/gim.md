@@ -1,7 +1,9 @@
 ---
 iso: gim
 name: Gimi (Eastern Highlands)
+name_zh: 幾密語
 autonym: Labogai
+alt_names: [Gimi, Jimi]
 population: 23180
 country_id: PG
 country_name: Papua New Guinea

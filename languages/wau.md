@@ -2,6 +2,7 @@
 iso: wau
 name: Waurá
 autonym: Aura
+alt_names: [Mahinacu, Mehinakú, Mehináku, Uara, Uaura, Uaurá, Wauja, Waura, Waurá-Meinaku, Xinguan Group]
 population: 320
 country_id: BR
 country_name: Brazil

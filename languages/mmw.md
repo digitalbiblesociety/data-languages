@@ -2,6 +2,7 @@
 iso: mmw
 name: Emae
 autonym: Emai
+alt_names: [Emwae, Mae, Mai, Makatea, Mwae]
 population: 400
 country_id: VU
 country_name: Vanuatu

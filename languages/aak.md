@@ -1,7 +1,9 @@
 ---
 iso: aak
 name: Ankave
+name_zh: 安卡维
 autonym: Angave
+alt_names: [Ankave jezik]
 population: 1600
 country_id: PG
 country_name: Papua New Guinea

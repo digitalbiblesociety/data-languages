@@ -2,6 +2,7 @@
 iso: bcg
 name: Baga Pokur
 autonym: Baga Pokur
+alt_names: [Baga, Baga Binari, Baga Binari language, Baga Mboteni-Binari, Baga de Binari, Barka, Binareg, Binari, Kalum, Mborin, Pukur, Temne]
 population: 3000
 country_id: GN
 country_name: Guinea

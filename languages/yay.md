@@ -2,6 +2,7 @@
 iso: yay
 name: Agwagwune
 autonym: Agwagwune
+alt_names: ["\"Akunakuna\"", Agwaguna, Akunakuna, Akurakura, Gwune, Okurikan]
 population: 20000
 country_id: NG
 country_name: Nigeria

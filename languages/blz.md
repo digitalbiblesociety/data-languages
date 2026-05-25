@@ -1,7 +1,9 @@
 ---
 iso: blz
 name: Balantak
+name_zh: 巴兰塔克语
 autonym: Wurung Balantak
+alt_names: [Kosian]
 population: 19500
 country_id: ID
 country_name: Indonesia

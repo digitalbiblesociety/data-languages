@@ -2,6 +2,7 @@
 iso: gvj
 name: Guajá
 autonym: Awá
+alt_names: [Amanage, Amanajo, Amanajé, Amanayé, Anambé, Avá, Awá Guajá, Ayaya, Guaja, Guaxare, Guažá, "Ka'apór", Manajo, Manaxo, Manaze, Manazo, Urubú, Urubú-kaapor, Wazaizara]
 population: 370
 country_id: BR
 country_name: Brazil

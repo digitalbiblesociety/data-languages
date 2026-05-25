@@ -2,6 +2,7 @@
 iso: var
 name: Huarijio
 autonym: Varihío
+alt_names: [Guarijío, Guarijío del norte, Guarijío du nord, Huarijío, Huaríjo, Maculai, Maculái, Macurawe, Macurái, Varijío, Varohio, Vorijío, Warihío, Warijiyo]
 population: 1207
 country_id: MX
 country_name: Mexico

@@ -2,6 +2,7 @@
 iso: brr
 name: Birao
 autonym: Mbirao
+alt_names: [Guadalcanar, Südliche Salomons-Inseln]
 population: 5900
 country_id: SB
 country_name: Solomon Islands

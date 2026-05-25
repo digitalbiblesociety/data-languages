@@ -2,6 +2,7 @@
 iso: cdj
 name: Churahi
 autonym: भद्रवाही بھدرواہی
+alt_names: [Chaurahi, Churahi Pahari, Churai Pahari]
 population: 75600
 country_id: IN
 country_name: India

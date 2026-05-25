@@ -2,6 +2,7 @@
 iso: snw
 name: Selee
 autonym: Selee
+alt_names: [Bale, Santrokofi, Sele, Sentrokofi]
 population: 11300
 country_id: GH
 country_name: Ghana

@@ -1,7 +1,9 @@
 ---
 iso: knk
 name: Kuranko
+name_zh: 库兰科语
 autonym: null
+alt_names: [Koranko]
 population: 594000
 country_id: SL
 country_name: Sierra Leone

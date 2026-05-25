@@ -2,6 +2,7 @@
 iso: pzn
 name: Para Naga
 autonym: Jejara
+alt_names: [Bara Naga, Jejara Naga, Naga, "Naga, Jejara", "Naga, Para", "Naga,Para", Para, Parasar]
 population: 2000
 country_id: MM
 country_name: Myanmar

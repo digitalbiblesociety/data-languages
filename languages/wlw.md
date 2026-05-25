@@ -2,6 +2,7 @@
 iso: wlw
 name: Walak
 autonym: Lower Pyramid
+alt_names: [Wodo]
 population: 1500
 country_id: ID
 country_name: Indonesia

@@ -2,6 +2,7 @@
 iso: bju
 name: Busuu
 autonym: Awa
+alt_names: [Busú, Furu]
 population: null
 country_id: CM
 country_name: Cameroon

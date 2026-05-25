@@ -2,6 +2,7 @@
 iso: lmw
 name: Lake Miwok
 autonym: null
+alt_names: [Lake, Miwok, Miwok (Lake), Miwok du lac, "Miwok, Lake", Miwokano del lago]
 population: null
 country_id: US
 country_name: United States

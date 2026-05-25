@@ -2,6 +2,7 @@
 iso: twx
 name: Tewe
 autonym: Chimanyika
+alt_names: [Chiute, Ciute, Teve, Vateve, Wateve]
 population: 365000
 country_id: MZ
 country_name: Mozambique

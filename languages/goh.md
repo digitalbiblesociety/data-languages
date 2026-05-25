@@ -1,7 +1,9 @@
 ---
 iso: goh
 name: "Old High German (ca. 750-1050)"
+name_zh: 古高地德语
 autonym: Althochdeutsch
+alt_names: [Aldheechdútsk, Alt alemany antic, Alto alemão antigo, Alto tedesco antico, Antiguo alto alemán, Bahasa Jerman Hulu Kuna, Eald Hēah Þēodisc, Eski Yüksek Almanca, Gammelhøytysk, "German, Old High (ca. 750-1050)", "German, Old High (ca.750-1050)", High German, Język staro-wysoko-niemiecki, Malnovaltgermana lingvo, Old High German, Oldhøjtysk, Oudhoogduits, Vieux haut-allemand, "allemand, vieux haut (ca. 750-1050)", Древневерхненемецкий язык, Стар високогермански јазик, 古高ドイツ語, 古高地德語]
 population: null
 country_id: DE
 country_name: Germany

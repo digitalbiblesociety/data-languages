@@ -2,6 +2,7 @@
 iso: kyk
 name: Kamayo
 autonym: Davaweño
+alt_names: [Korean Sign Language]
 population: 153000
 country_id: PH
 country_name: Philippines

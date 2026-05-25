@@ -2,6 +2,7 @@
 iso: rin
 name: Nungu
 autonym: Rindiri
+alt_names: [Lindiri, Rendre, Rindre]
 population: 50000
 country_id: NG
 country_name: Nigeria

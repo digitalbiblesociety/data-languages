@@ -1,7 +1,9 @@
 ---
 iso: pht
 name: Phu Thai
+name_zh: 普泰语
 autonym: ภาษาผู้ไท
+alt_names: [Phutai, Phuu Thai, Putai, Puthai, Пхутайски език]
 population: null
 country_id: TH
 country_name: Thailand

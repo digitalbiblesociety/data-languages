@@ -2,6 +2,7 @@
 iso: mvt
 name: Mpotovoro
 autonym: Mpotovoro
+alt_names: [Botovro, Mallicolo]
 population: 430
 country_id: VU
 country_name: Vanuatu

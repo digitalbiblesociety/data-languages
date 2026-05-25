@@ -2,6 +2,7 @@
 iso: wsi
 name: Wusi
 autonym: Kula
+alt_names: [Wusi-Kerepua]
 population: 300
 country_id: VU
 country_name: Vanuatu

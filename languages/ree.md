@@ -2,6 +2,7 @@
 iso: ree
 name: Rejang Kayan
 autonym: Kajan
+alt_names: ["Kayan, Rejang", Rejang Kajan]
 population: 3030
 country_id: MY
 country_name: Malaysia

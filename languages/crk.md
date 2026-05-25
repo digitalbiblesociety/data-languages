@@ -1,7 +1,9 @@
 ---
 iso: crk
 name: Plains Cree
+name_zh: 平原克里語
 autonym: ᓀᐦᐃᔭᐍᐏᐣ / Nēhiyawēwin
+alt_names: [Clisteno de las llanuras, Cree, Cree (Plains), Cree des plaines, "Cree, Plains", "Kreeg ar c'hompezennoù", Nēhiyawēwin, Prærie-cree-språket, Western Cree, ᓀᐦᐃᔭᐍᐏᐣ]
 population: 3170
 country_id: CA
 country_name: Canada

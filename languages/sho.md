@@ -2,6 +2,7 @@
 iso: sho
 name: Shanga
 autonym: Shangawa
+alt_names: [Shonga, Shongawa]
 population: 5000
 country_id: NG
 country_name: Nigeria

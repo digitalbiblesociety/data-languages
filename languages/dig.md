@@ -2,6 +2,7 @@
 iso: dig
 name: Digo
 autonym: Chidigo
+alt_names: [Język digo, Kidigo]
 population: 576000
 country_id: KE
 country_name: Kenya

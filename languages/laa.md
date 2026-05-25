@@ -2,6 +2,7 @@
 iso: laa
 name: Southern Subanen
 autonym: Subanon
+alt_names: [Lapuyen, Margosatubig, Subanen, "Subanen, Southern", "Subanun, Lapuyan"]
 population: 25000
 country_id: PH
 country_name: Philippines

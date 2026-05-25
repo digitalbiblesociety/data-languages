@@ -2,6 +2,7 @@
 iso: pyn
 name: Poyanáwa
 autonym: Poyanáwa
+alt_names: [Poianáua, Poyanawa, Poyannawa, Puinahua, Puinaua, Puyanawa]
 population: 403
 country_id: BR
 country_name: Brazil

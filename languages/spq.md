@@ -1,7 +1,9 @@
 ---
 iso: spq
 name: "Loreto-Ucayali Spanish"
+name_zh: 洛雷托-烏卡亞利西班牙語
 autonym: "Loreto-Ucayali Spanish"
+alt_names: [Jungle Spanish, "Spanish, Loreto-Ucayali"]
 population: 2800
 country_id: PE
 country_name: Peru

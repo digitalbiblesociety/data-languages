@@ -2,6 +2,7 @@
 iso: leq
 name: Lembena
 autonym: Lembena Pii
+alt_names: [Nanimba Pii, Uyalipa Pii, Wapi Pii]
 population: 1760
 country_id: PG
 country_name: Papua New Guinea

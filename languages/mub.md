@@ -2,6 +2,7 @@
 iso: mub
 name: Mubi
 autonym: Moubi
+alt_names: [Minjile]
 population: 35300
 country_id: TD
 country_name: Chad

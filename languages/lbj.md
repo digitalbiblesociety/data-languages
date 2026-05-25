@@ -1,7 +1,9 @@
 ---
 iso: lbj
 name: Ladakhi
+name_zh: 拉达克语
 autonym: ལ་དྭགས་ཀྱི་སྐད།
+alt_names: [Bod Buṭun, Budhī, Język ladakhi, Ladak, Ladakheg, Ladakhische Sprache, Ladakhī, Ladakse skat, Ladaphi, Ladhakhi, Ladwags, Leh-Kenhat, Lingua Ladakhi, Mar-yul, Western, Western Tibetan, dialect of Leh, ภาษาลาดัก, ལ་དྭགས་སྐད།]
 population: 27000
 country_id: IN
 country_name: India

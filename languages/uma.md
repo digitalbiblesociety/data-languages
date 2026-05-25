@@ -2,6 +2,7 @@
 iso: uma
 name: Umatilla
 autonym: Columbia River Sahaptin
+alt_names: [Sahaptin, Sahaptin (Umatilla)]
 population: 120
 country_id: US
 country_name: United States

@@ -2,6 +2,7 @@
 iso: hoy
 name: Holiya
 autonym: Gohllaru
+alt_names: [Golari-Kannada, Holar, Holari, Hole, Holian, Holu]
 population: 500
 country_id: IN
 country_name: India

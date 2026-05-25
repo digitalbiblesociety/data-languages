@@ -2,6 +2,7 @@
 iso: ksi
 name: Krisa
 autonym: Krisa
+alt_names: ["I'saka", "I'saka language", Isaka, Krisa jezik, 이사카어]
 population: 420
 country_id: PG
 country_name: Papua New Guinea

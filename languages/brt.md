@@ -2,6 +2,7 @@
 iso: brt
 name: Bitare
 autonym: Njwande
+alt_names: [Yukutare]
 population: 52300
 country_id: NG
 country_name: Nigeria

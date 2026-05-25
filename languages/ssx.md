@@ -2,6 +2,7 @@
 iso: ssx
 name: Samberigi
 autonym: Sau
+alt_names: [Sanaberigi]
 population: 3130
 country_id: PG
 country_name: Papua New Guinea

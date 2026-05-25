@@ -2,6 +2,7 @@
 iso: tre
 name: East Tarangan
 autonym: East Trangan
+alt_names: [Aru, Tarangan Timur, "Tarangan, East"]
 population: 3780
 country_id: ID
 country_name: Indonesia

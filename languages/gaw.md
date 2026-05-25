@@ -2,6 +2,7 @@
 iso: gaw
 name: Nobonob
 autonym: Garuh
+alt_names: [Butelkud-Guntabak, Nobanob, Nobnob, Nupanob]
 population: 5000
 country_id: PG
 country_name: Papua New Guinea

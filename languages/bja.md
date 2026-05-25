@@ -2,6 +2,7 @@
 iso: bja
 name: Budza
 autonym: Buja
+alt_names: [Budja, Ebuja, Embudja, Limbudza, Mbudja]
 population: 226000
 country_id: CD
 country_name: DR Congo

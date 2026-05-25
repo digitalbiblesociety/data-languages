@@ -2,6 +2,7 @@
 iso: blw
 name: Balangao
 autonym: Balangaw
+alt_names: [Balangao Bontoc, Farangao]
 population: 11500
 country_id: PH
 country_name: Philippines

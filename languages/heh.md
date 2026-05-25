@@ -2,6 +2,7 @@
 iso: heh
 name: Hehe
 autonym: Kihehe
+alt_names: [Wahehe]
 population: 1210000
 country_id: TZ
 country_name: Tanzania

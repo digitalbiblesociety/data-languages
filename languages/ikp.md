@@ -2,6 +2,7 @@
 iso: ikp
 name: Ikpeshi
 autonym: Ekpeshe
+alt_names: [Ikpeshe]
 population: 5320
 country_id: NG
 country_name: Nigeria

@@ -1,7 +1,9 @@
 ---
 iso: buh
 name: Younuo Bunu
+name_zh: 優諾語
 autonym: Yuno
+alt_names: [Bunu, Bunu younuo, "Bunu, Younuo", Bunú yunuo, Hong Yao, Pu No, Pu Nu, Punu, Yao, Younuo, Yu-no, Yunuo, 優諾語]
 population: 9720
 country_id: CN
 country_name: China

@@ -2,6 +2,7 @@
 iso: cox
 name: Nanti
 autonym: Cogapacorill
+alt_names: ["\"Cogapacori\"", "\"Kogapakori\"", Ashaninca (Brésil), Ashaninka (Pérou), Asháninca, Ashéninga, Cogapacori, Cogapacorí, Kogapakori]
 population: 480
 country_id: PE
 country_name: Peru

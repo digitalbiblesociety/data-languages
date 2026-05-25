@@ -2,6 +2,7 @@
 iso: geb
 name: Kire
 autonym: Giri
+alt_names: [Gire, Kire-Puire]
 population: 2420
 country_id: PG
 country_name: Papua New Guinea

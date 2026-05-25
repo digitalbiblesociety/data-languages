@@ -1,7 +1,9 @@
 ---
 iso: com
 name: Comanche
+name_zh: 科滿車語
 autonym: Nʉmʉ Tekwapʉ̲
+alt_names: [Comanche dili, Idioma comanche, Komantcheg, Komančština, Língua comanche, Команчский язык, 코만치어]
 population: 8500
 country_id: US
 country_name: United States

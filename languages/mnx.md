@@ -2,6 +2,7 @@
 iso: mnx
 name: Manikion
 autonym: Manikion
+alt_names: [Mantion, Sogh, Sougb]
 population: 12000
 country_id: ID
 country_name: Indonesia

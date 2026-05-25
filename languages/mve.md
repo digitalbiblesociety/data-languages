@@ -2,6 +2,7 @@
 iso: mve
 name: Marwari (Pakistan)
 autonym: मारवाड़ी/مارواڑی‎
+alt_names: [Jaiselmer, Marawar, Marwari, Marwari Bhil, Marwari Meghwar, Merwari, Mewari, Rajasthani]
 population: 164000
 country_id: PK
 country_name: Pakistan

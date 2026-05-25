@@ -2,6 +2,7 @@
 iso: mbk
 name: Malol
 autonym: Malolo
+alt_names: [Malon]
 population: 3330
 country_id: PG
 country_name: Papua New Guinea

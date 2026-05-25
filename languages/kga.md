@@ -2,6 +2,7 @@
 iso: kga
 name: Koyaga
 autonym: Malinke
+alt_names: [Koya, Koyaa, Koyaga Jula, Koyagakan, Koyaka, Koyara]
 population: 84000
 country_id: CI
 country_name: "Côte d'Ivoire"

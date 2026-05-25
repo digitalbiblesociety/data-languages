@@ -2,6 +2,7 @@
 iso: cut
 name: Teutila Cuicatec
 autonym: "Cuicatec, Teutila"
+alt_names: [Cuica, Cuicatec, Cuicateco, Kwikateko, Teutila]
 population: 3140
 country_id: MX
 country_name: Mexico

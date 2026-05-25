@@ -1,7 +1,9 @@
 ---
 iso: kal
 name: Kalaallisut
+name_zh: 格陵兰语
 autonym: grønlandsk
+alt_names: [Bahasa Kalaallisut, Chheⁿ-tē-gú, East, East Greenlandic, Eskimo, Greenland Eskimo (East), Greenland Eskimo (West), Greenlandic, Greenlandic (East), Greenlandic (South), Greenlandic (West), Greenlandic Eskimo, Greenlandic Kalaallisut, Greenlandic language, Greenlynnish, Grenlandski jezik, Grenlandščina, Grenlandų kalba, Groenlandais, Groenlandiera, Groenlands, Groenlandés, Groenlandés occidental, Gronlanda lingvo, Grænlenska, Grónčina, Grónština, Grönlandi nyelv, Grönlandšćina, Grönlannin kieli, Grönländische Sprache, Grönländska, Grønlandsk språk, Grønlendskt mál, Idioma groenlandés, Inuit, Inuktitut, "Inuktitut, Greenlandic", Inupiat, Język grenlandzki, Kalalit simi, Lingua Groenlandica, Lingua grenlandesa, Lingua groenlandese, Lingua groenlannisa, Língua groenlandesa, S Greenlandic, S. Greenlandic, South, South Greenlandic, Tasiilaq, Tunumiit oraasiat, W Greenlandic, W. Greenlandic, West Greenlandic, Гренландски език, Гренландски језик, Гренландский язык, Гренландська мова, גרינלנדית, لغة جرينلاندية, ग्रीनलैंडिक भाषा, ภาษากะลาลลิซุต, გრენლანდიური ენა, グリーンランド語, 格陵兰语, 그린란드어]
 population: 57000
 country_id: GL
 country_name: Greenland

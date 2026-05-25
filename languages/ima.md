@@ -2,6 +2,7 @@
 iso: ima
 name: Mala Malasar
 autonym: Maha Malasar
+alt_names: [Malai Malasar, "Malasar, Mala", Malasir]
 population: 1000
 country_id: IN
 country_name: India

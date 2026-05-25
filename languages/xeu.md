@@ -2,6 +2,7 @@
 iso: xeu
 name: "Keoru-Ahia"
 autonym: "Lower Ahia - Kouri"
+alt_names: [Belepa, Haura, Haura Haela, Keuro, Keuru]
 population: 194
 country_id: PG
 country_name: Papua New Guinea

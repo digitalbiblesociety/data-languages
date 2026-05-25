@@ -2,6 +2,7 @@
 iso: vnp
 name: Vunapu
 autonym: null
+alt_names: [Vanuatu]
 population: 380
 country_id: VU
 country_name: Vanuatu

@@ -2,6 +2,7 @@
 iso: mbh
 name: Mangseng
 autonym: null
+alt_names: [Mangsing, Masegi, Maseki]
 population: 2500
 country_id: PG
 country_name: Papua New Guinea

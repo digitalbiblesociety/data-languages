@@ -2,6 +2,7 @@
 iso: mry
 name: Mandaya
 autonym: Caraga
+alt_names: [Carraga Mandaya, Karaga Mandaya, Manay Mandayan, "Mandaya, Karaga", Mangaragan Mandaya]
 population: 3000
 country_id: PH
 country_name: Philippines

@@ -2,6 +2,7 @@
 iso: udu
 name: Uduk
 autonym: "T'wampa"
+alt_names: [Burun, Kebeirka, Korara, Kumus, Kwanim Pa, Othan, Twampa]
 population: 22000
 country_id: SD
 country_name: Sudan

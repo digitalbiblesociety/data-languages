@@ -2,6 +2,7 @@
 iso: bvc
 name: Baelelea
 autonym: Mbaelelea
+alt_names: [Südliche Salomons-Inseln]
 population: 8800
 country_id: SB
 country_name: Solomon Islands

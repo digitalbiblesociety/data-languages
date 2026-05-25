@@ -2,6 +2,7 @@
 iso: nnu
 name: Dwang
 autonym: Nchumunu
+alt_names: [Dwan, Guang]
 population: 1600
 country_id: GH
 country_name: Ghana

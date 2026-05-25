@@ -1,7 +1,9 @@
 ---
 iso: bew
 name: Betawi
+name_zh: 巴达维语
 autonym: " بهاس بتاوي"
+alt_names: [Bahasa Betawi, Batavi, Batawi, Betawi Malay, Jakarta Malay, Malay (Jakarta), Melayu Betawi, Melayu Jakarte, ภาษาเบตาวี, ベタウィ語, 베타위어]
 population: 6800000
 country_id: ID
 country_name: Indonesia

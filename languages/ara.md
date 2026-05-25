@@ -1,6 +1,7 @@
 ---
 iso: ara
 name: Arabic
+name_zh: 阿拉伯语
 autonym: اللُّغَة العَرَبِيّة
 population: 315421300
 country_id: SA

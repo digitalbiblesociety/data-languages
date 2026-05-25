@@ -1,7 +1,9 @@
 ---
 iso: zza
 name: Zaza
+name_zh: 扎扎其语
 autonym: Zazaki
+alt_names: [Dimili, Dimli (macrolanguage), Kirdki, Kirmanjki (macrolanguage)]
 population: 1640000
 country_id: TR
 country_name: Turkey

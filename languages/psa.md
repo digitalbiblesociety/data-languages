@@ -2,6 +2,7 @@
 iso: psa
 name: Asue Awyu
 autonym: Asuwe Awyu
+alt_names: [Awju Pisa, Awyu (Miaro), "Awyu, Asue", Miaro, Miaro Awyu, Pisa]
 population: 6500
 country_id: ID
 country_name: Indonesia

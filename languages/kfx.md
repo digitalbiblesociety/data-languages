@@ -2,6 +2,7 @@
 iso: kfx
 name: Kullu Pahari
 autonym: Kullu
+alt_names: [Kauli, Kullui, Kulu Boli, Kulu Pahari, Kului, Kulvi, Kulwali, Pahari, Pahari Kullu, "Pahari, Kullu", Paharí de Kullu, Phari Kulu, Western Pahari]
 population: 195000
 country_id: IN
 country_name: India

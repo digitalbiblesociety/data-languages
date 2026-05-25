@@ -2,6 +2,7 @@
 iso: itm
 name: Itu Mbon Uzo
 autonym: Itu Mbon Uso
+alt_names: [Ito Mbonuso, Itu Mbuzo]
 population: 5000
 country_id: NG
 country_name: Nigeria

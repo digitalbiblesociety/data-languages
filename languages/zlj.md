@@ -2,6 +2,7 @@
 iso: zlj
 name: Liujiang Zhuang
 autonym: Vahcuengh (za)
+alt_names: [Chuang, Liuchiang, Liujiang, Zhuang, Zhuang (Northern), "Zhuang, Liujiang"]
 population: 1560000
 country_id: CN
 country_name: China

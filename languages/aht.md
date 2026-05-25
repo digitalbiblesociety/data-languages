@@ -1,7 +1,9 @@
 ---
 iso: aht
 name: Ahtena
+name_zh: 阿特纳语
 autonym: "'Atna' kenaege'"
+alt_names: [Ah-tena, Ahtena jezik, Ahtna, Ahtna kalba, Ahtna language, Atna, Copper River, Lenga ahtena, Lingua ahtna, Língua ahtna, Mednovskiy, Nabesna, Tanana]
 population: 500
 country_id: US
 country_name: United States

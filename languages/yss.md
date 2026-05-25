@@ -2,6 +2,7 @@
 iso: yss
 name: "Yessan-Mayo"
 autonym: "Yessan-Mayo"
+alt_names: [Maio-Yesan, Mayo, Mayo-Yesan, Yamano, Yasi, Yasyin, Yesan]
 population: 1990
 country_id: PG
 country_name: Papua New Guinea

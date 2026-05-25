@@ -2,6 +2,7 @@
 iso: thy
 name: Tha
 autonym: θá
+alt_names: [Joole Manga, Joole Marga, Kapawa]
 population: 1000
 country_id: NG
 country_name: Nigeria

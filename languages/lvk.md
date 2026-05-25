@@ -2,6 +2,7 @@
 iso: lvk
 name: Lavukaleve
 autonym: Laube
+alt_names: [Lakukaleve, Laumbe, Russell Island]
 population: 1780
 country_id: SB
 country_name: Solomon Islands

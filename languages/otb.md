@@ -1,7 +1,9 @@
 ---
 iso: otb
 name: Old Tibetan
+name_zh: 古藏語
 autonym: null
+alt_names: ["Tibetan, Old"]
 population: null
 country_id: CN
 country_name: China

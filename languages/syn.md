@@ -1,6 +1,7 @@
 ---
 iso: syn
 name: Senaya
+name_zh: 塞納亞語
 autonym: ܣܢܝܐ
 population: 460
 country_id: IR

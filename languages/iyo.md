@@ -2,6 +2,7 @@
 iso: iyo
 name: Mesaka
 autonym: Ugarə
+alt_names: [Banagere, Iyon, Messaga, Messaga-Ekol, Messaka, Ugare]
 population: 14000
 country_id: CM
 country_name: Cameroon

@@ -2,6 +2,7 @@
 iso: bjc
 name: Bariji
 autonym: Bariji
+alt_names: [Aga Bereho]
 population: 460
 country_id: PG
 country_name: Papua New Guinea

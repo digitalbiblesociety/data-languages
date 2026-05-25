@@ -2,6 +2,7 @@
 iso: xky
 name: "Uma' Lasan"
 autonym: Kanyay
+alt_names: [Kenja, "Kenyah, Western", Kindjin, Kinjin, Western Kenya]
 population: 1250
 country_id: MY
 country_name: Malaysia

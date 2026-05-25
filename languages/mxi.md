@@ -1,6 +1,7 @@
 ---
 iso: mxi
 name: Mozarabic
+name_zh: 莫扎拉布语
 autonym: Mozarabic
 population: null
 country_id: ES

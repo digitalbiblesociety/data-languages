@@ -1,7 +1,9 @@
 ---
 iso: nas
 name: Naasioi
+name_zh: 纳希奥伊语
 autonym: null
+alt_names: [Aunge, Kieta, Kieta Talk, Nasioi, Nasioyeg]
 population: 22000
 country_id: PG
 country_name: Papua New Guinea

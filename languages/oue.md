@@ -2,6 +2,7 @@
 iso: oue
 name: Oune
 autonym: Ounge
+alt_names: [Dapera]
 population: 1000
 country_id: PG
 country_name: Papua New Guinea

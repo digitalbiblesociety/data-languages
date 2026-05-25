@@ -2,6 +2,7 @@
 iso: ddi
 name: West Goodenough
 autonym: West Goodenough
+alt_names: ["Goodenough, West"]
 population: 2180
 country_id: PG
 country_name: Papua New Guinea

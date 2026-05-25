@@ -1,7 +1,9 @@
 ---
 iso: yua
 name: Yucateco
+name_zh: 猶加敦馬雅語
 autonym: Maya
+alt_names: [Idioma maya, Iucateque, Jukatana majaa lingvo, Jukatek, Jukatekų majų kalba, Jukaték-maja nyelv, Jurí, Język maya, "Ma:ya", "Maayat'aan", Maya (Yucatan), Maya simi, Maya yucatèque, "Maya, Yucatec", "Maya, Yucatán", Mayathan, Peninsular Maya, Yucatec, Yucatec Maya, Yucatec Maya language, Yucatec language, Yucatec(o) Proper, Yucateeks Maya, Yucatekisk maya, Yucatán Maya, Yucatèque, Yukatek, Yukateko, Yukateko Proper, Yuri, Yurí, mayaʼ tʼàan, máayaʼ tʼáan, Јукатански мајански јазик, Мајатан, Юкатекский язык, 猶加敦馬雅語, 유카텍어]
 population: 887520
 country_id: MX
 country_name: Mexico

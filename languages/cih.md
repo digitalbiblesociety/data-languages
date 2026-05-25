@@ -2,6 +2,7 @@
 iso: cih
 name: Chinali
 autonym: chinali
+alt_names: [Chana, Channali, Chinal, Dagi, Harijan, Shipi]
 population: 750
 country_id: IN
 country_name: India

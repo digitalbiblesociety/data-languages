@@ -2,6 +2,7 @@
 iso: guo
 name: Guayabero
 autonym: Jiw
+alt_names: [Cunimía, Hiw, Mítua, Mítus, Wayavero]
 population: 1000
 country_id: CO
 country_name: Colombia

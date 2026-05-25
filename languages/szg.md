@@ -2,6 +2,7 @@
 iso: szg
 name: Sengele
 autonym: Kesengele
+alt_names: [Sengere]
 population: 17000
 country_id: CD
 country_name: DR Congo

@@ -2,6 +2,7 @@
 iso: xkr
 name: Xakriabá
 autonym: Chakriaba
+alt_names: [Chicriaba, Chikriaba, Sakiriabá, Shacriaba, Shakriabá, Xacriabá, Xakriaba]
 population: null
 country_id: BR
 country_name: Brazil

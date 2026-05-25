@@ -2,6 +2,7 @@
 iso: nbe
 name: Konyak Naga
 autonym: Kanyak
+alt_names: [Coñac, Konyak, Naga, "Naga, Konyak", "Naga,Konyak", Tableng]
 population: 246000
 country_id: IN
 country_name: India

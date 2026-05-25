@@ -1,6 +1,7 @@
 ---
 iso: pwi
 name: Patwin
+name_zh: 帕特溫語
 autonym: Southern Wintun
 population: null
 country_id: US

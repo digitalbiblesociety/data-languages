@@ -1,7 +1,9 @@
 ---
 iso: jav
 name: Javanese
+name_zh: 爪哇语
 autonym: ꦧꦱꦗꦮباسا جاوا
+alt_names: [Bahasa Banyumasan, Banjumasa lingvo, Banyumasan, Banyumasan language, Basa Banyumasan, Djawa, Java, Javanic, Javanisch, Jawa, Język banjumasański, Kawi, javanais, Банюмасанский язык, ภาษาบันยูมาซัน, ባኙማሳን, バニュマス語]
 population: 68300000
 country_id: ID
 country_name: Indonesia

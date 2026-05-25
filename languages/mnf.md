@@ -2,6 +2,7 @@
 iso: mnf
 name: Mundani
 autonym: null
+alt_names: [Cameroon, Lower Mundani]
 population: 34000
 country_id: CM
 country_name: Cameroon

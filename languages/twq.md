@@ -1,7 +1,9 @@
 ---
 iso: twq
 name: Tasawaq
+name_zh: 北桑海语
 autonym: Tásàwàq
+alt_names: [Ingelshi, Tasawa]
 population: 8000
 country_id: NE
 country_name: Niger

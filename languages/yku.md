@@ -1,6 +1,7 @@
 ---
 iso: yku
 name: Kuamasi
+name_zh: 跨玛斯话
 autonym: null
 population: 1000
 country_id: CN

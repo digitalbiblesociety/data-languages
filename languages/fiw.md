@@ -2,6 +2,7 @@
 iso: fiw
 name: Fiwaga
 autonym: Fimaga
+alt_names: [Fiwage]
 population: 300
 country_id: PG
 country_name: Papua New Guinea

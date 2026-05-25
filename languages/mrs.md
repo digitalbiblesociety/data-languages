@@ -2,6 +2,7 @@
 iso: mrs
 name: Maragus
 autonym: Maragus
+alt_names: [Mallicolo, Maragaus, Tape]
 population: 15
 country_id: VU
 country_name: Vanuatu

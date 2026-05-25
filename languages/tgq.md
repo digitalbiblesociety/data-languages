@@ -2,6 +2,7 @@
 iso: tgq
 name: Tring
 autonym: null
+alt_names: [Malaysia]
 population: 550
 country_id: MY
 country_name: Malaysia

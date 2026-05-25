@@ -1,7 +1,9 @@
 ---
 iso: her
 name: Herero
+name_zh: 赫雷羅語
 autonym: Otjiherero
+alt_names: [Bahasa Herero, Herera lingvo, Herereg, Herero dili, Hereron kieli, Hererų kalba, Héréro, Idioma herero, Język herero, Limba herero, Lingua herero, Língua hereró, Ochiherero, Гереро, Герэрская мова, हीरीरो भाषा, ภาษาเฮเรโร, ヘレロ語]
 population: 248700
 country_id: NA
 country_name: Namibia

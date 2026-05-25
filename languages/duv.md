@@ -2,6 +2,7 @@
 iso: duv
 name: Duvle
 autonym: Duvde
+alt_names: [Duve, Duvele, Duvre, Wiri]
 population: 930
 country_id: ID
 country_name: Indonesia

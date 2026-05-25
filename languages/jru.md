@@ -1,7 +1,9 @@
 ---
 iso: jru
 name: Japrería
+name_zh: 哈普雷里亚语
 autonym: Yapreria
+alt_names: [Japreria, Japréria, Motilón, Yaprería, Yucpa-Yaprería, Yukpa-Japrería]
 population: 216
 country_id: VE
 country_name: Venezuela

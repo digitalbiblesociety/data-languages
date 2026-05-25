@@ -2,6 +2,7 @@
 iso: xty
 name: Yoloxochitl Mixtec
 autonym: Mixteco de Yoloxóchitl
+alt_names: [Alacatlatzala Mixtec, Alcozauca Mixtec, Central Misteko, Guerrero Mixtec, Highland Guerrero Mixtec, Metlatónoc Mixtec, "Mixtec, Yoloxochitl", Mixteco de Alacatlatzala, Mixteco de Alocozauca, Mixteco de Xochapa, Southern Misteko, Southern Mixteco, To’on Savi, Yoloxóchitl Mixtec]
 population: 2540
 country_id: MX
 country_name: Mexico

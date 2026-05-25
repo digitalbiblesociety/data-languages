@@ -2,6 +2,7 @@
 iso: kwu
 name: Kwakum
 autonym: Abakoum
+alt_names: [Abakum, Akpwakum, Bakum, Kpakum, Pakum]
 population: 10000
 country_id: CM
 country_name: Cameroon

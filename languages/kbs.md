@@ -2,6 +2,7 @@
 iso: kbs
 name: Kande
 autonym: Kanda
+alt_names: [Kaande, Okande, Okandé]
 population: 1000
 country_id: GA
 country_name: Gabon

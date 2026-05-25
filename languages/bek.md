@@ -2,6 +2,7 @@
 iso: bek
 name: Bebeli
 autonym: Banaule
+alt_names: [Beli, Benaule, Kapore]
 population: 1050
 country_id: PG
 country_name: Papua New Guinea

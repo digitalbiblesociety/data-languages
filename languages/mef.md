@@ -2,6 +2,7 @@
 iso: mef
 name: Megam
 autonym: Lyngam
+alt_names: [Migam]
 population: 6870
 country_id: BD
 country_name: Bangladesh

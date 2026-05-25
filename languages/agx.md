@@ -1,7 +1,9 @@
 ---
 iso: agx
 name: Aghul
+name_zh: 阿古尔语
 autonym: агъул чӀал
+alt_names: [Aghulische Sprache, Aghulshuy, Agul, Agula lingvo, Agulin kieli, Aguly, "Ağul ç'al", Język agulski, Lingua agul, Língua agul, Агулски јазик, Агульська мова, агульский язык]
 population: 29300
 country_id: RU
 country_name: Russia

@@ -2,6 +2,7 @@
 iso: kxn
 name: "Kanowit-Tanjong Melanau"
 autonym: Tanjong
+alt_names: [Kanowit, Kanowit-Tanjong, "Melanau, Kanowit-Tanjong"]
 population: 200
 country_id: MY
 country_name: Malaysia

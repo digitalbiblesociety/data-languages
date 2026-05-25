@@ -1,7 +1,9 @@
 ---
 iso: cad
 name: Caddo
+name_zh: 卡度語
 autonym: "Hasí:nay"
+alt_names: [Caddoe, Cado, Kado, Kadoeg, Kadohadacho, Nanatsaho, Petit Caddo, Upper Nasoni]
 population: null
 country_id: US
 country_name: United States

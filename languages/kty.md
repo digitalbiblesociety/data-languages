@@ -2,6 +2,7 @@
 iso: kty
 name: "Kango (Bas-Uélé District)"
 autonym: Likango
+alt_names: [Kango, Kango (Bas-Uele District)]
 population: 5900
 country_id: CD
 country_name: DR Congo

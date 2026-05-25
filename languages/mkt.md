@@ -2,6 +2,7 @@
 iso: mkt
 name: Vamale
 autonym: Hmwaeke
+alt_names: [Moaeke, Neukaledonien, Pamale]
 population: 150
 country_id: NC
 country_name: New Caledonia

@@ -2,6 +2,7 @@
 iso: she
 name: Sheko
 autonym: Shak
+alt_names: [Shakko, Shako, Shekka, Shekko, Tschako]
 population: 43820
 country_id: ET
 country_name: Ethiopia

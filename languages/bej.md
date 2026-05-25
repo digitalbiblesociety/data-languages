@@ -1,7 +1,9 @@
 ---
 iso: bej
 name: Beja
+name_zh: 貝扎語
 autonym: Bidhaawyeet
+alt_names: [Bedauye, Bedawi, Bedawi hizkuntza, Bedawieg, Bedawiye, Bedawiyet, Bedawiyet jezik, Bedawye, Bedscha, Bedwi, Bedya, Bedàwie, Bedžan kieli, Beĝaa lingvo, Bischari, Idioma beya, Język bedża, Llengua beja, Lobat, Língua beja, To-Bedawie, bedja, لغة بجاوية]
 population: 2498000
 country_id: SD
 country_name: Sudan

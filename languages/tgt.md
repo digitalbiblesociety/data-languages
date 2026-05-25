@@ -2,6 +2,7 @@
 iso: tgt
 name: Central Tagbanwa
 autonym: null
+alt_names: ["Tagbanwa, Central", Totonacano de Ozumatlán, "Totonaque d'Ozomatlán"]
 population: 2000
 country_id: PH
 country_name: Philippines

@@ -2,6 +2,7 @@
 iso: nnc
 name: Nancere
 autonym: Nangjere
+alt_names: [East Chadic A.2, Lele Group, Nancere Group, Nanchere, Nangcere, Nangire, Nanjeri, Nantcere]
 population: 144000
 country_id: TD
 country_name: Chad

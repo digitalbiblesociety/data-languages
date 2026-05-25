@@ -2,6 +2,7 @@
 iso: kbe
 name: Kanju
 autonym: Northeastern Paman
+alt_names: [Andjingid, Andyingid, Anjungitie, Candju, Cape York Peninsula Languages, Gaandju, Gaanydyu, Gandanju, Gandju, GandjuIo, Iju, Jaalo, Jabuda, Ka ntyu, Ka-ntyu, "Ka:antju", "Ka:ndyu", "Ka:ntju", Kaanju, Kaanju / Kaantju, Kaantyu, Kaanytju, Kambhue, Kamdheu, Kamdhue, Kandju, Kandyi, Kandyu, Kantanyu, Kantju, Kantyu, Kanyu, Kan·ntyu, Karndheu, Karnju, Karntju, Karnu, Karnyu, Kokin oh, Ndhyrl, Neegulada, Neogulada, Wijamo, Yaldiye ho, Yaldiye-Ho, etc]
 population: null
 country_id: AU
 country_name: Australia

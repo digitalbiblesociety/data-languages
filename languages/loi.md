@@ -2,6 +2,7 @@
 iso: loi
 name: "Loma (Côte d'Ivoire)"
 autonym: Lomakka
+alt_names: [Loma, "Loma (Cote d'Ivoire)", Lomapo, Lomasse, Malinke]
 population: 8010
 country_id: CI
 country_name: "Côte d'Ivoire"

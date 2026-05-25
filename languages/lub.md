@@ -1,7 +1,9 @@
 ---
 iso: lub
 name: "Luba-Katanga"
+name_zh: 卢巴卡丹加语
 autonym: Kiluba
+alt_names: [Luba, Luba Shaba, Luba-Shaba]
 population: 1510000
 country_id: CD
 country_name: DR Congo

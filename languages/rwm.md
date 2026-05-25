@@ -2,6 +2,7 @@
 iso: rwm
 name: Amba (Uganda)
 autonym: Kwamba
+alt_names: [Amba, Amba people, Hamba, Humu, Kihumu, Kiumu, Ku-Amba, Kuamba, Lubulebule, Lwamba, Ruwenzori Kibira, Rwamba]
 population: 47100
 country_id: UG
 country_name: Uganda

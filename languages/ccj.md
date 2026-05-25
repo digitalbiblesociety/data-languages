@@ -2,6 +2,7 @@
 iso: ccj
 name: Kasanga
 autonym: Cassanga
+alt_names: [Haal, I-Hadja, Kassanga]
 population: 690
 country_id: GW
 country_name: "Guinea-Bissau"

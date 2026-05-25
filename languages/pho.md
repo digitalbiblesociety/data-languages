@@ -1,7 +1,9 @@
 ---
 iso: pho
 name: Phunoi
+name_zh: 普内语
 autonym: Singsali
+alt_names: [Hwethom, Khaskhong, Khoany, Mung, Phounoy, Phu Noi, Punoi, Sinsali]
 population: 39200
 country_id: LA
 country_name: Laos

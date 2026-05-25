@@ -1,7 +1,9 @@
 ---
 iso: smw
 name: Sumbawa
+name_zh: 松巴哇語
 autonym: Basa Semawa
+alt_names: [Semawa, Sumbawarese]
 population: 300000
 country_id: ID
 country_name: Indonesia

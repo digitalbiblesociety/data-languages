@@ -1,7 +1,9 @@
 ---
 iso: adi
 name: Adi
+name_zh: 阿迪语
 autonym: Abo tani
+alt_names: [Abhor, Abor, Abor-Miri, Adi-Bokar, Bengni, "Bengni-Boga'er", "Boga'er", "Boga'er Luoba", Bokar, Lho-Pa, Lhoba, Luoba, Miri, Miśing, Na Bengni, 崩尼-博嘎爾语]
 population: 151090
 country_id: IN
 country_name: India

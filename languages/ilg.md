@@ -1,7 +1,9 @@
 ---
 iso: ilg
 name: "Garig-Ilgar"
+name_zh: 伊勒嘎爾語
 autonym: Garig
+alt_names: [Garig/Garig-Ilgar, Ilgar]
 population: null
 country_id: AU
 country_name: Australia

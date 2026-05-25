@@ -2,6 +2,7 @@
 iso: spe
 name: Sepa (Papua New Guinea)
 autonym: null
+alt_names: [Sepa]
 population: 700
 country_id: PG
 country_name: Papua New Guinea

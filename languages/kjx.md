@@ -2,6 +2,7 @@
 iso: kjx
 name: Ramopa
 autonym: Ramopa
+alt_names: [Kereaka, Keriaka]
 population: 1000
 country_id: PG
 country_name: Papua New Guinea

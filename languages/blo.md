@@ -1,7 +1,9 @@
 ---
 iso: blo
 name: Anii
+name_zh: 阿尼语
 autonym: Basila
+alt_names: ["\"Ouinji-Ouinji\"", "\"Winji-Winji\"", Akpe, Baseca, Bassila, Gisida, Ouinji-Ouinji, Winji-Winji]
 population: 48900
 country_id: BJ
 country_name: Benin

@@ -1,7 +1,9 @@
 ---
 iso: vah
 name: "Varhadi-Nagpuri"
+name_zh: 瓦尔哈迪语
 autonym: Varhadi–Nagpuri
+alt_names: [Berar Marathi, Berari, Dhanagari, Kumbhari, Madhya Pradesh Marathi]
 population: 6970000
 country_id: IN
 country_name: India

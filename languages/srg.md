@@ -2,6 +2,7 @@
 iso: srg
 name: Sulod
 autonym: Bukidnon
+alt_names: [Mondo]
 population: 14000
 country_id: PH
 country_name: Philippines

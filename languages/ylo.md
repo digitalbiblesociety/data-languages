@@ -1,7 +1,9 @@
 ---
 iso: ylo
 name: Naluo Yi
+name_zh: 纳若语
 autonym: Gan Yi
+alt_names: [Laluo, Lolo, Naluo, Naruo, Qiao-Wu Yi, Qiaojia-Wuding Yi, Shui Yi, Shuitian, Yi, "Yi, Naluo", 巧武土語, 納羅]
 population: 15000
 country_id: CN
 country_name: China

@@ -1,7 +1,9 @@
 ---
 iso: osa
 name: Osage
+name_zh: 奥沙格语
 autonym: Wažáže ie
+alt_names: [Kansa, Osague, Wazhazhe, Wazhazhe ie]
 population: 11000
 country_id: US
 country_name: United States

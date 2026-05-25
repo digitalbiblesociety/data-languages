@@ -2,6 +2,7 @@
 iso: pye
 name: Pye Krumen
 autonym: Kroumen
+alt_names: ["Krumen, Pye", Northeastern Krumen, Southeastern Krumen]
 population: 20000
 country_id: CI
 country_name: "Côte d'Ivoire"

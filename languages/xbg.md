@@ -2,6 +2,7 @@
 iso: xbg
 name: Bunganditj
 autonym: Buwandik
+alt_names: [Bak-on-date, Bangandidj, Barconedeet, Boandik, Boandiks, Booandik, Booandik-ngolo, Booganitch, Borandikngolo, Buandic, Buandig, Buandik, Buanditj, Buganditch, Bungaditj, Bungandaetch, Bungandaetcha, Bungandaitj, Bungandidjk, Bungandit, Bunganditjngolo]
 population: null
 country_id: AU
 country_name: Australia

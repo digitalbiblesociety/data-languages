@@ -2,6 +2,7 @@
 iso: mvs
 name: Massep
 autonym: Wotaf
+alt_names: [Masep, Masepo, Potafa]
 population: 25
 country_id: ID
 country_name: Indonesia

@@ -1,7 +1,9 @@
 ---
 iso: fax
 name: Fala
+name_zh: 法拉語
 autonym: A Fala de Xálima
+alt_names: ["\"Chapurreáu\"", A Fala, A Fala do Xãlima, Bakha, Bakhat, Baxa, Extremadurako fala, Faala, Fala da Extremadura, Fala de Estremadura, Fala de Xàlima, Fala jezik, Falaansk, Galaico-Extremaduran, Lingua fala, 팔라어]
 population: 10500
 country_id: ES
 country_name: Spain

@@ -2,6 +2,7 @@
 iso: uru
 name: Urumi
 autonym: null
+alt_names: [Itanga, Ramarama, Ramarama-Urumí, Urumí]
 population: null
 country_id: BR
 country_name: Brazil

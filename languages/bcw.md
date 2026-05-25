@@ -2,6 +2,7 @@
 iso: bcw
 name: Bana
 autonym: koma kabana
+alt_names: [Bana jezik, Banaeg, Baza, Ka-Bana, Koma, Mbana, Mizeran, Parole des Bana]
 population: 23000
 country_id: CM
 country_name: Cameroon

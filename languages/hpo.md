@@ -1,7 +1,9 @@
 ---
 iso: hpo
 name: Hpon
+name_zh: 蓬语
 autonym: Hpön
+alt_names: [Hpun, Megyaw, Phon, Phun, Phön, Samong]
 population: null
 country_id: MM
 country_name: Myanmar

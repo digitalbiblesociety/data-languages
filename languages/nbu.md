@@ -2,6 +2,7 @@
 iso: nbu
 name: Rongmei Naga
 autonym: Songbu
+alt_names: [Kabiu, Kabui, Maruongmai, Naga, "Naga, Rongmei", "Naga,Rongmei", Nruanghmei, Rongmai, Rongmei]
 population: 66700
 country_id: IN
 country_name: India

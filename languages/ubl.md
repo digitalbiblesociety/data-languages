@@ -2,6 +2,7 @@
 iso: ubl
 name: "Buhi'non Bikol"
 autonym: Bikol Buhi
+alt_names: ["Bikol, Buhi'non"]
 population: 73600
 country_id: PH
 country_name: Philippines

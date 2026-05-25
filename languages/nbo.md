@@ -2,6 +2,7 @@
 iso: nbo
 name: Nkukoli
 autonym: Ekuri
+alt_names: [Lokoli, Lokukoli, Nkokolle]
 population: 1000
 country_id: NG
 country_name: Nigeria

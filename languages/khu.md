@@ -1,7 +1,9 @@
 ---
 iso: khu
 name: Nkhumbi
+name_zh: 恩昆比语
 autonym: Khumbi
+alt_names: [Humbe, Ngumbi, Nkumbi, Otjingumbi]
 population: 637000
 country_id: AO
 country_name: Angola

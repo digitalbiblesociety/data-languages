@@ -2,6 +2,7 @@
 iso: lra
 name: "Rara Bakati'"
 autonym: Luru
+alt_names: [Lara language, "Lara'"]
 population: 11300
 country_id: MY
 country_name: Malaysia

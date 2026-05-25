@@ -2,6 +2,7 @@
 iso: sor
 name: Somrai
 autonym: Sibine
+alt_names: [East Chadic A.1, Shibne, Somrai Group, Somre, Somrei, Soumrai, Soumray, Sounrai, Sumrai]
 population: 7410
 country_id: TD
 country_name: Chad

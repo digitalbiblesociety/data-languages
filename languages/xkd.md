@@ -2,6 +2,7 @@
 iso: xkd
 name: Mendalam Kayan
 autonym: Kajan
+alt_names: ["Kayan, Mendalam", Mendalam Kajan]
 population: 1500
 country_id: ID
 country_name: Indonesia

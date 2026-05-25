@@ -2,6 +2,7 @@
 iso: and
 name: Ansus
 autonym: bahasa Ansus
+alt_names: [Ansus jezik]
 population: 4600
 country_id: ID
 country_name: Indonesia

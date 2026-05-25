@@ -2,6 +2,7 @@
 iso: fmu
 name: Far Western Muria
 autonym: Gondi
+alt_names: [Gonḍi, Gōṇḍī, "Muria, Far Western"]
 population: 400000
 country_id: IN
 country_name: India

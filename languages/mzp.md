@@ -2,6 +2,7 @@
 iso: mzp
 name: Movima
 autonym: "Chosineɬ di' mowi"
+alt_names: [Idioma movima, Mobima, Movime, Mowima simi, Moyma, Móbima, Móvima]
 population: 1170
 country_id: BO
 country_name: Bolivia

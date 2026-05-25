@@ -1,7 +1,9 @@
 ---
 iso: ibg
 name: Ibanag
+name_zh: 伊巴納格語
 autonym: Ybanag
+alt_names: [Ibanag-ngî, Pagsasao nga Ibanag, Wikang Ibanag, ภาษาอีบานัก]
 population: 403000
 country_id: PH
 country_name: Philippines

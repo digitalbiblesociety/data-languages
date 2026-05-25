@@ -1,7 +1,9 @@
 ---
 iso: chc
 name: Catawba
+name_zh: 卡托巴語
 autonym: Katapa
+alt_names: [Catauba, Catawaba]
 population: null
 country_id: US
 country_name: United States

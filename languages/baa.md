@@ -2,6 +2,7 @@
 iso: baa
 name: Babatana
 autonym: East Choiseul
+alt_names: [Mbambatana]
 population: 7070
 country_id: SB
 country_name: Solomon Islands

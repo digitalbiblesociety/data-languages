@@ -1,7 +1,9 @@
 ---
 iso: yao
 name: Yao
+name_zh: 約奧語
 autonym: chiYao
+alt_names: [Achawa, Adsawa, Adsoa, Ajawa, Ayao, Ayawa, Ayo, Chichawa, Ciyao, Djao, Haiao, Hajao, Hiao, Hyao, Jao, Język yao, Kiyao, Veiao, Wajao, Yao (in Malawi)]
 population: 3728000
 country_id: MW
 country_name: Malawi

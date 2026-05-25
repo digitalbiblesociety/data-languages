@@ -2,6 +2,7 @@
 iso: cmr
 name: "Mro-Khimi Chin"
 autonym: Mro
+alt_names: ["Chin, Mro", "Chin, Mro-Khimi", "Chin,Mro", Mro Chin]
 population: 200000
 country_id: MM
 country_name: Myanmar

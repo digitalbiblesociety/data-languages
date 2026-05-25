@@ -2,6 +2,7 @@
 iso: jna
 name: Jangshung
 autonym: Kanawaringskad
+alt_names: [Central Kinnauri, Jangiam, Jangrami, Kanāwri, Thebarskad, Thebor, Thebör Skadd, Yansún, Zangram, Zhang-Zhung]
 population: 1990
 country_id: IN
 country_name: India

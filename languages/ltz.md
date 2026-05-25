@@ -1,7 +1,9 @@
 ---
 iso: ltz
 name: Luxembourgish
+name_zh: 卢森堡语
 autonym: Lëtzebuergesch
+alt_names: [Bahasa Luksemburg, Bahasa Luxembourg, Francique mosellan, Franconio del Mosela, Frankish, German, Gjuha luksemburgishte, Idioma luxemburgués, Język luksemburski, Lengua luxemburgheise, Letseburgi keel, Letzburgisch, Letzeburgesch, Limba luxemburgheză, Lingua Luxemburgica, Lingua lussemburghese, Lingua luxemburguesa, Liuksemburgiečių kalba, Lucemburština, Lucsambuirgis, Lucsamburgais, Luksembourgeg, Luksemburga lingvo, Luksemburgiešu valoda, Luksemburški jezik, Luksemburščina, Lushaborgek, Lussimbordjwès, Luxemborjesh, Luxembourgeois, Luxembourgsk, Luxemburgeois, Luxemburggagiella, Luxemburgi nyelv, Luxemburgian, Luxemburgin kieli, Luxemburgisch, Luxemburgische Sprache, Luxemburgish, Luxemburgiska, Luxemburgs, Luxemburguès, Luxemburgués, Luxemburčina, Luxembörgs, Luxenburgera, Luxnbuagisch, Língua luxemburguesa, Lúxemborgíska, Lüksemburgca, Lüksemburq dili, Moselle Franconian, Platt, Taluksemburgit, Λουξεμβουργιανή γλώσσα, Луксембуршки језик, Люксембург йылме, Люксембургски език, Люксембургский язык, Люксембурзька мова, Լյուքսեմբուրգերեն, לוקסמבורגית, לוקסעמבורגיש, لغة لوكسمبورغية, ليۇكسېمبۇرگ تىلى, ლუქსემბურგული ენა, ルクセンブルク語, 卢森堡语, 盧森堡話, 룩셈부르크어]
 population: 427400
 country_id: LU
 country_name: Luxembourg

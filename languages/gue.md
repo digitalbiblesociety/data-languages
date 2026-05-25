@@ -2,6 +2,7 @@
 iso: gue
 name: Gurindji
 autonym: " Kuurrinjtji"
+alt_names: [Coorinji, Corringi, Garundji, Goarango, Guirindji, Gurindgi, Gurindzi, Gurinji, Gurrinji, Guurindji, Kartangarurru, Koorangie, Kooringee, Korindji, Kurintji, Kwarandji, Kwaranjee, Malngin, Manoo, Manu, Tjial, Wadshara, Wandjira, Wanyjirra, We arr ung, We-arr-ung, Wurlayi]
 population: 410
 country_id: AU
 country_name: Australia

@@ -2,6 +2,7 @@
 iso: key
 name: Kupia
 autonym: Valmiki
+alt_names: [Southern Oriya]
 population: 6600
 country_id: IN
 country_name: India

@@ -2,6 +2,7 @@
 iso: yli
 name: Angguruk Yali
 autonym: Yalimo
+alt_names: [Angguruk, Ngalik, Northern Yali, Yali, "Yali, Angguruk"]
 population: 15000
 country_id: ID
 country_name: Indonesia

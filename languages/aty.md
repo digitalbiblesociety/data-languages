@@ -2,6 +2,7 @@
 iso: aty
 name: Aneityum
 autonym: Aneiteum
+alt_names: [Aneiteumese, Aneityum jezik, Anejom, Anejom̃, Aneytum, Annatom]
 population: 900
 country_id: VU
 country_name: Vanuatu

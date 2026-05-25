@@ -2,6 +2,7 @@
 iso: thl
 name: Dangaura Tharu
 autonym: (polyphyletic)
+alt_names: [Chaudary, Chaudary Tharu, Chaudhari, Chaudhari Tharu, Chaudhuri, Dang, Dangali, Dangauli, Dangha, Dangora, Dangura, "Tharu, Dangaura"]
 population: 674000
 country_id: NP
 country_name: Nepal

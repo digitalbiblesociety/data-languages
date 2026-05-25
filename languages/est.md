@@ -1,6 +1,7 @@
 ---
 iso: est
 name: Estonian
+name_zh: 爱沙尼亚语
 autonym: eesti
 population: 1247230
 country_id: EE

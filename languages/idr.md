@@ -2,6 +2,7 @@
 iso: idr
 name: Indri
 autonym: Yanderika
+alt_names: [Yandirika]
 population: 700
 country_id: SS
 country_name: South Sudan

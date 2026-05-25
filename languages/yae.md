@@ -1,7 +1,9 @@
 ---
 iso: yae
 name: Pumé
+name_zh: 雅鲁罗语
 autonym: Pumé
+alt_names: [Jaruro, Llaruro, Pume, Yaruro, Yaruru, Yuapín]
 population: 5840
 country_id: VE
 country_name: Venezuela

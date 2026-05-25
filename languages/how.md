@@ -1,7 +1,9 @@
 ---
 iso: how
 name: Honi
+name_zh: 豪尼语
 autonym: Baihong
+alt_names: [Haoni, Haónǐ, Ho, Ouni, Uni, Won, Woni]
 population: 140000
 country_id: CN
 country_name: China

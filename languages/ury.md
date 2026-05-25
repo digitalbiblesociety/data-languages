@@ -2,6 +2,7 @@
 iso: ury
 name: Orya
 autonym: Oria
+alt_names: [Uria, Warpok, Warpu]
 population: 1600
 country_id: ID
 country_name: Indonesia

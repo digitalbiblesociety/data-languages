@@ -2,6 +2,7 @@
 iso: bfn
 name: Bunak
 autonym: Buna
+alt_names: ["Buna'", Bunake, Bunaq]
 population: 97000
 country_id: TL
 country_name: "Timor-Leste"

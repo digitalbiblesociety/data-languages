@@ -1,7 +1,9 @@
 ---
 iso: dyo
 name: "Jola-Fonyi"
+name_zh: 喬拉-福尼語
 autonym: kujóolay
+alt_names: [Diola, Diola Fogny, Diola-Fogny, Dyola, Fogny, Jola, Jola-Fogny, Jóola, Kujamataak, Kújoolaak Kati Fooñi]
 population: 457000
 country_id: SN
 country_name: Senegal

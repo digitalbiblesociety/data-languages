@@ -1,7 +1,9 @@
 ---
 iso: zku
 name: Kaurna
+name_zh: 考尔纳语
 autonym: Kaurna Warra
+alt_names: [Adelaide tribe, Coorna, Gaurna, "Jaitjawar:a", Karnuwarra, Kaura, Koornawarra, Kurumidlanta, Medain-die, Medaindi, Meljurna, Merelde, Merildekald, Meyu, Midlanta, Milipitingara, Nantuwara, Nantuwaru, Nganawara, Padnaindi, Padnayndie, Wakanuwan, Warra, Warrah, Widninga, Winaini, Winnay-nie, Winnaynie]
 population: null
 country_id: AU
 country_name: Australia

@@ -1,7 +1,9 @@
 ---
 iso: fin
 name: Finnish
+name_zh: 芬兰语
 autonym: suomen kieli
+alt_names: [An Fhionlainnis, Bahasa Finland, Bahasa Suomi, Ffinneg, Fin dili, Fin tili, Fince, Finlandana linguo, Finlandiera, Finn nyelv, Finna lingvo, Finneg, Finnek, Finngbe, Finnisc sprǣc, Finnische Sprache, Finnish leid, Finnlynnish, Finnois, Finnsche Spraak, Finnska, Fins, Finsk, Finsk språk, Finska, Finski jezik, Finès, Finés, Finština, Finšćina, Finščina, Fionnais, Fínčina, Gjuha finlandeze, Idioma finés, Język fiński, Lenga finlandèisa, Lengua finlandesa, Limba finlandeză, Lingua Finnica, Lingua fillannisa, Lingua finesa, Lingua finlandaisa, Lingua finlandese, Lingua finnese, Língua finlandesa, Phinis simi, Pinulongang Pines, Somu valoda, Soome keel, Soomõ kiil, Suomagiella, Suomi-gí, Suomių kalba, Tiếng Phần Lan, Èdè Fínlándì, Łéngua finlandexe, Φινλανδική γλώσσα, Забони финӣ, Суоминь кель, Суоминь кяль, Финляндхойн мотт, Финн йылме, Финн кыв, Финн чĕлхи, Финнаг æвзаг, Фински език, Фински јазик, Фински језик, Финский язык, Фінская мова, Фінська мова, פינית, زبان فنلاندی, فىنلاندىيە تىلى, لغة فنلندية, ސުއޯމީ, फ़िनिश भाषा, ফিনীয় ভাষা, பின்னிய மொழி, ภาษาฟินแลนด์, ფინური ენა, ‘Ōlelo Pinilana, フィンランド語, 芬兰语, 핀란드어]
 population: 5770040
 country_id: FI
 country_name: Finland

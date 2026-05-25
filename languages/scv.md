@@ -2,6 +2,7 @@
 iso: scv
 name: Sheni
 autonym: Sheni
+alt_names: [Seni, Shaini, Shani, Shenanci, Shenic]
 population: 1500
 country_id: NG
 country_name: Nigeria

@@ -2,6 +2,7 @@
 iso: bgr
 name: Bawm Chin
 autonym: Banjogi
+alt_names: [Bawm, Bawn, Bawng, Bom, Chin, Chin (Bawm), Chin (Central), Chin bom, "Chin, Bawm", "Chin,Bawm"]
 population: 15140
 country_id: IN
 country_name: India

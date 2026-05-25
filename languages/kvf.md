@@ -2,6 +2,7 @@
 iso: kvf
 name: Kabalai
 autonym: Kaba Lai
+alt_names: [Gablai, Kaba-Lai, Kabalay, Kabalaye, Keb-Kaye, Lai, Lay]
 population: 17900
 country_id: TD
 country_name: Chad

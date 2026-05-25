@@ -2,6 +2,7 @@
 iso: xac
 name: Kachari
 autonym: Cachari
+alt_names: [Bara, Boro, Bårå, Hill Kachari, Kachāri, Plains Kachari]
 population: 16000
 country_id: IN
 country_name: India

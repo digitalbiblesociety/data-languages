@@ -2,6 +2,7 @@
 iso: jkm
 name: Mobwa Karen
 autonym: ကညီကျိာ်
+alt_names: ["Karen, Mobwa"]
 population: null
 country_id: MM
 country_name: Myanmar

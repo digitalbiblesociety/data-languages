@@ -2,6 +2,7 @@
 iso: csy
 name: Siyin Chin
 autonym: Siyin
+alt_names: [Chin (North), Chin (Siyin), "Chin, Siyin", "Chin,Siyin", Shi-zang, Siyang, Sizang]
 population: 10700
 country_id: MM
 country_name: Myanmar

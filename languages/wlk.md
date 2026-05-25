@@ -2,6 +2,7 @@
 iso: wlk
 name: Wailaki
 autonym: Eel River
+alt_names: ["Athabaskan d'Eel River", Eel River Athabaskan, Eel River Athapaskan, Kenesti, Lassik, Nongatl, Saiaz, Sinkyone, Wailaki-Sinkyone, Wailaki-Sinkyone-Nongatl-Lassik, Wailakki]
 population: null
 country_id: US
 country_name: United States

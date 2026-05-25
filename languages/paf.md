@@ -2,6 +2,7 @@
 iso: paf
 name: Paranawát
 autonym: Kawahib
+alt_names: [Cabahyba, Cauaiua, Cauhib, Cawahib, Diahoi, Diahói, Diarroi, Djahui, Jauareta-Tapiia, Jiahui, Juma, Karipuna, Kawahib/Paranawat/Pawaté-Wirafed, Kawaib, Majubim, Paranauat, Paranawat, Parintintín, Parintintín/Tenharim/Juma, Pawate, Pawaté, Pawaté-Wirafed, Tenharim, Tenharím, Tukumanfed, Tupi do Machado, Tupí-Kawahíb, Uru-eu-uau-uau, Wiraféd, Yuma]
 population: null
 country_id: BR
 country_name: Brazil

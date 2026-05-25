@@ -2,6 +2,7 @@
 iso: mza
 name: Santa María Zacatepec Mixtec
 autonym: (Santa María Zacatepec)
+alt_names: ["Mixtec, Santa María Zacatepec", Mixteco de Santa María Zacatepec, Mzab, Santa Maria Zacatepec Mixtec, Southern Misteko, Southern Mixteco, Southern Putla Mixtec, Tacuate, Zacatepec Mixtec]
 population: 3000
 country_id: MX
 country_name: Mexico

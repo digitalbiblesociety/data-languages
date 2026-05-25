@@ -2,6 +2,7 @@
 iso: rxd
 name: Ngardi
 autonym: Bunara
+alt_names: [Boonara, Buruwatung, Kolo, Kukuruba, Manggai, Munga, Ngadi, Ngardilj, Ngari, Ngarti, Panara, Puruwantung, Waiangadi, Waiangara, Waiangari, Wain-gara, Walmala, Wanayaga, Warangari, Waringari, Wommana, Woneiga]
 population: null
 country_id: AU
 country_name: Australia

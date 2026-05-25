@@ -1,7 +1,9 @@
 ---
 iso: dtd
 name: Ditidaht
+name_zh: 迪蒂达特语
 autonym: Nitinaht
+alt_names: [Diitiidʔaatx̣ (Nitinat), Nitinat]
 population: null
 country_id: CA
 country_name: Canada

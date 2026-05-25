@@ -2,6 +2,7 @@
 iso: arx
 name: Aruá (Rodonia State)
 autonym: Aruá
+alt_names: [Aruashí, Aruaxi, Cinta Larga, Gavião, Gavião du Rondônia, Zoró]
 population: null
 country_id: BR
 country_name: Brazil

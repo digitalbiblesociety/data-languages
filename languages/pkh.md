@@ -2,6 +2,7 @@
 iso: pkh
 name: Pankhu
 autonym: Pangkhu
+alt_names: [Paang, Pang, Pang Khua, Pangkhua, Pankho, Pankhua, Panko, Pankua]
 population: 2500
 country_id: BD
 country_name: Bangladesh

@@ -1,7 +1,9 @@
 ---
 iso: sxu
 name: Upper Saxon
+name_zh: 上薩克森德語
 autonym: Obersächsisch
+alt_names: [Alto sassone, Hoegsaksisch, Hoogsaksisch, Sachsiska, "Saxon, Upper", Upper Saxon German, Верхнесаксонский диалект]
 population: 2000000
 country_id: DE
 country_name: Germany

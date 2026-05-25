@@ -2,6 +2,7 @@
 iso: can
 name: Chambri
 autonym: Tchambuli
+alt_names: [Achang, Tshamberi]
 population: 1700
 country_id: PG
 country_name: Papua New Guinea

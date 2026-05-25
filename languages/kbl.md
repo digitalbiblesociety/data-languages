@@ -1,7 +1,9 @@
 ---
 iso: kbl
 name: Kanembu
+name_zh: 卡内姆布语
 autonym: Kanambu
+alt_names: [Bornu, Kaidi-Kanembu, Kanembou, Kanemhu, Kanuri, Lenga Kanembu, Língua kanembu, Канембуски јазик]
 population: 877200
 country_id: TD
 country_name: Chad

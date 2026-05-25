@@ -2,6 +2,7 @@
 iso: gvy
 name: Guyani
 autonym: yura ngarwala
+alt_names: [Cooyiannie, Gujani, Kijani, Kiyani, Koonarie, Kooteeuna, Kooteeunna, Kooyeeunna, Kooyiannie, Kujani, Kuyani, Kuyanni, Kwiana, Kwiani, Nganitjidi, Ngannityddi, Ngannityiddi, Owinia]
 population: null
 country_id: AU
 country_name: Australia

@@ -2,6 +2,7 @@
 iso: nke
 name: Duke
 autonym: Duke
+alt_names: [Kolombangara, Ndughore, Nduke]
 population: 2310
 country_id: SB
 country_name: Solomon Islands

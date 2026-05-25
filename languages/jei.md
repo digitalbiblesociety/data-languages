@@ -2,6 +2,7 @@
 iso: jei
 name: Yei
 autonym: Yey
+alt_names: [Je, Jei, Jei-Makleu, Yei-Nan]
 population: 2390
 country_id: ID
 country_name: Indonesia

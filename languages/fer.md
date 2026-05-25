@@ -2,6 +2,7 @@
 iso: fer
 name: Feroge
 autonym: Kaligi
+alt_names: [Feroghe, Ferroge, Kalige, Kalike, Kaliki]
 population: 8000
 country_id: SS
 country_name: South Sudan

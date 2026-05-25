@@ -1,7 +1,9 @@
 ---
 iso: bar
 name: Bavarian
+name_zh: 奥地利-巴伐利亚德语
 autonym: Boarisch
+alt_names: [Austro-Bavarian language, Baiersch, Bairisch, Bairische Dialekte, Bairisk, Bavara lingvo, Bavares, Bavarian Austrian, Bavariera, Bavarois, Bavarès, Bayerisch, Bayerska, Beiers, Beiers-Oosterieks, Beierse taal, Bávaro, German, German (Bavarian), German (Upper Austrian), German (Viennese), Idioma austro-bávaro, Język bawarski, Lingua Bavarica, Lingua bavarese, Lingua bávara, Lèngoa bavareise, Língua bávara, O-thi-li Pâ-vî-li-â-ngî, Ost-Oberdeutsch, Yezhoù aostriek-bavarek, Австро-баварски езици, Баварский диалект, バイエルン・オーストリア語, 奥地利-巴伐利亚语]
 population: 14100000
 country_id: AT
 country_name: Austria

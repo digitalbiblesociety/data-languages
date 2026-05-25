@@ -2,6 +2,7 @@
 iso: nyj
 name: Nyanga
 autonym: Kinyanga
+alt_names: [Inyanga]
 population: 150000
 country_id: CD
 country_name: DR Congo

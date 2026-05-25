@@ -1,7 +1,9 @@
 ---
 iso: uig
 name: Uighur
+name_zh: 维吾尔语
 autonym: Uighur
+alt_names: [Bahasa Uighur, Bahasa Uyghur, Idioma uigur, Język ujgurski, Lingua uigura, Língua uigur, New Uighur, Novouygur, Oeigoers, Ouigoureg, Ouïghour, Tiếng Uyghur, Uighor, Uighuir, Uiguir, Uigur, Uigurisch, Uigurische Sprache, Uigurisk, Uiguriska, Uiguru valoda, Uiguurin kieli, Ujgura lingvo, Ujgurčina, Ujgurština, Uyghur, Uyghur language, Uyghuri, Uygur, Uygur simi, Uygurca, Uyg‘ur til, Uyğur dili, Uyğur tili, Weiwuer, Wiga, Wighor, Wikang Uighur, ouïgour, Úýgúríska, Забони уйғурӣ, Уйгур кыв, Уйгур чĕлхи, Уйгурская мова, Уйгурски език, Уйгурский язык, Уйгурська мова, Ујгурски јазик, אויגור, ئۇيغۇر تىلى, زبان اویغوری, لغة أويغورية, उइगुर भाषा, उईघर भाषा, উইগুর ভাষা, உய்குர் மொழி, ภาษาอุยกูร์, ཡུལ་གོར་སྐད།, ኡይጉርኛ, ウイグル語, 维吾尔语, 위구르어]
 population: 10400000
 country_id: CN
 country_name: China

@@ -2,6 +2,7 @@
 iso: afo
 name: Eloyi
 autonym: Afu
+alt_names: [Afao, Afo, Aho, Epe, Keffi]
 population: 25000
 country_id: NG
 country_name: Nigeria

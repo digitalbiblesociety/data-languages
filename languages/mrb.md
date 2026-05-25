@@ -2,6 +2,7 @@
 iso: mrb
 name: Marino
 autonym: Marino
+alt_names: [Naone, North Maewo, Sunwadia, Suñwadia]
 population: 1400
 country_id: VU
 country_name: Vanuatu

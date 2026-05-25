@@ -2,6 +2,7 @@
 iso: let
 name: "Lesing-Gelimi"
 autonym: "Lesing-Atui"
+alt_names: [Amio-Gelimi, Atui]
 population: 930
 country_id: PG
 country_name: Papua New Guinea

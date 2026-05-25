@@ -2,6 +2,7 @@
 iso: stb
 name: Northern Subanen
 autonym: Subanon
+alt_names: ["Subanen, Northern", Tuboy Subanon]
 population: 85400
 country_id: PH
 country_name: Philippines

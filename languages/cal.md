@@ -1,7 +1,9 @@
 ---
 iso: cal
 name: Carolinian
+name_zh: 卡羅萊納文
 autonym: Refaluwasch
+alt_names: [Carolinien, Idioma carolinio, Karoliini, Karolina lingvo, Karolinian, Karolinski jezik, Karolinų kalba, Karolīniešu valoda, Saipan Carolinian, Southern Carolinian, Sprache der Marianen, カロリン語]
 population: 3000
 country_id: MP
 country_name: Northern Mariana Islands

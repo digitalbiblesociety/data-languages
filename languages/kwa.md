@@ -2,6 +2,7 @@
 iso: kwa
 name: Dâw
 autonym: "Kuri-Dou"
+alt_names: [Daw, Dow, Kam, Kaman, Kamarada, Kamá, Kamán, Kamã, Kamã Makú, Makú-Kamarada]
 population: 142
 country_id: BR
 country_name: Brazil

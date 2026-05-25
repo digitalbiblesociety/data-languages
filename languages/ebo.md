@@ -1,7 +1,9 @@
 ---
 iso: ebo
 name: "Teke-Ebo"
+name_zh: 中部特克語
 autonym: Eboo
+alt_names: [Bamboma, Boma, Boo, Boõ, Central Teke, Eboo Teke, Eboom, Iboo, Teke-Boma, Teke-Eboo]
 population: 20400
 country_id: CG
 country_name: Congo

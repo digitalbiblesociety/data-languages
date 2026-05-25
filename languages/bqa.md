@@ -2,6 +2,7 @@
 iso: bqa
 name: Tchumbuli
 autonym: Akan
+alt_names: [Basa, Chombulon, Tchombolo, Tshummbuli]
 population: 2500
 country_id: BJ
 country_name: Benin

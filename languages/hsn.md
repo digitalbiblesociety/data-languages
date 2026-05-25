@@ -1,7 +1,9 @@
 ---
 iso: hsn
 name: Xiang Chinese
+name_zh: 湘语
 autonym: Hunanese
+alt_names: ["Chinese, Xiang", "Chinese,Xiang", Hounaneg, Hsiang, Hunan, Język xiang, Lingua xiang, Xiang, Xiang Dialect Family, Xiang-kiina, Xiangish, Xiāng, ภาษาจีนเซียง, 湘語, 湘语, 샹어]
 population: 37300000
 country_id: CN
 country_name: China

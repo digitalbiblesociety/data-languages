@@ -2,6 +2,7 @@
 iso: nyf
 name: Giryama
 autonym: Agiryama
+alt_names: [Giriama, Kigiriama, Kigiryama, Kinyika, Nika, Nyika]
 population: 1160000
 country_id: KE
 country_name: Kenya

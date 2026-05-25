@@ -2,6 +2,7 @@
 iso: mek
 name: Mekeo
 autonym: null
+alt_names: [Kovio, Mekeo-Kovio]
 population: 20000
 country_id: PG
 country_name: Papua New Guinea

@@ -2,6 +2,7 @@
 iso: yaw
 name: Yawalapití
 autonym: Jaulapiti
+alt_names: [Yaulapiti, Yawalapiti, Yawalpití]
 population: 220
 country_id: BR
 country_name: Brazil

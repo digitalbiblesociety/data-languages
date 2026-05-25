@@ -1,7 +1,9 @@
 ---
 iso: zun
 name: Zuni
+name_zh: 苏尼语
 autonym: Shiwiʼma
+alt_names: [Achiwieg, Idioma zuñi, "Shiwi'ma", Zuñi, Zuñí, Зуни, ズニ語]
 population: 9620
 country_id: US
 country_name: United States

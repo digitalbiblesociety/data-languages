@@ -2,6 +2,7 @@
 iso: naw
 name: Nawuri
 autonym: null
+alt_names: [Guang]
 population: 9300
 country_id: GH
 country_name: Ghana

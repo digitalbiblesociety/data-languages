@@ -2,6 +2,7 @@
 iso: vka
 name: Kariyarra
 autonym: Kariyarra
+alt_names: [Gariera, Gariyarra, Kaierra, Kariara, Kariera, Kariera-Ngaluma, Kariyara, Karriara, Karriarra, Kudjunguru, Kyeara, Kyreara, Minjiburu, "Minjiburu:", Minjirbururu, Minjubururu, Paljarri]
 population: null
 country_id: AU
 country_name: Australia

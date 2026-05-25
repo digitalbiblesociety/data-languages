@@ -2,6 +2,7 @@
 iso: siv
 name: Sumariup
 autonym: Latoma
+alt_names: [Sogoba]
 population: 80
 country_id: PG
 country_name: Papua New Guinea

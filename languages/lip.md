@@ -2,6 +2,7 @@
 iso: lip
 name: Sekpele
 autonym: Sekpele
+alt_names: [Bosele, Likpe, Mu, Sɛkpɛlé]
 population: 23000
 country_id: GH
 country_name: Ghana

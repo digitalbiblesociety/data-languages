@@ -1,7 +1,9 @@
 ---
 iso: ing
 name: "Degexit'an"
+name_zh: 德格斯納格語
 autonym: "Deg Hit'an"
+alt_names: ["\"Ingalik\"", "\"Ingalit\"", Deg Xinag, "Deg Xit'an", Ingalik, Kaiyuh-khotana]
 population: 280
 country_id: US
 country_name: United States

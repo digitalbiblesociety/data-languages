@@ -2,6 +2,7 @@
 iso: tdk
 name: Tambas
 autonym: Tambes
+alt_names: [Fier, Fyer, Tembis]
 population: 3000
 country_id: NG
 country_name: Nigeria

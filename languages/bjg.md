@@ -1,7 +1,9 @@
 ---
 iso: bjg
 name: Bidyogo
+name_zh: Bijago语
 autonym: Bijago
+alt_names: [Bibjogo, Bijogo, Bijougot, Bijuga, Budjago, Bugago, Kangaki-Kagbaaga-Kajoko Bidyogo, Èdè Bijago]
 population: 36000
 country_id: GW
 country_name: "Guinea-Bissau"

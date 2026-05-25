@@ -2,6 +2,7 @@
 iso: six
 name: Sumau
 autonym: Garia
+alt_names: [Kari, Karigari, Sumau-Garia]
 population: 2580
 country_id: PG
 country_name: Papua New Guinea

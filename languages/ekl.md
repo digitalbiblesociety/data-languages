@@ -1,7 +1,9 @@
 ---
 iso: ekl
 name: Kol (Bangladesh)
+name_zh: 科尔语
 autonym: Hor
+alt_names: [Kol]
 population: 1660
 country_id: BD
 country_name: Bangladesh

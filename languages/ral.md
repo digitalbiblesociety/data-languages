@@ -2,6 +2,7 @@
 iso: ral
 name: Ralte
 autonym: null
+alt_names: ["India, Myanmar"]
 population: 24800
 country_id: IN
 country_name: India

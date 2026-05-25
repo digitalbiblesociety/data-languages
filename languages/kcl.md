@@ -2,6 +2,7 @@
 iso: kcl
 name: Kela (Papua New Guinea)
 autonym: Kela
+alt_names: [Apoze, Gela, Kala, Kela (Apoze), Kelana, Laukanu]
 population: 2150
 country_id: PG
 country_name: Papua New Guinea

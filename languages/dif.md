@@ -2,6 +2,7 @@
 iso: dif
 name: Dieri
 autonym: Dieri
+alt_names: [Dayerrie, Deerie, Dhirari, Diari, Dickeri, Dieyerie, Dieyrie, Dijari, Dirari, Diyari, Diyari language, Diyeri, Dthee eri, Dthee-eri, Jarawurga, Koonarie, Kunari, "Ti:ari", Tirari, Urrominna, Urronminna, Wanggainara, Wongkadieri, Wonkadieri]
 population: 600
 country_id: AU
 country_name: Australia

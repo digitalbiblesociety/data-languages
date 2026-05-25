@@ -1,7 +1,9 @@
 ---
 iso: xpr
 name: Parthian
+name_zh: 帕提亚语
 autonym: null
+alt_names: [Bahasa Parthia, Idioma parto, Lingua Parthica, Língua pahlavi, Parthe, Parthian kieli, Parthische Sprache, Partki, Partça, Парфянский язык, Парћански језик, زبان پارتی, ภาษาพาร์เทียน]
 population: null
 country_id: IR
 country_name: Iran

@@ -2,6 +2,7 @@
 iso: akc
 name: Mpur
 autonym: Amberbaken
+alt_names: [Dekwambre, Ekware, Kebar]
 population: 7000
 country_id: ID
 country_name: Indonesia

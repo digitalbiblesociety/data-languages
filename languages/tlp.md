@@ -2,6 +2,7 @@
 iso: tlp
 name: "Filomena Mata-Coahuitlán Totonac"
 autonym: Coahuitlán Totonac
+alt_names: [Filomena Mata Totonac, Filomena Mata-Coahuitlan Totonac, Santo Domingo Totonac, Totonac, "Totonac, Filomena Mata-Coahuitlán", Totonacano de Patla, Totonacano filomeno mata-coahuillán, Totonaco, Totonaco de Filomena Mata-Coahuitlán, Totonako, Totonaque de Filomeno Mata, Totonaque de Patla-Chicontla]
 population: 15100
 country_id: MX
 country_name: Mexico

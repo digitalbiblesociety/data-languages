@@ -2,6 +2,7 @@
 iso: bqz
 name: Bakaka
 autonym: Ngoe
+alt_names: [Central Mbo]
 population: 30000
 country_id: CM
 country_name: Cameroon

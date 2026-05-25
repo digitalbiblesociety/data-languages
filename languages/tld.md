@@ -2,6 +2,7 @@
 iso: tld
 name: Talaud
 autonym: Talaur
+alt_names: [Talaut, Talodda]
 population: 52100
 country_id: ID
 country_name: Indonesia

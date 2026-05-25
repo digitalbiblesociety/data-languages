@@ -2,6 +2,7 @@
 iso: pip
 name: Pero
 autonym: Péerò
+alt_names: ["Chong'e", Chonge, Filiya, Goji, Kushe, Kushi, Pipero]
 population: 25000
 country_id: NG
 country_name: Nigeria

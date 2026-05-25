@@ -1,7 +1,9 @@
 ---
 iso: ywq
 name: "Wuding-Luquan Yi"
+name_zh: 武定-禄劝方言
 autonym: Eastern Yi
+alt_names: [Dian Dongbei Yi, Lolo, Wu-Lu Yi, Yi, "Yi, Wuding-Luquan"]
 population: 250000
 country_id: CN
 country_name: China

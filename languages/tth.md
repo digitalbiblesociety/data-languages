@@ -2,6 +2,7 @@
 iso: tth
 name: "Upper Ta'oih"
 autonym: Ta Oi
+alt_names: [(Kha)Tahoi, Kantua, Kha Tahoï, Kon-Tu, Kontu, Ta Hoi, "Ta'oih", "Ta'oih, Upper", Ta-Oi, Ta-Oy, Ta-ôih, Tau Oi, Toi-Oi, Tà-Oi, Tă-hoi]
 population: 49900
 country_id: LA
 country_name: Laos

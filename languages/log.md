@@ -2,6 +2,7 @@
 iso: log
 name: Logo
 autonym: Logoti
+alt_names: [Логоски јазик]
 population: 210000
 country_id: CD
 country_name: DR Congo

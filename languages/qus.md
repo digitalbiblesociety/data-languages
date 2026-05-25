@@ -2,6 +2,7 @@
 iso: qus
 name: Santiago del Estero Quichua
 autonym: Santiagueño Quichua
+alt_names: [Argentina Quechua, Argentinisches Quechua, Argentino, Arhintinap runasimin, Cuzco, Kichua, Quechua de Santiago del Estero, Quichua, Quichua Santiagueño, "Quichua, Santiago del Estero", Santiago del Estero Kechua, Santiago del Estero Quechua, Santiagueño, Tucumano, Аргентинский кечуа]
 population: 60000
 country_id: AR
 country_name: Argentina

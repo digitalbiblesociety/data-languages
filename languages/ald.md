@@ -2,6 +2,7 @@
 iso: ald
 name: Alladian
 autonym: Alladyan
+alt_names: [Aladian, Allagia, Allagian]
 population: 23000
 country_id: CI
 country_name: "Côte d'Ivoire"

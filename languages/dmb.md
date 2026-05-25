@@ -2,6 +2,7 @@
 iso: dmb
 name: Mombo Dogon
 autonym: Ejenge Dõ
+alt_names: ["Dogon, Mombo", Kolu, Kolu So, Kolu-so, Kolum So, Kolum-so, Mombo, Pignari]
 population: 19000
 country_id: ML
 country_name: Mali

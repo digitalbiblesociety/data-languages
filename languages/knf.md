@@ -1,7 +1,9 @@
 ---
 iso: knf
 name: Mankanya
+name_zh: 曼卡尼亞語
 autonym: "Mancanha, Mancagne, Mankaañ"
+alt_names: [Bola, Mancagne, Mancang, Mancanha, Mancaña, Mankan, Mankanha, Mankanyeg]
 population: 96460
 country_id: GW
 country_name: "Guinea-Bissau"

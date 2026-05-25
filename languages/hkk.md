@@ -2,6 +2,7 @@
 iso: hkk
 name: "Hunjara-Kaina Ke"
 autonym: null
+alt_names: [Hunjara]
 population: 8770
 country_id: PG
 country_name: Papua New Guinea

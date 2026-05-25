@@ -2,6 +2,7 @@
 iso: sax
 name: Sa
 autonym: Saa
+alt_names: [Vanuatu]
 population: 2500
 country_id: VU
 country_name: Vanuatu

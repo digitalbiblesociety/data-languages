@@ -2,6 +2,7 @@
 iso: rjg
 name: Rajong
 autonym: Razong
+alt_names: [Pai]
 population: 4240
 country_id: ID
 country_name: Indonesia

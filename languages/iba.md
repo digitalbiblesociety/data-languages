@@ -1,7 +1,9 @@
 ---
 iso: iba
 name: Iban
+name_zh: 伊班语
 autonym: Jaku Iban
+alt_names: [Bahasa Iban, Dayak, Sea Dayak]
 population: 782800
 country_id: MY
 country_name: Malaysia

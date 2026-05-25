@@ -2,6 +2,7 @@
 iso: ndu
 name: Dugun
 autonym: Duru
+alt_names: ["Pa'non", Pani, Panon, Pape, Saa, Sari]
 population: 7000
 country_id: CM
 country_name: Cameroon

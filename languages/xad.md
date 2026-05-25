@@ -2,6 +2,7 @@
 iso: xad
 name: Adai
 autonym: Tenánat Hadéyas
+alt_names: [Adaes, Adahi, Adaise, Adaize, Adaizi, Adees, Adái]
 population: null
 country_id: US
 country_name: United States

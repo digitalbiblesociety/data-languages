@@ -1,7 +1,9 @@
 ---
 iso: nab
 name: Southern Nambikuára
+name_zh: 南比夸拉語
 autonym: " Nambiquara"
+alt_names: [Kithãulhú, Lenguas nambicuaras, Língua nambiquara, Mamaindê, Nambikuara, Nambikuara (Southern), Nambikura (Southern), Nambikuára, Nambikuára meridional, "Nambikuára, Southern", Nambikwara, Nambikwara du Sud, Nambikwara language, Nambikwara-Sprachen, Nambiquara (Southern), Nambiwara, S. Nambiquara, Southern Nambikuara, Southern Nambikuaran language area, Southern Nambikwara, Southern Nambiquara]
 population: 720
 country_id: BR
 country_name: Brazil

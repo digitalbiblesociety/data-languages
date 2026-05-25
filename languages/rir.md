@@ -2,6 +2,7 @@
 iso: rir
 name: Ribun
 autonym: bahasa Ribun
+alt_names: [Indonesia]
 population: 45000
 country_id: ID
 country_name: Indonesia

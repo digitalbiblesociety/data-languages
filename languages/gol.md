@@ -2,6 +2,7 @@
 iso: gol
 name: Gola
 autonym: "Gola, ꖑꕞ"
+alt_names: [Gula]
 population: 190000
 country_id: LR
 country_name: Liberia

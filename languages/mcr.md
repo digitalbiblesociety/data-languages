@@ -2,6 +2,7 @@
 iso: mcr
 name: Menya
 autonym: Menyama
+alt_names: [Menye]
 population: 25000
 country_id: PG
 country_name: Papua New Guinea

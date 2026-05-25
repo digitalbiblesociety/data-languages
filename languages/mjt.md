@@ -1,7 +1,9 @@
 ---
 iso: mjt
 name: Sauria Paharia
+name_zh: 绍里亚帕哈里亚语
 autonym: Paharia
+alt_names: [Lenga Sauria Paharia, Lingua Malto, Malatri, Maler, Malti, Malto, Maltu, Râjmahal, Sawriya Malto]
 population: 242000
 country_id: IN
 country_name: India

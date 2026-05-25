@@ -2,6 +2,7 @@
 iso: bjx
 name: Banao Itneg
 autonym: Banao
+alt_names: ["Itneg, Banao", Timggian, Tinguian]
 population: 3500
 country_id: PH
 country_name: Philippines

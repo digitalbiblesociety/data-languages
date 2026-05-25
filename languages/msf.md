@@ -2,6 +2,7 @@
 iso: msf
 name: Mekwei
 autonym: "Demenggong-Waibron-Bano"
+alt_names: [Dozai, Mekei, Menggei, Menggwei, Moi, Moi-e, Mooi, Munggai, Mungge, Munkei, Sabron-Dosay, Waibron Bano-Demenggong, Waipu]
 population: 1200
 country_id: ID
 country_name: Indonesia

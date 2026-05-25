@@ -2,6 +2,7 @@
 iso: omx
 name: Old Mon
 autonym: null
+alt_names: ["Mon, Old"]
 population: null
 country_id: MM
 country_name: Myanmar

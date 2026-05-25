@@ -2,6 +2,7 @@
 iso: nqm
 name: Ndom
 autonym: bahasa Ndom
+alt_names: [Indonesia]
 population: 1200
 country_id: ID
 country_name: Indonesia

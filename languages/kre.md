@@ -2,6 +2,7 @@
 iso: kre
 name: Panará
 autonym: Kreen Akarore
+alt_names: [Creen-Acarore, Ipewí, Kreen-Akarore, Kreen-Akorore, Kren Akarore, Kren-Akarore, Panara]
 population: 250
 country_id: BR
 country_name: Brazil

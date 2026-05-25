@@ -2,6 +2,7 @@
 iso: onu
 name: Unua
 autonym: Onua
+alt_names: [Mallicolo]
 population: 520
 country_id: VU
 country_name: Vanuatu

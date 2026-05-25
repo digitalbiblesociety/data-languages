@@ -2,6 +2,7 @@
 iso: dmr
 name: East Damar
 autonym: South Damar
+alt_names: ["Damar, East"]
 population: 2800
 country_id: ID
 country_name: Indonesia

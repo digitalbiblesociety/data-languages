@@ -1,7 +1,9 @@
 ---
 iso: tkr
 name: Tsakhur
+name_zh: 查胡尔语
 autonym: цӀаӀхна миз
+alt_names: [Caxur, Język cachurski, Língua tsakhur, Sakhur, Saxur dili, Tsachurische Sprache, Tsahurin kieli, Tsajur, Tsakhar, Tsakhour, Tsakhury, Tsaxur, cʼäxna miz, Цахурски јазик, Цахурська мова, цахурский язык, წახური ენა]
 population: 22300
 country_id: AZ
 country_name: Azerbaijan

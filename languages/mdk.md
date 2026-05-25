@@ -2,6 +2,7 @@
 iso: mdk
 name: Mangbutu
 autonym: "Mangu-Ngutu"
+alt_names: [Mombuttu, Wambutu]
 population: 1200
 country_id: CD
 country_name: DR Congo

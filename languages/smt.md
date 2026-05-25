@@ -2,6 +2,7 @@
 iso: smt
 name: Simte
 autonym: Zomi
+alt_names: [India]
 population: 10200
 country_id: IN
 country_name: India

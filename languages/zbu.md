@@ -1,6 +1,7 @@
 ---
 iso: zbu
 name: Bu (Bauchi State)
+alt_names: [Buu, Buu (Nigeria), Zaranda, Zarandaa]
 population: 8000
 country_id: NG
 country_name: Nigeria

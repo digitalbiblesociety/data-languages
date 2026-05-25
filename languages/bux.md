@@ -2,6 +2,7 @@
 iso: bux
 name: Boghom
 autonym: Bogghom
+alt_names: [Bogham, Boghorom, Bohom, Bokiyim, Borrom, Burma, Burom, Burrum, Burum, Kir, Kir-Balar, Kirr, Larbawa, Saya Group C, Zaar Group C]
 population: 50000
 country_id: NG
 country_name: Nigeria

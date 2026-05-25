@@ -2,6 +2,7 @@
 iso: bhg
 name: Binandere
 autonym: null
+alt_names: [Aiga, Ambasi, Binanderan, Binanderean Proper, Ioma Binandere, Tain-Daware, Upper Musa]
 population: 7000
 country_id: PG
 country_name: Papua New Guinea

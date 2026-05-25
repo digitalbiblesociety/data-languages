@@ -1,7 +1,9 @@
 ---
 iso: ain
 name: Japanese Ainu
+name_zh: 阿伊努语
 autonym: アィヌ・イタㇰ
+alt_names: [Aino, Ainoueg, Ainu, Ainu (Hokkaido), Ainu (Japan), Ainu Itak, Ainu language, Ainu-gú, Ainuera, Ainun kieli, Ainú (Sajalín), Ainština, Ainų kalba, Ajnua lingvo, Aynu itak, Aínúmál, Aïnou, Aïnou (Hokkaido), Aïnou (Kouriles), Aïnou (Sakhaline), Bahasa Ainu, Hokkaido dialect, Idioma ainu, Język ajnoski, Kurili, Limba ainu, Lingua Ainuana, Lingua ainu, Llingua ainu, Língua ainu, Tiếng Ainu, Аину јазик, Аину језик, Айнаг æвзаг, Айнский язык, Айнська мова, Айну чĕлхи, Мова айну, איינו, زبان آینو, لغة آينوية, আইনু ভাষা, ஐனு மொழி, ภาษาไอนุ, აინუური ენა, アイヌ　イタㇰ, アイヌ語, 阿伊努語, 아이누어]
 population: 13000
 country_id: JP
 country_name: Japan

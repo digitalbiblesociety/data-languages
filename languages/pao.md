@@ -1,7 +1,9 @@
 ---
 iso: pao
 name: Northern Paiute
+name_zh: 北派伍特語
 autonym: "Paiute, Northern"
+alt_names: [Bannock, N Paiute, N. Paiute, North Paiute, Northern, Paiute, Paiute (Northern), Paiute du Nord, Paiute du nord  (Nevada), Paiute du nord (Idaho), Paiute du nord (Oregon), Paviotso, Paviotso-Bannock-Snake, Payuté septentrional (Oregon)]
 population: 700
 country_id: US
 country_name: United States

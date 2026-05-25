@@ -1,6 +1,7 @@
 ---
 iso: kex
 name: Kukna
+name_zh: 卡纳里孔卡尼语
 autonym: "Kokna-Dhodia"
 population: 417000
 country_id: IN

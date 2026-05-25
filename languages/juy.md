@@ -1,7 +1,9 @@
 ---
 iso: juy
 name: Juray
+name_zh: 朱莱语
 autonym: ଜୁରାୟ୍
+alt_names: [India]
 population: 801000
 country_id: IN
 country_name: India

@@ -2,6 +2,7 @@
 iso: msb
 name: Masbatenyo
 autonym: Minasbate
+alt_names: [Bisaya, Masbatenyo nga yinaknan, Masbateño, Masbateño language, Minasbatenyo, ภาษามัสบาเตนโย]
 population: 474000
 country_id: PH
 country_name: Philippines

@@ -2,6 +2,7 @@
 iso: nxe
 name: Nage
 autonym: "Nage-Keo"
+alt_names: [Nagé]
 population: 50000
 country_id: ID
 country_name: Indonesia

@@ -1,6 +1,7 @@
 ---
 iso: slu
 name: Selaru
+name_zh: 塞拉鲁语
 autonym: Salaru
 population: 8000
 country_id: ID

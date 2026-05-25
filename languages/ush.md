@@ -2,6 +2,7 @@
 iso: ush
 name: Ushojo
 autonym: Ushuji
+alt_names: [Dardu, Usoyo]
 population: 500
 country_id: PK
 country_name: Pakistan

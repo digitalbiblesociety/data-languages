@@ -2,6 +2,7 @@
 iso: byz
 name: Banaro
 autonym: Waran
+alt_names: [Banar, Banara]
 population: 2480
 country_id: PG
 country_name: Papua New Guinea

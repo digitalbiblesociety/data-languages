@@ -2,6 +2,7 @@
 iso: nmu
 name: Northeast Maidu
 autonym: Májdy
+alt_names: [Maidu, Maidu (Mountain), Maidu (Moutain), Maidu (Northeast), Maidu language, "Maidu, Northeast", Maidú nororiental, Mountain Maidu, N.E. Maidu, NE Maidu, Northeastern Maidu]
 population: 110
 country_id: US
 country_name: United States

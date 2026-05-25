@@ -2,6 +2,7 @@
 iso: axl
 name: Lower Southern Aranda
 autonym: Lower Aranda
+alt_names: [Aldolanga, Aldolinga, Alitera, Aranda, "Aranda, Lower Southern", Aranta, Arinta, Arranda, Arrinda, Arrundta, Arrunta, Arunda, Arunndta, Arunta, Arunta Bu, Arunta Ulpma, Eastern Aranda, Southern Aranda, Western Aranda]
 population: null
 country_id: AU
 country_name: Australia

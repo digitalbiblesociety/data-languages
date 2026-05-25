@@ -1,7 +1,9 @@
 ---
 iso: nds
 name: Low German
+name_zh: 低地德语
 autonym: Low Saxon
+alt_names: [Baixo saxão, Bajo sajón, Bas-saxon, Basso sassone, German (Low), "German, Low", Język dolnosaksoński, Lingua baixo saxoa, Lingua saxonica, Modern Low German, Nedderdütsch, Neddersassisch, Nedersaksies, Nedersaksisch, Nether-Saxon, Neuniederdeutsch, Niedersaechsisch, Niedersächsisch, Plattdeutsch, Plattdütsch, Saxon (Low), "Saxon, Low", West Low German, "allemand, bas", bas allemand, bas saxon, "saxon, bas", Ала Саксонь, Долносаксонски јазик]
 population: 1000
 country_id: DE
 country_name: Germany

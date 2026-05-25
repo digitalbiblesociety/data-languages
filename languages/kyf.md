@@ -2,6 +2,7 @@
 iso: kyf
 name: Kouya
 autonym: null
+alt_names: [Kowya, Kuya, Sokya]
 population: 10100
 country_id: CI
 country_name: "Côte d'Ivoire"

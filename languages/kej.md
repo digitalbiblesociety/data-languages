@@ -2,6 +2,7 @@
 iso: kej
 name: Kadar
 autonym: Kada
+alt_names: [Kadir]
 population: 1960
 country_id: IN
 country_name: India

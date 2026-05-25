@@ -2,6 +2,7 @@
 iso: slg
 name: Selungai Murut
 autonym: Murut
+alt_names: ["Malaysia, Indonesia"]
 population: 1240
 country_id: ID
 country_name: Indonesia

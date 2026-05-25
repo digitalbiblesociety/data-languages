@@ -2,6 +2,7 @@
 iso: kdz
 name: Kwaja
 autonym: null
+alt_names: [Cameroon]
 population: 2980
 country_id: CM
 country_name: Cameroon

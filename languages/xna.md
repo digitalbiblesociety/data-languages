@@ -1,7 +1,9 @@
 ---
 iso: xna
 name: Ancient North Arabian
+name_zh: 古北阿拉伯字母
 autonym: Pre-Islamic North and East Arabian
+alt_names: [Frühnordarabische Sprache, "North Arabian, Ancient", Северноаравийские языки, Стар северноарапски јазик, عربية شمالية قديمة]
 population: null
 country_id: SA
 country_name: Saudi Arabia

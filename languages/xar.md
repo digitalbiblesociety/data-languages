@@ -2,6 +2,7 @@
 iso: xar
 name: Karami
 autonym: null
+alt_names: [Pepeha]
 population: null
 country_id: PG
 country_name: Papua New Guinea

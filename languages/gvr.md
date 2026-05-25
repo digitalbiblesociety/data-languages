@@ -1,7 +1,9 @@
 ---
 iso: gvr
 name: Gurung
+name_zh: 古隆语
 autonym: Tamu Kyi
+alt_names: [Gurnung, Western, Western Gurung]
 population: 359000
 country_id: NP
 country_name: Nepal

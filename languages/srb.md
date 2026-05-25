@@ -1,7 +1,9 @@
 ---
 iso: srb
 name: Sora
+name_zh: 索拉语
 autonym: Savara
+alt_names: [Lenga sora, Lingua Sora, Sabar, Sabara, Saonras, Saora, Saura, Sawaria, Shabari, Soːra, Swara, ภาษาโสรา]
 population: 410000
 country_id: IN
 country_name: India

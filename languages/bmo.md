@@ -2,6 +2,7 @@
 iso: bmo
 name: Bambalang
 autonym: Chrambo
+alt_names: [Bambolang, Mboyakum, Tshirambo]
 population: 29000
 country_id: CM
 country_name: Cameroon

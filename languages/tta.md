@@ -1,7 +1,9 @@
 ---
 iso: tta
 name: Tutelo
+name_zh: 圖特盧語
 autonym: "Yesá:sahį́"
+alt_names: [Occaneechi, Saponey, Saponi, Tutelo-Saponi-Monyton]
 population: null
 country_id: US
 country_name: United States

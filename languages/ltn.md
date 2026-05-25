@@ -2,6 +2,7 @@
 iso: ltn
 name: Latundê
 autonym: Northern Nambikwara
+alt_names: [Kithāulhú, Laconde, Lacondê, Latunde, Mamaindê, Mamande, Nakarothe, Nambikuára septentrional, Nambikwara du nord, Northern Nambikuaran, Northern Nambiquara, Yalapmunxte]
 population: null
 country_id: BR
 country_name: Brazil

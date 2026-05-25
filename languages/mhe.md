@@ -1,7 +1,9 @@
 ---
 iso: mhe
 name: Besisi
+name_zh: 马赫梅里语
 autonym: " Betise’"
+alt_names: [Belandas, "Betise'", Betisek, Cellate, Mah Meri, Southern Sakai, Süd-Sakai]
 population: 2990
 country_id: MY
 country_name: Malaysia

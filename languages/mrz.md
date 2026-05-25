@@ -2,6 +2,7 @@
 iso: mrz
 name: Marind
 autonym: Gawir
+alt_names: [Holifoersch, Marind (Eastern), Southeast Marind, Tugeri]
 population: 7000
 country_id: ID
 country_name: Indonesia

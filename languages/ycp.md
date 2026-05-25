@@ -1,6 +1,7 @@
 ---
 iso: ycp
 name: Chepya
+name_zh: 切皮亚语
 autonym: Chipia
 population: 2000
 country_id: LA

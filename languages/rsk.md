@@ -1,7 +1,9 @@
 ---
 iso: rsk
 name: Ruthenian
+name_zh: 潘诺尼亚卢森尼亚语
 autonym: руски язик
+alt_names: [Rusnak]
 population: 14185
 country_id: RS
 country_name: Serbia

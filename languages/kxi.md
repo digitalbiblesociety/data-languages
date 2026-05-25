@@ -2,6 +2,7 @@
 iso: kxi
 name: Keningau Murut
 autonym: Central Murut
+alt_names: ["Murut, Keningau"]
 population: 1000
 country_id: MY
 country_name: Malaysia

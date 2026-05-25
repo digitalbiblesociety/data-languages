@@ -2,6 +2,7 @@
 iso: vmk
 name: "Makhuwa-Shirima"
 autonym: Emakuana
+alt_names: [Chirima, Eshirima, Makhuwa-Exirima, Makhuwa-Niassa, Makhuwa-Xirima, Shirima, West Makua, Xirima]
 population: 729000
 country_id: MZ
 country_name: Mozambique

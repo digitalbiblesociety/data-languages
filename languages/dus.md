@@ -1,7 +1,9 @@
 ---
 iso: dus
 name: Dumi
+name_zh: 杜米语
 autonym: "Dumi Bo'o"
+alt_names: [Doumeg, Dumi Bro, Dumish, Dumí, Lsi Rai, Rai, "Ro'do Bo'", Sotmali]
 population: 2000
 country_id: NP
 country_name: Nepal

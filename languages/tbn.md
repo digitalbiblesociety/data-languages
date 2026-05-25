@@ -2,6 +2,7 @@
 iso: tbn
 name: Barro Negro Tunebo
 autonym: Tunebo
+alt_names: [Barro Negro, Cobaría, Eastern Tunebo, Pedraza, Sínsiga, Tame, Tegría, "Tunebo, Barro Negro", "U'w Cuwa", "U'w Kuwa", "U'wa", Uwa]
 population: 300
 country_id: CO
 country_name: Colombia

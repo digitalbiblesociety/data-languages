@@ -1,6 +1,7 @@
 ---
 iso: bvy
 name: Baybayanon
+name_zh: 拜拜語
 autonym: Utudnon
 population: 10000
 country_id: PH

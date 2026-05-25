@@ -2,6 +2,7 @@
 iso: twu
 name: Termanu
 autonym: "Pa'da"
+alt_names: [Central Rote, Rote, Rote Tengah, Roti, Rotinese, Rottinese]
 population: 30000
 country_id: ID
 country_name: Indonesia

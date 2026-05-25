@@ -2,6 +2,7 @@
 iso: sqh
 name: Shau
 autonym: Lìsháù
+alt_names: [Sho]
 population: null
 country_id: NG
 country_name: Nigeria

@@ -2,6 +2,7 @@
 iso: grr
 name: Taznatit
 autonym: تازناتيت / ⵜⴰⵣⵏⴰⵜⵉⵜ
+alt_names: [Garawa, Shilha, Touat, Zenati, Zenatia, Zenete, Znatiya]
 population: 11000
 country_id: DZ
 country_name: Algeria

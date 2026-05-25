@@ -2,6 +2,7 @@
 iso: scw
 name: Sha
 autonym: null
+alt_names: [Nigeria]
 population: 3000
 country_id: NG
 country_name: Nigeria

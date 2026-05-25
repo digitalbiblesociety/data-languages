@@ -2,6 +2,7 @@
 iso: lni
 name: "Daantanai'"
 autonym: Daantanai’
+alt_names: [Lantanai]
 population: 600
 country_id: PG
 country_name: Papua New Guinea

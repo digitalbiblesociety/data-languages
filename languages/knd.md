@@ -2,6 +2,7 @@
 iso: knd
 name: Konda
 autonym: Ogit
+alt_names: [Yabin, Yabin-Konda]
 population: 500
 country_id: ID
 country_name: Indonesia

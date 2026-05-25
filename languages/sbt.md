@@ -2,6 +2,7 @@
 iso: sbt
 name: Kimki
 autonym: Sukubatom
+alt_names: [Aipki, Biksi, Kimgi, Sukubatong]
 population: 500
 country_id: ID
 country_name: Indonesia

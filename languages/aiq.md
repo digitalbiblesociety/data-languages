@@ -1,7 +1,9 @@
 ---
 iso: aiq
 name: Aimaq
+name_zh: 艾马克语
 autonym: گویش ایماقی
+alt_names: [Aimakeg, Aimaq dialect, Aimaq jezik, Aímagíska, Barbari, Berberi, Chahar-Aimaq, Char Aimaq, ภาษาอายมัก]
 population: 1000
 country_id: AF
 country_name: Afghanistan

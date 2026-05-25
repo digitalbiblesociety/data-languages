@@ -2,6 +2,7 @@
 iso: mhc
 name: Mocho
 autonym: Motozintleco
+alt_names: [Cotoque, "Mocho'", Mochó, Motocintlec, Motocintlèque, Motozintlec, Tuzantec]
 population: 170
 country_id: MX
 country_name: Mexico

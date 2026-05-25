@@ -2,6 +2,7 @@
 iso: iyx
 name: Yaka (Congo)
 autonym: Iyaka
+alt_names: [West Teke, Yaa, Yaka]
 population: 10000
 country_id: CG
 country_name: Congo

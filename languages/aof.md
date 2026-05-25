@@ -2,6 +2,7 @@
 iso: aof
 name: Bragat
 autonym: Alauagat
+alt_names: [Alang, Braget, Yauan]
 population: 460
 country_id: PG
 country_name: Papua New Guinea

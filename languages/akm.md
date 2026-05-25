@@ -1,7 +1,9 @@
 ---
 iso: akm
 name: "Aka-Bo"
+name_zh: 阿卡波语
 autonym: "Aka-Bo"
+alt_names: [Aka-Bo jezik, Ba, Bo, Bo kalba, Bon kieli, Great Andamanese, Język bo, Lenga aka-bo, Lèngua Aka-Bo, Wikang Aka-Bo, Ака-бо, Бо, போ மொழி, 아카보어]
 population: null
 country_id: IN
 country_name: India

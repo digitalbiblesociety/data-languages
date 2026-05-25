@@ -1,6 +1,7 @@
 ---
 iso: qyp
 name: Quiripi
+name_zh: 奎利皮語
 autonym: null
 population: null
 country_id: US

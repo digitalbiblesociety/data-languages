@@ -2,6 +2,7 @@
 iso: kyl
 name: Kalapuya
 autonym: Lukamiute
+alt_names: [Atfalati, Atfálati, Central Kalapuya, Central Kalapuyan, Kalapuya central, Kalapuyan, Kalapuyan languages, Langues kalapuyanes, Lenguas kalapuya, Santaim, Santiam, Tfalati, Tualatin, Wapatu, Wappato Lake, Yezhoù kalapouyek, Калапуянские языки]
 population: null
 country_id: US
 country_name: United States

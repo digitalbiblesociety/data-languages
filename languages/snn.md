@@ -1,7 +1,9 @@
 ---
 iso: snn
 name: Siona
+name_zh: 西奥纳语
 autonym: Gantëya coca
+alt_names: [Kakawahe, Macaguaje, Pioche, Pioche-Sioni, Piohé, Pioje, Pioje-Sioni, Piojé, Piojé-Sioni, Pioxe, Secoya, Sioni]
 population: 300
 country_id: CO
 country_name: Colombia

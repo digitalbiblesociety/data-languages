@@ -1,7 +1,9 @@
 ---
 iso: tkl
 name: Tokelau
+name_zh: 托克劳语
 autonym: Tokelau
+alt_names: [Fakaafo, Idioma tokelauano, Język tokelau, Língua toquelauana, Tokelaa lingvo, Tokelau jezik, Tokelauan, Tokelauan language, Tokelauano, Tokelauanska, Tokelaui nyelv, Tokelauische Sprache, Tokelaun kieli, Tokelauski jezik, Tokelauà, Токелау, Токелауански јазик, زبان توکلائویی, لغة توكيلاوية]
 population: 1410
 country_id: TK
 country_name: Tokelau

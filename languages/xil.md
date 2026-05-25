@@ -1,6 +1,7 @@
 ---
 iso: xil
 name: Illyrian
+name_zh: 伊利里亚语
 autonym: null
 population: null
 country_id: AL

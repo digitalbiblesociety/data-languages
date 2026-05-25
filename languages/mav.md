@@ -2,6 +2,7 @@
 iso: mav
 name: "Sateré-Mawé"
 autonym: Sataré
+alt_names: [Andira, Andirá, Arapium, Mabue, Maragua, Maue, Maué, Mawé, Mawé-Sateré, Satere-Mawe, Sateré]
 population: 6220
 country_id: BR
 country_name: Brazil

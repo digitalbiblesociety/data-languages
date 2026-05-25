@@ -2,6 +2,7 @@
 iso: lan
 name: Laru
 autonym: Shen
+alt_names: [Laranchi, Larawa, Laro]
 population: 5000
 country_id: NG
 country_name: Nigeria

@@ -2,6 +2,7 @@
 iso: jor
 name: Jorá
 autonym: Mbia chẽẽ
+alt_names: [Hora, Jora]
 population: null
 country_id: BO
 country_name: Bolivia

@@ -1,7 +1,9 @@
 ---
 iso: kpw
 name: Kobon
+name_zh: 柯本語
 autonym: null
+alt_names: [Język kobon]
 population: 10000
 country_id: PG
 country_name: Papua New Guinea

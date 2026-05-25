@@ -1,7 +1,9 @@
 ---
 iso: tep
 name: Tepecano
+name_zh: 泰佩卡诺语
 autonym: null
+alt_names: [Tepekano, Tepiman]
 population: null
 country_id: MX
 country_name: Mexico

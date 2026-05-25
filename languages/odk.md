@@ -2,6 +2,7 @@
 iso: odk
 name: Od
 autonym: Odki
+alt_names: [Oad]
 population: 2076100
 country_id: PK
 country_name: Pakistan

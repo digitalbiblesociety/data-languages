@@ -2,6 +2,7 @@
 iso: blm
 name: Beli (South Sudan)
 autonym: Jur ’Bëlï
+alt_names: ["'Beli", Behli, Beili, Beli, Beli (Sudan), Jur Beli]
 population: 65000
 country_id: SS
 country_name: South Sudan

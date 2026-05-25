@@ -1,7 +1,9 @@
 ---
 iso: zyg
 name: Yang Zhuang
+name_zh: 德靖壯語
 autonym: Dejing
+alt_names: [De-Jing, De-Jing Vernacular of the Southern Dialect of the Zhuang Language, Dejing Zhuang, Gen Yang, Jingxi Zhuang, Nung Giang, Teching, Thu Lao, Tianbao, Tu, Tuhua, Tuliao, Tuzu, Wen-Ma, Wen-Ma Southern Zhuang, Wenma, Yangyu, "Yung-ch'un", Yung-shun, Zhuang, "Zhuang, Yang", Zhuangyu Nanbu fangyan Dejing tuyu]
 population: 765000
 country_id: CN
 country_name: China

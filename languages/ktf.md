@@ -2,6 +2,7 @@
 iso: ktf
 name: Kwami
 autonym: Kikwame
+alt_names: [Kikwami, Kwame]
 population: 400
 country_id: CD
 country_name: DR Congo

@@ -2,6 +2,7 @@
 iso: rau
 name: Raute
 autonym: Boto boli
+alt_names: [Bot̪o Boli, Harka Gurung, Khamchi, Khāmci, Rautye]
 population: 130
 country_id: NP
 country_name: Nepal

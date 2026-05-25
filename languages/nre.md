@@ -2,6 +2,7 @@
 iso: nre
 name: Southern Rengma Naga
 autonym: Southern Rengma
+alt_names: [Central Rengma, Injang, Moiyui, Mon, Mozhumi, "Naga, Southern Rengma", "Naga,SouthernRengma", Nzong, Nzonyu, Rengma, Rengma Naga, Rengma Proper, Terüpvunyu, Unza, Western Rengma]
 population: 21000
 country_id: IN
 country_name: India

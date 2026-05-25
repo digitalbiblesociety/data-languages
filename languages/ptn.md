@@ -2,6 +2,7 @@
 iso: ptn
 name: Patani
 autonym: null
+alt_names: [Indonesia]
 population: 10600
 country_id: ID
 country_name: Indonesia

@@ -1,7 +1,9 @@
 ---
 iso: cdf
 name: Chiru
+name_zh: 奇鲁语
 autonym: Rem
+alt_names: [Chhori, Riem, "Riemchawng [remcɔŋ]", Tśiru, चीरू‎ (Cīrū)]
 population: 7000
 country_id: IN
 country_name: India

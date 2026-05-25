@@ -2,6 +2,7 @@
 iso: mmi
 name: Musar
 autonym: Aregerek
+alt_names: [Amben, Hember Avu]
 population: 684
 country_id: PG
 country_name: Papua New Guinea

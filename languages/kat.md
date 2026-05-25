@@ -1,7 +1,9 @@
 ---
 iso: kat
 name: Georgian
+name_zh: 格鲁吉亚语
 autonym: Kartuli
+alt_names: [Bahasa Georgia, Basa Georgia, Georgian kieli, Georgiera, Georgisch, Georgische Sprache, Georgisk, Georgisk språk, Georgiska, Georgià, Georgíska, Grozėnu kalba, Gruusia keel, Gruzia-gí, Gruzijski, Gruzijski jezik, Gruzinski, Gruzinščina, Gruzinų kalba, Gruzínčina, Gruzínština, Gruzīnu valoda, Grúz nyelv, Gurciki, Géorgien, Gürcü dili, Gürcüce, Idioma georgiano, Jorjieg, Język gruziński, Kartul simi, Kartvela lingvo, Limba georgiană, Lingua Georgiana, Lingua xeorxiana, Língua georgiana, Nuclear Georgian, Pinulongang Heyorhiyano, Seoirsis, Wikang Heyorhiyano, Zimanê gurcî, Γεωργιανή γλώσσα, Ақырҭ бызшәа, Грузин тили, Грузин чĕлхи, Грузински език, Грузинский язык, Грузинська мова, Грузиски јазик, Грузијски језик, Грузінская мова, Гуырдзиаг æвзаг, Забони гурҷӣ, Վրացերեն, גאורגית, زبان گرجی, لغة جورجية, گرۇزىن تىلى, گورجی زوون, ܠܫܢܐ ܓܘܪܓܝܐ, சியார்சிய மொழி, ภาษาจอร์เจีย, ქართული ენა, グルジア語, 格鲁吉亚语, 그루지야어]
 population: 3898550
 country_id: GE
 country_name: Georgia

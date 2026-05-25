@@ -2,6 +2,7 @@
 iso: dti
 name: Ana Tinga Dogon
 autonym: Ana Tiŋa
+alt_names: ["Dogon, Ana Tinga"]
 population: 500
 country_id: ML
 country_name: Mali

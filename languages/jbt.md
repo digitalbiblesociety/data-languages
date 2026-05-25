@@ -2,6 +2,7 @@
 iso: jbt
 name: Jabutí
 autonym: Jabuti
+alt_names: [Djeoromitxi, Djeoromitxi language, Jabotí, Jeoromitxi, Kipiu, Língua jabuti, Quipiu, Yabuti, Yabutí, Ябути]
 population: 40
 country_id: BR
 country_name: Brazil

@@ -2,6 +2,7 @@
 iso: unz
 name: Unde Kaili
 autonym: Banava
+alt_names: [Banawa, "Kaili, Unde"]
 population: 20000
 country_id: ID
 country_name: Indonesia

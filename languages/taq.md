@@ -1,7 +1,9 @@
 ---
 iso: taq
 name: Tamasheq
+name_zh: 廷巴克語
 autonym: " Tamashekin"
+alt_names: ["\"Tuareg\"", Amäšey, Kidal, Kidal Tamasheq, Tamaceq, Tamacheq tahoua, "Tamasheq, Kidal", Tamäšeq, Timbuktu, Tomacheck, Tuareg]
 population: 500000
 country_id: ML
 country_name: Mali

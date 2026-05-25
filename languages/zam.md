@@ -2,6 +2,7 @@
 iso: zam
 name: Miahuatlán Zapotec
 autonym: Cuixtla Zapotec
+alt_names: [Miahuatec, Miahuatlan, Southern Mountain Zapotec, Southern Sapoteko, Zapotec, "Zapotec, Miahuatlán", Zapoteco de Asunción Tlacolulita, Zapoteco de Miahuatlán, "Zapotèque d'Asunción Tlacolulita"]
 population: 1000
 country_id: MX
 country_name: Mexico

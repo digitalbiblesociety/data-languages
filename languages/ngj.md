@@ -2,6 +2,7 @@
 iso: ngj
 name: Ngie
 autonym: Angie
+alt_names: [Baminge, Baninge, Mingi, Ngi, Ugie, Ungie]
 population: 37000
 country_id: CM
 country_name: Cameroon

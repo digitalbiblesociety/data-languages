@@ -2,6 +2,7 @@
 iso: nra
 name: Ngom
 autonym: Dikele
+alt_names: [Angom, Bangom, Bangomo, Ngomo, Ongom, Ungom]
 population: 12770
 country_id: GA
 country_name: Gabon

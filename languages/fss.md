@@ -1,7 +1,9 @@
 ---
 iso: fss
 name: "Finland-Swedish Sign Language"
+name_zh: 芬兰瑞典语手语
 autonym: finlandssvenskt teckenspråk
+alt_names: [Finnish-Swedish Sign Language, Suomenruotsalainen Vittomakieli, suomenruotsalainen viittomakieli]
 population: 150
 country_id: FI
 country_name: Finland

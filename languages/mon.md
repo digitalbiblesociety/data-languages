@@ -1,6 +1,7 @@
 ---
 iso: mon
 name: Mongolian
+name_zh: 蒙古语
 autonym: монгол хэл
 population: 3225000
 country_id: MN

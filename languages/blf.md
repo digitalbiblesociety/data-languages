@@ -2,6 +2,7 @@
 iso: blf
 name: Buol
 autonym: Apadu Vuolo
+alt_names: [Bual, "Bwo'ol", Dia]
 population: 90200
 country_id: ID
 country_name: Indonesia

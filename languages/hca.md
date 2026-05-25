@@ -1,7 +1,9 @@
 ---
 iso: hca
 name: Andaman Creole Hindi
+name_zh: 安达曼印地克里奥尔语
 autonym: Andaman Hindi
+alt_names: ["Creole Hindi, Andaman"]
 population: 20500
 country_id: IN
 country_name: India

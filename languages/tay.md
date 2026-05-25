@@ -1,7 +1,9 @@
 ---
 iso: tay
 name: Atayal
+name_zh: 泰雅语
 autonym: Tayal
+alt_names: [Ataiyal, Attayal, Bonotsek, Lingua Atayal, Sediq, Shabogala, Sprache von Formosa, Taijyal, Taiyal, Takonan, Tangao, Thai-ngâ-ngî, Tyal, Yukan, Атаяльский язык, ภาษาอตายัล, タイヤル語, 泰雅語]
 population: 92100
 country_id: TW
 country_name: Taiwan

@@ -2,6 +2,7 @@
 iso: urv
 name: Uruava
 autonym: null
+alt_names: [Uruava language]
 population: null
 country_id: PG
 country_name: Papua New Guinea

@@ -2,6 +2,7 @@
 iso: rml
 name: Baltic Romani
 autonym: "Romani, Baltic"
+alt_names: [Baltic, European Romany, Romani, Romani (North Russian), Romany, Zigeuner]
 population: 34010
 country_id: PL
 country_name: Poland

@@ -2,6 +2,7 @@
 iso: mhn
 name: Mócheno
 autonym: Bersntoler sproch
+alt_names: [Mocheno, Mòcheno]
 population: 1000
 country_id: IT
 country_name: Italy

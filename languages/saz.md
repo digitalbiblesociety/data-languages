@@ -1,7 +1,9 @@
 ---
 iso: saz
 name: Saurashtra
+name_zh: 萨乌拉施特拉语
 autonym: ꢱꣃꢬꢵꢰ꣄ꢜ꣄ꢬ ꢩꢵꢰꢵ
+alt_names: [Język saurasztryjski, Patnuli, Saurashtri, Sourashtra, Sowrashtra, सौराष्ट्र भाषा, સૌરાષ્ટ્ર ભાષા, சௌராட்டிர மொழி, ภาษาเสาราษฏร์]
 population: 248000
 country_id: IN
 country_name: India

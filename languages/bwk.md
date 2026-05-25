@@ -2,6 +2,7 @@
 iso: bwk
 name: Bauwaki
 autonym: Bawaki
+alt_names: [Baukawi]
 population: 520
 country_id: PG
 country_name: Papua New Guinea

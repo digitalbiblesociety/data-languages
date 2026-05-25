@@ -2,6 +2,7 @@
 iso: zas
 name: Santo Domingo Albarradas Zapotec
 autonym: Santo Domingo Albarradas Zapotec
+alt_names: [Albarradas, Albarradas Zapotec, Northern Sapoteko, Zapotec, "Zapotec, Santo Domingo Albarradas", Zapoteco de Santo Domingo Albarradas]
 population: 5500
 country_id: MX
 country_name: Mexico

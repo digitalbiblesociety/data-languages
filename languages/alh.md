@@ -2,6 +2,7 @@
 iso: alh
 name: Alawa
 autonym: Kallana
+alt_names: [Alaua, Alava, Allaua, Allaura, Allawa, Allowa, Allowiri, Allua, Alowa, Galawa, Galleewa, Galleewo, Kallaua, Leealowa, Ngewin, Walkonda, Walooka, Warliburru, Wilingura, Woo looami, Woolooami]
 population: 12
 country_id: AU
 country_name: Australia

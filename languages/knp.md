@@ -2,6 +2,7 @@
 iso: knp
 name: Kwanja
 autonym: Konja
+alt_names: [Kondja]
 population: 10000
 country_id: CM
 country_name: Cameroon

@@ -2,6 +2,7 @@
 iso: swc
 name: Congo Swahili
 autonym: Kiswahili
+alt_names: ["Swahili, Congo", Zaïre Swahili]
 population: 2043000
 country_id: CD
 country_name: DR Congo

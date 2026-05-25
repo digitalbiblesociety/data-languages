@@ -2,6 +2,7 @@
 iso: nwb
 name: Nyabwa
 autonym: Nyaboa
+alt_names: [Niaboua, Nyabwa-Nyédébwa]
 population: 72000
 country_id: CI
 country_name: "Côte d'Ivoire"

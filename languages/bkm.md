@@ -1,7 +1,9 @@
 ---
 iso: bkm
 name: Kom (Cameroon)
+name_zh: 科姆语
 autonym: Itaŋikom
+alt_names: [Bamekon, Bikom, Itangikom, Kom, Kom language, Kong, Nkom]
 population: 230000
 country_id: CM
 country_name: Cameroon

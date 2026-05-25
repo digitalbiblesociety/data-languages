@@ -2,6 +2,7 @@
 iso: cdi
 name: Chodri
 autonym: Chowdhary
+alt_names: [Chaudhari, Chaudri, Chodhari, Choudhara, Choudhary]
 population: 111000
 country_id: IN
 country_name: India

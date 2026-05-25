@@ -1,7 +1,9 @@
 ---
 iso: pon
 name: Pohnpeian
+name_zh: 波纳佩语
 autonym: Mahsen en Pohnpei / Lokaiahn Pohnpei
+alt_names: [Pohnopeian, Pohnpeanische Sprache, Pohnpei, Pohnpein kieli, Ponape, Ponape Proper, Ponapean, Ponapisk, Ponapės kalba, 波纳佩语]
 population: 32530
 country_id: FM
 country_name: Micronesia

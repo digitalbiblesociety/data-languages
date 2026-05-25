@@ -2,6 +2,7 @@
 iso: njj
 name: Njen
 autonym: Nen
+alt_names: [Nyen, Nzin]
 population: 1800
 country_id: CM
 country_name: Cameroon

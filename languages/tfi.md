@@ -2,6 +2,7 @@
 iso: tfi
 name: Tofin Gbe
 autonym: Toffi
+alt_names: [Benin, "Gbe, Tofin"]
 population: 143000
 country_id: BJ
 country_name: Benin

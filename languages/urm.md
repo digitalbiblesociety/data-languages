@@ -2,6 +2,7 @@
 iso: urm
 name: Urapmin
 autonym: Tifalmin
+alt_names: [Urapmin jezik]
 population: 370
 country_id: PG
 country_name: Papua New Guinea

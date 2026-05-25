@@ -2,6 +2,7 @@
 iso: wly
 name: Waling
 autonym: Walung
+alt_names: [Walüng, Wāling]
 population: null
 country_id: NP
 country_name: Nepal

@@ -2,6 +2,7 @@
 iso: txm
 name: Tomini
 autonym: Tialo
+alt_names: [Mouton, Tiadje]
 population: 19700
 country_id: ID
 country_name: Indonesia

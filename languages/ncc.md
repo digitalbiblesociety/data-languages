@@ -2,6 +2,7 @@
 iso: ncc
 name: Ponam
 autonym: null
+alt_names: [Admiralitäts-inseln]
 population: 420
 country_id: PG
 country_name: Papua New Guinea

@@ -1,7 +1,9 @@
 ---
 iso: ren
 name: Rengao
+name_zh: 卢敖语
 autonym: "Ro-Ngao"
+alt_names: [Hamong, Rangao, Rongao, Rəngao]
 population: 16000
 country_id: VN
 country_name: Vietnam

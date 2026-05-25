@@ -1,6 +1,7 @@
 ---
 iso: hmk
 name: Maek
+name_zh: 濊貊語
 autonym: "Yemaek, Maek"
 population: null
 country_id: KR

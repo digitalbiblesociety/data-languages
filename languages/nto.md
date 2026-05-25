@@ -2,6 +2,7 @@
 iso: nto
 name: Ntomba
 autonym: Bolia
+alt_names: [Lomtomba, Lontomba, Luntumba, Ntomba-Bolia, Ntumba]
 population: 100000
 country_id: CD
 country_name: DR Congo

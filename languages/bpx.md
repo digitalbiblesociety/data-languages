@@ -2,6 +2,7 @@
 iso: bpx
 name: Palya Bareli
 autonym: Bareli
+alt_names: ["Bareli, Palya", Pali, Palodi]
 population: 10000
 country_id: IN
 country_name: India

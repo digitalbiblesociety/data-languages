@@ -2,6 +2,7 @@
 iso: fub
 name: Adamawa Fulfulde
 autonym: Fulani
+alt_names: [Adamawa (Fula), Adamawa Fulani, Biira, Boulbe, Domona, Dzemay, Eastern Fulani, Eastern Fulfulde, Fellata, Fillanci, Foulfoulde, Ful, Ful(ani), Fula, Fula (Cameroonian), Fulah-Idiome, Fulani (Adamawa), Fulani (Gombe), Fulatanchi, Fulbe, Fulfulde, Fulfulde (Adamawa), Fulfulde (Cameroonian), "Fulfulde, Adamawa", Gapelta, Gombe, Nagapelta, Palata, Paldena, Paldida, Pelta Hay, Peul, Peulh, Pladina, Pul, Pule, Pullo, Sanyo, Taareyo, Zaakosa, Zemay]
 population: 13000000
 country_id: CM
 country_name: Cameroon

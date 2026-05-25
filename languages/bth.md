@@ -2,6 +2,7 @@
 iso: bth
 name: Biatah Bidayuh
 autonym: Bikuab
+alt_names: [Biatah, "Bidayuh, Biatah", Kuap, Quop, Sentah]
 population: 72380
 country_id: MY
 country_name: Malaysia

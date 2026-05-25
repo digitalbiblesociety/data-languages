@@ -1,7 +1,9 @@
 ---
 iso: hoj
 name: Hadothi
+name_zh: 哈多蒂语
 autonym: Hadoti
+alt_names: [Hadauti, Harauti, Harauti language, Haroti, Havauti, Piploda, ภาษาฮารัวตี]
 population: 2940000
 country_id: IN
 country_name: India

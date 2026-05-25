@@ -1,7 +1,9 @@
 ---
 iso: cay
 name: Cayuga
+name_zh: 卡尤加语
 autonym: Gayogo̱hó꞉nǫʼ
+alt_names: [Cayuga (Canada), Cayuga (Oklahoma), Кайюга, 카유가어]
 population: 3000
 country_id: CA
 country_name: Canada

@@ -2,6 +2,7 @@
 iso: yog
 name: Yogad
 autonym: null
+alt_names: [Philippines]
 population: 16000
 country_id: PH
 country_name: Philippines

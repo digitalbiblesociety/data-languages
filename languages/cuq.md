@@ -1,7 +1,9 @@
 ---
 iso: cuq
 name: Cun
+name_zh: 仡隆语
 autonym: Cunhua
+alt_names: [Cun-Hua, Laiyu, Nadouhua, Natou, Ngao Fon, 來語, 那斗話]
 population: 80000
 country_id: CN
 country_name: China

@@ -2,6 +2,7 @@
 iso: gas
 name: Adiwasi Garasia
 autonym: भीली
+alt_names: [Adiwasi Girasia, Adiwasi Gujarati, "Garasia, Adiwasi", Girasia]
 population: 100000
 country_id: IN
 country_name: India

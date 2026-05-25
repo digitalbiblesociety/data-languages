@@ -2,6 +2,7 @@
 iso: bqq
 name: Biritai
 autonym: Aliki
+alt_names: [Ati, Biri]
 population: 250
 country_id: ID
 country_name: Indonesia

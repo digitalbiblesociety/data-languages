@@ -2,6 +2,7 @@
 iso: bcy
 name: Bacama
 autonym: Abacama
+alt_names: [Bacama jezik, Bachama, Bachama-Bata, Bashamma, Batchameg, Besema, Bwareba, Gboare]
 population: 289000
 country_id: NG
 country_name: Nigeria

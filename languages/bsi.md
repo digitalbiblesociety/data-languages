@@ -2,6 +2,7 @@
 iso: bsi
 name: Bassossi
 autonym: Ngoe
+alt_names: [Asobse, Basosi, Basossi, Ngen, Nsose, Nswase, Nswose, Sosi, Swose]
 population: 5000
 country_id: CM
 country_name: Cameroon

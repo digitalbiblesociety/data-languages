@@ -2,6 +2,7 @@
 iso: waa
 name: Walla Walla
 autonym: Ichishkíin
+alt_names: [North Sahaptin, Northeast Sahaptin, Northeastern, Sahaptin, Sahaptin (Northern), Waluulapam]
 population: 100
 country_id: US
 country_name: United States

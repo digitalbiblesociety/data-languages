@@ -2,6 +2,7 @@
 iso: sct
 name: Southern Katang
 autonym: null
+alt_names: ["Katang, Southern"]
 population: null
 country_id: LA
 country_name: Laos

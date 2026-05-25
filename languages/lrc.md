@@ -1,7 +1,9 @@
 ---
 iso: lrc
 name: Northern Luri
+name_zh: 北卢尔语
 autonym: زۊن لٛوْری
+alt_names: ["Bakhtiari, Feyli", Borujerdi dialect, Lori, Luri, Luri (Northern), "Luri, Northern", لهجه بروجردی]
 population: 1820000
 country_id: IR
 country_name: Iran

@@ -2,6 +2,7 @@
 iso: amf
 name: "Hamer-Banna"
 autonym: Banna
+alt_names: ["\"etc.\"", Amar, Amarcocche, Amer, Ammar, Bana, Beshada, Cocche, Hamar, Hamar-Koke, Hamer, Hamer-Bana-Kara, Hamer-Banna jezik, Hammer, Hammercoche, Kara Kerre, Karo, Luenga amer-banna]
 population: 74400
 country_id: ET
 country_name: Ethiopia

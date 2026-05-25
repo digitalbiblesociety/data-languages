@@ -1,6 +1,7 @@
 ---
 iso: abl
 name: Lampung Nyo
+name_zh: 楠榜语
 autonym: Cawa Lampung
 population: 180000
 country_id: ID

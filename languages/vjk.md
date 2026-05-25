@@ -1,6 +1,7 @@
 ---
 iso: vjk
 name: Bajjika
+name_zh: 巴吉卡语
 autonym: बज्जिका‎
 population: 33000000
 country_id: IN

@@ -2,6 +2,7 @@
 iso: ktk
 name: Kaniet
 autonym: null
+alt_names: [Admiralitäts-inseln]
 population: null
 country_id: PG
 country_name: Papua New Guinea

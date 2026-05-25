@@ -2,6 +2,7 @@
 iso: dug
 name: Duruma
 autonym: null
+alt_names: [Chiduruma]
 population: 555000
 country_id: KE
 country_name: Kenya

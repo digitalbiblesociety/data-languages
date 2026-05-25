@@ -2,6 +2,7 @@
 iso: jen
 name: Dza
 autonym: Jen
+alt_names: [Janjo, Jenjo]
 population: 100000
 country_id: NG
 country_name: Nigeria

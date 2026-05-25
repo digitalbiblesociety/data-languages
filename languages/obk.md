@@ -2,6 +2,7 @@
 iso: obk
 name: Southern Bontok
 autonym: Finallig
+alt_names: ["Bontok, Southern"]
 population: null
 country_id: PH
 country_name: Philippines

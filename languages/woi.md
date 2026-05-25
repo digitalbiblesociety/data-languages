@@ -2,6 +2,7 @@
 iso: woi
 name: Kamang
 autonym: Kamang
+alt_names: [Kamana-Kamang, Waisika, Woisika]
 population: 16500
 country_id: ID
 country_name: Indonesia

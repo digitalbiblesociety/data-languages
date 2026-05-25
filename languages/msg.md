@@ -2,6 +2,7 @@
 iso: msg
 name: Moraid
 autonym: bahasa Moraid
+alt_names: [Ogit]
 population: 1000
 country_id: ID
 country_name: Indonesia

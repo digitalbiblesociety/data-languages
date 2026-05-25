@@ -2,6 +2,7 @@
 iso: aww
 name: Awun
 autonym: Awon
+alt_names: [Auwan]
 population: 400
 country_id: PG
 country_name: Papua New Guinea

@@ -2,6 +2,7 @@
 iso: nou
 name: "Ewage-Notu"
 autonym: Notu
+alt_names: [Ewage, Yega]
 population: 12000
 country_id: PG
 country_name: Papua New Guinea

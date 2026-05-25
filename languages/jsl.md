@@ -1,7 +1,9 @@
 ---
 iso: jsl
 name: Japanese Sign Language
+name_zh: 日本手语
 autonym: 日本手話 Nihon Shuwa
+alt_names: [Língua de Sinais Japonesa, Nihon Shuwa (Japanese Sign Language), Shuwa, Temane, 日本手話, 日本手语]
 population: 126000
 country_id: JP
 country_name: Japan

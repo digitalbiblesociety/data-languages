@@ -2,6 +2,7 @@
 iso: vis
 name: Vishavan
 autonym: Malankudi
+alt_names: [Malarkuti]
 population: 150
 country_id: IN
 country_name: India

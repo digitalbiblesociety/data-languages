@@ -1,7 +1,9 @@
 ---
 iso: smy
 name: Semnani
+name_zh: 塞姆纳尼语
 autonym: Semani zefön
+alt_names: [Iran, Simnani]
 population: 68700
 country_id: IR
 country_name: Iran

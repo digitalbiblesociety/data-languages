@@ -2,6 +2,7 @@
 iso: nbm
 name: "Ngbaka Ma'bo"
 autonym: "Ngbaka Ma'bo"
+alt_names: [Bouaka, Bwaka, Gbaka, Gbala, "Ma'bo", Mbacca, Mbaka, Mbwaka, Nbwaka, Ngbaka Limba, "Ngbaka-Ma'bo"]
 population: 258000
 country_id: CF
 country_name: Central African Republic

@@ -1,7 +1,9 @@
 ---
 iso: ava
 name: Avaric
+name_zh: 阿瓦尔语
 autonym: Avaric
+alt_names: [Abararazda, Akari, Avaarin kieli, Avaars, Avar, Avar dili, Avar language, Avarca, Avareg, Avari, Avarisk, Avarisk språk, Avariska, Avaro, Avarska, Avarština, Avarščina, Avarų kalba, Avāru valoda, Awar dili, Awarische Sprache, Bahasa Avar, Dagestan, Idioma ávaro, Język awarski, Khunza dialect, Lingua avara, Língua avar, Àvar, Èdè Avar, Аварски език, Аварски јазик, Аварский язык, Аварська мова, Ауар теле, ЖIайхойн мотт, МагIарул мацI, Солиаг æвзаг, زبان آواری, アヴァル語, 阿瓦尔语, 아바르어]
 population: 765300
 country_id: RU
 country_name: Russia

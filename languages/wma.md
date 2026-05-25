@@ -2,6 +2,7 @@
 iso: wma
 name: Mawa (Nigeria)
 autonym: null
+alt_names: [Mawa, Nigeria]
 population: null
 country_id: NG
 country_name: Nigeria

@@ -1,7 +1,9 @@
 ---
 iso: phr
 name: "Pahari-Potwari"
+name_zh: 帕哈里-波特瓦里语
 autonym: Potwari
+alt_names: [Chibhali, Dhundi-Kairali, Lingua Pothohari, Pothohari, Potohari, Potwareg, Western Pahari, بوتهواري, پوٹھواری, پوٹھوہاری زبان]
 population: 3541900
 country_id: PK
 country_name: Pakistan

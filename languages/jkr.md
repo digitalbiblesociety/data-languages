@@ -1,7 +1,9 @@
 ---
 iso: jkr
 name: Koro (India)
+name_zh: 克羅語
 autonym: Aka Koro
+alt_names: [Aka, Angka, Angkae, Gusso, Hrusso, Tenae]
 population: 1500
 country_id: IN
 country_name: India

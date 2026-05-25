@@ -2,6 +2,7 @@
 iso: gva
 name: Guana (Paraguay)
 autonym: Guaná
+alt_names: [Cashquiha, Enlhet, Guana, Kashiha, Kashika, Kaskiha, Kaskihá, Vana peema]
 population: 280
 country_id: PY
 country_name: Paraguay

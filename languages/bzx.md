@@ -2,6 +2,7 @@
 iso: bzx
 name: Kɛlɛngaxo Bozo
 autonym: Boso
+alt_names: ["Bozo, Hainyaxo", "Bozo, Kɛlɛngaxo", Hain, Hainyaxo, Hainyaxo Bozo, Hanyaxo, Kelenga, Kélinga, Kéllingua, Xan, Xanyaxo]
 population: 30000
 country_id: ML
 country_name: Mali

@@ -1,6 +1,7 @@
 ---
 iso: nno
 name: Norwegian Nynorsk
+name_zh: 新挪威语
 autonym: nynorsk
 population: 4320000
 country_id: "NO"

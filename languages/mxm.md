@@ -2,6 +2,7 @@
 iso: mxm
 name: Meramera
 autonym: Melamela
+alt_names: [Ubili]
 population: 2000
 country_id: PG
 country_name: Papua New Guinea

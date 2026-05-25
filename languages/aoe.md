@@ -2,6 +2,7 @@
 iso: aoe
 name: Angal Enen
 autonym: Mendi
+alt_names: [Nembi, South Angal Heneng, South Mendi]
 population: 34420
 country_id: PG
 country_name: Papua New Guinea

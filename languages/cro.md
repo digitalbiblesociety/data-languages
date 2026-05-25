@@ -1,7 +1,9 @@
 ---
 iso: cro
 name: Crow
+name_zh: 克羅語
 autonym: Apsáalooke aliláau
+alt_names: [Absaruqe, Absáraca, Apsaalooke, Apsaloka, Apsaroka, Upsaroka]
 population: 4280
 country_id: US
 country_name: United States

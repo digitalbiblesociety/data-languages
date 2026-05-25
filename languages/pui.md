@@ -1,7 +1,9 @@
 ---
 iso: pui
 name: Puinave
+name_zh: Puinave語
 autonym: Wãnsöhöt
+alt_names: [Guaipuinavi, Guaipunavi, Guaipunavos, Guipuinave, Puinabe, Waipuinavi, Wonsüht]
 population: 2550
 country_id: CO
 country_name: Colombia

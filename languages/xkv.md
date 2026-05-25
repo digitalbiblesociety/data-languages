@@ -1,7 +1,9 @@
 ---
 iso: xkv
 name: Kgalagadi
+name_zh: 卡拉哈迪語
 autonym: Kalahari
+alt_names: [Kgalagari, Khalagari, Khalakadi, Kxalaxari, Kxhalaxadi, Kxhxlaxadi, Qalaqarzi, Qhalaxadi, Qhalaxarzi, Sekgalagadi, Shekgalagadi]
 population: 65400
 country_id: BW
 country_name: Botswana

@@ -2,6 +2,7 @@
 iso: bfm
 name: Mmen
 autonym: Bafmeng
+alt_names: [Bafmen, Bafoumeng, Bafumen, Mme]
 population: 1000
 country_id: CM
 country_name: Cameroon

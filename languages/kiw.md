@@ -2,6 +2,7 @@
 iso: kiw
 name: Northeast Kiwai
 autonym: Gibaio
+alt_names: [Kiwai, "Kiwai, Northeast", Northeastern Kiwai, Urama]
 population: 6000
 country_id: PG
 country_name: Papua New Guinea

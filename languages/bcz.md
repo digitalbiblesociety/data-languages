@@ -2,6 +2,7 @@
 iso: bcz
 name: "Bainouk-Gunyaamolo"
 autonym: Bainouk
+alt_names: [Bagnoun, Bainuk, Bainuko-gunyaamolo, Banhum, Banyuk, Banyum, Banyun, Banyung, Elomay, Elunay, Gunyaamolo, Guñaamolo, Niamone, Ñuñ]
 population: 30000
 country_id: SN
 country_name: Senegal

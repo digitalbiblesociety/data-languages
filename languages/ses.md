@@ -1,7 +1,9 @@
 ---
 iso: ses
 name: Koyraboro Senni Songhai
+name_zh: 科依羅玻羅‧散尼語
 autonym: East Songhay
+alt_names: [Gao Songhay, Gao dialect, Koroboro Senni, Koyra Senni, Koyra Senni Songhay, Koyraboro Senni, Koyraboro Senni Songhay, Songai, Songay, Songay Senni, Songhai, Songhai (Gao), Songhai (Koyraboro Senni), "Songhai, Koyraboro Senni", Songhay, Songhay (Koyraboro Senni), "Songhay, Koyraboro Senni", Songoi, Songoy, Sonrai, Sonrhai]
 population: 430000
 country_id: ML
 country_name: Mali

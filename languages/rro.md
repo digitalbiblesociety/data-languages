@@ -2,6 +2,7 @@
 iso: rro
 name: Waima
 autonym: null
+alt_names: [Roro]
 population: 12000
 country_id: PG
 country_name: Papua New Guinea

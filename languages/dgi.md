@@ -2,6 +2,7 @@
 iso: dgi
 name: Northern Dagara
 autonym: "Dagara, Wule"
+alt_names: [Dagaare, Dagaari, Dagara, "Dagara, Northern", Dagari, Dagati, Dagatri, Dagatsi, Degati, Dogaari, Northern Dagaare]
 population: 247000
 country_id: BF
 country_name: Burkina Faso

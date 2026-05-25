@@ -2,6 +2,7 @@
 iso: bsx
 name: Yangkam
 autonym: Bashar
+alt_names: [Bachirí, Basharawa, Basherawa, Bashiri, Yankam]
 population: 100
 country_id: NG
 country_name: Nigeria

@@ -1,7 +1,9 @@
 ---
 iso: bjj
 name: Kanauji
+name_zh: 卡瑙杰語
 autonym: कन्नौजी
+alt_names: [Bhakha, Braj, Braj Kanauji, Kanaudji, Kannauji, கனாவுஜி மொழி, ภาษากาเนาชี]
 population: 6000000
 country_id: IN
 country_name: India

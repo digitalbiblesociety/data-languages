@@ -1,7 +1,9 @@
 ---
 iso: oon
 name: Önge
+name_zh: 翁奇语
 autonym: Öñge
+alt_names: [Bahasa Onge, Lèngua Öñge, Ong, Onge, Öñge jezik, Онге, ஒன்கே மொழி]
 population: 110
 country_id: IN
 country_name: India

@@ -2,6 +2,7 @@
 iso: ele
 name: Elepi
 autonym: " Samap"
+alt_names: [Blabla, Elapi, Sumup]
 population: 330
 country_id: PG
 country_name: Papua New Guinea

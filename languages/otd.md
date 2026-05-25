@@ -1,7 +1,9 @@
 ---
 iso: otd
 name: Ot Danum
+name_zh: 奧圖·大能語
 autonym: Ot Danum
+alt_names: [Dohoi, Malahoi, Uud Danum, Uut Danum]
 population: 78800
 country_id: ID
 country_name: Indonesia

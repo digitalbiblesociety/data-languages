@@ -1,7 +1,9 @@
 ---
 iso: kht
 name: Khamti
+name_zh: 坎底語
 autonym: Hkamti
+alt_names: [Hkampti, Hkampti Shan, Kam Ti, Kamti, Kham(p)ti, Khampti, Khampti Sam, Khampti Shan, Khamti Shan, Khandi Shan, Shan, Tai Kam Ti, Tai Khamti, Tai-Khamti]
 population: 13120
 country_id: MM
 country_name: Myanmar

@@ -2,6 +2,7 @@
 iso: kql
 name: Kyenele
 autonym: Miyak
+alt_names: [Bulang, Kenen Birang, Kenying, Kenying Bulang, Keyele, Keñele, Kyenying-Barang]
 population: 1250
 country_id: PG
 country_name: Papua New Guinea

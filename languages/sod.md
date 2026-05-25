@@ -2,6 +2,7 @@
 iso: sod
 name: Songoora
 autonym: North Binja
+alt_names: [Binja, Kesongola, Songola, Sonγai]
 population: 1300
 country_id: CD
 country_name: DR Congo

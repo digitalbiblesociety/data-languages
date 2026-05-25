@@ -2,6 +2,7 @@
 iso: nyc
 name: "Nyanga-li"
 autonym: "Linyanga-le"
+alt_names: [Nyanga-li language]
 population: 69000
 country_id: CD
 country_name: DR Congo

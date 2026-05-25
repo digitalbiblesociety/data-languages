@@ -2,6 +2,7 @@
 iso: sau
 name: Saleman
 autonym: Sawai
+alt_names: [Hatue, Seleman, Wahai]
 population: 4800
 country_id: ID
 country_name: Indonesia

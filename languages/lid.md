@@ -2,6 +2,7 @@
 iso: lid
 name: Nyindrou
 autonym: null
+alt_names: [Admiralitäts-inseln, Lindau, Lindrou, Nyada, Salien]
 population: 4200
 country_id: PG
 country_name: Papua New Guinea

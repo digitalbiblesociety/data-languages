@@ -2,6 +2,7 @@
 iso: mhz
 name: Mor (Mor Islands)
 autonym: Austronesian Mor
+alt_names: [Mor, "Mor (Mor Islands, Indonesia)"]
 population: 700
 country_id: ID
 country_name: Indonesia

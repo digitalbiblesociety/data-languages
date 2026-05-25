@@ -2,6 +2,7 @@
 iso: jow
 name: Jowulu
 autonym: Jɔ
+alt_names: [Jo, Samogho]
 population: 10000
 country_id: ML
 country_name: Mali

@@ -1,7 +1,9 @@
 ---
 iso: jaa
 name: Jamamadí
+name_zh: 賈瑪瑪蒂語
 autonym: Jamamadí
+alt_names: [Banauá, Banavá, Banawá, Banawá yafi, Banivá, Baniwá-Jafí, Canamanti, Jafí, Jamamadi, Jamanadí, Jarauára, Jarawara, Jaruára, Kanamanti, Kitiya, Madi, Yamadi, Yamamadi, Yamamadí, Yarawara]
 population: 780
 country_id: BR
 country_name: Brazil

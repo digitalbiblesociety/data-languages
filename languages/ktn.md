@@ -1,7 +1,9 @@
 ---
 iso: ktn
 name: Karitiâna
+name_zh: 卡利吉亚纳语
 autonym: Caritiana
+alt_names: [Karitiana, Karitiána]
 population: 320
 country_id: BR
 country_name: Brazil

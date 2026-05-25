@@ -2,6 +2,7 @@
 iso: kxz
 name: Kerewo
 autonym: Kerewa
+alt_names: [Kerewa-Goari]
 population: 2200
 country_id: PG
 country_name: Papua New Guinea

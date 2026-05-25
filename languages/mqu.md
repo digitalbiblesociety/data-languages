@@ -2,6 +2,7 @@
 iso: mqu
 name: Mandari
 autonym: Chir
+alt_names: [Kir, Mondari, Mundari, Shir]
 population: 70000
 country_id: SS
 country_name: South Sudan

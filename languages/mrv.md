@@ -1,7 +1,9 @@
 ---
 iso: mrv
 name: Mangareva
+name_zh: 芒阿雷瓦语
 autonym: Magareva
+alt_names: [Mangarevan, Mangarevan kieli, Mangarevano, Mangarévien, Мангареванский язык]
 population: 1600
 country_id: PF
 country_name: French Polynesia

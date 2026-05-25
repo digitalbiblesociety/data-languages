@@ -2,6 +2,7 @@
 iso: urc
 name: Urningangg
 autonym: Mangerr
+alt_names: [Mirarr, Uninganangk, Uningangg, Uningangk, Urningangga, Urningangk, Wata, Wuningag, Wuningak, Wuningangk]
 population: null
 country_id: AU
 country_name: Australia

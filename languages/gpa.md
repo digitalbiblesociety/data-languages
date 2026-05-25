@@ -2,6 +2,7 @@
 iso: gpa
 name: "Gupa-Abawa"
 autonym: null
+alt_names: [Nigeria]
 population: 10000
 country_id: NG
 country_name: Nigeria

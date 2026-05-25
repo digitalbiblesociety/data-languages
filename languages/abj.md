@@ -1,7 +1,9 @@
 ---
 iso: abj
 name: "Aka-Bea"
+name_zh: （Aka-）Bea
 autonym: "Aka-Bea"
+alt_names: [Aka-Beada, Aka-Biada, Aka-bea jezik, Andamanese, Bahasa Aka-Bea, Bea, Beada, Biada, Bogijiab, Bojigniji, Bojigyab, Great Andamanese, Idioma bea, Język aka-bea, Lèngua Aka-Bea, अका बिया भाषा]
 population: null
 country_id: IN
 country_name: India

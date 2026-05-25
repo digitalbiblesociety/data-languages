@@ -2,6 +2,7 @@
 iso: xtq
 name: Tumshuqese
 autonym: 𑀕𑁆𑀬𑀸𑀰𑁆𑀤𑀺
+alt_names: [Tumshuqese Sakan]
 population: null
 country_id: CN
 country_name: China

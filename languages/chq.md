@@ -2,6 +2,7 @@
 iso: chq
 name: Quiotepec Chinantec
 autonym: Jmii’
+alt_names: [Chinantec, Chinantec (Quiotepec), "Chinantec, Quiotepec", Chinanteco, Chinanteco (Quiotepec), Chinanteco de la Sierra, Chinanteko, Comaltepec Chinantec, Highland, Highland Chinantec, Highland Chinanteco, Highland East Cushtic, Quiotepec, Quiotepec Chinanteko, Quiotepec dialect, Quiotepeco, Sierra Chinantec, Valle Nacional Chinantec, "jmiih dzä mo'"]
 population: 8000
 country_id: MX
 country_name: Mexico

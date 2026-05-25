@@ -2,6 +2,7 @@
 iso: pss
 name: Kaulong
 autonym: Pasismanua
+alt_names: [Kowlong]
 population: 4000
 country_id: PG
 country_name: Papua New Guinea

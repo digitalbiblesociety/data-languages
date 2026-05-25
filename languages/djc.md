@@ -2,6 +2,7 @@
 iso: djc
 name: Dar Daju Daju
 autonym: Daju
+alt_names: [Dadjo, Dadju, Dagu of Dar Dagu, Dajo, Dajou, Daju Mongo, Daju Oum Hadjer, "Daju, Dar Daju", Mongo, Saaronge, Wadai]
 population: 60000
 country_id: TD
 country_name: Chad

@@ -2,6 +2,7 @@
 iso: qvh
 name: "Huamalíes-Dos de Mayo Huánuco Quechua"
 autonym: Huaylay
+alt_names: [Alto Pativilca, Chiquian-Bolognesi and Cajatambo Quechua, Huallaga Quechua, Huamalies-Dos de Mayo Huanuco Quechua, Quechua, Quechua (Huallaga), "Quechua, Huamalíes-Dos de Mayo Huánuco"]
 population: 80000
 country_id: PE
 country_name: Peru

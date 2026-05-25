@@ -2,6 +2,7 @@
 iso: yme
 name: Yameo
 autonym: Nijyamïï Nikyejaada
+alt_names: [Camuchivo, Llameo, Masamae, Masamae Yameo, Mazan, Parara, Yaméo]
 population: null
 country_id: PE
 country_name: Peru

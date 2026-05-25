@@ -1,7 +1,9 @@
 ---
 iso: fqs
 name: Fas
+name_zh: 法斯语
 autonym: Momu
+alt_names: [Bembi]
 population: 2500
 country_id: PG
 country_name: Papua New Guinea

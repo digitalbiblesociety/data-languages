@@ -2,6 +2,7 @@
 iso: xgw
 name: Guwa
 autonym: Goa
+alt_names: [Coa, Coah, Goamulgo, Koa]
 population: null
 country_id: AU
 country_name: Australia

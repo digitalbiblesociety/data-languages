@@ -1,7 +1,9 @@
 ---
 iso: bfi
 name: British Sign Language
+name_zh: 英国手语
 autonym: Breetish Sign LeidIaith Arwyddion Prydain
+alt_names: [BSL, Bahasa Isyarat British, Brita mansigna lingvo, Britanski znakovni jezik, Brittiläinen viittomakieli, Langue des signes britannique, Língua de Sinais Britânica]
 population: 87090
 country_id: GB
 country_name: United Kingdom

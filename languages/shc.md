@@ -2,6 +2,7 @@
 iso: shc
 name: Sonde
 autonym: Kisoonde
+alt_names: [Kisonde, Soonde]
 population: 96000
 country_id: CD
 country_name: DR Congo

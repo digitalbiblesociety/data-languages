@@ -2,6 +2,7 @@
 iso: mcd
 name: Sharanahua
 autonym: Yaminahua
+alt_names: [Marinahua, Mastanahua, Parquenahua, Sharanawa]
 population: 499
 country_id: PE
 country_name: Peru

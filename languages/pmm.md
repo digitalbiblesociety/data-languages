@@ -2,6 +2,7 @@
 iso: pmm
 name: Pomo
 autonym: Congo Pol
+alt_names: [Pol, Pori, Pul]
 population: 44130
 country_id: CM
 country_name: Cameroon

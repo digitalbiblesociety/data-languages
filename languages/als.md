@@ -1,7 +1,9 @@
 ---
 iso: als
 name: Tosk Albanian
+name_zh: 托斯克方言
 autonym: toskë
+alt_names: [Albanesisch, Albanian, "Albanian, Tosk", Albanés tosco, Arber, Arbresh, Arnaut, Dialectul Tosk, Kosovë, Ship, Shkip, Shqip, Shqiperë, Shqipēri, Shquipni, Skchip, Tosk, Toskijski jezik, Toskisch, Toskiska, Tosque, Ukrainian Albanian, Zhgabe, Škip, Τοσκική διάλεκτος, Тоски, Тоскский диалект албанского языка, トスク方言]
 population: 1826830
 country_id: AL
 country_name: Albania

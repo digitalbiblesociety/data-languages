@@ -2,6 +2,7 @@
 iso: lop
 name: Lopa
 autonym: Rerang
+alt_names: [Djiri, Kirikjir, Lopawa, Lupa]
 population: 5000
 country_id: NG
 country_name: Nigeria

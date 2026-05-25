@@ -2,6 +2,7 @@
 iso: rtc
 name: Rungtu Chin
 autonym: Taungtha
+alt_names: ["Chin, Rungtu"]
 population: 4000
 country_id: MM
 country_name: Myanmar

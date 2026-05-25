@@ -2,6 +2,7 @@
 iso: guu
 name: Yanomamö
 autonym: Yąnomamɨ
+alt_names: [Cobari Kobali, Cobariwa, Guaharibo, Guaica, Guaicá, Guajaribo, Shaathari, Shamatari, Shamateri, Shamatri, Yamomame, Yanomaman language area, Yanomame, Yanomami, Yanomamo, Yanomamï, Yanomamɨ, Yanomani]
 population: 16200
 country_id: VE
 country_name: Venezuela

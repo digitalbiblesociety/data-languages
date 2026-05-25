@@ -2,6 +2,7 @@
 iso: nqq
 name: "Kyan-Karyaw Naga"
 autonym: Tase
+alt_names: ["Naga, Kyan-Karyaw"]
 population: null
 country_id: MM
 country_name: Myanmar

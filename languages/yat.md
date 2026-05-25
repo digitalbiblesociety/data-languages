@@ -2,6 +2,7 @@
 iso: yat
 name: Yambeta
 autonym: Njambeta
+alt_names: [Yambetta]
 population: 3700
 country_id: CM
 country_name: Cameroon

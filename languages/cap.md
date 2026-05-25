@@ -1,7 +1,9 @@
 ---
 iso: cap
 name: Chipaya
+name_zh: 奇巴亚语
 autonym: Puquina
+alt_names: [Uru-Chipaya language area]
 population: 1800
 country_id: BO
 country_name: Bolivia

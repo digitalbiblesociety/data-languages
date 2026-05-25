@@ -2,6 +2,7 @@
 iso: kgf
 name: Kube
 autonym: Mongi
+alt_names: [Hube]
 population: 6000
 country_id: PG
 country_name: Papua New Guinea

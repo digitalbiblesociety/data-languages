@@ -2,6 +2,7 @@
 iso: ngg
 name: Ngbaka Manza
 autonym: null
+alt_names: ["'Bofi", Ali, Ngbaka, Ngbaka-Manza, Ngbaka-Minagende, Ngbaka-Minangende]
 population: 29000
 country_id: CF
 country_name: Central African Republic

@@ -1,7 +1,9 @@
 ---
 iso: tyr
 name: Tai Daeng
+name_zh: 泰丹語
 autonym: "Red TaiTáy-Môc-Châu"
+alt_names: [Daeng, Môc-Châu, Red Tai, Red Thai, Tai Deng, Tai Rouge, Taidaén, Thai Dang, Thai Do, Táy-Môc-Châu]
 population: 105000
 country_id: VN
 country_name: Vietnam

@@ -1,7 +1,9 @@
 ---
 iso: aib
 name: Chinese Ainu
+name_zh: 艾努语
 autonym: Äynú
+alt_names: [Abdal, Aini, Ainoueg, Ainu, Ainu (China), Ayni dili, Ayni tili, Aynu, Aíníska, Aïnou, Eynu, Idioma aini, Lingua aini, Língua aini, Äynu, Äynu language, Аиниски јазик, Айнийский язык, ภาษาอายนี, エイヌ語, 艾努語, 艾努语, 애이누어]
 population: 6570
 country_id: CN
 country_name: China

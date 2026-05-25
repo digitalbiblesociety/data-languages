@@ -1,7 +1,9 @@
 ---
 iso: umu
 name: Munsee
+name_zh: 文西語
 autonym: Huluníixsuwaakan
+alt_names: [Canadian Delaware, Delaware, Munsee (Canada), Munsee Delaware, Ontario Delaware, Unami, Unamí (Estados Unidos)]
 population: 400
 country_id: CA
 country_name: Canada

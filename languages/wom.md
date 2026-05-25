@@ -2,6 +2,7 @@
 iso: wom
 name: Wom (Nigeria)
 autonym: Perema
+alt_names: [Pere, Pereba, Wom]
 population: 5000
 country_id: NG
 country_name: Nigeria

@@ -2,6 +2,7 @@
 iso: sxw
 name: Saxwe Gbe
 autonym: Tsáphɛ
+alt_names: ["Gbe, Saxwe", Saxwe, Saxwe-Gbe]
 population: 284000
 country_id: BJ
 country_name: Benin

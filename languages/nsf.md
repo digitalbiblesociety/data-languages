@@ -2,6 +2,7 @@
 iso: nsf
 name: Northwestern Nisu
 autonym: Southern Yi
+alt_names: ["Nisu, Northwestern"]
 population: null
 country_id: CN
 country_name: China

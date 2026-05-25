@@ -2,6 +2,7 @@
 iso: ura
 name: Urarina
 autonym: Itucale
+alt_names: [Itucali, Itukale, Kachá, Oruarina, Shimacu, Shimaku, Simacu, Urariña]
 population: 3000
 country_id: PE
 country_name: Peru

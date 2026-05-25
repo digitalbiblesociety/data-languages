@@ -2,6 +2,7 @@
 iso: mdp
 name: Mbala
 autonym: Gimbala
+alt_names: [Rumbala]
 population: 374500
 country_id: CD
 country_name: DR Congo

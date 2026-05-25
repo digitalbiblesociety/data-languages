@@ -2,6 +2,7 @@
 iso: zhw
 name: Zhoa
 autonym: null
+alt_names: [Cameroon]
 population: 2000
 country_id: CM
 country_name: Cameroon

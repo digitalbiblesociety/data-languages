@@ -2,6 +2,7 @@
 iso: kvb
 name: Kubu
 autonym: Rimba
+alt_names: [Indonesia]
 population: 10000
 country_id: ID
 country_name: Indonesia

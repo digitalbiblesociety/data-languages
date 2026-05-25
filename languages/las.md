@@ -2,6 +2,7 @@
 iso: las
 name: Lama (Togo)
 autonym: Lamba
+alt_names: [Lama, Losso]
 population: 258000
 country_id: TG
 country_name: Togo

@@ -1,6 +1,7 @@
 ---
 iso: xiv
 name: Indus Valley Language
+name_zh: 哈拉帕语
 autonym: Indus language
 population: null
 country_id: IN

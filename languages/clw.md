@@ -1,7 +1,9 @@
 ---
 iso: clw
 name: Chulym
+name_zh: 楚利姆語
 autonym: Öс тили
+alt_names: [Chulim, Chulimo túrcico, Chulym Tatar, Chulym Turkic, Chulym-Turkish, Idioma chulym, Küerik, Melet Tatar, Melets Tatar, Ostiaki, Tchoulim turcique, Tchoulyme, Txulim, Tšulymin kieli, Çulım Tatar tili, Çulım Türkçesi, Çulım dili, Çulım tili, Çulımca, Ös til, Ĉulima lingvo, Чулимски език, Чулимски јазик, Чулым, июс тили, татар тили, чулым татар теле, чулымский язык, Ӧс тили, ภาษาชูเลียม]
 population: 270
 country_id: RU
 country_name: Russia

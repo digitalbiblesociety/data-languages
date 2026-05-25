@@ -2,6 +2,7 @@
 iso: ttj
 name: Tooro
 autonym: Rutooro
+alt_names: [Orutoro, Rutoro, Toro]
 population: 846000
 country_id: UG
 country_name: Uganda

@@ -2,6 +2,7 @@
 iso: bip
 name: Bila
 autonym: Forest Bira
+alt_names: [Bira, Ebila, Kibila, Western Bila]
 population: 40000
 country_id: CD
 country_name: DR Congo

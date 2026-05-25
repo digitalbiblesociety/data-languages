@@ -1,7 +1,9 @@
 ---
 iso: xaa
 name: Andalusian Arabic
+name_zh: 安达卢西亚阿拉伯语
 autonym: عربية أندلسية
+alt_names: ["Arabic, Andalusian"]
 population: null
 country_id: ES
 country_name: Spain

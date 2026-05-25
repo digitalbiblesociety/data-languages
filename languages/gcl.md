@@ -1,7 +1,9 @@
 ---
 iso: gcl
 name: Grenadian Creole English
+name_zh: 格林納達克里奧爾語英語
 autonym: patois
+alt_names: ["Creole English, Grenadian"]
 population: 102000
 country_id: GD
 country_name: Grenada

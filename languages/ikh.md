@@ -2,6 +2,7 @@
 iso: ikh
 name: "Ikhin-Aokho"
 autonym: Arokho
+alt_names: [Ikhin-Arokho]
 population: null
 country_id: NG
 country_name: Nigeria

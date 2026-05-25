@@ -2,6 +2,7 @@
 iso: knz
 name: Kalamsé
 autonym: Sàmòmá
+alt_names: [Kalamse, Kalemsé, Kalenga, Sàmó]
 population: 9570
 country_id: BF
 country_name: Burkina Faso

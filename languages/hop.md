@@ -1,7 +1,9 @@
 ---
 iso: hop
 name: Hopi
+name_zh: 霍皮語
 autonym: Hopilàvayi
+alt_names: [Hopi jezik, Hopi simi, Hopia lingvo, Hopieg, Hopí, Idioma hopi, Język hopi, Língua hopi, Moki, Moqui, Pueblo, Pueblo Shoshonean Subfamily, Tusayan, ホピ語, 호피어]
 population: 6080
 country_id: US
 country_name: United States

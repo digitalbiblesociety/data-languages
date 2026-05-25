@@ -2,6 +2,7 @@
 iso: mwq
 name: Mün Chin
 autonym: Ng’men
+alt_names: ["\"Chinbok\"", "Chin, Mün", "Chin,Mün", Chinbe, Chinbok, Cho, Mindat, Mun, Mun Chin, Mün, "Ng'men", Tśinbok, Yawdwin]
 population: 15000
 country_id: MM
 country_name: Myanmar

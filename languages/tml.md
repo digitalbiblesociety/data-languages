@@ -2,6 +2,7 @@
 iso: tml
 name: Tamnim Citak
 autonym: Asmat Darat
+alt_names: [Asmat, Asmat (Flamingo Bay), "Citak, Tamnim", Tamnim]
 population: 290
 country_id: ID
 country_name: Indonesia

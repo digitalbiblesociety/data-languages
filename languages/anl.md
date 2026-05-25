@@ -2,6 +2,7 @@
 iso: anl
 name: "Anu-Hkongso Chin"
 autonym: "Anu "
+alt_names: [Añú, "Chin, Anu-Hkongso"]
 population: 4000
 country_id: MM
 country_name: Myanmar

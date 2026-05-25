@@ -1,7 +1,9 @@
 ---
 iso: mog
 name: Mongondow
+name_zh: 蒙贡多语
 autonym: Bolaang Mongondow
+alt_names: ["Bola'ang-Mongodow", Minahassa, Mongodow, Mongondou]
 population: 117000
 country_id: ID
 country_name: Indonesia

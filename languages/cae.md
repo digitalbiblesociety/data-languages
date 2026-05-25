@@ -2,6 +2,7 @@
 iso: cae
 name: Lehar
 autonym: Lala
+alt_names: [Laalaa]
 population: 12000
 country_id: SN
 country_name: Senegal

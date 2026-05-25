@@ -2,6 +2,7 @@
 iso: mlo
 name: Mlomp
 autonym: Gulompaay
+alt_names: [Mlomp North, Mlompeg]
 population: 5400
 country_id: SN
 country_name: Senegal

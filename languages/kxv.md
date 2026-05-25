@@ -1,7 +1,9 @@
 ---
 iso: kxv
 name: Kuvi
+name_zh: 库维
 autonym: Kuwi
+alt_names: [Jatapu, Khondh, Khondi, Kond, Kouvi, Kuvi Kond, Kuvinga]
 population: 176000
 country_id: IN
 country_name: India

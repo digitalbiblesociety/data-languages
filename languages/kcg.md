@@ -1,7 +1,9 @@
 ---
 iso: kcg
 name: Tyap
+name_zh: 蒂亞普語
 autonym: Katab
+alt_names: [Agolok, Aguro, Agwolok, Agwot, Atyap, Gworok, Kagoro, Kataf]
 population: 242000
 country_id: NG
 country_name: Nigeria

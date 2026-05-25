@@ -1,6 +1,7 @@
 ---
 iso: syy
 name: "Al-Sayyid Bedouin Sign Language"
+name_zh: 賽義德貝都因手語
 autonym: ABSL
 population: 140
 country_id: IL

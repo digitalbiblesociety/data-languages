@@ -2,6 +2,7 @@
 iso: gll
 name: Garlali
 autonym: Garlali
+alt_names: [Galali, Gaḷali, Kalali, Kullali, Kullally, Kullila]
 population: null
 country_id: AU
 country_name: Australia

@@ -2,6 +2,7 @@
 iso: ble
 name: "Balanta-Kentohe"
 autonym: Alante
+alt_names: [Balanda, Balant, Balanta, Balante, Ballante, Belante, Brassa, Bulanda, Frase]
 population: 369000
 country_id: GW
 country_name: "Guinea-Bissau"

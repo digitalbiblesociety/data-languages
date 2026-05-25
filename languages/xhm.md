@@ -1,6 +1,8 @@
 ---
 iso: xhm
 name: Middle Khmer (1400 to 1850 CE)
+name_zh: 中古高棉语
+alt_names: ["Khmer, Middle (1400 to 1850 CE)"]
 country_id: KH
 country_name: Cambodia
 latitude: 12.0515

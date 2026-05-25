@@ -1,7 +1,9 @@
 ---
 iso: btw
 name: Butuanon
+name_zh: 武端語
 autonym: null
+alt_names: [Bisaya]
 population: 71500
 country_id: PH
 country_name: Philippines

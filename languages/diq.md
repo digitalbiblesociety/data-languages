@@ -2,6 +2,7 @@
 iso: diq
 name: Dimli
 autonym: Dimili
+alt_names: [Dimli (individual language), Dimlī, Southern Zaza, Zaza, Zazaki]
 population: 1280000
 country_id: TR
 country_name: Turkey

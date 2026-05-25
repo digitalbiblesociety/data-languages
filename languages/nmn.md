@@ -1,7 +1,9 @@
 ---
 iso: nmn
 name: ǃXóõ
+name_zh: 宏语
 autonym: ǃXóõ
+alt_names: ["!Ko", "!Xuun", "!Xóõ", /Namani, /Nu//een, =/Hua, Casi, N/amani, "Ng|amani", Qgoon, Taa, Tsasi, Tshasi, Tâa, ǂHõã language, ǂhua jezik]
 population: 4000
 country_id: BW
 country_name: Botswana

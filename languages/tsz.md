@@ -1,7 +1,9 @@
 ---
 iso: tsz
 name: Purepecha
+name_zh: 塔拉斯坎语
 autonym: Tarascan
+alt_names: [Phorhépecha, Porhé, Purépecha, Tarascan Isolate, Tarasco, Tarasko]
 population: 55000
 country_id: MX
 country_name: Mexico

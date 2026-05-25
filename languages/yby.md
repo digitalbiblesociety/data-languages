@@ -2,6 +2,7 @@
 iso: yby
 name: Yaweyuha
 autonym: null
+alt_names: [Yabiyufa, Yawiyuha]
 population: 2340
 country_id: PG
 country_name: Papua New Guinea

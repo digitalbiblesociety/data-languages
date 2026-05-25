@@ -1,7 +1,9 @@
 ---
 iso: ply
 name: Bolyu
+name_zh: 巴琉语
 autonym: Baliu
+alt_names: [Lai, Paliu, Palju, Palyu, Polyu, 倈語]
 population: 10000
 country_id: CN
 country_name: China

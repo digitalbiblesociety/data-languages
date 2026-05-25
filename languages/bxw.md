@@ -2,6 +2,7 @@
 iso: bxw
 name: Bankagooma
 autonym: Bankagooma
+alt_names: [Banka, Bankagoma, Bankagoroma, Bankaje]
 population: 6000
 country_id: ML
 country_name: Mali

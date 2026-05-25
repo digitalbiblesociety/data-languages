@@ -1,7 +1,9 @@
 ---
 iso: kyw
 name: Kudmali
+name_zh: 库马利语
 autonym: Panchpargania
+alt_names: [Bedia, Dharua, Kurmali, Kurmali Thar, Kurumali]
 population: 370230
 country_id: IN
 country_name: India

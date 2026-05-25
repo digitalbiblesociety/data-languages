@@ -2,6 +2,7 @@
 iso: dbp
 name: Duwai
 autonym: Eastern Bade
+alt_names: [Evji]
 population: 11400
 country_id: NG
 country_name: Nigeria

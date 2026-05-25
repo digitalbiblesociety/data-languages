@@ -2,6 +2,7 @@
 iso: kqj
 name: Koromira
 autonym: null
+alt_names: [Koianu]
 population: 2300
 country_id: PG
 country_name: Papua New Guinea

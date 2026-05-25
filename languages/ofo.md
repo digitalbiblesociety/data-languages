@@ -2,6 +2,7 @@
 iso: ofo
 name: Ofo
 autonym: null
+alt_names: [Ofogoula]
 population: null
 country_id: US
 country_name: United States

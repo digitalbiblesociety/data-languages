@@ -1,7 +1,9 @@
 ---
 iso: mvo
 name: Marovo
+name_zh: 马罗沃语
 autonym: null
+alt_names: [Solomon Islands]
 population: 8090
 country_id: SB
 country_name: Solomon Islands

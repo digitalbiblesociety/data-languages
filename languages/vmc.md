@@ -2,6 +2,7 @@
 iso: vmc
 name: Juxtlahuaca Mixtec
 autonym: Central Juxtlahuaca Mixtec
+alt_names: [Ayutla Mixtec, Central Misteko, Centreal Mixteco, Coastal Guerrero Mixtec, Coicoyán Mixtec, "Mixtec, Juxtlahuaca", Mixteco de Ayutla, Mixteco de Juxtlahuaca, Mixteco del Oeste de Juxtlahuaca, Southern Baja Mixtec, Western Juxtlahuaca Mixtec]
 population: 16000
 country_id: MX
 country_name: Mexico

@@ -1,7 +1,9 @@
 ---
 iso: hmq
 name: Eastern Qiandong Miao
+name_zh: 东部土语
 autonym: Qiandong Miao
+alt_names: [Black Miao, Central Miao, Eastern East-Guizhou Miao, Heh Miao, Hei, "Hmong, Eastern Qiandong", Hmu, Miao, "Miao, Eastern Qiandong"]
 population: 350000
 country_id: CN
 country_name: China

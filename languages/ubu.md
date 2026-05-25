@@ -2,6 +2,7 @@
 iso: ubu
 name: "Umbu-Ungu"
 autonym: Kakoli
+alt_names: [Hagen, Kaugel]
 population: 32000
 country_id: PG
 country_name: Papua New Guinea

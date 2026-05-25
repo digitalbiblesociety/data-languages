@@ -2,6 +2,7 @@
 iso: mss
 name: West Masela
 autonym: Marsela
+alt_names: ["Masela, West", West Marsela]
 population: 850
 country_id: ID
 country_name: Indonesia

@@ -2,6 +2,7 @@
 iso: kbz
 name: Duhwa
 autonym: Karfa
+alt_names: [Kerifa, Nzuhwi, Sabei, Sore-Sabaut]
 population: 800
 country_id: NG
 country_name: Nigeria

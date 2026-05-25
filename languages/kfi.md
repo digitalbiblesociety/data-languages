@@ -2,6 +2,7 @@
 iso: kfi
 name: Kannada Kurumba
 autonym: Canarese
+alt_names: ["Kurumba, Kannada"]
 population: 180000
 country_id: IN
 country_name: India

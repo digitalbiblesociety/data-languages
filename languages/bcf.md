@@ -2,6 +2,7 @@
 iso: bcf
 name: Bamu
 autonym: Bamu Kiwai
+alt_names: [Sisiame]
 population: 6310
 country_id: PG
 country_name: Papua New Guinea

@@ -1,7 +1,9 @@
 ---
 iso: tvn
 name: Tavoyan
+name_zh: 土瓦方言
 autonym: Dawei
+alt_names: [Myanmar]
 population: 400000
 country_id: MM
 country_name: Myanmar

@@ -2,6 +2,7 @@
 iso: jal
 name: Yalahatan
 autonym: Atamanu
+alt_names: [Indonesia]
 population: 1700
 country_id: ID
 country_name: Indonesia

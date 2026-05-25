@@ -2,6 +2,7 @@
 iso: lje
 name: Rampi
 autonym: "Ha'uwa"
+alt_names: [Leboni, Rampi-Leboni]
 population: 7500
 country_id: ID
 country_name: Indonesia

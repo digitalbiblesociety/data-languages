@@ -2,6 +2,7 @@
 iso: lmc
 name: Limilngan
 autonym: Limil
+alt_names: [Baneidja, "Bani:dja", Banidja, Banindja, Beriguruk, Buneidja, Buneidya, Buneitja, Djowei, Lemil, Limit, Manadja, Manasi, Manidja, Manidya, Manitja, Menassie, Minidja, Minitja, Minitjaa, Minitji, Minitjja, Minityi, Minnitji, Norweilemil, Peneitja, Punaka, Puneitja, Punuurlu, naWinjmil]
 population: null
 country_id: AU
 country_name: Australia

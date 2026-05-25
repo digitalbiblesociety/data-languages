@@ -1,7 +1,9 @@
 ---
 iso: awc
 name: Cicipu
+name_zh: 奇普語
 autonym: Western Acipa
+alt_names: [Achipa, Acipa, "Acipa, Western", Acipanci, Sagamuk, Western]
 population: 20000
 country_id: NG
 country_name: Nigeria

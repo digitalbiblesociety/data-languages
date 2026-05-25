@@ -1,6 +1,7 @@
 ---
 iso: kom
 name: Komi
+name_zh: 科米語
 autonym: Коми кыв
 population: 219100
 country_id: RU

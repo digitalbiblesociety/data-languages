@@ -2,6 +2,7 @@
 iso: bhy
 name: Bhele
 autonym: Piri
+alt_names: [Bili, Ebhele, Ipere, Kipere, Kipili, Pere, Peri, Pili]
 population: 15000
 country_id: CD
 country_name: DR Congo

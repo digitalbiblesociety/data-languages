@@ -2,6 +2,7 @@
 iso: mmq
 name: Musak
 autonym: Musak
+alt_names: [Aisi, Blue Miao, Green Miao, Red Miao, White Miao]
 population: 360
 country_id: PG
 country_name: Papua New Guinea

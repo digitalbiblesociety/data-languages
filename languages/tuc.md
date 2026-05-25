@@ -2,6 +2,7 @@
 iso: tuc
 name: Mutu
 autonym: Tuam
+alt_names: [Tuam-Mutu, Tuom]
 population: 4000
 country_id: PG
 country_name: Papua New Guinea

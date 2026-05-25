@@ -1,7 +1,9 @@
 ---
 iso: lha
 name: Laha (Viet Nam)
+name_zh: 拉哈語
 autonym: Khlá
+alt_names: [Khlá Don, Khlá Dung, Khlá Liik, Khlá Phlao, Klá Dong, La Ha, La Ha Ung, Laha, Laha (Lào Cai), Laha (Son La), Laha (Vietnam), Laxa, Xá Chien, Xá Khao, Xá Lay]
 population: 5690
 country_id: VN
 country_name: Vietnam

@@ -1,6 +1,7 @@
 ---
 iso: ukk
 name: "Muak Sa-aak"
+name_zh: 木阿克语
 autonym: null
 population: 4500
 country_id: CN

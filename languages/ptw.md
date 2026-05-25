@@ -2,6 +2,7 @@
 iso: ptw
 name: Pentlatch
 autonym: Pənƛ’áč
+alt_names: [Pentlatc, Puntlatch, pənƛʼáč]
 population: 2023
 country_id: CA
 country_name: Canada

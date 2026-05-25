@@ -1,7 +1,9 @@
 ---
 iso: sou
 name: Southern Thai
+name_zh: 南部泰语
 autonym: ภาษาไทยถิ่นใต้
+alt_names: [Dambro, Pak Tai, Pak Thai, Paktaieg, Paktay, "Thai, Southern", 南タイ語]
 population: 4508200
 country_id: TH
 country_name: Thailand

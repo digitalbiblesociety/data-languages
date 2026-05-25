@@ -2,6 +2,7 @@
 iso: dwr
 name: Dawro
 autonym: null
+alt_names: [Konta, Kullo]
 population: 513000
 country_id: ET
 country_name: Ethiopia

@@ -2,6 +2,7 @@
 iso: tgh
 name: Tobagonian Creole English
 autonym: Tobagonian Dialect
+alt_names: ["Creole English, Tobagonian"]
 population: 300000
 country_id: TT
 country_name: Trinidad and Tobago

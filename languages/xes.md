@@ -2,6 +2,7 @@
 iso: xes
 name: Kesawai
 autonym: Kesawi
+alt_names: [Namuya]
 population: 770
 country_id: PG
 country_name: Papua New Guinea

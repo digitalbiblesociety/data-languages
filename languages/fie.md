@@ -2,6 +2,7 @@
 iso: fie
 name: Fyer
 autonym: Fier
+alt_names: [Fyer jezik, Ron Group B]
 population: 26100
 country_id: NG
 country_name: Nigeria

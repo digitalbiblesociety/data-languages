@@ -2,6 +2,7 @@
 iso: dks
 name: Southeastern Dinka
 autonym: Thuɔŋjäŋ
+alt_names: [Bor, Dinka, "Dinka, Southeastern", Eastern Dinka, Ost-Dinka]
 population: 989120
 country_id: SS
 country_name: South Sudan

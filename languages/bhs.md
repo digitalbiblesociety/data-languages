@@ -2,6 +2,7 @@
 iso: bhs
 name: Buwal
 autonym: Gadala
+alt_names: [Bual, Ma Buwal]
 population: 7000
 country_id: CM
 country_name: Cameroon

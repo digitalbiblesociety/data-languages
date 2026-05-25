@@ -1,7 +1,9 @@
 ---
 iso: ilo
 name: Iloko
+name_zh: 伊洛卡诺语
 autonym: Ilokano
+alt_names: [Bahasa Iloko, Idioma ilocano, Ilocana, Ilocano, Iloka lingvo, Ilokan, Ilokano nga yinaknan, Ilokanoeg, Ilokanu, Język iloko, Lengua ilokann-a, Pagsasao nga Iloko, Pinulongang Iloko, Tataramon na Ilokano, Wikang Iloko, Илоканский язык, ইলোকানো ভাষা, ภาษาอีโลกาโน, ኢሎካኖ, イロカノ語]
 population: 6482100
 country_id: PH
 country_name: Philippines

@@ -2,6 +2,7 @@
 iso: mfu
 name: Mbwela
 autonym: Ngangela
+alt_names: [Ambuela, Ambuella, Mbuela, Mbwera, Shimbwera]
 population: 222000
 country_id: AO
 country_name: Angola

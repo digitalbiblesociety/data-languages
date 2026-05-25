@@ -2,6 +2,7 @@
 iso: yly
 name: Nyâlayu
 autonym: Nielaiou
+alt_names: [Belep, Neukaledonien, Nyelyâu, Nyelâyu, Yalayu, Yâlayu]
 population: 1520
 country_id: NC
 country_name: New Caledonia

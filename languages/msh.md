@@ -2,6 +2,7 @@
 iso: msh
 name: Masikoro Malagasy
 autonym: malagasy
+alt_names: ["Malagasy, Masikoro"]
 population: 550000
 country_id: MG
 country_name: Madagascar

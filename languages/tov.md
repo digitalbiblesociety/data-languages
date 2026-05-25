@@ -2,6 +2,7 @@
 iso: tov
 name: Upper Taromi
 autonym: Tâti تاتی زبون
+alt_names: [Iran, Taromi, "Taromi, Upper", Upper]
 population: null
 country_id: IR
 country_name: Iran

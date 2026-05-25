@@ -2,6 +2,7 @@
 iso: gnz
 name: Ganzi
 autonym: null
+alt_names: [Central African Republic]
 population: 1400
 country_id: CF
 country_name: Central African Republic

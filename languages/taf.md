@@ -2,6 +2,7 @@
 iso: taf
 name: Tapirapé
 autonym: apyãwa
+alt_names: ["Tapi'irape", Tapirape]
 population: 500
 country_id: BR
 country_name: Brazil

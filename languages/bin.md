@@ -1,7 +1,9 @@
 ---
 iso: bin
 name: Bini
+name_zh: 埃多语
 autonym: Bini
+alt_names: [Addo, Benin, "Bini, Edo", Edo, Edo language, Edoeg, Idioma edo, Lingua edo, Língua edo, Oviedo, Ovioba, Édo]
 population: 1931670
 country_id: NG
 country_name: Nigeria

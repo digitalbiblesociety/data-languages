@@ -2,6 +2,7 @@
 iso: tmf
 name: "Toba-Maskoy"
 autonym: Toba
+alt_names: [Cabanatit, Cabanatith, Emok, Enenlhet, Enenlhet apayvoma, Enenlhit, Machicui, Mascoi, Mascoy, Maskoi, Quilyilhrayrom, Toba of Paraguay, Toba-Emok, Toba-mascói, Tujetge]
 population: 1260
 country_id: PY
 country_name: Paraguay

@@ -2,6 +2,7 @@
 iso: xwc
 name: Woccon
 autonym: null
+alt_names: [Waccon, Wacon]
 population: null
 country_id: US
 country_name: United States

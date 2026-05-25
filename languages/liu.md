@@ -2,6 +2,7 @@
 iso: liu
 name: Logorik
 autonym: Logorik
+alt_names: [Liguri, Logori]
 population: 2000
 country_id: SD
 country_name: Sudan

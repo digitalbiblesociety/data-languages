@@ -2,6 +2,7 @@
 iso: ktv
 name: Eastern Katu
 autonym: High Katu
+alt_names: [Attouat, Kantu, Kao, Katu, "Katu, Eastern", Khat, Kontu, Nguôn Ta, Phuang, Phuong, Phuong Catang, Phuong Katu, Ta River Vân Kiêu, Teu, Thap]
 population: 62000
 country_id: VN
 country_name: Vietnam

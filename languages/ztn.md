@@ -2,6 +2,7 @@
 iso: ztn
 name: Santa Catarina Albarradas Zapotec
 autonym: Zapoteco de Santa Catarina Albarradas
+alt_names: [Albarradas, Albarradas Zapotec, Northern Sapoteko, Santo Domingo Albarradas Zapotec, Zapotec, "Zapotec, Santa Catarina Albarradas", Zapoteco de Santo Domingo Albarradas]
 population: 1000
 country_id: MX
 country_name: Mexico

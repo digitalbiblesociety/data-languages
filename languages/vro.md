@@ -1,7 +1,9 @@
 ---
 iso: vro
 name: Võro
+name_zh: 南爱沙尼亚语
 autonym: võro kiilʼ
+alt_names: [Dialekt von Võru, Voro, Voru, Vôru, Võro kiil, Võru, Werro]
 population: 80000
 country_id: EE
 country_name: Estonia

@@ -2,6 +2,7 @@
 iso: kqk
 name: Kotafon Gbe
 autonym: Ko
+alt_names: ["Gbe, Kotafon", Kogbe]
 population: 162000
 country_id: BJ
 country_name: Benin

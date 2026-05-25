@@ -2,6 +2,7 @@
 iso: mph
 name: Maung
 autonym: "Gun-Marung"
+alt_names: [Goulburn Islands, Gun marung, Gunmarang, Gunmarung, Iwaidjan, Kunmarung, Managari, Manangari, Marung, Mau, Mauung, Maw, Mawng, Mawung, Men ngai]
 population: 370
 country_id: AU
 country_name: Australia

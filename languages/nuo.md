@@ -1,7 +1,9 @@
 ---
 iso: nuo
 name: Nguôn
+name_zh: 源语
 autonym: " Năm Nguyên"
+alt_names: [Ngouan, Nguon, Nguồn language, Tiếng Nguồn]
 population: 20000
 country_id: VN
 country_name: Vietnam

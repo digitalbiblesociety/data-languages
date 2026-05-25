@@ -2,6 +2,7 @@
 iso: wpc
 name: Maco
 autonym: Maco
+alt_names: [Adole, Ature, Guagua, Itoto, Jojod, Kuakua, Macu, Mako, Maku, Piaroa, Piaroa-Maco, Piaroa-Mako, Quaqua, Wothüha, Wotuja]
 population: 2500
 country_id: VE
 country_name: Venezuela

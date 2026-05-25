@@ -1,7 +1,9 @@
 ---
 iso: kuu
 name: Upper Kuskokwim
+name_zh: 上卡斯科奎姆語
 autonym: Dinakʼi
+alt_names: [Cuscoquín alto, Haut-kuskokwim, Kolchan, Kuskokwim, Kuskokwim (Upper), "Kuskokwim, Upper", Língua kolchan, Mcgrath Ingalik, Upper]
 population: 160
 country_id: US
 country_name: United States

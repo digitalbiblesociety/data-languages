@@ -1,7 +1,9 @@
 ---
 iso: bap
 name: Bantawa
+name_zh: 班塔瓦語
 autonym: Bantaba
+alt_names: [Bantawa Dum, Bantawa Rai, Bantawa Yong, Bantawa YÃ¼ng, Bantawa Yüng, Bantawaish, Bantaweg, Bontawa, Kiranti, Rai, Rungchenbung, Rungchengbung, Rungchhenbung, Rungtśhenbung]
 population: 166600
 country_id: NP
 country_name: Nepal

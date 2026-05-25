@@ -2,6 +2,7 @@
 iso: kzx
 name: Kamarian
 autonym: Kamariang
+alt_names: [Seruawan]
 population: null
 country_id: ID
 country_name: Indonesia

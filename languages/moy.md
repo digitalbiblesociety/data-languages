@@ -2,6 +2,7 @@
 iso: moy
 name: Shekkacho
 autonym: Mocha
+alt_names: [Kafa (Mo...a dialect), Kaffa, Kafficho, Kefa-Mocha, Moca, Shakacho, Shekka]
 population: 80100
 country_id: ET
 country_name: Ethiopia

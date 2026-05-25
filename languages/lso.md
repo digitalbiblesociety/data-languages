@@ -1,6 +1,7 @@
 ---
 iso: lso
 name: Laos Sign Language
+name_zh: 老挝语手语
 autonym: null
 population: 36000
 country_id: LA

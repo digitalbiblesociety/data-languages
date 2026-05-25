@@ -2,6 +2,7 @@
 iso: dbm
 name: Duguri
 autonym: Doori
+alt_names: [Dugarwa, Duguranchi, Dugurawa, Dukuri]
 population: 20000
 country_id: NG
 country_name: Nigeria

@@ -1,7 +1,9 @@
 ---
 iso: fuc
 name: Pulaar
+name_zh: 普拉爾語
 autonym: Futa Tooro
+alt_names: [Ful(ani), Fula, Fula (Mauritanian), Fula (Senegal), "Fula, Fulani", Fulah-Idiome, Fulani, Fulbe Jeeri, Fulfulde (Mauritanian), Fulfulde Pulaar, Fulfulde-Pulaar, Haalpulaar, Peul, Peulh, Pulaar Fulfulde]
 population: 5398700
 country_id: SN
 country_name: Senegal

@@ -2,6 +2,7 @@
 iso: axx
 name: Xârâgurè
 autonym: Aragure
+alt_names: ["'Aragure", Haragure, Neukaledonien, Thio, Xaragure]
 population: 570
 country_id: NC
 country_name: New Caledonia

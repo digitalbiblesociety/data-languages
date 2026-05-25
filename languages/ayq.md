@@ -2,6 +2,7 @@
 iso: ayq
 name: Ayi (Papua New Guinea)
 autonym: null
+alt_names: [Ayi, Ayi language]
 population: 430
 country_id: PG
 country_name: Papua New Guinea

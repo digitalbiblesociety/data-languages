@@ -2,6 +2,7 @@
 iso: wab
 name: Wab
 autonym: Som
+alt_names: [Yote]
 population: 120
 country_id: PG
 country_name: Papua New Guinea

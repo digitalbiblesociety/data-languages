@@ -2,6 +2,7 @@
 iso: kbo
 name: Keliko
 autonym: Kaliko
+alt_names: ["Kaliko-Ma'di", "Ma'di", Maditi]
 population: 42500
 country_id: SS
 country_name: South Sudan

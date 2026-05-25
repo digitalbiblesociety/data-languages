@@ -1,7 +1,9 @@
 ---
 iso: lir
 name: Liberian English
+name_zh: 利比里亚克里奥尔语
 autonym: Liberian Pidgin English
+alt_names: ["English, Liberian"]
 population: 113000
 country_id: LR
 country_name: Liberia

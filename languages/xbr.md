@@ -2,6 +2,7 @@
 iso: xbr
 name: Kambera
 autonym: East Sumbanese
+alt_names: [East Sumba, Hilu Humba, Humba, Kamberaas, Oost-Sumbaas, Sumba, Sumbanese, Sumbanese (East), ภาษากัมเบอรา]
 population: 240000
 country_id: ID
 country_name: Indonesia

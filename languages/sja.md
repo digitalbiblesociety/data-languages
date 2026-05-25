@@ -2,6 +2,7 @@
 iso: sja
 name: Epena
 autonym: Saija
+alt_names: [Catío, Chamí, Chocó, Cholo, Ember-Saija, Embera, Embera-Saija, Emberá, Emberá (South), Emberá Group, Emberá-Saija, Emperá, Epena Pedee, Epená Saija, Epéna Pedée, Napipí River, Saixa, Saixa-Baudo, Sambú, Sia pedee, Southern Embera, Southern Emberá, Southern Empera, Southern Ępęra]
 population: 3500
 country_id: CO
 country_name: Colombia

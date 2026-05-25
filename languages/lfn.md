@@ -1,6 +1,7 @@
 ---
 iso: lfn
 name: Lingua Franca Nova
+name_zh: 新共同语言
 autonym: lingua franca nova
 population: 200
 country_id: ZZ

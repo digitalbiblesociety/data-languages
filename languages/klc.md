@@ -2,6 +2,7 @@
 iso: klc
 name: Kolbila
 autonym: Kolbilari
+alt_names: [Kolbili, Kolbilla, Kolena, Zoono]
 population: 2500
 country_id: CM
 country_name: Cameroon

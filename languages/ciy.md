@@ -2,6 +2,7 @@
 iso: ciy
 name: Chaima
 autonym: Kumana
+alt_names: ["Chaima: Chayma", Chayma, Cumanagoto, Cumaná, Guaga-Tagare, Kumaná, Sayma, Warapiche]
 population: null
 country_id: VE
 country_name: Venezuela

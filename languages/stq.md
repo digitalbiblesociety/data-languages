@@ -1,7 +1,9 @@
 ---
 iso: stq
 name: Saterfriesisch
+name_zh: 萨特弗里斯兰语
 autonym: Seeltersk
+alt_names: [Dialetto frisone orientale, East Frisian, Ekialdeko frisiera, Freeshlannish Hiar, Frisian, Frison oriental, Frisó oriental, Frisón oriental, Frizeg ar reter, Język fryzyjski saterlandzki, Saterfreesche Spraak, Saterfries, Saterfriesiesch, Saterfriesische Sprache, Saterfrisa lingvo, Saterfrisiska, Saterfrizišćina, Saterland Frisian language, Saterlandic Frisian, Saterländisch, Sealterfrysk, Selterfrais, Sâ-thi̍t-fut-lî-sî-ngî, Sæterlendisc, Восточнофризский язык, ザーターフリジア語, 沙特弗里西語]
 population: 5000
 country_id: DE
 country_name: Germany

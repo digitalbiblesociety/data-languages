@@ -2,6 +2,7 @@
 iso: gbs
 name: Gbesi Gbe
 autonym: null
+alt_names: [Benin, "Gbe, Gbesi"]
 population: 65000
 country_id: BJ
 country_name: Benin

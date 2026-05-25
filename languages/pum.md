@@ -2,6 +2,7 @@
 iso: pum
 name: Puma
 autonym: पुमा
+alt_names: [Poumeg, Puma Kala, Puma La, Puma Pima, Pumaish, Пума, ภาษาปูมา]
 population: 4310
 country_id: NP
 country_name: Nepal

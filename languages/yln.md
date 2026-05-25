@@ -1,7 +1,9 @@
 ---
 iso: yln
 name: Langnian Buyang
+name_zh: 郎念布央语
 autonym: "Boux-yaeŋz"
+alt_names: [Buozaang, Buyang, Buyang Zhuang, "Buyang, Langnian", Eastern Buyang, Funing Buyang, Langjia, Langjia Buyang, Langnian, 郎念布央]
 population: 300
 country_id: CN
 country_name: China

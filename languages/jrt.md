@@ -2,6 +2,7 @@
 iso: jrt
 name: Jorto
 autonym: Jakato; Jorto
+alt_names: [Jakattoe, Nigeria]
 population: 17300
 country_id: NG
 country_name: Nigeria

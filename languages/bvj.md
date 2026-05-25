@@ -2,6 +2,7 @@
 iso: bvj
 name: Baan
 autonym: Ogoi
+alt_names: [Baan-Ogoi, Goi]
 population: 5000
 country_id: NG
 country_name: Nigeria

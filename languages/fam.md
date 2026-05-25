@@ -2,6 +2,7 @@
 iso: fam
 name: Fam
 autonym: Awol Fam
+alt_names: [Nigeria]
 population: 1000
 country_id: NG
 country_name: Nigeria

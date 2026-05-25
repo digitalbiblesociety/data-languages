@@ -2,6 +2,7 @@
 iso: dgz
 name: Daga
 autonym: null
+alt_names: [Dimuga, Nawp]
 population: 10000
 country_id: PG
 country_name: Papua New Guinea

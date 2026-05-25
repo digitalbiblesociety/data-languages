@@ -1,7 +1,9 @@
 ---
 iso: yad
 name: Yagua
+name_zh: 亚瓜语
 autonym: Nijyamïï Nikyejaada
+alt_names: [Llagua, Mishara, Nijyamïï, Nikyejaada, Peba-Yaguan, Peban, Sáparo-Yawan, Yaguan, Yahua, Yava, Yawa, Yegua, Yihamwo]
 population: 5300
 country_id: PE
 country_name: Peru

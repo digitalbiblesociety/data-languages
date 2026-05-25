@@ -2,6 +2,7 @@
 iso: dzl
 name: Dzalakha
 autonym: "Dzala 'Mat"
+alt_names: [Dzalamat, Yangtsebikha]
 population: 22000
 country_id: BT
 country_name: Bhutan

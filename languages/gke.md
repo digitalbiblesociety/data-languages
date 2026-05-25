@@ -2,6 +2,7 @@
 iso: gke
 name: Ndai
 autonym: Galke
+alt_names: [Dai, Pormi]
 population: null
 country_id: CM
 country_name: Cameroon

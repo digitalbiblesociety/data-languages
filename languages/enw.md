@@ -2,6 +2,7 @@
 iso: enw
 name: Enwan (Akwa Ibom State)
 autonym: Oron
+alt_names: ["\"Oron\"", Enwan, Enwang]
 population: 15000
 country_id: NG
 country_name: Nigeria

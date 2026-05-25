@@ -1,6 +1,7 @@
 ---
 iso: aho
 name: Ahom
+name_zh: 阿豪姆語
 autonym: Tai Ahom
 population: null
 country_id: IN

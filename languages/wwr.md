@@ -2,6 +2,7 @@
 iso: wwr
 name: Warrwa
 autonym: Warrawai
+alt_names: [Kolaruma, "Wa:rwa", Warrwai, Waruwa, Warwa, Warwai]
 population: null
 country_id: AU
 country_name: Australia

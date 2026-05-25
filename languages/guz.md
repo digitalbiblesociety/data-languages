@@ -1,7 +1,9 @@
 ---
 iso: guz
 name: Gusii
+name_zh: 古西語
 autonym: Ekegusii
+alt_names: [Guzii, Język gusii, Kisii, Kosova, Lugha ya Kisii, Língua gusii]
 population: 2701470
 country_id: KE
 country_name: Kenya

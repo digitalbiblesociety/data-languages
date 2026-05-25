@@ -1,7 +1,9 @@
 ---
 iso: lya
 name: Layakha
+name_zh: 拉雅方言
 autonym: ལ་ཡ་ཁ་
+alt_names: [Bhutan]
 population: 1100
 country_id: BT
 country_name: Bhutan

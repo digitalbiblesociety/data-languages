@@ -1,7 +1,9 @@
 ---
 iso: tmt
 name: Tasmate
+name_zh: 塔斯玛特语
 autonym: Oa
+alt_names: [Meri, Vanuatu]
 population: 150
 country_id: VU
 country_name: Vanuatu

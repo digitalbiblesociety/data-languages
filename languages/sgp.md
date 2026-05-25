@@ -2,6 +2,7 @@
 iso: sgp
 name: Singpho
 autonym: Jingphaw
+alt_names: [Kachin, Sing-Fo, Yingpho]
 population: 2500
 country_id: IN
 country_name: India

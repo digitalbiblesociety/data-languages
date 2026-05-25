@@ -1,6 +1,7 @@
 ---
 iso: mdl
 name: Maltese Sign Language
+name_zh: 马耳他手语
 autonym: null
 population: 200
 country_id: MT

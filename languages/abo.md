@@ -2,6 +2,7 @@
 iso: abo
 name: Abon
 autonym: Abõ
+alt_names: [Abong, "Ba'ban"]
 population: 1000
 country_id: NG
 country_name: Nigeria

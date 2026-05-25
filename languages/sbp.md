@@ -1,7 +1,9 @@
 ---
 iso: sbp
 name: Sangu (Tanzania)
+name_zh: 桑古语
 autonym: Kisangu
+alt_names: [Eshisango, Rori, Sango, Sangu]
 population: 119000
 country_id: TZ
 country_name: Tanzania

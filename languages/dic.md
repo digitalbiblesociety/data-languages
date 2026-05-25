@@ -2,6 +2,7 @@
 iso: dic
 name: Lakota Dida
 autonym: Brabori
+alt_names: [Dida, "Dida, Lakota", Dieko, Gabo, Guébie, Satro, Vata, Ziki]
 population: 93800
 country_id: CI
 country_name: "Côte d'Ivoire"

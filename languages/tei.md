@@ -2,6 +2,7 @@
 iso: tei
 name: Torricelli
 autonym: Lou
+alt_names: [Anamagi, Aro]
 population: 520
 country_id: PG
 country_name: Papua New Guinea

@@ -1,7 +1,9 @@
 ---
 iso: hil
 name: Hiligaynon
+name_zh: 希利蓋農語
 autonym: Ilonggo
+alt_names: [Bahasa Hiligaynon, Bisaya, Hiligainon, Hiligainon kieli, Hiligaynon-ngî, Hiligaïnon, Idioma hiligainón, Illogo, Ilongoeg, Lengua hiligaynon, Lingua hiligaynon, Pagsasao a Hiligaynon, Tataramon na Hiligaynon, Wikang Hiligaynon, Хилигайнон, হিলিগেনন ভাষা, ภาษาฮิลิกายนอน, ヒリガイノン語]
 population: 6246880
 country_id: PH
 country_name: Philippines

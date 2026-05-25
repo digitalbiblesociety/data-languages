@@ -1,7 +1,9 @@
 ---
 iso: ths
 name: Thakali
+name_zh: 塔卡利语
 autonym: Barhagaule
+alt_names: [Marphatan Thakali, Panchgaunle, Tapaang, Thakali Marphatan, Thaksya, Thāksya]
 population: 12973
 country_id: NP
 country_name: Nepal

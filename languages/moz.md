@@ -2,6 +2,7 @@
 iso: moz
 name: Mukulu
 autonym: Mukulu
+alt_names: [Diongor Guera, Djonkor Guera, Dyongor Guera, Gergiko, Jonkor of Guera, Jonkor-Gera, Mokilko, Mokoulou, Mokulu]
 population: 12000
 country_id: TD
 country_name: Chad

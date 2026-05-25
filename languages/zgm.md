@@ -1,7 +1,9 @@
 ---
 iso: zgm
 name: Minz Zhuang
+name_zh: 民讲
 autonym: Minz
+alt_names: ["Zhuang, Minz"]
 population: 2600
 country_id: CN
 country_name: China

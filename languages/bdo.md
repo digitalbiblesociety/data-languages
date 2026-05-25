@@ -2,6 +2,7 @@
 iso: bdo
 name: Morom
 autonym: Bernde
+alt_names: [Tar Murba]
 population: 4500
 country_id: TD
 country_name: Chad

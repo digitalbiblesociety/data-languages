@@ -2,6 +2,7 @@
 iso: cpn
 name: Cherepon
 autonym: Chiripon
+alt_names: [Chiripong, Guang, Kyerepong, Okere]
 population: 132000
 country_id: GH
 country_name: Ghana

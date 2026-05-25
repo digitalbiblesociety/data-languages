@@ -2,6 +2,7 @@
 iso: mxf
 name: Malgbe
 autonym: Gulfey
+alt_names: [Goulfei, Goulfey, Gulfe, Gulfei, Kotoko-Gulfei, Malbe, Malgwe, Mandage, Ngwalkwe, Sanbalbe]
 population: 6000
 country_id: CM
 country_name: Cameroon

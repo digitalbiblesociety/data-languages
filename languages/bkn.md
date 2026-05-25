@@ -2,6 +2,7 @@
 iso: bkn
 name: Bukitan
 autonym: Bakatan
+alt_names: [Bakitan, Beketan, Mangkettan, Manketa, Pakatan]
 population: 570
 country_id: ID
 country_name: Indonesia

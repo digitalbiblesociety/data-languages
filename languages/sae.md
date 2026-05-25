@@ -2,6 +2,7 @@
 iso: sae
 name: Sabanê
 autonym: Sabanês Sabones
+alt_names: [Sabane, Sabané, Sabanés, Sabanês, Sabones]
 population: 3
 country_id: BR
 country_name: Brazil

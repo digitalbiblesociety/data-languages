@@ -2,6 +2,7 @@
 iso: klo
 name: Kapya
 autonym: null
+alt_names: [Nigeria]
 population: 200
 country_id: NG
 country_name: Nigeria

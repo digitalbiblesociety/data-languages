@@ -1,7 +1,9 @@
 ---
 iso: lbx
 name: Lawangan
+name_zh: 盧旺干語
 autonym: Luwangan
+alt_names: [Northeast Barito]
 population: 100000
 country_id: ID
 country_name: Indonesia

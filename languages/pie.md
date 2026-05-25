@@ -2,6 +2,7 @@
 iso: pie
 name: Piro
 autonym: null
+alt_names: [Senecu, Tompiro]
 population: null
 country_id: BR
 country_name: Brazil

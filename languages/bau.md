@@ -2,6 +2,7 @@
 iso: bau
 name: Bada (Nigeria)
 autonym: "Bada'"
+alt_names: [Bada, Badanchi, Badawa, Bat, Garaka, Jar, Jarawan Kogi, Kanna, Mbada, Mbadawa, Mbat, Plains Jarawa, River Jarawa]
 population: 10000
 country_id: NG
 country_name: Nigeria

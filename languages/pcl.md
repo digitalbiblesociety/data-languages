@@ -2,6 +2,7 @@
 iso: pcl
 name: Pardhi
 autonym: Bahelia
+alt_names: [Chita Pardhi, Lango Pardhi, Paidia, Paradi, Paria, Phans Pardhi, Takankar, Takia]
 population: 69100
 country_id: IN
 country_name: India

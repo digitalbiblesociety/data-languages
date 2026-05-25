@@ -1,7 +1,9 @@
 ---
 iso: kxm
 name: Northern Khmer
+name_zh: 北高棉話
 autonym: Surin Khmer
+alt_names: [Cambodian, Kambojanisch, Khmaer, Khmer, Khmer Lue, "Khmer, Northern", Khmɛr, Thailand Khmer]
 population: 90000
 country_id: TH
 country_name: Thailand

@@ -1,7 +1,9 @@
 ---
 iso: suk
 name: Sukuma
+name_zh: 苏库马语
 autonym: Kɪsukuma
+alt_names: [Kesukuma, Kisukuma]
 population: 8130000
 country_id: TZ
 country_name: Tanzania

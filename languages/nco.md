@@ -2,6 +2,7 @@
 iso: nco
 name: Sibe
 autonym: Sibe
+alt_names: [Nagovisi, Sibbe, Sibe-Nagovisi]
 population: 5000
 country_id: PG
 country_name: Papua New Guinea

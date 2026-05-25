@@ -2,6 +2,7 @@
 iso: mfq
 name: Moba
 autonym: Moba Lok
+alt_names: [Ben, Moa, Moab, Moare]
 population: 320800
 country_id: TG
 country_name: Togo

@@ -1,6 +1,7 @@
 ---
 iso: aym
 name: Aymara
+name_zh: 艾马拉语
 autonym: Aymar aru
 population: 1677100
 country_id: BO

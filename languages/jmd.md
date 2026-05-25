@@ -1,7 +1,9 @@
 ---
 iso: jmd
 name: Yamdena
+name_zh: 扬德纳语
 autonym: Jamden
+alt_names: [Jamdena]
 population: 25000
 country_id: ID
 country_name: Indonesia

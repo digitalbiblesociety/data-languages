@@ -2,6 +2,7 @@
 iso: llb
 name: Lolo
 autonym: Emakuana
+alt_names: [Ilolo, Lolo-Moso, Loloish, Yi]
 population: 330000
 country_id: MZ
 country_name: Mozambique

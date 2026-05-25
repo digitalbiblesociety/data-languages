@@ -2,6 +2,7 @@
 iso: bwp
 name: Mandobo Bawah
 autonym: Dumut
+alt_names: ["\"Kaeti\"", Kaeti, Kambon, Mandobbo, Nub]
 population: 2000
 country_id: ID
 country_name: Indonesia

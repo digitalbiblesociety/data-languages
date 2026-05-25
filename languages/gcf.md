@@ -1,7 +1,9 @@
 ---
 iso: gcf
 name: Guadeloupean Creole French
+name_zh: 瓜德罗普克里奥尔语
 autonym: " patois"
+alt_names: ["Creole French, Guadeloupean", French Creole, Guadeloupe Creole, Guadeloupean, Guadeloupean Creole, Kreyol, Lesser Antillies Creole French, Martiniquais, Martiniquan Creole French, Martinique Creole, Patwa]
 population: 433500
 country_id: GP
 country_name: Guadeloupe

@@ -2,6 +2,7 @@
 iso: xpw
 name: "Northwestern Tasmanian\r"
 autonym: Northwestern Tasmanian
+alt_names: [Peerapper, "Tasmanian, Northwestern"]
 population: null
 country_id: AU
 country_name: Australia

@@ -2,6 +2,7 @@
 iso: aux
 name: Aurá
 autonym: Aurê
+alt_names: [Auré, Aurê-aurá]
 population: null
 country_id: BR
 country_name: Brazil

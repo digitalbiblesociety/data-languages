@@ -2,6 +2,7 @@
 iso: nhv
 name: Temascaltepec Nahuatl
 autonym: San Mateo Almomoloa
+alt_names: [Almomoloya Náhuatl, Central Nawa, Mexicano, Nahua central, Nahuatl, "Nahuatl, Temascaltepec", Náhuatl central, Temascaltepec Aztec]
 population: 310
 country_id: MX
 country_name: Mexico

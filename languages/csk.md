@@ -2,6 +2,7 @@
 iso: csk
 name: "Jola-Kasa"
 autonym: "Jóola-Kaasa"
+alt_names: [Casa, Diola-Kasa, Jola-kassa, Jóola-Kasa, Kasa]
 population: 45100
 country_id: SN
 country_name: Senegal

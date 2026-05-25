@@ -2,6 +2,7 @@
 iso: kuv
 name: Kur
 autonym: null
+alt_names: [Indonesia]
 population: 3180
 country_id: ID
 country_name: Indonesia

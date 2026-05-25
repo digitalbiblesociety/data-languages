@@ -2,6 +2,7 @@
 iso: pax
 name: Pankararé
 autonym: Pankararé
+alt_names: [Pankarare, Pankaré]
 population: null
 country_id: BR
 country_name: Brazil

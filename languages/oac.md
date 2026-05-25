@@ -1,7 +1,9 @@
 ---
 iso: oac
 name: Oroch
+name_zh: 奥罗奇语
 autonym: Orochi
+alt_names: [Orotche, Orotsjisk, Orotšin kieli, Oroć, Sprache der Oročonen, орочский язык, オロチ語]
 population: 260
 country_id: RU
 country_name: Russia

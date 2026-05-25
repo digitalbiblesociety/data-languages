@@ -2,6 +2,7 @@
 iso: knx
 name: Kendayan
 autonym: " Salako"
+alt_names: [Baicit, Damea, Dayak, Kenayatn, Kendayan Dayak, Kendayan-Ambawang, Salakau, Selakau, Selako, Silakau]
 population: 331700
 country_id: ID
 country_name: Indonesia

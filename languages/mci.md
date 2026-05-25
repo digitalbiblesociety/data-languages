@@ -2,6 +2,7 @@
 iso: mci
 name: Mese
 autonym: null
+alt_names: [Mesem, Momalili, Momolili]
 population: 4000
 country_id: PG
 country_name: Papua New Guinea

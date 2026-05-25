@@ -1,7 +1,9 @@
 ---
 iso: ibo
 name: Igbo
+name_zh: 伊博语
 autonym: Asụsụ Igbo
+alt_names: [Bahasa Igbo, Ibo, Ibo-linguo, Idioma igbo, Igba lingvo, Igbo simi, Igboeg, Igbon kieli, Igboština, Igbų kalba, Język ibo, Lenga Igbo, Lingua ibo, Lingua igbo, Língua igbo, Èdè Ígbò, Игбо, ইগবো ভাষা, இக்போ மொழி, イボ語, 伊博語]
 population: 27000000
 country_id: NG
 country_name: Nigeria

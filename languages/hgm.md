@@ -1,7 +1,9 @@
 ---
 iso: hgm
 name: Haiǁom
+name_zh: 海奥姆人
 autonym: Haiǁom–ǂĀkhoe
+alt_names: ["\"Saan\"", "\"San\"", Hai.n//um, Hai//om, Haiom, "Hai||om"]
 population: 18400
 country_id: NA
 country_name: Namibia

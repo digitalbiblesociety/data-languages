@@ -2,6 +2,7 @@
 iso: goy
 name: Goundo
 autonym: null
+alt_names: [Gundo]
 population: 30
 country_id: TD
 country_name: Chad

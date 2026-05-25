@@ -2,6 +2,7 @@
 iso: tkb
 name: Buksa
 autonym: Bhoksa
+alt_names: [India]
 population: 59000
 country_id: IN
 country_name: India

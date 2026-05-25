@@ -2,6 +2,7 @@
 iso: opy
 name: Ofayé
 autonym: "Ofaié-Xavante"
+alt_names: [Guachi, Ofaié, Ofaye, Ofayé-Xavante, Opaie, Opaié-Shavante, Opaye, Opaye-Chavante, Opayé]
 population: null
 country_id: BR
 country_name: Brazil

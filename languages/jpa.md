@@ -1,7 +1,9 @@
 ---
 iso: jpa
 name: Jewish Palestinian Aramaic
+name_zh: 猶太-巴勒斯坦亞拉姆語
 autonym: null
+alt_names: ["Aramaic, Jewish Palestinian"]
 population: null
 country_id: IL
 country_name: Israel

@@ -2,6 +2,7 @@
 iso: biv
 name: Southern Birifor
 autonym: Birifo
+alt_names: ["Birifor, Southern", Ghana Birifor]
 population: 187310
 country_id: GH
 country_name: Ghana

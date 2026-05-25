@@ -1,7 +1,9 @@
 ---
 iso: rwk
 name: Rwa
+name_zh: 罗瓦语
 autonym: West Chaga
+alt_names: [Kirwo, Rwo]
 population: 90000
 country_id: TZ
 country_name: Tanzania

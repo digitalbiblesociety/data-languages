@@ -1,7 +1,9 @@
 ---
 iso: nog
 name: Nogai
+name_zh: 諾蓋語
 autonym: Ногай тили (Noğay tili)
+alt_names: [Alabugat Tatar-Nogai, Idioma nogayo, Karagash Nogai, Karagash Nogay, Língua nogai, Nogaieg, Nogain kieli, Nogaische Sprache, Nogaitsy, Nogaja lingvo, Nogajština, Nogalar, Nogay, Nogay Türkçesi, Nogayca, Nogaï, Nogaï (Caucase), Nogaï (Crimée), Nogaï (Dobroudja), Noghai, Noghay, Noghay (Karagash), Noghaylar, Nogái (Dobruja), Noqay dili, Tatar (Yurt), Tatar-Nogai (Alabugat), Tatar-Noghay (Alabugat), Yurt Tatar, Ногајски јазик, Ногъайаг æвзаг, ногай тили, ногайский язык, ногайша, ภาษาโนไก, 노가이어]
 population: 87100
 country_id: RU
 country_name: Russia

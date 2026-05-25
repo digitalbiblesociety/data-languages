@@ -2,6 +2,7 @@
 iso: dhs
 name: Dhaiso
 autonym: Kikamba
+alt_names: [Daisa, Daiso, Daisu, Kidhaiso, Kiseguju]
 population: 5000
 country_id: TZ
 country_name: Tanzania

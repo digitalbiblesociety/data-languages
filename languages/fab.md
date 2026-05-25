@@ -1,7 +1,9 @@
 ---
 iso: fab
 name: "Fa d'Ambu"
+name_zh: 安诺本语
 autonym: Fa d’Ambu
+alt_names: [Annobonense, Annobonese, Annobonese language, Annoboni keel, Annobonés, Criollo annobonense, "Fá d'Ambô", Portuguese Guinea, Аннобонский язык, Аннобонська мова]
 population: 6600
 country_id: GQ
 country_name: Equatorial Guinea

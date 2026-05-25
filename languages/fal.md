@@ -2,6 +2,7 @@
 iso: fal
 name: South Fali
 autonym: null
+alt_names: [Fali, "Fali, South"]
 population: 20000
 country_id: CM
 country_name: Cameroon

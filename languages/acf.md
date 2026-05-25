@@ -1,7 +1,9 @@
 ---
 iso: acf
 name: Saint Lucian Creole French
+name_zh: 聖盧西亞克里奧爾語
 autonym: kwéyòl
+alt_names: ["Creole French, Saint Lucian", Créole sainte-lucien, Kwèyòl, Lesser Antillean Creole French, Lesser Antillean Creole French., Lesser Antillies Creole French, Patois, Patwa, Trinidadian Creole French]
 population: 689000
 country_id: LC
 country_name: Saint Lucia

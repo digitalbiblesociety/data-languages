@@ -2,6 +2,7 @@
 iso: sbz
 name: Sara Kaba
 autonym: Sara Kaba
+alt_names: [Ta Sara]
 population: 13600
 country_id: CF
 country_name: Central African Republic

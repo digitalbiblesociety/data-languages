@@ -2,6 +2,7 @@
 iso: elm
 name: Eleme
 autonym: null
+alt_names: [Nigeria]
 population: 58000
 country_id: NG
 country_name: Nigeria

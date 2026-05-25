@@ -2,6 +2,7 @@
 iso: xaw
 name: Kawaiisu
 autonym: "Nɨwɨ'abigidɨ"
+alt_names: [Kawaiisu language]
 population: 150
 country_id: US
 country_name: United States

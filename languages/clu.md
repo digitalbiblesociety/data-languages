@@ -2,6 +2,7 @@
 iso: clu
 name: Caluyanun
 autonym: null
+alt_names: [Bisaya, Caluyanen, Caluyanhon, Caluyanon language, Caluyanon nga yinaknan, ภาษากาลูยานอน]
 population: 30000
 country_id: PH
 country_name: Philippines

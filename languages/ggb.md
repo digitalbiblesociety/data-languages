@@ -2,6 +2,7 @@
 iso: ggb
 name: Gbii
 autonym: Gbee
+alt_names: [Gbi-Dowlu]
 population: 5600
 country_id: LR
 country_name: Liberia

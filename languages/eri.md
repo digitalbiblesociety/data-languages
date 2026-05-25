@@ -1,7 +1,9 @@
 ---
 iso: eri
 name: Ogea
+name_zh: 奥盖阿语
 autonym: Erima
+alt_names: [Nuru]
 population: 2210
 country_id: PG
 country_name: Papua New Guinea

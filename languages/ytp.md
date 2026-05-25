@@ -1,6 +1,7 @@
 ---
 iso: ytp
 name: Thopho
+name_zh: 脱泼语
 autonym: Black Hat Folk
 population: 200
 country_id: CN

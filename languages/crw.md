@@ -1,7 +1,9 @@
 ---
 iso: crw
 name: Chrau
+name_zh: 遮罗语
 autonym: Chauro
+alt_names: [Choro, Chíoro, Gro, Jro, Ro, Tamun]
 population: 26900
 country_id: VN
 country_name: Vietnam

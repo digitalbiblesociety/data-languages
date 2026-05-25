@@ -2,6 +2,7 @@
 iso: roe
 name: Ronji
 autonym: Gali
+alt_names: [Roinji]
 population: 450
 country_id: PG
 country_name: Papua New Guinea

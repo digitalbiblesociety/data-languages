@@ -2,6 +2,7 @@
 iso: wrw
 name: Gugu Warra
 autonym: Gugu Warra
+alt_names: ["\"Lama Deighton Tribe\"", Aghu Laia, Aku Laia, Coo coo warra, Coo coo warra for Laia, Coo oo warra, Coo-coo-warra, Coo-oo-warra, Gugu Wara, Gugu-Warra, Guguwarra, Jaram, Koko Laia, Koko Wara, KokoWara, Kokowarra, Kookawarra, Kookowara, Kuku Wara, Kuku-Wara, Kuku-Warra, Laia, Laura Deighton tribe for Kokowara, Wara, Wijaram]
 population: null
 country_id: AU
 country_name: Australia

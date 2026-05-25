@@ -2,6 +2,7 @@
 iso: meq
 name: Merey
 autonym: null
+alt_names: [Mere, Meri, Mofu, Mofu de Meri, Mofu of Meri, Muffo, Muffu]
 population: 10000
 country_id: CM
 country_name: Cameroon

@@ -2,6 +2,7 @@
 iso: mqi
 name: Mariri
 autonym: Mairiri
+alt_names: [Aru]
 population: 390
 country_id: ID
 country_name: Indonesia

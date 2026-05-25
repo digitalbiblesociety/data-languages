@@ -2,6 +2,7 @@
 iso: pnq
 name: Pana (Burkina Faso)
 autonym: Sama
+alt_names: [Pana]
 population: 5000
 country_id: BF
 country_name: Burkina Faso

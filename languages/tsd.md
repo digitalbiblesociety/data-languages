@@ -2,6 +2,7 @@
 iso: tsd
 name: Tsakonian
 autonym: τσακώνικα
+alt_names: [Cakončina, Gresianeg Tsakonia, Lingua tsakonia, Tsaconia, Tsakonia, Tsakonian kieli, Tsakoniano, Tsakonien, Tsakonisch, Τσακωνική διάλεκτος, Цаконски език, Цаконский язык, Цаконська мова]
 population: 2000
 country_id: GR
 country_name: Greece

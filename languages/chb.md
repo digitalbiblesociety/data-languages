@@ -1,7 +1,9 @@
 ---
 iso: chb
 name: Chibcha
+name_zh: 奇布查语
 autonym: Muysc cubun
+alt_names: [Chibchan Proper, Cundicocuyese, Idioma muisca, Miusca, Mosca, Muisca, Muiska, Muyska simi, Čibča, Чибча]
 population: null
 country_id: CO
 country_name: Colombia

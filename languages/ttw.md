@@ -2,6 +2,7 @@
 iso: ttw
 name: Long Wat
 autonym: Long Wat
+alt_names: [Kenyah, "Kenyah, Tutoh", "Lebo' Vo' Kenyah", Long San Kenyah, Tutoh Kenya]
 population: 600
 country_id: MY
 country_name: Malaysia

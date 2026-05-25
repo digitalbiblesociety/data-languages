@@ -2,6 +2,7 @@
 iso: udl
 name: Wuzlam
 autonym: Mizlime
+alt_names: [Ouldeme, Udlam, Uldeme, Uzam, Uzlam]
 population: 10500
 country_id: CM
 country_name: Cameroon

@@ -2,6 +2,7 @@
 iso: flr
 name: Fuliiru
 autonym: Fulero
+alt_names: [Fuliiru people, Fuliru, Kifulero, Kifuliiru]
 population: 400000
 country_id: CD
 country_name: DR Congo

@@ -2,6 +2,7 @@
 iso: kig
 name: Kimaama
 autonym: Kimaama
+alt_names: [Kaladdarsch, Kimaghama, Kimaghana, Kimaghima, Teri-Kalwasch, Teri-Kawalsch]
 population: 3000
 country_id: ID
 country_name: Indonesia

@@ -1,6 +1,7 @@
 ---
 iso: lab
 name: Linear A
+name_zh: 线形文字A
 autonym: null
 population: null
 country_id: GR

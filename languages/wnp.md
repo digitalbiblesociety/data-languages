@@ -2,6 +2,7 @@
 iso: wnp
 name: Wanap
 autonym: Kayik
+alt_names: [Menandon, Minendon]
 population: 1070
 country_id: PG
 country_name: Papua New Guinea

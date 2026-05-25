@@ -2,6 +2,7 @@
 iso: ldk
 name: Leelau
 autonym: Bikwin
+alt_names: [Lelau, Lelo, Munga, Munga Lelau, Munga-Gomu-Bambuka]
 population: 5000
 country_id: NG
 country_name: Nigeria

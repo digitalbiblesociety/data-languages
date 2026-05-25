@@ -2,6 +2,7 @@
 iso: iml
 name: Miluk
 autonym: miluk tɬiis
+alt_names: [Lower Coquille, Mulluk]
 population: null
 country_id: US
 country_name: United States

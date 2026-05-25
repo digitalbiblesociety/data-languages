@@ -2,6 +2,7 @@
 iso: bnl
 name: Boon
 autonym: "Af-Boon"
+alt_names: [Boni, Boon hizkuntza]
 population: 60
 country_id: SO
 country_name: Somalia

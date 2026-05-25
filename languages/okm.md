@@ -1,7 +1,9 @@
 ---
 iso: okm
 name: "Middle Korean (10th-16th cent.)"
+name_zh: 中世朝鲜语
 autonym: 중세 한국어
+alt_names: ["Korean, Middle (10th-16th cent.)"]
 population: null
 country_id: KR
 country_name: South Korea

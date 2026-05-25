@@ -1,7 +1,9 @@
 ---
 iso: glg
 name: Galician
+name_zh: 加利西亞語
 autonym: galego
+alt_names: [An Ghailísis, Bahasa Galicia, Galeegi keel, Galeeshish, Galega lingvo, Galegogiella, Galiciai nyelv, Galician (only written direcly on the map), Galicien, Galicies, Galicijski jezik, Galicijština, Galicijščina, Galicisch, Galicische Sprache, Galicisk, Galiciska, Galijek, Galisieg, Galisiešu valoda, Galisisk, Galisisk språk, Galisu kalba, Galisų kalba, Galizeg, Galizian, Galiziera, Galiçyaca, Gallec, Gallegan, Gallego, Gallegu, Galligu simi, Galèc, Galícijčina, Gjuha galiciane, Idioma gallego, Język galicyjski, Kigalicia, Kâ-lî-sî-â-ngî, Lenga galissian-a, Lengua galissiann-a, Lengua gałiziana, Lia-galegu, Limba galiciană, Lingua Gallaica, Lingua galega, Lingua galiziana, Lingua gallecian, Luenga gallega, Língua galega, Northern Portuguese, Reo Galicia, Wikang Galisyano, Zimanê galîsyayî, Γαλικιανή γλώσσα, Галисиаг æвзаг, Галисийски език, Галисийский язык, Галициски јазик, Галицијски језик, Галісійська мова, Գալիցերեն, גליסית, لغة جليقية, گالىسىيەچە, गॅलिशियन भाषा, गैलिशियन भाषा, ภาษากาลิเซีย, გალისიური ენა, ガリシア語, 加里西亞語, 갈리시아어]
 population: 3127900
 country_id: ES
 country_name: Spain

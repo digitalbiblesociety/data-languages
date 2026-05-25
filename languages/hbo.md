@@ -1,7 +1,9 @@
 ---
 iso: hbo
 name: Ancient Hebrew
+name_zh: 古典希伯来语
 autonym: עִבְרִית מִקְרָאִית
+alt_names: [Biblical Hebrew, Classical Hebrew, Hebrew, "Hebrew, Ancient", Old Hebrew]
 population: null
 country_id: IL
 country_name: Israel

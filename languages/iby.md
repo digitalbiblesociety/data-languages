@@ -2,6 +2,7 @@
 iso: iby
 name: Ibani
 autonym: Ibani–Kalabari–Kirike
+alt_names: [Bonny, Ubani, Ịjọ]
 population: 60000
 country_id: NG
 country_name: Nigeria

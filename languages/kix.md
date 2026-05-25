@@ -2,6 +2,7 @@
 iso: kix
 name: Khiamniungan Naga
 autonym: Aoshedd
+alt_names: [Kalyokengnyu, Khiamngan, Khiamniungan, Khiemnungan, Naga, "Naga, Khiamniungan", "Naga,Khiamniungan", Nokaw, Welam]
 population: 72000
 country_id: IN
 country_name: India

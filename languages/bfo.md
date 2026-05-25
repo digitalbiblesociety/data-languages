@@ -2,6 +2,7 @@
 iso: bfo
 name: Malba Birifor
 autonym: "Birifor, Northern"
+alt_names: [Birifo, "Birifor, Malba", Malba-Birifor, Northern Birifor]
 population: 108000
 country_id: BF
 country_name: Burkina Faso

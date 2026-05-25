@@ -2,6 +2,7 @@
 iso: kes
 name: Kugbo
 autonym: null
+alt_names: [Nigeria]
 population: 2000
 country_id: NG
 country_name: Nigeria

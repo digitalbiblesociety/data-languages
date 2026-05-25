@@ -2,6 +2,7 @@
 iso: ofu
 name: Efutop
 autonym: Agbaragba
+alt_names: [Ofutop]
 population: 10000
 country_id: NG
 country_name: Nigeria

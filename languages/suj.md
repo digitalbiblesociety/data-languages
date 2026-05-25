@@ -1,7 +1,9 @@
 ---
 iso: suj
 name: Shubi
+name_zh: 舒比语
 autonym: Kishubi
+alt_names: [Sinja, Subi, Urushubi]
 population: 92400
 country_id: TZ
 country_name: Tanzania

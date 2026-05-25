@@ -2,6 +2,7 @@
 iso: are
 name: Western Arrarnta
 autonym: Arrernte
+alt_names: ["A'randa", Aldolanga, Aldolinga, Aranda, Aranda (Western), Arandic, Aranta, Arinta, Arranda, Arranda (Western), Arrarnta, Arrarnta (Western), "Arrarnta, Western", Arrernte (Western), Arrinda, Arrundta, Arrunta, Arunda, Arunndta, Arunta, Arunta Ulpma, Burrin-gah, Herrinda, Ilpma, Jairunda, Oiljpma, Paroola, Tyuretye Arrernte, Ulpma, Ur rundie, Ur-rundie, Urrundie, Waitjinga, Western, Western Aranda, Western Aranta, Western Arranta, Western Arrarnte, Western Arrernte, Wonggaranda, Wongkatjeri, Wychinga]
 population: 440
 country_id: AU
 country_name: Australia

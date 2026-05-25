@@ -2,6 +2,7 @@
 iso: bvx
 name: Dibole
 autonym: Dibole
+alt_names: [Babole, Southern Bomitaba]
 population: 4000
 country_id: CG
 country_name: Congo

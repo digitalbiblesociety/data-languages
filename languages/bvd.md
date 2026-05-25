@@ -2,6 +2,7 @@
 iso: bvd
 name: Baeggu
 autonym: Mbaenggu
+alt_names: [Baegu, Südliche Salomons-Inseln]
 population: 5900
 country_id: SB
 country_name: Solomon Islands

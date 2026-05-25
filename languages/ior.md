@@ -2,6 +2,7 @@
 iso: ior
 name: Inor
 autonym: Ennemor
+alt_names: [Gurage, Idioma inor, Innämor, Inor jezik, Inär, Peripheral West Gurage]
 population: 280000
 country_id: ET
 country_name: Ethiopia

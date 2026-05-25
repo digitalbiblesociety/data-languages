@@ -2,6 +2,7 @@
 iso: upv
 name: "Uripiv-Wala-Rano-Atchin"
 autonym: "Uripiv-Wala-Rano-Atchin"
+alt_names: [Atchin, Idioma uripiv, Malekula, Mallicolo, Uripiv language]
 population: 9000
 country_id: VU
 country_name: Vanuatu

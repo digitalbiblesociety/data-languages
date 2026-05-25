@@ -1,6 +1,7 @@
 ---
 iso: njz
 name: Nyishi
+name_zh: 尼希语
 autonym: " Nisi"
 population: 299000
 country_id: IN

@@ -2,6 +2,7 @@
 iso: csh
 name: Asho Chin
 autonym: Asho
+alt_names: [A-shö, Ashu, Ašo, Chin (Asho), Chin (South), "Chin, Asho", "Chin,Asho", Chinbon, Hyow, Khyang, Khyeng, Kyang, Lemyo, Minbu, Qin, Sho, Shoa, Shö, Thayetmo, Śo]
 population: 174000
 country_id: MM
 country_name: Myanmar

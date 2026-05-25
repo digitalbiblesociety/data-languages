@@ -1,7 +1,9 @@
 ---
 iso: mtp
 name: Wichí Lhamtés Nocten
+name_zh: Nocten维跽语
 autonym: Weenhayek
+alt_names: [Bolivian Mataco, Mataco, Mataco Güisnay, Mataco Pilcomayo, Mataguayo, Matahuayo, Matako, Nocten, Noctenes, Oktenai, Pilcomayo Wichí, Wennhayek, Wichi Lhamtes Nocten, Wichí, Wichí Lhamtés Güisnay]
 population: 2030
 country_id: BO
 country_name: Bolivia

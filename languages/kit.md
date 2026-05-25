@@ -2,6 +2,7 @@
 iso: kit
 name: Agob
 autonym: Dabu
+alt_names: [Agöb]
 population: 1437
 country_id: PG
 country_name: Papua New Guinea

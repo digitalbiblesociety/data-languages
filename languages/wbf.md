@@ -2,6 +2,7 @@
 iso: wbf
 name: Wara
 autonym: Wara
+alt_names: [Ouala, Ouara, Samoe, Wára]
 population: 4500
 country_id: BF
 country_name: Burkina Faso

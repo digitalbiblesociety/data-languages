@@ -2,6 +2,7 @@
 iso: bgt
 name: Bughotu
 autonym: Bugotu
+alt_names: [Bugota, Bugoto, Mahaga, Mbughotu, Südliche Salomons-Inseln]
 population: 4050
 country_id: SB
 country_name: Solomon Islands

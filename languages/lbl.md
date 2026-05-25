@@ -2,6 +2,7 @@
 iso: lbl
 name: Libon Bikol
 autonym: Libongeño
+alt_names: ["Bikol, Libon"]
 population: 700000
 country_id: PH
 country_name: Philippines

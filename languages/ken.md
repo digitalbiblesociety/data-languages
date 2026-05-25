@@ -2,6 +2,7 @@
 iso: ken
 name: Kenyang
 autonym: Nyang
+alt_names: [Banjangi, Banyang, Banyangi, Bayangi, "Lower Kenyang, Upper Kenyang", Manyang]
 population: 65000
 country_id: CM
 country_name: Cameroon

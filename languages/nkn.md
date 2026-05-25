@@ -2,6 +2,7 @@
 iso: nkn
 name: Nkangala
 autonym: Mbúùnda
+alt_names: [Cangala, Ngangala]
 population: 22300
 country_id: AO
 country_name: Angola

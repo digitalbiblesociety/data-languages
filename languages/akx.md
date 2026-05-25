@@ -1,7 +1,9 @@
 ---
 iso: akx
 name: "Aka-Kede"
+name_zh: （Aka-）Kede
 autonym: "Aka-Kede"
+alt_names: [Andamanese, Great Andamanese, Kede, Lèngua Aka-Kede]
 population: null
 country_id: IN
 country_name: India

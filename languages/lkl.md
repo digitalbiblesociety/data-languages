@@ -2,6 +2,7 @@
 iso: lkl
 name: "Laeko-Libuat"
 autonym: "Laeko-Libuat"
+alt_names: [Laeko, Laeko-Limbuat, Waitalu, Watalu, Watulu]
 population: 518
 country_id: PG
 country_name: Papua New Guinea

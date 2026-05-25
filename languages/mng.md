@@ -2,6 +2,7 @@
 iso: mng
 name: Eastern Mnong
 autonym: Bunong (ឞូន៝ង)
+alt_names: [E Mnong, E. Mnong, Mnong (Eastern), "Mnong, Eastern", Nong, Penong, Rolom]
 population: 30000
 country_id: VN
 country_name: Vietnam

@@ -1,7 +1,9 @@
 ---
 iso: osn
 name: Old Sundanese
+name_zh: 古巽他語
 autonym: Basa Sunda Buhun
+alt_names: ["Sundanese, Old"]
 country_id: ID
 country_name: Indonesia
 latitude: -7.1

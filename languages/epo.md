@@ -1,7 +1,9 @@
 ---
 iso: epo
 name: Esperanto
+name_zh: 世界语
 autonym: esperanto
+alt_names: [Bahasa Esperanto, Eo, Esperanteg, Esperanto leid, Esperanto simi, Esperanto tili, Espéranto, Eszperantó nyelv, Gjuha esperanto, Inesperanto, Kiesperanto, Kiseperanto, La Lingvo Internacia, Lenga esperanto, Lingua Esperantica, Lingua esperanto, Lingua esperantu, Quốc tế ngữ, Sperantapük, Speranto, Sprantais, Sè-kài-gí, Sí-Speranto, esperantos, Èsperanto, Εσπεράντο, Єспєра́нто, Есперанто, Забони эсперанто, Эсперанта, Эсперанто, Эсперанто теле, Эспэранта, Էսպերանտո, אספרנטו, עספעראנטא, إسبرنتو, إسبيرانتو, ئېسپېرانتو, اسپرانتو, اسپرانٹو, एस्पेरांतो, एस्पेरान्तो, ਏਸਪੇਰਾਨਤੋ, எஸ்பெராண்டோ, ಎಸ್ಪೆರಾಂಟೊ, എസ്പെരാന്തോ, ภาษาเอสเปรันโต, ესპერანტო, ኤስፔራንቶ, ᐃᓯᐱᕋᓐᑐ/isipirantu, ‘Ōlelo Ekepelānako, エスペラント, 世界語, 世界语, 에스페란토]
 population: 1000
 country_id: PL
 country_name: Poland

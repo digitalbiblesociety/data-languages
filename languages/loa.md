@@ -2,6 +2,7 @@
 iso: loa
 name: Loloda
 autonym: Loda
+alt_names: [North Loloda]
 population: 15000
 country_id: ID
 country_name: Indonesia

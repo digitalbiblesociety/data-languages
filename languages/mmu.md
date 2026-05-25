@@ -2,6 +2,7 @@
 iso: mmu
 name: Mmaala
 autonym: Benyi
+alt_names: [Mmala, Nuasue]
 population: 5300
 country_id: CM
 country_name: Cameroon

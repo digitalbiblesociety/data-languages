@@ -2,6 +2,7 @@
 iso: fui
 name: Bagirmi Fulfulde
 autonym: " Peul"
+alt_names: [Baghirmi Peul, Bagirmi Fula, Fulah-Idiome, Fulani, "Fulfulde, Bagirmi"]
 population: 180000
 country_id: TD
 country_name: Chad

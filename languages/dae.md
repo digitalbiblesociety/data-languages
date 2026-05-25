@@ -2,6 +2,7 @@
 iso: dae
 name: Duupa
 autonym: Duru
+alt_names: [Doupa, Dupa, Nduupa, Saa]
 population: 5000
 country_id: CM
 country_name: Cameroon

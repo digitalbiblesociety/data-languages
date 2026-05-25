@@ -2,6 +2,7 @@
 iso: btf
 name: Birgit
 autonym: Bergit
+alt_names: [Berguid, Birgid]
 population: 10400
 country_id: TD
 country_name: Chad

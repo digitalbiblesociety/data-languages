@@ -2,6 +2,7 @@
 iso: cbd
 name: Carijona
 autonym: Hianacoto
+alt_names: [Carifuna, Carihona, Guaque, Hianacoto-Umaua, Hianakoto, Hianácoto, Hianákoto, Huaque, Jianacoto, Jianácoto, Kaliohona, Karihona, Karijona, Koto, Omagua, Umaua, Umawa]
 population: 310
 country_id: CO
 country_name: Colombia

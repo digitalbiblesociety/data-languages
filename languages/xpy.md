@@ -1,6 +1,7 @@
 ---
 iso: xpy
 name: Puyo
+name_zh: 扶余语
 autonym: Puyŏ
 population: null
 country_id: KR

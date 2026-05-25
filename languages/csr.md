@@ -1,6 +1,7 @@
 ---
 iso: csr
 name: Costa Rican Sign Language
+name_zh: 哥斯达黎加手语
 autonym: Lengua de Señas Costarricense (LESCO)
 population: 15000
 country_id: CR

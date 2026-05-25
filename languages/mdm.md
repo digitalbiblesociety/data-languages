@@ -2,6 +2,7 @@
 iso: mdm
 name: Mayogo
 autonym: Kiyogo
+alt_names: [Maigo, Maiko, Majugu, Mayko, Mayugo]
 population: 100000
 country_id: CD
 country_name: DR Congo

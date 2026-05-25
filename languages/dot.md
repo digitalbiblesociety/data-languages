@@ -2,6 +2,7 @@
 iso: dot
 name: Dass
 autonym: Barawa
+alt_names: [Bandas, Barawa of Dass, Boodli, Dekshi, Dot, Durr-Baraza, Dwat, Lukshi, Wandi, Wangday, Zodi, Zumbul]
 population: 1130
 country_id: NG
 country_name: Nigeria

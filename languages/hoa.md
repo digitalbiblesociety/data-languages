@@ -2,6 +2,7 @@
 iso: hoa
 name: Hoava
 autonym: null
+alt_names: [Hoava-Kusaghe]
 population: 460
 country_id: SB
 country_name: Solomon Islands

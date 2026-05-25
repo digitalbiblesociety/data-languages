@@ -1,7 +1,9 @@
 ---
 iso: bsh
 name: Kati
+name_zh: 卡蒂语
 autonym: Kati
+alt_names: [Bashgali, Bašgalī, Kata-vari, Kati (in Afghanistan), Kati jezik, Kativiri, Katí, Nuristani]
 population: 15000
 country_id: AF
 country_name: Afghanistan

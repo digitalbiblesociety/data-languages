@@ -1,7 +1,9 @@
 ---
 iso: zgh
 name: Standard Moroccan Tamazight
+name_zh: 标准摩洛哥柏柏尔语
 autonym: Moroccan Tamazight
+alt_names: ["Tamazight, Standard Moroccan"]
 population: 2700000
 country_id: MA
 country_name: Morocco

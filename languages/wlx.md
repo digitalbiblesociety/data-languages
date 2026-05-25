@@ -2,6 +2,7 @@
 iso: wlx
 name: Wali (Ghana)
 autonym: Ala
+alt_names: [Ouala, Waali, Wala, Wali]
 population: 70000
 country_id: GH
 country_name: Ghana

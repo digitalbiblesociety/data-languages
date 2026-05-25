@@ -1,7 +1,9 @@
 ---
 iso: hms
 name: Southern Qiandong Miao
+name_zh: 南部土语
 autonym: Qiandong Miao
+alt_names: [Black Miao, Central Miao, Heh Miao, Hei, "Hmong, Southern Qiandong", Hmu, Miao, "Miao, Southern Qiandong", Southern East-Guizhou Miao]
 population: 8950000
 country_id: CN
 country_name: China

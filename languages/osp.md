@@ -1,7 +1,9 @@
 ---
 iso: osp
 name: Old Spanish
+name_zh: 中古西班牙語
 autonym: "roman, romançe, romaz"
+alt_names: [Old Castillian, "Spanish, Old"]
 population: null
 country_id: ES
 country_name: Spain

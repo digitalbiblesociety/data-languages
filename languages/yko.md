@@ -2,6 +2,7 @@
 iso: yko
 name: Yasa
 autonym: Bongwe
+alt_names: ["\"Ndowe\"", Iyaasa, Iyasa, Iyassa, Lyaasa, Lyassa, Maasa, Yassa]
 population: 1490
 country_id: CM
 country_name: Cameroon

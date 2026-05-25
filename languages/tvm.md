@@ -2,6 +2,7 @@
 iso: tvm
 name: "Tela-Masbuar"
 autonym: "Tela-Masbuar"
+alt_names: [Masbuar-Tela, "Tela'a"]
 population: 1050
 country_id: ID
 country_name: Indonesia

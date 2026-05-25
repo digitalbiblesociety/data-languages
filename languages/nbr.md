@@ -2,6 +2,7 @@
 iso: nbr
 name: Numana
 autonym: Gwantu
+alt_names: [Numana-Nunku-Gbantu-Numbu, Sanga]
 population: 50000
 country_id: NG
 country_name: Nigeria

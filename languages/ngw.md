@@ -2,6 +2,7 @@
 iso: ngw
 name: Ngwaba
 autonym: Goba
+alt_names: [Enguaba, Gombi]
 population: 10000
 country_id: NG
 country_name: Nigeria

@@ -1,7 +1,9 @@
 ---
 iso: cos
 name: Corsican
+name_zh: 科西嘉语
 autonym: corsu
+alt_names: [Bahasa Corsica, Bahasa Korsika, Cors, Corse, Corseg, Corsi, Corsica-gí, Corsicaans, Corsicagiella, Corso, Còrs, Idioma corso, Język korsykański, Khô-sî-kâ-ngî, Korseg, Korsika keel, Korsika lingvo, Korsikaans, Korsikaca, Korsikan kieli, Korsikan tili, Korsikansk, Korsikanska, Korsikera, Korsikiečių kalba, Korsikāņu valoda, Korsische Spraak, Korsische Sprache, Korsičtina, Korsîkî, Korzikai nyelv, Korzički jezik, Lengua corsa, Limba corsicana, Limba corsicană, Lingua corsa, Língua corsa, Łéngua corsa, Κορσικανική γλώσσα, Корзикански јазик, Корсика тили, Корсикан чĕлхи, Корсиканский язык, زبان کرسی, كورسىكا تىلى, لغة كورسية, コルシカ語, 科西嘉语, 코르시카어]
 population: 151000
 country_id: FR
 country_name: France

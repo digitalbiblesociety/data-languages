@@ -2,6 +2,7 @@
 iso: vae
 name: Vale
 autonym: null
+alt_names: [Central African Republic]
 population: 5400
 country_id: CF
 country_name: Central African Republic

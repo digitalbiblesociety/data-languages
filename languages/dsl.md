@@ -1,6 +1,7 @@
 ---
 iso: dsl
 name: Danish Sign Language
+name_zh: 丹麦手语
 autonym: Dansk tegnsprog
 population: 5000
 country_id: DK

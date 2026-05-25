@@ -1,7 +1,9 @@
 ---
 iso: pmr
 name: Paynamar
+name_zh: 马纳特语
 autonym: Paynamar
+alt_names: [Manat]
 population: 150
 country_id: PG
 country_name: Papua New Guinea

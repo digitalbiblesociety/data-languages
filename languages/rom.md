@@ -1,6 +1,7 @@
 ---
 iso: rom
 name: Romany
+name_zh: 罗姆语
 autonym: Romani chib
 population: 46000000
 country_id: ZZ

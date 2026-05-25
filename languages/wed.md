@@ -2,6 +2,7 @@
 iso: wed
 name: Wedau
 autonym: Wedau (Topura)
+alt_names: [Wedaun, Wedawan]
 population: 2700
 country_id: PG
 country_name: Papua New Guinea

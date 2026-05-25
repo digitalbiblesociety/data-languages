@@ -2,6 +2,7 @@
 iso: cbi
 name: Chachi
 autonym: Chaʼpalaa
+alt_names: [Cayapa, "Cha' Palaachi", "Cha'palaa", "Cha'palaachi", Chapalaa, Cha’palaachi, Kayapa, Nigua]
 population: 5870
 country_id: EC
 country_name: Ecuador

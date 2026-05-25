@@ -2,6 +2,7 @@
 iso: noi
 name: Noiri
 autonym: null
+alt_names: [Bhilori, Mathwadi]
 population: 100000
 country_id: IN
 country_name: India

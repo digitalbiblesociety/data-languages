@@ -2,6 +2,7 @@
 iso: alf
 name: Alege
 autonym: Alegi
+alt_names: [Ugbe, Uge]
 population: 1200
 country_id: NG
 country_name: Nigeria

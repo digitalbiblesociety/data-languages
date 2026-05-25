@@ -2,6 +2,7 @@
 iso: kwt
 name: Kwesten
 autonym: bahasa Kwesten
+alt_names: [Kwalhioqua, Kwalhioqua-Clatskanie]
 population: 2000
 country_id: ID
 country_name: Indonesia

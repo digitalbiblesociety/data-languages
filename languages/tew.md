@@ -1,7 +1,9 @@
 ---
 iso: tew
 name: Tewa (USA)
+name_zh: 特瓦语
 autonym: Tewa
+alt_names: [Arizona Tewa, Hano, Hopi Tewa, Hopi-Tewa, Rio Grande Tewa, Tano, Tano (First Mesa), Tehua (Nuevo México), Tewa (Arizona), Tewa (Nouveau-Mexique), Tewa (Rio Grande), Tewa (San Juan Pueblo), Tewa (Tanoan)]
 population: 1300
 country_id: US
 country_name: United States

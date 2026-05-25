@@ -1,7 +1,9 @@
 ---
 iso: xpu
 name: Punic
+name_zh: 布匿語
 autonym: 𐤃𐤁𐤓𐤉𐤌 𐤐𐤍𐤉𐤌
+alt_names: [Civilisation carthaginoise, Język punicki, Lingua Punica, Língua púnica, Punerne, Punisch, Puunin kieli, Пунски јазик, ภาษาปูนิก]
 population: null
 country_id: TN
 country_name: Tunisia

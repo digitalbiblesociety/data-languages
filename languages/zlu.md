@@ -2,6 +2,7 @@
 iso: zlu
 name: Zul
 autonym: Barawa
+alt_names: [Barma, Bi Zule, Mbarmi, Zulawa, Zull, Zùl]
 population: 4000
 country_id: NG
 country_name: Nigeria

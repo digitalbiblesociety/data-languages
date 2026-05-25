@@ -1,7 +1,9 @@
 ---
 iso: heg
 name: Helong
+name_zh: 赫龙语
 autonym: bahasa Helong
+alt_names: [Helon, Kupang, Kupong, Semau]
 population: 14000
 country_id: ID
 country_name: Indonesia

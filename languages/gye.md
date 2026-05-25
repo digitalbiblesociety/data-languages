@@ -2,6 +2,7 @@
 iso: gye
 name: Gyem
 autonym: Gema
+alt_names: [Gemawa, Gyam, Gyemawa]
 population: 1000
 country_id: NG
 country_name: Nigeria

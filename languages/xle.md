@@ -1,6 +1,7 @@
 ---
 iso: xle
 name: Lemnian
+name_zh: 利姆尼亚语
 autonym: null
 population: null
 country_id: GR

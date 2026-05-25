@@ -2,6 +2,7 @@
 iso: pbe
 name: Mezontla Popoloca
 autonym: Los Reyes Metzontla Popoloca
+alt_names: [Chocho-Popoloka, Los Reyes Metzontla, Popoloc, Popoloca, Popoloca (Metzontla), Popoloca (Mezontla), Popoloca De Metzontla, "Popoloca, Mezontla", Popoloka, Southern Popoloca]
 population: 2000
 country_id: MX
 country_name: Mexico

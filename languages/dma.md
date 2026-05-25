@@ -2,6 +2,7 @@
 iso: dma
 name: Duma
 autonym: Adouma
+alt_names: [Aduma, Badouma, Douma, Liduma]
 population: 9840
 country_id: GA
 country_name: Gabon

@@ -2,6 +2,7 @@
 iso: cnb
 name: Chinbon Chin
 autonym: Chindwin Chin
+alt_names: ["Chin, Chinbon", "Chin,Chinbon", Chinbon, Sho, Shö, Ütbü]
 population: 19600
 country_id: MM
 country_name: Myanmar

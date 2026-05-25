@@ -2,6 +2,7 @@
 iso: zim
 name: Mesme
 autonym: Zime
+alt_names: [Djime, Djiwe]
 population: 20100
 country_id: TD
 country_name: Chad

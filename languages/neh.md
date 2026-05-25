@@ -2,6 +2,7 @@
 iso: neh
 name: Nyenkha
 autonym: Henkha
+alt_names: [Lap, Mangsdekha, Ngenkha, Nyg Ked, Nyn Kha]
 population: 10000
 country_id: BT
 country_name: Bhutan

@@ -2,6 +2,7 @@
 iso: tmg
 name: Ternateño
 autonym: Ternateño
+alt_names: [Portugis language, Ternateno, Ternatenyo]
 population: null
 country_id: ID
 country_name: Indonesia

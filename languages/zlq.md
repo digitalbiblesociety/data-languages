@@ -2,6 +2,7 @@
 iso: zlq
 name: Liuqian Zhuang
 autonym: Vahcuengh (za)
+alt_names: [Chuang, Zhuang, Zhuang (Northern), "Zhuang, Liuqian"]
 population: 370000
 country_id: CN
 country_name: China

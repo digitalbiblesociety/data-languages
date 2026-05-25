@@ -1,7 +1,9 @@
 ---
 iso: nus
 name: Nuer
+name_zh: 努尔语
 autonym: Thok Naath
+alt_names: [Język nuer, Lengua Nuer, Língua nuer, Naadh, Naath, Naath (Nuer), Nouereg, West-Nuer, Нуэр]
 population: 1705160
 country_id: SS
 country_name: South Sudan

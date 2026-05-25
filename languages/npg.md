@@ -2,6 +2,7 @@
 iso: npg
 name: "Ponyo-Gongwang Naga"
 autonym: "Ponyo-Gongwang"
+alt_names: ["Naga, Ponyo-Gongwang"]
 population: 4500
 country_id: MM
 country_name: Myanmar

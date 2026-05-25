@@ -1,7 +1,9 @@
 ---
 iso: txg
 name: Tangut
+name_zh: 西夏语
 autonym: 𗼇𗟲
+alt_names: [Hsi-hsia, Idioma tangut, Język tangucki, Tangoute, Tanguhti, Xixia, ภาษาตันกัต, 西夏文, 서하 문자]
 population: null
 country_id: CN
 country_name: China

@@ -2,6 +2,7 @@
 iso: ire
 name: Iresim
 autonym: Iresim
+alt_names: [Beduba, Iroquois, Yeresiam, Yerisiam]
 population: 70
 country_id: ID
 country_name: Indonesia

@@ -1,7 +1,9 @@
 ---
 iso: ych
 name: Chesu
+name_zh: 車蘇語
 autonym: null
+alt_names: [車蘇]
 population: 3300
 country_id: CN
 country_name: China

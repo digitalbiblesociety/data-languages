@@ -2,6 +2,7 @@
 iso: jod
 name: Wojenaka
 autonym: Malinke
+alt_names: [Malinké, Odiennekakan, Odienné Jula]
 population: 147000
 country_id: CI
 country_name: "Côte d'Ivoire"

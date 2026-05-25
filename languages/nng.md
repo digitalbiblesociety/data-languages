@@ -2,6 +2,7 @@
 iso: nng
 name: Maring Naga
 autonym: Maring
+alt_names: [Naga, Naga maring, "Naga, Maring", "Naga,Maring"]
 population: 25800
 country_id: IN
 country_name: India

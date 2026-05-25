@@ -2,6 +2,7 @@
 iso: vau
 name: Vanuma
 autonym: South Nyali
+alt_names: [Bambutuku, Bvanuma, Livanuma]
 population: 6700
 country_id: CD
 country_name: DR Congo

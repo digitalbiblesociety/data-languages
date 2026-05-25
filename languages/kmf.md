@@ -2,6 +2,7 @@
 iso: kmf
 name: Kare (Papua New Guinea)
 autonym: null
+alt_names: [Kare]
 population: 380
 country_id: PG
 country_name: Papua New Guinea

@@ -2,6 +2,7 @@
 iso: bph
 name: Botlikh
 autonym: Буйхалъи мицIцIи/Bujxałi mic’c’i
+alt_names: ["Botlic'heg", Botlihin kieli, Botlij, Botlix, Bujxałi mic’c’i, Język botlichyjski, Ботліська мова, ботлихский язык, буйхaдалъи мицIцIи, буйхалъи мицIцIи, ბოთლიხური ენა]
 population: 5500
 country_id: RU
 country_name: Russia

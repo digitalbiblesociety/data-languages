@@ -2,6 +2,7 @@
 iso: moj
 name: Monzombo
 autonym: Mondjembo
+alt_names: [Monjombo, Mono-Jembo, Munzombo]
 population: 12600
 country_id: CG
 country_name: Congo

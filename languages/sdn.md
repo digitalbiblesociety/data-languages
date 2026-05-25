@@ -1,7 +1,9 @@
 ---
 iso: sdn
 name: Gallurese Sardinian
+name_zh: 加盧拉方言
 autonym: gadduresu
+alt_names: [Gallurese, Gallurien, Northeastern Sardinian, Sardinian, "Sardinian, Gallurese", Sardo galurés]
 population: 100000
 country_id: IT
 country_name: Italy

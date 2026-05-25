@@ -2,6 +2,7 @@
 iso: mft
 name: Mokerang
 autonym: Mokareng
+alt_names: [Admiralitäts-inseln, Mokoreng]
 population: 200
 country_id: PG
 country_name: Papua New Guinea

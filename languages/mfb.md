@@ -1,7 +1,9 @@
 ---
 iso: mfb
 name: Bangka
+name_zh: 邦加馬來語
 autonym: Bahasa Bangka
+alt_names: [Belom, Lom, Mapor, Maporese]
 population: 340000
 country_id: ID
 country_name: Indonesia

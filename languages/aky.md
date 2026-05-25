@@ -2,6 +2,7 @@
 iso: aky
 name: "Aka-Kol"
 autonym: "Aka-Kol"
+alt_names: [Great Andamanese, Kol, Lèngua Aka-Kol]
 population: null
 country_id: IN
 country_name: India

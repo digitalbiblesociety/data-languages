@@ -1,7 +1,9 @@
 ---
 iso: mky
 name: East Makian
+name_zh: 塔巴语
 autonym: Makian Dalam
+alt_names: [E Makian, E. Makian, Makian (East), Makian Timur, "Makian, East", Taba, Taba language, Waikyon dialect]
 population: 18000
 country_id: ID
 country_name: Indonesia

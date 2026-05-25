@@ -2,6 +2,7 @@
 iso: wgu
 name: Wirangu
 autonym: Jilbara
+alt_names: [Hilleri, Hillery, Illarie, Julbari Wonnga, Kartawongulta, Naljara, Ngadha Wangga, Ngadhu wangga, Ngoleiadjara, Nhangga, Nhawu, Njangga, Nonga, Nyangga, Tidni, Tidni and Hilleri, Tidnie, Titnie, Ulbarara, Wambira, Wanbiri, Wanggan, Wangon, Warna-biri, Warrangoo, Weerung, Willeuroo, Willuro, Wilyaru, Windakan, Wirangga, Wirongu, Wironguwongga, Wirrongu, Wirrung, Wirrunga, Yilrea, Youlbara, Yulbara, Yulbara wonga]
 population: null
 country_id: AU
 country_name: Australia

@@ -2,6 +2,7 @@
 iso: mnn
 name: Southern Mnong
 autonym: Bunong (ឞូន៝ង)
+alt_names: ["Mnong, Southern", Penong]
 population: 30000
 country_id: VN
 country_name: Vietnam

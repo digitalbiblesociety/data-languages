@@ -2,6 +2,7 @@
 iso: yec
 name: Yeniche
 autonym: German Travellers
+alt_names: [European Romany, Jenisch, Yenishe]
 population: 16000
 country_id: DE
 country_name: Germany

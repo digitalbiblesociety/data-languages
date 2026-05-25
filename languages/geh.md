@@ -1,7 +1,9 @@
 ---
 iso: geh
 name: Hutterite German
+name_zh: 哈特瑞德語
 autonym: Hutterisch
+alt_names: [Alamaneg an Huterited, "German, Hutterite", Huterita dialekto, Hutterian German, Hutterische Sprache, Hutteritski jezik, Huttrisch, Tirolean, Tyrolese]
 population: 40000
 country_id: CA
 country_name: Canada

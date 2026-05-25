@@ -2,6 +2,7 @@
 iso: sbs
 name: Subiya
 autonym: Subiya
+alt_names: [Chikuahane, Chikuhane, Chikwahane, Ciikuhane, Cisubiya, Echisubia, Kuahane, Kuhane, Kwahane, Mbalangwe, Sesubea, Sesubiya, Subia, Supia, Tjikuhane]
 population: 39570
 country_id: NA
 country_name: Namibia

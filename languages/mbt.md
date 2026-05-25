@@ -2,6 +2,7 @@
 iso: mbt
 name: Matigsalug Manobo
 autonym: "Matig-Salug Manobo"
+alt_names: [Kulamanen, "Manobo, Matigsalug"]
 population: 50000
 country_id: PH
 country_name: Philippines

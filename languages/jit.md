@@ -2,6 +2,7 @@
 iso: jit
 name: Jita
 autonym: Ecijita
+alt_names: [Echijita]
 population: 365000
 country_id: TZ
 country_name: Tanzania

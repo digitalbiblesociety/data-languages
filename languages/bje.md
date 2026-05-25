@@ -1,7 +1,9 @@
 ---
 iso: bje
 name: "Biao-Jiao Mien"
+name_zh: 标敏方言
 autonym: "Biao-Jiao Mien"
+alt_names: [Biao Chao, Byau Min, Man, Mien, "Mien, Biao-Jiao", Pai-min, Yao]
 population: 43000
 country_id: CN
 country_name: China

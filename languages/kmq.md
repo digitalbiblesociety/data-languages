@@ -2,6 +2,7 @@
 iso: kmq
 name: Kwama
 autonym: Afan Mao
+alt_names: [Amam, Gogwama, Goma, Gwama, Koma of Asosa, Mao, Nokanoka, North Koma, Qewama, "T'wa Kwama", Takwama]
 population: 15000
 country_id: ET
 country_name: Ethiopia

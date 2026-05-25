@@ -1,7 +1,9 @@
 ---
 iso: ssh
 name: Shihhi Arabic
+name_zh: 希赫阿拉伯語
 autonym: "Al-Shihuh"
+alt_names: [Arabic, "Arabic, Shihhi", "Arabic, Shihhi Spoken", Shihhi, Shihhi arapski, Shihu, Shihuh, Árabe chíji, Шихи арапски јазик]
 population: 36900
 country_id: AE
 country_name: United Arab Emirates

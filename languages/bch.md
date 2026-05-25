@@ -2,6 +2,7 @@
 iso: bch
 name: Bariai
 autonym: Kabana
+alt_names: ["\"Kabana\"", Barriai]
 population: 1400
 country_id: PG
 country_name: Papua New Guinea

@@ -2,6 +2,7 @@
 iso: yhl
 name: Hlepho Phowa
 autonym: Puwa
+alt_names: [Abo, Boren, Bozi, Conehead Phula, Cowtail Phula, Daizhanpho, Digaopho, Flowery Phula, Hua Phula, Jiantou Phula, Minjia, Niuweiba Phula, Paola, Pho, "Phowa, Hlepho", "Phowa,Hlepho", Phula, Sandaohong Phula, Shaoji Phula, Sifter Basket Phula, Thrice Striped Red Phula, Xiuba]
 population: 36000
 country_id: CN
 country_name: China

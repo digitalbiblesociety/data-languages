@@ -1,6 +1,7 @@
 ---
 iso: fat
 name: Fanti
+name_zh: 芳蒂语
 autonym: Fante
 population: 2800000
 country_id: GH

@@ -2,6 +2,7 @@
 iso: bon
 name: Bine
 autonym: Masingara
+alt_names: [Kunini, Oriomo, Pine]
 population: 2050
 country_id: PG
 country_name: Papua New Guinea

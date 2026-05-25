@@ -2,6 +2,7 @@
 iso: cir
 name: Tiri
 autonym: Méa
+alt_names: [Ciri, Ha-Tiri, Haméa, Neukaledonien, Tinrin, Tiri (Grand Couli), Tîrî]
 population: 260
 country_id: NC
 country_name: New Caledonia

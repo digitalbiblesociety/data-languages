@@ -1,7 +1,9 @@
 ---
 iso: eng
 name: English
+name_zh: 英语
 autonym: English
+alt_names: [Anglais moderne, Englisch, English (Standard Southern British), Inglese moderno, Inglês moderno, Modern English, Moderna angla lingvo, Moderne engelsk, Modernes Englisch, Nyengelska, anglais, თანამედროვე ინგლისური პერიოდი, 現代英語, 近代英語]
 population: 379000000
 country_id: GB
 country_name: United Kingdom

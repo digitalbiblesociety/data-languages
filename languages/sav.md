@@ -2,6 +2,7 @@
 iso: sav
 name: "Saafi-Saafi"
 autonym: "Saafi-Saafi"
+alt_names: [Saafi, Safen, Safi, Safi-Safi, Sereer Saafen, Serer-Safen, Serere-Saafen]
 population: 200000
 country_id: SN
 country_name: Senegal

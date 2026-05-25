@@ -2,6 +2,7 @@
 iso: dde
 name: Doondo
 autonym: Kibeembe
+alt_names: [Dondo, Kidoondo]
 population: 30000
 country_id: CG
 country_name: Congo

@@ -1,7 +1,9 @@
 ---
 iso: onb
 name: Lingao
+name_zh: 臨高語
 autonym: Lingao
+alt_names: [(Ong-)Be, Be, Limkow, Linkow, Ong-Be, Ong-Be language, Ongbe, Tiếng Ông Bối, Vo Limkou, 臨高語]
 population: 600000
 country_id: CN
 country_name: China

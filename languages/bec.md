@@ -2,6 +2,7 @@
 iso: bec
 name: "Iceve-Maci"
 autonym: Oliti
+alt_names: [Bacheve, Bechere, Becheve, Icheve, Ocebe, Oceve, Ochebe, Ocheve, Utse, Utser, Utseu]
 population: 12000
 country_id: CM
 country_name: Cameroon

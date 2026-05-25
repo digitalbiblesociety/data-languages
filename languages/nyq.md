@@ -2,6 +2,7 @@
 iso: nyq
 name: Nayini
 autonym: Biyabanak
+alt_names: [Nayiní]
 population: 7030
 country_id: IR
 country_name: Iran

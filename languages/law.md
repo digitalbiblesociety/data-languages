@@ -2,6 +2,7 @@
 iso: law
 name: Lauje
 autonym: Laudje
+alt_names: [Ampibabo-Lauje, Tinombo]
 population: 49800
 country_id: ID
 country_name: Indonesia

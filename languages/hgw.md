@@ -2,6 +2,7 @@
 iso: hgw
 name: Haigwai
 autonym: Garaghwaghi
+alt_names: [Kapulika, Naura]
 population: 1060
 country_id: PG
 country_name: Papua New Guinea

@@ -2,6 +2,7 @@
 iso: puw
 name: Puluwatese
 autonym: Puluwat
+alt_names: [Carolinian]
 population: 1360
 country_id: FM
 country_name: Micronesia

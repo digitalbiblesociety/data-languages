@@ -2,6 +2,7 @@
 iso: isn
 name: Isanzu
 autonym: Kinyihanzu
+alt_names: [Kinyisanzu]
 population: 26000
 country_id: TZ
 country_name: Tanzania

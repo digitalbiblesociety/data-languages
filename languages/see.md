@@ -1,7 +1,9 @@
 ---
 iso: see
 name: Seneca
+name_zh: 塞内卡语
 autonym: Onödowáʼga꞉ʼ
+alt_names: [Seneca (Canada), Seneca (Estados Unidos), "Seneca (États-Unis d'Amérique)", Taroko, Tsonnontouan, Сенека, 세네카어]
 population: 6240
 country_id: US
 country_name: United States

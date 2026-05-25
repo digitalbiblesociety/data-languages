@@ -2,6 +2,7 @@
 iso: sgm
 name: Singa
 autonym: Chula
+alt_names: [Lusinga]
 population: null
 country_id: KE
 country_name: Kenya

@@ -2,6 +2,7 @@
 iso: tmz
 name: Tamanaku
 autonym: Tamañkú
+alt_names: [Tamanaco]
 population: null
 country_id: VE
 country_name: Venezuela

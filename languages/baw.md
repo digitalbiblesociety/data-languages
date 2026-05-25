@@ -2,6 +2,7 @@
 iso: baw
 name: "Bambili-Bambui"
 autonym: Bambili
+alt_names: [Bambui, Mbele, Mbili, Mbogoe]
 population: 10000
 country_id: CM
 country_name: Cameroon

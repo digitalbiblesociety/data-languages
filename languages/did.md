@@ -2,6 +2,7 @@
 iso: did
 name: Didinga
 autonym: Lango
+alt_names: ["'Di'dinga", Toi, Xaroxa]
 population: 100000
 country_id: SS
 country_name: South Sudan

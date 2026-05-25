@@ -2,6 +2,7 @@
 iso: zoo
 name: Asunción Mixtepec Zapotec
 autonym: North Central Zimatlan Zapotec
+alt_names: [Asuncion Mixtepec Zapotec, Central Sapoteko, Central Zapotec, Northern Sapoteko, Zapotec, "Zapotec, Asunción Mixtepec", Zapoteco de Asunción Mixtepec, Zapoteco de San Felipe Tejalápam, Zapotèque de San Felipe Tejalapan]
 population: 100
 country_id: MX
 country_name: Mexico

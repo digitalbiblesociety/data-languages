@@ -1,7 +1,9 @@
 ---
 iso: rki
 name: Rakhine
+name_zh: 若开语
 autonym: Rakhine
+alt_names: [Arakanese, Arakanese (Marma), Maghī, Mogh, Rakhain, Rakhaing, Rakkhaine, Yakhain]
 population: 1000000
 country_id: MM
 country_name: Myanmar

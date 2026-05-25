@@ -2,6 +2,7 @@
 iso: wod
 name: Wolani
 autonym: Woda
+alt_names: [Woda-Mo, Wodani]
 population: 5000
 country_id: ID
 country_name: Indonesia

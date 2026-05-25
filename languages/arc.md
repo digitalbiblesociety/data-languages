@@ -1,7 +1,9 @@
 ---
 iso: arc
 name: Aramaic
+name_zh: 帝国阿拉姆语
 autonym: ܐܪܡܝܐ
+alt_names: ["Aramaic, Imperial (700-300 BCE)", "Aramaic, Official (700-300 BCE)", Imperial Aramaic (700-300 BCE), Official Aramaic (700-300 BCE)]
 population: null
 country_id: SY
 country_name: Syria

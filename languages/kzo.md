@@ -2,6 +2,7 @@
 iso: kzo
 name: Kaningi
 autonym: Lekaningi
+alt_names: [Bakanike]
 population: 6000
 country_id: GA
 country_name: Gabon

@@ -1,7 +1,9 @@
 ---
 iso: myk
 name: Mamara Senoufo
+name_zh: 明揚卡語
 autonym: Mamara
+alt_names: [Mianka, Minianka, Miniyanka, Minya, Minyanka, "Senoufo, Mamara", Tupiire]
 population: 738000
 country_id: ML
 country_name: Mali

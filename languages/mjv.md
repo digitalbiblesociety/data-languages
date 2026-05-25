@@ -2,6 +2,7 @@
 iso: mjv
 name: Mannan
 autonym: Mannan Pasha
+alt_names: [Manne, Mannyod]
 population: 7850
 country_id: IN
 country_name: India

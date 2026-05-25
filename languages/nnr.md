@@ -2,6 +2,7 @@
 iso: nnr
 name: Narungga
 autonym: Nanunga
+alt_names: [Adjabdurah, Adjadura, Adjahdurah, Adjahdural, Moor in nunjie, Moor-in-nunjie, Murinandji, Nar anga, Nar-anga, Naranga, Narangga, Narangga language, Narangka, Narrang gu, Narrang u, Narrang-gu, Narrang-u, Narranga, Narrangga, Narranggu, Narrangu, Narrunga, Narunga, Narungga/Nharangga, Nharangga, Turra, Wallaroo tribe]
 population: null
 country_id: AU
 country_name: Australia

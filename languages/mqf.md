@@ -2,6 +2,7 @@
 iso: mqf
 name: Momuna
 autonym: Somahai
+alt_names: [Somage, Sumohai]
 population: 2000
 country_id: ID
 country_name: Indonesia

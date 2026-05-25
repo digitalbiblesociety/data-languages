@@ -2,6 +2,7 @@
 iso: nkf
 name: Inpui Naga
 autonym: Kabui
+alt_names: ["Naga, Inpui", Puiron]
 population: 54200
 country_id: IN
 country_name: India

@@ -1,7 +1,9 @@
 ---
 iso: asr
 name: Asuri
+name_zh: 阿苏尔语
 autonym: Ashree
+alt_names: [Assur, Asur, Asura, Maleta, Mundari, Mundari-Ho]
 population: 16600
 country_id: IN
 country_name: India

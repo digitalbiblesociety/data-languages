@@ -2,6 +2,7 @@
 iso: loy
 name: Loke
 autonym: "Ü-Tsang"
+alt_names: [Baragaon, Baragaunle, Gurung, Lo Ke, Lo Montang, Loba, Lopa, Lowa, Loyu, Mustangi]
 population: 2500
 country_id: NP
 country_name: Nepal

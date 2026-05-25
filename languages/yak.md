@@ -2,6 +2,7 @@
 iso: yak
 name: Yakama
 autonym: Ichishkíin
+alt_names: [Klickitat, Klikitat, Northwestern, Sahaptin, Sahaptin (Northern), Yakima]
 population: 3000
 country_id: US
 country_name: United States

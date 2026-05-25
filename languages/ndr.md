@@ -2,6 +2,7 @@
 iso: ndr
 name: Ndoola
 autonym: Ndoola
+alt_names: [Ndola, Ndooro, Ndoro, Njoyame, Nundoro]
 population: 62520
 country_id: NG
 country_name: Nigeria

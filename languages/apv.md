@@ -2,6 +2,7 @@
 iso: apv
 name: Northern Nambikwara
 autonym: Mamaindê
+alt_names: [Alapmunte]
 population: null
 country_id: BR
 country_name: Brazil

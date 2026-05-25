@@ -2,6 +2,7 @@
 iso: tvt
 name: Tutsa Naga
 autonym: Totcha
+alt_names: ["Naga, Tutsa", "Naga,Tutsa", Tutsa]
 population: 25000
 country_id: IN
 country_name: India

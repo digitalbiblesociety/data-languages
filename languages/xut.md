@@ -1,7 +1,9 @@
 ---
 iso: xut
 name: Kuthant
+name_zh: 库坦特语
 autonym: Kareldi
+alt_names: [Gar und yih, Gar-und-yih, Gkuthaarn, Gooran, Goothanto, Guandhar, Gudanda, Gudhand, Gudhanda, Ka rantee, Ka-rantee, Karaldi, Karrandee, Karrandi, Karun, Karundi, Karunti, Kotanda, Kurandi, Kutanda]
 population: null
 country_id: AU
 country_name: Australia

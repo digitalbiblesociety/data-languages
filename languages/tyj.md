@@ -2,6 +2,7 @@
 iso: tyj
 name: Tai Do
 autonym: Tay Muoi
+alt_names: [Tai Yo, Tay Quy Chau, Tay Yo, Tay-Jo]
 population: 300
 country_id: VN
 country_name: Vietnam

@@ -1,7 +1,9 @@
 ---
 iso: rad
 name: Rade
+name_zh: 埃地语
 autonym: klei Êđê
+alt_names: [De, E-De, Edeh, Raday, Radé, Rde, Rhade]
 population: 331000
 country_id: VN
 country_name: Vietnam

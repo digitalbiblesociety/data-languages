@@ -1,7 +1,9 @@
 ---
 iso: tnz
 name: "Ten'edn"
+name_zh: 湯加語 (南亞語系)
 autonym: Tonga
+alt_names: [Maniq, Mos, "Ten'en", Tonga (Thailand), "Tonga'"]
 population: 300
 country_id: TH
 country_name: Thailand

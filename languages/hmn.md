@@ -1,7 +1,9 @@
 ---
 iso: hmn
 name: Hmong
+name_zh: 苗语川黔滇次方言
 autonym: lus Hmoob / lug Moob / lol Hmongb / lus Hmôngz (Vietnam) / /
+alt_names: [Mong]
 population: 70000
 country_id: CN
 country_name: China

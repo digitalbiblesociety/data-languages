@@ -1,7 +1,9 @@
 ---
 iso: txo
 name: Toto
+name_zh: 投投語
 autonym: "𞊒𞊪𞊒𞊪, টোটো"
+alt_names: [Totoish, Tōtō]
 population: 20000
 country_id: IN
 country_name: India

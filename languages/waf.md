@@ -2,6 +2,7 @@
 iso: waf
 name: Wakoná
 autonym: Aconã
+alt_names: [Brazil, Wakona]
 population: null
 country_id: BR
 country_name: Brazil

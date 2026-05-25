@@ -2,6 +2,7 @@
 iso: zmx
 name: Bomitaba
 autonym: Bamitaba
+alt_names: [Mbomitaba, Mbomotaba]
 population: 9600
 country_id: CG
 country_name: Congo

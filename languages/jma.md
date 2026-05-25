@@ -2,6 +2,7 @@
 iso: jma
 name: Dima
 autonym: Jimajima
+alt_names: [Dimadima, Jimjam]
 population: 750
 country_id: PG
 country_name: Papua New Guinea

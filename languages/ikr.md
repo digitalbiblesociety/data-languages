@@ -2,6 +2,7 @@
 iso: ikr
 name: Ikaranggal
 autonym: Gogo Mini
+alt_names: [Aghu Tharnggalu, Ikarranggali]
 population: null
 country_id: AU
 country_name: Australia

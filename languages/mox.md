@@ -2,6 +2,7 @@
 iso: mox
 name: Molima
 autonym: Salakahadi
+alt_names: [Ebadidi, Fagululu, Morima]
 population: 4010
 country_id: PG
 country_name: Papua New Guinea

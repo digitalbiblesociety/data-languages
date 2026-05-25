@@ -2,6 +2,7 @@
 iso: zpk
 name: Tlacolulita Zapotec
 autonym: (Asunción Tlacolulita)
+alt_names: [Southeastern Yautepec Zapotec, "Zapotec, Tlacolulita", Zapoteco de Asunción Tlacolulita]
 population: 140
 country_id: MX
 country_name: Mexico

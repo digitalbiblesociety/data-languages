@@ -2,6 +2,7 @@
 iso: alx
 name: Amol
 autonym: Alatil
+alt_names: [Alang, Aru, Eru]
 population: 270
 country_id: PG
 country_name: Papua New Guinea

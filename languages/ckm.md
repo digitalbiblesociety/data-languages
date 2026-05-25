@@ -1,7 +1,9 @@
 ---
 iso: ckm
 name: "Chakavian\r"
+name_zh: 查方言
 autonym: čakavski
+alt_names: [Chakavian]
 population: 50000
 country_id: HR
 country_name: Croatia

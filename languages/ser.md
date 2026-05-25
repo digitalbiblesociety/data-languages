@@ -1,7 +1,9 @@
 ---
 iso: ser
 name: Serrano
+name_zh: 塞拉诺语
 autonym: "Maarrênga'twich"
+alt_names: [Kitanemuk, "Maara'yam püvüravk", Serran]
 population: null
 country_id: US
 country_name: United States

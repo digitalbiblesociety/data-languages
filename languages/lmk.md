@@ -2,6 +2,7 @@
 iso: lmk
 name: Lamkang
 autonym: Ksen
+alt_names: ["\"Hiroi-Lamgang\"", "\"Lamgang\"", Hiroi-Lamgang, Lamgang, Lamkaang, Lamkang Naga]
 population: 10000
 country_id: IN
 country_name: India

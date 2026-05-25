@@ -2,6 +2,7 @@
 iso: ley
 name: Lemolang
 autonym: Limola
+alt_names: [Baebunta, Lemolango]
 population: 2000
 country_id: ID
 country_name: Indonesia

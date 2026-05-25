@@ -1,6 +1,7 @@
 ---
 iso: tvi
 name: Tulai
+alt_names: [Nuclear Zeem, Tule]
 population: 400
 country_id: NG
 country_name: Nigeria

@@ -2,6 +2,7 @@
 iso: zmd
 name: Maridan
 autonym: Berringen
+alt_names: [Brinken, Maredan, Marri Ammu, Marridan, Marrisjefin, Marrisyefin, Marrithiyel, Matige, Meradan, Murindan, Nordanimin, Western Daly language.]
 population: null
 country_id: AU
 country_name: Australia

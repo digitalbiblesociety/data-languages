@@ -2,6 +2,7 @@
 iso: vum
 name: Vumbu
 autonym: Vumbu
+alt_names: [Vumba, Yivoumbou]
 population: 2460
 country_id: GA
 country_name: Gabon

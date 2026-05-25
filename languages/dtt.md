@@ -2,6 +2,7 @@
 iso: dtt
 name: Toro Tegu Dogon
 autonym: Tɔrɔ tegu
+alt_names: [Dogon, "Dogon, Toro Tegu", Tandam]
 population: 2900
 country_id: ML
 country_name: Mali

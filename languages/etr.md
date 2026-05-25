@@ -1,7 +1,9 @@
 ---
 iso: etr
 name: Edolo
+name_zh: 艾托羅語
 autonym: null
+alt_names: [Beami, Edolo Ado, Etolo, Etoro, Tomu, Toro]
 population: 1670
 country_id: PG
 country_name: Papua New Guinea

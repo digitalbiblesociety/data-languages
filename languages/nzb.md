@@ -2,6 +2,7 @@
 iso: nzb
 name: Njebi
 autonym: Yinjebi
+alt_names: [Bandzabi, Binzabi, Injebi, Ndjabi, Ndjevi, Njabi, Njevi, Nzebi, Yinzebi]
 population: 143000
 country_id: GA
 country_name: Gabon

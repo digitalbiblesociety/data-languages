@@ -2,6 +2,7 @@
 iso: nsq
 name: Northern Sierra Miwok
 autonym: Saclan
+alt_names: [Central Sierra Miwok, "Central Sierra Miwok: Tuolumne", Eastern Division, Me-Wuk, Meewoc, Mewoc, Miwoc, Miwok (Northern Sierra), Miwok de la Sierra du nord, "Miwok, Northern Sierra", Miwokano serrano septentrional, Mokélumne, Moquelumnan, N Sierra Miwok, "Northern Sierra Miwok: Seroushamne", San Raphael, Sawos, Seroushamne, Sierra Miwok, "Southern Sierra Miwok: Southern Sierra Miwok", Talatui, Talutui, Yosemite]
 population: null
 country_id: US
 country_name: United States

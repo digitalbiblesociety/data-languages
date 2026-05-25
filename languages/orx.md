@@ -1,6 +1,7 @@
 ---
 iso: orx
 name: Oro
+name_zh: 奥罗语
 autonym: Oron
 population: 75000
 country_id: NG

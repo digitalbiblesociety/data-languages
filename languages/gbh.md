@@ -2,6 +2,7 @@
 iso: gbh
 name: Defi Gbe
 autonym: fɔ̀ngbè/fõbè
+alt_names: [Benin, "Gbe, Defi"]
 population: 13500
 country_id: BJ
 country_name: Benin

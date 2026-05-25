@@ -1,7 +1,9 @@
 ---
 iso: cml
 name: Campalagian
+name_zh: 坎帕拉吉语
 autonym: Tallumpanuae
+alt_names: [Tasing, Tjampalagian]
 population: 2830
 country_id: ID
 country_name: Indonesia

@@ -2,6 +2,7 @@
 iso: kte
 name: Nubri
 autonym: Kutang Bhotia
+alt_names: [Larkye]
 population: 2000
 country_id: NP
 country_name: Nepal

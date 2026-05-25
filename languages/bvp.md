@@ -1,6 +1,7 @@
 ---
 iso: bvp
 name: Bumang
+name_zh: 布芒语
 autonym: Manzhang Dai
 population: 200
 country_id: CN

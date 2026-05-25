@@ -1,7 +1,9 @@
 ---
 iso: bci
 name: Baoulé
+name_zh: 巴乌莱语
 autonym: Baule
+alt_names: [Baoleg, Baoule, Baule-Ando, Bawule]
 population: 4645060
 country_id: CI
 country_name: "Côte d'Ivoire"

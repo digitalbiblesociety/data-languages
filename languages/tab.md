@@ -1,7 +1,9 @@
 ---
 iso: tab
 name: Tabassaran
+name_zh: 塔巴萨兰语
 autonym: табасаран чIал tabasaran ҫ̇al
+alt_names: [Ghumghum, Język tabasarański, Língua tabassarã, Tabasaraans, Tabasaran, Tabasaran dili, Tabasaran language, Tabasaranera, Tabasaranin kieli, Tabasarano, Tabasarantsy, Tabasareg, Tabassaranische Sprache, tabasaran č’al, Табасарайнаг æвзаг, Табасарански јазик, Табасаранська мова, табасаран чIал, табасаранский язык, Թաբասարաներեն, თაბასარანული ენა]
 population: 126980
 country_id: RU
 country_name: Russia

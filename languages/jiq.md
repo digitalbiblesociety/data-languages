@@ -1,7 +1,9 @@
 ---
 iso: jiq
 name: Guanyinqiao
+name_zh: 拉坞戎语
 autonym: Lavrung
+alt_names: [Khroskyabs, Western Jiarong, Zhongzhai, bósʁæi, ཁོ་སྐྱབས།, 绰斯甲]
 population: 50000
 country_id: CN
 country_name: China

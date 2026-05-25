@@ -2,6 +2,7 @@
 iso: koo
 name: Konzo
 autonym: Olhukonzo
+alt_names: [Konjo, Konjo people, Konzot, Lhukonzo, Olukonjo, Olukonzo, Rukonjo]
 population: 893000
 country_id: UG
 country_name: Uganda

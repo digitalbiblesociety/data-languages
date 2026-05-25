@@ -1,7 +1,9 @@
 ---
 iso: hiw
 name: Hiw
+name_zh: 希烏語
 autonym: Hiu
+alt_names: [Torres, Torres Island]
 population: 150
 country_id: VU
 country_name: Vanuatu

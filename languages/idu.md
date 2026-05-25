@@ -1,7 +1,9 @@
 ---
 iso: idu
 name: Idoma
+name_zh: 伊多马语
 autonym: Ìdɔ́mà
+alt_names: [Nigeria]
 population: 927000
 country_id: NG
 country_name: Nigeria

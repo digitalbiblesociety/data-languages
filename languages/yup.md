@@ -1,7 +1,9 @@
 ---
 iso: yup
 name: Yukpa
+name_zh: 尤克帕语
 autonym: Carib Motilón
+alt_names: [Coastal Carib, Japrería, Macoíta, Motilon, Motilone (Carib), Motilone (Northern), Motilón, Motilón (Northern), Northern Motilón, Yuco, Yucpa, Yucpa-Yaprería, Yuko, Yukpa-Japería, Yukpa-Japrería, Yupa]
 population: 1500
 country_id: CO
 country_name: Colombia

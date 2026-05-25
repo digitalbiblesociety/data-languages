@@ -1,7 +1,9 @@
 ---
 iso: mnj
 name: Munji
+name_zh: 門吉語
 autonym: مونجى
+alt_names: [Munjani, Munjhan, Munjiwar, Munyí]
 population: 3770
 country_id: AF
 country_name: Afghanistan

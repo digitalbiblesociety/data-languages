@@ -2,6 +2,7 @@
 iso: err
 name: Erre
 autonym: Mangerr
+alt_names: [Ari, Arra, Ere, Erei, Eri, Rereri]
 population: null
 country_id: AU
 country_name: Australia

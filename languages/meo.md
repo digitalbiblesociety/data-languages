@@ -1,7 +1,9 @@
 ---
 iso: meo
 name: Kedah Malay
+name_zh: 吉打马来语
 autonym: بهاس ملايو قد/ حภาษามลายูไทรบุรี
+alt_names: ["Malay, Kedah", Satun Malay]
 population: 2600000
 country_id: MY
 country_name: Malaysia

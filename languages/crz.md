@@ -2,6 +2,7 @@
 iso: crz
 name: Cruzeño
 autonym: Isleño
+alt_names: [Chumash, Chumasha Proper, Chumasho, Cruzeno, Island Chumash, Island Chumashan, Santa Rosa, Ysleño]
 population: null
 country_id: US
 country_name: United States

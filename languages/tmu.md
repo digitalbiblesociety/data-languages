@@ -2,6 +2,7 @@
 iso: tmu
 name: Iau
 autonym: Edopi
+alt_names: [Foi, Iaw, Turu, Urundi, Ururi, Yau]
 population: 1500
 country_id: ID
 country_name: Indonesia

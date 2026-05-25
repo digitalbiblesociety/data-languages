@@ -2,6 +2,7 @@
 iso: soy
 name: Miyobe
 autonym: Soruba
+alt_names: [Bijobe, Biyobe, Kayobe, Kuyobe, Kyobe, Meyobe, Mi yɔbɛ, Sola, Solamba, Solla, Sorouba, Uyobe]
 population: 17160
 country_id: BJ
 country_name: Benin

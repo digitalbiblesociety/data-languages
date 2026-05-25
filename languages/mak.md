@@ -1,7 +1,9 @@
 ---
 iso: mak
 name: Makasar
+name_zh: 望加锡语
 autonym: Bahasa Makassar
+alt_names: [Goa, Macassar, Macassarese, Makassa, Makassaarsche, Makassar, Makassar-Bugis, Makassar-Sprache, Makassarese, Makassarese language, Makassarin kieli, Makassarisch, Makassariska, Mangasara, Mengkasara, Taena, Tena, ภาษามากัสซาร์]
 population: 1710000
 country_id: ID
 country_name: Indonesia

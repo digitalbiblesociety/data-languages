@@ -2,6 +2,7 @@
 iso: mfi
 name: Wandala
 autonym: Mandara
+alt_names: [Gamergu, Malgwa, Mandara Montagnard, Ndara]
 population: 43500
 country_id: CM
 country_name: Cameroon

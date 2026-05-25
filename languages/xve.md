@@ -1,7 +1,9 @@
 ---
 iso: xve
 name: Venetic
+name_zh: 威尼托语
 autonym: null
+alt_names: [Bahasa Venetia, Feneteg, Idioma venetico, Idioma venético, Język wenetyjski, Lengoa venètica, Lingua Venetica, Praveneta lingvo, Venetisch, Venetische Sprache, Venetisk, Venetiska, Venetčina, Venetščina, Vénète, Βενετική γλώσσα, Венетски јазик, Венетский язык, ונטית, ウェネティ語, 威尼托语]
 population: null
 country_id: IT
 country_name: Italy

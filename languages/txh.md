@@ -1,6 +1,7 @@
 ---
 iso: txh
 name: Thracian
+name_zh: 色雷斯語
 autonym: null
 population: null
 country_id: BG

@@ -1,7 +1,9 @@
 ---
 iso: lmn
 name: Lambadi
+name_zh: 兰巴迪语
 autonym: "Gor-boli"
+alt_names: [Bangala, Banjara, Banjari, Banjori, Banjuri, Brinjari, Gohar-Herkeri, Goola, Gormati, Gurmarti, Kora, Labhani, Labhani Muka, Lamadi, Lamani, Lambani, Lambara, Lavani, Lemadi, Lumadale, Singali, Sugali, Sukali, Tanda, Vanjari, Wanji]
 population: 40000000
 country_id: IN
 country_name: India

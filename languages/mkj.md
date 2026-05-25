@@ -2,6 +2,7 @@
 iso: mkj
 name: Mokilese
 autonym: Mwoakilloa
+alt_names: [Mokil, Moquilés, Mwoakilese, Mwoakiloa]
 population: 1000
 country_id: FM
 country_name: Micronesia

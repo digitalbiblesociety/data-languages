@@ -2,6 +2,7 @@
 iso: yil
 name: Yindjilandji
 autonym: Ngarru
+alt_names: [Bularnu, Dhidhanu, Gulbilangu, Inchalachee, Inchalanche, Inchalanchee, Inchalanchi, Inchilachee, Indilandji, Indjiladji, Indjilandji, Indjilindji, Indjilinji, Indjillnji, Indjurandji, Indkilindji, Indkilindji), Injdjiladji, Injeelanjee, Injilinji, Intjilantji, Intjilatja, Intyilatya, Yinjilanji]
 population: null
 country_id: AU
 country_name: Australia

@@ -2,6 +2,7 @@
 iso: bdx
 name: "Budong-Budong"
 autonym: Tongkou
+alt_names: [Bubudong, Budón-budón, Tangkou, To Budo-Budo]
 population: 180
 country_id: ID
 country_name: Indonesia

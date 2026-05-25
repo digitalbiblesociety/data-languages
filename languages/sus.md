@@ -1,7 +1,9 @@
 ---
 iso: sus
 name: Susu
+name_zh: 苏苏语
 autonym: Sosoxi
+alt_names: [Bahasa Susu, Língua susu, Sose, Soso, Soussou, Susoo, Susse, Susu-Yalunka]
 population: 2409140
 country_id: GN
 country_name: Guinea

@@ -2,6 +2,7 @@
 iso: mge
 name: Mango
 autonym: Doba
+alt_names: [Matepi, Mbay Doba, Mongo]
 population: 96000
 country_id: TD
 country_name: Chad

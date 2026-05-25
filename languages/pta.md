@@ -2,6 +2,7 @@
 iso: pta
 name: Pai Tavytera
 autonym: Ava
+alt_names: [Chané, Chiriguano, Izoceño, Pai, Simba, Tapiete, Tavytera]
 population: 15000
 country_id: PY
 country_name: Paraguay

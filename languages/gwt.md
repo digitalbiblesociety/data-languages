@@ -1,7 +1,9 @@
 ---
 iso: gwt
 name: "Gawar-Bati"
+name_zh: 加瓦尔-巴蒂语
 autonym: Narsati
+alt_names: [Arandui, Dardu, Gavar-batí, Gawar-bātī, Gowar-Bati, Gowari, Narisati, Narisātī, Narsātī, Satre]
 population: 8000
 country_id: AF
 country_name: Afghanistan

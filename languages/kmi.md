@@ -2,6 +2,7 @@
 iso: kmi
 name: Kami (Nigeria)
 autonym: null
+alt_names: [Kami, Nigeria]
 population: 5000
 country_id: NG
 country_name: Nigeria

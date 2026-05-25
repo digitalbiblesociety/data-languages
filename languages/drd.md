@@ -2,6 +2,7 @@
 iso: drd
 name: Darmiya
 autonym: Darmiya
+alt_names: [Darimiya, Darma, Darma Lwo, Darmani, Darmiyā, Dārmūyā, Sauka, Saukas, Shauka, Shaukas]
 population: 1750
 country_id: IN
 country_name: India

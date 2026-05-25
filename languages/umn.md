@@ -2,6 +2,7 @@
 iso: umn
 name: Makyan Naga
 autonym: Makyan
+alt_names: [Makyam-Kuku Naga, "Naga, Makyan"]
 population: 3000
 country_id: MM
 country_name: Myanmar

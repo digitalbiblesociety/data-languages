@@ -1,7 +1,9 @@
 ---
 iso: chk
 name: Chuukese
+name_zh: 楚克語
 autonym: Trukese
+alt_names: [Chuuk, Chuukesische Sprache, Chuukin kieli, Lagoon Chuukese, Ruk, Truk, Čiuko kalba]
 population: 56900
 country_id: FM
 country_name: Micronesia

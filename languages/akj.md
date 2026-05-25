@@ -1,7 +1,9 @@
 ---
 iso: akj
 name: "Aka-Jeru"
+name_zh: （Aka-）Jeru
 autonym: "Aka-Jeru"
+alt_names: [Andamanés, Grand andamanais, Great Andamanese, Jeru, Lèngua Aka-Jeru, Yerawa, "ג'רו"]
 population: null
 country_id: IN
 country_name: India

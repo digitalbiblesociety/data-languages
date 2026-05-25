@@ -2,6 +2,7 @@
 iso: zpr
 name: Santiago Xanica Zapotec
 autonym: (zapoteco de Santiago Xánica)
+alt_names: [Southern Sapoteko, Xanica Zapotec, Zapotec, "Zapotec, Santiago Xanica", Zapoteco de Asunción Tlacolulita, "Zapotèque d'Asunción Tlacolulita"]
 population: 2500
 country_id: MX
 country_name: Mexico

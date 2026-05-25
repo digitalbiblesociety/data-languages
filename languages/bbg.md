@@ -2,6 +2,7 @@
 iso: bbg
 name: Barama
 autonym: Barama
+alt_names: [Bavarama, Ghibarama, Gibarama, Yibarambu]
 population: 6000
 country_id: GA
 country_name: Gabon

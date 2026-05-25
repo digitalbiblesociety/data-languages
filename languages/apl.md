@@ -2,6 +2,7 @@
 iso: apl
 name: Lipan Apache
 autonym: Lipan
+alt_names: [Apache, "Apache, Lipan", Eastern Apache, Lipán, Липан]
 population: 100
 country_id: US
 country_name: United States

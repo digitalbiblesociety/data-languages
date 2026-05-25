@@ -1,7 +1,9 @@
 ---
 iso: tys
 name: Tày Sa Pa
+name_zh: 傣萨巴语
 autonym: Tày Sa Pa
+alt_names: [Tai Sa Pa, Tay Sa Pa]
 population: 300
 country_id: VN
 country_name: Vietnam

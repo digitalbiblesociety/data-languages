@@ -1,7 +1,9 @@
 ---
 iso: glk
 name: Gilaki
+name_zh: 吉拉基語
 autonym: "گیلکی "
+alt_names: [Gelaki, Gila lingvo, Gilakeg, Gilani, Gilanice, Gileki, Guilaki, Guilani, Lingua gilaki, Гилянский язык, لغة كيلكية, گیلکی زوان, ภาษาคิเลกิ, ギラキ語, 吉拉基语]
 population: 2490000
 country_id: IR
 country_name: Iran

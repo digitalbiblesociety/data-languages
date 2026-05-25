@@ -2,6 +2,7 @@
 iso: mny
 name: Manyawa
 autonym: Emakuana
+alt_names: [Mozambique]
 population: 219000
 country_id: MZ
 country_name: Mozambique

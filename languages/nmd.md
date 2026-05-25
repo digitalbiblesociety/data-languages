@@ -2,6 +2,7 @@
 iso: nmd
 name: Ndumu
 autonym: Bandoumou
+alt_names: [Doumbou, Dumbu, Lendumu, Mbere, Mindoumou, Mindumbu, Minduumo, Ndumbo, Ndumbu, Nduumo, Ondoumbo, Ondumbo]
 population: 4310
 country_id: GA
 country_name: Gabon

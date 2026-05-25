@@ -1,7 +1,9 @@
 ---
 iso: lml
 name: Hano
+name_zh: 拉格语
 autonym: Hano
+alt_names: [Bwatvenua, Lamalanga, North Raga, Qatvenua, Raga, Raga language, Vunmarama]
 population: 7500
 country_id: VU
 country_name: Vanuatu

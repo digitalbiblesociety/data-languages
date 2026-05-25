@@ -1,6 +1,7 @@
 ---
 iso: tok
 name: Toki Pona
+name_zh: 道本语
 autonym: toki pona
 population: 3100
 country_id: CA

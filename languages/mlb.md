@@ -2,6 +2,7 @@
 iso: mlb
 name: Mbule
 autonym: Dumbule
+alt_names: [Mbola]
 population: 100
 country_id: CM
 country_name: Cameroon

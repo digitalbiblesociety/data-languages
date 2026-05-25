@@ -2,6 +2,7 @@
 iso: asv
 name: Asoa
 autonym: Aka
+alt_names: [Asua, Asuae, Asuati]
 population: 25500
 country_id: CD
 country_name: DR Congo

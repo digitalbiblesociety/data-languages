@@ -2,6 +2,7 @@
 iso: nlu
 name: Nchumbulu
 autonym: Nchumbulu
+alt_names: [Guang]
 population: 1800
 country_id: GH
 country_name: Ghana

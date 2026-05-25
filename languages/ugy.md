@@ -2,6 +2,7 @@
 iso: ugy
 name: Uruguayan Sign Language
 autonym: Lengua de Señas Uruguaya
+alt_names: [LSU]
 population: 7000
 country_id: UY
 country_name: Uruguay

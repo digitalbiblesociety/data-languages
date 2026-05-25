@@ -1,7 +1,9 @@
 ---
 iso: wbl
 name: Wakhi
+name_zh: 瓦罕语
 autonym: x̌ik zik / Х̌ ик зик
+alt_names: [Guhjali, Khik, Lingua vakhí, Língua wakhi, Vahanin kieli, Vahhi keel, Vakhan, Vakí, Wakhani, Wakheg, Wakhigi, Вахайнаг æвзаг, Вахански език, Ваханский язык, ภาษาวาคี]
 population: 52200
 country_id: AF
 country_name: Afghanistan

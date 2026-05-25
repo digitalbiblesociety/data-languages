@@ -2,6 +2,7 @@
 iso: duf
 name: Dumbea
 autonym: Naa Dubea
+alt_names: [Drubea, Drùbea, Dubea, Ndrumbea language, Ndumbea, Neukaledonien, Nââ drubea, Paita]
 population: 950
 country_id: NC
 country_name: New Caledonia

@@ -2,6 +2,7 @@
 iso: nak
 name: Nakanai
 autonym: Lakalai
+alt_names: [Bileki, Nakonai]
 population: 30000
 country_id: PG
 country_name: Papua New Guinea

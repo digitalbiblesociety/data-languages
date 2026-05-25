@@ -1,7 +1,9 @@
 ---
 iso: hye
 name: Armenian
+name_zh: 亚美尼亚语
 autonym: հայերէն/հայերեն
+alt_names: [Armani, Armenian (East), Armenian (Eastern), Armenian (Iranian), Armenian (West), Armenian (Western), Armenio occidental (Turquía), Armenisch, Armjanski, Armjanski Yazyk, Arménien occidental (Moyen-Orient), Arménien occidental (Turquie), E Armenian, E. Armenian, Eastern Armenian, Ermeni Dili, Ermenice, Erâmani, Haieren, Homshetsma (Caucase), Homshetsma (Turquie), Nuclear Armenian, Somekhuri, Somkhuri, W Armenian, W. Armenian, West Armenian, Western Armenian, arménien]
 population: 3849000
 country_id: AM
 country_name: Armenia

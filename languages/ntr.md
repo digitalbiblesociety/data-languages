@@ -2,6 +2,7 @@
 iso: ntr
 name: Delo
 autonym: Ntribu
+alt_names: [Ntribou, Ntrubo, Tribu]
 population: 18400
 country_id: GH
 country_name: Ghana

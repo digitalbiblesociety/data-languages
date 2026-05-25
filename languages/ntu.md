@@ -2,6 +2,7 @@
 iso: ntu
 name: Natügu
 autonym: Natügu
+alt_names: [Lödäi, Nambakaengö, Natqgu, Natugu, Northern Santa Cruz, Santa Cruz]
 population: 4280
 country_id: SB
 country_name: Solomon Islands

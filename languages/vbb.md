@@ -2,6 +2,7 @@
 iso: vbb
 name: Southeast Babar
 autonym: null
+alt_names: ["Babar, Southeast", Indonesia]
 population: 4460
 country_id: ID
 country_name: Indonesia

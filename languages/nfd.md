@@ -2,6 +2,7 @@
 iso: nfd
 name: Ahwai
 autonym: Ndunic
+alt_names: [Hanyeng, Indun, Isakara, Nandu, Ndun, Ningon, Nyeng, Shakara, Tari]
 population: 3000
 country_id: NG
 country_name: Nigeria

@@ -1,7 +1,9 @@
 ---
 iso: kmr
 name: "Northern Kurdish - Kurmanji"
+name_zh: 北部库尔德语
 autonym: Northern Kurdish
+alt_names: [Badinani, Bahdini, Behdini, Eastern Kurmanji, Kermancî, Khorasani, Khorasani Kurmanji, Kirmanciya Jori, Kirmancî, Kirmanji, Kordi, Kurdi, Kurdisch, Kurdish, Kurdish (Central), Kurdish (Kurmanji), Kurdish (Northern), "Kurdish, Northern", Kurdî, Kurmancî, Kurmanji, Western Kurdish, Zaza, Êzdîkî]
 population: 14600000
 country_id: TR
 country_name: Turkey

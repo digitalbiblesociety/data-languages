@@ -1,7 +1,9 @@
 ---
 iso: bpl
 name: Broome Pearling Lugger Pidgin
+name_zh: 布鲁姆採珠者皮欽马来语
 autonym: Broom Creole
+alt_names: [Japanese Pidgin English, Koepang Talk, Malay Talk]
 population: 45
 country_id: AU
 country_name: Australia

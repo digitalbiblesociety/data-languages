@@ -2,6 +2,7 @@
 iso: qvi
 name: Imbabura Highland Quichua
 autonym: Kichwa Shimi
+alt_names: ["\"quichua (Cotopaxi, Tungurahua et Chimborazo)\"", Agata, Calderón, Cañar Highland Quichua, Chimborazo, Cotopaxi Quichua., Ecuador, Ecuador Quechua, HighlanKichua, Highland Ecuadorian Quichua, Highland Kichua, Imbabura Quechua, Imbabura Quichua, Imbabura), Kichua, Loja, Napo Quichua, Northern Pastaza Quichua, Otavalo Quichua, Quechua, Quechua (Imbabura), Quichua, Quichua (Cañar et Azuay), Quichua (Highland, Quichua (Imbabura), Quichua (Loja), Quichua (Napo), Quichua (Pastaza), Quichua (Salasaca), "Quichua, Imbabura Highland", Salasca, Tena Quichua]
 population: 408000
 country_id: EC
 country_name: Ecuador

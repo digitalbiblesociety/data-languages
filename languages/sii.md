@@ -1,7 +1,9 @@
 ---
 iso: sii
 name: Shom Peng
+name_zh: 尚彭語
 autonym: Shom Peng
+alt_names: [Inland of Great Nicobar, Inlanddialekt, Shobang, Shom Pen, Shom-Pen, Shompen, Shompeng, ʃom-pe]
 population: 400
 country_id: IN
 country_name: India

@@ -2,6 +2,7 @@
 iso: ped
 name: Mala (Papua New Guinea)
 autonym: Pay
+alt_names: [Alam, Banara, Dagoi, Dagui, Hatzfeldhafen, Mala, Malala, Pai]
 population: null
 country_id: PG
 country_name: Papua New Guinea

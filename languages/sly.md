@@ -1,7 +1,9 @@
 ---
 iso: sly
 name: Selayar
+name_zh: 塞拉亞語
 autonym: Basa Silajara
+alt_names: [Salajar, Salayar, Salayer, Saleier, Selayarese, Siladja, Silajara]
 population: 103000
 country_id: ID
 country_name: Indonesia

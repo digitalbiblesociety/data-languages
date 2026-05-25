@@ -2,6 +2,7 @@
 iso: dem
 name: Dem
 autonym: Lem
+alt_names: [Ndem]
 population: 1000
 country_id: ID
 country_name: Indonesia

@@ -2,6 +2,7 @@
 iso: tra
 name: Tirahi
 autonym: "Tirāhī, Dardu"
+alt_names: [Dardu, Tirahí, Tirāhī]
 population: 100
 country_id: AF
 country_name: Afghanistan

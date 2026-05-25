@@ -2,6 +2,7 @@
 iso: sdx
 name: Sibu Melanau
 autonym: Central Melanau
+alt_names: ["Melanau, Sibu", Seduan-Banyok, Sibu, Siduan, Siduani]
 population: 420
 country_id: MY
 country_name: Malaysia

@@ -2,6 +2,7 @@
 iso: gve
 name: Duwet
 autonym: " Waing"
+alt_names: [Guwet, Guwot]
 population: 400
 country_id: PG
 country_name: Papua New Guinea

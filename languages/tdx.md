@@ -2,6 +2,7 @@
 iso: tdx
 name: "Tandroy-Mahafaly Malagasy"
 autonym: malagasy
+alt_names: ["Malagasy, Tandroy-Mahafaly", Tandroy]
 population: 1300000
 country_id: MG
 country_name: Madagascar

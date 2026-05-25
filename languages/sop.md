@@ -2,6 +2,7 @@
 iso: sop
 name: Songe
 autonym: Kalebwe
+alt_names: [Kisonge, Kisongi, Kisongye, Luba-Songi, Lusonge, "North Songye, South Songye", Northeast Luba, Songye, Yembe]
 population: 1000000
 country_id: CD
 country_name: DR Congo

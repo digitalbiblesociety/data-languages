@@ -2,6 +2,7 @@
 iso: umd
 name: Umbindhamu
 autonym: Umbindhamu
+alt_names: ["'Uuk-Umpithamu", Arummarbin, Baka, Banjigam, Barungguan, Barunguan, Dyrlwai, Ganganda, Janggulmbal, Janggurunggu, Jeteneru, Jintjingga, Koko Ompindamo, Kuuku-Umpinthamu, Lamalama, Njindingga, Ompindamo, Umbuigamu, Umpinthamu, Umpithamu, Uuku Umpithamu, Yintjingga, Yintjinggu]
 population: 10
 country_id: AU
 country_name: Australia

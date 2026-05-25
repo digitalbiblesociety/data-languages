@@ -1,6 +1,7 @@
 ---
 iso: xrr
 name: Raetic
+name_zh: 雷蒂亚语
 autonym: Raetic
 population: null
 country_id: IT

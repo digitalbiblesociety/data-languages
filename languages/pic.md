@@ -2,6 +2,7 @@
 iso: pic
 name: Pinji
 autonym: Pinji
+alt_names: [Apindje, Apindji, Apinji, Gapinji]
 population: 5000
 country_id: GA
 country_name: Gabon

@@ -2,6 +2,7 @@
 iso: brj
 name: Bieria
 autonym: Vovo
+alt_names: [Bieri, Wowo]
 population: 70
 country_id: VU
 country_name: Vanuatu

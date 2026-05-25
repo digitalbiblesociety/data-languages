@@ -1,7 +1,9 @@
 ---
 iso: med
 name: Melpa
+name_zh: 美尔帕语
 autonym: null
+alt_names: [Hagen, Medlpa]
 population: 100000
 country_id: PG
 country_name: Papua New Guinea

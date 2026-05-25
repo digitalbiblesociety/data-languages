@@ -2,6 +2,7 @@
 iso: kps
 name: Tehit
 autonym: Kaibus
+alt_names: [Tahit, Tehid, Teminabuan]
 population: 10000
 country_id: ID
 country_name: Indonesia

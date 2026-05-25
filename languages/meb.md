@@ -2,6 +2,7 @@
 iso: meb
 name: Ikobi
 autonym: Mena
+alt_names: [Ikobi Kairi, Ikobi-Mena, Kasere, Kopo-Monia, Meni, Wailemi]
 population: 300
 country_id: PG
 country_name: Papua New Guinea

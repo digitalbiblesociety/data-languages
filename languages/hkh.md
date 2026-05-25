@@ -1,6 +1,7 @@
 ---
 iso: hkh
 name: Khah
+alt_names: [Poguli]
 country_id: IN
 country_name: India
 latitude: 33.24364

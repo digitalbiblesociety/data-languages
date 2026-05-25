@@ -1,6 +1,7 @@
 ---
 iso: lng
 name: Langobardic
+name_zh: 伦巴底语
 autonym: Langobardic
 population: null
 country_id: IT

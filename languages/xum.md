@@ -1,6 +1,7 @@
 ---
 iso: xum
 name: Umbrian
+name_zh: 翁布里亚语
 autonym: null
 population: null
 country_id: IT

@@ -2,6 +2,7 @@
 iso: dup
 name: Duano
 autonym: Desin Dolak
+alt_names: ["Desin Dola'", "Duano'", Orang Kuala]
 population: 15000
 country_id: ID
 country_name: Indonesia

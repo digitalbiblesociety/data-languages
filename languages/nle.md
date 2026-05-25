@@ -2,6 +2,7 @@
 iso: nle
 name: East Nyala
 autonym: Luyia
+alt_names: ["Nyala, East"]
 population: 227000
 country_id: KE
 country_name: Kenya

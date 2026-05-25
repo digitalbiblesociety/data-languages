@@ -2,6 +2,7 @@
 iso: mje
 name: Muskum
 autonym: Muzuk
+alt_names: [Muzgum]
 population: null
 country_id: TD
 country_name: Chad

@@ -2,6 +2,7 @@
 iso: kqp
 name: Kimré
 autonym: Gabri
+alt_names: [Gabri-Kimré]
 population: 20000
 country_id: TD
 country_name: Chad

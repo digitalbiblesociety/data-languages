@@ -2,6 +2,7 @@
 iso: xch
 name: Chemakum
 autonym: Aqoʞúlo
+alt_names: [Chimakum]
 population: null
 country_id: US
 country_name: United States

@@ -1,7 +1,9 @@
 ---
 iso: dis
 name: Dimasa
+name_zh: 迪马萨语
 autonym: "Grao-Dima /গ্ৰাউ-ডিমা"
+alt_names: [Dimasa Kachari, Hill Kachari, Lenga Dimasa, Lingua Dimasa, ডিমাসা ভাষা]
 population: 137000
 country_id: IN
 country_name: India

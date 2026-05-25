@@ -2,6 +2,7 @@
 iso: asj
 name: Sari
 autonym: Nsari
+alt_names: [Akweto, Pesaa, Sali]
 population: 7000
 country_id: CM
 country_name: Cameroon

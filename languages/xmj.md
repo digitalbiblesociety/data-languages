@@ -2,6 +2,7 @@
 iso: xmj
 name: Majera
 autonym: Mazera
+alt_names: ["Da'a", Daa, Mayera, "Mida'a", Midah]
 population: 500
 country_id: CM
 country_name: Cameroon

@@ -2,6 +2,7 @@
 iso: zmj
 name: Maridjabin
 autonym: Berringen
+alt_names: [Maredyerbin, Maretyaben, Maretyabin, Maridyerbin, Marisyabin, Marityabin, Marri Jabin, Marri Tjevin, Marrijebin, Marrisjefin, Marritjevin, Marrityabin, Murindjabin, Murindzabin, Murintja-bin, Murintjabin, Murintjaran, Ngangityaben, Tanggural, Tangural]
 population: 20
 country_id: AU
 country_name: Australia

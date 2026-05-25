@@ -2,6 +2,7 @@
 iso: atr
 name: "Waimiri-Atroari"
 autonym: "Waimiri-Atroarí"
+alt_names: [Atroahy, Atroahí, Atroarí, Atroaí, Atrowari, Atruahi, Atruahí, "Ki'nya", Krishaná, Waimirí, Waimirí-Atroarí, Yawaperí]
 population: 930
 country_id: BR
 country_name: Brazil

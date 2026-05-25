@@ -2,6 +2,7 @@
 iso: ked
 name: Kerewe
 autonym: Kerewe
+alt_names: [Ekikerebe, Kerebe]
 population: 241000
 country_id: TZ
 country_name: Tanzania

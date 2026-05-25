@@ -1,7 +1,9 @@
 ---
 iso: nhg
 name: Tetelcingo Nahuatl
+name_zh: 特萊爾辛戈納瓦特爾語
 autonym: Mösiehuali̱
+alt_names: [Nahuatl, Nahuatl (Tetelcingo), "Nahuatl, Tetelcingo", Nawa, Tetelcingo Aztec]
 population: 3500
 country_id: MX
 country_name: Mexico

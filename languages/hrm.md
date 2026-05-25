@@ -1,7 +1,9 @@
 ---
 iso: hrm
 name: Horned Miao
+name_zh: 角苗语
 autonym: lus Hmoob / lug Moob / lol Hmongb
+alt_names: [A-Hmo, Bai Miao, Hmong Khua Shua Ndrang, Hmong Sou, Jiao Miao, Jiaojiao Miao, Kha-Nzi, "Miao, Horned", White Miao]
 population: 50000
 country_id: CN
 country_name: China

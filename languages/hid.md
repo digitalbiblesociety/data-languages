@@ -1,7 +1,9 @@
 ---
 iso: hid
 name: Hidatsa
+name_zh: 希达沙語
 autonym: hiraaciré’
+alt_names: [Doan, Duan, Gros Ventre, Gros Ventres, Hinatsa, Hiraca, Minitari, Minnetaree]
 population: 1200
 country_id: US
 country_name: United States

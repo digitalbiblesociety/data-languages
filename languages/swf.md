@@ -2,6 +2,7 @@
 iso: swf
 name: Sere
 autonym: Basili
+alt_names: [Basiri, Chere, Serre, Shaire, Shere, Sheri, Sili, Siri]
 population: 2500
 country_id: CD
 country_name: DR Congo

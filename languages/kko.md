@@ -2,6 +2,7 @@
 iso: kko
 name: Karko
 autonym: Kakenbi
+alt_names: [Ajang, Garko, Karko (Sudan), Kithonirishe, Nubian (Hill)]
 population: 13000
 country_id: SD
 country_name: Sudan

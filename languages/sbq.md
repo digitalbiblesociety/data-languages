@@ -2,6 +2,7 @@
 iso: sbq
 name: Sileibi
 autonym: Sileibi
+alt_names: [Sirva]
 population: 260
 country_id: PG
 country_name: Papua New Guinea

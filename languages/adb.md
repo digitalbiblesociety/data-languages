@@ -2,6 +2,7 @@
 iso: adb
 name: Adabe
 autonym: Wetar
+alt_names: [Atauran]
 population: 1000
 country_id: TL
 country_name: "Timor-Leste"

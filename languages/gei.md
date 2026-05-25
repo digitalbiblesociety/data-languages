@@ -2,6 +2,7 @@
 iso: gei
 name: Gebe
 autonym: Minyaifuin
+alt_names: [Gebi]
 population: 2650
 country_id: ID
 country_name: Indonesia

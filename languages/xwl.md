@@ -2,6 +2,7 @@
 iso: xwl
 name: Western Xwla Gbe
 autonym: Xwla
+alt_names: ["Gbe, Western Xwla", Phla, Xwla-Gbe]
 population: null
 country_id: BJ
 country_name: Benin

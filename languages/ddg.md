@@ -2,6 +2,7 @@
 iso: ddg
 name: Fataluku
 autonym: Dagada
+alt_names: [Bahasa Fataluku, Dagaga, Dagoda, "Dagoda'", Fataloukoueg, Fataluco, Idioma fataluco, ภาษาฟาตาลูกู]
 population: 48400
 country_id: TL
 country_name: "Timor-Leste"

@@ -1,7 +1,9 @@
 ---
 iso: rmt
 name: Domari
+name_zh: 多姆語
 autonym: دٛومَرِي
+alt_names: [Barake, Dom, Domarí, Gipsies, Gypsy, Język domari, Kurbat, Luti, Mehtar, Middle Eastern Romani, Nawar, Nawari, Near-Eastern Gypsy, Nuri, Romani, Tsigene, Zutt, Домари, டோமாரி மொழி]
 population: 28500
 country_id: EG
 country_name: Egypt

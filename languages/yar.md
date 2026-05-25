@@ -2,6 +2,7 @@
 iso: yar
 name: Yabarana
 autonym: Mapoyo–Yavarana
+alt_names: [Jabarana lingvo, Mapoyo-Yavarana, Yabaraneg, Yauarana, Yavarana, Yawarana]
 population: null
 country_id: VE
 country_name: Venezuela

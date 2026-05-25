@@ -2,6 +2,7 @@
 iso: ndg
 name: Ndengereko
 autonym: Rufiji
+alt_names: [Kingengereko, Ndengeleko]
 population: 72000
 country_id: TZ
 country_name: Tanzania

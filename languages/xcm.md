@@ -2,6 +2,7 @@
 iso: xcm
 name: Comecrudo
 autonym: "Carrizo, Yué"
+alt_names: [Carrizo, Comecrudan, Comecrudan Subfamily, Mulato]
 population: null
 country_id: MX
 country_name: Mexico

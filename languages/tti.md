@@ -2,6 +2,7 @@
 iso: tti
 name: Tobati
 autonym: Yotafa
+alt_names: [Enggros, Humboldt Jotafa, Jayapura, Jotafa, Tobwadic, Yautefa]
 population: 350
 country_id: ID
 country_name: Indonesia

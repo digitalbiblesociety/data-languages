@@ -2,6 +2,7 @@
 iso: nli
 name: Grangali
 autonym: Grangali
+alt_names: [Dardu, Gelangali, Glangali, Jumiaki, Nangalami, Nangalāmi, Nigalāmi, Ningalami, Ningalamí]
 population: 5000
 country_id: AF
 country_name: Afghanistan

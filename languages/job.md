@@ -2,6 +2,7 @@
 iso: job
 name: Joba
 autonym: Kijoba
+alt_names: [Kivira, Loba, Vira]
 population: 10000
 country_id: CD
 country_name: DR Congo

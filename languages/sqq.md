@@ -1,7 +1,9 @@
 ---
 iso: sqq
 name: Sou
+name_zh: 苏语
 autonym: Sawk
+alt_names: [Juk, Souk, Soué, Su, "Su'", Suai, Sue, Suq]
 population: 2360
 country_id: LA
 country_name: Laos

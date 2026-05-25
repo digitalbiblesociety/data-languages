@@ -2,6 +2,7 @@
 iso: dby
 name: Dibiyaso
 autonym: Bainapi
+alt_names: [Dibiasu, Pikiwa]
 population: 1950
 country_id: PG
 country_name: Papua New Guinea

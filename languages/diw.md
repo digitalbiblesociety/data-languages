@@ -2,6 +2,7 @@
 iso: diw
 name: Northwestern Dinka
 autonym: Thuɔŋjäŋ
+alt_names: [Dinka, "Dinka, Northwestern", Nord-Dinka, Ruweng]
 population: 93000
 country_id: SS
 country_name: South Sudan

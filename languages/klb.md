@@ -2,6 +2,7 @@
 iso: klb
 name: Kiliwa
 autonym: Koléew Ñaja
+alt_names: [Kiliwan Subfamily, Kiliwi, Quiligua]
 population: null
 country_id: MX
 country_name: Mexico

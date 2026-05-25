@@ -2,6 +2,7 @@
 iso: res
 name: Reshe
 autonym: Tsureshe
+alt_names: [Bareshe, Gunga, Gunganchi, Gungawa, Tsureja, Yaurawa]
 population: 44000
 country_id: NG
 country_name: Nigeria

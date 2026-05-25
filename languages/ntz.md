@@ -2,6 +2,7 @@
 iso: ntz
 name: Natanzi
 autonym: Natanzic
+alt_names: [Natanzí]
 population: 7030
 country_id: IR
 country_name: Iran

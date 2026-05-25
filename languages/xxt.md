@@ -1,6 +1,7 @@
 ---
 iso: xxt
 name: Tambora
+name_zh: 坦博拉语
 autonym: null
 population: null
 country_id: IN

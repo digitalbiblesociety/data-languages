@@ -2,6 +2,7 @@
 iso: hch
 name: Huichol
 autonym: Wixárika Niukiyari
+alt_names: [Houitcholeg, Hujĉola lingvo, Idioma huichol, Vixaritari Vaniuqui, Vizaritari Vaniuki, Wichol, Wichol simi, Уичоль]
 population: 52500
 country_id: MX
 country_name: Mexico

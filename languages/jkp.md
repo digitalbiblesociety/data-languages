@@ -2,6 +2,7 @@
 iso: jkp
 name: Paku Karen
 autonym: ကညီကျိာ်
+alt_names: ["Karen, Paku", "Karen,Paku", Mogpha, Mogwa, Monebwa, Monnepwa, Mopaga, Mopha, Mopwa, Pagu, Paku, Thalwepwe]
 population: 6710
 country_id: MM
 country_name: Myanmar

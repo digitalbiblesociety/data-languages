@@ -2,6 +2,7 @@
 iso: lks
 name: Kisa
 autonym: Luyia
+alt_names: [Lushisa, Olushisa, Shisa]
 population: null
 country_id: KE
 country_name: Kenya

@@ -2,6 +2,7 @@
 iso: doo
 name: Dongo
 autonym: Donga
+alt_names: ["'Dongo", Dongo Ko]
 population: 12900
 country_id: CD
 country_name: DR Congo

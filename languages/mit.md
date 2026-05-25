@@ -2,6 +2,7 @@
 iso: mit
 name: Southern Puebla Mixtec
 autonym: Acatlán Mixtec
+alt_names: [Central Puebla Mixtec, Chazumba Mixtec, Chigmecatitlán Mixtec, "Mixtec, Southern Puebla", Mixteco de Chazumba, Mixteco de Santa María Chigmecatitlán, Mixteco de la Frontera Puebla-Oaxaca, Mixteco del Sur de Puebla, Northern Baja Mixtec, Northern Oaxaca Mixtec, Southern Misteko, Southern Mixteco, Xayacatlán de Bravo]
 population: 3180
 country_id: MX
 country_name: Mexico

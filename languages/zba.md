@@ -2,6 +2,7 @@
 iso: zba
 name: "Balaibalan\r"
 autonym: باليبلن
+alt_names: [Balaibalan]
 population: null
 country_id: IR
 country_name: Iran

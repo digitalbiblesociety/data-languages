@@ -2,6 +2,7 @@
 iso: xtu
 name: Cuyamecalco Mixtec
 autonym: Cuicatlán Mixtec
+alt_names: [Coatzospan Mixtec, "Mixtec, Cuyamecalco", Mixteco de Cañada central, Mixteco de Coatzóspan, Mixteco de Cuyamecalco, Mixteco de San Juan Coatzospan, Northern Alta Mixtec, Northern Misteko, Northern Mixteco, Teotitlán Mixtec]
 population: 2600
 country_id: MX
 country_name: Mexico

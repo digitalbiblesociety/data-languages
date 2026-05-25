@@ -1,7 +1,9 @@
 ---
 iso: blb
 name: Bilua
+name_zh: 比鲁阿语
 autonym: Mbilua
+alt_names: [Vella Lavella, Vella la Vella]
 population: 9000
 country_id: SB
 country_name: Solomon Islands

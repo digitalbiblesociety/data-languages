@@ -1,7 +1,9 @@
 ---
 iso: mvb
 name: Mattole
+name_zh: 馬投爾語
 autonym: Mattole–Bear River
+alt_names: [Mattole-Bear River]
 population: null
 country_id: US
 country_name: United States

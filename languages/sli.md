@@ -1,7 +1,9 @@
 ---
 iso: sli
 name: Lower Silesian
+name_zh: 西里西亚语
 autonym: " Silesian German"
+alt_names: [Dialekt śląski języka niemieckiego, Laagsilezisch, Lower, Lower Schlesisch, Schleesėsch, Schlesisch, Silesian, "Silesian, Lower", Slezská němčina, Sziléziai német nyelv, Tedesco Slesiano, Ślůnsko mjymjecko godka]
 population: 12000
 country_id: PL
 country_name: Poland

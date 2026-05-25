@@ -2,6 +2,7 @@
 iso: oym
 name: Wayampi
 autonym: Guaiapi
+alt_names: [Aipi, Emérillon, Guayapi, Karipuna, Oiampí, Oiumpian, Oyampi, Oyampí, Oyampík, Oyanpík, Oyapí, Waiampi, Waiãpi, Wajapae, Wajapi, Wajapuku, Wajãpi, Wayampi (Amapari)/Wayampi (Oiapoque), Wayampí, Wayampí language area, Wayapae, Wayapi, Wayãpi]
 population: 1660
 country_id: BR
 country_name: Brazil

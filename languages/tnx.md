@@ -2,6 +2,7 @@
 iso: tnx
 name: Tanema
 autonym: Tetawo
+alt_names: [Tanima]
 population: 4
 country_id: SB
 country_name: Solomon Islands

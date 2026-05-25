@@ -2,6 +2,7 @@
 iso: gmb
 name: "Gula'alaa"
 autonym: Kwai
+alt_names: [Ngongosila, Südliche Salomons-Inseln]
 population: 1570
 country_id: SB
 country_name: Solomon Islands

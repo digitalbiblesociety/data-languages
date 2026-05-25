@@ -1,7 +1,9 @@
 ---
 iso: alt
 name: Southern Altai
+name_zh: 南阿尔泰语
 autonym: Oirot
+alt_names: [Altai, Altai (Oirot), Altai (Southern), Altai Kalmuck, "Altai, Southern", Altai-Kalmückisch, Altay, Altaï méridional, Altái meridional, Oyrot, South Siberian Turkic, Sudaltaja lingvo, altai du Sud, алтай тили, южноалтайский язык]
 population: 57400
 country_id: RU
 country_name: Russia

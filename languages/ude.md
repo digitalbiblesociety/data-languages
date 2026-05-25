@@ -1,7 +1,9 @@
 ---
 iso: ude
 name: Udihe
+name_zh: 乌德盖语
 autonym: Удиэ
+alt_names: [Oudihe, Oudiheg, Sprache der Udehe, Udega lingvo, Udege, Udege language, Udegeis, Udegejsk, Udeghe, Udehe, Udeheische, Udehen kieli, Udekhe, Удеге јазик, Удегейська мова, удэгейский язык, удэйский язык, ภาษาอูเดเก, 우데게이어]
 population: 1657
 country_id: RU
 country_name: Russia

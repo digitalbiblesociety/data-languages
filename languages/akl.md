@@ -1,6 +1,7 @@
 ---
 iso: akl
 name: Aklanon
+name_zh: 阿卡蘭語
 autonym: Aklan
 population: 549600
 country_id: PH

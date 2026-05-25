@@ -1,6 +1,7 @@
 ---
 iso: jks
 name: Amami Koniya Sign Language
+name_zh: 奄美大島手語
 autonym: Amami Ōshima Sign
 country_id: JP
 country_name: Japan

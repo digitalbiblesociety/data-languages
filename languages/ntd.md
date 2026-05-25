@@ -1,7 +1,9 @@
 ---
 iso: ntd
 name: Northern Tidung
+name_zh: 塞萨雅普缇洞语
 autonym: Northern Tidung
+alt_names: ["Tidung, Northern"]
 population: 20000
 country_id: MY
 country_name: Malaysia

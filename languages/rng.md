@@ -1,7 +1,9 @@
 ---
 iso: rng
 name: Ronga
+name_zh: 龍加語
 autonym: Gironga
+alt_names: [Shironga, Xironga]
 population: 618000
 country_id: MZ
 country_name: Mozambique

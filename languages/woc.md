@@ -2,6 +2,7 @@
 iso: woc
 name: Wogeo
 autonym: Uageo
+alt_names: [Wokeo]
 population: 1620
 country_id: PG
 country_name: Papua New Guinea

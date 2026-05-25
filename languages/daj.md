@@ -2,6 +2,7 @@
 iso: daj
 name: Dar Fur Daju
 autonym: Darfur Daju
+alt_names: [Beke, Dagu, Dagu of Darfur, Daju, Daju (Dar Fur), Daju Ferne, "Daju, Dar Fur", Dar Fur dialect, Dār-Fūr, Fininga, Kondschara, Kongara, Lagawa, "Lagawa, Nyala", Nyala, Nyala-Lagowa]
 population: 98000
 country_id: SD
 country_name: Sudan

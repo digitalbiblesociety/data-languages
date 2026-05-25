@@ -2,6 +2,7 @@
 iso: thh
 name: Northern Tarahumara
 autonym: "Rarámuri ra'ícha"
+alt_names: [Ariseachi, Ariseachi Tarahumara, Northern, Rocoroibo, South-western, Southwestern, Tarahumara, Tarahumara del Norte, Tarahumara del Suroeste, "Tarahumara, Northern", Taraumara, Tubare, Vorohio]
 population: 1500
 country_id: MX
 country_name: Mexico

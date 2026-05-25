@@ -2,6 +2,7 @@
 iso: ssg
 name: Seimat
 autonym: null
+alt_names: [Admiralitäts-inseln, Ninigo]
 population: 1400
 country_id: PG
 country_name: Papua New Guinea

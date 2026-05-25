@@ -2,6 +2,7 @@
 iso: mfm
 name: Marghi South
 autonym: null
+alt_names: [Chobba, Hildi, KChobba, Margi]
 population: 166000
 country_id: NG
 country_name: Nigeria

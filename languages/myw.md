@@ -2,6 +2,7 @@
 iso: myw
 name: Muyuw
 autonym: null
+alt_names: [Murua, Muruwa, Muyu, Muyua, Muyuwa]
 population: 4000
 country_id: PG
 country_name: Papua New Guinea

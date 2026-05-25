@@ -2,6 +2,7 @@
 iso: mpa
 name: Mpoto
 autonym: Chimpoto
+alt_names: [Kinyasa, Nyasa]
 population: 72800
 country_id: TZ
 country_name: Tanzania

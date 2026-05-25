@@ -2,6 +2,7 @@
 iso: bvm
 name: Bamunka
 autonym: Bamunka
+alt_names: [Bamunkun, Mbika, Muka, Ndop-Bamunka, Niemeng]
 population: 31000
 country_id: CM
 country_name: Cameroon

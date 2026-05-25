@@ -2,6 +2,7 @@
 iso: ndk
 name: Ndaka
 autonym: Indaaka
+alt_names: [Ndaaka]
 population: 25000
 country_id: CD
 country_name: DR Congo

@@ -2,6 +2,7 @@
 iso: vkl
 name: Kulisusu
 autonym: Kalisusu
+alt_names: [Kolensusu, Kolinsusu]
 population: 22000
 country_id: ID
 country_name: Indonesia

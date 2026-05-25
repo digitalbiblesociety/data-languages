@@ -2,6 +2,7 @@
 iso: sbm
 name: Sagala
 autonym: Sagala
+alt_names: [Kisagala, Kisagara, Sagara, Southern Kisagala]
 population: 111000
 country_id: TZ
 country_name: Tanzania

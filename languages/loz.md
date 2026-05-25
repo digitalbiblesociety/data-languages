@@ -1,7 +1,9 @@
 ---
 iso: loz
 name: Lozi
+name_zh: 洛齐语
 autonym: siLozi / Rozi
+alt_names: [Idioma lozi, Język lozi, Kololo, Língua lozi, Rotse, Rotvi, Rozi, Rutse, Silozi, Tozvi]
 population: 734000
 country_id: ZM
 country_name: Zambia

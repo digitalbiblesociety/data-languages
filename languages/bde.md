@@ -2,6 +2,7 @@
 iso: bde
 name: Bade
 autonym: Bedde
+alt_names: [Bade Group, Badeg, Badé, Bede, Gidgid, Gusha Bade, West Chadic B.1, Баде]
 population: 338000
 country_id: NG
 country_name: Nigeria

@@ -1,7 +1,9 @@
 ---
 iso: lag
 name: Langi
+name_zh: 朗吉语
 autonym: Kilaangi
+alt_names: [Irangi, Kilangi, Kirangi, Rangi]
 population: 371000
 country_id: TZ
 country_name: Tanzania

@@ -1,7 +1,9 @@
 ---
 iso: goe
 name: Gongduk
+name_zh: 工德语
 autonym: Gongdukpa Angདགོང་འདུས་
+alt_names: [Gongdubikha, Gongdue Kha]
 population: 2100
 country_id: BT
 country_name: Bhutan

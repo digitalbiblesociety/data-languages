@@ -1,7 +1,9 @@
 ---
 iso: bou
 name: Bondei
+name_zh: 邦代伊语
 autonym: Bonde
+alt_names: [Kibondei]
 population: 122000
 country_id: TZ
 country_name: Tanzania

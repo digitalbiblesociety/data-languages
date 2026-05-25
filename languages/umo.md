@@ -2,6 +2,7 @@
 iso: umo
 name: Umotína
 autonym: Barbados
+alt_names: [Barbado, Umotina, Umutina]
 population: null
 country_id: BR
 country_name: Brazil

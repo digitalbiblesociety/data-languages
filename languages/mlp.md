@@ -1,7 +1,9 @@
 ---
 iso: mlp
 name: Bargam
+name_zh: 巴爾加姆語
 autonym: Mugil
+alt_names: [Saker]
 population: 4000
 country_id: PG
 country_name: Papua New Guinea

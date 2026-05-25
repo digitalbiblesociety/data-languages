@@ -2,6 +2,7 @@
 iso: tna
 name: Tacana
 autonym: null
+alt_names: [Takana, Tupamasa]
 population: 7350
 country_id: BO
 country_name: Bolivia

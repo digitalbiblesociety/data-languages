@@ -2,6 +2,7 @@
 iso: rwo
 name: Rawa
 autonym: Karo
+alt_names: [Erawa, Erewa, Karo/Rawa, Raua]
 population: 11500
 country_id: PG
 country_name: Papua New Guinea

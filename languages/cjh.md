@@ -2,6 +2,7 @@
 iso: cjh
 name: Upper Chehalis
 autonym: Q̉ʷay̓áyiłq̉
+alt_names: [Chehalis, Chehalis (Upper), "Chehalis, Upper", Chehalí alto, Haut-chehalis, Kwaiailk, Oakville, Oakville Chehalis, "Q'ʷay'áyiłq'", Satsop, qʼʷayʼáyiɬqʼ]
 population: null
 country_id: US
 country_name: United States

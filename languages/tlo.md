@@ -2,6 +2,7 @@
 iso: tlo
 name: Talodi
 autonym: Talodi
+alt_names: [Ajomang, Gajomang, Jomang, Talodí]
 population: 1500
 country_id: SD
 country_name: Sudan

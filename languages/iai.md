@@ -1,7 +1,9 @@
 ---
 iso: iai
 name: Iaai
+name_zh: Iaai语
 autonym: hwen iaai
+alt_names: [Iai, Yai]
 population: 4080
 country_id: NC
 country_name: New Caledonia

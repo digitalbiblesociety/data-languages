@@ -2,6 +2,7 @@
 iso: ilu
 name: "Ili'uun"
 autonym: Wetar
+alt_names: [Erai, Hahutan, Hahutau, Iliun, Ilmaumau, Limera]
 population: 1400
 country_id: ID
 country_name: Indonesia

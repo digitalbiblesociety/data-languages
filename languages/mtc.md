@@ -2,6 +2,7 @@
 iso: mtc
 name: Munit
 autonym: null
+alt_names: [Mataco, Matako, Wichí]
 population: 910
 country_id: PG
 country_name: Papua New Guinea

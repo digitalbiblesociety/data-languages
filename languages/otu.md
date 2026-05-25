@@ -2,6 +2,7 @@
 iso: otu
 name: Otuke
 autonym: Louxiru
+alt_names: [Louxiur, Otuké, Otuque, Otuqui, Otuqué]
 population: null
 country_id: BR
 country_name: Brazil

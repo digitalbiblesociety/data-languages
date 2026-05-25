@@ -2,6 +2,7 @@
 iso: mrn
 name: Cheke Holo
 autonym: "A'ara"
+alt_names: [Holo, Kubonitu, Maring, Maring (Trans New Guinea), Maringe]
 population: 10800
 country_id: SB
 country_name: Solomon Islands

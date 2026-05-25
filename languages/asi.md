@@ -2,6 +2,7 @@
 iso: asi
 name: Buruwai
 autonym: Sabakor
+alt_names: [Asianara, Asienara, Karufa, Madidwana]
 population: 1000
 country_id: ID
 country_name: Indonesia

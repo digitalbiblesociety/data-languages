@@ -2,6 +2,7 @@
 iso: xtc
 name: "Katcha-Kadugli-Miri"
 autonym: Central Kadu
+alt_names: [Kadugli, Katcha]
 population: 75000
 country_id: SD
 country_name: Sudan

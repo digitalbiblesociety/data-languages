@@ -2,6 +2,7 @@
 iso: csz
 name: Coos
 autonym: Coos
+alt_names: [Anasitch, Coos (Hanis), Hanis, Hanis Coos]
 population: 250
 country_id: US
 country_name: United States

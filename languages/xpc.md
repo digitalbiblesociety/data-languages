@@ -1,6 +1,7 @@
 ---
 iso: xpc
 name: Pecheneg
+name_zh: 佩切涅格語
 autonym: Patzinak
 population: null
 country_id: UA

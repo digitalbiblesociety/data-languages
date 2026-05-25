@@ -2,6 +2,7 @@
 iso: tal
 name: Tal
 autonym: null
+alt_names: [Amtul, Kwabzak]
 population: 10000
 country_id: NG
 country_name: Nigeria

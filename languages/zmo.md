@@ -2,6 +2,7 @@
 iso: zmo
 name: Molo
 autonym: Malkan
+alt_names: [Tura-Ka-Molo]
 population: 100
 country_id: SD
 country_name: Sudan

@@ -2,6 +2,7 @@
 iso: hmy
 name: Southern Guiyang Hmong
 autonym: Hmong
+alt_names: [Hmo, "Hmong, Southern Guiyang", Hmung, Hsiung, Hunan Miao, Miao, "Miao, Southern Guiyang", Southern Guiyang Miao]
 population: 28000
 country_id: CN
 country_name: China

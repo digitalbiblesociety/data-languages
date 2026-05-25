@@ -2,6 +2,7 @@
 iso: hoo
 name: Holoholo
 autonym: Kalanga
+alt_names: [Chikalanga, Guha, Horohoro, Ikalanga, Kiholoholo, Kikalanga, Lilima, Sekalaka]
 population: 15500
 country_id: CD
 country_name: DR Congo

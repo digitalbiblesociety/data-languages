@@ -2,6 +2,7 @@
 iso: zmf
 name: Mfinu
 autonym: Emfinu
+alt_names: [Funika, Mfununga]
 population: 8400
 country_id: CD
 country_name: DR Congo

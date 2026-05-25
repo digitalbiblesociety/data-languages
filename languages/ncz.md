@@ -2,6 +2,7 @@
 iso: ncz
 name: Natchez
 autonym: Naacee
+alt_names: ["Na'htchi", Nachez]
 population: 6
 country_id: US
 country_name: United States

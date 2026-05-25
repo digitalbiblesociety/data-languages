@@ -1,7 +1,9 @@
 ---
 iso: mzt
 name: Mintil
+name_zh: 明蒂尔语
 autonym: " Tanɨm"
+alt_names: [Mitil]
 population: 400
 country_id: MY
 country_name: Malaysia

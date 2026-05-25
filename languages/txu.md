@@ -2,6 +2,7 @@
 iso: txu
 name: Kayapó
 autonym: Mẽbêngôkre kabẽn
+alt_names: [Cayapo, Cayapó, Gorotire, Kayapo, Kokairmoro, Kokraimoro, Mebengokre, Mebêngokrê, Put Karot, Southern Cayapo, Xikrin]
 population: 7270
 country_id: BR
 country_name: Brazil

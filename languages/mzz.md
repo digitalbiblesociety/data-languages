@@ -2,6 +2,7 @@
 iso: mzz
 name: Maiadomu
 autonym: null
+alt_names: [Maiadom]
 population: 900
 country_id: PG
 country_name: Papua New Guinea

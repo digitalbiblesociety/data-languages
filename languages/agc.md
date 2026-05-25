@@ -2,6 +2,7 @@
 iso: agc
 name: Agatu
 autonym: North Idoma
+alt_names: [Ochekwu]
 population: 70000
 country_id: NG
 country_name: Nigeria

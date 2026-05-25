@@ -1,7 +1,9 @@
 ---
 iso: yip
 name: Pholo
+name_zh: 仆拉语
 autonym: Black Phula
+alt_names: [Pola, "Yi, Poluo"]
 population: 30000
 country_id: CN
 country_name: China

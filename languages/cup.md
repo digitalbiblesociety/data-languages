@@ -1,7 +1,9 @@
 ---
 iso: cup
 name: Cupeño
+name_zh: 卡班鲁语
 autonym: "Kupangaxwicham Pe'me̲melki"
+alt_names: [Agua Caliente, Cupeno]
 population: null
 country_id: US
 country_name: United States

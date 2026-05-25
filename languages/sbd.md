@@ -2,6 +2,7 @@
 iso: sbd
 name: Southern Samo
 autonym: Sane
+alt_names: [Samo, "Samo, Southern", San, Somono]
 population: 85000
 country_id: BF
 country_name: Burkina Faso

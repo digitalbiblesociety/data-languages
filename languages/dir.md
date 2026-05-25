@@ -2,6 +2,7 @@
 iso: dir
 name: Dirim
 autonym: Daka
+alt_names: [Dakka, Dirin, Dirrim]
 population: 9000
 country_id: NG
 country_name: Nigeria

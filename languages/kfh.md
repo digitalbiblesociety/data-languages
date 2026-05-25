@@ -2,6 +2,7 @@
 iso: kfh
 name: Kurichiya
 autonym: Kowohans
+alt_names: [Kurichchia, Kurichia, Kurichiyars, Kuruchans]
 population: 29400
 country_id: IN
 country_name: India

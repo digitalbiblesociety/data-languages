@@ -2,6 +2,7 @@
 iso: ipi
 name: Ipili
 autonym: null
+alt_names: [Ipili-Paiela, Ipili-Payala]
 population: 26000
 country_id: PG
 country_name: Papua New Guinea

@@ -2,6 +2,7 @@
 iso: zph
 name: Totomachapan Zapotec
 autonym: (San Pedro Totomachápam)
+alt_names: [Central Sapoteko, Totomachapam, Totomachapan, Western Zimatlán Zapotec, Zapotec, "Zapotec, Totomachapan", Zapoteco de San Felipe Tejalápam, Zapoteco de San Pedro Totomachapan, Zapotèque de San Felipe Tejalapan]
 population: 1009
 country_id: MX
 country_name: Mexico

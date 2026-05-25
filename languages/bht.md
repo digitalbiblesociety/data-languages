@@ -2,6 +2,7 @@
 iso: bht
 name: Bhattiyali
 autonym: Bhateali
+alt_names: [Bhatiali Pahari, Bhatiyali]
 population: 24000
 country_id: IN
 country_name: India

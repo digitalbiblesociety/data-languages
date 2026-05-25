@@ -2,6 +2,7 @@
 iso: pto
 name: "Zo'é"
 autonym: Poturu
+alt_names: [Buré, "Jo'é", Poturujara, Poturú, Putur, Tupí of Cuminapanema, "Zo'e", Zoé, Zoés, zoe]
 population: 150
 country_id: BR
 country_name: Brazil

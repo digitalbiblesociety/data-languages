@@ -2,6 +2,7 @@
 iso: crt
 name: "Iyojwa'ja Chorote"
 autonym: "Iyojwa'ja Chorote"
+alt_names: [Chorote, Chorote iyojwa’ja, "Chorote, Iyojwa'ja", Choroti, "Choroti iyojwa'ja", Chorotí, Chulupe, Chulupí, Churupi, Eklenjuy, Manjui, Manjuy, Yofuaha, Yofúaha, Yohwaha]
 population: 800
 country_id: AR
 country_name: Argentina

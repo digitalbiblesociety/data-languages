@@ -1,7 +1,9 @@
 ---
 iso: yit
 name: Eastern Lalu
+name_zh: 东腊鲁语
 autonym: Western Yi
+alt_names: ["Lalu, Eastern"]
 population: 38000
 country_id: CN
 country_name: China

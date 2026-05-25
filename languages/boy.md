@@ -2,6 +2,7 @@
 iso: boy
 name: Bodo (Central African Republic)
 autonym: null
+alt_names: [Bodo]
 population: 15
 country_id: CF
 country_name: Central African Republic

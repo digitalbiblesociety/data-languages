@@ -2,6 +2,7 @@
 iso: cok
 name: Santa Teresa Cora
 autonym: naáyarite
+alt_names: [Cora, "Cora, Santa Teresa", Kora, Náayeri, Pinome]
 population: 7000
 country_id: MX
 country_name: Mexico

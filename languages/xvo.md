@@ -1,6 +1,7 @@
 ---
 iso: xvo
 name: Volscian
+name_zh: 沃尔西语
 autonym: null
 population: null
 country_id: IT

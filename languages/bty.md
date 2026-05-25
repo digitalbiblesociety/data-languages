@@ -2,6 +2,7 @@
 iso: bty
 name: Bobot
 autonym: Ahtiago
+alt_names: [Atiahu, Hatumeten, Ntau, Werinama]
 population: 4500
 country_id: ID
 country_name: Indonesia

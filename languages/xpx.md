@@ -2,6 +2,7 @@
 iso: xpx
 name: "Southwestern Tasmanian\r"
 autonym: Southwestern Tasmanian
+alt_names: ["Tasmanian, Southwestern", Toogee]
 population: null
 country_id: AU
 country_name: Australia

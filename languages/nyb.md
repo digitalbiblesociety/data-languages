@@ -2,6 +2,7 @@
 iso: nyb
 name: Nyangbo
 autonym: Tafi
+alt_names: [Nyangbo-Tafi, Tutrugbu]
 population: 6400
 country_id: GH
 country_name: Ghana

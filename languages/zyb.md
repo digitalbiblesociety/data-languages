@@ -1,7 +1,9 @@
 ---
 iso: zyb
 name: Yongbei Zhuang
+name_zh: 邕北土语
 autonym: Geographic Yongbei Zhuang
+alt_names: [Chuang, Wu-ming, Yongbei, Yungpei, Zhuang, Zhuang (Northern), "Zhuang, Yongbei"]
 population: 1980000
 country_id: CN
 country_name: China

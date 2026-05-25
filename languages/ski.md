@@ -1,7 +1,9 @@
 ---
 iso: ski
 name: Sika
+name_zh: 西卡語
 autonym: Krowe
+alt_names: [Maumere, Sara Sikka, Sikka, Sikka u. Tettun, Sikkanese]
 population: 175000
 country_id: ID
 country_name: Indonesia

@@ -2,6 +2,7 @@
 iso: cao
 name: Chácobo
 autonym: "Chokobo-Pakawara"
+alt_names: [Chacobo, Chakobo-Pakawara, Chákobo, Shinabo]
 population: 550
 country_id: BO
 country_name: Bolivia

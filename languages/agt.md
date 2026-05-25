@@ -2,6 +2,7 @@
 iso: agt
 name: Central Cagayan Agta
 autonym: Cagayan Agta
+alt_names: [Agta, Agta (Central Cagayan), Agta (Central), Agta de Cagayan central, Agta de Cagayán central, "Agta, Central Cagayan", Central Agta, Central Cagayan]
 population: 780
 country_id: PH
 country_name: Philippines

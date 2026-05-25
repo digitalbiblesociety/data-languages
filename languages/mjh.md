@@ -2,6 +2,7 @@
 iso: mjh
 name: Mwera (Nyasa)
 autonym: Nyasa
+alt_names: [Kinyasa, Mwera, Nyanza]
 population: 6000
 country_id: TZ
 country_name: Tanzania

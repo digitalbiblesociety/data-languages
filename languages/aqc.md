@@ -1,7 +1,9 @@
 ---
 iso: aqc
 name: Archi
+name_zh: 阿奇语
 autonym: аршаттен чIат
+alt_names: [Archib, Archin, Archintsy, Archsel, Arshashdib, Artchi, Artschinische Sprache, Artšin kieli, Język arczyński, Língua archi, Арчинська мова, Арчски јазик, арчинский язык, არჩიბული ენა]
 population: 1000
 country_id: RU
 country_name: Russia

@@ -1,6 +1,7 @@
 ---
 iso: vol
 name: Volapük
+name_zh: 沃拉普克语
 autonym: Volapük nulik
 population: 20
 country_id: ZZ

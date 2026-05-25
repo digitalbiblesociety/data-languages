@@ -1,7 +1,9 @@
 ---
 iso: tcy
 name: Tulu
+name_zh: 图卢语
 autonym: ತುಳು
+alt_names: [Język tulu, Lingua Tuluva, Tal, Tallu, Thalu, Thulu, Tilu, Touloueg, Tullu, Tuluva Bhasa, Tulú, Tuḷu, Тулу, तुळु, துளு, తుళు, തുളു, ภาษาตูลู]
 population: 1850000
 country_id: IN
 country_name: India

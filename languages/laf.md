@@ -2,6 +2,7 @@
 iso: laf
 name: Lafofa
 autonym: Tegem–Amira
+alt_names: [Kidie, Tegem]
 population: 600
 country_id: SD
 country_name: Sudan

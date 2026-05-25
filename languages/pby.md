@@ -2,6 +2,7 @@
 iso: pby
 name: Pyu (Papua New Guinea)
 autonym: bahasa Pyu
+alt_names: [Pyu, Pyu language]
 population: 100
 country_id: PG
 country_name: Papua New Guinea

@@ -2,6 +2,7 @@
 iso: kai
 name: Karekare
 autonym: Karai Karai
+alt_names: [Karaikarai, Kerekere, Kerrikerri]
 population: 366000
 country_id: NG
 country_name: Nigeria

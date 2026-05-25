@@ -2,6 +2,7 @@
 iso: kxc
 name: Konso
 autonym: Af Kareti
+alt_names: [Af-Kareti, Conso, Gato, Karate, Kareti, Khonso, Komso]
 population: 243300
 country_id: ET
 country_name: Ethiopia

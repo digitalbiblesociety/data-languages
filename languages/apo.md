@@ -2,6 +2,7 @@
 iso: apo
 name: Ambul
 autonym: Apalik
+alt_names: [Palik]
 population: 370
 country_id: PG
 country_name: Papua New Guinea

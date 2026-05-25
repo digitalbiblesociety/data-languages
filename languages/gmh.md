@@ -1,7 +1,9 @@
 ---
 iso: gmh
 name: "Middle High German (ca. 1050-1500)"
+name_zh: 中古高地德语
 autonym: diutsch / tiutsch
+alt_names: ["German, Middle High (ca. 1050-1500)"]
 population: null
 country_id: DE
 country_name: Germany

@@ -1,7 +1,9 @@
 ---
 iso: keb
 name: Kélé
+name_zh: 克勒语
 autonym: Dikele
+alt_names: [Akele, Kele, Western Kele]
 population: 9230
 country_id: GA
 country_name: Gabon

@@ -2,6 +2,7 @@
 iso: kly
 name: Kalao
 autonym: Kalaotoa
+alt_names: [Lambego]
 population: 500
 country_id: ID
 country_name: Indonesia

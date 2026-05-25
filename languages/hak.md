@@ -1,7 +1,9 @@
 ---
 iso: hak
 name: Hakka Chinese
+name_zh: 客家语
 autonym: "客家話 / 客家话 Hak-kâ-fa"
+alt_names: [Bahasa Hakka, Chinese, "Chinese, Hakka", "Chinese,Hakka", Gan-Hakka, Hak-kâ-fa, Hakaa lingvo, Hakaeg, Hakka, Hakka Dialect Group, Hakka-kiina, Hakkaish, Hokka, Idioma Hakka, Język hakka, "K'e", "K'echia", Ke, Kechia, Kejia, Kejia (Hakka), Kheh-oē, Lingua hakka, Majiahua, Moi-yan dialect, Tiếng Khách Gia, Tu Guangdonghua, Xinminhua, Хакка, لغة الهاكا, ภาษาจีนแคะ, 客家話, 客家語, 客家话, 하카어]
 population: 48200000
 country_id: CN
 country_name: China

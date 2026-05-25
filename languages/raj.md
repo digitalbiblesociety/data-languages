@@ -1,6 +1,7 @@
 ---
 iso: raj
 name: Rajasthani
+name_zh: 拉贾斯坦语
 autonym: null
 population: 36000000
 country_id: IN

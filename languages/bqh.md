@@ -1,7 +1,9 @@
 ---
 iso: bqh
 name: Baima
+name_zh: 白马语
 autonym: Pe
+alt_names: [Bai Ma, ภาษาไบมา, 白馬語, 白马语]
 population: 11000
 country_id: CN
 country_name: China

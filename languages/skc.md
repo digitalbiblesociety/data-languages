@@ -2,6 +2,7 @@
 iso: skc
 name: Ma Manda
 autonym: Ma Manda
+alt_names: [Sauk]
 population: 600
 country_id: PG
 country_name: Papua New Guinea

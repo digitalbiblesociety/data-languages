@@ -1,7 +1,9 @@
 ---
 iso: heb
 name: Hebrew
+name_zh: 希伯来语
 autonym: Israeli Hebrew
+alt_names: [Hebrew (Modern Ashenazic), Hebrew (Modern), Hebrew (modern Ashkenazic), Ivrit, Modern Hebrew, hébreu]
 population: 5000000
 country_id: IL
 country_name: Israel

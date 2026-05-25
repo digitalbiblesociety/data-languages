@@ -1,7 +1,9 @@
 ---
 iso: zxx
 name: No linguistic content
+name_zh: 没有该语言的内容
 autonym: no linguistic content
+alt_names: [Not applicable]
 population: null
 country_id: ZZ
 country_name: Unknown or Invalid Territory

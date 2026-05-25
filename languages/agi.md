@@ -1,7 +1,9 @@
 ---
 iso: agi
 name: Agariya
+name_zh: 阿加利亚语
 autonym: Agaria
+alt_names: [Agharia, Agoria]
 population: 72000
 country_id: IN
 country_name: India

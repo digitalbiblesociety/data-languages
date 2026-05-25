@@ -2,6 +2,7 @@
 iso: gaz
 name: West Central Oromo
 autonym: Afaan Oromoo
+alt_names: ["\"Galla\"", Afan Oromo, Galla, Oromiffa, Oromo, Oromo (Mechaa), Oromo (West-Central), Oromo (Western), Oromo Proper, "Oromo, West Central", Oromoo, West-Central]
 population: 30000000
 country_id: ET
 country_name: Ethiopia

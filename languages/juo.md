@@ -1,7 +1,9 @@
 ---
 iso: juo
 name: Jiba
+name_zh: 吉巴语
 autonym: Kona
+alt_names: [Jibe, Jibi, Jibə, Jukun Kona]
 population: 2000
 country_id: NG
 country_name: Nigeria

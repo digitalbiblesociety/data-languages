@@ -1,6 +1,7 @@
 ---
 iso: bos
 name: Bosnian
+name_zh: 波斯尼亚语
 autonym: босански
 population: 3301000
 country_id: BA

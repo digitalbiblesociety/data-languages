@@ -2,6 +2,7 @@
 iso: stt
 name: Budeh Stieng
 autonym: Lower Stieng
+alt_names: [Budeh, Southern Stieng, Stieng, Stieng Budeh, "Stieng, Budeh"]
 population: null
 country_id: VN
 country_name: Vietnam

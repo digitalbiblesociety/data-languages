@@ -2,6 +2,7 @@
 iso: mnv
 name: "Rennell-Bellona"
 autonym: "Rennell-Bellona"
+alt_names: [Ren(n)ellese, Rennell, Rennell-Belona, Rennellese, Rennellese-Bellonese]
 population: 4390
 country_id: SB
 country_name: Solomon Islands

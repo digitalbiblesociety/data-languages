@@ -2,6 +2,7 @@
 iso: llf
 name: Hermit
 autonym: Agomes
+alt_names: [Admiralitäts-inseln, Luf, Maron]
 population: null
 country_id: PG
 country_name: Papua New Guinea

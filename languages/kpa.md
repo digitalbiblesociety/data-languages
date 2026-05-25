@@ -2,6 +2,7 @@
 iso: kpa
 name: Kutto
 autonym: Kupto
+alt_names: [Kúttò]
 population: 3000
 country_id: NG
 country_name: Nigeria

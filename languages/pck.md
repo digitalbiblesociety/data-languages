@@ -2,6 +2,7 @@
 iso: pck
 name: Paite Chin
 autonym: Zomi
+alt_names: [Chin, Chin (Paite), Chin paite, "Chin, Paite", "Chin,Paite", Haithe, Oarte, Paite, Paithe, Parte, Vuite, Zoukam]
 population: 79500
 country_id: IN
 country_name: India

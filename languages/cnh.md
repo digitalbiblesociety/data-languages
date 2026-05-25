@@ -1,7 +1,9 @@
 ---
 iso: cnh
 name: Hakha Chin
+name_zh: 哈卡钦语
 autonym: Laiṭong
+alt_names: [Baungshe, Baungshè, Chin, Chin (Central), Chin (Haka), Chin (Lai), "Chin, Haka", "Chin, Hakha", "Chin,Haka", Haka, Haka Chin, Hakha, Hakha Lai, Hakha-Chin language, Lai, Lai (in Burma), Lai (in Myanmar), Lai Chin, Lai Hawlh, Lai Pawi, Laizo, Pawi, Shonshe, হাকা চিন ভাষা, ဟားခါးချင်း]
 population: 170410
 country_id: MM
 country_name: Myanmar

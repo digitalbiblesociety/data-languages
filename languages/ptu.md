@@ -2,6 +2,7 @@
 iso: ptu
 name: Bambam
 autonym: Pitu Ulunna Salu
+alt_names: [Nordost-Celebes, Pitu Ilunna Salo, Pitu Ulunna Salo, Pitu-Ulunna-Salu]
 population: 42100
 country_id: ID
 country_name: Indonesia

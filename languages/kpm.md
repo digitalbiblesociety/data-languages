@@ -1,7 +1,9 @@
 ---
 iso: kpm
 name: Koho
+name_zh: 格賀語
 autonym: Kơho
+alt_names: [Caho, Coho, Kahov, Kohor, Kɤho, Sre, Srê, Srê (Köho)]
 population: 166000
 country_id: VN
 country_name: Vietnam

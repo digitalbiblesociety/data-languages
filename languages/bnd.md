@@ -2,6 +2,7 @@
 iso: bnd
 name: Banda Maluku
 autonym: null
+alt_names: [Banda, Banda (Indonesia)]
 population: 3000
 country_id: ID
 country_name: Indonesia

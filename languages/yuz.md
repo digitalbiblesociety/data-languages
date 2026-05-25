@@ -2,6 +2,7 @@
 iso: yuz
 name: Yuracare
 autonym: Yura
+alt_names: [Cuchi, Enete, Yourakareg, Yuracar, Yuracaré, Yuracaré language, Yurakare, Yurakaré, Yurucar, Yurujure, Юракаре]
 population: 1810
 country_id: BO
 country_name: Bolivia

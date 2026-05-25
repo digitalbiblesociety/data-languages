@@ -2,6 +2,7 @@
 iso: lpe
 name: Lepki
 autonym: bahasa Lepki
+alt_names: [Indonesia]
 population: 530
 country_id: ID
 country_name: Indonesia

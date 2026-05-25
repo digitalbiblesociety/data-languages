@@ -2,6 +2,7 @@
 iso: soe
 name: Songomeno
 autonym: Songomeno
+alt_names: [Democratic Republic of the Congo]
 population: 50000
 country_id: CD
 country_name: DR Congo

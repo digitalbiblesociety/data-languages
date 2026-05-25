@@ -2,6 +2,7 @@
 iso: ymq
 name: Qila Muji
 autonym: Bokha
+alt_names: [Doka, Muji, "Muji, Qila", "Muji,Qila", Mujitsu, Phula, Phutsu, Phuzu]
 population: 1500
 country_id: CN
 country_name: China

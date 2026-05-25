@@ -2,6 +2,7 @@
 iso: ndl
 name: Ndolo
 autonym: Mosange
+alt_names: [Dollo, Ndoolo, Tando]
 population: 8000
 country_id: CD
 country_name: DR Congo

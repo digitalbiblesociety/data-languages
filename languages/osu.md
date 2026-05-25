@@ -2,6 +2,7 @@
 iso: osu
 name: Southern One
 autonym: Aunalei
+alt_names: [Inebu One, Kabore One, Kuamtim, Kwamtim One, Molmo One, Northern One, One, "One, Southern", Onele, Oni]
 population: 200
 country_id: PG
 country_name: Papua New Guinea

@@ -2,6 +2,7 @@
 iso: sgu
 name: Salas
 autonym: Lenkaitahe
+alt_names: [Liambata, Salas Gunung]
 population: 50
 country_id: ID
 country_name: Indonesia

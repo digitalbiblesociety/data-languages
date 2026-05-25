@@ -1,6 +1,7 @@
 ---
 iso: tpi
 name: Tok Pisin
+name_zh: 巴布亚皮钦语
 autonym: Tok Pisin
 population: 125740
 country_id: PG

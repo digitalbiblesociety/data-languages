@@ -2,6 +2,7 @@
 iso: aif
 name: Agi
 autonym: null
+alt_names: [Metru]
 population: 960
 country_id: PG
 country_name: Papua New Guinea

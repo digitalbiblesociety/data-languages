@@ -1,7 +1,9 @@
 ---
 iso: ace
 name: Achinese
+name_zh: 亚齐语
 autonym: Basa Acèh
+alt_names: [Aceh, Acehnese, Acehnese language, Acehnesiska, Aceh’n kieli, Achehnese, Achen, Atjeh, Atjehnese, Atjehs, Atschin, Aĉea lingvo, Bahasa Aceh, Bahsa Acèh, Basa Aceh, Idioma achenés, Język aceh, Lingua achinesa, Língua achém, Ачехский язык, আচে ভাষা, ภาษาอาเจะห์, アチェ語]
 population: 3500000
 country_id: ID
 country_name: Indonesia

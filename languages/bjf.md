@@ -1,7 +1,9 @@
 ---
 iso: bjf
 name: "Barzani Jewish Neo-Aramaic"
+name_zh: 巴尔扎尼犹太阿拉姆语
 autonym: "לשניד דינן Lišānîd d-Jānān"
+alt_names: [Bijil Neo-Aramaic, Bijil neoaramejski, Central Jewish Neo-Aramaic, Djananeg, Judéo-araméen barszani (Iraq), Judéo-araméen barszani (Israël), Lishan Didan, Lishan Dideni, NENA, "Neo-Aramaic, Barzani Jewish", Neo-arameo judío barzani (Israel)]
 population: 20
 country_id: IL
 country_name: Israel

@@ -2,6 +2,7 @@
 iso: pof
 name: Poke
 autonym: Puki
+alt_names: [Tofoke, Topoke, Tovoke]
 population: 46000
 country_id: CD
 country_name: DR Congo

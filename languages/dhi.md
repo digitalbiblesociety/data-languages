@@ -1,7 +1,9 @@
 ---
 iso: dhi
 name: Dhimal
+name_zh: 狄摩語
 autonym: Dhemal
+alt_names: [DELETE IF NOT USED, Dhīmāl]
 population: 19750
 country_id: NP
 country_name: Nepal

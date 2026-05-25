@@ -1,7 +1,9 @@
 ---
 iso: jqr
 name: Jaqaru
+name_zh: 加嘎魯語
 autonym: Tupe
+alt_names: [Aru, Hakaru-Kauki, "Haq'aru", Haqaru, Haqearu, Jaqarú]
 population: 2000
 country_id: PE
 country_name: Peru

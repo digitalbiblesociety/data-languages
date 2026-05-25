@@ -2,6 +2,7 @@
 iso: ify
 name: "Keley-I Kallahan"
 autonym: Kallahan
+alt_names: [Antipolo Ifugao, Hanalulo, "Kallahan, Keley-I", Keley-I, Keley-I Kalanguya, Keleyqiq Ifugao]
 population: 8000
 country_id: PH
 country_name: Philippines

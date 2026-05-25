@@ -1,7 +1,9 @@
 ---
 iso: ojb
 name: Northwestern Ojibwa
+name_zh: 西北部奥吉布瓦语
 autonym: Northern Ojibwa
+alt_names: [Chippeway, Ojibwa, "Ojibwa, Northwestern", Ojibway, Ojibwe, Ojibwe du nord-ouest, Oyibua noroccidental, Salteaux, Saulteau, Saulteaux]
 population: 20000
 country_id: CA
 country_name: Canada

@@ -1,6 +1,7 @@
 ---
 iso: qya
 name: Quenya
+name_zh: 昆雅语
 autonym: Eldarin
 population: null
 country_id: ZZ

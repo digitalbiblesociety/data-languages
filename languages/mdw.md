@@ -2,6 +2,7 @@
 iso: mdw
 name: Mbosi
 autonym: Embosi
+alt_names: [Mbochi, Mboshe, Mboshi]
 population: 190000
 country_id: CG
 country_name: Congo

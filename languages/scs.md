@@ -2,6 +2,7 @@
 iso: scs
 name: North Slavey
 autonym: "Dene K'e"
+alt_names: ["Slavey, North"]
 population: 770
 country_id: CA
 country_name: Canada

@@ -1,7 +1,9 @@
 ---
 iso: cof
 name: Colorado
+name_zh: 萨菲吉语
 autonym: Colorado
+alt_names: [Campaz, Colima, Tsachila, Tsafiki, Tsafiqui, Tsa’fiki, Tsáchela, Tsáfiki]
 population: 2300
 country_id: EC
 country_name: Ecuador

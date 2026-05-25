@@ -1,7 +1,9 @@
 ---
 iso: maj
 name: Jalapa De Díaz Mazatec
+name_zh: 哈拉帕馬薩特克語
 autonym: "Mazatec, Jalapa de Díaz"
+alt_names: [Jalapa De Diaz Mazatec, Jalapa Masateko, Jalapa Mazatec, Lowland Mazatec, Masateko, Mazatec, Mazateco, Mazateco de San Felipe Jalapa de Díaz, Mazateco del este bajo, Mazatèque de Jalapa, Mazatèque des basses terres]
 population: 17500
 country_id: MX
 country_name: Mexico

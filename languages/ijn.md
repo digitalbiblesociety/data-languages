@@ -1,7 +1,9 @@
 ---
 iso: ijn
 name: Kalabari
+name_zh: 卡拉巴里语
 autonym: Ibani–Kalabari–Kirike
+alt_names: [Ịjọ]
 population: 482000
 country_id: NG
 country_name: Nigeria

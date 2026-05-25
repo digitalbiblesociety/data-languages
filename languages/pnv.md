@@ -2,6 +2,7 @@
 iso: pnv
 name: Pinigura
 autonym: Binigura
+alt_names: [Biniguru, Binnigoora, Binnigora, Binniguru, Pinikura, Pinikurra, Pinneegoora]
 population: null
 country_id: AU
 country_name: Australia

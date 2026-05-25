@@ -2,6 +2,7 @@
 iso: nrg
 name: Narango
 autonym: Farsaf
+alt_names: [Nambel, Several dialects.]
 population: 160
 country_id: VU
 country_name: Vanuatu

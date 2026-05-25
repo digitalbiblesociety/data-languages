@@ -1,7 +1,9 @@
 ---
 iso: ane
 name: Xârâcùù
+name_zh: 杭朗奇语
 autonym: Xârâcùù
+alt_names: [Anesu, Canala, Haraneu, Kanala, Neukaledonien, Xaracii, Xaracuu]
 population: 3780
 country_id: NC
 country_name: New Caledonia

@@ -2,6 +2,7 @@
 iso: atx
 name: Arutani
 autonym: Uruak
+alt_names: [Ahuaqué, Aoaqui, Aroutanieg, Arutana lingvo, Arutaní, Auake, Auaké, Auaqué, Awake, Awaké, Awaké-uruak, Idioma uruak, Macu, Maku, Oewacu, Oewaku, Orotani, Urutani, Uruák, Арутански јазик]
 population: 5
 country_id: BR
 country_name: Brazil

@@ -1,7 +1,9 @@
 ---
 iso: pkt
 name: Maleng
+name_zh: 马伦语
 autonym: Pakatan
+alt_names: [Hareme, Kha, Kri, Krìì, Malang, Malieng, Mã Liềng, Sô Salang]
 population: 1000
 country_id: LA
 country_name: Laos

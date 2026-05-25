@@ -1,7 +1,9 @@
 ---
 iso: ycl
 name: Lolopo
+name_zh: 彝语中部方言
 autonym: Central Yi
+alt_names: [Lolo, Lolopho, Yi, "Yi, Central"]
 population: 380000
 country_id: CN
 country_name: China

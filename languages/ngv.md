@@ -2,6 +2,7 @@
 iso: ngv
 name: Nagumi
 autonym: Ngong
+alt_names: [Bama, Mbama]
 population: null
 country_id: CM
 country_name: Cameroon

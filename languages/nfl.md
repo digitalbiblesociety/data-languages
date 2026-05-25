@@ -2,6 +2,7 @@
 iso: nfl
 name: Ayiwo
 autonym: Reef
+alt_names: [Aiwo, Aïwo, Gnivo, Lomlom, Naaude, Nifilole, Nivo, Reef Islands, Reef Islands-Santa Cruz Sub-Family, Reefs, Äiwo, Äiwoo, Äiwoo language]
 population: 8400
 country_id: SB
 country_name: Solomon Islands

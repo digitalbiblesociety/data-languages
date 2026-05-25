@@ -1,7 +1,9 @@
 ---
 iso: hif
 name: Fiji Hindi
+name_zh: 斐濟印地語
 autonym: फ़िजी बातFiji Baat
+alt_names: [Fidżyjsko godka hindi, Fidži hindi, Fidžių hindi kalba, Fijian Hindi, Fijian Hindustani, Fijiansk hindi, Fijisch Hindoestani, Hindi des Fidji, Hindi fidżyjskie, "Hindi, Fiji", "Hindustani, Fijian", Língua hindi fidjiana, Фиджийский хинди, फ़ीजी हिन्दी, फिजी हिन्दी, フィジー・ヒンディー語, 피지 힌디어]
 population: 198380
 country_id: FJ
 country_name: Fiji

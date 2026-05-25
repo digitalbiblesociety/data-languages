@@ -1,7 +1,9 @@
 ---
 iso: lme
 name: Pévé
+name_zh: 裴韋語
 autonym: Lamé
+alt_names: ["\"Kado\"", "Ka'do", "Ka'do Pevé", Lame, Peve, Zime]
 population: 35720
 country_id: TD
 country_name: Chad

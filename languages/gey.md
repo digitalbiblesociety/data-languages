@@ -2,6 +2,7 @@
 iso: gey
 name: Enya
 autonym: Genya
+alt_names: [Ena, Tsheenya]
 population: 15000
 country_id: CD
 country_name: DR Congo

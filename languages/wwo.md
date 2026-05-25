@@ -2,6 +2,7 @@
 iso: wwo
 name: Wetamut
 autonym: Dōrig
+alt_names: [Banks-Inseln, Dorig]
 population: 160
 country_id: VU
 country_name: Vanuatu

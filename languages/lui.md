@@ -1,7 +1,9 @@
 ---
 iso: lui
 name: Luiseno
+name_zh: 卢伊塞诺语
 autonym: "Cham'teela"
+alt_names: [Chamtéela, Louisenheg, Luiseno-Juaneno, Luiseño, Luiseño language, Luiseño-Juaneño]
 population: null
 country_id: US
 country_name: United States

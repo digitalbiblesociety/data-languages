@@ -2,6 +2,7 @@
 iso: bww
 name: Bwa
 autonym: "Benge-Baati"
+alt_names: [Boa, Boua, Bua, Kibua, Kibwa, Libenge, Libua, Libwali]
 population: 200000
 country_id: CD
 country_name: DR Congo

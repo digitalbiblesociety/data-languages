@@ -2,6 +2,7 @@
 iso: mrp
 name: Morouas
 autonym: Morouas
+alt_names: [Ko, Mores, Moruas]
 population: 150
 country_id: VU
 country_name: Vanuatu

@@ -2,6 +2,7 @@
 iso: jle
 name: Ngile
 autonym: Daloka
+alt_names: [Darra, Masakin, Mesakin, Taloca, Taloka]
 population: 11700
 country_id: SD
 country_name: Sudan

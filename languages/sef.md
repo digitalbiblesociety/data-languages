@@ -2,6 +2,7 @@
 iso: sef
 name: Cebaara Senoufo
 autonym: Senari
+alt_names: [Senadi, "Senoufo, Cebaara", Senoufou (Cebaara), Syenere, Tara, Tiebaara, Tyebaara Senoufo, Tyebala]
 population: 862000
 country_id: CI
 country_name: "Côte d'Ivoire"

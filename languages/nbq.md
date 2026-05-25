@@ -2,6 +2,7 @@
 iso: nbq
 name: Nggem
 autonym: bahasa Nggem
+alt_names: [Indonesia]
 population: 4400
 country_id: ID
 country_name: Indonesia

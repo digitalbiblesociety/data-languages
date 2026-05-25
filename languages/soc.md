@@ -2,6 +2,7 @@
 iso: soc
 name: So (Democratic Republic of Congo)
 autonym: So
+alt_names: [Eso, Gesogo, Heso, Soa, Soko]
 population: 6000
 country_id: CD
 country_name: DR Congo

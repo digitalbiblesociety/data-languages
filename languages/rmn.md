@@ -2,6 +2,7 @@
 iso: rmn
 name: Balkan Romani
 autonym: Balkaniko Romanes
+alt_names: [Balkan, Bugurdz, Bugurdzi, Cigány, European Romany, Gypsy, Romani, Romani (Ajia Varvara), Romani (Bugurdzi), "Romani, Balkan", Romany, Zigeuner]
 population: 602840
 country_id: RS
 country_name: Serbia

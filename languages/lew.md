@@ -2,6 +2,7 @@
 iso: lew
 name: Ledo Kaili
 autonym: Ledo
+alt_names: [Kaili, Kaili (Ledo), "Kaili, Ledo", Paloesch, Palu]
 population: 215000
 country_id: ID
 country_name: Indonesia

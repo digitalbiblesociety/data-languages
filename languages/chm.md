@@ -1,6 +1,7 @@
 ---
 iso: chm
 name: Mari (Russia)
+name_zh: 马里语
 autonym: марий йылме
 population: 470000
 country_id: RU

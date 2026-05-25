@@ -2,6 +2,7 @@
 iso: ldq
 name: Lufu
 autonym: null
+alt_names: [Lufueg, Nigeria]
 population: 3200
 country_id: NG
 country_name: Nigeria

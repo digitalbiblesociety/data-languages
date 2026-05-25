@@ -2,6 +2,7 @@
 iso: nxd
 name: Ngando (Democratic Republic of Congo)
 autonym: Longandu
+alt_names: [Ngando, Ngandu]
 population: 220000
 country_id: CD
 country_name: DR Congo

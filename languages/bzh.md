@@ -2,6 +2,7 @@
 iso: bzh
 name: Mapos Buang
 autonym: Central Buang
+alt_names: ["Buang, Mapos", Mapos]
 population: 7000
 country_id: PG
 country_name: Papua New Guinea

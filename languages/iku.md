@@ -1,6 +1,7 @@
 ---
 iso: iku
 name: Inuktitut
+name_zh: 伊努克提图特语
 autonym: ᐃᓄᒃᑎᑐᑦ
 population: 36220
 country_id: CA

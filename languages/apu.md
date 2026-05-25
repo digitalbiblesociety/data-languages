@@ -2,6 +2,7 @@
 iso: apu
 name: Apurinã
 autonym: Ipurina
+alt_names: [Apurina, Apuriná, Cacharary, Cangaiti, Ipuriná, Ipurinãn, Kangite, Popengare]
 population: 6990
 country_id: BR
 country_name: Brazil

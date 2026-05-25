@@ -1,7 +1,9 @@
 ---
 iso: kdx
 name: Kam
+name_zh: 宁沃姆语
 autonym: Kam
+alt_names: [Nyimwomeg, Nyingwom, Nyiwom, Yimwom, 𐌽𐌾𐌹𐌼𐍅𐍉𐌼𐌰𐍂𐌰𐌶𐌳𐌰]
 population: 5000
 country_id: NG
 country_name: Nigeria

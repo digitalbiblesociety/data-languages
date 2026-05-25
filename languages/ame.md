@@ -2,6 +2,7 @@
 iso: ame
 name: "Yanesha'"
 autonym: Yaneshac̈h
+alt_names: [Amage, Amagues, Amaje, Amajo, Amoesha, Amoishe, Amueixa, Amuese, Amuesha, Amuetamo, Amuexa, Lorenzo, Omage, Yanesha]
 population: 7520
 country_id: PE
 country_name: Peru

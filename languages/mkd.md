@@ -1,7 +1,9 @@
 ---
 iso: mkd
 name: Macedonian
+name_zh: 马其顿语
 autonym: македонскиmakedonski
+alt_names: [An Mhacadóinis, Bahasa Macedonia, Bahasa Makedonia, Gjuha sllavomaqedone, Idioma macedonio, Język macedoński, Lengua maçedone, Limba macedoneană, Lingua Macedonica moderna, Lingua macedone, Lingua macedonia, Lingua macèdoni, Língua macedônia, Macedonian Slavic, Macedoniana linguo, Macedonie leid, Macedonies, Macedonisch, Macedoniu, Macedònic, Macedón nyelv, Macedónčina, Macedůńsko godka, Macédonien, Makedon dili, Makedona lingvo, Makedonca, Makedonek, Makedoniagiella, Makedonian kieli, Makedonsk, Makedonska, Makedonski, Makedonski jezik, Makedonština, Makedonšćina, Makedonščina, Makedonų kalba, Makedoonia keel, Makedońska rěc, Makedónska, Makidunya simi, Mazedoniera, Mazedonische Sprache, Maķedoniešu valoda, Slavic, Σλαβομακεδονική γλώσσα, Забони мақдунӣ, Македонская мова, Македонски език, Македонски јазик, Македонски језик, Македонский язык, Македонська мова, Макєдо́ньскъ ѩꙁꙑ́къ, מקדונית, لغة مقدونية, ماكېدون تىلى, मेसिडोनियन भाषा, ภาษามาซิโดเนีย, მაკედონური ენა, マケドニア語, 马其顿语, 마케도니아어]
 population: 1713880
 country_id: MK
 country_name: North Macedonia

@@ -2,6 +2,7 @@
 iso: fuj
 name: Ko
 autonym: Ko
+alt_names: [Fungor, Fungur, Kau]
 population: 2680
 country_id: SD
 country_name: Sudan

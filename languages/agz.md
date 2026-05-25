@@ -2,6 +2,7 @@
 iso: agz
 name: Mt. Iriga Agta
 autonym: West Buhi Agta
+alt_names: ["Agta, Mt. Iriga", Bikol, Lake Buhi West, Mt. Iriga Negrito, San Ramon Inagta]
 population: 1500
 country_id: PH
 country_name: Philippines

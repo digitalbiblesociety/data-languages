@@ -2,6 +2,7 @@
 iso: cou
 name: Wamey
 autonym: Konyagi
+alt_names: [Cogniagui, Conhague, Coniagui, Koniagi, Koniagui, Tenda, Wamay, Wamei]
 population: 50200
 country_id: SN
 country_name: Senegal

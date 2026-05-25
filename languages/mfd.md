@@ -2,6 +2,7 @@
 iso: mfd
 name: "Mendankwe-Nkwen"
 autonym: Mandankwe
+alt_names: [Mendankwe]
 population: 23100
 country_id: CM
 country_name: Cameroon

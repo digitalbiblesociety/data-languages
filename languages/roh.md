@@ -1,7 +1,9 @@
 ---
 iso: roh
 name: Romansh
+name_zh: 罗曼什语
 autonym: rumantsch
+alt_names: [Bahasa Romansh, Erromantxera, Grishun, Język romansz, Kirumanj, Lenghe romanze, Limba retoromană, Lingua retorrománica, Lingua rhetoroman, Lingua romancia, Língua romanche, Reto-Roemaans, Reto-Romaans, Retoromaani, Retoromansk, Retoromanų kalba, Retoromāņu valoda, Rhaeto-Romance, Rhaeto-Romansch, Rhaeto-Romansch (Scharans), Rheto-Romance, Rhäto-Romanisch, Romanch, Romanche, Romancica lingua, Romanisch, Romans nyelv, Romansch, Romansch (Scharans), Romansch (Surmeiran), Romansch (Sursilvan), Romanx, Romanĉa lingvo, Romanşça, Romanš, Romaunsch, Romañcheg, Roumancho, Roumantche, Roumantsh, Rumancc, Rumanch, Rumantsch dal Grischun, Rumauntsch, Rätoromanesch, Rätoromanisch, Rätoromanische Sprache, Rätoromanska, Rætoromansk, Rétorománština, Scharans dialect, Švajčiarska rétorománčina, Ρομανσική γλώσσα, Ретороманонь кяль, Ретороманська мова, Романш, Романшский язык, Рэтараманская мова, רומאנש, لغة رومانشية, உரோமாஞ்சு மொழி, რეტორომანული ენა, ሮማንሽ, ロマンシュ語, 罗曼什语, 로만슈어]
 population: 40000
 country_id: CH
 country_name: Switzerland

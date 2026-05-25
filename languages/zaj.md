@@ -2,6 +2,7 @@
 iso: zaj
 name: Zaramo
 autonym: Dzalamo
+alt_names: [Kizaramo, Myagatwa, Saramo, Zalamo, Zaramu]
 population: 657000
 country_id: TZ
 country_name: Tanzania

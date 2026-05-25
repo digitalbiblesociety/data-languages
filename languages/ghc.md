@@ -1,7 +1,9 @@
 ---
 iso: ghc
 name: "Hiberno-Scottish Gaelic"
+name_zh: 古典蓋爾語
 autonym: Gaoidhealg
+alt_names: ["Gaelic, Hiberno-Scottish"]
 population: null
 country_id: GB
 country_name: United Kingdom

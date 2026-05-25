@@ -1,7 +1,9 @@
 ---
 iso: guw
 name: Gun
+name_zh: 袞語
 autonym: gungbe
+alt_names: [Alada, Alada-Gbe, Aladian, Egun, Goun, Gu, Gugbe, Gun-Alada, Gun-Gbe, Seto-Gbe, Toli-Gbe]
 population: 1139000
 country_id: BJ
 country_name: Benin

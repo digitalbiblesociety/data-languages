@@ -2,6 +2,7 @@
 iso: spm
 name: Akukem
 autonym: Akukem
+alt_names: [Sepen]
 population: 650
 country_id: PG
 country_name: Papua New Guinea

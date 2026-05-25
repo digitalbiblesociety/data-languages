@@ -2,6 +2,7 @@
 iso: rkh
 name: "Rakahanga-Manihiki"
 autonym: "Manihiki-Rakahanga"
+alt_names: [Manihiki, Rakahanga-manihikin kieli]
 population: 2500
 country_id: CK
 country_name: Cook Islands

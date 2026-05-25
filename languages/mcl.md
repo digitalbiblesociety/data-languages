@@ -2,6 +2,7 @@
 iso: mcl
 name: Macaguaje
 autonym: null
+alt_names: [Kakawahe, Piojé, Secoya]
 population: null
 country_id: CO
 country_name: Colombia

@@ -2,6 +2,7 @@
 iso: onx
 name: Onin Based Pidgin
 autonym: null
+alt_names: [Indonesia]
 population: 500
 country_id: ID
 country_name: Indonesia

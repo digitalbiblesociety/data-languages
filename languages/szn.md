@@ -2,6 +2,7 @@
 iso: szn
 name: Sula
 autonym: Sanana
+alt_names: [Sulaic]
 population: 20000
 country_id: ID
 country_name: Indonesia

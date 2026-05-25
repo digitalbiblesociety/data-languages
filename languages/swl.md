@@ -1,7 +1,9 @@
 ---
 iso: swl
 name: Swedish Sign Language
+name_zh: 瑞典手语
 autonym: Svenskt Teckenspråk
+alt_names: [Ruotsalainen viittomakieli, Svensk tegnspråk, Svenska Teckenspråket]
 population: 8000
 country_id: SE
 country_name: Sweden

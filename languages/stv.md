@@ -2,6 +2,7 @@
 iso: stv
 name: "Silt'e"
 autonym: ስልጥኘ
+alt_names: [East Gurage, Gurage, Selti, "Silt'i", Silte, Silti]
 population: 881000
 country_id: ET
 country_name: Ethiopia

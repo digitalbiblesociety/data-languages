@@ -2,6 +2,7 @@
 iso: bbv
 name: Karnai
 autonym: Barim
+alt_names: [Karnai language]
 population: 920
 country_id: PG
 country_name: Papua New Guinea

@@ -2,6 +2,7 @@
 iso: dkk
 name: Dakka
 autonym: bahasa Dakka
+alt_names: [Nordost-Celebes]
 population: 1500
 country_id: ID
 country_name: Indonesia

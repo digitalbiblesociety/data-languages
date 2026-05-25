@@ -2,6 +2,7 @@
 iso: wnd
 name: Wandarang
 autonym: Wandaran
+alt_names: [Wamdarang, Wandarung, Wanderang, Wangarong, Warndarang, Warndarrang, Wuyarrawala]
 population: null
 country_id: AU
 country_name: Australia

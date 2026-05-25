@@ -2,6 +2,7 @@
 iso: gox
 name: Gobu
 autonym: Gabou
+alt_names: [Gabu, Gubu, Ngobo, Ngobu]
 population: 12000
 country_id: CD
 country_name: DR Congo

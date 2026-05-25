@@ -1,7 +1,9 @@
 ---
 iso: haq
 name: Ha
+name_zh: 哈语
 autonym: Ikiha
+alt_names: [Giha, Kiha]
 population: 1230000
 country_id: TZ
 country_name: Tanzania

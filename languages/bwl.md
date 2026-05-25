@@ -2,6 +2,7 @@
 iso: bwl
 name: Bwela
 autonym: Buela
+alt_names: [Lingi]
 population: 8400
 country_id: CD
 country_name: DR Congo

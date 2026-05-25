@@ -2,6 +2,7 @@
 iso: dbb
 name: Deno
 autonym: Be
+alt_names: [Denawa, Denwa, Kuba, Kubawa, Kubi]
 population: 6000
 country_id: NG
 country_name: Nigeria

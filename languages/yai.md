@@ -1,7 +1,9 @@
 ---
 iso: yai
 name: Yagnobi
+name_zh: 亞爾諾比語
 autonym: " йағнобӣ зивок"
+alt_names: [Jaghnobi, Jaghnóbština, Jagnoba lingvo, Jagnobin kieli, Lingua iagnobí, Yaghnabi, Yaghnob, Yaghnobi, Yaghnobi language, Yagnob, Yagnobí, yaγnobīˊ zivók, Ягнобски език, Ягнобский язык, Ягънобаг æвзаг, زبان یغنابی, ภาษายักโนบี]
 population: 12000
 country_id: TJ
 country_name: Tajikistan

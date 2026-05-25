@@ -2,6 +2,7 @@
 iso: wrn
 name: Warnang
 autonym: Warnang
+alt_names: [Warnango, Werni]
 population: 1100
 country_id: SD
 country_name: Sudan

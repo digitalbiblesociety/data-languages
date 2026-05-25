@@ -2,6 +2,7 @@
 iso: grd
 name: "Guruntum-Mbaaru"
 autonym: "Guruntum-Mbaaru"
+alt_names: [Gurdu-mbaaru, Gurdung, Guruntum, Guruntum language, Gùrdùŋ, Gùrùntùm, Tala]
 population: 15000
 country_id: NG
 country_name: Nigeria

@@ -2,6 +2,7 @@
 iso: sbb
 name: Simbo
 autonym: Madeggusu
+alt_names: [Mandeghughusu, Sibo]
 population: 2700
 country_id: SB
 country_name: Solomon Islands

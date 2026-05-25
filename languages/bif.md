@@ -1,7 +1,9 @@
 ---
 iso: bif
 name: Biafada
+name_zh: 比亚法达语
 autonym: Beafada
+alt_names: [Bedfola, Biafar, Bidyola, Fada, Ganjoola, Joolaa, Njoola, Yola]
 population: 54500
 country_id: GW
 country_name: "Guinea-Bissau"

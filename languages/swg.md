@@ -1,7 +1,9 @@
 ---
 iso: swg
 name: Swabian
+name_zh: 施瓦本语
 autonym: Schwäbisch
+alt_names: [Dialetto svevo, Idioma suabo, Lengua sveva, Lingua Suebica, Schwabisk, Schwaebisch, Schwäbische Dialekte, Schwäbsch, Souabe, Suabian, Swabeg, Swabian German, Swabiese Duits, Zwabisch]
 population: 819000
 country_id: DE
 country_name: Germany

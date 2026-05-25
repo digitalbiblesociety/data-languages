@@ -2,6 +2,7 @@
 iso: bks
 name: Northern Sorsoganon
 autonym: Masbate Sorsogon
+alt_names: [Bisaya, Northern Sorsogon, "Sorsoganon, Northern", Sorsogon Bicolano, "Sorsogon, Masbate"]
 population: 85000
 country_id: PH
 country_name: Philippines

@@ -2,6 +2,7 @@
 iso: uiv
 name: Iyive
 autonym: Uive
+alt_names: [Asumbo, Ndir, Yiive]
 population: 1000
 country_id: CM
 country_name: Cameroon

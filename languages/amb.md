@@ -2,6 +2,7 @@
 iso: amb
 name: Ambo
 autonym: null
+alt_names: [Andoa, Arabela, Arabela-Andoa, Chiripuno]
 population: 1000
 country_id: NG
 country_name: Nigeria

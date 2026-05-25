@@ -2,6 +2,7 @@
 iso: kei
 name: Kei
 autonym: Kai
+alt_names: [Kei-Fordata, Keiese, Veveu Evav]
 population: 4500
 country_id: ID
 country_name: Indonesia

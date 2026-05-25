@@ -2,6 +2,7 @@
 iso: alu
 name: "'Are'are"
 autonym: Areare
+alt_names: [Südliche Salomons-Inseln, ʻAreʻare, ’Are’are jezik]
 population: 17900
 country_id: SB
 country_name: Solomon Islands

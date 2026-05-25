@@ -1,7 +1,9 @@
 ---
 iso: pmf
 name: Pamona
+name_zh: 帕莫纳语
 autonym: Bare’e
+alt_names: ["Bare'e", Baree, Poso]
 population: 77900
 country_id: ID
 country_name: Indonesia

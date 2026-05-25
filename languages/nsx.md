@@ -2,6 +2,7 @@
 iso: nsx
 name: Nsongo
 autonym: Nsongo
+alt_names: [Songo, Sungu]
 population: 50000
 country_id: AO
 country_name: Angola

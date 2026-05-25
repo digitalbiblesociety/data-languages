@@ -1,6 +1,7 @@
 ---
 iso: afh
 name: Afrihili
+name_zh: Afrihili語
 autonym: "Ɛl-Afrihili"
 population: null
 country_id: ZZ

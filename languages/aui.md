@@ -2,6 +2,7 @@
 iso: aui
 name: Anuki
 autonym: null
+alt_names: [Gabobora]
 population: 900
 country_id: PG
 country_name: Papua New Guinea

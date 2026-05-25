@@ -2,6 +2,7 @@
 iso: old
 name: Mochi
 autonym: Central Chaga
+alt_names: [Chaga, Chagga, Kimochi, Kimoshi, Moshi, Mosi, Old Moshi]
 population: 362000
 country_id: TZ
 country_name: Tanzania

@@ -2,6 +2,7 @@
 iso: oos
 name: Old Ossetic
 autonym: null
+alt_names: ["Ossetic, Old"]
 population: null
 country_id: RU
 country_name: Russia

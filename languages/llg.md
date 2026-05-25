@@ -2,6 +2,7 @@
 iso: llg
 name: Lole
 autonym: Central Rote
+alt_names: ["Ba'a", Baä, Loleh, Rote, Rote Tengah, Roti, Rotinese]
 population: 20000
 country_id: ID
 country_name: Indonesia

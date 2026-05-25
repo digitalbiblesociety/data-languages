@@ -1,7 +1,9 @@
 ---
 iso: ibd
 name: Iwaidja
+name_zh: 伊瓦加語
 autonym: Eiwaja
+alt_names: [Adawuli, Djalakuru, Eae warge ga, Eae-warge-ga, Eaewandja, Eaewardja, Eaewarga, Eawaitja, Eewardja, Gaari, Gari, Garrig, Ibadjo, Idjduwa, Ilkar, Iwadja, Iwaidjan, Iwaidji, Iwaija, Iwaiji, Iwaja, Iwaji, Iwaydja, Iyi, Jaako, Jewitcha, "Ji:wadja", Jiwadja, Jiwadza, Jiwaidja, Juwadja, Karadjee, Limba, Limba Kar adjee, Limba Karadjee, Limba-Karadjee, Limbakaraja, Manduwid, Marlgu, Ngadalwuli, Oidbi, Oitbi, Tarula, Unalla, Uruku, Uwaidja, Wurango, Yiwadja, Yiwadya, Yiwaidja, Yiwaydja, Yiwayja, Ивайдя]
 population: 150
 country_id: AU
 country_name: Australia

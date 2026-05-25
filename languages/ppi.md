@@ -2,6 +2,7 @@
 iso: ppi
 name: Paipai
 autonym: "Akwa'ala"
+alt_names: [Cuñeil, "Pai'pai", Paipái]
 population: 300
 country_id: MX
 country_name: Mexico

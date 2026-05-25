@@ -2,6 +2,7 @@
 iso: peb
 name: Eastern Pomo
 autonym: Clear Lake Pomo
+alt_names: [Clear Lake, E Pomo, E. Pomo, East Pomo, Eastern, Eastern Pomoan Subfamily, Oostelijk Pomo, Pomo, Pomo (Eastern), Pomo oriental, "Pomo, Eastern", Pomoan, Southeast Clear Lake Pomo, West Clear Lake Pomo]
 population: null
 country_id: US
 country_name: United States

@@ -2,6 +2,7 @@
 iso: lwg
 name: Wanga
 autonym: Luyia
+alt_names: [Oluwanga]
 population: null
 country_id: KE
 country_name: Kenya

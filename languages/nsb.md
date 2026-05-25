@@ -2,6 +2,7 @@
 iso: nsb
 name: "Lower Nossob\r"
 autonym: null
+alt_names: [Lower Nossob]
 population: null
 country_id: ZA
 country_name: South Africa

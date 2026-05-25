@@ -1,7 +1,9 @@
 ---
 iso: gro
 name: Groma
+name_zh: 卓木语
 autonym: Tromo
+alt_names: [Gromeg, Tromawa, Tromowa, Ґрома]
 population: 12800
 country_id: CN
 country_name: China

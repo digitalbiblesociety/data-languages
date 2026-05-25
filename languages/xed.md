@@ -2,6 +2,7 @@
 iso: xed
 name: Hdi
 autonym: Xədi
+alt_names: [Ftour, Hde, Hedi, Hide, Tourou, Tur, Turu, Turu-Hide, Xadi, Xdi, Xedi]
 population: 29000
 country_id: CM
 country_name: Cameroon

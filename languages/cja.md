@@ -1,7 +1,9 @@
 ---
 iso: cja
 name: Western Cham
+name_zh: 占语
 autonym: Cambodian Cham
+alt_names: [Cambodian, Cham, Cham (West), Cham (Western), "Cham de l'ouest", "Cham, Western", Chamo occidental, Chiem, New Cham, Tjam]
 population: 291000
 country_id: KH
 country_name: Cambodia

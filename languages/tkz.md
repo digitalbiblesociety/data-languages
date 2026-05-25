@@ -1,7 +1,9 @@
 ---
 iso: tkz
 name: Takua
+name_zh: 谢古语
 autonym: Langya
+alt_names: [Duan, Kotua, Quang Tin Katu]
 population: 12800
 country_id: VN
 country_name: Vietnam

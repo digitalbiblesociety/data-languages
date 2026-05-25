@@ -1,7 +1,9 @@
 ---
 iso: oty
 name: Old Tamil
+name_zh: 古泰米尔语
 autonym: null
+alt_names: ["Tamil, Old"]
 population: null
 country_id: IN
 country_name: India

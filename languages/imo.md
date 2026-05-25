@@ -2,6 +2,7 @@
 iso: imo
 name: Imbongu
 autonym: Kakoli
+alt_names: [Imbo Ungu]
 population: 30000
 country_id: PG
 country_name: Papua New Guinea

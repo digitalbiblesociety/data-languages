@@ -2,6 +2,7 @@
 iso: dmy
 name: Demta
 autonym: Sowari
+alt_names: [Muris]
 population: 1300
 country_id: ID
 country_name: Indonesia

@@ -2,6 +2,7 @@
 iso: thr
 name: Rana Tharu
 autonym: (polyphyletic)
+alt_names: [Rana Thakur, "Tharu, Rana"]
 population: 486000
 country_id: NP
 country_name: Nepal

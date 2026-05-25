@@ -2,6 +2,7 @@
 iso: nti
 name: Natioro
 autonym: Koo’ra
+alt_names: ["Koo'ra", Natjoro, Natyoro, Samukune]
 population: 2400
 country_id: BF
 country_name: Burkina Faso

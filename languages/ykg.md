@@ -1,7 +1,9 @@
 ---
 iso: ykg
 name: Northern Yukaghir
+name_zh: 冻原尤卡吉尔语
 autonym: Вадул ауру (Wadul aruu)
+alt_names: [Jukagir, Jukagirisch, Nordjukagiriska, Nordjukagirsk språk, Northern Yukagir, Odul, Sjevernojukagirski jezik, Tundra, Tundra Yukaghir, Tundra Yukaghir language, Tundra Yukagir, Tundra dialect, Tundre, Vadul Yukaghir, Youkagireg an hanternoz, Yukaghir, Yukaghir (Northern), Yukaghir (Tundra), "Yukaghir, Northern", Yukagir, cеверноюкагирский язык, pohjoisjukagiirin kieli, Вадун аруу, Северноюкагирский язык, вадульский юкагирский язык]
 population: 370
 country_id: RU
 country_name: Russia

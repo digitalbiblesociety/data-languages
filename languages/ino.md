@@ -2,6 +2,7 @@
 iso: ino
 name: "Inoke-Yate"
 autonym: Yate
+alt_names: [Inoke, Yate Proper, Yatê]
 population: 10000
 country_id: PG
 country_name: Papua New Guinea

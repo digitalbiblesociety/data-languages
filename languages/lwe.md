@@ -2,6 +2,7 @@
 iso: lwe
 name: Lewo Eleng
 autonym: bahasa Lewo Eleng
+alt_names: [Indonesia]
 population: 4000
 country_id: ID
 country_name: Indonesia

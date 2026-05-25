@@ -2,6 +2,7 @@
 iso: kxx
 name: Likuba
 autonym: Likuba
+alt_names: [Kuba]
 population: 53000
 country_id: CG
 country_name: Congo

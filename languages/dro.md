@@ -2,6 +2,7 @@
 iso: dro
 name: "Daro-Matu Melanau"
 autonym: null
+alt_names: ["Melanau, Daro-Matu"]
 population: 2800
 country_id: MY
 country_name: Malaysia

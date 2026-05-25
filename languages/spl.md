@@ -2,6 +2,7 @@
 iso: spl
 name: Selepet
 autonym: null
+alt_names: [Selepe]
 population: 7240
 country_id: PG
 country_name: Papua New Guinea

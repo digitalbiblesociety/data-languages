@@ -1,7 +1,9 @@
 ---
 iso: hmj
 name: Ge
+name_zh: ⿰亻革家话
 autonym: " Zhong'an River Miao"
+alt_names: [Abefang, Beba-Befang, Befang, Bifang, "Chong'anjiang Miao", Gejia, Hmo, Hmong, "Hmong, Chonganjiang", Hmung, Hsiung, Hunan Miao, Miao]
 population: 60000
 country_id: CN
 country_name: China

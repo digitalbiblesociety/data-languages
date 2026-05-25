@@ -2,6 +2,7 @@
 iso: oni
 name: Onin
 autonym: Onim
+alt_names: [Sepa]
 population: 500
 country_id: ID
 country_name: Indonesia

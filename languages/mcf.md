@@ -2,6 +2,7 @@
 iso: mcf
 name: Matsés
 autonym: Mayoruna
+alt_names: [Magirona, Majoruna, Majoruna-Matsés, Majuruna, Matis, Matse, Matses, Matseseg, Matsés (Perú), Maxirona, Maxuruna, Mayiruna, Mayoruna (Brésil), Mayoruna (Pérou), Mayoruna-Matsés, Mayuzuna, 𐌼𐌰𐍄𐍃𐌴𐍃𐌰𐍂𐌰𐌶𐌳𐌰]
 population: 6500
 country_id: PE
 country_name: Peru

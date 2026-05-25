@@ -1,7 +1,9 @@
 ---
 iso: khq
 name: Koyra Chiini Songhay
+name_zh: 西桑海语
 autonym: Songai
+alt_names: [Koyra Chiini, Koyra Chiini dialect, Koyra-Chiini, Songay, Songhai, Songhay, Songhay (Koyra Chiini), "Songhay, Koyra Chiini", Songhoy, Songoi, Songoy, Sonrai, Sonrhai, Timbuktu Songhoy, West Songhoy]
 population: 200000
 country_id: ML
 country_name: Mali

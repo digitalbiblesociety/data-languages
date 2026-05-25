@@ -2,6 +2,7 @@
 iso: toy
 name: Topoiyo
 autonym: bahasa Topoiyo
+alt_names: [Indonesia]
 population: 2000
 country_id: ID
 country_name: Indonesia

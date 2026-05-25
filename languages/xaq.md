@@ -1,6 +1,7 @@
 ---
 iso: xaq
 name: Aquitanian
+name_zh: 阿基坦语
 autonym: null
 population: null
 country_id: FR

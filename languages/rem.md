@@ -2,6 +2,7 @@
 iso: rem
 name: Remo
 autonym: Môa Remo
+alt_names: [Kukuini, Rheno, Sakuya]
 population: null
 country_id: PE
 country_name: Peru

@@ -1,7 +1,9 @@
 ---
 iso: szc
 name: Semaq Beri
+name_zh: 塞莫克贝里语
 autonym: Semoq Beri
+alt_names: [Semaq Bri, Ulu Tembeling]
 population: 3545
 country_id: MY
 country_name: Malaysia

@@ -2,6 +2,7 @@
 iso: toz
 name: To
 autonym: null
+alt_names: ["Central African Republic, Cameroon"]
 population: null
 country_id: CM
 country_name: Cameroon

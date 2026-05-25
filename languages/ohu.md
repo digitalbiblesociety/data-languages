@@ -2,6 +2,7 @@
 iso: ohu
 name: Old Hungarian
 autonym: null
+alt_names: ["Hungarian, Old"]
 population: null
 country_id: HU
 country_name: Hungary

@@ -1,7 +1,9 @@
 ---
 iso: nez
 name: Nez Perce
+name_zh: 内兹珀斯语
 autonym: Niimiipuutímt
+alt_names: [Chopunnish, Nez-percé, Nez-percés, Nimipu, Numipu, Nuumiipuutimt, Nuumiipuutímt, Shahaptan]
 population: 610
 country_id: US
 country_name: United States

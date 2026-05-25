@@ -2,6 +2,7 @@
 iso: swt
 name: Sawila
 autonym: Tanglapui
+alt_names: ["\"Tanglapui\"", Manata, Sawali, Tanlapui, Wullili]
 population: 3000
 country_id: ID
 country_name: Indonesia

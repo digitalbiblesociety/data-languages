@@ -2,6 +2,7 @@
 iso: beu
 name: Blagar
 autonym: Tereweng
+alt_names: [Balagur, Belagar, Kaera, Pi Abaŋ Hur, Pura, Tarang]
 population: 11000
 country_id: ID
 country_name: Indonesia

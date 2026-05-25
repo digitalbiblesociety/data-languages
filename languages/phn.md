@@ -1,7 +1,9 @@
 ---
 iso: phn
 name: Phoenician
+name_zh: 腓尼基语
 autonym: null
+alt_names: [Bahasa Phoenicia, Bana, Fenica lingvo, Fenicek, Fenicisch, Feniciska, Fenike dili, Fenikianeg, Fenički jezik, Foiniikia keel, Foinikian kieli, Féničtina, Föníciai nyelv, Fønikisk, Idioma fenicio, Język fenicki, Kifinisia, Lingua Phoenicia, Lingua fenicia, Llengua fenícia, Língua fenícia, Phénicien, Phönizisch-punische Sprache, Punic, Феникиски јазик, Финикийски език, Финикийский язык, لغة فينيقية, फोनेसियन भाषा, பொனிசீய மொழி, ภาษาฟินิเชียน, フェニキア語, 腓尼基语, 페니키아어]
 population: null
 country_id: LB
 country_name: Lebanon

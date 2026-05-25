@@ -1,7 +1,9 @@
 ---
 iso: lvi
 name: Lavi
+name_zh: 拉维语
 autonym: null
+alt_names: [Lavy, Swoeng]
 population: 500
 country_id: IL
 country_name: Israel

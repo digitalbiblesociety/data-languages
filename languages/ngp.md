@@ -2,6 +2,7 @@
 iso: ngp
 name: Ngulu
 autonym: Kingulu
+alt_names: [Geja, Nguru, Nguu, Wayomba]
 population: 215000
 country_id: TZ
 country_name: Tanzania

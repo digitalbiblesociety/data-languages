@@ -2,6 +2,7 @@
 iso: fun
 name: Fulniô
 autonym: Carnijó
+alt_names: [Fornió, Fulino, Fulnio, Fulnió, Furniô, Fórnio, Iate, Iaté, Iatê, Yathé, Yathê, Yaté, Yatê]
 population: 2930
 country_id: BR
 country_name: Brazil

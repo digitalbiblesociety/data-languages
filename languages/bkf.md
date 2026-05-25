@@ -2,6 +2,7 @@
 iso: bkf
 name: Beeke
 autonym: Ibeeke
+alt_names: [Beke]
 population: 1000
 country_id: CD
 country_name: DR Congo

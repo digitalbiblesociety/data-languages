@@ -2,6 +2,7 @@
 iso: ahn
 name: Àhàn
 autonym: Ahaan
+alt_names: [Ahan]
 population: 300
 country_id: NG
 country_name: Nigeria

@@ -2,6 +2,7 @@
 iso: zsm
 name: Standard Malay
 autonym: Bahasa Malaysia
+alt_names: [Formal Malay, Malaiisch, Malay, "Malay, Standard", Malayisch, Malayu, Melayu, Melayu Baku]
 population: 16100000
 country_id: MY
 country_name: Malaysia

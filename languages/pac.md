@@ -1,7 +1,9 @@
 ---
 iso: pac
 name: Pacoh
+name_zh: 帕戈语
 autonym: Bo River Van Kieu
+alt_names: [Bo, Paco, Pokoh, River Vân Kiêu]
 population: 16000
 country_id: VN
 country_name: Vietnam

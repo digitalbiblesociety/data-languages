@@ -1,7 +1,9 @@
 ---
 iso: crv
 name: Chaura
+name_zh: 焦拉语
 autonym: Tutet
+alt_names: [Chowra, Kar Nicobar-Chowra, Sanenyo, Tatet, Tətet, Tətɛt]
 population: 2020
 country_id: IN
 country_name: India

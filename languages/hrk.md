@@ -1,7 +1,9 @@
 ---
 iso: hrk
 name: Haruku
+name_zh: 哈鲁库语
 autonym: null
+alt_names: [Indonesia]
 population: 18200
 country_id: ID
 country_name: Indonesia

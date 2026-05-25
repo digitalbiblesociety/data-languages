@@ -2,6 +2,7 @@
 iso: skm
 name: Kutong
 autonym: Kutong
+alt_names: [Sakam]
 population: 510
 country_id: PG
 country_name: Papua New Guinea

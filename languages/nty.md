@@ -1,7 +1,9 @@
 ---
 iso: nty
 name: Mantsi
+name_zh: 模耆语
 autonym: mã˥˧ tsi˥˧
+alt_names: [Black Lolo, Flowery Lolo, Lolo, Red Mantsi]
 population: 1100
 country_id: VN
 country_name: Vietnam

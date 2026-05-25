@@ -2,6 +2,7 @@
 iso: csj
 name: Songlai Chin
 autonym: Hio
+alt_names: ["Chin, Songlai"]
 population: 7300
 country_id: MM
 country_name: Myanmar

@@ -2,6 +2,7 @@
 iso: tkd
 name: Tukudede
 autonym: Tocod
+alt_names: [Tokodede, Tokodé, Tukude]
 population: 55400
 country_id: TL
 country_name: "Timor-Leste"

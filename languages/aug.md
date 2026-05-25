@@ -2,6 +2,7 @@
 iso: aug
 name: Aguna
 autonym: Awuna
+alt_names: [Agunaco]
 population: 3470
 country_id: BJ
 country_name: Benin

@@ -1,6 +1,7 @@
 ---
 iso: pgd
 name: Gāndhārī
+name_zh: 健驮逻语
 autonym: 𐨒𐨢𐨪𐨁 (Kharosthi)
 population: null
 country_id: PK

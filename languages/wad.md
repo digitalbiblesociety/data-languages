@@ -2,6 +2,7 @@
 iso: wad
 name: Wandamen
 autonym: Wamesa
+alt_names: [Bentoeni, Bentuni, Bintuni, Wandamen-Windesi, Windesi, Windessi, Wondama]
 population: 5000
 country_id: ID
 country_name: Indonesia

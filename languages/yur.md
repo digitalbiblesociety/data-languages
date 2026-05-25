@@ -1,7 +1,9 @@
 ---
 iso: yur
 name: Yurok
+name_zh: 尤羅克語
 autonym: Pueleekla’
+alt_names: [Chillula, Mita, Pekwan, Rikwa, Sugon, Weitspek, Weitspekan, Yurok-språket, Юрок]
 population: null
 country_id: US
 country_name: United States

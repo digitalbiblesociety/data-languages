@@ -2,6 +2,7 @@
 iso: xdq
 name: Kaitag
 autonym: хайдакьан кув
+alt_names: [Kaitak, Kajtak, Kaytak, Xajdak]
 population: 21000
 country_id: RU
 country_name: Russia

@@ -2,6 +2,7 @@
 iso: mmz
 name: Mabaale
 autonym: Lomabaale
+alt_names: [Mabale, Mbali]
 population: 42000
 country_id: CD
 country_name: DR Congo

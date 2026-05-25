@@ -2,6 +2,7 @@
 iso: oyy
 name: "Oya'oya"
 autonym: Daiomuni
+alt_names: [Kuiaro, Loani, Simagahi]
 population: 370
 country_id: PG
 country_name: Papua New Guinea

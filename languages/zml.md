@@ -2,6 +2,7 @@
 iso: zml
 name: Matngala
 autonym: Maangella
+alt_names: [Amadil, Dakayu, Eastern Daly language, Gamu, Hermit Hill, Hermit Hill tribe, Junggor, Kamor, Madngala, Madngela, Madngela/Matngela, Madngele, Madngella, Malak Malak, Mandella, Matngela, Matngele, Matngele language, Matngelli, Mulluk Mulluk, Muttangella, Muttangulla, Ngengiwerat, Nginma, Ngulul Wanggar, Nundjulbi, Warat, Werat, Weret, Wooliana, Yunggor]
 population: 1973
 country_id: AU
 country_name: Australia

@@ -1,7 +1,9 @@
 ---
 iso: mfs
 name: Mexican Sign Language
+name_zh: 墨西哥手语
 autonym: lengua de señas mexicana
+alt_names: [LSM, Lenguaje Manual Mexicana, Lenguaje de Signos Mexicano, Lenguaje de las Manos, Lenguaje de las Manos    LSM, Língua de Sinais Mexicana]
 population: 130000
 country_id: MX
 country_name: Mexico

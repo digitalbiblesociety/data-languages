@@ -2,6 +2,7 @@
 iso: sqo
 name: Sorkhei
 autonym: Sorkhei-Aftari
+alt_names: [Iran]
 population: 10000
 country_id: IR
 country_name: Iran

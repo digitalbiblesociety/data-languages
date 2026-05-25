@@ -2,6 +2,7 @@
 iso: xmc
 name: "Makhuwa-Marrevone"
 autonym: Emakuana
+alt_names: [Coastal Makhuwa, Emaka, Maca, Maka, Marevone, Marrevone, South Maca]
 population: 438000
 country_id: MZ
 country_name: Mozambique

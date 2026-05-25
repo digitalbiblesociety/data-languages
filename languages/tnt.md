@@ -2,6 +2,7 @@
 iso: tnt
 name: Tontemboan
 autonym: Pakewa
+alt_names: [Tompakewa, Tountemboan]
 population: 14860
 country_id: ID
 country_name: Indonesia

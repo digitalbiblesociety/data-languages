@@ -1,7 +1,9 @@
 ---
 iso: ccm
 name: Malaccan Creole Malay
+name_zh: 仄迪話
 autonym: "Bahasa-Bahasa Melayu Dagang dan Kreol"
+alt_names: [Chitties Creole Malay, "Creole Malay, Malaccan"]
 population: 300
 country_id: MY
 country_name: Malaysia

@@ -2,6 +2,7 @@
 iso: okd
 name: Okodia
 autonym: Akita
+alt_names: [Okordia, Ịjọ]
 population: 3600
 country_id: NG
 country_name: Nigeria

@@ -1,7 +1,9 @@
 ---
 iso: krc
 name: "Karachay-Balkar"
+name_zh: 卡拉恰伊－巴尔卡尔语
 autonym: "къарачай-малкъар тилтаулу тил"
+alt_names: [Idioma karachayo-bálkaro, Karacaylar, Karachai, Karachaitsy, Karachay, Karachayeg-balkareg, Karachayla, Karaczaj-bałkarsko godka, Karatchaï-balkar, Karatjajbalkariska, Karatschai-Balkarische Sprache, Karatschaisch, Karatsjai-Balkarisch, Karatxai-Balkar, Karatšai-balkaarin kieli, Karaçay-Balkarca, Karaĉaja-balkara lingvo, Qaraçay-Balqar tili, Qaračay, karatchai balkar, Карачаево-балкарски език, Карачаево-балкарский язык, Карачай-Палкар чĕлхи, Карачаєво-балкарська мова, Карачај-балкарски јазик, Хъæрæсейаг-балхъайраг æвзаг, Қарашай-балқар тілі, زبان کاراچای-بالکار, ภาษาคาราไช-บัลคาร์, カラチャイ・バルカル語, 卡拉恰伊-巴尔卡尔语, 카라차이발카르어]
 population: 311700
 country_id: RU
 country_name: Russia

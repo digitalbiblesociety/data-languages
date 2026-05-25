@@ -1,7 +1,9 @@
 ---
 iso: hmd
 name: Large Flowery Miao
+name_zh: 苗语滇东北次方言
 autonym: Large Flowery Miao
+alt_names: [A-Hmao, A-hmaos, Big Flowery Miao, Da-Hua Miao, Diandongbei, Flowery Miao, "Hmong, Northeastern Dian", Hua Miao, Hwa Miao, Miao, "Miao, Da-Hua", "Miao, Large Flowery", Northeastern Yunnan, Northeastern Yunnan Miao, Ta Hua Miao, Ta Hwa Miao, Thai Miao, Variegated Miao, Yi]
 population: 300000
 country_id: CN
 country_name: China

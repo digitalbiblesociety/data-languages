@@ -2,6 +2,7 @@
 iso: lmu
 name: Lamenu
 autonym: " Varmali"
+alt_names: [Lamen, Lewo]
 population: 850
 country_id: VU
 country_name: Vanuatu

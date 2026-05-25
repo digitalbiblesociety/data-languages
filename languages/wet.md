@@ -2,6 +2,7 @@
 iso: wet
 name: Perai
 autonym: Wetar
+alt_names: [Adabe jezik, Tutunohan, Wetarese languages, ภาษาเวตาร์]
 population: 280
 country_id: ID
 country_name: Indonesia

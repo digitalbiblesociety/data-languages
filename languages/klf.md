@@ -2,6 +2,7 @@
 iso: klf
 name: Kendeje
 autonym: Kendeje
+alt_names: [Kedendje, Kendeye, Kindeje, Yaali]
 population: 1860
 country_id: TD
 country_name: Chad

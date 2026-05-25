@@ -1,6 +1,7 @@
 ---
 iso: jbe
 name: "Judeo-Berber"
+name_zh: 犹太-柏柏尔语
 autonym: Judeo-Shilha
 population: 2000
 country_id: IL

@@ -1,6 +1,7 @@
 ---
 iso: bac
 name: Badui
+name_zh: 巴堆語
 autonym: Basa Baduy
 population: 20000
 country_id: ID

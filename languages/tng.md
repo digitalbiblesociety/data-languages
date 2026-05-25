@@ -2,6 +2,7 @@
 iso: tng
 name: Tobanga
 autonym: Northern Gabri
+alt_names: [Gabri, Gabri-Nord, Gabri-North]
 population: 30000
 country_id: TD
 country_name: Chad

@@ -2,6 +2,7 @@
 iso: tqo
 name: Toaripi
 autonym: East Elema
+alt_names: [Elema, Motumotu]
 population: 25200
 country_id: PG
 country_name: Papua New Guinea

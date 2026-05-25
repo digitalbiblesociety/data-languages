@@ -2,6 +2,7 @@
 iso: kzn
 name: Kokola
 autonym: Emakuana
+alt_names: [Kokhola]
 population: 482000
 country_id: MW
 country_name: Malawi

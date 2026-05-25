@@ -2,6 +2,7 @@
 iso: rxw
 name: Karuwali
 autonym: "Gara-wali"
+alt_names: [Garuwali]
 population: null
 country_id: AU
 country_name: Australia

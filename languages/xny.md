@@ -2,6 +2,7 @@
 iso: xny
 name: Nyiyaparli
 autonym: "\"Nijadali\""
+alt_names: [Bailgu, Bailko, Bailko-Pandjima, Balgoo, Balgu, Balygu, Boolgoo, Iabali, Jana, Janari, Jauna, Niabali, Nijadali, Njiabadi, Njiabali, Njijabadi, Njijabali, Njijapali, Nyiyabali, Nyiyapali, Nyiypali, Paljgu, Palyku, Pulgoe]
 population: null
 country_id: AU
 country_name: Australia

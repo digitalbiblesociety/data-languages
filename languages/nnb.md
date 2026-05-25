@@ -2,6 +2,7 @@
 iso: nnb
 name: Nande
 autonym: Yira
+alt_names: [Kinande, Kinandi, Nandi, Ndande, Northern Nande, Orundande]
 population: 903000
 country_id: CD
 country_name: DR Congo

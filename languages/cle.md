@@ -2,6 +2,7 @@
 iso: cle
 name: Lealao Chinantec
 autonym: Latani Chinantec
+alt_names: [Central Chinantec, Chiltepec Chinantec, Chinantec, Chinantec (Lealao), "Chinantec, Lealao", Chinanteco, Chinanteco (Lealao), Chinanteco Central, Chinanteco de San Juan Lealao, Chinanteko, Palantla Chinantec, San Juan Chinanteco Lealao, Usila Chinantec, Valle Nacional Chinantec, jajme dzä mii, "jmiih kia' dzä mii"]
 population: 2000
 country_id: MX
 country_name: Mexico

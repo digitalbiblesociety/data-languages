@@ -2,6 +2,7 @@
 iso: nat
 name: Ca̱hungwa̱rya̱
 autonym: Ngwe
+alt_names: [Cahungwarya, Hungworo, Huŋgwəryə, Ingwe, Ingwo, Ngwoi, Nkwoi, Ungwai, Ungwe, ũngwāī]
 population: 20000
 country_id: NG
 country_name: Nigeria

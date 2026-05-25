@@ -2,6 +2,7 @@
 iso: kyz
 name: Kayabí
 autonym: "Kawaiwete, Caiabi"
+alt_names: [Caiabi, Caiabí, Kajabí, Kawaiwete, Kayabi, Maquiri, Parua, Paruá]
 population: 1000
 country_id: BR
 country_name: Brazil

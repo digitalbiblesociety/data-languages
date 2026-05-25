@@ -2,6 +2,7 @@
 iso: pur
 name: Puruborá
 autonym: Aurã
+alt_names: [Boruborá, Burubora, Cujubi, Kuyubi, Miguelenho, Migueleno, Pumbora, Puroborá, Puruba, Purubora]
 population: null
 country_id: BR
 country_name: Brazil

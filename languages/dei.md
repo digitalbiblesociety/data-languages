@@ -2,6 +2,7 @@
 iso: dei
 name: Demisa
 autonym: Desawa
+alt_names: [Dewesa]
 population: 400
 country_id: ID
 country_name: Indonesia

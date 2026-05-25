@@ -2,6 +2,7 @@
 iso: gwd
 name: Gawwada
 autonym: Gauwada
+alt_names: [Dullay, Dullay (Gollango), Gawata, Gawwada hizkuntza, Gobeze, Golango, Gowase, "Kawwad'a", Kawwada, Orase, W. Bussa, Welango]
 population: 84300
 country_id: ET
 country_name: Ethiopia

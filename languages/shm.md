@@ -2,6 +2,7 @@
 iso: shm
 name: Shahrudi
 autonym: null
+alt_names: [Iran, Koluri]
 population: null
 country_id: IR
 country_name: Iran

@@ -2,6 +2,7 @@
 iso: slt
 name: Sila
 autonym: Sida
+alt_names: [Asong, Kha Pai]
 population: 1770
 country_id: LA
 country_name: Laos

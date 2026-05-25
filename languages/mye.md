@@ -1,7 +1,9 @@
 ---
 iso: mye
 name: Myene
+name_zh: 姆耶內語
 autonym: Omyene
+alt_names: [Mpongue, Mpongwe, Mpongwée, Myènè, Pangwe, Pongoué, Pongue]
 population: 45000
 country_id: GA
 country_name: Gabon

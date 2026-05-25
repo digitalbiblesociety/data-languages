@@ -1,7 +1,9 @@
 ---
 iso: ota
 name: "Ottoman Turkish (1500-1928)"
+name_zh: 奥斯曼土耳其语
 autonym: لسان عثمانى
+alt_names: ["Turkish, Ottoman (1500-1928)"]
 population: null
 country_id: TR
 country_name: Turkey

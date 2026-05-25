@@ -1,7 +1,9 @@
 ---
 iso: pus
 name: Pushto
+name_zh: 普什图语
 autonym: پښتو
+alt_names: [Pashto]
 population: 53130000
 country_id: AF
 country_name: Afghanistan

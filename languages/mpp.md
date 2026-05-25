@@ -2,6 +2,7 @@
 iso: mpp
 name: Migabac
 autonym: null
+alt_names: ["Migaba'"]
 population: 1300
 country_id: PG
 country_name: Papua New Guinea

@@ -2,6 +2,7 @@
 iso: nmk
 name: Namakura
 autonym: Namakir
+alt_names: [Makura]
 population: 3750
 country_id: VU
 country_name: Vanuatu

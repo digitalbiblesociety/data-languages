@@ -2,6 +2,7 @@
 iso: kkf
 name: Kalaktang Monpa
 autonym: Sharchop
+alt_names: [Kalaktang, Monpa, "Monpa, Kalaktang", "Monpa,Kalaktang", Southern Monpa, Tsangla Monpa]
 population: 8000
 country_id: IN
 country_name: India

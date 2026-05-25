@@ -2,6 +2,7 @@
 iso: lgb
 name: Laghu
 autonym: Katova
+alt_names: [Lagu]
 population: null
 country_id: SB
 country_name: Solomon Islands

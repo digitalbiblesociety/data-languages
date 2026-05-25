@@ -2,6 +2,7 @@
 iso: tdf
 name: Talieng
 autonym: Trieng
+alt_names: [Taliang, Tariang]
 population: 23100
 country_id: LA
 country_name: Laos

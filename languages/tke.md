@@ -2,6 +2,7 @@
 iso: tke
 name: Takwane
 autonym: Emakuana
+alt_names: [Thakwani]
 population: 368000
 country_id: MZ
 country_name: Mozambique

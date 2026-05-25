@@ -2,6 +2,7 @@
 iso: xwe
 name: Xwela Gbe
 autonym: Xwela
+alt_names: ["Gbe, Xwela", Houeda, Peda, Phera, Xwela-Gba]
 population: 84700
 country_id: BJ
 country_name: Benin

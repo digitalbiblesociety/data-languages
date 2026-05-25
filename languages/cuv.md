@@ -2,6 +2,7 @@
 iso: cuv
 name: Cuvok
 autonym: Tchouvok
+alt_names: [Chuvok]
 population: 5000
 country_id: CM
 country_name: Cameroon

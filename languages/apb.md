@@ -2,6 +2,7 @@
 iso: apb
 name: "Sa'a"
 autonym: "Apae'aa"
+alt_names: [Malaita (South), "Sa'a jezik", Saa, South Malaita, Südliche Salomons-Inseln, Ulawa]
 population: 11500
 country_id: SB
 country_name: Solomon Islands

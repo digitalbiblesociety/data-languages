@@ -2,6 +2,7 @@
 iso: lmg
 name: Lamogai
 autonym: Akiuru
+alt_names: [Mulakaino]
 population: 3650
 country_id: PG
 country_name: Papua New Guinea

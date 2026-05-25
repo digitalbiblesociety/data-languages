@@ -2,6 +2,7 @@
 iso: ttg
 name: Tutong
 autonym: Tutong 2
+alt_names: [Tutung]
 population: 16600
 country_id: BN
 country_name: Brunei

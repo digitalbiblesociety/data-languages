@@ -1,7 +1,9 @@
 ---
 iso: tes
 name: Tengger
+name_zh: 騰格爾族語
 autonym: Basa Tenggerꦧꦱ​ꦠꦼꦁꦒꦼꦂ
+alt_names: [Tenggerese]
 population: 80000
 country_id: ID
 country_name: Indonesia

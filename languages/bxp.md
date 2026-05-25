@@ -2,6 +2,7 @@
 iso: bxp
 name: Bebil
 autonym: Gbïgbïl
+alt_names: [Bobilis, Gbigbil]
 population: 6000
 country_id: CM
 country_name: Cameroon

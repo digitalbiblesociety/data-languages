@@ -2,6 +2,7 @@
 iso: lmv
 name: Lomaiviti
 autonym: null
+alt_names: [Fidji-Inseln, Lomaiviti jezik]
 population: 1630
 country_id: FJ
 country_name: Fiji

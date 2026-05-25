@@ -2,6 +2,7 @@
 iso: kmt
 name: Kemtuik
 autonym: Kamtuk
+alt_names: [Kemtuk]
 population: 2500
 country_id: ID
 country_name: Indonesia

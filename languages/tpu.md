@@ -1,7 +1,9 @@
 ---
 iso: tpu
 name: Tampuan
+name_zh: 坦普温语
 autonym: Tumpoon
+alt_names: ["Campuo'n", Campuon, Kha, Kha Tampuen, Kha Tampuon, Lamam, Proon, Proons, Tamphuan, Tampuen, Tampuon]
 population: 31100
 country_id: KH
 country_name: Cambodia

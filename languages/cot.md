@@ -2,6 +2,7 @@
 iso: cot
 name: Caquinte
 autonym: Poyenisati
+alt_names: ["\"Cachomashiri\"", Atiri, Campa, Caquinte Campa, Caquinté, Kakinte, Poyenisate]
 population: 300
 country_id: PE
 country_name: Peru

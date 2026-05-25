@@ -2,6 +2,7 @@
 iso: loe
 name: Saluan
 autonym: Loinang
+alt_names: [Coastal, Loindang, Madi, Mondono, "Saluan, Coastal"]
 population: 51900
 country_id: ID
 country_name: Indonesia

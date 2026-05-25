@@ -2,6 +2,7 @@
 iso: rog
 name: Northern Roglai
 autonym: Adlai
+alt_names: [La-Oang, Noang, Northern, Ra-Glai, Radlai, Raglai (North), Rang Glai, Rayglay, Roglai, Roglai (Northern), "Roglai, Northern", Ríoglai]
 population: 22000
 country_id: VN
 country_name: Vietnam

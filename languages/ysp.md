@@ -2,6 +2,7 @@
 iso: ysp
 name: Southern Lolopo
 autonym: Central Yi
+alt_names: ["Lolopo, Southern"]
 population: 190000
 country_id: CN
 country_name: China

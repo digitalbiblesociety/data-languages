@@ -1,7 +1,9 @@
 ---
 iso: bwi
 name: Baniwa
+name_zh: 卡魯語
 autonym: Baniwa
+alt_names: [Baniba, Baniua do Içana, Baniva, Baniva do Içana, Baniwa (Icana), "Baniwa de l'Içana", Baniwa of Icana, Baniwa-Kurripako, Dakenei, Issana, Karútana-Baniva, Karútana-Baniwa, Karútiana-Baniva, Karútiana-Baniwa, Kohoroxitari, Maniba, Siusi, Suicí, Ualiperi]
 population: 1000
 country_id: VE
 country_name: Venezuela

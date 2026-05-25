@@ -1,6 +1,7 @@
 ---
 iso: tjl
 name: Tai Laing
+name_zh: 傣来语
 autonym: Tai Lai
 population: 100000
 country_id: MM

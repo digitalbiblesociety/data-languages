@@ -2,6 +2,7 @@
 iso: daw
 name: Davawenyo
 autonym: Dabawenyo / Davaoeño
+alt_names: [Davaoeño, Davaweño, Matino]
 population: 154000
 country_id: PH
 country_name: Philippines

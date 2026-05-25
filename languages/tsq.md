@@ -1,7 +1,9 @@
 ---
 iso: tsq
 name: Thai Sign Language
+name_zh: 泰國手語
 autonym: ภาษามือไทย
+alt_names: [Língua de Sinais Tailandesa]
 population: 200000
 country_id: TH
 country_name: Thailand

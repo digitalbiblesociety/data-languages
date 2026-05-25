@@ -2,6 +2,7 @@
 iso: bpa
 name: Daakaka
 autonym: Baiap
+alt_names: [Dakaka, South Ambrym]
 population: 1200
 country_id: VU
 country_name: Vanuatu

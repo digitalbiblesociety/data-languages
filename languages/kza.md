@@ -2,6 +2,7 @@
 iso: kza
 name: Western Karaboro
 autonym: Western Karaboro
+alt_names: [Karaboro, "Karaboro, Western", Syer-Tenyer, Tenyer]
 population: 30200
 country_id: BF
 country_name: Burkina Faso

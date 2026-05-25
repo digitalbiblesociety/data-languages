@@ -2,6 +2,7 @@
 iso: kil
 name: Kariya
 autonym: Vìnà Hə̀
+alt_names: [Kariyu, Kauyawa, Lipkawa, Vinahe, Wihe]
 population: 2000
 country_id: NG
 country_name: Nigeria

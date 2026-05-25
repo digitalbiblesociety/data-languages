@@ -1,7 +1,9 @@
 ---
 iso: pqm
 name: "Malecite-Passamaquoddy"
+name_zh: 马利西特-帕萨马阔迪语
 autonym: "Maliseet-Passamaquoddy"
+alt_names: [Malecite Cluster, Malesí-openango, Maliseet, Malécite, Malécite-passamaquoddy, Passamaquoddy, Passamaquoddy-Malecite, Passamaquoddy-Maliseet, Pennacook]
 population: 410
 country_id: CA
 country_name: Canada

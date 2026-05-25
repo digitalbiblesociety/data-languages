@@ -2,6 +2,7 @@
 iso: agv
 name: Remontado Dumagat
 autonym: Sinauna
+alt_names: ["Agta, Remontado", "Dumagat, Remontado", Hatang-Kayey, Remontado Agta]
 population: 2530
 country_id: PH
 country_name: Philippines

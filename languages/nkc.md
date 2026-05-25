@@ -2,6 +2,7 @@
 iso: nkc
 name: Nkongho
 autonym: Kinkwa
+alt_names: [Lekongo, Upper Mbo]
 population: 2230
 country_id: CM
 country_name: Cameroon

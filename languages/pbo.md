@@ -2,6 +2,7 @@
 iso: pbo
 name: Papel
 autonym: Moium
+alt_names: [Oium, Papei, Pepel]
 population: 173500
 country_id: GW
 country_name: "Guinea-Bissau"

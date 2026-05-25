@@ -2,6 +2,7 @@
 iso: khj
 name: Kuturmi
 autonym: null
+alt_names: [Ada]
 population: 10500
 country_id: NG
 country_name: Nigeria

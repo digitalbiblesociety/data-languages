@@ -1,7 +1,9 @@
 ---
 iso: hma
 name: Southern Mashan Hmong
+name_zh: 南部土语
 autonym: Mashan Miao
+alt_names: [Hmo, Hmong, "Hmong, Southern Mashan", Hmung, Hsiung, Hunan Miao, Miao, "Miao, Southern Mashan", Southern Mashan Miao]
 population: 10000
 country_id: CN
 country_name: China

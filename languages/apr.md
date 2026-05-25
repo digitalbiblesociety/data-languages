@@ -2,6 +2,7 @@
 iso: apr
 name: "Arop-Lokep"
 autonym: null
+alt_names: [Arop-Lukep, Lukep, Moromiranga, Siasi, Siassi, Tolokiwa]
 population: 3020
 country_id: PG
 country_name: Papua New Guinea

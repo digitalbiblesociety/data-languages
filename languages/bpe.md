@@ -2,6 +2,7 @@
 iso: bpe
 name: Bauni
 autonym: Warapu, Barupu
+alt_names: [Barupu, Barupu language, Varapú, Varofu, Warapoueg, Warapu, Warapu jezik, Waropu]
 population: 300
 country_id: PG
 country_name: Papua New Guinea

@@ -1,6 +1,7 @@
 ---
 iso: zrp
 name: Zarphatic
+name_zh: 查法蒂语
 autonym: Zarphatic
 population: null
 country_id: FR

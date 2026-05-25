@@ -1,7 +1,9 @@
 ---
 iso: ryu
 name: Central Okinawan
+name_zh: 冲绳语
 autonym: 沖縄口/ウチナーグチ
+alt_names: [Central, Central Group, Central Ryukyuan, Idioma okinawense, Luchu, Língua oquinauana, Okinavski jezik, Okinavų kalba, Okinawa, Okinawan, Okinawan kieli, Okinawan language, "Okinawan, Central", Okinawano, Okinawaïen, Ryukyuan, Uchinaaguchi, Uchināguchi, ภาษาโอกินาวา, うちなーぐち, シマクトゥバ, 沖縄方言, 沖縄語, 琉球語, 오키나와어]
 population: 1200000
 country_id: JP
 country_name: Japan

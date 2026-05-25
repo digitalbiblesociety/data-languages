@@ -1,7 +1,9 @@
 ---
 iso: gwf
 name: Gowro
+name_zh: 戈瓦罗语
 autonym: Gabar Khel
+alt_names: [Dardu, Gabaro]
 population: 200
 country_id: PK
 country_name: Pakistan

@@ -1,7 +1,9 @@
 ---
 iso: nzk
 name: Nzakara
+name_zh: 恩扎卡拉語
 autonym: Ansakara
+alt_names: ["N'sakara", Sakara, Zakara]
 population: 50000
 country_id: CF
 country_name: Central African Republic

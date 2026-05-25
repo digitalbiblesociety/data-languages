@@ -1,6 +1,8 @@
 ---
 iso: okz
 name: Old Khmer
+name_zh: 古高棉语
+alt_names: ["Khmer, Old"]
 country_id: KH
 country_name: Cambodia
 latitude: 13.4125

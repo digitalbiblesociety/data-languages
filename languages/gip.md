@@ -2,6 +2,7 @@
 iso: gip
 name: Gimi (West New Britain)
 autonym: Loko
+alt_names: [Gimi]
 population: 3700
 country_id: PG
 country_name: Papua New Guinea

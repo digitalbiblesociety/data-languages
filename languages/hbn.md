@@ -2,6 +2,7 @@
 iso: hbn
 name: Heiban
 autonym: Ebang
+alt_names: [Abul, Heibán]
 population: 4410
 country_id: SD
 country_name: Sudan

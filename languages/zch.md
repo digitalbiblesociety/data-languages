@@ -1,7 +1,9 @@
 ---
 iso: zch
 name: Central Hongshuihe Zhuang
+name_zh: 红水河中游壮话
 autonym: null
+alt_names: [Chuang, Hongshuihe, Zhuang, Zhuang (Northern), "Zhuang, Central Hongshuihe"]
 population: 1080000
 country_id: CN
 country_name: China

@@ -2,6 +2,7 @@
 iso: srk
 name: Serudung Murut
 autonym: Tidong
+alt_names: [Serudong, Tawau Murut, Tidung]
 population: 350
 country_id: MY
 country_name: Malaysia

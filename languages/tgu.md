@@ -2,6 +2,7 @@
 iso: tgu
 name: Tanggu
 autonym: Tanggum
+alt_names: [Tangu]
 population: 3000
 country_id: PG
 country_name: Papua New Guinea

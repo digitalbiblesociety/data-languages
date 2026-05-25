@@ -1,7 +1,9 @@
 ---
 iso: mde
 name: Maba (Chad)
+name_zh: 马坝语
 autonym: Borgu
+alt_names: [Bura Mabang, Bura-Mabang, Kana Mabang, Maba, Mabaa, Mabak, Mabang, Ouaddai, Ouaddaien, Wadai, Waddayen]
 population: 567000
 country_id: TD
 country_name: Chad

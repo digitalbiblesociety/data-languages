@@ -2,6 +2,7 @@
 iso: lka
 name: Lakalei
 autonym: null
+alt_names: [East Timor]
 population: 5000
 country_id: TL
 country_name: "Timor-Leste"

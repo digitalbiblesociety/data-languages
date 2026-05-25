@@ -2,6 +2,7 @@
 iso: lem
 name: Nomaande
 autonym: Lémandé
+alt_names: [Lemande, Mande, Mandi, Noomaante, Numand, Pimenc]
 population: 6000
 country_id: CM
 country_name: Cameroon

@@ -2,6 +2,7 @@
 iso: aby
 name: Aneme Wake
 autonym: Abia
+alt_names: [Abie]
 population: 650
 country_id: PG
 country_name: Papua New Guinea

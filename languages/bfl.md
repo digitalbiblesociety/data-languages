@@ -2,6 +2,7 @@
 iso: bfl
 name: "Banda-Ndélé"
 autonym: Banda of Ndélé
+alt_names: [Banda, Banda-Ndele, Nyele]
 population: 35500
 country_id: CF
 country_name: Central African Republic

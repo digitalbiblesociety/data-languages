@@ -2,6 +2,7 @@
 iso: tqr
 name: Torona
 autonym: null
+alt_names: [Sudan]
 population: null
 country_id: SD
 country_name: Sudan

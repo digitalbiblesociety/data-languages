@@ -2,6 +2,7 @@
 iso: kvd
 name: Kui (Indonesia)
 autonym: Lerabain
+alt_names: [Kui, Kui (in Indonesia), Masin-Lak]
 population: 4240
 country_id: ID
 country_name: Indonesia

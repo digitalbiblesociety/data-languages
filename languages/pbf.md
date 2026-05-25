@@ -2,6 +2,7 @@
 iso: pbf
 name: Coyotepec Popoloca
 autonym: null
+alt_names: [Chocho-Popoloka, Popoloc, Popoloca, Popoloca (San Vicente Coyotepec), "Popoloca, Coyotepec", Popoloka, San Vicente Coyotepec]
 population: 500
 country_id: MX
 country_name: Mexico

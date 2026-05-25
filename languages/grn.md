@@ -1,6 +1,7 @@
 ---
 iso: grn
 name: Guarani
+name_zh: 瓜纳尼语
 autonym: "Avañe'ẽ"
 population: 4500000
 country_id: BR

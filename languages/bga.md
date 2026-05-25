@@ -2,6 +2,7 @@
 iso: bga
 name: "Gwamhi-Wuri"
 autonym: Lyase
+alt_names: ["\"Banganci\"", Gwamfi, Gwamhyə-Wuri-Mba, Lyase-Ne, Tchumbuli]
 population: 16000
 country_id: NG
 country_name: Nigeria

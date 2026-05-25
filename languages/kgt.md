@@ -2,6 +2,7 @@
 iso: kgt
 name: Somyev
 autonym: Kila
+alt_names: [Fur, Kila Yang, Kilayen, Sombe, Sombə, Somieve, Somyewe, Somyiwe, Somyɛwɛ]
 population: 15
 country_id: NG
 country_name: Nigeria

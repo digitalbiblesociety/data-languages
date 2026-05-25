@@ -2,6 +2,7 @@
 iso: tik
 name: Tikar
 autonym: Ndob
+alt_names: [Ndome, Tikali, Tikar-East, Tikari, Tingkala]
 population: 110000
 country_id: CM
 country_name: Cameroon

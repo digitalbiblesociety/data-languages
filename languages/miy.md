@@ -2,6 +2,7 @@
 iso: miy
 name: Ayutla Mixtec
 autonym: Coastal Guerrero Mixtec
+alt_names: [Ayutla, Ayutla Mixteco, Central Juxtlahuaca Mixtec, Coicoyán Mixtec, Juxtlahuaca Mixtec, Misteko, Mixtec, Mixtec (Ayutla), "Mixtec, Ayutla", Mixteco (Ayutla), Mixteco de Ayutla, Mixteco de Juxtlahuaca, Mixteco del Oeste de Juxtlahuaca, Southern Baja Mixtec, Southern Misteko, Southern Mixteco, Western Juxtlahuaca Mixtec]
 population: 11600
 country_id: MX
 country_name: Mexico

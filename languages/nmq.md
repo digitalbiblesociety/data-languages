@@ -1,7 +1,9 @@
 ---
 iso: nmq
 name: Nambya
+name_zh: 南比亞語
 autonym: Ikalanga
+alt_names: [Chinambya, Najwa, Nambzya, Nanzva, Senajwa, Senambya]
 population: 105000
 country_id: ZW
 country_name: Zimbabwe

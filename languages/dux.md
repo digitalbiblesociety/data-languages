@@ -2,6 +2,7 @@
 iso: dux
 name: Duungooma
 autonym: Du
+alt_names: [Duungo, Mali Duun, Samogho, Samogo, Samoro, Western Duun]
 population: 150000
 country_id: ML
 country_name: Mali

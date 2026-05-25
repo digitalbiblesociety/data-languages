@@ -2,6 +2,7 @@
 iso: syk
 name: Sukur
 autonym: Sakwun
+alt_names: [Adikimmu Sukur, Gemasakun, Sakul, Sakun, Sugur]
 population: 14800
 country_id: NG
 country_name: Nigeria

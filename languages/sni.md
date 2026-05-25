@@ -2,6 +2,7 @@
 iso: sni
 name: Sensi
 autonym: Tenti
+alt_names: [Mananahua, Senti]
 population: null
 country_id: PE
 country_name: Peru

@@ -2,6 +2,7 @@
 iso: kki
 name: Kagulu
 autonym: Chikagulu
+alt_names: [Kaguru, Kigaguru, Kigalulu, Kiningo, Northern Sagara, Solwa]
 population: 337000
 country_id: TZ
 country_name: Tanzania

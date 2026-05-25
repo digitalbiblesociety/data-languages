@@ -1,7 +1,9 @@
 ---
 iso: pam
 name: Pampanga
+name_zh: 邦板牙語
 autonym: " Pampango"
+alt_names: [Bahasa Kapampangan, Idioma pampango, Język pampango, Kapampangan, Kapampangan language, Kapampangan nga yinaknan, Kapampangan-gí, Kapampanganeg, Língua kapampangan, Pagsasao a Kapampangan, Pampangan, Pampangueño, Pinulongang Kapampangan, Pâng-pán-ngà-ngî, Tataramon na Pampango, Wikang Kapampangan, Капампанганский язык, ภาษากาปัมปางัน, ካፓምፓንጋንኛ, パンパンガ語, 邦板牙語]
 population: 2049670
 country_id: PH
 country_name: Philippines

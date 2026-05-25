@@ -2,6 +2,7 @@
 iso: msm
 name: Agusan Manobo
 autonym: "Manobo, Agusan"
+alt_names: [Agusan]
 population: 60000
 country_id: PH
 country_name: Philippines

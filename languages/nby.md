@@ -2,6 +2,7 @@
 iso: nby
 name: Ningera
 autonym: Nagira
+alt_names: [Negira, Ninggera]
 population: 150
 country_id: PG
 country_name: Papua New Guinea

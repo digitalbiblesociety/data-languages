@@ -2,6 +2,7 @@
 iso: kuk
 name: "Kepo'"
 autonym: Kepoq
+alt_names: ["Ba'i", Kepo]
 population: 10600
 country_id: ID
 country_name: Indonesia

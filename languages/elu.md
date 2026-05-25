@@ -2,6 +2,7 @@
 iso: elu
 name: Elu
 autonym: null
+alt_names: [Admiralitäts-inseln]
 population: 220
 country_id: PG
 country_name: Papua New Guinea

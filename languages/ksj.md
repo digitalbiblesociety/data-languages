@@ -2,6 +2,7 @@
 iso: ksj
 name: Uare
 autonym: Kwale
+alt_names: [Kware]
 population: 1300
 country_id: PG
 country_name: Papua New Guinea

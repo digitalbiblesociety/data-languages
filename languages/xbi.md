@@ -2,6 +2,7 @@
 iso: xbi
 name: Kombio
 autonym: Kombio Wampukuamp
+alt_names: [Anamagi, Endangen]
 population: 2970
 country_id: PG
 country_name: Papua New Guinea

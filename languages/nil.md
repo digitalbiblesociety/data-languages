@@ -2,6 +2,7 @@
 iso: nil
 name: Nila
 autonym: bahasa Nila
+alt_names: [Dharug, Nila (isla Seram), Nila (île de Nila), Nila (île de Seram)]
 population: 1800
 country_id: ID
 country_name: Indonesia

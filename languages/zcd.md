@@ -2,6 +2,7 @@
 iso: zcd
 name: Las Delicias Zapotec
 autonym: Didza Xidza
+alt_names: ["Zapotec, Las Delicias"]
 population: 41000
 country_id: MX
 country_name: Mexico

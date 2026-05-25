@@ -2,6 +2,7 @@
 iso: env
 name: Enwan (Edu State)
 autonym: null
+alt_names: [Enwan, Enwan (Edo State), Nigeria]
 population: 14000
 country_id: NG
 country_name: Nigeria

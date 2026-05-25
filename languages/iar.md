@@ -2,6 +2,7 @@
 iso: iar
 name: Purari
 autonym: Evorra
+alt_names: [Iai, Koriki, Maipua, Namau]
 population: 7000
 country_id: PG
 country_name: Papua New Guinea

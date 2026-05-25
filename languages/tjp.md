@@ -2,6 +2,7 @@
 iso: tjp
 name: Tjupany
 autonym: null
+alt_names: [Badu, Bandjanu, Banjanu, Barduwonga, Bawndudjara, Bini, Biniridjara, Birni, Birniridjara, Budidjara, Bududjara, Buranudjara, Buurdidyara, Jabura, Kaltalbudara, Kaltalbudjara, Kaltalbudjira, Madutjara, Nana, Nangaritjara, Ngondidjara, Pandjanu, Pardu, Partutu, Partutudjara, Pini, Piniiri, Piniridjara, Piniritjara, Pinyirritjarra, Pirniritjara, Poroko, Potidjara, Potitjara, Puditjarra, Purditara, Putitjara, Tjubun, Tutudjara, Wordako]
 population: null
 country_id: AU
 country_name: Australia

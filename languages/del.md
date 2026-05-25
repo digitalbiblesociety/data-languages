@@ -1,6 +1,7 @@
 ---
 iso: del
 name: Delaware
+name_zh: 特拉华语
 autonym: Lënapei èlixsuwakàn
 population: null
 country_id: US

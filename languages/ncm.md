@@ -2,6 +2,7 @@
 iso: ncm
 name: Nambo
 autonym: Nambu
+alt_names: [Arufe, Namna]
 population: 710
 country_id: PG
 country_name: Papua New Guinea

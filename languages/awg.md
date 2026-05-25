@@ -1,6 +1,7 @@
 ---
 iso: awg
 name: Anguthimri
+name_zh: 安古西姆里语
 autonym: Anguthimri
 population: null
 country_id: AU

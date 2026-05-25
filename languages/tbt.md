@@ -2,6 +2,7 @@
 iso: tbt
 name: Tembo (Kitembo)
 autonym: Kitembo
+alt_names: [Chitembo, Nyabungu, Tembo]
 population: 150000
 country_id: CD
 country_name: DR Congo

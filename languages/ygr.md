@@ -2,6 +2,7 @@
 iso: ygr
 name: Yagaria
 autonym: null
+alt_names: [Hua, Move dialect]
 population: 21100
 country_id: PG
 country_name: Papua New Guinea

@@ -1,7 +1,9 @@
 ---
 iso: akv
 name: Akhvakh
+name_zh: 阿克瓦克語
 autonym: Ашвaлъи мицIи
+alt_names: ["Ac'hvac'heg", Ahvahin kieli, Ajvaj, Akhwakh, Axvax, Język achwaski, Lingua akhvakh, Língua akhvakh, Ахвахски јазик, Ахвахский язык, Ахвахська мова, авахский язык]
 population: 6500
 country_id: RU
 country_name: Russia

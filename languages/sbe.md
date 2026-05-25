@@ -2,6 +2,7 @@
 iso: sbe
 name: Saliba
 autonym: null
+alt_names: [Saliba (PNG), Saliba (in Papua New Guinea), Suau]
 population: 2500
 country_id: PG
 country_name: Papua New Guinea

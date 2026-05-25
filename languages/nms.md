@@ -2,6 +2,7 @@
 iso: nms
 name: Letemboi
 autonym: " Small Nambas"
+alt_names: [Lendamboi]
 population: 800
 country_id: VU
 country_name: Vanuatu

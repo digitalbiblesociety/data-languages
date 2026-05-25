@@ -1,7 +1,9 @@
 ---
 iso: lfa
 name: Lefa
+name_zh: 勒法语
 autonym: Balom
+alt_names: [Fak, "Lefa'"]
 population: 10000
 country_id: CM
 country_name: Cameroon

@@ -2,6 +2,7 @@
 iso: drb
 name: Dair
 autonym: Thaminyi
+alt_names: [Daier, Nubian (Hill)]
 population: 1000
 country_id: SD
 country_name: Sudan

@@ -2,6 +2,7 @@
 iso: pfe
 name: Peere
 autonym: Peere
+alt_names: [Kotofo, Kotopo, Kotpojo, Koutin, Koutine, Kutin, Kutine, Kutinn, Pare, Patapori, Peer, Pere, Potopo, Potopore]
 population: 50000
 country_id: CM
 country_name: Cameroon

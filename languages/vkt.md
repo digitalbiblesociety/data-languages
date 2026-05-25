@@ -2,6 +2,7 @@
 iso: vkt
 name: Tenggarong Kutai Malay
 autonym: Kutai
+alt_names: [Malay, Malay (Tenggarong Kutai), "Malay, Tenggarong Kutai", Tenggarong]
 population: 210000
 country_id: ID
 country_name: Indonesia

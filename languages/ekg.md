@@ -1,7 +1,9 @@
 ---
 iso: ekg
 name: Ekari
+name_zh: 伊卡利语
 autonym: Mee
+alt_names: [Ekagi, Kapauku, Kaupaku, Me Mana, Mee Mana, Tapiro]
 population: 100000
 country_id: ID
 country_name: Indonesia

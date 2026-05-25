@@ -2,6 +2,7 @@
 iso: jae
 name: Yabem
 autonym: Jabêm
+alt_names: [Jabem, Jabim, Laulabu, Yabim]
 population: 2080
 country_id: PG
 country_name: Papua New Guinea

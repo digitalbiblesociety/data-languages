@@ -2,6 +2,7 @@
 iso: bhj
 name: Bahing
 autonym: Baying
+alt_names: [Bahing jezik, Bahingeg, Bayung, Bhojpuri, Bāhing, Khaling, Kiranti-Bayung, Lenga Bahing, Rai, ภาษาบาฮิง]
 population: 10000
 country_id: NP
 country_name: Nepal

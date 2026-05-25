@@ -1,7 +1,9 @@
 ---
 iso: trr
 name: Taushiro
+name_zh: 陶希洛語
 autonym: Pinche
+alt_names: [Pinchi, Tausiro]
 population: 1
 country_id: PE
 country_name: Peru

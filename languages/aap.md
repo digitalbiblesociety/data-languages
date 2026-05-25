@@ -1,7 +1,9 @@
 ---
 iso: aap
 name: Pará Arára
+name_zh: 帕拉阿拉拉語
 autonym: Pará Arára
+alt_names: [Ajujure, Arara, Arara do Para, Arara do Pará, Arara du Pará, Arara-Parirí, Arára de Pará, "Arára, Pará", Para Arara, Pariri, Parirí]
 population: 200
 country_id: BR
 country_name: Brazil

@@ -1,7 +1,9 @@
 ---
 iso: kev
 name: Kanikkaran
+name_zh: 卡尼卡兰语
 autonym: கணிக்காரன்
+alt_names: [Kanikkar, Kannikan, Kannikaran, Kannikharan, Malampashi]
 population: 19000
 country_id: IN
 country_name: India

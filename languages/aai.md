@@ -2,6 +2,7 @@
 iso: aai
 name: "Arifama-Miniafia"
 autonym: Miniafia
+alt_names: [Miniafia-Arifama]
 population: 3470
 country_id: PG
 country_name: Papua New Guinea

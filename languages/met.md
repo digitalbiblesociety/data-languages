@@ -2,6 +2,7 @@
 iso: met
 name: Mato
 autonym: Nenaya
+alt_names: [Nengaya, Nineia]
 population: 700
 country_id: PG
 country_name: Papua New Guinea

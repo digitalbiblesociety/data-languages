@@ -2,6 +2,7 @@
 iso: nbt
 name: Na
 autonym: Bangni
+alt_names: [India]
 population: 1500
 country_id: IN
 country_name: India

@@ -2,6 +2,7 @@
 iso: swr
 name: Saweru
 autonym: Sarwar Use
+alt_names: [Saweroe]
 population: 300
 country_id: ID
 country_name: Indonesia

@@ -2,6 +2,7 @@
 iso: kyx
 name: Rapoisi
 autonym: Rapoisi
+alt_names: [Konua, Kunua]
 population: 3500
 country_id: PG
 country_name: Papua New Guinea

@@ -2,6 +2,7 @@
 iso: rbk
 name: Northern Bontok
 autonym: Finallig
+alt_names: ["Bontok, Northern"]
 population: null
 country_id: PH
 country_name: Philippines

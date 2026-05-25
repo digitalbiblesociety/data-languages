@@ -1,7 +1,9 @@
 ---
 iso: vas
 name: Vasavi
+name_zh: 瓦萨维语
 autonym: Vasavi Bhil
+alt_names: [Vasava, Vasava Bhil, Vasave]
 population: 1200000
 country_id: IN
 country_name: India

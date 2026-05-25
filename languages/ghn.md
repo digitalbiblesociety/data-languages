@@ -2,6 +2,7 @@
 iso: ghn
 name: Ghanongga
 autonym: Ganongga
+alt_names: [Kubokota, Kumbokota]
 population: 2510
 country_id: SB
 country_name: Solomon Islands

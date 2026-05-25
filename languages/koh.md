@@ -2,6 +2,7 @@
 iso: koh
 name: Koyo
 autonym: Ekoyo
+alt_names: [Kouyou]
 population: 1000
 country_id: CG
 country_name: Congo

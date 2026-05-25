@@ -2,6 +2,7 @@
 iso: kcq
 name: Kamo
 autonym: Ma
+alt_names: [Kamu, Nubama, Nyima]
 population: 20000
 country_id: NG
 country_name: Nigeria

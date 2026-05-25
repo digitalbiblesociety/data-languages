@@ -2,6 +2,7 @@
 iso: emn
 name: Eman
 autonym: Emane
+alt_names: [Emán]
 population: 800
 country_id: CM
 country_name: Cameroon

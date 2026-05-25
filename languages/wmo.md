@@ -2,6 +2,7 @@
 iso: wmo
 name: Wom (Papua New Guinea)
 autonym: Wam
+alt_names: [Wom, Wom language]
 population: 4260
 country_id: PG
 country_name: Papua New Guinea

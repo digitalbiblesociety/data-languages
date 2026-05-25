@@ -2,6 +2,7 @@
 iso: gdg
 name: "Ga'dang"
 autonym: Gaddang
+alt_names: [Baliwon, Ginabwal]
 population: 6000
 country_id: PH
 country_name: Philippines

@@ -2,6 +2,7 @@
 iso: bgf
 name: Bangandu
 autonym: Ngombe
+alt_names: [Bagando, Bangando, Bangantu, Southern Bangantu, Temne]
 population: 2700
 country_id: CM
 country_name: Cameroon

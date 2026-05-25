@@ -2,6 +2,7 @@
 iso: mvv
 name: Tagal Murut
 autonym: bahasa Murut Tahol
+alt_names: ["Murut, Tagal", Semambu, Semembu, Sumambu, Sumambu-Tagal, Sumambuq]
 population: 22000
 country_id: MY
 country_name: Malaysia

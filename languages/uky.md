@@ -2,6 +2,7 @@
 iso: uky
 name: "Kuuk-Yak"
 autonym: Koko Yak
+alt_names: [Kuku Yak, Kuuk Yak]
 population: null
 country_id: AU
 country_name: Australia

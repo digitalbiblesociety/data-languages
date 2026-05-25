@@ -2,6 +2,7 @@
 iso: twg
 name: Tereweng
 autonym: Tereweng
+alt_names: [Indonesia]
 population: 800
 country_id: ID
 country_name: Indonesia

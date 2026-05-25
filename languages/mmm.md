@@ -2,6 +2,7 @@
 iso: mmm
 name: Maii
 autonym: Mkir
+alt_names: [Mae-Morae, Mafilau]
 population: 180
 country_id: VU
 country_name: Vanuatu

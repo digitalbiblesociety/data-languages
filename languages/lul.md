@@ -2,6 +2,7 @@
 iso: lul
 name: "Olu'bo"
 autonym: Lolubo
+alt_names: [Luluba, Lulubo, Olubogo, Oluboti, Ondoe]
 population: 15000
 country_id: SS
 country_name: South Sudan

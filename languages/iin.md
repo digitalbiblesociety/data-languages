@@ -2,6 +2,7 @@
 iso: iin
 name: Thiin
 autonym: Deen
+alt_names: [Deenma, Denma, Dhiyin, Dhiyinma, "Te:n", Teen, Teenma, Tenma, Thenma, Thiinma]
 population: null
 country_id: AU
 country_name: Australia

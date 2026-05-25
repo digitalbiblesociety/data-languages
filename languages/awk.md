@@ -2,6 +2,7 @@
 iso: awk
 name: Awabakal
 autonym: Awabakalkoba
+alt_names: [Arwarbukarl, Arwarburkarl, Awaba, Awabagal, Awarbukal, Geawegal, Gwegal, Hunter River and Lake Macquarie, Kuri, Kuringgai, Lake Macquaire Newcastle tribe, Lake Macquarie, Lenga awabakal, Newcastle tribe, Other Australian Indigenous Languages]
 population: null
 country_id: AU
 country_name: Australia

@@ -2,6 +2,7 @@
 iso: zpq
 name: Zoogocho Zapotec
 autonym: (San Bartolomé Zoogocho)
+alt_names: [Cajonos Zapotec, Northern Sapoteko, Papabuco, Sapoteko, Villalta (non-preferred), Zapotec, Zapotec (Zoogocho), "Zapotec, Zoogocho", dill xhon]
 population: 1000
 country_id: MX
 country_name: Mexico

@@ -2,6 +2,7 @@
 iso: boe
 name: Mundabli
 autonym: Buu
+alt_names: [Bu, Ji, Mundabli-Mufu]
 population: 1000
 country_id: CM
 country_name: Cameroon

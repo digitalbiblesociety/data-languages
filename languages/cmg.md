@@ -1,7 +1,9 @@
 ---
 iso: cmg
 name: Classical Mongolian
+name_zh: 古典蒙古語
 autonym: null
+alt_names: ["Mongolian, Classical"]
 population: null
 country_id: MO
 country_name: Macao

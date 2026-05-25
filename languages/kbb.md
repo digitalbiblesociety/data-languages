@@ -2,6 +2,7 @@
 iso: kbb
 name: Kaxuiâna
 autonym: Kaxuiâna (Katxúyana)
+alt_names: [Cachuana-warikyana, Ingarïnyana, Ingarüna, Kachuana, Kahyana, Kashujana, Kashuyana, Kashuyana-Warikyana, Katxúyana, Kaxuiana, Kaxuiâna-xikuyána, Kaxuyâna, Kaxúyana, Pauxi, Txikuyana, Txikïyana, Warikiana, Warikyana, Werikyana, Xikuyana, Xikïyana]
 population: 12
 country_id: BR
 country_name: Brazil

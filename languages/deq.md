@@ -2,6 +2,7 @@
 iso: deq
 name: Dendi (Central African Republic)
 autonym: null
+alt_names: [Dendi]
 population: 10000
 country_id: CF
 country_name: Central African Republic

@@ -2,6 +2,7 @@
 iso: gby
 name: Gbari
 autonym: Gbari Yamma
+alt_names: [Gwari, Gwari Yamma, Nkwa, West Gwari]
 population: 523000
 country_id: NG
 country_name: Nigeria

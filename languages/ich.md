@@ -2,6 +2,7 @@
 iso: ich
 name: Etkywan
 autonym: Icen
+alt_names: [Etekwe, Ichen, Itchen, Kentu, Kyanton, Kyato, Nyidu]
 population: 50200
 country_id: NG
 country_name: Nigeria

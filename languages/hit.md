@@ -1,7 +1,9 @@
 ---
 iso: hit
 name: Hittite
+name_zh: 赫梯語
 autonym: 𒌷𒉌𒅆𒇷
+alt_names: [An Hitis, Bahasa Hitit, Chetitčina, Chetitština, Hati, Hatti, Heetin kieli, Hethitische Sprache, Hetitski jezik, Hetitščina, Hettita nyelv, Hettitisch, Hettitiska, Hettittisk, Hitit dili, Hitita lingvo, Hittiteg, Hittitíska, Idioma hitita, Język hetycki, Limba hitită, Lingua Hetthaea, Lingua hitita, Lingua ittita, Llengua hitita, Língua hitita, Nesian, Nesite, Χεττιτική γλώσσα, Хетски език, Хетски јазик, Хеттский язык, Хеттська мова, חתית, زبان هیتی, हत्ती, ภาษาฮิตไตต์, ხეთური ენა, ヒッタイト語, 赫梯語, 히타이트어]
 population: null
 country_id: TR
 country_name: Turkey

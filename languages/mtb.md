@@ -2,6 +2,7 @@
 iso: mtb
 name: Anyin Morofo
 autonym: Anyi
+alt_names: [Morofo]
 population: 300000
 country_id: CI
 country_name: "Côte d'Ivoire"

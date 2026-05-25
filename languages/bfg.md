@@ -2,6 +2,7 @@
 iso: bfg
 name: Busang Kayan
 autonym: Kajan
+alt_names: [Busang, Kajang, "Kayan, Busang"]
 population: 3000
 country_id: ID
 country_name: Indonesia

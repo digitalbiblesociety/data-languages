@@ -2,6 +2,7 @@
 iso: bes
 name: Besme
 autonym: Beseme
+alt_names: ["'Unar", Besemme, Bodor, Hounar, Huner]
 population: 1230
 country_id: TD
 country_name: Chad

@@ -2,6 +2,7 @@
 iso: aek
 name: Haeke
 autonym: Haekic
+alt_names: ["'Aeke", Aeke, Haeake, Neukaledonien]
 population: 100
 country_id: NC
 country_name: New Caledonia

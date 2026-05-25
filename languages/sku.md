@@ -2,6 +2,7 @@
 iso: sku
 name: Sakao
 autonym: Wanohe
+alt_names: [Hog Harbour, "N'kep", Sakau, Santo]
 population: 4000
 country_id: VU
 country_name: Vanuatu

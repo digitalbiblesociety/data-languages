@@ -2,6 +2,7 @@
 iso: kbx
 name: Ap Ma
 autonym: Ap Ma
+alt_names: [Ap Ma Botin, Botin, Kambot, Kambot (Keram), Karaube, Keram]
 population: 10000
 country_id: PG
 country_name: Papua New Guinea

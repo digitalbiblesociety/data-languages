@@ -1,7 +1,9 @@
 ---
 iso: kun
 name: Kunama
+name_zh: 库纳马语
 autonym: Baada
+alt_names: [Baaden, Baaza, Baazayn, Baazen, Bada, Baden, Baza, Bazen, Cunama, Diila, Język kunama, Kunama jezik, Lingua kunama, Кунама тили, Кунама јазик]
 population: 244430
 country_id: ER
 country_name: Eritrea

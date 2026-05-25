@@ -2,6 +2,7 @@
 iso: pwo
 name: Pwo Western Karen
 autonym: ဖျိၩ့
+alt_names: [Bassein Pwo Karen, Delta Pwo Karen, Karen, Karen (Pwo), "Karen, Pwo Western", "Karen,PwoWestern", Mutheit, Phlon, Phlong Sho, Pho, Pho of Bassein, Pwo, Pwo Eastern, Pwo Karen, Pwo Western, Shu, Western Pwo]
 population: 210000
 country_id: MM
 country_name: Myanmar

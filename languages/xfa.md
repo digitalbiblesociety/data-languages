@@ -1,6 +1,7 @@
 ---
 iso: xfa
 name: Faliscan
+name_zh: 法利斯克语
 autonym: null
 population: null
 country_id: IT

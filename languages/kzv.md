@@ -2,6 +2,7 @@
 iso: kzv
 name: Komyandaret
 autonym: bahasa Komyandaret
+alt_names: [Indonesia]
 population: 300
 country_id: ID
 country_name: Indonesia

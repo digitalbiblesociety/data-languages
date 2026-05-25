@@ -1,7 +1,9 @@
 ---
 iso: mga
 name: "Middle Irish (900-1200)"
+name_zh: 中古爱尔兰语
 autonym: Gaoidhealg
+alt_names: ["Irish, Middle (900-1200)"]
 population: null
 country_id: IE
 country_name: Ireland

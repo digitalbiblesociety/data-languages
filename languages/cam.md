@@ -2,6 +2,7 @@
 iso: cam
 name: Cemuhî
 autonym: Wagap
+alt_names: [Camuhi, Camuki, Cemuhi, Cèmuhî, Neukaledonien, Touho, Tyamuhi]
 population: 2050
 country_id: NC
 country_name: New Caledonia

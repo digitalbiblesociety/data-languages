@@ -2,6 +2,7 @@
 iso: wci
 name: Waci Gbe
 autonym: Ouatchi
+alt_names: ["Gbe, Waci", Wachi, Waci, Waci-Gbe, Watyi, Watyu]
 population: 884300
 country_id: TG
 country_name: Togo

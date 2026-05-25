@@ -2,6 +2,7 @@
 iso: bor
 name: Borôro
 autonym: Boe Wadáru
+alt_names: [Boe, Bororo, Bororo proper, Borro, Eastern Bororo, Western Bororo]
 population: 1392
 country_id: BR
 country_name: Brazil

@@ -2,6 +2,7 @@
 iso: cnl
 name: Lalana Chinantec
 autonym: "Chinantec, Lalana"
+alt_names: [Chinantec, Chinanteco, Chinanteco de San Juan Lalana, Chinanteco del sureste bajo, Chinanteko, Lalana, Lalana Chinanteko, Lower Southeastern Chinantec, "jujmi dsa m+ta'o", "jujmi dsa maji'i"]
 population: 10700
 country_id: MX
 country_name: Mexico

@@ -2,6 +2,7 @@
 iso: omu
 name: Omurano
 autonym: Mayna
+alt_names: [Humurana, Maina, Numurana, Omouraneg, Rimachu, Roamaina, Roamaino, Umurano]
 population: 10
 country_id: PE
 country_name: Peru

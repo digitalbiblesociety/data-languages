@@ -2,6 +2,7 @@
 iso: mzq
 name: Mori Atas
 autonym: Aikoa
+alt_names: [Upper Mori, West Mori]
 population: 14000
 country_id: ID
 country_name: Indonesia

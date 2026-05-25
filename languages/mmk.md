@@ -2,6 +2,7 @@
 iso: mmk
 name: "Mukha-Dora"
 autonym: "Conta-Reddi"
+alt_names: [Mukha Dhora, Nooka Dora, Nuka-Dora, Reddi, Reddi-Dora, Riddi]
 population: 29700
 country_id: IN
 country_name: India

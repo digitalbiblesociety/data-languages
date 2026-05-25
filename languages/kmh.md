@@ -1,7 +1,9 @@
 ---
 iso: kmh
 name: Kalam
+name_zh: Kalam 語
 autonym: Kalam (Minimib)
+alt_names: [Aforo, Karam]
 population: 20000
 country_id: PG
 country_name: Papua New Guinea

@@ -2,6 +2,7 @@
 iso: lgu
 name: Longgu
 autonym: Logu
+alt_names: [Südliche Salomons-Inseln]
 population: 1890
 country_id: SB
 country_name: Solomon Islands

@@ -1,7 +1,9 @@
 ---
 iso: phg
 name: Phuong
+name_zh: 方语
 autonym: High Katu
+alt_names: [Huu River Vân Kiêu, Phuang, Phuong Catang]
 population: 15100
 country_id: VN
 country_name: Vietnam

@@ -2,6 +2,7 @@
 iso: gwj
 name: ǀGwi
 autonym: Dcui
+alt_names: [/Gwi, G/wi, Gwi, "G|wi", Gǀwi language, "|Gui", "|Gwi", Лъгана-цъгви]
 population: 2500
 country_id: BW
 country_name: Botswana

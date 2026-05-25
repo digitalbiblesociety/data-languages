@@ -1,6 +1,7 @@
 ---
 iso: aza
 name: Azha
+name_zh: 阿扎语
 autonym: Aji
 population: 53000
 country_id: CN

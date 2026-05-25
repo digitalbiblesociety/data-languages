@@ -2,6 +2,7 @@
 iso: mki
 name: Dhatki
 autonym: Dhati
+alt_names: [Thar]
 population: 206400
 country_id: PK
 country_name: Pakistan

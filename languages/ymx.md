@@ -2,6 +2,7 @@
 iso: ymx
 name: Northern Muji
 autonym: Bokha
+alt_names: [Hlaka Mujima, Muji, "Muji, Northern", "Muji,Northern", Muyi, Phula]
 population: 9000
 country_id: CN
 country_name: China

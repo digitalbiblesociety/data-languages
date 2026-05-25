@@ -1,7 +1,9 @@
 ---
 iso: bgz
 name: Banggai
+name_zh: 邦盖语
 autonym: Aki
+alt_names: [Gagauz]
 population: 88300
 country_id: ID
 country_name: Indonesia

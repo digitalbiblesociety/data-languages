@@ -2,6 +2,7 @@
 iso: wkd
 name: Wakde
 autonym: Mo
+alt_names: [Indonesia]
 population: 550
 country_id: ID
 country_name: Indonesia

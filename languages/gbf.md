@@ -2,6 +2,7 @@
 iso: gbf
 name: Gaikundi
 autonym: Gaikunti
+alt_names: [Gaikwundi, Sawos]
 population: 1200
 country_id: PG
 country_name: Papua New Guinea

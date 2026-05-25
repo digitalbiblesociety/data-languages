@@ -1,7 +1,9 @@
 ---
 iso: krk
 name: Kerek
+name_zh: 克列克語
 autonym: аӈӄалҕакку
+alt_names: [Język kerecki, Kerekin kieli, Kereks, Kerečki jezik, Língua kereque, Керек чĕлхи, керекский язык]
 population: 2020
 country_id: RU
 country_name: Russia

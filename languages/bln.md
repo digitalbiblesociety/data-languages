@@ -2,6 +2,7 @@
 iso: bln
 name: Southern Catanduanes Bikol
 autonym: Virac
+alt_names: ["Bicolano, Southern Catanduanes", Bikol, "Bikol, Southern Catanduanes", Southern Catanduanes Bicolano]
 population: 135000
 country_id: PH
 country_name: Philippines

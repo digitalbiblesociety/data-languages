@@ -2,6 +2,7 @@
 iso: xbb
 name: Lower Burdekin
 autonym: "Bindal ?"
+alt_names: ["Burdekin, Lower"]
 population: null
 country_id: AU
 country_name: Australia

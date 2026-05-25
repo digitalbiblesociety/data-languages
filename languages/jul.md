@@ -1,7 +1,9 @@
 ---
 iso: jul
 name: Jirel
+name_zh: 几热尔语
 autonym: Jiri
+alt_names: [Jirial, Ziral]
 population: 7070
 country_id: NP
 country_name: Nepal

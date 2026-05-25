@@ -2,6 +2,7 @@
 iso: wwa
 name: Waama
 autonym: Yoabu
+alt_names: [Wama, Woaba, Yoabou]
 population: 115000
 country_id: BJ
 country_name: Benin

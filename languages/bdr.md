@@ -1,7 +1,9 @@
 ---
 iso: bdr
 name: West Coast Bajau
+name_zh: 西海岸巴瑶语
 autonym: Bajo
+alt_names: ["Bajau, West Coast", Land Bajaw, West Coast Bajao]
 population: 10700
 country_id: MY
 country_name: Malaysia

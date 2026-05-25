@@ -2,6 +2,7 @@
 iso: mbx
 name: Mari (East Sepik Province)
 autonym: null
+alt_names: [Mari]
 population: 80
 country_id: PG
 country_name: Papua New Guinea

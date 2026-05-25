@@ -2,6 +2,7 @@
 iso: tag
 name: Tagoi
 autonym: ŋɔ̹́ɡɔ̹́lɛ̹́
+alt_names: [Język tagoi, Lingua tagoi, Tagoieg, Tagoy, Tagoí, Tumale, Umāle]
 population: 1100
 country_id: SD
 country_name: Sudan

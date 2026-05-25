@@ -2,6 +2,7 @@
 iso: glc
 name: Bon Gula
 autonym: Bon
+alt_names: [Bon Goula, Bun, Gula Guera, Poun, Taataal, Êeni]
 population: 1200
 country_id: TD
 country_name: Chad

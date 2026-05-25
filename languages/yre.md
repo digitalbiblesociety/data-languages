@@ -2,6 +2,7 @@
 iso: yre
 name: Yaouré
 autonym: null
+alt_names: [Yaoure, Yaure, Yohowré, Youré]
 population: 40000
 country_id: CI
 country_name: "Côte d'Ivoire"

@@ -1,6 +1,7 @@
 ---
 iso: xwk
 name: Wangkumara
+name_zh: Wangkumara语
 autonym: Palpakunu
 population: null
 country_id: AU

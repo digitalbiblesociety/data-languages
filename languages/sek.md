@@ -1,7 +1,9 @@
 ---
 iso: sek
 name: Sekani
+name_zh: 塞卡尼语
 autonym: "Tse'khene"
+alt_names: [Sekaní, "Tse'khene (Sekani)", "Tsek'ehne", "Tsek'ene", "Tsek'hene", "Tθek'ehne"]
 population: 600
 country_id: CA
 country_name: Canada

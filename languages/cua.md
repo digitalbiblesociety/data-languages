@@ -1,7 +1,9 @@
 ---
 iso: cua
 name: Cua
+name_zh: 戈语 (南亚语系)
 autonym: Bòng Mieu
+alt_names: [Bong Miew, Kor, Traw, ภาษากัว]
 population: 12000
 country_id: VN
 country_name: Vietnam

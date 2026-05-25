@@ -1,7 +1,9 @@
 ---
 iso: cdz
 name: Koda
+name_zh: 科达语
 autonym: কোডা
+alt_names: [Kaora, Kora, Korali, Korati, Kore, Koɖa, Koɽa, Kōḍā, Kōḍā, Mudi, Mudikora, Mundari, Mundari-Ho]
 population: 1300
 country_id: IN
 country_name: India

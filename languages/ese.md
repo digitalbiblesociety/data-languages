@@ -2,6 +2,7 @@
 iso: ese
 name: Ese Ejja
 autonym: Tiatinagua
+alt_names: ["\"Chama\"", Chama, Chama (Tiatinagua), Chuncho, Ese Eja, Ese Exa, "Ese'eha", "Ese'ejja", "Ese'jja", Ese-ejja, Eseejja, Eseʔexa, Essejja, Guacanawa, Huarayo, Tambopata-Guarayo, "“Chama\""]
 population: 1110
 country_id: BO
 country_name: Bolivia

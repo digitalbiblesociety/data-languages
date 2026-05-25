@@ -2,6 +2,7 @@
 iso: wny
 name: Wanyi
 autonym: Waanji
+alt_names: [Waangyee, Waanyi, Wainyi, Wanee, Wanji, Wanyee, Wanyu, Wonyee]
 population: 16
 country_id: AU
 country_name: Australia

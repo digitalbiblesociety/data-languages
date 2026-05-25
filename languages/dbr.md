@@ -2,6 +2,7 @@
 iso: dbr
 name: Dabarre
 autonym: "Af-Dabarre"
+alt_names: [Dabarre hizkuntza]
 population: 23000
 country_id: SO
 country_name: Somalia

@@ -2,6 +2,7 @@
 iso: vap
 name: Vaiphei
 autonym: Bhaipei
+alt_names: [Vaipei, Veiphei]
 population: 42700
 country_id: IN
 country_name: India

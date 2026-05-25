@@ -2,6 +2,7 @@
 iso: cnq
 name: Chung
 autonym: Cung
+alt_names: [Chungmboko]
 population: 1400
 country_id: CM
 country_name: Cameroon

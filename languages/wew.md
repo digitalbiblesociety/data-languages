@@ -2,6 +2,7 @@
 iso: wew
 name: Wejewa
 autonym: West Sumbanese
+alt_names: [Veveva, Waidjewa, Waijewa, Wajewa, West-Soembasch, Wewewa, Wewjewa, Weyewa]
 population: 55000
 country_id: ID
 country_name: Indonesia

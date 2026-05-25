@@ -2,6 +2,7 @@
 iso: nbn
 name: Kuri
 autonym: Nabi
+alt_names: [Modan]
 population: 500
 country_id: ID
 country_name: Indonesia

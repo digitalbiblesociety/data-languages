@@ -2,6 +2,7 @@
 iso: bzq
 name: Buli (Indonesia)
 autonym: null
+alt_names: [Buli, Buli (Indonesian), Buli (in Indonesia)]
 population: 2520
 country_id: ID
 country_name: Indonesia

@@ -1,7 +1,9 @@
 ---
 iso: cac
 name: Chuj
+name_zh: 祖赫語
 autonym: Chuj
+alt_names: ["Chuj, San Sebastián Coatán", Idioma chuj, Język chuj, Língua chuj, Чухски јазик, 祖赫語]
 population: 61490
 country_id: GT
 country_name: Guatemala

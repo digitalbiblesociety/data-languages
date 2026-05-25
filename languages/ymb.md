@@ -2,6 +2,7 @@
 iso: ymb
 name: Yambes
 autonym: null
+alt_names: [East Sepik Province, Maprik District, east and southeast of Kombio, northwest of Wom]
 population: 1080
 country_id: PG
 country_name: Papua New Guinea

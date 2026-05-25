@@ -2,6 +2,7 @@
 iso: lig
 name: Ligbi
 autonym: Banda
+alt_names: [Dzowo, Huela, Hwela-Numu, Jogo, Ligwi, Namasa, Nigbi, Nigwi, Numu, Tsie, Tuba, Weela, Weila, Wiila]
 population: 15000
 country_id: GH
 country_name: Ghana

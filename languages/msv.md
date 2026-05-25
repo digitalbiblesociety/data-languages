@@ -2,6 +2,7 @@
 iso: msv
 name: Maslam
 autonym: Maltam
+alt_names: [Kotoko-Maltam, Mandage, Mandagué, Mendage]
 population: 250
 country_id: CM
 country_name: Cameroon

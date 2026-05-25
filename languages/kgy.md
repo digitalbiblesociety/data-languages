@@ -2,6 +2,7 @@
 iso: kgy
 name: Kyerung
 autonym: " Lende Kyerung "
+alt_names: [Gyirong, Kyirong]
 population: 4790
 country_id: CN
 country_name: China

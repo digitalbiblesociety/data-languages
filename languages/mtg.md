@@ -2,6 +2,7 @@
 iso: mtg
 name: Una
 autonym: Goliath
+alt_names: [Langda, Langtub, Mt. Goliath, Oranje-Gebergte]
 population: 4000
 country_id: ID
 country_name: Indonesia

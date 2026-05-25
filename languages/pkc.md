@@ -1,6 +1,7 @@
 ---
 iso: pkc
 name: Paekche
+name_zh: 百濟語
 autonym: Paekche
 population: null
 country_id: KR

@@ -2,6 +2,7 @@
 iso: acz
 name: Acheron
 autonym: Aceron
+alt_names: [Achurun, Asheron, Garme]
 population: 20000
 country_id: SD
 country_name: Sudan

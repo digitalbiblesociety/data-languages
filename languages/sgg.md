@@ -1,7 +1,9 @@
 ---
 iso: sgg
 name: "Swiss-German Sign Language"
+name_zh: 瑞士德语手语
 autonym: Schweizerdeutsche Gebärdensprache Langue des Signes
+alt_names: [DSGS, Deutschschweizerische Gebärdensprache, Natürliche Gebärde]
 population: 6000
 country_id: CH
 country_name: Switzerland

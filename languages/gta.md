@@ -2,6 +2,7 @@
 iso: gta
 name: Guató
 autonym: go-t͡ʃéuvɨ́ i-ótɨ́
+alt_names: [Guato]
 population: 382
 country_id: BR
 country_name: Brazil

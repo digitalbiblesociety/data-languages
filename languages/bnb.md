@@ -2,6 +2,7 @@
 iso: bnb
 name: Bookan
 autonym: Baukan Murut
+alt_names: [Baukan]
 population: 2760
 country_id: MY
 country_name: Malaysia

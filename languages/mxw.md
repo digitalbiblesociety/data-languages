@@ -2,6 +2,7 @@
 iso: mxw
 name: Namo
 autonym: Dorro
+alt_names: [Dorro (formerly), Mari, Na]
 population: 380
 country_id: PG
 country_name: Papua New Guinea

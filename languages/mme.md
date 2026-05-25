@@ -2,6 +2,7 @@
 iso: mme
 name: Mae
 autonym: " Dirak"
+alt_names: [Emwae, Mallicolo, Tirax]
 population: 1000
 country_id: VU
 country_name: Vanuatu

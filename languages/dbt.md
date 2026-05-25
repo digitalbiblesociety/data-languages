@@ -2,6 +2,7 @@
 iso: dbt
 name: Ben Tey Dogon
 autonym: null
+alt_names: [Ben Tey, Beni, "Dogon, Ben Tey"]
 population: 3000
 country_id: ML
 country_name: Mali

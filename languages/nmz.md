@@ -2,6 +2,7 @@
 iso: nmz
 name: Nawdm
 autonym: Losso
+alt_names: [Losu, Naoudem, Naudem, Naudm, Nawdam]
 population: 146000
 country_id: TG
 country_name: Togo

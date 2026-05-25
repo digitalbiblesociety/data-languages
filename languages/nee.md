@@ -2,6 +2,7 @@
 iso: nee
 name: "Nêlêmwa-Nixumwak"
 autonym: "Nêlêmwa-Nixumwak"
+alt_names: [Fwa-Goumak, Koumac, Kumak, Nelemwa, Neukaledonien]
 population: 950
 country_id: NC
 country_name: New Caledonia

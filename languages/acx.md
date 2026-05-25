@@ -1,7 +1,9 @@
 ---
 iso: acx
 name: Omani Arabic
+name_zh: 阿曼阿拉伯語
 autonym: اللهجة العمانية
+alt_names: [Arabic, "Arabic, Omani", "Arabic, Omani Spoken", Omani Hadari Arabic, Omanski arapski, Omanī, Омански арапски јазик, ภาษาอาหรับโอมาน]
 population: 2851200
 country_id: OM
 country_name: Oman

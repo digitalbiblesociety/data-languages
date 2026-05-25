@@ -2,6 +2,7 @@
 iso: orc
 name: Orma
 autonym: Uardai
+alt_names: [Galla, Wadai, Warday, Wardei]
 population: 92100
 country_id: KE
 country_name: Kenya

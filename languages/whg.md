@@ -2,6 +2,7 @@
 iso: whg
 name: North Wahgi
 autonym: null
+alt_names: [Mid-Wahgi, Wahgi, "Wahgi, North"]
 population: 58000
 country_id: PG
 country_name: Papua New Guinea

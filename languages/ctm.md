@@ -2,6 +2,7 @@
 iso: ctm
 name: Chitimacha
 autonym: Čitimaaša
+alt_names: [Chatimacha, Chetimacha, Chitimacha Cluster, Chitimachan, Shetimacha, Shetimasha, Читимача]
 population: null
 country_id: US
 country_name: United States

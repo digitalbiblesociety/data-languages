@@ -2,6 +2,7 @@
 iso: igw
 name: Igwe
 autonym: null
+alt_names: [Nigeria]
 population: 47800
 country_id: NG
 country_name: Nigeria

@@ -1,7 +1,9 @@
 ---
 iso: wne
 name: Waneci
+name_zh: 瓦内西语
 autonym: Chalgari
+alt_names: [Pashto, Tarino, Vanechi, Wanechi, Wanetsi]
 population: 141000
 country_id: PK
 country_name: Pakistan

@@ -1,7 +1,9 @@
 ---
 iso: xnr
 name: Kangri
+name_zh: 坎格里语
 autonym: कांगड़ी
+alt_names: [Kangra-Dogri, Pahari, Pahari Kangri]
 population: 1120000
 country_id: IN
 country_name: India

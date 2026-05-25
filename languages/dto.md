@@ -2,6 +2,7 @@
 iso: dto
 name: Tommo So Dogon
 autonym: "Tombo-So"
+alt_names: ["Dogon, Tommo So"]
 population: 40000
 country_id: ML
 country_name: Mali

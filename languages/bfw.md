@@ -1,7 +1,9 @@
 ---
 iso: bfw
 name: Bondo
+name_zh: 雷莫语
 autonym: Remo
+alt_names: [Bhonda Bhasha, Bonda, Bonda Poroja, Bonda language, Bonda lingvo, Bondo Poroja, Bondo-Poraja, Bunda, Nanga Poroja, Nanqa Poroja, Poraja Katha, Remosum, Remsan, Бондо]
 population: 3500
 country_id: IN
 country_name: India

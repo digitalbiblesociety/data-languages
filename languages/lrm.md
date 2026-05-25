@@ -2,6 +2,7 @@
 iso: lrm
 name: Marama
 autonym: Luyia
+alt_names: [Olumarama]
 population: null
 country_id: KE
 country_name: Kenya

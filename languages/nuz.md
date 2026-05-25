@@ -1,7 +1,9 @@
 ---
 iso: nuz
 name: Tlamacazapa Nahuatl
+name_zh: 特拉馬卡薩帕納瓦特爾語
 autonym: null
+alt_names: [Central Nawa, Mexicano, Nahua central, Nahuatl, "Nahuatl, Tlamacazapa", Náhuatl central]
 population: 1550
 country_id: MX
 country_name: Mexico

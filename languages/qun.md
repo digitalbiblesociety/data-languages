@@ -2,6 +2,7 @@
 iso: qun
 name: Quinault
 autonym: Kʷínaył
+alt_names: [Queets, Queniut, kʷínayɬ]
 population: 2007
 country_id: US
 country_name: United States

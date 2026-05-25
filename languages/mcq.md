@@ -2,6 +2,7 @@
 iso: mcq
 name: Ese
 autonym: Managalasi
+alt_names: ["\"Managalasi\"", "\"Managulasi\""]
 population: 10000
 country_id: PG
 country_name: Papua New Guinea

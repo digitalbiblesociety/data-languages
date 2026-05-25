@@ -1,7 +1,9 @@
 ---
 iso: ttt
 name: Muslim Tat
+name_zh: 塔特语
 autonym: zuhun tati
+alt_names: [(Tati), Mussulman Tati, Tat, Tat (Muslim), Tat language, "Tat, Muslim", Tata lingvo, Tateg, Tati, Tatin kieli, Tatí musulmán, зуун тати, татский язык, Թաթերեն, زبان تاتی قفقاز, ภาษาตัต, თათური ენა]
 population: 18000
 country_id: AZ
 country_name: Azerbaijan

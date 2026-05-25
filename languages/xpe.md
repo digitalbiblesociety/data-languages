@@ -2,6 +2,7 @@
 iso: xpe
 name: Liberia Kpelle
 autonym: Kpɛlɛwoo
+alt_names: [Gbese, Guerze, Kpel(l)e, Kpele, Kpelle, "Kpelle, Liberia", Kpwessi, Liberia, Pessa, Pessy]
 population: 867000
 country_id: LR
 country_name: Liberia

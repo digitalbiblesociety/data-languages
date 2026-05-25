@@ -2,6 +2,7 @@
 iso: llx
 name: Lauan
 autonym: Lau
+alt_names: [Fidji-Inseln]
 population: 16000
 country_id: FJ
 country_name: Fiji

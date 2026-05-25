@@ -2,6 +2,7 @@
 iso: nyi
 name: Ama (Sudan)
 autonym: Ama
+alt_names: [Ama-nosa, Inyimang, Nyima, Nyiman, Nyimang, nOsa]
 population: 158000
 country_id: SD
 country_name: Sudan

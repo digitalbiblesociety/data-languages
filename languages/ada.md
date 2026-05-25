@@ -1,7 +1,9 @@
 ---
 iso: ada
 name: Adangme
+name_zh: 丹美語
 autonym: Dangbe
+alt_names: [Adangmeg, Dangme, Lenga Adangbe]
 population: 1020000
 country_id: GH
 country_name: Ghana

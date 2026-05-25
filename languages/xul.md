@@ -2,6 +2,7 @@
 iso: xul
 name: Ngunawal
 autonym: Gundungurra
+alt_names: [Nunukul]
 population: 80
 country_id: AU
 country_name: Australia

@@ -1,7 +1,9 @@
 ---
 iso: kho
 name: Khotanese
+name_zh: 和田语
 autonym: "Khotanese, Tumshuqese"
+alt_names: [Khotanais, Khotanese-Sakan, Saka, Sakan, Sakian, Хотаносакский язык]
 population: null
 country_id: CN
 country_name: China

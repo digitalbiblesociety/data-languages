@@ -1,7 +1,9 @@
 ---
 iso: xka
 name: Kalkoti
+name_zh: 卡尔克提语
 autonym: null
+alt_names: [Dardu]
 population: 4000
 country_id: PK
 country_name: Pakistan

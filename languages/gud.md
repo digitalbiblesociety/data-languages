@@ -2,6 +2,7 @@
 iso: gud
 name: Yocoboué Dida
 autonym: null
+alt_names: ["Côte d'Ivoire", "Dida, Yocoboué", Yocoboue Dida]
 population: 102000
 country_id: CI
 country_name: "Côte d'Ivoire"

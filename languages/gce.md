@@ -2,6 +2,7 @@
 iso: gce
 name: Galice
 autonym: Upper Rogue River
+alt_names: [Applegate-Galice, Galice-Applegate]
 population: null
 country_id: US
 country_name: United States

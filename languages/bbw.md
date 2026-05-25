@@ -2,6 +2,7 @@
 iso: bbw
 name: Baba
 autonym: Papiak
+alt_names: [Bapa, Bapakum, Papia]
 population: 24500
 country_id: CM
 country_name: Cameroon

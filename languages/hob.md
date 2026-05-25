@@ -2,6 +2,7 @@
 iso: hob
 name: Mari (Madang Province)
 autonym: Hop
+alt_names: [Mari]
 population: 810
 country_id: PG
 country_name: Papua New Guinea

@@ -2,6 +2,7 @@
 iso: mgk
 name: Mawes
 autonym: bahasa Mawes
+alt_names: [Indonesia]
 population: 850
 country_id: ID
 country_name: Indonesia

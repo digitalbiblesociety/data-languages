@@ -2,6 +2,7 @@
 iso: mjx
 name: Mahali
 autonym: ᱥᱟᱱᱛᱟᱲᱤ
+alt_names: [Mahili, Mahle, Mahli]
 population: 29400
 country_id: IN
 country_name: India

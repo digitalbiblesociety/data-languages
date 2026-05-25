@@ -2,6 +2,7 @@
 iso: bwa
 name: Bwatoo
 autonym: null
+alt_names: [Dialectes de Voh-Koné, Dialectos de Voh-Koné, Neukaledonien]
 population: 300
 country_id: NC
 country_name: New Caledonia

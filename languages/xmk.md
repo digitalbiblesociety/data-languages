@@ -1,7 +1,9 @@
 ---
 iso: xmk
 name: Ancient Macedonian
+name_zh: 古马其顿语
 autonym: null
+alt_names: ["Macedonian, Ancient"]
 population: null
 country_id: MK
 country_name: North Macedonia

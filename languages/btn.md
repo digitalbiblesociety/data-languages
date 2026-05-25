@@ -1,7 +1,9 @@
 ---
 iso: btn
 name: Ratagnon
+name_zh: 拉塔各农语
 autonym: Aradigi
+alt_names: [Bisaya, Datagnon, Lactan, Latagnun, Latan, ภาษาราตักนอน]
 population: 2000
 country_id: PH
 country_name: Philippines

@@ -1,7 +1,9 @@
 ---
 iso: xcg
 name: Cisalpine Gaulish
+name_zh: 山南高卢语
 autonym: null
+alt_names: [Gaul, Gaulish, "Gaulish, Cisalpine"]
 population: null
 country_id: IT
 country_name: Italy

@@ -2,6 +2,7 @@
 iso: cll
 name: Chala
 autonym: Cala
+alt_names: [Cãla, Tsa, Tschala, Tshala]
 population: 3000
 country_id: GH
 country_name: Ghana

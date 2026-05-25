@@ -2,6 +2,7 @@
 iso: kgv
 name: Karas
 autonym: Kalamang
+alt_names: [Kalamang-mang, Karas Laut (Seaside Karas)]
 population: 240
 country_id: ID
 country_name: Indonesia

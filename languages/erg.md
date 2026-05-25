@@ -2,6 +2,7 @@
 iso: erg
 name: Sie
 autonym: Erromangan
+alt_names: [Eromanga, Erramanga, Erromanga, Erromango, Sye]
 population: 1900
 country_id: VU
 country_name: Vanuatu

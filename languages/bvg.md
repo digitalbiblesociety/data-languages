@@ -2,6 +2,7 @@
 iso: bvg
 name: Bonkeng
 autonym: Bongken
+alt_names: [Bonkeng-Pendia, Bonkenge]
 population: 2980
 country_id: CM
 country_name: Cameroon

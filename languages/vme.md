@@ -2,6 +2,7 @@
 iso: vme
 name: East Masela
 autonym: Marsela
+alt_names: [East Marsela, "Masela, East"]
 population: 520
 country_id: ID
 country_name: Indonesia

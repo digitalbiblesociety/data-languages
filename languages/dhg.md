@@ -2,6 +2,7 @@
 iso: dhg
 name: "Dhangu-Djangu"
 autonym: Djangu
+alt_names: [Dangu, Dhaangu, Dhangu, "Dhangu'mi", Dhaŋu, Gaalpu, Warameri, Waramiri, Yirgala, Yuulngu]
 population: 230
 country_id: AU
 country_name: Australia

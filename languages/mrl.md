@@ -2,6 +2,7 @@
 iso: mrl
 name: Mortlockese
 autonym: " Kapsen Mwoshulók"
+alt_names: [Mortlock, Nomoi]
 population: 1000
 country_id: FM
 country_name: Micronesia

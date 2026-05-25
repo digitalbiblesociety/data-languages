@@ -2,6 +2,7 @@
 iso: une
 name: Uneme
 autonym: uneme nnekua
+alt_names: [Ileme, Ineme, Uleme]
 population: 19800
 country_id: NG
 country_name: Nigeria

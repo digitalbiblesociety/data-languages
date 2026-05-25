@@ -2,6 +2,7 @@
 iso: xup
 name: Upper Umpqua
 autonym: Etnemitane
+alt_names: ["Umpqua, Upper"]
 population: null
 country_id: US
 country_name: United States

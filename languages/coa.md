@@ -1,7 +1,9 @@
 ---
 iso: coa
 name: Cocos Islands Malay
+name_zh: 科科斯馬來語
 autonym: Basa Pulu Cocos/Basa Pulu Keling
+alt_names: [Cocos, Kokos, Kukus, "Malay, Cocos Islands"]
 population: 4000
 country_id: AU
 country_name: Australia

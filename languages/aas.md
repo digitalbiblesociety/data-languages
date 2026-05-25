@@ -2,6 +2,7 @@
 iso: aas
 name: Aasáx
 autonym: Aasá
+alt_names: ["\"Dorobo\"", "\"Ndorobo\"", Aasax, Aasax hizkuntza, Aasáx jezik, Asa, Asak, Asakeg, Asax, Assa, Asá, Il Konono, Lamanik]
 population: 350
 country_id: TZ
 country_name: Tanzania

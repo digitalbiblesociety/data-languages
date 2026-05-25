@@ -2,6 +2,7 @@
 iso: agw
 name: Kahua
 autonym: Anganiwai
+alt_names: [Anganiwei, Chaha, Narihua, Südliche Salomons-Inseln, Wanoni]
 population: 5170
 country_id: SB
 country_name: Solomon Islands

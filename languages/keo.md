@@ -2,6 +2,7 @@
 iso: keo
 name: Kakwa
 autonym: Karo
+alt_names: [Bari Kakwa, Kakua, Kakwak, Kwakwak]
 population: 351000
 country_id: UG
 country_name: Uganda

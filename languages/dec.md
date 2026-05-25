@@ -2,6 +2,7 @@
 iso: dec
 name: Dagik
 autonym: Dengebu
+alt_names: [Buram, Dagig, Masakin, Masakin Dagig, Masakin Gusar, Reikha]
 population: 61000
 country_id: SD
 country_name: Sudan

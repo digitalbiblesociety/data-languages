@@ -2,6 +2,7 @@
 iso: bnm
 name: Batanga
 autonym: Noho
+alt_names: ["Bano'o", Banoho, Banoo, Nohu, Noku]
 population: 15000
 country_id: GQ
 country_name: Equatorial Guinea

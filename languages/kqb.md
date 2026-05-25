@@ -2,6 +2,7 @@
 iso: kqb
 name: Kovai
 autonym: Alngubin
+alt_names: [Kobai, Kowai, Umboi]
 population: 6000
 country_id: PG
 country_name: Papua New Guinea

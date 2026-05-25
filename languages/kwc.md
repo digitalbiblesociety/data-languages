@@ -2,6 +2,7 @@
 iso: kwc
 name: Likwala
 autonym: Likwala
+alt_names: [Ekwala, Kwala, Likouala]
 population: 79000
 country_id: CG
 country_name: Congo

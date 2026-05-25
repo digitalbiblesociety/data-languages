@@ -2,6 +2,7 @@
 iso: xdy
 name: Malayic Dayak
 autonym: Delang–Kayung–Banana’
+alt_names: [Dayak, "Dayak, Malayic"]
 population: 520000
 country_id: ID
 country_name: Indonesia

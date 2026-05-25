@@ -1,7 +1,9 @@
 ---
 iso: sog
 name: Sogdian
+name_zh: 粟特语
 autonym: swγδyk
+alt_names: [Idioma sogdiano, Język sogdyjski, Lingua Sogdiana, Sogda lingvo, Sogdien, Sogdin kieli, Sogdisch, Sogdische Sprache, Sogdiska, Soğdca, Сăкăт чĕлхи, Согдийски език, Согдийский язык, Согъдаг æвзаг, زبان سغدی, ภาษาซอกเดีย, ソグド語, 粟特语, 소그드어]
 population: null
 country_id: CN
 country_name: China

@@ -2,6 +2,7 @@
 iso: baj
 name: Barakai
 autonym: Workai
+alt_names: [Aru]
 population: 4300
 country_id: ID
 country_name: Indonesia

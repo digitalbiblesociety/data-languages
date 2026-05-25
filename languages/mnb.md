@@ -2,6 +2,7 @@
 iso: mnb
 name: Muna
 autonym: Wamba Wuna
+alt_names: [Mounan, Wuna]
 population: 266000
 country_id: ID
 country_name: Indonesia

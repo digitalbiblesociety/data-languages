@@ -2,6 +2,7 @@
 iso: cah
 name: Cahuarano
 autonym: null
+alt_names: [Hamacore, Ikito-Kawarano, Iquito, Iquito-Cahuarano, Kahouaraneg, Puca-Uma, Quiturran]
 population: null
 country_id: PE
 country_name: Peru

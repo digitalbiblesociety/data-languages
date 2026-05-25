@@ -2,6 +2,7 @@
 iso: ycn
 name: Yucuna
 autonym: Jukuna
+alt_names: [Chucuna, Matapi, Matapí, Yukuna]
 population: 770
 country_id: CO
 country_name: Colombia

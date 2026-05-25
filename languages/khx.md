@@ -2,6 +2,7 @@
 iso: khx
 name: Kanu
 autonym: Kaanu
+alt_names: [Kano, Likanu]
 population: 3500
 country_id: CD
 country_name: DR Congo

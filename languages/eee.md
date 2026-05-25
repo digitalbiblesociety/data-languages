@@ -1,7 +1,9 @@
 ---
 iso: eee
 name: E
+name_zh: 誒話
 autonym: Wuse
+alt_names: ["\"Wuse Hua\"", "\"Wusehua\"", Idioma e, Kjang E, Wusehuá, 誒話]
 population: 7000
 country_id: CN
 country_name: China

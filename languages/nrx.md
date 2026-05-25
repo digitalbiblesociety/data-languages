@@ -2,6 +2,7 @@
 iso: nrx
 name: Ngurmbur
 autonym: Ngomburr
+alt_names: [Ambugula, "Ambuku:la", Corm-bur, Gnormbur, Gnornbur, Gnumbu, Język ngurmbur, Koarnbut, Nambuguja, Ngombur, Ngorbu, Ngorbur, Ngorm-bur, Ngormbal, Ngormbu, Ngormbur, Ngumbu, Ngumbur, Ngurmbu, Ngurrumbudj, Numbu-gala, Oorm-bur, Oormbur]
 population: null
 country_id: AU
 country_name: Australia

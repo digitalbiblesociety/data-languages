@@ -1,6 +1,7 @@
 ---
 iso: xlp
 name: Lepontic
+name_zh: 南阿爾卑高盧語
 autonym: null
 population: null
 country_id: IT

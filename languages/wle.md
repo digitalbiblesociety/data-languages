@@ -2,6 +2,7 @@
 iso: wle
 name: Wolane
 autonym: ስልጥኘ
+alt_names: [Olane, Walane, Welene, Weleni, Wäläne]
 population: null
 country_id: ET
 country_name: Ethiopia

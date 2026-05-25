@@ -2,6 +2,7 @@
 iso: dbf
 name: Edopi
 autonym: Edopi
+alt_names: [Dosobou, Dou, Doufou, Elopi, Foi, Iau, Turu, Urundi, Ururi, Yau]
 population: 1000
 country_id: ID
 country_name: Indonesia

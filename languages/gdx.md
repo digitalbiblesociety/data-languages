@@ -2,6 +2,7 @@
 iso: gdx
 name: Godwari
 autonym: गोद्वाली
+alt_names: [India]
 population: 3000000
 country_id: IN
 country_name: India

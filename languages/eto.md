@@ -2,6 +2,7 @@
 iso: eto
 name: Eton
 autonym: Ìtón
+alt_names: [Eton (Cameroon), Iton]
 population: 250000
 country_id: CM
 country_name: Cameroon

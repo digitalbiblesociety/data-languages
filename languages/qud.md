@@ -2,6 +2,7 @@
 iso: qud
 name: Calderón Highland Quichua
 autonym: Kichwa Shimi
+alt_names: ["\"quichua (Cotopaxi, Tungurahua et Chimborazo)\"", Calderon, Calderon Highland Quichua, Calderón, Calderón Quichua, Cayambe Quichua, Cañar Highland Quichua, Chimborazo, Cotopaxi Quichua., Ecuador, Ecuador Quechua, Highland Ecuadorian Quichua, Highland Kichua, Imbabura Quichua, Kichua, Loja, Napo Quichua, Northern Pastaza Quichua, Pichincha Quichua, Quichua, Quichua (Cañar et Azuay), Quichua (Imbabura), Quichua (Loja), Quichua (Napo), Quichua (Pastaza), Quichua (Salasaca), "Quichua, Calderón Highland", Salasca, Tena Quichua]
 population: 25000
 country_id: EC
 country_name: Ecuador

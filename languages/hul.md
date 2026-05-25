@@ -2,6 +2,7 @@
 iso: hul
 name: Hula
 autonym: "Vula'a"
+alt_names: [Vulaa]
 population: 3240
 country_id: PG
 country_name: Papua New Guinea

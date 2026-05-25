@@ -1,7 +1,9 @@
 ---
 iso: jbu
 name: Jukun Takum
+name_zh: 朱昆语
 autonym: Jukun Takum
+alt_names: [Diyi, Diyu, Jukun, Njikum, Takum]
 population: 2440
 country_id: CM
 country_name: Cameroon

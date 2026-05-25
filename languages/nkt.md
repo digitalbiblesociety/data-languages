@@ -2,6 +2,7 @@
 iso: nkt
 name: Nyika
 autonym: Kinyika
+alt_names: [Nyika (Tanzania)]
 population: 25000
 country_id: TZ
 country_name: Tanzania

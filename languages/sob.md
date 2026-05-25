@@ -2,6 +2,7 @@
 iso: sob
 name: Sobei
 autonym: Biga
+alt_names: [Imasi, Liki]
 population: 1000
 country_id: ID
 country_name: Indonesia

@@ -2,6 +2,7 @@
 iso: shz
 name: Syenara Senoufo
 autonym: Senari
+alt_names: ["Senoufo, Syenara"]
 population: 155000
 country_id: ML
 country_name: Mali

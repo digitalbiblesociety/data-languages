@@ -2,6 +2,7 @@
 iso: nzz
 name: Nanga Dama Dogon
 autonym: Naŋa tegu
+alt_names: ["Dogon, Nanga Dama", Nanga, Nanga Dogon]
 population: 3000
 country_id: ML
 country_name: Mali

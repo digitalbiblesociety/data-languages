@@ -1,7 +1,9 @@
 ---
 iso: asf
 name: Auslan
+name_zh: 澳大利亚手语
 autonym: Australian Sign Language
+alt_names: [Australski znakovni jezik, Língua de Sinais Australiana]
 population: 10100
 country_id: AU
 country_name: Australia

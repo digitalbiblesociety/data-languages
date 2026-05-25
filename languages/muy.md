@@ -2,6 +2,7 @@
 iso: muy
 name: Muyang
 autonym: null
+alt_names: [Mouyenge, Mouyengue, Muyenge, Myau, Myenge]
 population: 30000
 country_id: CM
 country_name: Cameroon

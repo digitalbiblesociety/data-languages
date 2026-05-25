@@ -2,6 +2,7 @@
 iso: pab
 name: Parecís
 autonym: Arití
+alt_names: [Arawak, Ariti, Haliti, Pareche, Pareci, Parecis, Paresi, Paressi, Paressí, Paresí, Paretí]
 population: 1800
 country_id: BR
 country_name: Brazil

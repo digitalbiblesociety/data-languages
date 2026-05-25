@@ -1,7 +1,9 @@
 ---
 iso: ono
 name: Onondaga
+name_zh: 奧農達加語
 autonym: Onǫdaʼgegáʼ / Onoñdaʼgegáʼ
+alt_names: [Język onondaga, Onandaga, Onondaga (Canada), Onondaga (New York), Onondaga (Nueva York), Onondoga, 오논다가어]
 population: 18173
 country_id: CA
 country_name: Canada

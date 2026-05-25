@@ -1,7 +1,9 @@
 ---
 iso: yif
 name: Ache
+name_zh: 阿車語
 autonym: null
+alt_names: ["Yi, Ache"]
 population: 35000
 country_id: CN
 country_name: China

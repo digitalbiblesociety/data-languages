@@ -2,6 +2,7 @@
 iso: dtk
 name: Tene Kan Dogon
 autonym: Kan Dogon
+alt_names: [Dogon, "Dogon, Tene Kan", Tene, Tene Kan, Tene Tingi]
 population: 127000
 country_id: ML
 country_name: Mali

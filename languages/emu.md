@@ -2,6 +2,7 @@
 iso: emu
 name: Eastern Muria
 autonym: null
+alt_names: [Gonḍi, Gōṇḍī, "Muria, Eastern"]
 population: 200000
 country_id: IN
 country_name: India

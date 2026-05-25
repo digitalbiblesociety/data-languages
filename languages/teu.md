@@ -2,6 +2,7 @@
 iso: teu
 name: Soo
 autonym: Tepes
+alt_names: [So, Tepeth]
 population: 21534
 country_id: UG
 country_name: Uganda

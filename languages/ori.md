@@ -1,7 +1,9 @@
 ---
 iso: ori
 name: Oriya
+name_zh: 奥里亚语
 autonym: ଓଡ଼ିଆ
+alt_names: [Oriya (macrolanguage)]
 population: 35000000
 country_id: IN
 country_name: India

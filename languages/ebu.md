@@ -1,6 +1,7 @@
 ---
 iso: ebu
 name: Embu
+name_zh: 恩布语
 autonym: Kiembu
 population: 600000
 country_id: KE

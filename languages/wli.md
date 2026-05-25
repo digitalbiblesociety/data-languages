@@ -2,6 +2,7 @@
 iso: wli
 name: Waioli
 autonym: Wajoli
+alt_names: [Wai, Wayoli]
 population: 3000
 country_id: ID
 country_name: Indonesia

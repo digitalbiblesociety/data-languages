@@ -1,7 +1,9 @@
 ---
 iso: cjm
 name: Eastern Cham
+name_zh: 东部占语
 autonym: Bhamam
+alt_names: [Bình Thuân, Cham, Cham (East), Cham (Eastern), "Cham de l'est", "Cham, Eastern", Chamo oriental, Chiem, Chiem ThÃ nh, Phan Rang Cham, Tjam]
 population: 72900
 country_id: VN
 country_name: Vietnam

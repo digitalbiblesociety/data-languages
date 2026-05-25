@@ -1,7 +1,9 @@
 ---
 iso: lsh
 name: Lish
+name_zh: 利西语
 autonym: " Khispi"
+alt_names: [Kishpignag, Lish Monpa, Lishpa, Monpa]
 population: 2340
 country_id: IN
 country_name: India

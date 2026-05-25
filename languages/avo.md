@@ -2,6 +2,7 @@
 iso: avo
 name: Agavotaguerra
 autonym: Agavotokueng
+alt_names: [Agavo-queng, Agavotoküeng, Agavotoqueng, Agavotoqüeng]
 population: null
 country_id: BR
 country_name: Brazil

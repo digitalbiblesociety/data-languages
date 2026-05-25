@@ -1,7 +1,9 @@
 ---
 iso: gaa
 name: Ga
+name_zh: 加语
 autonym: Gã
+alt_names: [Accra, Acra, Akra, Amina, Bahasa Ga, Dangme, Gaa lingvo, Gaeg, Gain, Język ga, Lingua ga, 가어]
 population: 791700
 country_id: GH
 country_name: Ghana

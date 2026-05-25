@@ -2,6 +2,7 @@
 iso: sns
 name: South West Bay
 autonym: " Siesip"
+alt_names: [Mallicolo, "Na'ahai", Nahavaq, Seniang, Sinesip]
 population: 355
 country_id: VU
 country_name: Vanuatu

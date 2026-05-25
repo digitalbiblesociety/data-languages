@@ -2,6 +2,7 @@
 iso: "yes"
 name: Nyankpa
 autonym: Yeskwa
+alt_names: [Yasgua]
 population: 13000
 country_id: NG
 country_name: Nigeria

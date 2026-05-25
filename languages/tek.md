@@ -2,6 +2,7 @@
 iso: tek
 name: Ibali Teke
 autonym: Bali
+alt_names: [Eastern Teke, Ibali, Kiteke, Teke, "Teke, Ibali", Teke-Ibali]
 population: 202300
 country_id: CD
 country_name: DR Congo

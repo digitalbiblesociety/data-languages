@@ -2,6 +2,7 @@
 iso: mwz
 name: Moingi
 autonym: null
+alt_names: [Democratic Republic of the Congo]
 population: 4200
 country_id: CD
 country_name: DR Congo

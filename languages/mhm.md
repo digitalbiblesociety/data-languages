@@ -2,6 +2,7 @@
 iso: mhm
 name: "Makhuwa-Moniga"
 autonym: "Makhuwa-Moniga"
+alt_names: [Emakhuwa-Emoniga, Emoniga, Moniga]
 population: 440000
 country_id: MZ
 country_name: Mozambique

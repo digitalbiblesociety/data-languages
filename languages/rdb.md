@@ -2,6 +2,7 @@
 iso: rdb
 name: Rudbari
 autonym: Tâti تاتی زبون
+alt_names: [Iran]
 population: null
 country_id: IR
 country_name: Iran

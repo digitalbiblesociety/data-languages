@@ -1,7 +1,9 @@
 ---
 iso: nzi
 name: Nzima
+name_zh: 恩济马语
 autonym: Nzema
+alt_names: [Appolo]
 population: 412000
 country_id: GH
 country_name: Ghana

@@ -1,7 +1,9 @@
 ---
 iso: nqy
 name: Akyaung Ari Naga
+name_zh: 阿克昂阿利语
 autonym: Ngachan
+alt_names: ["Naga, Akyaung Ari"]
 population: 1000
 country_id: MM
 country_name: Myanmar

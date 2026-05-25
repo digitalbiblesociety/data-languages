@@ -2,6 +2,7 @@
 iso: sdk
 name: Sos Kundi
 autonym: Agbane
+alt_names: [Agbanekundi, Akbana, Gaikundi, Gaikunti, Keak, Kwaruwi Kwundi, Kwaruwikwundi, Kwongai, Sawos, Sepik Plains, Soskundi, Tshuosh, Tshwosh]
 population: null
 country_id: PG
 country_name: Papua New Guinea

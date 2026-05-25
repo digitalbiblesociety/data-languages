@@ -1,7 +1,9 @@
 ---
 iso: yav
 name: Yangben
+name_zh: 洋卞语
 autonym: Central Yambassa
+alt_names: [Nuasue]
 population: 2300
 country_id: CM
 country_name: Cameroon

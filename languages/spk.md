@@ -2,6 +2,7 @@
 iso: spk
 name: Sengo
 autonym: null
+alt_names: [Manambu]
 population: 520
 country_id: PG
 country_name: Papua New Guinea

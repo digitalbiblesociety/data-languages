@@ -1,7 +1,9 @@
 ---
 iso: rmo
 name: Sinte Romani
+name_zh: 聖羅馬尼语
 autonym: Sintengheri / Romanes
+alt_names: [European Romany, Manouche, Manuche, Romani, Romani (Burgenland), "Romani, Sinte", Romany, Rommanes, Sinte, Sinti, Sintí, Tsigane, Zigeuner, Ziguener]
 population: 201300
 country_id: DE
 country_name: Germany

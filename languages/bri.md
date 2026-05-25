@@ -2,6 +2,7 @@
 iso: bri
 name: Mokpwe
 autonym: Mokpwe
+alt_names: [Bakpwe, Bakueri, Bakwedi, Bakwele, Bakweri, Bekwiri, Kwedi, Kweli, Kwili, Kwiri, Mokpe, Ujuwa, Vakweli, Vambeng]
 population: 20000
 country_id: CM
 country_name: Cameroon

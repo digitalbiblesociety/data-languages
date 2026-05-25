@@ -2,6 +2,7 @@
 iso: qup
 name: Southern Pastaza Quechua
 autonym: Kichwa Shimi
+alt_names: [Inga, Lowland Kichua, Puyo Pongo, "Quechua, Southern Pastaza"]
 population: 1550
 country_id: PE
 country_name: Peru

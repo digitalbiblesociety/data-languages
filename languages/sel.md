@@ -1,7 +1,9 @@
 ---
 iso: sel
 name: Selkup
+name_zh: 塞爾庫普語
 autonym: Central Selkups
+alt_names: [Język selkupski, Lingua selkupica, Ostiaki, Ostjak-Samojedisch, Ostyak Samoyed, Ostyak Samoyedic, Ostyak-Samoyed, Ostyak-Samoyede, "Sel'kup", Selcupo meridional, Selkoeps, Selkoupe, Selkoupe meridional, Selkoupe septentrional, Selkoupeg, Selkup central, Selkupa lingvo, Selkupagiella, Selkupin kieli, Selkupisch, Selkupische Sprache, Selkupisk, Selkupisk språk, Selkupiska, Selkupų kalba, Selqup, Szölkup nyelv, "sel'kupy", selkoup, shöl-qup, śəl-qup, Селкупски јазик, Селькупский язык, 셀쿠프어]
 population: 1640
 country_id: RU
 country_name: Russia

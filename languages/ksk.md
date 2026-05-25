@@ -1,7 +1,9 @@
 ---
 iso: ksk
 name: Kansa
+name_zh: 坎萨语
 autonym: Káⁿza
+alt_names: [Kansas, Kanza, Kanze, Kaw, Konze, Osage, Osague]
 population: null
 country_id: US
 country_name: United States

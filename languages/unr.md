@@ -1,7 +1,9 @@
 ---
 iso: unr
 name: Mundari
+name_zh: 蒙达里语
 autonym: ମୁଣ୍ଡା
+alt_names: [Colh, Horo, Hɔrɔ-ɟagar, Mandari, Mandari language, Mondari, Munari, Munda, Mundari-Ho, Muṇḍārī, Muɳɖari]
 population: 1170280
 country_id: IN
 country_name: India

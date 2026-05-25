@@ -2,6 +2,7 @@
 iso: wsg
 name: Adilabad Gondi
 autonym: "गोण्डि, గోణ్డి, ଗୋଣ୍ଡି, 𑵶𑶓𑶕𑶂𑶋, 𑴎𑴽𑵀𑴘𑴳,"
+alt_names: ["Gondi, Adilabad", Utnoor]
 population: 300000
 country_id: IN
 country_name: India

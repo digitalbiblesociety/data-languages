@@ -2,6 +2,7 @@
 iso: bud
 name: Ntcham
 autonym: Basari
+alt_names: [Basaal, Basar, Basare, Bassar, Bassari, Natchamba, Ncham, Tobote]
 population: 329000
 country_id: TG
 country_name: Togo

@@ -2,6 +2,7 @@
 iso: vkm
 name: Kamakan
 autonym: Ezeshio
+alt_names: [Camacán, Kamakán, Kamakán language area/complex]
 population: null
 country_id: BR
 country_name: Brazil

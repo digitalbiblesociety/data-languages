@@ -1,7 +1,9 @@
 ---
 iso: ceb
 name: Cebuano
+name_zh: 宿务语
 autonym: Sebwano
+alt_names: [Bahasa Cebuano, Binisaya, Bisaya, Bisaya Cebuano, Bisayan, Cebua lingvo, Cebuano Visayan, Cebuera, Cebun kieli, Cebuà, Idioma cebuano, Język cebuański, Lengua cebuann-a, Lingua Caebuana, Lingua cebuana, Língua cebuana, Pagsasao a Cebuano, Salitan Cebuano, Sebuano, Sebuanų kalba, Sebúanó, Sinugboanon, Siwuyanu simi, Sougbouaneg, Sugbuanon, Sugbuhanon, Tataramon na Cebuano, Visayan, Wikang Sebwano, Себуано језик, Себуанский язык, سيبونى, सेबुआनो भाषा, সেবুয়ানো ভাষা, ภาษาซีบัวโน, სებუანური ენა, セブアノ語, 宿霧語, 세부아노어]
 population: 15900000
 country_id: PH
 country_name: Philippines

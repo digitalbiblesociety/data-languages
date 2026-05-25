@@ -2,6 +2,7 @@
 iso: nrz
 name: Lala
 autonym: Nara
+alt_names: ["Ala'ala", Nala, Pokau]
 population: 3000
 country_id: PG
 country_name: Papua New Guinea

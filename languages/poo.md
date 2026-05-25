@@ -2,6 +2,7 @@
 iso: poo
 name: Central Pomo
 autonym: "Ballo-Kai-Pomo"
+alt_names: [Cabanapo, Central, "H'hana", Habenapo, Khabenapo, Khana, Kulanapan, Kulanapo, Kábinapek, Oat Valley, Pomo, Pomo (Central), Pomo central, "Pomo, Central", Venaambakaia, Venambakaiia, Yokaia, Yokaya]
 population: null
 country_id: US
 country_name: United States

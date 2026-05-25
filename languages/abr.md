@@ -2,6 +2,7 @@
 iso: abr
 name: Abron
 autonym: Bron
+alt_names: [Abron jezik, Brong, Doma, Gyaman, Lenga Abron, Lingua abrón, Língua abron]
 population: 1393000
 country_id: GH
 country_name: Ghana

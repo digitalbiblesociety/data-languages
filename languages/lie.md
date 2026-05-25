@@ -2,6 +2,7 @@
 iso: lie
 name: Likila
 autonym: Balobo
+alt_names: [Bangela]
 population: 8400
 country_id: CD
 country_name: DR Congo

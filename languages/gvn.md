@@ -2,6 +2,7 @@
 iso: gvn
 name: "Kuku-Yalanji"
 autonym: Guguyalanji
+alt_names: [Booroorar, Cangoora, Chokonara, Cuegudira, Djankun, Djiling, Gugu Jalandji, Gugu Yalandji, Gugu Yalandyi, Gugu Yalanji, Gugu-Jalandji, Gugu-Yalaandji, Gugu-Yalandji, Gugu-Yalandyi, Gugu-Yalanji, Gumbo, Gumbu, "Jal:a", Jelanji, Jelanji Jiling, Jiling Juliacara, Juliacara, Jungkurara, Junkara, KUKU YALANJI, Kokalungie, Koko Jelandji, Koko Katji, Koko Walandja, Koko Yerlandji, Koko yalanji, Koko yerlandtji, Koko yerlantchi, Koko yerlantji, Koko-Katji, Koko-Yalanji, Koko-Yerlandji, KokoJelandji, Kokokulunggur, Kokolerlaatchi, Kokolerlantchi, Kokolunge, Kokowalandja, Kokoyellanji, Kokoyerlantji, Kooka alanji, Kuku Yalaja, Kuku Yalandji, Kuku Yelandji, Kuku-Yalangi, Kyahara, Lerlantchi, Moorara, Muluridji, Nooroorarra, Tchoolooorara, Tondayara, Wakara, Walparara, Wulpura, Yalampa, Yalandji, Yalandyi, Yalanyí, Yallar, Yelandji, Yiling, Yoon koor ara, Yunkurara]
 population: 320
 country_id: AU
 country_name: Australia

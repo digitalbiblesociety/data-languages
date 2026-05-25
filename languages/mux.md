@@ -2,6 +2,7 @@
 iso: mux
 name: "Bo-Ung"
 autonym: Tembagla
+alt_names: [Mbo-Ung]
 population: 30000
 country_id: PG
 country_name: Papua New Guinea

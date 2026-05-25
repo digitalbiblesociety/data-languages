@@ -2,6 +2,7 @@
 iso: apz
 name: Safeyoka
 autonym: Ampale
+alt_names: [Ambari, Ampeeli, Ampeeli-Wojokeso, Ampele, Safayoka (Ampale)]
 population: 2390
 country_id: PG
 country_name: Papua New Guinea

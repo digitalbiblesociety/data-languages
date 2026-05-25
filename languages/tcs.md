@@ -1,7 +1,9 @@
 ---
 iso: tcs
 name: Torres Strait Creole
+name_zh: 托雷斯海峽克里奧爾語
 autonym: Yumplatok
+alt_names: [Ap-Ne-Ap, Blaik, Cape York Creole, Creole, "Creole, Torres Strait", Lockhart Creole, Torres Strait Broken, Torres Strait Islander language, Torres Strait Islander people, Torres Strait Pidgin, West Torres, Yumblatok]
 population: 6170
 country_id: AU
 country_name: Australia

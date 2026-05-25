@@ -1,7 +1,9 @@
 ---
 iso: mww
 name: Hmong Daw
+name_zh: 白苗语
 autonym: lus Hmoob / lug Moob / lol Hmongb
+alt_names: [Bai Miao, Blue Miao, Chuan Miao, Green Miao, Hmong (White), Hmong Dao, Meo Kao, Miao, Mán Tráng, Pe Miao, Peh Miao, Red Miao, White Lum, White Meo, White Miao]
 population: 1700400
 country_id: CN
 country_name: China

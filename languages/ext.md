@@ -1,7 +1,9 @@
 ---
 iso: ext
 name: Extremaduran
+name_zh: 埃斯特雷马杜拉语
 autonym: estremeñu
+alt_names: [Cahtúo, Cahtúö, Ehtremeñu, Ekstremadura lingvo, Ekstremaduransk, Estremadurano, Estremadurski jezik, Estremadursko godka, Estremenyo, Estrémaduran, Extremaduran dialect, Extremadurera, Extremadurische Sprache, Extremaduriska, Extremeens, Extremenho, Extremeny, Extremeño, Idioma extremeño, Język estremadurski, Kiekstremadura, Lenga estremaduran-a, Lhéngua stremenha, Lingua Extremadurensis, Lingua estremenya, Lingua estremeña, Luenga estremeña, Âi-sṳ̂-thi̍t-lùi-mâ-thu-lâ-ngî, Εξτρεμαδουρική γλώσσα, Естремадурська мова, Эстремадурский язык, 埃斯特雷馬杜拉語, 에스트레마두라어]
 population: 201500
 country_id: ES
 country_name: Spain

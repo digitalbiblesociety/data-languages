@@ -2,6 +2,7 @@
 iso: sih
 name: Zire
 autonym: Nerë
+alt_names: [Neukaledonien, Siche, Sirhe, Sishee, Sîshëë, Yirhe, Yirhee, Ziche, Zira]
 population: 19
 country_id: NC
 country_name: New Caledonia

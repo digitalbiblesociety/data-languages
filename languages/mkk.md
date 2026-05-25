@@ -2,6 +2,7 @@
 iso: mkk
 name: Byep
 autonym: Maka
+alt_names: [Makya, Meka, Mekae, Mekay, Mekey, Mekye, Mika, Moka, North Makaa]
 population: 9500
 country_id: CM
 country_name: Cameroon

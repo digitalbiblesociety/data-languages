@@ -2,6 +2,7 @@
 iso: ptr
 name: Piamatsina
 autonym: null
+alt_names: [Vanuatu]
 population: 150
 country_id: VU
 country_name: Vanuatu

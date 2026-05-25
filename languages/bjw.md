@@ -2,6 +2,7 @@
 iso: bjw
 name: Bakwé
 autonym: null
+alt_names: [Bakwe]
 population: 10300
 country_id: CI
 country_name: "Côte d'Ivoire"

@@ -2,6 +2,7 @@
 iso: acp
 name: Eastern Acipa
 autonym: Zubazuba
+alt_names: [Achipa, "Acipa, Eastern", Acipanci, Sagamuk]
 population: 5000
 country_id: NG
 country_name: Nigeria

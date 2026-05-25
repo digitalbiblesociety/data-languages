@@ -2,6 +2,7 @@
 iso: vaa
 name: Vaagri Booli
 autonym: Hakkipikki
+alt_names: [Guvvalollu, Haki Piki, Hakkipikkaru, Karikkorava, Kuruvikkaran, Marattiyan, Narakureavar, Narikkorava, Rattiyan, Shikarijanam, Wogri Boli]
 population: 12000
 country_id: IN
 country_name: India

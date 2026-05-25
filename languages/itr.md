@@ -2,6 +2,7 @@
 iso: itr
 name: Iteri
 autonym: Rocky Peak
+alt_names: [Alowiemino, Iyo, Laro, Yinibu]
 population: 480
 country_id: PG
 country_name: Papua New Guinea

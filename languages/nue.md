@@ -2,6 +2,7 @@
 iso: nue
 name: Ngundu
 autonym: null
+alt_names: [Democratic Republic of the Congo]
 population: 5100
 country_id: CD
 country_name: DR Congo

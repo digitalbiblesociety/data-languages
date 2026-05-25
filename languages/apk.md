@@ -2,6 +2,7 @@
 iso: apk
 name: Kiowa Apache
 autonym: Kiowa Apache
+alt_names: [Apache, Apache de Kiowa, Apache des Plaines, "Apache, Kiowa", Kiowa, Kiowa-Apache, Llanero, "Na'isha", Na-isha, Oklahoma Apache, Plains Apache, Plains Apache language]
 population: 1000
 country_id: US
 country_name: United States

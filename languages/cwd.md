@@ -2,6 +2,7 @@
 iso: cwd
 name: Woods Cree
 autonym: Nīhithawīwin ᓀᐦᐃᖬᐍᐏᐣ
+alt_names: [Clisteno del bosque, Cree, Cree des bois, "Cree, Woods"]
 population: 1840
 country_id: CA
 country_name: Canada

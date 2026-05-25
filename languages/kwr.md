@@ -2,6 +2,7 @@
 iso: kwr
 name: Kwer
 autonym: bahasa Kwer
+alt_names: [Indonesia]
 population: 100
 country_id: ID
 country_name: Indonesia

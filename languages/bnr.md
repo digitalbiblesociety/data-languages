@@ -2,6 +2,7 @@
 iso: bnr
 name: "Butmas-Tur"
 autonym: "Butmas-Tur"
+alt_names: [Ati, Farafi]
 population: 520
 country_id: VU
 country_name: Vanuatu

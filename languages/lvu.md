@@ -2,6 +2,7 @@
 iso: lvu
 name: Levuka
 autonym: Lembata
+alt_names: [Lewokukun, Lewuka, Painara]
 population: 4000
 country_id: ID
 country_name: Indonesia

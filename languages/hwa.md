@@ -2,6 +2,7 @@
 iso: hwa
 name: Wané
 autonym: Hwane
+alt_names: [Ngwané, Wane]
 population: 2100
 country_id: CI
 country_name: "Côte d'Ivoire"

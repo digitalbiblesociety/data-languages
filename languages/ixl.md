@@ -1,7 +1,9 @@
 ---
 iso: ixl
 name: Ixil
+name_zh: 伊克西尔语
 autonym: "Ixil, San Juan Cotzal"
+alt_names: [Idioma ixil, Iŝiloj, Língua ixil, Ишилски јазик, Ишильский язык]
 population: 115000
 country_id: GT
 country_name: Guatemala

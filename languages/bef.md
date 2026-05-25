@@ -2,6 +2,7 @@
 iso: bef
 name: Benabena
 autonym: "Bena-bena"
+alt_names: [Bena]
 population: 45000
 country_id: PG
 country_name: Papua New Guinea

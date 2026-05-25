@@ -1,7 +1,9 @@
 ---
 iso: xns
 name: Kanashi
+name_zh: 卡納西語
 autonym: Kanasi
+alt_names: [Kanaśi, Kanāshī, Mālāni]
 population: 1400
 country_id: IN
 country_name: India

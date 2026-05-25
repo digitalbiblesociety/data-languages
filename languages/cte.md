@@ -2,6 +2,7 @@
 iso: cte
 name: Tepinapa Chinantec
 autonym: Chinanteco del sureste medio
+alt_names: [Chinantec, "Chinantec, Tepinapa", Chinanteco, Chinanteko, Middle Southeastern Chinantec, Tepinapa, jujmi (del sureste medio)]
 population: 1500
 country_id: MX
 country_name: Mexico

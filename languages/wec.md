@@ -2,6 +2,7 @@
 iso: wec
 name: Wè Western
 autonym: Wè
+alt_names: [Gere, Guere, Guéré, Neyo, We Western, Wèè]
 population: 20000
 country_id: CI
 country_name: "Côte d'Ivoire"

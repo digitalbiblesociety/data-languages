@@ -2,6 +2,7 @@
 iso: rag
 name: Logooli
 autonym: Lulogooli
+alt_names: [Llogole, Llugule, Lugooli, Luragoli, Maragoli, Maragooli, Ragoli, Uluragooli]
 population: 335300
 country_id: KE
 country_name: Kenya

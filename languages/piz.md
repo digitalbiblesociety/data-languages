@@ -2,6 +2,7 @@
 iso: piz
 name: Pije
 autonym: Pindje
+alt_names: [Neukaledonien, Pinje]
 population: 160
 country_id: NC
 country_name: New Caledonia

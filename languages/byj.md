@@ -2,6 +2,7 @@
 iso: byj
 name: Bina (Nigeria)
 autonym: tìBin
+alt_names: [Bina, Binawa, Bogana]
 population: 7000
 country_id: NG
 country_name: Nigeria

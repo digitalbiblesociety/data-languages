@@ -1,7 +1,9 @@
 ---
 iso: mid
 name: Mandaic
+name_zh: 現代曼達安語
 autonym: Mandɔyí
+alt_names: ["Manda:yi", Mandaean, Mandaic (Modern), Mandeo, Mandi, Mandéen, Modern Mandaic, Neo-Mandaic, "Sabe'in", Sabean, Subbi, زبان مندائی نو]
 population: 23000
 country_id: IQ
 country_name: Iraq

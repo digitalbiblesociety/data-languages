@@ -2,6 +2,7 @@
 iso: xre
 name: Kreye
 autonym: Taje
+alt_names: [Bacabal, Canela, Crange, Crenge, Crengez, Crenye, Creye, Gavião du Pará, Gavião pukobiê, Kanela, Krahó, Krahô, Krem-Ye, Kremye, Krenjé, Krenjê, Krikati, Pukobyé, Pukobyê, Tage, Taze, Timbira]
 population: null
 country_id: BR
 country_name: Brazil

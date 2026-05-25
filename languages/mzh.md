@@ -2,6 +2,7 @@
 iso: mzh
 name: Wichí Lhamtés Güisnay
 autonym: Wiznay
+alt_names: [Güisnay, Mataco, Mataco Güisnay, Mataco Pilcomayo, Matako, Pilcomayo Wichí, Wichi, Wichi Lhamtes Guisnay, Wichí, Wichí Lhamtés]
 population: 15000
 country_id: AR
 country_name: Argentina

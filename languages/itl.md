@@ -1,7 +1,9 @@
 ---
 iso: itl
 name: Itelmen
+name_zh: 伊捷尔缅语
 autonym: Western Kamchadal
+alt_names: [Idioma itelmen, "Itel'men", Itelmeno, Itelmensk, Itelmenų kalba, Itelmèn, Itelmène, Itelymem, Itənmən, Język itelmeński, Kamchadal, Kamchatka, Língua itelmen, Western Itelmen, Ітельменська мова, Итĕлмен чĕлхи, Итәнмән’ин крвэӆхатас, ительменский язык, итэнмэн, камчадальский язык, 이텔멘어]
 population: 3189
 country_id: RU
 country_name: Russia

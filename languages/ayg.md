@@ -2,6 +2,7 @@
 iso: ayg
 name: Ginyanga
 autonym: Ginyanga
+alt_names: [Agnagan, Anyanga, Genyanga, Guang]
 population: 12000
 country_id: TG
 country_name: Togo

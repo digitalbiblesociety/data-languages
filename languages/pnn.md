@@ -2,6 +2,7 @@
 iso: pnn
 name: "Pinai-Hagahai"
 autonym: Pinai
+alt_names: [Aramaue, Aramo, Erem, Hagahai, Miamia, Pinaye, Wapi]
 population: 600
 country_id: PG
 country_name: Papua New Guinea

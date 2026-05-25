@@ -1,7 +1,9 @@
 ---
 iso: avl
 name: Eastern Egyptian Bedawi Arabic
+name_zh: 西北阿拉伯半島阿拉伯語
 autonym: Bedawi
+alt_names: [Arabic, "Arabic, Eastern Egyptian Bedawi", "Arabic, Levantine Bedawi Spoken", Bedawi Arabic, Istočnoegipatski bedawi arapski, Levantine Bedawi Arabic, Western Bedouin Dialects]
 population: 2435900
 country_id: EG
 country_name: Egypt

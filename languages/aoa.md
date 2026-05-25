@@ -1,7 +1,9 @@
 ---
 iso: aoa
 name: Angolar
+name_zh: 安哥拉克里奥尔语
 autonym: "n'golá"
+alt_names: [Angolar jezik, Angolara lingvo, Criollo angolar, Ngola, Portuguese-based Creoles, São Tomé]
 population: 5000
 country_id: ST
 country_name: "Sao Tome & Principe"

@@ -1,7 +1,9 @@
 ---
 iso: ero
 name: Horpa
+name_zh: 尔龚语
 autonym: Bawang
+alt_names: [Danba, Daofu, Ergong, Hor, Horpa-Shangzhai, Hórsók, Pawang, Western Jiarong, 爾龔語, 道孚語, 霍爾語]
 population: 15000
 country_id: CN
 country_name: China

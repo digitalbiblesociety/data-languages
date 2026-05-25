@@ -2,6 +2,7 @@
 iso: bnp
 name: Bola
 autonym: Bakovi
+alt_names: [Bola-Bakovi]
 population: 13700
 country_id: PG
 country_name: Papua New Guinea

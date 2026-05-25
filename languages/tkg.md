@@ -2,6 +2,7 @@
 iso: tkg
 name: Tesaka Malagasy
 autonym: malagasy
+alt_names: ["Malagasy, Tesaka"]
 population: 1969000
 country_id: MG
 country_name: Madagascar

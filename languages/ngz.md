@@ -2,6 +2,7 @@
 iso: ngz
 name: Ngungwel
 autonym: Eboo
+alt_names: [Engungwel, Ngangoulou, Ngungulu, Northeastern Teke]
 population: 45000
 country_id: CG
 country_name: Congo

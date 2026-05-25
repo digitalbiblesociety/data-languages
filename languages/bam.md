@@ -1,7 +1,9 @@
 ---
 iso: bam
 name: Bambara
+name_zh: 班巴拉语
 autonym: ߓߡߊߣߊ߲ߞߊ߲
+alt_names: [Bahasa Bambara, Bamana, Bamanakan, Bamanankan, Bambara keel, Bambara lingvo, Bambara simi, Bambaran kieli, Bambareg, Bambaru valoda, Bambarština, Idioma bambara, Język bambara, Lenga Bamanankan, Lingua bambara, Língua bambara, Tiếng Bambara, Бамана, بمبارا, பம்பாரா மொழி, バンバラ語, 班巴拉语, 밤바라어]
 population: 4183000
 country_id: ML
 country_name: Mali

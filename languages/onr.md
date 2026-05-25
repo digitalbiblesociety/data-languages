@@ -2,6 +2,7 @@
 iso: onr
 name: Northern One
 autonym: Aunalei
+alt_names: [Inebu One, Kabore One, Kuamtim, Kwamtim One, Molmo One, One, "One, Northern", Onele, Oni, Southern One]
 population: 2000
 country_id: PG
 country_name: Papua New Guinea

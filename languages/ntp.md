@@ -2,6 +2,7 @@
 iso: ntp
 name: Northern Tepehuan
 autonym: "O'otham"
+alt_names: [N Tepehuan, N. Tepehuan, North Tepehuane, Northern Tepehuán, Northern Tepewan, Tepahue (Northern), Tepeguana, Tepehuan (Northern), "Tepehuan, Northern", Tepehuán (Norte), Tepehuán del Norte, Tepiman]
 population: 9570
 country_id: MX
 country_name: Mexico

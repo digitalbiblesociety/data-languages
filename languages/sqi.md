@@ -1,6 +1,7 @@
 ---
 iso: sqi
 name: Albanian
+name_zh: 阿尔巴尼亚语
 autonym: shqip
 population: 5878700
 country_id: AL

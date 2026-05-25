@@ -2,6 +2,7 @@
 iso: zpb
 name: Yautepec Zapotec
 autonym: Yautepec Zapotec
+alt_names: [Eastern Sapoteko, Northwestern Yautepec Zapotec, Zapotec, "Zapotec, Yautepec", Zapoteco de Petapa, Zapoteco de San Bartolo Yautepec, Zapoteco mixtepeco, Zapotèque de Mixtepe, Zapotèque de Petapa, Zapotèque de San Bartolo Yautepec]
 population: 310
 country_id: MX
 country_name: Mexico

@@ -2,6 +2,7 @@
 iso: ypb
 name: Labo Phowa
 autonym: Puwa
+alt_names: [Asaheipho, Asahopho, Ekhepho, Labopho, Pho, "Phowa, Labo", "Phowa,Labo", Phula, White Phu, Zemapho]
 population: 17000
 country_id: CN
 country_name: China

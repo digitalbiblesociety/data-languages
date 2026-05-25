@@ -2,6 +2,7 @@
 iso: tcd
 name: Tafi
 autonym: Tafi
+alt_names: [Nyangbo-Tafi, Tegbo]
 population: 4400
 country_id: GH
 country_name: Ghana

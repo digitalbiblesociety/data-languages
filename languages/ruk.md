@@ -2,6 +2,7 @@
 iso: ruk
 name: Che
 autonym: Rukuba
+alt_names: [Bache, Inchazi, Kuche, Sale]
 population: 100000
 country_id: NG
 country_name: Nigeria

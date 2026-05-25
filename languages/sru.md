@@ -2,6 +2,7 @@
 iso: sru
 name: Suruí
 autonym: Paíter
+alt_names: [Paiter, Paitér, Surui, Surui Paiter, Suruí de Rondônia, Suruí do Jiparaná]
 population: 920
 country_id: BR
 country_name: Brazil

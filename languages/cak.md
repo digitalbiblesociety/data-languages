@@ -1,7 +1,9 @@
 ---
 iso: cak
 name: Kaqchikel
+name_zh: 喀克其奎語
 autonym: Kaqchikel Chʼabʼäl
+alt_names: [Cakchiquel, Central, Idioma kakchikel, Język kakczikel, Kachiquel, Kakchiquel, Kaqchikel simi, "Kaqchikel, Central", Kaqchiquel, Língua caqchiquel, Какчикелски јазик, 喀克其奎語]
 population: 1070000
 country_id: GT
 country_name: Guatemala

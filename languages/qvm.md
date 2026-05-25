@@ -2,6 +2,7 @@
 iso: qvm
 name: "Margos-Yarowilca-Lauricocha Quechua"
 autonym: kichwa
+alt_names: [Alto Marañón, Alto Marañón Quechua, Alto Pativilca, "Quechua, Margos-Yarowilca-Lauricocha", Upper Marañón Quechua]
 population: 32100
 country_id: PE
 country_name: Peru

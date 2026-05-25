@@ -2,6 +2,7 @@
 iso: bql
 name: Bilakura
 autonym: Karian
+alt_names: [Banks-Inseln, Karen]
 population: 34
 country_id: PG
 country_name: Papua New Guinea

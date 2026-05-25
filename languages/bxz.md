@@ -2,6 +2,7 @@
 iso: bxz
 name: Binahari
 autonym: null
+alt_names: [Nemea]
 population: 630
 country_id: PG
 country_name: Papua New Guinea

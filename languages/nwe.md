@@ -1,7 +1,9 @@
 ---
 iso: nwe
 name: Ngwe
+name_zh: Ngwe語
 autonym: "Bamileke-Ngwe"
+alt_names: [Fomopea, Fontem, Nwe]
 population: 73200
 country_id: CM
 country_name: Cameroon

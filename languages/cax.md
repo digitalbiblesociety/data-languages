@@ -2,6 +2,7 @@
 iso: cax
 name: Chiquitano
 autonym: Besïro
+alt_names: [Chikitano, Chikitanu simi, Chiquit(an)o, Chiquitano (Brasil), Chiquitano (Brésil), Chiquitano (État plurinational de Bolivie), Chiquito, Idioma chiquitano, Tao, Tarapecosi, Чикитано јазик]
 population: 2000
 country_id: BO
 country_name: Bolivia

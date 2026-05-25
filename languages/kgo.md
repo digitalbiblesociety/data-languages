@@ -1,7 +1,9 @@
 ---
 iso: kgo
 name: Krongo
+name_zh: 克隆戈語
 autonym: Dimodongo
+alt_names: [Crongo, Kadumodi, Korongo, Kurungu, Nuba, Tabanya]
 population: 21700
 country_id: SD
 country_name: Sudan

@@ -2,6 +2,7 @@
 iso: kkc
 name: Odoodee
 autonym: Nomad
+alt_names: [Kalamo, Ododei, Tomu, Tomu River]
 population: 430
 country_id: PG
 country_name: Papua New Guinea

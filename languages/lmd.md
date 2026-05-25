@@ -2,6 +2,7 @@
 iso: lmd
 name: Lumun
 autonym: "Kuku-Lumun"
+alt_names: [Lomon, Lomón]
 population: 20000
 country_id: SD
 country_name: Sudan

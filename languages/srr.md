@@ -1,7 +1,9 @@
 ---
 iso: srr
 name: Serer
+name_zh: 塞雷尔语
 autonym: Seereer
+alt_names: [Język serer, Língua serer, Seex, Sereer, Serer-Sin, Serer-Sine, Serera lingvo, Serereg, Serrer, Sine-Saloum, Sine-Sine, Sérère, Sérère-Sine, Серер]
 population: 1712300
 country_id: SN
 country_name: Senegal

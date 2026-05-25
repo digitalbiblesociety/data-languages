@@ -1,7 +1,9 @@
 ---
 iso: amw
 name: "Western Neo-Aramaic"
+name_zh: 西新亞拉姆語
 autonym: Sūryān
+alt_names: [Aramaic, Araméen occidental, Lishshoona Aroomay, Liššōna Arōmay, Loghtha Siryanoytha, Loghtha Siryanōytha, "Ma'lula", Maaloula, Maalula, Neo-Aramaic, "Neo-Aramaic, Western", Neo-Western Aramaic, Neo-arameo sirio, Neuwestaramäische Sprache, "Nevez-aramaeg ar c'hornôg", Néo-araméen occidental, Siryanooytha, Siryanoytha, Siryon, Siryoon, Siryōn, Western, Zapadni novoaramejski, Západní aramejština, Западен неоарамејски јазик, ארמית מערבית חדשה, ภาษาอราเมอิกใหม่ตะวันตก]
 population: 15000
 country_id: SY
 country_name: Syria

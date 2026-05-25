@@ -1,7 +1,9 @@
 ---
 iso: yka
 name: Yakan
+name_zh: 雅坎语
 autonym: null
+alt_names: [Yacan]
 population: 130000
 country_id: PH
 country_name: Philippines

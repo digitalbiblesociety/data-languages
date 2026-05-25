@@ -1,7 +1,9 @@
 ---
 iso: nxq
 name: Naxi
+name_zh: 纳西语
 autonym: Na
+alt_names: ["\"Mo-Su\"", "\"Moso\"", "\"Mosso\"", Lomi, Moso, Mosso, Mu, Nachieg, Nahsi, Nakhi, Nashi, Nasi, Noshi, Western dialect, Наси, ภาษาน่าซี, 納西語]
 population: 300000
 country_id: CN
 country_name: China

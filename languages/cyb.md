@@ -2,6 +2,7 @@
 iso: cyb
 name: Cayubaba
 autonym: Kayuvava
+alt_names: [Cavuhaba, Cayuvava, Cayuwaba]
 population: null
 country_id: BO
 country_name: Bolivia

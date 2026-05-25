@@ -2,6 +2,7 @@
 iso: cav
 name: Cavineña
 autonym: null
+alt_names: [Cavinena, Kavinenya, Kawiña simi, Кавиненья]
 population: 600
 country_id: BO
 country_name: Bolivia

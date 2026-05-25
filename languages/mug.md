@@ -2,6 +2,7 @@
 iso: mug
 name: Musgu
 autonym: Mulwi
+alt_names: [Mouloui, Mousgou, Mousgoum, Mousgoun, Munjuk, Musga, Musgum, Musuk, Muzuk]
 population: 164400
 country_id: CM
 country_name: Cameroon

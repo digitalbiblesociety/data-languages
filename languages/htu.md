@@ -2,6 +2,7 @@
 iso: htu
 name: Hitu
 autonym: null
+alt_names: [Itu]
 population: 16000
 country_id: ID
 country_name: Indonesia

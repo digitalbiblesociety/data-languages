@@ -1,7 +1,9 @@
 ---
 iso: kdd
 name: Yankunytjatjara
+name_zh: 揚庫因賈賈拉語
 autonym: Jangkundjara
+alt_names: ["'Everard Range Tribe'", "'Everard Range Tribe’", Alinjera, Ankundjara, Everard Range Tribe, "Everard Range Tribe'", Jan gundjara, Jan kundjadjara, Jan kundjindjara, Jan-kundjadjara, Jan-kundjindjara, Janggunadjara, Janggundjara, Jangkudjara, Jangkundjadjara, Jangkuntjarra, Jangundjara, Jangwundjara, Jankundjadjara, Jankundjara, Jankundjindjara, Jankuntjatara, Jankuntjatjara, Jankunzazara, Jankunzazzara, Kaltjilandjara, Kulpantja, Nan kundjara, Nan-kundjara, Nankundjara, Wirtjapakandja, Wirtjapokandja, Yangkundjara, Yangkuntjatjara, Yangundjadjara, Yangundjara, Yangundyadyara, Yankundyari, Yankunjara, Yankunjtjatjarra, Yankuntachara, Yankuntatjara, Yankuntjara, Yankuntjatjara, Yankuntjatjarra]
 population: 600
 country_id: AU
 country_name: Australia

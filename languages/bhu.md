@@ -2,6 +2,7 @@
 iso: bhu
 name: Bhunjia
 autonym: ହଲବୀ
+alt_names: [Bhumjiya, Bhunjiya, Bunija, Bunjia]
 population: 6790
 country_id: IN
 country_name: India

@@ -2,6 +2,7 @@
 iso: txa
 name: Tombonuo
 autonym: Lobu
+alt_names: [Paitan, Sungai, Sungei, Tambanua, Tambanuo, Tambanuva, Tambanwas, Tambenua, Tambunwas, Tembenua, Tombonuva, Tombonuwo, Tumbunwha, Tunbumohas]
 population: 10000
 country_id: MY
 country_name: Malaysia

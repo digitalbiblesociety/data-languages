@@ -1,6 +1,7 @@
 ---
 iso: nqo
 name: "N'Ko"
+name_zh: 康柏语
 autonym: ߒߞߏ‎
 population: 27000000
 country_id: GN

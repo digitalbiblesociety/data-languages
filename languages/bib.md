@@ -2,6 +2,7 @@
 iso: bib
 name: Bissa
 autonym: Bisan
+alt_names: [Bisa]
 population: 781000
 country_id: BF
 country_name: Burkina Faso

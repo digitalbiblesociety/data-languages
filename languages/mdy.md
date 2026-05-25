@@ -2,6 +2,7 @@
 iso: mdy
 name: Male (Ethiopia)
 autonym: Male
+alt_names: [Maale, Maalé, Male (Omotic), Malé]
 population: 94700
 country_id: ET
 country_name: Ethiopia

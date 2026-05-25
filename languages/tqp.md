@@ -2,6 +2,7 @@
 iso: tqp
 name: Tomoip
 autonym: Tomoive
+alt_names: [Tomoyp, Tumie, Tumuip]
 population: 700
 country_id: PG
 country_name: Papua New Guinea

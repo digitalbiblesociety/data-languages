@@ -2,6 +2,7 @@
 iso: mnu
 name: Mer
 autonym: Miere
+alt_names: [Mer (Indonesia), Muri]
 population: 85
 country_id: ID
 country_name: Indonesia

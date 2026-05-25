@@ -1,7 +1,9 @@
 ---
 iso: psi
 name: Southeast Pashai
+name_zh: 东南帕沙伊语
 autonym: Pashai
+alt_names: [Dardu, "Pashai, Southeast", "Pashayi, Southeast", Southeast Pashayi, Southeastern Pašaī]
 population: 180000
 country_id: AF
 country_name: Afghanistan

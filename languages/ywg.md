@@ -2,6 +2,7 @@
 iso: ywg
 name: Yinhawangka
 autonym: Ngarla
+alt_names: [Inawangga, Inawongga, Ngalawonga, Ngalawongga, Ngarla-warngga, Ngaunmardi. Nalawonga]
 population: 12
 country_id: AU
 country_name: Australia

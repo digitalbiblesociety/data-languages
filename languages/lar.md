@@ -2,6 +2,7 @@
 iso: lar
 name: Larteh
 autonym: Gua
+alt_names: [Guang, Late, Lete]
 population: 107000
 country_id: GH
 country_name: Ghana

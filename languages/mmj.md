@@ -1,7 +1,9 @@
 ---
 iso: mmj
 name: Majhwar
+name_zh: 马吉瓦尔语
 autonym: Majhvar
+alt_names: [Manjhi, Manjhia]
 population: 174000
 country_id: IN
 country_name: India

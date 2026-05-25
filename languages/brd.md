@@ -1,7 +1,9 @@
 ---
 iso: brd
 name: Baraamu
+name_zh: 巴拉姆语
 autonym: Baraamu
+alt_names: ["Ba:rhmu", Balbang, "Bar?m", Baram, Baramu, Barhamu, "Bhra:mu", Bhramu, Bhrāmu, Brahmu, Bramu, baramú]
 population: 2000
 country_id: NP
 country_name: Nepal

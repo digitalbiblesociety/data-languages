@@ -2,6 +2,7 @@
 iso: tmw
 name: Temuan
 autonym: Bahasak Temuan
+alt_names: [Beduanda, Benua, Niap, Temuano]
 population: 22162
 country_id: MY
 country_name: Malaysia

@@ -1,7 +1,9 @@
 ---
 iso: lre
 name: Laurentian
+name_zh: 聖羅倫斯河語
 autonym: null
+alt_names: [Saint Lawrence Iroquoian, St. Lawrence Iroquoian]
 population: null
 country_id: CA
 country_name: Canada

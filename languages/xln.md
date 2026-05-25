@@ -1,6 +1,7 @@
 ---
 iso: xln
 name: Alanic
+name_zh: 阿蘭語
 autonym: "Alanian, Old Ossetic, Old Ossetian"
 population: null
 country_id: RU

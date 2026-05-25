@@ -2,6 +2,7 @@
 iso: dwz
 name: Dewas Rai
 autonym: null
+alt_names: [Danuwar, Danuwar Rai, Danvar, Denwar, Dhanvar, Dhanwar, Dhanwar (Nepal), "Rai, Dewas"]
 population: null
 country_id: NP
 country_name: Nepal

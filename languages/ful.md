@@ -1,6 +1,7 @@
 ---
 iso: ful
 name: Fulah
+name_zh: 富拉语
 autonym: Pulaar
 population: 24000000
 country_id: SN

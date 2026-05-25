@@ -2,6 +2,7 @@
 iso: hna
 name: Mina (Cameroon)
 autonym: Hina
+alt_names: [Besleri, Mina, Mina language, Minaeg]
 population: 11000
 country_id: CM
 country_name: Cameroon

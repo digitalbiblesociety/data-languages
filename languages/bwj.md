@@ -2,6 +2,7 @@
 iso: bwj
 name: Láá Láá Bwamu
 autonym: Kàdenbà
+alt_names: ["Bwamu, Láá Láá", Laa Laa Bwamu, Yere]
 population: 69200
 country_id: BF
 country_name: Burkina Faso

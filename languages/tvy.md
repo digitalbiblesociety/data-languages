@@ -2,6 +2,7 @@
 iso: tvy
 name: Timor Pidgin
 autonym: Timor Pidgin
+alt_names: [Bidau Creole Portuguese, "Pidgin, Timor", Portuguese Timor, Timor Creole Portuguese]
 population: null
 country_id: TL
 country_name: "Timor-Leste"

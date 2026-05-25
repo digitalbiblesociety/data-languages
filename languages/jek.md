@@ -2,6 +2,7 @@
 iso: jek
 name: Jeri Kuo
 autonym: Celle
+alt_names: [Jeli, Jeli Kuo, Jeri, Jeri.kuo]
 population: 1500
 country_id: CI
 country_name: "Côte d'Ivoire"

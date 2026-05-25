@@ -1,7 +1,9 @@
 ---
 iso: lwm
 name: Laomian
+name_zh: 老緬語
 autonym: Bisu
+alt_names: [Guba, Laomian (Chine), Laomian (Myanmar), Laomien (Myanmar), Lawmeh, 老緬語]
 population: 1600
 country_id: CN
 country_name: China

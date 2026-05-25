@@ -2,6 +2,7 @@
 iso: idd
 name: Ede Idaca
 autonym: Idaaca
+alt_names: [Idaasa, Idaca, Idáìtsà]
 population: 170000
 country_id: BJ
 country_name: Benin

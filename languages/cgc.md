@@ -1,7 +1,9 @@
 ---
 iso: cgc
 name: Kagayanen
+name_zh: 巴拉望语
 autonym: null
+alt_names: [Cagayancillo, Cagayano Cillo]
 population: 30000
 country_id: PH
 country_name: Philippines

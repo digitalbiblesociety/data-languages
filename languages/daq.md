@@ -2,6 +2,7 @@
 iso: daq
 name: Dandami Maria
 autonym: Madiya
+alt_names: [Bison Horn Maria, Dandami Madiya, Dhuru, Gondi (Maṛia), Gonḍi, Gōṇḍī, Maria Gond, "Maria, Dandami"]
 population: 200000
 country_id: IN
 country_name: India

@@ -1,7 +1,9 @@
 ---
 iso: pgl
 name: Primitive Irish
+name_zh: 原始爱尔兰语
 autonym: "Archaic Irish, Proto-Goidelic"
+alt_names: ["Irish, Primitive"]
 population: null
 country_id: IE
 country_name: Ireland

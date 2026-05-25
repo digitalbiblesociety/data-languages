@@ -2,6 +2,7 @@
 iso: ghe
 name: Southern Ghale
 autonym: Galle Gurung
+alt_names: [Ghale, "Ghale, Southern", "Ghale,Southern", Gurung, Lila Ke, Ril-Lila, Southern]
 population: 2000
 country_id: NP
 country_name: Nepal

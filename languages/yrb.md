@@ -2,6 +2,7 @@
 iso: yrb
 name: Yareba
 autonym: null
+alt_names: [Middle Musa, Musa River]
 population: 750
 country_id: PG
 country_name: Papua New Guinea

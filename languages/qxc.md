@@ -2,6 +2,7 @@
 iso: qxc
 name: Chincha Quechua
 autonym: Huangáscar–Topará
+alt_names: [Chinchaysuyo, Chinchaysuyu, Huangascar-Topará, Northern Quechua, Quechua de Yauyos, Quechua de Yauyos., "Quechua, Chincha", Yauyos Kechua]
 population: 6000
 country_id: PE
 country_name: Peru

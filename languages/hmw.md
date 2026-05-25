@@ -1,7 +1,9 @@
 ---
 iso: hmw
 name: Western Mashan Hmong
+name_zh: 西部土语
 autonym: Mashan Miao
+alt_names: [Hmo, Hmong, "Hmong, Western Mashan", Hmung, Hsiung, Hunan Miao, Miao, "Miao, Western Mashan", Western Mashan Miao]
 population: 14000
 country_id: CN
 country_name: China

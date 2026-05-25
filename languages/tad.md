@@ -2,6 +2,7 @@
 iso: tad
 name: Tause
 autonym: Darha
+alt_names: [Doa, ภาษาตัวเซ]
 population: 300
 country_id: ID
 country_name: Indonesia

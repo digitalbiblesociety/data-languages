@@ -1,7 +1,9 @@
 ---
 iso: ybb
 name: Yemba
+name_zh: 耶姆巴语
 autonym: Yɛmba
+alt_names: [Atsang-Bangwa, Bafou, Bamileke-Yemba, Bangwa, Dschang, "Dschang, Yemba", Tchang]
 population: 300000
 country_id: CM
 country_name: Cameroon

@@ -2,6 +2,7 @@
 iso: mjo
 name: Malankuravan
 autonym: Mala Koravan
+alt_names: [Mala Koravanm, Malaikuravan, Malakkuravan, Male Kuravan]
 population: 18600
 country_id: IN
 country_name: India

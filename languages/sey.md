@@ -1,7 +1,9 @@
 ---
 iso: sey
 name: Secoya
+name_zh: 赛科亚语
 autonym: Paikoka
+alt_names: [Kakawahe, Macaguaje, Paicoca /secoya (Équateur), Piohé, Piojé, Secoya-Gai, secoya (Colombie), secoya (Perú), secoya (Pérou)]
 population: 1005
 country_id: EC
 country_name: Ecuador

@@ -1,7 +1,9 @@
 ---
 iso: mri
 name: Maori
+name_zh: 毛利语
 autonym: " Te reo Māori"
+alt_names: [Bahasa Maori, Bahasa Māori, Gagana Māoli, Idioma maorí, Język maoryski, Lengua maori, Limba maori, Lingua Maoriana, Lingua maorí, Lingua māori, Língua maori, Maoori keel, Maorais, Maori (New Zealand), Maori de Nouvelle-Zélande, Maori nyelv, Maoria lingvo, Maorieg, Maoriera, Maorijčina, Maorin kieli, Maorische Sprache, Maorisk, Maorių kalba, Maoru valoda, Maorí, Maorština, Mawori, Mawri simi, Maòri, Māori, Māori language, Māori-gú, Neu-Seeland, New Zealand Maori, Reo Māori, Tavas Māori, Wikang Māori, Μαορί γλώσσα, Маары, Маори, Маорски език, Маорски јазик, Маоры, Маорі, מאורית, لغة ماورية, მაორული ენა, ማዖሪ ቋንቋ, マオリ語, 毛利语, 마오리어]
 population: 159700
 country_id: NZ
 country_name: New Zealand

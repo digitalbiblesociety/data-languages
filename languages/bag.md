@@ -2,6 +2,7 @@
 iso: bag
 name: Tuki
 autonym: Tuki
+alt_names: [Bacenga, Baki, Batchenga, Betsinga, Betzinga, Ki, Oki, Osa Nanga, Sanaga]
 population: 26000
 country_id: CM
 country_name: Cameroon

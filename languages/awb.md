@@ -2,6 +2,7 @@
 iso: awb
 name: Awa (Papua New Guinea)
 autonym: Awa
+alt_names: [Chana, Mobuta]
 population: 2050
 country_id: PG
 country_name: Papua New Guinea

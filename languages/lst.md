@@ -2,6 +2,7 @@
 iso: lst
 name: Trinidad and Tobago Sign Language
 autonym: Trinidadian Sign Language (TSL)
+alt_names: [TSL, TTSL, Trinidad Sign Language]
 population: 1360
 country_id: TT
 country_name: Trinidad and Tobago

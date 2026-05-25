@@ -2,6 +2,7 @@
 iso: ldl
 name: Kaan
 autonym: Libo
+alt_names: [Kan, Libbo]
 population: 10000
 country_id: NG
 country_name: Nigeria

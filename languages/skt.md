@@ -2,6 +2,7 @@
 iso: skt
 name: Sakata
 autonym: Kisakata
+alt_names: [Lesa, Odual, Saka]
 population: 75000
 country_id: CD
 country_name: DR Congo

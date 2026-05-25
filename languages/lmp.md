@@ -2,6 +2,7 @@
 iso: lmp
 name: Limbum
 autonym: Limbum
+alt_names: [Bojiin, Kambu, Limbom, Llimbumi, Ndzungle, Ndzungli, Njungene, Nsungali, Nsungli, Nsungni, Wimbum]
 population: 130000
 country_id: CM
 country_name: Cameroon

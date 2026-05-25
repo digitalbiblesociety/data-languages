@@ -2,6 +2,7 @@
 iso: hot
 name: Hote
 autonym: Malê
+alt_names: ["Ho'tei", Hotec, Malei]
 population: 4500
 country_id: PG
 country_name: Papua New Guinea

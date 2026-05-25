@@ -1,6 +1,7 @@
 ---
 iso: ylm
 name: Limi
+name_zh: 留米语
 autonym: Liumi
 population: 29000
 country_id: CN

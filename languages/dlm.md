@@ -1,6 +1,7 @@
 ---
 iso: dlm
 name: Dalmatian
+name_zh: 达尔马提亚语
 autonym: null
 population: null
 country_id: HR

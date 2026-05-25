@@ -1,7 +1,9 @@
 ---
 iso: guc
 name: Wayuu
+name_zh: 瓦尤语
 autonym: Guajiro
+alt_names: [Goahiro, Goajiro, Guajira, Idioma wayúu, Língua wayuu, Vajua lingvo, Wahiro, Wayuunaiki, Wayuw simi, Гуахиро]
 population: 416000
 country_id: CO
 country_name: Colombia

@@ -1,7 +1,9 @@
 ---
 iso: ntx
 name: Tangkhul Naga (Myanmar)
+name_zh: 索姆拉语
 autonym: Tangkhul
+alt_names: ["Naga, Tangkhul (Myanmar)"]
 population: 4000
 country_id: MM
 country_name: Myanmar

@@ -1,7 +1,9 @@
 ---
 iso: gcr
 name: Guianese Creole French
+name_zh: 圭亚那克里奥尔语
 autonym: Kriyòl gwiyannen
+alt_names: ["Creole French, Guianese", Créole guyanais, French Creole, French Guiana Creole, French Guianese Creole French, Guianese (French), Guianese French Creole, Guyana French, Guyanais, Guyane, Guyane Creole, Patois, Patwa, Гвианский креольский язык, Гвіанська креольська мова]
 population: 131000
 country_id: GF
 country_name: French Guiana

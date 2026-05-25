@@ -2,6 +2,7 @@
 iso: ylg
 name: Yelogu
 autonym: Kaunga
+alt_names: [Buiamanambu, Bwiamanambu, Wanyima, Yalaku]
 population: 160
 country_id: PG
 country_name: Papua New Guinea

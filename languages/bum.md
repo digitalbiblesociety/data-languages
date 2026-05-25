@@ -1,7 +1,9 @@
 ---
 iso: bum
 name: Bulu (Cameroon)
+name_zh: 布卢语
 autonym: "Bulu-Bene"
+alt_names: [Boulou, Bulu, Bulu (in Cameroon)]
 population: 858000
 country_id: CM
 country_name: Cameroon

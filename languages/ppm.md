@@ -2,6 +2,7 @@
 iso: ppm
 name: Papuma
 autonym: bahasa Papuma
+alt_names: [Indonesia]
 population: 600
 country_id: ID
 country_name: Indonesia

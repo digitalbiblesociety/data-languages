@@ -2,6 +2,7 @@
 iso: wsr
 name: Owenia
 autonym: Waisara
+alt_names: [Owena, Owenda, Waijara]
 population: 350
 country_id: PG
 country_name: Papua New Guinea

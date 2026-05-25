@@ -1,7 +1,9 @@
 ---
 iso: sgh
 name: Shughni
+name_zh: 舒格南语
 autonym: "Shugnani-Rushani"
+alt_names: [Bartangi, Chugní, Khugni, Lingua xugní, Roshorvi, Rushan, Rushani, Rushâni, Shighni, Shugnan-Rushan, Šugnanin kieli, Šugni keel, Шугнано-рушански език, Шугнанский язык, زبان شغنانی, ภาษาซุกนี]
 population: 80000
 country_id: TJ
 country_name: Tajikistan

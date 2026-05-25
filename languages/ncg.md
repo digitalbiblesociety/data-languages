@@ -1,7 +1,9 @@
 ---
 iso: ncg
 name: "Nisga'a"
+name_zh: 尼斯迦語
 autonym: Nisg̱a’a
+alt_names: [Nasguixián niska, "Nasqa'", Nass, Nass-Gitksan, Nisga’a, Nisgha, Nishga, Nishka, "Nisk'a", "Nisk'a'", Niska, "Niska'"]
 population: 5400
 country_id: CA
 country_name: Canada

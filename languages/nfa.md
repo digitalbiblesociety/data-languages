@@ -1,7 +1,9 @@
 ---
 iso: nfa
 name: Dhao
+name_zh: 恩道语
 autonym: Ndao
+alt_names: [Dao, Kahore, Ndaonese, Ndaundau]
 population: 5000
 country_id: ID
 country_name: Indonesia

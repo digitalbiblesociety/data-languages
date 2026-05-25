@@ -1,7 +1,9 @@
 ---
 iso: aut
 name: Austral
+name_zh: 南方語
 autonym: "Tubuai-Rurutu"
+alt_names: [Dialectes des Iles Australes, Dialectos de las islas Australes]
 population: 8000
 country_id: PF
 country_name: French Polynesia

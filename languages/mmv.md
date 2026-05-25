@@ -2,6 +2,7 @@
 iso: mmv
 name: Miriti
 autonym: Neenoá
+alt_names: [Miriti-Tapuyo, Mirití]
 population: null
 country_id: BR
 country_name: Brazil

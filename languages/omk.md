@@ -1,7 +1,9 @@
 ---
 iso: omk
 name: Omok
+name_zh: 奥莫克语
 autonym: null
+alt_names: [Youkaguire de la toundra, Yucaguiro de la tundra, Yukaghir Omok]
 population: null
 country_id: RU
 country_name: Russia

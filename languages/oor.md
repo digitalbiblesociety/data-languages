@@ -2,6 +2,7 @@
 iso: oor
 name: Oorlams
 autonym: null
+alt_names: [Língua oorlans, Oorlangs, Oorlans, Oorlansa lingvo]
 population: 32000
 country_id: ZA
 country_name: South Africa

@@ -2,6 +2,7 @@
 iso: bgu
 name: Mbongno
 autonym: Kamkam
+alt_names: [Bungnu, Bungun, Bunu, Gbunhu, Kakaba, Mbogno]
 population: 3000
 country_id: NG
 country_name: Nigeria

@@ -2,6 +2,7 @@
 iso: kyr
 name: Kuruáya
 autonym: Caravare
+alt_names: [Curuaia, Kuruaia, Kuruaya]
 population: 115
 country_id: BR
 country_name: Brazil

@@ -2,6 +2,7 @@
 iso: yom
 name: Yombe
 autonym: Kikongo
+alt_names: [Bayombe, Iombe, Kiombi, Kiyombe]
 population: 734400
 country_id: CD
 country_name: DR Congo

@@ -2,6 +2,7 @@
 iso: kpo
 name: Ikposo
 autonym: Ikpɔsɔ
+alt_names: [Akposo, Akposos, Akposso, Ikposso, Kposo, Kposso]
 population: 225500
 country_id: TG
 country_name: Togo

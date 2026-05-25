@@ -2,6 +2,7 @@
 iso: kqc
 name: "Doromu-Koki"
 autonym: "Doromu-Koki"
+alt_names: [Doram, Doromu]
 population: 2000
 country_id: PG
 country_name: Papua New Guinea

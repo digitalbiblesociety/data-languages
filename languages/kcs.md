@@ -2,6 +2,7 @@
 iso: kcs
 name: Koenoem
 autonym: Kanam
+alt_names: [Korenoem]
 population: 3000
 country_id: NG
 country_name: Nigeria

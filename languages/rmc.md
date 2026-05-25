@@ -2,6 +2,7 @@
 iso: rmc
 name: Carpathian Romani
 autonym: Central Romani
+alt_names: [Bashaldo, Carpathian, Cigány, European Romany, Hungarian-Slovak Romani, Romani, "Romani, Carpathian", Romany, Romaní, Romungro, Zigeuner]
 population: 157110
 country_id: SK
 country_name: Slovakia

@@ -1,7 +1,9 @@
 ---
 iso: lus
 name: Lushai
+name_zh: 米佐语
 autonym: Mizo ṭawng
+alt_names: [Duhlian Twang, Dulien, Haulngo, Hualngo, Le, Lei, Lingua Mizo, Lukhai, Lusago, Lusai, Lusei, Lushai (Mizo), Lushai-Mizo, Lushei, Lushēi, Mizo, Mizo language, Sailau, Whelngo, मिज़ो भाषा, মিজো ভাষা, மிசோ மொழி, ภาษาไมโซ]
 population: 843750
 country_id: IN
 country_name: India

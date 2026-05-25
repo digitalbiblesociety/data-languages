@@ -2,6 +2,7 @@
 iso: pud
 name: Punan Aput
 autonym: Punan Aput
+alt_names: [Aput]
 population: 370
 country_id: ID
 country_name: Indonesia

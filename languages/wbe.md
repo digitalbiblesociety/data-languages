@@ -2,6 +2,7 @@
 iso: wbe
 name: Waritai
 autonym: Waritai
+alt_names: [Wari, Weretai]
 population: 150
 country_id: ID
 country_name: Indonesia

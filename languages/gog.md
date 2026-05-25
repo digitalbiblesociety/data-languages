@@ -2,6 +2,7 @@
 iso: gog
 name: Gogo
 autonym: Cigogo
+alt_names: [Chigogo, Język gogo, Kigogo, Língua gogo]
 population: 1080000
 country_id: TZ
 country_name: Tanzania

@@ -2,6 +2,7 @@
 iso: bfc
 name: Panyi Bai
 autonym: 白语 Báiyǔ
+alt_names: [Bai, "Bai, Northern", "Bai, Panyi", "Bai,Northern", Bijang Bai, Laemae, Lama, Northern Bai]
 population: 35000
 country_id: CN
 country_name: China

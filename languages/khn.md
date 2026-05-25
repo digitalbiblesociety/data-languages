@@ -1,7 +1,9 @@
 ---
 iso: khn
 name: Khandesi
+name_zh: 坎德什语
 autonym: Ahirani
+alt_names: [Dhed Gujari, Khandeshi, Khandish]
 population: 15900
 country_id: IN
 country_name: India

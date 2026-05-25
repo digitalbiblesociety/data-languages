@@ -2,6 +2,7 @@
 iso: tui
 name: Tupuri
 autonym: Dema
+alt_names: [Honya, Mata, Ndoore, Ndore, Tongoyna, Toubouri, Toupoureg, Toupouri, Tuburi, Wina]
 population: 321000
 country_id: CM
 country_name: Cameroon

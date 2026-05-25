@@ -2,6 +2,7 @@
 iso: sui
 name: Suki
 autonym: Wiram
+alt_names: [Suki jezik]
 population: 3510
 country_id: PG
 country_name: Papua New Guinea

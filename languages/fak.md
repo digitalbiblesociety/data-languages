@@ -2,6 +2,7 @@
 iso: fak
 name: Fang (Cameroon)
 autonym: null
+alt_names: [Cameroon, Fang]
 population: 2400
 country_id: CM
 country_name: Cameroon

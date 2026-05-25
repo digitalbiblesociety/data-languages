@@ -2,6 +2,7 @@
 iso: ubr
 name: Ubir
 autonym: null
+alt_names: [Kubiri, Ubiri]
 population: 2560
 country_id: PG
 country_name: Papua New Guinea

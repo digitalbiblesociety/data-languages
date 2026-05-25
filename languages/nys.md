@@ -1,7 +1,9 @@
 ---
 iso: nys
 name: Nyungar
+name_zh: 农加尔语
 autonym: Noongar
+alt_names: [Bremer Bay tribe, Caskcar  Daran for Wudjari, Karkar, Kwaitjman, NOONGAR / NYOONGAR, Neo-Nyunga, Ngokgurring, Ngokwurring, Njunga, Njungar, Njungura, Nonga, Nunga, Nyulnga, Nyunga, Nyunga Subgroup, Warangu, Widjara, Wuda, Wudja, Wudjari, "Wudjari:ma", Wudjarima, Yunga, Yungar]
 population: 480
 country_id: AU
 country_name: Australia

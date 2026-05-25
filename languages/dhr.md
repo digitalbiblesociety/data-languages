@@ -2,6 +2,7 @@
 iso: dhr
 name: Dhargari
 autonym: "Dal'gari"
+alt_names: [Dalgari, Dargari, Targari, Tarkari, Tarkarri, Tarl garri, Tarl-garri, Tarlgarri, Tarugari, Thadgarri, Thargari, Tharkarri, Tharrgari, Tharrkari]
 population: null
 country_id: AU
 country_name: Australia

@@ -2,6 +2,7 @@
 iso: kiv
 name: Kimbu
 autonym: Kikimbu
+alt_names: [Ikibungu, Yanzi]
 population: 62700
 country_id: TZ
 country_name: Tanzania

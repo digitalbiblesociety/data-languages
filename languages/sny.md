@@ -2,6 +2,7 @@
 iso: sny
 name: "Saniyo-Hiyewe"
 autonym: Hiowe
+alt_names: [Sanio, Sanio-Hiowe]
 population: 1300
 country_id: PG
 country_name: Papua New Guinea

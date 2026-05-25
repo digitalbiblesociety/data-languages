@@ -2,6 +2,7 @@
 iso: wmd
 name: Mamaindé
 autonym: Northern Nambikwara
+alt_names: [Kithāulhú, Mamainde, Mamaindê, Mamande, Nakarothe, Northern Nambikuaran, Northern Nambikuára, Northern Nambiquara]
 population: 300
 country_id: BR
 country_name: Brazil

@@ -1,7 +1,9 @@
 ---
 iso: tmr
 name: "Jewish Babylonian Aramaic (ca. 200-1200 CE)"
+name_zh: 犹太巴比伦阿拉米语
 autonym: Jewish Babylonian Aramaic
+alt_names: [Aramaeg talmoudek Babilonia, "Aramaic, Jewish Babylonian (ca. 200-1200 CE)", Babylonian Talmudic Aramaic, Judéo-araméen babylonien, Talmudski aramejski jezik, ארמית בבלית, ภาษาอราเมอิกยิวบาบิโลเนีย]
 population: null
 country_id: IL
 country_name: Israel

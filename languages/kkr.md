@@ -2,6 +2,7 @@
 iso: kkr
 name: "Kir-Balar"
 autonym: Kir
+alt_names: [Bogghom, Boghom, Boghorom, Bohom, Bokiyim, Borrom, Burma, Burom, Burrum, Burum, Kirr, Larbawa]
 population: 3050
 country_id: NG
 country_name: Nigeria

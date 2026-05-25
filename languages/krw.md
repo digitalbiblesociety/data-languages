@@ -2,6 +2,7 @@
 iso: krw
 name: Western Krahn
 autonym: Krahn
+alt_names: ["Krahn, Western", Kran, Northern Krahn, Western Kran]
 population: 113020
 country_id: LR
 country_name: Liberia

@@ -2,6 +2,7 @@
 iso: quf
 name: Lambayeque Quechua
 autonym: "Inkawasi-Kañaris Runashimi"
+alt_names: [Cañaris Quechua, Cañaris-Incahuasi, Ferreñafe, Ferreñafe Quechua, Incahuasi-Cañaris, Inkawasi-Kañaris, Lambayeque Kechua, "Quechua, Lambayeque"]
 population: 20000
 country_id: PE
 country_name: Peru

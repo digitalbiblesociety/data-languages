@@ -2,6 +2,7 @@
 iso: hla
 name: Halia
 autonym: Selau
+alt_names: [Hanahan, Tasi]
 population: 25000
 country_id: PG
 country_name: Papua New Guinea

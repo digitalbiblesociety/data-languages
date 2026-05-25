@@ -2,6 +2,7 @@
 iso: ldh
 name: "Lamja-Dengsa-Tola"
 autonym: null
+alt_names: [Nigeria]
 population: 3420
 country_id: NG
 country_name: Nigeria

@@ -1,7 +1,9 @@
 ---
 iso: btd
 name: Batak Dairi
+name_zh: 巴塔克戴笠语
 autonym: Kata Pakpak
+alt_names: [Dairi, Pakpak, Pakpak Dairi]
 population: 1200000
 country_id: ID
 country_name: Indonesia

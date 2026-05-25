@@ -2,6 +2,7 @@
 iso: juk
 name: Wapan
 autonym: Jukun
+alt_names: [Jinkum, Jukon, Juku, Juku Junkun, Jukum, Jukun Wapan, Jukun Wukari, Wakari, Wapã, Wukari, Wukari Jukun]
 population: 100000
 country_id: NG
 country_name: Nigeria

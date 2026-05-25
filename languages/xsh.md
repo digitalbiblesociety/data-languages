@@ -2,6 +2,7 @@
 iso: xsh
 name: Shamang
 autonym: Samang
+alt_names: [Samban]
 population: null
 country_id: NG
 country_name: Nigeria

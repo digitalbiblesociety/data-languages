@@ -2,6 +2,7 @@
 iso: mhf
 name: Mamaa
 autonym: Doloman
+alt_names: [Mama]
 population: 200
 country_id: PG
 country_name: Papua New Guinea

@@ -2,6 +2,7 @@
 iso: mwh
 name: "Mouk-Aria"
 autonym: "Aria-Mouk"
+alt_names: [Mouk-Aria language]
 population: 630
 country_id: PG
 country_name: Papua New Guinea

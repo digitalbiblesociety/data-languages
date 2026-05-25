@@ -2,6 +2,7 @@
 iso: dtb
 name: "Labuk-Kinabatangan Kadazan"
 autonym: "Labuk-Kinabatangan Kadazan"
+alt_names: [Eastern Kadazan, Kadazan, "Kadazan, Labuk-Kinabatangan", Labuk Kadazan, Sogilitan, Tindakon, Tompulung]
 population: 20600
 country_id: MY
 country_name: Malaysia

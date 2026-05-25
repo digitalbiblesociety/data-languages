@@ -2,6 +2,7 @@
 iso: aaf
 name: Aranadan
 autonym: Eranadan
+alt_names: [Aranatan, Eranadans]
 population: 200
 country_id: IN
 country_name: India

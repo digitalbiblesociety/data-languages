@@ -1,6 +1,7 @@
 ---
 iso: pso
 name: Polish Sign Language
+name_zh: 波兰手语
 autonym: Polski Język Migowy
 population: 25000
 country_id: PL

@@ -1,7 +1,9 @@
 ---
 iso: gax
 name: "Borana-Arsi-Guji Oromo"
+name_zh: 波拉納語
 autonym: Borana
+alt_names: ["\"Galla\"", "\"Galligna\"", "\"Gallinya\"", Afan Oromo, Booran, Boraan, Boraana, Boran, Borena, Galla, Oromo, Oromo (Boraana), Oromo Proper, "Oromo, Borana-Arsi-Guji", Southern Oromo]
 population: 8449000
 country_id: ET
 country_name: Ethiopia

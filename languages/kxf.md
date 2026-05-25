@@ -2,6 +2,7 @@
 iso: kxf
 name: Manumanaw Karen
 autonym: Kayah
+alt_names: ["Karen, Manumanaw", "Karen,Manumanaw", Mano, Manu, Manumanaw, Manö, Monu]
 population: 10000
 country_id: MM
 country_name: Myanmar

@@ -2,6 +2,7 @@
 iso: cbb
 name: Cabiyarí
 autonym: Kawillari
+alt_names: [Cabiuarí, Cabiyari, Cabiyari language, Caryari, Cauyari, Cauyarí, Caviyari, Caviyarí, Cuyare, Kabiyari, Kabiyarí, Kauyarí, Kaviyarí, Kawillary]
 population: 310
 country_id: CO
 country_name: Colombia

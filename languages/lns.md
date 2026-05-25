@@ -2,6 +2,7 @@
 iso: lns
 name: "Lamnso'"
 autonym: Lamnsɔ’
+alt_names: [Bansaw, Banso, "Banso'", Lamnso, Lamnsok, Lamso, Nsaw, "Nsho'", Nso, "Nso'", Panso]
 population: 240000
 country_id: CM
 country_name: Cameroon

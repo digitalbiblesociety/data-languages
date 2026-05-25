@@ -1,7 +1,9 @@
 ---
 iso: kru
 name: Kurukh
+name_zh: 库鲁克语
 autonym: " Oraon"
+alt_names: [Kurux]
 population: 2083700
 country_id: IN
 country_name: India

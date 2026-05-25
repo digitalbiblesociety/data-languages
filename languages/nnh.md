@@ -1,7 +1,9 @@
 ---
 iso: nnh
 name: Ngiemboon
+name_zh: 恩甘澎语
 autonym: Ngyɛmbɔɔŋ
+alt_names: [Bamileke-Ngiemboon, Bamileke-Ngyemboon, Nguemba, Ngyemboon]
 population: 250000
 country_id: CM
 country_name: Cameroon

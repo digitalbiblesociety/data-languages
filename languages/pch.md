@@ -2,6 +2,7 @@
 iso: pch
 name: Pardhan
 autonym: Pradhan
+alt_names: [Gonḍi, Gōṇḍī, Pradhani]
 population: 347000
 country_id: IN
 country_name: India

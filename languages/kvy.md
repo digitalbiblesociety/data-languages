@@ -2,6 +2,7 @@
 iso: kvy
 name: Yintale Karen
 autonym: Kayah
+alt_names: ["Karen, Yintale", "Karen,Yintale", Tali, Taliak, Yangatalet, Yangtadai, Yintale, Yintalet]
 population: 10000
 country_id: MM
 country_name: Myanmar

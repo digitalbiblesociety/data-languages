@@ -2,6 +2,7 @@
 iso: dym
 name: Yanda Dom Dogon
 autonym: Yanda Dom
+alt_names: ["Dogon, Yanda Dom"]
 population: 2000
 country_id: ML
 country_name: Mali

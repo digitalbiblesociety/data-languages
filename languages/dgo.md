@@ -1,7 +1,9 @@
 ---
 iso: dgo
 name: Dogri
+name_zh: 多格拉语
 autonym: डोगरी
+alt_names: [Dhogaryali, Dogari, Dogri (individual language), Dogri Jammu, Dogri Pahari, Dogri-Kangri, Dongari, Hindi Dogri, Tokkaru]
 population: 2600000
 country_id: IN
 country_name: India

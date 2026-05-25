@@ -2,6 +2,7 @@
 iso: utp
 name: Amba (Solomon Islands)
 autonym: Aba
+alt_names: [Amba, Nembao, Utupua]
 population: 590
 country_id: SB
 country_name: Solomon Islands

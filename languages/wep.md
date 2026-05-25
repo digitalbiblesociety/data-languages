@@ -1,7 +1,9 @@
 ---
 iso: wep
 name: Westphalien
+name_zh: 威斯特法伦方言
 autonym: Wäästfaalisch
+alt_names: [Dialecte westphalien, German, German (Westphalian), Neuniederdeutsch, Westfaals, Westfaelisch, Westfaliska, Westfälisch, Westfälische Dialekte, Westfäälsch Platt, Westphalian, Westphalian language]
 population: null
 country_id: DE
 country_name: Germany

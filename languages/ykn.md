@@ -1,6 +1,7 @@
 ---
 iso: ykn
 name: "Kua-nsi"
+name_zh: 跨恩斯话
 autonym: Baiyi ren
 population: 5000
 country_id: CN

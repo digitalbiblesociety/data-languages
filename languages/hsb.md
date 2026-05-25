@@ -1,7 +1,9 @@
 ---
 iso: hsb
 name: Upper Sorbian
+name_zh: 上索布语
 autonym: hornjoserbšćina
+alt_names: [Alt sòrab, Alto sorabo, Alto sorábio, Aukštutinių sorbų kalba, Eastern Sorbian, Górnoserbšćina, Górnosorbsczi jãzëk, Gůrnosorbsko godka, Haut Sorabe, Haut-sorabe, Hornjoserbski, Hornolužická srbčina, Hornolužická srbština, Hornoserbski, Język górnołużycki, Limba sorabă de sus, Limba sòraba de susu, Lingua lusaziana superiore, Obersorbisch, Obersorbische Sprache, Oppersorbisch, Sorabe Naut, Sorbais Uarach, Sorbian, Sorbian (Upper), "Sorbian, Upper", Sorbish Eaghtyragh, Suprasoraba lingvo, Téng Sorbia-gí, Upper, Upper Lusatian, Wendisch, Wendish, Yuqarı Sorb tili, Верхнелужицкий язык, Верхньолужицька мова, Горнасорбская мова, Горнолужички јазик, Горнолужишки език, Үрге лужи теле, 上索布语, 高地ソルブ語, 저지 소르브어]
 population: 18000
 country_id: DE
 country_name: Germany

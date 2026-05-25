@@ -2,6 +2,7 @@
 iso: ata
 name: "Pele-Ata"
 autonym: "Pele-Ata"
+alt_names: [Ata, Ata language, Neu-Pommern, Peleata, Uase, Uasi, Uasilau, Wasi]
 population: 2000
 country_id: PG
 country_name: Papua New Guinea

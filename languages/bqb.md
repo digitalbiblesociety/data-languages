@@ -2,6 +2,7 @@
 iso: bqb
 name: Bagusa
 autonym: Kapeso
+alt_names: [Suaseso]
 population: 300
 country_id: ID
 country_name: Indonesia

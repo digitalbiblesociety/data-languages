@@ -2,6 +2,7 @@
 iso: msi
 name: Sabah Malay
 autonym: "Bahasa-Bahasa Melayu Dagang dan Kreol"
+alt_names: [Bazaar Malay, Brunei-Sabah Malay, "Malay, Sabah", Pasar Malay]
 population: null
 country_id: MY
 country_name: Malaysia

@@ -2,6 +2,7 @@
 iso: tlx
 name: Khehek
 autonym: "Levei-Ndrehet"
+alt_names: [Admiralitäts-inseln, Levei-Drehet]
 population: 1600
 country_id: PG
 country_name: Papua New Guinea

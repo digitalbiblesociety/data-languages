@@ -2,6 +2,7 @@
 iso: bnz
 name: Beezen
 autonym: null
+alt_names: [Bezen]
 population: 450
 country_id: CM
 country_name: Cameroon

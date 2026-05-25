@@ -2,6 +2,7 @@
 iso: zor
 name: Rayón Zoque
 autonym: Zoque de Rayón
+alt_names: [Chiapas Soke, Northeast Zoque A, Ocotepec, Pantepec, Rayon, Rayon Zoque, Rayón, Soke, Sokean, Tapalapa, Zoque, Zoque (Rayon), "Zoque, Rayón"]
 population: 10400
 country_id: MX
 country_name: Mexico

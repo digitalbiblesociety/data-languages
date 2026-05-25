@@ -2,6 +2,7 @@
 iso: apn
 name: Apinayé
 autonym: Panhĩ kapẽr
+alt_names: [Apinage, Apinagé, Apinajé, Apinaye]
 population: 1500
 country_id: BR
 country_name: Brazil

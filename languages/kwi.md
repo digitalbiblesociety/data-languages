@@ -1,7 +1,9 @@
 ---
 iso: kwi
 name: "Awa-Cuaiquer"
+name_zh: 阿瓦语
 autonym: Awa Pit
+alt_names: [(Awa-)Coaiquer, Awa, Awa-Kwaiker, Awa-Quaiquer, "Awap'it", Awapit, Awapit simi, Coaiker, Coaiquer, Cuaiquer, Cuqiquer, Koaiker, Kwaiker, Pit, Quaiquer, Ава-пит, Авански питски јазик]
 population: 14100
 country_id: CO
 country_name: Colombia

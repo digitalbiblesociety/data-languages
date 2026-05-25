@@ -2,6 +2,7 @@
 iso: mru
 name: Mono (Cameroon)
 autonym: "Mon-Non"
+alt_names: [Maru, Mono]
 population: 300
 country_id: CM
 country_name: Cameroon

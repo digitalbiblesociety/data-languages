@@ -2,6 +2,7 @@
 iso: kpd
 name: Koba
 autonym: null
+alt_names: [Aru]
 population: 600
 country_id: ID
 country_name: Indonesia

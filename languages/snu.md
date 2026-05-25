@@ -2,6 +2,7 @@
 iso: snu
 name: Senggi
 autonym: Viid
+alt_names: [Sengi]
 population: 250
 country_id: ID
 country_name: Indonesia

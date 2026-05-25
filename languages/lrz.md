@@ -2,6 +2,7 @@
 iso: lrz
 name: Lemerig
 autonym: Bek
+alt_names: [Banks-Inseln, Sasar]
 population: null
 country_id: VU
 country_name: Vanuatu

@@ -1,7 +1,9 @@
 ---
 iso: odt
 name: Old Dutch
+name_zh: 古德语
 autonym: "*Thiudisc"
+alt_names: [Altniederländisch, Antico olandese, "Dutch, Old", Gammelnederlandsk, Low Franconian, Muinaishollanti, Old Low Franconian, Oudnederlands]
 population: null
 country_id: NL
 country_name: Netherlands

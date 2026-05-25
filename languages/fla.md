@@ -1,7 +1,9 @@
 ---
 iso: fla
 name: "Kalispel-Pend d'Oreille"
+name_zh: 萨利什-斯波坎-卡利斯佩尔语
 autonym: Séliš (fla)Npoqínišcn (spo)
+alt_names: ["\"Flathead\"-Kalispel", Flathead, Flathead-Kalispel-Spokane, "Flathead-Pend d'Oreille-Spokane", Kalispel, Kalispel-Flathead, Montana Salish-Kalispel-Spokane, "Montana Salish-Pend d'Oreille-Spokane", Qalispé, Salish, Salish de Montana, Salish du Montana, Spokane-Kalispel-Flathead, Séliš]
 population: 6800
 country_id: US
 country_name: United States

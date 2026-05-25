@@ -1,7 +1,9 @@
 ---
 iso: sto
 name: Stoney
+name_zh: 納科塔語
 autonym: Nakoda
+alt_names: [Alberta Assiniboine, Asinibóin (Estados Unidos), Assiniboin, Assiniboine, Assiniboine (Canada), "Assiniboine (États-Unis d'Amérique)", Dakota, Estoni, Nakon, Stonies, Stony]
 population: 2300
 country_id: CA
 country_name: Canada

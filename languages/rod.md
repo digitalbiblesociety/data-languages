@@ -2,6 +2,7 @@
 iso: rod
 name: Rogo
 autonym: Burogo
+alt_names: [Ucanja Kamuku, Urogo]
 population: null
 country_id: NG
 country_name: Nigeria

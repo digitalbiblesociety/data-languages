@@ -2,6 +2,7 @@
 iso: wij
 name: "Wik-Iiyanh"
 autonym: "Wik-Muminh"
+alt_names: [Wik-Iiyanyi, Wik-Iiyeny, Wik-Iyanh, Wik-Iyena, Wikianji, Wikianyi]
 population: null
 country_id: AU
 country_name: Australia

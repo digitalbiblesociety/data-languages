@@ -2,6 +2,7 @@
 iso: awe
 name: Awetí
 autonym: Awytyza ti’ingku
+alt_names: [Arauine, Arauite, Aueti, Aueto, Auetö, Auiti, Auití, Aweti, Awety, Awetö]
 population: 140
 country_id: BR
 country_name: Brazil

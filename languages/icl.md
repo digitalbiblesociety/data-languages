@@ -2,6 +2,7 @@
 iso: icl
 name: Icelandic Sign Language
 autonym: Íslenskt táknmál
+alt_names: [Isländskt teckenspråk]
 population: 275
 country_id: IS
 country_name: Iceland

@@ -2,6 +2,7 @@
 iso: klv
 name: Maskelynes
 autonym: " Uliveo"
+alt_names: [Kuliviu, Mallicolo, Maskelyne Islands]
 population: 1350
 country_id: VU
 country_name: Vanuatu

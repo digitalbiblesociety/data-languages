@@ -1,7 +1,9 @@
 ---
 iso: tbl
 name: Tboli
+name_zh: 特波里語
 autonym: Tagabili
+alt_names: ["\"Tagabili\"", "T'boli", Tiboli]
 population: 87200
 country_id: PH
 country_name: Philippines

@@ -2,6 +2,7 @@
 iso: kfu
 name: Katkari
 autonym: Katakari
+alt_names: [Katari, Kathodi, Katvadi]
 population: 12000
 country_id: IN
 country_name: India

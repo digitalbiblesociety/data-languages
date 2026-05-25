@@ -2,6 +2,7 @@
 iso: moq
 name: Mor (Bomberai Peninsula)
 autonym: Mor2
+alt_names: [Mor, "Mor (Bomberai Peninsula, Indonesia)", Mor (of Bomberai)]
 population: 30
 country_id: ID
 country_name: Indonesia

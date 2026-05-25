@@ -2,6 +2,7 @@
 iso: gkn
 name: Gokana
 autonym: null
+alt_names: [Nigeria]
 population: 100000
 country_id: NG
 country_name: Nigeria

@@ -2,6 +2,7 @@
 iso: xok
 name: Xokleng
 autonym: Aweikoma
+alt_names: [Botocudo, Botocudos, Bugre, Chocleng, Shocleng, Shokleng]
 population: 760
 country_id: BR
 country_name: Brazil

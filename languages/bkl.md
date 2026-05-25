@@ -1,7 +1,9 @@
 ---
 iso: bkl
 name: Berik
+name_zh: 貝力克語
 autonym: Berick
+alt_names: [Berik (Tor), Berrik, Upper Tor]
 population: 1200
 country_id: ID
 country_name: Indonesia

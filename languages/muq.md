@@ -1,7 +1,9 @@
 ---
 iso: muq
 name: Eastern Xiangxi Miao
+name_zh: 东部次方言
 autonym: Xiangxi Miao
+alt_names: [Eastern West-Hunan Miao, Ghao-Xong, "Hmong, Eastern Xiangxi", Hsianghsi Miao, Meo Do, "Miao, Eastern Xiangxi", Red Meo, Red Miao]
 population: 80000
 country_id: CN
 country_name: China

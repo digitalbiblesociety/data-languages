@@ -1,7 +1,9 @@
 ---
 iso: bjn
 name: Banjar
+name_zh: 班查语
 autonym: بهاس بنجر
+alt_names: [Bahasa Banjar, Bandjarese, Banjar Malay, Banjarese, Banjaresiska, Banjarčina, Język banjar, Lenga Banjar, Lengua banjar]
 population: 3655000
 country_id: ID
 country_name: Indonesia

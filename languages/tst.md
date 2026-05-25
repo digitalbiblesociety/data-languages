@@ -2,6 +2,7 @@
 iso: tst
 name: Tondi Songway Kiini
 autonym: TSK
+alt_names: ["Songway Kiini, Tondi"]
 population: 3000
 country_id: ML
 country_name: Mali

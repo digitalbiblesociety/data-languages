@@ -1,7 +1,9 @@
 ---
 iso: leh
 name: Lenje
+name_zh: 伦杰语
 autonym: Chilenje
+alt_names: [Chinamukuni, Ciina, Lengi, Lenji, Mukuni]
 population: 128000
 country_id: ZM
 country_name: Zambia

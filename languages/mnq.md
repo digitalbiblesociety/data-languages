@@ -1,7 +1,9 @@
 ---
 iso: mnq
 name: Minriq
+name_zh: 明里克语
 autonym: Mendriq
+alt_names: [Menraq, "Menri'", Menrik, Menriq]
 population: 160
 country_id: MY
 country_name: Malaysia

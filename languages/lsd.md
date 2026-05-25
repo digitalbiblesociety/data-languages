@@ -1,7 +1,9 @@
 ---
 iso: lsd
 name: Lishana Deni
+name_zh: 李沙那德尼語
 autonym: "לשנא דני "
+alt_names: [Denieg, Judeo-Aramaic, Kurdit, Lishan Hozaye, Lishan Hudaye, Lishana deni  (Israel), Lishana deni (Iraq), Lishana deni (Israël), Lishana deni jezik, Lişana Deni]
 population: 8800
 country_id: IL
 country_name: Israel

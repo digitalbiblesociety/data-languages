@@ -2,6 +2,7 @@
 iso: had
 name: Hatam
 autonym: Adihup
+alt_names: [Atam, Borai, Hattam, Mansim, Miriei, Moi, Tinam, Uran]
 population: 16000
 country_id: ID
 country_name: Indonesia

@@ -2,6 +2,7 @@
 iso: zpy
 name: Mazaltepec Zapotec
 autonym: (Santo Tomás Mazaltepec)
+alt_names: [Etla Zapotec, Northern Sapoteko, Tejalapan, Tejalapan Zapotec, Zapotec, "Zapotec, Mazaltepec", Zapoteco de San Felipe Tejalapan, Zapoteco de Santo Tomás Mazaltepec, Zapoteco de Tejalápam]
 population: 2200
 country_id: MX
 country_name: Mexico

@@ -2,6 +2,7 @@
 iso: tpp
 name: Pisaflores Tepehua
 autonym: North Tepehua
+alt_names: [Pisaflores Tepewa, Tepehua, Tepehua de Pisaflores, "Tepehua, Pisaflores", Tepehuano de Pisa Flores, Tepewa]
 population: 4000
 country_id: MX
 country_name: Mexico

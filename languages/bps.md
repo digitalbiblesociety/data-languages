@@ -2,6 +2,7 @@
 iso: bps
 name: Sarangani Blaan
 autonym: null
+alt_names: [Balud, Bilaan, Blaan, "Blaan, Sarangani", Tumanao]
 population: 90800
 country_id: PH
 country_name: Philippines

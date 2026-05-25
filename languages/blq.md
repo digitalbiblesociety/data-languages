@@ -2,6 +2,7 @@
 iso: blq
 name: "Baluan-Pam"
 autonym: Paluai
+alt_names: [Pam-Baluan]
 population: 1000
 country_id: PG
 country_name: Papua New Guinea

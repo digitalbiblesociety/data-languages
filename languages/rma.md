@@ -2,6 +2,7 @@
 iso: rma
 name: Rama
 autonym: Rama
+alt_names: [Arama, Arrama, Boto, Melchora, Voto]
 population: 900
 country_id: NI
 country_name: Nicaragua

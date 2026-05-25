@@ -2,6 +2,7 @@
 iso: muu
 name: Yaaku
 autonym: Mogogodo
+alt_names: ["\"Ndorobo\"", Lenga Yaaku, Mukogodo, Mukoquodo, Siegu, Yaaku hizkuntza, Yaakua, Yaakuan, Yakunte, Yiaku, Yiakunte]
 population: 250
 country_id: KE
 country_name: Kenya

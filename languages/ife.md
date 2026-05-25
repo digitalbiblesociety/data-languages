@@ -2,6 +2,7 @@
 iso: ife
 name: Ifè
 autonym: Ana
+alt_names: [Ana-Ife, Ana-Ifé, Anago, Baate, Ede Ife, Ife]
 population: 170600
 country_id: TG
 country_name: Togo

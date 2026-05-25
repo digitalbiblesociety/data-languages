@@ -2,6 +2,7 @@
 iso: xmb
 name: Mbonga
 autonym: Mbonga
+alt_names: [Mboa, Mboŋa]
 population: 1490
 country_id: CM
 country_name: Cameroon

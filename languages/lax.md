@@ -2,6 +2,7 @@
 iso: lax
 name: Tiwa
 autonym: Lalung
+alt_names: [Dowyan, Tigua]
 population: 171000
 country_id: IN
 country_name: India

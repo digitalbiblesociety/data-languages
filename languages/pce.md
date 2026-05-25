@@ -2,6 +2,7 @@
 iso: pce
 name: Ruching Palaung
 autonym: "De'ang"
+alt_names: [Bulai, Bulei, Darang, Di-Ang, Dlang, Ngwe Palaung, Palaung, "Palaung, Pale", "Palaung, Ruching", Palaungo pale, Palay, Pale, Pale Palaung, Pulei, Rumai, Silver Palaung, "Southern Ta'ang", Southern Ta-Ang]
 population: 273300
 country_id: MM
 country_name: Myanmar

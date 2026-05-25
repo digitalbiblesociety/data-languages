@@ -2,6 +2,7 @@
 iso: bqj
 name: Bandial
 autonym: Banjaal
+alt_names: [Bandal, Banjal]
 population: 15700
 country_id: SN
 country_name: Senegal

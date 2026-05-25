@@ -2,6 +2,7 @@
 iso: kzz
 name: Kalabra
 autonym: Beraur
+alt_names: [Klabra]
 population: 3290
 country_id: ID
 country_name: Indonesia

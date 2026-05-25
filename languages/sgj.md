@@ -1,6 +1,7 @@
 ---
 iso: sgj
 name: Surgujia
+name_zh: 苏古贾方言
 autonym: Suraji
 population: 1740000
 country_id: IN

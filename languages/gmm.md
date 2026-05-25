@@ -2,6 +2,7 @@
 iso: gmm
 name: "Gbaya-Mbodomo"
 autonym: Mbódɔ̀mɔ̀
+alt_names: [Bodomo, Gbaya, Mbodomo, Mbondomo]
 population: 20000
 country_id: CM
 country_name: Cameroon

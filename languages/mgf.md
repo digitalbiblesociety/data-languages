@@ -2,6 +2,7 @@
 iso: mgf
 name: Maklew
 autonym: Makleunga
+alt_names: [Makleu]
 population: 120
 country_id: ID
 country_name: Indonesia

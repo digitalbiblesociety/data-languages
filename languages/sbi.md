@@ -2,6 +2,7 @@
 iso: sbi
 name: Seti
 autonym: null
+alt_names: [Aunalei]
 population: 160
 country_id: PG
 country_name: Papua New Guinea

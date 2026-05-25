@@ -2,6 +2,7 @@
 iso: mfk
 name: North Mofu
 autonym: Douvangar
+alt_names: [Mofoueg an norzh, Mofu, "Mofu, North", Mofu-Douvangar, Mofu-Duvangar, Mofu-Nord, Mofu-North, Muffo, Muffu, Sjeverni mofu jezik]
 population: 27500
 country_id: CM
 country_name: Cameroon

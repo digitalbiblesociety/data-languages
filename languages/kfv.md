@@ -2,6 +2,7 @@
 iso: kfv
 name: Kurmukar
 autonym: Kamar
+alt_names: [Karmakar, Kumar, Kumbhakar, Kumhar]
 population: 3000
 country_id: IN
 country_name: India

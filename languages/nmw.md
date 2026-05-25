@@ -2,6 +2,7 @@
 iso: nmw
 name: Nimoa
 autonym: Rifao
+alt_names: [Nimowa]
 population: 1100
 country_id: PG
 country_name: Papua New Guinea

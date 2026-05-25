@@ -2,6 +2,7 @@
 iso: azt
 name: Faire Atta
 autonym: Southern Atta
+alt_names: [Atta faire, Atta meridional, "Atta, Faire"]
 population: 300
 country_id: PH
 country_name: Philippines

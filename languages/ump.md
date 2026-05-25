@@ -2,6 +2,7 @@
 iso: ump
 name: Umpila
 autonym: Northeastern Paman
+alt_names: [Cape York Peninsula Languages, Djindjanagu, Djundjanagu, Koko umpilo, Koko-umpilo, Ombila, Ompeila, Ompela, Oom billa, Oom-billa, Oombilla, Umbila, Umpile, Umpilo, ʔumpila]
 population: 100
 country_id: AU
 country_name: Australia

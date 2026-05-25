@@ -2,6 +2,7 @@
 iso: zty
 name: Yatee Zapotec
 autonym: Lachirioag Zapotec
+alt_names: [Northern Sapoteko, Zapotec, "Zapotec, Yatee", Zapoteco de Yatee]
 population: 5000
 country_id: MX
 country_name: Mexico

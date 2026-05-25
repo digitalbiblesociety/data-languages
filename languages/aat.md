@@ -1,7 +1,9 @@
 ---
 iso: aat
 name: Arvanitika Albanian
+name_zh: 阿尔瓦尼蒂卡语
 autonym: arbërishtαρbε̰ρίσ̈τ
+alt_names: [Albanesisch, Albanian, "Albanian, Arvanitika", Arber, Arberichte, Arbresh, Arnaut, Arvaniteg, Arvanitic, Arvanitico, Arvanitika, Arvanitiska, Arvanitski jezik, Arvaníska, Língua arvanitica, Shqipēri, Shquipni, Škip, Αρβανίτικη γλώσσα]
 population: 150000
 country_id: GR
 country_name: Greece

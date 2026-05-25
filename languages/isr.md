@@ -1,7 +1,9 @@
 ---
 iso: isr
 name: Israeli Sign Language
+name_zh: 以色列手語
 autonym: Shassi
+alt_names: [ISL, שפת הסימנים הישראלית]
 population: 10000
 country_id: IL
 country_name: Israel

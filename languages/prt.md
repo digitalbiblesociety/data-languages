@@ -1,7 +1,9 @@
 ---
 iso: prt
 name: Phai
+name_zh: 派语
 autonym: Phai
+alt_names: [East Pua Pray, Kha, Kha Phay, "Lua'", Phay, Prai, Pray, Pray 1, Pray 2, Thung Chan Pray]
 population: 20000
 country_id: TH
 country_name: Thailand

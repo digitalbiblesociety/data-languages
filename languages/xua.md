@@ -2,6 +2,7 @@
 iso: xua
 name: Alu Kurumba
 autonym: Alu Kurumba Nonstandard Kannada
+alt_names: [Alu, Hal Kurumba, Kurumba, "Kurumba, Alu", Pal Kurumba]
 population: 2500
 country_id: IN
 country_name: India

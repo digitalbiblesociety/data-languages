@@ -1,7 +1,9 @@
 ---
 iso: yox
 name: Yoron
+name_zh: 與論語
 autonym: ユンヌフトゥバ / Yunnu Futuba
+alt_names: [Ryukyuan]
 population: 950
 country_id: JP
 country_name: Japan

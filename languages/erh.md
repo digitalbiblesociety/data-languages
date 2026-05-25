@@ -2,6 +2,7 @@
 iso: erh
 name: Eruwa
 autonym: Arokwa
+alt_names: [Erakwa, Erohwa]
 population: 2000
 country_id: NG
 country_name: Nigeria

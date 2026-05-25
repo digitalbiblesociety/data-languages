@@ -1,7 +1,9 @@
 ---
 iso: ssf
 name: Thao
+name_zh: 邵語
 autonym: "Chui-Huan"
+alt_names: [Chuihwan, Lingua Thao, Sao, Sau, Shao, Sprache von Formosa, Suihwan, Vulung, サオ語, 邵語]
 population: null
 country_id: TW
 country_name: Taiwan

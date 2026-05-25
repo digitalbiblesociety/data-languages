@@ -2,6 +2,7 @@
 iso: buu
 name: Budu
 autonym: Bodo
+alt_names: [Ebudu, Kibudu]
 population: 180000
 country_id: CD
 country_name: DR Congo

@@ -2,6 +2,7 @@
 iso: pbu
 name: Northern Pashto
 autonym: Yusufzai
+alt_names: [Afghan, Eastern Afghan, "Pakh'to", Pakhto, Pakhtoo, Pakhtu, Paktu, Pashto, "Pashto, Northern", Pashtu, Passtoo, Pushto, Pusto, Yusufzai Pashto]
 population: 20900000
 country_id: PK
 country_name: Pakistan

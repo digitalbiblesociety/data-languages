@@ -2,6 +2,7 @@
 iso: yik
 name: Dongshanba Lalo
 autonym: Western Yi
+alt_names: [Lalo, "Lalo, Dongshanba", "Lalo,Dongshanba", Lalu, Lalupa, Lolo, Yi, "Yi, Xishan Lalu"]
 population: 30000
 country_id: CN
 country_name: China

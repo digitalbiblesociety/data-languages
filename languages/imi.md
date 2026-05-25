@@ -2,6 +2,7 @@
 iso: imi
 name: Anamgura
 autonym: Ikundun
+alt_names: [Anamuxra, Mindivi]
 population: 1250
 country_id: PG
 country_name: Papua New Guinea

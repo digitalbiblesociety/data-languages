@@ -2,6 +2,7 @@
 iso: fap
 name: Paloor
 autonym: Falor
+alt_names: [Palar, Palor, Sili, Sili-Sili, Waro]
 population: 10700
 country_id: SN
 country_name: Senegal

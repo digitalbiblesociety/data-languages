@@ -2,6 +2,7 @@
 iso: dez
 name: Dengese
 autonym: Ileo
+alt_names: [Lengese, Ndengese]
 population: 8600
 country_id: CD
 country_name: DR Congo

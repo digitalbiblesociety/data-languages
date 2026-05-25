@@ -2,6 +2,7 @@
 iso: nnj
 name: Nyangatom
 autonym: Dongiro
+alt_names: [Donyiro, Idongiro, Inyangatom, Ngiangatom]
 population: 24300
 country_id: ET
 country_name: Ethiopia

@@ -2,6 +2,7 @@
 iso: kzp
 name: Kaidipang
 autonym: Dio
+alt_names: [Kaidipan]
 population: 6660
 country_id: ID
 country_name: Indonesia

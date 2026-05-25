@@ -1,7 +1,9 @@
 ---
 iso: bhf
 name: Odiai
+name_zh: 布萨语
 autonym: Odiai
+alt_names: [Bouseg, Busa, Busa language, Busan, Uriai]
 population: 240
 country_id: PG
 country_name: Papua New Guinea

@@ -2,6 +2,7 @@
 iso: zqe
 name: Qiubei Zhuang
 autonym: Buyue
+alt_names: [Chiupei, Chuang, Qiubei, Zhuang, Zhuang (Northern), "Zhuang, Qiubei"]
 population: 150000
 country_id: CN
 country_name: China

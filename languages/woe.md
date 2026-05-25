@@ -2,6 +2,7 @@
 iso: woe
 name: Woleaian
 autonym: kapetali Weleya
+alt_names: [Woleai, Woleayano]
 population: 1630
 country_id: FM
 country_name: Micronesia

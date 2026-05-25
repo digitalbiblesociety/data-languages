@@ -1,6 +1,7 @@
 ---
 iso: dsz
 name: Mardin Sign Language
+alt_names: [Dilsizce, Eski Işaretler]
 population: 40
 country_id: TR
 country_name: Turkey

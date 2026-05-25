@@ -2,6 +2,7 @@
 iso: kyt
 name: Kayagar
 autonym: Kaygir
+alt_names: [Kajagar, Kajakaja, Kaygi, Wiyagar]
 population: 10000
 country_id: ID
 country_name: Indonesia

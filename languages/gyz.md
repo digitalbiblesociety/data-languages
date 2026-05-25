@@ -2,6 +2,7 @@
 iso: gyz
 name: Gyaazi
 autonym: null
+alt_names: [Geji, Nuclear Geji]
 population: 8000
 country_id: NG
 country_name: Nigeria

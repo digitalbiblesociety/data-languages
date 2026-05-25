@@ -1,7 +1,9 @@
 ---
 iso: kuf
 name: Western Katu
+name_zh: 戈都语
 autonym: Low Katu
+alt_names: [Attouat, High Katu, Kantu, Kao, Katu, "Katu, Western", Khat, Kontu, Nguôn Ta, Phuong Katu, Ta River Vân Kiêu, Teu, Thap]
 population: 14700
 country_id: LA
 country_name: Laos

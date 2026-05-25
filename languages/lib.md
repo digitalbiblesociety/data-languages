@@ -2,6 +2,7 @@
 iso: lib
 name: Likum
 autonym: null
+alt_names: [Admiralitäts-inseln]
 population: 80
 country_id: PG
 country_name: Papua New Guinea

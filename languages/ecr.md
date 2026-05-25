@@ -1,7 +1,9 @@
 ---
 iso: ecr
 name: Eteocretan
+name_zh: 埃泰爾克里特語
 autonym: null
+alt_names: [Eteo-Cretan]
 population: null
 country_id: GR
 country_name: Greece

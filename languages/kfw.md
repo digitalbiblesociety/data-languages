@@ -2,6 +2,7 @@
 iso: kfw
 name: Kharam Naga
 autonym: Duisalongmei
+alt_names: ["Naga, Kharam", "Naga,Kharam", Thinglong]
 population: 1400
 country_id: IN
 country_name: India

@@ -2,6 +2,7 @@
 iso: kwb
 name: Kwa
 autonym: Baa
+alt_names: [Kwah]
 population: 7000
 country_id: NG
 country_name: Nigeria

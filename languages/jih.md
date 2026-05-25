@@ -1,7 +1,9 @@
 ---
 iso: jih
 name: sTodsde
+name_zh: 商寨语
 autonym: Shangzhai
+alt_names: [Daofu, Ergong, Horpa, Horpa-Shangzhai, Western Jiarong]
 population: 4100
 country_id: CN
 country_name: China

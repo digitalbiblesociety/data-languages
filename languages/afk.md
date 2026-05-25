@@ -2,6 +2,7 @@
 iso: afk
 name: Nanubae
 autonym: Lower Arafundi
+alt_names: [Alfendio, Arafundi, Aunda, Imboin, Kapagmai, Tapei, Upper Arafundi]
 population: null
 country_id: PG
 country_name: Papua New Guinea

@@ -2,6 +2,7 @@
 iso: ate
 name: Atemble
 autonym: Atemble
+alt_names: [Apris, Atemple, Atemple-Apris, Mand]
 population: null
 country_id: PG
 country_name: Papua New Guinea

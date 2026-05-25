@@ -1,7 +1,9 @@
 ---
 iso: bol
 name: Bole
+name_zh: 博乐语
 autonym: Bòò Pìkkà
+alt_names: [Ampika, Bolanchi, Bolawa, Bolewa, Borpika, Daza, Dazawa]
 population: 216000
 country_id: NG
 country_name: Nigeria

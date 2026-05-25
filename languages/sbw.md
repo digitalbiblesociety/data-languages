@@ -2,6 +2,7 @@
 iso: sbw
 name: Simba
 autonym: Simba
+alt_names: [Nsindak]
 population: 3000
 country_id: GA
 country_name: Gabon

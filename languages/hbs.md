@@ -1,7 +1,9 @@
 ---
 iso: hbs
 name: "Serbo-Croatian"
+name_zh: 塞尔维亚-克罗地亚语
 autonym: srpskohrvatski jezik
+alt_names: [Croatian, Serbian, Serbian-Croatian, Serbo-Croat, Serbo-Croatian (Croatian), Serbocroat]
 population: 19000000
 country_id: RS
 country_name: Serbia

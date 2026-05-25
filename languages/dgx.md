@@ -2,6 +2,7 @@
 iso: dgx
 name: Doghoro
 autonym: Bareji
+alt_names: [Dogoro]
 population: 270
 country_id: PG
 country_name: Papua New Guinea

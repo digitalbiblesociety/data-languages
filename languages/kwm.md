@@ -2,6 +2,7 @@
 iso: kwm
 name: Kwambi
 autonym: Oshikwambi
+alt_names: [Namibia]
 population: 39000
 country_id: NA
 country_name: Namibia

@@ -2,6 +2,7 @@
 iso: xks
 name: Kumbewaha
 autonym: Kumberaha
+alt_names: [Umbewaha]
 population: 3400
 country_id: ID
 country_name: Indonesia

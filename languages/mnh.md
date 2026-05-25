@@ -1,7 +1,9 @@
 ---
 iso: mnh
 name: Mono (Democratic Republic of Congo)
+name_zh: 刚果莫諾语
 autonym: Amono
+alt_names: [Mono, Mono (Democratic Republic of the Congo), Mono language]
 population: 65000
 country_id: CD
 country_name: DR Congo

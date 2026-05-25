@@ -2,6 +2,7 @@
 iso: alj
 name: Alangan
 autonym: null
+alt_names: [Alangan jezik, Lingua alangan, Wikang Alangan]
 population: 14600
 country_id: PH
 country_name: Philippines

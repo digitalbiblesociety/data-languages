@@ -1,7 +1,9 @@
 ---
 iso: ttr
 name: Tera
+name_zh: 特拉語
 autonym: Nyimalti
+alt_names: [Pidlimdi, Tera jezik, Teraeg, Wuyo dialect, Yamaltu]
 population: 101000
 country_id: NG
 country_name: Nigeria

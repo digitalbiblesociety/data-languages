@@ -13,7 +13,10 @@
     "enum": [
       "iso",
       "name",
+      "name_zh",
+      "name_zh_auto",
       "autonym",
+      "alt_names",
       "population",
       "country_id",
       "country_name",
@@ -41,9 +44,25 @@
       "type": "string",
       "minLength": 1
     },
+    "name_zh": {
+      "description": "Simplified Chinese name. Populated by tools/sources/wikidata_names.go (preferring zh-Hans > zh-CN > zh-SG > zh) and gap-filled by tools/sources/cldr_names.go from CLDR's zh locale data.",
+      "type": "string",
+      "minLength": 1
+    },
+    "name_zh_auto": {
+      "description": "Set to true when `name_zh` was produced by an automated (LLM/MT) translation rather than a curated upstream source. Curated values (Wikidata, CLDR) leave this absent.",
+      "type": "boolean",
+      "const": true
+    },
     "autonym": {
       "description": "Endonym (the language's name written in the language itself).",
       "type": "string"
+    },
+    "alt_names": {
+      "description": "Deduplicated array of alternative names for this language, drawn from Glottolog's names.csv (multi-provider) and SIL's ISO 639-3 Name Index. Excludes the canonical `name` and `autonym`.",
+      "type": "array",
+      "items": { "type": "string", "minLength": 1 },
+      "uniqueItems": true
     },
     "population": {
       "description": "Approximate number of speakers.",

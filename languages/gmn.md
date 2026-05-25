@@ -2,6 +2,7 @@
 iso: gmn
 name: Gimnime
 autonym: Gimbe
+alt_names: [Kadam, Koma Kadam, Komlama, Laame, Yotubo]
 population: 3000
 country_id: CM
 country_name: Cameroon

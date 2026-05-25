@@ -2,6 +2,7 @@
 iso: nrl
 name: Ngarluma
 autonym: Kariyarra
+alt_names: ["\"Nickol Bay\" tribe", Engarluma, Gnalluma, Gnalooma, Gnalouma, Jaburarra, Jaburrara ngarluma, Kariera-Ngaluma, Karira Ngaluma, Kymurra, Naluma, Ngalama, Ngallooma, Ngalluma, Ngalooma, Ngaluma, Ngar luma, Ngar-luma, Nickol Bay tribe, Paljari, Qualluana]
 population: 11
 country_id: AU
 country_name: Australia

@@ -1,7 +1,9 @@
 ---
 iso: kxa
 name: Kairiru
+name_zh: 卡瑞鲁语
 autonym: null
+alt_names: [Kairiru language]
 population: 3200
 country_id: PG
 country_name: Papua New Guinea

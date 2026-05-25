@@ -1,6 +1,7 @@
 ---
 iso: ule
 name: Lule
+name_zh: 卢莱语
 autonym: null
 population: null
 country_id: AR

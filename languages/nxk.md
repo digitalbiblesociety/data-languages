@@ -2,6 +2,7 @@
 iso: nxk
 name: Koki Naga
 autonym: Koki Naga
+alt_names: ["Naga, Koki"]
 population: 2000
 country_id: MM
 country_name: Myanmar

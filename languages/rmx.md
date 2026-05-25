@@ -2,6 +2,7 @@
 iso: rmx
 name: Romam
 autonym: Ro Mam
+alt_names: [Lamam]
 population: 250
 country_id: VN
 country_name: Vietnam

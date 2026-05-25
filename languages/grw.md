@@ -2,6 +2,7 @@
 iso: grw
 name: Gweda
 autonym: Garuwahi
+alt_names: [Garuvahi]
 population: 26
 country_id: PG
 country_name: Papua New Guinea

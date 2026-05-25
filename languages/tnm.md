@@ -2,6 +2,7 @@
 iso: tnm
 name: Tabla
 autonym: Tanah Merah
+alt_names: [Jakari, Tabi, Tanah Merah(2), Tanahmerah, Tanahmerah 2, Tanahmerah II, Tepera]
 population: 3750
 country_id: ID
 country_name: Indonesia

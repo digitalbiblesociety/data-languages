@@ -2,6 +2,7 @@
 iso: ksm
 name: Kumba
 autonym: Sate
+alt_names: [Isaro, Yofo]
 population: 3420
 country_id: NG
 country_name: Nigeria

@@ -2,6 +2,7 @@
 iso: ifu
 name: Mayoyao Ifugao
 autonym: Ifugaw
+alt_names: ["Ifugao, Mayoyao", Ifugu, Mayaoyaw, Mayoyao]
 population: 30000
 country_id: PH
 country_name: Philippines

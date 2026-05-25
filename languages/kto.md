@@ -2,6 +2,7 @@
 iso: kto
 name: Kuot
 autonym: Panaris
+alt_names: [Kuat, Neu-Pommern, Panaras]
 population: 2400
 country_id: PG
 country_name: Papua New Guinea

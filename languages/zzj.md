@@ -1,7 +1,9 @@
 ---
 iso: zzj
 name: Zuojiang Zhuang
+name_zh: 左江壯語
 autonym: Vahcuengh (za)
+alt_names: [Ken Tho, Longyin, Longzhou, Nung Chao, Pho Thai, Pu Tho, Southern Zhuang, Tsochiang, "Yung-ch'un", Yung-shun, Zhuang, "Zhuang, Zuojiang", Zhuangyu nanbu fangyan Zuojiang tuyu, Zuojiang]
 population: 1840000
 country_id: CN
 country_name: China

@@ -1,7 +1,9 @@
 ---
 iso: krt
 name: Tumari Kanuri
+name_zh: 图马里卡努里语
 autonym: Kànùrí
+alt_names: [Bornu, Kanambu, Kanembu, Kanuri, "Kanuri, Tumari"]
 population: 40000
 country_id: NE
 country_name: Niger

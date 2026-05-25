@@ -1,6 +1,7 @@
 ---
 iso: bua
 name: Buriat
+name_zh: 布里亚特语
 autonym: ᠪᠤᠷᠢᠶᠠᠳ ᠮᠣᠩᠭᠣᠯ ᠬᠯᠡᠨ
 population: 326500
 country_id: MN

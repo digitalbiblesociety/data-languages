@@ -2,6 +2,7 @@
 iso: wei
 name: Kiunum
 autonym: Kiunum
+alt_names: [Were, Wèré]
 population: 700
 country_id: PG
 country_name: Papua New Guinea

@@ -1,7 +1,9 @@
 ---
 iso: kfe
 name: Kota (India)
+name_zh: 科塔语
 autonym: Kō mānt
+alt_names: [Cota, Kota, Kota (in India), Kother-Tamil, Kotta, Kowe-Adiwasi, Kôta, Kōta]
 population: 900
 country_id: IN
 country_name: India

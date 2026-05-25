@@ -2,6 +2,7 @@
 iso: mca
 name: Maca
 autonym: Maká
+alt_names: [Enimaca, Enimaga, Macca, Macá, "Mak'á", Maka, Makų kalba, Nynaka, Toothle, Towolhi, Towothli]
 population: 1500
 country_id: PY
 country_name: Paraguay

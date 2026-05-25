@@ -2,6 +2,7 @@
 iso: wow
 name: Wawonii
 autonym: Wowoni
+alt_names: [Wowonii]
 population: 14000
 country_id: ID
 country_name: Indonesia

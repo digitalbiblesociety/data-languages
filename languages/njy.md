@@ -2,6 +2,7 @@
 iso: njy
 name: Njyem
 autonym: Njyem
+alt_names: [Djem, Dzem, Ndjem, Ndjeme, Ndzem, Ngyeme, Njem, Nyem]
 population: 3500
 country_id: CM
 country_name: Cameroon

@@ -2,6 +2,7 @@
 iso: stu
 name: Samtao
 autonym: Pulang
+alt_names: [Angku, Samtau, Samtuan, Āng-kú]
 population: 9550
 country_id: MM
 country_name: Myanmar

@@ -2,6 +2,7 @@
 iso: aga
 name: Aguano
 autonym: Aguanu
+alt_names: [Awano, Santa Crucino, Uguano]
 population: null
 country_id: PE
 country_name: Peru

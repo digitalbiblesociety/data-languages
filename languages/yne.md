@@ -1,6 +1,7 @@
 ---
 iso: yne
 name: "Lang'e"
+name_zh: 崀峨语
 autonym: "La'u"
 population: 2000
 country_id: CN

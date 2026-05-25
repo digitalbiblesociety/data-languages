@@ -2,6 +2,7 @@
 iso: nal
 name: Nalik
 autonym: Fesoa
+alt_names: [Fessoa, Lugagon, Neu-Mecklenburg]
 population: 5140
 country_id: PG
 country_name: Papua New Guinea

@@ -1,7 +1,9 @@
 ---
 iso: shx
 name: She
+name_zh: 畲语
 autonym: Ho Ne
+alt_names: [Che, Ho nte, Huo Nte, Шэ, シェ語, 山哈, 畬語, 畲语]
 population: 709000
 country_id: CN
 country_name: China

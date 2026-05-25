@@ -1,7 +1,9 @@
 ---
 iso: kjg
 name: Khmu
+name_zh: 克木语
 autonym: "Kmhmu'"
+alt_names: [Cam Mu, Kamhmu, Kammu, Kamu, Kemu, Kha, Kha Cau, Kha Khmu, Khamu, Khamuk, Khmous, "Khmu'", "Khmu?", Khmus, Khomu, Kmhmu, Lao Terng, Luu, Mou, Mun Xen, Northern, Pouteng, Pu Thenh, Tenh, Theng, Thenh, Tsa Khmu, Xa Cau]
 population: 803650
 country_id: LA
 country_name: Laos

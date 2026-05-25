@@ -2,6 +2,7 @@
 iso: jns
 name: Jaunsari
 autonym: जौनसारी
+alt_names: [Jansauri, Janusari, Jaunsauri, Pahari]
 population: 137000
 country_id: IN
 country_name: India

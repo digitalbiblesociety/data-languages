@@ -2,6 +2,7 @@
 iso: wax
 name: Watam
 autonym: Watam
+alt_names: [Marangis]
 population: 590
 country_id: PG
 country_name: Papua New Guinea

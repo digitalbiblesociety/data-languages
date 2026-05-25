@@ -2,6 +2,7 @@
 iso: ail
 name: Aimele
 autonym: Kware
+alt_names: [Eibela]
 population: 140
 country_id: PG
 country_name: Papua New Guinea

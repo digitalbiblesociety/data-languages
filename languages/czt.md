@@ -2,6 +2,7 @@
 iso: czt
 name: Zotung Chin
 autonym: Zo
+alt_names: [Bandzhogi, Bandžogi, Banjogi, "Chin, Zotung", "Chin,Zotung", Zobya, Zotung]
 population: 40000
 country_id: MM
 country_name: Myanmar

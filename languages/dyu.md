@@ -1,7 +1,9 @@
 ---
 iso: dyu
 name: Dyula
+name_zh: 迪尤拉语
 autonym: Julakan
+alt_names: [Dioula, Dioula language, Diouleg, Diula, Djula, Dyoula, Jula, Język diula, Lingua dioula, Língua dioula, Ĝula lingvo, Диула, Дьюла]
 population: 2226000
 country_id: CI
 country_name: "Côte d'Ivoire"

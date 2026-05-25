@@ -2,6 +2,7 @@
 iso: gef
 name: "Gerai\r"
 autonym: bahasa Gerai
+alt_names: [Gerai]
 population: 2000
 country_id: GR
 country_name: Greece

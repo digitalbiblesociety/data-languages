@@ -2,6 +2,7 @@
 iso: yei
 name: Yeni
 autonym: null
+alt_names: [Cameroon]
 population: null
 country_id: CM
 country_name: Cameroon

@@ -1,7 +1,9 @@
 ---
 iso: gjn
 name: Gonja
+name_zh: 貢加語
 autonym: null
+alt_names: [Guang, Ngbanyito]
 population: 310000
 country_id: GH
 country_name: Ghana

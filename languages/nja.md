@@ -2,6 +2,7 @@
 iso: nja
 name: Nzanyi
 autonym: Jeng
+alt_names: [Jenge, Kobochi, Kobotshi, Mzangyim, Njai, Njanyi, Njegn, Njei, Njeing, Njeng, Njeny, Nzangi, Zani, Zany]
 population: 86000
 country_id: NG
 country_name: Nigeria

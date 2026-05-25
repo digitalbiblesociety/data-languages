@@ -1,7 +1,9 @@
 ---
 iso: cuu
 name: Tai Ya
+name_zh: 傣雅
 autonym: Tai Cung
+alt_names: [Cung, Daiya, Tai-Chung, Tai-Cung, Ya]
 population: 50400
 country_id: CN
 country_name: China

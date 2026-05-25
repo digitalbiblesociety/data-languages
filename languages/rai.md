@@ -2,6 +2,7 @@
 iso: rai
 name: Ramoaaina
 autonym: Duke of York
+alt_names: [Ramuaina]
 population: 10300
 country_id: PG
 country_name: Papua New Guinea

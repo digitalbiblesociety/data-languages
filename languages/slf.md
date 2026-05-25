@@ -2,6 +2,7 @@
 iso: slf
 name: "Swiss-Italian Sign Language"
 autonym: Lingua dei Segni Italiana
+alt_names: [LIS-SI]
 population: 200
 country_id: CH
 country_name: Switzerland

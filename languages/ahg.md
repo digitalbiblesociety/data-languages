@@ -2,6 +2,7 @@
 iso: ahg
 name: Qimant
 autonym: Kemantney
+alt_names: [Agaw, Chemant, Falasha, Falaša, "K'emant", Kamant, Kemanat, Kemant, Kimant, Kimanteney, Kwara, Lenga Qimant, Qemant, Qimant hizkuntza, Qimant jezik, Western Agaw]
 population: 1650
 country_id: ET
 country_name: Ethiopia

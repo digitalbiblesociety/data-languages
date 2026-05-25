@@ -2,6 +2,7 @@
 iso: fod
 name: Foodo
 autonym: null
+alt_names: [Guang]
 population: 24500
 country_id: BJ
 country_name: Benin

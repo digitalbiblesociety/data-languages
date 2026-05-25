@@ -2,6 +2,7 @@
 iso: bfb
 name: Pauri Bareli
 autonym: Bareli
+alt_names: ["Bareli, Pauri", Barewali, Barli]
 population: 991000
 country_id: IN
 country_name: India

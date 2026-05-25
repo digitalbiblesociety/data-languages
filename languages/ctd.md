@@ -1,7 +1,9 @@
 ---
 iso: ctd
 name: Tedim Chin
+name_zh: 梯顶语
 autonym: Zokam
+alt_names: [Chin, Chin (North), Chin (Tedim), Chin (Tiddim), "Chin, Tedim", "Chin,Tedim", Kamhau, Tedim, Tiddim, Tiddim Chin, တီးတိန်ချင်း]
 population: 411000
 country_id: MM
 country_name: Myanmar

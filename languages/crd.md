@@ -2,6 +2,7 @@
 iso: crd
 name: "Coeur d'Alene"
 autonym: Snchitsu’umshtsn
+alt_names: [Coeur d’Alene, Cordaleno, "Cœur d'Alène", Skitswish, "Snchitsu'umshtsn", snčícuʔumšcn]
 population: 800
 country_id: US
 country_name: United States

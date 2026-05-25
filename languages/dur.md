@@ -2,6 +2,7 @@
 iso: dur
 name: Dii
 autonym: Duru
+alt_names: [Dourou, Durru, Nyag Dii, Yag Dii, Zaa]
 population: 50000
 country_id: CM
 country_name: Cameroon

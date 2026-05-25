@@ -2,6 +2,7 @@
 iso: ikw
 name: Ikwere
 autonym: null
+alt_names: [Ikwerre, Ikwerre language, Ikwerri]
 population: 619000
 country_id: NG
 country_name: Nigeria

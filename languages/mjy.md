@@ -1,7 +1,9 @@
 ---
 iso: mjy
 name: Mahican
+name_zh: 莫西干语
 autonym: Mã’eekaneeweexthowãakan
+alt_names: [Língua moicana, Mohegan, Mohican]
 population: null
 country_id: US
 country_name: United States

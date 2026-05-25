@@ -2,6 +2,7 @@
 iso: mlr
 name: Vame
 autonym: Pəlasla
+alt_names: [Hurza, Hurza-Vame, Maslava, Ndreme, Pelasla]
 population: 8500
 country_id: CM
 country_name: Cameroon

@@ -2,6 +2,7 @@
 iso: tnp
 name: Whitesands
 autonym: East Tanna
+alt_names: [Napuanmen, Tepehuan septentrional, Tepehuano septentrional, Whitsands]
 population: 7500
 country_id: VU
 country_name: Vanuatu

@@ -1,7 +1,9 @@
 ---
 iso: hns
 name: Caribbean Hindustani
+name_zh: 加勒比印度斯坦語
 autonym: "Caribbean Hindi-Urdu"
+alt_names: [Aili Gaili, "Hindustani, Caribbean", Trinidad Bhojpuri]
 population: 298600
 country_id: SR
 country_name: Suriname

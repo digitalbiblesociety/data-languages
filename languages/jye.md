@@ -1,7 +1,9 @@
 ---
 iso: jye
 name: "Judeo-Yemeni Arabic"
+name_zh: 猶太-葉門阿拉伯語
 autonym: "Judeo-Yemeni"
+alt_names: [Arabeg yuzev-yemenek, Arabic, "Arabic, Judeo-Yemeni", Judeo-Yemenite, Judeojemenski arapski, Jødejemenittisk arabisk, Yahudi Yemen Arapçası, Yemenite Judeo-Arabic, Јудео-јеменски арапски јазик, ภาษาอาหรับยิวเยเมน]
 population: 36300
 country_id: IL
 country_name: Israel

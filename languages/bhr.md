@@ -2,6 +2,7 @@
 iso: bhr
 name: Bara Malagasy
 autonym: malagasy
+alt_names: [Malagassy, "Malagasy, Bara"]
 population: 724000
 country_id: MG
 country_name: Madagascar

@@ -2,6 +2,7 @@
 iso: mjr
 name: Malavedan
 autonym: Malai Vedan
+alt_names: [Malavetan, Towetan, Vedans]
 population: 6186
 country_id: IN
 country_name: India

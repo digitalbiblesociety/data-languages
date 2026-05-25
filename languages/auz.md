@@ -1,7 +1,9 @@
 ---
 iso: auz
 name: Uzbeki Arabic
+name_zh: 乌孜别克阿拉伯语
 autonym: Central Asian Arabic
+alt_names: [Arabic, "Arabic, Uzbeki", "Arabic, Uzbeki Spoken", Jugari, Kashkadarya Arabic, Tajiki, Uzbeki Spoken Arabic, Uzbečki arapski]
 population: 700
 country_id: UZ
 country_name: Uzbekistan

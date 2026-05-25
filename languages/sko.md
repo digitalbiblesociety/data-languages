@@ -2,6 +2,7 @@
 iso: sko
 name: Seko Tengah
 autonym: Pewanean
+alt_names: [Pewaneang, Pohoneang, Seko]
 population: 2500
 country_id: ID
 country_name: Indonesia

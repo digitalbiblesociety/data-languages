@@ -2,6 +2,7 @@
 iso: kqt
 name: Klias River Kadazan
 autonym: null
+alt_names: [Kadazan, "Kadazan, Klias River"]
 population: 1000
 country_id: MY
 country_name: Malaysia

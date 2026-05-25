@@ -2,6 +2,7 @@
 iso: idi
 name: Idi
 autonym: Diblaeg
+alt_names: [Dibolug, Dimisi, Dimsisi, Tame]
 population: 1610
 country_id: PG
 country_name: Papua New Guinea

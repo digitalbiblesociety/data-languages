@@ -2,6 +2,7 @@
 iso: lpn
 name: Long Phuri Naga
 autonym: Long Phuri Naga
+alt_names: ["Naga, Long Phuri"]
 population: 2000
 country_id: MM
 country_name: Myanmar

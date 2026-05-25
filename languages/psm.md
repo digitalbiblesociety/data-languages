@@ -2,6 +2,7 @@
 iso: psm
 name: Pauserna
 autonym: Guarasugwé
+alt_names: [Guarasu, Guarasugwe, Guarayu-Ta, Paucerne, Pauserna-Guarasugwé]
 population: 2017
 country_id: BO
 country_name: Bolivia

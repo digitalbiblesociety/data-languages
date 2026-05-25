@@ -2,6 +2,7 @@
 iso: mkp
 name: Moikodi
 autonym: Doriri
+alt_names: [Moikoidi]
 population: 570
 country_id: PG
 country_name: Papua New Guinea

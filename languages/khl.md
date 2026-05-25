@@ -2,6 +2,7 @@
 iso: khl
 name: Lusi
 autonym: Kaliai
+alt_names: [Kaliai-Kove]
 population: 2000
 country_id: PG
 country_name: Papua New Guinea

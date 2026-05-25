@@ -1,7 +1,9 @@
 ---
 iso: guk
 name: Gumuz
+name_zh: 古穆茲語
 autonym: Bega
+alt_names: ["\"Shankilligna\"", Bega-Tse, Debatsa, Debuga, Deguba, Dehenda, Gombo, Gumis, Gumuzinya, Lenga Gumuz, Mendeya, Shankillinya, Shanqilla, Sigumza, Гумуски јазик]
 population: 249000
 country_id: ET
 country_name: Ethiopia

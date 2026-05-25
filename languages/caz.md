@@ -2,6 +2,7 @@
 iso: caz
 name: Canichana
 autonym: Joaquiniano
+alt_names: [Avishiri, Canesi, Canisiana, Kanichana, Tekiraka, Tequiraca]
 population: 2004
 country_id: BO
 country_name: Bolivia

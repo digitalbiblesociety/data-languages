@@ -2,6 +2,7 @@
 iso: ncr
 name: Ncane
 autonym: Cane
+alt_names: [Nchanti, Ntshanti]
 population: 15500
 country_id: CM
 country_name: Cameroon

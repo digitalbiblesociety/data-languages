@@ -2,6 +2,7 @@
 iso: gbk
 name: Gaddi
 autonym: 𑚌𑚛𑚊𑚯
+alt_names: [Bharmauri, Bharmauri Bhadi, Gaddyali, Gadi, Gadiali, Pahari Bharmauri, Panchi Brahmauri Rajput]
 population: 181000
 country_id: IN
 country_name: India

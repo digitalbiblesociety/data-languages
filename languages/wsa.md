@@ -2,6 +2,7 @@
 iso: wsa
 name: Warembori
 autonym: Waremboivoro
+alt_names: [Warenbori, Warenborieg]
 population: 600
 country_id: ID
 country_name: Indonesia

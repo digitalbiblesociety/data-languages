@@ -2,6 +2,7 @@
 iso: xmw
 name: Tsimihety Malagasy
 autonym: malagasy
+alt_names: ["Malagasy, Tsimihety", Tsimihety]
 population: 1615000
 country_id: MG
 country_name: Madagascar

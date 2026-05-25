@@ -2,6 +2,7 @@
 iso: mdn
 name: Mbati
 autonym: Isongo
+alt_names: [Issongo, Lisongo, Lissongo, Songo]
 population: 60000
 country_id: CF
 country_name: Central African Republic

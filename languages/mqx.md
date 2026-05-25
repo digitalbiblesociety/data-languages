@@ -2,6 +2,7 @@
 iso: mqx
 name: Mamuju
 autonym: Mamoedjoe
+alt_names: [Mamoedjoesch, Mamudju, Nordost-Celebes, Udai]
 population: 62900
 country_id: ID
 country_name: Indonesia

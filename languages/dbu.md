@@ -2,6 +2,7 @@
 iso: dbu
 name: Bondum Dom Dogon
 autonym: Bondum Dom
+alt_names: [Bondu So, Bondum-Dom, Dogon, "Dogon, Bondum Dom", Najamba-Kindige, North Plateau Dogon]
 population: 24700
 country_id: ML
 country_name: Mali

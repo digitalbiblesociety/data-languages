@@ -1,7 +1,9 @@
 ---
 iso: tiw
 name: Tiwi
+name_zh: 提维语
 autonym: null
+alt_names: [Diwi, Idioma tiví, Język tiwi, Nguiu, Ni mara, Ni-mara, Nimara, Tiví, Tiwian, Tiwian Family, Tunuvivi, "Wonga:k", Wongak, Woranguwe, Wunguk, Wunuk, Yeimbi, Тиви]
 population: 2040
 country_id: AU
 country_name: Australia

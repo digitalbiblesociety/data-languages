@@ -1,7 +1,9 @@
 ---
 iso: lec
 name: Leco
+name_zh: 離戈語
 autonym: " Rik’a"
+alt_names: [Ateniano, Chuncho Aleniano, Lapalapa, Leka, Leko, "Rik'a", Леко]
 population: 20
 country_id: BO
 country_name: Bolivia

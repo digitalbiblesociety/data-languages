@@ -1,7 +1,9 @@
 ---
 iso: vmw
 name: Makhuwa
+name_zh: 馬庫阿語
 autonym: Emakuana
+alt_names: [Central Makhuwa, Emakhuwa, Emakua, Język makua, Kimakua, Língua macua, Macua, Makhuawa, Makhuwa-Makhuwana, Makhuwwa of Nampula, Makoane, Makua, Makuan kieli, Maquoua, Макуа]
 population: 3973600
 country_id: MZ
 country_name: Mozambique

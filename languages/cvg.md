@@ -1,7 +1,9 @@
 ---
 iso: cvg
 name: Chug
+name_zh: 楚格语
 autonym: Lishpa
+alt_names: [Chug Monpa, Chugpa, Monpa]
 population: 850
 country_id: IN
 country_name: India

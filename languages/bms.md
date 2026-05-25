@@ -1,7 +1,9 @@
 ---
 iso: bms
 name: Bilma Kanuri
+name_zh: 比尔马卡努里语
 autonym: Kànùrí
+alt_names: [Bla Bla, Bornu, Kanembu, Kanouri, Kanoury, Kanuri, "Kanuri, Bilma"]
 population: 20000
 country_id: NE
 country_name: Niger

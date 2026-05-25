@@ -2,6 +2,7 @@
 iso: bbk
 name: Babanki
 autonym: Finge
+alt_names: [Kedjom, Kejeng, Kejom, Kidzem, Kidzom]
 population: 39000
 country_id: CM
 country_name: Cameroon

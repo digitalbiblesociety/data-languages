@@ -1,7 +1,9 @@
 ---
 iso: eka
 name: Ekajuk
+name_zh: 艾卡朱克语
 autonym: Akajo
+alt_names: [Akajuk]
 population: 63000
 country_id: NG
 country_name: Nigeria

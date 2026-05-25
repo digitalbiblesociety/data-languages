@@ -1,7 +1,9 @@
 ---
 iso: otk
 name: Old Turkish
+name_zh: 古突厥語
 autonym: East Old Turkic
+alt_names: ["Turkish, Old"]
 population: null
 country_id: TR
 country_name: Turkey

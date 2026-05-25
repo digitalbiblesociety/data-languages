@@ -2,6 +2,7 @@
 iso: tva
 name: Vaghua
 autonym: Tavula
+alt_names: [Tavola, Vagua]
 population: 1960
 country_id: SB
 country_name: Solomon Islands

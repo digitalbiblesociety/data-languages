@@ -2,6 +2,7 @@
 iso: kyn
 name: Northern Binukidnon
 autonym: Northern Binukidnon
+alt_names: ["Binukidnon, Northern", Karolanos, Philippines]
 population: 15100
 country_id: PH
 country_name: Philippines

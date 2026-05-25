@@ -1,7 +1,9 @@
 ---
 iso: oia
 name: Oirata
+name_zh: 奥伊拉塔语
 autonym: Maaro
+alt_names: [Oirateg]
 population: 1220
 country_id: ID
 country_name: Indonesia

@@ -2,6 +2,7 @@
 iso: lga
 name: Lungga
 autonym: Luga
+alt_names: [Luqa]
 population: 2770
 country_id: SB
 country_name: Solomon Islands

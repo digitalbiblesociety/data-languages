@@ -2,6 +2,7 @@
 iso: mff
 name: Naki
 autonym: Munkaf
+alt_names: [Bunaki, Mekaf, Nkap]
 population: 3000
 country_id: CM
 country_name: Cameroon

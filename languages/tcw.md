@@ -2,6 +2,7 @@
 iso: tcw
 name: Tecpatlán Totonac
 autonym: null
+alt_names: [Tecpatlan Totonac, Totonac, "Totonac, Tecpatlán", Totonacano de Patla, Totonacano filomeno mata-coahuillán, Totonaco, Totonako, Totonaque de Filomeno Mata, Totonaque de Patla-Chicontla]
 population: 540
 country_id: MX
 country_name: Mexico

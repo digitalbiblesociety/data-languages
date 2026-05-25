@@ -2,6 +2,7 @@
 iso: kvv
 name: Kola
 autonym: Kulaha
+alt_names: [Aru, Marlasi, Warilau]
 population: 7700
 country_id: ID
 country_name: Indonesia

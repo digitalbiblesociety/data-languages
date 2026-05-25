@@ -2,6 +2,7 @@
 iso: njl
 name: Njalgulgule
 autonym: Njalgulgule
+alt_names: [Bege, Begi, Beko, Ngulgule, Njangulgule, Nyalgulgule, Nyolge, Nyoolne]
 population: 900
 country_id: SS
 country_name: South Sudan

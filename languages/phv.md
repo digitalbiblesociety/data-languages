@@ -2,6 +2,7 @@
 iso: phv
 name: Pahlavani
 autonym: null
+alt_names: [Afghanistan]
 population: 2100
 country_id: AF
 country_name: Afghanistan

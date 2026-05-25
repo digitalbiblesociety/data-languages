@@ -2,6 +2,7 @@
 iso: zmn
 name: Mbangwe
 autonym: Mbaŋwe
+alt_names: ["M'bahouin", Mbahouin]
 population: 3690
 country_id: GA
 country_name: Gabon

@@ -1,7 +1,9 @@
 ---
 iso: mla
 name: Malo
+name_zh: 它瑪姆波語
 autonym: Malo
+alt_names: [Tamabo, Tamambo, Tamambo language, Vanuatu]
 population: 4000
 country_id: VU
 country_name: Vanuatu

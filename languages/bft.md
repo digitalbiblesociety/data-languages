@@ -1,7 +1,9 @@
 ---
 iso: bft
 name: Balti
+name_zh: 巴尔蒂语
 autonym: بلتیསྦལ་འཐུས་
+alt_names: [Bahasa Baltistani, Balta lingvo, Balteg, Balti dialect, Baltistani, Baltí, Baltī, Bhotia of Baltistan, Bhōṭiā of Baltistan, Idioma balti, Lingua Balti, Sbalt, Sbalti, Tibetan (Western), بلتی, لغة بلتي, ภาษาบัลติ, སྦལ་ཏིའི་སྐད།, 巴尔蒂语]
 population: 438800
 country_id: PK
 country_name: Pakistan

@@ -2,6 +2,7 @@
 iso: una
 name: North Watut
 autonym: Onank
+alt_names: [Unangg, Unank, Watut, "Watut, North"]
 population: 460
 country_id: PG
 country_name: Papua New Guinea

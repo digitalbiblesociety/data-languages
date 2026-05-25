@@ -1,7 +1,9 @@
 ---
 iso: kus
 name: Kusaal
+name_zh: 库萨尔语
 autonym: Kusasi
+alt_names: [Koussassé, Kusale, Kussassi]
 population: 549000
 country_id: GH
 country_name: Ghana

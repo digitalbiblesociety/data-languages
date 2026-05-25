@@ -2,6 +2,7 @@
 iso: okb
 name: Okobo
 autonym: null
+alt_names: [Nigeria]
 population: 50000
 country_id: NG
 country_name: Nigeria

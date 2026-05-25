@@ -2,6 +2,7 @@
 iso: soz
 name: Temi
 autonym: Temi
+alt_names: [Kisonjo, Sonjo, Sonjo language, Sonyo, Wasonjo, Watemi]
 population: 24600
 country_id: TZ
 country_name: Tanzania

@@ -1,7 +1,9 @@
 ---
 iso: gbd
 name: Karajarri
+name_zh: 卡拉杰瑞神话
 autonym: Karajarri
+alt_names: [Garad are, Garadare, Garadjara, Garadjari, Garadjari language, Garadjeri, Garadjiri, Garadyari, Garadyaria, "Gard'are", Gardare, Guradjara, Karacheri, Karadhari, Karadjari, Karadjeri, Karatjarri, Karatyarri, Karrajarra, Karrajarri, Kularupulu, Laradjeri, Lenga karadjeri, Marrngu, Minala, Murgud, Nadja, Nadjanadja, Nangu, Naudu, Naurdu, Nawudu, Nawurtu, Nawurungainj, Ngangu, Ngawadu]
 population: 41
 country_id: AU
 country_name: Australia

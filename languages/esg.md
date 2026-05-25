@@ -2,6 +2,7 @@
 iso: esg
 name: Aheri Gondi
 autonym: "गोण्डि, గోణ్డి, ଗୋଣ୍ଡି, 𑵶𑶓𑶕𑶂𑶋, 𑴎𑴽𑵀𑴘𑴳,"
+alt_names: [Aheri, "Gondi, Aheri"]
 population: 2980000
 country_id: IN
 country_name: India

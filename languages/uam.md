@@ -2,6 +2,7 @@
 iso: uam
 name: Uamué
 autonym: Aticum
+alt_names: [Araticum, Atikum, Huamoi, Huamoé, Huamuê, Uame, Uamue, Umã, Wamoé]
 population: null
 country_id: BR
 country_name: Brazil

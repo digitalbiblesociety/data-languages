@@ -1,7 +1,9 @@
 ---
 iso: ytl
 name: Tanglang
+name_zh: 堂郎語
 autonym: Tholo
+alt_names: [Toloza, 堂郎語]
 population: 2000
 country_id: CN
 country_name: China

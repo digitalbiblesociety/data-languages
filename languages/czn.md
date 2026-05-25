@@ -2,6 +2,7 @@
 iso: czn
 name: Zenzontepec Chatino
 autonym: Northern Chatino
+alt_names: [Chatino, Chatino Occidental Alto, Chatino de Zacatepec, Chatino de Zacatepeco, Chatino de la zona baja occidental, Chatino des basses-terres occidentales, "Chatino, Zenzontepec"]
 population: 8490
 country_id: MX
 country_name: Mexico

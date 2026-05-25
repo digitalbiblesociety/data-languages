@@ -2,6 +2,7 @@
 iso: bzv
 name: Naami
 autonym: Naami
+alt_names: [Bebe, Yi Be Wu]
 population: 2500
 country_id: CM
 country_name: Cameroon

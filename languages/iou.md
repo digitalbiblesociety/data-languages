@@ -2,6 +2,7 @@
 iso: iou
 name: "Tuma-Irumu"
 autonym: Irumu
+alt_names: [Tuma, Upper Irumu]
 population: 1500
 country_id: PG
 country_name: Papua New Guinea

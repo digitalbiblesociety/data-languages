@@ -2,6 +2,7 @@
 iso: bwy
 name: Cwi Bwamu
 autonym: Bwamu Twĩ
+alt_names: ["Bwamu, Cwi", Coo, Cwi, Twi]
 population: 24000
 country_id: BF
 country_name: Burkina Faso

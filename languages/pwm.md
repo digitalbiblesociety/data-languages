@@ -2,6 +2,7 @@
 iso: pwm
 name: Molbog
 autonym: Balabak
+alt_names: [Molbog Palawan]
 population: 13360
 country_id: PH
 country_name: Philippines

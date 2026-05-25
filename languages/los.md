@@ -2,6 +2,7 @@
 iso: los
 name: Loniu
 autonym: Lonio
+alt_names: [Admiralitäts-inseln, Ndroku]
 population: 460
 country_id: PG
 country_name: Papua New Guinea

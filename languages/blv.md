@@ -2,6 +2,7 @@
 iso: blv
 name: Kibala
 autonym: Ngoya
+alt_names: ["\"Ngoya\"", Bolo, Haka, Ipala, Kibala-Ngoya, Kimbundu de Kwanza Sul, Libolo, Lubolo, Pala, Quibala]
 population: 2630
 country_id: AO
 country_name: Angola

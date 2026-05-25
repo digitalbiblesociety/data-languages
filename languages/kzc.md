@@ -2,6 +2,7 @@
 iso: kzc
 name: Bondoukou Kulango
 autonym: Nkuraeng
+alt_names: [Bonduku Kulango, Kolango, Koulango, Kulange, Kulango, "Kulango, Bondoukou", Nkurange]
 population: 104000
 country_id: CI
 country_name: "Côte d'Ivoire"

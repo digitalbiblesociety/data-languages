@@ -1,7 +1,9 @@
 ---
 iso: pav
 name: Pakaásnovos
+name_zh: 瓦里語
 autonym: Jaru
+alt_names: [Ituarupa, Jarú, Oro Wari, Oro Win, Orovín, Orowari, Pacaas-Novos, Pacaha-novo, Pacahanovo, Pacas Novas, Pacasnovas, Pakaanova, Pakaanovas, Pakaasnovos, Pakasnovos, Pakaás-novos, Tubarão/ huarí, Txapacura, Txapakura, Uariwayo, Uomo, Urup, Urupá, Urupá-Jarú, Wari, "Wari'", "Wari' (Chapacuva)", Wari’ language, Yaru]
 population: 1930
 country_id: BR
 country_name: Brazil

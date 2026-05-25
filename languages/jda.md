@@ -2,6 +2,7 @@
 iso: jda
 name: Jad
 autonym: Dzad
+alt_names: [Bhotia]
 population: 300
 country_id: IN
 country_name: India

@@ -2,6 +2,7 @@
 iso: doe
 name: Doe
 autonym: Dohe
+alt_names: [Kidoe]
 population: 24000
 country_id: TZ
 country_name: Tanzania

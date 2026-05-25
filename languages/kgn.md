@@ -2,6 +2,7 @@
 iso: kgn
 name: Karingani
 autonym: Keringani
+alt_names: [Iran]
 population: 17600
 country_id: IR
 country_name: Iran

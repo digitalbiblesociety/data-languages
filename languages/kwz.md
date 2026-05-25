@@ -1,7 +1,9 @@
 ---
 iso: kwz
 name: Kwadi
+name_zh: Kwadi語
 autonym: ǃKwaǀtse
+alt_names: [Bakoroka, Cuanhoca, Cuepe, Curoca, Koroka, Kuadí, Makoroko, Mucoroca]
 population: null
 country_id: AO
 country_name: Angola

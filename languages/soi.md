@@ -2,6 +2,7 @@
 iso: soi
 name: Sonha
 autonym: (polyphyletic)
+alt_names: [Soi, Sonaha, Sonahaa, Sunah, Sunha]
 population: 14700
 country_id: NP
 country_name: Nepal

@@ -1,7 +1,9 @@
 ---
 iso: slh
 name: Southern Puget Sound Salish
+name_zh: 南卢舒特种子语
 autonym: "Skagit-Nisqually"
+alt_names: [Salish (Southern Puget Sound), "Salish, Southern Puget Sound"]
 population: 1315
 country_id: US
 country_name: United States

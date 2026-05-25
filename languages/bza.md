@@ -2,6 +2,7 @@
 iso: bza
 name: Bandi
 autonym: Bande
+alt_names: [Gbande, Gbandi, Gbunde, Mende-Bandi]
 population: 161000
 country_id: LR
 country_name: Liberia

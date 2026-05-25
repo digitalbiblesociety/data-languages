@@ -1,7 +1,9 @@
 ---
 iso: zps
 name: Coatlán Zapotec
+name_zh: Coatlán Zapotec語
 autonym: (Santo Domingo Coatlán)
+alt_names: [Coatec Zapotec, Coatlan Zapotec, Coatlán-Loxicha Zapotec (non-preferred), Miahuatec, Miahuatlan, San Miguel Zapotec, Southern Mountain Zapotec, Southern Sapoteko, Western Miahuatlán Zapotec, Zapotec, "Zapotec, Coatlán", Zapoteco de Asunción Tlacolulita, Zapoteco de Santa María Coatlán, "Zapotèque d'Asunción Tlacolulita"]
 population: 500
 country_id: MX
 country_name: Mexico

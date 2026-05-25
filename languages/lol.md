@@ -1,7 +1,9 @@
 ---
 iso: lol
 name: Mongo
+name_zh: 芒戈語
 autonym: Nkundu
+alt_names: [Lomongo, Mongo-Nkundu]
 population: 400000
 country_id: CD
 country_name: DR Congo

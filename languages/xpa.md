@@ -2,6 +2,7 @@
 iso: xpa
 name: Pirriya
 autonym: Birria
+alt_names: [Bidia, Biria, Piria]
 population: null
 country_id: AU
 country_name: Australia

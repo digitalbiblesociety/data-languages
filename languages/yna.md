@@ -1,7 +1,9 @@
 ---
 iso: yna
 name: Aluo
+name_zh: 阿罗语
 autonym: Naluo
+alt_names: [Ala, Gan Yi, Laka, Lila, Yala, 阿羅語]
 population: 25000
 country_id: CN
 country_name: China

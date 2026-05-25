@@ -1,6 +1,7 @@
 ---
 iso: nrn
 name: Norn
+name_zh: 諾恩語
 autonym: norn
 population: 1932
 country_id: GB

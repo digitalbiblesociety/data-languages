@@ -2,6 +2,7 @@
 iso: aie
 name: Amara
 autonym: Bibling
+alt_names: [Longa]
 population: 1170
 country_id: PG
 country_name: Papua New Guinea

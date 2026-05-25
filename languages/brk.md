@@ -2,6 +2,7 @@
 iso: brk
 name: Birked
 autonym: Birgid
+alt_names: [Birguid, Birkit, Birqed, Kajjara, Murgi]
 population: null
 country_id: SD
 country_name: Sudan

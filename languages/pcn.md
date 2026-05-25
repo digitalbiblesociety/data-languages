@@ -2,6 +2,7 @@
 iso: pcn
 name: Piti
 autonym: Bishi
+alt_names: [Abisi, Bisi, Pitti]
 population: 5530
 country_id: NG
 country_name: Nigeria

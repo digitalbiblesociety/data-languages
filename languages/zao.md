@@ -2,6 +2,7 @@
 iso: zao
 name: Ozolotepec Zapotec
 autonym: "Zapotec, Ozolotepec"
+alt_names: [Southern Sapoteko, Zapotec, Zapoteco de Asunción Tlacolulita, Zapoteco de Ozolotepec, "Zapotèque d'Asunción Tlacolulita"]
 population: 6500
 country_id: MX
 country_name: Mexico

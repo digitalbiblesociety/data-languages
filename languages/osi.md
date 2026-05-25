@@ -1,7 +1,9 @@
 ---
 iso: osi
 name: Osing
+name_zh: 奥辛语
 autonym: Banyuwangi
+alt_names: [Bahasa Osing, Basa Osing]
 population: 300000
 country_id: ID
 country_name: Indonesia

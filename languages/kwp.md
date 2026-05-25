@@ -2,6 +2,7 @@
 iso: kwp
 name: Kodia
 autonym: Kodia
+alt_names: [Kwadia, Kwadya]
 population: 840
 country_id: CI
 country_name: "Côte d'Ivoire"

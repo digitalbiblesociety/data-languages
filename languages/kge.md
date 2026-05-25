@@ -1,7 +1,9 @@
 ---
 iso: kge
 name: Komering
+name_zh: 科梅林語
 autonym: cawa Komering
+alt_names: [Komerin, Kumoring, Njo]
 population: 20000
 country_id: ID
 country_name: Indonesia

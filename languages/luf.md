@@ -2,6 +2,7 @@
 iso: luf
 name: Laua
 autonym: Labu
+alt_names: [Lauwa]
 population: null
 country_id: PG
 country_name: Papua New Guinea

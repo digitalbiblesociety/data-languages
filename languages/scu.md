@@ -2,6 +2,7 @@
 iso: scu
 name: Shumcho
 autonym: Kanawaringskad
+alt_names: [Central Kinnauri, Kanāwri, Shumcu, Sumcho, Sumchu, Sumtsu, Sumtśu, Thebarskad, Thebor, Thebör Skadd]
 population: 2170
 country_id: IN
 country_name: India

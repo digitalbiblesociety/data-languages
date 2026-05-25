@@ -2,6 +2,7 @@
 iso: buq
 name: Brem
 autonym: Kambuar
+alt_names: [Barem, Bububun, Bunabun, Bunu, Bunubun]
 population: 1190
 country_id: PG
 country_name: Papua New Guinea

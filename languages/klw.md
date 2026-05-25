@@ -2,6 +2,7 @@
 iso: klw
 name: Tado
 autonym: Tado
+alt_names: [Lindu]
 population: 3640
 country_id: ID
 country_name: Indonesia

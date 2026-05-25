@@ -2,6 +2,7 @@
 iso: mfh
 name: Matal
 autonym: Muktele
+alt_names: [Badda, Balda, Mouktele, Muktile]
 population: 18000
 country_id: CM
 country_name: Cameroon

@@ -1,7 +1,9 @@
 ---
 iso: kha
 name: Khasi
+name_zh: 卡西语
 autonym: " ক ক্ত্যেন খসি"
+alt_names: [Cossyah, Jasí, Język chasi, Kahasi, Kaseg, Kassi, Khasa, Khashi, Khasia, Khasie, Khasiyas, Khassee, Khuchia, Kyi, Lingua Khasi, Língua khasi, Standard Khasi, Кхаси, खासी भाषा, ภาษากาสี]
 population: 1050000
 country_id: IN
 country_name: India

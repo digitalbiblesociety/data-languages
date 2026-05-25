@@ -1,7 +1,9 @@
 ---
 iso: nev
 name: Nyaheun
+name_zh: 洪语
 autonym: Nyaheun
+alt_names: [Hin, Hoen, "Hu'n", Hun, Nha Heun, Nia Hoen, Niahon, Nyah Heuny, Nyahuen, Nyahön, Prou, Yaheun, "Ña-hu'n"]
 population: null
 country_id: LA
 country_name: Laos

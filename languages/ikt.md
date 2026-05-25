@@ -1,7 +1,9 @@
 ---
 iso: ikt
 name: Inuinnaqtun
+name_zh: 西加拿大因纽特语
 autonym: Western Canadian Inuktitut
+alt_names: [Canadian Eskimo, Canadian Inuit, Central-Northern, Eskimo, Idioma inuvialuktun, Inuit, Inuktitut (Rankin Inlet), "Inuktitut, Western Canadian", Inupiat, Inuvialuktun, Kangiryuarmiut, Kangiryuarmiut Eskimo, Mackenzie Coast, Natsilingmiutut, Siglitun, Western Canadian Eskimo, Western Canadian Inuit, Western Canadian Inuktun, Инувиалуктун]
 population: 4000
 country_id: CA
 country_name: Canada

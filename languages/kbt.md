@@ -2,6 +2,7 @@
 iso: kbt
 name: Abadi
 autonym: Gabadi
+alt_names: [Kabadi]
 population: 4300
 country_id: PG
 country_name: Papua New Guinea

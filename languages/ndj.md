@@ -2,6 +2,7 @@
 iso: ndj
 name: Ndamba
 autonym: null
+alt_names: [Tanzania]
 population: 196000
 country_id: TZ
 country_name: Tanzania

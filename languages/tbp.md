@@ -2,6 +2,7 @@
 iso: tbp
 name: Taworta
 autonym: Diebroud
+alt_names: [Bok, Dabra, Taburta, Taria, Taworta-Aero]
 population: 140
 country_id: ID
 country_name: Indonesia

@@ -2,6 +2,7 @@
 iso: jaz
 name: Jawe
 autonym: Diahoue
+alt_names: [Neukaledonien, Njawe, Oubatch, Ubach]
 population: 730
 country_id: NC
 country_name: New Caledonia

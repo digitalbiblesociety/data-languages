@@ -2,6 +2,7 @@
 iso: agy
 name: Southern Alta
 autonym: Kabulowan
+alt_names: ["\"Baluga\"", "\"Kabalat\"", "Alta, Southern", Baluga, Ita, Kaboloan, Kabuluen, Kabuluwan, Kabuluwen, Pugot]
 population: 1000
 country_id: PH
 country_name: Philippines

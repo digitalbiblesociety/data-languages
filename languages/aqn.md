@@ -2,6 +2,7 @@
 iso: aqn
 name: Northern Alta
 autonym: Edimala
+alt_names: [Alta, Alta du nord, Alta septentrional, "Alta, Northern", Baler Negrito, Ditaylin Alta, Ditaylin Dumagat, Northern]
 population: 200
 country_id: PH
 country_name: Philippines

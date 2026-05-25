@@ -1,6 +1,7 @@
 ---
 iso: yph
 name: Phupha
+name_zh: 富帕语
 autonym: Phuza
 population: 1300
 country_id: CN

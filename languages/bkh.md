@@ -2,6 +2,7 @@
 iso: bkh
 name: Bakoko
 autonym: Bakoko
+alt_names: [Basoo]
 population: 50000
 country_id: CM
 country_name: Cameroon

@@ -2,6 +2,7 @@
 iso: nnz
 name: "Nda'nda'"
 autonym: "Bamileke-Nda'nda'"
+alt_names: [Bamileke-Nda’nda’, Bangwa]
 population: 10000
 country_id: CM
 country_name: Cameroon

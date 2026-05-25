@@ -1,7 +1,9 @@
 ---
 iso: bst
 name: Basketo
+name_zh: 巴斯克托語
 autonym: Baskatta
+alt_names: [Basketto, Mesketo]
 population: 92600
 country_id: ET
 country_name: Ethiopia

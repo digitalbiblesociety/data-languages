@@ -2,6 +2,7 @@
 iso: nhw
 name: Western Huasteca Nahuatl
 autonym: "Nahuatl,  Huasteca Occidental"
+alt_names: [Mexicano, Nahuatl, Nahuatl (Huasteca), "Nahuatl, Western Huasteca", Western Huasteca, Western Nahuatl, Western Nawa]
 population: 400000
 country_id: MX
 country_name: Mexico

@@ -1,7 +1,9 @@
 ---
 iso: yuc
 name: Yuchi
+name_zh: 尤奇語
 autonym: Euchee
+alt_names: [Uchean, Youtchieg, Ючи]
 population: 1500
 country_id: US
 country_name: United States

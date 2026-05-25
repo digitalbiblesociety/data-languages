@@ -2,6 +2,7 @@
 iso: kcd
 name: Ngkâlmpw Kanum
 autonym: Ngkontar
+alt_names: [Enkelembu, Kanum, Kanum (Ngkâlmpw), "Kanum, Ngkâlmpw", Kenume, Knwne, Ngkalmpw Kanum, Ngkâlmpw]
 population: 150
 country_id: ID
 country_name: Indonesia

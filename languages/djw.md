@@ -2,6 +2,7 @@
 iso: djw
 name: Djawi
 autonym: " Djaui"
+alt_names: [Chowie, Djaoi, Djau, Dyao, Dyawi, Ewanji, Ewenu, Ewenyoon, Ewenyun, "I:wanja", Jarrau, Jawi, Jawi dialect, Lenga djawi, Tohau-i, Tohawi, Towahi]
 population: null
 country_id: AU
 country_name: Australia

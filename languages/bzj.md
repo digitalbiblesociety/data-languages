@@ -1,7 +1,9 @@
 ---
 iso: bzj
 name: Belize Kriol English
+name_zh: 伯利兹克里奥尔语
 autonym: "Bileez Kriol, Kriol"
+alt_names: ["Kriol English, Belize"]
 population: 170000
 country_id: BZ
 country_name: Belize

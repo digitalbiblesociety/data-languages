@@ -2,6 +2,7 @@
 iso: usk
 name: Usaghade
 autonym: Isangele
+alt_names: [Usakade, Usakedet]
 population: 10000
 country_id: CM
 country_name: Cameroon

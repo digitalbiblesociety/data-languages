@@ -1,7 +1,9 @@
 ---
 iso: ymh
 name: Mili
+name_zh: 咪俚语
 autonym: null
+alt_names: ["Yi, Mili"]
 population: 23000
 country_id: CN
 country_name: China

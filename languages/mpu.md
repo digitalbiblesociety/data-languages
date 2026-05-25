@@ -2,6 +2,7 @@
 iso: mpu
 name: Makuráp
 autonym: Macuráp
+alt_names: [Kurateg, Macurap, Macurape, Macurapi, Makurap, Makurape, Makurápi, Massaka]
 population: 110
 country_id: BR
 country_name: Brazil

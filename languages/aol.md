@@ -1,7 +1,9 @@
 ---
 iso: aol
 name: Alor
+name_zh: 阿洛语
 autonym: Alorese
+alt_names: [Alorski jezik]
 population: 25000
 country_id: ID
 country_name: Indonesia

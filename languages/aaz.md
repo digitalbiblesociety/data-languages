@@ -2,6 +2,7 @@
 iso: aaz
 name: Amarasi
 autonym: Bahasa Amarasi
+alt_names: [Timor Amarasi]
 population: 70000
 country_id: ID
 country_name: Indonesia

@@ -2,6 +2,7 @@
 iso: aul
 name: Aulua
 autonym: Aulua Bay
+alt_names: [Mallicolo]
 population: 750
 country_id: VU
 country_name: Vanuatu

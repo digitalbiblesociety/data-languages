@@ -2,6 +2,7 @@
 iso: etb
 name: Etebi
 autonym: null
+alt_names: [Nigeria]
 population: 15000
 country_id: NG
 country_name: Nigeria

@@ -1,6 +1,7 @@
 ---
 iso: nov
 name: Novial
+name_zh: 诺维亚语
 autonym: Novial
 population: 20
 country_id: ZZ

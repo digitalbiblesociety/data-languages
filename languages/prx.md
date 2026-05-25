@@ -1,7 +1,9 @@
 ---
 iso: prx
 name: Purik
+name_zh: 藏回语
 autonym: Purigi
+alt_names: [Bhōṭiā of Purik, Burig, Burigskat, Purig, Purigskad, Purik Bhotia, Purki, Tibetan (Western)]
 population: 93500
 country_id: IN
 country_name: India

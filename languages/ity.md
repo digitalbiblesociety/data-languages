@@ -2,6 +2,7 @@
 iso: ity
 name: Moyadan Itneg
 autonym: Tinggian
+alt_names: ["Itneg, Moyadan", Tinguian]
 population: 12000
 country_id: PH
 country_name: Philippines

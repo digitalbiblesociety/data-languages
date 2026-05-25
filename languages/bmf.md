@@ -2,6 +2,7 @@
 iso: bmf
 name: "Bom-Kim"
 autonym: Bom–Krim
+alt_names: [Bom, Bome, Bomo, Bum]
 population: 5580
 country_id: SL
 country_name: Sierra Leone

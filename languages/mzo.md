@@ -2,6 +2,7 @@
 iso: mzo
 name: Matipuhy
 autonym: "Kuikúro-Kalapálo"
+alt_names: [Amonap, Kalapalo, Kuikuro, Mariape-Nahuqua, Matipu, Matipú, Nahukwa]
 population: 10
 country_id: BR
 country_name: Brazil

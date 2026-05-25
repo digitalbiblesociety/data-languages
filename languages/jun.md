@@ -1,7 +1,9 @@
 ---
 iso: jun
 name: Juang
+name_zh: 朱昂
 autonym: Juango
+alt_names: [Juang (in India), Patra-Saara, Patua, Puttooas, Yuango, Джуанг]
 population: 30400
 country_id: IN
 country_name: India

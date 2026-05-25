@@ -2,6 +2,7 @@
 iso: itv
 name: Itawit
 autonym: Itawes
+alt_names: [Itawis, Tawit]
 population: 253000
 country_id: PH
 country_name: Philippines

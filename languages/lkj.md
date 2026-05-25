@@ -2,6 +2,7 @@
 iso: lkj
 name: Remun
 autonym: Milikin
+alt_names: [Millikin]
 population: 3500
 country_id: MY
 country_name: Malaysia

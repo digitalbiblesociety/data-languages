@@ -1,7 +1,9 @@
 ---
 iso: fuf
 name: Pular
+name_zh: 葡拉語
 autonym: Fuuta Jalon
+alt_names: [Foula Fouta, Fouta Dyalon, Ful(ani), Fula, Fula (Guinean), Fulah-Idiome, Fulani, Fulbe, Fulfulde Jalon, Fullo Fuuta, Futa Fula, Futa Jallon, Jalon]
 population: 4740200
 country_id: GN
 country_name: Guinea

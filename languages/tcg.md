@@ -2,6 +2,7 @@
 iso: tcg
 name: Tamagario
 autonym: Buru
+alt_names: [Tamaraw, Tamágario, Wagow]
 population: 3500
 country_id: ID
 country_name: Indonesia

@@ -2,6 +2,7 @@
 iso: cmo
 name: Central Mnong
 autonym: Bunong (ឞូន៝ង)
+alt_names: [Bhiét, Biat, Biet, Bu Nong, Budang, Budong, Bunong, Central, Central Mong, Mnong, Mnong central, "Mnong, Central", Penong, Phanong, Phnong, Phong, Pnong]
 population: 70000
 country_id: VN
 country_name: Vietnam

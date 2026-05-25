@@ -2,6 +2,7 @@
 iso: atw
 name: Atsugewi
 autonym: Atsugé
+alt_names: [Hat Creek]
 population: 1350
 country_id: US
 country_name: United States

@@ -2,6 +2,7 @@
 iso: agb
 name: Legbo
 autonym: Legbo
+alt_names: [Agbo, Gbo, Igbo, Imaban, Itigidi]
 population: 60000
 country_id: NG
 country_name: Nigeria

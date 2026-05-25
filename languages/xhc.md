@@ -1,6 +1,7 @@
 ---
 iso: xhc
 name: Hunnic
+name_zh: 匈人语
 autonym: null
 population: null
 country_id: ZZ

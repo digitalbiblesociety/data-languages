@@ -2,6 +2,7 @@
 iso: tuu
 name: Tututni
 autonym: " Lower Rogue River"
+alt_names: [Mishikhwutmetunee, Tutuni-Chasta Costa-Coquille, Upper Coquille]
 population: 2006
 country_id: US
 country_name: United States

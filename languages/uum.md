@@ -1,7 +1,9 @@
 ---
 iso: uum
 name: Urum
+name_zh: 乌鲁姆语
 autonym: Урум
+alt_names: [Idioma urrumano, Ouroumeg, Urum Türkçesi, Urum tili, Urumca, Urumin kieli, Urumo, Urumski jezik, Урум чĕлхи, Урумски јазик, урум тыль, урумский язык, урумська мова]
 population: 185000
 country_id: GE
 country_name: Georgia

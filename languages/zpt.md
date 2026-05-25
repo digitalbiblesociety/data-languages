@@ -2,6 +2,7 @@
 iso: zpt
 name: San Vicente Coatlán Zapotec
 autonym: Southern Ejutla Zapotec
+alt_names: [Coatlán Zapotec, San Vicente Coatlan Zapotec, San Vicente Coatlán, Southern Sapoteko, Zapotec, "Zapotec, San Vicente Coatlán", Zapoteco de Asunción Tlacolulita, Zapoteco de San Vicente Coatlán, "Zapotèque d'Asunción Tlacolulita"]
 population: 3380
 country_id: MX
 country_name: Mexico

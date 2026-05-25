@@ -2,6 +2,7 @@
 iso: tco
 name: Taungyo
 autonym: Dawei
+alt_names: [Dawai, Dawe, Dawé, Taru, Tavoya, Tavoyan, Tawe-Tavoy, Toru, Täru Tavoya(n)]
 population: 40000
 country_id: MM
 country_name: Myanmar

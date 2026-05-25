@@ -2,6 +2,7 @@
 iso: kkt
 name: Koi
 autonym: Kohi
+alt_names: ["Koi Bo'o", Koyi, Koyu, "Koyu Bo'"]
 population: 2640
 country_id: NP
 country_name: Nepal

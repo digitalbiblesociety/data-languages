@@ -2,6 +2,7 @@
 iso: wni
 name: Ndzwani Comorian
 autonym: shikomori/شِكُمُرِ
+alt_names: ["Comorian, Ndzwani", Shindzwani]
 population: 361000
 country_id: KM
 country_name: Comoros

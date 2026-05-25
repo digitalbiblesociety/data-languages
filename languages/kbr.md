@@ -2,6 +2,7 @@
 iso: kbr
 name: Kafa
 autonym: Kafi noono
+alt_names: [Bosha, Caffino, Garo, Kafa-språket, Kaffa, Kafficho, Kaficho, Kefa, Kefa-Mocha, Keffa, Manjo]
 population: 1190000
 country_id: ET
 country_name: Ethiopia

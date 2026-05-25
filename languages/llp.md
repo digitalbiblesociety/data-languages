@@ -2,6 +2,7 @@
 iso: llp
 name: North Efate
 autonym: Nakanamanga
+alt_names: [Efate (North), "Efate, North", Nguna, Tongoa, Vanuatu]
 population: 9500
 country_id: VU
 country_name: Vanuatu

@@ -2,6 +2,7 @@
 iso: tto
 name: "Lower Ta'oih"
 autonym: Ta Oi
+alt_names: ["Ta'oih, Lower", Tong]
 population: 15800
 country_id: LA
 country_name: Laos

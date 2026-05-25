@@ -2,6 +2,7 @@
 iso: cky
 name: "Cakfem-Mushere"
 autonym: Chakfem
+alt_names: [Cakfem-Mushere-Jibyal, Chakfem-Mushere, Chokfem, Jajura, Kadim-Kaban, Mupun, Mwaghavul, Sura]
 population: 5000
 country_id: NG
 country_name: Nigeria

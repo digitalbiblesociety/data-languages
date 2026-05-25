@@ -2,6 +2,7 @@
 iso: lxm
 name: Lakurumau
 autonym: Lakurumau
+alt_names: [Lakuramau, Laxudamau, Loxodumau]
 population: 800
 country_id: PG
 country_name: Papua New Guinea

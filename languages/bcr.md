@@ -2,6 +2,7 @@
 iso: bcr
 name: Babine
 autonym: "Nedut'en–Witsuwitʼen"
+alt_names: [Babine Carrier, "Babine-Witsuwit'en", Bulkley Valley Language, Carrier, Lake Babine, Lakes District Language, "Nadot'en", "Nat'oot'en", "Nedut'en (variety)", Northern Carrier, "Wet'suwet'en", "Witsuwit'en", "Witsuwit'en-Babine", "Witsuwit'en-Nedut'en"]
 population: 2200
 country_id: CA
 country_name: Canada

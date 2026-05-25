@@ -2,6 +2,7 @@
 iso: ngx
 name: Nggwahyi
 autonym: Ngwaxi
+alt_names: [Ngwohi]
 population: 2000
 country_id: NG
 country_name: Nigeria

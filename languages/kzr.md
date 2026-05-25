@@ -2,6 +2,7 @@
 iso: kzr
 name: Karang
 autonym: Mbum
+alt_names: [Eastern Mbum, Kareng, Laka, Lakka, Lakka Mbum, Mbum Bakal, Mbum-East, Nzák Kàráng]
 population: 17000
 country_id: CM
 country_name: Cameroon

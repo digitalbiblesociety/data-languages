@@ -1,7 +1,9 @@
 ---
 iso: tft
 name: Ternate
+name_zh: 特尔纳特语
 autonym: Ternatese
+alt_names: [Indonesia]
 population: 42000
 country_id: ID
 country_name: Indonesia

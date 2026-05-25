@@ -2,6 +2,7 @@
 iso: usa
 name: Usarufa
 autonym: null
+alt_names: [Auyana, Usurufa, Uturupa]
 population: 1200
 country_id: PG
 country_name: Papua New Guinea

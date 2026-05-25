@@ -2,6 +2,7 @@
 iso: lwo
 name: Luwo
 autonym: Luwo
+alt_names: [Dhe Luwo, Dhe Lwo, Giur, Jo Lwo, Jur, Jur Luo, Jur Luwo, Jur Lwo, Lwo]
 population: 257000
 country_id: SS
 country_name: South Sudan

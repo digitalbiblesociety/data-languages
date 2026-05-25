@@ -1,7 +1,9 @@
 ---
 iso: nup
 name: "Nupe-Nupe-Tako"
+name_zh: 努佩语
 autonym: Nupe
+alt_names: [Nufawa, Nupe (Central), Nupeci, Nupecidji, Nupenchi, Nupencizi]
 population: 1730000
 country_id: NG
 country_name: Nigeria

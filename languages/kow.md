@@ -2,6 +2,7 @@
 iso: kow
 name: Kugama
 autonym: Kugamma
+alt_names: [Wegam, Yamale, Yamalo]
 population: 5000
 country_id: NG
 country_name: Nigeria

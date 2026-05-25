@@ -2,6 +2,7 @@
 iso: amn
 name: Amanab
 autonym: null
+alt_names: [Amanab jezik, Język amanab, Lingua amanab]
 population: 4420
 country_id: PG
 country_name: Papua New Guinea

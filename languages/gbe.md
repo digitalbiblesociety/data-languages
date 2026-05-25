@@ -2,6 +2,7 @@
 iso: gbe
 name: Niksek
 autonym: Meiyari
+alt_names: [Gabiano, Paka, Setiali, Sumwari]
 population: 930
 country_id: PG
 country_name: Papua New Guinea

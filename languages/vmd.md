@@ -2,6 +2,7 @@
 iso: vmd
 name: Mudu Koraga
 autonym: ಕೊರಗ
+alt_names: [Koraga, "Koraga, Mudu", "Mu:du", Mudu]
 population: null
 country_id: IN
 country_name: India

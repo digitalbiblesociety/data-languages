@@ -2,6 +2,7 @@
 iso: tac
 name: Lowland Tarahumara
 autonym: "Rarámuri ra'ícha"
+alt_names: [Baja Tarahumara, Ralámuli de la Tarahumara Baja, Rocoroibo, South-western, Southwestern, Tarahumara, Tarahumara (Western), Tarahumara Baja, Tarahumara del Poniente, Tarahumara del Suroeste, Tarahumara nord-occidental, Tarahumara noroccidental, "Tarahumara, Lowland", Taraumara, Tubare, Vorohio, W Tarahumara, W. Tarahumara, Western, Western Tarahumara]
 population: 9230
 country_id: MX
 country_name: Mexico

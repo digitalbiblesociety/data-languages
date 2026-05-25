@@ -2,6 +2,7 @@
 iso: tmv
 name: Tembo (Motembo)
 autonym: Buja
+alt_names: [Litembo, Motembo, Motembo-Kunda-Buja, Tembo]
 population: 5000
 country_id: CD
 country_name: DR Congo

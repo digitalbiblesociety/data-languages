@@ -2,6 +2,7 @@
 iso: ght
 name: Kuke
 autonym: Kuke
+alt_names: [Bhotte, Ghale, "Ghale, Kutang", "Ghale,Kutang", Kutang Ghale]
 population: 1300
 country_id: NP
 country_name: Nepal

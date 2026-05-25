@@ -2,6 +2,7 @@
 iso: bmk
 name: Ghayavi
 autonym: Boianaki
+alt_names: [Boanai, Boanaki, Boinaki, Galavi]
 population: 2810
 country_id: PG
 country_name: Papua New Guinea

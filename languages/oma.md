@@ -1,7 +1,9 @@
 ---
 iso: oma
 name: "Omaha-Ponca"
+name_zh: 奧馬哈-龐卡語
 autonym: Mahairi
+alt_names: [Cegiha, Dhegiha, Dhegiha (Ponca), Dhegihan, Omaha, Ponca, Ponka, Ppankka, Uman, Umanhan]
 population: 85
 country_id: US
 country_name: United States

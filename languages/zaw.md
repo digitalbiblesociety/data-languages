@@ -2,6 +2,7 @@
 iso: zaw
 name: Mitla Zapotec
 autonym: (San Pablo Villa de Mitla)
+alt_names: [Central Sapoteko, Central Zapotec, Didxsaj, East Central Tlacolula Zapotec, East Valley Zapotec, Eastern Sapoteko, Isthmus Zapotec, Sapoteko, Valley Zapotec, Zapotec, Zapotec (Mitla), "Zapotec, Mitla", Zapoteco (Mitla), Zapoteco de San Felipe Tejalápam, Zapotèque de San Felipe Tejalapan]
 population: 19500
 country_id: MX
 country_name: Mexico

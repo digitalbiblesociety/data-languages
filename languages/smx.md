@@ -2,6 +2,7 @@
 iso: smx
 name: Samba
 autonym: Kiholo
+alt_names: [Ntsambaan, Shankadi, Tsaam, Tsamba, Usamba]
 population: 4200
 country_id: CD
 country_name: DR Congo

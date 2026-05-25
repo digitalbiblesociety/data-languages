@@ -2,6 +2,7 @@
 iso: pow
 name: San Felipe Otlaltepec Popoloca
 autonym: "Popoloca, San Felipe Otlaltepec"
+alt_names: [Chocho-Popoloka, Popoloc occidental, Popoloca, Popoloca de San Felipe Otlaltepec, Popoloca del Poniente, Popoloca occidental, Western Popoloca, Western Popoloka]
 population: 3000
 country_id: MX
 country_name: Mexico

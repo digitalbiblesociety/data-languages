@@ -2,6 +2,7 @@
 iso: bgy
 name: Benggoi
 autonym: Bengoi
+alt_names: [Isal, Kobi-Benggoi, Uhei Kachlakan, Uhei-Kaclakin, Uhei-Kahlakim]
 population: 350
 country_id: ID
 country_name: Indonesia

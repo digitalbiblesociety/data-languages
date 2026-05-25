@@ -2,6 +2,7 @@
 iso: uly
 name: Buli
 autonym: Barawa
+alt_names: [Bili, Buli (Polci), Bələ, Bɨlɨ]
 population: 22000
 country_id: NG
 country_name: Nigeria

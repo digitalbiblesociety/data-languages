@@ -2,6 +2,7 @@
 iso: pdo
 name: Padoe
 autonym: Alalao
+alt_names: [Mori, Padoé, South Mori]
 population: 6000
 country_id: ID
 country_name: Indonesia

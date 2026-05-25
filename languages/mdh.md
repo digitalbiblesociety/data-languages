@@ -1,7 +1,9 @@
 ---
 iso: mdh
 name: Maguindanaon
+name_zh: 马京达瑙语
 autonym: Magindanaon
+alt_names: [Magindanao, Magindanaw, Maguindanao, Maguindanao language, Maguindanao-ngî, Minagindanaw, ภาษามากวินดาเนา]
 population: 1000100
 country_id: PH
 country_name: Philippines

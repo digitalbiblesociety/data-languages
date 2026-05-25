@@ -2,6 +2,7 @@
 iso: kiy
 name: Kirikiri
 autonym: Faia
+alt_names: [Kirira]
 population: 250
 country_id: ID
 country_name: Indonesia

@@ -2,6 +2,7 @@
 iso: jni
 name: Janji
 autonym: Tijanji
+alt_names: [Ajanji, Anafejanzi, Jenji]
 population: 1150
 country_id: NG
 country_name: Nigeria

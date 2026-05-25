@@ -1,7 +1,9 @@
 ---
 iso: uby
 name: Ubykh
+name_zh: 烏比赫語
 autonym: twáxabzá
+alt_names: [Idioma ubijé, Język ubyski, Lingua ubykh, Língua ubykh, "Oubic'heg", Oubykh, Oubykh (Causase), Oubykh (Turquie), Pekhi, Ubih nyelv, Ubijé  (Turquía), Ubiĥa lingvo, Ubychische Sprache, Ubychiska, Ubyhin kieli, Ubyx, Ubıhça, Убихски јазик, Убихська мова, Убыхаг æвзаг, Убыхский язык, ภาษาอูบึก, ウビフ語, 尤比克语, 우비흐어]
 population: null
 country_id: TR
 country_name: Turkey

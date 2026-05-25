@@ -2,6 +2,7 @@
 iso: tud
 name: Tuxá
 autonym: Todela
+alt_names: [Rodela, Tusha, Tushá, Tuxa]
 population: null
 country_id: BR
 country_name: Brazil

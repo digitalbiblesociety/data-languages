@@ -2,6 +2,7 @@
 iso: dww
 name: Dawawa
 autonym: null
+alt_names: [Dawana]
 population: 2280
 country_id: PG
 country_name: Papua New Guinea

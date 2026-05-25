@@ -2,6 +2,7 @@
 iso: ako
 name: Akurio
 autonym: Akoerio
+alt_names: [Akuliyo, Akuri, Akurijo, Akuriyo, Oyaricoulet, Tiriyometesem, Triometesem, Triometesen, Wama, Wayaricuri]
 population: 2012
 country_id: SR
 country_name: Suriname

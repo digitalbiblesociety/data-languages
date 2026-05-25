@@ -2,6 +2,7 @@
 iso: kjl
 name: Western Parbate Kham
 autonym: Kham language
+alt_names: [Kham, "Kham, Western Parbate", "Kham,WesternParbate", Kham-Magar, Khamkura, Khams, Magar, Maikoti Kham, Parbate, "Parbate, Western", Proto-Kham, Takale, Takale Kham, Western Parbate]
 population: 24500
 country_id: NP
 country_name: Nepal

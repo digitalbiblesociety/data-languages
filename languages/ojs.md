@@ -1,7 +1,9 @@
 ---
 iso: ojs
 name: Severn Ojibwa
+name_zh: 欧杰克里语
 autonym: " ᐊᓂᔑᓂᓂᒧᐏᐣ"
+alt_names: [Anishininiimowin, Chippeway, Cree, Northern Ojibwa, Oji-Cree, Oji-Cree language, Ojibwa, Ojibwa (Severn), "Ojibwa, Severn", Ojibway, Ojibwe, Ojibweg Severn, Ojicree, Oyi-clisteno, Severn Ojibwe]
 population: 12900
 country_id: CA
 country_name: Canada

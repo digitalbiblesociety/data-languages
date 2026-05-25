@@ -2,6 +2,7 @@
 iso: pww
 name: Pwo Northern Karen
 autonym: "Karen Pwo, Northern"
+alt_names: [Karen, "Karen, Pwo Northern", "Karen,PwoNorthern", Phlon, Phlong, Pho (Pwo), Pwo Karen, Pwo Northern]
 population: 60000
 country_id: TH
 country_name: Thailand

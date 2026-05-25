@@ -2,6 +2,7 @@
 iso: kak
 name: Kalanguya
 autonym: Kallahan
+alt_names: ["Kallahan, Kayapa", Kayapa Kallahan]
 population: 15000
 country_id: PH
 country_name: Philippines

@@ -2,6 +2,7 @@
 iso: glj
 name: Gula Iro
 autonym: "Goula d'Iro"
+alt_names: [Goula Iro, Iro, "Iro Gula, Kulaal", Kulaal]
 population: 165
 country_id: TD
 country_name: Chad

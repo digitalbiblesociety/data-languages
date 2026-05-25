@@ -1,7 +1,9 @@
 ---
 iso: pkp
 name: Pukapuka
+name_zh: 普卡普卡语
 autonym: Bukabukan
+alt_names: [Idioma pukapukan, Lingua pukapukana, Pukapukan, Pukapukan kieli, Pukapukan language, Pukapukanische Sprache, Pukapukano, Пукапука, 普卡普卡语]
 population: 3100
 country_id: CK
 country_name: Cook Islands

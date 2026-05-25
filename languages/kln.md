@@ -1,6 +1,7 @@
 ---
 iso: kln
 name: Kalenjin
+name_zh: 卡伦金语
 autonym: null
 population: 4628550
 country_id: KE

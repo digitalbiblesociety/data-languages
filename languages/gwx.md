@@ -2,6 +2,7 @@
 iso: gwx
 name: Gua
 autonym: "Anum-Boso"
+alt_names: [Guang, Gwa]
 population: 17600
 country_id: GH
 country_name: Ghana

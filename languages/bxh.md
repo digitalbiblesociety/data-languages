@@ -2,6 +2,7 @@
 iso: bxh
 name: Buhutu
 autonym: null
+alt_names: [Bohutu, Buhulu, Siasiada, Yaleba]
 population: 166080
 country_id: PG
 country_name: Papua New Guinea

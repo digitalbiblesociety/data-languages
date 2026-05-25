@@ -2,6 +2,7 @@
 iso: ksg
 name: Kusaghe
 autonym: Kusage
+alt_names: [Kushage]
 population: 2400
 country_id: SB
 country_name: Solomon Islands

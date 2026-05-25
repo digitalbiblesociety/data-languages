@@ -2,6 +2,7 @@
 iso: mvn
 name: Minaveha
 autonym: Kukuya
+alt_names: [Minavega]
 population: 2300
 country_id: PG
 country_name: Papua New Guinea

@@ -2,6 +2,7 @@
 iso: lsa
 name: Lasgerdi
 autonym: Läsgerdi
+alt_names: [Semnani]
 population: 1000
 country_id: IR
 country_name: Iran

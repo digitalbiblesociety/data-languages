@@ -2,6 +2,7 @@
 iso: ndp
 name: Ndo
 autonym: Ke’bu
+alt_names: ["Ke'bu", Kebu, Kebutu, Ndu, "Oke'bu"]
 population: 154100
 country_id: UG
 country_name: Uganda

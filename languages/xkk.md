@@ -1,7 +1,9 @@
 ---
 iso: xkk
 name: "Kaco'"
+name_zh: 卡乔语
 autonym: "Kachah'"
+alt_names: [Kachah, "Kacho'", Kachok, Kacok, Kacoq, Kancho, "Kraco'"]
 population: 3370
 country_id: KH
 country_name: Cambodia

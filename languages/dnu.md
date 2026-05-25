@@ -1,7 +1,9 @@
 ---
 iso: dnu
 name: Danau
+name_zh: 达脑语
 autonym: Khano
+alt_names: [Danaw, Danáu, "Kano'", "Kano' Chon"]
 population: 10000
 country_id: MM
 country_name: Myanmar

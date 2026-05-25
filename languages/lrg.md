@@ -2,6 +2,7 @@
 iso: lrg
 name: Laragia
 autonym: Gulumirrgin
+alt_names: [Binnimiginda, Gulumoerrgin, Gunmajerrumba, Język laragiya, Laragai, Laragiya, Laragiya language, Larakeeyah, Larakia, Larakiya, Larekia, Larikia, Larragea, Larragia, Larrak eah, Larrak-eah, Larrakeah, Larrakeeha, Larrakeeyah, Larrakia, Larrakiha, Larrakiya, Larreekeeyah, Larrekiy, Larrekiya, Larriguia, Larrikaa, Larrikia, Larrikiha, Larrikiya, Larriquia, Lingua laragiya, Marri, Ngandalagarak, Ngandalagarak Larrakeah, Woolsoongah]
 population: 23
 country_id: AU
 country_name: Australia

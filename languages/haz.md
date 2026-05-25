@@ -1,7 +1,9 @@
 ---
 iso: haz
 name: Hazaragi
+name_zh: 哈扎拉吉語
 autonym: هزارگی
+alt_names: [Azargi, Hazara, Hazaraga lingvo, Hazarageg, Hazaras, "Hezare'I", Hezareh, Idioma hazara, Língua hazaragi, گویش هزارگی, ภาษาฮาซารากี, 哈扎拉吉語, 하자라어]
 population: 3628900
 country_id: AF
 country_name: Afghanistan

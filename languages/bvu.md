@@ -2,6 +2,7 @@
 iso: bvu
 name: Bukit Malay
 autonym: بهاس بنجر
+alt_names: [Bukit, "Malay, Bukit", Meratus]
 population: 59000
 country_id: ID
 country_name: Indonesia

@@ -1,6 +1,7 @@
 ---
 iso: luy
 name: Luyia
+name_zh: 盧希亞語言
 autonym: Oluluyia
 population: 3312200
 country_id: KE

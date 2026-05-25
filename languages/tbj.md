@@ -2,6 +2,7 @@
 iso: tbj
 name: Tiang
 autonym: Djaul
+alt_names: [Neu-Mecklenburg]
 population: 790
 country_id: PG
 country_name: Papua New Guinea

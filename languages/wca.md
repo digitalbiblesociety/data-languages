@@ -2,6 +2,7 @@
 iso: wca
 name: Yanomámi
 autonym: Yąnomamɨ
+alt_names: [Central Waica, Central Waicá, Parahuri, Surara, Waica, Waica (Central), Waicá, Waiká, Xurima, Yanam, Yanoam, Yanomam, Yanomaman language area, Yanomami, Yanomamé, Yanomaé]
 population: 6000
 country_id: BR
 country_name: Brazil

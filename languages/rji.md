@@ -2,6 +2,7 @@
 iso: rji
 name: Raji
 autonym: Ban Raji
+alt_names: [Rajibar]
 population: 2410
 country_id: NP
 country_name: Nepal

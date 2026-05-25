@@ -2,6 +2,7 @@
 iso: kgu
 name: Kobol
 autonym: Koguman
+alt_names: [Kogumar]
 population: 720
 country_id: PG
 country_name: Papua New Guinea

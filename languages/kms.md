@@ -2,6 +2,7 @@
 iso: kms
 name: Kamasau
 autonym: null
+alt_names: [Komasau, Komassau, Sagi, Wand Tuan]
 population: 960
 country_id: PG
 country_name: Papua New Guinea

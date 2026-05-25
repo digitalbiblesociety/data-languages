@@ -2,6 +2,7 @@
 iso: qve
 name: Eastern Apurímac Quechua
 autonym: Qosqo runasimi
+alt_names: [East Apurimac Quechua, Eastern Apurimac Quechua, "Quechua, Eastern ApurÃ\u00admac", "Quechua, Eastern Apurímac"]
 population: 200000
 country_id: PE
 country_name: Peru

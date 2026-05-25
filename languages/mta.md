@@ -2,6 +2,7 @@
 iso: mta
 name: Cotabato Manobo
 autonym: "Manobo, Cotabato"
+alt_names: [Dulangan Manobo]
 population: 30000
 country_id: PH
 country_name: Philippines

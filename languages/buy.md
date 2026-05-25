@@ -2,6 +2,7 @@
 iso: buy
 name: Bullom So
 autonym: Bolom
+alt_names: [Bulem, Bullin, Bullom, Bullun, Bulom, Mandenyi, Mandingi, Mani, Mmani, Northern Bullom, Soeg]
 population: 8350
 country_id: SL
 country_name: Sierra Leone

@@ -1,7 +1,9 @@
 ---
 iso: xuu
 name: Kxoe
+name_zh: Khwe語
 autonym: Kxoe
+alt_names: ["!Hukwe", "\"Barakwena\" \"Barakwengo\"", "\"Mbarakwena\"", "\"Mbarakwengo\"", "\"Water Bushmen\"", Barakwena, Barakwengo, Black Bushman, Buga, Cazama, Glanda-Khwe, Hukwe, Khoe, Khwe, Khwedam, Kxoedam, Mbara Kwengo, Mbarakwena, Mbarakwengo, Schekere, Vazama, Xu, Xuhwe, Xun, Xû, Zama]
 population: 7300
 country_id: NA
 country_name: Namibia

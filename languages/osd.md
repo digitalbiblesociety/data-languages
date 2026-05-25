@@ -1,7 +1,9 @@
 ---
 iso: osd
 name: Digor Ossetic
+name_zh: 迪格隆奧塞提亞語
 autonym: дигорон диалект
+alt_names: [Digor, Digor Ossetian, "Ossetian, Digor", "Ossetic, Digor"]
 population: 100000
 country_id: RU
 country_name: Russia

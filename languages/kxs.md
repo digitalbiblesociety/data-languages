@@ -1,7 +1,9 @@
 ---
 iso: kxs
 name: Kangjia
+name_zh: 康家语
 autonym: Kangyang Hui
+alt_names: [Кангџијаски јазик, 康家語, 康家语]
 population: 430
 country_id: CN
 country_name: China

@@ -2,6 +2,7 @@
 iso: mxe
 name: "Mele-Fila"
 autonym: "Ifira-Mele"
+alt_names: [Fila-Mele]
 population: 3500
 country_id: VU
 country_name: Vanuatu

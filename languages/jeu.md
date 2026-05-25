@@ -2,6 +2,7 @@
 iso: jeu
 name: Jonkor Bourmataguil
 autonym: Djongor Bourmataguil
+alt_names: [Dougne, Karakir]
 population: 1500
 country_id: TD
 country_name: Chad

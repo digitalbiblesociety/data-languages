@@ -2,6 +2,7 @@
 iso: kss
 name: Southern Kisi
 autonym: Gisi
+alt_names: [Gissi, Gizi, Kisi, Kisi (Southern), "Kisi, Southern", Kissi, Kissien, Southern dialect]
 population: 318000
 country_id: LR
 country_name: Liberia

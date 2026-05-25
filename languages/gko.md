@@ -2,6 +2,7 @@
 iso: gko
 name: "Kok-Nar"
 autonym: Gundara
+alt_names: [Gog Nar, Goondarra, Gugu Nar, Gugu Nhang, Kok Nar, Kok Narr, Kok Nhang, Kok-Narr, Kokatabul, Kokawan-gar, Koknar, Koko-Nar, Koko-Nari, Koko-Nhang, Koko-daua, Kokodaue, Kokowanggara, Kuantari, Kuk-Narr, Kundar, Kundara, Kuuk-Nhang, Kwanthar, Oikand, Wangara, Wanggara]
 population: null
 country_id: AU
 country_name: Australia

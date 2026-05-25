@@ -2,6 +2,7 @@
 iso: xpl
 name: "Port Sorell Tasmanian\r"
 autonym: Port Sorell Tasmanian
+alt_names: ["Tasmanian, Port Sorell"]
 population: null
 country_id: AU
 country_name: Australia

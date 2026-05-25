@@ -2,6 +2,7 @@
 iso: msc
 name: Sankaran Maninka
 autonym: Malinke
+alt_names: [Faranah, "Maninka, Sankaran", Sankarankan]
 population: 77000
 country_id: GN
 country_name: Guinea

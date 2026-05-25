@@ -2,6 +2,7 @@
 iso: tsa
 name: Tsaangi
 autonym: Icaangi
+alt_names: [Batsangui, Icaangui, Itsaangi, Itsangi, Tcengui, Tchangui, Tsangi]
 population: 13600
 country_id: CG
 country_name: Congo

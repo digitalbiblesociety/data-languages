@@ -2,6 +2,7 @@
 iso: mvh
 name: Mulgi
 autonym: Mulgi
+alt_names: [Chad, Mire, Mire language]
 population: 1400
 country_id: TD
 country_name: Chad

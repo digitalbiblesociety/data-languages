@@ -2,6 +2,7 @@
 iso: agd
 name: Agarabi
 autonym: null
+alt_names: [Agarabe, Bare, Gadsup, Gadsup (Agarabi)]
 population: 27000
 country_id: PG
 country_name: Papua New Guinea

@@ -2,6 +2,7 @@
 iso: njn
 name: Liangmai Naga
 autonym: Kwoireng
+alt_names: [Kacha, Liangmai, Liangmei, Liyang, Lyangmay, Lyengmai, Naga, "Naga, Liangmai", "Naga,Liangmai"]
 population: 49800
 country_id: IN
 country_name: India

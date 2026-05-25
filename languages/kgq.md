@@ -1,7 +1,9 @@
 ---
 iso: kgq
 name: Kamoro
+name_zh: 卡莫罗语
 autonym: Kamora
+alt_names: [Kaokonau, Lakahia, Mimika, Mukamuga, Nafarpi, Nagramadu, Nagramandu, Nefarpi, Neferipi, Umar, Umari]
 population: 8000
 country_id: ID
 country_name: Indonesia

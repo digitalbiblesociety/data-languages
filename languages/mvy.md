@@ -1,7 +1,9 @@
 ---
 iso: mvy
 name: Indus Kohistani
+name_zh: 印度科希斯坦语
 autonym: Maiyã
+alt_names: [Dardu, Khili, Kohistani, "Kohistani, Indus", Kohiste, Mair, Maiya, Maiyon, MaiyÃ£, Shuthun]
 population: 200000
 country_id: PK
 country_name: Pakistan

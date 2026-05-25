@@ -1,7 +1,9 @@
 ---
 iso: adr
 name: Adonara
+name_zh: 阿多纳拉语
 autonym: Adonara
+alt_names: [Nusa Tadon, Sagu, Vaiverang, Waiwerang]
 population: 17000
 country_id: ID
 country_name: Indonesia

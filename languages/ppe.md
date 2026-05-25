@@ -2,6 +2,7 @@
 iso: ppe
 name: Papi
 autonym: Baiyamo
+alt_names: [Paupe]
 population: 220
 country_id: PG
 country_name: Papua New Guinea

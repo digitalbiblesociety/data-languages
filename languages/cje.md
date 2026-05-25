@@ -1,7 +1,9 @@
 ---
 iso: cje
 name: Chru
+name_zh: 朱魯語
 autonym: Cadoe Loang
+alt_names: [Choru, Chrau Hma, Chu, Chu Ru, Churu, Cru, Kru, Seyu]
 population: 19300
 country_id: VN
 country_name: Vietnam

@@ -1,7 +1,9 @@
 ---
 iso: geq
 name: Geme
+name_zh: 蓋梅語
 autonym: Gueme
+alt_names: [Gemé, Jeme, Ngba Geme]
 population: 550
 country_id: CF
 country_name: Central African Republic

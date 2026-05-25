@@ -1,7 +1,9 @@
 ---
 iso: mfv
 name: Mandjak
+name_zh: 曼贾克语
 autonym: Kanyop
+alt_names: [Kenyop, Majak, Mandjaque, Mandyak, Manjaca, Manjack, Manjaco, Manjaku, Manjanku, Manjiak, Manyako, Mendyako, Ndjak, Ndyak, Sarar, Schadal]
 population: 407700
 country_id: GW
 country_name: "Guinea-Bissau"

@@ -2,6 +2,7 @@
 iso: ksr
 name: Borong
 autonym: Kosorong
+alt_names: [Naama]
 population: 2070
 country_id: PG
 country_name: Papua New Guinea

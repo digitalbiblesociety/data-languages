@@ -2,6 +2,7 @@
 iso: wih
 name: "Wik-Me'anha"
 autonym: "Wik-Em'an"
+alt_names: [Meian, Mejan, Mimungkum, Wik, Wik Epa, Wik Kalkan, Wik Me enh, "Wik Me'anh", "Wik Me'nh", Wik Me-enh, Wik Mean, Wik Meanh, Wik Meanha, Wik Meanha/Wikmean, Wik Menh, Wik Meʔnh, Wik Me’nh, Wik Muinh, Wik Mungkana, Wik Ngathara, Wik Ompom, WikMeAnh, WikMeana, Wikampama, Wikatinda, Wikepa, Wikmean, Wiknantjara, Wiknatanja, none]
 population: 130
 country_id: AU
 country_name: Australia

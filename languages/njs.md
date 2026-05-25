@@ -2,6 +2,7 @@
 iso: njs
 name: Nisa
 autonym: "Nisa-Anasi"
+alt_names: [Bonefa, Kerema]
 population: 500
 country_id: ID
 country_name: Indonesia

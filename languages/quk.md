@@ -2,6 +2,7 @@
 iso: quk
 name: Chachapoyas Quechua
 autonym: Amazonas Quechua
+alt_names: [Chachapoya, Chachapoyas, Chachapoyas-Quechua, Chachapuya runashimi, Quechua chachapoyano, "Quechua, Chachapoyas", Чачапоясский кечуа]
 population: 100
 country_id: PE
 country_name: Peru

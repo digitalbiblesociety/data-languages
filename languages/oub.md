@@ -2,6 +2,7 @@
 iso: oub
 name: "Glio-Oubi"
 autonym: Glio
+alt_names: [Oubi, Ubi]
 population: 3500
 country_id: LR
 country_name: Liberia

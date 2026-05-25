@@ -2,6 +2,7 @@
 iso: bji
 name: Burji
 autonym: Bambala
+alt_names: [Bembala, Buryí, Daashi]
 population: 83000
 country_id: ET
 country_name: Ethiopia

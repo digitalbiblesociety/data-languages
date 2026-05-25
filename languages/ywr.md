@@ -2,6 +2,7 @@
 iso: ywr
 name: Yawuru
 autonym: null
+alt_names: [Djauor, Dyugun, Gawor, Jaoro, Jaudjibara, Jauor, Jauro, Jauur, Jawadjag, Jawdjibaia, Jawdjibara, Jawuru, Jukun, Kakudu Kakudu, Kakudu-Kakudu, Nawudu, Winjawindjagu, Yaora, Yaoro, Yaoru, Yaroro, Yaudijbaia, Yaudjibara, Yauera, Yauor, Yauro, Yawjibara, Yawoorroo, Yawur, Yawuri, Yawurr]
 population: 30
 country_id: AU
 country_name: Australia

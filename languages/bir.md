@@ -2,6 +2,7 @@
 iso: bir
 name: Bisorio
 autonym: " Malamauda"
+alt_names: [Bi, Bigalu, Bikaru, Bugalu, Gne, Iniai, Inyai-Gadio-Bisorio, Pikaru, Sidi]
 population: 260
 country_id: PG
 country_name: Papua New Guinea

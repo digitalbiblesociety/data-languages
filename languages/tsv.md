@@ -2,6 +2,7 @@
 iso: tsv
 name: Tsogo
 autonym: Ghetsogho
+alt_names: [Getsogo, Ghetsogo, Mitsogo]
 population: 9000
 country_id: GA
 country_name: Gabon

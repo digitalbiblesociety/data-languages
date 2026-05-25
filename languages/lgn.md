@@ -2,6 +2,7 @@
 iso: lgn
 name: "T'apo"
 autonym: Tʼapo
+alt_names: ["\"Langa\"", Ansita, Ciita, Cita, Kina, Kwina, Opo, Opo-Shita, Opuo, Opuuo, Opuuo language, Opúo, Shiita, Shita, Shitta, Upo]
 population: 1000
 country_id: ET
 country_name: Ethiopia

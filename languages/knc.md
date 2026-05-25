@@ -1,7 +1,9 @@
 ---
 iso: knc
 name: Central Kanuri
+name_zh: 中卡努里语
 autonym: Kànùrí
+alt_names: ["\"Baribari\"", "\"Beriberi\"", Aga, Beriberi, Bornouan, Bornouans, Bornu, Kanembu, Kanouri, Kanoury, Kanuri, "Kanuri, Central", Kole, Kolere, Sirata, Yerwa Kanuri]
 population: 7925500
 country_id: NG
 country_name: Nigeria

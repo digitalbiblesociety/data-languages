@@ -2,6 +2,7 @@
 iso: nxa
 name: Nauete
 autonym: Naóti
+alt_names: [Naueti, Nauhete, Nauote, Nauoti]
 population: 1000
 country_id: TL
 country_name: "Timor-Leste"

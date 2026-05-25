@@ -2,6 +2,7 @@
 iso: oso
 name: Ososo
 autonym: Ọ̀sọ́sọ̀
+alt_names: [Nigeria]
 population: 19000
 country_id: NG
 country_name: Nigeria

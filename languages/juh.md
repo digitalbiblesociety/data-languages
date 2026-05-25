@@ -2,6 +2,7 @@
 iso: juh
 name: Hõne
 autonym: null
+alt_names: [Gaateri, Hone, Kona Jukun, Nigeria, Pindiga-Jukun, Wapan Gwana]
 population: 7000
 country_id: NG
 country_name: Nigeria

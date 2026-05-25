@@ -1,7 +1,9 @@
 ---
 iso: aed
 name: Argentine Sign Language
+name_zh: 阿根廷手语
 autonym: Lengua de señas argentina
+alt_names: [LSA]
 population: 60000
 country_id: AR
 country_name: Argentina

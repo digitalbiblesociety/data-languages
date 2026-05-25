@@ -2,6 +2,7 @@
 iso: gdn
 name: Umanakaina
 autonym: Gwedena
+alt_names: [Gvede, Gweda, Gwede, Umanikaina]
 population: 2810
 country_id: PG
 country_name: Papua New Guinea

@@ -2,6 +2,7 @@
 iso: gqa
 name: "Ga'anda"
 autonym: "Ga'andu"
+alt_names: ["Ga'ana", Ganda, Gandaeg, Ga’anda jezik, Makwar, Mokar]
 population: 43000
 country_id: NG
 country_name: Nigeria

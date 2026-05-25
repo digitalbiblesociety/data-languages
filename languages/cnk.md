@@ -1,7 +1,9 @@
 ---
 iso: cnk
 name: Khumi Chin
+name_zh: 庫米語
 autonym: Khumi Chin
+alt_names: [Chin (Khumi), "Chin, Khumi", "Chin,Khumi", Khami, Khimi, Khumi, Khuni, Khweymi, Ngala]
 population: 64000
 country_id: MM
 country_name: Myanmar

@@ -1,7 +1,9 @@
 ---
 iso: abs
 name: Ambonese Malay
+name_zh: 安汶马来语
 autonym: Ambonese
+alt_names: [Ambong, "Malay, Ambonese", Malayu Ambon]
 population: 250900
 country_id: ID
 country_name: Indonesia

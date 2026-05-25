@@ -2,6 +2,7 @@
 iso: axg
 name: Mato Grosso Arára
 autonym: Arara do Beiradão
+alt_names: [Arara, Arara do Aripuanã, Arara do Rio Branco, Arára of Mato Grosso, "Arára, Mato Grosso", Koaia, Koaiá, Koayá, Mato Grosso Arara]
 population: 2008
 country_id: BR
 country_name: Brazil

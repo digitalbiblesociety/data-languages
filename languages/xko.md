@@ -1,6 +1,7 @@
 ---
 iso: xko
 name: Kiorr
+name_zh: 焦尔语
 autonym: Kha Kior
 population: 2360
 country_id: LA

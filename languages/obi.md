@@ -2,6 +2,7 @@
 iso: obi
 name: Obispeño
 autonym: tiłhini
+alt_names: [Chumasha Proper, Northern Chumash, Obispeno, Obsipeño, San Luis Obispo, Santa Rosa]
 population: null
 country_id: US
 country_name: United States

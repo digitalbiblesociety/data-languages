@@ -1,7 +1,9 @@
 ---
 iso: mne
 name: Naba
+name_zh: 納巴語
 autonym: Tar Melbene
+alt_names: [Kuka, Набаски јазик]
 population: 510000
 country_id: TD
 country_name: Chad

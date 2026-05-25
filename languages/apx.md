@@ -2,6 +2,7 @@
 iso: apx
 name: Aputai
 autonym: Wetar
+alt_names: [Ilputih, Opotai, Tutunohan]
 population: 150
 country_id: ID
 country_name: Indonesia

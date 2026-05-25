@@ -2,6 +2,7 @@
 iso: lbv
 name: "Lavatbura-Lamusong"
 autonym: Lamasong
+alt_names: [Neu-Mecklenburg]
 population: 1310
 country_id: PG
 country_name: Papua New Guinea

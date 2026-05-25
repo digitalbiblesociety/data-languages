@@ -2,6 +2,7 @@
 iso: jup
 name: Hupdë
 autonym: Hupdë
+alt_names: [Hubde, Hup, Hup language, Hupd, Hupda, Hupda (Brésil), Hupda (Colombie), Hupde, Hupdá Makú, Hupdé macú (Colombia), Jupda, Jupdá Macú, Macú, Macú de Tucano, Makú, Makú-Hupdá, Ubde-Nehern, Ubdé]
 population: 1210
 country_id: BR
 country_name: Brazil

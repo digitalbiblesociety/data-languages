@@ -1,6 +1,7 @@
 ---
 iso: und
 name: Undetermined
+name_zh: 未确定语言
 autonym: null
 population: null
 country_id: ZZ

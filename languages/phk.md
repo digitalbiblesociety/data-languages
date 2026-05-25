@@ -1,7 +1,9 @@
 ---
 iso: phk
 name: Phake
+name_zh: 帕基语
 autonym: Faake
+alt_names: [Phakey, Phakial, Tai Phakial, Tai phake]
 population: 5000
 country_id: IN
 country_name: India

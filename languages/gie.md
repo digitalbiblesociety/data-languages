@@ -2,6 +2,7 @@
 iso: gie
 name: Gaɓogbo
 autonym: null
+alt_names: [Guébie]
 population: null
 country_id: CI
 country_name: "Côte d'Ivoire"

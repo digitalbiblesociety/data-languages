@@ -1,7 +1,9 @@
 ---
 iso: cjk
 name: Chokwe
+name_zh: 喬奎語
 autonym: Ucôkwe (Wuchokwe)
+alt_names: [Ciokwe, Cokwe, Djok, Imo, Kioko, Quioco, Shioko, Tschiokloe, Tschiokwe, Tshokwe]
 population: 2491700
 country_id: AO
 country_name: Angola

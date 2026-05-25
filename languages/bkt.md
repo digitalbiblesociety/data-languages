@@ -2,6 +2,7 @@
 iso: bkt
 name: Boloki
 autonym: Boloki
+alt_names: [Baloki, Boleki, Buluki, River Ruki]
 population: 4200
 country_id: CD
 country_name: DR Congo

@@ -2,6 +2,7 @@
 iso: urp
 name: "Uru-Pa-In"
 autonym: null
+alt_names: [Brazil]
 population: 200
 country_id: BR
 country_name: Brazil

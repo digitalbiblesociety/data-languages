@@ -2,6 +2,7 @@
 iso: tpr
 name: Tuparí
 autonym: null
+alt_names: [Tupari]
 population: 300
 country_id: BR
 country_name: Brazil

@@ -2,6 +2,7 @@
 iso: jaj
 name: Zazao
 autonym: Jajao
+alt_names: [Kilokaka]
 population: 10
 country_id: SB
 country_name: Solomon Islands

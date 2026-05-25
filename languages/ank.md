@@ -2,6 +2,7 @@
 iso: ank
 name: Goemai
 autonym: Ankwai
+alt_names: [Ankwe, Ankwei, Ankwé, Goemai jezik, Goemaieg, Kemai]
 population: 361000
 country_id: NG
 country_name: Nigeria

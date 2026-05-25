@@ -2,6 +2,7 @@
 iso: ntk
 name: "Ikoma-Nata-Isenye"
 autonym: "Ikoma-Nata-Isenye"
+alt_names: [Egiikɔma, Ekinata, Ikinata, Ikoma, Nata]
 population: 34700
 country_id: TZ
 country_name: Tanzania

@@ -1,7 +1,9 @@
 ---
 iso: tau
 name: Upper Tanana
+name_zh: 上塔納納語言
 autonym: Neeʼaandeegnʼ
+alt_names: [Haut-tanana (Canada), "Haut-tanana (États-Unis d'Amérique)", Nabesna, "Nee'aanegn", Tanana alto (Estados Unidos), "Tanana, Upper"]
 population: 300
 country_id: US
 country_name: United States

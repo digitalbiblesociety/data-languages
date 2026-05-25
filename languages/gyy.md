@@ -2,6 +2,7 @@
 iso: gyy
 name: Gunya
 autonym: Southern Maric
+alt_names: ["Gu:nja", Gunja, Kunja, Kunya, Kurnja]
 population: null
 country_id: AU
 country_name: Australia

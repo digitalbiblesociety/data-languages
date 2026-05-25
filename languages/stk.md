@@ -2,6 +2,7 @@
 iso: stk
 name: Arammba
 autonym: Aramba
+alt_names: [Kamindjo, Rouku, Serki, Serkisetavi, Tjokwasi, Upper Morehead]
 population: 750
 country_id: PG
 country_name: Papua New Guinea

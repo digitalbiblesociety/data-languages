@@ -2,6 +2,7 @@
 iso: csv
 name: Sumtu Chin
 autonym: Ahmyo
+alt_names: ["Chin, Sumtu"]
 population: 14000
 country_id: MM
 country_name: Myanmar

@@ -1,7 +1,9 @@
 ---
 iso: xmf
 name: Mingrelian
+name_zh: 明格列尔语
 autonym: მარგალური ნინა margaluri nina
+alt_names: [Idioma megreliano, Język megrelski, Lingua mengrelia, Língua mingreliana, Margali, Margaluri, Megrel, Megrelce, Megreleg, Megrelian, Megruli, Mingreels, Mingrelin kieli, Mingrelio, Mingrelische Sprache, Mingrelsk, Mingrél nyelv, Mingrélien, Мегрел чĕлхи, Мегрелски език, Мегрельский язык, Мегрельська мова, Мингрелски јазик, מגרלית, ภาษาเมเกรเลีย, მეგრული ენა, メグレル語, 明格列尔语]
 population: 345500
 country_id: GE
 country_name: Georgia

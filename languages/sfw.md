@@ -2,6 +2,7 @@
 iso: sfw
 name: Sehwi
 autonym: Esahie
+alt_names: [Asahyue, Sefwi]
 population: 305000
 country_id: GH
 country_name: Ghana

@@ -2,6 +2,7 @@
 iso: doy
 name: Dompo
 autonym: Dumpo
+alt_names: [Guang, Ndmpo]
 population: 965
 country_id: GH
 country_name: Ghana

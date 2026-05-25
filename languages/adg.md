@@ -2,6 +2,7 @@
 iso: adg
 name: Andegerebinha
 autonym: Andigibinha
+alt_names: [Andagerebina, Andakerebina, Andeberegina, Andegerebenha, Antakiripina, Antekerrepenh, Antekerrepenhe, Antekerrepinhe, Arandic, Undekerebina, Walwallie, Willi willi, Willi-willi, Williwilli, Yanindo]
 population: null
 country_id: AU
 country_name: Australia

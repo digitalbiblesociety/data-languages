@@ -2,6 +2,7 @@
 iso: gso
 name: Southwest Gbaya
 autonym: Southwest Gbaya
+alt_names: [Gbaya, Gbaya Sud-Ouest, "Gbaya, Southwest"]
 population: 220000
 country_id: CF
 country_name: Central African Republic

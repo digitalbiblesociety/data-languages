@@ -1,7 +1,9 @@
 ---
 iso: apc
 name: North Levantine Arabic
+name_zh: 黎凡特阿拉伯語
 autonym: اللهجة الشامي الشمال
+alt_names: [Arabic, Arabic (Beirut), Arabic (Eastern), Arabic (Lebanese), Arabic (North Levantine Spoken), Arabic (Syrian), "Arabic, Levantine", "Arabic, North Levantine Spoken", Damascene, Dialekt damasceński, Lebanese Arabic, Lebanese-Syrian Arabic, Levantine Arabic, North Levantine Spoken, Sirià, Syrian Arabic, Syrisch-Arabisch, Syro-Lebanese Arabic, Árabe sírio, لهجة سورية]
 population: 24600000
 country_id: SY
 country_name: Syria

@@ -2,6 +2,7 @@
 iso: bbs
 name: Bakpinka
 autonym: Bakpinka
+alt_names: [Begbungba, Iyongiyong, Iyoniyong, Uwet]
 population: 4000
 country_id: NG
 country_name: Nigeria

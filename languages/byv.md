@@ -1,7 +1,9 @@
 ---
 iso: byv
 name: Medumba
+name_zh: 梅敦巴语
 autonym: Bangangte
+alt_names: [Bagangte, Bamileke-Medumba]
 population: 210000
 country_id: CM
 country_name: Cameroon

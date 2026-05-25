@@ -1,7 +1,9 @@
 ---
 iso: hib
 name: Hibito
+name_zh: 希维托语
 autonym: Chibito
+alt_names: [Hivito, Híbito, Ibito, Jibito, Xibita, Xibito, Xibitoana, Xíbito, Zibito]
 population: null
 country_id: PE
 country_name: Peru

@@ -1,7 +1,9 @@
 ---
 iso: tdr
 name: Todrah
+name_zh: 祖查语
 autonym: Didra
+alt_names: [Didrah, Dədrah, Kodra, Modra, Podra, Todrá]
 population: 9140
 country_id: VN
 country_name: Vietnam

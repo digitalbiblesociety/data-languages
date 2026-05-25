@@ -2,6 +2,7 @@
 iso: gmx
 name: Magoma
 autonym: Ekikinga
+alt_names: [Kimagoma, Kinga]
 population: 9000
 country_id: TZ
 country_name: Tanzania

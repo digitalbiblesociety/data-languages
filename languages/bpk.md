@@ -2,6 +2,7 @@
 iso: bpk
 name: Orowe
 autonym: "'Ôrôê"
+alt_names: [Boewe, Neukaledonien, Ôrôê]
 population: 590
 country_id: NC
 country_name: New Caledonia

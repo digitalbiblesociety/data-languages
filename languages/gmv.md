@@ -2,6 +2,7 @@
 iso: gmv
 name: Gamo
 autonym: null
+alt_names: [Dache, Gemu, Gereze]
 population: 1630000
 country_id: ET
 country_name: Ethiopia

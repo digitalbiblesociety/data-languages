@@ -2,6 +2,7 @@
 iso: lmi
 name: Lombi
 autonym: Nemangbetu
+alt_names: [Lumbi, Odyalombito, Rombi, Rumli]
 population: 12000
 country_id: CD
 country_name: DR Congo

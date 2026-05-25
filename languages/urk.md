@@ -1,7 +1,9 @@
 ---
 iso: urk
 name: "Urak Lawoi'"
+name_zh: 烏拉拉握語
 autonym: อูรัก ลาโว้ย
+alt_names: [Chaw Talay, Chawnam, Lawoi, Lawta, "Orak Lawoi'", Urak lawoi (Tailandia), Urak lawoi (Thaïlande), Urak lawoi’ (Malaisie)]
 population: 3000
 country_id: TH
 country_name: Thailand

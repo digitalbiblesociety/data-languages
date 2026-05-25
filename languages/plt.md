@@ -2,6 +2,7 @@
 iso: plt
 name: Plateau Malagasy
 autonym: malagasy
+alt_names: [Malagasi, "Malagasy, Plateau"]
 population: 7646100
 country_id: MG
 country_name: Madagascar

@@ -2,6 +2,7 @@
 iso: qxa
 name: Chiquián Ancash Quechua
 autonym: kichwa
+alt_names: [Ancas, Ancash, Chinchaysuyo, Chiquian Ancash Quechua, Huaylas, Northern Quechua, Quechua, Quechua (Ancash), "Quechua, Chiquián Ancash"]
 population: 10000
 country_id: PE
 country_name: Peru

@@ -2,6 +2,7 @@
 iso: kep
 name: Kaikadi
 autonym: Kaikadia
+alt_names: [Kaikai, Kokadi]
 population: 23000
 country_id: IN
 country_name: India

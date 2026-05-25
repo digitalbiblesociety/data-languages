@@ -2,6 +2,7 @@
 iso: dzd
 name: Daza
 autonym: Dazawa
+alt_names: [Ampika, Bolanchi, Bolawa, Bole, Bolewa, Borpika]
 population: 100
 country_id: NG
 country_name: Nigeria

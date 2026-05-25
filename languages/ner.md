@@ -2,6 +2,7 @@
 iso: ner
 name: Yahadian
 autonym: Nerigo
+alt_names: [Jahadian, Yabin Yahadian]
 population: 500
 country_id: ID
 country_name: Indonesia

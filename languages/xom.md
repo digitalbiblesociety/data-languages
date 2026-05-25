@@ -2,6 +2,7 @@
 iso: xom
 name: Komo (Sudan)
 autonym: " Tta Komo"
+alt_names: [Central Koma, Como, Gokwom, Hayahaya, Koma, Koma of Daga, Komo, Komo language, Madiin, South Koma]
 population: 10000
 country_id: SD
 country_name: Sudan

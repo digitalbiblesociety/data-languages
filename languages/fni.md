@@ -2,6 +2,7 @@
 iso: fni
 name: Fania
 autonym: Kulaale
+alt_names: [Eywe, Fagnia, Fana, Fanian, Fanya, Fanyan, Fulfulde (Nigerian), Kobe, Mana]
 population: 1100
 country_id: TD
 country_name: Chad

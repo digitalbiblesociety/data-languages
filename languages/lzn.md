@@ -2,6 +2,7 @@
 iso: lzn
 name: Leinong Naga
 autonym: Htang Ngan
+alt_names: ["Naga, Leinong"]
 population: 8000
 country_id: MM
 country_name: Myanmar

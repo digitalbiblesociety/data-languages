@@ -1,7 +1,9 @@
 ---
 iso: tgp
 name: Tangoa
+name_zh: 坦戈亚语
 autonym: Mara Tatagoa
+alt_names: [Movono, Santo]
 population: 800
 country_id: VU
 country_name: Vanuatu

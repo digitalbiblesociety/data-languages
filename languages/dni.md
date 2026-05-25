@@ -2,6 +2,7 @@
 iso: dni
 name: Lower Grand Valley Dani
 autonym: null
+alt_names: [Dani, Dani (Grand Valley), Dani (Lower Grand Valley), "Dani, Lower Grand Valley", Grand Valley Dani, Ndani]
 population: 20000
 country_id: ID
 country_name: Indonesia

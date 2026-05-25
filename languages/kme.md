@@ -2,6 +2,7 @@
 iso: kme
 name: Bakole
 autonym: Mokpwe
+alt_names: [Bakolle, Bamusso, Kole]
 population: 300
 country_id: CM
 country_name: Cameroon

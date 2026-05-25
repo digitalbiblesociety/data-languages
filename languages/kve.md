@@ -2,6 +2,7 @@
 iso: kve
 name: Kalabakan
 autonym: Tidong
+alt_names: [Kalabakan Murut, Tawau Murut, Tidung]
 population: 2230
 country_id: MY
 country_name: Malaysia

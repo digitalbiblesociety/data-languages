@@ -2,6 +2,7 @@
 iso: kuq
 name: Karipuna
 autonym: "Ah'e"
+alt_names: [Caripuna, "Diahoi [Jiahui", "Diarroi]", Djahui, Jau-Navo, Juanauo, Kagwahiva, Kari, Karipuna do Guapore, Karipuná de Rondônia, Karipúna do Guaporé, Kawahib/Paranawat/Pawaté-Wirafed, Parintintín/Tenharim/Juma, Tukumanfed]
 population: null
 country_id: BR
 country_name: Brazil

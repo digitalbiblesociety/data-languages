@@ -1,7 +1,9 @@
 ---
 iso: swy
 name: Sarua
+name_zh: 薩魯阿語
 autonym: Saroua
+alt_names: [Sarouaeg, Sarua jezik, Sarwa]
 population: 2000
 country_id: TD
 country_name: Chad

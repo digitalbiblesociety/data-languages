@@ -2,6 +2,7 @@
 iso: jum
 name: Jumjum
 autonym: Mabaan
+alt_names: [Berin, Olga, Wadega]
 population: 25000
 country_id: SD
 country_name: Sudan

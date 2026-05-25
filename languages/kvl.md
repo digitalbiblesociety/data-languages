@@ -2,6 +2,7 @@
 iso: kvl
 name: Kayaw
 autonym: Brek
+alt_names: [Bre, Brec, Brek Karen, Brè, Bwe, "Karen, Brek", "Karen,Brek", Laku, Pramano, Pre]
 population: 16600
 country_id: MM
 country_name: Myanmar

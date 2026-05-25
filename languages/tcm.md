@@ -2,6 +2,7 @@
 iso: tcm
 name: Tanahmerah
 autonym: Sumeri
+alt_names: [Sumerine, Tanah Merah, Tanahmerah I]
 population: 500
 country_id: ID
 country_name: Indonesia

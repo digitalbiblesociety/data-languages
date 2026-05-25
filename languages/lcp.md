@@ -2,6 +2,7 @@
 iso: lcp
 name: Western Lawa
 autonym: Lava
+alt_names: ["L'wa", "La'wa", Lavua, Lavüa, Lawa, "Lawa, Western", Lua, Luwa, Mae Sariang, Mountain Lawa, Wa, Wa Proper]
 population: 8000
 country_id: TH
 country_name: Thailand

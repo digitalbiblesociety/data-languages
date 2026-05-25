@@ -2,6 +2,7 @@
 iso: kny
 name: Kanyok
 autonym: Kanioka
+alt_names: [Kanyoka]
 population: 200000
 country_id: CD
 country_name: DR Congo

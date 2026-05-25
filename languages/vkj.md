@@ -1,7 +1,9 @@
 ---
 iso: vkj
 name: Kujarge
+name_zh: 库贾尔盖语
 autonym: null
+alt_names: [Kadjakse, Kajeske, Kawa Tadimini, Kujarke, Mini]
 population: 1000
 country_id: TD
 country_name: Chad

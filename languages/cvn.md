@@ -2,6 +2,7 @@
 iso: cvn
 name: Valle Nacional Chinantec
 autonym: Tlatepuzco Chinantec
+alt_names: [Chinantec, "Chinantec, Valle Nacional", Chinanteco, Chinanteco central bajo, Chinanteco de Valle Nacional, Chinanteko, Chinantèque de Valle Nacional, Lower Central Chinantec, j+g dsa k+, j+g ki tsomän, jumi dsa iin+n]
 population: 1500
 country_id: MX
 country_name: Mexico

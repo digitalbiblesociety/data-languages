@@ -2,6 +2,7 @@
 iso: byd
 name: "Benyadu'"
 autonym: Benyadu’
+alt_names: [Balantian, Balantiang, Njadu, Nyadu]
 population: 54000
 country_id: ID
 country_name: Indonesia

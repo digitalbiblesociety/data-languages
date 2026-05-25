@@ -2,6 +2,7 @@
 iso: hay
 name: Haya
 autonym: Ziba
+alt_names: [Ekihaya, Hayum, Język haya, Kihaya, Língua haya, Ruhaya]
 population: 1940000
 country_id: TZ
 country_name: Tanzania

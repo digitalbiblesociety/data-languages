@@ -2,6 +2,7 @@
 iso: swu
 name: Suwawa
 autonym: "Suwawa-Bunda"
+alt_names: [Bonda, Bunda, Bune]
 population: 21000
 country_id: ID
 country_name: Indonesia

@@ -2,6 +2,7 @@
 iso: bsa
 name: Abinomn
 autonym: Foia
+alt_names: ["\"Baso\"", Abinomneg, Avinomen, Foja, Foya, Lingua abinomn, Llingua Abinomn]
 population: 300
 country_id: ID
 country_name: Indonesia

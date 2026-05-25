@@ -2,6 +2,7 @@
 iso: mzr
 name: Marúbo
 autonym: Kaniuá
+alt_names: [Katukína, Marobo, Marova, Maruba, Marubo, Marubo of the Javari Basin, Marúbu]
 population: 1040
 country_id: BR
 country_name: Brazil

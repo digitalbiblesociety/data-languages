@@ -2,6 +2,7 @@
 iso: xjb
 name: Minjungbal
 autonym: "Cood-jingburra"
+alt_names: [Cudgingberry, Gan-dowal, Gando Minjang, Gendo, Minjangbal, Minyangbal, Minyowa, Minyung, Ngandowul]
 population: 208
 country_id: AU
 country_name: Australia

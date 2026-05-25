@@ -2,6 +2,7 @@
 iso: zaf
 name: Ayoquesco Zapotec
 autonym: (Santa María Ayoquezco)
+alt_names: [Ayoquezco, Ayoquezco Zapotec, Central Sapoteko, Western Ejutla Zapotec, Zapotec, "Zapotec, Ayoquesco", Zapoteco de San Felipe Tejalápam, Zapoteco de Santa María Ayoquesco, Zapoteco de Santa María Ayoquezco, Zapotèque de San Felipe Tejalapan]
 population: 880
 country_id: MX
 country_name: Mexico

@@ -2,6 +2,7 @@
 iso: knb
 name: Lubuagan Kalinga
 autonym: null
+alt_names: ["Kalinga, Lubuagan", Philippines]
 population: 30000
 country_id: PH
 country_name: Philippines

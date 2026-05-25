@@ -1,7 +1,9 @@
 ---
 iso: ksf
 name: Bafia
+name_zh: 巴菲亚语
 autonym: Bafia
+alt_names: [Bekpak, Rikpa, "Rikpa'", Ripey]
 population: 60000
 country_id: CM
 country_name: Cameroon

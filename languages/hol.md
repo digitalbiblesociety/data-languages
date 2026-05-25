@@ -2,6 +2,7 @@
 iso: hol
 name: Holu
 autonym: Kiholo
+alt_names: [Holo, Kiholu]
 population: 28200
 country_id: AO
 country_name: Angola

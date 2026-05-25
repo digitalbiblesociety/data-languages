@@ -2,6 +2,7 @@
 iso: yim
 name: Yimchungru Naga
 autonym: Yachumi
+alt_names: ["Naga, Yimchungru", "Naga,Yimchungru", Tozhuma, Yachimi, Yanchunger, Yatśumi, Yimchunger, Yimchungre, Yimchungru, Yimchungrü, Yimtśurr]
 population: 83300
 country_id: IN
 country_name: India

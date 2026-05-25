@@ -2,6 +2,7 @@
 iso: bsg
 name: Bashkardi
 autonym: " Bashaka"
+alt_names: [Baskardí]
 population: 7030
 country_id: IR
 country_name: Iran

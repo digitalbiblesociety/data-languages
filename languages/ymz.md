@@ -1,7 +1,9 @@
 ---
 iso: ymz
 name: Muzi
+name_zh: 木支语
 autonym: Muji
+alt_names: [Mogeha]
 population: 10000
 country_id: CN
 country_name: China

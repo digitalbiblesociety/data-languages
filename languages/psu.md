@@ -1,7 +1,9 @@
 ---
 iso: psu
 name: Sauraseni Prākrit
+name_zh: 索拉塞那语
 autonym: सोरसेणी पाइअ
+alt_names: ["Prākrit, Sauraseni"]
 population: null
 country_id: IN
 country_name: India

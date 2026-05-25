@@ -2,6 +2,7 @@
 iso: hig
 name: Kamwe
 autonym: Higgi
+alt_names: [Higi, Hiji, Kamwe jezik, Kamweg, Vacamwe]
 population: 577000
 country_id: NG
 country_name: Nigeria

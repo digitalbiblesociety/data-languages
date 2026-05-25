@@ -1,7 +1,9 @@
 ---
 iso: akr
 name: Araki
+name_zh: 阿拉齊語
 autonym: sorosoro-ni Raki
+alt_names: [Banks-Inseln]
 population: null
 country_id: VU
 country_name: Vanuatu

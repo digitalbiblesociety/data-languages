@@ -2,6 +2,7 @@
 iso: kzi
 name: Kelabit
 autonym: Kalabit
+alt_names: [Kerabit]
 population: 1500
 country_id: MY
 country_name: Malaysia

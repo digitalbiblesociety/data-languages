@@ -2,6 +2,7 @@
 iso: oyd
 name: Oyda
 autonym: null
+alt_names: [Oida, Oyda jezik]
 population: 14075
 country_id: ET
 country_name: Ethiopia

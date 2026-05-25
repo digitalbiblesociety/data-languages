@@ -2,6 +2,7 @@
 iso: kjk
 name: Highland Konjo
 autonym: Konjo Pegunungan
+alt_names: ["Konjo, Highland", Konyo]
 population: 68500
 country_id: ID
 country_name: Indonesia

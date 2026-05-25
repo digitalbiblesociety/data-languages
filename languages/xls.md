@@ -1,7 +1,9 @@
 ---
 iso: xls
 name: Lusitanian
+name_zh: 卢西坦语
 autonym: null
+alt_names: [Idioma lusitano, Lingua lusitana, Lusitanian kieli, Lusitaniera, Lusità, Luzitán nyelv, Língua lusitana, Лузитанский язык, Луситански јазик]
 population: null
 country_id: ES
 country_name: Spain

@@ -2,6 +2,7 @@
 iso: ntw
 name: Nottoway
 autonym: null
+alt_names: [Meherrin, Nottaway-Meherrin]
 population: null
 country_id: US
 country_name: United States

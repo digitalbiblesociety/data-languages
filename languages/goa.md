@@ -1,7 +1,9 @@
 ---
 iso: goa
 name: Guro
+name_zh: 古罗语
 autonym: Kweni
+alt_names: [Gouro, Kwéndré, Lo]
 population: 500000
 country_id: CI
 country_name: "Côte d'Ivoire"

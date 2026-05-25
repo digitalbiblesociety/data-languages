@@ -1,6 +1,7 @@
 ---
 iso: czk
 name: Knaanic
+name_zh: 猶太捷克語
 autonym: null
 population: null
 country_id: CZ

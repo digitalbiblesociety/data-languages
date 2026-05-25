@@ -1,7 +1,9 @@
 ---
 iso: dga
 name: Southern Dagaare
+name_zh: 達加雷語
 autonym: Dagaare
+alt_names: ["Dagaare, Southern", Dagaari, Dagara, Dagare, Dagari, Dagati, Dagatri, Dagatsi, Degati, Dogaari, Southern Dagari]
 population: 924000
 country_id: GH
 country_name: Ghana

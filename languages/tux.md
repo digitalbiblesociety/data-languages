@@ -2,6 +2,7 @@
 iso: tux
 name: Tuxináwa
 autonym: Tuchinaua
+alt_names: [Tushinawa, Tutxinawa, Tuxinaua, Tuxinawa]
 population: null
 country_id: BR
 country_name: Brazil

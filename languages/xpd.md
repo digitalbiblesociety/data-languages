@@ -2,6 +2,7 @@
 iso: xpd
 name: "Oyster Bay Tasmanian\r"
 autonym: Oyster Bay
+alt_names: [Oyster Bay Tasmanian, "Tasmanian, Oyster Bay"]
 population: null
 country_id: AU
 country_name: Australia

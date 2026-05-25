@@ -1,7 +1,9 @@
 ---
 iso: osx
 name: Old Saxon
+name_zh: 古撒克逊语
 autonym: Sahsisk
+alt_names: [Altnieder-deutsch, Altniederdeutsche Sprache, Antico sassone, Gammelsaksisk, Język starosaksoński, Malnovsaksa lingvo, Oldsaksisch, Ooldsaksisk, Ooldsassisch, Oudsaksisch, Sajón antiguo, "Saxon, Old", Saxão antigo, Vieux saxon, Ószász nyelv, Стар долногермански јазик, 古ザクセン語]
 population: null
 country_id: DE
 country_name: Germany

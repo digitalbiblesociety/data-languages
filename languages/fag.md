@@ -2,6 +2,7 @@
 iso: fag
 name: Finongan
 autonym: Finungwa
+alt_names: [Finungwan]
 population: 1300
 country_id: PG
 country_name: Papua New Guinea

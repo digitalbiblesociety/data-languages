@@ -2,6 +2,7 @@
 iso: jer
 name: Jere
 autonym: Jeere
+alt_names: [Jera]
 population: 23000
 country_id: NG
 country_name: Nigeria

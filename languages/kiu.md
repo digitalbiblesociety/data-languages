@@ -2,6 +2,7 @@
 iso: kiu
 name: Kirmanjki
 autonym: Alevica
+alt_names: [Dersimki, Dimilki, Kirmanjki (individual language), Northern Zaza, So-Bê, Zaza, Zazaki, Zonê Ma]
 population: 203000
 country_id: TR
 country_name: Turkey

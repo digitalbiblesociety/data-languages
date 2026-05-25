@@ -1,7 +1,9 @@
 ---
 iso: kfz
 name: Koromfé
+name_zh: 科罗姆费语
 autonym: Fula
+alt_names: [Fulse, Koromfe, Kouroumba, Kuruma, Kurumba, Kurumfe, Kuṟumba, Nyonyose]
 population: null
 country_id: BF
 country_name: Burkina Faso

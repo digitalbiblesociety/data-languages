@@ -2,6 +2,7 @@
 iso: tju
 name: Tjurruru
 autonym: Tjururu
+alt_names: [Chooraro, Chooraroo, Choororo, Churoro, Djuroro, Djururo, Djururu, Dyururu, Joruro, Jurruru, Tchuraru, Tjororo, Tjuroro, Tjururo, Yankurangku]
 population: null
 country_id: AU
 country_name: Australia

@@ -1,7 +1,9 @@
 ---
 iso: ish
 name: Esan
+name_zh: 埃桑語
 autonym: Ishan
+alt_names: [Anwain, Esa, Isa]
 population: 619000
 country_id: NG
 country_name: Nigeria

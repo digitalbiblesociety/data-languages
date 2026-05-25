@@ -2,6 +2,7 @@
 iso: duo
 name: Dupaninan Agta
 autonym: Eastern Cagayan Agta
+alt_names: [Agta, Agta de Cagayan oriental, Agta de Cagayán oriental, "Agta, Dupaninan", Dupaninan, Dupaningan Agta]
 population: 1400
 country_id: PH
 country_name: Philippines

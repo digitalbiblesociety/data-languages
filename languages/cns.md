@@ -2,6 +2,7 @@
 iso: cns
 name: Central Asmat
 autonym: Jas
+alt_names: [Asmat, "Asmat, Central", Manowee, Yas]
 population: 7000
 country_id: ID
 country_name: Indonesia

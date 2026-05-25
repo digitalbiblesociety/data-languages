@@ -2,6 +2,7 @@
 iso: saf
 name: Safaliba
 autonym: Safalaba
+alt_names: [Safalba, Safali]
 population: 4000
 country_id: GH
 country_name: Ghana

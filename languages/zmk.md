@@ -2,6 +2,7 @@
 iso: zmk
 name: Mandandanyi
 autonym: Southern Maric
+alt_names: [Cogai, Eastern Gunggari, Fishing Net people, Kogai, Manandanyi, Mandandandji, Mandandanjdji, Mandandanji, Mandandanjnjdji, Maranoa Gunggari, Mundaeinbura, Mundainbara]
 population: null
 country_id: AU
 country_name: Australia

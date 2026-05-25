@@ -2,6 +2,7 @@
 iso: afe
 name: Putukwam
 autonym: Ebe Cluster
+alt_names: [Mbe Afal, Mbube Eastern, Utugwang]
 population: 12000
 country_id: NG
 country_name: Nigeria

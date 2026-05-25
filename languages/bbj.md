@@ -1,7 +1,9 @@
 ---
 iso: bbj
 name: "Ghomálá'"
+name_zh: 戈马拉语
 autonym: Ghɔmálá’
+alt_names: [Baloum, Bamileke-Bandjoun, Bandjoun, Banjoun-Baham, Banjun, Batie, "Ghomala'", Ghomálá, Mahum, Mandju]
 population: 350000
 country_id: CM
 country_name: Cameroon

@@ -2,6 +2,7 @@
 iso: zln
 name: Lianshan Zhuang
 autonym: Vahcuengh (za)
+alt_names: [Chuang, Lianshan, Zhuang, Zhuang (Northern), "Zhuang, Lianshan"]
 population: 205000
 country_id: CN
 country_name: China

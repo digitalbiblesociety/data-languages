@@ -2,6 +2,7 @@
 iso: xtb
 name: Chazumba Mixtec
 autonym: (Santiago Chazumba)
+alt_names: [Acatlán Mixtec, Central Puebla Mixtec, Chigmecatitlán Mixtec, "Mixtec, Chazumba", Mixteco de Chazumba, Mixteco de Santa María Chigmecatitlán, Mixteco de la Frontera Puebla-Oaxaca, Mixteco del Sur de Puebla, Northern Baja Mixtec, Northern Misteko, Northern Mixteco, Northern Oaxaca Mixtec, Southern Puebla Mixtec, Xayacatlán de Bravo]
 population: 2480
 country_id: MX
 country_name: Mexico

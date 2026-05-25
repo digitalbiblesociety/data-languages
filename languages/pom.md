@@ -2,6 +2,7 @@
 iso: pom
 name: Southeastern Pomo
 autonym: Lower Lake Pomo
+alt_names: [Lower Lake, Pomo, Pomo (Southeastern), Pomo du sud-est, Pomo suroriental, "Pomo, Southeastern", Pomoan, S.E. Pomo, SE Pomo, Southeast Clear Lake Pomo, Southeast Pomo, Southeastern, Southeastern Pomoan Subfamily]
 population: null
 country_id: US
 country_name: United States

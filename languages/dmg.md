@@ -2,6 +2,7 @@
 iso: dmg
 name: Upper Kinabatangan
 autonym: Lobu
+alt_names: ["Kinabatangan, Upper"]
 population: 5000
 country_id: MY
 country_name: Malaysia

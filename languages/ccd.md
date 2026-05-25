@@ -2,6 +2,7 @@
 iso: ccd
 name: Cafundo Creole
 autonym: Cupópia
+alt_names: ["Creole, Cafundo"]
 population: 40
 country_id: BR
 country_name: Brazil

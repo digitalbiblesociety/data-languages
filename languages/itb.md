@@ -2,6 +2,7 @@
 iso: itb
 name: Binongan Itneg
 autonym: Tingguian
+alt_names: ["Itneg, Binongan", Tinguian]
 population: 7500
 country_id: PH
 country_name: Philippines

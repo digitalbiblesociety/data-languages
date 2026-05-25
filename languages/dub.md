@@ -2,6 +2,7 @@
 iso: dub
 name: Dubli
 autonym: Dubala
+alt_names: [Dubla, Rathod, Talavia]
 population: 252000
 country_id: IN
 country_name: India

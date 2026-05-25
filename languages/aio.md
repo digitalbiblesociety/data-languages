@@ -1,7 +1,9 @@
 ---
 iso: aio
 name: Aiton
+name_zh: 艾通语
 autonym: (တႝ)ဢႝတွꩫ်
+alt_names: [Aitonia, Aitón, Sham Doaniya, Tai Aiton]
 population: 1500
 country_id: IN
 country_name: India

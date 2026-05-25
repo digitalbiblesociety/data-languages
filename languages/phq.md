@@ -1,7 +1,9 @@
 ---
 iso: phq
 name: "Phana'"
+name_zh: 帕那语
 autonym: Bana
+alt_names: ["Bana'", Pana, "Pana'", Phana]
 population: 350
 country_id: LA
 country_name: Laos

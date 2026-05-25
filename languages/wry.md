@@ -2,6 +2,7 @@
 iso: wry
 name: Merwari
 autonym: मारवाड़ी/مارواڑی‎
+alt_names: [Ajmeri]
 population: 3900000
 country_id: IN
 country_name: India

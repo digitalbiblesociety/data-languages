@@ -2,6 +2,7 @@
 iso: mmc
 name: Michoacán Mazahua
 autonym: Jñatjo (mmc)Jñatrjo (maz)
+alt_names: [Masawa, Mazahua, "Mazahua, Michoacán", Michoacan Mazahua]
 population: 17500
 country_id: MX
 country_name: Mexico

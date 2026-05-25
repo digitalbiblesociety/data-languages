@@ -1,7 +1,9 @@
 ---
 iso: rme
 name: Angloromani
+name_zh: 盎格魯－羅姆語
 autonym: Pogadi Chib
+alt_names: [Anglo-Romany, English Romani, European Romany, "Posh 'N' Posh", Romani English, Romanichal, Romanis]
 population: 99200
 country_id: GB
 country_name: United Kingdom

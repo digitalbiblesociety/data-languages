@@ -2,6 +2,7 @@
 iso: prr
 name: Puri
 autonym: Coroado
+alt_names: [Colorado]
 population: null
 country_id: BR
 country_name: Brazil

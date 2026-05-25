@@ -1,7 +1,9 @@
 ---
 iso: bgn
 name: Western Balochi
+name_zh: 西俾路支语
 autonym: بلۏچی  Balòci
+alt_names: ["Balochi, Western", Baloci, Baluchi, Baluci, Balutschi]
 population: 2249850
 country_id: PK
 country_name: Pakistan

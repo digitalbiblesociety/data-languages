@@ -2,6 +2,7 @@
 iso: nmh
 name: Monsang Naga
 autonym: Siirti
+alt_names: ["Naga, Monsang"]
 population: 3200
 country_id: IN
 country_name: India

@@ -1,7 +1,9 @@
 ---
 iso: ysd
 name: Samatao
+name_zh: 撒慕语
 autonym: Samatao
+alt_names: [Eastern Samadu, Samaduo, Samataw, Samou, 撒慕, 撒馬多]
 population: 400
 country_id: CN
 country_name: China

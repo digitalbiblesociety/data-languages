@@ -1,7 +1,9 @@
 ---
 iso: thd
 name: Kuuk Thaayorre
+name_zh: 庫克薩優里語
 autonym: Behran
+alt_names: [Bohran, "Da:jor", Daiyuri, Dajor, Dayorr, "Dha:yore", "Dha:yorre", Gugudayor, Gugujak, Kokkotaijari, Koko, Koko Daiyuri, Koko Taiyor, Koko Tayorre, Koko Thayorr, Koko yak, Koko-Daiyuri, Koko-Taiyor, Kokotaiyari, Kokotayor, Ku k Thayori, Ku-k Thayori, Kuktayor, Kukudayore, Kuuk Thaayoore, Kuuk Thayorre, Kuuk-Thaayorre, Ku·k Thayori, Taiol, Taior, Taiyor, Tayor, Tayore, Tayorr, Thaayore, Thaayorr, Thaayorre, Thayarre, Thayore, Thayorre]
 population: 210
 country_id: AU
 country_name: Australia

@@ -2,6 +2,7 @@
 iso: ram
 name: Canela
 autonym: Kanela
+alt_names: [Canela apaniekra, Canela ramkokomekra, Canela rankokamekra, Canela-Krahô, Krahó, Krenjé, Pukobyé, Timbira]
 population: 2500
 country_id: BR
 country_name: Brazil

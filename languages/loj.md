@@ -2,6 +2,7 @@
 iso: loj
 name: Lou
 autonym: null
+alt_names: [Admiralitäts-inseln, Baluan-Lou-Pam]
 population: 1000
 country_id: PG
 country_name: Papua New Guinea

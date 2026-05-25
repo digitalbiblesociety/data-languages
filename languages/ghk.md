@@ -2,6 +2,7 @@
 iso: ghk
 name: Geko Karen
 autonym: Gaikho
+alt_names: ["Gek'o", Gekho, Ghekhol, Ghekhu, Gheko, "Karen, Geko", "Karen,Geko", Kekaungdu, Kekhong, Keku, Padaung]
 population: 9500
 country_id: MM
 country_name: Myanmar

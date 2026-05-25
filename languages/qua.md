@@ -2,6 +2,7 @@
 iso: qua
 name: Quapaw
 autonym: " O-gah-pah"
+alt_names: [Alkansea, Arkans, Arkansas, Capa, Kwapa, Kwapaw, Ogaxpa]
 population: 159
 country_id: US
 country_name: United States

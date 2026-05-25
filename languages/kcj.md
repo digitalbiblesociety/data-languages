@@ -2,6 +2,7 @@
 iso: kcj
 name: Kobiana
 autonym: Buy
+alt_names: [Cobiana, Guboy, Uboi]
 population: 1090
 country_id: GW
 country_name: "Guinea-Bissau"

@@ -2,6 +2,7 @@
 iso: tcn
 name: Tichurong
 autonym: "Ü-Tsang"
+alt_names: [Ticherong]
 population: 2420
 country_id: NP
 country_name: Nepal

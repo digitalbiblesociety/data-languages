@@ -2,6 +2,7 @@
 iso: zmr
 name: Maranunggu
 autonym: Maranunggu
+alt_names: [Ami, Amijangal, Emmi, Emmiyangal, Manhthi Yangal, Maramanunggu, Maran-ungo, Maranjwarrgat, Maranuka, Maranunga, Maranunggo, Maranungku, Maranungo, Maringa, Maringar, Marinunggo, Marra Warrgat, Marrangungu, Marranj Warrgat, Marranunga, Marranungga, Menhtha, Merranunggu, Murununga, Warrgat, Western Daly language.]
 population: 15
 country_id: AU
 country_name: Australia

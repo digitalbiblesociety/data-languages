@@ -2,6 +2,7 @@
 iso: nuw
 name: Nguluwan
 autonym: null
+alt_names: [Phonology from Ulithian and grammar and lexicon from Yapese.]
 population: 50
 country_id: FM
 country_name: Micronesia

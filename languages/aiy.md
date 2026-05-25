@@ -2,6 +2,7 @@
 iso: aiy
 name: Ali
 autonym: null
+alt_names: ["'Bofi", Ngbaka, Ngbaka-Manza, Ngbaka-Minagende, Ngbaka-Minangende]
 population: 35000
 country_id: CF
 country_name: Central African Republic

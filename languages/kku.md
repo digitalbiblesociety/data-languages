@@ -2,6 +2,7 @@
 iso: kku
 name: Tumi
 autonym: Kitimi
+alt_names: [Tutumi]
 population: 2270
 country_id: NG
 country_name: Nigeria

@@ -2,6 +2,7 @@
 iso: pze
 name: Pesse
 autonym: Barawa
+alt_names: [Groupe Polci, Palchi, Palci, Polchi, Polci, Polshi, Posa, Posanchi, Posi, Posə, Pəlci]
 population: 22000
 country_id: NG
 country_name: Nigeria

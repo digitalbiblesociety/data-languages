@@ -2,6 +2,7 @@
 iso: gew
 name: Gera
 autonym: Fyandigere
+alt_names: [Gerawa]
 population: 200000
 country_id: NG
 country_name: Nigeria

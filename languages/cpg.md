@@ -1,7 +1,9 @@
 ---
 iso: cpg
 name: Cappadocian Greek
+name_zh: 卡帕多西亚希腊语
 autonym: null
+alt_names: [Asia Minor Greek, Capadoci, Cappadocian, Cappadocien, Grec cappadocien (Grèce), Grec cappadocien (Turquie), "Greek, Cappadocian", Grego capadocio, Gresianeg Kappadokia, Griego capadocio (Turquía), Kapadokya Yunancası, Kapadóčtina, Kappadokische Sprache, Kappadokiska, Καππαδοκική διάλεκτος, Каппадокийский язык, Каппадокійська мова]
 population: 2800
 country_id: GR
 country_name: Greece

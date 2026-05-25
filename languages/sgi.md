@@ -2,6 +2,7 @@
 iso: sgi
 name: Suga
 autonym: Nizaa
+alt_names: ["\"Jemjem\"", "\"Njemnjem\"", "\"Nyamnyam\"", Galim, Ssuga]
 population: 10000
 country_id: CM
 country_name: Cameroon

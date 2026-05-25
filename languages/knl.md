@@ -2,6 +2,7 @@
 iso: knl
 name: Keninjal
 autonym: Dayak Kaninjal
+alt_names: [Dayak, Kaninjal, Kaninjal Dayak]
 population: 32000
 country_id: ID
 country_name: Indonesia

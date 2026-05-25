@@ -1,7 +1,9 @@
 ---
 iso: chz
 name: Ozumacín Chinantec
+name_zh: 奧蘇馬辛奇南特克語
 autonym: "Chinantec, Ozumacín"
+alt_names: [Chinantec, Chinanteco, Chinanteco de Ayotzintepec, Chinanteco del sureste alto, Chinanteko, Juujmii, Ozumacin Chinantec, Upper Southeastern Chinantec, jumi dsa mojai]
 population: 3140
 country_id: MX
 country_name: Mexico

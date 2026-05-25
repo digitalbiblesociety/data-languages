@@ -2,6 +2,7 @@
 iso: mbw
 name: Maring
 autonym: " Yoadabe-Watoare"
+alt_names: [Mareng]
 population: 13000
 country_id: PG
 country_name: Papua New Guinea

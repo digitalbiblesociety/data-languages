@@ -1,7 +1,9 @@
 ---
 iso: kkh
 name: Khün
+name_zh: 傣痕语
 autonym: ᨴᩱ᩠ᨿᨡᩨ᩠ᨶ
+alt_names: [Gon Shan, Hkun, Khuen, Khun, Khun Shan, Khyn, Kuen, Lenga khün, Tai Khun, Tai-Khuen, ภาษาไทเขิน]
 population: 106880
 country_id: MM
 country_name: Myanmar

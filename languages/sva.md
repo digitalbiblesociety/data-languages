@@ -1,7 +1,9 @@
 ---
 iso: sva
 name: Svan
+name_zh: 斯凡语
 autonym: ლუშნუ ნინ Lušnu nin
+alt_names: [Idioma esvano, Język swański, Lingua svan, Língua svan, Svanca, Svane, Svaneg, Svanetiska, Svanetià, Svanin kieli, Svanisk, Svančina, Swaansche Spraak, Swanische Sprache, Szván nyelv, lušnu nin, svanuri ena, Сван чĕлхи, Свански јазик, Сванська мова, лушну нин, сванский язык, סוואנית, ภาษาสวาน, ლუშნუ ნინ, სვანური ენა, スヴァン語]
 population: 15000
 country_id: GE
 country_name: Georgia

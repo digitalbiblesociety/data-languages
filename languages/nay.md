@@ -2,6 +2,7 @@
 iso: nay
 name: Ngarrindjeri
 autonym: Ngarinyeri
+alt_names: [Alkaiyana, Jaralde, Jaraldi, Jarildekald, Jarildikald, Jarildukald, Koiyana, Kokkaiya, Korariga, Kororega, Kowrarega, Lakalinyeri, Meintangk, Narinjari, Narinyerrie, Narrinjeri, Narrinyeri, Narrinyerree, Piccanini Murray people, Pirtulun, Ramindjeri, Tanganukald, Warawalde, Warki, Wathai yunu, Yalawarre, Yaralde, Yaraldi, Yarilde, Yarildewallin, Yarrildie]
 population: 312
 country_id: AU
 country_name: Australia

@@ -2,6 +2,7 @@
 iso: mdj
 name: Mangbetu
 autonym: Nemangbetu
+alt_names: [Amangbetu, Kingbetu, Mambetto, Mangbettu]
 population: 620000
 country_id: CD
 country_name: DR Congo

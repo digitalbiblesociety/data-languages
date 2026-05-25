@@ -2,6 +2,7 @@
 iso: mbv
 name: Mbulungish
 autonym: Baga Foré
+alt_names: [Baga Monson, Black Baga, Bulunits, Longich, Monchon, Monshon]
 population: 5000
 country_id: GN
 country_name: Guinea

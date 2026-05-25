@@ -2,6 +2,7 @@
 iso: kra
 name: Kumhali
 autonym: Kumali
+alt_names: ["Kum?le", Kumbale, Kumhale, Kumkale]
 population: 6530
 country_id: NP
 country_name: Nepal

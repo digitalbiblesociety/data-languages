@@ -2,6 +2,7 @@
 iso: elh
 name: El Hugeirat
 autonym: El Hagarat
+alt_names: [Nubian (Hill)]
 population: 50
 country_id: SD
 country_name: Sudan

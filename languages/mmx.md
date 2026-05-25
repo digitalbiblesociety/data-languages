@@ -2,6 +2,7 @@
 iso: mmx
 name: Madak
 autonym: null
+alt_names: [Lelet, Mandak, Neu-Mecklenburg]
 population: 3000
 country_id: PG
 country_name: Papua New Guinea

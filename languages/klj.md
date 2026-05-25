@@ -1,7 +1,9 @@
 ---
 iso: klj
 name: Turkic Khalaj
+name_zh: 卡拉吉語
 autonym: Arghu
+alt_names: [Azerbaijani, "C'halajeg", Chaladsch, Chaladschische Sprache, Haladžin kieli, Halaçça, Jalái, Khaladj, Khalaj, Khalaj language, "Khalaj, Turkic", Xələc dili, Халаджки език, Халаджский язык, Халајски јазик, زبان خلجی, ภาษาคาลาซ, 칼라지어]
 population: 53900
 country_id: IR
 country_name: Iran

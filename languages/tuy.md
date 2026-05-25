@@ -2,6 +2,7 @@
 iso: tuy
 name: Tugen
 autonym: North Tugen
+alt_names: [Kamasya, Nandi, North Tuken, South Tugen, "Tugen, North", Tuken]
 population: 198000
 country_id: KE
 country_name: Kenya

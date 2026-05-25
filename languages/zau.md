@@ -1,7 +1,9 @@
 ---
 iso: zau
 name: Zangskari
+name_zh: 桑斯嘎语
 autonym: Zanskari
+alt_names: ["Z'angkar", Zangs-dkar, Zaskari]
 population: 12000
 country_id: IN
 country_name: India

@@ -1,7 +1,9 @@
 ---
 iso: shn
 name: Shan
+name_zh: 掸语
 autonym: Tai
+alt_names: ["\"Ngeo\"", "\"Ngiao\"", "\"Ngiaw\"", "\"Ngio\"", "\"Ngiow\"", Chaneg, Great Thai, Język szan, Língua shan, Mau, Sam, Sha, Sha(n), Tai Luang, Tai Shan, Tai Yai, Taishan, Thai Yai, chan, Šanų kalba, Шанский язык, ภาษาไทใหญ่, ພາສາໄທໃຫຍ່, シャン語, 掸语]
 population: 4658000
 country_id: MM
 country_name: Myanmar

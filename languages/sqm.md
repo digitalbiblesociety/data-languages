@@ -2,6 +2,7 @@
 iso: sqm
 name: Suma
 autonym: Souma
+alt_names: ["'Bokoto", Gbanu, Gbaya, Gbeya, Kara, Southern Gbaya]
 population: 50000
 country_id: CF
 country_name: Central African Republic

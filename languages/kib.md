@@ -2,6 +2,7 @@
 iso: kib
 name: Koalib
 autonym: Rere
+alt_names: [Abri, Kawalib, Kowalib, Lgalige, Ngirere, Nirere]
 population: 100000
 country_id: SD
 country_name: Sudan

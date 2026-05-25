@@ -2,6 +2,7 @@
 iso: ckl
 name: Cibak
 autonym: Kyibaku
+alt_names: [Chibak, Chibbak, Chibbuk, Chibok, Chibuk, Cibak jezik, Kibbaku, Kikuk, Tchibakeg]
 population: 200000
 country_id: NG
 country_name: Nigeria

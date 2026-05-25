@@ -1,6 +1,7 @@
 ---
 iso: bjs
 name: Bajan
+name_zh: 巴詹克里奧爾語
 autonym: Barbadian Creole English
 population: 256000
 country_id: BB

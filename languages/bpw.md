@@ -2,6 +2,7 @@
 iso: bpw
 name: Bo (Papua New Guinea)
 autonym: Sorimi
+alt_names: [Bo, Po]
 population: 85
 country_id: PG
 country_name: Papua New Guinea

@@ -2,6 +2,7 @@
 iso: nxl
 name: South Nuaulu
 autonym: Fatakai
+alt_names: [Nuaulu, "Nuaulu, South", Patakai]
 population: 1500
 country_id: ID
 country_name: Indonesia

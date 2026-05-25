@@ -1,7 +1,9 @@
 ---
 iso: nkp
 name: Niuatoputapu
+name_zh: 纽阿托普塔语
 autonym: Lea Faka-Niuatoputapu / Faka-Niuataputapu
+alt_names: [Tonga]
 population: null
 country_id: TO
 country_name: Tonga

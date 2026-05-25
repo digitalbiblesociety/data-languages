@@ -2,6 +2,7 @@
 iso: bge
 name: Bauria
 autonym: Babri
+alt_names: [Badak, Baori, Basria, Bawari, Bawaria, Bhoria, Vaghri]
 population: 63000
 country_id: IN
 country_name: India

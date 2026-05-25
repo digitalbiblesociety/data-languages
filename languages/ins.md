@@ -1,7 +1,9 @@
 ---
 iso: ins
 name: Indian Sign Language
+name_zh: 印度手语
 autonym: "Indo-Pakistani Sign Language"
+alt_names: [Indo-Pakistani Sign Language (Indian dialects), Língua de Sinais Indiana, Urban Indian Sign Language]
 population: 6815000
 country_id: IN
 country_name: India

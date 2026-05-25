@@ -2,6 +2,7 @@
 iso: ndz
 name: Ndogo
 autonym: null
+alt_names: [Sudan]
 population: 48000
 country_id: SS
 country_name: South Sudan

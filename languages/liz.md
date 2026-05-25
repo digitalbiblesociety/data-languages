@@ -2,6 +2,7 @@
 iso: liz
 name: Libinza
 autonym: Libinza
+alt_names: [Libinja]
 population: 10000
 country_id: CD
 country_name: DR Congo

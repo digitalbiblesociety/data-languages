@@ -1,7 +1,9 @@
 ---
 iso: zts
 name: Tilquiapan Zapotec
+name_zh: 蒂爾基亞潘薩波特克語
 autonym: San Miguel Tilquiápam
+alt_names: [Central Sapoteko, Zapotec, "Zapotec, Tilquiapan", Zapoteco de San Felipe Tejalápam, Zapoteco de San Miguel Tilquiapan, Zapotèque de San Felipe Tejalapan]
 population: 7000
 country_id: MX
 country_name: Mexico

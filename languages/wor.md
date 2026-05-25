@@ -2,6 +2,7 @@
 iso: wor
 name: Woria
 autonym: null
+alt_names: [Yoki]
 population: null
 country_id: ID
 country_name: Indonesia

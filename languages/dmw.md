@@ -2,6 +2,7 @@
 iso: dmw
 name: Mudburra
 autonym: Madbara
+alt_names: [Karranga, Moodburra, Mootburra, Mudbara, Mudbarra, Mudbera, Mudbra, Mudbura, Mulpira, Mutburra, Mutpura, Mutpurra, Pinkangama]
 population: 92
 country_id: AU
 country_name: Australia

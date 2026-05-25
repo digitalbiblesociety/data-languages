@@ -1,7 +1,9 @@
 ---
 iso: ats
 name: Gros Ventre
+name_zh: 格羅斯文特语
 autonym: Ahahnelin
+alt_names: [Ahe, Ananin, Arapaho-Atsina, Atsina, Atsina (gros ventre), Aáni, Fall Indians, Gros Ventres, Northern Arapaho, White Clay People]
 population: 2000
 country_id: US
 country_name: United States

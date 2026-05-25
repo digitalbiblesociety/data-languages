@@ -1,7 +1,9 @@
 ---
 iso: crm
 name: Moose Cree
+name_zh: 穆斯克里语
 autonym: Ililîmowin
+alt_names: [Clisteno moose, Cree, Cree de Moose, "Cree, Moose", Eastern Swampy Cree, West Main Cree, West Shore Cree, York Cree]
 population: 4500
 country_id: CA
 country_name: Canada

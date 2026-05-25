@@ -2,6 +2,7 @@
 iso: opt
 name: Opata
 autonym: Eudeve
+alt_names: [Cahita, Dohema, Endeve, Heve, Opata-Eudeve, Opatan, Teguima, Ópata]
 population: null
 country_id: MX
 country_name: Mexico

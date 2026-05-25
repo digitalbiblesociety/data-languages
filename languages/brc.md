@@ -2,6 +2,7 @@
 iso: brc
 name: Berbice Creole Dutch
 autonym: null
+alt_names: [Batava Berbicensis, Berbice, Berbice Dutch, Berbice Dutch Creole, Berbice-Nederlands, Berbice-Niederländisch, Berbice-nederlandsk, Berbiceko nederlandera, Creole (Berbice Dutch), "Creole Dutch, Berbice", Créole néerlandais de Berbice, Dutch Creole]
 population: null
 country_id: GY
 country_name: Guyana

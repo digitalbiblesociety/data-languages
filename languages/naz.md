@@ -2,6 +2,7 @@
 iso: naz
 name: Coatepec Nahuatl
 autonym: Coatepec Aztec
+alt_names: [Central Nawa, Mexicano, Nahua central, Nahuatl, "Nahuatl, Coatepec", Náhuatl central, Náhuatl de Coatepec]
 population: 1400
 country_id: MX
 country_name: Mexico

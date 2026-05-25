@@ -1,7 +1,9 @@
 ---
 iso: zgb
 name: Guibei Zhuang
+name_zh: 桂北壯語
 autonym: Hoedyaej
+alt_names: [Chuang, Guibei, Zhuang, "Zhuang, Guibei"]
 population: 1500000
 country_id: CN
 country_name: China

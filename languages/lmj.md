@@ -2,6 +2,7 @@
 iso: lmj
 name: West Lembata
 autonym: West Lembata
+alt_names: [Labalekan, "Lembata, West", Mingar]
 population: 8000
 country_id: ID
 country_name: Indonesia

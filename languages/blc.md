@@ -1,7 +1,9 @@
 ---
 iso: blc
 name: Bella Coola
+name_zh: 努哈爾克語
 autonym: Bella Coola
+alt_names: [Bella-Coola, Bellacoola, Bilcula, Język nuxálk, Lenga bella coola, Nass, Nuxalk, Nuxálk, Nuxálk language]
 population: 700
 country_id: CA
 country_name: Canada

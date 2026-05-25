@@ -2,6 +2,7 @@
 iso: wat
 name: Kaninuwa
 autonym: Wataluma
+alt_names: [Kaokao]
 population: 800
 country_id: PG
 country_name: Papua New Guinea

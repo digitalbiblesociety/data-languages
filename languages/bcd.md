@@ -2,6 +2,7 @@
 iso: bcd
 name: North Babar
 autonym: null
+alt_names: ["Babar, North"]
 population: 1000
 country_id: ID
 country_name: Indonesia

@@ -2,6 +2,7 @@
 iso: bbp
 name: West Central Banda
 autonym: Golo
+alt_names: ["Banda, West Central"]
 population: 1000
 country_id: CF
 country_name: Central African Republic

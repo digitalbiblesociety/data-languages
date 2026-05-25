@@ -1,6 +1,7 @@
 ---
 iso: bal
 name: Baluchi
+name_zh: 俾路支语
 autonym: بلۏچی
 population: 7600000
 country_id: IR

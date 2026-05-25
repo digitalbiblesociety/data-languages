@@ -2,6 +2,7 @@
 iso: skv
 name: Skou
 autonym: Tumawo
+alt_names: [Nuclear Skou, Seko, Sekol, Sekou, Sko, Skouw, Skow, Sukou, Səkou, Te Mawo, Te Máwo pílang nè ne]
 population: 700
 country_id: ID
 country_name: Indonesia

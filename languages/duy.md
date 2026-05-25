@@ -2,6 +2,7 @@
 iso: duy
 name: Dicamay Agta
 autonym: Dicamay Dumagat
+alt_names: [Agta de Dicamay, "Agta, Dicamay"]
 population: null
 country_id: PH
 country_name: Philippines

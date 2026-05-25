@@ -2,6 +2,7 @@
 iso: bko
 name: "Kwa'"
 autonym: Bakoa
+alt_names: [Bakwa, Bamileke-Kwa]
 population: 1000
 country_id: CM
 country_name: Cameroon

@@ -2,6 +2,7 @@
 iso: pfa
 name: Pááfang
 autonym: pworausen Pááféng
+alt_names: [Paafang, Pááfango]
 population: 1320
 country_id: FM
 country_name: Micronesia

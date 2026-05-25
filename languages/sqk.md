@@ -1,6 +1,7 @@
 ---
 iso: sqk
 name: Albanian Sign Language
+name_zh: 阿尔巴尼亚手语
 autonym: AlbSL
 population: 24100
 country_id: AL

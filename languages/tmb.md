@@ -2,6 +2,7 @@
 iso: tmb
 name: Katbol
 autonym: Katbol
+alt_names: [Avava, Bangsa’, Mallicolo, Navava, Taremp, Tembimbe-Katbol, Tisvel]
 population: 700
 country_id: VU
 country_name: Vanuatu

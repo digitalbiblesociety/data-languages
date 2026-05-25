@@ -2,6 +2,7 @@
 iso: kcr
 name: Katla
 autonym: Kaalak
+alt_names: [Akalak, Catla, Kalak]
 population: 14200
 country_id: SD
 country_name: Sudan

@@ -1,7 +1,9 @@
 ---
 iso: wxa
 name: Waxianghua
+name_zh: 瓦乡话
 autonym: " Wogang"
+alt_names: [Vasianhuá, Waxiang, Xianghua]
 population: 300000
 country_id: CN
 country_name: China

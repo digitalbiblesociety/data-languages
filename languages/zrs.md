@@ -2,6 +2,7 @@
 iso: zrs
 name: Mairasi
 autonym: Faranyao
+alt_names: [Faranjao, Faranjo, Kaniran, Northeastern Mairasi]
 population: 3300
 country_id: ID
 country_name: Indonesia

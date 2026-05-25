@@ -1,7 +1,9 @@
 ---
 iso: mjw
 name: Karbi
+name_zh: 卡尔比语
 autonym: Arleng
+alt_names: ["\"Mikir\"", "\"Mikiri\"", Arleng Alam, Karbi Karbak, Manchati, Mikir, Miquirés, Naga-Mikir, Nihang, Puta]
 population: 529000
 country_id: IN
 country_name: India

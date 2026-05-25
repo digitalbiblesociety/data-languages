@@ -2,6 +2,7 @@
 iso: xkb
 name: Northern Nago
 autonym: Ana
+alt_names: ["Ede Nago, Manigri-Kambolé", Kambolé, Manigri, Manigri-Kambole Ede Nago, "Nago, Northern", Southwest Ede]
 population: 86800
 country_id: BJ
 country_name: Benin

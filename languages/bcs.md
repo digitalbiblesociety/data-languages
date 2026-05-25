@@ -2,6 +2,7 @@
 iso: bcs
 name: Kohumono
 autonym: Kohumono
+alt_names: [Bahumono, Ediba, Ekumuru, Humono, Ohumono]
 population: 30000
 country_id: NG
 country_name: Nigeria

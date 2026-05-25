@@ -2,6 +2,7 @@
 iso: mpi
 name: Mpade
 autonym: Makari
+alt_names: [Kotoko-Makari, Mackeri, Makary, Mandage, Mandague, Mandagué, Mendage]
 population: 16000
 country_id: CM
 country_name: Cameroon

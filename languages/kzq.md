@@ -2,6 +2,7 @@
 iso: kzq
 name: Kaike
 autonym: Magar Kaike
+alt_names: [Tarali Kham]
 population: 790
 country_id: NP
 country_name: Nepal

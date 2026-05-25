@@ -1,6 +1,7 @@
 ---
 iso: pox
 name: Polabian
+name_zh: 波拉比語
 autonym: Wenske
 population: null
 country_id: DE

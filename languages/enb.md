@@ -2,6 +2,7 @@
 iso: enb
 name: Markweeta
 autonym: Marakwet
+alt_names: [Endo, Endo-Marakwet, Marakuet, Markweta, Talai]
 population: 129000
 country_id: KE
 country_name: Kenya

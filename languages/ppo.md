@@ -2,6 +2,7 @@
 iso: ppo
 name: Folopa
 autonym: null
+alt_names: [Foraba, Keai, Podoba, Podopa, Polopa, Ro, Sesa, Worugi]
 population: 3200
 country_id: PG
 country_name: Papua New Guinea

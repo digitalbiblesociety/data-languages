@@ -1,7 +1,9 @@
 ---
 iso: xib
 name: Iberian
+name_zh: 伊比利亞語
 autonym: null
+alt_names: [Ibereg, Iberiko, Iberisch, Iberische Sprache, Iberisk, Ibère, Ibèric, Ibér nyelv, Idioma ibero, Język iberyjski, Lingua ibérica, Иберский язык, 이베리아어]
 population: null
 country_id: ES
 country_name: Spain

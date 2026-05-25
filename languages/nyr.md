@@ -2,6 +2,7 @@
 iso: nyr
 name: Nyiha (Malawi)
 autonym: Ishinyiha
+alt_names: [Nyiha]
 population: 10000
 country_id: MW
 country_name: Malawi

@@ -2,6 +2,7 @@
 iso: tbz
 name: Ditammari
 autonym: Ditammari
+alt_names: ["\"Somba\"", Ditamari, Soma, Somba, Some, Tamari, Tamberma]
 population: 245300
 country_id: BJ
 country_name: Benin

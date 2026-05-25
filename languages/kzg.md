@@ -1,7 +1,9 @@
 ---
 iso: kzg
 name: Kikai
+name_zh: 喜界語
 autonym: シマユミタ
+alt_names: [Ryukyuan]
 population: 13066
 country_id: JP
 country_name: Japan

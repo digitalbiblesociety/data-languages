@@ -2,6 +2,7 @@
 iso: yan
 name: Mayangna
 autonym: Sumu
+alt_names: [Sumo, Sumo-Mayangna, Ulua, Ulwa, Ulúa, Woolwa]
 population: 8700
 country_id: NI
 country_name: Nicaragua

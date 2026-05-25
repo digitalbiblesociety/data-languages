@@ -2,6 +2,7 @@
 iso: wyr
 name: Wayoró
 autonym: Ajurú
+alt_names: [Ajuru, Ayuru, Ayurú, Huayoró, Uaiora, Uaioró, Wajaru, Wayoro, Wayru, Wayurú]
 population: null
 country_id: BR
 country_name: Brazil

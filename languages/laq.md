@@ -1,7 +1,9 @@
 ---
 iso: laq
 name: Qabiao
+name_zh: 普标语
 autonym: Laqua
+alt_names: [Bendi Lolo, Bubiao, Ka Bao, Ka Beo, Ka Biao, KaBeo, Pen Ti Lolo, Pu Peo, Pu Péo, Pubiao, Pupeo, ภาษากวาเบียว, 普標語]
 population: 307
 country_id: VN
 country_name: Vietnam

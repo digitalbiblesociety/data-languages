@@ -1,7 +1,9 @@
 ---
 iso: ddn
 name: Dendi (Benin)
+name_zh: 登迪语
 autonym: Dandawa
+alt_names: [Dendi]
 population: 270050
 country_id: BJ
 country_name: Benin

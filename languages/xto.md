@@ -1,7 +1,9 @@
 ---
 iso: xto
 name: Tokharian A
+name_zh: 焉耆语
 autonym: tkaṃ
+alt_names: [Agnean, Eastern Tocharian, Eastern Tokharian, Karashahrian, Tocharian A, Tokahrian, Turfanian]
 population: null
 country_id: CN
 country_name: China

@@ -1,7 +1,9 @@
 ---
 iso: gor
 name: Gorontalo
+name_zh: 哥伦打洛语
 autonym: Bahasa Hulontalo
+alt_names: [Bahasa Gorontalo, Hulontalo]
 population: 505000
 country_id: ID
 country_name: Indonesia

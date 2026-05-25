@@ -2,6 +2,7 @@
 iso: cuj
 name: Mashco Piro
 autonym: Cujareño
+alt_names: ["\"Mashco\"", Cujareno, Mashco, Piro, Yine]
 population: 60
 country_id: PE
 country_name: Peru

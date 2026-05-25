@@ -2,6 +2,7 @@
 iso: zte
 name: Elotepec Zapotec
 autonym: (San Juan Elotepec)
+alt_names: [Elotepec, Elotepec Papabuco, Northern Sapoteko, Papabuco, Zapotec, "Zapotec, Elotepec", Zapoteco de San Juan Elotepec]
 population: 200
 country_id: MX
 country_name: Mexico

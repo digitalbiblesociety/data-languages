@@ -2,6 +2,7 @@
 iso: cjp
 name: Cabécar
 autonym: Chirripó
+alt_names: [Cabecar, Chiripo, Estrella, Kabékar, Tucurrique]
 population: 7072
 country_id: CR
 country_name: Costa Rica

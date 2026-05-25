@@ -2,6 +2,7 @@
 iso: clh
 name: Chilisso
 autonym: Chiliss
+alt_names: [Chiliso, Dardu, Galos, Lenga chilisso]
 population: 2300
 country_id: PK
 country_name: Pakistan

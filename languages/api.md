@@ -1,7 +1,9 @@
 ---
 iso: api
 name: Apiaká
+name_zh: 阿皮阿卡語
 autonym: Apiacá
+alt_names: [Apiaka, Apiake]
 population: 190
 country_id: BR
 country_name: Brazil

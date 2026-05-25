@@ -2,6 +2,7 @@
 iso: hya
 name: Hya
 autonym: Ghye
+alt_names: [Hya jezik, Hyaeg, Za]
 population: 940
 country_id: CM
 country_name: Cameroon

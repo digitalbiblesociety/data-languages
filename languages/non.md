@@ -1,7 +1,9 @@
 ---
 iso: non
 name: Old Norse
+name_zh: 古诺尔斯语
 autonym: dǫnsk tunga
+alt_names: [Altnordisch, Altnordische Sprache, Antigo nórdico, Eski Nors dili, Fornnordiska, Fornnorræna, Język staronordyjski, Limba nordică veche, Lingua Nordica antiqua, Lingua norrena, Língua nórdica antiga, Muinaisnorja, Norena lingvo, Noroèc, Norrønt, Norrønt språk, "Norse, Old", Norseg, Nòrdic antic, Nórdico antiguo, Oidnordische Sproch, Oudnoords, Oudnoors, Sean-Lochlannais, Sennorvēģu valoda, Senovės skandinavų kalba, Staroseverčina, Stará severština, Vanapõhja keel, Vieux norrois, altnordische, "norrois, vieux", Óészaki nyelv, Αρχαία σκανδιναβική γλώσσα, Давньоісландська мова, Древнеисландский язык, Нордически език, נורדית עתיקה, قدیمˇ اسکاندیناوی زوان, لغة إسكندنافية قديمة, ภาษานอร์สโบราณ, 古ノルド語, 古諾爾斯語, 고대 노르드어]
 population: null
 country_id: "NO"
 country_name: Norway

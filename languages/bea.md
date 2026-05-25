@@ -2,6 +2,7 @@
 iso: bea
 name: Beaver
 autonym: ᑕᓀᖚ ᖚᗀᐥ
+alt_names: [Castor, Dane-Zaa (Beaver), Dane-zaa Záágéʔ, Dunne-za, dʌnneza, ᑕᓀ ᖚ]
 population: 1560
 country_id: CA
 country_name: Canada

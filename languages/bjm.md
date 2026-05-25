@@ -2,6 +2,7 @@
 iso: bjm
 name: Bajelani
 autonym: گۆرانیî
+alt_names: [Bajalani, Bajoran, Bejwan, Chichamachu, Gurani, Hawrami]
 population: 20000
 country_id: IQ
 country_name: Iraq

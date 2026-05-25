@@ -2,6 +2,7 @@
 iso: wlg
 name: Kunbarlang
 autonym: Warlang
+alt_names: [Gambalang, Gambalanga, Geimbio, Gimbarlang, "Gunba:lan", "Gunba:lang", Gunbalag, Gunbalang, Gunbalong, Gunbarlang, Gunbulan, Gungalang, Gurmadja madja, Muralidban, Walang]
 population: null
 country_id: AU
 country_name: Australia

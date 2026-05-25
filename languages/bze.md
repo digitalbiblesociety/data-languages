@@ -2,6 +2,7 @@
 iso: bze
 name: Jenaama Bozo
 autonym: Boso
+alt_names: ["\"Boso\" Bozo", "Bozo, Jenaama", Corogaama, Corogama, Djenaama, Gbunde, Jenama, Nononke, Sarkanci, Sarkawa, Sorko, Sorogaama, Sorogama]
 population: 197000
 country_id: ML
 country_name: Mali

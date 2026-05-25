@@ -2,6 +2,7 @@
 iso: isi
 name: "Nkem-Nkum"
 autonym: Isibiri
+alt_names: [Nigeria, Nkem]
 population: 16500
 country_id: NG
 country_name: Nigeria

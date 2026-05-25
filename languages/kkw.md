@@ -1,7 +1,9 @@
 ---
 iso: kkw
 name: "Teke-Kukuya"
+name_zh: 喀麦隆地区语言
 autonym: Southern Teke
+alt_names: [Chikuya, Kikuwa, Koukouya, Kukuya dialect, Kukwa, Southern, Teke, Teke (Kukuya), Teke (South), Teke (Southern)]
 population: 38800
 country_id: CG
 country_name: Congo

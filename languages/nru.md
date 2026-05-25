@@ -1,7 +1,9 @@
 ---
 iso: nru
 name: Narua
+name_zh: 东部方言
 autonym: Na
+alt_names: [Yongning Na]
 population: 47000
 country_id: CN
 country_name: China

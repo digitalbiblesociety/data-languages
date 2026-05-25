@@ -2,6 +2,7 @@
 iso: bvl
 name: Bolivian Sign Language
 autonym: Lenguaje de Señas Bolivianas LSB
+alt_names: [Boliviansk tegnspråk, Língua Gestual Boliviana]
 population: 350
 country_id: BO
 country_name: Bolivia

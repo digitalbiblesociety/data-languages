@@ -2,6 +2,7 @@
 iso: iti
 name: Inlaod Itneg
 autonym: Tinggian
+alt_names: [Inlaod, "Itneg, Inlaod", Tinguian]
 population: 9000
 country_id: PH
 country_name: Philippines

@@ -2,6 +2,7 @@
 iso: myh
 name: Makah
 autonym: qʷi·qʷi·diččaq
+alt_names: [Kwe-Nee-Chee-Aht, Kweedishchaaht, Macaw]
 population: 2224
 country_id: US
 country_name: United States

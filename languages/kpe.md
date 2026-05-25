@@ -1,6 +1,7 @@
 ---
 iso: kpe
 name: Kpelle
+name_zh: 克佩列语
 autonym: "'Kpɛlɛwoo"
 population: null
 country_id: LR

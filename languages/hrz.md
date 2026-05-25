@@ -2,6 +2,7 @@
 iso: hrz
 name: Harzani
 autonym: Harzani
+alt_names: [Harzandi, Iran]
 population: 34900
 country_id: IR
 country_name: Iran

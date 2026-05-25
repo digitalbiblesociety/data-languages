@@ -1,7 +1,9 @@
 ---
 iso: tmm
 name: Tai Thanh
+name_zh: 傣奈语
 autonym: Tai Man Thanh
+alt_names: [Thanh, Táy Thanh]
 population: 20000
 country_id: VN
 country_name: Vietnam

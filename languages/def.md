@@ -1,7 +1,9 @@
 ---
 iso: def
 name: Dezfuli
+name_zh: 德茲富勒方言
 autonym: "Dezfuli-Shushtari"
+alt_names: [Dezhfili, Dizfuli]
 population: 340000
 country_id: IR
 country_name: Iran

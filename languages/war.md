@@ -1,7 +1,9 @@
 ---
 iso: war
 name: Waray (Philippines)
+name_zh: 瓦瑞語
 autonym: " Samar-Leyte Visayan"
+alt_names: [Bahasa Waray-waray, Binisaya, Bisaya, Idioma samareño, Język warajski, Pagsasao a Waray, Samar-Leyte, Samaran, Samareño, Sorsogon (Waray), Waray, Waray (Meso-Phillipines), Waray Waray, Waray-Waray, Wikang Waray-Waray, Winaray, Winarayeg, Wáray-Wáray, Wáray-Wáray-ngî, Варайский язык, ภาษาวาราย-วาราย, ዊናራይኛ, ワライ語]
 population: 2611110
 country_id: PH
 country_name: Philippines

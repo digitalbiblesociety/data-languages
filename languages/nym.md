@@ -1,7 +1,9 @@
 ---
 iso: nym
 name: Nyamwezi
+name_zh: 尼扬韦齐语
 autonym: Kinyamwesi
+alt_names: [Kinyamwezi, Namwezi, Nyamwesi]
 population: 1470000
 country_id: TZ
 country_name: Tanzania

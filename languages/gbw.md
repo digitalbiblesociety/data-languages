@@ -2,6 +2,7 @@
 iso: gbw
 name: "Gabi-Gabi"
 autonym: Kabikabi
+alt_names: [Cabee, Carby, Carby-carbery, Dhapil, Dhipil, Dippil, Dipple, Doon-dooburra, Doondoora, Dowarburra, Dundubara, Dunduura, Gabi, Gabigabi, Gubbi Gubbi, Kabbi, Kabi, Kabi Kabi, Kahby, Karabi, Karbi, Maiba]
 population: 24
 country_id: AU
 country_name: Australia

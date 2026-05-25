@@ -2,6 +2,7 @@
 iso: xyy
 name: Yorta Yorta
 autonym: Yotayota
+alt_names: ["'Ngarrimouro", Arramouro, Bangerang, Boonegatha, Echuca, Gunbowerooranditchgoole, Gunbowers, Jodajoda, Joti-jota, Jotijota, Kwart Kwart, Loddon tribe, Moira, Ngarrimowro, Unungun, Wol-lithiga, Woollathura, Yabola, Yoda-Yoda, Yodayoda, Yoorta, Yota, Yota Yota, Yota-Yota, Yoti Yoti, Yotta-Yotta, Youta]
 population: null
 country_id: AU
 country_name: Australia

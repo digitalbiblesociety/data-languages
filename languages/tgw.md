@@ -2,6 +2,7 @@
 iso: tgw
 name: Tagwana Senoufo
 autonym: Tagbana
+alt_names: ["Senoufo, Tagwana", Tafile, Tafire, Tafiri, Tagbona, Tagouna, Tagwana, Takponi, Takponin]
 population: 138000
 country_id: CI
 country_name: "Côte d'Ivoire"

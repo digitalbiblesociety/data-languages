@@ -1,7 +1,9 @@
 ---
 iso: cda
 name: Choni
+name_zh: 卓尼语
 autonym: "Thewo-Chone"
+alt_names: [Chona, Chone, Cone, Jone, 卓尼話]
 population: 154000
 country_id: CN
 country_name: China

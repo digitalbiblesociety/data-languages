@@ -2,6 +2,7 @@
 iso: cek
 name: Eastern Khumi Chin
 autonym: Khumi Chin
+alt_names: ["Chin, Eastern Khumi"]
 population: 12000
 country_id: MM
 country_name: Myanmar

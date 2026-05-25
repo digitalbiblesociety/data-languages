@@ -2,6 +2,7 @@
 iso: bpv
 name: Bian Marind
 autonym: Bian
+alt_names: [Boven Mbian, Boven-Mbian, "Marind, Bian", Northwest Marind]
 population: 2900
 country_id: ID
 country_name: Indonesia

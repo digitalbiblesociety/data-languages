@@ -1,7 +1,9 @@
 ---
 iso: bni
 name: Bangi
+name_zh: Bangi语
 autonym: Bobangi
+alt_names: [Bubangi, Bungi, Dzamba, Lobobangi, Rebu]
 population: 164340
 country_id: CD
 country_name: DR Congo

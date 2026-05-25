@@ -2,6 +2,7 @@
 iso: loo
 name: Lombo
 autonym: Olombo
+alt_names: [Turumbu, Ulumbu]
 population: 10000
 country_id: CD
 country_name: DR Congo

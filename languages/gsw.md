@@ -1,7 +1,9 @@
 ---
 iso: gsw
 name: Swiss German
+name_zh: 阿勒曼尼语
 autonym: Schwiizerdütsch
+alt_names: [Alemannic, Alemannisch, Alemany suís, Alemán de Suiza, Alsatian, Appenzel, Appenzell, Bahasa Jerman Swiss, Bern, Bärndütsch, German, German (Appenzell), German (Bern), German (Ostschweiz), German (Swiss Thürgau), German (Thurgau), German (Thürgau Swiss), German (Zurich), "German, Swiss", Język schwyzertüütsch, Lingua alemá de Suíza, Schweizerdeutsch, Schweizertysk, Schweizertyska, Schwizzerdüttsch, Schwytzertuetsch, Schwyzerdütsch, Sguizzer Todesch, Suisse allemand, Suíço-alemão, Sveitsertysk, Svisgermana lingvo, Svizzero tedesco, Sūi-se Tek-gí, Töitschu, Upper Alemannic, Zurich, Zwitserduits, alsacien, alémanique, d Schwyzerdütsch, suisse alémanique, Švýcarská němčina, גרמנית שווייצרית, সুইস জার্মান ভাষা, スイスドイツ語, 瑞士德语]
 population: 6434200
 country_id: CH
 country_name: Switzerland

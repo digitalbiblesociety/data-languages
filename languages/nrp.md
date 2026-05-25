@@ -1,7 +1,9 @@
 ---
 iso: nrp
 name: North Picene
+name_zh: 北皮塞恩語
 autonym: null
+alt_names: ["Picene, North"]
 population: null
 country_id: IT
 country_name: Italy

@@ -2,6 +2,7 @@
 iso: prq
 name: Ashéninka Perené
 autonym: Campa
+alt_names: ["\"Perené Campa\"", Ashaninca (Brésil), Ashaninka (Pérou), Asheninka Perene, Asháninca, Ashéninca Perené, Ashéninga, Atiri, Cogapacorí, Nanti, Perené Ashéninka, Upper Perené]
 population: 5500
 country_id: PE
 country_name: Peru

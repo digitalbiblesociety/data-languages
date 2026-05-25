@@ -2,6 +2,7 @@
 iso: cbg
 name: Chimila
 autonym: Caca Weranos
+alt_names: [Chamila, Chimile, Ette Ennaka, Ette Taara, San Jorge, Shimizya, Simiza]
 population: 2000
 country_id: CO
 country_name: Colombia

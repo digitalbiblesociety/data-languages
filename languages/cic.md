@@ -1,7 +1,9 @@
 ---
 iso: cic
 name: Chickasaw
+name_zh: 奇卡索語
 autonym: "Chikashshanompa'"
+alt_names: [Chicasa, Chikasa simi, Lengua chickasaw, Oklahoma, Tchikasaweg, Чикасо, சிக்காசோ மொழி]
 population: 1000
 country_id: US
 country_name: United States

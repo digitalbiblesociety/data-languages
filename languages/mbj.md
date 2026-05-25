@@ -2,6 +2,7 @@
 iso: mbj
 name: Nadëb
 autonym: Kaburi
+alt_names: [Anodöub, Kabari, Kabori, Kaburí language area, Macú nadeb, Makunadöbö, Makú Nadëb, Nadeb, Nadeb Macu, Nadobo, Nadëb branch, Nadöb, Nadöbo, Xiriwai, Xuriwai]
 population: 300
 country_id: BR
 country_name: Brazil

@@ -2,6 +2,7 @@
 iso: yuw
 name: Yau (Morobe Province)
 autonym: Uruwa
+alt_names: [Yau]
 population: 2380
 country_id: PG
 country_name: Papua New Guinea

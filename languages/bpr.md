@@ -2,6 +2,7 @@
 iso: bpr
 name: Blaan
 autonym: Bilaan
+alt_names: [Baraan, Bilanes, Biraan, "Blaan, Koronadal", Koronadal Bilaan, Koronadal Blaan, Tagalagad]
 population: 150000
 country_id: PH
 country_name: Philippines

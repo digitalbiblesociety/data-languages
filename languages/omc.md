@@ -1,7 +1,9 @@
 ---
 iso: omc
 name: Mochica
+name_zh: 莫奇卡语
 autonym: Ed muchik
+alt_names: [Chimu, Chimú, Mochicha, Mochika, Muchic, Muchik, Quingnam, Yunca, Yunga, Yunka]
 population: 1995
 country_id: PE
 country_name: Peru

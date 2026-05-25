@@ -2,6 +2,7 @@
 iso: bru
 name: Eastern Bru
 autonym: Bruu
+alt_names: [Baroo, Brou, Bru, Bru (Eastern), "Bru, Eastern", Bru/Vankieu, Eastern, Leu, Leung, "Moi-Cà-lò'", Muong Leong, Quang Tri Bru, Quàngtri Vân Kiêu, Tri, Van Kieu]
 population: 112400
 country_id: LA
 country_name: Laos

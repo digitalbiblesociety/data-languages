@@ -2,6 +2,7 @@
 iso: gau
 name: Mudhili Gadaba
 autonym: Gadaba
+alt_names: ["Gadaba, Mudhili", Gol Gadaba, Kondekar, Kondekor, Kondekor Gadaba, Kondkor, Mudhili, Salur, Salur Gadba, Salur Ollar Gadaba]
 population: 8000
 country_id: IN
 country_name: India

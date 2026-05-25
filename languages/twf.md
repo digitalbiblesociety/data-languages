@@ -2,6 +2,7 @@
 iso: twf
 name: Northern Tiwa
 autonym: null
+alt_names: [N. Tiwa, Northern, Picuris, "Picuris, Taos", Taos, Taos language, Tiwa, Tiwa (Northern), "Tiwa, Northern"]
 population: 1080
 country_id: US
 country_name: United States

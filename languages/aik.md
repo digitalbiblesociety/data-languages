@@ -2,6 +2,7 @@
 iso: aik
 name: Ake
 autonym: Aike
+alt_names: [Akye]
 population: 3000
 country_id: NG
 country_name: Nigeria

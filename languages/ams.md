@@ -1,7 +1,9 @@
 ---
 iso: ams
 name: "Southern Amami-Oshima"
+name_zh: 南奄美大島語
 autonym: "Southern Amami-Osima"
+alt_names: [Amami, Amami language, "Amami-Oshima, Southern", Amami-Osima, Amamieg, Amani, Idioma amami, Northern Ryukyuan, Oosima, Ryukyuan, ภาษาอะมามิ, 奄美方言]
 population: 1800
 country_id: JP
 country_name: Japan

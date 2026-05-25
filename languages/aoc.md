@@ -1,7 +1,9 @@
 ---
 iso: aoc
 name: Pemon
+name_zh: 佩蒙語
 autonym: Arecuna
+alt_names: [Idioma pemón, Kamarakóto, Pemon (Brésil), Pemon (République bolivarienne du Venezuela), Pemon simi, Pemona lingvo, Pemoneg, Pemong, Pemón, Pemón (Venezuela), Taulipang, Taurepan, Taurepang, Пемонский язык]
 population: 24080
 country_id: VE
 country_name: Venezuela

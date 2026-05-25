@@ -2,6 +2,7 @@
 iso: llu
 name: Lau
 autonym: null
+alt_names: [Südliche Salomons-Inseln]
 population: 16900
 country_id: SB
 country_name: Solomon Islands

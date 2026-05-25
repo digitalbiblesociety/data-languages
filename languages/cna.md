@@ -1,7 +1,9 @@
 ---
 iso: cna
 name: Changthang
+name_zh: 羌塘语
 autonym: Byangskat
+alt_names: [Byanskat, Changs-Skat, Changtang, Changtang Ladakhi, Ladak, Ladakhi, Rong, Rupshu, Stotpa, Upper Ladakhi]
 population: 10100
 country_id: IN
 country_name: India

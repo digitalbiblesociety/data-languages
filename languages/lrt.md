@@ -1,7 +1,9 @@
 ---
 iso: lrt
 name: Larantuka Malay
+name_zh: Larantuka話
 autonym: Bahasa Nagi
+alt_names: [Ende Malay, Larantuka, "Malay, Larantuka", Melayu Larantuka, Nagi]
 population: 20000
 country_id: ID
 country_name: Indonesia

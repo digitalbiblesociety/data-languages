@@ -1,7 +1,9 @@
 ---
 iso: fah
 name: Baissa Fali
+name_zh: 拜萨法利语
 autonym: Fali of Baissa
+alt_names: ["Fali, Baissa", Nigeria]
 population: null
 country_id: NG
 country_name: Nigeria

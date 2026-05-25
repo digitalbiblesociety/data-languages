@@ -2,6 +2,7 @@
 iso: kvw
 name: Wersing
 autonym: Kolana
+alt_names: [Kolana-Wersin, Warsina, Wersin]
 population: 3700
 country_id: ID
 country_name: Indonesia

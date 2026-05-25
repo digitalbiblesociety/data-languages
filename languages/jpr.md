@@ -1,7 +1,9 @@
 ---
 iso: jpr
 name: "Judeo-Persian"
+name_zh: 犹太-波斯语
 autonym: null
+alt_names: [Djudi, Dzhidi, Judi, judéo-persan]
 population: 55000
 country_id: IL
 country_name: Israel

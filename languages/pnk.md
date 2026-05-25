@@ -2,6 +2,7 @@
 iso: pnk
 name: Paunaka
 autonym: Paunaka
+alt_names: [Paiconeca, Pauna-Paicone, Pauna-Paikone, Paunaca]
 population: 10
 country_id: BO
 country_name: Bolivia

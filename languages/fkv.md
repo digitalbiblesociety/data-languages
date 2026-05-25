@@ -1,7 +1,9 @@
 ---
 iso: fkv
 name: Kven Finnish
+name_zh: 克文语
 autonym: kvääni
+alt_names: ["Finnish, Kven", Kveeni keel, Kveens, Kven, Kven language, Kvensk, Kvensk språk, Kvenski finski, Kvänska, Kvène, North Fennic, North Finnish, Ruijan murteet, Квен фински јазик]
 population: 6500
 country_id: "NO"
 country_name: Norway

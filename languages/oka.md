@@ -1,7 +1,9 @@
 ---
 iso: oka
 name: Okanagan
+name_zh: 奧卡諾根語
 autonym: Colville
+alt_names: [Colville-Okanagan, Nsilxcín, Nsyilxcen, Nsyilxcn, Nsyilxcən, Nsəlxcin, Okanagan-Colville, Okanagon, Okanagon Cluster, Okanogan, Okanogán, Okinagan, n̓səl̓̓xčin̓]
 population: 400
 country_id: CA
 country_name: Canada

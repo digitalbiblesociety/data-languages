@@ -1,6 +1,7 @@
 ---
 iso: kri
 name: Krio
+name_zh: 塞拉利昂克里奥尔语
 autonym: Krio
 population: 641900
 country_id: SL

@@ -2,6 +2,7 @@
 iso: bei
 name: "Bekati'"
 autonym: Bakati Nyam
+alt_names: [Bakatiq]
 population: 4000
 country_id: ID
 country_name: Indonesia

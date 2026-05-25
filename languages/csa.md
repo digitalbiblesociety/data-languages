@@ -2,6 +2,7 @@
 iso: csa
 name: Chiltepec Chinantec
 autonym: null
+alt_names: [Central Chinantec, Chiltepec, Chiltepec Chinanteko, Chiltepeco, Chinantec, "Chinantec, Chiltepec", Chinanteco, Chinanteco Central, Chinanteko, Lealao Chinantec, Palantla Chinantec, Usila Chinantec, Valle Nacional Chinantec, jajme dzä mii, "jmiih kia' dzä mii"]
 population: 1000
 country_id: MX
 country_name: Mexico

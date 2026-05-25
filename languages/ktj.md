@@ -2,6 +2,7 @@
 iso: ktj
 name: Plapo Krumen
 autonym: Plapo
+alt_names: [Krumen, "Krumen, Plapo"]
 population: 100
 country_id: CI
 country_name: "Côte d'Ivoire"

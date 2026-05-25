@@ -2,6 +2,7 @@
 iso: lai
 name: Lambya
 autonym: Ichilambya
+alt_names: [Ici-Rambia, Icilambya, Iramba, Lambia, Lambwa, Rambia]
 population: 106900
 country_id: MW
 country_name: Malawi

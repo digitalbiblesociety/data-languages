@@ -2,6 +2,7 @@
 iso: bff
 name: Bofi
 autonym: Ɓòfì
+alt_names: ["'Bofi", Ali, Boffi, Ngbaka, Ngbaka-Manza, Ngbaka-Minagende, Ngbaka-Minangende]
 population: 23500
 country_id: CF
 country_name: Central African Republic

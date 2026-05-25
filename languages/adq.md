@@ -2,6 +2,7 @@
 iso: adq
 name: Adangbe
 autonym: Adangbe
+alt_names: [Adan, Adantonwi, Agotime, Dangbe]
 population: 2200
 country_id: GH
 country_name: Ghana

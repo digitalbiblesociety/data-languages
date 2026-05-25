@@ -2,6 +2,7 @@
 iso: lor
 name: Téén
 autonym: Téén
+alt_names: [Loghon, Lorhon, Loron, Nabe, Teen, Tegesie, Tegesye, Tese, Ténhé]
 population: 6100
 country_id: CI
 country_name: "Côte d'Ivoire"

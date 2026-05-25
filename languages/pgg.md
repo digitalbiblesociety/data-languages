@@ -2,6 +2,7 @@
 iso: pgg
 name: Pangwali
 autonym: Pahari
+alt_names: [Paharí pangwalí, Pangi, Pangvali, Pangwali Pahari, Satlaj]
 population: 17000
 country_id: IN
 country_name: India

@@ -1,7 +1,9 @@
 ---
 iso: bez
 name: Bena (Tanzania)
+name_zh: 贝纳语
 autonym: Ekibena
+alt_names: [Bena, Kibena]
 population: 592000
 country_id: TZ
 country_name: Tanzania

@@ -2,6 +2,7 @@
 iso: llk
 name: Lelak
 autonym: null
+alt_names: [Malaysia]
 population: null
 country_id: MY
 country_name: Malaysia

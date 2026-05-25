@@ -2,6 +2,7 @@
 iso: qws
 name: Sihuas Ancash Quechua
 autonym: Huaylay
+alt_names: [Ancas, Ancash, Chinchaysuyo, Conchucos, North Central Kechua, Northern Quechua, "Quechua, Sihuas  Ancash"]
 population: 3000
 country_id: PE
 country_name: Peru

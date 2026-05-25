@@ -2,6 +2,7 @@
 iso: ccr
 name: Cacaopera
 autonym: null
+alt_names: [Kakaopera]
 population: null
 country_id: SV
 country_name: El Salvador

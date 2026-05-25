@@ -2,6 +2,7 @@
 iso: hmv
 name: Hmong Dô
 autonym: lus Hmoob / lug Moob / lol Hmongb
+alt_names: [Hmo, Hmong, Hmong Do, Hmung, Hsiung, Hunan Miao, Miao]
 population: null
 country_id: VN
 country_name: Vietnam

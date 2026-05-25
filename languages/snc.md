@@ -1,7 +1,9 @@
 ---
 iso: snc
 name: Sinaugoro
+name_zh: 西瑙高罗语
 autonym: null
+alt_names: [Balawaia, Saroa, Sinagoro]
 population: 18000
 country_id: PG
 country_name: Papua New Guinea

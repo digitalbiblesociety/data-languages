@@ -1,7 +1,9 @@
 ---
 iso: sbu
 name: Stod Bhoti
+name_zh: 藏语上蕃方言
 autonym: Stod Bhoti
+alt_names: [(s)Tod, "Bhoti, Stod", Lahul, Lahul Bhoti, Stod, Stod-Kad, StodBhoti, Tibetan, Tibetan (Central), Tod, Tod-Kad]
 population: 2500
 country_id: IN
 country_name: India

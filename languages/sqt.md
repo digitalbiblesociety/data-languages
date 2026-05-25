@@ -1,7 +1,9 @@
 ---
 iso: sqt
 name: Soqotri
+name_zh: 索科特拉语
 autonym: "méthel d-saqátri"
+alt_names: [Idioma socotorí, Idioma socotrí, Saqatri, Socotri, Sokotran kieli, Sokotranski jezik, Sokotreg, Sokotri, Sokotrų kalba, Soqotri hizkuntza, Soqotrí, Soqoṭri, Soqoṭri, Soqoṭrī, South Arabian, Suqutri, Сокотрийский язык, 소코트라어]
 population: 108000
 country_id: YE
 country_name: Yemen

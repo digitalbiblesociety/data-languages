@@ -2,6 +2,7 @@
 iso: gnh
 name: Lere
 autonym: null
+alt_names: [Nigeria]
 population: 16328
 country_id: NG
 country_name: Nigeria

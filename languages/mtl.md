@@ -2,6 +2,7 @@
 iso: mtl
 name: Montol
 autonym: Tɛɛl
+alt_names: [Baltap, Montal, Montoil, Teel]
 population: 21900
 country_id: NG
 country_name: Nigeria

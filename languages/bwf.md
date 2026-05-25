@@ -2,6 +2,7 @@
 iso: bwf
 name: Boselewa
 autonym: Bosalewa
+alt_names: [Bosilewa, "Mwani'u"]
 population: 1525
 country_id: PG
 country_name: Papua New Guinea

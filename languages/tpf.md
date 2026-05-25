@@ -2,6 +2,7 @@
 iso: tpf
 name: Tarpia
 autonym: Sufrai
+alt_names: [Tarfia]
 population: 630
 country_id: ID
 country_name: Indonesia

@@ -2,6 +2,7 @@
 iso: lsc
 name: Albarradas Sign Language
 autonym: Didxa ná’
+alt_names: [Lengua de señas Albarradas]
 population: 1000
 country_id: MX
 country_name: Mexico

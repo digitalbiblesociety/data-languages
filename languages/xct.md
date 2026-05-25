@@ -1,7 +1,9 @@
 ---
 iso: xct
 name: Classical Tibetan
+name_zh: 古典藏語
 autonym: null
+alt_names: ["Tibetan, Classical"]
 population: null
 country_id: NP
 country_name: Nepal

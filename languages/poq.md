@@ -2,6 +2,7 @@
 iso: poq
 name: Texistepec Popoluca
 autonym: "Wää 'oot"
+alt_names: [Popoluca, Popoluca de Texistepec, Popoluca de Texistepeco, "Popoluca, Texistepec", Soke, Teksistepekenyo, Texistepec, Texistepec Zoque, Texistepequeño, Texistepèque]
 population: 15779
 country_id: MX
 country_name: Mexico

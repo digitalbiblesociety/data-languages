@@ -2,6 +2,7 @@
 iso: kwd
 name: Kwaio
 autonym: Koio
+alt_names: [Südliche Salomons-Inseln]
 population: 13200
 country_id: SB
 country_name: Solomon Islands

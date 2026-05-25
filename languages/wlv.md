@@ -2,6 +2,7 @@
 iso: wlv
 name: Wichí Lhamtés Vejoz
 autonym: Mataco Vejoz
+alt_names: [Aiyo, Hueshuo, Mataco, Mataco Güisnay, Mataco Pilcomayo, Matako, Pilcomayo Wichí, Vejos, Vejoz, Wichi Lhamtes Vejoz, Wichí, Wichí Lhamtés Güisnay]
 population: 25000
 country_id: AR
 country_name: Argentina

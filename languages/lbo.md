@@ -1,7 +1,9 @@
 ---
 iso: lbo
 name: Laven
+name_zh: 吉盧語
 autonym: " ຈຼ໌ຣູະ"
+alt_names: [Boloven, Boriwen, Jaru, Jru, "Jru'", Jruq, Jəru-Sprachen, Laweenjru, Lawen, Loven]
 population: 56400
 country_id: LA
 country_name: Laos

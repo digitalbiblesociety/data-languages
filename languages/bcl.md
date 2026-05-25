@@ -1,7 +1,9 @@
 ---
 iso: bcl
 name: Central Bikol
+name_zh: 中比科尔语
 autonym: Bikol Sentral
+alt_names: [Bicol, Bicolano (Central), "Bicolano, Central", Bikol, "Bikol, Central", Bikolano, Bikoleg, Central Bicolano, Central Bikolano, Língua bicolana, Pagsasao a Bikol, Pinulongang Bikol, Tataramon na Bikol, Бикольский язык, ビコール語]
 population: 3890000
 country_id: PH
 country_name: Philippines

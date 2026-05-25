@@ -1,7 +1,9 @@
 ---
 iso: kkj
 name: Kako
+name_zh: 卡库语
 autonym: Kaka
+alt_names: [Dikaka, Kakum, Mkako, Nkoxo, Yaka]
 population: 123400
 country_id: CM
 country_name: Cameroon

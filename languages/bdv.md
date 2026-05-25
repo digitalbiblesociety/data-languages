@@ -2,6 +2,7 @@
 iso: bdv
 name: Bodo Parja
 autonym: Jharia
+alt_names: [Bodo Paraja, Harja, Jhaliya, Jhodia Parja, Parajhi, Parja, Parjhi, Parji, Paroja, Poroja, Sodia Parja]
 population: 50000
 country_id: IN
 country_name: India

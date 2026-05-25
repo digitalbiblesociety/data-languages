@@ -2,6 +2,7 @@
 iso: kmv
 name: Karipúna Creole French
 autonym: Amapá French Creole
+alt_names: ["Creole French, Karipúna", Crioulo, Karipuna Creole French, "Karipuna de l'Amapá", Karipuna del Amapá]
 population: 1710
 country_id: BR
 country_name: Brazil

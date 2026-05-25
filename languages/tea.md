@@ -1,7 +1,9 @@
 ---
 iso: tea
 name: Temiar
+name_zh: 特米亚尔语
 autonym: Northern Sakai
+alt_names: [N Sakai, N. Sakai, Nord Sakai, Pie, Sakai, Seroq, Temer]
 population: 32000
 country_id: MY
 country_name: Malaysia

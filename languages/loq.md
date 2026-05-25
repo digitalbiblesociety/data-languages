@@ -2,6 +2,7 @@
 iso: loq
 name: Lobala
 autonym: Lobala
+alt_names: [Democratic Republic of the Congo]
 population: 60000
 country_id: CD
 country_name: DR Congo

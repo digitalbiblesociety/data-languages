@@ -2,6 +2,7 @@
 iso: tii
 name: Tiene
 autonym: Tende
+alt_names: [Kitiene, Kitiini]
 population: 24500
 country_id: CD
 country_name: DR Congo

@@ -2,6 +2,7 @@
 iso: kpr
 name: "Korafe-Yegha"
 autonym: "Korafe-Yegha"
+alt_names: [Korafe]
 population: 3630
 country_id: PG
 country_name: Papua New Guinea

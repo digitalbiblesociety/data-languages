@@ -1,7 +1,9 @@
 ---
 iso: lyg
 name: Lyngngam
+name_zh: 林甘语
 autonym: Lyngam
+alt_names: [Khasi, Lngngam, Lyngym, Ləngngam, Megam]
 population: 5000
 country_id: IN
 country_name: India

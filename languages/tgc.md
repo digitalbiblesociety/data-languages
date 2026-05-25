@@ -2,6 +2,7 @@
 iso: tgc
 name: Tigak
 autonym: Omo
+alt_names: [Neu-Mecklenburg]
 population: 6000
 country_id: PG
 country_name: Papua New Guinea

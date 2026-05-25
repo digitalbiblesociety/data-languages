@@ -2,6 +2,7 @@
 iso: arj
 name: Arapaso
 autonym: Dahseyé
+alt_names: [Arapasso, Arapaço, Arapáso, Araspaso, Koneá]
 population: null
 country_id: BR
 country_name: Brazil

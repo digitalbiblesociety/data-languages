@@ -1,7 +1,9 @@
 ---
 iso: eya
 name: Eyak
+name_zh: 埃雅克語
 autonym: I·ya·q
+alt_names: [Bahasa Eyak, Ejaka lingvo, Eyak uqautchit, Eyakera, Język eyak, Lingua eyak, Língua eyak, "dAXunhyuuga'", eyaco, Эяк чĕлхи, Эякская мова, Эякский язык, لغة إياك, イヤック語, 埃雅克語, 에야크어]
 population: null
 country_id: US
 country_name: United States

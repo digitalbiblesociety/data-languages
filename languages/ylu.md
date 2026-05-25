@@ -2,6 +2,7 @@
 iso: ylu
 name: Aribwaung
 autonym: Yalu
+alt_names: [Aribwaungg, Jaloc]
 population: 1000
 country_id: PG
 country_name: Papua New Guinea

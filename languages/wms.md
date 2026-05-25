@@ -1,7 +1,9 @@
 ---
 iso: wms
 name: Wambon
+name_zh: 萬邦語
 autonym: null
+alt_names: [Indonesia]
 population: 3000
 country_id: ID
 country_name: Indonesia

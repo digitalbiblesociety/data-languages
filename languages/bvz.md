@@ -2,6 +2,7 @@
 iso: bvz
 name: Bauzi
 autonym: Baudi
+alt_names: [Baudji, Baudzi, Bauri]
 population: 1500
 country_id: ID
 country_name: Indonesia

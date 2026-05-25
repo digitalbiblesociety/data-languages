@@ -2,6 +2,7 @@
 iso: lhn
 name: Lahanan
 autonym: Lanan
+alt_names: [Lanun]
 population: 350
 country_id: MY
 country_name: Malaysia

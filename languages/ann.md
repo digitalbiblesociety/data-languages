@@ -1,7 +1,9 @@
 ---
 iso: ann
 name: Obolo
+name_zh: 奥博洛语
 autonym: Andoni
+alt_names: [Andone, Andonni]
 population: 250000
 country_id: NG
 country_name: Nigeria

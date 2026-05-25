@@ -2,6 +2,7 @@
 iso: xph
 name: "North Midlands Tasmanian\r"
 autonym: "North Midland Tasmanian, \"Cheranotipana\""
+alt_names: [NE Tasmanian Dialect Chain, North Midlands Tasmanian, "Tasmanian, North Midlands", Tyerrenoterpanner]
 population: null
 country_id: AU
 country_name: Australia

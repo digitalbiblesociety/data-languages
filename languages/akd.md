@@ -2,6 +2,7 @@
 iso: akd
 name: "Ukpet-Ehom"
 autonym: "Ukpet-Ehom"
+alt_names: [Akpet-Ehom]
 population: 11400
 country_id: NG
 country_name: Nigeria

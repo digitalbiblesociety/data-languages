@@ -2,6 +2,7 @@
 iso: eme
 name: Emerillon
 autonym: Emereñon
+alt_names: [Emerenhão, Emerilon, Emérillon, Guaiapi, Guayapi, Karipuna, Melejo, Mereo, Mereyo, Oiampí, Oyampí, Oyampík, Oyanpík, Teco, Waiampi, Waiãpi, Wajapae, Wajapuku, Wayampí, Wayampí language area, Wayapae, Wayãpi, Émérillon]
 population: 400
 country_id: GF
 country_name: French Guiana

@@ -1,7 +1,9 @@
 ---
 iso: sda
 name: "Toraja-Sa'dan"
+name_zh: 托拉查-萨达语
 autonym: Sa’dan
+alt_names: [Nordost-Celebes, Rantepao, "Sa'dan", "Sa'dansche", Sadan, Sadang, South Toraja, "Ta'e", "Tae'", Toradja, Toraja, "Toraja Sa'dan"]
 population: 588000
 country_id: ID
 country_name: Indonesia

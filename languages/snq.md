@@ -2,6 +2,7 @@
 iso: snq
 name: Sangu (Gabon)
 autonym: Isangu
+alt_names: [Chango, Sangu, Shango, Yisangou, Yisangu]
 population: 30000
 country_id: GA
 country_name: Gabon

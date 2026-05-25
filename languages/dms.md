@@ -2,6 +2,7 @@
 iso: dms
 name: Dampelas
 autonym: Dampelasa
+alt_names: [Dampal, Dian]
 population: 10300
 country_id: ID
 country_name: Indonesia

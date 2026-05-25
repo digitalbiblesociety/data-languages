@@ -2,6 +2,7 @@
 iso: pst
 name: Central Pashto
 autonym: Mahsudi
+alt_names: [Pakhto, Pashto, "Pashto, Central", Peshwari]
 population: 6520000
 country_id: PK
 country_name: Pakistan

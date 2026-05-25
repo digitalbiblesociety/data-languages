@@ -2,6 +2,7 @@
 iso: mxp
 name: Tlahuitoltepec Mixe
 autonym: South Highland Mixe
+alt_names: [Ayutla, Mije, Mixe, Mixe (Tlahuitoltepec), "Mixe, Tlahuitoltepec", Mize (Tlahuitoltepec), Oaxaca Mije, Southern Highland Mije, Southern Highland Mixe, Tamazulapan, Tlahuitoltepec, West Central Mixe, Western Mixe, Zempoaltepetl]
 population: 5000
 country_id: MX
 country_name: Mexico

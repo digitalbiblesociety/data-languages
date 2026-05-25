@@ -2,6 +2,7 @@
 iso: ymn
 name: Yamna
 autonym: Sunum
+alt_names: [Indonesia]
 population: 560
 country_id: ID
 country_name: Indonesia

@@ -2,6 +2,7 @@
 iso: nie
 name: Niellim
 autonym: lwaà
+alt_names: [Lua, Mjillem, Nielim, Niellim jezik, Niellimeg, Nyilem]
 population: 1000
 country_id: TD
 country_name: Chad

@@ -1,7 +1,9 @@
 ---
 iso: asm
 name: Assamese
+name_zh: 阿萨姆语
 autonym: অসমীয়া
+alt_names: [Asam simi, Asama lingvo, Asambe, Asameg, Asami, Asamiešu valoda, Asamiya, Asamski jezik, Asamés, Asamų kalba, Assamais, Assamees, Assameg, Assamesische Sprache, Assamesisk, Assamesiska, Assameíska, Assami, Assamès, Asszámi nyelv, Bahasa Assam, Fiteny assamey, Idioma asamés, Język assamski, Lingua Assamica, Lingua assamese, Língua assamesa, Ásámčina, Ásámština, Асамски језик, Асамська мова, Ассамский язык, אסאמית, آسامی زبان, زبان آسامی, असमिया, आसामी भाषा, অসমীয়া ঠার, অসমীয়া ভাষা, অসমীয়া ভাষা আৰু লিপি, આસામીઝ ભાષા, அசாமிய மொழி, అస్సామీ భాష, ಅಸ್ಸಾಮಿ, ആസ്സാമീസ്, ภาษาอัสสัม, ასამური ენა, アッサム語, 阿萨姆语, 아삼어]
 population: 14800000
 country_id: IN
 country_name: India

@@ -2,6 +2,7 @@
 iso: inz
 name: Ineseño
 autonym: Sʰamala
+alt_names: [Chumash, Chumash (Ineseno), Chumash (Ineseño), Chumasha Proper, Chumashan, Ineseno, Ineseno Chumash, Inezeño, Santa Inez, Santa Rosa, Ynezeño]
 population: null
 country_id: US
 country_name: United States

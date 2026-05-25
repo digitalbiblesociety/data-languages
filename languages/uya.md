@@ -2,6 +2,7 @@
 iso: uya
 name: "Doko-Uyanga"
 autonym: " Iko"
+alt_names: [Basanga, Dosanga, Uyanga]
 population: 200
 country_id: NG
 country_name: Nigeria

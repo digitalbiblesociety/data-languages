@@ -2,6 +2,7 @@
 iso: ays
 name: Sorsogon Ayta
 autonym: null
+alt_names: [Ayta, Ayta du sud, Ayta meridional, "Ayta, Sorsogon", Sorsogon]
 population: 180
 country_id: PH
 country_name: Philippines

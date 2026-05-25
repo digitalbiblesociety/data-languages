@@ -2,6 +2,7 @@
 iso: kkm
 name: Kiong
 autonym: Kayon
+alt_names: [Akayon, Akoiyang, Iyoniyong, Okonyong, Okoyong]
 population: 100
 country_id: NG
 country_name: Nigeria

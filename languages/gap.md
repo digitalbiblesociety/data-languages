@@ -2,6 +2,7 @@
 iso: gap
 name: Gal
 autonym: Baimak
+alt_names: [Weim]
 population: 340
 country_id: PG
 country_name: Papua New Guinea

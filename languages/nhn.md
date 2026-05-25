@@ -2,6 +2,7 @@
 iso: nhn
 name: Central Nahuatl
 autonym: Central Nahuatl
+alt_names: [Central Aztec, Central Nawa, Mexicano, Nahua central, Nahuatl, Nahuatl (Central), "Nahuatl, Central", Nawa, Náhuatl central, Náhuatl del Centro, Tlaxcala-Puebla Nahuatl, Tlaxcala-Puebla Náhuatl]
 population: 1000
 country_id: MX
 country_name: Mexico

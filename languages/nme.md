@@ -2,6 +2,7 @@
 iso: nme
 name: Mzieme Naga
 autonym: Northern Zeme
+alt_names: [Mzieme, Naga, "Naga, Mzieme", "Naga,Mzieme", Zeme]
 population: 29000
 country_id: IN
 country_name: India

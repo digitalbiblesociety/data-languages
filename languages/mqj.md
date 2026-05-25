@@ -2,6 +2,7 @@
 iso: mqj
 name: Mamasa
 autonym: null
+alt_names: [Nordost-Celebes]
 population: 89100
 country_id: ID
 country_name: Indonesia

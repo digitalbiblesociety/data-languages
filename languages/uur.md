@@ -1,7 +1,9 @@
 ---
 iso: uur
 name: Ura (Vanuatu)
+name_zh: 烏拉語
 autonym: null
+alt_names: [Arau, Aryau, Erromango, Ura]
 population: null
 country_id: VU
 country_name: Vanuatu

@@ -1,7 +1,9 @@
 ---
 iso: sle
 name: Sholaga
+name_zh: 绍拉贾语
 autonym: Soliga
+alt_names: [Kadu Sholigar, Sholanayika, Sholiga, Sholigar, Solaga, Solanayakkans, Soligar]
 population: 24000
 country_id: IN
 country_name: India

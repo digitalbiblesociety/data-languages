@@ -1,7 +1,9 @@
 ---
 iso: dml
 name: Dameli
+name_zh: 达梅利语
 autonym: Dāmya bāṣa
+alt_names: [Damedi, Damel, Damelí, Damia, Damēlī, Dardu, Gudoji]
 population: 5000
 country_id: PK
 country_name: Pakistan

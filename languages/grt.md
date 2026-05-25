@@ -1,7 +1,9 @@
 ---
 iso: grt
 name: Garo
+name_zh: 加罗语
 autonym: A·chik (আ·চিক)
+alt_names: [Garrow, Język garo, Lingua Garo, Língua garo, Mande, গারো ভাষা]
 population: 1270000
 country_id: IN
 country_name: India

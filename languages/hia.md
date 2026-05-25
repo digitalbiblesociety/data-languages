@@ -2,6 +2,7 @@
 iso: hia
 name: Lamang
 autonym: Gbuhwe
+alt_names: [Hitkala, Laamang, Mandara Group B, Waha]
 population: 40000
 country_id: NG
 country_name: Nigeria

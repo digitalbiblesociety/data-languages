@@ -1,6 +1,7 @@
 ---
 iso: twi
 name: Twi
+name_zh: 契維語
 autonym: Akwapem Twi
 population: 24000
 country_id: GH

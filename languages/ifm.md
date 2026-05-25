@@ -2,6 +2,7 @@
 iso: ifm
 name: "Teke-Fuumu"
 autonym: Wuumu
+alt_names: [Central Teke, Fumu, Ifumu, Kiteke, South Central Teke, Teke (South Central), Teke du Pool]
 population: 8150
 country_id: CG
 country_name: Congo

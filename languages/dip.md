@@ -2,6 +2,7 @@
 iso: dip
 name: Northeastern Dinka
 autonym: Thuɔŋjäŋ
+alt_names: [Agar, Dinka, "Dinka, Northeastern", Jieng (Dinka), Nord-Dinka, Padang, White Nile Dinka]
 population: 923000
 country_id: SS
 country_name: South Sudan

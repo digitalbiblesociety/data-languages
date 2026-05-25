@@ -2,6 +2,7 @@
 iso: bfp
 name: Beba
 autonym: Babadji
+alt_names: ["Baba'zhi", Batadji, Bazhi, "Beba'", Bebadji, Biba, Bombe, Mubadji, Shishong]
 population: 3000
 country_id: CM
 country_name: Cameroon

@@ -2,6 +2,7 @@
 iso: bzw
 name: Basa (Nigeria)
 autonym: "Basa-Benue"
+alt_names: ["\"Bassa-Komo\"", "\"Bassa-Kwomu\"", Abacha, Abatsa, Basa, Rubasa, Rubassa]
 population: 309000
 country_id: NG
 country_name: Nigeria

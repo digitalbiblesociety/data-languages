@@ -1,7 +1,9 @@
 ---
 iso: deu
 name: German
+name_zh: 德语
 autonym: Deutsch
+alt_names: [German (Berlin), German (Hannover), German (Mansfeldisch), German (Standard), German (Thuringian), German (Timisoara), "German, Standard", Haut-allemand moderne, Neuhochdeutsch, New High German, Nyhøytysk, Tedesco, allemand]
 population: 76100000
 country_id: DE
 country_name: Germany

@@ -2,6 +2,7 @@
 iso: bfe
 name: Betaf
 autonym: Tena
+alt_names: [Tebi]
 population: 600
 country_id: ID
 country_name: Indonesia

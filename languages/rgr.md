@@ -1,7 +1,9 @@
 ---
 iso: rgr
 name: Resígaro
+name_zh: 嗨唽嘎吺語
 autonym: Resígero
+alt_names: [Resigaro]
 population: 1
 country_id: PE
 country_name: Peru

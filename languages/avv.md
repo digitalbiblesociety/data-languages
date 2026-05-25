@@ -2,6 +2,7 @@
 iso: avv
 name: "Avá-Canoeiro"
 autonym: Ãwa
+alt_names: [Abá, Ava, Ava-Canoeiro, Avá, Awana, Awá, Awá Guajá, Ayaya, Canoa, Canoe, Canoeiro, Canoeiros, Guajá, Wazaizara]
 population: 14
 country_id: BR
 country_name: Brazil

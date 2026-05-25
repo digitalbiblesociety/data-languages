@@ -2,6 +2,7 @@
 iso: mkv
 name: Mafea
 autonym: Mavea
+alt_names: [Mav̋ea]
 population: 250
 country_id: VU
 country_name: Vanuatu

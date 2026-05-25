@@ -2,6 +2,7 @@
 iso: hmc
 name: Central Huishui Hmong
 autonym: Mhong
+alt_names: [Central Huishui Miao, Hmo, Hmong, "Hmong, Central Huishui", Hmung, Hsiung, Hunan Miao, Miao, "Miao, Central Huishui"]
 population: 40000
 country_id: CN
 country_name: China

@@ -2,6 +2,7 @@
 iso: sdg
 name: Savi
 autonym: Sau
+alt_names: [Dardu, Sauji, Saví, Sawi, Shina]
 population: 3000
 country_id: AF
 country_name: Afghanistan

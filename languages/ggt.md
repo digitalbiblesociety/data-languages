@@ -2,6 +2,7 @@
 iso: ggt
 name: Gitua
 autonym: Gitoa
+alt_names: [Kelana]
 population: 1085
 country_id: PG
 country_name: Papua New Guinea

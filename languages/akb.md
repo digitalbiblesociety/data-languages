@@ -1,7 +1,9 @@
 ---
 iso: akb
 name: Batak Angkola
+name_zh: 昂科拉语
 autonym: Anakola
+alt_names: [Angkola]
 population: 750000
 country_id: ID
 country_name: Indonesia

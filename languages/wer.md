@@ -2,6 +2,7 @@
 iso: wer
 name: Weri
 autonym: null
+alt_names: [Biaru]
 population: 6900
 country_id: PG
 country_name: Papua New Guinea

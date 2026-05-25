@@ -2,6 +2,7 @@
 iso: buf
 name: Bushoong
 autonym: Bushoong
+alt_names: [Bamongo, Bukuba, Bushona, Bushong, "Bushong, Kuba", Bushonga, Bushongo, Busoong, Ganga, Kuba, Mbale, Mongo, Shongo]
 population: 155000
 country_id: CD
 country_name: DR Congo

@@ -1,7 +1,9 @@
 ---
 iso: frs
 name: Eastern Frisian
+name_zh: 东弗里斯兰下萨克森语
 autonym: East Frisian Low Saxon
+alt_names: ["Frisian, Eastern", Northern Low Saxon]
 population: 2000
 country_id: DE
 country_name: Germany

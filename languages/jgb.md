@@ -2,6 +2,7 @@
 iso: jgb
 name: Ngbee
 autonym: Lingbee
+alt_names: [Lingbe, Majuu, Mangbele]
 population: null
 country_id: CD
 country_name: DR Congo

@@ -2,6 +2,7 @@
 iso: bha
 name: Bharia
 autonym: भरीयाटी
+alt_names: [Bhar, Bharat, Bhumia, Bhumiya, Paliha]
 population: 197000
 country_id: IN
 country_name: India

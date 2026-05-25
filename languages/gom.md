@@ -1,7 +1,9 @@
 ---
 iso: gom
 name: Goan Konkani
+name_zh: 果阿孔卡尼语
 autonym: कोंकणी
+alt_names: [Goan, Goanese, Gomataki, Idioma konkaní, Język konkani, Konkan, Konkana lingvo, Konkaneg, Konkani, Konkani jezik, Konkani language, "Konkani, Goan", "Konkani, Goanese", Konkanî, Konkánština, Lengua konkani, Lingua Concanica, Lingua konkani, Língua concani, Конкани, Конкани језик, קונקאני, कोकणी भाषा, কোঙ্কণী ভাষা, કોંકણી ભાષા, கொங்கணி மொழி, ಕೊಂಕಣಿ, കൊങ്കണി, ภาษากอนกานี, コンカニ語, 孔卡尼语, 콘칸어]
 population: 3707000
 country_id: IN
 country_name: India

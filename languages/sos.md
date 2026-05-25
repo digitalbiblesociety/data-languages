@@ -1,7 +1,9 @@
 ---
 iso: sos
 name: Seeku
+name_zh: 森布拉語
 autonym: Sembla
+alt_names: [Sambla, Samogho, Southern Samo]
 population: 12000
 country_id: BF
 country_name: Burkina Faso

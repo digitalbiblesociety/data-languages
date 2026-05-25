@@ -2,6 +2,7 @@
 iso: lbu
 name: Labu
 autonym: Hapa
+alt_names: [Labo, "Labu'"]
 population: 1600
 country_id: PG
 country_name: Papua New Guinea

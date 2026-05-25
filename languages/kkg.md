@@ -2,6 +2,7 @@
 iso: kkg
 name: Mabaka Valley Kalinga
 autonym: "Kal-Uwan"
+alt_names: ["Kalinga, Mabaka Valley", Mabaka, Mabaka Itneg]
 population: null
 country_id: PH
 country_name: Philippines

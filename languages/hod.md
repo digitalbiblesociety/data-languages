@@ -2,6 +2,7 @@
 iso: hod
 name: Holma
 autonym: Bali Holma
+alt_names: [Da Holmaci]
 population: null
 country_id: NG
 country_name: Nigeria

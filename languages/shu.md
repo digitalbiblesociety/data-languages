@@ -1,7 +1,9 @@
 ---
 iso: shu
 name: Chadian Arabic
+name_zh: 乍得阿拉伯語
 autonym: Shuwa
+alt_names: [Arabe Choa, Arabe tchadien, Arabeg Tchad, Arabic, Arabic (Abbéché Chad), Arabic (Borno Nigerian), Arabic (Chadian), Arabic (Western), "Arabic, Chadian", "Arabic, Chadian Spoken", Chad Arabic, Chadian, Chadic Arabic, Choa, Chowa, "L'arabe du Tchad", Shua, Shua Arabic, Shuwa Arabic, Suwa, Tchadisk arabisk, Tourkou, Árabe chadiano, Čadski arapski, Шува арапски јазик, لهجة تشادية]
 population: 1990000
 country_id: TD
 country_name: Chad

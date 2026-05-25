@@ -2,6 +2,7 @@
 iso: tlt
 name: Sou Nama
 autonym: Silen
+alt_names: [Taluti, Tehoru, Teluti, Tihoru, Wolu]
 population: 17000
 country_id: ID
 country_name: Indonesia

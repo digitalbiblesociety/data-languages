@@ -1,7 +1,9 @@
 ---
 iso: mua
 name: Mundang
+name_zh: 蒙当语
 autonym: MUNDAŊ
+alt_names: [Kaele, Marhay, Moundan, Moundang, Musemban, Nda]
 population: 395700
 country_id: TD
 country_name: Chad

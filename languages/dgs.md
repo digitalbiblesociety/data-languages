@@ -2,6 +2,7 @@
 iso: dgs
 name: Dogoso
 autonym: Black Dogose
+alt_names: [Bambadion-Dogoso, Bambadion-Dokhosié, Dorhosié-Finng, Dorhosié-Noirs, Dorossié-Fing]
 population: 9000
 country_id: BF
 country_name: Burkina Faso

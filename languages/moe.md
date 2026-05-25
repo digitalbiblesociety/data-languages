@@ -1,7 +1,9 @@
 ---
 iso: moe
 name: Montagnais
+name_zh: 因努語
 autonym: "Innu-aimun"
+alt_names: [Central Montagnais, Cree, Eastern Montagnais, Innu, Innu Aimun, Inua lingvo, "Montagnais de l'est", "Montagnais de l'ouest", Montagneg, Montañés occidental, Western Montagnais, Монтанье-наскапи]
 population: 10200
 country_id: CA
 country_name: Canada

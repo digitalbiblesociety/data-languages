@@ -1,7 +1,9 @@
 ---
 iso: nsm
 name: Sumi Naga
+name_zh: Sema语
 autonym: Sümi (Naga)
+alt_names: [Naga, Naga (Sumi), "Naga, Sumi", "Naga,Sumi", Sema, Simi, Simí, Sumi, Zumomi]
 population: 10800
 country_id: IN
 country_name: India

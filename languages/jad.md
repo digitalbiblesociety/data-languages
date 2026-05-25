@@ -2,6 +2,7 @@
 iso: jad
 name: Jahanka
 autonym: Diakhanke
+alt_names: [Diakkanke, Dyakanke, Jahanque, Jahonque]
 population: 12600
 country_id: GN
 country_name: Guinea

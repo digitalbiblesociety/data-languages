@@ -2,6 +2,7 @@
 iso: mdi
 name: Mamvu
 autonym: null
+alt_names: [Tengo]
 population: 60000
 country_id: CD
 country_name: DR Congo

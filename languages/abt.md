@@ -1,7 +1,9 @@
 ---
 iso: abt
 name: Ambulas
+name_zh: 阿贝兰语
 autonym: Ambelas
+alt_names: [Abelam, Abulas, Hanga Hundi, Kwasengen, West Wosera]
 population: 33000
 country_id: PG
 country_name: Papua New Guinea

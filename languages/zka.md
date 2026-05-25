@@ -2,6 +2,7 @@
 iso: zka
 name: Kaimbulawa
 autonym: null
+alt_names: [Indonesia]
 population: 2200
 country_id: ID
 country_name: Indonesia

@@ -1,7 +1,9 @@
 ---
 iso: hlu
 name: Hieroglyphic Luwian
+name_zh: 象形文字式盧維語
 autonym: "Luvian, Luish"
+alt_names: [East Luwian, Hieroglyphic Hittite, Hieroglyphic Luvian, Hijeroglifski luvijski, Late Luwian, Luwian, "Luwian, Hieroglyphic"]
 population: null
 country_id: TR
 country_name: Turkey

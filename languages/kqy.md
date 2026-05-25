@@ -2,6 +2,7 @@
 iso: kqy
 name: Koorete
 autonym: Amaarro
+alt_names: [Amarro, Badditu, Badittu, Baditu, Gidiccho, Koore, Koré, Koyra, Kwera, Nuna]
 population: 157000
 country_id: ET
 country_name: Ethiopia

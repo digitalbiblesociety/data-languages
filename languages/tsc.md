@@ -1,7 +1,9 @@
 ---
 iso: tsc
 name: Tswa
+name_zh: 茨瓦语
 autonym: Xitswa
+alt_names: [Kitshwa, Sheetshwa, Shitshwa, Tshwa, Xitshwa]
 population: 1020000
 country_id: MZ
 country_name: Mozambique

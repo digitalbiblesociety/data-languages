@@ -2,6 +2,7 @@
 iso: mwe
 name: Mwera (Chimwera)
 autonym: Cimwera
+alt_names: [Chimwera, Mwela, Mwera]
 population: 385000
 country_id: TZ
 country_name: Tanzania

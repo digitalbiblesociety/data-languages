@@ -1,7 +1,9 @@
 ---
 iso: sea
 name: Semai
+name_zh: 塞迈语
 autonym: Engrok Semai
+alt_names: [Bahasa Semai, "Central \"Sakai\"", Central Sakai, Sakai, Sengoi, Senoi, Zentral Sakai]
 population: 2000
 country_id: MY
 country_name: Malaysia

@@ -2,6 +2,7 @@
 iso: fuu
 name: Furu
 autonym: Bagero
+alt_names: [Bagiro, Baguero, Baguiro]
 population: 12000
 country_id: CD
 country_name: DR Congo

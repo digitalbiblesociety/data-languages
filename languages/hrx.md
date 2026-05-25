@@ -1,7 +1,9 @@
 ---
 iso: hrx
 name: Hunsrik
+name_zh: 里奥格兰德洪斯吕克语
 autonym: Hunsrik
+alt_names: [Hunsriker, Rio Grand Hunsriker, Riograndenser Hunsrückisch, Riograndeser Hunsrückisch]
 population: 5000000
 country_id: BR
 country_name: Brazil

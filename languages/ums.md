@@ -2,6 +2,7 @@
 iso: ums
 name: Pendau
 autonym: Umalasa
+alt_names: [Ndaoe, Ndau]
 population: 4500
 country_id: ID
 country_name: Indonesia

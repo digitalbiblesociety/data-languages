@@ -1,7 +1,9 @@
 ---
 iso: lrl
 name: Lari
+name_zh: 阿喬米語
 autonym: Khodmoni
+alt_names: ["*Achomi", Achomi, Fars, Lareg, Larestani, Larestani dialects, گویش لارستانی]
 population: 118000
 country_id: IR
 country_name: Iran

@@ -2,6 +2,7 @@
 iso: nbb
 name: Ndoe
 autonym: "Ekparabong-Balep"
+alt_names: [Nigeria]
 population: 7340
 country_id: NG
 country_name: Nigeria

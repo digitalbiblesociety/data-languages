@@ -1,7 +1,9 @@
 ---
 iso: kby
 name: Manga Kanuri
+name_zh: 曼加卡努里语
 autonym: Kànùrí
+alt_names: [Bornu, Kanembu, Kanouri, Kanoury, Kanuri, "Kanuri, Manga", Manga]
 population: 480000
 country_id: NE
 country_name: Niger

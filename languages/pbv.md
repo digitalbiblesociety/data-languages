@@ -1,7 +1,9 @@
 ---
 iso: pbv
 name: Pnar
+name_zh: 布那语
 autonym: Jaiñtia
+alt_names: [Mnar, Synteng, Sənteng]
 population: 323000
 country_id: IN
 country_name: India

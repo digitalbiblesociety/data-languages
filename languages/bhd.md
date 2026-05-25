@@ -2,6 +2,7 @@
 iso: bhd
 name: Bhadrawahi
 autonym: भद्रवाही
+alt_names: [Baderwali, Badrohi, Bahi, Bhadarwahi, Bhaderbhai Jamu, Bhaderwali Pahari, Bhadrava, Bhadravahi, Bhadri, Bhalesi, Bradrawah, Padari]
 population: 116000
 country_id: IN
 country_name: India

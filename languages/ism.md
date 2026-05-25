@@ -2,6 +2,7 @@
 iso: ism
 name: Masimasi
 autonym: bahasa Masimasi
+alt_names: [Indonesia]
 population: 10
 country_id: ID
 country_name: Indonesia

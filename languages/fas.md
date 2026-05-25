@@ -1,6 +1,7 @@
 ---
 iso: fas
 name: Persian
+name_zh: 波斯语
 autonym: فارسی
 population: 45000000
 country_id: IR

@@ -1,7 +1,9 @@
 ---
 iso: fud
 name: East Futuna
+name_zh: 富图纳语
 autonym: Faka futuna
+alt_names: [Futuna (East), "Futuna, East", Futunaisk, Futunan (East), Futunan kieli, Futunan language, Futunian, Futunien, Futunische Sprache, Futunià, Futunski jezik, Lingua futuniana]
 population: 6330
 country_id: WF
 country_name: "Wallis & Futuna"

@@ -2,6 +2,7 @@
 iso: sss
 name: Sô
 autonym: Bruu
+alt_names: [Bru, Kah So, Kha, Kha So, Makong, Mang Cong, Mang-Koong, Mangkong, Mankoong, So, So Makon, Thro]
 population: 233000
 country_id: LA
 country_name: Laos

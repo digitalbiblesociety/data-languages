@@ -1,6 +1,7 @@
 ---
 iso: srd
 name: Sardinian
+name_zh: 撒丁语
 autonym: sardu
 population: 1300000
 country_id: IT

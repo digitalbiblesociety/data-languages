@@ -2,6 +2,7 @@
 iso: auo
 name: Auyokawa
 autonym: Tirio
+alt_names: [Auyakawa, Auyo, Auyokawa jezik, Awiaka]
 population: null
 country_id: NG
 country_name: Nigeria

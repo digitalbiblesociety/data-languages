@@ -2,6 +2,7 @@
 iso: wii
 name: Minidien
 autonym: Minidien
+alt_names: [Menandon, Miniden, Wiakei, Wiaki]
 population: 1186
 country_id: PG
 country_name: Papua New Guinea

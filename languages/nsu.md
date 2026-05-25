@@ -2,6 +2,7 @@
 iso: nsu
 name: Sierra Negra Nahuatl
 autonym: Southeastern Puebla Nahuatl
+alt_names: [Central Nawa, Mexicano, Nahua central, Nahuatl, "Nahuatl, Sierra Negra", Náhuatl central]
 population: 25000
 country_id: MX
 country_name: Mexico

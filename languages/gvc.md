@@ -1,7 +1,9 @@
 ---
 iso: gvc
 name: Guanano
+name_zh: 瓦纳诺语
 autonym: Wanano
+alt_names: [Anana, Ananas, Kotedia, Kotiria, Kótedia, Kótirya, Pira-Tapuya, Pira-tapuya (Colombia), Piratapuya (Brésil), Piratapuya (Colombie), Piratapuyo, Uaiana, Uaicana, Uaikena, Uainana, Uanana, Uanano, Uiquina, Urubu-Tapuya, Waikena, Waikhara, Waikina, Waikino, Waina, Wanana, Wanana-Pirá, Wanano-Piratapuyo, Wanâna, Yurutí (Brésil), Yurutí (Colombia), Yurutí (Colombie), kotirya (Brésil), kotirya (Colombie), kótedia (Colombia)]
 population: 550
 country_id: BR
 country_name: Brazil

@@ -1,7 +1,9 @@
 ---
 iso: tvl
 name: Tuvalu
+name_zh: 图瓦卢语
 autonym: Te Ggana Tuuvalu
+alt_names: [Bahasa Tuvalu, Ellice, Ellicean, Idioma tuvaluano, Język tuvalu, Lingua tuvaluana, Língua tuvaluana, Nanumea, Tuvala lingvo, Tuvaliečių kalba, Tuvaluaans, Tuvaluan, Tuvaluan (North), Tuvaluan language, Tuvaluano, Tuvaluanska, Tuvaluanski jezik, Tuvalueg, Tuvaluera, Tuvalui nyelv, Tuvaluische Sprache, Tuvalun kieli, Tuvalština, Тувалу, Тувалуански език, तुवालुयाई भाषा, ツバル語, 图瓦卢语]
 population: 14290
 country_id: TV
 country_name: Tuvalu

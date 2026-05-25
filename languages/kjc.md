@@ -2,6 +2,7 @@
 iso: kjc
 name: Coastal Konjo
 autonym: Kondjo
+alt_names: [Konjo, Konjo (Coastal), "Konjo, Coastal", Makassarese, Tana, Tiro]
 population: 10000
 country_id: ID
 country_name: Indonesia

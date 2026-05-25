@@ -1,6 +1,7 @@
 ---
 iso: zkh
 name: Khorezmian
+name_zh: 花剌子模語
 autonym: Türki
 population: null
 country_id: UZ

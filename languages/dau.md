@@ -2,6 +2,7 @@
 iso: dau
 name: Dar Sila Daju
 autonym: Dar Sila
+alt_names: [Bokor, Bokorike, Bokoruge, Dadjo, Dajou, Daju, Daju (Dar Sila), "Daju, Dar Sila", Mongo, Mongo-Sila, Shila, Sila, Sula]
 population: 70100
 country_id: TD
 country_name: Chad

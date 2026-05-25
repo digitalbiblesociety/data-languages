@@ -1,7 +1,9 @@
 ---
 iso: cqd
 name: Chuanqiandian Cluster Miao
+name_zh: 苗语川黔滇次方言
 autonym: lus Hmoob / lug Moob / lol Hmongb
+alt_names: ["Miao, Chuanqiandian Cluster"]
 population: 1400000
 country_id: CN
 country_name: China

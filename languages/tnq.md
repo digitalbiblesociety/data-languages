@@ -1,7 +1,9 @@
 ---
 iso: tnq
 name: Taino
+name_zh: 泰诺语
 autonym: null
+alt_names: [Taíno]
 population: null
 country_id: PR
 country_name: Puerto Rico

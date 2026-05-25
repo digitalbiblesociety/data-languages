@@ -2,6 +2,7 @@
 iso: tuz
 name: Turka
 autonym: Tyurama
+alt_names: [Curama, Tourka, Turuka]
 population: 37000
 country_id: BF
 country_name: Burkina Faso

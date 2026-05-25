@@ -2,6 +2,7 @@
 iso: cbv
 name: Cacua
 autonym: Kakua
+alt_names: [Bada, Bará, Báda, Cakua, Kakwa, Kakwa language, Kákwa, Macu de Cubeo, Macu de Desano, Macu de Guanano, Macú-Paraná, Wacara]
 population: 220
 country_id: CO
 country_name: Colombia

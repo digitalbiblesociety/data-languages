@@ -2,6 +2,7 @@
 iso: chw
 name: Chuwabu
 autonym: Cuabo
+alt_names: [Chichwabo, Chuabo, Chuwabo, Chwabo, Cicuabo, Cuwabo, Echuabo, Echuwabo, Txuwabo]
 population: 970000
 country_id: MZ
 country_name: Mozambique

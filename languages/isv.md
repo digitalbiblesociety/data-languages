@@ -1,7 +1,9 @@
 ---
 iso: isv
 name: Interslavic
+name_zh: 斯拉夫共通語
 autonym: Меджусловјанскы
+alt_names: [Interslavic zonal constructed language, medžuslovjansky jezyk, меджусловјанскы језык]
 population: 7000
 country_id: CZ
 country_name: Czechia

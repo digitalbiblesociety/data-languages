@@ -1,7 +1,9 @@
 ---
 iso: afs
 name: "Afro-Seminole Creole"
+name_zh: 非洲塞米诺尔克尔奥尔语
 autonym: "Afro-Seminol Criollo"
+alt_names: ["Creole, Afro-Seminole"]
 population: 200
 country_id: MX
 country_name: Mexico

@@ -1,6 +1,7 @@
 ---
 iso: xcb
 name: Cumbric
+name_zh: 坎伯蘭語
 autonym: null
 population: null
 country_id: GB

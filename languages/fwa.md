@@ -2,6 +2,7 @@
 iso: fwa
 name: Fwâi
 autonym: Poai
+alt_names: [Fwai, Fûai, Neukaledonien, Po-Ai, Yehen, Yengen]
 population: 1130
 country_id: NC
 country_name: New Caledonia

@@ -1,7 +1,9 @@
 ---
 iso: crg
 name: Michif
+name_zh: 米奇夫语
 autonym: Michif
+alt_names: [Cree, French Cree, Język miszif, Michifeg, Mitchif, Mitif, Miĉifa lingvo, Métchif, Plains Cree-French Mixed Language, Turtle Mountain Chippewa Cree, aan krii, Мичиф, 미치프어]
 population: 730
 country_id: US
 country_name: United States

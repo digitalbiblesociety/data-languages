@@ -1,7 +1,9 @@
 ---
 iso: csw
 name: Swampy Cree
+name_zh: 沼泽克里语
 autonym: ᓀᐦᐃᓇᐍᐏᐣ / Nêhinawêwin
+alt_names: ["Cree, Swampy", Kreeg ar gwernioù, Myr-cree-språket]
 population: 4500
 country_id: CA
 country_name: Canada

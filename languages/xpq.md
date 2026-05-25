@@ -1,6 +1,7 @@
 ---
 iso: xpq
 name: "Mohegan-Pequot"
+name_zh: 莫西干-佩克特語
 autonym: Mohiks-Piqut Uyôtowáwôk
 population: null
 country_id: US

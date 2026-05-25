@@ -1,6 +1,7 @@
 ---
 iso: mnl
 name: Tiale
+name_zh: 馬爾馬立夫語
 autonym: Malmariv
 population: 400
 country_id: VU

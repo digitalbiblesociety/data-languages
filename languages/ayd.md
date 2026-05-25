@@ -2,6 +2,7 @@
 iso: ayd
 name: Ayabadhu
 autonym: Badhu
+alt_names: [Abadja, Ai ebadu, Aiabadu, Aiebadu, Aiyabotho, Aiyaboto, Ajabadha, Ajabatha, Ajibyrdu, Apatya, Ayapathu, Badja, Baldya, Balfja, Jabuda, Kikahiabilo, Koka Ai ebadu, Koka Ai-ebadu, Koka aiebadu, Koka-aiebadu, Koko Aiebadu, Koko Badja, Koko Baldya, Koko Baltja, Koko-Badja, Koko-Baldya, Koko-Baltjayiahjaba]
 population: null
 country_id: AU
 country_name: Australia

@@ -2,6 +2,7 @@
 iso: ozm
 name: Koonzime
 autonym: " Koozime"
+alt_names: [Djimu, Dzimou, Kooncimo, Koozhime, Nzime, Zimu]
 population: 40000
 country_id: CM
 country_name: Cameroon

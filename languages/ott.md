@@ -2,6 +2,7 @@
 iso: ott
 name: Temoaya Otomi
 autonym: Toluca Otomí
+alt_names: [Othomí, Otomi, "Otomi, Temoaya", Otomí, Otomí de Mezquital, Otomí de la Sierra, Otomí del valle de Mezquital, Southwest]
 population: 37000
 country_id: MX
 country_name: Mexico

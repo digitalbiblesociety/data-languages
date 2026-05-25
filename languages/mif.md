@@ -2,6 +2,7 @@
 iso: mif
 name: "Mofu-Gudur"
 autonym: Mofou
+alt_names: [Mofou de Goudour, Mofu, Mofu (South), Mofu South, Mofu-Sud, Muffo, Muffu]
 population: 90000
 country_id: CM
 country_name: Cameroon

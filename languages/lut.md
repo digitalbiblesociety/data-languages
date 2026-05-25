@@ -1,7 +1,9 @@
 ---
 iso: lut
 name: Lushootseed
+name_zh: 盧紹錫德語
 autonym: "Skagit-Nisqually"
+alt_names: [Dxʷləšúcid, Język luszucid, Laŝucida lingvo, Niskwalli, Puget Salish, Puget Sound Salish, Pugué, Squaxon, Лушуцид]
 population: 2000
 country_id: US
 country_name: United States

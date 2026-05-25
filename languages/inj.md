@@ -2,6 +2,7 @@
 iso: inj
 name: Jungle Inga
 autonym: Ingano
+alt_names: ["Inga, Jungle"]
 population: 11200
 country_id: CO
 country_name: Colombia

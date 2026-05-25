@@ -2,6 +2,7 @@
 iso: tye
 name: Kyanga
 autonym: Tyenga
+alt_names: [Cenka, Kenga, Kyenga, Tienga, Tyanga]
 population: 15000
 country_id: NG
 country_name: Nigeria

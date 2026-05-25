@@ -2,6 +2,7 @@
 iso: bbr
 name: Girawa
 autonym: Bagasin
+alt_names: [Begasin, Begesin]
 population: 3630
 country_id: PG
 country_name: Papua New Guinea

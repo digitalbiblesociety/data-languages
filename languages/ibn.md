@@ -2,6 +2,7 @@
 iso: ibn
 name: Ibino
 autonym: Ibeno
+alt_names: [Ibuno]
 population: 10000
 country_id: NG
 country_name: Nigeria

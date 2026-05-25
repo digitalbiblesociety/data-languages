@@ -2,6 +2,7 @@
 iso: siu
 name: Sinagen
 autonym: Galu
+alt_names: [Metru]
 population: 330
 country_id: PG
 country_name: Papua New Guinea

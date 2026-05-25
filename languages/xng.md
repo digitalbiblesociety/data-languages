@@ -1,7 +1,9 @@
 ---
 iso: xng
 name: Middle Mongolian
+name_zh: 中古蒙古语
 autonym: Middle Mongolian
+alt_names: ["Mongolian, Middle"]
 population: null
 country_id: MN
 country_name: Mongolia

@@ -1,7 +1,9 @@
 ---
 iso: pan
 name: Panjabi
+name_zh: 旁遮普语
 autonym: ਪੰਜਾਬੀ
+alt_names: [Eastern Panjabi, Gurmukhi, Gurumukhi, Pandschabi, Panjabi (Eastern), "Panjabi, Eastern", Punjabi, pendjabi]
 population: 80500000
 country_id: IN
 country_name: India

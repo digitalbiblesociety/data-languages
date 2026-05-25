@@ -1,7 +1,9 @@
 ---
 iso: nuk
 name: "Nuu-chah-nulth"
+name_zh: 努查努阿特语
 autonym: Nootka
+alt_names: [Aht, Nootkans, Nutka, Nuuchahnulth, Nuuchahnulth (Nootka), Nuučaan̓uɫ, "Quuquu'aca", "T'aat'aaqsapa", West Coast]
 population: 280
 country_id: CA
 country_name: Canada

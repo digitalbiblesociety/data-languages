@@ -1,7 +1,9 @@
 ---
 iso: ter
 name: Tereno
+name_zh: 特伦诺语
 autonym: Terêna
+alt_names: [Chané, Etelena, Guaná, Kinikinao, Terena, Terena simi]
 population: 15800
 country_id: BR
 country_name: Brazil

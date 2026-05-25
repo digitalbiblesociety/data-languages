@@ -1,7 +1,9 @@
 ---
 iso: xcv
 name: Chuvantsy
+name_zh: 楚凡语
 autonym: Chuvantsy
+alt_names: [Chuvants]
 population: null
 country_id: RU
 country_name: Russia

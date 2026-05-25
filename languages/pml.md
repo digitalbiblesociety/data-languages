@@ -1,7 +1,9 @@
 ---
 iso: pml
 name: Lingua Franca
+name_zh: 地中海通用語
 autonym: sabir
+alt_names: ["'Ajnabi", Aljamia, Ferenghi, Lingua franca mediterranea, Lingua sabir, Mediterraanse lingua franca, Mediterranean Lingua Franca, Petit Mauresque, Средиземноморский лингва-франка]
 population: null
 country_id: TN
 country_name: Tunisia

@@ -2,6 +2,7 @@
 iso: pls
 name: San Marcos Tlacoyalco Popoloca
 autonym: Popoloca
+alt_names: [Chocho-Popoloka, Northern Popoloca, Northern Popoloka, Popoloca de San Marcos Tlalcoyalco, "Popoloca, San Marcos Tlacoyalco", "Popoloca, San Marcos Tlalcoyalco", San Marcos Tlalcoyalco Popoloca]
 population: 5000
 country_id: MX
 country_name: Mexico

@@ -2,6 +2,7 @@
 iso: ykm
 name: Kap
 autonym: Kap
+alt_names: [Ali, Yakamul]
 population: 3460
 country_id: PG
 country_name: Papua New Guinea

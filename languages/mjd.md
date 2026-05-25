@@ -2,6 +2,7 @@
 iso: mjd
 name: Northwest Maidu
 autonym: "Koyoom k'awi"
+alt_names: ["\"Digger\"", Concow, "Digger\"\"", Holólupai, Konkau, Konkow, Konkow language, Maidu, Maidu (Northwest), "Maidu, Northwest", Maiduan, Maidú noroccidental, Meidoo, Michopdo, Northwest, Northwestern Maidu, Nákum, Secumne, Sekumne, Tsamak, Yuba]
 population: 200
 country_id: US
 country_name: United States

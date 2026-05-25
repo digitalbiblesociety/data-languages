@@ -2,6 +2,7 @@
 iso: vgr
 name: Vaghri
 autonym: Bavri
+alt_names: [Salavta, Vaghri Koli]
 population: 10000
 country_id: PK
 country_name: Pakistan

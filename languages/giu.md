@@ -1,7 +1,9 @@
 ---
 iso: giu
 name: Mulao
+name_zh: 木佬語
 autonym: Kláo
+alt_names: [Ayo, 木佬語]
 population: null
 country_id: CN
 country_name: China

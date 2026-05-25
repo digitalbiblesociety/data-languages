@@ -2,6 +2,7 @@
 iso: bsr
 name: "Bassa-Kontagora"
 autonym: null
+alt_names: [Basa, Basa-Kontagora]
 population: 30000
 country_id: NG
 country_name: Nigeria

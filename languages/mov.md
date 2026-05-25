@@ -1,7 +1,9 @@
 ---
 iso: mov
 name: Mohave
+name_zh: 莫哈維語
 autonym: Mohave
+alt_names: [Amaquaqua, Jamajab, Mohave (Arizona), Mohave (California), Mohave (Californie), Mojave, Mojave language, River Yuman, Upriver Yuman, Yuman (Upriver)]
 population: 200
 country_id: US
 country_name: United States

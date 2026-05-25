@@ -2,6 +2,7 @@
 iso: vaj
 name: Sekele
 autonym: Northern ǃKung
+alt_names: [Northwestern ǃKung, Vasekele, "ǃKung, Northwestern"]
 population: 14200
 country_id: NA
 country_name: Namibia

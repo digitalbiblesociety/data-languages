@@ -1,6 +1,7 @@
 ---
 iso: mwr
 name: Marwari
+name_zh: 馬瓦里語
 autonym: मारवाड़ी
 population: 14000000
 country_id: IN

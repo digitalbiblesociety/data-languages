@@ -2,6 +2,7 @@
 iso: nnf
 name: Ngaing
 autonym: Mailang
+alt_names: [Sor]
 population: null
 country_id: PG
 country_name: Papua New Guinea

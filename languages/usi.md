@@ -2,6 +2,7 @@
 iso: usi
 name: Usui
 autonym: Tripuri
+alt_names: [Unshoi, Unsuiy, Ushoi, Usoi]
 population: 22400
 country_id: BD
 country_name: Bangladesh

@@ -2,6 +2,7 @@
 iso: shw
 name: Shwai
 autonym: Shirumba
+alt_names: [Chirumba, Cwaya, Ludumor, Shuway]
 population: 3500
 country_id: SD
 country_name: Sudan

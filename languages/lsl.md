@@ -1,6 +1,7 @@
 ---
 iso: lsl
 name: Latvian Sign Language
+name_zh: 拉脱维亚手语
 autonym: Latviešu zīmju valoda
 population: 2000
 country_id: LV

@@ -2,6 +2,7 @@
 iso: nmo
 name: Moyon Naga
 autonym: Moyon Naga
+alt_names: [Mayol, Mayon Naga, Moyon, "Naga, Moyon", "Naga,Moyon"]
 population: 3700
 country_id: IN
 country_name: India

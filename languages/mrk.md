@@ -2,6 +2,7 @@
 iso: mrk
 name: Hmwaveke
 autonym: Ceta
+alt_names: [Faa Ceta, Moaveke, Neukaledonien]
 population: 300
 country_id: NC
 country_name: New Caledonia

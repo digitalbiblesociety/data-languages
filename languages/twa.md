@@ -2,6 +2,7 @@
 iso: twa
 name: Twana
 autonym: Skokomish
+alt_names: [Sqʷuqʷúʔbəšq, Tuana]
 population: null
 country_id: US
 country_name: United States

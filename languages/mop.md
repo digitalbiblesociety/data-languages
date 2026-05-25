@@ -1,7 +1,9 @@
 ---
 iso: mop
 name: Mopán Maya
+name_zh: 磨潘语
 autonym: "Maya, Mopán"
+alt_names: [Idioma mopan, Língua mopan, Maya, Maya Mopán, Maya mopan, Mopan, Mopan Maya, Mopan language, Mopane, Mopn Maya, Mopán, Mopán (Belize), Mopán (Guatemala), Мопански јазик]
 population: 12610
 country_id: BZ
 country_name: Belize

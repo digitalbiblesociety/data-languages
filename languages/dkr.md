@@ -2,6 +2,7 @@
 iso: dkr
 name: Kuijau
 autonym: Hill Dusun
+alt_names: [Kijau, Koijoe, Kuiyow, Kujau, Kuliow, Kuriyo, Kwijau, Menindal, Menindaq, Minansut, Tidung, Tindal]
 population: 7910
 country_id: MY
 country_name: Malaysia

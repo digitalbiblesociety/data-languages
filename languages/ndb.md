@@ -2,6 +2,7 @@
 iso: ndb
 name: Kenswei Nsei
 autonym: Kenswei Nsei
+alt_names: [Bamessing, Befi, Calebasses, Kensense, Melamba, Mesing, Ndop-Bamessing, Nsei, Veteng, Vetweng]
 population: 25000
 country_id: CM
 country_name: Cameroon

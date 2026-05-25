@@ -2,6 +2,7 @@
 iso: ore
 name: Orejón
 autonym: Koto
+alt_names: [Coto, Koihoma, Mai Huna, Mai Ja, Maihiki, Maihuna, Maijuna, Orechon, Oregon, Orejon, Orejone, Orejó, Payagua, Payaguá, Payguaje, Payoguaje, Tutapi]
 population: 190
 country_id: PE
 country_name: Peru

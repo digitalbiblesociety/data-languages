@@ -2,6 +2,7 @@
 iso: nbc
 name: Chang Naga
 autonym: Mochungrr
+alt_names: [Chang, Changyanguh, Machongrr, Mochumi, Mojung, Naga, "Naga, Chang", "Naga,Chang", Tśang]
 population: 66900
 country_id: IN
 country_name: India

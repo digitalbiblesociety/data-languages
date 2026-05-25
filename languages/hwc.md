@@ -1,7 +1,9 @@
 ---
 iso: hwc
 name: "Hawai'i Creole English"
+name_zh: 夏威夷英语
 autonym: Hawaii Creole English
+alt_names: ["Creole English, Hawai'i", "Hawai'i Pidgin"]
 population: 600000
 country_id: US
 country_name: United States

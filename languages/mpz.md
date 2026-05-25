@@ -1,7 +1,9 @@
 ---
 iso: mpz
 name: Mpi
+name_zh: 姆毕语
 autonym: Kaw
+alt_names: [Mpi-Mi]
 population: 1500
 country_id: TH
 country_name: Thailand

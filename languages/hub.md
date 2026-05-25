@@ -2,6 +2,7 @@
 iso: hub
 name: Huambisa
 autonym: null
+alt_names: [Achual, Achuale, Achuall, Achuar chicham, Achuar-Shiwiar, Achuara, Chiwaro, Hivaro, Huambisa (wampis), Huambiseg, Huambiza, Hívaro, Jibaro, Jivaro, Jíbaro, Jívaro, Maina, Shiwiar chicham, Shuar, Shuar chicham, Shuar-Huampis, Shuara, Wambisa, Wampis, Xivaro, Xívaro]
 population: 10200
 country_id: PE
 country_name: Peru

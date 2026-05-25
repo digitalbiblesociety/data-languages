@@ -2,6 +2,7 @@
 iso: cfd
 name: Cara
 autonym: Teriya
+alt_names: [Chara, Fachara, Fakara, Nfachara, Pakara, Tariya, Tera, Terri]
 population: 3000
 country_id: NG
 country_name: Nigeria

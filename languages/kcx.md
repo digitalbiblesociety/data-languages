@@ -2,6 +2,7 @@
 iso: kcx
 name: "Kachama-Ganjule"
 autonym: null
+alt_names: [Gatame, "Gats'ame", "Gats'amé", Gatsama - ganjule - harro, Gatsame, "Get'eme", Gidicho, Harro, Haruro, Kachama, Qechem]
 population: 1002
 country_id: ET
 country_name: Ethiopia

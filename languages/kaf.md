@@ -1,7 +1,9 @@
 ---
 iso: kaf
 name: Katso
+name_zh: 卡卓語
 autonym: Kazhuo
+alt_names: [Gazhuo, Khatso, 卡卓, 喀卓, 嘎卓]
 population: 4000
 country_id: CN
 country_name: China

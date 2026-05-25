@@ -2,6 +2,7 @@
 iso: quq
 name: Quinqui
 autonym: null
+alt_names: [Spain]
 population: null
 country_id: ES
 country_name: Spain

@@ -1,7 +1,9 @@
 ---
 iso: erk
 name: South Efate
+name_zh: 南埃法特语
 autonym: South Efate
+alt_names: ["Efate, South", Erakor, Fate, Southern Efate, Éfaté du Sud]
 population: 6000
 country_id: VU
 country_name: Vanuatu

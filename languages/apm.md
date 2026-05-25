@@ -2,6 +2,7 @@
 iso: apm
 name: "Mescalero-Chiricahua Apache"
 autonym: Ndee bizaa
+alt_names: [Apache, Apache (Chiricahua), Apache (Eastern), Apache (Mescalero-Chiricahua), Apache mescalero-chiricahua (Nouveau-Mexique), Apache mescalero-chiricahua (Oklahoma), "Apache, Mescalero-Chiricahua", Chiricahau, Chiricahua, Chiricahua Apache, Chiricahua language, Chiricahua-Mescalero, Eastern Apache, Mescalero, Mescalero Cluster, Mescalero-Chiricahau, Mescalero-Chiricahua]
 population: 1800
 country_id: US
 country_name: United States

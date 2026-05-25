@@ -2,6 +2,7 @@
 iso: nkb
 name: Khoibu Naga
 autonym: Khoibu
+alt_names: [Khoibu Maring, Khoibu Maring Naga, "Naga, Khoibu", "Naga,Khoibu"]
 population: 25600
 country_id: IN
 country_name: India

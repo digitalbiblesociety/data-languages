@@ -2,6 +2,7 @@
 iso: mln
 name: Malango
 autonym: Teha
+alt_names: [Guadalcanar, Südliche Salomons-Inseln]
 population: 4140
 country_id: SB
 country_name: Solomon Islands

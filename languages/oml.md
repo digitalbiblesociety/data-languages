@@ -2,6 +2,7 @@
 iso: oml
 name: Ombo
 autonym: Hombo
+alt_names: [Loombo, Songola]
 population: 8400
 country_id: CD
 country_name: DR Congo

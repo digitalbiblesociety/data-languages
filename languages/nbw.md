@@ -1,7 +1,9 @@
 ---
 iso: nbw
 name: Southern Ngbandi
+name_zh: 南恩班迪语
 autonym: Mbati
+alt_names: [Dendi, Mbangi, Mongbandi, Mongwandi, Ngbandi, "Ngbandi, Southern", Ngbandi-Ngiri, Ngbandi-Sud, Ngwandi, Yakoma (Sango)]
 population: 105000
 country_id: CD
 country_name: DR Congo

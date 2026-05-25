@@ -2,6 +2,7 @@
 iso: vid
 name: Vidunda
 autonym: null
+alt_names: [Chividunda, Kividunda, Ndunda]
 population: 12000
 country_id: TZ
 country_name: Tanzania

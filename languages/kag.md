@@ -2,6 +2,7 @@
 iso: kag
 name: Kajaman
 autonym: Kayaman
+alt_names: [Kajaman-Sekapan, Kejaman]
 population: 500
 country_id: MY
 country_name: Malaysia

@@ -2,6 +2,7 @@
 iso: bgw
 name: Bhatri
 autonym: Basturia
+alt_names: [Bhatra, Bhattra, Bhattri, Bhottada, Bhottara]
 population: 334000
 country_id: IN
 country_name: India

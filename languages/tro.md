@@ -2,6 +2,7 @@
 iso: tro
 name: Tarao Naga
 autonym: Tarao Naga
+alt_names: [Naga, Naga (Tarao), "Naga, Tarao", "Naga,Tarao", Tarao, Taraotrong, Tarau]
 population: 870
 country_id: IN
 country_name: India

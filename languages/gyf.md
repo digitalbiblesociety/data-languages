@@ -2,6 +2,7 @@
 iso: gyf
 name: Gungabula
 autonym: Southern Maric
+alt_names: [Gongabula, Khungabula, Khungabulal, Kongabula, Kungabula, Kungalburra, Ongabula]
 population: null
 country_id: AU
 country_name: Australia

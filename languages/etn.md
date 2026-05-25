@@ -2,6 +2,7 @@
 iso: etn
 name: Eton (Vanuatu)
 autonym: Eastern Efate
+alt_names: [Epwau, Eton]
 population: 500
 country_id: VU
 country_name: Vanuatu

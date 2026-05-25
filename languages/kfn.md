@@ -2,6 +2,7 @@
 iso: kfn
 name: Kuk
 autonym: null
+alt_names: [Cameroon]
 population: 3000
 country_id: CM
 country_name: Cameroon

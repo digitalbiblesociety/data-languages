@@ -2,6 +2,7 @@
 iso: sti
 name: Bulo Stieng
 autonym: Budíp
+alt_names: [Bulo, Kajiang, Kediang, Northern Stieng, Rangah, Rmang, Stieng, "Stieng, Bulo", Upper Stieng, Xa-Dieng, Xtieng]
 population: 6060
 country_id: VN
 country_name: Vietnam

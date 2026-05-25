@@ -2,6 +2,7 @@
 iso: sqa
 name: "Shama-Sambuga"
 autonym: Tushama
+alt_names: [Bushama]
 population: 5000
 country_id: NG
 country_name: Nigeria

@@ -1,6 +1,7 @@
 ---
 iso: tlh
 name: Klingon
+name_zh: 克林贡语
 autonym: tlhIngan Hol
 population: 9000
 country_id: ZZ

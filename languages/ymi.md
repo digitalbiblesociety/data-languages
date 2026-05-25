@@ -1,7 +1,9 @@
 ---
 iso: ymi
 name: Moji
+name_zh: 墨几语
 autonym: Muji
+alt_names: [Flathead Phulai, Phula, Phulawa, Pingtou Phula]
 population: 2000
 country_id: CN
 country_name: China

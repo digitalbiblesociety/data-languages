@@ -2,6 +2,7 @@
 iso: bzz
 name: Evant
 autonym: Avand
+alt_names: [Avande, Balegete, Belegete, Evand, Ovand, Ovande, Ovando]
 population: 10000
 country_id: NG
 country_name: Nigeria

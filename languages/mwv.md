@@ -2,6 +2,7 @@
 iso: mwv
 name: Mentawai
 autonym: Behase Mentawei
+alt_names: [Bahasa Mentawai, Mentavajų kalba, Mentawaiera, Mentawain kieli, Mentawei, Mentawei-Engano, Mentawi, ภาษาเม็นตาไว]
 population: 58000
 country_id: ID
 country_name: Indonesia

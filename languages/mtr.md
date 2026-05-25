@@ -1,7 +1,9 @@
 ---
 iso: mtr
 name: Mewari
+name_zh: 梅瓦尔语
 autonym: Mewadi
+alt_names: [Język mewari, பாக்ரி மொழி, மேவாரி மொழி, ภาษาพาครี, ภาษาเมวารี]
 population: 4210000
 country_id: IN
 country_name: India

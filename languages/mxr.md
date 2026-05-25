@@ -2,6 +2,7 @@
 iso: mxr
 name: Murik (Malaysia)
 autonym: null
+alt_names: ["Kayan, Murik", Malaysia, Murik]
 population: 1120
 country_id: MY
 country_name: Malaysia

@@ -2,6 +2,7 @@
 iso: msn
 name: Vurës
 autonym: Vureas
+alt_names: [Banks-Inseln, Mosin, Mosina, Mwesen, Vures]
 population: 1050
 country_id: VU
 country_name: Vanuatu

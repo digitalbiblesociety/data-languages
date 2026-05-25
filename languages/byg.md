@@ -2,6 +2,7 @@
 iso: byg
 name: Baygo
 autonym: Baigo
+alt_names: [Bego, Beigo, Beko, Beygo, Béogé]
 population: null
 country_id: SD
 country_name: Sudan

@@ -2,6 +2,7 @@
 iso: dsq
 name: Tadaksahak
 autonym: Tadáksahak
+alt_names: [Daosahaq, Daoussahaq, Daoussak, Dausahaq, Dawsahaq]
 population: 159800
 country_id: ML
 country_name: Mali

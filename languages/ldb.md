@@ -2,6 +2,7 @@
 iso: ldb
 name: Dũya
 autonym: Dũya
+alt_names: [Adong, Idun, Lungu, Ungu]
 population: 78000
 country_id: NG
 country_name: Nigeria

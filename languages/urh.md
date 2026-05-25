@@ -1,7 +1,9 @@
 ---
 iso: urh
 name: Urhobo
+name_zh: 烏爾霍博語
 autonym: Sobo
+alt_names: ["\"Sobo\""]
 population: 1050000
 country_id: NG
 country_name: Nigeria

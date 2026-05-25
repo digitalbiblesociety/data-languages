@@ -1,7 +1,9 @@
 ---
 iso: kjz
 name: Bumthangkha
+name_zh: 布姆唐语
 autonym: Bhumtam
+alt_names: [Bumtang, Bumtangkha, Bumtanp, Bumthang, Bumthapkha, Kebumtamp]
 population: 20000
 country_id: BT
 country_name: Bhutan

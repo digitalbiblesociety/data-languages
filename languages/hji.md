@@ -1,7 +1,9 @@
 ---
 iso: hji
 name: Haji
+name_zh: 哈吉语
 autonym: Aji
+alt_names: [Malayisch]
 population: 17500
 country_id: ID
 country_name: Indonesia

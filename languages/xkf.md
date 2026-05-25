@@ -2,6 +2,7 @@
 iso: xkf
 name: Khengkha
 autonym: " ྨཕགལཔམཕ"
+alt_names: [Ken, Keng, Kenkha, Khen, Kheng, Khenkha, Kyengkha]
 population: 31500
 country_id: BT
 country_name: Bhutan

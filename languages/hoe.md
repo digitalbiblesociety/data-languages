@@ -2,6 +2,7 @@
 iso: hoe
 name: Horom
 autonym: Horom
+alt_names: ["\"Kaleri\"", Kaleri]
 population: 1500
 country_id: NG
 country_name: Nigeria

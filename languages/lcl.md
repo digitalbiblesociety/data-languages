@@ -2,6 +2,7 @@
 iso: lcl
 name: Lisela
 autonym: bahasa Lisela
+alt_names: [Buru, Li Enyorot, Liet Enjorot, North Buru, Wayapo]
 population: 11900
 country_id: ID
 country_name: Indonesia

@@ -1,7 +1,9 @@
 ---
 iso: wuh
 name: Wutunhua
+name_zh: 五屯话
 autonym: Wutong
+alt_names: [Wutun, 五屯話]
 population: 2000
 country_id: CN
 country_name: China

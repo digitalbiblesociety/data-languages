@@ -2,6 +2,7 @@
 iso: kwx
 name: Khirwar
 autonym: Kherwari
+alt_names: [Gonḍi, Gōṇḍī, Khirwara]
 population: 25800
 country_id: IN
 country_name: India

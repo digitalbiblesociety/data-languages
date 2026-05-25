@@ -2,6 +2,7 @@
 iso: ian
 name: Iatmul
 autonym: gepmakudi
+alt_names: [Big Sepik, Gepma Kwudi, Gepma Kwundi, Middle Sepik, Ngepma Kwundi, No. 2 Sepik, Nyaura]
 population: 8440
 country_id: PG
 country_name: Papua New Guinea

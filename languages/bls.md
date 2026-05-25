@@ -2,6 +2,7 @@
 iso: bls
 name: Balaesang
 autonym: Balaesan
+alt_names: [Balaesano, Balaisang, Baleasang, Pajo]
 population: 3200
 country_id: ID
 country_name: Indonesia

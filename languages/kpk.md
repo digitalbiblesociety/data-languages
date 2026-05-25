@@ -2,6 +2,7 @@
 iso: kpk
 name: Kpan
 autonym: Abakan
+alt_names: [Eregba, Hwaso, Hwaye, Ibukwo, Ikpan, Kpanten, Kpwate, Nyatso, Nyonyo, Yorda]
 population: 11400
 country_id: NG
 country_name: Nigeria

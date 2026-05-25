@@ -1,7 +1,9 @@
 ---
 iso: jic
 name: Tol
+name_zh: 希卡克語
 autonym: " Jicaque de la Flor"
+alt_names: [Cicaque, Eastern Jicaque, Eastern Tol, Hicaque, Ikake, Jicaque, Taguaca, Tauhca, "Tol (Eastern), Tol (Western)", Tolpan, Tolupan, Torrupan, Western Tol, Xicaque]
 population: 19000
 country_id: HN
 country_name: Honduras

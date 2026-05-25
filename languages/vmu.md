@@ -2,6 +2,7 @@
 iso: vmu
 name: Muluridyi
 autonym: Binjara
+alt_names: [Djankun, Gugu Muluridyi, Jungkurara, Kokanodna, Koko moloroiji, Kokojelandji, Kokokulunggur, Kokomoloreij, Kokomoloreitji, Kokomoloroij, Kokomoloroitji, Kokowalandja, Kookanoona, Kuku, Kuku yalanji, Molloreiji, Molloroidyi, Molloroiji, Mooloroiji, Moorlooratchee, Mulari ji, Mularitchee, Mull ridgey, Mullridgey, Muluridji, Muluriji, Muluritji, Mulurutji, Wakara, Waluridji, Wulpura, koko moloroitji]
 population: null
 country_id: AU
 country_name: Australia

@@ -2,6 +2,7 @@
 iso: oke
 name: Okpe (Southwestern Edo)
 autonym: null
+alt_names: [Nigeria, Okpe]
 population: 25400
 country_id: NG
 country_name: Nigeria

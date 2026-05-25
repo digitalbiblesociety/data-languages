@@ -2,6 +2,7 @@
 iso: nkv
 name: Nyika
 autonym: Kinyika
+alt_names: [Nyika (Malawi and Zambia)]
 population: 10000
 country_id: MW
 country_name: Malawi

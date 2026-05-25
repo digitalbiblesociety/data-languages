@@ -2,6 +2,7 @@
 iso: des
 name: Desano
 autonym: Winá
+alt_names: [Boleka, Desana, Desana-Siriana, Desano (Brésil), Desano (Colombia), Desano (Colombie), Desano-Siriano, Dessana, Dessano, Desána, Desâna, Kotedia, Kusibi, Oregu, Siriano (Brésil), Siriano (Colombia), Siriano (Colombie), Uina, Wina, Wira, Wirã]
 population: 3420
 country_id: BR
 country_name: Brazil

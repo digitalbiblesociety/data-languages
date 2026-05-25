@@ -2,6 +2,7 @@
 iso: wri
 name: Wariyangga
 autonym: Warriyangka
+alt_names: [Malgaru, Malygaru, Malykaru, Wadi, Wadiwangga, Wari wonga, Wari-wonga, Warianga, Wariangga, Warienga, Wariengga, Wariwonga, Wariwongga, Wariyanga, Warrijangga, Warriwonga, Warriyangga, Woorenga, Woorienga, Worrienga, iengga]
 population: null
 country_id: AU
 country_name: Australia

@@ -1,6 +1,7 @@
 ---
 iso: aze
 name: Azerbaijani
+name_zh: 阿塞拜疆语
 autonym: Azərbaycan dili
 population: 23000000
 country_id: AZ

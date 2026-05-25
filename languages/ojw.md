@@ -1,7 +1,9 @@
 ---
 iso: ojw
 name: Western Ojibwa
+name_zh: 索特語
 autonym: Nakawēmowinᓇᐦᑲᐌᒧᐎᓐ
+alt_names: [Chippeway, Nakawēmowin, Ojibwa, "Ojibwa, Western", Ojibway, Ojibwe, Ojibwe du nord-ouest, Oyibua noroccidental, Plains Ojibway, Salteaux, Saulteau, Saulteaux]
 population: 10000
 country_id: CA
 country_name: Canada

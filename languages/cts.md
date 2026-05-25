@@ -2,6 +2,7 @@
 iso: cts
 name: Northern Catanduanes Bikol
 autonym: Northern Catanduanes Bicolano
+alt_names: ["Bicolano, Northern Catanduanes", Bikol, "Bikol, Northern Catanduanes", Pandan]
 population: 77500
 country_id: PH
 country_name: Philippines

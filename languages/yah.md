@@ -1,7 +1,9 @@
 ---
 iso: yah
 name: Yazgulyam
+name_zh: 亚兹古拉姆语
 autonym: yuzdami zevég
+alt_names: [Iazgulem, Jazgulami keel, Jazguljamin kieli, Yazghulami, Yazgoulyameg, Yazgulam, Yazgulami, Yazgulamí, Yazgulyami, Yazgulâmi, Yuzdomi zəvég, Zgamígayi zəvég, Zgamígi zəvég, Язгулем чĕлхи, Язгулемски език, ภาษายัซกุลยาม]
 population: 4000
 country_id: TJ
 country_name: Tajikistan

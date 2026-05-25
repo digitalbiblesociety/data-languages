@@ -2,6 +2,7 @@
 iso: krh
 name: Kurama
 autonym: Tukurami
+alt_names: [Akurmi, Akurumi, Azumu, Bagwama, Bukurumi, Tikurami]
 population: 40300
 country_id: NG
 country_name: Nigeria

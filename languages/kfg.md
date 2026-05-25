@@ -2,6 +2,7 @@
 iso: kfg
 name: Kudiya
 autonym: Male Kudiya
+alt_names: [Kurku]
 population: 2800
 country_id: IN
 country_name: India

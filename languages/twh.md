@@ -1,7 +1,9 @@
 ---
 iso: twh
 name: Tai Dón
+name_zh: 傣端语
 autonym: White Tai
+alt_names: [Tai Blanc, Tai Don, Tai Kao, Tai Lai, Thai Blanc, Thái Tráng, Táy Khao, White Thai]
 population: 495000
 country_id: VN
 country_name: Vietnam

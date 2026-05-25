@@ -2,6 +2,7 @@
 iso: bjt
 name: "Balanta-Ganja"
 autonym: Alante
+alt_names: [Balanda, Balant, Balanta, Balante, Ballante, Belante, Brassa, Bulanda, Fjaa, Fraase]
 population: 116000
 country_id: SN
 country_name: Senegal

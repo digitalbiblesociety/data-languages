@@ -2,6 +2,7 @@
 iso: smv
 name: Samvedi
 autonym: Samavedi
+alt_names: [India]
 population: 60000
 country_id: IN
 country_name: India

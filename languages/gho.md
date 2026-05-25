@@ -2,6 +2,7 @@
 iso: gho
 name: Ghomara
 autonym: Shilha
+alt_names: [Ghmara, Ghomara Berber, Ghumāra]
 population: 10000
 country_id: MA
 country_name: Morocco

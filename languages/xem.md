@@ -2,6 +2,7 @@
 iso: xem
 name: Kembayan
 autonym: Mateq
+alt_names: [Indonesia]
 population: 11000
 country_id: ID
 country_name: Indonesia

@@ -1,7 +1,9 @@
 ---
 iso: jje
 name: Jejueo
+name_zh: 济州语
 autonym: 제주말
+alt_names: [Chejueo, Jeju Jiyeokeo, Jeju bangeon, Jeju saturi, Jejumal, Jejutmal, Saturi, 濟州地域語, 濟州方言, 濟州語, 사투리, 제주 방언, 제주 사투리, 제주 지역어, 제주어, 제줏말]
 population: 5000
 country_id: KR
 country_name: South Korea

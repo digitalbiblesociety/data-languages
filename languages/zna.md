@@ -2,6 +2,7 @@
 iso: zna
 name: Zan Gula
 autonym: Goula
+alt_names: [Gula Guera, Moriil, Morre, mòrḭ̀ḭ̀l]
 population: 5000
 country_id: TD
 country_name: Chad

@@ -2,6 +2,7 @@
 iso: mfo
 name: Mbe
 autonym: Mbe
+alt_names: [Nigeria]
 population: 14300
 country_id: NG
 country_name: Nigeria

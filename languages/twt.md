@@ -2,6 +2,7 @@
 iso: twt
 name: Turiwára
 autonym: Turiuara
+alt_names: [Turiwara]
 population: null
 country_id: BR
 country_name: Brazil

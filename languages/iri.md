@@ -2,6 +2,7 @@
 iso: iri
 name: Rigwe
 autonym: Irigwe
+alt_names: [Aregwe, Idafan, Iregwe, Kwal, Kwan, Kwoll, Kwolla, Miango, Nkarigwe, Nnerigwe, Nyango]
 population: 40000
 country_id: NG
 country_name: Nigeria

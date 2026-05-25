@@ -2,6 +2,7 @@
 iso: kdc
 name: Kutu
 autonym: null
+alt_names: [Khutu, Kikutu]
 population: 27500
 country_id: TZ
 country_name: Tanzania

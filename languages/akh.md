@@ -2,6 +2,7 @@
 iso: akh
 name: Angal Heneng
 autonym: Mendi
+alt_names: [Agarar, Augu, Katinja, Wage, West Angal Heneng, West Mendi]
 population: 40000
 country_id: PG
 country_name: Papua New Guinea

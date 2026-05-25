@@ -2,6 +2,7 @@
 iso: lbi
 name: "La'bi"
 autonym: La’bi
+alt_names: [Cameroon]
 population: 4400
 country_id: CM
 country_name: Cameroon

@@ -2,6 +2,7 @@
 iso: vra
 name: "Vera'a"
 autonym: Vatrata
+alt_names: [Banks-Inseln]
 population: 500
 country_id: VU
 country_name: Vanuatu

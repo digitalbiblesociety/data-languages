@@ -2,6 +2,7 @@
 iso: luj
 name: Luna
 autonym: Northern Luba
+alt_names: [Inkongo, Kuba]
 population: 50000
 country_id: CD
 country_name: DR Congo

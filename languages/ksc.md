@@ -2,6 +2,7 @@
 iso: ksc
 name: Southern Kalinga
 autonym: Madlango Kalinga
+alt_names: ["Kalinga, Southern", Tinglayan Kalinga]
 population: 13000
 country_id: PH
 country_name: Philippines

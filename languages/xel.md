@@ -2,6 +2,7 @@
 iso: xel
 name: Kelo
 autonym: "Kelo-Beni Sheko"
+alt_names: [Ndu-Faa-Keelo, Tornasi]
 population: 200
 country_id: SD
 country_name: Sudan

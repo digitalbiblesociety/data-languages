@@ -1,7 +1,9 @@
 ---
 iso: tyz
 name: Tày
+name_zh: 岱依语
 autonym: Tho
+alt_names: ["\"Thô\"", Ngan, Phen, "T'o", "T'u", Tai Tho, Tay, Thu, Thu Lao]
 population: 1630000
 country_id: VN
 country_name: Vietnam

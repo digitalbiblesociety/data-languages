@@ -2,6 +2,7 @@
 iso: tuj
 name: Tugutil
 autonym: bahasa Tugutil
+alt_names: [Indonesia]
 population: 2590
 country_id: ID
 country_name: Indonesia

@@ -1,6 +1,7 @@
 ---
 iso: kjv
 name: Kaikavian Literary Language
+name_zh: 卡伊方言
 autonym: kajkavščina / kajkavština / kajkavica
 population: null
 country_id: HR

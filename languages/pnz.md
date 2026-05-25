@@ -2,6 +2,7 @@
 iso: pnz
 name: Pana (Central African Republic)
 autonym: Pani
+alt_names: [Pana]
 population: 10000
 country_id: CF
 country_name: Central African Republic

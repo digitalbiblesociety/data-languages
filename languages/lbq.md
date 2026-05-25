@@ -2,6 +2,7 @@
 iso: lbq
 name: Wampar
 autonym: Laewomba
+alt_names: [Laewamba, Laiwomba]
 population: 5150
 country_id: PG
 country_name: Papua New Guinea

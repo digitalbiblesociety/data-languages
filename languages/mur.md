@@ -1,7 +1,9 @@
 ---
 iso: mur
 name: Murle
+name_zh: 穆爾語
 autonym: Murleye
+alt_names: [Adkibba, Agiba, Ajibba, Beir, Merule, Mourle, Murele, Murelei, Murule, Omo-Murle]
 population: 196000
 country_id: SS
 country_name: South Sudan

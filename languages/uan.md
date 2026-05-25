@@ -1,7 +1,9 @@
 ---
 iso: uan
 name: Kuan
+name_zh: 宽语
 autonym: null
+alt_names: [Laos]
 population: 2500
 country_id: LA
 country_name: Laos

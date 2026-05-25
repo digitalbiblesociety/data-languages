@@ -1,7 +1,9 @@
 ---
 iso: trf
 name: Trinidadian Creole English
+name_zh: 特立尼达混合语
 autonym: null
+alt_names: ["Creole English, Trinidadian"]
 population: 9600
 country_id: TT
 country_name: Trinidad and Tobago

@@ -2,6 +2,7 @@
 iso: kof
 name: Kubi
 autonym: Kuba
+alt_names: [Be, Denawa, Deno, Denwa, Kubawa]
 population: null
 country_id: NG
 country_name: Nigeria

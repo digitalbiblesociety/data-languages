@@ -1,7 +1,9 @@
 ---
 iso: bxm
 name: Mongolia Buriat
+name_zh: 蒙古布里亚特语
 autonym: Buriat
+alt_names: [Bouriate (Cis-Baïkalie), Bouriate (Mandchourie), Bouriate (Transbaïkalie), "Bur:aad", "Buriat, Mongolia", Buriat-Mongolian, Buriato (transbaikálico), Burjatisch, Buryat, Eastern Buryat, Mongolian Buriat, Northern Mongolian, buryaad xelen, буриад аялгуу, буряад хэлэн, бурят-монгольский язык, бурятский язык]
 population: 42500
 country_id: MN
 country_name: Mongolia

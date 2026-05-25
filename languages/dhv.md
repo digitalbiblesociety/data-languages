@@ -1,7 +1,9 @@
 ---
 iso: dhv
 name: Dehu
+name_zh: 德雷胡语
 autonym: null
+alt_names: ["De'u", Drehu, Drehu language, Lifou, Lifu]
 population: 13000
 country_id: NC
 country_name: New Caledonia

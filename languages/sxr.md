@@ -1,7 +1,9 @@
 ---
 iso: sxr
 name: Saaroa
+name_zh: 拉阿鲁哇语
 autonym: "Hla'alua"
+alt_names: ["La'alua", "La'arua", Lha’alua, Pachien, Paichien, Rarua, Saarua, Saroa, Shishaban, Sisyaban, ภาษาซาอารัว, 拉阿魯哇語]
 population: 300
 country_id: TW
 country_name: Taiwan

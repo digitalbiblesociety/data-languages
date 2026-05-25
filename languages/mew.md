@@ -2,6 +2,7 @@
 iso: mew
 name: Maaka
 autonym: Maagha
+alt_names: [Maga, Magha, Maha, Maka]
 population: 10000
 country_id: NG
 country_name: Nigeria

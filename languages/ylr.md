@@ -2,6 +2,7 @@
 iso: ylr
 name: Yalarnnga
 autonym: Jalanga
+alt_names: [Jalannga, Jalarnnga, Lenga yalarnnga, Wonganja, Yalannga, Yalarnga, Yalarrnga, Yallunga, Yelina, Yellanga, Yellunga]
 population: null
 country_id: AU
 country_name: Australia

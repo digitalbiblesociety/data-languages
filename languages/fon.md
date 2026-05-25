@@ -1,7 +1,9 @@
 ---
 iso: fon
 name: Fon
+name_zh: 豐語
 autonym: fɔ̀ngbè/fõbè
+alt_names: [Dahomeen, Djedji, Fo, Fogbe, Fon-gbe, Foneg, Fongbe, Fonnu, Fonua lingvo, Język fon, Língua fon]
 population: 2067900
 country_id: BJ
 country_name: Benin

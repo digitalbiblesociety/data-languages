@@ -2,6 +2,7 @@
 iso: kjd
 name: Southern Kiwai
 autonym: Kiwai
+alt_names: ["Kiwai, Southern"]
 population: 1000
 country_id: PG
 country_name: Papua New Guinea

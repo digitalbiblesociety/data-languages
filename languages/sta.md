@@ -2,6 +2,7 @@
 iso: sta
 name: Settla
 autonym: Settla
+alt_names: [Kisetla, Kisettla]
 population: null
 country_id: ZM
 country_name: Zambia

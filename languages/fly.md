@@ -1,7 +1,9 @@
 ---
 iso: fly
 name: Flaaitaal
+name_zh: 伊斯坎索语
 autonym: Flaaitaal
+alt_names: [Flaai Taal, Fly Taal, Tsotsitaal]
 population: null
 country_id: ZA
 country_name: South Africa

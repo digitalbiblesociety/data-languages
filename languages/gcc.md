@@ -1,7 +1,9 @@
 ---
 iso: gcc
 name: Mali
+name_zh: 马里语
 autonym: Gaktai
+alt_names: [Baining, Mali-Baining, Neu-Pommern]
 population: 2200
 country_id: PG
 country_name: Papua New Guinea

@@ -2,6 +2,7 @@
 iso: kdp
 name: "Kaningdon-Nindem"
 autonym: "Kaningkom-Nindem"
+alt_names: [Nigeria]
 population: 12000
 country_id: NG
 country_name: Nigeria

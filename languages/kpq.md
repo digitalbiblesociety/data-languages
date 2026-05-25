@@ -2,6 +2,7 @@
 iso: kpq
 name: "Korupun-Sela"
 autonym: Sela
+alt_names: [Kimyal of Korupun, Korapun]
 population: 8000
 country_id: ID
 country_name: Indonesia

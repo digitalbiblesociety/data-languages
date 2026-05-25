@@ -1,7 +1,9 @@
 ---
 iso: fvr
 name: Fur
+name_zh: 富尔语
 autonym: bèle fòòr
+alt_names: [Dala, For, Fora, Fordunga, Forok, Forta, Four, Furakang, Furawi, Kadirgi, Kondjara, Konjara, Korra, Kungara, Kurka, Lali, Onage, Yerge]
 population: 745800
 country_id: SD
 country_name: Sudan

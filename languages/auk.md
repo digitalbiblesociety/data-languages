@@ -2,6 +2,7 @@
 iso: auk
 name: Heyo
 autonym: Arinua
+alt_names: [Arima, Arinwa, Lolopani, Ruruhip, Wan Wan, Wanib, Wanwan]
 population: 2710
 country_id: PG
 country_name: Papua New Guinea

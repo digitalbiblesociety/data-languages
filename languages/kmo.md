@@ -2,6 +2,7 @@
 iso: kmo
 name: Kwoma
 autonym: Washkuk
+alt_names: [Kuome, Kwoma Proper]
 population: 3000
 country_id: PG
 country_name: Papua New Guinea

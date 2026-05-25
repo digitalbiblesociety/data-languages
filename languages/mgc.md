@@ -2,6 +2,7 @@
 iso: mgc
 name: Morokodo
 autonym: null
+alt_names: ["Ma'di", Morocodo]
 population: 50000
 country_id: SS
 country_name: South Sudan

@@ -1,7 +1,9 @@
 ---
 iso: bas
 name: Basa (Cameroon)
+name_zh: 巴萨语
 autonym: Mbene
+alt_names: [Basa, Basa-um, Basaa, Basaa language, Basaeg, Basaá, Bassa, Idioma basaa, Język basaa]
 population: 300000
 country_id: CM
 country_name: Cameroon

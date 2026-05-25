@@ -2,6 +2,7 @@
 iso: mix
 name: Mixtepec Mixtec
 autonym: (San Juan Mixtepec)
+alt_names: [Eastern Juxtlahuaca Mixtec, "Mixtec, Mixtepec", Mixteco de Oeste Central, Mixteco de San Juan Mixtepec, Northern Misteko, Northern Mixteco]
 population: 2500
 country_id: MX
 country_name: Mexico

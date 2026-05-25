@@ -2,6 +2,7 @@
 iso: buj
 name: "Basa-Gurmana"
 autonym: "Basa-Gurmana"
+alt_names: [Basa, Koromba]
 population: 2000
 country_id: NG
 country_name: Nigeria

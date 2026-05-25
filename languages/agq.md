@@ -1,7 +1,9 @@
 ---
 iso: agq
 name: Aghem
+name_zh: 亚罕语
 autonym: Wum
+alt_names: [Yum]
 population: 39100
 country_id: CM
 country_name: Cameroon

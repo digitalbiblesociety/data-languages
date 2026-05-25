@@ -2,6 +2,7 @@
 iso: gbl
 name: Gamit
 autonym: Gamati
+alt_names: [Gameti, Gamith, Gamta, Gamti, Gavit]
 population: 139000
 country_id: IN
 country_name: India

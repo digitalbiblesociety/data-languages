@@ -2,6 +2,7 @@
 iso: ldo
 name: Loo
 autonym: Shụŋọ
+alt_names: [Lo, Loh, Shungo, Shunhu]
 population: 8000
 country_id: NG
 country_name: Nigeria

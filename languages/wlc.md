@@ -2,6 +2,7 @@
 iso: wlc
 name: Mwali Comorian
 autonym: shikomori/شِكُمُرِ
+alt_names: ["Comorian, Mwali", Shimwali]
 population: 42500
 country_id: KM
 country_name: Comoros

@@ -1,7 +1,9 @@
 ---
 iso: jhi
 name: Jehai
+name_zh: 嘉海語
 autonym: Jahai
+alt_names: [Jehehr, Pangan, Pangan-Dialekte]
 population: 1000
 country_id: MY
 country_name: Malaysia

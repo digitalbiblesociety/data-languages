@@ -1,7 +1,9 @@
 ---
 iso: sxg
 name: Shuhi
+name_zh: 史興語
 autonym: Shuhi
+alt_names: [Shixing, Sichín, Xumi, 史興話, 旭米語]
 population: 1200
 country_id: CN
 country_name: China

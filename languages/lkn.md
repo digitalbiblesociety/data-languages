@@ -2,6 +2,7 @@
 iso: lkn
 name: Lakon
 autonym: Vure
+alt_names: [Banks-Inseln, Gaua, Gog, Lakona, Vurē]
 population: 700
 country_id: VU
 country_name: Vanuatu

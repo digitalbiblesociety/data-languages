@@ -2,6 +2,7 @@
 iso: twy
 name: Tawoyan
 autonym: Tabojan
+alt_names: [Dayak, Tabojan Tongka, Taboyan, Tabuyan, Tawoyan Dayak, Tewoyan]
 population: 20000
 country_id: ID
 country_name: Indonesia

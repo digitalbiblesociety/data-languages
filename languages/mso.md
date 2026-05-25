@@ -2,6 +2,7 @@
 iso: mso
 name: Mombum
 autonym: Kemelom
+alt_names: [Kemelomsch, Komelom, Komolom]
 population: 250
 country_id: ID
 country_name: Indonesia

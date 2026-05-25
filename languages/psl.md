@@ -2,6 +2,7 @@
 iso: psl
 name: Puerto Rican Sign Language
 autonym: Lenguaje de Señas Bolivianas LSB
+alt_names: [PRSL]
 population: 10000
 country_id: PR
 country_name: Puerto Rico

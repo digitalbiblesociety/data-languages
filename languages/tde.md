@@ -2,6 +2,7 @@
 iso: tde
 name: Tiranige Diga Dogon
 autonym: Tiranige dige
+alt_names: ["Dogon, Tiranige Diga", Duleri, Duleri Dom, Tiranige, Tiranige Diga]
 population: 4200
 country_id: ML
 country_name: Mali

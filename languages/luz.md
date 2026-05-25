@@ -1,7 +1,9 @@
 ---
 iso: luz
 name: Southern Luri
+name_zh: 南卢尔语
 autonym: زۊن لٛوْری
+alt_names: [Lor, Lori, Lori-ye Jonubi, Lur, Luri, "Luri, Southern", Ruliy]
 population: 1140000
 country_id: IR
 country_name: Iran

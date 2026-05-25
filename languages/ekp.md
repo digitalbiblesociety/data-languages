@@ -2,6 +2,7 @@
 iso: ekp
 name: Ekpeye
 autonym: Ekkpahia
+alt_names: [Ekpabya, Ekpaffia]
 population: 30000
 country_id: NG
 country_name: Nigeria

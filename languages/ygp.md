@@ -1,6 +1,7 @@
 ---
 iso: ygp
 name: Gepo
+name_zh: 峨颇语
 autonym: Baiyi
 population: 100000
 country_id: CN

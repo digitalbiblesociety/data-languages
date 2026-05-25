@@ -2,6 +2,7 @@
 iso: tgd
 name: Ciwogai
 autonym: Tsagu
+alt_names: [Sago]
 population: 2000
 country_id: NG
 country_name: Nigeria

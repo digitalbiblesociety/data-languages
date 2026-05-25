@@ -2,6 +2,7 @@
 iso: nin
 name: Ninzo
 autonym: Ninzam
+alt_names: [Akiza, Amar Tita, Ancha, Fadan Wate, Gbhu D Amar Randfa, Hate, Incha, Kwasu, Nunzo, Sambe]
 population: 35000
 country_id: NG
 country_name: Nigeria

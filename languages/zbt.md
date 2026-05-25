@@ -2,6 +2,7 @@
 iso: zbt
 name: Batui
 autonym: Baha
+alt_names: [Pamona]
 population: 2900
 country_id: ID
 country_name: Indonesia

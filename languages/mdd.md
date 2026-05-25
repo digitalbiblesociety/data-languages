@@ -2,6 +2,7 @@
 iso: mdd
 name: Mbum
 autonym: West Mbum
+alt_names: [Buna, Mboum, Mboumtiba, "Mbum (East), Mbum (West)", Wuna]
 population: 511000
 country_id: CM
 country_name: Cameroon

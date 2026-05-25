@@ -2,6 +2,7 @@
 iso: uvl
 name: Lote
 autonym: null
+alt_names: [Uvol]
 population: 6000
 country_id: PG
 country_name: Papua New Guinea

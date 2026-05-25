@@ -2,6 +2,7 @@
 iso: kzu
 name: Kayupulau
 autonym: Kajupulau
+alt_names: [Kayapulau]
 population: 573
 country_id: ID
 country_name: Indonesia

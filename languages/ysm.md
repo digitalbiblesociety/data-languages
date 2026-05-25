@@ -2,6 +2,7 @@
 iso: ysm
 name: Myanmar Sign Language
 autonym: Myanmar Sign Language
+alt_names: [Yangon Sign Language, Yangoon Myanmar Sign Language]
 population: 270000
 country_id: MM
 country_name: Myanmar

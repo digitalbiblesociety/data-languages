@@ -2,6 +2,7 @@
 iso: ato
 name: Atong (Cameroon)
 autonym: Etoh
+alt_names: [Atong]
 population: 4200
 country_id: CM
 country_name: Cameroon

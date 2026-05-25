@@ -1,7 +1,9 @@
 ---
 iso: skh
 name: Sikule
+name_zh: 希库列语
 autonym: Wali Banuah
+alt_names: [Bahasa Sigulai, Sichule, Sikhule]
 population: 20000
 country_id: ID
 country_name: Indonesia

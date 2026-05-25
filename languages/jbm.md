@@ -2,6 +2,7 @@
 iso: jbm
 name: Kwanka
 autonym: Kwang
+alt_names: [Bijim]
 population: 20000
 country_id: NG
 country_name: Nigeria

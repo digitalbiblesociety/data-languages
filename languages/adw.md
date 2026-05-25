@@ -2,6 +2,7 @@
 iso: adw
 name: Amundava
 autonym: Kawahib
+alt_names: [Amondawa, Amondáwa, Amundawa, Amundáwa, Diahoi, Diahói, Diarroi, Djahui, Jiahui, Juma, Karipuna, Kawahib/Paranawat/Pawaté-Wirafed, Parintintín, Parintintín/Tenharim/Juma, Tenharim, Tenharím, Tukumanfed, Uru-eu-uau-uau, Yuma]
 population: 81
 country_id: BR
 country_name: Brazil

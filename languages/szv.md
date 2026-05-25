@@ -2,6 +2,7 @@
 iso: szv
 name: Isu (Fako Division)
 autonym: Subu
+alt_names: [Bimbia, Isu, Isubu, Isuwu, Su, Suwu]
 population: 800
 country_id: CM
 country_name: Cameroon

@@ -1,7 +1,9 @@
 ---
 iso: syc
 name: Classical Syriac
+name_zh: 叙利亚语
 autonym: ܠܫܢܐ ܣܘܪܝܝܐ
+alt_names: [Ancient Syriac, Bahasa Suryani, Gammelsyrisk, Język syryjski, Lingua Syriaca, Lingua siriaca, Lishana Atiga, Língua siríaca, Siria lingvo, Siricis, Sirieg, Sirijski jezik, Sirjački jezik, Siríaco, Sirščina, Suryaya, Suryoyo, Syriac, Syriac language, "Syriac, Classical", Syriaque, Syrisch, Syrische Sprache, Syriska, Syrština, Syyrian kieli, Süryanice, Süüria keel, Sýrčina, syriaque classique, Сирийский язык, Сириски јазик, סורית, زبان سریانی, سيريانى, لغة سريانية, സുറിയാനി, ภาษาซีเรียค, シリア語, 敘利亞語, 시리아어]
 population: 575000
 country_id: TR
 country_name: Turkey

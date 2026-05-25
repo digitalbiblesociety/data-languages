@@ -1,7 +1,9 @@
 ---
 iso: hup
 name: Hupa
+name_zh: 胡帕语
 autonym: Na꞉tinixwe Mixine꞉wheʼ
+alt_names: [Hoopa, Hoopa-Chilula, Hupa-Chilula-Whilkut, Хупа]
 population: 223
 country_id: US
 country_name: United States

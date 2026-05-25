@@ -2,6 +2,7 @@
 iso: yin
 name: Riang Lai
 autonym: Black Riang
+alt_names: [Ranei, Striped Karen, Yinchia, Yinnet]
 population: 12000
 country_id: MM
 country_name: Myanmar

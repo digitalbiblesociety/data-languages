@@ -2,6 +2,7 @@
 iso: jnj
 name: Yemsa
 autonym: Yemsa
+alt_names: ["\"Janjerinya\"", "\"Janjero\"", "\"Janjor\"", "\"Yangaro\"", "\"Zinjero\"", Janjerinya, Janjero, Janjor, Yangaro, Yem, Yemma, Zinjero]
 population: 160000
 country_id: ET
 country_name: Ethiopia

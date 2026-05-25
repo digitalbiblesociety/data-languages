@@ -1,7 +1,9 @@
 ---
 iso: caw
 name: Callawalla
+name_zh: 卡拉瓦亞語
 autonym: Callahuaya
+alt_names: [Callawaya, Collahuaya, Kaljavajų kalba, Kallawaya, Machaj-Juyai, Pohena, Кальяуайя]
 population: null
 country_id: BO
 country_name: Bolivia

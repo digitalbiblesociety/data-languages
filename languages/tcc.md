@@ -2,6 +2,7 @@
 iso: tcc
 name: Datooga
 autonym: Datog
+alt_names: ["\"Mangati\"", Datoga, Tatog, Tatoga, Taturu]
 population: 161000
 country_id: TZ
 country_name: Tanzania

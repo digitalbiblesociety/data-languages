@@ -1,7 +1,9 @@
 ---
 iso: wiy
 name: Wiyot
+name_zh: 维约特语
 autonym: Soulatluk
+alt_names: [Kowilth, Weyot, Wishosk, Wishoskan, Wiyoshk, Wiyot-språket, Wiyotan Isolate, Wiyoteg, Вийот]
 population: null
 country_id: US
 country_name: United States

@@ -2,6 +2,7 @@
 iso: mws
 name: "Mwimbi-Muthambi"
 autonym: Kimîîru
+alt_names: [Kenya]
 population: 70000
 country_id: KE
 country_name: Kenya

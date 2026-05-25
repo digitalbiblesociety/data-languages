@@ -2,6 +2,7 @@
 iso: wok
 name: Longto
 autonym: Voko
+alt_names: [Boko, Gobeyo, Longa, Longbo, Lonto, Woko]
 population: 2400
 country_id: CM
 country_name: Cameroon

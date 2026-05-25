@@ -2,6 +2,7 @@
 iso: djn
 name: Jawoyn
 autonym: Djauan
+alt_names: [Adowen, Charmong, Chau an, Chau-an, Chauan, Djauun, Djauwung, Djauwuny, Djawan, Djawanj, Djawin, Djawun, Djouan, Djowan, Djowei, Gundjawan, Jauan, Jawan, Jawin, Jawonj, Jawony, Juauan, Kumertuo, Lebryryd, Nggandindmi, Tjauen, Tjawen, Tjouen, Tweinbol, Wonborngu]
 population: 15
 country_id: AU
 country_name: Australia

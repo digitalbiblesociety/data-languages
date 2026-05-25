@@ -2,6 +2,7 @@
 iso: kop
 name: Waube
 autonym: Waupe
+alt_names: [Kwato]
 population: 780
 country_id: PG
 country_name: Papua New Guinea

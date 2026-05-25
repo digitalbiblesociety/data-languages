@@ -2,6 +2,7 @@
 iso: pmn
 name: Pam
 autonym: null
+alt_names: [Cameroon]
 population: 30
 country_id: CM
 country_name: Cameroon

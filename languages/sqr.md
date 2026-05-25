@@ -1,7 +1,9 @@
 ---
 iso: sqr
 name: Siculo Arabic
+name_zh: 西西里阿拉伯语
 autonym: صقلية عربية
+alt_names: ["Arabic, Siculo"]
 population: null
 country_id: MT
 country_name: Malta

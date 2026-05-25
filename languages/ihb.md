@@ -2,6 +2,7 @@
 iso: ihb
 name: Iha Based Pidgin
 autonym: Kapaur
+alt_names: [Indonesia]
 population: null
 country_id: ID
 country_name: Indonesia

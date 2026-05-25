@@ -1,7 +1,9 @@
 ---
 iso: hts
 name: Hadza
+name_zh: 哈扎语
 autonym: Hazane
+alt_names: ["\"Tindiga\"", Hadzabi, Hadzapi, Hatsa, Idioma hadza, Kangeju, Kindiga, Lingua Hadza, Língua hadza, Tindiga, Wakindiga, Хадза]
 population: 800
 country_id: TZ
 country_name: Tanzania

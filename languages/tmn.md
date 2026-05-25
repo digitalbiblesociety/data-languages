@@ -1,7 +1,9 @@
 ---
 iso: tmn
 name: Taman (Indonesia)
+name_zh: 塔曼语
 autonym: Dayak Taman
+alt_names: [Dayak, Taman, Taman Dayak]
 population: 30000
 country_id: ID
 country_name: Indonesia

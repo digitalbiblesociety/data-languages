@@ -2,6 +2,7 @@
 iso: kkq
 name: Kaiku
 autonym: Ikaiku
+alt_names: [Kaeku, Kaiko]
 population: 13000
 country_id: CD
 country_name: DR Congo

@@ -2,6 +2,7 @@
 iso: gis
 name: North Giziga
 autonym: Dogba
+alt_names: [Gisiga, Gisika, Giziga, Giziga de Maroua, "Giziga, North", Guiziga, Marva, Mi Marva, North and Giziga, South, Tchere]
 population: 20000
 country_id: CM
 country_name: Cameroon

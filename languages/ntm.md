@@ -2,6 +2,7 @@
 iso: ntm
 name: Nateni
 autonym: null
+alt_names: [Natimba, Tayari]
 population: 102000
 country_id: BJ
 country_name: Benin

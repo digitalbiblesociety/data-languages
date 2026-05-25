@@ -2,6 +2,7 @@
 iso: bjv
 name: Bedjond
 autonym: Nangnda
+alt_names: [Bediondo, Bediondo Mbai, Bedjondo, Bédjonde, Mbay Bediondo, Mbay Bejondo]
 population: 36000
 country_id: TD
 country_name: Chad

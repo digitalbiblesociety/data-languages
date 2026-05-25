@@ -2,6 +2,7 @@
 iso: mpe
 name: Majang
 autonym: "Ato Majanger-Onk"
+alt_names: [Ajo, Ato Majang, Majanjiro, Masango, Masongo, Mesengo, Ojanjur, Tama]
 population: 30000
 country_id: ET
 country_name: Ethiopia

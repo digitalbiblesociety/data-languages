@@ -2,6 +2,7 @@
 iso: lln
 name: Lele (Chad)
 autonym: null
+alt_names: [Chad, Lele]
 population: 26000
 country_id: TD
 country_name: Chad

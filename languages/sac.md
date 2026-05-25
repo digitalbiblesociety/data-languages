@@ -1,7 +1,9 @@
 ---
 iso: sac
 name: Meskwaki
+name_zh: 福克斯語
 autonym: "Meskwaki-Sauk-Kickapoo"
+alt_names: [Fox, Fox-Sauk-Kickapoo, Meskwakie, Mesquakie, Mesquakie-Sauk-Kickapoo, Sac and Fox, Sauk-Fox]
 population: 250
 country_id: US
 country_name: United States

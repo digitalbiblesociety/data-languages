@@ -1,7 +1,9 @@
 ---
 iso: cuo
 name: Cumanagoto
+name_zh: 库马纳戈托语
 autonym: Kumana
+alt_names: [Chaima, Chayma, Cumanagota, Cumanogoto, Cumaná, Guaga-Tagare, Kumaná, Sayma, Warapiche]
 population: 112
 country_id: VE
 country_name: Venezuela

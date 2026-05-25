@@ -2,6 +2,7 @@
 iso: mcx
 name: Mpiemo
 autonym: Mbimu
+alt_names: [Bimu, Mbimou, Mbyemo, Mpo, Mpyemo]
 population: 24000
 country_id: CF
 country_name: Central African Republic

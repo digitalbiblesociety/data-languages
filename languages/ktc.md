@@ -2,6 +2,7 @@
 iso: ktc
 name: Kholok
 autonym: Kode
+alt_names: [Koode, Kwoode, Pia, Pitiko, Piya, Widala, Wurkum]
 population: 2500
 country_id: NG
 country_name: Nigeria

@@ -2,6 +2,7 @@
 iso: bep
 name: Besoa
 autonym: Besoa
+alt_names: [Bada, Behoa]
 population: 4280
 country_id: ID
 country_name: Indonesia

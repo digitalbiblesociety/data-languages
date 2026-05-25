@@ -1,7 +1,9 @@
 ---
 iso: kmj
 name: Kumarbhag Paharia
+name_zh: 库马尔巴格帕哈里亚语
 autonym: Paharia
+alt_names: [Kumar, Mad, Mal, Maler, Malti, Malto, Maltu, Pahariya]
 population: 20200
 country_id: IN
 country_name: India

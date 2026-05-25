@@ -2,6 +2,7 @@
 iso: dgn
 name: Dagoman
 autonym: Yangmanic
+alt_names: [Airiman, Dogeman, Tagoman, Togeman, Togiman, Wagiman, Wagoman, Wogba]
 population: null
 country_id: AU
 country_name: Australia

@@ -2,6 +2,7 @@
 iso: wbt
 name: Warnman
 autonym: Warnman
+alt_names: [Budijarra, Gardujarra, Giyajarra, Kartudjara, Keiadjara, Mandjildjara, Manyjilyjarra, Mardu, Nanid jara, Nanid-jara, Nanidjara, Nenidjara, Njanidjara, Nyaani, Potidjara, Wanman, Wanman Wanman, Wanmanba, Wanmin, Warumala]
 population: null
 country_id: AU
 country_name: Australia

@@ -2,6 +2,7 @@
 iso: raf
 name: Western Meohang
 autonym: Mewahang
+alt_names: [Jindā, Meohang, "Meohang, Western", "Meohang,Western", Newahang, Newahang Jimi, Newang, Newange Rai, Rai, Western, Western Mewahang]
 population: 3000
 country_id: NP
 country_name: Nepal

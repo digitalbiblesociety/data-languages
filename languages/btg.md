@@ -2,6 +2,7 @@
 iso: btg
 name: Gagnoa Bété
 autonym: Beteic
+alt_names: [Bete, Bété, "Bété, Gagnoa", Eastern Bété, Gagnoa Bete, Gagnoua-Bété, Shyen]
 population: 150000
 country_id: CI
 country_name: "Côte d'Ivoire"

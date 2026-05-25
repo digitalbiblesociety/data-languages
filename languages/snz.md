@@ -2,6 +2,7 @@
 iso: snz
 name: Kou
 autonym: Sinsauru
+alt_names: [Kow]
 population: 500
 country_id: PG
 country_name: Papua New Guinea

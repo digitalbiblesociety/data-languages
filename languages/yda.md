@@ -2,6 +2,7 @@
 iso: yda
 name: Yanda
 autonym: Janda
+alt_names: [Yunda]
 population: null
 country_id: AU
 country_name: Australia

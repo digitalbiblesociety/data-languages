@@ -2,6 +2,7 @@
 iso: wem
 name: Weme Gbe
 autonym: fɔ̀ngbè/fõbè
+alt_names: [Gbe, "Gbe, Weme", Weme, Wéménugbé]
 population: 284000
 country_id: BJ
 country_name: Benin

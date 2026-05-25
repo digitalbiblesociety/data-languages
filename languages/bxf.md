@@ -2,6 +2,7 @@
 iso: bxf
 name: Bilur
 autonym: Minigir
+alt_names: [Birar]
 population: 2300
 country_id: PG
 country_name: Papua New Guinea

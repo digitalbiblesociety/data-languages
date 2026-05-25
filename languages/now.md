@@ -2,6 +2,7 @@
 iso: now
 name: Nyambo
 autonym: Ekinyambo
+alt_names: [Karagwe, Kinyambo, Ragwe, Rukaragwe, Runyambo, Ururagwe]
 population: 381000
 country_id: TZ
 country_name: Tanzania

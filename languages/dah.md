@@ -2,6 +2,7 @@
 iso: dah
 name: Gwahatike
 autonym: Dahating
+alt_names: [Gwatike]
 population: 1570
 country_id: PG
 country_name: Papua New Guinea

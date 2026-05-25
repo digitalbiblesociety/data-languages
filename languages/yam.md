@@ -2,6 +2,7 @@
 iso: yam
 name: Yamba
 autonym: Bebaroe
+alt_names: ["\"Kaka\"", Boenga Ko Muzok, Kakayamba, Mbem, Mbubem, "Swe'nga"]
 population: 80000
 country_id: CM
 country_name: Cameroon

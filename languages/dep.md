@@ -2,6 +2,7 @@
 iso: dep
 name: Pidgin Delaware
 autonym: null
+alt_names: [Delaware, "Delaware, Pidgin"]
 population: null
 country_id: US
 country_name: United States

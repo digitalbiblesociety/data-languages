@@ -2,6 +2,7 @@
 iso: nly
 name: Nyamal
 autonym: Gnamo
+alt_names: [Ibarga, Ibargo, Ibarrga, "N'amal", Namal, Namarl, Namel, Njalmal, Njamal, Njamarl, Njamat, Nyamarl, Nyamel, Pundju, Pundju Njamal, "Pundu N'amal", Pundu Namal, Tjingkai Njamal, Wanbarda, Weedokarry, Weedookary, Widagaree, Widagari, Wirdakarri, Witukari, Ñamal]
 population: 20
 country_id: AU
 country_name: Australia

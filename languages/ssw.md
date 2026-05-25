@@ -1,7 +1,9 @@
 ---
 iso: ssw
 name: Swati
+name_zh: 斯瓦蒂语
 autonym: siSwati
+alt_names: [Bahasa Swati, Idioma suazi, Isiswazi, Język suazi, Lengua SiSwati, Lingua swati, Língua suázi, Phuthi, Siswazi, Suací, Svazia lingvo, Swasi simi, Swatieg, Swatum, Swazi, Swazi (Swati), Swazin kieli, Tekela, Tekeza, Thithiza, Yeyeza, Свази, Свати, スワジ語, 스와티어]
 population: 2314500
 country_id: SZ
 country_name: Eswatini

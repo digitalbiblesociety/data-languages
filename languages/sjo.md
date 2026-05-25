@@ -1,7 +1,9 @@
 ---
 iso: sjo
 name: Xibe
+name_zh: 锡伯语
 autonym: Xibe
+alt_names: [Chibeg, Colloquial Manchu, Sibe, Sibin, Sibo, Xiben kieli, Xibenisch, Xibo, Сибески јазик, شىبە تىلى, ภาษาซิเบ, シボ語, 錫伯語, 锡伯语, 시버어]
 population: 190000
 country_id: CN
 country_name: China

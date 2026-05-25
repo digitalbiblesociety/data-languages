@@ -2,6 +2,7 @@
 iso: weo
 name: Wemale
 autonym: Honitetu
+alt_names: [Indonesia, North Wemale, "Wemale, North"]
 population: 3091
 country_id: ID
 country_name: Indonesia

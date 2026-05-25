@@ -2,6 +2,7 @@
 iso: nsw
 name: Navut
 autonym: Sinia
+alt_names: [Vanuatu]
 population: 520
 country_id: VU
 country_name: Vanuatu

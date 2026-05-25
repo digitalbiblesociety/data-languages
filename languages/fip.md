@@ -1,7 +1,9 @@
 ---
 iso: fip
 name: Fipa
+name_zh: Fipa語
 autonym: Ichifipa
+alt_names: [Cifipa, Fiba, Icifipa, Kifipa]
 population: 713000
 country_id: TZ
 country_name: Tanzania

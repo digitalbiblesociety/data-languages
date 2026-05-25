@@ -2,6 +2,7 @@
 iso: pel
 name: Pekal
 autonym: bahasa Pekal
+alt_names: [Indonesia]
 population: 30000
 country_id: ID
 country_name: Indonesia

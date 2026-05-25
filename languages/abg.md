@@ -2,6 +2,7 @@
 iso: abg
 name: Abaga
 autonym: Wagaba
+alt_names: [Vaga, Wagama]
 population: 1200
 country_id: PG
 country_name: Papua New Guinea

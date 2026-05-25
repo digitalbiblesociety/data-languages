@@ -2,6 +2,7 @@
 iso: klm
 name: Migum
 autonym: Migum
+alt_names: [Kolom]
 population: 470
 country_id: PG
 country_name: Papua New Guinea

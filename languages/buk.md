@@ -2,6 +2,7 @@
 iso: buk
 name: Bugawac
 autonym: null
+alt_names: [Bukaua, Bukawa, Bukawa language, Bukawac, Kawa, Kawac, Yom Gawac]
 population: 12000
 country_id: PG
 country_name: Papua New Guinea

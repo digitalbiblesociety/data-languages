@@ -2,6 +2,7 @@
 iso: aad
 name: Amal
 autonym: Alai
+alt_names: [Amal jezik, Amaleg, Amel]
 population: 830
 country_id: PG
 country_name: Papua New Guinea

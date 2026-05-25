@@ -2,6 +2,7 @@
 iso: xmd
 name: Mbudum
 autonym: Mbədam
+alt_names: [Cameroon, Mbedam, Mbedam language]
 population: 6000
 country_id: CM
 country_name: Cameroon

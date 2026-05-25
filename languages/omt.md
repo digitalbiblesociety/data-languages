@@ -2,6 +2,7 @@
 iso: omt
 name: Omotik
 autonym: Laamoot
+alt_names: ["\"Ndorobo\"", Omotic, Omótico]
 population: 200
 country_id: KE
 country_name: Kenya

@@ -1,7 +1,9 @@
 ---
 iso: swa
 name: Swahili
+name_zh: 斯瓦希里语
 autonym: كِسْوَحِيلِ
+alt_names: [Swahili (macrolanguage)]
 population: 15437390
 country_id: TZ
 country_name: Tanzania

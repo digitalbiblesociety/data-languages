@@ -2,6 +2,7 @@
 iso: zae
 name: Yareni Zapotec
 autonym: Etla Zapotec
+alt_names: [Ixtlan, Ixtlán, Ixtlán Zapoteco, Northern Sapoteko, Serrano, Sierra de Juarez, Sierra de Juárez, Sierra de Juárez Zapotec, Western Sapoteko, Western Zapoteco, Zapotec, Zapotec (Juárez), "Zapotec, Yareni", Zapoteco ( Juarez Sierra), Zapoteco de Atepec]
 population: 2900
 country_id: MX
 country_name: Mexico

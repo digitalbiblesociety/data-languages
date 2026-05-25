@@ -2,6 +2,7 @@
 iso: hra
 name: Hrangkhol
 autonym: Hrangkhawl
+alt_names: [Hrangchol, Rancol, Rangkhol, Rāngkhōl]
 population: 18700
 country_id: IN
 country_name: India

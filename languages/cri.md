@@ -1,7 +1,9 @@
 ---
 iso: cri
 name: Sãotomense
+name_zh: 弗罗克里奥尔语
 autonym: forro
+alt_names: [Criollo forro, Forra lingvo, Forro jezik, Lingua forro, Saotomense, Saotomesisk, São Tomense, São Tomé, São-tomense]
 population: 55600
 country_id: ST
 country_name: "Sao Tome & Principe"

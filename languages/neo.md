@@ -1,7 +1,9 @@
 ---
 iso: neo
 name: "Ná-Meo"
+name_zh: 那苗语
 autonym: Na Meo
+alt_names: [Na-Meo, Viet Nam]
 population: 1200
 country_id: VN
 country_name: Vietnam

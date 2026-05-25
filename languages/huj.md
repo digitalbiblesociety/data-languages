@@ -2,6 +2,7 @@
 iso: huj
 name: Northern Guiyang Hmong
 autonym: Hmong
+alt_names: [Hmo, "Hmong, Northern Guiyang", Hmung, Hsiung, Hunan Miao, Miao, "Miao, Northern Guiyang", Northern Guiyang Miao]
 population: 84000
 country_id: CN
 country_name: China

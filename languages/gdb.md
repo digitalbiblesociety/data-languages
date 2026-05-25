@@ -2,6 +2,7 @@
 iso: gdb
 name: Pottangi Ollar Gadaba
 autonym: Gadaba
+alt_names: [Allar, "Gadaba, Pottangi Ollar", Gadba, Hallari, Hollar Gadbas, Kondekar, Kondkor, Ollar Gadaba, Ollari, Ollaro, Pottangi, Pottangi Gadba, Pottangi Ollar, San Gadaba, Sano]
 population: 15000
 country_id: IN
 country_name: India

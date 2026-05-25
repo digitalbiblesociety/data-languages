@@ -2,6 +2,7 @@
 iso: ggu
 name: Gagu
 autonym: Gagou
+alt_names: [Gban, Kago, Kagu]
 population: 60000
 country_id: CI
 country_name: "Côte d'Ivoire"

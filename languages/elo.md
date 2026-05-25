@@ -2,6 +2,7 @@
 iso: elo
 name: El Molo
 autonym: Dehes
+alt_names: ["\"Ndorobo\"", El Molo hizkuntza, Elmolo, Emolo, Fura-Pawa, Ldes, Lenga El Molo]
 population: 700
 country_id: KE
 country_name: Kenya

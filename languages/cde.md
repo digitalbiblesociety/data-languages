@@ -1,7 +1,9 @@
 ---
 iso: cde
 name: Chenchu
+name_zh: 琴丘语
 autonym: Chenchucoolam
+alt_names: [Chenchwar, Chenswar, Choncharu, Thenchoueg]
 population: 26000
 country_id: IN
 country_name: India

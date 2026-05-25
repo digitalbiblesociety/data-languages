@@ -2,6 +2,7 @@
 iso: kxt
 name: Koiwat
 autonym: null
+alt_names: [Sawos]
 population: 800
 country_id: PG
 country_name: Papua New Guinea

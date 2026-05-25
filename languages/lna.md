@@ -2,6 +2,7 @@
 iso: lna
 name: Langbashe
 autonym: Langbase
+alt_names: [Langbashi, Langbasi, Langbwasse, Langwasi]
 population: 43000
 country_id: CF
 country_name: Central African Republic

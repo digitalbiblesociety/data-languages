@@ -1,7 +1,9 @@
 ---
 iso: yug
 name: Yug
+name_zh: 尤格語
 autonym: Дьуʼк
+alt_names: [Idioma yugh, Jug, Jugh, Jugin kieli, Youge, Yougeg, Yugh, Yugh language, Yughisk, Югский язык, 鵒語]
 population: 134
 country_id: RU
 country_name: Russia

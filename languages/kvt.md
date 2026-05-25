@@ -2,6 +2,7 @@
 iso: kvt
 name: Lahta Karen
 autonym: Kangan
+alt_names: ["Karen, Lahta", Lahta]
 population: 9550
 country_id: MM
 country_name: Myanmar

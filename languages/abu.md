@@ -2,6 +2,7 @@
 iso: abu
 name: Abure
 autonym: Abonwa
+alt_names: [Abouré, Abule, Akaplass]
 population: 93000
 country_id: CI
 country_name: "Côte d'Ivoire"

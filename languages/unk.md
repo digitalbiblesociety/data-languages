@@ -2,6 +2,7 @@
 iso: unk
 name: "Enawené-Nawé"
 autonym: Salumã
+alt_names: [Enawene Nawe language, Enawene-Nawe, Enawenê-nawê, Eneuene-Mare, Salumá]
 population: 320
 country_id: BR
 country_name: Brazil

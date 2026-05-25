@@ -1,7 +1,9 @@
 ---
 iso: ckb
 name: "Central Kurdish - Sorani"
+name_zh: 中库尔德语
 autonym: Central Kurdish
+alt_names: [Eastern Kurdish, Język sorani, Kermanji, Kordi, Korkora, Kurdi, Kurdisch, "Kurdish, Central", Kurdy, Mokri, Mukri, "Sine'i", Sorani, Soranî, Sorání, Sorâni, Southern Kurdish, Wawa, Сорани, سورانی, سۆرانی, ภาษาเคิร์ดตอนกลาง]
 population: 5279300
 country_id: IQ
 country_name: Iraq

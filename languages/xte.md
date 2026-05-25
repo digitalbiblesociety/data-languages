@@ -2,6 +2,7 @@
 iso: xte
 name: Ketengban
 autonym: Oktengban
+alt_names: [Kupel]
 population: 9970
 country_id: ID
 country_name: Indonesia

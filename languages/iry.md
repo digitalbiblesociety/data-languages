@@ -2,6 +2,7 @@
 iso: iry
 name: Iraya
 autonym: null
+alt_names: [Philippines]
 population: 10000
 country_id: PH
 country_name: Philippines

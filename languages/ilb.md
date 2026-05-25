@@ -2,6 +2,7 @@
 iso: ilb
 name: Ila
 autonym: Lundwe
+alt_names: [Chiila, Shukulumbwe, Sukulumbwe]
 population: 82900
 country_id: ZM
 country_name: Zambia

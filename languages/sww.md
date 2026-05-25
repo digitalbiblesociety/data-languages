@@ -2,6 +2,7 @@
 iso: sww
 name: Sowa
 autonym: null
+alt_names: [Vanuatu]
 population: null
 country_id: VU
 country_name: Vanuatu

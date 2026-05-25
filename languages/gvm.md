@@ -2,6 +2,7 @@
 iso: gvm
 name: Gurmana
 autonym: null
+alt_names: [Gura]
 population: 3000
 country_id: NG
 country_name: Nigeria

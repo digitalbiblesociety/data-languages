@@ -2,6 +2,7 @@
 iso: nck
 name: "Na-kara"
 autonym: Kokori
+alt_names: [Gukari, Gukariya, Kukkori, Na kara, Nackara, "Naga:ra", Nagara, "Naka:ra", Nakara, Nakarra, Nakkara, Narkarrar, Ngara]
 population: 58
 country_id: AU
 country_name: Australia

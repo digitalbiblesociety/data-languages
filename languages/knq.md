@@ -1,7 +1,9 @@
 ---
 iso: knq
 name: Kintaq
+name_zh: 金塔克语
 autonym: Kentaq Bong
+alt_names: [Bong, Kenta, Kintak, Kintaq Bong, Kintk]
 population: 160
 country_id: MY
 country_name: Malaysia

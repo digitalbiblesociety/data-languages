@@ -2,6 +2,7 @@
 iso: pld
 name: Polari
 autonym: " Parlary"
+alt_names: [Palari, Palarie, Parlare, Parlyaree, Polarieg]
 population: null
 country_id: GB
 country_name: United Kingdom

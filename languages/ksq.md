@@ -2,6 +2,7 @@
 iso: ksq
 name: Kwaami
 autonym: Komawa
+alt_names: [Kwam, Kwamanchi, Kwami, Kwom]
 population: 10000
 country_id: NG
 country_name: Nigeria

@@ -2,6 +2,7 @@
 iso: hut
 name: Humla
 autonym: "Ü-Tsang"
+alt_names: [Dangali, "Humla \"Bhotia\"", Phoke]
 population: 4000
 country_id: NP
 country_name: Nepal

@@ -2,6 +2,7 @@
 iso: ipo
 name: Ipiko
 autonym: Epai
+alt_names: [Higa, Ipikoi]
 population: 200
 country_id: PG
 country_name: Papua New Guinea

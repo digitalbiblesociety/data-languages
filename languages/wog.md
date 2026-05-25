@@ -2,6 +2,7 @@
 iso: wog
 name: Wogamusin
 autonym: Wongamusin
+alt_names: [Język wogamusin, Wogamuosineg]
 population: 700
 country_id: PG
 country_name: Papua New Guinea

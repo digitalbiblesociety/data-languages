@@ -2,6 +2,7 @@
 iso: hmh
 name: Southwestern Huishui Hmong
 autonym: Mhong
+alt_names: [Hmo, Hmong, "Hmong, Southwestern Huishui", Hmung, Hsiung, Hunan Miao, Miao, "Miao, Southwestern Huishui", Southwestern Huishui Miao]
 population: 56000
 country_id: CN
 country_name: China

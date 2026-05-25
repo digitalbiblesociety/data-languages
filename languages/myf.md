@@ -2,6 +2,7 @@
 iso: myf
 name: Bambassi
 autonym: Mao of Bambassi
+alt_names: [Amam, Bambeshi, Bambessi Mao, Didessa, Didessa Mao, Fadiro, Mao of Bambeshi, Mao of Diddesa, Northern Mao, Siggoyo]
 population: 5000
 country_id: ET
 country_name: Ethiopia

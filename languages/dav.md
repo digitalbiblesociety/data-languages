@@ -1,7 +1,9 @@
 ---
 iso: dav
 name: Taita
+name_zh: 台塔语
 autonym: Dabida
+alt_names: [Davida, Dawida, Kidabida, Kitaita, Teita]
 population: 344000
 country_id: KE
 country_name: Kenya

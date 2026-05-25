@@ -2,6 +2,7 @@
 iso: nud
 name: Ngala
 autonym: Sogap
+alt_names: [Gala, Kara, Nggala, Swagup]
 population: 180
 country_id: PG
 country_name: Papua New Guinea

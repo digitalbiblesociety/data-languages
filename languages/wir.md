@@ -2,6 +2,7 @@
 iso: wir
 name: Wiraféd
 autonym: Uirafed
+alt_names: [Cabahyba, Cauaiua, Cauhib, Cawahib, Diahoi, Diahói, Diarroi, Djahui, Jauareta-Tapiia, Jiahui, Juma, Karipuna, Kawahib, Kawahib/Paranawat/Pawaté-Wirafed, Kawaib, Paranawat, Parintintín, Parintintín/Tenharim/Juma, Pawaté-Wirafed, Tenharim, Tenharím, Tukumanfed, Uru-eu-uau-uau, Wirafed, Wiroféd, Yuma]
 population: null
 country_id: BR
 country_name: Brazil

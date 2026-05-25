@@ -2,6 +2,7 @@
 iso: ttb
 name: Gaa
 autonym: Tiba
+alt_names: [Gà]
 population: 10000
 country_id: NG
 country_name: Nigeria

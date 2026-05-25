@@ -2,6 +2,7 @@
 iso: syw
 name: Kagate
 autonym: Syuba
+alt_names: ["K?gate", Kagate Bhote, Kāgatē, Shuba, Shyuba]
 population: 1270
 country_id: NP
 country_name: Nepal

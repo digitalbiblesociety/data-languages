@@ -2,6 +2,7 @@
 iso: kjr
 name: Kurudu
 autonym: bahasa Kurudu
+alt_names: [Indonesia]
 population: 2180
 country_id: ID
 country_name: Indonesia

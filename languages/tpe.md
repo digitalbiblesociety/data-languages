@@ -2,6 +2,7 @@
 iso: tpe
 name: Tippera
 autonym: Tripuri
+alt_names: [Tippera-Bengali, Tipperah, Tippurah, Tipra, Tipura, Triperah, Tripura]
 population: 85000
 country_id: BD
 country_name: Bangladesh

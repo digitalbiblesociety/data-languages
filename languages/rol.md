@@ -2,6 +2,7 @@
 iso: rol
 name: Romblomanon
 autonym: Romblon
+alt_names: [Bisaya]
 population: 157000
 country_id: PH
 country_name: Philippines

@@ -2,6 +2,7 @@
 iso: mpq
 name: Matís
 autonym: matses
+alt_names: [Matis, Matse, Matsés (Perú), Mayoruna (Brésil), Mayoruna (Pérou), Mayoruna-Matsés]
 population: 240
 country_id: BR
 country_name: Brazil

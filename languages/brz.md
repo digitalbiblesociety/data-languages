@@ -2,6 +2,7 @@
 iso: brz
 name: Bilbil
 autonym: Bilibil
+alt_names: [Bil Bil language, Bilbil jezik]
 population: 1250
 country_id: PG
 country_name: Papua New Guinea

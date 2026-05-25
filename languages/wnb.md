@@ -2,6 +2,7 @@
 iso: wnb
 name: Wanambre
 autonym: Mokati
+alt_names: [Vanambere, Vanembere, Wanambe]
 population: 590
 country_id: PG
 country_name: Papua New Guinea

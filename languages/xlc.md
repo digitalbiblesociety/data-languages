@@ -1,7 +1,9 @@
 ---
 iso: xlc
 name: Lycian
+name_zh: 呂基亞語
 autonym: null
+alt_names: [Idioma licio, Język licyjski, Late West Luwian, Lici, Licijski jezik, Likijščina, Likya dili, Lingua Lycia, Lingua licia, Lycian A, Lycien, Lycisch, Lykische Sprache, Lykisk, Lykiska, Ликийский язык, Ликиски јазик, زبان لیکیه‌ای, ภาษาลิเชีย, 리키아어]
 population: null
 country_id: TR
 country_name: Turkey

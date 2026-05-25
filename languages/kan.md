@@ -1,7 +1,9 @@
 ---
 iso: kan
 name: Kannada
+name_zh: 卡纳达语
 autonym: ಕನ್ನಡ
+alt_names: [Badaga-Kannaḍa, Bahasa Kannada, Banglori, Canarese, Fiteny kannada, Havyaka, Idioma canarés, Język kannada, Kanada jezik, Kanadų kalba, Kanara, Kanara lingvo, Kanarese, Kanaríska, Kannada dili, Kannada nyelv, Kannada simi, Kannadeg, Kannadčina, Kannadština, Kannaḍa, Lingua Cannadica, Lingua kannada, Língua canaresa, Madrassi, Nuclear Kannada, Pre-Kannada, Канада, Канада језик, Каннада, زبان کانارا, كانناداچە, ކައްނަޑާ, कन्नड, कन्नड भाषा, कन्नड़ भाषा, কন্নড় ঠার, কন্নড় ভাষা, કન્નડ ભાષા, கன்னடம், కన్నడ భాష, കന്നഡ, ภาษากันนาดา, კანადა, カンナダ語, 卡纳达语, 칸나다어]
 population: 43600000
 country_id: IN
 country_name: India

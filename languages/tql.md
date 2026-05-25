@@ -2,6 +2,7 @@
 iso: tql
 name: Lehali
 autonym: Loli
+alt_names: [Tekel, Teqel]
 population: 250
 country_id: VU
 country_name: Vanuatu

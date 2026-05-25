@@ -2,6 +2,7 @@
 iso: xnm
 name: "Ngumbarl\r"
 autonym: null
+alt_names: [Ngombaru, Ngormbal, Ngumbarl]
 population: null
 country_id: AU
 country_name: Australia

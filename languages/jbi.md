@@ -2,6 +2,7 @@
 iso: jbi
 name: Badjiri
 autonym: Budjari
+alt_names: [Baddyeri, Baderi, Badjedi, Badjeri, Badjidi, Badyidi, Byjerri, Bädjäri, Poidg-erry, Poidgerry]
 population: null
 country_id: AU
 country_name: Australia

@@ -2,6 +2,7 @@
 iso: grx
 name: Guriaso
 autonym: null
+alt_names: [Menóu]
 population: 160
 country_id: PG
 country_name: Papua New Guinea

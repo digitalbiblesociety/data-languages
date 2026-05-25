@@ -2,6 +2,7 @@
 iso: nnp
 name: Wancho Naga
 autonym: Banpara Naga
+alt_names: [Banpara, Joboka, Naga, "Naga, Wancho", "Naga,Wancho", Wancho]
 population: 59200
 country_id: IN
 country_name: India

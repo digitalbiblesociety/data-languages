@@ -2,6 +2,7 @@
 iso: mmp
 name: Siawi
 autonym: Musan
+alt_names: [Musa, Musa jezik, Musian, Siafli, Siwai]
 population: 220
 country_id: PG
 country_name: Papua New Guinea

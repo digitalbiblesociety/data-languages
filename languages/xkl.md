@@ -2,6 +2,7 @@
 iso: xkl
 name: Mainstream Kenyah
 autonym: Lepo’
+alt_names: [Bakong, Bakung, Bakung Kenya, Bakung Kenyah, Highland Kenyah, Kehja, Kelinjau, Kelinyau, Kenja, Kenya, Kenyah, "Kenyah, Kelinyau", Kindjin, Kinjin, Madang, Usun Apau Kenyah]
 population: 52000
 country_id: ID
 country_name: Indonesia

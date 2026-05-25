@@ -2,6 +2,7 @@
 iso: ign
 name: Ignaciano
 autonym: Mojos
+alt_names: [Baure (Ignaciano), Bolivia, Mojeño, Mojo, Moxo]
 population: 2000
 country_id: BO
 country_name: Bolivia

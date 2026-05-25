@@ -2,6 +2,7 @@
 iso: nlj
 name: Nyali
 autonym: Linyali
+alt_names: [Huku, North Nyali, Nyali-Kilo, Nyari]
 population: 43000
 country_id: CD
 country_name: DR Congo

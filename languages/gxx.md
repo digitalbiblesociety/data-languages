@@ -2,6 +2,7 @@
 iso: gxx
 name: Wè Southern
 autonym: Wè
+alt_names: [Central Guéré, Gere, Guere, Guéré, We Southern, Wèè]
 population: 20000
 country_id: CI
 country_name: "Côte d'Ivoire"

@@ -2,6 +2,7 @@
 iso: srx
 name: Sirmauri
 autonym: Himachali
+alt_names: [Sirmouri, Sirmuri]
 population: 400000
 country_id: IN
 country_name: India

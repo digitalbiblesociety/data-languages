@@ -1,7 +1,9 @@
 ---
 iso: yzg
 name: "E'ma Buyang"
+name_zh: 峨马布央语
 autonym: "Boux-yaeŋz"
+alt_names: [Buozaang, Buyang, "Buyang E'ma", Buyang Zhuang, "Buyang, E'ma", Buyán, Eastern Buyang, Funing Buyang, Langjia, Langjia Buyang, 峨馬布央, 郎架布央]
 population: 300
 country_id: CN
 country_name: China

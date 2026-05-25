@@ -2,6 +2,7 @@
 iso: piv
 name: Pileni
 autonym: Pileni
+alt_names: [Bahasa Pileni, Pilheni, Taumako, Vaeakau-Taumako]
 population: 1660
 country_id: SB
 country_name: Solomon Islands

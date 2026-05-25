@@ -2,6 +2,7 @@
 iso: dri
 name: "C'Lela"
 autonym: C’lela
+alt_names: [Cala-Cala, Chilala, Chilela, Dakakari, Dakarkari, Dakkarkari, Kolela, Lalawa, Lela]
 population: 90000
 country_id: NG
 country_name: Nigeria

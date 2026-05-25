@@ -1,7 +1,9 @@
 ---
 iso: dtp
 name: Kadazan Dusun
+name_zh: 中部杜顺语
 autonym: Boros Dusun
+alt_names: [Central Dusun, Central Dusun language, Central Kadazan, Dusan, Dusum, Dusun, "Dusun, Central", "Dusun, Kadazan", Dusur, Kadasan, Kadayan, Kedayan]
 population: 556000
 country_id: MY
 country_name: Malaysia

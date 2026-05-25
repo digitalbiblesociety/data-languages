@@ -2,6 +2,7 @@
 iso: mna
 name: Mbula
 autonym: null
+alt_names: [Mangaaba, Mangaava, Mangaawa, Mangap, Mangap Mbula, Mangap-Mbula, Mangap. Kaimanga]
 population: 4500
 country_id: PG
 country_name: Papua New Guinea

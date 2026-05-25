@@ -2,6 +2,7 @@
 iso: btt
 name: "Bete-Bendi"
 autonym: Bendi
+alt_names: [Bette-Bendi, Dama]
 population: 100000
 country_id: NG
 country_name: Nigeria

@@ -2,6 +2,7 @@
 iso: fwe
 name: Fwe
 autonym: cìfwè
+alt_names: [Namibia]
 population: 10200
 country_id: NA
 country_name: Namibia

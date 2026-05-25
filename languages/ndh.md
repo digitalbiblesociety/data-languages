@@ -2,6 +2,7 @@
 iso: ndh
 name: Ndali
 autonym: Chindali
+alt_names: [Chisukwa dialect, Ici-Ndali, Kindali]
 population: 263000
 country_id: TZ
 country_name: Tanzania

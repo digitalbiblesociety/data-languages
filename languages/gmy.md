@@ -1,7 +1,9 @@
 ---
 iso: gmy
 name: Mycenaean Greek
+name_zh: 迈锡尼希腊语
 autonym: Μυκηναϊκή ελληνική
+alt_names: ["Greek, Mycenaean"]
 population: null
 country_id: GR
 country_name: Greece

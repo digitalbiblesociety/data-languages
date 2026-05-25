@@ -2,6 +2,7 @@
 iso: aog
 name: Angoram
 autonym: Pondo
+alt_names: [Kanda, Maramba, Olem, Sepik No. 1, Tjimundo]
 population: 8220
 country_id: PG
 country_name: Papua New Guinea

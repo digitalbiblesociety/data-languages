@@ -1,6 +1,7 @@
 ---
 iso: xvn
 name: Vandalic
+name_zh: 汪达尔语
 autonym: null
 population: null
 country_id: TN

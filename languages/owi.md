@@ -2,6 +2,7 @@
 iso: owi
 name: Owiniga
 autonym: Bero
+alt_names: [Samo, Taina]
 population: 330
 country_id: PG
 country_name: Papua New Guinea

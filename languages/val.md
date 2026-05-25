@@ -2,6 +2,7 @@
 iso: val
 name: Vehes
 autonym: Buasi
+alt_names: [Vehees]
 population: 70
 country_id: PG
 country_name: Papua New Guinea

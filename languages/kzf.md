@@ -2,6 +2,7 @@
 iso: kzf
 name: "Da'a Kaili"
 autonym: "Kaili, Da'a"
+alt_names: [Bunggu, "Da'a", Kaili]
 population: 3000
 country_id: ID
 country_name: Indonesia

@@ -1,6 +1,7 @@
 ---
 iso: zra
 name: Kara (Korea)
+name_zh: 伽倻语
 autonym: "Kaya, Karak, Kara"
 population: null
 country_id: KR

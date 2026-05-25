@@ -2,6 +2,7 @@
 iso: hdn
 name: Northern Haida
 autonym: " X̱aadas Kíl"
+alt_names: [Haida, Haida (Northern), "Haida, Northern", Masset Haida]
 population: 1100
 country_id: CA
 country_name: Canada

@@ -1,7 +1,9 @@
 ---
 iso: trl
 name: Traveller Scottish
+name_zh: 苏格兰罗姆语
 autonym: "Scots-Romani"
+alt_names: [Scottish Cant, Scottish Traveller Cant, "Scottish, Traveller"]
 population: 4000
 country_id: GB
 country_name: United Kingdom

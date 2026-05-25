@@ -2,6 +2,7 @@
 iso: srl
 name: Isirawa
 autonym: Saberi
+alt_names: [Okwasar, Saweri, Sawuri-Hablifuri]
 population: 1800
 country_id: ID
 country_name: Indonesia

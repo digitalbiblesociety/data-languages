@@ -1,7 +1,9 @@
 ---
 iso: npo
 name: Pochuri Naga
+name_zh: 波丘里语
 autonym: Eastern Rengma
+alt_names: [Anyo, Meluri, Naga, "Naga, Pochuri", "Naga,Pochuri", Pochuri, Pochury, Southern Sangtam]
 population: 21700
 country_id: IN
 country_name: India

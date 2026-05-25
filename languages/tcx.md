@@ -1,7 +1,9 @@
 ---
 iso: tcx
 name: Toda
+name_zh: 托达语
 autonym: tōtā
+alt_names: [Lenga Toda, Lingua Toda, Todeg, Todi, Tuda, Тода, தோடா மொழி]
 population: 1100
 country_id: IN
 country_name: India

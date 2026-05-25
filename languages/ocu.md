@@ -2,6 +2,7 @@
 iso: ocu
 name: Atzingo Matlatzinca
 autonym: "pjiekak'joo"
+alt_names: [Atzinca, Atzingo, Atzinteco, Matlatzinca, Matlatzinca (Atzingo), "Matlatzinca, Atzingo", Matlatzinka, Matlatzinkan, Ocuiltec, Ocuilteco, Okwilteko, Pirinda, Tlahuica, Tlahura]
 population: 642
 country_id: MX
 country_name: Mexico

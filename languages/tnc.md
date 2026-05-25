@@ -2,6 +2,7 @@
 iso: tnc
 name: "Tanimuca-Retuarã"
 autonym: Wejeñememajã oka y Ũp̵airã oka
+alt_names: [Letuama, Letuhama, Retuama, Retuarã, Tanimuca, Tanimuca-Letuama, Tanimuca-Retuar, Tanimuca-Retuara, Uairã, Ufaina]
 population: 1800
 country_id: CO
 country_name: Colombia

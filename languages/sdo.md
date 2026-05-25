@@ -2,6 +2,7 @@
 iso: sdo
 name: "Bukar-Sadung Bidayuh"
 autonym: Buka
+alt_names: ["Bidayuh, Bukar-Sadung", Bukar, Bukar Sadong, Mentu, Mentuh Tapuh, Sabutan, Sadong, Saputan, Seputan, Serian, Tebakang]
 population: 49100
 country_id: MY
 country_name: Malaysia

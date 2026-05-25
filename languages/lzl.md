@@ -2,6 +2,7 @@
 iso: lzl
 name: Litzlitz
 autonym: Naman
+alt_names: [Litzlitz-Visele, Mallicolo]
 population: 15
 country_id: VU
 country_name: Vanuatu

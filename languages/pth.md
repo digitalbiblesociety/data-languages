@@ -2,6 +2,7 @@
 iso: pth
 name: "Pataxó Hã-Ha-Hãe"
 autonym: "Pataxó Hã-Ha-Hãe"
+alt_names: [Patasho, Patasho-Hanhanhain, Patashó, Pataxi, Pataxo Ha-Ha-Hae, Pataxo-Hahahahe, Pataxó, Pataxó-Hanhanhain, Pataxó-Hãhaãi, Pataxó-Hãhãhãe, Patoxó]
 population: null
 country_id: BR
 country_name: Brazil

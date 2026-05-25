@@ -2,6 +2,7 @@
 iso: kji
 name: Zabana
 autonym: Kia
+alt_names: [Kham]
 population: 3360
 country_id: SB
 country_name: Solomon Islands

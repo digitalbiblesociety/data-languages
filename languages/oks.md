@@ -2,6 +2,7 @@
 iso: oks
 name: "Oko-Eni-Osayen"
 autonym: "Ogori-Magongo"
+alt_names: [Oko]
 population: 10000
 country_id: NG
 country_name: Nigeria

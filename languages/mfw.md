@@ -2,6 +2,7 @@
 iso: mfw
 name: Mulaha
 autonym: null
+alt_names: [Laibu]
 population: null
 country_id: PG
 country_name: Papua New Guinea

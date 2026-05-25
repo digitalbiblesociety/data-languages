@@ -1,7 +1,9 @@
 ---
 iso: szy
 name: Sakizaya
+name_zh: 撒奇莱雅语
 autonym: Sakizaya
+alt_names: [Sakiray, Sakiraya]
 population: 958
 country_id: TW
 country_name: Taiwan

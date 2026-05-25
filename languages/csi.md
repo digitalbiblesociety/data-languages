@@ -1,7 +1,9 @@
 ---
 iso: csi
 name: Coast Miwok
+name_zh: 海岸米沃克語
 autonym: null
+alt_names: [Bollanos, Coast, Costal Miwok, Miwok, Miwok (Bodega), Miwok (Coast), "Miwok, Coast"]
 population: 1994
 country_id: US
 country_name: United States

@@ -1,7 +1,9 @@
 ---
 iso: buc
 name: Bushi
+name_zh: 布希语
 autonym: Shibushi
+alt_names: [Antalaotra, Fiteny Antalaotra, Kibuki, Kibushi, Sakalava, Shibushi Shimaore]
 population: 57100
 country_id: YT
 country_name: Mayotte

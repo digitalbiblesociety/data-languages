@@ -1,7 +1,9 @@
 ---
 iso: suv
 name: Puroik
+name_zh: 苏龙语
 autonym: Sulung
+alt_names: [蘇龍語]
 population: 5000
 country_id: IN
 country_name: India

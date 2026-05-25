@@ -2,6 +2,7 @@
 iso: mut
 name: Western Muria
 autonym: Jhoria
+alt_names: [Gonḍi, Gōṇḍī, Mudia, Muria Gondi, "Muria, Western"]
 population: 400000
 country_id: IN
 country_name: India

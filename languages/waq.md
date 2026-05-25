@@ -1,7 +1,9 @@
 ---
 iso: waq
 name: Wagiman
+name_zh: 瓦基曼语
 autonym: Wageman
+alt_names: [Airiman, Ongkakaringa, Tagoman, Wagaman, Wagoman, Wakiman, Wogeman, Woggeman, Wogiman, Wongkakaringa]
 population: null
 country_id: AU
 country_name: Australia

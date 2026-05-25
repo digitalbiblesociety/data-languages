@@ -2,6 +2,7 @@
 iso: bil
 name: Bile
 autonym: Bille
+alt_names: [Bili, Billanchi, Kunbille]
 population: 42000
 country_id: NG
 country_name: Nigeria

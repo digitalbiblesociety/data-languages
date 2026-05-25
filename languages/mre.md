@@ -2,6 +2,7 @@
 iso: mre
 name: "Martha's Vineyard Sign Language"
 autonym: Martha’s Vineyard Sign Language
+alt_names: [MVSL, Martha’s Vineyard-tegnspråk, Martha’s Vineyards Gebärdensprache]
 population: null
 country_id: US
 country_name: United States

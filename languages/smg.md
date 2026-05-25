@@ -2,6 +2,7 @@
 iso: smg
 name: Simbali
 autonym: Asimbali
+alt_names: [Neu-Pommern]
 population: 390
 country_id: PG
 country_name: Papua New Guinea

@@ -1,7 +1,9 @@
 ---
 iso: tin
 name: Tindi
+name_zh: 廷地語
 autonym: Идараб мицци Idarab mittsi
+alt_names: [Idarab mittsi, Język tindyjski, Língua tindi, Tindal, Tindieg, Tindin, Tindin kieli, Тиндинский язык, Тиндинська мова, Тиндски јазик, идараб мицци, идаринский язык, идеринский язык, тиндальский язык, тиндийский язык]
 population: 5000
 country_id: RU
 country_name: Russia

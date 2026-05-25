@@ -2,6 +2,7 @@
 iso: bim
 name: Bimoba
 autonym: Moar
+alt_names: [Moba, Moor]
 population: 200000
 country_id: GH
 country_name: Ghana

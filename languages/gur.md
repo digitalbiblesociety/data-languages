@@ -1,7 +1,9 @@
 ---
 iso: gur
 name: Farefare
+name_zh: 弗拉弗拉语
 autonym: Gurenɛ
+alt_names: [Frafra, Gurenne, Gurne, Gurune, Nankane, Nankani, Ninkare]
 population: 663100
 country_id: GH
 country_name: Ghana

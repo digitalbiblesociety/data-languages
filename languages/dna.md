@@ -2,6 +2,7 @@
 iso: dna
 name: Upper Grand Valley Dani
 autonym: null
+alt_names: [Dani, "Dani, Upper Grand Valley", Grand Valley Dani, Ndani]
 population: 20000
 country_id: ID
 country_name: Indonesia

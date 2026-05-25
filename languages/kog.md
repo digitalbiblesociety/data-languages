@@ -2,6 +2,7 @@
 iso: kog
 name: Cogui
 autonym: Kággaba
+alt_names: [Cagaba, Coghui, Coqui, Cágaba, Kagaba, Kaggaba, Kogi, Kogui, Kágaba, Káugian, Köggaba]
 population: 9910
 country_id: CO
 country_name: Colombia

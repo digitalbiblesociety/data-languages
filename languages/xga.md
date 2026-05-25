@@ -1,7 +1,9 @@
 ---
 iso: xga
 name: Galatian
+name_zh: 加拉提亞語
 autonym: null
+alt_names: [Galata, Galate, Galateg, Galaties, Galatisch, Galatische Sprache, Galatisk, Galato, Galatščina, Galaćanski jezik, Gàlata, Idioma galata, Idioma gálata, Język galatyjski, Lingua gálata, Língua gálata, Галатски јазик, Галатский язык, ภาษากาลาเทีย, ガラティア語, 加拉提亞語]
 population: null
 country_id: TR
 country_name: Turkey

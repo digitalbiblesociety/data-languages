@@ -2,6 +2,7 @@
 iso: oro
 name: Orokolo
 autonym: Bailala
+alt_names: [Elema, Haira, Kaipi, Kairi-Kaura, Kairu-Kaura, Muro, Muru, Vailala, West Elema]
 population: 7500
 country_id: PG
 country_name: Papua New Guinea

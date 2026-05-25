@@ -2,6 +2,7 @@
 iso: bsy
 name: Sabah Bisaya
 autonym: Sabah Bisaya
+alt_names: [Basaya, Besaya, Bisaia, "Bisaya, Sabah", Bisayah, Jilama Bawang, Jilama Sungai]
 population: 15800
 country_id: MY
 country_name: Malaysia

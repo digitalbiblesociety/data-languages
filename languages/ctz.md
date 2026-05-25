@@ -2,6 +2,7 @@
 iso: ctz
 name: Zacatepec Chatino
 autonym: Chatino de San Marcos Zacatepec
+alt_names: [Chatino, Chatino de Zacatepec, Chatino de Zacatepeco, Chatino de la zona baja occidental, Chatino des basses-terres occidentales, "Chatino, Zacatepec", Eastern Chatino, Zacatepec]
 population: 1000
 country_id: MX
 country_name: Mexico

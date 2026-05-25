@@ -2,6 +2,7 @@
 iso: ldd
 name: Luri
 autonym: Barawa
+alt_names: [Lur, Lurí, Lúr]
 population: 22000
 country_id: NG
 country_name: Nigeria

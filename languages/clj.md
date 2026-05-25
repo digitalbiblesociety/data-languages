@@ -2,6 +2,7 @@
 iso: clj
 name: Laitu Chin
 autonym: Daitu
+alt_names: ["Chin, Laitu"]
 population: 15000
 country_id: MM
 country_name: Myanmar

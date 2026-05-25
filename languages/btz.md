@@ -1,7 +1,9 @@
 ---
 iso: btz
 name: "Batak Alas-Kluet"
+name_zh: 阿拉斯语
 autonym: Batak Alas
+alt_names: [Alas, Alas-Kluet, Alas-Kluet Batak]
 population: 195000
 country_id: ID
 country_name: Indonesia

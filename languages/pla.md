@@ -2,6 +2,7 @@
 iso: pla
 name: Miani
 autonym: Tani
+alt_names: [Bonaputa-Mapu, Bonaputa-Mopu, Miani North]
 population: 1500
 country_id: PG
 country_name: Papua New Guinea

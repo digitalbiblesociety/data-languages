@@ -2,6 +2,7 @@
 iso: xpv
 name: "Northern Tasmanian\r"
 autonym: Northern Tasmanian
+alt_names: ["Tasmanian, Northern", Tommeginne]
 population: null
 country_id: AU
 country_name: Australia

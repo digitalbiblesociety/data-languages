@@ -2,6 +2,7 @@
 iso: plv
 name: Southwest Palawano
 autonym: null
+alt_names: ["Palawano, Southwest", Philippines]
 population: 12000
 country_id: PH
 country_name: Philippines

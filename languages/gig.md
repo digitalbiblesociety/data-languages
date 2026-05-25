@@ -2,6 +2,7 @@
 iso: gig
 name: Goaria
 autonym: null
+alt_names: [Lingua goaria, Pakistan, கோவாரியா மொழி, ภาษาคอเรีย]
 population: 25400
 country_id: PK
 country_name: Pakistan

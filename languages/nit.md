@@ -1,7 +1,9 @@
 ---
 iso: nit
 name: Southeastern Kolami
+name_zh: 耐基语
 autonym: Southeastern Kolami
+alt_names: [Kolami, "Kolami, Southeastern", Kōlāmì, Naiki, Naikī, Naiquí, Southeastern]
 population: 10000
 country_id: IN
 country_name: India

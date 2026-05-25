@@ -2,6 +2,7 @@
 iso: nmv
 name: Ngamini
 autonym: Karangura
+alt_names: ["A:mini", Agamini, Agaminni, Ahminie, Ahminnie, Amini, Aumine, Aumini, Auminie, Aurnini, Awmani, Ganmeni, Gnameni, Jeljendi, Jeljujendi, Karanguru, Kurangooroo, Ngamani, Ngameni, Ngaminni, Ngnaminni, Ominee, Uminnie, Unminnie, Yarleeyandee, Yarluyandi, Yarluyandji, Yelyayendi]
 population: null
 country_id: AU
 country_name: Australia

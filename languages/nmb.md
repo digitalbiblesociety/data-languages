@@ -1,7 +1,9 @@
 ---
 iso: nmb
 name: Big Nambas
+name_zh: Big Nambas語
 autonym: "V'ənen Taut"
+alt_names: [Mallicolo, Nambas (Big), "Nambas, Big", "V'ënen Taut"]
 population: 3350
 country_id: VU
 country_name: Vanuatu

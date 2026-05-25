@@ -1,7 +1,9 @@
 ---
 iso: okn
 name: "Oki-No-Erabu"
+name_zh: 沖永良部語
 autonym: 島ムニ / Shimamuni
+alt_names: [Kunigami, Okierabu, Okinoerabu, Ryukyuan]
 population: 3200
 country_id: JP
 country_name: Japan

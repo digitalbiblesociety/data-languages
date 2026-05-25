@@ -2,6 +2,7 @@
 iso: kmp
 name: Gimme
 autonym: Koma Kompana
+alt_names: [Gimma, Kompana, Kompara, Panbe]
 population: 3000
 country_id: CM
 country_name: Cameroon

@@ -2,6 +2,7 @@
 iso: pbn
 name: Kpasam
 autonym: Nyesam
+alt_names: ["'Balo", Kpasham, Nyisam, Passam]
 population: 3000
 country_id: NG
 country_name: Nigeria

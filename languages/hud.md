@@ -2,6 +2,7 @@
 iso: hud
 name: Huaulu
 autonym: Alakamat
+alt_names: [Bahasa Asli]
 population: 300
 country_id: ID
 country_name: Indonesia

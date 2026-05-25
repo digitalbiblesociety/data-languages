@@ -1,7 +1,9 @@
 ---
 iso: bfd
 name: Bafut
+name_zh: 巴非特语
 autonym: Fut
+alt_names: [Befe, Bufe, Fu]
 population: 100000
 country_id: CM
 country_name: Cameroon

@@ -1,7 +1,9 @@
 ---
 iso: pga
 name: Sudanese Creole Arabic
+name_zh: 朱巴阿拉伯語
 autonym: Sudanese Creole Arabic
+alt_names: ["Arabic, Sudanese Creole", "Creole Arabic, Sudanese", Juba Arabic, Pidgin Arabic, Southern Sudan Arabic]
 population: 20000
 country_id: SS
 country_name: South Sudan

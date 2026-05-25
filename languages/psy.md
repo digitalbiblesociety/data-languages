@@ -1,7 +1,9 @@
 ---
 iso: psy
 name: Piscataway
+name_zh: 皮斯卡特維語
 autonym: Conoy
+alt_names: [Nanticoke-Conoy, Nanticoke-Piscataway]
 population: null
 country_id: US
 country_name: United States

@@ -2,6 +2,7 @@
 iso: pnc
 name: Pannei
 autonym: Tapango
+alt_names: [Nordost-Celebes]
 population: 9000
 country_id: ID
 country_name: Indonesia

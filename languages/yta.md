@@ -1,7 +1,9 @@
 ---
 iso: yta
 name: Talu
+name_zh: 他鲁语
 autonym: Talu
+alt_names: [Tagu, Taliu, Tazhi, 他留話]
 population: 13600
 country_id: CN
 country_name: China

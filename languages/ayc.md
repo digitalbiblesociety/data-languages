@@ -2,6 +2,7 @@
 iso: ayc
 name: Southern Aymara
 autonym: Aymar aru
+alt_names: ["2 varieties: Aymara (Central)/Aymara (Southern)", Aimara, Aymara, "Aymara, Southern", Aymará, Southern, Tupe]
 population: 213000
 country_id: PE
 country_name: Peru

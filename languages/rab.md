@@ -2,6 +2,7 @@
 iso: rab
 name: Camling
 autonym: Rodong
+alt_names: [Camling jezik, Camlingish, Chamling, Chamlinge Rai, Chamlingo, Chāmbling, Kiranti, Rai, Rōdōng]
 population: 12100
 country_id: NP
 country_name: Nepal

@@ -1,7 +1,9 @@
 ---
 iso: bzk
 name: Nicaragua Creole English
+name_zh: 蚊子海岸克里奧爾語
 autonym: Mískito Coast Creole English
+alt_names: ["Creole English, Nicaragua", Miskito Coast Creole (MCC), Nicaraguan Creole English]
 population: 18400
 country_id: NI
 country_name: Nicaragua

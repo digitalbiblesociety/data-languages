@@ -1,6 +1,7 @@
 ---
 iso: zkv
 name: Krevinian
+name_zh: 克雷温方言
 autonym: Krevin
 population: null
 country_id: LV

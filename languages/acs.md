@@ -2,6 +2,7 @@
 iso: acs
 name: Acroá
 autonym: Coroá
+alt_names: [Acroa, Acroamirim, Akroá, Koroá]
 population: null
 country_id: BR
 country_name: Brazil

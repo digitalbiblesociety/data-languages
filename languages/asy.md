@@ -2,6 +2,7 @@
 iso: asy
 name: Yaosakor Asmat
 autonym: Yaosakor
+alt_names: [Asmat, "Asmat, Yaosakor"]
 population: 2000
 country_id: ID
 country_name: Indonesia

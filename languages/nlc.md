@@ -2,6 +2,7 @@
 iso: nlc
 name: Nalca
 autonym: Hmanggona
+alt_names: [Hmonono, Kimjal, Kimyal, Monomor, Naltje, Naltya]
 population: 16000
 country_id: ID
 country_name: Indonesia

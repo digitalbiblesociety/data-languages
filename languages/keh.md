@@ -2,6 +2,7 @@
 iso: keh
 name: Keak
 autonym: Kwaruwikwundi
+alt_names: [Gaikunti, Kwongai, Sawos, Sepik Plains, Tshuosh, Tshwosh]
 population: 6000
 country_id: PG
 country_name: Papua New Guinea

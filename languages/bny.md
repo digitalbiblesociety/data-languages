@@ -1,6 +1,7 @@
 ---
 iso: bny
 name: Bintulu
+name_zh: 民都魯方言
 autonym: Vaie
 population: 4200
 country_id: MY

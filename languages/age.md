@@ -2,6 +2,7 @@
 iso: age
 name: Angal
 autonym: Mendi
+alt_names: [East Angal, North Mendi]
 population: 18600
 country_id: PG
 country_name: Papua New Guinea

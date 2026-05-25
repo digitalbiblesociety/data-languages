@@ -2,6 +2,7 @@
 iso: kfd
 name: Korra Koraga
 autonym: ಕೊರಗ
+alt_names: [Koraga, Koraga language, "Koraga, Korra", Koragar, Koragara, Korangi, Korra]
 population: 14000
 country_id: IN
 country_name: India

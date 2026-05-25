@@ -2,6 +2,7 @@
 iso: cjv
 name: Chuave
 autonym: null
+alt_names: [Tjuave]
 population: 25980
 country_id: PG
 country_name: Papua New Guinea

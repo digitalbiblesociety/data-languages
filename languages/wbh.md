@@ -2,6 +2,7 @@
 iso: wbh
 name: Wanda
 autonym: Iciwanda
+alt_names: [Ichiwanda, Kiwanda, Vanda, Wandia]
 population: 24000
 country_id: TZ
 country_name: Tanzania

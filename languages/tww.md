@@ -2,6 +2,7 @@
 iso: tww
 name: Tuwari
 autonym: null
+alt_names: [Akiapmin]
 population: 122
 country_id: PG
 country_name: Papua New Guinea

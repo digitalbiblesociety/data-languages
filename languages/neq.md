@@ -2,6 +2,7 @@
 iso: neq
 name: North Central Mixe
 autonym: Central Mixe
+alt_names: [Atitlín Mixe, Mije, Mixe, Mixe de Atitlín, "Mixe, North Central", Northeastern Mixe, Oaxaca Mije]
 population: 13000
 country_id: MX
 country_name: Mexico

@@ -2,6 +2,7 @@
 iso: kdn
 name: Kunda
 autonym: Cikunda
+alt_names: [Chicunda, Chikunda]
 population: 162760
 country_id: ZW
 country_name: Zimbabwe

@@ -2,6 +2,7 @@
 iso: anb
 name: Andoa
 autonym: Gae
+alt_names: [Andoan, Andoeg, Arabela-Andoa, Gaye, Idioma andoa-shimigae, Semigae, Shimigae, Siaviri]
 population: null
 country_id: PE
 country_name: Peru

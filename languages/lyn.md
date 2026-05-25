@@ -1,7 +1,9 @@
 ---
 iso: lyn
 name: Luyana
+name_zh: 卢亚纳语
 autonym: Esiluyana
+alt_names: [Louyi, Luana, Luano, Lui, Luyi, Rouyi]
 population: 12114
 country_id: ZM
 country_name: Zambia

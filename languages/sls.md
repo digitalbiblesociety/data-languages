@@ -1,6 +1,7 @@
 ---
 iso: sls
 name: Singapore Sign Language
+name_zh: 新加坡手语
 autonym: Bahasa isyarat Singapura
 population: 3000
 country_id: SG

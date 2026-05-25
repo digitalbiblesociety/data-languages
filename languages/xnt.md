@@ -1,6 +1,7 @@
 ---
 iso: xnt
 name: Narragansett
+name_zh: 納拉岡塞特語
 autonym: null
 population: null
 country_id: US

@@ -2,6 +2,7 @@
 iso: plc
 name: Central Palawano
 autonym: Palawanen
+alt_names: ["Palawano, Central", Palaweño, Quezon Palawano]
 population: 12000
 country_id: PH
 country_name: Philippines

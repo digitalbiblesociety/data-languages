@@ -1,7 +1,9 @@
 ---
 iso: zeh
 name: Eastern Hongshuihe Zhuang
+name_zh: 東紅水河壯語
 autonym: null
+alt_names: [Chuang, Hongshuihe, Zhuang, Zhuang (Northern), "Zhuang, Eastern Hongshuihe"]
 population: 1200000
 country_id: CN
 country_name: China

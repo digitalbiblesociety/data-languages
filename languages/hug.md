@@ -2,6 +2,7 @@
 iso: hug
 name: Huachipaeri
 autonym: Huachipaire
+alt_names: ["\"Mashco\"", Amarakaire, Greachipari, Harakmbet, Harakmbut, Harákmbut, Hate, Huachipairi, Mashco, Toyeri, Toyoneri, Tuyoneri, Wachipairi, Wachipayri, Wachipaéri, Wacipaire]
 population: 310
 country_id: PE
 country_name: Peru

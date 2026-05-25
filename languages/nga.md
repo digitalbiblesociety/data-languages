@@ -2,6 +2,7 @@
 iso: nga
 name: Ngbaka
 autonym: Ngbaka Minagende
+alt_names: ["'Bofi", Ali, Mbaka, Ngbaka Gbaya, Ngbaka Minangende, Ngbaka-Manza, Ngbaka-Minagende, Ngbaka-Minangende]
 population: 1016650
 country_id: CD
 country_name: DR Congo

@@ -1,6 +1,7 @@
 ---
 iso: xlg
 name: Ligurian (Ancient)
+name_zh: 古利古里亚语
 autonym: null
 population: null
 country_id: IT

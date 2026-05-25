@@ -2,6 +2,7 @@
 iso: nhm
 name: Morelos Nahuatl
 autonym: Náhuatl de Cuentepec
+alt_names: [Central Nawa, Mexicano, Nahua central, Nahuatl, "Nahuatl, Morelos", Náhuatl central]
 population: 18700
 country_id: MX
 country_name: Mexico

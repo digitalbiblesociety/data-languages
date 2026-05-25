@@ -2,6 +2,7 @@
 iso: mue
 name: Media Lengua
 autonym: Quichuañol
+alt_names: [Ecuador, Медиа-ленгуа]
 population: 1000
 country_id: EC
 country_name: Ecuador

@@ -2,6 +2,7 @@
 iso: kax
 name: Kao
 autonym: Kau
+alt_names: ["Ka'u"]
 population: 400
 country_id: ID
 country_name: Indonesia

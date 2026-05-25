@@ -1,6 +1,7 @@
 ---
 iso: hai
 name: Haida
+name_zh: 海达语
 autonym: X̱aat Kíl
 population: 13
 country_id: CA

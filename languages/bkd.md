@@ -2,6 +2,7 @@
 iso: bkd
 name: Binukid
 autonym: Binukid
+alt_names: [Binokid, Binukid Manobo, Bukidnon, Talaandig]
 population: 122000
 country_id: PH
 country_name: Philippines

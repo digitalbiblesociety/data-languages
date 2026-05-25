@@ -2,6 +2,7 @@
 iso: xtw
 name: Tawandê
 autonym: Northern Nambikwara
+alt_names: [Kithāulhú, Mamaindê, Mamande, Nakarothe, Northern Nambikuaran, Northern Nambiquara, Tawande, Tawandé, Tawanxte, Taxmainite, Taxwensite]
 population: null
 country_id: BR
 country_name: Brazil

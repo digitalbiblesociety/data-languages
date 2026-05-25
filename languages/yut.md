@@ -2,6 +2,7 @@
 iso: yut
 name: Yopno
 autonym: null
+alt_names: [Isan, Jupna Valley, Kewieng, Nokopo, Wandabong, Yupna]
 population: 7200
 country_id: PG
 country_name: Papua New Guinea

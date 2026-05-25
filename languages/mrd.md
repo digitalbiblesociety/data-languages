@@ -2,6 +2,7 @@
 iso: mrd
 name: Western Magar
 autonym: " मगर भाषा"
+alt_names: [Magar, Magar (Syangja), Magar (Western), Magar Nuwakot, "Magar, Western", "Magar,Western", Magari, Magarī, Manggar, Mãgari, Syangja Magar]
 population: 789000
 country_id: NP
 country_name: Nepal

@@ -2,6 +2,7 @@
 iso: pwr
 name: Powari
 autonym: बघेली
+alt_names: [India]
 population: 2000000
 country_id: IN
 country_name: India

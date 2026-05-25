@@ -2,6 +2,7 @@
 iso: anv
 name: Denya
 autonym: Anyah
+alt_names: [Agnang, Anyan, Anyang, Eyan, Nyang, Obonya, Takamanda]
 population: 11200
 country_id: CM
 country_name: Cameroon

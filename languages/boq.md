@@ -2,6 +2,7 @@
 iso: boq
 name: Bogaya
 autonym: Bogaya
+alt_names: [Bogaia, Pogaya]
 population: 300
 country_id: PG
 country_name: Papua New Guinea

@@ -1,7 +1,9 @@
 ---
 iso: koi
 name: "Komi-Permyak"
+name_zh: 彼尔姆科米语
 autonym: перем коми кыв
+alt_names: [Comi, Język komi-permiacki, Kama Permyak, Komi, Komi permio, "Komi yaz'va", Komi yazva, Komi-Perm, Komi-Permjaaks, Komi-Permjakisch, Komi-Permyat, Komi-permiac, Komieg-permyakeg, Komipermjaka lingvo, Komipermjakgiella, Komipermjakin kieli, Komipermjakisk, Komipermjakisk språk, Komipermjakki, Komių permių kalba, Lingua permiaca, Língua Komi-permyak, Permecki, Permiak, Permian, Permin komi, Permjakisch, Permyak, Sudacki, Syrjänisch, Ziryene, Zyrian, Zyryan, komi-permjackij jazyk, komi-permjakischer Dialekt, Коми-Перым кыв, Коми-пермјачки јазик, "Комі-перм'яцька мова", коми-пермяцкий язык, 코미페르먀크어]
 population: 64200
 country_id: RU
 country_name: Russia

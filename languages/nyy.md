@@ -2,6 +2,7 @@
 iso: nyy
 name: "Nyakyusa-Ngonde"
 autonym: Ngonde
+alt_names: [Ikingonde, Ikinyakyusa, Kinyakyusa, Konde, Kukwe, Mombe, Nkhonde, Nkonde, Nyakusa, Nyekyosa, Nyikyusa, Sochile, Sokile, Sokili]
 population: 1359000
 country_id: TZ
 country_name: Tanzania

@@ -2,6 +2,7 @@
 iso: oco
 name: Old Cornish
 autonym: null
+alt_names: ["Cornish, Old"]
 population: null
 country_id: GB
 country_name: United Kingdom

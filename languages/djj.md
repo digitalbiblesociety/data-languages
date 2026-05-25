@@ -1,7 +1,9 @@
 ---
 iso: djj
 name: Djeebbana
+name_zh: 迪耶巴納語
 autonym: Ndjébbana
+alt_names: [Behribmej, Djapena, Djeepana, Gidjia, Gidjiya, Gijiya, Grunavidji, Gudjia, Gunabidji, Gunabwidji, Gunadidji, Gunavidgi, Gunavidji, Gunaviji, Gunawitji, Gunibidji, Gunjibidji, Gurmadja madja, Jibidji, Kulunglutchyi, Kunibidji, Kunibidji/Gunavidji, Ndeya, Ndjebanna, Ndjebbana, NdjÃ©bbana, Ndjéya, Witchi, Witji]
 population: 100
 country_id: AU
 country_name: Australia

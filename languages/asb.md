@@ -1,7 +1,9 @@
 ---
 iso: asb
 name: Assiniboine
+name_zh: 阿西尼博因语
 autonym: " Nakota"
+alt_names: [Asiniboineg, Asinibóin (Estados Unidos), Assinaboin, Assiniboin, Assiniboine (Canada), "Assiniboine (États-Unis d'Amérique)", Estoni, Hohe, Język assiniboine, Nakoda Assiniboine, Nakon, Stoney]
 population: 250
 country_id: CA
 country_name: Canada

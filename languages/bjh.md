@@ -2,6 +2,7 @@
 iso: bjh
 name: Bahinemo
 autonym: Bahenemo
+alt_names: [Babinemo, Gahom, Inaru, Wogu, Yigai]
 population: 550
 country_id: PG
 country_name: Papua New Guinea

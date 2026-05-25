@@ -2,6 +2,7 @@
 iso: wdd
 name: Wandji
 autonym: Wandji
+alt_names: [Bawandji]
 population: 10500
 country_id: GA
 country_name: Gabon

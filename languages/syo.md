@@ -1,7 +1,9 @@
 ---
 iso: syo
 name: Suoy
+name_zh: 绥语
 autonym: "Su'ung"
+alt_names: [Kasong, Pear]
 population: 930
 country_id: KH
 country_name: Cambodia

@@ -2,6 +2,7 @@
 iso: zpn
 name: Santa Inés Yatzechi Zapotec
 autonym: (Santa Inés Yatzeche)
+alt_names: [Eastern Sapoteko, Santa Ines Yatzechi Zapotec, Southeastern Zimatlán Zapotec, Southern Sapoteko, Zapotec, "Zapotec, Santa Inés Yatzechi", Zapoteco de Asunción Tlacolulita, Zapoteco de Santa Inés Yatzechi, Zapoteco de Zegache, "Zapotèque d'Asunción Tlacolulita"]
 population: 2240
 country_id: MX
 country_name: Mexico

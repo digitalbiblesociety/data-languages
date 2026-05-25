@@ -2,6 +2,7 @@
 iso: nuv
 name: Northern Nuni
 autonym: Nunuma
+alt_names: [Nibulu, Nouni, Nounouma, Nuna, Nune, Nuni, Nuni (Northern), "Nuni, Northern", Nuruma]
 population: 15000
 country_id: BF
 country_name: Burkina Faso

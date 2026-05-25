@@ -1,7 +1,9 @@
 ---
 iso: cat
 name: Catalan
+name_zh: 加泰罗尼亚语
 autonym: català/valencià
+alt_names: [Alguerés, Bacavès, Balear, Balearai, Balearic, Balearisch, Baléare, Catalan alguerais, Catalan-Valencian-Balear, Catalonian, Català, Català balear, Catalán, Eastern, Valencian, valencien]
 population: 4077300
 country_id: ES
 country_name: Spain

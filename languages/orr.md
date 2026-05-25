@@ -2,6 +2,7 @@
 iso: orr
 name: Oruma
 autonym: null
+alt_names: [Ịjọ]
 population: 5000
 country_id: NG
 country_name: Nigeria

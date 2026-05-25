@@ -2,6 +2,7 @@
 iso: til
 name: Tillamook
 autonym: "Hutyáyu, Hutyéyu"
+alt_names: [Hutyéyu, Nehalin, Tilamuco, Tillamooks]
 population: null
 country_id: US
 country_name: United States

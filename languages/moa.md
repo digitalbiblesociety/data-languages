@@ -2,6 +2,7 @@
 iso: moa
 name: Mwan
 autonym: Mona
+alt_names: [Mouan, Muan, Muana, Mwa]
 population: 20000
 country_id: CI
 country_name: "Côte d'Ivoire"

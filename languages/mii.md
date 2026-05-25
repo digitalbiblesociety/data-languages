@@ -2,6 +2,7 @@
 iso: mii
 name: Chigmecatitlán Mixtec
 autonym: (Santa María Chigmecatitlán)
+alt_names: [Acatlán Mixtec, Central Misteko, Central Puebla Mixtec, Centreal Mixteco, Chazumba Mixtec, Chigmecatitlan Mixtec, "Mixtec, Chigmecatitlán", Mixteco de Chazumba, Mixteco de Santa María Chigmecatitlán, Mixteco de la Frontera Puebla-Oaxaca, Mixteco del Sur de Puebla, Northern Baja Mixtec, Northern Oaxaca Mixtec, Southern Puebla Mixtec, Xayacatlán de Bravo]
 population: 1600
 country_id: MX
 country_name: Mexico

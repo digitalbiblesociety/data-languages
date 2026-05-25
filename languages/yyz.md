@@ -2,6 +2,7 @@
 iso: yyz
 name: Ayizi
 autonym: null
+alt_names: [阿夷子語]
 population: null
 country_id: CN
 country_name: China

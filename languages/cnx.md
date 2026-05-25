@@ -2,6 +2,7 @@
 iso: cnx
 name: Middle Cornish
 autonym: Kernewek
+alt_names: ["Cornish, Middle"]
 population: null
 country_id: GB
 country_name: United Kingdom

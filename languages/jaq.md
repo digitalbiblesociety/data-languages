@@ -2,6 +2,7 @@
 iso: jaq
 name: Yaqay
 autonym: Jakai
+alt_names: [Jaqai, Jaqai-Sohur, Mapi, Sohur, Yaqai]
 population: 10000
 country_id: ID
 country_name: Indonesia

@@ -1,6 +1,7 @@
 ---
 iso: shd
 name: Kundal Shahi
+name_zh: 昆代尔沙希语
 autonym: کنڈل شاہی
 population: 3371
 country_id: PK

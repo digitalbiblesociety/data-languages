@@ -2,6 +2,7 @@
 iso: ncu
 name: Chumburung
 autonym: null
+alt_names: [Chumburu, Chumburung (Yeji), Guang, Kyongborong, Nchimburu, Nchumburu, Nchumburung, Nchummuru]
 population: 95000
 country_id: GH
 country_name: Ghana

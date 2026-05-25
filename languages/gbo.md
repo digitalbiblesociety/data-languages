@@ -2,6 +2,7 @@
 iso: gbo
 name: Northern Grebo
 autonym: Kréébo
+alt_names: [Grebo, "Grebo, Northern"]
 population: 150000
 country_id: LR
 country_name: Liberia

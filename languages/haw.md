@@ -1,7 +1,9 @@
 ---
 iso: haw
 name: Hawaiian
+name_zh: 夏威夷语
 autonym: ʻŌlelo Hawaiʻi
+alt_names: ["'Olelo Hawai'i", "'Olelo Hawai'i Makuahine", "'Ōlelo Hawai'i", "'Ōlelo Hawai'i Makuahine", Bahasa Hawaii, "Gagana fa'a Hawai'i", Havaijin kieli, Havaja lingvo, Havajiečių kalba, Havajiešu valoda, Havajski jezik, Havajčina, Havajština, Havajščina, Haváís, Hawaiano, Hawaieg, Hawaiera, Hawaii, Hawaii nyelv, Hawaiiaansche Spraak, Hawaiiansk, Hawaiianskt mál, Hawaiische Sprache, Hawaiisk, Hawaiiska, Hawaià, Hawaiíska, Hawaiïaans, Hawayi simi, Hawaíyane, Hawaïaans, Hawaïen, Idioma hawaiano, Język hawajski, Lengua hawaïann-a, Limba hawaiiană, Lingua hawaiana, Lingua hawaiiana, Língua havaiana, "Olelo Hawai'i", Wikang Hawayano, Χαβαϊκή γλώσσα, Гавайский язык, Гавайська мова, Хавайски език, Хавајски јазик, لغة هاواي, ஹவாய் மொழி, ‘Ōlelo Hawai‘i, ハワイ語, 夏威夷语, 하와이어]
 population: 2000
 country_id: US
 country_name: United States

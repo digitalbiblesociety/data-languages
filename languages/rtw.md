@@ -2,6 +2,7 @@
 iso: rtw
 name: Rathawi
 autonym: "Bal-La"
+alt_names: [Kohelia]
 population: 451000
 country_id: IN
 country_name: India

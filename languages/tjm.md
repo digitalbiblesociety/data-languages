@@ -2,6 +2,7 @@
 iso: tjm
 name: Timucua
 autonym: null
+alt_names: [Timucua (Mocama dial.), Timuqua, Tumucua, Тимукуа]
 population: null
 country_id: US
 country_name: United States

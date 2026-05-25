@@ -1,7 +1,9 @@
 ---
 iso: amh
 name: Amharic
+name_zh: 阿姆哈拉语
 autonym: አማበአማረኛ ርኛ
+alt_names: [Abyssinian, Amarigna, Amarinya, Amharisch, Ethiopian, amharique]
 population: 21900000
 country_id: ET
 country_name: Ethiopia

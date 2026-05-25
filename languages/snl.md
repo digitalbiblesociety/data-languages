@@ -2,6 +2,7 @@
 iso: snl
 name: Sangil
 autonym: Sanggil
+alt_names: [Sangiré]
 population: 15000
 country_id: PH
 country_name: Philippines

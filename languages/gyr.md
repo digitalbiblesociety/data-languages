@@ -2,6 +2,7 @@
 iso: gyr
 name: Guarayu
 autonym: Gwarayú
+alt_names: ["\"Guarayo\"", Chapacura, Guapore, Guarayo, Guarayú, Huachi, Iten, Maré, Tapacura, Ñañañe]
 population: 5930
 country_id: BO
 country_name: Bolivia

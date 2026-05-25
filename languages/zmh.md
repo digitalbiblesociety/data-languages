@@ -2,6 +2,7 @@
 iso: zmh
 name: Makolkol
 autonym: (unattested)
+alt_names: [Neu-Pommern]
 population: 1988
 country_id: PG
 country_name: Papua New Guinea

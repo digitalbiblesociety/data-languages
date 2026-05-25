@@ -2,6 +2,7 @@
 iso: bwh
 name: Bishuo
 autonym: Biyam
+alt_names: [Furu]
 population: null
 country_id: CM
 country_name: Cameroon

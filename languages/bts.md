@@ -1,7 +1,9 @@
 ---
 iso: bts
 name: Batak Simalungun
+name_zh: 巴塔克西馬隆貢語
 autonym: Sahap Simalungun
+alt_names: [Simelungan, Timur]
 population: 1200000
 country_id: ID
 country_name: Indonesia

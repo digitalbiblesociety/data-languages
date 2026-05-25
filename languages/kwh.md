@@ -2,6 +2,7 @@
 iso: kwh
 name: Kowiai
 autonym: South Bomberai
+alt_names: [Adi, Aiduma, Kaiwai, Kajumerah, Kayumerah, Koiwai, Kuiwai, Namatota, Namatote]
 population: 600
 country_id: ID
 country_name: Indonesia

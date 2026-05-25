@@ -2,6 +2,7 @@
 iso: obu
 name: Obulom
 autonym: Abuloma
+alt_names: [Obulomic, Obulum]
 population: 3420
 country_id: NG
 country_name: Nigeria

@@ -2,6 +2,7 @@
 iso: syb
 name: Central Subanen
 autonym: Subanon
+alt_names: [Sindangan Subanun, "Subanen, Central"]
 population: 140000
 country_id: PH
 country_name: Philippines

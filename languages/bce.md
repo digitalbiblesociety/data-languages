@@ -2,6 +2,7 @@
 iso: bce
 name: Bamenyam
 autonym: Bamenyan
+alt_names: [Mamenyan, Mengambo, Pamenyan]
 population: 4000
 country_id: CM
 country_name: Cameroon

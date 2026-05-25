@@ -2,6 +2,7 @@
 iso: xya
 name: Yaygir
 autonym: Jeigir
+alt_names: [Jungai, Yaygirr, Yegera, Yegir, Yiegera, Youngai]
 population: 5
 country_id: AU
 country_name: Australia

@@ -2,6 +2,7 @@
 iso: wro
 name: Worrorra
 autonym: Maialnga
+alt_names: [Ong Komi, "Wo'rora", Worora, Wororra, Worrara, Worrora, Wurara, Wurora, Wurura, Yangibaia]
 population: 7
 country_id: AU
 country_name: Australia

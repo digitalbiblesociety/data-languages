@@ -2,6 +2,7 @@
 iso: bgd
 name: Rathwi Bareli
 autonym: Bareli
+alt_names: [Barel, "Bareli, Rathwi", Pauri, Pawari, Pawri, Rathi, Rathia, Rathwi Pauri]
 population: 359000
 country_id: IN
 country_name: India

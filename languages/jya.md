@@ -1,6 +1,7 @@
 ---
 iso: jya
 name: Jiarong
+name_zh: 嘉绒语
 autonym: Chiarong
 population: 12197
 country_id: CN

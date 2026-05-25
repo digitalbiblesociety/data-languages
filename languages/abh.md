@@ -1,7 +1,9 @@
 ---
 iso: abh
 name: Tajiki Arabic
+name_zh: 塔吉克阿拉伯语
 autonym: Jugari Arabic
+alt_names: ["Arabe d'Asie centrale", Arabic, "Arabic, Tajiki", "Arabic, Tajiki Spoken", Bukhara Arabic, Buxara Arabic, Central Asian Arabic, Jugari, Tadžički arapski, Tajiji Arabic, Tajiki Spoken, Tajiki Spoken Arabic, Árabe asiático central]
 population: 1000
 country_id: TJ
 country_name: Tajikistan

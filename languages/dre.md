@@ -2,6 +2,7 @@
 iso: dre
 name: Dolpo
 autonym: "Ü-Tsang"
+alt_names: ["D'ölpo", Dolpa Tibetan, Dolpike, Phoke Dolpa]
 population: 5000
 country_id: NP
 country_name: Nepal

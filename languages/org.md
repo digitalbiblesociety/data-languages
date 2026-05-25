@@ -2,6 +2,7 @@
 iso: org
 name: Oring
 autonym: Koring
+alt_names: [Orri, Orrin, Orringorrin]
 population: 12300
 country_id: NG
 country_name: Nigeria

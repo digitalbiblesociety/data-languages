@@ -2,6 +2,7 @@
 iso: nmp
 name: Nimanbur
 autonym: Nimanburru
+alt_names: [Nimanboro, Nimanboru, Wadiabulu]
 population: null
 country_id: AU
 country_name: Australia

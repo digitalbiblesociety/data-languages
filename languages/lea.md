@@ -2,6 +2,7 @@
 iso: lea
 name: "Lega-Shabunda"
 autonym: Igonzabale
+alt_names: [Ileka-Igonzabale, Kilega, Kirega, Lega, Leka-Igonzabale, Rega]
 population: 400000
 country_id: CD
 country_name: DR Congo

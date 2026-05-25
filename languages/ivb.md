@@ -2,6 +2,7 @@
 iso: ivb
 name: Ibatan
 autonym: Ibatan
+alt_names: [Babuyan, Ibataan, Ivatan]
 population: 1240
 country_id: PH
 country_name: Philippines

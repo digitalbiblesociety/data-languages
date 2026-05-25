@@ -1,7 +1,9 @@
 ---
 iso: cov
 name: Cao Miao
+name_zh: 草苗
 autonym: Grass Miao
+alt_names: [Mjiuniang]
 population: 63600
 country_id: CN
 country_name: China

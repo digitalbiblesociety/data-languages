@@ -2,6 +2,7 @@
 iso: djd
 name: Djamindjung
 autonym: Jaminjung
+alt_names: [Alura, Baj Subgroup, Djamadjong, Djamindjun, Djamindjung/Ngaliwuru, Djamundon, Djamunjun, Dyamindyung, Dyaminydyung, Engaliwuru, Jaminjang, Jaminjungan, Jilngali, Kaminjung, Murinyuwan, Murinyuwen, Ngaliwurru, Ngaliwuru, Tjamindjung, Tjaminjun, Yilngali]
 population: 29
 country_id: AU
 country_name: Australia

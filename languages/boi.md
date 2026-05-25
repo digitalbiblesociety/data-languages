@@ -2,6 +2,7 @@
 iso: boi
 name: Barbareño
 autonym: null
+alt_names: [Barbareno, Barbareno Chumash, Chumash, Chumash (Barbareno), Chumash (Barbareño), Chumash barbareño, Chumasha Proper, Chumashan, Emigdiano, Santa Barbara, Santa Rosa, Šmuwič]
 population: null
 country_id: US
 country_name: United States

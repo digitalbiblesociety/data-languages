@@ -2,6 +2,7 @@
 iso: pcp
 name: Pacahuara
 autonym: "Chokobo-Pakawara"
+alt_names: [Acahuara, Pacaguara, Pacawara, Pakaguara, Pakawara]
 population: null
 country_id: BO
 country_name: Bolivia

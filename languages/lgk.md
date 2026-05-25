@@ -2,6 +2,7 @@
 iso: lgk
 name: Lingarak
 autonym: Lingarak
+alt_names: ["Bushman's Bay", Mallicolo, Neverver]
 population: 1250
 country_id: VU
 country_name: Vanuatu

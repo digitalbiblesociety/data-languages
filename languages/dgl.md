@@ -2,6 +2,7 @@
 iso: dgl
 name: Andaandi
 autonym: Andaandi
+alt_names: [Dongolawi]
 population: 35000
 country_id: SD
 country_name: Sudan

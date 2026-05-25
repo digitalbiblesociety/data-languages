@@ -2,6 +2,7 @@
 iso: tcf
 name: "Malinaltepec Me'phaa"
 autonym: Me̱ꞌpha̱a̱
+alt_names: [Eastern Tlapanec, Guerrero, Malinaltepec, Malinaltepec Tlapanec, Malinaltepec Tlapaneko, Mañuwíìn, "Me'pa", "Me'phaa", "Me'phaa, Malinaltepec", "Mi'pha", Tlapanec, "Tlapanec, Malinaltepec", Tlapaneco, Tlapaneco de Malinaltepec, Tlapaneco oriental, Tlapaneco-Sutiaba, Tlapaneko, Tlapanèque oriental, Tlappanec]
 population: 37500
 country_id: MX
 country_name: Mexico

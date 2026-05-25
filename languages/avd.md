@@ -1,7 +1,9 @@
 ---
 iso: avd
 name: "Alviri-Vidari"
+name_zh: 阿爾維里-維達里語
 autonym: "الویری-ویدری"
+alt_names: [Tati, Tatí]
 population: null
 country_id: IR
 country_name: Iran

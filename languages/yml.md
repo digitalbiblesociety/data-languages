@@ -2,6 +2,7 @@
 iso: yml
 name: Iamalele
 autonym: null
+alt_names: [Yamalele]
 population: 2800
 country_id: PG
 country_name: Papua New Guinea

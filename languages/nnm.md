@@ -2,6 +2,7 @@
 iso: nnm
 name: Namia
 autonym: Edawapi
+alt_names: [Lujere, Namie, Nemia, Nemie, Watalu, Yellow River]
 population: 300
 country_id: PG
 country_name: Papua New Guinea

@@ -1,7 +1,9 @@
 ---
 iso: xav
 name: Xavánte
+name_zh: 夏凡特语
 autonym: aʼuwẽ
+alt_names: ["A'uwe", "A'uwe Uptabi", "A'we", Akuên, Akwen, Chavante, Crisca, Idioma xavante, Língua xavante, Pusciti, Shavante, Shawanti simi, Tapacua, Uptabi, Xavante, Xavante language, Xavanté]
 population: 19000
 country_id: BR
 country_name: Brazil

@@ -2,6 +2,7 @@
 iso: miw
 name: Akoye
 autonym: Lohiki
+alt_names: [Akoinkake, Akoyi, Angoya, Mahigi, Mai-Hea-Ri, Maiheari, Maihiri, Obi]
 population: 800
 country_id: PG
 country_name: Papua New Guinea

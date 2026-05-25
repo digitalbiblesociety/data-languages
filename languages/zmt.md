@@ -2,6 +2,7 @@
 iso: zmt
 name: Maringarr
 autonym: Matige
+alt_names: [Marengar, Marenggar, "Mari'ngar", Maringa, Maringar, Marri Ngarr, Marringarr, Merringar, Moil, Moyle, Muringa, Muringar, Murrinnga, Ngangikadre, Yaghanin]
 population: null
 country_id: AU
 country_name: Australia

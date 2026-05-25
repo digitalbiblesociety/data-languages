@@ -2,6 +2,7 @@
 iso: sge
 name: Segai
 autonym: Punan Kelai
+alt_names: [Indonesia]
 population: 2000
 country_id: ID
 country_name: Indonesia

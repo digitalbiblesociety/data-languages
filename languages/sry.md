@@ -2,6 +2,7 @@
 iso: sry
 name: Sera
 autonym: Serra
+alt_names: [Ssia]
 population: 510
 country_id: PG
 country_name: Papua New Guinea

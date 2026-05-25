@@ -2,6 +2,7 @@
 iso: sjb
 name: Sajau Basap
 autonym: " Sajau-Latti"
+alt_names: [Sajau, Sujau]
 population: 6000
 country_id: ID
 country_name: Indonesia

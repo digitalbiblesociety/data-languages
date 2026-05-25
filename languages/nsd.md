@@ -1,7 +1,9 @@
 ---
 iso: nsd
 name: Southern Nisu
+name_zh: 南尼苏语
 autonym: Southern Yi
+alt_names: [Nisu, "Nisu, Southern", "Nisu,Southern", Yuan-Mo Yi]
 population: 210000
 country_id: CN
 country_name: China

@@ -1,7 +1,9 @@
 ---
 iso: mey
 name: Hassaniyya
+name_zh: 哈桑语
 autonym: حسانية
+alt_names: [Arabic, Arabic (Bani-Hassan), Bahasa Hassānīya, Bedouin Dialects, Eastern Arabic, Hasaniyeg, Hasanya, Hasanya Arabic, Hassani, Hassania, Hassanija, Hassaniya, Hassaniyya Arabic, Hassaniyya arapski, Hassanya, Hassanía, Hassānīya Arabic, Klem El Bithan, Maure, Mauri, Moor, Sahrawi, Sulaka, Suraka, Suraxxé, Хасания, Хасанија арапски јазик, لهجة حسانية]
 population: 9660400
 country_id: MR
 country_name: Mauritania

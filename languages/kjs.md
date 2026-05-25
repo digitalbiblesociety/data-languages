@@ -2,6 +2,7 @@
 iso: kjs
 name: East Kewa
 autonym: "Kewa, East"
+alt_names: [Eastern Kewa, Kewa]
 population: 50000
 country_id: PG
 country_name: Papua New Guinea

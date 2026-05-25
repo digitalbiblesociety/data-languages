@@ -1,7 +1,9 @@
 ---
 iso: meu
 name: Motu
+name_zh: 莫图语
 autonym: " True Motu"
+alt_names: [Idioma motu, Mona, Motun kieli, Motų kalba, Pure Motu, Моту]
 population: 39000
 country_id: PG
 country_name: Papua New Guinea

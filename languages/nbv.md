@@ -2,6 +2,7 @@
 iso: nbv
 name: Ngamambo
 autonym: Bafuchu
+alt_names: [Banja, Mbu, Mungyen, Nga, Ngembo]
 population: 8000
 country_id: CM
 country_name: Cameroon

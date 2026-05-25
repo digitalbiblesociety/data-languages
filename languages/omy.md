@@ -1,6 +1,8 @@
 ---
 iso: omy
 name: Old Malay
+name_zh: 古马来语
+alt_names: ["Malay, Old"]
 country_id: ID
 country_name: Indonesia
 latitude: -0.648259

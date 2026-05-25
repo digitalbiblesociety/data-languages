@@ -2,6 +2,7 @@
 iso: plb
 name: Polonombauk
 autonym: Meris
+alt_names: [Narmoris]
 population: 220
 country_id: VU
 country_name: Vanuatu

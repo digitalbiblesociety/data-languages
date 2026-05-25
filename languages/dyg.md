@@ -2,6 +2,7 @@
 iso: dyg
 name: Villa Viciosa Agta
 autonym: null
+alt_names: ["Agta, Villa Viciosa"]
 population: null
 country_id: PH
 country_name: Philippines

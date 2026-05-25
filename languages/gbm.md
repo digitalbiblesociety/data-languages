@@ -1,7 +1,9 @@
 ---
 iso: gbm
 name: Garhwali
+name_zh: 嘉华语
 autonym: गढ़वळि
+alt_names: [Bangani, Bhōṭiā of Garhwal, Gadhavali, Gadhawala, Gadwahi, Garhvali, Garhválština, Garhwal, Gashwali, Girwali, Godauli, Gorwali, Gurvali, Język garhwali, Lingua Garhvali, Pahari Garhwali, Ґархвалі, गढ़वाली भाषा, ガルワーリー語]
 population: 2480000
 country_id: IN
 country_name: India

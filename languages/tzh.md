@@ -1,7 +1,9 @@
 ---
 iso: tzh
 name: Tzeltal
+name_zh: 澤套語
 autonym: Batsʼil Kʼop
+alt_names: [Aguacatenango dialect, "B'atz'il k'op", Cancuc, Chanal, Highland Tzeltal, Idioma tzeltal, Język tseltal, Lingua tzeltal, Língua tseltal, Tenango, Tenejapa, Tseltal, Tseltal simi, Tzeltal (Aguacatenango), Tzeltal (Bachajón), Tzeltal (Tenejapa), "Tzeltal, Oxchuc", Tzendal, Tzéndal, Целталски јазик, 澤套語]
 population: 557000
 country_id: MX
 country_name: Mexico

@@ -1,7 +1,9 @@
 ---
 iso: mui
 name: Musi
+name_zh: 穆西語
 autonym: Baso Palembang
+alt_names: [Palembang, Sekayu]
 population: 3116000
 country_id: ID
 country_name: Indonesia

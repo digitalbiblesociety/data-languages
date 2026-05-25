@@ -2,6 +2,7 @@
 iso: grq
 name: Gorovu
 autonym: Gorova
+alt_names: [Yerani]
 population: 20
 country_id: PG
 country_name: Papua New Guinea

@@ -1,7 +1,9 @@
 ---
 iso: spu
 name: Sapuan
+name_zh: 萨潘语
 autonym: Səpuar
+alt_names: [Sapouan, Sapuor]
 population: 2400
 country_id: LA
 country_name: Laos

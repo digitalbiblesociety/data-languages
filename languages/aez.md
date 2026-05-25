@@ -2,6 +2,7 @@
 iso: aez
 name: Aeka
 autonym: Ajeka
+alt_names: [Aeka (orokaivic)]
 population: 3400
 country_id: PG
 country_name: Papua New Guinea

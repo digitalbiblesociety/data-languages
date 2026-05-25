@@ -1,7 +1,9 @@
 ---
 iso: saw
 name: Sawi
+name_zh: 萨维语
 autonym: Aejauroh
+alt_names: [Język sawuy, Sawuy]
 population: 3500
 country_id: ID
 country_name: Indonesia

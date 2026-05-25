@@ -1,7 +1,9 @@
 ---
 iso: lil
 name: Lillooet
+name_zh: 利卢埃特语
 autonym: St̓át̓imcets / Sƛ’aƛ’imxǝc
+alt_names: [Język st’át’imcets, Liluet, Slatlemuk, "St'at'imcets", "St'at'imcets language", Statimc, Statimcets, "Stl'atl'imc", "Stl'atl'imx", Stlatliumh, St̓át̓imc, St̓át̓imcets (Lillooet), "Sƛ'aƛ'imxǝc", "sƛ'ɛƛ'əmxcín", sƛʼɛƛʼəmxcín]
 population: 200
 country_id: CA
 country_name: Canada

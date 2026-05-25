@@ -2,6 +2,7 @@
 iso: qwc
 name: Classical Quechua
 autonym: "Quechua II-C"
+alt_names: [Imperial Kechua, "Quechua, Classical"]
 population: null
 country_id: BO
 country_name: Bolivia

@@ -1,6 +1,7 @@
 ---
 iso: mjz
 name: Majhi
+name_zh: 摩傑语
 autonym: Manjhi
 population: 21800
 country_id: NP

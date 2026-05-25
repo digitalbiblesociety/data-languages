@@ -2,6 +2,7 @@
 iso: wrs
 name: Waris
 autonym: Walsa/Waris
+alt_names: [Walsa]
 population: 2500
 country_id: PG
 country_name: Papua New Guinea

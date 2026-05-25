@@ -1,7 +1,9 @@
 ---
 iso: smh
 name: Samei
+name_zh: 撒梅語
 autonym: null
+alt_names: [Sani]
 population: 20000
 country_id: CN
 country_name: China

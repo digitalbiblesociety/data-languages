@@ -1,7 +1,9 @@
 ---
 iso: mtm
 name: Mator
+name_zh: 馬托爾語
 autonym: "Motor, Mator-Taigi-Karagas"
+alt_names: [Karagas, Lingua mator, Mator nyelv, Matora lingvo, Matoreg, Matorigiella, Matorin kieli, Matorische Sprache, Matorish, Matorisk språk, Matorų kalba, Motor, Sayan Samoyed, Sayan Samoyedic, Taigi, Маторски јазик, Маторский язык]
 population: null
 country_id: RU
 country_name: Russia

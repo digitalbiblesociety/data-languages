@@ -2,6 +2,7 @@
 iso: ida
 name: "Idakho-Isukha-Tiriki"
 autonym: Luidakho
+alt_names: [Kenya, Luidakho-Luisukha-Lutirichi]
 population: 156000
 country_id: KE
 country_name: Kenya

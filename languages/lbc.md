@@ -1,7 +1,9 @@
 ---
 iso: lbc
 name: Lakkia
+name_zh: 拉珈语
 autonym: Lakkja
+alt_names: [Chashan Yao, Lajia, Lak(k)ia, Laka, Lakia, Lakja, Tai Laka, Tea Mountain Yao, 茶山瑤]
 population: 12000
 country_id: CN
 country_name: China

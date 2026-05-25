@@ -2,6 +2,7 @@
 iso: slp
 name: Lamaholot
 autonym: Solorese
+alt_names: [Solor]
 population: 225000
 country_id: ID
 country_name: Indonesia

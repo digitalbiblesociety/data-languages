@@ -2,6 +2,7 @@
 iso: fir
 name: Firan
 autonym: Fəràn
+alt_names: [Faran, Foron, Frisian, Fəran, Kwakwi, Yes Firan]
 population: 2500
 country_id: NG
 country_name: Nigeria

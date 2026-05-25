@@ -2,6 +2,7 @@
 iso: isc
 name: Isconahua
 autonym: Iscobaquebo (iskobakebo)
+alt_names: [Iscobakebo, Iscobaquebu, Iskonawa]
 population: 82
 country_id: PE
 country_name: Peru

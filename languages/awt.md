@@ -2,6 +2,7 @@
 iso: awt
 name: Araweté
 autonym: Bïde
+alt_names: [Arawete, Asuriní, Asuriní do Coatinema, Asuriní do Xingú, Awaeté]
 population: 290
 country_id: BR
 country_name: Brazil

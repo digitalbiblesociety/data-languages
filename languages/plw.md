@@ -2,6 +2,7 @@
 iso: plw
 name: "Brooke's Point Palawano"
 autonym: null
+alt_names: ["Brooke's Point Palawan", Palawan, "Palawano, Brooke's Point", Palawanun, Palaweño]
 population: 14400
 country_id: PH
 country_name: Philippines

@@ -1,7 +1,9 @@
 ---
 iso: gaq
 name: "Gata'"
+name_zh: 格塔语
 autonym: Gta
+alt_names: [Didayi, Didei, Didey, Dire, Gataq, Gataq language, Gataʔ, Geta, "Geta'", "Geta?", Getaq, Gta Asa, "Gta'"]
 population: 3060
 country_id: IN
 country_name: India

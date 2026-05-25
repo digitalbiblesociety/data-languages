@@ -2,6 +2,7 @@
 iso: mhs
 name: Buru (Indonesia)
 autonym: li fuk Buru
+alt_names: [Boeroe, Buru, Buruese]
 population: 14258
 country_id: ID
 country_name: Indonesia

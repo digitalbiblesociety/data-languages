@@ -2,6 +2,7 @@
 iso: suc
 name: Western Subanon
 autonym: Subanon
+alt_names: [Siocon, "Subanon, Western"]
 population: 125000
 country_id: PH
 country_name: Philippines

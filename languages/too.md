@@ -2,6 +2,7 @@
 iso: too
 name: Xicotepec De Juárez Totonac
 autonym: Xicotepec Totonac
+alt_names: [Juárez Totonako, Northern Totonac, Totonac, Totonac (Xicotepec de Juárez), Totonac (Xicotepec), "Totonac, Xicotepec de Juárez", Totonaca (Xicotepec de Juarez), Totonaca (Xicotepec de Juaréz), Totonacano de Patla, Totonacano filomeno mata-coahuillán, Totonaco, Totonaco de Villa Juárez, Totonako, Totonaque de Filomeno Mata, Totonaque de Patla-Chicontla, Xicotepec, Xicotepec De Juarez Totonac, Xicotepec de Juárez]
 population: 3000
 country_id: MX
 country_name: Mexico

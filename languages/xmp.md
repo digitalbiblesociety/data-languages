@@ -2,6 +2,7 @@
 iso: xmp
 name: "Kuku-Mu'inh"
 autonym: "Wik-Muminh"
+alt_names: ["Kugu-Mu'inh"]
 population: null
 country_id: AU
 country_name: Australia

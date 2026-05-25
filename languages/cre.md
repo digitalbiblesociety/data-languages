@@ -1,6 +1,7 @@
 ---
 iso: cre
 name: Cree
+name_zh: 克里语
 autonym: "ᐃᔨᔨᐤ ᐊᔨᒧᐎᓐ'"
 population: 10875
 country_id: US

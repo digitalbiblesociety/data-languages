@@ -2,6 +2,7 @@
 iso: bee
 name: Byangsi
 autonym: Byangkho Lwo
+alt_names: [Bhotia, Byangkhopa, Byanshi, Byansi, Byasi, Byāngsī, Jaba, Rang, Saukas, Shaukas]
 population: 2830
 country_id: IN
 country_name: India

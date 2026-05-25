@@ -1,7 +1,9 @@
 ---
 iso: mwp
 name: Kala Lagaw Ya
+name_zh: 卡劳拉高亚语
 autonym: Western Torres Strait
+alt_names: [Gumulgal people, Kala Kawaw Ya, Kala Lagau Langgus, Kala Lagaw, Kala Lagaw Langgus, Kala Lagaw Langgus Yagar Yagar, Kala Yagaw Ya, Kalaw Kawaw Ya, Kalaw Kawaw Ya/Kalaw Lagaw Ya, Kalaw lagaw ya, Karualaig, Kowrarega, Langus, Mabuiag, Mabuyago, Maguiagic Group, Torres Strait Islander language, Torres Strait Islander people, West Torres, Yagar Yagar]
 population: 960
 country_id: AU
 country_name: Australia

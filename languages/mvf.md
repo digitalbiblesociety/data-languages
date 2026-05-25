@@ -1,7 +1,9 @@
 ---
 iso: mvf
 name: Peripheral Mongolian
+name_zh: 内蒙古方言
 autonym: Inner Mongolian
+alt_names: [Khorchin, Khorčin, Menggu, Monggol, Mongol, Mongol (Khamnigan), "Mongolian, Peripheral", Ordos, Ostmongolisch, Southern-Eastern Mongolian]
 population: 5980000
 country_id: CN
 country_name: China

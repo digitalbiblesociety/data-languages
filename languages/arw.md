@@ -1,7 +1,9 @@
 ---
 iso: arw
 name: Arawak
+name_zh: 阿拉瓦克语
 autonym: Lokono
+alt_names: [Arawak (Lokono Dian), Arawak (Lokono), Arawak (Surinam), Arawak lokono (Guyane), Arawák, Arowak, Aruak, Arwuak, Locono, Lokono (Surinam), Lokono (Suriname), Lokono Dian]
 population: 2051
 country_id: SR
 country_name: Suriname

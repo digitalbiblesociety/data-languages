@@ -2,6 +2,7 @@
 iso: gou
 name: Gavar
 autonym: Kortchi
+alt_names: [Gauar, Gawar, Gouwar, Ma-Gavar, Rtchi]
 population: 7000
 country_id: CM
 country_name: Cameroon

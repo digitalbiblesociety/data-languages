@@ -1,7 +1,9 @@
 ---
 iso: fro
 name: "Old French (842-ca. 1400)"
+name_zh: 古法語
 autonym: "Franceis, François, Romanz"
+alt_names: [Aajdfrans, Altfranzösische Sprache, Ancien français, Antico francese, Fornfranska, Francês antigo, "French, Old (842-ca. 1400)", "French, Old (842-ca.1400)", Gammelfransk, Język starofrancuski, Lingua Francogallica antiqua, Malnovfranca lingvo, Old French, Ooltfranzöösch, Oudfrans, Starofrancouzština, français ancien (842-ca.1400), Старофранцузский язык, Старофранцуски јазик, 古フランス語, 古法語]
 population: null
 country_id: FR
 country_name: France

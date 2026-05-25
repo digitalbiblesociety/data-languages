@@ -1,7 +1,9 @@
 ---
 iso: xap
 name: Apalachee
+name_zh: 阿帕拉契語
 autonym: null
+alt_names: [Apalachi, Yamasee, Yamasi]
 population: null
 country_id: US
 country_name: United States

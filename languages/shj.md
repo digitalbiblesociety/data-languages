@@ -2,6 +2,7 @@
 iso: shj
 name: Shatt
 autonym: Canning
+alt_names: [Caning]
 population: 30000
 country_id: SD
 country_name: Sudan

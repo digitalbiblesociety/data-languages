@@ -1,7 +1,9 @@
 ---
 iso: mnc
 name: Manchu
+name_zh: 满语
 autonym: ᠮᠠᠨᠵᡠᡤᡳᠰᡠᠨ
+alt_names: [Bahasa Manchu, Chinesische Tatarn, Idioma manchú, Język mandżurski, Lingua mancese, Língua manchu, Man, Manchoueg, Manchuiska, Mandchou, Mandschu, Mandschurisch, Mandschurische Sprache, Mandsjuisk, Mandsjuriske språk, Mantischeou, Mantsjoe, Mantšun kieli, Manxú, Mançuca, Manĉura lingvo, Mân-ngî, Маньчжурский язык, Манџурски јазик, "מנצ'ורית", مانجۇ تىلى, ภาษาแมนจู, 満州語, 满语, 滿語, 만주어]
 population: 20
 country_id: CN
 country_name: China

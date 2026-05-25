@@ -2,6 +2,7 @@
 iso: dno
 name: Ndrulo
 autonym: Northern Lendu
+alt_names: ["Lendu, Northern"]
 population: null
 country_id: CD
 country_name: DR Congo

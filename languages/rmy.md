@@ -1,7 +1,9 @@
 ---
 iso: rmy
 name: Vlax Romani
+name_zh: 夫拉克斯羅姆語
 autonym: řomani čhib
+alt_names: ["\"Gypsy\"", Albanesisch, Albanian, Danubian, European Romany, Gypsy, Rom, Romanese, Romani, Romani (Kalderash), Romani (Lovari), Romani (Vlach), Romani (Wallachian), "Romani, Vlax", Romany, Romaní Vlax, Romenes, Rroma, Tsigene, Vlach Romani, Vlax, Vlax Romany, Vlaxinromani, Zigeuner]
 population: 8500000
 country_id: RO
 country_name: Romania

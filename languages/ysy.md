@@ -1,6 +1,7 @@
 ---
 iso: ysy
 name: Sanie
+name_zh: 撒涅语
 autonym: Bai Lolo
 population: 8000
 country_id: CN

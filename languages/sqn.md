@@ -1,7 +1,9 @@
 ---
 iso: sqn
 name: Susquehannock
+name_zh: 薩斯奎哈諾克語
 autonym: Conestoga
+alt_names: [Andaste, Andaste (French), Minqua, Minqua (Netherlands Dutch), Susquehanna, Susquehannock (English)]
 population: null
 country_id: US
 country_name: United States

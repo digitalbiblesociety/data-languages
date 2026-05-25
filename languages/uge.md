@@ -2,6 +2,7 @@
 iso: uge
 name: Ughele
 autonym: Ugele
+alt_names: [Ughele language]
 population: 1200
 country_id: SB
 country_name: Solomon Islands

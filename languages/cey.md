@@ -2,6 +2,7 @@
 iso: cey
 name: Ekai Chin
 autonym: Läoktü
+alt_names: ["Chin, Ekai"]
 population: 6650
 country_id: MM
 country_name: Myanmar

@@ -1,7 +1,9 @@
 ---
 iso: tss
 name: Taiwan Sign Language
+name_zh: 台湾手语
 autonym: Taiwan Ziran Shouyu
+alt_names: [Língua de Sinais de Taiwan, Taiwanese Sign Language, Taiwanese Sign Language (Ziran Shouyu), 台灣手語]
 population: 24000
 country_id: TW
 country_name: Taiwan

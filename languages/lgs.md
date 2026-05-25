@@ -1,6 +1,7 @@
 ---
 iso: lgs
 name: Guinea-Bissau Sign Language
+alt_names: [Língua Gestual Guineense]
 country_id: GW
 country_name: Guinea-Bissau
 latitude: 11.859297

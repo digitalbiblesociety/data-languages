@@ -2,6 +2,7 @@
 iso: gvs
 name: Gumawana
 autonym: Gumasi
+alt_names: [Domdom, Gumasi (Domdom)]
 population: 470
 country_id: PG
 country_name: Papua New Guinea

@@ -2,6 +2,7 @@
 iso: ssv
 name: Shark Bay
 autonym: Shark Bay
+alt_names: [Lengua de la Bahía del Tiburón, Ngen]
 population: 450
 country_id: VU
 country_name: Vanuatu

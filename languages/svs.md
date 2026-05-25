@@ -2,6 +2,7 @@
 iso: svs
 name: Savosavo
 autonym: Savo
+alt_names: [Savo Island, Savsavo]
 population: 2420
 country_id: SB
 country_name: Solomon Islands

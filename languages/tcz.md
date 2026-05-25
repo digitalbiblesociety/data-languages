@@ -2,6 +2,7 @@
 iso: tcz
 name: Thado Chin
 autonym: Kuki
+alt_names: [Chin, Chin (North)/Thado, Chin (Thado), Chin tado, "Chin, Thado", "Chin,Thado", Kuki-Thado, Thaadou Kuki, Thado, Thado-Pao, Thado-Ubiphei, Thadou, Thādo-pao, သာဒိုး ချင်း]
 population: 346100
 country_id: IN
 country_name: India

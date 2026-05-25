@@ -2,6 +2,7 @@
 iso: nwm
 name: "Nyamusa-Molo"
 autonym: null
+alt_names: [Sudan]
 population: 1200
 country_id: SS
 country_name: South Sudan

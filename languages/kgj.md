@@ -2,6 +2,7 @@
 iso: kgj
 name: Gamale Kham
 autonym: Kham language
+alt_names: [Gamale, Jamí, Kham, "Kham, Gamale", "Kham,Gamale", Khamkura, Khams, Proto-Kham]
 population: 1000
 country_id: NP
 country_name: Nepal

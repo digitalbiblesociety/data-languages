@@ -2,6 +2,7 @@
 iso: hme
 name: Eastern Huishui Hmong
 autonym: Mhong
+alt_names: [Eastern Huishui Miao, Hmo, Hmong, "Hmong, Eastern Huishui", Hmung, Hsiung, Hunan Miao, Miao, "Miao, Eastern Huishui"]
 population: 14000
 country_id: CN
 country_name: China

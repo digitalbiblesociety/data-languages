@@ -2,6 +2,7 @@
 iso: gni
 name: Gooniyandi
 autonym: Gunian
+alt_names: [Bunuban family, Cowrana, Goonien, Gun ian, Gunan, Guniandi, Gunijan, Gunin, Guniyan, Guniyandi, Guniyn, Gunyari, Konajan, Konean, Konean Konejandi, Konejandi, Konejanu, Koneyandi, Kunan, Kunian, Kuniandu, Kuniyan, Wadea wulu, Wadeawulu]
 population: 100
 country_id: AU
 country_name: Australia

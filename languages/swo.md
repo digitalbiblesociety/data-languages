@@ -2,6 +2,7 @@
 iso: swo
 name: Shanenawa
 autonym: Yaminahua
+alt_names: [Katukina Shanenawa, Shenenawa]
 population: 360
 country_id: BR
 country_name: Brazil

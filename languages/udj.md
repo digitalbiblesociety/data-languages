@@ -2,6 +2,7 @@
 iso: udj
 name: Ujir
 autonym: Udjir
+alt_names: [Aru]
 population: 980
 country_id: ID
 country_name: Indonesia

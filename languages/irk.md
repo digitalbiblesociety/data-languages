@@ -1,7 +1,9 @@
 ---
 iso: irk
 name: Iraqw
+name_zh: 伊拉库语
 autonym: Kángw Iraqw
+alt_names: [Erokh, Iraku, Iraqw hizkuntza, Język iraku, Kiiraqw, Lenga Iraqw, Mbulu, Mbulunge]
 population: 603000
 country_id: TZ
 country_name: Tanzania

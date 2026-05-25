@@ -1,7 +1,9 @@
 ---
 iso: mlc
 name: Cao Lan
+name_zh: 山泽语
 autonym: "Man Cao-Lan"
+alt_names: ["\"Man Cao-Lan\"", "\"Mán\"", Cao Lan-Sán Chi, Caolan, San Chay, San Chi, Sán-Chi]
 population: 169000
 country_id: VN
 country_name: Vietnam

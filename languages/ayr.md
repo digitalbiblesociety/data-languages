@@ -2,6 +2,7 @@
 iso: ayr
 name: Central Aymara
 autonym: Aymar aru
+alt_names: [Aimara, Aymara, "Aymara, Central", Lupaca, Lupacca, Tupe]
 population: 1464100
 country_id: BO
 country_name: Bolivia

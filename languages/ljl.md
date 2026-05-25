@@ -1,7 +1,9 @@
 ---
 iso: ljl
 name: "Li'o"
+name_zh: 立歐語
 autonym: "Li'o"
+alt_names: [Aku, Lio, Lionese, Tanah Kunu]
 population: 105000
 country_id: ID
 country_name: Indonesia

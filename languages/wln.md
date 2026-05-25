@@ -1,7 +1,9 @@
 ---
 iso: wln
 name: Walloon
+name_zh: 瓦隆语
 autonym: walon
+alt_names: [An Vallúinis, Bahasa Walloon, Fà-liùng-ngî, Idioma valón, Język waloński, Lengua vallone, Limba valonă, Lingua vallone, Língua valona, Tiếng Wallon, Valloni, Vallonsk, Vallonska, Valoiera, Valon, Valona lingvo, Valonca, Valonski jezik, Valonština, Való, Valón, Waals, Wallon, Walloneg, Wallonek, Wallonies, Wallonische Sprache, Walloonish, Walloonsch, Wallounesch, Waols, Woals, Βαλλωνική γλώσσα, Валлонский язык, Валлонська мова, Валонски език, Валёнская мова, Վալոներեն, ולונית, لغة والون, ภาษาวัลลูน, ワロン語, 瓦龙语, 왈롱어]
 population: 600000
 country_id: BE
 country_name: Belgium

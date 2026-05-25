@@ -1,7 +1,9 @@
 ---
 iso: dop
 name: Lukpa
+name_zh: 卢克帕语
 autonym: Lokpa
+alt_names: [Dompago, Legba, Logba, Lugba]
 population: 157900
 country_id: BJ
 country_name: Benin

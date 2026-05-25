@@ -2,6 +2,7 @@
 iso: afp
 name: Tapei
 autonym: Imboin
+alt_names: [Alfendio, Arafundi, Aunda, Kapagmai, Lower Arafundi, Nanubae, Upper Arafundi]
 population: 290
 country_id: PG
 country_name: Papua New Guinea

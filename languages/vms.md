@@ -2,6 +2,7 @@
 iso: vms
 name: Moksela
 autonym: Maksela
+alt_names: [Opselan]
 population: null
 country_id: ID
 country_name: Indonesia

@@ -2,6 +2,7 @@
 iso: xkx
 name: Karore
 autonym: null
+alt_names: [Karore language]
 population: 550
 country_id: PG
 country_name: Papua New Guinea

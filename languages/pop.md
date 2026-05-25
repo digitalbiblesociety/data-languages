@@ -2,6 +2,7 @@
 iso: pop
 name: Pwapwâ
 autonym: Poapoa
+alt_names: [Neukaledonien, Pwapwa]
 population: 40
 country_id: NC
 country_name: New Caledonia

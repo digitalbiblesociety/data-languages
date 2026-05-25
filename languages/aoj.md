@@ -2,6 +2,7 @@
 iso: aoj
 name: Mufian
 autonym: Southern Arapesh
+alt_names: [Mufwian, Muhian, Muhiang, Souther Arapesh]
 population: 11000
 country_id: PG
 country_name: Papua New Guinea

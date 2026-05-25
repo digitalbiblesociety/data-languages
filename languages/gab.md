@@ -2,6 +2,7 @@
 iso: gab
 name: Gabri
 autonym: Southern Gabri
+alt_names: [Gabere, Gaberi, Gabri-Nord, Ngabre, Northern Gabri]
 population: 34400
 country_id: TD
 country_name: Chad

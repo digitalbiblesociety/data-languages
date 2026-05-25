@@ -2,6 +2,7 @@
 iso: bqk
 name: "Banda-Mbrès"
 autonym: Banda of Mbrès
+alt_names: [Banda-Mbre, Banda-Mbres]
 population: 42500
 country_id: CF
 country_name: Central African Republic

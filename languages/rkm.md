@@ -2,6 +2,7 @@
 iso: rkm
 name: Marka
 autonym: Marka Dafing
+alt_names: [Dafing, Marka-Dafin, Meka]
 population: 185800
 country_id: BF
 country_name: Burkina Faso

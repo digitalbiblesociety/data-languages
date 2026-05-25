@@ -2,6 +2,7 @@
 iso: mdu
 name: Mboko
 autonym: Mboxo
+alt_names: [Mbuku]
 population: 47000
 country_id: CG
 country_name: Congo

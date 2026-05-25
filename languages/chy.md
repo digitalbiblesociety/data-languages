@@ -1,7 +1,9 @@
 ---
 iso: chy
 name: Cheyenne
+name_zh: 夏延语
 autonym: Tsėhésenėstsestȯtse
+alt_names: [Bahasa Cheyenne, Cheyeneg, Cheyenne (Montana), Cheyenne (Oklahoma), Cheyenne Isolate, Cheyén (Oklahoma), Idioma cheyenne, Język czejeński, Língua cheyenne, Tsêhesenêstsestôtse, Ĉejena lingvo, Шайенский язык, 샤이엔어]
 population: 380
 country_id: US
 country_name: United States

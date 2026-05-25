@@ -1,7 +1,9 @@
 ---
 iso: tdg
 name: Western Tamang
+name_zh: 西達芒語
 autonym: तामाङ
+alt_names: [Bhōtiā, Ishāng, Murmi, Sain, Tamang, "Tamang, Western", "Tamang,Western", Tāmāng]
 population: 323000
 country_id: NP
 country_name: Nepal

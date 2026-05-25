@@ -2,6 +2,7 @@
 iso: dgb
 name: Bunoge Dogon
 autonym: Bunɔɡɛ
+alt_names: [Budu-Tagu, Bunoge, "Dogon, Bunoge", Korandabo]
 population: 1000
 country_id: ML
 country_name: Mali

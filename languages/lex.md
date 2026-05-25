@@ -2,6 +2,7 @@
 iso: lex
 name: Luang
 autonym: Literi Lagona
+alt_names: [Letri Lgona, Lgona, Wetan]
 population: 18000
 country_id: ID
 country_name: Indonesia

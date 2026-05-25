@@ -1,7 +1,9 @@
 ---
 iso: chu
 name: Church Slavic
+name_zh: 教会斯拉夫语
 autonym: Old Church Slavic
+alt_names: [Alt-slavisch, Altkirchenslawische Sprache, Antic eslau, Antico slavo ecclesiastico, Antiguo eslavo eclesiástico, Bahasa Gereja Slavonia Lama, Baznīcslāvu valoda, "Bulgarian, Old", Church Slavonic, Eslavo eclesiástico, Eslavon, Fornkyrkoslaviska, Gammelkirkeslavisk, Hen Slafoneg Eglwysig, Język staro-cerkiewno-słowiański, Lingua Slavonica antiqua, Muinaiskirkkoslaavi, Old Bulgarian, Old Church Slavonic, Old Slavonic, Oldkirkeslavisk, Ou Kerkslawies, Oudkerkslavisch, Senoji bažnytinė slavų kalba, "Slavic, Church", "Slavonic, Church", "Slavonic, Old", "Slavonic, Old Church", Stara cerkvena slovanščina, Staro-cerkwjejno-słowjańska rěc, Staroslavenski jezik, Staroslovienčina, Staroslověnština, Vieux-slave, altbulgarische, altkirchenslawische, "slavon d'église", slavon liturgique, vieux bulgare, vieux slave, Óegyházi szláv nyelv, Αρχαία εκκλησιαστική σλαβονική γλώσσα, Ватă славян чĕлхи, Словѣ́ньскъ ѩꙁꙑ́къ, Старобългарски език, Старославянский язык, Старословенски јазик, Старословенски језик, "Староцерковнослов'янська мова", Шіркеу славян тілі, סלאבית כנסייתית עתיקה, ภาษาโบสถ์สลาโวนิกโบราณ, ძველი სლავური ენა, 古代教会スラヴ語, 古教會斯拉夫語]
 population: null
 country_id: RU
 country_name: Russia

@@ -1,7 +1,9 @@
 ---
 iso: aud
 name: Anuta
+name_zh: 阿努塔语
 autonym: "Te taranga paka-Anuta"
+alt_names: [Anuta jezik, Anutische Sprache, Lenga anuta]
 population: 270
 country_id: SB
 country_name: Solomon Islands

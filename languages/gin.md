@@ -2,6 +2,7 @@
 iso: gin
 name: Hinukh
 autonym: гьинузас мец / hinuzas mec
+alt_names: [Ginukh, Ginukhtsy, Ginux, Guang, "Hinouc'heg", Hinuchische Sprache, Hinuhin kieli, Hinuj, Hinuq, Hinux, Język ginuchijski, hinuzas mec, Гінухська мова, Хинухски јазик, гинухский язык, гьинузас мец, Գինուխերեն, ჰინუზას მეც, ჰინუხური ენა]
 population: 550
 country_id: RU
 country_name: Russia

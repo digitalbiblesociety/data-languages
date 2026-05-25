@@ -1,7 +1,9 @@
 ---
 iso: mnp
 name: Min Bei Chinese
+name_zh: 闽北语
 autonym: Min Bei
+alt_names: ["Chinese, Min Bei", Northwestern Min Bei]
 population: 11000000
 country_id: CN
 country_name: China

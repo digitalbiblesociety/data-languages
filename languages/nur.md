@@ -2,6 +2,7 @@
 iso: nur
 name: Nukuria
 autonym: Fead
+alt_names: [Nahoa, Nuguria]
 population: 550
 country_id: PG
 country_name: Papua New Guinea

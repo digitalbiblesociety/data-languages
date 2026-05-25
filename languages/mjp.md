@@ -2,6 +2,7 @@
 iso: mjp
 name: Malapandaram
 autonym: Hill Pantaram
+alt_names: [Malapantaram, Malepantaram, Pandaram Basha]
 population: 5850
 country_id: IN
 country_name: India

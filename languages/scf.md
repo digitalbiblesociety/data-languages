@@ -1,7 +1,9 @@
 ---
 iso: scf
 name: San Miguel Creole French
+name_zh: 圣米格尔克里奥尔语
 autonym: " patwa"
+alt_names: ["Creole French, San Miguel"]
 population: null
 country_id: PA
 country_name: Panama

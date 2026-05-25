@@ -1,7 +1,9 @@
 ---
 iso: yal
 name: Yalunka
+name_zh: 雅隆卡語
 autonym: Jalunga
+alt_names: [Bahasa Yalunka, Dialonke, Dialonké, Djallonke, Djalonka, Dyalonke, Jalonke, Jalonké, Kjalonke, Susu-Yalunka, Yalonka, Yalunke]
 population: 174300
 country_id: GN
 country_name: Guinea

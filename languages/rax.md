@@ -2,6 +2,7 @@
 iso: rax
 name: Rang
 autonym: null
+alt_names: [Nigeria]
 population: null
 country_id: NG
 country_name: Nigeria

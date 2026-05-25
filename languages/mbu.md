@@ -2,6 +2,7 @@
 iso: mbu
 name: "Mbula-Bwazza"
 autonym: Ɓwázà
+alt_names: [Nigeria]
 population: 100000
 country_id: NG
 country_name: Nigeria

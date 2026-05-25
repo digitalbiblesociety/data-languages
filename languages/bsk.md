@@ -1,7 +1,9 @@
 ---
 iso: bsk
 name: Burushaski
+name_zh: 布鲁夏斯基语
 autonym: بروشسکی
+alt_names: [Biltum, Bourouchaskeg, Bourouchaski, Brushaski, Buriština, Burucaki, Burucaski, Buruchaski, Burushaki, Burushaski (Yasin), Burushaski jezik, Burushki, Buruxaski, Buruŝa lingvo, Burušaski keel, Burušaskin kieli, Idioma burushaski, Język buruszaski, Khajuna, Kunjut, Lingua burushaski, Mishaski, Бурушаски, Бурушаски език, Бурушаски јазик, בורושסקי, بروشسكي, ブルシャスキー語, 布魯夏斯基語, 부르샤스키어]
 population: 126300
 country_id: PK
 country_name: Pakistan

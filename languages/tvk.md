@@ -2,6 +2,7 @@
 iso: tvk
 name: Southeast Ambrym
 autonym: Taveak
+alt_names: [Ambrym (Southeast), "Ambrym, Southeast", South-East Ambrym, Vatlongos]
 population: 2000
 country_id: VU
 country_name: Vanuatu

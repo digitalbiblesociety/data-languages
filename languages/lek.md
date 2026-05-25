@@ -2,6 +2,7 @@
 iso: lek
 name: Leipon
 autonym: Pitilu
+alt_names: [Admiralitäts-inseln, Pityilu]
 population: 650
 country_id: PG
 country_name: Papua New Guinea

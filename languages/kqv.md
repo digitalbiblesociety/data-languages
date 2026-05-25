@@ -2,6 +2,7 @@
 iso: kqv
 name: Okolod
 autonym: Okolod
+alt_names: [Kolod, Kolour, Kolur, Okolod Murut]
 population: 3390
 country_id: ID
 country_name: Indonesia

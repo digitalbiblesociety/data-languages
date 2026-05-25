@@ -2,6 +2,7 @@
 iso: yww
 name: Yawarawarga
 autonym: null
+alt_names: [Janweraworga, Jarawurga, Jauraworka, Jaurorka, Jawarawarga, Jawarawarka, Jawarawonga, Jawaraworga, Yalaurawarka, Yara wuarka, Yara-wuarka, Yarawuarka, Yarrawaurka, Yarrawoorka, Yarrawurka, Yarroworka, Yauarawaka, Yaurawakka, Yauraworga, Yauroka, Yaurorka, Yauroworka, Yawarawarka, Yawarrawarka, Yawarrawarrka, Yawarraworga, Yerawaka, Yowerawarrika, Yowerawoolka]
 population: null
 country_id: AU
 country_name: Australia

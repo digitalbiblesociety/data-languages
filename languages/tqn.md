@@ -2,6 +2,7 @@
 iso: tqn
 name: Tenino
 autonym: Warm Springs
+alt_names: [Columbia River, Sahaptin, Southern, Tenaino]
 population: 1000
 country_id: US
 country_name: United States

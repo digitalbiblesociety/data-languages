@@ -2,6 +2,7 @@
 iso: mks
 name: Silacayoapan Mixtec
 autonym: "Mixtec, Silacayoapan"
+alt_names: [Central Baja Mixtec, Mixtec (Silacayoapan), Mixteco (Silacayoapan), Mixteco de Yucuná, Mixteco del Noroeste de Oaxaca, Mixteco del noroeste, Northern Misteko, Northern Mixteco, Northwest Oaxaca Mixtec]
 population: 18700
 country_id: MX
 country_name: Mexico

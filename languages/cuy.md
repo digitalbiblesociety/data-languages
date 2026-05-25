@@ -2,6 +2,7 @@
 iso: cuy
 name: Cuitlatec
 autonym: Uhpɨnéʔlu
+alt_names: [Kwitlateko]
 population: null
 country_id: MX
 country_name: Mexico

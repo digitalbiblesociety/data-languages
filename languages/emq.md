@@ -2,6 +2,7 @@
 iso: emq
 name: Eastern Minyag
 autonym: Munya
+alt_names: [Eastern Muya, "Minyag, Eastern"]
 population: 2000
 country_id: CN
 country_name: China

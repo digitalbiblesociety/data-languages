@@ -1,6 +1,7 @@
 ---
 iso: rmq
 name: Caló
+name_zh: 卡洛语
 autonym: Gitano
 population: 460000
 country_id: ES

@@ -1,7 +1,9 @@
 ---
 iso: aec
 name: Saidi Arabic
+name_zh: 薩伊德阿拉伯語
 autonym: صعيدى
+alt_names: [Arabic, "Arabic, Sa`idi Spoken", "Arabic, Saidi", "Sa'idi Arabic", "Sa`idi", Saidi arapski, Upper Egypt Arabic, Саудиски арапски јазик, لهجة صعيدية]
 population: 22400000
 country_id: EG
 country_name: Egypt

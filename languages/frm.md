@@ -1,7 +1,9 @@
 ---
 iso: frm
 name: "Middle French (ca. 1400-1600)"
+name_zh: 中古法語
 autonym: "françois, franceis"
+alt_names: ["French, Middle (ca. 1400-1600)"]
 population: null
 country_id: FR
 country_name: France

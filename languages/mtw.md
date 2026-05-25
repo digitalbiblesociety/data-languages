@@ -2,6 +2,7 @@
 iso: mtw
 name: Southern Binukidnon
 autonym: Southern Binukidnon
+alt_names: [Ata-Man, "Binukidnon, Southern", Bukidnon, Magahat]
 population: 7570
 country_id: PH
 country_name: Philippines

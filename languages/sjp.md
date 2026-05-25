@@ -1,7 +1,9 @@
 ---
 iso: sjp
 name: Surjapuri
+name_zh: 苏尔贾普里语
 autonym: Sura
+alt_names: [Chaupal, Choupal, Suraji, Surajpuri]
 population: 2260000
 country_id: IN
 country_name: India

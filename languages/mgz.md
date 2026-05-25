@@ -2,6 +2,7 @@
 iso: mgz
 name: Mbugwe
 autonym: Kimbugwe
+alt_names: [Mbuwe]
 population: 24000
 country_id: TZ
 country_name: Tanzania

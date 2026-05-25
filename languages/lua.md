@@ -1,7 +1,9 @@
 ---
 iso: lua
 name: "Luba-Lulua"
+name_zh: 鲁巴-开赛语
 autonym: Ciluba
+alt_names: [Bena-Lulua, CiLuba (L 31a), Luba, Luba lingvo, Luba simi, Luba-Kasai, Luban kieli, Luva, Língua tshiluba, Tchilouba, Tchiluba, Tschiluba, Tshiluba, Tshiluba language, Western Luba, Луба, لغة تشيلوبا, ルバ語, 루바어]
 population: 6360000
 country_id: CD
 country_name: DR Congo

@@ -2,6 +2,7 @@
 iso: mfp
 name: Makassar Malay
 autonym: "Bahasa-Bahasa Melayu Dagang dan Kreol"
+alt_names: [Indonesia, "Malay, Makassar"]
 population: 950
 country_id: ID
 country_name: Indonesia

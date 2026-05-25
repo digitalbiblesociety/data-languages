@@ -1,7 +1,9 @@
 ---
 iso: azj
 name: North Azerbaijani
+name_zh: 北阿塞拜疆语
 autonym: " آذربایجان دیلی"
+alt_names: [Aderbeidjanisch, Azarbaydjanian, Azerbaijani, "Azerbaijani, North", Azerbaijanian, Azerbaydzhani, Azeri Turk, North Azeri language, Turkler]
 population: 9220600
 country_id: AZ
 country_name: Azerbaijan

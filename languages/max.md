@@ -1,7 +1,9 @@
 ---
 iso: max
 name: North Moluccan Malay
+name_zh: 特尔纳特马来语
 autonym: Bahasa Pasar
+alt_names: ["Malay, North Moluccan", Ternate Malay]
 population: 700000
 country_id: ID
 country_name: Indonesia

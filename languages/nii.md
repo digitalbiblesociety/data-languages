@@ -1,6 +1,7 @@
 ---
 iso: nii
 name: Nii
+name_zh: 尼語
 autonym: Ek Nii
 population: 12000
 country_id: PG

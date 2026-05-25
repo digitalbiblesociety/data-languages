@@ -2,6 +2,7 @@
 iso: kke
 name: Kakabe
 autonym: Fulajon Kan
+alt_names: [Jon Kule, Ourekabakan]
 population: 4100
 country_id: GN
 country_name: Guinea

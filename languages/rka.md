@@ -2,6 +2,7 @@
 iso: rka
 name: Kraol
 autonym: Bunong (ឞូន៝ង)
+alt_names: [Chrau, Crau, Southern-Central Mnong, Trao]
 population: 1960
 country_id: KH
 country_name: Cambodia

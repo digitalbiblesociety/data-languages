@@ -1,7 +1,9 @@
 ---
 iso: pno
 name: Panobo
+name_zh: 帕諾語
 autonym: Pano
+alt_names: [Huariapano, Manoa, Pana, Pano language area, Pelado, Pánobo, Wariapano]
 population: null
 country_id: PE
 country_name: Peru

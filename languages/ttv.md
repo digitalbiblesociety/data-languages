@@ -2,6 +2,7 @@
 iso: ttv
 name: Titan
 autonym: Manus
+alt_names: [Admiralitäts-inseln, "M'bunai", Moanus, Tito]
 population: 3850
 country_id: PG
 country_name: Papua New Guinea

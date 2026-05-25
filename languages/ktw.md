@@ -2,6 +2,7 @@
 iso: ktw
 name: Kato
 autonym: Cahto
+alt_names: [Batem-Da-Kai-Ee, Kai Po-Mo, Kuta, Tlokeang]
 population: null
 country_id: US
 country_name: United States

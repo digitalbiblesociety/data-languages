@@ -2,6 +2,7 @@
 iso: gne
 name: Ganang
 autonym: Afusare
+alt_names: [Gangang, Gashish]
 population: 3000
 country_id: NG
 country_name: Nigeria

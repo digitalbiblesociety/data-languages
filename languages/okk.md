@@ -2,6 +2,7 @@
 iso: okk
 name: Kwamtim One
 autonym: Aunalei
+alt_names: [Inebu One, Kabore One, Kuamtim, Kwamtim, Molmo One, Northern One, One, "One, Kwamtim", Onele, Oni, Southern One]
 population: 150
 country_id: PG
 country_name: Papua New Guinea

@@ -2,6 +2,7 @@
 iso: blh
 name: Kuwaa
 autonym: Belleh
+alt_names: [Belle, Kowaao, Kwaa]
 population: 27000
 country_id: LR
 country_name: Liberia

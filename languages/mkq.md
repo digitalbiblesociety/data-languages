@@ -2,6 +2,7 @@
 iso: mkq
 name: Bay Miwok
 autonym: Saclan
+alt_names: ["Miwok, Bay", Sakaiakumni, Saklan]
 population: null
 country_id: US
 country_name: United States

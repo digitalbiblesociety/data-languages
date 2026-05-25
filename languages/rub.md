@@ -2,6 +2,7 @@
 iso: rub
 name: Gungu
 autonym: Lugungu
+alt_names: [Rugungu]
 population: 84000
 country_id: UG
 country_name: Uganda

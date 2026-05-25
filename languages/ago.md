@@ -2,6 +2,7 @@
 iso: ago
 name: Tainae
 autonym: Ivori
+alt_names: [Andarum]
 population: 1000
 country_id: PG
 country_name: Papua New Guinea

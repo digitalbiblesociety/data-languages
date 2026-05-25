@@ -2,6 +2,7 @@
 iso: moi
 name: Mboi
 autonym: Gena
+alt_names: [Mboire, Mboyi]
 population: 19000
 country_id: NG
 country_name: Nigeria

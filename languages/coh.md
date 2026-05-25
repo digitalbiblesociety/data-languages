@@ -2,6 +2,7 @@
 iso: coh
 name: "Chonyi-Dzihana-Kauma"
 autonym: Chonyi
+alt_names: [Chichonyi, Chichonyi-Chidzihana-Chikauma]
 population: 309000
 country_id: KE
 country_name: Kenya

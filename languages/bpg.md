@@ -2,6 +2,7 @@
 iso: bpg
 name: Bonggo
 autonym: Armopa
+alt_names: [Bgu, Bogu, Bongo]
 population: 790
 country_id: ID
 country_name: Indonesia

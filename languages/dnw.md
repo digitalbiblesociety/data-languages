@@ -2,6 +2,7 @@
 iso: dnw
 name: Western Dani
 autonym: Laani
+alt_names: [Dani, Dani Barat, "Dani, Western", Ilaga Western Dani, Laany, Lani, Ndani, Oeringoep, Timorini]
 population: 180000
 country_id: ID
 country_name: Indonesia

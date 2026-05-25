@@ -2,6 +2,7 @@
 iso: noe
 name: Nimadi
 autonym: Nemadi
+alt_names: [Nimari, Nimiadi, निमाड़ी]
 population: 2310000
 country_id: IN
 country_name: India

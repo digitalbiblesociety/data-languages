@@ -1,6 +1,7 @@
 ---
 iso: zem
 name: Zeem
+alt_names: [Zeemo]
 population: 400
 country_id: NG
 country_name: Nigeria

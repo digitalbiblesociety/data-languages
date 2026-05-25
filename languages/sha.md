@@ -2,6 +2,7 @@
 iso: sha
 name: "Shall-Zwall"
 autonym: null
+alt_names: [Nigeria]
 population: 8900
 country_id: NG
 country_name: Nigeria

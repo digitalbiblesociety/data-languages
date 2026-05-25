@@ -1,7 +1,9 @@
 ---
 iso: oui
 name: Old Uighur
+name_zh: 回鹘语
 autonym: null
+alt_names: [Old Turkic, Uighur, "Uighur, Old", Uigurisch]
 population: null
 country_id: CN
 country_name: China

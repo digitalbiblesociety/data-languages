@@ -2,6 +2,7 @@
 iso: wji
 name: Warji
 autonym: Sar
+alt_names: [Aja, Ajanci, Ajawa, Sarawa, Sirzakwai, Warja, Warjawa, Werji]
 population: 77700
 country_id: NG
 country_name: Nigeria

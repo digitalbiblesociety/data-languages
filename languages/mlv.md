@@ -2,6 +2,7 @@
 iso: mlv
 name: Motlav
 autonym: Motlav
+alt_names: [Banks-Inseln, Motalava, Mwotlap, Valuwa, Volow, Мвотлап]
 population: 2200
 country_id: VU
 country_name: Vanuatu

@@ -2,6 +2,7 @@
 iso: bme
 name: Limassa
 autonym: Bamassa
+alt_names: [Bomasa, Bomassa]
 population: null
 country_id: CF
 country_name: Central African Republic

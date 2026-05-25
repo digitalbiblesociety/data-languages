@@ -2,6 +2,7 @@
 iso: gly
 name: Gule
 autonym: Anej
+alt_names: [Fecakomodiyo, Hamej]
 population: null
 country_id: SD
 country_name: Sudan

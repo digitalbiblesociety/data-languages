@@ -2,6 +2,7 @@
 iso: vmv
 name: Valley Maidu
 autonym: Valley Maidu
+alt_names: [Chico language, Maidu, "Maidu, Valley", Maidú nororiental]
 population: null
 country_id: US
 country_name: United States

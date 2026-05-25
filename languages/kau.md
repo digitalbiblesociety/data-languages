@@ -1,6 +1,7 @@
 ---
 iso: kau
 name: Kanuri
+name_zh: 卡努里語
 autonym: kanuri
 population: 15000000
 country_id: NG

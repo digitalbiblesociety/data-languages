@@ -2,6 +2,7 @@
 iso: kcp
 name: Kanga
 autonym: null
+alt_names: [Abu Sinun, Canga, Chiroro-Kursi, Krongo Abdalla, Kufa, Kufa-Lima, Kufo]
 population: 8000
 country_id: SD
 country_name: Sudan

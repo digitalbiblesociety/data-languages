@@ -2,6 +2,7 @@
 iso: gwa
 name: Mbato
 autonym: Goaa
+alt_names: [Gwa, "M'bato", Mbatto, Mgbato, N-Batto, Ogwia, Potu]
 population: 25000
 country_id: CI
 country_name: "Côte d'Ivoire"

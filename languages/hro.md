@@ -2,6 +2,7 @@
 iso: hro
 name: Haroi
 autonym: Aroi
+alt_names: [Bahnar Cham, Hoi, Hroi, Hroy, Hrway]
 population: 35000
 country_id: VN
 country_name: Vietnam

@@ -1,7 +1,9 @@
 ---
 iso: lcq
 name: Luhu
+name_zh: 鲁胡语
 autonym: null
+alt_names: [Indonesia]
 population: 6500
 country_id: ID
 country_name: Indonesia

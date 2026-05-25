@@ -1,7 +1,9 @@
 ---
 iso: bxr
 name: Russia Buriat
+name_zh: 俄罗斯布里亚特语
 autonym: Buriat
+alt_names: ["Buriat, Russia", Buriat-Mongolian, Burjatisch, Buryat, Northern Mongolian, Russian Buriat, Western Buryat, buriaad xelen, buryaad xelen, буриад аялгуу, буряад хэлэн, бурят-монгольский язык]
 population: 461000
 country_id: RU
 country_name: Russia

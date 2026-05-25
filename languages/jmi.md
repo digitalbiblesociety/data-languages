@@ -2,6 +2,7 @@
 iso: jmi
 name: Jimi (Nigeria)
 autonym: "Bi-Gimu"
+alt_names: [Jimi, Jimi language]
 population: 1000
 country_id: NG
 country_name: Nigeria

@@ -2,6 +2,7 @@
 iso: wlh
 name: "Welaun\r"
 autonym: "Bekais, Wekais"
+alt_names: [Welaun]
 population: 5580
 country_id: TL
 country_name: "Timor-Leste"

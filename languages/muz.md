@@ -2,6 +2,7 @@
 iso: muz
 name: Mursi
 autonym: Dama
+alt_names: [Merdu, Meritu, Murzi, Murzu]
 population: 3155
 country_id: ET
 country_name: Ethiopia

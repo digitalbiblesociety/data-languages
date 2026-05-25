@@ -2,6 +2,7 @@
 iso: duk
 name: Uyajitaya
 autonym: Abowe
+alt_names: [Duduela]
 population: 470
 country_id: PG
 country_name: Papua New Guinea

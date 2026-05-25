@@ -2,6 +2,7 @@
 iso: yev
 name: Yapunda
 autonym: Yeri
+alt_names: [Giro, Hiro, Reiwo]
 population: 60
 country_id: PG
 country_name: Papua New Guinea

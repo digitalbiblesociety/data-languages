@@ -1,6 +1,7 @@
 ---
 iso: jos
 name: Jordanian Sign Language
+name_zh: 约旦手语
 autonym: "Syro-Palestinian Sign Language"
 population: 30000
 country_id: JO

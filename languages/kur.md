@@ -1,6 +1,7 @@
 ---
 iso: kur
 name: Kurdish
+name_zh: 库尔德语
 autonym: کوردی
 population: 25100000
 country_id: TR

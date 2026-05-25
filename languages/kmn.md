@@ -2,6 +2,7 @@
 iso: kmn
 name: Awtuw
 autonym: Autu
+alt_names: [Kamnum]
 population: 510
 country_id: PG
 country_name: Papua New Guinea

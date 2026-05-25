@@ -2,6 +2,7 @@
 iso: kmw
 name: Komo (Democratic Republic of Congo)
 autonym: Kikuumu
+alt_names: [Kikomo, Kikumo, Kikumu, Komo, Kumo, Kumu, Kuumu]
 population: 400000
 country_id: CD
 country_name: DR Congo

@@ -1,7 +1,9 @@
 ---
 iso: dba
 name: Bangime
+name_zh: 班吉梅语
 autonym: "Baŋgɛri-mɛ"
+alt_names: [Banger-me, Bangeri Me, Bangeri-me, Bangerime, Bangi Me, Baŋgi me, Dogon, "Dogon, Bangeri Me", Dogoso, Donno So Dogon, Dyeni, Dyɛni, Elebo, Noumandan, Numa-Daw, Numadaw, Yeni, Yɛni]
 population: 2000
 country_id: ML
 country_name: Mali

@@ -2,6 +2,7 @@
 iso: lnd
 name: Lundayeh
 autonym: " Southern Murut"
+alt_names: [Brunei Murut, Lun Bawang, Lun Bawang language, Lun Daya, Lun Dayah, Lun Daye, Lun Dayeh, Lun Dayoh, Lundaya, Murut]
 population: 47500
 country_id: ID
 country_name: Indonesia

@@ -2,6 +2,7 @@
 iso: kli
 name: Kalumpang
 autonym: Galumpang
+alt_names: [Azarbaydjanian, "Ma'ki", Maki, Makki, Mangki, Mangkir, Nordost-Celebes]
 population: 12000
 country_id: ID
 country_name: Indonesia

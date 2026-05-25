@@ -2,6 +2,7 @@
 iso: xay
 name: Kayan Mahakam
 autonym: Kajan
+alt_names: [Indonesia]
 population: 1300
 country_id: ID
 country_name: Indonesia

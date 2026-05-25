@@ -1,7 +1,9 @@
 ---
 iso: che
 name: Chechen
+name_zh: 车臣语
 autonym: нохчийн моттnoxçiyn mott
+alt_names: [Bahasa Chechen, Checheno, Chechèn, Csecsen nyelv, Galancho, Idioma checheno, Język czeczeński, Limba cecenă, Lingua cecena, Lingua chechena, Língua chechena, Nokchiin Muott, Nokhchiin, Tchetcheneg, Tchétchène, Tjetjensk, Tjetjenska, Tschetschenische Sprache, Tsjetsjeens, Tsjetsjensk, Txetxè, Téténska, Tšetšeeni keel, Tšetšeenin kieli, Çeçence, Çeçenî, Ĉeĉena lingvo, Čečenski jezik, Čečenu valoda, Čečenština, Čečenščina, Нохчийн мотт, Сэсэн хэлэн, Цæцæйнаг æвзаг, Чачэнская мова, Чечен чĕлхи, Чеченски език, Чеченски јазик, Чеченски језик, Чеченский язык, Чеченська мова, "צ'צ'נית", لغة شيشانية, ภาษาเชเชน, ჩაჩნური ენა, チェチェン語, 車臣語, 체첸어]
 population: 1526650
 country_id: RU
 country_name: Russia

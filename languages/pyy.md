@@ -1,7 +1,9 @@
 ---
 iso: pyy
 name: Pyen
+name_zh: 片语 (毕苏语群)
 autonym: Phen
+alt_names: [Hpyin]
 population: 800
 country_id: MM
 country_name: Myanmar

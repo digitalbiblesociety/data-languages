@@ -2,6 +2,7 @@
 iso: ppk
 name: Uma
 autonym: Pipikoro
+alt_names: [Oema]
 population: 18800
 country_id: ID
 country_name: Indonesia

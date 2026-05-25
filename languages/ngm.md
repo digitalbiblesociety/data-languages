@@ -2,6 +2,7 @@
 iso: ngm
 name: "Ngatik Men's Creole"
 autonym: Ngatikese
+alt_names: ["\"Ngatikese\"", Micronesian Pidgin, "Ngatik Men's Language"]
 population: 200
 country_id: FM
 country_name: Micronesia

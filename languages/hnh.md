@@ -2,6 +2,7 @@
 iso: hnh
 name: ǁAni
 autonym: Kxoe
+alt_names: [//Ani, /Anda, "?ani", Ani, Handa-Khwe, Handakwe-Dam, Handá, Handádam, "Khwe-||Ani", "Ts'éxa", "|Anda", "||Ani", "||Anikhwe"]
 population: 1000
 country_id: BW
 country_name: Botswana

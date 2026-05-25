@@ -2,6 +2,7 @@
 iso: weu
 name: Rawngtu Chin
 autonym: Rawngtu Chin
+alt_names: ["Chin, Rawngtu"]
 population: 9550
 country_id: MM
 country_name: Myanmar

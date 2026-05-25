@@ -2,6 +2,7 @@
 iso: jet
 name: Manem
 autonym: Jeti
+alt_names: [Manam, Skofro, Wembi, Yeti]
 population: 500
 country_id: PG
 country_name: Papua New Guinea

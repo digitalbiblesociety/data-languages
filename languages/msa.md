@@ -1,7 +1,9 @@
 ---
 iso: msa
 name: Malay
+name_zh: 马来语
 autonym: Bahasa Melayu
+alt_names: [Malay (macrolanguage)]
 population: 77000000
 country_id: MY
 country_name: Malaysia

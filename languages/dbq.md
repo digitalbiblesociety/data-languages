@@ -2,6 +2,7 @@
 iso: dbq
 name: Daba
 autonym: Dabba
+alt_names: [Kola]
 population: 25000
 country_id: CM
 country_name: Cameroon

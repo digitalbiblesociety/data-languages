@@ -2,6 +2,7 @@
 iso: aew
 name: Ambakich
 autonym: Ambakich
+alt_names: [Aion, Porapora]
 population: 1964
 country_id: PG
 country_name: Papua New Guinea

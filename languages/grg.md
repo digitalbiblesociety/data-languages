@@ -2,6 +2,7 @@
 iso: grg
 name: Madi
 autonym: Gira
+alt_names: [Girara, Gorovu]
 population: 380
 country_id: PG
 country_name: Papua New Guinea

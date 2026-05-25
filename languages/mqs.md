@@ -1,7 +1,9 @@
 ---
 iso: mqs
 name: West Makian
+name_zh: 西马基安语
 autonym: Moi
+alt_names: [Makian (West), Makian Barat, Makian Luar, "Makian, West", "Moi (Maluku, Indonesia)", W Makian, W. Makian]
 population: 12000
 country_id: ID
 country_name: Indonesia

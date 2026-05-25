@@ -2,6 +2,7 @@
 iso: mbq
 name: Maisin
 autonym: Maisan
+alt_names: [Maisin language]
 population: 2610
 country_id: PG
 country_name: Papua New Guinea

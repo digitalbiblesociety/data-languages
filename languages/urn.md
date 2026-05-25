@@ -2,6 +2,7 @@
 iso: urn
 name: Uruangnirin
 autonym: Faur
+alt_names: [Tubiruasa]
 population: 400
 country_id: ID
 country_name: Indonesia

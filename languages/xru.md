@@ -2,6 +2,7 @@
 iso: xru
 name: Marriammu
 autonym: Berringen
+alt_names: [MareAmmu, Marri Ammu]
 population: null
 country_id: AU
 country_name: Australia

@@ -1,6 +1,7 @@
 ---
 iso: smb
 name: Simbari
+name_zh: 辛巴里语
 autonym: Chimbari
 population: 3040
 country_id: PG

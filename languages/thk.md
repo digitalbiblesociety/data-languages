@@ -2,6 +2,7 @@
 iso: thk
 name: Tharaka
 autonym: Kimîîru
+alt_names: [Kitharaka, Saraka, Sharoka]
 population: 220000
 country_id: KE
 country_name: Kenya

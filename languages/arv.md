@@ -2,6 +2,7 @@
 iso: arv
 name: Arbore
 autonym: Arbora
+alt_names: [Arbore hizkuntza, Arbore jezik, Arborie, Arboré, Erbore, Irbore, Lenga Arbore]
 population: 3907
 country_id: ET
 country_name: Ethiopia

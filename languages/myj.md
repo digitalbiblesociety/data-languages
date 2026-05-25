@@ -2,6 +2,7 @@
 iso: myj
 name: Mangayat
 autonym: " Buga"
+alt_names: [Bug, Mangaya, Mongaiyat]
 population: 400
 country_id: SS
 country_name: South Sudan

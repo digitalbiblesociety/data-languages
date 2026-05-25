@@ -1,7 +1,9 @@
 ---
 iso: nxm
 name: Numidian
+name_zh: 努米底亚语
 autonym: Old Libyan
+alt_names: [Ancient Berber, East Numidian, Lybico-Berber]
 population: null
 country_id: DZ
 country_name: Algeria

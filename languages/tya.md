@@ -2,6 +2,7 @@
 iso: tya
 name: Tauya
 autonym: "Fo'upo"
+alt_names: [Inafosa]
 population: 350
 country_id: PG
 country_name: Papua New Guinea

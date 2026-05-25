@@ -1,7 +1,9 @@
 ---
 iso: kut
 name: Kutenai
+name_zh: 库特奈语
 autonym: Kootenai
+alt_names: [Kootenay, Koutenaieg, Ksanka, Ktunaxa, Kutenái, Lengua kootenai, Кутенай]
 population: 100
 country_id: CA
 country_name: Canada

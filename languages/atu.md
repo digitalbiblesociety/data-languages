@@ -2,6 +2,7 @@
 iso: atu
 name: Reel
 autonym: Atwot
+alt_names: [Atuot, Thok Cieng Reel, Thok Reel]
 population: 116000
 country_id: SS
 country_name: South Sudan

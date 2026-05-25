@@ -1,7 +1,9 @@
 ---
 iso: lao
 name: Lao
+name_zh: 老挝语
 autonym: ພາສາລາ
+alt_names: [Bahasa Lao, Bahasa Laos, Eastern Thai, Idioma lao, Język laotański, Lao Kao, Lao Wiang, Lao nyelv, Lao-Lum, Lao-Noi, Lao-Tai, Laoca, Laon kieli, Laosiešu valoda, Laotiaans, Laotian, Laotian Tai, Laotische Sprache, Laotisk, Laoština, Law simi, Laŭa lingvo, Lingua lao, Lum Lao, Língua laociana, Lأƒآ o, Phou Lao, Rong Kong, Tai Lao, Tiếng Lào, Лао, Лаоски језик, Лаосский язык, Лаошки јазик, لائوس تىلى, लाओ भाषा, লাও ভাষা, ภาษาลาว, ພາສາລາວ, ラーオ語, 老挝语, 라오어]
 population: 7169000
 country_id: LA
 country_name: Laos

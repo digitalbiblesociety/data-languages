@@ -2,6 +2,7 @@
 iso: avi
 name: Avikam
 autonym: Avekom
+alt_names: [Brignan, Brinya, Gbanda, Kwakwa, Lahu, Lenga Avikam]
 population: 21000
 country_id: CI
 country_name: "Côte d'Ivoire"

@@ -2,6 +2,7 @@
 iso: tgz
 name: Tagalaka
 autonym: "Da:galag"
+alt_names: [Dagalag, Dagalang, Tagalag, Takalak, Targa-lag, Targalag, Tarkalag]
 population: null
 country_id: AU
 country_name: Australia

@@ -2,6 +2,7 @@
 iso: ajw
 name: Ajawa
 autonym: Aja
+alt_names: [Ajanci, Ajawa jezik, Lingua ajawa]
 population: null
 country_id: NG
 country_name: Nigeria

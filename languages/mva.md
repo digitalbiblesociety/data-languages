@@ -2,6 +2,7 @@
 iso: mva
 name: Manam
 autonym: null
+alt_names: [Manum]
 population: 7950
 country_id: PG
 country_name: Papua New Guinea

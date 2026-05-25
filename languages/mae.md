@@ -2,6 +2,7 @@
 iso: mae
 name: "Bo-Rukul"
 autonym: "Bo-Rukul"
+alt_names: ["\"Kaleri\"", Kaleri, Mabo-Barkul, Mabo-Barukul]
 population: 1000
 country_id: NG
 country_name: Nigeria

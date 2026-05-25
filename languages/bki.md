@@ -2,6 +2,7 @@
 iso: bki
 name: Baki
 autonym: Burumba
+alt_names: [Paki]
 population: 350
 country_id: VU
 country_name: Vanuatu

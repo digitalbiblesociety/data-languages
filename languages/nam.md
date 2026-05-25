@@ -2,6 +2,7 @@
 iso: nam
 name: "Ngan'gityemerri"
 autonym: Nangikurrunggurr
+alt_names: [Marityemeri, Moil, Nangikurunggurr, Nangityemeri, "Ngan'gikurunggurr", "Ngan'gityemeri", Ngangikarangurr, Ngangikurongor, Ngangikurrunggurr, Ngangikurrunggurr language, Ngangikurrungur, Ngankikurrunkurr, Ngankikurungkurr, Ngenkikurrunggur, Ngenkikurunggkur, Ngenkityemeri, Tyemeri]
 population: 220
 country_id: AU
 country_name: Australia

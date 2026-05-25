@@ -2,6 +2,7 @@
 iso: etz
 name: Semimi
 autonym: Etna Bay
+alt_names: [Muri, Semini, Wesrau]
 population: 1000
 country_id: ID
 country_name: Indonesia

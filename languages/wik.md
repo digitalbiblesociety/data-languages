@@ -2,6 +2,7 @@
 iso: wik
 name: Wikalkan
 autonym: "Wik-Alken"
+alt_names: [Algan, Galban, Mimungkum, Ngadara, Wik, Wik Alkan, Wik Alkanha, Wik Elken, Wik Epa, Wik Kalkan, Wik Meanha, Wik Mungkana, Wik Ngathara, Wik Ompom, Wik kalkin, Wik natara, Wik ngatara, Wik-Ngathara, Wik-Ngatharr, Wik-Ngatharr language, Wik-Ngatharra, Wik-Ngathrr, Wikampama, Wikatinda, Wikepa, Wikmean, Wiknantjara, Wiknatanja, Wikngatara]
 population: 86
 country_id: AU
 country_name: Australia

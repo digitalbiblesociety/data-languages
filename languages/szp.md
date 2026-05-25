@@ -2,6 +2,7 @@
 iso: szp
 name: Suabo
 autonym: Iagu
+alt_names: [Bira, Inanwatan, Itigo, Mirabo, Solowat, Suabau]
 population: 1100
 country_id: ID
 country_name: Indonesia

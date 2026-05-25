@@ -1,7 +1,9 @@
 ---
 iso: alq
 name: Algonquin
+name_zh: 阿尔冈昆语
 autonym: Anicinâbemowin
+alt_names: [Algonkeg, Algonkin, Algonkinska, Język algonkiński, Lingua algonquina, Língua algonquina, Алгонкинский язык]
 population: 2430
 country_id: CA
 country_name: Canada

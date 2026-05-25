@@ -1,7 +1,9 @@
 ---
 iso: btv
 name: Bateri
+name_zh: 巴特里语
 autonym: Batera Kohistani
+alt_names: [Baterawal, Baterawal Kohistani, Bateri Kohistani, Dardu]
 population: 39800
 country_id: PK
 country_name: Pakistan

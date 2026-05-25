@@ -2,6 +2,7 @@
 iso: iwk
 name: "I-Wak"
 autonym: "I-wak"
+alt_names: [Iwaak]
 population: 3260
 country_id: PH
 country_name: Philippines

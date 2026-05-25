@@ -2,6 +2,7 @@
 iso: hmi
 name: Northern Huishui Hmong
 autonym: Mhong
+alt_names: [Hmo, Hmong, "Hmong, Northern Huishui", Hmung, Hsiung, Hunan Miao, Miao, "Miao, Northern Huishui", Northern Huishui Miao]
 population: 70000
 country_id: CN
 country_name: China

@@ -1,6 +1,7 @@
 ---
 iso: imy
 name: Milyan
+name_zh: 弥吕亚语
 autonym: Lycian B
 population: null
 country_id: TR

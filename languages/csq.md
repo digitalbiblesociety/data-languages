@@ -1,6 +1,7 @@
 ---
 iso: csq
 name: Croatia Sign Language
+name_zh: 克罗地亚手语
 autonym: Bosnian Sign Language
 population: 6500
 country_id: HR

@@ -1,7 +1,9 @@
 ---
 iso: gju
 name: Gujari
+name_zh: 古贾里语
 autonym: Gojri
+alt_names: [Gogri, Gojari, Gujar, Gujer, Gujjari, Gujuri, Gujuri Rajasthani, Gurjar, Kashmir Gujuri, Rajasthani Gujuri, كجري]
 population: 1696000
 country_id: IN
 country_name: India

@@ -2,6 +2,7 @@
 iso: mgm
 name: Mambae
 autonym: Mambai
+alt_names: [Manbae]
 population: 230000
 country_id: TL
 country_name: "Timor-Leste"

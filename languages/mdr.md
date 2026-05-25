@@ -1,7 +1,9 @@
 ---
 iso: mdr
 name: Mandar
+name_zh: 曼达尔语
 autonym: Andian
+alt_names: [Bahasa Mandar, Mandharsche, Manjar, Nordost-Celebes]
 population: 499000
 country_id: ID
 country_name: Indonesia

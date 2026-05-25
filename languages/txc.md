@@ -2,6 +2,7 @@
 iso: txc
 name: Tsetsaut
 autonym: "Wetaŀ, Wetaɬ, Wetał"
+alt_names: [Mountain, "Ts'ets'aut"]
 population: null
 country_id: CA
 country_name: Canada

@@ -1,7 +1,9 @@
 ---
 iso: was
 name: Washo
+name_zh: 瓦修語
 autonym: "wá:šiw ʔítlu"
+alt_names: [Wachoeg, Washoa, Washoan, Washoe, Waxo hizkuntza, Уошо]
 population: 1500
 country_id: US
 country_name: United States

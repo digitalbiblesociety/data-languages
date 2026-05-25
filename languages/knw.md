@@ -2,6 +2,7 @@
 iso: knw
 name: "Kung-Ekoka"
 autonym: Western ǃXuun
+alt_names: ["!Hu", "!Khung", "!Ku", "!Kung", "!Kung, Qxû", "!Xu", "!Xun", "!Xun (Ekoka)", "!Xung", Ekoka, "Ekoka-!Xû", Ju, Kung, Qxü, "Qxü !Khung"]
 population: 1760
 country_id: NA
 country_name: Namibia

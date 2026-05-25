@@ -1,6 +1,7 @@
 ---
 iso: kta
 name: Katua
+name_zh: 歌须语
 autonym: Ca Tua
 population: 3000
 country_id: VN

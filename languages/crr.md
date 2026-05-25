@@ -1,7 +1,9 @@
 ---
 iso: crr
 name: Carolina Algonquian
+name_zh: 卡罗莱纳州阿尔冈昆语
 autonym: Pamlico
+alt_names: ["Algonquian, Carolina", Carolina Algonquin]
 population: null
 country_id: US
 country_name: United States

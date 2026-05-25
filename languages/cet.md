@@ -2,6 +2,7 @@
 iso: cet
 name: Centúúm
 autonym: Centúúm
+alt_names: [Cen Tuum, Centuum, Jalaa, Jalaa hizkuntza, Jalaa language, Kentumeg, Джалаа]
 population: 200
 country_id: NG
 country_name: Nigeria

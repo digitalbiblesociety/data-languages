@@ -2,6 +2,7 @@
 iso: css
 name: Southern Ohlone
 autonym: Costanoan
+alt_names: ["Ohlone, Southern"]
 population: null
 country_id: US
 country_name: United States

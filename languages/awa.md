@@ -1,7 +1,9 @@
 ---
 iso: awa
 name: Awadhi
+name_zh: 阿瓦德语
 autonym: अवधी
+alt_names: [Abadi, Abohi, Ambodhi, Avadhi, Awadeg, Baiswari, Eastern Hindi, Kojali, Kosali, Lenga awadhi, Lingua awadhi, અવધી ભાષા, அவதி மொழி, ภาษาอวธี, アワディー語, 阿瓦德语]
 population: 37700000
 country_id: IN
 country_name: India

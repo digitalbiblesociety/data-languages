@@ -2,6 +2,7 @@
 iso: rer
 name: Rer Bare
 autonym: Adona
+alt_names: [Rerebere]
 population: null
 country_id: ET
 country_name: Ethiopia

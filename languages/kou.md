@@ -2,6 +2,7 @@
 iso: kou
 name: Koke
 autonym: Khoke
+alt_names: [Koké]
 population: 600
 country_id: TD
 country_name: Chad

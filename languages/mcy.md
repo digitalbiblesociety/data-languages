@@ -2,6 +2,7 @@
 iso: mcy
 name: South Watut
 autonym: null
+alt_names: ["Watut, South"]
 population: 890
 country_id: PG
 country_name: Papua New Guinea

@@ -2,6 +2,7 @@
 iso: ite
 name: Itene
 autonym: Moré
+alt_names: [Central Chapacuran, Central Chapakuran, Central Chapakúran, Guapore, Guapore Group, Guarayo, Iten, Iteneo, Itenez, Iténez, Maré, More]
 population: 90
 country_id: BO
 country_name: Bolivia

@@ -1,7 +1,9 @@
 ---
 iso: rey
 name: Reyesano
+name_zh: 奇里瓦语
 autonym: Chirgua
+alt_names: [Maropa, San Borjano]
 population: 4118
 country_id: BO
 country_name: Bolivia

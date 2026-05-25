@@ -1,7 +1,9 @@
 ---
 iso: kck
 name: Kalanga
+name_zh: 卡蘭加語
 autonym: Ikalanga
+alt_names: [Bakaa, Chikalanga, Język kalanga, Kalaka, Kalana, Kanana, Makalaka, Sekalaka, Sekalaña, Tjikalanga, Wakalanga, Western Shona]
 population: 338000
 country_id: ZW
 country_name: Zimbabwe

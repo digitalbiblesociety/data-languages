@@ -2,6 +2,7 @@
 iso: tqb
 name: Tembé
 autonym: Guajajara
+alt_names: [Guajajára, Guazazzara, Tembe, Tenetehara, Tenetehára, Timbé]
 population: 180
 country_id: BR
 country_name: Brazil

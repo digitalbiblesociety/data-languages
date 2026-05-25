@@ -2,6 +2,7 @@
 iso: pne
 name: Western Penan
 autonym: Penan
+alt_names: ["\"Punan\"", Nibon, Nibong, "Penan, Western"]
 population: 3400
 country_id: MY
 country_name: Malaysia

@@ -1,7 +1,9 @@
 ---
 iso: sck
 name: Sadri
+name_zh: 萨德里语
 autonym: Nagpuri
+alt_names: [Chota Nagpuri, Chotar Nagpuri, Dikku Kaji, Dikkukaji, Ganwari, Gauuari, Gawari, Goari, Jharkhandhi, Nagpuria, Sadan, Sadana, Sadani, Sadari, Sadati, Sadhan, Sadhari, Sadna, Sadrik, Santri, Siddri, Sradri]
 population: 5131180
 country_id: IN
 country_name: India

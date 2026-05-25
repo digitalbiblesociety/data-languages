@@ -2,6 +2,7 @@
 iso: emg
 name: Eastern Meohang
 autonym: Mewahang
+alt_names: [Eastern, Jindā, Meohang, "Meohang, Eastern", "Meohang,Eastern", Newahang, Newahang Jimi, Newang, Newange Rai, Rai]
 population: 3000
 country_id: NP
 country_name: Nepal

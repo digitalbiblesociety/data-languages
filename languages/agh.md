@@ -2,6 +2,7 @@
 iso: agh
 name: Ngelima
 autonym: Angba
+alt_names: [Bangalema, Bangelima, Beo, Leangba, Lebeo]
 population: 13600
 country_id: CD
 country_name: DR Congo

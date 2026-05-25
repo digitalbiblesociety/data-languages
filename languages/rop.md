@@ -1,7 +1,9 @@
 ---
 iso: rop
 name: Kriol
+name_zh: 澳大利亚克里奥尔语
 autonym: "Roper-Bamyili Creole"
+alt_names: [Creole, Kriol NT, Northern Kriol, Timber Creek Kriol, Westside Kriol]
 population: 7160
 country_id: AU
 country_name: Australia

@@ -2,6 +2,7 @@
 iso: kec
 name: Keiga
 autonym: Aigang
+alt_names: [Demik, Keiga-Al-Kheil, Keiga-Timero, Yega]
 population: 6070
 country_id: SD
 country_name: Sudan

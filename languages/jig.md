@@ -1,7 +1,9 @@
 ---
 iso: jig
 name: Jingulu
+name_zh: 金古魯語
 autonym: Djingili
+alt_names: [Chingalee, Chingalli, Chunguloo, Djingali, Djinggili, Djingila, Djingulu, Jilngali, Jingali, Jingili, Lee, Leechunguloo, Tchingalee, Tingalie, Tjingale, Tjingali, Tjingalli, Tjinggili, Tjingili, Tjingilli, Tjingilu]
 population: 23
 country_id: AU
 country_name: Australia

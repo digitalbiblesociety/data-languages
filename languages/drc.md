@@ -2,6 +2,7 @@
 iso: drc
 name: Minderico
 autonym: Piação do Ninhou
+alt_names: [Minde]
 population: 500
 country_id: PT
 country_name: Portugal

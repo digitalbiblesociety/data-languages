@@ -2,6 +2,7 @@
 iso: wha
 name: Sou Upaa
 autonym: Wahinama
+alt_names: [Manusela, Wahai]
 population: 7000
 country_id: ID
 country_name: Indonesia

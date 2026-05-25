@@ -2,6 +2,7 @@
 iso: bzr
 name: Biri
 autonym: Eastern Maric
+alt_names: [Biragaba, Biria, Biriaba, Birigaba, Birri Gubba, Breeaba, Garingbal, Juipera, Perembba, Perenbba, Widi, Wierdi, Wiri, Wiriwiri, Wirri]
 population: null
 country_id: AU
 country_name: Australia

@@ -1,7 +1,9 @@
 ---
 iso: nsk
 name: Naskapi
+name_zh: 纳斯卡皮语
 autonym: ᓇᔅᑲᐱ
+alt_names: [Cree, Eastern Naskapi, Innu Aimuun, Iyuw Imuun, Mushuaau Innu, Naskapee, Naskapí, Western Naskapi]
 population: 1210
 country_id: CA
 country_name: Canada

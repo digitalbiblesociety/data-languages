@@ -2,6 +2,7 @@
 iso: wtk
 name: Watakataui
 autonym: Waxei
+alt_names: [Waxe]
 population: 750
 country_id: PG
 country_name: Papua New Guinea

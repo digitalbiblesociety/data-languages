@@ -2,6 +2,7 @@
 iso: ptv
 name: Port Vato
 autonym: Daakie
+alt_names: [Vanuatu]
 population: 1300
 country_id: VU
 country_name: Vanuatu

@@ -2,6 +2,7 @@
 iso: etx
 name: Eten
 autonym: Ganawuri
+alt_names: [Aten, Etien, Iten, Jal, Niten, Ten]
 population: 40000
 country_id: NG
 country_name: Nigeria

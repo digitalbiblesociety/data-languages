@@ -1,7 +1,9 @@
 ---
 iso: acm
 name: Mesopotamian Arabic
+name_zh: 美索不達米亞阿拉伯語
 autonym: Iraqi Arabic
+alt_names: [Arabeg Mezopotamia, Arabi, Arabic, Arabic (Eastern), Arabic (Iraqi), "Arabic, Mesopotamian", "Arabic, Mesopotamian Spoken", Bagdahdi Arabic, Baghdadi Arabic, Dialekty mezopotamskie języka arabskiego, Furati, Irakisch-Arabisch, Irakisk arabiska, Mesopotamian, Mesopotamian Gelet Arabic, Mesopotamian Qeltu Arabic, Mesopotamian Spoken, Mezopotamski arapski, "`Arabi", Árabe Iraquí, Árabe iraquiano, Ирачки арапски јазик, لهجة عراقية, ภาษาอาหรับอิรัก, アラビア語イラク方言]
 population: 15700000
 country_id: IQ
 country_name: Iraq

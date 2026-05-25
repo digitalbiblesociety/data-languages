@@ -2,6 +2,7 @@
 iso: mtx
 name: Tidaá Mixtec
 autonym: (San Pedro Tidaá)
+alt_names: [Central Misteko, Central Nochistlán Mixtec, Centreal Mixteco, Diuxi-Tilantongo Mixtec, Eastern Alta Mixtec, Eastern Mixtec, Huitepec Mixtec, Mitlatongo Mixtec, "Mixtec, Tidaá", Mixteco bajo de Valles, Mixteco de Diuxi-Tilantongo, Mixteco de Huitepec, Mixteco de Mitlatongo, Mixteco de San Antonio Huitepec, Mixteco de San Juan Tamazola, Mixteco de San Miguel Piedras, Mixteco de San Pedro Tidaá, Mixteco de Santa María Peñoles, Mixteco de Santiago Tlazoyaltepec, Mixteco de Santo Domingo Nuxaá, Mixteco de Tidaá, Mixteco de Yutanduchi, Mixteco de Yutanduchi de Guerrero, Mixteco de Zaachila, Mixteco del Sureste de Nochixtlán, Mixteco del este central, North Central Nochixtlán Mixtec, Northern Misteko, Northern Mixteco, Peñoles Mixtec, San Miguel Piedras Mixtec, Sindihui Mixtec, Southeastern Nochixtlán Mixtec, Southern Nochixtlan Mixtec, Tamazola Mixtec, Tidaa Mixtec, Tlazoyaltepec Mixtec, Yutanduchi Mixtec]
 population: 550
 country_id: MX
 country_name: Mexico

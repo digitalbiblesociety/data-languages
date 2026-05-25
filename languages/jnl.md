@@ -2,6 +2,7 @@
 iso: jnl
 name: Rawat
 autonym: Ban Manus
+alt_names: [Ban Rauts, Bhulla, Dzanggali, Dźanggali, Jang(g)alī, Jangali, Janggali, Jhangar, Raji, Raut]
 population: 23000
 country_id: IN
 country_name: India

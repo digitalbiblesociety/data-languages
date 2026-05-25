@@ -1,7 +1,9 @@
 ---
 iso: tuo
 name: Tucano
+name_zh: 巨嘴鳥語
 autonym: Dahseyé
+alt_names: [Dasea, Daxsea, Pisamira, Takuna, Tucano (Brésil), Tucano (Colombia), Tucano (Colombie), Tukana, Tukano, Tukána, "Ye'pâ-masa"]
 population: 11620
 country_id: BR
 country_name: Brazil

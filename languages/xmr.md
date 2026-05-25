@@ -1,6 +1,7 @@
 ---
 iso: xmr
 name: Meroitic
+name_zh: 麦罗埃语
 autonym: Kushite
 population: null
 country_id: SD

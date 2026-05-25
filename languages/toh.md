@@ -2,6 +2,7 @@
 iso: toh
 name: Gitonga
 autonym: "Tonga-Inhambane"
+alt_names: [Bitonga, Inhambane, Shengwe, Tonga]
 population: 327000
 country_id: MZ
 country_name: Mozambique

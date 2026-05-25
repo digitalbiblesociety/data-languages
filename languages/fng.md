@@ -1,7 +1,9 @@
 ---
 iso: fng
 name: Fanagalo
+name_zh: 凡那伽罗
 autonym: Pidgin Zulu
+alt_names: ["\"Fanakalo\"", "\"Fanekolo\"", "\"Isikula\"", "\"Kitchen Kaffir\"", "\"Mine Kaffir\"", Basic Zulu, Fanakalo, Isilololo, Isipiki, Lololo, Língua fanagalo, Pidgin Bantu, Piki, Silunguboi, Silunguboi., Фанагало]
 population: 5100
 country_id: ZA
 country_name: South Africa

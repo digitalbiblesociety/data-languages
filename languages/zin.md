@@ -2,6 +2,7 @@
 iso: zin
 name: Zinza
 autonym: Ecizinza
+alt_names: [Dzinda, Dzindza, Echidzindza, Echijinja, Jinja, Kizinza, Zinja]
 population: 205000
 country_id: TZ
 country_name: Tanzania

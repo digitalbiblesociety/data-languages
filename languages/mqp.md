@@ -1,6 +1,7 @@
 ---
 iso: mqp
 name: Manipa
+name_zh: 马尼帕语
 autonym: Soow Huhelia
 population: 1500
 country_id: ID

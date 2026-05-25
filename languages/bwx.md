@@ -1,7 +1,9 @@
 ---
 iso: bwx
 name: "Bu-Nao Bunu"
+name_zh: 布努语
 autonym: Bunu
+alt_names: [Bunao, Bunu numao, "Bunu, Bu-Nao", Bunú bunao, Po-Nau, Punu]
 population: 258000
 country_id: CN
 country_name: China

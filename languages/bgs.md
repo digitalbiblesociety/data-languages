@@ -2,6 +2,7 @@
 iso: bgs
 name: Tagabawa
 autonym: null
+alt_names: [Tagabawa Bagobo, Tagabawa Manobo]
 population: 43000
 country_id: PH
 country_name: Philippines

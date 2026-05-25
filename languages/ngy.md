@@ -2,6 +2,7 @@
 iso: ngy
 name: Tibea
 autonym: Tibea
+alt_names: [Djanti, Minjanti, Ngayaba, Njanti, Nyabea, Zangnte]
 population: 1400
 country_id: CM
 country_name: Cameroon

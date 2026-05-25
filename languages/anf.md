@@ -2,6 +2,7 @@
 iso: anf
 name: Animere
 autonym: Anyimere
+alt_names: [Kunda]
 population: 700
 country_id: GH
 country_name: Ghana

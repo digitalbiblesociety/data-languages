@@ -2,6 +2,7 @@
 iso: gvp
 name: Pará Gavião
 autonym: "Canela-Krahô"
+alt_names: [Bocobu, Canela, Gavião, Gavião de Parã, Gavião du Pará, Gavião pukobiê, "Gavião, Pará", "Gavião, Parã", Kanela, Krahó, Krahô, Krenjé, Krenjê, Kreye, Krikati, Para Gaviao, Parakatêjê, Pará-Maranhão Gavião, Parã, Piokob, Pukobjê, Pukobyé, Pukobyê, Timbira]
 population: 338
 country_id: BR
 country_name: Brazil

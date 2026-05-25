@@ -2,6 +2,7 @@
 iso: wja
 name: Waja
 autonym: Wɪyáà
+alt_names: [Nyan Wiyau, Wadja, Wiyaa, Wuya]
 population: 60000
 country_id: NG
 country_name: Nigeria

@@ -2,6 +2,7 @@
 iso: lvs
 name: Standard Latvian
 autonym: Lettish
+alt_names: ["Latvian, Standard"]
 population: 1529720
 country_id: LV
 country_name: Latvia

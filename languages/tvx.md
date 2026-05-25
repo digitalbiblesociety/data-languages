@@ -1,6 +1,7 @@
 ---
 iso: tvx
 name: Taivoan
+name_zh: 大武垅语
 autonym: Rara ka maka-Taivoan
 population: null
 country_id: TW

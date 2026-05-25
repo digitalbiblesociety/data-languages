@@ -1,7 +1,9 @@
 ---
 iso: slr
 name: Salar
+name_zh: 撒拉语
 autonym: Salırça / 撒拉语
+alt_names: [Sala, Salaarin kieli, Salar dili, Salarca, Salareg, Salarische Sprache, Салар тілі, Саларски јазик, Саларский язык, саларский, زبان سالار, سالار تىلى, ภาษาซาลาร์, サラール語, 撒拉語, 撒拉语, 살라르어]
 population: 130000
 country_id: CN
 country_name: China

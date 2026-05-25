@@ -2,6 +2,7 @@
 iso: etu
 name: Ejagham
 autonym: Ejagham
+alt_names: [Edjagam, Ejagam, Ejaham, Ejwe, Ekoi, Etung, Keaka, Kwa, Obang]
 population: 116700
 country_id: NG
 country_name: Nigeria

@@ -2,6 +2,7 @@
 iso: kqi
 name: Koitabu
 autonym: Koita
+alt_names: [Coita]
 population: 2700
 country_id: PG
 country_name: Papua New Guinea

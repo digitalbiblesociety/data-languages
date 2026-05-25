@@ -1,7 +1,9 @@
 ---
 iso: mnw
 name: Mon
+name_zh: 孟语
 autonym: ဘာသာ မန်
+alt_names: [Aleng, Bahasa Mon, Idioma mon, Język mon, Mon (Burmese), Moneg, Monų kalba, Mun, Môn, Peguan, Peguanisch, Ramañña, Takanoon, Talaing, Taleng, Tiếng Môn, ภาษามอญ]
 population: 851000
 country_id: MM
 country_name: Myanmar

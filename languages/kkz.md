@@ -2,6 +2,7 @@
 iso: kkz
 name: Kaska
 autonym: Dene Zágéʼ
+alt_names: [Caska, "Danezāgé' (Kaska)", Eastern Nahane, Idioma kaska, Kaska Dena, Nahane, Nahani]
 population: 400
 country_id: CA
 country_name: Canada

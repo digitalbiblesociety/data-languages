@@ -1,7 +1,9 @@
 ---
 iso: pbt
 name: Southern Pashto
+name_zh: 南普什圖語
 autonym: Kandahar Pashto
+alt_names: ["\"Afghani\"", Afghan, Kandahari, Pakhtoo, Pakhtu, Paktu, Pashto, "Pashto, Southern", Pashtu, Pushto, Quetta-Kandahar Pashto]
 population: 10900000
 country_id: AF
 country_name: Afghanistan

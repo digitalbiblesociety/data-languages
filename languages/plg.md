@@ -2,6 +2,7 @@
 iso: plg
 name: Pilagá
 autonym: Pilaca
+alt_names: [Pilaga]
 population: 4000
 country_id: AR
 country_name: Argentina

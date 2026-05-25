@@ -2,6 +2,7 @@
 iso: hux
 name: Nüpode Huitoto
 autonym: Nɨpóde
+alt_names: [Huitoto (Muinane), Huitoto (Nipode), Huitoto Muinane, Huitoto Nipode, "Huitoto, Nüpode", Muinane, Muinane Huitoto, Nipode, Nipode Witoto, Nupode Huitoto, Nïpode, Nüpode, Uitoto-Kaimo, Witoto Muinane, Witoto nipode, Witoto-Kaimo]
 population: 100
 country_id: PE
 country_name: Peru

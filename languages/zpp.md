@@ -2,6 +2,7 @@
 iso: zpp
 name: El Alto Zapotec
 autonym: (San Pedro el Alto)
+alt_names: [Central Sapoteko, Coyachilla, Coyachilla dialect continuum, South Central Zimatlan Zapotec, Southern Sapoteko, Western Zapotec (non-preferred), Zapotec, "Zapotec, El Alto", Zapoteco de Asunción Tlacolulita, Zapoteco de San Pedro el Alto, "Zapotèque d'Asunción Tlacolulita", Zimatlán, Zimatlán Zapotec]
 population: 900
 country_id: MX
 country_name: Mexico

@@ -1,7 +1,9 @@
 ---
 iso: bmq
 name: Bomu
+name_zh: 博木語
 autonym: Western Bobo Wule
+alt_names: [Bobo Oule, Bobo Wule, Bobo-oulé, Boomu, Bore, Western Bobo Oule, Western Bwamu, Western Red Bobo]
 population: 153000
 country_id: ML
 country_name: Mali

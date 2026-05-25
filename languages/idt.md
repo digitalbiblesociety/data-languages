@@ -2,6 +2,7 @@
 iso: idt
 name: Idaté
 autonym: null
+alt_names: [East Timor, Idate]
 population: 5000
 country_id: TL
 country_name: "Timor-Leste"

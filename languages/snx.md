@@ -2,6 +2,7 @@
 iso: snx
 name: Sam
 autonym: Songum
+alt_names: [Eastern, Rendille-Boni]
 population: 780
 country_id: PG
 country_name: Papua New Guinea

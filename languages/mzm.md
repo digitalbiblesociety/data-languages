@@ -2,6 +2,7 @@
 iso: mzm
 name: Mumuye
 autonym: Yoro
+alt_names: [Group 5, Zing]
 population: 745000
 country_id: NG
 country_name: Nigeria

@@ -2,6 +2,7 @@
 iso: ztx
 name: Zaachila Zapotec
 autonym: San Raymundo Jalpan Zapotec
+alt_names: [Central Sapoteko, Zapotec, "Zapotec, Zaachila", Zapoteco de San Felipe Tejalápam, Zapotèque de San Felipe Tejalapan]
 population: 10000
 country_id: MX
 country_name: Mexico

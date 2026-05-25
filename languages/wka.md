@@ -2,6 +2,7 @@
 iso: wka
 name: "Kw'adza"
 autonym: Ngomvia
+alt_names: ["Kw'adza hizkuntza", Kwadza, Ngomvya, Ng’omvia, Qwadza, Wangomvia]
 population: null
 country_id: TZ
 country_name: Tanzania

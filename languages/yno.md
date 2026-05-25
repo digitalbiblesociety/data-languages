@@ -1,6 +1,7 @@
 ---
 iso: yno
 name: Yong
+name_zh: 傣允语
 autonym: Nyong
 population: 12600
 country_id: TH

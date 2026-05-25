@@ -1,7 +1,9 @@
 ---
 iso: kwn
 name: Kwangali
+name_zh: 卡納利語
 autonym: Rukwangali
+alt_names: [Cuangar, Kwangare, Kwangari, Língua RuKwangali, Sikwangali]
 population: 192000
 country_id: NA
 country_name: Namibia

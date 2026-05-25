@@ -2,6 +2,7 @@
 iso: kef
 name: Kpessi
 autonym: Èʋegbe
+alt_names: [Kpesi, Kpétsi]
 population: 4000
 country_id: TG
 country_name: Togo

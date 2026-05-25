@@ -2,6 +2,7 @@
 iso: txt
 name: Citak
 autonym: Asmat Darat
+alt_names: [Asmat, Cicak, Citak Asmat, Kaunak, Tjitak, Tjitjak]
 population: 8000
 country_id: ID
 country_name: Indonesia

@@ -2,6 +2,7 @@
 iso: mkl
 name: Mokole
 autonym: Èdè Mɔ̄kɔ́lé
+alt_names: [Féri, Mokollé, Mokwale, Monkole]
 population: 35900
 country_id: BJ
 country_name: Benin

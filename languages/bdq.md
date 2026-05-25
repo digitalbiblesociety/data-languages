@@ -1,7 +1,9 @@
 ---
 iso: bdq
 name: Bahnar
+name_zh: 巴拿语
 autonym: Bana
+alt_names: [Bahnar (Plei Bong-Mang Yang), Bənhàr]
 population: 228000
 country_id: VN
 country_name: Vietnam

@@ -2,6 +2,7 @@
 iso: row
 name: "Dela-Oenale"
 autonym: Western Rote
+alt_names: [Dela, Delha, Oe Nale, Rote, Rote Barat, Roti, Rotinese, Rotti]
 population: 7000
 country_id: ID
 country_name: Indonesia

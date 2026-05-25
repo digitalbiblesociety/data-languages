@@ -2,6 +2,7 @@
 iso: mko
 name: Mingang Doso
 autonym: Məŋgáŋ Dosó
+alt_names: [Doso, Munga, Munga Doso, Ngwai Mungàn]
 population: 3000
 country_id: NG
 country_name: Nigeria

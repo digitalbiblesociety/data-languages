@@ -2,6 +2,7 @@
 iso: kwf
 name: "Kwara'ae"
 autonym: Fiu
+alt_names: [Südliche Salomons-Inseln]
 population: 32400
 country_id: SB
 country_name: Solomon Islands

@@ -1,7 +1,9 @@
 ---
 iso: hrt
 name: Hértevin
+name_zh: 赫特文語
 autonym: ܣܘܪܬ Sôreth
+alt_names: [Hartevan, Hertevin, Hertevineg, Hertevino, Hértevin jezik, Хертевински јазик, ภาษาเฮอร์เตวิน]
 population: 1000
 country_id: TR
 country_name: Turkey

@@ -1,7 +1,9 @@
 ---
 iso: sza
 name: Semelai
+name_zh: 塞米莱语
 autonym: null
+alt_names: [Bera, Semelai Bera, Serting]
 population: 6418
 country_id: MY
 country_name: Malaysia

@@ -1,7 +1,9 @@
 ---
 iso: kqd
 name: Koy Sanjaq Surat
+name_zh: 库伊桑贾格叙利亚语
 autonym: ܣܘܪܬ Sûrat
+alt_names: [Koi Sanjaq Soorit, Koi-Sanjaq Sooret, Koy Sanjaq Sooret, Koy Sanjaq Soorit, Koy sanjaq surat jezik, Кој санјак сурат јазик, ภาษากอย ซันจัก ซูรัต]
 population: 900
 country_id: IQ
 country_name: Iraq

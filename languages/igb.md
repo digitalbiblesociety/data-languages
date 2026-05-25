@@ -2,6 +2,7 @@
 iso: igb
 name: Ebira
 autonym: Egbira
+alt_names: [Egbura, Ibara, Igbarra, Igbira, Igbirra, Katawa, Kotokori, Kwotto]
 population: 2000000
 country_id: NG
 country_name: Nigeria

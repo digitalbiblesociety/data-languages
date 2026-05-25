@@ -2,6 +2,7 @@
 iso: yuq
 name: Yuqui
 autonym: Mbia chẽẽ
+alt_names: [Bia, Yuki, Yuquí, Yúki, mbiá]
 population: 120
 country_id: BO
 country_name: Bolivia

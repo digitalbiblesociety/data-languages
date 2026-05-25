@@ -2,6 +2,7 @@
 iso: jcs
 name: Jamaican Country Sign Language
 autonym: " Konchri Sain Language"
+alt_names: [Country Sign, Konchri Sain]
 population: 40
 country_id: JM
 country_name: Jamaica

@@ -1,7 +1,9 @@
 ---
 iso: dar
 name: Dargwa
+name_zh: 达尔格瓦语
 autonym: дарган мез dargan mez
+alt_names: [Bahasa Dargin, Dargi, Dargin, Dargin kieli, Dargince, Darginisch, Darginische Sprache, Darginski, Dargintsy, Darguà, Dargva, Dargva lingvo, Dargweg, Dargínico, Kaitak, Khiurkilinskii, Komucki, Kubatschin, Limba darghină, Língua dargínica, Даргински јазик, Даргинские языки, Даргінська мова, 다르구아어]
 population: 495300
 country_id: RU
 country_name: Russia

@@ -2,6 +2,7 @@
 iso: nqk
 name: Kura Ede Nago
 autonym: Nago
+alt_names: ["Ede Nago, Kura"]
 population: 25000
 country_id: BJ
 country_name: Benin

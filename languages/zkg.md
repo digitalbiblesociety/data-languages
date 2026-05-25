@@ -1,6 +1,7 @@
 ---
 iso: zkg
 name: Koguryo
+name_zh: 高句丽语
 autonym: 고구려어
 population: null
 country_id: KR

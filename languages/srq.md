@@ -2,6 +2,7 @@
 iso: srq
 name: Sirionó
 autonym: Mbia chẽẽ
+alt_names: [Chori, Mbia, Mbia Chee, Mbya, Siriono]
 population: 190
 country_id: BO
 country_name: Bolivia

@@ -2,6 +2,7 @@
 iso: der
 name: Deori
 autonym: Chutiya
+alt_names: [Chutia, Dari, Deori Chutiya, Deuri, Dewri, Drori]
 population: 32400
 country_id: IN
 country_name: India

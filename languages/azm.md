@@ -2,6 +2,7 @@
 iso: azm
 name: Ipalapa Amuzgo
 autonym: Amuzgoan
+alt_names: [Amusgo, Amuzgo, Amuzgo de Santa María Ipalapa, "Amuzgo, Ipalapa", Azmugo]
 population: 940
 country_id: MX
 country_name: Mexico

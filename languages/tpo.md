@@ -1,7 +1,9 @@
 ---
 iso: tpo
 name: Tai Pao
+name_zh: 傣包语
 autonym: Tai Hang Tong
+alt_names: ["T'ien-pao", Tien-pao]
 population: 3300
 country_id: LA
 country_name: Laos

@@ -2,6 +2,7 @@
 iso: bkv
 name: Bekwarra
 autonym: Ebekwara
+alt_names: [Bekworra, Yakoro]
 population: 100000
 country_id: NG
 country_name: Nigeria

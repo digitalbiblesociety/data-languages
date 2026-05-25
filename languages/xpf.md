@@ -2,6 +2,7 @@
 iso: xpf
 name: "Southeast Tasmanian\r"
 autonym: (Mainland) Southeast Tasmanian
+alt_names: [Nuenonne, Southeast Tasmanian, "Tasmanian, Southeast"]
 population: null
 country_id: AU
 country_name: Australia

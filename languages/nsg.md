@@ -2,6 +2,7 @@
 iso: nsg
 name: Ngasa
 autonym: Ongamo
+alt_names: [Nass-Gitksan, Nisgha, Ongamoeg, Shaka]
 population: 250
 country_id: TZ
 country_name: Tanzania

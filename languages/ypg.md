@@ -1,7 +1,9 @@
 ---
 iso: ypg
 name: Phola
+name_zh: 普拉语
 autonym: Pula
+alt_names: [Bola, Flowery Phula, Hua Phula, Phula, Phulepho, Tsha Phula]
 population: 13000
 country_id: CN
 country_name: China

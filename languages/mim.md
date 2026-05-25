@@ -2,6 +2,7 @@
 iso: mim
 name: Alacatlatzala Mixtec
 autonym: "Mixteco, Alacatlatzala"
+alt_names: [Alcozauca Mixtec, Central Misteko, Guerrero Mixtec, Highland Guerrero Mixtec, Highland Guerrero Mixteco, Metlatónoc Mixtec, Mixtec, Mixtec (Alacatlatzala), "Mixtec, Alacatlatzala", Mixteco (Alacatlatzala), Mixteco de Alacatlatzala, Mixteco de Alocozauca, Mixteco de Xochapa, Mixteco de Yoloxóchitl, Northern Misteko, Northern Mixteco, "To'on Savi", To’on Savi, Yoloxóchitl Mixtec]
 population: 30000
 country_id: MX
 country_name: Mexico

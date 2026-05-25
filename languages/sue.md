@@ -2,6 +2,7 @@
 iso: sue
 name: Suena
 autonym: null
+alt_names: [Yarawe, Yarawi, Yema, Yema-Yarawa]
 population: 3600
 country_id: PG
 country_name: Papua New Guinea

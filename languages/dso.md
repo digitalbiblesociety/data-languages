@@ -1,6 +1,7 @@
 ---
 iso: dso
 name: Desiya
+name_zh: 德西亚语
 autonym: ଓଡ଼ିଆ
 population: 227000
 country_id: IN

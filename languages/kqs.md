@@ -2,6 +2,7 @@
 iso: kqs
 name: Northern Kissi
 autonym: Gizi
+alt_names: [Kisi, Kisie, Kissi, "Kissi, Northern", Kissien]
 population: 562000
 country_id: GN
 country_name: Guinea

@@ -2,6 +2,7 @@
 iso: coz
 name: Chochotec
 autonym: Chochotec
+alt_names: [Chocho, Chocho Proper, Chocho language, Chocho méridional, Chocho oriental, Chocholtec, Chocholteco, Chochoteco, Chochoteco meridional, Chuchona, Idioma chocho]
 population: 770
 country_id: MX
 country_name: Mexico

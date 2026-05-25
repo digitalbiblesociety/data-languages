@@ -1,7 +1,9 @@
 ---
 iso: tyt
 name: Tày Tac
+name_zh: 傣搭语
 autonym: null
+alt_names: [Tai Tac, Tay Tac]
 population: null
 country_id: VN
 country_name: Vietnam

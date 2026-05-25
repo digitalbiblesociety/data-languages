@@ -2,6 +2,7 @@
 iso: col
 name: "Columbia-Wenatchi"
 autonym: "Columbia-Wenatchi"
+alt_names: [Chelan, Columbia, Columbian, Columbiano, Middle Columbia Cluster, Moses Columbia, Moses Columbian, Moses-Colombia Salish, Moses-Columbia, Moses-Columbian, Nxaʔamxcín, Wenatchee, Wenatchi-Columbia]
 population: 500
 country_id: US
 country_name: United States

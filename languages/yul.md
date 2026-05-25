@@ -2,6 +2,7 @@
 iso: yul
 name: Yulu
 autonym: Binga
+alt_names: [Youlou, Yulu-Binga dialects]
 population: 4000
 country_id: CF
 country_name: Central African Republic

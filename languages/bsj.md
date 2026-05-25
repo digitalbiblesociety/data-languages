@@ -2,6 +2,7 @@
 iso: bsj
 name: Bangwinji
 autonym: Bangjinge
+alt_names: [Bangunji]
 population: 6000
 country_id: NG
 country_name: Nigeria

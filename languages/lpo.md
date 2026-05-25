@@ -1,7 +1,9 @@
 ---
 iso: lpo
 name: Lipo
+name_zh: 里泼土语
 autonym: Lolopo
+alt_names: [Black Lisu, Dayao, Dayao Lipo, Eastern Lisu, He Lisu, Lipho, Lisu, Lolo, Taku, Taku Lisu, Yi]
 population: 250000
 country_id: CN
 country_name: China

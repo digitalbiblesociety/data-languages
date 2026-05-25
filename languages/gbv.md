@@ -2,6 +2,7 @@
 iso: gbv
 name: Gbanu
 autonym: Banu
+alt_names: ["'Bokoto", Gbanou, Gbaya, Gbeya, Kara, Southern Gbaya, Suma]
 population: 95000
 country_id: CF
 country_name: Central African Republic

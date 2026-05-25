@@ -2,6 +2,7 @@
 iso: cas
 name: Tsimané
 autonym: " Mosetén"
+alt_names: [Aparono, Chiman, Chimane, Chimané, Chumano, Moseten, Moseten-Chimane, Mosetenan, Moseteno, Mosetén language area, Muchan, Nawazi-Moñtji, Rache, Tsimane, "Tsimane'", Tsinun, Tucupi]
 population: 7300
 country_id: BO
 country_name: Bolivia

@@ -2,6 +2,7 @@
 iso: has
 name: Haisla
 autonym: X̄a’islak̓ala
+alt_names: [Haishilla, Kitamat, Kitlope, Northern Kwakiutl, "Xiʔslak'ala", "X̄a'islak̓ala", X̄enaksialak̓ala, "X̄enaksialak̓ala / X̄a'islak̓ala (Haisla)"]
 population: 1000
 country_id: CA
 country_name: Canada

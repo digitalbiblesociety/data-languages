@@ -1,7 +1,9 @@
 ---
 iso: kbd
 name: Kabardian
+name_zh: 卡巴尔达语
 autonym: "Kabardino-CherkessEast Circassian"
+alt_names: [Beslenei, Circassian (East), East Circassian, Idioma cabardiano, Kabarde, Kabarde-tcherkesse, Kabardeyce, Kabardi-tšerkessi keel, Kabardin kieli, Kabardinische Sprache, Kabardino-Cherkes, Kabardinski jezik, Kabardinų kalba, Kabardisch, Kabardo-Cherkes, Kabardo-Cherkessian, Kabardái, Kabardí, Kabardčina, Lingua cabarda, Upper Circassian, Zimanên çerkezî, kabardien, Кæсгон-черкесаг æвзаг, Кабардино-черкесский язык, Кабардински јазик, Кабардинська мова, קברדינית, ภาษาคาบาร์เดีย, カバルド語, 卡巴尔达语, 카바르디어]
 population: 1890000
 country_id: RU
 country_name: Russia

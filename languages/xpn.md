@@ -2,6 +2,7 @@
 iso: xpn
 name: Kapinawá
 autonym: (unattested)
+alt_names: [Brazil, Kapinawa]
 population: null
 country_id: BR
 country_name: Brazil

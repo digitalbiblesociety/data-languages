@@ -2,6 +2,7 @@
 iso: ywl
 name: Western Lalu
 autonym: Western Yi
+alt_names: ["Lalu, Western", "Lalu,Western", Lolo, Yi, "Yi, Western Lalu"]
 population: 38000
 country_id: CN
 country_name: China

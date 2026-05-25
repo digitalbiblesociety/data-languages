@@ -2,6 +2,7 @@
 iso: maa
 name: San Jerónimo Tecóatl Mazatec
 autonym: (San Jerónimo Tecóatl)
+alt_names: [Huautla-Mazatlán Masateko, Masateko, Mazatec, "Mazatec, San Jerónimo Tecóatl", Mazateco, Mazateco de Mazatlán, Mazateco de San Antonio Eloxochitlán, Mazateco de San Jerónimo Tecóatl, Mazateco de Tecóatl, Mazateco de la sierra, "Mazatèque d'Eloxochitlán", Mazatèque de Huehuetlán, Mazatèque de Mazatlán, Mazatèque de Tecoatl, Mazatèque des hautes terres, Northern Highland Mazatec, San Jeronimo, San Jeronimo Tecoatl Mazatec, Tecoatl]
 population: 18900
 country_id: MX
 country_name: Mexico

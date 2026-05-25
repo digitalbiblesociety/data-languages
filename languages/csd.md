@@ -2,6 +2,7 @@
 iso: csd
 name: Chiangmai Sign Language
 autonym: Chiengmai Sign Language
+alt_names: [OCMSL, Old Chiangmai Sign Language, Original Chiangmai Sign Language]
 population: 10
 country_id: TH
 country_name: Thailand

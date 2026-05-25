@@ -2,6 +2,7 @@
 iso: sst
 name: Sinasina
 autonym: null
+alt_names: [Chimbu, Tabare]
 population: 21020
 country_id: PG
 country_name: Papua New Guinea

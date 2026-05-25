@@ -1,7 +1,9 @@
 ---
 iso: tsl
 name: "Ts'ün-Lao"
+name_zh: 卜老语
 autonym: Lao
+alt_names: ["Ts'un-Lao", "Ts'ün-loa"]
 population: 10000
 country_id: VN
 country_name: Vietnam

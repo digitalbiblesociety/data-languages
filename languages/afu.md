@@ -2,6 +2,7 @@
 iso: afu
 name: Awutu
 autonym: Efutu
+alt_names: [Guang]
 population: 129000
 country_id: GH
 country_name: Ghana

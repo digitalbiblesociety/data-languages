@@ -1,7 +1,9 @@
 ---
 iso: wbj
 name: Alagwa
+name_zh: 阿拉瓜語
 autonym: Alagwaisa
+alt_names: [Alagwa hizkuntza, Alagwa jezik, Alagwaisi, Alagwase, Alawa, Asi, Chasi, Kialagwa, Uwassi, Wasai, Wasi]
 population: 53000
 country_id: TZ
 country_name: Tanzania

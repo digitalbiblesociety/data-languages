@@ -2,6 +2,7 @@
 iso: stf
 name: Seta
 autonym: null
+alt_names: [Aunalei]
 population: 180
 country_id: PG
 country_name: Papua New Guinea

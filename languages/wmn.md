@@ -2,6 +2,7 @@
 iso: wmn
 name: Waamwang
 autonym: Wamoang
+alt_names: [Neukaledonien]
 population: null
 country_id: NC
 country_name: New Caledonia

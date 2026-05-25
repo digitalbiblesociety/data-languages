@@ -2,6 +2,7 @@
 iso: kpl
 name: Kpala
 autonym: Gbakpwa
+alt_names: [Daba-Kola, Kola, Kpwaala, Kwala]
 population: 3000
 country_id: CD
 country_name: DR Congo

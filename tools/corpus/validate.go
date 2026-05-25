@@ -16,7 +16,10 @@ import (
 var CanonicalOrder = []string{
 	"iso",
 	"name",
+	"name_zh",
+	"name_zh_auto",
 	"autonym",
+	"alt_names",
 	"population",
 	"country_id",
 	"country_name",
@@ -189,9 +192,22 @@ func validateValue(e Entry) string {
 				}
 			}
 		}
+	case "alt_names":
+		// Permissive shape check only — element strings may contain spaces,
+		// parens, commas (when quoted), and non-Latin characters. Element-level
+		// rules belong in schema.json, not here.
+		t := strings.TrimSpace(e.Value)
+		if !strings.HasPrefix(t, "[") || !strings.HasSuffix(t, "]") {
+			return "must be a YAML inline array (e.g. [\"Alt Name 1\", \"Alt Name 2\"])"
+		}
 	case "wikipedia_url":
 		if !strings.HasPrefix(v, "https://en.wikipedia.org/wiki/") {
 			return fmt.Sprintf("value %q must be an English Wikipedia article URL", v)
+		}
+	case "name_zh_auto":
+		// Only `true` is allowed; the field's presence is the marker.
+		if v != "true" {
+			return fmt.Sprintf("value %q must be `true` (the field is only set when name_zh is auto-generated)", v)
 		}
 	case "status_id":
 		for _, s := range statusValues {

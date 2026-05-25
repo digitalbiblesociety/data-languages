@@ -2,6 +2,7 @@
 iso: poi
 name: Highland Popoluca
 autonym: Soteapanec
+alt_names: [Highland Sokean, Popoluca (Sierra), Popoluca de Sierra, Popoluca de la Sierra, "Popoluca, Highland", Populaca de la Sierra, Sierra Popoluca, Soke, Sokean (Highland), Soteapan Zoque, Soteapaneko, Zoque (Soteapan)]
 population: 37700
 country_id: MX
 country_name: Mexico

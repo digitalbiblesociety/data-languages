@@ -2,6 +2,7 @@
 iso: juw
 name: Wãpha
 autonym: Wase
+alt_names: [Jukun Wase, Wapha, Wase Tofa]
 population: 1610
 country_id: NG
 country_name: Nigeria

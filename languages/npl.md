@@ -2,6 +2,7 @@
 iso: npl
 name: Southeastern Puebla Nahuatl
 autonym: Southeastern Puebla Nahuatl
+alt_names: [Eastern Nawa, Mexicano, Nahua de la Huasteca, Nahuatl, "Nahuatl, Southeastern Puebla", Náhuatl du Huasteca]
 population: 92000
 country_id: MX
 country_name: Mexico

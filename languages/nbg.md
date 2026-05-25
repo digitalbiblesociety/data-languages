@@ -2,6 +2,7 @@
 iso: nbg
 name: Nagarchal
 autonym: Nagar
+alt_names: [Gonḍi, Gōṇḍī, Nagarchi]
 population: null
 country_id: IN
 country_name: India

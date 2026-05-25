@@ -2,6 +2,7 @@
 iso: nid
 name: Ngandi
 autonym: null
+alt_names: [Engandi, Gunwinyguan, "N'gundi", Nagandi, Nagandji, Nanda, Nandi, Ngalbon, Ngalgbun, Ngundi]
 population: null
 country_id: AU
 country_name: Australia

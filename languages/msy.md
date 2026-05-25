@@ -2,6 +2,7 @@
 iso: msy
 name: Aruamu
 autonym: Mikarew
+alt_names: [Ariawia, Ariawiai, Gumasi, Makarub, Makarup, Mikarew-Ariaw, Mikarup, Misegian]
 population: 8000
 country_id: PG
 country_name: Papua New Guinea

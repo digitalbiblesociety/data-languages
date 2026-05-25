@@ -2,6 +2,7 @@
 iso: quv
 name: Sacapulteco
 autonym: Sacapulteco
+alt_names: [Idioma sacapulteco, Língua sacapulteca, "Sacapulas K'iche'", Sacapultec, Sacapulteeks, Sacapultekisk, Sakapultec, Sakapulteco, Sakapultek language, Sakapulteko, Sakapultèque, Сакапултечки јазик]
 population: 15000
 country_id: GT
 country_name: Guatemala

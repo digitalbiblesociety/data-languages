@@ -1,7 +1,9 @@
 ---
 iso: sip
 name: Sikkimese
+name_zh: 錫金語
 autonym: Drenjong
+alt_names: [Bhotia, Bhutia, Bhōṭiā of Sikkim, Central Tibetan, Dandzongka, Dandźongka, Danjongka, Danyouka, Denjong, Denjongkha, Denjongpa, Denjonka, Denjonke, Dä-njong-kä, Idioma bhutia, Język dandzongka, Lachengpa, Lachungpa, Sikami, Sikkamese, Sikkim, Sikkim Bhotia, Sikkim Bhutia, Sikkimesiska, Сиккимский язык, ภาษาสิกขิม, 锡金语]
 population: 25000
 country_id: IN
 country_name: India

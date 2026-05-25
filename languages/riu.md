@@ -1,6 +1,7 @@
 ---
 iso: riu
 name: Riung
+name_zh: 里翁语
 autonym: Far Eastern Manggarai
 population: 14000
 country_id: ID

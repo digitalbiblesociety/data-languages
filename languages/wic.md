@@ -1,7 +1,9 @@
 ---
 iso: wic
 name: Wichita
+name_zh: 威奇塔語
 autonym: "Kirikirʔi:s"
+alt_names: [Idioma wichita, Lingua wichita, Quivira, Wichita (proper), Witchita, Witchiteg, Уичита]
 population: null
 country_id: US
 country_name: United States

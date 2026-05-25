@@ -1,7 +1,9 @@
 ---
 iso: adz
 name: Adzera
+name_zh: 阿茨拉语
 autonym: null
+alt_names: [Acira, Atsera, Atzera, Azera]
 population: 30000
 country_id: PG
 country_name: Papua New Guinea

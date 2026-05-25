@@ -2,6 +2,7 @@
 iso: gka
 name: Guya
 autonym: Guiarak
+alt_names: [Guyarak]
 population: 130
 country_id: PG
 country_name: Papua New Guinea

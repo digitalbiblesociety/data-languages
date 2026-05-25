@@ -2,6 +2,7 @@
 iso: itt
 name: Maeng Itneg
 autonym: "Kankana-ey"
+alt_names: ["Itneg, Maeng", Luba-Tiempo Itneg, Southern Itneg]
 population: 18000
 country_id: PH
 country_name: Philippines

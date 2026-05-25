@@ -2,6 +2,7 @@
 iso: auh
 name: Aushi
 autonym: Ushi
+alt_names: [Avaushi, Usi, Uzhil, Uzhili, Vouaousi]
 population: 100000
 country_id: ZM
 country_name: Zambia

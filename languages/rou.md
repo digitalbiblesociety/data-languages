@@ -2,6 +2,7 @@
 iso: rou
 name: Runga
 autonym: Runga
+alt_names: [Aiki, Aiki (Runga), Ayki, Aykindang, Rounga, Roungo, Runga de Ndele]
 population: 21500
 country_id: TD
 country_name: Chad

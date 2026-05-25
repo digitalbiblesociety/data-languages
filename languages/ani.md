@@ -2,6 +2,7 @@
 iso: ani
 name: Andi
 autonym: къӀаваннаб мицӀцӀи qwavannab miċċi
+alt_names: [Andieg, Andii, Andin kieli, Andiy, Język andyjski, Llengua andi, Língua andi, Qandisel, Qwannab, qwavannab micci, Андиаг æвзаг, Андски јазик, Андійська мова, андийский язык, къIaваннаб мицци, ანდიური ენა]
 population: 40000
 country_id: RU
 country_name: Russia

@@ -1,7 +1,9 @@
 ---
 iso: bax
 name: Bamun
+name_zh: 巴姆穆語
 autonym: Shüpamom
+alt_names: [Bamoum, Bamoun, Bamum, Bamum language, Bamun (Shupamon), Bamun jezik, Idioma bamum, Língua bamum, Shupamem, Бамум, 巴姆穆語]
 population: 420000
 country_id: CM
 country_name: Cameroon

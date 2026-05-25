@@ -1,7 +1,9 @@
 ---
 iso: afn
 name: Defaka
+name_zh: Defaka語
 autonym: Afakani
+alt_names: [Defaka jezik, Defaka-Nkooro, Defakeg]
 population: 200
 country_id: NG
 country_name: Nigeria

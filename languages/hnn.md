@@ -1,7 +1,9 @@
 ---
 iso: hnn
 name: Hanunoo
+name_zh: 哈努诺语
 autonym: "Hanunó'o"
+alt_names: [Hanonoo, Hanunóo]
 population: 25100
 country_id: PH
 country_name: Philippines

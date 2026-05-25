@@ -2,6 +2,7 @@
 iso: emw
 name: Emplawas
 autonym: null
+alt_names: [Emplavas]
 population: 250
 country_id: ID
 country_name: Indonesia

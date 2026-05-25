@@ -2,6 +2,7 @@
 iso: iso
 name: Isoko
 autonym: Biotu
+alt_names: ["\"Biotu\"", "\"Igabo\"", "\"Sobo\"", Sobo, Uzere dialect]
 population: 647000
 country_id: NG
 country_name: Nigeria

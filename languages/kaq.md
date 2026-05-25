@@ -2,6 +2,7 @@
 iso: kaq
 name: Capanahua
 autonym: Noquen hihbaan joi
+alt_names: [Kapanawa]
 population: 380
 country_id: PE
 country_name: Peru

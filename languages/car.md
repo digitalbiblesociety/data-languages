@@ -1,7 +1,9 @@
 ---
 iso: car
 name: Galibi Carib
+name_zh: 卡利纳語
 autonym: "Kari'nja"
+alt_names: ["\"galibi (Guyane, Suriname)\"", Carib, Carib (Suriname), Carib language, "Carib, Galibi", Caribe, Cariña, Galibi, Galibi (Brésil), Galibi (Guyane Française), Galibi (République bolivarienne du Venezuela), Galibi (Venezuela), Galibi-marworno, Galibí, "Kali'na", Kaliana, Kalihna, Kalinya, "Kari'nya", Kariba lingvo, Karibeg, Kariña simi, Karínya, Maraworno, Marworno, karib]
 population: 8558
 country_id: VE
 country_name: Venezuela

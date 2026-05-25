@@ -1,7 +1,9 @@
 ---
 iso: jah
 name: Jah Hut
+name_zh: 贾胡特语
 autonym: Jah Het
+alt_names: [Eastern Sakai, Ost-Sakai]
 population: 2442
 country_id: MY
 country_name: Malaysia

@@ -1,7 +1,9 @@
 ---
 iso: wmw
 name: Mwani
+name_zh: 姆瓦尼語
 autonym: Kimwani
+alt_names: [Ibo, Muane, Mwane, Quimuane]
 population: 146000
 country_id: MZ
 country_name: Mozambique

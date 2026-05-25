@@ -2,6 +2,7 @@
 iso: txi
 name: Ikpeng
 autonym: Ikpeng
+alt_names: [Chicao, Chikaon, Ikpéng, Tonore, Tunuli, Txicão, Txikao, Txikân, Txikão, Txikāo]
 population: 320
 country_id: BR
 country_name: Brazil

@@ -2,6 +2,7 @@
 iso: gdu
 name: Gudu
 autonym: Gudo
+alt_names: [Gombi, Gutu]
 population: 5000
 country_id: NG
 country_name: Nigeria

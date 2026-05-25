@@ -2,6 +2,7 @@
 iso: arr
 name: Karo (Brazil)
 autonym: Ramarama
+alt_names: [Arara, Arara (Tupi), Arara Urukú, Arara-Karo, Arara-Urukú, Arra (Rondonia), Arára, Arára do Jiparaná, Itanga, Itogapuc, Itogapuk, Itogapúk, Karo, Karó (Arára), Káro, Ntogapid, Ntogapig, Uruku, Urukú]
 population: 170
 country_id: BR
 country_name: Brazil

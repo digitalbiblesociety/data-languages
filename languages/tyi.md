@@ -2,6 +2,7 @@
 iso: tyi
 name: "Teke-Tsaayi"
 autonym: Getsaayi
+alt_names: [Tsaya, Tsaye, Tsayi]
 population: 95900
 country_id: CG
 country_name: Congo

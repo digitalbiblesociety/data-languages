@@ -1,7 +1,9 @@
 ---
 iso: cwg
 name: Chewong
+name_zh: 彻翁语
 autonym: Ceq Wong
+alt_names: [Beri, Che wong, "Che' Wong", "Che'wong", Cheq Wong, Chuba, Siwang]
 population: 660
 country_id: MY
 country_name: Malaysia

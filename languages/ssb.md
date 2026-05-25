@@ -2,6 +2,7 @@
 iso: ssb
 name: Southern Sama
 autonym: Bajau
+alt_names: [Bajau (Semporna), Bajau Asli, Kubang, Sama (South), Sama (Southern), "Sama Sibutu'", Sama Tawi-Tawi, "Sama, Southern", Semporna Bajau, Sinama, Sinama Tawi-Tawi]
 population: 260000
 country_id: PH
 country_name: Philippines

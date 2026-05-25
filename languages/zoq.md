@@ -1,7 +1,9 @@
 ---
 iso: zoq
 name: Tabasco Zoque
+name_zh: 阿亚帕涅科语
 autonym: AyapanecoTabasco Zoque
+alt_names: [Ayapa, Ayapanec, Ayapanec Zoque, Ayapaneco, Numde Oode, Numdi Oodi, Soke, Tabasco, Zoque, Zoque de Ayapanec, Zoque de Tabasco, "Zoque, Tabasco"]
 population: 367
 country_id: MX
 country_name: Mexico

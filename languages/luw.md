@@ -2,6 +2,7 @@
 iso: luw
 name: Luo (Cameroon)
 autonym: null
+alt_names: [Cameroon, Luo]
 population: null
 country_id: CM
 country_name: Cameroon

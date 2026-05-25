@@ -2,6 +2,7 @@
 iso: wdu
 name: Wadjigu
 autonym: Southern Maric
+alt_names: [Maudalgo, Wadja, Wadjainggo, Wadju, Wadya, Waindjago, Wainggo, Wainjago, Wainjigo, Watjigu]
 population: null
 country_id: AU
 country_name: Australia

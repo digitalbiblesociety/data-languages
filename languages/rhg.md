@@ -1,7 +1,9 @@
 ---
 iso: rhg
 name: Rohingya
+name_zh: 罗兴亚语
 autonym: ينڠَ
+alt_names: [Akyab, Arakan, Rohinga, Rohinja, ภาษาโรฮิงยา]
 population: 2529250
 country_id: MM
 country_name: Myanmar

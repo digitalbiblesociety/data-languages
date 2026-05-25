@@ -2,6 +2,7 @@
 iso: giy
 name: Giyug
 autonym: Kiyuk
+alt_names: [Australia]
 population: 2
 country_id: AU
 country_name: Australia

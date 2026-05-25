@@ -2,6 +2,7 @@
 iso: uku
 name: Ukue
 autonym: Ekpenmen
+alt_names: [Ekpenmi, Epinmi, Ukpe]
 population: 14100
 country_id: NG
 country_name: Nigeria

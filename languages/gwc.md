@@ -1,7 +1,9 @@
 ---
 iso: gwc
 name: Kalami
+name_zh: 卡拉米语
 autonym: Bashkarik
+alt_names: [Bascarí, Bashgharik, Baškarīk, Dardu, Dir Kohistani, Diri, Dirwali, Dīrī, Gaawro, Garwa, Garwi, Gawri, Gowri, Gārwī, Gāwrī, Kalami Kohistani, Kohistana, Kohistani, Kohistani de Kalam, كالامي]
 population: 96400
 country_id: PK
 country_name: Pakistan

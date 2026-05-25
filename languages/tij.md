@@ -2,6 +2,7 @@
 iso: tij
 name: Tilung
 autonym: Tiling
+alt_names: [Halesidanda, Tilling, Tilung Blama]
 population: 310
 country_id: NP
 country_name: Nepal

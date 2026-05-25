@@ -2,6 +2,7 @@
 iso: sks
 name: Maia
 autonym: Pila
+alt_names: [Banar, Maya, Saki, Suaro, Turutap, Yakiba]
 population: 3712
 country_id: PG
 country_name: Papua New Guinea

@@ -1,6 +1,7 @@
 ---
 iso: idb
 name: "Indo-Portuguese"
+name_zh: 印度-葡萄牙語
 autonym: Língua da Casa
 population: 4940
 country_id: IN

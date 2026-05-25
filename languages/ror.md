@@ -1,7 +1,9 @@
 ---
 iso: ror
 name: Rongga
+name_zh: 荣加语
 autonym: bahasa Rongga
+alt_names: [Indonesia]
 population: 2120
 country_id: ID
 country_name: Indonesia

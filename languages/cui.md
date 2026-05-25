@@ -2,6 +2,7 @@
 iso: cui
 name: Cuiba
 autonym: null
+alt_names: [Chiricoa, Cuiba-Wámonae, Cuiva, Hiwi, Kuiva, Kviba lingvo, Maiben]
 population: 1500
 country_id: CO
 country_name: Colombia

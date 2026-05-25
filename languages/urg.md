@@ -2,6 +2,7 @@
 iso: urg
 name: Urigina
 autonym: Origanau
+alt_names: [Uriginau]
 population: 1400
 country_id: PG
 country_name: Papua New Guinea

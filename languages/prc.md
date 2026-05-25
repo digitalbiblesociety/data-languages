@@ -1,7 +1,9 @@
 ---
 iso: prc
 name: Parachi
+name_zh: 帕拉奇語
 autonym: null
+alt_names: [Parachí]
 population: 5000
 country_id: AF
 country_name: Afghanistan

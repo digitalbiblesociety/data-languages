@@ -2,6 +2,7 @@
 iso: sbk
 name: Safwa
 autonym: " Ishisafwa"
+alt_names: [Cisafwa, Kisafwa]
 population: 322000
 country_id: TZ
 country_name: Tanzania

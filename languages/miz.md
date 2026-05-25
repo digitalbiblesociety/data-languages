@@ -2,6 +2,7 @@
 iso: miz
 name: Coatzospan Mixtec
 autonym: (San Juan Coatzóspam)
+alt_names: [Coatzospan Mixteco, Cuicatlán Mixtec, Cuyamecalco Mixtec, Misteko, Mixtec, Mixtec (Coatzospan), "Mixtec, Coatzospan", Mixteco (Coatzospan), Mixteco de Cañada central, Mixteco de Coatzóspan, Mixteco de Cuyamecalco, Mixteco de San Juan Coatzospan, Northern Alta Mixtec, Northern Misteko, Northern Mixteco, Teotitlan Mixtec, Teotitlán Mixtec]
 population: 5000
 country_id: MX
 country_name: Mexico

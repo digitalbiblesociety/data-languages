@@ -1,7 +1,9 @@
 ---
 iso: tnu
 name: Tay Khang
+name_zh: 傣康语
 autonym: null
+alt_names: [Laos]
 population: 200
 country_id: LA
 country_name: Laos

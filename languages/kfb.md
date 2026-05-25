@@ -1,7 +1,9 @@
 ---
 iso: kfb
 name: Northwestern Kolami
+name_zh: 科拉米语
 autonym: Kolam
+alt_names: [Colami, Kolamboli, Kolameg, Kolami, Kolami language, "Kolami, Northwestern", Kolamy, Kolmi, Kolámí, Kulme, Kōlāmì, Kōlāmī, Lenga Kolami nord-ossidental, Lingua Kolami, Колами, கோலமி]
 population: 128000
 country_id: IN
 country_name: India

@@ -2,6 +2,7 @@
 iso: mwk
 name: Kita Maninkakan
 autonym: Central Malinke
+alt_names: [Kita Maninka, Malinke, "Maninkakan, Kita", Nandi]
 population: 434000
 country_id: ML
 country_name: Mali

@@ -2,6 +2,7 @@
 iso: ebk
 name: Eastern Bontok
 autonym: Finallig
+alt_names: ["Bontok, Eastern"]
 population: 6170
 country_id: PH
 country_name: Philippines

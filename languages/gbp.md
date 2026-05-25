@@ -2,6 +2,7 @@
 iso: gbp
 name: "Gbaya-Bossangoa"
 autonym: Gbaya de Bosangoa
+alt_names: [Gbaya, Gbaya of Borro, Gbaya of Bossangoa, Gbaya-Borro, Gbea, Gbeya, Gbeya Bossangoa, Gbeya-Bossangoa]
 population: 200000
 country_id: CF
 country_name: Central African Republic

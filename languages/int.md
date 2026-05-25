@@ -1,7 +1,9 @@
 ---
 iso: int
 name: Intha
+name_zh: 因塔-达努语
 autonym: Inntha
+alt_names: ["Inle, Intha"]
 population: 90000
 country_id: MM
 country_name: Myanmar

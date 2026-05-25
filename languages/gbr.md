@@ -2,6 +2,7 @@
 iso: gbr
 name: Gbagyi
 autonym: East Gwari
+alt_names: [Gbagye, Gwari, Gwari Matai, Ibagyi]
 population: 1230000
 country_id: NG
 country_name: Nigeria

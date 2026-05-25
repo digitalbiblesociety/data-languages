@@ -2,6 +2,7 @@
 iso: wbb
 name: Wabo
 autonym: Woriasi
+alt_names: [Nusari]
 population: 1500
 country_id: ID
 country_name: Indonesia

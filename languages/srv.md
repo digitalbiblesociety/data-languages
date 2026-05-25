@@ -2,6 +2,7 @@
 iso: srv
 name: Southern Sorsoganon
 autonym: Waray Sorsogon
+alt_names: [Bikol Sorsogon, Bisaya, Gubat, "Sorsoganon, Southern", "Sorsogon, Waray", Southern Sorsogon]
 population: 185000
 country_id: PH
 country_name: Philippines

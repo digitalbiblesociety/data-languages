@@ -2,6 +2,7 @@
 iso: xak
 name: Máku
 autonym: Jukude
+alt_names: [Maku]
 population: null
 country_id: VE
 country_name: Venezuela

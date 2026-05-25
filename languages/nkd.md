@@ -2,6 +2,7 @@
 iso: nkd
 name: Koireng
 autonym: Koren
+alt_names: [Koirng, Kolren, Kwoireng, Liangmai, Liangmei, Liyang, Liyangmai, Lyengmai, Quoireng]
 population: 1056
 country_id: IN
 country_name: India

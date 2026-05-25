@@ -2,6 +2,7 @@
 iso: lke
 name: Kenyi
 autonym: Lusoga
+alt_names: [Lukenyi]
 population: 99900
 country_id: UG
 country_name: Uganda

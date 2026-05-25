@@ -2,6 +2,7 @@
 iso: sib
 name: Sebop
 autonym: Cebop
+alt_names: ["Kenyah, Sebob", Sabup, Sambup, Sebob, Sibop]
 population: 1730
 country_id: MY
 country_name: Malaysia

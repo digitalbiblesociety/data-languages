@@ -1,7 +1,9 @@
 ---
 iso: hyw
 name: Western Armenian
+name_zh: 西部亚美尼亚语
 autonym: արեւմտահայերէն
+alt_names: ["Armenian, Western"]
 population: 1395240
 country_id: TR
 country_name: Turkey

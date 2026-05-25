@@ -2,6 +2,7 @@
 iso: trc
 name: Copala Triqui
 autonym: xnaꞌánj nu̱ꞌ
+alt_names: [Copala Trike, Copala Trique, Copala-Trique, Trike, Triki, Trique, Trique (Copala), Triqui, Triqui de San Juan Copala, "Triqui, Copala"]
 population: 30000
 country_id: MX
 country_name: Mexico

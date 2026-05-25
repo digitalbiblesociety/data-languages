@@ -2,6 +2,7 @@
 iso: nkh
 name: Khezha Naga
 autonym: Khuzha
+alt_names: [Kezami, Kezhama, Keźama, Kheza, Khezha, Khezhama, Naga, "Naga, Khezha", "Naga,Khezha"]
 population: 23000
 country_id: IN
 country_name: India

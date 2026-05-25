@@ -2,6 +2,7 @@
 iso: txq
 name: Tii
 autonym: Western Rote
+alt_names: [Rote, Rote Barat, Roti, Rotinese, Thie, Ti]
 population: 20000
 country_id: ID
 country_name: Indonesia

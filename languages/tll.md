@@ -2,6 +2,7 @@
 iso: tll
 name: Tetela
 autonym: Ɔtɛtɛla
+alt_names: [Otetela, Sungu]
 population: 750000
 country_id: CD
 country_name: DR Congo

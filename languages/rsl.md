@@ -2,6 +2,7 @@
 iso: rsl
 name: Russian Sign Language
 autonym: Русский Жестовый Язык
+alt_names: [Russisk tegnspråk]
 population: 909000
 country_id: RU
 country_name: Russia

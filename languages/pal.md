@@ -1,6 +1,7 @@
 ---
 iso: pal
 name: Pahlavi
+name_zh: 中古波斯语
 autonym: "𐭯𐭠𐭫𐭮𐭩𐭪 (, )"
 population: null
 country_id: IR

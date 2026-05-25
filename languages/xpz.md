@@ -2,6 +2,7 @@
 iso: xpz
 name: "Bruny Island Tasmanian\r"
 autonym: Nuenonne
+alt_names: [Bruny Island Tasmanian, "Tasmanian, Bruny Island"]
 population: null
 country_id: AU
 country_name: Australia

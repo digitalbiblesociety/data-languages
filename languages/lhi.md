@@ -2,6 +2,7 @@
 iso: lhi
 name: Lahu Shi
 autonym: Ladhof
+alt_names: [Kui, Kur, Kwi, Lahu, Lahu Xi, LahuShi, Lâhū-ši, Shi, Yellow Lahu]
 population: 196200
 country_id: CN
 country_name: China

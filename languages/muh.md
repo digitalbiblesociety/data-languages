@@ -2,6 +2,7 @@
 iso: muh
 name: Mündü
 autonym: Mondo
+alt_names: [Gbanzili 4th division, Mondu, Mountou, Mundo, Mundu]
 population: 25800
 country_id: SS
 country_name: South Sudan

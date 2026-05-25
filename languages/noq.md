@@ -2,6 +2,7 @@
 iso: noq
 name: Ngongo
 autonym: Iyaka
+alt_names: [Democratic Republic of the Congo]
 population: 4080
 country_id: CD
 country_name: DR Congo

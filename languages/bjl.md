@@ -2,6 +2,7 @@
 iso: bjl
 name: Bulu (Papua New Guinea)
 autonym: null
+alt_names: [Bulu]
 population: 910
 country_id: PG
 country_name: Papua New Guinea

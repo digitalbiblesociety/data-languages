@@ -2,6 +2,7 @@
 iso: cwt
 name: Kuwaataay
 autonym: Kuwaataay
+alt_names: [Kwatay]
 population: 8710
 country_id: SN
 country_name: Senegal

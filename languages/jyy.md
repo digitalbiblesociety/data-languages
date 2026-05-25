@@ -2,6 +2,7 @@
 iso: jyy
 name: Jaya
 autonym: null
+alt_names: [Yaya]
 population: 2200
 country_id: TD
 country_name: Chad

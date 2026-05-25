@@ -2,6 +2,7 @@
 iso: ibm
 name: Agoi
 autonym: Ibami
+alt_names: [Ro Bambami, Wa Bambani, Wagoi]
 population: 12000
 country_id: NG
 country_name: Nigeria

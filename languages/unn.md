@@ -1,7 +1,9 @@
 ---
 iso: unn
 name: Kurnai
+name_zh: 古奈語
 autonym: Gaanay
+alt_names: [Cunni, Ganai, Gooni, Gunai, Gunna, Gunnai, Kunnai, Kurnay]
 population: null
 country_id: AU
 country_name: Australia

@@ -1,7 +1,9 @@
 ---
 iso: srs
 name: Sarsi
+name_zh: 楚蒂纳语
 autonym: Sarcee
+alt_names: [Tsutina, "Tsuu T'ina", "Tsuut'ina", Tsuut’ina language]
 population: 600
 country_id: CA
 country_name: Canada

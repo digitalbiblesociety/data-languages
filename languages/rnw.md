@@ -2,6 +2,7 @@
 iso: rnw
 name: Rungwa
 autonym: Icilungwa
+alt_names: [Ichirungwa, Lungwa, Runga]
 population: 18000
 country_id: TZ
 country_name: Tanzania

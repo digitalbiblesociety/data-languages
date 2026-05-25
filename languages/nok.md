@@ -1,7 +1,9 @@
 ---
 iso: nok
 name: Nooksack
+name_zh: 諾克塞克語
 autonym: Lhéchalosem
+alt_names: [Lhéchelesem, Nootsack, Nucsaqués, Nuksahk, łə́čələsəm, ɬəčælosəme, ɬəčələsəm]
 population: null
 country_id: US
 country_name: United States

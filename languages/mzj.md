@@ -2,6 +2,7 @@
 iso: mzj
 name: Manya
 autonym: Malinke
+alt_names: [Mandingo, Maniya, Manya Kan]
 population: 120800
 country_id: LR
 country_name: Liberia

@@ -2,6 +2,7 @@
 iso: liw
 name: Col
 autonym: Base Lembak
+alt_names: [Co, Cor, Cul, Dot, Kol, Kor, Lembak, Linggau, Sindang, Yot]
 population: 145000
 country_id: ID
 country_name: Indonesia

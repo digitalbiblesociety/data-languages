@@ -2,6 +2,7 @@
 iso: yeu
 name: Yerukula
 autonym: ஏறுகள
+alt_names: [Erukala, Eruku Bhasha, Korava, Korchi, Kurru, Kurru Bhasha, Kurutha, Yarukula, Yerkula, Yerukala, Yerukala-Korava, Yerukla, Yerukula-Bhasha]
 population: 68500
 country_id: IN
 country_name: India

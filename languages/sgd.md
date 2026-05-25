@@ -1,6 +1,7 @@
 ---
 iso: sgd
 name: Surigaonon
+name_zh: 蘇里高農語
 autonym: Tandaganon
 population: 500000
 country_id: PH

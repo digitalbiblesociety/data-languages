@@ -2,6 +2,7 @@
 iso: wmh
 name: "Waima'a"
 autonym: "Uai Ma'a"
+alt_names: ["Uaimo'a", Vaimaa, Waimaha, Waimoa, Waimoa language]
 population: 3000
 country_id: TL
 country_name: "Timor-Leste"

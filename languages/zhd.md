@@ -1,7 +1,9 @@
 ---
 iso: zhd
 name: Dai Zhuang
+name_zh: 文麻壯語
 autonym: "Wen-Ma Southern Zhuang"
+alt_names: [Bu Dai, Kau Ndae, Khaau Daai, Thu Lao, Tu, Tuliao, Tuzu, Wen-Ma, Wenma, "Yung-ch'un", Yung-shun, Zhuang, "Zhuang, Dai"]
 population: 100200
 country_id: CN
 country_name: China

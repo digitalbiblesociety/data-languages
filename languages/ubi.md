@@ -2,6 +2,7 @@
 iso: ubi
 name: Ubi
 autonym: Oubi
+alt_names: [Ubi language]
 population: 1100
 country_id: TD
 country_name: Chad

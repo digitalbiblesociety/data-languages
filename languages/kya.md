@@ -2,6 +2,7 @@
 iso: kya
 name: Kwaya
 autonym: Kikwaya
+alt_names: [Tanzania]
 population: 100000
 country_id: TZ
 country_name: Tanzania

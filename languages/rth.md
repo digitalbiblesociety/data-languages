@@ -2,6 +2,7 @@
 iso: rth
 name: Ratahan
 autonym: Toratán
+alt_names: [Bentenan, Pasan]
 population: 30000
 country_id: ID
 country_name: Indonesia

@@ -2,6 +2,7 @@
 iso: nrt
 name: Northern Kalapuya
 autonym: "Tualatin-Yamhill"
+alt_names: ["Kalapuya, Northern"]
 population: null
 country_id: US
 country_name: United States

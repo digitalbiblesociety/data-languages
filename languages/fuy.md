@@ -2,6 +2,7 @@
 iso: fuy
 name: Fuyug
 autonym: Fuyuge
+alt_names: [Fuyughe, Mafufu, Mafulu]
 population: 14000
 country_id: PG
 country_name: Papua New Guinea

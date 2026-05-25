@@ -2,6 +2,7 @@
 iso: nbh
 name: Ngamo
 autonym: Gamawa
+alt_names: [Gamo, Ngamawa]
 population: 60000
 country_id: NG
 country_name: Nigeria

@@ -1,6 +1,7 @@
 ---
 iso: ido
 name: Ido
+name_zh: 伊多语
 autonym: Ido
 population: 150
 country_id: ZZ

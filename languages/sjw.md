@@ -1,7 +1,9 @@
 ---
 iso: sjw
 name: Shawnee
+name_zh: 肖尼語
 autonym: Sawanwa
+alt_names: [Chavanés, Lingua shawnee, Шони]
 population: 260
 country_id: US
 country_name: United States

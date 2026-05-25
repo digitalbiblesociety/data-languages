@@ -1,7 +1,9 @@
 ---
 iso: sro
 name: Campidanese Sardinian
+name_zh: 坎皮达诺方言
 autonym: Sard
+alt_names: [Campidanese, Campidanian Sardinian, Campidanien, Campidese, Sardinian, Sardinian (Campidanese), "Sardinian, Campidanese", Sardo campidanés, Sardu, South Sardinian]
 population: 500000
 country_id: IT
 country_name: Italy

@@ -2,6 +2,7 @@
 iso: lva
 name: "Maku'a"
 autonym: " Lóvaia"
+alt_names: [Lovaea, Lovaia]
 population: 1950
 country_id: TL
 country_name: "Timor-Leste"

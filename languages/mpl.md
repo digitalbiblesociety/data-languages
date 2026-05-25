@@ -2,6 +2,7 @@
 iso: mpl
 name: Middle Watut
 autonym: Maraliinan
+alt_names: [Maralinan, Silisili, Watut, "Watut, Middle"]
 population: 1350
 country_id: PG
 country_name: Papua New Guinea

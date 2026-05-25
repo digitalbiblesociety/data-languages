@@ -2,6 +2,7 @@
 iso: rgs
 name: Southern Roglai
 autonym: Rai
+alt_names: [Roglai, "Roglai, Southern", Ríoglai, Southern]
 population: 18000
 country_id: VN
 country_name: Vietnam

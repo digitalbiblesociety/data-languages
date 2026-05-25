@@ -1,7 +1,9 @@
 ---
 iso: fse
 name: Finnish Sign Language
+name_zh: 芬兰语手语
 autonym: Suomalainen viittomakieli
+alt_names: [Finna mansigna lingvo, Lingua dei segni finlandese, Língua de Sinais Finlandesa, Viittomakieli]
 population: 5000
 country_id: FI
 country_name: Finland

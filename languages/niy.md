@@ -2,6 +2,7 @@
 iso: niy
 name: Ngiti
 autonym: South Lendu
+alt_names: [Balendru, Bindi, Dru, Druna, Kingeti, Kingiti, Lendu-Sud, Ndruna, Ngeti]
 population: 100000
 country_id: CD
 country_name: DR Congo

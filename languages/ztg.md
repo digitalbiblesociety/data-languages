@@ -2,6 +2,7 @@
 iso: ztg
 name: Xanaguía Zapotec
 autonym: (Santa Catarina Xanaguía)
+alt_names: [Southern Sapoteko, Xanaguia Zapotec, Zapotec, "Zapotec, Xanaguía", Zapoteco de Asunción Tlacolulita, "Zapotèque d'Asunción Tlacolulita"]
 population: 2500
 country_id: MX
 country_name: Mexico

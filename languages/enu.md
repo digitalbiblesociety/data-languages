@@ -1,6 +1,7 @@
 ---
 iso: enu
 name: Enu
+name_zh: 西摩洛语
 autonym: Ximoluo
 population: 30000
 country_id: CN

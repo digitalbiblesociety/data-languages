@@ -1,7 +1,9 @@
 ---
 iso: lbz
 name: Lardil
+name_zh: 拉迪尔语
 autonym: Leerdil
+alt_names: [Damin, Demiin, Demin, Engarilla, Eugoola, Ganggalida, Gunana, Iukala, Jakula, Jogula, Jokal, Jokala, Jokul, Jokula, Jokulta, Jugul, Jugulda, Jungarl, Jungulda, Kanggaleida, Kare wa, "Kuna'na", Kunana, "La:dil", Ladil, Laierdila, "Lardi:i", Lardiil, Lardill, Layardilda, Leedil, Mornington Island tribe, Nemarang, Yangarella, Yookala, Yugulda, Yukula, Yukulta]
 population: 65
 country_id: AU
 country_name: Australia

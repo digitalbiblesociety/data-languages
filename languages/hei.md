@@ -1,7 +1,9 @@
 ---
 iso: hei
 name: Heiltsuk
+name_zh: 海尔楚克-奥韦基亚拉语
 autonym: null
+alt_names: [Belbellah, Bella Bella, Háiɫzaqvḷa (Heiltsuk), Heilchuco, Heiltsuk-Oowekyala, "Heiltsuk-Oweek'ala"]
 population: 1200
 country_id: CA
 country_name: Canada

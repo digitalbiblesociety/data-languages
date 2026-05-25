@@ -1,6 +1,7 @@
 ---
 iso: dyr
 name: Dyarim
+alt_names: [Dyarim Tə, Dyarum, Dyàrìm Tə́, Kaiwari, Kayaurinci, Ndyarim Tə]
 population: 400
 country_id: NG
 country_name: Nigeria

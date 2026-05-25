@@ -1,7 +1,9 @@
 ---
 iso: sys
 name: Sinyar
+name_zh: 西尼亚尔语
 autonym: Shemya
+alt_names: [Shamya, Shamyan, Sinya, Symiarta, Taar Shamyan, Zimirra]
 population: 12300
 country_id: TD
 country_name: Chad

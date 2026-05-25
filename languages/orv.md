@@ -1,7 +1,9 @@
 ---
 iso: orv
 name: Old Russian
+name_zh: 古东斯拉夫语
 autonym: null
+alt_names: [Altostslawische Sprache, Antica lingua slava orientale, Gammeløstslavisk, Język starowschodniosłowiański, Old East Slavic, Oudrussisch, "Russian, Old", Stara wuchodosłowjanšćina, Staroruski jezik, Staroruština, Starovzhodnoslovanščina, Starowschodńosłowjańsko godka, Stará ruština, Vanavene keel, Vladimir-Suzdal, Давньоруська мова, Древнерусский язык, Дрє́вл҄ьн҄ь роу́сьскъ ѩꙁꙑ́къ, Общоизточнославянски език, Старажытнаруская мова, Староисточнословенски јазик, Староруски језик]
 population: null
 country_id: RU
 country_name: Russia

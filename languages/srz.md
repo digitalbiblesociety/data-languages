@@ -2,6 +2,7 @@
 iso: srz
 name: Shahmirzadi
 autonym: "Mazandarani مازندرانی  Tabari طبری "
+alt_names: [Iran]
 population: null
 country_id: IR
 country_name: Iran

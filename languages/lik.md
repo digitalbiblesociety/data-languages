@@ -2,6 +2,7 @@
 iso: lik
 name: Lika
 autonym: Kilika
+alt_names: [Kpongo, Mabiti, Toriko]
 population: 60000
 country_id: CD
 country_name: DR Congo

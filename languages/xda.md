@@ -2,6 +2,7 @@
 iso: xda
 name: Darkinyung
 autonym: Hawkesbury–MacDonald River
+alt_names: [Darginjang, Darginyung, Darkinjang, Darkinjung, Darkinoong, Darkinung, Darkinyun, Darkiñung, Darknung]
 population: null
 country_id: AU
 country_name: Australia

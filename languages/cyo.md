@@ -1,7 +1,9 @@
 ---
 iso: cyo
 name: Cuyonon
+name_zh: 库约语
 autonym: Cuyo
+alt_names: [Bisaya, Cuyono, Cuyunon, Kuyonon, Kuyunon, Куйонон]
 population: 278000
 country_id: PH
 country_name: Philippines

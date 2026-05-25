@@ -2,6 +2,7 @@
 iso: ybl
 name: Yukuben
 autonym: Boritsu
+alt_names: [Ayikiben, Balaabe, Balaaben, Boritsũ, Gohum, Nyikobe, Nyikuben, Oohum, Uhumkhegi, Uuhum, Uuhum-Gigi]
 population: 15000
 country_id: NG
 country_name: Nigeria

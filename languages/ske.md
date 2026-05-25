@@ -2,6 +2,7 @@
 iso: ske
 name: Seke (Vanuatu)
 autonym: Seke
+alt_names: [Ske, Ske language, Vanuatu]
 population: 600
 country_id: VU
 country_name: Vanuatu

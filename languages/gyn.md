@@ -1,7 +1,9 @@
 ---
 iso: gyn
 name: Guyanese Creole English
+name_zh: 圭亚那克里奥尔语
 autonym: Creolese
+alt_names: ["Creole English, Guyanese", Gajanos kreolų kalba, Guyanese Creole]
 population: 715200
 country_id: GY
 country_name: Guyana

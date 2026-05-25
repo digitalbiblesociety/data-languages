@@ -2,6 +2,7 @@
 iso: kqq
 name: Krenak
 autonym: Borum
+alt_names: [Aimoré, Aranã, Bakuén, Batachoa, Botocudo, Botokudo, Crenaque, Etwet, Krekmún, Krenák, Minyãyirún, Naknyanúk, Nakpié, Nakrehé, Pojitxá, Potén, Yiporók]
 population: 150
 country_id: BR
 country_name: Brazil

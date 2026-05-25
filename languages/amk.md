@@ -2,6 +2,7 @@
 iso: amk
 name: Ambai
 autonym: bahasa Ambai
+alt_names: [Ambai-Menawi]
 population: 10100
 country_id: ID
 country_name: Indonesia

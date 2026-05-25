@@ -1,7 +1,9 @@
 ---
 iso: hmm
 name: Central Mashan Hmong
+name_zh: 中部土语
 autonym: Mashan Miao
+alt_names: [Central Mashan Miao, Hmo, Hmong, "Hmong, Central Mashan", Hmung, Hsiung, Hunan Miao, Miao, "Miao, Central Mashan"]
 population: 70000
 country_id: CN
 country_name: China

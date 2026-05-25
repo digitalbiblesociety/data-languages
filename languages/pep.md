@@ -2,6 +2,7 @@
 iso: pep
 name: Kunja
 autonym: Peremka
+alt_names: [Gambadi, Lower Morehead, Thundai-Kanza]
 population: 290
 country_id: PG
 country_name: Papua New Guinea

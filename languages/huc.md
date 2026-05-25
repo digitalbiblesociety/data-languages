@@ -2,6 +2,7 @@
 iso: huc
 name: ǂHua
 autonym: Formerly ǂHoan
+alt_names: ["=|Hoa", "=|Hoan", "=|Hua", "=|Hua-Owani", Eastern ǂHuan, "|Hua", "|Hû", "ǂ'Amkhoe", ǂHoa, ǂHoan, ǂHua-Owani, ǂHuan, ǂHõã, ǂHũã, ǂQhôã, ≠Hû]
 population: 200
 country_id: BW
 country_name: Botswana

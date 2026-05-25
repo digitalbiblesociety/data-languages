@@ -2,6 +2,7 @@
 iso: bhz
 name: Bada (Indonesia)
 autonym: "Bada'"
+alt_names: [Bada]
 population: 9780
 country_id: ID
 country_name: Indonesia

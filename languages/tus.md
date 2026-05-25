@@ -1,7 +1,9 @@
 ---
 iso: tus
 name: Tuscarora
+name_zh: 圖斯卡羅拉語
 autonym: Ska꞉rù꞉ręʼ
+alt_names: [Skarohreh, Tuscarora (Canada), Tuscarora (Estados Unidos), "Tuscarora (États-Unis d'Amérique)", Тускарора јазик, 투스카로라어]
 population: null
 country_id: CA
 country_name: Canada

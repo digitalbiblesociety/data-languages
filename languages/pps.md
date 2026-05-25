@@ -2,6 +2,7 @@
 iso: pps
 name: San Luís Temalacayuca Popoloca
 autonym: Popoloca de San Luis Temalacayuca
+alt_names: [Chocho-Popoloka, Popoloca, "Popoloca, San Luís Temalacayuca", San Luis Temalacayuca Popoloca]
 population: 4730
 country_id: MX
 country_name: Mexico

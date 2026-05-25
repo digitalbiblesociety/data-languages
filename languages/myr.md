@@ -2,6 +2,7 @@
 iso: myr
 name: Muniche
 autonym: Muniche
+alt_names: [Munichi, Munichino, Otanabe, Otanave, Otonabe, Paranapura]
 population: 2023
 country_id: PE
 country_name: Peru

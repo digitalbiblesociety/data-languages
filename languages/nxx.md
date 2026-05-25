@@ -2,6 +2,7 @@
 iso: nxx
 name: Nafri
 autonym: bahasa Nafri
+alt_names: [Indonesia]
 population: 1630
 country_id: ID
 country_name: Indonesia

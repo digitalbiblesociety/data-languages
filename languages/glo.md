@@ -2,6 +2,7 @@
 iso: glo
 name: Galambu
 autonym: Galambe
+alt_names: [Galambi, Galembi]
 population: 25000
 country_id: NG
 country_name: Nigeria

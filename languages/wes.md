@@ -1,7 +1,9 @@
 ---
 iso: wes
 name: Cameroon Pidgin
+name_zh: 喀麥隆皮欽語
 autonym: Wes Cos
+alt_names: ["Pidgin, Cameroon"]
 population: 2000000
 country_id: CM
 country_name: Cameroon

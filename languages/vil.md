@@ -1,7 +1,9 @@
 ---
 iso: vil
 name: Vilela
+name_zh: 比莱拉语
 autonym: Waka
+alt_names: [Vilelan]
 population: null
 country_id: AR
 country_name: Argentina

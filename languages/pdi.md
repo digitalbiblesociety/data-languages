@@ -1,6 +1,7 @@
 ---
 iso: pdi
 name: Pa Di
+name_zh: 巴地语
 autonym: Padi
 population: 1000
 country_id: CN

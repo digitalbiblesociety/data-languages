@@ -1,7 +1,9 @@
 ---
 iso: xqt
 name: Qatabanian
+name_zh: 盖泰班語
 autonym: Qatabanic
+alt_names: [Epigraphic South Arabian, Katabáni nyelv, Qatabanita, قتبانية]
 population: null
 country_id: YE
 country_name: Yemen

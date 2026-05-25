@@ -1,6 +1,7 @@
 ---
 iso: gjr
 name: Gurindji Kriol
+name_zh: 古林吉克里奥尔语
 autonym: null
 population: 25
 country_id: AU

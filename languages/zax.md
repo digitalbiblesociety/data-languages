@@ -2,6 +2,7 @@
 iso: zax
 name: Xadani Zapotec
 autonym: (Santa María Xadani)
+alt_names: [Southern Sapoteko, Zapotec, "Zapotec, Xadani", Zapoteco de Asunción Tlacolulita, "Zapotèque d'Asunción Tlacolulita"]
 population: 340
 country_id: MX
 country_name: Mexico

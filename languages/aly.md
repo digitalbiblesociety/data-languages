@@ -2,6 +2,7 @@
 iso: aly
 name: Alyawarr
 autonym: Arrernte
+alt_names: [Aliawara, Aliwara, "Alja:wara", Aljawara, Aljawarra, Alyawara, Alyawarra, Alyawarre, Alyawarri, Alyawerr, Alyuwara, Arandic, Ilaurainya, Ilawara, Iliama, Iliaura, "Ilja:wara", Iljauara, Iljaura, Iljawara, Illaura, Illiaura, Illura, Illyowra, Iloura, Ilyauarra, Ilyaurra, Ilyawara, Ilyowra, Ilyuarra, Ilywara, "Ja:wara", Jajuwara, Jaljuwara, Udnla, Yalyuwara, Yowera]
 population: 1550
 country_id: AU
 country_name: Australia

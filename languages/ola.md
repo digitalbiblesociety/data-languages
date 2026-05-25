@@ -2,6 +2,7 @@
 iso: ola
 name: Walungge
 autonym: Ü-Tsang
+alt_names: [Halung, Halung tibetano, Olangchung Gola, Walung, Walungchung Gola, Walunggi Keccya]
 population: 15600
 country_id: NP
 country_name: Nepal

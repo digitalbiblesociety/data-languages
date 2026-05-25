@@ -1,7 +1,9 @@
 ---
 iso: gpe
 name: Ghanaian Pidgin English
+name_zh: 加纳皮钦语
 autonym: Kru Brofo / kulu blofo
+alt_names: ["Pidgin English, Ghanaian"]
 population: 5000000
 country_id: GH
 country_name: Ghana

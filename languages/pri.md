@@ -2,6 +2,7 @@
 iso: pri
 name: Paicî
 autonym: null
+alt_names: [Ci, Neukaledonien, Paaci, Paici, Pati, Ponerihouen]
 population: 5500
 country_id: NC
 country_name: New Caledonia

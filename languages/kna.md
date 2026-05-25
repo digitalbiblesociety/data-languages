@@ -2,6 +2,7 @@
 iso: kna
 name: Dera (Nigeria)
 autonym: Kanakuru
+alt_names: [Dera, "Dera, Kanakuru"]
 population: 20000
 country_id: NG
 country_name: Nigeria

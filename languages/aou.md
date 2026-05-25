@@ -1,6 +1,7 @@
 ---
 iso: aou
 name: "A'ou"
+name_zh: 阿欧方言
 autonym: Kláo
 population: 50
 country_id: CN

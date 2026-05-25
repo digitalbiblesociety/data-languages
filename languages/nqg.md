@@ -2,6 +2,7 @@
 iso: nqg
 name: Southern Nago
 autonym: Ede Nago
+alt_names: [Nago, "Nago, Southern", Nagot, Nagots]
 population: 200000
 country_id: BJ
 country_name: Benin

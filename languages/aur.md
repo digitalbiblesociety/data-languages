@@ -2,6 +2,7 @@
 iso: aur
 name: Aruek
 autonym: Djang
+alt_names: [Jang]
 population: 740
 country_id: PG
 country_name: Papua New Guinea

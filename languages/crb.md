@@ -2,6 +2,7 @@
 iso: crb
 name: Island Carib
 autonym: Kalhíphona
+alt_names: [Black Carib, Caberne, Cabre, Calino, Calinya, Calinyaku, Callinago, Caraïbe, "Carib, Island", Caribe isleño, Kalhiphona, Kariphuna]
 population: null
 country_id: DM
 country_name: Dominica

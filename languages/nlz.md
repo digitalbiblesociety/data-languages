@@ -2,6 +2,7 @@
 iso: nlz
 name: Nalögo
 autonym: Natügu
+alt_names: [Nalogo, Nalrgo, Nea, Santa Cruz, South-Western Santa Cruz, Southern Santa Cruz]
 population: 1500
 country_id: SB
 country_name: Solomon Islands

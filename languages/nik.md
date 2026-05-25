@@ -1,7 +1,9 @@
 ---
 iso: nik
 name: Southern Nicobarese
+name_zh: 南尼科巴語
 autonym: Sambelong
+alt_names: [Condul, Great Nicobar, Lamongse, Lamongshe, Little Nicobar, "Lo'ong", Lo-ɔng, Milo, Nicobara, Nicobarese, "Nicobarese, Southern", Ong, South Nicobarese, Southern, Süddialekt, Takahanyilang]
 population: 348
 country_id: IN
 country_name: India

@@ -1,7 +1,9 @@
 ---
 iso: kcn
 name: Nubi
+name_zh: 努比亚语
 autonym: Kinubi
+alt_names: [Ki-Nubi, Kinúbi, Nubieg, Rután Núbi]
 population: 42000
 country_id: UG
 country_name: Uganda

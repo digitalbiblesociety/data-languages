@@ -1,7 +1,9 @@
 ---
 iso: pes
 name: Iranian Persian
+name_zh: 西波斯语
 autonym: فارسی
+alt_names: [Farsi, Farsi (Western), "Farsi, Persian", "Farsi, Western", Irani, Neupersisch, New Persian, Parsi, Persian, "Persian, Iranian", Tehrani Persian]
 population: 52800000
 country_id: IR
 country_name: Iran

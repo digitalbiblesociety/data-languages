@@ -2,6 +2,7 @@
 iso: dkg
 name: Kadung
 autonym: Kadun
+alt_names: [Kwanka, Tivaghat, Vaghat]
 population: 20000
 country_id: NG
 country_name: Nigeria

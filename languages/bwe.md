@@ -2,6 +2,7 @@
 iso: bwe
 name: Bwe Karen
 autonym: Bghai
+alt_names: [Baghi, Bghai Karen, Brec, Bræ, Brè, Bwe, Karen (Bwe), "Karen, Bwe", "Karen,Bwe"]
 population: 15700
 country_id: MM
 country_name: Myanmar

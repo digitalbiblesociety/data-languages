@@ -1,7 +1,9 @@
 ---
 iso: myu
 name: Mundurukú
+name_zh: Mundurukú語
 autonym: null
+alt_names: [Caras-Pretas, Língua mundurucu, Monjoroku, Mundurucu, Mundurucú, Munduruku, Munduruku kalba, Munduruku language, Paiquize, Pari, Weidyenye, Мундуруку]
 population: 8000
 country_id: BR
 country_name: Brazil

@@ -2,6 +2,7 @@
 iso: asc
 name: Casuarina Coast Asmat
 autonym: Kaweinag
+alt_names: [Asmat, "Asmat, Casuarina Coast"]
 population: 3400
 country_id: ID
 country_name: Indonesia

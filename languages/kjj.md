@@ -1,7 +1,9 @@
 ---
 iso: kjj
 name: Khinalugh
+name_zh: 奇納魯格語
 autonym: каьтш мицI / kätš micʼ
+alt_names: [Chinalugische Sprache, Hinalugin kieli, Jinalug, Język chinalugijski, Khinalough, Khinalug, Khinalug language, Khinalugi, Língua khinalug, Xinaliq, Xinalug, Xınalıq dili, kaʕtʃ mitsʼ, kätiš, kättid mic’, kätš, kätš micʼ, kətşi mi, Хиналугски јазик, Хіналузька мова, каьтш мицI, хиналугский язык]
 population: 1500
 country_id: AZ
 country_name: Azerbaijan

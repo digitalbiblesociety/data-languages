@@ -1,7 +1,9 @@
 ---
 iso: aae
 name: Arbëreshë Albanian
+name_zh: 阿尔伯雷什方言
 autonym: arbërisht
+alt_names: [Albanesisch, Albanian, "Albanian, Arbëreshë", Arber, Arbereshe Albanian, Arberesjiska, Arberés, Arbresh, Arbërerisht, Arbëresh language, Arbëreshë, Arbëreshë albanski, Arbëreshë hizkuntza, Arnaut, Arvaniteg, Arvaníska, Aрбaрёж, Dialecto arbëreshë, Italo-Albanian, Luenga arbëreshë, Shqipēri, Shquipni, Škip]
 population: 260000
 country_id: IT
 country_name: Italy

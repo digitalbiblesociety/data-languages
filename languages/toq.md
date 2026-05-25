@@ -2,6 +2,7 @@
 iso: toq
 name: Toposa
 autonym: Toposa–Jiye
+alt_names: [Akara, Kare, Kumi, Taposa, Topotha]
 population: 315000
 country_id: SS
 country_name: South Sudan

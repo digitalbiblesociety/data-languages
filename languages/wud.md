@@ -2,6 +2,7 @@
 iso: wud
 name: Wudu
 autonym: null
+alt_names: [Togo]
 population: 2000
 country_id: TG
 country_name: Togo

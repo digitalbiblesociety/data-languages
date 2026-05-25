@@ -1,7 +1,9 @@
 ---
 iso: lud
 name: Ludian
+name_zh: 吕迪语
 autonym: "lyydin kiel'"
+alt_names: [Lud, Lude, Lude mixed dialect, Ludic, Ludic Karelian, Ludic dialects, Ludio, Luudi, Lyudic, Lyudikovian, Lyydin kieli, Lüdic, Lüdisch, Südost-Karelisch, Südostdialekt des Karelischen, "l'udikovskij dialekt", "l'yyd'ikiel'", ljudy, lyydiäismurteet, "lüd'köi", "lüüdikiel'", lüüdin kiel’, людиковский язык]
 population: 10000
 country_id: RU
 country_name: Russia

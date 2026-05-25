@@ -2,6 +2,7 @@
 iso: two
 name: Tswapong
 autonym: Pedi
+alt_names: [Setswapong]
 population: 2000
 country_id: BW
 country_name: Botswana

@@ -2,6 +2,7 @@
 iso: raa
 name: Dungmali
 autonym: Arthare
+alt_names: [Arthare-Khesang, Dungmali Pûk, Dungmali-Bantawa, Dūngmālī]
 population: 220
 country_id: NP
 country_name: Nepal

@@ -2,6 +2,7 @@
 iso: ndd
 name: "Nde-Nsele-Nta"
 autonym: Nde
+alt_names: [Nigeria]
 population: 12000
 country_id: NG
 country_name: Nigeria

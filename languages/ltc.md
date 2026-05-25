@@ -1,7 +1,9 @@
 ---
 iso: ltc
 name: Late Middle Chinese
+name_zh: 中古汉语
 autonym: 漢語
+alt_names: ["Chinese, Late Middle"]
 population: null
 country_id: CN
 country_name: China

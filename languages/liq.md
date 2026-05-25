@@ -2,6 +2,7 @@
 iso: liq
 name: Libido
 autonym: Marako
+alt_names: [Język libido, Libido hizkuntza, Maraqo]
 population: 14623
 country_id: ET
 country_name: Ethiopia

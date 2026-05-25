@@ -2,6 +2,7 @@
 iso: kpx
 name: Mountain Koiali
 autonym: null
+alt_names: [Koiali (Mountain), "Koiali, Mountain", Koiari (Mountain), Mountain Koiari]
 population: 4000
 country_id: PG
 country_name: Papua New Guinea

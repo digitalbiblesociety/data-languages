@@ -2,6 +2,7 @@
 iso: ldg
 name: Lenyima
 autonym: Lenyima
+alt_names: [Anyima, Inyima]
 population: 13000
 country_id: NG
 country_name: Nigeria

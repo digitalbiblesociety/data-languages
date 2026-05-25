@@ -2,6 +2,7 @@
 iso: dhn
 name: Dhanki
 autonym: Dangi
+alt_names: [Dangri, Dangs Bhil, Dhanka, Kakachhu-Ki Boli, Tadavi, Tadvi Bhil]
 population: 203000
 country_id: IN
 country_name: India

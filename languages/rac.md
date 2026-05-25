@@ -2,6 +2,7 @@
 iso: rac
 name: Rasawa
 autonym: bahasa Rasawa
+alt_names: [Indonesia]
 population: 200
 country_id: ID
 country_name: Indonesia

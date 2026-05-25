@@ -2,6 +2,7 @@
 iso: bnx
 name: Bangubangu
 autonym: Bangobango
+alt_names: [Kibangobango, Kibangubangu]
 population: 246000
 country_id: CD
 country_name: DR Congo

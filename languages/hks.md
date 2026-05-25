@@ -1,7 +1,9 @@
 ---
 iso: hks
 name: Hong Kong Sign Language
+name_zh: 香港手语
 autonym: 香港手語
+alt_names: [Heung Kong Sau Yue]
 population: 20000
 country_id: HK
 country_name: Hong Kong

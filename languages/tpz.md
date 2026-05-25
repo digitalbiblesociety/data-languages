@@ -2,6 +2,7 @@
 iso: tpz
 name: Tinputz
 autonym: Vasuii
+alt_names: [Timputs, Vasui, Wasoi]
 population: 5350
 country_id: PG
 country_name: Papua New Guinea

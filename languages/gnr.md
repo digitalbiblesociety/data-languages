@@ -2,6 +2,7 @@
 iso: gnr
 name: Gureng Gureng
 autonym: "Gureng-Gureng"
+alt_names: [Corine, Curang Curang, Curang gurang, Curang-gurang, Curanggurang, GOORENG GOORENG, Goeng, Goonine, Goorang Goorang, Goorang-goorang, Gooranggorang, Goreng Goreng, Gurang, Gurang Gurang, Gurang-gurang, Guranggurang, Gureng gureng Curang gurang, Gurenggureng, Gurreng Gurreng, Kooranga, Koreng, Koreng Goreng, Koreng Koreng, Koreng-koreng, Korenggoreng, Korrengkorreng, Korrlup, Kuriny, Kurranga, Maroonee, Meeroni, Meerooni, Qualup tribe, Taribulung, Tulua, Warangu, Wide Bay tribe, Yamma, YungkonoCaracterrup]
 population: null
 country_id: AU
 country_name: Australia

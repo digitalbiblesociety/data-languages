@@ -1,6 +1,7 @@
 ---
 iso: ltg
 name: Latgalian
+name_zh: 拉特加萊語
 autonym: latgalīšu volūda
 population: 200000
 country_id: LV

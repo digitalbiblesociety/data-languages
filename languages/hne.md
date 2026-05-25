@@ -1,7 +1,9 @@
 ---
 iso: hne
 name: Chhattisgarhi
+name_zh: 切蒂斯格尔语
 autonym: छत्तीसगढ़ी
+alt_names: [Chhatisgarhi, Idioma chatisgarí, Język ćhattisgarhi, Khaltahi, Khatahi, Laria, Lenga chhattisgarhi, Lingua Chattisgarhi, Tchatisgarheg, Tsjhattisgarhi, சட்டிஸ்காரி மொழி, ภาษาฉัตติสครห์, チャッティースガリー語]
 population: 16300000
 country_id: IN
 country_name: India

@@ -2,6 +2,7 @@
 iso: bli
 name: Bolia
 autonym: " Lia"
+alt_names: [Bokoki, Bulia, Ntomba]
 population: 100000
 country_id: CD
 country_name: DR Congo

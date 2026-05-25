@@ -1,7 +1,9 @@
 ---
 iso: bpn
 name: Dzao Min
+name_zh: 藻敏方言
 autonym: Ba Pai
+alt_names: [Ba Pai Yao, Tsao-min, Yao Min, Yau Min, Zaomin]
 population: 60000
 country_id: CN
 country_name: China

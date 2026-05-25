@@ -2,6 +2,7 @@
 iso: uvh
 name: Uri
 autonym: Erap
+alt_names: [Uri Vehees, Urii]
 population: 2500
 country_id: PG
 country_name: Papua New Guinea

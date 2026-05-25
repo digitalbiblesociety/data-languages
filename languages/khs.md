@@ -1,6 +1,7 @@
 ---
 iso: khs
 name: Kasua
+name_zh: 卡蘇阿語
 autonym: null
 population: 600
 country_id: PG

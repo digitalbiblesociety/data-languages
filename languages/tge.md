@@ -2,6 +2,7 @@
 iso: tge
 name: Eastern Gorkha Tamang
 autonym: तामाङ
+alt_names: [Murmi, Tamang, "Tamang, Eastern Gorkha", "Tamang,EasternGorkha"]
 population: 3980
 country_id: NP
 country_name: Nepal

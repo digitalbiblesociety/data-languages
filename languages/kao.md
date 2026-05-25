@@ -1,7 +1,9 @@
 ---
 iso: kao
 name: Xaasongaxango
+name_zh: 哈松凯语
 autonym: Western Maninka
+alt_names: [Chassonke, Kasonke, Kasso, Kasson, Kassonke, Khasonke, Khassonka, Khassonké, Xaasonga, Xasonga, Xasonke]
 population: 714200
 country_id: ML
 country_name: Mali

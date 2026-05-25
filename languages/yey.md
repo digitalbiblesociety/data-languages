@@ -1,7 +1,9 @@
 ---
 iso: yey
 name: Yeyi
+name_zh: 耶依語
 autonym: Shiyɛyi
+alt_names: [Ceyei, Ciyei, Koba, Kuba, Seyei, Seyeyi, Shiyeyi, Yeei, Yei]
 population: 20000
 country_id: BW
 country_name: Botswana

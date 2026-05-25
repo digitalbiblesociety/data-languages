@@ -2,6 +2,7 @@
 iso: tbm
 name: Tagbu
 autonym: Tagba
+alt_names: [Tagbo]
 population: 17000
 country_id: CD
 country_name: DR Congo

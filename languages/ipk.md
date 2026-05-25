@@ -1,6 +1,7 @@
 ---
 iso: ipk
 name: Inupiaq
+name_zh: 伊努皮克语
 autonym: Iñupiatun
 population: 5580
 country_id: CA

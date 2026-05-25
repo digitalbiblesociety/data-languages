@@ -2,6 +2,7 @@
 iso: snm
 name: "Southern Ma'di"
 autonym: null
+alt_names: ["Ma'di, Southern"]
 population: 60000
 country_id: UG
 country_name: Uganda

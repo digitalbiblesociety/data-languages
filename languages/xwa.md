@@ -2,6 +2,7 @@
 iso: xwa
 name: Kwaza
 autonym: Koaiá
+alt_names: [Arara, Koaia, Koayá, Koiyá, Quaiá]
 population: 54
 country_id: BR
 country_name: Brazil

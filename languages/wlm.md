@@ -1,7 +1,9 @@
 ---
 iso: wlm
 name: Middle Welsh
+name_zh: 中古威尔斯语
 autonym: Kymraec
+alt_names: ["Welsh, Middle"]
 population: null
 country_id: GB
 country_name: United Kingdom

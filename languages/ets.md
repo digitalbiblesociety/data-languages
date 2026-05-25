@@ -2,6 +2,7 @@
 iso: ets
 name: Yekhee
 autonym: AfenmaiKukuruku (outdated)
+alt_names: ["\"Kukuruku\"", Afenmai, Etsako, Etsako (Yekhee), Etsakor, Iyekhee, Kukuruku, Sako]
 population: 486000
 country_id: NG
 country_name: Nigeria

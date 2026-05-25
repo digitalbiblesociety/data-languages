@@ -2,6 +2,7 @@
 iso: njt
 name: "Ndyuka-Trio Pidgin"
 autonym: null
+alt_names: [Suriname]
 population: null
 country_id: SR
 country_name: Suriname

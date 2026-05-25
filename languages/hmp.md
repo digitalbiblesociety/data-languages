@@ -1,7 +1,9 @@
 ---
 iso: hmp
 name: Northern Mashan Hmong
+name_zh: 北部土语
 autonym: Mashan Miao
+alt_names: [Hmo, Hmong, "Hmong, Northern Mashan", Hmung, Hsiung, Hunan Miao, Miao, "Miao, Northern Mashan", Northern Mashan Miao]
 population: 35000
 country_id: CN
 country_name: China

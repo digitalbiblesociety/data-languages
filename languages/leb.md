@@ -1,6 +1,7 @@
 ---
 iso: leb
 name: "Lala-Bisa"
+name_zh: Bisa人
 autonym: "Biza-Lala"
 population: 353000
 country_id: ZM

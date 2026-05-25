@@ -1,7 +1,9 @@
 ---
 iso: mad
 name: Madurese
+name_zh: 馬都拉語
 autonym: " بَهاسَ مَدورا"
+alt_names: [Bahasa Madura, Basa Madura, Basa Mathura, Język madurski, Lengua madureise, Língua maduresa, Madhura, Madoerees, Madura, Madura-Bali, Madurais, Maduran kieli, Maduresisch, Maduresiska, madourais, মাদুরীয় ভাষা, ภาษามาดูรา, マドゥラ語, 馬都拉語]
 population: 13600000
 country_id: ID
 country_name: Indonesia

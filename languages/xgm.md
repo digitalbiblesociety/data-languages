@@ -2,6 +2,7 @@
 iso: xgm
 name: Dharumbal
 autonym: Guwinmal
+alt_names: [Baiali, Bayali, Bieli, Biyali, Byellee, Byellel, Charumbul, Darambal, Darawal, Darumbal, Guñmal, Koinbal, Koinjmal, Kooinmarburra, Kooinmerburra, Kuinmurbara, Kungalburra, Kungmal, Mamburra, Ningebal, Orambul, Tarumbal, Tarumbul, Tharumbal, Urambal, "Wandandian (?)", Warabal, Yetimarala]
 population: null
 country_id: AU
 country_name: Australia

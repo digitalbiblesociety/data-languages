@@ -1,7 +1,9 @@
 ---
 iso: lgh
 name: Laghuu
+name_zh: 拉餘語
 autonym: Laopa
+alt_names: [Laopán, Lolo, Xá Phó, Yi]
 population: 300
 country_id: VN
 country_name: Vietnam

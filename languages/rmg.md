@@ -2,6 +2,7 @@
 iso: rmg
 name: Traveller Norwegian
 autonym: Tater Language
+alt_names: [Norwegian Traveller, "Norwegian, Traveller", Rodi, Rodi language]
 population: 100
 country_id: "NO"
 country_name: Norway

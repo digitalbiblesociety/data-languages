@@ -2,6 +2,7 @@
 iso: mxd
 name: Modang
 autonym: bahasa Modang
+alt_names: [Indonesia]
 population: 15300
 country_id: ID
 country_name: Indonesia

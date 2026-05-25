@@ -2,6 +2,7 @@
 iso: the
 name: Chitwania Tharu
 autonym: (polyphyletic)
+alt_names: [Chitawan Tharu, Chituan Tharu, "Tharu, Chitwania"]
 population: 285000
 country_id: NP
 country_name: Nepal

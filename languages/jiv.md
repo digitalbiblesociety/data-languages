@@ -1,7 +1,9 @@
 ---
 iso: jiv
 name: Shuar
+name_zh: 舒爾語
 autonym: Šiwar čičam
+alt_names: ["\"Jívaro\"", Achual, Achuale, Achuall, Achuar chicham, Achuar-Shiwiar, Achuara, Chicham, Chiwaro, Hivaro, Hivaro language area, Huambisa, Huambisa (wampis), Hívaro, Jibaro, Jivaro, Jíbaro, Jívaro, Maina, Shiwiar chicham, Shuar chicham, Shuara, Siurra, Siwora, Xivaro, Xívaro]
 population: 42300
 country_id: EC
 country_name: Ecuador

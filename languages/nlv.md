@@ -2,6 +2,7 @@
 iso: nlv
 name: Orizaba Nahuatl
 autonym: Āwilisāpan Nāwatl
+alt_names: [Eastern Nawa, Mexicano, Nahua de la Huasteca, Nahuatl, "Nahuatl, Orizaba", Náhuatl de la Sierra de Zongolica, Náhuatl du Huasteca, Orizaba Aztec]
 population: 120000
 country_id: MX
 country_name: Mexico

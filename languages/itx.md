@@ -2,6 +2,7 @@
 iso: itx
 name: Itik
 autonym: Betef
+alt_names: [Borto, Ittik, Ittik-Tor]
 population: 200
 country_id: ID
 country_name: Indonesia

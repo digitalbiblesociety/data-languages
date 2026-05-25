@@ -1,7 +1,9 @@
 ---
 iso: ofs
 name: Old Frisian
+name_zh: 古弗里西语
 autonym: Frysk
+alt_names: ["Frisian, Old"]
 population: null
 country_id: NL
 country_name: Netherlands

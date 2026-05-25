@@ -2,6 +2,7 @@
 iso: xpk
 name: Kulina Pano
 autonym: Kulina Pano
+alt_names: [Culina, Culino, Kulina, Kulina páno, Kulino, "Pano, Kulina"]
 population: 32
 country_id: BR
 country_name: Brazil

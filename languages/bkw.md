@@ -2,6 +2,7 @@
 iso: bkw
 name: Bekwel
 autonym: Bakwele
+alt_names: [Bakwil, Bekwie, Bekwil, Okpele]
 population: 12060
 country_id: CG
 country_name: Congo

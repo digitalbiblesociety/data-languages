@@ -2,6 +2,7 @@
 iso: mkx
 name: Kinamiging Manobo
 autonym: Kinamigin
+alt_names: [Cinamiguin, Kamigin, "Manobo, Cinamiguin", "Manobo, Kinamiging"]
 population: 12800
 country_id: PH
 country_name: Philippines

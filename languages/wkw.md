@@ -2,6 +2,7 @@
 iso: wkw
 name: Wakawaka
 autonym: Wakawaka
+alt_names: [Bujiebara, Dungibara, Dungidau, Duungidjawu, Enibura, Garumga, Garumngar, Gowrburra, Kaiabara, Koolaburra, Mungar, Nukunukubara, Wa, "Wa:bar", Waa, Wabar, Wacca Wacca, Wacca-Wacca, Wackar, Waga, Waga Waga, Waga-Waga, Wagawaga, Waka, Waka Waka, Waka WakaEnibura, Waka-Waka, Wakar, Wakar/Wackar, Wakka, Wakka Wakka, Wakka-Wakka, Wakkar, Wakkawakka, Waku wuka, Waku-wuka, Wapa, Wilili, Wililililee, Willillee, Woga, Wogga, Woka, Woka Woka, Woka-Woka, Wokka, Wokkari, Wuka Wuka, Wuli wuli, Wulili, Wuliwuli]
 population: null
 country_id: AU
 country_name: Australia

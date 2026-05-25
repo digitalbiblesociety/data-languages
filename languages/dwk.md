@@ -2,6 +2,7 @@
 iso: dwk
 name: Dawik Kui
 autonym: କୁଈ
+alt_names: ["Kui, Dawik"]
 population: 941000
 country_id: IN
 country_name: India

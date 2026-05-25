@@ -2,6 +2,7 @@
 iso: bui
 name: Bongili
 autonym: Bokiba
+alt_names: [Bongiri, Bungili, Bungiri]
 population: 4000
 country_id: CG
 country_name: Congo

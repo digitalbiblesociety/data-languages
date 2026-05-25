@@ -2,6 +2,7 @@
 iso: tey
 name: Tulishi
 autonym: Kuntulishi
+alt_names: [Thulishi, Tulesh, Tuleshi]
 population: 2500
 country_id: SD
 country_name: Sudan

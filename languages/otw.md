@@ -1,7 +1,9 @@
 ---
 iso: otw
 name: Ottawa
+name_zh: 渥太華語
 autonym: Nishnaabemwin
+alt_names: [Chippewa, Chippeway, Eastern Ojibwa, Odaawaa, Odawa, Ojibwa, Ojibway, Ojibwe, Ottawa (Canada), Ottawa (Michigan), Ottawa (île Walpole), Oyibua odahua (Isla de Walpole)]
 population: 7360
 country_id: CA
 country_name: Canada

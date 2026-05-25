@@ -1,7 +1,9 @@
 ---
 iso: mrw
 name: Maranao
+name_zh: 马拉瑙语
 autonym: Mëranaw
+alt_names: [Maranao-ngî, Maranaw, Minaranaw, Ranao, ภาษามาราเนา]
 population: 866000
 country_id: PH
 country_name: Philippines

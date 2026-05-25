@@ -1,7 +1,9 @@
 ---
 iso: ewe
 name: Ewe
+name_zh: 埃维语
 autonym: Èʋegbe
+alt_names: [Anló, Atjüló, Bahasa Ewe, Ebwe, Efe, Ehwe, Eibe, Eue, Eve, Eve kalba, Evea lingvo, Evu valoda, Ewe (Anglo), Eweeg, Ewen kieli, Eweština, Eʋegbe, Fiteny eve, Gbe, Gbi, Idioma ewe, Język ewe, Krepe, Krepi, Lingua ewe, Língua ewe, Popo, Vhe, Èdè efe, éwé, Эве, ევე, エウェ語]
 population: 4965300
 country_id: GH
 country_name: Ghana

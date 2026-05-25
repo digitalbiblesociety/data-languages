@@ -2,6 +2,7 @@
 iso: tgi
 name: Lawunuia
 autonym: Piva
+alt_names: [Nagarege, Nagarige, Naghareghe]
 population: 550
 country_id: PG
 country_name: Papua New Guinea

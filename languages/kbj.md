@@ -2,6 +2,7 @@
 iso: kbj
 name: Kari
 autonym: "Li-Kari-Li"
+alt_names: [Carí, Kare]
 population: 1000
 country_id: CD
 country_name: DR Congo

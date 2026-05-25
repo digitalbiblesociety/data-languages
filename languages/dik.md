@@ -2,6 +2,7 @@
 iso: dik
 name: Southwestern Dinka
 autonym: Thuɔŋjäŋ
+alt_names: [Dinka, "Dinka, Southwestern", Rek, West-Dinka, Western Dinka]
 population: 1370000
 country_id: SS
 country_name: South Sudan

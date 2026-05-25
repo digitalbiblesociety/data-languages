@@ -2,6 +2,7 @@
 iso: bxv
 name: Berakou
 autonym: Babalia
+alt_names: [Bubalia]
 population: null
 country_id: TD
 country_name: Chad

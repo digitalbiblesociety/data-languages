@@ -2,6 +2,7 @@
 iso: byw
 name: Belhariya
 autonym: Athpagari
+alt_names: [Athpahariya, Athpare, Athpariya, Belhare, Belhare language, Belhariye, ภาษาเบลฮาเร]
 population: 500
 country_id: NP
 country_name: Nepal

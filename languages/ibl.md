@@ -1,7 +1,9 @@
 ---
 iso: ibl
 name: Ibaloi
+name_zh: 伊瓦洛伊语
 autonym: Ibaloy
+alt_names: [Benguet-Igorot, Ibadoy, Igodor, Inibaloi, Nabaloi]
 population: 116000
 country_id: PH
 country_name: Philippines

@@ -2,6 +2,7 @@
 iso: gge
 name: "Gurr-goni"
 autonym: Gungurugoni
+alt_names: [Gorogone, Gudjartabiyi, Gun-Guragone, Gunagoragone, Gungarawoni, Gungoragone, Gungoragoni, "Gungoro:lgo:ngi", Gungorogone, Gungorragonni, Gungorrogone, Gungurulgungi, Guragone, Guragone language, Gurrgoni, Gurrogone, Gurrogoni, Gurugoni, Gutjertabia]
 population: 60
 country_id: AU
 country_name: Australia

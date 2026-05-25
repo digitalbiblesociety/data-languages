@@ -1,7 +1,9 @@
 ---
 iso: sov
 name: Sonsorol
+name_zh: 松索羅爾語
 autonym: Ramari Dongosaro
+alt_names: [Sonsorol-Tobi, Sonsorolais, Sonsorolese, Sonsorolese language, Sonsorolin kieli, Сонсорол]
 population: 600
 country_id: PW
 country_name: Palau

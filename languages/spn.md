@@ -2,6 +2,7 @@
 iso: spn
 name: Sanapaná
 autonym: Sanapana payvoma
+alt_names: ["Kelya'mok", Kisapang, Quilyacmoc, "Saapa'ang", Sanapana]
 population: 980
 country_id: PY
 country_name: Paraguay

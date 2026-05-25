@@ -1,7 +1,9 @@
 ---
 iso: hle
 name: Hlersu
+name_zh: 山苏语
 autonym: Sansu
+alt_names: [Lesu, Shansu, "勒寺帕 [ɬɛɾ55 sɿ55 pha21]", "勒寺潑 [ɬɛɾ55 sɿ55 pho21]", 勒蘇, 山蘇, 散蘇]
 population: 15000
 country_id: CN
 country_name: China

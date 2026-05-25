@@ -1,7 +1,9 @@
 ---
 iso: ncb
 name: Central Nicobarese
+name_zh: 中尼科巴语支
 autonym: Nicobar
+alt_names: [Central, Muot, Muöt, Nancoury, Nancowry, Nicobarese, Nicobarese (Nancowry), "Nicobarese, Central", Nicobarés central, Zentraler Dialekt]
 population: 1400
 country_id: IN
 country_name: India

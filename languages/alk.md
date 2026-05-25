@@ -1,7 +1,9 @@
 ---
 iso: alk
 name: Alak
+name_zh: 阿拉克語
 autonym: Harak
+alt_names: [Arak, Harlak, Hlak, Hrlak, Lingua alak, Slouy, ภาษาอาลัก]
 population: 4000
 country_id: LA
 country_name: Laos

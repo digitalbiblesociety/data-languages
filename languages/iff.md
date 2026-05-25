@@ -1,7 +1,9 @@
 ---
 iso: iff
 name: Ifo
+name_zh: 烏塔哈語
 autonym: Ifo
+alt_names: [Erromango, Utaha]
 population: null
 country_id: VU
 country_name: Vanuatu

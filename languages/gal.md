@@ -2,6 +2,7 @@
 iso: gal
 name: Galolen
 autonym: Galolen
+alt_names: [Galole, Galoli]
 population: 20080
 country_id: TL
 country_name: "Timor-Leste"

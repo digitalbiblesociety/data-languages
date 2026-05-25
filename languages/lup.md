@@ -2,6 +2,7 @@
 iso: lup
 name: Lumbu
 autonym: Ilumbu
+alt_names: [Baloumbou]
 population: 19700
 country_id: GA
 country_name: Gabon

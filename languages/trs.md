@@ -2,6 +2,7 @@
 iso: trs
 name: Chicahuaxtla Triqui
 autonym: "Triqui, Chicahuaxtla"
+alt_names: [Chicahuaxtla Trike, Chicahuaxtla Trique, Trike, Triki, Trique, Trique (Chicahuaxtla), Trique (de Chicahuaxtla), Triqui, Triqui de San Andrés Chicahuaxtla]
 population: 4060
 country_id: MX
 country_name: Mexico

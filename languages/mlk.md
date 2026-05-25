@@ -2,6 +2,7 @@
 iso: mlk
 name: Ilwana
 autonym: Malakote
+alt_names: [Kiwilwana, “Malakote”]
 population: 8000
 country_id: KE
 country_name: Kenya

@@ -2,6 +2,7 @@
 iso: phm
 name: Phimbi
 autonym: Chinsenga
+alt_names: [Pimbi]
 population: 6000
 country_id: MZ
 country_name: Mozambique

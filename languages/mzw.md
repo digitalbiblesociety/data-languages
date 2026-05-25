@@ -2,6 +2,7 @@
 iso: mzw
 name: Deg
 autonym: Mo
+alt_names: [Aculo, Buro, Buru, Degha, Dɛ, Janela, Mmfo]
 population: 44000
 country_id: GH
 country_name: Ghana

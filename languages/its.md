@@ -2,6 +2,7 @@
 iso: its
 name: Isekiri
 autonym: Itsekiri
+alt_names: [Chekiri, Irhobo, Iselema-Otu, Ishekiri, Iwere, Jekri, Selemo, Shekiri, Warri]
 population: 893000
 country_id: NG
 country_name: Nigeria

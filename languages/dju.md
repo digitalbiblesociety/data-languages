@@ -2,6 +2,7 @@
 iso: dju
 name: Kapriman
 autonym: Mugumute
+alt_names: [Sare, Wasare]
 population: null
 country_id: PG
 country_name: Papua New Guinea

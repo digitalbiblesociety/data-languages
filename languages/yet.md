@@ -2,6 +2,7 @@
 iso: yet
 name: Yetfa
 autonym: Biksi
+alt_names: [Biaksi, Inisine, Yetfa-Biksi]
 population: 1000
 country_id: ID
 country_name: Indonesia

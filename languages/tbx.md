@@ -2,6 +2,7 @@
 iso: tbx
 name: Kapin
 autonym: Katumene
+alt_names: [Sambio, Taiak, Tayek]
 population: 2350
 country_id: PG
 country_name: Papua New Guinea

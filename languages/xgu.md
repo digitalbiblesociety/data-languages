@@ -2,6 +2,7 @@
 iso: xgu
 name: Unggumi
 autonym: Ngarangari
+alt_names: [Ong Komi, Ongaranjan, Oonggoomi, Ungami, Ungkami, Ungumi, Uŋgumi, Wongkami, Wongkomi, Wungami, Wunggumi]
 population: null
 country_id: AU
 country_name: Australia

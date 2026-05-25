@@ -2,6 +2,7 @@
 iso: shr
 name: Shi
 autonym: Kishi
+alt_names: [Mashi]
 population: 654000
 country_id: CD
 country_name: DR Congo

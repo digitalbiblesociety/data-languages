@@ -2,6 +2,7 @@
 iso: lwh
 name: White Lachi
 autonym: Lipupõ
+alt_names: [Lachi, "Lachi, White", Lati, White, 白拉基]
 population: 1602
 country_id: VN
 country_name: Vietnam

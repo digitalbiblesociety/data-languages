@@ -1,7 +1,9 @@
 ---
 iso: bvr
 name: Burarra
+name_zh: 布拉拉语
 autonym: Anbarra
+alt_names: [Anbara, Bara, Barada, Barara, Barea, Barera, Baurera, Bawera, Birarra, Burada, Burara, Bureda, Burera, Burrara, Gadjalivia, Gidjingale, Gidjingali, Gidjingaliya, Gidjingaliya Gujingalia, Gu-jingaliya, Gudjalayia, Gujalabiya, Gujingalia, Gujingaliya, Gun-Guragone, Gunardba, Gurmadja madja, Jikai, Ku jarlapiyi, Tchikai, Tha ra ra burra, Thar ar ra burra, Toolginburra]
 population: 1050
 country_id: AU
 country_name: Australia

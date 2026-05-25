@@ -2,6 +2,7 @@
 iso: lcs
 name: "Lisabata-Nuniali"
 autonym: Lisabata
+alt_names: [Noniali, Nuniali]
 population: 1830
 country_id: ID
 country_name: Indonesia

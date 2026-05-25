@@ -2,6 +2,7 @@
 iso: poe
 name: San Juan Atzingo Popoloca
 autonym: "Popoloca, San Juan Atzingo"
+alt_names: [Atzingo Popoloca, Chocho-Popoloka, Eastern Popoloca, Eastern Popoloka, Ngigua, Popoloc, Popoloc oriental, Popoloca, Popoloca (San Juan Atzingo Puebla), Popoloca (San Juan Atzingo), Popoloca de San Juan Atzingo, Popoloca del Oriente, Popoloca oriental, San Juan Atzingo, Southern Popoloca]
 population: 3690
 country_id: MX
 country_name: Mexico

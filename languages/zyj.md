@@ -1,7 +1,9 @@
 ---
 iso: zyj
 name: Youjiang Zhuang
+name_zh: 右江壯語
 autonym: Gangjdoj
+alt_names: [Chuang, Youjiang, Yuchiang, Zhuang, Zhuang (Northern), "Zhuang, Youjiang"]
 population: 870000
 country_id: CN
 country_name: China

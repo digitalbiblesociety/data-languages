@@ -2,6 +2,7 @@
 iso: dds
 name: Donno So Dogon
 autonym: Kamba So
+alt_names: ["Dogon, Donno So", Donno So]
 population: 45300
 country_id: ML
 country_name: Mali

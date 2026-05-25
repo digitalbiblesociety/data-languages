@@ -2,6 +2,7 @@
 iso: qwa
 name: Corongo Ancash Quechua
 autonym: Huaylay
+alt_names: [Ancas, Ancash, Chinchaysuyo, Conchucos, North Central Kechua, Northern Quechua, "Quechua, Corongo Ancash"]
 population: 1700
 country_id: PE
 country_name: Peru

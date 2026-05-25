@@ -1,7 +1,9 @@
 ---
 iso: wrm
 name: Warumungu
+name_zh: 瓦鲁蒙古语
 autonym: Warramunga
+alt_names: [Aira manga, Aira-manga, Airamanga, Leenaranunga, Lenga warumungu, Uriminga, Waramanga, Waramunga, Waramungu, Warimunga, Warramanga, Warramonga, Warrmunga, Warrumunga, Warumunga, Wurmega]
 population: 520
 country_id: AU
 country_name: Australia

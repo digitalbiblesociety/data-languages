@@ -1,7 +1,9 @@
 ---
 iso: ndc
 name: Ndau
+name_zh: 恩道方言
 autonym: Chindau
+alt_names: [Lenga Ndau, Língua ndau, Ndzawu, Njao, Sofala, Southeast Shona]
 population: 1530000
 country_id: MZ
 country_name: Mozambique

@@ -2,6 +2,7 @@
 iso: byx
 name: Qaqet
 autonym: Baining
+alt_names: [Kakat, Makakat, Maqaqet, Neu-Pommern]
 population: 6350
 country_id: PG
 country_name: Papua New Guinea

@@ -2,6 +2,7 @@
 iso: zom
 name: Zou
 autonym: " Zomi"
+alt_names: [Jo, Kuki Chin, Zo, Zome, Zomeg, Zorni, ဇိုမီး]
 population: 87500
 country_id: MM
 country_name: Myanmar

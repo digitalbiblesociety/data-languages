@@ -2,6 +2,7 @@
 iso: mlq
 name: Western Maninkakan
 autonym: Western Maninka
+alt_names: [Malinka, Malinke, Maninga, Maninka, Maninka (Western), Maninka-Western, Maninkakan (Western), "Maninkakan, Western", Northwestern Maninka, Western Malinke]
 population: 2067260
 country_id: SN
 country_name: Senegal

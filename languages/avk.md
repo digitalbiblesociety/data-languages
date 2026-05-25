@@ -1,6 +1,7 @@
 ---
 iso: avk
 name: Kotava
+name_zh: 科塔瓦语
 autonym: Kotava
 population: 50
 country_id: FR

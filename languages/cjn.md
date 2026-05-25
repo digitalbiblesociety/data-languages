@@ -2,6 +2,7 @@
 iso: cjn
 name: Chenapian
 autonym: Chenap
+alt_names: [Tsenap, Zenap]
 population: 180
 country_id: PG
 country_name: Papua New Guinea

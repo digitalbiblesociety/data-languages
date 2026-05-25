@@ -2,6 +2,7 @@
 iso: lix
 name: Liabuku
 autonym: bahasa Liabuku
+alt_names: [Liabuka]
 population: 75
 country_id: ID
 country_name: Indonesia

@@ -2,6 +2,7 @@
 iso: seo
 name: Suarmin
 autonym: Asaba
+alt_names: [Akiapmin, Duranmin, Suarmín, Wani]
 population: 140
 country_id: PG
 country_name: Papua New Guinea

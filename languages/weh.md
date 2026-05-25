@@ -2,6 +2,7 @@
 iso: weh
 name: Weh
 autonym: null
+alt_names: [Cameroon]
 population: 6900
 country_id: CM
 country_name: Cameroon

@@ -1,7 +1,9 @@
 ---
 iso: clc
 name: Chilcotin
+name_zh: 奇尔科廷语
 autonym: Tŝinlhqut’in
+alt_names: [Chilcotín, Tinneh, "Tsilhqot'in", "Tsilhqot'in (Chilcotin)", Tsilhqot’in, Tzilkotin]
 population: 860
 country_id: CA
 country_name: Canada

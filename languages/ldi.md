@@ -2,6 +2,7 @@
 iso: ldi
 name: Laari
 autonym: Kikongo
+alt_names: [Kilari, Kongo, Laadi, Ladi, Lari]
 population: 159000
 country_id: CG
 country_name: Congo

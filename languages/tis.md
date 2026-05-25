@@ -2,6 +2,7 @@
 iso: tis
 name: Masadiit Itneg
 autonym: null
+alt_names: ["Itneg, Masadiit", Philippines]
 population: 7500
 country_id: PH
 country_name: Philippines

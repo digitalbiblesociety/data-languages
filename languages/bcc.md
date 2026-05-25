@@ -1,7 +1,9 @@
 ---
 iso: bcc
 name: Southern Balochi
+name_zh: 南俾路支语
 autonym: بلۏچی  Balòci
+alt_names: ["Balochi, Southern", Baluchi, Balutschi]
 population: 3636700
 country_id: PK
 country_name: Pakistan

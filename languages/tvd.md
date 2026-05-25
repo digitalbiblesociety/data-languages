@@ -2,6 +2,7 @@
 iso: tvd
 name: Tsuvadi
 autonym: tsɨVaɗi
+alt_names: [Abadi, Avadi, Evadi, Ibeto, Kambari, Kamberi, "Tsuva'di"]
 population: 130000
 country_id: NG
 country_name: Nigeria

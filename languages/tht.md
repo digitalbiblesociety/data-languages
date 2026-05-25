@@ -1,7 +1,9 @@
 ---
 iso: tht
 name: Tahltan
+name_zh: 塔爾坦語
 autonym: Tałtan ẕāke
+alt_names: [Nahanni, Tahl-tan, Tāłtān, Tāłtān (Tahltan)]
 population: 750
 country_id: CA
 country_name: Canada

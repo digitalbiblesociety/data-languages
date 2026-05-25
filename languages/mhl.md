@@ -2,6 +2,7 @@
 iso: mhl
 name: Mauwake
 autonym: Ulingan
+alt_names: [Mawake]
 population: 2390
 country_id: PG
 country_name: Papua New Guinea

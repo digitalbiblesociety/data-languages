@@ -2,6 +2,7 @@
 iso: tih
 name: Timugon Murut
 autonym: Temogun
+alt_names: [Murut, "Murut, Timugon", Tenom Murut, Timigan, Timigun, Timogon, Timogun, Timugon, Tumugun]
 population: 9000
 country_id: MY
 country_name: Malaysia

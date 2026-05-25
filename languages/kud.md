@@ -2,6 +2,7 @@
 iso: kud
 name: "'Auhelawa"
 autonym: Kurada
+alt_names: ["'Urada", Nuakata]
 population: 950
 country_id: PG
 country_name: Papua New Guinea

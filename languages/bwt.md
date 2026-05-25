@@ -2,6 +2,7 @@
 iso: bwt
 name: "Bafaw-Balong"
 autonym: Balong
+alt_names: [Ngoe]
 population: 8400
 country_id: CM
 country_name: Cameroon

@@ -2,6 +2,7 @@
 iso: aom
 name: Ömie
 autonym: Aomie
+alt_names: [Omie, Upper Managalasi]
 population: 1190
 country_id: PG
 country_name: Papua New Guinea

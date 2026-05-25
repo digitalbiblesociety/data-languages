@@ -2,6 +2,7 @@
 iso: tdj
 name: Tajio
 autonym: Kasimbar
+alt_names: [Adjio, "Ta'adjio", Tadjio, Tobada, "Tobada'"]
 population: 12000
 country_id: ID
 country_name: Indonesia

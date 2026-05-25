@@ -1,7 +1,9 @@
 ---
 iso: sma
 name: Southern Sami
+name_zh: 南萨米语
 autonym: åarjelsaemien gïele
+alt_names: ["\"Lapin kieli\"", "\"Lapon\"", "\"Lapp\"", "\"Lappic\"", "\"Lappish\"", "\"Lappisk\"", "\"Lopary\"", "\"Northern Lappish\"", "\"Norwegian Lapp\"", "\"Røroslappisk\"", "\"Südlappisch\"", Central, Eteläsaame, Lapp, Lapp (Southern), Lappic, Lappisch, Lappish, Lappish-Norwegian, Lappish-Swedish, Lenga Saami meridional, Lingua Samica Meridionalis, Lingua sami meridionale, Lullisámegiella, Língua sami meridional, Lõunasaami keel, North Lapp, Northern, Northern dialect area, Norwegian, Norwegisch-Lappisch, Pietų samių kalba, Saamen kieli, Saami, Saami (Central-South), Saami (Southern), Saami méridional, "Saami, South", Saamish Yiass, Saamskij jazyk, Saamí meridional, Sabme, Same, Same du Sud, Sami meridional, "Sami, Southern", Samic, Samieg ar su, South Saami, Southern Lapp, Suda samea lingvo, Suðursámiskt, Sydsamiska, Sørsamisk, Sørsamisk språk, Südlappisch, Südsamische Sprache, Sāme-giellâ, Vefsn, Western, Western dialect area, Westlappisch, Zuid-Samisch, lapin kieli, lapon, lappisk, lopary, same-, sami du Sud, schwedisch-lappische Dialektgruppe, southwest dialect, Јужен самиски јазик, Южносаамски език, Южносаамский язык]
 population: 600
 country_id: SE
 country_name: Sweden

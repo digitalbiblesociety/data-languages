@@ -2,6 +2,7 @@
 iso: nmc
 name: Ngam
 autonym: Sara Ngam
+alt_names: [Ngahm, Ngama, Ngamh, Sarngam]
 population: 61400
 country_id: TD
 country_name: Chad

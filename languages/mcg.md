@@ -1,7 +1,9 @@
 ---
 iso: mcg
 name: Mapoyo
+name_zh: 马波约人
 autonym: Mapoyo–Yavarana
+alt_names: [Mapayo, Mapoja lingvo, Mapoye, Mapoyo-Yavarana, Mapójó, Mopoi, Nepoye, Wanai]
 population: 365
 country_id: VE
 country_name: Venezuela

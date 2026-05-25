@@ -1,7 +1,9 @@
 ---
 iso: huu
 name: Murui Huitoto
+name_zh: 穆瑞胡图图语
 autonym: "Huitoto, Murui"
+alt_names: [Bue, Bué, Búe, Huitoto, Huitoto (Murui), Huitoto Murui, Mourouieg, Murai, Murui, Murui Witoto, Murui dialect, Murui-Witoto, Uitoto, Witoto, Witoto (Murui), Witoto murui, 𐍅𐌹𐍄𐍉𐍄𐍉𐍂𐌰𐌶𐌳𐌰]
 population: 1000
 country_id: PE
 country_name: Peru

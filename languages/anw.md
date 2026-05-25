@@ -1,7 +1,9 @@
 ---
 iso: anw
 name: Anaang
+name_zh: 阿南语
 autonym: Anang
+alt_names: [Annang]
 population: 2740000
 country_id: NG
 country_name: Nigeria

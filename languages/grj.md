@@ -2,6 +2,7 @@
 iso: grj
 name: Southern Grebo
 autonym: null
+alt_names: [Grebo, "Grebo, Southern", Jabo language]
 population: 187000
 country_id: LR
 country_name: Liberia

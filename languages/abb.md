@@ -2,6 +2,7 @@
 iso: abb
 name: Bankon
 autonym: Abo
+alt_names: [Abaw, Bo, Bon]
 population: 12000
 country_id: CM
 country_name: Cameroon

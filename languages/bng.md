@@ -2,6 +2,7 @@
 iso: bng
 name: Benga
 autonym: bɛŋga
+alt_names: [Qaqet]
 population: 5500
 country_id: GQ
 country_name: Equatorial Guinea

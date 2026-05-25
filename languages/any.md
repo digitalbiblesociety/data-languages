@@ -2,6 +2,7 @@
 iso: any
 name: Anyin
 autonym: Anyi
+alt_names: [Agni, "Agni'", Anyieg, Língua anyin, அன்யின் மொழி]
 population: 1506400
 country_id: CI
 country_name: "Côte d'Ivoire"

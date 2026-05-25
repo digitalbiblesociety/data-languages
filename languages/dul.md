@@ -2,6 +2,7 @@
 iso: dul
 name: Alabat Island Agta
 autonym: Alabat Island Agta
+alt_names: ["Agta de l'île d'Alabat", Agta de la isla Alabat, "Agta, Alabat Island", Alabat Island Dumagat, Inagta Alabat]
 population: 10
 country_id: PH
 country_name: Philippines

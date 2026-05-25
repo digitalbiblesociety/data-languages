@@ -2,6 +2,7 @@
 iso: tcp
 name: Tawr Chin
 autonym: Tawr Chin
+alt_names: ["Chin, Tawr", "Chin,Tawr", Tawr, Torr]
 population: 700
 country_id: MM
 country_name: Myanmar

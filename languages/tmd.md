@@ -2,6 +2,7 @@
 iso: tmd
 name: Haruai
 autonym: Haruai
+alt_names: [Haruai jezik, Harway, Taman, Waibuk, Wiyau, Wiyavik, Wiyaw, Wovan]
 population: 2000
 country_id: PG
 country_name: Papua New Guinea

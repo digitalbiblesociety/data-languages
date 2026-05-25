@@ -2,6 +2,7 @@
 iso: zmb
 name: Zimba
 autonym: South Binja
+alt_names: [Democratic Republic of the Congo]
 population: 120000
 country_id: CD
 country_name: DR Congo

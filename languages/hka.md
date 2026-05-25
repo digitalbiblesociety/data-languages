@@ -2,6 +2,7 @@
 iso: hka
 name: Kahe
 autonym: Kikahe
+alt_names: [Tanzania]
 population: 2700
 country_id: TZ
 country_name: Tanzania

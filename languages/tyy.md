@@ -2,6 +2,7 @@
 iso: tyy
 name: Kwanka
 autonym: Kadun
+alt_names: [Boi, Tiya, Tiyaa, Ya]
 population: 20000
 country_id: NG
 country_name: Nigeria

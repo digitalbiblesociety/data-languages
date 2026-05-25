@@ -2,6 +2,7 @@
 iso: dad
 name: Marik
 autonym: Ham
+alt_names: [Dami]
 population: 3500
 country_id: PG
 country_name: Papua New Guinea

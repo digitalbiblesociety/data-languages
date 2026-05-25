@@ -2,6 +2,7 @@
 iso: kul
 name: Kulere
 autonym: Akande
+alt_names: [Akandi, Kande, Korom Boye, Tof]
 population: 15600
 country_id: NG
 country_name: Nigeria

@@ -2,6 +2,7 @@
 iso: fmp
 name: "Fe'fe'"
 autonym: " Fotouni"
+alt_names: [Bafang, "Bamileke-Fe'fe'", "Fe'efe'e", "Fe'fe", "Fe'fe' jezik", "Fe?fe?", Feefee, Fefe, Nufi]
 population: 140000
 country_id: CM
 country_name: Cameroon

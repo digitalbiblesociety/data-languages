@@ -2,6 +2,7 @@
 iso: mgq
 name: Malila
 autonym: Ishimalilia
+alt_names: [Kimalila, Malilia, Shimalilia]
 population: 78000
 country_id: TZ
 country_name: Tanzania

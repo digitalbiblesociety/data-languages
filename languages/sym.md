@@ -2,6 +2,7 @@
 iso: sym
 name: Maya Samo
 autonym: Sane
+alt_names: [Northeastern Samo, Northern Samo, Sa, Samo, "Samo, Maya", San, Somono]
 population: 38000
 country_id: BF
 country_name: Burkina Faso

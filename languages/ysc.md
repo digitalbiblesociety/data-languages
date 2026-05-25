@@ -1,6 +1,7 @@
 ---
 iso: ysc
 name: Yassic
+name_zh: 傑西克方言
 autonym: jász
 population: null
 country_id: HU

@@ -2,6 +2,7 @@
 iso: ncq
 name: Northern Katang
 autonym: null
+alt_names: ["Katang, Northern"]
 population: 65000
 country_id: LA
 country_name: Laos

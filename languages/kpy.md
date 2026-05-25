@@ -1,7 +1,9 @@
 ---
 iso: kpy
 name: Koryak
+name_zh: 科里亚克语
 autonym: чавʼчывэн; чавʼчываелыел
+alt_names: [Coriaco, Idioma coriaco, Język koriacki, Korak, Koriak, Koriakų kalba, Korjaaks, Korjaka lingvo, Korjaki keel, Korjakin kieli, Korjakische, Korjakische Sprache, Korjakisk, Koræiki, Kuoriaku kalba, Língua koriaque, Nymylan, Коряк чĕлхи, корякский язык, нымылан, 科里亚克语, 코랴크어]
 population: 3500
 country_id: RU
 country_name: Russia

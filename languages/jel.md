@@ -2,6 +2,7 @@
 iso: jel
 name: Yelmek
 autonym: Jab
+alt_names: [Jabsch, Jelmek, Jelmik]
 population: 400
 country_id: ID
 country_name: Indonesia

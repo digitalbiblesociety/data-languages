@@ -1,7 +1,9 @@
 ---
 iso: pmy
 name: Papuan Malay
+name_zh: 巴布亞馬來語
 autonym: Irian Malay
+alt_names: [Irianese, Malaiisch, Malay, "Malay, Papuan", Malayisch]
 population: 500000
 country_id: ID
 country_name: Indonesia

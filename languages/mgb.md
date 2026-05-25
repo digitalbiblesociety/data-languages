@@ -2,6 +2,7 @@
 iso: mgb
 name: Mararit
 autonym: Abiri
+alt_names: [Abiyi, Ebiri, Mararet, Marariteg, Merarit]
 population: 15376
 country_id: TD
 country_name: Chad

@@ -2,6 +2,7 @@
 iso: gbg
 name: Gbanziri
 autonym: Banziri
+alt_names: [Gbandere, Gbanzili, "Gbanzili-'Bolaka"]
 population: 14500
 country_id: CF
 country_name: Central African Republic

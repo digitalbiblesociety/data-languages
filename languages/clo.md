@@ -1,7 +1,9 @@
 ---
 iso: clo
 name: Lowland Oaxaca Chontal
+name_zh: 低地琼塔尔语
 autonym: Lowland Oaxaca Chontal
+alt_names: [Chontal, Chontal (Huamelultec Oaxaca), Chontal de Oaxaca (Costa), Chontal de la Costa de Oaxaca, Chontal of Oaxaca, "Chontal, Lowland Oaxaca", Coastal Tequistlatec, Huamelula Chontal, Huamelultec, Huamelultec Oaxaca Chontal, Huamelulteco, Lowland Chontal, Oaxaca Chontal, Tluamelula]
 population: 950
 country_id: MX
 country_name: Mexico

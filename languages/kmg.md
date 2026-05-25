@@ -2,6 +2,7 @@
 iso: kmg
 name: Kâte
 autonym: null
+alt_names: [Kai, Kate, Kâte Dong]
 population: 6130
 country_id: PG
 country_name: Papua New Guinea

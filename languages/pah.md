@@ -2,6 +2,7 @@
 iso: pah
 name: Tenharim
 autonym: Kawahib
+alt_names: [Cabahyba, Caripuna, Cauaiua, Cauhib, Cawahib, Diahoi, Diahui, Diahói, Diarroi, Diarrui, Djahui, Jahoi, Jahui, Jauareta-Tapiia, Jiahui, Juma, Kagwahiv, Kagwahiva, Kagwahív, Karipuna, Karipuná, Kawahib/Paranawat/Pawaté-Wirafed, Kawaib, Paranawat, Parintintim, Parintintin, Parintintín, Parintintín/Tenharim/Juma, Pawaté-Wirafed, Tenharem, Tenharin, Tenharím, Tenharín, Tukumanfed, Uru-eu-uau-uau, Yuma]
 population: 360
 country_id: BR
 country_name: Brazil

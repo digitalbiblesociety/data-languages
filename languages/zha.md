@@ -1,7 +1,9 @@
 ---
 iso: zha
 name: Zhuang
+name_zh: 壮语
 autonym: Vahcuengh
+alt_names: [Chuang]
 population: 16000000
 country_id: CN
 country_name: China

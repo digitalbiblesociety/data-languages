@@ -2,6 +2,7 @@
 iso: tlj
 name: "Talinga-Bwisi"
 autonym: Bwisi
+alt_names: [Bwissi, Kitalinga, Lubwisi, Lubwissi, Mawissi, Olubwisi, Talinga, Talinge]
 population: 131900
 country_id: UG
 country_name: Uganda

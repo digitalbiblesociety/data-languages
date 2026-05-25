@@ -2,6 +2,7 @@
 iso: qui
 name: Quileute
 autonym: Kʷòʔlíyotʼ
+alt_names: [Quile-ute, Quileutés, Quillayute]
 population: 300
 country_id: US
 country_name: United States

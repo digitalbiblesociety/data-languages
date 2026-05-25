@@ -2,6 +2,7 @@
 iso: huf
 name: Humene
 autonym: null
+alt_names: [Lakume, Manukolu]
 population: 940
 country_id: PG
 country_name: Papua New Guinea

@@ -2,6 +2,7 @@
 iso: ctn
 name: Chhintange
 autonym: छिन्ताङ्
+alt_names: [Chhintang, Chintang, Chintang RÃ»ng, Chintang Rûng, Chintang language, Chintán, Tchintangeg, Teli]
 population: 1500
 country_id: NP
 country_name: Nepal

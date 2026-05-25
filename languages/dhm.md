@@ -2,6 +2,7 @@
 iso: dhm
 name: Zemba
 autonym: Dhimba
+alt_names: [Chimba, Dimba, Himba, Luzimba, Oluthimba, Otjidhimba, Simba, Tjimba]
 population: 25000
 country_id: AO
 country_name: Angola

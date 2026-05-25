@@ -2,6 +2,7 @@
 iso: rrt
 name: Arritinngithigh
 autonym: null
+alt_names: [Adetingiti, Adithinngithigh, Aritinngitigh]
 population: null
 country_id: AU
 country_name: Australia

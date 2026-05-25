@@ -1,6 +1,7 @@
 ---
 iso: ils
 name: International Sign
+name_zh: 國際手語
 autonym: Gestuno
 population: null
 country_id: IT

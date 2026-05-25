@@ -2,6 +2,7 @@
 iso: aci
 name: "Aka-Cari"
 autonym: "Aka-Cari"
+alt_names: [Aka-Charíar, Andamanese, Cari, Chariar, Great Andamanese, Lèngua Aka-Cari, Tšari]
 population: null
 country_id: IN
 country_name: India

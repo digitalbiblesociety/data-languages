@@ -2,6 +2,7 @@
 iso: rgu
 name: Ringgou
 autonym: Rikou
+alt_names: [Eastern Rote, Rote, Rote Timur, Roti, Rotinese, Rotti]
 population: 12000
 country_id: ID
 country_name: Indonesia

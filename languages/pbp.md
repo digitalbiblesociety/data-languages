@@ -2,6 +2,7 @@
 iso: pbp
 name: Badyara
 autonym: Jaad
+alt_names: [Badara, Badian, Badiara, Badiaranké, Badjara, Badyaranke, Bandjana, Bigola, Gola, Padjade, Pajade, Pajadinka]
 population: 12730
 country_id: GN
 country_name: Guinea

@@ -1,7 +1,9 @@
 ---
 iso: bgg
 name: Bugun
+name_zh: 布贡语
 autonym: Bugun
+alt_names: [Bugen, Kho, Khoa, Khowa]
 population: 900
 country_id: IN
 country_name: India

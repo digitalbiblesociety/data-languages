@@ -1,7 +1,9 @@
 ---
 iso: pim
 name: Powhatan
+name_zh: 波瓦坦語
 autonym: Virginia Algonkian
+alt_names: [Powhatan-språket, Virginia Algonquian, Virginia Algonquianealg, Virginia Algonquin]
 population: null
 country_id: US
 country_name: United States

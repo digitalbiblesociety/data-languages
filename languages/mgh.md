@@ -1,7 +1,9 @@
 ---
 iso: mgh
 name: "Makhuwa-Meetto"
+name_zh: 马库阿-梅托语
 autonym: Emakuana
+alt_names: [Emeto, Imakua, Imeetto, Kimakua, Makhua, Makoa, Makua, Makuwa, Maquoua, Mato, Medo, Meetto, Meto, Metto, Mêto]
 population: 1748630
 country_id: MZ
 country_name: Mozambique

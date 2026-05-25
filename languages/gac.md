@@ -2,6 +2,7 @@
 iso: gac
 name: Mixed Great Andamanese
 autonym: "Aka-Jeru"
+alt_names: ["Great Andamanese, Mixed"]
 population: null
 country_id: IN
 country_name: India

@@ -2,6 +2,7 @@
 iso: xpb
 name: "Northeastern Tasmanian\r"
 autonym: Northeastern Tasmanian
+alt_names: [Pyemmairrener, "Tasmanian, Northeastern"]
 population: null
 country_id: AU
 country_name: Australia

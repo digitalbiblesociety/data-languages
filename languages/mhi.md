@@ -1,7 +1,9 @@
 ---
 iso: mhi
 name: "Ma'di"
+name_zh: 馬氐語
 autonym: "Ma'diti"
+alt_names: ["Ma'adi", Madi, Madi language]
 population: 326000
 country_id: UG
 country_name: Uganda

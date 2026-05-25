@@ -2,6 +2,7 @@
 iso: ldm
 name: Landoma
 autonym: Cocoli
+alt_names: [Landouman, Landuma, Temne, Tiapi, Tyapi, Tyop, Tyopi]
 population: 14400
 country_id: GN
 country_name: Guinea

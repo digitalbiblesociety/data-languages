@@ -2,6 +2,7 @@
 iso: obo
 name: Obo Manobo
 autonym: Obo Manobo
+alt_names: [Bagobo, Kidapawan Manobo, "Manobo, Obo", Obo Bagobo]
 population: 60000
 country_id: PH
 country_name: Philippines

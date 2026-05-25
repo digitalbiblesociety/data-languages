@@ -2,6 +2,7 @@
 iso: ayb
 name: Ayizo Gbe
 autonym: Ayizo
+alt_names: [Ayizo-Gbe, Ayzo, "Gbe, Ayizo"]
 population: 476000
 country_id: BJ
 country_name: Benin

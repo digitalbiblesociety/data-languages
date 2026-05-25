@@ -2,6 +2,7 @@
 iso: wux
 name: Wulna
 autonym: Beriguruk
+alt_names: [Berrigurruk, Berugurruk, Birrigarak, Djeramanga, Djerimanga, Erei, Eri, Jermangel, Perrigurruk, Rereri, Reveri for Beriguruk, Waak, Wolna, Woolna, Woolnah, Woolner, Woolner for Djerimanga, Woolnough, Wulnar, Wuna, Wunna]
 population: 1981
 country_id: AU
 country_name: Australia

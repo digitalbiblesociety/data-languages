@@ -1,7 +1,9 @@
 ---
 iso: ale
 name: Aleut
+name_zh: 阿留申語
 autonym: Уна́ӈам тунуу́
+alt_names: ["\"aleut (occidental, îles du Commandeur)\"", "\"aleutiano (occidental, islas del Comandante)\"", Aleut (Eastern), Aleut (occidental), Aleut (oriental), Aleutian, Aleutische Sprache, Aleutisk, Aleutisk språk, Aleutiska, Aleutià, Aleutti, Aleutíska, Aleutčina, Aléoute, Amara, An Ailiúitis, Eastern, Idioma aleutiano, Język aleucki, Lingua aleutiana, Lingua aleutina, Língua aleúte, Unangam Tunuu, Unangan, Unangany, Unanghan, Ungangan, Łéngoa ałeutina, Унáҥам Тунý, Унаңан, алеутский язык, ალეუტური ენა, アリュート語, アレウト語, 阿留申语]
 population: 155
 country_id: US
 country_name: United States

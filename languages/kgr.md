@@ -2,6 +2,7 @@
 iso: kgr
 name: Abun
 autonym: A Nden
+alt_names: [Karon, Karon Pantai, Madik, Manif, Yimbun]
 population: 3000
 country_id: ID
 country_name: Indonesia

@@ -2,6 +2,7 @@
 iso: aid
 name: Alngith
 autonym: null
+alt_names: [Alingid, Alingit, Alngid, Alngidh, Alngith jezik, Alŋit̯, Laynngith, Laynngithy, Laynŋit̯, Lenga alngith, Lengiti, Lenngiti, Limrett, Winduwinda]
 population: null
 country_id: AU
 country_name: Australia

@@ -2,6 +2,7 @@
 iso: djr
 name: Djambarrpuyngu
 autonym: "Dhay'yi"
+alt_names: [Djambar-pinga, Djambarbingo, Djambarbino, Djambarbwingo, Djambarbwingu, Djambarpingu, Djambarrpuyng, Djambarwingu, Gujula, Gwiyula, Jambapuing, Jambapuingo, Jambarboinga, Jum-bapoingo, Naladaer, Ngaladharr, Ngalado, Tchambarupi, Tjambarpoing, Tjambarupingu]
 population: 4280
 country_id: AU
 country_name: Australia

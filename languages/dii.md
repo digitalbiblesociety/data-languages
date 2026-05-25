@@ -2,6 +2,7 @@
 iso: dii
 name: Dimbong
 autonym: Dimbong
+alt_names: [Bape, Bumbong, Dimbongo, Kaalong, Kalong, Lakaalong, Lambong, Mbong, Palong]
 population: 140
 country_id: CM
 country_name: Cameroon

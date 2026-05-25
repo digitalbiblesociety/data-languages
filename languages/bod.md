@@ -1,7 +1,9 @@
 ---
 iso: bod
 name: Tibetan
+name_zh: 藏语
 autonym: བོད་སྐད་
+alt_names: [Bhokha, Bhotanta, Bhotia, Bhōṭiā of Tibet, Bod Skad, Central Tibetan, Dbus, Dbusgtsang, Dzad, Huniyā, Jad, Kazi, Lama, Lhasa dialect, Phoke, Pohbetian, Poke, Shalgno, Spiti, Spitian, Tebilian, Tibate, Tibetan (Central), Tibetan (Lhasa), Tibetan (Modern Literary), Tibetan (Shigatse), Tibetan (Standard Spoken), "Tibetan, Central", U, Wei, Weizang, Zang, Zang Wen, tibétain]
 population: 1186020
 country_id: CN
 country_name: China

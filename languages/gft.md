@@ -2,6 +2,7 @@
 iso: gft
 name: Gafat
 autonym: null
+alt_names: [Gafat jezik, Gafateg, Język gafat]
 population: null
 country_id: ET
 country_name: Ethiopia

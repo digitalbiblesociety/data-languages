@@ -2,6 +2,7 @@
 iso: ifk
 name: Tuwali Ifugao
 autonym: Gilipanes
+alt_names: ["Ifugao, Tuwali", Ifugu, Kiangan Ifugao, Quiangan, Tuwali]
 population: 30000
 country_id: PH
 country_name: Philippines

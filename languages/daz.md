@@ -2,6 +2,7 @@
 iso: daz
 name: Dao
 autonym: Maniwo
+alt_names: ["\"X-Ray\"", Moi-Wadea]
 population: 250
 country_id: ID
 country_name: Indonesia

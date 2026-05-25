@@ -2,6 +2,7 @@
 iso: nsh
 name: Ngoshie
 autonym: Ngishe
+alt_names: [Oshie]
 population: 9200
 country_id: CM
 country_name: Cameroon

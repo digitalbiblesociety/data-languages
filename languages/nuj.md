@@ -2,6 +2,7 @@
 iso: nuj
 name: Nyole
 autonym: Lunyole
+alt_names: [Nyule, Nyuli]
 population: 530000
 country_id: UG
 country_name: Uganda

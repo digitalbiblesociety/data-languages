@@ -2,6 +2,7 @@
 iso: kie
 name: Kibet
 autonym: Runga
+alt_names: [Kaben, Kabentang, Kibeet, Kibeit]
 population: 18500
 country_id: TD
 country_name: Chad

@@ -2,6 +2,7 @@
 iso: urr
 name: Lehalurup
 autonym: Divers Bay
+alt_names: [Banks-Inseln, East Ureparapara, Löyöp, Ureparapara]
 population: 250
 country_id: VU
 country_name: Vanuatu

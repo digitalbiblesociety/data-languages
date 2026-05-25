@@ -2,6 +2,7 @@
 iso: taw
 name: Tai
 autonym: Ti
+alt_names: [Tay]
 population: 1000
 country_id: PG
 country_name: Papua New Guinea

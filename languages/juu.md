@@ -2,6 +2,7 @@
 iso: juu
 name: Ju
 autonym: null
+alt_names: [Sho]
 population: 900
 country_id: NG
 country_name: Nigeria

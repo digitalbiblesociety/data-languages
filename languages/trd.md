@@ -1,6 +1,7 @@
 ---
 iso: trd
 name: Turi
+name_zh: 图里语
 autonym: तुरी
 population: 2000
 country_id: IN

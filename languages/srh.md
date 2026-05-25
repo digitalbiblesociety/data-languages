@@ -1,7 +1,9 @@
 ---
 iso: srh
 name: Sarikoli
+name_zh: 色勒库尔语
 autonym: Tujik ziv (Тоҷик зив)
+alt_names: [(中國)塔吉克語, Lenga Sarikoli, Lingua sariculiana, Salikur, Sarikoli keel, Sarikolin kieli, Sariqoli, Sarykoly, Tadzik, Tajik, Tajiki, Саръколски език, ภาษาซาริโกลี, 色勒库尔语, 色勒庫爾語, 薩里庫爾語]
 population: 16000
 country_id: CN
 country_name: China

@@ -2,6 +2,7 @@
 iso: brn
 name: Boruca
 autonym: Bronca
+alt_names: [Boruka, Borunca, Borunka, Brunca, Brunka, Brúncajc, Brúnkajk, Burnca, Burunca]
 population: 1000
 country_id: CR
 country_name: Costa Rica

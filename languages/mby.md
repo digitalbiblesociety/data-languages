@@ -2,6 +2,7 @@
 iso: mby
 name: Memoni
 autonym: "ميمنی, મેમોની"
+alt_names: [Pakistan]
 population: null
 country_id: PK
 country_name: Pakistan

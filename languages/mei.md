@@ -2,6 +2,7 @@
 iso: mei
 name: Midob
 autonym: Meidob
+alt_names: [Darfur-Nubian, Meidob Nubian, Midob (Darfur Nubian), Midob Nubian, Midobi, Nubian (Meidob), Tid, Tid-N-Aal, Tidda]
 population: 85000
 country_id: SD
 country_name: Sudan

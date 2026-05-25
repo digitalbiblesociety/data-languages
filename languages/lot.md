@@ -2,6 +2,7 @@
 iso: lot
 name: Otuho
 autonym: Lotuko
+alt_names: [Latooka, Lattuka, Latuka, Latuko, Lotoukoeg, Lotuho, Lotuka, Lotuxo, Lowudo, Olotorit, Otuxo]
 population: 312000
 country_id: SS
 country_name: South Sudan

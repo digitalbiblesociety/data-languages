@@ -1,7 +1,9 @@
 ---
 iso: kua
 name: Kuanyama
+name_zh: 夸摩马语
 autonym: Oshikwanyama
+alt_names: [Bahasa Kwanyama, Cuanhama, Cuañama, Humba, Idioma kuanyama, Język kwanyama, Kuanjama lingvo, Kwancama, Kwanjama, Kwanyama, Kwanyamaeg, Língua cuanhama, Ochikwanyama, Otjiwambo, Ovambo, Owambo, Oxikuanyama, Кваньяма, क्वान्यामा भाषा, クワニャマ語]
 population: 1308000
 country_id: AO
 country_name: Angola

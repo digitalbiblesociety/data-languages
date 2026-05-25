@@ -1,7 +1,9 @@
 ---
 iso: bhp
 name: Bima
+name_zh: 比馬語
 autonym: Nggahi Mbojo
+alt_names: [Bimanese, Komodo]
 population: 500000
 country_id: ID
 country_name: Indonesia

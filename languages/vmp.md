@@ -2,6 +2,7 @@
 iso: vmp
 name: Soyaltepec Mazatec
 autonym: (San Miguel Soyaltepec)
+alt_names: [Ayautla Soyaltepec Masateko, Masateko, Mazatec, "Mazatec, Soyaltepec", Mazateco, Mazateco de Ayautla, Mazateco de Ixcatlán, Mazateco de San Miguel Soyaltepec, Mazateco de Soyaltepec, Mazateco de Temascal, "Mazatèque d'Ayautla", "Mazatèque d'Ixcatlán", Mazatèque de Soyaltepec, Soyaltepec]
 population: 27500
 country_id: MX
 country_name: Mexico

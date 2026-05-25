@@ -1,7 +1,9 @@
 ---
 iso: rjs
 name: Rajbanshi
+name_zh: 拉杰班希语
 autonym: Gangai
+alt_names: [Koch, Koche, Rajbangsi, Rajbansi]
 population: 147000
 country_id: NP
 country_name: Nepal

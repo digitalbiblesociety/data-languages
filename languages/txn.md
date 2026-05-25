@@ -2,6 +2,7 @@
 iso: txn
 name: West Tarangan
 autonym: Tarangan Barat
+alt_names: [Aroesch, Aru, Tarangan, Tarangan (West), "Tarangan, West", West Trangan]
 population: 6480
 country_id: ID
 country_name: Indonesia

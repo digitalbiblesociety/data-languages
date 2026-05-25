@@ -2,6 +2,7 @@
 iso: kbi
 name: Kaptiau
 autonym: Kapitiauw
+alt_names: [Kaptiauw]
 population: 230
 country_id: ID
 country_name: Indonesia

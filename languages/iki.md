@@ -2,6 +2,7 @@
 iso: iki
 name: Iko
 autonym: null
+alt_names: [Nigeria]
 population: 5000
 country_id: NG
 country_name: Nigeria

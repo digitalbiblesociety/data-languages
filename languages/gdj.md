@@ -1,7 +1,9 @@
 ---
 iso: gdj
 name: Gurdjar
+name_zh: 古贾尔语
 autonym: Kurtjar
+alt_names: [Araba, Areba, Cudjeral, Curjur, Gilbert River tribe, Goom gharra, Gunggara, Gurdyar, Ikarranggal, Koonkurri, Kortyera, Kunggara, Kuritjari, Kurrtjarr, Kurrtyar, Kurtijar, Kurtjjar, Kutjar, Rib, Ungorri]
 population: null
 country_id: AU
 country_name: Australia

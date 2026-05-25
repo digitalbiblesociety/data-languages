@@ -1,7 +1,9 @@
 ---
 iso: fif
 name: "Faifi\r"
+name_zh: 費法語
 autonym: "ʾal-lahja ʾal-Fayfiya, Ḫawlāniya"
+alt_names: [Faifi]
 population: 50000
 country_id: SA
 country_name: Saudi Arabia

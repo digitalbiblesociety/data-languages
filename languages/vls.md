@@ -1,7 +1,9 @@
 ---
 iso: vls
 name: Vlaams
+name_zh: 西佛兰德语
 autonym: "West-Vlaams"
+alt_names: [Flamand, Flamand occidental, Flamandu kalba, Flamandų kalba, Flamanski jezik, Flamenco occidental, Flamländska, Flamsk, Flandra lingvo, Flandrezeg, Flandriera, Flemisc sprǣc, Flemish, Flemish language, Flämische Dialekte, Flæmska, Idioma flamenco, Język flamandzki, Limba flamandă, Lingua Flandrica, Lingua fiamminga, Lèngoa fiamminga, Língua flamenga, Vlaams-ngî, Vlaemsch, Φλαμανδική γλώσσα, Фламандиаг æвзаг, Фламандски диалекти, Фламандский язык, Фламански јазик, Фламански језик, ফ্লেমিশ ভাষা, ภาษาเฟลมิช, ᐱᓚᒥᔅ/pilamis, フラマン語, 佛兰芒语]
 population: 6029500
 country_id: BE
 country_name: Belgium

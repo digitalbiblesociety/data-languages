@@ -1,7 +1,9 @@
 ---
 iso: ngb
 name: Northern Ngbandi
+name_zh: 北恩班迪语
 autonym: Baza
+alt_names: [Dendi, Mbangi, Mongwandi, Ngbandi, "Ngbandi, Northern", Ngwandi, Yakoma (Sango)]
 population: 250000
 country_id: CD
 country_name: DR Congo

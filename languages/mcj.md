@@ -2,6 +2,7 @@
 iso: mcj
 name: Mvanip
 autonym: Mvano
+alt_names: [Magu, Mvanlip, Mvanon, Mvanöp]
 population: 100
 country_id: NG
 country_name: Nigeria

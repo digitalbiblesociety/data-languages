@@ -2,6 +2,7 @@
 iso: ala
 name: Alago
 autonym: Idoma Noku
+alt_names: [Arago, Aragu, Argo, Idoma Nokwu]
 population: 100000
 country_id: NG
 country_name: Nigeria

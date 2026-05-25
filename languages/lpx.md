@@ -2,6 +2,7 @@
 iso: lpx
 name: Lopit
 autonym: Lafiit
+alt_names: [Lafit, Lafite, Lofit, Lopid, Loppit]
 population: 117000
 country_id: SS
 country_name: South Sudan

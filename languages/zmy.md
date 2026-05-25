@@ -2,6 +2,7 @@
 iso: zmy
 name: Mariyedi
 autonym: Berringen
+alt_names: [Marijadi, Marijedi, Murijadi]
 population: null
 country_id: AU
 country_name: Australia

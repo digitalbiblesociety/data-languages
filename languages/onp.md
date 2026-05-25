@@ -1,7 +1,9 @@
 ---
 iso: onp
 name: Sartang
+name_zh: 萨尔当语
 autonym: But(pa)
+alt_names: [Bootpa, But, But Monpa, But Pa, But-pa, Matchopa, Matchopa Nagnoo, Monpa]
 population: 1000
 country_id: IN
 country_name: India

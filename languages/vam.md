@@ -2,6 +2,7 @@
 iso: vam
 name: Vanimo
 autonym: Duso
+alt_names: [Dumo, Manimo, Wanimo]
 population: 2670
 country_id: PG
 country_name: Papua New Guinea

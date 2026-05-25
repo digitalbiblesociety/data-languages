@@ -1,7 +1,9 @@
 ---
 iso: aja
 name: Aja
+name_zh: 阿扎语
 autonym: Adja
+alt_names: [Adjeg, Aja (South Sudan), Aja (Sudan), "Aja, nilo-sahariana", Ajja]
 population: 200
 country_id: SS
 country_name: South Sudan

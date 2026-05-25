@@ -2,6 +2,7 @@
 iso: ijc
 name: Izon
 autonym: Ịzọn
+alt_names: [Central-Western Ijo, East Kalahari, Ijaw, Ijo, Ijo (Central Western), Ijo (Kolokuma), Ijo (North-Central), Izo, Kolokuma, Kolokuma Ijo, North Central Tshu-Khwe, North-Central, Uzo, Ịjọ]
 population: 2150000
 country_id: NG
 country_name: Nigeria

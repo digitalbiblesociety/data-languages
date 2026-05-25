@@ -2,6 +2,7 @@
 iso: agl
 name: Fembe
 autonym: Agala
+alt_names: [Sinale]
 population: 350
 country_id: PG
 country_name: Papua New Guinea

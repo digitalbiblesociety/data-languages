@@ -2,6 +2,7 @@
 iso: knu
 name: Kono (Guinea)
 autonym: Kpɛlɛwoo
+alt_names: [Kono, Kpelle]
 population: 99300
 country_id: GN
 country_name: Guinea

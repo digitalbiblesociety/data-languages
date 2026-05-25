@@ -2,6 +2,7 @@
 iso: beh
 name: Biali
 autonym: Bieri
+alt_names: [Berba, Bjerb, Bjeri, Burba]
 population: 166080
 country_id: BJ
 country_name: Benin

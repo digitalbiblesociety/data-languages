@@ -1,7 +1,9 @@
 ---
 iso: csp
 name: "Southern Ping Chinese\r"
+name_zh: 桂南平话
 autonym: null
+alt_names: ["Chinese, Southern Ping", "Pinghua, Southern", Southern Ping Chinese, Southern Pinghua]
 population: 2370000
 country_id: CN
 country_name: China

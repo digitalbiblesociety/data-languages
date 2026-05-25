@@ -2,6 +2,7 @@
 iso: ktm
 name: Kurti
 autonym: Ndrukul
+alt_names: [Admiralitäts-inseln, Kuruti, Kuruti-Pare, Ndrugul]
 population: 3000
 country_id: PG
 country_name: Papua New Guinea

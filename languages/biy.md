@@ -1,7 +1,9 @@
 ---
 iso: biy
 name: Birhor
+name_zh: 比尔霍尔语
 autonym: Bihor
+alt_names: [Birhar, Birhore, Birhɔɽ, Bīrhaṛ, Bīrhaṛ, Mankidi, Mankidia, Mundari, Mundari-Ho]
 population: 1000
 country_id: IN
 country_name: India

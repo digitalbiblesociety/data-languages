@@ -2,6 +2,7 @@
 iso: ypn
 name: Ani Phowa
 autonym: Puwa
+alt_names: [Flowery Phu, Hua Phu, Laotshipu, Pho, "Phowa, Ani", "Phowa,Ani", Phula]
 population: 10000
 country_id: CN
 country_name: China

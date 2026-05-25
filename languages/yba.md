@@ -2,6 +2,7 @@
 iso: yba
 name: Yala
 autonym: Nkum
+alt_names: [Iyala]
 population: 264000
 country_id: NG
 country_name: Nigeria

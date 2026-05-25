@@ -2,6 +2,7 @@
 iso: cbq
 name: Tsucuba
 autonym: Tsucuba
+alt_names: [Cuba]
 population: 1000
 country_id: NG
 country_name: Nigeria

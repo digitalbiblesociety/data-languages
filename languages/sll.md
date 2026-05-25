@@ -1,7 +1,9 @@
 ---
 iso: sll
 name: "Salt-Yui"
+name_zh: 萨尔特-伊语
 autonym: Yui
+alt_names: [Iui, Salt, Salt (Yui), Salt-Iui]
 population: 6500
 country_id: PG
 country_name: Papua New Guinea

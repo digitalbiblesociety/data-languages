@@ -1,6 +1,7 @@
 ---
 iso: bik
 name: Bikol
+name_zh: 比科爾語
 autonym: Bicolano
 population: 2500000
 country_id: PH

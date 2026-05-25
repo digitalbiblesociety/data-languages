@@ -2,6 +2,7 @@
 iso: mcp
 name: Makaa
 autonym: null
+alt_names: [Meka, Mekaa, Nyaana, South Makaa, South Mekaa, Toma]
 population: 80000
 country_id: CM
 country_name: Cameroon

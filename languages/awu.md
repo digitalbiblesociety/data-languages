@@ -2,6 +2,7 @@
 iso: awu
 name: Central Awyu
 autonym: Central Awyu
+alt_names: [Ajau, Auyu, Avio, Awju, Awya, "Awyu, Central", Nohon]
 population: 7500
 country_id: ID
 country_name: Indonesia

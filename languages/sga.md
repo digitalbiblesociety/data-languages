@@ -1,7 +1,9 @@
 ---
 iso: sga
 name: Old Irish (to 900)
+name_zh: 古爱尔兰语
 autonym: Goídelc
+alt_names: [Altirische Sprache, Auld Erse leid, Gadhelisch, Gammelirsk, Hen Wyddeleg, Idioma irlandés antiguo, "Irish, Old (to 900)", Język staroirlandzki, Lingua irlandesa antiga, Língua irlandesa antiga, Malnovirlanda lingvo, Old Irish, Oudiers, Sean-Ghaeilge, Shenn Yernish, Vieil irlandais, altirische, "irlandais ancien (jusqu'à 900)", Древнеирландский язык, Староирски јазик, 古アイルランド語, 古愛爾蘭語]
 population: null
 country_id: IE
 country_name: Ireland

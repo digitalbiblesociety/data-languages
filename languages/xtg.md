@@ -1,7 +1,9 @@
 ---
 iso: xtg
 name: Transalpine Gaulish
+name_zh: 山外高卢语
 autonym: null
+alt_names: [Gaul, Gaulish, "Gaulish, Transalpine"]
 population: null
 country_id: FR
 country_name: France

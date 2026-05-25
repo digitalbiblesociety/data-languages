@@ -2,6 +2,7 @@
 iso: ttk
 name: Totoro
 autonym: Namrrik
+alt_names: [Polindara, Totoró]
 population: 4130
 country_id: CO
 country_name: Colombia

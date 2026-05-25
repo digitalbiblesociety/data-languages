@@ -1,7 +1,9 @@
 ---
 iso: mhb
 name: Mahongwe
+name_zh: 馬洪圭語
 autonym: null
+alt_names: [Mahongüe]
 population: 1000
 country_id: GA
 country_name: Gabon

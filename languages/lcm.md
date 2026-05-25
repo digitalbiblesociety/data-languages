@@ -2,6 +2,7 @@
 iso: lcm
 name: Tungag
 autonym: Lavongai
+alt_names: [Dang, Lavangai, Neu-Mecklenburg, Tungak]
 population: 16000
 country_id: PG
 country_name: Papua New Guinea

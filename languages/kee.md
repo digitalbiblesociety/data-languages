@@ -2,6 +2,7 @@
 iso: kee
 name: Eastern Keres
 autonym: Eastern Keres Pueblo
+alt_names: [Eastern, Eastern Keresan, Keres, Keres (Eastern), Keres (Santa Ana Pueblo), "Keres, Eastern", Keresan, Keresan (Eastern), Keresan (Santa Ana), Rio Grande Keresan, Santa Ana, Santa Ana Keresan, Santa Ana Pueblo, d Eastern Keres Pueblo]
 population: 6880
 country_id: US
 country_name: United States

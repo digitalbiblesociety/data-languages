@@ -1,7 +1,9 @@
 ---
 iso: mlj
 name: Miltu
+name_zh: 米爾圖語
 autonym: Miltou
+alt_names: [Miltú]
 population: 270
 country_id: TD
 country_name: Chad

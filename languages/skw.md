@@ -2,6 +2,7 @@
 iso: skw
 name: Skepi Creole Dutch
 autonym: null
+alt_names: ["Creole Dutch, Skepi", Skepi]
 population: null
 country_id: GY
 country_name: Guyana

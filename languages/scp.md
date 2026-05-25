@@ -1,7 +1,9 @@
 ---
 iso: scp
 name: Hyolmo
+name_zh: 约尔莫语
 autonym: Helambu Sherpa
+alt_names: [HelambuSherpa, Sherpa, Yholmo, Yohlmo, Yohlmu Tam, Yol-mo, Yolmo, Ölmo]
 population: 7570
 country_id: NP
 country_name: Nepal

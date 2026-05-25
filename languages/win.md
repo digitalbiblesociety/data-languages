@@ -2,6 +2,7 @@
 iso: win
 name: "Ho-Chunk"
 autonym: "Ho-Chunk"
+alt_names: [Hocak Wazijaci, Hocangara, Hocank, Hochank, Hochunk, Hock, Hocák, Hotcangara, Język winnebago, Winnebago, Winnebago (Nebraska), Winnebago (Wisconsin), Winnebago language]
 population: 250
 country_id: US
 country_name: United States

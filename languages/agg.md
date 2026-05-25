@@ -1,7 +1,9 @@
 ---
 iso: agg
 name: Angor
+name_zh: 安哥爾語
 autonym: Senagi
+alt_names: [Anggor, Watapor]
 population: 1500
 country_id: PG
 country_name: Papua New Guinea

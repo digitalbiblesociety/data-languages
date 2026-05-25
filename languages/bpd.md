@@ -2,6 +2,7 @@
 iso: bpd
 name: "Banda-Banda"
 autonym: null
+alt_names: [Banda]
 population: 102000
 country_id: CF
 country_name: Central African Republic

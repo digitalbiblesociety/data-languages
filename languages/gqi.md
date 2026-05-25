@@ -1,7 +1,9 @@
 ---
 iso: gqi
 name: Guiqiong
+name_zh: 贵琼语
 autonym: Duampu
+alt_names: [Guichión, Guichong, 貴瓊]
 population: 1000
 country_id: CN
 country_name: China

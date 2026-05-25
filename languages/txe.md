@@ -2,6 +2,7 @@
 iso: txe
 name: Totoli
 autonym: Gage
+alt_names: [Tolitoli, Tontoli]
 population: 25000
 country_id: ID
 country_name: Indonesia

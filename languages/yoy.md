@@ -1,7 +1,9 @@
 ---
 iso: yoy
 name: Yoy
+name_zh: Yoy语
 autonym: Dioi
+alt_names: [Jui, Yoi, Yooi, Yooy]
 population: 5000
 country_id: TH
 country_name: Thailand

@@ -2,6 +2,7 @@
 iso: mty
 name: Nabi
 autonym: Metan
+alt_names: [Menandon, Minendon, Mitang, Nambi, Nambieb]
 population: 620
 country_id: PG
 country_name: Papua New Guinea

@@ -2,6 +2,7 @@
 iso: wut
 name: Wutung
 autonym: Sangke
+alt_names: [Udung, Woutoungeg, Wutung jezik]
 population: 900
 country_id: PG
 country_name: Papua New Guinea

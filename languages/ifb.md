@@ -2,6 +2,7 @@
 iso: ifb
 name: Batad Ifugao
 autonym: Ayangan Ifugao
+alt_names: [Batad, Ifugao, Ifugao (Batad), Ifugao language, "Ifugao, Ayangan", "Ifugao, Batad", Ifugu]
 population: 10100
 country_id: PH
 country_name: Philippines

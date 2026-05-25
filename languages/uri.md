@@ -2,6 +2,7 @@
 iso: uri
 name: Urim
 autonym: Kalp
+alt_names: [Kurom, Tayon, Wan]
 population: 4000
 country_id: PG
 country_name: Papua New Guinea

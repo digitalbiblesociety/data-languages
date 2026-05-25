@@ -2,6 +2,7 @@
 iso: dbe
 name: Dabe
 autonym: bahasa Dabe
+alt_names: [Mangambilis]
 population: 440
 country_id: ID
 country_name: Indonesia

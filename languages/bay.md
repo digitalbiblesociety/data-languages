@@ -2,6 +2,7 @@
 iso: bay
 name: Batuley
 autonym: Gwataley
+alt_names: [Aru, Watulai]
 population: 3840
 country_id: ID
 country_name: Indonesia

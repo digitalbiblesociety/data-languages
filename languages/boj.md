@@ -2,6 +2,7 @@
 iso: boj
 name: Anjam
 autonym: Bom
+alt_names: [Bogadjim, Bogajim, Bogati, Lalok]
 population: 2020
 country_id: PG
 country_name: Papua New Guinea

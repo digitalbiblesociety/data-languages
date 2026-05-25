@@ -1,7 +1,9 @@
 ---
 iso: aro
 name: Araona
+name_zh: 阿拉奥纳语
 autonym: Cavina
+alt_names: [Araonų kalba, Carina, Idioma araona, Southern Quechua, Tahuantisuyo]
 population: 110
 country_id: BO
 country_name: Bolivia

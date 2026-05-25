@@ -1,7 +1,9 @@
 ---
 iso: gux
 name: Gourmanchéma
+name_zh: 古利曼切馬语
 autonym: Gulimancema
+alt_names: [Goulmacema, Gourma, Gourmanch(ma), Gourmanchema, Gourmantche, Gulmancema, Gurma, Gurma (Gourma, Gurma (Togo), Migulimancema]
 population: 1109300
 country_id: BF
 country_name: Burkina Faso

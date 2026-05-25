@@ -1,7 +1,9 @@
 ---
 iso: tiz
 name: Tai Hongjin
+name_zh: 红金傣语
 autonym: Tai Cung
+alt_names: [China]
 population: 85000
 country_id: CN
 country_name: China

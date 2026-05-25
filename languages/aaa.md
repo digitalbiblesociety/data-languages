@@ -2,6 +2,7 @@
 iso: aaa
 name: Ghotuo
 autonym: Otwa
+alt_names: [Ghotuo jezik, Otuo]
 population: 9000
 country_id: NG
 country_name: Nigeria

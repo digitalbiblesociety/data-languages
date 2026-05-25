@@ -1,7 +1,9 @@
 ---
 iso: spp
 name: Supyire Senoufo
+name_zh: 蘇皮雷語
 autonym: Supyire Sénoufo
+alt_names: [Kampwo dialect, Senoufo (Supyire), "Senoufo, Supyire", Soupyireg, "Sup'ide", Supide, Suppire, Supyire, Supyire (Kampwo), Supyire language]
 population: 350000
 country_id: ML
 country_name: Mali

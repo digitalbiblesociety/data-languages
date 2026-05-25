@@ -2,6 +2,7 @@
 iso: avs
 name: Aushiri
 autonym: Auxira
+alt_names: [Abigira, Abiquira, Abishira, Agouisiri, Aouchirieg, Auishiri, Aushiri jezik, Avishiri, Avixiri, Ixignor, Tekiraka, Tequiraca, Vacacocha, Аушириски јазик]
 population: null
 country_id: PE
 country_name: Peru

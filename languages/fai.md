@@ -1,7 +1,9 @@
 ---
 iso: fai
 name: Faiwol
+name_zh: 范沃語
 autonym: null
+alt_names: [Angkiyakmin, Faiwolmin, Fegolmin, Kandam, Kauwol, Unkia, Wokeimin]
 population: 4500
 country_id: PG
 country_name: Papua New Guinea

@@ -2,6 +2,7 @@
 iso: npn
 name: Mondropolon
 autonym: null
+alt_names: [Admiralitäts-inseln]
 population: 300
 country_id: PG
 country_name: Papua New Guinea

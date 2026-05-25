@@ -1,6 +1,7 @@
 ---
 iso: pis
 name: Pijin
+name_zh: 皮京語
 autonym: "Neo-Solomonic"
 population: 564000
 country_id: SB

@@ -1,7 +1,9 @@
 ---
 iso: arp
 name: Arapaho
+name_zh: 阿拉帕霍语
 autonym: Hinónoʼeitíít
+alt_names: [Arapaho (Oklahoma), Arapaho (Wyoming), Arapaho-Atsina, Arapahoan, Arapahoan Isolate, Arapahoeg, Arapažština, Arrapahoe, Northern Arapaho]
 population: 1070
 country_id: US
 country_name: United States

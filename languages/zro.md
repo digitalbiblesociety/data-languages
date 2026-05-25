@@ -2,6 +2,7 @@
 iso: zro
 name: Záparo
 autonym: Kayapwe
+alt_names: [Idioma záparo, Kayapi, Sapara simi, Sápara, Sáparo-Konambo, Zaparo, Zaparoeg, Zápara, Záparo jezik, Záparo-Conambo]
 population: 170
 country_id: EC
 country_name: Ecuador

@@ -2,6 +2,7 @@
 iso: lbk
 name: Central Bontok
 autonym: Finallig
+alt_names: ["Bontok, Central"]
 population: 19600
 country_id: PH
 country_name: Philippines

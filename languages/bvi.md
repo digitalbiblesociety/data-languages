@@ -2,6 +2,7 @@
 iso: bvi
 name: Belanda Viri
 autonym: Bviri
+alt_names: [Belanda, Biri, Gamba, Gumba, Mbegumba, Mvegumba, Viri]
 population: 16000
 country_id: SS
 country_name: South Sudan

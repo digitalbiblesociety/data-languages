@@ -2,6 +2,7 @@
 iso: xpm
 name: Pumpokol
 autonym: "Gebéŋ-aj, Gebèng-ai"
+alt_names: [Poumpokole, Poumpokoleg, Pumpokolin kieli, Pumpokolsk, Пумпокольский язык]
 population: null
 country_id: RU
 country_name: Russia

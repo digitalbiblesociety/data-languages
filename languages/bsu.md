@@ -2,6 +2,7 @@
 iso: bsu
 name: Bahonsuai
 autonym: "Bahoe-soeaai"
+alt_names: [Bahonsuái]
 population: 200
 country_id: ID
 country_name: Indonesia

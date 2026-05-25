@@ -2,6 +2,7 @@
 iso: tdn
 name: Tondano
 autonym: Tolou
+alt_names: [Tolour, Tondanou, Toulour]
 population: 9560
 country_id: ID
 country_name: Indonesia

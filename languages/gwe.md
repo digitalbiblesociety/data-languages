@@ -2,6 +2,7 @@
 iso: gwe
 name: Gweno
 autonym: Kigweno
+alt_names: [Ghonu, Kighonu]
 population: 2000
 country_id: TZ
 country_name: Tanzania

@@ -2,6 +2,7 @@
 iso: ark
 name: Arikapú
 autonym: Maxubí
+alt_names: [Aricapu, Aricapú, Arikapu, Mashubi]
 population: null
 country_id: BR
 country_name: Brazil

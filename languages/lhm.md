@@ -2,6 +2,7 @@
 iso: lhm
 name: Lhomi
 autonym: "Ü-Tsang"
+alt_names: [Central Tibetan, Kar Bhote, Kath Bhote, Lhoket, Shing Saapa]
 population: 5660
 country_id: NP
 country_name: Nepal

@@ -2,6 +2,7 @@
 iso: mwc
 name: Are
 autonym: Mukawa
+alt_names: [Doga language]
 population: 1700
 country_id: PG
 country_name: Papua New Guinea

@@ -1,6 +1,7 @@
 ---
 iso: xno
 name: "Anglo-Norman"
+name_zh: 盎格鲁-诺曼语
 autonym: Anglo-Normaund
 population: null
 country_id: GB

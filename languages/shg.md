@@ -2,6 +2,7 @@
 iso: shg
 name: Shua
 autonym: Mashuakwe
+alt_names: [Deti, Shua-Khwe, Shwa language, Tshumakwe]
 population: 100
 country_id: BW
 country_name: Botswana

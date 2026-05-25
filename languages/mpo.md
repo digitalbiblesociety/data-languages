@@ -2,6 +2,7 @@
 iso: mpo
 name: Miu
 autonym: Myu
+alt_names: [My]
 population: 1250
 country_id: PG
 country_name: Papua New Guinea

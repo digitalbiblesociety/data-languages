@@ -1,7 +1,9 @@
 ---
 iso: xld
 name: Lydian
+name_zh: 呂底亞語
 autonym: 𐤮𐤱𐤠𐤭𐤣𐤶𐤯𐤦𐤳
+alt_names: [Język lidyjski, Lidi, Lidijski jezik, Lidijščina, Lidya dili, Lingua Lydia, Lingua lidia, Lydien, Lydische Sprache, Lydisk språk, Lydiska, Lyydian kieli, Lýdčina, Лидийский язык, Лидиски јазик, Лідійська мова, زبان لیدیایی, ภาษาไลเดีย, 리디아어]
 population: null
 country_id: TR
 country_name: Turkey

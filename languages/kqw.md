@@ -2,6 +2,7 @@
 iso: kqw
 name: Kandas
 autonym: null
+alt_names: [King]
 population: 480
 country_id: PG
 country_name: Papua New Guinea

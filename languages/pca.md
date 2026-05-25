@@ -2,6 +2,7 @@
 iso: pca
 name: Santa Inés Ahuatempan Popoloca
 autonym: Popoloca de Santa Inés Ahuatempan
+alt_names: [Chocho-Popoloka, Ngigua, Popoloca, "Popoloca, Santa Inés Ahuatempan", Santa Ines Ahuatempan Popoloca]
 population: 4000
 country_id: MX
 country_name: Mexico

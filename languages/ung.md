@@ -2,6 +2,7 @@
 iso: ung
 name: Ngarinyin
 autonym: Eastern Worrorran
+alt_names: [Andedja, Andidja, Angarinjin, Arawari, Arkarin-jindja, Engariñín, Gular, Ingarinjindja, Kandjalngari, Lenga ngarinyin, Marangana, Molyamidi, Narrinyind, Ngaring-ngyan, Ngarinjin, Ngerringun, Njingarinjanja, Oladjau, Ungarin-jen, Ungarinjin, Ungarinyin, Unŋarinjin, Walmidi, Wangarinjinu, Warnarinjin, "Wol'jamidi", Yamandil]
 population: 59
 country_id: AU
 country_name: Australia

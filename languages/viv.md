@@ -2,6 +2,7 @@
 iso: viv
 name: Iduna
 autonym: Vivigani
+alt_names: [Vivigana]
 population: 6000
 country_id: PG
 country_name: Papua New Guinea

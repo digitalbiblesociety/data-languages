@@ -2,6 +2,7 @@
 iso: xan
 name: Xamtanga
 autonym: Xamir
+alt_names: [Agawinya, Kamir, Khamir, Khamta, Khamtanga, "Simt'anga", Xamta]
 population: 213000
 country_id: ET
 country_name: Ethiopia

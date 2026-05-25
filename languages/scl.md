@@ -1,7 +1,9 @@
 ---
 iso: scl
 name: Shina
+name_zh: 希尼亚语
 autonym: Brokpa
+alt_names: [Chineg, Dardu, Idioma shina, Shinaki, Sina, شينا, شینا, சினா மொழி]
 population: 720200
 country_id: PK
 country_name: Pakistan

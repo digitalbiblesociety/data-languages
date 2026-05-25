@@ -2,6 +2,7 @@
 iso: gvl
 name: Gulay
 autonym: Pen
+alt_names: [Goulai, Goulaye, Goulei, Gulai, Gulei]
 population: 163000
 country_id: TD
 country_name: Chad

@@ -2,6 +2,7 @@
 iso: mll
 name: Malua Bay
 autonym: Middle Nambas
+alt_names: [Espiegle Bay, "Espiegle's Bay", Malakula, Mallicolo, Petarmur (Petarmul)]
 population: 500
 country_id: VU
 country_name: Vanuatu

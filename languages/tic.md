@@ -2,6 +2,7 @@
 iso: tic
 name: Tira
 autonym: Kanderma
+alt_names: [Lithiro, Thiro, Tiro]
 population: null
 country_id: SD
 country_name: Sudan

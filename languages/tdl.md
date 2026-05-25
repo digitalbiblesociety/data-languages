@@ -2,6 +2,7 @@
 iso: tdl
 name: Sur
 autonym: Tapshin
+alt_names: [Dishili, Myet, Nsur, Suru, Tapshinawa]
 population: 5000
 country_id: NG
 country_name: Nigeria

@@ -2,6 +2,7 @@
 iso: faf
 name: Fagani
 autonym: Faghani
+alt_names: [Gani, Südliche Salomons-Inseln]
 population: 900
 country_id: SB
 country_name: Solomon Islands

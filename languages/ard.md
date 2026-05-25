@@ -2,6 +2,7 @@
 iso: ard
 name: Arabana
 autonym: "Arabana-Wangkangurru"
+alt_names: [Anna Creek tribe, Arabana/Wangkangurru, Arabuna, Arabunna, Arapani, Arapina, Arbana, Arebana, Arrabonna, Arrabunna, Arubbinna, Jendakarangu, Ngarabana, Nulla, Peake tribe, Rabuna, Urabuna, Urabunna, Urapuna, Urroban, Wangarabana, Wangarabuna, Wangarabunna, Wongkurapuna, Wongpurapuna, Wonkurabana, Yendakarang, Yendakarangu]
 population: 31
 country_id: AU
 country_name: Australia

@@ -2,6 +2,7 @@
 iso: nju
 name: Ngadjunmaya
 autonym: Badonjunga
+alt_names: ["Ba:donjunga", Bardojunga, Bardok, Buljigu, Fraser Range tribe, Galagu, Kalako, Malba, Marlba, Marlpa, Minninng, Mirning-Ngadjunma-Kalarko, Ngadju, "Ngadju:", Ngadjumaja, Ngadjumaya / Ngadju, Ngadjunma, Ngadjunma/Marlba, Ngadjunmaia, Ngadjunpakara, Ngadjunpukara, Ngadyumaya, Ngadyunma, Ngatju, Ngatjumay, Ngatjumaya, Ngatjunmay, Ngatjunmaya, Ngatyumaya, Norseman, Pardoak, Tchaakalaaga, Wangka Malpa, West Meening, West Mining, adonjunga]
 population: 10
 country_id: AU
 country_name: Australia

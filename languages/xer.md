@@ -2,6 +2,7 @@
 iso: xer
 name: Xerénte
 autonym: Sherenté
+alt_names: [Sherente, Xerente, Xerenti]
 population: 2570
 country_id: BR
 country_name: Brazil

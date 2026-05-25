@@ -2,6 +2,7 @@
 iso: tga
 name: Sagalla
 autonym: Kisagala
+alt_names: [Kisagalla, Sagala, Saghala, Teri]
 population: 100000
 country_id: KE
 country_name: Kenya

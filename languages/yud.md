@@ -1,7 +1,9 @@
 ---
 iso: yud
 name: "Judeo-Tripolitanian Arabic"
+name_zh: 猶太-的黎波里阿拉伯語
 autonym: "Jewish Tripolitanian-Libyan Arabic"
+alt_names: [Arabic, "Arabic, Judeo-Tripolitanian", Judeotripolitanski arapski, "Tripolita'it", Tripolitanian Judeo-Arabic, Yahudi Trablus Arapçası, Yudi, Јудео-триполски јазик, טריפוליטנית, ภาษาอาหรับยิวตริโปลี]
 population: 43000
 country_id: IL
 country_name: Israel

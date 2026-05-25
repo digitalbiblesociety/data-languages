@@ -1,7 +1,9 @@
 ---
 iso: tlf
 name: Telefol
+name_zh: 特里福語
 autonym: Telefol Weng
+alt_names: [Eripataman, Teleefool, Telefolmin, Telefomin, Telefool]
 population: 5400
 country_id: PG
 country_name: Papua New Guinea

@@ -2,6 +2,7 @@
 iso: mhd
 name: Mbugu
 autonym: Maʼa
+alt_names: ["Inner Ma'á", Kibwyo, Kimbugu, "Ma'a", "Ma'á", Mbougou, Mbugu Inner Mbugu, "Mixed Ma'a/Mbugu", Wa Maathi, "Wama'a"]
 population: 32000
 country_id: TZ
 country_name: Tanzania

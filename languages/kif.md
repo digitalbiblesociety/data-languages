@@ -2,6 +2,7 @@
 iso: kif
 name: Eastern Parbate Kham
 autonym: Kham language
+alt_names: [Eastern Parbate, Kham, "Kham, Eastern Parbate", "Kham,EasternParbate", Khamkura, Khams, Nisel, Nishel Kham, Nisi, Nisi Kham, Parbate, "Parbate, Eastern", Proto-Kham]
 population: 7500
 country_id: NP
 country_name: Nepal

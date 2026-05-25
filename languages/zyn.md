@@ -1,7 +1,9 @@
 ---
 iso: zyn
 name: Yongnan Zhuang
+name_zh: 邕南壯語
 autonym: Vahcuengh (za)
+alt_names: [Bou Rau, Long An, Long’an, Nung An, Southern Zhuang, Yongnan, Yongnan Vernacular of the Southern Dialect of the Zhuang Language, "Yung-ch'un", Yung-shun, Yungnan, Zhuang, "Zhuang, Yongnan", Zhuangyu nanbu fangyan Yongnan tuyu]
 population: 1810000
 country_id: CN
 country_name: China

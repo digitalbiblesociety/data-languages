@@ -2,6 +2,7 @@
 iso: klg
 name: Tagakaulo
 autonym: Kalagan
+alt_names: ["Kalagan, Tagakaulu", Tagakaolo]
 population: 121000
 country_id: PH
 country_name: Philippines

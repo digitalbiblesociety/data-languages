@@ -2,6 +2,7 @@
 iso: spy
 name: Sabaot
 autonym: Sebei
+alt_names: ["Bong'om", Kony, Mt. Elgon Maasai, Pok, Sore-Sabaut]
 population: 296000
 country_id: KE
 country_name: Kenya

@@ -2,6 +2,7 @@
 iso: ahm
 name: Mobumrin Aizi
 autonym: Ahizi
+alt_names: [Aizi, "Aizi, Mobumrin"]
 population: 2000
 country_id: CI
 country_name: "Côte d'Ivoire"

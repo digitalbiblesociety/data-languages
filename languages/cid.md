@@ -1,6 +1,7 @@
 ---
 iso: cid
 name: Chimariko
+name_zh: 齊瑪利科語
 autonym: "C'imariko"
 population: null
 country_id: US

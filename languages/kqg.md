@@ -2,6 +2,7 @@
 iso: kqg
 name: Khe
 autonym: Kheso
+alt_names: [Bambadion-Kheso]
 population: 1300
 country_id: BF
 country_name: Burkina Faso

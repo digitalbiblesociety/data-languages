@@ -2,6 +2,7 @@
 iso: zlm
 name: Malay
 autonym: " Indonesian Malaysian "
+alt_names: [Bahasa Malaysia, Bahasa Malayu, Borneo, Colloquial Malay, Malaiisch, Malay (individual language), Malayisch, Malayu, Melaju, Melayu, Standard Malay]
 population: 10296000
 country_id: MY
 country_name: Malaysia

@@ -2,6 +2,7 @@
 iso: bsp
 name: Baga Sitemu
 autonym: Barka
+alt_names: [Baga, Baga sitemou, Rio Pongo Baga, Sitemuú, Stem Baga, Tchitem, Temne]
 population: 4000
 country_id: GN
 country_name: Guinea

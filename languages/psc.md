@@ -1,7 +1,9 @@
 ---
 iso: psc
 name: Persian Sign Language
+name_zh: 伊朗手语
 autonym: Persian Sign Language
+alt_names: [Iranian Sign Language]
 population: 250000
 country_id: IR
 country_name: Iran

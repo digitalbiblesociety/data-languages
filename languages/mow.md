@@ -2,6 +2,7 @@
 iso: mow
 name: Moi (Congo)
 autonym: Bobangi
+alt_names: [Lemoi, Moi]
 population: 3020
 country_id: CG
 country_name: Congo

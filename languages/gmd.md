@@ -1,7 +1,9 @@
 ---
 iso: gmd
 name: Mághdì
+name_zh: 马格地语
 autonym: Tala
+alt_names: [Maghdi, Widala]
 population: 2000
 country_id: NG
 country_name: Nigeria

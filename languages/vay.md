@@ -2,6 +2,7 @@
 iso: vay
 name: Wayu
 autonym: Hayu (हायु)
+alt_names: [Hayu, Vayu, Vāyu, Wayo]
 population: 1740
 country_id: NP
 country_name: Nepal

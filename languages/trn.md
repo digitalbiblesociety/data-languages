@@ -2,6 +2,7 @@
 iso: trn
 name: Trinitario
 autonym: Mojos
+alt_names: [Moxo, Moxos, Trimitarios]
 population: 30000
 country_id: BO
 country_name: Bolivia

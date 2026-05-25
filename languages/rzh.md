@@ -1,7 +1,9 @@
 ---
 iso: rzh
 name: Rāziḥī
+name_zh: 拉齊赫語
 autonym: Rāziḥī
+alt_names: [Jabal Rāziḥ, Razihi]
 population: 62900
 country_id: YE
 country_name: Yemen

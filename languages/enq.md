@@ -2,6 +2,7 @@
 iso: enq
 name: Enga
 autonym: null
+alt_names: [Caga, Tchaga, Tsaga]
 population: 300000
 country_id: PG
 country_name: Papua New Guinea

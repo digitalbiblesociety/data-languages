@@ -2,6 +2,7 @@
 iso: bly
 name: Notre
 autonym: Boulba
+alt_names: [Bulba, Burusa, Nootre, Nõtre]
 population: 1500
 country_id: BJ
 country_name: Benin

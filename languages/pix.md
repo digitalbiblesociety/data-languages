@@ -2,6 +2,7 @@
 iso: pix
 name: Piu
 autonym: Kuruko
+alt_names: [Lanzog, Sanbiau]
 population: 100
 country_id: PG
 country_name: Papua New Guinea

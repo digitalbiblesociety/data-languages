@@ -2,6 +2,7 @@
 iso: fbl
 name: West Albay Bikol
 autonym: Bicol
+alt_names: ["Bikol, West Albay"]
 population: null
 country_id: PH
 country_name: Philippines

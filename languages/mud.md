@@ -1,7 +1,9 @@
 ---
 iso: mud
 name: Mednyj Aleut
+name_zh: 梅德尼阿留申語
 autonym: Attuan
+alt_names: ["Aleut de l'île Copper", "Aleut, Mednyj", Aleutiano de la isla Copper, Copper, Copper Island Aleut, Copper Island Aleut Creole, Copper Island Attuan, Creolized Attuan, Medny, Medny Aleut language, алеутско-медновский язык, медновский язык]
 population: 3
 country_id: RU
 country_name: Russia

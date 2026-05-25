@@ -2,6 +2,7 @@
 iso: otx
 name: Texcatepec Otomi
 autonym: Highland Otomi
+alt_names: [Northeast, Northeast Otomí, Northeastern Otomí, Otomi, "Otomi, Texcatepec", Otomí, Otomí de Mezquital, Otomí de Texcatepec, Otomí de la Sierra, Otomí del valle de Mezquital]
 population: 12000
 country_id: MX
 country_name: Mexico

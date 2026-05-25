@@ -2,6 +2,7 @@
 iso: vnk
 name: Vano
 autonym: Alavana
+alt_names: [Lovono, Vanikolo, Vanikoro]
 population: null
 country_id: SB
 country_name: Solomon Islands

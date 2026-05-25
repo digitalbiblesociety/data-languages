@@ -2,6 +2,7 @@
 iso: dya
 name: Dyan
 autonym: Dan
+alt_names: [Dian, Dya, Dyane, Dyanu]
 population: 14100
 country_id: BF
 country_name: Burkina Faso

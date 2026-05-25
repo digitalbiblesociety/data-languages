@@ -1,7 +1,9 @@
 ---
 iso: moo
 name: Monom
+name_zh: 莫侬语
 autonym: Bonam
+alt_names: [Bonom, Menam, Monam]
 population: 5000
 country_id: VN
 country_name: Vietnam

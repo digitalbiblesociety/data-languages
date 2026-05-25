@@ -2,6 +2,7 @@
 iso: nsl
 name: Norwegian Sign Language
 autonym: Norsk tegnspråk
+alt_names: [Norskt teckenspråk]
 population: 4000
 country_id: "NO"
 country_name: Norway

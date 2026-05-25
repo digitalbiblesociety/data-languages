@@ -2,6 +2,7 @@
 iso: shl
 name: Shendu
 autonym: Khieng
+alt_names: [Khyen, Khyeng, Sandu, Shandu]
 population: null
 country_id: IN
 country_name: India

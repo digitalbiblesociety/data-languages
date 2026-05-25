@@ -1,6 +1,7 @@
 ---
 iso: gon
 name: Gondi
+name_zh: 貢德語
 autonym: "गोण्डि, గోణ్డి, ଗୋଣ୍ଡି, 𑵶𑶓𑶕𑶂𑶋, 𑴎𑴽𑵀𑴘𑴳,"
 population: 2400000
 country_id: IN

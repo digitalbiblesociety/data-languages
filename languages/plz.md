@@ -2,6 +2,7 @@
 iso: plz
 name: Paluan
 autonym: null
+alt_names: [Peluan]
 population: 1000
 country_id: MY
 country_name: Malaysia

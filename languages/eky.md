@@ -2,6 +2,7 @@
 iso: eky
 name: Eastern Kayah
 autonym: Kayah
+alt_names: [E Kayah, Eastern, Eastern Kayah Li, Karen (Red), Karenni, Karennyi, Kaya, Kayah Li, Kayah Li (Eastern), "Kayah, Eastern", "Kayah,Eastern", Kayay, Red Karen]
 population: 26000
 country_id: MM
 country_name: Myanmar

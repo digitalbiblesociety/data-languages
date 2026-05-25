@@ -2,6 +2,7 @@
 iso: pgi
 name: Pagi
 autonym: Bembi
+alt_names: [Pagei]
 population: 2140
 country_id: PG
 country_name: Papua New Guinea

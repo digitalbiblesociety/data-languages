@@ -2,6 +2,7 @@
 iso: ana
 name: Andaqui
 autonym: Jirara
+alt_names: [Andaki, Andakí, Andaquí]
 population: null
 country_id: CO
 country_name: Colombia

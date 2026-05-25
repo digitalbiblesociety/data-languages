@@ -2,6 +2,7 @@
 iso: psw
 name: Port Sandwich
 autonym: Lamap
+alt_names: [Mallicolo, Nisvai]
 population: 1200
 country_id: VU
 country_name: Vanuatu

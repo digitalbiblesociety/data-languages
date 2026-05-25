@@ -1,7 +1,9 @@
 ---
 iso: sjt
 name: Ter Sami
+name_zh: 特爾薩米語
 autonym: saa´mekiil / са̄мькӣлл
+alt_names: ["\"Lapp\"", "\"Ter Lappish\"", Darjjesámegiella, Eastern, Eastern Saami, Kola Saami, Lapp, Lappic, Lappisch, Lappish, Lingua sami di Ter, Língua sami de Ter, Ostlappisch, Russisch-Lappisch, Saam, Saami, Saami ter, "Saami, Ter", Saamí de Ter, Same de Ter, "Sami, Ter", Samieg Ter, Ter Saami, Ter-Lappisch, Ter-Samisch, Ter-samea lingvo, Terio samių kalba, Tersamisk, Tersamisk språk, Tersamiska, Turjan-Lappi, east dialect, lapin kieli, lapon, lappisk, lopary, ostlappischer Dialekt, saamen kieli, saamskij jazyk, saa´mekiill, sabme, same-, sāme-giellâ, turjansaame, Тер-саамски език, Терски самиски јазик, йоканьгско-саамский язык, терско-саамский язык]
 population: 100
 country_id: RU
 country_name: Russia

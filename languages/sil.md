@@ -2,6 +2,7 @@
 iso: sil
 name: Tumulung Sisaala
 autonym: Sissala
+alt_names: [Hissala, Isaalung, Isala, Issala, Shom peng, Shompen, "Sisaala, Tumulung", Sisai, Sisala, Sisala Tumu]
 population: 105000
 country_id: GH
 country_name: Ghana

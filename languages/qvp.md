@@ -2,6 +2,7 @@
 iso: qvp
 name: Pacaraos Quechua
 autonym: Pakaraw runasimi
+alt_names: [Pacaraos, Quechua Pacaraos, Quechua de Pacaraos, "Quechua, Pacaraos"]
 population: 250
 country_id: PE
 country_name: Peru

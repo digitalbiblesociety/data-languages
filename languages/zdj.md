@@ -2,6 +2,7 @@
 iso: zdj
 name: Ngazidja Comorian
 autonym: shikomori/شِكُمُرِ
+alt_names: ["Comorian, Ngazidja", Ngazidja, Shingazidja]
 population: 412000
 country_id: KM
 country_name: Comoros

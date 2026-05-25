@@ -1,7 +1,9 @@
 ---
 iso: nbl
 name: South Ndebele
+name_zh: 南恩德贝莱语
 autonym: Transvaal Ndebele
+alt_names: ["Ndebele, South"]
 population: 1090000
 country_id: ZA
 country_name: South Africa

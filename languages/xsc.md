@@ -1,6 +1,7 @@
 ---
 iso: xsc
 name: Scythian
+name_zh: 锡西厄語
 autonym: Scythic
 population: null
 country_id: KZ

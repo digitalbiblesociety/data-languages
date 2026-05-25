@@ -1,7 +1,9 @@
 ---
 iso: orw
 name: Oro Win
+name_zh: 歐羅溫語
 autonym: "Oro Towati'"
+alt_names: [Jaru, Oro Wari, Orovín, Orowari, Pacaha-novo, Pacasnovas, Pakaás-novos, Uariwayo, Uomo]
 population: 5
 country_id: BR
 country_name: Brazil

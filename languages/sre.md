@@ -2,6 +2,7 @@
 iso: sre
 name: Sara
 autonym: Riok
+alt_names: [Indonesia, Lenga Sara, Sar, Sara Bakati’]
 population: 4000
 country_id: ID
 country_name: Indonesia

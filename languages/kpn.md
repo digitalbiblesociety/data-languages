@@ -2,6 +2,7 @@
 iso: kpn
 name: Kepkiriwát
 autonym: Kepkeriwát
+alt_names: [Kepkiriwat, Kepkiriwate, Quepiquiriquat, Quepiquiriuate]
 population: null
 country_id: BR
 country_name: Brazil

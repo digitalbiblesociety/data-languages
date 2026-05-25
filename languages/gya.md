@@ -2,6 +2,7 @@
 iso: gya
 name: Northwest Gbaya
 autonym: Gbaya
+alt_names: ["'Bokoto", Baya, Gbanu, Gbaya (Northwest), Gbaya Kaka, Gbaya Kara, "Gbaya Kara 'Bodoe", Gbaya Nord-Ouest, "Gbaya, Northwest", Gbeya, Kaka, Kara, Southern Gbaya, Suma]
 population: 267000
 country_id: CF
 country_name: Central African Republic

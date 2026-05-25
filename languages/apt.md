@@ -2,6 +2,7 @@
 iso: apt
 name: Apatani
 autonym: tanw
+alt_names: [Apa, Apa Tani, Patan]
 population: 44800
 country_id: IN
 country_name: India

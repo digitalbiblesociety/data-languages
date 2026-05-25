@@ -1,7 +1,9 @@
 ---
 iso: den
 name: Slave (Athapascan)
+name_zh: 史拉维语
 autonym: "North:"
+alt_names: [Slavey]
 population: 1720
 country_id: CA
 country_name: Canada

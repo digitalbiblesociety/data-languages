@@ -2,6 +2,7 @@
 iso: nbd
 name: Ngbinda
 autonym: Bangbinda
+alt_names: [Bungbinda]
 population: 4200
 country_id: CD
 country_name: DR Congo

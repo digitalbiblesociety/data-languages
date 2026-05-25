@@ -2,6 +2,7 @@
 iso: knv
 name: Tabo
 autonym: Tabo
+alt_names: [Hibaradai, Hiwi, Waia, Waya]
 population: 3000
 country_id: PG
 country_name: Papua New Guinea

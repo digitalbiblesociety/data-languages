@@ -1,7 +1,9 @@
 ---
 iso: paw
 name: Pawnee
+name_zh: 波尼語
 autonym: pâri pakûru’
+alt_names: [Grand Pawnee, Paní, Pawnee Cluster, Pawnieg, Proto-Pawnee, Republican Pawnee]
 population: 2500
 country_id: US
 country_name: United States

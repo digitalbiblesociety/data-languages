@@ -2,6 +2,7 @@
 iso: drg
 name: Rungus
 autonym: Dusun Dayak
+alt_names: [Dayak, Melobong Rungus, Memagun, Memogun, Momogun, Roongas, Rungus Dusun]
 population: 55000
 country_id: MY
 country_name: Malaysia

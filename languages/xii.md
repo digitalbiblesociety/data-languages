@@ -2,6 +2,7 @@
 iso: xii
 name: Xiri
 autonym: Griqua
+alt_names: [Cap-Dialekt, Cape Hottentot, Gri, Grikwa, Gry, Khiri, Língua Xiri, Xirikwa, Xrikwa, Ziri]
 population: 187
 country_id: ZA
 country_name: South Africa

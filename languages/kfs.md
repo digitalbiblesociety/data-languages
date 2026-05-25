@@ -1,7 +1,9 @@
 ---
 iso: kfs
 name: Bilaspuri
+name_zh: 比拉斯普尔语
 autonym: बिलासपुरी
+alt_names: [Bilaspuri Pahari, Kahluri, Kehloori Pahari, Kehluri, Pacchmi]
 population: 296000
 country_id: IN
 country_name: India

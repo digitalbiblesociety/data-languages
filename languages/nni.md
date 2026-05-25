@@ -2,6 +2,7 @@
 iso: nni
 name: North Nuaulu
 autonym: Fatakai
+alt_names: [Alfurisch, Nuaulu, "Nuaulu, North", Patakai]
 population: 500
 country_id: ID
 country_name: Indonesia

@@ -2,6 +2,7 @@
 iso: luq
 name: Lucumi
 autonym: null
+alt_names: [Cuba]
 population: null
 country_id: CU
 country_name: Cuba

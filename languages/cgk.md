@@ -1,7 +1,9 @@
 ---
 iso: cgk
 name: Chocangacakha
+name_zh: 乔孔卡语
 autonym: Tsamang
+alt_names: [Kursmadkha, Maphekha, "Rtsamangpa'ikha", "Tsagkaglingpa'ikha"]
 population: 20000
 country_id: BT
 country_name: Bhutan

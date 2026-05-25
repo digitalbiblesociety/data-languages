@@ -2,6 +2,7 @@
 iso: sxk
 name: Southern Kalapuya
 autonym: Southern Kalapuya
+alt_names: ["Kalapuya, Southern"]
 population: null
 country_id: US
 country_name: United States

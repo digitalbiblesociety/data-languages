@@ -2,6 +2,7 @@
 iso: cux
 name: Tepeuxila Cuicatec
 autonym: "Cuicatec, Tepeuxila"
+alt_names: [Cuica, Cuicatec, Cuicateco, Kwikateko, Teutila]
 population: 8680
 country_id: MX
 country_name: Mexico

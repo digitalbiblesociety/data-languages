@@ -2,6 +2,7 @@
 iso: kst
 name: Winyé
 autonym: Kolsi
+alt_names: [Ko, Ko (Winye), Kols, Kõ, Winye]
 population: 20000
 country_id: BF
 country_name: Burkina Faso

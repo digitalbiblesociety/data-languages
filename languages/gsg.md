@@ -1,7 +1,9 @@
 ---
 iso: gsg
 name: German Sign Language
+name_zh: 德国手语
 autonym: Deutsche Gebärdensprache
+alt_names: [Dgs, Tysk tegnspråk]
 population: 80600
 country_id: DE
 country_name: Germany

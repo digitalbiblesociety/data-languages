@@ -2,6 +2,7 @@
 iso: ekk
 name: Standard Estonian
 autonym: eesti keel
+alt_names: [Estonian, "Estonian, Standard", estonien]
 population: 1160020
 country_id: EE
 country_name: Estonia

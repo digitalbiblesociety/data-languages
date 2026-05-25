@@ -2,6 +2,7 @@
 iso: gum
 name: Guambiano
 autonym: Namrrik
+alt_names: [Guambia, Guambiana, Guambiano-Moguez, Guambino, Guambía, Misak, Moguex, Moguez, Mogés, Mogües, Namdrik, Wam, Wambiano, Wambiano-Mogés]
 population: 21000
 country_id: CO
 country_name: Colombia

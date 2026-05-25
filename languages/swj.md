@@ -2,6 +2,7 @@
 iso: swj
 name: Sira
 autonym: Eshira
+alt_names: [Gisira, Ichira, Ishira, Isira, Shira, Shire, Yichira]
 population: 39400
 country_id: GA
 country_name: Gabon

@@ -2,6 +2,7 @@
 iso: xor
 name: Korubo
 autonym: Cacetero
+alt_names: [Caceteiros, Chankuëshbo, Korúbo]
 population: 250
 country_id: BR
 country_name: Brazil

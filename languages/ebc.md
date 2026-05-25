@@ -2,6 +2,7 @@
 iso: ebc
 name: "Beginci\r"
 autonym: bahasa Beginci
+alt_names: [Beginci]
 population: 7500
 country_id: ZZ
 country_name: Unknown or Invalid Territory

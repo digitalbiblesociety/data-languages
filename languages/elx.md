@@ -1,7 +1,9 @@
 ---
 iso: elx
 name: Elamite
+name_zh: 埃兰语
 autonym: null
+alt_names: [Elama lingvo, Elamin kieli, Elamische Sprache, Elamita, Elamiteg, Elamitic, Elamitisch, Elamitiska, Elamittisk, Elamski jezik, Idioma elamita, Język elamicki, Lingua Elamitica, Lingua elamita, Língua elamita, Wikang Elamita, Élamite, Элам чĕлхи, Эламский язык, زبان عیلامی, ஈலமைட்டு மொழி, ภาษาอีลาไมต์, ელამური ენა, エラム語, 埃蘭語, 엘람어]
 population: null
 country_id: IR
 country_name: Iran

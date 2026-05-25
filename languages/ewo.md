@@ -1,7 +1,9 @@
 ---
 iso: ewo
 name: Ewondo
+name_zh: 埃翁多語
 autonym: Kolo
+alt_names: [Ewundu, Jaunde, Język yaunde, Yaounde, Yaunde, éwondo]
 population: 578000
 country_id: CM
 country_name: Cameroon

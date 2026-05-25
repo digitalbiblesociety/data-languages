@@ -1,7 +1,9 @@
 ---
 iso: bhh
 name: Bukharic
+name_zh: 布哈里安语
 autonym: בוכארי
+alt_names: [Bokharan, Bokharian, Bokharic, "Bouc'horeg", Boukharique, Buhori dili, Bukharan, Bukhari, Bukharian, Bukharin, Bukhori, Bukhori language, Bukárico, Judeo-Tajik, Język bucharski, Língua Bukhori, Еврейско-таджикский диалект, گویش بخارائی, ภาษาบูโครี, ブハラ語]
 population: 60000
 country_id: IL
 country_name: Israel

@@ -1,7 +1,9 @@
 ---
 iso: brb
 name: Lave
+name_zh: 布劳语
 autonym: Brao
+alt_names: [Braou, Brau, Brou, Laveh, Love, Lue, Prou, Proue, Rawe, Veh]
 population: 12800
 country_id: LA
 country_name: Laos

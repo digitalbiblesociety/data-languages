@@ -2,6 +2,7 @@
 iso: ikk
 name: Ika
 autonym: null
+alt_names: [Nigeria]
 population: 22800
 country_id: NG
 country_name: Nigeria

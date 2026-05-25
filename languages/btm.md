@@ -1,7 +1,9 @@
 ---
 iso: btm
 name: Batak Mandailing
+name_zh: 曼代灵语
 autonym: Saro Mandailing
+alt_names: [Batta, Mandailing Batak]
 population: 1100000
 country_id: ID
 country_name: Indonesia

@@ -2,6 +2,7 @@
 iso: ikl
 name: Ikulu
 autonym: Ikulu
+alt_names: [Ankulu, Ikolu]
 population: 50000
 country_id: NG
 country_name: Nigeria

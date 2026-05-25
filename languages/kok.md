@@ -1,7 +1,9 @@
 ---
 iso: kok
 name: Konkani
+name_zh: 孔卡尼语
 autonym: null
+alt_names: [Konkani (macrolanguage)]
 population: 2300000
 country_id: IN
 country_name: India

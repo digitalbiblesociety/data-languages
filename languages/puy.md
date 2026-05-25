@@ -2,6 +2,7 @@
 iso: puy
 name: Purisimeño
 autonym: null
+alt_names: [Chumasha Proper, La Purisima, Purisimeno, Purismeño, Purísima, Santa Rosa]
 population: null
 country_id: US
 country_name: United States

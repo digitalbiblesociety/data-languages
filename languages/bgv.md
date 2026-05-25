@@ -2,6 +2,7 @@
 iso: bgv
 name: "Warkay-Bipim"
 autonym: "Warkay-Bipim"
+alt_names: [Bipim, Bipim As-So, Warkay]
 population: 300
 country_id: ID
 country_name: Indonesia

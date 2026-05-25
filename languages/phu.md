@@ -1,7 +1,9 @@
 ---
 iso: phu
 name: Phuan
+name_zh: 潘语
 autonym: Lao Phuan
+alt_names: [Phu Un]
 population: 307000
 country_id: TH
 country_name: Thailand

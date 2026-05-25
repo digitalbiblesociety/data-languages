@@ -2,6 +2,7 @@
 iso: mwu
 name: Mittu
 autonym: null
+alt_names: [Sudan]
 population: 50000
 country_id: SS
 country_name: South Sudan

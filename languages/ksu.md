@@ -1,7 +1,9 @@
 ---
 iso: ksu
 name: Khamyang
+name_zh: 坎扬语
 autonym: Khamiyang
+alt_names: [Khamjang, Shyam, Tai Khamyang]
 population: 800
 country_id: IN
 country_name: India

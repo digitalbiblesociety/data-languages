@@ -1,7 +1,9 @@
 ---
 iso: jio
 name: Jiamao
+name_zh: 加茂語
 autonym: Sai 塞
+alt_names: [Kamau, Tai]
 population: 52300
 country_id: CN
 country_name: China

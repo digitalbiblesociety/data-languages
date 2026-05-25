@@ -2,6 +2,7 @@
 iso: lgz
 name: Ligenza
 autonym: Ligendza
+alt_names: [Digenja, Gendja, Gendza-Bali]
 population: 43000
 country_id: CD
 country_name: DR Congo

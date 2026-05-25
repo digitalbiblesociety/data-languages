@@ -2,6 +2,7 @@
 iso: dbv
 name: Dungu
 autonym: Dingi
+alt_names: [Dungi, Dunjawa, Dwingi]
 population: 1100
 country_id: NG
 country_name: Nigeria

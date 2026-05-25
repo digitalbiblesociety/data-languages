@@ -1,7 +1,9 @@
 ---
 iso: rgn
 name: Romagnol
+name_zh: 罗马涅语
 autonym: rumagnôl
+alt_names: [Dialeto romagnol, Dialetto romagnolo, Diałeto romagnoło, Emiliano-Romagnolo, Italian (Bologna), Romanjolski jezik, Rumagnol]
 population: 1100000
 country_id: IT
 country_name: Italy

@@ -2,6 +2,7 @@
 iso: rmk
 name: Romkun
 autonym: Kuanga
+alt_names: [Romkuin]
 population: 630
 country_id: PG
 country_name: Papua New Guinea

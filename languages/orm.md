@@ -1,6 +1,7 @@
 ---
 iso: orm
 name: Oromo
+name_zh: 奧羅莫語
 autonym: Oromoo
 population: 24000000
 country_id: ET

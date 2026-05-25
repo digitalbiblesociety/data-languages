@@ -1,7 +1,9 @@
 ---
 iso: lae
 name: Pattani
+name_zh: 帕塔南语
 autonym: Chamba
+alt_names: [Chamba Lahuli, Chamba Lāhulī, Changsapa Boli, Kanauri, Lahul, Lahuli, Lahuli de Chamba, Manchad, Manchati, Manchāti, Mantśati, Monchāti, Patan, Patni, Swangla]
 population: 11000
 country_id: IN
 country_name: India

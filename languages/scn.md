@@ -1,7 +1,9 @@
 ---
 iso: scn
 name: Sicilian
+name_zh: 西西里语
 autonym: sicilianu
+alt_names: [Bahasa Sisilia, Basa Sisilia, Calabro-Sicilian, Idioma secilián, Idioma siciliano, Język sycylijski, Lenga sicilian-a, Lengua siciliana, Lengua siciliann-a, Limba siciliană, Limba sitziliana, Lingua Sicula, Lingua siciliana, Luenga siciliana, Língua siciliana, Shisslish, Sicilia lingvo, Siciliaans, Siciliano, Siciliansk, Siciliansk språk, Sicilianska, Sicilien, Sicilijanski jezik, Sicilis, Sicilià, Sicilyaca, Sicilština, Siculu, Sisilian kieli, Sizilianische Sprache, Siziliera, Szicíliai nyelv, Sî-sî-lî-ngî, Sîcîlyanî, Сицили чĕлхи, Сицилийский язык, Сицилійська мова, סיציליאנית, سىتسىلىيە تىلى, لغة صقلية, ภาษาซิซิลี, シチリア語, 西西里语]
 population: 4700000
 country_id: IT
 country_name: Italy

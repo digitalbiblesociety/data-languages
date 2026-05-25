@@ -2,6 +2,7 @@
 iso: btp
 name: Budibud
 autonym: null
+alt_names: [Nada]
 population: 310
 country_id: PG
 country_name: Papua New Guinea

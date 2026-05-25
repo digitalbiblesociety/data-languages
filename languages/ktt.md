@@ -2,6 +2,7 @@
 iso: ktt
 name: Ketum
 autonym: Kitum
+alt_names: [Indonesia]
 population: 900
 country_id: ID
 country_name: Indonesia

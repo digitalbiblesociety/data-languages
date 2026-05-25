@@ -2,6 +2,7 @@
 iso: gdi
 name: Gundi
 autonym: Ngondi
+alt_names: [Ngundi]
 population: 9000
 country_id: CF
 country_name: Central African Republic

@@ -2,6 +2,7 @@
 iso: ynu
 name: Yahuna
 autonym: Yaúna
+alt_names: [Jaúna, Yauna, Yayuna]
 population: 95
 country_id: CO
 country_name: Colombia

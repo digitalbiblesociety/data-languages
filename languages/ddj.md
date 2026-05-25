@@ -2,6 +2,7 @@
 iso: ddj
 name: Jaru
 autonym: Djaru
+alt_names: [Charrau, Deharu, Djara, Djaro, Dyaru, Jaroo, Jarrau, Jarroo, Jarrou, Jaruo, Jaruru, "Ka:biri", Karbery, Kodjangana, Meening, Neening, Nining, Njinin, Njining, Nyinin, Ruby Creek, Tjaru, Waiangara, Waringari, Wawari]
 population: 340
 country_id: AU
 country_name: Australia

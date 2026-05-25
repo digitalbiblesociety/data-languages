@@ -2,6 +2,7 @@
 iso: tvs
 name: Taveta
 autonym: Kitaveta
+alt_names: [Kitubeta, Tubeta]
 population: 24300
 country_id: KE
 country_name: Kenya

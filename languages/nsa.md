@@ -2,6 +2,7 @@
 iso: nsa
 name: Sangtam Naga
 autonym: Thukumi
+alt_names: [Isachanure, Lophomi, "Naga, Sangtam", "Naga,Sangtam", Sangtam, Tukumi]
 population: 76000
 country_id: IN
 country_name: India

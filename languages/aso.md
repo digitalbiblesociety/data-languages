@@ -2,6 +2,7 @@
 iso: aso
 name: Dano
 autonym: Upper Asaro
+alt_names: [Asaro]
 population: 30000
 country_id: PG
 country_name: Papua New Guinea

@@ -1,7 +1,9 @@
 ---
 iso: hru
 name: Hruso
+name_zh: 鲁苏语
 autonym: " Gusso"
+alt_names: [Aka, Aka-Hruso, Angka, Angka(e), Angkae, Hrus(s)o, Hruso B, Hrusso, Tenae, Ĝusso]
 population: 4000
 country_id: IN
 country_name: India

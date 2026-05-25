@@ -2,6 +2,7 @@
 iso: abw
 name: Pal
 autonym: Abasakur
+alt_names: [Abasaku]
 population: null
 country_id: PG
 country_name: Papua New Guinea

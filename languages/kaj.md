@@ -1,7 +1,9 @@
 ---
 iso: kaj
 name: Jju
+name_zh: 卡捷語
 autonym: Kaje
+alt_names: [Kache, Kajji]
 population: 580000
 country_id: NG
 country_name: Nigeria

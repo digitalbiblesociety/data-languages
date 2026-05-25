@@ -2,6 +2,7 @@
 iso: awo
 name: Awak
 autonym: Awak
+alt_names: [Awok, Yebu]
 population: 6000
 country_id: NG
 country_name: Nigeria

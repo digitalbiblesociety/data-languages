@@ -2,6 +2,7 @@
 iso: xnj
 name: Chingoni
 autonym: Songea
+alt_names: [Ngoni (Tanzania)]
 population: 311000
 country_id: TZ
 country_name: Tanzania

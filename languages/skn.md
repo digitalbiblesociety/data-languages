@@ -2,6 +2,7 @@
 iso: skn
 name: Kolibugan Subanon
 autonym: " Subanun"
+alt_names: [Calibugan, Kalibugan, Kolibugan, "Subanon, Kolibugan"]
 population: 25100
 country_id: PH
 country_name: Philippines

@@ -2,6 +2,7 @@
 iso: twc
 name: Teshenawa
 autonym: Teshenanchi
+alt_names: [Techenaweg, Teshena]
 population: null
 country_id: NG
 country_name: Nigeria

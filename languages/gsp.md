@@ -2,6 +2,7 @@
 iso: gsp
 name: Wasembo
 autonym: Biapim
+alt_names: [Gusap, Yankowan]
 population: 590
 country_id: PG
 country_name: Papua New Guinea

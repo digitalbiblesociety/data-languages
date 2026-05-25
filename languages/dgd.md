@@ -2,6 +2,7 @@
 iso: dgd
 name: Dagaari Dioula
 autonym: Dagaari Jula
+alt_names: [Dagaare, Dagaari, Dagara, Dagari, Dagari Dyoula, Dagatri, Dagatsi, Jari, Wa, Wala, Yari]
 population: 21000
 country_id: BF
 country_name: Burkina Faso

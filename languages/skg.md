@@ -2,6 +2,7 @@
 iso: skg
 name: Sakalava Malagasy
 autonym: malagasy
+alt_names: ["Malagasy, Sakalava"]
 population: 1210000
 country_id: MG
 country_name: Madagascar

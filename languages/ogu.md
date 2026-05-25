@@ -2,6 +2,7 @@
 iso: ogu
 name: Ogbronuagum
 autonym: Bukuma
+alt_names: [Obronuagum]
 population: 12000
 country_id: NG
 country_name: Nigeria

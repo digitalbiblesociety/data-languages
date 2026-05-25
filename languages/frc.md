@@ -1,7 +1,9 @@
 ---
 iso: frc
 name: Cajun French
+name_zh: 卡郡法語
 autonym: français louisianais
+alt_names: [Acadian, Acadien, Cadien, Cajan, Cajun, Cajun Frantsöösk, Cajun-Frans, Francese cajun, Français Acadien, Français Louisiane, Français cadien, "French, Cajun", Kaĵun-franca lingvo, Louisiana French]
 population: 21300
 country_id: US
 country_name: United States

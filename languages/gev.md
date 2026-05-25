@@ -2,6 +2,7 @@
 iso: gev
 name: Eviya
 autonym: Eviya
+alt_names: [Avia, Gevia, Geviya, Ivéa]
 population: 50
 country_id: GA
 country_name: Gabon

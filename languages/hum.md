@@ -2,6 +2,7 @@
 iso: hum
 name: Hungana
 autonym: Huana
+alt_names: [Hungaan, Hungana-Saamba, Hunganna, Kihungana]
 population: 400
 country_id: CD
 country_name: DR Congo

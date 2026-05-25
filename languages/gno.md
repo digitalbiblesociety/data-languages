@@ -2,6 +2,7 @@
 iso: gno
 name: Northern Gondi
 autonym: गोंडी (खौइ़तौल़ु)
+alt_names: [Gaudi, Ghond, Godi, Gondi, Gondi (Raj), "Gondi, Northern", Gondiva, Gondu, Gondwadi, Gonḍi, Goondile, Goudi, Goudwal, Gônd, Gōṇḍī]
 population: 2910000
 country_id: IN
 country_name: India

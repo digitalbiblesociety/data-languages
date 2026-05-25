@@ -2,6 +2,7 @@
 iso: aup
 name: Makayam
 autonym: Tirio
+alt_names: [Adulu, Atura, Aturu, Makaeyam]
 population: 1300
 country_id: PG
 country_name: Papua New Guinea

@@ -1,7 +1,9 @@
 ---
 iso: tjo
 name: Temacine Tamazight
+name_zh: 莱赫干谷柏柏尔语
 autonym: Oued Righ Berber
+alt_names: [Oued-Righ Berber, Righ, Tahshanit, "Tamazight, Temacine", Tarighit, Taħʃaniʦ, Touggourt, Touggourt Tamazight, Tougourt, Tugurt]
 population: 6000
 country_id: DZ
 country_name: Algeria

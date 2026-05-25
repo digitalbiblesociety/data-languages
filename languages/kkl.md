@@ -2,6 +2,7 @@
 iso: kkl
 name: Kosarek Yale
 autonym: Kosarek Yale
+alt_names: [In-lom, Kosarek, Wanam, Yale (Kosarek), "Yale, Kosarek", Yale-Kosarek]
 population: 2300
 country_id: ID
 country_name: Indonesia

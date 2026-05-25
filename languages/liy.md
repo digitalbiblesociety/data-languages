@@ -2,6 +2,7 @@
 iso: liy
 name: "Banda-Bambari"
 autonym: Banda of Bambari
+alt_names: [Banda, Banda Linda, Banda-Linda, Linda]
 population: 183000
 country_id: CF
 country_name: Central African Republic

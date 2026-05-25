@@ -2,6 +2,7 @@
 iso: otn
 name: Tenango Otomi
 autonym: Highland Otomi
+alt_names: [Othomí, Otomi, "Otomi, Tenango", Otomí, Otomí de Mezquital, Otomí de Tenango, Otomí de la Sierra, Otomí del valle de Mezquital]
 population: 10000
 country_id: MX
 country_name: Mexico

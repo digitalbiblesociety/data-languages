@@ -2,6 +2,7 @@
 iso: zaz
 name: Zari
 autonym: Zariwa
+alt_names: [Kopti, Kwapm, Zakshi]
 population: 1000
 country_id: NG
 country_name: Nigeria

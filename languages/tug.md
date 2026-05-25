@@ -2,6 +2,7 @@
 iso: tug
 name: Tunia
 autonym: Tounia
+alt_names: [Tun, Tunya]
 population: 2260
 country_id: TD
 country_name: Chad

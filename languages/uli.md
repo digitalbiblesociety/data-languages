@@ -2,6 +2,7 @@
 iso: uli
 name: Ulithian
 autonym: Yulidiy
+alt_names: [Ulithi, Ulithiano, Ulithische Sprache, Ulitiano, Ulitų kalba]
 population: 3000
 country_id: FM
 country_name: Micronesia

@@ -2,6 +2,7 @@
 iso: slm
 name: Pangutaran Sama
 autonym: Siyama
+alt_names: ["Sama, Pangutaran"]
 population: 35200
 country_id: PH
 country_name: Philippines

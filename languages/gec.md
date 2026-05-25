@@ -2,6 +2,7 @@
 iso: gec
 name: Gboloo Grebo
 autonym: Kréébo
+alt_names: [Gblou Grebo, Gboloo, Grebo, "Grebo, Gboloo"]
 population: 119000
 country_id: LR
 country_name: Liberia

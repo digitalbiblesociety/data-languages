@@ -2,6 +2,7 @@
 iso: kdg
 name: Seba
 autonym: Kunda
+alt_names: [Sewa, Shishi]
 population: 167000
 country_id: CD
 country_name: DR Congo

@@ -2,6 +2,7 @@
 iso: bub
 name: Bua
 autonym: Ba
+alt_names: ["'Ba", Boa, Boua, Boueg, Bwa]
 population: 7710
 country_id: TD
 country_name: Chad

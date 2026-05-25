@@ -2,6 +2,7 @@
 iso: mev
 name: Mano
 autonym: Maa
+alt_names: [Mah, Mann, Manö, Mawe]
 population: 427900
 country_id: LR
 country_name: Liberia

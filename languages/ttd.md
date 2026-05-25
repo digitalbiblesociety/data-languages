@@ -1,6 +1,7 @@
 ---
 iso: ttd
 name: Tauade
+name_zh: 塔瓦德语
 autonym: Tauata
 population: 7000
 country_id: PG

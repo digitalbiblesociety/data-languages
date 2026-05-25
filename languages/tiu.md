@@ -2,6 +2,7 @@
 iso: tiu
 name: Adasen
 autonym: Isneg
+alt_names: [Adasen Itneg, Addasen, Addasen Tinguian, Itneg, "Itneg, Adasen"]
 population: 4000
 country_id: PH
 country_name: Philippines

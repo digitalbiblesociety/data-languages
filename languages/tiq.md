@@ -2,6 +2,7 @@
 iso: tiq
 name: Tiéfo
 autonym: "cɛ̀fɔ́-mìì"
+alt_names: [Foro, Kiefo, Tiefo, Tyefo, Tyeforo]
 population: 1000
 country_id: BF
 country_name: Burkina Faso

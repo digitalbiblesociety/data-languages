@@ -2,6 +2,7 @@
 iso: ong
 name: Olo
 autonym: null
+alt_names: [Orlei, Wape, Wapi]
 population: 13700
 country_id: PG
 country_name: Papua New Guinea

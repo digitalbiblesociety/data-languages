@@ -1,7 +1,9 @@
 ---
 iso: ayn
 name: Sanaani Arabic
+name_zh: 薩那阿拉伯語
 autonym: Northern Yemeni Arabic
+alt_names: [Arabic, Arabic (Eastern), Arabic (North Yemen), Arabic (Northern Yemeni), "Arabic (San'ani)", Arabic (Sanaani Spoken), "Arabic, Sanaani", "Arabic, Sanaani Spoken", Sanaani Spoken, Sjevernojemenski arapski]
 population: 11400000
 country_id: YE
 country_name: Yemen

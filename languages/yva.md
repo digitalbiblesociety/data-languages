@@ -2,6 +2,7 @@
 iso: yva
 name: Yawa
 autonym: Yava
+alt_names: [Iau, Mantembu, Mora, Turu, Yapanani]
 population: 10000
 country_id: ID
 country_name: Indonesia

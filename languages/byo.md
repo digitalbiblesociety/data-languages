@@ -1,7 +1,9 @@
 ---
 iso: byo
 name: Biyo
+name_zh: 碧约语
 autonym: Bio
+alt_names: [Biyue, Pijo, Pìjɔ̀]
 population: 120000
 country_id: CN
 country_name: China

@@ -2,6 +2,7 @@
 iso: tod
 name: Toma
 autonym: Looma
+alt_names: [Toa, Toale, Toali, Tooma]
 population: 261000
 country_id: GN
 country_name: Guinea

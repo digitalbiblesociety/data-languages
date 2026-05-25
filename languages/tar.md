@@ -2,6 +2,7 @@
 iso: tar
 name: Central Tarahumara
 autonym: "Rarámuri ra'ícha"
+alt_names: [Central, Idioma tarahumara, Raramuri simi, Rocoroibo, Samachique, Samachique Tarahumara, South-western, Southwestern, Tarahumara, Tarahumara (Central), Tarahumara central, Tarahumara del Centro, Tarahumara del Suroeste, Tarahumara du sud-est, Tarahumara language, Tarahumara suroriental, "Tarahumara, Central", Tarahumara-Cent, Taraumara, Tubare, Vorohio]
 population: 29700
 country_id: MX
 country_name: Mexico

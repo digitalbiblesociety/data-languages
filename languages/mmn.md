@@ -2,6 +2,7 @@
 iso: mmn
 name: Mamanwa
 autonym: Mamanwa Negrito
+alt_names: [Minamanwa]
 population: 5150
 country_id: PH
 country_name: Philippines

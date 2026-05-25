@@ -1,6 +1,7 @@
 ---
 iso: hrv
 name: Croatian
+name_zh: 克罗地亚语
 autonym: hrvatski
 population: 5488390
 country_id: HR

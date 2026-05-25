@@ -2,6 +2,7 @@
 iso: acd
 name: Gikyode
 autonym: Gikyode
+alt_names: [Chode, Guang, Kyode]
 population: 10400
 country_id: GH
 country_name: Ghana

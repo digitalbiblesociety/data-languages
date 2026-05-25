@@ -2,6 +2,7 @@
 iso: tkx
 name: Tangko
 autonym: Okdamor
+alt_names: [Indonesia]
 population: 100
 country_id: ID
 country_name: Indonesia

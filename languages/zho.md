@@ -1,6 +1,7 @@
 ---
 iso: zho
 name: Chinese
+name_zh: 中文
 autonym: 中文
 population: 1299877520
 country_id: CN

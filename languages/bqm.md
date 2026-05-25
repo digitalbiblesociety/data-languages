@@ -2,6 +2,7 @@
 iso: bqm
 name: Wumboko
 autonym: Mokpwe
+alt_names: [Bamboko, Bambuku, Bomboko, Bumboko, Mboko, Womboko]
 population: 4000
 country_id: CM
 country_name: Cameroon

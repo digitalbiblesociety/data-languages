@@ -2,6 +2,7 @@
 iso: gdf
 name: "Guduf-Gava"
 autonym: Afkabiye
+alt_names: [Gavoko, Gavoko (Guduf), Guduf, Gudupe, Kdupe]
 population: 55900
 country_id: NG
 country_name: Nigeria

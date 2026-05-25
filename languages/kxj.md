@@ -2,6 +2,7 @@
 iso: kxj
 name: Kulfa
 autonym: Kulfa
+alt_names: ["\"Kaba So\"", Koulfa, Kulfe, Kurmi, Kurumi]
 population: 2199
 country_id: TD
 country_name: Chad

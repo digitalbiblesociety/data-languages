@@ -1,7 +1,9 @@
 ---
 iso: tuf
 name: Central Tunebo
+name_zh: 中烏瓦語
 autonym: Tunebo
+alt_names: [Cobaría, Cobaría Tunebo, Pedraza, Sínsiga, Tame, Tegria, Tegría, "Tunebo, Central", "U'w Cuwa", "U'w Kuwa", "U'wa", Uwa]
 population: 2500
 country_id: CO
 country_name: Colombia

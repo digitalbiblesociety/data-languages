@@ -1,7 +1,9 @@
 ---
 iso: tum
 name: Tumbuka
+name_zh: 通布卡语
 autonym: Chitumbuka
+alt_names: [Idioma tumbuka, Język tumbuka, Língua tumbuka, Tamboka, Tambuka, Tew, Timbuka, Tombucas, Tumboka, Tumbukum, Тумбука, トゥンブカ語]
 population: 2316000
 country_id: MW
 country_name: Malawi

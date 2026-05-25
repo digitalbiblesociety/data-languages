@@ -2,6 +2,7 @@
 iso: bwm
 name: Biwat
 autonym: Biwat
+alt_names: [Mundokuma, Munduguma, Mundugumor, Mundukumo]
 population: 3040
 country_id: PG
 country_name: Papua New Guinea

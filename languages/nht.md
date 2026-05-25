@@ -2,6 +2,7 @@
 iso: nht
 name: Ometepec Nahuatl
 autonym: Southern Guerrero Nahuatl
+alt_names: [Central Nawa, Mexicano, Nahua central, Nahuatl, "Nahuatl, Ometepec", Náhuatl central, Ometepec Aztec]
 population: 430
 country_id: MX
 country_name: Mexico

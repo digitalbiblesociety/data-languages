@@ -2,6 +2,7 @@
 iso: oua
 name: Tagargrent
 autonym: Twargrit
+alt_names: [Berber (Ouargla), Berber (Wargla), Ouargla, Ouargli, Teggargrent, Wargla]
 population: 5000
 country_id: DZ
 country_name: Algeria

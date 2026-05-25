@@ -1,7 +1,9 @@
 ---
 iso: piu
 name: "Pintupi-Luritja"
+name_zh: 平图比方言
 autonym: Binddibu
+alt_names: ["'Wan-ka'winan", "'Wanka'winan", Aluridja, Bindaboo, Bindabu, Bindiboo, Bindibu, Bindooboo, Bindubi, Bindubu, Ilda, Ildawonga, Ildawongga, Ilta, Juluridja, Kalgo neidjara, Kalgo-neidjara, Kalgonei, Kalgoneidjara, Kalguni, Kukacha, Kukatja, Loorudgee, Loorudgie, Loridja, Loritcha, Loritja, Luridja, Luritcha, Luritja, Lurritji, Maduntara, Maiadjara, Maiadjara for Ildawongga, Maiidjara, Maiulatara, Manggawara, "Matju:na latara", "Matju:na-latara", Matjunalatara, Panika, Panika for Pintubi, "Pi:ntubi", Pindu, Pindubu, Pintubi, Pintubidjara, Pintubitjara, Pintubu, Pintudjara, Pintularapi, Pintunala, Pintupi, Pintupi Luritja, Pintupi language, Puntubu, Teitudjara, Wan kawinan, Wananwanari, Wankawinan, Wenaba, Wenamba, Wiluraratja]
 population: 1100
 country_id: AU
 country_name: Australia

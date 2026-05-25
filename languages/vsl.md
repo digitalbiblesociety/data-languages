@@ -1,6 +1,7 @@
 ---
 iso: vsl
 name: Venezuelan Sign Language
+name_zh: 委内瑞拉手语
 autonym: Lengua de Señas Venezolana
 population: 86000
 country_id: VE

@@ -2,6 +2,7 @@
 iso: hao
 name: Hakö
 autonym: Haku
+alt_names: [Hako]
 population: 5000
 country_id: PG
 country_name: Papua New Guinea

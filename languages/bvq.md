@@ -2,6 +2,7 @@
 iso: bvq
 name: Birri
 autonym: Biri
+alt_names: [Bviri, Viri]
 population: 200
 country_id: CF
 country_name: Central African Republic

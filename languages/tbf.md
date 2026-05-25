@@ -1,7 +1,9 @@
 ---
 iso: tbf
 name: Mandara
+name_zh: 塔巴尔语
 autonym: Tabar
+alt_names: [Madara, Neu-Mecklenburg, Wandala]
 population: 4000
 country_id: PG
 country_name: Papua New Guinea

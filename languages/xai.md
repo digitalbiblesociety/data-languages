@@ -2,6 +2,7 @@
 iso: xai
 name: Kaimbé
 autonym: null
+alt_names: [Brazil, Kaimbe]
 population: null
 country_id: BR
 country_name: Brazil

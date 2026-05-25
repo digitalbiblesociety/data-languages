@@ -60,7 +60,8 @@ type wdEntry struct {
 type sparqlResp struct {
 	Results struct {
 		Bindings []map[string]struct {
-			Value string `json:"value"`
+			Value   string `json:"value"`
+			XMLLang string `json:"xml:lang,omitempty"`
 		} `json:"bindings"`
 	} `json:"results"`
 }

@@ -2,6 +2,7 @@
 iso: trj
 name: Toram
 autonym: Torom
+alt_names: [Torum]
 population: 8460
 country_id: TD
 country_name: Chad

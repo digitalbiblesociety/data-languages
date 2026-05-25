@@ -2,6 +2,7 @@
 iso: tsp
 name: Northern Toussian
 autonym: Wín
+alt_names: [Toussian, Toussian (Northern), Toussian (Southern), "Toussian, Northern", Tusia, Tusian]
 population: 1000
 country_id: BF
 country_name: Burkina Faso

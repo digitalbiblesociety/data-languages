@@ -2,6 +2,7 @@
 iso: kxk
 name: Zayein Karen
 autonym: Gaungtou
+alt_names: ["Karen, Zayein", "Karen,Zayein", Khaungtou, Zayein]
 population: 9300
 country_id: MM
 country_name: Myanmar

@@ -2,6 +2,7 @@
 iso: seb
 name: Shempire Senoufo
 autonym: Shenpire
+alt_names: ["Senoufo, Shempire"]
 population: 114800
 country_id: CI
 country_name: "Côte d'Ivoire"

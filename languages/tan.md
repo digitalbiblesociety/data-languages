@@ -2,6 +2,7 @@
 iso: tan
 name: Tangale
 autonym: Tangle
+alt_names: [Tanagale]
 population: 258000
 country_id: NG
 country_name: Nigeria

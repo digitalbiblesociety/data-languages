@@ -2,6 +2,7 @@
 iso: gde
 name: Gude
 autonym: Cheke
+alt_names: [Goude, Mapodi, Mapuda, Mocigin, Motchekin, Mubi, Mudaye, Shede, Tchade, Tcheke]
 population: 88000
 country_id: NG
 country_name: Nigeria

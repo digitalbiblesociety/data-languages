@@ -2,6 +2,7 @@
 iso: lnn
 name: Lorediakarkar
 autonym: Lorediakarkar
+alt_names: [Shark Bay]
 population: 340
 country_id: VU
 country_name: Vanuatu

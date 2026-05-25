@@ -1,6 +1,7 @@
 ---
 iso: rts
 name: Yurats
+name_zh: 尤拉茨語
 autonym: Yurak
 population: null
 country_id: RU

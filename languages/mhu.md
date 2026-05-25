@@ -1,7 +1,9 @@
 ---
 iso: mhu
 name: "Digaro-Mishmi"
+name_zh: 达让语
 autonym: Tawra
+alt_names: [Darang, Darang Deng, Darang Dengyu, "Deng, Darang", Digaro, Digaro Mishmi, Digaru, Digāru Mishmi, Mishmi, Mishmi (Digaro), Taaon, Taraon, Taying, 達讓語]
 population: 44950
 country_id: IN
 country_name: India

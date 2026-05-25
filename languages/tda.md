@@ -2,6 +2,7 @@
 iso: tda
 name: Tagdal
 autonym: "Tagdal-Tabarog"
+alt_names: [Niger]
 population: 60600
 country_id: NE
 country_name: Niger

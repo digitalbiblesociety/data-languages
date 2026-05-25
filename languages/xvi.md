@@ -1,6 +1,7 @@
 ---
 iso: xvi
 name: Kamviri
+name_zh: 卡姆维里方言
 autonym: کامويري
 population: 4000
 country_id: AF

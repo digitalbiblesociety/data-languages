@@ -2,6 +2,7 @@
 iso: nxi
 name: Nindi
 autonym: Kinindi
+alt_names: [Tanzania]
 population: 100
 country_id: TZ
 country_name: Tanzania

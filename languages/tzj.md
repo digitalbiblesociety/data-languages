@@ -2,6 +2,7 @@
 iso: tzj
 name: "Tz'utujil"
 autonym: Tzʼutujiil
+alt_names: [Santiago AtitlÃ¡n Tzutujil, "Tz'utujil, Eastern", Tzutuhil, Tzutujil, Tzutujil Oriental, Tz’utujil, Zutuguilés]
 population: 106000
 country_id: GT
 country_name: Guatemala

@@ -2,6 +2,7 @@
 iso: oki
 name: Okiek
 autonym: Akie
+alt_names: ["\"Ndorobo\"", Akiek, Kinare, Ogiek, Ogiek language, Okiekeg, Sogoo]
 population: 250
 country_id: KE
 country_name: Kenya

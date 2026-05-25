@@ -2,6 +2,7 @@
 iso: iru
 name: Irula
 autonym: இருளா
+alt_names: [Eravallan, Erukala, Irava, Irulan, Irular, Irular Mozhi, Irulavan, Iruliga, Iruligar, Iruḷa, Kad Chensu, Korava]
 population: 200000
 country_id: IN
 country_name: India

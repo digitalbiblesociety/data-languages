@@ -2,6 +2,7 @@
 iso: kpb
 name: Mullu Kurumba
 autonym: null
+alt_names: [India, "Kurumba, Mullu"]
 population: 1000
 country_id: IN
 country_name: India

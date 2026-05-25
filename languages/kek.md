@@ -1,7 +1,9 @@
 ---
 iso: kek
 name: Kekchí
+name_zh: 凯克其语
 autonym: Kekchi
+alt_names: ["Cacche'", Cachí (Guatemala), Język kekczi, "K'ekchí", Kekch, "Kekchi'", Kekcxioj, "Ketchi'", Língua queqchi, "Q'eqchi", "Q'eqchi'", "Q'eqchi' language", "Q'eqchí simi", "Qeqchi'", Qeqchí, "Quecchi'", "Q’eqchi' (Belize)", "Q’eqchi' (Guatemala)", Кекчи, Кекчиски јазик]
 population: 1147600
 country_id: GT
 country_name: Guatemala

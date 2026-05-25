@@ -2,6 +2,7 @@
 iso: luv
 name: Luwati
 autonym: Lawatiyya
+alt_names: [Khojki, Lawatiya, Luvatí]
 population: 5000
 country_id: OM
 country_name: Oman

@@ -2,6 +2,7 @@
 iso: wah
 name: Watubela
 autonym: Esiriun
+alt_names: [Kasiui, Kasui, Kesui, Matabello, Snabi Watubela, Wesi]
 population: 4000
 country_id: ID
 country_name: Indonesia

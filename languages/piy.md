@@ -2,6 +2,7 @@
 iso: piy
 name: "Piya-Kwonci"
 autonym: Ambandi
+alt_names: [Pia, Pitiko, Piya, Wurkum]
 population: 5000
 country_id: NG
 country_name: Nigeria

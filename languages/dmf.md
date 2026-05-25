@@ -1,7 +1,9 @@
 ---
 iso: dmf
 name: "Medefaidrin\r"
+name_zh: 梅德法伊德林文
 autonym: /
+alt_names: [Medefaidrin]
 population: null
 country_id: NG
 country_name: Nigeria

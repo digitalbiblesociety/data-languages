@@ -2,6 +2,7 @@
 iso: ape
 name: Bukiyip
 autonym: Mountain Arapesh
+alt_names: [Arapesh, Arapeso montañés, Bukiyúp, Kavu, Kawu]
 population: 16200
 country_id: PG
 country_name: Papua New Guinea

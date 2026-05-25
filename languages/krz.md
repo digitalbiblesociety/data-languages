@@ -2,6 +2,7 @@
 iso: krz
 name: Sota Kanum
 autonym: Sota
+alt_names: [Enkelembu, Kanum, "Kanum, Sota", Kenume, Knwne]
 population: 100
 country_id: ID
 country_name: Indonesia

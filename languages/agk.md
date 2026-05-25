@@ -2,6 +2,7 @@
 iso: agk
 name: Isarog Agta
 autonym: Isarog Agta
+alt_names: ["Agta d'Isarog", Agta de Isarog, "Agta, Isarog", Bikol]
 population: 1000
 country_id: PH
 country_name: Philippines

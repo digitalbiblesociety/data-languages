@@ -1,7 +1,9 @@
 ---
 iso: hax
 name: Southern Haida
+name_zh: 南海达语
 autonym: X̱aat Kíl
+alt_names: ["Haida, Southern"]
 population: 270
 country_id: CA
 country_name: Canada

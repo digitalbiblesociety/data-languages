@@ -1,7 +1,9 @@
 ---
 iso: jeb
 name: Jebero
+name_zh: 赫維羅語
 autonym: Shiwilu
+alt_names: [Chebero, Chébero, Hevero, Jébero, Xebero, Xevero, Xihuila, Xiwilu, Xébero]
 population: 2000
 country_id: PE
 country_name: Peru

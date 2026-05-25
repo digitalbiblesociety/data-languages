@@ -1,7 +1,9 @@
 ---
 iso: soa
 name: Thai Song
+name_zh: 泰宋语
 autonym: Lao Song
+alt_names: [Chong of Mương Kratt, Chong of Trat, Lao Song Dam, Song, Thai Song Dam, ลาวโซ่ง, ลาวโซ่งดำ]
 population: 32300
 country_id: TH
 country_name: Thailand

@@ -2,6 +2,7 @@
 iso: seq
 name: Senara Sénoufo
 autonym: Senari
+alt_names: [Niangolo, Senara Senoufo, Sénoufo, "Sénoufo, Senara"]
 population: 50000
 country_id: BF
 country_name: Burkina Faso

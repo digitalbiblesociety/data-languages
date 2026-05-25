@@ -2,6 +2,7 @@
 iso: dmo
 name: Kemedzung
 autonym: Dumbo
+alt_names: [Dzumbo, Kemezung, Kemezung language, Kumaju]
 population: 4500
 country_id: CM
 country_name: Cameroon

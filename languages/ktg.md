@@ -2,6 +2,7 @@
 iso: ktg
 name: Kalkutung
 autonym: Galgadungu
+alt_names: [Calcadoon, Galgadung, Galgadunga, Galgaduun, Kalka donna, Kalka-donna, Kalkadoon, Kalkadoona, Kalkadun, Kalkadung, Kalkadunga, Kalkaladoona, Kalkatongo, Kalkatunga, Kalkatungu, Kalkatungu / Kalkadoon, Kalkatungu language, Kalkutungu, Kulkadoon, Kulkadoona, Kulkodone, Lenga kalkutung, Maithakari, Mantaba, Roongkari, Rungkari, Waggaboonyah, Waggabundi, Wakabunga, Wakobungo, Waukaboonia, Worgabunga, Workabunga, Workoboongo]
 population: null
 country_id: AU
 country_name: Australia

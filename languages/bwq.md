@@ -2,6 +2,7 @@
 iso: bwq
 name: Southern Bobo Madaré
 autonym: Bobo Fing
+alt_names: [Black Bobo, Bobo, Bobo Fi, "Bobo Madaré, Southern", Bobo-fing, Southern Bobo Madare, Sya]
 population: 181000
 country_id: BF
 country_name: Burkina Faso

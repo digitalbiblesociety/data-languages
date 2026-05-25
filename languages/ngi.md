@@ -2,6 +2,7 @@
 iso: ngi
 name: Ngizim
 autonym: Ngezzim
+alt_names: [Ngizimanci, Ngizmawa, "Ngo:djin", Ngojin]
 population: 80000
 country_id: NG
 country_name: Nigeria

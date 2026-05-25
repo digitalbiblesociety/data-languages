@@ -2,6 +2,7 @@
 iso: kui
 name: "Kuikúro-Kalapálo"
 autonym: "Kuikúro-Kalapálo"
+alt_names: [Amonap, Apalakiri, Apalaquiri, Cuicutl, Guicurú, Kalapalo, Kuikuro, Kuikuro-Kalapalo, Kuikuru, Kuikúru, Kurkuro, Matipu]
 population: 1110
 country_id: BR
 country_name: Brazil

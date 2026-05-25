@@ -2,6 +2,7 @@
 iso: ygw
 name: Yagwoia
 autonym: Kokwaiyakwa
+alt_names: [Yeghuye]
 population: 10000
 country_id: PG
 country_name: Papua New Guinea

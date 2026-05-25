@@ -1,7 +1,9 @@
 ---
 iso: ars
 name: Najdi Arabic
+name_zh: 內志阿拉伯语
 autonym: اللهجة النجدية‎
+alt_names: [Arabeg nadjiek, Arabic, "Arabic, Najdi", "Arabic, Najdi Spoken", Bedawi, Najdi arapski, Најдиски јазик, لهجة نجدية, ภาษาอาหรับนัจญ์ดี]
 population: 18236000
 country_id: SA
 country_name: Saudi Arabia

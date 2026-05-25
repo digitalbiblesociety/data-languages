@@ -1,7 +1,9 @@
 ---
 iso: jao
 name: Yanyuwa
+name_zh: 亚纽瓦语
 autonym: Aniula
+alt_names: [Anjula, Anula, Anuwa, Anyoola, Anyula, Anyuwa, Djirukurumbant, Iangkala, Idioma yanyuwa, Janjula, Leanawa, Leeanuwa, Lenga yanyuwa, Njangga, Njangkala, Unalla, Wadere, Waderi, Wadiri, Yangala, Yanula, Yanular, Yanyula, Yuggamurra]
 population: 113
 country_id: AU
 country_name: Australia

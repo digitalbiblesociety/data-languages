@@ -2,6 +2,7 @@
 iso: mxn
 name: Moi (Indonesia)
 autonym: Mekwei
+alt_names: [Moi, Mooi, Mosana]
 population: 4600
 country_id: ID
 country_name: Indonesia

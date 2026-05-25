@@ -2,6 +2,7 @@
 iso: eud
 name: Eudeve
 autonym: Dóhmenerít
+alt_names: [Dohema, Endeve, Heve, Opata-Eudeve, Opatan]
 country_id: MX
 country_name: Mexico
 latitude: 28.5

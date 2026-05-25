@@ -2,6 +2,7 @@
 iso: pll
 name: Shwe Palaung
 autonym: "De'ang"
+alt_names: [De Ang, Gold Palaung, Golden Palaung, Nam Hsan Palaung, Palaung, "Palaung, Shwe", Shwe, Ta-Ang Palaung, Ta-ang]
 population: 233000
 country_id: MM
 country_name: Myanmar

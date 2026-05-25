@@ -1,7 +1,9 @@
 ---
 iso: yiq
 name: Miqie
+name_zh: 密察语
 autonym: Michie
+alt_names: [Lolo, Micha, Michal miqie, Minqi, Miqie Yi, Yi, Yi de miqie, "Yi, Miqie", 密岔]
 population: 30000
 country_id: CN
 country_name: China

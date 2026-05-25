@@ -2,6 +2,7 @@
 iso: dme
 name: Dugwor
 autonym: Dougour
+alt_names: [Memekere, Mofu, Mofu-Dugwor, Muffo, Muffu, Tchakidjebe]
 population: 5000
 country_id: CM
 country_name: Cameroon

@@ -2,6 +2,7 @@
 iso: prm
 name: Kibiri
 autonym: Kibiri
+alt_names: [Gibiri, Kibiri-Porome, Kibirieg, Polome, Porome, Porome language]
 population: 1100
 country_id: PG
 country_name: Papua New Guinea

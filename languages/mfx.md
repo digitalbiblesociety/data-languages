@@ -2,6 +2,7 @@
 iso: mfx
 name: Melo
 autonym: Malo
+alt_names: [Mello]
 population: 20200
 country_id: ET
 country_name: Ethiopia

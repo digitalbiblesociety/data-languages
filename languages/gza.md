@@ -1,7 +1,9 @@
 ---
 iso: gza
 name: Ganza
+name_zh: 甘扎語
 autonym: غانزا
+alt_names: [Ganzo, Koma]
 population: 5400
 country_id: SD
 country_name: Sudan

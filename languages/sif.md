@@ -2,6 +2,7 @@
 iso: sif
 name: Siamou
 autonym: Sɛmɛ
+alt_names: [Idioma siamou, Seme, Siemu, Siémou, Syémou, Sému]
 population: 20000
 country_id: BF
 country_name: Burkina Faso

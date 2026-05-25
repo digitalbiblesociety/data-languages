@@ -2,6 +2,7 @@
 iso: ver
 name: Mom Jango
 autonym: Mom Jango
+alt_names: [Kobo, Vere, Verre, Were]
 population: 110520
 country_id: NG
 country_name: Nigeria

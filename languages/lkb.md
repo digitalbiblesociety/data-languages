@@ -2,6 +2,7 @@
 iso: lkb
 name: Kabras
 autonym: Luyia
+alt_names: [Lukabaras]
 population: null
 country_id: KE
 country_name: Kenya

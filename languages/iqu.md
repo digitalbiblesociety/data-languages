@@ -2,6 +2,7 @@
 iso: iqu
 name: Iquito
 autonym: Amacacore
+alt_names: [Akanoini, Hamacore, Idioma iquito, Ikiteg, Ikito, Ikito-Kawarano, Ikitu, Iquita, Iquito-Cahuarano, Puca-Uma, Quiturran]
 population: 500
 country_id: PE
 country_name: Peru

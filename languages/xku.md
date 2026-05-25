@@ -2,6 +2,7 @@
 iso: xku
 name: Kaamba
 autonym: Kibeembe
+alt_names: [Kikaamba]
 population: 3020
 country_id: CG
 country_name: Congo

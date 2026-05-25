@@ -1,7 +1,9 @@
 ---
 iso: sgt
 name: Brokpake
+name_zh: 布罗克帕语
 autonym: Brokpake
+alt_names: [Brokpa, Dakpa, Damilo, Dap, Drokpakay, Jobikha, Mera Sagtengpa, Meragsagstengkha, Mira Sagtengpa, Sagtengpa, Sagtenpa]
 population: 2000
 country_id: BT
 country_name: Bhutan

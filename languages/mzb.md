@@ -2,6 +2,7 @@
 iso: mzb
 name: Tumzabt
 autonym: تونژابت
+alt_names: [Berber (Mzab), Ghardaia, Mozabite, Mozabite language, Mzab, Mzab-Wargla, Mzabi, Tamzabit, Tumzabí, Tumẓabt]
 population: 150000
 country_id: DZ
 country_name: Algeria

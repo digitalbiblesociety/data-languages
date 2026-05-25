@@ -1,6 +1,7 @@
 ---
 iso: rrm
 name: Moriori
+name_zh: 莫里奥里语
 autonym: Ta Rē Moriori
 country_id: NZ
 country_name: New Zealand

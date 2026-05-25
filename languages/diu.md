@@ -1,7 +1,9 @@
 ---
 iso: diu
 name: Diriku
+name_zh: 迪利庫語
 autonym: Rumanyo
+alt_names: [Diriko, Gciriku, Gciriku language, Mbogedo, Mbogedu, Rugciriku, Shimbogedu]
 population: 81700
 country_id: NA
 country_name: Namibia

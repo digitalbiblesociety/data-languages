@@ -1,7 +1,9 @@
 ---
 iso: ttm
 name: Northern Tutchone
+name_zh: 北塔穹语
 autonym: Dän kʼè / Dän kʼí
+alt_names: [Northern, Selkirk, Tuchone, Tutchone, Tutchone (Northern), Tutchone du nord, Tutchone septentrional, "Tutchone, Northern"]
 population: 1000
 country_id: CA
 country_name: Canada

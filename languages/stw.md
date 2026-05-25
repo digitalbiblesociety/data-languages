@@ -2,6 +2,7 @@
 iso: stw
 name: Satawalese
 autonym: kepesaen Saetaewan
+alt_names: [Satawal, Satawalés]
 population: 460
 country_id: FM
 country_name: Micronesia

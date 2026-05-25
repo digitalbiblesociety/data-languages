@@ -2,6 +2,7 @@
 iso: ghr
 name: Ghera
 autonym: Bara
+alt_names: [Sindhi Ghera]
 population: 10000
 country_id: PK
 country_name: Pakistan

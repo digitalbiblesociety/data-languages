@@ -2,6 +2,7 @@
 iso: sdj
 name: Suundi
 autonym: Kisuundi
+alt_names: [Suundi de Kimongo]
 population: 216000
 country_id: CG
 country_name: Congo

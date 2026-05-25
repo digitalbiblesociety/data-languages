@@ -2,6 +2,7 @@
 iso: cuh
 name: Chuka
 autonym: Kimîîru
+alt_names: [Chuku, Gichuka, Suka]
 population: 70000
 country_id: KE
 country_name: Kenya

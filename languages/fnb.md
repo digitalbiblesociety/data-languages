@@ -2,6 +2,7 @@
 iso: fnb
 name: Fanbak
 autonym: "Fanbak, Orkon"
+alt_names: [Orkon]
 population: 95
 country_id: VU
 country_name: Vanuatu

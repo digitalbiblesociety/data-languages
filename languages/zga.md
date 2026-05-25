@@ -2,6 +2,7 @@
 iso: zga
 name: Kinga
 autonym: Ekikinga
+alt_names: [Kikinga]
 population: 217000
 country_id: TZ
 country_name: Tanzania

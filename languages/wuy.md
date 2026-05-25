@@ -2,6 +2,7 @@
 iso: wuy
 name: Wauyai
 autonym: null
+alt_names: [Indonesia]
 population: 300
 country_id: ID
 country_name: Indonesia

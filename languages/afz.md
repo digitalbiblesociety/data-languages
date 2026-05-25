@@ -2,6 +2,7 @@
 iso: afz
 name: Obokuitai
 autonym: Aliki
+alt_names: [Ati, Baburiwa, Obogwitai, Obokuitái]
 population: 120
 country_id: ID
 country_name: Indonesia

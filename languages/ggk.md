@@ -2,6 +2,7 @@
 iso: ggk
 name: Kungarakany
 autonym: Gungaragany
+alt_names: [Cunerakan, Gundrakan, Gunerakan, Gungaragan, Gungaraganj, Gungarakanj, Gungarakayn, Kangarraga, Kangarranga, Koongurrukuñ, Kumerakainj, Kungarakan, Kungarakayn, Ungnakan, Warnunger]
 population: null
 country_id: AU
 country_name: Australia

@@ -1,7 +1,9 @@
 ---
 iso: ess
 name: Central Siberian Yupik
+name_zh: 中西伯利亞尤皮克語
 autonym: Siberian YupikYuit
+alt_names: [Asiatic Yupik, Bering Strait Yupik, Chaplino, Chaplino-Naukan, Chaplino-Naukanski (East Cape), Chaplinsk, Chaplinski, "Siberian Yup'ik", Siberian Yupik, Siperianjupik, "St. Lawrence Island \"Eskimo\"", St. Lawrence Island Eskimo, St. Lawrence Island Yupik, Yoit, Yuit, Yuk, Yupik (Central Siberian), Yupik (Siberian), Yupik (St. Lawrence Island), Yupik de Sibérie (Chukotka), Yupik de Sibérie (île Saint Laurent), "Yupik, Central Siberian", Yupí siberiano central (isla de San Lorenzo), Юитские языки, чаплинский язык, ცენტრალურ ციმბირული იუპიკური ენა, シベリア・ユピック語]
 population: 1200
 country_id: US
 country_name: United States

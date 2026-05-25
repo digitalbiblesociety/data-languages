@@ -1,6 +1,7 @@
 ---
 iso: osc
 name: Oscan
+name_zh: 奥斯坎语
 autonym: null
 population: null
 country_id: IT

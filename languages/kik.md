@@ -1,7 +1,9 @@
 ---
 iso: kik
 name: Kikuyu
+name_zh: 基库尤语
 autonym: Gĩkũyũ
+alt_names: [Gekoyo, Gigikuyu, Gikouyoueg, Gikuyu, Gikuyu language, Gikuyum, Gėkooijo, Gĩgĩkũyũ, Idioma kikuyu, Język kikuju, Kikujčina, Kikuyu simi, Kuja lingvo, Kíkújú, Língua kikuyu, Кикуйю, গিকুয়ু ভাষা, キクユ語]
 population: 8150000
 country_id: KE
 country_name: Kenya

@@ -2,6 +2,7 @@
 iso: ojg
 name: Eastern Ojibwa
 autonym: Ojibway
+alt_names: [Anishinaabemowin, E Ojibwa, E. Ojibwa, Eastern Ojibwe, Mississauga, Ojibwa, Ojibwa (Eastern), "Ojibwa, Eastern", Ojibwe, "Ojibwe de l'est", Oyibua oriental]
 population: 25900
 country_id: CA
 country_name: Canada

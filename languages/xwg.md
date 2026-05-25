@@ -2,6 +2,7 @@
 iso: xwg
 name: Kwegu
 autonym: Bacha
+alt_names: [Koegu, Koyego, Kwegi, Menja, Nidi]
 population: 450
 country_id: ET
 country_name: Ethiopia

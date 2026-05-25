@@ -1,7 +1,9 @@
 ---
 iso: mvp
 name: Duri
+name_zh: 杜里语
 autonym: Massenrempulu
+alt_names: [Masenrempulu, Nordost-Celebes]
 population: 123000
 country_id: ID
 country_name: Indonesia

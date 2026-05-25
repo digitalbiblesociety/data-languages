@@ -2,6 +2,7 @@
 iso: pas
 name: Papasena
 autonym: bahasa Papasena
+alt_names: [Indonesia]
 population: 400
 country_id: ID
 country_name: Indonesia

@@ -2,6 +2,7 @@
 iso: bcm
 name: Bannoni
 autonym: Banoni
+alt_names: [Tsunari]
 population: 1000
 country_id: PG
 country_name: Papua New Guinea

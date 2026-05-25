@@ -1,7 +1,9 @@
 ---
 iso: ngh
 name: Nǁng
+name_zh: 努語
 autonym: Nǀuu
+alt_names: [/Nusan, "=|Khomani", Khomani, N/u, "N|u", "N|uu", "N||ng", ǂKhomani]
 population: 500
 country_id: ZA
 country_name: South Africa

@@ -1,7 +1,9 @@
 ---
 iso: pib
 name: Yine
+name_zh: 皮洛語
 autonym: Piro
+alt_names: ["\"Piro\"", "\"Simirinche\"", Arawakan (Piro), Chontaquiro, Contaquiro, Manitereni, Maxineri, Pira, Piro Arawakan, Pirro, Simiranch, Simirinch]
 population: 3260
 country_id: PE
 country_name: Peru

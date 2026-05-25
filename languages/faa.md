@@ -2,6 +2,7 @@
 iso: faa
 name: Fasu
 autonym: West Kutubuan
+alt_names: [Fasu (Namo Me), Namome, Namumi, Some]
 population: 1100
 country_id: PG
 country_name: Papua New Guinea

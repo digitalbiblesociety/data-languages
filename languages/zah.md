@@ -2,6 +2,7 @@
 iso: zah
 name: Zangwal
 autonym: Twar
+alt_names: [Zwangal]
 population: 100
 country_id: NG
 country_name: Nigeria

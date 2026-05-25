@@ -2,6 +2,7 @@
 iso: nji
 name: Gudanji
 autonym: Ngarnka
+alt_names: [Anga, Angee, Gnanji, Godangee, Goodanji, Gudandji, Gundangee, Kakaringa, Koodangie, Koodanjee, Kooringee, Kotandji, Kudandji, Kudenji, Kundanja, Kurdanji, Kutandji, Kutanji, Kutanjtjii, Nandi, Ngandji, Ngangi, Nganji, Ngarndji, Ngarnga]
 population: null
 country_id: AU
 country_name: Australia

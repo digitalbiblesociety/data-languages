@@ -2,6 +2,7 @@
 iso: tpt
 name: Tlachichilco Tepehua
 autonym: West Tepehua
+alt_names: [Tepehua, Tepehua de Tlachichilco, "Tepehua, Tlachichilco", Tepehuano de Tlachichilco, Tepewa, Tlachichilco, Tlachichilco Tepewa, TlachichilcoTepewa]
 population: 3000
 country_id: MX
 country_name: Mexico

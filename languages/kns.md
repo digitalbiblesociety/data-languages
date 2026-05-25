@@ -1,7 +1,9 @@
 ---
 iso: kns
 name: Kensiu
+name_zh: 肯修語
 autonym: Kenseu
+alt_names: [Belubn, Jarum, Kense, Kensieu, Kensiw, Kensiw (Malaisie), Kensiw (Thaïlande), Kinaurí, Kinnauri, Maniq, Mawas, Mendi, Mengo, Meni, Menik, Moni, Monik, Moniq, Mos, Ngok Pa, Orang Bukit, Orang Liar, Sakai, Semang, Semang Proper (of Ulu Krian), Semang-Dialekte, Tiong]
 population: 232
 country_id: MY
 country_name: Malaysia

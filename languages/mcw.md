@@ -2,6 +2,7 @@
 iso: mcw
 name: Mawa (Chad)
 autonym: Mahoua
+alt_names: [Mahoura, Mahwa, Mawa, Mawa language]
 population: 6560
 country_id: TD
 country_name: Chad

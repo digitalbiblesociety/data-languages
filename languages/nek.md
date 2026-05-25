@@ -2,6 +2,7 @@
 iso: nek
 name: Neku
 autonym: null
+alt_names: [Neukaledonien]
 population: 220
 country_id: NC
 country_name: New Caledonia

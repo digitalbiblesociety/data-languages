@@ -2,6 +2,7 @@
 iso: bao
 name: Waimaha
 autonym: Bará
+alt_names: [Barasano, Barasano (Northern), Bará-Tuyuka, Northern Barasano, Waimaja, Waípinõmakã]
 population: 131
 country_id: CO
 country_name: Colombia

@@ -1,6 +1,7 @@
 ---
 iso: emx
 name: Erromintxela
+name_zh: 埃罗明切拉语
 autonym: Erromintxela
 population: 500
 country_id: FR

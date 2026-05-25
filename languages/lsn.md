@@ -1,6 +1,7 @@
 ---
 iso: lsn
 name: Tibetan Sign Language
+name_zh: 藏语手语
 autonym: null
 population: 500
 country_id: CN

@@ -2,6 +2,7 @@
 iso: amv
 name: Ambelau
 autonym: Bahasa Ambelau
+alt_names: [Amblau]
 population: 5700
 country_id: ID
 country_name: Indonesia

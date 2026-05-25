@@ -2,6 +2,7 @@
 iso: faj
 name: Faita
 autonym: Kulsab
+alt_names: [Kursav]
 population: 10
 country_id: PG
 country_name: Papua New Guinea

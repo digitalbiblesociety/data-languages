@@ -2,6 +2,7 @@
 iso: bnv
 name: Bonerif
 autonym: Boneraf
+alt_names: [Beneraf, Edwas]
 population: 200
 country_id: ID
 country_name: Indonesia

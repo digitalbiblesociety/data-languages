@@ -2,6 +2,7 @@
 iso: mdt
 name: Mbere
 autonym: " Limbede"
+alt_names: [Ambede, Mbede, Mbédé, Mbété]
 population: 151500
 country_id: CG
 country_name: Congo

@@ -2,6 +2,7 @@
 iso: kkv
 name: Kangean
 autonym: Bĕsa Kangėan
+alt_names: [Indonesia]
 population: 110000
 country_id: ID
 country_name: Indonesia

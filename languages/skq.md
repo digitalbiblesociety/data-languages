@@ -2,6 +2,7 @@
 iso: skq
 name: Sininkere
 autonym: Silanke
+alt_names: [Silinkere]
 population: 6000
 country_id: BF
 country_name: Burkina Faso

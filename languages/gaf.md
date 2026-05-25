@@ -2,6 +2,7 @@
 iso: gaf
 name: Gende
 autonym: Bundi
+alt_names: [Gende-Siane-Gahuku-Kamano-Fore, Gendeka, Gene]
 population: 8000
 country_id: PG
 country_name: Papua New Guinea

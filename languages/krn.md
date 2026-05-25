@@ -2,6 +2,7 @@
 iso: krn
 name: Sapo
 autonym: Sarpo
+alt_names: [Southern Krahn]
 population: 66700
 country_id: LR
 country_name: Liberia

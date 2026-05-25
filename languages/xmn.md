@@ -2,6 +2,7 @@
 iso: xmn
 name: Manichaean Middle Persian
 autonym: "𐭯𐭠𐭫𐭮𐭩𐭪 (, )"
+alt_names: ["Persian, Manichaean Middle"]
 population: null
 country_id: IR
 country_name: Iran

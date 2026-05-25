@@ -1,7 +1,9 @@
 ---
 iso: tiy
 name: Tiruray
+name_zh: 蒂鲁雷语
 autonym: Teduray
+alt_names: [Tirurai]
 population: 60500
 country_id: PH
 country_name: Philippines

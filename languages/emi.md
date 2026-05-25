@@ -1,7 +1,9 @@
 ---
 iso: emi
 name: "Mussau-Emira"
+name_zh: 穆绍-埃米拉语
 autonym: null
+alt_names: [Emira, Emira-Mussau, Musao, Musau-Emira, Mussau]
 population: 3500
 country_id: PG
 country_name: Papua New Guinea

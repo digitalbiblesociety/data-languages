@@ -1,7 +1,9 @@
 ---
 iso: alo
 name: "Larike-Wakasihu"
+name_zh: 瓦卡西胡语
 autonym: "Larike-Wakasihu"
+alt_names: [Larike, Wakasihu]
 population: 12600
 country_id: ID
 country_name: Indonesia

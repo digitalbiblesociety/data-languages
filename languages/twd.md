@@ -1,6 +1,7 @@
 ---
 iso: twd
 name: Twents
+name_zh: 特文特方言
 autonym: Twente
 population: null
 country_id: NL

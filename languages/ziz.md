@@ -2,6 +2,7 @@
 iso: ziz
 name: Zizilivakan
 autonym: Fali of Jilbu
+alt_names: [Ziliva, Zizilivakaneg, Ziziliveken, Àmzírív]
 population: 2800
 country_id: NG
 country_name: Nigeria

@@ -1,7 +1,9 @@
 ---
 iso: zne
 name: Zande
+name_zh: 贊德語
 autonym: Pazande
+alt_names: [Asande, Azande, Badjande, Bazenda, Língua zande, Sande, Zande (individual language), Zandi]
 population: 1792000
 country_id: CD
 country_name: DR Congo

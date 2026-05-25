@@ -2,6 +2,7 @@
 iso: aqd
 name: Ampari Dogon
 autonym: Nyambeeŋge
+alt_names: [Ambeenge, Ampari, "Dogon, Ampari", Pignari]
 population: 5200
 country_id: ML
 country_name: Mali

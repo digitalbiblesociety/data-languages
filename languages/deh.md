@@ -1,7 +1,9 @@
 ---
 iso: deh
 name: Dehwari
+name_zh: 德瓦里語
 autonym: دهواری
+alt_names: [Deghwari]
 population: 13000
 country_id: PK
 country_name: Pakistan

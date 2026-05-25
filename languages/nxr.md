@@ -2,6 +2,7 @@
 iso: nxr
 name: Ninggerum
 autonym: Muyu
+alt_names: [Eastern Tedi, Kasiwa, Kativa, Muju, Ningerum, Ninggeroem, Ninggirum, Ninggrum, Niyium, Obgwo, Orgwo, Tedi, Tidi, Upper Tedi]
 population: 5150
 country_id: PG
 country_name: Papua New Guinea

@@ -2,6 +2,7 @@
 iso: tpg
 name: Kula
 autonym: Tanglapui
+alt_names: ["\"Tanglapui\"", Kola, Lamtoka, Lantoka]
 population: 5000
 country_id: ID
 country_name: Indonesia

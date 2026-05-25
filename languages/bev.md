@@ -2,6 +2,7 @@
 iso: bev
 name: Daloa Bété
 autonym: Beteic
+alt_names: [Bete, Bété, "Bété, Daloa", Daloa Bete, Daloua Bété, Gbadi, Northern Bété]
 population: 130000
 country_id: CI
 country_name: "Côte d'Ivoire"

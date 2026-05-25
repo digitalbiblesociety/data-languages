@@ -2,6 +2,7 @@
 iso: adh
 name: Adhola
 autonym: japadhola
+alt_names: [Adhola jezik, Dhopadhola, Jopadhola, Jopadhɔla, Ludama]
 population: 482000
 country_id: UG
 country_name: Uganda

@@ -2,6 +2,7 @@
 iso: nnw
 name: Southern Nuni
 autonym: Nunuma
+alt_names: [Nibulu, Nouni, Nounouma, Nuna, Nune, Nuni, "Nuni, Southern", Nuruma]
 population: 147000
 country_id: BF
 country_name: Burkina Faso

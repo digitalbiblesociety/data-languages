@@ -2,6 +2,7 @@
 iso: ywu
 name: Wumeng Nasu
 autonym: Eastern Yi
+alt_names: ["Nasu, Wumeng", "Nasu,Wumeng", Weining, Wumeng Yi, Wusa, Wusa Yi, Yi, "Yi, Wusa", Yuan-Mo Yi]
 population: 200000
 country_id: CN
 country_name: China

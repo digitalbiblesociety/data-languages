@@ -2,6 +2,7 @@
 iso: sow
 name: Sowanda
 autonym: Waina
+alt_names: [Punda-Umeda, Pundina, Waina-Sowanda, Wanja, Wanya, Wina]
 population: 1180
 country_id: PG
 country_name: Papua New Guinea

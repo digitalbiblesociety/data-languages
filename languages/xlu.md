@@ -2,6 +2,7 @@
 iso: xlu
 name: Cuneiform Luwian
 autonym: "Luvian, Luish"
+alt_names: [Cuneiform Hittite, Cuneiform Luvian, Luwian, "Luwian, Cuneiform", West Luwian]
 population: null
 country_id: TR
 country_name: Turkey

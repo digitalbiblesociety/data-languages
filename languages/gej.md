@@ -1,7 +1,9 @@
 ---
 iso: gej
 name: Gen
+name_zh: 格恩語
 autonym: Mina
+alt_names: [Ge, Gebe, Gen-Gbe, Gena lingvo, Geneg, Guin, Lingua gen, Língua gen, Mina-Gen, Popo]
 population: 590000
 country_id: TG
 country_name: Togo

@@ -2,6 +2,7 @@
 iso: bdu
 name: Oroko
 autonym: Balondo
+alt_names: [Bakundu, Bakundu-Balue, Balundu-Bima, Kundu, Londo, Lue, Lundu, Oroko (West), Oroko-East, Oroko-West]
 population: 106000
 country_id: CM
 country_name: Cameroon

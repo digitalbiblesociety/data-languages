@@ -1,7 +1,9 @@
 ---
 iso: sam
 name: Samaritan Aramaic
+name_zh: 撒瑪利亞亞拉姆語
 autonym: ארמית Arāmît
+alt_names: ["Aramaic, Samaritan"]
 population: null
 country_id: PS
 country_name: Palestine State

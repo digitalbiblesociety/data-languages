@@ -2,6 +2,7 @@
 iso: xbe
 name: Bigambal
 autonym: Bigambul
+alt_names: [Bigumbil]
 population: null
 country_id: AU
 country_name: Australia

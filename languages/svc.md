@@ -1,7 +1,9 @@
 ---
 iso: svc
 name: Vincentian Creole English
+name_zh: 文森特克里奥尔语
 autonym: Vincy Twang
+alt_names: ["Creole English, Vincentian"]
 population: 108000
 country_id: VC
 country_name: "St. Vincent & Grenadines"

@@ -2,6 +2,7 @@
 iso: ksv
 name: Kusu
 autonym: Fuluka
+alt_names: [Kikusu, Kongola, Kutsu, Lokutsu]
 population: 100000
 country_id: CD
 country_name: DR Congo

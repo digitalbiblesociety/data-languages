@@ -1,6 +1,7 @@
 ---
 iso: ukl
 name: Ukrainian Sign Language
+name_zh: 烏克蘭手語
 autonym: Українська жестова мова
 population: 54500
 country_id: UA

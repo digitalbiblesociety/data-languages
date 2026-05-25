@@ -1,7 +1,9 @@
 ---
 iso: mgt
 name: Mongol
+name_zh: 蒙古語（新幾內亞）
 autonym: Mwakai
+alt_names: [Mongol-Kaimba]
 population: 340
 country_id: PG
 country_name: Papua New Guinea

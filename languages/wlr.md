@@ -2,6 +2,7 @@
 iso: wlr
 name: Wailapa
 autonym: Ale
+alt_names: [Vanuatu]
 population: 100
 country_id: VU
 country_name: Vanuatu

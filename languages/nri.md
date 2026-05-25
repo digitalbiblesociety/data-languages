@@ -2,6 +2,7 @@
 iso: nri
 name: Chokri Naga
 autonym: Chakhesang
+alt_names: [Angami, Chakrima Naga, Chakrimā, Chakru, Charkrima, Chokri, Chokrí, Eastern Angami, Naga, "Naga, Chokri", "Naga,Chokri", Tśakrima]
 population: 111000
 country_id: IN
 country_name: India

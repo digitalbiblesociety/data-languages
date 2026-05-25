@@ -1,7 +1,9 @@
 ---
 iso: xag
 name: Aghwan
+name_zh: 高加索阿尔巴尼亚语
 autonym: Old Udi
+alt_names: [Agwan, Caucasian Albanian]
 population: null
 country_id: AL
 country_name: Albania

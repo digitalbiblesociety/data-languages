@@ -2,6 +2,7 @@
 iso: sgc
 name: Kipsigis
 autonym: Kipsiikis
+alt_names: [Kipsigiseg, Kipsikis]
 population: 1910000
 country_id: KE
 country_name: Kenya

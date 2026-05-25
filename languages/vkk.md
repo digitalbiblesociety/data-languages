@@ -2,6 +2,7 @@
 iso: vkk
 name: Kaur
 autonym: Ka’ur
+alt_names: [Bintuhan, "Ka'ur", Mulak]
 population: 40000
 country_id: ID
 country_name: Indonesia

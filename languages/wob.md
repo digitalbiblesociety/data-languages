@@ -2,6 +2,7 @@
 iso: wob
 name: Wè Northern
 autonym: Northern Wèè
+alt_names: [Ouobe, Wobe, Wobé, Wèè]
 population: 265000
 country_id: CI
 country_name: "Côte d'Ivoire"

@@ -2,6 +2,7 @@
 iso: otr
 name: Otoro
 autonym: Utoro
+alt_names: [Dhitoro, Kawama, Kawarma, Litoro]
 population: 10000
 country_id: SD
 country_name: Sudan

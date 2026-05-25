@@ -2,6 +2,7 @@
 iso: prz
 name: Providencia Sign Language
 autonym: Provisle
+alt_names: [Lengua de señas de Providencia, Língua de Sinais da Providência, Providence Island Sign Language, Providencia-tegnspråk]
 population: 2500
 country_id: CO
 country_name: Colombia

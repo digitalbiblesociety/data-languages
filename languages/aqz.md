@@ -2,6 +2,7 @@
 iso: aqz
 name: Akuntsu
 autonym: Akunsu
+alt_names: ["Akunts'u", Akuntsú]
 population: null
 country_id: BR
 country_name: Brazil

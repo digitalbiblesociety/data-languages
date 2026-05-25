@@ -2,6 +2,7 @@
 iso: yra
 name: Yerakai
 autonym: Yerekai
+alt_names: [Garamambu]
 population: 380
 country_id: PG
 country_name: Papua New Guinea

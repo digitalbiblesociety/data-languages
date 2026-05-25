@@ -1,7 +1,9 @@
 ---
 iso: ghs
 name: "Guhu-Samane"
+name_zh: 古湖-珊曼语
 autonym: null
+alt_names: [Bia, Guhu-Semane, Mid-Waria, Muri, Paiawa, Tahari]
 population: 12000
 country_id: PG
 country_name: Papua New Guinea

@@ -1,7 +1,9 @@
 ---
 iso: sbf
 name: Chabu
+name_zh: 沙博语
 autonym: Chabu
+alt_names: ["\"Mekeyer\"", "\"Mikair\"", "\"Mikeyir\"", Mekeyer, Mikair, Mikeyir, Sabu, Shabo, Shabo language, Shabu, Shako]
 population: 400
 country_id: ET
 country_name: Ethiopia

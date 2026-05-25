@@ -2,6 +2,7 @@
 iso: gdl
 name: Dirasha
 autonym: Gidole
+alt_names: [Dhirasha, Diraasha, Dirayta, Gardula, Gardulla, Ghidole, Konso hizkuntza, Konso language, Lenga Komso]
 population: 10100
 country_id: ET
 country_name: Ethiopia

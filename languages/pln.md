@@ -1,7 +1,9 @@
 ---
 iso: pln
 name: Palenquero
+name_zh: 帕伦奎罗人
 autonym: Lengua
+alt_names: [Criollo palenquero, Créole de Palenque, Palenkero, Palenque, Palenquero nyelv]
 population: 3500
 country_id: CO
 country_name: Colombia

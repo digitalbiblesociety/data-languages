@@ -2,6 +2,7 @@
 iso: gnu
 name: Gnau
 autonym: null
+alt_names: [Gnau language]
 population: 1330
 country_id: PG
 country_name: Papua New Guinea

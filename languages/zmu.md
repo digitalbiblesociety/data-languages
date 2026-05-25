@@ -2,6 +2,7 @@
 iso: zmu
 name: Muruwari
 autonym: Murawari
+alt_names: [Marawari, MarraaWarree, Maruwari, Moorawarree, Moorawarrie, Morewari, Morowari, Murawarri, Murra warri, Murra-warri, Murrawari, Murrawarri, Murri, Murruwurri, Murueri, Muruwarri, Muruworri, Muruwurri, Yacko Yacko]
 population: null
 country_id: AU
 country_name: Australia

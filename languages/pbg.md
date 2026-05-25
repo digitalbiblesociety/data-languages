@@ -1,7 +1,9 @@
 ---
 iso: pbg
 name: Paraujano
+name_zh: 阿努語
 autonym: Añun
+alt_names: [Anun, Anyú, Añú, Añún, Parahujano, Parauhano, Parujano]
 population: 1
 country_id: VE
 country_name: Venezuela

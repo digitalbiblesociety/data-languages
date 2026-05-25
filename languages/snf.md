@@ -1,7 +1,9 @@
 ---
 iso: snf
 name: Noon
+name_zh: 诺恩语
 autonym: Non
+alt_names: [None, Noono, Serer-Non, Serer-Noon]
 population: 32900
 country_id: SN
 country_name: Senegal

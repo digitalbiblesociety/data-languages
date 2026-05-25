@@ -2,6 +2,7 @@
 iso: bkx
 name: Baikeno
 autonym: Uab Metô
+alt_names: [Ambeno, Ambenu, Baikenu, Biqueno, Oe Cusi, Oecussi, Oekusi, Uab Meto, Uab Pah Meto, Vaikenu, Vaikino]
 population: 81700
 country_id: TL
 country_name: "Timor-Leste"

@@ -2,6 +2,7 @@
 iso: cfg
 name: Como Karim
 autonym: Asom
+alt_names: [Chomo, Kinzimba, Kirim, Kiyu, Nuadhu, Shomo Karim, Shomoh, Shomong]
 population: 11400
 country_id: NG
 country_name: Nigeria

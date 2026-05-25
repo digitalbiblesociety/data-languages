@@ -2,6 +2,7 @@
 iso: nmx
 name: Nama (Papua New Guinea)
 autonym: null
+alt_names: [Nama]
 population: 1200
 country_id: PG
 country_name: Papua New Guinea

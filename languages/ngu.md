@@ -2,6 +2,7 @@
 iso: ngu
 name: Guerrero Nahuatl
 autonym: "Nahuatl, Guerrero"
+alt_names: [Central Nawa, Guerrero Aztec, Mexicano, Nahua central, Nahuatl, Nahuatl (Xalitla), Nawa, Náhuatl central, Náhuatl de Guerrero, Xalitla]
 population: 125000
 country_id: MX
 country_name: Mexico

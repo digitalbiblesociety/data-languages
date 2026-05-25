@@ -2,6 +2,7 @@
 iso: nhf
 name: Nhuwala
 autonym: null
+alt_names: [Jawanmala, Ngoala, Noala, Noalla, Noanamaronga, Noella, Nooanamaronga, Nooanamarongo, Nooela, Nornamaronga, Nuala, Nuela, Nunkaberi, Nuwala]
 population: null
 country_id: AU
 country_name: Australia

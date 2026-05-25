@@ -2,6 +2,7 @@
 iso: zpj
 name: Quiavicuzas Zapotec
 autonym: (Santiago Quiavicuzas)
+alt_names: [Eastern Sapoteko, Eastern Zapotec, Northeastern Yautepec Zapotec, Northern Sapoteko, Petapa, Petapa Zapotec, Transyautepecan Zapotec, Transyautepecan Zapotec dialect continuum, Zapotec, "Zapotec, Quiavicuzas", Zapoteco de Petapa, Zapoteco de Quiavicuzas, Zapoteco de San Bartolo Yautepec, Zapoteco de San Juan Lachixila O, Zapoteco de Santa María Petapa, Zapoteco mixtepeco, Zapotèque de Mixtepe, Zapotèque de Petapa, Zapotèque de San Bartolo Yautepec]
 population: 180
 country_id: MX
 country_name: Mexico

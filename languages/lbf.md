@@ -1,7 +1,9 @@
 ---
 iso: lbf
 name: Tinani
+name_zh: 提那語
 autonym: Rangloi
+alt_names: [Bhotia of Lahul, Bhōṭiā of Lahul, Gondhla, Gondla, Gōndlā, Lahauli, Lahouli, Lahul, Lahuli, Lahuli Tinan, Lāhulī, Ranglōī, Rangōi, Teenan, Tinan, Tinan Lahuli]
 population: 12050
 country_id: IN
 country_name: India

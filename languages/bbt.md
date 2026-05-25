@@ -2,6 +2,7 @@
 iso: bbt
 name: Mburku
 autonym: Barke
+alt_names: [Barko, Burkanawa, Kanawa, Kariya Wuufu, Lipkawa, Mburkanci, Wudufu]
 population: 12000
 country_id: NG
 country_name: Nigeria

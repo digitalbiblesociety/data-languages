@@ -2,6 +2,7 @@
 iso: djb
 name: Djinba
 autonym: null
+alt_names: [Daii, Diakui, Djimba, Djinang, Dyinba, Ganalbwingu, Gunalbingu, Jinba, Kurkamarnapia, Outjanbah, Ritharngu, Yolngu]
 population: 53
 country_id: AU
 country_name: Australia

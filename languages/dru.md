@@ -1,7 +1,9 @@
 ---
 iso: dru
 name: Rukai
+name_zh: 鲁凯语
 autonym: Drekay
+alt_names: [Banga, Bantalang, Bantaurang, Drukai, Drukay, Dukai, Dyokay, Idioma rukai, Kadas, Lingua Rukai, Lû-khái-ngî, Rukái, Rutkai, Sarisen, Sprache von Formosa, Taloma, Tanan dialect, Tsalisen, Tsarisen]
 population: 2000
 country_id: TW
 country_name: Taiwan

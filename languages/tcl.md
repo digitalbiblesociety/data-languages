@@ -2,6 +2,7 @@
 iso: tcl
 name: Taman (Myanmar)
 autonym: null
+alt_names: [Taman]
 population: 2015
 country_id: MM
 country_name: Myanmar

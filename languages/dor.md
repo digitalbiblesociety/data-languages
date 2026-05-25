@@ -2,6 +2,7 @@
 iso: dor
 name: "Dori'o"
 autonym: Kwarekwareo
+alt_names: [Südliche Salomons-Inseln]
 population: 2410
 country_id: SB
 country_name: Solomon Islands

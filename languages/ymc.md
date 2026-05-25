@@ -2,6 +2,7 @@
 iso: ymc
 name: Southern Muji
 autonym: Bokha
+alt_names: [Aga, Hlaka, Khlaka, Lahi, Muji, "Muji, Southern", "Muji,Southern", Mujima, Muzi, Phula, Southern, Tjeki, Tshebu, Tshibu]
 population: 26000
 country_id: CN
 country_name: China

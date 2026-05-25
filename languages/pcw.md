@@ -2,6 +2,7 @@
 iso: pcw
 name: Pyapun
 autonym: null
+alt_names: [Pyapum]
 population: 17300
 country_id: NG
 country_name: Nigeria

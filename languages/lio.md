@@ -2,6 +2,7 @@
 iso: lio
 name: Liki
 autonym: Moar
+alt_names: [Sobei]
 population: 320
 country_id: ID
 country_name: Indonesia

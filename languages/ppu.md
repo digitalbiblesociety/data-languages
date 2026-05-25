@@ -1,7 +1,9 @@
 ---
 iso: ppu
 name: Papora
+name_zh: 巴布拉语
 autonym: Bupuran
+alt_names: [Hinapavosa, Hoanya, Papola, Papora-Hoanya, Sprache von Formosa, Vupuran]
 population: null
 country_id: TW
 country_name: Taiwan

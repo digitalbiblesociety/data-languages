@@ -2,6 +2,7 @@
 iso: cji
 name: Chamalal
 autonym: чамалалдуб мичIчI (çamalaldub miçʿçʿ)
+alt_names: [Camalal, Chamali  чамалинский язык, Chamalin, Język czamalalski, Tchamalaleg, Tšamalalin kieli, çamalaldub miçʿçʿ, Чамалинский язык, Чамалинська мова, чамалалдуб мичIчI, ჭამალალური ენა]
 population: 5000
 country_id: RU
 country_name: Russia

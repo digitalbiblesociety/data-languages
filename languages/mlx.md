@@ -2,6 +2,7 @@
 iso: mlx
 name: Malfaxal
 autonym: " Na'ahai"
+alt_names: [Mallicolo, Malvaxal-Toman Island, "Naha'ai", Taman, Tomman]
 population: 600
 country_id: VU
 country_name: Vanuatu

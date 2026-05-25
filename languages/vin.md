@@ -1,7 +1,9 @@
 ---
 iso: vin
 name: Vinza
+name_zh: 温扎语
 autonym: Kivinza
+alt_names: [Tanzania]
 population: 10000
 country_id: TZ
 country_name: Tanzania

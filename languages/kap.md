@@ -1,7 +1,9 @@
 ---
 iso: kap
 name: Bezhta
+name_zh: 贝吉塔语
 autonym: бежкьалас миц
+alt_names: [Bechitin, Bejila, Bejteg, Bexita, Bezheta, Bezhita, Bezhti, Bežtan kieli, Język kapuczyński, Kapuch, Kapucha, Kapuchin, Kupuca, Língua Bezhta, bežƛʼalas mic, Бежта јазик, Бежтинский язык, Бежтинська мова, бежитинский язык, капучинский язык]
 population: 6200
 country_id: RU
 country_name: Russia

@@ -2,6 +2,7 @@
 iso: bet
 name: Guiberoua Béte
 autonym: Beteic
+alt_names: [Bete, "Béte, Guiberoua", Bété, Central Bété, Guiberoua Bete, Western Bété]
 population: 130000
 country_id: CI
 country_name: "Côte d'Ivoire"

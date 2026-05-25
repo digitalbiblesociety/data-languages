@@ -2,6 +2,7 @@
 iso: gng
 name: Ngangam
 autonym: Gulimancema
+alt_names: [Dye, Gamgan, Gangam, Gangum, Gbanyang, Migangam, Mijiem, Nbangam, Ngangan, Ngãngã]
 population: 217400
 country_id: TG
 country_name: Togo

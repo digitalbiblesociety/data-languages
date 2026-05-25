@@ -2,6 +2,7 @@
 iso: gzn
 name: Gane
 autonym: Gani
+alt_names: [Giman]
 population: 2900
 country_id: ID
 country_name: Indonesia

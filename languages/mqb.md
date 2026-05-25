@@ -2,6 +2,7 @@
 iso: mqb
 name: Mbuko
 autonym: null
+alt_names: [Mboko, Mbokou, Mboku, Mbuku]
 population: 15000
 country_id: CM
 country_name: Cameroon

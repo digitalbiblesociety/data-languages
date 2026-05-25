@@ -2,6 +2,7 @@
 iso: azd
 name: Eastern Durango Nahuatl
 autonym: Durango Aztec
+alt_names: ["Nahuatl, Eastern Durango"]
 population: null
 country_id: MX
 country_name: Mexico

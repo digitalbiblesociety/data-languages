@@ -2,6 +2,7 @@
 iso: grm
 name: Kota Marudu Talantang
 autonym: null
+alt_names: [Malaysia]
 population: 1800
 country_id: MY
 country_name: Malaysia

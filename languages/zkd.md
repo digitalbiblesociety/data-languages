@@ -1,6 +1,7 @@
 ---
 iso: zkd
 name: Kadu
+name_zh: "Category:卡杜語"
 autonym: Kado
 population: 30000
 country_id: MM

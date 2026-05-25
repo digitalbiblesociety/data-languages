@@ -1,7 +1,9 @@
 ---
 iso: cog
 name: Chong
+name_zh: 仲语
 autonym: Samre
+alt_names: [Chawng, Cong, Shong, Xong, kui, ʃong, ภาษาชอง]
 population: 5000
 country_id: TH
 country_name: Thailand

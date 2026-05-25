@@ -2,6 +2,7 @@
 iso: qvc
 name: Cajamarca Quechua
 autonym: Kashamarka Runashimi
+alt_names: [Cajamarca, Cajamarca Kechua, Cajamarca-Quechua, Chinchaysuyo, Kashamarka rimay, Northern Quechua, Quechua, Quechua (Cajamarca), Quechua cajamarquino, "Quechua, Cajamarca"]
 population: 30000
 country_id: PE
 country_name: Peru

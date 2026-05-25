@@ -1,7 +1,9 @@
 ---
 iso: ugo
 name: Ugong
+name_zh: 贡语
 autonym: Ugong
+alt_names: ["'Ugong", Gong, Kanburi Lawa, Lawa, Ugawng, ภาษาก๊อง]
 population: 500
 country_id: TH
 country_name: Thailand

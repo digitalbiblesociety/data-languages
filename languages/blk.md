@@ -1,7 +1,9 @@
 ---
 iso: blk
 name: "Pa'o Karen"
+name_zh: 勃欧语
 autonym: "Pa-O Karen"
+alt_names: [Black Karen, "Karen, Pa'o", "Karen,Pa’o", Karennet, Northern Taungthu, Pa Oh, "Pa'o", Pa-O, Pa-U, Pao, Taungthu, Taungtu]
 population: 858740
 country_id: MM
 country_name: Myanmar

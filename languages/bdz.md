@@ -1,6 +1,7 @@
 ---
 iso: bdz
 name: Badeshi
+name_zh: 巴德希語
 autonym: Badakhshi
 population: 2825
 country_id: PK

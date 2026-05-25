@@ -2,6 +2,7 @@
 iso: kvi
 name: Kwang
 autonym: Buso
+alt_names: [Kouang, Kuang, Kwong]
 population: 10000
 country_id: TD
 country_name: Chad

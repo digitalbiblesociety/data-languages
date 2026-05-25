@@ -2,6 +2,7 @@
 iso: snv
 name: "Sa'ban"
 autonym: Merau
+alt_names: ["Malaysia, Indonesia"]
 population: 1110
 country_id: MY
 country_name: Malaysia

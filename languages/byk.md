@@ -1,6 +1,7 @@
 ---
 iso: byk
 name: Biao
+name_zh: 标话
 autonym: Gang Bau
 population: 10000
 country_id: CN

@@ -2,6 +2,7 @@
 iso: mzv
 name: Manza
 autonym: Mandja
+alt_names: [Manja]
 population: 220000
 country_id: CF
 country_name: Central African Republic

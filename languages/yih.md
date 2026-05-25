@@ -2,6 +2,7 @@
 iso: yih
 name: Western Yiddish
 autonym: ייִדיש
+alt_names: [Central Yiddish, Judeo-German, Western, Yiddish, "Yiddish, Western", Yidish]
 population: 600000
 country_id: DE
 country_name: Germany

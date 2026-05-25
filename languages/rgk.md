@@ -2,6 +2,7 @@
 iso: rgk
 name: Rangkas
 autonym: Canpa
+alt_names: [Chyanam, Johari, Kyonam, Rangas language, Sankiyā, Saukas, Saukiya Khun, Shaukas]
 population: null
 country_id: IN
 country_name: India

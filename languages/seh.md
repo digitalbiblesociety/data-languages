@@ -1,7 +1,9 @@
 ---
 iso: seh
 name: Sena
+name_zh: 塞纳语
 autonym: null
+alt_names: [Chisena, Cisena, Język sena]
 population: 2030000
 country_id: MZ
 country_name: Mozambique

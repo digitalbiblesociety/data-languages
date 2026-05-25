@@ -1,7 +1,9 @@
 ---
 iso: ple
 name: "Palu'e"
+name_zh: 帕卢厄语
 autonym: "Lu'a"
+alt_names: ["Palu'en kieli", Palue, Paluees, Paluqe]
 population: 10000
 country_id: ID
 country_name: Indonesia

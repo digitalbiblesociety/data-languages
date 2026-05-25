@@ -2,6 +2,7 @@
 iso: dbg
 name: Dogul Dom Dogon
 autonym: Dogul Dom
+alt_names: [Dogon, "Dogon, Dogul Dom", Dogul-Dom, Dogul-Dom Dogon, Dogulu, North Plateau Dogon]
 population: 15700
 country_id: ML
 country_name: Mali

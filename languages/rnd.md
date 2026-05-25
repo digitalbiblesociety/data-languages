@@ -2,6 +2,7 @@
 iso: rnd
 name: Ruund
 autonym: Chiluwunda
+alt_names: [Chilu Wunda, Lunda Kambove, Lunda-Kamboro, Luunda, Luwunda, Muatiamvua, Northern Lunda, Uruund]
 population: 251500
 country_id: CD
 country_name: DR Congo

@@ -2,6 +2,7 @@
 iso: tul
 name: Tula
 autonym: Kotule
+alt_names: [Kutule]
 population: 50000
 country_id: NG
 country_name: Nigeria

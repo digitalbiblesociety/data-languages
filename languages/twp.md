@@ -2,6 +2,7 @@
 iso: twp
 name: Ere
 autonym: Nane
+alt_names: [Admiralitäts-inseln, E]
 population: 1030
 country_id: PG
 country_name: Papua New Guinea

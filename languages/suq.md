@@ -2,6 +2,7 @@
 iso: suq
 name: Suri
 autonym: Surma
+alt_names: [Chai, Churi, Cirma, Dhuri, Dirma, Eastern Suri, Shuri, Shuro, "Suri, Tirmaga-Chai", Terema, Terna, Tid, Tirima, Tirma, Tirmaga, Tirmaga-Chai Suri, Tirmagi]
 population: 18640
 country_id: ET
 country_name: Ethiopia

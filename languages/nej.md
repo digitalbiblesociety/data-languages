@@ -2,6 +2,7 @@
 iso: nej
 name: Neko
 autonym: Yarete
+alt_names: [Bedawi, Beja]
 population: 320
 country_id: PG
 country_name: Papua New Guinea

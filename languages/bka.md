@@ -2,6 +2,7 @@
 iso: bka
 name: Kyak
 autonym: Bambuka
+alt_names: [Nyakyak]
 population: 5000
 country_id: NG
 country_name: Nigeria

@@ -1,6 +1,7 @@
 ---
 iso: din
 name: Dinka
+name_zh: 丁卡语
 autonym: Thuɔŋjäŋ
 population: 1365900
 country_id: SS

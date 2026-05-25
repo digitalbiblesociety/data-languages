@@ -2,6 +2,7 @@
 iso: zwa
 name: Zay
 autonym: ዛይኘ
+alt_names: [Gelilla, "Lak'i", Laqi, Zai, Zaisé, Zayeg, Zoay, Zway]
 population: 4880
 country_id: ET
 country_name: Ethiopia

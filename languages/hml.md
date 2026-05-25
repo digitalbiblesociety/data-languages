@@ -1,7 +1,9 @@
 ---
 iso: hml
 name: Luopohe Hmong
+name_zh: 苗语罗泊河次方言
 autonym: "A-Hmyo"
+alt_names: ["Hmong, Luopohe", Luobohe Miao, Luopohe Miao, "Miao, Luopohe", Xijia Miao, Ximahe Miao]
 population: 61000
 country_id: CN
 country_name: China

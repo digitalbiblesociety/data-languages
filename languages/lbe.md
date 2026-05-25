@@ -1,7 +1,9 @@
 ---
 iso: lbe
 name: Lak
+name_zh: 拉克语
 autonym: лакку маз (lakːu maz)
+alt_names: [Idioma lak, Język lakijski, Kazikumukhtsy, Laco, Lakeg, Laki, Laki keel, Lakin kieli, Lakische Sprache, Lakça, Lingua lak, Língua lak, Лак чĕлхи, Лакку маз, Лакская мова, Лакски език, Лакски јазик, Лакский язык, Лакська мова, لغة لاك, ภาษาลัก, 라크어]
 population: 156300
 country_id: RU
 country_name: Russia

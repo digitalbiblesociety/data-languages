@@ -2,6 +2,7 @@
 iso: kmd
 name: Majukayang Kalinga
 autonym: Kalinga
+alt_names: ["Kalinga, Madukayang", "Kalinga, Majukayang", Majukayong]
 population: 1500
 country_id: PH
 country_name: Philippines

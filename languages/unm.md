@@ -1,7 +1,9 @@
 ---
 iso: unm
 name: Unami
+name_zh: 孟斯特拉華語
 autonym: Delaware
+alt_names: [Lenape, Lenni-Lenape, Oklahoma Delaware, Tla Wilano, Unami Delaware, Unamí]
 population: null
 country_id: US
 country_name: United States

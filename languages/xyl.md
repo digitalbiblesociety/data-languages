@@ -2,6 +2,7 @@
 iso: xyl
 name: Yalakalore
 autonym: null
+alt_names: [Kithāulhú, Mamaindê, Mamande, Nakarothe, Negarotê, Northern Nambikuaran, Northern Nambikwara, Northern Nambiquara]
 population: null
 country_id: BR
 country_name: Brazil

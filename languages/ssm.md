@@ -1,7 +1,9 @@
 ---
 iso: ssm
 name: Semnam
+name_zh: 塞姆南语
 autonym: "[səmˈnãːm] /smnaːm/"
+alt_names: [Malaysia]
 population: 670
 country_id: MY
 country_name: Malaysia

@@ -1,7 +1,9 @@
 ---
 iso: clm
 name: Clallam
+name_zh: 克拉勒姆语
 autonym: Nəxʷsƛ̓ay̓əmúcən
+alt_names: [Język klallam, Klallam, Klallam language, Klellam, "Na'klallam", "Nəxʷsƛ'áy'əmucən", "S'klallam", nəxʷsƛʼáyʼəmʼucən]
 population: null
 country_id: US
 country_name: United States

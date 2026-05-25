@@ -2,6 +2,7 @@
 iso: awv
 name: Jair Awyu
 autonym: Jair
+alt_names: ["Awyu, Jair"]
 population: 2300
 country_id: ID
 country_name: Indonesia

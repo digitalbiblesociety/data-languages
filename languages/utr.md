@@ -2,6 +2,7 @@
 iso: utr
 name: Etulo
 autonym: Eturo
+alt_names: [Turumawa, Utur]
 population: 10000
 country_id: NG
 country_name: Nigeria

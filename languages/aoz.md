@@ -1,7 +1,9 @@
 ---
 iso: aoz
 name: Uab Meto
+name_zh: 瓦布梅托语
 autonym: Uab Metô
+alt_names: ["\"Dawan\"", "\"Rawan\"", "\"Timor Dawan\"", Atoni, Dawan (pejorative), Meto, Orang Gunung, Rawan, Timol, Timor, Timor Dawan, Timoreesch, Timoreezen, Timorese, Uab Atoni Pah Meto, Uab Pah Meto]
 population: 700000
 country_id: ID
 country_name: Indonesia

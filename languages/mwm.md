@@ -2,6 +2,7 @@
 iso: mwm
 name: Sar
 autonym: Madjingay
+alt_names: [Sara, Sara Madjingay]
 population: 183000
 country_id: TD
 country_name: Chad

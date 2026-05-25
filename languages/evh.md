@@ -2,6 +2,7 @@
 iso: evh
 name: Uvbie
 autonym: Evrie
+alt_names: ["\"Evhro\"", Effurun, Uvhria, Uvwie]
 population: 19800
 country_id: NG
 country_name: Nigeria

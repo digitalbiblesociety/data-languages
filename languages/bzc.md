@@ -2,6 +2,7 @@
 iso: bzc
 name: Southern Betsimisaraka Malagasy
 autonym: malagasy
+alt_names: ["Malagasy, Southern Betsimisaraka"]
 population: null
 country_id: MG
 country_name: Madagascar

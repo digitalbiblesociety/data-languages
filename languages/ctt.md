@@ -2,6 +2,7 @@
 iso: ctt
 name: Wayanad Chetti
 autonym: Chetti
+alt_names: ["Chetti, Wayanad"]
 population: 5000
 country_id: IN
 country_name: India

@@ -2,6 +2,7 @@
 iso: wiv
 name: Vitu
 autonym: Muduapa
+alt_names: [Bali-Vitu, Muduapa jezik, Witu]
 population: 7000
 country_id: PG
 country_name: Papua New Guinea

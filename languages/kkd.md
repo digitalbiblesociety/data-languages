@@ -2,6 +2,7 @@
 iso: kkd
 name: Kinuku
 autonym: Nu
+alt_names: [Kinugu, Kinuka]
 population: 500
 country_id: NG
 country_name: Nigeria

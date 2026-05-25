@@ -2,6 +2,7 @@
 iso: bym
 name: Bidjara
 autonym: Southern Maric
+alt_names: [Bidjara / Bidyara, Bidjera, Bidyara, Bithara, Bitharra, Bitjara, Minkabari, Peachera, Peechera, Pitjara, Pitteroo, Wilya]
 population: null
 country_id: AU
 country_name: Australia

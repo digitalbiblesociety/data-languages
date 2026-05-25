@@ -1,7 +1,9 @@
 ---
 iso: ayh
 name: Hadrami Arabic
+name_zh: 哈德拉毛阿拉伯语
 autonym: Hadrami
+alt_names: [Arabic, "Arabic, Hadrami", "Arabic, Hadrami Spoken", Hadhrami, Hadhrami Arabic, Hadrami arapski, Hadromi, لهجة حضرمية]
 population: 4943000
 country_id: YE
 country_name: Yemen

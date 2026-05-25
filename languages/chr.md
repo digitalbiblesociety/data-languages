@@ -1,7 +1,9 @@
 ---
 iso: chr
 name: Cherokee
+name_zh: 切罗基语
 autonym: ᏣᎳᎩ ᎦᏬᏂᎯᏍᏗ Tsalagi Gawonihisdi
+alt_names: [Bahasa Cherokee, Ceroke sprǣc, Cherokee (Caroline du Nord), Cherokee (Oklahoma), Cherokee dili, Cherokeen kieli, Cherokesisk, Cherokesiska, Cheroki (Oklahoma), Cseroki nyelv, Idioma cheroqui, Iroquois, Język czirokeski, Lingua cherokee, Língua cherokee, North Carolina, Rechahecrian, Rickohockan, Southern Iroquoian, Tsalagi, Tsalaki simi, Tslagi, Ĉeroka lingvo, Čerokių kalba, Чероки, Черокиски јазик, Черокски език, ภาษาเชอโรกี, ჩეროკი, ᏣᎳᎩ (Cherokee), ᏣᎳᎩ ᎦᏬᏂᎯᏍᏗ, ᏣᎳᎩ ᎧᏬᏂᎯᏍᏗ, チェロキー語, 切羅基語, 체로키어]
 population: 1520
 country_id: US
 country_name: United States

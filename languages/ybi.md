@@ -2,6 +2,7 @@
 iso: ybi
 name: Yamphu
 autonym: Yamphe
+alt_names: [Jindā, Rai, Yamphu Kha, Yamphu Rai, Yamphuish, Yampoueg, Yanphu]
 population: 1720
 country_id: NP
 country_name: Nepal

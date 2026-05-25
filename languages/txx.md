@@ -2,6 +2,7 @@
 iso: txx
 name: Tatana
 autonym: Sabah Bisaya
+alt_names: ["Tatana'", Tatanaq]
 population: 5500
 country_id: MY
 country_name: Malaysia

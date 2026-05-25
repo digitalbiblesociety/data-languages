@@ -2,6 +2,7 @@
 iso: tka
 name: Truká
 autonym: null
+alt_names: [Brazil, Truka]
 population: null
 country_id: BR
 country_name: Brazil

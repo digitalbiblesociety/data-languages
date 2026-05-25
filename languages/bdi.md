@@ -2,6 +2,7 @@
 iso: bdi
 name: Burun
 autonym: Northern Burun
+alt_names: [Barun, Borun, Cai, Lange, Nord-Burun]
 population: 18000
 country_id: SD
 country_name: Sudan

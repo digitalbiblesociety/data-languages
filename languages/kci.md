@@ -2,6 +2,7 @@
 iso: kci
 name: Kamantan
 autonym: Kamantan
+alt_names: [Angan, Kamanton, Ngyian]
 population: 10000
 country_id: NG
 country_name: Nigeria

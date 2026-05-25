@@ -2,6 +2,7 @@
 iso: ige
 name: Igede
 autonym: Egede
+alt_names: [Igedde]
 population: 438000
 country_id: NG
 country_name: Nigeria

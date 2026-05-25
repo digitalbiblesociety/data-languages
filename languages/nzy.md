@@ -2,6 +2,7 @@
 iso: nzy
 name: Nzakambay
 autonym: Mbum
+alt_names: [Mbay, Mboum, Mbum Nzakambay, Njakambai, Nzak Mbai, Nzak Mbay, Nzaka Mbay, Nzakmbay]
 population: 18500
 country_id: TD
 country_name: Chad

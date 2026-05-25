@@ -2,6 +2,7 @@
 iso: nsc
 name: Nshi
 autonym: Babessi
+alt_names: [Nigeria]
 population: null
 country_id: NG
 country_name: Nigeria

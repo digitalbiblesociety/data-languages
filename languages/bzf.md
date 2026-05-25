@@ -2,6 +2,7 @@
 iso: bzf
 name: Boikin
 autonym: Boiken
+alt_names: [Nucum, Yangoru, Yengoru]
 population: 35000
 country_id: PG
 country_name: Papua New Guinea

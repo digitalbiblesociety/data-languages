@@ -2,6 +2,7 @@
 iso: msk
 name: Mansaka
 autonym: Minansaka
+alt_names: [Mandaya Mansaka]
 population: 26100
 country_id: PH
 country_name: Philippines

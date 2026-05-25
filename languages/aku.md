@@ -2,6 +2,7 @@
 iso: aku
 name: Akum
 autonym: Anyar
+alt_names: [Okum]
 population: 1400
 country_id: CM
 country_name: Cameroon

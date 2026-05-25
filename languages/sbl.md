@@ -2,6 +2,7 @@
 iso: sbl
 name: Botolan Sambal
 autonym: Botolan Sambal
+alt_names: [Aeta Negrito, Ayta Hambali, Botolan Zambal, "Sambal, Botolan"]
 population: 32900
 country_id: PH
 country_name: Philippines

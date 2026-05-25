@@ -1,6 +1,7 @@
 ---
 iso: xae
 name: Aequian
+name_zh: 埃魁语
 autonym: null
 population: null
 country_id: IT

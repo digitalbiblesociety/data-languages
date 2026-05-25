@@ -1,7 +1,9 @@
 ---
 iso: teg
 name: "Teke-Tege"
+name_zh: 北部特克語
 autonym: Tɛgɛ
+alt_names: [Iteghe, Katege, Ketego, Northern Teke, Tege, Teghe, Teke, Teke Alima, Teke Kali]
 population: 15000
 country_id: GA
 country_name: Gabon

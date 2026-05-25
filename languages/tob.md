@@ -1,7 +1,9 @@
 ---
 iso: tob
 name: Toba
+name_zh: 科姆语
 autonym: Chaco Sur
+alt_names: [Namqom, Qom, Qumlik simi, Toba Qom, Toba Qom language, Toba Sur, Tobų kalba]
 population: 31580
 country_id: AR
 country_name: Argentina

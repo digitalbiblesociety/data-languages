@@ -1,7 +1,9 @@
 ---
 iso: tts
 name: Northeastern Thai
+name_zh: 伊善语
 autonym: " Lao Isan"
+alt_names: [Isaan, Isan, Isan language, Isaneg, Isarna lingvo, Issan, Kaleung, "Kha Lu'ng", Kha Lung, Kha-Lɯɱ, Thai Isaan, "Thai, Northeastern", Исански език, ภาษาไทยถิ่นอีสาน, イーサーン語, 이싼어]
 population: 15000000
 country_id: TH
 country_name: Thailand

@@ -2,6 +2,7 @@
 iso: cob
 name: Chicomuceltec
 autonym: Chikomuselteko
+alt_names: ["Cac'chiquel Mam", Cakchiquel Mam, Chicomuceltekisk, Chicomukeltec, Chicomulcelteco, Cotoque, Język chicomuceltec, Kotoke, Língua chicomucelteca, Чикомукелтекски јазик]
 population: null
 country_id: MX
 country_name: Mexico

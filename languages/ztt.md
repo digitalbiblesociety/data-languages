@@ -2,6 +2,7 @@
 iso: ztt
 name: Tejalapan Zapotec
 autonym: (San Felipe Tejalápam)
+alt_names: [Central Sapoteko, Zapotec, "Zapotec, Tejalapan", Zapoteco de San Felipe Tejalapan, Zapoteco de San Felipe Tejalápam, Zapoteco de Tejalápam, Zapotèque de San Felipe Tejalapan]
 population: 120
 country_id: MX
 country_name: Mexico

@@ -2,6 +2,7 @@
 iso: kvc
 name: Kove
 autonym: null
+alt_names: ["\"Kombe\"", Kaliai-Kove]
 population: 6750
 country_id: PG
 country_name: Papua New Guinea

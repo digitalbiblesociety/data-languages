@@ -2,6 +2,7 @@
 iso: ndi
 name: Samba Leko
 autonym: Samba Leekɔ
+alt_names: [(Samba) Leko, Chamba, Chamba Leko, Lego, Leko, Lekon, Ndi, Samba, Samba Leeko, Suntai]
 population: 62000
 country_id: NG
 country_name: Nigeria

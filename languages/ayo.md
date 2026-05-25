@@ -1,7 +1,9 @@
 ---
 iso: ayo
 name: Ayoreo
+name_zh: 扎穆科语
 autonym: Ayoré
+alt_names: [Ajorėjų kalba, Avoreo, Ayoreoeg, Ayuréo, Moro, Morotoco, Pyeta, Pyeta Yovai, Yovai, Zamuco]
 population: 4650
 country_id: PY
 country_name: Paraguay

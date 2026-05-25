@@ -2,6 +2,7 @@
 iso: amr
 name: Aratbuten huaʼa
 autonym: Harákmbut
+alt_names: ["\"Mashco\"", Amaracaeri, Amaracaire, Amarakaeri, Amarakaire, Amarakaéri, Harakambeto, Harakmbet, Hate, "Mashco (\"Mashco\" is a derogatory term.)", Tuyoneri]
 population: 1910
 country_id: PE
 country_name: Peru

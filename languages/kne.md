@@ -2,6 +2,7 @@
 iso: kne
 name: Kankanaey
 autonym: "Kankana-ey"
+alt_names: [Central Kankanaey, Kankanai, Kankanay, Kankanay (Central)]
 population: 261000
 country_id: PH
 country_name: Philippines

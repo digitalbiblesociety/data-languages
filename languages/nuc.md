@@ -2,6 +2,7 @@
 iso: nuc
 name: Nukuini
 autonym: Nukuini
+alt_names: [Inukuini, Nucuini, Nukini, Nuquini]
 population: 2007
 country_id: BR
 country_name: Brazil

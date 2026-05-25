@@ -2,6 +2,7 @@
 iso: pym
 name: Fyam
 autonym: Pyem
+alt_names: [Fem, Fyem, Genawa, Gyem, Gyema, Paiem, Pem]
 population: 31000
 country_id: NG
 country_name: Nigeria

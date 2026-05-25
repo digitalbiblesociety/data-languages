@@ -1,7 +1,9 @@
 ---
 iso: wmt
 name: Walmajarri
+name_zh: 瓦马加利语
 autonym: Pililuna
+alt_names: [Bililuna dialect, Djiwalinj, Djiwalinja, Dju alin, Djualin, Djuwali, Djuwarliny Walmatjari, Jiwarliny, Juwaliny, Ngadjukura, Ngainan, Nganang, Pitangu, Tjiwali, Tjiwalindja, Tjiwaling, Tjiwaliny, Tjiwarlin, Tjiwarliny, Tjiwarliñ, Tjuwalinj, Walmad jeri, Walmadere, Walmadjari, Walmadjeri, Walmadyari, Walmadyeri, Walmaharri, Walmaharry, Walmajai, Walmajari, Walmajeri, Walmajiri, Walmatjari, Walmatjarri, Walmatjeri, Walmatjiri, Walmeri, Wanaeka, Waneiga, Wanmadjari, Wariari Pundur, Warinari Pundur, Warmala, Wolmadjari, Wolmaharry, Wolmaijari, Wolmatjeri, Wolmera, Wolmeri, Wulumarai, Wulumari]
 population: 280
 country_id: AU
 country_name: Australia

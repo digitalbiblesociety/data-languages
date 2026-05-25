@@ -2,6 +2,7 @@
 iso: sij
 name: Numbami
 autonym: Siboma
+alt_names: [Numbani, Sipoma]
 population: 270
 country_id: PG
 country_name: Papua New Guinea

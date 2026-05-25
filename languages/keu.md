@@ -2,6 +2,7 @@
 iso: keu
 name: Akebu
 autonym: Kebu
+alt_names: [Akebou, Ekpeebhe, Kabu, Kegberike]
 population: 73000
 country_id: TG
 country_name: Togo

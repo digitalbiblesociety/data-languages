@@ -2,6 +2,7 @@
 iso: ten
 name: Tama (Colombia)
 autonym: null
+alt_names: [Tama]
 population: null
 country_id: CO
 country_name: Colombia

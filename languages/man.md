@@ -1,7 +1,9 @@
 ---
 iso: man
 name: Manding
+name_zh: 曼丁諸語言
 autonym: "Manding, Mande, Mandinka, Mandinko"
+alt_names: [Mandingo]
 population: null
 country_id: GN
 country_name: Guinea

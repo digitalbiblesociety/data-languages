@@ -2,6 +2,7 @@
 iso: ukw
 name: "Ukwuani-Aboh-Ndoni"
 autonym: Aboh
+alt_names: [Nigeria]
 population: 299000
 country_id: NG
 country_name: Nigeria

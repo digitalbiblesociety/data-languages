@@ -2,6 +2,7 @@
 iso: bck
 name: Bunuba
 autonym: "Bunaba, Bunapa, Punuba, Punapa, Punaba, Buniba"
+alt_names: [Booneba, Booneba Bunaba, Boonooba, Bunaba, Bunapa, Buniba, Bunuban, Kunamba, Punaba, Punamba, Punapa, Punuba, Punupa]
 population: 160
 country_id: AU
 country_name: Australia

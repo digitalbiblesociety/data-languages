@@ -2,6 +2,7 @@
 iso: loh
 name: Narim
 autonym: Narim
+alt_names: [Laarim, Lariim, Larim, Lariminit, Larimo, Longarim, Nariim]
 population: 3620
 country_id: SS
 country_name: South Sudan

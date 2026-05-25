@@ -2,6 +2,7 @@
 iso: trq
 name: San Martín Itunyoso Triqui
 autonym: San Martín Itunyoso Trique
+alt_names: [San Martin Itunyoso Triqui, Trike, Triki, Trique, Triqui, Triqui de San Martín Itunyoso, "Triqui, San Martin Itunyoso", "Triqui, San Martín Itunyoso"]
 population: 2000
 country_id: MX
 country_name: Mexico

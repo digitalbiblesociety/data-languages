@@ -1,7 +1,9 @@
 ---
 iso: got
 name: Gothic
+name_zh: 哥德語
 autonym: null
+alt_names: [Bahasa Gotik, Goatysk, Gooti keel, Gootin kieli, Gootsche Spraak, Gota lingvo, Goteg, Gotheg, Gothek, Gothisch, Goties, Gotiko, Gotique, Gotisc sprǣc, Gotisch, Gotische Sprache, Gotisk, Gotisk språk, Gotiska, Gotski jezik, Gotça, Gotščina, Gotų kalba, Gót nyelv, Góticu, Gótčina, Gótština, Idioma gotico, Idioma gótico, Język gocki, Lenga gòtica, Limba gotică, Lingua Gothica, Lingua gotica, Lingua gótica, Llengua gòtica, Língua gótica, gothique, gotische, Готски език, Готски јазик, Готски језик, Готский язык, Ґотська мова, גותית, قوطى, گؤتیک, கோதிக் மொழி, ゴート語, 哥德語, 고트어, 𐌲𐌿𐍄𐌰𐍂𐌰𐌶𐌳𐌰]
 population: null
 country_id: DE
 country_name: Germany

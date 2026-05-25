@@ -2,6 +2,7 @@
 iso: yki
 name: Yoke
 autonym: Pauwi
+alt_names: [Jauke, Pauwi I, Pauwi II, Yauke, Yoki]
 population: 200
 country_id: ID
 country_name: Indonesia

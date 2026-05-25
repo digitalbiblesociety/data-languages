@@ -2,6 +2,7 @@
 iso: urt
 name: Urat
 autonym: null
+alt_names: [Urakin, Wasepnau]
 population: 7000
 country_id: PG
 country_name: Papua New Guinea

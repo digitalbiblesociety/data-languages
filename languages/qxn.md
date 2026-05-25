@@ -2,6 +2,7 @@
 iso: qxn
 name: Northern Conchucos Ancash Quechua
 autonym: " Nunashimi"
+alt_names: [Ancas, Ancash, Chinchaysuyo, Conchucos, Conchucos Quechua, Conchucu, North Central Kechua, Northern Conchucos Quechua, Northern Quechua, "Quechua, Northern Conchucos  Ancash"]
 population: 250000
 country_id: PE
 country_name: Peru

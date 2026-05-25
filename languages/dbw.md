@@ -2,6 +2,7 @@
 iso: dbw
 name: Bankan Tey Dogon
 autonym: "Walo-Kumbe"
+alt_names: [Bankan Tey, "Dogon, Bankan Tey", Oualo, Walo]
 population: null
 country_id: ML
 country_name: Mali

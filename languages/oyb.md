@@ -1,7 +1,9 @@
 ---
 iso: oyb
 name: Oy
+name_zh: 奥依语 (南亚语系)
 autonym: Huei
+alt_names: [Oi]
 population: 14900
 country_id: LA
 country_name: Laos

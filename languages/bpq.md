@@ -2,6 +2,7 @@
 iso: bpq
 name: Banda Malay
 autonym: "Bahasa-Bahasa Melayu Dagang dan Kreol"
+alt_names: ["Malay, Banda"]
 population: 3690
 country_id: ID
 country_name: Indonesia

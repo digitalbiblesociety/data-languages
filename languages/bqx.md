@@ -2,6 +2,7 @@
 iso: bqx
 name: Baangi
 autonym: Cibaangi
+alt_names: [Kambari]
 population: 15000
 country_id: NG
 country_name: Nigeria

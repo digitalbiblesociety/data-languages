@@ -1,7 +1,9 @@
 ---
 iso: maz
 name: Central Mazahua
+name_zh: 馬薩瓦語
 autonym: Jñatjo (mmc)Jñatrjo (maz)
+alt_names: [Masawa, Mazahua, Mazahua Central, "Mazahua, Central"]
 population: 147000
 country_id: MX
 country_name: Mexico

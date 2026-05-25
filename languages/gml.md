@@ -1,7 +1,9 @@
 ---
 iso: gml
 name: Middle Low German
+name_zh: 中世纪低地德语
 autonym: "sassesche sprâke (or unnormalised sassche sprake), nedderlendische sprâke (or unnormalised nederlendesche sprake; since the 16th century)"
+alt_names: ["German, Middle Low", Middle Saxon, Mittelniederdeutsch]
 population: null
 country_id: DE
 country_name: Germany

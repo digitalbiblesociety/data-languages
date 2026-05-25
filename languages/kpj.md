@@ -2,6 +2,7 @@
 iso: kpj
 name: Karajá
 autonym: Iny rybè
+alt_names: [Caraja, Carajá, Carajás, Chamboa, Javaé, Kaparajá, Karaho, Karaja, Karaja-Shambioá, Karajá language area, Karajá-Xambioá, Xambioá, Ynã]
 population: 3060
 country_id: BR
 country_name: Brazil

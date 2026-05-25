@@ -2,6 +2,7 @@
 iso: vlp
 name: Valpei
 autonym: Valpay
+alt_names: [Valpei-Hukua]
 population: 300
 country_id: VU
 country_name: Vanuatu

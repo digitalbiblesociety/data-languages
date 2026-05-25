@@ -2,6 +2,7 @@
 iso: dsh
 name: Daasanach
 autonym: Daasanech
+alt_names: ["\"Shangilla\"", Daasanach hizkuntza, Daasenech, Dama, Dasenech, Dassanakh, Dathanaic, Dathanaik, Dathanik, Dhaasanac, Gallab, Galuba, Gelab, Geleb, Geleba, Gelebinya, Gelubba, Gheleba, Marille, Merile, Merille, Morille, Reshiat, Russia, Sorbian]
 population: 66400
 country_id: ET
 country_name: Ethiopia

@@ -2,6 +2,7 @@
 iso: mhk
 name: Mungaka
 autonym: Bali
+alt_names: [Li, "Munga'ka", "Nga'ka", Ngaaka]
 population: 50100
 country_id: CM
 country_name: Cameroon

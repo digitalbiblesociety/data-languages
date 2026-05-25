@@ -1,7 +1,9 @@
 ---
 iso: kgs
 name: Kumbainggar
+name_zh: 古姆巴延吉尔语
 autonym: Kumbainggar
+alt_names: [Ahnbi, Baanbay, Bahnbi, Banbai, Bellingen tribe, Bellinger tribe, Cambanggarie, Coombagoree, Coombangree, Coombargaree, Coombyn gura, Coombyn-gura, Coombyngara, Coombyngura, Coombyugura, Cumbainggar, Dandai, Gambalamam, Gamlamang, Guinbainggiri, Gumbaigar, Gumbainga, Gumbaingaar, Gumbaingar, Gumbaingari, Gumbainggar, Gumbainggir, Gumbainggirr, Gumbaiŋgar, Gumbanga, Gumbanggar, Gumbanggeri, Gumbangir, Gumbanjaree, Gumbaynggir, Gumbaynggiric languages, Gumbaynggirr, Gumbayngir, Gumbayunggir, Gunbaigar, Gunbainygar, Gunbaiŋgar, Jiegera, Kom baingheri, Kom-baingheri, Kombaingheri, Kombinegherry, Koombabgghery, Koombainga, Koombanggaree, Koombanggary, Koombanggherry, Koombangghery, Koombangi, Kumbaingari, Kumbaingeri, Kumbainggeri, Kumbainggerri, Kumbainggir, Kumbainggiri, Kumbainggirri, Kumbaingir, Kumbangar, Kumbangerai, Kumbanggar, Kumbanggerri, Kumbinggeri, Nimboy, Orara, Woolgoolga, Yaygir, Yuungay]
 population: 90
 country_id: AU
 country_name: Australia

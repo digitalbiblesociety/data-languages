@@ -2,6 +2,7 @@
 iso: smu
 name: Somray
 autonym: Northern Chong
+alt_names: [Samrai, Samray, Samre, Western Pear]
 population: 4100
 country_id: KH
 country_name: Cambodia

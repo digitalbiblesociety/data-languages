@@ -2,6 +2,7 @@
 iso: gop
 name: Yeretuar
 autonym: Umar
+alt_names: [Goni, Umari]
 population: 350
 country_id: ID
 country_name: Indonesia

@@ -2,6 +2,7 @@
 iso: itd
 name: Southern Tidung
 autonym: Southern Tidung
+alt_names: ["Tidung, Southern"]
 population: 27000
 country_id: ID
 country_name: Indonesia

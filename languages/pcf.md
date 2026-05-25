@@ -2,6 +2,7 @@
 iso: pcf
 name: Paliyan
 autonym: പാലിയൻ
+alt_names: [Makkal, Malai Paliyar, Palani, Palaya, Palayan, Paliyar, Palleyan, Palliyar, Poliyar, Seramar]
 population: 9520
 country_id: IN
 country_name: India

@@ -1,7 +1,9 @@
 ---
 iso: cim
 name: Cimbrian
+name_zh: 席布里語
 autonym: zimbar
+alt_names: [Cimbre, Cimbriano, Tzimbro, Zimbrisch]
 population: 1500
 country_id: IT
 country_name: Italy

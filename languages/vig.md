@@ -2,6 +2,7 @@
 iso: vig
 name: Viemo
 autonym: Vige
+alt_names: [Vigué, Vigye]
 population: 8000
 country_id: BF
 country_name: Burkina Faso

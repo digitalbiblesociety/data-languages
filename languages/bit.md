@@ -2,6 +2,7 @@
 iso: bit
 name: Berinomo
 autonym: Berinomo
+alt_names: [Apowasi, Bitara, Perbi]
 population: 350
 country_id: PG
 country_name: Papua New Guinea

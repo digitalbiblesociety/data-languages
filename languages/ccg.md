@@ -2,6 +2,7 @@
 iso: ccg
 name: Samba Daka
 autonym: Chamba Daka
+alt_names: [Daka, "Daka, Samba", Dakka, Dekka, Deng, Jama, Nakanyare, Sama, Samba, Tchamba, Tikk, Tsamba]
 population: 107000
 country_id: NG
 country_name: Nigeria

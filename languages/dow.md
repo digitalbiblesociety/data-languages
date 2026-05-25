@@ -1,7 +1,9 @@
 ---
 iso: dow
 name: Doyayo
+name_zh: 多瓦悠語
 autonym: Dowayo
+alt_names: ["\"Namchi\"", "\"Namci\"", "\"Namshi\"", Dayãyo, Doayo, Donyanyo, Donyayo, Doohyaayo, Doowaayo, Dooyaa(ng)yo, Dooyaangyo, Dooyaayo, Dooyayo, Dowayayo, Doyaayo, Doyau, Namshi, Nomai, Tunga, Tungbo, Tuuno]
 population: 15000
 country_id: CM
 country_name: Cameroon

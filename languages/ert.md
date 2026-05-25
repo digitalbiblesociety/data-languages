@@ -2,6 +2,7 @@
 iso: ert
 name: Eritai
 autonym: Baburiwa
+alt_names: [Aliki, Babiruwa, Babrua, Babruwa, Barua, Editode Edai, Erai, Eri, Haya]
 population: 530
 country_id: ID
 country_name: Indonesia

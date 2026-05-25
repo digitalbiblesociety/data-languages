@@ -2,6 +2,7 @@
 iso: tpm
 name: Tampulma
 autonym: Tampele
+alt_names: [Tamplima, Tampole, Tampolem, Tampolene, Tampolense, Tamprusi, Tamprussi]
 population: 16000
 country_id: GH
 country_name: Ghana

@@ -2,6 +2,7 @@
 iso: xmz
 name: Mori Bawah
 autonym: "Beneden-Tomori"
+alt_names: [East Mori, Lower Mori, Nahina]
 population: 14000
 country_id: ID
 country_name: Indonesia

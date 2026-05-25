@@ -2,6 +2,7 @@
 iso: emb
 name: Embaloh
 autonym: Malo
+alt_names: [Dayak, Maloh, Matoh, Mbaloh, Memaloh, Palin, Pari, Sangau, Sanggau]
 population: 10000
 country_id: ID
 country_name: Indonesia

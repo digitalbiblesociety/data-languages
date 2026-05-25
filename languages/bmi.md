@@ -2,6 +2,7 @@
 iso: bmi
 name: Bagirmi
 autonym: ɓarma
+alt_names: [Baghirmi, Bagirmieg, Bagrima, Bagrimi, Bagrimma, Baguirme, Baguirmi, Barma, Lis, Lisi, Mbarma, Tar Bagrimma, Tar Barma]
 population: 44800
 country_id: TD
 country_name: Chad

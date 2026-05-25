@@ -2,6 +2,7 @@
 iso: xmx
 name: Maden
 autonym: Palamul
+alt_names: ["\"Maden\"", Salawati, Saparan, Sapran]
 population: 600
 country_id: ID
 country_name: Indonesia

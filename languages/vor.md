@@ -2,6 +2,7 @@
 iso: vor
 name: Voro
 autonym: Yungur
+alt_names: [Bena, Buna, Ebina, Ebuna, Woro]
 population: null
 country_id: NG
 country_name: Nigeria

@@ -2,6 +2,7 @@
 iso: bwz
 name: Bwisi
 autonym: Ibwisi
+alt_names: [Mbwisi, Talinga-bwisi]
 population: 3020
 country_id: CG
 country_name: Congo

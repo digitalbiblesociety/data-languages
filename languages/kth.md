@@ -2,6 +2,7 @@
 iso: kth
 name: Karanga
 autonym: Kurunga
+alt_names: [Karango]
 population: 1419
 country_id: TD
 country_name: Chad

@@ -1,7 +1,9 @@
 ---
 iso: ynn
 name: Yana
+name_zh: 雅納語
 autonym: null
+alt_names: [Yahi language]
 population: null
 country_id: US
 country_name: United States

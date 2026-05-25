@@ -1,7 +1,9 @@
 ---
 iso: mra
 name: Mlabri
+name_zh: 姆拉布里语
 autonym: Luang
+alt_names: [Ma Ku, Mabri, Malabri (Minor), Mla, Mla Bri, Mla-Bri, Mlabri (Minor), Mrabri, Phi Thong Luang, "Phi Thong Luang (\"Spirits of yellow leaves\")", Yellow Leaf, Yumbri, ผีตองหลือง, ภาษามลาบรี, มละบริ, เผ่าตองหลือง]
 population: 300
 country_id: TH
 country_name: Thailand

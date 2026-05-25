@@ -2,6 +2,7 @@
 iso: lla
 name: "Lala-Roba"
 autonym: Gworam
+alt_names: [Roba]
 population: 46000
 country_id: NG
 country_name: Nigeria

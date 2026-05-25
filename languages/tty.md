@@ -2,6 +2,7 @@
 iso: tty
 name: Sikaritai
 autonym: Tori Aikwakai
+alt_names: [Aikwakai, Araikurioko, Ati, Sikari, Tori]
 population: 800
 country_id: ID
 country_name: Indonesia

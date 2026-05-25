@@ -1,7 +1,9 @@
 ---
 iso: jgo
 name: Ngomba
+name_zh: 恩艮巴语
 autonym: Nda’a
+alt_names: [Bamileke-Ngomba, "Nda'a", Ndaa]
 population: 63000
 country_id: CM
 country_name: Cameroon

@@ -2,6 +2,7 @@
 iso: zuh
 name: Tokano
 autonym: Gamuso
+alt_names: [Tokama, Yufiyufa, Zaka, Zuhozuho, Zuhuzuho]
 population: 6000
 country_id: PG
 country_name: Papua New Guinea

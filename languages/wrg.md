@@ -1,7 +1,9 @@
 ---
 iso: wrg
 name: Warungu
+name_zh: 瓦隆戈语
 autonym: Northern Maric
+alt_names: [Gudjal, Gudjala, Gugu-Badhun, Koko Patun, Kuritjal, Kutjala, Warrialgona, Warrongo, Warrungu]
 population: null
 country_id: AU
 country_name: Australia

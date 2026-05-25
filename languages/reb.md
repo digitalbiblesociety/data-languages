@@ -2,6 +2,7 @@
 iso: reb
 name: Rembong
 autonym: bahasa Rembong
+alt_names: [Indonesia]
 population: 2120
 country_id: ID
 country_name: Indonesia

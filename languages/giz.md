@@ -2,6 +2,7 @@
 iso: giz
 name: South Giziga
 autonym: Gisiga
+alt_names: [Gisiga-South, Gisika, Giziga, "Giziga, South", Giziga-South, Guiziga, North and Giziga, South, South Gisiga]
 population: 60000
 country_id: CM
 country_name: Cameroon

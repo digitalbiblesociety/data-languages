@@ -2,6 +2,7 @@
 iso: wmi
 name: Wamin
 autonym: Wamin
+alt_names: [Agwamin, Ak Waumin, Ak-Waumin, Egwamin, Ewamin, Gwamin, Wailoolo, Wakaman, Walamin, Walming, Warkaman, Warkamin, Warkeeman, Warkeemon, Waumin, Wawmin, Wimanja, Wommin]
 population: null
 country_id: AU
 country_name: Australia

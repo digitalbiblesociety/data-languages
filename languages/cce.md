@@ -1,7 +1,9 @@
 ---
 iso: cce
 name: Chopi
+name_zh: 丘皮語
 autonym: Chichopi
+alt_names: [Cicopi, Copi, Shichopi, Shicopi, Tschopi, Txitxopi, Txopi]
 population: 1100000
 country_id: MZ
 country_name: Mozambique

@@ -2,6 +2,7 @@
 iso: hvk
 name: Haveke
 autonym: Aveke
+alt_names: ["'Aveke", Haeke, Hmwaveke, Neukaledonien]
 population: 300
 country_id: NC
 country_name: New Caledonia

@@ -2,6 +2,7 @@
 iso: wbq
 name: Waddar
 autonym: Od
+alt_names: [Orh, Vadari, Vadda Beldar, Werders, Wodde]
 population: 198000
 country_id: IN
 country_name: India

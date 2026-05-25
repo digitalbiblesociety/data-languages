@@ -1,7 +1,9 @@
 ---
 iso: ahk
 name: Akha
+name_zh: 阿卡语
 autonym: "Akha "
+alt_names: [Ahka, Aini, "Ak'a", Aka, Ako, Asong, Bahasa Akha, Ekaw, Hka Ko, Ikaw, Ikor, Kaw, Kha Ko, Khako, Khao Kha Ko, Khao Khao Ikor, Ko, Yani]
 population: 616600
 country_id: MM
 country_name: Myanmar

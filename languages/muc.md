@@ -2,6 +2,7 @@
 iso: muc
 name: Ajumbu
 autonym: Ajumbu
+alt_names: [Cameroon, "Mbu'"]
 population: 1000
 country_id: CM
 country_name: Cameroon

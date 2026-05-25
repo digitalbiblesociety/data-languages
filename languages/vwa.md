@@ -1,7 +1,9 @@
 ---
 iso: vwa
 name: Awa (China)
+name_zh: 阿佤方言
 autonym: Va
+alt_names: [Ava, Awa, Awa Wa, Baraog, Paraok, Parauk, Praok, Wa, Ximeng-Menglian Awa]
 population: 2200
 country_id: CN
 country_name: China

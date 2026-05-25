@@ -2,6 +2,7 @@
 iso: tap
 name: Taabwa
 autonym: Ichitaabwa
+alt_names: [Rungu, Tabwa, Zabwa]
 population: 281600
 country_id: CD
 country_name: DR Congo

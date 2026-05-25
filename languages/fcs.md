@@ -2,6 +2,7 @@
 iso: fcs
 name: Quebec Sign Language
 autonym: Langue des signes québécoise
+alt_names: [LSQ, Langue Signe Quebecars, Langue des Signes Québecoise, Langue des Signes du Québec, Língua de Sinais Quebequiana]
 population: 8000
 country_id: CA
 country_name: Canada

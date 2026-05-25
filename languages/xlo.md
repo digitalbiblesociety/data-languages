@@ -2,6 +2,7 @@
 iso: xlo
 name: Loup A
 autonym: null
+alt_names: [Loup, Nipmuc, "Nipmuck?"]
 population: null
 country_id: US
 country_name: United States

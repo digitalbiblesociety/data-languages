@@ -2,6 +2,7 @@
 iso: azz
 name: Highland Puebla Nahuatl
 autonym: masehual tla’tol (ncj)
+alt_names: [Eastern Nahua, Eastern Nawa, Highland Puebla, Mejicano Azteco, Mejicano de Zacapoaxtla, Mexicano, Nahua de la Huasteca, Nahuatl, Nahuatl (Puebla Sierra), Nahuatl (Sierra de Zacapoaxtla), "Nahuatl, Highland Puebla", Nawa, Náhuat de la Sierra de Puebla, Náhuatl du Huasteca, Sierra Aztec, Sierra Puebla Náhuatl, Sierra astečki, Sierra de Zacapoaxtla, Zacapoaxtla, Zacapoaxtla Náhuat]
 population: 125000
 country_id: MX
 country_name: Mexico

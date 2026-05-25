@@ -2,6 +2,7 @@
 iso: dtu
 name: Tebul Ure Dogon
 autonym: Tebul Ure
+alt_names: ["Dogon, Tebul Ure", Oru Yille, Tew Tegu]
 population: 3000
 country_id: ML
 country_name: Mali

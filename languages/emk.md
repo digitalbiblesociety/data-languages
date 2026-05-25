@@ -2,6 +2,7 @@
 iso: emk
 name: Eastern Maninkakan
 autonym: Malinke
+alt_names: [Eastern, Eastern Malinke, Kankan Maninka, Madingo, Mande, Mandingo, Maninka, Maninka-Mori, Maninkakan, "Maninkakan, Eastern", Southern Maninka]
 population: 3700300
 country_id: GN
 country_name: Guinea

@@ -1,7 +1,9 @@
 ---
 iso: lkr
 name: Päri
+name_zh: 帕里语
 autonym: Lokoro
+alt_names: [Pari]
 population: 79000
 country_id: SS
 country_name: South Sudan

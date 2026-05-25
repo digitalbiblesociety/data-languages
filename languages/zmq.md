@@ -2,6 +2,7 @@
 iso: zmq
 name: Mituku
 autonym: "Kinya-Mituku"
+alt_names: [Metoko]
 population: 50900
 country_id: CD
 country_name: DR Congo

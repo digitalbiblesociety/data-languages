@@ -2,6 +2,7 @@
 iso: pmz
 name: Southern Pame
 autonym: null
+alt_names: [Pame, "Pame, Southern", Pamean]
 population: null
 country_id: MX
 country_name: Mexico

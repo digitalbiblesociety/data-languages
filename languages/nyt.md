@@ -2,6 +2,7 @@
 iso: nyt
 name: Nyawaygi
 autonym: Nawagi
+alt_names: [Geugagi., Lolo, Nyawigi, Yi]
 population: null
 country_id: AU
 country_name: Australia

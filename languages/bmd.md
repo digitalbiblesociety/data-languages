@@ -2,6 +2,7 @@
 iso: bmd
 name: Baga Manduri
 autonym: Barka
+alt_names: [Baga, Baga Mandun, Maduri, Mandari, Manduri, "Manduri, Baga", Temne]
 population: 4000
 country_id: GN
 country_name: Guinea

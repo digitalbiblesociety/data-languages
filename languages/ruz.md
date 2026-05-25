@@ -2,6 +2,7 @@
 iso: ruz
 name: Ruma
 autonym: Turuma
+alt_names: [Bagwama, Rurama, Ruruma, Turama]
 population: 5090
 country_id: NG
 country_name: Nigeria

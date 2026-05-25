@@ -2,6 +2,7 @@
 iso: rug
 name: Roviana
 autonym: Robiana
+alt_names: [Rubiana, Ruviana]
 population: 25870
 country_id: SB
 country_name: Solomon Islands

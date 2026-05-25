@@ -2,6 +2,7 @@
 iso: gyi
 name: Gyele
 autonym: Ngumba
+alt_names: ["\"Babinga\"", Babinga, Bagiele, Bagyele, Bagyéli, Bajele, Bajeli, Baka, Bako, Bakola, Bakuele, Bekoe, Bogyel, Bogyeli, Bondjiel, Giele, Gieli, Guiele, Gyeli, Likoya]
 population: 4250
 country_id: CM
 country_name: Cameroon

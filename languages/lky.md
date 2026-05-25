@@ -2,6 +2,7 @@
 iso: lky
 name: Lokoya
 autonym: Lokoya
+alt_names: [Ellyria, Koyo, Loirya, Lokoiya, Lokoja, Loquia, Lowoi, Oirya, Owoi, Oxoriok, Oxoryok]
 population: 12400
 country_id: SS
 country_name: South Sudan

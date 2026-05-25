@@ -1,7 +1,9 @@
 ---
 iso: rof
 name: Rombo
+name_zh: 兰博语
 autonym: Kirombo
+alt_names: [Rombo language]
 population: null
 country_id: TZ
 country_name: Tanzania

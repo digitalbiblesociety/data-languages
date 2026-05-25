@@ -2,6 +2,7 @@
 iso: aum
 name: Asu (Nigeria)
 autonym: Abewa
+alt_names: [Asu, Ebe]
 population: 5000
 country_id: NG
 country_name: Nigeria

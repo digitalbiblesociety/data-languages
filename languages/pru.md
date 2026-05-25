@@ -2,6 +2,7 @@
 iso: pru
 name: Puragi
 autonym: Iwaro
+alt_names: [Mogao]
 population: 700
 country_id: ID
 country_name: Indonesia

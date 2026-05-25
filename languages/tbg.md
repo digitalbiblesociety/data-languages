@@ -2,6 +2,7 @@
 iso: tbg
 name: North Tairora
 autonym: Tairora (Arau)
+alt_names: [Northern Tairora, Tairora, "Tairora, North"]
 population: 5000
 country_id: PG
 country_name: Papua New Guinea

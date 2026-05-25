@@ -2,6 +2,7 @@
 iso: msx
 name: Moresada
 autonym: Murisapa
+alt_names: [Murusapa, Murusapa-Sarewa]
 population: 200
 country_id: PG
 country_name: Papua New Guinea

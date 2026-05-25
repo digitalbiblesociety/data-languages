@@ -1,7 +1,9 @@
 ---
 iso: atv
 name: Northern Altai
+name_zh: 北阿尔泰语
 autonym: тÿндÿк алтай тили
+alt_names: ["Altai, Northern", Altaï septentrional, Altái septentrional, Kumandin, Nordaltaja lingvo, Telengit, Telengut, Teleut, Teleutisch, алтай тили, кумандинско-челканский язык, северноалтайский язык]
 population: 1570
 country_id: RU
 country_name: Russia

@@ -2,6 +2,7 @@
 iso: gak
 name: Gamkonora
 autonym: bahasa Gamkonora
+alt_names: [Indonesia]
 population: 1500
 country_id: ID
 country_name: Indonesia

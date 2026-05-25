@@ -1,6 +1,7 @@
 ---
 iso: xdc
 name: Dacian
+name_zh: 达契亚语
 autonym: null
 population: null
 country_id: RO

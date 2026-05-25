@@ -1,7 +1,9 @@
 ---
 iso: lad
 name: Ladino
+name_zh: 拉迪諾語
 autonym: Ladino
+alt_names: [Dzhudezmo, Haketia, Hakitia, Haquetiya, Judeo Spanish, Judeo-Espagnol, Judeo-Spanish, Judezmo, Judéo-espagnol  (Europe), Judéo-espagnol (Israël), Sefardi, Sefardí (Israel), Sephardic, Spanyol, Tetuani, judéo-espagnol, Еврейско-романские языки]
 population: 51016
 country_id: IL
 country_name: Israel

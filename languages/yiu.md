@@ -1,7 +1,9 @@
 ---
 iso: yiu
 name: Awu
+name_zh: 阿务语
 autonym: Awu
+alt_names: [Lolo, Luowu, Luwu, Yi, "Yi, Awu"]
 population: 20000
 country_id: CN
 country_name: China

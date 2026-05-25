@@ -2,6 +2,7 @@
 iso: ggd
 name: Gugadj
 autonym: Gugadj
+alt_names: [Gudadj, Gudadji, Gugadji, Gugady, Gugatj, Kalibamu, Kokatj, Konggada, Kukatj, Kukatja, Kukatji, Kukatyi, Marago]
 population: null
 country_id: AU
 country_name: Australia

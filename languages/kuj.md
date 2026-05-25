@@ -1,7 +1,9 @@
 ---
 iso: kuj
 name: Kuria
+name_zh: 庫里亞語
 autonym: Igikuria
+alt_names: [Ekiguria, Ikikuria, Kikuria, Kurya, Kurye, Tende]
 population: 738000
 country_id: TZ
 country_name: Tanzania

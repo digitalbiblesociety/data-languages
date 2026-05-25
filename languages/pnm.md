@@ -2,6 +2,7 @@
 iso: pnm
 name: Punan Batu 1
 autonym: Punan Batu 1
+alt_names: [Punan batu]
 population: 30
 country_id: MY
 country_name: Malaysia

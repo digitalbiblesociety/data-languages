@@ -1,6 +1,7 @@
 ---
 iso: srp
 name: Serbian
+name_zh: 塞尔维亚语
 autonym: српски / srpski
 population: 7730000
 country_id: RS

@@ -1,7 +1,9 @@
 ---
 iso: alz
 name: Alur
+name_zh: 阿卢尔语
 autonym: Lur
+alt_names: [Aloro, Aloureg, Alua, Alulu, Alur jezik, Dho Alur, Jo Alur, Lenga Alur, Lingua alur, Luri, Língua alur]
 population: 1735000
 country_id: CD
 country_name: DR Congo

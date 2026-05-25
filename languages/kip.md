@@ -2,6 +2,7 @@
 iso: kip
 name: Sheshi Kham
 autonym: Kham language
+alt_names: [Kham, "Kham, Sheshi", "Kham,Sheshi", Khamkura, Khams, Proto-Kham, Sheshi]
 population: 20000
 country_id: NP
 country_name: Nepal

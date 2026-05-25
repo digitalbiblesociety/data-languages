@@ -1,6 +1,7 @@
 ---
 iso: xly
 name: Elymian
+name_zh: 伊利米语
 autonym: null
 population: null
 country_id: IT

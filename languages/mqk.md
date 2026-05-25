@@ -2,6 +2,7 @@
 iso: mqk
 name: Rajah Kabunsuwan Manobo
 autonym: Rajah Kabungsuan Manobo
+alt_names: ["Manobo, Rajah Kabunsuwan"]
 population: 7570
 country_id: PH
 country_name: Philippines

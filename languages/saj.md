@@ -2,6 +2,7 @@
 iso: saj
 name: Sahu
 autonym: "Sahu'u"
+alt_names: ["Pa'disua", Palisua, "Sa'u", Sau, Waioli]
 population: 7500
 country_id: ID
 country_name: Indonesia

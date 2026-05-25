@@ -2,6 +2,7 @@
 iso: fad
 name: Wagi
 autonym: Kamba
+alt_names: [Foran, Furan, Kemba, Mis, Mis-Kemba]
 population: 3380
 country_id: PG
 country_name: Papua New Guinea

@@ -2,6 +2,7 @@
 iso: zuy
 name: Zumaya
 autonym: null
+alt_names: [Llengua zumaia, Zoumayeg, Zumaia hizkuntza, Zumaya jezik]
 population: null
 country_id: CM
 country_name: Cameroon

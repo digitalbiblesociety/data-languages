@@ -2,6 +2,7 @@
 iso: kyo
 name: Kelon
 autonym: Klon
+alt_names: [Kalong, Kelong]
 population: 6000
 country_id: ID
 country_name: Indonesia

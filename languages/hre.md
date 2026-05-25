@@ -1,7 +1,9 @@
 ---
 iso: hre
 name: Hre
+name_zh: 赫耶语
 autonym: "Cham-Re"
+alt_names: [Chom, Davach, Davak, Dá-Vách, Hrey, Hrê, Moi, Moi Da Vach, Moi Dá-vách, Moi Luy, Tachom]
 population: 127000
 country_id: VN
 country_name: Vietnam

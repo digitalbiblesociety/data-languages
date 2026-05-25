@@ -2,6 +2,7 @@
 iso: mql
 name: Mbelime
 autonym: "M'Bermè"
+alt_names: ["\"Niende\"", "\"Niendi\"", Mbilme, Nyende]
 population: 24500
 country_id: BJ
 country_name: Benin

@@ -2,6 +2,7 @@
 iso: biz
 name: Baloi
 autonym: Baato Baloi
+alt_names: [Boloi, Loi, Loi language, Rebu]
 population: 20000
 country_id: CD
 country_name: DR Congo

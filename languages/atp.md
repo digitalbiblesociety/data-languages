@@ -2,6 +2,7 @@
 iso: atp
 name: Pudtol Atta
 autonym: null
+alt_names: ["Atta, Pudtol"]
 population: 710
 country_id: PH
 country_name: Philippines

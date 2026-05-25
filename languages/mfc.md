@@ -2,6 +2,7 @@
 iso: mfc
 name: Mba
 autonym: Kimanga
+alt_names: [Bamanga, Kimbanga, Manga, Mbane]
 population: 36100
 country_id: CD
 country_name: DR Congo

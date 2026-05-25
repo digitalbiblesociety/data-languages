@@ -2,6 +2,7 @@
 iso: boh
 name: Boma
 autonym: Kiboma
+alt_names: [Boma Kasai, Buma]
 population: 20500
 country_id: CD
 country_name: DR Congo

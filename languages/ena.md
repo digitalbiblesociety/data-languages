@@ -2,6 +2,7 @@
 iso: ena
 name: Apali
 autonym: Emerum
+alt_names: [Apal]
 population: 980
 country_id: PG
 country_name: Papua New Guinea

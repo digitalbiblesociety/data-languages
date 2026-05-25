@@ -2,6 +2,7 @@
 iso: mwn
 name: Nyamwanga
 autonym: Ichinamwanga
+alt_names: [Chinamwanga, Inamwanga, Kinamwanga, Kinyamwanga, Mwanga, Mwanga language, Namwanga, Njamuangoj]
 population: 281000
 country_id: ZM
 country_name: Zambia

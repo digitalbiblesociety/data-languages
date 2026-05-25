@@ -2,6 +2,7 @@
 iso: kvz
 name: Tsakwambo
 autonym: Tsakwambo
+alt_names: [Kotogut, Kotogüt, Kotogأƒآ¼t, Tsaukambo, Tsokwambo]
 population: 780
 country_id: ID
 country_name: Indonesia

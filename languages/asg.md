@@ -2,6 +2,7 @@
 iso: asg
 name: Cishingini
 autonym: Agwara Kambari
+alt_names: ["\"Maunchi\"", "\"Mawanchi\"", Aschingini, Ashaganna, Ashingini, Chisingini, Kambari, Kamberchi, Kamberri, Yauri]
 population: 100000
 country_id: NG
 country_name: Nigeria

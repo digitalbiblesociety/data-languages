@@ -2,6 +2,7 @@
 iso: zpc
 name: Choapan Zapotec
 autonym: "Zapotec, Choapan"
+alt_names: [Eastern Sapoteko, Northern Sapoteko, Northern Villa Alta Zapotec, Nothern Zapoteco, Rincón, Rincón Zapotec, Sierra de Villa Alta, Zapotec, Zapoteco de Choapan, Zapoteco de Petapa, Zapoteco de San Bartolo Yautepec, Zapoteco de Yagallo, Zapoteco del Rincón, Zapoteco mixtepeco, Zapotèque de Mixtepe, Zapotèque de Petapa, Zapotèque de San Bartolo Yautepec]
 population: 12000
 country_id: MX
 country_name: Mexico

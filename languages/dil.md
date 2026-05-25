@@ -2,6 +2,7 @@
 iso: dil
 name: Dilling
 autonym: Warki
+alt_names: [Debri, Delen, Dillingo, Nubian (Hill), Warkimbe]
 population: 5300
 country_id: SD
 country_name: Sudan

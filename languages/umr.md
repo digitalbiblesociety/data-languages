@@ -2,6 +2,7 @@
 iso: umr
 name: Umbugarla
 autonym: Mbukarla
+alt_names: [Ambugala, Bugula, Język umbugarla, Lenga umbugarla, Mbakarla, Numbugala, Puneitja, Umbugarla jezik]
 population: null
 country_id: AU
 country_name: Australia

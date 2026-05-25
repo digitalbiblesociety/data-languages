@@ -1,7 +1,9 @@
 ---
 iso: kdt
 name: Kuy
+name_zh: Suay人
 autonym: Kui
+alt_names: [Cuoi, Dui, Khamen-Boran, Khamenboran, Kuay, Kuayo, Kui Souei, Kuoi, Kuoy, Kuuy, Old Khmer, Soai, Souei, Suai, Suay, Suei, Sui, Suoi]
 population: 456000
 country_id: TH
 country_name: Thailand

@@ -1,7 +1,9 @@
 ---
 iso: gnc
 name: Guanche
+name_zh: 关切语
 autonym: null
+alt_names: [Guantxera, Guanxe, Guanči, Gwantcheg, Idioma guanche, Język Guanczów, Spain, Гуанчские языки, Давньоканарські мови, グアンチェ語]
 population: null
 country_id: ES
 country_name: Spain

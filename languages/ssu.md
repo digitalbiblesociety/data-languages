@@ -2,6 +2,7 @@
 iso: ssu
 name: Susuami
 autonym: null
+alt_names: [Susuami language]
 population: 10
 country_id: PG
 country_name: Papua New Guinea

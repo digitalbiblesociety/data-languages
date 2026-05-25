@@ -2,6 +2,7 @@
 iso: glw
 name: Glavda
 autonym: Galvaxdaxa
+alt_names: [Galavda, Gelebda, Gelvaxdaxa, Glanda, Guelebda, Vale]
 population: 31300
 country_id: NG
 country_name: Nigeria

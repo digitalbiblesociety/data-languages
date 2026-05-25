@@ -2,6 +2,7 @@
 iso: msl
 name: Molof
 autonym: Poule
+alt_names: [Ampas, Powle-Ma]
 population: 200
 country_id: ID
 country_name: Indonesia

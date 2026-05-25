@@ -1,7 +1,9 @@
 ---
 iso: lkh
 name: Lakha
+name_zh: 拉卡语
 autonym: ལ་ཁ་
+alt_names: [Tshangkha]
 population: 8000
 country_id: BT
 country_name: Bhutan

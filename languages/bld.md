@@ -2,6 +2,7 @@
 iso: bld
 name: Bolango
 autonym: "Bulanga-Uki"
+alt_names: [Bulanga, Diu]
 population: 15000
 country_id: ID
 country_name: Indonesia

@@ -1,7 +1,9 @@
 ---
 iso: cch
 name: Atsam
+name_zh: 阿灿语
 autonym: Cawai
+alt_names: [Cawe, Cawi, Chawai, Chawe, Chawi]
 population: 30000
 country_id: NG
 country_name: Nigeria

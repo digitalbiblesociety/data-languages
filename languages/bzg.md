@@ -1,7 +1,9 @@
 ---
 iso: bzg
 name: Babuza
+name_zh: 巴布萨语
 autonym: Babusa
+alt_names: [Favorlang, Favorlangsch, Jaborlang, Lingua Babuza, Poavosa, Sprache von Formosa, Taokas, ภาษาบาบูซะห์, バブサ語]
 population: null
 country_id: TW
 country_name: Taiwan

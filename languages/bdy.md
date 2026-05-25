@@ -2,6 +2,7 @@
 iso: bdy
 name: Bandjalang
 autonym: Bandjelang
+alt_names: [Arakwal, Badjalang, Badjelang, Bandjalong, Bandjerang, Bogganger, Budulung, Buggul, Bundala, Bundel, Bundela, Bundjalung, Bunjellung, Dadarawa, Gidabal, Gundurimba, Paikalyung, Pangerang, Tugurimba, Watchee, Woomargou, Yugumbe]
 population: null
 country_id: AU
 country_name: Australia

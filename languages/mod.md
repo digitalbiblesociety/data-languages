@@ -2,6 +2,7 @@
 iso: mod
 name: Mobilian
 autonym: Yamá
+alt_names: [Chicasa Trade Jargon, Chickasaw(-Choctaw) Trade Language, Mobile, Mobilian Jargon, Mobilian Trade Jargon, Mobilian Trade Language]
 population: null
 country_id: US
 country_name: United States

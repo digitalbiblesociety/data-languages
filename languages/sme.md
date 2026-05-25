@@ -1,7 +1,9 @@
 ---
 iso: sme
 name: Northern Sami
+name_zh: 北萨米语
 autonym: davvisámegiella
+alt_names: ["\"Lapp\"", "\"Northern Lapp\"", "\"Northern Lappish\"", "\"Norwegian Lapp\"", Central, Cohkkiras (Jukkasjarvi) variety, Davvin, Język północnolapoński, Kuzeylapça, Lapp, Lappic, Lappisch, Lappish, Lappish-Norwegian, Lappish-Swedish, Lingua Samica Septentrionalis, Lingua sami settentrionale, Língua sami setentrional, N Saami, Noord-Samisch, Nord-samea lingvo, Nordsamische Sprache, Nordsamisk, Nordsamisk språk, Nordsamiska, North Saami, North Sámi (sápmi or sámegiella), Northern, Northern Lapp, Northern Lappish, Northern Saami, Norwegian, Norwegian Saami, Norwegian Sami, Norwegisch-Lappisch, Norðursamíska, Põhjasaami keel, Ruija, Ruija Lapp, Saame, Saameg gogleddol, Saami, Saami (North), Saami (Northern), Saami nord, "Saami, North", Saamish Hwoaie, Saamí septentrional, Same, Same du Nord, Sami, Sami septentrional, "Sami, Northern", Samic, Samieg an Norzh, Severná saamčina, Severní sámština, Sámegiella, Tornio Lappish, Western, Westlappisch, lapin kieli, lapon, lappisk, lopary, lpTornio, pohjoissaame, saamen kieli, saamskij jazyk, sabme, same-, sami du Nord, sāme-giellâ, westlappischer Dialekt, Északi számi nyelv, Šiaurės samių kalba, Войвыв Саами кыв, Къилбаседе-саами мотт, Северен самиски јазик, Северносаамски език, северносаамский язык, ስሜን ሳሚኛ, 北部サーミ語]
 population: 25700
 country_id: "NO"
 country_name: Norway

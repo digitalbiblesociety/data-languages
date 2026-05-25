@@ -2,6 +2,7 @@
 iso: bmu
 name: "Somba-Siawari"
 autonym: Mindik
+alt_names: [Bulum, Burum, Burum-Mindik, Burumana, Yaknge]
 population: 10000
 country_id: PG
 country_name: Papua New Guinea

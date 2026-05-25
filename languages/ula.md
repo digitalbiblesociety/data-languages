@@ -2,6 +2,7 @@
 iso: ula
 name: Fungwa
 autonym: Ura
+alt_names: [Afungwa, Tufungwa, Ula]
 population: 1000
 country_id: NG
 country_name: Nigeria

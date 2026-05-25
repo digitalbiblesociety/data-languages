@@ -2,6 +2,7 @@
 iso: wrp
 name: Waropen
 autonym: Aropen
+alt_names: [Wonti, Worpen]
 population: 6000
 country_id: ID
 country_name: Indonesia

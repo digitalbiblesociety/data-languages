@@ -2,6 +2,7 @@
 iso: hhr
 name: Kerak
 autonym: "Jola-Felupe"
+alt_names: [Her, Keerak, Keeraku]
 population: 13200
 country_id: SN
 country_name: Senegal

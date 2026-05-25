@@ -1,7 +1,9 @@
 ---
 iso: akk
 name: Akkadian
+name_zh: 阿卡德语
 autonym: 𒀝𒅗𒁺𒌑
+alt_names: [Acadeg, Accadi, Akada lingvo, Akadiko, Akadski jezik, Akadų kalba, Akatça, Akkadeg, Akkadien, Akkadin kieli, Akkadisch, Akkadische Sprache, Akkadisk, Akkadisk språk, Akkadiska, Akkadysk, Akkadíska, Akkadčina, Akkadština, Akkád nyelv, Bahasa Akkadia, Idioma acadio, Język akadyjski, Late Babylonian, Limba akkadiană, Lingua Accadica, Lingua acadia, Língua acádia, Middle Assyrian, Middle Babylonian, Neo-Assyrian, Neo-Babylonian, Old Akkadian, Old Assyrian, Old Babylonian, Ακκαδική γλώσσα, Акадски език, Акадски јазик, Аккад чĕлхи, Аккадский язык, אכדית, زبان اکدی, لغة أكدية, ܠܫܢܐ ܐܟܕܝܐ, আক্কাদীয় ভাষা, அக்காத் மொழி, ภาษาอัคคาเดีย, აქადური ენა, アッカド語, 阿卡德語, 아카드어]
 population: null
 country_id: IQ
 country_name: Iraq

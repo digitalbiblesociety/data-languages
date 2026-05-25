@@ -1,6 +1,7 @@
 ---
 iso: cdy
 name: Chadong
+name_zh: 茶洞語
 autonym: Cha Dong
 population: 20000
 country_id: CN

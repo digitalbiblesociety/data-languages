@@ -1,7 +1,9 @@
 ---
 iso: yue
 name: Yue Chinese
+name_zh: 粤语
 autonym: Cantonese
+alt_names: [Cantonese Chinese, "Cantonese, Yue", Chinese, Chinese (Cantonese), "Chinese, Yue", "Chinese,Yue", Yue, Yue Dialect Family, Yuè, Yüeh]
 population: 73100000
 country_id: CN
 country_name: China

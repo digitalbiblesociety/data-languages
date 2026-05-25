@@ -2,6 +2,7 @@
 iso: zab
 name: Western Tlacolula Valley Zapotec
 autonym: Valley Zapotec
+alt_names: [Central Sapoteko, San Juan Guelavia Zapotec, San Juan Guelavía Zapotec, Sapoteko, Western Tlacolula Zapotec, Zapotec, Zapotec (San Lucas Quiaviní), Zapotec (San Lucas), "Zapotec, San Juan Guelavía", "Zapotec, Western Tlacolula Valley", Zapoteco de San Felipe Tejalápam, Zapoteco de San Juan Guelavía, Zapotèque de San Felipe Tejalapan]
 population: 28000
 country_id: MX
 country_name: Mexico

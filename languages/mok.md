@@ -1,7 +1,9 @@
 ---
 iso: mok
 name: Morori
+name_zh: 摩洛利语
 autonym: Marori
+alt_names: [Moaraeri, Moraori, Morari]
 population: 250
 country_id: ID
 country_name: Indonesia

@@ -1,6 +1,7 @@
 ---
 iso: ors
 name: Orang Seletar
+name_zh: 实里达语
 autonym: Orang Laut
 population: 1407
 country_id: MY

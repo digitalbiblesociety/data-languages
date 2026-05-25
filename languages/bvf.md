@@ -2,6 +2,7 @@
 iso: bvf
 name: Boor
 autonym: Bwara
+alt_names: [Damraw]
 population: 100
 country_id: TD
 country_name: Chad

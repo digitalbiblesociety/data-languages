@@ -1,6 +1,7 @@
 ---
 iso: mis
 name: Uncoded languages
+name_zh: 无语言代码的语言
 autonym: null
 population: null
 country_id: ZZ

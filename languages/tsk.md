@@ -1,7 +1,9 @@
 ---
 iso: tsk
 name: Tseku
+name_zh: 切库语
 autonym: Tsuku
+alt_names: [sDerong-nJol Tibetan]
 population: 12600
 country_id: CN
 country_name: China

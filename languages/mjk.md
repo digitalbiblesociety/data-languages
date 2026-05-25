@@ -2,6 +2,7 @@
 iso: mjk
 name: Matukar
 autonym: null
+alt_names: [Matukar language]
 population: 430
 country_id: PG
 country_name: Papua New Guinea

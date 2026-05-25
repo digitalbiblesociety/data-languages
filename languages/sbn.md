@@ -2,6 +2,7 @@
 iso: sbn
 name: Sindhi Bhil
 autonym: سنڌي
+alt_names: ["Bhil, Sindhi", Pakistan]
 population: 56500
 country_id: PK
 country_name: Pakistan

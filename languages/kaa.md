@@ -1,7 +1,9 @@
 ---
 iso: kaa
 name: "Kara-Kalpak"
+name_zh: 卡拉卡尔帕克语
 autonym: " قاراقالپاق تىلى"
+alt_names: [Bahasa Karakalpak, Idioma karakalpako, Język karakałpacki, Karakalpak, Karakalpak language, Karakalpakeg, Karakalpakesch, Karakalpakin kieli, Karakalpakische Sprache, Karakalpakische Språch, Karakalpakiska, Karakalpaks, Karakalpakça, Karakalpakų kalba, Karakalpačtina, Karaklobuk, Klobouki, Lingua karakalpaka, Qarapulpaqs, Qaraq-Qarapalpaq, Qaraqalpaq tili, Sprache der Kalakalpaken, Tchorny, Каракалпак чĕлхи, Каракалпакский язык, Каракалпачки јазик, Қарақалпақ тілі, Ҡараҡалпаҡ теле, زبان قره‌قالپاقی, قارا قالپاق تىلى, ภาษาการากัลปัก, カラカルパク語]
 population: 748070
 country_id: UZ
 country_name: Uzbekistan

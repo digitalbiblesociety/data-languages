@@ -1,7 +1,9 @@
 ---
 iso: cpa
 name: Palantla Chinantec
+name_zh: 帕蘭特拉奇南特克語
 autonym: Tlatepuzco Chinantec
+alt_names: [Central Chinantec, Chiltepec Chinantec, Chinantec, Chinantec (Palantla), "Chinantec, Palantla", Chinanteco, Chinanteco (Palantla), Chinanteco Central, Chinanteco de Santiago Tlatepusco, Chinanteko, Lealao Chinantec, Palantla, Palantla Chinanteko, Usila Chinantec, Valle Nacional Chinantec, jajme dzä mii, "jmiih kia' dzä mii"]
 population: 1500
 country_id: MX
 country_name: Mexico

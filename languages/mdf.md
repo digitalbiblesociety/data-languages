@@ -1,7 +1,9 @@
 ---
 iso: mdf
 name: Moksha
+name_zh: 莫克沙語
 autonym: mokšenj kälj
+alt_names: [Bahasa Moksha, Język moksza, Lingua mokša, Mokcha, Mokcheg, Moksa kiil, Moksa nyelv, Mokscha-Mordwinisch, Mokscha-Mundart, Mokschanische Sprache, Moksha Mordvin, Moksha-Mordva, Mokshan, Moksja, Mokša, Mokša-Mordvinisch, Mokšagiella, Mokšan kieli, Mokšańsko godka, Mokšų kalba, Mordoff, Mordov, Mordovo moksha, Mordua, Morduini, Mordva, Mordvin, Mordvin (Moksha), Mordvin-Moksha, Mordvinian, Mordvinisch, Mordwin, Mordwinisch, erza, moksa, mokšanskij jazyk, mokšen΄ kjal΄, mokšəń käĺ, southern dialect, Мăкшă чĕлхи, Мо́кшєн҄ьскъ ѩꙁꙑ́къ, Мокша кыв, Мокшански език, Мокшанська мова, Мокшаски јазик, Мокшонь кель, Моҡшо теле, Мукшы теле, мокшанский язык, мокшень кяль, ภาษามอคชา, 목샤어]
 population: 253000
 country_id: RU
 country_name: Russia

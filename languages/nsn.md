@@ -2,6 +2,7 @@
 iso: nsn
 name: Nehan
 autonym: Nissan
+alt_names: [Nihan]
 population: 6500
 country_id: PG
 country_name: Papua New Guinea

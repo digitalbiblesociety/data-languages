@@ -2,6 +2,7 @@
 iso: don
 name: Toura (Papua New Guinea)
 autonym: Doura
+alt_names: [Toura]
 population: 1800
 country_id: PG
 country_name: Papua New Guinea

@@ -2,6 +2,7 @@
 iso: chd
 name: Highland Oaxaca Chontal
 autonym: Slijuala xanuk
+alt_names: [Chantal (Highland), Chontal, Chontal (Highland), Chontal de Oaxaca (Sierra), Chontal de la sierra, Chontal des hautes terres, Chontal of Oaxaca, "Chontal, Highland Oaxaca", Highland Chontal, Mountain Tequistlatec, Tequistlatec, Tequistlateco]
 population: 3600
 country_id: MX
 country_name: Mexico

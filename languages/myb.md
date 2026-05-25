@@ -2,6 +2,7 @@
 iso: myb
 name: Mbay
 autonym: Sara Mbay
+alt_names: [Mbai, Mbay Moissala, Mbaye, Moissala Mbai, Sara Mbai]
 population: 88300
 country_id: TD
 country_name: Chad

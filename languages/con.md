@@ -1,7 +1,9 @@
 ---
 iso: con
 name: Cofán
+name_zh: 阿依语
 autonym: "A'ingae"
+alt_names: ["A'i", "A'ingaé", A’ingae (Équateur), A’ingaé, Cofan, Cofán (Colombie), Cofán (Ecuador), Colin, Kofan, Kofane, Kofán]
 population: 1020
 country_id: EC
 country_name: Ecuador

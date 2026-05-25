@@ -2,6 +2,7 @@
 iso: kzl
 name: Kayeli
 autonym: Bahasa Kayeli
+alt_names: [Caeli, Cajeli, Gaeli, Kajeli, Liliali]
 population: 800
 country_id: ID
 country_name: Indonesia

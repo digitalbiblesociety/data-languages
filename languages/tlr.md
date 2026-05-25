@@ -2,6 +2,7 @@
 iso: tlr
 name: Talise
 autonym: Tolo
+alt_names: [Guadalcanar, Südliche Salomons-Inseln, Talisi]
 population: 12500
 country_id: SB
 country_name: Solomon Islands

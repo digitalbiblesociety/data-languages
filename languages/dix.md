@@ -2,6 +2,7 @@
 iso: dix
 name: Dixon Reef
 autonym: Dixon Reef
+alt_names: [Aveteian]
 population: 50
 country_id: VU
 country_name: Vanuatu

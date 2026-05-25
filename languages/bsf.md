@@ -2,6 +2,7 @@
 iso: bsf
 name: Bauchi
 autonym: Bauci
+alt_names: [Baushi, Kushi]
 population: 20000
 country_id: NG
 country_name: Nigeria

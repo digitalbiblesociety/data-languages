@@ -2,6 +2,7 @@
 iso: tgs
 name: Nume
 autonym: Tarasag
+alt_names: [Banks-Inseln, Gaua, Tasarag]
 population: 900
 country_id: VU
 country_name: Vanuatu

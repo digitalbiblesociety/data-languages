@@ -1,7 +1,9 @@
 ---
 iso: lki
 name: Laki
+name_zh: 拉科语
 autonym: " لکي "
+alt_names: [Alaki, Lakieg, Leki, Lekî, Леки, لأکی, لکی, لەکی, ภาษาลากี]
 population: 1240000
 country_id: IR
 country_name: Iran

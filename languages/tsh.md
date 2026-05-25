@@ -2,6 +2,7 @@
 iso: tsh
 name: Tsuvan
 autonym: Matsuvan
+alt_names: [Motsuvan, Tchede, Telaki, Teleki, Terki]
 population: 2300
 country_id: CM
 country_name: Cameroon

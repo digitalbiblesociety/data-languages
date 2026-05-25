@@ -1,7 +1,9 @@
 ---
 iso: nmg
 name: Kwasio
+name_zh: 夸西奥语
 autonym: " Kola"
+alt_names: [Bisio, Bisiwo, Bissio, Bujeba, Kwassio, Mabea, Mabi, Mgoumba, Mvumbo, Ngoumba, Ngoumbeg, Ngumba, Ngumbum]
 population: 17500
 country_id: CM
 country_name: Cameroon

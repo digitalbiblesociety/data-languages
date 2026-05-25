@@ -1,6 +1,7 @@
 ---
 iso: gba
 name: Gbaya (Central African Republic)
+name_zh: 格巴亚语
 autonym: Gbaya–Manza–Ngbaka
 population: null
 country_id: CF

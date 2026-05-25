@@ -2,6 +2,7 @@
 iso: mke
 name: Mawchi
 autonym: Mauchi
+alt_names: [Gamti, Mavchi, Mawachi, Mawchi Bhil, Mowchi]
 population: 98500
 country_id: IN
 country_name: India

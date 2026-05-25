@@ -2,6 +2,7 @@
 iso: nen
 name: Nengone
 autonym: Iwatenu
+alt_names: [Maré]
 population: 6500
 country_id: NC
 country_name: New Caledonia

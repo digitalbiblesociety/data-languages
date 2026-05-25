@@ -2,6 +2,7 @@
 iso: jrr
 name: Jiru
 autonym: Atak
+alt_names: [Kir, Wiyap, Zhiru]
 population: 3420
 country_id: NG
 country_name: Nigeria

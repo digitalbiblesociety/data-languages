@@ -2,6 +2,7 @@
 iso: zbw
 name: West Berawan
 autonym: Berawan
+alt_names: ["Berawan, West", Long Terawan]
 population: 720
 country_id: MY
 country_name: Malaysia

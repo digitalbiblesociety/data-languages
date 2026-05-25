@@ -2,6 +2,7 @@
 iso: ybh
 name: Yakha
 autonym: Dewansala
+alt_names: [Rōi, Yakeg, Yakkha, Yakkhaba, Yakkhaba Cea, Yakkhaba Sala, Yakthomba, Yākhā, Якха]
 population: 14600
 country_id: NP
 country_name: Nepal

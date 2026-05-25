@@ -1,7 +1,9 @@
 ---
 iso: dcr
 name: Negerhollands
+name_zh: 黑荷兰语
 autonym: Dutch Creole
+alt_names: [Neekerihollanti, "Neger'ollands", Negerhollandsk, Negerholländisch]
 population: null
 country_id: VI
 country_name: Virgin Islands US

@@ -1,7 +1,9 @@
 ---
 iso: siz
 name: Siwi
+name_zh: 西瓦语
 autonym: " Siwa Berber"
+alt_names: [Berber, Berber (Siwa), Idioma siwi, Oasis Berber, Sioua, Siví, Siwa, Siwaeg, Siwi jezik, Tasiwit, Zenati]
 population: 20000
 country_id: EG
 country_name: Egypt

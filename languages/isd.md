@@ -2,6 +2,7 @@
 iso: isd
 name: Isnag
 autonym: Isneg
+alt_names: [Dibagat-Kabugao-Isneg, Maragat]
 population: 32600
 country_id: PH
 country_name: Philippines

@@ -2,6 +2,7 @@
 iso: reg
 name: Kara (Tanzania)
 autonym: Regi
+alt_names: [Kara]
 population: 115000
 country_id: TZ
 country_name: Tanzania

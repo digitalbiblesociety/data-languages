@@ -2,6 +2,7 @@
 iso: wif
 name: "Wik-Keyangan"
 autonym: null
+alt_names: [Wik-Keyenganh]
 population: null
 country_id: AU
 country_name: Australia

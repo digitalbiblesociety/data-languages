@@ -2,6 +2,7 @@
 iso: pem
 name: Phende
 autonym: Giphende
+alt_names: [Gipende, Kipende, Pende, Pindi, Pinji]
 population: 420000
 country_id: CD
 country_name: DR Congo

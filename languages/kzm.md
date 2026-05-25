@@ -2,6 +2,7 @@
 iso: kzm
 name: Kais
 autonym: Kampong Baru
+alt_names: [Aiso, Atori, Kampung Baru, Mintamani]
 population: 700
 country_id: ID
 country_name: Indonesia

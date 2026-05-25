@@ -2,6 +2,7 @@
 iso: pae
 name: Pagibete
 autonym: Apagibete
+alt_names: [Apagibeti, Apakabeti, Apakibeti, Pagabete]
 population: 28000
 country_id: CD
 country_name: DR Congo

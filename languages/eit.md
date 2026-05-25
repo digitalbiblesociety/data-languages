@@ -2,6 +2,7 @@
 iso: eit
 name: Eitiep
 autonym: null
+alt_names: [Endangen, Indiang]
 population: 500
 country_id: PG
 country_name: Papua New Guinea

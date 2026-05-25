@@ -2,6 +2,7 @@
 iso: tvg
 name: Tugunese
 autonym: Papiá Tugu
+alt_names: [Batavian Portuguese Creole, "Creole, Batavian Portuguese", "Creole, Mardijker", Mardijker Creole]
 country_id: ID
 country_name: Indonesia
 latitude: -7.72555

@@ -2,6 +2,7 @@
 iso: bnu
 name: Bentong
 autonym: "Bentong-Dentong"
+alt_names: [Dentong]
 population: 25000
 country_id: ID
 country_name: Indonesia

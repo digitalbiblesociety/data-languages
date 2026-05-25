@@ -2,6 +2,7 @@
 iso: raz
 name: Rahambuu
 autonym: Lellewao
+alt_names: [Wiaoe, Wiau]
 population: 5000
 country_id: ID
 country_name: Indonesia

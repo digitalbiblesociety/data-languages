@@ -1,7 +1,9 @@
 ---
 iso: prn
 name: Prasuni
+name_zh: 瓦什瓦里语
 autonym: Prasuni
+alt_names: [Język wasi-weri, Nuristani, Parun, Paruni, Prasun, Prasuní, Pārūnī, Vasi vari, Vasi-vari, Vasi-vari language, Veron, Verou, Veruni, Vâsi-vari, Wasi-Veri, Wasi-Wari, Wasi-weri, Прасун, ภาษาวาซิ-วารี]
 population: 8000
 country_id: AF
 country_name: Afghanistan

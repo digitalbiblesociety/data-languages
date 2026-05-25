@@ -2,6 +2,7 @@
 iso: ebr
 name: Ebrié
 autonym: Cama
+alt_names: [Caman, Ebrie, Kyama, Tchaman, Tsama, Tyama]
 population: 152000
 country_id: CI
 country_name: "Côte d'Ivoire"

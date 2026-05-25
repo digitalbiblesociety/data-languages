@@ -2,6 +2,7 @@
 iso: mpx
 name: "Misima-Panaeati"
 autonym: "Misima-Panaeati"
+alt_names: [Misima-Paneati, Panaeati, Panaieti, Panayeti, Paneate, Paneyate]
 population: 20000
 country_id: PG
 country_name: Papua New Guinea

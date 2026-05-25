@@ -1,7 +1,9 @@
 ---
 iso: olo
 name: Livvi
+name_zh: 利维卡累利阿语
 autonym: livvi
+alt_names: [Aunuksenkarjalan kieli, Aunus, Livvi Karelian, Livvikovian, Livvin Kielie, Livvisch, Lívõnkél, Olonec, Olonecian, Olonets, Olonetsian, Olonetsiano, Olonetsien, Olonetzisch, Southern Karelian, Southern Olonetsian, Südwest-Karelisch, aunuksen kieli, livviki, livvikovskij, livvikovskij dialekt, livvikovskij jazyk, livvin kieli, liygi, ливвиковский язык]
 population: 30770
 country_id: RU
 country_name: Russia

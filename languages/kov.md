@@ -2,6 +2,7 @@
 iso: kov
 name: "Kudu-Camo"
 autonym: "Kuda-Chamo"
+alt_names: [Kudawa]
 population: 42
 country_id: NG
 country_name: Nigeria

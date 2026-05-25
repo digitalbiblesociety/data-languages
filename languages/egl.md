@@ -1,6 +1,7 @@
 ---
 iso: egl
 name: Emilian
+name_zh: 艾米利亚语
 autonym: emigliàn
 population: 1300000
 country_id: IT

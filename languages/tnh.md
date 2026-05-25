@@ -2,6 +2,7 @@
 iso: tnh
 name: Maiani
 autonym: Tani
+alt_names: [Banara, Maiari, Miani South, Wagimuda]
 population: 3040
 country_id: PG
 country_name: Papua New Guinea

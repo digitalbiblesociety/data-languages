@@ -2,6 +2,7 @@
 iso: nba
 name: Nyemba
 autonym: Ngangela
+alt_names: [Gangela, Ganguela, Ganguella, Nhemba]
 population: 950540
 country_id: AO
 country_name: Angola

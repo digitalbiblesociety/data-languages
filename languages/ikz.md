@@ -2,6 +2,7 @@
 iso: ikz
 name: Ikizu
 autonym: Ikikizu
+alt_names: [Ikikizo, Kiikizu]
 population: 52900
 country_id: TZ
 country_name: Tanzania

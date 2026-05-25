@@ -1,7 +1,9 @@
 ---
 iso: nor
 name: Norwegian
+name_zh: 挪威语
 autonym: norsk
+alt_names: [norvégien]
 population: 5305910
 country_id: "NO"
 country_name: Norway

@@ -2,6 +2,7 @@
 iso: lel
 name: Lele (Democratic Republic of Congo)
 autonym: Bashilele
+alt_names: [Lele, Lemio, Usilele]
 population: 26000
 country_id: CD
 country_name: DR Congo

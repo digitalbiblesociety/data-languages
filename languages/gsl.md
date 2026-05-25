@@ -2,6 +2,7 @@
 iso: gsl
 name: Gusilay
 autonym: Gusiilaay
+alt_names: [Gusiilay, Gusilaay, Kusiilaay, Kusilay]
 population: 15400
 country_id: SN
 country_name: Senegal

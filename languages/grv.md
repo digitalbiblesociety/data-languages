@@ -2,6 +2,7 @@
 iso: grv
 name: Central Grebo
 autonym: Kréébo
+alt_names: [Grebo, "Grebo, Central"]
 population: 56100
 country_id: LR
 country_name: Liberia

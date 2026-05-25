@@ -2,6 +2,7 @@
 iso: boz
 name: Tiéyaxo Bozo
 autonym: Boso
+alt_names: [Bozo, Bozo (Tigemaxo), "Bozo, Tiéyaxo", Tie, Tiemaxo, Tieyaxo, Tieyaxo Bozo, Tigemaxo, Tiguémakho, Tiéyakho, Tiéyaxo, Tyeyaxo, Tégué]
 population: 118000
 country_id: ML
 country_name: Mali

@@ -2,6 +2,7 @@
 iso: tee
 name: Huehuetla Tepehua
 autonym: Lhiimaqalhqama7
+alt_names: [Huehuetla, Huehuetla Mecapalapa Tepewa, Tepehua, Tepehua de Hidalgo, Tepehua de Huehuetla, Tepehua de Pisaflores, Tepehua de Tlachichilco, "Tepehua, Huehuetla", Tepehuano de Huehuetla, Tepehuano de Pisa Flores, Tepehuano de Tlachichilco, Tepewa]
 population: 3000
 country_id: MX
 country_name: Mexico

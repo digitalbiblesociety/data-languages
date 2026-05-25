@@ -2,6 +2,7 @@
 iso: kyh
 name: Karok
 autonym: araráhih
+alt_names: [Charoc, Karuk, Karuk language, Quoratean, Quoratem, Карук]
 population: 1900
 country_id: US
 country_name: United States

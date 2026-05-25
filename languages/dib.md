@@ -2,6 +2,7 @@
 iso: dib
 name: South Central Dinka
 autonym: Thuɔŋjäŋ
+alt_names: [Agar, Central Dinka, Dinka, "Dinka, South Central", Mittel-Dinka]
 population: 851000
 country_id: SS
 country_name: South Sudan

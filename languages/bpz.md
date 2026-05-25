@@ -2,6 +2,7 @@
 iso: bpz
 name: Bilba
 autonym: Eastern Rote
+alt_names: [Belubaa, Bilbaa, Rote, Rote Timur, Roti, Rotinese]
 population: 7000
 country_id: ID
 country_name: Indonesia

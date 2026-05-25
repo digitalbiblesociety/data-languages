@@ -2,6 +2,7 @@
 iso: aft
 name: Afitti
 autonym: Affitti
+alt_names: [Affiti, Dinik, Ditti, Unietti]
 population: 4510
 country_id: SD
 country_name: Sudan

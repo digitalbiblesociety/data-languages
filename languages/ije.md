@@ -2,6 +2,7 @@
 iso: ije
 name: Biseni
 autonym: Amegi
+alt_names: [Buseni, Northeast Central Ijo, Ịjọ]
 population: 4800
 country_id: NG
 country_name: Nigeria

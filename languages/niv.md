@@ -1,7 +1,9 @@
 ---
 iso: niv
 name: Gilyak
+name_zh: 尼夫赫語
 autonym: Gilyak
+alt_names: [Amur, Amur Nivkh, Gelyak, Ghiliak, Ghilyak, Giljakisk, "Gilyak, Nivkh", Giriyaaku, Język niwchijski, Lingua Nivkh, Língua nivkhe, Nivchština, Nivejí (Sajalín), Nivhin kieli, Nivkh, Nivkh (South Sakhalin), Nivkh language, Nivkhe, Nivkhe (Amour), Nivkhe (Sakhaline), Nivkhi, Nivukhi, Nivx, Niwchische Sprache, Нивх, Нивх чĕлхи, Нивхгу диф, Нивхский язык, Ньиғвӈгун, амурский нивхский язык, гиляцкий язык, ניבחית, ニヴフ語, 尼夫赫語, 니브히어]
 population: 2000
 country_id: RU
 country_name: Russia

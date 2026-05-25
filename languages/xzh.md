@@ -1,6 +1,7 @@
 ---
 iso: xzh
 name: "Zhang-Zhung"
+name_zh: 象雄语
 autonym: Zhang-Zhung
 population: null
 country_id: CN

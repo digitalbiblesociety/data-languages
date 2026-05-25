@@ -2,6 +2,7 @@
 iso: ado
 name: Abu
 autonym: Abu
+alt_names: [Adjora, Adjoria, Azao]
 population: 3380
 country_id: PG
 country_name: Papua New Guinea

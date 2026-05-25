@@ -1,7 +1,9 @@
 ---
 iso: gbj
 name: Bodo Gadaba
+name_zh: 古托布语
 autonym: Bodo Gadaba
+alt_names: [Bodo, Bodo-Gadaba, Boi Gadaba, Gadaba, "Gadaba, Bodo", Gadabeg, Gadba, Gadwa, Godwa, Goutob, Gudwa, Gutob, Gutob language, Gutop, Sodia]
 population: 8000
 country_id: IN
 country_name: India

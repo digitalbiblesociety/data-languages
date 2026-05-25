@@ -2,6 +2,7 @@
 iso: ama
 name: Amanayé
 autonym: Amanage
+alt_names: [Amanajo, Amanajé, Amanaye, Amanayé language area, Amanyé, Anambé, Guajá, "Ka'apór", Manajo, Manaxo, Manaze, Manazo, Urubú, Urubú-kaapor]
 population: null
 country_id: BR
 country_name: Brazil

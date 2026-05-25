@@ -1,6 +1,7 @@
 ---
 iso: dnj
 name: Dan
+name_zh: 但语
 autonym: Yacouba
 population: 1568800
 country_id: CI

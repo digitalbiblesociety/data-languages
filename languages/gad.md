@@ -2,6 +2,7 @@
 iso: gad
 name: Gaddang
 autonym: Cagayan
+alt_names: [Pagsasao nga Gaddang]
 population: 30300
 country_id: PH
 country_name: Philippines

@@ -2,6 +2,7 @@
 iso: ypo
 name: Alo Phola
 autonym: Pula
+alt_names: [Bola, "Phola, Alo", "Phola,Alo"]
 population: null
 country_id: CN
 country_name: China

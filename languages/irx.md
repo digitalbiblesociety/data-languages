@@ -2,6 +2,7 @@
 iso: irx
 name: Kamberau
 autonym: Asienara
+alt_names: [Iria, Kamrau]
 population: 1570
 country_id: ID
 country_name: Indonesia

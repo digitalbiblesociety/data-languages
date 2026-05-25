@@ -2,6 +2,7 @@
 iso: dne
 name: Ndendeule
 autonym: Ndwewe
+alt_names: [Kindendeule, Kindendeuli, Ndendeuli]
 population: 140000
 country_id: TZ
 country_name: Tanzania

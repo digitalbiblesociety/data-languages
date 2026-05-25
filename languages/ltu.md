@@ -2,6 +2,7 @@
 iso: ltu
 name: Latu
 autonym: null
+alt_names: [Indonesia]
 population: 2130
 country_id: ID
 country_name: Indonesia

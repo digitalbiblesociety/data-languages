@@ -1,7 +1,9 @@
 ---
 iso: mez
 name: Menominee
+name_zh: 梅诺米尼语
 autonym: Oma͞eqnomenew
+alt_names: [Menomini, Menominí]
 population: 799
 country_id: US
 country_name: United States

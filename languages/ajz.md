@@ -2,6 +2,7 @@
 iso: ajz
 name: Amri Karbi
 autonym: Amri Karbi
+alt_names: [Amri, AmriKarbi, "Karbi, Amri"]
 population: 125000
 country_id: IN
 country_name: India

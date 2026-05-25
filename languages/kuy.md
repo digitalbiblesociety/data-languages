@@ -2,6 +2,7 @@
 iso: kuy
 name: "Kuuku-Ya'u"
 autonym: Northeastern Paman
+alt_names: [Bagadji, Gugu Yau, Guugu YauBagadji, Jao, Kao Kokoyao, Koka yao, Koka-yao, "Koko Ya':o", "Koko Ya:o", Koko Yao, "Koko-Ja'o", KokoYao, Kuku Yao, Kuku Yau, "Kuku-Ya'u", Kuuk Yak, "Kuuku Ya'u", Kuuku Yau, Makadama, Pakadji, "Ya'o", Yao]
 population: null
 country_id: AU
 country_name: Australia

@@ -1,7 +1,9 @@
 ---
 iso: som
 name: Somali
+name_zh: 索马里语
 autonym: Af Soomaali
+alt_names: [Af-Maxaad Tiri, Af-Soomaali, Bahasa Somali, Common Somali, Darod, Idioma somalí, Isa, Isaq, Język somalijski, Lingua somala, Lingua somalí, Língua somali, Sab, Somala lingvo, Somali-Aweer, Somaliana linguo, Somalice, Somalieg, Somaliera, Somalin kieli, Somalisch, Somaliska, Somališćina, Somálština, Standard Somali, Sumali simi, Сомалийски език, Сомалийский язык, لغة صومالية, सोमाली भाषा, সোমালি ভাষা, சோமாலி மொழி, ภาษาโซมาเลีย, სომალი ენა, ሶማልኛ, ソマリ語, 索馬里語, 소말리어]
 population: 16200000
 country_id: SO
 country_name: Somalia

@@ -1,7 +1,9 @@
 ---
 iso: mxj
 name: "Miju-Mishmi"
+name_zh: 格曼语
 autonym: " Kman"
+alt_names: ["Deng, Geman", Geman Deng, Kaman, Kaman Mishmi, Keman, Miji, Miju, Mishmi, Mījū Mishmi, 格曼語]
 population: 18000
 country_id: IN
 country_name: India

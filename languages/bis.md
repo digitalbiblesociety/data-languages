@@ -1,6 +1,7 @@
 ---
 iso: bis
 name: Bislama
+name_zh: 比斯拉马语
 autonym: Bichelamar
 population: 12570
 country_id: VU

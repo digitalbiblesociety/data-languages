@@ -1,7 +1,9 @@
 ---
 iso: crc
 name: Lonwolwol
+name_zh: 伦沃沃语
 autonym: West Ambrym
+alt_names: [Ambrym, Ambrym (Lonwolwol), Craig Cove, Fali, Fanting, Raljago]
 population: 1200
 country_id: VU
 country_name: Vanuatu

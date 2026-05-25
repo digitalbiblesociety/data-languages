@@ -2,6 +2,7 @@
 iso: aok
 name: Arhö
 autonym: Aro
+alt_names: [Arho, Neukaledonien]
 population: 10
 country_id: NC
 country_name: New Caledonia

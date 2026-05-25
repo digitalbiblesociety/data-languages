@@ -2,6 +2,7 @@
 iso: nnn
 name: Ngete
 autonym: Lame
+alt_names: ["Ka'do Ngueté", "Nge'dé", Nguetté, Ngueté, Zime]
 population: 10000
 country_id: TD
 country_name: Chad

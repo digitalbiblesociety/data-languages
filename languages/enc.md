@@ -1,7 +1,9 @@
 ---
 iso: enc
 name: En
+name_zh: 恩語
 autonym: Nung Ven
+alt_names: [Ain, 儂環語, 恩語]
 population: 200
 country_id: VN
 country_name: Vietnam

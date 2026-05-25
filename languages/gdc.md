@@ -2,6 +2,7 @@
 iso: gdc
 name: Gugu Badhun
 autonym: Northern Maric
+alt_names: [Gugu-Badhun, Koko Padun, Koko Patun, Koko-Patun, Kokopatun, Patun]
 population: null
 country_id: AU
 country_name: Australia

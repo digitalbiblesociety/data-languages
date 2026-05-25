@@ -1,7 +1,9 @@
 ---
 iso: sty
 name: Siberian Tatar
+name_zh: 西伯利亚鞑靼语
 autonym: "{{lang|sty|татарца, тадарца, татарча, тадарча,"
+alt_names: ["Tatar, Siberian"]
 population: 101000
 country_id: RU
 country_name: Russia

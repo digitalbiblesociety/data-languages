@@ -2,6 +2,7 @@
 iso: ahi
 name: Tiagbamrin Aizi
 autonym: Lélé
+alt_names: [Ahizi, Aizi, "Aizi, Tiagbamrin", Lélémrin, Tiagba]
 population: 9000
 country_id: CI
 country_name: "Côte d'Ivoire"

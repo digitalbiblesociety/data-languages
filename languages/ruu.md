@@ -2,6 +2,7 @@
 iso: ruu
 name: Lanas Lobu
 autonym: Lobu
+alt_names: ["Lobu, Lanas", Malaysia]
 population: 2000
 country_id: MY
 country_name: Malaysia

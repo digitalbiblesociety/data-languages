@@ -2,6 +2,7 @@
 iso: dgc
 name: Casiguran Dumagat Agta
 autonym: Casiguran Dumagat
+alt_names: [Agta, Agta (Casiguran Dumagat), "Agta, Casiguran Dumagat", Baler Dumagat, Casiguran, Dumagat (Casiguran)]
 population: 610
 country_id: PH
 country_name: Philippines

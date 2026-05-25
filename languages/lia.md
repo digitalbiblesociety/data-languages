@@ -2,6 +2,7 @@
 iso: lia
 name: "West-Central Limba"
 autonym: Yimba
+alt_names: [Limba, "Limba, West-Central", Yumba]
 population: 445000
 country_id: SL
 country_name: Sierra Leone

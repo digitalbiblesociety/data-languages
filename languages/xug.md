@@ -1,7 +1,9 @@
 ---
 iso: xug
 name: Kunigami
+name_zh: 國頭語
 autonym: 山原言葉/ヤンバルクトゥーバ
+alt_names: [Idioma kunigami, Kounigameg, Ryukyuan, Кунигамиски јазик, 国頭方言]
 population: 5000
 country_id: JP
 country_name: Japan

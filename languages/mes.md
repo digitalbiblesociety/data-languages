@@ -2,6 +2,7 @@
 iso: mes
 name: Masmaje
 autonym: Masmadje
+alt_names: [Mesmedje]
 population: 45000
 country_id: TD
 country_name: Chad

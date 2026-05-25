@@ -2,6 +2,7 @@
 iso: auw
 name: Awyi
 autonym: Awje
+alt_names: [Auyi, Aviú, Awji, Awye, Beapawa, Embiawo, Njao, Nyao]
 population: 350
 country_id: ID
 country_name: Indonesia

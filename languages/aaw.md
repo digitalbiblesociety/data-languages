@@ -2,6 +2,7 @@
 iso: aaw
 name: Solong
 autonym: Arawe
+alt_names: [Arare, Arove, Pililo]
 population: 2200
 country_id: PG
 country_name: Papua New Guinea

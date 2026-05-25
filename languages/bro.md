@@ -1,7 +1,9 @@
 ---
 iso: bro
 name: Brokkat
+name_zh: 布罗卡特语
 autonym: Brokskad
+alt_names: [Jokay]
 population: 300
 country_id: BT
 country_name: Bhutan

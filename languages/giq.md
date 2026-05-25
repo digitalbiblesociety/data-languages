@@ -1,7 +1,9 @@
 ---
 iso: giq
 name: Green Gelao
+name_zh: 哈给方言
 autonym: Kláo
+alt_names: [Cape Draping Gelao, Cờ Lao, Gelao (Vietnam), Gelao vert (Chine), Gelao vert (Viet Nam), "Gelao, Green", Hagei, Ho Ki, Hoki Gelao, Klau, Qau, 仡佬语哈給方言, 青仡佬]
 population: 300
 country_id: VN
 country_name: Vietnam

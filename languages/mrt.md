@@ -2,6 +2,7 @@
 iso: mrt
 name: Marghi Central
 autonym: Marghi
+alt_names: [Margi, Margi Central, Margi language]
 population: 226000
 country_id: NG
 country_name: Nigeria

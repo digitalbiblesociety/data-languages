@@ -2,6 +2,7 @@
 iso: mgl
 name: "Maleu-Kilenge"
 autonym: "Maleu-Kilenge"
+alt_names: [Idne, Kilenge, Maleu]
 population: 1561
 country_id: PG
 country_name: Papua New Guinea

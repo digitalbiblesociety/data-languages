@@ -2,6 +2,7 @@
 iso: tms
 name: Tima
 autonym: Domurik
+alt_names: [Lomorik, Lomuriki, Tamanik, Yibwa]
 population: null
 country_id: SD
 country_name: Sudan

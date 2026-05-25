@@ -2,6 +2,7 @@
 iso: xgd
 name: Gudang
 autonym: Alauikeno
+alt_names: [Kuta]
 population: null
 country_id: AU
 country_name: Australia

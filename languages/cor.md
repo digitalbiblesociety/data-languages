@@ -1,7 +1,9 @@
 ---
 iso: cor
 name: Cornish
+name_zh: 康沃尔语
 autonym: Kernewek
+alt_names: [An Choirnis, Bahasa Cornish, Bahasa Kernowek, Bororo, Cernyweg, Cornic, Cornique, Cornisch, Cornish leid, Curnoack, Còrnais, Còrnic, Córnico, Córnicu, Idioma cornuallés, Idioma córnico, Język kornijski, Kernevekçe, Kerneveureg, Kernowek, Koornsche Spraak, Korni, Korni keel, Korni nyelv, Kornies, Kornijščina, Kornisch, Kornisk, Kornisk språk, Korniska, Kornišćina, Kornu valoda, Kornubiera, Kornvala lingvo, Kornysk, Korníska, Kornčina, Kornština, Kornų kalba, Limba cornică, Lingua Cornubica, Lingua cornica, Lingua córnica, Luenga córnica, Língua córnica, Łéngua còrnega, Παού σάους, Корнаг æвзаг, Корнская мова, Корнски јазик, Корнский язык, Корнська мова, Корнуолски език, קורנית, কর্নিশ ভাষা, ኮርንኛ, コーンウォール語, 康瓦爾語, 콘월어]
 population: 600
 country_id: GB
 country_name: United Kingdom

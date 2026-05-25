@@ -1,7 +1,9 @@
 ---
 iso: lhu
 name: Lahu
+name_zh: 拉祜語
 autonym: Ladhof
+alt_names: [Kaixien, Lahuna, Lahų kalba, Laku, Launa, Lohei, Mooso, Moso, Muhso, Muhsur, Museu, Mussar, Musser, Musso, Mussuh, Nakhi, Namen, Nyi, Yezhoù lahouek, Лаху, ภาษาลาฮู, 拉祜語, 라후어]
 population: 540850
 country_id: CN
 country_name: China

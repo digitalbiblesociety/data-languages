@@ -2,6 +2,7 @@
 iso: tnw
 name: Tonsawang
 autonym: Tombatu
+alt_names: ["Lo'bahikolai", Tanema, Toundanow]
 population: 20000
 country_id: ID
 country_name: Indonesia

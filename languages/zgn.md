@@ -2,6 +2,7 @@
 iso: zgn
 name: Guibian Zhuang
 autonym: Buyue
+alt_names: [Chuang, Guibian, Kueipien, Zhuang, Zhuang (Northern), "Zhuang, Guibian"]
 population: 1000000
 country_id: CN
 country_name: China

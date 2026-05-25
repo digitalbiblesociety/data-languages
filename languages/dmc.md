@@ -2,6 +2,7 @@
 iso: dmc
 name: Gavak
 autonym: Gavak
+alt_names: [Bosiken, Boskien, Dimir]
 population: 3820
 country_id: PG
 country_name: Papua New Guinea

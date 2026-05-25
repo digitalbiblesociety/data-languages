@@ -2,6 +2,7 @@
 iso: tec
 name: Terik
 autonym: Nyang’ori
+alt_names: ["Nyang'ori"]
 population: 120000
 country_id: KE
 country_name: Kenya

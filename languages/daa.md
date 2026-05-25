@@ -2,6 +2,7 @@
 iso: daa
 name: Dangaléat
 autonym: Dangla
+alt_names: [Danal, Dangal, Dangaleat, Dangaléat (Western), Western]
 population: 60000
 country_id: TD
 country_name: Chad

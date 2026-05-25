@@ -1,7 +1,9 @@
 ---
 iso: puq
 name: Puquina
+name_zh: 普奇那語
 autonym: Pukina juyai
+alt_names: [Idioma puquina, Pukina, Pukina simi, Puquinaeg, Пукина]
 population: null
 country_id: CA
 country_name: Canada

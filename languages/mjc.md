@@ -2,6 +2,7 @@
 iso: mjc
 name: San Juan Colorado Mixtec
 autonym: Jicaltepec Mixtec
+alt_names: [Misteko, Mixtec, Mixtec (San Juan Colorado), "Mixtec, San Juan Colorado", Mixteco (San Juan Colorado), Mixteco de San Juan Colorado, San Juan Colorado, Southern Misteko, Southern Mixteco]
 population: 5580
 country_id: MX
 country_name: Mexico

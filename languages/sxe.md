@@ -2,6 +2,7 @@
 iso: sxe
 name: Sighu
 autonym: Sighu
+alt_names: [Lesighu, Mississiou]
 population: 1000
 country_id: GA
 country_name: Gabon

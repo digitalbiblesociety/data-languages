@@ -1,7 +1,9 @@
 ---
 iso: iii
 name: Sichuan Yi
+name_zh: 彝語北部方言
 autonym: Northern Yi
+alt_names: [Idioma yi, Język nuosu, Liangshan Nosu, Liangshan Yi, Lolo, Nosu, Nuosu, Nuosu language, Siĉŭana jia lingvo, Yi, "Yi, Sichuan", Yi-språken, Yieg, yi de Sichuan, Носу, यी (लोलो) भाषा, ภาษาอี้, 彝語, 彝语]
 population: 2000000
 country_id: CN
 country_name: China

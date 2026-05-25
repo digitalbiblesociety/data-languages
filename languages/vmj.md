@@ -2,6 +2,7 @@
 iso: vmj
 name: Ixtayutla Mixtec
 autonym: (Santiago Ixtayutla)
+alt_names: ["Mixtec, Ixtayutla", Mixteco de Santiago Ixtayutla, Northeastern Jamiltepec Mixtec, Northern Misteko, Northern Mixteco]
 population: 2800
 country_id: MX
 country_name: Mexico

@@ -2,6 +2,7 @@
 iso: git
 name: Gitxsan
 autonym: Gitxsanimaax
+alt_names: [Giklsan, Gitksan, Gitksanimx, Gitsanimx̱, Gitsenimx̱, Gitskan, Gitxsen, Gityskyan, "Gyitska'n", Hazelton, Interior, Nass-Gitksan, Nass-gitskan]
 population: 1330
 country_id: CA
 country_name: Canada

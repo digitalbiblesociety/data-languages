@@ -2,6 +2,7 @@
 iso: sep
 name: Sìcìté Sénoufo
 autonym: Sìcìré
+alt_names: [Sicite Senoufo, Sisiteg, Sucite, Sucite language, "Sénoufo, Sìcìté", Sìcìté, Sìpììté, Tagba]
 population: 38000
 country_id: BF
 country_name: Burkina Faso

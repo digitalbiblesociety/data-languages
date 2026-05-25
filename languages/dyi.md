@@ -2,6 +2,7 @@
 iso: dyi
 name: Djimini Senoufo
 autonym: "Senoufo, Djimini"
+alt_names: [Djimini, Dyimini, Gimini, Guimini, Jinmini, Senoufou (Djimini)]
 population: 95500
 country_id: CI
 country_name: "Côte d'Ivoire"

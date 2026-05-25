@@ -2,6 +2,7 @@
 iso: ifa
 name: Amganad Ifugao
 autonym: Central Ifugao
+alt_names: [Amganad, "Ifugao, Amganad", Ifugu]
 population: 27100
 country_id: PH
 country_name: Philippines

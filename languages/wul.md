@@ -2,6 +2,7 @@
 iso: wul
 name: Silimo
 autonym: Wulik
+alt_names: [Paiyage, Pschem, South Ngalik, Southern Ngalik, Usak]
 population: 5000
 country_id: ID
 country_name: Indonesia

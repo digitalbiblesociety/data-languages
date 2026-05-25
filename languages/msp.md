@@ -2,6 +2,7 @@
 iso: msp
 name: Maritsauá
 autonym: Manitsawá
+alt_names: [Maintsawá, Manitsauá, Manitsawa, Manitzula, Mantizula, Maritsaua]
 population: null
 country_id: BR
 country_name: Brazil

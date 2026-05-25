@@ -2,6 +2,7 @@
 iso: syi
 name: Seki
 autonym: Sekiyani
+alt_names: [Beseki, Bulu, Seke, Sekiana, Sekiani, Sekyani, Seseki, Sheke, Shekiyana]
 population: 11000
 country_id: GA
 country_name: Gabon

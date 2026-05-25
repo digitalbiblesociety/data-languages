@@ -2,6 +2,7 @@
 iso: cfm
 name: Falam Chin
 autonym: Lai
+alt_names: [Chin, "Chin, Falam", "Chin,Falam", Falam, Fallam, Halam, Hallam, Hallam Chin, Tipura, Zahao, ဖလမ်းချင်း]
 population: 107900
 country_id: MM
 country_name: Myanmar

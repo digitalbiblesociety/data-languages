@@ -2,6 +2,7 @@
 iso: eyo
 name: Keiyo
 autonym: Elgeyo
+alt_names: [Keyo]
 population: 251000
 country_id: KE
 country_name: Kenya

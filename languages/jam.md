@@ -1,7 +1,9 @@
 ---
 iso: jam
 name: Jamaican Creole English
+name_zh: 牙买加克里奥尔语
 autonym: " Jumiekan"
+alt_names: [Bongo Talk, Creole (Jamaican), "Creole English, Jamaican", Creolo giamaicano, Créole jamaïcain, Jamaicaans Patois, Jamaicai angol nyelv, Jamaican, Jamaican Creole, Jamaican Patois, Jamaikanisch-Kreolische Sprache, Jamajský patois, Język jamajski, Patois, Patois jamaiquino, Patwa, Quashie Talk, Siamaiceg, Southwestern Caribbean Creole English, Western Caribbian Creole, Ямайский креольский язык, ジャマイカ・クレオール語, 파트와어]
 population: 2948000
 country_id: JM
 country_name: Jamaica

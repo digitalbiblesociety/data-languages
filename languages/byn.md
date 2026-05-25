@@ -1,7 +1,9 @@
 ---
 iso: byn
 name: Bilin
+name_zh: 比林語
 autonym: ብሊና
+alt_names: [Agaw, Balen, Belen, Beleni, Bilayn, Bilein, Bilen, Bilen hizkuntza, Bileno, Blin, Blin language, Bogo, Bogos, North Agaw, Билин, 比林語]
 population: 116000
 country_id: ER
 country_name: Eritrea

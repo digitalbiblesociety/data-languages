@@ -2,6 +2,7 @@
 iso: anc
 name: Ngas
 autonym: Angas
+alt_names: [Karang, Kerang, Lenga Ngas, Ngas jezik, Ngaseg]
 population: 659000
 country_id: NG
 country_name: Nigeria

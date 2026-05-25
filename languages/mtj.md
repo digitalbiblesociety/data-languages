@@ -2,6 +2,7 @@
 iso: mtj
 name: Moskona
 autonym: Moskona
+alt_names: [Meninggo, Meningo, Meyah, Sabena]
 population: 8000
 country_id: ID
 country_name: Indonesia

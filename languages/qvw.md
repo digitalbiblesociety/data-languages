@@ -2,6 +2,7 @@
 iso: qvw
 name: Huaylla Wanca Quechua
 autonym: Wanka Nunashimi
+alt_names: [Huanca Huaylla Quechua, Huaylla, Jauja-Huanca, Jauja-Huanca Quechua, Nyuqa, "Quechua, Huaylla Wanca", Southern Huancayo Quechua, Yaqa]
 population: 250000
 country_id: PE
 country_name: Peru

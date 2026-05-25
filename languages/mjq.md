@@ -2,6 +2,7 @@
 iso: mjq
 name: Malaryan
 autonym: മലർയൻ
+alt_names: [Arayans, Karingal, Malai Arayan, Malayarayan, Malayarayar, Male Arayans, Maley Arayan, Vazhiyammar]
 population: null
 country_id: IN
 country_name: India

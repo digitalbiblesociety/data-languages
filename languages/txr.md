@@ -1,7 +1,9 @@
 ---
 iso: txr
 name: Tartessian
+name_zh: 塔特西语
 autonym: null
+alt_names: [South Lusitanian, Southwestern Paleo-Hispanic]
 population: null
 country_id: ES
 country_name: Spain

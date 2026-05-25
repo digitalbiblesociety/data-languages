@@ -2,6 +2,7 @@
 iso: pay
 name: Pech
 autonym: Paya
+alt_names: [Bayano, Culmí dialect, Paya (Culmí), Pechí, Seco, Taia, Towka]
 population: 2586
 country_id: HN
 country_name: Honduras

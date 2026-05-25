@@ -2,6 +2,7 @@
 iso: mmy
 name: Migaama
 autonym: Dionkor
+alt_names: [Djonkor, Djonkor Abou Telfane, Dyongor, Jongor, Jonkor, Jonkor of Abu Telfan, Migama]
 population: 2000
 country_id: TD
 country_name: Chad

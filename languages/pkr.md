@@ -1,7 +1,9 @@
 ---
 iso: pkr
 name: Attapady Kurumba
+name_zh: 阿塔帕地可伦巴语
 autonym: Kurumba
+alt_names: ["Kurumba, Attapady", Pal Kurumba]
 population: 1370
 country_id: IN
 country_name: India

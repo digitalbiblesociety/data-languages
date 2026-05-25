@@ -1,7 +1,9 @@
 ---
 iso: bqi
 name: Bakhtiari
+name_zh: 巴赫蒂亚语
 autonym: بختیاری
+alt_names: [Bakhtiari dialect, Lori, Lori-ye Khaveri, Luri, گویش بختیاری]
 population: 1240000
 country_id: IR
 country_name: Iran

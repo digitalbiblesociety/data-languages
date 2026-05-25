@@ -1,7 +1,9 @@
 ---
 iso: chp
 name: Chipewyan
+name_zh: 奇帕维安语
 autonym: Denesuline
+alt_names: [Dene, "Dene Soun'line", Dene Suline, Dene Suline language, Dene Suline simi, Dené, Dëne Súline, Dënesųłiné, Idioma chipewyan, Lingua chipewyan, Montagnais, Sluacus-tinneh, Ĉipevajana lingvo, Чипевиан]
 population: 10700
 country_id: CA
 country_name: Canada

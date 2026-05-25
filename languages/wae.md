@@ -1,7 +1,9 @@
 ---
 iso: wae
 name: Walser
+name_zh: 瓦莱德语
 autonym: " Wallissertitsch"
+alt_names: [Upper Alemannic, Walscher, Walser German, Walserski jezik, Вальзерское наречие]
 population: 10000
 country_id: CH
 country_name: Switzerland

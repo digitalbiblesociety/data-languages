@@ -2,6 +2,7 @@
 iso: plr
 name: Palaka Senoufo
 autonym: Kpalaka
+alt_names: [Kpalagha, KpalaƔa, Palaka, Palara, Pallakha, Pilara, "Senoufo, Palaka"]
 population: 8000
 country_id: CI
 country_name: "Côte d'Ivoire"

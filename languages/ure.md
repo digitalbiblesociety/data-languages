@@ -1,7 +1,9 @@
 ---
 iso: ure
 name: Uru
+name_zh: 烏魯語
 autonym: Iru Itu
+alt_names: [Chholo, Iru-Itu, "Iru-Wit'u", Iru-Wit’u, Morato, Muratu, Muratu (Uru-Murato), Uchumataqu, Uro, Uru of Iru-Itu, Uru-Chipaya language area]
 population: 142
 country_id: BO
 country_name: Bolivia

@@ -2,6 +2,7 @@
 iso: kxp
 name: Wadiyara Koli
 autonym: Wadaria
+alt_names: ["Koli, Wadiyara", Wadhiara]
 population: 583000
 country_id: IN
 country_name: India

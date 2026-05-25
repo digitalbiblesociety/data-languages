@@ -2,6 +2,7 @@
 iso: lob
 name: Lobi
 autonym: Lobiri
+alt_names: [Miwa]
 population: 490000
 country_id: BF
 country_name: Burkina Faso

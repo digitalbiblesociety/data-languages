@@ -2,6 +2,7 @@
 iso: nem
 name: Nemi
 autonym: null
+alt_names: [Neukaledonien]
 population: 320
 country_id: NC
 country_name: New Caledonia

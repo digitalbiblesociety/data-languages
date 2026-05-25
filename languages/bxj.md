@@ -2,6 +2,7 @@
 iso: bxj
 name: Bayungu
 autonym: Bayungu
+alt_names: [Baijungo, Baijungu, Baiong, Baiung, Baiyungu, Bajungu, Binnigoora, Biong, Giong, Mulgarnoo, Paiunggu, Pajungu, Payu, Payungu, Pinneegoora]
 population: null
 country_id: AU
 country_name: Australia

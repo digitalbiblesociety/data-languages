@@ -2,6 +2,7 @@
 iso: lmy
 name: Lamboya
 autonym: bahasa Lamboya
+alt_names: [Indonesia, Laboya]
 population: 25000
 country_id: ID
 country_name: Indonesia

@@ -2,6 +2,7 @@
 iso: bov
 name: Tuwuli
 autonym: Tuwuli
+alt_names: [Bawuli, Bowili, Bowiri, Liwuli, Siwuri, Tuwili]
 population: 11400
 country_id: GH
 country_name: Ghana

@@ -2,6 +2,7 @@
 iso: sox
 name: Swo
 autonym: So
+alt_names: [Fo, Shwo, So (Cameroon), Sso]
 population: 9000
 country_id: CM
 country_name: Cameroon

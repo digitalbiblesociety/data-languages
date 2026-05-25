@@ -1,7 +1,9 @@
 ---
 iso: caa
 name: Chortí
+name_zh: 渚庐递语
 autonym: Chʼortiʼ
+alt_names: [Apay, "Ch'orti", "Ch'orti'", "Ch'orti' language", "Ch'ortí", Chorti, Chortí (Honduras), "Ch’orti' (Guatemala)", "Ch’orti' (Honduras)", Idioma chortí, Língua chorti, Чортиски јазик, 奇奧蒂語]
 population: 16700
 country_id: GT
 country_name: Guatemala

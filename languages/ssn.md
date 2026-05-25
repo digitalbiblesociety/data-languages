@@ -2,6 +2,7 @@
 iso: ssn
 name: Waata
 autonym: Sanye
+alt_names: [Ariangulu, Langulo, Oromo, Oromo (Waata), Sanya, Waat, Waata Oromo, Wasanye]
 population: 17400
 country_id: KE
 country_name: Kenya

@@ -2,6 +2,7 @@
 iso: gjk
 name: Kachi Koli
 autonym: Kachi
+alt_names: [Bajania, Kachi Gujarati, Katchi, Kohli, Kolhi, Koli, "Koli, Kachi", Kori, Kuchi, Kuchikoli, Vagari, Vagaria, Vaghri]
 population: 530000
 country_id: PK
 country_name: Pakistan

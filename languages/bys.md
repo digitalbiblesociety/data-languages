@@ -2,6 +2,7 @@
 iso: bys
 name: Burak
 autonym: Ɓúúrák
+alt_names: [Buurak]
 population: 4000
 country_id: NG
 country_name: Nigeria

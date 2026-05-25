@@ -2,6 +2,7 @@
 iso: mtk
 name: "Mbe'"
 autonym: Mbe’
+alt_names: [Mbaw, Mbe, Mbo]
 population: 1490
 country_id: CM
 country_name: Cameroon

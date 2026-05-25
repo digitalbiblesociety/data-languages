@@ -2,6 +2,7 @@
 iso: pey
 name: Petjo
 autonym: "Peco' Creole"
+alt_names: [Bahasa Pecok, Criollo petjo, Créole pecok, Pecok, Petjoh]
 population: null
 country_id: ID
 country_name: Indonesia

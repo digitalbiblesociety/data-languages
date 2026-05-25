@@ -1,7 +1,9 @@
 ---
 iso: sed
 name: Sedang
+name_zh: 色當語
 autonym: Cadong
+alt_names: [Hadang, Hdang, Hotea, Hoteang, Həjung, Kmrang, Kəmrang, Rotea, Roteang, Sedang-Sprachen, Sedangeg, Sədang, Tang, Xa Dang, Xodang, ภาษาเซดัง]
 population: 97900
 country_id: VN
 country_name: Vietnam

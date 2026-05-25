@@ -2,6 +2,7 @@
 iso: pqa
 name: "Pa'a"
 autonym: Afa
+alt_names: [Afanci, Afawa, "Fa'awa", Foni, Fucaka, Fuuceka, "Pa'anci", "Pa'awa", Paa, Paanci, Pala]
 population: 8000
 country_id: NG
 country_name: Nigeria

@@ -1,7 +1,9 @@
 ---
 iso: tir
 name: Tigrinya
+name_zh: 提格雷尼亚语
 autonym: ትግርኛ tigriññā
+alt_names: [Bahasa Tigrinya, Idioma tigrinya, Język tigrinia, Kitigrinya, Lengua tigrinn-a, Limba tigrinya, Lingua tigrina, Língua tigrínia, Tigraja lingvo, Tigrajščina, Tigray, Tigrigneg, Tigrinja, Tigrinja jezik, Tigrinska, Tigrinya dili, Tigrinya nyelv, Tigrinyera, Tigriña, Tigriňa, Tiri, Tîrî, Zimanê tigrînya, tigrigna, Тигринья, Тигриня, Тигриња, Тїгрі́ньскъ ѩꙁꙑ́къ, תיגרינית, تىگرىنىيەچە, زبان تیگرینیا, لغة تيغرينية, तिग्रिन्या भाषा, তিগ্রিনিয়া ভাষা, ภาษาทีกรินยา, ትግርኛ, ትግርኛ ፊደል, ティグリニャ語, 提格利尼亞語, 티그리냐어]
 population: 9878000
 country_id: ET
 country_name: Ethiopia

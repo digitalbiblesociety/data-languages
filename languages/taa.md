@@ -1,7 +1,9 @@
 ---
 iso: taa
 name: Lower Tanana
+name_zh: 下塔納納語
 autonym: Menhti Kenaga
+alt_names: [(Lower) Tanana, Minto, Nabesna, Tanana, Tanana (Lower), "Tanana, Lower"]
 population: 380
 country_id: US
 country_name: United States

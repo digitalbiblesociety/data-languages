@@ -2,6 +2,7 @@
 iso: era
 name: Eravallan
 autonym: எரவல்லன்
+alt_names: [Ambuvilluvedar, Villu Vedan, Vilvedan]
 population: 1554
 country_id: IN
 country_name: India

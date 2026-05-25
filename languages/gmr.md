@@ -2,6 +2,7 @@
 iso: gmr
 name: "Mirning\r"
 autonym: Ngandatha
+alt_names: [Mirning, Mirniny]
 population: 4
 country_id: AU
 country_name: Australia

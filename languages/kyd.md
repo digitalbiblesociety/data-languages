@@ -2,6 +2,7 @@
 iso: kyd
 name: Karey
 autonym: Kerei
+alt_names: [Aru, Krei]
 population: 950
 country_id: ID
 country_name: Indonesia

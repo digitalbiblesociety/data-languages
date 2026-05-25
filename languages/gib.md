@@ -2,6 +2,7 @@
 iso: gib
 name: Gibanawa
 autonym: " هَرْشَن هَوْسَ"
+alt_names: [Gembanawa, Gimbanawa, Jega]
 population: null
 country_id: NG
 country_name: Nigeria

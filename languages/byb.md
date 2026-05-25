@@ -2,6 +2,7 @@
 iso: byb
 name: Bikya
 autonym: Furu
+alt_names: [Bikyeg]
 population: null
 country_id: CM
 country_name: Cameroon

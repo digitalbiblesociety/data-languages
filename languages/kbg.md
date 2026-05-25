@@ -1,7 +1,9 @@
 ---
 iso: kbg
 name: Khamba
+name_zh: 卡姆巴语
 autonym: "Kham-Hor"
+alt_names: [Khamba Khaadi]
 population: 1330
 country_id: IN
 country_name: India

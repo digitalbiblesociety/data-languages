@@ -2,6 +2,7 @@
 iso: urz
 name: "Uru-Eu-Wau-Wau"
 autonym: Kawahib
+alt_names: [Eru-Eu-Wau-Wau, Kagwahiva, Uru-Eu-Uau-Uau, Uruewauwau, Uruewawau, Uruewawáu, Wau Wau]
 population: null
 country_id: BR
 country_name: Brazil

@@ -1,7 +1,9 @@
 ---
 iso: brm
 name: Barambu
+name_zh: 巴兰布语
 autonym: Abarambo
+alt_names: [Amiangba, Amiangbwa, Balambu, Baramba, Barambo, Duga]
 population: 25600
 country_id: CD
 country_name: DR Congo

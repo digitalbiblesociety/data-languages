@@ -1,7 +1,9 @@
 ---
 iso: pcm
 name: Nigerian Pidgin
+name_zh: 尼日利亚皮钦语
 autonym: pidgin
+alt_names: ["Pidgin, Nigerian"]
 population: 47500000
 country_id: NG
 country_name: Nigeria

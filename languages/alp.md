@@ -2,6 +2,7 @@
 iso: alp
 name: Alune
 autonym: bahasa Alune
+alt_names: [Patasiwa Alfoeren, Sapalewa]
 population: 17200
 country_id: ID
 country_name: Indonesia

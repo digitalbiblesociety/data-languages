@@ -2,6 +2,7 @@
 iso: aks
 name: Akaselem
 autonym: Basari
+alt_names: [Akasele, Akassele, Cemba, Chamba, Djamba, Kamba, Kasele, Kiamba, Sama, Tchamba, Tsamba, Tschamba]
 population: 59200
 country_id: TG
 country_name: Togo

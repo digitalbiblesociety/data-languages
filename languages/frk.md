@@ -1,6 +1,7 @@
 ---
 iso: frk
 name: Frankish
+name_zh: 古法兰克语
 autonym: Old Franconian
 population: null
 country_id: DE

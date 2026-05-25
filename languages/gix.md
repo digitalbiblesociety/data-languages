@@ -2,6 +2,7 @@
 iso: gix
 name: Gilima
 autonym: "Ngbaka Ma'bo"
+alt_names: [Democratic Republic of the Congo]
 population: 12000
 country_id: CD
 country_name: DR Congo

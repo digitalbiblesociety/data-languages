@@ -2,6 +2,7 @@
 iso: iwo
 name: Iwur
 autonym: Morop
+alt_names: [Dintere, Iwoer, Iworo]
 population: 6900
 country_id: ID
 country_name: Indonesia

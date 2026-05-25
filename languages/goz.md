@@ -2,6 +2,7 @@
 iso: goz
 name: Gozarkhani
 autonym: Alamuti
+alt_names: [Iran]
 population: null
 country_id: IR
 country_name: Iran

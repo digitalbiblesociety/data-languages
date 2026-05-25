@@ -2,6 +2,7 @@
 iso: kgw
 name: Karon Dori
 autonym: Maiyach
+alt_names: [Mari, Meon]
 population: 5000
 country_id: ID
 country_name: Indonesia

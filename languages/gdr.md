@@ -2,6 +2,7 @@
 iso: gdr
 name: Wipi
 autonym: Gidra
+alt_names: [Jibu, Oriomo]
 population: 3500
 country_id: PG
 country_name: Papua New Guinea

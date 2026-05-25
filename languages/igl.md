@@ -1,6 +1,7 @@
 ---
 iso: igl
 name: Igala
+name_zh: 伊加拉语
 autonym: Igara
 population: 1540000
 country_id: NG

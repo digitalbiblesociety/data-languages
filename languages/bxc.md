@@ -2,6 +2,7 @@
 iso: bxc
 name: Molengue
 autonym: Molengue
+alt_names: [Balengue, Molendji]
 population: 1000
 country_id: GQ
 country_name: Equatorial Guinea

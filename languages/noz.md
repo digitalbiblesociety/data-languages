@@ -2,6 +2,7 @@
 iso: noz
 name: Nayi
 autonym: Nao
+alt_names: [Lenga Nayi, "Na'o", Naya, Nayi jezik, Nayí]
 population: 1137
 country_id: ET
 country_name: Ethiopia

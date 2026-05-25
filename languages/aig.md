@@ -1,7 +1,9 @@
 ---
 iso: aig
 name: Antigua and Barbuda Creole English
+name_zh: 背风加勒比克里奥尔语
 autonym: Antiguan Creole
+alt_names: ["Creole English, Antigua and Barbuda"]
 population: 159520
 country_id: AG
 country_name: Antigua and Barbuda

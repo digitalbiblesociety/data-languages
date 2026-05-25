@@ -2,6 +2,7 @@
 iso: zmz
 name: Mbandja
 autonym: Mbandza
+alt_names: [Banja, Mbanja, Mbanza]
 population: 367400
 country_id: CD
 country_name: DR Congo

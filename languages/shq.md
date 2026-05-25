@@ -2,6 +2,7 @@
 iso: shq
 name: Sala
 autonym: Lundwe
+alt_names: [Zambia]
 population: 20400
 country_id: ZM
 country_name: Zambia

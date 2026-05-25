@@ -1,7 +1,9 @@
 ---
 iso: szw
 name: Sawai
+name_zh: 沙瓦伊語
 autonym: Weda
+alt_names: [Weda-Sawai, Were]
 population: 12000
 country_id: ID
 country_name: Indonesia

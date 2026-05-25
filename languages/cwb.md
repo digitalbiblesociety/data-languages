@@ -2,6 +2,7 @@
 iso: cwb
 name: Maindo
 autonym: Cuabo
+alt_names: [Chwambo]
 population: 21000
 country_id: MZ
 country_name: Mozambique

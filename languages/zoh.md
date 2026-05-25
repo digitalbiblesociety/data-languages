@@ -2,6 +2,7 @@
 iso: zoh
 name: Chimalapa Zoque
 autonym: aŋpʉn tzaame
+alt_names: [Oaxaca Soke, Oaxaca Zoque, Soke, Sokean, Zoque, Zoque (Chimalapa), Zoque (San Miguel Chimalapa), "Zoque, Chimalapa"]
 population: 4500
 country_id: MX
 country_name: Mexico

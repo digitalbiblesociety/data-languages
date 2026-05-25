@@ -2,6 +2,7 @@
 iso: oin
 name: Inebu One
 autonym: Aunalei
+alt_names: [Inebu, Kabore One, Kuamtim, Kwamtim One, Molmo One, Northern One, One, "One, Inebu", Onele, Oni, Southern One]
 population: 1300
 country_id: PG
 country_name: Papua New Guinea

@@ -2,6 +2,7 @@
 iso: lrv
 name: Larevat
 autonym: Laravat
+alt_names: [Larëvat, Mallicolo]
 population: 680
 country_id: VU
 country_name: Vanuatu

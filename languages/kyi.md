@@ -2,6 +2,7 @@
 iso: kyi
 name: Kiput
 autonym: null
+alt_names: [Malaysia]
 population: 2460
 country_id: MY
 country_name: Malaysia

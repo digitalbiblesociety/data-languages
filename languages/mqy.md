@@ -2,6 +2,7 @@
 iso: mqy
 name: Manggarai
 autonym: bahasa Manggarai
+alt_names: [Indonesia]
 population: 900000
 country_id: ID
 country_name: Indonesia

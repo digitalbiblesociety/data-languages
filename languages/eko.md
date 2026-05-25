@@ -2,6 +2,7 @@
 iso: eko
 name: Koti
 autonym: Ekoti
+alt_names: [Angoche, Angoxe, Bahasa Ekoti, Coti]
 population: 140000
 country_id: MZ
 country_name: Mozambique

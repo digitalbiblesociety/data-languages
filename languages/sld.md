@@ -2,6 +2,7 @@
 iso: sld
 name: Sissala
 autonym: Sissala
+alt_names: [Sisaali, Sisala]
 population: 13000
 country_id: BF
 country_name: Burkina Faso

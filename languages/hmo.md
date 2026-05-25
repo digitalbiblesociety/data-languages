@@ -1,7 +1,9 @@
 ---
 iso: hmo
 name: Hiri Motu
+name_zh: 希里摩圖語
 autonym: Police Motu
+alt_names: [Bahasa Hiri Motu, Hiri, Hiri motu kalba, Hiri motu nyelv, Hirimotoueg, Hirimotua lingvo, "Motu, Hiri", Pidgin Motu, Хири моту, Хири-моту, ヒリモツ語, 希里摩圖語, 히리 모투]
 population: 120000
 country_id: PG
 country_name: Papua New Guinea

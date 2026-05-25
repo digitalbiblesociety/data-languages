@@ -2,6 +2,7 @@
 iso: kbh
 name: Camsá
 autonym: Coche
+alt_names: [Cams, Camsa, Camëntsëá, Kame.ntzá, Kamemtxa, Kamsa, Kamse, Kamsá, Kamtsá, Mocoa, Sibundoy, Sibundoy-Gaché]
 population: 4770
 country_id: CO
 country_name: Colombia

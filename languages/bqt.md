@@ -2,6 +2,7 @@
 iso: bqt
 name: Bamukumbit
 autonym: Bamenkombit
+alt_names: [Bamenkoumbit, Bamoukoumbit, Bamunkum, Mangkong]
 population: 12000
 country_id: CM
 country_name: Cameroon

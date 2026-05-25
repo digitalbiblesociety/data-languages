@@ -1,7 +1,9 @@
 ---
 iso: dny
 name: Dení
+name_zh: 丹尼語
 autonym: Dani
+alt_names: [Den, Deni]
 population: 750
 country_id: BR
 country_name: Brazil

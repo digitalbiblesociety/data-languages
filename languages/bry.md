@@ -2,6 +2,7 @@
 iso: bry
 name: Burui
 autonym: null
+alt_names: [Sawos]
 population: 260
 country_id: PG
 country_name: Papua New Guinea

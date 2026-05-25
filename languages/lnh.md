@@ -1,7 +1,9 @@
 ---
 iso: lnh
 name: Lanoh
+name_zh: 拉诺语
 autonym: Jengjeng
+alt_names: [Lanoh Jengjeng]
 population: 220
 country_id: MY
 country_name: Malaysia

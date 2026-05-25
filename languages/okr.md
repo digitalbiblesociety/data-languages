@@ -2,6 +2,7 @@
 iso: okr
 name: Kirike
 autonym: Ibani–Kalabari–Kirike
+alt_names: [Okrika, Ịjọ]
 population: 440000
 country_id: NG
 country_name: Nigeria

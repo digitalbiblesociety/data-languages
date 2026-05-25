@@ -2,6 +2,7 @@
 iso: nvm
 name: Namiae
 autonym: Namiai (Barai)
+alt_names: [Barai]
 population: 1200
 country_id: PG
 country_name: Papua New Guinea

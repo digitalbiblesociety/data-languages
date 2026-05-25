@@ -1,7 +1,9 @@
 ---
 iso: cnp
 name: "Northern Ping Chinese\r"
+name_zh: 桂北平话
 autonym: null
+alt_names: ["Chinese, Northern Ping", Northern Ping Chinese, Northern Pinghua, "Pinghua, Northern"]
 population: 1760000
 country_id: CN
 country_name: China

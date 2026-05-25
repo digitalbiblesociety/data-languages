@@ -1,6 +1,7 @@
 ---
 iso: bsq
 name: Bassa
+name_zh: 巴萨语
 autonym: Ɓǎsɔ́
 population: 740300
 country_id: LR

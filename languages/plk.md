@@ -1,7 +1,9 @@
 ---
 iso: plk
 name: Kohistani Shina
+name_zh: "Category:科希斯坦希納語"
 autonym: Kohistani
+alt_names: [Dardu, Kohistyo, Palasi-Kohistani, "Shina, Kohistani"]
 population: 458000
 country_id: PK
 country_name: Pakistan

@@ -2,6 +2,7 @@
 iso: ziw
 name: Zigula
 autonym: Mushunguli
+alt_names: [Zigulaic]
 population: 442000
 country_id: TZ
 country_name: Tanzania

@@ -1,7 +1,9 @@
 ---
 iso: spx
 name: South Picene
+name_zh: 南皮赛恩语
 autonym: Old Sabellic
+alt_names: ["Picene, South"]
 population: null
 country_id: IT
 country_name: Italy

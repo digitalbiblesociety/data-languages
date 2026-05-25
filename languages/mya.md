@@ -1,7 +1,9 @@
 ---
 iso: mya
 name: Burmese
+name_zh: 缅甸语
 autonym: Myanmar
+alt_names: [(Colloquial) Burmese, Bahasa Burma, Bahasa Myanmar, Bama, Bamachaka, Barmština, Birma keel, Birma lingvo, Birmaans, Birman, Birmanische Sprache, Birmanisk, Birmanu simi, Birmà, Burmaca, Burmai nyelv, Burman kieli, Burmeg, Burmese (Colloquial), Burmesisk, Burmesisk språk, Burmesiska, Búrmíska, Bāmā(-čaka), Idioma birmano, Język birmański, Lingua Birmanica, Lingua birmana, Língua birmanesa, Mjanmų kalba, Myen, Tiếng Myanma, Бирмански език, Бирманский язык, Бірманська мова, بورمى, بىرما تىلى, زبان برمه‌ای, बर्मी भाषा, बर्मेली भाषा, বর্মী ঠার, বর্মী ভাষা, ภาษาพม่า, འབར་མའི་སྐད།, မြန်မာဘာသာစကား, ბირმული ენა, ビルマ語, 缅甸语, 버마어]
 population: 32900000
 country_id: MM
 country_name: Myanmar

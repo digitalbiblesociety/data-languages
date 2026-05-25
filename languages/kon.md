@@ -1,6 +1,7 @@
 ---
 iso: kon
 name: Kongo
+name_zh: 刚果语
 autonym: kikongo
 population: 6932500
 country_id: CD

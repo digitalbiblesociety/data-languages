@@ -2,6 +2,7 @@
 iso: guf
 name: Gupapuyngu
 autonym: "Dhay'yi"
+alt_names: [Ba-babingo, Dajoror, Gababingo, Gababoinu, Goba-buinggu, Gobabingo, Gobabwingo, Gobabwingu, Gobagwingo, Guba, Gubabuingu, Gubabuyngu, Gubabwingu, Gububuinung, Gupapuyna, Gupapuynu, Gupapuyŋu, Kopapaingo, Kopapingo, Kopapingu, Kopapoingo, Koparpingu, Kupapuyngu, Kuppapoingo]
 population: 300
 country_id: AU
 country_name: Australia

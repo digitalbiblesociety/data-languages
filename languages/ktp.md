@@ -1,7 +1,9 @@
 ---
 iso: ktp
 name: Kaduo
+name_zh: 卡多语
 autonym: Khatu
+alt_names: [Gazhuo, Kado, Kadu, Khàtù, Khàtù, 卡多話]
 population: 180000
 country_id: CN
 country_name: China

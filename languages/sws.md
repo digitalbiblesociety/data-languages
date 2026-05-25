@@ -2,6 +2,7 @@
 iso: sws
 name: Seluwasan
 autonym: Selvasa
+alt_names: [Selwasa]
 population: 2100
 country_id: ID
 country_name: Indonesia

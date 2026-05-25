@@ -2,6 +2,7 @@
 iso: drn
 name: West Damar
 autonym: North Damar
+alt_names: ["Damar, West"]
 population: 800
 country_id: ID
 country_name: Indonesia

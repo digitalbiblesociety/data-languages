@@ -2,6 +2,7 @@
 iso: app
 name: Apma
 autonym: Central Raga
+alt_names: [Abma]
 population: 7800
 country_id: VU
 country_name: Vanuatu

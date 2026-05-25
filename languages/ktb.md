@@ -2,6 +2,7 @@
 iso: ktb
 name: Kambaata
 autonym: Donga
+alt_names: [Kambaata hizkuntza, Kambara, Kambata, Kambatta, Kemata, Kembata]
 population: 743000
 country_id: ET
 country_name: Ethiopia

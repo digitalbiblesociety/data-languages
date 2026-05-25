@@ -1,6 +1,7 @@
 ---
 iso: ocm
 name: Old Cham
+alt_names: ["Cham, Old"]
 country_id: VN
 country_name: Vietnam
 latitude: 15.82167

@@ -2,6 +2,7 @@
 iso: vif
 name: Vili
 autonym: Civili
+alt_names: [Fiot, Fiote, Tsivili]
 population: 11000
 country_id: CG
 country_name: Congo

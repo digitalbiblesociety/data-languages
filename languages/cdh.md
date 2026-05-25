@@ -2,6 +2,7 @@
 iso: cdh
 name: Chambeali
 autonym: 𑚏𑚢𑚶𑚠𑚣𑚭𑚥𑚯
+alt_names: [Cameali, Chamaya, Chambiali, Chambiyali, Chameali, Chamiyali Pahari, Chamya]
 population: 126000
 country_id: IN
 country_name: India

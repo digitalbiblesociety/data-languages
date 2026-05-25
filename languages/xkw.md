@@ -2,6 +2,7 @@
 iso: xkw
 name: Kembra
 autonym: bahasa Kembra
+alt_names: [Kembraeg]
 population: 20
 country_id: ID
 country_name: Indonesia

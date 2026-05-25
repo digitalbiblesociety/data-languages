@@ -2,6 +2,7 @@
 iso: smm
 name: Musasa
 autonym: Musahar
+alt_names: [Rishaidep]
 population: 172434
 country_id: NP
 country_name: Nepal

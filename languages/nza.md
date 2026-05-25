@@ -2,6 +2,7 @@
 iso: nza
 name: Tigon Mbembe
 autonym: Tigon
+alt_names: [Akonto, Akwanto, Mbembe, "Mbembe, Tigon", Noale, Tigim, Tigong, Tigum, Tigun, Tikun, Tukun]
 population: 60000
 country_id: CM
 country_name: Cameroon

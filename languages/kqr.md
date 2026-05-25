@@ -2,6 +2,7 @@
 iso: kqr
 name: Kimaragang
 autonym: Kimaragan
+alt_names: [Kimaragangan, Maragang, Marigang]
 population: 25000
 country_id: MY
 country_name: Malaysia

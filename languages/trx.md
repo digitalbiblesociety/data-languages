@@ -2,6 +2,7 @@
 iso: trx
 name: "Tringgus-Sembaan Bidayuh"
 autonym: Tringus
+alt_names: ["Bidayuh, Tringgus-Sembaan", Tringgus]
 population: 850
 country_id: MY
 country_name: Malaysia

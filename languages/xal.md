@@ -1,7 +1,9 @@
 ---
 iso: xal
 name: Kalmyk
+name_zh: 卡尔梅克卫拉特语
 autonym: Хальмг келн
+alt_names: [Calmuc, Calmucki, European Oirat, Idioma calmuco, Issyk-Kul Kalmyk, Język kałmucki, Kalmack, Kalmouk, Kalmoukeg-oirateg, Kalmuck, Kalmuckiska, Kalmuk, Kalmukin kieli, Kalmuks, Kalmukų kalba, Kalmyk (Issyk-Kul), "Kalmyk, Oirat", Kalmyk-Oirat, Kalmykisk, Kalmückisch, Kalmückische Sprache, Kalmıkça, "Khal:mag", Limba kalmîcă, Lingua calmucca, Língua calmuca, Oirad-Kalmyk, Oirat, Oiratisch, Oirato, Qalmaq, Volga Oirat, Weilate, West Mongolian, Western Mongol, Western Mongolian, Western Mongul, "Xal'maq", Xal‘mg keln, Xinjiang Mongolian, kalmytskii jazyk, oïrat, Калмăк чĕлхи, Калмицька мова, Калмички јазик, Хальмаг хэлэн, калмыцкий язык, Өөрдн келн, قالماق تىلى, ภาษาคัลมึค, 칼미크어]
 population: 431800
 country_id: RU
 country_name: Russia

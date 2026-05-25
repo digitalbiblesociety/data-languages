@@ -2,6 +2,7 @@
 iso: pgu
 name: Pagu
 autonym: Pago
+alt_names: [Pagoe]
 population: 3310
 country_id: ID
 country_name: Indonesia

@@ -2,6 +2,7 @@
 iso: wgy
 name: Warrgamay
 autonym: Biyay
+alt_names: [Bandjin, Bijai, Bungabara, Herbert River tribe, Ikelbara, Waragamai, Warakamai, Wargamay, Wargamaygan, Warkamai]
 population: null
 country_id: AU
 country_name: Australia

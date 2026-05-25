@@ -2,6 +2,7 @@
 iso: kqm
 name: Khisa
 autonym: Khi Khipa
+alt_names: [Khi, Khi-sa, Khi-sɛ, Khise, Komono, Kumwenu]
 population: 5000
 country_id: CI
 country_name: "Côte d'Ivoire"

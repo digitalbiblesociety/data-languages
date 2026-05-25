@@ -2,6 +2,7 @@
 iso: btj
 name: Bacanese Malay
 autonym: "Bahasa-Bahasa Melayu Dagang dan Kreol"
+alt_names: [Bacan, Batjan, "Malay, Bacanese"]
 population: 1000
 country_id: ID
 country_name: Indonesia

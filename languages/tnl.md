@@ -2,6 +2,7 @@
 iso: tnl
 name: Lenakel
 autonym: West Tanna
+alt_names: [Tanna, Vanuatu]
 population: 11500
 country_id: VU
 country_name: Vanuatu

@@ -2,6 +2,7 @@
 iso: ktq
 name: Katabaga
 autonym: Katabangan
+alt_names: [Catabaga]
 population: null
 country_id: PH
 country_name: Philippines

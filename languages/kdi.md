@@ -2,6 +2,7 @@
 iso: kdi
 name: Kumam
 autonym: Ikokolemu
+alt_names: [Akokolemu, Akum, Ikumama, Kuman, Kumum]
 population: 266000
 country_id: UG
 country_name: Uganda

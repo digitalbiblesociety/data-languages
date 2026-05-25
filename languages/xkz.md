@@ -2,6 +2,7 @@
 iso: xkz
 name: Kurtokha
 autonym: " Zhâke"
+alt_names: [Au Gemale, Gurtü, Kurteopkha, Kurthopkha, Kurtobikha, Kurtopakha, Kurtöbikha, Kurtöp, Kurtöp language, Kurtöpkha, Kürthöpka]
 population: 10000
 country_id: BT
 country_name: Bhutan

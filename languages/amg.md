@@ -2,6 +2,7 @@
 iso: amg
 name: Amurdak
 autonym: Amarag
+alt_names: ["A'moordiyu", Amarak, Amardak, Amooridiyu, Amurag, Amurdag, Amurdag language, Amurrag, Amurrak, Amurtak, Amuruk, Iwaidjan, Mamurug, Mono bar, Monobar, Namurug, "Nga:mr:rak", "Nga:mu:rak", Ngamrrak, Ngamurag, Ngamurak, Umoordak, Umoreo, Umoriu, Umorrdak, Wardadjbak, Woraidbug, Wureidbug]
 population: null
 country_id: AU
 country_name: Australia

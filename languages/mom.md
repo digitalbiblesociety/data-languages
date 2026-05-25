@@ -2,6 +2,7 @@
 iso: mom
 name: Mangue
 autonym: Chorotega
+alt_names: [Choluteca, Dirian, Mange, Monimbo, Nagranda, Orotiña]
 population: null
 country_id: NI
 country_name: Nicaragua

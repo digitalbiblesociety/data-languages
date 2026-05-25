@@ -2,6 +2,7 @@
 iso: gwg
 name: Moo
 autonym: Gomu
+alt_names: [Gwom, Gwomo, Gwomu, Ngwaa Móò, Yáá Mòò]
 population: 5000
 country_id: NG
 country_name: Nigeria

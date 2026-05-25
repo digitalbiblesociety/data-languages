@@ -1,7 +1,9 @@
 ---
 iso: mxg
 name: Mbangala
+name_zh: 姆班加拉语
 autonym: Bangala
+alt_names: [Cimbangala]
 population: 400000
 country_id: AO
 country_name: Angola

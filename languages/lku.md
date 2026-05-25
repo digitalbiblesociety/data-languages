@@ -2,6 +2,7 @@
 iso: lku
 name: Kungkari
 autonym: Kuungkari of Barcoo River
+alt_names: [Gunggari, Koongerri, Koonkerri, Kungeri, Kunggari, Kuungkari]
 population: null
 country_id: AU
 country_name: Australia

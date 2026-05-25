@@ -2,6 +2,7 @@
 iso: mzu
 name: Inapang
 autonym: Midsivindi
+alt_names: [Itutang]
 population: 1830
 country_id: PG
 country_name: Papua New Guinea

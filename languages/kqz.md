@@ -2,6 +2,7 @@
 iso: kqz
 name: Korana
 autonym: Griqua
+alt_names: ["!Gora", "!Kora", "!Ora", Gorachouqua, Kora, Korana Hottentot, Koranna, Koraqua, Língua korana]
 population: null
 country_id: ZA
 country_name: South Africa

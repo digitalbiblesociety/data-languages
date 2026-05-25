@@ -2,6 +2,7 @@
 iso: jur
 name: Jurúna
 autonym: Iuruna
+alt_names: [Djudjá, Jaruna, Jurna, Juruna, Yudja, Yudjá, Yudya, Yuruna, Yurúna]
 population: 278
 country_id: BR
 country_name: Brazil

@@ -1,7 +1,9 @@
 ---
 iso: tvo
 name: Tidore
+name_zh: 蒂多雷语
 autonym: bahasa Tidore
+alt_names: [Tidor]
 population: 26000
 country_id: ID
 country_name: Indonesia

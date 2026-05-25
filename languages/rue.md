@@ -1,7 +1,9 @@
 ---
 iso: rue
 name: Rusyn
+name_zh: 卢森尼亚语
 autonym: русиньскый язык; руски язик
+alt_names: [Bahasa Rusyn, Carpathian, Carpatho-Rusyn, Idioma rusino, Istočnorusinski jezik, Język rusiński, Lengua rutenn-a, Lingua rutena, Roetheens, Rosienu kalba, Rusina lingvo, Rusinsk, Rusinska, Rusinski jezik, Rusinšćina, Rusinščina, Russiini keel, Russinische Sprache, Ruszin nyelv, Rusínčina, Rusínština, Ruteeni, Rutenio, Ruthenian, Ruthène, Rutè, Источнорусински језик, Карпа́тьскороу́сьскъ ѩꙁꙑ́къ, Русински език, Русински јазик, Русинский язык, Русинська мова, Русінская мова, ルシン語, 卢森尼亚语]
 population: 82960
 country_id: UA
 country_name: Ukraine

@@ -2,6 +2,7 @@
 iso: lih
 name: Lihir
 autonym: Lir
+alt_names: [Lihir language]
 population: 12600
 country_id: PG
 country_name: Papua New Guinea

@@ -2,6 +2,7 @@
 iso: teq
 name: Temein
 autonym: Ronge
+alt_names: [Rone, Temainian, Temeino]
 population: 13000
 country_id: SD
 country_name: Sudan

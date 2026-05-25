@@ -2,6 +2,7 @@
 iso: tnr
 name: Ménik
 autonym: Ménik
+alt_names: [Bande, Basari du Bandemba, Bedik, Budik, Menik, Tandanke, Tenda, Tendanke]
 population: 3380
 country_id: SN
 country_name: Senegal

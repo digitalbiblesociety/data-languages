@@ -2,6 +2,7 @@
 iso: sev
 name: Nyarafolo Senoufo
 autonym: Senari
+alt_names: [Nyarafolo-Niafolo, Nyarofolo, "Senoufo, Nyarafolo"]
 population: 60000
 country_id: CI
 country_name: "Côte d'Ivoire"

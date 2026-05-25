@@ -2,6 +2,7 @@
 iso: nvh
 name: Nasarian
 autonym: null
+alt_names: [Mallicolo, Nasariano]
 population: null
 country_id: VU
 country_name: Vanuatu

@@ -1,7 +1,9 @@
 ---
 iso: obr
 name: Old Burmese
+name_zh: 古缅语
 autonym: null
+alt_names: ["Burmese, Old"]
 population: null
 country_id: MM
 country_name: Myanmar

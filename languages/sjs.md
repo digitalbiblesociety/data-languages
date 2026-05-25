@@ -1,7 +1,9 @@
 ---
 iso: sjs
 name: Senhaja De Srair
+name_zh: 森哈加語
 autonym: " Tasenhajit"
+alt_names: [Sanhaja de Srair, Sanhāja of Srair, Senhajiya]
 population: 50000
 country_id: MA
 country_name: Morocco

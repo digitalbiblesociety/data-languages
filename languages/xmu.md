@@ -2,6 +2,7 @@
 iso: xmu
 name: Kamu
 autonym: Gamor
+alt_names: [Eastern Daly language, Gamu, Gamu/Kamor, Gamy, Junggor, Kamor, Kamorrkir, Kapsiki, Komorrkir, Madngela, Malak Malak, Matngela, Mulluk Mulluk, Murra Kamangee, Ngangigamor, Ngangigmor, Ngulul Wanggar, Psikye, Wooliana, Yunggor]
 population: null
 country_id: AU
 country_name: Australia

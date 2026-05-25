@@ -2,6 +2,7 @@
 iso: box
 name: Buamu
 autonym: Eastern Bobo Wule
+alt_names: [Bomu, Bouamou, Bwamu, Eastern Bobo Oule, Red Bobo]
 population: 268000
 country_id: BF
 country_name: Burkina Faso

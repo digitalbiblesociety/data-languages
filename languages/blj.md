@@ -2,6 +2,7 @@
 iso: blj
 name: Bolongan
 autonym: Punan Kelai
+alt_names: [Bulungan]
 population: 30000
 country_id: ID
 country_name: Indonesia

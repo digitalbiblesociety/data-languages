@@ -1,7 +1,9 @@
 ---
 iso: dka
 name: Dakpakha
+name_zh: 达旺门巴语
 autonym: Tawang Monpa
+alt_names: [Dakpa]
 population: 1000
 country_id: BT
 country_name: Bhutan

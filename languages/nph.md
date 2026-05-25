@@ -2,6 +2,7 @@
 iso: nph
 name: Phom Naga
 autonym: Assiringia
+alt_names: [Chingmengnu, Chingmengu, Naga, "Naga, Phom", "Naga,Phom", Phom, Phon, Tamlu, Tamlu Naga, Tśingmegnu]
 population: 54400
 country_id: IN
 country_name: India

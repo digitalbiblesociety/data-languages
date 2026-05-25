@@ -2,6 +2,7 @@
 iso: due
 name: Umiray Dumaget Agta
 autonym: Umiray Agta
+alt_names: ["Agta, Umiray Dumaget", Umirey Dumagat]
 population: 3000
 country_id: PH
 country_name: Philippines

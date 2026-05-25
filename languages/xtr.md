@@ -2,6 +2,7 @@
 iso: xtr
 name: Early Tripuri
 autonym: null
+alt_names: ["Tripuri, Early"]
 population: null
 country_id: IN
 country_name: India

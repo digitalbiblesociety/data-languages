@@ -2,6 +2,7 @@
 iso: kzy
 name: Kango (Tshopo District)
 autonym: Forest Bira
+alt_names: ["\"Dibatchua\"", "\"Kibatchua\"", Dikango, Kango, Kango Pygmy, Kikango, Likango]
 population: 2000
 country_id: CD
 country_name: DR Congo

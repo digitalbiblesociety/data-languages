@@ -2,6 +2,7 @@
 iso: ahp
 name: Aproumu Aizi
 autonym: Aproumu
+alt_names: [Ahizi, Aizi, "Aizi, Aproumu", Aprou, Aprwe, Oprou]
 population: 6500
 country_id: CI
 country_name: "Côte d'Ivoire"

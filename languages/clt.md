@@ -2,6 +2,7 @@
 iso: clt
 name: Lautu Chin
 autonym: Lawhtu
+alt_names: ["Chin, Lautu"]
 population: 18000
 country_id: MM
 country_name: Myanmar

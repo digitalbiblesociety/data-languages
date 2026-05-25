@@ -2,6 +2,7 @@
 iso: hvn
 name: Sabu
 autonym: Sabu
+alt_names: [Havunese, Hawu, Savu, Savunese, Sawu, Sawunese]
 population: 110000
 country_id: ID
 country_name: Indonesia

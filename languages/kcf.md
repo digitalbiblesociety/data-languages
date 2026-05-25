@@ -2,6 +2,7 @@
 iso: kcf
 name: Ukaan
 autonym: "AIKA (Ayanran-Ishe-Kakumo-Auga)"
+alt_names: [Anyaran, Auga, Ikan, Kakumo]
 population: 18000
 country_id: NG
 country_name: Nigeria

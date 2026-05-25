@@ -2,6 +2,7 @@
 iso: pai
 name: Pe
 autonym: Pai
+alt_names: [Dalong]
 population: 4000
 country_id: NG
 country_name: Nigeria

@@ -2,6 +2,7 @@
 iso: snp
 name: Siane
 autonym: Siane (Lambau)
+alt_names: [Siani]
 population: 29000
 country_id: PG
 country_name: Papua New Guinea

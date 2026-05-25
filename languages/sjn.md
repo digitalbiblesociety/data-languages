@@ -1,6 +1,7 @@
 ---
 iso: sjn
 name: Sindarin
+name_zh: 辛达林
 autonym: null
 population: null
 country_id: ZZ

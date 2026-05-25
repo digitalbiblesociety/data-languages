@@ -2,6 +2,7 @@
 iso: sug
 name: Suganga
 autonym: North Mianmin
+alt_names: [Blimo, Wagarabai]
 population: 350
 country_id: PG
 country_name: Papua New Guinea

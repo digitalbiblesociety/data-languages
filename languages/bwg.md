@@ -2,6 +2,7 @@
 iso: bwg
 name: Barwe
 autonym: Balke
+alt_names: [Cibalke]
 population: 17000
 country_id: MZ
 country_name: Mozambique

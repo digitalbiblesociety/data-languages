@@ -1,7 +1,9 @@
 ---
 iso: gld
 name: Nanai
+name_zh: 赫哲语
 autonym: Нанай
+alt_names: [Akani, Birar, Gold, Goldi, Goldisch, Goldische, Heche, Hezhe, Hezhen, Juchen, Kile, Nanaieg, Nanaiisk, Nanain kieli, Nanaj, Nanaja lingvo, Nanaje, Nanay, Samagir, Sushen, nānai, Нанайский язык, Нанайэ, Нанајски јазик, нанайский языкж, ภาษานาไน, 赫哲語, 赫哲语, 赫真語, 那乃語]
 population: 12000
 country_id: RU
 country_name: Russia

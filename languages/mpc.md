@@ -1,7 +1,9 @@
 ---
 iso: mpc
 name: Mangarrayi
+name_zh: 曼加拉伊语
 autonym: Mangarai
+alt_names: [Alawic, MaNrayi, Mangaraian Family, Mangarayi, Mangarayic, Mangarei, Mangarray, Mangerei, Manggarai, Mungarai, Mungari, Mungerry, Ngarrabadji, Walooka]
 population: null
 country_id: AU
 country_name: Australia

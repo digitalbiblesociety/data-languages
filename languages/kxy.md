@@ -1,7 +1,9 @@
 ---
 iso: kxy
 name: Kayong
+name_zh: 歌庸语
 autonym: Ca Giong
+alt_names: [Cagiuong, Kagiuong, Katang]
 population: 2000
 country_id: VN
 country_name: Vietnam

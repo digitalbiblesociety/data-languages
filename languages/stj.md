@@ -2,6 +2,7 @@
 iso: stj
 name: Matya Samo
 autonym: Sane
+alt_names: [Northern Samo, Northwestern Samo, Samo, "Samo, Matya", San, Somono, Tougan, West Central Goe]
 population: 105000
 country_id: BF
 country_name: Burkina Faso

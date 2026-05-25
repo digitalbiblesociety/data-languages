@@ -2,6 +2,7 @@
 iso: adj
 name: Adioukrou
 autonym: Adjukru
+alt_names: [Adyoukrou, Adyukru, Ajukru]
 population: 140000
 country_id: CI
 country_name: "Côte d'Ivoire"

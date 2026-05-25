@@ -2,6 +2,7 @@
 iso: hmg
 name: Southwestern Guiyang Hmong
 autonym: Hmong
+alt_names: [Hmo, "Hmong, Southwestern Guiyang", Hmung, Hsiung, Hunan Miao, Miao, Southwestern Guiyang Miao]
 population: 70000
 country_id: CN
 country_name: China

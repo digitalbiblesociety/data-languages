@@ -2,6 +2,7 @@
 iso: rbb
 name: Rumai Palaung
 autonym: " Ta'ang"
+alt_names: [Humai, Palaung, Palaung Rumai, "Palaung, Rumai", Rumai, Ruomai, Shan States Palaung]
 population: 162100
 country_id: MM
 country_name: Myanmar

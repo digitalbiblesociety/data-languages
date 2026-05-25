@@ -1,7 +1,9 @@
 ---
 iso: maf
 name: Mafa
+name_zh: 马法语
 autonym: Mafahay
+alt_names: ["\"Matakam\"", Bula, Bulahai, Matakam, Mofa, Natakan]
 population: 214910
 country_id: CM
 country_name: Cameroon

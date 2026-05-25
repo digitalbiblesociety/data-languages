@@ -2,6 +2,7 @@
 iso: dnk
 name: Dengka
 autonym: Western Rote
+alt_names: [Rote, Rote Barat, Roti, Rotinese]
 population: 20000
 country_id: ID
 country_name: Indonesia

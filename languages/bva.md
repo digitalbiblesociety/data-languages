@@ -2,6 +2,7 @@
 iso: bva
 name: Barein
 autonym: Baraïn
+alt_names: [Barain, Guilia, Jalkia]
 population: 4100
 country_id: TD
 country_name: Chad

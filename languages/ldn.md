@@ -1,6 +1,7 @@
 ---
 iso: ldn
 name: Láadan
+name_zh: 拉丹语
 autonym: Láadan
 population: null
 country_id: US

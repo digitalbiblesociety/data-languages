@@ -2,6 +2,7 @@
 iso: mjl
 name: Mandeali
 autonym: मंडयाली
+alt_names: [Himachali, Mandi, Mandiali, Pahari Mandiyali]
 population: 623000
 country_id: IN
 country_name: India

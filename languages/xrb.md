@@ -2,6 +2,7 @@
 iso: xrb
 name: Eastern Karaboro
 autonym: Karaboro
+alt_names: [Kar, "Karaboro, Eastern", Ker, Kler]
 population: 40610
 country_id: BF
 country_name: Burkina Faso

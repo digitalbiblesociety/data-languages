@@ -2,6 +2,7 @@
 iso: dhw
 name: Dhanwar (Nepal)
 autonym: Danuwar Rai
+alt_names: [Danuvār, Danuwar, Denwar, Dhanvar, Dhanwar]
 population: 45800
 country_id: NP
 country_name: Nepal

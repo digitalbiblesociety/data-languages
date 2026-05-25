@@ -2,6 +2,7 @@
 iso: jmr
 name: Kamara
 autonym: null
+alt_names: [Mara]
 population: 3000
 country_id: GH
 country_name: Ghana

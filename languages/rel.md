@@ -2,6 +2,7 @@
 iso: rel
 name: Rendille
 autonym: Randile
+alt_names: [Kenyan Rendille, Rendile, Rendille hizkuntza]
 population: 96300
 country_id: KE
 country_name: Kenya

@@ -1,7 +1,9 @@
 ---
 iso: cha
 name: Chamorro
+name_zh: 查莫罗语
 autonym: "Finu' Chamoru"
+alt_names: [Bahasa Chamorro, CHamoru, Chamorro jezik, "Fino' Chamoru", Gagana Chamorro, Idioma chamorro, Język czamorro, Lengua Chamorro, Lingua chamorra, Lingua chamorro, Língua chamorro, Sprache der Marianen, Tchamoroueg, Tjamoro, Tšamorro keel, Tšamorron kieli, Ĉamora lingvo, Čamorru valoda, Čamorų kalba, Чаморо језик, Чаморро, チャモロ語, 查莫罗语, 차모로어]
 population: 64300
 country_id: GU
 country_name: Guam

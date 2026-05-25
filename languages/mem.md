@@ -2,6 +2,7 @@
 iso: mem
 name: Mangala
 autonym: Mangala
+alt_names: [Djawali, Djualin, Djuwali, Djuwalia, Jiwali, Jiwarli, Koalgurdi, Manala, Mangai, Mangal, Mangalaa, Mangarla, Mangula, Mangunda, Marrngu, Maŋala, Minala, Mungala, Yalmbau]
 population: 68
 country_id: AU
 country_name: Australia

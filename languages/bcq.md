@@ -2,6 +2,7 @@
 iso: bcq
 name: Bench
 autonym: Bencnon
+alt_names: ["Benc'", Bencho, Bensho, Dizu, Ghimarra, Gimarra, Gimira, Kaba, She]
 population: 348000
 country_id: ET
 country_name: Ethiopia

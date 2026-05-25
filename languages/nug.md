@@ -2,6 +2,7 @@
 iso: nug
 name: Nungali
 autonym: Yilngali
+alt_names: [Ilngali, Jilngali, Nungulu]
 population: null
 country_id: AU
 country_name: Australia

@@ -2,6 +2,7 @@
 iso: bbq
 name: Bamali
 autonym: Chopechop
+alt_names: [Babatana, "Choiseul, Central-Eastern", Ngoobechop, Sisiqa]
 population: 10800
 country_id: CM
 country_name: Cameroon

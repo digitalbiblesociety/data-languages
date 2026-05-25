@@ -2,6 +2,7 @@
 iso: mxu
 name: Mada (Cameroon)
 autonym: null
+alt_names: ["Ma'da", Mada, Mada (Chadic), Mada (in Cameroon), Mada language]
 population: 17000
 country_id: CM
 country_name: Cameroon

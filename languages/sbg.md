@@ -2,6 +2,7 @@
 iso: sbg
 name: Seget
 autonym: null
+alt_names: [Indonesia]
 population: 1200
 country_id: ID
 country_name: Indonesia

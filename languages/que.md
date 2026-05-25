@@ -1,6 +1,7 @@
 ---
 iso: que
 name: Quechua
+name_zh: 克丘亚语
 autonym: Runasimi
 population: 8900000
 country_id: PE

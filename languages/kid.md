@@ -2,6 +2,7 @@
 iso: kid
 name: Koshin
 autonym: Kaw
+alt_names: [Kosin]
 population: 1000
 country_id: CM
 country_name: Cameroon

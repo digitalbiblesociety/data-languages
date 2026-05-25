@@ -2,6 +2,7 @@
 iso: dos
 name: Dogosé
 autonym: Doghose
+alt_names: [Doghosie, Doghosié, Doghosye, Dogose, Dokhobe, Dokhosié, Dorhossié, Dorhosye, Doro Doghosié, Dorobé, Dorosie, Dorossé, Dɔɣɔse]
 population: 20000
 country_id: BF
 country_name: Burkina Faso

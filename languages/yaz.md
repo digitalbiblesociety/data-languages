@@ -2,6 +2,7 @@
 iso: yaz
 name: Lokaa
 autonym: Lokaa
+alt_names: [Loke, Loko, Luko, Yako, Yakurr, Yakö]
 population: 270000
 country_id: NG
 country_name: Nigeria

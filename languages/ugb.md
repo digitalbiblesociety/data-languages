@@ -2,6 +2,7 @@
 iso: ugb
 name: "Kuku-Ugbanh"
 autonym: "Wik-Muminh"
+alt_names: [Kugu-Ugbanh]
 population: null
 country_id: AU
 country_name: Australia

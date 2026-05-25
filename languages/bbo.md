@@ -2,6 +2,7 @@
 iso: bbo
 name: Northern Bobo Madaré
 autonym: Bobo Fing
+alt_names: ["Bobo Madaré, Northern", Konabéré, Northern Bobo Madare]
 population: 60000
 country_id: BF
 country_name: Burkina Faso

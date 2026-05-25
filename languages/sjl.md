@@ -2,6 +2,7 @@
 iso: sjl
 name: Sajalong
 autonym: Dhammai
+alt_names: [Dammai, Hruso A, Miji]
 population: 6500
 country_id: IN
 country_name: India

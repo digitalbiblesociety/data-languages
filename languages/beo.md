@@ -2,6 +2,7 @@
 iso: beo
 name: Beami
 autonym: Bedamini
+alt_names: [Bedamuni, Beothuc, Beothuk, Bethuck, Bethuk, Mougulu, Newfoundland, Red Indians]
 population: 5000
 country_id: PG
 country_name: Papua New Guinea

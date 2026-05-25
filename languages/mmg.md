@@ -2,6 +2,7 @@
 iso: mmg
 name: North Ambrym
 autonym: null
+alt_names: [Ambrym, "Ambrym, North", North, Vanuatu]
 population: 5250
 country_id: VU
 country_name: Vanuatu

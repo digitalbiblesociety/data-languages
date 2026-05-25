@@ -2,6 +2,7 @@
 iso: ctl
 name: Tlacoatzintepec Chinantec
 autonym: Chinanteco del noroeste
+alt_names: [Chinantec, "Chinantec, Tlacoatzintepec", Chinanteco, Chinanteko, Northwestern Chinantec, jau jmai]
 population: 1720
 country_id: MX
 country_name: Mexico

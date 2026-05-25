@@ -2,6 +2,7 @@
 iso: gam
 name: Kandawo
 autonym: Narake
+alt_names: [Gambera]
 population: 4000
 country_id: PG
 country_name: Papua New Guinea

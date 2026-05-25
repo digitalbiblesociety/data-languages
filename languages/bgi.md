@@ -2,6 +2,7 @@
 iso: bgi
 name: Giangan
 autonym: Klata
+alt_names: [Atto, Bagaba, Bagobo, Bakhtiari, Clata, Eto, Guanga, Gulanga, Jangan]
 population: 58500
 country_id: PH
 country_name: Philippines

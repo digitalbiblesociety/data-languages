@@ -1,7 +1,9 @@
 ---
 iso: orh
 name: Oroqen
+name_zh: 鄂伦春语
 autonym: Elunchun
+alt_names: [Olunchun, Orochen, Orochon, Orokeneg, Orokenų kalba, Oronchon, Oročon, Ulunchun, Орогенски јазик, 鄂伦春语, 鄂倫春語]
 population: 1200
 country_id: CN
 country_name: China

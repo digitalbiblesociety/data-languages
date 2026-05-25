@@ -2,6 +2,7 @@
 iso: apf
 name: Pahanan Agta
 autonym: Paranan Agta
+alt_names: ["Agta, Pahanan"]
 population: 1700
 country_id: PH
 country_name: Philippines

@@ -2,6 +2,7 @@
 iso: nao
 name: Naaba
 autonym: Naapa
+alt_names: [Naapaa, Naba, Nawa Sherpa, Sherpa]
 population: 770
 country_id: NP
 country_name: Nepal

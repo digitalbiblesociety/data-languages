@@ -1,7 +1,9 @@
 ---
 iso: tsg
 name: Tausug
+name_zh: 陶蘇格語
 autonym: بَهَسَ سُوگ
+alt_names: [Bahasa Tausug, Bisaya, Idioma joloano, Joloano Sulu, Jolohano, Moro Joloano, Sinug Tausug, Sooloo, Sulu, Suluk, Tausog, Tausūg-ngî, Taw Sug, Tinausug, ภาษาเตาซุก]
 population: 946000
 country_id: PH
 country_name: Philippines

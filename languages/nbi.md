@@ -2,6 +2,7 @@
 iso: nbi
 name: Mao Naga
 autonym: Sopvoma
+alt_names: [Emela, Maikel, Mao, Memi, Māo Naga, Naga, Naga (Mao), "Naga, Mao", "Naga,Mao", Sopfomo, Spowama]
 population: 972000
 country_id: IN
 country_name: India

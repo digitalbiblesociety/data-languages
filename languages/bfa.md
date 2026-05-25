@@ -1,7 +1,9 @@
 ---
 iso: bfa
 name: Bari
+name_zh: 巴里語
 autonym: Karo
+alt_names: [Beri, Kuku, Kuku (Bari), Kukú, Kukú (d. of Bari), Nil-Bari]
 population: 766000
 country_id: SS
 country_name: South Sudan

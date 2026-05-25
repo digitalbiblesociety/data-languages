@@ -1,6 +1,7 @@
 ---
 iso: dsk
 name: Dokshi
+alt_names: [Lukshi, Lushi]
 population: 400
 country_id: NG
 country_name: Nigeria

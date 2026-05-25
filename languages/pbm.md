@@ -2,6 +2,7 @@
 iso: pbm
 name: Puebla Mazatec
 autonym: null
+alt_names: ["Mazatec, Puebla"]
 population: null
 country_id: MX
 country_name: Mexico

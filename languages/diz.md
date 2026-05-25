@@ -2,6 +2,7 @@
 iso: diz
 name: Ding
 autonym: Di
+alt_names: [Din, Dzing]
 population: 155000
 country_id: CD
 country_name: DR Congo

@@ -1,7 +1,9 @@
 ---
 iso: lcf
 name: Lubu
+name_zh: 卢布语
 autonym: null
+alt_names: [Indonesia]
 population: 30000
 country_id: ID
 country_name: Indonesia

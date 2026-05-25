@@ -2,6 +2,7 @@
 iso: pwa
 name: Pawaia
 autonym: Aurama
+alt_names: [Oyobe dialect, Pavaia, Pawaian, Sira, Tudahwe, Yasa]
 population: 4000
 country_id: PG
 country_name: Papua New Guinea

@@ -2,6 +2,7 @@
 iso: bkj
 name: Pande
 autonym: "Pande-Gongo"
+alt_names: [Ipande]
 population: 9700
 country_id: CF
 country_name: Central African Republic

@@ -2,6 +2,7 @@
 iso: kfm
 name: Khunsari
 autonym: Khusaari
+alt_names: [Khwanshari, Kuk]
 population: 21100
 country_id: IR
 country_name: Iran

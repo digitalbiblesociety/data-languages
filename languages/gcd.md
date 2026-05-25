@@ -2,6 +2,7 @@
 iso: gcd
 name: Ganggalida
 autonym: Ganggalida
+alt_names: [Engarilla, Eugoola, Ganggalidda, Ganggalita, Iukala, Jakula, Jogula, Jokal, Jokala, Jokul, Jokula, Jugul, Jugula, Jugulda, Jungulda, Kanggaleida, Kangkalita, Mainland, Mainland Tangkic, Southern Tangkic, Yakula, Yangarella, Yokula, Yookala, Yugulda, Yukala, Yukula, Yukulta, Yukulta-Nguburindi]
 population: null
 country_id: AU
 country_name: Australia

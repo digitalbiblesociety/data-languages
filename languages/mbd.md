@@ -2,6 +2,7 @@
 iso: mbd
 name: Dibabawon Manobo
 autonym: Debabaon
+alt_names: [Dibabaon, Mandaya, "Manobo, Dibabawon"]
 population: 9060
 country_id: PH
 country_name: Philippines

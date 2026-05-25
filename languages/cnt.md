@@ -2,6 +2,7 @@
 iso: cnt
 name: Tepetotutla Chinantec
 autonym: "Chinantec, Tepetotutla"
+alt_names: [Chinantec, Chinantec (Tepetotutla), Chinanteco, Chinanteco (Tepetotutla), Chinanteco del oeste central bajo, Chinanteko, Lower West-Central Chinantec, Usila Chinantec, "jajmi dzä  kï ï '", jejmei, jejmi]
 population: 1850
 country_id: MX
 country_name: Mexico

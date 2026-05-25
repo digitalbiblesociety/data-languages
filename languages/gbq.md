@@ -2,6 +2,7 @@
 iso: gbq
 name: "Gbaya-Bozoum"
 autonym: Bozom
+alt_names: [Gbaya, Gbaya de Bozoum]
 population: 32500
 country_id: CF
 country_name: Central African Republic

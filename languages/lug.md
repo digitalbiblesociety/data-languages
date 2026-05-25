@@ -1,7 +1,9 @@
 ---
 iso: lug
 name: Ganda
+name_zh: 卢干达语
 autonym: Ganda
+alt_names: [Bahasa Luganda, Ganda lingvo, Ganda simi, Gandaeg, Gandan kieli, Idioma luganda, Język luganda, Luganda, Língua luganda, Луганда, לוגנדה, ルガンダ語, 卢干达语]
 population: 5614750
 country_id: UG
 country_name: Uganda

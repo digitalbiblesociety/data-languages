@@ -2,6 +2,7 @@
 iso: eze
 name: Uzekwe
 autonym: Uzekwe
+alt_names: [Ezekwe]
 population: 5000
 country_id: NG
 country_name: Nigeria

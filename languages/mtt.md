@@ -2,6 +2,7 @@
 iso: mtt
 name: Mota
 autonym: null
+alt_names: [Banks-Inseln]
 population: 750
 country_id: VU
 country_name: Vanuatu

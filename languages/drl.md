@@ -2,6 +2,7 @@
 iso: drl
 name: Paakantyi
 autonym: Paakantyi
+alt_names: ["Ba:gandji", "Ba:gundji", Baagandji, Baagandji (Southern), Baagandyi, Bagandji, Bagundji, Bahkunji, Bahkunjy, Bahroongee, Bahroonjee, Baigundji, Bakandi, Bakandji, Bakanji, Bandjagal, Bandjangali, Bargunji, Barindji, Barinji, Barkandj, Barkandji, Barkindji, Barkinghi, Barkinjee, Barkinji, Barkungee, Barkunjee, Barongee, Baroongee, Barrengee, Barrongee, Barundji, Barundyi, Barunga, Barungi, Beriait, Berri ait, Berriait, Bpaagkon jee, Bpaaroo, Bpaaroon jee, Bungyarlee, Burunga, Cornu, Darling, Darling River Language, Guerno, Kaiela, Koono, Kornoo, Kornu, Kula, Kuno, Kurnu, Mailpurglu, Mil pulko, Ngunnhalgri, PAAKANTYI / PAAKANTJI / BARKINDJI, "Pa:kindzi", Paakanji, Paakantji, Paakanytji, Pakindji, Parkengee, Parkingee, Parkungi, Parkunji, Paroinge, Paroo, Parooinge, Paru, Paruindi, Paruindji, Paruinji, Parundji, S, Southern Baagandji, Unelgo, Wimbaja]
 population: 110
 country_id: AU
 country_name: Australia

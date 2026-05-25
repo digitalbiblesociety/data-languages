@@ -1,7 +1,9 @@
 ---
 iso: bzs
 name: Brazilian Sign Language
+name_zh: 巴西手語
 autonym: Libras
+alt_names: [Brasiliansk tegnspråk, Brazila signolingvo, Brazilski znakovni jezik, Lsb, Língua Brasileira de Sinais, Língua de Sinais Brasileira, São Paulo Sign Language]
 population: 630000
 country_id: BR
 country_name: Brazil

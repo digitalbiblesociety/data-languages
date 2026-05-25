@@ -1,7 +1,9 @@
 ---
 iso: lij
 name: Ligurian
+name_zh: 利古里亚语
 autonym: " zeneize"
+alt_names: [Dialett intemeli, Dialetto intemelio, Dialetto ventimiglioso, Genovese, Intemelio, Intémélien, Italian, Italian (Genoa), Ligur, Ligure, Ligurien, Lìgure, Zenéize]
 population: 148210
 country_id: IT
 country_name: Italy

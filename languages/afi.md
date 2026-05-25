@@ -2,6 +2,7 @@
 iso: afi
 name: Akrukay
 autonym: Chini
+alt_names: [Akruray]
 population: 250
 country_id: PG
 country_name: Papua New Guinea

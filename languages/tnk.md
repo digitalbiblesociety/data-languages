@@ -2,6 +2,7 @@
 iso: tnk
 name: Kwamera
 autonym: South Tanna
+alt_names: [Vanuatu]
 population: 3500
 country_id: VU
 country_name: Vanuatu

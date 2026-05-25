@@ -2,6 +2,7 @@
 iso: mwg
 name: Aiklep
 autonym: Agerlep
+alt_names: [Eklep, Kaul, Moewehafen]
 population: 3700
 country_id: PG
 country_name: Papua New Guinea

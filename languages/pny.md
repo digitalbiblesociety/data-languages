@@ -2,6 +2,7 @@
 iso: pny
 name: Pinyin
 autonym: Bapinyi
+alt_names: [Pelimpo]
 population: 24600
 country_id: CM
 country_name: Cameroon

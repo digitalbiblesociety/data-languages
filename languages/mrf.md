@@ -2,6 +2,7 @@
 iso: mrf
 name: Elseng
 autonym: Morwap
+alt_names: ["\"Morwap\"", Djanggu, Janggu, Lenga Elseng, Malluo, Maluak, Sawa, Tabu]
 population: 300
 country_id: ID
 country_name: Indonesia

@@ -2,6 +2,7 @@
 iso: nha
 name: Nhanda
 autonym: Nanda
+alt_names: [Amangu, Bulgulu, Buluguda, Champion Bay tribe, Daguda, Eau, Eaw, Jau, Nanta, Nhanta, Nubda, Nunta, Tamala, Watchandi, Watchandie, Wathandi, Watjandi, Wilunya, Yau, Yaw]
 population: null
 country_id: AU
 country_name: Australia

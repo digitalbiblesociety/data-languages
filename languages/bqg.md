@@ -2,6 +2,7 @@
 iso: bqg
 name: "Bago-Kusuntu"
 autonym: Bago
+alt_names: [Koussountou]
 population: 7500
 country_id: TG
 country_name: Togo

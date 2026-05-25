@@ -1,7 +1,9 @@
 ---
 iso: frd
 name: Fordata
+name_zh: "Category:福爾達塔語"
 autonym: Vaidida
+alt_names: [Kei, Kei-Fordata, Larat, Vai Fordata, Vai Tnebar]
 population: 50000
 country_id: ID
 country_name: Indonesia

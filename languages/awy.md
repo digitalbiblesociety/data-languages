@@ -2,6 +2,7 @@
 iso: awy
 name: Edera Awyu
 autonym: Jenimu
+alt_names: ["Awyu, Edera", Ederah, Oser, Siagha, Sjiagha, Syiagha, Yenimu]
 population: 3870
 country_id: ID
 country_name: Indonesia

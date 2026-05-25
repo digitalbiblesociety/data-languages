@@ -2,6 +2,7 @@
 iso: pkg
 name: "Pak-Tong"
 autonym: "Tong-Pak"
+alt_names: [Admiralitäts-inseln]
 population: 970
 country_id: PG
 country_name: Papua New Guinea

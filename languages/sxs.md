@@ -2,6 +2,7 @@
 iso: sxs
 name: Sasaru
 autonym: null
+alt_names: [Nigeria]
 population: 12500
 country_id: NG
 country_name: Nigeria

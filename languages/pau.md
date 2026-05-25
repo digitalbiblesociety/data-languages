@@ -1,7 +1,9 @@
 ---
 iso: pau
 name: Palauan
+name_zh: 帕劳语
 autonym: a tekoi er a Belau
+alt_names: [Bahasa Palau, Bauzi, Belauan, Gjuha palauane, Idioma palauano, Język palau, Lingua palauana, Língua palauense, Palao, Palauaans, Palauek, Palaui nyelv, Palauiečių kalba, Palauiešu valoda, Palauische Sprache, Palauiska, Palaun kieli, Palauski jezik, Palauès, Paluan, palau, Παλάου, Палауански език, Палауский язык, パラオ語, 팔라우어]
 population: 15840
 country_id: PW
 country_name: Palau

@@ -2,6 +2,7 @@
 iso: kja
 name: Mlap
 autonym: Kwansu
+alt_names: [Kuangsu, Kuangsu-Bonggrang, Kuansu, Kwangsu-Bonggrang, Kwansu-Bonggrang]
 population: 300
 country_id: ID
 country_name: Indonesia

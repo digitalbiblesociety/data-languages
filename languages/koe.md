@@ -2,6 +2,7 @@
 iso: koe
 name: "Kacipo-Balesi"
 autonym: Balesi
+alt_names: [Baale, Bale, Kacipo-Bale Suri, "Suri, Kacipo-Bale", Zilmamu]
 population: 10000
 country_id: SS
 country_name: South Sudan

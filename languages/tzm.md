@@ -1,7 +1,9 @@
 ---
 iso: tzm
 name: Central Atlas Tamazight
+name_zh: 中阿特拉斯柏柏尔语
 autonym: Tamaziɣt
+alt_names: [Berber, Berber (Ayt Ayache Middle Atlas), Berber (Ayt Ndhir Middle Atlas), Berber (Ayt Seghrouchen Middle Atlas), Berber (Middle Atlas), Central Morocco Tamazight, Central Shilha, Centralnoatlaski tamazight, Język tamazight, Middle Atlas Berber, Oum Jeniba Tamazight, Shilha, Tamazight, Tamazight (Ayt Ndhir), Tamazight (Central Atlas), Tamazight (Middle Atlas), Tamazight (Oum Jeniba), Tamazight del Marruecos Central, Tamazight du Maroc central, "Tamazight, Central Atlas", Tamazigteg]
 population: 4740000
 country_id: MA
 country_name: Morocco

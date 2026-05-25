@@ -2,6 +2,7 @@
 iso: bdm
 name: Buduma
 autonym: Buduma
+alt_names: [Boudouma, Buduma-Kuri, Yadena, Yedana, Yedima, Yedina, Yidana, Yidena]
 population: 54800
 country_id: TD
 country_name: Chad

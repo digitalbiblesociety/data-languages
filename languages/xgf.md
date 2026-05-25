@@ -1,6 +1,7 @@
 ---
 iso: xgf
 name: "Gabrielino-Fernandeño"
+name_zh: 维沃特语
 autonym: eyooshiraaw
 population: null
 country_id: US

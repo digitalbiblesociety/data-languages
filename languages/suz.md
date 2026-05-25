@@ -1,7 +1,9 @@
 ---
 iso: suz
 name: Sunwar
+name_zh: 松瓦尔语
 autonym: "सुनुवार, कोइँच, किराँती-कोइँच, मुखिया"
+alt_names: [Kirānti-Kõints, Koĩc, Kwoico Lo, Mukhiya, Sonowal, Sonowar, Sounwareg, Sunbar, Sunuvār, Sunuwar, Sunuwār, Sunwari, Sunwarish, Сунвар]
 population: 38200
 country_id: NP
 country_name: Nepal

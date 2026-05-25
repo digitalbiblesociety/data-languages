@@ -2,6 +2,7 @@
 iso: bqs
 name: Bosngun
 autonym: Bosngun
+alt_names: [Bosman, Bosmun]
 population: 1300
 country_id: PG
 country_name: Papua New Guinea

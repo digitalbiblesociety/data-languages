@@ -1,7 +1,9 @@
 ---
 iso: xog
 name: Soga
+name_zh: 索加语
 autonym: Lusoga
+alt_names: [Język soga, Língua lusoga, Olusoga, Sogaeg, Sogum]
 population: 2960000
 country_id: UG
 country_name: Uganda

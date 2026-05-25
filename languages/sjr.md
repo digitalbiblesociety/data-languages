@@ -2,6 +2,7 @@
 iso: sjr
 name: "Siar-Lak"
 autonym: Lak
+alt_names: [Lamassa, Lambom, Siar]
 population: 2500
 country_id: PG
 country_name: Papua New Guinea

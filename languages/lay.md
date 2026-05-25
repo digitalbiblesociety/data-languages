@@ -1,7 +1,9 @@
 ---
 iso: lay
 name: Lama Bai
+name_zh: 拉瑪方言
 autonym: "Lan-Bi Bai"
+alt_names: ["Bai, Lama"]
 population: 3000
 country_id: CN
 country_name: China

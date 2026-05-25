@@ -2,6 +2,7 @@
 iso: skj
 name: Seke (Nepal)
 autonym: null
+alt_names: [Seke]
 population: 700
 country_id: NP
 country_name: Nepal

@@ -2,6 +2,7 @@
 iso: ort
 name: Adivasi Oriya
 autonym: ଓଡ଼ିଆ
+alt_names: [Adiwasi Oriya, Kotia Oriya, Kotiya, Oriya, Oriya (Adivasi), Oriya (Kotia), "Oriya, Adivasi", Southern Oriya, Tribal Oriya]
 population: 200000
 country_id: IN
 country_name: India

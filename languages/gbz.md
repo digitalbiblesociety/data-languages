@@ -1,7 +1,9 @@
 ---
 iso: gbz
 name: Zoroastrian Dari
+name_zh: 祆教達利語
 autonym: Gabri
+alt_names: ["\"Gabar\"", "\"Gabri\"", "\"Yazdi\"", Behdinan dialect, Dari, "Dari, Zoroastrian", Darí, Yazdi, Zoroastrian, Дари, ภาษาดารี]
 population: 11500
 country_id: IR
 country_name: Iran

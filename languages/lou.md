@@ -1,7 +1,9 @@
 ---
 iso: lou
 name: Louisiana Creole
+name_zh: 路易斯安那克里奥尔法语
 autonym: " kouri-vini"
+alt_names: ["Creole, Louisiana", Créole louisianais, Franse, Kourí-viní, Kreyòl, Louisiana, Louisiana Creole French, Louisianan kreoli, Negro French, ルイジアナ・クレオール語]
 population: 4800
 country_id: US
 country_name: United States

@@ -2,6 +2,7 @@
 iso: trz
 name: Torá
 autonym: Toraz
+alt_names: [Tora]
 population: 2018
 country_id: BR
 country_name: Brazil

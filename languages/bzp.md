@@ -2,6 +2,7 @@
 iso: bzp
 name: Kemberano
 autonym: Weriagar
+alt_names: [Arandai, Barau, Kalitami, Wariagar]
 population: 1500
 country_id: ID
 country_name: Indonesia

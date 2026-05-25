@@ -1,7 +1,9 @@
 ---
 iso: sdp
 name: Sherdukpen
+name_zh: 舍朱奔语
 autonym: Mey
+alt_names: [Ngnok]
 population: 3100
 country_id: IN
 country_name: India

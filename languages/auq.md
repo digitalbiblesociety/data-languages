@@ -2,6 +2,7 @@
 iso: auq
 name: Anus
 autonym: Korur
+alt_names: [Koroernoes, Sobei, Анус, ภาษาอานุส, アヌス語]
 population: 320
 country_id: ID
 country_name: Indonesia

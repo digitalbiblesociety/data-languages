@@ -2,6 +2,7 @@
 iso: ull
 name: Ullatan
 autonym: Kochu Velan
+alt_names: [Katan, Kattalan, Kochuvelan, Ulladan]
 population: 16741
 country_id: IN
 country_name: India

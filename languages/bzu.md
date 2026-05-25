@@ -2,6 +2,7 @@
 iso: bzu
 name: Burmeso
 autonym: Taurap
+alt_names: [Boromeso, Borumeso, Borumesso, Borumessu, Bourmesoeg, Burumeso, Manau, Monao, Monau]
 population: 250
 country_id: ID
 country_name: Indonesia

@@ -2,6 +2,7 @@
 iso: nrr
 name: Norra
 autonym: null
+alt_names: [Nora]
 population: null
 country_id: IN
 country_name: India

@@ -2,6 +2,7 @@
 iso: mxh
 name: Mvuba
 autonym: Bambuba
+alt_names: [Bamvuba, Mbuba, Mvuba-A, Obiye]
 population: 5100
 country_id: CD
 country_name: DR Congo

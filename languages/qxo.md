@@ -2,6 +2,7 @@
 iso: qxo
 name: Southern Conchucos Ancash Quechua
 autonym: Huaylay
+alt_names: [Ancas, Ancash, Chinchaysuyo, Conchucos, Conchucos Quechua, Conchucu, North Central Kechua, Northern Quechua, "Quechua, Southern Conchucos  Ancash", Southern Conchucos Quechua]
 population: 250000
 country_id: PE
 country_name: Peru

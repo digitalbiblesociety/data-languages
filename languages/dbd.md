@@ -2,6 +2,7 @@
 iso: dbd
 name: Dadiya
 autonym: Lodiya
+alt_names: [Daadiya, Dadia, Loodiya]
 population: 70000
 country_id: NG
 country_name: Nigeria

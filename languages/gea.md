@@ -2,6 +2,7 @@
 iso: gea
 name: Geruma
 autonym: Gyeermu
+alt_names: [Gerema, Germa, Gerumawa]
 population: 9030
 country_id: NG
 country_name: Nigeria

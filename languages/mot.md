@@ -2,6 +2,7 @@
 iso: mot
 name: Barí
 autonym: " Cunausaya"
+alt_names: [Barira, Barí (Chibchan), Dobocubi, Dobocubí, Dobokubí, Idioma barí, Motiln, Motilon, Motilone, Motilone (Chibchan), Motilón, Motilón (Chibchan)]
 population: 3620
 country_id: CO
 country_name: Colombia

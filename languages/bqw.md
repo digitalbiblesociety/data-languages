@@ -2,6 +2,7 @@
 iso: bqw
 name: Buru (Nigeria)
 autonym: null
+alt_names: [Buru]
 population: 1000
 country_id: NG
 country_name: Nigeria

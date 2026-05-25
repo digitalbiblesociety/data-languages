@@ -1,7 +1,9 @@
 ---
 iso: btq
 name: Batek
+name_zh: 巴特克语
 autonym: Bateg
+alt_names: [Bateq, Batok, Kleb, Lebir, Nong, Tomo]
 population: 1000
 country_id: MY
 country_name: Malaysia

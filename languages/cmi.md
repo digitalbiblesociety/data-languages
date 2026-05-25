@@ -2,6 +2,7 @@
 iso: cmi
 name: "Emberá-Chamí"
 autonym: Chamí Emberá
+alt_names: [Catrú), Chami, Chami-Embera language, Chamí, Cholo, Ember-Cham, Embera Chami, Embera-Chami, Emberá chamí, Emberá- Baudó (Baudó, Emberá-Chamí (Chami), Epena (Emberá-Saija, Epená Saija, Epéna Pedée, Saija, Sia pedee, Southern Embera, Southern Emberá, Southern Empera]
 population: 5510
 country_id: CO
 country_name: Colombia

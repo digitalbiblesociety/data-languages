@@ -1,7 +1,9 @@
 ---
 iso: ykt
 name: Kathu
+name_zh: 嘎苏话
 autonym: Thou
+alt_names: [Gasu]
 population: 5000
 country_id: CN
 country_name: China

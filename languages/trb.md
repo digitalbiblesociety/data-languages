@@ -2,6 +2,7 @@
 iso: trb
 name: Terebu
 autonym: Terepu
+alt_names: [Turubu, Turupu]
 population: 128
 country_id: PG
 country_name: Papua New Guinea

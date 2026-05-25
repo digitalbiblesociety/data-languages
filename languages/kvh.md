@@ -2,6 +2,7 @@
 iso: kvh
 name: Komodo
 autonym: bahasa Komodo
+alt_names: [Indonesia]
 population: 700
 country_id: ID
 country_name: Indonesia

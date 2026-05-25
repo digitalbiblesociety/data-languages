@@ -2,6 +2,7 @@
 iso: mse
 name: Musey
 autonym: Bananna
+alt_names: [Bananna Ho Ho, Mosi, Moussei, Moussey, Musaya, Musei, Museyna, Musiina, Musoi, Mussoi, Mussoy]
 population: 433000
 country_id: TD
 country_name: Chad

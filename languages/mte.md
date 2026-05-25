@@ -1,7 +1,9 @@
 ---
 iso: mte
 name: Mono (Solomon Islands)
+name_zh: 大洋洲莫諾語
 autonym: "Mono-Alu"
+alt_names: [Alu, Mono, Mono Alu]
 population: 2266
 country_id: SB
 country_name: Solomon Islands

@@ -1,7 +1,9 @@
 ---
 iso: emy
 name: Epigraphic Mayan
+name_zh: 古典馬雅語
 autonym: Chʼoltiʼ
+alt_names: ["Mayan, Epigraphic"]
 population: null
 country_id: MX
 country_name: Mexico

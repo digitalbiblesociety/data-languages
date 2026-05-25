@@ -2,6 +2,7 @@
 iso: xuo
 name: Kuo
 autonym: Koh
+alt_names: [Ko, Koh (Lakka), Lakka]
 population: 20250
 country_id: TD
 country_name: Chad

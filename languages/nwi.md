@@ -1,7 +1,9 @@
 ---
 iso: nwi
 name: Southwest Tanna
+name_zh: 西南塔納島語
 autonym: Nawal
+alt_names: [Tanna (South-west), Tanna (Southwest), "Tanna, Southwest"]
 population: 4500
 country_id: VU
 country_name: Vanuatu

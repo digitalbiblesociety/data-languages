@@ -2,6 +2,7 @@
 iso: kot
 name: Lagwan
 autonym: Logone
+alt_names: [Kotoko-Logone, Lagouane, Lagwan Kotoko, Lagwane, Logone-Birni Kotoko]
 population: 1500
 country_id: CM
 country_name: Cameroon

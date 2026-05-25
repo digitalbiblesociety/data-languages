@@ -2,6 +2,7 @@
 iso: ano
 name: Andoque
 autonym: Andoké
+alt_names: ["\"andoque, 'Gens de la Hache'\"", Andoke, Businka, "Cha'oie", "Cho'oje", Cho’oje, Idioma andoque, Paasi-ahá, Paasiaja, Patsiaehé, Андокески јазик]
 population: 10000
 country_id: CO
 country_name: Colombia

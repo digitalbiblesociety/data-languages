@@ -2,6 +2,7 @@
 iso: jmn
 name: Makuri Naga
 autonym: Makury Naga
+alt_names: ["Naga, Makuri", "Naga,Makuri", Shaera]
 population: 4000
 country_id: MM
 country_name: Myanmar

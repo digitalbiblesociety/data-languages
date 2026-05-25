@@ -2,6 +2,7 @@
 iso: cea
 name: Lower Chehalis
 autonym: Łəw̓ál̕məš
+alt_names: [Bas-chehalis, "Chehalis, Lower", Chehalí bajo, ɬəwʼálʼməš]
 population: null
 country_id: US
 country_name: United States

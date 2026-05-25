@@ -1,7 +1,9 @@
 ---
 iso: xsm
 name: Kasem
+name_zh: 卡塞納語
 autonym: Kassena
+alt_names: [Kasena, Kasim, Kassem, Kassene]
 population: 232600
 country_id: BF
 country_name: Burkina Faso

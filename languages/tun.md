@@ -1,7 +1,9 @@
 ---
 iso: tun
 name: Tunica
+name_zh: 圖尼加語
 autonym: Luhchi Yoroni
+alt_names: [Tonika, Tounikeg, Tunica hizkuntza, Tunixka, Туника]
 population: null
 country_id: US
 country_name: United States

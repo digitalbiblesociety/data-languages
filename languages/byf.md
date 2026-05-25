@@ -2,6 +2,7 @@
 iso: byf
 name: Bete
 autonym: null
+alt_names: [Bete language]
 population: 3000
 country_id: NG
 country_name: Nigeria

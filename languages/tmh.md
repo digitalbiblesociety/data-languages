@@ -1,6 +1,7 @@
 ---
 iso: tmh
 name: Tamashek
+name_zh: 圖阿雷格語
 autonym: null
 population: 1732900
 country_id: ML

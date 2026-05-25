@@ -2,6 +2,7 @@
 iso: zyp
 name: Zyphe Chin
 autonym: "Chin, Zyphe"
+alt_names: ["Zac'hringeg", Zophei, Zoptei, Zyphe, Zyphe language]
 population: 20000
 country_id: MM
 country_name: Myanmar

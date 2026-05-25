@@ -2,6 +2,7 @@
 iso: kft
 name: Kanjari
 autonym: Kagari
+alt_names: [Kangar Bhat, Kangri, Kanjri]
 population: 91200
 country_id: IN
 country_name: India

@@ -2,6 +2,7 @@
 iso: pcg
 name: Paniya
 autonym: പണിയ
+alt_names: [Nil, Pania, Paniyan, Panyah]
 population: 22800
 country_id: IN
 country_name: India

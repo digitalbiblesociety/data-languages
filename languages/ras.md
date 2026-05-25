@@ -2,6 +2,7 @@
 iso: ras
 name: Tegali
 autonym: Tagale
+alt_names: [Orig, Rashad, Tegele, Tekele, Togole, Turjok]
 population: 99000
 country_id: SD
 country_name: Sudan

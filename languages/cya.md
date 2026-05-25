@@ -2,6 +2,7 @@
 iso: cya
 name: Nopala Chatino
 autonym: Sierra Chatino
+alt_names: [Chatino, Chatino (Nopala), Chatino de Zacatepec, Chatino de Zacatepeco, Chatino de la zona baja occidental, Chatino des basses-terres occidentales, "Chatino, Nopala"]
 population: 8940
 country_id: MX
 country_name: Mexico

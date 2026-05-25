@@ -2,6 +2,7 @@
 iso: nks
 name: North Asmat
 autonym: Keenok
+alt_names: [Asmat, "Asmat, North"]
 population: 1000
 country_id: ID
 country_name: Indonesia

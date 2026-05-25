@@ -2,6 +2,7 @@
 iso: alm
 name: Amblong
 autonym: Varavara
+alt_names: [Aje]
 population: 300
 country_id: VU
 country_name: Vanuatu

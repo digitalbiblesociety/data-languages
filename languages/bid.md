@@ -2,6 +2,7 @@
 iso: bid
 name: Bidiyo
 autonym: Bidio
+alt_names: ["'Bidio", "'Bidiyo", Bidiya, Bidiyo-Waana, Bidyo]
 population: 14000
 country_id: TD
 country_name: Chad

@@ -1,7 +1,9 @@
 ---
 iso: bhw
 name: Biak
+name_zh: 比亚克语
 autonym: "Biak-Numfor"
+alt_names: [Biaco, Mafoor, Mafoorsch, Mefoor, Myfoorsch, Noefoor, Noefoorsch, Nufoor, Numfor, Village X]
 population: 70000
 country_id: ID
 country_name: Indonesia

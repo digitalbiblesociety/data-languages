@@ -1,7 +1,9 @@
 ---
 iso: bfu
 name: Gahri
+name_zh: 布南语
 autonym: Gahri
+alt_names: [Boonan, Bunan, Bunán, Erankad, Gari, Ghara, Keylong Boli, Lahul, Lahuli, Lahuli of Bunan, Poonan, Punan]
 population: 4000
 country_id: IN
 country_name: India

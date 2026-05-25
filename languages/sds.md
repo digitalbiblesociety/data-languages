@@ -2,6 +2,7 @@
 iso: sds
 name: Sened
 autonym: null
+alt_names: [Lingua sendi, Sened jezik, Senedeg, لغة سند]
 population: null
 country_id: TN
 country_name: Tunisia

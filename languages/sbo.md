@@ -1,7 +1,9 @@
 ---
 iso: sbo
 name: Sabüm
+name_zh: 萨宾语
 autonym: sabɨːm
+alt_names: [Malaysia, Sabum]
 population: null
 country_id: MY
 country_name: Malaysia

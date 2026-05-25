@@ -2,6 +2,7 @@
 iso: bdg
 name: Bonggi
 autonym: Bangay
+alt_names: [Banggi, Banggi Dusun]
 population: 1400
 country_id: MY
 country_name: Malaysia

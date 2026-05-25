@@ -2,6 +2,7 @@
 iso: tax
 name: Tamki
 autonym: Temki
+alt_names: [Tamkieg, 𐍄𐌰𐌼𐌺𐌾𐌰𐍂𐌰𐌶𐌳𐌰]
 population: 500
 country_id: TD
 country_name: Chad

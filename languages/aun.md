@@ -2,6 +2,7 @@
 iso: aun
 name: Molmo One
 autonym: Aunalei
+alt_names: [Inebu One, Kabore One, Kuamtim, Kwamtim One, Molmo, Northern One, One, "One, Molmo", Onele, Oni, Southern One]
 population: 500
 country_id: PG
 country_name: Papua New Guinea

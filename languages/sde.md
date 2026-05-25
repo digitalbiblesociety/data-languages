@@ -2,6 +2,7 @@
 iso: sde
 name: Surubu
 autonym: Surubu
+alt_names: [Fiti, Skrubu, Srubu, Zurubu]
 population: 7170
 country_id: NG
 country_name: Nigeria

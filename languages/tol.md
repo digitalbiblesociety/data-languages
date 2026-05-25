@@ -1,7 +1,9 @@
 ---
 iso: tol
 name: Tolowa
+name_zh: 托洛瓦語
 autonym: "Taa-laa-wa Dee-ni’ Wee-ya’"
+alt_names: [Chetco, Chetco-Tolowa, Siletz Dee-ni, Smith River, Smith River Athabaskan, Tolowa-Chetco]
 population: null
 country_id: US
 country_name: United States

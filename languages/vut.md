@@ -2,6 +2,7 @@
 iso: vut
 name: Vute
 autonym: null
+alt_names: ["'Abotee", "'Abwetee", Baboute, Babute, Bamboute, Boute, Bubure, Bule, Bute, Buti, Foute, Luvure, Mbute, Mbutere, Mfuti, Nbule, Pute, Voute, Voutere, Vutere, Wetere, Woute, Wute]
 population: 21000
 country_id: CM
 country_name: Cameroon

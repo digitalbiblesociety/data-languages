@@ -2,6 +2,7 @@
 iso: cur
 name: Chhulung
 autonym: Chhilling
+alt_names: ["Ch?l?ng", Chholung, ChhÃ»lÃ»ng RÃ»ng, Chhûlûng Rûng, Chilling, Chulung, Chulún, ChÃ¼lÃ¼ng, Chülüng, Chɨlɨng]
 population: 1310
 country_id: NP
 country_name: Nepal

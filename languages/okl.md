@@ -2,6 +2,7 @@
 iso: okl
 name: Old Kentish Sign Language
 autonym: OKSL
+alt_names: ["Kentish Sign Language, Old", Old Kent Sign Language]
 population: null
 country_id: GB
 country_name: United Kingdom

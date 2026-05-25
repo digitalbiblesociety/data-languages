@@ -2,6 +2,7 @@
 iso: nim
 name: Nilamba
 autonym: Nilamba
+alt_names: [Ikinilamba, Ikiniramba, Ilamba, Iramba, Kinilamba, Kiniramba, Nilyamba, Niramba, Nyilamba]
 population: 682000
 country_id: TZ
 country_name: Tanzania

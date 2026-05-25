@@ -2,6 +2,7 @@
 iso: taz
 name: Tocho
 autonym: Tacho
+alt_names: [Toicho]
 population: 3800
 country_id: SD
 country_name: Sudan

@@ -2,6 +2,7 @@
 iso: asu
 name: Tocantins Asurini
 autonym: Akwaya
+alt_names: [Akuawa, Akwawa, Akwáwa, Assurini, Assuriní, Assuriní do Tocantins, Asurini, "Asurini, Tocantins", Asuriní, Asuriní do Tocantins, Asuriní do Trocará, Asurí, Língua aquáua, Mudjetire, Parakaná, Suru do Tocantins, Tocantins, Tocantins Asuriní]
 population: 300
 country_id: BR
 country_name: Brazil

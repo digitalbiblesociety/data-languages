@@ -2,6 +2,7 @@
 iso: mwb
 name: Juwal
 autonym: Muniwara
+alt_names: [Mambe, Tumara, Tumaru]
 population: 1440
 country_id: PG
 country_name: Papua New Guinea

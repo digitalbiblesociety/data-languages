@@ -2,6 +2,7 @@
 iso: tcq
 name: Kaiy
 autonym: Kai
+alt_names: [Taori-Kaiy, Taori-Kei, Todi]
 population: 220
 country_id: ID
 country_name: Indonesia

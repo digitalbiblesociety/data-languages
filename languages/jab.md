@@ -2,6 +2,7 @@
 iso: jab
 name: Hyam
 autonym: Jabba
+alt_names: [Geba, Ham, Hyamhum, Jaba, Jeba]
 population: 300000
 country_id: NG
 country_name: Nigeria

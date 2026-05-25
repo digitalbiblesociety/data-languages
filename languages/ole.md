@@ -2,6 +2,7 @@
 iso: ole
 name: Olekha
 autonym: " Monkha"
+alt_names: ["'Olekha", Black Mountain, Monpa, Ole Mönpa]
 population: 1000
 country_id: BT
 country_name: Bhutan

@@ -1,7 +1,9 @@
 ---
 iso: phh
 name: Phukha
+name_zh: 夫卡语
 autonym: Phula
+alt_names: [Fu Khla, Phu Kha, Phu Khla, Phu La, Phù Lá, Phù Lá Hán]
 population: 10000
 country_id: VN
 country_name: Vietnam

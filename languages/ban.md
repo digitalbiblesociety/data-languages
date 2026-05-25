@@ -1,7 +1,9 @@
 ---
 iso: ban
 name: Balinese
+name_zh: 巴厘语
 autonym: ᬪᬵᬱᬩᬮᬶ
+alt_names: [Bahasa Bali, Bali, Balia lingvo, Balijski jezik, Balin kieli, Balinais, Balinees, Balinesisch, Balinesische Sprache, Balinesisk, Balinesiska, Balinès, Basa Bali, Język balijski, "Lenga Malay, Balinese", Lingua balinese, Língua balinesa, Madura-Bali, Балийский язык, बहासा बाली, ภาษาบาหลี, バリ語]
 population: 3950000
 country_id: ID
 country_name: Indonesia

@@ -1,6 +1,7 @@
 ---
 iso: nob
 name: Norwegian Bokmål
+name_zh: 书面挪威语
 autonym: norsk bokmål
 population: 4000000
 country_id: "NO"

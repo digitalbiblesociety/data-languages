@@ -1,7 +1,9 @@
 ---
 iso: ary
 name: Moroccan Arabic
+name_zh: 摩洛哥阿拉伯语
 autonym: الدارجة Darija
+alt_names: [Arabe marocain, Arabe marokin, Arabe marroquí, Arabeg Maroko, Arabic, Arabic (Moroccan Spoken), Arabic (Moroccan), Arabic (Western), "Arabic, Moroccan", "Arabic, Moroccan Spoken", Maghrebi Arabic, Maghribi Colloquial Arabic, Marokanski arapski, Marokańska odmiana języka arabskiego, Marokkaans-Arabisch, Marokkanisch-Arabisch, Moroccan, Moroccan Colloquial Arabic, Moroccan Darija, Árabe marroquí, Марокански арапски јазик, ערבית מרוקאית, لهجة مغربية, مغربى]
 population: 27500000
 country_id: MA
 country_name: Morocco

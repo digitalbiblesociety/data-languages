@@ -2,6 +2,7 @@
 iso: mxz
 name: Central Masela
 autonym: Marsela
+alt_names: [Central Marsela, Marsela-South Babar, "Masela, Central"]
 population: 511
 country_id: ID
 country_name: Indonesia

@@ -2,6 +2,7 @@
 iso: wea
 name: Wewaw
 autonym: ကညီကျိာ်
+alt_names: [Wewau]
 population: null
 country_id: MM
 country_name: Myanmar

@@ -2,6 +2,7 @@
 iso: lgt
 name: Pahi
 autonym: Lugitama
+alt_names: [Riahoma, Riahorna, Wansum]
 population: 840
 country_id: PG
 country_name: Papua New Guinea

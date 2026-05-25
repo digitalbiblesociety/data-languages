@@ -2,6 +2,7 @@
 iso: kma
 name: Konni
 autonym: Koma
+alt_names: [Komung, Koni]
 population: 3800
 country_id: GH
 country_name: Ghana

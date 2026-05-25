@@ -2,6 +2,7 @@
 iso: jim
 name: Jimi (Cameroon)
 autonym: Jimjimən
+alt_names: ["'Um Falin", Bi-Gimu, Djimi, Jimi, Jimi language, Jimjimen]
 population: 3500
 country_id: CM
 country_name: Cameroon

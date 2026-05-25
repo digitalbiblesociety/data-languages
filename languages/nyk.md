@@ -2,6 +2,7 @@
 iso: nyk
 name: Nyaneka
 autonym: Lunyaneka
+alt_names: [Nhaneca, Nhaneka]
 population: 1000000
 country_id: AO
 country_name: Angola

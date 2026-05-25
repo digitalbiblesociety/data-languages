@@ -2,6 +2,7 @@
 iso: bzy
 name: Obanliku
 autonym: Banliku
+alt_names: [Abanliku, Gayi]
 population: 65000
 country_id: NG
 country_name: Nigeria

@@ -2,6 +2,7 @@
 iso: nmr
 name: Nimbari
 autonym: "Niam-Niam"
+alt_names: [Bari, Group 12, Niamniam, Nimbari-Kebi, Nyam-Nyam du Mayo-Kebi, Nyamnyam]
 population: null
 country_id: CM
 country_name: Cameroon

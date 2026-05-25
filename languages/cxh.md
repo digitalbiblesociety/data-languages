@@ -1,6 +1,7 @@
 ---
 iso: cxh
 name: Cha'ari
+alt_names: [Caari, Chaari, Chari, Cààrí, Danche, Danshe]
 population: 400
 country_id: NG
 country_name: Nigeria

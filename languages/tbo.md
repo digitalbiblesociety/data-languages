@@ -2,6 +2,7 @@
 iso: tbo
 name: Tawala
 autonym: Kehelala
+alt_names: [Tavara, Tawara]
 population: 10000
 country_id: PG
 country_name: Papua New Guinea

@@ -2,6 +2,7 @@
 iso: mxx
 name: Mahou
 autonym: Malinke
+alt_names: [Mahu, Maou, Mau, Mau(ka), Mauka, Mauke, Mawukakan]
 population: 300000
 country_id: CI
 country_name: "Côte d'Ivoire"

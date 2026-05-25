@@ -2,6 +2,7 @@
 iso: khy
 name: Kele (Democratic Republic of Congo)
 autonym: Lokele
+alt_names: [Ekele, Kele, Kili, Likelo, Yakusu]
 population: 160000
 country_id: CD
 country_name: DR Congo

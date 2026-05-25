@@ -1,7 +1,9 @@
 ---
 iso: cia
 name: "Cia-Cia"
+name_zh: 吉阿吉阿语
 autonym: Butonese
+alt_names: [Bahasa Cia-Cia, Boetoneezen, Buton, Butung, Cia-Cia gú, Lenga cia-cia, South Buton, Southern Butung, 吉阿吉阿語, 찌아찌아어]
 population: 104000
 country_id: ID
 country_name: Indonesia

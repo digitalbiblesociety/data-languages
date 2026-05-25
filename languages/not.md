@@ -2,6 +2,7 @@
 iso: not
 name: Nomatsiguenga
 autonym: inato
+alt_names: ["\"Nomatsiguenga Campa\"", Atiri, Campa, Machinguenga, "Nomachiguenga: Atiri", Nomatsigenga, Nomatsiguenga Campa]
 population: 8020
 country_id: PE
 country_name: Peru

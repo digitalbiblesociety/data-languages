@@ -2,6 +2,7 @@
 iso: nix
 name: Hema
 autonym: Ruhema
+alt_names: [Congo Nyoro, Hema-Sud, Kihema, Nyoro, Runyoro, Southern Hema]
 population: 125000
 country_id: CD
 country_name: DR Congo

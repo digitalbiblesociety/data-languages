@@ -2,6 +2,7 @@
 iso: amm
 name: Ama (Papua New Guinea)
 autonym: Sawiyanu
+alt_names: [Ama, Neinbonei, Waniabu, Wanibu]
 population: 480
 country_id: PG
 country_name: Papua New Guinea

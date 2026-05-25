@@ -1,7 +1,9 @@
 ---
 iso: abd
 name: Manide
+name_zh: 曼尼德語
 autonym: Camarines Norte Agta
+alt_names: [Agiyan, Agta, Agta de Camarines Norte, Agta de Camarines-nord, "Agta, Camarines Norte", Camarines Norte]
 population: 150
 country_id: PH
 country_name: Philippines

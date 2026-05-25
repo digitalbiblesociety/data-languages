@@ -2,6 +2,7 @@
 iso: dia
 name: Dia
 autonym: Metru
+alt_names: [Alu, Galu, Sinagen]
 population: 1840
 country_id: PG
 country_name: Papua New Guinea

@@ -2,6 +2,7 @@
 iso: coq
 name: Coquille
 autonym: Tutudin
+alt_names: [Chasta Costa, Mishikhwutmetunee, Tutuni-Chasta Costa-Coquille, Tututni, Upper Coquille]
 population: null
 country_id: US
 country_name: United States

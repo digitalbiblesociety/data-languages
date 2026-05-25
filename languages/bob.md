@@ -1,7 +1,9 @@
 ---
 iso: bob
 name: Aweer
+name_zh: 阿维尔语
 autonym: Boni
+alt_names: ["\"Boni\"", Aloekoe, Aluku, Aweera, Bon, Ogoda, Sanye, Waata, Waboni, Wasanye, Wata, Wata-Bala]
 population: 8000
 country_id: KE
 country_name: Kenya

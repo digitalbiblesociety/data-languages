@@ -2,6 +2,7 @@
 iso: ikv
 name: "Iku-Gora-Ankwa"
 autonym: "Iku-Gora-Ankwa"
+alt_names: [Iku]
 population: 13000
 country_id: NG
 country_name: Nigeria

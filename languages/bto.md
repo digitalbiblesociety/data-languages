@@ -1,7 +1,9 @@
 ---
 iso: bto
 name: Rinconada Bikol
+name_zh: 林科納達語
 autonym: Rinconada
+alt_names: ["Bicolano, Iriga", Bikol, "Bikol, Rinconada", Rinconada Bicolano]
 population: 385000
 country_id: PH
 country_name: Philippines

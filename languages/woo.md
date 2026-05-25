@@ -2,6 +2,7 @@
 iso: woo
 name: Manombai
 autonym: Manobai
+alt_names: [Aru, Wamar, Wokam]
 population: 7480
 country_id: ID
 country_name: Indonesia

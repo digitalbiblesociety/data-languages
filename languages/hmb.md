@@ -2,6 +2,7 @@
 iso: hmb
 name: Humburi Senni Songhay
 autonym: Central Songai
+alt_names: [Hombori Songhay, Songai, Songay, Songay Senni, Songhai, Songhay, "Songhay, Humburi Senni", Songhoy, Songoi, Songoy, Sonrai, Sonrhai]
 population: 25000
 country_id: ML
 country_name: Mali

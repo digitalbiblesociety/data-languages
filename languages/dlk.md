@@ -1,7 +1,9 @@
 ---
 iso: dlk
 name: Dahalik
+name_zh: 達哈利克語
 autonym: Dahaalik
+alt_names: [Dahlak, Dahālík]
 population: 2500
 country_id: ER
 country_name: Eritrea

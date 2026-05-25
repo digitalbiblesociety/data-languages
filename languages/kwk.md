@@ -1,7 +1,9 @@
 ---
 iso: kwk
 name: Kwakiutl
+name_zh: 夸夸嘉夸語
 autonym: Kwagiutl
+alt_names: ["Kwak'wala", "Kwakw'ala", "Kwakwaka'wakw", Kwakwala, Kwak̓wala, Southern Kwakiutl, Квакиутль]
 population: 190
 country_id: CA
 country_name: Canada

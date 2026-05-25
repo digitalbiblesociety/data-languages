@@ -2,6 +2,7 @@
 iso: psq
 name: Pasi
 autonym: Besi
+alt_names: [Warasai, Yau]
 population: 360
 country_id: PG
 country_name: Papua New Guinea

@@ -2,6 +2,7 @@
 iso: mpr
 name: Vangunu
 autonym: null
+alt_names: [Lenga Vangunu, Solomon Islands]
 population: 399
 country_id: SB
 country_name: Solomon Islands

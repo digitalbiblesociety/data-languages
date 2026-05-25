@@ -2,6 +2,7 @@
 iso: gri
 name: Ghari
 autonym: Gari
+alt_names: [Guadalcanar, Sughu, Südliche Salomons-Inseln, Tangarare, West Guadalcanal]
 population: 12100
 country_id: SB
 country_name: Solomon Islands

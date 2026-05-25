@@ -2,6 +2,7 @@
 iso: lej
 name: Lengola
 autonym: Kilengola
+alt_names: [Lengora]
 population: 100000
 country_id: CD
 country_name: DR Congo

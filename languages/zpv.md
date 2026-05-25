@@ -2,6 +2,7 @@
 iso: zpv
 name: Chichicapan Zapotec
 autonym: (San Baltazar Chichicápam)
+alt_names: [Central Sapoteko, Central Valley Zapotec, Central Valley Zapotec dialect continuum, Eastern OcotlÃ¡n Zapotec, Ocotec, Quiatoni Zapotec, Tlacolula Valley Zapotec, Zapotec, "Zapotec, Chichicapan", Zapoteco de San Baltazar Chichicapan, Zapoteco de San Felipe Tejalápam, Zapotèque de San Felipe Tejalapan]
 population: 2720
 country_id: MX
 country_name: Mexico

@@ -2,6 +2,7 @@
 iso: kni
 name: Kanufi
 autonym: Anib
+alt_names: [Karshi]
 population: 10400
 country_id: NG
 country_name: Nigeria

@@ -1,6 +1,7 @@
 ---
 iso: grb
 name: Grebo
+name_zh: 格列博语
 autonym: null
 population: 562100
 country_id: LR

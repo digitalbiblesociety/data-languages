@@ -1,6 +1,7 @@
 ---
 iso: uzb
 name: Uzbek
+name_zh: 乌孜别克语
 autonym: Ўзбек тили
 population: 27000000
 country_id: UZ

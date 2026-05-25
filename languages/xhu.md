@@ -1,7 +1,9 @@
 ---
 iso: xhu
 name: Hurrian
+name_zh: 胡里安語
 autonym: null
+alt_names: [Hurijski jezik, Hurri dili, Hurritische Sprache, Hurritiska, Hurrittisk, Idioma hurrita, Język hurycki, Lingua Hurrica, Lingua urrita, Tiếng Hurria, Хурритский язык, زبان هوری, ภาษาฮูร์เรีย, ჰურიანული ენა, フルリ語, 후르리어]
 population: null
 country_id: SY
 country_name: Syria

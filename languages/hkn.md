@@ -1,6 +1,7 @@
 ---
 iso: hkn
 name: "Mel-Khaonh"
+name_zh: 梅勒-卡翁语
 autonym: null
 population: null
 country_id: KH

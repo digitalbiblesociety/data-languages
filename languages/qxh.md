@@ -2,6 +2,7 @@
 iso: qxh
 name: Panao Huánuco Quechua
 autonym: kichwa
+alt_names: [Alto Marañón, Alto Pativilca, Junin-Huanca, Junín, Pachitea Quechua, Panao Huanuco Quechua, "Quechua, Panao Huánuco", Tarma, Yaru]
 population: 28900
 country_id: PE
 country_name: Peru

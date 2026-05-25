@@ -2,6 +2,7 @@
 iso: duz
 name: "Duli-Gey"
 autonym: "Duli-Gewe"
+alt_names: [Dui, Duli]
 population: null
 country_id: CM
 country_name: Cameroon

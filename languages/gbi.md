@@ -2,6 +2,7 @@
 iso: gbi
 name: Galela
 autonym: bahasa Galela
+alt_names: [Indonesia]
 population: 79000
 country_id: ID
 country_name: Indonesia

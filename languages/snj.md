@@ -2,6 +2,7 @@
 iso: snj
 name: Riverain Sango
 autonym: yângâ tî sängö
+alt_names: ["Sango, Riverain"]
 population: 34500
 country_id: CF
 country_name: Central African Republic

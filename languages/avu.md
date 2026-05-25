@@ -2,6 +2,7 @@
 iso: avu
 name: Avokaya
 autonym: Abukeia
+alt_names: [Avokayeg, Avukaya, Авокајаски јазик]
 population: 99000
 country_id: SS
 country_name: South Sudan

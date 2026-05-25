@@ -2,6 +2,7 @@
 iso: oog
 name: Ong
 autonym: Ta Oi
+alt_names: [Hantong, "Hantong'", "Lower Ta'oih", Tong]
 population: 10300
 country_id: LA
 country_name: Laos

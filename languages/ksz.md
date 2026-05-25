@@ -2,6 +2,7 @@
 iso: ksz
 name: Kodaku
 autonym: Koraku
+alt_names: [Korku]
 population: 15700
 country_id: IN
 country_name: India

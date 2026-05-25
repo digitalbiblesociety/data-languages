@@ -2,6 +2,7 @@
 iso: kdj
 name: Karamojong
 autonym: Karimojong
+alt_names: [Karimonjong]
 population: 691000
 country_id: UG
 country_name: Uganda

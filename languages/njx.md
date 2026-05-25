@@ -2,6 +2,7 @@
 iso: njx
 name: Kunyi
 autonym: Kikunyi
+alt_names: [Kugni]
 population: 137000
 country_id: CG
 country_name: Congo

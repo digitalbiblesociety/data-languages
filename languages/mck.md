@@ -1,7 +1,9 @@
 ---
 iso: mck
 name: Mbunda
+name_zh: Mbunda語
 autonym: " Chimbúùnda"
+alt_names: [Chimbunda, Gimbunda, Kimbunda, Mbuunda]
 population: 218000
 country_id: AO
 country_name: Angola

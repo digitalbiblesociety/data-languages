@@ -2,6 +2,7 @@
 iso: xsq
 name: "Makhuwa-Saka"
 autonym: Emakuana
+alt_names: [Esaaka, Isaanga, Ishanga, Saaka, Saanga, Saka, Sanga]
 population: 432000
 country_id: MZ
 country_name: Mozambique

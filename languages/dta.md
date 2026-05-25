@@ -1,7 +1,9 @@
 ---
 iso: dta
 name: Daur
+name_zh: 达斡尔语
 autonym: Daguor
+alt_names: [Dagour (Amour), Dagour (Hailar), Dagour (Nonni), Dagour du Sinkiang, Dagur, Daguro de Xinjiang, Dahur, Dawar, "Dawo'er", Język dagurski, Tahuerh, Tahur, Tongusikonni, Yezhoù dagourek, Даурски јазик, Даурский язык, 达斡尔语, 達斡爾]
 population: 132000
 country_id: CN
 country_name: China

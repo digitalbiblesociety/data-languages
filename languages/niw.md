@@ -2,6 +2,7 @@
 iso: niw
 name: Nimo
 autonym: "Nimo-Wasawai"
+alt_names: [Birua, Nimo-Wasuai]
 population: 350
 country_id: PG
 country_name: Papua New Guinea

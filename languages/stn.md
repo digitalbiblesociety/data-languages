@@ -1,7 +1,9 @@
 ---
 iso: stn
 name: Owa
+name_zh: 欧瓦语
 autonym: Santa Ana
+alt_names: [Anganiwai, Anganiwei, Narihua, Südliche Salomons-Inseln, Wanoni]
 population: 8410
 country_id: SB
 country_name: Solomon Islands

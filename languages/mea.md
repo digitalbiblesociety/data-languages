@@ -2,6 +2,7 @@
 iso: mea
 name: Menka
 autonym: Mamwoh
+alt_names: [Wando Bando]
 population: 5200
 country_id: CM
 country_name: Cameroon

@@ -2,6 +2,7 @@
 iso: bqv
 name: Koro Wachi
 autonym: Tinɔr
+alt_names: [Agere, Begbere-Ejar, Koro, Koro Agwe, Koro Makama, Koro Myamya, Miamia, Miamiya]
 population: 106000
 country_id: NG
 country_name: Nigeria

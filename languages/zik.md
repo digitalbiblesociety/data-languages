@@ -2,6 +2,7 @@
 iso: zik
 name: Zimakani
 autonym: Baegwa
+alt_names: [Babwa, Bagwa Zimakani, Dea, Język zimakani, Village Z, Zimakaneg]
 population: 1500
 country_id: PG
 country_name: Papua New Guinea

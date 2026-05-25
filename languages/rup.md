@@ -1,7 +1,9 @@
 ---
 iso: rup
 name: "Macedo-Romanian"
+name_zh: 阿罗马尼亚语
 autonym: rrãmãneshti
+alt_names: [Armina, Armân, Armãneascã, Armãneashti, Armãneshce, Aroemeens, Aromaanish, Aroman-gí, Aromanian, Aromanian language, Aromanisk, Aromanès, Aromunian, Aromunische Sprache, Aromán nyelv, Aroumain, Aroumanek, Arrumano, Arumana lingvo, Arumanian, Arumaniera, Arumensk, Arumun, Arumuunsche Spraak, Arumänska, Idioma arrumán, Idioma arumano, Język arumuński, Limba armãneascã, Limba aromână, Lingua Aromanica, Lingua aromanesa, Lingua aromanian, Lingua arumena, Língua aromena, Macedo-Rumanian, Macedorrumanu, Machiduneashti, Makedorumunjski jezik, Other Roumanian Lects, "Romanian, Macedo", "Romanian, Macedo-", Rrămăneashti, Ulahça, Vlach, macédo-roumain, Βλάχικη γλώσσα, Арамунская мова, Арумынский язык, Влашки јазик, ภาษาอะโรมาเนียน, アルーマニア語, 아로마니아어]
 population: 191000
 country_id: GR
 country_name: Greece

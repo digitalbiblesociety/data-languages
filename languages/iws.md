@@ -2,6 +2,7 @@
 iso: iws
 name: Sepik Iwam
 autonym: Yawenian
+alt_names: ["Iwam, Sepik"]
 population: 2500
 country_id: PG
 country_name: Papua New Guinea

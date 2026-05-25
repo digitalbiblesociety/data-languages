@@ -1,7 +1,9 @@
 ---
 iso: sad
 name: Sandawe
+name_zh: 桑达韦语
 autonym: Sandaweeki
+alt_names: [Idioma sandavés, Kisandawe, Lengua Sandawe, Lingua Sandawe, Língua sandawe, Sandaui, Sandavés, Sandawe jezik, Sandawi, Sandwe, Сандаве]
 population: 60000
 country_id: TZ
 country_name: Tanzania

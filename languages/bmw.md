@@ -2,6 +2,7 @@
 iso: bmw
 name: Bomwali
 autonym: Bomali
+alt_names: [Boumoali, Bumali, Lino, Sangasanga]
 population: 55100
 country_id: CG
 country_name: Congo

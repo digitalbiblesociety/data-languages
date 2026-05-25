@@ -2,6 +2,7 @@
 iso: bxq
 name: Beele
 autonym: Àɓéelé
+alt_names: [Bele, Bellawa, Àbéélé]
 population: 120
 country_id: NG
 country_name: Nigeria

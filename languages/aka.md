@@ -1,7 +1,9 @@
 ---
 iso: aka
 name: Akan
+name_zh: 阿肯语
 autonym: Akan
+alt_names: [Asante, Fante, Fante Akan, Fanti, Mfantse, Odschi, Otyi, Tuic, Twi, Tšwi]
 population: 8327000
 country_id: GH
 country_name: Ghana

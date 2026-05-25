@@ -2,6 +2,7 @@
 iso: wsu
 name: Wasu
 autonym: Waçu
+alt_names: [Wassú]
 population: null
 country_id: BR
 country_name: Brazil

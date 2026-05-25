@@ -1,6 +1,7 @@
 ---
 iso: zkz
 name: Khazar
+name_zh: 可薩語
 autonym: null
 population: null
 country_id: RU

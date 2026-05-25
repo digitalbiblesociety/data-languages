@@ -1,7 +1,9 @@
 ---
 iso: czh
 name: Huizhou Chinese
+name_zh: 徽语
 autonym: 徽州話 / 徽州话
+alt_names: ["Chinese, Huizhou", "Chinese,Huizhou", Hui, Hui-Dialekt, Huizhou, Sinaeg Huizhou, 徽州話, 徽語, 徽语]
 population: 5380000
 country_id: CN
 country_name: China

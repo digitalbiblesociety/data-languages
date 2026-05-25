@@ -1,7 +1,9 @@
 ---
 iso: tsj
 name: Tshangla
+name_zh: 仓洛语
 autonym: Sharchop
+alt_names: [Canglo Monba, Cangluo Menba, Cangluo Monpa, Central Monpa, Changla, Lenga Tshangla, Lingua Tsangla, Lingua tshangla, Menba, Menba de Motuo, Monpa, Monpa (Central), Motuo Monba, Motuo Monpa, Sangla, Sarchapkkha, Shachobiikha, Shachopkha, Sharchagpakha, Sharchhopkha, Sharchopka, Tchanglaeg, Tsangla, Tsanglo, Tshanglaish, 仓洛语]
 population: 181200
 country_id: BT
 country_name: Bhutan

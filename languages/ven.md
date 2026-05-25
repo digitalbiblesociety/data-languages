@@ -1,7 +1,9 @@
 ---
 iso: ven
 name: Venda
+name_zh: 文达语
 autonym: Tshivenḓa
+alt_names: [Cevenda, Chivenda, Gjuha venda, Idioma venda, Język venda, Lingua venda, Língua venda, Tshivenda, Vendan kieli, Vendeg, Vendum, Венда, Вэндзкая мова, ヴェンダ語]
 population: 1301400
 country_id: ZA
 country_name: South Africa

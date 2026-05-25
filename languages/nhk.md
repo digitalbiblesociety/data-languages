@@ -2,6 +2,7 @@
 iso: nhk
 name: "Isthmus-Cosoleacaque Nahuatl"
 autonym: "mela'tájto̲l"
+alt_names: [Cosoleacaque Aztec, Isthmus, Mexicano, Nahua de Tabasco, Nahuatl, "Nahuatl, Isthmus-Cosoleacaque", Náhuatl de Tabasco, "Náhuatl de l'Isthme", Náhuatl del Istmo-Cosoleacaque]
 population: 5140
 country_id: MX
 country_name: Mexico

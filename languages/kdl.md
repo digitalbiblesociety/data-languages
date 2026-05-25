@@ -2,6 +2,7 @@
 iso: kdl
 name: Tsikimba
 autonym: Tsikimba
+alt_names: [Agaushi, Akimba, Auna, Kambari, Kamberchi, Kamberri, Kimba]
 population: 100000
 country_id: NG
 country_name: Nigeria

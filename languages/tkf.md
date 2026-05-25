@@ -1,7 +1,9 @@
 ---
 iso: tkf
 name: Tukumanféd
+name_zh: 卡瓦系瓦語
 autonym: Kawahib
+alt_names: [Diahoi, Diahói, Diarroi, Djahui, Jiahui, Juma, Karipuna, Kawahib/Paranawat/Pawaté-Wirafed, Parintintín, Parintintín/Tenharim/Juma, Tenharim, Tenharím, Tukumanfed, Uru-eu-uau-uau, Yuma]
 population: null
 country_id: BR
 country_name: Brazil

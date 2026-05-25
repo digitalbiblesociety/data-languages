@@ -1,7 +1,9 @@
 ---
 iso: hea
 name: Northern Qiandong Miao
+name_zh: 北部土语
 autonym: Qiandong Miao
+alt_names: [Black Miao, Central Miao, Chientung Miao, East Guizhou Miao, East-Guizhou Miao, Heh Miao, Hei, Hei Miao, "Hmong, Northern Qiandong", Hmu, Miao, "Miao, Northern Qiandong", Northern, Northern East-Guizhou Miao]
 population: 1250000
 country_id: CN
 country_name: China

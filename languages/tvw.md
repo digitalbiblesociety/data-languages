@@ -2,6 +2,7 @@
 iso: tvw
 name: Sedoa
 autonym: Tawailia
+alt_names: [Tawaelia]
 population: 600
 country_id: ID
 country_name: Indonesia

@@ -2,6 +2,7 @@
 iso: hav
 name: Havu
 autonym: Kihavu
+alt_names: [Haavu]
 population: 506000
 country_id: CD
 country_name: DR Congo

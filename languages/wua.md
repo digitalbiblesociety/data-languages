@@ -2,6 +2,7 @@
 iso: wua
 name: Wikngenchera
 autonym: "Wik-Muminh"
+alt_names: [KUGU NGANHCARA, Kugu Nganchara, Kugu Nganychara, Kugu-Nganhcara, Kugu/Wik Nganhcara, Mimungkum, Nantjara, Ngandjara, Ngantjeri, Wik, Wik Epa, Wik Kalkan, Wik Meanha, Wik Mungkana, Wik Natjerra, Wik Ngandjara, Wik Nganhcara, Wik Ngantjera, Wik Nganychara, Wik Ngathara, Wik Ngencherr, Wik Ngencherra, Wik Njinturawik-Nganhcara, Wik Ompom, Wik nantjara, Wik-Nantjara, Wik-Natjerra, Wik-Ngencherra, Wik-ngenchera, Wikampama, Wikatinda, Wikepa, Wikmean, Wiknantjara, Wiknantyara, Wiknatanja]
 population: 30
 country_id: AU
 country_name: Australia

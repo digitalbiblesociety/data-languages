@@ -1,7 +1,9 @@
 ---
 iso: omr
 name: Old Marathi
+name_zh: 上古馬拉地語
 autonym: "मराठी, 𑘦𑘨𑘰𑘙𑘲 ()"
+alt_names: ["Marathi, Old"]
 population: null
 country_id: IN
 country_name: India

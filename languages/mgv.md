@@ -2,6 +2,7 @@
 iso: mgv
 name: Matengo
 autonym: Chimatengo
+alt_names: [Kimatengo]
 population: 271000
 country_id: TZ
 country_name: Tanzania

@@ -1,7 +1,9 @@
 ---
 iso: ngn
 name: Ngwo
+name_zh: 恩沃语
 autonym: Ngwɔ
+alt_names: [Ngwaw]
 population: 22000
 country_id: CM
 country_name: Cameroon

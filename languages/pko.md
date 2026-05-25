@@ -2,6 +2,7 @@
 iso: pko
 name: Pökoot
 autonym: Pakot
+alt_names: [Lenga Pökoot, Peukouteg, Pokoot, Pokot, Pökot, Suk]
 population: 883000
 country_id: KE
 country_name: Kenya

@@ -2,6 +2,7 @@
 iso: fpe
 name: Fernando Po Creole English
 autonym: Fernando Po Creole English
+alt_names: ["Creole English, Fernando Po"]
 population: 6000
 country_id: GQ
 country_name: Equatorial Guinea

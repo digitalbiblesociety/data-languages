@@ -1,7 +1,9 @@
 ---
 iso: ptq
 name: Pattapu
+name_zh: "Category:帕塔普語"
 autonym: పట్టపు
+alt_names: [Pattapu Bhasha]
 population: 200000
 country_id: IN
 country_name: India

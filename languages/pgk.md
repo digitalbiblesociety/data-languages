@@ -1,7 +1,9 @@
 ---
 iso: pgk
 name: Rerep
+name_zh: 瑞瑞普语
 autonym: Pangkumu
+alt_names: [Mallicolo, Pangkumu Bay, Tisman]
 population: 380
 country_id: VU
 country_name: Vanuatu

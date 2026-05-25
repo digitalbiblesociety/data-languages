@@ -2,6 +2,7 @@
 iso: cin
 name: Cinta Larga
 autonym: null
+alt_names: [Aruá, Cinta-larga, Gavião, Gavião du Rondônia, Zoró]
 population: 1300
 country_id: BR
 country_name: Brazil

@@ -2,6 +2,7 @@
 iso: gma
 name: Gambera
 autonym: Worrorran
+alt_names: [Barurungari, Gaambera, Gambere, Gamberre, Gambre, Gamgre, Guwan, Kambera, Kamberange, Kambre, Kambumiri, Kambure, Kanbre, Kularri/Gularri south westerners, Northern Language, Purungari]
 population: null
 country_id: AU
 country_name: Australia

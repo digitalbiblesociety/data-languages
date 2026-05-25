@@ -2,6 +2,7 @@
 iso: kvo
 name: Dobel
 autonym: Kobro’or
+alt_names: [Aru, Doibel, "Kobro'or", Kobroor, Sersifar Tannin]
 population: 1000
 country_id: ID
 country_name: Indonesia

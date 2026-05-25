@@ -1,6 +1,7 @@
 ---
 iso: xli
 name: Liburnian
+name_zh: 利布爾尼安語
 autonym: null
 population: null
 country_id: HR

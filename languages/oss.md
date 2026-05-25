@@ -1,7 +1,9 @@
 ---
 iso: oss
 name: Ossetian
+name_zh: 依隆奧塞提亞語
 autonym: ирон ӕвзаг
+alt_names: [Iron, Iron Ossetian, Iron Ossetic, "Ossetian, Iron", Ossetic, "Ossetic, Iron"]
 population: 601450
 country_id: RU
 country_name: Russia

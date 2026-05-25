@@ -2,6 +2,7 @@
 iso: bxl
 name: Jalkunan
 autonym: Blé
+alt_names: [Dyala, Dyalanu, Jalakuna, Jalkuna, Jelkuna]
 population: 1000
 country_id: BF
 country_name: Burkina Faso

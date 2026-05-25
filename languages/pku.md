@@ -2,6 +2,7 @@
 iso: pku
 name: Paku
 autonym: Bakau
+alt_names: [Indonesia]
 population: 3500
 country_id: ID
 country_name: Indonesia

@@ -2,6 +2,7 @@
 iso: zmp
 name: Mpuono
 autonym: Mpuun
+alt_names: [Democratic Republic of the Congo, Mbuun]
 population: 165000
 country_id: CD
 country_name: DR Congo

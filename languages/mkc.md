@@ -2,6 +2,7 @@
 iso: mkc
 name: Siliput
 autonym: Maimai
+alt_names: [Mai, Seleput, Sokorok]
 population: 242
 country_id: PG
 country_name: Papua New Guinea

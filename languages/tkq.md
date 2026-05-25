@@ -2,6 +2,7 @@
 iso: tkq
 name: Tee
 autonym: Tai
+alt_names: [Kana, Khana]
 population: 425000
 country_id: NG
 country_name: Nigeria

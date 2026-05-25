@@ -1,7 +1,9 @@
 ---
 iso: raw
 name: Rawang
+name_zh: 侬日旺语
 autonym: " Rvwang"
+alt_names: ["Ch'opa", Chiutse, Ganung-Rawang, Hkanung, Kanung, Kiutze, Krangku, Lungmi, Nu-tzŭ, Numg, Nung, Nung Rawang, Qiuze, Rawang (Mixed), Taron, Zithung]
 population: 63000
 country_id: MM
 country_name: Myanmar

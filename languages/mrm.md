@@ -2,6 +2,7 @@
 iso: mrm
 name: Merlav
 autonym: Merelava
+alt_names: [Banks-Inseln, Merlav-Merig, Mwerlap]
 population: 1550
 country_id: VU
 country_name: Vanuatu

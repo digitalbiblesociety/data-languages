@@ -1,7 +1,9 @@
 ---
 iso: xxk
 name: "Ke'o"
+name_zh: 奇爾語
 autonym: "Nage-Keo"
+alt_names: [Keo]
 population: 40000
 country_id: ID
 country_name: Indonesia

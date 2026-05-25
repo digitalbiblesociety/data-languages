@@ -2,6 +2,7 @@
 iso: mzg
 name: Monastic Sign Language
 autonym: null
+alt_names: [Vatican State]
 population: null
 country_id: ZZ
 country_name: Unknown or Invalid Territory

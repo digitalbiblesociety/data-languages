@@ -2,6 +2,7 @@
 iso: zns
 name: Mangas
 autonym: Pyik Mantsi
+alt_names: [Nigeria]
 population: 100
 country_id: NG
 country_name: Nigeria

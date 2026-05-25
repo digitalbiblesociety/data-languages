@@ -1,7 +1,9 @@
 ---
 iso: kir
 name: Kirghiz
+name_zh: 柯尔克孜语
 autonym: " قىرعىز تئلى"
+alt_names: [Bahasa Kirgiz, Fu-Yu Kirghiz, Fu-Yu Kyrgyz, Idioma kirguís, Język kirgiski, Kara, Kara-Kirgiz, "Ke'erkez", Kirg(h)iz, Kirghiz (Fu-Yu), Kirghizi, Kirgiisi keel, Kirgiisin kieli, Kirgisische Sprache, Kirgisischen, Kirgisisk, Kirgiski jezik, Kirgiz, Kirgiza lingvo, Kirgizeg, Kirgizera, Kirgizisch, Kirgiziska, Kirgizysk, Kirgizština, Kirgizų kalba, Kirgiški jezik, Kirkis simi, Kyrgyz, Kyrgyz language, Kyrgyzština, Kırgızca, Limba kârgâză, Lingua kirghiza, Língua quirguiz, Qazaqisch, Qyrghyz, Qırğız dili, Qırğız tili, Takirgizit, Забони қирғизӣ, Кăркăс чĕлхи, Киргизки език, Киргизский язык, Киргизька мова, Киргиски јазик, Киргиски језик, Кыргыз тили, Кыргыз тыла, Кыргыз хэл, קירגיזית, زبان قرقیزی, قىرغىز تىلى, لغة قرغيزية, किर्गिज़ भाषा, किर्गिझ भाषा, ภาษาคีร์กีซ, ყირგიზული ენა, キルギス語, 柯爾克孜語, 키르기스어]
 population: 118000
 country_id: KG
 country_name: Kyrgyzstan

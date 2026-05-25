@@ -1,7 +1,9 @@
 ---
 iso: pro
 name: Old Provençal (to 1500)
+name_zh: 古奥克语
 autonym: Proensals
+alt_names: [Ancien occitan, Antico occitano, Occitan ancian, "Occitan, Old (to 1500)", Old Occitan, Old Occitan (to 1500), Old Occitanian, Old Provençal, "Provençal, Old (to 1500)", "provençal ancien (jusqu'à 1500)"]
 population: null
 country_id: FR
 country_name: France

@@ -1,7 +1,9 @@
 ---
 iso: tce
 name: Southern Tutchone
+name_zh: 南塔穹语
 autonym: Dän kʼè / Dän kʼí
+alt_names: [Dákwänjē, Dän kʼè, Dän kʼè (Southern Tutchone), Dän kʼè Kwänje, Southern, Tuchone, Tutchone, Tutchone du sud, Tutchone meridional, "Tutchone, Southern"]
 population: 1400
 country_id: CA
 country_name: Canada

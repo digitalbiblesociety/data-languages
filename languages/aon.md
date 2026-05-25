@@ -2,6 +2,7 @@
 iso: aon
 name: Bumbita Arapesh
 autonym: Arapesh
+alt_names: ["Arapesh, Bumbita", Arapeso bumbita, Bambita Arapesh, Bumbita, But Arapesh, Weri]
 population: 4340
 country_id: PG
 country_name: Papua New Guinea

@@ -2,6 +2,7 @@
 iso: zia
 name: Zia
 autonym: null
+alt_names: [Lenga Zia, Lower Waria, Mawae, Tsia, Ziya]
 population: 6550
 country_id: PG
 country_name: Papua New Guinea

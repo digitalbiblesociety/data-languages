@@ -1,7 +1,9 @@
 ---
 iso: spv
 name: Sambalpuri
+name_zh: 桑巴尔普里语
 autonym: Dom
+alt_names: [Kosli]
 population: 2630000
 country_id: IN
 country_name: India

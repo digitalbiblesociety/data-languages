@@ -2,6 +2,7 @@
 iso: pbl
 name: Mak (Nigeria)
 autonym: LeeMak
+alt_names: [Lemak, Mak, Panya, Panyam, Zo]
 population: 5690
 country_id: NG
 country_name: Nigeria

@@ -1,7 +1,9 @@
 ---
 iso: dox
 name: Bussa
+name_zh: 畢沙語
 autonym: Mossiya
+alt_names: [Busa, Bussa hizkuntza, "D'oopace", "D'opaasunte", Dobase, Gobeze, Goraze, Gowase, Gowaze, Lohu, Mashelle, Mashile, Masholle, Mosiye, Mossittaata, Mossiye, Musiye, Muusiye, North Bussa, Orase]
 population: 4955
 country_id: ET
 country_name: Ethiopia

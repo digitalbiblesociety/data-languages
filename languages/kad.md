@@ -2,6 +2,7 @@
 iso: kad
 name: Adara
 autonym: Eda
+alt_names: [Kadara]
 population: 300000
 country_id: NG
 country_name: Nigeria

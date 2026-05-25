@@ -1,7 +1,9 @@
 ---
 iso: nrm
 name: Narom
+name_zh: 纳洛姆语
 autonym: Bhasa Narom
+alt_names: [Narum]
 population: 2420
 country_id: MY
 country_name: Malaysia

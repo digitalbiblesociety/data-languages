@@ -2,6 +2,7 @@
 iso: jng
 name: Yangman
 autonym: Yangmanic
+alt_names: [Dagoman, Jangman, Jongman, Jungman, Yung munni, Yungman, Yungmanni, Yungmun, Yungmunee, Yungmunnee, Yungmunni]
 population: null
 country_id: AU
 country_name: Australia

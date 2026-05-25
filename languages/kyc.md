@@ -2,6 +2,7 @@
 iso: kyc
 name: Kyaka
 autonym: null
+alt_names: [Baiyer, Enga, Enga (Kyaka), Enga-Kyaka, Kyaka Enga]
 population: 12000
 country_id: PG
 country_name: Papua New Guinea

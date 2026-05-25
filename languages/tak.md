@@ -2,6 +2,7 @@
 iso: tak
 name: Tala
 autonym: null
+alt_names: [Gurdu-mbaaru, Gurdung, Guruntum, Guruntum-Mbaaru]
 population: 1000
 country_id: NG
 country_name: Nigeria

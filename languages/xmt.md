@@ -2,6 +2,7 @@
 iso: xmt
 name: Matbat
 autonym: Misool
+alt_names: [Me]
 population: 1250
 country_id: ID
 country_name: Indonesia

@@ -2,6 +2,7 @@
 iso: njb
 name: Nocte Naga
 autonym: Borduria
+alt_names: [Jaipuria, Mohongia, Naga, "Naga, Nocte", "Naga,Nocte", Namsang, Namsangia, Nocte, Nokte, Paniduria]
 population: 30800
 country_id: IN
 country_name: India

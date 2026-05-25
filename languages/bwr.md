@@ -1,7 +1,9 @@
 ---
 iso: bwr
 name: "Bura-Pabir"
+name_zh: 布拉语
 autonym: "Bura-Pabir"
+alt_names: [Babir, Babur, Barburr, Bouraeg-pabireg, Bourrah, Bura, Burra, Huve, Huviya, Kwojeffa, Mya Bura, Pabir, Бура]
 population: 482000
 country_id: NG
 country_name: Nigeria

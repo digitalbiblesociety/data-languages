@@ -2,6 +2,7 @@
 iso: kia
 name: Kim
 autonym: Kim (Garab)
+alt_names: [Group 14, Kosop, Kuasap, Kwasap, Masa]
 population: 15400
 country_id: TD
 country_name: Chad

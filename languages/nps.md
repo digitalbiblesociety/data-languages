@@ -2,6 +2,7 @@
 iso: nps
 name: Nipsan
 autonym: Southern Jale
+alt_names: [Yale-Nipsan, Yali]
 population: 2500
 country_id: ID
 country_name: Indonesia

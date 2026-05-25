@@ -1,7 +1,9 @@
 ---
 iso: mrc
 name: Maricopa
+name_zh: 馬里科帕語
 autonym: Piipaash chuukwer / Xalychidoma chuukwer
+alt_names: [Cocomaricopa, Pee Posh, Piipaash, Piipash]
 population: 160
 country_id: US
 country_name: United States

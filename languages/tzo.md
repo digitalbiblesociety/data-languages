@@ -1,7 +1,9 @@
 ---
 iso: tzo
 name: Tzotzil
+name_zh: 索西语
 autonym: Batsʼi kʼop
+alt_names: ["B'atz'i k'op", Cocila Lingvo, Idioma tzotzil, Língua tsotsil, San Bartolomé Venustiano Carranza Tzotzil, "Ts'ots'il", Tsotsil simi, Tzotzil (San Andres Larrainzar), Tzotzil (San Andrés), Tzotzil (Zinacantán), "Tzotzil, Venustiano Carranza", Tzotzilština, Цоцилски јазик]
 population: 488000
 country_id: MX
 country_name: Mexico

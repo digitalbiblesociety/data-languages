@@ -2,6 +2,7 @@
 iso: mat
 name: San Francisco Matlatzinca
 autonym: "pjiekak'joo"
+alt_names: [Atzinca, "Bot'una", Matlatzinca, Matlatzinca de San Francisco de los Ranchos, "Matlatzinca, San Francisco", Matlatzinkan, Matlazinca, Ocuiltec, Ocuilteco, Pirinda]
 population: 1167
 country_id: MX
 country_name: Mexico

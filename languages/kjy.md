@@ -2,6 +2,7 @@
 iso: kjy
 name: Erave
 autonym: Kewa South
+alt_names: [Pole, South Kewa, Southern Kewa]
 population: 10000
 country_id: PG
 country_name: Papua New Guinea

@@ -1,7 +1,9 @@
 ---
 iso: bom
 name: Berom
+name_zh: 比罗姆语
 autonym: Birom
+alt_names: ["\"Shosho\"", Aboro, Afango, Beromeg, Berons, Berum, Boro, Boro-Aboro, Cen Berom, Chenberom, Gbang, Kibbo, Kibbun, Kibo, Kibyen]
 population: 1250000
 country_id: NG
 country_name: Nigeria

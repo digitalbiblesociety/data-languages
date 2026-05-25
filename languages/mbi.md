@@ -2,6 +2,7 @@
 iso: mbi
 name: Ilianen Manobo
 autonym: Ilianen Manobo
+alt_names: [Ilianen, "Manobo, Ilianen"]
 population: 14600
 country_id: PH
 country_name: Philippines

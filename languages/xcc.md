@@ -1,7 +1,9 @@
 ---
 iso: xcc
 name: Camunic
+name_zh: 卡莫尼语
 autonym: null
+alt_names: [Camuni]
 population: null
 country_id: IT
 country_name: Italy

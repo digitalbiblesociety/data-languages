@@ -1,7 +1,9 @@
 ---
 iso: ndm
 name: Ndam
+name_zh: 恩丹語
 autonym: Dam
+alt_names: [Gulei, Ndamm]
 population: 6500
 country_id: TD
 country_name: Chad

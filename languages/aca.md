@@ -2,6 +2,7 @@
 iso: aca
 name: Achagua
 autonym: Achawa
+alt_names: [Achugua, Ajagua, Xagua]
 population: 250
 country_id: CO
 country_name: Colombia

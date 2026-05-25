@@ -2,6 +2,7 @@
 iso: amo
 name: Amo
 autonym: Amo
+alt_names: [Amap, Amon, Among, Ba, Timap]
 population: 12300
 country_id: NG
 country_name: Nigeria

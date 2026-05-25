@@ -2,6 +2,7 @@
 iso: keq
 name: Kamar
 autonym: null
+alt_names: [India]
 population: 40000
 country_id: IN
 country_name: India

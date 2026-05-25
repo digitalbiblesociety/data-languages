@@ -2,6 +2,7 @@
 iso: khz
 name: Keapara
 autonym: Kalo (Keapara)
+alt_names: [Keopara, Kerepunu]
 population: 19400
 country_id: PG
 country_name: Papua New Guinea

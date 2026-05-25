@@ -2,6 +2,7 @@
 iso: yix
 name: Axi Yi
 autonym: Axipo
+alt_names: [Ahi, Axi, Axibo, Lolo, Yi, "Yi, Axi"]
 population: 170000
 country_id: CN
 country_name: China

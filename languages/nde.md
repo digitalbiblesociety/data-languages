@@ -1,7 +1,9 @@
 ---
 iso: nde
 name: North Ndebele
+name_zh: 北恩德贝莱语
 autonym: Zimbabwe Ndebele
+alt_names: [Idioma ndebele del norte, IsiNdebele, "Isinde'bele", Język ndebele północny, Língua ndebele do norte, Ndebele, "Ndebele, North", Noord-Ndebele, Norda Ndebela lingvo, Nordndebele, Northern Ndebele, Northern Ndebele language, Sindebele, Tabele, Tebele, ndébélé du Nord, 北ンデベレ語]
 population: 1642000
 country_id: ZW
 country_name: Zimbabwe

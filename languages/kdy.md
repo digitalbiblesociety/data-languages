@@ -2,6 +2,7 @@
 iso: kdy
 name: Keder
 autonym: Keder
+alt_names: [Keijar]
 population: 370
 country_id: ID
 country_name: Indonesia

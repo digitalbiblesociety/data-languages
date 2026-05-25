@@ -2,6 +2,7 @@
 iso: ayi
 name: Leyigha
 autonym: Leyigha
+alt_names: [Asiga, Assiga, Ayiga, Ayigha, Yigha]
 population: 10000
 country_id: NG
 country_name: Nigeria

@@ -2,6 +2,7 @@
 iso: xkn
 name: Kayan River Kayan
 autonym: Kajan
+alt_names: [Kajang, Kayan River Kajan, "Kayan, Kayan River"]
 population: 2000
 country_id: ID
 country_name: Indonesia

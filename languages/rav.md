@@ -2,6 +2,7 @@
 iso: rav
 name: Sampang
 autonym: Sampang Gun
+alt_names: [Jindā, Rai, Sampange Rai, Sampangish, Sangpang, Sangpang Gun, Sangpang Gîn, Sangpang Kha]
 population: 18300
 country_id: NP
 country_name: Nepal

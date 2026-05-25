@@ -1,7 +1,9 @@
 ---
 iso: wgo
 name: Waigeo
+name_zh: 卫吉语
 autonym: Waigeo
+alt_names: [Ambel, Amber, Amberi, Waigiu]
 population: 300
 country_id: ID
 country_name: Indonesia

@@ -1,6 +1,7 @@
 ---
 iso: yms
 name: Mysian
+name_zh: 密细亚语
 autonym: null
 population: null
 country_id: TR

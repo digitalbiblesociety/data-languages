@@ -2,6 +2,7 @@
 iso: nlo
 name: Ngul
 autonym: Di
+alt_names: [Ingul, Ngoli, Nguli, Ngulu]
 population: 8400
 country_id: CD
 country_name: DR Congo

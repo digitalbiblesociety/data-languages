@@ -2,6 +2,7 @@
 iso: aot
 name: Atong (India)
 autonym: A.tong
+alt_names: ["A'Tong language", "A'tong", Atong, A’tong, "Lingua A'Tong"]
 population: 10000
 country_id: IN
 country_name: India

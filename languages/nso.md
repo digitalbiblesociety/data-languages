@@ -1,7 +1,9 @@
 ---
 iso: nso
 name: Pedi
+name_zh: 北索托語
 autonym: Pedi
+alt_names: [Bahasa Sepedi, Gjuha sotho, Język północny sotho, Lingua sesotho del nord, Noord-Sotho, Nord-Sotho, Nordi Sutum, Nordlig sotho, Northern, Northern Sotho, Northern Sotho language, Peda lingvo, Pohjoissothon kieli, SeSotho do norte, Sepedi, Sesotho sa leboa, Sotho, Sotho (North), Sotho (Northern), Sotho du Nord, "Sotho, Northern", Sothoeg an norzh, Transvaal Sotho, Šiaurės Soto kalba, Северный сото, 北ソト語]
 population: 4631000
 country_id: ZA
 country_name: South Africa

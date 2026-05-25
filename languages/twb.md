@@ -2,6 +2,7 @@
 iso: twb
 name: Western Tawbuid
 autonym: Batangan Taubuid
+alt_names: [Fanawbuid, "Tawbuid, Western", Western Taubuid]
 population: 6810
 country_id: PH
 country_name: Philippines

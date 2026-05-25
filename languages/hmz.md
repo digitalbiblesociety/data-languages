@@ -1,7 +1,9 @@
 ---
 iso: hmz
 name: Hmong Shua
+name_zh: 汉苗语
 autonym: lus Hmoob / lug Moob / lol Hmongb
+alt_names: [Hmo, Hmong, Hmung, Hsiung, Hunan Miao, Miao, "Miao, Sinicized", Sinicized Miao]
 population: 252000
 country_id: CN
 country_name: China

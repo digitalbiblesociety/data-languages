@@ -2,6 +2,7 @@
 iso: wlu
 name: Wuliwuli
 autonym: "Wuli Wuli, Wulli Wulli"
+alt_names: [Wilili, Wililililee, Willillee, Wuli Wuli, Wuli-wuli, Wulili, Wulilli, Wulli Wulli]
 population: null
 country_id: AU
 country_name: Australia

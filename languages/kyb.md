@@ -2,6 +2,7 @@
 iso: kyb
 name: Butbut Kalinga
 autonym: Butbut
+alt_names: ["Kalinga, Butbut"]
 population: 8000
 country_id: PH
 country_name: Philippines

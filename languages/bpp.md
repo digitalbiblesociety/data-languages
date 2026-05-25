@@ -2,6 +2,7 @@
 iso: bpp
 name: Kaure
 autonym: Kaureh
+alt_names: [Kaure Proper, Kaurne]
 population: 450
 country_id: ID
 country_name: Indonesia

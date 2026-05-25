@@ -1,7 +1,9 @@
 ---
 iso: gez
 name: Geez
+name_zh: 格厄茲語
 autonym: ግዕዝ Gəʿəz
+alt_names: [Ancient Ethiopic, "Bahasa Ge'ez", Ethiopic, "Ge'ez", "Ge'ez language", "Ge`ez", Geeza lingvo, Geuzeg, Gezo kalba, "Gi'iz", Giiz, Giz, Gueez, Guiés, Guèze, Język gyyz, "Limba gî'îz", Lingua Aethiopica, "Língua ge'ez", Геез, Гез јазик, Геэз, געז, جعزى, زبان گعز, لغة جعزية, ግዕዝ, ゲエズ語, 吉茲語, 그으즈어]
 population: null
 country_id: ET
 country_name: Ethiopia

@@ -2,6 +2,7 @@
 iso: msw
 name: Mansoanka
 autonym: Mansoanka
+alt_names: [Kunant, Kunante, Mansoanca, Maswanka, Sua]
 population: 20730
 country_id: GW
 country_name: "Guinea-Bissau"

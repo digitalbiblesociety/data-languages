@@ -2,6 +2,7 @@
 iso: ham
 name: Hewa
 autonym: Sisimin
+alt_names: [Umairof, Yoliapi]
 population: 1600
 country_id: PG
 country_name: Papua New Guinea

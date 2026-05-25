@@ -2,6 +2,7 @@
 iso: wss
 name: Wasa
 autonym: Akan
+alt_names: [Wasaw, Wassa]
 population: 273000
 country_id: GH
 country_name: Ghana

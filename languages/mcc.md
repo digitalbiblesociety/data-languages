@@ -2,6 +2,7 @@
 iso: mcc
 name: Bitur
 autonym: Mutum
+alt_names: [Bituri, Dudi, Paswam, Paswarn]
 population: 860
 country_id: PG
 country_name: Papua New Guinea

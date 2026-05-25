@@ -2,6 +2,7 @@
 iso: kvq
 name: Geba Karen
 autonym: Daneh
+alt_names: [Brè, Bwe, Eastern Bwe, Geba, Gebo, Kaba, "Karen, Geba", "Karen,Geba", Karenbyu, Kayinbyu, White Karen]
 population: 10000
 country_id: MM
 country_name: Myanmar

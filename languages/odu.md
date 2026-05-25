@@ -2,6 +2,7 @@
 iso: odu
 name: Odual
 autonym: Saka
+alt_names: [Odual language]
 population: 18000
 country_id: NG
 country_name: Nigeria

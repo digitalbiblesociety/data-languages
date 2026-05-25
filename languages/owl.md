@@ -1,7 +1,9 @@
 ---
 iso: owl
 name: Old Welsh
+name_zh: 古威尔士语
 autonym: null
+alt_names: ["Welsh, Old"]
 population: null
 country_id: GB
 country_name: United Kingdom

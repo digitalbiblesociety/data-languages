@@ -2,6 +2,7 @@
 iso: gai
 name: Borei
 autonym: Gamei
+alt_names: [Gamai, Gamay, Mbore, Mborei]
 population: 2090
 country_id: PG
 country_name: Papua New Guinea

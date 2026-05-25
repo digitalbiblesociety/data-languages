@@ -2,6 +2,7 @@
 iso: bkk
 name: Brokskat
 autonym: Brokpa
+alt_names: [Brok-skad, Brokpa of Dah-Hanu, Broskatí, Dardu, Dokskat, Hanu, Kyango, Shina]
 population: 10000
 country_id: IN
 country_name: India

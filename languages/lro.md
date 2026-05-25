@@ -2,6 +2,7 @@
 iso: lro
 name: Laro
 autonym: Laru
+alt_names: [Aaleira, Ngwullaro, Yillaro]
 population: 40000
 country_id: SD
 country_name: Sudan

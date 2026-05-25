@@ -1,7 +1,9 @@
 ---
 iso: azg
 name: San Pedro Amuzgos Amuzgo
+name_zh: 聖彼德羅阿穆茲戈語
 autonym: Amuzgoan
+alt_names: [Amusgo, Amuzgo, Amuzgo de San Pedro Amuzgos, "Amuzgo, San Pedro Amuzgos", Azmugo, Oaxaca Amuzgo]
 population: 5200
 country_id: MX
 country_name: Mexico

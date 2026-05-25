@@ -2,6 +2,7 @@
 iso: ulu
 name: "Uma' Lung"
 autonym: Oma Longh
+alt_names: ["Kenyah (Uma' Lung)", Òma Lóngh]
 population: 3000
 country_id: ID
 country_name: Indonesia

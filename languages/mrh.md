@@ -2,6 +2,7 @@
 iso: mrh
 name: Mara Chin
 autonym: Mara (Tlosaih)
+alt_names: [Chin, Chin (Mara), Chin mara, "Chin, Mara", "Chin,Mara", Hawthai, Lakher, Mara, Mara language, Maram, Mira, Sabeu, Tlongsai, Zao]
 population: 62400
 country_id: IN
 country_name: India

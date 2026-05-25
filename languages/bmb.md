@@ -2,6 +2,7 @@
 iso: bmb
 name: Bembe
 autonym: Ebeembe
+alt_names: [Baga maduri, Baga manduri, Beembe, Ebembe, Ibembe, Kibembe]
 population: 274000
 country_id: CD
 country_name: DR Congo

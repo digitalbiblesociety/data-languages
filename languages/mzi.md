@@ -2,6 +2,7 @@
 iso: mzi
 name: Ixcatlán Mazatec
 autonym: (San Pedro Ixcatlán)
+alt_names: [Ayautla Soyaltepec Masateko, Ixcatlan Mazatec, Masateko, Mazatec, "Mazatec, Ixcatlán", Mazateco, Mazateco de Ayautla, Mazateco de Ixcatlán, Mazateco de San Pedro Ixcatlán, Mazateco de Soyaltepec, "Mazatèque d'Ayautla", "Mazatèque d'Ixcatlán", Mazatèque de Soyaltepec]
 population: 8590
 country_id: MX
 country_name: Mexico

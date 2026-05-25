@@ -2,6 +2,7 @@
 iso: ldp
 name: Tso
 autonym: nyi tsó
+alt_names: [Cibbo, Cuyi Tsó, Kitta, Lotsu-Piri, Pire, Piri, Tsóbó]
 population: 16000
 country_id: NG
 country_name: Nigeria

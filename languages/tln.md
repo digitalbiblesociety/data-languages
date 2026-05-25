@@ -2,6 +2,7 @@
 iso: tln
 name: "Talondo'"
 autonym: Talondo Kondo
+alt_names: [Nordost-Celebes, Talondo]
 population: 400
 country_id: ID
 country_name: Indonesia

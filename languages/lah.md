@@ -1,6 +1,7 @@
 ---
 iso: lah
 name: Lahnda
+name_zh: 西旁遮普语
 autonym: Western Punjabi
 population: null
 country_id: IN

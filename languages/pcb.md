@@ -1,7 +1,9 @@
 ---
 iso: pcb
 name: Pear
+name_zh: 比尔语
 autonym: Por
+alt_names: [Kompong Thom, Pear of Kompong Thom, Pãr]
 population: 1670
 country_id: KH
 country_name: Cambodia

@@ -2,6 +2,7 @@
 iso: amu
 name: Guerrero Amuzgo
 autonym: Ñomndaa
+alt_names: [Amusgo, Amuzgo, "Amuzgo, Guerrero", Azmugo, Guerrero, Nomndaa]
 population: 45900
 country_id: MX
 country_name: Mexico

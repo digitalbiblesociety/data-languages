@@ -2,6 +2,7 @@
 iso: mip
 name: "Apasco-Apoala Mixtec"
 autonym: "Apasco-Apoala Mixtec"
+alt_names: [Apasco Mixtec, Apoala Mixtec, "Mixtec, Apasco-Apoala", Mixteco de Chocho, Mixteco de San Bartolo Soyaltepec, Mixteco de Santiago Apoala, Mixteco del noreste bajo, Northeastern Alta Mixtec, Northern Misteko, Northern Mixteco, Northern Nochixtlán Mixtec, Soyaltepec Mixtec]
 population: 10000
 country_id: MX
 country_name: Mexico

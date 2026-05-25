@@ -2,6 +2,7 @@
 iso: iks
 name: Inuit Sign Language
 autonym: ᐃᓄᐃᑦ ᐆᒃᑐᐊᕋᐅᓯᖅ Inuit Uuktuarausiq
+alt_names: [IUR, Inuit Uukturausingit]
 population: 20
 country_id: CA
 country_name: Canada

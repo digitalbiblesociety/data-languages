@@ -1,6 +1,7 @@
 ---
 iso: uon
 name: Kulon
+name_zh: 龜崙語
 autonym: Kulun
 country_id: CN
 country_name: China

@@ -1,7 +1,9 @@
 ---
 iso: hmr
 name: Hmar
+name_zh: 和马语
 autonym: Manmasi
+alt_names: [Hamar, Hmari, Mhar, ภาษาฮมาร์]
 population: 99000
 country_id: IN
 country_name: India

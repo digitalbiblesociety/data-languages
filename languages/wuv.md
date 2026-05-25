@@ -2,6 +2,7 @@
 iso: wuv
 name: "Wuvulu-Aua"
 autonym: "Wuvalu-Aua"
+alt_names: [Admiralitäts-inseln, Aua-Viwulu, Viwulu-Aua]
 population: 1600
 country_id: PG
 country_name: Papua New Guinea

@@ -2,6 +2,7 @@
 iso: bhq
 name: Tukang Besi South
 autonym: Buton
+alt_names: [Tukang Besi, Tukang-Besi, Wakatobi]
 population: 130000
 country_id: ID
 country_name: Indonesia

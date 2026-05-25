@@ -2,6 +2,7 @@
 iso: muv
 name: Muthuvan
 autonym: முதுவன்
+alt_names: [Mudavan, Mudugar, Muduvan, Muduvar, Mutuvar]
 population: 16800
 country_id: IN
 country_name: India

@@ -2,6 +2,7 @@
 iso: vmh
 name: Maraghei
 autonym: مراغى پگڠەرۉب
+alt_names: [Iran]
 population: null
 country_id: IR
 country_name: Iran

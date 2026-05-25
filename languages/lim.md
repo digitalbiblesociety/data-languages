@@ -1,7 +1,9 @@
 ---
 iso: lim
 name: Limburgan
+name_zh: 林堡语
 autonym: " Limburgic"
+alt_names: [Bahasa Limburgish, Gjuha limburge, Idioma limburgués, Język limburgijski, Lengua limburgheise, Limba limburgheză, Limbordjwès, Limborgsch, Limbourgeg, Limbourgek, Limbourgeois, Limburchsk, Limburga lingvo, Limburger, Limburgera, Limburgisc, Limburgisch, Limburgish, Limburgiska, Limburgs, Limburgs Plat, Limburgsk, Limburgänapük, Limburčina, Limbuurchsk, Limbörgs, Limbůrjs Platt, Lingua Limburgica, Lingua limburghese, Lingua limburguesa, Lìm-pó-ngî, Língua limburguesa, Λιμβουργιανή γλώσσα, Лимбургский язык, לימבורגית, لغة ليمبورغية, ሊምቡርግኛ, リンブルフ語, 林堡语]
 population: 1300000
 country_id: NL
 country_name: Netherlands

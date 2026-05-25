@@ -2,6 +2,7 @@
 iso: rwa
 name: Rawo
 autonym: null
+alt_names: [Poko, Poko-Rawo]
 population: 640
 country_id: PG
 country_name: Papua New Guinea

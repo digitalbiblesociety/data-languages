@@ -2,6 +2,7 @@
 iso: msq
 name: Caac
 autonym: Moenebeng
+alt_names: [Caawac, Mwelebeng, Neukaledonien]
 population: 890
 country_id: NC
 country_name: New Caledonia

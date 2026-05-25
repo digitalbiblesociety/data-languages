@@ -2,6 +2,7 @@
 iso: mjs
 name: Miship
 autonym: Chip
+alt_names: [Cip, Ship]
 population: 6000
 country_id: NG
 country_name: Nigeria

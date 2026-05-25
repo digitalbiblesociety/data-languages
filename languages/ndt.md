@@ -2,6 +2,7 @@
 iso: ndt
 name: Ndunga
 autonym: Bondonga
+alt_names: [Modunga, Mondugu, Mondunga]
 population: 2500
 country_id: CD
 country_name: DR Congo

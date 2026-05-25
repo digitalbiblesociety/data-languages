@@ -2,6 +2,7 @@
 iso: twl
 name: Tawara
 autonym: chiShona
+alt_names: [Tawala]
 population: 110000
 country_id: MZ
 country_name: Mozambique

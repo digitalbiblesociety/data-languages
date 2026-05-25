@@ -2,6 +2,7 @@
 iso: yel
 name: Yela
 autonym: Yela
+alt_names: [Boyela, Kutu]
 population: 33000
 country_id: CD
 country_name: DR Congo

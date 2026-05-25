@@ -2,6 +2,7 @@
 iso: izr
 name: Izere
 autonym: Afusare
+alt_names: [Afizare, Afizarek, Feserek, Fezere, Fizere, Hill Jarawa, Izarek, Jarawa, Jarawan Dutse, Jari, Jos-Zarazon]
 population: 50000
 country_id: NG
 country_name: Nigeria

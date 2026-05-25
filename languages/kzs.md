@@ -2,6 +2,7 @@
 iso: kzs
 name: Sugut Dusun
 autonym: Dusun
+alt_names: ["Dusun, Sugut", Kadayan, Sugut, Sugut Kadazan, Tanggal, Tilau-Ilau]
 population: 12200
 country_id: MY
 country_name: Malaysia

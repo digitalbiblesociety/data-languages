@@ -2,6 +2,7 @@
 iso: sdr
 name: Oraon Sadri
 autonym: Nagpuri
+alt_names: [Chotar Nagpuri, Dikkukaji, Sadani, Sadri, "Sadri, Oraon"]
 population: 166000
 country_id: BD
 country_name: Bangladesh

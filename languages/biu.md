@@ -2,6 +2,7 @@
 iso: biu
 name: Biete
 autonym: Biate
+alt_names: [Baite, Bete]
 population: 19000
 country_id: IN
 country_name: India

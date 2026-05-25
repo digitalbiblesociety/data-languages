@@ -1,7 +1,9 @@
 ---
 iso: bgp
 name: Eastern Balochi
+name_zh: 东俾路支语
 autonym: بلۏچی  Balòci
+alt_names: [Balochi, "Balochi, Eastern", Baluchi, Balutschi]
 population: 2930800
 country_id: PK
 country_name: Pakistan

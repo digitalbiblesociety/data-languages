@@ -1,7 +1,9 @@
 ---
 iso: yrn
 name: Yerong
+name_zh: 雅郎布央语
 autonym: "Boux-yaeŋz"
+alt_names: [Daban Yao, Yerón, 六瑤, 土瑤, 央瓊, 耶容布央, 鐵瑤, 雅郎布央]
 population: 380
 country_id: CN
 country_name: China

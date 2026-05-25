@@ -1,7 +1,9 @@
 ---
 iso: led
 name: Lendu
+name_zh: 蘭度語
 autonym: Balendru
+alt_names: [Bale, Baledha, Baletha, Batha, Bbadha, Bbaledha, Hema-Nord, Kihema-Nord, Kilendu, Lendu (North), N Lendu, N. Lendu, North Lendu]
 population: 750000
 country_id: CD
 country_name: DR Congo

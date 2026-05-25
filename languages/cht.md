@@ -1,7 +1,9 @@
 ---
 iso: cht
 name: Cholón
+name_zh: 乔隆语
 autonym: Seeptsá
+alt_names: [Cholon, Cholona, Seeptsa, Tinganeses]
 population: 2021
 country_id: PE
 country_name: Peru

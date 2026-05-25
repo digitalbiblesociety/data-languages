@@ -2,6 +2,7 @@
 iso: amx
 name: Anmatyerre
 autonym: Arrernte
+alt_names: [Anmatjara, Anmatjera, Anmatjirra, Imatjera, Inmatjera, Janmadjara, Janmatjiri, Nmatjera, Unmatjera, Urmitchee, Yandmadjari, Yanmedjara]
 population: 640
 country_id: AU
 country_name: Australia

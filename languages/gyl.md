@@ -2,6 +2,7 @@
 iso: gyl
 name: Gayil
 autonym: Galila
+alt_names: [Ari-Galila, Boko]
 population: 55700
 country_id: ET
 country_name: Ethiopia

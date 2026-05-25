@@ -2,6 +2,7 @@
 iso: mfg
 name: Mogofin
 autonym: Mogofin
+alt_names: [Mikifore, Mixifore]
 population: 3600
 country_id: GN
 country_name: Guinea

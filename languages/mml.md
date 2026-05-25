@@ -1,7 +1,9 @@
 ---
 iso: mml
 name: Man Met
+name_zh: 克蔑语
 autonym: Kemie
+alt_names: [Angku, Manmi, Manmit, Āng-kú, 克蔑語]
 population: 900
 country_id: CN
 country_name: China

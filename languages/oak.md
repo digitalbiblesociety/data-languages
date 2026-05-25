@@ -2,6 +2,7 @@
 iso: oak
 name: Noakhali
 autonym: নোয়াখাইল্লা
+alt_names: [Noakhailla]
 population: 70
 country_id: BD
 country_name: Bangladesh

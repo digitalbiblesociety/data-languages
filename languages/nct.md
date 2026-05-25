@@ -2,6 +2,7 @@
 iso: nct
 name: Chothe Naga
 autonym: Chothe Naga
+alt_names: [Chawte, Chote, Chothe, Chowte, "Naga, Chothe", "Naga,Chothe"]
 population: 3590
 country_id: IN
 country_name: India

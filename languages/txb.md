@@ -1,7 +1,9 @@
 ---
 iso: txb
 name: Tokharian B
+name_zh: 龟兹语
 autonym: Kuśiññe
+alt_names: [Kuchean, Tocharian B, Western Tocharian, Western Tokharian]
 population: null
 country_id: CN
 country_name: China

@@ -2,6 +2,7 @@
 iso: enr
 name: Emumu
 autonym: Emumu
+alt_names: [Emem, Imimkal, Kiamerop]
 population: 2000
 country_id: ID
 country_name: Indonesia

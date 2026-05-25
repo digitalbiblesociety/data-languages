@@ -1,7 +1,9 @@
 ---
 iso: ise
 name: Italian Sign Language
+name_zh: 義大利手語
 autonym: Lingua dei Segni Italiana
+alt_names: [Lingua Italiana Dei Segni, Lis]
 population: 40000
 country_id: IT
 country_name: Italy

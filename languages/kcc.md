@@ -2,6 +2,7 @@
 iso: kcc
 name: Lubila
 autonym: Kabila
+alt_names: [Kabire, Lubilo, Ofor, Ojor]
 population: 11400
 country_id: NG
 country_name: Nigeria

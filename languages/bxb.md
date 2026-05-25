@@ -2,6 +2,7 @@
 iso: bxb
 name: Belanda Bor
 autonym: Belanda Bor
+alt_names: [Bor, "Bor, Belanda", Bor-Belanda, De Bor]
 population: 8000
 country_id: SS
 country_name: South Sudan

@@ -2,6 +2,7 @@
 iso: gbn
 name: "Mo'da"
 autonym: Gbara
+alt_names: [Gberi, Gweri, Moda, Muda]
 population: 600
 country_id: SS
 country_name: South Sudan

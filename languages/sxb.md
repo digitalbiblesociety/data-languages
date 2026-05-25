@@ -2,6 +2,7 @@
 iso: sxb
 name: Suba
 autonym: null
+alt_names: [Olusuba]
 population: 158000
 country_id: KE
 country_name: Kenya

@@ -1,7 +1,9 @@
 ---
 iso: anz
 name: Anem
+name_zh: 阿內姆語
 autonym: Anêm
+alt_names: [Anemeg, Karaiai, Neu-Pommern]
 population: 550
 country_id: PG
 country_name: Papua New Guinea

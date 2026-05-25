@@ -2,6 +2,7 @@
 iso: tve
 name: "Te'un"
 autonym: Te’un
+alt_names: ["Te'un (île de Seram)", "Te'un (île de Te'un)", "Teun (isla Te'un)"]
 population: 1200
 country_id: ID
 country_name: Indonesia

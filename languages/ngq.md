@@ -2,6 +2,7 @@
 iso: ngq
 name: Ngurimi
 autonym: Dengurume
+alt_names: [Ikingurimi, Ngoreme, Ngruimi, Nguruimi]
 population: 52400
 country_id: TZ
 country_name: Tanzania

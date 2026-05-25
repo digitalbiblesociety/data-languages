@@ -2,6 +2,7 @@
 iso: yaj
 name: "Banda-Yangere"
 autonym: Yangere
+alt_names: [Banda, Yanguere]
 population: 26500
 country_id: CF
 country_name: Central African Republic

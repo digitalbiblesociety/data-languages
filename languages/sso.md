@@ -2,6 +2,7 @@
 iso: sso
 name: Sissano
 autonym: Sinama
+alt_names: [Aissano, Siau, Sinano, Sisano]
 population: 3530
 country_id: PG
 country_name: Papua New Guinea

@@ -2,6 +2,7 @@
 iso: mrx
 name: Maremgi
 autonym: Dineor
+alt_names: [Marengge]
 population: 55
 country_id: ID
 country_name: Indonesia

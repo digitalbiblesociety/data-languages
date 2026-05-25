@@ -1,7 +1,9 @@
 ---
 iso: kpz
 name: Kupsabiny
+name_zh: 薩比尼語
 autonym: Sabiny
+alt_names: [Sapei, Sapiny, Sebei]
 population: 274000
 country_id: UG
 country_name: Uganda

@@ -1,6 +1,7 @@
 ---
 iso: lbg
 name: Laopang
+name_zh: 老潘语
 autonym: Laopa
 population: 9550
 country_id: LA

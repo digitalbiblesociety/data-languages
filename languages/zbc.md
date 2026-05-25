@@ -2,6 +2,7 @@
 iso: zbc
 name: Central Berawan
 autonym: Batu Belah
+alt_names: ["Berawan, Central"]
 population: 710
 country_id: MY
 country_name: Malaysia

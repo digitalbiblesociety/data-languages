@@ -2,6 +2,7 @@
 iso: pbc
 name: Patamona
 autonym: Ingarikó
+alt_names: [Eremagok, Ingariko, Kapon, Kapóng, Patamona (Brésil), Patamona (Guyana), Patamona (Guyane), Patamuna]
 population: 4700
 country_id: GY
 country_name: Guyana

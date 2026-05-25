@@ -2,6 +2,7 @@
 iso: kqn
 name: Kaonde
 autonym: Kiikaonde
+alt_names: [Chikahonde, Chikaonde, Kawonde, Luba Kaonde]
 population: 242000
 country_id: ZM
 country_name: Zambia

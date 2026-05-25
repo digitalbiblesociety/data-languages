@@ -2,6 +2,7 @@
 iso: nkx
 name: Nkoroo
 autonym: Nkoro
+alt_names: [Kirika, Ịjọ]
 population: 4550
 country_id: NG
 country_name: Nigeria

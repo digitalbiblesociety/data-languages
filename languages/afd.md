@@ -2,6 +2,7 @@
 iso: afd
 name: Andai
 autonym: Upper Arafundi
+alt_names: [Alfendio, Arafundi, Imboin, Meakambut, Pundungum, Wangkai]
 population: 400
 country_id: PG
 country_name: Papua New Guinea

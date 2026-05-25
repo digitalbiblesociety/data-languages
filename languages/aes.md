@@ -2,6 +2,7 @@
 iso: aes
 name: Alsea
 autonym: Yakonan
+alt_names: [Alsean, Alséya, Aslean, Iakon, Yakona, Yakwina, Yaquina]
 population: null
 country_id: US
 country_name: United States

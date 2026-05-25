@@ -1,7 +1,9 @@
 ---
 iso: lsm
 name: Saamia
+name_zh: 萨米亚语
 autonym: Olusaamia
+alt_names: [Olusamia]
 population: 609800
 country_id: UG
 country_name: Uganda

@@ -2,6 +2,7 @@
 iso: mbp
 name: Malayo
 autonym: Malayo
+alt_names: [Aisario, Arosario, Arsario, Atanque, Bustintana, Damana, Guamaca, Guamaka, Huihua, Kampanake, Maracasero, Marocacero, Marocasero, Nabela, Sancá, Sanha, Sanja, Sanka, Sanká, Wamaka, Wiwa]
 population: 1920
 country_id: CO
 country_name: Colombia

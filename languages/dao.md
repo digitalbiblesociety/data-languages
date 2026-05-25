@@ -2,6 +2,7 @@
 iso: dao
 name: Daai Chin
 autonym: Dai
+alt_names: ["Chin, Daai", "Chin,Daai", Daai, "M'kaang", Nitu]
 population: 37000
 country_id: MM
 country_name: Myanmar

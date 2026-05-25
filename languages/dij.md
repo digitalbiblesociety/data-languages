@@ -1,6 +1,7 @@
 ---
 iso: dij
 name: Dai
+name_zh: 戴语
 autonym: null
 population: 820
 country_id: ID

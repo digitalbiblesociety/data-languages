@@ -2,6 +2,7 @@
 iso: kbu
 name: Kabutra
 autonym: Sansiboli
+alt_names: [Nat, Natra]
 population: 1000
 country_id: PK
 country_name: Pakistan

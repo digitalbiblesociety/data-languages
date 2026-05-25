@@ -2,6 +2,7 @@
 iso: kml
 name: Tanudan Kalinga
 autonym: Lower Tanudan
+alt_names: ["Kalinga, Lower Tanudan", "Kalinga, Tanudan", Lower Tanudan Kalinga]
 population: 11200
 country_id: PH
 country_name: Philippines

@@ -2,6 +2,7 @@
 iso: thp
 name: Thompson
 autonym: Nłeʔkepmxcín
+alt_names: [At-nah, Nikutamú, Nklapmx, "Nlaka'pamux", "Nle'kepmxcín", Nlha7kápmx, Ntlakapamux, Ntlakapmuk, Ntlakyapamuk, Nłeʔkepmxcin, Nłeʔkepmxcín (Thompson), "Salish, Thompson River", Thompson River Salish, nɬeʔkepmxcín]
 population: 3000
 country_id: CA
 country_name: Canada

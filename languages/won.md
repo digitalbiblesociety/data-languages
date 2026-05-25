@@ -2,6 +2,7 @@
 iso: won
 name: Wongo
 autonym: Tukongo
+alt_names: [Bakong, Gongo, Ndjembe, Tukkongo]
 population: 12700
 country_id: CD
 country_name: DR Congo

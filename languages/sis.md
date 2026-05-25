@@ -2,6 +2,7 @@
 iso: sis
 name: Siuslaw
 autonym: Lower Umpqua
+alt_names: [Ku-itc (Kuitsh), Siuslawan, Umpqua, Umpqua (Lower)]
 population: null
 country_id: US
 country_name: United States

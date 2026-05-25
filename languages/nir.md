@@ -2,6 +2,7 @@
 iso: nir
 name: Nimboran
 autonym: Namblong
+alt_names: [Nambrong]
 population: 2000
 country_id: ID
 country_name: Indonesia

@@ -1,6 +1,7 @@
 ---
 iso: kij
 name: Kilivila
+name_zh: 基里維納语
 autonym: Kiriwina
 population: 40000
 country_id: PG

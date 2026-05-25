@@ -2,6 +2,7 @@
 iso: aim
 name: Aimol
 autonym: null
+alt_names: [Aimal, Langrong]
 population: 2640
 country_id: IN
 country_name: India

@@ -2,6 +2,7 @@
 iso: asx
 name: Muratayak
 autonym: Asat
+alt_names: [Murataik]
 population: null
 country_id: PG
 country_name: Papua New Guinea

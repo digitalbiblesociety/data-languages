@@ -2,6 +2,7 @@
 iso: qva
 name: "Ambo-Pasco Quechua"
 autonym: Kichwa
+alt_names: [Alto Marañón, Alto Pativilca, Chiquian-Bolognesi and Cajatambo Quechua, "Quechua, Ambo-Pasco", San Rafael-Huariaca Quechua]
 population: 18300
 country_id: PE
 country_name: Peru

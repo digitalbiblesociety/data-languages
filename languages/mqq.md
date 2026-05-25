@@ -2,6 +2,7 @@
 iso: mqq
 name: Minokok
 autonym: null
+alt_names: [Malaysia]
 population: 1200
 country_id: MY
 country_name: Malaysia

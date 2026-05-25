@@ -1,6 +1,7 @@
 ---
 iso: ysg
 name: Sonaga
+name_zh: 锁内嘎话
 autonym: Suoneiga
 population: 2000
 country_id: CN

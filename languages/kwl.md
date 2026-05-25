@@ -2,6 +2,7 @@
 iso: kwl
 name: Kofyar
 autonym: Pan
+alt_names: [Nigeria]
 population: 110000
 country_id: NG
 country_name: Nigeria

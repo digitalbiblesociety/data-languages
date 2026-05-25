@@ -2,6 +2,7 @@
 iso: whk
 name: Wahau Kenyah
 autonym: "Lebu' Kulit"
+alt_names: [Kenyah, "Kenyah, Wahau", Wahau, Wahau Kenya]
 population: 8000
 country_id: ID
 country_name: Indonesia

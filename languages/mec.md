@@ -2,6 +2,7 @@
 iso: mec
 name: Marra
 autonym: Marranbala
+alt_names: [Leelalwarra, Leelawarra, Maarra, Mala, Mara]
 population: 5
 country_id: AU
 country_name: Australia

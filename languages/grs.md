@@ -2,6 +2,7 @@
 iso: grs
 name: Gresi
 autonym: Geresi
+alt_names: [Glesi, Gresik, Klesi]
 population: 2500
 country_id: ID
 country_name: Indonesia

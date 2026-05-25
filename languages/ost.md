@@ -2,6 +2,7 @@
 iso: ost
 name: Osatu
 autonym: Ihatum
+alt_names: [Ossatu]
 population: 400
 country_id: CM
 country_name: Cameroon

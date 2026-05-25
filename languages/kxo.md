@@ -2,6 +2,7 @@
 iso: kxo
 name: Kanoé
 autonym: Kapishana
+alt_names: [Akunsú, Akuntsú, Amniapé, Canoé, Capixana, Guarategaja, Guaratira, Guaratégaya, Kanoe, Kanoê, Kapishaná, Kapixaná, Kapixaná/Kanoé, Koaratira, Mekem, Mekens, Mekens-Akuntsú, Meké, Mekém, Mekéns, Mequem, Mequen, Mequens, Mequéns, Muki, Sakurabiat, Sakyrabiat]
 population: 5
 country_id: BR
 country_name: Brazil

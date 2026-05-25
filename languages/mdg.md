@@ -2,6 +2,7 @@
 iso: mdg
 name: Massalat
 autonym: kana masalaka/masaraka
+alt_names: [Mesalit]
 population: 29800
 country_id: TD
 country_name: Chad

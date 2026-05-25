@@ -2,6 +2,7 @@
 iso: caf
 name: Southern Carrier
 autonym: Dakeł (ᑕᗸᒡ)
+alt_names: [Carrier, "Carrier, Southern", Lower, Lower Carrier, Southern, Ulgatcho, Ulkatcho]
 population: 2055
 country_id: CA
 country_name: Canada

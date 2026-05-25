@@ -1,7 +1,9 @@
 ---
 iso: kje
 name: Kisar
+name_zh: 基萨尔语
 autonym: Loikera
+alt_names: [Kisser, Meher, Yotowawa]
 population: 20000
 country_id: ID
 country_name: Indonesia

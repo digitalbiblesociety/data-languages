@@ -2,6 +2,7 @@
 iso: xir
 name: Xiriâna
 autonym: Bahwana
+alt_names: [Chiriana, Shiriana, Shriana, Xiriana]
 population: null
 country_id: BR
 country_name: Brazil

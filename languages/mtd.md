@@ -2,6 +2,7 @@
 iso: mtd
 name: Mualang
 autonym: Mualang
+alt_names: [Indonesia]
 population: 40000
 country_id: ID
 country_name: Indonesia

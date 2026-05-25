@@ -1,7 +1,9 @@
 ---
 iso: apy
 name: Apalaí
+name_zh: 阿帕萊語
 autonym: Aparaí
+alt_names: [Apalai, Apalaieg, Apalajiska razda, Apalay, Aparai]
 population: 450
 country_id: BR
 country_name: Brazil

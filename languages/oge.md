@@ -1,7 +1,9 @@
 ---
 iso: oge
 name: Old Georgian
+name_zh: 古喬治亞語
 autonym: ႤႬႠჂ ႵႠႰႧႭჃႪႨ
+alt_names: ["Georgian, Old"]
 population: null
 country_id: GE
 country_name: Georgia

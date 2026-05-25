@@ -2,6 +2,7 @@
 iso: fut
 name: "Futuna-Aniwa"
 autonym: Erronan
+alt_names: [Aniwa, Futua, Futuna, W. Futuna-Aniwa, West Futuna-Aniwa, Western Futuna]
 population: 1500
 country_id: VU
 country_name: Vanuatu

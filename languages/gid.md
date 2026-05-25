@@ -2,6 +2,7 @@
 iso: gid
 name: Gidar
 autonym: Kaɗa
+alt_names: [Baynawa, Gidder, Guidar, Guider, Kada]
 population: 65700
 country_id: CM
 country_name: Cameroon

@@ -2,6 +2,7 @@
 iso: coe
 name: Koreguaje
 autonym: "Ko'reuaju"
+alt_names: [Caquetá, Chaocha Pai, Coreguaja, Coreguaje, Corehuaje, Correguaje, Correguaje-Tama, Korewahe]
 population: 2100
 country_id: CO
 country_name: Colombia

@@ -2,6 +2,7 @@
 iso: gua
 name: Shiki
 autonym: Gubi
+alt_names: [Guba, Gubawa, Mashiki]
 population: 1200
 country_id: NG
 country_name: Nigeria

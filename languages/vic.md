@@ -2,6 +2,7 @@
 iso: vic
 name: Virgin Islands Creole English
 autonym: Netherlands Antilles Creole English
+alt_names: ["Creole English, Virgin Islands"]
 population: 90900
 country_id: VI
 country_name: Virgin Islands US

@@ -2,6 +2,7 @@
 iso: dbn
 name: Duriankere
 autonym: Duriankari
+alt_names: [Esaro, Sailen]
 population: null
 country_id: ID
 country_name: Indonesia

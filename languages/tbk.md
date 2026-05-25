@@ -2,6 +2,7 @@
 iso: tbk
 name: Calamian Tagbanwa
 autonym: ᝦᝲᝨᝪᝯ
+alt_names: [Calamiano, Kalamian, Kalamianon, Karamiananen, "Tagbanwa, Calamian"]
 population: 10000
 country_id: PH
 country_name: Philippines

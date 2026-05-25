@@ -2,6 +2,7 @@
 iso: wbw
 name: Woi
 autonym: "Wo'oi"
+alt_names: [Woi language]
 population: 1300
 country_id: ID
 country_name: Indonesia

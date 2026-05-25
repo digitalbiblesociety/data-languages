@@ -2,6 +2,7 @@
 iso: tgb
 name: Tobilung
 autonym: Tabilong
+alt_names: [Tebilung, Tobilang]
 population: 8850
 country_id: MY
 country_name: Malaysia

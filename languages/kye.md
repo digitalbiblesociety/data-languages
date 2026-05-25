@@ -2,6 +2,7 @@
 iso: kye
 name: Krache
 autonym: Kaakyi
+alt_names: [Guang, Krachi, Krakye]
 population: 83000
 country_id: GH
 country_name: Ghana

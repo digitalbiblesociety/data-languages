@@ -2,6 +2,7 @@
 iso: gnn
 name: Gumatj
 autonym: "Dhay'yi"
+alt_names: [Dhuwal, Dhuwala, Go-maid, Gomadj, Gomaidj, Gumadj, Gumadji, Gumaidj, Gumait, Gumaitj, Gumaj, Komait]
 population: 120
 country_id: AU
 country_name: Australia

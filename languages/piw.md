@@ -2,6 +2,7 @@
 iso: piw
 name: Pimbwe
 autonym: Cipimbwe
+alt_names: [Ichipimbwe, Kipimbwe]
 population: 12000
 country_id: TZ
 country_name: Tanzania

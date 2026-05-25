@@ -2,6 +2,7 @@
 iso: mfj
 name: Mefele
 autonym: Boulahay
+alt_names: [Bula, Bulahai]
 population: 11000
 country_id: CM
 country_name: Cameroon

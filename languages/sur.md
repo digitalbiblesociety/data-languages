@@ -2,6 +2,7 @@
 iso: sur
 name: Mwaghavul
 autonym: Sura
+alt_names: [Cakfem-Mushere, Chakfem, Chakfem-Mushere, Chokfem, Jajura, Kadim-Kaban, Maghavul, Mupun, Mwaghavul (Mupun)]
 population: 150000
 country_id: NG
 country_name: Nigeria

@@ -2,6 +2,7 @@
 iso: mcv
 name: Minanibai
 autonym: Minanibai
+alt_names: [Eme-Eme, Hei, Mahigi, Pepeha]
 population: 300
 country_id: PG
 country_name: Papua New Guinea

@@ -1,7 +1,9 @@
 ---
 iso: nyu
 name: Nyungwe
+name_zh: 尼温圭语
 autonym: Cinyungwe
+alt_names: [Chinyungwi, Nyongwe, Teta, Tete, Yungwe]
 population: 490000
 country_id: MZ
 country_name: Mozambique

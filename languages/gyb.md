@@ -2,6 +2,7 @@
 iso: gyb
 name: Garus
 autonym: Ate
+alt_names: [Em, Kurupi]
 population: 2650
 country_id: PG
 country_name: Papua New Guinea

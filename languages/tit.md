@@ -1,7 +1,9 @@
 ---
 iso: tit
 name: Tinigua
+name_zh: 提尼瓜語
 autonym: Tiniguas
+alt_names: [Timigua, Tiniguan, Tiniwa]
 population: 1
 country_id: CO
 country_name: Colombia

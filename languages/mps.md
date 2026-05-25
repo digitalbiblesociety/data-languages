@@ -2,6 +2,7 @@
 iso: mps
 name: Dadibi
 autonym: null
+alt_names: ["Dadibi (Daribi, Mikaru)", Daribi, Karimui, Mikaru]
 population: 12580
 country_id: PG
 country_name: Papua New Guinea

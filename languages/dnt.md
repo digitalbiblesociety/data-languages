@@ -2,6 +2,7 @@
 iso: dnt
 name: Mid Grand Valley Dani
 autonym: Baliem Valley Dani
+alt_names: [Central Grand Valley Dani, Dani, "Dani, Mid Grand Valley", Ndani, Tulem]
 population: 50000
 country_id: ID
 country_name: Indonesia

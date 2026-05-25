@@ -2,6 +2,7 @@
 iso: kmm
 name: Kom (India)
 autonym: Kom Rem
+alt_names: [Kolhreng, Kom]
 population: 15100
 country_id: IN
 country_name: India

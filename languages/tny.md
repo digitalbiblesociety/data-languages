@@ -2,6 +2,7 @@
 iso: tny
 name: Tongwe
 autonym: Bende
+alt_names: [Kitongwe, Sitongwe]
 population: 13000
 country_id: TZ
 country_name: Tanzania

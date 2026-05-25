@@ -2,6 +2,7 @@
 iso: sak
 name: Sake
 autonym: Sake
+alt_names: [Asake, Saké, Shake]
 population: 1000
 country_id: GA
 country_name: Gabon

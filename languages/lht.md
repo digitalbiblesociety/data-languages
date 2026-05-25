@@ -2,6 +2,7 @@
 iso: lht
 name: "Lo-Toga"
 autonym: Loh
+alt_names: [Lo, Loh-Toga, Toga, Torres]
 population: 500
 country_id: VU
 country_name: Vanuatu

@@ -2,6 +2,7 @@
 iso: zmv
 name: "Mbariman-Gudhinma"
 autonym: Gugu Warra
+alt_names: [Bariman Gudinhma, Bariman Gutinhma, Parimankutinma, Port Stewart Lamalama, Rima-nggudininhma, Rimang-Gudinhma, Rimanggudinhma]
 population: null
 country_id: AU
 country_name: Australia

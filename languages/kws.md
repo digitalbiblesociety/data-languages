@@ -2,6 +2,7 @@
 iso: kws
 name: Kwese
 autonym: Kikwese
+alt_names: [Pindi, Ukwese]
 population: 60000
 country_id: CD
 country_name: DR Congo

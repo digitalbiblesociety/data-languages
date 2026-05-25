@@ -2,6 +2,7 @@
 iso: eja
 name: Ejamat
 autonym: "Jola-Felupe"
+alt_names: [Ediamat, Eyamat, Feloup, Felup, Felupe, Floup, Flup, Fulup]
 population: 8230
 country_id: GW
 country_name: "Guinea-Bissau"

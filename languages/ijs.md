@@ -2,6 +2,7 @@
 iso: ijs
 name: Southeast Ijo
 autonym: Akassa
+alt_names: [Brass Ijo, Ijaw, "Ijo, Southeast", Ịjọ]
 population: 71500
 country_id: NG
 country_name: Nigeria

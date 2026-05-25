@@ -2,6 +2,7 @@
 iso: tpl
 name: "Tlacoapa Me'phaa"
 autonym: Me̱ꞌpha̱a̱
+alt_names: [Guerrero, "Me'pa", "Me'phaa", "Me'phaa, Tlacoapa", Mínguíín, Tlacoapa Tlapanec, Tlapanec, "Tlapanec, Tlacoapa", Tlapaneco, Tlapaneco de Tlacoapa, Tlapaneco-Sutiaba, Tlapaneko, Tlappanec]
 population: 18000
 country_id: MX
 country_name: Mexico

@@ -1,7 +1,9 @@
 ---
 iso: aru
 name: Aruá
+name_zh: 阿拉瓦語
 autonym: Arawá
+alt_names: [Arauan, Arauá, Arawa, Aroã, Arua, Arua (Amazonas State), Aruá (Amazonas State), Aruán, Arúan, Madi]
 population: null
 country_id: BR
 country_name: Brazil

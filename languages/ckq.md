@@ -2,6 +2,7 @@
 iso: ckq
 name: Kajakse
 autonym: Kadjakse
+alt_names: [Kajeske, Kawa Tadimini, Kujarge, Kujarke, Mini]
 population: 10000
 country_id: TD
 country_name: Chad

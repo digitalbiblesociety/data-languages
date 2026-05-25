@@ -2,6 +2,7 @@
 iso: yiv
 name: Northern Nisu
 autonym: Southern Yi
+alt_names: [E-Xin Yi, Lolo, "Nisu, Northern", "Nisu,Northern", Yi, "Yi, Eshan-Xinping"]
 population: 160000
 country_id: CN
 country_name: China

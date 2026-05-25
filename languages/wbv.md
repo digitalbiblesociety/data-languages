@@ -1,7 +1,9 @@
 ---
 iso: wbv
 name: Wajarri
+name_zh: 瓦贾里语
 autonym: Wadjari
+alt_names: [Baialdju, Batiga, Bidungu, Cheangwa, Dhauerngu, Iirrawad ari, "Iirrawad-'ari", Iirrawadari, Irawadjari, Jamadj, Jamadji, Kurduwonga, Kurduwongga, Lenga wajarri, Maliara, Malleyearra, Meloria, Miliara, Miliarra, Muliara, Mulyara, Nokaan, Pidong, "Wad'arri", Wadari, Wadarri, Wadgaree, Wadhari, Wadjeri, Wadyari, Wadyarri, Waian, Waian wonga, Waian-wonga, Waianwonga, Waiawonga, Wajari, Wajeri, Wajjari, Wajjiri, Wanmala, Wardal, Watjari, Watjarri, Witjari, Wodjeri, Yabbaroo, Yabbooroo, Yajeri, Yamadgee, Yamaidyi, Yamaji]
 population: 200
 country_id: AU
 country_name: Australia

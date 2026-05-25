@@ -2,6 +2,7 @@
 iso: cmt
 name: Camtho
 autonym: Flaaitaal
+alt_names: [Iscamtho, Isicamtho]
 population: null
 country_id: ZA
 country_name: South Africa

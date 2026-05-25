@@ -2,6 +2,7 @@
 iso: god
 name: Godié
 autonym: Godye
+alt_names: [Godie]
 population: 26400
 country_id: CI
 country_name: "Côte d'Ivoire"

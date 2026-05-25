@@ -2,6 +2,7 @@
 iso: pev
 name: Pémono
 autonym: Mapoyo–Yavarana
+alt_names: [Pemono, Pemonoa lingvo]
 population: null
 country_id: VE
 country_name: Venezuela

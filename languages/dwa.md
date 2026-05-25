@@ -2,6 +2,7 @@
 iso: dwa
 name: Diri
 autonym: Diriya
+alt_names: [Dirya, Diryawa]
 population: 7200
 country_id: NG
 country_name: Nigeria

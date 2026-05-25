@@ -2,6 +2,7 @@
 iso: tkw
 name: Teanu
 autonym: Teanu
+alt_names: [Buma, Buma (Solomon Islands), Buma (in Solomon Islands), Puma]
 population: 520
 country_id: SB
 country_name: Solomon Islands

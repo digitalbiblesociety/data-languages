@@ -2,6 +2,7 @@
 iso: yer
 name: Tarok
 autonym: Yergam
+alt_names: [Appa, Yergum]
 population: 494000
 country_id: NG
 country_name: Nigeria

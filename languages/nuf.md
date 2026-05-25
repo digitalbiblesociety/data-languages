@@ -1,7 +1,9 @@
 ---
 iso: nuf
 name: Nusu
+name_zh: 怒苏语
 autonym: null
+alt_names: [Independent Lolo]
 population: 1000
 country_id: CN
 country_name: China

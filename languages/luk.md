@@ -2,6 +2,7 @@
 iso: luk
 name: Lunanakha
 autonym: ལུང་ནག་ན་ཁ་
+alt_names: [Bhutan]
 population: 700
 country_id: BT
 country_name: Bhutan

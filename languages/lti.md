@@ -1,7 +1,9 @@
 ---
 iso: lti
 name: Leti (Indonesia)
+name_zh: 勒蒂语
 autonym: null
+alt_names: [Leti, Leti language, Letti]
 population: 7500
 country_id: ID
 country_name: Indonesia

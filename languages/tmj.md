@@ -2,6 +2,7 @@
 iso: tmj
 name: Samarokena
 autonym: Tamaja
+alt_names: [Karfasia, Samarkena, Tamaya]
 population: 400
 country_id: ID
 country_name: Indonesia

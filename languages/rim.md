@@ -2,6 +2,7 @@
 iso: rim
 name: Nyaturu
 autonym: Nyaturu
+alt_names: [Keremi, Kinyaturu, Kiremi, Kirimi, Limi, Remi, Rimi, Turu]
 population: 892000
 country_id: TZ
 country_name: Tanzania

@@ -2,6 +2,7 @@
 iso: smc
 name: Som
 autonym: Dinanget
+alt_names: [Somm]
 population: 500
 country_id: PG
 country_name: Papua New Guinea

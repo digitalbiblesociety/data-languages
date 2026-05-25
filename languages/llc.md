@@ -1,7 +1,9 @@
 ---
 iso: llc
 name: Lele (Guinea)
+name_zh: 勒勒语
 autonym: null
+alt_names: [Guinea, Lele]
 population: 11000
 country_id: GN
 country_name: Guinea

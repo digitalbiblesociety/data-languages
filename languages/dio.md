@@ -2,6 +2,7 @@
 iso: dio
 name: Dibo
 autonym: Ganagana
+alt_names: [Ganagawa, Shitako, Zhitako. Ganagana, Zitako]
 population: 204000
 country_id: NG
 country_name: Nigeria

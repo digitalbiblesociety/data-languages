@@ -1,7 +1,9 @@
 ---
 iso: xht
 name: Hattic
+name_zh: 哈提語
 autonym: "Hatti, Khattic, Proto-Hittite, Hattian"
+alt_names: [Hatski jezik, Hatteg, Hattian, Hattisch, Hattische Sprache, Hattisk, Idioma hatti, Khattic, Lingua Hattica, Língua hatti, Proto-Hittite, Хаттский язык, ภาษาฮัตติก]
 population: null
 country_id: TR
 country_name: Turkey

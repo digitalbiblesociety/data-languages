@@ -1,7 +1,9 @@
 ---
 iso: ers
 name: Ersu
+name_zh: 爾蘇語
 autonym: "Bu'erci"
+alt_names: [Duoxu, Erhsu, Ersoueg, ภาษาเอ้อซู, 爾蘇語]
 population: 20000
 country_id: CN
 country_name: China

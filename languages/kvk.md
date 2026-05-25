@@ -1,7 +1,9 @@
 ---
 iso: kvk
 name: Korean Sign Language
+name_zh: 韩文手语
 autonym: 韓國手語
+alt_names: [South Korean Sign Language]
 population: 308000
 country_id: KR
 country_name: South Korea

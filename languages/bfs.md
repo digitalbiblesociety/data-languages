@@ -2,6 +2,7 @@
 iso: bfs
 name: Southern Bai
 autonym: 白语 Báiyǔ
+alt_names: [Bai, "Bai, Southern", "Bai,Southern"]
 population: 680000
 country_id: CN
 country_name: China

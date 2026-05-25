@@ -1,7 +1,9 @@
 ---
 iso: nxn
 name: Ngawun
+name_zh: 恩加旺语
 autonym: null
+alt_names: [Lenga ngawun, Naungaun, "Nga:wun", Ngaon, Ngaun, Ngewin, Nounun, Nouun]
 population: null
 country_id: AU
 country_name: Australia

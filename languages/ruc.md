@@ -2,6 +2,7 @@
 iso: ruc
 name: Ruuli
 autonym: Luduuli
+alt_names: [Ruli, Ruruli]
 population: 238000
 country_id: UG
 country_name: Uganda

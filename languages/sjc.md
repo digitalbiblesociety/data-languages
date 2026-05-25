@@ -1,7 +1,9 @@
 ---
 iso: sjc
 name: Shaojiang Chinese
+name_zh: 邵将语
 autonym: 邵將 / 邵将
+alt_names: ["Chinese, Shaojiang", Shaojiang]
 population: 850000
 country_id: CN
 country_name: China

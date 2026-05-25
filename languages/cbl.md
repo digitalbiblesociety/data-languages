@@ -2,6 +2,7 @@
 iso: cbl
 name: Bualkhaw Chin
 autonym: "Chin, Bualkhaw"
+alt_names: ["Chin,Bualkhaw"]
 population: 2500
 country_id: MM
 country_name: Myanmar

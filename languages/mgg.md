@@ -2,6 +2,7 @@
 iso: mgg
 name: Mpumpong
 autonym: Mpumpoŋ
+alt_names: [Bombo, Mbombo, Mpompo, Mpongmpong, Mpopo, Pongpong]
 population: 45000
 country_id: CM
 country_name: Cameroon

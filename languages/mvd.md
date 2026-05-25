@@ -2,6 +2,7 @@
 iso: mvd
 name: Mamboru
 autonym: Memboro
+alt_names: [Mamboro]
 population: 16000
 country_id: ID
 country_name: Indonesia

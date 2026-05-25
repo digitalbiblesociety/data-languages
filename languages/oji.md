@@ -1,6 +1,7 @@
 ---
 iso: oji
 name: Ojibwa
+name_zh: 奥吉布瓦语
 autonym: ᐊᓂᐦᔑᓈᐯᒧᐎᓐ
 population: 89160
 country_id: CA

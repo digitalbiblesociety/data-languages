@@ -2,6 +2,7 @@
 iso: kwe
 name: Kwerba
 autonym: Sasawa
+alt_names: [Air Mati, Airmati, Armati, Kaowerawedj, Koassa, Mataweja, Naibedj, Segar Tor, Serikenam, Tekutameso]
 population: 2500
 country_id: ID
 country_name: Indonesia

@@ -2,6 +2,7 @@
 iso: deg
 name: Degema
 autonym: Dekema
+alt_names: [Udekama]
 population: 10000
 country_id: NG
 country_name: Nigeria

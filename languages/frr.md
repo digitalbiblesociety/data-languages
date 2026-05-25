@@ -1,7 +1,9 @@
 ---
 iso: frr
 name: Northern Frisian
+name_zh: 北弗里斯兰语
 autonym: NuurđfriiskFöhr
+alt_names: [Dialetto frisone settentrionale, Freeshlannish Hwoaie, Friesisch, Frisian, Frisian (North), Frisian (Northern), "Frisian, North", "Frisian, Northern", Frison du nord, Frisó septentrional, Frisón septentrional, Frizeg an norzh, Język północnofryzyjski, Lenga frison-a setentrional, Noardfrysk, Noord-Fries, Noordfrais, Noordfreesch, Noordfries, Nordfriesisch, Nordfriesische Sprache, Nordfrisa lingvo, Nordfrisisk, Nordfrisiska, North Frisian, North Frisian language, Northern, Noudfräisk, Sjevernofrizijski jezik, frison septentrional, 北弗里西亚语]
 population: 10000
 country_id: DE
 country_name: Germany

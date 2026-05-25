@@ -2,6 +2,7 @@
 iso: muo
 name: Nyong
 autonym: Mumbake
+alt_names: [Chukkol, Daganonga, Daganyonga, Mubako, Ndagam, Nyoking, Nyongnepa, Peti, Samba Bali, Teteka, Yapeli]
 population: 39500
 country_id: CM
 country_name: Cameroon

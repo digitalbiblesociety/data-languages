@@ -2,6 +2,7 @@
 iso: jiy
 name: Buyuan Jinuo
 autonym: " 基諾語補遠方言"
+alt_names: [Buyuan, Jino, Jinuo, "Jinuo, Buyuan", "Jinuo,Buyuan", Yinuo]
 population: 1000
 country_id: CN
 country_name: China

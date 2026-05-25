@@ -1,7 +1,9 @@
 ---
 iso: pyu
 name: Puyuma
+name_zh: 卑南语
 autonym: Pinuyumayan
+alt_names: [Kadas, Lingua Puyuma, Panapanayan, Pelam, Pilam, Piyuma, Proto-Puyuma, Pyuma, Pî-nàm-ngî, Sprache von Formosa, Tipun, 卑南語]
 population: 8487
 country_id: TW
 country_name: Taiwan

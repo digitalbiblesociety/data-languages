@@ -2,6 +2,7 @@
 iso: gnl
 name: Gangulu
 autonym: Eastern Maric
+alt_names: [Cangoolootha, Gangu, Ghangulu, Ghungalu, Ka ngool lo, Ka-ngool-lo, Kaangooloo, Kangalo, Kangool lo, Kangulu, Kanolu, Khang, Khangalu, Kongalu, Konguli, Kongulu]
 population: null
 country_id: AU
 country_name: Australia

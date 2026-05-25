@@ -2,6 +2,7 @@
 iso: kph
 name: Kplang
 autonym: Prang
+alt_names: [Guang]
 population: 1600
 country_id: GH
 country_name: Ghana

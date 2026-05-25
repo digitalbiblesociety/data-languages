@@ -2,6 +2,7 @@
 iso: mpd
 name: Machinere
 autonym: Piro
+alt_names: [Machinere (Brasil), Manchinere, Manchineri, Manitenere, Manitenerí, Manitenére, Mashineri, Maxineri, Maxineri (Brésil), Maxineri (État plurinational de Bolivie), Maxinéri]
 population: 953
 country_id: BR
 country_name: Brazil

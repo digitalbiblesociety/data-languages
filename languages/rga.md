@@ -2,6 +2,7 @@
 iso: rga
 name: Roria
 autonym: Soisoru
+alt_names: [Mores, Morés, Toksiki]
 population: 75
 country_id: VU
 country_name: Vanuatu

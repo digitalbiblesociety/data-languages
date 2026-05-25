@@ -1,7 +1,9 @@
 ---
 iso: pmi
 name: Northern Pumi
+name_zh: 北部普米语
 autonym: Prinmi
+alt_names: ["Ch'rame", Northern, Northern Prinmi, "P'rome", "P'umi", "P'ömi", Pimi, Primi, Primmi, Pruumi, Pumi, "Pumi, Northern", "Pumi,Northern", Southern, 北普米語]
 population: 10000
 country_id: CN
 country_name: China

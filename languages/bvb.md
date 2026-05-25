@@ -1,7 +1,9 @@
 ---
 iso: bvb
 name: Bube
+name_zh: 布比語
 autonym: Adeeyah
+alt_names: [Adija, Bobe, Boobe, Boombe, Bubi, Ediya, Fernandian, Idioma bubi, Język bubi]
 population: 61000
 country_id: GQ
 country_name: Equatorial Guinea

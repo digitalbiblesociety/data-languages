@@ -2,6 +2,7 @@
 iso: kqo
 name: Eastern Krahn
 autonym: Eastern Krahn
+alt_names: [Eastern Kran, "Krahn, Eastern", Kran]
 population: 109800
 country_id: LR
 country_name: Liberia

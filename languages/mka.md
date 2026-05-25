@@ -2,6 +2,7 @@
 iso: mka
 name: Mbre
 autonym: Pere
+alt_names: [Bere, Bre, Pre, Pre Pisia]
 population: 200
 country_id: CI
 country_name: "Côte d'Ivoire"

@@ -2,6 +2,7 @@
 iso: wyi
 name: Woiwurrung
 autonym: "Gungung-willam"
+alt_names: [Bayry-Binip, Coraloon, Djadjuwuru, Douta Galla, Doutta Galla, Dutagall, Dutigalla, Gunungwillam, Jacka Jacka, Jacky Jacky, Jaga Jaga, Jagger Jagger, Jigga Jigga, Kukeruk, Kukuruk, Kurunjang, Melbourne dialect, Mort Noular, Mortnoular, "N' uther Galla", "N'uther Galla", Ngarukwillam, Nuthergalla, Oorongie, Oorongir, Port Phillip, Urunjeri, Wa-ver-ong, Wa-wo-rong, Wa-woorong, Waarengbadawa, Waewarung, Wainworra, Wairwaioo, Waoorong, Warerong, Warorong, Warwaroo, Warweroo, Warworong, Wauerong, Wavarong, Wave ver rong, Waverang, Wavererong, Waverong, Wavoo-rong, Wavoorong, Wavorong, Wawarong, Wawaurrong, Wawoo-rong, Wawoorong, Waworong, Waworung, Wawroonong, Wawurong, Wawurrong, Wayoerong, Woe-wu-rrong, Woe-wurung, Woeewoorong, Woewo-rung, Woeworong, Woeworun, Woeworung, Woewurong, Woewurung, Woey-wurung, Woeywurong, Woi worung, Woi wurrung, Woi wurung, Woi-Wurung, Woi-wurrong, Woi-wurru, Woiwoeung, Woiworung, Woiwurong, Woiwurra, Woiwurru, Woiwuru, Woiwurung, Wooeewoorong, Woororong, Woovoorong, Wooworong, Worworong, Wowerong, Wowoorong, Wurrundyirra-baluk, Wurrunjeri, Wurundjeri, Wurunjeri, Wurunjerri, Wurunjerri-baluk, Wuywurrung, Yarra, Yarra River, Yarra Yar, Yarra Yarra]
 population: null
 country_id: AU
 country_name: Australia

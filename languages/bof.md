@@ -2,6 +2,7 @@
 iso: bof
 name: Bolon
 autonym: Bo
+alt_names: [Boka]
 population: 17000
 country_id: BF
 country_name: Burkina Faso

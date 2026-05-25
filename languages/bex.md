@@ -2,6 +2,7 @@
 iso: bex
 name: Jur Modo
 autonym: Jur
+alt_names: [Jur Mödö, Modo, Morokodo, Mödö]
 population: 180000
 country_id: SS
 country_name: South Sudan

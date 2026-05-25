@@ -2,6 +2,7 @@
 iso: aqg
 name: Arigidi
 autonym: Arigidi
+alt_names: [Akoko language, North Akoko]
 population: 3000
 country_id: NG
 country_name: Nigeria

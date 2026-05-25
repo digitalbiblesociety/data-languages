@@ -1,7 +1,9 @@
 ---
 iso: tas
 name: Tay Boi
+name_zh: 越南法语
 autonym: Annamite French
+alt_names: [Annamito French, South Vietnam French, Tay Boy, Tây Bồi, Vietnamese Pidgin French]
 population: null
 country_id: VN
 country_name: Vietnam

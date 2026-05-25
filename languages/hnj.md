@@ -1,7 +1,9 @@
 ---
 iso: hnj
 name: Hmong Njua
+name_zh: 绿苗语
 autonym: lus Hmoob / lug Moob / lol Hmongb
+alt_names: [Blue Hmong, Blue Meo, Blue Miao, Ching Miao, Green Hmong, Green Meo, Green Miao, Hmong Lens, Hmong Nzhua, Hmoob Leeg, Lu Miao, Meo Dam, Meo Lai, Mong Leng, Mong Njua, Mong Ntsua, Qing Miao, Red Miao, Tak Miao, White Miao]
 population: 316750
 country_id: LA
 country_name: Laos

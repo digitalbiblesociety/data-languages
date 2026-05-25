@@ -2,6 +2,7 @@
 iso: cbt
 name: Chayahuita
 autonym: Cahuapana
+alt_names: [Balsapuertino, Balsopuertino, Cahuapa, Chaui, Chawi, Chayabita, Chayawita, Chayawita simi, Chayhuita, Kahuapana, Paranapura, Shawi, Shayabit, Tchayahouiteg, Tsaawí, Tschaahui, Tshaahui]
 population: 14000
 country_id: PE
 country_name: Peru

@@ -2,6 +2,7 @@
 iso: ktl
 name: Koroshi
 autonym: کوروشی
+alt_names: [Korochí]
 population: 180
 country_id: IR
 country_name: Iran

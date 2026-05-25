@@ -1,6 +1,7 @@
 ---
 iso: xqa
 name: Karakhanid
+name_zh: 喀喇汗语
 autonym: "Türki, Türkçe"
 population: null
 country_id: TR

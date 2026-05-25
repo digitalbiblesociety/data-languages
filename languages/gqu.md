@@ -1,7 +1,9 @@
 ---
 iso: gqu
 name: Qau
+name_zh: 稿方言
 autonym: Kláo
+alt_names: [Aqaw, Chilao, Gao, Gao Gelao, Gelo, Ilao, Keh-lao, Kehlao, Kelao, Keleo, Khi, Klau, Klo, Lao, 仡佬語稿方言]
 population: 2000
 country_id: CN
 country_name: China

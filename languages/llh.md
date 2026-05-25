@@ -1,6 +1,7 @@
 ---
 iso: llh
 name: Lamu
+name_zh: 拉姆语
 autonym: null
 population: 120
 country_id: CN

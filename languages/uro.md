@@ -2,6 +2,7 @@
 iso: uro
 name: Ura (Papua New Guinea)
 autonym: Auramot
+alt_names: [Neu-Pommern, Ura, Uramet, Uramit, Uramot, Uramät]
 population: 1900
 country_id: PG
 country_name: Papua New Guinea

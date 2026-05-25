@@ -2,6 +2,7 @@
 iso: tkm
 name: Takelma
 autonym: "Ta:kɛlmàʔn"
+alt_names: [Idioma takelman, Lowland Takelma, Takelma hizkuntza, Takelman, Takelmeg, Takilma, Takilman, Такелма]
 population: null
 country_id: US
 country_name: United States

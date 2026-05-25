@@ -1,7 +1,9 @@
 ---
 iso: prk
 name: Parauk
+name_zh: 巴饶克方言
 autonym: Va
+alt_names: [Baraog, Baroke, Paraok, Paruk Wa, Phalok, Praok, Wa]
 population: 805700
 country_id: MM
 country_name: Myanmar

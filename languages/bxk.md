@@ -2,6 +2,7 @@
 iso: bxk
 name: Bukusu
 autonym: Lubukusu
+alt_names: [Boukousoueg, Lugha ya Bukusu]
 population: 1227100
 country_id: KE
 country_name: Kenya

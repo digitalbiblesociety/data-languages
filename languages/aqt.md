@@ -2,6 +2,7 @@
 iso: aqt
 name: Angaité
 autonym: Enenlhet
+alt_names: [Angaite, Enlit, Nempayvvoma]
 population: null
 country_id: PY
 country_name: Paraguay

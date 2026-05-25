@@ -2,6 +2,7 @@
 iso: mfz
 name: Mabaan
 autonym: Mabaan
+alt_names: [Barga, Gura, Maaban, Maban, Meban, Southern Burun, Süd-Burun, Tonko, Tungan, Ulu]
 population: 90000
 country_id: SS
 country_name: South Sudan

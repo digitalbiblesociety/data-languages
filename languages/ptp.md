@@ -2,6 +2,7 @@
 iso: ptp
 name: Patep
 autonym: null
+alt_names: [Buang, Dengalu, Mumeng, Ptep]
 population: 1700
 country_id: PG
 country_name: Papua New Guinea

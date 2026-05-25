@@ -1,7 +1,9 @@
 ---
 iso: apj
 name: Jicarilla Apache
+name_zh: 希卡里亚语
 autonym: Abáachi mizaa
+alt_names: [Apache, Apache (Eastern), Apache (Jicarilla), Apache jicarilla, "Apache, Jicarilla", Eastern Apache, Hikariya, Jicarilla, Jicarilla language]
 population: 3100
 country_id: US
 country_name: United States

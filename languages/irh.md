@@ -2,6 +2,7 @@
 iso: irh
 name: Irarutu
 autonym: Irahutu
+alt_names: [Arguni Bay, Irutu, Kaitero, Kasira]
 population: 4000
 country_id: ID
 country_name: Indonesia

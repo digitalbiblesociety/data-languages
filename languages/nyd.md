@@ -2,6 +2,7 @@
 iso: nyd
 name: Nyore
 autonym: Olunyole
+alt_names: [Lunyole, Lunyore, Nyole, Nyoole, Olunyore]
 population: 155000
 country_id: KE
 country_name: Kenya

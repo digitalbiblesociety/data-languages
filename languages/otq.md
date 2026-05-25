@@ -2,6 +2,7 @@
 iso: otq
 name: Querétaro Otomi
 autonym: "Otomi, Querétaro"
+alt_names: [Hñohño, Northwest, Northwestern Otomi, Northwestern Otomí, Otomi, Otomí, Otomí (Northwestern), Otomí (Santiago Mexquititlan), Otomí de Mezquital, Otomí de Querétaro, Otomí de la Sierra, Otomí del valle de Mezquital, Otomí nord-occidental, Otomí noroccidental, Queretaro Otomi, Santiago Mexquititlan, Western Otomi, Western Otomí]
 population: 33000
 country_id: MX
 country_name: Mexico

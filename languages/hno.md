@@ -2,6 +2,7 @@
 iso: hno
 name: Northern Hindko
 autonym: ہندکو
+alt_names: [Hazara Hindko, Hindki, "Hindko, Northern", Kagani, Kaghani, Lahnda, Northeastern Lahnda]
 population: 3570000
 country_id: PK
 country_name: Pakistan

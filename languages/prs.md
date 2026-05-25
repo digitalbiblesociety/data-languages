@@ -1,7 +1,9 @@
 ---
 iso: prs
 name: Dari
+name_zh: 达里语
 autonym: دری
+alt_names: [Afghan Persian, Badakhshi, Dari (in Afghanistan), Darwazi, Farsi, "Farsi, Eastern", Madaglashti, Neupersisch, Parsi, Persian, "Persian, Afghan", Tajik]
 population: 9446200
 country_id: AF
 country_name: Afghanistan

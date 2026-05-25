@@ -2,6 +2,7 @@
 iso: aws
 name: South Awyu
 autonym: South Awyu
+alt_names: ["Awyu, South", Jenimu, Oser, Siagha, Siagha-Yenimu, Sjiagha, Syiagha, Syiagha-Yenimu, Yenimu]
 population: 9340
 country_id: ID
 country_name: Indonesia

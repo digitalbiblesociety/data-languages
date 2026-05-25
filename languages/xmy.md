@@ -2,6 +2,7 @@
 iso: xmy
 name: Mayaguduna
 autonym: Mayaguduna
+alt_names: [Maigudina, Maigudung, Maikudun, Maikudung, Maikudunu, Marago, Mayagoondoon, Mayagudunu, Maygudan, Mayi Yali, Mayi-KutanaMayaguduna, Mayi-Kutuna, Mika doon, Mika-doon, Mikoodoono, Mikoolun, Mygoodan, Mygoodano]
 population: null
 country_id: AU
 country_name: Australia

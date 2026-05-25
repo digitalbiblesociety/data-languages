@@ -2,6 +2,7 @@
 iso: buo
 name: Terei
 autonym: Buin
+alt_names: [Rugara, Telei]
 population: 26500
 country_id: PG
 country_name: Papua New Guinea

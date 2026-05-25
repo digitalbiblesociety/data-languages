@@ -2,6 +2,7 @@
 iso: kch
 name: Vono
 autonym: Kivɔnɔ
+alt_names: [Kiballo, Kiwollo]
 population: 500
 country_id: NG
 country_name: Nigeria

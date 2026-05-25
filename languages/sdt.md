@@ -1,6 +1,7 @@
 ---
 iso: sdt
 name: Shuadit
+name_zh: 犹太普罗旺斯方言
 autonym: Shuadit
 population: null
 country_id: FR

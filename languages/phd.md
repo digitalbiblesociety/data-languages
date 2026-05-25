@@ -2,6 +2,7 @@
 iso: phd
 name: Phudagi
 autonym: Vadvali
+alt_names: [Vadval]
 population: 1010
 country_id: IN
 country_name: India

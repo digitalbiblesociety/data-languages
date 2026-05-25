@@ -1,7 +1,9 @@
 ---
 iso: ymd
 name: Muda
+name_zh: 木达语
 autonym: null
+alt_names: [Muta]
 population: 2000
 country_id: CN
 country_name: China

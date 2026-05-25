@@ -1,7 +1,9 @@
 ---
 iso: mhq
 name: Mandan
+name_zh: 曼丹语
 autonym: Nų́ų́ʔetaa íroo
+alt_names: [Mandaneg, Mandano]
 population: 130
 country_id: US
 country_name: United States

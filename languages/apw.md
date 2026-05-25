@@ -1,7 +1,9 @@
 ---
 iso: apw
 name: Western Apache
+name_zh: 西阿帕奇語
 autonym: "Ndee biyáti' / Nnee biyáti' "
+alt_names: [Apache, Apache (San Carlos), Apache (Western), Apache occidental, "Apache, Western", Arivaipa, Cibecu, Coyotero, Kunti apachi simi, San Carlos Apache, San Carlos Cluster, San Carlos-Southern Tonto, Tonto, W Apache, W. Apache, Western, White River Apache, Западно-апачский язык]
 population: 14000
 country_id: US
 country_name: United States

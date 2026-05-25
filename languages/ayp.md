@@ -1,7 +1,9 @@
 ---
 iso: ayp
 name: North Mesopotamian Arabic
+name_zh: 北美索不達米亞阿拉伯語
 autonym: اللهجة الموصلية
+alt_names: [Anatolian Arabic, Arabic, "Arabic, North Mesopotamian", "Arabic, North Mesopotamian Spoken", Mesopotamian Arabic, Mesopotamian Qeltu Arabic, Moslawi, Sjevernomezopotamski arapski, Syro-Mesopotamian Arabic, Syro-Mesopotamian Vernacular Arabic, مصلاوية]
 population: 10266000
 country_id: IQ
 country_name: Iraq

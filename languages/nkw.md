@@ -2,6 +2,7 @@
 iso: nkw
 name: Nkutu
 autonym: Bankutu
+alt_names: [Nkuchu, Nkutshu]
 population: 40000
 country_id: CD
 country_name: DR Congo

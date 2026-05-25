@@ -1,7 +1,9 @@
 ---
 iso: pnx
 name: "Phong-Kniang"
+name_zh: 克年语
 autonym: Kniang
+alt_names: [Keneng, Kenieng, Khaniang, Lao Phong, "P'eng", Pheng, Phong, Pong, Pong 3, Theng]
 population: 1000
 country_id: LA
 country_name: Laos

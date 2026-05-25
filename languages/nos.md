@@ -2,6 +2,7 @@
 iso: nos
 name: Eastern Nisu
 autonym: Southern Yi
+alt_names: [Lolo, Nasu, Nisu, "Nisu, Eastern", "Nisu,Eastern", Nosu, Shiping-Jianshui Nisu, Shiping-Jianshui Yi, Yi, "Yi, Southern"]
 population: 75000
 country_id: CN
 country_name: China

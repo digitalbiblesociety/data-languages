@@ -2,6 +2,7 @@
 iso: bse
 name: Wushi
 autonym: Babessi
+alt_names: [Pesii, Sii, Vesi]
 population: 25000
 country_id: CM
 country_name: Cameroon

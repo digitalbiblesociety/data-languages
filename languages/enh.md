@@ -2,6 +2,7 @@
 iso: enh
 name: Tundra Enets
 autonym: Онэй база
+alt_names: [Enec, Enets, Enets de la toundra, "Enets, Tundra", Enzisch, Eńeć, Jenisei, Jenisej-Samojedisch, Jenissei-Dialekt, Madu, Samojedi, Samojedimanzela, Somatu, Somatu Enets, Yenets, Yenisei Samoyed, Yenisei Samoyedic, Yenisei Somoyed, Yenisey, Yenisey Samoyedic, Yenisey-Samoyedic, Yensisei-Samoyed, enete, enetj, enetsin kieli, enyec nyelv, iénisséi, "ona' bazaan", Éncico de la tundra, èncy, онаь базаан, сомату, тундровый энецкий]
 population: 198
 country_id: RU
 country_name: Russia

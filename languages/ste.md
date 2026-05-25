@@ -2,6 +2,7 @@
 iso: ste
 name: "Liana-Seti"
 autonym: "Liana-Seti"
+alt_names: [Liambata-Kobi, Liana, Lianan, Teula, Uhei Kachlakan, Uhei Kaclakin, Uhei Kahlakim]
 population: 3000
 country_id: ID
 country_name: Indonesia

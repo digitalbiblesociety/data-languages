@@ -2,6 +2,7 @@
 iso: jee
 name: Jerung
 autonym: Jero
+alt_names: [Jero Mala, Jerum, Jerunge, Jherung, Yerún, Zero, Zero Mala, Zerum]
 population: 2000
 country_id: NP
 country_name: Nepal

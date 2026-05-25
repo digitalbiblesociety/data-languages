@@ -2,6 +2,7 @@
 iso: brv
 name: Western Bru
 autonym: Bruu
+alt_names: ["B'ru", Baroo, Baru, Brou, Bru, Bru (Western), "Bru, Western", Leu, Leung, Muong Leong, Quàngtri Vân Kiêu, Tri, Western]
 population: 20000
 country_id: TH
 country_name: Thailand

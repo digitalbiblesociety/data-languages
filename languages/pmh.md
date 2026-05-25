@@ -1,7 +1,9 @@
 ---
 iso: pmh
 name: Māhārāṣṭri Prākrit
+name_zh: 马哈拉施特拉俗语
 autonym: "Brahmi: 𑀫𑀳𑀸𑀭𑀸𑀱𑁆𑀝𑁆𑀭𑀻,"
+alt_names: ["Prākrit, Māhārāṣṭri"]
 population: null
 country_id: IN
 country_name: India

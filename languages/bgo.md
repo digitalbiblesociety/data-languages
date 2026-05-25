@@ -2,6 +2,7 @@
 iso: bgo
 name: Baga Koga
 autonym: Barka
+alt_names: [Baga, Koba, Koga, Temne]
 population: 5000
 country_id: GN
 country_name: Guinea

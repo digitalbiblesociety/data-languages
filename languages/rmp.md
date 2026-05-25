@@ -2,6 +2,7 @@
 iso: rmp
 name: Rempi
 autonym: "A'e"
+alt_names: [Erempi, Rempin]
 population: 1590
 country_id: PG
 country_name: Papua New Guinea

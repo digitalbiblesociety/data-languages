@@ -2,6 +2,7 @@
 iso: gvf
 name: Golin
 autonym: null
+alt_names: [Chimbu, Gollum, Gumine]
 population: 51100
 country_id: PG
 country_name: Papua New Guinea

@@ -2,6 +2,7 @@
 iso: gcn
 name: Gaina
 autonym: "Korafe-Yegha"
+alt_names: [Baredji]
 population: 1000
 country_id: PG
 country_name: Papua New Guinea

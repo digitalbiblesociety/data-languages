@@ -2,6 +2,7 @@
 iso: vbk
 name: Southwestern Bontok
 autonym: Finallig
+alt_names: ["Bontok, Southwestern"]
 population: 2470
 country_id: PH
 country_name: Philippines

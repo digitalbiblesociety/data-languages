@@ -2,6 +2,7 @@
 iso: bxn
 name: Burduna
 autonym: Bayungu
+alt_names: [Boordoona, Bootena, Boruna, Bu-tena, Budina, Budoona, Buduna, Burdana, Buruna, Peedona, Pinneegooroo, Poodena, Poordoona, Puduna, Purduma, Purduna, Talandji-Buduna, Wati Paruna, Wati Puruna]
 population: null
 country_id: AU
 country_name: Australia

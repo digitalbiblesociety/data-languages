@@ -1,7 +1,9 @@
 ---
 iso: bsc
 name: Bassari
+name_zh: 巴萨里语
 autonym: Oniyan
+alt_names: [Ayan, Basari, Basarí, Biyan, Onian, Onëyan, Tenda Basari, Wo]
 population: 31200
 country_id: SN
 country_name: Senegal

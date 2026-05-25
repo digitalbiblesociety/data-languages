@@ -1,7 +1,9 @@
 ---
 iso: thf
 name: Thangmi
+name_zh: 唐米語
 autonym: " Thangmi Khan"
+alt_names: [Dolakha, Thami, Thāmī]
 population: 24200
 country_id: NP
 country_name: Nepal

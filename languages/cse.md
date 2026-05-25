@@ -1,6 +1,7 @@
 ---
 iso: cse
 name: Czech Sign Language
+name_zh: 捷克手语
 autonym: Český znakový jazyk
 population: 10000
 country_id: CZ

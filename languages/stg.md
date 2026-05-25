@@ -2,6 +2,7 @@
 iso: stg
 name: Trieng
 autonym: Trieng
+alt_names: [Dgiéh, Giang Ray, Gie-Trieng, Pin, Strieng, Ta-Rieng, Talieng, Tareh, Treng]
 population: 15000
 country_id: VN
 country_name: Vietnam

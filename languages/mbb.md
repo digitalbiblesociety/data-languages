@@ -2,6 +2,7 @@
 iso: mbb
 name: Western Bukidnon Manobo
 autonym: Western Bukidnon Manobo
+alt_names: [Bukidnon, Manobo (Western Bukidnon), "Manobo, Western Bukidnon", West Bukidnon Manobo, Western Bukidnon]
 population: 15000
 country_id: PH
 country_name: Philippines

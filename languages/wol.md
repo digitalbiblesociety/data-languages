@@ -1,7 +1,9 @@
 ---
 iso: wol
 name: Wolof
+name_zh: 沃洛夫語
 autonym: Wolof
+alt_names: [Dyolof, Ouolof, Volof, Walaf, Waro-Waro, Wolof (Dakar), Yallof]
 population: 5926290
 country_id: SN
 country_name: Senegal

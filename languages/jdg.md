@@ -1,7 +1,9 @@
 ---
 iso: jdg
 name: Jadgali
+name_zh: 贾德加利语
 autonym: Jat
+alt_names: [Jatgali, Jatki]
 population: 25600
 country_id: PK
 country_name: Pakistan

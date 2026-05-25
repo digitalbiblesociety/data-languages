@@ -2,6 +2,7 @@
 iso: tdm
 name: Taruma
 autonym: hodjasu dzudzu
+alt_names: [Aroaqui, Taruamá]
 population: null
 country_id: GY
 country_name: Guyana

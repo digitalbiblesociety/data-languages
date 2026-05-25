@@ -1,7 +1,9 @@
 ---
 iso: ega
 name: Ega
+name_zh: 艾嘉語
 autonym: Diés
+alt_names: [Egwa]
 population: 2500
 country_id: CI
 country_name: "Côte d'Ivoire"

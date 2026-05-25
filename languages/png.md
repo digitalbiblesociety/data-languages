@@ -2,6 +2,7 @@
 iso: png
 name: Pongu
 autonym: Rin
+alt_names: [Akwa, Arringeu, Pana, Pangu, Pnogu, Pongo, Ri, Tarya, ポング語]
 population: 30000
 country_id: NG
 country_name: Nigeria

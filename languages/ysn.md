@@ -1,7 +1,9 @@
 ---
 iso: ysn
 name: Sani
+name_zh: 撒尼语
 autonym: Southeastern Yi
+alt_names: [Lolo, Yi, "Yi, Sani"]
 population: 100000
 country_id: CN
 country_name: China

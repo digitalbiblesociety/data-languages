@@ -1,6 +1,7 @@
 ---
 iso: mul
 name: Multiple languages
+name_zh: 多语种
 autonym: null
 population: null
 country_id: ZZ

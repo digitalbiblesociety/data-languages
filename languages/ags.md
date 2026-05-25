@@ -1,7 +1,9 @@
 ---
 iso: ags
 name: Esimbi
+name_zh: 埃辛比语
 autonym: Aage
+alt_names: [Age, Bogue, Essimbi, Isimbi, Mburugam, Simpi]
 population: 20000
 country_id: CM
 country_name: Cameroon

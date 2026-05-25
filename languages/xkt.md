@@ -2,6 +2,7 @@
 iso: xkt
 name: Kantosi
 autonym: "Dagaare-Dioula"
+alt_names: [Dagaari Dioula, Dagaari-Jula, Dagaari-Yula, Kantonsi, Yare, Yari, Yarsi]
 population: 2300
 country_id: GH
 country_name: Ghana

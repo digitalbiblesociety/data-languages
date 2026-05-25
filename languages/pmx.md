@@ -2,6 +2,7 @@
 iso: pmx
 name: Poumei Naga
 autonym: Sopvoma
+alt_names: ["Naga, Poumei", "Naga,Poumei", Paumei, Pomai, Pome, Poumei]
 population: 143000
 country_id: IN
 country_name: India

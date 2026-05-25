@@ -2,6 +2,7 @@
 iso: hoz
 name: Hozo
 autonym: "Begi-Mao"
+alt_names: [Hozo-seco, Mao of Begi]
 population: 3000
 country_id: ET
 country_name: Ethiopia

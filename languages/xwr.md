@@ -2,6 +2,7 @@
 iso: xwr
 name: Kwerba Mamberamo
 autonym: Nopuk
+alt_names: [Napok, Nobuk, Nogukwabai, Nopukw, Tatsewalem]
 population: 300
 country_id: ID
 country_name: Indonesia

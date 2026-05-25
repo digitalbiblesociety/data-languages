@@ -2,6 +2,7 @@
 iso: kvg
 name: "Kuni-Boazi"
 autonym: Kuni
+alt_names: [Boadji, Boazi, Bwadji, Kuini]
 population: 4500
 country_id: PG
 country_name: Papua New Guinea

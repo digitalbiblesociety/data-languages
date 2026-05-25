@@ -1,7 +1,9 @@
 ---
 iso: kde
 name: Makonde
+name_zh: 馬孔德語
 autonym: Chi(ni)makonde
+alt_names: [Chimakonde, Chinimakonde, Cimakonde, Konde, Maconde, Makonda, Matambwe, Mawiha, Shimakonde]
 population: 1995000
 country_id: TZ
 country_name: Tanzania

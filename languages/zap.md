@@ -1,6 +1,7 @@
 ---
 iso: zap
 name: Zapotec
+name_zh: 萨波特克语
 autonym: "Diidxazá, Dizhsa"
 population: 777000
 country_id: MX

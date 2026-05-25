@@ -2,6 +2,7 @@
 iso: zoc
 name: Copainalá Zoque
 autonym: Zoque de Copainalá
+alt_names: [Central Zoque, Chiapas Soke, Copainala Zoque, Copainalá, Ostuacan Zoque, Ostuacán, Soke, Sokean, Tecpatán, Zoque, Zoque (Copainalá), Zoque (Ostuacan), Zoque de Copainalí, "Zoque, Copainalá", "Zoque, Copainalí"]
 population: 10000
 country_id: MX
 country_name: Mexico

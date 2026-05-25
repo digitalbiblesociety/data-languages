@@ -2,6 +2,7 @@
 iso: mrg
 name: Mising
 autonym: Mising–Padam–Minyong
+alt_names: [Hill Miri, Miri, Mishing, Plains Miri, Takam]
 population: 630000
 country_id: IN
 country_name: India

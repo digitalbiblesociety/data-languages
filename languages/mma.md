@@ -2,6 +2,7 @@
 iso: mma
 name: Mama
 autonym: Kantana
+alt_names: [Kwarra]
 population: 20000
 country_id: NG
 country_name: Nigeria

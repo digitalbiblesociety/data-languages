@@ -1,7 +1,9 @@
 ---
 iso: zal
 name: Zauzou
+name_zh: 柔若语
 autonym: Rouruo
+alt_names: [Independent Lolo, Jaojo, Raorou, Raoruo, Rourou, Zaozou, 柔若語]
 population: 2100
 country_id: CN
 country_name: China

@@ -1,6 +1,7 @@
 ---
 iso: bnf
 name: Masiwang
+name_zh: 马西望语
 autonym: Bonfia
 population: 1000
 country_id: ID

@@ -2,6 +2,7 @@
 iso: rkb
 name: Rikbaktsa
 autonym: erigpaksá
+alt_names: [Aripaktsa, Aripaktsá, Canoeiro, Caoeiro, Eribatsa, Erikbatsa, Erikpatsa, Eripatsa, Rikbaktsá]
 population: 910
 country_id: BR
 country_name: Brazil

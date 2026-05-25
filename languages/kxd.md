@@ -1,7 +1,9 @@
 ---
 iso: kxd
 name: Brunei
+name_zh: 汶萊馬來語
 autonym: Kedayan
+alt_names: [Brunei-Kadaian, Orang Bukit]
 population: 321000
 country_id: BN
 country_name: Brunei

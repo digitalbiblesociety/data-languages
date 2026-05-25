@@ -2,6 +2,7 @@
 iso: mpg
 name: Marba
 autonym: Marba / Azumeina
+alt_names: ["'Azumeina", Azumeina, Kolong, Kulong, Kulung, Maraba, Marba hizkuntza, Marba jezik, Marbaeg]
 population: 271000
 country_id: TD
 country_name: Chad

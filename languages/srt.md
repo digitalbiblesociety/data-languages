@@ -2,6 +2,7 @@
 iso: srt
 name: Sauri
 autonym: bahasa Sauri
+alt_names: [Indonesia]
 population: 100
 country_id: ID
 country_name: Indonesia

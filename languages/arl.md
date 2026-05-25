@@ -2,6 +2,7 @@
 iso: arl
 name: Arabela
 autonym: Tapweyokwaka
+alt_names: [Andoa, Arabela-Andoa, Arabeleg, Chiripuno, Chiripunu, Idioma arabela]
 population: 400
 country_id: PE
 country_name: Peru

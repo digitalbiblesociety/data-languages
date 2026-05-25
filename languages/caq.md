@@ -1,7 +1,9 @@
 ---
 iso: caq
 name: Car Nicobarese
+name_zh: 卡尔尼科巴语
 autonym: Pū
+alt_names: [Car, Car Nikobar, Car language, Kar Nicobar-Chowra, Kareg Inizi Nikobar, Nicobarese, Nicobarese (Car), "Nicobarese, Car", Pu, Pur, Puː, Кар]
 population: 37000
 country_id: IN
 country_name: India

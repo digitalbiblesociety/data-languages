@@ -1,6 +1,7 @@
 ---
 iso: yid
 name: Yiddish
+name_zh: 意第绪语
 autonym: יודישע
 population: 1000000
 country_id: IL

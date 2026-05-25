@@ -2,6 +2,7 @@
 iso: dyb
 name: Dyaberdyaber
 autonym: Dyaberdyaber
+alt_names: [Djaba Djaba, Djaber Djaber, Djaberadjaber, Djaberadjabera, Djaberdjaber, Djabirdjabir, Djabirr Djabirr, Dyabir-Dyabir, Jabirr Jabirr, Jabirr-Jabirr, Jabirrjabirr, Tjabartjabara, Tjabiratjabir, Tjabirtjabira]
 population: null
 country_id: AU
 country_name: Australia

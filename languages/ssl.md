@@ -2,6 +2,7 @@
 iso: ssl
 name: Western Sisaala
 autonym: Sissala
+alt_names: [Busillu Sisala, Hissala, Isala, Issala, Sisaala, Sisaala (Western), "Sisaala, Western", Sisai, Sisala, Сисала]
 population: 30000
 country_id: GH
 country_name: Ghana

@@ -2,6 +2,7 @@
 iso: ehu
 name: Ehueun
 autonym: Ekpenmen
+alt_names: [Ekpimi, Epimi]
 population: 14200
 country_id: NG
 country_name: Nigeria

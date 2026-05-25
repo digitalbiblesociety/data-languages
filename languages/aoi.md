@@ -1,7 +1,9 @@
 ---
 iso: aoi
 name: Anindilyakwa
+name_zh: 阿宁迪利亚夸语
 autonym: Enindhilyakwa
+alt_names: [Amakurupa, Andilagwa, Andiljangwa, Andiljaugwa, Andiljaukwa, Andilyaugwa, Anindhilyakwa, Anindilyaugwa, Aninhdhilyagwa, Awarikpa, En Indiljaugwa, Enindhilyagwa, Enindhilyagwa language, Enindiljaugwa, Eninhdhilyagwa, Groote Eylandt, Ingura, Lamadalpu, Lingua enindhilyagwa, Wani-Ndiljaugwa, Wanindilyaugwa, Wanindilyaugwa Ingura, Warnindilyakwa, Энинтильяква]
 population: 1240
 country_id: AU
 country_name: Australia

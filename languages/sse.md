@@ -2,6 +2,7 @@
 iso: sse
 name: Balangingi
 autonym: Bajau
+alt_names: [Bangingih Sama, Sama (Balangingi), Sama (North), Sama (Northern), "Sama, Bangingih"]
 population: 85000
 country_id: PH
 country_name: Philippines

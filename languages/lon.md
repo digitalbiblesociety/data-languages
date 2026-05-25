@@ -2,6 +2,7 @@
 iso: lon
 name: Malawi Lomwe
 autonym: Anguru
+alt_names: ["Lomwe, Malawi", Nguru]
 population: 3990000
 country_id: MW
 country_name: Malawi

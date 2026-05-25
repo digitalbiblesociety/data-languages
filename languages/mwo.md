@@ -2,6 +2,7 @@
 iso: mwo
 name: Central Maewo
 autonym: " Peterara"
+alt_names: [Maevo, "Maewo, Central", Tanoriki]
 population: 1400
 country_id: VU
 country_name: Vanuatu

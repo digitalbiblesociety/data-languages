@@ -2,6 +2,7 @@
 iso: soo
 name: Songo
 autonym: Eyansi
+alt_names: [Itsong, Kisongo, Nsong]
 population: 23400
 country_id: CD
 country_name: DR Congo

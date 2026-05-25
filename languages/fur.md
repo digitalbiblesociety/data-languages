@@ -1,7 +1,9 @@
 ---
 iso: fur
 name: Friulian
+name_zh: 弗留利语
 autonym: furlan
+alt_names: [Bahasa Friuli, Bahasa Friulia, Ffriŵleg, Frioels, Friolan, Frioulan, Friouleg, Frioulian, Friulaans, Friulano, Friuli nyelv, Friuliera, Friulin kieli, Friulisch, Friulisk, Friuliska, Friulski jezik, Friulu valoda, Friulčina, Friúl, Friülès, Furlanek, Furlanische Sprache, Furlanština, Furlanščina, Furlańsko godka, Fut-liù-li-ngî, Fôrlan, Idioma friulano, Idioma friulán, Język friulski, Lenghe furlane, Lengua friulana, Limba friuliană, Lingua Foroiuliensis, Lingua friulana, Lingua furlana, Língua friulana, Priulian, Zimanê fûrlanî, Фриулски език, Фриульский язык, Фрыульская мова, Фурлански језик, Ֆրիուլիերեն, פורלן, ፍሪዩልያን, フリウリ語, 弗留利语]
 population: 600000
 country_id: IT
 country_name: Italy

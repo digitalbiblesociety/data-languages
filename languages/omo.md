@@ -2,6 +2,7 @@
 iso: omo
 name: Utarmbung
 autonym: Utarmbung
+alt_names: [Osum]
 population: 1170
 country_id: PG
 country_name: Papua New Guinea

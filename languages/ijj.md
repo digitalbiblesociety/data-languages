@@ -2,6 +2,7 @@
 iso: ijj
 name: Ede Ije
 autonym: Holi
+alt_names: [Ije]
 population: 155000
 country_id: BJ
 country_name: Benin

@@ -2,6 +2,7 @@
 iso: wfg
 name: Yafi
 autonym: Zorop
+alt_names: [Jafi, Jafi Wagarindem, Jafí, Wagarindem, Wargarindem, Warlef, Yaffi]
 population: 230
 country_id: ID
 country_name: Indonesia

@@ -1,7 +1,9 @@
 ---
 iso: sne
 name: Bau Bidayuh
+name_zh: 查格依
 autonym: Bau
+alt_names: [Bau-Jagoi, "Bidayuh, Bau", Dayak, Jaggoi, Jagoi, Sarawak Dayak]
 population: 29200
 country_id: MY
 country_name: Malaysia

@@ -1,7 +1,9 @@
 ---
 iso: aee
 name: Northeast Pashai
+name_zh: 东北帕沙伊语
 autonym: Pashai
+alt_names: [Dardu, Northeast Pashayi, Northeastern Pašaī, Pasayí, "Pashai, Northeast", "Pashayi, Northeast"]
 population: 54400
 country_id: AF
 country_name: Afghanistan

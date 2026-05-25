@@ -2,6 +2,7 @@
 iso: kqe
 name: Kalagan
 autonym: Kagan
+alt_names: [Philippines]
 population: 48900
 country_id: PH
 country_name: Philippines

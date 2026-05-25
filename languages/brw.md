@@ -2,6 +2,7 @@
 iso: brw
 name: Bellari
 autonym: ಬೆಳ್ಳಾರಿ ബെല്ലാരി
+alt_names: [Belarí]
 population: 1350
 country_id: IN
 country_name: India

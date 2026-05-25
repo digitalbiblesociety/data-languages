@@ -2,6 +2,7 @@
 iso: zpu
 name: Yalálag Zapotec
 autonym: "Zapotec, Yalálag"
+alt_names: [Cajonos Zapotec, Northern Sapoteko, Villalta (non-preferred), Yalalag Zapotec, Zapotec, dill xhon]
 population: 3500
 country_id: MX
 country_name: Mexico

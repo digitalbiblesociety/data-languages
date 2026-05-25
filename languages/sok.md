@@ -2,6 +2,7 @@
 iso: sok
 name: Sokoro
 autonym: null
+alt_names: [Bedanga]
 population: 5000
 country_id: TD
 country_name: Chad

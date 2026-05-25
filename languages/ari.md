@@ -1,7 +1,9 @@
 ---
 iso: ari
 name: Arikara
+name_zh: 阿里卡拉語
 autonym: Sáhniš
+alt_names: [Arikaree, Arikari, Arikaris, Ree, Ricara, Ris]
 population: 10
 country_id: US
 country_name: United States

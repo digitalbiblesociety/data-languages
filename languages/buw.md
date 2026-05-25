@@ -2,6 +2,7 @@
 iso: buw
 name: Bubi
 autonym: "ɣè-βòβè"
+alt_names: [Bhubhi, Eviia, Ibhubhi, Ibubi, Pove]
 population: 5000
 country_id: GA
 country_name: Gabon

@@ -1,7 +1,9 @@
 ---
 iso: sec
 name: Sechelt
+name_zh: 锡谢尔特语
 autonym: Sháshíshálh
+alt_names: [Seshelt, Shashishalhem, She shashishalhem, She shashishalhem (Sechelt), Siciatl, sháshishálem, šášíšáɬəm]
 population: 550
 country_id: CA
 country_name: Canada

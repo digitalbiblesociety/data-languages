@@ -2,6 +2,7 @@
 iso: ffm
 name: Maasina Fulfulde
 autonym: Maasinankoore
+alt_names: ["Ful (East Maasina), Ful (West Maasina)", Fula, Fulah-Idiome, Fulani, Fulbe, Fulfulde (Maasina), "Fulfulde, Maasina", Maacina, Macina, Peul]
 population: 1523240
 country_id: ML
 country_name: Mali

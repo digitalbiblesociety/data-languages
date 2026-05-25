@@ -1,7 +1,9 @@
 ---
 iso: vao
 name: Vao
+name_zh: Vao語
 autonym: null
+alt_names: [Mallicolo]
 population: 1900
 country_id: VU
 country_name: Vanuatu

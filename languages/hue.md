@@ -2,6 +2,7 @@
 iso: hue
 name: San Francisco Del Mar Huave
 autonym: Ombeayiiüts
+alt_names: [Huave, Huave de San Dionisio, Huave de San Dionisio del Mar, Huave de San Francisco del Mar, Huave de San Mateo del Mar, Huave de Santa María del Mar, "Huave, San Francisco del Mar", San Francisco, Wave, Wavi]
 population: 3900
 country_id: MX
 country_name: Mexico

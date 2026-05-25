@@ -2,6 +2,7 @@
 iso: cth
 name: Thaiphum Chin
 autonym: Thui Phum
+alt_names: ["Chin, Thaiphum"]
 population: 1000
 country_id: MM
 country_name: Myanmar

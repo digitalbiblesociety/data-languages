@@ -2,6 +2,7 @@
 iso: kpi
 name: Kofei
 autonym: bahasa Kofei
+alt_names: [Kifei]
 population: 100
 country_id: ID
 country_name: Indonesia

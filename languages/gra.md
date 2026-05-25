@@ -2,6 +2,7 @@
 iso: gra
 name: Rajput Garasia
 autonym: भीली
+alt_names: [Dhungri Garasia, Dungari Garasia, Dungri Grasia, "Garasia, Rajput", Girasia, Grasia]
 population: 76700
 country_id: IN
 country_name: India

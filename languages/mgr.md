@@ -1,7 +1,9 @@
 ---
 iso: mgr
 name: "Mambwe-Lungu"
+name_zh: 曼布韋
 autonym: Lungu
+alt_names: [Cimambwe, Mambwe]
 population: 213680
 country_id: ZM
 country_name: Zambia

@@ -1,7 +1,9 @@
 ---
 iso: akp
 name: Siwu
+name_zh: Siwu語
 autonym: Siwusi
+alt_names: [Akpafu, Akpafu-Lolobi, Lolobi-Akpafu]
 population: 71900
 country_id: GH
 country_name: Ghana

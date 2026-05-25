@@ -2,6 +2,7 @@
 iso: xet
 name: Xetá
 autonym: Aré
+alt_names: [Botocudo, Cheta, Chetá, Heta, Notobotocudo, Seta, Setá, Sheta, Shetá, Ssetá, Xeta, Yvaparé, Šetá]
 population: null
 country_id: BR
 country_name: Brazil

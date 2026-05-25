@@ -2,6 +2,7 @@
 iso: nkj
 name: Nakai
 autonym: "Na'ai"
+alt_names: ["Na'i", Nagai, Na’ai, Na’i]
 population: 700
 country_id: ID
 country_name: Indonesia

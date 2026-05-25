@@ -1,7 +1,9 @@
 ---
 iso: ind
 name: Indonesian
+name_zh: 印尼语
 autonym: bahasa Indonesia
+alt_names: [Bahasa Indonesian, Bahsa Indônèsia, Basa Indonesia, Basa Indonésia, Endonezce, Fiteny indonezianina, Gjuha indoneziane, Idioma indonesio, Indon esian, Indoneesia keel, Indoneseg, Indonesek, Indonesi, Indonesian (Irianese), Indonesian (Jakarta), Indonesian kieli, Indonesiera, Indonesisch, Indonesisk, Indonesiska, Indonezeg, Indonezia lingvo, Indoneziečių kalba, Indonezijski jezik, Indoneziýa dilleri, Indonežanski jezik, Indonésien, Indonéz nyelv, Indonézština, Indonéština, Indonēziešu valoda, Indunisya simi, Język indonezyjski, Lengua indonexiann-a, Limba indoneziană, Lingua Indonesia, Lingua indonesiana, Língua indonésia, Pinulongang Indonesyo, Tiếng Indonesia, Tonda, Wikang Indones, Ìn-nî-gí, İndoneziya dili, Індонезійська мова, Индонежански језик, Индонезийски език, Индонезийский язык, אינדונזית, زبان اندونزیایی, لغة إندونيسية, ھىندونېزىيە تىلى, बहासा इण्डोनेशिया, ইন্দোনেশীয় ভাষা, இந்தோனேசிய மொழி, ภาษาอินโดนีเซีย, ინდონეზიური ენა, インドネシア語, 印尼语, 인도네시아어]
 population: 43000000
 country_id: ID
 country_name: Indonesia

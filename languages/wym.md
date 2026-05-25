@@ -1,7 +1,9 @@
 ---
 iso: wym
 name: Wymysorys
+name_zh: 維拉莫維安語
 autonym: Vilamovian
+alt_names: [Idioma vilamoviciano, Język wilamowski, Lingua vilamoviana, Vilamovica lingvo, Vilamovština, Vimisojerių kalba, Vimisoyeg, Viļamoviešu valoda, Vėmėsojeriu kalba, Vımısörışa tili, Wilamowicean, Wilamowicien, Wilamowiciskt, Wilamowičina, Wilamowsko godka, Wilamowytsersk, Wilamowšćina, Wilmesaurisch, Wilmesausch, Wymysörisk, Wymysöryś, Вилямовский язык, Вілямівська мова, 비미소리쉬어]
 population: 70
 country_id: PL
 country_name: Poland

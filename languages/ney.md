@@ -2,6 +2,7 @@
 iso: ney
 name: Neyo
 autonym: Gwibwen
+alt_names: [Towi]
 population: 9200
 country_id: CI
 country_name: "Côte d'Ivoire"

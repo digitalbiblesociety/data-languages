@@ -2,6 +2,7 @@
 iso: muk
 name: Mugom
 autonym: Mugali
+alt_names: [Mugu, Mugum]
 population: 6500
 country_id: NP
 country_name: Nepal

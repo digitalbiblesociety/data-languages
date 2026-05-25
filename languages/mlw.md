@@ -2,6 +2,7 @@
 iso: mlw
 name: Moloko
 autonym: Məlokwo
+alt_names: [Melokwo, Mokyo, Molko, Molkoa, Molkwo, Molokwo]
 population: 8500
 country_id: CM
 country_name: Cameroon

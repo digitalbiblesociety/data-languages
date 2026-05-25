@@ -1,6 +1,7 @@
 ---
 iso: jbo
 name: Lojban
+name_zh: 逻辑语
 autonym: la .lojban.
 population: null
 country_id: ZZ

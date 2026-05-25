@@ -2,6 +2,7 @@
 iso: scg
 name: Sanggau
 autonym: bahasa Sanggau
+alt_names: [Indonesia]
 population: 45000
 country_id: ID
 country_name: Indonesia

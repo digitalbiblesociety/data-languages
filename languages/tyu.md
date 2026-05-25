@@ -2,6 +2,7 @@
 iso: tyu
 name: Kua
 autonym: Kua
+alt_names: [Cua, Macua, Tyhua, Tyua]
 population: 820
 country_id: BW
 country_name: Botswana

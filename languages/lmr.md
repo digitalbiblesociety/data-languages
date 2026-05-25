@@ -1,7 +1,9 @@
 ---
 iso: lmr
 name: Lamalera
+name_zh: 拉瑪萊拉語
 autonym: Kawela
+alt_names: [Lebatukan, Mulan, Peripherial Lembata]
 population: 4000
 country_id: ID
 country_name: Indonesia

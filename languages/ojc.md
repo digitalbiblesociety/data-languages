@@ -1,7 +1,9 @@
 ---
 iso: ojc
 name: Central Ojibwa
+name_zh: 中奥吉布瓦语
 autonym: Central Ojibwe
+alt_names: ["Ojibwa, Central"]
 population: 8000
 country_id: CA
 country_name: Canada

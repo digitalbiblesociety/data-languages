@@ -1,7 +1,9 @@
 ---
 iso: mah
 name: Marshallese
+name_zh: 马绍尔语
 autonym: Ebon
+alt_names: [Gjuha marshalleze, Idioma marshalés, Język marszalski, Lengua marscialleise, Lingua marshallese, Língua marshalesa, Marchalleg, Marshall-Inseln, Marshallais, Marshallees, Marshallesische Sprache, Marshallesisk, Marshallesiska, Marshallin kieli, Marŝala lingvo, Maršalski jezik, Māršaliešu valoda, marshall, Маршалльский язык, Маршалски език, マーシャル語]
 population: 61000
 country_id: MH
 country_name: Marshall Islands

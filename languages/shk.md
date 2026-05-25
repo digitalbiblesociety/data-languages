@@ -2,6 +2,7 @@
 iso: shk
 name: Shilluk
 autonym: Dhøg Cøllø
+alt_names: [Chulla, Colo, Colo (Shilluk), Dhocolo, Schilluk, Shulla, Šilluk]
 population: 574000
 country_id: SS
 country_name: South Sudan

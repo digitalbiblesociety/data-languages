@@ -2,6 +2,7 @@
 iso: zak
 name: Zanaki
 autonym: Ekizanaki
+alt_names: [Ikizanaki, Kizanaki]
 population: 97400
 country_id: TZ
 country_name: Tanzania

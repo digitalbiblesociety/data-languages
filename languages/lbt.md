@@ -1,7 +1,9 @@
 ---
 iso: lbt
 name: Lachi
+name_zh: 拉基語
 autonym: Cù Te
+alt_names: [Cu-Tê, I To, Ku Te, La Chi, Laji, Lají, Lati, Lipulio, Tai Lati, Y Mia, Y Poong, Y Pí, Y Póng, Y To]
 population: 1450
 country_id: VN
 country_name: Vietnam

@@ -2,6 +2,7 @@
 iso: dun
 name: Dusun Deyah
 autonym: Dusun Deyah
+alt_names: [Deah, Dejah]
 population: 20000
 country_id: ID
 country_name: Indonesia

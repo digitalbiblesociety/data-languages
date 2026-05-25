@@ -1,6 +1,7 @@
 ---
 iso: xdm
 name: Edomite
+name_zh: 以东语
 autonym: null
 population: null
 country_id: IL

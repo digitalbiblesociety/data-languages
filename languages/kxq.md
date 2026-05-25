@@ -2,6 +2,7 @@
 iso: kxq
 name: Smärky Kanum
 autonym: Kanum
+alt_names: ["Kanum, Smärky", Smarky Kanum, Smärky]
 population: 150
 country_id: ID
 country_name: Indonesia

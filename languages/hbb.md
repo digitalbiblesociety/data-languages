@@ -2,6 +2,7 @@
 iso: hbb
 name: Huba
 autonym: Kilba
+alt_names: [Chobba, Hildi, KChobba, Marghi South]
 population: 337000
 country_id: NG
 country_name: Nigeria

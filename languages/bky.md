@@ -2,6 +2,7 @@
 iso: bky
 name: Bokyi
 autonym: Boki
+alt_names: [Byoki, Nfua, Nki, Okii, Osikom, Osukam, Uki, Vaaneroki]
 population: 268900
 country_id: NG
 country_name: Nigeria

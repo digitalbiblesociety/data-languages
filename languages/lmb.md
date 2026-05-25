@@ -2,6 +2,7 @@
 iso: lmb
 name: Merei
 autonym: Malmariv
+alt_names: [Lametin, Tiale]
 population: 400
 country_id: VU
 country_name: Vanuatu

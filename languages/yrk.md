@@ -1,7 +1,9 @@
 ---
 iso: yrk
 name: Nenets
+name_zh: 涅涅茨语
 autonym: "ненэцяʼ вадаnenécja' vada"
+alt_names: ["Bol'shezemel'sk Nenets", Dialekt der Tundrajuraken, Forest Nenets language, Jurak, Jurakisch, Juraksamojedisch, Nenec, Nenets (Tundra), Nenets (Yurak Samoyed), Nenetsy, Nentse, Nenzisch, Northern Samoyed, Néncico de la tundra, Nénètse de la toundra, Nénètse des forêts, Samojedi, Samojedimanzela, Samoyed, Tundra Nenets, Tundra Yurak, Yurak, Yurak Samoyed, Yurak Samoyedic, hasawa, nency, "nyenetsya' vada", samojadj, tundranenetsi, yourak, Ńeńeć, ненэцяʼ вада, нешанский язык, нещанский язык, тундровый ненецкий язык]
 population: 21900
 country_id: RU
 country_name: Russia

@@ -2,6 +2,7 @@
 iso: vmf
 name: Mainfränkisch
 autonym: Ostfränkisch
+alt_names: [Franački jezik, Francique oriental, Franconian, Franconio oriental, High Franconian, Main-Franconian, Mainfranksch, Mainfränkische Dialekte, Upper Franconian]
 population: null
 country_id: DE
 country_name: Germany

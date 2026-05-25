@@ -1,7 +1,9 @@
 ---
 iso: smp
 name: Samaritan
+name_zh: 撒瑪利亞希伯來文
 autonym: "עברית 'Ivrit"
+alt_names: [Samaritan Hebrew]
 population: null
 country_id: PS
 country_name: Palestine State

@@ -1,7 +1,9 @@
 ---
 iso: kab
 name: Kabyle
+name_zh: 卡拜爾語
 autonym: Taqbaylit
+alt_names: [Bahasa Kabil, Berberice, Idioma cabilio, Język kabylski, Kabil nyelv, Kabila lingvo, Kabilies, Kabilski jezik, Kabyl, Kabylia, Kabylisch, Kabylische Sprache, Kabylsk, Kabylsk språk, Língua cabila, Tamazight, Кабильский язык, قبائلی, لهجة قبائلية, カビル語]
 population: 6819200
 country_id: DZ
 country_name: Algeria

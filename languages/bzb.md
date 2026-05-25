@@ -2,6 +2,7 @@
 iso: bzb
 name: Andio
 autonym: Masama
+alt_names: ["Andio'o", "Imbao'o"]
 population: 1700
 country_id: ID
 country_name: Indonesia

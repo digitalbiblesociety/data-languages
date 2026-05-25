@@ -2,6 +2,7 @@
 iso: inp
 name: Iñapari
 autonym: Inamari
+alt_names: [Inaparic]
 population: 4
 country_id: PE
 country_name: Peru

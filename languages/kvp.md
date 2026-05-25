@@ -2,6 +2,7 @@
 iso: kvp
 name: Kompane
 autonym: Komfana
+alt_names: [Aru, Kongampani]
 population: 330
 country_id: ID
 country_name: Indonesia

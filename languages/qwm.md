@@ -1,6 +1,7 @@
 ---
 iso: qwm
 name: Kuman (Russia)
+name_zh: 库曼语
 autonym: Tatar til
 population: null
 country_id: RU

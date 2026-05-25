@@ -1,7 +1,9 @@
 ---
 iso: lis
 name: Lisu
+name_zh: 傈僳语
 autonym: "ꓡꓲ-ꓢꓴ"
+alt_names: [Central Lisu, Chedi, Cheli, Chung, Język lisu, Khae, Leisu, Leshuoopa, Lesuo, Li, Li-Hsaw, Li-Shaw, "Lip'a", Lis(s)haw, Lis(s)u, Lisaw, Lishu, Liso, Lisoueg, Lissu, Loisu, Lu-Tzu, Lusu, "Lëjengoup'a", "Lëshuoop'a", Southern Lisu, Yao Yen, Yaw Yin, Yaw-Yen, Yawyin, Yeh-Jeh, Yeh-Jen, Yobin, Лису, ภาษาลีสู่, 傈僳语, 리수어]
 population: 942700
 country_id: CN
 country_name: China

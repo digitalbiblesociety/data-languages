@@ -2,6 +2,7 @@
 iso: xoo
 name: Xukurú
 autonym: Kirirí
+alt_names: [Ichikile, Kirirí-Xokó, Shukuru, Shukurú, Xucuru, Xukuru]
 population: null
 country_id: BR
 country_name: Brazil

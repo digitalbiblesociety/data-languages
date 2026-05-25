@@ -2,6 +2,7 @@
 iso: lwa
 name: Lwalu
 autonym: Lwalwa
+alt_names: [Democratic Republic of the Congo]
 population: 21000
 country_id: CD
 country_name: DR Congo

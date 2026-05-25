@@ -2,6 +2,7 @@
 iso: bda
 name: Bayot
 autonym: Baiot
+alt_names: [Baiote, Bayote, Bayotte]
 population: 28340
 country_id: SN
 country_name: Senegal

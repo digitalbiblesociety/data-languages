@@ -2,6 +2,7 @@
 iso: qub
 name: Huallaga Huánuco Quechua
 autonym: Alto Huallaga
+alt_names: [Alto Marañón, Eastern Huánuco Quechua, Huallaga Huanuco Quechua, Huallaga Quechua, Huánuco, Huánuco Kechua, "Quechua, Huallaga Huánuco", Upper Huallaga Quechua]
 population: 23900
 country_id: PE
 country_name: Peru

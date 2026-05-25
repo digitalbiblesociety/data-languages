@@ -2,6 +2,7 @@
 iso: mht
 name: Mandahuaca
 autonym: Mandawaka
+alt_names: [Arihini, Cunipusana, Ihini, Maldavaca, Mandauaca, Mandawaca, Mandawáka, Mitua, Yavita]
 population: 3000
 country_id: VE
 country_name: Venezuela

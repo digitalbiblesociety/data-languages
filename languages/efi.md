@@ -1,7 +1,9 @@
 ---
 iso: efi
 name: Efik
+name_zh: 艾菲克語
 autonym: Ikɔ Efik
+alt_names: [Calabar]
 population: 664600
 country_id: NG
 country_name: Nigeria

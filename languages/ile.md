@@ -1,7 +1,9 @@
 ---
 iso: ile
 name: Interlingue
+name_zh: 西方国际语
 autonym: Interlingue
+alt_names: [Occidental]
 population: 50
 country_id: ZZ
 country_name: Unknown or Invalid Territory

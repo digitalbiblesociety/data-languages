@@ -2,6 +2,7 @@
 iso: wun
 name: Bungu
 autonym: Iciwungu
+alt_names: [Echiungu, Kibungu, Wungu]
 population: 30000
 country_id: TZ
 country_name: Tanzania

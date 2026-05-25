@@ -2,6 +2,7 @@
 iso: atc
 name: Atsahuaca
 autonym: "Atsahuaca-Yamiaca"
+alt_names: [Astahuaca, Atsawaka-Yamiaka, Yamiaca, Yamiaka]
 population: 20
 country_id: PE
 country_name: Peru

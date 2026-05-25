@@ -2,6 +2,7 @@
 iso: ekm
 name: Elip
 autonym: Belibi
+alt_names: [Belip, Libie, Nuasue, Nulibie]
 population: 6400
 country_id: CM
 country_name: Cameroon

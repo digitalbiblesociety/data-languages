@@ -2,6 +2,7 @@
 iso: dts
 name: Toro So Dogon
 autonym: Bomu Tegu
+alt_names: [Dogon, Dogon (Toro So), "Dogon, Toro So", Dogoso, Toro So, Toro So dialect]
 population: 50000
 country_id: ML
 country_name: Mali

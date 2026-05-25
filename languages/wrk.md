@@ -2,6 +2,7 @@
 iso: wrk
 name: Garrwa
 autonym: Gaarwa
+alt_names: [Garawa, Garuwa, Grawa, Karawa, Kariwa, Karrawar, Karrwa, Karrwaz, Karwa, Korrawa, Kurrawar, Leearawa, Leearrawa, Wollongorang, Wulungwara]
 population: 130
 country_id: AU
 country_name: Australia

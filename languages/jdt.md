@@ -1,7 +1,9 @@
 ---
 iso: jdt
 name: "Judeo-Tat"
+name_zh: 犹太-塔特语
 autonym: " жугьури"
+alt_names: [Bik, Dağ yəhudiləri dili, Djouhourieg, Dzhuhuric, Hebrew Tat, Jewish Tat, Judeo-Tatic, Judeo-tatí (Israel), Juhuri, Juhuri (Caucase), Juhuri (Israël), Juhuri language, Juwri, cuhuri, cuuri, çuhuri, горско-еврейский, джуури, джухури, "ג'והורי", "ז'אוּהאוּראִ", ユダヤ・タート語]
 population: 3020
 country_id: RU
 country_name: Russia

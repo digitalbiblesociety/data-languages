@@ -2,6 +2,7 @@
 iso: ncj
 name: Northern Puebla Nahuatl
 autonym: masehual tla’tol (ncj)
+alt_names: [Mexicano, N Puebla Nahuatl, N. Puebla Nahuatl, Nahuatl, Nahuatl (North Puebla), Nahuatl (Puebla Norte), "Nahuatl, Northern Puebla", Nawa, North Puebla Aztec, North Puebla Nahuatl, North Puebla Sierra Nahuatl, Northern Nahuatl, Northern Nawa, Náhuatl del Norte de Puebla]
 population: 60000
 country_id: MX
 country_name: Mexico

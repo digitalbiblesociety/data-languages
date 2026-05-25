@@ -2,6 +2,7 @@
 iso: mjn
 name: Ma (Papua New Guinea)
 autonym: Mebu
+alt_names: [Ma, Mawam]
 population: 570
 country_id: PG
 country_name: Papua New Guinea

@@ -2,6 +2,7 @@
 iso: ulb
 name: Ulukwumi
 autonym: Olùkùmi
+alt_names: [Nigeria]
 population: 10000
 country_id: NG
 country_name: Nigeria

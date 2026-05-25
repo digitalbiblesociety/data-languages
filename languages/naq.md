@@ -1,7 +1,9 @@
 ---
 iso: naq
 name: Khoekhoe
+name_zh: 纳马语
 autonym: Nama/Damara
+alt_names: ["\"Cape Hottentot\"", "\"Hottentot\"", "\"Kakuya Bushman Nasie\"", "\"Khoekhoegowab\"", "\"Khoekhoegowap\"", "\"Klipkaffer\"", "\"Klipkaffern\"", "\"Kupkaferrn\"", "\"Kupkaffer\"", "\"Rooi Nasie\"", Berdama, Bergdama, Bergdamara, Dama, Damaqua, Damara, Gri, Grikwa, Griqua, Gry, Hottentot, Hottentottisch, Kakuya Bushman Nasie, Khiri, Khoe, Khoekhoe du Cap, Khoekhoegowab, Khoekhoegowap, Khoeknoegowap, Khoi, Maqua, Nama, Nama (Khoekhoe), Nama (Namibia), Nama Hottentot, Namakwa, Naman, Namaqua, Rooi Nasie, Tama, Tamakwa, Tamma, Xirikwa, Xrikwa]
 population: 281200
 country_id: NA
 country_name: Namibia

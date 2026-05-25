@@ -2,6 +2,7 @@
 iso: kdh
 name: Tem
 autonym: Kotokoli
+alt_names: [Cotocoli, Temba, Tim, Timu]
 population: 390200
 country_id: TG
 country_name: Togo

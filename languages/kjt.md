@@ -2,6 +2,7 @@
 iso: kjt
 name: Phrae Pwo Karen
 autonym: Northeastern Pwo
+alt_names: ["Karen, Phrae Pwo", "Karen,PhraePwo", Northeastern Pwo Karen, Phrae, Prae, Pwo Karen, Pwo Phrae]
 population: 6000
 country_id: TH
 country_name: Thailand

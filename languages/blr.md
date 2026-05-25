@@ -1,7 +1,9 @@
 ---
 iso: blr
 name: Blang
+name_zh: 布朗语
 autonym: Pulang
+alt_names: [Bulang, Hkawa, "K'ala", "K'wa", Kawa, Khon Doi, Kontoi, Plang, Pula, Samtao of Burma, Sen Chun, Wa]
 population: 42000
 country_id: CN
 country_name: China

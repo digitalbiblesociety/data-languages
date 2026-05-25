@@ -2,6 +2,7 @@
 iso: bfh
 name: Blafe
 autonym: Tonda
+alt_names: [Indorodoro]
 population: 670
 country_id: PG
 country_name: Papua New Guinea

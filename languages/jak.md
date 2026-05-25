@@ -2,6 +2,7 @@
 iso: jak
 name: Jakun
 autonym: Orang Hulu
+alt_names: [Djakun, Jakoon, "Jaku'd", "Jakud'n", Yakuno]
 population: 25000
 country_id: MY
 country_name: Malaysia

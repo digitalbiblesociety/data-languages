@@ -2,6 +2,7 @@
 iso: qxl
 name: Salasaca Highland Quichua
 autonym: Kichwa Shimi
+alt_names: ["\"quichua (Cotopaxi, Tungurahua et Chimborazo)\"", Ecuador, Ecuador Quechua, Highland Kichua, Kichua, Quichua, Quichua (Cañar et Azuay), Quichua (Imbabura), Quichua (Loja), Quichua (Napo), Quichua (Pastaza), Quichua (Salasaca), "Quichua, Salasaca Highland", Salasaca, Salasaca Quichua, Tungurahua Highland Quichua, Tungurahua Quichua]
 population: 14300
 country_id: EC
 country_name: Ecuador

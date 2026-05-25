@@ -2,6 +2,7 @@
 iso: yyu
 name: Yau (Sandaun Province)
 autonym: null
+alt_names: [Yau]
 population: 140
 country_id: PG
 country_name: Papua New Guinea

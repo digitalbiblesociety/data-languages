@@ -1,7 +1,9 @@
 ---
 iso: mfa
 name: Pattani Malay
+name_zh: 亚维语
 autonym: Baso PattaniBaso Kelaté
+alt_names: [Bahasa Melayu Pattani, "Malay, Pattani", Thai Islam, Yawi, Yawi language, ภาษามลายูปัตตานี, ジャウィ語, 亚维语]
 population: 1470000
 country_id: TH
 country_name: Thailand

@@ -2,6 +2,7 @@
 iso: axb
 name: Abipon
 autonym: Abipones
+alt_names: [Abipone, Abipón, Abipón language, Abipónok, Callaga]
 population: null
 country_id: AR
 country_name: Argentina

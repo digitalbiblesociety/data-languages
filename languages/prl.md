@@ -2,6 +2,7 @@
 iso: prl
 name: Peruvian Sign Language
 autonym: null
+alt_names: [LSP, Lengua de Signos Peruana, Lenguaje de Señas Peruanas, Lenguaje de Señas Peruano]
 population: 98000
 country_id: PE
 country_name: Peru

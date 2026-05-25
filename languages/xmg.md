@@ -2,6 +2,7 @@
 iso: xmg
 name: Mengaka
 autonym: " Bagam"
+alt_names: [Bamileke-Mengaka, Benzing, Ghap, Megaka]
 population: 38500
 country_id: CM
 country_name: Cameroon

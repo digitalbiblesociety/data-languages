@@ -2,6 +2,7 @@
 iso: ksx
 name: Kedang
 autonym: Dang
+alt_names: [Kdang, Kedangese, Kédang]
 population: 30000
 country_id: ID
 country_name: Indonesia

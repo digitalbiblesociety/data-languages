@@ -1,6 +1,7 @@
 ---
 iso: neu
 name: Neo
+name_zh: 尼歐語
 autonym: null
 population: null
 country_id: ZZ

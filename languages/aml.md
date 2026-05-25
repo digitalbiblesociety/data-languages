@@ -1,7 +1,9 @@
 ---
 iso: aml
 name: "War-Jaintia"
+name_zh: 瓦尔语
 autonym: वार भाषा
+alt_names: [Amwi, Lakadong, Waar, War, War language, War-Jaintia jezik, Wareg, Waːr]
 population: 68000
 country_id: BD
 country_name: Bangladesh

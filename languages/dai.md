@@ -1,7 +1,9 @@
 ---
 iso: dai
 name: Day
+name_zh: 代语
 autonym: Dai
+alt_names: [Dayeg]
 population: 49900
 country_id: TD
 country_name: Chad

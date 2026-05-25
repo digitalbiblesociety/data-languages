@@ -1,7 +1,9 @@
 ---
 iso: rkt
 name: Rangpuri
+name_zh: 朗普尔语
 autonym: Anchalit Bangla
+alt_names: [Bahe Bangla, Goalparia, Kamta, Kamtapuri, Koch Rajbanshi, Polia, Rajbangsi, Rajbanshi, Rajbansi, Rajbongshi]
 population: 10801000
 country_id: BD
 country_name: Bangladesh

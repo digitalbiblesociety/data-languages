@@ -2,6 +2,7 @@
 iso: mwi
 name: Labo
 autonym: null
+alt_names: [Meaun, Mewun, Nide, Ninde]
 population: 1100
 country_id: VU
 country_name: Vanuatu

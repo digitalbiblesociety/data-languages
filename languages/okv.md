@@ -1,7 +1,9 @@
 ---
 iso: okv
 name: Orokaiva
+name_zh: 歐羅開巴語
 autonym: Orokaivic
+alt_names: [Ehija, Etija, Kaiva, Ke, Orakaiva]
 population: 35000
 country_id: PG
 country_name: Papua New Guinea

@@ -1,7 +1,9 @@
 ---
 iso: aem
 name: Arem
+name_zh: 阿雷姆语
 autonym: "A-Rem"
+alt_names: [Aremo, Chombrau, Chomrau, Umo]
 population: 100
 country_id: VN
 country_name: Vietnam

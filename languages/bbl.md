@@ -1,7 +1,9 @@
 ---
 iso: bbl
 name: Bats
+name_zh: 巴茨语
 autonym: ბაცბაჼმოტ
+alt_names: [Bac, Bacba lingvo, Batsaw, Batsbi, Batsbiitsy, Batseg, Batsi, Batsin kieli, Batsische Sprache, Batsisk, Batsça, Bácico, Język bacbijski, Tsova-Tush, Tsova-Tush (Batsbi), Tush, batsba motjiti, Батски јазик, Бацбийски език, Бацбійська мова, бацбийский язык, бацбур мотlтl, цова-тушинский, цоватский язык, באצבית, ภาษาบัตส์, ბაცბური ენა, წოვათუშური ენა]
 population: 3420
 country_id: GE
 country_name: Georgia

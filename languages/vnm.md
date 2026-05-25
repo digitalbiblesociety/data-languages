@@ -2,6 +2,7 @@
 iso: vnm
 name: Vinmavis
 autonym: Vinmavis
+alt_names: [Lambumbu, Mallicolo, "Neve'ei"]
 population: 500
 country_id: VU
 country_name: Vanuatu

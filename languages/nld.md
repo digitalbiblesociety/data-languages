@@ -1,7 +1,9 @@
 ---
 iso: nld
 name: Dutch
+name_zh: 荷兰语
 autonym: Nederlands
+alt_names: [Algemêen Nederlands, An Ollainnis, Bahasa Belanda, Bakratongo, Basa Landa, Brabants, Duitsis, Dutch (Brabantic), Dutch (Limburg), Dutch leid, Dutch-Flemish, Felemenk tili, Felemenkçe, Flemenki, Flemish, Gjuha holandeze, Holandski jezik, Holandčina, Holland nyelv, Hollandi keel, Hollands, Hollannin kieli, Hollenska, Hollánddagiella, Holländische Sproch, Hò-làn-ngî, Idioma hulandes, Idioma neerlandés, Inolandes, Iseldireg, Iseldiryek, IsiHolandi, Język niderlandzki, Kiholanzi, Kē-tē-gí, Lenga neerlandèisa, Lengua olandeise, Lifalamá, Limba olandeză, Lingua Batava, Lingua Olandesa, Lingua nederlandese, Lingua neerlandesa, Lingua neerlandese, Lingua olandese, Lingua ollandaisa, Lingua ulannisa, Língua neerlandesa, Nedderlandsche Spraak, Nederlaands, Nederlanda lingvo, Nederlandana linguo, Nederlandeg, Nederlandera, Nederlandsk, Nederlandsk språk, Nederlandum, Nederlânsk, Nederländska, Neederländėsch, Neerlandès, Neerlandés, Netherlandic, Neyerlandès, Niderland dili, Niederlaendische Schprooch, Niederloundisk, Niederländisch, Niederländische Sprache, Nirlindé, Nizozemski jezik, Nizozemština, Nizozemščina, Niðerlandisc sprǣc, Nižozemšćina, Néerlandais, Nêrlandês, Nīderlandiešu valoda, Olandų kalba, Ollanish, Se-dutch, Tiếng Hà Lan, Urasuyu simi, Vlaam, Wikang Olandes, Zimanê holandî, flamand, Łéngua ołandexe, Ολλανδική γλώσσα, Галандская мова, Голандонь кяль, Голланд чĕлхи, Нидерланд йылме, Нидерланд теле, Нидерландаг æвзаг, Нидерландски език, Нидерландский язык, Нідерландська мова, Нідэрляндзкая мова, Холандски јазик, Холандски језик, Հոլանդերեն, האלענדיש, הולנדית, زبان هلندی, لغة هولندية, گوللاندىيە تىلى, ޑަޗު, डच भाषा, ওলন্দাজ ভাষা, டச்சு மொழி, ഡച്ച് ഭാഷ, ภาษาดัตช์, འཇར་མན་སྐད།, ნიდერლანდური ენა, オランダ語, 荷蘭話, 荷蘭語, 네덜란드어]
 population: 23100000
 country_id: NL
 country_name: Netherlands

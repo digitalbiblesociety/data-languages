@@ -1,6 +1,7 @@
 ---
 iso: sgs
 name: Samogitian
+name_zh: 萨莫吉提亚语
 autonym: Žemaitiu ruoda
 population: 500000
 country_id: LT

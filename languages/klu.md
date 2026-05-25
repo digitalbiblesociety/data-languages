@@ -2,6 +2,7 @@
 iso: klu
 name: Klao
 autonym: Kru
+alt_names: [Klaoh, Klau, Krawi, Kroo]
 population: 400000
 country_id: LR
 country_name: Liberia

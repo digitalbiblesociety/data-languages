@@ -2,6 +2,7 @@
 iso: bkq
 name: Bakairí
 autonym: Bacairí
+alt_names: [Bakairi, Kura, Kurâ]
 population: 950
 country_id: BR
 country_name: Brazil

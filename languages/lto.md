@@ -2,6 +2,7 @@
 iso: lto
 name: Tsotso
 autonym: Luyia
+alt_names: [Olutsotso]
 population: null
 country_id: KE
 country_name: Kenya

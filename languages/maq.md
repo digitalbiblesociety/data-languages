@@ -2,6 +2,7 @@
 iso: maq
 name: Chiquihuitlán Mazatec
 autonym: "Mazateco, Chiquihuitlán"
+alt_names: [Chiquihuitlan Mazatec, Chiquihuitlán, Chiquihuitlán Masateko, Masateko, Mazatec, Mazatec (Chiquihuitlan), Mazatec (Chiquihuitlán), "Mazatec, Chiquihuitlán", Mazateco, Mazateco de San Juan Chiquihuillán, Mazateco de San Juan Chiquihuitlán, Mazatèque de Chiquihuitlán]
 population: 2500
 country_id: MX
 country_name: Mexico

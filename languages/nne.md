@@ -2,6 +2,7 @@
 iso: nne
 name: Ngandyera
 autonym: Oshiwambo
+alt_names: [Angola]
 population: 13100
 country_id: AO
 country_name: Angola

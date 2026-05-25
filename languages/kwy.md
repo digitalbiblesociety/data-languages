@@ -2,6 +2,7 @@
 iso: kwy
 name: San Salvador Kongo
 autonym: Kikongo
+alt_names: [Cimbala-Cizali, Congo, Kikoongo, Kisikongo, "Kongo, San Salvador"]
 population: 537000
 country_id: CD
 country_name: DR Congo

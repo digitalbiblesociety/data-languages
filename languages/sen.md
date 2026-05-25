@@ -2,6 +2,7 @@
 iso: sen
 name: Nanerigé Sénoufo
 autonym: Naani
+alt_names: [Nandereke, Nandergé, Nanergué, Nanergé, Nanerige Senoufo, "Sénoufo, Nanerigé"]
 population: 50000
 country_id: BF
 country_name: Burkina Faso

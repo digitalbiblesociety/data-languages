@@ -2,6 +2,7 @@
 iso: xnz
 name: Kenzi
 autonym: Mattokki
+alt_names: [Mattoki]
 population: 35000
 country_id: EG
 country_name: Egypt

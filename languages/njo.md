@@ -1,7 +1,9 @@
 ---
 iso: njo
 name: Ao Naga
+name_zh: 奧語
 autonym: Central Naga
+alt_names: [Ao, Ao Group, Aoeg, Aorr, Aó, Cholimi, Dupdoria, Hatiggorīa, Hatigoria, Język ao, Mongsen, Mongsen Ao language, Naga, "Naga, Ao", "Naga,Ao", Northern Naga, Nowgong, Paimi, Uri, ภาษาเอา]
 population: 260000
 country_id: IN
 country_name: India

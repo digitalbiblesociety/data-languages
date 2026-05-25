@@ -2,6 +2,7 @@
 iso: biq
 name: Bipi
 autonym: "Sisi-Bipi"
+alt_names: [Admiralitäts-inseln]
 population: 1200
 country_id: PG
 country_name: Papua New Guinea

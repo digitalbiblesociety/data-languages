@@ -2,6 +2,7 @@
 iso: tds
 name: Doutai
 autonym: "Taori-So"
+alt_names: [Taori, Tolitai]
 population: 335
 country_id: ID
 country_name: Indonesia

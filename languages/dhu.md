@@ -2,6 +2,7 @@
 iso: dhu
 name: Dhurga
 autonym: "Dhu'rga"
+alt_names: [Baianga, Bargalia, Bugellimangi, Bugellimanj, Bugellimanji, "Dhu:rga", Dhuurga, Djiringanj, "Du:rga", Durga, Duurga, Dyirringan, Guyanagal, Guyangal yuin, Guyangalyuin, Katungal, Kurialyuin, Moruya, Moruya tribe, Murring, Oates, Paienbera, Paiendra, Tadera manji, Tadermanji, Tauaira, Tharawal, Tharumba, Thaua, Thauaira, Thawa, Thoorga, Thurga, Tindale, Walbanga, Wandandian, Wandanian, Wurm, Yuin]
 population: null
 country_id: AU
 country_name: Australia

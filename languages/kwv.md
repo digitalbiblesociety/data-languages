@@ -2,6 +2,7 @@
 iso: kwv
 name: Sara Kaba Náà
 autonym: Sara Kaba
+alt_names: [Dana, Kaba Na, Kaba Naa, Kaba Nar, Na, Sara Kaba Naa]
 population: 39000
 country_id: TD
 country_name: Chad

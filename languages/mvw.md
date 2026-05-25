@@ -2,6 +2,7 @@
 iso: mvw
 name: Machinga
 autonym: Chi(ni)makonde
+alt_names: [Tanzania]
 population: 36000
 country_id: TZ
 country_name: Tanzania

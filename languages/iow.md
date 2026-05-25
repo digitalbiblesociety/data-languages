@@ -1,7 +1,9 @@
 ---
 iso: iow
 name: "Iowa-Oto"
+name_zh: 奇維雷語
 autonym: "Báxoje-Jíwere-Ñútˀachi"
+alt_names: [Chiwere, Chiwere language, Ioweg-Otoeg, Język chiwere, Oto, Otoe]
 population: 33
 country_id: US
 country_name: United States

@@ -1,7 +1,9 @@
 ---
 iso: cnc
 name: Côông
+name_zh: 贡语 (越南)
 autonym: Khoong
+alt_names: ["\"Xa Coong\"", "\"Xa Xam\"", "\"Xa Xeng\"", Coong, Cung, Công]
 population: 2000
 country_id: VN
 country_name: Vietnam

@@ -2,6 +2,7 @@
 iso: tdy
 name: Tadyawan
 autonym: Balaban
+alt_names: [Pula, Tadianan]
 population: 4150
 country_id: PH
 country_name: Philippines

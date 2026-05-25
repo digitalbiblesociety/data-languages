@@ -1,7 +1,9 @@
 ---
 iso: gfk
 name: Patpatar
+name_zh: 帕特帕塔爾語
 autonym: Gelik
+alt_names: [Pala, Pala (Papua NG), Patpari]
 population: 10000
 country_id: PG
 country_name: Papua New Guinea

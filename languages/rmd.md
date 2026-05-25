@@ -2,6 +2,7 @@
 iso: rmd
 name: Traveller Danish
 autonym: Tater Language
+alt_names: ["Danish, Traveller", Rodi, Rotwelsch]
 population: 100
 country_id: DK
 country_name: Denmark

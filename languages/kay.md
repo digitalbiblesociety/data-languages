@@ -2,6 +2,7 @@
 iso: kay
 name: Kamayurá
 autonym: Camaiura
+alt_names: [Camaiurá, Kamaiura, Kamaiurá, Kamayirá, Kamayur, Kamayura]
 population: 360
 country_id: BR
 country_name: Brazil

@@ -2,6 +2,7 @@
 iso: gek
 name: Ywom
 autonym: Gerka
+alt_names: [Angas Group B, Gerkanchi, Gerkawa, Gurka, Yiwom]
 population: 14100
 country_id: NG
 country_name: Nigeria

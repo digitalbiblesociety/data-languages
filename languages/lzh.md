@@ -1,7 +1,9 @@
 ---
 iso: lzh
 name: Literary Chinese
+name_zh: 文言文
 autonym: 文言文
+alt_names: [Bahasa Cina klasik, Bahasa Tionghoa Klasik, "Chinese, Literary", Chino clásico, Chinois classique, Classical Chinese, Hán Văn, Klassiek Chinees, Klassisches Chinesisch, Klassisk kinesisk, Klassisk kinesiska, Klasszikus kínai nyelv, Klasyczny język chiński, Literarni kineski, Vanahiina kirjakeel, Вэньянь, Класически китайски език, Класична китайська мова, Класично кинеско писмо, 文言, 漢文, 한문]
 population: null
 country_id: CN
 country_name: China

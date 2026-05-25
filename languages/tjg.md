@@ -2,6 +2,7 @@
 iso: tjg
 name: Tunjung
 autonym: Tunjung Dayak
+alt_names: [Dayak]
 population: 50000
 country_id: ID
 country_name: Indonesia

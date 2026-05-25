@@ -2,6 +2,7 @@
 iso: kjq
 name: Western Keres
 autonym: Western Keres Pueblo
+alt_names: [Acoma, Acoma-Laguna, Keres, Keres (Western), "Keres, Western", Keresan, Keresan (Western), Queresano occidental, Western Keresan]
 population: 1695
 country_id: US
 country_name: United States

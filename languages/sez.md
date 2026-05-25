@@ -2,6 +2,7 @@
 iso: sez
 name: Senthang Chin
 autonym: Hsemtang
+alt_names: ["Chin, Senthang", "Chin,Senthang", Hsemtung, Senthang]
 population: 33000
 country_id: MM
 country_name: Myanmar

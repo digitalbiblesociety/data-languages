@@ -2,6 +2,7 @@
 iso: nce
 name: Yale
 autonym: Nagatman
+alt_names: [Nagatiman, Yade, Yadë, Yaleg, Yalë, Yalë language, Yare, YarÃ«, Yarë]
 population: 600
 country_id: PG
 country_name: Papua New Guinea

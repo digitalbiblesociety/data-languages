@@ -2,6 +2,7 @@
 iso: stm
 name: Setaman
 autonym: null
+alt_names: [Setamin]
 population: 280
 country_id: PG
 country_name: Papua New Guinea

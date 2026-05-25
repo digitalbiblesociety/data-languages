@@ -2,6 +2,7 @@
 iso: mel
 name: Central Melanau
 autonym: Central Melanau
+alt_names: ["Belana'u", Melanau, Melanau language, "Melanau, Central", Milanau, Milano]
 population: 113280
 country_id: MY
 country_name: Malaysia

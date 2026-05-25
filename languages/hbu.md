@@ -2,6 +2,7 @@
 iso: hbu
 name: Habu
 autonym: null
+alt_names: [Kairui]
 population: 1260
 country_id: TL
 country_name: "Timor-Leste"

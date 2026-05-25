@@ -2,6 +2,7 @@
 iso: lgm
 name: "Lega-Mwenga"
 autonym: Ileka Ishile
+alt_names: [Ishile, Kilega, Kirega, Lega, Leka-Shile, Leka-Sile, Rega, Shile]
 population: 44900
 country_id: CD
 country_name: DR Congo

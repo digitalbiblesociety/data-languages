@@ -1,7 +1,9 @@
 ---
 iso: fij
 name: Fijian
+name_zh: 斐济语
 autonym: "Na vosa vaka-Viti"
+alt_names: [Boumaa, Boumaa Fijian, Boumaa dialect, Eastern Fijian, Ffijïeg, Fidji-Inseln, Fidjien, Fidschi, Fidžiešu valoda, Fidžijština, Fidžin kieli, Fidžių kalba, Fiji, Fiji dili, Fijian (Boumaa), Fijiansk, Fijianska, Fijisch, Fiĝia lingvo, Idioma fiyiano, Język fidżyjski, Kaiviti bhasa, Lengua fijann-a, Lingua figiana, Língua fidjiana, Nadroga, Nadronga, Phiyi simi, Standard Fijian, Viti, Фиджийски език, Фиджийский язык, Фиџиски јазик, لغة فيجية, ภาษาฟิจิ, フィジー語, 斐济语]
 population: 334710
 country_id: FJ
 country_name: Fiji

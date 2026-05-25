@@ -2,6 +2,7 @@
 iso: lue
 name: Luvale
 autonym: Chiluvale
+alt_names: [Lovale, Lubale, Luena, Lwena, Lwena (Luvale)]
 population: 475000
 country_id: ZM
 country_name: Zambia

@@ -2,6 +2,7 @@
 iso: wmg
 name: Western Minyag
 autonym: Munya
+alt_names: ["Minyag, Western", Western Muya]
 population: 2000
 country_id: CN
 country_name: China

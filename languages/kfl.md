@@ -2,6 +2,7 @@
 iso: kfl
 name: Kung
 autonym: null
+alt_names: [Cungo]
 population: 1750
 country_id: CM
 country_name: Cameroon

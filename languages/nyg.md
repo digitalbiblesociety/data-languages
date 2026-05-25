@@ -2,6 +2,7 @@
 iso: nyg
 name: Nyindu
 autonym: Kishi
+alt_names: [Democratic Republic of the Congo]
 population: 8400
 country_id: CD
 country_name: DR Congo

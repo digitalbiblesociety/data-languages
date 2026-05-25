@@ -1,7 +1,9 @@
 ---
 iso: nul
 name: Nusa Laut
+name_zh: 劳特岛语
 autonym: bahasa Nusa Laut
+alt_names: [Nusalaut]
 population: 10
 country_id: ID
 country_name: Indonesia

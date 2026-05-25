@@ -1,7 +1,9 @@
 ---
 iso: pks
 name: Pakistan Sign Language
+name_zh: 巴基斯坦手语
 autonym: Isharon Ki Zubann
+alt_names: [Indo-Pakistani Sign Language (Karachi dialect)]
 population: 1080000
 country_id: PK
 country_name: Pakistan

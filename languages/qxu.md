@@ -2,6 +2,7 @@
 iso: qxu
 name: "Arequipa-La Unión Quechua"
 autonym: Chanka runasimi
+alt_names: [Arequipa-La Union Quechua, "Quechua, Arequipa-La Unión"]
 population: 32000
 country_id: PE
 country_name: Peru

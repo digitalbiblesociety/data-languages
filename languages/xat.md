@@ -2,6 +2,7 @@
 iso: xat
 name: Katawixi
 autonym: Catauichi
+alt_names: [Catahuichí, Catauichí, Catauisi, Catauixi, Catawishi, Catawixi, Hewadie, Katawishi, Katawishí, Katawixí, Quatausi]
 population: 10
 country_id: BR
 country_name: Brazil

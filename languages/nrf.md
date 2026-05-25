@@ -1,7 +1,9 @@
 ---
 iso: nrf
 name: Jèrriais
+name_zh: 諾曼語
 autonym: Normaund
+alt_names: [Guernésiais]
 population: 100000
 country_id: JE
 country_name: Channel Islands

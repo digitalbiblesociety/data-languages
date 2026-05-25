@@ -1,7 +1,9 @@
 ---
 iso: aeu
 name: Akeu
+name_zh: 阿克语
 autonym: Ake
+alt_names: [Aki, Akui, 阿克]
 population: 12400
 country_id: CN
 country_name: China

@@ -2,6 +2,7 @@
 iso: kjn
 name: Kunjen
 autonym: Uw
+alt_names: ["'Kundjan", Ayan, Cape York Peninsula Languages, Gudjal, Gugu Nyungkul, Guguminjen, Gundjen, Gundjun, Ikan, Kawarrangg, Koka-Koonjin, Koko Kuntjan, Koko wansin, Kokoyan, Koonchulburra, Koonjan, Koonjen, Kukumindjen, Kukuminjen, "Kun'djan", Kundjan, Kundjen, Kundjin, Kunjin, Kuntjan, "Kuritja:l", Kutabal, Kuthabal, Kutjal, Kwearriburra, Laia, Muragan, Ngundjan, Oggonjin, Ogh Undyan, Ogh-Undyan, Ogondyan, Ogontjel, Okundjain, Okunjan, Okuntjel, Olkolo, Oyangant, Oykangand, Uw Oykangand language]
 population: 300
 country_id: AU
 country_name: Australia

@@ -2,6 +2,7 @@
 iso: paz
 name: Pankararú
 autonym: Pankararé
+alt_names: [Brancararu, Brancararú, Pancararu, Pancararú, Pancaru, Pancarurú, Pancaré, Pankararu, Pankarará, Pankaravu, Pankaroru, Pankarú]
 population: null
 country_id: BR
 country_name: Brazil

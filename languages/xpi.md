@@ -1,7 +1,9 @@
 ---
 iso: xpi
 name: Pictish
+name_zh: 皮克特语
 autonym: null
+alt_names: [Idioma picto, Język piktyjski, Lingua picta, Lingua pittica, Pechts leid, Picte, Picteg, Pictisch, Pikta lingvo, Piktin kieli, Piktisk, Piktiska, Piktščina, Пикт чĕлхи, Пиктский язык]
 population: null
 country_id: GB
 country_name: United Kingdom

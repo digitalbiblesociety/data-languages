@@ -1,7 +1,9 @@
 ---
 iso: aij
 name: Lishanid Noshan
+name_zh: 埃尔比勒犹太新阿拉姆语
 autonym: לשנא דידן
+alt_names: [Aramaic, Aramaic (Arbel Jewish), Arbel Jewish Aramaic, Arbili Neo Aramaic, Galigalu, "Hula'ula", Hulani, Inter-Zab Jewish Neo-Aramaic, Jbeli, Kurdit, Lishana Didán, Lishanid noshan (Iraq), Lishanid noshan (Israël), Lisánido nosán (Israel), Lişanid Noşan, Neo-Aramaic (Arbel Jewish), Neo-Aramaic (Arbel), ภาษาลิซานิด โนซาน]
 population: 2250
 country_id: IL
 country_name: Israel

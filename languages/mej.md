@@ -2,6 +2,7 @@
 iso: mej
 name: Meyah
 autonym: Arfak
+alt_names: [Mansibaber, Meah, Meax, Mejach, Mejah, Meyach]
 population: 14800
 country_id: ID
 country_name: Indonesia

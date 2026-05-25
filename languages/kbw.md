@@ -2,6 +2,7 @@
 iso: kbw
 name: Kaiep
 autonym: Samap
+alt_names: [Sumup, Terebu, Terepu, Turupu]
 population: 300
 country_id: PG
 country_name: Papua New Guinea

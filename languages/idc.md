@@ -2,6 +2,7 @@
 iso: idc
 name: Idon
 autonym: Ajiya
+alt_names: [Idong]
 population: 5000
 country_id: NG
 country_name: Nigeria

@@ -2,6 +2,7 @@
 iso: nnl
 name: Northern Rengma Naga
 autonym: Northern Rengma
+alt_names: [Naga, "Naga, Northern Rengma", "Naga,NorthernRengma", Ntenyi, Ntenyi Naga, Nthenyi, Rengma, Rengma North]
 population: 13000
 country_id: IN
 country_name: India

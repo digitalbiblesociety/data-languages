@@ -1,7 +1,9 @@
 ---
 iso: pif
 name: Pingelapese
+name_zh: 平格拉佩語
 autonym: Pingelap
+alt_names: [Pingelapin kieli, Pingilapese, Pingilapés]
 population: 2000
 country_id: FM
 country_name: Micronesia

@@ -2,6 +2,7 @@
 iso: say
 name: Saya
 autonym: Guus
+alt_names: [Gambar Leere, Kal, Lusa, Sayanci, Sayara, Sayawa, Seiyara, Seiyawa, Seya, Seyawa, Vigzar, Vikzar, "Za:r", Zaar, vik-Zaar]
 population: 300000
 country_id: NG
 country_name: Nigeria

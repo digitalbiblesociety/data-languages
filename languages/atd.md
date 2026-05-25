@@ -2,6 +2,7 @@
 iso: atd
 name: Ata Manobo
 autonym: Ata Manobo
+alt_names: [Ata of Davao, Atao Manobo, Langilan, "Manobo, Ata"]
 population: 22700
 country_id: PH
 country_name: Philippines

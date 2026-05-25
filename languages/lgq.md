@@ -1,7 +1,9 @@
 ---
 iso: lgq
 name: Logba
+name_zh: 洛格巴語
 autonym: Ikpana
+alt_names: [Ghana, Logbaeg]
 population: 7500
 country_id: GH
 country_name: Ghana

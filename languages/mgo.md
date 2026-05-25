@@ -1,7 +1,9 @@
 ---
 iso: mgo
 name: "Meta'"
+name_zh: 梅塔语
 autonym: Meta
+alt_names: [Bameta, Batibo, Chubo, Menemo-Mogamo, Metta, Mitaa, Moghamo-Menemo, Muta, Widikum-Tadkon]
 population: 83000
 country_id: CM
 country_name: Cameroon

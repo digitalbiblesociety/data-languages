@@ -2,6 +2,7 @@
 iso: ekr
 name: Yace
 autonym: Yache
+alt_names: [Ekpari, Iyace, Yatye]
 population: 50000
 country_id: NG
 country_name: Nigeria

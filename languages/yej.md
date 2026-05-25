@@ -1,7 +1,9 @@
 ---
 iso: yej
 name: Yevanic
+name_zh: 犹太-希腊语
 autonym: Romaniyot
+alt_names: [Judeo-Greek, Romaniote, Yevanitika]
 population: 1987
 country_id: IL
 country_name: Israel

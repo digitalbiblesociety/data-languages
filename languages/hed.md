@@ -2,6 +2,7 @@
 iso: hed
 name: Herdé
 autonym: Lame
+alt_names: ["\"Kado\"", "He'dé", "Ka'do Herdé", Zime]
 population: 40000
 country_id: TD
 country_name: Chad

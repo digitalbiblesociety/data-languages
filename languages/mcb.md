@@ -2,6 +2,7 @@
 iso: mcb
 name: Machiguenga
 autonym: Matsigenka
+alt_names: [Amachengue, Machaguenga, Macheyenga, Matsiganga, Matsigenga, Matsiguenga, Mañaries]
 population: 21400
 country_id: PE
 country_name: Peru

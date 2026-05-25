@@ -2,6 +2,7 @@
 iso: zay
 name: "Zayse-Zergulla"
 autonym: Zaisse
+alt_names: [Zayse, Zaysete, Zaysse, Zaysé, Zaysé-Zergulla, Zeyse]
 population: 18500
 country_id: ET
 country_name: Ethiopia

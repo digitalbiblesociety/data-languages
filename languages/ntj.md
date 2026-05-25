@@ -1,7 +1,9 @@
 ---
 iso: ntj
 name: Ngaanyatjarra
+name_zh: 雅尼亞賈拉方言
 autonym: Ngaanjatjarra
+alt_names: [Engañacharra, "I:nabadanggural", Jabungadja, Jumudjara, Kalgonei, Kalgoneidjara, Kalguni, "Ku:rara", "Ku:rara Nadadjara", Kurara, Kuwaratjara, Nadadjara, Nana, Nangandjara, Nangaridjara, Nangatadjara, Nangatatjara, "Nga:da", "Nga:dapitjardi", Ngaanjadjara, Ngaanyatjara, Ngad adara, Ngad-adara, Ngadadjara, Ngadatara, Ngadatjara, Ngadawongga, Ngadhawonga, Ngadjatara, "Ngan:adjara", Ngana, Nganadjara, Ngarawonga, Ngatari, Ngatatara, Ngatatjara, Nona, Nyanganyatjara, Rumudjara, Teitudjara, "Wan:udjara", Warara, Warburton Ranges, Warburton Ranges Dialect, Western Desert, Western Desert Language, Wirtjandja, Witjandja]
 population: 1110
 country_id: AU
 country_name: Australia

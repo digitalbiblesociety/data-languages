@@ -2,6 +2,7 @@
 iso: pdn
 name: Podena
 autonym: Fedan
+alt_names: [Indonesia]
 population: 280
 country_id: ID
 country_name: Indonesia

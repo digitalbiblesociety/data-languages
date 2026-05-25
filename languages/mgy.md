@@ -2,6 +2,7 @@
 iso: mgy
 name: Mbunga
 autonym: Kimbunga
+alt_names: [Tanzania]
 population: 11600
 country_id: TZ
 country_name: Tanzania

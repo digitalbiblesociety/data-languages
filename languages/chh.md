@@ -2,6 +2,7 @@
 iso: chh
 name: Chinook
 autonym: Tsinúk
+alt_names: [Chinook (Lower), Chinook proper, Chinookan, Coastal Chinook, Kiksht, Lower Chinook, Lower Chinookan]
 population: null
 country_id: US
 country_name: United States

@@ -1,7 +1,9 @@
 ---
 iso: azb
 name: South Azerbaijani
+name_zh: 南阿塞拜疆语
 autonym: " آذربایجان دیلی"
+alt_names: [Aderbeidjanisch, Afghanistan Oghuz, Azarbaydjanian, Azari (Iranian), Azerbaijani, Azerbaijani (South), "Azerbaijani, South", Azeri, Južnoazerbajdžanski jezik, South Azeri language, Southern Iranian, Torki, لغة أذرية جنوبية]
 population: 13800000
 country_id: IR
 country_name: Iran

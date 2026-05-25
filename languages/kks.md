@@ -2,6 +2,7 @@
 iso: kks
 name: Giiwo
 autonym: Bu Giiwo
+alt_names: [Kirfi, Kirifawa, Kirifi]
 population: 14000
 country_id: NG
 country_name: Nigeria

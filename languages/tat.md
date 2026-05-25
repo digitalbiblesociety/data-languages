@@ -1,7 +1,9 @@
 ---
 iso: tat
 name: Tatar
+name_zh: 鞑靼语
 autonym: " تاتار تلی;"
+alt_names: [Bahasa Tatar, Baraba, Baraba Tatar, Idioma tártaro, Język tatarski, Kazan, Limba tătară, Lingua Tatarica, Lingua tatara, Língua tártara, Siberisch-Mahumedische Tatarn, Tartar, "Tata'er", Tataarin kieli, Tataars, Tatar (Baraba), Tatar (Mishar), Tatar (Volga), Tatar de Sibérie, Tatar dili, Tatar tele, Tatar tili, Tatara lingvo, Tatarca, Tatareg, Tatarische Sprache, Tatarisk, Tatarisk språk, Tatariska, Tatariske Sproake, Tatarski jezik, Tataru, Tatarština, Tatár nyelv, Tatárčina, Tatår, Totorių kalba, Tàtar, Tártaro de Siberia, Tártaru, Volga Tatar, Western Tatar, Тæтæйраг æвзаг, Тата́рьскъ ѩꙁꙑ́къ, Татаар тыла, Татаар хэлэн, Татар теле, Татар тілі, Татаронь кель, Татаронь кяль, Татарская мова, Татарски език, Татарски јазик, Татарски језик, Татарский язык, Татарська мова, Тутар чĕлхи, טטרית, تاتار تىلى, تاتارکی, تتارى, زبان تاتاری, لغة تترية, ภาษาตาตาร์, თათრული ენა, タタール語, 鞑靼语, 타타르어]
 population: 5286350
 country_id: RU
 country_name: Russia

@@ -2,6 +2,7 @@
 iso: bta
 name: Bata
 autonym: Gbwata
+alt_names: [Bata Group, Batta, Bete, Birsa, Biu-Mandara A.8, Demsa Bata, Dii, Dunu, Gboati, Gbwate, Gwate, Kofa, Kota, Muleng]
 population: 289500
 country_id: NG
 country_name: Nigeria

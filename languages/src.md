@@ -1,7 +1,9 @@
 ---
 iso: src
 name: Logudorese Sardinian
+name_zh: 洛古多罗方言
 autonym: sardu logudoresulogudoresu
+alt_names: [Central Sardinian, Język logudorski, Logodurese Sardinian, Logoudorien, Logudorese, Logudorès, Sard, Sardarese, Sardinian, "Sardinian, Logudorese", Sardo logudorese, Sardo logudorés, Sardu logudoresu, Sardu lugudurese, Логудорски јазик, 劳古多罗方言]
 population: 500000
 country_id: IT
 country_name: Italy

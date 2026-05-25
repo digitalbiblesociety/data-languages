@@ -2,6 +2,7 @@
 iso: klr
 name: Khaling
 autonym: खालिङ
+alt_names: ["C'halingeg", Jalingo, Kaling, Khael Baat, Khael Bra, Khalinge Rai, Rai]
 population: 14500
 country_id: NP
 country_name: Nepal

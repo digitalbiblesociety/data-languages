@@ -2,6 +2,7 @@
 iso: ogo
 name: Khana
 autonym: Ogoni
+alt_names: [Kana]
 population: 413000
 country_id: NG
 country_name: Nigeria

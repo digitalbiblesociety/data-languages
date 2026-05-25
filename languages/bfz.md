@@ -1,7 +1,9 @@
 ---
 iso: bfz
 name: Mahasu Pahari
+name_zh: 马哈苏帕哈里语
 autonym: Mahasui
+alt_names: [Baghati, Mahasu, Pahari, "Pahari, Mahasu", Paharí mahasu, Western Pahari]
 population: 1000000
 country_id: IN
 country_name: India

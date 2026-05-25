@@ -1,7 +1,9 @@
 ---
 iso: wba
 name: Warao
+name_zh: 哇撈語
 autonym: Guarao
+alt_names: [Araote, Faraute, Guarau, Guarauno, Guaruno, Guasay, Tivativa, Uarow, Warau, Waraw, Warrau]
 population: 32900
 country_id: VE
 country_name: Venezuela

@@ -2,6 +2,7 @@
 iso: nyp
 name: "Nyang'i"
 autonym: Nyangia
+alt_names: [Gyangiya, Ik, Ngangea, Ngapore, Ngiangeya, Niporen, Nipori, Nuangeya, Nyangeya, Nyangi, Nyangiya, Nyuangia, Poren, Upale, Ñangui]
 population: null
 country_id: UG
 country_name: Uganda

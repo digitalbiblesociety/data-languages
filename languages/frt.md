@@ -2,6 +2,7 @@
 iso: frt
 name: Fortsenal
 autonym: Fortsenal
+alt_names: [Idioma de kiai, Kiai, Kiai language, Vanuatu, Киаи]
 population: 450
 country_id: VU
 country_name: Vanuatu

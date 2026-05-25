@@ -1,6 +1,7 @@
 ---
 iso: xnh
 name: Kuanhua
+name_zh: 宽话
 autonym: Damai
 population: 1000
 country_id: CN

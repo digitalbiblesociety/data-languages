@@ -2,6 +2,7 @@
 iso: nlq
 name: Lao Naga
 autonym: Tase
+alt_names: ["Naga, Lao"]
 population: null
 country_id: MM
 country_name: Myanmar

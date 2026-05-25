@@ -2,6 +2,7 @@
 iso: tnn
 name: North Tanna
 autonym: Nɨnakə
+alt_names: ["Tanna, North", Vanuatu]
 population: 5000
 country_id: VU
 country_name: Vanuatu

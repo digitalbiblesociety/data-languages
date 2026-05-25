@@ -1,7 +1,9 @@
 ---
 iso: jpn
 name: Japanese
+name_zh: 日语
 autonym: 日本語
+alt_names: [Bahasa Jepang, Bahasa Jepun, Bahsa Jeupun, Basa Jepang, Djaponès, Gjuha japoneze, Hapon, Hapones, Hinapon, Hinapones, Iapanais, Iapanisc sprǣc, Idioma chaponés, Idioma japonés, IsiJaphani, Jaapani keel, Japana lingvo, Japaneg, Japanesch, Japanese bhasa, Japanese leid, Japanin kieli, Japanisch, Japanische Sprache, Japanische Språch, Japannees, Japans, Japansk, Japansk språk, Japanska, Japanski jezik, Japanskt mál, Japanšćina, Japonais, Japonca, Japonezy, Japoniana linguo, Japoniera, Japonès, Japonés, Japončina, Japonština, Japonščina, Japonų kalba, Japuonu kalba, Japán nyelv, Japánagiella, Japāņu valoda, Ji̍t-pún-oē, Język japoński, Kijapani, Limba japoneză, Lingua Iaponica, Lingua giapponese, Lingua giappunisa, Lingua japonesa, Lingua japonese, Lingua xaponesa, Língua japonesa, Ngi̍t-ngî, Nihonek, Nihun simi, Nĭk-buōng-ngṳ̄, Reo Tāpōnē, Seapáinis, Shapaanish, Tajaponit, Tiếng Nhật, Wikang Hapones, Xaponés, Yapon dili, Yapon tele, Zimanê japonî, ponbau, Èdè Japaní, Ýapon dili, Ιαπωνική γλώσσα, Јапански језик, Јапонски јазик, Забони ҷопонӣ, Нипонмудн келн, Япон хэл, Япон чĕлхи, Японская мова, Японски език, Японский язык, Японська мова, Ճապոներեն, יאפאניש, יפנית, جاپانی, زبان ژاپنی, لغة يابانية, يابانى, ياپون تىلى, ޖަޕާނީ, जपानी भाषा, जापानी भाषा, জাপানি ভাষা, ஜப்பானிய மொழி, ಜಪಾನಿ ಭಾಷೆ, ജാപ്പനീസ് ഭാഷ, ภาษาญี่ปุ่น, ཉི་ཧོང་སྐད།, ဂျပန်ဘာသာစကား, იაპონური ენა, ភាសាជប៉ុន, 日文, 日语, 일본어]
 population: 128000000
 country_id: JP
 country_name: Japan

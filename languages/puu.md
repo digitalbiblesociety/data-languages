@@ -2,6 +2,7 @@
 iso: puu
 name: Punu
 autonym: Bapunu
+alt_names: [Ipounou, Ipunu, Pouno, Puno, Yipounou, Yipunu]
 population: 168500
 country_id: GA
 country_name: Gabon

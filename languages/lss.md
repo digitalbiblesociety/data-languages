@@ -2,6 +2,7 @@
 iso: lss
 name: Lasi
 autonym: "سنڌي&"
+alt_names: [Lassi]
 population: 15000
 country_id: PK
 country_name: Pakistan

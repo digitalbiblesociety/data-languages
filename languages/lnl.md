@@ -2,6 +2,7 @@
 iso: lnl
 name: South Central Banda
 autonym: null
+alt_names: [Banda, Banda 1st division, "Banda, South Central"]
 population: 153000
 country_id: CF
 country_name: Central African Republic

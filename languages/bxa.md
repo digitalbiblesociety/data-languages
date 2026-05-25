@@ -2,6 +2,7 @@
 iso: bxa
 name: Tairaha
 autonym: Tairaha
+alt_names: [Bauro, Mamarego, Marmaregho, Südliche Salomons-Inseln]
 population: 4980
 country_id: SB
 country_name: Solomon Islands

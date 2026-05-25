@@ -1,7 +1,9 @@
 ---
 iso: lce
 name: Loncong
+name_zh: 伦从语
 autonym: Orang Laut
+alt_names: [Lonchong, Lontjong, Seka, Sekah, Sekak]
 population: 420
 country_id: ID
 country_name: Indonesia

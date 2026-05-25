@@ -2,6 +2,7 @@
 iso: xau
 name: Kauwera
 autonym: Kabera
+alt_names: [Kaowerawedj, Kauwerawec, Kauwerawet, Kauwerawetj, Kawera, Koassa, Tekutameso]
 population: 400
 country_id: ID
 country_name: Indonesia

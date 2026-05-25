@@ -2,6 +2,7 @@
 iso: csm
 name: Central Sierra Miwok
 autonym: Saclan
+alt_names: [C Sierra Miwok, "Central Sierra Miwok: Tuolumne", Eastern Division, Me-Wuk, Meewoc, Mewoc, Miwoc, Miwok (Central Sierra), Miwok de la Sierra centrale, "Miwok, Central Sierra", Miwokano serrano central, Mokélumne, Moquelumnan, Northern Sierra Miwok, "Northern Sierra Miwok: Seroushamne", San Raphael, Sawos, Sierra Miwok, "Southern Sierra Miwok: Southern Sierra Miwok", Talatui, Talutui, Tuolumne, Yosemite]
 population: 5000
 country_id: US
 country_name: United States

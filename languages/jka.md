@@ -2,6 +2,7 @@
 iso: jka
 name: Kaera
 autonym: null
+alt_names: [Dorit]
 population: 5500
 country_id: ID
 country_name: Indonesia

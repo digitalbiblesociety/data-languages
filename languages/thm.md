@@ -1,7 +1,9 @@
 ---
 iso: thm
 name: Aheu
+name_zh: 他文语
 autonym: Aheu
+alt_names: [Ahao, Ahlao, Ka Tawng Luang, Kha, Kha Tong Luang, Kha Tong Luong, Phi Taung Luang, Phon Soung, Phonesoung, Phonsung, Sach, So, So Thavung, Sotawueng, Tac-cui, Thavung, Thavung (République démocratique populaire lao), Thavung (Tailandia), Thavung (Thaïlande), Tong-luang]
 population: 2520
 country_id: TH
 country_name: Thailand

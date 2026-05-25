@@ -2,6 +2,7 @@
 iso: abe
 name: Western Abnaki
 autonym: Wôbanakiôdwawôgan
+alt_names: [Abenaki, Abenaki (Western), Abenakí occidental (Estados Unidos), Abenaqui, Abnaki, Abnaki (Western), "Abnaki, Western", Abénaqui occidental (Canada), "Abénaqui occidental (États-Unis d'Amérique)", St Francis, St. Francis, Western, Western Abenaki, Westliche Abenaki, Zapadnoabnački jezik]
 population: 14
 country_id: CA
 country_name: Canada

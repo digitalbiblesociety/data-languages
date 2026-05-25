@@ -2,6 +2,7 @@
 iso: tsx
 name: Mubami
 autonym: Tao
+alt_names: [Dausame, Dausuami, Ta, Tao-Suamato, Tao-Suame]
 population: 1730
 country_id: PG
 country_name: Papua New Guinea

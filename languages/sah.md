@@ -1,7 +1,9 @@
 ---
 iso: sah
 name: Yakut
+name_zh: 雅库特语
 autonym: Sakha tyla
+alt_names: [Bahasa Yakut, Iacut, Iakoute, Idioma yakuto, Jakoets, Jakucko godka, Jakut, Jakuta lingvo, Jakuti, Jakutisch, Jakutische Sprache, Jakutisk, Jakutisk språk, Jakutiska, Jakutski jezik, Jakutu valoda, Jakutų kalba, Jakuudi keel, Jakuutin kieli, Język jakucki, Lingua sacha, Língua iacuta, Northeast Siberian, Saha Türkçesi, Sakha, Sakha language, Saxa tıla, Yakoute, Yakouteg, Yakut Türkçesi, Yakut-Sakha, Yakuto, Yakutça, Јакутски јазик, Саха тыла, Саха хэлэн, Якут чĕлхи, Якутонь кель, Якутски език, Якутська мова, Якуцкая мова, якутский язык, زبان یاکوتی, ياقۇت تىلى, ภาษาซาคา, サハ語, 雅库特语, 야쿠트어]
 population: 478000
 country_id: RU
 country_name: Russia

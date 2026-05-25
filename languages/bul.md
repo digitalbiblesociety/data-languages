@@ -1,7 +1,9 @@
 ---
 iso: bul
 name: Bulgarian
+name_zh: 保加利亚语
 autonym: българскиbălgarski
+alt_names: [An Bhulgáiris, Bahasa Bulgaria, Balgarski, Basa Bulgaria, Bolgarščina, Bolgár nyelv, Bolqar dili, Bołharšćina, Bugarski jezik, Bulgaaria keel, Bulgaars, Bulgaarsk, Bulgar, Bulgara lingvo, Bulgarca, Bulgare, Bulgare de Banat, Bulgareg, Bulgarek, Bulgarian kieli, Bulgariana linguo, Bulgarie leid, Bulgariera, Bulgarisch, Bulgarische Sprache, Bulgariska, Bulgaro, Bulgarsk, Bulgarsk språk, Bulgarska rěc, Bulgarya simi, Bulgarų kalba, Bulgeyrish, Bulgáriagiella, Bulgāru valoda, Bulharčina, Bulharština, Bwlgareg, Bölgaars, Búlgar, Búlgaro del Bánato, Búlgarska, Búlgaru, Gjuha bullgare, Idioma bulgaro, Idioma búlgaro, Isi-Bulgaria, Język bułgarski, Kibulgaria, Lenga bùlgara, Lengua bulgara, Limba bulgară, Lingua Bulgarica, Lingua bulgara, Lingua búlgara, Língua búlgara, Middle Bulgarian, Old Bulgarian, Pomak, Tiếng Bungary, Tok Balgeria, Wikang Bulgaro, Zimanê bulgarî, Βουλγαρική γλώσσα, Балгарская мова, Баўгарская мова, Блъга́рьскъ ѩꙁꙑ́къ, Болгайраг æвзаг, Болгар йылме, Болгар хэл, Болгарский язык, Болгарська мова, Бугарски јазик, Бугарски језик, Български език, Забони булғорӣ, Полхар чĕлхи, Բուլղարերեն, בולגרית, بۇلغارىيە تىلى, زبان بلغاری, لغة بلغارية, बुल्गारियन भाषा, বুলগেরীয় ভাষা, பல்கேரிய மொழி, ภาษาบัลแกเรีย, ბულგარული ენა, ブルガリア語, 保加利亚语, 불가리아어]
 population: 6967000
 country_id: BG
 country_name: Bulgaria

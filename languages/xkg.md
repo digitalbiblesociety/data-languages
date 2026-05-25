@@ -2,6 +2,7 @@
 iso: xkg
 name: Kagoro
 autonym: Central Malinke
+alt_names: [Kakolo]
 population: 15000
 country_id: ML
 country_name: Mali

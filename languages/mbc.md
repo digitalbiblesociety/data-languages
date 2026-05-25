@@ -2,6 +2,7 @@
 iso: mbc
 name: Macushi
 autonym: Macuší
+alt_names: [Macushi (Brésil), Macushi (Guyane), Macusi, Macussi, Macusí (Guyana), Macuxi, Macuxí, Makouchieg, Makuchi, Makushi, Makushí, Makusi, Makuxi, Makuxí, Makušių kalba, Teueia, Teweya, Макуши]
 population: 15930
 country_id: BR
 country_name: Brazil

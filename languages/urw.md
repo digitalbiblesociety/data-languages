@@ -2,6 +2,7 @@
 iso: urw
 name: Sop
 autonym: Sob
+alt_names: [Kari, Usino]
 population: 2250
 country_id: PG
 country_name: Papua New Guinea

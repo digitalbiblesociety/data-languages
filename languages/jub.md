@@ -2,6 +2,7 @@
 iso: jub
 name: Wannu
 autonym: Abinsi
+alt_names: [Awannu, Jukun Abinsi, River Jukun]
 population: 4000
 country_id: NG
 country_name: Nigeria

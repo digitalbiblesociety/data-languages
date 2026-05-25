@@ -2,6 +2,7 @@
 iso: nml
 name: Ndemli
 autonym: Bandem
+alt_names: [Bayong, Ndemba]
 population: 5950
 country_id: CM
 country_name: Cameroon

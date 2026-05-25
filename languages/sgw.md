@@ -1,7 +1,9 @@
 ---
 iso: sgw
 name: Sebat Bet Gurage
+name_zh: 塞巴特贝特语
 autonym: Central West Gurage
+alt_names: [Central, Central Western Gurage, Chaha, Chaha Gurage, Chaha language, Chähä, Gurage, Gurage (Central West), Gurage (Chaha), Muher, Muxir, Txaha]
 population: 2710000
 country_id: ET
 country_name: Ethiopia

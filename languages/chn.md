@@ -1,7 +1,9 @@
 ---
 iso: chn
 name: Chinook jargon
+name_zh: 奇努克混合语
 autonym: chinuk wawa
+alt_names: [Chinook, Chinook Pidgin, Chinook Wawa, Chinuco, Jargon, Jargon chinook, "chinook, jargon", Ĉinuka piĝino, činúk wáwa, Чинукский жаргон]
 population: 1
 country_id: US
 country_name: United States

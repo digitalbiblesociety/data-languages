@@ -2,6 +2,7 @@
 iso: mhp
 name: Balinese Malay
 autonym: "Bahasa-Bahasa Melayu Dagang dan Kreol"
+alt_names: [Indonesia, "Malay, Balinese"]
 population: 25000
 country_id: ID
 country_name: Indonesia

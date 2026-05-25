@@ -1,7 +1,9 @@
 ---
 iso: zko
 name: Kott
+name_zh: 科特语
 autonym: kottuen
+alt_names: [Język kott, Kot, Kotin kieli, Kotte, Kotteg, Kottisk, Котт чĕлхи, Коттский язык, ภาษากอตต์]
 population: null
 country_id: RU
 country_name: Russia

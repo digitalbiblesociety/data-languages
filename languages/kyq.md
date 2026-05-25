@@ -2,6 +2,7 @@
 iso: kyq
 name: Kenga
 autonym: null
+alt_names: [Cenge, Kenge]
 population: 40000
 country_id: TD
 country_name: Chad

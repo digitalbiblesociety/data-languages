@@ -2,6 +2,7 @@
 iso: cow
 name: Cowlitz
 autonym: Lower Cowlitz
+alt_names: ["Sƛ'púmš", sƛʼpúlmš]
 population: null
 country_id: US
 country_name: United States

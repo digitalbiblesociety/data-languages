@@ -2,6 +2,7 @@
 iso: jms
 name: Mashi (Nigeria)
 autonym: Munkaf
+alt_names: [Mashi, Nigeria]
 population: 1000
 country_id: NG
 country_name: Nigeria

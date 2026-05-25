@@ -2,6 +2,7 @@
 iso: mxk
 name: Monumbo
 autonym: null
+alt_names: [Mambuwan]
 population: 410
 country_id: PG
 country_name: Papua New Guinea

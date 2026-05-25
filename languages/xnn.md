@@ -2,6 +2,7 @@
 iso: xnn
 name: Northern Kankanay
 autonym: "Kankana-ey"
+alt_names: ["Kankanay, Northern", Sagada Igorot, Western Bontoc]
 population: 94100
 country_id: PH
 country_name: Philippines

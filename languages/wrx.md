@@ -2,6 +2,7 @@
 iso: wrx
 name: Wae Rana
 autonym: Kolor
+alt_names: [Mbaen, Waerana]
 population: 4240
 country_id: ID
 country_name: Indonesia

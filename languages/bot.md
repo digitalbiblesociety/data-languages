@@ -2,6 +2,7 @@
 iso: bot
 name: Bongo
 autonym: Bungu
+alt_names: [Dor]
 population: 21000
 country_id: SS
 country_name: South Sudan

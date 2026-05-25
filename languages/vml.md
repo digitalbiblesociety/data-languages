@@ -1,7 +1,9 @@
 ---
 iso: vml
 name: Malgana
+name_zh: 马尔加纳语
 autonym: Maldjana
+alt_names: [Buluguda, Daguda, Damala, Madjana, Majanna, Maljanna, Malkana, Malyana, Marlgana, Tamala]
 population: null
 country_id: AU
 country_name: Australia

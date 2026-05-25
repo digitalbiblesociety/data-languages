@@ -2,6 +2,7 @@
 iso: byi
 name: Buyu
 autonym: Bujwe
+alt_names: [Buyi, Kibuyu]
 population: 10000
 country_id: CD
 country_name: DR Congo

@@ -2,6 +2,7 @@
 iso: nma
 name: Maram Naga
 autonym: Maram Naga
+alt_names: [Maram, Naga, "Naga, Maram", "Naga,Maram"]
 population: 32500
 country_id: IN
 country_name: India

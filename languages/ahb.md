@@ -2,6 +2,7 @@
 iso: ahb
 name: Axamb
 autonym: Ahamb
+alt_names: [Akamb, Akhamb, Mallicolo, "naujin sdrato [nauˈtʃin sndraˈto] ‘our language’"]
 population: 750
 country_id: VU
 country_name: Vanuatu

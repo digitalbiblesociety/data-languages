@@ -2,6 +2,7 @@
 iso: xbw
 name: Kambiwá
 autonym: Cambioá
+alt_names: [Brazil, Kambiwa]
 population: null
 country_id: BR
 country_name: Brazil

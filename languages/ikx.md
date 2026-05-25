@@ -2,6 +2,7 @@
 iso: ikx
 name: Ik
 autonym: "Icé-tód"
+alt_names: [Icietot, "Ik (delete in favor of So (=Tepes)?)", Ngulak, Teuso, Teuth]
 population: 10000
 country_id: UG
 country_name: Uganda

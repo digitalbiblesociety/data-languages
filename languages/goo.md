@@ -2,6 +2,7 @@
 iso: goo
 name: Gone Dau
 autonym: Gonedau
+alt_names: [Fidji-Inseln]
 population: 690
 country_id: FJ
 country_name: Fiji

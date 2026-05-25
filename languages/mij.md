@@ -2,6 +2,7 @@
 iso: mij
 name: Abar
 autonym: Missong
+alt_names: [Mijong, Mungbam]
 population: 2000
 country_id: CM
 country_name: Cameroon

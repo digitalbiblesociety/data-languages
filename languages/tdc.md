@@ -2,6 +2,7 @@
 iso: tdc
 name: "Emberá-Tadó"
 autonym: Chamí Emberá
+alt_names: [Embená Tadó, Embera-Tado, Sia pedee, Southern Emberá, Tado, Tadó]
 population: 1000
 country_id: CO
 country_name: Colombia

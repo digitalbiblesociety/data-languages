@@ -2,6 +2,7 @@
 iso: lnb
 name: Mbalanhu
 autonym: Oshiwambo
+alt_names: [Mbaanhu, Mbalantu, Mbaluntu]
 population: 200
 country_id: NA
 country_name: Namibia

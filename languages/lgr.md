@@ -2,6 +2,7 @@
 iso: lgr
 name: Lengo
 autonym: Doku
+alt_names: [Ruavatu, Südliche Salomons-Inseln, Tasemboko]
 population: 13800
 country_id: SB
 country_name: Solomon Islands

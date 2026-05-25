@@ -2,6 +2,7 @@
 iso: kyg
 name: Keyagana
 autonym: null
+alt_names: ["Ke'yagana", Keiagana, Keigana]
 population: 11540
 country_id: PG
 country_name: Papua New Guinea

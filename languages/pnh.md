@@ -2,6 +2,7 @@
 iso: pnh
 name: Penrhyn
 autonym: Mangarongaro
+alt_names: [Penrhynese, Tongareva, Tongarevski jezik]
 population: 600
 country_id: CK
 country_name: Cook Islands

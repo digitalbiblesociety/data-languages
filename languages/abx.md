@@ -2,6 +2,7 @@
 iso: abx
 name: Inabaknon
 autonym: Capul Sinama
+alt_names: [Abaknon, Abaknon Sama, Capul, Capuleño, Kapul, Sama]
 population: 26400
 country_id: PH
 country_name: Philippines

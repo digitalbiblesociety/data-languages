@@ -2,6 +2,7 @@
 iso: mpt
 name: Mian
 autonym: Mian Weng
+alt_names: [Mianmin, Miyanmin]
 population: 3500
 country_id: PG
 country_name: Papua New Guinea

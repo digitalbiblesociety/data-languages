@@ -2,6 +2,7 @@
 iso: mqg
 name: Kota Bangun Kutai Malay
 autonym: null
+alt_names: ["Malay, Kota Bangun Kutai"]
 population: 80000
 country_id: ID
 country_name: Indonesia

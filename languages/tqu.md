@@ -1,7 +1,9 @@
 ---
 iso: tqu
 name: Touo
+name_zh: 多沃语
 autonym: Baniata
+alt_names: [Lokuru, Mbaniata]
 population: 1870
 country_id: SB
 country_name: Solomon Islands

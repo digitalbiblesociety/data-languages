@@ -1,7 +1,9 @@
 ---
 iso: eke
 name: Ekit
+name_zh: 埃克特语
 autonym: Eket
+alt_names: [Ekid]
 population: 412000
 country_id: NG
 country_name: Nigeria

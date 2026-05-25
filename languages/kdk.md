@@ -2,6 +2,7 @@
 iso: kdk
 name: Numèè
 autonym: Kwényi
+alt_names: [Duauru, Kapone, Kunie, Kwenyii, Naa Numee, Naa-Wee, Neukaledonien, Numee, Nââ Numèè, Ouen, Touaouru, Tuauru, Uen, Wen]
 population: 1810
 country_id: NC
 country_name: New Caledonia

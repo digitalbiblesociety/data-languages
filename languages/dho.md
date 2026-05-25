@@ -2,6 +2,7 @@
 iso: dho
 name: Dhodia
 autonym: "Kokna-Dhodia"
+alt_names: [Dhobi, Dhore, Dhori, Dhowari, Doria]
 population: 49100
 country_id: IN
 country_name: India

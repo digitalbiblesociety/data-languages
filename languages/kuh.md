@@ -2,6 +2,7 @@
 iso: kuh
 name: Kushi
 autonym: " Chong'e"
+alt_names: [Chonge, Chongee, Filiya, Goji, Kushe, Pero, Pipero]
 population: 11000
 country_id: NG
 country_name: Nigeria

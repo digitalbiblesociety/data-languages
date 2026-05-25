@@ -1,7 +1,9 @@
 ---
 iso: mzs
 name: Macanese
+name_zh: 澳門土生葡語
 autonym: Patuá
+alt_names: [Macaense, Macaista, Macanés, Macao Creole Portuguese, Macaopatois, Makista, Maquista, Patua, Patuá macaense, ภาษามาเก๊า, マカオ語, 土生葡語, 澳門土生葡語, 澳門土語, 마카오어]
 population: 4000
 country_id: MO
 country_name: Macao

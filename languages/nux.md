@@ -2,6 +2,7 @@
 iso: nux
 name: Mehek
 autonym: Driafleisuma
+alt_names: [Indinogosima, "Me'ek", Me’ek, Nuku]
 population: 6300
 country_id: PG
 country_name: Papua New Guinea

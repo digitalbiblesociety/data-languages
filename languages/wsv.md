@@ -2,6 +2,7 @@
 iso: wsv
 name: "Wotapuri-Katarqalai"
 autonym: null
+alt_names: [Dardu, Katarkalai, Votapurí, Wotapuri, Wotapūrī-Katāqalāī]
 population: null
 country_id: AF
 country_name: Afghanistan

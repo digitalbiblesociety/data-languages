@@ -1,6 +1,7 @@
 ---
 iso: vsn
 name: Vedic Sanskrit
+name_zh: 吠陀梵語
 country_id: IN
 country_name: India
 latitude: 20

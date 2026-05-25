@@ -1,7 +1,9 @@
 ---
 iso: pdc
 name: Pennsylvania German
+name_zh: 賓夕法尼亞德語
 autonym: Pennsylvania Dutch
+alt_names: [Alamaneg Pennsylvania, Alemany de Pennsilvània, Alemán de Pensilvania, Alemão da Pensilvânia, "German, Pennsylvania", Germana din Pennsylvania, Język pensylwański, Lengua tedesca da Pennsylvania, Lingua Deitsch, Pennsilfaanisch, Pennsilfaanisch Deitsch, Pennsilvaniese Duits, Pennsylvania Deitsh, Pennsylvania-Duits, Pennsylvaniadeutsch, Pennsylvaniadüütsch, Pennsylvaniako aleman, Pennsylvaniansaksa, Pennsylvaniatysk, Pennsylvaniatyska, Pennsylvanish, Pennsylvaynek, Pensilvangermana dialekto, Pensilvanijski njemački, Pensilvanska nemščina, Pensilvanya Almancası, Pensylvánska nemčina, Pensylvánská němčina, Tedesco della Pennsylvania, Tudesch dela Pennsylvania, Пенсильванско-немецкий диалект, Пенсильвансько-німецький діалект, پېنسىلۋانىيە نېمىس تىلى, ፔንስልቫኒያ ጀርመንኛ, ペンシルベニアドイツ語, 賓夕法尼亞德語, 펜실베이니아 독일어]
 population: 148000
 country_id: US
 country_name: United States

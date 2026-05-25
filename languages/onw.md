@@ -1,7 +1,9 @@
 ---
 iso: onw
 name: Old Nubian
+name_zh: 努比亚语
 autonym: null
+alt_names: ["Nubian, Old"]
 population: null
 country_id: EG
 country_name: Egypt

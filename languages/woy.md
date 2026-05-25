@@ -2,6 +2,7 @@
 iso: woy
 name: Weyto
 autonym: (of Lake Tana)
+alt_names: [Wayto, "Weyt'o"]
 population: null
 country_id: ET
 country_name: Ethiopia

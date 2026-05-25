@@ -2,6 +2,7 @@
 iso: krd
 name: "Kairui-Midiki"
 autonym: Cairui
+alt_names: [Midiki]
 population: 2000
 country_id: TL
 country_name: "Timor-Leste"

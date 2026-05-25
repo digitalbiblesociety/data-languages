@@ -2,6 +2,7 @@
 iso: kub
 name: Kutep
 autonym: Ati
+alt_names: ["\"Jompre\"", Kuteb, Kutev, Mbarike, Zumper]
 population: 47600
 country_id: NG
 country_name: Nigeria

@@ -2,6 +2,7 @@
 iso: bye
 name: Pouye
 autonym: Bouye
+alt_names: [Buiye]
 population: 960
 country_id: PG
 country_name: Papua New Guinea

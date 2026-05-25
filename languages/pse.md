@@ -1,7 +1,9 @@
 ---
 iso: pse
 name: Central Malay
+name_zh: 中马来语
 autonym: Middle Malay
+alt_names: [Bengkulu, Besemah, Enim, Lintang, "Malay, Central", Midden Maleisch, Ogan, Pasemah, Semendo, Serawai]
 population: 1590000
 country_id: ID
 country_name: Indonesia

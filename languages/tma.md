@@ -2,6 +2,7 @@
 iso: tma
 name: Tama (Chad)
 autonym: Damut
+alt_names: [Jabaal, Miisiirii, Mileere, Tama, Tamok, Tamongobo, Tamot]
 population: 62900
 country_id: TD
 country_name: Chad

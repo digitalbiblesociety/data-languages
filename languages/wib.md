@@ -2,6 +2,7 @@
 iso: wib
 name: Southern Toussian
 autonym: Wín
+alt_names: [Toussian, Toussian (Northern), Toussian (Southern), Toussian (Win), "Toussian, Southern", Tusia, Tusian, Tusya, Tusya(ng), Tusyã, Win]
 population: 19500
 country_id: BF
 country_name: Burkina Faso

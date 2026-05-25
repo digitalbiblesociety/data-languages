@@ -2,6 +2,7 @@
 iso: cnw
 name: Ngawn Chin
 autonym: Ngawn
+alt_names: ["Chin, Ngawn", "Chin,Ngawn", Ngon, Ngorn]
 population: 18600
 country_id: MM
 country_name: Myanmar

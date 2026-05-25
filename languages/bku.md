@@ -2,6 +2,7 @@
 iso: bku
 name: Buhid
 autonym: ᝊᝓᝑᝒ
+alt_names: [Bangon, Batangan, Bukil, ภาษาบูฮิด]
 population: 11600
 country_id: PH
 country_name: Philippines

@@ -1,7 +1,9 @@
 ---
 iso: kos
 name: Kosraean
+name_zh: 科斯雷語
 autonym: Kosrae
+alt_names: [Kosraeanische Sprache, Kosraen kieli, Kosraės kalba, Kosreano, Kusaie, Kusaiean, コスラエ語, 코스라에어]
 population: 7790
 country_id: FM
 country_name: Micronesia

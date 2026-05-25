@@ -2,6 +2,7 @@
 iso: aic
 name: Ainbai
 autonym: null
+alt_names: [Ainba]
 population: 100
 country_id: PG
 country_name: Papua New Guinea

@@ -2,6 +2,7 @@
 iso: yiz
 name: Azhe
 autonym: null
+alt_names: [Lolo, Yi, "Yi, Azhe"]
 population: 54000
 country_id: CN
 country_name: China

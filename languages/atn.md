@@ -2,6 +2,7 @@
 iso: atn
 name: Ashtiani
 autonym: Ashtiyani
+alt_names: [Astiani, Astianí]
 population: 21100
 country_id: IR
 country_name: Iran

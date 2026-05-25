@@ -2,6 +2,7 @@
 iso: sjm
 name: Mapun
 autonym: Bajo
+alt_names: [Bajau Kagayan, Cagayan de Sulu, Cagayano, Cagayanon, Jama Mapun, Kagayan, Orang Cagayan, Sama Mapun]
 population: 58000
 country_id: PH
 country_name: Philippines

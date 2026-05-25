@@ -2,6 +2,7 @@
 iso: qxw
 name: Jauja Wanca Quechua
 autonym: Wanka Nunashimi
+alt_names: [Huanca, Huanca Jauja Quechua, Jauja, Jauja-Huanca, Nyuqa, "Quechua, Jauja Wanca", Shausha, Shausha Wanka Quechua, Wanka, Wanka language area]
 population: 23000
 country_id: PE
 country_name: Peru

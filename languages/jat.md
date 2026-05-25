@@ -2,6 +2,7 @@
 iso: jat
 name: Jakati
 autonym: Jat
+alt_names: [Baluj, Jataki, Jati, Jatu, Kayani, Lahnda, Musali]
 population: null
 country_id: AF
 country_name: Afghanistan

@@ -2,6 +2,7 @@
 iso: lma
 name: East Limba
 autonym: Yimba
+alt_names: [Limba, "Limba, East", Yumba]
 population: 4700
 country_id: GN
 country_name: Guinea

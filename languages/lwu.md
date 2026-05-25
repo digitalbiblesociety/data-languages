@@ -1,6 +1,7 @@
 ---
 iso: lwu
 name: Lawu
+name_zh: 拉邬语
 autonym: null
 population: 50
 country_id: CN

@@ -2,6 +2,7 @@
 iso: sml
 name: Central Sama
 autonym: Bajau
+alt_names: [Central Sinama, "Sama, Central", Samal, Siasi Sama, Sinama]
 population: 105000
 country_id: PH
 country_name: Philippines

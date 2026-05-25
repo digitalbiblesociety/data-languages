@@ -1,7 +1,9 @@
 ---
 iso: bca
 name: Central Bai
+name_zh: 白语中部方言
 autonym: 白语 Báiyǔ
+alt_names: [Bai, "Bai, Central", "Bai,Central", Eryuan, Labbu, Leme, Minchia, Minjia, Minkia, Nama, Pai, Wu]
 population: 800000
 country_id: CN
 country_name: China

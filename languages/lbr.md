@@ -2,6 +2,7 @@
 iso: lbr
 name: Lohorung
 autonym: Loharung
+alt_names: [Balai, Lohorong, Lohrung, Lohrung Khanawa, Lorung, "Lorung, Northern", "Lorung,Northern", Lōhōrōng, Northern, Northern Lorung]
 population: 3720
 country_id: NP
 country_name: Nepal

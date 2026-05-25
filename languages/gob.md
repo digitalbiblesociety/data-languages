@@ -2,6 +2,7 @@
 iso: gob
 name: Playero
 autonym: Jiwi
+alt_names: [Pepojivi, Rio Arauca Guahibo, Yamarero]
 population: 240
 country_id: CO
 country_name: Colombia

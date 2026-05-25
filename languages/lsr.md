@@ -2,6 +2,7 @@
 iso: lsr
 name: Aruop
 autonym: Srenge
+alt_names: [Alatil, "Lau'u", Lauisaranga, Lausurankin, Lawu Srenge]
 population: 700
 country_id: PG
 country_name: Papua New Guinea

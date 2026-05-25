@@ -1,7 +1,9 @@
 ---
 iso: xon
 name: Konkomba
+name_zh: 孔空芭语
 autonym: Likpakpaln
+alt_names: [Kom Komba, Kpankpam, Kpəkpam]
 population: 915700
 country_id: GH
 country_name: Ghana

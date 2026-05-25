@@ -1,7 +1,9 @@
 ---
 iso: sgz
 name: Sursurunga
+name_zh: Sursurunga语
 autonym: null
+alt_names: [Sursurunga language]
 population: 3000
 country_id: PG
 country_name: Papua New Guinea

@@ -1,7 +1,9 @@
 ---
 iso: isl
 name: Icelandic
+name_zh: 冰岛语
 autonym: íslenska
+alt_names: [An Íoslainnis, Bahasa Iceland, Bahasa Islan, Eeslynnish, Gjuha islandeze, IJslands, Icelandic leid, Idioma islandés, Ieslaans, Ieslandjs, Islanda lingvo, Islandais, Islandana linguo, Islandeg, Islandek, Islandi keel, Islandiera, Islandsk, Islandsk språk, Islandski jezik, Islandu kalba, Islandya simi, Islandès, Islandés, Islandčina, Islandština, Islandščina, Islandų kalba, Islannin kieli, Islánddagiella, Isländisch, Isländische Sprache, Isländska, Izlandi nyelv, Język islandzki, Lenga islandèisa, Lengua Islandesa, Lengua islandeise, Limba islandeză, Lingua Islandica, Lingua islandesa, Lingua islandese, Lingua islannisa, Luenga islandesa, Língua islandesa, Tiếng Iceland, Tok Aislan, Yslands, Íslendskt mál, Īslandiešu valoda, Īslendisc sprǣc, İsland dili, İsland tili, İzlandaca, Łéngua islandéxe, Ισλανδική γλώσσα, Ісландская мова, Ісландська мова, Ісьляндзкая мова, Забони исландӣ, Исланд йылме, Исланд чĕлхи, Исландиаг æвзаг, Исландски език, Исландски јазик, Исландски језик, Исландский язык, Исландхойн мотт, Իսլանդերեն, איסלנדית, ئىسلاندىيە تىلى, ايسلاندى, زبان ایسلندی, لغة آيسلندية, आइसलैंडिक भाषा, आईसलँडिक भाषा, আইসল্যান্ডীয় ভাষা, ภาษาไอซ์แลนด์, ისლანდიური ენა, アイスランド語, 冰岛文, 冰岛语, 冰島語, 아이슬란드어]
 population: 328080
 country_id: IS
 country_name: Iceland

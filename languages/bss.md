@@ -1,7 +1,9 @@
 ---
 iso: bss
 name: Akoose
+name_zh: 阿库色语
 autonym: Ngoe
+alt_names: [Akosi, Bakossi, Bekoose, Koose, Kosi, Nkoosi, Nkosi]
 population: 100000
 country_id: CM
 country_name: Cameroon

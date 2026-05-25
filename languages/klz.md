@@ -2,6 +2,7 @@
 iso: klz
 name: Kabola
 autonym: null
+alt_names: [Indonesia]
 population: 3900
 country_id: ID
 country_name: Indonesia

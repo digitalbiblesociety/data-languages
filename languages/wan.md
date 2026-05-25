@@ -2,6 +2,7 @@
 iso: wan
 name: Wan
 autonym: Nwa
+alt_names: [Van]
 population: 22000
 country_id: CI
 country_name: "Côte d'Ivoire"

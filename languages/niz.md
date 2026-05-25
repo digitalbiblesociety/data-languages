@@ -2,6 +2,7 @@
 iso: niz
 name: Ningil
 autonym: null
+alt_names: [Gul, Ral]
 population: 950
 country_id: PG
 country_name: Papua New Guinea

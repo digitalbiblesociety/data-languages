@@ -2,6 +2,7 @@
 iso: bjk
 name: Barok
 autonym: Kanalu
+alt_names: [Kanapit, Kolube, Komalu, Kulubi, Neu-Mecklenburg]
 population: 2120
 country_id: PG
 country_name: Papua New Guinea

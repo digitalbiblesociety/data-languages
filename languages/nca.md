@@ -2,6 +2,7 @@
 iso: nca
 name: Iyo
 autonym: Nahu
+alt_names: [Bure, Nabu, Naho, Ndo]
 population: 6900
 country_id: PG
 country_name: Papua New Guinea

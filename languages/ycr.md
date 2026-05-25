@@ -1,7 +1,9 @@
 ---
 iso: ycr
 name: Yilan Creole
+name_zh: 寒溪语
 autonym: Kankei
+alt_names: [Hanhsi Atayal, Hanxi, Yilan Creole Japanese, 宜蘭克里奧爾, 寒溪泰雅語, 寒溪話]
 country_id: CN
 country_name: China
 latitude: 24.381274

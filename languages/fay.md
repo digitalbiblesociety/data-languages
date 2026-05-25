@@ -2,6 +2,7 @@
 iso: fay
 name: Southwestern Fars
 autonym: Southwestern Fars
+alt_names: ["\"Tajik\"", Davani dialect, Fars, "Fars, Southwestern"]
 population: 7500
 country_id: IR
 country_name: Iran

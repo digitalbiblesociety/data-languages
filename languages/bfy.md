@@ -1,7 +1,9 @@
 ---
 iso: bfy
 name: Bagheli
+name_zh: 巴哥里语
 autonym: बघेली
+alt_names: [Bagelkhandi, Bhugelkhud, Gangai, Kawathi, Kenat, Kevat Boli, Kevati, Kewani, Kewat, Kewati, Kewot, Mandal, Mannadi, Riwai]
 population: 2680000
 country_id: IN
 country_name: India

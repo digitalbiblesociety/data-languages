@@ -2,6 +2,7 @@
 iso: ckn
 name: Kaang Chin
 autonym: Kang
+alt_names: ["Chin, Kaang"]
 population: 35000
 country_id: MM
 country_name: Myanmar

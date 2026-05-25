@@ -2,6 +2,7 @@
 iso: omw
 name: South Tairora
 autonym: Omwunra Toqura (Aatasara)
+alt_names: [Omwunra-Toqura, Southern Tairora, Tairora, "Tairora, South"]
 population: 8000
 country_id: PG
 country_name: Papua New Guinea

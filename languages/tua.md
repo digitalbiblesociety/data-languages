@@ -2,6 +2,7 @@
 iso: tua
 name: Wiarumus
 autonym: Mandi
+alt_names: [Imandi]
 population: 460
 country_id: PG
 country_name: Papua New Guinea

@@ -2,6 +2,7 @@
 iso: gnq
 name: Gana
 autonym: Ganaq
+alt_names: ["Gana'", Keningau Dusun, Minansut]
 population: 1000
 country_id: MY
 country_name: Malaysia

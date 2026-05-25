@@ -2,6 +2,7 @@
 iso: djm
 name: Jamsay Dogon
 autonym: Jamsay
+alt_names: [Dogon, "Dogon, Jamsay", Dyamsay Tegu]
 population: 130000
 country_id: ML
 country_name: Mali

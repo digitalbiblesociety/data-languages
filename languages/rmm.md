@@ -2,6 +2,7 @@
 iso: rmm
 name: Roma
 autonym: Roma
+alt_names: [Romang, Romang language]
 population: 1700
 country_id: ID
 country_name: Indonesia

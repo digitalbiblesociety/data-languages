@@ -2,6 +2,7 @@
 iso: tnb
 name: Western Tunebo
 autonym: Tunebo
+alt_names: [Agua Blanca, Aguas Blancas, Cobaría, Pedraza, Sinsiga, Sínsiga, Tame, Tegría, "Tunebo, Western", "U'w Cuwa", "U'w Kuwa", "U'wa", Uwa]
 population: 700
 country_id: CO
 country_name: Colombia

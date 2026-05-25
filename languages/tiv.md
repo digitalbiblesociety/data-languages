@@ -1,7 +1,9 @@
 ---
 iso: tiv
 name: Tiv
+name_zh: 蒂夫语
 autonym: Tiv
+alt_names: ["\"Munshi\""]
 population: 4300000
 country_id: NG
 country_name: Nigeria

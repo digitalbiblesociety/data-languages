@@ -2,6 +2,7 @@
 iso: nhu
 name: Noone
 autonym: Nooni
+alt_names: [Kumaju, Noni]
 population: 40000
 country_id: CM
 country_name: Cameroon

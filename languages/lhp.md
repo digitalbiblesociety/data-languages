@@ -2,6 +2,7 @@
 iso: lhp
 name: Lhokpu
 autonym: Lhobikha
+alt_names: [Lokpu, Taba-Damey-Bikha]
 population: 2500
 country_id: BT
 country_name: Bhutan

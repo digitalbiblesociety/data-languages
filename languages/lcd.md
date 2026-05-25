@@ -2,6 +2,7 @@
 iso: lcd
 name: Lola
 autonym: bahasa Lola
+alt_names: [Aru, Buru]
 population: 830
 country_id: ID
 country_name: Indonesia

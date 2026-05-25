@@ -2,6 +2,7 @@
 iso: lmx
 name: Laimbue
 autonym: null
+alt_names: [Cameroon]
 population: 5000
 country_id: CM
 country_name: Cameroon

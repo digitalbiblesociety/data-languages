@@ -2,6 +2,7 @@
 iso: soj
 name: Soi
 autonym: "Sohi, Soic"
+alt_names: [Iran, "So'i", Soh, Sohi]
 population: 7030
 country_id: IR
 country_name: Iran

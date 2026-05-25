@@ -2,6 +2,7 @@
 iso: bav
 name: Vengo
 autonym: Babungo
+alt_names: [Nge, Ngo, Nguu, Ngwa, Pengo, "Veng'o", Vengi, Vengoo]
 population: 27000
 country_id: CM
 country_name: Cameroon

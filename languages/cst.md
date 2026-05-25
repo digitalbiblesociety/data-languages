@@ -2,6 +2,7 @@
 iso: cst
 name: Northern Ohlone
 autonym: Costanoan
+alt_names: [Chochenyo, Chocheño, Northern Costanoan, "Ohlone, Northern", San Francisco Bay Costanoan, Čočenyo]
 population: null
 country_id: US
 country_name: United States

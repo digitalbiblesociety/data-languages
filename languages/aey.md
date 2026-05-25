@@ -2,6 +2,7 @@
 iso: aey
 name: Amele
 autonym: Sona
+alt_names: [Amale]
 population: 5300
 country_id: PG
 country_name: Papua New Guinea

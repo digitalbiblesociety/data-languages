@@ -2,6 +2,7 @@
 iso: lox
 name: Loun
 autonym: bahasa Loun
+alt_names: [Loun language]
 population: null
 country_id: ID
 country_name: Indonesia

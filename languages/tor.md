@@ -2,6 +2,7 @@
 iso: tor
 name: "Togbo-Vara Banda"
 autonym: null
+alt_names: [Banda, "Banda, Togbo-Vara"]
 population: 12000
 country_id: CD
 country_name: DR Congo

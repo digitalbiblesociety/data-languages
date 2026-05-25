@@ -1,7 +1,9 @@
 ---
 iso: axm
 name: Middle Armenian
+name_zh: 中古亚美尼亚语
 autonym: Կիլիկեան հայերէն
+alt_names: ["Armenian, Middle"]
 population: null
 country_id: AM
 country_name: Armenia

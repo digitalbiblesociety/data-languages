@@ -2,6 +2,7 @@
 iso: gat
 name: Kenati
 autonym: Aziana
+alt_names: [Ganati, Kenathi]
 population: 950
 country_id: PG
 country_name: Papua New Guinea

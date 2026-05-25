@@ -1,7 +1,9 @@
 ---
 iso: pnb
 name: Western Panjabi
+name_zh: 西旁遮普语
 autonym: ਪੰਜਾਬੀ
+alt_names: [Hindki, Język lahnda, Lahanda, Lahnda, Lahndi, Lenga panjabi ossidental, Lingua Panjabica occidentalis, Pandschabi, "Panjabi, Western", Standard Lahnda, Western Punjabi]
 population: 31100000
 country_id: PK
 country_name: Pakistan

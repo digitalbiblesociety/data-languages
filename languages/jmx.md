@@ -2,6 +2,7 @@
 iso: jmx
 name: Western Juxtlahuaca Mixtec
 autonym: Coicoyán Mixtec
+alt_names: [Ayutla Mixtec, Central Juxtlahuaca Mixtec, Central Misteko, Centreal Mixteco, Coastal Guerrero Mixtec, Juxtlahuaca Mixtec, "Mixtec, Western Juxtlahuaca", Mixteco de Ayutla, Mixteco de Juxtlahuaca, Mixteco del Oeste de Juxtlahuaca, Southern Baja Mixtec]
 population: 2000
 country_id: MX
 country_name: Mexico

@@ -2,6 +2,7 @@
 iso: sng
 name: Sanga (Democratic Republic of Congo)
 autonym: Kisanga
+alt_names: [Luba-Garenganze, Luba-Sanga, Sanga, Southern Luba]
 population: 431000
 country_id: CD
 country_name: DR Congo

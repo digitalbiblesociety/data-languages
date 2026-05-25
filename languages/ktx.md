@@ -2,6 +2,7 @@
 iso: ktx
 name: Kaxararí
 autonym: Kaxariri
+alt_names: [Cacharari, Kashararí, Kaxarari]
 population: 270
 country_id: BR
 country_name: Brazil

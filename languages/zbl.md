@@ -1,7 +1,9 @@
 ---
 iso: zbl
 name: Blissymbols
+name_zh: 布力辛博语
 autonym: "14px (\"world language\")"
+alt_names: [Bliss, Blissymbolics]
 population: null
 country_id: ZZ
 country_name: Unknown or Invalid Territory

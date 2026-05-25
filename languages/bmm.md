@@ -2,6 +2,7 @@
 iso: bmm
 name: Northern Betsimisaraka Malagasy
 autonym: malagasy
+alt_names: ["Malagasy, Northern Betsimisaraka"]
 population: 1270000
 country_id: MG
 country_name: Madagascar

@@ -2,6 +2,7 @@
 iso: inn
 name: Isinai
 autonym: Isinay
+alt_names: [Inmeas, Insinai, Isnay, Malaates]
 population: 5520
 country_id: PH
 country_name: Philippines

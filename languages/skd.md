@@ -2,6 +2,7 @@
 iso: skd
 name: Southern Sierra Miwok
 autonym: Yosemite
+alt_names: [Central Sierra Miwok, "Central Sierra Miwok: Tuolumne", Eastern Division, Me-Wuk, Meewoc, Mewoc, Miwoc, Miwok (Southern Sierra), Miwok de la Sierra méridionale, "Miwok, Southern Sierra", Miwokan, Miwokano serrano meridional, Mokélumne, Moquelumnan, Northern Sierra Miwok, "Northern Sierra Miwok: Seroushamne", S Sierra Miwok, San Raphael, Sawos, Sierra Miwok, Southern, "Southern Sierra Miwok: Southern Sierra Miwok", Talatui, Talutui]
 population: null
 country_id: US
 country_name: United States

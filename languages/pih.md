@@ -1,7 +1,9 @@
 ---
 iso: pih
 name: "Pitcairn-Norfolk"
+name_zh: 皮特肯語
 autonym: "Pitkern-Norfolk  Pitcairn-Norfolk"
+alt_names: ["Norf'k", Norfolk Language, Norfolkese, Norfuk, Pitcairn English, Pitcairnese, Pitkern]
 population: 400
 country_id: NF
 country_name: Norfolk Island

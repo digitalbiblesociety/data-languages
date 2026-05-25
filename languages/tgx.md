@@ -1,7 +1,9 @@
 ---
 iso: tgx
 name: Tagish
+name_zh: 塔吉什语
 autonym: Tā̀gish
+alt_names: [Tagís]
 population: 400
 country_id: CA
 country_name: Canada

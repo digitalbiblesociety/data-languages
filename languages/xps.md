@@ -1,6 +1,7 @@
 ---
 iso: xps
 name: Pisidian
+name_zh: 皮西迪亚语
 autonym: null
 population: null
 country_id: TR

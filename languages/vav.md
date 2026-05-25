@@ -2,6 +2,7 @@
 iso: vav
 name: Varli
 autonym: वारली
+alt_names: [Warli]
 population: 387000
 country_id: IN
 country_name: India

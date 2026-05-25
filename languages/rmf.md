@@ -2,6 +2,7 @@
 iso: rmf
 name: Kalo Finnish Romani
 autonym: kaalengo tšimb
+alt_names: [European Romany, Fíntika Rómma, Gypsy, "Romani, Kalo Finnish", Romany, Zigeuner]
 population: 10000
 country_id: FI
 country_name: Finland

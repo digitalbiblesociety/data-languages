@@ -2,6 +2,7 @@
 iso: hvc
 name: Haitian Vodoun Culture Language
 autonym: Langay
+alt_names: [Langaj, Langaj jezik]
 population: null
 country_id: HT
 country_name: Haiti

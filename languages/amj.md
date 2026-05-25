@@ -2,6 +2,7 @@
 iso: amj
 name: Amdang
 autonym: sìmí amdangtí
+alt_names: [Amdangeg, Andang, Andangti, Biltine, Mima, Mime, Mimi, Mimi1, Mimi2, Mututu]
 population: 41100
 country_id: TD
 country_name: Chad

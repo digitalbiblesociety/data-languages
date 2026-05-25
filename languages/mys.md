@@ -2,6 +2,7 @@
 iso: mys
 name: Mesmes
 autonym: null
+alt_names: [Indegegn, Mäsmäs]
 population: null
 country_id: ET
 country_name: Ethiopia

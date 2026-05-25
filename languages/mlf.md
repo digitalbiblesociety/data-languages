@@ -1,7 +1,9 @@
 ---
 iso: mlf
 name: Mal
+name_zh: 马勒语
 autonym: Thin
+alt_names: ["Ht'in", Htin, Khatin, Madl, "T'in", Tin]
 population: 26700
 country_id: LA
 country_name: Laos

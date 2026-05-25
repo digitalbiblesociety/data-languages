@@ -2,6 +2,7 @@
 iso: mhg
 name: Margu
 autonym: Yaako
+alt_names: [Adawuli, Ajokoot, Croker Island, Croker Island language, Djalakuru, Gaari, Garrig, Iwaidja, Iwaidjan, Jaako, Jakajako, Jiwadza, "Ma:go", Mago, Maraura, Marg, Margo, Marlgu, Maroura, Marowera, Marrgu, Marrku, Oitbi, Raffles Bay, Raffles Bay language, Terrutong, Terutong, Uruku, Waimbo, Wurango, Yaakoyaako, Yako]
 population: null
 country_id: AU
 country_name: Australia

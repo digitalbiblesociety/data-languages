@@ -1,6 +1,7 @@
 ---
 iso: srn
 name: Sranan Tongo
+name_zh: 苏里南语
 autonym: Sranan Tongo
 population: 518600
 country_id: SR

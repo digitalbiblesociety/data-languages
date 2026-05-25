@@ -2,6 +2,7 @@
 iso: tsw
 name: Tsishingini
 autonym: null
+alt_names: [Ashingini, Kambari, Kamberchi, Kamberri, Salka]
 population: 100000
 country_id: NG
 country_name: Nigeria

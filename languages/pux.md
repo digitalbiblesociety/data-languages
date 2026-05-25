@@ -2,6 +2,7 @@
 iso: pux
 name: Puare
 autonym: Bkwala
+alt_names: [Puari]
 population: 35
 country_id: PG
 country_name: Papua New Guinea

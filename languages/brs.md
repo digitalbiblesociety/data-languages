@@ -2,6 +2,7 @@
 iso: brs
 name: Baras
 autonym: Ende
+alt_names: [ToriBara]
 population: 250
 country_id: ID
 country_name: Indonesia

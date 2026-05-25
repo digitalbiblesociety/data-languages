@@ -2,6 +2,7 @@
 iso: tja
 name: Tajuasohn
 autonym: Tajuason
+alt_names: [Kru, Tajuoso, Tajuosohn]
 population: 9600
 country_id: LR
 country_name: Liberia

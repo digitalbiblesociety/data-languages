@@ -1,7 +1,9 @@
 ---
 iso: kjm
 name: Kháng
+name_zh: 抗语
 autonym: Mang U’
+alt_names: [Bren, Hang, Jang, Khaang, Khang, Khang quang lam, Ksakautenh, Pouteng, Putenh, Quang Lam, Tay Hay, Tayhay, Teng, Theng, Xa, Xa Ai, Xa Bung, Xa Dang, Xa Don, Xa Hoc, Xa Suak, Xa Xua, Xá Khao]
 population: 3920
 country_id: VN
 country_name: Vietnam

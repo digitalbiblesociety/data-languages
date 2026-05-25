@@ -2,6 +2,7 @@
 iso: hem
 name: Hemba
 autonym: Eastern Luba
+alt_names: [Emba, Kiemba, Kihemba, Kiluba-Hemba, Luba-Hemba]
 population: 181000
 country_id: CD
 country_name: DR Congo

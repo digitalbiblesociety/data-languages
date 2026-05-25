@@ -2,6 +2,7 @@
 iso: pdu
 name: Kayan
 autonym: Kayan
+alt_names: [Kayang, Padaung, Padaung Karen]
 population: 133180
 country_id: MM
 country_name: Myanmar

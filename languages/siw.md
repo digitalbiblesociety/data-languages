@@ -2,6 +2,7 @@
 iso: siw
 name: Siwai
 autonym: Siwai
+alt_names: [Motuna]
 population: 6600
 country_id: PG
 country_name: Papua New Guinea

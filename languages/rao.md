@@ -1,7 +1,9 @@
 ---
 iso: rao
 name: Rao
+name_zh: 饒語
 autonym: Rao Breri
+alt_names: [Annaberg]
 population: 6000
 country_id: PG
 country_name: Papua New Guinea

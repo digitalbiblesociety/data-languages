@@ -1,7 +1,9 @@
 ---
 iso: pcj
 name: Parenga
+name_zh: 戈鲁姆语
 autonym: Gorum
+alt_names: [Gadaba, Gorum Sama, Gorumo, Pareng, Parenga Parja, Parengi, Parengi Poroja, Parenji, Poroja]
 population: 12646
 country_id: IN
 country_name: India

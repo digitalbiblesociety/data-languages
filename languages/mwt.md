@@ -1,7 +1,9 @@
 ---
 iso: mwt
 name: Moken
+name_zh: 莫肯语
 autonym: Basing
+alt_names: ["Chau Ko'", Mawken, Moklen, Salon, Salong, Selong, Selung]
 population: 6000
 country_id: MM
 country_name: Myanmar

@@ -2,6 +2,7 @@
 iso: nsz
 name: Nisenan
 autonym: Southern Maidu
+alt_names: [Maidu (Southern), Neeshenam, Nisenan (Central Hill), Nishinam, Pujuni, S Maidu, S. Maidu, South Maidu, Wapumni]
 population: null
 country_id: US
 country_name: United States

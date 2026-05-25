@@ -1,6 +1,7 @@
 ---
 iso: bdb
 name: Basap
+name_zh: 巴薩普語
 autonym: Bosap
 population: 15000
 country_id: ID

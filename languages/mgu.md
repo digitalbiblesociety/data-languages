@@ -1,7 +1,9 @@
 ---
 iso: mgu
 name: Mailu
+name_zh: 邁魯
 autonym: Magɨ
+alt_names: [Domara, Magi]
 population: 8500
 country_id: PG
 country_name: Papua New Guinea

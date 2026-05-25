@@ -2,6 +2,7 @@
 iso: nda
 name: Ndasa
 autonym: Andasa
+alt_names: [Ndash, Ndassa]
 population: 4530
 country_id: CG
 country_name: Congo

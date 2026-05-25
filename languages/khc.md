@@ -2,6 +2,7 @@
 iso: khc
 name: Tukang Besi North
 autonym: Buton
+alt_names: [Tukang Besi, Wakatobi]
 population: 120000
 country_id: ID
 country_name: Indonesia

@@ -2,6 +2,7 @@
 iso: dnn
 name: Dzùùngoo
 autonym: Eastern Duun
+alt_names: [Dzuungoo, Kpango, Samogho, Samogo, Samoro]
 population: 13400
 country_id: BF
 country_name: Burkina Faso

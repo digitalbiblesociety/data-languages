@@ -1,7 +1,9 @@
 ---
 iso: lhl
 name: Lahul Lohar
+name_zh: 拉胡尔洛哈尔语
 autonym: Garas
+alt_names: [Lohar, "Lohar, Lahul"]
 population: 750
 country_id: IN
 country_name: India

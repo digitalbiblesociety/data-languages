@@ -1,7 +1,9 @@
 ---
 iso: nst
 name: Tase Naga
+name_zh: 唐薩語
 autonym: Tase
+alt_names: [Cham Chang, Chang, Jugli, Lungchang, Naga, "Naga, Tase", "Naga,Tase", Northern Naga, Rangpan, Rangpang, Tangsa, Tangsa/Rangpan, Tasey, Yogli]
 population: 986000
 country_id: MM
 country_name: Myanmar

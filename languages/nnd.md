@@ -2,6 +2,7 @@
 iso: nnd
 name: West Ambae
 autonym: Duidui
+alt_names: ["Ambae, West", Opa]
 population: 8700
 country_id: VU
 country_name: Vanuatu

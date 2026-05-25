@@ -2,6 +2,7 @@
 iso: nlk
 name: Ninia Yali
 autonym: Yalimo
+alt_names: [Jaly, Jalأƒآ¨, Ninia, North Ngalik, Northern Ngalik, Southern Yali, Yali, Yali Selatan, "Yali, Ninia"]
 population: 10500
 country_id: ID
 country_name: Indonesia

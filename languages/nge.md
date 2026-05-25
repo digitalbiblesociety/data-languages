@@ -2,6 +2,7 @@
 iso: nge
 name: Ngemba
 autonym: Ngemba
+alt_names: [Megimba, Mogimba, Mundum, Ngomba, Nguemba]
 population: 18800
 country_id: CM
 country_name: Cameroon

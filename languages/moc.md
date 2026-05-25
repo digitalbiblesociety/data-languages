@@ -1,7 +1,9 @@
 ---
 iso: moc
 name: Mocoví
+name_zh: 莫科维语
 autonym: Mbocobí
+alt_names: [Mocobí, Mocovi, Mokovi, Mokoví]
 population: 4530
 country_id: AR
 country_name: Argentina

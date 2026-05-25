@@ -2,6 +2,7 @@
 iso: rmw
 name: Welsh Romani
 autonym: Welsh Kalá
+alt_names: [European Romany, Romani (Welsh), "Romani, Welsh", Romany, Romany (Welsh), Valshenengi Romani chhib, Welsh Romany, Welsh-Romani language, Zigeuner]
 population: null
 country_id: GB
 country_name: United Kingdom

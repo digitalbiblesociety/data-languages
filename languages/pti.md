@@ -2,6 +2,7 @@
 iso: pti
 name: Pindiini
 autonym: Wati
+alt_names: [Bindinini, Bindunda, Mount Margaret, Pindini, Pintiini, Wangada, Wanggada, Wanggaji, Wangkatha, Wangkathaa, Wangkatja, Won-gaii, Wonga, Wongai-I, Wongaidya, Wonggai, Wonggaii, Wonkai]
 population: 250
 country_id: AU
 country_name: Australia

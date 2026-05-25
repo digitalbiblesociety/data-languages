@@ -1,7 +1,9 @@
 ---
 iso: myp
 name: Pirahã
+name_zh: 皮拉罕語
 autonym: "Múra-Pirahã"
+alt_names: [Bohura, Idioma pirahã, Język pirahã, Luenga pirahã, Língua pirarrã, Mra-Pirah, Mura, Mura-Piraha, Mure-Pirahã, Múra, Piraha, Piraha hizkuntza, Piraha kalba, Pirahana lingvo, Pirahaneg, Pirahá, Pirahán, Tiếng Pirahã, Пираха, 皮拉罕語, 피라하어]
 population: 1500
 country_id: BR
 country_name: Brazil

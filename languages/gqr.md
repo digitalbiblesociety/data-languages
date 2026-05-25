@@ -2,6 +2,7 @@
 iso: gqr
 name: Gor
 autonym: Gorontalo
+alt_names: [Bodo]
 population: 159000
 country_id: TD
 country_name: Chad

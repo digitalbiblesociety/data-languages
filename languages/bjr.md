@@ -2,6 +2,7 @@
 iso: bjr
 name: Binumarien
 autonym: Afaqina
+alt_names: [Binamarir, Binumaria]
 population: 1200
 country_id: PG
 country_name: Papua New Guinea

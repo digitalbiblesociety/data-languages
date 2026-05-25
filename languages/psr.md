@@ -1,7 +1,9 @@
 ---
 iso: psr
 name: Portuguese Sign Language
+name_zh: 葡萄牙语手语
 autonym: " Língua gestual portuguesa"
+alt_names: [Lingua Gestual Portuguesa]
 population: 8000
 country_id: PT
 country_name: Portugal

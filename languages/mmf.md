@@ -2,6 +2,7 @@
 iso: mmf
 name: Mundat
 autonym: null
+alt_names: [Nigeria]
 population: 1000
 country_id: NG
 country_name: Nigeria

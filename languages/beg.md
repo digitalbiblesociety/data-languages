@@ -2,6 +2,7 @@
 iso: beg
 name: Belait
 autonym: Lemeting
+alt_names: [Balait Jati, Meting]
 population: 1000
 country_id: BN
 country_name: Brunei

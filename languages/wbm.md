@@ -2,6 +2,7 @@
 iso: wbm
 name: Wa
 autonym: Va
+alt_names: [Awa, Baraog, "K'awa", Kawa, Paraok, Parauk, Praok, Vo, Vü, Wa Pwi, Wa-Vü, Wakut, ဝ, 佤語]
 population: 40700
 country_id: CN
 country_name: China

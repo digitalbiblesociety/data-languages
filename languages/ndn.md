@@ -2,6 +2,7 @@
 iso: ndn
 name: Ngundi
 autonym: Ingundi
+alt_names: [Ngondi]
 population: 3000
 country_id: CG
 country_name: Congo

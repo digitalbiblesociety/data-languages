@@ -1,7 +1,9 @@
 ---
 iso: hnm
 name: Hainanese
+name_zh: 海南闽语
 autonym: 海南話, Hhai3 nam2 ue1, Hái-nâm-oe
+alt_names: [Hainan]
 population: 1100000
 country_id: CN
 country_name: China

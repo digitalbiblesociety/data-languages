@@ -2,6 +2,7 @@
 iso: dmu
 name: Dubu
 autonym: Dubu
+alt_names: [Tebi]
 population: 220
 country_id: ID
 country_name: Indonesia

@@ -1,7 +1,9 @@
 ---
 iso: ksh
 name: Kölsch
+name_zh: 科隆方言
 autonym: " Kölsch Platt"
+alt_names: [Dialek Kölsch, Dialekt koloński, Francique ripuaire -limbourgeois, German, German (Ripuarian), Idioma kölsch, KöIsch, Kölsch dialect, Kölsche Sprochn, Kölsj, Limburgués-ripuarino, Lingua kölsch, Língua kölsch, ケルン語]
 population: 250000
 country_id: DE
 country_name: Germany

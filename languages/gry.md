@@ -2,6 +2,7 @@
 iso: gry
 name: Barclayville Grebo
 autonym: Kréébo
+alt_names: [Grebo, "Grebo, Barclayville", Wedebo Grebo]
 population: 23700
 country_id: LR
 country_name: Liberia

@@ -2,6 +2,7 @@
 iso: kmk
 name: Limos Kalinga
 autonym: null
+alt_names: ["Kalinga, Limos", Limos-Liwan Kalinga, Northern Kalinga]
 population: 12700
 country_id: PH
 country_name: Philippines

@@ -2,6 +2,7 @@
 iso: vrt
 name: Burmbar
 autonym: " Vartavo"
+alt_names: [Banam Bay, Banan Bay, Mallicolo]
 population: 900
 country_id: VU
 country_name: Vanuatu

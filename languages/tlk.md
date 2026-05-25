@@ -2,6 +2,7 @@
 iso: tlk
 name: Taloki
 autonym: Talloki
+alt_names: [Taluki]
 population: 500
 country_id: ID
 country_name: Indonesia

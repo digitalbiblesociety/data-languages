@@ -2,6 +2,7 @@
 iso: ynd
 name: Yandruwandha
 autonym: null
+alt_names: [Biraliba, Biralipa, Endawarra, Gandruwanda, Innamouka, Jandrawanda, Jandruwalda, Jandruwanda, Jandruwanta, Jandruwontha, Jandruwunta, Janduruwanda, Jendru wonta, Jendru-wonta, Jendruwonta, Ngurunta, Thayipilthirringuda, Yanderawantha, Yanderawartha, Yanderwartha, Yandra Wandra, Yandrawontha, Yandrinwantha, Yandruwanda, Yandruwandra, Yandruwanhdha, Yandruwanta, Yandruwonta, Yandruwunta, Yandu wulda, Yandu-wulda, Yanduwulda, Yantowannta, Yantruwanta, Yantruwunta]
 population: null
 country_id: AU
 country_name: Australia

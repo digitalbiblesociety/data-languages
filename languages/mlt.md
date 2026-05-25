@@ -1,7 +1,9 @@
 ---
 iso: mlt
 name: Maltese
+name_zh: 马耳他语
 autonym: Malti
+alt_names: [An Mháltais, Arabic, Bahasa Malta, Basa Malta, Gjuha malteze, Idioma maltés, Język maltański, Kimalta, Limba malteză, Lingua Melitica, Lingua maltesa, Lingua maltese, Lingua maltisa, Lingwa Maltija, Língua maltesa, Malta, Malta dili, Malta keel, Malta lingvo, Malta simi, Malta-gí, Maltaca, Maltais, Maltan kieli, Maltana linguo, Maltańsko godka, Maltašćina, Maltees, Malteesk, Malteg, Maltera, Maltesische Sprache, Maltesisk, Maltesisk språk, Maltesiska, Malteški jezik, Malteščina, Maltiečių kalba, Maltiešu valoda, Maltish, Maltneska, Maltès, Maltés, Maltčina, Maltština, Máltai nyelv, Pinulongang Maltes, Wikang Maltes, bangrmalti, Μαλτεζική γλώσσα, Малтешки јазик, Малтешки језик, Малтийски език, Мальтийский язык, Мальтійська мова, מלטית, زبان مالتی, لغة مالطية, مالتا تىلى, مالطى, ภาษามอลตา, ማልትኛ, マルタ語, 马耳他语, 몰타어]
 population: 533080
 country_id: MT
 country_name: Malta

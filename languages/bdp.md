@@ -2,6 +2,7 @@
 iso: bdp
 name: Bende
 autonym: Bende
+alt_names: [Kibende, "Si'bende", Sibhende]
 population: 27000
 country_id: TZ
 country_name: Tanzania

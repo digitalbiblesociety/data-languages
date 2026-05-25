@@ -2,6 +2,7 @@
 iso: aea
 name: Areba
 autonym: Kurtjar
+alt_names: ["A:rap", Araba, Ariba, Aripa, Ngariba, Rib, Ribh]
 population: null
 country_id: AU
 country_name: Australia

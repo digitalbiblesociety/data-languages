@@ -2,6 +2,7 @@
 iso: brf
 name: Bera
 autonym: Kibira
+alt_names: [Bira, Plains Bira]
 population: 120000
 country_id: CD
 country_name: DR Congo

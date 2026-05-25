@@ -1,7 +1,9 @@
 ---
 iso: xdk
 name: Dharuk
+name_zh: 達拉格語
 autonym: Sydney
+alt_names: [Bedia-mangora, Botany Bay tribe, Broken Bay tribe, Caddiegal, Cam-meray, Camera-gal, Camerray-gal, Cammera, Darrook, Darug, Daruk, Dharrok, Dharrook, Dharruk, Dharug, Dhar’rook, Ea-ora, Eo-ra, Eora, Gouia, Gouia-gul, Gweagal, Iora, Kadigal, Kameraigal, "Kem:arai", Kemmaraigal, Kemmirai-gal, Lyora, Oharruk, Wanuwangul, Yo-ra]
 population: null
 country_id: AU
 country_name: Australia

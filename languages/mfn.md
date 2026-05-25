@@ -2,6 +2,7 @@
 iso: mfn
 name: Cross River Mbembe
 autonym: Ekokoma
+alt_names: [Ifunubwa, "Mbembe, Cross River", Oderiga, Ofunobwam, Okam, Wakande]
 population: 225000
 country_id: NG
 country_name: Nigeria

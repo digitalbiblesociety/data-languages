@@ -2,6 +2,7 @@
 iso: azo
 name: Awing
 autonym: "Mbwe'wi"
+alt_names: [Awi, Bambuluwe]
 population: 19000
 country_id: CM
 country_name: Cameroon

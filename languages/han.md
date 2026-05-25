@@ -1,6 +1,7 @@
 ---
 iso: han
 name: Hangaza
+name_zh: 汉加扎语
 autonym: Kihangaza
 population: 155000
 country_id: TZ

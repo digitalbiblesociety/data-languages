@@ -2,6 +2,7 @@
 iso: aan
 name: Anambé of Cairarí
 autonym: Anambé
+alt_names: [Amanage, Amanajo, Amanajé, Amanayé, Anambe, Guajá, "Ka'apór", Manajo, Manaxo, Manaze, Manazo, Urubú, Urubú-kaapor]
 population: 132
 country_id: BR
 country_name: Brazil

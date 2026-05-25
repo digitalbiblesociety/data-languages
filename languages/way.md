@@ -1,7 +1,9 @@
 ---
 iso: way
 name: Wayana
+name_zh: 瓦亞那語
 autonym: Alukuyana
+alt_names: [Northern Wayana, Oayana, Oayana (Suriname), Oiana, Ouayana, Oyana, Roucouyenne, Uaiana, Upurui, Upuruí, Urukuyana, Wajana, Wayana (Brésil), Wayana (Surinam), Wayâna, Wyandot]
 population: 1740
 country_id: SR
 country_name: Suriname

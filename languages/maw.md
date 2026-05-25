@@ -2,6 +2,7 @@
 iso: maw
 name: Mampruli
 autonym: Mamprusi
+alt_names: [Mampelle, Mamprule, Mamprussi, Manpelle, Ngmamperli, Ŋmampəlli]
 population: 326000
 country_id: GH
 country_name: Ghana

@@ -2,6 +2,7 @@
 iso: ahs
 name: Ashe
 autonym: Tinɔr
+alt_names: [Ache, Ala, Koro, Koro Makama, Koron Ache, Koron Ala]
 population: 40000
 country_id: NG
 country_name: Nigeria

@@ -1,6 +1,7 @@
 ---
 iso: dty
 name: Dotyali
+name_zh: 都特利语
 autonym: Dotyali
 population: 788000
 country_id: NP

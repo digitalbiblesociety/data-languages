@@ -2,6 +2,7 @@
 iso: ruf
 name: Luguru
 autonym: Ikiruguru
+alt_names: [Guru, Kiluguru, Kiruguru, Lugulu, Ruguru]
 population: 404000
 country_id: TZ
 country_name: Tanzania

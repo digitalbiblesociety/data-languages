@@ -2,6 +2,7 @@
 iso: zgr
 name: Magori
 autonym: null
+alt_names: [Yoba]
 population: 100
 country_id: PG
 country_name: Papua New Guinea

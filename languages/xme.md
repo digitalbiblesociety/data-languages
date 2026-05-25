@@ -1,6 +1,7 @@
 ---
 iso: xme
 name: Median
+name_zh: 米底语
 autonym: "Medean, Medic"
 population: null
 country_id: IR

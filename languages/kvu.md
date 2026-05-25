@@ -2,6 +2,7 @@
 iso: kvu
 name: Yinbaw Karen
 autonym: Yeinbaw
+alt_names: ["Karen, Yinbaw", "Karen,Yinbaw", Yinbaw]
 population: 7300
 country_id: MM
 country_name: Myanmar

@@ -1,7 +1,9 @@
 ---
 iso: nci
 name: Classical Nahuatl
+name_zh: 古典纳瓦特尔语
 autonym: Nāhuatlahtōlli
+alt_names: [Classical Aztec, Klassisk nahuatl, Klasyčno godka nahuatl, Lingua nahuatl classica, Nahuatl Chlassicagh, "Nahuatl, Classical", Nawa]
 population: null
 country_id: MX
 country_name: Mexico

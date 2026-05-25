@@ -2,6 +2,7 @@
 iso: ymo
 name: Yangum Mon
 autonym: Aiku
+alt_names: [Malek, Menandon, Minendon, Monanda, Monandu, Umbrak-Aiku]
 population: 730
 country_id: PG
 country_name: Papua New Guinea

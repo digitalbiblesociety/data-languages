@@ -2,6 +2,7 @@
 iso: cbj
 name: Ede Cabe
 autonym: Caabe
+alt_names: [Cabe]
 population: 3750
 country_id: BJ
 country_name: Benin

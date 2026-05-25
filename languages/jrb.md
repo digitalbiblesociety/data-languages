@@ -1,6 +1,7 @@
 ---
 iso: jrb
 name: "Judeo-Arabic"
+name_zh: 猶太-阿拉伯語
 autonym: null
 population: null
 country_id: IL

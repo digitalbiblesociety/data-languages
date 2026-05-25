@@ -2,6 +2,7 @@
 iso: mtu
 name: Tututepec Mixtec
 autonym: (San Pedro Tututepec)
+alt_names: ["Mixtec, Tututepec", Mixteco de San Pedro Tututepec, Southern Misteko, Southern Mixteco]
 population: 1020
 country_id: MX
 country_name: Mexico

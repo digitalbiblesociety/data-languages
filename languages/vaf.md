@@ -2,6 +2,7 @@
 iso: vaf
 name: Vafsi
 autonym: null
+alt_names: [Vafsí]
 population: 18000
 country_id: IR
 country_name: Iran

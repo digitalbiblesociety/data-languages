@@ -2,6 +2,7 @@
 iso: nku
 name: Bouna Kulango
 autonym: Nkuraeng
+alt_names: [Bouna Koulango, Buna Kulango, Koulango, Kulange, Kulango, "Kulango, Bouna", Nkurange]
 population: 29900
 country_id: CI
 country_name: "Côte d'Ivoire"

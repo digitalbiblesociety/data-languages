@@ -1,7 +1,9 @@
 ---
 iso: bix
 name: Bijori
+name_zh: 比尔贾语
 autonym: Bijori
+alt_names: [Binjhia, Birijia, Birjia, Brijia, Burja]
 population: 25000
 country_id: IN
 country_name: India

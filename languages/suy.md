@@ -2,6 +2,7 @@
 iso: suy
 name: Suyá
 autonym: Kĩsêdjê
+alt_names: [Kisêdjê, Suiá, Suya]
 population: 330
 country_id: BR
 country_name: Brazil

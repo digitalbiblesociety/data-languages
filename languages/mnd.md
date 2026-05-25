@@ -2,6 +2,7 @@
 iso: mnd
 name: Mondé
 autonym: Salamãi
+alt_names: [Monde, Mondé-Sanamai, Salamai, Salamaikã, Sanamaica, Sanamaika, Sanamaiká, Sanamaikã, Sanamaykã, Sanamaí]
 population: null
 country_id: BR
 country_name: Brazil

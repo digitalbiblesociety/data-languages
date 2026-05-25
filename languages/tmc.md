@@ -2,6 +2,7 @@
 iso: tmc
 name: Tumak
 autonym: null
+alt_names: [Dije, Sara Toumak, Toumak, Tumac, Tumag, Tummok]
 population: 25200
 country_id: TD
 country_name: Chad

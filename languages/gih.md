@@ -2,6 +2,7 @@
 iso: gih
 name: Githabul
 autonym: Gidabul
+alt_names: [Gidabal, Gidhabal, Gidjoobal, Githebul, Kidabal, Kidjabal, Kita-bool, Kitabool, Kitapul, Kitta-bool, Kittabool, Kuttibul, Noowidal]
 population: null
 country_id: AU
 country_name: Australia

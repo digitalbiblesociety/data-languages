@@ -2,6 +2,7 @@
 iso: cdr
 name: "Cinda-Regi-Tiyal"
 autonym: ‘Yara
+alt_names: [Kamuku]
 population: 45000
 country_id: NG
 country_name: Nigeria

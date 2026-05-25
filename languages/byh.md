@@ -2,6 +2,7 @@
 iso: byh
 name: Bhujel
 autonym: Bujhyal
+alt_names: [Bujal, Bujhel, Chepang, Gharti, Western Chepang]
 population: 3900
 country_id: NP
 country_name: Nepal

@@ -2,6 +2,7 @@
 iso: tuh
 name: Taulil
 autonym: Tulil
+alt_names: [Butam, Neu-Pommern, Taulil-butam]
 population: 800
 country_id: PG
 country_name: Papua New Guinea

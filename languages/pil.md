@@ -2,6 +2,7 @@
 iso: pil
 name: Yom
 autonym: Pila
+alt_names: [Kpilakpila, Pilapila]
 population: 214000
 country_id: BJ
 country_name: Benin

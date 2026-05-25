@@ -2,6 +2,7 @@
 iso: mbe
 name: Molale
 autonym: Molale
+alt_names: [Molala, Molalla, Molele]
 population: null
 country_id: US
 country_name: United States

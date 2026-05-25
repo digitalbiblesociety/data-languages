@@ -1,7 +1,9 @@
 ---
 iso: mup
 name: Malvi
+name_zh: 摩腊婆語
 autonym: Malavi
+alt_names: [Język malwi, Mallow, Malwada, Malwi, Ujjaini, ภาษามัลวี]
 population: 5440000
 country_id: IN
 country_name: India

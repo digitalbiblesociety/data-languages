@@ -2,6 +2,7 @@
 iso: bun
 name: Sherbro
 autonym: Amampa
+alt_names: [Bullom, Bulom, Cherbroeg, Mampa, Mampwa, Shiba, Southern Bullom]
 population: 179000
 country_id: SL
 country_name: Sierra Leone

@@ -2,6 +2,7 @@
 iso: zms
 name: Mbesa
 autonym: Mobesa
+alt_names: [Mombesa]
 population: 8400
 country_id: CD
 country_name: DR Congo

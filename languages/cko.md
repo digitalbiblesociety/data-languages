@@ -2,6 +2,7 @@
 iso: cko
 name: Anufo
 autonym: Anufo
+alt_names: [Chakosi, Chokosi, Chokossi, Kyokosi, Tchokossi, Tiokossi]
 population: 177200
 country_id: GH
 country_name: Ghana

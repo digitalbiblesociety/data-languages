@@ -2,6 +2,7 @@
 iso: thu
 name: Thuri
 autonym: Dhe Thuri
+alt_names: [Jo Thuri, Shatt, Wada Thuri]
 population: 6600
 country_id: SS
 country_name: South Sudan

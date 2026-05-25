@@ -1,7 +1,9 @@
 ---
 iso: bsw
 name: Baiso
+name_zh: 巴伊索語
 autonym: Giddicho
+alt_names: [Alkali, Baiso hizkuntza, Bayso, Gedicho, Gidicho, Lenga Baiso]
 population: 1010
 country_id: ET
 country_name: Ethiopia

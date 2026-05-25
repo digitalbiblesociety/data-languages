@@ -2,6 +2,7 @@
 iso: bya
 name: Batak
 autonym: Palawan Batak
+alt_names: [Babuyan, Bataco, Battak, Tinitianes]
 population: 2041
 country_id: PH
 country_name: Philippines

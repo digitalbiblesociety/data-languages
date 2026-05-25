@@ -2,6 +2,7 @@
 iso: seg
 name: Segeju
 autonym: Kisegeju
+alt_names: [Daiso, Sageju, Sengeju]
 population: 15000
 country_id: TZ
 country_name: Tanzania

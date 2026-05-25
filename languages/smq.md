@@ -2,6 +2,7 @@
 iso: smq
 name: Samo
 autonym: Daba
+alt_names: [Nomad, Supei]
 population: 900
 country_id: PG
 country_name: Papua New Guinea

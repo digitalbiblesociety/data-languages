@@ -2,6 +2,7 @@
 iso: dax
 name: Dayi
 autonym: "Dhay'yi"
+alt_names: [Daii, Dalwango, Dalwongu, Darlwongo, "Dha'i", "Dha'yi", "Dha?i", Dhalwangu, Dhayyi, "Djarlwa:g", Djawark, Taii Tai]
 population: null
 country_id: AU
 country_name: Australia

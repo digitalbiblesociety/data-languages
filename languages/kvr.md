@@ -1,7 +1,9 @@
 ---
 iso: kvr
 name: Kerinci
+name_zh: 葛林芝
 autonym: Baso Kincai
+alt_names: [Kerinchi, Kerintji, Kinchai]
 population: 285000
 country_id: ID
 country_name: Indonesia

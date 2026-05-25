@@ -2,6 +2,7 @@
 iso: cma
 name: Maa
 autonym: Kơho
+alt_names: [Chau-Ma, Chauma, Che Ma, Ma, Ma Krung, Ma Ngan, Ma To, Ma Xop, "Maa'", Maaq]
 population: 41400
 country_id: VN
 country_name: Vietnam

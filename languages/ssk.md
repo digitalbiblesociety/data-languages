@@ -2,6 +2,7 @@
 iso: ssk
 name: Sunam
 autonym: Central Kinnauri
+alt_names: [Kanāwri, Sangnaur, Sungam, Sungnam, Thebarshad, Thebor, Thebör Skadd]
 population: 560
 country_id: IN
 country_name: India

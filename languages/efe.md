@@ -2,6 +2,7 @@
 iso: efe
 name: Efe
 autonym: Efé
+alt_names: [Balese, Lesa, Lesse, Lissi, Mbuti, Walese, Walisi]
 population: 20000
 country_id: CD
 country_name: DR Congo

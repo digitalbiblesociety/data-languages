@@ -1,7 +1,9 @@
 ---
 iso: mro
 name: Mru
+name_zh: 默文
 autonym: Mrung
+alt_names: [Maru, Mro, Mro-Mru, Mroo, Murung, Niopreng, မရူ]
 population: 50200
 country_id: BD
 country_name: Bangladesh
